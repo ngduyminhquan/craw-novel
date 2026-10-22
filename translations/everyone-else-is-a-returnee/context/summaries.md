@@ -294,3 +294,8 @@ Erta cảm nhận sức mạnh thiên thần bị suy giảm nghiêm trọng khi
 Trong khoảnh khắc sinh tử chỉ còn 3 giây, nhóm viện binh kịp thời ập đến: câu thần chú của Na YuNa giải sạch nguyền rủa và hồi sức cho IlHan, trong khi Thánh Kỵ Sĩ Kang HaJin nhận bùa lợi lao vào húc văng quái vật tử thần.
 Cảnh kết thúc: Nhìn thấy 3 con troll lảng vảng nơi chân trời (đúng 3 con còn thiếu để hoàn thành 100/100 chuyển chức Tử Thần Tập Sự), IlHan giao kèo nhờ HaJin chịu đòn cầm cự trong 30 giây rồi nở nụ cười sảng khoái phi thân đi kết liễu nốt lũ troll.
 
+## 48
+Yu IlHan hoàn thành điều kiện tập kích diệt 100 quái vật chuyển chức 2 chỉ trong 20 giây nhờ hạ 3 con troll bị dính ảo thuật của Erta; anh chính thức chuyển chức thành 'Tử Thần Tập Sự', thăng lên cấp 53 và học được kỹ năng bị động 'Thu Thập Tử Vong' giúp hồi phục hoàn toàn thể lực.
+Ở chiến trường, Na YuNa tung đòn đánh thần thánh mang uy lực áp đảo đánh bay quái vật tử thần và làm nó rơi vào trạng thái choáng váng nhưng cạn kiệt toàn bộ sức mạnh, trong khi giáp trụ của Kang HaJin vỡ nát và bản thân bị choáng.
+IlHan kịp thời trở lại, gia nhập tổ đội của Kang HaJin và kích hoạt Quái Lực tung đòn đâm chí mạng kết liễu quái vật tử thần; trước khi chết, con quái vật để lộ giọng nữ trong trẻo nói lời cảm ơn IlHan rồi tan biến thành tro đen, hé lộ thân phận thực sự là Kẻ Phá Vỡ cấp 157 mang tên Reta Kar'iha.
+Cảnh kết thúc: Hầm ngục mở lại lối ra và khôi phục năng lực cho các thiên thần; IlHan thu hoạch một viên ma thạch đen cùng áo choàng và lưỡi hái tử thần, đồng thời mang theo vô vàn mối nghi hoặc chưa lời đáp về dị thường đang diễn ra trên Trái Đất.

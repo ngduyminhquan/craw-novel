@@ -22,6 +22,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | HaJin | Ha Jin; Kang HaJin; Kang Hajin | HaJin | Nam dị năng giả người Hàn (chức nghiệp Thánh Kỵ Sĩ) | 36 |
 | YuNa | Yu Na; Na YuNa | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
+| Reta Kar'iha |  | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 
 ## Chi tiết
 
@@ -71,6 +72,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 45: Tiến hóa kỹ năng Nghỉ Ngơi thành [Siêu Việt Tái Sinh] (kỹ năng độ khó rèn luyện Hạng EX); đạt tiến độ 97/100 quái vật chuyển chức 2 bị tập kích tiêu diệt cho nhiệm vụ 'Tử Thần Tập Sự'; phát hiện hầm ngục có dấu hiệu biến thành 'Thế Giới Bị Bỏ Rơi' (mất lối vào, mất liên lạc Thiên giới); bị giải trừ Ẩn Thân khi lao ra cứu Erta trước đòn tập kích của quái vật tử thần bí ẩn.
 - Trạng thái tính đến chương 46: Dùng võ thuật nghìn năm nhìn thấu đòn đánh và Hắc Thương Tử Thần liên tiếp gây sát thương chí mạng lên quái vật tử thần biến dị; bị rách giáp cánh tay và dính ma pháp Lời Nguyền khi che chắn cho Erta; ở lại một mình quyết tử với trùm trong cơn bão mana sau khi Erta bay đi.
 - Trạng thái tính đến chương 47: Trực diện đọ sức làm quái vật tử thần cạn kiệt mana và đâm vỡ xương ngực nó; chịu hai tầng nguyền rủa làm tê liệt toàn thân và vỡ nát bộ đại khải nhưng dùng ý chí kiên định phá vỡ giam cầm; được nhóm YuNa giải nguyền kịp thời và lập tức lao đi săn 3 con troll cuối cùng để hoàn tất chuyển chức 2.
+- Trạng thái tính đến chương 48: Hoàn thành nhiệm vụ chuyển chức thành 'Tử Thần Tập Sự', tăng vọt lên cấp 55; học được kỹ năng bị động 'Thu Thập Tử Vong' Lv 1; kết liễu Kẻ Phá Vỡ Reta Kar'iha Lv 157 và thu được hơn 31,9 triệu EXP, ma thạch đen, áo choàng và lưỡi hái tử thần.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -132,6 +134,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 43: Cùng Na YuNa tìm săn Bọ Cạp Tử Thần Khổng Lồ lấy nọc độc; nhận bùa lợi tăng sức mạnh từ Na YuNa xông lên chặn đánh bọ cạp thì bất ngờ bị quái vật troll khổng lồ vung chùy kim loại tập kích.
 - Trạng thái tính đến chương 44: Dùng kỹ năng Truy Kích phối hợp cùng IlHan tiêu diệt Bọ Cạp Tử Thần Khổng Lồ Lv 95 và nhận túi nọc độc hoàn thành mục tiêu; đại diện clan tinh nhuệ ngỏ lời mời IlHan gia nhập nhưng bị từ chối.
 - Trạng thái tính đến chương 47: Lộ chức nghiệp Thánh Kỵ Sĩ; bị mắc kẹt trong hầm ngục do Cuộn Trục Đào Tẩu bị vô hiệu hóa; được Erta dẫn đến chi viện cho Yu IlHan; cùng Na YuNa hợp lực húc văng quái vật tử thần và nhận lời cầm cự chịu đòn một mình trong 30 giây.
+- Trạng thái tính đến chương 48: Nhận bùa lợi của Na YuNa liều mạng chống đỡ quái vật tử thần để câu giờ cho IlHan đến khi vỡ nát giáp trụ; lập tổ đội với IlHan và lên cấp khi quái vật tử thần bị tiêu diệt; tiết lộ từng có 10 năm sinh tồn ở Tháp Địa Ngục.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -147,3 +150,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
 - Tính cách: Vui vẻ, hòa đồng, hay cười; rất nhiệt tình vun vén cho Na YuNa, đánh giá cao năng lực của Yu IlHan.
+
+### Reta Kar'iha
+- Giới tính, vai trò: Nữ giới (chủng tộc thông tuệ chưa rõ: con người, elf...), Kẻ Phá Vỡ (Breaker) cấp 157 bị tha hóa thành quái vật tử thần trong hầm ngục Grand Canyon.
+- Ngoại hình / giọng nói: Mang hình tượng tử thần trùm áo đen cầm lưỡi hái chiến đấu, nhưng sở hữu giọng nữ trong trẻo, dịu dàng.
+- Trạng thái tính đến chương 48: Được Yu IlHan giải thoát khỏi sự tha hóa bằng nhát thương chí mạng; trước khi tan biến thành tro đen đã mỉm cười cảm ơn IlHan và để lại ma thạch đen, áo choàng cùng lưỡi hái tử thần.

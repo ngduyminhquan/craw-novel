@@ -52,7 +52,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | reviewed |  |
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | done |  |
 | 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | done |  |
-| 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | todo |  |
+| 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | done |  |
 | 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | todo |  |
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | todo |  |
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -525,3 +526,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#45 đoạn 119] Cách đáp của Erta với Yu IlHan → Chấp nhận, đổi thành [Phải. Đáng lẽ phải là thế.]. (orchestrator)
 - [#47] Chức nghiệp "Holy Knight" của Kang HaJin — Tạm chọn: "Thánh Kỵ Sĩ" (chuẩn Hán Việt ngắn gọn theo rules.md). Phương án khác: "Hiệp Sĩ Thánh", "Kỵ Sĩ Thần Thánh". Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Chốt Thánh Kỵ Sĩ. (orchestrator)
 - [#47] Vật phẩm "Escape Scroll" — Tạm chọn: "Cuộn Trục Đào Tẩu" (thuật ngữ game RPG quen thuộc). Phương án khác: "Cuộn Giấy Đào Tẩu", "Cuộn Đào Tẩu". Tạm dùng trong bản dịch: "Cuộn Trục Đào Tẩu". → Chốt Cuộn Trục Đào Tẩu. (orchestrator)
+- [#48] Kỹ năng bị động "Death Collector" của Yu IlHan — Tạm chọn: "Thu Thập Tử Vong" (chuẩn Hán Việt ngắn gọn theo rules.md, thể hiện kỹ năng thu thập sinh lực từ kẻ bị giết). Phương án khác: "Kẻ Thu Thập Cái Chết", "Thu Thập Tử Thần". Tạm dùng trong bản dịch: "Thu Thập Tử Vong". → Chốt Thu Thập Tử Vong. (orchestrator)
+- [#48] Khái niệm "Breaker" / "Breakers" — Tạm chọn: "Kẻ Phá Vỡ" (chỉ những cá thể nuốt ma thạch bị mana quái vật chiếm đoạt thể xác, khi chết hóa thành tro đen; khớp với phong cách gọi 'Kẻ Hành Quyết', 'Kẻ Cô Độc'). Phương án khác: "Kẻ Phá Giới", "Phá Giới Giả". Tạm dùng trong bản dịch: "Kẻ Phá Vỡ". → Chốt Kẻ Phá Vỡ. (orchestrator)
+- [#48] Địa danh "Hell Tower" — Tạm chọn: "Tháp Địa Ngục" (nơi Kang HaJin từng chuyển sinh 10 năm). Phương án khác: giữ nguyên "Hell Tower". Tạm dùng trong bản dịch: "Tháp Địa Ngục". → Chốt Tháp Địa Ngục. (orchestrator)
+- [#48] Tên nhân vật "Reta Kar'iha" — Giữ nguyên "Reta Kar'iha" theo quy tắc tên phương Tây / sinh linh dị giới trong rules.md. → Chốt giữ nguyên Reta Kar'iha. (orchestrator)

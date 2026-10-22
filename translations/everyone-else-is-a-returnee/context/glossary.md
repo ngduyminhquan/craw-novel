@@ -255,3 +255,6 @@
 | physical abilities |  | năng lực thể chất | hệ thống | 43 | Năng lực thể chất tổng thể trong các bảng mô tả kỹ năng/buff hệ thống |
 | Holy Knight | holy knight | Thánh Kỵ Sĩ | chức nghiệp | 47 | Chức nghiệp của Kang HaJin |
 | Escape Scroll | escape scroll | Cuộn Trục Đào Tẩu | vật phẩm | 47 | Cuộn trục dịch chuyển ma pháp giúp rời khỏi hầm ngục |
+| Death Collector |  | Thu Thập Tử Vong | kỹ năng | 48 | Kỹ năng bị động của Tử Thần Tập Sự, thu thập và tích trữ sinh lực của những kẻ bị tiêu diệt |
+| Breaker | Breakers | Kẻ Phá Vỡ | khác | 48 | Những kẻ nuốt ma thạch rồi bị mana quái vật nuốt chửng/thao túng thể xác, khi chết hóa thành tro đen |
+| Hell Tower |  | Tháp Địa Ngục | địa danh | 48 | Thế giới khác nơi Kang HaJin từng chuyển sinh và chiến đấu suốt 10 năm |
