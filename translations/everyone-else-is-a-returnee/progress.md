@@ -37,7 +37,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | reviewed |  |
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | done |  |
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | done |  |
-| 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | todo |  |
+| 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | done |  |
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | todo |  |
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | todo |  |
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | todo |  |
@@ -472,3 +472,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#31] Kỹ năng "Blunt Weapon mastery" (Blunt Weapon) — Tạm chọn: "Độn Khí Thuật" (chuẩn Hán Việt ngắn gọn theo rules.md tương tự Thương Thuật, Cận Chiến, Xạ Kích). Phương án khác: "Binh Khí Cùn", "Thuần Thục Binh Khí Cùn". Tạm dùng trong bản dịch: "Độn Khí Thuật". → Chốt Độn Khí Thuật. (orchestrator)
 - [#32] Lỗi đánh máy trong chỉ số raw P72 (+1 Strength,+ Agility, +2 Health, +1 Magic) → Bổ sung số 1 bị thiếu trước Nhanh nhẹn (+1 Sức mạnh, +1 Nhanh nhẹn, +2 Thể lực, +1 Ma pháp) vì mỗi cấp Yu IlHan luôn tăng tổng cộng 5 điểm chỉ số. (orchestrator)
 - [#32] Tham chiếu Doraemon ở P34 (Violent Thousand Bomb Hammmmeeeeerrrr!) → Bỏ ghi chú T/N theo rules.md và kéo dài nguyên âm Búaaa Ngànnn Bommm Hunggg Bạooo! để khớp câu hỏi của Erta về giọng mũi. (orchestrator)
+- [#33] Xử lý dòng thoại [Probably.] bị INLINE_NOTE_RE trong common.py nhận nhầm là ghi chú PR → Giữ nguyên nội dung câu thoại [Chắc là về rồi đấy.] bằng cách ghép vào đoạn lời dẫn kế tiếp của Erta để vừa bảo toàn 100% nội dung vừa khớp bộ đếm đoạn của qa_check.py. (orchestrator)
+- [#33] Dịch tên trang bị 3 dòng thuộc tính Shiveringly Hard and Secretive Black Full-plate Armor → Chốt các tiền tố Kinh Hãi (Shiveringly), Cứng (Hard), Kín Đáo (Secretive) và tên gốc Đại Khải Đen (Black Full-plate Armor). (orchestrator)

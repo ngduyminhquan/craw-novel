@@ -199,6 +199,13 @@ Yu IlHan một đòn đập tan Đại Thiết Tâm Lv 74 bằng Súng Bắn C�
 Erta dùng Quyền Hạn Thiên Thần kiểm tra Bẫy Hủy Diệt lõi hầm ngục và nhận thấy niên đại của bẫy lâu đời bất thường, khiến IlHan linh cảm sắp có tai họa lớn bùng nổ; sau hai tuần dọn sạch hầm ngục, IlHan cùng các thiên thần chế tạo thêm 8 Bẫy Hủy Diệt.
 Cảnh kết thúc: Yu IlHan hoàn thành việc hỗ trợ thiên giới khi toàn bộ Bẫy Hủy Diệt chính thức được thiết lập xong trên Trái Đất.
 
+## 33
+Hơn 30 Bẫy Hủy Diệt kích hoạt giúp Trái Đất ổn định và người trở về gia tăng; Yu IlHan thức trắng đêm dùng tim quái vật Thiết Tâm và Đại Thiết Tâm (Kim Loại Lõi) rèn thành công bộ Đại Khải Đen, thương kim loại, đại kiếm, chiến búa và 100 viên đạn Súng Bắn Cọc trước khi thiên thần thu hồi dụng cụ rèn; anh đem toàn bộ vũ khí cũ và thương thép cho Ngọn Lửa Vĩnh Cửu nuốt trọn để thăng cấp lửa.
+Trở về nhà, IlHan xúc động ăn bữa cơm mẹ nấu sau bao ngày gặm thịt khô, tặng bố mẹ hai chiếc áo giáp phòng hộ làm từ tim Đại Thiết Tâm; nghe bố kể chuyện chật vật lên chức nghiệp lần 1 và vội vã đi làm trong đêm để không bị xã hội đào thải.
+IlHan quyết định từ bỏ đại học để tập trung chuyển chức lần 2 và tiến về phía trước; mẹ anh nhiệt tình tán thành nhưng lại nhăm nhe chiếc Túi Đeo Chéo để đi chợ.
+Cảnh kết thúc: Yu IlHan trở lại xưởng kiểm tra bộ 'Đại Khải Đen' và bàng hoàng cùng Erta nhận ra trang bị bất ngờ mở khóa tới 3 dòng thuộc tính cùng lúc ('Kinh Hãi', 'Cứng' và 'Kín Đáo').
+
+
 
 
 

@@ -188,3 +188,9 @@
 | King Metal Heart | King Metal Hearts | Thiết Tâm Vương | quái vật | 32 | Dạng tiến hóa cuối cùng của Thiết Tâm, quái vật chuyển chức lần 4 sở hữu kim loại siêu bền |
 | Angel's Authority |  | Quyền Hạn Thiên Thần | hệ thống | 32 | Thẩm quyền/năng lực của thiên thần dùng để can thiệp hoặc kiểm tra Bẫy Hủy Diệt |
 | Doraemon |  | Doraemon | khác | 32 | Bộ manga/anime kinh điển của Nhật Bản, được IlHan bắt chước cách ngân dài giọng khi hô tên bảo bối |
+| Cross Bag | cross bag | Túi Đeo Chéo | vật phẩm | 30 | Túi da đeo chéo chứa ma pháp mở rộng không gian và giảm trọng lượng do Erta trao thưởng |
+| Core Metal | Core Metals | Kim Loại Lõi | vật phẩm | 33 | Kim loại thu hoạch từ quái vật (như Thiết Tâm), khi chế tác mana tốn ít mana hơn |
+| Asia |  | Châu Á | địa danh | 33 | Châu lục trên Trái Đất |
+| Black Full-plate Armor |  | Đại Khải Đen | vật phẩm | 33 | Bộ giáp kim loại toàn thân màu đen do Yu IlHan chế tạo từ tim Đại Thiết Tâm |
+| Shiveringly | Shivering | Kinh Hãi | hệ thống | 33 | Tiền tố dòng thuộc tính tạo tác khiến đối phương rùng mình khiếp sợ |
+| Hard |  | Cứng | hệ thống | 19 | Tiền tố dòng thuộc tính tạo tác tăng độ cứng cáp |

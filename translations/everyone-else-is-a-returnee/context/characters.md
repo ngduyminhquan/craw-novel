@@ -53,6 +53,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 30: Nâng Chế Tác Mana lên cấp 24 sau hơn một tháng rèn Bẫy Hủy Diệt; nhận phần thưởng sớm là thông tin hầm ngục kim loại mới và một túi da đeo chéo có ma pháp mở rộng không gian; được Erta dỡ bỏ giới hạn cấp độ để tiến vào hầm ngục Lv 50 săn quái vật ngoại lai lấy tim.
 - Trạng thái tính đến chương 31: Đạt cấp độ 38; nâng kỹ năng Chí Mạng lên Lv 4; thức tỉnh kỹ năng Độn Khí Thuật ở Lv Max; chế tạo thêm vũ khí búa rìu 'Chiến Búa Nghiền Nát Nặng' (Phẩm cấp Hiếm) từ xương Báo Bóng Tối; lần đầu tiên tiến vào hầm ngục và sử dụng Súng Bắn Cọc đối đầu Đại Thiết Tâm Lv 71.
 - Trạng thái tính đến chương 32: Đạt cấp độ 40 sau khi dọn sạch hầm ngục quái vật Thiết Tâm; chế tạo thành công vũ khí 'Búa Ngàn Bom Hung Bạo' (Phẩm cấp Độc Nhất, Sức tấn công 1.974, tăng 30% lực phân tán bom mảnh) tích hợp hộp đạn mảnh xương tự nạp; cùng các thiên thần hoàn thành toàn bộ công việc chế tạo và thiết lập Bẫy Hủy Diệt trên khắp Trái Đất.
+- Trạng thái tính đến chương 33: Dùng tim Thiết Tâm và Đại Thiết Tâm (Kim Loại Lõi) chế tạo thành công Đại Khải Đen, thương kim loại, đại kiếm, chiến búa và gần 100 viên đạn cọc xương trước khi thiên thần thu hồi dụng cụ rèn; đem toàn bộ vũ khí cũ và thương thép cho Ngọn Lửa Vĩnh Cửu nuốt trọn để thăng cấp lửa; tặng bố mẹ hai áo giáp phòng hộ mỏng làm từ tim Đại Thiết Tâm; quyết định từ bỏ đại học để tập trung chuyển chức lần 2; rèn ra trang bị phá vỡ tiền lệ mở khóa tới 3 dòng thuộc tính cùng lúc.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -82,10 +83,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thận trọng, thực tế, kinh ngạc trước thực lực dị thường của Yu IlHan.
 
 ### Kim YeSeul
-- Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái. Bị chuyển đến thế giới Ya-umin trong 10 năm.
+- Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái. Bị chuyển đến thế giới Ya-umin trong 10 năm; trở về bình an với phần thưởng nhiệm vụ toàn nguyên liệu nấu ăn ngon lành; ủng hộ IlHan bỏ học đại học để theo đuổi con đường riêng nhưng mê mẩn chiếc Túi Đeo Chéo của con trai vì tiện đi chợ.
 
 ### Yu YongHan
-- Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm.
+- Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.
 
 ### Han YeoRang
 - Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
