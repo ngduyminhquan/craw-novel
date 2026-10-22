@@ -27,6 +27,7 @@
 | Ara ara | Ái chà / Ôi chao | Giọng trêu chọc nữ tính của Lita |
 | Teehee | Hihi / He he | Cười trừ, cười ngượng |
 | What the fuck / What the hell | Cái quái gì thế này / Chết tiệt | Tiếng chửi thề thường gặp của IlHan |
+| Kek | Khặc | Tiếng cười khẩy, cảm thán ngạc nhiên theo văn hóa mạng/game |
 
 ## Đặc điểm ghi nhận theo chương
 

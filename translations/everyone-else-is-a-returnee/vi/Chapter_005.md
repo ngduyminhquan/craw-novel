@@ -56,7 +56,7 @@ Ngay khoảnh khắc thiên thần tội nghiệp Lita quay trở về, Yu IlHan
 
 Vượt lên trên mọi thứ anh từng trải nghiệm suốt những năm tháng dài đằng đẵng, cảm giác bay lượn vừa rồi chắc chắn là điều thú vị nhất. Chẳng phải đó là bằng chứng rõ ràng cho thấy chuỗi ngày tẻ nhạt đã chấm dứt rồi hay sao? Tự nhủ rằng sau khi học được mana mình nhất định sẽ tự bay lên, anh ngẩng đầu lên.
 
-Và trông thấy Lita đang thăng hoa dần lên bầu trời.
+Và trông thấy Lita đang bay vút lên bầu trời.
 
 "A."
 
@@ -64,7 +64,7 @@ Yu IlHan buột miệng thốt lên. Nghĩ đến chuyện cô rời đi mà kh�
 
 Nhưng điều đó cũng chẳng hề gì. Dù thế nào đi nữa, Lita kề cận bên anh vẫn là một sự tồn tại tốt bụng, xinh đẹp và là người đã xoa dịu nỗi cô đơn trong lòng anh. Khi nghĩ đến việc từ nay về sau sẽ không còn được gặp lại cô nữa, anh cảm thấy cõi lòng mình trống trải khôn nguôi.
 
-Ban đầu, chuyện này vốn là lẽ dĩ nhiên. Anh cứ ngỡ việc ở bên cô là điều hiển nhiên bởi họ đã đồng hành cùng nhau suốt một thời gian dài, nhưng một thiên thần như Lita tiếp xúc với một kẻ bình phàm như Yu IlHan, ngay từ đầu, đã là trường hợp hiếm hoi tột cùng.
+Vốn dĩ, chuyện này mới là lẽ bình thường. Anh cứ ngỡ việc ở bên cô là điều hiển nhiên bởi họ đã đồng hành cùng nhau suốt một thời gian dài, nhưng một thiên thần như Lita tiếp xúc với một kẻ bình phàm như Yu IlHan, ngay từ đầu, đã là trường hợp hiếm hoi tột cùng.
 
 Một sự tồn tại dù ở chung trong một không gian cũng chẳng bao giờ có thể chạm tới... Chẳng phải chính Lita đã tự xưng mình là một thực thể cấp cao đó sao?
 
@@ -92,7 +92,7 @@ Anh thậm chí chẳng cần phải suy nghĩ làm gì. Đây chính là mana. 
 
 'Chà, chắc mình cũng làm được thôi.'
 
-Anh đã khác xa với bản thân trong quá khứ — một cậu sinh viên năm nhất ngây ngô non nớt. Không, ừ thì, cả hai người họ đều đang đứng chung ở một điểm trên trục thời gian, nhưng chẳng phải anh đang nắm trong tay lịch sử của biết bao năm tháng khổ luyện cùng vô vàn thành tựu đó sao?
+Anh đã khác xa với bản thân trong quá khứ — một cậu sinh viên năm nhất ngây ngô non nớt. Không, ừ thì, cả hai bản thể đều cùng ở một thời điểm trên trục thời gian, nhưng chẳng phải anh đang nắm trong tay bề dày thành tựu của biết bao năm tháng khổ luyện đó sao?
 
 Anh mở mắt ra. Vô số bóng người chen chúc làm chật ních cả khuôn viên trường. Trên mặt họ hiện rõ nét kinh ngạc, nhưng cũng đầy căng thẳng như thể đã ngóng đợi giây phút này từ lâu.
 
@@ -106,7 +106,7 @@ Mọi người. Thật sự có rất nhiều người. Vì quá đỗi vui sư�
 
 "Này, ở đây tôi cũng mở được bảng chỉ số này!"
 
-"Kẹc, mọi thứ thật sự bị thiết lập lại hết rồi!"
+"Khặc, mọi thứ thật sự bị thiết lập lại hết rồi!"
 
 Những tiếng la hét và cảm thán vang lên khắp chốn. Chính vào thời khắc này, Yu IlHan cảm thấy có điều gì đó không đúng.
 

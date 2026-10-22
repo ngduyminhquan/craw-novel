@@ -48,3 +48,6 @@
 | Passive skill | Passive Skills | Kỹ năng bị động | hệ thống | 5 | Kỹ năng tự động có hiệu lực |
 | Earthling | Earthlings | Cư dân Trái Đất | khác | 5 | Cách gọi người Trái Đất |
 | Phantom Sixth Man |  | Cầu thủ thứ sáu bóng ma | khác | 5 | Cách nói ví von kẻ có độ hiện diện cực thấp |
+| Unidentifiable |  | Không thể xác định | hệ thống | 5 | Trạng thái kỹ năng bị động của IlHan do khổ luyện trước khi Akashic Records tiếp xúc Trái Đất |
+| Evolvable |  | Có thể tiến hóa | hệ thống | 5 | Trạng thái kỹ năng có thể thăng cấp khi có nguyên liệu |
+| Skill evolution materials |  | Nguyên liệu tiến hóa kỹ năng | hệ thống | 5 | Vật phẩm cần thiết để tiến hóa kỹ năng |

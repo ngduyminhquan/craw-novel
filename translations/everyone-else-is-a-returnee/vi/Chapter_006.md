@@ -180,7 +180,7 @@ Những mô tả về cấp độ và quái vật cũng bát nháo không kém, 
 
 Trước tiên, anh tổng hợp lại các thông tin về cấp độ.
 
-Dưới cấp 5 là thường dân bình thường. Tiêu chuẩn tuyển chọn binh lính ở phần lớn các thế giới khác là cấp 7, và khi đạt đến cấp 10, người ta có thể nhận các chức nghiệp như kiếm sĩ, xạ thủ hay những chức nghiệp khác, đồng thời có thể nghĩ tới chuyện làm đội trưởng của một đội mười người.
+Từ cấp 5 trở xuống là thường dân bình thường. Tiêu chuẩn tuyển chọn binh lính ở phần lớn các thế giới khác là cấp 7, và khi đạt đến cấp 10, người ta có thể nhận các chức nghiệp như kiếm sĩ, xạ thủ hay những chức nghiệp khác, đồng thời có thể nghĩ tới chuyện làm đội trưởng của một đội mười người.
 
 Khi đạt cấp 50, chức nghiệp sẽ tiến hóa. Đó là một dạng Chuyển chức lần 2. Có vẻ như ranh giới giữa kẻ mạnh và kẻ yếu được phân định bởi cột mốc này, nên việc chuyển chức không phải ai muốn cũng làm được, mà phải vượt qua những điều kiện khắt khe để thấu hiểu Hồ Sơ Akashic sâu sắc hơn.
 

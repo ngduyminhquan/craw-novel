@@ -64,7 +64,7 @@ Theo lời Lita kể, có một số loài quái vật sở hữu những bộ p
 
 [Bình thường khi quái vật xuất hiện trên thế giới, người ta chỉ nghĩ đến việc bỏ chạy đầu tiên thôi.]
 
-"Rốt cuộc là ai đã bắt họ phải chuẩn bị chiến đấu mà giờ cô lại nói mấy lời vô nghĩa đó chứ? Dù sao thì, giờ tôi đã thuần thục việc Giải Phẫu rồi, tôi sẽ học Rèn Đúc."
+"Rốt cuộc là ai bảo người ta phải chuẩn bị chiến đấu mà giờ cô lại nói mấy lời vô nghĩa đó chứ? Dù sao thì, giờ tôi đã thuần thục việc Giải Phẫu rồi, tôi sẽ học Rèn Đúc."
 
 [Phải rồi, cậu cứ làm hết đi, làm hếếết mọi thứ luôn đi.]
 
@@ -86,7 +86,7 @@ Yu IlHan gằn từng chữ mỗi khi nện búa xuống miếng kim loại trê
 
 Anh đã mất không dưới 5 năm trời chỉ để quen với việc sử dụng lò nung, chiết xuất các loại kim loại như sắt, thụt ống bễ, và rèn ra được một thanh kiếm có thể tạm coi là 'có lưỡi sắc'.
 
-Lita đón lấy tác phẩm đầu tay của Yu IlHan — một món vũ khí chẳng phải trường kiếm mà cũng chẳng phải đoản kiếm, lơ lửng ở khoảng giữa — khẽ nhắm mắt lại rồi ngắm nghía thanh kiếm trước khi đưa ra nhận xét chân thực nhất.
+Lita đón lấy tác phẩm đầu tay của Yu IlHan — một món vũ khí chẳng phải trường kiếm mà cũng chẳng phải đoản kiếm, lơ lửng ở khoảng giữa — khẽ nhắm mắt một lát rồi nhìn vào thanh kiếm trước khi đưa ra nhận xét chân thực nhất.
 
 [Ta tự hỏi liệu thứ này có cắt nổi một củ cải không nữa.]
 
