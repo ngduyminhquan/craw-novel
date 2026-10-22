@@ -21,6 +21,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Shiota | Shiuta | Shiota | Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt cùng nhóm Erta | 30 |
 | HaJin | Ha Jin | HaJin | Nam dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | YuNa | Yu Na; Na YuNa | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
+| Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 
 ## Chi tiết
 
@@ -60,6 +61,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 35: Nhận nhiệm vụ giải quyết Hiện Tượng Tràn từ thiên giới; sử dụng vũ khí mới Hắc Thương Tử Thần (Phẩm cấp Độc Nhất, Sức tấn công 2.400, tăng 30% tỷ lệ và sát thương chí mạng khi tấn công bất ngờ) phối hợp Đại Khải Đen nhất kích tất sát Thằn Lằn Lửa Lv 62; thử nghiệm thành công khả năng miễn nhiễm hỏa lực từ quái vật chuyển chức 2 của bộ giáp; bắt đầu càn quét Hiện Tượng Tràn tại sân bay Los Angeles.
 - Trạng thái tính đến chương 36: Đạt cấp độ 45; nâng cấp Súng Bắn Cọc bằng Thiết Tâm thành 'Súng Bắn Cọc Thiểm Quang Cuồng Loạn' (Phẩm cấp Độc Nhất, Sức tấn công cấp 1–4 từ 1.400 đến 4.500, tăng 20% tốc độ nạp/tốc độ tấn công và 20% sức tấn công); tận dụng phản lực phát nổ của khối đá để áp sát và bắn thẳng cọc xuyên đầu thủ lĩnh Thằn Lằn Lửa tại Hiện Tượng Tràn Los Angeles.
 - Trạng thái tính đến chương 37: Thức tỉnh kỹ năng Kiếm Thuật ở Lv Max; sử dụng vũ khí Hắc Đại Kiếm Cự Nhân Vô Tri (Phẩm cấp Độc Nhất, Sức tấn công 2.300, tăng 50% trọng lượng và 20% sức mạnh) kết hợp sức mạnh thể chất áp đảo quái hộ vệ; một mình hạ gục Thằn Lằn Lửa Tinh Anh Lv 78 và thủ lĩnh Thằn Lằn Lửa Pháp Sư Lv 97, giải quyết triệt để thảm họa Hiện Tượng Tràn đầu tiên tại sân bay Los Angeles.
+- Trạng thái tính đến chương 38: Hoàn thành Nhiệm Vụ Thiên Giới 003 (toàn bộ chỉ số tăng 2 điểm); Túi Đeo Chéo được nhóm thiên thần Chế Tác Mana nâng cấp tính năng tự do kiểm soát trọng lượng; học được kỹ năng [Quái Lực] trích xuất từ ghi chép quái vật giúp cường hóa cơ bắp vượt giới hạn mà không cần mana; tiếp tục lẻn lên máy bay đi Arizona săn troll.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -118,3 +120,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
 - Tính cách: Hoạt bát, dễ phấn khích trước những món trang bị ngầu và đẹp mắt.
+- Trạng thái tính đến chương 38: Tiết lộ thân phận là nữ tư tế được Nữ Thần Sắc Đẹp ban phước, có thiên thần Feyta làm người bảo hộ; cùng HaJin lên máy bay tới bang Arizona.
+
+### Feyta
+- Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
+- Tính cách: Vui vẻ, hòa đồng, hay cười; rất nhiệt tình vun vén cho Na YuNa, đánh giá cao năng lực của Yu IlHan.

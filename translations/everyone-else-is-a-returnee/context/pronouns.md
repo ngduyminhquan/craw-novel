@@ -22,6 +22,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Shiota | Shiota | 30 | Thiên thần hỗ trợ Erta |
 | HaJin | cậu / HaJin | 36 | Nam dị năng giả người Hàn tại sân bay LA |
 | YuNa | cô / YuNa | 36 | Nữ dị năng giả người Hàn tại sân bay LA |
+| Feyta | cô / Feyta | 38 | Thiên thần hộ mệnh của Na YuNa |
 
 ## Giữa các nhân vật
 
@@ -59,3 +60,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Shiota | Erta | tôi | Erta / cô | 30 | Đồng nghiệp thiên thần |
 | HaJin | YuNa | tôi | cô / YuNa | 36 | Đồng đội cùng nhóm dị năng giả |
 | YuNa | HaJin | tôi | anh / HaJin | 36 | Đồng đội cùng nhóm dị năng giả |
+| Yu IlHan | Feyta | tôi | cô | 38 | IlHan đối thoại với Feyta |
+| Feyta | Yu IlHan | tôi | cậu / Kẻ Hành Quyết | 38 | Thiên thần hộ mệnh thân thiện đối thoại với IlHan |
+| Erta | Feyta | tôi | cô / Feyta | 38 | Đồng nghiệp thiên thần |
+| Feyta | Erta | tôi | Erta | 38 | Đồng nghiệp thiên thần |

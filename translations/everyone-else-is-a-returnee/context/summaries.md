@@ -231,12 +231,9 @@ Sau khi thu xác trùm vào Túi Đeo Chéo và dùng đại kiếm làm xe trư
 Được Erta dùng "GPS Thiên Thần" chỉ điểm vị trí bầy quái lẩn trốn, IlHan cùng mọi người diệt sạch tàn dư Thằn Lằn Lửa và kết thúc hoàn mỹ Hiện Tượng Tràn tại Los Angeles.
 Cảnh kết thúc: Tự tin nắm chắc vị trí số một trên bảng xếp hạng nhiệm vụ thiên giới, Yu IlHan bước về phía sân bay trong khi mặt đất lún dần vì sức nặng khổng lồ của xác quái trong Túi Đeo Chéo.
 
-
-
-
-
-
-
-
-
-
+## 38
+Yu IlHan hoàn thành Nhiệm Vụ Thiên Giới 003, tăng 2 điểm toàn bộ chỉ số và giành vị trí số một; Erta triệu tập nhóm thiên thần cùng Chế Tác Mana nâng cấp Túi Đeo Chéo giúp anh tự do kiểm soát trọng lượng không làm sụt lún mặt đất.
+Thiên thần hộ mệnh Feyta tiết lộ thân phận người bảo hộ của Na YuNa (nữ tư tế được Nữ Thần Sắc Đẹp ban phước) và nhờ IlHan giúp đỡ cô bé; Erta lập tức can thiệp bảo vệ thông tin cá nhân của IlHan rồi đuổi khéo các thiên thần về trời.
+Nhờ chiến tích áp đảo, IlHan nhận phần thưởng kỹ năng [Quái Lực] (cường hóa cơ bắp phát huy sức mạnh vượt giới hạn mà không cần mana) trích xuất từ ghi chép quái vật sau Hiện Tượng Tràn.
+IlHan lẻn lên chuyến bay đi Arizona để săn troll tại hầm ngục, thở phào nhẹ nhõm sau khi dốc sức giải quyết Hiện Tượng Tràn.
+Cảnh kết thúc: Niềm hào hứng chuẩn bị săn troll của Yu IlHan vụt tắt ngấm khi phát hiện cặp đôi Na YuNa và HaJin cũng đang ngồi trên cùng chuyến bay hướng tới Arizona.

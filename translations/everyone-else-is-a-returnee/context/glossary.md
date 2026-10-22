@@ -98,7 +98,7 @@
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
-| Heavenly Quest |  | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
+| Heavenly Quest | Heaven Quest | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
 | Republic of Korea | Korea | Hàn Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
@@ -218,3 +218,6 @@
 | Elite Flame Lizard |  | Thằn Lằn Lửa Tinh Anh | quái vật | 37 | Biến thể tinh anh cấp 78 của Thằn Lằn Lửa |
 | Flame Lizard Wizard |  | Thằn Lằn Lửa Pháp Sư | quái vật | 37 | Thủ lĩnh biến dị cấp 97 của Thằn Lằn Lửa tại sân bay Los Angeles |
 | Angel GPS |  | GPS Thiên Thần | khác | 37 | Cách nói ví von việc Erta chỉ điểm vị trí quái vật cho Yu IlHan |
+| Superhuman Strength |  | Quái Lực | kỹ năng | 38 | Kỹ năng cường hóa cơ bắp phát huy sức mạnh vượt giới hạn, nhận từ phần thưởng Nhiệm Vụ Thiên Giới 003 |
+| Goddess of Beauty |  | Nữ Thần Sắc Đẹp | khác | 38 | Vị thần ban phước lành cho Na YuNa |
+| Grand Canyon |  | Grand Canyon | địa danh | 38 | Hẻm núi lớn nổi tiếng ở bang Arizona, Mỹ |

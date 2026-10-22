@@ -42,7 +42,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | reviewed |  |
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | reviewed |  |
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | done |  |
-| 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | todo |  |
+| 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | done |  |
 | 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | todo |  |
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | todo |  |
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -496,3 +497,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#37] Quái vật thủ lĩnh "Flame Lizard Wizard" (Lv 97) — Tạm chọn: "Thằn Lằn Lửa Pháp Sư". Phương án khác: "Pháp Sư Thằn Lằn Lửa", "Thằn Lằn Lửa Ma Pháp Sư". Tạm dùng trong bản dịch: "Thằn Lằn Lửa Pháp Sư". → Chốt Thằn Lằn Lửa Pháp Sư cho Flame Lizard Wizard. (orchestrator)
 - [#37] Quái vật hộ vệ "Elite Flame Lizard" (Lv 78) — Tạm chọn: "Thằn Lằn Lửa Tinh Anh". Phương án khác: "Thằn Lằn Lửa Tinh Nhuệ". Tạm dùng trong bản dịch: "Thằn Lằn Lửa Tinh Anh". → Chốt Thằn Lằn Lửa Tinh Anh cho Elite Flame Lizard. (orchestrator)
 - [#37] Cách nói ví von "Angel GPS" — Tạm chọn: "GPS Thiên Thần" (Erta chỉ điểm tọa độ quái vật cho IlHan). Tạm dùng trong bản dịch: "GPS Thiên Thần". → Chốt GPS Thiên Thần cho Angel GPS. (orchestrator)
+- [#38] Kỹ năng "Superhuman Strength" — Tạm chọn: "Quái Lực" (chuẩn Hán Việt ngắn gọn theo rules.md, giải thích hợp lý chi tiết IlHan phàn nàn "đây đâu phải thứ con người học được" và gốc tiếng Hàn 괴력 / 怪力). Phương án khác: "Siêu Phàm Lực", "Siêu Nhân Lực". Tạm dùng trong bản dịch: "Quái Lực". → Chốt Quái Lực cho Superhuman Strength. (orchestrator)
+- [#38] Danh xưng "Goddess of Beauty" — Tạm chọn: "Nữ Thần Sắc Đẹp". Phương án khác: "Mỹ Thần". Tạm dùng trong bản dịch: "Nữ Thần Sắc Đẹp". → Chốt Nữ Thần Sắc Đẹp cho Goddess of Beauty. (orchestrator)
+- [#38] Địa danh "Grand Canyon" — Tạm chọn: giữ nguyên "Grand Canyon" (tên riêng địa danh nổi tiếng ở Arizona). Phương án khác: "Hẻm Núi Lớn Grand Canyon". Tạm dùng trong bản dịch: "Grand Canyon". → Chốt giữ nguyên Grand Canyon. (orchestrator)
