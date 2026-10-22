@@ -57,3 +57,10 @@ Empress trả công 40% chiến lợi phẩm xác quái cho Yu IlHan; khi viên 
 Tối hôm đó sau bữa cơm gia đình, IlHan lén ra sân chơi trẻ em dùng vỏ giáp côn trùng và ma thạch chế tạo trang bị phòng hộ; Erta bất đắc dĩ phải truyền dạy cho anh kỹ thuật Chế Tác Mana từ cơ bản (đồng bộ hóa rồi thoa bột ma thạch) đến nâng cao (truyền ý niệm/ban tặng thuộc tính).
 Bằng sự khéo léo phi thường, IlHan chế tạo thành công giáp bảo hộ cổ tay và đầu gối cơ bản, học được kỹ năng Chế Tác Mana; sau đó anh thử nghiệm nâng cao khi tích hợp lưỡi hái Bọ Ngựa Khổng Lồ vào giáp tay trái, được Erta âm thầm hỗ trợ một tia mana giúp thăng cấp kỹ năng lên Lv 2.
 Cảnh kết thúc: IlHan thử nghiệm lưỡi hái ẩn bật ra cắt đứt ngọt đôi xích sắt của chiếc xích đu; vì sợ phải đền nên anh vội vàng vắt chân lên cổ tháo chạy, bỏ mặc Erta cuống cuồng gọi giật lại bảo sẽ dùng ma pháp hồi phục.
+
+## 10
+Sáng thứ Sáu, Yu IlHan nói dối mẹ đi học rồi mang theo trường thương bọc vải ra ngoài săn quái để kiếm tiền, lên cấp và tìm nguyên liệu làm trang bị; trên đường, anh thấy bản tin truyền hình ca ngợi anh và Empress là hai dị năng giả 'phá vỡ cân bằng' được chính phủ săn đón.
+Erta phát hiện đàn quái vật gồm 70 con do một con Sói Bạo Tàn cấp 35 cầm đầu xuất hiện ngoài thực địa thay vì sập bẫy hầm ngục, qua đó tiết lộ sự thật động trời: Trái Đất thực chất đã trôi qua 1000 năm (khiến IlHan ngã ngửa vì trước giờ chỉ nghĩ là 150 năm) và muông thú không chết suốt 1000 năm đó đã biến đổi tinh thần, trở nên cực kỳ thông minh và hung bạo khi mana mở khóa.
+Nhận lời Erta làm tiên phong giải nguy cho Trái Đất trong lúc thiên giới chuẩn bị phương án ứng phó, IlHan tràn đầy nhiệt huyết hướng về mục tiêu dẫu biết trước đầy gian nan.
+Cảnh kết thúc: IlHan đeo lại mặt nạ Người Sắt, mở lớp vải bọc ngọn trường thương thép sáng loáng và cảm nhận sát khí ngút trời của đàn quái vật, sẵn sàng xung trận dưới lời giục giã của Erta: 'Hãy nhổ sạch nanh vuốt của chúng đi. Hỡi Kẻ Hành Quyết!'
+

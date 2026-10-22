@@ -14,7 +14,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | reviewed |  |
 | 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | reviewed |  |
 | 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | reviewed |  |
-| 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | todo |  |
+| 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | done |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | todo |  |
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | todo |  |
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | todo |  |
@@ -369,8 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -403,3 +401,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [Context] Nhân vật Han YeoRang → Bác đề xuất xóa, giữ nguyên bảng characters.md và pronouns.md đã khởi tạo, không xóa dòng cũ (orchestrator)
 - [Context] pronouns.md → Bổ sung ghi chú Erta ưu tiên xưng 'tôi' - gọi 'cậu' trong hội thoại thông thường (orchestrator)
 - [Context] rules.md → Bổ sung lưu ý chỉ bỏ phần inline T/N, không bỏ nội dung câu truyện (orchestrator)
+- [#10] Quái vật "Direwolf" (quái vật sói cấp 35 cầm đầu bầy quái) — Tạm chọn: "Sói Bạo Tàn". Phương án khác: "Ma Lang", "Sói Hung Dữ". Tạm dùng trong bản dịch: "Sói Bạo Tàn". → Chốt 'Sói Bạo Tàn' (orchestrator)
+- [#10] Danh xưng "Executor" Erta gọi IlHan ("Oh, Executor!") — Tạm chọn: "Kẻ Hành Quyết". Phương án khác: "Người Hành Quyết", "Chấp Pháp Giả". Tạm dùng trong bản dịch: "Kẻ Hành Quyết". → Chốt 'Kẻ Hành Quyết' (orchestrator)
+- [#10] Hiện tượng "Racial correction" (cấp độ cao ngoại hình đẹp lên) — Tạm chọn: "hiệu chỉnh chủng tộc". Phương án khác: "điều chỉnh chủng tộc". Tạm dùng trong bản dịch: "hiệu chỉnh chủng tộc". → Chốt 'hiệu chỉnh chủng tộc' (orchestrator)
+- [#10] Khái niệm "Overbalanced" (giới nghiên cứu gọi dị năng giả áp đảo) — Tạm chọn: "phá vỡ cân bằng". Phương án khác: "vượt ngưỡng cân bằng". Tạm dùng trong bản dịch: "phá vỡ cân bằng". → Chốt 'phá vỡ cân bằng' (orchestrator)

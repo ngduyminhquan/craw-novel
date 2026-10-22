@@ -70,3 +70,7 @@
 | Artifact | Artifacts | Tạo tác / Tạo tác ma pháp | vật phẩm | 8 | Vật phẩm/trang bị chứa năng lượng mana |
 | Dragon heart |  | Trái tim rồng / Long tâm | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
 | Bestowal |  | Ban Tặng / Ban Niệm | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |
+| Direwolf |  | Sói Bạo Tàn | quái vật | 10 | Quái vật sói hoang dã cấp 35 cầm đầu bầy quái |
+| Executor |  | Kẻ Hành Quyết | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái |
+| Racial correction |  | Hiệu chỉnh chủng tộc | hệ thống | 10 | Hiện tượng ngoại hình trở nên đẹp hơn khi cấp độ tăng cao |
+| Overbalanced |  | Phá vỡ cân bằng | khác | 10 | Thuật ngữ giới nghiên cứu gọi các dị năng giả có sức mạnh áp đảo |
