@@ -53,7 +53,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | reviewed |  |
 | 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | reviewed |  |
 | 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | reviewed |  |
-| 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | todo |  |
+| 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | done |  |
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | todo |  |
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | todo |  |
 | 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | todo |  |
@@ -533,3 +533,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#47] Lời chửi thề của Yu IlHan ở đoạn 29 (Don't ask me, fucker) → Chốt sửa từ 'Hỏi tao làm đéo gì, thằng chó.' thành 'Hỏi tao làm quái gì, thằng chó.' đúng chuẩn văn phong style.md. (orchestrator)
 - [#47] Cụm từ Executor angels of Heaven's power ở đoạn 1 → Chốt sửa thành 'các thiên thần chấp hành quyền năng của Thiên giới' và cập nhật Executor trong glossary.md thành 'Kẻ Hành Quyết / chấp hành'. (orchestrator)
 - [#48] Thành ngữ tiếng Hàn You really have no blood or tears ở đoạn 45 và tiếng Hup ở đoạn 110 → Chốt sửa đoạn 45 thành '[Cô đúng là đồ máu lạnh mà.]' và đoạn 110 từ 'Hức.' thành 'Hít...' đúng nghĩa tiếng hít sâu kinh ngạc. (orchestrator)
+- [#49] Cụm từ angel cobra twist trong lời thoại của Feyta → Chốt 'đòn bẻ khớp rắn hổ mang phiên bản thiên thần', dịch thoát ý thuật ngữ khóa siết wrestling cobra twist tự nhiên và giữ chất hài hước. (orchestrator)

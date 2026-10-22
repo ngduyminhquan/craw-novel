@@ -73,6 +73,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 46: Dùng võ thuật nghìn năm nhìn thấu đòn đánh và Hắc Thương Tử Thần liên tiếp gây sát thương chí mạng lên quái vật tử thần biến dị; bị rách giáp cánh tay và dính ma pháp Lời Nguyền khi che chắn cho Erta; ở lại một mình quyết tử với trùm trong cơn bão mana sau khi Erta bay đi.
 - Trạng thái tính đến chương 47: Trực diện đọ sức làm quái vật tử thần cạn kiệt mana và đâm vỡ xương ngực nó; chịu hai tầng nguyền rủa làm tê liệt toàn thân và vỡ nát bộ đại khải nhưng dùng ý chí kiên định phá vỡ giam cầm; được nhóm YuNa giải nguyền kịp thời và lập tức lao đi săn 3 con troll cuối cùng để hoàn tất chuyển chức 2.
 - Trạng thái tính đến chương 48: Hoàn thành nhiệm vụ chuyển chức thành 'Tử Thần Tập Sự', tăng vọt lên cấp 55; học được kỹ năng bị động 'Thu Thập Tử Vong' Lv 1; kết liễu Kẻ Phá Vỡ Reta Kar'iha Lv 157 và thu được hơn 31,9 triệu EXP, ma thạch đen, áo choàng và lưỡi hái tử thần.
+- Trạng thái tính đến chương 49: Thu hoạch toàn bộ ma thạch đen và di vật của Reta Kar'iha; tiết lộ tên thật cho nhóm Kang HaJin và Na YuNa; được thiên thần thiết giáp hẹn trao thưởng sau vì công cứu Erta; biết tin Lita mong ngóng gặp lại mình; dùng Ẩn Thân trốn thoát khỏi Na YuNa tại sân bay để tiếp tục đi lậu vé về Hàn Quốc.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -87,6 +88,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trịnh trọng, bài bản, đôi khi cáu bẳn và mỉa mai nhẹ.
 - Trạng thái tính đến chương 46: Bị đặc tính dị thường của hầm ngục phong tỏa năng lực thiên thần và trở thành mục tiêu công kích chính của quái vật tử thần biến dị; dũng cảm bay đi hướng khác nhằm giảm bớt gánh nặng và thực hiện kế hoạch hỗ trợ Yu IlHan.
 - Trạng thái tính đến chương 47: Nhận ra tín hiệu mờ nhạt từ vòng thiên thần của Feyta, đưa nhóm HaJin - YuNa đến chi viện cho IlHan; nhận thức được tình cảm kỳ lạ và sự lo lắng sâu sắc của mình dành cho IlHan.
+- Trạng thái tính đến chương 49: Cùng Feyta tạm thời được triệu hồi về Thiên giới theo lệnh thiên thần thiết giáp để báo cáo chi tiết về dị thường của hầm ngục và Kẻ Phá Vỡ.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
@@ -135,6 +137,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 44: Dùng kỹ năng Truy Kích phối hợp cùng IlHan tiêu diệt Bọ Cạp Tử Thần Khổng Lồ Lv 95 và nhận túi nọc độc hoàn thành mục tiêu; đại diện clan tinh nhuệ ngỏ lời mời IlHan gia nhập nhưng bị từ chối.
 - Trạng thái tính đến chương 47: Lộ chức nghiệp Thánh Kỵ Sĩ; bị mắc kẹt trong hầm ngục do Cuộn Trục Đào Tẩu bị vô hiệu hóa; được Erta dẫn đến chi viện cho Yu IlHan; cùng Na YuNa hợp lực húc văng quái vật tử thần và nhận lời cầm cự chịu đòn một mình trong 30 giây.
 - Trạng thái tính đến chương 48: Nhận bùa lợi của Na YuNa liều mạng chống đỡ quái vật tử thần để câu giờ cho IlHan đến khi vỡ nát giáp trụ; lập tổ đội với IlHan và lên cấp khi quái vật tử thần bị tiêu diệt; tiết lộ từng có 10 năm sinh tồn ở Tháp Địa Ngục.
+- Trạng thái tính đến chương 49: Nhường toàn bộ ma thạch đen và di vật của Reta Kar'iha cho Yu IlHan; biết tên thật của IlHan và kinh ngạc trước thái độ phũ phàng cự tuyệt nhan sắc Na YuNa của anh; cảm thấy tự ti trước mối quan hệ thân thiết giữa IlHan và các thiên thần.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -146,6 +149,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 43: Ban bùa lợi cho Kang HaJin lao lên nghênh chiến Bọ Cạp Tử Thần Khổng Lồ; hoảng hốt kêu gào khi phát hiện quái vật troll khổng lồ xuất hiện vung chùy toan đập nát cả nhóm.
 - Trạng thái tính đến chương 44: Ban bùa lợi hỗ trợ HaJin và nhận ra IlHan suy kiệt thể lực sau khi dùng Quái Lực để thi triển ma pháp hồi phục hỗ trợ anh; nhiệt tình tán thành việc mời IlHan vào clan nhưng bất thành.
 - Trạng thái tính đến chương 47: Bị kẹt trong hầm ngục cùng HaJin; dùng thánh lực và câu niệm chú đặc trưng hóa giải toàn bộ nguyền rủa, hồi phục thể lực cho IlHan và ban bùa lợi cực mạnh giúp HaJin húc văng quái vật tử thần.
+- Trạng thái tính đến chương 49: Bị IlHan từ chối xin số điện thoại; biết tên thật của IlHan và chuyển sang gọi anh là 'IlHan'; hào hứng trước phản ứng phũ phàng khác lạ của IlHan; cùng HaJin lên máy bay về Hàn Quốc và hy vọng sớm tái ngộ IlHan.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

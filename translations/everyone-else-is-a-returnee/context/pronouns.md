@@ -71,4 +71,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Yu IlHan | tôi / em | anh / Hiệp Sĩ Bóng Đêm | 41 | YuNa đối thoại với IlHan |
 | Yu IlHan | HaJin | tôi | cậu | 41 | IlHan đối thoại với HaJin |
 | HaJin | Yu IlHan | tôi | anh | 41 | HaJin đối thoại với IlHan |
+| YuNa | Yu IlHan | em / tôi | anh / IlHan | 49 | Biết tên thật sau khi thoát khỏi hầm ngục |
 | Reta Kar'iha | Yu IlHan | tôi | cậu / anh | 48 | Lời cảm ơn trước khi tan biến |

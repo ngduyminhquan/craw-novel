@@ -299,3 +299,9 @@ Yu IlHan hoàn thành điều kiện tập kích diệt 100 quái vật chuyển
 Ở chiến trường, Na YuNa tung đòn đánh thần thánh mang uy lực áp đảo đánh bay quái vật tử thần và làm nó rơi vào trạng thái choáng váng nhưng cạn kiệt toàn bộ sức mạnh, trong khi giáp trụ của Kang HaJin vỡ nát và bản thân bị choáng.
 IlHan kịp thời trở lại, gia nhập tổ đội của Kang HaJin và kích hoạt Quái Lực tung đòn đâm chí mạng kết liễu quái vật tử thần; trước khi chết, con quái vật để lộ giọng nữ trong trẻo nói lời cảm ơn IlHan rồi tan biến thành tro đen, hé lộ thân phận thực sự là Kẻ Phá Vỡ cấp 157 mang tên Reta Kar'iha.
 Cảnh kết thúc: Hầm ngục mở lại lối ra và khôi phục năng lực cho các thiên thần; IlHan thu hoạch một viên ma thạch đen cùng áo choàng và lưỡi hái tử thần, đồng thời mang theo vô vàn mối nghi hoặc chưa lời đáp về dị thường đang diễn ra trên Trái Đất.
+
+## 49
+Sau trận chiến, Kang HaJin và Na YuNa nhường lại toàn bộ chiến lợi phẩm (ma thạch đen và di vật của Reta Kar'iha) cho Yu IlHan; Na YuNa xin số điện thoại nhưng bị cự tuyệt phũ phàng, và cô không ngừng liến thoắng trò chuyện trên đường ra cửa hầm ngục.
+Nhận ra Kang HaJin và Na YuNa cùng nhóm với Kang MiRae và kiểu gì họ cũng sẽ đoán ra danh tính của mình, Yu IlHan quyết định tiết lộ tên thật; thái độ lạnh lùng trước nhan sắc xuất chúng của Na YuNa khiến Kang HaJin vừa kinh ngạc vừa lo lắng cô sẽ nổi máu hiếu thắng.
+Tại cửa hầm ngục, một nhóm thiên thần do nữ thiên thần thiết giáp chỉ huy đã phong ấn tạm thời lối vào biến nó thành cổng kim loại; vị thiên thần này mượn Erta và Feyta về thiên giới báo cáo sự vụ trọng đại, đồng thời tiết lộ Lita rất mong muốn được gặp lại IlHan và số lượng thiên thần tới Trái Đất sẽ tăng thêm trong tương lai.
+Cảnh kết thúc: Các thiên thần biến mất, Na YuNa lôi kéo HaJin và IlHan cùng ra sân bay trở về Hàn Quốc; IlHan kích hoạt Ẩn Thân trốn thoát để tiếp tục đi lậu máy bay, kết thúc chuỗi sự kiện tại Arizona trong khi Na YuNa nuôi hy vọng vào một cuộc tái ngộ sau này.

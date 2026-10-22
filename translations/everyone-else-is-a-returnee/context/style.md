@@ -32,6 +32,8 @@
 | Kuaak | Khuặc | Tiếng gầm thét của quái vật |
 | Kyaaak / Kyaaaak | Khéck / Khéccc | Tiếng rít/thét chói tai của quái vật |
 | Kuhuk / Kuhk | Khặc / Hự | Tiếng rên/nghẹn họng khi trúng đòn hiểm |
+| Wao | Oa | Tiếng thốt lên thích thú hoặc kinh ngạc của Na YuNa |
+| Hik | Hức | Tiếng giật thót mình khi bị quở trách của Feyta |
 
 ## Đặc điểm ghi nhận theo chương
 
