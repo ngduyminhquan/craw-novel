@@ -44,7 +44,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | reviewed |  |
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | reviewed |  |
 | 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | reviewed |  |
-| 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | todo |  |
+| 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | done |  |
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | todo |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | todo |  |
 | 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | todo |  |
@@ -506,3 +506,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#38 đoạn 71] Chơi chữ tên cha của Yu IlHan (yuyonghan = hữu dụng / Yu YongHan) → Chấp nhận, sửa thành Kỹ năng Hữu Dụng... giống tên bố tôi á? theo quy tắc diễn đạt lại chơi chữ trong câu dịch của rules.md. (orchestrator)
 - [#39 đoạn 99] Tiếng Anh của troll (Trrrooooollll ressssstttttsssss...) → Bác, giữ nguyên bản dịch tiếng Việt {Trrrooooollll nghhỉiiiiiii ngơơơơơiiiiii...} theo quy ước dịch thuật văn học và đồng bộ với các chương sau. (orchestrator)
 - [#39] Độ lệch cấp độ hầm ngục trong raw (đoạn 79 Lv40 và đoạn 134 Lv50) → Giữ nguyên theo đúng raw (không tự ý đổi số liệu). (orchestrator)
+- [#40] Chức nghiệp độc nhất chuyển chức lần 2 Rookie Reaper → Chốt Tử Thần Tập Sự cho Rookie Reaper (vừa chuẩn Hán Việt vừa giữ nét hài hước khi IlHan sợ chữ Reaper mang nghĩa thợ gặt lúa). (orchestrator)
+- [#40] Chơi chữ tên Yu IlHan (sole / duy nhất) trong thông báo nhiệm vụ chuyển chức → Chốt dịch thoát ý thành chứng minh tư cách của kẻ độc nhất vô nhị và bỏ ghi chú T/N inline. (orchestrator)

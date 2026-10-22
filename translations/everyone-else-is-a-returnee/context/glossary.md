@@ -227,3 +227,10 @@
 | Highland Troll |  | Troll Cao Nguyên | quái vật | 39 | Quái vật troll cấp 72 sinh sống trong hầm ngục cao nguyên |
 | Summoner's Rift | summoner's rift | Summoner's Rift | khác | 39 | Được phép giữ nguyên: Bản đồ chiến trường kinh điển trong tựa game Liên Minh Huyền Thoại (tham chiếu văn hóa game) |
 | Kindaichi Hajime | K*nd*ch* H*j*m* | K*nd*ch* H*j*m* | khác | 39 | Nhân vật thám tử trong manga Thám tử Kindaichi đi tới đâu có án mạng tới đó (tham chiếu văn hóa đại chúng) |
+| Metal Heart Dungeon |  | Hầm ngục Thiết Tâm | địa danh | 40 | Hầm ngục quái vật Thiết Tâm IlHan từng vào cày cuốc |
+| Troll Dungeon |  | Hầm ngục Troll | địa danh | 40 | Hầm ngục cao nguyên chứa troll tại Grand Canyon |
+| Cooking | Cooking Skill | Nấu Nướng | kỹ năng | 40 | Kỹ năng nấu ăn chế biến các loại nguyên liệu thịt quái vật |
+| Blurred Lancer Expert |  | Chuyên Gia Thương Thủ Mờ Nhạt | chức nghiệp | 40 | Lựa chọn chức nghiệp chuyển chức lần 2 nâng cấp từ Thương Thủ Mờ Nhạt |
+| Battle Expert | Battle Experts | Chuyên Gia Chiến Đấu | chức nghiệp | 40 | Lựa chọn chức nghiệp chuyển chức lần 2 chuyên về chiến đấu toàn diện mọi vũ khí |
+| Berserker |  | Cuồng Chiến Sĩ | chức nghiệp | 40 | Lựa chọn chức nghiệp chuyển chức lần 2 chiến binh cuồng bạo không rời chiến trường |
+| Rookie Reaper |  | Tử Thần Tập Sự | chức nghiệp | 40 | Chức nghiệp độc nhất chuyển chức lần 2 do Yu IlHan lựa chọn |

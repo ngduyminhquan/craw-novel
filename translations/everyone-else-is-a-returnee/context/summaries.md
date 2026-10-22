@@ -243,3 +243,10 @@ Yu IlHan đáp xuống sân bay Phoenix Sky Harbor và chạy bộ tới hẻm n
 Dọc đường qua khe vực hoang sơ của South Rim, anh tiện tay hạ gục Bọ Cạp Cát Lv 53 ngoài dã ngoại và tìm thấy lối vào hầm ngục troll bất thường với vòng xoáy đường kính 7m (do hai Bẫy Hủy Diệt đặt quá gần nhau, có 2 trùm bãi và giới hạn Lv 40).
 Tiến vào hầm ngục cao nguyên, IlHan phát hiện lũ troll có thể nói tiếng Anh và sở hữu kỹ năng Nghỉ Ngơi nên ngủ say chỉ trong 3 giây; anh dùng Hắc Thương Tử Thần nhất kích tất sát Troll Cao Nguyên Lv 72 đang ngủ, thu hoạch tim đầu tiên và 3 lít máu.
 Cảnh kết thúc: Trong lúc IlHan bắt đầu hành trình săn 500 con troll, 3 ngày sau tại cổng hầm ngục xuất hiện nhóm của Na YuNa, HaJin và thiên thần Feyta cũng chuẩn bị bước vào tìm nọc bọ cạp.
+
+## 40
+Yu IlHan vừa săn troll vừa nướng thịt ăn lấy sức, nhờ đó thăng cấp Kháng Độc Cực Hạn lên Lv 2 và học thêm kỹ năng mới Nấu Nướng sau 2 ngày mày mò chế biến thịt quái vật.
+Erta phát hiện hiệu ứng Ẩn Thân thụ động của IlHan bá đạo đến mức che giấu được cả ngọn lửa lẫn mùi thịt nướng giữa đêm khiến quái vật trong hầm ngục không hề hay biết; IlHan chạm mốc săn đủ 500 con troll, thu thập toàn bộ 500L máu và 500 tim quái đang ngủ để tiến hóa kỹ năng Nghỉ Ngơi.
+Khi con troll thứ 500 ngã xuống, IlHan chạm trần Lv 50 và nhận thông báo chuyển chức lần 2 với 4 lựa chọn: Chuyên Gia Thương Thủ Mờ Nhạt, Chuyên Gia Chiến Đấu, Cuồng Chiến Sĩ và chức nghiệp Độc Nhất 'Tử Thần Tập Sự'.
+Bất chấp nguy cơ chưa rõ kỹ năng, IlHan quyết định chọn 'Tử Thần Tập Sự' vì yêu thích khám phá những điều mới lạ.
+Cảnh kết thúc: Màn hình hệ thống hiện lên điều kiện nhiệm vụ chuyển chức tồi tệ nhất thế gian: tập kích tiêu diệt quái vật chuyển chức 2 bằng một đòn duy nhất 0/100, và tập kích tiêu diệt quái vật chuyển chức 3 bằng một đòn duy nhất 0/1.
