@@ -8,7 +8,7 @@ Thế nhưng, anh không ngờ có ngày chính mình lại phải đóng một 
 
 "Hít... Tôi tin cô."
 
-Anh sắp phát điên vì căng thẳng thần kinh khi phải vác theo chiếc túi chứa một món tiền khổng lồ lên tới 370 triệu won (khoảng 322.561 USD).
+Anh sắp phát điên vì căng thẳng thần kinh khi phải vác theo chiếc túi chứa một món tiền khổng lồ lên tới 370 triệu won.
 
 "Biết mình yếu lòng trước tiền mặt thế này, hồi Trái Đất ngưng đọng thời gian thà đi cướp vài nhà băng còn hơn là cắm đầu luyện võ" — anh thầm nghĩ.
 
@@ -58,13 +58,13 @@ Lời của Erta nghe có vẻ mơ hồ, nhưng anh lại cảm nhận được 
 
 [23. Thích Khách]
 
-Không hiểu sao toàn là những cái tên chức nghiệp thường thấy trong các game RPG, nhưng anh chẳng có thời gian để bận tâm về chuyện đó. Yu IlHan chầm chậm đọc lướt qua toàn bộ 23 chức nghiệp rồi chìm vào suy tư.
+Không hiểu sao toàn là những cái tên chức nghiệp thường thấy trong các game RPG, nhưng anh chẳng có thời gian để bận tâm về chuyện đó. Yu IlHan chầm chậm đọc qua toàn bộ 23 chức nghiệp rồi chìm vào suy tư.
 
 "Đầu tiên, cứ loại thích khách ra đã."
 
 Kỹ năng Ẩn Thân hiện tại là quá đủ rồi. Nếu cảm giác hiện diện của anh còn mờ nhạt hơn nữa, anh e rằng sự tồn tại của mình sẽ thực sự biến mất không chừng.
 
-Trên hết, hiện tại anh không thể sử dụng mana. Nhờ thế, anh thậm chí còn chẳng thể dùng kỹ năng Ẩn Thân cấp tối đa như một kỹ năng chủ động, mà chỉ có thể dùng nó dưới dạng bị động. Không, thực ra là anh chẳng hề muốn dùng, nhưng nó lại liên tục kích hoạt mà chẳng tốn giọt mana nào, và anh cũng không cách nào tắt nó đi được.
+Trên hết, hiện tại anh không thể sử dụng mana. Vì thế, anh thậm chí còn chẳng thể dùng kỹ năng Ẩn Thân cấp tối đa như một kỹ năng chủ động, mà chỉ có thể dùng nó dưới dạng bị động. Không, thực ra là anh chẳng hề muốn dùng, nhưng nó lại liên tục kích hoạt mà chẳng tốn giọt mana nào, và anh cũng không cách nào tắt nó đi được.
 
 Vì vậy, anh cần một chức nghiệp mạnh mẽ nhưng vẫn phát huy được mà không cần tới mana.
 
@@ -176,7 +176,7 @@ Yu IlHan bực bội vô cùng, nhưng anh đành chấp nhận thực tế. Dù
 
 [Danh hiệu – Kẻ Cô Độc Toàn Vũ Trụ (Ẩn Thân trở thành kỹ năng bị động)]
 
-[Sức mạnh – 96 Nhanh nhẹn 102 Thể lực – 98 Ma pháp -21]
+[Sức mạnh – 96, Nhanh nhẹn – 102, Thể lực – 98, Ma pháp – 21]
 
 [Kỹ năng chủ động – Ẩn Thân Lv Max, Chế Tác Mana Lv 2]
 

@@ -96,3 +96,5 @@
 | Critical Hit | Critical Hit Skill | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng |
 | One hit for me, one hit for you! |  | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
+| Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
+| 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |

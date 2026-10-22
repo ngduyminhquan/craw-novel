@@ -1,6 +1,6 @@
 # Chương 14: Tôi Đi Săn Một Mình (5)
 
-Yu IlHan ủ rũ buông thõng hai vai khi nghe bảo không thể ăn mật gấu, nhưng tốc độ của anh thì chẳng hề suy xuyển là bao. Hơi đổi hướng một chút sau khi băng qua ga tàu điện, anh lao đi với vận tốc thậm chí còn nhanh hơn cả một chiếc ô tô đang chạy 60 km/h.
+Yu IlHan ủ rũ buông thõng hai vai khi nghe bảo không thể ăn mật gấu, nhưng tốc độ của anh thì chẳng hề suy suyển là bao. Hơi đổi hướng một chút sau khi băng qua ga tàu điện, anh lao đi với vận tốc thậm chí còn nhanh hơn cả một chiếc ô tô đang chạy 60 km/h.
 
 [Hừm, trò này vui phết đấy chứ. Tôi sẽ bám thật chắc, nên cậu có định lộn nhào giữa không trung một cú không?]
 
@@ -202,12 +202,12 @@ Giờ thì anh đã chắc chắn về điều đó. Rằng kỹ năng cũng có
 
 Ghi chép được tạo nên từ mọi hành động, thành tựu cùng vô vàn yếu tố khác của Yu IlHan hòa quyện vào nhau đã tác động đến sự hình thành, phát triển và biến đổi của kỹ năng. Chí Mạng mới chỉ là sự khởi đầu. Rất có thể anh sẽ lĩnh hội thêm vô số kỹ năng khác tùy thuộc vào cách anh hành động sau này.
 
-Sau khi kiểm tra ngọn thương xong xuôi, Yu IlHan ngẩng đầu lên. Đúng lúc anh định mổ xẻ con gấu khổng lồ trong chớp mắt rồi rời đi để tiếp tục những chuyến săn khác.
+Sau khi kiểm tra ngọn thương xong xuôi, Yu IlHan ngẩng đầu lên. Đó là lúc anh chuẩn bị mổ xẻ nhanh xác con gấu khổng lồ rồi rời đi để tiếp tục những chuyến săn khác.
 
 "Chúng tôi đã đến nơi. Phần còn lại cứ để chúng tôi lo!"
 
 "Con quái vật đâu rồi!?"
 
-Một giai điệu lệch nhịp vang lên thật dõng dạc và hùng tráng.
+Một tiếng hô lạc quẻ vang lên thật dõng dạc và hùng tráng.
 
 [← Chương trước](Chapter_013.md) | [Chương tiếp theo →](Chapter_015.md)

@@ -17,9 +17,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | reviewed |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | reviewed |  |
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | reviewed |  |
-| 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | done |  |
-| 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | done |  |
-| 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | done |  |
+| 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | reviewed |  |
+| 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | reviewed |  |
+| 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | reviewed |  |
 | 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | todo |  |
 | 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | todo |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | todo |  |
@@ -416,3 +416,13 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#15] Kỹ năng "Giantification" (kỹ năng phóng to cơ thể của Gấu Lớn Nâu) — Tạm chọn: "Khổng Hóa". Phương án khác: "Cự Đại Hóa", "Phóng To". Tạm dùng trong bản dịch: "Khổng Hóa". → Chốt 'Khổng Hóa' (orchestrator)
 - [#15] Tiêu đề "I Make Them" — Tạm chọn: "Tôi Tự Tạo Ra Chúng". Phương án khác: "Tôi Tự Chế Tạo", "Tôi Tự Làm Ra Chúng". Tạm dùng trong bản dịch: "Tôi Tự Tạo Ra Chúng". → Chốt 'Tôi Tự Tạo Ra Chúng' (orchestrator)
 - [#15] Nhân vật "Yun DaeHan" (thiếu tá quân đội Hàn Quốc chỉ huy hiện trường) — Tách khỏi alias của cha IlHan (Yu YongHan) ở chương 6 do trùng tên trong bản raw tiếng Anh. Tạm dùng: ghi nhận là nhân vật độc lập mới. → Chấp nhận tách 'Yun DaeHan' thành nhân vật độc lập (thiếu tá quân đội) (orchestrator)
+- [#13 đoạn 5 & #15 đoạn 83] Ghi chú quy đổi USD → Chấp nhận xóa bỏ (orchestrator)
+- [#13 đoạn 30] Cụm từ "chầm chậm đọc lướt qua" → Chấp nhận sửa thành "chầm chậm đọc qua" (orchestrator)
+- [#13 đoạn 33 & #15 đoạn 81] Từ liên kết "Nhờ thế" → Chấp nhận sửa thành "Vì thế" (orchestrator)
+- [#13 đoạn 89] Định dạng chỉ số → Chấp nhận sửa thành "[Sức mạnh – 96, Nhanh nhẹn – 102, Thể lực – 98, Ma pháp – 21]" (orchestrator)
+- [#14 đoạn 1] Chính tả → Chấp nhận sửa thành "suy suyển" (orchestrator)
+- [#14 đoạn 102] Câu cụt → Chấp nhận sửa thành "Đó là lúc anh chuẩn bị mổ xẻ nhanh xác con gấu khổng lồ rồi rời đi để tiếp tục những chuyến săn khác." (orchestrator)
+- [#14 đoạn 105] Từ ngữ "offbeat" → Chấp nhận sửa thành "Một tiếng hô lạc quẻ" (orchestrator)
+- [#15 đoạn 55] Cấu trúc câu đối tượng tiếp cận → Chấp nhận sửa làm rõ chính phủ là bên liên quan trong chuyện cũ, chỉ có thiếu tá tiếp cận IlHan (orchestrator)
+- [#15 đoạn 80] Từ "self-depreciation" → Chấp nhận sửa thành "cái thói tự hạ thấp mình" (orchestrator)
+- [#15 đoạn 92] Cụm "The same text" → Chấp nhận sửa thành "Cùng một dòng chữ" (orchestrator)

@@ -108,7 +108,7 @@ Tiếng gọi của Erta kéo Yu IlHan trở về thực tại. Anh bĩu môi đ
 
 "Tôi không bán đâu."
 
-Giờ đây anh đã quen với việc chặn đứng sự tiếp cận của những 'người bạn mạnh mẽ' rồi. Thế nhưng, dường như đã nghe ngóng được chuyện xảy ra giữa Yu IlHan và thiếu úy Han YeoRang cùng các trung đội quân đội khác, phái đoàn chính phủ và viên thiếu tá chậm rãi, thận trọng bước lại gần Yu IlHan.
+Giờ đây anh đã quen với việc chặn đứng sự tiếp cận của những 'người bạn mạnh mẽ' rồi. Thế nhưng, dường như đã nghe ngóng được chuyện xảy ra giữa Yu IlHan với thiếu úy Han YeoRang, các trung đội khác cũng như phía chính phủ, viên thiếu tá chậm rãi và thận trọng bước lại gần Yu IlHan.
 
 "Tôi nghe nói cậu đang tìm kiếm những con quái vật mạnh mẽ để săn lùng, đúng không? Nếu vậy, chúng tôi có thể cung cấp thông tin cho cậu."
 
@@ -158,13 +158,13 @@ Yu IlHan khéo léo bọc đống xương gấu vào trong tấm da gấu rồi 
 
 "Tôi chẳng muốn gặp lại ông ta thường xuyên đâu. Người đó đánh giá tôi quá cao rồi."
 
-[Rốt cuộc phải làm sao với cái tính tự giễu đó của cậu đây... Dù sao thì, đến địa điểm tiếp theo thôi! Chạy nhanh hơn nữa đi!]
+[Rốt cuộc phải làm sao với cái thói tự hạ thấp mình đó của cậu đây... Dù sao thì, đến địa điểm tiếp theo thôi! Chạy nhanh hơn nữa đi!]
 
-Nhờ sự hợp tác của quân đội, Yu IlHan đã có thể tiêu diệt thêm ba đàn quái vật nữa trong ngày hôm đó. Trong số chúng, chẳng có con nào mạnh hơn Sói Bạo Tàn chứ đừng nói đến gấu nâu, và nhờ thế, anh chỉ tăng được một cấp, chạm mốc cấp 24.
+Nhờ sự hợp tác của quân đội, Yu IlHan đã có thể tiêu diệt thêm ba đàn quái vật nữa trong ngày hôm đó. Trong số chúng, chẳng có con nào mạnh hơn Sói Bạo Tàn chứ đừng nói đến gấu nâu, và vì thế, anh chỉ tăng được một cấp, chạm mốc cấp 24.
 
 Bù lại, anh kiếm được một khoản lợi nhuận kếch xù. Anh đã bán toàn bộ phụ phẩm quái vật cho phía quân đội để lấy tiền mặt, ngoại trừ ma thạch, bởi anh thấy chỉ riêng lượng phụ phẩm từ bầy sói và con gấu là đã quá đủ cho mình rồi.
 
-Kết quả là, một số tiền lớn đến mức có phần gây sốc giờ đây đã nằm gọn trong tay anh. Nói cách khác, đó là một con số ngót nghét 1 tỷ won (871.292 USD).
+Kết quả là, một số tiền lớn đến mức có phần gây sốc giờ đây đã nằm gọn trong tay anh. Nói cách khác, đó là một con số ngót nghét 1 tỷ won.
 
 "Tôi sẽ còn dư dả cả đống tiền sau khi dựng một xưởng chế tác! Chúng ta đi ký hợp đồng ngay bây giờ luôn nhé!?"
 
@@ -182,7 +182,7 @@ Dù bị mẹ mắng một trận vì 'nguy hiểm thế này mà con đi đâu 
 
 Và khi mặt trời mọc vào ngày hôm sau.
 
-Một dòng chữ tương tự hiện lên trước mắt toàn thể nhân loại ngay khi họ vừa thức giấc.
+Cùng một dòng chữ hiện lên trước mắt toàn thể nhân loại ngay khi họ vừa thức giấc.
 
 [Mối liên kết bị gián đoạn với thế giới khác sẽ được khôi phục! Từ giờ trở đi, các bạn sẽ có thể nhận nhiệm vụ và nhận phần thưởng thích đáng tại thế giới khác mà các bạn từng được triệu hồi tới!]
 
