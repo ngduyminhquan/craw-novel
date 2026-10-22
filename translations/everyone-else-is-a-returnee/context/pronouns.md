@@ -64,3 +64,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Feyta | Yu IlHan | tôi | cậu / Kẻ Hành Quyết | 38 | Thiên thần hộ mệnh thân thiện đối thoại với IlHan |
 | Erta | Feyta | tôi | cô / Feyta | 38 | Đồng nghiệp thiên thần |
 | Feyta | Erta | tôi | Erta | 38 | Đồng nghiệp thiên thần |
+| Feyta | YuNa | tôi | Na YuNa / YuNa | 39 | Thiên thần hộ mệnh và người được bảo hộ |
+| YuNa | Feyta | em / tôi | Feyta | 39 | Người được bảo hộ đối thoại với thiên thần hộ mệnh |

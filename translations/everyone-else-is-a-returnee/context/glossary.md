@@ -207,7 +207,7 @@
 | Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo' / Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 34 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
 | Heaven |  | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần |
 | Deathgod |  | Tử Thần | khác | 35 | Khái niệm/hình tượng thần chết tước đoạt sinh mệnh từ bóng tối |
-| Deathgod's black spear |  | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
+| Deathgod's black spear | Death god's Black Spear | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
 | Flame Lizard | Flame Lizards | Thằn Lằn Lửa | quái vật | 35 | Quái vật biến dị chuyển chức lần 2 xuất hiện trong Hiện Tượng Tràn tại Los Angeles |
 | Flashing |  | Thiểm Quang | hệ thống | 36 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
 | Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công |
@@ -221,3 +221,9 @@
 | Superhuman Strength |  | Quái Lực | kỹ năng | 38 | Kỹ năng cường hóa cơ bắp phát huy sức mạnh vượt giới hạn, nhận từ phần thưởng Nhiệm Vụ Thiên Giới 003 |
 | Goddess of Beauty |  | Nữ Thần Sắc Đẹp | khác | 38 | Vị thần ban phước lành cho Na YuNa |
 | Grand Canyon |  | Grand Canyon | địa danh | 38 | Hẻm núi lớn nổi tiếng ở bang Arizona, Mỹ |
+| Phoenix Sky Harbor Airport |  | Sân bay Phoenix Sky Harbor | địa danh | 39 | Sân bay quốc tế tại Phoenix, bang Arizona, Mỹ |
+| South Rim |  | South Rim | địa danh | 39 | Rìa phía nam hẻm núi Grand Canyon |
+| Sand Scorpion |  | Bọ Cạp Cát | quái vật | 39 | Quái vật bọ cạp cấp 53 ngoài hầm ngục tại Grand Canyon |
+| Highland Troll |  | Troll Cao Nguyên | quái vật | 39 | Quái vật troll cấp 72 sinh sống trong hầm ngục cao nguyên |
+| Summoner's Rift | summoner's rift | Summoner's Rift | khác | 39 | Được phép giữ nguyên: Bản đồ chiến trường kinh điển trong tựa game Liên Minh Huyền Thoại (tham chiếu văn hóa game) |
+| Kindaichi Hajime | K*nd*ch* H*j*m* | K*nd*ch* H*j*m* | khác | 39 | Nhân vật thám tử trong manga Thám tử Kindaichi đi tới đâu có án mạng tới đó (tham chiếu văn hóa đại chúng) |

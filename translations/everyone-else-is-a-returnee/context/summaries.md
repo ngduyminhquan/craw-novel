@@ -237,3 +237,9 @@ Thiên thần hộ mệnh Feyta tiết lộ thân phận người bảo hộ c�
 Nhờ chiến tích áp đảo, IlHan nhận phần thưởng kỹ năng [Quái Lực] (cường hóa cơ bắp phát huy sức mạnh vượt giới hạn mà không cần mana) trích xuất từ ghi chép quái vật sau Hiện Tượng Tràn.
 IlHan lẻn lên chuyến bay đi Arizona để săn troll tại hầm ngục, thở phào nhẹ nhõm sau khi dốc sức giải quyết Hiện Tượng Tràn.
 Cảnh kết thúc: Niềm hào hứng chuẩn bị săn troll của Yu IlHan vụt tắt ngấm khi phát hiện cặp đôi Na YuNa và HaJin cũng đang ngồi trên cùng chuyến bay hướng tới Arizona.
+
+## 39
+Yu IlHan đáp xuống sân bay Phoenix Sky Harbor và chạy bộ tới hẻm núi Grand Canyon, kiểm tra các điều kiện còn lại để tiến hóa kỹ năng Nghỉ Ngơi (500 tim quái chuyển chức 2 đang ngủ và 500 lít máu troll).
+Dọc đường qua khe vực hoang sơ của South Rim, anh tiện tay hạ gục Bọ Cạp Cát Lv 53 ngoài dã ngoại và tìm thấy lối vào hầm ngục troll bất thường với vòng xoáy đường kính 7m (do hai Bẫy Hủy Diệt đặt quá gần nhau, có 2 trùm bãi và giới hạn Lv 40).
+Tiến vào hầm ngục cao nguyên, IlHan phát hiện lũ troll có thể nói tiếng Anh và sở hữu kỹ năng Nghỉ Ngơi nên ngủ say chỉ trong 3 giây; anh dùng Hắc Thương Tử Thần nhất kích tất sát Troll Cao Nguyên Lv 72 đang ngủ, thu hoạch tim đầu tiên và 3 lít máu.
+Cảnh kết thúc: Trong lúc IlHan bắt đầu hành trình săn 500 con troll, 3 ngày sau tại cổng hầm ngục xuất hiện nhóm của Na YuNa, HaJin và thiên thần Feyta cũng chuẩn bị bước vào tìm nọc bọ cạp.

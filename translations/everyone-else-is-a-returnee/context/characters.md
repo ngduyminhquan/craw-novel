@@ -62,6 +62,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 36: Đạt cấp độ 45; nâng cấp Súng Bắn Cọc bằng Thiết Tâm thành 'Súng Bắn Cọc Thiểm Quang Cuồng Loạn' (Phẩm cấp Độc Nhất, Sức tấn công cấp 1–4 từ 1.400 đến 4.500, tăng 20% tốc độ nạp/tốc độ tấn công và 20% sức tấn công); tận dụng phản lực phát nổ của khối đá để áp sát và bắn thẳng cọc xuyên đầu thủ lĩnh Thằn Lằn Lửa tại Hiện Tượng Tràn Los Angeles.
 - Trạng thái tính đến chương 37: Thức tỉnh kỹ năng Kiếm Thuật ở Lv Max; sử dụng vũ khí Hắc Đại Kiếm Cự Nhân Vô Tri (Phẩm cấp Độc Nhất, Sức tấn công 2.300, tăng 50% trọng lượng và 20% sức mạnh) kết hợp sức mạnh thể chất áp đảo quái hộ vệ; một mình hạ gục Thằn Lằn Lửa Tinh Anh Lv 78 và thủ lĩnh Thằn Lằn Lửa Pháp Sư Lv 97, giải quyết triệt để thảm họa Hiện Tượng Tràn đầu tiên tại sân bay Los Angeles.
 - Trạng thái tính đến chương 38: Hoàn thành Nhiệm Vụ Thiên Giới 003 (toàn bộ chỉ số tăng 2 điểm); Túi Đeo Chéo được nhóm thiên thần Chế Tác Mana nâng cấp tính năng tự do kiểm soát trọng lượng; học được kỹ năng [Quái Lực] trích xuất từ ghi chép quái vật giúp cường hóa cơ bắp vượt giới hạn mà không cần mana; tiếp tục lẻn lên máy bay đi Arizona săn troll.
+- Trạng thái tính đến chương 39: Tiến vào hầm ngục troll bất thường tại Grand Canyon để săn quái chuyển chức 2 phục vụ tiến hóa kỹ năng Nghỉ Ngơi; thu hoạch tim và 3 lít máu đầu tiên từ Troll Cao Nguyên Lv 72.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
