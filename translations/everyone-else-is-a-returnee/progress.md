@@ -59,7 +59,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | reviewed |  |
 | 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | reviewed |  |
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | reviewed |  |
-| 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | todo |  |
+| 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | done |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | todo |  |
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | todo |  |
 | 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | todo |  |
@@ -556,3 +556,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#52-54] Câu đối đáp giữa Lita và IlHan ở Ch.53 đoạn 101? → Chấp nhận sửa thành Tôi không bảo là cô có lỗi. (orchestrator)
 - [#52-54] Xưng hô Lita trêu IlHan ở Ch.54 đoạn 49? → Chấp nhận sửa thành IlHan của tôi và Chị đây. (orchestrator)
 - [#52-54] Đồng bộ ngoặc thoại điện thoại ở Ch.54 đoạn 101? → Bác, giữ nguyên ngoặc kép vì raw dùng ngoặc nhọn, tránh làm lệch kiểm tra ngoặc vuông của QA. (orchestrator)
+- [#55] Số tiền ở đoạn 67 (15 tỷ won hay 17 tỷ won)? → Giữ nguyên 15 tỷ won theo đúng nguyên tác raw, không tự ý sửa số liệu của tác giả. (orchestrator)

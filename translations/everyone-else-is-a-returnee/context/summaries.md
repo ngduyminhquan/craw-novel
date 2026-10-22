@@ -334,3 +334,8 @@ Sau Đại Tai Biến 75 ngày, chính phủ Hàn Quốc thành lập Cục Qu�
 Biết tin cần tới 5 tháng nữa mới làm chủ được mana dẫu có hai thiên thần phụ trợ, IlHan lên kế hoạch kiếm tiền mở rộng xưởng rèn, dọn ra sống độc lập và chế tạo trang bị tốt bán ra ngoài để giảm bớt gánh nặng một mình phải gánh vác Trái Đất; trong khi đó Lita và Erta ngấm ngầm tị nạnh nhau qua vòng thiên thần.
 Để nâng cao thực lực cho các dị năng giả và giảm thiểu thương vong, IlHan quyết định hỗ trợ tổ chức Trấn Áp và gọi điện cho Empress (Kang MiRae) chào bán vũ khí cùng giáp trụ phẩm cấp Độc Nhất được tối ưu theo đặc tính của cô.
 Cảnh kết thúc: Kang MiRae lập tức đồng ý và ngỏ lời nhờ anh chuẩn bị trang bị cho cả Na YuNa lẫn anh trai cô (Kang HaJin) với bất cứ thù lao nào, khiến quy mô thương vụ bất ngờ phình to hơn nhiều so với dự tính ban đầu của IlHan.
+
+## 55
+Yu IlHan tới gặp Kang MiRae tại một quán trà cao cấp; cô tháo mặt nạ để tỏ lòng tôn trọng và đặt hàng một cây trượng cùng áo choàng pháp sư có dòng thuộc tính beta (giảm thời gian hồi chiêu và gia tăng hồi phục ma pháp), đồng thời bạo chi sẵn sàng trả tới 17 tỷ won khiến IlHan sáng mắt lập tức lên đường tìm nguyên liệu.
+Được Lita và Erta hỗ trợ hạ yêu cầu cấp độ từ 70 xuống 50, IlHan thâm nhập một hầm ngục quái vật biến dị hệ sấm sét tại Gangwon-do để săn nguyên liệu trước khi sang Trung Quốc săn xương loài Quegna.
+Cảnh kết thúc: Tại một hầm ngục gần đó ở Trung Quốc, một người đàn ông bí ẩn cùng một nam thiên thần phản bội đang câu kết với đại pháp sư cấp 4 Dakié từ thế giới khác mưu đồ biến dị hầm ngục và chiếm Trái Đất làm thuộc địa; bọn chúng huênh hoang chắc mẩm sẽ không bị lộ vì chẳng có thiên thần cấp cao nào hạ phàm, hoàn toàn không biết Lita đã có mặt ở Trái Đất.

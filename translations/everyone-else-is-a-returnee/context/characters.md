@@ -24,6 +24,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 | Reta Kar'iha |  | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
+| Dakié | Dakie; sir Dakié | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 
 ## Chi tiết
 
@@ -80,6 +81,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 52: Nhận phần thưởng thiên giới từ Erta và Lita: Túi Đeo Chéo được nâng cấp thêm hai dòng thuộc tính 'Chống thối rữa' và 'Chuyển giao trọng lượng'; chọn chức nghiệp phụ độc nhất 'Bạn Đồng Hành Thiên Thần' thiết lập quan hệ đối tác với hai thiên thần Lita và Erta; nhận kỹ năng bị động [Thiên Thần Bảo Hộ] (giảm 30% sát thương chí mạng phải chịu, tăng 30% kháng lời nguyền và 30% thưởng nhiệm vụ), kỹ năng chủ động [Thiên Thần Chi Viện] (mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi), và tăng 30% mọi năng lực khi đối đầu Kẻ Phá Vỡ hoặc Undead.
 - Trạng thái tính đến chương 53: Dùng Chế Tác Mana nâng cấp Thương Gai Tuyệt Diệt thành Thương Gai Diệt Long Hắc Tử Thần (Phẩm cấp Truyền Thuyết, Sức tấn công 4.000); chế tạo Bộ Lao Thợ Săn Rồng Bền Bỉ (Phẩm cấp Độc Nhất, Sức tấn công 2.800) với sự trợ giúp của Erta; dùng Nấu Nướng tinh luyện máu troll thành 'thức uống máu' và phân loại riêng máu của trùm troll; chuẩn bị đi chơi cùng Lita và Erta để cày cấp kỹ năng Thiên Thần Chi Viện.
 - Trạng thái tính đến chương 54: Lên kế hoạch kiếm tiền mở rộng xưởng rèn và chuyển ra sống tự lập khỏi bố mẹ; dự định rèn vũ khí và áo giáp phẩm cấp cao bán ra thị trường nhằm nâng cao thực lực cho dị năng giả Trái Đất (đặc biệt là tổ chức Trấn Áp) để giảm bớt gánh nặng một mình phải giải quyết hiểm họa; liên lạc chào bán trang bị phẩm cấp Độc Nhất cho Kang MiRae và nhận đơn đặt hàng cho cả bộ ba gồm MiRae, HaJin và YuNa.
+- Trạng thái tính đến chương 55: Gặp mặt trực tiếp Kang MiRae tại quán trà cao cấp, đồng ý nhận thù lao khủng lên tới 17 tỷ won cho cây trượng và áo choàng pháp sư có dòng thuộc tính beta; cùng Lita và Erta thâm nhập hầm ngục quái vật biến dị cấp 70 ở Gangwon-do (nhờ hai thiên thần hạ yêu cầu cấp độ xuống 50) để săn nguyên liệu hệ sấm sét trước khi sang Trung Quốc.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -114,6 +116,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 28: Cùng Yu IlHan lập tổ đội nhận gần 1,5 triệu EXP; biết tên thật của IlHan và xin số điện thoại liên lạc riêng; chủ động rút lại lời mời lập đội vì mặc cảm chênh lệch thực lực quá lớn làm tổn thương lòng tự trọng, quyết tâm rèn luyện để bắt kịp anh trong tương lai.
 - Trạng thái tính đến chương 50: Đón Kang HaJin và Na YuNa tại sân bay Incheon; nhận nọc độc bọ cạp để hoàn thành đủ điều kiện chuyển chức lần 2; nghe Na YuNa kể về Yu IlHan và nảy sinh lòng hiếu thắng muốn vượt qua anh.
 - Trạng thái tính đến chương 54: Nhận cuộc gọi bất ngờ từ Yu IlHan đề nghị bán vũ khí và áo giáp phẩm cấp Độc Nhất được tối ưu theo đặc tính của cô; lập tức đồng ý và đề nghị đặt thêm trọn bộ trang bị cho Na YuNa và anh trai Kang HaJin.
+- Trạng thái tính đến chương 55: Gặp mặt IlHan tháo mặt nạ để thể hiện sự tôn trọng; đặt hàng một cây trượng và áo choàng pháp sư có dòng thuộc tính beta (giảm thời gian hồi chiêu kỹ năng ma pháp và tăng hồi phục ma pháp) với giá lên tới 17 tỷ won; tiết lộ từng chứng kiến Cung Đình Ma Pháp Trưởng của đế quốc Palladia dùng trượng Độc Nhất một mình diệt quái vật chuyển chức lần 4.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -181,4 +184,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Thiên thần chủ tọa/chủ trì cuộc họp của các thiên thần trên Thiên giới bàn về dị thường tại Trái Đất và hầm ngục Grand Canyon.
 - Tính cách: Công tâm, nghiêm minh, làm việc theo nguyên tắc và chỉ thực thi ý chỉ của Thượng Đế; đánh giá cao tiềm năng của người bị bỏ lại Yu IlHan.
 - Trạng thái tính đến chương 50: Dùng thẩm quyền của mình phê duyệt quyết định tăng viện gấp 4 lần số lượng thiên thần tới Trái Đất và hứa ban phần thưởng xứng đáng nhất cho Yu IlHan.
+
+### Dakié
+- Giới tính, vai trò: Pháp sư cấp 4 (4th class mage) thuộc một đế quốc ở thế giới khác, đang bí mật câu kết với người trên Trái Đất và một nam thiên thần biến chất để kết nối chiều không gian và biến dị hầm ngục nhằm mưu đồ xâm lấn Trái Đất.
 
