@@ -207,7 +207,8 @@
 | Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo' / Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 34 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
 | Heaven |  | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần |
 | Deathgod |  | Tử Thần | khác | 35 | Khái niệm/hình tượng thần chết tước đoạt sinh mệnh từ bóng tối |
-| Deathgod's black spear | Death god's Black Spear | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
+| Deathgod's black spear | Death god's Black Spear; Deathgod's, Black Spear; Black Spear | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
+| Curse |  | Lời Nguyền | hệ thống | 46 | Thuộc tính ma pháp hắc ám hoặc hiệu ứng trạng thái bất lợi ăn mòn cơ thể |
 | Flame Lizard | Flame Lizards | Thằn Lằn Lửa | quái vật | 35 | Quái vật biến dị chuyển chức lần 2 xuất hiện trong Hiện Tượng Tràn tại Los Angeles |
 | Flashing |  | Thiểm Quang | hệ thống | 36 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
 | Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công |

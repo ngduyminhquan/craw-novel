@@ -69,6 +69,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 43: Bám theo nhóm Kang HaJin và Na YuNa; dùng kỹ năng Xạ Kích phóng xiên Thiết Tâm từ xa để duy trì Ẩn Thân và nhất kích tất sát các bọ cạp bám theo; nhường Bọ Cạp Tử Thần Khổng Lồ cho nhóm HaJin; chuẩn bị Súng Bắn Cọc Tất Sát Cuồng Thiên (nạp tầng 5, sức tấn công 6.200, độ bền 1/1) và kích hoạt kỹ năng Quái Lực bật nhảy tập kích giáng đòn vào đầu troll khổng lồ mang chùy kim loại.
 - Trạng thái tính đến chương 44: Dùng Súng Bắn Cọc Tất Sát Cuồng Thiên nhất kích tất sát Thủ Lĩnh Troll Cao Nguyên Lv 109, hoàn thành điều kiện tập kích diệt quái chuyển chức 3 (1/1) của nhiệm vụ chuyển chức 'Tử Thần Tập Sự'; nhận danh hiệu 'Không hai đòn, chẳng ba đòn, chỉ một đòn' (+20% EXP và tỷ lệ rơi ma thạch); thu hoạch viên ma thạch chuyển chức 3 hệ troll để tiến hóa kỹ năng Nghỉ Ngơi; phối hợp diệt Bọ Cạp Tử Thần Khổng Lồ Lv 95 và nhận bùa lợi hồi phục từ Na YuNa; từ chối lời mời gia nhập clan Hàn Quốc của Kang HaJin.
 - Trạng thái tính đến chương 45: Tiến hóa kỹ năng Nghỉ Ngơi thành [Siêu Việt Tái Sinh] (kỹ năng độ khó rèn luyện Hạng EX); đạt tiến độ 97/100 quái vật chuyển chức 2 bị tập kích tiêu diệt cho nhiệm vụ 'Tử Thần Tập Sự'; phát hiện hầm ngục có dấu hiệu biến thành 'Thế Giới Bị Bỏ Rơi' (mất lối vào, mất liên lạc Thiên giới); bị giải trừ Ẩn Thân khi lao ra cứu Erta trước đòn tập kích của quái vật tử thần bí ẩn.
+- Trạng thái tính đến chương 46: Dùng võ thuật nghìn năm nhìn thấu đòn đánh và Hắc Thương Tử Thần liên tiếp gây sát thương chí mạng lên quái vật tử thần biến dị; bị rách giáp cánh tay và dính ma pháp Lời Nguyền khi che chắn cho Erta; ở lại một mình quyết tử với trùm trong cơn bão mana sau khi Erta bay đi.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -81,6 +82,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
 - Tính cách: Nghiêm túc, nguyên tắc, tính toán lý trí, dễ nổi cáu nhưng rất có trách nhiệm. Thường xuyên rơi vào trạng thái câm nín hoặc bất lực trước sức mạnh và những hành động quái đản ngoài dự đoán của IlHan.
 - Cách nói chuyện: Trịnh trọng, bài bản, đôi khi cáu bẳn và mỉa mai nhẹ.
+- Trạng thái tính đến chương 46: Bị đặc tính dị thường của hầm ngục phong tỏa năng lực thiên thần và trở thành mục tiêu công kích chính của quái vật tử thần biến dị; dũng cảm bay đi hướng khác nhằm giảm bớt gánh nặng và thực hiện kế hoạch hỗ trợ Yu IlHan.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.

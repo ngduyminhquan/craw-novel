@@ -282,3 +282,9 @@ Anh tiếp tục săn quái chuyển chức 2 bằng đòn tập kích để ho�
 Khi đã hạ 97/100 con troll, IlHan và Erta quyết định rút lui vì rủi ro quá lớn, nhưng bàng hoàng phát hiện lối vào hầm ngục đã biến mất và vòng thiên thần mất toàn bộ liên lạc với Thiên giới, dấu hiệu của một 'Thế Giới Bị Bỏ Rơi'.
 Cảnh kết thúc: Một con quái vật bí ẩn mang hình tượng tử thần cầm lưỡi hái khổng lồ bất ngờ tập kích Erta; IlHan lao ra đỡ đòn khiến Ẩn Thân bị giải trừ, chính thức bước vào trận chiến trùm thực sự để bảo vệ Erta.
 
+## 46
+Yu IlHan trực diện giao chiến với con quái vật tử thần biến dị chưa từng được ghi chép; dù chênh lệch gần 100 cấp độ và không thể đọ sức mạnh, anh vận dụng kỹ nghệ võ thuật nghìn năm nhìn thấu toàn bộ quỹ đạo đòn đánh, né tránh mưa cọc gai hắc ám cùng đao gió ma pháp để dùng Hắc Thương Tử Thần liên tiếp gây sát thương chí mạng.
+Quái vật rơi vào trạng thái cuồng loạn điên cuồng đòi tước đoạt ghi chép, tăng vọt tốc độ và cường độ tấn công khiến giáp trụ của IlHan trầy xước nặng; khi nó bất ngờ phóng cọc gai từ áo trùm nhắm vào Erta, IlHan che chắn cho cô khiến cánh tay bị cọc gai đâm rách và dính phải ma pháp nguyền rủa đen kịt mà Kháng Độc Cực Hạn không thể cản.
+Nhận thấy quái vật nhắm vào mình và sức mạnh thiên thần bị dị thường hầm ngục phong tỏa, Erta dũng cảm bay đi dụ hướng khác/thực hiện kế hoạch riêng sau khi được IlHan tung đòn kích chí mạng kéo aggro giải vây.
+Cảnh kết thúc: Sau khi tiễn Erta rời đi với lời dặn 'đừng chết', Yu IlHan mỉm cười gạt bỏ đau đớn nơi cánh tay tê liệt và tự tin lao mình vào cơn bão mana tử thần để quyết chiến một mất một còn.
+

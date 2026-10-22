@@ -30,6 +30,7 @@
 | Kek | Khặc | Tiếng cười khẩy, cảm thán ngạc nhiên theo văn hóa mạng/game |
 | Kwek / Kweeek | Khẹc / Khẹccc | Tiếng kêu/rít của quái vật bò sát (Thằn Lằn Lửa) |
 | Kuaak | Khuặc | Tiếng gầm thét của quái vật |
+| Kyaaak / Kyaaaak | Khéck / Khéccc | Tiếng rít/thét chói tai của quái vật |
 | Kuhuk / Kuhk | Khặc / Hự | Tiếng rên/nghẹn họng khi trúng đòn hiểm |
 
 ## Đặc điểm ghi nhận theo chương
