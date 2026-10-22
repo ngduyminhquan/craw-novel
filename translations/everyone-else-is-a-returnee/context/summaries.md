@@ -70,3 +70,9 @@ Trước sự hỗn loạn của người dân và sự cổ vũ bất đắc d�
 Khi con Sói Lớn Xảo Quyệt cấp 32 bắt giữ một cô gái làm con tin hòng kiềm tỏa anh, IlHan không chút do dự phóng thẳng ngọn thương thép xuyên đầu nó rồi dùng võ thuật tay không quét sạch tàn dư bầy quái trước sự ngỡ ngàng của quân đội.
 Cảnh kết thúc: Giữa vòng vây của người dân và binh lính, nữ thiếu úy trung đội trưởng Han YeoRang bước tới hét lớn nhận diện anh là "Sungdaein Bolt", khiến IlHan nhận ra ngay thủ phạm đứng sau cái biệt danh đáng xấu hổ này.
 
+## 12
+Yu IlHan từ chối hợp tác với quân đội nhưng chủ động thỏa thuận bán toàn bộ xác Chó Lang Thang nguyên vẹn (được mổ xẻ hoàn hảo) cho cấp trên của thiếu úy Han YeoRang để lấy 370 triệu won tiền mặt; anh kiên quyết giữ lại toàn bộ da, xương sói và hơn 20 viên ma thạch.
+Erta nghiêm giọng cảnh báo IlHan tuyệt đối không được nuốt trực tiếp ma thạch kẻo bị mana quái vật thao túng, đồng thời tiết lộ thịt quái vật sói có độc cần kỹ năng Kháng Độc Yếu mới ăn được.
+Sau khi nhận cọc tiền mặt khổng lồ từ trung tá và phái đoàn chính phủ, IlHan dùng ứng dụng đèn flash điện thoại gây chói tạm thời để kích hoạt lại Ẩn Thân qua khe hở nhận thức rồi biến mất ngay trước mắt mọi người.
+Cảnh kết thúc: IlHan vác túi da sói chứa chiến lợi phẩm ung dung rời đi giữa sự ngơ ngác của mọi người, chuẩn bị cất giấu tài sản và kiểm tra thông tin chức nghiệp trong lúc tiếp tục hành trình săn quái cùng Erta.
+

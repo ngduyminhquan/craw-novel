@@ -25,6 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 9: Học được kỹ năng Chế Tác Mana (thăng lên Lv 2); tự tay chế tạo giáp bảo hộ cổ tay và đầu gối từ vỏ giáp quái vật và ma thạch, trong đó tích hợp lưỡi hái ẩn của Bọ Ngựa Khổng Lồ vào giáp cổ tay trái.
 - Trạng thái tính đến chương 10: Biết được sự thật Trái Đất đã trôi qua 1000 năm (thay vì 150 năm như anh tưởng) và quái vật trên Trái Đất có trí thông minh và sức mạnh dị thường; đồng ý nhận lời Erta làm tiên phong săn quái cấp cao (đối đầu đàn 70 quái do Sói Bạo Tàn cấp 35 cầm đầu) để nhận phần thưởng từ thiên giới.
 - Trạng thái tính đến chương 11: Đạt cấp độ 9 (chạm trần cấp độ trước khi nhận chức nghiệp lần 1); một mình tiêu diệt trọn vẹn bầy quái vật sói và chó hoang biến dị (hạ gục Sói Bạo Tàn Nâu Lv 35 và Sói Lớn Xảo Quyệt Lv 32); biệt danh Sungdaein Bolt lan truyền khắp nơi và bị thiếu úy Han YeoRang nhận diện trực tiếp.
+- Trạng thái tính đến chương 12: Bán xác bầy Chó Lang Thang cho quân đội thu về 370 triệu won tiền mặt; thu hoạch da, xương sói và hơn 20 viên ma thạch; tận dụng khe hở nhận thức bằng đèn flash điện thoại để tái kích hoạt Ẩn Thân tẩu thoát ngay trước mắt đám đông.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -48,3 +49,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm.
+
+### Han YeoRang
+- Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
+- Tính cách: Thẳng thắn, hơi bộc trực, sợ cấp trên nhưng cũng rất cá tính; dễ ấm ức trước thái độ phũ phàng của IlHan.
+- Trạng thái tính đến chương 12: Đứng ra mua lại xác bầy Chó Lang Thang từ IlHan theo lệnh cấp trên; bất đắc dĩ phải thử dùng "mỹ nhân kế" để lôi kéo anh nhưng thất bại thảm hại.

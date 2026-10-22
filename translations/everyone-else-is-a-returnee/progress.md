@@ -16,7 +16,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | reviewed |  |
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | done |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | done |  |
-| 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | todo |  |
+| 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | done |  |
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | todo |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | todo |  |
 | 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -408,3 +409,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#11] Quái vật "Wandering Dog" (Lv 18) — Tạm chọn: "Chó Lang Thang". Phương án khác: "Chó Hoang Dã", "Khuyển Lang Thang". Tạm dùng trong bản dịch: "Chó Lang Thang". → Chốt 'Chó Lang Thang' (orchestrator)
 - [#11] Quái vật "Cunning Big Wolf" (Lv 32) — Tạm chọn: "Sói Lớn Xảo Quyệt". Phương án khác: "Đại Lang Xảo Quyệt", "Sói Già Xảo Quyệt". Tạm dùng trong bản dịch: "Sói Lớn Xảo Quyệt". → Chốt 'Sói Lớn Xảo Quyệt' (orchestrator)
 - [#11] Chi tiết "dog days" ở đoạn 107 (raw: "Wow, even on dog days I wouldn't be able to kill that much") — Tạm chọn: dịch thành "vào những ngày hè tam phục" (phù hợp văn hóa Hàn Quốc Boknal / những ngày ăn thịt chó giải nhiệt). Tạm dùng trong bản dịch: "ngay cả vào những ngày hè tam phục tôi cũng chẳng thể làm thịt được nhiều thế đâu". → Chấp nhận dịch 'vào những ngày hè tam phục' (theo văn hóa Boknal Hàn Quốc) (orchestrator)
+- [#12] Kỹ năng "weak poison resistance" — Tạm chọn: "Kháng Độc Yếu". Phương án khác: "Kháng Độc Cấp Thấp", "Kháng Độc Yếu Ớt". Tạm dùng trong bản dịch: "Kháng Độc Yếu". → Chốt 'Kháng Độc Yếu' (orchestrator)
+- [#12] Cụm từ "honey trap" (lệnh cấp trên ép Han YeoRang dùng để lôi kéo IlHan) — Tạm chọn: "mỹ nhân kế". Phương án khác: "bẫy mật", "cạm bẫy ngọt ngào". Tạm dùng trong bản dịch: "mỹ nhân kế". → Chốt 'mỹ nhân kế' (orchestrator)
+- [#12 đoạn 79] Câu văn raw EN "Despite the thousand years of training, he couldn't be nervous in front of the enormous sum of money in front of him" có mâu thuẫn nội tại với câu trước "đôi tay anh khẽ run rẩy" và câu sau "chưa từng cướp ngân hàng" (nguyên tác tiếng Hàn là 떨지 않을 수 없었다 - không thể không hồi hộp/run rẩy). Tạm chọn: dịch thoát ý logic thành "anh làm sao có thể không run rẩy trước số tiền khổng lồ đang hiện ra trước mắt". → Chấp nhận dịch thoát ý theo logic mạch văn ('làm sao có thể không run rẩy') (orchestrator)
