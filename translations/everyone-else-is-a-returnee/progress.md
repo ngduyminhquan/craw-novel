@@ -59,9 +59,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | reviewed |  |
 | 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | reviewed |  |
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | reviewed |  |
-| 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | done |  |
-| 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | done |  |
-| 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | done |  |
+| 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | reviewed |  |
+| 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | reviewed |  |
+| 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | reviewed |  |
 | 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | todo |  |
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | todo |  |
 | 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | todo |  |
@@ -565,3 +565,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#57] Dịch thuật ngữ phân loại quái vật Originals và Migrants? → Chốt Nguyên Bản (quái vật tiến hóa từ động vật Trái Đất) và Di Cư (quái vật hình thành từ sự tích tụ mana). (orchestrator)
 - [#57] Dịch tên kỹ năng Leap? → Chốt Bật Nhảy. (orchestrator)
 - [#57] Xử lý ghi chú inline E/N và meme truck-kun ở đoạn 88? → Lược bỏ ghi chú (E/N: ...) theo rules.md và dịch xe tải truck-kun để bảo toàn tính hài hước văn hóa meme. (orchestrator)
+- [#55-57] Tiêu đề arc I Carry ở Chương 55? → Chấp nhận đổi thành # Chương 55: Tôi Gánh Vác (2) để đồng bộ toàn bộ arc. (orchestrator)
+- [#55-57] Từ ngữ tiếng Anh bunker ở Ch.57 đoạn 86? → Chấp nhận sửa thành cây Súng Bắn Cọc yêu quý của tao. (orchestrator)
+- [#55-57] Từ thằng bé của Lita ở Ch.55 đoạn 80? → Chấp nhận sửa thành cậu ấy. (orchestrator)
+- [#55-57] Từ Hán Việt ở Ch.57 đoạn 101? → Chấp nhận sửa đoạn thương ngắn thành ngọn đoản thương. (orchestrator)

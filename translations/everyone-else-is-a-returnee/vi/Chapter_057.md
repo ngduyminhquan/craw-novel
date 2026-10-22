@@ -170,7 +170,7 @@ Gần như cùng lúc, đôi cánh của nó cuộn trào nên một cơn lốc 
 
 Thật may phước nếu nó không bị sấm sét phá hủy làm hỏng hóc.
 
-"Mày mà làm bảo bối bunker của tao bị thương thì tao không tha cho mày đâu."
+"Mày mà làm cây Súng Bắn Cọc yêu quý của tao bị thương thì tao không tha cho mày đâu."
 
 [...Đằng nào thì cậu cũng định giết nó còn gì.] (Erta)
 
@@ -200,7 +200,7 @@ Cậu ta rốt cuộc đã chế tạo ra nó bằng cách nào cơ chứ? Đún
 
 Thế nhưng, dẫu Erta mới chỉ nghe đến chừng đó, cô nàng đã lập tức nhận ra Yu IlHan đang toan tính điều gì.
 
-[Cậu định phóng đoạn thương ngắn bắn trúng cọc đạn của Súng Bắn Cọc để đóng nó cắm sâu hơn vào trong sao?] (Erta)
+[Cậu định phóng ngọn đoản thương bắn trúng cọc đạn của Súng Bắn Cọc để đóng nó cắm sâu hơn vào trong sao?] (Erta)
 
 "Chính xác."
 
@@ -248,7 +248,7 @@ Thế nhưng, việc đó là hoàn toàn không cần thiết. Cơn lốc sấm
 
 [Bạn đã hoàn thành một trong những điều kiện để nhận kỹ năng chủ động, Phản Kích. Nếu hoàn thành thêm 3 điều kiện nữa, bạn sẽ có thể nhận được Phản Kích.]
 
-[Thời gian hiệu lực của Quái Lực kết thúc, và trong 7 phút 30 giây, sức mạnh cơ bắp giảm xuống 60%.]
+[Thời gian hiệu lực của Quái Lực kết thúc, và trong 7 phút 30 giây, sức mạnh cơ bắp giảm xuống còn 60%.]
 
 [Kỹ năng Thu Thập Tử Vong đã đạt cấp 4.]
 

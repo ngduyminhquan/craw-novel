@@ -1,4 +1,4 @@
-# Chương 55: Gánh Đội (2)
+# Chương 55: Tôi Gánh Vác (2)
 
 Vừa mở miệng đã nhắc ngay đến YuNa và anh trai mà chẳng mảy may đắn đo... Thầm nghĩ lời đề nghị của mình hẳn phải có sức cám dỗ ghê gớm lắm, Yu IlHan bật cười.
 
@@ -42,7 +42,7 @@ Yu IlHan đến nơi, nhưng nhân viên quán chẳng thể nhìn thấy bóng 
 
 "Chào anh... A."
 
-Thật đáng kinh ngạc, Kang MiRae lại đối diện với anh mà không hề đeo mặt nạ. Nhan sắc của cô, dẫu không đến mức áp đảo cả thực thể cấp cao dẫu thân là thực thể cấp thấp như Na YuNa, nhưng khí chất đoan trang đài các lại toát lên nét đẹp kiêu hãnh của một tiểu thư. Tất nhiên, với chướng ngại tâm lý của Yu IlHan thì những thứ đó chẳng thể lay chuyển nổi anh một phân.
+Thật đáng kinh ngạc, Kang MiRae lại đối diện với anh mà không hề đeo mặt nạ. Nhan sắc của cô, tuy không đến mức áp đảo cả thực thể cấp cao dù bản thân chỉ là một thực thể cấp thấp như Na YuNa, nhưng khí chất đoan trang đài các lại toát lên nét đẹp kiêu hãnh của một tiểu thư. Tất nhiên, với chướng ngại tâm lý của Yu IlHan thì những thứ đó chẳng thể lay chuyển nổi anh một phân.
 
 "Anh không cần phải tháo mặt nạ ra đâu. Tôi tháo mặt nạ chỉ nhằm thể hiện rằng mình không có điều gì phải giấu giếm anh. Tuy nhiên, sự tin tưởng của tôi và của anh không nhất thiết phải ngang bằng nhau. Tôi tôn trọng anh, bao gồm cả điều đó."
 
@@ -158,7 +158,7 @@ Yu IlHan tìm thấy hầm ngục, kiểm tra quy mô vòng xoáy và xác nhậ
 
 [Tôi đã bảo là mình sẽ không thèm bắt bẻ vụ đó nữa rồi mà.] (Erta)
 
-[Cuộc đời của IlHan phải trắc trở đến mức nào mà thằng bé lại mừng rỡ chỉ vì nhìn thấy một cái hầm ngục bình thường chứ? Cô đã làm cái quái gì với cậu ấy thế hả?] (Lita)
+[Cuộc đời của IlHan phải trắc trở đến mức nào mà cậu ấy lại mừng rỡ chỉ vì nhìn thấy một cái hầm ngục bình thường chứ? Cô đã làm cái quái gì với cậu ấy thế hả?] (Lita)
 
 [Càng nói về chuyện đó chỉ càng làm tôi đau lòng thêm thôi, nên xin cô đừng động vào chủ đề ấy nữa, Lita.] (Erta)
 

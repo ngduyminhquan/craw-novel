@@ -324,3 +324,4 @@
 | Leap |  | Bật Nhảy | kỹ năng | 57 | Kỹ năng có điều kiện giúp dậm chân nhảy cao khi đang kích hoạt Quái Lực |
 | Counter |  | Phản Kích | kỹ năng | 57 | Kỹ năng chủ động phản đòn công kích |
 | Snorlax | Sn*rl*x | Sn*rl*x | khác | 57 | Được phép giữ nguyên: Pokemon lười ngủ (tham chiếu văn hóa đại chúng) |
+| frag shot |  | đạn nổ mảnh | vật phẩm | 57 | Loại đạn cọc phát nổ phóng mảnh bom của Súng Bắn Cọc được thiết kế nổ bên trong cơ thể kẻ địch |
