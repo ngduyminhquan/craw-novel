@@ -49,7 +49,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | reviewed |  |
 | 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | done |  |
 | 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | done |  |
-| 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | todo |  |
+| 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | done |  |
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | todo |  |
 | 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | todo |  |
 | 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | todo |  |
@@ -369,8 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -520,3 +518,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#44] Kỹ năng "Chasing Strike" của Kang HaJin — Tạm chọn: "Truy Kích" (chuẩn Hán Việt ngắn gọn theo rules.md). Phương án khác: "Truy Kích Trảm", "Đòn Truy Kích". Tạm dùng trong bản dịch: "Truy Kích". → Chốt Truy Kích. (orchestrator)
 - [#44] Danh hiệu "Not two hits, nor three hits, but one hit" — Tạm chọn: "Không hai đòn, chẳng ba đòn, chỉ một đòn" (vần điệu, giữ chất hài hước và khớp phong cách danh hiệu ở #14 'Một đòn cho ta, một đòn cho ngươi!'). Phương án khác: "Không phải hai đòn, chẳng phải ba đòn, mà là một đòn". Tạm dùng trong bản dịch: "Không hai đòn, chẳng ba đòn, chỉ một đòn". → Chốt Không hai đòn, chẳng ba đòn, chỉ một đòn. (orchestrator)
 - [#44] Đòn đấu vật hài hước Erta dùng với Feyta "Angel Sleeper Hold" và "Angel Cross Choke" — Tạm chọn: "Đòn Khóa Cổ Thiên Thần" và "Đòn Siết Cổ Chữ Thập Thiên Thần". Phương án khác: "Thiên Thần Tỏa Họng" và "Thiên Thần Thập Tự Tỏa". Tạm dùng trong bản dịch: "Đòn Khóa Cổ Thiên Thần" và "Đòn Siết Cổ Chữ Thập Thiên Thần". → Chốt Đòn Khóa Cổ Thiên Thần và Đòn Siết Cổ Chữ Thập Thiên Thần. (orchestrator)
+- [#45] Kỹ năng "Transcendent Regeneration" — Tạm chọn: "Siêu Việt Tái Sinh" (chuẩn Hán Việt ngắn gọn theo rules.md, kỹ năng tiến hóa từ Nghỉ Ngơi). Phương án khác: "Tái Sinh Siêu Việt". Tạm dùng trong bản dịch: "Siêu Việt Tái Sinh". → Chốt Siêu Việt Tái Sinh. (orchestrator)
+- [#45] Cấp độ kỹ năng "EX-tier" / "EX" — Tạm chọn: "Hạng EX" (đồng bộ với Hạng SSS). Phương án khác: "Cấp EX". Tạm dùng trong bản dịch: "Hạng EX". → Chốt Hạng EX. (orchestrator)
+- [#45] Khái niệm "Abandoned World" — Tạm chọn: "Thế Giới Bị Bỏ Rơi" (thế giới bị quái vật áp đảo khiến Thiên giới cắt đứt liên lạc và bỏ phế; sát với chủ đề của truyện). Phương án khác: "Thế Giới Bị Ruồng Bỏ", "Thế Giới Bị Bỏ Phế". Tạm dùng trong bản dịch: "Thế Giới Bị Bỏ Rơi". → Chốt Thế Giới Bị Bỏ Rơi. (orchestrator)

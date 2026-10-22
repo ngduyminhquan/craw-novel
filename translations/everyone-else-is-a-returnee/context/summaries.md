@@ -275,3 +275,10 @@ Yu IlHan dùng Súng Bắn Cọc Tất Sát Cuồng Thiên nhất kích tất s�
 IlHan phối hợp cùng HaJin (dùng kỹ năng 'Truy Kích') và bùa lợi của Na YuNa hạ gục Bọ Cạp Tử Thần Khổng Lồ Lv 95; anh nhường túi nọc cho nhóm HaJin còn mình thu trọn xác thịt và giáp xác.
 Khi giải phẫu xác Thủ Lĩnh Troll Cao Nguyên, IlHan thu hoạch được viên ma thạch chuyển chức 3 hệ troll hoàn hảo để tiến hóa kỹ năng Nghỉ Ngơi, đồng thời được Na YuNa dùng ma pháp hỗ trợ hồi sức sau khi hết thời gian Quái Lực.
 Cảnh kết thúc: Kang HaJin đại diện clan ngỏ lời mời IlHan gia nhập nhưng bị anh phũ phàng từ chối do tâm lý bài xích của kẻ cô độc; sau khi tiễn hai người rời đi và xác nhận Ẩn Thân đã tái kích hoạt, IlHan hào hứng chuẩn bị tiến hóa kỹ năng Nghỉ Ngơi.
+
+## 45
+Yu IlHan hiến tế toàn bộ nguyên liệu (500 tim quái chuyển chức 2, 500L máu troll, 100 giờ ngủ và ma thạch chuyển chức 3) tiến hóa thành công kỹ năng Nghỉ Ngơi thành 'Siêu Việt Tái Sinh' (kỹ năng có độ khó rèn luyện thuộc Hạng EX).
+Anh tiếp tục săn quái chuyển chức 2 bằng đòn tập kích để hoàn thành điều kiện chuyển chức 'Tử Thần Tập Sự', nhưng nhận thấy hành vi lũ troll thay đổi kỳ lạ và tần suất xuất hiện giảm mạnh khiến anh nghi ngờ có quái vật trùm tối thượng khác trong hầm ngục.
+Khi đã hạ 97/100 con troll, IlHan và Erta quyết định rút lui vì rủi ro quá lớn, nhưng bàng hoàng phát hiện lối vào hầm ngục đã biến mất và vòng thiên thần mất toàn bộ liên lạc với Thiên giới, dấu hiệu của một 'Thế Giới Bị Bỏ Rơi'.
+Cảnh kết thúc: Một con quái vật bí ẩn mang hình tượng tử thần cầm lưỡi hái khổng lồ bất ngờ tập kích Erta; IlHan lao ra đỡ đòn khiến Ẩn Thân bị giải trừ, chính thức bước vào trận chiến trùm thực sự để bảo vệ Erta.
+

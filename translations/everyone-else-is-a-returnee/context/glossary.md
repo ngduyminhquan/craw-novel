@@ -248,3 +248,6 @@
 | Not two hits, nor three hits, but one hit |  | Không hai đòn, chẳng ba đòn, chỉ một đòn | danh hiệu | 44 | Danh hiệu nhận được khi hạ gục quái vật chuyển chức 3 trong một đòn, tăng 20% EXP và khả năng rơi ma thạch |
 | Angel Sleeper Hold |  | Đòn Khóa Cổ Thiên Thần | kỹ năng | 44 | Đòn khóa đấu vật hài hước Erta dùng để trừng phạt Feyta |
 | Angel Cross Choke |  | Đòn Siết Cổ Chữ Thập Thiên Thần | kỹ năng | 44 | Đòn siết đấu vật hài hước Erta dùng để trừng phạt Feyta |
+| Transcendent Regeneration | Transcendent Regeneration skill | Siêu Việt Tái Sinh | kỹ năng | 45 | Kỹ năng tiến hóa từ Nghỉ Ngơi, độ khó tu luyện Hạng EX, hồi phục chấn thương tức thì |
+| EX | EX-tier; EX rank | Hạng EX | hệ thống | 45 | Cấp độ khó hoặc phẩm cấp vượt trên cả Hạng SSS |
+| Abandoned World | Abandoned Worlds | Thế Giới Bị Bỏ Rơi | khác | 45 | Thế giới mất cân bằng nghiêm trọng do quái vật áp đảo dẫn đến bị Thiên giới cắt đứt liên lạc và bỏ rơi |
