@@ -36,12 +36,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 16: Hoàn thành Nhiệm Vụ Thiên Giới 001, tăng 1 điểm toàn bộ chỉ số; nhận phần thưởng đặc biệt là Ngọn Lửa Vĩnh Cửu từ thiên giới (do Lita kiên quyết đòi cho anh); mua một nhà kho làm xưởng chế tác riêng và nhận nhiệm vụ thiết lập hầm ngục trên Trái Đất.
 - Trạng thái tính đến chương 17: Nhận nhiệm vụ thiên giới chế tạo 'Bẫy Hủy Diệt' để thiết lập hầm ngục cho Trái Đất; phối hợp cùng Ngọn Lửa Vĩnh Cửu gia công thành công kim loại thế giới bậc cao Harkanium, thể hiện trình độ thợ rèn phi phàm khiến Erta chấn động thừa nhận tiềm năng kỹ nghệ có thể sánh ngang và thách thức cả Thượng Đế.
 - Trạng thái tính đến chương 18: Thức tỉnh kỹ năng Rèn Đúc ở Lv Max; nhận danh hiệu 'Kẻ Sáng Tạo Thần Thoại' (+20% toàn bộ hiệu quả sản xuất); cùng nhóm thiên thần hoàn thành Bẫy Hủy Diệt sở hữu 2 dòng thuộc tính hiếm 'Tỉ Mỉ' và 'Trần Thế', nâng cấp Chế Tác Mana lên cấp 7.
+- Trạng thái tính đến chương 19: Thăng cấp Chế Tác Mana lên Cấp 8; tự trang bị toàn bộ set đồ da quái vật tự chế gồm Găng Tay & Ủng Da Sói Bạo Tàn (Phẩm cấp Hiếm), Giáp Da Gấu Cứng Chí Mạng Kín Đáo Sắc Bén (Phẩm cấp Độc Nhất), Dao Xương Gấu (Phẩm cấp Hiếm) và Mặt Nạ Đầu Lâu Sói Bạo Tàn (Phẩm cấp Hiếm, thay thế mặt nạ Người Sắt); lần đầu tiên nhen nhóm khát vọng cháy bỏng trở nên mạnh mẽ tột cùng để làm chủ tự do của chính mình.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
 - Tính cách: Ban đầu có phần ngạo mạn, trịch thượng của thực thể cấp cao, nhưng dần gắn bó, thấu hiểu và nảy sinh tình cảm sâu sắc với Yu IlHan sau 1000 năm đồng hành. Hay trêu chọc IlHan nhưng hết lòng lo lắng, bảo vệ quyền lợi cho anh trước Thượng Đế.
 - Cách nói chuyện: Thân mật, có chút đanh đá, trêu ngươi ("Ái chà", "Ara ara"), nhưng đầy quan tâm.
 - Quan hệ / Trạng thái tính đến chương 5: Yêu IlHan sâu sắc; bị triệu hồi về thiên giới khi Trái Đất phục hồi thời gian, mang theo thanh kiếm kỷ niệm rác rưởi của IlHan và tiếc nuối vì chưa kịp hôn anh; luôn hy vọng và cầu nguyện sớm gặp lại anh.
+- Trạng thái tính đến chương 19: Đang phải gánh vác rất nhiều việc trên thiên giới và chịu khổ sở vì đã chiếu cố, đòi quyền lợi cho IlHan quá nhiều; tạm thời chưa thể được phái xuống Trái Đất.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.

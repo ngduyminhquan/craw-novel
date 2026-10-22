@@ -100,11 +100,11 @@
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
 | Heavenly Quest |  | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
-| Republic of Korea |  | Hàn Quốc / Đại Hàn Dân Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
+| Republic of Korea | Korea | Hàn Quốc / Đại Hàn Dân Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
 | Earth |  | Trái Đất | địa danh | 1 | Thế giới quê hương của Yu IlHan |
 | Inventory |  | Túi đồ | hệ thống | 6 | Không gian chứa đồ ma pháp |
-| Trap of Destruction |  | Bẫy Hủy Diệt | vật phẩm | 17 | Ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục |
+| Trap of Destruction | Traps of Destruction | Bẫy Hủy Diệt | vật phẩm | 17 | Ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục |
 | Harkanium |  | Harkanium | vật phẩm | 17 | Kim loại thế giới bậc cao phát ra ánh sáng đen kỳ ảo |
 | Fecinom |  | Fecinom | vật phẩm | 17 | Kim loại thế giới bậc cao chứa năng lượng đỏ rực thô ráp |
 | El Hazra |  | El Hazra | vật phẩm | 17 | Kim loại lỏng thế giới bậc cao phát ra ánh sáng lam nhạt |
@@ -117,3 +117,18 @@
 | Angel's ring |  | Vòng thiên thần | khác | 18 | Biểu tượng liên kết vượt không thời gian và giao tiếp giữa các thiên thần |
 | Shrinking magic |  | Ma pháp thu nhỏ | hệ thống | 16 | Ma pháp Erta dùng để thu nhỏ cơ thể xuống kích thước lòng bàn tay |
 | Invisibility magic |  | Ma pháp tàng hình | hệ thống | 18 | Ma pháp các thiên thần định thi triển lên IlHan để che giấu người thường |
+| Rare |  | Hiếm | hệ thống | 19 | Phẩm cấp trang bị/vật phẩm |
+| Defense |  | Phòng thủ | hệ thống | 19 | Chỉ số phòng thủ của trang bị |
+| Secretive |  | Kín Đáo | hệ thống | 19 | Tiền tố dòng thuộc tính alpha/beta giúp che giấu |
+| Sharp |  | Sắc Bén | hệ thống | 19 | Tiền tố dòng thuộc tính alpha/beta tăng uy lực đâm chém |
+| Direwolf Leather Gloves |  | Găng Tay Da Sói Bạo Tàn | vật phẩm | 19 | Găng tay da Sói Bạo Tàn do Yu IlHan chế tạo |
+| Direwolf Leather Boots |  | Ủng Da Sói Bạo Tàn | vật phẩm | 19 | Ủng da Sói Bạo Tàn do Yu IlHan chế tạo |
+| Hard Bear Leather Armor |  | Giáp Da Gấu Cứng | vật phẩm | 19 | Giáp da gấu ninh dầu do Yu IlHan chế tạo từ da Gấu Lớn Nâu |
+| Hard Bear Critical Leather Armor |  | Giáp Da Gấu Cứng Chí Mạng | vật phẩm | 19 | Giáp da gấu cứng có gắn thêm nanh vuốt và xương quái vật |
+| Secretive Sharp Hard Bear Critical Leather Armor |  | Giáp Da Gấu Cứng Chí Mạng Kín Đáo Sắc Bén | vật phẩm | 19 | Giáp da gấu cứng chí mạng hoàn chỉnh có 2 dòng thuộc tính Kín Đáo và Sắc Bén |
+| Bear Bone Knife |  | Dao Xương Gấu | vật phẩm | 19 | Dao xương dùng để giải phẫu làm từ xương Gấu Lớn Nâu |
+| Direwolf Skull Mask |  | Mặt Nạ Đầu Lâu Sói Bạo Tàn | vật phẩm | 19 | Mặt nạ làm từ xương sọ Sói Bạo Tàn thay thế mặt nạ Người Sắt |
+| Seoul |  | Seoul | địa danh | 19 | Thủ đô Hàn Quốc |
+| Jongno | JongNo; JongNo district | Jongno / Quận Jongno | địa danh | 19 | Quận Jongno tại Seoul |
+| Japan |  | Nhật Bản | địa danh | 19 | Quốc gia láng giềng |
+| China |  | Trung Quốc | địa danh | 19 | Quốc gia láng giềng |

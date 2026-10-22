@@ -23,7 +23,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | reviewed |  |
 | 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | reviewed |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | reviewed |  |
-| 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | todo |  |
+| 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | done |  |
 | 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | todo |  |
 | 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | todo |  |
 | 22 |  | Chapter_022 - You Want to Hunt With Me!_ (3).txt | You Want to Hunt With Me!_ (3) | todo |  |

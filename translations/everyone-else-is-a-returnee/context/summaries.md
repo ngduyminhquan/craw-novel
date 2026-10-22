@@ -114,4 +114,11 @@ Erta kích hoạt vòng thiên thần triệu tập nhóm đồng nghiệp thiê
 Hai thiên thần đưa IlHan bay đến đỉnh đồi hoang vu để thử nghiệm kích hoạt Bẫy Hủy Diệt; khi Erta ném tạo tác ra, các vòng kim loại phóng to rồi tan biến vào không gian khiến mặt đất bắt đầu rung chuyển.
 Cảnh kết thúc: Bẫy Hủy Diệt bước đầu kích hoạt thành công, mặt đất chấn động dữ dội và quái vật khắp nơi bắt đầu kéo dồn về phía ngọn đồi.
 
+## 19
+Bẫy Hủy Diệt kích hoạt ma pháp thao túng ngũ quan thành công vang dội, giam cầm hàng ngàn quái vật và tạo nên hầm ngục đầu tiên, đồng thời kích hoạt các Bẫy Hủy Diệt khác trên khắp Hàn Quốc, Nhật Bản và Trung Quốc.
+Chứng kiến quái vật và con người bất lực trước bàn tay Thượng Đế, Yu IlHan lần đầu nung nấu ý chí trở nên mạnh mẽ tột cùng để giành lấy tự do tuyệt đối; các thiên thần kiệt sức vì truyền mana nên tạm hoãn chế tạo 27 bẫy còn lại trong 2 ngày, Erta tiết lộ Lita đang chịu khổ nhận việc bù trên thiên giới vì đã giúp đỡ IlHan quá nhiều.
+Erta hỗ trợ dùng ma pháp xử lý sạch toàn bộ da quái vật trong xưởng; IlHan dồn sức chế tạo bộ trang bị mới gồm găng tay, ủng da Sói Bạo Tàn (có nanh ẩn bật ra), giáp da Gấu Lớn Nâu ninh dầu, nâng cấp Chế Tác Mana lên cấp 8 và hoàn thiện Giáp Da Gấu Cứng Chí Mạng 'Kín Đáo' 'Sắc Bén' (bật gai xương nhọn), dao xương gấu cùng mặt nạ đầu lâu Sói Bạo Tàn (khiến Ẩn Thân càng mờ nhạt hơn).
+Cảnh kết thúc: Vừa trang bị xong đồ mới, IlHan và Erta nghe thấy tiếng còi báo động khẩn cấp khắp quận Jongno yêu cầu sơ tán vì xuất hiện quái vật chuyển chức lần 2 cỡ lớn; IlHan chỉ thở dài cầu mong nó yếu hơn Gấu Lớn Nâu để đỡ phải mất công lột da may thêm bộ giáp mới.
+
+
 
