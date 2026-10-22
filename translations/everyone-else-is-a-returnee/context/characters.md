@@ -19,7 +19,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
 | Shiota | Shiuta | Shiota | Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt cùng nhóm Erta | 30 |
-| HaJin | Ha Jin; Kang HaJin; Kang Hajin | HaJin | Nam dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
+| HaJin | Ha Jin; Kang HaJin; Kang Hajin | HaJin | Nam dị năng giả người Hàn (chức nghiệp Thánh Kỵ Sĩ) | 36 |
 | YuNa | Yu Na; Na YuNa | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 
@@ -70,6 +70,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 44: Dùng Súng Bắn Cọc Tất Sát Cuồng Thiên nhất kích tất sát Thủ Lĩnh Troll Cao Nguyên Lv 109, hoàn thành điều kiện tập kích diệt quái chuyển chức 3 (1/1) của nhiệm vụ chuyển chức 'Tử Thần Tập Sự'; nhận danh hiệu 'Không hai đòn, chẳng ba đòn, chỉ một đòn' (+20% EXP và tỷ lệ rơi ma thạch); thu hoạch viên ma thạch chuyển chức 3 hệ troll để tiến hóa kỹ năng Nghỉ Ngơi; phối hợp diệt Bọ Cạp Tử Thần Khổng Lồ Lv 95 và nhận bùa lợi hồi phục từ Na YuNa; từ chối lời mời gia nhập clan Hàn Quốc của Kang HaJin.
 - Trạng thái tính đến chương 45: Tiến hóa kỹ năng Nghỉ Ngơi thành [Siêu Việt Tái Sinh] (kỹ năng độ khó rèn luyện Hạng EX); đạt tiến độ 97/100 quái vật chuyển chức 2 bị tập kích tiêu diệt cho nhiệm vụ 'Tử Thần Tập Sự'; phát hiện hầm ngục có dấu hiệu biến thành 'Thế Giới Bị Bỏ Rơi' (mất lối vào, mất liên lạc Thiên giới); bị giải trừ Ẩn Thân khi lao ra cứu Erta trước đòn tập kích của quái vật tử thần bí ẩn.
 - Trạng thái tính đến chương 46: Dùng võ thuật nghìn năm nhìn thấu đòn đánh và Hắc Thương Tử Thần liên tiếp gây sát thương chí mạng lên quái vật tử thần biến dị; bị rách giáp cánh tay và dính ma pháp Lời Nguyền khi che chắn cho Erta; ở lại một mình quyết tử với trùm trong cơn bão mana sau khi Erta bay đi.
+- Trạng thái tính đến chương 47: Trực diện đọ sức làm quái vật tử thần cạn kiệt mana và đâm vỡ xương ngực nó; chịu hai tầng nguyền rủa làm tê liệt toàn thân và vỡ nát bộ đại khải nhưng dùng ý chí kiên định phá vỡ giam cầm; được nhóm YuNa giải nguyền kịp thời và lập tức lao đi săn 3 con troll cuối cùng để hoàn tất chuyển chức 2.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -83,6 +84,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Nghiêm túc, nguyên tắc, tính toán lý trí, dễ nổi cáu nhưng rất có trách nhiệm. Thường xuyên rơi vào trạng thái câm nín hoặc bất lực trước sức mạnh và những hành động quái đản ngoài dự đoán của IlHan.
 - Cách nói chuyện: Trịnh trọng, bài bản, đôi khi cáu bẳn và mỉa mai nhẹ.
 - Trạng thái tính đến chương 46: Bị đặc tính dị thường của hầm ngục phong tỏa năng lực thiên thần và trở thành mục tiêu công kích chính của quái vật tử thần biến dị; dũng cảm bay đi hướng khác nhằm giảm bớt gánh nặng và thực hiện kế hoạch hỗ trợ Yu IlHan.
+- Trạng thái tính đến chương 47: Nhận ra tín hiệu mờ nhạt từ vòng thiên thần của Feyta, đưa nhóm HaJin - YuNa đến chi viện cho IlHan; nhận thức được tình cảm kỳ lạ và sự lo lắng sâu sắc của mình dành cho IlHan.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
@@ -129,6 +131,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ truy đuổi chạy thục mạng cùng Na YuNa; nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA'.
 - Trạng thái tính đến chương 43: Cùng Na YuNa tìm săn Bọ Cạp Tử Thần Khổng Lồ lấy nọc độc; nhận bùa lợi tăng sức mạnh từ Na YuNa xông lên chặn đánh bọ cạp thì bất ngờ bị quái vật troll khổng lồ vung chùy kim loại tập kích.
 - Trạng thái tính đến chương 44: Dùng kỹ năng Truy Kích phối hợp cùng IlHan tiêu diệt Bọ Cạp Tử Thần Khổng Lồ Lv 95 và nhận túi nọc độc hoàn thành mục tiêu; đại diện clan tinh nhuệ ngỏ lời mời IlHan gia nhập nhưng bị từ chối.
+- Trạng thái tính đến chương 47: Lộ chức nghiệp Thánh Kỵ Sĩ; bị mắc kẹt trong hầm ngục do Cuộn Trục Đào Tẩu bị vô hiệu hóa; được Erta dẫn đến chi viện cho Yu IlHan; cùng Na YuNa hợp lực húc văng quái vật tử thần và nhận lời cầm cự chịu đòn một mình trong 30 giây.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -139,6 +142,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ kẹp càng lôi đi nhưng được ma pháp phòng ngự bảo hộ; được Yu IlHan cứu thoát; hào hứng nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA' đang sốt trên mạng xã hội.
 - Trạng thái tính đến chương 43: Ban bùa lợi cho Kang HaJin lao lên nghênh chiến Bọ Cạp Tử Thần Khổng Lồ; hoảng hốt kêu gào khi phát hiện quái vật troll khổng lồ xuất hiện vung chùy toan đập nát cả nhóm.
 - Trạng thái tính đến chương 44: Ban bùa lợi hỗ trợ HaJin và nhận ra IlHan suy kiệt thể lực sau khi dùng Quái Lực để thi triển ma pháp hồi phục hỗ trợ anh; nhiệt tình tán thành việc mời IlHan vào clan nhưng bất thành.
+- Trạng thái tính đến chương 47: Bị kẹt trong hầm ngục cùng HaJin; dùng thánh lực và câu niệm chú đặc trưng hóa giải toàn bộ nguyền rủa, hồi phục thể lực cho IlHan và ban bùa lợi cực mạnh giúp HaJin húc văng quái vật tử thần.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

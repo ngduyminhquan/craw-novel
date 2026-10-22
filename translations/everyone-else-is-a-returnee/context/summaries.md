@@ -288,3 +288,9 @@ Quái vật rơi vào trạng thái cuồng loạn điên cuồng đòi tước 
 Nhận thấy quái vật nhắm vào mình và sức mạnh thiên thần bị dị thường hầm ngục phong tỏa, Erta dũng cảm bay đi dụ hướng khác/thực hiện kế hoạch riêng sau khi được IlHan tung đòn kích chí mạng kéo aggro giải vây.
 Cảnh kết thúc: Sau khi tiễn Erta rời đi với lời dặn 'đừng chết', Yu IlHan mỉm cười gạt bỏ đau đớn nơi cánh tay tê liệt và tự tin lao mình vào cơn bão mana tử thần để quyết chiến một mất một còn.
 
+## 47
+Erta cảm nhận sức mạnh thiên thần bị suy giảm nghiêm trọng khi bay đi tìm viện binh; nhận ra nhóm Kang HaJin, Na YuNa và Feyta cũng bị mắc kẹt do cuộn trục đào tẩu vô hiệu trước kết giới Thế Giới Bị Bỏ Rơi ngụy tạo, cô quyết định đưa họ đến hợp lực với Yu IlHan.
+Ở chiến trường, Yu IlHan kiên cường dùng kỹ nghệ võ thuật nghìn năm né tránh và phản công khiến quái vật tử thần cạn kiệt mana, nhưng sau khi đâm vỡ xương ngực nó thì anh gục ngã vì hai tầng nguyền rủa hung hiểm làm tê liệt thần kinh và giáp trụ bị đánh nát.
+Trong khoảnh khắc sinh tử chỉ còn 3 giây, nhóm viện binh kịp thời ập đến: câu thần chú của Na YuNa giải sạch nguyền rủa và hồi sức cho IlHan, trong khi Thánh Kỵ Sĩ Kang HaJin nhận bùa lợi lao vào húc văng quái vật tử thần.
+Cảnh kết thúc: Nhìn thấy 3 con troll lảng vảng nơi chân trời (đúng 3 con còn thiếu để hoàn thành 100/100 chuyển chức Tử Thần Tập Sự), IlHan giao kèo nhờ HaJin chịu đòn cầm cự trong 30 giây rồi nở nụ cười sảng khoái phi thân đi kết liễu nốt lũ troll.
+

@@ -253,3 +253,5 @@
 | EX | EX-tier; EX rank | Hạng EX | hệ thống | 45 | Cấp độ khó hoặc phẩm cấp vượt trên cả Hạng SSS |
 | Abandoned World | Abandoned Worlds | Thế Giới Bị Bỏ Rơi | khác | 45 | Thế giới mất cân bằng nghiêm trọng do quái vật áp đảo dẫn đến bị Thiên giới cắt đứt liên lạc và bỏ rơi |
 | physical abilities |  | năng lực thể chất | hệ thống | 43 | Năng lực thể chất tổng thể trong các bảng mô tả kỹ năng/buff hệ thống |
+| Holy Knight | holy knight | Thánh Kỵ Sĩ | chức nghiệp | 47 | Chức nghiệp của Kang HaJin |
+| Escape Scroll | escape scroll | Cuộn Trục Đào Tẩu | vật phẩm | 47 | Cuộn trục dịch chuyển ma pháp giúp rời khỏi hầm ngục |

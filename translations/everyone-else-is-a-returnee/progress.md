@@ -51,7 +51,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | reviewed |  |
 | 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | reviewed |  |
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | done |  |
-| 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | todo |  |
+| 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | done |  |
 | 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | todo |  |
 | 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | todo |  |
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | todo |  |
@@ -523,3 +523,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#45] Khái niệm "Abandoned World" — Tạm chọn: "Thế Giới Bị Bỏ Rơi" (thế giới bị quái vật áp đảo khiến Thiên giới cắt đứt liên lạc và bỏ phế; sát với chủ đề của truyện). Phương án khác: "Thế Giới Bị Ruồng Bỏ", "Thế Giới Bị Bỏ Phế". Tạm dùng trong bản dịch: "Thế Giới Bị Bỏ Rơi". → Chốt Thế Giới Bị Bỏ Rơi. (orchestrator)
 - [#44 đoạn 70] Xưng hô giữa Erta và Feyta → Chấp nhận, sửa thành [Thành thật thì tôi sẽ tha thứ cho.] theo đúng pronouns.md. (orchestrator)
 - [#45 đoạn 119] Cách đáp của Erta với Yu IlHan → Chấp nhận, đổi thành [Phải. Đáng lẽ phải là thế.]. (orchestrator)
+- [#47] Chức nghiệp "Holy Knight" của Kang HaJin — Tạm chọn: "Thánh Kỵ Sĩ" (chuẩn Hán Việt ngắn gọn theo rules.md). Phương án khác: "Hiệp Sĩ Thánh", "Kỵ Sĩ Thần Thánh". Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Chốt Thánh Kỵ Sĩ. (orchestrator)
+- [#47] Vật phẩm "Escape Scroll" — Tạm chọn: "Cuộn Trục Đào Tẩu" (thuật ngữ game RPG quen thuộc). Phương án khác: "Cuộn Giấy Đào Tẩu", "Cuộn Đào Tẩu". Tạm dùng trong bản dịch: "Cuộn Trục Đào Tẩu". → Chốt Cuộn Trục Đào Tẩu. (orchestrator)
