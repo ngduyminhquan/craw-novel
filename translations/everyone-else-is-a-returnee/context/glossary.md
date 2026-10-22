@@ -140,3 +140,6 @@
 | Thunder Spirit |  | Lôi Linh | kỹ năng | 21 | Bùa lợi ma pháp sấm sét của Empress tăng 50% sức tấn công, tốc độ, chí mạng và sát thương lôi |
 | Lightning Additional Hit |  | Đòn Đánh Phụ Lôi Thuộc Tính | kỹ năng | 21 | Hiệu ứng đòn đánh kèm theo năng lượng sấm sét từ bùa lợi Lôi Linh |
 | Knuckles |  | Knuckles | khác | 21 | Nhân vật thú lông nhím trong series game Sonic nổi tiếng với khả năng leo trèo |
+| Retona |  | Retona | vật phẩm | 22 | Dòng xe quân sự dã chiến của Lục quân Hàn Quốc (Kia Retona / K-131) |
+| MVP | MVPs | MVP | khác | 22 | Người chơi xuất sắc nhất (Most Valuable Player) |
+| AT Field |  | AT Field | khác | 22 | Trường Lực AT (thuật ngữ từ anime Evangelion ví von rào cản tâm lý ngăn cách với người khác) |

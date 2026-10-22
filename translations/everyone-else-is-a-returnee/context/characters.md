@@ -39,6 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 19: Thăng cấp Chế Tác Mana lên Cấp 8; tự trang bị toàn bộ set đồ da quái vật tự chế gồm Găng Tay & Ủng Da Sói Bạo Tàn (Phẩm cấp Hiếm), Giáp Da Gấu Cứng Chí Mạng Kín Đáo Sắc Bén (Phẩm cấp Độc Nhất), Dao Xương Gấu (Phẩm cấp Hiếm) và Mặt Nạ Đầu Lâu Sói Bạo Tàn (Phẩm cấp Hiếm, thay thế mặt nạ Người Sắt); lần đầu tiên nhen nhóm khát vọng cháy bỏng trở nên mạnh mẽ tột cùng để làm chủ tự do của chính mình.
 - Trạng thái tính đến chương 20: Dùng Ngọn Lửa Vĩnh Cửu và đe búa mượn từ thiên giới để nâng cấp vũ khí thành Trường Thương Thép Sắc Bén Chí Mạng (Phẩm cấp Độc Nhất, Sức tấn công 1.100, tăng 20% tỷ lệ đòn đánh chí mạng); tham chiến cứu nguy tại Jongno, đâm mù mắt con báo khổng lồ vượt cấp chuyển chức lần 2, cứu sống hai người lính và tái ngộ Empress trên chiến trường.
 - Trạng thái tính đến chương 21: Đạt cấp độ 28 sau khi hạ gục Báo Khổng Lồ Lv 87 (thu về 784.983 EXP và ghi chép Báo Khổng Lồ Lv 87); kỹ năng Chí Mạng thăng lên Lv 2; phối hợp ăn ý nhận bùa lợi Lôi Linh từ Empress để tung đòn kết liễu quái vật trước khi bị tên lửa oanh tạc.
+- Trạng thái tính đến chương 22: Thu hoạch viên ma thạch xanh lam khổng lồ của Báo Khổng Lồ cấp 87; nhận 40% phụ phẩm (da và xương) từ nửa xác báo của Empress sau khi giải phẫu giúp cô; lần đầu tiên trong đời có người (Empress) tập trung nhìn thấu Ẩn Thân để bám theo sau; nhận danh thiếp nhưng dựng rào cản tâm lý từ chối lập tổ đội với cô.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -58,6 +59,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách / Cách nói chuyện: Bình thản, điềm đạm, thẳng thắn và lịch thiệp; nhận ra giá trị của kỹ năng giải phẫu và chủ động đưa ra đề nghị hợp tác/thuê IlHan mổ quái.
 - Trạng thái tính đến chương 8: Tham chiến tiêu diệt quái vật côn trùng tại sân trường Sungkyunkwan; đối mặt với IlHan (đeo mặt nạ Người Sắt) và ngỏ lời nhờ anh giải phẫu xác quái giúp mình.
 - Trạng thái tính đến chương 21: Tham chiến trên trực thăng tại Jongno; sở hữu kỹ năng bùa lợi ngắn hạn Lôi Linh (+50% công, tốc độ, chí mạng và sát thương sét) nhưng phải tiếp xúc vật lý và cạn kiệt mana sau khi dùng; quả quyết nhảy khỏi trực thăng bám chân IlHan để buff cho anh kết liễu quái thú, tiếc nuối vì quên lập tổ đội nên không nhận được EXP.
+- Trạng thái tính đến chương 22: Thể hiện khả năng tính toán lạnh lùng và công bằng khi phân chia chiến lợi phẩm; thuê IlHan giải phẫu nửa xác báo trả công 40%; tập trung cao độ nhìn thấu kỹ năng Ẩn Thân của IlHan để bám theo xe chở phụ phẩm; chủ động trao danh thiếp để lộ tên thật là Kang MiRae, mời IlHan lập tổ đội lâu dài để hoạt động tại Trái Đất.
 
 ### Kim YeSeul
 - Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái. Bị chuyển đến thế giới Ya-umin trong 10 năm.

@@ -126,13 +126,9 @@ Anh lao tới hiện trường quận Jongno, nơi quân đội và các dị n�
 Nhờ Ẩn Thân đạp tường cao ốc nhảy lên không trung, IlHan tung đòn Chí Mạng đâm nát mắt trái con báo, giải cứu hai người lính trong chiếc xe quân sự rơi tự do, thu hút toàn bộ sự chú ý (aggro) của quái vật tạo cơ hội cho đám đông và Empress tiếp ứng bằng lôi thuật.
 Cảnh kết thúc: Khi con báo liều mạng tông sầm trực diện, IlHan kích hoạt gai xương từ giáp đâm nát mặt nó; dù bị chấn động ê ẩm và bị Erta chê "trông tởm lắm" như con ếch bị xe cán bẹp dí, anh vẫn hài lòng vì trang bị mới phát huy tác dụng ngay lần đầu xuất trận.
 
-## 21
-Yu IlHan găm lưỡi dao ở ủng và găng tay leo lên đỉnh đầu con báo, liên tục tung đòn nện thương chuẩn xác khiến kỹ năng Chí Mạng thăng lên Lv 2, tạo cơ hội cho quân đội và dị năng giả tổng lực dồn ép quái vật.
-Khi con báo mọc xúc tu cơ bắp đột biến hòng tiến hóa lên quái vật chuyển chức lần 3, Empress nhảy từ trực thăng xuống ôm chân IlHan truyền bùa lợi 'Lôi Linh' (+50% công, tốc độ, chí mạng và kèm sát thương lôi trong 30 giây); IlHan dồn toàn lực đâm nát đầu kết liễu Báo Khổng Lồ Lv 87, nhận 784.983 EXP và thăng lên cấp 28.
-Trận chiến kết thúc thắng lợi trong tiếng reo hò cuồng nhiệt của đám đông dành cho Sungdaein Bolt và Empress; tuy nhiên Empress tiu nghỉu vì hai người chưa lập tổ đội nên toàn bộ EXP thuộc về IlHan theo cơ chế 'kẻ thắng thâu tóm tất cả'.
-Cảnh kết thúc: Giữa lúc mọi người hoan hô ăn mừng, IlHan lại tái mét mặt tiếc hùi hụi vì da báo đã rách nát sau đạn pháo ma pháp nên không thể may áo giáp mới, khiến Erta sôi máu chỉ muốn đập cho anh một trận.
-
-
-
-
+## 22
+Sau trận chiến, Yu IlHan cứu hộ và bước ra phân chia chiến lợi phẩm; Empress lạnh lùng tính tỷ lệ 60% cho IlHan, 20% cho cô và 20% cho phần còn lại; IlHan lấy viên ma thạch lam khổng lồ cỡ Ferrero Rocher rồi dùng uy lực vũ lực áp đảo để trấn áp những kẻ tham lam toan đòi chia lại.
+Nhận lời giải phẫu nửa xác báo cho Empress để lấy 40% thù lao (gồm nhiều da và xương), IlHan biểu diễn kỹ năng róc thịt thần sầu chỉ trong 7 phút 30 giây rồi phũ phàng từ chối mổ xẻ hỗ trợ đám đông còn lại khi họ cò kè bớt một thêm hai.
+Empress (Kang MiRae) điều xe tải chở đồ bám theo IlHan nhờ tập trung nhìn thấu Ẩn Thân, đưa danh thiếp ngỏ ý muốn lập tổ đội lâu dài cùng hoạt động trên Trái Đất, nhưng IlHan dựng rào cản tâm lý từ chối và về xưởng chế tác.
+Cảnh kết thúc: Mọi người đã rời đi để lại nửa xác con báo trơ trọi giữa cuộc tranh cãi chưa hồi kết của đám đông, và trong một khoảnh khắc, cái xác khổng lồ bỗng khẽ giật giật mà không một ai hay biết.
 
