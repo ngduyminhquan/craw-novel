@@ -92,3 +92,6 @@
 | Bukhansan |  | Bukhansan | địa danh | 13 | Núi Bukhansan ở Seoul |
 | Gireum |  | Gireum | địa danh | 13 | Khu vực và ga tàu điện ngầm ở Seoul |
 | Jeongneung |  | Jeongneung | địa danh | 13 | Khu vực lân cận núi Bukhansan ở Seoul |
+| Brown Big Bear |  | Gấu Lớn Nâu | quái vật | 14 | Quái vật gấu biến dị cấp 54 tại khu Jeongneung |
+| Critical Hit | Critical Hit Skill | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng |
+| One hit for me, one hit for you! |  | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |

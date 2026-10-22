@@ -27,6 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 11: Đạt cấp độ 9 (chạm trần cấp độ trước khi nhận chức nghiệp lần 1); một mình tiêu diệt trọn vẹn bầy quái vật sói và chó hoang biến dị (hạ gục Sói Bạo Tàn Nâu Lv 35 và Sói Lớn Xảo Quyệt Lv 32); biệt danh Sungdaein Bolt lan truyền khắp nơi và bị thiếu úy Han YeoRang nhận diện trực tiếp.
 - Trạng thái tính đến chương 12: Bán xác bầy Chó Lang Thang cho quân đội thu về 370 triệu won tiền mặt; thu hoạch da, xương sói và hơn 20 viên ma thạch; tận dụng khe hở nhận thức bằng đèn flash điện thoại để tái kích hoạt Ẩn Thân tẩu thoát ngay trước mắt đám đông.
 - Trạng thái tính đến chương 13: Đạt cấp độ 18 sau khi chuyển chức lần 1; nhận chức nghiệp Độc Nhất "Thương Thủ Mờ Nhạt" (Blurred Lancer), mở khóa hiệu ứng tăng 10% sức tấn công khi ẩn thân và 10% uy lực thương thuật, nới lỏng điều kiện tiến hóa kỹ năng; chính thức bắt đầu nhiệm vụ Kẻ Hành Quyết truy quét quái vật, hướng về ga Gireum săn quái vật gấu.
+- Trạng thái tính đến chương 14: Đạt cấp độ 23 sau khi một mình kết liễu Gấu Lớn Nâu Lv 54 (quái vật chuyển chức lần 2) chỉ bằng 3 đòn thương; nhận danh hiệu "Một đòn cho ta, một đòn cho ngươi!" (+10% tỷ lệ chí mạng) và mở khóa Kỹ năng Chí Mạng; nhận thêm biệt danh "Người Áo Đen" từ quân đội.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

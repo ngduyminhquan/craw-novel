@@ -83,3 +83,9 @@ Nhờ chuyển chức, IlHan tăng vọt lên cấp 18, nhận 2 hiệu ứng đ
 Nhận nhiệm vụ Kẻ Hành Quyết từ thiên giới và lướt mạng tìm quái, IlHan phát hiện bài đăng về một con gấu khổng lồ đang phá hủy khu Jeongneung gần ga Gireum.
 Cảnh kết thúc: IlHan chạy hết tốc lực hướng về ga Gireum trong vòng 3 phút, háo hức hỏi Erta xem có thể ăn mật gấu không, và nhận lại nụ cười rạng rỡ của Erta: 'Nếu cậu có kỹ năng kháng độc.'
 
+## 14
+Yu IlHan chạy đua đến khu phố Jeongneung đang bị tàn phá nặng nề, nơi một con Gấu Lớn Nâu cấp 54 (quái vật đã đạt chuyển chức lần 2) đang nghiền nát nhà cửa và hoàn toàn áp đảo hỏa lực của quân đội cùng Trung đội Mãnh Hổ 96.
+Tận dụng lợi thế đánh phủ đầu của Ẩn Thân bị động và 20% sức tấn công cộng thêm từ chức nghiệp Thương Thủ Mờ Nhạt, IlHan thi triển bộ kỹ năng thể chất thượng thừa, liên hoàn tung ra đúng 3 đòn đâm thương xuyên thủng lưỡi, bàn chân trước và cắm ngập đầu kết liễu con gấu khổng lồ.
+Chiến tích hạ sát quái vật bậc 2 đưa IlHan tăng vọt lên cấp 23, mang về cho anh danh hiệu mới 'Một đòn cho ta, một đòn cho ngươi!' (+10% tỷ lệ chí mạng) cùng Kỹ năng Chí Mạng.
+Cảnh kết thúc: Vừa săm soi ngọn thương lành lặn và chuẩn bị mổ xẻ thu hoạch xác gấu khổng lồ, IlHan nghe thấy tiếng hô dõng dạc của lực lượng viện binh đến muộn ngơ ngác hỏi con quái vật đâu rồi.
+
