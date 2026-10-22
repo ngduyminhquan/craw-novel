@@ -17,7 +17,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | reviewed |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | reviewed |  |
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | reviewed |  |
-| 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | todo |  |
+| 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | done |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | todo |  |
 | 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | todo |  |
 | 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | todo |  |
@@ -369,7 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -412,3 +411,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#12] Kỹ năng "weak poison resistance" — Tạm chọn: "Kháng Độc Yếu". Phương án khác: "Kháng Độc Cấp Thấp", "Kháng Độc Yếu Ớt". Tạm dùng trong bản dịch: "Kháng Độc Yếu". → Chốt 'Kháng Độc Yếu' (orchestrator)
 - [#12] Cụm từ "honey trap" (lệnh cấp trên ép Han YeoRang dùng để lôi kéo IlHan) — Tạm chọn: "mỹ nhân kế". Phương án khác: "bẫy mật", "cạm bẫy ngọt ngào". Tạm dùng trong bản dịch: "mỹ nhân kế". → Chốt 'mỹ nhân kế' (orchestrator)
 - [#12 đoạn 79] Câu văn raw EN "Despite the thousand years of training, he couldn't be nervous in front of the enormous sum of money in front of him" có mâu thuẫn nội tại với câu trước "đôi tay anh khẽ run rẩy" và câu sau "chưa từng cướp ngân hàng" (nguyên tác tiếng Hàn là 떨지 않을 수 없었다 - không thể không hồi hộp/run rẩy). Tạm chọn: dịch thoát ý logic thành "anh làm sao có thể không run rẩy trước số tiền khổng lồ đang hiện ra trước mắt". → Chấp nhận dịch thoát ý theo logic mạch văn ('làm sao có thể không run rẩy') (orchestrator)
+- [#13] Chức nghiệp Độc Nhất "Blurred Lancer" (pun chơi chữ từ "Bl****d Lancer", IlHan tưởng nhầm là "Blood" - Huyết Thương Thủ, thực tế là "Blurred" vì độ hiện diện mờ nhạt) — Tạm chọn: "Thương Thủ Mờ Nhạt" (Lancer = "Thương Thủ"). Phương án khác: "Thương Binh Mờ Nhạt", "Hư Ảnh Thương Thủ", "Mông Lung Thương Thủ". Tạm dùng trong bản dịch: "Thương Thủ Mờ Nhạt". → Chốt 'Thương Thủ Mờ Nhạt' (Lancer = Thương Thủ) (orchestrator)
+- [#13] Tên các chức nghiệp cơ bản xuất hiện ở danh sách chuyển chức lần 1: Lancer (Thương Thủ), Grappler (Đấu Sĩ), Swordsman (Kiếm Sĩ), Blacksmith (Thợ Rèn), Shielder (Khiên Binh), Hunter (Thợ Săn), Assassin (Thích Khách) — Tạm dùng trong bản dịch theo các thuật ngữ trên. → Chốt các chức nghiệp cơ bản: Thương Thủ, Đấu Sĩ, Kiếm Sĩ, Thợ Rèn, Khiên Binh, Thợ Săn, Thích Khách (orchestrator)

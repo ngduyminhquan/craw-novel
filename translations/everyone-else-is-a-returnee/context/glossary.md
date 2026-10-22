@@ -81,3 +81,14 @@
 | Big Wolf |  | Sói Lớn | quái vật | 11 | Quái vật sói biến dị kích thước lớn |
 | Class |  | Chức nghiệp | hệ thống | 11 | Phân lớp nghề nghiệp trong Hồ Sơ Akashic, điều kiện mở khóa khi đạt cấp 10 |
 | Weak Poison Resistance | weak poison resistance | Kháng Độc Yếu | kỹ năng | 12 | Kỹ năng kháng độc cấp thấp |
+| Lancer |  | Thương Thủ | chức nghiệp | 13 | Chức nghiệp chiến đấu chuyên dùng thương |
+| Grappler |  | Đấu Sĩ | chức nghiệp | 13 | Chức nghiệp cận chiến tay không / võ thuật |
+| Swordsman |  | Kiếm Sĩ | chức nghiệp | 13 | Chức nghiệp chiến đấu dùng kiếm |
+| Blacksmith |  | Thợ Rèn | chức nghiệp | 13 | Chức nghiệp rèn đúc vũ khí trang bị |
+| Shielder |  | Khiên Binh | chức nghiệp | 13 | Chức nghiệp chiến đấu dùng khiên |
+| Hunter |  | Thợ Săn | chức nghiệp | 13 | Chức nghiệp săn bắn quái vật |
+| Assassin |  | Thích Khách | chức nghiệp | 13 | Chức nghiệp ám sát |
+| Blurred Lancer | Bl****d Lancer | Thương Thủ Mờ Nhạt | chức nghiệp | 13 | Chức nghiệp độc nhất của Yu IlHan khi chuyển chức lần 1 |
+| Bukhansan |  | Bukhansan | địa danh | 13 | Núi Bukhansan ở Seoul |
+| Gireum |  | Gireum | địa danh | 13 | Khu vực và ga tàu điện ngầm ở Seoul |
+| Jeongneung |  | Jeongneung | địa danh | 13 | Khu vực lân cận núi Bukhansan ở Seoul |

@@ -76,3 +76,10 @@ Erta nghiêm giọng cảnh báo IlHan tuyệt đối không được nuốt tr�
 Sau khi nhận cọc tiền mặt khổng lồ từ trung tá và phái đoàn chính phủ, IlHan dùng ứng dụng đèn flash điện thoại gây chói tạm thời để kích hoạt lại Ẩn Thân qua khe hở nhận thức rồi biến mất ngay trước mắt mọi người.
 Cảnh kết thúc: IlHan vác túi da sói chứa chiến lợi phẩm ung dung rời đi giữa sự ngơ ngác của mọi người, chuẩn bị cất giấu tài sản và kiểm tra thông tin chức nghiệp trong lúc tiếp tục hành trình săn quái cùng Erta.
 
+## 13
+Yu IlHan giấu 370 triệu won tiền mặt và chiến lợi phẩm tại một con ngõ hẻo lánh dưới sự hỗ trợ ma pháp của Erta, rồi tiến hành chọn chức nghiệp lần 1.
+Trước sự kinh ngạc của Erta khi anh có tới 23 lựa chọn, IlHan quyết định chọn Thương Thủ, nhưng một chức nghiệp Độc Nhất thứ 24 bất ngờ xuất hiện mang tên Bl****d Lancer; tưởng nhầm là "Blood" (Huyết), anh chọn ngay và ngã ngửa khi sự thật là "Blurred Lancer" (Thương Thủ Mờ Nhạt).
+Nhờ chuyển chức, IlHan tăng vọt lên cấp 18, nhận 2 hiệu ứng độc nhất tăng 10% uy lực ẩn thân và thương thuật cùng việc nới lỏng điều kiện tiến hóa kỹ năng; dù chưa dùng được mana để học kỹ năng chủ động, Erta tiết lộ các ghi chép sẽ dồn lại để nhận kỹ năng cực mạnh ở Chuyển chức lần 3.
+Nhận nhiệm vụ Kẻ Hành Quyết từ thiên giới và lướt mạng tìm quái, IlHan phát hiện bài đăng về một con gấu khổng lồ đang phá hủy khu Jeongneung gần ga Gireum.
+Cảnh kết thúc: IlHan chạy hết tốc lực hướng về ga Gireum trong vòng 3 phút, háo hức hỏi Erta xem có thể ăn mật gấu không, và nhận lại nụ cười rạng rỡ của Erta: 'Nếu cậu có kỹ năng kháng độc.'
+
