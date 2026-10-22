@@ -102,7 +102,7 @@ Anh cũng từng nghĩ mình săn một con quái vật chuyển chức lần 2 
 
 Chà, dù thứ gì bị phục kích cũng đều thất thế cả, nhưng Thiết Tâm lại càng thảm hại hơn. Chúng chỉ có thể phát huy sức mạnh sau khi đã nhận biết được kẻ thù — thế thì chẳng phải quá yếu ớt hay sao!?
 
-Thế nhưng, ở đời là thứ mà ta có thể bị đâm sau lưng bất cứ lúc nào. Tỏ ra ngạo mạn sau khi mới chỉ hạ được một con thì khéo có ngày xuống thẳng địa ngục. Ngay cả trong tiểu thuyết, mấy nhân vật phụ cũng toàn bị dọn dẹp theo kiểu đó thôi.
+Thế nhưng, cuộc đời là thứ mà ta có thể bị đâm sau lưng bất cứ lúc nào. Tỏ ra ngạo mạn sau khi mới chỉ hạ được một con thì khéo có ngày xuống thẳng địa ngục. Ngay cả trong tiểu thuyết, mấy nhân vật phụ cũng toàn bị dọn dẹp theo kiểu đó thôi.
 
 Lỡ mà khoảng chục con xuất hiện cùng lúc thì anh phải co cẳng chạy không chút do dự, vì vậy anh tiếp tục tiến sâu vào bên trong hầm ngục mà không hề lơ là cảnh giác.
 

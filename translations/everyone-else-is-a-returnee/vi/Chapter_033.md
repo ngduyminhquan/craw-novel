@@ -138,7 +138,7 @@ Trước cuộc đối thoại nói về chuyện kinh tế gia đình sụp đ�
 
 "Còn bố thì sao, bố đã chuyển chức chưa ạ?"
 
-"Bố chật vật mãi mới lên được chức nghiệp lần 1 đấy. Lũ quái vật đó đáng sợ quá chừng."
+"Bố chật vật mãi mới chuyển chức lần 1 được đấy. Lũ quái vật đó đáng sợ quá chừng."
 
 Yu IlHan cảm thấy sống mũi cay cay khi thấu hiểu được nỗi buồn của bố mình. Lúc này, có một điều anh có thể làm cho bố.
 
@@ -174,7 +174,7 @@ Dẫu sao thì món đồ anh đưa cho bố cũng chỉ là một chiếc áo m
 
 Trong khi Yu YongHan đang xúc động nghẹn ngào, tràn đầy niềm tự hào vì có được một cậu con trai như thế, thì mẹ của Yu IlHan từ trong bếp bước ra. Mỗi tay bà bưng một đĩa thức ăn, cả hai món đều là những thứ chưa từng thấy trên Trái Đất. Như nhận ra ánh mắt của hai bố con, mẹ anh liền giải thích.
 
-"Mẹ con chỉ nhận được nguyên liệu nấu ăn làm phần thưởng nhiệm vụ thôi à. Ngồi xuống nhanh đi con trai. Con chưa ăn gì đúng không?"
+"Mẹ chỉ nhận được toàn nguyên liệu nấu ăn làm phần thưởng nhiệm vụ thôi. Ngồi xuống nhanh đi con trai. Con chưa ăn gì đúng không?"
 
 Quy mô nhiệm vụ của một bà nội trợ quả thực ở một tầm hoàn toàn khác. Anh có cả đống điều muốn hỏi han, nhưng vì bụng đói meo là sự thật, Yu IlHan liền ngoan ngoãn ngồi xuống đánh chén. Nỗi lo lắng canh cánh trong lòng bấy lâu nay đã được những món ăn thơm ngon gột rửa sạch bong.
 
@@ -220,7 +220,7 @@ Vì thế, ưu tiên hàng đầu của anh lúc này chính là chuyển chức
 
 Yu IlHan rút bộ giáp ra khỏi Túi Đeo Chéo, miệng mỉm cười trước sự giục giã đầy đáng yêu và trông đợi của Erta. Ngay khoảnh khắc ấy, tên của món trang bị liền hiện rõ trên võng mạc của anh.
 
-['Kinh Hãi' 'Cứng' và 'Kín Đáo' Đại Khải Đen]
+[Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo']
 
 "Này."
 

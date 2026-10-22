@@ -128,7 +128,7 @@ Thế nhưng rốt cuộc, điều đó lại hoàn toàn thừa thãi.
 
 Dù con Đại Thiết Tâm cố gắng cử động bằng cách phân tách tối đa các khối kim loại cấu thành nên cơ thể, nhưng những mảnh xương găm sâu bên trong chỉ cần hiện diện ở đó cũng đủ tạo ra hiệu ứng trói buộc và cản trở cử động của nó. Cảnh tượng chẳng khác nào rắc muối lên một con ốc sên đang bò trên lá xà lách.
 
-Hiệu ứng này đã vượt xa hoàn toàn mường tượng ban đầu của Yu IlHan khi chỉ nghĩ 'dù sao cũng chỉ là bom mảnh nên chắc cùng lắm là phá vỡ được nó thôi nhỉ?'. Dù vậy, anh vẫn cố hết sức làm ra vẻ ngầu lòi rồi hét lên.
+Hiệu ứng này đã vượt xa hoàn toàn mường tượng ban đầu của Yu IlHan khi chỉ nghĩ 'dù sao cũng chỉ là bom mảnh nên chắc cùng lắm là phá vỡ được nó thôi nhỉ?'. Dù vậy, anh vẫn cố hết sức làm ra vẻ thật ngầu rồi hét lên.
 
 "Đương nhiên rồi, Yu IlHan này đã tính toán tất cả ngay từ đầu!"
 
@@ -184,7 +184,7 @@ Con Đại Thiết Tâm ở khu vực trung tâm nhất (khác với những con
 
 [Không. Dù sao thì đây cũng là bẫy để dẫn dụ quái vật mới chứ không phải lũ quái vật nguyên bản bị bỏ lại cùng cậu, nên dẫu nó được tạo ra từ sức mạnh của Thượng Đế thì cũng chẳng có vấn đề gì. Chỉ là tôi thấy bất ngờ vì chiếc Bẫy Hủy Diệt này lại có tuổi đời lâu hơn tôi tưởng thôi.]
 
-Erta lẩm bẩm bảo rằng mình chỉ tò mò thôi chứ chẳng có vấn đề gì cả. Yu IlHan cũng khẽ gật đầu rồi bỏ ngoài tai những lời cô nói.
+Erta lẩm bẩm bảo rằng mình chỉ tò mò thôi chứ chẳng có vấn đề gì cả. Yu IlHan cũng khẽ gật đầu, bụng thầm ngẫm nghĩ về những lời cô nói.
 
 Tất nhiên trong bụng anh cũng thầm nghĩ chắc chắn sẽ có một tai họa kinh thiên động địa bùng nổ liên quan đến chuyện này cho xem. Đây rõ ràng là một điềm báo trước. Lại còn là một điềm báo lộ liễu đến mức đáng kinh ngạc nữa chứ.
 

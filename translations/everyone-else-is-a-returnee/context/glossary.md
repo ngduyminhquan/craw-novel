@@ -12,7 +12,7 @@
 | Status |  | Bảng chỉ số | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
-| Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Môn võ cận chiến thực chiến tàn khốc không luật lệ |
+| Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Được phép giữ nguyên: Môn võ cận chiến thực chiến tàn khốc không luật lệ (tên môn võ quốc tế phổ thông) |
 | Spearmanship | Spear arts | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
 | Dismantling | Disassembly | Giải Phẫu | kỹ năng | 4 | Kỹ năng mổ xẻ, thu hoạch bộ phận quái vật |
 | Smithing | Blacksmithing | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
@@ -194,3 +194,6 @@
 | Black Full-plate Armor |  | Đại Khải Đen | vật phẩm | 33 | Bộ giáp kim loại toàn thân màu đen do Yu IlHan chế tạo từ tim Đại Thiết Tâm |
 | Shiveringly | Shivering | Kinh Hãi | hệ thống | 33 | Tiền tố dòng thuộc tính tạo tác khiến đối phương rùng mình khiếp sợ |
 | Hard |  | Cứng | hệ thống | 19 | Tiền tố dòng thuộc tính tạo tác tăng độ cứng cáp |
+| Great Metal Heart |  | Cực Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
+| Huge Metal Heart |  | Khổng Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
+| Giga Metal Heart |  | Giga Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
