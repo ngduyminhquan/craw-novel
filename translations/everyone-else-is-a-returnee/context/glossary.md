@@ -66,3 +66,7 @@
 | Big Honeybee |  | Ong Mật Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 10 |
 | Jewel of the four souls |  | Ngọc Tứ Hồn | khác | 8 | Chi tiết IlHan đùa theo truyện Inuyasha |
 | Ironman | Iron man | Người Sắt / Ironman | khác | 8 | Mặt nạ Người Sắt (Ironman) IlHan đeo |
+| Mana crafting |  | Chế Tác Mana | kỹ năng | 9 | Kỹ năng truyền mana và tạo thuộc tính cho trang bị |
+| Artifact | Artifacts | Tạo tác / Tạo tác ma pháp | vật phẩm | 8 | Vật phẩm/trang bị chứa năng lượng mana |
+| Dragon heart |  | Trái tim rồng / Long tâm | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
+| Bestowal |  | Ban Tặng / Ban Niệm | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |

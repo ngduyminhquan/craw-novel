@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan | Yu IlHan | Nhân vật chính, kẻ bị bỏ lại Trái Đất 1000 năm | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan | Yu IlHan | Nhân vật chính, kẻ bị bỏ lại Trái Đất 1000 năm | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
@@ -22,6 +22,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ với nhân vật khác: Con của Yu YongHan và Kim YeSeul; bạn đồng hành / tri kỷ gắn bó 1000 năm với Lita; đối tác luyện tập của Erta.
 - Trạng thái tính đến chương 5: Đạt cấp độ cực hạn về thể chất, thuần thục Thương Thuật, Vale Tudo, giải phẫu, rèn đúc; sở hữu danh hiệu Kẻ Cô Độc Toàn Vũ Trụ và kỹ năng Ẩn Thân bị động tuyệt đối.
 - Trạng thái tính đến chương 8: Đạt cấp 7 sau trận chiến quét sạch bầy côn trùng tại ĐH Sungkyunkwan; thức tỉnh các kỹ năng ở Lv Max gồm Cận Chiến, Thương Thuật, Giải Phẫu; đeo mặt nạ Người Sắt để che giấu danh tính; lần đầu chạm trán và nói chuyện với Empress.
+- Trạng thái tính đến chương 9: Học được kỹ năng Chế Tác Mana (thăng lên Lv 2); tự tay chế tạo giáp bảo hộ cổ tay và đầu gối từ vỏ giáp quái vật và ma thạch, trong đó tích hợp lưỡi hái ẩn của Bọ Ngựa Khổng Lồ vào giáp cổ tay trái.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

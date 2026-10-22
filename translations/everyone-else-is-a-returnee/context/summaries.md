@@ -51,3 +51,9 @@ IlHan một mình xông pha tiêu diệt hàng chục quái vật côn trùng, l
 Giữa trận chiến, một cô gái đeo mặt nạ Hulk (Empress) dùng lôi thuật uy lực cùng tham chiến quét sạch quái vật; quân đội kéo đến đúng lúc IlHan tung cú phi cước kết liễu con rết cuối cùng.
 Theo hướng dẫn của Erta, IlHan lần đầu giải phẫu quái vật, thu hoạch lớp vỏ giáp cứng cùng nhiều viên ma thạch (kết tinh năng lượng mana).
 Cảnh kết thúc: Trước ánh mắt sững sờ của quân đội và đám đông, cô gái đeo mặt nạ Hulk chủ động bắt chuyện nhờ IlHan giải phẫu xác quái hộ mình, mở màn cuộc gặp gỡ định mệnh giữa Kẻ Bị Bỏ Lại và Empress.
+
+## 9
+Empress trả công 40% chiến lợi phẩm xác quái cho Yu IlHan; khi viên thiếu úy toan tiếp cận, Empress dùng một tia lôi thuật nhẹ khống chế khiến anh ta đơ cứng người; IlHan nhân lúc đám đông phân tâm liền dùng Ẩn Thân rút lui trong sự ngơ ngác của mọi người (được gán biệt danh Sungdaein Bolt).
+Tối hôm đó sau bữa cơm gia đình, IlHan lén ra sân chơi trẻ em dùng vỏ giáp côn trùng và ma thạch chế tạo trang bị phòng hộ; Erta bất đắc dĩ phải truyền dạy cho anh kỹ thuật Chế Tác Mana từ cơ bản (đồng bộ hóa rồi thoa bột ma thạch) đến nâng cao (truyền ý niệm/ban tặng thuộc tính).
+Bằng sự khéo léo phi thường, IlHan chế tạo thành công giáp bảo hộ cổ tay và đầu gối cơ bản, học được kỹ năng Chế Tác Mana; sau đó anh thử nghiệm nâng cao khi tích hợp lưỡi hái Bọ Ngựa Khổng Lồ vào giáp tay trái, được Erta âm thầm hỗ trợ một tia mana giúp thăng cấp kỹ năng lên Lv 2.
+Cảnh kết thúc: IlHan thử nghiệm lưỡi hái ẩn bật ra cắt đứt ngọt đôi xích sắt của chiếc xích đu; vì sợ phải đền nên anh vội vàng vắt chân lên cổ tháo chạy, bỏ mặc Erta cuống cuồng gọi giật lại bảo sẽ dùng ma pháp hồi phục.

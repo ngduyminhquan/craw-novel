@@ -13,7 +13,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | reviewed |  |
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | done |  |
 | 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | done |  |
-| 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | todo |  |
+| 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | done |  |
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | todo |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | todo |  |
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | todo |  |
@@ -370,6 +370,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -389,3 +390,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#4 đoạn 33] Đại từ trong câu vặn của Yu IlHan → Sửa thành 'ai bảo người ta' (orchestrator)
 - [#8] Kỹ năng 'Close Quarters Combat' — Tạm chọn: 'Cận Chiến'. Phương án khác: 'Chiến Đấu Cận Thân', 'Cận Thân Chiến'. → Chốt 'Cận Chiến' (orchestrator)
 - [#8] Trang phục ngụy trang 'Ironman mask' — Tạm chọn: 'mặt nạ Người Sắt' (giữ alias Ironman). Phương án khác: 'mặt nạ Ironman'. → Chốt 'mặt nạ Người Sắt' (giữ 'Người Sắt / Ironman' trong glossary) (orchestrator)
+- [#9] Kỹ năng "Mana crafting" — Tạm chọn: "Chế Tác Mana". Phương án khác: "Gia Công Mana", "Chế Tạo Mana". Tạm dùng trong bản dịch: "Chế Tác Mana". → Chốt 'Chế Tác Mana' (orchestrator)
+- [#9] Quá trình "bestowal" (truyền ý niệm/định hướng thuộc tính vào ma thạch trong Chế Tác Mana) — Tạm chọn: "ban tặng". Phương án khác: "ban niệm", "ban phú", "truyền niệm". Tạm dùng trong bản dịch: "ban tặng". → Chấp nhận 'ban tặng' (giữ 'Ban Tặng / Ban Niệm' trong glossary) (orchestrator)
+- [#9] Câu truyện chính ở raw dòng 82 có chứa ghi chú translator ở cuối câu `...pretending to sleep inside his room. (T/N: Super long sentence… so hard to TL)`. Script `clean_raw` tự động lọc bỏ cả đoạn vì chứa `T/N:`. Tạm xử lý: giữ nguyên toàn bộ câu truyện (IlHan về nhà ăn cơm tối cùng bố mẹ rồi ban đêm lén ra công viên chế tạo trang bị) và chỉ lược bỏ phần ghi chú `(T/N: ...)` trong ngoặc đơn để đảm bảo tính toàn vẹn và mạch lạc của cốt truyện. → Chấp nhận giữ nguyên câu truyện chính và chỉ bỏ phần chú thích (T/N: ...) ở cuối câu (orchestrator)
