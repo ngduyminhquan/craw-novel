@@ -139,4 +139,10 @@ Sau một đêm ngủ say, IlHan thức tỉnh kỹ năng bị động Nghỉ Ng
 Erta giải thích khái niệm tiến hóa kỹ năng của Hồ Sơ Akashic; các kỹ năng Cận Chiến, Thương Thuật, Ẩn Thân và Nghỉ Ngơi đều đủ điều kiện tiến hóa nhưng yêu cầu của Nghỉ Ngơi lại vô cùng quái dị (500 tim quái vật chuyển chức lần 2 đang ngủ, 500 lít máu Troll, 100 giờ ngủ ngon và 1 ma thạch quái vật chuyển chức lần 3).
 Cảnh kết thúc: Yu IlHan nhìn danh sách nguyên liệu tiến hóa của kỹ năng Nghỉ Ngơi hiển thị trên bảng chỉ số, thầm than thở đây là nhiệm vụ bất khả thi ngay cả khi huy động toàn bộ 7,4 tỷ cư dân Trái Đất.
 
+## 24
+Yu IlHan so sánh điều kiện tiến hóa của Thương Thuật (500 cú đâm/chém Nhất Kích Tất Sát quái vật chuyển chức lần 3, 200 ma thạch chuyển chức lần 3, 1 ma thạch chuyển chức lần 4) với kỹ năng Nghỉ Ngơi, cảm thán sự chênh lệch như giữa Núi Baekdu và Núi Everest; Erta giải thích thêm về sự xuất hiện của quái vật mới và Troll theo nồng độ mana.
+Xem truyền hình, IlHan bàng hoàng phát hiện nửa xác con Báo Khổng Lồ và đám đông tranh giành chiến lợi phẩm tại Jongno biến mất sạch sẽ, kèm theo sự cố máy quay bị đập vỡ; anh và Erta nhận ra con báo mẹ mang thai đã liều chết cuồng bạo để che chở con, và đứa con chào đời an toàn sở hữu khả năng Ẩn Thân dị thường.
+Nhận định con báo đen là quái vật chuyển chức lần 3 chuyên về Ẩn Thân nên chỉ số phòng thủ và sức mạnh sẽ bị giảm bớt, IlHan tự tin có thể khắc chế nó bằng bản năng ẩn thân thượng thừa và quyết định ra tay dọn dẹp hậu quả để ngăn chặn thảm sát.
+Cảnh kết thúc: Yu IlHan gác lại lòng tự trọng của nam nhi, bước vào bốt điện thoại công cộng bấm số của Empress (Kang MiRae) ghi trên danh thiếp, bắt đầu kế hoạch hợp tác săn quái vật chuyển chức lần 3.
+
 

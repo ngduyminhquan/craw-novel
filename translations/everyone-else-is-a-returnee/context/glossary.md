@@ -149,3 +149,6 @@
 | Vast |  | Bao La | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | Heavenly |  | Thiên Giới | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | SSS | SSS rank | Hạng SSS / Cấp SSS | hệ thống | 23 | Cấp độ khó hoặc phẩm cấp tối thượng |
+| Instakill |  | Nhất Kích Tất Sát / Nhất kích tất sát | hệ thống | 24 | Giết chết mục tiêu chỉ bằng một đòn duy nhất |
+| Mount Baekdu | Baekdu | Núi Baekdu | địa danh | 24 | Ngọn núi cao nhất trên bán đảo Triều Tiên (Bạch Đầu Sơn) |
+| Mount Everest |  | Núi Everest | địa danh | 24 | Đỉnh núi cao nhất thế giới |

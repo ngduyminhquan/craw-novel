@@ -41,6 +41,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 21: Đạt cấp độ 28 sau khi hạ gục Báo Khổng Lồ Lv 87 (thu về 784.983 EXP và ghi chép Báo Khổng Lồ Lv 87); kỹ năng Chí Mạng thăng lên Lv 2; phối hợp ăn ý nhận bùa lợi Lôi Linh từ Empress để tung đòn kết liễu quái vật trước khi bị tên lửa oanh tạc.
 - Trạng thái tính đến chương 22: Thu hoạch viên ma thạch xanh lam khổng lồ của Báo Khổng Lồ cấp 87; nhận 40% phụ phẩm (da và xương) từ nửa xác báo của Empress sau khi giải phẫu giúp cô; lần đầu tiên trong đời có người (Empress) tập trung nhìn thấu Ẩn Thân để bám theo sau; nhận danh thiếp nhưng dựng rào cản tâm lý từ chối lập tổ đội với cô.
 - Trạng thái tính đến chương 23: Nâng cấp Chế Tác Mana lên cấp 11; cơ thể phát triển cao lớn, bờ vai rộng hơn nhờ thăng cấp và chuyển chức; thức tỉnh kỹ năng bị động Nghỉ Ngơi ở Lv Max (độ khó lĩnh ngộ xếp Hạng SSS); mở khóa thông tin tiến hóa kỹ năng cho Nghỉ Ngơi, Cận Chiến, Thương Thuật và Ẩn Thân.
+- Trạng thái tính đến chương 24: Xem xét điều kiện tiến hóa Thương Thuật; phát hiện quái vật báo đen con (được cho là chuyển chức lần 3, chuyên về Ẩn Thân) ra đời tàn sát đám đông tại Jongno; tự tin khắc chế nhờ trình độ ẩn thân thượng thừa và quyết định gọi điện thoại cho Empress (Kang MiRae) đề nghị lập đội hợp tác tiêu diệt quái vật.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
