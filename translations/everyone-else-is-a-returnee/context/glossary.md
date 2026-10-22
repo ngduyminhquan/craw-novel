@@ -9,7 +9,7 @@
 | Great Cataclysm |  | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
 | Akashic Records | Akashic Record | Hồ Sơ Akashic | hệ thống | 1 | Kho ghi chép vạn vật của vũ trụ |
 | Mana |  | Mana | hệ thống | 1 | Năng lượng ma thuật cấp cao của vũ trụ |
-| Status |  | Bảng chỉ số / Trạng thái | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
+| Status |  | Bảng chỉ số | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Môn võ cận chiến thực chiến tàn khốc không luật lệ |
@@ -19,7 +19,7 @@
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
 | Lower existence |  | Thực thể cấp thấp | chủng tộc | 7 | Sinh linh thông thường chưa vượt ngưỡng năng lượng |
 | Returnee |  | Người Trở Về | khác | 5 | Nhân loại Trái Đất trở về sau 10 năm thích ứng mana |
-| Dropout | Left out; Left behind | Người Bị Bỏ Lại / Kẻ Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
+| Dropout |  | Người Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
 | Dropout bonus | Rejector bonus | Thưởng cho người bị bỏ lại | hệ thống | 1 | Phần thưởng đền bù của Thượng Đế cho IlHan |
 | Magic stone |  | Ma thạch | vật phẩm | 9 | Lõi năng lượng thu được từ quái vật |
 | 1st advancement |  | Chuyển chức lần 1 | hệ thống | 6 | Mốc lv 10 |
@@ -41,7 +41,7 @@
 | Magic |  | Ma pháp | hệ thống | 5 | Chỉ số cơ bản |
 | Attack Power |  | Sức tấn công | hệ thống | 6 | Chỉ số tấn công của trang bị/nhân vật |
 | Durability | Durabiliity | Độ bền | hệ thống | 6 | Chỉ số độ bền của trang bị |
-| Rank |  | Phẩm cấp / Hạng | hệ thống | 6 | Cấp bậc trang bị/kỹ năng |
+| Rank |  | Phẩm cấp / Hạng | hệ thống | 6 | Dùng 'Phẩm cấp' cho cấp bậc của trang bị/vật phẩm (vd [Phẩm cấp – Độc Nhất]); dùng 'Hạng' khi đi kèm chữ cái chỉ cấp độ khó hoặc thứ hạng (vd Hạng SSS) |
 | Unique |  | Độc Nhất | hệ thống | 6 | Phẩm cấp trang bị/vật phẩm |
 | Jobless |  | Vô Nghề | chức nghiệp | 5 | Trạng thái chưa có chức nghiệp |
 | Active skill | Active Skills | Kỹ năng chủ động | hệ thống | 5 | Kỹ năng cần kích hoạt |
@@ -65,11 +65,11 @@
 | Big Mosquito |  | Muỗi Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 7 |
 | Big Honeybee |  | Ong Mật Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 10 |
 | Jewel of the four souls |  | Ngọc Tứ Hồn | khác | 8 | Chi tiết IlHan đùa theo truyện Inuyasha |
-| Ironman | Iron man | Người Sắt / Ironman | khác | 8 | Mặt nạ Người Sắt (Ironman) IlHan đeo |
+| Ironman | Iron man | Người Sắt | khác | 8 | Mặt nạ Người Sắt (Ironman) IlHan đeo |
 | Mana crafting |  | Chế Tác Mana | kỹ năng | 9 | Kỹ năng truyền mana và tạo thuộc tính cho trang bị |
-| Artifact | Artifacts | Tạo tác / Tạo tác ma pháp | vật phẩm | 8 | Vật phẩm/trang bị chứa năng lượng mana |
-| Dragon heart |  | Trái tim rồng / Long tâm | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
-| Bestowal |  | Ban Tặng / Ban Niệm | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |
+| Artifact | Artifacts | Tạo tác | vật phẩm | 8 | Vật phẩm/trang bị chứa năng lượng mana |
+| Dragon heart |  | Trái tim rồng | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
+| Bestowal |  | Ban tặng | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |
 | Direwolf |  | Sói Bạo Tàn | quái vật | 10 | Quái vật sói hoang dã cấp 35 cầm đầu bầy quái |
 | Executor |  | Kẻ Hành Quyết | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái |
 | Racial correction |  | Hiệu chỉnh chủng tộc | hệ thống | 10 | Hiện tượng ngoại hình trở nên đẹp hơn khi cấp độ tăng cao |
@@ -100,7 +100,7 @@
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
 | Heavenly Quest |  | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
-| Republic of Korea | Korea | Hàn Quốc / Đại Hàn Dân Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
+| Republic of Korea | Korea | Hàn Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
 | Earth |  | Trái Đất | địa danh | 1 | Thế giới quê hương của Yu IlHan |
 | Inventory |  | Túi đồ | hệ thống | 6 | Không gian chứa đồ ma pháp |
@@ -129,33 +129,33 @@
 | Bear Bone Knife |  | Dao Xương Gấu | vật phẩm | 19 | Dao xương dùng để giải phẫu làm từ xương Gấu Lớn Nâu |
 | Direwolf Skull Mask |  | Mặt Nạ Đầu Lâu Sói Bạo Tàn | vật phẩm | 19 | Mặt nạ làm từ xương sọ Sói Bạo Tàn thay thế mặt nạ Người Sắt |
 | Seoul |  | Seoul | địa danh | 19 | Thủ đô Hàn Quốc |
-| Jongno | JongNo; JongNo district | Jongno / Quận Jongno | địa danh | 19 | Quận Jongno tại Seoul |
+| Jongno | JongNo; JongNo district | Jongno | địa danh | 19 | Tên quận ở Seoul; dịch là 'quận Jongno' khi raw có chữ 'district' và 'Jongno' khi đứng độc lập |
 | Japan |  | Nhật Bản | địa danh | 19 | Quốc gia láng giềng |
 | China |  | Trung Quốc | địa danh | 19 | Quốc gia láng giềng |
-| Fatally Sharp Steel Spear |  | Trường Thương Thép Chí Mạng Sắc Bén / Trường Thương Thép Sắc Bén Chí Mạng | vật phẩm | 20 | Ngọn thương thép của Yu IlHan sau khi rèn sửa, sở hữu 2 dòng thuộc tính Chí Mạng và Sắc Bén |
+| Fatally Sharp Steel Spear |  | Trường Thương Thép Sắc Bén Chí Mạng | vật phẩm | 20 | Ngọn thương thép của Yu IlHan sau khi rèn sửa, sở hữu 2 dòng thuộc tính Chí Mạng và Sắc Bén |
 | Fatal | Fatally | Chí Mạng | hệ thống | 20 | Tiền tố dòng thuộc tính tăng tỷ lệ đòn đánh chí mạng |
 | Blue House |  | Nhà Xanh | địa danh | 20 | Phủ Tổng thống Hàn Quốc |
-| RPG |  | RPG / Súng RPG | khác | 20 | Súng phóng lựu chống tăng |
+| RPG |  | RPG | khác | 20 | Từ viết tắt phổ thông được phép giữ nguyên: dịch là 'game RPG' khi chỉ thể loại trò chơi nhập vai (#13) và 'súng RPG' / 'RPG' khi chỉ súng phóng lựu chống tăng (#20) |
 | Giant Leopard |  | Báo Khổng Lồ | quái vật | 21 | Quái vật báo cấp 87 chuyển chức lần 2 đột biến tại Jongno |
 | Thunder Spirit |  | Lôi Linh | kỹ năng | 21 | Bùa lợi ma pháp sấm sét của Empress tăng 50% sức tấn công, tốc độ, chí mạng và sát thương lôi |
 | Lightning Additional Hit |  | Đòn Đánh Phụ Lôi Thuộc Tính | kỹ năng | 21 | Hiệu ứng đòn đánh kèm theo năng lượng sấm sét từ bùa lợi Lôi Linh |
-| Knuckles |  | Knuckles | khác | 21 | Nhân vật thú lông nhím trong series game Sonic nổi tiếng với khả năng leo trèo |
+| Knuckles |  | Knuckles | khác | 21 | Được phép giữ nguyên: Tên riêng nhân vật thú lông nhím trong series game Sonic the Hedgehog (tham chiếu văn hóa đại chúng) |
 | Retona |  | Retona | vật phẩm | 22 | Dòng xe quân sự dã chiến của Lục quân Hàn Quốc (Kia Retona / K-131) |
-| MVP | MVPs | MVP | khác | 22 | Người chơi xuất sắc nhất (Most Valuable Player) |
-| AT Field |  | AT Field | khác | 22 | Trường Lực AT (thuật ngữ từ anime Evangelion ví von rào cản tâm lý ngăn cách với người khác) |
+| MVP | MVPs | MVP | khác | 22 | Được phép giữ nguyên: Từ viết tắt đại chúng trong game/thể thao (Most Valuable Player — người đóng góp lớn nhất trận đánh, không phải danh hiệu hệ thống) |
+| AT Field |  | AT Field | khác | 22 | Được phép giữ nguyên: Thuật ngữ biểu tượng trong anime Neon Genesis Evangelion (tham chiếu văn hóa đại chúng chỉ rào cản tâm lý, trong câu dịch là 'trường lực AT Field') |
 | Resting | Resting skill; Resting Lv Max | Nghỉ Ngơi | kỹ năng | 23 | Kỹ năng bị động nâng cao hiệu quả nghỉ ngơi, thức tỉnh ở Lv Max độ khó SSS |
-| Rasengan |  | Rasengan | khác | 23 | Nhẫn thuật cầu xoắn ốc trong bộ manga Naruto |
-| Troll |  | Troll | quái vật | 23 | Chủng tộc quái vật có khả năng hồi phục mạnh mẽ |
+| Rasengan |  | Rasengan | khác | 23 | Được phép giữ nguyên: Tên riêng nhẫn thuật biểu tượng trong manga Naruto (tham chiếu văn hóa đại chúng do nhân vật nhắc đùa, không phải kỹ năng trong truyện) |
+| Troll |  | Troll | chủng tộc | 23 | Được phép giữ nguyên: Tên chủng tộc sinh vật thần thoại Bắc Âu / kỳ ảo phương Tây kinh điển (tương tự Elf, Orc, Goblin) |
 | Vast |  | Bao La | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | Heavenly |  | Thiên Giới | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
-| SSS | SSS rank | Hạng SSS / Cấp SSS | hệ thống | 23 | Cấp độ khó hoặc phẩm cấp tối thượng |
-| Instakill |  | Nhất Kích Tất Sát / Nhất kích tất sát | hệ thống | 24 | Giết chết mục tiêu chỉ bằng một đòn duy nhất |
+| SSS | SSS rank | Hạng SSS | hệ thống | 23 | Cấp độ khó hoặc phẩm cấp tối thượng |
+| Instakill |  | Nhất Kích Tất Sát | hệ thống | 24 | Giết chết mục tiêu chỉ bằng một đòn duy nhất |
 | Mount Baekdu | Baekdu | Núi Baekdu | địa danh | 24 | Ngọn núi cao nhất trên bán đảo Triều Tiên (Bạch Đầu Sơn) |
 | Mount Everest |  | Núi Everest | địa danh | 24 | Đỉnh núi cao nhất thế giới |
 | Violent |  | Hung Bạo | hệ thống | 25 | Tiền tố dòng thuộc tính alpha/beta bậc cao tăng chí mạng và sát thương |
 | Cruel |  | Tàn Nhẫn | hệ thống | 25 | Tiền tố dòng thuộc tính alpha/beta bậc cao tăng lực trói buộc |
 | Violent Cruel Leopard Hunter's Harpoon |  | Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn | vật phẩm | 25 | Bộ tạo tác săn bắt gồm 6 cọc xương, 6 lao ngạnh và 6 dây da báo do IlHan chế tạo |
-| Harpoon |  | Lao săn / Cây lao | vật phẩm | 25 | Ngọn lao có ngạnh dùng để đâm và kéo giữ mục tiêu |
+| Harpoon |  | Lao săn | vật phẩm | 25 | Ngọn lao có ngạnh dùng để đâm và kéo giữ mục tiêu |
 | Twin Lightning |  | Song Lôi | kỹ năng | 26 | Kỹ năng ma pháp lôi hệ của Empress |
 | Ishmael |  | Ishmael | khác | 26 | Nhân vật thợ săn cá voi trong tiểu thuyết Moby Dick |
 | Moby Dick |  | Moby Dick | khác | 26 | Tiểu thuyết kinh điển của Herman Melville |
@@ -168,9 +168,9 @@
 | Poison Resistance | poison resistance | Kháng Độc | kỹ năng | 29 | Kỹ năng kháng độc cấp trung |
 | Extreme Poison Resistance | extreme poison resistance | Kháng Độc Cực Hạn | kỹ năng | 29 | Kỹ năng kháng độc cấp cực hạn |
 | Giant's Rubber Band | Giant's Rubber String | Dây Thun Khổng Lồ | vật phẩm | 29 | Gân Báo Bóng Tối tôi luyện qua Ngọn Lửa Vĩnh Cửu có độ đàn hồi cực đại do IlHan đặt tên |
-| Pile Bunker | pile bunker | Pile Bunker | vật phẩm | 29 | Vũ khí cận chiến bắn cọc phá hủy phòng ngự kẻ địch |
+| Pile Bunker | pile bunker | Súng Bắn Cọc | vật phẩm | 29 | Vũ khí cận chiến bắn cọc phá hủy phòng ngự kẻ địch |
 | Lightspeed |  | Quang Tốc | hệ thống | 29 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
-| Lightspeed Pile Bunker |  | Pile Bunker Quang Tốc | vật phẩm | 29 | Vũ khí pile bunker làm từ xương, răng và gân Báo Bóng Tối sở hữu dòng thuộc tính Quang Tốc |
+| Lightspeed Pile Bunker |  | Súng Bắn Cọc Quang Tốc | vật phẩm | 29 | Vũ khí Súng Bắn Cọc làm từ xương, răng và gân Báo Bóng Tối sở hữu dòng thuộc tính Quang Tốc |
 | Overflow | Overflows | Hiện Tượng Tràn | hệ thống | 30 | Hiện tượng rò rỉ mana do bẫy vượt quá sức chứa tạo ra quái vật trùm |
 | Underground |  | Địa Hạ | hệ thống | 30 | Tiền tố dòng thuộc tính alpha/beta của Bẫy Hủy Diệt |
 | Spatial expansion magic |  | Ma pháp mở rộng không gian | hệ thống | 30 | Ma pháp mở rộng không gian chứa đồ cho túi đeo |

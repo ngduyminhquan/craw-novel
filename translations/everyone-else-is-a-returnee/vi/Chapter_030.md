@@ -2,7 +2,7 @@
 
 Thời gian trôi qua thật nhanh.
 
-Dù rất nóng lòng muốn thử nghiệm ngay món Pile Bunker, nhưng anh vẫn còn vô số việc phải làm. Chưa kể đến việc chế tạo Bẫy Hủy Diệt, anh còn phải chuẩn bị nhiều thứ khác như trang bị phòng ngự bổ trợ hay vũ khí phụ trợ để có thể săn quái một cách an toàn.
+Dù rất nóng lòng muốn thử nghiệm ngay món Súng Bắn Cọc, nhưng anh vẫn còn vô số việc phải làm. Chưa kể đến việc chế tạo Bẫy Hủy Diệt, anh còn phải chuẩn bị nhiều thứ khác như trang bị phòng ngự bổ trợ hay vũ khí phụ trợ để có thể săn quái một cách an toàn.
 
 Rốt cuộc, anh đã cắm rễ trong xưởng chế tác suốt hơn một tháng ròng.
 
@@ -124,7 +124,7 @@ Trong lúc Yu IlHan đang hào hứng, Erta lấy ra một vật phẩm từ tú
 
 "...Cô muốn tôi đeo cái này đi lòng vòng sao? Để làm dáng thời trang à?"
 
-[Nó là một vật phẩm có ma pháp mở rộng không gian. Cậu có thể nhét khoảng 1.000 cây Pile Bunker đằng kia vào trong đó đấy.]
+[Nó là một vật phẩm có ma pháp mở rộng không gian. Cậu có thể nhét khoảng 1.000 khẩu Súng Bắn Cọc đằng kia vào trong đó đấy.]
 
 Chiếc túi đeo chéo quả thực rất nhỏ. Trông nó chẳng có vẻ gì là nhét vừa một quả dưa lưới dù anh có kéo giãn nó ra cỡ nào, nên Yu IlHan thận trọng hỏi lại.
 
@@ -262,6 +262,6 @@ Khoảnh khắc Erta cất tiếng hét đầy tự mãn — một điều hiế
 
 Yu IlHan cất bước tiến vào trong hầm ngục cùng với vị thiên thần hữu dụng bất ngờ Erta.
 
-Đây chính là khoảnh khắc mà kẻ bị bỏ lại lần đầu tiên trong đời đối mặt với một con quái vật đến từ thế giới khác.
+Đây chính là khoảnh khắc mà người bị bỏ lại lần đầu tiên trong đời đối mặt với một con quái vật đến từ thế giới khác.
 
 [← Chương trước](Chapter_029.md) | [Chương tiếp theo →](Chapter_031.md)

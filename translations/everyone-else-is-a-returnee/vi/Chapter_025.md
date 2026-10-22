@@ -210,7 +210,7 @@ Nhà xưởng của anh chỉ cách chiến trường 20 phút di chuyển, kể
 
 [...Tôi sẽ tin tưởng và phó thác cho anh.]
 
-Dù chẳng hiểu nổi sao cô lại có thể tin tưởng mình đến thế trong khi cả hai mới chỉ kề vai chiến đấu một hai lần, nhưng Yu IlHan vẫn thấy dễ chịu vì cảm nhận được cô đã thừa nhận năng lực của anh. Anh chẳng hề có ký ức nào về việc làm quen tử tế với bất kỳ ai trước khi bị bỏ lại khỏi nhân loại, huống chi là suốt một ngàn năm làm kẻ bị bỏ lại.
+Dù chẳng hiểu nổi sao cô lại có thể tin tưởng mình đến thế trong khi cả hai mới chỉ kề vai chiến đấu một hai lần, nhưng Yu IlHan vẫn thấy dễ chịu vì cảm nhận được cô đã thừa nhận năng lực của anh. Anh chẳng hề có ký ức nào về việc làm quen tử tế với bất kỳ ai trước khi bị bỏ lại khỏi nhân loại, huống chi là suốt một ngàn năm làm người bị bỏ lại.
 
 Có được mối liên kết với một người khác thực sự là một điều tuyệt vời, bất kể bằng phương thức nào đi chăng nữa. Dù cảm thấy chua xót đến muốn rơi nước mắt khi đến tận bây giờ mới nhận ra điều đó, nhưng anh vẫn nén lại vì đây không phải là lúc để khóc lóc.
 

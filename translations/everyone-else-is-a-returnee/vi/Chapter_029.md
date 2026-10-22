@@ -140,9 +140,9 @@ Nó chẳng khác nào một nguồn động lực cực hạn sản sinh ra s�
 
 "Chỉ có một thứ thôi."
 
-Đó chính là Pile Bunker. Dù nguyên lý cơ bản tương tự như súng, nhưng đây là một loại vũ khí cồng kềnh đầy uy lực chuyên dùng để hủy diệt kẻ địch bằng cách đóng những chiếc cọc kim loại thay vì bắn đạn, phóng ra nhờ sức mạnh của thuốc súng ở cự ly siêu gần.
+Đó chính là Súng Bắn Cọc. Dù nguyên lý cơ bản tương tự như súng, nhưng đây là một loại vũ khí cồng kềnh đầy uy lực chuyên dùng để hủy diệt kẻ địch bằng cách đóng những chiếc cọc kim loại thay vì bắn đạn, phóng ra nhờ sức mạnh của thuốc súng ở cự ly siêu gần.
 
-Yu IlHan đang tính chế tạo một chiếc Pile Bunker bằng lực đàn hồi của Dây Thun Khổng Lồ thay vì dùng thuốc súng.
+Yu IlHan đang tính chế tạo một khẩu Súng Bắn Cọc bằng lực đàn hồi của Dây Thun Khổng Lồ thay vì dùng thuốc súng.
 
 [Nghĩ ra được thứ như thế thì chính cậu mới là kẻ kỳ quặc đấy!]
 
@@ -164,7 +164,7 @@ Yu IlHan chế tạo nó sao cho vừa vặn với việc sử dụng của mìn
 
 [Ý nghĩ cậu đang làm một chuyện thật ngớ ngẩn dường như chẳng chịu rời khỏi đầu tôi.]
 
-Đạn của Pile Bunker cũng quan trọng chẳng kém gì thân của nó! Anh chế tạo phần này bằng răng nanh thay vì xương của báo đen. Vì kích thước cơ thể nó khổng lồ nên răng nanh cũng đủ dài và dày, lại còn sắc bén và cứng hơn xương rất nhiều.
+Đạn của Súng Bắn Cọc cũng quan trọng chẳng kém gì thân của nó! Anh chế tạo phần này bằng răng nanh thay vì xương của báo đen. Vì kích thước cơ thể nó khổng lồ nên răng nanh cũng đủ dài và dày, lại còn sắc bén và cứng hơn xương rất nhiều.
 
 Sau khi chế tạo tổng cộng 7 mũi đạn cọc, Yu IlHan lại rơi vào trầm ngâm.
 
@@ -176,7 +176,7 @@ Sau khi chế tạo tổng cộng 7 mũi đạn cọc, Yu IlHan lại rơi vào 
 
 [Cậu cứ làm những gì mình muốn đi nếu cậu tự tin sẽ chạm trán một con quái vật chuyển chức lần 3 khác trước khi lũ Troll xuất hiện.]
 
-Lời thuyết phục của Erta quá đỗi đanh thép. Cuối cùng, Yu IlHan đành phải từ bỏ ý định Chế Tác Mana. Trong khi hạ quyết tâm sẽ cường hóa nó sau khi kiếm được một viên ma thạch xứng tầm với chiếc Pile Bunker này...
+Lời thuyết phục của Erta quá đỗi đanh thép. Cuối cùng, Yu IlHan đành phải từ bỏ ý định Chế Tác Mana. Trong khi hạ quyết tâm sẽ cường hóa nó sau khi kiếm được một viên ma thạch xứng tầm với khẩu Súng Bắn Cọc này...
 
 Anh đã làm xong thân nòng và đạn cọc. Thứ duy nhất còn lại là nạp đạn vào vũ khí.
 
@@ -200,7 +200,7 @@ Anh mất 10 giây để nạp lên nấc cấp 2, và tận 2 phút để nạp
 
 Dẫu sao, trái với nỗi lo của anh, anh vẫn có thể nạp xong trước khi phải réo gọi đến cụ kỵ tổ tiên bảy đời của mình. Sau khi nạp đạn xong, như thể chỉ chờ có vậy, những dòng chữ bắt đầu hiện lên trên võng mạc của Yu IlHan.
 
-[Đã hoàn thành Pile Bunker Quang Tốc]
+[Đã hoàn thành Súng Bắn Cọc Quang Tốc]
 
 [Phẩm cấp – Độc Nhất]
 
@@ -218,7 +218,7 @@ Cấp 3: 2.900]
 
 [Một món vũ khí do thợ rèn bậc thầy đỉnh phong chế tạo bằng xương, răng và gân của Báo Bóng Tối. Dẫu việc tạo ra sức mạnh phi thường như thế mà không cần đến ma pháp hay thuốc súng là điều thực sự đáng khen ngợi, nhưng sự thật rằng nó rất khó sử dụng và cồng kềnh khi mang vác rõ ràng là một nhược điểm lớn.]
 
-Chiếc Pile Bunker, vốn sở hữu dòng thuộc tính alpha ngay cả khi không qua Chế Tác Mana, đã mang một dòng thuộc tính kỳ diệu. Đó chính là việc giảm thời gian nạp đạn và tấn công! Yu IlHan suýt nữa bật khóc vì xúc động trước một dòng thuộc tính xuất sắc đến nhường này.
+Khẩu Súng Bắn Cọc, vốn sở hữu dòng thuộc tính alpha ngay cả khi không qua Chế Tác Mana, đã mang một dòng thuộc tính kỳ diệu. Đó chính là việc giảm thời gian nạp đạn và tấn công! Yu IlHan suýt nữa bật khóc vì xúc động trước một dòng thuộc tính xuất sắc đến nhường này.
 
 Thế nhưng, Erta, người sở hữu tài năng xuất chúng trong việc bới móc mặt tiêu cực của mọi thứ, đã không ngần ngại chen ngang.
 

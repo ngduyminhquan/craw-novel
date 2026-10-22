@@ -146,11 +146,11 @@ Do quá đắm chìm trong sự phấn khích từ những mối hời mà Sói 
 
 Sau khi cô rời đi, anh thực sự chỉ còn lại một mình.
 
-"Tự dưng lại nhớ đến những ngày tháng của kẻ bị bỏ lại ngày xưa ghê..."
+"Tự dưng lại nhớ đến những ngày tháng của người bị bỏ lại ngày xưa ghê..."
 
 Vừa lầm bầm than vãn, anh vừa rời khỏi nhà. Đích đến của anh là kho chứa gần đó mà anh đã vung tiền mua đứt với tốc độ nhanh như chớp giật.
 
-Mua đứt một nhà kho vào ban đêm để dùng ngay vào sáng hôm sau thì đúng là điên rồ thật! Thế nhưng anh chẳng cần bận tâm điều gì. Có tiền mặt trong tay, mọi chuyện đều được giải quyết gọn gàng. Đại Hàn Dân Quốc quả là một nơi đáng sống đối với những kẻ lắm tiền nhiều của. Dù rằng trước đây chưa từng có tiền nên mãi đến tận bây giờ anh mới biết điều đó!
+Mua đứt một nhà kho vào ban đêm để dùng ngay vào sáng hôm sau thì đúng là điên rồ thật! Thế nhưng anh chẳng cần bận tâm điều gì. Có tiền mặt trong tay, mọi chuyện đều được giải quyết gọn gàng. Hàn Quốc quả là một nơi đáng sống đối với những kẻ lắm tiền nhiều của. Dù rằng trước đây chưa từng có tiền nên mãi đến tận bây giờ anh mới biết điều đó!
 
 Yu IlHan bước vào kho chứa, nơi từ nay sẽ trở thành xưởng chế tác của anh. Do thời gian gấp gáp, anh mới chỉ kịp chuẩn bị vài trang thiết bị cơ bản như lò rèn và đe sắt. Còn thiếu thốn đủ bề, nhưng vì trước mắt cũng chưa cần bắt tay vào công việc chế tác quy mô lớn nào nên tạm thời như vậy cũng ổn.
 

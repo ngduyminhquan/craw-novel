@@ -278,7 +278,7 @@ Lưỡi hái của Bọ Ngựa Khổng Lồ vô cùng sắc bén, nên khi nằm
 
 Trong lúc xẻ xác con rết, một viên đá nhỏ màu xanh lam lăn tròn ra ngoài. Khi anh nhặt nó lên rồi thì thầm hỏi Erta, Erta khẽ gật đầu.
 
-[Đó là ma thạch. Sự kết tinh của mana. Nó vừa là nguồn năng lượng hiệu suất cao, vừa là cội nguồn của mọi tạo tác ma pháp.]
+[Đó là ma thạch. Sự kết tinh của mana. Nó vừa là nguồn năng lượng hiệu suất cao, vừa là cội nguồn của mọi tạo tác.]
 
 Sau khi quẹt viên đá vào đám cỏ dưới đất cho sạch rồi nhét vào túi, Yu IlHan liền chuyển sang mục tiêu tiếp theo. Lẽ dĩ nhiên, vốn là một người đàn ông Hàn Quốc lịch thiệp, anh chẳng hề động tay vào những con quái do cô gái mang mặt nạ Hulk hạ sát. Xác quái vật do cô tiêu diệt đều mang những vết cháy xém đặc trưng nên rất dễ nhận biết.
 
@@ -300,6 +300,6 @@ Yu IlHan trầm ngâm suy nghĩ trong thoáng chốc trước khi đáp lời.
 
 "Cô trả tôi bao nhiêu?"
 
-Đó là cuộc gặp gỡ đầu tiên giữa kẻ bị bỏ lại và Empress.
+Đó là cuộc gặp gỡ đầu tiên giữa người bị bỏ lại và Empress.
 
 [← Chương trước](Chapter_007.md) | [Chương tiếp theo →](Chapter_009.md)

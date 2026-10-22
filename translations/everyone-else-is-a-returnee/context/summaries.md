@@ -50,7 +50,7 @@ Bầy quái vật côn trùng tràn vào trường ĐH Sungkyunkwan khiến sinh
 IlHan một mình xông pha tiêu diệt hàng chục quái vật côn trùng, liên tục tăng từ cấp 1 lên cấp 7, đồng thời thức tỉnh 3 kỹ năng ở Lv Max: Cận Chiến, Thương Thuật và Giải Phẫu.
 Giữa trận chiến, một cô gái đeo mặt nạ Hulk (Empress) dùng lôi thuật uy lực cùng tham chiến quét sạch quái vật; quân đội kéo đến đúng lúc IlHan tung cú phi cước kết liễu con rết cuối cùng.
 Theo hướng dẫn của Erta, IlHan lần đầu giải phẫu quái vật, thu hoạch lớp vỏ giáp cứng cùng nhiều viên ma thạch (kết tinh năng lượng mana).
-Cảnh kết thúc: Trước ánh mắt sững sờ của quân đội và đám đông, cô gái đeo mặt nạ Hulk chủ động bắt chuyện nhờ IlHan giải phẫu xác quái hộ mình, mở màn cuộc gặp gỡ định mệnh giữa Kẻ Bị Bỏ Lại và Empress.
+Cảnh kết thúc: Trước ánh mắt sững sờ của quân đội và đám đông, cô gái đeo mặt nạ Hulk chủ động bắt chuyện nhờ IlHan giải phẫu xác quái hộ mình, mở màn cuộc gặp gỡ định mệnh giữa Người Bị Bỏ Lại và Empress.
 
 ## 9
 Empress trả công 40% chiến lợi phẩm xác quái cho Yu IlHan; khi viên thiếu úy toan tiếp cận, Empress dùng một tia lôi thuật nhẹ khống chế khiến anh ta đơ cứng người; IlHan nhân lúc đám đông phân tâm liền dùng Ẩn Thân rút lui trong sự ngơ ngác của mọi người (được gán biệt danh Sungdaein Bolt).
@@ -78,7 +78,7 @@ Cảnh kết thúc: IlHan vác túi da sói chứa chiến lợi phẩm ung dung
 
 ## 13
 Yu IlHan giấu 370 triệu won tiền mặt và chiến lợi phẩm tại một con ngõ hẻo lánh dưới sự hỗ trợ ma pháp của Erta, rồi tiến hành chọn chức nghiệp lần 1.
-Trước sự kinh ngạc của Erta khi anh có tới 23 lựa chọn, IlHan quyết định chọn Thương Thủ, nhưng một chức nghiệp Độc Nhất thứ 24 bất ngờ xuất hiện mang tên Bl****d Lancer; tưởng nhầm là "Blood" (Huyết), anh chọn ngay và ngã ngửa khi sự thật là "Blurred Lancer" (Thương Thủ Mờ Nhạt).
+Trước sự kinh ngạc của Erta khi anh có tới 23 lựa chọn, IlHan quyết định chọn Thương Thủ, nhưng một chức nghiệp Độc Nhất thứ 24 bất ngờ xuất hiện mang tên 'Thương Thủ M** ***t'; tưởng nhầm là 'Máu Lạnh' hay 'Mãnh Liệt', anh chọn ngay và ngã ngửa khi sự thật là 'Thương Thủ Mờ Nhạt'.
 Nhờ chuyển chức, IlHan tăng vọt lên cấp 18, nhận 2 hiệu ứng độc nhất tăng 10% uy lực ẩn thân và thương thuật cùng việc nới lỏng điều kiện tiến hóa kỹ năng; dù chưa dùng được mana để học kỹ năng chủ động, Erta tiết lộ các ghi chép sẽ dồn lại để nhận kỹ năng cực mạnh ở Chuyển chức lần 3.
 Nhận nhiệm vụ Kẻ Hành Quyết từ thiên giới và lướt mạng tìm quái, IlHan phát hiện bài đăng về một con gấu khổng lồ đang phá hủy khu Jeongneung gần ga Gireum.
 Cảnh kết thúc: IlHan chạy hết tốc lực hướng về ga Gireum trong vòng 3 phút, háo hức hỏi Erta xem có thể ăn mật gấu không, và nhận lại nụ cười rạng rỡ của Erta: 'Nếu cậu có kỹ năng kháng độc.'
@@ -178,7 +178,7 @@ Cảnh kết thúc: Yu IlHan hí hửng vì lần đầu tiên trong đời đư
 ## 29
 Yu IlHan trở về xưởng kiểm tra tiến độ kỹ năng Nghỉ Ngơi (đã đạt 1/1 ma thạch chuyển chức lần 3); Erta giải thích về yêu cầu máu Troll (phải có Kháng Độc Cực Hạn mới uống được) cùng thử thách hạ sát 500 quái chuyển chức lần 2 trong một đòn, đồng thời kiên quyết từ chối cho anh dùng trộm Harkanium.
 Sửa xong bộ lao săn, IlHan vô tình làm rơi gân Báo Bóng Tối vào lò nung Ngọn Lửa Vĩnh Cửu và phát hiện gân biến tính đạt độ đàn hồi vượt xa thuốc súng, được anh đặt tên là 'Dây Thun Khổng Lồ'.
-Tận dụng lực đàn hồi này cùng xương và 7 chiếc răng nanh làm cọc đạn, IlHan chế tạo thành công vũ khí hủy diệt 'Pile Bunker Quang Tốc' (Phẩm cấp Độc Nhất, 3 cấp nạp đòn với sức tấn công từ 1.200 đến 2.900, dòng thuộc tính giảm thời gian nạp và tăng 20% tốc độ tấn công) dù việc kéo cần nạp đạn vô cùng tốn sức.
+Tận dụng lực đàn hồi này cùng xương và 7 chiếc răng nanh làm cọc đạn, IlHan chế tạo thành công vũ khí hủy diệt 'Súng Bắn Cọc Quang Tốc' (Phẩm cấp Độc Nhất, 3 cấp nạp đòn với sức tấn công từ 1.200 đến 2.900, dòng thuộc tính giảm thời gian nạp và tăng 20% tốc độ tấn công) dù việc kéo cần nạp đạn vô cùng tốn sức.
 Cảnh kết thúc: Mặc kệ Erta chê bai món vũ khí dài hơn 3 mét quá cồng kềnh và giục anh nghỉ ngơi, Yu IlHan vẫn hăng say bắt tay chế tạo thêm vũ khí đối phó quái vật cỡ nhỏ trong lúc chờ các thiên thần tới làm chiếc Bẫy Hủy Diệt thứ ba.
 
 ## 30

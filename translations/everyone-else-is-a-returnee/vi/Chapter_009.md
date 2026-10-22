@@ -124,7 +124,7 @@ Anh ngoan ngoãn đặt cô lại lên đầu mình. Erta hít thở sâu vài h
 
 [Nói một cách tổng quát về quá trình chế tạo trang bị phòng hộ và áo giáp bằng mana chứ không đơn thuần chỉ tác động lên phần thân xác vật lý, thì nói cho đúng, Chế Tác Mana là một khái niệm được phát triển lên từ nghề rèn đúc.]
 
-"Lúc này tôi có muốn rèn đúc cũng chịu rồi. Trước hết, hãy chỉ cho tôi phương pháp tạo ra một tạo tác ma pháp đi."
+"Lúc này tôi có muốn rèn đúc cũng chịu rồi. Trước hết, hãy chỉ cho tôi phương pháp tạo ra một tạo tác đi."
 
 [Tôi nợ nần gì cậu chắc?]
 
@@ -258,7 +258,7 @@ Yu IlHan lập tức lấy lại thế đứng rồi giơ cánh tay trái lên.
 
 "Tôi sẽ bận rộn lắm đây."
 
-[Dù tôi có hỗ trợ một chút mana, nhưng không ngờ cậu lại thực sự chế tạo thành công một tạo tác ma pháp. Cậu đã nhận ra tiềm năng của nó rồi thì đúng là sẽ bận rộn thật đấy.]
+[Dù tôi có hỗ trợ một chút mana, nhưng không ngờ cậu lại thực sự chế tạo thành công một tạo tác. Cậu đã nhận ra tiềm năng của nó rồi thì đúng là sẽ bận rộn thật đấy.]
 
 "Không, không phải chuyện đó."
 
@@ -268,6 +268,6 @@ Yu IlHan nhanh thoăn thoắt gom đồ đạc lại rồi khoác túi lên vai.
 
 [Tôi dùng ma pháp hồi phục là được chứ gì, mau quay lại đây ngay!]
 
-Yu IlHan vẫn chưa bỏ được thói quen đối xử thô bạo với đồ vật từ những tháng ngày làm Kẻ Bị Bỏ Lại.
+Yu IlHan vẫn chưa bỏ được thói quen đối xử thô bạo với đồ vật từ những tháng ngày làm Người Bị Bỏ Lại.
 
 [← Chương trước](Chapter_008.md) | [Chương tiếp theo →](Chapter_010.md)

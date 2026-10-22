@@ -216,7 +216,7 @@ Sau khi kiểm tra xong Bẫy Hủy Diệt, Yu IlHan cùng các thiên thần đ
 
 [Họ thực sự không nhận ra cậu ta sao?]
 
-[Quả đúng là kẻ bị bỏ lại duy nhất...!]
+[Quả đúng là người bị bỏ lại duy nhất...!]
 
 Các thiên thần bàng hoàng nhìn Yu IlHan — kẻ đang biến điều kỳ diệu thành hiện thực bằng chính thân thể phàm trần của mình — còn Yu IlHan thì bực bội không thôi. Anh tự nhủ sau khi xong cái nhiệm vụ hay bất cứ thứ quỷ quái gì này, anh nhất quyết sẽ không giao du với lũ thiên thần cứ nhìn mình như nhìn khỉ trong sở thú này nữa.
 

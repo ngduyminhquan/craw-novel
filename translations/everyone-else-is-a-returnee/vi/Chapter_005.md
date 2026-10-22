@@ -46,7 +46,7 @@ Liệu sẽ có ngày cô được gặp lại Yu IlHan không? Cô thầm cầu
 
 Càng sớm càng tốt. Thậm chí ngay ngày mai cũng được.
 
-Ôm ấp niềm hy vọng mà một ngàn năm trước cô thậm chí chưa từng mảy may nghĩ tới — cái thuở cô mới đến tìm Yu IlHan, một kẻ bị bỏ lại — Lita từ từ nhắm mắt. Rồi cô chợt nhận ra một điều.
+Ôm ấp niềm hy vọng mà một ngàn năm trước cô thậm chí chưa từng mảy may nghĩ tới — cái thuở cô mới đến tìm Yu IlHan, một người bị bỏ lại — Lita từ từ nhắm mắt. Rồi cô chợt nhận ra một điều.
 
 [Rốt cuộc đến hôn mình cũng chưa kịp hôn cậu ấy nữa là!]
 

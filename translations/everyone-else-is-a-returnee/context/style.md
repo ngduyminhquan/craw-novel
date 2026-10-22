@@ -4,7 +4,7 @@
 
 - Thể loại: Hiện đại, đô thị, hệ thống, dị năng, hài hước, sinh tồn, săn quái.
 - Góc nhìn: Ngôi thứ ba giới hạn (third-person limited), phần lớn bám sát theo hành động và dòng suy nghĩ của Yu IlHan; thỉnh thoảng chuyển góc nhìn sang các nhân vật quan sát (Lita, Erta, người qua đường) để làm nổi bật sự kỳ quái, trớ trêu và bá đạo của IlHan.
-- Giọng kể: Tưng tửng, hài hước, tự giễu (self-deprecating), châm biếm sâu cay, nhiều câu hỏi tu từ và độc thoại nội tâm mỉa mai số phận "kẻ bị bỏ lại".
+- Giọng kể: Tưng tửng, hài hước, tự giễu (self-deprecating), châm biếm sâu cay, nhiều câu hỏi tu từ và độc thoại nội tâm mỉa mai số phận "người bị bỏ lại".
 - Nhịp câu: Gãy gọn, linh hoạt, nhiều câu đơn và đoạn một câu ngắn tạo nhịp điệu nhanh và nhấn mạnh hiệu quả gây cười.
 
 ## Nguyên tắc chung

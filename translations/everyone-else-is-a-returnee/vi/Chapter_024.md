@@ -202,6 +202,6 @@ Thế nhưng chẳng còn cách nào khác. Trên cõi đời này có nhiều t
 
 Yu IlHan chép miệng dù đôi chân vẫn dứt khoát rảo bước về phía bốt điện thoại công cộng mà anh đã ghi nhớ từ trước. Sau đó, anh rút tấm danh thiếp nhận được hai ngày trước ra xem, rồi dùng ngón tay vụng về bấm số điện thoại của Empress, Kang MiRae.
 
-Đây chính là sự khởi đầu của chiến lược giải cứu tiền tuyến với sự kết hợp giữa kẻ bị bỏ lại và Empress.
+Đây chính là sự khởi đầu của chiến lược giải cứu tiền tuyến với sự kết hợp giữa người bị bỏ lại và Empress.
 
 [← Chương trước](Chapter_023.md) | [Chương tiếp theo →](Chapter_025.md)

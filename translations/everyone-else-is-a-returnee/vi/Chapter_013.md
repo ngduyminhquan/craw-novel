@@ -110,13 +110,13 @@ Và đó là câu trả lời anh đưa ra sau khi đã nhìn thấu năng lực
 
 Ngược lại, Yu IlHan chẳng mảy may bận tâm Erta đang nghĩ gì, anh nhắm mắt lại ngay khi vừa quyết định xong. Thế nhưng đúng vào khoảnh khắc ấy, một chức nghiệp mới bỗng xuất hiện bên dưới 23 chức nghiệp kia.
 
-[24. Bl****d Lancer.]
+[24. Thương Thủ M** ***t.]
 
 "!?"
 
-Cơ thể Yu IlHan cứng đờ vì ngớ người. Vừa mới chốt xong thì lại lòi thêm một cái mới nữa ư!? Hơn nữa, phía trước cái tên 'Lancer' lại còn gắn thêm một từ mô tả. Anh hít sâu vài hơi để bình tĩnh lại rồi hỏi Erta.
+Cơ thể Yu IlHan cứng đờ vì ngớ người. Vừa mới chốt xong thì lại lòi thêm một cái mới nữa ư!? Hơn nữa, đi kèm với cái tên 'Thương Thủ' lại còn gắn thêm một từ mô tả. Anh hít sâu vài hơi để bình tĩnh lại rồi hỏi Erta.
 
-"Có một chức nghiệp mới vừa xuất hiện này. Nó ghi là 'Bl****d Lancer'."
+"Có một chức nghiệp mới vừa xuất hiện này. Nó ghi là 'Thương Thủ M** ***t'."
 
 [Từ mô tả...! Đó là chức nghiệp Độc Nhất! Không ngờ cậu lại nhận được chức nghiệp Độc Nhất ngay từ lần chuyển chức đầu tiên!]
 
@@ -124,11 +124,11 @@ Erta kích động đến mức chưa từng thấy. Yu IlHan mơ hồ cảm th�
 
 Chức nghiệp Độc Nhất. Nói cách khác, đó là chức nghiệp chỉ tồn tại cho một thực thể duy nhất. Một chức nghiệp xuất hiện khi con đường, thành tựu và những ghi chép của anh hòa làm một để tạo nên một đường kiếm, ngọn thương hoàn toàn mới chưa từng tồn tại trên cõi đời này. Nó được tối ưu hóa cho riêng thực thể đó, nên lẽ hiển nhiên, hiệu năng của nó vượt trội vô cùng.
 
-[Dù thế nào cũng phải chọn cái đó! Vả lại, Bl****d, từ mô tả đó nghe cũng hay nữa. Nhất định là chức nghiệp chuyên về khả năng hủy diệt rồi. Chắc chắn không sai vào đâu được!]
+[Dù thế nào cũng phải chọn cái đó! Vả lại, M** ***t, từ mô tả đó nghe cũng hay nữa. Nhất định là chức nghiệp chuyên về khả năng hủy diệt rồi. Chắc chắn không sai vào đâu được!]
 
-Yu IlHan cũng tán thành ý kiến của cô. Đằng nào anh cũng định làm thương thủ, thế nên anh chọn Bl****d Lancer không chút do dự.
+Yu IlHan cũng tán thành ý kiến của cô. Đằng nào anh cũng định làm Thương Thủ, thế nên anh chọn Thương Thủ M** ***t không chút do dự.
 
-Chỉ cần tâm niệm trong lòng rằng mình muốn trở thành một Bl****d Lancer là đủ. Chức nghiệp, sức mạnh và tư cách tương xứng với những ghi chép anh đã tích lũy bấy lâu nay lập tức được ban tặng cho anh.
+Chỉ cần tâm niệm trong lòng rằng mình muốn trở thành một Thương Thủ M** ***t là đủ. Chức nghiệp, sức mạnh và tư cách tương xứng với những ghi chép anh đã tích lũy bấy lâu nay lập tức được ban tặng cho anh.
 
 [Bạn đã trở thành Thương Thủ Mờ Nhạt. Khi tấn công trong trạng thái ẩn thân, sức tấn công tăng 10%. Uy lực của Thương Thuật tăng 10%.]
 
@@ -142,9 +142,9 @@ Chỉ cần tâm niệm trong lòng rằng mình muốn trở thành một Bl***
 
 Vào khoảnh khắc này, Yu IlHan mới nhận ra sự hiểu lầm ngớ ngẩn của mình.
 
-Khi nhìn thấy 'Bl****d Lancer', anh đã nghĩ đến 'Blood' (Huyết), nói cách khác là một thương thủ của máu. Thú thực là anh thấy cái tên đó ngầu bá cháy.
+Khi nhìn thấy 'Thương Thủ M** ***t', anh đã nghĩ đến 'Máu Lạnh' hay 'Mãnh Liệt', nói cách khác là một thương thủ đẫm máu đầy sát khí. Thú thực là anh thấy cái tên đó ngầu bá cháy.
 
-Thế nhưng, thực tế phũ phàng lại là 'Blurred' (Mờ Nhạt). Nói cách khác, một thương thủ mờ nhạt.
+Thế nhưng, thực tế phũ phàng lại là 'Mờ Nhạt'. Nói cách khác, một thương thủ mờ nhạt.
 
 "Thương thủ mờ nhạt cái quái gì chứ!"
 

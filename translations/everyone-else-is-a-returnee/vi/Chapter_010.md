@@ -30,7 +30,7 @@ Và đó cũng chính là lý do anh phải hành động. Để trở nên mạ
 
 Đúng vậy. Mọi kết luận đều dẫn đến việc anh phải đi săn quái vật! Thế nên Yu IlHan mới khoác một chiếc túi lớn trên vai, tay cầm cây trường thương bằng thép bọc vải bước đi. Anh đang tự mình tìm kiếm quái vật.
 
-Dĩ nhiên, dẫu Đại Hàn Dân Quốc lúc này đang trong tình trạng cảnh giác cao độ như thời chiến do các vụ việc quái vật xuất hiện hàng loạt — chẳng hạn như vụ quái vật tràn vào khuôn viên đại học — thì đối với Yu IlHan, người từng né được cả mắt Thượng Đế, việc lẩn tránh ánh mắt của những con người trong quân đội, chẳng rõ là quân nhân Hàn Quốc hay là mấy kẻ ngốc nghếch, quả thực quá đỗi dễ dàng.
+Dĩ nhiên, dẫu Hàn Quốc lúc này đang trong tình trạng cảnh giác cao độ như thời chiến do các vụ việc quái vật xuất hiện hàng loạt — chẳng hạn như vụ quái vật tràn vào khuôn viên đại học — thì đối với Yu IlHan, người từng né được cả mắt Thượng Đế, việc lẩn tránh ánh mắt của những con người trong quân đội, chẳng rõ là quân nhân Hàn Quốc hay là mấy kẻ ngốc nghếch, quả thực quá đỗi dễ dàng.
 
 Không, dù thế thì ít ra một người trong số họ phát hiện ra anh cũng được chứ, đằng này chẳng một ai nhìn thấy anh, cứ như thể họ cố tình ngoảnh mặt đi nơi khác vậy. Thật là một chuyện đáng buồn.
 
@@ -194,7 +194,7 @@ Hơn nữa, anh thậm chí còn thấy phấn khích nếu đó là việc ti�
 
 [Không có chuyện cậu chết đâu. Cậu đang đánh giá quá thấp năng lực của bản thân rồi.]
 
-Erta khịt mũi một cái. Cô đã nhìn thấy một phần năng lực của Yu IlHan. Hôm qua, cô đã chứng kiến khả năng chiến đấu áp đảo của anh trước hàng loạt quái vật, chứng kiến cảnh anh dùng phụ phẩm quái vật để tạo ra một tạo tác ma pháp đáng giá, và nhìn thấy cây trường thương bằng thép anh mang theo khi rời nhà hôm nay.
+Erta khịt mũi một cái. Cô đã nhìn thấy một phần năng lực của Yu IlHan. Hôm qua, cô đã chứng kiến khả năng chiến đấu áp đảo của anh trước hàng loạt quái vật, chứng kiến cảnh anh dùng phụ phẩm quái vật để tạo ra một tạo tác đáng giá, và nhìn thấy cây trường thương bằng thép anh mang theo khi rời nhà hôm nay.
 
 Erta không hề đánh giá sai về anh một chút nào. Quái vật cấp 30 ư? Đừng có đùa. Anh không phải là kẻ sẽ phải chật vật với lũ quái vật ở cấp độ đó. Sức mạnh và kỹ thuật được tôi luyện để phá vỡ mọi giới hạn bên trong cơ thể anh chính là bằng chứng xác thực nhất!
 
