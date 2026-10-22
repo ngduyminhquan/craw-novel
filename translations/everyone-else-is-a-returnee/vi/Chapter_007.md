@@ -190,7 +190,7 @@ Lần này cũng vậy. Anh nhận định việc này không nguy hiểm, và k
 
 '...Cô biết là tôi vẫn đang ở cấp 1 mà đúng không? Đã thế còn chẳng dùng được mana nữa cơ đấy?'
 
-[Bù lại, cậu sở hữu một cơ thể vật lý quái vật. Tôi nói câu đó là còn tính đến chuyện cậu chưa có trang bị phòng ngự chắc chắn đấy nhé. Nếu có trang bị phòng thủ tốt, cậu thậm chí còn săn được những con quái vật cấp cao hơn nhiều.]
+[Bù lại, cậu sở hữu một thể chất quái vật. Tôi nói câu đó là còn tính đến chuyện cậu chưa có trang bị phòng ngự chắc chắn đấy nhé. Nếu có trang bị phòng thủ tốt, cậu thậm chí còn săn được những con quái vật cấp cao hơn nhiều.]
 
 "Vấn đề là, tìm lũ quái vật đó ở đâu bây giờ."
 

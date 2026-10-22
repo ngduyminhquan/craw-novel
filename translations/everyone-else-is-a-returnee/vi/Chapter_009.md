@@ -126,11 +126,11 @@ Anh ngoan ngoãn đặt cô lại lên đầu mình. Erta hít thở sâu vài h
 
 "Lúc này tôi có muốn rèn đúc cũng chịu rồi. Trước hết, hãy chỉ cho tôi phương pháp tạo ra một tạo tác ma pháp đi."
 
-[Ta nợ nần gì cậu chắc?]
+[Tôi nợ nần gì cậu chắc?]
 
 "Dạy t-..."
 
-[Ta bảo là ta sẽ dạy mà!]
+[Tôi bảo là tôi sẽ dạy mà!]
 
 Đợi đến khi về thiên giới, cô nhất định sẽ thuyết giáo cho Lita một bài học nhớ đời để dạy cô nàng cách quản lý cho tử tế người đàn ông của mình mới được!
 
@@ -144,7 +144,7 @@ Yu IlHan vừa lẩm bẩm càu nhàu vừa lấy viên ma thạch ra. Erta ti�
 
 "Rồi sao nữa?"
 
-[Hết rồi đấy. Các bậc thầy chế tác tạo tác gọi bước này là 'hoàn thiện'.]
+[Hết rồi đấy. Các bậc thầy tạo tác gọi bước này là 'hoàn thiện'.]
 
 "Mới bắt đầu mà đã bảo là hoàn thiện cái nỗi gì! Tôi không công nhận trò đó là làm việc đâu nhé!"
 
@@ -258,7 +258,7 @@ Yu IlHan lập tức lấy lại thế đứng rồi giơ cánh tay trái lên.
 
 "Tôi sẽ bận rộn lắm đây."
 
-[Dù ta có hỗ trợ một chút mana, nhưng không ngờ cậu lại thực sự chế tạo thành công một tạo tác ma pháp. Cậu đã nhận ra tiềm năng của nó rồi thì đúng là sẽ bận rộn thật đấy.]
+[Dù tôi có hỗ trợ một chút mana, nhưng không ngờ cậu lại thực sự chế tạo thành công một tạo tác ma pháp. Cậu đã nhận ra tiềm năng của nó rồi thì đúng là sẽ bận rộn thật đấy.]
 
 "Không, không phải chuyện đó."
 
@@ -266,7 +266,7 @@ Yu IlHan nhanh thoăn thoắt gom đồ đạc lại rồi khoác túi lên vai.
 
 "Tôi làm hỏng xích đu của người ta rồi, phải chuồn thôi!"
 
-[Ta dùng ma pháp hồi phục là được chứ gì, mau quay lại đây ngay!]
+[Tôi dùng ma pháp hồi phục là được chứ gì, mau quay lại đây ngay!]
 
 Yu IlHan vẫn chưa bỏ được thói quen đối xử thô bạo với đồ vật từ những tháng ngày làm Kẻ Bị Bỏ Lại.
 

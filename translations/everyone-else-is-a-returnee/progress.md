@@ -11,9 +11,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | reviewed |  |
 | 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | reviewed |  |
 | 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | reviewed |  |
-| 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | done |  |
-| 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | done |  |
-| 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | done |  |
+| 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | reviewed |  |
+| 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | reviewed |  |
+| 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | reviewed |  |
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | todo |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | todo |  |
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | todo |  |
@@ -393,3 +393,13 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#9] Kỹ năng "Mana crafting" — Tạm chọn: "Chế Tác Mana". Phương án khác: "Gia Công Mana", "Chế Tạo Mana". Tạm dùng trong bản dịch: "Chế Tác Mana". → Chốt 'Chế Tác Mana' (orchestrator)
 - [#9] Quá trình "bestowal" (truyền ý niệm/định hướng thuộc tính vào ma thạch trong Chế Tác Mana) — Tạm chọn: "ban tặng". Phương án khác: "ban niệm", "ban phú", "truyền niệm". Tạm dùng trong bản dịch: "ban tặng". → Chấp nhận 'ban tặng' (giữ 'Ban Tặng / Ban Niệm' trong glossary) (orchestrator)
 - [#9] Câu truyện chính ở raw dòng 82 có chứa ghi chú translator ở cuối câu `...pretending to sleep inside his room. (T/N: Super long sentence… so hard to TL)`. Script `clean_raw` tự động lọc bỏ cả đoạn vì chứa `T/N:`. Tạm xử lý: giữ nguyên toàn bộ câu truyện (IlHan về nhà ăn cơm tối cùng bố mẹ rồi ban đêm lén ra công viên chế tạo trang bị) và chỉ lược bỏ phần ghi chú `(T/N: ...)` trong ngoặc đơn để đảm bảo tính toàn vẹn và mạch lạc của cốt truyện. → Chấp nhận giữ nguyên câu truyện chính và chỉ bỏ phần chú thích (T/N: ...) ở cuối câu (orchestrator)
+- [#7 đoạn 96] Diễn đạt 'cơ thể vật lý quái vật' → Sửa thành 'thể chất quái vật' (orchestrator)
+- [#7 đoạn 54] 'ĐH Sung' → Bác đề xuất sửa, giữ nguyên vì là cách dịch tương đương cho 'Sung U' và đã có trong glossary (orchestrator)
+- [#8 giữa đoạn 11 và 12, giữa 78 và 79] Bổ sung 2 câu thoại bị sót do T/N: ghép vào đoạn liền trước/sau để không lệch số đoạn khi chạy qa_check (orchestrator)
+- [#8 đoạn 138] Thuật ngữ 'tạo tác pháp bảo' → Chuẩn hóa thành 'tạo tác ma pháp' (orchestrator)
+- [#8 đoạn 120] 'Tôi xin lỗi' của người lính → Bác đề xuất sửa, giữ nguyên theo raw (orchestrator)
+- [#9 đoạn 64, 66, 130, 134] Xưng hô Erta → Thống nhất Erta xưng 'tôi' với Yu IlHan trong chương 9 (orchestrator)
+- [#9 đoạn 73] 'Bậc thầy chế tác tạo tác' → Sửa thành 'bậc thầy tạo tác' (orchestrator)
+- [Context] Nhân vật Han YeoRang → Bác đề xuất xóa, giữ nguyên bảng characters.md và pronouns.md đã khởi tạo, không xóa dòng cũ (orchestrator)
+- [Context] pronouns.md → Bổ sung ghi chú Erta ưu tiên xưng 'tôi' - gọi 'cậu' trong hội thoại thông thường (orchestrator)
+- [Context] rules.md → Bổ sung lưu ý chỉ bỏ phần inline T/N, không bỏ nội dung câu truyện (orchestrator)

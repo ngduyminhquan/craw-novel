@@ -26,7 +26,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Lita | tôi | cô / Lita | 2 | Sau khi Lita nói tên |
 | Lita | Yu IlHan | tôi / ta | cậu / IlHan | 2 | Thân thiết hơn, chuyển sang xưng hô bình đẳng |
 | Yu IlHan | Erta | tôi | cô / Erta | 6 | Gặp gỡ Erta |
-| Erta | Yu IlHan | tôi / ta | cậu / Yu IlHan | 6 | Erta giữ phong thái nghiêm túc |
+| Erta | Yu IlHan | tôi / ta | cậu / Yu IlHan | 6 | Ưu tiên xưng "tôi" - gọi "cậu" nhất quán trong hội thoại thông thường; chỉ xưng "ta" khi cần thị uy thực thể cấp cao |
 | Yu IlHan | Kim YeSeul | con | mẹ | 6 | Mẹ con |
 | Kim YeSeul | Yu IlHan | mẹ | con / IlHan | 6 | Mẹ con |
 | Yu IlHan | Yu YongHan | con | bố | 6 | Bố con |

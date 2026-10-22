@@ -20,7 +20,7 @@ Dường như vẫn chưa có thương vong nào xảy ra. Tuy nhiên, chỉ c�
 
 "Mọi người bình tĩnh đã! Phía nhà trường đã liên hệ với..."
 
-"Có ai lập tổ đội với tao đi săn con kia không!"
+"Có ai lập tổ đội với tao đi săn con kia không!" "Ở đây! Cho thêm một ca tử nạn nữa đi!"
 
 "Chạy đi, mẹ kiếp!"
 
@@ -158,7 +158,7 @@ Vừa buông xác con muỗi ra, anh vừa lùi lại phía sau một bước r�
 
 [Kuiiiiiiiiiiii!]
 
-Vừa tiếp đất trong khi vẫn nắm chặt vòi con muỗi, Yu IlHan vung mạnh tay phóng nó trúng phóc vào một con ong mật khổng lồ đang hung hãn lao tới. Con muỗi bị nọc độc của con ong đâm chết, và có lẽ ong thì dẫu có tiến hóa cũng vẫn chỉ là ong, con ong mật nọ cũng lăn ra chết tươi ngay tắp lự. Quả là một cái chết hết sức oanh liệt.
+"Mosquito Strike!" Vừa tiếp đất trong khi vẫn nắm chặt vòi con muỗi, Yu IlHan vung mạnh tay phóng nó trúng phóc vào một con ong mật khổng lồ đang hung hãn lao tới. Con muỗi bị nọc độc của con ong đâm chết, và có lẽ ong thì dẫu có tiến hóa cũng vẫn chỉ là ong, con ong mật nọ cũng lăn ra chết tươi ngay tắp lự. Quả là một cái chết hết sức oanh liệt.
 
 [Bạn nhận được 350 điểm kinh nghiệm.]
 
@@ -274,7 +274,7 @@ Lưỡi hái của Bọ Ngựa Khổng Lồ vô cùng sắc bén, nên khi nằm
 
 Trong lúc xẻ xác con rết, một viên đá nhỏ màu xanh lam lăn tròn ra ngoài. Khi anh nhặt nó lên rồi thì thầm hỏi Erta, Erta khẽ gật đầu.
 
-[Đó là ma thạch. Sự kết tinh của mana. Nó vừa là nguồn năng lượng hiệu suất cao, vừa là cội nguồn của mọi tạo tác pháp bảo.]
+[Đó là ma thạch. Sự kết tinh của mana. Nó vừa là nguồn năng lượng hiệu suất cao, vừa là cội nguồn của mọi tạo tác ma pháp.]
 
 Sau khi quẹt viên đá vào đám cỏ dưới đất cho sạch rồi nhét vào túi, Yu IlHan liền chuyển sang mục tiêu tiếp theo. Lẽ dĩ nhiên, vốn là một người đàn ông Hàn Quốc lịch thiệp, anh chẳng hề động tay vào những con quái do cô gái mang mặt nạ Hulk hạ sát. Xác quái vật do cô tiêu diệt đều mang những vết cháy xém đặc trưng nên rất dễ nhận biết.
 

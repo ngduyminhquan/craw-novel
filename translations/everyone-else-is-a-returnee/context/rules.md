@@ -35,3 +35,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 ## Riêng truyện này
 
 - (#1) Các dòng quy ước ký hiệu ở đầu raw ('Thinking', "Speaking", [Higher existence's speaking...]) là ghi chú format của bản dịch EN, bỏ qua không dịch.
+- (#8) Khi câu truyện có chú thích `(T/N: ...)` nằm cùng dòng (inline) thì chỉ bỏ phần `(T/N: ...)`, tuyệt đối không bỏ nội dung câu truyện.
