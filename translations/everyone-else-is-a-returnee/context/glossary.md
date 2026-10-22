@@ -263,3 +263,13 @@
 | Daréu | Dareu | Daréu | địa danh | 50 | Thế Giới Bị Bỏ Rơi quê hương của Reta Kar'iha và tộc Elf |
 | Elf | elf | Elf | chủng tộc | 50 | Được phép giữ nguyên: Chủng tộc thông tuệ trong thần thoại kỳ ảo phương Tây |
 | Army of Heaven |  | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
+| Atlatl |  | Atlatl | vật phẩm | 51 | Dụng cụ phóng lao cổ đại dùng đòn bẩy vung ném lao đi |
+| Destructive |  | Hủy Diệt | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng sức xuyên phá và sức tấn công |
+| Frighteningly |  | Kinh Hãi | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác |
+| Frighteningly Destructive Metal Pile Bunker |  | Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi | vật phẩm | 51 | Vũ khí Súng Bắn Cọc làm từ Thiết Tâm và Dây Thun Khổng Lồ, sở hữu dòng thuộc tính Hủy Diệt Kinh Hãi tăng 40% sức xuyên phá và sức tấn công |
+| Moonlight |  | Nguyệt Quang | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng sức tấn công và độ chính xác dưới ánh trăng |
+| Rough |  | Thô Ráp | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng tầm đánh |
+| Rough Moonlight Bone Atlatl |  | Atlatl Xương Nguyệt Quang Thô Ráp | vật phẩm | 51 | Dụng cụ phóng lao chế tạo từ xương quái vật mang dòng thuộc tính Nguyệt Quang và Thô Ráp |
+| Secretive Reaper's Fallen Robe |  | Áo Choàng Đọa Lạc Tử Thần Kín Đáo | vật phẩm | 51 | Áo choàng di vật của Reta Kar'iha, mang dòng thuộc tính Kín Đáo tăng 20% khả năng ẩn thân và 20% sức tấn công khi tập kích |
+| Fatal and Sharp Reaper's Scythe |  | Lưỡi Hái Tử Thần Sắc Bén Chí Mạng | vật phẩm | 51 | Lưỡi hái di vật của Reta Kar'iha chế tác từ kim loại thế giới lụi tàn, tăng 40% tỷ lệ và sát thương chí mạng |
+| Extermination Spiked Spear |  | Thương Gai Tuyệt Diệt | vật phẩm | 51 | Vũ khí phẩm cấp Truyền Thuyết được Yu IlHan rèn từ kim loại nung chảy của Lưỡi Hái Tử Thần, tăng 70% sát thương chí mạng |

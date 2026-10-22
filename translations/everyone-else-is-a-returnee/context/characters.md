@@ -76,6 +76,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 48: Hoàn thành nhiệm vụ chuyển chức thành 'Tử Thần Tập Sự', tăng vọt lên cấp 55; học được kỹ năng bị động 'Thu Thập Tử Vong' Lv 1; kết liễu Kẻ Phá Vỡ Reta Kar'iha Lv 157 và thu được hơn 31,9 triệu EXP, ma thạch đen, áo choàng và lưỡi hái tử thần.
 - Trạng thái tính đến chương 49: Thu hoạch toàn bộ ma thạch đen và di vật của Reta Kar'iha; tiết lộ tên thật cho nhóm Kang HaJin và Na YuNa; được thiên thần thiết giáp hẹn trao thưởng sau vì công cứu Erta; biết tin Lita mong ngóng gặp lại mình; dùng Ẩn Thân trốn thoát khỏi Na YuNa tại sân bay để tiếp tục đi lậu vé về Hàn Quốc.
 - Trạng thái tính đến chương 50: Về nhà ở Jongno, nhận tin mẹ đi làm nhiệm vụ lấy hải sản ở Ya-umin; tại xưởng rèn, luyện kỹ năng Nấu Nướng tăng thêm 2 cấp nhờ áp chảo lượng lớn thịt quái vật thừa cho Ngọn Lửa Vĩnh Cửu nuốt trọn; thử nghiệm và chế tạo thành công Dây Thun Khổng Lồ phẩm cấp cao từ gân Thủ Lĩnh Troll Cao Nguyên bằng cách cho Ngọn Lửa Vĩnh Cửu nuốt ma thạch chuyển chức 2; chuẩn bị rèn vũ khí mới.
+- Trạng thái tính đến chương 51: Dùng Thiết Tâm và Dây Thun Khổng Lồ nâng cấp thành Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi (tầng 4 sức tấn công 5.500); chế tạo vũ khí tầm xa Atlatl Xương Nguyệt Quang Thô Ráp (sức tấn công 2.800); sửa chữa Áo Choàng Đọa Lạc Tử Thần Kín Đáo; nung chảy Lưỡi Hái Tử Thần của Reta Kar'iha và ép tàn dư hắc khí nhập vào ma thạch của cô; rèn đúc thành công phôi vũ khí Truyền Thuyết mang tên Thương Gai Tuyệt Diệt (sức tấn công 3.700, tăng 70% sát thương chí mạng) trước khi chuẩn bị Chế Tác Mana; tái ngộ Lita và Erta tại xưởng rèn.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -83,6 +84,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Thân mật, có chút đanh đá, trêu ngươi ("Ái chà", "Ara ara"), nhưng đầy quan tâm.
 - Quan hệ / Trạng thái tính đến chương 5: Yêu IlHan sâu sắc; bị triệu hồi về thiên giới khi Trái Đất phục hồi thời gian, mang theo thanh kiếm kỷ niệm rác rưởi của IlHan và tiếc nuối vì chưa kịp hôn anh; luôn hy vọng và cầu nguyện sớm gặp lại anh.
 - Trạng thái tính đến chương 19: Đang phải gánh vác rất nhiều việc trên thiên giới và chịu khổ sở vì đã chiếu cố, đòi quyền lợi cho IlHan quá nhiều; tạm thời chưa thể được phái xuống Trái Đất.
+- Trạng thái tính đến chương 51: Cùng Erta từ Thiên giới hạ phàm xuống Trái Đất và trực tiếp đến xưởng rèn gặp lại Yu IlHan sau thời gian dài xa cách.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -91,6 +93,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 46: Bị đặc tính dị thường của hầm ngục phong tỏa năng lực thiên thần và trở thành mục tiêu công kích chính của quái vật tử thần biến dị; dũng cảm bay đi hướng khác nhằm giảm bớt gánh nặng và thực hiện kế hoạch hỗ trợ Yu IlHan.
 - Trạng thái tính đến chương 47: Nhận ra tín hiệu mờ nhạt từ vòng thiên thần của Feyta, đưa nhóm HaJin - YuNa đến chi viện cho IlHan; nhận thức được tình cảm kỳ lạ và sự lo lắng sâu sắc của mình dành cho IlHan.
 - Trạng thái tính đến chương 49: Cùng Feyta tạm thời được triệu hồi về Thiên giới theo lệnh thiên thần thiết giáp để báo cáo chi tiết về dị thường của hầm ngục và Kẻ Phá Vỡ.
+- Trạng thái tính đến chương 51: Cùng Lita hoàn tất báo cáo sự vụ tại Thiên giới và quay trở lại xưởng rèn của Yu IlHan.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
