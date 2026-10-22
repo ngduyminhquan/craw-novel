@@ -251,3 +251,4 @@
 | Transcendent Regeneration | Transcendent Regeneration skill | Siêu Việt Tái Sinh | kỹ năng | 45 | Kỹ năng tiến hóa từ Nghỉ Ngơi, độ khó tu luyện Hạng EX, hồi phục chấn thương tức thì |
 | EX | EX-tier; EX rank | Hạng EX | hệ thống | 45 | Cấp độ khó hoặc phẩm cấp vượt trên cả Hạng SSS |
 | Abandoned World | Abandoned Worlds | Thế Giới Bị Bỏ Rơi | khác | 45 | Thế giới mất cân bằng nghiêm trọng do quái vật áp đảo dẫn đến bị Thiên giới cắt đứt liên lạc và bỏ rơi |
+| physical abilities |  | năng lực thể chất | hệ thống | 43 | Năng lực thể chất tổng thể trong các bảng mô tả kỹ năng/buff hệ thống |

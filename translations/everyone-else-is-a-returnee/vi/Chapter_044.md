@@ -1,6 +1,6 @@
 # Chương 44: Tôi cũng chuyển chức lần 2 (6)
 
-Phát đạn cọc của súng bắn cọc lao đi như chớp giật và giáng xuống tựa sét đánh, ngay lập tức nghiền nát da thịt cùng xương xẩu của con troll khổng lồ trước khi khiến não bộ nó vỡ tung, và chưa dừng lại ở đó, nó còn đâm thẳng một mạch dọc theo sống lưng, hủy diệt mọi thứ trên đường đi.
+Phát đạn cọc của Súng Bắn Cọc lao đi như chớp giật và giáng xuống tựa sét đánh, ngay lập tức nghiền nát da thịt cùng xương xẩu của con troll khổng lồ trước khi khiến não bộ nó vỡ tung, và chưa dừng lại ở đó, nó còn đâm thẳng một mạch dọc theo sống lưng, hủy diệt mọi thứ trên đường đi.
 
 Sau khi đập nát mọi thứ từ đầu đến háng con troll, phát đạn cắm phập vào lòng đất mà chẳng hề giảm đi chút động lượng nào, và trước tác động kinh hoàng đó, một cơn địa chấn cục bộ bùng nổ khiến tất cả những ai đang đứng trên mặt đất đều mất thăng bằng.
 
@@ -10,9 +10,9 @@ Sau khi đập nát mọi thứ từ đầu đến háng con troll, phát đạn
 
 {Khuyaaaaaa!}
 
-Đúng như dự tính, cây súng bắn cọc Yu IlHan đang cầm trên tay đã tự hủy. Đây chính là thời khắc mà món vũ khí mạnh nhất từng giúp đỡ anh trong những thời điểm quyết định đã hoàn toàn bị phá hủy. Cho đến khi tìm được thứ có thể thay thế Dây Thun Khổng Lồ, anh sẽ chẳng thể chế tạo thêm một cây súng bắn cọc nào nữa.
+Đúng như dự tính, cây Súng Bắn Cọc Yu IlHan đang cầm trên tay đã tự hủy. Đây chính là thời khắc mà món vũ khí mạnh nhất từng giúp đỡ anh trong những thời điểm quyết định đã hoàn toàn bị phá hủy. Cho đến khi tìm được thứ có thể thay thế Dây Thun Khổng Lồ, anh sẽ chẳng thể chế tạo thêm một cây Súng Bắn Cọc nào nữa.
 
-Dĩ nhiên, cây súng bắn cọc thực sự đã phát huy trọn vẹn uy lực của một màn cải tiến cực hạn. Tính đến thời điểm hiện tại trên Trái Đất, chẳng có con troll nào có thể tiếp tục sống sót sau khi bị nghiền nát não bộ, phá hủy cột sống, xẻ đôi thân mình và làm nổ tung trái tim.
+Dĩ nhiên, cây Súng Bắn Cọc thực sự đã phát huy trọn vẹn uy lực của một màn cải tiến cực hạn. Tính đến thời điểm hiện tại trên Trái Đất, chẳng có con troll nào có thể tiếp tục sống sót sau khi bị nghiền nát não bộ, phá hủy cột sống, xẻ đôi thân mình và làm nổ tung trái tim.
 
 [Bạn nhận được 7.854.557 điểm kinh nghiệm.]
 
@@ -22,7 +22,7 @@ Dĩ nhiên, cây súng bắn cọc thực sự đã phát huy trọn vẹn uy l�
 
 [Tập kích tiêu diệt quái vật chuyển chức lần 3: 1/1]
 
-Yu IlHan thu hồi những mảnh tàn tích của cây súng bắn cọc trong nháy mắt ngay giữa không trung, trước khi mượn xác con troll làm điểm tựa để đáp xuống mặt đất an toàn.
+Yu IlHan thu hồi những mảnh tàn tích của cây Súng Bắn Cọc trong nháy mắt ngay giữa không trung, trước khi mượn xác con troll làm điểm tựa để đáp xuống mặt đất an toàn.
 
 Ngoảnh lại phía sau, anh nhìn thấy hai con người và một con bọ cạp còn chưa kịp gượng dậy nổi do sóng xung kích từ chiếc đinh cọc xương nện xuống mặt đất.
 
@@ -138,7 +138,7 @@ Yu IlHan vừa ngâm nga vừa kết thúc công việc giải phẫu rồi chuy
 
 [K-không có mà.]
 
-[Thành thật thì ta sẽ tha thứ cho.]
+[Thành thật thì tôi sẽ tha thứ cho.]
 
 [Thật ra là tôi có tính như thế thật!]
 

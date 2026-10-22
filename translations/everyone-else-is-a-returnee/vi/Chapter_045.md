@@ -236,7 +236,7 @@ Thế nhưng, dù vậy, Yu IlHan vẫn không khỏi cảm thấy chạnh lòng
 
 "Thế nhưng, đây đâu phải Thế Giới Bị Bỏ Rơi, mà là một hầm ngục trên Trái Đất cơ mà."
 
-[Ừ. Đáng lẽ phải là thế.]
+[Phải. Đáng lẽ phải là thế.]
 
 Đó là khoảnh khắc Erta đáp lại bằng một giọng điệu đầy bất an lo lắng.
 

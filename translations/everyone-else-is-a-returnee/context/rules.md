@@ -41,3 +41,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#1) Ba dòng chú giải ký hiệu ở đầu raw chương 1 đã được thêm vào `raw_ignore_lines` trong `novel.json`.
 - (#20) Cụm từ `strong friends` trong raw EN (khẩu hiệu `강한 친구` của Lục quân Hàn Quốc) dịch thoát ý thành `những anh bạn quân đội mạnh mẽ` hoặc `quân đội` để rõ nghĩa.
 - (#13) Khi tên chức nghiệp, kỹ năng hoặc danh hiệu bị che một phần bằng dấu sao '*' để tạo tình huống hiểu lầm hài hước (vd 'Bl****d Lancer' làm nhân vật tưởng là 'Blood' nhưng thật ra là 'Blurred'), phải Việt hóa cả cụm từ bị che theo bản dịch đã chốt (giữ chữ cái đầu/cuối và thay phần giữa bằng dấu '*', vd 'Thương Thủ M** ***t' cho 'Thương Thủ Mờ Nhạt') và dịch thoát ý lời giải thích chơi chữ cho khớp tự nhiên bằng tiếng Việt, không để nguyên tiếng Anh.
+- (#42) Luôn viết hoa tên vũ khí đặc trưng Súng Bắn Cọc kể cả khi raw tiếng Anh viết thường pile bunker.

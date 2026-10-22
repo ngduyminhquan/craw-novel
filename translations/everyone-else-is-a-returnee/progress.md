@@ -47,9 +47,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | reviewed |  |
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | reviewed |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | reviewed |  |
-| 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | done |  |
-| 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | done |  |
-| 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | done |  |
+| 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | reviewed |  |
+| 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | reviewed |  |
+| 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | reviewed |  |
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | todo |  |
 | 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | todo |  |
 | 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | todo |  |
@@ -521,3 +521,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#45] Kỹ năng "Transcendent Regeneration" — Tạm chọn: "Siêu Việt Tái Sinh" (chuẩn Hán Việt ngắn gọn theo rules.md, kỹ năng tiến hóa từ Nghỉ Ngơi). Phương án khác: "Tái Sinh Siêu Việt". Tạm dùng trong bản dịch: "Siêu Việt Tái Sinh". → Chốt Siêu Việt Tái Sinh. (orchestrator)
 - [#45] Cấp độ kỹ năng "EX-tier" / "EX" — Tạm chọn: "Hạng EX" (đồng bộ với Hạng SSS). Phương án khác: "Cấp EX". Tạm dùng trong bản dịch: "Hạng EX". → Chốt Hạng EX. (orchestrator)
 - [#45] Khái niệm "Abandoned World" — Tạm chọn: "Thế Giới Bị Bỏ Rơi" (thế giới bị quái vật áp đảo khiến Thiên giới cắt đứt liên lạc và bỏ phế; sát với chủ đề của truyện). Phương án khác: "Thế Giới Bị Ruồng Bỏ", "Thế Giới Bị Bỏ Phế". Tạm dùng trong bản dịch: "Thế Giới Bị Bỏ Rơi". → Chốt Thế Giới Bị Bỏ Rơi. (orchestrator)
+- [#44 đoạn 70] Xưng hô giữa Erta và Feyta → Chấp nhận, sửa thành [Thành thật thì tôi sẽ tha thứ cho.] theo đúng pronouns.md. (orchestrator)
+- [#45 đoạn 119] Cách đáp của Erta với Yu IlHan → Chấp nhận, đổi thành [Phải. Đáng lẽ phải là thế.]. (orchestrator)

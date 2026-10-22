@@ -140,7 +140,7 @@ Chắc chắn thứ được gọi là Bọ Cạp Tử Thần Khổng Lồ kia s
 
 [Sau này sao cậu không trở thành Thần Ẩn Thân luôn đi?]
 
-"Nếu cô biến tôi thành thần, tôi sẽ bắt cô làm thuộc hạ độc quyền của riêng mình và bắt cô chịu khổ cả đời."
+"Nếu cô biến tôi thành thần, tôi sẽ biến cô thành của riêng mình và bắt cô chịu khổ cả đời."
 
 [N-nếu cậu làm được thì cứ thử xem...?]
 
@@ -226,7 +226,7 @@ Chưa hết, anh vẫn còn một 'món nước sốt' cuối cùng được c�
 
 Số thịt mà Yu IlHan đã chén đẫy đến mức quá đà kia bèn hóa thành nguồn năng lượng cung cấp cho các múi cơ bốc cháy. Dù bề ngoài không có quá nhiều biến chuyển, nhưng anh biết. Kỹ năng này đúng là vớ bẫm rồi!
 
-[Kỹ năng Quái Lực đã được kích hoạt. Trong vòng 3 phút, thể lực tăng 30%, nhưng sau khi hết thời gian duy trì, sức mạnh cơ bắp sẽ giảm 50% trong vòng 10 phút.]
+[Kỹ năng Quái Lực đã được kích hoạt. Trong vòng 3 phút, năng lực thể chất tăng 30%, nhưng sau khi hết thời gian duy trì, sức mạnh cơ bắp sẽ giảm 50% trong vòng 10 phút.]
 
 Anh nhẹ nhàng đạp chân xuống mặt đất. Anh vốn đã quá quen với việc kiểm tra sức bật nhảy của mình.
 
