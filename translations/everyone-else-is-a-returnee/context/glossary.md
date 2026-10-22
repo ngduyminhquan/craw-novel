@@ -41,7 +41,7 @@
 | Magic |  | Ma pháp | hệ thống | 5 | Chỉ số cơ bản |
 | Attack Power |  | Sức tấn công | hệ thống | 6 | Chỉ số tấn công của trang bị/nhân vật |
 | Durability | Durabiliity | Độ bền | hệ thống | 6 | Chỉ số độ bền của trang bị |
-| Rank |  | Phẩm cấp | hệ thống | 6 | Cấp bậc trang bị/kỹ năng |
+| Rank |  | Phẩm cấp / Hạng | hệ thống | 6 | Cấp bậc trang bị/kỹ năng |
 | Unique |  | Độc Nhất | hệ thống | 6 | Phẩm cấp trang bị/vật phẩm |
 | Jobless |  | Vô Nghề | chức nghiệp | 5 | Trạng thái chưa có chức nghiệp |
 | Active skill | Active Skills | Kỹ năng chủ động | hệ thống | 5 | Kỹ năng cần kích hoạt |
@@ -56,7 +56,7 @@
 | Lanpas |  | Lanpas | địa danh | 7 | Thế giới khác nơi Empress vang danh 10 năm |
 | Sungkyunkwan University | Sungkyunkwan university; Sung U | Đại học Sungkyunkwan | địa danh | 7 | Trường đại học nơi Yu IlHan theo học |
 | Thunder Sword |  | Lôi Kiếm | vật phẩm | 7 | Vũ khí của binh sĩ trở về từ Guundia |
-| Close Quarters Combat |  | Cận Chiến | kỹ năng | 8 | Kỹ năng cận chiến thức tỉnh ở Lv Max |
+| Close Quarters Combat | Close Combat | Cận Chiến | kỹ năng | 8 | Kỹ năng cận chiến thức tỉnh ở Lv Max |
 | Business Hall |  | Tòa Kinh Doanh | địa danh | 8 | Tòa nhà khoa Kinh doanh ĐH Sungkyunkwan |
 | Finance Hall |  | Tòa Tài Chính | địa danh | 8 | Tòa nhà khoa Tài chính ĐH Sungkyunkwan |
 | Big Mantis |  | Bọ Ngựa Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 13 |
@@ -143,3 +143,9 @@
 | Retona |  | Retona | vật phẩm | 22 | Dòng xe quân sự dã chiến của Lục quân Hàn Quốc (Kia Retona / K-131) |
 | MVP | MVPs | MVP | khác | 22 | Người chơi xuất sắc nhất (Most Valuable Player) |
 | AT Field |  | AT Field | khác | 22 | Trường Lực AT (thuật ngữ từ anime Evangelion ví von rào cản tâm lý ngăn cách với người khác) |
+| Resting | Resting skill; Resting Lv Max | Nghỉ Ngơi | kỹ năng | 23 | Kỹ năng bị động nâng cao hiệu quả nghỉ ngơi, thức tỉnh ở Lv Max độ khó SSS |
+| Rasengan |  | Rasengan | khác | 23 | Nhẫn thuật cầu xoắn ốc trong bộ manga Naruto |
+| Troll |  | Troll | quái vật | 23 | Chủng tộc quái vật có khả năng hồi phục mạnh mẽ |
+| Vast |  | Bao La | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
+| Heavenly |  | Thiên Giới | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
+| SSS | SSS rank | Hạng SSS / Cấp SSS | hệ thống | 23 | Cấp độ khó hoặc phẩm cấp tối thượng |

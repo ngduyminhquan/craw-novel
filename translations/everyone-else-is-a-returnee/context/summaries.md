@@ -132,3 +132,11 @@ Nhận lời giải phẫu nửa xác báo cho Empress để lấy 40% thù lao 
 Empress (Kang MiRae) điều xe tải chở đồ bám theo IlHan nhờ tập trung nhìn thấu Ẩn Thân, đưa danh thiếp ngỏ ý muốn lập tổ đội lâu dài cùng hoạt động trên Trái Đất, nhưng IlHan dựng rào cản tâm lý từ chối và về xưởng chế tác.
 Cảnh kết thúc: Mọi người đã rời đi để lại nửa xác con báo trơ trọi giữa cuộc tranh cãi chưa hồi kết của đám đông, và trong một khoảnh khắc, cái xác khổng lồ bỗng khẽ giật giật mà không một ai hay biết.
 
+## 23
+Yu IlHan trở về xưởng miệt mài rèn thêm Bẫy Hủy Diệt; Erta lo ngại việc kích hoạt bẫy có thể trở thành ngòi nổ kích thích quái vật cuồng bạo và đẩy nhanh tiến hóa lên chuyển chức lần 3.
+Nhóm thiên thần hồi phục mana trở lại tiếp sức giúp IlHan hoàn thành Bẫy Hủy Diệt sở hữu hai dòng thuộc tính 'Bao La' 'Thiên Giới', đồng thời nâng cấp Chế Tác Mana lên cấp 11; về nhà tắm rửa, IlHan nhận ra cơ thể mình đã cao lớn và vạm vỡ hơn do quá trình lên cấp và chuyển chức.
+Sau một đêm ngủ say, IlHan thức tỉnh kỹ năng bị động Nghỉ Ngơi ở Lv Max (độ khó lĩnh ngộ xếp Hạng SSS) nhờ thói quen nghiên cứu cách ngủ ngon suốt hàng trăm năm cô độc.
+Erta giải thích khái niệm tiến hóa kỹ năng của Hồ Sơ Akashic; các kỹ năng Cận Chiến, Thương Thuật, Ẩn Thân và Nghỉ Ngơi đều đủ điều kiện tiến hóa nhưng yêu cầu của Nghỉ Ngơi lại vô cùng quái dị (500 tim quái vật chuyển chức lần 2 đang ngủ, 500 lít máu Troll, 100 giờ ngủ ngon và 1 ma thạch quái vật chuyển chức lần 3).
+Cảnh kết thúc: Yu IlHan nhìn danh sách nguyên liệu tiến hóa của kỹ năng Nghỉ Ngơi hiển thị trên bảng chỉ số, thầm than thở đây là nhiệm vụ bất khả thi ngay cả khi huy động toàn bộ 7,4 tỷ cư dân Trái Đất.
+
+

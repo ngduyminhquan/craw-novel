@@ -27,7 +27,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | reviewed |  |
 | 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | reviewed |  |
 | 22 |  | Chapter_022 - You Want to Hunt With Me!_ (3).txt | You Want to Hunt With Me!_ (3) | done |  |
-| 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | todo |  |
+| 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | done |  |
 | 24 |  | Chapter_024 - You Want to Hunt With Me!_ (5).txt | You Want to Hunt With Me!_ (5) | todo |  |
 | 25 |  | Chapter_025 - You Want to Hunt with Me!_ (6).txt | You Want to Hunt with Me!_ (6) | todo |  |
 | 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | todo |  |
@@ -447,3 +447,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#21 đoạn 43, 46, 47] Định dạng ngoặc đơn nhấn mạnh → Chấp nhận đổi sang ngoặc đơn 'loài thú', 'thứ đó', 'chúng' (orchestrator)
 - [Context] rules.md: cụm từ `strong friends` dịch thoát ý thành `những anh bạn quân đội mạnh mẽ` hoặc `quân đội` (orchestrator)
 - [Context] glossary.md: bổ sung Knuckles (khác, chương 21); bác bổ sung `strong friends` vào glossary (orchestrator)
+- [#23] Kỹ năng "Resting" (Resting Lv Max / Resting skill) — Tạm chọn: "Nghỉ Ngơi" (Kỹ Năng Nghỉ Ngơi). Phương án khác: "Nghỉ Dưỡng", "Thư Giãn". Tạm dùng trong bản dịch: "Nghỉ Ngơi".
+- [#23 đoạn 58] Lời thoại `"...I feel like my body has become bigger?"` đi liền với câu sau `At Erta's words...` — Bản dịch EN dùng đại từ "my body" nhưng ngữ cảnh là lời Erta nhận xét cơ thể IlHan khi anh đang tắm. Tạm chọn dịch thoát ý theo người nói: "...Hình như cơ thể cậu to ra thì phải?"
+- [#23 đoạn 41] Dòng thuộc tính tạo tác 'vast' và 'heavenly' — Tạm chọn: 'Bao La' và 'Thiên Giới'. Phương án khác: 'Rộng Lớn' / 'Bát Ngát', 'Thần Thánh'. Tạm dùng trong bản dịch: 'Bao La' và 'Thiên Giới'.
