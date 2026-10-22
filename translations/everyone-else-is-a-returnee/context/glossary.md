@@ -306,3 +306,14 @@
 | Magic Empire |  | Đế quốc Ma Pháp | khác | 55 | Quốc gia ma pháp hùng mạnh trong truyền thuyết |
 | Gangwon-do | Gangwon | Gangwon-do | địa danh | 55 | Tỉnh Gangwon ở Hàn Quốc nơi có hầm ngục biến dị tích tụ sức mạnh sấm sét |
 | Higher angel | higher angels | Thiên thần cấp cao | chủng tộc | 55 | Thiên thần bậc cao trên Thiên giới |
+| blood drink | bloodrink | thức uống máu | vật phẩm | 53 | Nước uống hồi phục làm từ máu tinh luyện của troll qua kỹ năng Nấu Nướng |
+| Big Lightning Rat |  | Chuột Sấm Sét Khổng Lồ | quái vật | 56 | Quái vật chuột hệ sấm sét biến dị cấp trên 70 tại hầm ngục Gangwon-do |
+| Lightning Bear |  | Gấu Sấm Sét | quái vật | 56 | Quái vật gấu hệ sấm sét cấp trên 80 tại hầm ngục Gangwon-do |
+| Lightning Bird |  | Chim Sấm Sét | quái vật | 56 | Quái vật chim khổng lồ hệ sấm sét cấp trên 80 tại hầm ngục Gangwon-do |
+| Pidgeotto |  | Pidgeotto | khác | 56 | Được phép giữ nguyên: Loài chim trong Pokemon (tham chiếu văn hóa đại chúng) |
+| Pidgeot |  | Pidgeot | khác | 56 | Được phép giữ nguyên: Dạng tiến hóa của Pidgeotto trong Pokemon (tham chiếu văn hóa đại chúng) |
+| Mega Pidgeot | M*g* P*dg**t | Mega Pidgeot | khác | 56 | Được phép giữ nguyên: Dạng tiến hóa Mega của Pidgeot trong Pokemon (tham chiếu văn hóa đại chúng) |
+| Pikachu |  | Pikachu | khác | 56 | Được phép giữ nguyên: Loài chuột điện trong Pokemon (tham chiếu văn hóa đại chúng) |
+| Raichu |  | Raichu | khác | 56 | Được phép giữ nguyên: Dạng tiến hóa của Pikachu trong Pokemon (tham chiếu văn hóa đại chúng) |
+| rest energy |  | năng lượng nghỉ ngơi | hệ thống | 56 | Năng lượng tích lũy khi nghỉ ngơi dùng để kích hoạt kỹ năng Siêu Việt Tái Sinh |
+| demon race | demons | Ma tộc | chủng tộc | 56 | Chủng tộc ma quỷ, thực thể cấp cao của Kẻ Phá Vỡ |

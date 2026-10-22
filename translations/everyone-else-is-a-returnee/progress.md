@@ -60,7 +60,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | reviewed |  |
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | reviewed |  |
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | done |  |
-| 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | todo |  |
+| 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | done |  |
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | todo |  |
 | 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | todo |  |
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | todo |  |
@@ -368,7 +368,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 ## Cần user xác nhận
 
-
+- [#56] Tên các loài Pokemon (Pidgeotto, Pidgeot, Mega Pidgeot, Pikachu, Raichu) — Tạm chọn: giữ nguyên theo chuẩn văn hóa đại chúng (giống Pokemon đã chốt). Phương án khác: Việt hóa/phiên âm. Tạm dùng trong bản dịch: Giữ nguyên.
+- [#56] Thuật ngữ cơ chế rest energy — Tạm chọn: 'năng lượng nghỉ ngơi' (khớp với kỹ năng Nghỉ Ngơi). Phương án khác: 'năng lượng hồi phục'. Tạm dùng trong bản dịch: 'năng lượng nghỉ ngơi'.
+- [#56] Chủng tộc demon race (thực thể cấp cao của Kẻ Phá Vỡ) — Tạm chọn: 'Ma tộc'. Phương án khác: 'Ác ma tộc', 'Chủng tộc ma quỷ'. Tạm dùng trong bản dịch: 'Ma tộc'.
 
 ## Đã quyết
 
@@ -557,3 +559,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#52-54] Xưng hô Lita trêu IlHan ở Ch.54 đoạn 49? → Chấp nhận sửa thành IlHan của tôi và Chị đây. (orchestrator)
 - [#52-54] Đồng bộ ngoặc thoại điện thoại ở Ch.54 đoạn 101? → Bác, giữ nguyên ngoặc kép vì raw dùng ngoặc nhọn, tránh làm lệch kiểm tra ngoặc vuông của QA. (orchestrator)
 - [#55] Số tiền ở đoạn 67 (15 tỷ won hay 17 tỷ won)? → Giữ nguyên 15 tỷ won theo đúng nguyên tác raw, không tự ý sửa số liệu của tác giả. (orchestrator)
+- [#56] Tên các loài Pokemon (Pidgeotto, Pidgeot, Mega Pidgeot, Pikachu, Raichu)? → Giữ nguyên tên gốc tiếng Anh giống như Pokemon đã chốt ở #34. (orchestrator)
+- [#56] Dịch thuật ngữ cơ chế rest energy? → Chốt năng lượng nghỉ ngơi (khớp với kỹ năng Nghỉ Ngơi). (orchestrator)
+- [#56] Dịch chủng tộc demon race (thực thể cấp cao của Kẻ Phá Vỡ)? → Chốt Ma tộc. (orchestrator)
