@@ -32,9 +32,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 25 |  | Chapter_025 - You Want to Hunt with Me!_ (6).txt | You Want to Hunt with Me!_ (6) | reviewed |  |
 | 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | reviewed |  |
 | 27 |  | Chapter_027 - Call me Ishmael (2).txt | Call me Ishmael (2) | reviewed |  |
-| 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | done |  |
-| 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | done |  |
-| 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | done |  |
+| 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | reviewed |  |
+| 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | reviewed |  |
+| 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | reviewed |  |
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | todo |  |
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | todo |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | todo |  |
@@ -455,7 +455,11 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#26] Kỹ năng ma pháp "Twin Lightning" của Empress — Tạm chọn: "Song Lôi". Phương án khác: "Song Trùng Lôi", "Lôi Điện Kép". Tạm dùng trong bản dịch: "Song Lôi". → Chốt 'Song Lôi' (orchestrator)
 - [#26] Nhân vật và tác phẩm văn học "Ishmael" / "Moby Dick" trong trò đùa của Yu IlHan — Tạm chọn: giữ nguyên "Ishmael" và "Moby Dick" theo nguyên tác Herman Melville; câu thoại "Call me Ishmael" dịch thành "Cứ gọi tôi là Ishmael". Tạm dùng trong bản dịch: "Cứ gọi tôi là Ishmael" / "Moby Dick". → Chốt giữ nguyên 'Ishmael' và 'Moby Dick' ('Cứ gọi tôi là Ishmael') (orchestrator)
 - [#26] Thuật ngữ "subclass" (chức nghiệp thứ hai/phân nhánh chức nghiệp) — Tạm chọn: "chức nghiệp phụ". Phương án khác: "phân nhánh chức nghiệp". Tạm dùng trong bản dịch: "chức nghiệp phụ". → Chốt 'chức nghiệp phụ' (nhất quán với chương 13) (orchestrator)
-- [#28] Tên quái vật "Shadow Leopard" (Lv 102) — Tạm chọn: "Báo Bóng Tối". Phương án khác: "Báo Bóng Đêm", "Hắc Ảnh Báo". Tạm dùng trong bản dịch: "Báo Bóng Tối".
+- [#28] Tên quái vật "Shadow Leopard" (Lv 102) — Tạm chọn: "Báo Bóng Tối". Phương án khác: "Báo Bóng Đêm", "Hắc Ảnh Báo". Tạm dùng trong bản dịch: "Báo Bóng Tối". → Chốt 'Báo Bóng Tối' (orchestrator)
+- [#29 đoạn 33, 45] Thuật ngữ "Potion" → Chốt sửa "độc dược" thành "thuốc hồi phục" (không thêm vào glossary.md) (orchestrator)
+- [#30 đoạn 103] Diễn đạt "expression started becoming rotten" → Chốt sửa thành "sắc mặt của Yu IlHan lập tức xị xuống" (orchestrator)
+- [#28, characters.md] Tên nhân vật Empress / Kang MiRae → Chốt tách Kang MiRae thành dòng riêng trong bảng characters.md (orchestrator)
+- [#30 đoạn 15, 169] Viết hoa tên kỹ năng → Chốt viết hoa "Chế Tác Mana" (orchestrator)
 - [#29] Tên vũ khí và dòng thuộc tính "Lightspeed Pile Bunker" — Tạm chọn: "Pile Bunker Quang Tốc" (tiền tố thuộc tính `Lightspeed` dịch Hán Việt là `Quang Tốc`, loại vũ khí cận chiến kinh điển `pile bunker` giữ nguyên thuật ngữ quen thuộc trong cộng đồng game/mecha). Phương án khác: "Cọc Xuyên Phá Quang Tốc", "Súng Bắn Cọc Quang Tốc". Tạm dùng trong bản dịch: "Pile Bunker Quang Tốc". → Chốt Pile Bunker Quang Tốc (Lightspeed = Quang Tốc, Pile Bunker giữ nguyên) (orchestrator)
 - [#29] Tên vật phẩm tự chế "Giant's Rubber Band" — Tạm chọn: "Dây Thun Khổng Lồ" (hợp văn phong hài hước, tự giễu và đặt tên nôm na của IlHan). Phương án khác: "Dây Thun Người Khổng Lồ", "Dây Thun Của Người Khổng Lồ". Tạm dùng trong bản dịch: "Dây Thun Khổng Lồ". → Chốt Dây Thun Khổng Lồ (orchestrator)
 - [#29] Kỹ năng "Extreme Poison Resistance" — Tạm chọn: "Kháng Độc Cực Hạn" (phù hợp chuỗi tiến cấp: Kháng Độc Yếu → Kháng Độc → Kháng Độc Cực Hạn). Phương án khác: "Kháng Độc Siêu Cấp", "Kháng Độc Tuyệt Đối". Tạm dùng trong bản dịch: "Kháng Độc Cực Hạn". → Chốt Kháng Độc Cực Hạn (cùng Poison Resistance = Kháng Độc) (orchestrator)

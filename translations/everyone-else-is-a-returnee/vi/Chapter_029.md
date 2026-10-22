@@ -30,7 +30,7 @@ Erta, người vừa khiến Yu IlHan phát cáu bằng một câu đùa, liền
 
 [Nồng độ mana trên Trái Đất đang tăng lên nhanh chóng nên cậu không cần phải lo lắng đâu. Cậu sẽ có thể chạm trán Troll nhanh hơn cậu nghĩ nhiều đấy.]
 
-"Nhưng cô biết đấy? Đọc tiểu thuyết kỳ ảo thì máu Troll chẳng phải rất phổ biến sao? Chẳng phải chúng đắt hơn cả vàng ròng và là nguyên liệu tiêu biểu trong việc luyện độc dược hay sao? Yêu cầu tiến hóa kỹ năng Nghỉ Ngơi cần máu Troll chẳng phải vì nó có đặc tính chữa lành vết thương à?"
+"Nhưng cô biết đấy? Đọc tiểu thuyết kỳ ảo thì máu Troll chẳng phải rất phổ biến sao? Chẳng phải chúng đắt hơn cả vàng ròng và là nguyên liệu tiêu biểu trong việc điều chế thuốc hồi phục hay sao? Yêu cầu tiến hóa kỹ năng Nghỉ Ngơi cần máu Troll chẳng phải vì nó có đặc tính chữa lành vết thương à?"
 
 [Đúng vậy, dĩ nhiên rồi.]
 
@@ -42,7 +42,7 @@ Erta hào hứng đáp lời với vẻ vô cùng tán đồng.
 
 Tại sao cái kháng cự đó cứ mỗi lần lại tăng thêm một bậc thế chứ! Kháng Độc Yếu, Kháng Độc, rồi Kháng Độc Cực Hạn — anh không tài nào tưởng tượng nổi loại kháng cự nào sẽ xuất hiện tiếp theo nữa.
 
-[Đừng có tin vào mấy cuốn tiểu thuyết kỳ ảo quá. Kẻ điên nào lại đi uống máu quái vật tươi sống chứ? Không phải là ở thế giới khác không có độc dược, nhưng nguyên liệu chế tạo độc dược chẳng liên quan gì đến Troll cả.]
+[Đừng có tin vào mấy cuốn tiểu thuyết kỳ ảo quá. Kẻ điên nào lại đi uống máu quái vật tươi sống chứ? Không phải là ở thế giới khác không có thuốc hồi phục, nhưng nguyên liệu chế tạo thuốc hồi phục chẳng liên quan gì đến Troll cả.]
 
 "Ừ, sao cũng được."
 
@@ -140,9 +140,9 @@ Nó chẳng khác nào một nguồn động lực cực hạn sản sinh ra s�
 
 "Chỉ có một thứ thôi."
 
-Đó chính là pile bunker. Dù nguyên lý cơ bản tương tự như súng, nhưng đây là một loại vũ khí cồng kềnh đầy uy lực chuyên dùng để hủy diệt kẻ địch bằng cách đóng những chiếc cọc kim loại thay vì bắn đạn, phóng ra nhờ sức mạnh của thuốc súng ở cự ly siêu gần.
+Đó chính là Pile Bunker. Dù nguyên lý cơ bản tương tự như súng, nhưng đây là một loại vũ khí cồng kềnh đầy uy lực chuyên dùng để hủy diệt kẻ địch bằng cách đóng những chiếc cọc kim loại thay vì bắn đạn, phóng ra nhờ sức mạnh của thuốc súng ở cự ly siêu gần.
 
-Yu IlHan đang tính chế tạo một chiếc pile bunker bằng lực đàn hồi của Dây Thun Khổng Lồ thay vì dùng thuốc súng.
+Yu IlHan đang tính chế tạo một chiếc Pile Bunker bằng lực đàn hồi của Dây Thun Khổng Lồ thay vì dùng thuốc súng.
 
 [Nghĩ ra được thứ như thế thì chính cậu mới là kẻ kỳ quặc đấy!]
 
@@ -164,7 +164,7 @@ Yu IlHan chế tạo nó sao cho vừa vặn với việc sử dụng của mìn
 
 [Ý nghĩ cậu đang làm một chuyện thật ngớ ngẩn dường như chẳng chịu rời khỏi đầu tôi.]
 
-Đạn của pile bunker cũng quan trọng chẳng kém gì thân của nó! Anh chế tạo phần này bằng răng nanh thay vì xương của báo đen. Vì kích thước cơ thể nó khổng lồ nên răng nanh cũng đủ dài và dày, lại còn sắc bén và cứng hơn xương rất nhiều.
+Đạn của Pile Bunker cũng quan trọng chẳng kém gì thân của nó! Anh chế tạo phần này bằng răng nanh thay vì xương của báo đen. Vì kích thước cơ thể nó khổng lồ nên răng nanh cũng đủ dài và dày, lại còn sắc bén và cứng hơn xương rất nhiều.
 
 Sau khi chế tạo tổng cộng 7 mũi đạn cọc, Yu IlHan lại rơi vào trầm ngâm.
 
@@ -176,7 +176,7 @@ Sau khi chế tạo tổng cộng 7 mũi đạn cọc, Yu IlHan lại rơi vào 
 
 [Cậu cứ làm những gì mình muốn đi nếu cậu tự tin sẽ chạm trán một con quái vật chuyển chức lần 3 khác trước khi lũ Troll xuất hiện.]
 
-Lời thuyết phục của Erta quá đỗi đanh thép. Cuối cùng, Yu IlHan đành phải từ bỏ ý định Chế Tác Mana. Trong khi hạ quyết tâm sẽ cường hóa nó sau khi kiếm được một viên ma thạch xứng tầm với chiếc pile bunker này...
+Lời thuyết phục của Erta quá đỗi đanh thép. Cuối cùng, Yu IlHan đành phải từ bỏ ý định Chế Tác Mana. Trong khi hạ quyết tâm sẽ cường hóa nó sau khi kiếm được một viên ma thạch xứng tầm với chiếc Pile Bunker này...
 
 Anh đã làm xong thân nòng và đạn cọc. Thứ duy nhất còn lại là nạp đạn vào vũ khí.
 
@@ -218,7 +218,7 @@ Cấp 3: 2.900]
 
 [Một món vũ khí do thợ rèn bậc thầy đỉnh phong chế tạo bằng xương, răng và gân của Báo Bóng Tối. Dẫu việc tạo ra sức mạnh phi thường như thế mà không cần đến ma pháp hay thuốc súng là điều thực sự đáng khen ngợi, nhưng sự thật rằng nó rất khó sử dụng và cồng kềnh khi mang vác rõ ràng là một nhược điểm lớn.]
 
-Chiếc pile bunker, vốn sở hữu dòng thuộc tính alpha ngay cả khi không qua Chế Tác Mana, đã mang một dòng thuộc tính kỳ diệu. Đó chính là việc giảm thời gian nạp đạn và tấn công! Yu IlHan suýt nữa bật khóc vì xúc động trước một dòng thuộc tính xuất sắc đến nhường này.
+Chiếc Pile Bunker, vốn sở hữu dòng thuộc tính alpha ngay cả khi không qua Chế Tác Mana, đã mang một dòng thuộc tính kỳ diệu. Đó chính là việc giảm thời gian nạp đạn và tấn công! Yu IlHan suýt nữa bật khóc vì xúc động trước một dòng thuộc tính xuất sắc đến nhường này.
 
 Thế nhưng, Erta, người sở hữu tài năng xuất chúng trong việc bới móc mặt tiêu cực của mọi thứ, đã không ngần ngại chen ngang.
 

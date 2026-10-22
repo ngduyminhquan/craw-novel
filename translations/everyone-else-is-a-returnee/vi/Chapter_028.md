@@ -150,7 +150,7 @@ Sao cô lại đột ngột muốn hủy bỏ chuyện đó chứ? Dĩ nhiên an
 
 Thế nhưng, nỗi hoài nghi của anh nhanh chóng được giải tỏa. Kang MiRae đã giải thích rõ lý do của mình.
 
-"Anh Yu IlHan quá mạnh. Hay nói cách khác, khoảng cách trình độ năng lực giữa chúng ta quá đỗi chênh lệch. Như thế không chỉ không thể chiến đấu săn quái một cách hiệu quả, mà cứ đà này, lòng tự trọng của tôi sẽ không chịu nổi mất."
+"Anh Yu IlHan quá mạnh. Hay nói cách khác, khoảng cách trình độ năng lực giữa chúng ta quá đỗi chênh lệch. Như thế chẳng những không thể chiến đấu săn quái một cách hiệu quả, mà cứ đà này, lòng tự trọng của tôi sẽ không chịu nổi mất."
 
 Anh chẳng biết phải trả lời ra sao khi cô nói lòng tự trọng của mình không chịu nổi. Tỏ ra buồn bã thì anh không đồng cảm, mà vui mừng thì lại thấy có lỗi với cô. Thế nên, anh chỉ im lặng lắng nghe khi Kang MiRae cất lên một câu nói chẳng hề phù hợp với phong thái của mình.
 

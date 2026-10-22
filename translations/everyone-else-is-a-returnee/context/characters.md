@@ -9,7 +9,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
 | Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
-| Empress | Hulk; Hulk mask; Kang MiRae; Kang Mirae; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
+| Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
+| Kang MiRae | Kang Mirae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ thiếu úy quân đội Hàn Quốc phụ trách hiện trường quái vật | 9 |
 | God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh | 1 |
 | Do WooJun | WooJun | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |

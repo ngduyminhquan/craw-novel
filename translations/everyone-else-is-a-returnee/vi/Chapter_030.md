@@ -2,7 +2,7 @@
 
 Thời gian trôi qua thật nhanh.
 
-Dù rất nóng lòng muốn thử nghiệm ngay món pile bunker, nhưng anh vẫn còn vô số việc phải làm. Chưa kể đến việc chế tạo Bẫy Hủy Diệt, anh còn phải chuẩn bị nhiều thứ khác như trang bị phòng ngự bổ trợ hay vũ khí phụ trợ để có thể săn quái một cách an toàn.
+Dù rất nóng lòng muốn thử nghiệm ngay món Pile Bunker, nhưng anh vẫn còn vô số việc phải làm. Chưa kể đến việc chế tạo Bẫy Hủy Diệt, anh còn phải chuẩn bị nhiều thứ khác như trang bị phòng ngự bổ trợ hay vũ khí phụ trợ để có thể săn quái một cách an toàn.
 
 Rốt cuộc, anh đã cắm rễ trong xưởng chế tác suốt hơn một tháng ròng.
 
@@ -12,7 +12,7 @@ Rốt cuộc, anh đã cắm rễ trong xưởng chế tác suốt hơn một th
 
 Chẳng biết bao nhiêu thời gian đã trôi qua kể từ khi anh quen tay với việc chế tạo Bẫy Hủy Diệt.
 
-Yu IlHan nghiêng đầu bối rối trước quá trình chế tác mana kết thúc chỉ trong chớp mắt so với những lần đầu tiên.
+Yu IlHan nghiêng đầu bối rối trước quá trình Chế Tác Mana kết thúc chỉ trong chớp mắt so với những lần đầu tiên.
 
 [Lại có cả hai dòng thuộc tính nữa rồi.]
 
@@ -80,7 +80,7 @@ Rồi cô cất tiếng nói với Yu IlHan, người nãy giờ vẫn đứng y
 
 [Rõ ràng đã vượt qua được cảm xúc tầm thường mà lại ra nông nỗi này... Cậu quả thực rất cừ đấy, Yu IlHan.]
 
-"Ủa? Sao tự dưng đốm lửa lại bắn sang tôi thế!?"
+"Ủa? Sao tự dưng lửa lại bén sang tôi thế!?"
 
 [Chẳng phải quá rõ ràng rồi sao. Vừa rồi, thiên thần đó đang ghen tị với cậu đấy.]
 
@@ -100,7 +100,7 @@ Hai mắt Yu IlHan sáng rực lên. Erta thầm nghĩ trông anh lúc này cũn
 
 [Thứ nhất là tin tức.]
 
-Ngay khoảnh khắc nghe thấy điều đó, sắc mặt của Yu IlHan lập tức trở nên thối rữa.
+Ngay khoảnh khắc nghe thấy điều đó, sắc mặt của Yu IlHan lập tức xị xuống.
 
 "Ngoài vật phẩm ra tôi không nhận bất cứ thứ gì khác đâu nhé."
 
@@ -124,7 +124,7 @@ Trong lúc Yu IlHan đang hào hứng, Erta lấy ra một vật phẩm từ tú
 
 "...Cô muốn tôi đeo cái này đi lòng vòng sao? Để làm dáng thời trang à?"
 
-[Nó là một vật phẩm có ma pháp mở rộng không gian. Cậu có thể nhét khoảng 1.000 cây pile bunker đằng kia vào trong đó đấy.]
+[Nó là một vật phẩm có ma pháp mở rộng không gian. Cậu có thể nhét khoảng 1.000 cây Pile Bunker đằng kia vào trong đó đấy.]
 
 Chiếc túi đeo chéo quả thực rất nhỏ. Trông nó chẳng có vẻ gì là nhét vừa một quả dưa lưới dù anh có kéo giãn nó ra cỡ nào, nên Yu IlHan thận trọng hỏi lại.
 
@@ -136,7 +136,7 @@ Anh thử luôn.
 
 Vào ngon ơ.
 
-Nhân tiện, anh cũng thử nhét luôn bộ lao thợ săn báo vào.
+Nhân tiện, anh cũng thử nhét luôn bộ Lao Thợ Săn Báo vào.
 
 Cũng vào nốt.
 
@@ -166,7 +166,7 @@ Khoảnh khắc vừa nghĩ đến điều đó, một tia chớp liền lóe l�
 
 Giờ đây khi đã có được một chiếc túi để tha hồ chứa quặng mà không phải lo nghĩ, chẳng còn lý do gì để chần chừ nữa. Yu IlHan cứ thế sải bước rời khỏi xưởng chế tác.
 
-Dĩ nhiên, anh không quên mang theo chiếc Bẫy Hủy Diệt mình vừa chế tạo xong. Làm vậy là để nếu các thiên thần hồi phục xong xuôi và tìm đến, anh vẫn có thể tiến hành chế tác mana ngay cả khi không có mặt tại xưởng.
+Dĩ nhiên, anh không quên mang theo chiếc Bẫy Hủy Diệt mình vừa chế tạo xong. Làm vậy là để nếu các thiên thần hồi phục xong xuôi và tìm đến, anh vẫn có thể tiến hành Chế Tác Mana ngay cả khi không có mặt tại xưởng.
 
 Vì các hầm ngục vẫn chưa được kích hoạt hoàn toàn, thế giới vẫn giữ nguyên tình trạng như thế này. Lịch sử nhân loại dường như đã ngưng đọng kể từ sau Đại Tai Biến.
 
