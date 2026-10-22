@@ -211,6 +211,13 @@ IlHan hoàn thành Nhiệm Vụ Thiên Giới 002: toàn bộ chỉ số tăng 5
 Vì không có hộ chiếu, IlHan quyết định trốn vé máy bay sang Mỹ bằng kỹ năng Ẩn Thân, quá cảnh qua Los Angeles sau khi chào tạm biệt mẹ.
 Cảnh kết thúc: Vừa hạ cánh xuống sân bay Los Angeles, Yu IlHan chứng kiến cảnh tượng hỗn loạn khi một đội quân quái vật đang tàn phá thành phố, báo hiệu 'Hiện Tượng Tràn' đầu tiên trên Trái Đất bùng nổ.
 
+## 35
+Erta giải thích về đặc trưng của Hiện Tượng Tràn (quái vật biến dị, biến đổi môi trường thực tế thành hầm ngục, nguy cơ lây lan nếu không diệt sạch); Yu IlHan bực bội vì thế giới như game rác và yêu cầu Erta phát nhiệm vụ thiên giới nhiều phần thưởng để anh trút giận.
+Yu IlHan xuất trận với bộ trang bị mới, rút ngọn 'Hắc Thương Tử Thần' (Phẩm cấp Độc Nhất, Sức tấn công 2.400, tăng 30% chí mạng khi đánh úp) kết hợp cùng Đại Khải Đen nhất kích tất sát con Thằn Lằn Lửa Lv 62 (quái biến dị chuyển chức lần 2), khiến đám đông và các dị năng giả tại sân bay Los Angeles kinh ngạc.
+Anh thử nghiệm phòng thủ của bộ giáp bằng cách đứng yên đỡ trọn đòn phun lửa của quái vật mà không hề hấn gì, sau đó từ chối ma pháp bảo vệ của một nam pháp sư để lao vào chiến trường giải cứu một nữ kiếm sĩ và tiêu diệt thêm Thằn Lằn Lửa.
+Cảnh kết thúc: Bị Erta cà khịa vì tiếng thét "Cứ nhào hết vào đây!" chẳng thu hút được sự chú ý của quái vật do thiếu mana, Yu IlHan quyết tâm đòi hỏi một kỹ năng tiếng thét xung trận và bắt đầu dịch vụ "giao hàng tử thần" càn quét chiến trường.
+
+
 
 
 

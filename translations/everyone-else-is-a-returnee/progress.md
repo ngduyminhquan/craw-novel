@@ -39,7 +39,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | reviewed |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | reviewed |  |
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | done |  |
-| 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | todo |  |
+| 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | done |  |
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | todo |  |
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | todo |  |
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | todo |  |
@@ -369,7 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -482,3 +481,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#34] Phẩm cấp mới Legend → Chốt Truyền Thuyết (xếp trên Độc Nhất). (orchestrator)
 - [#34] Tên dòng thuộc tính thứ ba (gamma option) → Chốt Dòng thuộc tính gamma (tiếp nối alpha và beta). (orchestrator)
 - [#34] Xử lý các lỗi chính tả trong raw EN (P55 weak poison resistance -> poison resistance, P107 thiếu động từ hide, P109 fell -> feel) → Dịch chuẩn theo mạch nghĩa thực tế: Kháng Độc ở P55, che giấu thân phận ở P107, và cảm giác của tôi ở P109. (orchestrator)
+- [#35] Tên vũ khí mới "Deathgod's black spear" — Tạm chọn: "Hắc Thương Tử Thần" (ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm, dịch súc tích theo Hán Việt: Hắc = đen, Thương = ngọn thương, Tử Thần = Deathgod). Phương án khác: "Ngọn Thương Đen Của Tử Thần", "Hắc Tử Thần Thương". Tạm dùng trong bản dịch: "Hắc Thương Tử Thần". → Chốt Hắc Thương Tử Thần cho Deathgod's black spear. (orchestrator)
+- [#35] Tên quái vật biến dị "Flame Lizard" / "Flame Lizards" — Tạm chọn: "Thằn Lằn Lửa" (quái vật chuyển chức lần 2 biến dị phun lửa). Phương án khác: "Hỏa Thằn Lằn", "Liệt Hỏa Thằn Lằn". Tạm dùng trong bản dịch: "Thằn Lằn Lửa". → Chốt Thằn Lằn Lửa cho Flame Lizard. (orchestrator)
+- [#35] Danh xưng / khái niệm "Deathgod" — Tạm chọn: "Tử Thần". Phương án khác: "Thần Chết". Tạm dùng trong bản dịch: "Tử Thần". → Chốt Tử Thần cho Deathgod. (orchestrator)

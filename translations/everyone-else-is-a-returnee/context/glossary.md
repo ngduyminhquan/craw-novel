@@ -205,3 +205,7 @@
 | Pokemon | P*k*m*n | Pokemon | khác | 34 | Được phép giữ nguyên: Thương hiệu trò chơi/anime nổi tiếng của Nhật Bản (tham chiếu văn hóa đại chúng) |
 | Record of Extreme Poison Resistance Skill |  | Ghi Chép Kỹ Năng Kháng Độc Cực Hạn | vật phẩm | 34 | Sách ghi chép chứa kỹ năng Kháng Độc Cực Hạn do thiên giới trao thưởng |
 | Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo' / Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 34 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
+| Heaven |  | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần |
+| Deathgod |  | Tử Thần | khác | 35 | Khái niệm/hình tượng thần chết tước đoạt sinh mệnh từ bóng tối |
+| Deathgod's black spear |  | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
+| Flame Lizard | Flame Lizards | Thằn Lằn Lửa | quái vật | 35 | Quái vật biến dị chuyển chức lần 2 xuất hiện trong Hiện Tượng Tràn tại Los Angeles |
