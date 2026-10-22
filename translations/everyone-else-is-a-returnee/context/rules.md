@@ -30,4 +30,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 
 ## Riêng truyện này
 
-<!-- Các lưu ý phát sinh khi dịch. Mỗi dòng: - (#chương) nội dung -->
+- (#1) Các dòng quy ước ký hiệu ở đầu raw ('Thinking', "Speaking", [Higher existence's speaking...]) là ghi chú format của bản dịch EN, bỏ qua không dịch.

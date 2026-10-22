@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan | Yu IlHan | Nhân vật chính, kẻ bị bỏ lại Trái Đất 1000 năm | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han | Yu IlHan | Nhân vật chính, kẻ bị bỏ lại Trái Đất 1000 năm | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
