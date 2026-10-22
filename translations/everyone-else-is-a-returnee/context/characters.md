@@ -24,6 +24,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 8: Đạt cấp 7 sau trận chiến quét sạch bầy côn trùng tại ĐH Sungkyunkwan; thức tỉnh các kỹ năng ở Lv Max gồm Cận Chiến, Thương Thuật, Giải Phẫu; đeo mặt nạ Người Sắt để che giấu danh tính; lần đầu chạm trán và nói chuyện với Empress.
 - Trạng thái tính đến chương 9: Học được kỹ năng Chế Tác Mana (thăng lên Lv 2); tự tay chế tạo giáp bảo hộ cổ tay và đầu gối từ vỏ giáp quái vật và ma thạch, trong đó tích hợp lưỡi hái ẩn của Bọ Ngựa Khổng Lồ vào giáp cổ tay trái.
 - Trạng thái tính đến chương 10: Biết được sự thật Trái Đất đã trôi qua 1000 năm (thay vì 150 năm như anh tưởng) và quái vật trên Trái Đất có trí thông minh và sức mạnh dị thường; đồng ý nhận lời Erta làm tiên phong săn quái cấp cao (đối đầu đàn 70 quái do Sói Bạo Tàn cấp 35 cầm đầu) để nhận phần thưởng từ thiên giới.
+- Trạng thái tính đến chương 11: Đạt cấp độ 9 (chạm trần cấp độ trước khi nhận chức nghiệp lần 1); một mình tiêu diệt trọn vẹn bầy quái vật sói và chó hoang biến dị (hạ gục Sói Bạo Tàn Nâu Lv 35 và Sói Lớn Xảo Quyệt Lv 32); biệt danh Sungdaein Bolt lan truyền khắp nơi và bị thiếu úy Han YeoRang nhận diện trực tiếp.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

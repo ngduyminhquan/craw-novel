@@ -74,3 +74,8 @@
 | Executor |  | Kẻ Hành Quyết | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái |
 | Racial correction |  | Hiệu chỉnh chủng tộc | hệ thống | 10 | Hiện tượng ngoại hình trở nên đẹp hơn khi cấp độ tăng cao |
 | Overbalanced |  | Phá vỡ cân bằng | khác | 10 | Thuật ngữ giới nghiên cứu gọi các dị năng giả có sức mạnh áp đảo |
+| Brown Direwolf |  | Sói Bạo Tàn Nâu | quái vật | 11 | Quái vật sói biến dị cấp 35 |
+| Wandering Dog |  | Chó Lang Thang | quái vật | 11 | Quái vật chó biến dị cấp 18 |
+| Grey Wolf |  | Sói Xám | quái vật | 11 | Quái vật sói biến dị cấp 26 |
+| Cunning Big Wolf |  | Sói Lớn Xảo Quyệt | quái vật | 11 | Quái vật sói biến dị cấp 32 chỉ huy thứ hai |
+| Big Wolf |  | Sói Lớn | quái vật | 11 | Quái vật sói biến dị kích thước lớn |

@@ -15,7 +15,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | reviewed |  |
 | 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | reviewed |  |
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | done |  |
-| 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | todo |  |
+| 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | done |  |
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | todo |  |
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | todo |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | todo |  |
@@ -405,3 +405,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#10] Danh xưng "Executor" Erta gọi IlHan ("Oh, Executor!") — Tạm chọn: "Kẻ Hành Quyết". Phương án khác: "Người Hành Quyết", "Chấp Pháp Giả". Tạm dùng trong bản dịch: "Kẻ Hành Quyết". → Chốt 'Kẻ Hành Quyết' (orchestrator)
 - [#10] Hiện tượng "Racial correction" (cấp độ cao ngoại hình đẹp lên) — Tạm chọn: "hiệu chỉnh chủng tộc". Phương án khác: "điều chỉnh chủng tộc". Tạm dùng trong bản dịch: "hiệu chỉnh chủng tộc". → Chốt 'hiệu chỉnh chủng tộc' (orchestrator)
 - [#10] Khái niệm "Overbalanced" (giới nghiên cứu gọi dị năng giả áp đảo) — Tạm chọn: "phá vỡ cân bằng". Phương án khác: "vượt ngưỡng cân bằng". Tạm dùng trong bản dịch: "phá vỡ cân bằng". → Chốt 'phá vỡ cân bằng' (orchestrator)
+- [#11] Quái vật "Wandering Dog" (Lv 18) — Tạm chọn: "Chó Lang Thang". Phương án khác: "Chó Hoang Dã", "Khuyển Lang Thang". Tạm dùng trong bản dịch: "Chó Lang Thang". → Chốt 'Chó Lang Thang' (orchestrator)
+- [#11] Quái vật "Cunning Big Wolf" (Lv 32) — Tạm chọn: "Sói Lớn Xảo Quyệt". Phương án khác: "Đại Lang Xảo Quyệt", "Sói Già Xảo Quyệt". Tạm dùng trong bản dịch: "Sói Lớn Xảo Quyệt". → Chốt 'Sói Lớn Xảo Quyệt' (orchestrator)
+- [#11] Chi tiết "dog days" ở đoạn 107 (raw: "Wow, even on dog days I wouldn't be able to kill that much") — Tạm chọn: dịch thành "vào những ngày hè tam phục" (phù hợp văn hóa Hàn Quốc Boknal / những ngày ăn thịt chó giải nhiệt). Tạm dùng trong bản dịch: "ngay cả vào những ngày hè tam phục tôi cũng chẳng thể làm thịt được nhiều thế đâu". → Chấp nhận dịch 'vào những ngày hè tam phục' (theo văn hóa Boknal Hàn Quốc) (orchestrator)

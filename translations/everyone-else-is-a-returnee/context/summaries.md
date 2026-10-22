@@ -64,3 +64,9 @@ Erta phát hiện đàn quái vật gồm 70 con do một con Sói Bạo Tàn c�
 Nhận lời Erta làm tiên phong giải nguy cho Trái Đất trong lúc thiên giới chuẩn bị phương án ứng phó, IlHan tràn đầy nhiệt huyết hướng về mục tiêu dẫu biết trước đầy gian nan.
 Cảnh kết thúc: IlHan đeo lại mặt nạ Người Sắt, mở lớp vải bọc ngọn trường thương thép sáng loáng và cảm nhận sát khí ngút trời của đàn quái vật, sẵn sàng xung trận dưới lời giục giã của Erta: 'Hãy nhổ sạch nanh vuốt của chúng đi. Hỡi Kẻ Hành Quyết!'
 
+## 11
+Yu IlHan đánh phủ đầu hạ sát thủ lĩnh Sói Bạo Tàn Nâu cấp 35 ngay đòn đầu tiên nhờ ẩn thân bị động, thăng lên cấp 9 và nhận thông báo dồn kinh nghiệm chờ nhận chức nghiệp.
+Trước sự hỗn loạn của người dân và sự cổ vũ bất đắc dĩ cho danh hiệu "Sungdaein Bolt", IlHan một mình tả xung hữu đột tiêu diệt hàng loạt Chó Lang Thang và Sói Xám, phối hợp thương thuật cùng lưỡi hái ẩn trên cổ tay.
+Khi con Sói Lớn Xảo Quyệt cấp 32 bắt giữ một cô gái làm con tin hòng kiềm tỏa anh, IlHan không chút do dự phóng thẳng ngọn thương thép xuyên đầu nó rồi dùng võ thuật tay không quét sạch tàn dư bầy quái trước sự ngỡ ngàng của quân đội.
+Cảnh kết thúc: Giữa vòng vây của người dân và binh lính, nữ thiếu úy trung đội trưởng Han YeoRang bước tới hét lớn nhận diện anh là "Sungdaein Bolt", khiến IlHan nhận ra ngay thủ phạm đứng sau cái biệt danh đáng xấu hổ này.
+
