@@ -14,7 +14,7 @@ Thế nhưng anh cũng chẳng thể nói với người mẹ đang âu lo rằn
 
 'Mình hiểu cảm giác của mẹ, nhưng mà...'
 
-Và đó cũng chính là lý do anh phải hành động. Để trở nên mạnh nhất có thể trước khi những quái vật nguy hiểm xuất hiện, để có được các kỹ năng mạnh mẽ và làm quen với mana, ngõ hầu bảo vệ được cha mẹ và để bản thân có một cuộc sống an lành.
+Và đó cũng chính là lý do anh phải hành động. Để trở nên mạnh nhất có thể trước khi những quái vật nguy hiểm xuất hiện, để có được các kỹ năng mạnh mẽ và làm quen với mana, nhằm bảo vệ cha mẹ và để bản thân có một cuộc sống an lành.
 
 "Tôi muốn có một xưởng chế tác. Cũng muốn có một chiếc ô tô nữa."
 
@@ -196,7 +196,7 @@ Hơn nữa, anh thậm chí còn thấy phấn khích nếu đó là việc ti�
 
 Erta khịt mũi một cái. Cô đã nhìn thấy một phần năng lực của Yu IlHan. Hôm qua, cô đã chứng kiến khả năng chiến đấu áp đảo của anh trước hàng loạt quái vật, chứng kiến cảnh anh dùng phụ phẩm quái vật để tạo ra một tạo tác ma pháp đáng giá, và nhìn thấy cây trường thương bằng thép anh mang theo khi rời nhà hôm nay.
 
-Erta đang đánh giá sai về anh một cách có tính toán. Quái vật cấp 30 ư? Đừng có đùa. Anh không phải là kẻ sẽ phải chật vật với lũ quái vật ở cấp độ đó. Sức mạnh và kỹ thuật được tôi luyện để phá vỡ mọi giới hạn bên trong cơ thể anh chính là bằng chứng xác thực nhất!
+Erta không hề đánh giá sai về anh một chút nào. Quái vật cấp 30 ư? Đừng có đùa. Anh không phải là kẻ sẽ phải chật vật với lũ quái vật ở cấp độ đó. Sức mạnh và kỹ thuật được tôi luyện để phá vỡ mọi giới hạn bên trong cơ thể anh chính là bằng chứng xác thực nhất!
 
 [Lũ quái vật sẽ sớm xuất hiện thôi. Và chúng sẽ nhe nanh giương vuốt nuốt chửng loài người để vươn tới những cảnh giới cao hơn. Vậy nên trước khi điều đó xảy ra.]
 

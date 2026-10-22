@@ -108,7 +108,7 @@ Nghe thấy lời cảnh báo đanh thép của Erta, Yu IlHan bèn thốt lên 
 
 Bởi vì... chẳng phải đây là điềm báo quá sức lộ liễu rồi hay sao!?
 
-Là một kẻ cô độc được tôi luyện kỹ càng, Yu IlHan đã vô tình tiên đoán được thảm họa mà những lời nàng nói sẽ mang lại. Một ngày nào đó trong tương lai, con người vì tham vọng muốn mạnh lên nhanh chóng sẽ nuốt chửng ma thạch để rồi biến thành quái vật, và Yu IlHan sẽ phải chiến đấu chống lại bọn họ...
+Là một kẻ cô độc được tôi luyện kỹ càng, Yu IlHan đã vô tình tiên đoán được thảm họa mà những lời cô nói sẽ mang lại. Một ngày nào đó trong tương lai, con người vì tham vọng muốn mạnh lên nhanh chóng sẽ nuốt chửng ma thạch để rồi biến thành quái vật, và Yu IlHan sẽ phải chiến đấu chống lại bọn họ...
 
 Yu IlHan có thể dám chắc rằng chuyện này không chỉ xảy ra một lần mà sẽ tái diễn nhiều lần, bởi lẽ con người vốn ngu xuẩn và sẽ luôn lặp lại những sai lầm tương tự.
 
@@ -154,7 +154,7 @@ Yu IlHan rất muốn trả lại nguyên phần quà đính kèm kia, nhưng s�
 
 Mấy lời nhảm nhí mở đầu bằng những câu như thế đều bị Yu IlHan phớt lờ hoàn toàn, anh chỉ lặng lẽ kiểm tra số tiền.
 
-Tổng cộng là 370 triệu won. (322.561 USD)
+Tổng cộng là 370 triệu won.
 
 Đôi tay anh khẽ run rẩy. Dù đã trải qua một nghìn năm rèn luyện, anh làm sao có thể không run rẩy trước số tiền khổng lồ đang hiện ra trước mắt. Đó là bởi dù từng lái những con tàu lớn hay những chiếc siêu xe thể thao đắt đỏ, anh vẫn chưa từng cướp tiền từ các ngân hàng bao giờ.
 

@@ -14,9 +14,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | reviewed |  |
 | 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | reviewed |  |
 | 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | reviewed |  |
-| 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | done |  |
-| 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | done |  |
-| 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | done |  |
+| 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | reviewed |  |
+| 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | reviewed |  |
+| 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | reviewed |  |
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | todo |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | todo |  |
 | 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | todo |  |

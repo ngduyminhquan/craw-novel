@@ -79,4 +79,5 @@
 | Grey Wolf |  | Sói Xám | quái vật | 11 | Quái vật sói biến dị cấp 26 |
 | Cunning Big Wolf |  | Sói Lớn Xảo Quyệt | quái vật | 11 | Quái vật sói biến dị cấp 32 chỉ huy thứ hai |
 | Big Wolf |  | Sói Lớn | quái vật | 11 | Quái vật sói biến dị kích thước lớn |
+| Class |  | Chức nghiệp | hệ thống | 11 | Phân lớp nghề nghiệp trong Hồ Sơ Akashic, điều kiện mở khóa khi đạt cấp 10 |
 | Weak Poison Resistance | weak poison resistance | Kháng Độc Yếu | kỹ năng | 12 | Kỹ năng kháng độc cấp thấp |

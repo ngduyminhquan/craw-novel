@@ -14,7 +14,7 @@ Dù thời gian trôi qua có dài đằng đẵng đến đâu đi chăng nữa
 
 [Kuhoaaaang!]
 
-Nhờ kỹ năng ẩn thân bị động, con Sói Bạo Tàn khổng lồ hoàn toàn chẳng hay biết Yu IlHan đang áp sát, và ngọn trường thương bằng thép của anh đã đâm thẳng diện bạo vào mặt nó.
+Nhờ kỹ năng ẩn thân bị động, con Sói Bạo Tàn khổng lồ hoàn toàn chẳng hay biết Yu IlHan đang áp sát, và ngọn trường thương bằng thép của anh đã đâm thẳng trực diện vào mặt nó.
 
 Ngọn thương đâm chuẩn xác vào giữa hai mắt nó, xuyên thủng tất cả từ lớp lông nhọn như gai, tấm da cứng như đá, khối cơ bắp đan kết chằng chịt, thớ thịt siết chặt một cách kỳ lạ hòng cản dị vật, cho tới cả lớp xương phát triển cứng hơn cả thép, rồi nghiền nát não bộ bên trong.
 
