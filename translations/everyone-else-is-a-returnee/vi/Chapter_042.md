@@ -6,11 +6,11 @@ Trong khi đôi nam nữ vừa được cứu thoát còn đang trố mắt nhì
 
 "Kỹ năng giải phẫu thật đáng kinh ngạc."
 
-Người phụ nữ cuống quýt thảng thốt, còn người đàn ông thì trầm trồ thán phục trước kỹ năng của Yu IlHan.
+Cô gái cuống quýt thảng thốt, còn người đàn ông thì trầm trồ thán phục trước kỹ năng của Yu IlHan.
 
 Trong lúc đó, Yu IlHan vừa mổ xẻ vừa suy nghĩ. Làm thế nào để giao tiếp với mấy kẻ quảng giao đây.
 
-Đúng lúc đó, *ùng ục*, một tiếng bụng réo vang lên. Đó không phải bụng của Yu IlHan mà phát ra từ người phụ nữ kia.
+Đúng lúc đó, *ùng ục*, một tiếng bụng réo vang lên. Đó không phải bụng của Yu IlHan mà phát ra từ cô gái kia.
 
 "Xin lỗi nha, tự dưng em lại thèm ăn tôm hùm... trông ngon lành ghê."
 
@@ -144,7 +144,7 @@ Danh thiếp của Na YuNa cũng giống hệt của Kang HaJin. Nhìn Na YuNa b
 
 Chuyện Erta vừa thấy anh thảm hại nhưng đồng thời cũng cảm thấy anh có chút đáng yêu là một bí mật.
 
-Yu IlHan không bám theo họ ngay lập tức. Anh không biết khi nào kỹ năng ẩn thân mới kích hoạt trở lại, và trên hết, hiện tại không phải giao chiến với quái vật nên anh dự định sẽ hoàn thành công việc chế tác mana trước.
+Yu IlHan không bám theo họ ngay lập tức. Anh không biết khi nào kỹ năng Ẩn Thân mới kích hoạt trở lại, và trên hết, hiện tại không phải giao chiến với quái vật nên anh dự định sẽ hoàn thành công việc Chế Tác Mana trước.
 
 Chỉ sau khi bóng dáng của Na YuNa và Kang HaJin khuất hẳn nơi chân trời, anh mới ngồi xuống chuẩn bị làm việc. Dĩ nhiên, vì đây không phải rèn đúc nên những thứ duy nhất anh cần chỉ là cơ thể mình, nguyên liệu và viên ma thạch.
 
@@ -154,9 +154,9 @@ Chỉ sau khi bóng dáng của Na YuNa và Kang HaJin khuất hẳn nơi chân 
 
 "Viên ma thạch chuyển chức lần 3 ấy."
 
-Có ba thứ anh cần phải cường hóa: bộ giáp, súng bắn cọc và đạn cọc.
+Có ba thứ anh cần phải cường hóa: bộ giáp, Súng Bắn Cọc và đạn cọc.
 
-Dù không kiếm được viên ma thạch nào trong hầm ngục Thiết Tâm, nhưng nhờ Hiện Tượng Tràn ở LA đợt trước và số troll anh đã hạ gục trong hầm ngục này, lượng ma thạch chuyển chức lần 2 thực sự nhiều đến mức tràn trề. Anh thậm chí chẳng hề ngần ngại khi dùng nó để cường hóa một chiếc cọc đạn dùng một lần của súng bắn cọc.
+Dù không kiếm được viên ma thạch nào trong hầm ngục Thiết Tâm, nhưng nhờ Hiện Tượng Tràn ở LA đợt trước và số troll anh đã hạ gục trong hầm ngục này, lượng ma thạch chuyển chức lần 2 thực sự nhiều đến mức tràn trề. Anh thậm chí chẳng hề ngần ngại khi dùng nó để cường hóa một chiếc cọc đạn dùng một lần của Súng Bắn Cọc.
 
 Vấn đề nằm ở viên ma thạch chuyển chức lần 3 duy nhất mà anh sở hữu. Nên dùng nó cho món nào để người khác phải tấm tắc khen ngợi anh làm tốt đây? À mà không, người ngoài làm sao biết được chuyện này chứ.
 
@@ -164,13 +164,13 @@ Vấn đề nằm ở viên ma thạch chuyển chức lần 3 duy nhất mà an
 
 Thứ anh cầm lấy là bộ đại khải. Vì nó vốn đã đạt phẩm cấp Truyền Thuyết, nên anh nghĩ rằng nó sẽ có tiềm năng thăng tiến lớn nhất nếu dùng viên ma thạch chuyển chức lần 3, và còn một lý do nữa là viên ma thạch này vốn lấy từ Báo Bóng Tối — loài quái chuyên về ẩn thân.
 
-Chẳng phải Erta cũng từng nói thế sao? Rằng kết quả sẽ khác biệt tùy thuộc vào đặc tính của viên ma thạch được sử dụng trong quá trình chế tác mana.
+Chẳng phải Erta cũng từng nói thế sao? Rằng kết quả sẽ khác biệt tùy thuộc vào đặc tính của viên ma thạch được sử dụng trong quá trình Chế Tác Mana.
 
 Ban đầu anh từng muốn những chiếc gai kim loại có thể bắn ra từ khắp nơi trên giáp, nhưng vì phải tập trung toàn bộ hỏa lực vào một đòn duy nhất, nên anh quyết định cường hóa chính hiệu năng của bộ giáp thay vì gắn thêm mấy tính năng phụ trợ như thế.
 
 Những đặc tính mà bộ giáp vốn có, cùng đặc tính của viên ma thạch Báo Bóng Tối, và cả đặc tính của chính Yu IlHan đều trùng khớp hoàn hảo với nhau. Trước tình thế tựa như 'tam vị nhất thể' này, Erta cũng rất mong chờ xem thành phẩm ra đời sẽ ra sao.
 
-Dĩ nhiên, nếu cô nói toẹt điều đó ra thì Yu IlHan sẽ cụt hứng ngay, nhưng vì chế tác mana thậm chí còn chịu ảnh hưởng bởi năng lực của người chế tác, nên làm sao cô có thể không kỳ vọng cho được.
+Dĩ nhiên, nếu cô nói toẹt điều đó ra thì Yu IlHan sẽ cụt hứng ngay, nhưng vì Chế Tác Mana thậm chí còn chịu ảnh hưởng bởi năng lực của người chế tác, nên làm sao cô có thể không kỳ vọng cho được.
 
 "Phùuu."
 
@@ -206,9 +206,9 @@ Yu IlHan reo lên thích thú ngay khoảnh khắc kiểm tra các dòng thuộc
 
 [Đó là vì cậu đã ăn no căng bụng rồi thì có.]
 
-"Vậy giờ cường hóa súng bắn cọc tiếp nhé?"
+"Vậy giờ cường hóa Súng Bắn Cọc tiếp nhé?"
 
-Anh phớt lờ lời bắt bẻ của Erta. Bản thân Erta cũng đang tò mò không biết anh sẽ cường hóa súng bắn cọc như thế nào, nên cô cũng chẳng buồn cằn nhằn về chuyện bị ngó lơ. Mọi thứ diễn ra đúng như dự liệu.
+Anh phớt lờ lời bắt bẻ của Erta. Bản thân Erta cũng đang tò mò không biết anh sẽ cường hóa Súng Bắn Cọc như thế nào, nên cô cũng chẳng buồn cằn nhằn về chuyện bị ngó lơ. Mọi thứ diễn ra đúng như dự liệu.
 
 [Chế Tác Mana quả thực đã mang lại kết quả vượt ngoài mong đợi của cậu, nhưng kể cả vậy, liệu chừng đó đã đủ để hạ gục quái vật chuyển chức lần 3 chỉ bằng một đòn duy nhất chưa? Cậu từng giáp mặt với Báo Bóng Tối rồi, chắc chắn phải rõ thực lực của chúng chứ. Cậu có đang tính toán cẩn thận không đấy, Yu IlHan?]
 
@@ -224,7 +224,7 @@ Erta nói trong lúc hơi bực bội. Biết thừa cô nàng đang rất mong 
 
 "Sai rồi."
 
-Yu IlHan lấy súng bắn cọc, vài sợi Dây Thun Khổng Lồ và ba viên ma thạch chuyển chức lần 2 ra rồi tuyên bố.
+Yu IlHan lấy Súng Bắn Cọc, vài sợi Dây Thun Khổng Lồ và ba viên ma thạch chuyển chức lần 2 ra rồi tuyên bố.
 
 "Chính là ngay trước khi chết. Con người ta trở nên mạnh nhất là vào khoảnh khắc cận kề cái chết."
 

@@ -59,7 +59,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Shiota | tôi | cậu / Shiota | 30 | Đồng nghiệp thiên thần |
 | Shiota | Erta | tôi | Erta / cô | 30 | Đồng nghiệp thiên thần |
 | HaJin | YuNa | tôi | cô / YuNa | 36 | Đồng đội cùng nhóm dị năng giả |
-| YuNa | HaJin | tôi | anh / HaJin | 36 | Đồng đội cùng nhóm dị năng giả |
+| YuNa | HaJin | tôi / em | anh / HaJin | 36 | Đồng đội cùng nhóm dị năng giả |
 | Yu IlHan | Feyta | tôi | cô | 38 | IlHan đối thoại với Feyta |
 | Feyta | Yu IlHan | tôi | cậu / Kẻ Hành Quyết | 38 | Thiên thần hộ mệnh thân thiện đối thoại với IlHan |
 | Erta | Feyta | tôi | cô / Feyta | 38 | Đồng nghiệp thiên thần |

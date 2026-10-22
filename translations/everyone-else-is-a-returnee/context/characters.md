@@ -126,6 +126,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
 - Tính cách: Hoạt bát, dễ phấn khích trước những món trang bị ngầu và đẹp mắt.
+- Cách người kể gọi: cô / cô gái / Na YuNa (tránh dùng "người phụ nữ" để không làm già dặn nhân vật thiếu nữ nhí nhảnh).
 - Trạng thái tính đến chương 38: Tiết lộ thân phận là nữ tư tế được Nữ Thần Sắc Đẹp ban phước, có thiên thần Feyta làm người bảo hộ; cùng HaJin lên máy bay tới bang Arizona.
 - Trạng thái tính đến chương 39: Cùng HaJin và thiên thần Feyta tiến vào hầm ngục Grand Canyon để săn Bọ Cạp Cát lấy nọc độc mang về Hàn Quốc.
 - Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ kẹp càng lôi đi nhưng được ma pháp phòng ngự bảo hộ; được Yu IlHan cứu thoát; hào hứng nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA' đang sốt trên mạng xã hội.

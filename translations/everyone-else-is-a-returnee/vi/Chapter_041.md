@@ -84,7 +84,7 @@ Yu IlHan dám chắc rằng ở một nơi lộ liễu đến nhường này, tu
 
 [Tôi từ chối bắt bẻ cái câu đó của cậu.]
 
-Trong khi Yu IlHan vừa nhai thịt troll vừa nói lăng băm, Erta chỉ nhìn anh bằng ánh mắt ngán ngẩm đến tận cổ.
+Trong khi Yu IlHan vừa nhai thịt troll vừa nói nhảm nhí, Erta chỉ nhìn anh bằng ánh mắt ngán ngẩm đến tận cổ.
 
 Chợt Erta ngẩng đầu lên, khúc khích cười rồi bảo.
 
@@ -112,7 +112,7 @@ Ngay sau khi Erta vừa dứt lời, một con bọ cạp to lớn dị thườn
 
 Nơi chiếc càng bên trái của con bọ cạp cát khổng lồ với thân hình dài hơn bốn mét chính là cô gái mặc trang phục tư tế màu trắng, Na YuNa. Yu IlHan, một kẻ mù tịt về ma pháp, không hề hay biết rằng sở dĩ cô vẫn còn trụ được là nhờ đã kịp niệm kỹ năng phòng ngự lên cơ thể, bằng không cô đã bị bẻ đôi làm hai nửa rồi.
 
-[Bởi thế ta mới dặn là phải cẩn thận mà!]
+[Bởi thế tôi mới dặn là phải cẩn thận mà!]
 
 "Á á á! Cứu em với! Từ ngày mai em hứa sẽ ăn rau đàng hoàng mà, làm ơn cứu em vớiiiii!"
 
