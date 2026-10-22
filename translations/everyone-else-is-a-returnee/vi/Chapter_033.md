@@ -20,7 +20,9 @@ Yu IlHan tắt tivi rồi lẩm bẩm. Ngay lúc này, anh vẫn có thể nghe 
 
 "Không biết bố mẹ mình đã về chưa nhỉ."
 
-Erta hờ hững đáp lời, vẻ như chẳng mấy bận tâm: [Chắc là về rồi đấy.] Cũng dễ hiểu thôi, bởi lúc này toàn bộ sự chú ý của cô nàng đều đang dồn vào đống trang bị mà anh vừa mới hoàn thành.
+[Chắc là về rồi đấy.]
+
+Erta hờ hững đáp lời, vẻ như chẳng mấy bận tâm. Cũng dễ hiểu thôi, bởi lúc này toàn bộ sự chú ý của cô nàng đều đang dồn vào đống trang bị mà anh vừa mới hoàn thành.
 
 [Có xuất hiện dòng thuộc tính nào không?]
 
