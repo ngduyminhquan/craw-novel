@@ -24,7 +24,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 | Reta Kar'iha |  | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
-| Dakié | Dakie; sir Dakié | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
+| Dakié | Dakie; sir Dakié; Dakié von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 
 ## Chi tiết
 
@@ -84,6 +84,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 55: Gặp mặt trực tiếp Kang MiRae tại quán trà cao cấp, đồng ý nhận thù lao khủng lên tới 17 tỷ won cho cây trượng và áo choàng pháp sư có dòng thuộc tính beta; cùng Lita và Erta thâm nhập hầm ngục quái vật biến dị cấp 70 ở Gangwon-do (nhờ hai thiên thần hạ yêu cầu cấp độ xuống 50) để săn nguyên liệu hệ sấm sét trước khi sang Trung Quốc.
 - Trạng thái tính đến chương 56: Thăng cấp Quái Lực lên Lv 2, Kháng Độc Cực Hạn lên Lv 8 và Nấu Nướng lên Lv 15 nhờ uống 'thức uống máu' giải quyết bài toán thiếu hụt năng lượng nghỉ ngơi để liên tục luyện Siêu Việt Tái Sinh.
 - Trạng thái tính đến chương 57: Đạt cấp độ 60; thăng cấp kỹ năng Quái Lực lên Lv 15 và Thu Thập Tử Vong lên Lv 4; thức tỉnh kỹ năng có điều kiện [Bật Nhảy]; mở khóa 1/4 điều kiện nhận kỹ năng chủ động [Phản Kích] sau khi phối hợp Súng Bắn Cọc và Atlatl Xương Nguyệt Quang Thô Ráp tiêu diệt quái vật chuyển chức lần 3 Chim Sấm Sét Khổng Lồ Lv 122.
+- Trạng thái tính đến chương 58: Tiêu diệt tổng cộng 4 Chim Sấm Sét Khổng Lồ Lv 122 chuyển chức 3 trong hầm ngục Gangwon-do, nâng Quái Lực lên Lv 16 và Nấu Nướng lên Lv 21; thu hoạch 2 viên ma thạch chuyển chức 3 hệ sấm sét để làm trượng cho Kang MiRae; Súng Bắn Cọc Kim Loại hấp thụ mana lôi điện tiến hóa thành Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi (Phẩm cấp Truyền Thuyết, bắn tầng 4 giảm 200 độ bền tối đa); chuẩn bị trang bị lên đường sang Trung Quốc.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

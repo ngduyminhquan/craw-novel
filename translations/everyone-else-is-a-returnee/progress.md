@@ -62,7 +62,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | reviewed |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | reviewed |  |
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | reviewed |  |
-| 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | todo |  |
+| 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | done |  |
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | todo |  |
 | 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | todo |  |
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | todo |  |
