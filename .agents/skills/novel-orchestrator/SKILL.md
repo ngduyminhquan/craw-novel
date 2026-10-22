@@ -161,6 +161,7 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
 4. **Ghi lại mọi quyết định:**
    - sửa file context tương ứng (`glossary.md`, `pronouns.md`, `characters.md`, mục "Riêng truyện này" của `rules.md`);
    - chuyển câu hỏi sang mục "Đã quyết" bằng `orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"`.
+     Chuỗi có dấu `"` mà gọi từ PowerShell 5.1 thì ghi câu hỏi vào dòng 1, quyết định vào các dòng sau của một file UTF-8 trong `.herdr/tasks/`, rồi gọi `resolve --args-file <file>` (thêm `--new` nếu cần).
 5. **Quyết định làm sai các chương đã commit** (đổi thuật ngữ, đổi xưng hô từ một chương cũ):
    - ghi file quyết định chỉ có các mục context và câu hỏi;
    - mở panel fix cho các chương bị ảnh hưởng bằng `brief fix --range R --decisions <file> --keep-status`, không cần báo cáo review. Tìm các chương đó bằng cách tìm từ cũ trong `translations/<slug>/vi/`. Cờ `--keep-status` giữ nguyên trạng thái `done`, để không làm vỡ lô review 3 chương sắp tới;
@@ -178,7 +179,7 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
   Việc khác (git, xóa file ngoài các thư mục trên, cài đặt, truy cập mạng...) thì từ chối, rồi báo user.
 - **Hỏi về nội dung dịch**: quyết theo mục "Quyết định", trả lời bằng `herdr agent prompt <name> "<quyết định>"`, rồi chạy lại lệnh chờ.
 - **Quên ghi báo cáo**: nhắc như herdr-spawn hướng dẫn.
-- **`spawn.sh` thất bại** (exit khác 0, hoặc in `status=failed`): pane vẫn bị giữ lại để xem lỗi. Đọc màn hình, đóng pane đó, rồi mới spawn lại. Không chạy `wait-report.sh` cho lần spawn hỏng. Khi gộp hai lệnh thì nối bằng `&&`, không dùng `;`.
+- **`spawn.sh` thất bại** (exit khác 0, hoặc in `status=failed`): pane vẫn bị giữ lại để xem lỗi. Đọc màn hình, đóng pane đó, rồi mới spawn lại. Không chạy `wait-report.sh` cho lần spawn hỏng. Khi gộp hai lệnh: trong bash nối bằng `&&`; PowerShell 5.1 không có `&&`, dùng `A; if ($?) { B }`. Không nối bằng `;` trần.
 - **Lỗi khởi tạo model ngay khi mở** (vd `failed to construct executor`, `plan model not specified`): đóng pane, mở lại một lần với cùng brief. Vẫn lỗi thì dừng vòng lặp, báo user.
 - **Kẹt ở hộp thoại trust hay login**: dừng vòng lặp, báo user.
 - **User nhắn thẳng vào pane của bạn** một yêu cầu mới (vd thêm quy tắc định dạng): coi như quyết định của user. Ghi vào `rules.md`, áp dụng cho các chương đã dịch theo nguyên tắc 5 của mục "Quyết định", và ghi rõ trong báo cáo cuối là do user yêu cầu.
