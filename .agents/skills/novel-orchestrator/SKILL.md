@@ -35,6 +35,7 @@ Script: `python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> 
 ```
 next ──► init ──► [panel] khởi tạo ──► duyệt context ──► commit + push
      ├─► repair R ──► [panel] sửa lỗi QA ──► verify ──► commit + push
+     ├─► fix-context ──► lint ──► tự sửa context / [panel] viết tóm tắt thiếu ──► commit + push
      ├─► translate N ──► [panel] dịch ──► verify ──► quyết câu hỏi ──► commit + push
      ├─► review a-b ──► [panel] review ──► phân loại lỗi ──► [panel] sửa ──► verify ──► commit + push
      └─► finished ──► báo cáo cuối
@@ -42,7 +43,7 @@ next ──► init ──► [panel] khởi tạo ──► duyệt context ─
 
 Mỗi vòng:
 
-1. `orchestrate.py <slug> next --until <N>`. Script in ra một dòng: `action=init`, `action=repair range=<R>`, `action=translate n=<N>`, `action=review range=<R>` hoặc `action=finished`, kèm `open_questions=<k>`.
+1. `orchestrate.py <slug> next --until <N>`. Script in ra một dòng: `action=init`, `action=repair range=<R>`, `action=fix-context`, `action=translate n=<N>`, `action=review range=<R>` hoặc `action=finished`, kèm `open_questions=<k>`.
 2. Nếu `open_questions` > 0: chạy `orchestrate.py <slug> questions` rồi quyết từng câu (mục "Quyết định") **trước khi** mở panel mới.
 3. Làm theo action ở các mục dưới, rồi quay lại bước 1.
 
@@ -90,6 +91,15 @@ Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script Q
 4. `verify R --status translated`. Chưa đạt thì xử lý giống bước 3 của translate.
 5. Đóng pane. Commit và push với message `fix(translate): sửa lỗi QA chương <R>`.
 
+### action=fix-context
+
+`lint_context.py` báo `[LỖI]` trong các file context.
+
+1. Chạy `python .agents/skills/novel-translate/scripts/lint_context.py <slug>` để xem lỗi.
+2. Lỗi trùng dòng và lỗi tên trong `pronouns.md`: tự sửa file context. Gộp dòng trùng, giữ bản dịch đang được dùng trong các chương. Sửa tên cho khớp `characters.md`.
+3. Thiếu tóm tắt chương: ghi file quyết định "viết mục `## N` trong `summaries.md` theo mẫu bước B4", rồi chạy `brief fix --range <các chương thiếu> --decisions <file> --keep-status`, mở panel và chờ.
+4. Chạy lại lint cho tới khi hết `[LỖI]`. Commit và push với message `fix(translate): sửa context`.
+
 ### action=translate n=N
 
 1. `brief translate --n N`, rồi mở panel và chờ.
@@ -102,7 +112,7 @@ Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script Q
    - Lần đầu: nhắc chính panel đó bằng `herdr agent prompt <name> "<các vấn đề verify in ra, sửa rồi ghi lại báo cáo>"`, rồi chờ lại.
    - Vẫn chưa đạt: đóng pane, đặt lại chương về todo bằng `progress.py <slug> set N todo`, mở panel mới làm lại từ đầu một lần.
    - Lần thứ ba vẫn hỏng: **dừng vòng lặp**, báo user.
-4. Đọc mục câu hỏi trong báo cáo và quyết. Quyết định làm đổi nội dung chương N thì nhắc panel sửa trước khi đóng.
+4. Đọc mục câu hỏi trong báo cáo và quyết. Panel thường chỉ ghi câu hỏi vào báo cáo mà không ghi vào `progress.md`. Câu như vậy thì ghi thẳng vào "Đã quyết" bằng `orchestrate.py <slug> resolve "[#N] <câu hỏi>" "<quyết định>" --new`. Quyết định làm đổi nội dung chương N thì nhắc panel sửa trước khi đóng.
 5. Đóng pane. Commit và push với message `feat(translate): dịch chương N - <tiêu đề raw>`.
 6. Báo user một dòng: `#N xong — QA ok, +k thuật ngữ, q câu hỏi đã quyết`.
 
@@ -168,6 +178,7 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
   Việc khác (git, xóa file ngoài các thư mục trên, cài đặt, truy cập mạng...) thì từ chối, rồi báo user.
 - **Hỏi về nội dung dịch**: quyết theo mục "Quyết định", trả lời bằng `herdr agent prompt <name> "<quyết định>"`, rồi chạy lại lệnh chờ.
 - **Quên ghi báo cáo**: nhắc như herdr-spawn hướng dẫn.
+- **`spawn.sh` thất bại** (exit khác 0, hoặc in `status=failed`): pane vẫn bị giữ lại để xem lỗi. Đọc màn hình, đóng pane đó, rồi mới spawn lại. Không chạy `wait-report.sh` cho lần spawn hỏng. Khi gộp hai lệnh thì nối bằng `&&`, không dùng `;`.
 - **Lỗi khởi tạo model ngay khi mở** (vd `failed to construct executor`, `plan model not specified`): đóng pane, mở lại một lần với cùng brief. Vẫn lỗi thì dừng vòng lặp, báo user.
 - **Kẹt ở hộp thoại trust hay login**: dừng vòng lặp, báo user.
 - **User nhắn thẳng vào pane của bạn** một yêu cầu mới (vd thêm quy tắc định dạng): coi như quyết định của user. Ghi vào `rules.md`, áp dụng cho các chương đã dịch theo nguyên tắc 5 của mục "Quyết định", và ghi rõ trong báo cáo cuối là do user yêu cầu.

@@ -96,11 +96,13 @@ Sau khi script sạch, tự đọc lại bản dịch một lượt và kiểm t
 Xem lại chương vừa dịch và cập nhật:
 
 - `summaries.md`: **bắt buộc**, thêm mục `## N` gồm 3–5 dòng: diễn biến chính, nhân vật/kỹ năng mới, cảnh kết thúc.
-- `characters.md`: nhân vật mới; tính cách hoặc cách nói chuyện mới lộ ra; thay đổi lớn về trạng thái hay quan hệ (ghi "tính đến chương N").
-- `pronouns.md`: cặp xưng hô mới dùng trong chương. Quan hệ thay đổi (thân hơn, trở mặt, lộ thân phận) thì **thêm dòng mới** với `Từ chương` = N, không sửa dòng cũ.
-- `glossary.md`: thuật ngữ đã thêm ở bước 1 mà còn thiếu loại hoặc ghi chú.
+- `characters.md`: nhân vật mới; tính cách hoặc cách nói chuyện mới lộ ra; thay đổi lớn về trạng thái hay quan hệ (ghi "tính đến chương N"). Nhân vật lộ tên thật sau một thời gian chỉ được gọi bằng biệt danh thì **thêm dòng riêng** cho tên thật, giữ dòng biệt danh, và ghi chú liên kết hai dòng. Không nhét tên thật vào Alias của dòng biệt danh.
+- `pronouns.md`: cặp xưng hô mới dùng trong chương. Quan hệ thay đổi (thân hơn, trở mặt, lộ thân phận) thì **thêm dòng mới** với `Từ chương` = N, không sửa dòng cũ. Tên trong cột `A`, `B`, `Nhân vật` phải đúng giá trị cột `EN` của một dòng trong `characters.md`. Không thêm đám đông hay vật phẩm.
+- `glossary.md`: thuật ngữ đã thêm ở bước 1 mà còn thiếu loại hoặc ghi chú. Chỉ thêm tên riêng và thuật ngữ cố định, không thêm cụm miêu tả chung (vd "black leopard" chỉ để tả một con báo đen). Cột `VI` chỉ ghi **một** bản dịch. Nếu thật sự cần hai dạng theo ngữ cảnh, ghi cả hai ngăn bằng `/` và nói rõ trong Ghi chú khi nào dùng dạng nào.
 - `style.md`: đặc điểm giọng kể mới đáng giữ; cảm thán mới vào bảng cảm thán.
 - `rules.md`, mục "Riêng truyện này": trường hợp mới cần xử lý thống nhất về sau.
+
+Cập nhật xong thì chạy `python .agents/skills/novel-translate/scripts/lint_context.py <slug>` và sửa hết `[LỖI]`.
 
 **Không tự ghi đè quyết định cũ.** Thấy một thuật ngữ, tên hay xưng hô đã chốt có vẻ sai, hoặc mâu thuẫn với raw chương mới:
 1. giữ nguyên cách cũ trong bản dịch;

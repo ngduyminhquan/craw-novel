@@ -6,7 +6,7 @@
                                        [--keep-status]
     python orchestrate.py <slug> verify <range> [--status done|reviewed|translated]
     python orchestrate.py <slug> questions
-    python orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"
+    python orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>" [--new]
 """
 import argparse
 import re
@@ -19,6 +19,7 @@ sys.path.insert(0, str(SKILLS / "novel-translate" / "scripts"))
 
 from common import (ROOT, TRANSLATED, TRANSLATIONS, die, entries, get_row, load_novel, load_progress, parse_range,  # noqa: E402
                     progress_path, read_text, utf8_stdout, vi_file)
+from lint_context import lint  # noqa: E402
 from qa_check import check  # noqa: E402
 
 BRIEFS = Path(__file__).resolve().parents[1] / "briefs"
@@ -63,16 +64,22 @@ def open_questions(novel):
     return [l for l in lines[start + 1:end] if l.lstrip().startswith("- ")]
 
 
-def resolve(novel, needle, decision):
+def resolve(novel, needle, decision, new=False):
+    """Chuyển câu hỏi mở có chứa `needle` sang "Đã quyết". new=True: `needle` là câu hỏi
+    chỉ có trong báo cáo panel (không nằm trong "Cần user xác nhận"), ghi thẳng vào "Đã quyết"."""
     path = progress_path(novel)
     lines = read_text(path).splitlines()
-    start, end = _section(lines, OPEN_HEADER)
-    if start is None:
-        die(f"progress.md không có mục '{OPEN_HEADER}'")
-    hits = [i for i in range(start + 1, end) if lines[i].lstrip().startswith("- ") and needle in lines[i]]
-    if len(hits) != 1:
-        die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}")
-    item = lines.pop(hits[0]).rstrip()
+    if new:
+        item = needle if needle.lstrip().startswith("- ") else f"- {needle}"
+    else:
+        start, end = _section(lines, OPEN_HEADER)
+        if start is None:
+            die(f"progress.md không có mục '{OPEN_HEADER}'")
+        hits = [i for i in range(start + 1, end) if lines[i].lstrip().startswith("- ") and needle in lines[i]]
+        if len(hits) != 1:
+            die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}. "
+                "Câu hỏi chỉ có trong báo cáo panel thì dùng --new")
+        item = lines.pop(hits[0]).rstrip()
     item = re.sub(r"\s+—\s+đề xuất.*$", "", item)
     entry = f"{item} → {decision} (orchestrator)"
     d_start, d_end = _section(lines, DONE_HEADER)
@@ -97,6 +104,9 @@ def cmd_next(slug, until, batch):
     broken = [r["idx"] for r in rows if r["trạng thái"] in TRANSLATED and check(novel, r)[0]]
     if broken:
         print(f"action=repair range={fmt_range(broken)} open_questions={q}")
+        return
+    if lint(novel)[0]:
+        print(f"action=fix-context open_questions={q}")
         return
     pending = [r["idx"] for r in rows if r["trạng thái"] == "done"]
     todo = [r["idx"] for r in rows if r["trạng thái"] == "todo" and (until is None or r["idx"] <= until)]
@@ -201,6 +211,7 @@ def main():
     p = sub.add_parser("resolve")
     p.add_argument("needle")
     p.add_argument("decision")
+    p.add_argument("--new", action="store_true", help="câu hỏi chỉ có trong báo cáo panel, ghi thẳng vào 'Đã quyết'")
     args = ap.parse_args()
 
     if args.cmd == "next":
@@ -213,7 +224,7 @@ def main():
         qs = open_questions(load_novel(args.slug))
         print("\n".join(qs) if qs else "(không có câu hỏi mở)")
     elif args.cmd == "resolve":
-        resolve(load_novel(args.slug), args.needle, args.decision)
+        resolve(load_novel(args.slug), args.needle, args.decision, args.new)
 
 
 if __name__ == "__main__":
