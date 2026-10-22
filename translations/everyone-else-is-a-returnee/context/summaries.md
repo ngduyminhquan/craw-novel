@@ -120,5 +120,12 @@ Chứng kiến quái vật và con người bất lực trước bàn tay Thư�
 Erta hỗ trợ dùng ma pháp xử lý sạch toàn bộ da quái vật trong xưởng; IlHan dồn sức chế tạo bộ trang bị mới gồm găng tay, ủng da Sói Bạo Tàn (có nanh ẩn bật ra), giáp da Gấu Lớn Nâu ninh dầu, nâng cấp Chế Tác Mana lên cấp 8 và hoàn thiện Giáp Da Gấu Cứng Chí Mạng 'Kín Đáo' 'Sắc Bén' (bật gai xương nhọn), dao xương gấu cùng mặt nạ đầu lâu Sói Bạo Tàn (khiến Ẩn Thân càng mờ nhạt hơn).
 Cảnh kết thúc: Vừa trang bị xong đồ mới, IlHan và Erta nghe thấy tiếng còi báo động khẩn cấp khắp quận Jongno yêu cầu sơ tán vì xuất hiện quái vật chuyển chức lần 2 cỡ lớn; IlHan chỉ thở dài cầu mong nó yếu hơn Gấu Lớn Nâu để đỡ phải mất công lột da may thêm bộ giáp mới.
 
+## 20
+Yu IlHan tranh thủ bảo dưỡng ngọn trường thương thép bằng bộ đe búa thần và Ngọn Lửa Vĩnh Cửu, nâng cấp thành Trường Thương Thép Sắc Bén Chí Mạng (Phẩm cấp Độc Nhất, Sức tấn công 1.100, tăng 20% tỷ lệ đòn đánh chí mạng).
+Anh lao tới hiện trường quận Jongno, nơi quân đội và các dị năng giả đang tuyệt vọng chiến đấu chống lại một con báo khổng lồ sở hữu sức mạnh vượt cấp chuyển chức lần 2 đang tàn sát, giẫm đạp xe cộ và đe dọa Nhà Xanh.
+Nhờ Ẩn Thân đạp tường cao ốc nhảy lên không trung, IlHan tung đòn Chí Mạng đâm nát mắt trái con báo, giải cứu hai người lính trong chiếc xe quân sự rơi tự do, thu hút toàn bộ sự chú ý (aggro) của quái vật tạo cơ hội cho đám đông và Empress tiếp ứng bằng lôi thuật.
+Cảnh kết thúc: Khi con báo liều mạng tông sầm trực diện, IlHan kích hoạt gai xương từ giáp đâm nát mặt nó; dù bị chấn động ê ẩm và bị Erta chê "trông tởm lắm" như con ếch bị xe cán bẹp dí, anh vẫn hài lòng vì trang bị mới phát huy tác dụng ngay lần đầu xuất trận.
+
+
 
 

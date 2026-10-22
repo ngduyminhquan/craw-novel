@@ -40,7 +40,7 @@
 | Health |  | Thể lực | hệ thống | 5 | Chỉ số cơ bản |
 | Magic |  | Ma pháp | hệ thống | 5 | Chỉ số cơ bản |
 | Attack Power |  | Sức tấn công | hệ thống | 6 | Chỉ số tấn công của trang bị/nhân vật |
-| Durability |  | Độ bền | hệ thống | 6 | Chỉ số độ bền của trang bị |
+| Durability | Durabiliity | Độ bền | hệ thống | 6 | Chỉ số độ bền của trang bị |
 | Rank |  | Phẩm cấp | hệ thống | 6 | Cấp bậc trang bị/kỹ năng |
 | Unique |  | Độc Nhất | hệ thống | 6 | Phẩm cấp trang bị/vật phẩm |
 | Jobless |  | Vô Nghề | chức nghiệp | 5 | Trạng thái chưa có chức nghiệp |
@@ -132,3 +132,7 @@
 | Jongno | JongNo; JongNo district | Jongno / Quận Jongno | địa danh | 19 | Quận Jongno tại Seoul |
 | Japan |  | Nhật Bản | địa danh | 19 | Quốc gia láng giềng |
 | China |  | Trung Quốc | địa danh | 19 | Quốc gia láng giềng |
+| Fatally Sharp Steel Spear |  | Trường Thương Thép Chí Mạng Sắc Bén / Trường Thương Thép Sắc Bén Chí Mạng | vật phẩm | 20 | Ngọn thương thép của Yu IlHan sau khi rèn sửa, sở hữu 2 dòng thuộc tính Chí Mạng và Sắc Bén |
+| Fatal | Fatally | Chí Mạng | hệ thống | 20 | Tiền tố dòng thuộc tính tăng tỷ lệ đòn đánh chí mạng |
+| Blue House |  | Nhà Xanh | địa danh | 20 | Phủ Tổng thống Hàn Quốc |
+| RPG |  | RPG / Súng RPG | khác | 20 | Súng phóng lựu chống tăng |

@@ -24,7 +24,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | reviewed |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | reviewed |  |
 | 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | done |  |
-| 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | todo |  |
+| 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | done |  |
 | 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | todo |  |
 | 22 |  | Chapter_022 - You Want to Hunt With Me!_ (3).txt | You Want to Hunt With Me!_ (3) | todo |  |
 | 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | todo |  |
@@ -369,7 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -435,3 +434,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#16 đoạn 24] Chính tả → Chấp nhận sửa thành "Rốt cuộc" (orchestrator)
 - [#18 đoạn 35] Dịch thuật → Chấp nhận sửa thành "năng lực độc quyền của loài thiên thần" (orchestrator)
 - [glossary.md] Thuật ngữ ma pháp → Chấp nhận bổ sung Shrinking magic và Invisibility magic vào glossary.md (orchestrator)
+- [#20] Vũ khí "Fatally Sharp Steel Spear" — Tạm dùng: "Trường Thương Thép Sắc Bén Chí Mạng" (hoặc "Trường Thương Thép Chí Mạng Sắc Bén") phản ánh 2 dòng thuộc tính Chí Mạng (alpha) và Sắc Bén (beta). → Chốt 'Trường Thương Thép Sắc Bén Chí Mạng' (giữ cả 'Trường Thương Thép Chí Mạng Sắc Bén' trong glossary) (orchestrator)
