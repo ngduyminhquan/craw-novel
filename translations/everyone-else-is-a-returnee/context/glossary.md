@@ -234,3 +234,6 @@
 | Battle Expert | Battle Experts | Chuyên Gia Chiến Đấu | chức nghiệp | 40 | Lựa chọn chức nghiệp chuyển chức lần 2 chuyên về chiến đấu toàn diện mọi vũ khí |
 | Berserker |  | Cuồng Chiến Sĩ | chức nghiệp | 40 | Lựa chọn chức nghiệp chuyển chức lần 2 chiến binh cuồng bạo không rời chiến trường |
 | Rookie Reaper |  | Tử Thần Tập Sự | chức nghiệp | 40 | Chức nghiệp độc nhất chuyển chức lần 2 do Yu IlHan lựa chọn |
+| Giant Sand Scorpion |  | Bọ Cạp Cát Khổng Lồ | quái vật | 41 | Biến thể khổng lồ cấp 78 của Bọ Cạp Cát xuất hiện tại hầm ngục Grand Canyon |
+| Dark Knight of LA |  | Hiệp Sĩ Bóng Đêm LA | khác | 41 | Biệt danh cư dân mạng và truyền thông đặt cho Yu IlHan sau chiến tích tại sân bay Los Angeles |
+| Chekhov's Gun |  | Khẩu súng của Chekhov | khác | 41 | Nguyên lý sáng tác nổi tiếng của nhà văn Nga Anton Chekhov |

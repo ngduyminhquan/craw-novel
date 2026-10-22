@@ -19,7 +19,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
 | Shiota | Shiuta | Shiota | Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt cùng nhóm Erta | 30 |
-| HaJin | Ha Jin | HaJin | Nam dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
+| HaJin | Ha Jin; Kang HaJin; Kang Hajin | HaJin | Nam dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | YuNa | Yu Na; Na YuNa | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 
@@ -64,6 +64,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 38: Hoàn thành Nhiệm Vụ Thiên Giới 003 (toàn bộ chỉ số tăng 2 điểm); Túi Đeo Chéo được nhóm thiên thần Chế Tác Mana nâng cấp tính năng tự do kiểm soát trọng lượng; học được kỹ năng [Quái Lực] trích xuất từ ghi chép quái vật giúp cường hóa cơ bắp vượt giới hạn mà không cần mana; tiếp tục lẻn lên máy bay đi Arizona săn troll.
 - Trạng thái tính đến chương 39: Tiến vào hầm ngục troll bất thường tại Grand Canyon để săn quái chuyển chức 2 phục vụ tiến hóa kỹ năng Nghỉ Ngơi; thu hoạch tim và 3 lít máu đầu tiên từ Troll Cao Nguyên Lv 72.
 - Trạng thái tính đến chương 40: Đạt cấp độ 49 (chạm trần cấp 50 chờ chuyển chức lần 2); thăng cấp Kháng Độc Cực Hạn lên Lv 2; học được kỹ năng Nấu Nướng sau 2 ngày chế biến thịt troll; hoàn thành đủ điều kiện nguyên liệu tiến hóa kỹ năng Nghỉ Ngơi (500 tim quái vật đang ngủ và 500L máu troll); lựa chọn chức nghiệp Độc Nhất "Tử Thần Tập Sự" và nhận nhiệm vụ chuyển chức lần 2 (tập kích diệt quái chuyển chức 2 trong 1 đòn 0/100, tập kích diệt quái chuyển chức 3 trong 1 đòn 0/1).
+- Trạng thái tính đến chương 41: Quyết định tạm gác việc tiến hóa kỹ năng Nghỉ Ngơi để hy sinh ma thạch chuyển chức lần 3 cải tạo Súng Bắn Cọc và đại khải; nâng kỹ năng Chí Mạng lên Lv 9 sau khi nhất kích tất sát Bọ Cạp Cát Khổng Lồ Lv 78; phát hiện hiệu ứng Ẩn Thân bị động không bị mất khi ra đòn quá nhanh từ góc khuất; danh tính chiến đấu tại Hiện Tượng Tràn Los Angeles bị lộ trên Facebook với biệt danh 'Hiệp Sĩ Bóng Đêm LA'.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -119,12 +120,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
 - Tính cách: Điềm tĩnh, nhắc nhở đồng đội giữ bình tĩnh giữa chiến trường hỗn loạn.
 - Trạng thái tính đến chương 39: Cùng Na YuNa tiến vào hầm ngục Grand Canyon để hỗ trợ thu thập nọc bọ cạp rồi nhanh chóng quay về Hàn Quốc.
+- Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ truy đuổi chạy thục mạng cùng Na YuNa; nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA'.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
 - Tính cách: Hoạt bát, dễ phấn khích trước những món trang bị ngầu và đẹp mắt.
 - Trạng thái tính đến chương 38: Tiết lộ thân phận là nữ tư tế được Nữ Thần Sắc Đẹp ban phước, có thiên thần Feyta làm người bảo hộ; cùng HaJin lên máy bay tới bang Arizona.
 - Trạng thái tính đến chương 39: Cùng HaJin và thiên thần Feyta tiến vào hầm ngục Grand Canyon để săn Bọ Cạp Cát lấy nọc độc mang về Hàn Quốc.
+- Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ kẹp càng lôi đi nhưng được ma pháp phòng ngự bảo hộ; được Yu IlHan cứu thoát; hào hứng nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA' đang sốt trên mạng xã hội.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

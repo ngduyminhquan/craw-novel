@@ -250,3 +250,9 @@ Erta phát hiện hiệu ứng Ẩn Thân thụ động của IlHan bá đạo �
 Khi con troll thứ 500 ngã xuống, IlHan chạm trần Lv 50 và nhận thông báo chuyển chức lần 2 với 4 lựa chọn: Chuyên Gia Thương Thủ Mờ Nhạt, Chuyên Gia Chiến Đấu, Cuồng Chiến Sĩ và chức nghiệp Độc Nhất 'Tử Thần Tập Sự'.
 Bất chấp nguy cơ chưa rõ kỹ năng, IlHan quyết định chọn 'Tử Thần Tập Sự' vì yêu thích khám phá những điều mới lạ.
 Cảnh kết thúc: Màn hình hệ thống hiện lên điều kiện nhiệm vụ chuyển chức tồi tệ nhất thế gian: tập kích tiêu diệt quái vật chuyển chức 2 bằng một đòn duy nhất 0/100, và tập kích tiêu diệt quái vật chuyển chức 3 bằng một đòn duy nhất 0/1.
+
+## 41
+Yu IlHan bàn với Erta phương án hoàn thành nhiệm vụ chuyển chức 'Tử Thần Tập Sự', quyết định tạm hoãn tiến hóa kỹ năng Nghỉ Ngơi để dùng viên ma thạch chuyển chức 3 duy nhất cải tạo Súng Bắn Cọc và bộ đại khải qua Chế Tác Mana.
+Trong lúc nướng thịt troll ăn lấy sức, IlHan phát hiện nhóm Na YuNa, HaJin và thiên thần hộ mệnh Feyta đang bị Bọ Cạp Cát Khổng Lồ truy đuổi; anh dùng xiên thịt làm từ Thiết Tâm phi trúng càng giải cứu YuNa mà không làm mất hiệu ứng Ẩn Thân bị động.
+IlHan tung người vung Hắc Thương Tử Thần nhất kích tất sát Bọ Cạp Cát Khổng Lồ Lv 78, thu về hơn 660.000 EXP và nâng kỹ năng Chí Mạng lên Lv 9 nhờ khả năng miễn nhiễm độc từ Kháng Độc Cực Hạn.
+Cảnh kết thúc: Na YuNa và HaJin nhận ra IlHan chính là 'Hiệp Sĩ Bóng Đêm LA' đang gây sốt trên Facebook sau chiến tích quét sạch Hiện Tượng Tràn, trong khi Erta nghiến răng nguyền rủa mạng xã hội vì đã làm lộ thông tin.

@@ -45,7 +45,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | reviewed |  |
 | 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | reviewed |  |
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | done |  |
-| 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | todo |  |
+| 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | done |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | todo |  |
 | 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | todo |  |
 | 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | todo |  |
@@ -508,3 +508,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#39] Độ lệch cấp độ hầm ngục trong raw (đoạn 79 Lv40 và đoạn 134 Lv50) → Giữ nguyên theo đúng raw (không tự ý đổi số liệu). (orchestrator)
 - [#40] Chức nghiệp độc nhất chuyển chức lần 2 Rookie Reaper → Chốt Tử Thần Tập Sự cho Rookie Reaper (vừa chuẩn Hán Việt vừa giữ nét hài hước khi IlHan sợ chữ Reaper mang nghĩa thợ gặt lúa). (orchestrator)
 - [#40] Chơi chữ tên Yu IlHan (sole / duy nhất) trong thông báo nhiệm vụ chuyển chức → Chốt dịch thoát ý thành chứng minh tư cách của kẻ độc nhất vô nhị và bỏ ghi chú T/N inline. (orchestrator)
+- [#41] Biệt danh Dark Knight of LA → Chốt Hiệp Sĩ Bóng Đêm LA. (orchestrator)
