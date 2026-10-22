@@ -238,8 +238,13 @@
 | Dark Knight of LA |  | Hiệp Sĩ Bóng Đêm LA | khác | 41 | Biệt danh cư dân mạng và truyền thông đặt cho Yu IlHan sau chiến tích tại sân bay Los Angeles |
 | Chekhov's Gun |  | Khẩu súng của Chekhov | khác | 41 | Nguyên lý sáng tác nổi tiếng của nhà văn Nga Anton Chekhov |
 | Shiveringly Hard Shadow Leopard's Black Full plate Armor | Shiveringly Hard Shadow Leopard's Black Full-plate Armor | Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi | vật phẩm | 42 | Đại Khải Đen sau khi được Yu IlHan cường hóa bằng ma thạch chuyển chức lần 3 của Báo Bóng Tối qua Chế Tác Mana, tăng 40% phòng thủ và 50% sức tấn công khi tập kích |
-| Giant Death Stalker | Giant DeathStalker | Bọ Cạp Tử Thần Khổng Lồ | quái vật | 43 | Quái vật bọ cạp chuyển chức lần 2 tại hầm ngục Grand Canyon |
+| Giant Death Stalker | Giant DeathStalker; Death Stalker | Bọ Cạp Tử Thần Khổng Lồ | quái vật | 43 | Quái vật bọ cạp chuyển chức lần 2 tại hầm ngục Grand Canyon |
 | Gestalt collapse |  | Sự sụp đổ Gestalt | khác | 43 | Hiện tượng tâm lý sụp đổ nhận thức khi nhìn hoặc nghe một từ quá nhiều lần |
 | Don Quixote |  | Don Quixote | khác | 43 | Được phép giữ nguyên: Nhân vật văn học hiệp sĩ xứ Mancha đánh cối xay gió |
 | God of Concealment |  | Thần Ẩn Thân | danh hiệu | 43 | Cách Erta trêu chọc việc IlHan có thể trở thành vị thần chuyên về ẩn thân trong tương lai |
 | Mad Heaven's deathblow pile bunker |  | Súng Bắn Cọc Tất Sát Cuồng Thiên | vật phẩm | 43 | Vũ khí Súng Bắn Cọc tự hủy sau 1 phát bắn do Yu IlHan cải tạo, sức tấn công tầng 5 lên tới 6.200 |
+| Highland Troll Boss |  | Thủ Lĩnh Troll Cao Nguyên | quái vật | 44 | Quái vật trùm cấp 109 trong hầm ngục cao nguyên tại Grand Canyon |
+| Chasing Strike |  | Truy Kích | kỹ năng | 44 | Kỹ năng chiến đấu của Kang HaJin, sát thương gia tăng dựa theo đòn đánh trước đó lên mục tiêu |
+| Not two hits, nor three hits, but one hit |  | Không hai đòn, chẳng ba đòn, chỉ một đòn | danh hiệu | 44 | Danh hiệu nhận được khi hạ gục quái vật chuyển chức 3 trong một đòn, tăng 20% EXP và khả năng rơi ma thạch |
+| Angel Sleeper Hold |  | Đòn Khóa Cổ Thiên Thần | kỹ năng | 44 | Đòn khóa đấu vật hài hước Erta dùng để trừng phạt Feyta |
+| Angel Cross Choke |  | Đòn Siết Cổ Chữ Thập Thiên Thần | kỹ năng | 44 | Đòn siết đấu vật hài hước Erta dùng để trừng phạt Feyta |

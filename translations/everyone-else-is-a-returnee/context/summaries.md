@@ -269,3 +269,9 @@ Nhóm HaJin chạm trán Bọ Cạp Tử Thần Khổng Lồ để lấy nọc �
 Một con troll khổng lồ bất ngờ xuất hiện vung chùy kim loại toan đập nát cả nhóm; nhận định đây chính là mục tiêu chuyển chức 3, IlHan rút Súng Bắn Cọc Tất Sát Cuồng Thiên (đã cải tạo nạp tầng 5 tự hủy, sức tấn công 6.200) ra chuẩn bị tác chiến.
 IlHan kích hoạt kỹ năng Quái Lực, đốt cháy toàn bộ năng lượng từ thịt troll đã ăn để tăng 30% chỉ số thể chất rồi dồn lực bật nhảy vút lên không trung như tàu con thoi.
 Cảnh kết thúc: Trong lúc HaJin, YuNa và Bọ Cạp Tử Thần Khổng Lồ đang hoảng loạn thét gào trước chiếc chùy của troll, Yu IlHan lao xuống từ trên đỉnh đầu quái vật và nện thẳng cây Súng Bắn Cọc tự hủy vào sọ nó với tuyên bố đòn tập kích thành công 100%.
+
+## 44
+Yu IlHan dùng Súng Bắn Cọc Tất Sát Cuồng Thiên nhất kích tất sát Thủ Lĩnh Troll Cao Nguyên Lv 109, hoàn thành điều kiện tập kích diệt quái chuyển chức 3 (1/1) và nhận danh hiệu 'Không hai đòn, chẳng ba đòn, chỉ một đòn' (+20% EXP và tỷ lệ rơi ma thạch).
+IlHan phối hợp cùng HaJin (dùng kỹ năng 'Truy Kích') và bùa lợi của Na YuNa hạ gục Bọ Cạp Tử Thần Khổng Lồ Lv 95; anh nhường túi nọc cho nhóm HaJin còn mình thu trọn xác thịt và giáp xác.
+Khi giải phẫu xác Thủ Lĩnh Troll Cao Nguyên, IlHan thu hoạch được viên ma thạch chuyển chức 3 hệ troll hoàn hảo để tiến hóa kỹ năng Nghỉ Ngơi, đồng thời được Na YuNa dùng ma pháp hỗ trợ hồi sức sau khi hết thời gian Quái Lực.
+Cảnh kết thúc: Kang HaJin đại diện clan ngỏ lời mời IlHan gia nhập nhưng bị anh phũ phàng từ chối do tâm lý bài xích của kẻ cô độc; sau khi tiễn hai người rời đi và xác nhận Ẩn Thân đã tái kích hoạt, IlHan hào hứng chuẩn bị tiến hóa kỹ năng Nghỉ Ngơi.

@@ -48,7 +48,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | reviewed |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | reviewed |  |
 | 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | done |  |
-| 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | todo |  |
+| 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | done |  |
 | 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | todo |  |
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | todo |  |
 | 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | todo |  |
@@ -370,6 +370,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -515,3 +516,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#43] Thuật ngữ tạo tác Mad Heaven's deathblow pile bunker → Chốt Súng Bắn Cọc Tất Sát Cuồng Thiên. (orchestrator)
 - [#43] Thuật ngữ hiện tượng tâm lý Gestalt collapse → Chốt Sự sụp đổ Gestalt. (orchestrator)
 - [#43] Cách diễn đạt câu thoại của Na YuNa (Unless he has ED) → Chốt Trừ khi anh ấy bị bất lực. (orchestrator)
+- [#44] Quái vật trùm "Highland Troll Boss" (Lv 109) — Tạm chọn: "Thủ Lĩnh Troll Cao Nguyên". Phương án khác: "Boss Troll Cao Nguyên", "Trùm Troll Cao Nguyên". Tạm dùng trong bản dịch: "Thủ Lĩnh Troll Cao Nguyên". → Chốt Thủ Lĩnh Troll Cao Nguyên. (orchestrator)
+- [#44] Kỹ năng "Chasing Strike" của Kang HaJin — Tạm chọn: "Truy Kích" (chuẩn Hán Việt ngắn gọn theo rules.md). Phương án khác: "Truy Kích Trảm", "Đòn Truy Kích". Tạm dùng trong bản dịch: "Truy Kích". → Chốt Truy Kích. (orchestrator)
+- [#44] Danh hiệu "Not two hits, nor three hits, but one hit" — Tạm chọn: "Không hai đòn, chẳng ba đòn, chỉ một đòn" (vần điệu, giữ chất hài hước và khớp phong cách danh hiệu ở #14 'Một đòn cho ta, một đòn cho ngươi!'). Phương án khác: "Không phải hai đòn, chẳng phải ba đòn, mà là một đòn". Tạm dùng trong bản dịch: "Không hai đòn, chẳng ba đòn, chỉ một đòn". → Chốt Không hai đòn, chẳng ba đòn, chỉ một đòn. (orchestrator)
+- [#44] Đòn đấu vật hài hước Erta dùng với Feyta "Angel Sleeper Hold" và "Angel Cross Choke" — Tạm chọn: "Đòn Khóa Cổ Thiên Thần" và "Đòn Siết Cổ Chữ Thập Thiên Thần". Phương án khác: "Thiên Thần Tỏa Họng" và "Thiên Thần Thập Tự Tỏa". Tạm dùng trong bản dịch: "Đòn Khóa Cổ Thiên Thần" và "Đòn Siết Cổ Chữ Thập Thiên Thần". → Chốt Đòn Khóa Cổ Thiên Thần và Đòn Siết Cổ Chữ Thập Thiên Thần. (orchestrator)
