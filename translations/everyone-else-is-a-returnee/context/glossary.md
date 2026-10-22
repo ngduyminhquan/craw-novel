@@ -26,3 +26,5 @@
 | 2nd advancement |  | Chuyển chức lần 2 | hệ thống | 6 | Mốc lv 50 |
 | 3rd advancement |  | Chuyển chức lần 3 | hệ thống | 6 | Mốc lv 100 |
 | Sungdaein Bolt | SungDaein Bolt | Sungdaein Bolt | khác | 9 | Biệt danh người ngoài đặt cho IlHan tại ĐH Sungkyunkwan |
+| Low-class monster | Low class monster | Quái vật cấp thấp | khác | 2 | Quái vật thông thường, có thể tiêu diệt bằng vũ khí thông thường |
+| High-class monster | High class monster | Quái vật cấp cao | khác | 2 | Quái vật cấu thành từ hệ thống năng lượng bậc cao, cần mana để tiêu diệt |

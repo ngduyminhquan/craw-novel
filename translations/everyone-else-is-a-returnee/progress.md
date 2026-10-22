@@ -6,7 +6,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | # | Chương truyện | File raw | Tiêu đề | Trạng thái | Ghi chú |
 |---|---|---|---|---|---|
 | 1 |  | Chapter_001 - Prologue.txt | Prologue | done |  |
-| 2 |  | Chapter_002 - I Live Alone (1).txt | I Live Alone (1) | todo |  |
+| 2 |  | Chapter_002 - I Live Alone (1).txt | I Live Alone (1) | done |  |
 | 3 |  | Chapter_003 - I Live Alone (2).txt | I Live Alone (2) | todo |  |
 | 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | todo |  |
 | 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | todo |  |
