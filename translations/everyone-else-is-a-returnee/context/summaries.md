@@ -328,3 +328,9 @@ Yu IlHan cắm cúi Chế Tác Mana cho Thương Gai Tuyệt Diệt bằng ma th
 Anh dùng xương sườn và da Thủ Lĩnh Troll Cao Nguyên chế tạo 'Bộ Lao Thợ Săn Rồng Bền Bỉ' (Phẩm cấp Độc Nhất, Sức tấn công 2.800) với sự trợ giúp của Erta truyền hình ảnh Long tộc vào tâm trí, sau đó chuyển sang dùng kỹ năng Nấu Nướng tinh luyện số máu troll trong xưởng thành 'thức uống máu' và phân loại riêng máu của trùm troll.
 Làm việc miệt mài suốt đêm đến rạng sáng, IlHan đồng ý đi chơi cùng cả Lita và Erta, đồng thời nghiêm giọng răn đe khiến Lita sợ hãi hối lỗi khi hai nữ thiên thần ngấm ngầm tị nạnh ganh đua nhau.
 Cảnh kết thúc: Yu IlHan nở nụ cười tươi rói tuyên bố đi chơi cùng cả hai thiên thần sẽ giúp kỹ năng 'Thiên Thần Chi Viện' tăng cấp nhanh hơn, khiến hai cô nàng câm nín trước sự thích nghi chức nghiệp theo cách ngây ngô nhưng thực dụng đến kinh ngạc của anh.
+
+## 54
+Sau Đại Tai Biến 75 ngày, chính phủ Hàn Quốc thành lập Cục Quản Lý Dị Năng phân hạng dị năng giả từ A đến F để thay thế tổ chức Trấn Áp (vốn bị người đời giễu cợt là 'Trầm Cảm' vì điều kiện kham khổ khiến ai nấy đều tháo chạy); IlHan xem TV thấy Do WooJun nhận hạng A đầu tiên của Hàn Quốc và nhắc tới Empress cùng Sungdaein Bolt.
+Biết tin cần tới 5 tháng nữa mới làm chủ được mana dẫu có hai thiên thần phụ trợ, IlHan lên kế hoạch kiếm tiền mở rộng xưởng rèn, dọn ra sống độc lập và chế tạo trang bị tốt bán ra ngoài để giảm bớt gánh nặng một mình phải gánh vác Trái Đất; trong khi đó Lita và Erta ngấm ngầm tị nạnh nhau qua vòng thiên thần.
+Để nâng cao thực lực cho các dị năng giả và giảm thiểu thương vong, IlHan quyết định hỗ trợ tổ chức Trấn Áp và gọi điện cho Empress (Kang MiRae) chào bán vũ khí cùng giáp trụ phẩm cấp Độc Nhất được tối ưu theo đặc tính của cô.
+Cảnh kết thúc: Kang MiRae lập tức đồng ý và ngỏ lời nhờ anh chuẩn bị trang bị cho cả Na YuNa lẫn anh trai cô (Kang HaJin) với bất cứ thù lao nào, khiến quy mô thương vụ bất ngờ phình to hơn nhiều so với dự tính ban đầu của IlHan.

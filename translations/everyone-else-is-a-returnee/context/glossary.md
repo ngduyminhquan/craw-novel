@@ -293,3 +293,7 @@
 | Tenacious |  | Bền Bỉ | hệ thống | 53 | Tiền tố dòng thuộc tính alpha tăng khả năng duy trì liên kết của lao và cọc trụ |
 | Dragonhunter |  | Thợ Săn Rồng | khác | 53 | Kẻ chuyên săn lùng loài rồng |
 | User Restrictions |  | Giới hạn người dùng | hệ thống | 53 | Mục hiển thị điều kiện yêu cầu để có thể sử dụng trang bị |
+| Suppression |  | Trấn Áp | tổ chức | 54 | Tổ chức dị năng giả chính quy ban đầu của chính phủ Hàn Quốc |
+| Special Ability Management Bureau |  | Cục Quản Lý Dị Năng | tổ chức | 54 | Cơ quan quản lý dị năng giả của chính phủ Hàn Quốc |
+| Korean Special Ability Management Bureau |  | Cục Quản Lý Dị Năng Hàn Quốc | tổ chức | 54 | Tên đầy đủ của Cục Quản Lý Dị Năng |
+| Dark Flame Dragon |  | Hắc Viêm Long | khác | 54 | Rồng lửa đen trong câu đùa chuunibyou của Erta |

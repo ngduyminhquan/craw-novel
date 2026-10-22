@@ -58,7 +58,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | reviewed |  |
 | 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | done |  |
 | 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | done |  |
-| 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | todo |  |
+| 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | done |  |
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | todo |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | todo |  |
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | todo |  |
@@ -549,3 +549,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#52] Dịch tên kỹ năng Angel's Protection và Angel's Support? → Chốt Thiên Thần Bảo Hộ và Thiên Thần Chi Viện theo quy tắc Hán Việt ngắn gọn. (orchestrator)
 - [#53] Dịch tên gọi blood drink trong thoại của Yu IlHan? → Chốt thức uống máu để giữ đúng phong cách đặt tên mộc mạc, hài hước của IlHan. (orchestrator)
 - [#53] Dịch thuật ngữ dragonkin phân biệt với Dragon? → Chốt dragonkin là Long tộc và Dragon là Rồng. (orchestrator)
+- [#54] Dịch tiêu đề arc I Carry (chương 54-62)? → Chốt Tôi Gánh Vác (N) (mang cả ý nghĩa gánh vác công việc trang bị cho quân đội và gánh đội). (orchestrator)
+- [#54] Dịch chơi chữ Suppression và Depression ở đoạn 79? → Chốt dịch Trấn Áp và Trầm Cảm để giữ độ tương phản hài hước với tình trạng ủ rũ của các thành viên. (orchestrator)

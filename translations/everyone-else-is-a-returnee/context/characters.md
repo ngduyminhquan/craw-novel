@@ -13,7 +13,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Kang MiRae | Kang Mirae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ thiếu úy quân đội Hàn Quốc phụ trách hiện trường quái vật | 9 |
 | God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh | 1 |
-| Do WooJun | WooJun | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
+| Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
 | Yun DaeHan |  | Yun DaeHan | Thiếu tá quân đội Hàn Quốc chỉ huy hiện trường quái vật, nhìn xa trông rộng | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
@@ -79,6 +79,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 51: Dùng Thiết Tâm và Dây Thun Khổng Lồ nâng cấp thành Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi (tầng 4 sức tấn công 5.500); chế tạo vũ khí tầm xa Atlatl Xương Nguyệt Quang Thô Ráp (sức tấn công 2.800); sửa chữa Áo Choàng Đọa Lạc Tử Thần Kín Đáo; nung chảy Lưỡi Hái Tử Thần của Reta Kar'iha và ép tàn dư hắc khí nhập vào ma thạch của cô; rèn đúc thành công phôi vũ khí Truyền Thuyết mang tên Thương Gai Tuyệt Diệt (sức tấn công 3.700, tăng 70% sát thương chí mạng) trước khi chuẩn bị Chế Tác Mana; tái ngộ Lita và Erta tại xưởng rèn.
 - Trạng thái tính đến chương 52: Nhận phần thưởng thiên giới từ Erta và Lita: Túi Đeo Chéo được nâng cấp thêm hai dòng thuộc tính 'Chống thối rữa' và 'Chuyển giao trọng lượng'; chọn chức nghiệp phụ độc nhất 'Bạn Đồng Hành Thiên Thần' thiết lập quan hệ đối tác với hai thiên thần Lita và Erta; nhận kỹ năng bị động [Thiên Thần Bảo Hộ] (giảm 30% sát thương chí mạng phải chịu, tăng 30% kháng lời nguyền và 30% thưởng nhiệm vụ), kỹ năng chủ động [Thiên Thần Chi Viện] (mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi), và tăng 30% mọi năng lực khi đối đầu Kẻ Phá Vỡ hoặc Undead.
 - Trạng thái tính đến chương 53: Dùng Chế Tác Mana nâng cấp Thương Gai Tuyệt Diệt thành Thương Gai Diệt Long Hắc Tử Thần (Phẩm cấp Truyền Thuyết, Sức tấn công 4.000); chế tạo Bộ Lao Thợ Săn Rồng Bền Bỉ (Phẩm cấp Độc Nhất, Sức tấn công 2.800) với sự trợ giúp của Erta; dùng Nấu Nướng tinh luyện máu troll thành 'thức uống máu' và phân loại riêng máu của trùm troll; chuẩn bị đi chơi cùng Lita và Erta để cày cấp kỹ năng Thiên Thần Chi Viện.
+- Trạng thái tính đến chương 54: Lên kế hoạch kiếm tiền mở rộng xưởng rèn và chuyển ra sống tự lập khỏi bố mẹ; dự định rèn vũ khí và áo giáp phẩm cấp cao bán ra thị trường nhằm nâng cao thực lực cho dị năng giả Trái Đất (đặc biệt là tổ chức Trấn Áp) để giảm bớt gánh nặng một mình phải giải quyết hiểm họa; liên lạc chào bán trang bị phẩm cấp Độc Nhất cho Kang MiRae và nhận đơn đặt hàng cho cả bộ ba gồm MiRae, HaJin và YuNa.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -112,6 +113,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 27: Đổi sang đeo mặt nạ kim loại che từ mũi lên trán; thi triển kỹ năng ma pháp cấp cao 'Tam Lôi' (Triple Lightning) đánh gục báo đen; bàng hoàng trước khả năng bắn súng và nhìn thấu Ẩn Thân của IlHan.
 - Trạng thái tính đến chương 28: Cùng Yu IlHan lập tổ đội nhận gần 1,5 triệu EXP; biết tên thật của IlHan và xin số điện thoại liên lạc riêng; chủ động rút lại lời mời lập đội vì mặc cảm chênh lệch thực lực quá lớn làm tổn thương lòng tự trọng, quyết tâm rèn luyện để bắt kịp anh trong tương lai.
 - Trạng thái tính đến chương 50: Đón Kang HaJin và Na YuNa tại sân bay Incheon; nhận nọc độc bọ cạp để hoàn thành đủ điều kiện chuyển chức lần 2; nghe Na YuNa kể về Yu IlHan và nảy sinh lòng hiếu thắng muốn vượt qua anh.
+- Trạng thái tính đến chương 54: Nhận cuộc gọi bất ngờ từ Yu IlHan đề nghị bán vũ khí và áo giáp phẩm cấp Độc Nhất được tối ưu theo đặc tính của cô; lập tức đồng ý và đề nghị đặt thêm trọn bộ trang bị cho Na YuNa và anh trai Kang HaJin.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -131,6 +133,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Do WooJun
 - Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.
 - Tính cách: Nhiệt huyết, tự tin, mang tinh thần cạnh tranh và khát khao trở thành kẻ mạnh nhất theo Hồ Sơ Akashic; nói năng có phần ngây ngô theo đuổi lý tưởng sức mạnh.
+- Trạng thái tính đến chương 54: Hoàn tất chuyển chức lần 2, trở thành người đầu tiên đạt xếp hạng A tại Cục Quản Lý Dị Năng Hàn Quốc; trả lời phỏng vấn trên TV thừa nhận bản thân vẫn xếp sau Empress và Sungdaein Bolt.
 
 ### Yun DaeHan
 - Giới tính, vai trò: Thiếu tá quân đội Hàn Quốc chỉ huy lực lượng tác chiến hiện trường. Từng trải qua 10 năm ở thế giới khác.
