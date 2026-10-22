@@ -98,3 +98,7 @@
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
+| Heavenly Quest |  | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
+| Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
+| Republic of Korea |  | Hàn Quốc / Đại Hàn Dân Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
+| Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |

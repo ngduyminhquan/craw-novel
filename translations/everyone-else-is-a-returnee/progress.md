@@ -20,7 +20,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | reviewed |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | reviewed |  |
 | 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | reviewed |  |
-| 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | todo |  |
+| 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | done |  |
 | 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | todo |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | todo |  |
 | 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | todo |  |
@@ -426,3 +426,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#15 đoạn 55] Cấu trúc câu đối tượng tiếp cận → Chấp nhận sửa làm rõ chính phủ là bên liên quan trong chuyện cũ, chỉ có thiếu tá tiếp cận IlHan (orchestrator)
 - [#15 đoạn 80] Từ "self-depreciation" → Chấp nhận sửa thành "cái thói tự hạ thấp mình" (orchestrator)
 - [#15 đoạn 92] Cụm "The same text" → Chấp nhận sửa thành "Cùng một dòng chữ" (orchestrator)
+- [#16] Thuật ngữ "Eternal Flame" (ngọn lửa sống bất diệt từ thiên giới, phần thưởng cho IlHan) — Tạm chọn: "Ngọn Lửa Vĩnh Cửu". Phương án khác: "Vĩnh Hằng Chi Hỏa", "Hỏa Vĩnh Cửu". Tạm dùng trong bản dịch: "Ngọn Lửa Vĩnh Cửu". → Chốt 'Ngọn Lửa Vĩnh Cửu' (orchestrator)
+- [#16] Thuật ngữ "Heavenly Quest" (nhiệm vụ từ thiên giới giao cho Kẻ Hành Quyết) — Tạm chọn: "Nhiệm Vụ Thiên Giới". Phương án khác: "Thiên Vụ", "Nhiệm Vụ Thiên Đàng". Tạm dùng trong bản dịch: "Nhiệm Vụ Thiên Giới". → Chốt 'Nhiệm Vụ Thiên Giới' (orchestrator)

@@ -31,6 +31,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 13: Đạt cấp độ 18 sau khi chuyển chức lần 1; nhận chức nghiệp Độc Nhất "Thương Thủ Mờ Nhạt" (Blurred Lancer), mở khóa hiệu ứng tăng 10% sức tấn công khi ẩn thân và 10% uy lực thương thuật, nới lỏng điều kiện tiến hóa kỹ năng; chính thức bắt đầu nhiệm vụ Kẻ Hành Quyết truy quét quái vật, hướng về ga Gireum săn quái vật gấu.
 - Trạng thái tính đến chương 14: Đạt cấp độ 23 sau khi một mình kết liễu Gấu Lớn Nâu Lv 54 (quái vật chuyển chức lần 2) chỉ bằng 3 đòn thương; nhận danh hiệu "Một đòn cho ta, một đòn cho ngươi!" (+10% tỷ lệ chí mạng) và mở khóa Kỹ năng Chí Mạng; nhận thêm biệt danh "Người Áo Đen" từ quân đội.
 - Trạng thái tính đến chương 15: Đạt cấp độ 24 sau khi tiêu diệt thêm 3 đàn quái vật nhờ hợp tác thông tin với thiếu tá Yun DaeHan; tích lũy gần 1 tỷ won tiền mặt chuẩn bị lập xưởng chế tác; lại tiếp tục trở thành kẻ cô độc khi toàn bộ nhân loại được kết nối trở lại thế giới khác.
+- Trạng thái tính đến chương 16: Hoàn thành Nhiệm Vụ Thiên Giới 001, tăng 1 điểm toàn bộ chỉ số; nhận phần thưởng đặc biệt là Ngọn Lửa Vĩnh Cửu từ thiên giới (do Lita kiên quyết đòi cho anh); mua một nhà kho làm xưởng chế tác riêng và nhận nhiệm vụ thiết lập hầm ngục trên Trái Đất.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -39,7 +40,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ / Trạng thái tính đến chương 5: Yêu IlHan sâu sắc; bị triệu hồi về thiên giới khi Trái Đất phục hồi thời gian, mang theo thanh kiếm kỷ niệm rác rưởi của IlHan và tiếc nuối vì chưa kịp hôn anh; luôn hy vọng và cầu nguyện sớm gặp lại anh.
 
 ### Erta
-- Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu Yu IlHan.
+- Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
 - Tính cách: Nghiêm túc, nguyên tắc, tính toán lý trí, dễ nổi cáu nhưng rất có trách nhiệm. Thường xuyên rơi vào trạng thái câm nín hoặc bất lực trước sức mạnh và những hành động quái đản ngoài dự đoán của IlHan.
 - Cách nói chuyện: Trịnh trọng, bài bản, đôi khi cáu bẳn và mỉa mai nhẹ.
 

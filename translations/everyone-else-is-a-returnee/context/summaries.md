@@ -95,4 +95,11 @@ Thiếu tá Yun DaeHan — một chỉ huy sáng suốt nhận thức rõ sức 
 Nhờ Erta hứa hỗ trợ ma pháp xóa ký ức người ký hợp đồng để tránh bị truy vết dòng tiền, IlHan phấn khởi lên kế hoạch mở một xưởng chế tác trang bị riêng; tuy nhiên sáng hôm sau, thông báo chấn động bất ngờ xuất hiện khôi phục kết nối đưa nhân loại trở lại thế giới khác làm nhiệm vụ.
 Cảnh kết thúc: Toàn bộ nhân loại được quay về thế giới họ từng chuyển sinh, và Yu IlHan một lần nữa lại trở thành kẻ duy nhất bị bỏ lại cô độc trên Trái Đất.
 
+## 16
+Yu IlHan phẫn nộ chất vấn Erta vì bị bỏ lại Trái Đất trong khi nhân loại được kết nối sang thế giới khác làm nhiệm vụ; các quốc gia ban bố tình trạng khẩn cấp tạm ngừng sinh hoạt để quân đội quét sạch quái vật.
+Trước khi bố mẹ trở lại thế giới khác, mẹ IlHan bất ngờ nhận ra anh chính là người đeo mặt nạ săn quái (tình mẫu tử vượt qua cả Ẩn Thân) và căn dặn anh phải đề phòng lòng dạ con người.
+IlHan dùng tiền mua đứt nhà kho làm xưởng chế tác, tự tay sơ chế da và xương quái vật; Erta trở về trong vóc dáng thiếu nữ xinh đẹp bình thường (trước đó dùng ma pháp thu nhỏ) để trao thưởng hoàn thành Nhiệm Vụ Thiên Giới 001.
+Nhờ hoàn thành phần lớn nhiệm vụ và được Lita kiên quyết đòi quyền lợi, IlHan tăng 1 điểm mọi chỉ số và nhận được Ngọn Lửa Vĩnh Cửu — ngọn lửa sống bất diệt từ thiên giới hỗ trợ đắc lực cho việc rèn đúc.
+Cảnh kết thúc: Erta hào hứng thông báo nhiệm vụ thứ hai mà thiên giới chuẩn bị riêng cho IlHan: anh sẽ phải tự tay thiết lập các hầm ngục trên Trái Đất.
+
 
