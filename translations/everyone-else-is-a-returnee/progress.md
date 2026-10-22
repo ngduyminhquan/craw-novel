@@ -40,7 +40,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | reviewed |  |
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | done |  |
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | done |  |
-| 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | todo |  |
+| 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | done |  |
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | todo |  |
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | todo |  |
 | 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | todo |  |
@@ -484,3 +484,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#35] Tên vũ khí mới "Deathgod's black spear" — Tạm chọn: "Hắc Thương Tử Thần" (ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm, dịch súc tích theo Hán Việt: Hắc = đen, Thương = ngọn thương, Tử Thần = Deathgod). Phương án khác: "Ngọn Thương Đen Của Tử Thần", "Hắc Tử Thần Thương". Tạm dùng trong bản dịch: "Hắc Thương Tử Thần". → Chốt Hắc Thương Tử Thần cho Deathgod's black spear. (orchestrator)
 - [#35] Tên quái vật biến dị "Flame Lizard" / "Flame Lizards" — Tạm chọn: "Thằn Lằn Lửa" (quái vật chuyển chức lần 2 biến dị phun lửa). Phương án khác: "Hỏa Thằn Lằn", "Liệt Hỏa Thằn Lằn". Tạm dùng trong bản dịch: "Thằn Lằn Lửa". → Chốt Thằn Lằn Lửa cho Flame Lizard. (orchestrator)
 - [#35] Danh xưng / khái niệm "Deathgod" — Tạm chọn: "Tử Thần". Phương án khác: "Thần Chết". Tạm dùng trong bản dịch: "Tử Thần". → Chốt Tử Thần cho Deathgod. (orchestrator)
+- [#36] Dòng thuộc tính và tên vũ khí mới Flashing Insane Pile bunker → Chốt Súng Bắn Cọc Thiểm Quang Cuồng Loạn (Flashing -> Thiểm Quang, Insane -> Cuồng Loạn). (orchestrator)
+- [#36] Xưng hô giữa hai nhân vật dị năng giả người Hàn HaJin và YuNa → Chốt HaJin gọi YuNa là cô / YuNa, xưng tôi; YuNa gọi HaJin là anh / HaJin, xưng tôi. (orchestrator)

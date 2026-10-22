@@ -19,6 +19,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
 | Shiota | Shiuta | Shiota | Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt cùng nhóm Erta | 30 |
+| HaJin | Ha Jin | HaJin | Nam dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
+| YuNa | Yu Na | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 
 ## Chi tiết
 
@@ -56,6 +58,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 33: Dùng tim Thiết Tâm và Đại Thiết Tâm (Kim Loại Lõi) chế tạo thành công Đại Khải Đen, thương kim loại, đại kiếm, chiến búa và gần 100 viên đạn cọc xương trước khi thiên thần thu hồi dụng cụ rèn; đem toàn bộ vũ khí cũ và thương thép cho Ngọn Lửa Vĩnh Cửu nuốt trọn để thăng cấp lửa; tặng bố mẹ hai áo giáp phòng hộ mỏng làm từ tim Đại Thiết Tâm; quyết định từ bỏ đại học để tập trung chuyển chức lần 2; rèn ra trang bị phá vỡ tiền lệ mở khóa tới 3 dòng thuộc tính cùng lúc.
 - Trạng thái tính đến chương 34: Hoàn thành Nhiệm Vụ Thiên Giới 002 (toàn bộ chỉ số tăng 5 điểm); xưởng rèn được nâng cấp với dàn dụng cụ đúc bằng kim loại tương lai của Trái Đất có thể gia công Harkanium; học được kỹ năng Kháng Độc Cực Hạn (có thể phớt lờ độc tố của quái vật chuyển chức lần 4); nhận thông tin hầm ngục Troll tại bang Arizona (Mỹ); dùng Ẩn Thân đi lậu vé máy bay đến Los Angeles và chạm trán thảm họa Hiện Tượng Tràn đầu tiên bùng nổ trên Trái Đất.
 - Trạng thái tính đến chương 35: Nhận nhiệm vụ giải quyết Hiện Tượng Tràn từ thiên giới; sử dụng vũ khí mới Hắc Thương Tử Thần (Phẩm cấp Độc Nhất, Sức tấn công 2.400, tăng 30% tỷ lệ và sát thương chí mạng khi tấn công bất ngờ) phối hợp Đại Khải Đen nhất kích tất sát Thằn Lằn Lửa Lv 62; thử nghiệm thành công khả năng miễn nhiễm hỏa lực từ quái vật chuyển chức 2 của bộ giáp; bắt đầu càn quét Hiện Tượng Tràn tại sân bay Los Angeles.
+- Trạng thái tính đến chương 36: Đạt cấp độ 45; nâng cấp Súng Bắn Cọc bằng Thiết Tâm thành 'Súng Bắn Cọc Thiểm Quang Cuồng Loạn' (Phẩm cấp Độc Nhất, Sức tấn công cấp 1–4 từ 1.400 đến 4.500, tăng 20% tốc độ nạp/tốc độ tấn công và 20% sức tấn công); tận dụng phản lực phát nổ của khối đá để áp sát và bắn thẳng cọc xuyên đầu thủ lĩnh Thằn Lằn Lửa tại Hiện Tượng Tràn Los Angeles.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -106,3 +109,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Shiota
 - Giới tính, vai trò: Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt trên Trái Đất cùng nhóm Erta.
 - Tính cách: Hơi ghen tị với năng lực phi thường của Yu IlHan và hay cằn nhằn về những biến cố bất ngờ trên Trái Đất, bị Erta dùng uy lực răn đe.
+
+### HaJin
+- Giới tính, vai trò: Nam dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
+- Tính cách: Điềm tĩnh, nhắc nhở đồng đội giữ bình tĩnh giữa chiến trường hỗn loạn.
+
+### YuNa
+- Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
+- Tính cách: Hoạt bát, dễ phấn khích trước những món trang bị ngầu và đẹp mắt.

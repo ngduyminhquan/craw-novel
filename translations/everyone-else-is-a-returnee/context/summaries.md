@@ -217,6 +217,13 @@ Yu IlHan xuất trận với bộ trang bị mới, rút ngọn 'Hắc Thương 
 Anh thử nghiệm phòng thủ của bộ giáp bằng cách đứng yên đỡ trọn đòn phun lửa của quái vật mà không hề hấn gì, sau đó từ chối ma pháp bảo vệ của một nam pháp sư để lao vào chiến trường giải cứu một nữ kiếm sĩ và tiêu diệt thêm Thằn Lằn Lửa.
 Cảnh kết thúc: Bị Erta cà khịa vì tiếng thét "Cứ nhào hết vào đây!" chẳng thu hút được sự chú ý của quái vật do thiếu mana, Yu IlHan quyết tâm đòi hỏi một kỹ năng tiếng thét xung trận và bắt đầu dịch vụ "giao hàng tử thần" càn quét chiến trường.
 
+## 36
+Yu IlHan càn quét bầy Thằn Lằn Lửa tại sân bay Los Angeles, thu gom xác vào Túi Đeo Chéo và thăng lên cấp 45; Erta nhắc nhở anh cần tìm diệt thủ lĩnh đang thao túng biến đổi môi trường thay vì tốn công diệt quái tép riu.
+Anh bật nhảy lên không trung phát hiện đầu nguồn biến đổi môi trường; khi một mảng tòa nhà khổng lồ mang năng lượng nổ bị ném tới, IlHan tóm quái vật ném ngược lại kích nổ dọn sạch đường đi giữa sự sững sờ của các dị năng giả.
+Tiến vào trung tâm, IlHan chạm trán thủ lĩnh Thằn Lằn Lửa khổng lồ cao 3m cùng 5 quái hộ vệ mặc giáp vũ trang, đồng thời bắt gặp nhóm dị năng giả trong đó có hai người Hàn (HaJin và YuNa).
+Tên đầu lĩnh kích hoạt cột đá sắc nhọn trồi lên phát nổ dưới chân IlHan; anh bình thản tận dụng xung lực vụ nổ để lao vút tới, rút vũ khí 'Súng Bắn Cọc Thiểm Quang Cuồng Loạn' nạp cấp 4 áp sát đối phương.
+Cảnh kết thúc: Trước ánh mắt kinh ngạc tột độ của nhóm dị năng giả khi chứng kiến thứ vũ khí kỳ quái vượt ngoài hiểu biết, Yu IlHan lạnh lùng bóp cò giáng thẳng mũi cọc vào đầu tên đầu lĩnh.
+
 
 
 

@@ -209,3 +209,6 @@
 | Deathgod |  | Tử Thần | khác | 35 | Khái niệm/hình tượng thần chết tước đoạt sinh mệnh từ bóng tối |
 | Deathgod's black spear |  | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
 | Flame Lizard | Flame Lizards | Thằn Lằn Lửa | quái vật | 35 | Quái vật biến dị chuyển chức lần 2 xuất hiện trong Hiện Tượng Tràn tại Los Angeles |
+| Flashing |  | Thiểm Quang | hệ thống | 36 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
+| Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công |
+| Flashing Insane Pile bunker |  | Súng Bắn Cọc Thiểm Quang Cuồng Loạn | vật phẩm | 36 | Vũ khí Súng Bắn Cọc cải tiến bằng kim loại Thiết Tâm, sở hữu 2 dòng thuộc tính Thiểm Quang và Cuồng Loạn |

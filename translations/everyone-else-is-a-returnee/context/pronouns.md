@@ -20,6 +20,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ahata | Ahata | 18 | Thiên thần hỗ trợ Erta |
 | Fred | Fred | 27 | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae |
 | Shiota | Shiota | 30 | Thiên thần hỗ trợ Erta |
+| HaJin | cậu / HaJin | 36 | Nam dị năng giả người Hàn tại sân bay LA |
+| YuNa | cô / YuNa | 36 | Nữ dị năng giả người Hàn tại sân bay LA |
 
 ## Giữa các nhân vật
 
@@ -55,3 +57,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Fred | Empress | tôi | tiểu thư / cô Kang | 27 | Cận vệ xưng hô với chủ nhân |
 | Erta | Shiota | tôi | cậu / Shiota | 30 | Đồng nghiệp thiên thần |
 | Shiota | Erta | tôi | Erta / cô | 30 | Đồng nghiệp thiên thần |
+| HaJin | YuNa | tôi | cô / YuNa | 36 | Đồng đội cùng nhóm dị năng giả |
+| YuNa | HaJin | tôi | anh / HaJin | 36 | Đồng đội cùng nhóm dị năng giả |
