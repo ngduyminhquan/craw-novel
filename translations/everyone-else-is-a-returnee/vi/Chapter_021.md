@@ -84,15 +84,15 @@ Lời cô còn chưa dứt, ngọn thương anh đang vung bỗng nảy ngược
 
 Cảnh tượng ấy trông như thể chúng đang tự chuyển động bằng ý thức của riêng mình.
 
-Chứng kiến cảnh tượng khiến Yu IlHan phải tái mặt sợ hãi — bởi cho đến tận bây giờ, anh chưa từng đụng độ con quái vật nào vượt khỏi hình dáng một "loài thú", dẫu chúng có to lớn hay cứng cáp đến mức phi lý chăng nữa — Erta liền rít lên từng chữ như đang nuốt trôi cơn giận:
+Chứng kiến cảnh tượng khiến Yu IlHan phải tái mặt sợ hãi — bởi cho đến tận bây giờ, anh chưa từng đụng độ con quái vật nào vượt khỏi hình dáng một 'loài thú', dẫu chúng có to lớn hay cứng cáp đến mức phi lý chăng nữa — Erta liền rít lên từng chữ như đang nuốt trôi cơn giận:
 
 [Nó đang đột biến! Nó sắp tiến hóa thành quái vật cấp cao thực sự đấy!]
 
 "Mẹ kiếp!"
 
-Những sợi cơ bắp túa ra từ vết thương đồng loạt lao vào tấn công Yu IlHan. Vừa né tránh với gương mặt tái mét, anh vừa vung thương chém tới tấp, nhưng những sợi cơ bắp ấy lại đuổi theo anh một cách nhanh nhẹn đến phát bực, trông chẳng khác nào cái "thứ đó" của một con báo.
+Những sợi cơ bắp túa ra từ vết thương đồng loạt lao vào tấn công Yu IlHan. Vừa né tránh với gương mặt tái mét, anh vừa vung thương chém tới tấp, nhưng những sợi cơ bắp ấy lại đuổi theo anh một cách nhanh nhẹn đến phát bực, trông chẳng khác nào cái 'thứ đó' của một con báo.
 
-Anh hoàn toàn có thể chém đứt chúng nếu dùng cả hai tay vung thương hết bình sinh, nhưng "chúng" cứ liên tục trào ra bất tận từ miệng vết thương rồi lao vào Yu IlHan. Đứng vững trên đỉnh đầu con báo trong khi vung thương tứ phía, anh dũng cảm gào lên:
+Anh hoàn toàn có thể chém đứt chúng nếu dùng cả hai tay vung thương hết bình sinh, nhưng 'chúng' cứ liên tục trào ra bất tận từ miệng vết thương rồi lao vào Yu IlHan. Đứng vững trên đỉnh đầu con báo trong khi vung thương tứ phía, anh dũng cảm gào lên:
 
 "Cút mẹ mày đi, con quái vật dở hơi này! Muốn quay phim xúc tu thì đi mà tìm nữ cung thủ elf hay nàng công chúa hiệp sĩ nào ấy, tìm tao làm quái gì!"
 

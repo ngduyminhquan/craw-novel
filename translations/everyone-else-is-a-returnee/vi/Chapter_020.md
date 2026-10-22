@@ -54,7 +54,7 @@ Và ngay trong thời khắc hiểm nguy này, những người lính đang đ�
 
 "Chúng tôi biết đây là khu dân cư đông đúc rồi! Nhưng phải dùng tên lửa thôi, không thì cứ đà này Nhà Xanh sẽ bị xuyên thủng mất, là Nhà Xanh đấy!"
 
-Cho đến tận lúc này Yu IlHan vẫn chẳng mấy tin tưởng vào những người bạn hùng mạnh ấy, nhưng anh không khỏi kinh ngạc khi thấy ngay cả các sĩ quan cấp tá cũng trực tiếp có mặt nơi tiền tuyến. Dù vậy, cũng có thể tình hình thực tế còn nghiêm trọng hơn nhiều so với những gì anh tưởng tượng.
+Cho đến tận lúc này Yu IlHan vẫn chẳng mấy tin tưởng vào những anh bạn quân đội mạnh mẽ ấy, nhưng anh không khỏi kinh ngạc khi thấy ngay cả các sĩ quan cấp tá cũng trực tiếp có mặt nơi tiền tuyến. Dù vậy, cũng có thể tình hình thực tế còn nghiêm trọng hơn nhiều so với những gì anh tưởng tượng.
 
 "Nó tới kìa, nó đang lao về phía này!"
 

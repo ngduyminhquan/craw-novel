@@ -30,7 +30,7 @@ Bên cạnh Yu IlHan — người vẫn đang chết lặng khi chứng kiến n
 
 Các thiên thần khác nhìn cuộc trò chuyện giữa Yu IlHan và Erta bằng ánh mắt kỳ quặc. 'Hai người thân thiết từ bao giờ thế?' — dường như đọc được câu hỏi trong ánh mắt của họ, cả hai ngượng ngùng quay mặt sang hướng khác.
 
-Lũ quái vật — vốn tích lũy sức mạnh để báo thù sau khi chịu đựng suốt một nghìn năm trong thế giới ngưng đọng thời gian — nay lại thật vô ích khi tự dùng chính đôi chân của mình mò mẫm bước vào con đường diệt vong.
+Lũ quái vật — vốn tích lũy sức mạnh để báo thù sau khi chịu đựng suốt một nghìn năm trong thế giới ngưng đọng thời gian — nay lại uổng công vô ích khi tự dùng chính đôi chân của mình mò mẫm bước vào con đường diệt vong.
 
 Cho đến ngày hầm ngục được con người khai mở, chúng sẽ mãi mãi bị giam hãm trong ngục tù tăm tối ấy.
 
@@ -50,9 +50,9 @@ Yu IlHan nhớ về cuộc đời một nghìn năm của mình. Anh nghĩ đế
 
 Anh nhớ lại rằng mọi nỗi đau đớn và thống khổ của mình chỉ được gói gọn trong vỏn vẹn một từ — 'sai sót'.
 
-Khoảnh khắc ấy, một cảm xúc trào dâng nơi lồng ngực anh. Những cảm xúc bấy lâu nay anh cố tình che giấu bằng những hành động tấu hài và suy nghĩ lạc quan để duy trì nhân tính suốt bao năm tháng đằng đẵng bỗng chốc trồi lên mặt nước, khiến cõi lòng anh chấn động dữ dội.
+Khoảnh khắc ấy, một cảm xúc trào dâng nơi lồng ngực anh. Những cảm xúc bấy lâu nay anh cố tình che giấu bằng những hành động tấu hài và suy nghĩ lạc quan để duy trì nhân tính suốt bao năm tháng đằng đẵng bỗng chốc trỗi dậy, khiến cõi lòng anh chấn động dữ dội.
 
-'Mình muốn trở nên mạnh mẽ. Mình muốn mạnh đến mức không ai có thể sai bảo hay định đoạt số phận của mình nữa.' Đó không phải là để gặp gỡ một ai đó, dẫm đạp lên ai đó, hay chỉ để sinh tồn qua ngày đoạn tháng.
+'Mình muốn trở nên mạnh mẽ. Mình muốn mạnh đến mức không ai có thể sai bảo hay định đoạt số phận của mình nữa.' Đó không phải là để gặp gỡ một ai đó, giẫm đạp lên ai đó, hay chỉ để sinh tồn qua ngày đoạn tháng.
 
 Anh khao khát trở nên mạnh mẽ chỉ vì tự do của chính mình.
 
@@ -212,7 +212,7 @@ Chẳng có lấy một tia ngượng ngùng trong câu trả lời của Yu IlH
 
 Bộ giáp hoàn thiện thực sự vô cùng hoàn mỹ. Nó không chỉ làm tròn bổn phận của một bộ giáp hộ thân, mà còn sở hữu năng lực tấn công được tối ưu hóa cho Yu IlHan — người có thể chiến đấu bằng toàn bộ thân thể mình. Chưa kể, nó còn được cường hóa bởi cả hai dòng thuộc tính alpha và beta. Nếu ai đó nhìn vào, họ có thể nghĩ rằng việc xuất hiện dòng thuộc tính là lẽ đương nhiên sau khi chế tác mana. Cho dù sự thật khác xa như trời với đất!
 
-Sau khi mài sắc số xương còn lại để làm vài con dao xương phục vụ cho việc giải phẫu, cuối cùng anh dùng hộp sọ của Sói Bạo Tàn chế tạo một chiếc mặt nạ để thay thế cho mặt nạ Người Sắt, cảm thấy khoan khoái sảng khoái như thể vừa dọn dẹp xong đống việc vặt chất đống bấy lâu.
+Sau khi mài sắc số xương còn lại để làm vài con dao xương phục vụ cho việc giải phẫu, cuối cùng anh dùng hộp sọ của Sói Bạo Tàn chế tạo một chiếc mặt nạ để thay thế cho mặt nạ Người Sắt, cảm thấy sảng khoái như thể vừa dọn dẹp xong đống việc vặt chất đống bấy lâu.
 
 [Dao Xương Gấu]
 
@@ -244,7 +244,7 @@ Quả nhiên mình che mặt đi trông mới đẹp mã! Chết tiệt!
 
 "Tôi có làm gì cái mặt nạ đâu!"
 
-Trước mặt Erta — người rõ ràng biết thừa sự thật mà vẫn nói thế — Yu IlHan định bắt cô phải trả giá thì chợt nhận ra bên ngoài đang trở nên ồn ào hỗn loạn.
+Trước mặt Erta — người rõ ràng biết thừa sự thật mà vẫn nói thế — Yu IlHan định tính sổ với cô thì chợt nhận ra bên ngoài đang trở nên ồn ào hỗn loạn.
 
 Tiếng đổ vỡ, tiếng của hàng trăm hàng ngàn phát đạn, tiếng la hét và gào thét... Huyên náo đến mức khiến người ta phải tự hỏi liệu có phải tất cả các bộ phim hành động trên thế giới đang được bật cùng một lúc hay không.
 

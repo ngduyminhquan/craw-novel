@@ -39,3 +39,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#12) Bỏ các cụm quy đổi tiền tệ sang USD kẹp trong ngoặc đơn sau số tiền won (vd `(322,561 USD)`), vì đây là ghi chú quy đổi tỷ giá của translator bản tiếng Anh.
 - Link điều hướng bỏ qua các chương `skip` trong progress.md: chương #289 trỏ tới #293 và ngược lại (#290–#292 là bản trùng).
 - (#1) Ba dòng chú giải ký hiệu ở đầu raw chương 1 đã được thêm vào `raw_ignore_lines` trong `novel.json`.
+- (#20) Cụm từ `strong friends` trong raw EN (khẩu hiệu `강한 친구` của Lục quân Hàn Quốc) dịch thoát ý thành `những anh bạn quân đội mạnh mẽ` hoặc `quân đội` để rõ nghĩa.

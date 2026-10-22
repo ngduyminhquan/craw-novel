@@ -23,9 +23,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | reviewed |  |
 | 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | reviewed |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | reviewed |  |
-| 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | done |  |
-| 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | done |  |
-| 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | done |  |
+| 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | reviewed |  |
+| 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | reviewed |  |
+| 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | reviewed |  |
 | 22 |  | Chapter_022 - You Want to Hunt With Me!_ (3).txt | You Want to Hunt With Me!_ (3) | todo |  |
 | 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | todo |  |
 | 24 |  | Chapter_024 - You Want to Hunt With Me!_ (5).txt | You Want to Hunt With Me!_ (5) | todo |  |
@@ -438,3 +438,12 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#21] Thuật ngữ bùa lợi ma pháp "Thunder Spirit" của Empress — Tạm chọn: "Lôi Linh". Phương án khác: "Lôi Tinh", "Linh Hồn Sấm Sét". Tạm dùng trong bản dịch: "Lôi Linh". → Chốt 'Lôi Linh' (orchestrator)
 - [#21] Hiệu ứng kích hoạt đòn đánh "Lightning Additional Hit" từ bùa lợi — Tạm chọn: "Đòn Đánh Phụ Lôi Thuộc Tính". Phương án khác: "Lôi Kích Bổ Sung", "Đòn Đánh Phụ Sét". Tạm dùng trong bản dịch: "Đòn Đánh Phụ Lôi Thuộc Tính". → Chốt 'Đòn Đánh Phụ Lôi Thuộc Tính' (orchestrator)
 - [#21] Tên loài quái vật "Giant Leopard" (Lv 87) — Tạm chọn: "Báo Khổng Lồ". Phương án khác: "Đại Báo", "Cự Báo". Tạm dùng trong bản dịch: "Báo Khổng Lồ". → Chốt 'Báo Khổng Lồ' (orchestrator)
+- [#19 đoạn 16] Cụm từ "thật vô ích" → Chấp nhận sửa thành "uổng công vô ích" (orchestrator)
+- [#19 đoạn 26] Dịch thuật "came up to the surface" → Chấp nhận sửa thành "trỗi dậy" (orchestrator)
+- [#19 đoạn 27] Chính tả "dẫm đạp" → Chấp nhận sửa thành "giẫm đạp" (orchestrator)
+- [#19 đoạn 107] Lặp từ "khoan khoái sảng khoái" → Chấp nhận sửa thành "sảng khoái" (orchestrator)
+- [#19 đoạn 123] Văn phong "tried to make her pay" → Chấp nhận sửa thành "định tính sổ với cô" (orchestrator)
+- [#20 đoạn 28] Ngữ nghĩa "the strong friends" → Chấp nhận sửa thành "những anh bạn quân đội mạnh mẽ ấy" (orchestrator)
+- [#21 đoạn 43, 46, 47] Định dạng ngoặc đơn nhấn mạnh → Chấp nhận đổi sang ngoặc đơn 'loài thú', 'thứ đó', 'chúng' (orchestrator)
+- [Context] rules.md: cụm từ `strong friends` dịch thoát ý thành `những anh bạn quân đội mạnh mẽ` hoặc `quân đội` (orchestrator)
+- [Context] glossary.md: bổ sung Knuckles (khác, chương 21); bác bổ sung `strong friends` vào glossary (orchestrator)
