@@ -378,3 +378,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#1-5] Đại từ người kể dùng cho Yu IlHan — Tạm chọn: "anh / Yu IlHan". → Chốt 'anh / Yu IlHan' (orchestrator)
 - [#1-3] Tên nữ thiên thần "Lita" / "Rita" — Tạm chốt "Lita", đưa "Rita" vào Alias. → Chốt 'Lita', đưa 'Rita' vào Alias (orchestrator)
 - [#290-292] Xác nhận bỏ qua 3 chương trùng #290, #291, #292 (trùng nội dung #287, #288, #289) — Tạm chọn: giữ nguyên `skip`. → Giữ nguyên skip cho #290, #291, #292 (orchestrator)
+- [#1-2] Định dạng link điều hướng cuối mỗi chương → Dùng `[← Chương trước](Chapter_XXX.md) | [Chương tiếp theo →](Chapter_YYY.md)` (chương 1 chỉ có `[Chương tiếp theo →](Chapter_002.md)`), đặt ở dòng cuối cùng của file chương, cách đoạn cuối một dòng trống (orchestrator)

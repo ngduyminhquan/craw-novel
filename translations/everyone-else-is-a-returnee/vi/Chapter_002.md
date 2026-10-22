@@ -287,3 +287,6 @@ Con người là sinh vật có khả năng thích nghi. Cho đến giờ anh v�
 Thế nhưng, ngay cả khi mười năm rồi hai mươi năm trôi qua, nhân loại vẫn không hề trở lại.
 
 Và khi năm mươi năm trôi qua, Yu IlHan đã thôi không còn đếm thời gian nữa.
+
+[← Chương trước](Chapter_001.md) | [Chương tiếp theo →](Chapter_003.md)
+

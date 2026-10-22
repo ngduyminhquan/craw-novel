@@ -217,3 +217,5 @@ Mười năm. Cuối cùng, anh cũng đành phải đối mặt với hiện th
 "….."
 
 Và như thế, cuộc sống đơn độc trên Trái Đất của Yu IlHan đã chính thức bắt đầu.
+
+[Chương tiếp theo →](Chapter_002.md)
