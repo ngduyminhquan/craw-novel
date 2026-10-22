@@ -7,6 +7,7 @@ LỖI (exit 1):
   - tên trong pronouns.md không khớp cột EN của characters.md
   - chương đã dịch mà summaries.md thiếu mục tóm tắt
 Cảnh báo:
+  - kỹ năng/danh hiệu/chức nghiệp để nguyên tiếng Anh mà Ghi chú không nói "giữ nguyên"
   - VI có nhiều biến thể ngăn bằng '/' (chỉ chấp nhận khi Ghi chú nói rõ dùng biến thể nào trong ngữ cảnh nào)
 """
 import argparse
@@ -15,6 +16,9 @@ import sys
 from collections import defaultdict
 
 from common import TRANSLATED, entries, load_novel, load_progress, read_text, table_with, utf8_stdout
+
+# Loại thuật ngữ mà rules.md yêu cầu dịch Hán Việt
+MUST_TRANSLATE = ("kỹ năng", "danh hiệu", "chức nghiệp", "cấp bậc")
 
 
 def lint(novel):
@@ -47,8 +51,14 @@ def lint(novel):
             errors.append(f"summaries.md thiếu mục '## {row['idx']}'")
 
     for e in entries(ctx / "glossary.md"):
-        if "/" in e["vi"] and not e["row"].get("ghi chú", "").strip():
+        note = e["row"].get("ghi chú", "").strip()
+        if "/" in e["vi"] and not note:
             warns.append(f"glossary: '{e['en']}' có nhiều bản dịch '{e['vi']}' mà không ghi khi nào dùng bản nào")
+        kind = e["row"].get("loại", "").lower()
+        if (e["vi"].lower() == e["en"].lower() and any(k in kind for k in MUST_TRANSLATE)
+                and "giữ nguyên" not in note.lower()):
+            warns.append(f"glossary: '{e['en']}' ({kind}) để nguyên tiếng Anh — rules.md yêu cầu dịch Hán Việt, "
+                         "hoặc ghi 'giữ nguyên' kèm lý do vào Ghi chú")
     return errors, warns
 
 
