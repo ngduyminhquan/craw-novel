@@ -75,8 +75,10 @@ def check(novel, row):
     all_entries = entries(ctx / "glossary.md") + entries(ctx / "characters.md")
     all_entries.sort(key=lambda e: -max(len(t) for t in [e["en"], *e["aliases"]]))
     masked = raw_text
+    raw_lower = raw_text.lower()
     for e in all_entries:
-        terms = [e["en"], *e["aliases"]]
+        # lọc nhanh bằng tìm chuỗi thường trước, regex chỉ chạy cho thuật ngữ có mặt trong chương
+        terms = [t for t in [e["en"], *e["aliases"]] if t.lower() in raw_lower]
         present = any(contains_term(masked, t) for t in terms)
         for t in terms:
             masked = term_regex(t, case_sensitive=t != t.lower()).sub(lambda m: " " * len(m.group(0)), masked)

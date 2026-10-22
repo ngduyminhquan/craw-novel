@@ -1,6 +1,7 @@
 """Hàm dùng chung cho các script của skill novel-translate (chỉ dùng thư viện chuẩn)."""
 import json
 import re
+from functools import lru_cache
 import sys
 from pathlib import Path
 
@@ -141,6 +142,7 @@ def entries(path):
     return out
 
 
+@lru_cache(maxsize=None)
 def term_regex(term, case_sensitive=False):
     flags = 0 if case_sensitive else re.IGNORECASE
     return re.compile(r"(?<![\w’'])" + re.escape(term) + r"(?![\w’'])", flags)
