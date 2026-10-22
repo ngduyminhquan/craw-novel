@@ -8,10 +8,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
-| Yu YongHan | Yun YongHan; Yun DaeHan | Yu YongHan | Cha của Yu IlHan | 6 |
+| Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
 | Empress | Hulk; Hulk mask; Kang MiRae; Kang Mirae | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Han YeoRang |  | Han YeoRang | Nữ thiếu úy quân đội Hàn Quốc phụ trách hiện trường quái vật | 9 |
 | God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh | 1 |
+| Do WooJun | WooJun | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
+| Yun DaeHan |  | Yun DaeHan | Thiếu tá quân đội Hàn Quốc chỉ huy hiện trường quái vật, nhìn xa trông rộng | 15 |
 
 ## Chi tiết
 
@@ -28,6 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 12: Bán xác bầy Chó Lang Thang cho quân đội thu về 370 triệu won tiền mặt; thu hoạch da, xương sói và hơn 20 viên ma thạch; tận dụng khe hở nhận thức bằng đèn flash điện thoại để tái kích hoạt Ẩn Thân tẩu thoát ngay trước mắt đám đông.
 - Trạng thái tính đến chương 13: Đạt cấp độ 18 sau khi chuyển chức lần 1; nhận chức nghiệp Độc Nhất "Thương Thủ Mờ Nhạt" (Blurred Lancer), mở khóa hiệu ứng tăng 10% sức tấn công khi ẩn thân và 10% uy lực thương thuật, nới lỏng điều kiện tiến hóa kỹ năng; chính thức bắt đầu nhiệm vụ Kẻ Hành Quyết truy quét quái vật, hướng về ga Gireum săn quái vật gấu.
 - Trạng thái tính đến chương 14: Đạt cấp độ 23 sau khi một mình kết liễu Gấu Lớn Nâu Lv 54 (quái vật chuyển chức lần 2) chỉ bằng 3 đòn thương; nhận danh hiệu "Một đòn cho ta, một đòn cho ngươi!" (+10% tỷ lệ chí mạng) và mở khóa Kỹ năng Chí Mạng; nhận thêm biệt danh "Người Áo Đen" từ quân đội.
+- Trạng thái tính đến chương 15: Đạt cấp độ 24 sau khi tiêu diệt thêm 3 đàn quái vật nhờ hợp tác thông tin với thiếu tá Yun DaeHan; tích lũy gần 1 tỷ won tiền mặt chuẩn bị lập xưởng chế tác; lại tiếp tục trở thành kẻ cô độc khi toàn bộ nhân loại được kết nối trở lại thế giới khác.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -56,3 +59,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
 - Tính cách: Thẳng thắn, hơi bộc trực, sợ cấp trên nhưng cũng rất cá tính; dễ ấm ức trước thái độ phũ phàng của IlHan.
 - Trạng thái tính đến chương 12: Đứng ra mua lại xác bầy Chó Lang Thang từ IlHan theo lệnh cấp trên; bất đắc dĩ phải thử dùng "mỹ nhân kế" để lôi kéo anh nhưng thất bại thảm hại.
+
+### Do WooJun
+- Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.
+- Tính cách: Nhiệt huyết, tự tin, mang tinh thần cạnh tranh và khát khao trở thành kẻ mạnh nhất theo Hồ Sơ Akashic; nói năng có phần ngây ngô theo đuổi lý tưởng sức mạnh.
+
+### Yun DaeHan
+- Giới tính, vai trò: Thiếu tá quân đội Hàn Quốc chỉ huy lực lượng tác chiến hiện trường. Từng trải qua 10 năm ở thế giới khác.
+- Tính cách: Sáng suốt, nhìn xa trông rộng, hiểu rõ sức mạnh cá nhân có thể vượt trên quân đội hay quốc gia; chủ động hợp tác và cung cấp tin tức quái vật cho IlHan thay vì cưỡng ép kiểm soát.

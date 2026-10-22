@@ -19,7 +19,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 12 |  | Chapter_012 - I Hunt Alone (3).txt | I Hunt Alone (3) | reviewed |  |
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | done |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | done |  |
-| 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | todo |  |
+| 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | done |  |
 | 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | todo |  |
 | 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | todo |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | todo |  |
@@ -413,3 +413,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#12 đoạn 79] Câu văn raw EN "Despite the thousand years of training, he couldn't be nervous in front of the enormous sum of money in front of him" có mâu thuẫn nội tại với câu trước "đôi tay anh khẽ run rẩy" và câu sau "chưa từng cướp ngân hàng" (nguyên tác tiếng Hàn là 떨지 않을 수 없었다 - không thể không hồi hộp/run rẩy). Tạm chọn: dịch thoát ý logic thành "anh làm sao có thể không run rẩy trước số tiền khổng lồ đang hiện ra trước mắt". → Chấp nhận dịch thoát ý theo logic mạch văn ('làm sao có thể không run rẩy') (orchestrator)
 - [#13] Chức nghiệp Độc Nhất "Blurred Lancer" (pun chơi chữ từ "Bl****d Lancer", IlHan tưởng nhầm là "Blood" - Huyết Thương Thủ, thực tế là "Blurred" vì độ hiện diện mờ nhạt) — Tạm chọn: "Thương Thủ Mờ Nhạt" (Lancer = "Thương Thủ"). Phương án khác: "Thương Binh Mờ Nhạt", "Hư Ảnh Thương Thủ", "Mông Lung Thương Thủ". Tạm dùng trong bản dịch: "Thương Thủ Mờ Nhạt". → Chốt 'Thương Thủ Mờ Nhạt' (Lancer = Thương Thủ) (orchestrator)
 - [#13] Tên các chức nghiệp cơ bản xuất hiện ở danh sách chuyển chức lần 1: Lancer (Thương Thủ), Grappler (Đấu Sĩ), Swordsman (Kiếm Sĩ), Blacksmith (Thợ Rèn), Shielder (Khiên Binh), Hunter (Thợ Săn), Assassin (Thích Khách) — Tạm dùng trong bản dịch theo các thuật ngữ trên. → Chốt các chức nghiệp cơ bản: Thương Thủ, Đấu Sĩ, Kiếm Sĩ, Thợ Rèn, Khiên Binh, Thợ Săn, Thích Khách (orchestrator)
+- [#15] Kỹ năng "Giantification" (kỹ năng phóng to cơ thể của Gấu Lớn Nâu) — Tạm chọn: "Khổng Hóa". Phương án khác: "Cự Đại Hóa", "Phóng To". Tạm dùng trong bản dịch: "Khổng Hóa". → Chốt 'Khổng Hóa' (orchestrator)
+- [#15] Tiêu đề "I Make Them" — Tạm chọn: "Tôi Tự Tạo Ra Chúng". Phương án khác: "Tôi Tự Chế Tạo", "Tôi Tự Làm Ra Chúng". Tạm dùng trong bản dịch: "Tôi Tự Tạo Ra Chúng". → Chốt 'Tôi Tự Tạo Ra Chúng' (orchestrator)
+- [#15] Nhân vật "Yun DaeHan" (thiếu tá quân đội Hàn Quốc chỉ huy hiện trường) — Tách khỏi alias của cha IlHan (Yu YongHan) ở chương 6 do trùng tên trong bản raw tiếng Anh. Tạm dùng: ghi nhận là nhân vật độc lập mới. → Chấp nhận tách 'Yun DaeHan' thành nhân vật độc lập (thiếu tá quân đội) (orchestrator)

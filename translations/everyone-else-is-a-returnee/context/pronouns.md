@@ -14,6 +14,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu YongHan | ông / bố anh | 6 | Bố của IlHan |
 | Empress | cô / Empress / cô gái | 7 | Nữ sinh viên mang mặt nạ Hulk |
 | Han YeoRang | cô / Han YeoRang / thiếu úy Han | 9 | Nữ sĩ quan quân đội |
+| Do WooJun | cậu / Do WooJun | 15 | Trưởng nhóm Kẻ Hành Quyết |
+| Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
 
 ## Giữa các nhân vật
 
@@ -37,3 +39,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Empress | Yu IlHan | tôi | anh | 8 | Lịch thiệp, tôn trọng năng lực |
 | Yu IlHan | Han YeoRang | tôi | cô / thiếu úy | 9 | Giao dịch hiện trường |
 | Han YeoRang | Yu IlHan | tôi | anh | 9 | Sĩ quan và dân thường / dị năng giả bí ẩn |
+| Yu IlHan | Do WooJun | tôi | cậu | 15 | Kẻ Hành Quyết đối thoại |
+| Do WooJun | Yu IlHan | tôi | cậu | 15 | Kẻ Hành Quyết đối thoại |
+| Yu IlHan | Yun DaeHan | tôi | ông / thiếu tá | 15 | Hợp tác thông tin quái vật |
+| Yun DaeHan | Yu IlHan | tôi | cậu / cậu Sungdaein Bolt | 15 | Thiếu tá quân đội và dị năng giả |

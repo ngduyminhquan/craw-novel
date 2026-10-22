@@ -89,3 +89,10 @@ Tận dụng lợi thế đánh phủ đầu của Ẩn Thân bị động và 2
 Chiến tích hạ sát quái vật bậc 2 đưa IlHan tăng vọt lên cấp 23, mang về cho anh danh hiệu mới 'Một đòn cho ta, một đòn cho ngươi!' (+10% tỷ lệ chí mạng) cùng Kỹ năng Chí Mạng.
 Cảnh kết thúc: Vừa săm soi ngọn thương lành lặn và chuẩn bị mổ xẻ thu hoạch xác gấu khổng lồ, IlHan nghe thấy tiếng hô dõng dạc của lực lượng viện binh đến muộn ngơ ngác hỏi con quái vật đâu rồi.
 
+## 15
+Sau khi hạ gục Gấu Lớn Nâu (phát hiện nó có kỹ năng Khổng Hóa), Yu IlHan chạm trán nhóm Kẻ Hành Quyết 5 người do Do WooJun dẫn đầu; trước lời thách thức cạnh tranh ngây ngô của Do WooJun, IlHan nổi cơn thịnh nộ thầm kín của một kẻ cô độc rồi lạnh lùng phớt lờ.
+Thiếu tá Yun DaeHan — một chỉ huy sáng suốt nhận thức rõ sức mạnh áp đảo của dị năng giả — chủ động đề nghị hợp tác cung cấp vị trí quái vật để giảm thiểu thiệt hại cho người dân thay vì cưỡng chế IlHan; IlHan đồng ý và quét sạch thêm 3 đàn quái vật trong ngày, thăng lên cấp 24 và thu về khoản tiền mặt khổng lồ gần 1 tỷ won từ việc bán phụ phẩm.
+Nhờ Erta hứa hỗ trợ ma pháp xóa ký ức người ký hợp đồng để tránh bị truy vết dòng tiền, IlHan phấn khởi lên kế hoạch mở một xưởng chế tác trang bị riêng; tuy nhiên sáng hôm sau, thông báo chấn động bất ngờ xuất hiện khôi phục kết nối đưa nhân loại trở lại thế giới khác làm nhiệm vụ.
+Cảnh kết thúc: Toàn bộ nhân loại được quay về thế giới họ từng chuyển sinh, và Yu IlHan một lần nữa lại trở thành kẻ duy nhất bị bỏ lại cô độc trên Trái Đất.
+
+
