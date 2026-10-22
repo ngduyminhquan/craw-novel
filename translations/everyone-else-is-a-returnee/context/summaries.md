@@ -175,6 +175,13 @@ Sửa xong bộ lao săn, IlHan vô tình làm rơi gân Báo Bóng Tối vào l
 Tận dụng lực đàn hồi này cùng xương và 7 chiếc răng nanh làm cọc đạn, IlHan chế tạo thành công vũ khí hủy diệt 'Pile Bunker Quang Tốc' (Phẩm cấp Độc Nhất, 3 cấp nạp đòn với sức tấn công từ 1.200 đến 2.900, dòng thuộc tính giảm thời gian nạp và tăng 20% tốc độ tấn công) dù việc kéo cần nạp đạn vô cùng tốn sức.
 Cảnh kết thúc: Mặc kệ Erta chê bai món vũ khí dài hơn 3 mét quá cồng kềnh và giục anh nghỉ ngơi, Yu IlHan vẫn hăng say bắt tay chế tạo thêm vũ khí đối phó quái vật cỡ nhỏ trong lúc chờ các thiên thần tới làm chiếc Bẫy Hủy Diệt thứ ba.
 
+## 30
+Yu IlHan ở lì trong xưởng hơn một tháng chế tạo được 17 chiếc Bẫy Hủy Diệt (nâng Chế Tác Mana lên cấp 24); Erta giải thích về nguy cơ 'Hiện Tượng Tràn' (mana bẫy quá tải tạo ra quái vật trùm nuốt bẫy) khiến số lượng bẫy cần làm giảm xuống, đồng thời răn đe thiên thần Shiota vì dám tỏ thái độ ghen tị với IlHan.
+Erta trao thưởng trước cho IlHan gồm thông tin về hầm ngục chứa quái vật mang kim loại mới tại Hàn Quốc và một chiếc túi da đeo chéo có ma pháp mở rộng không gian chứa được nghìn món đồ; IlHan mừng rỡ tống gần như toàn bộ trang thiết bị trong xưởng vào túi và nảy ra ý định dùng túi nặng hàng chục tấn làm vũ khí.
+Trên đường chạy đến ngọn đồi chứa hầm ngục, Erta giải thích cách quái vật ngoại lai sinh sôi trong môi trường mana thích hợp và tiết lộ muốn lấy kim loại mới thì IlHan phải moi tim quái vật trong hầm ngục chứ không phải đào khoáng.
+Cảnh kết thúc: Đứng trước hầm ngục xoáy xám có yêu cầu 'Hạn chế xâm nhập dưới Lv 50', Erta dùng quyền hạn thực thể cấp cao dỡ bỏ giới hạn giúp IlHan (Lv 36) bước vào, đánh dấu lần đầu tiên trong đời anh đối mặt với quái vật từ thế giới khác.
+
+
 
 
 

@@ -19,6 +19,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Fashta | Fashta | 18 | Thiên thần hỗ trợ Erta |
 | Ahata | Ahata | 18 | Thiên thần hỗ trợ Erta |
 | Fred | Fred | 27 | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae |
+| Shiota | Shiota | 30 | Thiên thần hỗ trợ Erta |
 
 ## Giữa các nhân vật
 
@@ -52,3 +53,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Fashta | Erta | tôi | cô / Erta | 18 | Đồng nghiệp thiên thần |
 | Empress | Fred | tôi | Fred | 27 | Chủ nhân và cận vệ/tài xế |
 | Fred | Empress | tôi | tiểu thư / cô Kang | 27 | Cận vệ xưng hô với chủ nhân |
+| Erta | Shiota | tôi | cậu / Shiota | 30 | Đồng nghiệp thiên thần |
+| Shiota | Erta | tôi | Erta / cô | 30 | Đồng nghiệp thiên thần |

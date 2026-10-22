@@ -34,7 +34,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 27 |  | Chapter_027 - Call me Ishmael (2).txt | Call me Ishmael (2) | reviewed |  |
 | 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | done |  |
 | 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | done |  |
-| 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | todo |  |
+| 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | done |  |
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | todo |  |
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | todo |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | todo |  |

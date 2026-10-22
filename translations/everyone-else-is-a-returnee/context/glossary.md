@@ -167,7 +167,11 @@
 | Shadow Leopard |  | Báo Bóng Tối | quái vật | 28 | Quái vật báo cấp 102 chuyển chức lần 3 chuyên về Ẩn Thân |
 | Poison Resistance | poison resistance | Kháng Độc | kỹ năng | 29 | Kỹ năng kháng độc cấp trung |
 | Extreme Poison Resistance | extreme poison resistance | Kháng Độc Cực Hạn | kỹ năng | 29 | Kỹ năng kháng độc cấp cực hạn |
-| Giant's Rubber Band |  | Dây Thun Khổng Lồ | vật phẩm | 29 | Gân Báo Bóng Tối tôi luyện qua Ngọn Lửa Vĩnh Cửu có độ đàn hồi cực đại do IlHan đặt tên |
+| Giant's Rubber Band | Giant's Rubber String | Dây Thun Khổng Lồ | vật phẩm | 29 | Gân Báo Bóng Tối tôi luyện qua Ngọn Lửa Vĩnh Cửu có độ đàn hồi cực đại do IlHan đặt tên |
 | Pile Bunker | pile bunker | Pile Bunker | vật phẩm | 29 | Vũ khí cận chiến bắn cọc phá hủy phòng ngự kẻ địch |
 | Lightspeed |  | Quang Tốc | hệ thống | 29 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
 | Lightspeed Pile Bunker |  | Pile Bunker Quang Tốc | vật phẩm | 29 | Vũ khí pile bunker làm từ xương, răng và gân Báo Bóng Tối sở hữu dòng thuộc tính Quang Tốc |
+| Overflow | Overflows | Hiện Tượng Tràn | hệ thống | 30 | Hiện tượng rò rỉ mana do bẫy vượt quá sức chứa tạo ra quái vật trùm |
+| Underground |  | Địa Hạ | hệ thống | 30 | Tiền tố dòng thuộc tính alpha/beta của Bẫy Hủy Diệt |
+| Spatial expansion magic |  | Ma pháp mở rộng không gian | hệ thống | 30 | Ma pháp mở rộng không gian chứa đồ cho túi đeo |
+| Weight deduction magic |  | Ma pháp giảm trọng lượng | hệ thống | 30 | Ma pháp làm giảm sức nặng đồ vật bên trong túi |

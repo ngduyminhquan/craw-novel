@@ -17,6 +17,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
+| Shiota | Shiuta | Shiota | Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt cùng nhóm Erta | 30 |
 
 ## Chi tiết
 
@@ -48,6 +49,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 27: Thức tỉnh kỹ năng Xạ Kích ở Lv Max, thể hiện tài nghệ súng máy xuất quỷ nhập thần triệt tiêu toàn bộ độ giật; nhìn thấu Ẩn Thân của báo đen và cắm cọc trụ kết liễu đòn tháo chạy; học được kỹ năng Trói Buộc khi trói gô toàn bộ quái thú; chủ động yêu cầu Kang MiRae lập tổ đội chia sẻ kinh nghiệm trước khi kết liễu quái vật.
 - Trạng thái tính đến chương 28: Đạt cấp độ 36 (nhận 2.938.097 EXP, tăng 10 điểm toàn bộ 4 chỉ số cơ bản); thu hoạch ma thạch chuyển chức lần 3 từ Báo Bóng Tối Lv 102 để chuẩn bị tiến hóa kỹ năng Nghỉ Ngơi; nhận 50% xác quái và toàn bộ ma thạch; lần đầu tiên cho số điện thoại một người con gái (Kang MiRae).
 - Trạng thái tính đến chương 29: Hoàn thành mục tiêu 1 ma thạch chuyển chức lần 3 cho kỹ năng Nghỉ Ngơi; sửa chữa bộ lao săn bằng da báo đen; tôi luyện gân Báo Bóng Tối qua Ngọn Lửa Vĩnh Cửu tạo ra 'Dây Thun Khổng Lồ' có độ đàn hồi cực đại; chế tạo thành công vũ khí hủy diệt 'Pile Bunker Quang Tốc' (Phẩm cấp Độc Nhất, Sức tấn công cấp 1–3 từ 1.200 đến 2.900, giảm thời gian nạp và tăng 20% tốc độ tấn công) từ xương, gân và răng nanh quái thú.
+- Trạng thái tính đến chương 30: Nâng Chế Tác Mana lên cấp 24 sau hơn một tháng rèn Bẫy Hủy Diệt; nhận phần thưởng sớm là thông tin hầm ngục kim loại mới và một túi da đeo chéo có ma pháp mở rộng không gian; được Erta dỡ bỏ giới hạn cấp độ để tiến vào hầm ngục Lv 50 săn quái vật ngoại lai lấy tim.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -94,3 +96,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Yun DaeHan
 - Giới tính, vai trò: Thiếu tá quân đội Hàn Quốc chỉ huy lực lượng tác chiến hiện trường. Từng trải qua 10 năm ở thế giới khác.
 - Tính cách: Sáng suốt, nhìn xa trông rộng, hiểu rõ sức mạnh cá nhân có thể vượt trên quân đội hay quốc gia; chủ động hợp tác và cung cấp tin tức quái vật cho IlHan thay vì cưỡng ép kiểm soát.
+
+### Shiota
+- Giới tính, vai trò: Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt trên Trái Đất cùng nhóm Erta.
+- Tính cách: Hơi ghen tị với năng lực phi thường của Yu IlHan và hay cằn nhằn về những biến cố bất ngờ trên Trái Đất, bị Erta dùng uy lực răn đe.
