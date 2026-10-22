@@ -1,6 +1,6 @@
 # Chương 1: Mở đầu
 
-Đó là một ngày tháng Tư. Chàng tân sinh viên đại học vừa hết tiết lúc 2 giờ 45 phút liền rời phòng học trước tất cả mọi người. Anh không muốn ai nhận ra mình không phải là một kẻ lập dị ngoài cuộc, dẫu thực tế cũng chẳng ai thèm biết anh là ai để mà giữ lại; anh vẫn kiên quyết sải bước lên con đường dốc bên ngoài quảng trường.
+Đó là một ngày tháng Tư. Chàng tân sinh viên đại học vừa hết tiết lúc 2 giờ 45 phút liền rời phòng học trước tất cả mọi người. Anh không muốn ai nhận ra mình là một kẻ ngoài cuộc lủi thủi một mình, dẫu thực tế cũng chẳng ai thèm biết anh là ai để mà giữ lại; anh vẫn kiên quyết sải bước lên con đường dốc bên ngoài quảng trường.
 
 Chính tại nơi đó, lần đầu tiên anh cảm nhận được sự biến đổi bất thường.
 
@@ -190,7 +190,7 @@ Thông tin chi tiết về điểm thưởng chỉ số phần nào xoa dịu c�
 
 "A, đưa tôi đi cùng đi! Mau đưa tôi đi cùng!"
 
-[Chịu thôi anh bạn à, xin lỗi nhé,] cô ta nói trong lúc nhún vai và lắc đầu.
+[Chịu thôi cậu à, ta xin lỗi nhé,] cô ta nói trong lúc nhún vai và lắc đầu.
 
 Cơn giận dữ lại bùng lên, rồi Yu IlHan dứt khoát lắc đầu nguầy nguậy. Không thể chấp nhận chuyện này được. Lạy Chúa tôi, ngài ấy là Thượng Đế cơ mà! Lẽ nào ngài lại không thể đơn giản túm lấy Yu IlHan ném ra khỏi đây, rồi đặt anh vào một nơi nào khác sao?!
 

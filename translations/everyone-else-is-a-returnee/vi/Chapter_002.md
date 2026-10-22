@@ -56,7 +56,7 @@ Suốt ba năm ròng rã.
 
 Đúng như lời thiên thần nói, anh không hề bị già đi, nhưng cơ thể Yu IlHan sau khi được nạp đầy đủ dinh dưỡng và vận động quá nhiều đã phát triển đến mức trông chẳng khác nào một huấn luyện viên thể hình xuất hiện trên ti-vi. Mà âu cũng dễ hiểu thôi, bởi anh chẳng phải học hành gì mà chỉ tập luyện suốt cả ngày.
 
-[Cậu không phải là người bình thường rồi. Dù ta đã biết điều đó từ lúc cậu sở hữu kỹ năng ẩn thân qua mặt được cả tầm mắt của Thượng Đế.]
+[Cậu không phải là người bình thường rồi. Dù ta đã biết điều đó từ lúc cậu sở hữu kỹ năng Ẩn Thân qua mặt được cả tầm mắt của Thượng Đế.]
 
 "Đừng có đổ lỗi cho tôi chứ!"
 
@@ -276,7 +276,7 @@ Yu IlHan cất giọng trầm thấp. Lita từ từ hạ xuống mặt đất r
 
 "A a a a a a a a a a a a a a a!"
 
-Lại cái trò thời gian khốn kiếp đó nữa rồi! Yu IlHan phát điên lên vừa lăn lộn trên bãi cỏ quảng trường. Anh chỉ đành làm thế vì thừa biết nếu nhào vào gây sự với cô ả thiên thần ngốc nghếch kia thì người bị ăn đòn chỉ có anh mà thôi.
+Lại cái trò thời gian khốn kiếp đó nữa rồi! Yu IlHan nổi điên lăn lộn khắp bãi cỏ quảng trường. Anh chỉ đành làm thế vì thừa biết nếu nhào vào gây sự với cô ả thiên thần ngốc nghếch kia thì người bị ăn đòn chỉ có anh mà thôi.
 
 Cứ như vậy, Yu IlHan, người đã bình tâm trở lại sau khi để cỏ dính đầy khắp người, lẩm bẩm trong khi ngước nhìn lên bầu trời xanh đầy oán hận.
 

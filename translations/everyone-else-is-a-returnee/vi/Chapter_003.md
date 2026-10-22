@@ -18,7 +18,7 @@ Giờ đây, những cú đấm và đòn đá của anh đã tràn ngập sát 
 
 "Cô cũng thấy thế à? Mẹ tôi sẽ không bảo tôi làm màu giả vờ chín chắn đấy chứ?"
 
-[Đừng lo chuyện bao đồng nữa, cứ tiếp tục luyện tập đi.]
+[Đừng nghĩ ngợi linh tinh nữa, cứ tiếp tục luyện tập đi.]
 
 Kể từ thời điểm này, Lita vốn trước kia mỗi tuần ghé một lần thì nay cứ ba ngày lại tới một bận. Đó là bởi cô lo sợ Yu IlHan có thể phát điên sau khi phải đơn độc ròng rã suốt 20 năm trời trong nhà tù khổng lồ mang tên Trái Đất.
 
@@ -140,7 +140,7 @@ Yu IlHan reo mừng như một đứa học sinh cấp hai vừa phát hiện ra
 
 Sức mạnh của thời gian quả thực vô cùng đáng kinh ngạc. Nó đã biến một cậu sinh viên ngơ ngác thành một nhà thám hiểm toàn năng. Lẽ dĩ nhiên, chẳng cần phải nhắc lại lần hai khi một con người được ban cho quỹ thời gian vượt xa cả một kiếp người, nhưng Yu IlHan vẫn không ngừng vận động chẳng một phút ngơi nghỉ, như thể anh sẽ chết ngay khoảnh khắc mình dừng lại.
 
-Vận dụng toàn bộ kiến thức địa lý, anh vạch ra lộ trình hải trình ngắn nhất, rồi tìm kiếm một chiếc thuyền có khả năng chịu đựng được quãng đường đó. Trong vô số cuốn sách anh từng đọc từ trước đến nay có rất nhiều tài liệu chuyên ngành liên quan đến tàu thuyền, nên việc tìm kiếm một con thuyền kiên cố, đầy ắp nhiên liệu và vận hành nó chẳng hề gặp chút khó khăn nào.
+Vận dụng toàn bộ kiến thức địa lý, anh vạch ra hải trình ngắn nhất, rồi tìm kiếm một chiếc thuyền có khả năng chịu đựng được quãng đường đó. Trong vô số cuốn sách anh từng đọc từ trước đến nay có rất nhiều tài liệu chuyên ngành liên quan đến tàu thuyền, nên việc tìm kiếm một con thuyền kiên cố, đầy ắp nhiên liệu và vận hành nó chẳng hề gặp chút khó khăn nào.
 
 "Lita này, nhân loại không đến mức tuyệt chủng rồi đấy chứ?"
 

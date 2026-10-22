@@ -5,9 +5,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 | # | Chương truyện | File raw | Tiêu đề | Trạng thái | Ghi chú |
 |---|---|---|---|---|---|
-| 1 |  | Chapter_001 - Prologue.txt | Prologue | done |  |
-| 2 |  | Chapter_002 - I Live Alone (1).txt | I Live Alone (1) | done |  |
-| 3 |  | Chapter_003 - I Live Alone (2).txt | I Live Alone (2) | done |  |
+| 1 |  | Chapter_001 - Prologue.txt | Prologue | reviewed |  |
+| 2 |  | Chapter_002 - I Live Alone (1).txt | I Live Alone (1) | reviewed |  |
+| 3 |  | Chapter_003 - I Live Alone (2).txt | I Live Alone (2) | reviewed |  |
 | 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | todo |  |
 | 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | todo |  |
 | 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | todo |  |
@@ -379,3 +379,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#1-3] Tên nữ thiên thần "Lita" / "Rita" — Tạm chốt "Lita", đưa "Rita" vào Alias. → Chốt 'Lita', đưa 'Rita' vào Alias (orchestrator)
 - [#290-292] Xác nhận bỏ qua 3 chương trùng #290, #291, #292 (trùng nội dung #287, #288, #289) — Tạm chọn: giữ nguyên `skip`. → Giữ nguyên skip cho #290, #291, #292 (orchestrator)
 - [#1-2] Định dạng link điều hướng cuối mỗi chương → Dùng `[← Chương trước](Chapter_XXX.md) | [Chương tiếp theo →](Chapter_YYY.md)` (chương 1 chỉ có `[Chương tiếp theo →](Chapter_002.md)`), đặt ở dòng cuối cùng của file chương, cách đoạn cuối một dòng trống (orchestrator)
+- [#1] Đoạn 1 câu phủ định kép raw EN → Viết lại thoát ý thành "Anh không muốn ai nhận ra mình là một kẻ ngoài cuộc lủi thủi một mình..." (orchestrator)
+- [#2] Đoạn 77 câu hét xuất chiêu của Yu IlHan → Giữ nguyên "của ta đây" để giữ nét hài chuunibyou (orchestrator)
