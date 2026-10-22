@@ -18,7 +18,7 @@ Bởi lẽ, dù việc phân chia chiến lợi phẩm cũng là một vấn đ�
 
 "Không được."
 
-Ngay khoảnh khắc một người lính rút dao ra, Yu IlHan — người vừa cứu một người lính khác bằng cách lật tung cả chiếc Retona — lập tức lên tiếng phản đối và bước tới. Dù là một kẻ cô độc thiếu kỹ năng giao tiếp xã hội, anh cũng chẳng phải gã ngốc chịu trơ mắt nhìn người khác cướp mất phần lợi của mình.
+Ngay khoảnh khắc một người lính rút dao ra, Yu IlHan — người vừa cứu một người lính khác bằng cách lật chiếc Retona lại — lập tức lên tiếng phản đối và bước tới. Dù là một kẻ cô độc thiếu kỹ năng giao tiếp xã hội, anh cũng chẳng phải gã ngốc chịu trơ mắt nhìn người khác cướp mất phần lợi của mình.
 
 "Tôi nghĩ phần xác mà tôi đáng được nhận phải là lớn nhất chứ..."
 
@@ -190,7 +190,7 @@ Dù là vế nào đi nữa, Yu IlHan vẫn muốn giữ khoảng cách với c�
 
 "Không cần đâu. Tôi đi trước đây."
 
-Empress dường như đã nảy sinh tình cảm đồng chí sau khi cùng kề vai chiến đấu nên mới bày tỏ thiện chí với Yu IlHan, còn Yu IlHan lại dựng lên cả một trường lực AT Field... một bức tường ngăn cách nơi trái tim vì cảm thấy không thoải mái khi tiếp xúc với cô.
+Empress dường như đã nảy sinh tình đồng đội sau khi cùng kề vai chiến đấu nên mới bày tỏ thiện chí với Yu IlHan, còn Yu IlHan lại dựng lên cả một trường lực AT Field... một bức tường ngăn cách nơi trái tim vì cảm thấy không thoải mái khi tiếp xúc với cô.
 
 "Khoan đã."
 
@@ -250,9 +250,9 @@ Chẳng biết chiếc xe chở hàng đã tới từ lúc nào và đồ đạc
 
 Yu IlHan có chút xúc động, bởi đây là lần đầu tiên trong đời anh có người bám theo sau mình như vậy. Rồi trước câu hỏi của anh, Empress nhìn thẳng vào đôi mắt anh lấp ló sau lớp mặt nạ một cách cực kỳ chuẩn xác và lên tiếng.
 
-"Khi tôi tập trung cao độ và không rời mắt khỏi anh, tôi có thể tìm thấy anh. Quả là một kỹ năng ẩn thân đáng kinh ngạc."
+"Khi tôi tập trung cao độ và không rời mắt khỏi anh, tôi có thể tìm thấy anh. Quả là một kỹ năng Ẩn Thân đáng kinh ngạc."
 
-Mặc kệ Yu IlHan đang sôi máu định cãi lại rằng anh đâu có thèm học cái kỹ năng ẩn thân quỷ quái ấy, Empress lại tiếp tục nói.
+Mặc kệ Yu IlHan đang sôi máu định cãi lại rằng anh đâu có thèm học cái kỹ năng Ẩn Thân quỷ quái ấy, Empress lại tiếp tục nói.
 
 "Tôi muốn lập tổ đội cùng anh. Tôi không nghĩ có người nào khác xứng đáng làm bạn đồng hành của mình hơn anh."
 

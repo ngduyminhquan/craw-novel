@@ -92,7 +92,7 @@ Erta gật đầu. Sắc mặt cô đóng băng lạnh lẽo như một cánh đ
 
 "Nghĩa là."
 
-Ngay sau khi Yu IlHan vừa lẩm bẩm. Màn hình máy quay vốn đang chiếu khung cảnh thành phố đổ nát bỗng chốc tối sầm lại sau một tiếng va đập đinh tai nhức óc. Ngay sau đó, màn hình liền chuyển về bàn tin tức, để lộ gương mặt ngơ ngác sững sờ của phát thanh viên.
+Ngay sau khi Yu IlHan vừa dứt lời lẩm bẩm, màn hình máy quay vốn đang chiếu khung cảnh thành phố đổ nát bỗng chốc tối sầm lại sau một tiếng va đập đinh tai nhức óc. Ngay sau đó, màn hình liền chuyển về bàn tin tức, để lộ gương mặt ngơ ngác sững sờ của phát thanh viên.
 
 Người dẫn chương trình cố giấu đi sự bối rối và vội vã chữa cháy: 'Có vẻ như tại hiện trường đã xảy ra sự cố', thế nhưng Yu IlHan đã sớm nhìn thấu chân tướng sự việc.
 
@@ -104,7 +104,7 @@ Người dẫn chương trình cố giấu đi sự bối rối và vội vã ch
 
 Yu IlHan đã lĩnh hội gần như toàn bộ võ thuật và phương thức vận động cơ thể trong suốt 1000 năm. Thế nhưng, điều đó vốn chỉ giới hạn trong các kỹ thuật của con người, anh chẳng đời nào nhận biết được kỹ thuật mà quái vật sử dụng.
 
-Thế nhưng Yu IlHan lại nhìn thấu được nó. Điều này có ý nghĩa gì? Câu trả lời đã quá rõ ràng. Ẩn Thân, anh chính là bậc thầy của thuật ẩn thân.
+Thế nhưng Yu IlHan lại nhìn thấu được nó. Điều này có ý nghĩa gì? Câu trả lời đã quá rõ ràng. Ẩn Thân, anh chính là bậc thầy của thuật Ẩn Thân.
 
 "Chắc chắn là một con báo. Đã thế còn đen tuyền nữa. ...Erta, cô."
 
@@ -144,9 +144,9 @@ Yu IlHan nhớ lại hình bóng con báo đen thoáng xuất hiện trên màn 
 
 "Ẩn Thân. Đây chính là lý do cô không thể phát hiện ra nó."
 
-[Đúng vậy. Ở trong một điều kiện khó tin đến kinh ngạc. Ngay cả tôi cũng chẳng bao giờ hành động mà lại đi nghĩ rằng một con quái vật cuồng bạo lại đang mang thai và đứa con đó lại có năng lực đặc thù là ẩn thân.]
+[Đúng vậy. Ở trong một điều kiện khó tin đến kinh ngạc. Ngay cả tôi cũng chẳng bao giờ hành động mà lại đi nghĩ rằng một con quái vật cuồng bạo lại đang mang thai và đứa con đó lại có năng lực đặc thù là Ẩn Thân.]
 
-Hơn nữa, Yu IlHan, người sở hữu kỹ năng giải phẫu cấp tối đa và có thể mổ xẻ xác một sinh vật khổng lồ trong chớp mắt, lại không giải phẫu trọn vẹn nó.
+Hơn nữa, Yu IlHan, người sở hữu kỹ năng Giải Phẫu cấp tối đa và có thể mổ xẻ xác một sinh vật khổng lồ trong chớp mắt, lại không giải phẫu trọn vẹn nó.
 
 Nhờ cuộc ẩu đả tranh giành của con người mà việc mổ xẻ con quái vật khổng lồ bị trì hoãn, và kết quả là con báo đen đã được sinh ra an toàn rồi...
 
@@ -158,7 +158,7 @@ Yu IlHan vừa nhìn vẻ mặt hoảng loạn toát mồ hôi hột của phát
 
 "Nó là quái vật chuyển chức lần 3 sao?"
 
-[Xét theo khả năng ẩn thân dị thường của nó thì nhiều khả năng là vậy.]
+[Xét theo khả năng Ẩn Thân dị thường của nó thì nhiều khả năng là vậy.]
 
 Trước lời thông báo của Erta, Yu IlHan thở dài một hơi rồi tắt TV. Mới ban nãy anh vừa kết luận rằng mình chẳng thể nào thắng nổi một con quái vật chuyển chức lần 3, vậy mà giờ đây... anh cảm thấy thật bực bội và bế tắc.
 
@@ -178,19 +178,19 @@ Anh bất giác siết chặt nắm tay.
 
 Khác hẳn với một Yu IlHan vốn luôn nghĩ tới đường sống cho bản thân trước tiên, trông anh lúc này lại tràn đầy khí thế. Erta có chút ngạc nhiên trước điều đó, nhưng lý do cho sự tự tin của Yu IlHan lại vô cùng đơn giản.
 
-Đó là bởi năng lực của con báo được dự đoán là quái vật chuyển chức lần 3 kia chính là ẩn thân.
+Đó là bởi năng lực của con báo được dự đoán là quái vật chuyển chức lần 3 kia chính là Ẩn Thân.
 
-Nếu các chỉ số của nó đều dồn hết vào sức mạnh hay phòng thủ thì anh còn chưa biết chừng, nhưng nếu năng lực đặc thù của nó là ẩn thân thì chẳng có lý do gì để phải sợ cả! Bởi vì Yu IlHan là người đã tinh thông ẩn thân đến cảnh giới cực hạn mà thậm chí còn chẳng cần phải khổ luyện!
+Nếu các chỉ số của nó đều dồn hết vào sức mạnh hay phòng thủ thì anh còn chưa biết chừng, nhưng nếu năng lực đặc thù của nó là Ẩn Thân thì chẳng có lý do gì để phải sợ cả! Bởi vì Yu IlHan là người đã tinh thông Ẩn Thân đến cảnh giới cực hạn mà thậm chí còn chẳng cần phải khổ luyện!
 
 Ngay sau khi thể hiện sự tự tin của mình, Yu IlHan liền cẩn trọng hỏi lại Erta.
 
 "...Sau ngần ấy chuyện thì sức mạnh và phòng thủ của nó không đến mức mạnh một cách khủng khiếp đấy chứ?"
 
-[Dự đoán của cậu phần nào là chính xác đấy nên đừng lo. Một sinh mệnh không thể biểu hiện năng lực vượt trội ở mọi phương diện được. Nhất là đối với quái vật thì lại càng đúng. Trường hợp của con báo đó, để có được khả năng ẩn thân cao đến thế thì các chỉ số khác của nó chắc chắn đã bị giảm bớt.]
+[Dự đoán của cậu phần nào là chính xác đấy nên đừng lo. Một sinh mệnh không thể biểu hiện năng lực vượt trội ở mọi phương diện được. Nhất là đối với quái vật thì lại càng đúng. Trường hợp của con báo đó, để có được khả năng Ẩn Thân cao đến thế thì các chỉ số khác của nó chắc chắn đã bị giảm bớt.]
 
 "Hóa ra là vậy sao..."
 
-Yu IlHan suy nghĩ rồi bước ra khỏi nhà. Cứ theo cảm tính thì anh rất muốn đi cày cấp tăng lên thật nhiều rồi mới quay lại giết nó, nhưng anh không thể thả rông nó ngay giữa lòng thành phố được. Nếu đó là một hầm ngục thì anh có thể cứ mặc kệ nó ở đó, nhưng vì đây là một sinh vật sống, lại còn là quái vật chuyển chức lần 3 chuyên về ẩn thân, nên anh không thể làm thế.
+Yu IlHan suy nghĩ rồi bước ra khỏi nhà. Cứ theo cảm tính thì anh rất muốn đi cày cấp tăng lên thật nhiều rồi mới quay lại giết nó, nhưng anh không thể thả rông nó ngay giữa lòng thành phố được. Nếu đó là một hầm ngục thì anh có thể cứ mặc kệ nó ở đó, nhưng vì đây là một sinh vật sống, lại còn là quái vật chuyển chức lần 3 chuyên về Ẩn Thân, nên anh không thể làm thế.
 
 Giết con quái vật đó sau khi chế tạo trang bị tối ưu hóa để hạ gục nó trong thời gian ngắn nhất có thể. Đây là phương pháp tốt nhất. Còn nếu cách đó không hiệu quả, thì anh chỉ việc cắm đầu chạy thôi.
 

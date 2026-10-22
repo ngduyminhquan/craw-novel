@@ -4,7 +4,7 @@
 
 "Cái đó thì đi mà hỏi Thượng Đế ấy."
 
-Lúc bấy giờ Erta, người chẳng nói năng gì nhiều tại hiện trường, lại bắt đầu thao thao bất tuyệt sau khi Yu IlHan đã về đến nhà suốt 15 tiếng đồng hồ, tắm rửa, bảo dưỡng trang bị, đánh một giấc say sưa rồi tới xưởng bắt tay vào làm việc.
+Lúc bấy giờ Erta, người chẳng nói năng gì nhiều tại hiện trường, lại bắt đầu thao thao bất tuyệt sau 15 tiếng kể từ khi Yu IlHan về nhà, tắm rửa, bảo dưỡng trang bị, đánh một giấc say sưa rồi tới xưởng bắt tay vào làm việc.
 
 [Dù tôi có tự mình vắt óc suy nghĩ thế nào đi nữa cũng chẳng thể rút ra kết luận được.]
 
@@ -20,7 +20,7 @@ Rốt cuộc còn có thể làm gì thêm cho con người để tái lập s�
 
 "Không phải tôi bình thản đâu. Chỉ là dù tôi có lo sốt vó lên thì cũng chẳng giải quyết được gì. Vậy nên tôi chỉ đang làm những việc trong khả năng của mình trong lúc ăn bắp rang hóng chuyện thôi."
 
-Yu IlHan vừa dứt lời vừa kiểm tra xong và nhặt lên một mẩu Harkanium mới.
+Kiểm tra xong xuôi, Yu IlHan vừa nhặt lên một mẩu Harkanium mới vừa hỏi:
 
 "Thế các quốc gia khác thì sao?"
 
@@ -178,7 +178,7 @@ Erta ngoan ngoãn khai sạch mọi chuyện khi nghe Yu IlHan vạch trần m�
 
 "Ồ, quả nhiên là thế."
 
-Thức tỉnh, nói cách khác, chỉ là do Hồ Sơ Akashic trước đó chưa nhận biết được, chứ Kỹ Năng Nghỉ Ngơi vốn dĩ đã tồn tại trên người Yu IlHan ngay từ đầu. Đã vậy còn là cấp tối đa nữa chứ.
+Thức tỉnh, nói cách khác, chỉ là do Hồ Sơ Akashic trước đó chưa nhận biết được, chứ kỹ năng Nghỉ Ngơi vốn dĩ đã tồn tại trên người Yu IlHan ngay từ đầu. Đã vậy còn là cấp tối đa nữa chứ.
 
 Thế nhưng, Yu IlHan hoàn toàn chẳng có chút ký ức nào về việc nhận được bất kỳ hiệu quả nào từ kỹ năng này. Đã vậy ngày nào anh cũng ngủ mà tận bây giờ mới thức tỉnh được nó. Nói cách khác, tính ứng dụng thực tế của kỹ năng Nghỉ Ngơi này là cực kỳ nhỏ bé.
 
