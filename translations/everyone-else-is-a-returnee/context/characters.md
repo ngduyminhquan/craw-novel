@@ -51,6 +51,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 28: Đạt cấp độ 36 (nhận 2.938.097 EXP, tăng 10 điểm toàn bộ 4 chỉ số cơ bản); thu hoạch ma thạch chuyển chức lần 3 từ Báo Bóng Tối Lv 102 để chuẩn bị tiến hóa kỹ năng Nghỉ Ngơi; nhận 50% xác quái và toàn bộ ma thạch; lần đầu tiên cho số điện thoại một người con gái (Kang MiRae).
 - Trạng thái tính đến chương 29: Hoàn thành mục tiêu 1 ma thạch chuyển chức lần 3 cho kỹ năng Nghỉ Ngơi; sửa chữa bộ lao săn bằng da báo đen; tôi luyện gân Báo Bóng Tối qua Ngọn Lửa Vĩnh Cửu tạo ra 'Dây Thun Khổng Lồ' có độ đàn hồi cực đại; chế tạo thành công vũ khí hủy diệt 'Súng Bắn Cọc Quang Tốc' (Phẩm cấp Độc Nhất, Sức tấn công cấp 1–3 từ 1.200 đến 2.900, giảm thời gian nạp và tăng 20% tốc độ tấn công) từ xương, gân và răng nanh quái thú.
 - Trạng thái tính đến chương 30: Nâng Chế Tác Mana lên cấp 24 sau hơn một tháng rèn Bẫy Hủy Diệt; nhận phần thưởng sớm là thông tin hầm ngục kim loại mới và một túi da đeo chéo có ma pháp mở rộng không gian; được Erta dỡ bỏ giới hạn cấp độ để tiến vào hầm ngục Lv 50 săn quái vật ngoại lai lấy tim.
+- Trạng thái tính đến chương 31: Đạt cấp độ 38; nâng kỹ năng Chí Mạng lên Lv 4; thức tỉnh kỹ năng Độn Khí Thuật ở Lv Max; chế tạo thêm vũ khí búa rìu 'Chiến Búa Nghiền Nát Nặng' (Phẩm cấp Hiếm) từ xương Báo Bóng Tối; lần đầu tiên tiến vào hầm ngục và sử dụng Súng Bắn Cọc đối đầu Đại Thiết Tâm Lv 71.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

@@ -35,7 +35,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | reviewed |  |
 | 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | reviewed |  |
 | 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | reviewed |  |
-| 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | todo |  |
+| 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | done |  |
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | todo |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | todo |  |
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -466,3 +467,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#1-30] Chuẩn hóa 14 thuật ngữ có dấu / trong glossary.md → Chốt 1 bản dịch cho 13 mục (Status -> Bảng chỉ số, Dropout -> Người Bị Bỏ Lại, Ironman -> Người Sắt, Artifact -> Tạo tác, Dragon heart -> Trái tim rồng, Bestowal -> Ban tặng, Republic of Korea -> Hàn Quốc, Jongno -> Jongno, Fatally Sharp Steel Spear -> Trường Thương Thép Sắc Bén Chí Mạng, RPG -> RPG, SSS -> Hạng SSS, Instakill -> Nhất Kích Tất Sát, Harpoon -> Lao săn); giữ Phẩm cấp / Hạng cho Rank kèm ghi chú phân biệt ngữ cảnh (orchestrator)
 - [#13] Việt hóa tên chức nghiệp bị che chữ Bl****d Lancer → Chốt dịch thành Thương Thủ M** ***t (tưởng nhầm là Máu Lạnh / Mãnh Liệt, thực tế là Thương Thủ Mờ Nhạt) và bổ sung quy tắc vào rules.md (orchestrator)
 - [#21-30] Rà soát 6 thuật ngữ tiếng Anh (Pile Bunker, Knuckles, Troll, Rasengan, AT Field, MVP) → Chốt dịch Pile Bunker -> Súng Bắn Cọc, Lightspeed Pile Bunker -> Súng Bắn Cọc Quang Tốc; giữ nguyên Knuckles, Troll (chủng tộc), Rasengan, AT Field, MVP kèm ghi chú lý do trong glossary.md (orchestrator)
+- [#31] Quái vật / kim loại "Metal Heart" và biến thể "Big Metal Heart" — Tạm chọn: "Thiết Tâm" (quái vật kim loại cấp trên 50 trong hầm ngục, không có ma thạch mà sở hữu lõi kim loại Thiết Tâm) và "Đại Thiết Tâm" (biến thể cấp 71, giữ trọn vẹn câu đùa của IlHan phàn nàn kẻ đặt tên quá lười biếng chỉ thêm chữ 'Đại'/'Big'). Phương án khác: "Trái Tim Kim Loại" / "Trái Tim Kim Loại Lớn". Tạm dùng trong bản dịch: "Thiết Tâm" và "Đại Thiết Tâm". → Chốt Thiết Tâm cho Metal Heart và Đại Thiết Tâm cho Big Metal Heart. (orchestrator)
+- [#31] Tên vũ khí và dòng thuộc tính "Heavy Battle Crusher" — Tạm chọn: "Chiến Búa Nghiền Nát Nặng" (danh từ gốc Battle Crusher = "Chiến Búa Nghiền Nát", tiền tố thuộc tính Heavy = "Nặng" tăng 50% trọng lượng khi đánh trúng). Phương án khác: "Búa Nghiền Chiến Đấu Hạng Nặng", "Trọng Chiến Búa Nghiền". Tạm dùng trong bản dịch: "Chiến Búa Nghiền Nát Nặng". → Chốt Chiến Búa Nghiền Nát Nặng. (orchestrator)
+- [#31] Kỹ năng "Blunt Weapon mastery" (Blunt Weapon) — Tạm chọn: "Độn Khí Thuật" (chuẩn Hán Việt ngắn gọn theo rules.md tương tự Thương Thuật, Cận Chiến, Xạ Kích). Phương án khác: "Binh Khí Cùn", "Thuần Thục Binh Khí Cùn". Tạm dùng trong bản dịch: "Độn Khí Thuật". → Chốt Độn Khí Thuật. (orchestrator)

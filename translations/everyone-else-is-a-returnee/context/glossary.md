@@ -175,3 +175,12 @@
 | Underground |  | Địa Hạ | hệ thống | 30 | Tiền tố dòng thuộc tính alpha/beta của Bẫy Hủy Diệt |
 | Spatial expansion magic |  | Ma pháp mở rộng không gian | hệ thống | 30 | Ma pháp mở rộng không gian chứa đồ cho túi đeo |
 | Weight deduction magic |  | Ma pháp giảm trọng lượng | hệ thống | 30 | Ma pháp làm giảm sức nặng đồ vật bên trong túi |
+| Heavy Battle Crusher |  | Chiến Búa Nghiền Nát Nặng | vật phẩm | 31 | Vũ khí búa rìu chế tạo từ xương Báo Bóng Tối mang dòng thuộc tính tăng 50% trọng lượng |
+| Metal Heart | Metal Hearts | Thiết Tâm | quái vật | 31 | Quái vật ngoại lai cấu tạo từ kim loại cấp trên 50 trong hầm ngục, không có ma thạch mà sở hữu lõi kim loại Thiết Tâm |
+| Big Metal Heart | Big Metal Hearts | Đại Thiết Tâm | quái vật | 31 | Biến thể khổng lồ cấp 71 của quái vật Thiết Tâm |
+| Blunt Weapon | Blunt Weapon mastery | Độn Khí Thuật | kỹ năng | 31 | Kỹ năng sử dụng các loại vũ khí cùn như búa, chùy, thức tỉnh ở Lv Max |
+| Daedalus |  | Daedalus | khác | 31 | Nhà phát minh và kiến trúc sư trong thần thoại Hy Lạp, người xây dựng mê cung đảo Crete |
+| Crete |  | Crete | địa danh | 31 | Hòn đảo ở Hy Lạp với truyền thuyết về mê cung ngục tối |
+| The Sixth Sense | Sixth Sense | Giác Quan Thứ Sáu | khác | 31 | Bộ phim điện ảnh kinh dị tâm lý nổi tiếng của M. Night Shyamalan với cú twist kinh điển |
+| Ertawagon |  | Ertawagon | khác | 31 | Cách IlHan trêu chọc Erta khi cô giải thích mọi thứ cặn kẽ, phỏng theo meme Speedwagon (JoJo) |
+| Michael Jordan |  | Michael Jordan | khác | 31 | Huyền thoại bóng rổ người Mỹ với cú nhảy đi trên không kinh điển |

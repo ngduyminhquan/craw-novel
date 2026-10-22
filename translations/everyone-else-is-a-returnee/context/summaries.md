@@ -187,6 +187,13 @@ Erta trao thưởng trước cho IlHan gồm thông tin về hầm ngục chứa
 Trên đường chạy đến ngọn đồi chứa hầm ngục, Erta giải thích cách quái vật ngoại lai sinh sôi trong môi trường mana thích hợp và tiết lộ muốn lấy kim loại mới thì IlHan phải moi tim quái vật trong hầm ngục chứ không phải đào khoáng.
 Cảnh kết thúc: Đứng trước hầm ngục xoáy xám có yêu cầu 'Hạn chế xâm nhập dưới Lv 50', Erta dùng quyền hạn thực thể cấp cao dỡ bỏ giới hạn giúp IlHan (Lv 36) bước vào, đánh dấu lần đầu tiên trong đời anh đối mặt với quái vật từ thế giới khác.
 
+## 31
+Yu IlHan bước vào hầm ngục và ngỡ ngàng trước không gian cách biệt được tạo bởi Bẫy Hủy Diệt; anh dùng vũ khí mới 'Chiến Búa Nghiền Nát Nặng' (làm từ xương Báo Bóng Tối) bổ đôi con quái vật Thiết Tâm Lv 51 chỉ bằng một đòn, nhận 137.928 EXP, nâng Chí Mạng lên Lv 4 và thức tỉnh kỹ năng Độn Khí Thuật ở Lv Max.
+Erta giải thích cơ chế phòng ngự bằng mana từ tim kim loại của Thiết Tâm (khiến chúng cực kỳ yếu trước các đòn phục kích); IlHan miệt mài săn quái một đòn một mạng suốt một ngày, thu hoạch lõi kim loại Thiết Tâm và thăng lên cấp 38.
+Hai ngày sau trong hầm ngục, cả hai chạm trán biến thể khổng lồ 'Đại Thiết Tâm' Lv 71 trong hang động; IlHan rút khẩu Súng Bắn Cọc Quang Tốc nạp sẵn cấp 3 ra nghênh chiến thay vì bỏ chạy.
+Cảnh kết thúc: Yu IlHan tung cú sải bước trên không kinh điển kiểu Michael Jordan, từ trên cao lao xuống kích hoạt Súng Bắn Cọc phóng viên đạn cọc xương dài hơn hai mét đâm xuyên thẳng từ đỉnh đầu xuống tận gốc rễ con Đại Thiết Tâm.
+
+
 
 
 
