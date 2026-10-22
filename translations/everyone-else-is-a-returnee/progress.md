@@ -38,7 +38,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | reviewed |  |
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | reviewed |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | reviewed |  |
-| 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | todo |  |
+| 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | done |  |
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | todo |  |
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | todo |  |
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | todo |  |
@@ -479,3 +479,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#33 đoạn 88] Lời thoại mẹ nói với con → Chấp nhận, sửa thành Mẹ chỉ nhận được toàn nguyên liệu nấu ăn làm phần thưởng nhiệm vụ thôi. (orchestrator)
 - [#33 đoạn 111] Trật tự từ tên trang bị → Chấp nhận, chuẩn hóa theo tiếng Việt thành [Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo]. (orchestrator)
 - [#33 đoạn 70] Chuẩn hóa thuật ngữ → Chấp nhận, đổi thành chuyển chức lần 1 được để đồng nhất với glossary.md. (orchestrator)
+- [#34] Phẩm cấp mới Legend → Chốt Truyền Thuyết (xếp trên Độc Nhất). (orchestrator)
+- [#34] Tên dòng thuộc tính thứ ba (gamma option) → Chốt Dòng thuộc tính gamma (tiếp nối alpha và beta). (orchestrator)
+- [#34] Xử lý các lỗi chính tả trong raw EN (P55 weak poison resistance -> poison resistance, P107 thiếu động từ hide, P109 fell -> feel) → Dịch chuẩn theo mạch nghĩa thực tế: Kháng Độc ở P55, che giấu thân phận ở P107, và cảm giác của tôi ở P109. (orchestrator)

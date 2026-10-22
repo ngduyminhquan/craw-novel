@@ -197,3 +197,11 @@
 | Great Metal Heart |  | Cực Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
 | Huge Metal Heart |  | Khổng Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
 | Giga Metal Heart |  | Giga Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
+| Legend |  | Truyền Thuyết | hệ thống | 34 | Phẩm cấp trang bị/vật phẩm cao hơn Độc Nhất |
+| Gamma option |  | Dòng thuộc tính gamma | hệ thống | 34 | Dòng thuộc tính phụ thứ ba của tạo tác do Erta đặt tên |
+| America |  | Mỹ | địa danh | 34 | Nước Mỹ, Hợp chúng quốc Hoa Kỳ |
+| Arizona |  | Arizona | địa danh | 34 | Bang Arizona ở tây nam nước Mỹ |
+| Los Angeles |  | Los Angeles | địa danh | 34 | Thành phố Los Angeles ở bang California, Mỹ |
+| Pokemon | P*k*m*n | Pokemon | khác | 34 | Được phép giữ nguyên: Thương hiệu trò chơi/anime nổi tiếng của Nhật Bản (tham chiếu văn hóa đại chúng) |
+| Record of Extreme Poison Resistance Skill |  | Ghi Chép Kỹ Năng Kháng Độc Cực Hạn | vật phẩm | 34 | Sách ghi chép chứa kỹ năng Kháng Độc Cực Hạn do thiên giới trao thưởng |
+| Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo' / Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 34 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |

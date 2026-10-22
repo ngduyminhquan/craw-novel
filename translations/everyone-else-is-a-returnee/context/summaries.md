@@ -205,6 +205,12 @@ Trở về nhà, IlHan xúc động ăn bữa cơm mẹ nấu sau bao ngày gặ
 IlHan quyết định từ bỏ đại học để tập trung chuyển chức lần 2 và tiến về phía trước; mẹ anh nhiệt tình tán thành nhưng lại nhăm nhe chiếc Túi Đeo Chéo để đi chợ.
 Cảnh kết thúc: Yu IlHan trở lại xưởng kiểm tra bộ 'Đại Khải Đen' và bàng hoàng cùng Erta nhận ra trang bị bất ngờ mở khóa tới 3 dòng thuộc tính cùng lúc ('Kinh Hãi', 'Cứng' và 'Kín Đáo').
 
+## 34
+Bộ Đại Khải Đen của Yu IlHan đạt Phẩm cấp Truyền Thuyết với 3 dòng thuộc tính (Erta đặt tên cho dòng thứ ba là 'gamma'), trong đó dòng Kinh Hãi khuếch đại uy lực giúp tăng 40% thủ và 30% công khi đánh úp; Erta khuyên anh tuyệt đối không bán trang bị 3 dòng ra ngoài.
+IlHan hoàn thành Nhiệm Vụ Thiên Giới 002: toàn bộ chỉ số tăng 5 điểm, xưởng chế tác được nâng cấp với dàn dụng cụ đúc bằng kim loại tương lai của Trái Đất, nhận cuốn 'Ghi Chép Kỹ Năng Kháng Độc Cực Hạn' (cho phép phớt lờ độc quái chuyển chức 4) cùng thông tin hầm ngục Troll ở bang Arizona (Mỹ).
+Vì không có hộ chiếu, IlHan quyết định trốn vé máy bay sang Mỹ bằng kỹ năng Ẩn Thân, quá cảnh qua Los Angeles sau khi chào tạm biệt mẹ.
+Cảnh kết thúc: Vừa hạ cánh xuống sân bay Los Angeles, Yu IlHan chứng kiến cảnh tượng hỗn loạn khi một đội quân quái vật đang tàn phá thành phố, báo hiệu 'Hiện Tượng Tràn' đầu tiên trên Trái Đất bùng nổ.
+
 
 
 
