@@ -297,3 +297,4 @@
 | Special Ability Management Bureau |  | Cục Quản Lý Dị Năng | tổ chức | 54 | Cơ quan quản lý dị năng giả của chính phủ Hàn Quốc |
 | Korean Special Ability Management Bureau |  | Cục Quản Lý Dị Năng Hàn Quốc | tổ chức | 54 | Tên đầy đủ của Cục Quản Lý Dị Năng |
 | Dark Flame Dragon |  | Hắc Viêm Long | khác | 54 | Rồng lửa đen trong câu đùa chuunibyou của Erta |
+| Depression |  | Trầm Cảm | khác | 54 | Biệt danh người đời chế giễu tổ chức Trấn Áp do nhân viên lúc nào cũng mang bộ mặt ủ rũ như sắp chết |

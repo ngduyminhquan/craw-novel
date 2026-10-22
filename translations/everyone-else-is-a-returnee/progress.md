@@ -56,9 +56,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | reviewed |  |
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | reviewed |  |
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | reviewed |  |
-| 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | done |  |
-| 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | done |  |
-| 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | done |  |
+| 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | reviewed |  |
+| 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | reviewed |  |
+| 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | reviewed |  |
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | todo |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | todo |  |
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | todo |  |
@@ -551,3 +551,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#53] Dịch thuật ngữ dragonkin phân biệt với Dragon? → Chốt dragonkin là Long tộc và Dragon là Rồng. (orchestrator)
 - [#54] Dịch tiêu đề arc I Carry (chương 54-62)? → Chốt Tôi Gánh Vác (N) (mang cả ý nghĩa gánh vác công việc trang bị cho quân đội và gánh đội). (orchestrator)
 - [#54] Dịch chơi chữ Suppression và Depression ở đoạn 79? → Chốt dịch Trấn Áp và Trầm Cảm để giữ độ tương phản hài hước với tình trạng ủ rũ của các thành viên. (orchestrator)
+- [#52-54] Sắc thái lắc đầu của hai thiên thần ở Ch.54 đoạn 83? → Chấp nhận sửa thành chỉ khẽ lắc đầu không đồng tình. (orchestrator)
+- [#52-54] Sắc thái từ dã tâm ở Ch.52 đoạn 2? → Chấp nhận sửa thành toan tính của cô. (orchestrator)
+- [#52-54] Câu đối đáp giữa Lita và IlHan ở Ch.53 đoạn 101? → Chấp nhận sửa thành Tôi không bảo là cô có lỗi. (orchestrator)
+- [#52-54] Xưng hô Lita trêu IlHan ở Ch.54 đoạn 49? → Chấp nhận sửa thành IlHan của tôi và Chị đây. (orchestrator)
+- [#52-54] Đồng bộ ngoặc thoại điện thoại ở Ch.54 đoạn 101? → Bác, giữ nguyên ngoặc kép vì raw dùng ngoặc nhọn, tránh làm lệch kiểm tra ngoặc vuông của QA. (orchestrator)

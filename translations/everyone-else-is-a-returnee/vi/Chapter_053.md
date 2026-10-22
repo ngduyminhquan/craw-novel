@@ -58,7 +58,7 @@ Tỷ lệ chí mạng và sát thương chí mạng tăng 150% khi chiến đấ
 
 [Độ bền – 3.200/3.200]
 
-[Ngọn thương tái sinh sau khi nỗi oán hận ngút trời cùng ý chí báo thù vô định được một đại sư thợ rèn gọt giũa sắc bén. Lưỡi kiếm phục thù sẽ vĩnh viễn chờ đợi khoảnh khắc chặt đứt đầu rồng.]
+[Ngọn thương tái sinh sau khi nỗi oán hận ngút trời cùng ý chí báo thù vô định được một đại sư thợ rèn gọt giũa sắc bén. Lưỡi thương phục thù sẽ vĩnh viễn chờ đợi khoảnh khắc chặt đứt đầu rồng.]
 
 "Hả?"
 
@@ -150,7 +150,7 @@ Mặc kệ chuyện Lita có chấp nhận hay không, sự phối hợp giữa 
 
 Dù chưa từng giáp mặt bất kỳ con rồng nào, uy lực của bộ lao săn do Yu IlHan chế tạo vẫn phi lý đến mức khó tin. Nếu người ngoài nhìn thấy, ắt hẳn kẻ đó sẽ lầm tưởng đây là kiệt tác của một đại sư thợ rèn từng lăn lộn chiến đấu với Long tộc nơi tiền tuyến khốc liệt.
 
-Ấy thế mà Yu IlHan mới chỉ Chế Tác Mana dựa trên ảo ảnh mà Erta gửi qua thôi đấy!
+Ấy thế mà Yu IlHan mới chỉ Chế Tác Mana dựa trên hình ảnh mà Erta truyền qua thôi đấy!
 
 "Giờ thì đến lượt máu troll."
 
@@ -200,7 +200,7 @@ Yu IlHan cất lời quở trách, một điều hiếm thấy ở anh. Bởi v�
 
 [T-Tôi xin lỗi. Tôi sai rồi.] (Lita)
 
-"Tôi không bảo là cô xấu tính. Tôi chỉ bảo hai người không được cãi cọ lẫn nhau thôi."
+"Tôi không bảo là cô có lỗi. Tôi chỉ bảo hai người không được cãi cọ lẫn nhau thôi."
 
 Lời nói đó đáng lẽ đã vô cùng hoàn hảo, nếu như Yu IlHan không bồi thêm một câu nhận xét thừa thãi cùng nụ cười sảng khoái trên môi.
 

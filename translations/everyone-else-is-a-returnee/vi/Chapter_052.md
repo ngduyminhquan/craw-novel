@@ -2,7 +2,7 @@
 
 Việc có tới hai vị thiên thần cùng tìm đến xưởng chế tác của Yu IlHan âu cũng là chuyện đương nhiên. Đó là bởi kết quả từ cuộc hội nghị của các thiên thần đã dẫn tới việc hàng loạt thiên thần hộ mệnh được phái xuống Trái Đất, từ đó nảy sinh câu hỏi về số phận của những thiên thần từng gắn bó với Yu IlHan.
 
-Dĩ nhiên, người chủ động đề xuất chính là Lita, và vị chủ tọa Myuta dù thừa biết tỏng dã tâm của cô nhưng cũng đành phải đưa ra câu trả lời mà cô mong muốn.
+Dĩ nhiên, người chủ động đề xuất chính là Lita, và vị chủ tọa Myuta dù thừa biết tỏng toan tính của cô nhưng cũng đành phải đưa ra câu trả lời mà cô mong muốn.
 
 Đúng vậy. Để gia tăng phần thưởng đền bù, Yu IlHan giờ đây đã có thêm một thiên thần nữa chịu trách nhiệm trông coi mình.
 
@@ -114,7 +114,7 @@ Dù rất biết ơn vì Lita đã nhắc nhở điều đó, nhưng tại sao c
 
 Yu IlHan ngoan ngoãn làm theo lời cô dặn. Ngay khoảnh khắc tiếp theo, những dòng chữ màu xanh lục thi nhau hiện lên trên võng mạc của anh hết dòng này đến dòng khác.
 
-Tương tự như lúc nhận chức nghiệp chính, những thành tựu và chiến tích của anh đã được tôi luyện thành các ghi chép và lần lượt hiện ra. Bắt đầu từ thợ rèn, đầu bếp, thợ mộc, cho đến người phù phép. Cứ như thể toàn bộ mọi chức nghiệp phụ trên cõi đời này đều đang tề tựu tại nơi đây vậy.
+Tương tự như lúc nhận chức nghiệp chính, những thành tựu và chiến tích của anh đã được tôi luyện thành các ghi chép và lần lượt hiện ra. Bắt đầu từ thợ rèn, đầu bếp, thợ mộc, cho đến thợ phù phép. Cứ như thể toàn bộ mọi chức nghiệp phụ trên cõi đời này đều đang tề tựu tại nơi đây vậy.
 
 Thế nhưng, nằm ở dưới đáy cùng của danh sách chữ màu xanh lục, lại có một dòng chữ đang tỏa ra ánh sáng trắng muốt rực rỡ.
 

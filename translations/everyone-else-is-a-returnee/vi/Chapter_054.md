@@ -96,7 +96,7 @@ Ngay lúc Erta đang hét toáng lên, Lita liền dè dặt đưa ra gợi ý.
 
 "Nhiều hơn là thế nào cơ?"
 
-[Hóa ra IlHan của chị vẫn chưa biết gì sao. Nhưng không hề gì. Bà chị này biết một tí%$#$%^&.]
+[Hóa ra IlHan của tôi vẫn chưa biết gì sao. Nhưng không hề gì. Chị đây biết một tí%$#$%^&.]
 
 Đúng khoảnh khắc đó, Erta đã bịt chặt lấy miệng của Lita.
 
@@ -146,7 +146,7 @@ Dĩ nhiên, lý do Yu IlHan muốn nâng tầm trang bị cho mọi người l�
 
 Dù sự thật là bất cứ nơi nào Yu IlHan đặt chân đến đều nguy hiểm hoặc sắp sửa trở nên nguy hiểm, nhưng với trình độ hiện tại của mọi người, chỉ cần một con Báo Bóng Tối khác xuất hiện thôi cũng đủ gây ra thiệt hại tới hàng chục, thậm chí hàng trăm sinh mạng.
 
-Ngay cả một con Báo Bóng Tối yếu ớt như thế đã vậy rồi, nếu như Reta Kar'iha đột ngột xuất hiện giữa lòng thủ đô thì sao? Yu IlHan ước tính hẳn sẽ có tới khoảng một trăm ngàn người phải bỏ mạng.
+Ngay cả một con Báo Bóng Tối yếu ớt như thế đã vậy rồi, nếu như Reta Kar'iha đột ngột xuất hiện giữa lòng thủ đô thì sao? Yu IlHan ước tính hẳn sẽ có tới khoảng một trăm ngàn người chịu thương vong.
 
 "Ngay cả khi tôi chỉ sản xuất hàng loạt những món đồ ngang tầm với bộ giáp da tôi từng mặc trước đây rồi bán cho 'Trấn Áp', sức chiến đấu của cả quốc gia cũng sẽ tăng thêm ít nhất hai mươi phần trăm."
 
@@ -164,7 +164,7 @@ Chính vì thế, Yu IlHan mới muốn giúp đỡ họ. Dẫu không định c
 
 "Phải."
 
-Tất nhiên, nếu một kẻ không hiểu rõ về anh nghe thấy điều đó, hẳn người ta sẽ bảo lòng kiêu hãnh của anh đã biến thành sự ngạo mạn chọc thủng cả trời xanh, thế nhưng Erta và Lita, những người hiểu quá rõ năng lực của Yu IlHan, chỉ biết lắc đầu ngao ngán.
+Tất nhiên, nếu một kẻ không hiểu rõ về anh nghe thấy điều đó, hẳn người ta sẽ bảo lòng kiêu hãnh của anh đã biến thành sự ngạo mạn chọc thủng cả trời xanh, thế nhưng Erta và Lita, những người hiểu quá rõ năng lực của Yu IlHan, chỉ khẽ lắc đầu không đồng tình.
 
 [Tôi thì nghĩ phải tăng tới năm mươi phần trăm ấy chứ?] (Lita)
 
