@@ -102,3 +102,9 @@
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
 | Republic of Korea |  | Hàn Quốc / Đại Hàn Dân Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
+| Earth |  | Trái Đất | địa danh | 1 | Thế giới quê hương của Yu IlHan |
+| Inventory |  | Túi đồ | hệ thống | 6 | Không gian chứa đồ ma pháp |
+| Trap of Destruction |  | Bẫy Hủy Diệt | vật phẩm | 17 | Ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục |
+| Harkanium |  | Harkanium | vật phẩm | 17 | Kim loại thế giới bậc cao phát ra ánh sáng đen kỳ ảo |
+| Fecinom |  | Fecinom | vật phẩm | 17 | Kim loại thế giới bậc cao chứa năng lượng đỏ rực thô ráp |
+| El Hazra |  | El Hazra | vật phẩm | 17 | Kim loại lỏng thế giới bậc cao phát ra ánh sáng lam nhạt |

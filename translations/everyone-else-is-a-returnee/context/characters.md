@@ -32,6 +32,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 14: Đạt cấp độ 23 sau khi một mình kết liễu Gấu Lớn Nâu Lv 54 (quái vật chuyển chức lần 2) chỉ bằng 3 đòn thương; nhận danh hiệu "Một đòn cho ta, một đòn cho ngươi!" (+10% tỷ lệ chí mạng) và mở khóa Kỹ năng Chí Mạng; nhận thêm biệt danh "Người Áo Đen" từ quân đội.
 - Trạng thái tính đến chương 15: Đạt cấp độ 24 sau khi tiêu diệt thêm 3 đàn quái vật nhờ hợp tác thông tin với thiếu tá Yun DaeHan; tích lũy gần 1 tỷ won tiền mặt chuẩn bị lập xưởng chế tác; lại tiếp tục trở thành kẻ cô độc khi toàn bộ nhân loại được kết nối trở lại thế giới khác.
 - Trạng thái tính đến chương 16: Hoàn thành Nhiệm Vụ Thiên Giới 001, tăng 1 điểm toàn bộ chỉ số; nhận phần thưởng đặc biệt là Ngọn Lửa Vĩnh Cửu từ thiên giới (do Lita kiên quyết đòi cho anh); mua một nhà kho làm xưởng chế tác riêng và nhận nhiệm vụ thiết lập hầm ngục trên Trái Đất.
+- Trạng thái tính đến chương 17: Nhận nhiệm vụ thiên giới chế tạo 'Bẫy Hủy Diệt' để thiết lập hầm ngục cho Trái Đất; phối hợp cùng Ngọn Lửa Vĩnh Cửu gia công thành công kim loại thế giới bậc cao Harkanium, thể hiện trình độ thợ rèn phi phàm khiến Erta chấn động thừa nhận tiềm năng kỹ nghệ có thể sánh ngang và thách thức cả Thượng Đế.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

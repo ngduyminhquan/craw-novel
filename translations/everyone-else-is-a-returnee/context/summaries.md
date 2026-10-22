@@ -102,4 +102,10 @@ IlHan dùng tiền mua đứt nhà kho làm xưởng chế tác, tự tay sơ ch
 Nhờ hoàn thành phần lớn nhiệm vụ và được Lita kiên quyết đòi quyền lợi, IlHan tăng 1 điểm mọi chỉ số và nhận được Ngọn Lửa Vĩnh Cửu — ngọn lửa sống bất diệt từ thiên giới hỗ trợ đắc lực cho việc rèn đúc.
 Cảnh kết thúc: Erta hào hứng thông báo nhiệm vụ thứ hai mà thiên giới chuẩn bị riêng cho IlHan: anh sẽ phải tự tay thiết lập các hầm ngục trên Trái Đất.
 
+## 17
+Erta giao nhiệm vụ kiến tạo hầm ngục cho Yu IlHan, giải thích các hầm ngục của Thượng Đế thất bại do quái vật Trái Đất đã miễn nhiễm với thần lực sau 1000 năm ngừng đọng thời gian, và chỉ có kỹ nghệ rèn đúc phi phàm của IlHan mới có thể thay thế.
+Thiên giới cung cấp bản thiết kế ma pháp trận cùng các nguyên liệu thế giới bậc cao (kim loại Harkanium, Fecinom, kim loại lỏng El Hazra, ma thạch khổng lồ và bộ dụng cụ rèn thượng đẳng) để anh chế tạo 'Bẫy Hủy Diệt' — ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục.
+IlHan kết hợp Ngọn Lửa Vĩnh Cửu (được nuôi bằng ma thạch), búa và đe thần cùng kỹ thuật thợ rèn thượng thừa để uốn nắn khối kim loại Harkanium cứng rắn thành khối lập phương và các vòng tròn kim loại bao quanh, khiến Erta chấn động nhận định kỹ nghệ của anh có tiềm năng vượt qua cả Thượng Đế.
+Cảnh kết thúc: Hoàn thành khâu tạo hình, IlHan thở dài càu nhàu rồi cầm chiếc đục nhỏ áp lên Bẫy Hủy Diệt để bắt đầu công đoạn khảm nạm ma pháp trận đầy gian nan.
+
 

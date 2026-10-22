@@ -21,7 +21,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | reviewed |  |
 | 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | reviewed |  |
 | 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | done |  |
-| 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | todo |  |
+| 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | done |  |
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | todo |  |
 | 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | todo |  |
 | 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -428,3 +429,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#15 đoạn 92] Cụm "The same text" → Chấp nhận sửa thành "Cùng một dòng chữ" (orchestrator)
 - [#16] Thuật ngữ "Eternal Flame" (ngọn lửa sống bất diệt từ thiên giới, phần thưởng cho IlHan) — Tạm chọn: "Ngọn Lửa Vĩnh Cửu". Phương án khác: "Vĩnh Hằng Chi Hỏa", "Hỏa Vĩnh Cửu". Tạm dùng trong bản dịch: "Ngọn Lửa Vĩnh Cửu". → Chốt 'Ngọn Lửa Vĩnh Cửu' (orchestrator)
 - [#16] Thuật ngữ "Heavenly Quest" (nhiệm vụ từ thiên giới giao cho Kẻ Hành Quyết) — Tạm chọn: "Nhiệm Vụ Thiên Giới". Phương án khác: "Thiên Vụ", "Nhiệm Vụ Thiên Đàng". Tạm dùng trong bản dịch: "Nhiệm Vụ Thiên Giới". → Chốt 'Nhiệm Vụ Thiên Giới' (orchestrator)
+- [#17] Thuật ngữ "Trap of Destruction" (ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục) — Tạm chọn: "Bẫy Hủy Diệt". Phương án khác: "Cạm Bẫy Hủy Diệt", "Cạm Bẫy Diệt Vong". Tạm dùng trong bản dịch: "Bẫy Hủy Diệt". → Chốt 'Bẫy Hủy Diệt' (orchestrator)
+- [#17] Thuật ngữ "Inventory" (không gian chứa đồ ma pháp) — Tạm chọn: "Túi đồ". Phương án khác: "Kho đồ", "Túi không gian". Tạm dùng trong bản dịch: "Túi đồ" (khớp với nhắc đến ở chương 6). → Chốt 'Túi đồ' (orchestrator)
+- [#17] Tên các kim loại/nguyên liệu từ thế giới bậc cao "Harkanium", "Fecinom", "El Hazra" (kim loại lỏng) — Tạm chọn: giữ nguyên dạng Latin chuẩn theo rules.md cho tên riêng/khoáng thạch thế giới khác. Tạm dùng trong bản dịch: "Harkanium", "Fecinom", "El Hazra". → Chốt giữ nguyên tên kim loại thế giới bậc cao: Harkanium, Fecinom, El Hazra (orchestrator)
