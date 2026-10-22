@@ -237,3 +237,4 @@
 | Giant Sand Scorpion |  | Bọ Cạp Cát Khổng Lồ | quái vật | 41 | Biến thể khổng lồ cấp 78 của Bọ Cạp Cát xuất hiện tại hầm ngục Grand Canyon |
 | Dark Knight of LA |  | Hiệp Sĩ Bóng Đêm LA | khác | 41 | Biệt danh cư dân mạng và truyền thông đặt cho Yu IlHan sau chiến tích tại sân bay Los Angeles |
 | Chekhov's Gun |  | Khẩu súng của Chekhov | khác | 41 | Nguyên lý sáng tác nổi tiếng của nhà văn Nga Anton Chekhov |
+| Shiveringly Hard Shadow Leopard's Black Full plate Armor | Shiveringly Hard Shadow Leopard's Black Full-plate Armor | Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi | vật phẩm | 42 | Đại Khải Đen sau khi được Yu IlHan cường hóa bằng ma thạch chuyển chức lần 3 của Báo Bóng Tối qua Chế Tác Mana, tăng 40% phòng thủ và 50% sức tấn công khi tập kích |

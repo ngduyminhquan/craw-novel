@@ -256,3 +256,9 @@ Yu IlHan bàn với Erta phương án hoàn thành nhiệm vụ chuyển chức 
 Trong lúc nướng thịt troll ăn lấy sức, IlHan phát hiện nhóm Na YuNa, HaJin và thiên thần hộ mệnh Feyta đang bị Bọ Cạp Cát Khổng Lồ truy đuổi; anh dùng xiên thịt làm từ Thiết Tâm phi trúng càng giải cứu YuNa mà không làm mất hiệu ứng Ẩn Thân bị động.
 IlHan tung người vung Hắc Thương Tử Thần nhất kích tất sát Bọ Cạp Cát Khổng Lồ Lv 78, thu về hơn 660.000 EXP và nâng kỹ năng Chí Mạng lên Lv 9 nhờ khả năng miễn nhiễm độc từ Kháng Độc Cực Hạn.
 Cảnh kết thúc: Na YuNa và HaJin nhận ra IlHan chính là 'Hiệp Sĩ Bóng Đêm LA' đang gây sốt trên Facebook sau chiến tích quét sạch Hiện Tượng Tràn, trong khi Erta nghiến răng nguyền rủa mạng xã hội vì đã làm lộ thông tin.
+
+## 42
+Yu IlHan giải phẫu Bọ Cạp Cát Khổng Lồ; Na YuNa dùng thần lực thanh tẩy độc tố trong thịt và được IlHan nướng thịt đãi ăn bằng xiên Thiết Tâm, sau đó anh dứt khoát từ chối lời rủ lập tổ đội của cô nàng.
+Kang HaJin và Na YuNa trao đổi danh thiếp (cùng công ty với Empress Kang MiRae) hứa sẽ báo đáp rồi rời đi; IlHan nhận ra sự trùng hợp nhưng không bận tâm và dự định sẽ bám theo sau họ để tìm săn bọ cạp.
+IlHan dùng viên ma thạch chuyển chức lần 3 của Báo Bóng Tối cùng Chế Tác Mana nâng cấp bộ đại khải thành công thành 'Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi' (Phẩm cấp Truyền Thuyết, Phòng thủ 5.300, tăng 40% phòng thủ và tăng 50% sức tấn công khi tấn công bất ngờ).
+Cảnh kết thúc: Yu IlHan lấy Súng Bắn Cọc, Dây Thun Khổng Lồ cùng 3 viên ma thạch chuyển chức 2 ra chuẩn bị cải tiến vũ khí, tuyên bố con người hay đồ vật đều đạt sức mạnh tối thượng vào khoảnh khắc cận kề cái chết.
