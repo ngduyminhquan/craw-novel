@@ -82,3 +82,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lita | Myuta | tôi | Myuta | 50 | Lita nói với Myuta |
 | Myuta | Erta | ta / tôi | Erta | 50 | Chủ tọa hội nghị nói với Erta |
 | Erta | Myuta | tôi | ngài Myuta / Myuta-nim | 50 | Erta kính cẩn hỏi Myuta |
+| Lita | Erta | tôi | Erta / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |
+| Erta | Lita | tôi | Lita / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |

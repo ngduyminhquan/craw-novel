@@ -56,7 +56,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | reviewed |  |
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | reviewed |  |
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | reviewed |  |
-| 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | todo |  |
+| 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | done |  |
 | 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | todo |  |
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | todo |  |
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | todo |  |
@@ -544,3 +544,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#50] Tiếng cười bật ra của Kang MiRae ở đoạn 33 (fu) → Chốt sửa từ 'Không cho cơ à, phù.' thành 'Không cho cơ à, phì.' để khớp với câu vặn hỏi cười nhạo của Na YuNa ở đoạn 34. (orchestrator)
 - [#50] Cách Lita gọi Yu IlHan ở đoạn 124 và gọi Myuta ở đoạn 156 → Chốt sửa đoạn 124 thành '[Cậu ấy là một đứa trẻ ngoan mà!]' và đoạn 156 thành '[Myuta, thật sao? Cảm ơn nhiều lắm!]' đúng bảng pronouns.md. (orchestrator)
 - [#31-51] Chuẩn hóa các mục dùng dấu "/" trong glossary.md ("Status", "Executor", "Shiveringly Hard and Secretive Black Full-plate Armor", "Angel Cobra Twist") và bổ sung alias "Magic stones" → Tách mỗi khái niệm thành dòng riêng: "Status" → "Bảng chỉ số", "Status points" → "Điểm chỉ số"; "Executor" → "Kẻ Hành Quyết", thêm dòng "Executor angels" → "thiên thần chấp hành"; chốt "Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo" (sửa Ch.33, Ch.34) và "Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần" (Ch.49); bổ sung alias "Magic stones" vào "Magic stone" → "Ma thạch". (orchestrator)
+- [#52] Dịch hay giữ nguyên thuật ngữ quái vật Undead? → Giữ nguyên Undead, nhất quán với các chủng loài kỳ ảo kinh điển được giữ nguyên như Troll, Elf. (orchestrator)
+- [#52] Dịch tên chức nghiệp phụ Angel's Partner? → Chốt Bạn Đồng Hành Thiên Thần, khớp với tên arc và tình huống ghép hai danh từ thông dụng. (orchestrator)
+- [#52] Dịch tên kỹ năng Angel's Protection và Angel's Support? → Chốt Thiên Thần Bảo Hộ và Thiên Thần Chi Viện theo quy tắc Hán Việt ngắn gọn. (orchestrator)

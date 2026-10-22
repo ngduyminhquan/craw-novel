@@ -263,7 +263,7 @@
 | Moonwalk |  | Moonwalk | khác | 48 | Điệu nhảy trượt lùi kinh điển của Michael Jackson |
 | Daréu | Dareu | Daréu | địa danh | 50 | Thế Giới Bị Bỏ Rơi quê hương của Reta Kar'iha và tộc Elf |
 | Elf | elf | Elf | chủng tộc | 50 | Được phép giữ nguyên: Chủng tộc thông tuệ trong thần thoại kỳ ảo phương Tây |
-| Army of Heaven |  | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
+| Army of Heaven | Heaven's Army | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
 | Atlatl |  | Atlatl | vật phẩm | 51 | Dụng cụ phóng lao cổ đại dùng đòn bẩy vung ném lao đi |
 | Destructive |  | Hủy Diệt | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng sức xuyên phá và sức tấn công |
 | Frighteningly |  | Kinh Hãi | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác |
@@ -276,3 +276,12 @@
 | Extermination Spiked Spear |  | Thương Gai Tuyệt Diệt | vật phẩm | 51 | Vũ khí phẩm cấp Truyền Thuyết được Yu IlHan rèn từ kim loại nung chảy của Lưỡi Hái Tử Thần, tăng 70% sát thương chí mạng |
 | Angel Cobra Twist | angel cobra twist | Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần | khác | 49 | Đòn đấu vật hài hước Erta dùng để răn đe Feyta |
 | Incheon Airport | Incheon airport | Sân bay Incheon | địa danh | 50 | Sân bay quốc tế Incheon tại Hàn Quốc |
+| Spatial expansion |  | Mở rộng không gian | hệ thống | 52 | Dòng thuộc tính ma pháp mở rộng không gian chứa của Túi Đeo Chéo |
+| Weight control |  | Kiểm soát trọng lượng | hệ thống | 52 | Dòng thuộc tính ma pháp điều chỉnh sức nặng đồ vật trong Túi Đeo Chéo |
+| Rot-proof | rot-proof | Chống thối rữa | hệ thống | 52 | Dòng thuộc tính ma pháp ngăn chặn sự phân hủy hữu cơ trong Túi Đeo Chéo |
+| Weight transfer |  | Chuyển giao trọng lượng | hệ thống | 52 | Dòng thuộc tính ma pháp chuyển trọng lượng của Túi Đeo Chéo sang vật phẩm khác |
+| Angel's Partner |  | Bạn Đồng Hành Thiên Thần | chức nghiệp | 52 | Chức nghiệp phụ độc nhất của Yu IlHan liên kết với tối đa 2 thiên thần |
+| Angel's Protection |  | Thiên Thần Bảo Hộ | kỹ năng | 52 | Kỹ năng bị động của Bạn Đồng Hành Thiên Thần, giảm đòn chí mạng, tăng kháng lời nguyền và thưởng nhiệm vụ |
+| Angel's Support | Angels' Support | Thiên Thần Chi Viện | kỹ năng | 52 | Kỹ năng chủ động của Bạn Đồng Hành Thiên Thần, mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi |
+| Undead | undead | Undead | quái vật | 52 | Được phép giữ nguyên: Quái vật thuộc chủng loại Undead/bất tử, kẻ thù của Quân Đội Thiên Giới |
+| Conan |  | Conan | khác | 52 | Được phép giữ nguyên: Thám tử lừng danh Conan trong manga cùng tên (tham chiếu văn hóa đại chúng) |
