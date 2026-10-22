@@ -30,7 +30,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | reviewed |  |
 | 24 |  | Chapter_024 - You Want to Hunt With Me!_ (5).txt | You Want to Hunt With Me!_ (5) | reviewed |  |
 | 25 |  | Chapter_025 - You Want to Hunt with Me!_ (6).txt | You Want to Hunt with Me!_ (6) | done |  |
-| 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | todo |  |
+| 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | done |  |
 | 27 |  | Chapter_027 - Call me Ishmael (2).txt | Call me Ishmael (2) | todo |  |
 | 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | todo |  |
 | 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | todo |  |
@@ -452,3 +452,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#23 đoạn 41] Dòng thuộc tính tạo tác 'vast' và 'heavenly' — Tạm chọn: 'Bao La' và 'Thiên Giới'. Phương án khác: 'Rộng Lớn' / 'Bát Ngát', 'Thần Thánh'. Tạm dùng trong bản dịch: 'Bao La' và 'Thiên Giới'. → Chốt 'Bao La' và 'Thiên Giới' (orchestrator)
 - [#24] Thuật ngữ điều kiện tiến hóa kỹ năng "Instakill" (Instakill a 3rd class monster with a piercing/slashing strike 0/500) — Tạm chọn: "Nhất Kích Tất Sát". Phương án khác: "Hạ gục trong một đòn", "Nhất kích". Tạm dùng trong bản dịch: "Nhất Kích Tất Sát". → Chốt 'Nhất Kích Tất Sát' (orchestrator)
 - [#24] Tên địa danh "Mount Baekdu" và "Mount Everest" — Tạm chọn: "Núi Baekdu" và "Núi Everest". Phương án khác: "Đỉnh Everest", "Bạch Đầu Sơn". Tạm dùng trong bản dịch: "Núi Baekdu" và "Núi Everest". → Chốt 'Núi Baekdu' và 'Núi Everest' (orchestrator)
+- [#26] Kỹ năng ma pháp "Twin Lightning" của Empress — Tạm chọn: "Song Lôi". Phương án khác: "Song Trùng Lôi", "Lôi Điện Kép". Tạm dùng trong bản dịch: "Song Lôi". → Chốt 'Song Lôi' (orchestrator)
+- [#26] Nhân vật và tác phẩm văn học "Ishmael" / "Moby Dick" trong trò đùa của Yu IlHan — Tạm chọn: giữ nguyên "Ishmael" và "Moby Dick" theo nguyên tác Herman Melville; câu thoại "Call me Ishmael" dịch thành "Cứ gọi tôi là Ishmael". Tạm dùng trong bản dịch: "Cứ gọi tôi là Ishmael" / "Moby Dick". → Chốt giữ nguyên 'Ishmael' và 'Moby Dick' ('Cứ gọi tôi là Ishmael') (orchestrator)
+- [#26] Thuật ngữ "subclass" (chức nghiệp thứ hai/phân nhánh chức nghiệp) — Tạm chọn: "chức nghiệp phụ". Phương án khác: "phân nhánh chức nghiệp". Tạm dùng trong bản dịch: "chức nghiệp phụ". → Chốt 'chức nghiệp phụ' (nhất quán với chương 13) (orchestrator)

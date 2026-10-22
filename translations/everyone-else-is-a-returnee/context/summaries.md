@@ -151,4 +151,11 @@ Trở về xưởng, IlHan tận dụng toàn bộ xương, da và viên ma th�
 Kỹ năng Chế Tác Mana thăng lên Cấp 12 khi IlHan hoàn thành bộ tạo tác 'Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn' (Phẩm cấp Độc Nhất, Sức tấn công 1.050, tăng 20% tỷ lệ/sát thương chí mạng và 20% lực trói buộc).
 Cảnh kết thúc: IlHan hẹn gặp MiRae tại hiện trường, dặn cô chờ đợi để anh phá vỡ khả năng Ẩn Thân của quái thú; anh cảm thấy ấm lòng khi được người khác tin tưởng thừa nhận, vác bộ lao săn nặng trịch tăng tốc lao nhanh về phía trận chiến.
 
+## 26
+Yu IlHan đến hiện trường tan hoang tại Seoul, phát hiện con báo đen chuyển chức lần 3 đang ung dung đi lại; nhờ hiệu ứng Ẩn Thân che giấu cả các cọc xương tạo tác, anh dễ dàng đóng cọc giăng bẫy ngay trước mắt nó mà không hề bị phát giác.
+IlHan phóng ngọn lao đầu tiên găm vào đùi quái thú phá vỡ Ẩn Thân của nó, sau đó thừa thắng xông lên đâm ngọn lao thứ hai trúng vai gây đòn Chí Mạng; dù bị móng vuốt nó đánh vỡ các lưỡi dao xương trên giáp tay, anh vẫn an toàn phòng ngự.
+Bị quái vật dùng kỹ năng chém gió (lưỡi đao gió) tầm xa tấn công, IlHan né tránh rồi phóng tiếp ngọn lao thứ ba cắm phập vào chân trước của nó, phong ấn đòn chém gió; IlHan đùa cợt ví mình như thợ săn Ishmael trong Moby Dick.
+Cảnh kết thúc: Giữa lúc IlHan chưa biết làm sao gây thêm sát thương khi con quái vật đang giãy giụa điên cuồng, Empress kịp thời xuất hiện trên xe bọc thép tung đòn ma pháp "Song Lôi" cực mạnh làm choáng váng quái thú.
+
+
 

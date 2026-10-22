@@ -156,3 +156,6 @@
 | Cruel |  | Tàn Nhẫn | hệ thống | 25 | Tiền tố dòng thuộc tính alpha/beta bậc cao tăng lực trói buộc |
 | Violent Cruel Leopard Hunter's Harpoon |  | Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn | vật phẩm | 25 | Bộ tạo tác săn bắt gồm 6 cọc xương, 6 lao ngạnh và 6 dây da báo do IlHan chế tạo |
 | Harpoon |  | Lao săn / Cây lao | vật phẩm | 25 | Ngọn lao có ngạnh dùng để đâm và kéo giữ mục tiêu |
+| Twin Lightning |  | Song Lôi | kỹ năng | 26 | Kỹ năng ma pháp lôi hệ của Empress |
+| Ishmael |  | Ishmael | khác | 26 | Nhân vật thợ săn cá voi trong tiểu thuyết Moby Dick |
+| Moby Dick |  | Moby Dick | khác | 26 | Tiểu thuyết kinh điển của Herman Melville |
