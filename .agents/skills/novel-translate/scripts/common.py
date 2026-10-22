@@ -11,6 +11,11 @@ TRANSLATIONS = ROOT / "translations"
 RAW_NAME_RE = re.compile(r"^Chapter_(\d+)\s*-\s*(.+)\.txt$")
 STORY_NO_RE = re.compile(r"^Chapter\s+(\d+)_?\s*", re.IGNORECASE)
 TN_RE = re.compile(r"\b(T/N|TL\s*note|Translator[’']?s?\s*note|TL:|Editor[’']?s?\s*note|ED:|PR:)", re.IGNORECASE)
+_NOTE_KW = r"(?:T/N|TL\s*note|TL|Translator[’']?s?\s*note|Editor[’']?s?\s*note|ED|PR)"
+# Ghi chú kẹp trong câu: "I can fly!" (T/N: Said in English)
+INLINE_NOTE_RE = re.compile(rf"\s*[(\[]\s*{_NOTE_KW}\s*[:.\-]?[^)\]]*[)\]]", re.IGNORECASE)
+# Dòng chỉ có tiêu đề ghi chú ("Editors Note.") — từ đây đến hết file là lời nhắn của translator/editor
+NOTE_HEADER_RE = re.compile(rf"^{_NOTE_KW}\s*[:.]?\s*$", re.IGNORECASE)
 SEPARATOR_RE = re.compile(r"^[=\-_*~]{3,}$")
 
 STATUSES = ("todo", "done", "reviewed", "skip")
@@ -134,32 +139,60 @@ def entries(path):
     return out
 
 
-def term_regex(term):
-    return re.compile(r"(?<![\w’'])" + re.escape(term) + r"(?![\w’'])", re.IGNORECASE)
+def term_regex(term, case_sensitive=False):
+    flags = 0 if case_sensitive else re.IGNORECASE
+    return re.compile(r"(?<![\w’'])" + re.escape(term) + r"(?![\w’'])", flags)
 
 
-def contains(text, term):
-    return bool(term_regex(term).search(text))
+def contains(text, term, case_sensitive=False):
+    return bool(term_regex(term, case_sensitive).search(text))
+
+
+def contains_term(raw_text, term):
+    """Tìm thuật ngữ trong raw. Thuật ngữ có chữ hoa thì so đúng hoa/thường,
+    để 'unique traces' không bị tính là phẩm cấp 'Unique'."""
+    return contains(raw_text, term, case_sensitive=term != term.lower())
 
 
 # ---------- Raw ----------
 
-def clean_raw(text):
-    """Bỏ dòng tiêu đề, dòng phân cách và ghi chú translator."""
+def strip_notes(line):
+    """Bỏ ghi chú translator kẹp trong dòng; trả về "" nếu cả dòng chỉ là ghi chú."""
+    s = INLINE_NOTE_RE.sub("", line).strip()
+    if TN_RE.match(s):  # dòng bắt đầu bằng "T/N: ..." không có ngoặc
+        return ""
+    return s
+
+
+def clean_raw(text, ignore=()):
+    """Các đoạn truyện của raw: bỏ dòng tiêu đề, dòng phân cách, ghi chú translator/editor
+    (giữ phần truyện của dòng có ghi chú kẹp giữa), bỏ phần lời nhắn cuối chương,
+    và các dòng nằm trong `ignore` (so nguyên dòng sau khi strip)."""
+    ignore = {s.strip() for s in ignore}
     lines = text.splitlines()
     if lines and not lines[0].strip().startswith(("\"", "“", "[")):
         lines = lines[1:]  # dòng đầu là tiêu đề chương
     out = []
     for line in lines:
         s = line.strip()
-        if not s or SEPARATOR_RE.match(s) or TN_RE.search(s):
+        if NOTE_HEADER_RE.match(s):
+            break
+        if not s or SEPARATOR_RE.match(s) or s in ignore:
             continue
-        out.append(s)
+        s = strip_notes(s)
+        if s:
+            out.append(s)
     return out
 
 
 def raw_file(novel, row):
     return novel["raw_path"] / row["file raw"]
+
+
+def raw_paragraphs(novel, row):
+    """clean_raw áp thêm danh sách `raw_ignore_lines` trong novel.json
+    (dòng raw không phải truyện mà rules.md quyết định bỏ, vd bảng chú giải ký hiệu)."""
+    return clean_raw(read_text(raw_file(novel, row)), novel.get("raw_ignore_lines", []))
 
 
 # ---------- Progress ----------

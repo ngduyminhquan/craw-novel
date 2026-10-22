@@ -8,7 +8,7 @@ thuật ngữ mới chưa có trong glossary, tóm tắt 3 chương trước và
 import argparse
 import re
 
-from common import (TRANSLATED, clean_raw, contains, die, entries, get_row, load_novel, load_progress, raw_file,
+from common import (TRANSLATED, contains, raw_paragraphs, die, entries, get_row, load_novel, load_progress, raw_file,
                     read_text, table_with, utf8_stdout, vi_file)
 from extract_terms import pov_hint, report
 
@@ -65,7 +65,7 @@ def main():
         print(f"CẢNH BÁO: chương #{idx} đang 'skip' ({row['ghi chú']}).")
 
     raw = raw_file(novel, row)
-    paras = clean_raw(read_text(raw))
+    paras = raw_paragraphs(novel, row)
     text = "\n".join(paras)
     words = len(text.split())
 

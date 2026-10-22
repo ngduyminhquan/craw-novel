@@ -3,7 +3,8 @@
     python orchestrate.py <slug> next [--until N] [--batch 3]
     python orchestrate.py <slug> brief <init|translate|review|fix> [--n N] [--range R]
                                        [--raw DIR --title T] [--review-report F] [--decisions F]
-    python orchestrate.py <slug> verify <range> [--status done|reviewed]
+                                       [--keep-status]
+    python orchestrate.py <slug> verify <range> [--status done|reviewed|translated]
     python orchestrate.py <slug> questions
     python orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"
 """
@@ -16,7 +17,7 @@ from string import Template
 SKILLS = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(SKILLS / "novel-translate" / "scripts"))
 
-from common import (ROOT, TRANSLATIONS, die, entries, get_row, load_novel, load_progress, parse_range,  # noqa: E402
+from common import (ROOT, TRANSLATED, TRANSLATIONS, die, entries, get_row, load_novel, load_progress, parse_range,  # noqa: E402
                     progress_path, read_text, utf8_stdout, vi_file)
 from qa_check import check  # noqa: E402
 
@@ -87,11 +88,16 @@ def resolve(novel, needle, decision):
 
 def cmd_next(slug, until, batch):
     if not initialized(slug):
-        print("action=init")
+        print("action=init open_questions=0")
         return
     novel = load_novel(slug)
     rows = load_progress(novel)
     q = len(open_questions(novel))
+    # Chương đã dịch mà nay QA báo LỖI (vd sau khi sửa script QA) thì sửa trước khi làm tiếp.
+    broken = [r["idx"] for r in rows if r["trạng thái"] in TRANSLATED and check(novel, r)[0]]
+    if broken:
+        print(f"action=repair range={fmt_range(broken)} open_questions={q}")
+        return
     pending = [r["idx"] for r in rows if r["trạng thái"] == "done"]
     todo = [r["idx"] for r in rows if r["trạng thái"] == "todo" and (until is None or r["idx"] <= until)]
     if len(pending) >= batch:
@@ -130,7 +136,10 @@ def cmd_brief(slug, args):
             if not args.decisions:
                 die("brief fix cần --decisions")
             values.update(decisions=args.decisions,
-                          review_report=args.review_report or "(không có — chỉ sửa theo file quyết định)")
+                          review_report=args.review_report or "(không có — chỉ sửa theo file quyết định)",
+                          status_rule=("Giữ nguyên trạng thái các chương trong `progress.md`, không đặt `reviewed`."
+                                       if args.keep_status else
+                                       "Các chương $range trong `progress.md` là `reviewed`.".replace("$range", args.range)))
     text = Template(read_text(BRIEFS / f"{args.kind}.md")).substitute(values)
     TASKS.mkdir(parents=True, exist_ok=True)
     task = TASKS / f"{name}.md"
@@ -155,7 +164,7 @@ def cmd_verify(slug, spec, status):
         else:
             errors, _ = check(novel, row)
             issues += [f"QA: {e}" for e in errors]
-        if row["trạng thái"] != status:
+        if row["trạng thái"] != status and not (status == "translated" and row["trạng thái"] in TRANSLATED):
             issues.append(f"trạng thái là '{row['trạng thái']}', cần '{status}'")
         if not re.search(rf"(?m)^## +#?{idx}\b", summaries):
             issues.append("summaries.md thiếu mục tóm tắt")
@@ -182,9 +191,12 @@ def main():
     p.add_argument("--title")
     p.add_argument("--review-report")
     p.add_argument("--decisions")
+    p.add_argument("--keep-status", action="store_true",
+                   help="fix chỉ để áp dụng quyết định cho chương cũ: không đổi trạng thái sang reviewed")
     p = sub.add_parser("verify")
     p.add_argument("range")
-    p.add_argument("--status", default="done", choices=["done", "reviewed"])
+    p.add_argument("--status", default="done", choices=["done", "reviewed", "translated"],
+                   help="translated = done hoặc reviewed")
     sub.add_parser("questions")
     p = sub.add_parser("resolve")
     p.add_argument("needle")

@@ -12,7 +12,7 @@ Tiêu chí xong:
 - Đã xử lý mọi mục được chấp nhận.
 - Đã cập nhật context theo file quyết định.
 - `python .agents/skills/novel-translate/scripts/qa_check.py $slug $range` không còn `[LỖI]`.
-- Các chương $range trong `progress.md` là `reviewed`.
+- $status_rule
 
 Báo cáo gồm:
 - số lỗi đã sửa ở từng chương;

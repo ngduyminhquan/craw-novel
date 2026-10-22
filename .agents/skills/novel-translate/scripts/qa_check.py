@@ -10,7 +10,7 @@ import argparse
 import re
 import sys
 
-from common import (TN_RE, clean_raw, contains, entries, get_row, is_placeholder, load_novel, load_progress,
+from common import (TN_RE, contains_term, raw_paragraphs, entries, get_row, is_placeholder, load_novel, load_progress,
                     parse_range, raw_file, read_text, utf8_stdout, vi_file)
 
 # Từ tiếng Anh không trùng với âm tiết tiếng Việt không dấu.
@@ -22,8 +22,13 @@ when where who why how into about because just only very then than these those
 ENGLISH_RE = re.compile(r"\b(" + "|".join(sorted(ENGLISH)) + r")\b", re.IGNORECASE)
 
 
+# Dòng chỉ gồm link markdown, vd điều hướng "[← Chương trước](Chapter_001.md) | [Chương tiếp theo →](...)"
+NAV_RE = re.compile(r"^(\s*\[[^\]]*\]\([^)]*\)\s*\|?)+\s*$")
+
+
 def vi_paragraphs(text):
-    return [l.strip() for l in text.splitlines() if l.strip() and not l.strip().startswith("#")]
+    return [l.strip() for l in text.splitlines()
+            if l.strip() and not l.strip().startswith("#") and not NAV_RE.match(l)]
 
 
 def check(novel, row):
@@ -32,7 +37,7 @@ def check(novel, row):
     vf = vi_file(novel, idx)
     if not vf.exists():
         return [f"không có file bản dịch {vf.as_posix()}"], []
-    raw_paras = clean_raw(read_text(raw_file(novel, row)))
+    raw_paras = raw_paragraphs(novel, row)
     raw_text = "\n".join(raw_paras)
     vi_text = read_text(vf)
     vi_paras = vi_paragraphs(vi_text)
@@ -40,12 +45,14 @@ def check(novel, row):
     if not vi_text.lstrip().startswith("# "):
         warns.append("thiếu dòng tiêu đề '# Chương N: ...' ở đầu file")
 
+    # rules.md quy định mỗi đoạn raw là một đoạn dịch, nên thiếu dù một đoạn cũng là lỗi.
     diff = len(vi_paras) - len(raw_paras)
-    tol = max(3, round(len(raw_paras) * 0.05))
-    if abs(diff) > tol:
-        (errors if diff < 0 else warns).append(
-            f"số đoạn lệch: raw {len(raw_paras)}, bản dịch {len(vi_paras)} ({diff:+d}) — "
-            + ("nghi BỎ SÓT đoạn, đối chiếu lại" if diff < 0 else "có thể tách đoạn thừa"))
+    if diff < 0:
+        errors.append(f"số đoạn lệch: raw {len(raw_paras)}, bản dịch {len(vi_paras)} ({diff:+d}) — "
+                      "nghi BỎ SÓT hoặc GỘP đoạn, đối chiếu lại từng đoạn")
+    elif diff > 0:
+        warns.append(f"số đoạn lệch: raw {len(raw_paras)}, bản dịch {len(vi_paras)} ({diff:+d}) — "
+                     "có thể tách đoạn thừa")
 
     rb = sum(p.startswith("[") for p in raw_paras)
     vb = sum(p.startswith("[") for p in vi_paras)
@@ -65,7 +72,7 @@ def check(novel, row):
     ctx = novel["context"]
     for e in entries(ctx / "glossary.md") + entries(ctx / "characters.md"):
         terms = [e["en"], *e["aliases"]]
-        if not any(contains(raw_text, t) for t in terms):
+        if not any(contains_term(raw_text, t) for t in terms):
             continue
         if is_placeholder(e["vi"]):
             warns.append(f"'{e['en']}' có trong raw nhưng chưa có bản dịch trong context")

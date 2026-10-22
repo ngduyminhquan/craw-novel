@@ -9,7 +9,7 @@ import argparse
 import re
 from collections import Counter
 
-from common import (clean_raw, contains, entries, get_row, load_novel, load_progress, parse_range,
+from common import (contains, raw_paragraphs, entries, get_row, load_novel, load_progress, parse_range,
                     raw_file, read_text, utf8_stdout)
 
 # Từ viết hoa thông dụng, không phải tên riêng.
@@ -111,7 +111,7 @@ def load_paragraphs(novel, rows, idxs):
         r = get_row(rows, idx)
         if r["trạng thái"] == "skip":
             continue
-        paras.extend(clean_raw(read_text(raw_file(novel, r))))
+        paras.extend(raw_paragraphs(novel, r))
     return paras
 
 

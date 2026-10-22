@@ -22,7 +22,7 @@ Script: `python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> 
 2. Đọc `.agents/skills/herdr-spawn/SKILL.md` để biết cú pháp `spawn.sh` và `wait-report.sh`, cách gọi từ PowerShell, cách xử lý từng `status`. Skill này **ghi đè** herdr-spawn ở ba điểm:
    - đóng pane ngay sau khi xử lý xong báo cáo, không hỏi user;
    - câu hỏi về nội dung dịch do bạn quyết, theo mục "Quyết định";
-   - hộp thoại xin quyền được tự duyệt trong phạm vi ở mục "Panel bị chặn".
+   - panel chạy với `--dangerously-skip-permissions`, nên không có hộp thoại xin quyền. Bù lại, sau mỗi panel phải kiểm tra phạm vi (mục "Mở panel và chờ").
 3. Xác định với user:
    - `slug` của truyện;
    - nếu chưa khởi tạo thì cần thêm thư mục raw và tên truyện;
@@ -33,7 +33,8 @@ Script: `python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> 
 ## Vòng lặp
 
 ```
-next ──► init ──► [panel] khởi tạo ──► duyệt context ──► commit
+next ──► init ──► [panel] khởi tạo ──► duyệt context ──► commit + push
+     ├─► repair R ──► [panel] sửa lỗi QA ──► verify ──► commit + push
      ├─► translate N ──► [panel] dịch ──► verify ──► quyết câu hỏi ──► commit + push
      ├─► review a-b ──► [panel] review ──► phân loại lỗi ──► [panel] sửa ──► verify ──► commit + push
      └─► finished ──► báo cáo cuối
@@ -41,7 +42,7 @@ next ──► init ──► [panel] khởi tạo ──► duyệt context ─
 
 Mỗi vòng:
 
-1. `orchestrate.py <slug> next --until <N>`. Script in ra một dòng: `action=init`, `action=translate n=<N>`, `action=review range=<R>` hoặc `action=finished`, kèm `open_questions=<k>`.
+1. `orchestrate.py <slug> next --until <N>`. Script in ra một dòng: `action=init`, `action=repair range=<R>`, `action=translate n=<N>`, `action=review range=<R>` hoặc `action=finished`, kèm `open_questions=<k>`.
 2. Nếu `open_questions` > 0: chạy `orchestrate.py <slug> questions` rồi quyết từng câu (mục "Quyết định") **trước khi** mở panel mới.
 3. Làm theo action ở các mục dưới, rồi quay lại bước 1.
 
@@ -52,26 +53,42 @@ Làm **tuần tự**: mỗi lúc chỉ một panel làm việc, và commit xong 
 ```
 python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> brief <kind> [...]
 # in ra: name=<name> task=<file brief> report=<file báo cáo>
-bash .agents/skills/herdr-spawn/scripts/spawn.sh <name> agy --task-file <task> -- --model gemini-3.8-flash-medium --mode auto
+bash .agents/skills/herdr-spawn/scripts/spawn.sh <name> agy --task-file <task> -- --model gemini-3.8-flash-medium --dangerously-skip-permissions
 bash .agents/skills/herdr-spawn/scripts/wait-report.sh <name> --timeout 3600 --idle-grace 120
 ```
 
 - Lệnh chờ chạy ở chế độ nền của harness, giống herdr-spawn bước 3.
 - Mỗi lần mở panel là một session mới, nên context luôn sạch.
+- **Kiểm tra phạm vi**, vì panel chạy không xin quyền. Trước khi mở panel, ghi lại `git log -1 --format=%h` và `git status --short`. Sau khi panel xong:
+  - hash commit phải giữ nguyên, tức là panel không tự commit;
+  - so với `git status --short` lúc trước, dòng mới hoặc dòng thay đổi chỉ được nằm trong `translations/<slug>/`. Thay đổi đã có từ trước không tính.
+
+  Sai một trong hai thì **dừng vòng lặp**, báo user kèm danh sách thay đổi. Không tự revert.
+- Đường dẫn báo cáo luôn lấy đúng giá trị `report=` mà lệnh `brief` in ra (tên có đệm 3 chữ số, vd `rv-001-003`). Không tự ghép tên.
 - Xử lý xong báo cáo thì đóng pane bằng `herdr pane close <pane>`.
 - Tên panel trùng tên một panel đang sống (vì chạy lại) thì đóng panel cũ trước.
 
 ### action=init
 
 1. `brief init --raw "<thư mục raw>" --title "<tên truyện>"`, rồi mở panel và chờ.
-2. Đọc báo cáo, rồi đọc lướt các file context (`style.md`, `characters.md`, `pronouns.md`, `glossary.md`). Kiểm tra:
+2. Đọc báo cáo, rồi đọc lướt các file context trong `translations/<slug>/context/` (`style.md`, `characters.md`, `pronouns.md`, `glossary.md`). Kiểm tra:
    - các chương `skip` có trùng thật không;
    - đại từ người kể dùng cho nhân vật chính có hợp giọng truyện không;
    - xưng hô các cặp chính có hợp tuổi và quan hệ không;
    - thuật ngữ có theo `rules.md` không.
 
    Sai thì tự sửa file context. Câu hỏi trong báo cáo thì quyết theo mục "Quyết định".
-3. Đóng pane, rồi commit với message `chore(translate): khởi tạo <slug>`.
+3. Đóng pane. Commit và push với message `chore(translate): khởi tạo <slug>`.
+
+### action=repair range=R
+
+Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script QA vừa được sửa và bắt được lỗi cũ.
+
+1. Chạy `qa_check.py <slug> R` để xem lỗi. Lỗi thiếu đoạn hay gộp đoạn thì mở raw và bản dịch, tìm đúng đoạn bị thiếu hoặc bị gộp.
+2. Ghi file quyết định: với mỗi chương, nêu lỗi QA và cách sửa (vd "đoạn raw K chưa được dịch: dịch bổ sung thành một đoạn riêng"; "đoạn K gộp hai đoạn raw: tách lại").
+3. `brief fix --range R --decisions <file> --keep-status`, rồi mở panel và chờ.
+4. `verify R --status translated`. Chưa đạt thì xử lý giống bước 3 của translate.
+5. Đóng pane. Commit và push với message `fix(translate): sửa lỗi QA chương <R>`.
 
 ### action=translate n=N
 
@@ -91,14 +108,14 @@ bash .agents/skills/herdr-spawn/scripts/wait-report.sh <name> --timeout 3600 --i
 
 ### action=review range=R
 
-1. `brief review --range R`, rồi mở panel và chờ. Báo cáo review nằm ở `.herdr/reports/rv-<a>-<b>.md`.
+1. `brief review --range R`, rồi mở panel và chờ. Báo cáo review nằm ở đường dẫn `report=` mà lệnh `brief` in ra.
 2. Phân loại từng lỗi trong báo cáo, rồi ghi file quyết định `.herdr/tasks/decisions-<a>-<b>.md` theo mẫu dưới.
    - `nặng`: mở đúng đoạn trong raw ra đối chiếu. Reviewer đúng thì chấp nhận, sai thì bác.
    - `vừa` và `nhẹ`: chấp nhận khi rõ ràng làm câu tốt hơn mà không trái `rules.md`, `style.md` hay context. Chỉ khác về khẩu vị thì bác.
    - Đề xuất sửa context: chấp nhận khi có bằng chứng trong raw, và theo đúng mục "Quyết định".
 3. Đóng pane review.
 4. Có mục được chấp nhận:
-   - `brief fix --range R --review-report .herdr/reports/rv-<a>-<b>.md --decisions .herdr/tasks/decisions-<a>-<b>.md`, rồi mở panel và chờ.
+   - `brief fix --range R --review-report <report của panel review> --decisions .herdr/tasks/decisions-<a>-<b>.md`, rồi mở panel và chờ.
    - `verify R --status reviewed`. Chưa đạt thì xử lý giống bước 3 của translate.
    - Đóng pane. Commit và push với message `fix(translate): sửa chương <R> theo review`.
 5. Không có mục nào được chấp nhận:
@@ -136,14 +153,14 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
    - chuyển câu hỏi sang mục "Đã quyết" bằng `orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"`.
 5. **Quyết định làm sai các chương đã commit** (đổi thuật ngữ, đổi xưng hô từ một chương cũ):
    - ghi file quyết định chỉ có các mục context và câu hỏi;
-   - mở panel fix cho các chương bị ảnh hưởng, không cần báo cáo review. Tìm các chương đó bằng cách tìm từ cũ trong `translations/<slug>/vi/`;
-   - verify, rồi commit với message `fix(translate): áp dụng quyết định <tóm tắt> cho chương <R>`.
+   - mở panel fix cho các chương bị ảnh hưởng bằng `brief fix --range R --decisions <file> --keep-status`, không cần báo cáo review. Tìm các chương đó bằng cách tìm từ cũ trong `translations/<slug>/vi/`. Cờ `--keep-status` giữ nguyên trạng thái `done`, để không làm vỡ lô review 3 chương sắp tới;
+   - `verify R --status translated`, rồi commit và push với message `fix(translate): áp dụng quyết định <tóm tắt> cho chương <R>`.
 
 ## Panel bị chặn
 
 `wait-report.sh` trả về `blocked` hoặc `idle-no-report` thì đọc màn hình bằng `herdr pane read <pane> --source visible`.
 
-- **Xin quyền** cho việc nằm trong phạm vi thì tự duyệt **một lần**: chọn đúng phím tương ứng với lựa chọn duyệt một lần trên màn hình rồi gửi bằng `herdr agent send-keys`. Trong phạm vi gồm:
+- **Vẫn hiện hộp thoại xin quyền** (cờ skip không có tác dụng) thì đọc kỹ yêu cầu. Việc nằm trong phạm vi thì duyệt một lần: chọn đúng phím của lựa chọn duyệt một lần trên màn hình, gửi bằng `herdr agent send-keys`. Trong phạm vi gồm:
   - chạy `python .agents/skills/novel-translate/scripts/...`;
   - đọc raw;
   - đọc hoặc ghi file trong `translations/<slug>/` và `.herdr/`.
@@ -151,11 +168,17 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
   Việc khác (git, xóa file ngoài các thư mục trên, cài đặt, truy cập mạng...) thì từ chối, rồi báo user.
 - **Hỏi về nội dung dịch**: quyết theo mục "Quyết định", trả lời bằng `herdr agent prompt <name> "<quyết định>"`, rồi chạy lại lệnh chờ.
 - **Quên ghi báo cáo**: nhắc như herdr-spawn hướng dẫn.
-- **Kẹt ở hộp thoại trust, login hay lỗi model**: dừng vòng lặp, báo user.
+- **Lỗi khởi tạo model ngay khi mở** (vd `failed to construct executor`, `plan model not specified`): đóng pane, mở lại một lần với cùng brief. Vẫn lỗi thì dừng vòng lặp, báo user.
+- **Kẹt ở hộp thoại trust hay login**: dừng vòng lặp, báo user.
+- **User nhắn thẳng vào pane của bạn** một yêu cầu mới (vd thêm quy tắc định dạng): coi như quyết định của user. Ghi vào `rules.md`, áp dụng cho các chương đã dịch theo nguyên tắc 5 của mục "Quyết định", và ghi rõ trong báo cáo cuối là do user yêu cầu.
 
 ## Commit và push
 
-Giao cho **subagent sẵn có của harness**: Claude Code dùng Agent tool, agy dùng tính năng subagent nếu có. Không có subagent thì tự chạy. Chờ subagent xong mới sang vòng tiếp. Brief cho subagent:
+Giao cho **subagent sẵn có của harness**: Claude Code dùng Agent tool, agy dùng tính năng subagent nếu có. Không có subagent thì tự chạy. Chờ subagent xong mới sang vòng tiếp.
+
+Việc này chỉ là chạy vài lệnh git cố định, nên luôn đặt subagent ở **mức effort thấp nhất** mà harness cho phép (vd tham số `effort: "low"` của Agent tool). Harness không cho chọn effort thì dùng mặc định.
+
+Brief cho subagent:
 
 ```
 Repo: <repo root>. Chạy đúng các lệnh sau theo thứ tự, không làm gì thêm, không hỏi lại:

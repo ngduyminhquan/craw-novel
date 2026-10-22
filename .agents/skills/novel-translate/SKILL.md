@@ -17,7 +17,7 @@ Các script đã được kiểm thử. Gọi thẳng theo cú pháp bên dướ
 
 ```
 translations/<slug>/
-  novel.json            # tên truyện, đường dẫn thư mục raw
+  novel.json            # tên truyện, đường dẫn raw, raw_ignore_lines (dòng raw không phải truyện, script bỏ qua khi đếm đoạn)
   progress.md           # bảng tiến độ (todo/done/reviewed/skip) + "Cần user xác nhận" + "Đã quyết"
   context/
     rules.md            # quy tắc cứng: tên riêng, thuật ngữ, định dạng, T/N. Ưu tiên cao nhất
@@ -71,7 +71,8 @@ Ghi vào file bản dịch script đã in ra (`translations/<slug>/vi/Chapter_NN
 
 - Dòng đầu: `# Chương N: <tiêu đề dịch>`, rồi một dòng trống.
 - Dịch **đủ từng đoạn**, theo đúng thứ tự. Mỗi đoạn raw thành một đoạn dịch, cách nhau dòng trống. Không tóm tắt, không bỏ câu, không thêm nội dung.
-- Bỏ ghi chú translator (T/N) của raw.
+- Bỏ ghi chú translator (T/N) của raw. T/N kẹp trong câu thì chỉ bỏ phần ghi chú, vẫn dịch phần truyện của câu đó.
+- Quyết định bỏ hẳn một dòng raw không phải truyện (vd bảng chú giải ký hiệu của bản EN) thì ghi lý do vào `rules.md` và thêm nguyên văn dòng đó vào `raw_ignore_lines` trong `novel.json`, để QA không báo thiếu đoạn.
 - Theo `rules.md` (tên, thuật ngữ, định dạng) và `style.md` (giọng văn). Mỗi lời thoại phải đúng xưng hô trong `pronouns.md` cho cặp người nói/người nghe ở thời điểm của chương.
 - Chương dài thì ghi file theo nhiều phần nối tiếp, nhưng mỗi phần vẫn dịch đủ.
 
@@ -148,7 +149,7 @@ Dùng khi được giao file báo cáo review kèm file quyết định của or
 2. Sửa thẳng trong `vi/Chapter_NNN.md`. Một lỗi có cùng kiểu (cùng thuật ngữ, cùng cặp xưng hô) thì sửa hết mọi chỗ trong các chương được giao, không chỉ chỗ được chỉ ra.
 3. Cập nhật context theo các đề xuất đã được chấp nhận (đúng quy tắc ở bước B4: không sửa dòng xưng hô cũ mà thêm dòng mới).
 4. Chạy `qa_check.py <slug> <range>` cho đến khi hết `[LỖI]`.
-5. Đánh dấu: `progress.py <slug> set <range> reviewed`.
+5. Đánh dấu: `progress.py <slug> set <range> reviewed`. Nếu brief bảo giữ nguyên trạng thái thì bỏ qua bước này.
 6. Báo cáo: số lỗi đã sửa trong từng chương, những thay đổi context, các mục không sửa được và lý do.
 
 ## Chạy dưới orchestrator

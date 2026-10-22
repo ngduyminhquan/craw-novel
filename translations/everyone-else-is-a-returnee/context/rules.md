@@ -36,3 +36,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 
 - (#1) Các dòng quy ước ký hiệu ở đầu raw ('Thinking', "Speaking", [Higher existence's speaking...]) là ghi chú format của bản dịch EN, bỏ qua không dịch.
 - (#8) Khi câu truyện có chú thích `(T/N: ...)` nằm cùng dòng (inline) thì chỉ bỏ phần `(T/N: ...)`, tuyệt đối không bỏ nội dung câu truyện.
+- Link điều hướng bỏ qua các chương `skip` trong progress.md: chương #289 trỏ tới #293 và ngược lại (#290–#292 là bản trùng).
+- (#1) Ba dòng chú giải ký hiệu ở đầu raw chương 1 đã được thêm vào `raw_ignore_lines` trong `novel.json`.
