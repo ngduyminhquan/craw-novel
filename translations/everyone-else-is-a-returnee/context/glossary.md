@@ -285,3 +285,11 @@
 | Angel's Support | Angels' Support | Thiên Thần Chi Viện | kỹ năng | 52 | Kỹ năng chủ động của Bạn Đồng Hành Thiên Thần, mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi |
 | Undead | undead | Undead | quái vật | 52 | Được phép giữ nguyên: Quái vật thuộc chủng loại Undead/bất tử, kẻ thù của Quân Đội Thiên Giới |
 | Conan |  | Conan | khác | 52 | Được phép giữ nguyên: Thám tử lừng danh Conan trong manga cùng tên (tham chiếu văn hóa đại chúng) |
+| Dark Deathgod's Dragon-exterminating Spike Spear |  | Thương Gai Diệt Long Hắc Tử Thần | vật phẩm | 53 | Ngọn thương phẩm cấp Truyền Thuyết sau khi Yu IlHan Chế Tác Mana từ Thương Gai Tuyệt Diệt và ma thạch của Reta Kar'iha |
+| Tenacious Dragonhunter's Harpoon Set |  | Bộ Lao Thợ Săn Rồng Bền Bỉ | vật phẩm | 53 | Bộ 24 lao săn rèn từ xương sườn và da Thủ Lĩnh Troll Cao Nguyên mang dòng thuộc tính trói giữ rồng |
+| dragonkin | Dragonkin | Long tộc | chủng tộc | 53 | Chủng tộc mang dòng máu rồng hoặc quái vật họ rồng |
+| Dragon |  | Rồng | chủng tộc | 53 | Loài rồng thần thoại hùng mạnh, kẻ từng hủy diệt thế giới Daréu của Reta Kar'iha |
+| Dragon-exterminating |  | Diệt Long | hệ thống | 53 | Dòng thuộc tính tạo tác tăng mạnh sát thương khi đối đầu với loài rồng |
+| Tenacious |  | Bền Bỉ | hệ thống | 53 | Tiền tố dòng thuộc tính alpha tăng khả năng duy trì liên kết của lao và cọc trụ |
+| Dragonhunter |  | Thợ Săn Rồng | khác | 53 | Kẻ chuyên săn lùng loài rồng |
+| User Restrictions |  | Giới hạn người dùng | hệ thống | 53 | Mục hiển thị điều kiện yêu cầu để có thể sử dụng trang bị |

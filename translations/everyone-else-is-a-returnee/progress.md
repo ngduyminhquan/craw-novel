@@ -57,7 +57,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | reviewed |  |
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | reviewed |  |
 | 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | done |  |
-| 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | todo |  |
+| 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | done |  |
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | todo |  |
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | todo |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | todo |  |
@@ -547,3 +547,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#52] Dịch hay giữ nguyên thuật ngữ quái vật Undead? → Giữ nguyên Undead, nhất quán với các chủng loài kỳ ảo kinh điển được giữ nguyên như Troll, Elf. (orchestrator)
 - [#52] Dịch tên chức nghiệp phụ Angel's Partner? → Chốt Bạn Đồng Hành Thiên Thần, khớp với tên arc và tình huống ghép hai danh từ thông dụng. (orchestrator)
 - [#52] Dịch tên kỹ năng Angel's Protection và Angel's Support? → Chốt Thiên Thần Bảo Hộ và Thiên Thần Chi Viện theo quy tắc Hán Việt ngắn gọn. (orchestrator)
+- [#53] Dịch tên gọi blood drink trong thoại của Yu IlHan? → Chốt thức uống máu để giữ đúng phong cách đặt tên mộc mạc, hài hước của IlHan. (orchestrator)
+- [#53] Dịch thuật ngữ dragonkin phân biệt với Dragon? → Chốt dragonkin là Long tộc và Dragon là Rồng. (orchestrator)

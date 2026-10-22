@@ -78,6 +78,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Về nhà ở Jongno, nhận tin mẹ đi làm nhiệm vụ lấy hải sản ở Ya-umin; tại xưởng rèn, luyện kỹ năng Nấu Nướng tăng thêm 2 cấp nhờ áp chảo lượng lớn thịt quái vật thừa cho Ngọn Lửa Vĩnh Cửu nuốt trọn; thử nghiệm và chế tạo thành công Dây Thun Khổng Lồ phẩm cấp cao từ gân Thủ Lĩnh Troll Cao Nguyên bằng cách cho Ngọn Lửa Vĩnh Cửu nuốt ma thạch chuyển chức 2; chuẩn bị rèn vũ khí mới.
 - Trạng thái tính đến chương 51: Dùng Thiết Tâm và Dây Thun Khổng Lồ nâng cấp thành Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi (tầng 4 sức tấn công 5.500); chế tạo vũ khí tầm xa Atlatl Xương Nguyệt Quang Thô Ráp (sức tấn công 2.800); sửa chữa Áo Choàng Đọa Lạc Tử Thần Kín Đáo; nung chảy Lưỡi Hái Tử Thần của Reta Kar'iha và ép tàn dư hắc khí nhập vào ma thạch của cô; rèn đúc thành công phôi vũ khí Truyền Thuyết mang tên Thương Gai Tuyệt Diệt (sức tấn công 3.700, tăng 70% sát thương chí mạng) trước khi chuẩn bị Chế Tác Mana; tái ngộ Lita và Erta tại xưởng rèn.
 - Trạng thái tính đến chương 52: Nhận phần thưởng thiên giới từ Erta và Lita: Túi Đeo Chéo được nâng cấp thêm hai dòng thuộc tính 'Chống thối rữa' và 'Chuyển giao trọng lượng'; chọn chức nghiệp phụ độc nhất 'Bạn Đồng Hành Thiên Thần' thiết lập quan hệ đối tác với hai thiên thần Lita và Erta; nhận kỹ năng bị động [Thiên Thần Bảo Hộ] (giảm 30% sát thương chí mạng phải chịu, tăng 30% kháng lời nguyền và 30% thưởng nhiệm vụ), kỹ năng chủ động [Thiên Thần Chi Viện] (mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi), và tăng 30% mọi năng lực khi đối đầu Kẻ Phá Vỡ hoặc Undead.
+- Trạng thái tính đến chương 53: Dùng Chế Tác Mana nâng cấp Thương Gai Tuyệt Diệt thành Thương Gai Diệt Long Hắc Tử Thần (Phẩm cấp Truyền Thuyết, Sức tấn công 4.000); chế tạo Bộ Lao Thợ Săn Rồng Bền Bỉ (Phẩm cấp Độc Nhất, Sức tấn công 2.800) với sự trợ giúp của Erta; dùng Nấu Nướng tinh luyện máu troll thành 'thức uống máu' và phân loại riêng máu của trùm troll; chuẩn bị đi chơi cùng Lita và Erta để cày cấp kỹ năng Thiên Thần Chi Viện.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -87,6 +88,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 19: Đang phải gánh vác rất nhiều việc trên thiên giới và chịu khổ sở vì đã chiếu cố, đòi quyền lợi cho IlHan quá nhiều; tạm thời chưa thể được phái xuống Trái Đất.
 - Trạng thái tính đến chương 51: Cùng Erta từ Thiên giới hạ phàm xuống Trái Đất và trực tiếp đến xưởng rèn gặp lại Yu IlHan sau thời gian dài xa cách.
 - Trạng thái tính đến chương 52: Được chỉ định cùng Erta làm thiên thần phụ trách Yu IlHan; chịu phạt quỳ giơ tay vì giấu nhẹm thời gian 1000 năm; can thiệp ghi chép tạo ra chức nghiệp phụ Bạn Đồng Hành Thiên Thần để danh chính ngôn thuận luôn ở bên cạnh IlHan; ghen khi thấy Erta tiếp cận gần IlHan.
+- Trạng thái tính đến chương 53: Ngấm ngầm ganh tị và tranh đua với Erta để giành sự chú ý của IlHan; bị IlHan quở trách vì gây gổ nên ngoan ngoãn nhận lỗi; bất lực trước sự ngô nghê và tính toán thực dụng của IlHan khi anh chỉ muốn đi chơi để luyện kỹ năng.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -97,6 +99,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 49: Cùng Feyta tạm thời được triệu hồi về Thiên giới theo lệnh thiên thần thiết giáp để báo cáo chi tiết về dị thường của hầm ngục và Kẻ Phá Vỡ.
 - Trạng thái tính đến chương 51: Cùng Lita hoàn tất báo cáo sự vụ tại Thiên giới và quay trở lại xưởng rèn của Yu IlHan.
 - Trạng thái tính đến chương 52: Thông báo kết quả hội nghị Thiên giới và việc coi IlHan là đồng minh chiến lược; hỗ trợ nâng cấp Túi Đeo Chéo và thiết lập liên kết đối tác Bạn Đồng Hành Thiên Thần với IlHan; để lộ nét tính cách tsundere ngượng ngùng khi bị IlHan phũ phàng từ chối ý định gắn bó.
+- Trạng thái tính đến chương 53: Truyền hình ảnh Long tộc giúp IlHan Chế Tác Mana cho bộ lao săn rồng; xúc động khi được IlHan mời đi chơi chung cùng Lita; cùng Lita câm nín trước lý do đi chơi để cày cấp kỹ năng của anh.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
