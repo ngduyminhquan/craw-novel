@@ -163,6 +163,12 @@ Trong lúc Kang MiRae cần 2 phút tích lũy mana cho đòn tất sát, IlHan 
 Kang MiRae thi triển ma pháp cực mạnh 'Tam Lôi' đánh rơi quái thú; khi con báo bật kỹ năng Ẩn Thân toan bỏ trốn, IlHan nhìn thấu và đóng thẳng cây cọc cuối cùng vào mắt trái nó rồi dùng dây thừng trói nghiến lại, học được kỹ năng 'Trói Buộc'.
 Cảnh kết thúc: IlHan từ từ tiến về phía Kang MiRae đang bàng hoàng run sợ, dứt khoát yêu cầu cô lập tổ đội để chia sẻ điểm kinh nghiệm trước khi hạ sát quái vật thay vì lặp lại sai lầm nhận trọn EXP một mình như lần trước.
 
+## 28
+Yu IlHan và Kang MiRae nắm tay lập tổ đội thành công; IlHan phóng thương thép kết liễu Báo Bóng Tối Lv 102, nhận gần 3 triệu EXP, thăng 8 cấp lên Lv 36 (các chỉ số Sức mạnh, Nhanh nhẹn, Thể lực, Ma pháp tăng 10 điểm) và may mắn thu được ma thạch chuyển chức lần 3 quý giá — mảnh ghép khó nhất của kỹ năng Nghỉ Ngơi.
+Kang MiRae chia trọn viên ma thạch và một nửa xác quái cho IlHan để trả công giải phẫu; IlHan biểu diễn tài năng thu hoạch da, xương, gân và cơ bắp vượt trội hơn cả quái vật mẹ trước khi xe quân đội đến chở phần của MiRae đi.
+Kang MiRae xin rút lại lời mời lập đội lâu dài vì khoảng cách năng lực quá lớn làm tổn thương lòng tự trọng, nhưng khẳng định sẽ nhanh chóng đuổi kịp anh và chủ động xin số điện thoại liên lạc riêng.
+Cảnh kết thúc: Yu IlHan hí hửng vì lần đầu tiên trong đời được con gái xin số điện thoại khiến Erta cạn lời chê bai; anh cẩn thận kiểm tra đống thịt vụn đề phòng trứng quái vật rồi thu dọn toàn bộ chiến lợi phẩm rời đi.
+
 
 
 

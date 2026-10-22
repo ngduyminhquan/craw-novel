@@ -46,6 +46,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 25: Nâng cấp Chế Tác Mana lên cấp 12; chế tạo thành công bộ tạo tác săn bắt 'Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn' (Phẩm cấp Độc Nhất, Sức tấn công 1.050, dòng thuộc tính Hung Bạo và Tàn Nhẫn tăng 20% tỷ lệ/sát thương chí mạng và 20% lực trói buộc) từ toàn bộ xương, da và ma thạch của Báo Khổng Lồ; cảm nhận được niềm vui và sự ấm lòng khi được Kang MiRae tin tưởng thừa nhận năng lực.
 - Trạng thái tính đến chương 26: Tận dụng Ẩn Thân che giấu bộ tạo tác để đóng cọc giăng bẫy ngay trước mắt báo đen chuyển chức lần 3; phóng 3 ngọn lao săn trói chân và phong ấn kỹ năng chém gió của quái thú; nhận ra bài học sâu sắc cần chuẩn bị nhiều phương án và vũ khí để đối phó các quái vật sử dụng kỹ năng ma pháp trong tương lai.
 - Trạng thái tính đến chương 27: Thức tỉnh kỹ năng Xạ Kích ở Lv Max, thể hiện tài nghệ súng máy xuất quỷ nhập thần triệt tiêu toàn bộ độ giật; nhìn thấu Ẩn Thân của báo đen và cắm cọc trụ kết liễu đòn tháo chạy; học được kỹ năng Trói Buộc khi trói gô toàn bộ quái thú; chủ động yêu cầu Kang MiRae lập tổ đội chia sẻ kinh nghiệm trước khi kết liễu quái vật.
+- Trạng thái tính đến chương 28: Đạt cấp độ 36 (nhận 2.938.097 EXP, tăng 10 điểm toàn bộ 4 chỉ số cơ bản); thu hoạch ma thạch chuyển chức lần 3 từ Báo Bóng Tối Lv 102 để chuẩn bị tiến hóa kỹ năng Nghỉ Ngơi; nhận 50% xác quái và toàn bộ ma thạch; lần đầu tiên cho số điện thoại một người con gái (Kang MiRae).
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -68,6 +69,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 22: Thể hiện khả năng tính toán lạnh lùng và công bằng khi phân chia chiến lợi phẩm; thuê IlHan giải phẫu nửa xác báo trả công 40%; tập trung cao độ nhìn thấu kỹ năng Ẩn Thân của IlHan để bám theo xe chở phụ phẩm; chủ động trao danh thiếp để lộ tên thật là Kang MiRae, mời IlHan lập tổ đội lâu dài để hoạt động tại Trái Đất.
 - Trạng thái tính đến chương 26: Xuất hiện kịp thời tại hiện trường bằng xe bọc thép kiên cố, thi triển kỹ năng ma pháp 'Song Lôi' (Twin Lightning) cực mạnh làm choáng váng quái thú chuyển chức lần 3 để hỗ trợ Yu IlHan.
 - Trạng thái tính đến chương 27: Đổi sang đeo mặt nạ kim loại che từ mũi lên trán; thi triển kỹ năng ma pháp cấp cao 'Tam Lôi' (Triple Lightning) đánh gục báo đen; bàng hoàng trước khả năng bắn súng và nhìn thấu Ẩn Thân của IlHan.
+- Trạng thái tính đến chương 28: Cùng Yu IlHan lập tổ đội nhận gần 1,5 triệu EXP; biết tên thật của IlHan và xin số điện thoại liên lạc riêng; chủ động rút lại lời mời lập đội vì mặc cảm chênh lệch thực lực quá lớn làm tổn thương lòng tự trọng, quyết tâm rèn luyện để bắt kịp anh trong tương lai.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.

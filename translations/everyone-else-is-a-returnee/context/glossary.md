@@ -164,3 +164,4 @@
 | Triple Lightning |  | Tam Lôi | kỹ năng | 27 | Kỹ năng ma pháp lôi hệ cấp cao của Kang MiRae |
 | Binding | Binding Skill | Trói Buộc | kỹ năng | 27 | Kỹ năng trói buộc mục tiêu bằng dây thừng/vũ khí trói |
 | subclass |  | chức nghiệp phụ | hệ thống | 26 | Chức nghiệp thứ hai/phân nhánh chức nghiệp |
+| Shadow Leopard |  | Báo Bóng Tối | quái vật | 28 | Quái vật báo cấp 102 chuyển chức lần 3 chuyên về Ẩn Thân |

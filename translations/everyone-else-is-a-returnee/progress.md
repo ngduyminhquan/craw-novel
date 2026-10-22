@@ -32,7 +32,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 25 |  | Chapter_025 - You Want to Hunt with Me!_ (6).txt | You Want to Hunt with Me!_ (6) | reviewed |  |
 | 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | reviewed |  |
 | 27 |  | Chapter_027 - Call me Ishmael (2).txt | Call me Ishmael (2) | reviewed |  |
-| 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | todo |  |
+| 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | done |  |
 | 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | todo |  |
 | 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | todo |  |
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | todo |  |
@@ -455,3 +455,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#26] Kỹ năng ma pháp "Twin Lightning" của Empress — Tạm chọn: "Song Lôi". Phương án khác: "Song Trùng Lôi", "Lôi Điện Kép". Tạm dùng trong bản dịch: "Song Lôi". → Chốt 'Song Lôi' (orchestrator)
 - [#26] Nhân vật và tác phẩm văn học "Ishmael" / "Moby Dick" trong trò đùa của Yu IlHan — Tạm chọn: giữ nguyên "Ishmael" và "Moby Dick" theo nguyên tác Herman Melville; câu thoại "Call me Ishmael" dịch thành "Cứ gọi tôi là Ishmael". Tạm dùng trong bản dịch: "Cứ gọi tôi là Ishmael" / "Moby Dick". → Chốt giữ nguyên 'Ishmael' và 'Moby Dick' ('Cứ gọi tôi là Ishmael') (orchestrator)
 - [#26] Thuật ngữ "subclass" (chức nghiệp thứ hai/phân nhánh chức nghiệp) — Tạm chọn: "chức nghiệp phụ". Phương án khác: "phân nhánh chức nghiệp". Tạm dùng trong bản dịch: "chức nghiệp phụ". → Chốt 'chức nghiệp phụ' (nhất quán với chương 13) (orchestrator)
+- [#28] Tên quái vật "Shadow Leopard" (Lv 102) — Tạm chọn: "Báo Bóng Tối". Phương án khác: "Báo Bóng Đêm", "Hắc Ảnh Báo". Tạm dùng trong bản dịch: "Báo Bóng Tối".
