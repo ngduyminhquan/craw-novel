@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han | Yu IlHan | Nhân vật chính, kẻ bị bỏ lại Trái Đất 1000 năm | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan | Yu IlHan | Nhân vật chính, kẻ bị bỏ lại Trái Đất 1000 năm | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
@@ -26,7 +26,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
 - Tính cách: Ban đầu có phần ngạo mạn, trịch thượng của thực thể cấp cao, nhưng dần gắn bó, thấu hiểu và nảy sinh tình cảm sâu sắc với Yu IlHan sau 1000 năm đồng hành. Hay trêu chọc IlHan nhưng hết lòng lo lắng, bảo vệ quyền lợi cho anh trước Thượng Đế.
 - Cách nói chuyện: Thân mật, có chút đanh đá, trêu ngươi ("Ái chà", "Ara ara"), nhưng đầy quan tâm.
-- Quan hệ / Trạng thái tính đến chương 4: Đã nhận ra tình cảm của mình dành cho Yu IlHan chính là tình yêu, thậm chí nung nấu ý định trao cho anh 'kích thích mới lạ', nhưng chưa kịp thực hiện thì thời khắc 1000 năm đã điểm và nhân loại trở về.
+- Quan hệ / Trạng thái tính đến chương 5: Yêu IlHan sâu sắc; bị triệu hồi về thiên giới khi Trái Đất phục hồi thời gian, mang theo thanh kiếm kỷ niệm rác rưởi của IlHan và tiếc nuối vì chưa kịp hôn anh; luôn hy vọng và cầu nguyện sớm gặp lại anh.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu Yu IlHan.

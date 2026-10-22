@@ -9,7 +9,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 2 |  | Chapter_002 - I Live Alone (1).txt | I Live Alone (1) | reviewed |  |
 | 3 |  | Chapter_003 - I Live Alone (2).txt | I Live Alone (2) | reviewed |  |
 | 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | done |  |
-| 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | todo |  |
+| 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | done |  |
 | 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | todo |  |
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | todo |  |
 | 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | todo |  |

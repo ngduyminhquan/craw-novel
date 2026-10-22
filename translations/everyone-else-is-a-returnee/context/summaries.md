@@ -26,3 +26,9 @@ Yu IlHan quay về Seoul đọc lại tiểu thuyết kỳ ảo, sau đó theo g
 Sau đó, anh tiếp tục khổ luyện võ thuật, tinh thông mọi loại vũ khí và võ phái (Taekwondo, Aikido, Karate, Muay Thái...), khiến cơ thể đột biến và tiến hóa tối ưu hóa cho chiến đấu dẫu chưa hề có mana.
 Lita chứng kiến sự kiên cường của IlHan nên ngày càng say đắm và nung nấu ý định "kích thích mới" cho anh, nhưng chưa kịp thực hiện thì thời khắc tròn 1000 năm đã điểm.
 Cảnh kết thúc: Tròn 1000 năm sau ngày Yu IlHan bị bỏ lại, thế giới được thiết lập lại và toàn bộ nhân loại chính thức quay trở về Trái Đất.
+
+## 5
+Thế giới đảo ngược thời gian về đúng thời điểm đóng băng, Yu IlHan bị cuốn bay về sân trường đại học trong khi Lita bị triệu hồi về trời mà chưa kịp trao nhau nụ hôn đầu; IlHan đặt mục tiêu trở thành thực thể cấp cao để gặp lại cô.
+Sau vài giờ chờ đợi, Trái Đất chính thức mở khóa mana và toàn bộ nhân loại trở về; IlHan nhận ra năng lượng mana tuôn chảy trong huyết quản.
+Tuy nhiên, do sự hiện diện cực thấp mang tầm huyền thoại, không một người trở về nào nhận ra Yu IlHan đang đứng giữa sân trường khiến anh tủi thân lủi thủi đi bộ về nhà.
+Cảnh kết thúc: Trước cửa nhà, Yu IlHan mở bảng chỉ số của Hồ Sơ Akashic và kinh ngạc trước kết quả sau 1000 năm khổ luyện: Danh hiệu "Kẻ Cô Độc Toàn Vũ Trụ", kỹ năng "Ẩn Thân" Lv Max (bị động) cùng các chỉ số thể chất vượt bậc (Sức mạnh 72, Nhanh nhẹn 81, Thể lực 78).

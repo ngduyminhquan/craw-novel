@@ -31,3 +31,12 @@
 | Boston Public Library |  | Thư viện Công cộng Boston | địa danh | 3 | Thư viện lớn ở Mỹ nơi IlHan hoàn thành việc đọc toàn bộ sách |
 | Russian Academy of Sciences | Russian Academy of sciences | Viện Hàn lâm Khoa học Nga | tổ chức | 3 | Nơi có 7,5 triệu đầu sách IlHan đã đọc qua |
 | Mo Palmo |  | Mo Palmo | khác | 4 | Thợ rèn huyền thoại trong truyền thuyết Jumong |
+| Strength |  | Sức mạnh | hệ thống | 5 | Chỉ số cơ bản |
+| Agility |  | Nhanh nhẹn | hệ thống | 5 | Chỉ số cơ bản |
+| Health |  | Thể lực | hệ thống | 5 | Chỉ số cơ bản |
+| Magic |  | Ma pháp | hệ thống | 5 | Chỉ số cơ bản |
+| Jobless |  | Vô Nghề | chức nghiệp | 5 | Trạng thái chưa có chức nghiệp |
+| Active skill | Active Skills | Kỹ năng chủ động | hệ thống | 5 | Kỹ năng cần kích hoạt |
+| Passive skill | Passive Skills | Kỹ năng bị động | hệ thống | 5 | Kỹ năng tự động có hiệu lực |
+| Earthling | Earthlings | Cư dân Trái Đất | khác | 5 | Cách gọi người Trái Đất |
+| Phantom Sixth Man |  | Cầu thủ thứ sáu bóng ma | khác | 5 | Cách nói ví von kẻ có độ hiện diện cực thấp |
