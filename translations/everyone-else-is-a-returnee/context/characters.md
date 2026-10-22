@@ -52,6 +52,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 29: Hoàn thành mục tiêu 1 ma thạch chuyển chức lần 3 cho kỹ năng Nghỉ Ngơi; sửa chữa bộ lao săn bằng da báo đen; tôi luyện gân Báo Bóng Tối qua Ngọn Lửa Vĩnh Cửu tạo ra 'Dây Thun Khổng Lồ' có độ đàn hồi cực đại; chế tạo thành công vũ khí hủy diệt 'Súng Bắn Cọc Quang Tốc' (Phẩm cấp Độc Nhất, Sức tấn công cấp 1–3 từ 1.200 đến 2.900, giảm thời gian nạp và tăng 20% tốc độ tấn công) từ xương, gân và răng nanh quái thú.
 - Trạng thái tính đến chương 30: Nâng Chế Tác Mana lên cấp 24 sau hơn một tháng rèn Bẫy Hủy Diệt; nhận phần thưởng sớm là thông tin hầm ngục kim loại mới và một túi da đeo chéo có ma pháp mở rộng không gian; được Erta dỡ bỏ giới hạn cấp độ để tiến vào hầm ngục Lv 50 săn quái vật ngoại lai lấy tim.
 - Trạng thái tính đến chương 31: Đạt cấp độ 38; nâng kỹ năng Chí Mạng lên Lv 4; thức tỉnh kỹ năng Độn Khí Thuật ở Lv Max; chế tạo thêm vũ khí búa rìu 'Chiến Búa Nghiền Nát Nặng' (Phẩm cấp Hiếm) từ xương Báo Bóng Tối; lần đầu tiên tiến vào hầm ngục và sử dụng Súng Bắn Cọc đối đầu Đại Thiết Tâm Lv 71.
+- Trạng thái tính đến chương 32: Đạt cấp độ 40 sau khi dọn sạch hầm ngục quái vật Thiết Tâm; chế tạo thành công vũ khí 'Búa Ngàn Bom Hung Bạo' (Phẩm cấp Độc Nhất, Sức tấn công 1.974, tăng 30% lực phân tán bom mảnh) tích hợp hộp đạn mảnh xương tự nạp; cùng các thiên thần hoàn thành toàn bộ công việc chế tạo và thiết lập Bẫy Hủy Diệt trên khắp Trái Đất.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

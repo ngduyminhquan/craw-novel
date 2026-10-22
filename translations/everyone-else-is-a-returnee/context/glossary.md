@@ -184,3 +184,7 @@
 | The Sixth Sense | Sixth Sense | Giác Quan Thứ Sáu | khác | 31 | Bộ phim điện ảnh kinh dị tâm lý nổi tiếng của M. Night Shyamalan với cú twist kinh điển |
 | Ertawagon |  | Ertawagon | khác | 31 | Cách IlHan trêu chọc Erta khi cô giải thích mọi thứ cặn kẽ, phỏng theo meme Speedwagon (JoJo) |
 | Michael Jordan |  | Michael Jordan | khác | 31 | Huyền thoại bóng rổ người Mỹ với cú nhảy đi trên không kinh điển |
+| Violent Thousand Bomb Hammer |  | Búa Ngàn Bom Hung Bạo | vật phẩm | 32 | Vũ khí búa gắn hộp đạn mảnh xương do IlHan chế tạo bằng Dây Thun Khổng Lồ |
+| King Metal Heart | King Metal Hearts | Thiết Tâm Vương | quái vật | 32 | Dạng tiến hóa cuối cùng của Thiết Tâm, quái vật chuyển chức lần 4 sở hữu kim loại siêu bền |
+| Angel's Authority |  | Quyền Hạn Thiên Thần | hệ thống | 32 | Thẩm quyền/năng lực của thiên thần dùng để can thiệp hoặc kiểm tra Bẫy Hủy Diệt |
+| Doraemon |  | Doraemon | khác | 32 | Bộ manga/anime kinh điển của Nhật Bản, được IlHan bắt chước cách ngân dài giọng khi hô tên bảo bối |

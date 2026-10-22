@@ -36,7 +36,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | reviewed |  |
 | 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | reviewed |  |
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | done |  |
-| 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | todo |  |
+| 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | done |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | todo |  |
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | todo |  |
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | todo |  |
@@ -470,3 +470,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#31] Quái vật / kim loại "Metal Heart" và biến thể "Big Metal Heart" — Tạm chọn: "Thiết Tâm" (quái vật kim loại cấp trên 50 trong hầm ngục, không có ma thạch mà sở hữu lõi kim loại Thiết Tâm) và "Đại Thiết Tâm" (biến thể cấp 71, giữ trọn vẹn câu đùa của IlHan phàn nàn kẻ đặt tên quá lười biếng chỉ thêm chữ 'Đại'/'Big'). Phương án khác: "Trái Tim Kim Loại" / "Trái Tim Kim Loại Lớn". Tạm dùng trong bản dịch: "Thiết Tâm" và "Đại Thiết Tâm". → Chốt Thiết Tâm cho Metal Heart và Đại Thiết Tâm cho Big Metal Heart. (orchestrator)
 - [#31] Tên vũ khí và dòng thuộc tính "Heavy Battle Crusher" — Tạm chọn: "Chiến Búa Nghiền Nát Nặng" (danh từ gốc Battle Crusher = "Chiến Búa Nghiền Nát", tiền tố thuộc tính Heavy = "Nặng" tăng 50% trọng lượng khi đánh trúng). Phương án khác: "Búa Nghiền Chiến Đấu Hạng Nặng", "Trọng Chiến Búa Nghiền". Tạm dùng trong bản dịch: "Chiến Búa Nghiền Nát Nặng". → Chốt Chiến Búa Nghiền Nát Nặng. (orchestrator)
 - [#31] Kỹ năng "Blunt Weapon mastery" (Blunt Weapon) — Tạm chọn: "Độn Khí Thuật" (chuẩn Hán Việt ngắn gọn theo rules.md tương tự Thương Thuật, Cận Chiến, Xạ Kích). Phương án khác: "Binh Khí Cùn", "Thuần Thục Binh Khí Cùn". Tạm dùng trong bản dịch: "Độn Khí Thuật". → Chốt Độn Khí Thuật. (orchestrator)
+- [#32] Lỗi đánh máy trong chỉ số raw P72 (+1 Strength,+ Agility, +2 Health, +1 Magic) → Bổ sung số 1 bị thiếu trước Nhanh nhẹn (+1 Sức mạnh, +1 Nhanh nhẹn, +2 Thể lực, +1 Ma pháp) vì mỗi cấp Yu IlHan luôn tăng tổng cộng 5 điểm chỉ số. (orchestrator)
+- [#32] Tham chiếu Doraemon ở P34 (Violent Thousand Bomb Hammmmeeeeerrrr!) → Bỏ ghi chú T/N theo rules.md và kéo dài nguyên âm Búaaa Ngànnn Bommm Hunggg Bạooo! để khớp câu hỏi của Erta về giọng mũi. (orchestrator)

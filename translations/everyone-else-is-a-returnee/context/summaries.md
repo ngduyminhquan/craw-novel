@@ -193,6 +193,13 @@ Erta giải thích cơ chế phòng ngự bằng mana từ tim kim loại của 
 Hai ngày sau trong hầm ngục, cả hai chạm trán biến thể khổng lồ 'Đại Thiết Tâm' Lv 71 trong hang động; IlHan rút khẩu Súng Bắn Cọc Quang Tốc nạp sẵn cấp 3 ra nghênh chiến thay vì bỏ chạy.
 Cảnh kết thúc: Yu IlHan tung cú sải bước trên không kinh điển kiểu Michael Jordan, từ trên cao lao xuống kích hoạt Súng Bắn Cọc phóng viên đạn cọc xương dài hơn hai mét đâm xuyên thẳng từ đỉnh đầu xuống tận gốc rễ con Đại Thiết Tâm.
 
+## 32
+Yu IlHan một đòn đập tan Đại Thiết Tâm Lv 74 bằng Súng Bắn Cọc nhưng phát hiện đạn cọc xương bị nứt hỏng chỉ dùng được một lần; anh thu hoạch quả tim kim loại siêu bền và biết về Thiết Tâm Vương (quái chuyển chức lần 4).
+Để tiết kiệm đạn cọc, IlHan chuyển sang dùng 'Búa Ngàn Bom Hung Bạo' (Phẩm cấp Độc Nhất, nạp hộp đạn mảnh xương bằng Dây Thun Khổng Lồ) càn quét hầm ngục, mảnh xương cản trở cử động quái vật như rắc muối lên ốc sên; anh thăng lên Lv 40 (+1 Sức mạnh, +1 Nhanh nhẹn, +2 Thể lực, +1 Ma pháp) chỉ sau hai ngày.
+Erta dùng Quyền Hạn Thiên Thần kiểm tra Bẫy Hủy Diệt lõi hầm ngục và nhận thấy niên đại của bẫy lâu đời bất thường, khiến IlHan linh cảm sắp có tai họa lớn bùng nổ; sau hai tuần dọn sạch hầm ngục, IlHan cùng các thiên thần chế tạo thêm 8 Bẫy Hủy Diệt.
+Cảnh kết thúc: Yu IlHan hoàn thành việc hỗ trợ thiên giới khi toàn bộ Bẫy Hủy Diệt chính thức được thiết lập xong trên Trái Đất.
+
+
 
 
 
