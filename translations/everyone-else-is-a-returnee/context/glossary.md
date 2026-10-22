@@ -163,3 +163,4 @@
 | Shooting |  | Xạ Kích | kỹ năng | 27 | Kỹ năng sử dụng vũ khí tầm xa, súng ống |
 | Triple Lightning |  | Tam Lôi | kỹ năng | 27 | Kỹ năng ma pháp lôi hệ cấp cao của Kang MiRae |
 | Binding | Binding Skill | Trói Buộc | kỹ năng | 27 | Kỹ năng trói buộc mục tiêu bằng dây thừng/vũ khí trói |
+| subclass |  | chức nghiệp phụ | hệ thống | 26 | Chức nghiệp thứ hai/phân nhánh chức nghiệp |

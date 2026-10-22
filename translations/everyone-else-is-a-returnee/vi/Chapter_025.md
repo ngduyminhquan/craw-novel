@@ -8,7 +8,7 @@ Giọng Kang MiRae truyền qua đầu dây bên kia nghe vô cùng ngạc nhiê
 
 [...Rồi, ý anh là vụ hầm ngục xuất hiện ngay giữa lòng thành phố sao?]
 
-"Đó không phải là hầm ngục. Là quái vật đấy. Mà lại còn là một con quái vật rất mạnh sở hữu năng lực ẩn thân."
+"Đó không phải là hầm ngục. Là quái vật đấy. Mà lại còn là một con quái vật rất mạnh sở hữu năng lực Ẩn Thân."
 
 [...Hóa ra là vậy.]
 
@@ -100,7 +100,7 @@ Thế nhưng, khi công việc tiến triển, sắc mặt của Erta cũng đ�
 
 "Phải rồi."
 
-Trong thương thuật, có một phương thức dùng thương gọi là ném lao. Vốn dĩ, có những trường hợp lao ném cũng được phân loại thành một nhánh của thương.
+Trong Thương Thuật, có một phương thức dùng thương gọi là ném lao. Vốn dĩ, có những trường hợp lao ném cũng được phân loại thành một nhánh của thương.
 
 Thứ Yu IlHan đang chế tạo lúc này là một ngọn lao săn — một dạng lao ném dùng để phóng vào con mồi, đâm xuyên rồi kéo giữ lại. Uy lực đâm xuyên là điều dĩ nhiên, và điều quan trọng là một khi đã cắm vào mục tiêu thì không thể bị tuột ra.
 
@@ -152,7 +152,7 @@ Kỹ năng Chế Tác Mana — vốn đã tăng vọt về độ thuần thục 
 
 Hơn thế nữa, thời gian kích hoạt chế tác mana của anh thậm chí còn được rút ngắn. Chưa đầy 20 giây sau khi bắt đầu, viên ma thạch trên tay Yu IlHan đã biến mất, và toàn bộ số lao săn, cọc trụ cùng dây thừng đã trở thành một bộ tạo tác tấn công hoàn chỉnh. Đúng lúc ấy, Erta cằn nhằn:
 
-[Xin cậu hãy ghi nhớ cho là chế tác mana không phải là kỹ năng lúc nào cũng thành công đâu nhé, được chưa?]
+[Xin cậu hãy ghi nhớ cho là Chế Tác Mana không phải là kỹ năng lúc nào cũng thành công đâu nhé, được chưa?]
 
 "Ồ, lại có cả dòng thuộc tính alpha lẫn beta này."
 
@@ -178,7 +178,7 @@ Phớt lờ Erta đang càu nhàu vì lý do nào đó, Yu IlHan kiểm tra các
 
 Dĩ nhiên, các dòng thuộc tính cũng có phân cấp bậc. Tuy khó có thể phân biệt chỉ qua tên gọi, nhưng nếu nhìn vào hiệu năng của tạo tác sau khi hoàn thành thì sẽ thấy rõ mười mươi.
 
-Bởi các dòng thuộc tính thông thường chỉ tăng thêm 5% hoặc 10% ở một phương diện, nên 'hung bạo' và 'tàn nhẫn' chắc chắn là những dòng thuộc tính bậc cao.
+Bởi các dòng thuộc tính thông thường chỉ tăng thêm 5% hoặc 10% ở một phương diện, nên 'Hung Bạo' và 'Tàn Nhẫn' chắc chắn là những dòng thuộc tính bậc cao.
 
 "Ngon nghẻ gấp đôi so với tôi dự tính. Thế này chắc là đủ rồi."
 
@@ -192,7 +192,7 @@ Anh thản nhiên vặn lại rồi thành thục buộc bộ lao săn lên sau 
 
 Như thể đã nhìn thấu cuộc gọi là từ anh, Empress, Kang MiRae lập tức hỏi câu đó. Yu IlHan nhanh chóng đáp lại:
 
-"Đừng tiến vào vội. Nó có năng lực ẩn thân nên cô có thể bị phục kích đấy."
+"Đừng tiến vào vội. Nó có năng lực Ẩn Thân nên cô có thể bị phục kích đấy."
 
 Dù tính ra nó phải chào đời từ hai ngày trước, nhưng dựa theo buổi phát sóng trực tiếp trên TV cách đây vài giờ, nó không hề rời khỏi nơi đó mà vẫn nán lại. Và lý do cũng có thể đoán ra được. Nó đang chờ đợi họ ngay tại hiện trường. Để đòi món nợ máu từ những kẻ đã giết mẹ nó!
 
@@ -206,7 +206,7 @@ Anh mỉm cười sau khi kiểm tra lại món đồ trên lưng.
 
 Nhà xưởng của anh chỉ cách chiến trường 20 phút di chuyển, kể cả tính theo tiêu chuẩn của người bình thường. Có lẽ anh sẽ đến nơi sớm hơn nhiều so với Kang MiRae.
 
-"Nó sẽ không thể dùng được ẩn thân đâu. Vậy nên hãy chờ đến lúc đó."
+"Nó sẽ không thể dùng được Ẩn Thân đâu. Vậy nên hãy chờ đến lúc đó."
 
 [...Tôi sẽ tin tưởng và phó thác cho anh.]
 
@@ -216,7 +216,7 @@ Có được mối liên kết với một người khác thực sự là một 
 
 "Cô cứ việc tin bao nhiêu tùy thích."
 
-Anh nhẹ nhàng đáp lại rồi gác máy. Những bước chân bước ra khỏi bốt điện thoại đã trở nên nhẹ nhõm hơn hẳn một bậc. Tốc độ chạy vốn đã mau lẹ nay lại càng nhanh hơn. Bộ giáp đang mang trên mình, và thậm chí cả những cây cọc cùng ngọn lao săn nặng trịch vác trên lưng cũng chẳng thể nào níu chậm bước chân anh.
+Anh nhẹ nhàng đáp lại rồi gác máy. Những bước chân bước ra khỏi bốt điện thoại đã trở nên nhẹ nhõm hơn hẳn một bậc. Tốc độ chạy vốn đã mau lẹ nay lại càng nhanh hơn. Cả bộ giáp đang mang trên mình lẫn những cây cọc chất đầy trong bao trên lưng đều là một màu đen tuyền; khuôn mặt từ chóp mũi trở lên bị mặt nạ đầu lâu che khuất, chỉ lộ ra phần hàm dưới cùng ánh mắt sắc lạnh.
 
 Giờ là lúc bắt đầu cuộc đi săn thực sự.
 

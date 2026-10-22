@@ -38,7 +38,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu YongHan | Yu IlHan | bố | con | 6 | Bố con |
 | Kim YeSeul | Yu YongHan | tôi / em | ông / anh | 6 | Vợ chồng trung niên |
 | Yu YongHan | Kim YeSeul | tôi / anh | bà / em | 6 | Vợ chồng trung niên |
-| Yu IlHan | Empress | tôi | cô | 8 | Hợp tác săn quái |
+| Yu IlHan | Empress | tôi | cô | 8 | Hợp tác săn quái; biết tên Kang MiRae từ chương 22 |
 | Empress | Yu IlHan | tôi | anh | 8 | Lịch thiệp, tôn trọng năng lực |
 | Yu IlHan | Han YeoRang | tôi | cô / thiếu úy | 9 | Giao dịch hiện trường |
 | Han YeoRang | Yu IlHan | tôi | anh | 9 | Sĩ quan và dân thường / dị năng giả bí ẩn |
@@ -50,3 +50,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Fashta | Yu IlHan | ta / tôi | ngươi / con người / Yu IlHan | 18 | Thiên thần hỗ trợ nói với IlHan |
 | Erta | Fashta | tôi | cậu / Fashta | 18 | Đồng nghiệp thiên thần |
 | Fashta | Erta | tôi | cô / Erta | 18 | Đồng nghiệp thiên thần |
+| Empress | Fred | tôi | Fred | 27 | Chủ nhân và cận vệ/tài xế |
+| Fred | Empress | tôi | tiểu thư / cô Kang | 27 | Cận vệ xưng hô với chủ nhân |

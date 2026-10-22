@@ -1,6 +1,6 @@
 # Chương 27: Cứ Gọi Tôi Là Ishmael (2)
 
-Con báo đen trúng phải tia sét cực mạnh liền ngã vật xuống đất đánh rầm một tiếng. Khi ba sợi dây thừng đang trói chặt nó căng phồng lên, cơ thể nó lại càng bị tổn thương nặng nề hơn.
+Con báo đen trúng phải tia sét cực mạnh liền ngã vật xuống đất đánh rầm một tiếng. Khi ba sợi dây thừng đang trói chặt nó căng cứng lên, cơ thể nó lại càng bị tổn thương nặng nề hơn.
 
 Ngay sau đó, chiếc xe bọc thép do Kang MiRae cầm lái lao tới gần Yu IlHan rồi phanh gấp. Kang MiRae khẽ nhoài người ra ngoài cửa sổ, miệng đang ngậm một chiếc lọ nhỏ, bên trong có thể thấy thứ gì đó đang phát ra ánh sáng huỳnh quang. Giờ ngẫm lại mới thấy, cô cũng đang đeo một chiếc mặt nạ kim loại che từ mũi lên đến trán chứ không còn đeo mặt nạ Hulk nữa.
 
@@ -44,7 +44,7 @@ Vừa đóng cọc (e) xuống đất, Yu IlHan vừa kiểm tra trạng thái c
 
 "Hóa ra là muốn cùng chết chùm à."
 
-Đây là ánh mắt mà anh từng bắt gặp vài lần khi đi săn thú vật để nâng max kỹ năng giải phẫu.
+Đây là ánh mắt mà anh từng bắt gặp vài lần khi đi săn thú vật để luyện kỹ năng Giải Phẫu đạt Lv Max.
 
 Dù mọi sinh linh đều đặt sinh mạng lên hàng đầu và làm mọi cách để bảo toàn mạng sống, nhưng đôi khi vẫn có khoảnh khắc mà khát vọng sinh tồn bị một thứ khát vọng khác lấn át hoàn toàn.
 
@@ -106,7 +106,7 @@ Thế nhưng, nếu là Yu IlHan thì có lẽ chuyện sẽ khác.
 
 Kang MiRae thốt lên đầy kinh ngạc, một phản ứng hiếm thấy ở cô. Rõ ràng rồi, người đã tinh thông mọi loại vũ khí cá nhân suốt hàng trăm năm qua chính là Yu IlHan. Anh tự tin mình bắn súng giỏi hơn bất kỳ người Trái Đất nào vừa đi công tác ở thế giới khác trở về!
 
-Hơn nữa, do con quái vật đang lồng lộn chạy khắp nơi, anh không thể sử dụng thương thuật hay cận chiến mà không đối mặt với rủi ro khổng lồ. Có vẻ như khoảnh khắc anh cắm ngọn lao săn (f) vào người nó cũng sẽ là lúc tất cả những ngọn lao còn lại bị giật tung ra cùng lúc, thành thử nếu có bất kỳ khả năng nào thì việc đó cũng trở nên vô nghĩa...!
+Hơn nữa, do con quái vật đang lồng lộn chạy khắp nơi, anh không thể sử dụng Thương Thuật hay Cận Chiến mà không đối mặt với rủi ro khổng lồ. Có vẻ như khoảnh khắc anh cắm ngọn lao săn (f) vào người nó cũng sẽ là lúc tất cả những ngọn lao còn lại bị giật tung ra cùng lúc, thành thử nếu có bất kỳ khả năng nào thì việc đó cũng trở nên vô nghĩa...!
 
 "Cứ đưa cho tôi đi!"
 
@@ -206,7 +206,7 @@ Dĩ nhiên, dù nó có định làm gì đi chăng nữa thì Yu IlHan cũng ch
 
 [KaHHHAACCCKKK!]
 
-Tiếng thét ngắn nhất nhưng cũng chí mạng nhất xé toạc không gian. Đó là tiếng thét bật ra khi Yu IlHan không chút do dự đóng thẳng cọc (f) vào con mắt trái đẫm máu của nó ngay khi nó đang rơi xuống trong lúc kích hoạt ẩn thân!
+Tiếng thét ngắn nhất nhưng cũng chí mạng nhất xé toạc không gian. Đó là tiếng thét bật ra khi Yu IlHan không chút do dự đóng thẳng cọc (f) vào con mắt trái đẫm máu của nó ngay khi nó đang rơi xuống trong lúc kích hoạt Ẩn Thân!
 
 Yu IlHan vừa tặc lưỡi vừa lẩm bẩm.
 
@@ -216,7 +216,7 @@ Rầm! Con báo đen cùng Yu IlHan đồng thời rơi xuống đất. Yu IlHan
 
 Thế nhưng, Yu IlHan thậm chí không buồn nghỉ ngơi mà tiếp tục hành động. Anh bắt đầu dùng sợi dây thừng nối cọc (f) và lao săn (f) trói nghiến nó lại.
 
-"Anh ấy... nhìn thấu cả ẩn thân ư..."
+"Anh ấy... nhìn thấu cả Ẩn Thân ư..."
 
 Rốt cuộc anh còn muốn khiến cô kinh ngạc bao nhiêu lần trong một trận chiến nữa mới chịu thỏa mãn đây? Trong lúc Kang MiRae, người đang tựa lưng mệt lử vào ghế sau khi phóng cạn năng lượng sấm sét, thốt lên đầy chấn động, thì Yu IlHan đã dùng dây thừng trói gô toàn bộ cơ thể con báo lại, rồi như một đòn kết liễu, anh cắm phập ngọn lao săn (f) thật mạnh vào mông nó.
 

@@ -29,9 +29,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 22 |  | Chapter_022 - You Want to Hunt With Me!_ (3).txt | You Want to Hunt With Me!_ (3) | reviewed |  |
 | 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | reviewed |  |
 | 24 |  | Chapter_024 - You Want to Hunt With Me!_ (5).txt | You Want to Hunt With Me!_ (5) | reviewed |  |
-| 25 |  | Chapter_025 - You Want to Hunt with Me!_ (6).txt | You Want to Hunt with Me!_ (6) | done |  |
-| 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | done |  |
-| 27 |  | Chapter_027 - Call me Ishmael (2).txt | Call me Ishmael (2) | done |  |
+| 25 |  | Chapter_025 - You Want to Hunt with Me!_ (6).txt | You Want to Hunt with Me!_ (6) | reviewed |  |
+| 26 |  | Chapter_026 - Call me Ishmael (1).txt | Call me Ishmael (1) | reviewed |  |
+| 27 |  | Chapter_027 - Call me Ishmael (2).txt | Call me Ishmael (2) | reviewed |  |
 | 28 |  | Chapter_028 - Call Me Ishmael (3).txt | Call Me Ishmael (3) | todo |  |
 | 29 |  | Chapter_029 - Call me Ishmael (4).txt | Call me Ishmael (4) | todo |  |
 | 30 |  | Chapter_030 - I Also Go to Dungeons (1).txt | I Also Go to Dungeons (1) | todo |  |

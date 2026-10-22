@@ -18,7 +18,7 @@ Vừa dõi theo nó, Yu IlHan vừa rút một trong những cây cọc sau lưn
 
 "Hự!"
 
-Rồi anh cắm phập nó xuống mặt đất. Cây cọc đã trở thành tạo tác ma pháp nhẹ nhàng cắm sâu vào lòng đất trong chớp mắt, êm ru như cắm nến vào bánh kem.
+Rồi anh cắm phập nó xuống mặt đất. Cây cọc đã trở thành tạo tác nhẹ nhàng cắm sâu vào lòng đất trong chớp mắt, êm ru như cắm nến vào bánh kem.
 
 "Trước tiên là phía bên kia."
 
@@ -50,13 +50,13 @@ Thế nhưng, nó lại không hề tấn công. Dù rằng chẳng có sơ hở
 
 Yu IlHan cạn lời. Anh thầm nghĩ 'không thể nào'.
 
-Dù anh có sở hữu kỹ năng ẩn thân bị động đi chăng nữa, thì anh vừa mới đi đi lại lại đóng hai cây cọc to đùng và dày cộp xuống đất cơ mà. Thế mà kẻ địch lại không tài nào nhận ra thì quá đỗi kỳ quặc rồi.
+Dù anh có sở hữu kỹ năng Ẩn Thân bị động đi chăng nữa, thì anh vừa mới đi đi lại lại đóng hai cây cọc to đùng và dày cộp xuống đất cơ mà. Thế mà kẻ địch lại không tài nào nhận ra thì quá đỗi kỳ quặc rồi.
 
 [Nhưng cậu đâu có trực tiếp tấn công con báo đen, đúng chứ?]
 
 "Đúng vậy."
 
-[Chẳng phải vì thế nên hiệu ứng ẩn thân của cậu vẫn chưa hề mất đi sao?]
+[Chẳng phải vì thế nên hiệu ứng Ẩn Thân của cậu vẫn chưa hề mất đi sao?]
 
 "Thế còn mấy cây cọc với mấy ngọn lao săn này thì sao? Cả những cây đã đóng đằng kia nữa?"
 
@@ -80,7 +80,7 @@ Cơ thể anh ghi nhớ rất rõ độ dài của sợi dây. Cự ly này hoà
 
 Con báo đen dường như cũng cảm nhận được điều gì đó bất thường nên không hề rời khỏi khu vực này. Cũng phải thôi, đất đai thì nứt toác còn hai cây cọc xương khổng lồ thì cắm sờ sờ xuống đất, nếu đến mức đó mà còn chẳng nhận ra điểm kỳ quặc thì nó đâu còn xứng làm quái vật nữa.
 
-Yu IlHan bình tĩnh nâng ngọn lao săn (a) lên nhắm thẳng vào nó. Ngay khoảnh khắc ấy, anh cảm nhận được sức mạnh đang tràn ngập cơ thể. Không chỉ có 10% sát thương cộng thêm từ hiệu ứng ẩn thân, mà 10% sát thương cộng thêm từ thương thuật cũng được kích hoạt. Anh thầm reo lên đầy thích thú vì hóa ra lao săn cũng được tính là một loại thương.
+Yu IlHan bình tĩnh nâng ngọn lao săn (a) lên nhắm thẳng vào nó. Ngay khoảnh khắc ấy, anh cảm nhận được sức mạnh đang tràn ngập cơ thể. Không chỉ có 10% sát thương cộng thêm từ hiệu ứng Ẩn Thân, mà 10% sát thương cộng thêm từ Thương Thuật cũng được kích hoạt. Anh thầm reo lên đầy thích thú vì hóa ra lao săn cũng được tính là một loại thương.
 
 "...Phù."
 
@@ -94,7 +94,7 @@ Cùng một tiếng hét kỳ quặc, Yu IlHan phóng ngọn lao đi. Phải ch�
 
 "Chà."
 
-Một tiếng thét rợn người như thể đất trời sụp đổ. Yu IlHan khẽ thốt lên rồi bật lùi về phía sau. Vì dính đòn tấn công và bị trói vào cây cọc, khả năng ẩn thân của nó đã bị hóa giải hoàn toàn, để lộ nguyên hình toàn bộ cơ thể.
+Một tiếng thét rợn người như thể đất trời sụp đổ. Yu IlHan khẽ thốt lên rồi bật lùi về phía sau. Vì dính đòn tấn công và bị trói vào cây cọc, khả năng Ẩn Thân của nó đã bị hóa giải hoàn toàn, để lộ nguyên hình toàn bộ cơ thể.
 
 Erta, người vừa nhìn rõ kích thước của nó, khẽ tặc lưỡi thì thầm.
 
@@ -104,9 +104,9 @@ Erta, người vừa nhìn rõ kích thước của nó, khẽ tặc lưỡi th�
 
 Yu IlHan nhìn ngọn lao mới chỉ cắm ngập một nửa, cũng tặc lưỡi nói như cô.
 
-May mắn là ngọn lao săn vẫn trụ vững và không bị bung ra dù con thú đang giãy giụa điên cuồng, nhưng việc ngọn lao được anh ném bằng toàn bộ sức bình sinh kèm theo bùa lợi từ ẩn thân và thương thuật lại chỉ cắm sâu được một nửa quả là một cú sốc không hề nhỏ.
+May mắn là ngọn lao săn vẫn trụ vững và không bị bung ra dù con thú đang giãy giụa điên cuồng, nhưng việc ngọn lao được anh ném bằng toàn bộ sức bình sinh kèm theo bùa lợi từ Ẩn Thân và Thương Thuật lại chỉ cắm sâu được một nửa quả là một cú sốc không hề nhỏ.
 
-[Nếu là một con quái vật chuyển chức lần 3 đúng nghĩa thì ngay cả chuyện đó cũng không xảy ra đâu. Cậu nên thấy may mắn vì nó chỉ chuyên về ẩn thân đi.]
+[Nếu là một con quái vật chuyển chức lần 3 đúng nghĩa thì ngay cả chuyện đó cũng không xảy ra đâu. Cậu nên thấy may mắn vì nó chỉ chuyên về Ẩn Thân đi.]
 
 "Tôi biết rồi. Tôi biết thừa rồi."
 
@@ -142,7 +142,7 @@ Một áp lực khủng khiếp giáng thẳng xuống người anh. Đó là m�
 
 [KyyaaaAoOOoo!]
 
-"Hự a!"
+"Hựaaa!"
 
 Thế nhưng, anh không hề bị gãy xương. Đó là bởi các lưỡi dao xương bật ra ngay khoảnh khắc va chạm đã làm giảm sát thương như một lớp phòng thủ tuyến đầu, và bộ giáp da hội tụ toàn bộ kỹ thuật xử lý da của anh đã triệt tiêu bớt sát thương một lần nữa.
 
@@ -174,7 +174,7 @@ Trong lúc đó, con báo đen lại ngã nhào vì sợi dây thừng trói bu�
 
 "Tôi biết rồi!"
 
-Yu IlHan thầm thấy gay go to chuyện ngay cả khi đang vội vã cắm cọc (c) xuống đất. Anh chưa từng tưởng tượng nổi nó lại sở hữu kỹ năng chém tầm xa!
+Yu IlHan thầm thấy rắc rối to ngay cả khi đang vội vã cắm cọc (c) xuống đất. Anh chưa từng tưởng tượng nổi nó lại sở hữu kỹ năng chém tầm xa!
 
 Thành thực mà nói, anh cứ ngỡ những quái vật mình từng chiến đấu từ trước tới giờ chỉ là lũ động vật bình thường được cường hóa vượt bậc, nên anh chỉ nghĩ rằng miễn sao có cây lao săn chắc chắn là sẽ giải quyết xong xuôi.
 
@@ -202,7 +202,7 @@ Dù dùng lao săn trói chân được nó là điều tốt, nhưng khi nó đ
 
 Đúng lúc đó, người có thể giải quyết cục diện này đã xuất hiện. Yu IlHan nhận ra điều đó nhờ những tiếng động cơ gầm rú inh ỏi... động cơ ư?
 
-"Quả nhiên anh đã phong ấn được khả năng ẩn thân của nó!"
+"Quả nhiên anh đã phong ấn được khả năng Ẩn Thân của nó!"
 
 Empress vừa xuất hiện trên một chiếc xe bọc thép thoạt nhìn đã thấy vô cùng kiên cố.
 
