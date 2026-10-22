@@ -1,6 +1,6 @@
 # Chương 34: Hiện Tượng Tràn (1)
 
-[Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo']
+[Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo]
 
 [Phẩm cấp – Truyền Thuyết]
 

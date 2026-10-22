@@ -222,7 +222,7 @@ Vì thế, ưu tiên hàng đầu của anh lúc này chính là chuyển chức
 
 Yu IlHan rút bộ giáp ra khỏi Túi Đeo Chéo, miệng mỉm cười trước sự giục giã đầy đáng yêu và trông đợi của Erta. Ngay khoảnh khắc ấy, tên của món trang bị liền hiện rõ trên võng mạc của anh.
 
-[Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo']
+[Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo]
 
 "Này."
 

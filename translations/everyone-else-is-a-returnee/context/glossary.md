@@ -9,7 +9,7 @@
 | Great Cataclysm |  | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
 | Akashic Records | Akashic Record | Hồ Sơ Akashic | hệ thống | 1 | Kho ghi chép vạn vật của vũ trụ |
 | Mana |  | Mana | hệ thống | 1 | Năng lượng ma thuật cấp cao của vũ trụ |
-| Status |  | Bảng chỉ số / Điểm chỉ số | hệ thống | 1 | Dùng 'Bảng chỉ số' cho bảng thông tin cá nhân; dùng 'Điểm chỉ số' khi chỉ điểm số (status points) |
+| Status |  | Bảng chỉ số | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Được phép giữ nguyên: Môn võ cận chiến thực chiến tàn khốc không luật lệ (tên môn võ quốc tế phổ thông) |
@@ -21,7 +21,7 @@
 | Returnee |  | Người Trở Về | khác | 5 | Nhân loại Trái Đất trở về sau 10 năm thích ứng mana |
 | Dropout |  | Người Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
 | Dropout bonus | Rejector bonus | Thưởng cho người bị bỏ lại | hệ thống | 1 | Phần thưởng đền bù của Thượng Đế cho IlHan |
-| Magic stone |  | Ma thạch | vật phẩm | 9 | Lõi năng lượng thu được từ quái vật |
+| Magic stone | Magic stones | Ma thạch | vật phẩm | 9 | Lõi năng lượng thu được từ quái vật |
 | 1st advancement |  | Chuyển chức lần 1 | hệ thống | 6 | Mốc lv 10 |
 | 2nd advancement |  | Chuyển chức lần 2 | hệ thống | 6 | Mốc lv 50 |
 | 3rd advancement |  | Chuyển chức lần 3 | hệ thống | 6 | Mốc lv 100 |
@@ -71,7 +71,7 @@
 | Dragon heart |  | Trái tim rồng | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
 | Bestowal |  | Ban tặng | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |
 | Direwolf |  | Sói Bạo Tàn | quái vật | 10 | Quái vật sói hoang dã cấp 35 cầm đầu bầy quái |
-| Executor |  | Kẻ Hành Quyết / chấp hành | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái |
+| Executor |  | Kẻ Hành Quyết | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái; danh xưng người thực hiện nhiệm vụ Thiên giới |
 | Racial correction |  | Hiệu chỉnh chủng tộc | hệ thống | 10 | Hiện tượng ngoại hình trở nên đẹp hơn khi cấp độ tăng cao |
 | Overbalanced |  | Phá vỡ cân bằng | khác | 10 | Thuật ngữ giới nghiên cứu gọi các dị năng giả có sức mạnh áp đảo |
 | Brown Direwolf |  | Sói Bạo Tàn Nâu | quái vật | 11 | Quái vật sói biến dị cấp 35 |
@@ -204,7 +204,7 @@
 | Los Angeles |  | Los Angeles | địa danh | 34 | Thành phố Los Angeles ở bang California, Mỹ |
 | Pokemon | P*k*m*n | Pokemon | khác | 34 | Được phép giữ nguyên: Thương hiệu trò chơi/anime nổi tiếng của Nhật Bản (tham chiếu văn hóa đại chúng) |
 | Record of Extreme Poison Resistance Skill |  | Ghi Chép Kỹ Năng Kháng Độc Cực Hạn | vật phẩm | 34 | Sách ghi chép chứa kỹ năng Kháng Độc Cực Hạn do thiên giới trao thưởng |
-| Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen 'Kinh Hãi', 'Cứng' và 'Kín Đáo' / Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 34 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
+| Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 33 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
 | Heaven |  | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần |
 | Deathgod |  | Tử Thần | khác | 35 | Khái niệm/hình tượng thần chết tước đoạt sinh mệnh từ bóng tối |
 | Deathgod's black spear | Death god's Black Spear; Deathgod's, Black Spear; Black Spear | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
@@ -255,6 +255,7 @@
 | physical abilities |  | năng lực thể chất | hệ thống | 43 | Năng lực thể chất tổng thể trong các bảng mô tả kỹ năng/buff hệ thống |
 | Holy Knight | holy knight | Thánh Kỵ Sĩ | chức nghiệp | 47 | Chức nghiệp của Kang HaJin |
 | Escape Scroll | escape scroll | Cuộn Trục Đào Tẩu | vật phẩm | 47 | Cuộn trục dịch chuyển ma pháp giúp rời khỏi hầm ngục |
+| Executor angels | Executor angel | thiên thần chấp hành | chủng tộc | 47 | Các thiên thần thực thi quyền năng của Thiên giới |
 | Death Collector |  | Thu Thập Tử Vong | kỹ năng | 48 | Kỹ năng bị động của Tử Thần Tập Sự, thu thập và tích trữ sinh lực của những kẻ bị tiêu diệt |
 | Breaker | Breakers | Kẻ Phá Vỡ | khác | 48 | Những kẻ nuốt ma thạch rồi bị mana quái vật nuốt chửng/thao túng thể xác, khi chết hóa thành tro đen |
 | Hell Tower |  | Tháp Địa Ngục | địa danh | 48 | Thế giới khác nơi Kang HaJin từng chuyển sinh và chiến đấu suốt 10 năm |
@@ -273,5 +274,5 @@
 | Secretive Reaper's Fallen Robe |  | Áo Choàng Đọa Lạc Tử Thần Kín Đáo | vật phẩm | 51 | Áo choàng di vật của Reta Kar'iha, mang dòng thuộc tính Kín Đáo tăng 20% khả năng ẩn thân và 20% sức tấn công khi tập kích |
 | Fatal and Sharp Reaper's Scythe |  | Lưỡi Hái Tử Thần Sắc Bén Chí Mạng | vật phẩm | 51 | Lưỡi hái di vật của Reta Kar'iha chế tác từ kim loại thế giới lụi tàn, tăng 40% tỷ lệ và sát thương chí mạng |
 | Extermination Spiked Spear |  | Thương Gai Tuyệt Diệt | vật phẩm | 51 | Vũ khí phẩm cấp Truyền Thuyết được Yu IlHan rèn từ kim loại nung chảy của Lưỡi Hái Tử Thần, tăng 70% sát thương chí mạng |
-| Angel Cobra Twist | angel cobra twist | Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần / đòn bẻ khớp rắn hổ mang phiên bản thiên thần | khác | 49 | Đòn đấu vật hài hước Erta dùng để răn đe Feyta |
+| Angel Cobra Twist | angel cobra twist | Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần | khác | 49 | Đòn đấu vật hài hước Erta dùng để răn đe Feyta |
 | Incheon Airport | Incheon airport | Sân bay Incheon | địa danh | 50 | Sân bay quốc tế Incheon tại Hàn Quốc |
