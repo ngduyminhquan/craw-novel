@@ -23,6 +23,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | YuNa | Yu Na; Na YuNa | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 | Reta Kar'iha |  | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
+| Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 
 ## Chi tiết
 
@@ -74,6 +75,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 47: Trực diện đọ sức làm quái vật tử thần cạn kiệt mana và đâm vỡ xương ngực nó; chịu hai tầng nguyền rủa làm tê liệt toàn thân và vỡ nát bộ đại khải nhưng dùng ý chí kiên định phá vỡ giam cầm; được nhóm YuNa giải nguyền kịp thời và lập tức lao đi săn 3 con troll cuối cùng để hoàn tất chuyển chức 2.
 - Trạng thái tính đến chương 48: Hoàn thành nhiệm vụ chuyển chức thành 'Tử Thần Tập Sự', tăng vọt lên cấp 55; học được kỹ năng bị động 'Thu Thập Tử Vong' Lv 1; kết liễu Kẻ Phá Vỡ Reta Kar'iha Lv 157 và thu được hơn 31,9 triệu EXP, ma thạch đen, áo choàng và lưỡi hái tử thần.
 - Trạng thái tính đến chương 49: Thu hoạch toàn bộ ma thạch đen và di vật của Reta Kar'iha; tiết lộ tên thật cho nhóm Kang HaJin và Na YuNa; được thiên thần thiết giáp hẹn trao thưởng sau vì công cứu Erta; biết tin Lita mong ngóng gặp lại mình; dùng Ẩn Thân trốn thoát khỏi Na YuNa tại sân bay để tiếp tục đi lậu vé về Hàn Quốc.
+- Trạng thái tính đến chương 50: Về nhà ở Jongno, nhận tin mẹ đi làm nhiệm vụ lấy hải sản ở Ya-umin; tại xưởng rèn, luyện kỹ năng Nấu Nướng tăng thêm 2 cấp nhờ áp chảo lượng lớn thịt quái vật thừa cho Ngọn Lửa Vĩnh Cửu nuốt trọn; thử nghiệm và chế tạo thành công Dây Thun Khổng Lồ phẩm cấp cao từ gân Thủ Lĩnh Troll Cao Nguyên bằng cách cho Ngọn Lửa Vĩnh Cửu nuốt ma thạch chuyển chức 2; chuẩn bị rèn vũ khí mới.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -100,6 +102,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 26: Xuất hiện kịp thời tại hiện trường bằng xe bọc thép kiên cố, thi triển kỹ năng ma pháp 'Song Lôi' (Twin Lightning) cực mạnh làm choáng váng quái thú chuyển chức lần 3 để hỗ trợ Yu IlHan.
 - Trạng thái tính đến chương 27: Đổi sang đeo mặt nạ kim loại che từ mũi lên trán; thi triển kỹ năng ma pháp cấp cao 'Tam Lôi' (Triple Lightning) đánh gục báo đen; bàng hoàng trước khả năng bắn súng và nhìn thấu Ẩn Thân của IlHan.
 - Trạng thái tính đến chương 28: Cùng Yu IlHan lập tổ đội nhận gần 1,5 triệu EXP; biết tên thật của IlHan và xin số điện thoại liên lạc riêng; chủ động rút lại lời mời lập đội vì mặc cảm chênh lệch thực lực quá lớn làm tổn thương lòng tự trọng, quyết tâm rèn luyện để bắt kịp anh trong tương lai.
+- Trạng thái tính đến chương 50: Đón Kang HaJin và Na YuNa tại sân bay Incheon; nhận nọc độc bọ cạp để hoàn thành đủ điều kiện chuyển chức lần 2; nghe Na YuNa kể về Yu IlHan và nảy sinh lòng hiếu thắng muốn vượt qua anh.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -138,6 +141,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 47: Lộ chức nghiệp Thánh Kỵ Sĩ; bị mắc kẹt trong hầm ngục do Cuộn Trục Đào Tẩu bị vô hiệu hóa; được Erta dẫn đến chi viện cho Yu IlHan; cùng Na YuNa hợp lực húc văng quái vật tử thần và nhận lời cầm cự chịu đòn một mình trong 30 giây.
 - Trạng thái tính đến chương 48: Nhận bùa lợi của Na YuNa liều mạng chống đỡ quái vật tử thần để câu giờ cho IlHan đến khi vỡ nát giáp trụ; lập tổ đội với IlHan và lên cấp khi quái vật tử thần bị tiêu diệt; tiết lộ từng có 10 năm sinh tồn ở Tháp Địa Ngục.
 - Trạng thái tính đến chương 49: Nhường toàn bộ ma thạch đen và di vật của Reta Kar'iha cho Yu IlHan; biết tên thật của IlHan và kinh ngạc trước thái độ phũ phàng cự tuyệt nhan sắc Na YuNa của anh; cảm thấy tự ti trước mối quan hệ thân thiết giữa IlHan và các thiên thần.
+- Trạng thái tính đến chương 50: Cùng Na YuNa về nước an toàn giao nọc bọ cạp cho Kang MiRae; giấu đi mặc cảm tự ti trước sức mạnh của IlHan và nuôi tham vọng thu phục anh về dưới trướng.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -150,6 +154,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 44: Ban bùa lợi hỗ trợ HaJin và nhận ra IlHan suy kiệt thể lực sau khi dùng Quái Lực để thi triển ma pháp hồi phục hỗ trợ anh; nhiệt tình tán thành việc mời IlHan vào clan nhưng bất thành.
 - Trạng thái tính đến chương 47: Bị kẹt trong hầm ngục cùng HaJin; dùng thánh lực và câu niệm chú đặc trưng hóa giải toàn bộ nguyền rủa, hồi phục thể lực cho IlHan và ban bùa lợi cực mạnh giúp HaJin húc văng quái vật tử thần.
 - Trạng thái tính đến chương 49: Bị IlHan từ chối xin số điện thoại; biết tên thật của IlHan và chuyển sang gọi anh là 'IlHan'; hào hứng trước phản ứng phũ phàng khác lạ của IlHan; cùng HaJin lên máy bay về Hàn Quốc và hy vọng sớm tái ngộ IlHan.
+- Trạng thái tính đến chương 50: Về đến sân bay Incheon cùng Kang HaJin; phơi bày việc HaJin bị đập tơi tả và không ngừng liến thoắng khen ngợi thực lực phi thường của Yu IlHan trước mặt Kang MiRae.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
@@ -159,3 +164,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ giới (chủng tộc thông tuệ chưa rõ: con người, elf...), Kẻ Phá Vỡ (Breaker) cấp 157 bị tha hóa thành quái vật tử thần trong hầm ngục Grand Canyon.
 - Ngoại hình / giọng nói: Mang hình tượng tử thần trùm áo đen cầm lưỡi hái chiến đấu, nhưng sở hữu giọng nữ trong trẻo, dịu dàng.
 - Trạng thái tính đến chương 48: Được Yu IlHan giải thoát khỏi sự tha hóa bằng nhát thương chí mạng; trước khi tan biến thành tro đen đã mỉm cười cảm ơn IlHan và để lại ma thạch đen, áo choàng cùng lưỡi hái tử thần.
+
+### Myuta
+- Giới tính, vai trò: Thiên thần chủ tọa/chủ trì cuộc họp của các thiên thần trên Thiên giới bàn về dị thường tại Trái Đất và hầm ngục Grand Canyon.
+- Tính cách: Công tâm, nghiêm minh, làm việc theo nguyên tắc và chỉ thực thi ý chỉ của Thượng Đế; đánh giá cao tiềm năng của người bị bỏ lại Yu IlHan.
+- Trạng thái tính đến chương 50: Dùng thẩm quyền của mình phê duyệt quyết định tăng viện gấp 4 lần số lượng thiên thần tới Trái Đất và hứa ban phần thưởng xứng đáng nhất cho Yu IlHan.
+

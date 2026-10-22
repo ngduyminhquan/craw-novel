@@ -24,6 +24,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | cô / YuNa | 36 | Nữ dị năng giả người Hàn tại sân bay LA |
 | Feyta | cô / Feyta | 38 | Thiên thần hộ mệnh của Na YuNa |
 | Reta Kar'iha | cô / Reta Kar'iha | 48 | Kẻ Phá Vỡ cấp 157 |
+| Myuta | Myuta / thiên thần Myuta | 50 | Thiên thần chủ tọa cuộc họp |
 
 ## Giữa các nhân vật
 
@@ -73,3 +74,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | HaJin | Yu IlHan | tôi | anh | 41 | HaJin đối thoại với IlHan |
 | YuNa | Yu IlHan | em / tôi | anh / IlHan | 49 | Biết tên thật sau khi thoát khỏi hầm ngục |
 | Reta Kar'iha | Yu IlHan | tôi | cậu / anh | 48 | Lời cảm ơn trước khi tan biến |
+| Kang MiRae | YuNa | tớ / tôi | cậu / YuNa | 50 | Bạn thân từ thuở nhỏ |
+| YuNa | Kang MiRae | tớ / em | cậu / MiRae | 50 | Bạn thân từ thuở nhỏ |
+| HaJin | Kang MiRae | tôi / anh | cô / MiRae | 50 | Bạn đồng hành cùng nhóm |
+| Kang MiRae | HaJin | tôi / em | anh / HaJin | 50 | Bạn đồng hành cùng nhóm |
+| Myuta | Lita | ta / tôi | Lita | 50 | Chủ tọa hội nghị nói với Lita |
+| Lita | Myuta | tôi | Myuta | 50 | Lita nói với Myuta |
+| Myuta | Erta | ta / tôi | Erta | 50 | Chủ tọa hội nghị nói với Erta |
+| Erta | Myuta | tôi | ngài Myuta / Myuta-nim | 50 | Erta kính cẩn hỏi Myuta |

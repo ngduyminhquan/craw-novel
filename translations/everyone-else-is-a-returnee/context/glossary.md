@@ -32,7 +32,7 @@
 | High-class monster | High class monster | Quái vật cấp cao | khác | 2 | Quái vật cấu thành từ hệ thống năng lượng bậc cao, cần mana để tiêu diệt |
 | Boston Public Library |  | Thư viện Công cộng Boston | địa danh | 3 | Thư viện lớn ở Mỹ nơi IlHan hoàn thành việc đọc toàn bộ sách |
 | Russian Academy of Sciences | Russian Academy of sciences | Viện Hàn lâm Khoa học Nga | tổ chức | 3 | Nơi có 7,5 triệu đầu sách IlHan đã đọc qua |
-| Ya-umin |  | Ya-umin | địa danh | 6 | Thế giới khác nơi mẹ IlHan chuyển sinh đến |
+| Ya-umin | Ya'umin | Ya-umin | địa danh | 6 | Thế giới khác nơi mẹ IlHan chuyển sinh đến |
 | Heishia |  | Heishia | địa danh | 6 | Thế giới khác nơi cha IlHan chuyển sinh đến |
 | Mo Palmo |  | Mo Palmo | khác | 4 | Thợ rèn huyền thoại trong truyền thuyết Jumong |
 | Strength |  | Sức mạnh | hệ thống | 5 | Chỉ số cơ bản |
@@ -260,3 +260,6 @@
 | Hell Tower |  | Tháp Địa Ngục | địa danh | 48 | Thế giới khác nơi Kang HaJin từng chuyển sinh và chiến đấu suốt 10 năm |
 | Michael Jackson |  | Michael Jackson | khác | 48 | Ca sĩ huyền thoại người Mỹ (tham chiếu văn hóa đại chúng) |
 | Moonwalk |  | Moonwalk | khác | 48 | Điệu nhảy trượt lùi kinh điển của Michael Jackson |
+| Daréu | Dareu | Daréu | địa danh | 50 | Thế Giới Bị Bỏ Rơi quê hương của Reta Kar'iha và tộc Elf |
+| Elf | elf | Elf | chủng tộc | 50 | Được phép giữ nguyên: Chủng tộc thông tuệ trong thần thoại kỳ ảo phương Tây |
+| Army of Heaven |  | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
