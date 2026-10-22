@@ -68,7 +68,7 @@ Sau khi lạnh lùng dập tắt câu hỏi tràn trề hy vọng của Yu IlHan
 
 Sau khi vặc lại câu cà khịa đã đoán trước từ anh, việc Erta làm chẳng phải thứ gì khác ngoài liên lạc. Cô gửi tin nhắn cho các đồng nghiệp thiên thần đang túc trực trên thiên giới.
 
-Vòng thiên thần là biểu tượng cho mối liên kết tuyệt đối, vượt qua mọi rào cản của thời gian, không gian cũng như ranh giới giữa các thế giới. Đó là năng lực độc quyền của thiên giới, cho phép truyền tải cảm xúc, ý định và ý chí của bản thân tới các đồng nghiệp cùng sở hữu vòng thiên thần.
+Vòng thiên thần là biểu tượng cho mối liên kết tuyệt đối, vượt qua mọi rào cản của thời gian, không gian cũng như ranh giới giữa các thế giới. Đó là năng lực độc quyền của loài thiên thần, cho phép truyền tải cảm xúc, ý định và ý chí của bản thân tới các đồng nghiệp cùng sở hữu vòng thiên thần.
 
 Chẳng mấy chốc, bốn năm bóng người tỏa ra ánh sáng rực rỡ tương tự Erta đã hiện diện bên trong xưởng chế tác của Yu IlHan. Có cả nam lẫn nữ, nhưng điểm chung là ai nấy đều mang vẻ đẹp tuấn tú và kiều diễm tuyệt trần.
 

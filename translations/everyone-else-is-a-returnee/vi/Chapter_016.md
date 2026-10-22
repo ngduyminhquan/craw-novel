@@ -46,7 +46,7 @@ Bị dồn đến giới hạn, Erta cuối cùng cũng phải giở giọng hè
 
 Yu IlHan chẳng còn hơi sức đâu mà cãi lại, đầu óc trống rỗng mất một lúc. Anh khẽ thở dài rồi ngồi phịch xuống giường.
 
-"Ừ thì... tôi có than thở với cô cũng chẳng giải quyết được gì. Rút cuộc thì tôi vẫn không thể tới thế giới khác."
+"Ừ thì... tôi có than thở với cô cũng chẳng giải quyết được gì. Rốt cuộc thì tôi vẫn không thể tới thế giới khác."
 
 [Nếu cậu trở thành thực thể cấp cao thì biết đâu đấy.]
 

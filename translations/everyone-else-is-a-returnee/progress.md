@@ -20,9 +20,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 13 |  | Chapter_013 - I Hunt Alone (4).txt | I Hunt Alone (4) | reviewed |  |
 | 14 |  | Chapter_014 - I Hunt Alone (5).txt | I Hunt Alone (5) | reviewed |  |
 | 15 |  | Chapter_015 - I Make Them (1).txt | I Make Them (1) | reviewed |  |
-| 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | done |  |
-| 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | done |  |
-| 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | done |  |
+| 16 |  | Chapter_016 - I Make Them (2).txt | I Make Them (2) | reviewed |  |
+| 17 |  | Chapter_017 - I Make Them (3).txt | I Make Them (3) | reviewed |  |
+| 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | reviewed |  |
 | 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | todo |  |
 | 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | todo |  |
 | 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | todo |  |
@@ -432,3 +432,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#17] Thuật ngữ "Trap of Destruction" (ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục) — Tạm chọn: "Bẫy Hủy Diệt". Phương án khác: "Cạm Bẫy Hủy Diệt", "Cạm Bẫy Diệt Vong". Tạm dùng trong bản dịch: "Bẫy Hủy Diệt". → Chốt 'Bẫy Hủy Diệt' (orchestrator)
 - [#17] Thuật ngữ "Inventory" (không gian chứa đồ ma pháp) — Tạm chọn: "Túi đồ". Phương án khác: "Kho đồ", "Túi không gian". Tạm dùng trong bản dịch: "Túi đồ" (khớp với nhắc đến ở chương 6). → Chốt 'Túi đồ' (orchestrator)
 - [#17] Tên các kim loại/nguyên liệu từ thế giới bậc cao "Harkanium", "Fecinom", "El Hazra" (kim loại lỏng) — Tạm chọn: giữ nguyên dạng Latin chuẩn theo rules.md cho tên riêng/khoáng thạch thế giới khác. Tạm dùng trong bản dịch: "Harkanium", "Fecinom", "El Hazra". → Chốt giữ nguyên tên kim loại thế giới bậc cao: Harkanium, Fecinom, El Hazra (orchestrator)
+- [#16 đoạn 24] Chính tả → Chấp nhận sửa thành "Rốt cuộc" (orchestrator)
+- [#18 đoạn 35] Dịch thuật → Chấp nhận sửa thành "năng lực độc quyền của loài thiên thần" (orchestrator)
+- [glossary.md] Thuật ngữ ma pháp → Chấp nhận bổ sung Shrinking magic và Invisibility magic vào glossary.md (orchestrator)

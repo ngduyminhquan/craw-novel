@@ -115,3 +115,5 @@
 | Meticulous |  | Tỉ Mỉ | hệ thống | 18 | Tiền tố dòng thuộc tính alpha tăng độ chuẩn xác |
 | Earthly |  | Trần Thế | hệ thống | 18 | Tiền tố dòng thuộc tính beta gắn liền với Trái Đất |
 | Angel's ring |  | Vòng thiên thần | khác | 18 | Biểu tượng liên kết vượt không thời gian và giao tiếp giữa các thiên thần |
+| Shrinking magic |  | Ma pháp thu nhỏ | hệ thống | 16 | Ma pháp Erta dùng để thu nhỏ cơ thể xuống kích thước lòng bàn tay |
+| Invisibility magic |  | Ma pháp tàng hình | hệ thống | 18 | Ma pháp các thiên thần định thi triển lên IlHan để che giấu người thường |
