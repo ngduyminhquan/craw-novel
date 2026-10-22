@@ -145,4 +145,10 @@ Xem truyền hình, IlHan bàng hoàng phát hiện nửa xác con Báo Khổng 
 Nhận định con báo đen là quái vật chuyển chức lần 3 chuyên về Ẩn Thân nên chỉ số phòng thủ và sức mạnh sẽ bị giảm bớt, IlHan tự tin có thể khắc chế nó bằng bản năng ẩn thân thượng thừa và quyết định ra tay dọn dẹp hậu quả để ngăn chặn thảm sát.
 Cảnh kết thúc: Yu IlHan gác lại lòng tự trọng của nam nhi, bước vào bốt điện thoại công cộng bấm số của Empress (Kang MiRae) ghi trên danh thiếp, bắt đầu kế hoạch hợp tác săn quái vật chuyển chức lần 3.
 
+## 25
+Yu IlHan gọi điện cho Kang MiRae cảnh báo về quái vật Ẩn Thân chuyển chức lần 3 tại Jongno; MiRae đồng ý phối hợp săn quái và liên hệ chính phủ/quân đội chuẩn bị hỗ trợ.
+Trở về xưởng, IlHan tận dụng toàn bộ xương, da và viên ma thạch của Báo Khổng Lồ để chế tác vũ khí chuyên dụng gồm 6 cọc trụ xương có gai, 6 ngọn lao săn có ngạnh và 6 sợi dây thừng bện từ da báo dài hàng chục mét.
+Kỹ năng Chế Tác Mana thăng lên Cấp 12 khi IlHan hoàn thành bộ tạo tác 'Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn' (Phẩm cấp Độc Nhất, Sức tấn công 1.050, tăng 20% tỷ lệ/sát thương chí mạng và 20% lực trói buộc).
+Cảnh kết thúc: IlHan hẹn gặp MiRae tại hiện trường, dặn cô chờ đợi để anh phá vỡ khả năng Ẩn Thân của quái thú; anh cảm thấy ấm lòng khi được người khác tin tưởng thừa nhận, vác bộ lao săn nặng trịch tăng tốc lao nhanh về phía trận chiến.
+
 

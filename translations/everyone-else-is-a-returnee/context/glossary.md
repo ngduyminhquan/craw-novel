@@ -152,3 +152,7 @@
 | Instakill |  | Nhất Kích Tất Sát / Nhất kích tất sát | hệ thống | 24 | Giết chết mục tiêu chỉ bằng một đòn duy nhất |
 | Mount Baekdu | Baekdu | Núi Baekdu | địa danh | 24 | Ngọn núi cao nhất trên bán đảo Triều Tiên (Bạch Đầu Sơn) |
 | Mount Everest |  | Núi Everest | địa danh | 24 | Đỉnh núi cao nhất thế giới |
+| Violent |  | Hung Bạo | hệ thống | 25 | Tiền tố dòng thuộc tính alpha/beta bậc cao tăng chí mạng và sát thương |
+| Cruel |  | Tàn Nhẫn | hệ thống | 25 | Tiền tố dòng thuộc tính alpha/beta bậc cao tăng lực trói buộc |
+| Violent Cruel Leopard Hunter's Harpoon |  | Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn | vật phẩm | 25 | Bộ tạo tác săn bắt gồm 6 cọc xương, 6 lao ngạnh và 6 dây da báo do IlHan chế tạo |
+| Harpoon |  | Lao săn / Cây lao | vật phẩm | 25 | Ngọn lao có ngạnh dùng để đâm và kéo giữ mục tiêu |
