@@ -35,7 +35,8 @@ def scan_raw(raw_dir):
             "idx": int(m.group(1)),
             "story": story.group(1) if story else "",
             "file": p.name,
-            "title": STORY_NO_RE.sub("", m.group(2)).strip().replace("|", "/"),
+            # bỏ ký tự định dạng ẩn (soft hyphen U+00AD, zero-width...) lẫn trong tên file raw
+            "title": re.sub(r"[­​-‏﻿]", "", STORY_NO_RE.sub("", m.group(2))).strip().replace("|", "/"),
             "norm": norm_title(m.group(2)),
         })
     chapters.sort(key=lambda c: c["idx"])

@@ -10,12 +10,14 @@ TRANSLATIONS = ROOT / "translations"
 
 RAW_NAME_RE = re.compile(r"^Chapter_(\d+)\s*-\s*(.+)\.txt$")
 STORY_NO_RE = re.compile(r"^Chapter\s+(\d+)_?\s*", re.IGNORECASE)
-TN_RE = re.compile(r"\b(T/N|TL\s*note|Translator[’']?s?\s*note|TL:|Editor[’']?s?\s*note|ED:|PR:)", re.IGNORECASE)
-_NOTE_KW = r"(?:T/N|TL\s*note|TL|Translator[’']?s?\s*note|Editor[’']?s?\s*note|ED|PR)"
+TN_RE = re.compile(r"\b(T/N|E/N|TL\s*note|Translator[’']?s?\s*note|TL:|Editor[’']?s?\s*note|ED:|PR:)", re.IGNORECASE)
+# Từ viết tắt ngắn chỉ là ghi chú khi có dấu ':' ngay sau, để "[Probably.]" hay "[Ed is here]" không bị coi là ghi chú.
+_NOTE_LONG = r"(?:(?:TL|Translator[’']?s?|Editor[’']?s?|Author[’']?s?)\s*note)"
+_NOTE_KW = rf"(?:(?:T/N|E/N|TL|ED|PR)\s*:|{_NOTE_LONG}\b\s*:?)"
 # Ghi chú kẹp trong câu: "I can fly!" (T/N: Said in English)
-INLINE_NOTE_RE = re.compile(rf"\s*[(\[]\s*{_NOTE_KW}\s*[:.\-]?[^)\]]*[)\]]", re.IGNORECASE)
+INLINE_NOTE_RE = re.compile(rf"\s*[(\[]\s*{_NOTE_KW}[^)\]]*[)\]]", re.IGNORECASE)
 # Dòng chỉ có tiêu đề ghi chú ("Editors Note.") — từ đây đến hết file là lời nhắn của translator/editor
-NOTE_HEADER_RE = re.compile(rf"^{_NOTE_KW}\s*[:.]?\s*$", re.IGNORECASE)
+NOTE_HEADER_RE = re.compile(rf"^(?:T/N|E/N|{_NOTE_LONG})\s*[:.]?\s*$", re.IGNORECASE)
 SEPARATOR_RE = re.compile(r"^[=\-_*~]{3,}$")
 
 STATUSES = ("todo", "done", "reviewed", "skip")

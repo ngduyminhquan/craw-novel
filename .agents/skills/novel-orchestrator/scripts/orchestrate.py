@@ -7,6 +7,7 @@
     python orchestrate.py <slug> verify <range> [--status done|reviewed|translated]
     python orchestrate.py <slug> questions
     python orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>" [--new]
+    python orchestrate.py <slug> resolve --args-file <file> [--new]   # khi chuỗi có dấu "
 """
 import argparse
 import re
@@ -26,6 +27,8 @@ BRIEFS = Path(__file__).resolve().parents[1] / "briefs"
 TASKS = ROOT / ".herdr" / "tasks"
 OPEN_HEADER = "## Cần user xác nhận"
 DONE_HEADER = "## Đã quyết"
+# Dòng kết thúc bằng tên người quyết, vd "(orchestrator)", "(user)", là đã quyết dù không có "→"
+DECIDER_RE = re.compile(r"\((orchestrator|user)[^)]*\)\s*$", re.IGNORECASE)
 
 
 def fmt_range(idxs):
@@ -56,12 +59,27 @@ def _section(lines, header):
     return start, end
 
 
+def _is_question(line):
+    return line.lstrip().startswith("- ")
+
+
+def _open_indices(lines):
+    """Vị trí các câu hỏi mở: mọi dòng '- ' trong "Cần user xác nhận", cộng các dòng '- ' chưa có
+    '→' trong "Đã quyết" (panel lỡ ghi câu hỏi mới xuống cuối file)."""
+    out = []
+    start, end = _section(lines, OPEN_HEADER)
+    if start is not None:
+        out += [i for i in range(start + 1, end) if _is_question(lines[i])]
+    d_start, d_end = _section(lines, DONE_HEADER)
+    if d_start is not None:
+        out += [i for i in range(d_start + 1, d_end)
+                if _is_question(lines[i]) and "→" not in lines[i] and not DECIDER_RE.search(lines[i])]
+    return out
+
+
 def open_questions(novel):
     lines = read_text(progress_path(novel)).splitlines()
-    start, end = _section(lines, OPEN_HEADER)
-    if start is None:
-        return []
-    return [l for l in lines[start + 1:end] if l.lstrip().startswith("- ")]
+    return [lines[i] for i in _open_indices(lines)]
 
 
 def resolve(novel, needle, decision, new=False):
@@ -72,10 +90,7 @@ def resolve(novel, needle, decision, new=False):
     if new:
         item = needle if needle.lstrip().startswith("- ") else f"- {needle}"
     else:
-        start, end = _section(lines, OPEN_HEADER)
-        if start is None:
-            die(f"progress.md không có mục '{OPEN_HEADER}'")
-        hits = [i for i in range(start + 1, end) if lines[i].lstrip().startswith("- ") and needle in lines[i]]
+        hits = [i for i in _open_indices(lines) if needle in lines[i]]
         if len(hits) != 1:
             die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}. "
                 "Câu hỏi chỉ có trong báo cáo panel thì dùng --new")
@@ -209,8 +224,9 @@ def main():
                    help="translated = done hoặc reviewed")
     sub.add_parser("questions")
     p = sub.add_parser("resolve")
-    p.add_argument("needle")
-    p.add_argument("decision")
+    p.add_argument("needle", nargs="?")
+    p.add_argument("decision", nargs="?")
+    p.add_argument("--args-file", help="file UTF-8: dòng 1 là câu hỏi, các dòng sau là quyết định")
     p.add_argument("--new", action="store_true", help="câu hỏi chỉ có trong báo cáo panel, ghi thẳng vào 'Đã quyết'")
     args = ap.parse_args()
 
@@ -224,7 +240,16 @@ def main():
         qs = open_questions(load_novel(args.slug))
         print("\n".join(qs) if qs else "(không có câu hỏi mở)")
     elif args.cmd == "resolve":
-        resolve(load_novel(args.slug), args.needle, args.decision, args.new)
+        needle, decision = args.needle, args.decision
+        if args.args_file:
+            # PowerShell 5.1 làm hỏng dấu " trong tham số: đọc từ file (dòng 1 = câu hỏi, phần còn lại = quyết định)
+            lines = read_text(args.args_file).strip().splitlines()
+            if len(lines) < 2:
+                die("--args-file cần ít nhất 2 dòng: câu hỏi, rồi quyết định")
+            needle, decision = lines[0].strip(), " ".join(l.strip() for l in lines[1:])
+        if not (needle and decision):
+            die("resolve cần <câu hỏi> <quyết định> hoặc --args-file")
+        resolve(load_novel(args.slug), needle, decision, args.new)
 
 
 if __name__ == "__main__":

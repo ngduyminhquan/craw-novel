@@ -43,7 +43,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | reviewed |  |
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | reviewed |  |
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | reviewed |  |
-| 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | reviewed |  |
+| 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | I Also Do 2nd Job Advancement (1) | reviewed |  |
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | reviewed |  |
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | reviewed |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | reviewed |  |

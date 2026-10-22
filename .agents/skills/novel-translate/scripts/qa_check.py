@@ -10,7 +10,7 @@ import argparse
 import re
 import sys
 
-from common import (TN_RE, contains_term, raw_paragraphs, entries, get_row, is_placeholder, load_novel, load_progress,
+from common import (TN_RE, contains_term, raw_paragraphs, term_regex, entries, get_row, is_placeholder, load_novel, load_progress,
                     parse_range, raw_file, read_text, utf8_stdout, vi_file)
 
 # Từ tiếng Anh không trùng với âm tiết tiếng Việt không dấu.
@@ -70,9 +70,17 @@ def check(novel, row):
         warns.append("lẫn ngoặc kép thẳng \" và cong “ ” — thống nhất theo rules.md")
 
     ctx = novel["context"]
-    for e in entries(ctx / "glossary.md") + entries(ctx / "characters.md"):
+    # Xét thuật ngữ dài trước và che phần đã khớp, để "God of Concealment" không bị tính là "God",
+    # "Status points" không bị tính là "Status".
+    all_entries = entries(ctx / "glossary.md") + entries(ctx / "characters.md")
+    all_entries.sort(key=lambda e: -max(len(t) for t in [e["en"], *e["aliases"]]))
+    masked = raw_text
+    for e in all_entries:
         terms = [e["en"], *e["aliases"]]
-        if not any(contains_term(raw_text, t) for t in terms):
+        present = any(contains_term(masked, t) for t in terms)
+        for t in terms:
+            masked = term_regex(t, case_sensitive=t != t.lower()).sub(lambda m: " " * len(m.group(0)), masked)
+        if not present:
             continue
         if is_placeholder(e["vi"]):
             warns.append(f"'{e['en']}' có trong raw nhưng chưa có bản dịch trong context")
