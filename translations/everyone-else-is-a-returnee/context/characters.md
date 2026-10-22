@@ -66,6 +66,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 40: Đạt cấp độ 49 (chạm trần cấp 50 chờ chuyển chức lần 2); thăng cấp Kháng Độc Cực Hạn lên Lv 2; học được kỹ năng Nấu Nướng sau 2 ngày chế biến thịt troll; hoàn thành đủ điều kiện nguyên liệu tiến hóa kỹ năng Nghỉ Ngơi (500 tim quái vật đang ngủ và 500L máu troll); lựa chọn chức nghiệp Độc Nhất "Tử Thần Tập Sự" và nhận nhiệm vụ chuyển chức lần 2 (tập kích diệt quái chuyển chức 2 trong 1 đòn 0/100, tập kích diệt quái chuyển chức 3 trong 1 đòn 0/1).
 - Trạng thái tính đến chương 41: Quyết định tạm gác việc tiến hóa kỹ năng Nghỉ Ngơi để hy sinh ma thạch chuyển chức lần 3 cải tạo Súng Bắn Cọc và đại khải; nâng kỹ năng Chí Mạng lên Lv 9 sau khi nhất kích tất sát Bọ Cạp Cát Khổng Lồ Lv 78; phát hiện hiệu ứng Ẩn Thân bị động không bị mất khi ra đòn quá nhanh từ góc khuất; danh tính chiến đấu tại Hiện Tượng Tràn Los Angeles bị lộ trên Facebook với biệt danh 'Hiệp Sĩ Bóng Đêm LA'.
 - Trạng thái tính đến chương 42: Dùng Chế Tác Mana kết hợp viên ma thạch chuyển chức lần 3 của Báo Bóng Tối nâng cấp bộ đại khải thành công thành 'Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi' (Phẩm cấp Truyền Thuyết, Phòng thủ 5.300, tăng 40% phòng thủ, tăng 50% sức tấn công khi tấn công bất ngờ); từ chối lập tổ đội với Na YuNa và nhận danh thiếp từ Kang HaJin/Na YuNa (trùng công ty với Kang MiRae); chuẩn bị cải tiến Súng Bắn Cọc bằng Dây Thun Khổng Lồ và 3 viên ma thạch chuyển chức 2 theo nguyên lý vũ khí tối thượng cận kề cái chết.
+- Trạng thái tính đến chương 43: Bám theo nhóm Kang HaJin và Na YuNa; dùng kỹ năng Xạ Kích phóng xiên Thiết Tâm từ xa để duy trì Ẩn Thân và nhất kích tất sát các bọ cạp bám theo; nhường Bọ Cạp Tử Thần Khổng Lồ cho nhóm HaJin; chuẩn bị Súng Bắn Cọc Tất Sát Cuồng Thiên (nạp tầng 5, sức tấn công 6.200, độ bền 1/1) và kích hoạt kỹ năng Quái Lực bật nhảy tập kích giáng đòn vào đầu troll khổng lồ mang chùy kim loại.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -122,6 +123,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Điềm tĩnh, nhắc nhở đồng đội giữ bình tĩnh giữa chiến trường hỗn loạn.
 - Trạng thái tính đến chương 39: Cùng Na YuNa tiến vào hầm ngục Grand Canyon để hỗ trợ thu thập nọc bọ cạp rồi nhanh chóng quay về Hàn Quốc.
 - Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ truy đuổi chạy thục mạng cùng Na YuNa; nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA'.
+- Trạng thái tính đến chương 43: Cùng Na YuNa tìm săn Bọ Cạp Tử Thần Khổng Lồ lấy nọc độc; nhận bùa lợi tăng sức mạnh từ Na YuNa xông lên chặn đánh bọ cạp thì bất ngờ bị quái vật troll khổng lồ vung chùy kim loại tập kích.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -130,6 +132,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 38: Tiết lộ thân phận là nữ tư tế được Nữ Thần Sắc Đẹp ban phước, có thiên thần Feyta làm người bảo hộ; cùng HaJin lên máy bay tới bang Arizona.
 - Trạng thái tính đến chương 39: Cùng HaJin và thiên thần Feyta tiến vào hầm ngục Grand Canyon để săn Bọ Cạp Cát lấy nọc độc mang về Hàn Quốc.
 - Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ kẹp càng lôi đi nhưng được ma pháp phòng ngự bảo hộ; được Yu IlHan cứu thoát; hào hứng nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA' đang sốt trên mạng xã hội.
+- Trạng thái tính đến chương 43: Ban bùa lợi cho Kang HaJin lao lên nghênh chiến Bọ Cạp Tử Thần Khổng Lồ; hoảng hốt kêu gào khi phát hiện quái vật troll khổng lồ xuất hiện vung chùy toan đập nát cả nhóm.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

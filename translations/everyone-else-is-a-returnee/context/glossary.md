@@ -238,3 +238,8 @@
 | Dark Knight of LA |  | Hiệp Sĩ Bóng Đêm LA | khác | 41 | Biệt danh cư dân mạng và truyền thông đặt cho Yu IlHan sau chiến tích tại sân bay Los Angeles |
 | Chekhov's Gun |  | Khẩu súng của Chekhov | khác | 41 | Nguyên lý sáng tác nổi tiếng của nhà văn Nga Anton Chekhov |
 | Shiveringly Hard Shadow Leopard's Black Full plate Armor | Shiveringly Hard Shadow Leopard's Black Full-plate Armor | Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi | vật phẩm | 42 | Đại Khải Đen sau khi được Yu IlHan cường hóa bằng ma thạch chuyển chức lần 3 của Báo Bóng Tối qua Chế Tác Mana, tăng 40% phòng thủ và 50% sức tấn công khi tập kích |
+| Giant Death Stalker | Giant DeathStalker | Bọ Cạp Tử Thần Khổng Lồ | quái vật | 43 | Quái vật bọ cạp chuyển chức lần 2 tại hầm ngục Grand Canyon |
+| Gestalt collapse |  | Sự sụp đổ Gestalt | khác | 43 | Hiện tượng tâm lý sụp đổ nhận thức khi nhìn hoặc nghe một từ quá nhiều lần |
+| Don Quixote |  | Don Quixote | khác | 43 | Được phép giữ nguyên: Nhân vật văn học hiệp sĩ xứ Mancha đánh cối xay gió |
+| God of Concealment |  | Thần Ẩn Thân | danh hiệu | 43 | Cách Erta trêu chọc việc IlHan có thể trở thành vị thần chuyên về ẩn thân trong tương lai |
+| Mad Heaven's deathblow pile bunker |  | Súng Bắn Cọc Tất Sát Cuồng Thiên | vật phẩm | 43 | Vũ khí Súng Bắn Cọc tự hủy sau 1 phát bắn do Yu IlHan cải tạo, sức tấn công tầng 5 lên tới 6.200 |

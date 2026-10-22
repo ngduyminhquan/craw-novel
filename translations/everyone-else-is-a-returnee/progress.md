@@ -47,7 +47,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | reviewed |  |
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | reviewed |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | reviewed |  |
-| 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | todo |  |
+| 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | done |  |
 | 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | todo |  |
 | 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | todo |  |
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | todo |  |
@@ -512,3 +512,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#42] Tên trang bị sau chế tác mana Shiveringly Hard Shadow Leopard's Black Full plate Armor → Chốt Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi. (orchestrator)
 - [#40-42] Xưng hô giữa Kang HaJin và Na YuNa → Chấp nhận, cập nhật YuNa -> HaJin xưng tôi / em, gọi anh / HaJin trong pronouns.md. (orchestrator)
 - [#41 đoạn 57] Xưng hô của thiên thần Feyta với Na YuNa → Chấp nhận, sửa thành [Bởi thế tôi mới dặn là phải cẩn thận mà!] theo đúng pronouns.md. (orchestrator)
+- [#43] Thuật ngữ tạo tác Mad Heaven's deathblow pile bunker → Chốt Súng Bắn Cọc Tất Sát Cuồng Thiên. (orchestrator)
+- [#43] Thuật ngữ hiện tượng tâm lý Gestalt collapse → Chốt Sự sụp đổ Gestalt. (orchestrator)
+- [#43] Cách diễn đạt câu thoại của Na YuNa (Unless he has ED) → Chốt Trừ khi anh ấy bị bất lực. (orchestrator)

@@ -262,3 +262,10 @@ Yu IlHan giải phẫu Bọ Cạp Cát Khổng Lồ; Na YuNa dùng thần lực 
 Kang HaJin và Na YuNa trao đổi danh thiếp (cùng công ty với Empress Kang MiRae) hứa sẽ báo đáp rồi rời đi; IlHan nhận ra sự trùng hợp nhưng không bận tâm và dự định sẽ bám theo sau họ để tìm săn bọ cạp.
 IlHan dùng viên ma thạch chuyển chức lần 3 của Báo Bóng Tối cùng Chế Tác Mana nâng cấp bộ đại khải thành công thành 'Đại Khải Đen Báo Bóng Tối Cứng Kinh Hãi' (Phẩm cấp Truyền Thuyết, Phòng thủ 5.300, tăng 40% phòng thủ và tăng 50% sức tấn công khi tấn công bất ngờ).
 Cảnh kết thúc: Yu IlHan lấy Súng Bắn Cọc, Dây Thun Khổng Lồ cùng 3 viên ma thạch chuyển chức 2 ra chuẩn bị cải tiến vũ khí, tuyên bố con người hay đồ vật đều đạt sức mạnh tối thượng vào khoảnh khắc cận kề cái chết.
+
+## 43
+Yu IlHan bám theo cặp đôi Kang HaJin và Na YuNa; tận dụng dòng thuộc tính tấn công bất ngờ trên đại khải và kỹ năng Xạ Kích phóng xiên Thiết Tâm từ xa để nhất kích tất sát các bọ cạp bám theo mà vẫn duy trì được hiệu ứng Ẩn Thân.
+Nhóm HaJin chạm trán Bọ Cạp Tử Thần Khổng Lồ để lấy nọc độc; dù IlHan hụt hẫng vì nó chỉ là quái chuyển chức lần 2 chứ không phải chuyển chức 3, anh vẫn nhường lại cho HaJin xông lên nghênh chiến dưới sự hỗ trợ bùa lợi của Na YuNa.
+Một con troll khổng lồ bất ngờ xuất hiện vung chùy kim loại toan đập nát cả nhóm; nhận định đây chính là mục tiêu chuyển chức 3, IlHan rút Súng Bắn Cọc Tất Sát Cuồng Thiên (đã cải tạo nạp tầng 5 tự hủy, sức tấn công 6.200) ra chuẩn bị tác chiến.
+IlHan kích hoạt kỹ năng Quái Lực, đốt cháy toàn bộ năng lượng từ thịt troll đã ăn để tăng 30% chỉ số thể chất rồi dồn lực bật nhảy vút lên không trung như tàu con thoi.
+Cảnh kết thúc: Trong lúc HaJin, YuNa và Bọ Cạp Tử Thần Khổng Lồ đang hoảng loạn thét gào trước chiếc chùy của troll, Yu IlHan lao xuống từ trên đỉnh đầu quái vật và nện thẳng cây Súng Bắn Cọc tự hủy vào sọ nó với tuyên bố đòn tập kích thành công 100%.
