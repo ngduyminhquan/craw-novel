@@ -25,16 +25,24 @@
 | 1st advancement |  | Chuyển chức lần 1 | hệ thống | 6 | Mốc lv 10 |
 | 2nd advancement |  | Chuyển chức lần 2 | hệ thống | 6 | Mốc lv 50 |
 | 3rd advancement |  | Chuyển chức lần 3 | hệ thống | 6 | Mốc lv 100 |
+| 4th advancement |  | Chuyển chức lần 4 | hệ thống | 6 | Mốc lv cao hơn |
 | Sungdaein Bolt | SungDaein Bolt | Sungdaein Bolt | khác | 9 | Biệt danh người ngoài đặt cho IlHan tại ĐH Sungkyunkwan |
 | Low-class monster | Low class monster | Quái vật cấp thấp | khác | 2 | Quái vật thông thường, có thể tiêu diệt bằng vũ khí thông thường |
+| Mid-class monster | Mid class monster | Quái vật trung cấp | khác | 6 | Quái vật cấp độ trung bình |
 | High-class monster | High class monster | Quái vật cấp cao | khác | 2 | Quái vật cấu thành từ hệ thống năng lượng bậc cao, cần mana để tiêu diệt |
 | Boston Public Library |  | Thư viện Công cộng Boston | địa danh | 3 | Thư viện lớn ở Mỹ nơi IlHan hoàn thành việc đọc toàn bộ sách |
 | Russian Academy of Sciences | Russian Academy of sciences | Viện Hàn lâm Khoa học Nga | tổ chức | 3 | Nơi có 7,5 triệu đầu sách IlHan đã đọc qua |
+| Ya-umin |  | Ya-umin | địa danh | 6 | Thế giới khác nơi mẹ IlHan chuyển sinh đến |
+| Heishia |  | Heishia | địa danh | 6 | Thế giới khác nơi cha IlHan chuyển sinh đến |
 | Mo Palmo |  | Mo Palmo | khác | 4 | Thợ rèn huyền thoại trong truyền thuyết Jumong |
 | Strength |  | Sức mạnh | hệ thống | 5 | Chỉ số cơ bản |
 | Agility |  | Nhanh nhẹn | hệ thống | 5 | Chỉ số cơ bản |
 | Health |  | Thể lực | hệ thống | 5 | Chỉ số cơ bản |
 | Magic |  | Ma pháp | hệ thống | 5 | Chỉ số cơ bản |
+| Attack Power |  | Sức tấn công | hệ thống | 6 | Chỉ số tấn công của trang bị/nhân vật |
+| Durability |  | Độ bền | hệ thống | 6 | Chỉ số độ bền của trang bị |
+| Rank |  | Phẩm cấp | hệ thống | 6 | Cấp bậc trang bị/kỹ năng |
+| Unique |  | Độc Nhất | hệ thống | 6 | Phẩm cấp trang bị/vật phẩm |
 | Jobless |  | Vô Nghề | chức nghiệp | 5 | Trạng thái chưa có chức nghiệp |
 | Active skill | Active Skills | Kỹ năng chủ động | hệ thống | 5 | Kỹ năng cần kích hoạt |
 | Passive skill | Passive Skills | Kỹ năng bị động | hệ thống | 5 | Kỹ năng tự động có hiệu lực |

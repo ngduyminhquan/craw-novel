@@ -10,7 +10,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 3 |  | Chapter_003 - I Live Alone (2).txt | I Live Alone (2) | reviewed |  |
 | 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | done |  |
 | 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | done |  |
-| 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | todo |  |
+| 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | done |  |
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | todo |  |
 | 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | todo |  |
 | 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | todo |  |
@@ -382,3 +382,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#1] Đoạn 1 câu phủ định kép raw EN → Viết lại thoát ý thành "Anh không muốn ai nhận ra mình là một kẻ ngoài cuộc lủi thủi một mình..." (orchestrator)
 - [#2] Đoạn 77 câu hét xuất chiêu của Yu IlHan → Giữ nguyên "của ta đây" để giữ nét hài chuunibyou (orchestrator)
 - [#4] Từ "disappointment" ở đoạn 84 (raw line 170: "Lita observed that and she couldn't hide her disappointment...") mâu thuẫn với vế sau ca ngợi IlHan — Tạm chọn: dịch thoát ý thành "sự kinh ngạc thán phục" (nguyên tác tiếng Hàn là 감탄 / thán phục bị bản dịch tiếng Anh dịch nhầm thành disappointment). Phương án khác: dịch sát từ thành "sự thất vọng" (nhưng phá hỏng logic vế sau). → Chấp nhận dịch thoát ý thành 'sự kinh ngạc thán phục' cho khớp ngữ cảnh vế sau (orchestrator)
+- [#6] Dịch phẩm cấp trang bị "Rank – Unique" thành "Phẩm cấp – Độc Nhất". Phương án khác: "Cấp bậc – Độc Nhất", "Xếp hạng – Độc Nhất". Tạm dùng trong bản dịch: "Phẩm cấp – Độc Nhất". → Chốt 'Phẩm cấp – Độc Nhất' (orchestrator)
+- [#6] Đoạn văn ở raw dòng 68 có chứa chú thích dịch giả kẹp giữa câu `Yu IlHan's father, Yu YongHan (T/N: can mean useful) complained...`. Tạm dùng: lược bỏ cụm `(T/N: can mean useful)` và dịch trọn vẹn câu văn câu chuyện thành "Bố của Yu IlHan, Yu YongHan vừa ăn thìa cơm lớn đầu tiên sau 10 năm vừa cằn nhằn. Kim YeSeul cũng đồng tình." để đảm bảo tính toàn vẹn của mạch truyện. → Chấp nhận lược bỏ chú thích T/N kẹp giữa câu và giữ nguyên câu truyện chính (orchestrator)

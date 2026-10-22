@@ -32,3 +32,9 @@ Thế giới đảo ngược thời gian về đúng thời điểm đóng băng
 Sau vài giờ chờ đợi, Trái Đất chính thức mở khóa mana và toàn bộ nhân loại trở về; IlHan nhận ra năng lượng mana tuôn chảy trong huyết quản.
 Tuy nhiên, do sự hiện diện cực thấp mang tầm huyền thoại, không một người trở về nào nhận ra Yu IlHan đang đứng giữa sân trường khiến anh tủi thân lủi thủi đi bộ về nhà.
 Cảnh kết thúc: Trước cửa nhà, Yu IlHan mở bảng chỉ số của Hồ Sơ Akashic và kinh ngạc trước kết quả sau 1000 năm khổ luyện: Danh hiệu "Kẻ Cô Độc Toàn Vũ Trụ", kỹ năng "Ẩn Thân" Lv Max (bị động) cùng các chỉ số thể chất vượt bậc (Sức mạnh 72, Nhanh nhẹn 81, Thể lực 78).
+
+## 6
+Yu IlHan nổi cơn thịnh nộ vì kỹ năng Ẩn Thân bị động và danh hiệu trêu ngươi; anh suy đoán kỹ năng bị động "không thể xác định" là do quá trình khổ luyện diễn ra khi Trái Đất đóng băng trước khi tiếp xúc với Hồ Sơ Akashic.
+Về tới nhà, anh xúc động òa khóc đoàn tụ cùng bố mẹ (Kim YeSeul và Yu YongHan); cả nhà ăn bữa cơm ấm cúng đầu tiên sau 10 năm chia cách trong khi IlHan phải giấu kín sự thật mình bị bỏ lại một mình.
+Trong phòng ngủ, anh kinh ngạc nhận thấy ngọn trường thương thép kiệt tác vẫn còn nguyên vẹn với phẩm cấp Độc Nhất (Sức tấn công 800); sau đó anh lên mạng tra cứu thông tin và đúc kết hệ thống cấp độ chuyển chức (chuyển chức lần 2 ở lv 50, lần 3 ở lv 100).
+Cảnh kết thúc: Trong lúc IlHan lẩm bẩm mong nhớ Lita, nữ thiên thần tí hon tên Erta bất ngờ xuất hiện trên bậu cửa sổ, tự xưng được phái đến để hỗ trợ anh thích ứng với mana.
