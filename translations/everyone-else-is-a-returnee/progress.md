@@ -50,9 +50,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 43 |  | Chapter_043 - I Also Do 2nd Job Advancement (5).txt | I Also Do 2nd Job Advancement (5) | reviewed |  |
 | 44 |  | Chapter_044 - I Also Do 2nd Job Advancement (6).txt | I Also Do 2nd Job Advancement (6) | reviewed |  |
 | 45 |  | Chapter_045 - I Also Do 2nd Job Advancement (7).txt | I Also Do 2nd Job Advancement (7) | reviewed |  |
-| 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | done |  |
-| 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | done |  |
-| 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | done |  |
+| 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | reviewed |  |
+| 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | reviewed |  |
+| 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | reviewed |  |
 | 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | todo |  |
 | 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | todo |  |
 | 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | todo |  |
@@ -530,3 +530,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#48] Khái niệm "Breaker" / "Breakers" — Tạm chọn: "Kẻ Phá Vỡ" (chỉ những cá thể nuốt ma thạch bị mana quái vật chiếm đoạt thể xác, khi chết hóa thành tro đen; khớp với phong cách gọi 'Kẻ Hành Quyết', 'Kẻ Cô Độc'). Phương án khác: "Kẻ Phá Giới", "Phá Giới Giả". Tạm dùng trong bản dịch: "Kẻ Phá Vỡ". → Chốt Kẻ Phá Vỡ. (orchestrator)
 - [#48] Địa danh "Hell Tower" — Tạm chọn: "Tháp Địa Ngục" (nơi Kang HaJin từng chuyển sinh 10 năm). Phương án khác: giữ nguyên "Hell Tower". Tạm dùng trong bản dịch: "Tháp Địa Ngục". → Chốt Tháp Địa Ngục. (orchestrator)
 - [#48] Tên nhân vật "Reta Kar'iha" — Giữ nguyên "Reta Kar'iha" theo quy tắc tên phương Tây / sinh linh dị giới trong rules.md. → Chốt giữ nguyên Reta Kar'iha. (orchestrator)
+- [#47] Lời chửi thề của Yu IlHan ở đoạn 29 (Don't ask me, fucker) → Chốt sửa từ 'Hỏi tao làm đéo gì, thằng chó.' thành 'Hỏi tao làm quái gì, thằng chó.' đúng chuẩn văn phong style.md. (orchestrator)
+- [#47] Cụm từ Executor angels of Heaven's power ở đoạn 1 → Chốt sửa thành 'các thiên thần chấp hành quyền năng của Thiên giới' và cập nhật Executor trong glossary.md thành 'Kẻ Hành Quyết / chấp hành'. (orchestrator)
+- [#48] Thành ngữ tiếng Hàn You really have no blood or tears ở đoạn 45 và tiếng Hup ở đoạn 110 → Chốt sửa đoạn 45 thành '[Cô đúng là đồ máu lạnh mà.]' và đoạn 110 từ 'Hức.' thành 'Hít...' đúng nghĩa tiếng hít sâu kinh ngạc. (orchestrator)

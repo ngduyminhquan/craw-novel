@@ -88,7 +88,7 @@ Sự chật vật của Kang HaJin cùng những đòn tấn công điên cuồn
 
 [Kang HaJin có chết cũng chẳng sao, nhưng cứ đà này thì Na YuNa cũng sẽ chết mất!]
 
-[Cô đúng là đồ không có máu lẫn nước mắt mà.]
+[Cô đúng là đồ máu lạnh mà.]
 
 [Nếu Na YuNa mà chết thì tôi sẽ oán hận cô đấy, Erta!]
 
@@ -218,7 +218,7 @@ Yu IlHan hoàn toàn chẳng có chút tà ý nào. Quái vật mang giới tín
 
 Thế nhưng, ngay khoảnh khắc tiếp theo khi anh chuẩn bị ra tay, thi thể của Reta Kar'iha đang nằm trên mặt đất dường như phát ra ánh sáng mờ nhạt, rồi biến thành một đống tro đen. Nhìn thấy cảnh tượng đó, Yu IlHan chỉ thầm tiếc nuối, thế nhưng Erta, Feyta, Kang HaJin và Na YuNa đều chết sững khi chứng kiến cùng một cảnh tượng.
 
-"Hức."
+"Hít..."
 
 "Tôi đã nghĩ 'không thể nào', nhưng mà..."
 

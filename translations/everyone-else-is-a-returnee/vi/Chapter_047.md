@@ -1,6 +1,6 @@
 # Chương 47: Tôi cũng chuyển chức lần 2 (9)
 
-Càng bay đi xa, Erta càng cảm nhận được sức mạnh ẩn chứa bên trong mình đang dần lụi tàn. Thứ sức mạnh mà chỉ một số ít thực thể cấp cao được chọn mới sở hữu, thứ sức mạnh chỉ được trao cho các thiên thần thuộc Kẻ Hành Quyết của quyền năng Thiên giới.
+Càng bay đi xa, Erta càng cảm nhận được sức mạnh ẩn chứa bên trong mình đang dần lụi tàn. Thứ sức mạnh mà chỉ một số ít thực thể cấp cao được chọn mới sở hữu, thứ sức mạnh chỉ được trao cho các thiên thần chấp hành quyền năng của Thiên giới.
 
 Do sức mạnh vốn đã bị hạn chế khi giáng lâm Trái Đất, một điều khó tin là lúc này Erta thậm chí còn yếu hơn cả Yu IlHan. Nếu không phải như vậy, hẳn cô đã có thể tự bảo vệ bản thân trước hiểm nguy.
 
@@ -56,7 +56,7 @@ Con quái tử thần cũng nhìn anh với vẻ khó tin. Vì toan tính nhanh 
 
 {Tại sao ngươi không ngã xuống?}
 
-"Hỏi tao làm đéo gì, thằng chó."
+"Hỏi tao làm quái gì, thằng chó."
 
 Chửi rủa một câu, Yu IlHan lại vung ngọn thương lên. Như hàng ngàn lần anh đã thực hiện từ trước đến nay, mũi thương xé toạc lớp da thịt bên dưới chiếc mũ trùm vốn đã rách bươm của nó và rút ra những dòng máu tươi. Máu đen bắn tung tóe lên bộ đại khải của anh rồi bốc khói xèo xèo. Bộ giáp thực sự đã cứu mạng anh không biết bao nhiêu lần.
 
@@ -172,7 +172,7 @@ Thế nhưng, câu niệm chú buồn cười ấy lại thổi bay hai lời ng
 
 {Khoaaaaaaa!}
 
-Thánh kỵ sĩ loài người Kang HaJin, người chịu trách nhiệm về thể lực của cả nhóm; và là người vốn chẳng có mấy điều không biết cho đến tận bây giờ, nhưng lại phát hiện ra quá nhiều điều mới mẻ sau khi gặp Yu IlHan, đã đâm sầm vào con quái tử thần.
+Thánh Kỵ Sĩ loài người Kang HaJin, người chịu trách nhiệm về thể lực của cả nhóm; và là người vốn chẳng có mấy điều không biết cho đến tận bây giờ, nhưng lại phát hiện ra quá nhiều điều mới mẻ sau khi gặp Yu IlHan, đã đâm sầm vào con quái tử thần.
 
 Theo lẽ thường, cú húc của cậu thậm chí chẳng gây nổi lấy một đơn vị sát thương, nhưng với chức nghiệp của một Thánh Kỵ Sĩ, cộng thêm lời chúc phúc mạnh mẽ đến mức phi lý của Na YuNa, kết hợp với lượng sát thương đã tích tụ từ trước trên người con quái tử thần đã cùng nhau thổi bay con quái vật ra xa!
 

@@ -24,7 +24,7 @@ Lại là cái thứ ghi chép chết tiệt ấy! Người ngoài nhìn vào kh
 
 Vì đã tận mắt chứng kiến uy lực khủng khiếp từ đòn tấn công của nó nên anh thừa hiểu. Yu IlHan không thể thắng nổi nó về mặt sức mạnh. Điều đó cũng chẳng hề thay đổi ngay cả khi anh kích hoạt kỹ năng Quái Lực.
 
-Thế nhưng, nếu có ai hỏi liệu Yu IlHan có thể đánh bại được nó hay không, anh sẽ cười thẳng vào mặt kẻ đó. Thứ mà Yu IlHan đã tôi luyện suốt một thiên niên kỷ là kỹ nghệ võ thuật của mình, chứ chẳng phải kỹ năng, cấp độ hay sức mạnh cơ bắp.
+Thế nhưng, nếu có ai hỏi phải chăng Yu IlHan không thể đánh bại được nó, anh sẽ cười thẳng vào mặt kẻ đó. Thứ mà Yu IlHan đã tôi luyện suốt một thiên niên kỷ là kỹ nghệ võ thuật của mình, chứ chẳng phải kỹ năng, cấp độ hay sức mạnh cơ bắp.
 
 Giờ khắc này trái lại sẽ trở thành thời điểm thực lực chân chính của anh được phơi bày.
 
@@ -156,7 +156,7 @@ Hoảng hốt, Yu IlHan vội vã chuyển động thân mình. Trong quá trìn
 
 Mình đã quen với đau đớn rồi. Vì đã quen rồi nên sẽ ổn thôi! — Yu IlHan lẩm bẩm như đang tự thôi miên chính mình rồi lùi về sau. Từ miệng vết thương, dòng máu đỏ tươi túa ra và nhuộm đỏ cả một vùng cao nguyên. Điều nghiêm trọng hơn là phần bị thương của anh đang ngày càng chuyển sang màu đen kịt.
 
-[Đến cả Kháng Độc Cực Hạn cũng không thể ngăn... Không, là nguyền rủa. Trong đòn tấn công của nó ẩn chứa sức mạnh nguyền rủa vô cùng đáng sợ!]
+[Đến cả Kháng Độc Cực Hạn cũng không thể ngăn... Không, là Lời Nguyền. Trong đòn tấn công của nó ẩn chứa sức mạnh của một lời nguyền vô cùng đáng sợ!]
 
 "Dù sao thì nếu tôi sống sót, cô cũng sẽ có cách xử lý đúng không?"
 

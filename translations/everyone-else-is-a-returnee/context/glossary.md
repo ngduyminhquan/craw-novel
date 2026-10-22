@@ -71,7 +71,7 @@
 | Dragon heart |  | Trái tim rồng | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
 | Bestowal |  | Ban tặng | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |
 | Direwolf |  | Sói Bạo Tàn | quái vật | 10 | Quái vật sói hoang dã cấp 35 cầm đầu bầy quái |
-| Executor |  | Kẻ Hành Quyết | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái |
+| Executor |  | Kẻ Hành Quyết / chấp hành | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái |
 | Racial correction |  | Hiệu chỉnh chủng tộc | hệ thống | 10 | Hiện tượng ngoại hình trở nên đẹp hơn khi cấp độ tăng cao |
 | Overbalanced |  | Phá vỡ cân bằng | khác | 10 | Thuật ngữ giới nghiên cứu gọi các dị năng giả có sức mạnh áp đảo |
 | Brown Direwolf |  | Sói Bạo Tàn Nâu | quái vật | 11 | Quái vật sói biến dị cấp 35 |
@@ -258,3 +258,5 @@
 | Death Collector |  | Thu Thập Tử Vong | kỹ năng | 48 | Kỹ năng bị động của Tử Thần Tập Sự, thu thập và tích trữ sinh lực của những kẻ bị tiêu diệt |
 | Breaker | Breakers | Kẻ Phá Vỡ | khác | 48 | Những kẻ nuốt ma thạch rồi bị mana quái vật nuốt chửng/thao túng thể xác, khi chết hóa thành tro đen |
 | Hell Tower |  | Tháp Địa Ngục | địa danh | 48 | Thế giới khác nơi Kang HaJin từng chuyển sinh và chiến đấu suốt 10 năm |
+| Michael Jackson |  | Michael Jackson | khác | 48 | Ca sĩ huyền thoại người Mỹ (tham chiếu văn hóa đại chúng) |
+| Moonwalk |  | Moonwalk | khác | 48 | Điệu nhảy trượt lùi kinh điển của Michael Jackson |

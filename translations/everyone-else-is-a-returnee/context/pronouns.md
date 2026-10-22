@@ -23,6 +23,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | HaJin | cậu / HaJin | 36 | Nam dị năng giả người Hàn tại sân bay LA |
 | YuNa | cô / YuNa | 36 | Nữ dị năng giả người Hàn tại sân bay LA |
 | Feyta | cô / Feyta | 38 | Thiên thần hộ mệnh của Na YuNa |
+| Reta Kar'iha | cô / Reta Kar'iha | 48 | Kẻ Phá Vỡ cấp 157 |
 
 ## Giữa các nhân vật
 
@@ -70,3 +71,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Yu IlHan | tôi / em | anh / Hiệp Sĩ Bóng Đêm | 41 | YuNa đối thoại với IlHan |
 | Yu IlHan | HaJin | tôi | cậu | 41 | IlHan đối thoại với HaJin |
 | HaJin | Yu IlHan | tôi | anh | 41 | HaJin đối thoại với IlHan |
+| Reta Kar'iha | Yu IlHan | tôi | cậu / anh | 48 | Lời cảm ơn trước khi tan biến |
