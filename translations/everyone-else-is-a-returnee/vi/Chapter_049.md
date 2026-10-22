@@ -64,11 +64,11 @@ Dù sao việc của anh ở đây cũng đã giải quyết xong xuôi. Tách n
 
 "Tôi bận rồi."
 
-"Ưư, hôm nay mình cứ bị từ chối suốt thế này.
+"Ưư, hôm nay mình cứ bị từ chối suốt thế này."
 
 Trong khi đó, Na YuNa dường như chẳng hề thấy mệt mỏi chút nào, miệng cô liến thoắng không ngừng. Nếu tỏ ra trẻ con là bí quyết giữ gìn nhan sắc của cô, thì anh cũng chẳng có hứng thú học theo chút nào.
 
-Thế nhưng, anh cũng không thấy ghét việc cô thỉnh thoảng lại ré lên 'khặc khặc', nên Yu IlHan nhìn cảnh tượng đó với một nụ cười thoáng nở. Kèm theo suy nghĩ rằng nếu cô cứ mải liến thoắng ồn ào như thế, khéo lại để mất dấu hình bóng của Yu IlHan cho xem.
+Thế nhưng, anh cũng không thấy ghét việc cô thỉnh thoảng lại ré lên 'chí chóe', nên Yu IlHan nhìn cảnh tượng đó với một nụ cười thoáng nở. Kèm theo suy nghĩ rằng nếu cô cứ mải liến thoắng ồn ào như thế, khéo lại để mất dấu hình bóng của Yu IlHan cho xem.
 
 "Cơ mà anh tên là gìii thế?"
 
@@ -80,7 +80,7 @@ Yu IlHan trở nên hơi căng thẳng. Chẳng rõ là có biết điều đó 
 
 "Lúc trước em có hỏi Feyta, nhưng cô ấy bảo nếu nói ra thì sẽ chết mất."
 
-[Ta tuyệt đối không muốn phải nếm đòn bẻ khớp rắn hổ mang phiên bản thiên thần đâu!]
+[Tôi tuyệt đối không muốn phải nếm Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần đâu!]
 
 "Tôi nghĩ cái đó đã vượt quá cái mức chỉ cần gắn thêm chữ 'thiên thần' vào đằng trước rồi đấy..."
 
@@ -128,7 +128,7 @@ Một nữ thiên thần khoác bộ chiến giáp ánh sáng đứng ở phía 
 
 Từ cách ăn nói cung kính của Erta, có vẻ như thiên thần kia giữ chức vị cao hơn cô. Yu IlHan quay sang nhìn Feyta, thắc mắc sao họ không gọi cô dù cô cũng phải trải qua biến cố tương tự, và cô nàng đáp lại bằng giọng lí nhí.
 
-[Vì em chỉ là lính mới thôi.] (Feyta)
+[Vì tôi chỉ là lính mới thôi.] (Feyta)
 
 [Trật tự.] (thiên thần thiết giáp)
 
@@ -170,7 +170,7 @@ Trong lúc anh lặng lẽ ngắm nhìn lối vào hầm ngục, một giọng n
 
 Khi anh ngoảnh lại, kinh ngạc thay, anh thấy nữ thiên thần thiết giáp, người vốn giữ vẻ mặt nghiêm nghị suốt từ nãy đến giờ, đang khẽ mỉm cười với khóe môi hơi nhếch lên.
 
-[Lita thực sự có vẻ rất muốn gặp lại cậu đấy. Từ trước đến giờ phải chịu đựng tính khí cuồng loạn của cô ấy đúng là khổ sở khôn xiết.]
+[Lita thực sự có vẻ rất muốn gặp lại cậu đấy. Từ trước đến giờ phải chịu đựng cơn bồn chồn làm loạn của cô ấy đúng là khổ sở khôn xiết.]
 
 "Vậy sao."
 

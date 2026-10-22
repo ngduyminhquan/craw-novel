@@ -273,3 +273,5 @@
 | Secretive Reaper's Fallen Robe |  | Áo Choàng Đọa Lạc Tử Thần Kín Đáo | vật phẩm | 51 | Áo choàng di vật của Reta Kar'iha, mang dòng thuộc tính Kín Đáo tăng 20% khả năng ẩn thân và 20% sức tấn công khi tập kích |
 | Fatal and Sharp Reaper's Scythe |  | Lưỡi Hái Tử Thần Sắc Bén Chí Mạng | vật phẩm | 51 | Lưỡi hái di vật của Reta Kar'iha chế tác từ kim loại thế giới lụi tàn, tăng 40% tỷ lệ và sát thương chí mạng |
 | Extermination Spiked Spear |  | Thương Gai Tuyệt Diệt | vật phẩm | 51 | Vũ khí phẩm cấp Truyền Thuyết được Yu IlHan rèn từ kim loại nung chảy của Lưỡi Hái Tử Thần, tăng 70% sát thương chí mạng |
+| Angel Cobra Twist | angel cobra twist | Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần / đòn bẻ khớp rắn hổ mang phiên bản thiên thần | khác | 49 | Đòn đấu vật hài hước Erta dùng để răn đe Feyta |
+| Incheon Airport | Incheon airport | Sân bay Incheon | địa danh | 50 | Sân bay quốc tế Incheon tại Hàn Quốc |

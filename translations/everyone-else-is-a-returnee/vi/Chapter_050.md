@@ -4,7 +4,7 @@ Na YuNa và Kang HaJin vừa đặt chân tới sân bay Incheon đã lập tứ
 
 "Xin mời hai vị đi lối này."
 
-Người đàn ông từng có dịp kề vai sát cánh chiến đấu với Yu IlHan chống lại báo bóng tối, Fred, ra đón họ. Hai người đường hoàng đón nhận những ánh nhìn ngưỡng mộ xung quanh rồi theo sự hướng dẫn của Fred rời khỏi nhà ga. Cánh cửa chiếc xe limousine đang đợi sẵn vừa mở ra, một câu chất vấn đã lập tức ập tới.
+Người đàn ông từng có dịp kề vai sát cánh chiến đấu với Yu IlHan chống lại Báo Bóng Tối, Fred, ra đón họ. Hai người đường hoàng đón nhận những ánh nhìn ngưỡng mộ xung quanh rồi theo sự hướng dẫn của Fred rời khỏi nhà ga. Cánh cửa chiếc xe limousine đang đợi sẵn vừa mở ra, một câu chất vấn đã lập tức ập tới.
 
 "Lấy được chưa?"
 
@@ -64,7 +64,7 @@ Dẫu vậy, dù miệng buông lời chê phiền phức nhưng Kang MiRae khô
 
 "Dù sao thì sau chuyện đó, tớ bắt đầu thấy tò mò về anh ấy ghê gớm. Ấy thế mà tớ xin số điện thoại, anh ấy nhất quyết chẳng chịu cho tới tận phút cuối cùng luônnn!"
 
-"Không cho cơ à, phù."
+"Không cho cơ à, phì."
 
 "Đúng thế đấy. ...MiRae, chẳng phải cậu vừa cười nhạo tớ đấy à?"
 
@@ -246,7 +246,7 @@ Hội trường lập tức trở nên náo loạn trong chớp mắt. Feyta cu�
 
 Lita bùng nổ gào thét.
 
-[Thằng bé là một đứa trẻ ngoan mà!] (Lita)
+[Cậu ấy là một đứa trẻ ngoan mà!] (Lita)
 
 [Đã có các thiên thần luôn túc trực bên cạnh Yu IlHan trong suốt thời gian qua. Không có bất kỳ kẽ hở nào để nghi ngờ cả. Điều chúng ta nên trao cho cậu ấy là phần thưởng, chứ không phải sự ngờ vực.] (Chủ tọa)
 
@@ -310,7 +310,7 @@ Lắng nghe cuộc trò chuyện giữa một thiên thần tội nghiệp Lita 
 
 [Dưới thẩm quyền của ta, Myuta, ta hứa sẽ ban cho cậu ấy những phần thưởng hậu hĩnh nhất. Lita, ta sẽ chấp nhận sự bướng bỉnh này của cô.]
 
-[Myuta, thật sao? Cảm ơn ngài nhiều lắm!]
+[Myuta, thật sao? Cảm ơn nhiều lắm!]
 
 [Ngài Myuta, tại sao vậy ạ?]
 

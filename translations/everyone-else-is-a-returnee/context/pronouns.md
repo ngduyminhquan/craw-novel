@@ -76,8 +76,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Reta Kar'iha | Yu IlHan | tôi | cậu / anh | 48 | Lời cảm ơn trước khi tan biến |
 | Kang MiRae | YuNa | tớ / tôi | cậu / YuNa | 50 | Bạn thân từ thuở nhỏ |
 | YuNa | Kang MiRae | tớ / em | cậu / MiRae | 50 | Bạn thân từ thuở nhỏ |
-| HaJin | Kang MiRae | tôi / anh | cô / MiRae | 50 | Bạn đồng hành cùng nhóm |
-| Kang MiRae | HaJin | tôi / em | anh / HaJin | 50 | Bạn đồng hành cùng nhóm |
+| HaJin | Kang MiRae | tớ / tôi | cậu / MiRae | 50 | Bạn nối khố từ thuở nhỏ |
+| Kang MiRae | HaJin | tớ / tôi | cậu / HaJin | 50 | Bạn nối khố từ thuở nhỏ |
 | Myuta | Lita | ta / tôi | Lita | 50 | Chủ tọa hội nghị nói với Lita |
 | Lita | Myuta | tôi | Myuta | 50 | Lita nói với Myuta |
 | Myuta | Erta | ta / tôi | Erta | 50 | Chủ tọa hội nghị nói với Erta |

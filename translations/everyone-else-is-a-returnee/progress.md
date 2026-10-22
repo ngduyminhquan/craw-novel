@@ -53,9 +53,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 46 |  | Chapter_046 - I Also Do 2nd Job Advancement (8).txt | I Also Do 2nd Job Advancement (8) | reviewed |  |
 | 47 |  | Chapter_047 - I Also Do 2nd Job Advancement (9).txt | I Also Do 2nd Job Advancement (9) | reviewed |  |
 | 48 |  | Chapter_048 - I Also Do 2nd Job Advancement (10).txt | I Also Do 2nd Job Advancement (10) | reviewed |  |
-| 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | done |  |
-| 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | done |  |
-| 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | done |  |
+| 49 |  | Chapter_049 - A Partner Only for Me (1).txt | A Partner Only for Me (1) | reviewed |  |
+| 50 |  | Chapter_050 - A Partner Only for Me (2).txt | A Partner Only for Me (2) | reviewed |  |
+| 51 |  | Chapter_051 - A Partner Only for Me (3).txt | A Partner Only for Me (3) | reviewed |  |
 | 52 |  | Chapter_052 - A Partner Only for Me (4).txt | A Partner Only for Me (4) | todo |  |
 | 53 |  | Chapter_053 - A Partner Only for Me (5).txt | A Partner Only for Me (5) | todo |  |
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | todo |  |
@@ -539,3 +539,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#50] Xưng hô giữa Kang MiRae, Na YuNa, Kang HaJin và thiên thần Myuta → Chốt Kang MiRae <-> Na YuNa xưng tớ - cậu (bạn thân); Kang MiRae <-> Kang HaJin xưng tôi/em - anh/HaJin; Myuta gọi Lita, Erta trống không và xưng ta/tôi, Erta gọi ngài Myuta / Myuta-nim. (orchestrator)
 - [#51] Tên vũ khí phóng lao cổ đại Atlatl và Rough Moonlight Bone Atlatl → Chốt giữ nguyên 'Atlatl' và dịch 'Atlatl Xương Nguyệt Quang Thô Ráp' (vừa giữ nguyên thuật ngữ khảo cổ quen thuộc vừa khớp lời giải thích ngay trong truyện). (orchestrator)
 - [#51] Tên vũ khí cấp Truyền Thuyết Extermination Spiked Spear và các di vật của Reta Kar'iha → Chốt 'Thương Gai Tuyệt Diệt' (Extermination Spiked Spear), 'Lưỡi Hái Tử Thần Sắc Bén Chí Mạng' (Fatal and Sharp Reaper's Scythe), 'Áo Choàng Đọa Lạc Tử Thần Kín Đáo' (Secretive Reaper's Fallen Robe), và 'Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi' (Frighteningly Destructive Metal Pile Bunker). (orchestrator)
+- [#50] Xưng hô giữa Kang HaJin và Kang MiRae trong pronouns.md → Chốt cập nhật thành bạn nối khố từ nhỏ xưng tớ/tôi - gọi cậu/MiRae và cậu/HaJin cho khớp thực tế hội thoại ở chương 50. (orchestrator)
+- [#49] Tiếng kêu của Na YuNa ở đoạn 35 (kyak kyak) và xưng hô của Feyta ở đoạn 41, 65 → Chốt sửa 'khặc khặc' thành 'chí chóe', sửa Feyta xưng 'tôi' nhất quán và đồng bộ 'Đòn Bẻ Khớp Rắn Hổ Mang Thiên Thần'. (orchestrator)
+- [#50] Tiếng cười bật ra của Kang MiRae ở đoạn 33 (fu) → Chốt sửa từ 'Không cho cơ à, phù.' thành 'Không cho cơ à, phì.' để khớp với câu vặn hỏi cười nhạo của Na YuNa ở đoạn 34. (orchestrator)
+- [#50] Cách Lita gọi Yu IlHan ở đoạn 124 và gọi Myuta ở đoạn 156 → Chốt sửa đoạn 124 thành '[Cậu ấy là một đứa trẻ ngoan mà!]' và đoạn 156 thành '[Myuta, thật sao? Cảm ơn nhiều lắm!]' đúng bảng pronouns.md. (orchestrator)

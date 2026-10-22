@@ -26,7 +26,7 @@ Tầng 4: 5.500]
 
 [Thứ vũ khí đáng sợ do thợ rèn vũ khí xuất sắc nhất Trái Đất chế tạo. Nó sở hữu uy lực kinh hoàng cùng lực giật phản hồi còn kinh hoàng hơn, đến mức người sử dụng cần nhiều lòng can đảm hơn cả khi đối đầu với quái vật.]
 
-Dù đã sử dụng Thiết Tâm, nhưng để có thể dùng được lâu dài, anh không thể thiết kế nấc nạp đòn tầng thứ 5. Đó là bởi độ co giãn của Dây Thun Khổng Lồ đã gia tăng tương ứng với độ bền của thân súng. Dĩ nhiên, uy lực của tầng thứ 4 cũng đủ sức khiến người ta kinh hồn bạt vía, thế nên anh chẳng có gì phải phàn nàn.
+Dù đã sử dụng Thiết Tâm, nhưng để có thể dùng được lâu dài, anh không thể thiết kế nấc nạp đòn tầng thứ 5. Đó là bởi lực đàn hồi của Dây Thun Khổng Lồ đã gia tăng tương ứng với độ bền của thân súng. Dĩ nhiên, uy lực của tầng thứ 4 cũng đủ sức khiến người ta kinh hồn bạt vía, thế nên anh chẳng có gì phải phàn nàn.
 
 Ngoài ra, Yu IlHan còn chế tạo vô số vũ khí từ những mảnh xương và giáp xác sắc nhọn cứng cáp. Búa, rìu, đại kiếm, và thậm chí cả lựu đạn làm từ Dây Thun Khổng Lồ.
 
@@ -126,7 +126,7 @@ Yu IlHan lẩm bẩm hết sạch mọi từ ngữ liên quan đến Reta Kar'ih
 
 Luồng hắc khí không đòi hỏi khả năng suy luận sâu xa đến thế. Chỉ cần nhắc đến cái tên Reta Kar'iha cùng năng lực của cô ta là đã đủ để tạo ra biến chuyển rõ rệt cho hắc khí rồi.
 
-"Kẻ cô độc, phụ nữ, tử thần, hừ!"
+"Kẻ cô độc, phụ nữ, tử thần, hê!"
 
 Và rồi khoảnh khắc quyết định đã tới. Dường như không muốn nghe thêm bất kỳ lời nào từ Yu IlHan nữa, hoặc có lẽ đã chịu đựng quá đủ, bóng đen hoàn toàn rời khỏi lưỡi hái tử thần và bay ra khỏi lò rèn.
 
