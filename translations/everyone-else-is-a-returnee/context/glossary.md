@@ -51,3 +51,8 @@
 | Unidentifiable |  | Không thể xác định | hệ thống | 5 | Trạng thái kỹ năng bị động của IlHan do khổ luyện trước khi Akashic Records tiếp xúc Trái Đất |
 | Evolvable |  | Có thể tiến hóa | hệ thống | 5 | Trạng thái kỹ năng có thể thăng cấp khi có nguyên liệu |
 | Skill evolution materials |  | Nguyên liệu tiến hóa kỹ năng | hệ thống | 5 | Vật phẩm cần thiết để tiến hóa kỹ năng |
+| Dungeon | Dungeons | Hầm ngục | hệ thống | 7 | Khu vực bẫy quái vật do Thượng Đế thiết lập |
+| Guundia |  | Guundia | địa danh | 7 | Thế giới khác nơi hạ sĩ Seo từng chuyển sinh |
+| Lanpas |  | Lanpas | địa danh | 7 | Thế giới khác nơi Empress vang danh 10 năm |
+| Sungkyunkwan University | Sungkyunkwan university; Sung U | Đại học Sungkyunkwan | địa danh | 7 | Trường đại học nơi Yu IlHan theo học |
+| Thunder Sword |  | Lôi Kiếm | vật phẩm | 7 | Vũ khí của binh sĩ trở về từ Guundia |

@@ -38,3 +38,9 @@ Yu IlHan nổi cơn thịnh nộ vì kỹ năng Ẩn Thân bị động và danh
 Về tới nhà, anh xúc động òa khóc đoàn tụ cùng bố mẹ (Kim YeSeul và Yu YongHan); cả nhà ăn bữa cơm ấm cúng đầu tiên sau 10 năm chia cách trong khi IlHan phải giấu kín sự thật mình bị bỏ lại một mình.
 Trong phòng ngủ, anh kinh ngạc nhận thấy ngọn trường thương thép kiệt tác vẫn còn nguyên vẹn với phẩm cấp Độc Nhất (Sức tấn công 800); sau đó anh lên mạng tra cứu thông tin và đúc kết hệ thống cấp độ chuyển chức (chuyển chức lần 2 ở lv 50, lần 3 ở lv 100).
 Cảnh kết thúc: Trong lúc IlHan lẩm bẩm mong nhớ Lita, nữ thiên thần tí hon tên Erta bất ngờ xuất hiện trên bậu cửa sổ, tự xưng được phái đến để hỗ trợ anh thích ứng với mana.
+
+## 7
+Erta giải thích việc mình được phái xuống là do Lita nỗ lực đấu tranh đòi quyền lợi cho IlHan; Erta dùng ma pháp ẩn mình và ngự trên đỉnh đầu IlHan để kích hoạt khả năng thích ứng mana của anh trong vòng 1 năm.
+Sáng hôm sau, IlHan đến ĐH Sungkyunkwan trong bối cảnh xã hội xáo trộn; anh thu thập được thông tin về việc con người tự tạo kỹ năng, danh tiếng nhân vật Empress ở Lanpas, cùng sự xuất hiện của các hầm ngục (bẫy quái vật do Thượng Đế thiết lập).
+Trong tiết học tẻ nhạt, Erta khuyên IlHan nên ra ngoài săn quái vật cấp thấp để tích lũy kinh nghiệm mana nhanh hơn, khẳng định thể chất phi thường hiện tại của anh thừa sức hạ quái cấp 25 và cô có thể phát hiện quái vật giúp anh.
+Cảnh kết thúc: Sau khi xem ảnh quái vật trên diễn đàn mạng, IlHan phát hiện cả lớp đang bàng hoàng nhìn qua cửa sổ xuống bãi cỏ trường học, nơi những con quái vật côn trùng khổng lồ cỡ người đang xuất hiện.
