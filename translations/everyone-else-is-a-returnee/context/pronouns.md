@@ -18,6 +18,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
 | Fashta | Fashta | 18 | Thiên thần hỗ trợ Erta |
 | Ahata | Ahata | 18 | Thiên thần hỗ trợ Erta |
+| Fred | Fred | 27 | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae |
 
 ## Giữa các nhân vật
 

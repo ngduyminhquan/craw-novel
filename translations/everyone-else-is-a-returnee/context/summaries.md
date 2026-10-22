@@ -157,5 +157,12 @@ IlHan phóng ngọn lao đầu tiên găm vào đùi quái thú phá vỡ Ẩn T
 Bị quái vật dùng kỹ năng chém gió (lưỡi đao gió) tầm xa tấn công, IlHan né tránh rồi phóng tiếp ngọn lao thứ ba cắm phập vào chân trước của nó, phong ấn đòn chém gió; IlHan đùa cợt ví mình như thợ săn Ishmael trong Moby Dick.
 Cảnh kết thúc: Giữa lúc IlHan chưa biết làm sao gây thêm sát thương khi con quái vật đang giãy giụa điên cuồng, Empress kịp thời xuất hiện trên xe bọc thép tung đòn ma pháp "Song Lôi" cực mạnh làm choáng váng quái thú.
 
+## 27
+Yu IlHan tiếp tục đóng cọc và phóng lao săn găm chặt con báo đen; quái vật rơi vào trạng thái cuồng nộ 'Huyết Cường Hóa' xả đao máu điên cuồng và liên tiếp giật tung các cọc trụ để giải thoát.
+Trong lúc Kang MiRae cần 2 phút tích lũy mana cho đòn tất sát, IlHan mượn súng máy từ người cận vệ Fred và thức tỉnh kỹ năng 'Xạ Kích Lv Max', liên tục xả đạn triệt tiêu độ giật bắn nát mắt trái quái thú để câu giờ.
+Kang MiRae thi triển ma pháp cực mạnh 'Tam Lôi' đánh rơi quái thú; khi con báo bật kỹ năng Ẩn Thân toan bỏ trốn, IlHan nhìn thấu và đóng thẳng cây cọc cuối cùng vào mắt trái nó rồi dùng dây thừng trói nghiến lại, học được kỹ năng 'Trói Buộc'.
+Cảnh kết thúc: IlHan từ từ tiến về phía Kang MiRae đang bàng hoàng run sợ, dứt khoát yêu cầu cô lập tổ đội để chia sẻ điểm kinh nghiệm trước khi hạ sát quái vật thay vì lặp lại sai lầm nhận trọn EXP một mình như lần trước.
+
+
 
 

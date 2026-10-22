@@ -16,6 +16,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yun DaeHan |  | Yun DaeHan | Thiếu tá quân đội Hàn Quốc chỉ huy hiện trường quái vật, nhìn xa trông rộng | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
+| Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
 
 ## Chi tiết
 
@@ -44,6 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 24: Xem xét điều kiện tiến hóa Thương Thuật; phát hiện quái vật báo đen con (được cho là chuyển chức lần 3, chuyên về Ẩn Thân) ra đời tàn sát đám đông tại Jongno; tự tin khắc chế nhờ trình độ ẩn thân thượng thừa và quyết định gọi điện thoại cho Empress (Kang MiRae) đề nghị lập đội hợp tác tiêu diệt quái vật.
 - Trạng thái tính đến chương 25: Nâng cấp Chế Tác Mana lên cấp 12; chế tạo thành công bộ tạo tác săn bắt 'Lao Thợ Săn Báo Hung Bạo Tàn Nhẫn' (Phẩm cấp Độc Nhất, Sức tấn công 1.050, dòng thuộc tính Hung Bạo và Tàn Nhẫn tăng 20% tỷ lệ/sát thương chí mạng và 20% lực trói buộc) từ toàn bộ xương, da và ma thạch của Báo Khổng Lồ; cảm nhận được niềm vui và sự ấm lòng khi được Kang MiRae tin tưởng thừa nhận năng lực.
 - Trạng thái tính đến chương 26: Tận dụng Ẩn Thân che giấu bộ tạo tác để đóng cọc giăng bẫy ngay trước mắt báo đen chuyển chức lần 3; phóng 3 ngọn lao săn trói chân và phong ấn kỹ năng chém gió của quái thú; nhận ra bài học sâu sắc cần chuẩn bị nhiều phương án và vũ khí để đối phó các quái vật sử dụng kỹ năng ma pháp trong tương lai.
+- Trạng thái tính đến chương 27: Thức tỉnh kỹ năng Xạ Kích ở Lv Max, thể hiện tài nghệ súng máy xuất quỷ nhập thần triệt tiêu toàn bộ độ giật; nhìn thấu Ẩn Thân của báo đen và cắm cọc trụ kết liễu đòn tháo chạy; học được kỹ năng Trói Buộc khi trói gô toàn bộ quái thú; chủ động yêu cầu Kang MiRae lập tổ đội chia sẻ kinh nghiệm trước khi kết liễu quái vật.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -65,6 +67,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 21: Tham chiến trên trực thăng tại Jongno; sở hữu kỹ năng bùa lợi ngắn hạn Lôi Linh (+50% công, tốc độ, chí mạng và sát thương sét) nhưng phải tiếp xúc vật lý và cạn kiệt mana sau khi dùng; quả quyết nhảy khỏi trực thăng bám chân IlHan để buff cho anh kết liễu quái thú, tiếc nuối vì quên lập tổ đội nên không nhận được EXP.
 - Trạng thái tính đến chương 22: Thể hiện khả năng tính toán lạnh lùng và công bằng khi phân chia chiến lợi phẩm; thuê IlHan giải phẫu nửa xác báo trả công 40%; tập trung cao độ nhìn thấu kỹ năng Ẩn Thân của IlHan để bám theo xe chở phụ phẩm; chủ động trao danh thiếp để lộ tên thật là Kang MiRae, mời IlHan lập tổ đội lâu dài để hoạt động tại Trái Đất.
 - Trạng thái tính đến chương 26: Xuất hiện kịp thời tại hiện trường bằng xe bọc thép kiên cố, thi triển kỹ năng ma pháp 'Song Lôi' (Twin Lightning) cực mạnh làm choáng váng quái thú chuyển chức lần 3 để hỗ trợ Yu IlHan.
+- Trạng thái tính đến chương 27: Đổi sang đeo mặt nạ kim loại che từ mũi lên trán; thi triển kỹ năng ma pháp cấp cao 'Tam Lôi' (Triple Lightning) đánh gục báo đen; bàng hoàng trước khả năng bắn súng và nhìn thấu Ẩn Thân của IlHan.
+
+### Fred
+- Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
+- Tính cách: Thận trọng, thực tế, kinh ngạc trước thực lực dị thường của Yu IlHan.
 
 ### Kim YeSeul
 - Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái. Bị chuyển đến thế giới Ya-umin trong 10 năm.

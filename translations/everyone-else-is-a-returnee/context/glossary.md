@@ -159,3 +159,7 @@
 | Twin Lightning |  | Song Lôi | kỹ năng | 26 | Kỹ năng ma pháp lôi hệ của Empress |
 | Ishmael |  | Ishmael | khác | 26 | Nhân vật thợ săn cá voi trong tiểu thuyết Moby Dick |
 | Moby Dick |  | Moby Dick | khác | 26 | Tiểu thuyết kinh điển của Herman Melville |
+| Blood Buff |  | Huyết Cường Hóa | kỹ năng | 27 | Trạng thái cuồng bạo dùng máu tăng cường sức mạnh của quái vật |
+| Shooting |  | Xạ Kích | kỹ năng | 27 | Kỹ năng sử dụng vũ khí tầm xa, súng ống |
+| Triple Lightning |  | Tam Lôi | kỹ năng | 27 | Kỹ năng ma pháp lôi hệ cấp cao của Kang MiRae |
+| Binding | Binding Skill | Trói Buộc | kỹ năng | 27 | Kỹ năng trói buộc mục tiêu bằng dây thừng/vũ khí trói |
