@@ -19,7 +19,7 @@
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
 | Lower existence |  | Thực thể cấp thấp | chủng tộc | 7 | Sinh linh thông thường chưa vượt ngưỡng năng lượng |
 | Returnee |  | Người Trở Về | khác | 5 | Nhân loại Trái Đất trở về sau 10 năm thích ứng mana |
-| Dropout | Left out; Left behind | Người Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
+| Dropout | Left out; Left behind | Người Bị Bỏ Lại / Kẻ Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
 | Dropout bonus | Rejector bonus | Thưởng cho người bị bỏ lại | hệ thống | 1 | Phần thưởng đền bù của Thượng Đế cho IlHan |
 | Magic stone |  | Ma thạch | vật phẩm | 9 | Lõi năng lượng thu được từ quái vật |
 | 1st advancement |  | Chuyển chức lần 1 | hệ thống | 6 | Mốc lv 10 |
@@ -56,3 +56,13 @@
 | Lanpas |  | Lanpas | địa danh | 7 | Thế giới khác nơi Empress vang danh 10 năm |
 | Sungkyunkwan University | Sungkyunkwan university; Sung U | Đại học Sungkyunkwan | địa danh | 7 | Trường đại học nơi Yu IlHan theo học |
 | Thunder Sword |  | Lôi Kiếm | vật phẩm | 7 | Vũ khí của binh sĩ trở về từ Guundia |
+| Close Quarters Combat |  | Cận Chiến | kỹ năng | 8 | Kỹ năng cận chiến thức tỉnh ở Lv Max |
+| Business Hall |  | Tòa Kinh Doanh | địa danh | 8 | Tòa nhà khoa Kinh doanh ĐH Sungkyunkwan |
+| Finance Hall |  | Tòa Tài Chính | địa danh | 8 | Tòa nhà khoa Tài chính ĐH Sungkyunkwan |
+| Big Mantis |  | Bọ Ngựa Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 13 |
+| Big Fly |  | Ruồi Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 11 |
+| Big Vulgare |  | Bọ Quy Giáp Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 14 (bọ viên / quy giáp) |
+| Big Mosquito |  | Muỗi Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 7 |
+| Big Honeybee |  | Ong Mật Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 10 |
+| Jewel of the four souls |  | Ngọc Tứ Hồn | khác | 8 | Chi tiết IlHan đùa theo truyện Inuyasha |
+| Ironman | Iron man | Người Sắt / Ironman | khác | 8 | Mặt nạ Người Sắt (Ironman) IlHan đeo |

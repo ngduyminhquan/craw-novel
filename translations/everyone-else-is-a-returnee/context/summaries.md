@@ -44,3 +44,10 @@ Erta giải thích việc mình được phái xuống là do Lita nỗ lực đ
 Sáng hôm sau, IlHan đến ĐH Sungkyunkwan trong bối cảnh xã hội xáo trộn; anh thu thập được thông tin về việc con người tự tạo kỹ năng, danh tiếng nhân vật Empress ở Lanpas, cùng sự xuất hiện của các hầm ngục (bẫy quái vật do Thượng Đế thiết lập).
 Trong tiết học tẻ nhạt, Erta khuyên IlHan nên ra ngoài săn quái vật cấp thấp để tích lũy kinh nghiệm mana nhanh hơn, khẳng định thể chất phi thường hiện tại của anh thừa sức hạ quái cấp 25 và cô có thể phát hiện quái vật giúp anh.
 Cảnh kết thúc: Sau khi xem ảnh quái vật trên diễn đàn mạng, IlHan phát hiện cả lớp đang bàng hoàng nhìn qua cửa sổ xuống bãi cỏ trường học, nơi những con quái vật côn trùng khổng lồ cỡ người đang xuất hiện.
+
+## 8
+Bầy quái vật côn trùng tràn vào trường ĐH Sungkyunkwan khiến sinh viên và giáo sư hoảng loạn tháo chạy; Yu IlHan ở lại, bẻ 4 chân bàn làm vũ khí và lấy mặt nạ Người Sắt dưới tầng hầm để che giấu thân phận.
+IlHan một mình xông pha tiêu diệt hàng chục quái vật côn trùng, liên tục tăng từ cấp 1 lên cấp 7, đồng thời thức tỉnh 3 kỹ năng ở Lv Max: Cận Chiến, Thương Thuật và Giải Phẫu.
+Giữa trận chiến, một cô gái đeo mặt nạ Hulk (Empress) dùng lôi thuật uy lực cùng tham chiến quét sạch quái vật; quân đội kéo đến đúng lúc IlHan tung cú phi cước kết liễu con rết cuối cùng.
+Theo hướng dẫn của Erta, IlHan lần đầu giải phẫu quái vật, thu hoạch lớp vỏ giáp cứng cùng nhiều viên ma thạch (kết tinh năng lượng mana).
+Cảnh kết thúc: Trước ánh mắt sững sờ của quân đội và đám đông, cô gái đeo mặt nạ Hulk chủ động bắt chuyện nhờ IlHan giải phẫu xác quái hộ mình, mở màn cuộc gặp gỡ định mệnh giữa Kẻ Bị Bỏ Lại và Empress.

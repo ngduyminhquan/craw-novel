@@ -33,7 +33,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu YongHan | Yu IlHan | bố | con | 6 | Bố con |
 | Kim YeSeul | Yu YongHan | tôi / em | ông / anh | 6 | Vợ chồng trung niên |
 | Yu YongHan | Kim YeSeul | tôi / anh | bà / em | 6 | Vợ chồng trung niên |
-| Yu IlHan | Empress | tôi | cô | 9 | Hợp tác săn quái |
-| Empress | Yu IlHan | tôi | anh | 9 | Lịch thiệp, tôn trọng năng lực |
+| Yu IlHan | Empress | tôi | cô | 8 | Hợp tác săn quái |
+| Empress | Yu IlHan | tôi | anh | 8 | Lịch thiệp, tôn trọng năng lực |
 | Yu IlHan | Han YeoRang | tôi | cô / thiếu úy | 9 | Giao dịch hiện trường |
 | Han YeoRang | Yu IlHan | tôi | anh | 9 | Sĩ quan và dân thường / dị năng giả bí ẩn |

@@ -21,6 +21,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tưng tửng, hài hước, hay cà khịa và bắt bẻ thiên thần; khi chiến đấu thì sắc bén, lạnh lùng, dứt khoát.
 - Quan hệ với nhân vật khác: Con của Yu YongHan và Kim YeSeul; bạn đồng hành / tri kỷ gắn bó 1000 năm với Lita; đối tác luyện tập của Erta.
 - Trạng thái tính đến chương 5: Đạt cấp độ cực hạn về thể chất, thuần thục Thương Thuật, Vale Tudo, giải phẫu, rèn đúc; sở hữu danh hiệu Kẻ Cô Độc Toàn Vũ Trụ và kỹ năng Ẩn Thân bị động tuyệt đối.
+- Trạng thái tính đến chương 8: Đạt cấp 7 sau trận chiến quét sạch bầy côn trùng tại ĐH Sungkyunkwan; thức tỉnh các kỹ năng ở Lv Max gồm Cận Chiến, Thương Thuật, Giải Phẫu; đeo mặt nạ Người Sắt để che giấu danh tính; lần đầu chạm trán và nói chuyện với Empress.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -32,6 +33,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu Yu IlHan.
 - Tính cách: Nghiêm túc, nguyên tắc, tính toán lý trí, dễ nổi cáu nhưng rất có trách nhiệm. Thường xuyên rơi vào trạng thái câm nín hoặc bất lực trước sức mạnh và những hành động quái đản ngoài dự đoán của IlHan.
 - Cách nói chuyện: Trịnh trọng, bài bản, đôi khi cáu bẳn và mỉa mai nhẹ.
+
+### Empress
+- Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
+- Năng lực: Lôi thuật mạnh mẽ với lượng mana dồi dào, đòn đánh mang uy lực nhất kích tất sát.
+- Tính cách / Cách nói chuyện: Bình thản, điềm đạm, thẳng thắn và lịch thiệp; nhận ra giá trị của kỹ năng giải phẫu và chủ động đưa ra đề nghị hợp tác/thuê IlHan mổ quái.
+- Trạng thái tính đến chương 8: Tham chiến tiêu diệt quái vật côn trùng tại sân trường Sungkyunkwan; đối mặt với IlHan (đeo mặt nạ Người Sắt) và ngỏ lời nhờ anh giải phẫu xác quái giúp mình.
 
 ### Kim YeSeul
 - Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái. Bị chuyển đến thế giới Ya-umin trong 10 năm.

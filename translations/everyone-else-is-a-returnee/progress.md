@@ -12,7 +12,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | reviewed |  |
 | 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | reviewed |  |
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | done |  |
-| 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | todo |  |
+| 8 |  | Chapter_008 - You Can’t See Me_ (4).txt | You Can’t See Me_ (4) | done |  |
 | 9 |  | Chapter_009 - You Can’t See Me_ (5).txt | You Can’t See Me_ (5) | todo |  |
 | 10 |  | Chapter_010 - I Hunt Alone (1).txt | I Hunt Alone (1) | todo |  |
 | 11 |  | Chapter_011 - I Hunt Alone (2).txt | I Hunt Alone (2) | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -386,3 +387,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#6] Đoạn văn ở raw dòng 68 có chứa chú thích dịch giả kẹp giữa câu `Yu IlHan's father, Yu YongHan (T/N: can mean useful) complained...`. Tạm dùng: lược bỏ cụm `(T/N: can mean useful)` và dịch trọn vẹn câu văn câu chuyện thành "Bố của Yu IlHan, Yu YongHan vừa ăn thìa cơm lớn đầu tiên sau 10 năm vừa cằn nhằn. Kim YeSeul cũng đồng tình." để đảm bảo tính toàn vẹn của mạch truyện. → Chấp nhận lược bỏ chú thích T/N kẹp giữa câu và giữ nguyên câu truyện chính (orchestrator)
 - [#5 đoạn 54] Từ cảm thán "Kek" → Chốt dịch là 'Khặc' và thêm vào style.md (orchestrator)
 - [#4 đoạn 33] Đại từ trong câu vặn của Yu IlHan → Sửa thành 'ai bảo người ta' (orchestrator)
+- [#8] Kỹ năng 'Close Quarters Combat' — Tạm chọn: 'Cận Chiến'. Phương án khác: 'Chiến Đấu Cận Thân', 'Cận Thân Chiến'. → Chốt 'Cận Chiến' (orchestrator)
+- [#8] Trang phục ngụy trang 'Ironman mask' — Tạm chọn: 'mặt nạ Người Sắt' (giữ alias Ironman). Phương án khác: 'mặt nạ Ironman'. → Chốt 'mặt nạ Người Sắt' (giữ 'Người Sắt / Ironman' trong glossary) (orchestrator)
