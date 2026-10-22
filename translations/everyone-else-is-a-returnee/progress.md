@@ -61,7 +61,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 54 |  | Chapter_054 - I Carry (1).txt | I Carry (1) | reviewed |  |
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | done |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | done |  |
-| 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | todo |  |
+| 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | done |  |
 | 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | todo |  |
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | todo |  |
 | 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | todo |  |
@@ -368,9 +368,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 ## Cần user xác nhận
 
-- [#56] Tên các loài Pokemon (Pidgeotto, Pidgeot, Mega Pidgeot, Pikachu, Raichu) — Tạm chọn: giữ nguyên theo chuẩn văn hóa đại chúng (giống Pokemon đã chốt). Phương án khác: Việt hóa/phiên âm. Tạm dùng trong bản dịch: Giữ nguyên.
-- [#56] Thuật ngữ cơ chế rest energy — Tạm chọn: 'năng lượng nghỉ ngơi' (khớp với kỹ năng Nghỉ Ngơi). Phương án khác: 'năng lượng hồi phục'. Tạm dùng trong bản dịch: 'năng lượng nghỉ ngơi'.
-- [#56] Chủng tộc demon race (thực thể cấp cao của Kẻ Phá Vỡ) — Tạm chọn: 'Ma tộc'. Phương án khác: 'Ác ma tộc', 'Chủng tộc ma quỷ'. Tạm dùng trong bản dịch: 'Ma tộc'.
 
 ## Đã quyết
 
@@ -562,3 +559,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#56] Tên các loài Pokemon (Pidgeotto, Pidgeot, Mega Pidgeot, Pikachu, Raichu)? → Giữ nguyên tên gốc tiếng Anh giống như Pokemon đã chốt ở #34. (orchestrator)
 - [#56] Dịch thuật ngữ cơ chế rest energy? → Chốt năng lượng nghỉ ngơi (khớp với kỹ năng Nghỉ Ngơi). (orchestrator)
 - [#56] Dịch chủng tộc demon race (thực thể cấp cao của Kẻ Phá Vỡ)? → Chốt Ma tộc. (orchestrator)
+- [#56] Tên các loài Pokemon (Pidgeotto, Pidgeot, Mega Pidgeot, Pikachu, Raichu) — Tạm chọn: giữ nguyên theo chuẩn văn hóa đại chúng (giống Pokemon đã chốt). Phương án khác: Việt hóa/phiên âm. Tạm dùng trong bản dịch: Giữ nguyên. → Giữ nguyên tên gốc tiếng Anh giống như Pokemon đã chốt ở #34. (orchestrator)
+- [#56] Thuật ngữ cơ chế rest energy — Tạm chọn: 'năng lượng nghỉ ngơi' (khớp với kỹ năng Nghỉ Ngơi). Phương án khác: 'năng lượng hồi phục'. Tạm dùng trong bản dịch: 'năng lượng nghỉ ngơi'. → Chốt năng lượng nghỉ ngơi (khớp với kỹ năng Nghỉ Ngơi). (orchestrator)
+- [#56] Chủng tộc demon race (thực thể cấp cao của Kẻ Phá Vỡ) — Tạm chọn: 'Ma tộc'. Phương án khác: 'Ác ma tộc', 'Chủng tộc ma quỷ'. Tạm dùng trong bản dịch: 'Ma tộc'. → Chốt Ma tộc. (orchestrator)
+- [#57] Dịch thuật ngữ phân loại quái vật Originals và Migrants? → Chốt Nguyên Bản (quái vật tiến hóa từ động vật Trái Đất) và Di Cư (quái vật hình thành từ sự tích tụ mana). (orchestrator)
+- [#57] Dịch tên kỹ năng Leap? → Chốt Bật Nhảy. (orchestrator)
+- [#57] Xử lý ghi chú inline E/N và meme truck-kun ở đoạn 88? → Lược bỏ ghi chú (E/N: ...) theo rules.md và dịch xe tải truck-kun để bảo toàn tính hài hước văn hóa meme. (orchestrator)
