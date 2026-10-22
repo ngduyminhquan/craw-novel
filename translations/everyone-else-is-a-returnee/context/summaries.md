@@ -126,6 +126,12 @@ Anh lao tới hiện trường quận Jongno, nơi quân đội và các dị n�
 Nhờ Ẩn Thân đạp tường cao ốc nhảy lên không trung, IlHan tung đòn Chí Mạng đâm nát mắt trái con báo, giải cứu hai người lính trong chiếc xe quân sự rơi tự do, thu hút toàn bộ sự chú ý (aggro) của quái vật tạo cơ hội cho đám đông và Empress tiếp ứng bằng lôi thuật.
 Cảnh kết thúc: Khi con báo liều mạng tông sầm trực diện, IlHan kích hoạt gai xương từ giáp đâm nát mặt nó; dù bị chấn động ê ẩm và bị Erta chê "trông tởm lắm" như con ếch bị xe cán bẹp dí, anh vẫn hài lòng vì trang bị mới phát huy tác dụng ngay lần đầu xuất trận.
 
+## 21
+Yu IlHan bám trụ trên đầu Báo Khổng Lồ nhờ dao găm ở ủng và liên tiếp giáng đòn chí mạng (nâng kỹ năng Chí Mạng lên Lv 2); cùng lúc đó, quân đội và các dị năng giả đồng loạt tổng tấn công khiến quái thú kiệt sức quỳ rạp.
+Con báo bất ngờ đột biến mọc búi cơ bắp ngoằn ngoèo toan tiến hóa lên chuyển chức lần 3; Empress kịp thời nhảy khỏi trực thăng ôm chặt chân IlHan để truyền bùa lợi ma pháp 'Lôi Linh' tăng 50% chỉ số trong 30 giây.
+Trước nguy cơ quân đội khai hỏa tên lửa hủy diệt, IlHan dồn toàn lực đâm mũi thương bộc phát đòn đánh lôi thuộc tính kết liễu Báo Khổng Lồ Lv 87, nhận gần 800.000 EXP và thăng vọt lên cấp 28, trong khi Empress tiếc hùi hụi vì quên lập tổ đội nên không được chia điểm kinh nghiệm.
+Cảnh kết thúc: Giữa tiếng hò reo vang dội tôn vinh 'Sungdaein Bolt' và Empress của binh lính cùng người dân, Yu IlHan lại tái mặt tiếc nuối vì lớp da báo đã rách bươm không thể may giáp mới khiến Erta chỉ muốn cho anh một trận.
+
 ## 22
 Sau trận chiến, Yu IlHan cứu hộ và bước ra phân chia chiến lợi phẩm; Empress lạnh lùng tính tỷ lệ 60% cho IlHan, 20% cho cô và 20% cho phần còn lại; IlHan lấy viên ma thạch lam khổng lồ cỡ Ferrero Rocher rồi dùng uy lực vũ lực áp đảo để trấn áp những kẻ tham lam toan đòi chia lại.
 Nhận lời giải phẫu nửa xác báo cho Empress để lấy 40% thù lao (gồm nhiều da và xương), IlHan biểu diễn kỹ năng róc thịt thần sầu chỉ trong 7 phút 30 giây rồi phũ phàng từ chối mổ xẻ hỗ trợ đám đông còn lại khi họ cò kè bớt một thêm hai.
