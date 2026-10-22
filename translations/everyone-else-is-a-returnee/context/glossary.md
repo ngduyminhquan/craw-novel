@@ -30,3 +30,4 @@
 | High-class monster | High class monster | Quái vật cấp cao | khác | 2 | Quái vật cấu thành từ hệ thống năng lượng bậc cao, cần mana để tiêu diệt |
 | Boston Public Library |  | Thư viện Công cộng Boston | địa danh | 3 | Thư viện lớn ở Mỹ nơi IlHan hoàn thành việc đọc toàn bộ sách |
 | Russian Academy of Sciences | Russian Academy of sciences | Viện Hàn lâm Khoa học Nga | tổ chức | 3 | Nơi có 7,5 triệu đầu sách IlHan đã đọc qua |
+| Mo Palmo |  | Mo Palmo | khác | 4 | Thợ rèn huyền thoại trong truyền thuyết Jumong |

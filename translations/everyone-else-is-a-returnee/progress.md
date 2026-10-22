@@ -8,7 +8,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 1 |  | Chapter_001 - Prologue.txt | Prologue | reviewed |  |
 | 2 |  | Chapter_002 - I Live Alone (1).txt | I Live Alone (1) | reviewed |  |
 | 3 |  | Chapter_003 - I Live Alone (2).txt | I Live Alone (2) | reviewed |  |
-| 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | todo |  |
+| 4 |  | Chapter_004 - I Live Alone (3).txt | I Live Alone (3) | done |  |
 | 5 |  | Chapter_005 - You Can’t See Me_ (1).txt | You Can’t See Me_ (1) | todo |  |
 | 6 |  | Chapter_006 - You Can’t See Me_ (2).txt | You Can’t See Me_ (2) | todo |  |
 | 7 |  | Chapter_007 - You Can’t See Me_ (3).txt | You Can’t See Me_ (3) | todo |  |
@@ -381,3 +381,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#1-2] Định dạng link điều hướng cuối mỗi chương → Dùng `[← Chương trước](Chapter_XXX.md) | [Chương tiếp theo →](Chapter_YYY.md)` (chương 1 chỉ có `[Chương tiếp theo →](Chapter_002.md)`), đặt ở dòng cuối cùng của file chương, cách đoạn cuối một dòng trống (orchestrator)
 - [#1] Đoạn 1 câu phủ định kép raw EN → Viết lại thoát ý thành "Anh không muốn ai nhận ra mình là một kẻ ngoài cuộc lủi thủi một mình..." (orchestrator)
 - [#2] Đoạn 77 câu hét xuất chiêu của Yu IlHan → Giữ nguyên "của ta đây" để giữ nét hài chuunibyou (orchestrator)
+- [#4] Từ "disappointment" ở đoạn 84 (raw line 170: "Lita observed that and she couldn't hide her disappointment...") mâu thuẫn với vế sau ca ngợi IlHan — Tạm chọn: dịch thoát ý thành "sự kinh ngạc thán phục" (nguyên tác tiếng Hàn là 감탄 / thán phục bị bản dịch tiếng Anh dịch nhầm thành disappointment). Phương án khác: dịch sát từ thành "sự thất vọng" (nhưng phá hỏng logic vế sau). → Chấp nhận dịch thoát ý thành 'sự kinh ngạc thán phục' cho khớp ngữ cảnh vế sau (orchestrator)

@@ -19,3 +19,10 @@ Yu IlHan kiên trì luyện võ suốt 50 năm, sau đó chuyển sang đọc s�
 Dù trải qua hơn hai thế kỷ cô độc, IlHan vẫn giữ trọn tinh thần lạc quan, coi thời gian đã qua chỉ là bước chuẩn bị trước Đại Tai Biến.
 Sự kiên định và thuần khiết của anh khiến Lita chấn động sâu sắc, làm nảy mầm tình cảm vượt trên mức thiện chí thông thường giữa thiên thần và con người.
 Cảnh kết thúc: Ở năm thứ 274, sau khi đọc xong cuốn sách cuối cùng tại Thư viện Boston, Lita bối rối vỗ cánh bay đi, còn IlHan quyết định quay về nhà trong khi nhân loại vẫn chưa trở lại.
+
+## 4
+Yu IlHan quay về Seoul đọc lại tiểu thuyết kỳ ảo, sau đó theo gợi ý của Lita học kỹ năng Giải Phẫu muông thú trong vài thập kỷ (kết thúc bằng việc săn và xẻ thịt cá voi nhà táng).
+Đến năm thứ 300, anh chuyển sang học Rèn Đúc, mất hơn 200 năm tự mày mò để rèn ra một ngọn trường thương thép tối thượng vừa vặn với bản thân ở năm thứ 507.
+Sau đó, anh tiếp tục khổ luyện võ thuật, tinh thông mọi loại vũ khí và võ phái (Taekwondo, Aikido, Karate, Muay Thái...), khiến cơ thể đột biến và tiến hóa tối ưu hóa cho chiến đấu dẫu chưa hề có mana.
+Lita chứng kiến sự kiên cường của IlHan nên ngày càng say đắm và nung nấu ý định "kích thích mới" cho anh, nhưng chưa kịp thực hiện thì thời khắc tròn 1000 năm đã điểm.
+Cảnh kết thúc: Tròn 1000 năm sau ngày Yu IlHan bị bỏ lại, thế giới được thiết lập lại và toàn bộ nhân loại chính thức quay trở về Trái Đất.

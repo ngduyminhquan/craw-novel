@@ -26,7 +26,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
 - Tính cách: Ban đầu có phần ngạo mạn, trịch thượng của thực thể cấp cao, nhưng dần gắn bó, thấu hiểu và nảy sinh tình cảm sâu sắc với Yu IlHan sau 1000 năm đồng hành. Hay trêu chọc IlHan nhưng hết lòng lo lắng, bảo vệ quyền lợi cho anh trước Thượng Đế.
 - Cách nói chuyện: Thân mật, có chút đanh đá, trêu ngươi ("Ái chà", "Ara ara"), nhưng đầy quan tâm.
-- Quan hệ / Trạng thái tính đến chương 3: Vào năm thứ 274 của thời gian Trái Đất đóng băng, đã bắt đầu nảy sinh tình cảm vượt xa lòng trắc ẩn và thiện chí đơn thuần đối với Yu IlHan.
+- Quan hệ / Trạng thái tính đến chương 4: Đã nhận ra tình cảm của mình dành cho Yu IlHan chính là tình yêu, thậm chí nung nấu ý định trao cho anh 'kích thích mới lạ', nhưng chưa kịp thực hiện thì thời khắc 1000 năm đã điểm và nhân loại trở về.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu Yu IlHan.
