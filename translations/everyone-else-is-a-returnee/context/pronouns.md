@@ -16,6 +16,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Han YeoRang | cô / Han YeoRang / thiếu úy Han | 9 | Nữ sĩ quan quân đội |
 | Do WooJun | cậu / Do WooJun | 15 | Trưởng nhóm Kẻ Hành Quyết |
 | Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
+| Fashta | Fashta | 18 | Thiên thần hỗ trợ Erta |
+| Ahata | Ahata | 18 | Thiên thần hỗ trợ Erta |
 
 ## Giữa các nhân vật
 
@@ -43,3 +45,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Do WooJun | Yu IlHan | tôi | cậu | 15 | Kẻ Hành Quyết đối thoại |
 | Yu IlHan | Yun DaeHan | tôi | ông / thiếu tá | 15 | Hợp tác thông tin quái vật |
 | Yun DaeHan | Yu IlHan | tôi | cậu / cậu Sungdaein Bolt | 15 | Thiếu tá quân đội và dị năng giả |
+| Yu IlHan | Fashta | tôi | các người / các vị | 18 | IlHan nói với các thiên thần hỗ trợ |
+| Fashta | Yu IlHan | ta / tôi | ngươi / con người / Yu IlHan | 18 | Thiên thần hỗ trợ nói với IlHan |
+| Erta | Fashta | tôi | cậu / Fashta | 18 | Đồng nghiệp thiên thần |
+| Fashta | Erta | tôi | cô / Erta | 18 | Đồng nghiệp thiên thần |

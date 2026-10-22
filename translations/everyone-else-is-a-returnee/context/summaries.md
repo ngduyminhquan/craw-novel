@@ -108,4 +108,10 @@ Thiên giới cung cấp bản thiết kế ma pháp trận cùng các nguyên l
 IlHan kết hợp Ngọn Lửa Vĩnh Cửu (được nuôi bằng ma thạch), búa và đe thần cùng kỹ thuật thợ rèn thượng thừa để uốn nắn khối kim loại Harkanium cứng rắn thành khối lập phương và các vòng tròn kim loại bao quanh, khiến Erta chấn động nhận định kỹ nghệ của anh có tiềm năng vượt qua cả Thượng Đế.
 Cảnh kết thúc: Hoàn thành khâu tạo hình, IlHan thở dài càu nhàu rồi cầm chiếc đục nhỏ áp lên Bẫy Hủy Diệt để bắt đầu công đoạn khảm nạm ma pháp trận đầy gian nan.
 
+## 18
+Yu IlHan hoàn thành công đoạn khảm nạm kim loại lỏng El Hazra lên khối Harkanium sau 5 tiếng tập trung cao độ, qua đó thức tỉnh kỹ năng Rèn Đúc Lv Max và nhận danh hiệu 'Kẻ Sáng Tạo Thần Thoại' (+20% hiệu quả sản xuất).
+Erta kích hoạt vòng thiên thần triệu tập nhóm đồng nghiệp thiên thần (gồm Fashta, Ahata...) xuống trần thế hỗ trợ IlHan truyền dẫn mana và Fecinom; bằng ý chí kiên định tôi luyện qua 1000 năm, IlHan đứng vững trước áp lực của các thực thể cấp cao và hoàn thành Bẫy Hủy Diệt sở hữu cả hai dòng thuộc tính hiếm 'Tỉ Mỉ' và 'Trần Thế', đồng thời thăng cấp Chế Tác Mana lên cấp 7.
+Hai thiên thần đưa IlHan bay đến đỉnh đồi hoang vu để thử nghiệm kích hoạt Bẫy Hủy Diệt; khi Erta ném tạo tác ra, các vòng kim loại phóng to rồi tan biến vào không gian khiến mặt đất bắt đầu rung chuyển.
+Cảnh kết thúc: Bẫy Hủy Diệt bước đầu kích hoạt thành công, mặt đất chấn động dữ dội và quái vật khắp nơi bắt đầu kéo dồn về phía ngọn đồi.
+
 

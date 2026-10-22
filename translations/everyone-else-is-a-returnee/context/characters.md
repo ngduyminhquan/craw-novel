@@ -14,6 +14,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh | 1 |
 | Do WooJun | WooJun | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
 | Yun DaeHan |  | Yun DaeHan | Thiếu tá quân đội Hàn Quốc chỉ huy hiện trường quái vật, nhìn xa trông rộng | 15 |
+| Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
+| Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 
 ## Chi tiết
 
@@ -33,6 +35,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 15: Đạt cấp độ 24 sau khi tiêu diệt thêm 3 đàn quái vật nhờ hợp tác thông tin với thiếu tá Yun DaeHan; tích lũy gần 1 tỷ won tiền mặt chuẩn bị lập xưởng chế tác; lại tiếp tục trở thành kẻ cô độc khi toàn bộ nhân loại được kết nối trở lại thế giới khác.
 - Trạng thái tính đến chương 16: Hoàn thành Nhiệm Vụ Thiên Giới 001, tăng 1 điểm toàn bộ chỉ số; nhận phần thưởng đặc biệt là Ngọn Lửa Vĩnh Cửu từ thiên giới (do Lita kiên quyết đòi cho anh); mua một nhà kho làm xưởng chế tác riêng và nhận nhiệm vụ thiết lập hầm ngục trên Trái Đất.
 - Trạng thái tính đến chương 17: Nhận nhiệm vụ thiên giới chế tạo 'Bẫy Hủy Diệt' để thiết lập hầm ngục cho Trái Đất; phối hợp cùng Ngọn Lửa Vĩnh Cửu gia công thành công kim loại thế giới bậc cao Harkanium, thể hiện trình độ thợ rèn phi phàm khiến Erta chấn động thừa nhận tiềm năng kỹ nghệ có thể sánh ngang và thách thức cả Thượng Đế.
+- Trạng thái tính đến chương 18: Thức tỉnh kỹ năng Rèn Đúc ở Lv Max; nhận danh hiệu 'Kẻ Sáng Tạo Thần Thoại' (+20% toàn bộ hiệu quả sản xuất); cùng nhóm thiên thần hoàn thành Bẫy Hủy Diệt sở hữu 2 dòng thuộc tính hiếm 'Tỉ Mỉ' và 'Trần Thế', nâng cấp Chế Tác Mana lên cấp 7.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

@@ -15,7 +15,7 @@
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Môn võ cận chiến thực chiến tàn khốc không luật lệ |
 | Spearmanship | Spear arts | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
 | Dismantling | Disassembly | Giải Phẫu | kỹ năng | 4 | Kỹ năng mổ xẻ, thu hoạch bộ phận quái vật |
-| Smithing |  | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
+| Smithing | Blacksmithing | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
 | Lower existence |  | Thực thể cấp thấp | chủng tộc | 7 | Sinh linh thông thường chưa vượt ngưỡng năng lượng |
 | Returnee |  | Người Trở Về | khác | 5 | Nhân loại Trái Đất trở về sau 10 năm thích ứng mana |
@@ -108,3 +108,10 @@
 | Harkanium |  | Harkanium | vật phẩm | 17 | Kim loại thế giới bậc cao phát ra ánh sáng đen kỳ ảo |
 | Fecinom |  | Fecinom | vật phẩm | 17 | Kim loại thế giới bậc cao chứa năng lượng đỏ rực thô ráp |
 | El Hazra |  | El Hazra | vật phẩm | 17 | Kim loại lỏng thế giới bậc cao phát ra ánh sáng lam nhạt |
+| Creator of Myths |  | Kẻ Sáng Tạo Thần Thoại | danh hiệu | 18 | Danh hiệu đạt được khi Max kỹ năng Rèn Đúc, tăng 20% hiệu quả sản xuất |
+| Option |  | Dòng thuộc tính | hệ thống | 18 | Thuộc tính phụ xuất hiện ngẫu nhiên khi rèn và chế tác mana |
+| Alpha option |  | Dòng thuộc tính alpha | hệ thống | 18 | Dòng thuộc tính phụ thứ nhất của tạo tác |
+| Beta option |  | Dòng thuộc tính beta | hệ thống | 18 | Dòng thuộc tính phụ thứ hai của tạo tác |
+| Meticulous |  | Tỉ Mỉ | hệ thống | 18 | Tiền tố dòng thuộc tính alpha tăng độ chuẩn xác |
+| Earthly |  | Trần Thế | hệ thống | 18 | Tiền tố dòng thuộc tính beta gắn liền với Trái Đất |
+| Angel's ring |  | Vòng thiên thần | khác | 18 | Biểu tượng liên kết vượt không thời gian và giao tiếp giữa các thiên thần |
