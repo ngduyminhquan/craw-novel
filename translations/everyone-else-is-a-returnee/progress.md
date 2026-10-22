@@ -38,9 +38,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 31 |  | Chapter_031 - I Also Go to Dungeons (2).txt | I Also Go to Dungeons (2) | reviewed |  |
 | 32 |  | Chapter_032 - I Also Go to Dungeons (3).txt | I Also Go to Dungeons (3) | reviewed |  |
 | 33 |  | Chapter_033 - I Also Go to Dungeons (4).txt | I Also Go to Dungeons (4) | reviewed |  |
-| 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | done |  |
-| 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | done |  |
-| 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | done |  |
+| 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | reviewed |  |
+| 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | reviewed |  |
+| 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | reviewed |  |
 | 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | todo |  |
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | todo |  |
 | 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | todo |  |
@@ -486,3 +486,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#35] Danh xưng / khái niệm "Deathgod" — Tạm chọn: "Tử Thần". Phương án khác: "Thần Chết". Tạm dùng trong bản dịch: "Tử Thần". → Chốt Tử Thần cho Deathgod. (orchestrator)
 - [#36] Dòng thuộc tính và tên vũ khí mới Flashing Insane Pile bunker → Chốt Súng Bắn Cọc Thiểm Quang Cuồng Loạn (Flashing -> Thiểm Quang, Insane -> Cuồng Loạn). (orchestrator)
 - [#36] Xưng hô giữa hai nhân vật dị năng giả người Hàn HaJin và YuNa → Chốt HaJin gọi YuNa là cô / YuNa, xưng tôi; YuNa gọi HaJin là anh / HaJin, xưng tôi. (orchestrator)
+- [#34 đoạn 70-71] Giữ nhịp nói lắp bắp và chỉnh sắc thái của Erta → Chấp nhận, sửa đoạn 70 ([Thế... thế thì...]) và đoạn 71 (cố làm ra vẻ mình chẳng hề bị lay động chút nào). (orchestrator)
+- [#35 đoạn 71] Từ ngữ văn phong (ngầu lòi -> cực ngầu) → Chấp nhận, đổi ngầu lòi thành cực ngầu. (orchestrator)
+- [#35 đoạn 105] Sửa chính tả tiếng Việt (sắc xảo -> sắc sảo) → Chấp nhận, sửa sắc xảo thành sắc sảo. (orchestrator)
+- [#36 các đoạn tiếng kêu quái vật] Việt hóa đồng bộ tiếng kêu của quái vật → Chấp nhận, chuyển đổi sang âm Việt hóa (Khẹc, Khuặc, Hự, Khặc, Khẹccc) và bổ sung vào style.md. (orchestrator)
+- [#36 đoạn 119] Tinh chỉnh diễn đạt dòng thuộc tính Súng Bắn Cọc → Bác, giữ nguyên Tốc độ nạp đạn vì raw gọi cọc xương nạp vào súng là ammo/bullet. (orchestrator)

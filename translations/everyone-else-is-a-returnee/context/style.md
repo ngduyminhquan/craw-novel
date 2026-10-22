@@ -28,6 +28,9 @@
 | Teehee | Hihi / He he | Cười trừ, cười ngượng |
 | What the fuck / What the hell | Cái quái gì thế này / Chết tiệt | Tiếng chửi thề thường gặp của IlHan |
 | Kek | Khặc | Tiếng cười khẩy, cảm thán ngạc nhiên theo văn hóa mạng/game |
+| Kwek / Kweeek | Khẹc / Khẹccc | Tiếng kêu/rít của quái vật bò sát (Thằn Lằn Lửa) |
+| Kuaak | Khuặc | Tiếng gầm thét của quái vật |
+| Kuhuk / Kuhk | Khặc / Hự | Tiếng rên/nghẹn họng khi trúng đòn hiểm |
 
 ## Đặc điểm ghi nhận theo chương
 

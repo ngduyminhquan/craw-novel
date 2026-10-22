@@ -140,7 +140,7 @@ Anh quay đầu nhìn quanh. Các tòa nhà xung quanh đang bị phá hủy, ng
 
 Thế nhưng, phần lớn con người đều chưa đạt chuyển chức lần 2, họ lại chẳng có bộ giáp đáng tin cậy như thứ Yu IlHan đang mặc, thành thử họ phải di chuyển tất bật để tránh né đòn tấn công bằng lửa của bầy Thằn Lằn Lửa. Nhờ có những pháp sư biết dùng ma pháp hộ thuẫn nên họ mới thu hút được mọi sự chú ý.
 
-"Này, anh bạn hiệp sĩ giáp sắt ngầu lòi kia ơi! Anh có cần ma pháp phòng thủ không?"
+"Này, anh bạn hiệp sĩ giáp sắt cực ngầu kia ơi! Anh có cần ma pháp phòng thủ không?"
 
 "Tôi không cần."
 
@@ -170,7 +170,7 @@ Yu IlHan nhìn chằm chằm vào nó rồi đâm thẳng ngọn thương vào b
 
 Yu IlHan không chút do dự hất mạnh ngọn thương lên khiến đầu nó nổ tung. Anh đã tước đoạt mạng sống của một con quái vật trên cấp 60 chỉ bằng hai chiêu thức.
 
-[Kweeeek! Một chiến binh mạnh mẽ, chiến binh mạnh nhất ở đây!]
+[Khẹccc! Một chiến binh mạnh mẽ, chiến binh mạnh nhất ở đây!]
 
 [Nếu chúng ta ăn ghi chép của hắn.]
 
@@ -208,7 +208,7 @@ Yu IlHan hơi phổng mũi tự đắc một chút.
 
 [Dĩ nhiên rồi, với điều kiện là cậu phải giấu tiệt cái mặt đi cơ.]
 
-Lời vặn lại của Erta vẫn sắc xảo và chua ngoa như mọi khi.
+Lời vặn lại của Erta vẫn sắc sảo và chua ngoa như mọi khi.
 
 Vì cô nói chẳng sai vào đâu được, Yu IlHan không thể phản bác mà chỉ đành hét thật lớn để tìm đối thủ trút giận.
 

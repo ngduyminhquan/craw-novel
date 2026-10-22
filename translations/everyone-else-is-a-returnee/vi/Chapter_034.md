@@ -138,9 +138,9 @@ Dù kẻ thường buông lời trêu chọc ấy chính là Erta, nhưng giờ 
 
 Erta thản nhiên gạt phăng lời thổ lộ của anh như không có gì rồi tiếp tục lên tiếng.
 
-[Thế thì, tôi sẽ trao cho cậu phần thưởng cuối cùng.]
+[Thế... thế thì, tôi sẽ trao cho cậu phần thưởng cuối cùng.]
 
-Thực ra, trông cô nàng dường như chẳng hề dao động chút nào. Dĩ nhiên, Yu IlHan đã bị mê hoặc hoàn toàn khi nghe nói vẫn còn phần thưởng nên chẳng hề nhận ra Erta vừa tự cắn phải lưỡi mình.
+Thực ra, cô nàng cố làm ra vẻ mình chẳng hề bị lay động chút nào. Dĩ nhiên, Yu IlHan đã bị mê hoặc hoàn toàn khi nghe nói vẫn còn phần thưởng nên chẳng hề nhận ra Erta vừa tự cắn phải lưỡi mình.
 
 [Phần thưởng cuối cùng cũng là một mẩu thông tin khác.]
 

@@ -9,7 +9,7 @@
 | Great Cataclysm |  | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
 | Akashic Records | Akashic Record | Hồ Sơ Akashic | hệ thống | 1 | Kho ghi chép vạn vật của vũ trụ |
 | Mana |  | Mana | hệ thống | 1 | Năng lượng ma thuật cấp cao của vũ trụ |
-| Status |  | Bảng chỉ số | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
+| Status |  | Bảng chỉ số / Điểm chỉ số | hệ thống | 1 | Dùng 'Bảng chỉ số' cho bảng thông tin cá nhân; dùng 'Điểm chỉ số' khi chỉ điểm số (status points) |
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Được phép giữ nguyên: Môn võ cận chiến thực chiến tàn khốc không luật lệ (tên môn võ quốc tế phổ thông) |
@@ -212,3 +212,4 @@
 | Flashing |  | Thiểm Quang | hệ thống | 36 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
 | Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công |
 | Flashing Insane Pile bunker |  | Súng Bắn Cọc Thiểm Quang Cuồng Loạn | vật phẩm | 36 | Vũ khí Súng Bắn Cọc cải tiến bằng kim loại Thiết Tâm, sở hữu 2 dòng thuộc tính Thiểm Quang và Cuồng Loạn |
+| Status points |  | Điểm chỉ số | hệ thống | 35 | Điểm chỉ số cơ bản nhận được khi thăng cấp hoặc hoàn thành nhiệm vụ |

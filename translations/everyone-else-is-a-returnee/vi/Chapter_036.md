@@ -2,7 +2,7 @@
 
 Cảnh tượng chẳng khác nào một cơn bão máu.
 
-[Kwek!]
+[Khẹc!]
 
 "Tiếp theo!"
 
@@ -10,13 +10,13 @@ Mỗi khi ngọn hắc thương vốn nuốt trọn cả những tia nắng thi�
 
 [Con người đó quá mạnh!]
 
-[Tập hợp... Kwek!]
+[Tập hợp... Khẹc!]
 
 Rất khó để tìm thấy Yu IlHan trước và sau trận chiến.
 
 Thế nhưng, khi trận chiến đang diễn ra ngay lúc này, Yu IlHan lại di chuyển phô trương hơn bất kỳ ai nơi đây. Bởi lẽ, máu tươi không ngừng vương vãi trên mỗi bước đường anh đi qua.
 
-[Kuaak!]
+[Khuặc!]
 
 [Bạn nhận được 432.729 điểm kinh nghiệm.]
 
@@ -34,7 +34,7 @@ Dù vừa thở dài than vãn, Yu IlHan vẫn di chuyển theo lời Erta. Vì 
 
 Vấn đề là...
 
-[Kwek! Hắn ở đây!]
+[Khẹc! Hắn ở đây!]
 
 [Chúng ta phải giết hắn trước!]
 
@@ -50,15 +50,15 @@ Yu IlHan một tay cầm thương vung rộng một đường quét sạch nhữ
 
 [Chí Mạng!]
 
-[Kuhk!]
+[Hự!]
 
-[Kihik!]
+[Khẹc!]
 
 Nhát thương vung ra cùng lúc với tiếng gầm như sấm rền đã biến thành đòn chí mạng, thổi bay đầu hai con quái đang lao đến trước mặt. Cảnh tượng này hoàn toàn tương phản với các tổ đội dị năng giả khác đang chật vật đối đầu với Thằn Lằn Lửa.
 
 "Tránh đường mau!"
 
-[Kik!]
+[Khẹc!]
 
 Nó mãn nhãn đến mức khiến những người đứng nhìn cũng cảm thấy sảng khoái tinh thần. Anh chính là kiểu người có thể nâng cao sĩ khí đồng minh và đè bẹp nhuệ khí quân địch chỉ bằng sự hiện diện của chính mình!
 
@@ -128,7 +128,7 @@ Tình cờ thay, anh nhìn thấy vài con Thằn Lằn Lửa ở cách đó kh�
 
 "Lại đây mau!"
 
-[Kweeek!]
+[Khẹccc!]
 
 Yu IlHan túm chặt lấy con Thằn Lằn Lửa đang cố chống cự bằng cách phun lửa, rồi quăng mạnh nó về phía mảng tòa nhà. Một phát nổ, hai phát nổ, ba phát đì đùng!
 
@@ -248,7 +248,7 @@ Dù tên đầu lĩnh nắm giữ sức mạnh kích nổ, nhưng nó lại khô
 
 Yu IlHan chẳng cho nó cơ hội né tránh, giáng thẳng mũi cọc vào đầu nó.
 
-[Kuhuk!]
+[Khặc!]
 
 "Cái quái gì... thế kia...?"
 
