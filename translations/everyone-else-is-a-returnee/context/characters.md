@@ -117,11 +117,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### HaJin
 - Giới tính, vai trò: Nam dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
 - Tính cách: Điềm tĩnh, nhắc nhở đồng đội giữ bình tĩnh giữa chiến trường hỗn loạn.
+- Trạng thái tính đến chương 39: Cùng Na YuNa tiến vào hầm ngục Grand Canyon để hỗ trợ thu thập nọc bọ cạp rồi nhanh chóng quay về Hàn Quốc.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
 - Tính cách: Hoạt bát, dễ phấn khích trước những món trang bị ngầu và đẹp mắt.
 - Trạng thái tính đến chương 38: Tiết lộ thân phận là nữ tư tế được Nữ Thần Sắc Đẹp ban phước, có thiên thần Feyta làm người bảo hộ; cùng HaJin lên máy bay tới bang Arizona.
+- Trạng thái tính đến chương 39: Cùng HaJin và thiên thần Feyta tiến vào hầm ngục Grand Canyon để săn Bọ Cạp Cát lấy nọc độc mang về Hàn Quốc.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

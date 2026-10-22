@@ -138,9 +138,9 @@ Trái lại, Yu IlHan lại tỏ vẻ thất vọng.
 
 "Chết tiệt."
 
-Ngay tại nơi này đang có một cô thiên thần xấu tính chuyên đùa giỡn với trái tim người khác. Dù miệng không ngừng cằn nhằn, Yu IlHan vẫn nhét xác con Thằn Lằn Lửa Pháp Sư vào Túi Đeo Chéo. Sau đó, anh dùng thanh đại kiếm làm xe trượt tuyết để trượt xuống chân đồi.
+Ngay tại nơi này đang có một cô thiên thần xấu tính chuyên đùa giỡn với trái tim người khác. Dù miệng không ngừng cằn nhằn, Yu IlHan vẫn nhét xác con Thằn Lằn Lửa Pháp Sư vào Túi Đeo Chéo. Sau đó, anh dùng thanh đại kiếm làm xe trượt để trượt xuống chân đồi.
 
-"Dê-hú!"
+"Húuu!"
 
 [Cái tài tìm kiếm thú vui ở bất cứ nơi đâu của cậu đúng là phi thường thật đấy. Thậm chí còn giỏi một cách vô dụng nữa chứ.]
 
@@ -152,7 +152,7 @@ Chiếc xe trượt tiếp đất sau đúng 4 giây. Phải chi ngọn đồi n
 
 "Hiệp sĩ, anh ngầu thật đấy! Đúng là một pha xử lý hoàn hảo!"
 
-"Rốt cuộc anh làm chức nghiệp gì mà khả năng bộc phát hủy diệt lại khủng khiếp đến thế! Xong việc này đi làm một chầu nhé!"
+"Rốt cuộc anh mang chức nghiệp gì mà khả năng bộc phát hủy diệt lại khủng khiếp đến thế! Xong việc này đi làm một chầu nhé!"
 
 Vì vốn dĩ những người tập hợp ở đây là để đối đầu với tên thủ lĩnh, bản lĩnh của họ chẳng hề tầm thường chút nào. Điều đó đồng nghĩa với việc thực lực của Yu IlHan đã áp đảo đến mức khiến ngay cả những kẻ tinh anh như họ cũng phải ngợp.
 
@@ -268,6 +268,6 @@ Yu IlHan tận dụng GPS Thiên Thần để di chuyển chớp nhoáng và ti�
 
 "Này, trao cho tôi tính năng kiểm soát trọng lượng của Túi Đeo Chéo trước đi chứ."
 
-Đó chính là khoảnh khắc mà nhiệm vụ Thiên giới đột xuất đã kết thúc một cách hoàn mỹ.
+Đó chính là khoảnh khắc mà Nhiệm Vụ Thiên Giới đột xuất đã kết thúc một cách hoàn mỹ.
 
 [← Chương trước](Chapter_036.md) | [Chương tiếp theo →](Chapter_038.md)

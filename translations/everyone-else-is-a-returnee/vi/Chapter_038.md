@@ -6,7 +6,7 @@
 
 [Bạn là người hoàn thành nhiệm vụ xuất sắc nhất trong số những người tham gia. Phần thưởng đặc biệt được trao tặng.]
 
-Trước khi bước vào sân bay, Yu IlHan rẽ vào một con hẻm nhỏ mà không một ai hay biết. Dẫu anh có thừa tự tin rằng dù mình cứ thế quay lại sân bay thì cũng chẳng ma nào nhận ra, nhưng anh lại không mấy hào hứng với việc phải hành động theo sự cam đoan ấy.
+Trước khi bước vào sân bay, Yu IlHan rẽ vào một con hẻm nhỏ mà không một ai hay biết. Dẫu anh có thừa tự tin rằng dù mình cứ thế quay lại sân bay thì cũng chẳng ma nào nhận ra, nhưng anh lại cảm thấy ấm ức khi phải hành động dựa trên sự cam đoan ấy.
 
 Vì vậy, anh cởi bỏ bộ giáp để giũ sạch vết máu trước khi cất vào Túi Đeo Chéo, rồi làm điều tương tự với ngọn thương. Anh cũng nạp lại Súng Bắn Cọc lên cấp 4 sau khi đã sử dụng nó trong trận chiến vừa rồi.
 
@@ -140,7 +140,7 @@ Vừa thầm nghĩ cô nàng này quả là tận tụy với công việc thiê
 
 [Không chỉ tiêu diệt thủ lĩnh quái vật là Thằn Lằn Lửa Pháp Sư, cậu còn hạ gục 2 con Thằn Lằn Lửa Tinh Anh cùng vô số Thằn Lằn Lửa, qua đó giành lấy vị trí số một áp đảo trong nhiệm vụ lần này. Dù cậu đã dùng một phần để nâng cấp phần thưởng sẵn có, nhưng thành tích tích lũy còn lại của cậu vẫn còn rất nhiều. Thế nên, từ những ghi chép cậu thu được trong trận chiến, chúng tôi sẽ dùng năng lượng của Thiên giới để xử lý và trao cho cậu một kỹ năng hữu dụng.]
 
-"Kỹ năng của bố tôi á?"
+"Kỹ năng 'Hữu Dụng'... giống tên bố tôi á?"
 
 [Tôi nổi cáu lên bây giờ đấy.]
 

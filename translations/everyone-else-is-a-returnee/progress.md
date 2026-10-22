@@ -41,9 +41,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | reviewed |  |
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | reviewed |  |
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | reviewed |  |
-| 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | done |  |
-| 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | done |  |
-| 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | done |  |
+| 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | reviewed |  |
+| 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | reviewed |  |
+| 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | reviewed |  |
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | todo |  |
 | 41 |  | Chapter_041 - I Also Do 2nd Job Advancement (3).txt | I Also Do 2nd Job Advancement (3) | todo |  |
 | 42 |  | Chapter_042 - I Also Do 2nd Job Advancement (4).txt | I Also Do 2nd Job Advancement (4) | todo |  |
@@ -503,3 +503,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#39] Tham chiếu game summoner's rift → Chốt giữ nguyên Summoner's Rift (tên bản đồ Liên Minh Huyền Thoại). (orchestrator)
 - [#39] Tên nhân vật bị che K*nd*ch* H*j*m* (Kindaichi Hajime) → Chốt giữ nguyên K*nd*ch* H*j*m* theo nguyên bản tên riêng nước ngoài bị che dấu sao. (orchestrator)
 - [#39] Chơi chữ sao biển / cá heo (Starfish / Dolgorae) → Chốt bỏ ghi chú T/N inline và dịch tự nhiên theo câu đùa sao biển không sống trên các vì sao. (orchestrator)
+- [#38 đoạn 71] Chơi chữ tên cha của Yu IlHan (yuyonghan = hữu dụng / Yu YongHan) → Chấp nhận, sửa thành Kỹ năng Hữu Dụng... giống tên bố tôi á? theo quy tắc diễn đạt lại chơi chữ trong câu dịch của rules.md. (orchestrator)
+- [#39 đoạn 99] Tiếng Anh của troll (Trrrooooollll ressssstttttsssss...) → Bác, giữ nguyên bản dịch tiếng Việt {Trrrooooollll nghhỉiiiiiii ngơơơơơiiiiii...} theo quy ước dịch thuật văn học và đồng bộ với các chương sau. (orchestrator)
+- [#39] Độ lệch cấp độ hầm ngục trong raw (đoạn 79 Lv40 và đoạn 134 Lv50) → Giữ nguyên theo đúng raw (không tự ý đổi số liệu). (orchestrator)

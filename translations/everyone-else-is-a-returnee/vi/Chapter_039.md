@@ -178,7 +178,7 @@ Việc tiến hóa kỹ năng Nghỉ Ngơi là vô cùng quan trọng. Nó khôn
 
 Giác quan đang thì thầm với anh. Rằng dù chắc chắn sẽ lại vướng vào một rắc rối đau đầu nào đó trong cái hầm ngục này, nhưng anh sẽ chẳng phải hối tiếc một khi đã tiến hóa thành công kỹ năng Nghỉ Ngơi!
 
-"Có làm thì mới có ăn."
+"Không chịu khổ thì sao có quả ngọt."
 
 Erta bám chặt lấy tóc Yu IlHan. Anh nắm chặt ngọn Hắc Thương Tử Thần vừa rút ra từ Túi Đeo Chéo rồi tự tin sải bước tiến vào vòng xoáy.
 
@@ -246,7 +246,7 @@ Nở một nụ cười tàn nhẫn, Yu IlHan vung thương chém bay đầu nó
 
 Dù đó không phải một đòn đánh chí mạng, nhưng nhờ hiệu ứng từ đòn tấn công bất ngờ, anh đã có thể hạ sát một quái vật cấp hơn 70 chỉ bằng một đòn duy nhất.
 
-Dẫu cho anh còn chưa thèm chuyển chức lần 2!
+Dẫu cho anh thậm chí còn chưa chuyển chức lần 2!
 
 [Trái tim quái vật chuyển chức lần 2 đang ngủ 1/500]
 
@@ -276,7 +276,7 @@ Chuyến săn troll của Yu IlHan đã khởi đầu suôn sẻ như thế đ�
 
 "Không phải tôi đã bảo cô đi kiếm người đàn ông khác rồi à?"
 
-[Mấy người các cậu chẳng thèm nghe tôi nói gì cả đúng không...?]
+[Hai người các cậu chẳng thèm nghe tôi nói gì cả đúng không...?]
 
 Những kẻ đang tiến vào vòng xoáy với bầu không khí căng thẳng chẳng kém gì Yu IlHan và Erta, hiển nhiên, chính là đôi nam nữ người Hàn mà Yu IlHan ghét cay ghét đắng.
 
