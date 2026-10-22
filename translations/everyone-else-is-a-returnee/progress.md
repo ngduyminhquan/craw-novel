@@ -25,7 +25,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 18 |  | Chapter_018 - I Make Them (4).txt | I Make Them (4) | reviewed |  |
 | 19 |  | Chapter_019 - I Make Them (5).txt | I Make Them (5) | done |  |
 | 20 |  | Chapter_020 - You Want to Hunt With Me!_ (1).txt | You Want to Hunt With Me!_ (1) | done |  |
-| 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | todo |  |
+| 21 |  | Chapter_021 - You Want to Hunt With Me!_ (2).txt | You Want to Hunt With Me!_ (2) | done |  |
 | 22 |  | Chapter_022 - You Want to Hunt With Me!_ (3).txt | You Want to Hunt With Me!_ (3) | todo |  |
 | 23 |  | Chapter_023 - You Want to Hunt With Me!_ (4).txt | You Want to Hunt With Me!_ (4) | todo |  |
 | 24 |  | Chapter_024 - You Want to Hunt With Me!_ (5).txt | You Want to Hunt With Me!_ (5) | todo |  |
@@ -435,3 +435,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#18 đoạn 35] Dịch thuật → Chấp nhận sửa thành "năng lực độc quyền của loài thiên thần" (orchestrator)
 - [glossary.md] Thuật ngữ ma pháp → Chấp nhận bổ sung Shrinking magic và Invisibility magic vào glossary.md (orchestrator)
 - [#20] Vũ khí "Fatally Sharp Steel Spear" — Tạm dùng: "Trường Thương Thép Sắc Bén Chí Mạng" (hoặc "Trường Thương Thép Chí Mạng Sắc Bén") phản ánh 2 dòng thuộc tính Chí Mạng (alpha) và Sắc Bén (beta). → Chốt 'Trường Thương Thép Sắc Bén Chí Mạng' (giữ cả 'Trường Thương Thép Chí Mạng Sắc Bén' trong glossary) (orchestrator)
+- [#21] Thuật ngữ bùa lợi ma pháp "Thunder Spirit" của Empress — Tạm chọn: "Lôi Linh". Phương án khác: "Lôi Tinh", "Linh Hồn Sấm Sét". Tạm dùng trong bản dịch: "Lôi Linh". → Chốt 'Lôi Linh' (orchestrator)
+- [#21] Hiệu ứng kích hoạt đòn đánh "Lightning Additional Hit" từ bùa lợi — Tạm chọn: "Đòn Đánh Phụ Lôi Thuộc Tính". Phương án khác: "Lôi Kích Bổ Sung", "Đòn Đánh Phụ Sét". Tạm dùng trong bản dịch: "Đòn Đánh Phụ Lôi Thuộc Tính". → Chốt 'Đòn Đánh Phụ Lôi Thuộc Tính' (orchestrator)
+- [#21] Tên loài quái vật "Giant Leopard" (Lv 87) — Tạm chọn: "Báo Khổng Lồ". Phương án khác: "Đại Báo", "Cự Báo". Tạm dùng trong bản dịch: "Báo Khổng Lồ". → Chốt 'Báo Khổng Lồ' (orchestrator)

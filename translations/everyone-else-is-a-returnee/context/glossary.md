@@ -136,3 +136,6 @@
 | Fatal | Fatally | Chí Mạng | hệ thống | 20 | Tiền tố dòng thuộc tính tăng tỷ lệ đòn đánh chí mạng |
 | Blue House |  | Nhà Xanh | địa danh | 20 | Phủ Tổng thống Hàn Quốc |
 | RPG |  | RPG / Súng RPG | khác | 20 | Súng phóng lựu chống tăng |
+| Giant Leopard |  | Báo Khổng Lồ | quái vật | 21 | Quái vật báo cấp 87 chuyển chức lần 2 đột biến tại Jongno |
+| Thunder Spirit |  | Lôi Linh | kỹ năng | 21 | Bùa lợi ma pháp sấm sét của Empress tăng 50% sức tấn công, tốc độ, chí mạng và sát thương lôi |
+| Lightning Additional Hit |  | Đòn Đánh Phụ Lôi Thuộc Tính | kỹ năng | 21 | Hiệu ứng đòn đánh kèm theo năng lượng sấm sét từ bùa lợi Lôi Linh |
