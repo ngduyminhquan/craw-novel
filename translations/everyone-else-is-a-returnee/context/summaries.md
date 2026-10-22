@@ -169,6 +169,12 @@ Kang MiRae chia trọn viên ma thạch và một nửa xác quái cho IlHan đ�
 Kang MiRae xin rút lại lời mời lập đội lâu dài vì khoảng cách năng lực quá lớn làm tổn thương lòng tự trọng, nhưng khẳng định sẽ nhanh chóng đuổi kịp anh và chủ động xin số điện thoại liên lạc riêng.
 Cảnh kết thúc: Yu IlHan hí hửng vì lần đầu tiên trong đời được con gái xin số điện thoại khiến Erta cạn lời chê bai; anh cẩn thận kiểm tra đống thịt vụn đề phòng trứng quái vật rồi thu dọn toàn bộ chiến lợi phẩm rời đi.
 
+## 29
+Yu IlHan trở về xưởng kiểm tra tiến độ kỹ năng Nghỉ Ngơi (đã đạt 1/1 ma thạch chuyển chức lần 3); Erta giải thích về yêu cầu máu Troll (phải có Kháng Độc Cực Hạn mới uống được) cùng thử thách hạ sát 500 quái chuyển chức lần 2 trong một đòn, đồng thời kiên quyết từ chối cho anh dùng trộm Harkanium.
+Sửa xong bộ lao săn, IlHan vô tình làm rơi gân Báo Bóng Tối vào lò nung Ngọn Lửa Vĩnh Cửu và phát hiện gân biến tính đạt độ đàn hồi vượt xa thuốc súng, được anh đặt tên là 'Dây Thun Khổng Lồ'.
+Tận dụng lực đàn hồi này cùng xương và 7 chiếc răng nanh làm cọc đạn, IlHan chế tạo thành công vũ khí hủy diệt 'Pile Bunker Quang Tốc' (Phẩm cấp Độc Nhất, 3 cấp nạp đòn với sức tấn công từ 1.200 đến 2.900, dòng thuộc tính giảm thời gian nạp và tăng 20% tốc độ tấn công) dù việc kéo cần nạp đạn vô cùng tốn sức.
+Cảnh kết thúc: Mặc kệ Erta chê bai món vũ khí dài hơn 3 mét quá cồng kềnh và giục anh nghỉ ngơi, Yu IlHan vẫn hăng say bắt tay chế tạo thêm vũ khí đối phó quái vật cỡ nhỏ trong lúc chờ các thiên thần tới làm chiếc Bẫy Hủy Diệt thứ ba.
+
 
 
 
