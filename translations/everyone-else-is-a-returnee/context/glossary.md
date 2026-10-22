@@ -6,3 +6,23 @@
 
 | EN | Alias | VI | Loại | Chương đầu | Ghi chú |
 |---|---|---|---|---|---|
+| Great Cataclysm |  | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
+| Akashic Records |  | Hồ Sơ Akashic | hệ thống | 1 | Kho ghi chép vạn vật của vũ trụ |
+| Mana |  | Mana | hệ thống | 1 | Năng lượng ma thuật cấp cao của vũ trụ |
+| Status |  | Bảng chỉ số / Trạng thái | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
+| Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
+| Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
+| Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Môn võ cận chiến thực chiến tàn khốc không luật lệ |
+| Spearmanship | Spear arts | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
+| Dismantling | Disassembly | Giải Phẫu | kỹ năng | 4 | Kỹ năng mổ xẻ, thu hoạch bộ phận quái vật |
+| Smithing |  | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
+| Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
+| Lower existence |  | Thực thể cấp thấp | chủng tộc | 7 | Sinh linh thông thường chưa vượt ngưỡng năng lượng |
+| Returnee |  | Người Trở Về | khác | 5 | Nhân loại Trái Đất trở về sau 10 năm thích ứng mana |
+| Dropout | Left out; Left behind | Người Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
+| Dropout bonus | Rejector bonus | Thưởng cho người bị bỏ lại | hệ thống | 1 | Phần thưởng đền bù của Thượng Đế cho IlHan |
+| Magic stone |  | Ma thạch | vật phẩm | 9 | Lõi năng lượng thu được từ quái vật |
+| 1st advancement |  | Chuyển chức lần 1 | hệ thống | 6 | Mốc lv 10 |
+| 2nd advancement |  | Chuyển chức lần 2 | hệ thống | 6 | Mốc lv 50 |
+| 3rd advancement |  | Chuyển chức lần 3 | hệ thống | 6 | Mốc lv 100 |
+| Sungdaein Bolt | SungDaein Bolt | Sungdaein Bolt | khác | 9 | Biệt danh người ngoài đặt cho IlHan tại ĐH Sungkyunkwan |

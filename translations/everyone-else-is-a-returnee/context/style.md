@@ -2,10 +2,10 @@
 
 ## Tổng quan
 
-- Thể loại: <!-- vd: hiện đại, hệ thống, hài, săn quái -->
-- Góc nhìn: <!-- ngôi 1/ngôi 3; bám theo nhân vật nào; có đoạn đổi góc nhìn không -->
-- Giọng kể: <!-- vd: tưng tửng, tự giễu, nhiều câu hỏi tu từ, châm biếm -->
-- Nhịp câu: <!-- câu ngắn hay dài, nhiều đoạn một câu không -->
+- Thể loại: Hiện đại, đô thị, hệ thống, dị năng, hài hước, sinh tồn, săn quái.
+- Góc nhìn: Ngôi thứ ba giới hạn (third-person limited), phần lớn bám sát theo hành động và dòng suy nghĩ của Yu IlHan; thỉnh thoảng chuyển góc nhìn sang các nhân vật quan sát (Lita, Erta, người qua đường) để làm nổi bật sự kỳ quái, trớ trêu và bá đạo của IlHan.
+- Giọng kể: Tưng tửng, hài hước, tự giễu (self-deprecating), châm biếm sâu cay, nhiều câu hỏi tu từ và độc thoại nội tâm mỉa mai số phận "kẻ bị bỏ lại".
+- Nhịp câu: Gãy gọn, linh hoạt, nhiều câu đơn và đoạn một câu ngắn tạo nhịp điệu nhanh và nhấn mạnh hiệu quả gây cười.
 
 ## Nguyên tắc chung
 
@@ -20,7 +20,14 @@
 
 | EN | VI | Ghi chú |
 |---|---|---|
+| Kuk / Kuik | Hự / Khặc | Tiếng rên khi trúng đòn hoặc kìm nén |
+| Ugh | Hự / Ư | Tiếng rên đau đớn, khó chịu |
+| Tsk / Tch | Chậc / Xì | Tiếng tặc lưỡi, khinh khỉnh |
+| Fuu / Phew | Phù / Phùuu | Tiếng thở dài nhẹ nhõm hoặc ngao ngán |
+| Ara ara | Ái chà / Ôi chao | Giọng trêu chọc nữ tính của Lita |
+| Teehee | Hihi / He he | Cười trừ, cười ngượng |
+| What the fuck / What the hell | Cái quái gì thế này / Chết tiệt | Tiếng chửi thề thường gặp của IlHan |
 
 ## Đặc điểm ghi nhận theo chương
 
-<!-- Mỗi dòng: - (#chương) quan sát về văn phong/giọng kể cần giữ -->
+- (1-5) Nhịp điệu thời gian trôi từ 10 năm thành 1000 năm rất dồn dập, giọng kể nhấn mạnh sự thích nghi phi thường và ý chí sinh tồn hài hước nhưng cảm động của Yu IlHan.

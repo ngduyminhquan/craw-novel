@@ -368,8 +368,13 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 ## Cần user xác nhận
 
-<!-- Agent ghi vào đây các mâu thuẫn thuật ngữ/xưng hô/quyết định chưa chắc. Mỗi dòng: - [#chương] vấn đề — đề xuất -->
 
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
+- [#1-5] Danh hiệu "Pancosmic Loner" — Tạm chọn: "Kẻ Cô Độc Toàn Vũ Trụ". Phương án khác: "Kẻ Lẻ Loi Toàn Vũ Trụ". → Chốt 'Kẻ Cô Độc Toàn Vũ Trụ' (orchestrator)
+- [#1-5] Danh xưng nhóm "Dropout" (người không được chuyển đi) — Tạm chọn: "Người Bị Bỏ Lại". → Chốt 'Người Bị Bỏ Lại' (orchestrator)
+- [#2] Môn võ "Vale Tudo" — Tạm giữ nguyên "Vale Tudo" (môn võ thực chiến Brazil). Phương án khác: "Võ Tự Do". → Giữ nguyên 'Vale Tudo' (tên môn võ thực tế) (orchestrator)
+- [#1-5] Đại từ người kể dùng cho Yu IlHan — Tạm chọn: "anh / Yu IlHan". → Chốt 'anh / Yu IlHan' (orchestrator)
+- [#1-3] Tên nữ thiên thần "Lita" / "Rita" — Tạm chốt "Lita", đưa "Rita" vào Alias. → Chốt 'Lita', đưa 'Rita' vào Alias (orchestrator)
+- [#290-292] Xác nhận bỏ qua 3 chương trùng #290, #291, #292 (trùng nội dung #287, #288, #289) — Tạm chọn: giữ nguyên `skip`. → Giữ nguyên skip cho #290, #291, #292 (orchestrator)
