@@ -213,3 +213,8 @@
 | Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công |
 | Flashing Insane Pile bunker |  | Súng Bắn Cọc Thiểm Quang Cuồng Loạn | vật phẩm | 36 | Vũ khí Súng Bắn Cọc cải tiến bằng kim loại Thiết Tâm, sở hữu 2 dòng thuộc tính Thiểm Quang và Cuồng Loạn |
 | Status points |  | Điểm chỉ số | hệ thống | 35 | Điểm chỉ số cơ bản nhận được khi thăng cấp hoặc hoàn thành nhiệm vụ |
+| Ignorant Giant's Black Greatsword |  | Hắc Đại Kiếm Cự Nhân Vô Tri | vật phẩm | 37 | Đại kiếm đen của Yu IlHan rèn từ tim Kim Loại Lõi, mang dòng thuộc tính tăng 50% trọng lượng và 20% sức mạnh |
+| Swordsmanship | Swordsmanship Lv Max | Kiếm Thuật | kỹ năng | 37 | Kỹ năng sử dụng kiếm thuật, thức tỉnh ở Lv Max |
+| Elite Flame Lizard |  | Thằn Lằn Lửa Tinh Anh | quái vật | 37 | Biến thể tinh anh cấp 78 của Thằn Lằn Lửa |
+| Flame Lizard Wizard |  | Thằn Lằn Lửa Pháp Sư | quái vật | 37 | Thủ lĩnh biến dị cấp 97 của Thằn Lằn Lửa tại sân bay Los Angeles |
+| Angel GPS |  | GPS Thiên Thần | khác | 37 | Cách nói ví von việc Erta chỉ điểm vị trí quái vật cho Yu IlHan |

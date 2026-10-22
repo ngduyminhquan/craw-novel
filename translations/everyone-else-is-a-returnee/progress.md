@@ -41,7 +41,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 34 |  | Chapter_034 - Overflow (1).txt | Overflow (1) | reviewed |  |
 | 35 |  | Chapter_035 - Overflow (2).txt | Overflow (2) | reviewed |  |
 | 36 |  | Chapter_036 - Overflow (3).txt | Overflow (3) | reviewed |  |
-| 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | todo |  |
+| 37 |  | Chapter_037 - Overflow (4).txt | Overflow (4) | done |  |
 | 38 |  | Chapter_038 - Overflow (5).txt | Overflow (5) | todo |  |
 | 39 |  | Chapter_039 - ­I Also Do 2nd Job Advancement (1).txt | ­I Also Do 2nd Job Advancement (1) | todo |  |
 | 40 |  | Chapter_040 - I Also Do 2nd Job Advancement (2).txt | I Also Do 2nd Job Advancement (2) | todo |  |
@@ -491,3 +491,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#35 đoạn 105] Sửa chính tả tiếng Việt (sắc xảo -> sắc sảo) → Chấp nhận, sửa sắc xảo thành sắc sảo. (orchestrator)
 - [#36 các đoạn tiếng kêu quái vật] Việt hóa đồng bộ tiếng kêu của quái vật → Chấp nhận, chuyển đổi sang âm Việt hóa (Khẹc, Khuặc, Hự, Khặc, Khẹccc) và bổ sung vào style.md. (orchestrator)
 - [#36 đoạn 119] Tinh chỉnh diễn đạt dòng thuộc tính Súng Bắn Cọc → Bác, giữ nguyên Tốc độ nạp đạn vì raw gọi cọc xương nạp vào súng là ammo/bullet. (orchestrator)
+- [#37] Tên vũ khí mới "Ignorant Giant's Black Greatsword" — Tạm chọn: "Hắc Đại Kiếm Cự Nhân Vô Tri" (vũ khí đại kiếm đen Yu IlHan rèn từ tim Kim Loại Lõi, mang dòng thuộc tính tăng 50% trọng lượng và 20% sức mạnh người dùng). Phương án khác: "Hắc Đại Kiếm Của Cự Nhân Man Dại", "Hắc Đại Kiếm Của Cự Nhân Cục Súc". Tạm dùng trong bản dịch: "Hắc Đại Kiếm Cự Nhân Vô Tri". → Chốt Hắc Đại Kiếm Cự Nhân Vô Tri cho Ignorant Giant's Black Greatsword. (orchestrator)
+- [#37] Kỹ năng "Swordsmanship" (Swordsmanship Lv Max) — Tạm chọn: "Kiếm Thuật" (kỹ năng sử dụng kiếm thuật, thức tỉnh ở Lv Max). Phương án khác: "Kiếm Pháp". Tạm dùng trong bản dịch: "Kiếm Thuật". → Chốt Kiếm Thuật cho Swordsmanship (đồng bộ với Thương Thuật, Độn Khí Thuật). (orchestrator)
+- [#37] Quái vật thủ lĩnh "Flame Lizard Wizard" (Lv 97) — Tạm chọn: "Thằn Lằn Lửa Pháp Sư". Phương án khác: "Pháp Sư Thằn Lằn Lửa", "Thằn Lằn Lửa Ma Pháp Sư". Tạm dùng trong bản dịch: "Thằn Lằn Lửa Pháp Sư". → Chốt Thằn Lằn Lửa Pháp Sư cho Flame Lizard Wizard. (orchestrator)
+- [#37] Quái vật hộ vệ "Elite Flame Lizard" (Lv 78) — Tạm chọn: "Thằn Lằn Lửa Tinh Anh". Phương án khác: "Thằn Lằn Lửa Tinh Nhuệ". Tạm dùng trong bản dịch: "Thằn Lằn Lửa Tinh Anh". → Chốt Thằn Lằn Lửa Tinh Anh cho Elite Flame Lizard. (orchestrator)
+- [#37] Cách nói ví von "Angel GPS" — Tạm chọn: "GPS Thiên Thần" (Erta chỉ điểm tọa độ quái vật cho IlHan). Tạm dùng trong bản dịch: "GPS Thiên Thần". → Chốt GPS Thiên Thần cho Angel GPS. (orchestrator)

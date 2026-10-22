@@ -224,6 +224,14 @@ Tiến vào trung tâm, IlHan chạm trán thủ lĩnh Thằn Lằn Lửa khổn
 Tên đầu lĩnh kích hoạt cột đá sắc nhọn trồi lên phát nổ dưới chân IlHan; anh bình thản tận dụng xung lực vụ nổ để lao vút tới, rút vũ khí 'Súng Bắn Cọc Thiểm Quang Cuồng Loạn' nạp cấp 4 áp sát đối phương.
 Cảnh kết thúc: Trước ánh mắt kinh ngạc tột độ của nhóm dị năng giả khi chứng kiến thứ vũ khí kỳ quái vượt ngoài hiểu biết, Yu IlHan lạnh lùng bóp cò giáng thẳng mũi cọc vào đầu tên đầu lĩnh.
 
+## 37
+Phát bắn Súng Bắn Cọc găm thẳng cọc xương vào đầu tên thủ lĩnh; IlHan thu hồi súng, rút vũ khí mới 'Hắc Đại Kiếm Cự Nhân Vô Tri' thức tỉnh Kiếm Thuật Lv Max và áp đảo hai quái hộ vệ cùng lúc.
+Tên thủ lĩnh giãy chết kích hoạt khối đất đá nâng cao hàng chục mét toan biến cả ngọn đồi thành bom nổ chậm hòng chết chùm; IlHan dùng đại kiếm đóng ngập cọc xương kết liễu hoàn toàn, nhận 1.897.565 EXP và ghi chép Thằn Lằn Lửa Pháp Sư Lv 97.
+Sau khi thu xác trùm vào Túi Đeo Chéo và dùng đại kiếm làm xe trượt tuyết xuống đồi, IlHan từ chối nán lại giao lưu với nhóm dị năng giả (trong đó có HaJin và Na YuNa) để đi săn nốt quái vật.
+Được Erta dùng "GPS Thiên Thần" chỉ điểm vị trí bầy quái lẩn trốn, IlHan cùng mọi người diệt sạch tàn dư Thằn Lằn Lửa và kết thúc hoàn mỹ Hiện Tượng Tràn tại Los Angeles.
+Cảnh kết thúc: Tự tin nắm chắc vị trí số một trên bảng xếp hạng nhiệm vụ thiên giới, Yu IlHan bước về phía sân bay trong khi mặt đất lún dần vì sức nặng khổng lồ của xác quái trong Túi Đeo Chéo.
+
+
 
 
 
