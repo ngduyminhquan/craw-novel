@@ -473,3 +473,4 @@
 | Aegis |  | Aegis | vật phẩm | 94 | Được phép giữ nguyên: Tạo tác khiên phẩm cấp Truyền Thuyết hợp nhất từ 5 chiếc khiên xương da rồng chuyển chức 4 |
 | Dragonhunter's Frightening and Sturdy Dark python Ballista |  | Pháo Nỏ Hắc Mãng Thợ Săn Rồng Kinh Hãi Và Kiên Cố | vật phẩm | 95 | Cỗ pháo nỏ săn rồng phẩm cấp Truyền Thuyết tích hợp xương Yamata no Orochi và ma thạch chuyển chức 3, bắn liên tiếp 15 phát mũi tên xương rồng |
 | Breath |  | Hơi Thở | vật phẩm | 95 | Thứ đồ uống có cồn làm từ máu rồng và hơn 900 trái tim rồng, hồi phục thể lực, ma pháp và không cần ngủ |
+| soul transfer |  | chuyển dịch linh hồn | kỹ năng | 96 | Ma pháp cổ xưa của đế chế elf cho phép hoán chuyển linh hồn sang thể xác người khác |

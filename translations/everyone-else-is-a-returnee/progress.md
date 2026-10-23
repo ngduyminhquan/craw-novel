@@ -100,7 +100,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 93 |  | Chapter_093 - You, I, Strangers 11.txt | You, I, Strangers 11 | reviewed |  |
 | 94 |  | Chapter_094 - You, I, Strangers 12.txt | You, I, Strangers 12 | done |  |
 | 95 |  | Chapter_095 - You, I, Strangers 13.txt | You, I, Strangers 13 | done |  |
-| 96 |  | Chapter_096 - You, I, Strangers 14.txt | You, I, Strangers 14 | todo |  |
+| 96 |  | Chapter_096 - You, I, Strangers 14.txt | You, I, Strangers 14 | done |  |
 | 97 |  | Chapter_097 - You, I, Strangers 15.txt | You, I, Strangers 15 | todo |  |
 | 98 |  | Chapter_098 - You, I, Strangers 16.txt | You, I, Strangers 16 | todo |  |
 | 99 |  | Chapter_099 - You, I, Strangers 17.txt | You, I, Strangers 17 | todo |  |
@@ -673,3 +673,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#94] Cách thể hiện chữ hoa của "Dragon HEART" khi Erta giải thích ("Dragon HEARTs are written with capitals, and normal hearts aren't") → Chấp nhận dùng chữ in hoa ("TRÁI TIM RỒNG" / viết hoa để phân biệt với trái tim thông thường của rồng) nhằm giữ trọn vẹn trò đùa phá bức tường thứ tư trong lời giải thích của Erta. (orchestrator)
 - [#95] Tên gọi loại rượu máu rồng "Breath" → Chốt "Hơi Thở" (chơi chữ từ Hơi Thở của rồng / Dragon's Breath và hơi thở sự sống từ máu cùng 900 trái tim rồng). (orchestrator)
 - [#95] Tên tạo tác "Dragonhunter's Frightening and Sturdy Dark python Ballista" → Chốt "Pháo Nỏ Hắc Mãng Thợ Săn Rồng Kinh Hãi Và Kiên Cố" (đồng bộ với các tiền tố Hắc Mãng, Thợ Săn Rồng, Kinh Hãi đã chốt trong glossary.md; xóa từ chung viết thường "ballista" khỏi glossary.md). (orchestrator)
+- [#96] Thuật ngữ ma pháp "soul transfer" của đế chế elf → Chốt "chuyển dịch linh hồn" (đổi cột Loại trong glossary.md từ "ma pháp" sang "kỹ năng" theo đúng danh mục chuẩn của glossary.md). (orchestrator)

@@ -589,3 +589,10 @@ Chỉ còn 1 giờ trước khi kết giới hết hạn, Yu IlHan và Erta kinh
 Ngay khi chủ động thu hồi kết giới, IlHan giật dây đồng loạt khai hỏa 6 cỗ pháo nỏ lập tức bắn nát 6 con rồng chuyển chức 4, thu về hàng tỷ EXP và đẩy đội hình kẻ địch vào cơn hỗn loạn tột độ.
 Trước khi bầy rồng định thần, IlHan phóng liên hoàn các ngọn lao săn găm chặt chúng xuống đất và bồi đòn chí mạng bằng Bất Khả Họa Quỹ Đạo Thương; lũ rồng nóng vội lầm tưởng anh sắp chết vì trúng lửa nên lao vào quá đà và liên tiếp bị quật ngã, trong khi IlHan vừa hút rượu Hơi Thở vừa hoàn toàn làm chủ cục diện trận đánh.
 Cảnh kết thúc: Nhìn một con người sắp chết lại ung dung đùa giỡn với hàng chục con rồng khiến Reta chết lặng không thốt nên lời; tài năng thiên bẩm và một ngàn năm khổ luyện của Yu IlHan tỏa sáng rực rỡ qua cơ thể tiến hóa khi anh trở thành kẻ thống trị chiến trường.
+
+## 96
+Bầy rồng đổi chiến thuật dùng ma pháp tầm xa tấn công; Yu IlHan dùng Bật Nhảy Tiếp và phản lực Súng Bắn Cọc không chiến linh hoạt, kết hợp giáp kháng hỏa, ném lựu đạn vào vòm họng rồng, dựng hàng trăm khiên chắn và liên tục uống 'Hơi Thở' hồi phục để quét sạch bầy rồng.
+Hạ sát đủ 1.000 quái chuyển chức 4, IlHan hoàn thành nhiệm vụ chuyển chức Liệt Hỏa Tử Thần và thu toàn bộ xác rồng vào Túi Đeo Chéo; ngay trước khi anh chuyển chức, Reta Kar'iha bất ngờ kích hoạt đại pháp trận cổ xưa của tộc elf bao phủ toàn lục địa Daréu nhằm phong tỏa cơ thể anh.
+Reta lộ rõ dã tâm phản trắc: cô ta từng đoạt quyền kiểm soát pháp trận từ tay hoàng đế elf và nay mưu tính dùng ma pháp 'chuyển dịch linh hồn' đoạt xá thể xác IlHan để đánh bại Quân Đội Ma Hủy Diệt và liên minh với Khu Vườn Hoàng Hôn.
+Bị trói buộc bởi ma pháp trận khổng lồ và mất quyền kiểm soát thể xác, IlHan và Erta vẫn giữ vẻ bình tĩnh, bí mật đánh thức tàn niệm Yamata no Orochi đang say ngủ bên trong linh hồn anh.
+Cảnh kết thúc: Hóa ra trong 2 tháng ở kết giới mà Reta không thể vào, IlHan đã cho Orochi nuốt trọn sinh mệnh lực của lũ rồng; Orochi gầm vang nghiền nát tàn niệm của Reta, phát huy tác dụng bảo hiểm cuối cùng giúp IlHan giành lại quyền kiểm soát cơ thể.
