@@ -411,3 +411,9 @@
 | great blessing |  | đại chúc phúc | kỹ năng | 75 | Kỹ năng chúc phúc thánh lực tối thượng của Na YuNa ban bùa lợi cực hạn (trong 5 phút: tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp) |
 | Dragon Slayer |  | Đồ Long Giả | danh hiệu | 76 | Danh hiệu nhận được sau khi hạ gục quái vật Long tộc Yamata no Orochi (tăng 10% mọi năng lực khi chiến đấu chống lại Long tộc) |
 | Heavenly Cloud-Gathering Sword | Ama no Murakumo no Tsurugi; Ama no Murakumo; Ame no Murakumo | Thiên Tùng Vân Kiếm | vật phẩm | 76 | Tạo tác thần kiếm phẩm cấp Truyền Thuyết thu được từ đuôi của Yamata no Orochi |
+| Wall of Chaos |  | Bức Tường Hỗn Loạn | địa danh | 77 | Tiền tuyến chiến trường ngăn cách các thế giới với các thực thể cấp cao tà ác |
+| Heaven's City |  | Thiên Thành | địa danh | 77 | Thành phố trung tâm nơi sinh sống của các thiên thần trên Thiên giới |
+| Hourglass of Eternity |  | Đồng Hồ Cát Vĩnh Hằng | vật phẩm | 77 | Tạo tác phẩm cấp Thần do Thiên giới ban thưởng, có năng lực đóng băng thời gian xung quanh tối đa 2 tháng |
+| Higher Curse Resistance |  | Kháng Lời Nguyền Cấp Cao | kỹ năng | 77 | Kỹ năng kháng nguyền rủa cấp cao nhận từ phần thưởng Nhiệm Vụ Thiên Giới 005 |
+| God rank | God-rank | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
+| predator | predators | kẻ săn mồi | chủng tộc | 77 | Các thực thể cấp cao tà ác vượt qua Bức Tường Hỗn Loạn mưu toan nuốt chửng ghi chép của mọi thế giới |

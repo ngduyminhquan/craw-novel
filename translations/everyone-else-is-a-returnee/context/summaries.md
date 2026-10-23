@@ -465,3 +465,9 @@ Trong lằn ranh sinh tử, Yu IlHan đón nhận sự khai sáng kỳ diệu, c
 Chớp thời cơ Kang MiRae tung lôi ma pháp khiến Orochi suy yếu, IlHan từ trời cao dồn trọn trọng lượng Túi Đeo Chéo phóng ngọn thương gai đâm nát tim quái xà kết liễu nó chỉ trước khi hết bùa lợi 19 giây, thăng lên cấp 87, nhận danh hiệu 'Đồ Long Giả' và tạo tác 'Thiên Tùng Vân Kiếm' rồi thu gom toàn bộ xác trùm vào túi đồ.
 Cảnh kết thúc: Mặc cho các clan quốc tế bàng hoàng và Kang MiRae rung động trước đòn đánh tuyệt luân kết nối trời đất, IlHan từ chối nghỉ ngơi mà tiếp tục giữ nguyên ẩn thân âm thầm càn quét sạch sẽ quái vật tại Chiba suốt 3 ngày trước khi bình yên trở về Hàn Quốc.
 
+
+## 77
+Yu IlHan trở về nhà tại Seoul sau khi càn quét Chiba, kiệt sức ngủ thiếp đi cạnh Lita; Erta trở về Thiên Thành để nhận phần thưởng nhiệm vụ và kinh ngạc khi hay tin Bức Tường Hỗn Loạn đang mở ra khiến toàn bộ Quân Đội Thiên Giới phải tập trung tham chiến chống lại các thực thể cấp cao tà ác (những kẻ săn mồi).
+Spiera thông báo việc hủy bỏ đặc huấn và trực tiếp phê duyệt thăng cấp cho Lita để cô ra tiền tuyến; đồng thời giải thích chiến lược của Thiên giới là mở kho báu ban thưởng hậu hĩnh cho nhân loại (mà người dẫn đầu áp đảo là Yu IlHan) để họ tự lực gánh vác việc bảo vệ Trái Đất, đồng thời khuyên răn Erta cẩn trọng trước cảm xúc tình cảm dễ dẫn đến sa ngã.
+Erta trở lại Trái Đất thông báo lệnh điều động, Lita bịn rịn hôn má IlHan dặn dò anh chờ mình và đe dọa Erta không được có tiến triển tình cảm với anh trước khi vội vã ra chiến trường Bức Tường Hỗn Loạn.
+Cảnh kết thúc: Yu IlHan hoàn thành Nhiệm Vụ Thiên Giới 005 (Đợt Sóng Hầm Ngục), nhận 7 điểm toàn chỉ số (+10 ma pháp), kỹ năng Kháng Lời Nguyền Cấp Cao và tạo tác phẩm cấp Thần 'Đồng Hồ Cát Vĩnh Hằng' có khả năng đóng băng thời gian xung quanh tới 2 tháng.

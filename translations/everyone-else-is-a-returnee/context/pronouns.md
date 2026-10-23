@@ -105,3 +105,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | HaJin | tôi / em | anh / HaJin | 67 | Em gái và anh trai (chủ clan và phó clan) |
 | Michael Smithson | Carina Malatesta | tôi / ta | cô / các vị | 73 | Hai thủ lĩnh clan kết đồng minh tạm thời |
 | Carina Malatesta | Michael Smithson | tôi / ta | anh / các vị | 73 | Hai thủ lĩnh clan kết đồng minh tạm thời |
+| Spiera | Erta | ta / tôi | Erta / cô | 77 | Spiera truyền đạt chỉ thị và giải thích quyết định của cấp trên cho Erta |
+| Erta | Spiera | tôi | ngài Spiera / Spiera-nim | 77 | Erta tranh luận và chất vấn quyết định của Spiera và hội đồng Thiên giới |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T14:17:44Z",
+  "generatedAt": "2026-10-23T14:25:38Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -461,6 +461,12 @@
           "title": "Chương 76: Giờ tôi cũng... (1)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_076.md",
           "sha": "d977dd009db01fa7ca70ed90e819b26a056ea9b4"
+        },
+        {
+          "number": 77,
+          "title": "Chương 77: Giờ tôi cũng... (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_077.md",
+          "sha": "e55a789e77afa772120a5afcc35d7db8cb698dc8"
         }
       ]
     }

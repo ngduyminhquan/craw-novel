@@ -103,6 +103,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 72: Đạt cấp 83 sau khi càn quét các quận của Tokyo; thu gom hàng chục nghìn xác quái vật chuyển chức 2 vào Túi Đeo Chéo; nảy ra ý tưởng kết hợp trọng lượng cực đại của túi với thời điểm bắn Súng Bắn Cọc nhằm triệt tiêu phản lực khi công kích quái vật.
 - Trạng thái tính đến chương 75: Lộ diện thân phận Susanoo trước toàn thể nhân loại khi dùng Súng Bắn Cọc dồn trọn trọng lượng Túi Đeo Chéo phá hủy 1 đầu của Yamata no Orochi; kích hoạt dòng thuộc tính gamma của Thương Gai Diệt Long Hắc Tử Thần (+150% tỷ lệ và sát thương chí mạng khi đánh Long tộc); kỹ năng Siêu Việt Tái Sinh thăng lên cấp 30; nhận đại chúc phúc từ Na YuNa chém đứt 1 đuôi của quái xà chuyển chức 4, thu hồi 1 đầu và 1 đuôi vào Túi Đeo Chéo.
 - Trạng thái tính đến chương 76: Đạt cấp độ 87 sau khi nhất kích tất sát quái xà chuyển chức 4 Yamata no Orochi Lv 221; thức tỉnh khả năng cảm nhận và điều khiển mana, dùng mana chủ động kích hoạt lại kỹ năng Ẩn Thân giữa chiến trường; nhận hơn 2 tỷ EXP (+7 Sức mạnh, +5 Nhanh nhẹn, +4 Thể lực, +4 Ma pháp), danh hiệu 'Đồ Long Giả' (+10% mọi năng lực khi đấu Long tộc), ghi chép của Yamata no Orochi Lv 221 và tạo tác phẩm cấp Truyền Thuyết 'Thiên Tùng Vân Kiếm'; thu gom trọn vẹn xác Orochi vào Túi Đeo Chéo; một mình càn quét sạch sẽ quái vật tại Chiba suốt 3 ngày trước khi trở về Hàn Quốc.
+- Trạng thái tính đến chương 77: Hoàn thành Nhiệm Vụ Thiên Giới 005 (Đợt Sóng Hầm Ngục), nhận 7 điểm toàn chỉ số (+10 ma pháp); nhận kỹ năng bị động [Kháng Lời Nguyền Cấp Cao]; nhận tạo tác phẩm cấp Thần [Đồng Hồ Cát Vĩnh Hằng] có khả năng triển khai kết giới đóng băng thời gian tối đa 2 tháng mỗi tháng 1 lần.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -116,6 +117,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 61: Tung kỹ năng Cận Chiến cấp đại sư đánh hơn 3.000 đòn liên hoàn nghiền nát tên thiên thần phản bội; áp giải hắn về Thiên giới để tận mắt chứng kiến hắn bị xử trảm và nhận phần thưởng nhiệm vụ cho IlHan.
 - Trạng thái tính đến chương 62: Bị Spiera giữ lại Thiên giới bắt tham gia đợt đặc huấn nâng cao thực lực trước thềm đại chiến sắp tới, khiến thời gian trở lại Trái Đất cùng Yu IlHan bị trì hoãn.
 - Trạng thái tính đến chương 64: Trở về bên Yu IlHan sau khi kẻ phản bội bị tra hỏi; ôm chặt IlHan đòi sạc năng lượng và trao phần thưởng Nhiệm Vụ Thiên Giới; phải chuẩn bị cho việc thăng cấp nên mỗi ngày vắng mặt vài tiếng để tham gia đặc huấn trên Thiên giới nhưng hứa sẽ luôn theo sát IlHan khi vào hầm ngục.
+- Trạng thái tính đến chương 77: Được phê duyệt thăng cấp không cần qua bài kiểm tra và sắp nhận tên mới; được điều động ra tiền tuyến Bức Tường Hỗn Loạn tham chiến chống lại những kẻ săn mồi; ôm hôn má IlHan chia tay và đe dọa Erta không được 'tiến triển' với IlHan trong lúc cô vắng mặt.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -127,6 +129,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 51: Cùng Lita hoàn tất báo cáo sự vụ tại Thiên giới và quay trở lại xưởng rèn của Yu IlHan.
 - Trạng thái tính đến chương 52: Thông báo kết quả hội nghị Thiên giới và việc coi IlHan là đồng minh chiến lược; hỗ trợ nâng cấp Túi Đeo Chéo và thiết lập liên kết đối tác Bạn Đồng Hành Thiên Thần với IlHan; để lộ nét tính cách tsundere ngượng ngùng khi bị IlHan phũ phàng từ chối ý định gắn bó.
 - Trạng thái tính đến chương 53: Truyền hình ảnh Long tộc giúp IlHan Chế Tác Mana cho bộ lao săn rồng; xúc động khi được IlHan mời đi chơi chung cùng Lita; cùng Lita câm nín trước lý do đi chơi để cày cấp kỹ năng của anh.
+- Trạng thái tính đến chương 77: Lên Thiên giới nhận thưởng cho IlHan; tranh luận gay gắt với Spiera vì Thiên giới quyết định giao phó việc bảo vệ Trái Đất cho nhân loại (chủ yếu là IlHan) do bận tham chiến tại Bức Tường Hỗn Loạn; được Spiera cảnh báo về cảm xúc tình yêu nguy hiểm có thể khiến thiên thần sa ngã; nhận Đồng Hồ Cát Vĩnh Hằng từ kho báu Thiên giới trao cho IlHan; ở lại làm thiên thần duy nhất bên cạnh bảo vệ IlHan.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
@@ -232,6 +235,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ thiên thần cấp cao của Quân Đội Thiên Giới, sở hữu vẻ ngoài trưởng thành hơn Lita, vũ khí là cây thương ánh sáng.
 - Tính cách: Lạnh lùng, quyết đoán, nghiêm khắc tuyệt đối với kẻ phản bội, hành động dứt khoát không khoan nhượng.
 - Trạng thái tính đến chương 62: Tự tay xử tử tên thiên thần phản bội hầm ngục Trái Đất bất chấp sự do dự của hội đồng; thẩm vấn hắn về thế lực đứng sau (Quân Đội Ma Hủy Diệt, Khu Vườn Hoàng Hôn, Quân Đội Ánh Sáng Rực Rỡ); giữ Lita lại để đặc huấn nâng cao thực lực chuẩn bị cho đại chiến.
+- Trạng thái tính đến chương 77: Thông báo Bức Tường Hỗn Loạn đang mở ra khiến toàn bộ Quân Đội Thiên Giới phải tập trung đối đầu các thực thể cấp cao tà ác; bác bỏ việc đặc huấn cho Lita và trực tiếp phê duyệt thăng cấp cho cô để ra trận; tiết lộ chiến lược mở kho báu Thiên giới thưởng lớn cho Yu IlHan để anh gánh vác việc bảo vệ Trái Đất; khuyên răn Erta cẩn trọng trước cảm xúc tình cảm dành cho sinh mệnh bậc thấp.
 
 ### Michael Smithson
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
