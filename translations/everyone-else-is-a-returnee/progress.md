@@ -64,7 +64,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | reviewed |  |
 | 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | done |  |
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | done |  |
-| 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | todo |  |
+| 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | done |  |
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | todo |  |
 | 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | todo |  |
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -571,3 +572,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#55-57] Từ Hán Việt ở Ch.57 đoạn 101? → Chấp nhận sửa đoạn thương ngắn thành ngọn đoản thương. (orchestrator)
 - [#59] Dịch tên trang bị Quick Lightning Storm's Gold Leather Bracelet? → Chốt Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ. (orchestrator)
 - [#59] Dịch địa danh Shandong, Qingdao và bia Tsingtao? → Chốt Sơn Đông, Thanh Đảo và bia Thanh Đảo. (orchestrator)
+- [#60] Tên kỹ năng bị động Language — Tạm chọn: 'Ngôn Ngữ'. Phương án khác: 'Thông Ngôn', 'Ngôn Ngữ Học'. Tạm dùng trong bản dịch: 'Ngôn Ngữ'. → Chốt Ngôn Ngữ. (orchestrator)
+- [#60] Cụm từ tic tac toe trong lời thoại của Lita ở đoạn 12 — Tạm chọn: 'chơi cờ ca-rô'. Phương án khác: 'chơi tic-tac-toe'. Tạm dùng trong bản dịch: 'chơi cờ ca-rô'. → Chốt chơi cờ ca-rô cho tự nhiên và quen thuộc với độc giả Việt Nam. (orchestrator)

@@ -98,7 +98,7 @@
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
-| Heavenly Quest | Heaven Quest | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
+| Heavenly Quest | Heaven Quest; Heaven's Quest | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
 | Republic of Korea | Korea | Hàn Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
@@ -331,3 +331,4 @@
 | Qingdao | Tsingtao | Thanh Đảo | địa danh | 59 | Thành phố ven biển thuộc tỉnh Sơn Đông, Trung Quốc, nổi tiếng với bia và thịt cừu xiên nướng |
 | Seongbuk-gu | Seongbuk | Seongbuk-gu | địa danh | 59 | Quận Seongbuk ở Seoul nơi IlHan từng tiêu diệt quái vật gấu lớn |
 | Suppression Guardian Forces | Guardian Forces | Lực Lượng Hộ Vệ Trấn Áp | tổ chức | 59 | Lực lượng dị năng giả quân đội thuộc Trấn Áp làm nhiệm vụ bảo vệ đường bay tại sân bay Incheon |
+| Language |  | Ngôn Ngữ | kỹ năng | 60 | Kỹ năng bị động giúp nghe, nói, đọc, viết hoàn hảo mọi ngôn ngữ dù mới nghe lần đầu |

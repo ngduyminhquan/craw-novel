@@ -362,3 +362,9 @@ Dùng da và ma thạch Chim Sấm Sét Khổng Lồ chuyển chức 3, Yu IlHan
 Tại Sân bay Incheon, IlHan bắt gặp đại tá Yun DaeHan và thiếu úy Han YeoRang thuộc Lực Lượng Hộ Vệ Trấn Áp; anh tạm gác ý định liên hệ bán trang bị rồi dùng Ẩn Thân trốn vé máy bay sang tỉnh Sơn Đông, Trung Quốc.
 Chứng kiến cảnh hoang tàn đổ nát tại Trung Quốc, IlHan kìm nén cảm xúc xót thương đồng loại theo lời khuyên của Lita và Erta để hướng đến hầm ngục Quegna; Lita bất ngờ nghiêm giọng phát hiện ma pháp ẩn giấu hầm ngục của lũ thiên thần phản bội với mức độ nghiêm trọng vượt dự đoán.
 Cảnh kết thúc: Khác với trận chiến bị động trước Reta Kar'iha, Yu IlHan thở phào nhẹ nhõm và tự tin mỉm cười vì kẻ nắm giữ ngôi vị bá chủ ẩn thân như anh đã nắm được thế chủ động để nghênh chiến kẻ thù.
+
+## 60
+Lita phát hiện có thiên thần phản bội che giấu hầm ngục và một kẻ hùng mạnh từ thế giới khác đã đặt chân sang Trái Đất; Lita lo lắng không muốn Yu IlHan mạo hiểm nhưng anh kiên quyết nhận Nhiệm Vụ Thiên Giới thâm nhập do thám.
+Tận dụng Ẩn Thân tiến sâu vào hầm ngục cấp thấp, IlHan chứng kiến thi thể hai phụ nữ trẻ bị làm nhục và sát hại dã man; qua kỹ năng bị động [Ngôn Ngữ] vừa thức tỉnh, anh nghe thấy cuộc đối thoại tàn nhẫn coi mạng người như cỏ rác của đại pháp sư chuyển chức 4 Dakié von Illastra cùng tên tùy tùng và nam thiên thần phản bội.
+Cơn giận bùng nổ, IlHan kích hoạt Quái Lực và Bật Nhảy lao lên không trung, dồn 40 tấn trọng lượng từ Túi Đeo Chéo vào Súng Bắn Cọc giáng thẳng đòn chí mạng nghiền nát kết giới và đại não Dakié von Illastra Lv 202, thu về hơn 511 triệu EXP, thăng lên Lv 64 và nâng Thu Thập Tử Vong lên Lv 9.
+Cảnh kết thúc: Trước sự kinh hãi tột độ của gã tùy tùng, Yu IlHan lạnh lùng đáp trả "Một kẻ bị bỏ lại, thằng chó" rồi vung thương chém bay đầu gã đàn ông bằng một đòn đánh sảng khoái khôn cùng.

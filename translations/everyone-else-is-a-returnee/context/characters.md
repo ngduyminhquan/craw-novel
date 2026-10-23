@@ -24,7 +24,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 | Reta Kar'iha |  | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
-| Dakié | Dakie; sir Dakié; Dakié von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
+| Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 
 ## Chi tiết
 
@@ -86,6 +86,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 57: Đạt cấp độ 60; thăng cấp kỹ năng Quái Lực lên Lv 15 và Thu Thập Tử Vong lên Lv 4; thức tỉnh kỹ năng có điều kiện [Bật Nhảy]; mở khóa 1/4 điều kiện nhận kỹ năng chủ động [Phản Kích] sau khi phối hợp Súng Bắn Cọc và Atlatl Xương Nguyệt Quang Thô Ráp tiêu diệt quái vật chuyển chức lần 3 Chim Sấm Sét Khổng Lồ Lv 122.
 - Trạng thái tính đến chương 58: Tiêu diệt tổng cộng 4 Chim Sấm Sét Khổng Lồ Lv 122 chuyển chức 3 trong hầm ngục Gangwon-do, nâng Quái Lực lên Lv 16 và Nấu Nướng lên Lv 21; thu hoạch 2 viên ma thạch chuyển chức 3 hệ sấm sét để làm trượng cho Kang MiRae; Súng Bắn Cọc Kim Loại hấp thụ mana lôi điện tiến hóa thành Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi (Phẩm cấp Truyền Thuyết, bắn tầng 4 giảm 200 độ bền tối đa); chuẩn bị trang bị lên đường sang Trung Quốc.
 - Trạng thái tính đến chương 59: Chế tạo thành công tạo tác phụ kiện 'Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ' (Phẩm cấp Độc Nhất, Phòng thủ 1.700, tăng 20% tốc độ hồi phục mana, khi trúng đòn tạo bão sấm sét 1 lần/ngày) từ da và ma thạch Chim Sấm Sét Khổng Lồ; dùng Ẩn Thân trốn vé máy bay sang tỉnh Sơn Đông (Trung Quốc) dọn hầm ngục Quegna và cùng Lita phát hiện ma pháp ẩn giấu hầm ngục của phe phản bội.
+- Trạng thái tính đến chương 60: Thức tỉnh kỹ năng bị động [Ngôn Ngữ]; phối hợp Quái Lực, Bật Nhảy và Chuyển giao trọng lượng dồn 40 tấn từ Túi Đeo Chéo vào Súng Bắn Cọc nhất kích tất sát đại pháp sư chuyển chức 4 Dakié von Illastra Lv 202; nhận hơn 511 triệu EXP, thăng lên cấp 64 (+6 Sức mạnh, +5 Nhanh nhẹn, +4 Thể lực, +5 Ma pháp), nâng Thu Thập Tử Vong lên Lv 9 và thu hoạch sinh mệnh lực cùng ghi chép của Dakié; vung thương chém bay đầu gã tùy tùng phản bội.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -190,5 +191,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Dùng thẩm quyền của mình phê duyệt quyết định tăng viện gấp 4 lần số lượng thiên thần tới Trái Đất và hứa ban phần thưởng xứng đáng nhất cho Yu IlHan.
 
 ### Dakié
-- Giới tính, vai trò: Pháp sư cấp 4 (4th class mage) thuộc một đế quốc ở thế giới khác, đang bí mật câu kết với người trên Trái Đất và một nam thiên thần biến chất để kết nối chiều không gian và biến dị hầm ngục nhằm mưu đồ xâm lấn Trái Đất.
+- Giới tính, vai trò: Pháp sư cấp 4 (4th class mage) Lv 202 thuộc một đế quốc ở thế giới khác, câu kết với gã phản bội trên Trái Đất và một nam thiên thần biến chất để kết nối chiều không gian và mở rộng hầm ngục nhằm xâm chiếm Trái Đất.
+- Trạng thái tính đến chương 60: Bị Yu IlHan dùng Súng Bắn Cọc dồn 40 tấn từ trên cao đập nát đại não và kết liễu ngay trong hầm ngục bị che giấu tại Trung Quốc.
 
