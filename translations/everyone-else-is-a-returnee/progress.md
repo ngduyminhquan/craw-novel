@@ -69,7 +69,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | reviewed |  |
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | reviewed |  |
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | done |  |
-| 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | todo |  |
+| 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | done |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | todo |  |
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | todo |  |
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | todo |  |
@@ -597,3 +597,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#61-63] Cập nhật glossary.md? → Chấp nhận thêm 'power of life → sinh mệnh lực' và 'elven empire → đế chế elf'. (orchestrator)
 - [#64] Tên vũ khí Truyền Thuyết "Lightning God-blessed Heavenly Lightning Excitement Bone Staff" — Tạm chọn: "Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc". Phương án khác: "Cốt Trượng Lôi Thần Chúc Phúc Thiên Lôi Hưng Phấn". Tạm dùng trong bản dịch: "Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc". → Chốt 'Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc' (orchestrator)
 - [#64] Tên kỹ năng đặc biệt "Excitement" trên vũ khí — Tạm chọn: "Hưng Phấn" (dịch Hán Việt từ nguyên tác tiếng Hàn 흥분). Phương án khác: "Cuồng Nhiệt". Tạm dùng trong bản dịch: "Hưng Phấn". → Chốt 'Hưng Phấn' (orchestrator)
+- [#65] Địa danh Gangnam reinforced area → Chốt 'Khu gia cố Gangnam' (orchestrator)

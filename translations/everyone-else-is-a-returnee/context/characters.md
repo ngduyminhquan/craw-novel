@@ -130,6 +130,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Đón Kang HaJin và Na YuNa tại sân bay Incheon; nhận nọc độc bọ cạp để hoàn thành đủ điều kiện chuyển chức lần 2; nghe Na YuNa kể về Yu IlHan và nảy sinh lòng hiếu thắng muốn vượt qua anh.
 - Trạng thái tính đến chương 54: Nhận cuộc gọi bất ngờ từ Yu IlHan đề nghị bán vũ khí và áo giáp phẩm cấp Độc Nhất được tối ưu theo đặc tính của cô; lập tức đồng ý và đề nghị đặt thêm trọn bộ trang bị cho Na YuNa và anh trai Kang HaJin.
 - Trạng thái tính đến chương 55: Gặp mặt IlHan tháo mặt nạ để thể hiện sự tôn trọng; đặt hàng một cây trượng và áo choàng pháp sư có dòng thuộc tính beta (giảm thời gian hồi chiêu kỹ năng ma pháp và tăng hồi phục ma pháp) với giá lên tới 17 tỷ won; tiết lộ từng chứng kiến Cung Đình Ma Pháp Trưởng của đế quốc Palladia dùng trượng Độc Nhất một mình diệt quái vật chuyển chức lần 4.
+- Trạng thái tính đến chương 65: Mua Cốt Trượng phẩm cấp Truyền Thuyết và Áo Choàng phẩm cấp Độc Nhất từ Yu IlHan với giá 100 tỷ won (kèm quyền sở hữu một tòa nhà); thề sẽ nỗ lực vượt qua anh; bộc lộ tham vọng chiếm hữu và khao khát nâng cao giá trị bản thân để xứng đáng chinh phục IlHan, quyết tâm không để Na YuNa cướp mất anh.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -183,6 +184,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 47: Bị kẹt trong hầm ngục cùng HaJin; dùng thánh lực và câu niệm chú đặc trưng hóa giải toàn bộ nguyền rủa, hồi phục thể lực cho IlHan và ban bùa lợi cực mạnh giúp HaJin húc văng quái vật tử thần.
 - Trạng thái tính đến chương 49: Bị IlHan từ chối xin số điện thoại; biết tên thật của IlHan và chuyển sang gọi anh là 'IlHan'; hào hứng trước phản ứng phũ phàng khác lạ của IlHan; cùng HaJin lên máy bay về Hàn Quốc và hy vọng sớm tái ngộ IlHan.
 - Trạng thái tính đến chương 50: Về đến sân bay Incheon cùng Kang HaJin; phơi bày việc HaJin bị đập tơi tả và không ngừng liến thoắng khen ngợi thực lực phi thường của Yu IlHan trước mặt Kang MiRae.
+- Trạng thái tính đến chương 65: Tới quán trà ứng cứu tiền cho Kang MiRae; vung tiền chuyển khoản 150 tỷ won và hứa tặng thêm một tòa nhà ở khu gia cố Gangnam của ông nội để đặt cọc IlHan chế tạo trọn bộ trang bị cho mình và HaJin; để lộ sự chú ý và hứng thú với IlHan như một ứng viên "cháu rể" tiềm năng.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

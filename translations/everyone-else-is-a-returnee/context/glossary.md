@@ -352,3 +352,5 @@
 | Bone Staff |  | Cốt Trượng | vật phẩm | 64 | Vũ khí gậy phép chế tác từ xương quái vật |
 | Excitement |  | Hưng Phấn | kỹ năng | 64 | Kỹ năng đặc biệt của Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc |
 | Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |
+| Holy stone | holy stones; Holy stone; Holy Stone | Thánh thạch | vật phẩm | 65 | Khoáng thạch chứa năng lượng thánh lực |
+| Gangnam reinforced area |  | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |
