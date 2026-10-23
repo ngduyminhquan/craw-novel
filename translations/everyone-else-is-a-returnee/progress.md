@@ -70,7 +70,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | reviewed |  |
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | done |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | done |  |
-| 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | todo |  |
+| 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | done |  |
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | todo |  |
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | todo |  |
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | todo |  |
@@ -598,3 +598,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#64] Tên vũ khí Truyền Thuyết "Lightning God-blessed Heavenly Lightning Excitement Bone Staff" — Tạm chọn: "Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc". Phương án khác: "Cốt Trượng Lôi Thần Chúc Phúc Thiên Lôi Hưng Phấn". Tạm dùng trong bản dịch: "Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc". → Chốt 'Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc' (orchestrator)
 - [#64] Tên kỹ năng đặc biệt "Excitement" trên vũ khí — Tạm chọn: "Hưng Phấn" (dịch Hán Việt từ nguyên tác tiếng Hàn 흥분). Phương án khác: "Cuồng Nhiệt". Tạm dùng trong bản dịch: "Hưng Phấn". → Chốt 'Hưng Phấn' (orchestrator)
 - [#65] Địa danh Gangnam reinforced area → Chốt 'Khu gia cố Gangnam' (orchestrator)
+- [#66] Tên thương hiệu Vanguard → Giữ nguyên 'Vanguard' (orchestrator)
+- [#66] Trang bị Frightening Hard Leather Gauntlet → Chốt 'Hộ Thủ Da Cứng Kinh Hãi' (orchestrator)
+- [#66] Thực thể God of Smithing → Chốt 'Thần Rèn Đúc' (orchestrator)

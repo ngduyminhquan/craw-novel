@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T09:41:28Z",
+  "generatedAt": "2026-10-23T09:52:43Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -395,6 +395,12 @@
           "title": "Chương 65: Tôi cũng là chủ tòa nhà (3)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_065.md",
           "sha": "cd1663ebfbdda937a92e8fb5eaeff76c704fbc5d"
+        },
+        {
+          "number": 66,
+          "title": "Chương 66: Tôi Cũng Là Chủ Tòa Nhà 4",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_066.md",
+          "sha": "5148a9665ca59832abe8677e0e72bec2ad717a5d"
         }
       ]
     }

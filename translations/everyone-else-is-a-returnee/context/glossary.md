@@ -353,4 +353,9 @@
 | Excitement |  | Hưng Phấn | kỹ năng | 64 | Kỹ năng đặc biệt của Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc |
 | Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |
 | Holy stone | holy stones; Holy stone; Holy Stone | Thánh thạch | vật phẩm | 65 | Khoáng thạch chứa năng lượng thánh lực |
-| Gangnam reinforced area |  | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |
+| Gangnam reinforced area | Gangnam reinforced district | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |
+| God of Smithing |  | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic |
+| God of Warriors |  | Thần Chiến Binh | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép chiến đấu trong Hồ Sơ Akashic |
+| Vanguard |  | Vanguard | tổ chức | 66 | Tên thương hiệu và công ty sản xuất trang bị do Yu IlHan thành lập |
+| Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
+| holy power |  | thánh lực | hệ thống | 66 | Năng lượng thần thánh dị năng giả sử dụng, thực chất là một dạng mana |

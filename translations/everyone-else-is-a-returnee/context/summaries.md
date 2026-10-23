@@ -397,3 +397,9 @@ Yu IlHan gặp lại Kang MiRae tại quán trà cũ để giao cây trượng T
 Khi IlHan đưa thêm áo choàng Độc Nhất, MiRae đành gọi bạn thân Na YuNa đến tiếp viện tài chính; YuNa xuất hiện đòi đặt IlHan làm trọn bộ trang bị cho mình và HaJin, sẵn sàng thế chấp thêm cả một tòa nhà tại khu gia cố Gangnam của ông nội.
 Giao dịch chốt gọn gàng ở mức 150 tỷ won tiền mặt cùng quyền sở hữu một tòa nhà (bao trọn thuế), khiến IlHan và cả Erta đều câm nín trước độ giàu sang ngậm thìa kim cương của hai đại tiểu thư.
 Cảnh kết thúc: Sau khi IlHan rời đi, Na YuNa gặng hỏi chuyện tình cảm khiến Kang MiRae nhận ra khát vọng mãnh liệt muốn chinh phục và chiếm hữu một người đàn ông xuất chúng như IlHan bằng chính giá trị bản thân, quyết tâm không để YuNa cướp mất anh mà không hề hay biết đối thủ lớn nhất của mình không chỉ có YuNa.
+
+## 66
+Yu IlHan nhận bàn giao tòa nhà 14 tầng nổi và 5 tầng hầm tại khu gia cố Gangnam; anh quyết định lập công ty và đăng ký thương hiệu 'Vanguard' với mục tiêu bán trang bị tự chế nhằm nâng tầm thực lực cho nhân loại Trái Đất, đồng thời chi tiền mua trọn tầng cao nhất của khu chung cư đắt đỏ gần đó làm nơi ở và thuê công ty quản lý tòa nhà.
+Nhờ các thiên thần nam hỗ trợ, IlHan chuyển xưởng rèn xuống tầng hầm thứ 5 và gia cố ma pháp bảo hộ; trong suốt hai tuần, anh rèn hàng loạt trang bị phẩm cấp Hiếm (như Hộ Thủ Da Cứng Kinh Hãi phòng thủ 1.900) từ phụ phẩm quái vật cấp 30-40, liên tục mài giũa kỹ nghệ vượt bậc.
+Bất ngờ, Thần Rèn Đúc từ không gian xa xôi phát hiện IlHan và hứa ban phước lành nếu anh hoàn thành hai nhiệm vụ; Erta giải thích các vị thần thực chất chỉ là những bản ngã hư cấu sinh ra từ ghi chép tích lũy của Hồ Sơ Akashic và muốn lấy thêm ghi chép rèn đúc từ IlHan để mạnh lên.
+Cảnh kết thúc: Yu IlHan nổi cơn lôi đình nhận ra vị Thần rảnh rỗi này chỉ thông báo ban thưởng sau hai nhiệm vụ nhưng lại không thèm nói nội dung hai nhiệm vụ đó rốt cuộc là cái quái gì.
