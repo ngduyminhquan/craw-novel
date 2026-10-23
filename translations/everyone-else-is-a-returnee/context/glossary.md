@@ -488,3 +488,4 @@
 | Sim City |  | Sim City | khác | 102 | Được phép giữ nguyên: Trò chơi điện tử mô phỏng quản lý đô thị mà Yu IlHan liên tưởng khi chỉ đạo tái thiết cộng đồng elf |
 | Hollywood |  | Hollywood | địa danh | 103 | Được phép giữ nguyên: Đô thị điện ảnh nổi tiếng tại Los Angeles |
 | 2nd Great Cataclysm |  | Đại Tai Biến lần 2 | hệ thống | 62 | Đợt bùng nổ mana và nâng cấp thế giới tiếp theo của Trái Đất |
+| Taegukgi |  | cờ Thái Cực | khác | 104 | Quốc kỳ của Đại Hàn Dân Quốc |

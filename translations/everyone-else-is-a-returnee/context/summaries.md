@@ -643,3 +643,10 @@ Khi IlHan tuyên bố trở về Trái Đất, toàn thể tộc elf òa khóc n
 Trước sự nài nỉ và tấn công dồn dập bằng ánh mắt của các elf, IlHan đồng ý cho 4 người mạnh nhất vượt qua trận đại chiến sinh tồn (nữ đại kiếm Mirey, nam cung thủ Paté, nam khiên binh Jirl, nữ đạo tặc Phiria) theo chân anh về Trái Đất với điều kiện không được gọi anh là Bệ hạ.
 Cảnh kết thúc: Mượn sức mạnh của Erta đục "lỗ chó" xuyên qua cánh cổng, Yu IlHan cùng 4 elf bước chân trở về Trái Đất và bàng hoàng nhận ra suốt 3 tháng anh vắng bóng, nơi đây vẫn hoàn toàn thái bình mà chưa hề xảy ra Đại Tai Biến lần 2 như anh lo sợ.
 
+## 104
+Trong ba tháng IlHan vắng mặt, Trái Đất thích ứng nhanh chóng với Đại Tai Biến; 26 clan mua trang bị từ Vanguard cùng Clan Lôi Thần và lực lượng Trấn Áp phát triển vượt bậc, đưa tên tuổi của IlHan và Vanguard trở thành tâm điểm bàn tán và phóng tác của toàn cầu.
+Yu IlHan bật Ẩn Thân dắt 4 elf đi lậu máy bay từ Mỹ về Hàn Quốc; các elf bị ngợp bởi mật độ mana quá thấp và không hiểu ngôn ngữ Trái Đất nên Erta lập tức bay về Thiên giới xin tạo tác thông dịch và thám thính tình hình của Lita theo sự lo lắng của IlHan.
+IlHan gọi điện cho mẹ và biết tin bố đã nghỉ việc do công ty phá sản nên ngỏ ý đón bố về phụ trách việc tại Vanguard; sau đó anh dẫn 4 elf cuồng tín tới căn hộ chung cư ở Gangnam chuẩn bị phổ cập nếp sống Trái Đất.
+Cảnh kết thúc: Cảm nhận được sự hiện diện quen thuộc trong phòng ngủ, IlHan mở cửa bước vào thì thấy một mỹ nhân mang hai đôi cánh (Lita sau khi thăng cấp chuyển chức 6) đang say sưa ngáy khò khò trên chiếc giường king-size của anh.
+
+

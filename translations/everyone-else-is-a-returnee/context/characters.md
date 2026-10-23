@@ -151,11 +151,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 64: Trở về bên Yu IlHan sau khi kẻ phản bội bị tra hỏi; ôm chặt IlHan đòi sạc năng lượng và trao phần thưởng Nhiệm Vụ Thiên Giới; phải chuẩn bị cho việc thăng cấp nên mỗi ngày vắng mặt vài tiếng để tham gia đặc huấn trên Thiên giới nhưng hứa sẽ luôn theo sát IlHan khi vào hầm ngục.
 - Trạng thái tính đến chương 77: Được phê duyệt thăng cấp không cần qua bài kiểm tra và sắp nhận tên mới; được điều động ra tiền tuyến Bức Tường Hỗn Loạn tham chiến chống lại những kẻ săn mồi; ôm hôn má IlHan chia tay và đe dọa Erta không được 'tiến triển' với IlHan trong lúc cô vắng mặt.
 - Trạng thái tính đến chương 91: Đã chính thức nhận tên mới là Liera sau khi chuyển chức lên cấp 6 (xem chi tiết tại mục Liera).
+- Trạng thái tính đến chương 104: Bất ngờ xuất hiện trong phòng ngủ của IlHan tại căn hộ Gangnam với diện mạo mỹ nhân mang hai đôi cánh (sau khi thăng cấp lên chuyển chức 6) và say sưa ngủ ngáy khò khò trên giường king-size của anh.
 
 ### Liera
 - Giới tính, vai trò: Nữ thiên thần, đại thiên thần thuộc Quân Đội Thiên Giới, chuyển chức lần 6; tên mới của Lita sau khi thăng cấp (lộ diện từ chương 91).
 - Tính cách, cách nói chuyện: Kế thừa trọn vẹn tình cảm sâu đậm và thói quen gọi tên Yu IlHan mọi lúc mọi nơi; trong chiến đấu vô cùng thiện chiến, hung mãnh và quyết đoán, được kẻ thù gán cho danh xưng 'Huyết Thiên Thần'.
 - Trạng thái tính đến chương 91: Là thành viên duy nhất của Lực Lượng Đột Kích 11 tại tiền tuyến Bức Tường Hỗn Loạn; sở hữu sức mạnh kết hợp hoàn hảo giữa quyền thuật và thương ánh sáng; quét sạch bầy kẻ săn mồi chuyển chức 5 và 6 của Quân Đội Ma Hủy Diệt; bị phục kích dịch chuyển sang phía bên kia Bức Tường Hỗn Loạn nhưng dùng đòn kích nổ găng tay tiêu diệt hầu hết kẻ địch cấp 6 xung quanh, sau đó một mình cầm thương ánh sáng lao vào tử chiến vì tin tưởng IlHan đang đợi mình.
+- Trạng thái tính đến chương 104: Trở về an toàn từ tiền tuyến Bức Tường Hỗn Loạn, lén vào phòng ngủ của Yu IlHan tại chung cư Gangnam và nằm ngủ say sưa trên giường anh.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -197,10 +199,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thận trọng, thực tế, kinh ngạc trước thực lực dị thường của Yu IlHan.
 
 ### Kim YeSeul
-- Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái. Bị chuyển đến thế giới Ya-umin trong 10 năm; trở về bình an với phần thưởng nhiệm vụ toàn nguyên liệu nấu ăn ngon lành; ủng hộ IlHan bỏ học đại học để theo đuổi con đường riêng nhưng mê mẩn chiếc Túi Đeo Chéo của con trai vì tiện đi chợ.
+- Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái nhưng lời nói vô cùng sắc sảo, thẳng thắn. Bị chuyển đến thế giới Ya-umin trong 10 năm; trở về bình an với phần thưởng nhiệm vụ toàn nguyên liệu nấu ăn ngon lành; ủng hộ IlHan bỏ học đại học để theo đuổi con đường riêng nhưng mê mẩn chiếc Túi Đeo Chéo của con trai vì tiện đi chợ.
+- Trạng thái tính đến chương 104: Biết IlHan là chủ tịch Vanguard; thông báo bố IlHan nghỉ việc do công ty phá sản và đồng ý để bố anh sang làm việc quản lý tại Vanguard; từ chối dọn về Gangnam vì tự tin có năng lực chăm sóc gia đình.
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.
+- Trạng thái tính đến chương 104: Công ty bị phá sản do ngành nghề mất đi vị thế sau Đại Tai Biến; được vợ và IlHan thu xếp công việc quản lý cửa hàng tại Vanguard.
 
 ### Han YeoRang
 - Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
@@ -330,4 +334,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Jirl: Nam elf chiến binh khiên Lv 85.
 - Phiria: Nữ elf đạo tặc Lv 83.
 - Đặc điểm chung: Đều là các chiến binh mạnh nhất vượt qua trận hỗn chiến tuyển chọn; nhờ ăn thịt theo lệnh IlHan mà cơ bắp săn chắc nhưng cả 4 người (kể cả 2 nam elf) đều sở hữu dung nhan đẹp tựa mỹ nữ; được IlHan đưa theo về Trái Đất.
+- Trạng thái tính đến chương 104: Theo chân Yu IlHan về Trái Đất, bị suy giảm sức mạnh do chênh lệch mật độ mana giữa Daréu và Trái Đất; tôn sùng IlHan là "alpha và omega", luôn miệng gọi anh là Bệ hạ / Bệ hạ Hung Bạo; được IlHan đưa về căn hộ chung cư ở Gangnam và chuẩn bị được học nếp sống Trái Đất.
 

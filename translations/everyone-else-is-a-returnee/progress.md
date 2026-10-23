@@ -108,7 +108,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 101 |  | Chapter_101 - I Am A Drifter of My Soul 1.txt | I Am A Drifter of My Soul 1 | reviewed |  |
 | 102 |  | Chapter_102 - I Am A Drifter of My Soul 2.txt | I Am A Drifter of My Soul 2 | reviewed |  |
 | 103 |  | Chapter_103 - I Am A Drifter of My Soul 3.txt | I Am A Drifter of My Soul 3 | done |  |
-| 104 |  | Chapter_104 - I Am A Drifter of My Soul 4.txt | I Am A Drifter of My Soul 4 | todo |  |
+| 104 |  | Chapter_104 - I Am A Drifter of My Soul 4.txt | I Am A Drifter of My Soul 4 | done |  |
 | 105 |  | Chapter_105 - I Am A Drifter of My Soul 5.txt | I Am A Drifter of My Soul 5 | todo |  |
 | 106 |  | Chapter_106 - I Am A Drifter of My Soul 6.txt | I Am A Drifter of My Soul 6 | todo |  |
 | 107 |  | Chapter_107 - I Am A Drifter of My Soul 7.txt | I Am A Drifter of My Soul 7 | todo |  |
@@ -697,3 +697,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#102] Danh xưng "Your Majesty the Emperor" / "Your Majesty" và xưng hô của tộc elf với Yu IlHan → Chốt "Emperor" → "Hoàng đế" (bỏ "Your Majesty the Emperor; Majesty" khỏi Alias của "Emperor" để mỗi khái niệm một dòng và tránh cảnh báo giả), trong thoại dịch "Your Majesty the Emperor" là "Hoàng đế bệ hạ", "Your Majesty" là "Bệ hạ", các elf tự xưng "chúng thần" / "thần" và gọi IlHan là "ngài" / "bệ hạ". (orchestrator)
 - [#100-102] Các câu hỏi review chương 100-102: sửa "cắn vào cổ Lecidna" (#100 đoạn 50), "Quân Đội Thiên Giới chúng tôi" (#101 đoạn 38), "[Khàààà!]" (#101 đoạn 101), xưng hô "tôi" với Erta (#102 đoạn 155), và đề xuất thêm transcender group vào glossary.md cùng Kroaaaaar vào style.md → Chấp nhận toàn bộ các chỉnh sửa văn bản ở chương 100-102 (đoạn 50, 108 chương 100; đoạn 38, 51, 101 chương 101; đoạn 23, 155 chương 102); bác đề xuất thêm cụm từ chung transcender group vào glossary.md và biến thể âm thanh Kroaaaaar vào style.md. (orchestrator)
 - [#103] Chuẩn hóa thuật ngữ 2nd Great Cataclysm và các từ chung trong glossary.md → Chốt 2nd Great Cataclysm → Đại Tai Biến lần 2 (bỏ dấu / và đồng bộ với chương 62-84); xóa 3 từ/cụm từ chung viết thường (meister, battle royale, mana crafter magic stone) khỏi glossary.md. (orchestrator)
+- [#104] Chuẩn hóa thuật ngữ Taegukgi và các cụm từ chung trong glossary.md → Chốt Taegukgi → cờ Thái Cực (bỏ dấu / và bỏ Korean flag khỏi Alias); xóa 2 cụm từ miêu tả chung viết thường (translation magic, translation artifact) khỏi glossary.md. (orchestrator)

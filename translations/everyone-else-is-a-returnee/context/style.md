@@ -38,6 +38,8 @@
 | Hiccup | Nấc | Tiếng nấc cục nghẹn họng vì kinh hãi tột độ |
 | ehem | Khụ khụ / Hắng giọng | Tiếng hắng giọng chữa ngượng |
 | Blerrrgh | Ọe / Oẹ | Tiếng thè lưỡi giả vờ nôn mửa hoặc ghê tởm của Erta |
+| Puh | Phụt / Phì | Tiếng bật cười phì, cười phụt ra |
+| Heheh | Hì hì / He he | Tiếng cười khẽ, đắc ý |
 
 ## Đặc điểm ghi nhận theo chương
 
