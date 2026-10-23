@@ -104,7 +104,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 97 |  | Chapter_097 - You, I, Strangers 15.txt | You, I, Strangers 15 | reviewed |  |
 | 98 |  | Chapter_098 - You, I, Strangers 16.txt | You, I, Strangers 16 | reviewed |  |
 | 99 |  | Chapter_099 - You, I, Strangers 17.txt | You, I, Strangers 17 | reviewed |  |
-| 100 |  | Chapter_100 - You, I, Strangers 18.txt | You, I, Strangers 18 | todo |  |
+| 100 |  | Chapter_100 - You, I, Strangers 18.txt | You, I, Strangers 18 | done |  |
 | 101 |  | Chapter_101 - I Am A Drifter of My Soul 1.txt | I Am A Drifter of My Soul 1 | todo |  |
 | 102 |  | Chapter_102 - I Am A Drifter of My Soul 2.txt | I Am A Drifter of My Soul 2 | todo |  |
 | 103 |  | Chapter_103 - I Am A Drifter of My Soul 3.txt | I Am A Drifter of My Soul 3 | todo |  |
@@ -690,3 +690,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#98] Tên quái "Flame Dragon" (quái rồng lửa cấp 225 tại Daréu) — Tạm chọn: "Hỏa Long" (đồng bộ với Thiết Giáp Hỏa Long). Phương án khác: "Viêm Long". Tạm dùng trong bản dịch: "Hỏa Long". → Chốt "Hỏa Long" (đồng bộ với Thiết Giáp Hỏa Long đã có trong glossary.md). (orchestrator)
 - [#99] Tên quái / ghi chép "Cursed Dragon" (quái vật loài rồng chuyển chức 4 cấp 242 của Karrows) — Tạm chọn: "Nguyền Long" (đồng bộ với Hỏa Long, Hạ Đẳng Long, Hắc Viêm Long). Phương án khác: "Rồng Nguyền Rủa", "Ma Long Nguyền Rủa". Tạm dùng trong bản dịch: "Nguyền Long". → Chốt "Nguyền Long" theo quy tắc Hán Việt ngắn gọn của rules.md và đồng bộ với Hỏa Long, Hạ Đẳng Long, Hắc Viêm Long. (orchestrator)
 - [#97-99] Các câu hỏi review chương 97-99: sửa "diện đối diện" (#98 đoạn 86), "Kháng hỏa thuộc tính" (#97 đoạn 70), "kỹ năng Thu hồi vật sở hữu từ xa" (#98 đoạn 72), "mọi bảo hiểm" (#99 đoạn 132) và đề xuất thêm Orochi/??? vào pronouns.md cùng 4 cụm từ chung vào glossary.md → Chấp nhận toàn bộ 4 mục chỉnh sửa câu văn ở chương 97-99; bác đề xuất thêm Orochi/??? vào pronouns.md (chưa có trong bảng nhân vật của characters.md) và bác đề xuất thêm 4 cụm từ chung vào glossary.md. (orchestrator)
+- [#100] Thuật ngữ "casting off one's shell" / "shell" dịch thế nào? → Dịch "casting off one's shell" là "lột bỏ lớp vỏ" (lưu trong glossary.md), còn từ đơn "shell" dịch là "lớp vỏ" trong ngữ cảnh tàn dư thế giới bậc thấp nhưng không thêm từ đơn "shell" vào glossary.md để tránh bắt nhầm từ chung. (orchestrator)

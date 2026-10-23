@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T22:41:16Z",
+  "generatedAt": "2026-10-23T23:04:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -599,6 +599,12 @@
           "title": "Chương 99: Bạn, Tôi, Kẻ Xa Lạ 17",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_099.md",
           "sha": "27a6419ae9b81b23eb8cd95bdf44cdaddd6724bc"
+        },
+        {
+          "number": 100,
+          "title": "Chương 100: Bạn, Tôi, Kẻ Xa Lạ 18",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_100.md",
+          "sha": "59afa8d517f6f08e8618208467d11b2a1e333753"
         }
       ]
     }

@@ -480,3 +480,5 @@
 | Blowing Barrier |  | Cuồng Phong Kết Giới | kỹ năng | 98 | Ma pháp phong hệ dựng kết giới gió phòng thủ của bầy rồng phe Khu Vườn Hoàng Hôn |
 | Storm Guard |  | Phong Bạo Hộ Thể | kỹ năng | 98 | Kỹ năng ma pháp phong hệ bao bọc cuồng phong quanh thân để phòng thủ và quấy nhiễu địch của Lecidna |
 | Cursed Dragon |  | Nguyền Long | quái vật | 99 | Quái vật loài rồng chuyển chức 4 cấp 242 (Karrows) sở hữu hỏa diễm nguyền rủa |
+| dragon-tongue |  | tiếng rồng | khác | 93 | Ngôn ngữ cổ xưa của loài rồng mà Yu IlHan có thể hiểu được nhờ kỹ năng Ngôn Ngữ |
+| casting off one's shell | cast off one's shell; cast away one's shell | lột bỏ lớp vỏ | khác | 100 | Quá trình thực thể cấp cao giải phóng toàn bộ năng lượng tàn dư thế giới bậc thấp (phần tàn dư gọi là lớp vỏ - shell) |
