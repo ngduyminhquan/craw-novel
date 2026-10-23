@@ -27,7 +27,14 @@ translations/<slug>/
     glossary.md         # thuật ngữ, kỹ năng, danh hiệu, vật phẩm, địa danh
     summaries.md        # tóm tắt 3–5 dòng mỗi chương
   vi/Chapter_001.md     # bản dịch, đánh số theo cột # của progress.md
+  vi/images/            # ảnh nhúng trong chương (mục E), vd ch012-ban-do-tang-1.webp
 ```
+
+File chương được app Novel Reader đọc **theo từng dòng, không render Markdown** (chi tiết: `chapter-image-guide.md` ở repo root):
+- dòng có chữ đầu tiên `# ...` là tiêu đề; dòng trống bị bỏ qua;
+- dòng điều hướng `[<chữ>](Chapter_<số>.md)`, nhiều link ngăn bằng ` | `, bị bỏ qua. Sai định dạng thì app hiện nó như một đoạn văn;
+- dòng chỉ gồm đúng một `![chú thích](đường dẫn)` là một khối ảnh;
+- mọi dòng khác là một đoạn văn, hiển thị nguyên từng ký tự: `*`, `_` không thành in đậm/in nghiêng, `[...]` không phải link.
 
 Các bảng trong context được script đọc. Giữ đúng tên cột, mỗi dòng một mục, không thêm `|` trong ô.
 
@@ -70,7 +77,8 @@ Sau đó:
 Ghi vào file bản dịch script đã in ra (`translations/<slug>/vi/Chapter_NNN.md`).
 
 - Dòng đầu: `# Chương N: <tiêu đề dịch>`, rồi một dòng trống.
-- Dịch **đủ từng đoạn**, theo đúng thứ tự. Mỗi đoạn raw thành một đoạn dịch, cách nhau dòng trống. Không tóm tắt, không bỏ câu, không thêm nội dung.
+- Dịch **đủ từng đoạn**, theo đúng thứ tự. Mỗi đoạn raw thành một đoạn dịch **trên một dòng**, cách nhau dòng trống. Không ngắt một đoạn ra nhiều dòng. Không tóm tắt, không bỏ câu, không thêm nội dung.
+- Không tự thêm ảnh. File chương đã có dòng ảnh (dịch lại, sửa chương) thì giữ nguyên dòng đó và vị trí của nó.
 - Bỏ ghi chú translator (T/N) của raw. T/N kẹp trong câu thì chỉ bỏ phần ghi chú, vẫn dịch phần truyện của câu đó.
 - Quyết định bỏ hẳn một dòng raw không phải truyện (vd bảng chú giải ký hiệu của bản EN) thì ghi lý do vào `rules.md` và thêm nguyên văn dòng đó vào `raw_ignore_lines` trong `novel.json`, để QA không báo thiếu đoạn.
 - Theo `rules.md` (tên, thuật ngữ, định dạng) và `style.md` (giọng văn). Mỗi lời thoại phải đúng xưng hô trong `pronouns.md` cho cặp người nói/người nghe ở thời điểm của chương.
@@ -123,7 +131,7 @@ Dịch xong mọi chương của lượt (hoặc sau mục D), chạy từ repo 
 python scripts/build_index.py
 ```
 
-Script ghi lại `index.json` ở gốc repo (danh sách truyện và chương cho app đọc, spec ở `index-json-spec.md`). Thoát với `[LỖI]` (trùng số chương, `novel.json` sai JSON...) thì sửa đúng file được nêu rồi chạy lại. `[cảnh báo] ... chưa git add` là bình thường khi chưa stage: khi commit thì commit `index.json` **cùng lúc** với các chương đó để `sha` khớp. Đã `git add` chương thì chạy lại script trước khi commit.
+Script ghi lại `index.json` ở gốc repo (danh sách truyện và chương cho app đọc, spec ở `index-json-spec.md`). Thoát với `[LỖI]` (trùng số chương, `novel.json` sai JSON, dòng ảnh sai theo mục E...) thì sửa đúng file được nêu rồi chạy lại. `[cảnh báo] ... chưa git add` là bình thường khi chưa stage: khi commit thì commit `index.json` **cùng lúc** với các chương đó để `sha` khớp. Đã `git add` chương thì chạy lại script trước khi commit.
 
 Chạy dưới orchestrator thì **bỏ qua** bước này: orchestrator tự sinh `index.json` lúc commit.
 
@@ -160,11 +168,30 @@ Dùng khi được giao review, thường là 3 chương vừa dịch. **Không 
 Dùng khi được giao file báo cáo review kèm file quyết định của orchestrator.
 
 1. Đọc file quyết định trước. Chỉ sửa các mục được **chấp nhận**, và mục nào orchestrator ghi lại cách sửa thì sửa theo cách đó. Mục bị bác thì bỏ qua.
-2. Sửa thẳng trong `vi/Chapter_NNN.md`. Một lỗi có cùng kiểu (cùng thuật ngữ, cùng cặp xưng hô) thì sửa hết mọi chỗ trong các chương được giao, không chỉ chỗ được chỉ ra.
+2. Sửa thẳng trong `vi/Chapter_NNN.md`, không đụng vào dòng ảnh và dòng điều hướng. Một lỗi có cùng kiểu (cùng thuật ngữ, cùng cặp xưng hô) thì sửa hết mọi chỗ trong các chương được giao, không chỉ chỗ được chỉ ra.
 3. Cập nhật context theo các đề xuất đã được chấp nhận (đúng quy tắc ở bước B4: không sửa dòng xưng hô cũ mà thêm dòng mới).
 4. Chạy `qa_check.py <slug> <range>` cho đến khi hết `[LỖI]`.
 5. Đánh dấu: `progress.py <slug> set <range> reviewed`. Nếu brief bảo giữ nguyên trạng thái thì bỏ qua bước này.
 6. Báo cáo: số lỗi đã sửa trong từng chương, những thay đổi context, các mục không sửa được và lý do.
+
+## E. Ảnh trong chương
+
+Chỉ thêm, thay hay xoá ảnh khi user yêu cầu. Chi tiết và lý do: `chapter-image-guide.md` ở repo root.
+
+1. **File ảnh** đặt trong `translations/<slug>/vi/images/`:
+   - tên chữ thường, chỉ gồm `a-z`, `0-9`, `-`, có tiền tố số chương: `ch012-ban-do-tang-1.webp`;
+   - định dạng `.webp` (nên dùng), `.png`, `.jpg`/`.jpeg`;
+   - rộng tối đa 1600px, nên dưới 500KB.
+2. **Dòng ảnh** trong chương: nằm riêng một dòng, có dòng trống trước và sau, cả dòng đúng dạng
+   ```
+   ![Bản đồ tầng 1 của Tháp](images/ch012-ban-do-tang-1.webp)
+   ```
+   - Đường dẫn tương đối tính từ file chương: không `/` ở đầu, không URL `http(s)://`, không chứa `)`, không có tiêu đề kiểu `"title"`.
+   - Chú thích được để trống, không chứa `]`.
+   - Không đặt ảnh lẫn trong đoạn văn, không dùng thẻ `<img>`.
+   - Dòng ảnh không tính là đoạn dịch, nên `qa_check.py` không đếm nó.
+3. **Không ghi đè ảnh đã push.** Muốn thay ảnh thì tạo file tên mới (vd thêm `-v2`) rồi sửa dòng `![..](..)` trong chương. Lý do: app chỉ tải lại chương khi sha của file `.md` đổi, ghi đè ảnh cùng tên thì app vẫn hiện ảnh cũ đã cache. GitHub Action chặn push có ảnh bị sửa. Chỉ xoá file ảnh khi không còn chương nào dùng.
+4. Kiểm tra bằng `python scripts/build_index.py`: script báo `[LỖI] <file>:<dòng>` khi ảnh không tồn tại (kể cả sai chữ hoa/thường), sai đuôi file, đường dẫn tuyệt đối hoặc trỏ ra ngoài repo, hay khi một dòng có `![` mà không đúng dạng ở bước 2. Commit ảnh **cùng lúc** với chương dùng nó.
 
 ## Chạy dưới orchestrator
 

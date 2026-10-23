@@ -62,7 +62,8 @@ bash .agents/skills/herdr-spawn/scripts/wait-report.sh <name> --timeout 3600 --i
 - Mỗi lần mở panel là một session mới, nên context luôn sạch.
 - **Kiểm tra phạm vi**, vì panel chạy không xin quyền. Trước khi mở panel, ghi lại `git log -1 --format=%h` và `git status --short`. Sau khi panel xong:
   - hash commit phải giữ nguyên, tức là panel không tự commit;
-  - so với `git status --short` lúc trước, dòng mới hoặc dòng thay đổi chỉ được nằm trong `translations/<slug>/`. Thay đổi đã có từ trước không tính.
+  - so với `git status --short` lúc trước, dòng mới hoặc dòng thay đổi chỉ được nằm trong `translations/<slug>/`. Thay đổi đã có từ trước không tính;
+  - không có file nào trong `translations/<slug>/vi/images/` bị sửa (` M`) hay xoá (` D`). Panel không được đụng vào ảnh; ghi đè ảnh đã push còn làm GitHub Action báo lỗi (`chapter-image-guide.md` mục 3).
 
   Sai một trong hai thì **dừng vòng lặp**, báo user kèm danh sách thay đổi. Không tự revert.
 - Đường dẫn báo cáo luôn lấy đúng giá trị `report=` mà lệnh `brief` in ra (tên có đệm 3 chữ số, vd `rv-001-003`). Không tự ghép tên.

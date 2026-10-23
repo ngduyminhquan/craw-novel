@@ -18,10 +18,11 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 ## Định dạng
 
 - Dòng đầu file: `# Chương N: <tiêu đề dịch>` với N là cột `#` trong progress.md.
-- Mỗi đoạn raw là một đoạn dịch, cách nhau một dòng trống. Không gộp, không tách, không bỏ đoạn.
+- Mỗi đoạn raw là một đoạn dịch trên một dòng, cách nhau một dòng trống. Không gộp, không tách, không bỏ đoạn, không ngắt một đoạn ra nhiều dòng.
+- App đọc file theo dòng, không render Markdown: `*`, `_` hiện nguyên ký tự. Ảnh và dòng điều hướng theo `chapter-image-guide.md` ở repo root.
 - Lời thoại: ngoặc kép thẳng `"..."`.
 - Thông báo hệ thống, lời nói qua thần giao cách cảm, thông tin kỹ năng: giữ trong `[...]` như raw.
-- Nhấn mạnh/suy nghĩ nội tâm trong raw dùng in nghiêng hoặc ngoặc đơn thì giữ đúng kiểu đó.
+- Không dùng in nghiêng/in đậm Markdown (`*...*`, `_..._`): app hiện nguyên dấu `*`. Chữ in nghiêng trong raw (tiếng động, tiếng kêu, nhấn mạnh) viết thường, không có dấu `*`. Suy nghĩ nội tâm raw dùng ngoặc đơn thì giữ ngoặc đơn. Riêng chữ bị che một phần bằng `*` (vd `M** ***t`) thì giữ dấu `*`.
 
 ## Ghi chú translator
 

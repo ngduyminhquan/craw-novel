@@ -24,11 +24,14 @@ ENGLISH_RE = re.compile(r"\b(" + "|".join(sorted(ENGLISH)) + r")\b", re.IGNORECA
 
 # Dòng chỉ gồm link markdown, vd điều hướng "[← Chương trước](Chapter_001.md) | [Chương tiếp theo →](...)"
 NAV_RE = re.compile(r"^(\s*\[[^\]]*\]\([^)]*\)\s*\|?)+\s*$")
+# Dòng ảnh, giống regex app và scripts/build_index.py (chapter-image-guide.md). Ảnh không phải đoạn dịch.
+IMAGE_RE = re.compile(r"^!\[([^\]]*)]\(([^)]+)\)$")
 
 
 def vi_paragraphs(text):
     return [l.strip() for l in text.splitlines()
-            if l.strip() and not l.strip().startswith("#") and not NAV_RE.match(l)]
+            if l.strip() and not l.strip().startswith("#") and not NAV_RE.match(l)
+            and not IMAGE_RE.match(l.strip())]
 
 
 def check(novel, row):
@@ -65,6 +68,8 @@ def check(novel, row):
             warns.append(f"đoạn {n} còn tiếng Anh ({', '.join(hits[:5])}): {line[:90]}")
         if TN_RE.search(line):
             errors.append(f"đoạn {n} còn ghi chú translator: {line[:90]}")
+        if "![" in line:
+            errors.append(f"đoạn {n} có ảnh lẫn trong đoạn văn, ảnh phải nằm riêng một dòng: {line[:90]}")
 
     if "\"" in vi_text and "“" in vi_text:
         warns.append("lẫn ngoặc kép thẳng \" và cong “ ” — thống nhất theo rules.md")

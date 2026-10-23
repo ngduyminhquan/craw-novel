@@ -3,6 +3,7 @@ name: Build index.json
 on:
   push:
     branches: [main]
+    # translations/** đã gồm cả translations/*/vi/images/**.
     paths:
       - "translations/**"
       - "scripts/build_index.py"
@@ -20,6 +21,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Cần commit github.event.before để so sánh ở bước chặn ghi đè ảnh.
+          fetch-depth: 0
+
+      # App cache ảnh theo URL, chỉ tải lại chương khi sha của file .md đổi.
+      # Ghi đè ảnh cùng tên thì app vẫn hiện ảnh cũ (chapter-image-guide.md mục 3).
+      - name: Block overwriting images
+        if: github.event_name == 'push'
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          if [[ "$BEFORE" =~ ^0+$ ]]; then
+            echo "Push đầu tiên của nhánh, bỏ qua."
+            exit 0
+          fi
+          if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "::warning::Không có commit $BEFORE (force push?), bỏ qua kiểm tra ghi đè ảnh."
+            exit 0
+          fi
+          modified=$(git diff --name-only --no-renames --diff-filter=M "$BEFORE" "$AFTER" -- 'translations/*/vi/images/*')
+          if [ -n "$modified" ]; then
+            while IFS= read -r f; do
+              echo "::error file=$f::Ảnh đã push bị ghi đè: $f. Hãy đổi tên file thay vì ghi đè (vd thêm -v2) rồi sửa dòng ![..](..) trong chương."
+            done <<< "$modified"
+            exit 1
+          fi
+          echo "Không có ảnh nào bị ghi đè."
 
       - name: Build index.json
         run: python3 scripts/build_index.py
