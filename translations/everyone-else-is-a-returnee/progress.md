@@ -76,7 +76,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | reviewed |  |
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | done |  |
 | 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | done |  |
-| 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | todo |  |
+| 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | done |  |
 | 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | todo |  |
 | 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | todo |  |
 | 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | todo |  |
@@ -618,3 +618,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#71] Kỹ năng "Throwing" — Tạm chọn: "Thuật Ném". Phương án khác: "Đầu Trịch". → Chốt Thuật Ném (dễ hiểu, đồng bộ với hệ thống kỹ năng vũ khí). (orchestrator)
 - [#71] Tổ chức "Susanoo Army" — Tạm chọn: "Quân Đoàn Susanoo". Phương án khác: "Đoàn quân Susanoo". → Chốt Quân Đoàn Susanoo. (orchestrator)
 - [#71] Cấp bậc của Han YeoRang "First Lieutenant" — Tạm chọn: "Trung úy" (thăng từ Thiếu úy). → Chốt Trung úy (thăng cấp từ Thiếu úy). (orchestrator)
+- [#72] Kỹ năng "Double Cross" — Tạm chọn: "Song Thập Tự". Phương án khác: "Thập Tự Kép". → Chốt Song Thập Tự (Hán Việt ngắn gọn theo rules.md). (orchestrator)
+- [#72] Quái vật "Spike Ketura" — Tạm chọn: "Ketura Gai". Phương án khác: "Spike Ketura". → Chốt Ketura Gai (giữ tên riêng loài quái Ketura, dịch tính từ mô tả Spike thành Gai). (orchestrator)
+- [#72] Địa danh "Nerima" / "Nerima district" và "Kita" / "Kita district" — Tạm chọn: "quận Nerima", "quận Kita" (23 quận đặc biệt của Tokyo). → Chốt quận Nerima và quận Kita (các quận đặc biệt của Tokyo). (orchestrator)
+- [#72] Nhân vật "Michael Smithson" — Tạm chọn: "Michael Smithson" (giữ nguyên tên riêng phương Tây theo rules.md). → Chốt giữ nguyên Michael Smithson theo rules.md. (orchestrator)

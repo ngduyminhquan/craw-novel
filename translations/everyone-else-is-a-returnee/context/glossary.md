@@ -392,8 +392,14 @@
 | Osaka |  | Osaka | địa danh | 70 | Thành phố lớn ở vùng Kansai, Nhật Bản |
 | Yokohama |  | Yokohama | địa danh | 71 | Thành phố cảng lớn thuộc tỉnh Kanagawa, Nhật Bản |
 | Susanoo Army | Army of Susanoo | Quân Đoàn Susanoo | tổ chức | 71 | Lực lượng dị năng giả tập hợp đi theo dọn quái hỗ trợ Yu IlHan |
-| Throwing | throwing | Thuật Ném | kỹ năng | 71 | Kỹ năng ném vũ khí và vật thể thức tỉnh ở Lv Max |
+| Throwing |  | Thuật Ném | kỹ năng | 71 | Kỹ năng ném vũ khí và vật thể thức tỉnh ở Lv Max |
 | Ark Katrar |  | Ark Katrar | quái vật | 71 | Quái vật cấp 103 bước ra từ Đợt Vỡ Hầm Ngục tại Tokyo |
 | A Thousand In One Hit |  | Nhất Kích Thiên Quân | danh hiệu | 71 | Danh hiệu tăng 50% tỷ lệ đòn đánh chí mạng khi tấn công nhiều kẻ địch cùng lúc |
 | Takemikazuchi |  | Takemikazuchi | khác | 71 | Vị thần sấm sét và kiếm thuật trong thần thoại Thần đạo Nhật Bản |
 | Amaterasu |  | Amaterasu | khác | 71 | Nữ thần Mặt Trời tối cao trong thần thoại Thần đạo Nhật Bản |
+| Double Cross |  | Song Thập Tự | kỹ năng | 72 | Kỹ năng chiến đấu của thành viên clan Metal Knights |
+| Spike Ketura |  | Ketura Gai | quái vật | 72 | Quái vật cấp 69 chuyển chức 2 bị Yu IlHan hạ gục tại quận Nerima |
+| Nerima | Nerima district | Nerima | địa danh | 72 | Một trong 23 quận đặc biệt của Tokyo |
+| Kita | Kita district | Kita | địa danh | 72 | Một trong 23 quận đặc biệt của Tokyo |
+| England |  | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
+| Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |

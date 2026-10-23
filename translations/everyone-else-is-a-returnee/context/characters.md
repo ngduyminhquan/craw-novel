@@ -27,6 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 | Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
+| Michael Smithson | Michael; Smithson | Michael Smithson | Thủ lĩnh của clan Hiệp Sĩ Kim Loại (Metal Knights) đến từ Anh | 72 |
 
 ## Chi tiết
 
@@ -98,6 +99,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 68: Lần đầu tiên mua vé máy bay chính ngạch sang Nhật Bản, tiến vào hầm ngục khó nhất thế giới (yêu cầu cấp độ 90) tại vùng Kantou để săn quái vật bóng tối có năng lực ẩn thân; tích lũy hơn 1.350/3.000 quái vật chuyển chức 2 bị tập kích tiêu diệt trong trạng thái ẩn thân; thăng từ cấp 66 lên cấp 75 sau ba tuần cày cuốc và dọn sạch hầm ngục trước khi thảm họa Đợt Sóng Hầm Ngục bùng nổ tại Kantou.
 - Trạng thái tính đến chương 70: Hoàn tất tiến hóa kỹ năng Ẩn Thân thành kỹ năng bị động [Tử Thần] (thăng lên cấp 3); Túi Đeo Chéo được bổ sung thêm tính năng 'thu hồi vật sở hữu từ xa' và 'mở rộng không gian'; phối hợp Atlatl Xương Nguyệt Quang Thô Ráp một mình bình định nửa tỉnh Kanagawa và giải cứu thành phố Odawara; được người dân Nhật Bản tôn xưng là Thần Bão Tố Susanoo giáng trần.
 - Trạng thái tính đến chương 71: Đạt cấp 82 sau khi dùng hơn 100 lựu đạn xương cường hóa ma thạch chuyển chức 2 quét sạch Đợt Vỡ Hầm Ngục tại Tokyo và tiêu diệt Ark Katrar Lv 103; thức tỉnh kỹ năng [Thuật Ném] Lv Max; nhận danh hiệu 'Nhất Kích Thiên Quân' (+50% tỷ lệ chí mạng khi đánh nhiều kẻ địch cùng lúc); Quái Lực thăng lên Lv 24 và Siêu Việt Tái Sinh thăng lên Lv 23 nhờ sáng tạo kỹ thuật hồi phục cơ bắp triệt tiêu thời gian phạt suy yếu xuống dưới 5 giây; nới lỏng điều kiện tiến hóa Thương Thuật nhờ thăng hoa kỹ thuật phóng thương; dẫn dắt Quân Đoàn Susanoo bình định toàn bộ tỉnh Kanagawa và tiến vào Tokyo.
+- Trạng thái tính đến chương 72: Đạt cấp 83 sau khi càn quét các quận của Tokyo; thu gom hàng chục nghìn xác quái vật chuyển chức 2 vào Túi Đeo Chéo; nảy ra ý tưởng kết hợp trọng lượng cực đại của túi với thời điểm bắn Súng Bắn Cọc nhằm triệt tiêu phản lực khi công kích quái vật.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -225,3 +227,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Lạnh lùng, quyết đoán, nghiêm khắc tuyệt đối với kẻ phản bội, hành động dứt khoát không khoan nhượng.
 - Trạng thái tính đến chương 62: Tự tay xử tử tên thiên thần phản bội hầm ngục Trái Đất bất chấp sự do dự của hội đồng; thẩm vấn hắn về thế lực đứng sau (Quân Đội Ma Hủy Diệt, Khu Vườn Hoàng Hôn, Quân Đội Ánh Sáng Rực Rỡ); giữ Lita lại để đặc huấn nâng cao thực lực chuẩn bị cho đại chiến.
 
+### Michael Smithson
+- Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
+- Tính cách: Hiếu thắng, ích kỷ, coi trọng danh tiếng và quyền lợi cá nhân hơn tính mạng người khác; sẵn sàng hy sinh các clan nhỏ để làm bàn đạp trục lợi cho mình.
+- Trạng thái tính đến chương 72: Chỉ huy clan Metal Knights tác chiến tại quận Nerima (Tokyo); tức tối vì bị Yu IlHan (Susanoo) cướp sạch quái vật chuyển chức 2; lên kế hoạch lôi kéo các clan quy mô nhỏ làm mồi nhử chết thay để trục lợi danh vọng.

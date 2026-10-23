@@ -29,6 +29,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Myuta | Myuta / thiên thần Myuta | 50 | Thiên thần chủ tọa cuộc họp |
 | Spiera | cô / Spiera | 62 | Nữ thiên thần cấp cao dùng thương ánh sáng |
 | Tamura | anh ta / Tamura | 70 | Dị năng giả Nhật Bản tại Odawara |
+| Michael Smithson | hắn / gã / Smithson | 72 | Thủ lĩnh Clan Metal Knights |
 
 ## Giữa các nhân vật
 
