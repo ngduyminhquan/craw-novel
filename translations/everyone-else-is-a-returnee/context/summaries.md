@@ -490,4 +490,10 @@ Anh kiên quyết từ chối đề nghị dùng kiếm của Erta, quyết tâm
 Hết hạn 2 tháng đóng băng thời gian của Đồng Hồ Cát Vĩnh Hằng (thế giới bên ngoài mới chỉ trôi qua chưa đầy một giây), IlHan kiểm tra trang chủ Vanguard thấy lượng đơn hỏi mua bùng nổ; anh chuẩn bị đẩy sớm lịch mở bán trang bị cho các clan tham gia Đợt Sóng Hầm Ngục.
 Cảnh kết thúc: Thu thập danh thiếp bằng tính năng thu hồi từ xa, Yu IlHan chủ động gọi điện cho Đại tá Yun DaeHan để chào bán trang bị giá rẻ cho lực lượng Trấn Áp, chính thức khởi động giai đoạn hai của kế hoạch cường hóa nhân loại.
 
+## 81
+Tại văn phòng tầng 14 Vanguard, Yu IlHan gặp gỡ Đại tá Yun DaeHan và Trung úy Han YeoRang, giới thiệu Kiếm Bastard Xương Hổ Trọng Áp (phẩm cấp Hiếm) và đàm phán cung ứng trang bị sản xuất đại trà độc quyền cho lực lượng Trấn Áp đổi lấy các ưu đãi chính sách; ngoại hình ngày một hoàn mỹ của IlHan khiến Han YeoRang mê mẩn ôm mộng quyến rũ anh làm chồng nhưng bị anh khéo léo từ chối.
+Tiếp đón bộ ba Clan Lôi Thần gồm Kang MiRae, Kang HaJin và Na YuNa, IlHan thông báo quy chế mở bán trang bị phẩm cấp cao theo hình thức đăng ký mua công bằng và tiếp nhận 3 viên Thánh Thạch của Nữ Thần Sắc Đẹp Leytna (phẩm cấp Truyền Thuyết) từ Na YuNa để chế tạo trang bị chuyên dụng; Kang MiRae khẳng định ý chí học hỏi và hẹn ngày ngỏ lời hợp tác bình đẳng.
+Sau khi hai người kia rời đi, Na YuNa ở lại chất vấn việc IlHan chính là thợ rèn bí ẩn và đòi đổi xưng hô bỏ kính ngữ làm điều kiện giao dịch nhưng bị IlHan bóc mẽ; cô nàng tiếp tục gạ gẫm kết bạn rồi hỏi dồn dập chuyện tế nhị trước sự lạnh lùng đến phũ phàng của IlHan.
+Cảnh kết thúc: Trước cửa thang máy, Yu IlHan thẳng thắn tuyên bố ghét tính cách của cô hơn cả ngoại hình, giáng đòn thất bại toàn diện đầu tiên trong đời vào nữ hoàng ngoại giao Na YuNa.
+
 

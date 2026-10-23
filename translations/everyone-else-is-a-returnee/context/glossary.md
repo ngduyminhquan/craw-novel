@@ -253,7 +253,7 @@
 | EX | EX-tier; EX rank | Hạng EX | hệ thống | 45 | Cấp độ khó hoặc phẩm cấp vượt trên cả Hạng SSS |
 | Abandoned World | Abandoned Worlds | Thế Giới Bị Bỏ Rơi | khác | 45 | Thế giới mất cân bằng nghiêm trọng do quái vật áp đảo dẫn đến bị Thiên giới cắt đứt liên lạc và bỏ rơi |
 | physical abilities |  | năng lực thể chất | hệ thống | 43 | Năng lực thể chất tổng thể trong các bảng mô tả kỹ năng/buff hệ thống |
-| Holy Knight | holy knight | Thánh Kỵ Sĩ | chức nghiệp | 47 | Chức nghiệp của Kang HaJin |
+| Holy Knight | holy knight; Paladin; paladins | Thánh Kỵ Sĩ | chức nghiệp | 47 | Chức nghiệp của Kang HaJin |
 | Escape Scroll | escape scroll | Cuộn Trục Đào Tẩu | vật phẩm | 47 | Cuộn trục dịch chuyển ma pháp giúp rời khỏi hầm ngục |
 | Executor angels | Executor angel | thiên thần chấp hành | chủng tộc | 47 | Các thiên thần thực thi quyền năng của Thiên giới |
 | Death Collector |  | Thu Thập Tử Vong | kỹ năng | 48 | Kỹ năng bị động của Tử Thần Tập Sự, thu thập và tích trữ sinh lực của những kẻ bị tiêu diệt |
@@ -431,3 +431,8 @@
 | Iron Armored Fire Dragon |  | Thiết Giáp Hỏa Long | quái vật | 80 | Quái vật rồng lửa bọc sắt mà Yu IlHan sở hữu ma thạch chuyển chức 3 |
 | Iron Armored Fire Dragon's Biting Dark Python Fullplate Armor |  | Đại Khải Hắc Mãng Cắn Xé Thiết Giáp Hỏa Long | vật phẩm | 80 | Đại khải phẩm cấp Truyền Thuyết kết hợp xương Orochi mài nhọn và ma thạch Thiết Giáp Hỏa Long |
 | Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |
+| Pressure Tiger Bone Bastard |  | Kiếm Bastard Xương Hổ Trọng Áp | vật phẩm | 81 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo từ xương hổ cung cấp cho lực lượng Trấn Áp |
+| The Holy Stone of the Goddess of Beauty, Leytna |  | Thánh Thạch của Nữ Thần Sắc Đẹp Leytna | vật phẩm | 81 | Khoáng thạch chứa thánh lực từ đền thờ Nữ Thần Sắc Đẹp Leytna |
+| Leytna |  | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
+| Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
+| Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |

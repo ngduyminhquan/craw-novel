@@ -85,7 +85,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 78 |  | Chapter_078 - I, too, now 3.txt | I, too, now 3 | reviewed |  |
 | 79 |  | Chapter_079 - I, too, now 4.txt | I, too, now 4 | done |  |
 | 80 |  | Chapter_080 - I, too, now 5.txt | I, too, now 5 | done |  |
-| 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | todo |  |
+| 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | done |  |
 | 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | todo |  |
 | 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | todo |  |
 | 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | todo |  |
@@ -371,6 +371,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -638,3 +639,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#78] Dòng thuộc tính beta "Tyrant" của ma thạch chuyển chức 2 — Tạm chọn: "Bạo Chúa". Phương án khác: "Bạo Ngược". → Chốt Bạo Chúa. (orchestrator)
 - [#79] Cụm từ "Dark Python" trong tên trang bị làm từ da quái xà Orochi ("Dark Python Robe", "Dark Python Leather Armor") → Chốt dịch "Dark Python" là "Hắc Mãng" (Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo, Giáp Da Hắc Mãng Ám Long Cường Đại). (orchestrator)
 - [#80] Cấp hàm của Yun DaeHan ở đoạn 78 ("first lieutenant Han YeoRang and captain Yoon DaeHan") → Chốt giữ nhất quán là "đại tá Yun DaeHan" (và "trung úy Han YeoRang") theo diễn biến thăng cấp đã chốt từ chương 59 và 71 (raw EN dịch nhầm quân hàm). (orchestrator)
+- [#81] Tên vũ khí "Pressure Tiger Bone Bastard" — Tạm chọn: "Kiếm Bastard Xương Hổ Trọng Áp" (đồng bộ cấu trúc với 'Kiếm Bastard Xương Sói Sắc Bén' ở #67). Phương án khác: "Kiếm Bastard Xương Hổ Áp Lực". Tạm dùng trong bản dịch: "Kiếm Bastard Xương Hổ Trọng Áp". → Chốt Kiếm Bastard Xương Hổ Trọng Áp (đồng bộ cấu trúc với Kiếm Bastard Xương Sói Sắc Bén ở #67). (orchestrator)
+- [#81] Tên tạo tác "The Holy Stone of the Goddess of Beauty, Leytna" — Tạm chọn: "Thánh Thạch của Nữ Thần Sắc Đẹp Leytna" (đồng bộ với danh xưng Nữ Thần Sắc Đẹp đã chốt ở #38). Phương án khác: "Thánh Thạch Nữ Thần Sắc Đẹp Leytna". Tạm dùng trong bản dịch: "Thánh Thạch của Nữ Thần Sắc Đẹp Leytna". → Chốt Thánh Thạch của Nữ Thần Sắc Đẹp Leytna. (orchestrator)
+- [#81] Tên nhân vật "Yoon DaeBang" ở đoạn 52 của raw — Tạm chọn: Dịch thành "Yun DaeHan" vì đây là lỗi gõ nhầm tên của bản raw tiếng Anh đối với nhân vật Đại tá Yun DaeHan, đồng thời thêm alias "Yoon DaeBang" vào characters.md. Phương án khác: Giữ nguyên "Yoon DaeBang". Tạm dùng trong bản dịch: "Yun DaeHan". → Chốt dịch là Yun DaeHan vì đây là lỗi gõ nhầm tên của raw EN, thêm Yoon DaeBang vào Alias. (orchestrator)
+- [#81] Dòng T/N chứa ngoặc lồng nhau "(T/N: A change in naming: Holy Knight -> Paladin. (Kang HaJin's job))" ở đầu raw — Tạm chọn: Thêm vào raw_ignore_lines của novel.json và ghi chú vào rules.md để script clean_raw loại bỏ triệt để dấu ngoặc đóng thừa. Phương án khác: Giữ nguyên và dịch đoạn thừa. Tạm dùng trong bản dịch: Đã thêm vào raw_ignore_lines. → Chốt thêm dòng T/N ngoặc lồng nhau vào raw_ignore_lines trong novel.json và ghi chú vào rules.md theo đúng bước B2 của novel-translate. (orchestrator)
+- [#81] Thuật ngữ chức nghiệp "Paladin" trong raw — Tạm chọn: Giữ bản dịch "Thánh Kỵ Sĩ" (đồng bộ với chức nghiệp của Kang HaJin đã chốt ở #47, thêm alias 'Paladin' vào glossary.md). Phương án khác: Dịch là "Hiệp Sĩ Paladin" hoặc "Kỵ Sĩ Thánh". Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Chốt giữ bản dịch Thánh Kỵ Sĩ (đồng bộ với chức nghiệp của Kang HaJin ở #47, thêm Paladin vào Alias). (orchestrator)
