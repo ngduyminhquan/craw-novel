@@ -451,3 +451,11 @@ Tàn niệm Reta Kar'iha thức tỉnh chỉ ra Orochi thực chất là một L
 IlHan dũng cảm bật nhảy kép tiếp cận vết thương cũ ở chiếc đầu bị nát, dùng tính năng thu hồi từ xa phóng khiên xương chặn mưa mảnh vảy, rồi chuyển hàng ngàn tấn trọng lượng của Túi Đeo Chéo vào đế ủng để ghì chặt thân Orochi và liên tục đâm thương chí mạng khoét sâu 50cm vào vết thương.
 Quái xà điên cuồng vung 8 đuôi và bắn 7 viên đạn ma pháp từ nhiều hướng; dù đã gọi 3 tấm khiên xương che chắn, sức nóng khủng khiếp của đòn đánh thường vẫn nung chảy khiên cùng toàn bộ giáp Truyền Thuyết khiến IlHan bị bỏng rát và ý thức được sự chênh lệch khủng khiếp giữa mình và thực thể chuyển chức 4.
 Cảnh kết thúc: Được Lita và Erta hết lòng tin tưởng và khích lệ, IlHan ngậm thức uống máu kích hoạt Siêu Việt Tái Sinh, nở nụ cười bất đắc dĩ rồi tiếp tục lao dọc sống lưng Orochi để đâm tiếp vào thân thể nó.
+
+## 75
+Yu IlHan kiên cường chịu đựng hỏa lực thiêu đốt của Yamata no Orochi, kích hoạt Siêu Việt Tái Sinh (thăng lên cấp 30) cùng thức uống máu để liên tục hồi phục; trước sự quấy nhiễu dai dẳng của anh, Orochi đổi cơ chế sang giai đoạn hai, thu ngắn 7 đầu và kéo dài 8 đuôi gắn lưỡi dao tẩm độc nhưng đồng thời từ bỏ đạn ma pháp khiến khả năng phòng thủ bị suy giảm.
+Nắm lấy cơ hội trên mặt đất, IlHan liên hoàn phóng ngọn Thương Gai Diệt Long trúng vết thương cũ gây sát thương chí mạng dồn dập và thu hồi thương bằng Túi Đeo Chéo; đúng lúc đó Clan Lôi Thần do Kang MiRae, Na YuNa và Kang HaJin kịp thời tới chi viện.
+Na YuNa dốc toàn bộ thánh lực xướng niệm đại chúc phúc ban bùa lợi cực hạn (+300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% chí mạng khi đánh kẻ địch hơn 100 cấp) biến IlHan thành chiến binh vô địch; anh lập tức chém đứt lìa một chiếc đuôi của quái xà khi nó toan đánh lén YuNa.
+Orochi gầm thét đau đớn, phát cuồng kích hoạt năng lực biến đổi địa hình phóng ra rừng dây gai tím nhằm câu kéo thời gian chờ bùa lợi 5 phút hết hiệu lực; IlHan xông pha chém rách rừng dây leo và đỡ đòn đuôi hiểm hóc nhắm vào Kang MiRae trong lúc cô đang dồn trọn mana niệm chú chuẩn bị tung đòn ma pháp quyết định.
+Cảnh kết thúc: Giữa lúc IlHan nỗ lực ghìm chân quái vật để chờ Kang MiRae hoàn tất thần chú trong 4 phút bùa lợi còn lại, Yamata no Orochi lại bắt đầu biến đổi thân thể bước vào giai đoạn cuối cùng (final phase) mở màn trận quyết đấu sinh tử.
+

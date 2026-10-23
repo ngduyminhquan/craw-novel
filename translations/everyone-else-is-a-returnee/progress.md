@@ -79,7 +79,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | reviewed |  |
 | 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | done |  |
 | 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | done |  |
-| 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | todo |  |
+| 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | done |  |
 | 76 |  | Chapter_076 - I, too, now 1.txt | I, too, now 1 | todo |  |
 | 77 |  | Chapter_077 - I, too, now 2.txt | I, too, now 2 | todo |  |
 | 78 |  | Chapter_078 - I, too, now 3.txt | I, too, now 3 | todo |  |
@@ -626,3 +626,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#73] Danh xưng "Lord of Magia" của Carina Malatesta → Chốt dịch là "Chủ clan Magia" / "Chủ Clan Magia" đồng bộ với thuật ngữ Clan trong truyện. (orchestrator)
 - [#74] Tiếng lóng game: Cụm câu thoại chơi chữ/văn hóa game "Nerf this! Weight transfer!" → Chốt dịch là "Có giỏi thì nerf cái này đi! Chuyển giao trọng lượng!" giữ nguyên khẩu khí game thủ của Yu IlHan. (orchestrator)
 - [#74] Lỗi chính tả của raw: Cụm từ "Cross Bang" ở đoạn 108 trong raw → Chốt dịch thành "Túi Đeo Chéo" vì đây là lỗi gõ phím của raw EN cho "Cross Bag". (orchestrator)
+- [#75] Lỗi gõ chữ của raw: Cụm "supplied his body with blood ink" ở đoạn 7 → Chốt dịch thành "thức uống máu" vì raw EN gõ nhầm "blood drink" thành "blood ink". (orchestrator)
+- [#75] Thuật ngữ game MMO/RPG: Cụm từ boss "pattern change" và "second phase / third phase / final phase" → Chốt dịch thành "đổi cơ chế" và "giai đoạn hai / giai đoạn ba / giai đoạn cuối" theo thuật ngữ đánh trùm game. (orchestrator)
