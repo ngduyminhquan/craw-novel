@@ -20,9 +20,9 @@ Khoảnh khắc các dòng thuộc tính ấy được bổ sung vào Túi Đeo 
 
 Dù cho Yu IlHan phóng lao ngay trước sống mũi họ, những người ấy vẫn chẳng thể nào nhận ra anh.
 
-Dù kỹ năng ẩn thân của Yu IlHan có phi phàm đến đâu thì thông thường điều này cũng là bất khả thi.
+Dù kỹ năng Ẩn Thân của Yu IlHan có phi phàm đến đâu thì thông thường điều này cũng là bất khả thi.
 
-Phải, nếu Yu IlHan vẫn chỉ dừng lại ở kỹ năng ẩn thân trước đây, thì chuyện này chắc chắn không thể xảy ra.
+Phải, nếu Yu IlHan vẫn chỉ dừng lại ở kỹ năng Ẩn Thân trước đây, thì chuyện này chắc chắn không thể xảy ra.
 
 [Tập kích tiêu diệt quái vật chuyển chức 2 trong trạng thái ẩn thân 3.000/3.000]
 
@@ -38,7 +38,7 @@ Phải, nếu Yu IlHan vẫn chỉ dừng lại ở kỹ năng ẩn thân trư�
 
 [Hấp thụ ghi chép. Kỹ năng Ẩn Thân tiến hóa.]
 
-Đó là sự cố do các thiên thần gây ra, nhưng nhờ lũ quái vật bóng tối tiến hóa lên chuyển chức 3, Yu IlHan đã hoàn thành toàn bộ các điều kiện để tiến hóa kỹ năng ẩn thân ngay bên trong hầm ngục trước khi dọn sạch nó.
+Đó là sự cố do các thiên thần gây ra, nhưng nhờ lũ quái vật bóng tối tiến hóa lên chuyển chức 3, Yu IlHan đã hoàn thành toàn bộ các điều kiện để tiến hóa kỹ năng Ẩn Thân ngay bên trong hầm ngục trước khi dọn sạch nó.
 
 Anh có hơi tiếc đống ma thạch chuyển chức 2 và ma thạch chuyển chức 3 bị tiêu hao làm nguyên liệu, nhưng vì chắc chắn rằng việc tiến hóa sớm sẽ mang lại hiệu quả khổng lồ khi sử dụng kỹ năng, Yu IlHan đã tiến hóa nó không chút do dự.
 
@@ -164,7 +164,7 @@ Lao phóng của Yu IlHan vừa chính xác, vừa nhanh, lại vừa uy lực. 
 
 3 tiếng đồng hồ đã trôi qua kể từ khi Yu IlHan bắt đầu cuộc săn. Anh đã dọn sạch 5 khu vực có quy mô tương đương thành phố Odawara, vậy mà vẫn chưa thăng cấp lấy một lần. Mặc dù toàn bộ những con anh tiêu diệt đều là quái vật chuyển chức 2!
 
-Nếu có điều gì an ủi, thì đó là anh đã thu được ít nhất một trăm viên ma thạch chuyển chức 2. Vì đã phải tiêu tốn một lượng khổng lồ ma thạch để tiến hóa kỹ năng ẩn thân, nên mỗi lần xác một con quái vật chuyển chức 2 chui vào Túi Đeo Chéo là tâm trạng anh lại thấy vui vẻ hẳn lên.
+Nếu có điều gì an ủi, thì đó là anh đã thu được ít nhất một trăm viên ma thạch chuyển chức 2. Vì đã phải tiêu tốn một lượng khổng lồ ma thạch để tiến hóa kỹ năng Ẩn Thân, nên mỗi lần xác một con quái vật chuyển chức 2 chui vào Túi Đeo Chéo là tâm trạng anh lại thấy vui vẻ hẳn lên.
 
 Và những người sống sót ở Odawara chỉ biết ngơ ngác đứng nhìn cảnh tượng đó.
 
@@ -204,7 +204,7 @@ Một sức mạnh tuyệt đối mà không một ai có thể nhận biết.
 
 Dù nghe có vẻ vô lý hết sức, nhưng bởi vì nó đã thực sự diễn ra ngay trước mắt mọi người, nên không ai có thể bác bỏ được. Có người bảo một vị Thần thực sự đã hạ phàm xuống cõi giới thấp hơn, nhưng đại đa số lại nghĩ rằng đây cũng là một dạng quái vật sẽ đe dọa đến nhân loại.
 
-Và những người không thuộc về cả hai luồng ý kiến đó, chẳng hạn như chủ nhân của Clan Lôi Thần, Kang MiRae, cùng những dị năng giả hùng mạnh bên phía nhân loại, tất cả đều nghĩ thế này.
+Và những người không thuộc về cả hai luồng ý kiến đó, chẳng hạn như Chủ Clan Lôi Thần, Kang MiRae, cùng những dị năng giả hùng mạnh bên phía nhân loại, tất cả đều nghĩ thế này.
 
 Rằng một kẻ mạnh đến mức phi lý đe dọa đến cả màn ra mắt của họ đã xuất hiện!
 

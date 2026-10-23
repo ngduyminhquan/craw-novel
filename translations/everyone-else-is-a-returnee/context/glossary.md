@@ -392,7 +392,7 @@
 | Osaka |  | Osaka | địa danh | 70 | Thành phố lớn ở vùng Kansai, Nhật Bản |
 | Yokohama |  | Yokohama | địa danh | 71 | Thành phố cảng lớn thuộc tỉnh Kanagawa, Nhật Bản |
 | Susanoo Army | Army of Susanoo | Quân Đoàn Susanoo | tổ chức | 71 | Lực lượng dị năng giả tập hợp đi theo dọn quái hỗ trợ Yu IlHan |
-| Throwing |  | Thuật Ném | kỹ năng | 71 | Kỹ năng ném vũ khí và vật thể thức tỉnh ở Lv Max |
+| Throwing |  | Thuật Ném | kỹ năng | 71 | Kỹ năng ném vũ khí và vật thể thức tỉnh ở Lv Max; lưu ý cụm "throwing spear" trong raw là lao phóng, không phải kỹ năng Thuật Ném |
 | Ark Katrar |  | Ark Katrar | quái vật | 71 | Quái vật cấp 103 bước ra từ Đợt Vỡ Hầm Ngục tại Tokyo |
 | A Thousand In One Hit |  | Nhất Kích Thiên Quân | danh hiệu | 71 | Danh hiệu tăng 50% tỷ lệ đòn đánh chí mạng khi tấn công nhiều kẻ địch cùng lúc |
 | Takemikazuchi |  | Takemikazuchi | khác | 71 | Vị thần sấm sét và kiếm thuật trong thần thoại Thần đạo Nhật Bản |

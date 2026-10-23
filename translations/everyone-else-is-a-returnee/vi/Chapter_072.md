@@ -164,7 +164,7 @@ Smithson ăn nói chẳng khác nào loài cầm thú đội lốt người, nh�
 
 "Susanoo, tao sẽ giết mày."
 
-Lần lượt càn quét qua từng khu vực trong số 23 quận của Tokyo, Yu IlHan bắt gặp không ít trường hợp tương tự như Metal Knights. Lẽ dĩ nhiên, bất kể bọn họ đang làm cái trò gì, anh vẫn miệt mài phóng thương và hứng chịu vô số lời chửi rủa. Đồng thời, cấp độ của anh cũng tăng vọt như một phần quà khuyến mãi.
+Lần lượt càn quét qua từng khu vực trong số 23 quận của Tokyo, Yu IlHan bắt gặp không ít trường hợp tương tự như Metal Knights. Lẽ dĩ nhiên, bất kể bọn họ đang làm cái trò gì, anh vẫn miệt mài phóng thương và hứng chịu vô số lời chửi rủa. Đồng thời, cấp độ của anh cũng tăng lên như một phần quà khuyến mãi.
 
 [Bạn đã đạt cấp độ 83. +1 Sức mạnh, +2 Nhanh nhẹn, +1 Thể lực, +1 Ma pháp.]
 
@@ -192,7 +192,7 @@ Lẽ dĩ nhiên, điều này đòi hỏi khả năng kiểm soát vô cùng chu
 
 [Thật là một suy nghĩ đáng sợ.] (Erta)
 
-[Ta lại thấy rất hài lòng, vì cậu ấy làm ta nhớ lại thời trẻ của mình.] (Lita)
+[Tôi lại thấy rất hài lòng, vì cậu ấy làm tôi nhớ lại thời trẻ của mình.] (Lita)
 
 [Chính là cô đấy, Lita! Cô đã dạy hư cậu ấy thành ra thế này!] (Erta)
 
@@ -200,7 +200,7 @@ Nhìn Erta túm lấy cổ áo Lita mà lắc qua lắc lại, Yu IlHan bật c�
 
 Thế nhưng, như thường lệ, những tình huống như vậy luôn luôn xảy ra mà chẳng trật đi đâu được. Và lúc nào cũng nhanh hơn dự liệu của anh.
 
-"Chủ clan, khu vực này đã dọn dẹp xong xuôi rồi ạ!"
+"Chủ Clan, khu vực này đã dọn dẹp xong xuôi rồi ạ!"
 
 "Có vẻ khu vực phía tây bắc còn rất nhiều quái vật, chúng ta qua đó đi!"
 
@@ -218,7 +218,7 @@ Vị Chủ Clan, Kang MiRae, đang hớp từng ngụm từ bình thuốc mana m
 
 Kang MiRae, một kẻ quái gở thường ngày trông lạnh băng như địa ngục băng giá nhưng hễ lâm trận là trở nên hung hăng tột độ, đang định chọn Na YuNa làm mục tiêu tiếp theo thì một thành viên clan nghiêng đầu gọi với về phía cô.
 
-"Chủ clan, có thứ gì đó vừa từ trên trời rơi xuống kìa."
+"Chủ Clan, có thứ gì đó vừa từ trên trời rơi xuống kìa."
 
 "Thứ gì cơ? Quái vật à?"
 

@@ -158,11 +158,11 @@ Không cần phải chịu thương tích vì giao tranh trong lúc cơ thể su
 
 [Hóa ra cuối cùng Lita cũng hiểu được cảm giác của tôi rồi đấy.] (Erta)
 
-Dù nói thì dễ nhưng đây chẳng phải chuyện đơn giản. Chỉ có ý chí muốn làm thôi thì không thể nào thành công được. Điều này chỉ khả thi vì người thực hiện là Yu IlHan, kẻ nắm rõ cấu trúc cơ thể mình đến từng chân tơ kẽ tóc và có thể kiểm soát tinh vi sức mạnh của các kỹ năng. Để tham khảo thêm, đây là kỹ xảo anh đã hoàn thiện sau khi hồi tưởng lại lần thời gian phạt của mình được giảm bớt nhờ sự trị liệu của Na YuNa trước kia.
+Dù nói thì dễ nhưng đây chẳng phải chuyện đơn giản. Chỉ có ý chí muốn làm thôi thì không thể nào thành công được. Điều này chỉ khả thi vì người thực hiện là Yu IlHan, kẻ nắm rõ cấu trúc cơ thể mình đến từng chân tơ kẽ tóc và có thể kiểm soát tinh vi sức mạnh của các kỹ năng. Nói thêm thì, đây là kỹ xảo anh đã hoàn thiện sau khi hồi tưởng lại lần thời gian phạt của mình được giảm bớt nhờ sự trị liệu của Na YuNa trước kia.
 
 Dù sao thì nhờ sự lĩnh ngộ này, thời gian phạt từ kỹ năng Quái Lực đã giảm xuống dưới 5 giây. Bằng cách bù đắp năng lượng nghỉ ngơi tiêu hao cho Siêu Việt Tái Sinh bằng thức uống máu, rốt cuộc anh lại đang tranh thủ rèn luyện kỹ năng ngay giữa mớ hỗn độn này.
 
-Độ thuần thục của Quái Lực, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn và kỹ năng Nấu Nướng lại không ngừng tăng lên liên tục.
+Độ thuần thục của Quái Lực, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn và kỹ năng Nấu Nướng lại không ngừng tăng lên.
 
 [Kỹ năng Quái Lực đã đạt Lv 24.]
 

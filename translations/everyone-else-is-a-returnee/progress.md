@@ -74,9 +74,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | reviewed |  |
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | reviewed |  |
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | reviewed |  |
-| 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | done |  |
-| 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | done |  |
-| 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | done |  |
+| 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | reviewed |  |
+| 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | reviewed |  |
+| 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | reviewed |  |
 | 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | todo |  |
 | 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | todo |  |
 | 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | todo |  |

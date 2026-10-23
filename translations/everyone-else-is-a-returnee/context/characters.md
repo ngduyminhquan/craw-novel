@@ -11,8 +11,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
-| Han YeoRang |  | Han YeoRang | Nữ thiếu úy quân đội Hàn Quốc phụ trách hiện trường quái vật | 9 |
-| God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh | 1 |
+| Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71) | 9 |
+| God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
 | Yun DaeHan | Yoon DaeHan | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59) | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 | Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
-| Michael Smithson | Michael; Smithson | Michael Smithson | Thủ lĩnh của clan Hiệp Sĩ Kim Loại (Metal Knights) đến từ Anh | 72 |
+| Michael Smithson | Michael; Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 
 ## Chi tiết
 
