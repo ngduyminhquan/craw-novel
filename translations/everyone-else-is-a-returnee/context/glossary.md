@@ -455,3 +455,5 @@
 | Reaper |  | Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan |
 | God's Hammer |  | Thần Chùy | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan |
 | Blazing Reaper |  | Liệt Hỏa Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan kết hợp hỏa diễm |
+| Lesser Dragon | Lesser Dragons | Hạ Đẳng Long | quái vật | 86 | Quái vật loài rồng bậc thấp thuộc Long tộc tại Daréu, bắt đầu có chữ rồng trong tên và biết dùng ma pháp |
+| Time attack quest |  | Nhiệm vụ chạy đua thời gian | hệ thống | 86 | Dạng nhiệm vụ hệ thống yêu cầu hoàn thành điều kiện trong giới hạn thời gian |
