@@ -403,3 +403,5 @@
 | Kita | Kita district | Kita | địa danh | 72 | Một trong 23 quận đặc biệt của Tokyo |
 | England |  | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
 | Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |
+| Yamata no Orochi | Yamata; Orochi; the Orochi | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
+| Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |

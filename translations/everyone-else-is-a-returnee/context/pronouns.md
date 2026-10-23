@@ -30,8 +30,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Spiera | cô / Spiera | 62 | Nữ thiên thần cấp cao dùng thương ánh sáng |
 | Tamura | anh ta / Tamura | 70 | Dị năng giả Nhật Bản tại Odawara |
 | Michael Smithson | hắn / gã / Smithson | 72 | Thủ lĩnh Clan Metal Knights |
+| Carina Malatesta | cô / Carina / Carina Malatesta | 73 | Chủ clan Magia (Ý) |
 
 ## Giữa các nhân vật
+
 
 `A xưng` là A tự xưng khi nói với B; `A gọi B` là A gọi B bằng gì. Mỗi chiều một dòng. `B` = `*` nghĩa là A nói với mọi người nói chung.
 
@@ -101,3 +103,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Reta Kar'iha | Erta | tôi | thiên thần / cô | 63 | Reta đối thoại và giải thích với Erta |
 | HaJin | Kang MiRae | tôi / anh | Chủ Clan / MiRae / em | 67 | Anh trai và em gái; khi nói chuyện công việc gọi MiRae là Chủ Clan |
 | Kang MiRae | HaJin | tôi / em | anh / HaJin | 67 | Em gái và anh trai (chủ clan và phó clan) |
+| Michael Smithson | Carina Malatesta | tôi / ta | cô / các vị | 73 | Hai thủ lĩnh clan kết đồng minh tạm thời |
+| Carina Malatesta | Michael Smithson | tôi / ta | anh / các vị | 73 | Hai thủ lĩnh clan kết đồng minh tạm thời |

@@ -77,7 +77,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | reviewed |  |
 | 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | reviewed |  |
 | 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | reviewed |  |
-| 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | todo |  |
+| 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | done |  |
 | 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | todo |  |
 | 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | todo |  |
 | 76 |  | Chapter_076 - I, too, now 1.txt | I, too, now 1 | todo |  |
@@ -622,3 +622,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#72] Quái vật "Spike Ketura" — Tạm chọn: "Ketura Gai". Phương án khác: "Spike Ketura". → Chốt Ketura Gai (giữ tên riêng loài quái Ketura, dịch tính từ mô tả Spike thành Gai). (orchestrator)
 - [#72] Địa danh "Nerima" / "Nerima district" và "Kita" / "Kita district" — Tạm chọn: "quận Nerima", "quận Kita" (23 quận đặc biệt của Tokyo). → Chốt quận Nerima và quận Kita (các quận đặc biệt của Tokyo). (orchestrator)
 - [#72] Nhân vật "Michael Smithson" — Tạm chọn: "Michael Smithson" (giữ nguyên tên riêng phương Tây theo rules.md). → Chốt giữ nguyên Michael Smithson theo rules.md. (orchestrator)
+- [#73] Chiêu thức tự chế của Yu IlHan: "please-look-at-only-me attack" → Chốt dịch là "Đòn tấn công xin-hãy-chỉ-nhìn-mỗi-mình-tôi" giữ nguyên nét hài hước và cấu trúc gạch nối của raw. (orchestrator)
+- [#73] Danh xưng "Lord of Magia" của Carina Malatesta → Chốt dịch là "Chủ clan Magia" / "Chủ Clan Magia" đồng bộ với thuật ngữ Clan trong truyện. (orchestrator)

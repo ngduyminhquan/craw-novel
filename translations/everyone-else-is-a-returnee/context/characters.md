@@ -28,6 +28,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Michael; Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
+| Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 
 ## Chi tiết
 
@@ -231,3 +232,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
 - Tính cách: Hiếu thắng, ích kỷ, coi trọng danh tiếng và quyền lợi cá nhân hơn tính mạng người khác; sẵn sàng hy sinh các clan nhỏ để làm bàn đạp trục lợi cho mình.
 - Trạng thái tính đến chương 72: Chỉ huy clan Metal Knights tác chiến tại quận Nerima (Tokyo); tức tối vì bị Yu IlHan (Susanoo) cướp sạch quái vật chuyển chức 2; lên kế hoạch lôi kéo các clan quy mô nhỏ làm mồi nhử chết thay để trục lợi danh vọng.
+
+### Carina Malatesta
+- Giới tính, vai trò: Nữ, quý cô quý tộc kiêu kỳ, chủ clan (Lord of Magia) của Clan Magia đến từ Ý.
+- Trạng thái tính đến chương 73: Bắt tay lập tổ đội tạm thời với Michael Smithson (Metal Knights) kết hợp ma pháp hùng mạnh với phòng thủ kiên cố để cùng chống lại bầy quái vật dị biến chuyển chức 3 và 4 bảo vệ Trái Đất.

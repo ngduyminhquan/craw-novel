@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T13:33:50Z",
+  "generatedAt": "2026-10-23T13:43:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -437,6 +437,12 @@
           "title": "Chương 72: Tôi mà là Thần!? (4)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_072.md",
           "sha": "f9c3f765e3824c62fc86528d4a1ac2eac2d9540a"
+        },
+        {
+          "number": 73,
+          "title": "Chương 73: Tôi mà là Thần!? (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_073.md",
+          "sha": "a49a1524a291ceaeb18de9ec4049d7e96f815fd9"
         }
       ]
     }
