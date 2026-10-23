@@ -72,7 +72,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | reviewed |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | reviewed |  |
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | done |  |
-| 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | todo |  |
+| 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | done |  |
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | todo |  |
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | todo |  |
 | 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | todo |  |
@@ -602,3 +602,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#67] Tên clan "Lightning God" — Tạm chọn: "Clan Lôi Thần" (chuẩn Hán Việt, đồng bộ với vũ khí Lôi Thần Chúc Phúc ở #64). Phương án khác: Giữ nguyên "Clan Lightning God" hoặc "Bang Lôi Thần". Tạm dùng trong bản dịch: "Clan Lôi Thần". → Chốt 'Clan Lôi Thần' (orchestrator)
 - [#67] Tên vũ khí "Sharp Wolf Bone Bastard" — Tạm chọn: "Kiếm Bastard Xương Sói Sắc Bén". Phương án khác: "Cốt Kiếm Bastard Sói Sắc Bén". Tạm dùng trong bản dịch: "Kiếm Bastard Xương Sói Sắc Bén". → Chốt 'Kiếm Bastard Xương Sói Sắc Bén' (orchestrator)
 - [#67] Tên quái vật "Dark Shadow" (Lv 93) — Tạm chọn: "Hắc Ảnh" (ngắn gọn, chuẩn Hán Việt). Phương án khác: "Bóng Đêm Hắc Ám", "Bóng Ma Hắc Ám". Tạm dùng trong bản dịch: "Hắc Ảnh". → Chốt 'Hắc Ảnh' (orchestrator)
+- [#68] Câu đùa hoán vị trào phúng installing father in boiler's house & install a Kantou region in insecticide's house → Chấp nhận dịch 'lắp bố vào nhà cái nồi hơi' và 'lắp vùng Kantou vào nhà thuốc diệt côn trùng' để giữ nét hài đảo ngược của nguyên tác (orchestrator)
+- [#68] Thuật ngữ Dungeon Chain Break & Dungeon Wave → Chốt 'Vỡ Hầm Ngục Liên Hoàn' và 'Đợt Sóng Hầm Ngục' (orchestrator)

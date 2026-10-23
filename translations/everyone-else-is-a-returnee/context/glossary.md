@@ -366,3 +366,9 @@
 | Sharp Wolf Bone Bastard |  | Kiếm Bastard Xương Sói Sắc Bén | vật phẩm | 67 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo đại trà từ xương sói |
 | Dark Shadow |  | Hắc Ảnh | quái vật | 67 | Quái vật cấp 93 trong hầm ngục nguy hiểm nhất Trái Đất |
 | Warhammer | War Hammer | Chiến Búa | vật phẩm | 67 | Vũ khí búa chiến |
+| SNS |  | mạng xã hội | khác | 67 | Dịch vụ mạng xã hội (Social Networking Service) |
+| Kantou |  | Kantou | địa danh | 68 | Vùng Kantou ở Nhật Bản nơi có hầm ngục quái vật bóng tối |
+| Litawagon |  | Litawagon | khác | 68 | Cách IlHan trêu chọc Lita khi cô giải thích cặn kẽ, phỏng theo meme Speedwagon (JoJo) |
+| Darth Vader |  | Darth Vader | khác | 68 | Được phép giữ nguyên: Nhân vật phản diện biểu tượng trong Star Wars với tiếng thở khò khè (tham chiếu văn hóa đại chúng) |
+| Dungeon Wave |  | Đợt Sóng Hầm Ngục | hệ thống | 68 | Thảm họa quy mô lớn khi nhiều hầm ngục cùng vỡ liên hoàn |
+| Dungeon Chain Break |  | Vỡ Hầm Ngục Liên Hoàn | hệ thống | 68 | Hiện tượng hàng loạt hầm ngục bị phá vỡ dây chuyền, đồng nghĩa với Đợt Sóng Hầm Ngục |
