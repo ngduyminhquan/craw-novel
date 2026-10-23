@@ -629,3 +629,10 @@ Con rồng chuyển chức 5 Teraka (đã trở thành thực thể cấp cao Ma
 Yu IlHan kích hoạt ma pháp trận tìm đến sào huyệt hang động bí mật và tận dụng sức mạnh tử thần ẩn thân nhất kích tất sát toàn bộ 19 con rồng sơ sinh (Ấu Long Lv 153), chính thức xóa sổ hoàn toàn loài rồng khỏi đại lục Daréu.
 Sau khi thu dọn toàn bộ kho tàng vàng bạc châu báu nhưng thất vọng vì không tìm thấy Trái tim rồng nào, IlHan nhớ tới lời trăn trối của Lecidna và dùng ma pháp trận quay lại hang ổ nơi hai người gặp nhau lần đầu.
 Cảnh kết thúc: Bước vào hang động, Yu IlHan vỡ lẽ nhận ra lý do không thể hiểu nổi Lecidna vì cô là một "bà nội trợ", khi trước mắt anh tại nơi cô từng nằm là một quả trứng vàng kim khổng lồ cùng một bức thư cô để lại.
+
+## 102
+Yu IlHan đọc bức thư của Lecidna khẩn cầu anh nuôi nấng đứa con sắp chào đời trong quả trứng vàng kim và chăm sóc cho các elf; để đền đáp ơn cứu mạng của cô, anh cất quả trứng vào Túi Đeo Chéo và lên kế hoạch ấp nở bằng cách kết hợp Liệt Hỏa, tử hỏa và Ngọn Lửa Vĩnh Cửu.
+Dùng ma pháp trận xác nhận loài rồng đã hoàn toàn tuyệt diệt, IlHan lần lượt thu gom toàn bộ 1.527 người elf sống sót trên đại lục về một khoảng đất trống trong rừng; trước sự ngỡ ngàng của họ, anh tuyên bố đã quét sạch toàn bộ loài rồng và hé lộ thân phận chủ nhân ma pháp trận của đế chế.
+Nhận ra anh thừa kế vị anh hùng Reta Kar'iha và là chủ nhân ma pháp trận, toàn thể 1.527 elf đồng loạt quỳ gối tôn xưng IlHan làm Hoàng đế bệ hạ; bất lực trước sự kiên quyết và sùng kính của họ, IlHan đành chấp nhận danh xưng và quyết định ở lại 10 ngày để tái thiết cộng đồng.
+Anh dẫn các elf về tàn tích của cố đô đế chế, phân công nhóm phi chiến đấu dựng nhà và tích trữ lương thực, đồng thời trực tiếp "dạy dỗ bằng đòn roi" rèn luyện kỹ năng chiến đấu cho nhóm chiến binh rồi phân đội đưa họ đi săn quái yếu qua ma pháp trận.
+Cảnh kết thúc: Thấy trang bị của các elf quá rách nát, IlHan quyết định tự tay rèn vũ khí đơn giản cho họ trước khi đi; Erta trêu chọc anh làm việc như hoàng đế còn IlHan ví von công việc tái thiết này thú vị chẳng khác nào đang chơi Sim City.

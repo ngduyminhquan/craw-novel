@@ -484,3 +484,5 @@
 | casting off one's shell | cast off one's shell; cast away one's shell | lột bỏ lớp vỏ | khác | 100 | Quá trình thực thể cấp cao giải phóng toàn bộ năng lượng tàn dư thế giới bậc thấp (phần tàn dư gọi là lớp vỏ - shell) |
 | Destruction Demon Soldier | Destruction Demon Soldiers | Ma Binh Hủy Diệt | khác | 101 | Chiến binh thuộc Quân Đội Ma Hủy Diệt sau khi trở thành thực thể cấp cao |
 | Immature Dragon |  | Ấu Long | quái vật | 101 | Quái vật rồng sơ sinh chưa thức tỉnh của bầy rồng Quân Đội Ma Hủy Diệt |
+| Emperor |  | Hoàng đế | danh hiệu | 102 | Danh xưng người trị vì đế chế elf mà các elf tôn xưng Yu IlHan sau khi anh tiêu diệt toàn bộ loài rồng và làm chủ ma pháp trận |
+| Sim City |  | Sim City | khác | 102 | Được phép giữ nguyên: Trò chơi điện tử mô phỏng quản lý đô thị mà Yu IlHan liên tưởng khi chỉ đạo tái thiết cộng đồng elf |

@@ -106,7 +106,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 99 |  | Chapter_099 - You, I, Strangers 17.txt | You, I, Strangers 17 | reviewed |  |
 | 100 |  | Chapter_100 - You, I, Strangers 18.txt | You, I, Strangers 18 | done |  |
 | 101 |  | Chapter_101 - I Am A Drifter of My Soul 1.txt | I Am A Drifter of My Soul 1 | done |  |
-| 102 |  | Chapter_102 - I Am A Drifter of My Soul 2.txt | I Am A Drifter of My Soul 2 | todo |  |
+| 102 |  | Chapter_102 - I Am A Drifter of My Soul 2.txt | I Am A Drifter of My Soul 2 | done |  |
 | 103 |  | Chapter_103 - I Am A Drifter of My Soul 3.txt | I Am A Drifter of My Soul 3 | todo |  |
 | 104 |  | Chapter_104 - I Am A Drifter of My Soul 4.txt | I Am A Drifter of My Soul 4 | todo |  |
 | 105 |  | Chapter_105 - I Am A Drifter of My Soul 5.txt | I Am A Drifter of My Soul 5 | todo |  |
@@ -694,3 +694,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#100] Thuật ngữ "casting off one's shell" / "shell" dịch thế nào? → Dịch "casting off one's shell" là "lột bỏ lớp vỏ" (lưu trong glossary.md), còn từ đơn "shell" dịch là "lớp vỏ" trong ngữ cảnh tàn dư thế giới bậc thấp nhưng không thêm từ đơn "shell" vào glossary.md để tránh bắt nhầm từ chung. (orchestrator)
 - [#101] Tiêu đề arc 'I Am A Drifter of My Soul' — Tạm dùng: 'Tôi Là Kẻ Phiêu Lãng Của Linh Hồn Mình 1'. Đề xuất khác: 'Tôi Là Kẻ Phiêu Lãng Trong Tâm Hồn 1' / 'Kẻ Phiêu Lãng Trong Tâm Hồn 1'. → Giữ 'Tôi Là Kẻ Phiêu Lãng Của Linh Hồn Mình', thống nhất cho toàn bộ arc. (orchestrator)
 - [#101] Câu thoại kết 'She was a housewife' — Tạm dùng: 'Cô ấy là một bà nội trợ.' (giữ nguyên nét hài hước ngớ ngẩn đặc trưng khi Yu IlHan phát hiện Lecidna để lại quả trứng rồng). Đề xuất khác: 'Cô ấy là một người phụ nữ của gia đình.' → Giữ 'Cô ấy là một bà nội trợ.' để giữ chất hài hước ngớ ngẩn nguyên bản. (orchestrator)
+- [#102] Danh xưng "Your Majesty the Emperor" / "Your Majesty" và xưng hô của tộc elf với Yu IlHan → Chốt "Emperor" → "Hoàng đế" (bỏ "Your Majesty the Emperor; Majesty" khỏi Alias của "Emperor" để mỗi khái niệm một dòng và tránh cảnh báo giả), trong thoại dịch "Your Majesty the Emperor" là "Hoàng đế bệ hạ", "Your Majesty" là "Bệ hạ", các elf tự xưng "chúng thần" / "thần" và gọi IlHan là "ngài" / "bệ hạ". (orchestrator)
