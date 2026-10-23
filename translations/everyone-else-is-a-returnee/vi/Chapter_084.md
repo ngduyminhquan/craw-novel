@@ -198,7 +198,7 @@ Kỳ vọng của anh đã bị phản bội cay đắng.
 
 Anh thấy có lỗi với Reta, nhưng lũ oan hồn chết tiệt này có hiệu suất tệ hại nhất trần đời.
 
-Tàn tích! Tựa như muốn chế nhạo khát khao thu thập tàn tích của Yu IlHan, lũ oan hồn khi bị tiêu diệt chỉ đơn giản là tan biến vào hư không, chẳng thèm để lại lấy một đồng cắc!
+Phụ phẩm! Tựa như muốn chế nhạo khát khao thu gom phụ phẩm của Yu IlHan, lũ oan hồn khi bị tiêu diệt chỉ đơn giản là tan biến vào hư không, chẳng thèm để lại lấy một đồng cắc!
 
 À thì, hiệu suất điểm kinh nghiệm từ lũ oan hồn cũng không đến nỗi nào, nhưng để thỏa mãn được thì lượng kinh nghiệm cần thiết lại quá đỗi khổng lồ.
 
@@ -230,7 +230,7 @@ Chà, điều đó đúng là sự thật.
 
 Nếu có điều gì mà Yu IlHan gặt hái được sau chuyện này, thì đó chính là, như lời Erta đã nói, anh đã hoàn toàn thuần thục cách vận dụng các năng lực của chức nghiệp phụ Bạn Đồng Hành Thiên Thần.
 
-Không chỉ trở nên tinh thông năng lực cơ bản nhận được khi trở thành Bạn Đồng Hành Thiên Thần là Kẻ Phá Vỡ, anh còn khá thành thục kỹ năng Thiên Thần Chi Viện, kỹ năng cho phép anh tiếp nhận sức mạnh của Erta để sử dụng khi chính cô không thể tự mình thi triển do đang ở trong Thế Giới Bị Bỏ Rơi.
+Không chỉ trở nên tinh thông năng lực cơ bản nhận được khi trở thành Bạn Đồng Hành Thiên Thần (khắc chế Kẻ Phá Vỡ), anh còn khá thành thục kỹ năng Thiên Thần Chi Viện, kỹ năng cho phép anh tiếp nhận sức mạnh của Erta để sử dụng khi chính cô không thể tự mình thi triển do đang ở trong Thế Giới Bị Bỏ Rơi.
 
 Erta tự nhận mình kém cạnh so với Lita, nhưng dù anh mới chỉ tiếp nhận một phần sức mạnh của cô, các chỉ số năng lực của anh đã tăng vọt hơn 30%.
 
@@ -260,7 +260,7 @@ Ma pháp trận kích hoạt và nuốt trọn lấy Yu IlHan. Khoảnh khắc t
 
 Tuy nhiên, điều quan trọng lúc này không phải là ma pháp trận mà là con mãng xà khổng lồ kia, nói cách khác, chính là một sinh vật Long tộc chuyển chức 3.
 
-Anh đã hoàn tất mọi tính toán ngay khi vừa nhìn thấy nó. Con rắn chuyển chức 3 này chỉ là bia đỡ cho một phát nhất kích tất sát, và con tiếp theo sau nó cũng sẽ thế. Dù Thiên Thần Chi Viện quả thực rất đáng kinh ngạc, nhưng những kỹ nghệ đã khắc sâu vào cơ thể Yu IlHan lại càng phi thường hơn thế gấp bội.
+Anh đã hoàn tất mọi tính toán ngay khi vừa nhìn thấy nó. Con rắn chuyển chức 3 này chỉ là con mồi cho một cú nhất kích tất sát, và con tiếp theo sau nó cũng sẽ thế. Dù Thiên Thần Chi Viện quả thực rất đáng kinh ngạc, nhưng những kỹ nghệ đã khắc sâu vào cơ thể Yu IlHan lại càng phi thường hơn thế gấp bội.
 
 Anh bật nhảy vút lên trong lúc đẩy Ẩn Thân lên mức tối đa.
 

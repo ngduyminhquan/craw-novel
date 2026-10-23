@@ -252,7 +252,7 @@ Có người đã nói 'chỉ'. 5 triệu đô-la tương đương với khoản
 
 "Chúng thuộc hàng tạo tác đỉnh cao ngay cả trong phẩm cấp Độc Nhất, thế mà mỗi món lại chỉ có 5 triệu đô-la thôi sao?"
 
-"Vũ khí chuẩn đang được bán với giá 100 triệu won Hàn Quốc. Xin hãy coi chuyện này là một sự nối dài từ điều đó."
+"Vũ khí chuẩn đang được bán với giá 100 triệu won Hàn Quốc. Xin hãy coi chuyện này là một sự tiếp nối từ mức giá đó."
 
 "Rốt cuộc là ai đã tạo nên Vanguard chứ, một sứ giả của Thượng Đế đang mưu toan giải cứu Trái Đất sao?"
 

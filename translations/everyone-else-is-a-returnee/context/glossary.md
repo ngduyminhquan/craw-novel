@@ -211,7 +211,7 @@
 | Curse |  | Lời Nguyền | hệ thống | 46 | Thuộc tính ma pháp hắc ám hoặc hiệu ứng trạng thái bất lợi ăn mòn cơ thể |
 | Flame Lizard | Flame Lizards | Thằn Lằn Lửa | quái vật | 35 | Quái vật biến dị chuyển chức lần 2 xuất hiện trong Hiện Tượng Tràn tại Los Angeles |
 | Flashing |  | Thiểm Quang | hệ thống | 36 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
-| Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công |
+| Insane |  | Cuồng Loạn | hệ thống | 36 | Tiền tố dòng thuộc tính beta tăng sức tấn công. Chỉ dịch Cuồng Loạn khi là tiền tố hoặc dòng thuộc tính trang bị; trong khẩu ngữ/lời thoại cảm thán dịch tự nhiên là 'điên rồ / điên mất thôi' để tránh QA cảnh báo nhầm |
 | Flashing Insane Pile bunker |  | Súng Bắn Cọc Thiểm Quang Cuồng Loạn | vật phẩm | 36 | Vũ khí Súng Bắn Cọc cải tiến bằng kim loại Thiết Tâm, sở hữu 2 dòng thuộc tính Thiểm Quang và Cuồng Loạn |
 | Status points |  | Điểm chỉ số | hệ thống | 35 | Điểm chỉ số cơ bản nhận được khi thăng cấp hoặc hoàn thành nhiệm vụ |
 | Ignorant Giant's Black Greatsword |  | Hắc Đại Kiếm Cự Nhân Vô Tri | vật phẩm | 37 | Đại kiếm đen của Yu IlHan rèn từ tim Kim Loại Lõi, mang dòng thuộc tính tăng 50% trọng lượng và 20% sức mạnh |
@@ -449,3 +449,4 @@
 | Ghost | Ghosts | Oan hồn | quái vật | 84 | Quái vật thuộc chủng Undead hình thành từ những linh hồn chết oan do thảm họa hoặc vương quốc diệt vong |
 | World Hunt |  | Cuộc Săn Thế Giới | khác | 84 | Khái niệm chỉ chiến dịch đi săn quái vật quét sạch cả một thế giới của Yu IlHan |
 | mana sickness |  | say mana | khác | 84 | Hiện tượng choáng váng do tiếp xúc với nồng độ mana quá đậm đặc ở thế giới khác |
+| cheer pack |  | túi cheer pack | vật phẩm | 84 | Bao bì dạng túi có vòi nắp vặn dùng đựng thức uống máu |
