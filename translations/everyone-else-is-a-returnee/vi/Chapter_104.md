@@ -120,7 +120,7 @@ Yu IlHan há hốc mồm kinh ngạc.
 
 [Hì hì, thế thì tôi sẽ đưa cho vài cái. Lần này chiến công của cậu lớn như vậy, xin bốn cái tạo tác thông dịch chắc chẳng khó khăn gì đâu.]
 
-Yu IlHan cũng bật cười khi thấy Erta đang tận hưởng cảm giác ưu việt mà lâu lắm rồi cô mới có được. Thế nhưng niềm vui đó chỉ kéo dài trong thoáng chốc. Vừa nghe thấy ba chữ 'Quân Đội Thiên Giới', anh liền sực nhớ tới một người, và sắc mặt anh lập tức tái đi.
+Yu IlHan cũng bật cười khi thấy Erta đang tận hưởng cảm giác ưu việt mà lâu lắm rồi cô mới có được. Thế nhưng niềm vui đó chỉ kéo dài trong thoáng chốc. Vừa nghe thấy cụm từ 'Quân Đội Thiên Giới', anh liền sực nhớ tới một người, và sắc mặt anh lập tức tái đi.
 
 "Liệu Lita có ổn không?"
 
@@ -234,6 +234,6 @@ Anh sẽ nghĩ 'chuyện đó cũng có thể xảy ra nếu là kẻ nào đó 
 
 Chẳng lẽ cô ấy vừa nhận được tin tức về Lita nên đã quay về trước rồi sao? Hoàn toàn có khả năng đó — Yu IlHan vừa thầm nghĩ vừa đẩy cửa phòng ngủ.
 
-Trên chiếc giường cỡ lớn king-size mà Yu IlHan đã chẳng tiếc tiền sắm sửa vì luôn tâm niệm rằng giấc ngủ là điều quý giá nhất trên Trái Đất, một mỹ nhân với hai đôi cánh đang say sưa đánh giấc nồng trên giường, tiếng ngáy khò khò vang lên đều đặn.
+Trên chiếc giường cỡ lớn king-size mà Yu IlHan đã chẳng tiếc tiền sắm sửa vì luôn tâm niệm rằng giấc ngủ là điều quý giá nhất trên Trái Đất, một mỹ nhân với hai đôi cánh đang say sưa đánh giấc nồng, tiếng ngáy khò khò vang lên đều đặn.
 
 [← Chương trước](Chapter_103.md) | [Chương tiếp theo →](Chapter_105.md)

@@ -107,9 +107,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 100 |  | Chapter_100 - You, I, Strangers 18.txt | You, I, Strangers 18 | reviewed |  |
 | 101 |  | Chapter_101 - I Am A Drifter of My Soul 1.txt | I Am A Drifter of My Soul 1 | reviewed |  |
 | 102 |  | Chapter_102 - I Am A Drifter of My Soul 2.txt | I Am A Drifter of My Soul 2 | reviewed |  |
-| 103 |  | Chapter_103 - I Am A Drifter of My Soul 3.txt | I Am A Drifter of My Soul 3 | done |  |
-| 104 |  | Chapter_104 - I Am A Drifter of My Soul 4.txt | I Am A Drifter of My Soul 4 | done |  |
-| 105 |  | Chapter_105 - I Am A Drifter of My Soul 5.txt | I Am A Drifter of My Soul 5 | done |  |
+| 103 |  | Chapter_103 - I Am A Drifter of My Soul 3.txt | I Am A Drifter of My Soul 3 | reviewed |  |
+| 104 |  | Chapter_104 - I Am A Drifter of My Soul 4.txt | I Am A Drifter of My Soul 4 | reviewed |  |
+| 105 |  | Chapter_105 - I Am A Drifter of My Soul 5.txt | I Am A Drifter of My Soul 5 | reviewed |  |
 | 106 |  | Chapter_106 - I Am A Drifter of My Soul 6.txt | I Am A Drifter of My Soul 6 | todo |  |
 | 107 |  | Chapter_107 - I Am A Drifter of My Soul 7.txt | I Am A Drifter of My Soul 7 | todo |  |
 | 108 |  | Chapter_108 - I Am A Drifter of My Soul 8.txt | I Am A Drifter of My Soul 8 | todo |  |
@@ -699,3 +699,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#103] Chuẩn hóa thuật ngữ 2nd Great Cataclysm và các từ chung trong glossary.md → Chốt 2nd Great Cataclysm → Đại Tai Biến lần 2 (bỏ dấu / và đồng bộ với chương 62-84); xóa 3 từ/cụm từ chung viết thường (meister, battle royale, mana crafter magic stone) khỏi glossary.md. (orchestrator)
 - [#104] Chuẩn hóa thuật ngữ Taegukgi và các cụm từ chung trong glossary.md → Chốt Taegukgi → cờ Thái Cực (bỏ dấu / và bỏ Korean flag khỏi Alias); xóa 2 cụm từ miêu tả chung viết thường (translation magic, translation artifact) khỏi glossary.md. (orchestrator)
 - [#105] Tên tạo tác của Liera "Apocalyptic-ally Beautiful Steel spear Blessed by the god of love" và dòng kết hụt "-Fin-" → Chốt tên tạo tác là "Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước" (lột tả sự khoa trương sến sẩm gây cười của nguyên tác) và dịch "-Fin-" thành "-Hết-". (orchestrator)
+- [#103-105] Các câu hỏi review chương 103-105: đồng bộ tiêu đề #103, sửa "cụm từ 'Quân Đội Thiên Giới'" (#104 đoạn 61), sửa đoạn 20/66/69 chương 105 và đề xuất cập nhật context → Chấp nhận toàn bộ 10 chỉnh sửa văn bản ở chương 103-105 và cập nhật trạng thái chương 105 của Yu IlHan trong characters.md; bác đề xuất thêm Dang vào style.md và quy tắc đếm chữ vào rules.md. (orchestrator)

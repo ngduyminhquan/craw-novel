@@ -1,4 +1,4 @@
-# Chương 103: Tôi là kẻ phiêu bạt của linh hồn mình 3
+# Chương 103: Tôi Là Kẻ Phiêu Lãng Của Linh Hồn Mình 3
 
 Yu IlHan chọn ra vài thợ rèn elf làm phụ tá rồi bắt tay vào chế tạo vũ khí. Nguyên liệu hiển nhiên là số xác Long tộc chuyển chức 3 đang chất đống tràn trề trong Túi Đeo Chéo của anh! Mắt các elf như muốn lồi cả ra ngoài khi tận mắt chứng kiến thứ anh đang xử lý.
 
@@ -116,7 +116,7 @@ Vì vậy, Yu IlHan chân thành giãi bày với các elf.
 
 "Nơi này nguy hiểm, nhưng quê hương Trái Đất của tôi cũng đang hiểm nguy không kém."
 
-Anh đã thành lập Vanguard và nâng cao chiến lực cho vài hội nhóm bang hội. Người Trái Đất chắc chắn đã trở nên mạnh mẽ hơn.
+Anh đã thành lập Vanguard và nâng cao chiến lực cho vài clan. Người Trái Đất chắc chắn đã trở nên mạnh mẽ hơn.
 
 Thế nhưng, anh vẫn không khỏi bận lòng lo lắng. Nếu không có cái cớ là ổn định tình hình Daréu thì dẫu chỉ là tạm thời, anh cũng đã chẳng tiếp nhận ngôi vị hoàng đế elf.
 
@@ -196,7 +196,7 @@ Cuối cùng anh không tài nào chịu nổi những ánh nhìn ấy đành qu
 
 "Im đi."
 
-Trong lúc Erta xúc động trước một khía cạnh mới mẻ của Yu IlHan và buông lời trêu chọc anh, một trận đại chiến sinh tồn battle royale đã nổ ra giữa những elf khao khát được theo chân Yu IlHan.
+Trong lúc Erta xúc động trước một khía cạnh mới mẻ của Yu IlHan và buông lời trêu chọc anh, một trận đại chiến sinh tồn đã nổ ra giữa những elf khao khát được theo chân Yu IlHan.
 
 Hàng trăm elf lao vào đấm đá hỗn chiến tơi bời với kiếm, rìu, cung tên, thương hoặc búa, thậm chí có kẻ còn vác theo cả búa rèn lẫn chảo rán. Chứng kiến cảnh tượng dữ dội ấy, Yu IlHan thấy thật buồn cười và lẩm bẩm trong niềm vui sướng.
 
@@ -204,7 +204,7 @@ Hàng trăm elf lao vào đấm đá hỗn chiến tơi bời với kiếm, rìu
 
 Lần đầu tiên trong cuộc đời của một kẻ cô độc, Yu IlHan tự mình ngoái nhìn lại cuộc đời đã qua.
 
-[Chắc là không đâu, tại vì thuật Ẩn Thân của cậu đấy.]
+[Chắc là không đâu, tại vì kỹ năng Ẩn Thân của cậu đấy.]
 
 Erta lên tiếng, trước khi bồi thêm một câu.
 
@@ -254,7 +254,7 @@ Trong mắt Yu IlHan, họ chỉ là những kẻ yếu ớt mà anh còn nghi n
 
 Yu IlHan tiến về khu vực rìa ngoài của ma pháp trận và tìm kiếm cánh cổng dẫn tới Trái Đất.
 
-Trong khi các elf đang sáng bừng mắt vì sung sướng khi sắp được đến nơi Yu IlHan sinh ra và lớn lên, thì sau khi ngắm nghía diện mạo của họ, Yu IlHan đã hạ quyết tâm sẽ phủ thuật Ẩn Thân lên người họ để đi lậu khi về Hàn Quốc.
+Trong khi các elf đang sáng bừng mắt vì sung sướng khi sắp được đến nơi Yu IlHan sinh ra và lớn lên, thì sau khi ngắm nghía diện mạo của họ, Yu IlHan đã hạ quyết tâm sẽ phủ Ẩn Thân lên người họ để đi lậu khi về Hàn Quốc.
 
 Tìm kiếm cánh cổng chẳng tốn bao nhiêu thời gian. Mượn sức mạnh của Erta để đục thêm một cái lỗ chó khác cũng không quá khó khăn, và tất nhiên, việc cả sáu người bao gồm Yu IlHan thoát ra Trái Đất lại càng dễ dàng hơn nữa.
 

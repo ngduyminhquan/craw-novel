@@ -38,7 +38,7 @@ Thở dài.
 
 Giờ đã được nằm ở tư thế thoải mái, nét mặt nhăn nhó của Lita dần giãn ra.
 
-Khóe mặt Yu IlHan cũng giãn ra khi nghĩ rằng dáng vẻ này trông giống một bà chị hàng xóm hơn là một thực thể cấp cao.
+Nét mặt Yu IlHan cũng giãn ra khi nghĩ rằng dáng vẻ này trông giống một bà chị hàng xóm hơn là một thực thể cấp cao.
 
 Dù sao thì, anh thấy thật may mắn khi Lita vẫn bình an vô sự. Quay đầu lại, anh bắt gặp bốn người elf đang chằm chằm nhìn mình.
 
@@ -130,13 +130,13 @@ Thế nhưng, cô chẳng thể giãi bày hết ruột gan, nên rốt cuộc c
 
 …nói ra những lời đó.
 
-Yu IlHan bước ra khỏi bồn tắm sau khi kết thúc khoảng thời gian ngâm mình sảng khoái sau chuỗi ngày dài đằng đẵng. Anh mặc quần áo mới, rồi lùa bốn người elf (sau khi đã tách riêng nam nữ) vẫn đang đứng ngơ ngác đực mặt ra dù anh đã phân chia phòng từ trước.
+Yu IlHan bước ra khỏi bồn tắm sau khi kết thúc khoảng thời gian ngâm mình sảng khoái sau chuỗi ngày dài đằng đẵng. Anh mặc quần áo mới, rồi lùa bốn người elf (sau khi đã tách riêng nam nữ) vào phòng khi thấy họ vẫn đang đứng ngơ ngác đực mặt ra dù anh đã phân chia phòng từ trước.
 
 Sau đó, anh tạt qua một cửa hàng gần đó mua cả đống quần áo và đồ lót, rồi phát cho họ những tạo tác hình khuyên tai nhận được từ Erta.
 
 "Ồ, bộ đồ này thoải mái thật đấy."
 
-"Đồ lót chật quá, Bệ hạ ơi. Cả ngực lẫn hông của thần đều bị thít chặt...."`
+"Đồ lót chật quá, Bệ hạ ơi. Cả ngực lẫn hông của thần đều bị thít chặt...."
 
 "Vậy lát nữa tự đi mà mua."
 
