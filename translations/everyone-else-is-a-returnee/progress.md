@@ -86,7 +86,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 79 |  | Chapter_079 - I, too, now 4.txt | I, too, now 4 | reviewed |  |
 | 80 |  | Chapter_080 - I, too, now 5.txt | I, too, now 5 | reviewed |  |
 | 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | reviewed |  |
-| 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | todo |  |
+| 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | done |  |
 | 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | todo |  |
 | 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | todo |  |
 | 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | todo |  |
@@ -369,9 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -644,3 +641,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#81] Tên nhân vật "Yoon DaeBang" ở đoạn 52 của raw — Tạm chọn: Dịch thành "Yun DaeHan" vì đây là lỗi gõ nhầm tên của bản raw tiếng Anh đối với nhân vật Đại tá Yun DaeHan, đồng thời thêm alias "Yoon DaeBang" vào characters.md. Phương án khác: Giữ nguyên "Yoon DaeBang". Tạm dùng trong bản dịch: "Yun DaeHan". → Chốt dịch là Yun DaeHan vì đây là lỗi gõ nhầm tên của raw EN, thêm Yoon DaeBang vào Alias. (orchestrator)
 - [#81] Dòng T/N chứa ngoặc lồng nhau "(T/N: A change in naming: Holy Knight -> Paladin. (Kang HaJin's job))" ở đầu raw — Tạm chọn: Thêm vào raw_ignore_lines của novel.json và ghi chú vào rules.md để script clean_raw loại bỏ triệt để dấu ngoặc đóng thừa. Phương án khác: Giữ nguyên và dịch đoạn thừa. Tạm dùng trong bản dịch: Đã thêm vào raw_ignore_lines. → Chốt thêm dòng T/N ngoặc lồng nhau vào raw_ignore_lines trong novel.json và ghi chú vào rules.md theo đúng bước B2 của novel-translate. (orchestrator)
 - [#81] Thuật ngữ chức nghiệp "Paladin" trong raw — Tạm chọn: Giữ bản dịch "Thánh Kỵ Sĩ" (đồng bộ với chức nghiệp của Kang HaJin đã chốt ở #47, thêm alias 'Paladin' vào glossary.md). Phương án khác: Dịch là "Hiệp Sĩ Paladin" hoặc "Kỵ Sĩ Thánh". Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Chốt giữ bản dịch Thánh Kỵ Sĩ (đồng bộ với chức nghiệp của Kang HaJin ở #47, thêm Paladin vào Alias). (orchestrator)
+- [#82] Tên dịch các clan quốc tế mới: "Magic Dragon Clan" (Nhật Bản) dịch là "Clan Ma Long" (đồng bộ theo tên Hán Việt như Clan Lôi Thần); "Phoenix Clan" (Pháp) dịch là "Clan Phoenix" (giữ dạng Latin như các clan phương Tây Metal Knights, Magia). — Tạm dùng trong bản dịch: "Clan Ma Long" và "Clan Phoenix". → Chốt Clan Ma Long (Nhật Bản) và Clan Phoenix (Pháp). (orchestrator)
+- [#82] Câu cảm thán thoại "Insane." của chủ clan khi nghe về 520 tạo tác Độc Nhất — Tạm dùng trong bản dịch: "Điên rồ thật." (qa_check cảnh báo do glossary có 'Insane' -> 'Cuồng Loạn' vốn áp dụng cho tiền tố trang bị/kỹ năng). Đề xuất giữ nguyên cách dịch tự nhiên trong thoại. → Chốt giữ nguyên Điên rồ thật. cho câu cảm thán thoại Insane. (orchestrator)

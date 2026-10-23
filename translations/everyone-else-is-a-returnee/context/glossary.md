@@ -437,3 +437,8 @@
 | Leytna |  | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
 | Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
 | Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
+| Magic Dragon Clan | Magic Dragon clan; Magic Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
+| Phoenix Clan | Phoenix Clan of France | Clan Phoenix | tổ chức | 82 | Clan dị năng giả của Pháp tham gia đợt sóng hầm ngục tại Nhật Bản |
+| Soul-sticking Spike Leather Whip |  | Roi Da Gai Dính Hồn | vật phẩm | 82 | Tạo tác roi da phẩm cấp Độc Nhất do Yu IlHan chế tạo |
+| France |  | Pháp | địa danh | 82 | Quốc gia ở châu Âu, quê hương của Clan Phoenix |
+| Germany |  | Đức | địa danh | 82 | Quốc gia ở châu Âu |

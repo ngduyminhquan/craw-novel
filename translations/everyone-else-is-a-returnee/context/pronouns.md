@@ -31,6 +31,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Tamura | anh ta / Tamura | 70 | Dị năng giả Nhật Bản tại Odawara |
 | Michael Smithson | hắn / gã / Smithson | 72 | Thủ lĩnh Clan Metal Knights |
 | Carina Malatesta | cô / Carina / Carina Malatesta | 73 | Chủ clan Magia (Ý) |
+| Takagaki Asuha | cô / Takagaki Asuha | 82 | Nữ chủ clan của Clan Ma Long (Nhật Bản) |
 
 ## Giữa các nhân vật
 
@@ -105,5 +106,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | HaJin | tôi / em | anh / HaJin | 67 | Em gái và anh trai (chủ clan và phó clan) |
 | Michael Smithson | Carina Malatesta | tôi / ta | cô / các vị | 73 | Hai thủ lĩnh clan kết đồng minh tạm thời |
 | Carina Malatesta | Michael Smithson | tôi / ta | anh / các vị | 73 | Hai thủ lĩnh clan kết đồng minh tạm thời |
-| Spiera | Erta | ta / tôi | Erta / cô | 77 | Spiera truyền đạt chỉ thị và giải thích quyết định của cấp trên cho Erta |
-| Erta | Spiera | tôi | ngài Spiera / Spiera-nim | 77 | Erta tranh luận và chất vấn quyết định của Spiera và hội đồng Thiên giới |
+| Spiera | Erta | ta / tôi | Erta / cô | 77 | Spiera truyền đạt chỉ thị và giải thích quyết định của cấp trên cho Erta |
+
+| Erta | Spiera | tôi | ngài Spiera / Spiera-nim | 77 | Erta tranh luận và chất vấn quyết định của Spiera và hội đồng Thiên giới |
+| Yu IlHan | Takagaki Asuha | tôi | cô | 82 | IlHan tiếp đón và trao đổi trang bị với chủ clan Ma Long |
+| Takagaki Asuha | Yu IlHan | tôi | anh | 82 | Chủ clan Ma Long đàm phán và ngỏ lời bảo hộ Yu IlHan |
+

@@ -29,6 +29,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Michael; Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
+| Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
 
 ## Chi tiết
 
@@ -108,6 +109,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 79: Nâng Chế Tác Mana lên cấp 33; trích xuất thành công dòng thuộc tính của áo choàng, giáp và thương cũ vào 3 ma thạch chuyển chức 3; chế tạo 300 Dao Găm Orochi Thiểm Quang (phẩm cấp Hiếm) từ vảy quái xà ghép vào áo choàng da để hoàn thành Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo (phẩm cấp Truyền Thuyết, tạo sóng xung kích bằng mana kết hợp bão sét); hoàn thành nội giáp Giáp Da Hắc Mãng Ám Long Cường Đại (phẩm cấp Độc Nhất); chuẩn bị hoàn thiện ngoại giáp gắn lưỡi dao xương phục vụ Vale Tudo.
 - Trạng thái tính đến chương 80: Chế tạo thành công Đại Khải Hắc Mãng Cắn Xé Thiết Giáp Hỏa Long (phẩm cấp Truyền Thuyết, phòng thủ 6.500, sức tấn công 4.200, kháng hỏa 80% kèm phản đòn, phóng to lưỡi dao bằng mana) tích hợp hàng trăm lưỡi dao xương Orochi và ma thạch Thiết Giáp Hỏa Long; nỗ lực nung chảy cự kiếm Thiên Tùng Vân Kiếm để rèn thương mới; kết thúc 2 tháng đóng băng thời gian của Đồng Hồ Cát Vĩnh Hằng; gọi điện cho Đại tá Yun DaeHan để chào bán trang bị giá rẻ cho lực lượng Trấn Áp.
 - Trạng thái tính đến chương 81: Cởi bỏ mặt nạ tại văn phòng tầng 14 Vanguard; đàm phán cung cấp độc quyền vũ khí sản xuất đại trà (như Kiếm Bastard Xương Hổ Trọng Áp) cho lực lượng Trấn Áp; tiếp đón Clan Lôi Thần và tiếp nhận 3 viên Thánh Thạch của Nữ Thần Sắc Đẹp Leytna để chế tác trang bị; thẳng thừng từ chối sự gạ gẫm và đòi bỏ kính ngữ của Na YuNa.
+- Trạng thái tính đến chương 82: Mở buổi bán trang bị độc quyền tại tầng 14 Vanguard cho các clan tham chiến tại Nhật Bản; thẳng tay trục xuất chủ Clan Phoenix vì thái độ xấc xược; công khai danh tính chủ tịch Vanguard và tiết lộ trình độ Chế Tác Mana vượt cấp 30; chào bán vũ khí phẩm cấp Độc Nhất (như Roi Da Gai Dính Hồn công 3.200) với mức giá cố định 5 triệu USD mỗi món khiến các chủ clan sững sờ nể phục.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -247,7 +249,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
 - Tính cách: Hiếu thắng, ích kỷ, coi trọng danh tiếng và quyền lợi cá nhân hơn tính mạng người khác; sẵn sàng hy sinh các clan nhỏ để làm bàn đạp trục lợi cho mình.
 - Trạng thái tính đến chương 72: Chỉ huy clan Metal Knights tác chiến tại quận Nerima (Tokyo); tức tối vì bị Yu IlHan (Susanoo) cướp sạch quái vật chuyển chức 2; lên kế hoạch lôi kéo các clan quy mô nhỏ làm mồi nhử chết thay để trục lợi danh vọng.
+- Trạng thái tính đến chương 82: Đại diện Clan Metal Knights tới mua trang bị tại Vanguard; miễn cưỡng hùa theo các clan khác ngỏ ý bảo hộ Yu IlHan với vẻ mặt nhăn nhó; sững sờ trước chất lượng và mức giá tạo tác Độc Nhất của IlHan.
 
 ### Carina Malatesta
 - Giới tính, vai trò: Nữ, quý cô quý tộc kiêu kỳ, chủ clan (Lord of Magia) của Clan Magia đến từ Ý.
 - Trạng thái tính đến chương 73: Bắt tay lập tổ đội tạm thời với Michael Smithson (Metal Knights) kết hợp ma pháp hùng mạnh với phòng thủ kiên cố để cùng chống lại bầy quái vật dị biến chuyển chức 3 và 4 bảo vệ Trái Đất.
+
+### Takagaki Asuha
+- Giới tính, vai trò: Nữ, chủ clan (Clan Master) của Clan Ma Long (Magic Dragon Clan) đến từ Nhật Bản.
+- Vũ khí: Dùng roi da quấn quanh eo.
+- Tính cách: Sắc sảo, thực tế, lịch thiệp và nhạy bén; tỏ ra hứng thú đặc biệt với vũ khí roi da cấp cao của Yu IlHan.
+- Trạng thái tính đến chương 82: Đại diện Clan Ma Long tham dự buổi mở bán tại Vanguard; chất vấn và ngỏ lời bảo hộ Yu IlHan; say mê chiếc Roi Da Gai Dính Hồn phẩm cấp Độc Nhất và là người đầu tiên đăng ký mua.

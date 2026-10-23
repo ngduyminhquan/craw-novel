@@ -497,3 +497,9 @@ Sau khi hai người kia rời đi, Na YuNa ở lại chất vấn việc IlHan 
 Cảnh kết thúc: Trước cửa thang máy, Yu IlHan thẳng thắn tuyên bố ghét tính cách của cô hơn cả ngoại hình, giáng đòn thất bại toàn diện đầu tiên trong đời vào nữ hoàng ngoại giao Na YuNa.
 
 
+## 82
+Sau khi Đợt Sóng Hầm Ngục tại Nhật Bản được dẹp yên, dư luận và truyền thông bùng nổ xoay quanh ba chủ đề nóng: sự trỗi dậy của các clan hàng đầu (Clan Lôi Thần, Magia, Metal Knights), các đòi hỏi vô lý nhằm thôn tính hoặc kiểm soát thương hiệu Vanguard, và làn sóng tranh cãi tôn sùng thần tính của Susanoo cùng các giả thuyết liên kết anh với Hiệp Sĩ Bóng Đêm LA hay Sungdaein Bolt.
+Một tuần sau khi rời khỏi kết giới Đồng Hồ Cát Vĩnh Hằng, Yu IlHan mở buổi bán trang bị phẩm cấp cao tại tầng 14 Vanguard cho 27 đại diện clan; anh thẳng tay bẻ gãy ghế và trục xuất chủ Clan Phoenix (Pháp) vì thái độ thô lỗ, khiến các clan còn lại ngoan ngoãn nể sợ.
+IlHan công khai thân phận chủ tịch Vanguard, từ chối mở chi nhánh quốc tế hay chịu bất kỳ sự bảo hộ/chi phối nào từ các cường quốc, đồng thời giới thiệu danh mục mở bán gồm 30 bộ trang bị chuẩn và 10 bộ trang bị phẩm cấp Độc Nhất (kèm phụ kiện nhờ trình độ Chế Tác Mana trên cấp 30).
+Anh đưa Roi Da Gai Dính Hồn (phẩm cấp Độc Nhất, công 3.200) cùng dây chuyền tăng cường ma pháp cho Takagaki Asuha (chủ Clan Ma Long Nhật Bản) và các chủ clan chuyền tay kiểm tra, khiến tất cả mê mẩn trước hiệu năng phi thường.
+Cảnh kết thúc: Trước nỗi lo lắng của các clan về mức giá trên trời, Yu IlHan công bố mức giá cố định chỉ 5 triệu USD (khoảng 5 tỷ won) cho mỗi món tạo tác Độc Nhất khiến toàn thể chủ clan sững sờ câm nín, không một ai dám rời khỏi phòng giao dịch.
