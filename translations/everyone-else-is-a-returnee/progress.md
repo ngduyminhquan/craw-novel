@@ -82,7 +82,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | reviewed |  |
 | 76 |  | Chapter_076 - I, too, now 1.txt | I, too, now 1 | done |  |
 | 77 |  | Chapter_077 - I, too, now 2.txt | I, too, now 2 | done |  |
-| 78 |  | Chapter_078 - I, too, now 3.txt | I, too, now 3 | todo |  |
+| 78 |  | Chapter_078 - I, too, now 3.txt | I, too, now 3 | done |  |
 | 79 |  | Chapter_079 - I, too, now 4.txt | I, too, now 4 | todo |  |
 | 80 |  | Chapter_080 - I, too, now 5.txt | I, too, now 5 | todo |  |
 | 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | todo |  |
@@ -370,6 +370,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -630,3 +631,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#75] Thuật ngữ game MMO/RPG: Cụm từ boss "pattern change" và "second phase / third phase / final phase" → Chốt dịch thành "đổi cơ chế" và "giai đoạn hai / giai đoạn ba / giai đoạn cuối" theo thuật ngữ đánh trùm game. (orchestrator)
 - [#76] Danh hiệu "Dragon Slayer" → Chốt dịch Hán Việt ngắn gọn theo rules.md là "Đồ Long Giả". (orchestrator)
 - [#76] Tên thần kiếm "Heavenly Cloud-Gathering Sword (Ama no Murakumo no Tsurugi)" → Chốt tên tạo tác là "Thiên Tùng Vân Kiếm" (giữ chú thích "(Ama no Murakumo no Tsurugi)" ở thông báo nhận vật phẩm theo raw). (orchestrator)
+- [#78] Thuật ngữ kỹ thuật "extraction" trong Chế Tác Mana (rút năng lực từ trang bị sang ma thạch) — Tạm chọn: "trích xuất". Phương án khác: "chiết xuất", "thu hồi". → Chốt trích xuất. (orchestrator)
+- [#78] Chức nghiệp chuyên về Chế Tác Mana "enchanter" — Tạm chọn: "phù phép sư". Phương án khác: "thợ phù phép", "ma pháp tượng sư". → Chốt phù phép sư. (orchestrator)
+- [#78] Phẩm cấp trang bị mới xuất hiện "Epic rank / epic-ranked" — Tạm chọn: "Sử Thi". Phương án khác: "Sử thi". → Chốt Sử Thi (viết hoa chữ cái đầu đồng bộ với Hiếm, Độc Nhất, Truyền Thuyết, Thần). (orchestrator)
+- [#78] Dòng thuộc tính kích hoạt của Thiên Tùng Vân Kiếm "Purple Flame" — Tạm chọn: "Hỏa Tím". Phương án khác: "Ngọn Lửa Tím". → Chốt Hỏa Tím. (orchestrator)
+- [#78] Dòng thuộc tính beta "Tyrant" của ma thạch chuyển chức 2 — Tạm chọn: "Bạo Chúa". Phương án khác: "Bạo Ngược". → Chốt Bạo Chúa. (orchestrator)

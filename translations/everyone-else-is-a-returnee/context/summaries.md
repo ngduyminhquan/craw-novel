@@ -471,3 +471,9 @@ Yu IlHan trở về nhà tại Seoul sau khi càn quét Chiba, kiệt sức ng�
 Spiera thông báo việc hủy bỏ đặc huấn và trực tiếp phê duyệt thăng cấp cho Lita để cô ra tiền tuyến; đồng thời giải thích chiến lược của Thiên giới là mở kho báu ban thưởng hậu hĩnh cho nhân loại (mà người dẫn đầu áp đảo là Yu IlHan) để họ tự lực gánh vác việc bảo vệ Trái Đất, đồng thời khuyên răn Erta cẩn trọng trước cảm xúc tình cảm dễ dẫn đến sa ngã.
 Erta trở lại Trái Đất thông báo lệnh điều động, Lita bịn rịn hôn má IlHan dặn dò anh chờ mình và đe dọa Erta không được có tiến triển tình cảm với anh trước khi vội vã ra chiến trường Bức Tường Hỗn Loạn.
 Cảnh kết thúc: Yu IlHan hoàn thành Nhiệm Vụ Thiên Giới 005 (Đợt Sóng Hầm Ngục), nhận 7 điểm toàn chỉ số (+10 ma pháp), kỹ năng Kháng Lời Nguyền Cấp Cao và tạo tác phẩm cấp Thần 'Đồng Hồ Cát Vĩnh Hằng' có khả năng đóng băng thời gian xung quanh tới 2 tháng.
+
+## 78
+Yu IlHan kích hoạt tạo tác phẩm cấp Thần Đồng Hồ Cát Vĩnh Hằng cho phép Erta cùng vào kết giới đóng băng thời gian trong xưởng rèn tầng hầm Vanguard suốt 2 tháng; Erta dạy IlHan kỹ thuật trích xuất năng lực từ trang bị sang ma thạch và anh thành công trích xuất ngay lần đầu tiên nhờ đã thức tỉnh khả năng điều khiển mana.
+IlHan lao động cật lực giải phẫu hơn 100.000 xác quái vật chuyển chức 2 trong 2 tuần cho Ngọn Lửa Vĩnh Cửu xử lý phụ phẩm, khiến ngọn lửa nuốt no nê và tiến hóa thành lửa màu vàng kim, khiến Erta trêu chọc gọi anh là 'Vua Giải Phẫu'.
+Dùng dao pha thịt và tính năng thu hồi từ xa của Túi Đeo Chéo, IlHan mổ xẻ toàn bộ thân xác trùm chuyển chức 4 Yamata no Orochi, trích xuất máu quý và thu hoạch thanh cự kiếm tạo tác phẩm cấp Truyền Thuyết 'Thiên Tùng Vân Kiếm' vốn dung hợp từ các đuôi quái xà.
+Cảnh kết thúc: Bất chấp sự bất lực của Erta khi đoán trước ý đồ, Yu IlHan nhấc búa rèn chuẩn bị trích xuất thuộc tính để rèn cây thương mới từ cự kiếm Thiên Tùng Vân Kiếm.
