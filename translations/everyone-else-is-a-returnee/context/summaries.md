@@ -542,3 +542,9 @@ Nhờ các buff từ Quái Lực, Thiên Thần Chi Viện, danh hiệu Đồ Lo
 Con rồng phản công dồn dập bằng các chùm tia ma pháp và bão trận đồ ma pháp trên không, buộc IlHan phải dùng Bật Nhảy Tiếp né đòn, liên tục dùng tính năng thu hồi vật sở hữu từ xa triệu hồi hàng chục lớp khiên Orochi ('Thiết Pháo Đài') chống đỡ và đâm nát não kết liễu con quái, thu về gần 400 triệu EXP.
 Xót xa khi mất 72 tấm khiên Orochi và nhận thấy tốc độ săn cần cải thiện, IlHan mổ xẻ xác rồng để tìm cách gia tăng hiệu suất chiến đấu thì bất ngờ tìm thấy một viên ma thạch chuyển chức 4.
 Cảnh kết thúc: Thu được ma thạch chuyển chức 4, IlHan đáp ứng đủ mọi điều kiện thử thách (300 đòn đâm, 300 đòn chém quái chuyển chức 3, 100 ma thạch chuyển chức 3 và 1 ma thạch chuyển chức 4) và nhận được thông báo cho phép tiến hóa kỹ năng Thương Thuật, mở ra tia hy vọng hoàn thành nhiệm vụ bất khả thi.
+
+## 89
+Nhận ra các điều kiện tiến hóa Thương Thuật đã hoàn thành đầy đủ từ lúc nào không hay, Yu IlHan dùng 100 ma thạch chuyển chức 3 và 1 ma thạch chuyển chức 4 vừa thu được để tiến hóa Thương Thuật, đồng thời nhận danh hiệu 'Cực Tốc Giả' (+10% tốc độ tu luyện kỹ năng, +10% EXP) nhờ là thực thể cấp thấp tiên phong khai phá kỹ năng độc nhất nhanh nhất.
+Anh lĩnh ngộ kỹ năng độc nhất 'Bất Khả Họa Quỹ Đạo Thương' (thỏa mãn một điều kiện nhận chuyển chức lần 5), cho phép vung thương triệt tiêu toàn bộ quỹ đạo đòn đánh và bóp méo nhân quả khiến đối thủ không thể phòng bị.
+Sau 4 tiếng luyện thương để hòa hợp với kỹ năng mới và một chiêu chém đứt thân cây nâng kỹ năng lên Lv 3 khiến Erta lẫn Reta sững sờ, IlHan nhận ra lượng mana tiêu hao quá lớn nên dùng bình thuốc mana chuyển chức 4 của Dakié để bổ sung và ý thức được sự cần thiết phải gia tăng chỉ số ma pháp.
+Cảnh kết thúc: Được Reta hỗ trợ kích hoạt ma pháp trận tìm mục tiêu, Yu IlHan lao vào săn quét bầy rồng chuyển chức 4 trên lục địa Daréu với tốc độ tăng gấp đôi, chính thức mang ngày tận thế giáng xuống đầu loài rồng.

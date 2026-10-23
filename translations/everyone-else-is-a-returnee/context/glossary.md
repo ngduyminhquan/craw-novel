@@ -13,7 +13,7 @@
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Được phép giữ nguyên: Môn võ cận chiến thực chiến tàn khốc không luật lệ (tên môn võ quốc tế phổ thông) |
-| Spearmanship | Spear arts; Spear Mastery | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
+| Spearmanship | Spear arts; Spear Mastery; Spear Master | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
 | Dismantling | Disassembly | Giải Phẫu | kỹ năng | 4 | Kỹ năng mổ xẻ, thu hoạch bộ phận quái vật |
 | Smithing | Blacksmithing | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
@@ -56,7 +56,7 @@
 | Lanpas |  | Lanpas | địa danh | 7 | Thế giới khác nơi Empress vang danh 10 năm |
 | Sungkyunkwan University | Sungkyunkwan university; Sung U | Đại học Sungkyunkwan | địa danh | 7 | Trường đại học nơi Yu IlHan theo học |
 | Thunder Sword |  | Lôi Kiếm | vật phẩm | 7 | Vũ khí của binh sĩ trở về từ Guundia |
-| Close Quarters Combat | Close Combat | Cận Chiến | kỹ năng | 8 | Kỹ năng cận chiến thức tỉnh ở Lv Max |
+| Close Quarters Combat | Close Combat; Physical Combat; Physical Combat Mastery | Cận Chiến | kỹ năng | 8 | Kỹ năng cận chiến thức tỉnh ở Lv Max |
 | Business Hall |  | Tòa Kinh Doanh | địa danh | 8 | Tòa nhà khoa Kinh doanh ĐH Sungkyunkwan |
 | Finance Hall |  | Tòa Tài Chính | địa danh | 8 | Tòa nhà khoa Tài chính ĐH Sungkyunkwan |
 | Big Mantis |  | Bọ Ngựa Khổng Lồ | quái vật | 8 | Quái vật côn trùng cấp 13 |
@@ -215,7 +215,7 @@
 | Flashing Insane Pile bunker |  | Súng Bắn Cọc Thiểm Quang Cuồng Loạn | vật phẩm | 36 | Vũ khí Súng Bắn Cọc cải tiến bằng kim loại Thiết Tâm, sở hữu 2 dòng thuộc tính Thiểm Quang và Cuồng Loạn |
 | Status points |  | Điểm chỉ số | hệ thống | 35 | Điểm chỉ số cơ bản nhận được khi thăng cấp hoặc hoàn thành nhiệm vụ |
 | Ignorant Giant's Black Greatsword |  | Hắc Đại Kiếm Cự Nhân Vô Tri | vật phẩm | 37 | Đại kiếm đen của Yu IlHan rèn từ tim Kim Loại Lõi, mang dòng thuộc tính tăng 50% trọng lượng và 20% sức mạnh |
-| Swordsmanship | Swordsmanship Lv Max | Kiếm Thuật | kỹ năng | 37 | Kỹ năng sử dụng kiếm thuật, thức tỉnh ở Lv Max |
+| Swordsmanship | Swordsmanship Lv Max; Sword Mastery | Kiếm Thuật | kỹ năng | 37 | Kỹ năng sử dụng kiếm thuật, thức tỉnh ở Lv Max |
 | Elite Flame Lizard |  | Thằn Lằn Lửa Tinh Anh | quái vật | 37 | Biến thể tinh anh cấp 78 của Thằn Lằn Lửa |
 | Flame Lizard Wizard |  | Thằn Lằn Lửa Pháp Sư | quái vật | 37 | Thủ lĩnh biến dị cấp 97 của Thằn Lằn Lửa tại sân bay Los Angeles |
 | Angel GPS |  | GPS Thiên Thần | khác | 37 | Cách nói ví von việc Erta chỉ điểm vị trí quái vật cho Yu IlHan |
@@ -461,3 +461,6 @@
 | Polymorph |  | Biến Hình | kỹ năng | 87 | Ma pháp trong truyền thuyết của loài rồng dùng để biến thành hình dạng con người |
 | Re-leap |  | Bật Nhảy Tiếp | kỹ năng | 88 | Cú bật nhảy bổ sung giữa không trung khi kích hoạt Bật Nhảy từ cấp 20 |
 | Iron Fortress |  | Thiết Pháo Đài | khác | 88 | Tên Yu IlHan tự đặt cho thế trận dựng nhiều lớp khiên Orochi chống ma pháp |
+| Spear of Undrawable Trajectory |  | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
+| The Quickest | Quickest | Cực Tốc Giả | danh hiệu | 89 | Danh hiệu đạt được khi là thực thể cấp thấp khai phá kỹ năng độc nhất nhanh nhất |
+| fusion evolution | fusion evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |

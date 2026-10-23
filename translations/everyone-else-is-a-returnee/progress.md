@@ -93,7 +93,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | reviewed |  |
 | 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | reviewed |  |
 | 88 |  | Chapter_088 - You, I, Strangers 6.txt | You, I, Strangers 6 | done |  |
-| 89 |  | Chapter_089 - You, I, Strangers 7.txt | You, I, Strangers 7 | todo |  |
+| 89 |  | Chapter_089 - You, I, Strangers 7.txt | You, I, Strangers 7 | done |  |
 | 90 |  | Chapter_090 - You, I, Strangers 8.txt | You, I, Strangers 8 | todo |  |
 | 91 |  | Chapter_091 - You, I, Strangers 9.txt | You, I, Strangers 9 | todo |  |
 | 92 |  | Chapter_092 - You, I, Strangers 10.txt | You, I, Strangers 10 | todo |  |
@@ -660,3 +660,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#86] Tiếng kêu quái vật ở chương 86: Duyệt chuyển âm Việt hóa các chuỗi âm thanh quái vật kéo dài ([Krrrrrrrraaaaaaaa], [Kirrrrrrrk], [Khhhh! Khhha!])? → Chấp nhận Việt hóa thành "[Kừừừừừừừ aaaaaaaa]", "[Kừừừừừừ]", "[Khừừừừừừc]", "[Khừừừ! Khààà!]" theo nguyên tắc Việt hóa tiếng kêu của style.md và đồng bộ với chương 85. (orchestrator)
 - [#87] Xưng hô của Elf với Yu IlHan (chương 87 đoạn 108): Trong câu "Wh-what about you?", giữ nguyên "anh" hay chuyển thành "ngài"? → Giữ nguyên "anh" ("C-còn anh thì sao?") cho tự nhiên theo văn phong hiện đại của style.md. (orchestrator)
 - [#88] Dòng ghi chú của dịch giả tiếng Anh ở đầu raw ("Translation changes: spearmanship – spear master, etc)") → Chấp nhận bỏ qua không dịch, thêm vào raw_ignore_lines trong novel.json và ghi chú vào mục "Riêng truyện này" trong rules.md theo đúng quy định bước B2 của novel-translate. (orchestrator)
+- [#89] Kỹ năng "Spear of Undrawable Trajectory" (tiến hóa từ Thương Thuật, vung thương không để lộ quỹ đạo) → Chốt "Bất Khả Họa Quỹ Đạo Thương" theo quy tắc Hán Việt của rules.md cho tên kỹ năng. (orchestrator)
+- [#89] Danh hiệu "The Quickest" (thực thể cấp thấp tiên phong khai phá kỹ năng độc nhất nhanh nhất) → Chốt "Cực Tốc Giả" theo quy tắc Hán Việt ngắn gọn của rules.md cho tên danh hiệu. (orchestrator)
+- [#89] Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ("(Translation changes: Close combat -> Physical Combat, this would be 'taijutsu' in JP)") → Chấp nhận bỏ qua không dịch, thêm vào raw_ignore_lines trong novel.json và cập nhật mục "Riêng truyện này" trong rules.md theo bước B2 của novel-translate. (orchestrator)
