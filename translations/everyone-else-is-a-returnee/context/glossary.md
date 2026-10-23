@@ -428,3 +428,6 @@
 | Roaring |  | Gầm Vang | hệ thống | 79 | Tiền tố dòng thuộc tính tạo sóng xung kích bằng mana |
 | Secretive Reaper's Roaring Dark Python Robe |  | Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo | vật phẩm | 79 | Áo choàng phẩm cấp Truyền Thuyết tích hợp 300 dao găm vảy Orochi và tạo sóng xung kích bằng mana |
 | Strong Shadow Dragon's Dark Python Leather Armor |  | Giáp Da Hắc Mãng Ám Long Cường Đại | vật phẩm | 79 | Giáp da phẩm cấp Độc Nhất làm từ da Yamata no Orochi và ma thạch Báo Bóng Tối chuyển hóa thành Ám Long |
+| Iron Armored Fire Dragon |  | Thiết Giáp Hỏa Long | quái vật | 80 | Quái vật rồng lửa bọc sắt mà Yu IlHan sở hữu ma thạch chuyển chức 3 |
+| Iron Armored Fire Dragon's Biting Dark Python Fullplate Armor |  | Đại Khải Hắc Mãng Cắn Xé Thiết Giáp Hỏa Long | vật phẩm | 80 | Đại khải phẩm cấp Truyền Thuyết kết hợp xương Orochi mài nhọn và ma thạch Thiết Giáp Hỏa Long |
+| Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |

@@ -484,3 +484,10 @@ Anh gia công da và 300 vảy Orochi thành 300 con 'Dao Găm Orochi Thiểm Qu
 Chế tạo tiếp nội giáp 'Giáp Da Hắc Mãng Ám Long Cường Đại' (phẩm cấp Độc Nhất), IlHan thoáng tiếc nuối vì dòng tăng sức tấn công bị đổi thành tăng tỷ lệ chí mạng, nhưng lập tức bắt tay nung xương Orochi thành hàng loạt lưỡi dao nhọn hoắt định gắn tua tủa lên ngoại giáp phục vụ đòn cận chiến Vale Tudo.
 Cảnh kết thúc: Trước niềm đam mê kỳ quặc và sự kiên định không ngừng hoàn thiện bản thân của Yu IlHan, Erta thở dài nhưng trong lòng thầm cầu chúc một bộ giáp xứng đáng với vị anh hùng thách thức điều bất khả sẽ được khai sinh.
 
+## 80
+Yu IlHan hoàn thành chế tạo hàng trăm lưỡi dao từ xương Orochi (phẩm cấp Hiếm và Độc Nhất) rồi nung chảy chỗ xương còn lại đúc thành thỏi kim loại tím đen; kết hợp ma thạch Thiết Giáp Hỏa Long để chế tạo thành công 'Đại Khải Hắc Mãng Cắn Xé Thiết Giáp Hỏa Long' (phẩm cấp Truyền Thuyết, phòng thủ 6.500, công 4.200, kháng hỏa 80% kèm phản đòn, phóng to lưỡi dao bằng mana).
+Anh kiên quyết từ chối đề nghị dùng kiếm của Erta, quyết tâm dùng Ngọn Lửa Vĩnh Cửu nấu chảy cự kiếm Thiên Tùng Vân Kiếm để rèn thành thương mới dù tàn niệm Orochi trong sinh mệnh lực gầm thét phản kháng dữ dội.
+Hết hạn 2 tháng đóng băng thời gian của Đồng Hồ Cát Vĩnh Hằng (thế giới bên ngoài mới chỉ trôi qua chưa đầy một giây), IlHan kiểm tra trang chủ Vanguard thấy lượng đơn hỏi mua bùng nổ; anh chuẩn bị đẩy sớm lịch mở bán trang bị cho các clan tham gia Đợt Sóng Hầm Ngục.
+Cảnh kết thúc: Thu thập danh thiếp bằng tính năng thu hồi từ xa, Yu IlHan chủ động gọi điện cho Đại tá Yun DaeHan để chào bán trang bị giá rẻ cho lực lượng Trấn Áp, chính thức khởi động giai đoạn hai của kế hoạch cường hóa nhân loại.
+
+

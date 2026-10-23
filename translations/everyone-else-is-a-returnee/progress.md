@@ -84,7 +84,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 77 |  | Chapter_077 - I, too, now 2.txt | I, too, now 2 | reviewed |  |
 | 78 |  | Chapter_078 - I, too, now 3.txt | I, too, now 3 | reviewed |  |
 | 79 |  | Chapter_079 - I, too, now 4.txt | I, too, now 4 | done |  |
-| 80 |  | Chapter_080 - I, too, now 5.txt | I, too, now 5 | todo |  |
+| 80 |  | Chapter_080 - I, too, now 5.txt | I, too, now 5 | done |  |
 | 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | todo |  |
 | 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | todo |  |
 | 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | todo |  |
@@ -637,3 +637,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#78] Dòng thuộc tính kích hoạt của Thiên Tùng Vân Kiếm "Purple Flame" — Tạm chọn: "Hỏa Tím". Phương án khác: "Ngọn Lửa Tím". → Chốt Hỏa Tím. (orchestrator)
 - [#78] Dòng thuộc tính beta "Tyrant" của ma thạch chuyển chức 2 — Tạm chọn: "Bạo Chúa". Phương án khác: "Bạo Ngược". → Chốt Bạo Chúa. (orchestrator)
 - [#79] Cụm từ "Dark Python" trong tên trang bị làm từ da quái xà Orochi ("Dark Python Robe", "Dark Python Leather Armor") → Chốt dịch "Dark Python" là "Hắc Mãng" (Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo, Giáp Da Hắc Mãng Ám Long Cường Đại). (orchestrator)
+- [#80] Cấp hàm của Yun DaeHan ở đoạn 78 ("first lieutenant Han YeoRang and captain Yoon DaeHan") → Chốt giữ nhất quán là "đại tá Yun DaeHan" (và "trung úy Han YeoRang") theo diễn biến thăng cấp đã chốt từ chương 59 và 71 (raw EN dịch nhầm quân hàm). (orchestrator)
