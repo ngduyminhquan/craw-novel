@@ -48,7 +48,7 @@ Yu IlHan đột ngột rút ra một thanh trường kiếm từ hư không. K�
 
 [Sức tấn công – 2.650]
 
-[Tùy chọn – Tăng 40% sức tấn công khi đối đầu với quái vật dưới cấp của người dùng]
+[Dòng thuộc tính – Tăng 40% sức tấn công khi đối đầu với quái vật dưới cấp của người dùng]
 
 [Độ bền – 2.100/2.100]
 
@@ -78,7 +78,7 @@ Yu IlHan lại tiếp tục phớt lờ Han YeoRang.
 
 "Trước hết, tôi muốn làm rõ điều này. Tôi không muốn chính phủ kiếm lời từ số vũ khí tôi bán ra. Tôi muốn toàn bộ vũ khí này chỉ được phân phối riêng cho Trấn Áp. Vì vậy, tôi muốn có danh sách các thành viên của Trấn Áp cùng những trang bị mà họ cần. Mỗi người một vũ khí và một bộ giáp. Đơn giản vậy thôi, đúng chứ?"
 
-"Đương nhiên rồi, chúng tôi đã chuẩn bị sẵn. Cậu cũng không cần phải lo lắng về những vấn đề vừa nêu đâu. Cấp trên trong quân đội Hàn Quốc không chỉ toàn những kẻ ngu ngốc vô tâm đâu."
+"Đương nhiên rồi, chúng tôi đã chuẩn bị sẵn. Cậu cũng không cần phải lo lắng về những vấn đề vừa nêu đâu. Cấp trên trong quân đội Hàn Quốc không chỉ toàn những kẻ ngu ngốc thiếu suy nghĩ đâu."
 
 "Thế thì may quá rồi."
 
@@ -146,7 +146,7 @@ Trả lời xong, Yu IlHan suy nghĩ một chút rồi nói tiếp.
 
 "Dĩ nhiên là tôi không có ý định bán loại vũ khí vượt quá cấp bậc của các vị, bởi vì nếu sở hữu những tạo tác vượt tầm năng lực, người ta sẽ sinh ra ảo tưởng mà cố làm những chuyện bất khả thi."
 
-"À ừ, vụ đó đó. Dạo này MiRae toàn làm mấy trò bất khả thi không à, cậu… Ái da!"
+"À ừ, vụ đó đó. Dạo này MiRae toàn làm mấy trò bất khả thi không à, anh… Ái da!"
 
 Bỏ qua Na YuNa, người đang đạt kỷ lục cứ 3 phút lại ăn đòn 1 lần, Kang HaJin mở lời.
 
@@ -204,7 +204,7 @@ Kang HaJin liền lên tiếng đỡ lời.
 
 "Anh có thể nghiền nát nó ra rồi bôi lên. Nó là một chất hoàn thiện."
 
-"Chỉ có mỗi phương pháp đó thôi sao? Trong lúc rèn đúc? Hay trong lúc chế tác mana?"
+"Chỉ có mỗi phương pháp đó thôi sao? Trong lúc rèn đúc? Hay trong lúc Chế Tác Mana?"
 
 "Anh chỉ cần truyền sức mạnh bên trong thánh thạch vào trang bị là được."
 
@@ -336,7 +336,7 @@ Vẻ mặt chân thành của Yu IlHan, hoàn toàn không phải một màn k�
 
 "Thế thì chúng ta hãy làm bạn thật sự đi!"
 
-"Không, ý tôi là tôi không chỉ không thích ngoại hình của cô, mà tôi còn ghét tính cách của cô hơn nhiều."
+"Không, đâu phải tôi chỉ không thích mỗi ngoại hình của cô; tôi còn ghét tính cách của cô hơn nhiều."
 
 "Oaaa!"
 

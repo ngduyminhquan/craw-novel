@@ -14,7 +14,7 @@ Vì trong trận chiến không có quá nhiều quái vật chuyển chức 3 n
 
 [Bạn đã nhận được một ma thạch chuyển chức 3 chứa sức mạnh của 'Tử Thần' 'Kín Đáo'.]
 
-[Bạn đã nhận được một ma thạch chuyển chức 3 chứa sức mạnh của 'Diệt Long' 'Hắc Tử Thần'.]
+[Bạn đã nhận được một ma thạch chuyển chức 3 chứa sức mạnh của 'Hắc' 'Tử Thần' 'Diệt Long'.]
 
 [Cậu không được lơ là chỉ vì đã trích xuất hoàn hảo đâu đấy. Nếu cậu không Chế Tác Mana trong khi kích hoạt tối đa sức mạnh của ma thạch thì phẩm chất của các dòng thuộc tính có thể bị thoái hóa, thậm chí biến mất hoàn toàn đấy.] (Erta)
 

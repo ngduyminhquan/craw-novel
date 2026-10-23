@@ -46,7 +46,7 @@ Vì đang nhắm mắt, Yu IlHan chỉ biết có một luồng sáng chói lọ
 
 [Sức tấn công – 4.200]
 
-[Tùy chọn –
+[Dòng thuộc tính –
 
 Tăng 40% phòng thủ
 

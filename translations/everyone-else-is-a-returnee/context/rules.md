@@ -46,3 +46,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#65) Thành ngữ "blood cannot be faked" (피는 못 속인다) dịch thoát ý thành "cùng một dòng máu thì không lẫn đi đâu được", tránh nhầm sang "giọt máu đào hơn ao nước lã".
 - (#78) Khi dòng thoại của nhân vật trong ngoặc vuông có tên người nói đặt trong ngoặc đơn đi liền (vd `[...](Erta)`), luôn thêm một dấu cách trước ngoặc đơn thành `[...] (Erta)` để tránh bị trình đọc nhầm thành cú pháp liên kết Markdown.
 - (#81) Dòng ghi chú đổi tên chức nghiệp '(T/N: A change in naming: Holy Knight -> Paladin. (Kang HaJin's job))' ở đầu raw chứa ngoặc đơn lồng nhau khiến bộ lọc T/N sót lại dấu ngoặc đơn đóng ')', được bỏ qua và thêm vào `raw_ignore_lines` trong `novel.json`.
+- (#80) Trong bảng thông số vật phẩm, từ khóa '[Options – ...]' dịch thống nhất là '[Dòng thuộc tính – ...]' theo glossary.md, không dịch thành '[Tùy chọn – ...]'.

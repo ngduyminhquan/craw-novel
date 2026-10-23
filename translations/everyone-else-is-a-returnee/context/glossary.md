@@ -362,7 +362,7 @@
 | 3rd class magic stone |  | ma thạch chuyển chức 3 | vật phẩm | 28 | Ma thạch của quái vật chuyển chức 3 |
 | Clan | clan | Clan | tổ chức | 44 | Nhóm hoặc tổ chức tập hợp các dị năng giả |
 | Clan Master | clan master | Chủ Clan | danh hiệu | 67 | Người đứng đầu một clan (như Kang MiRae là Chủ Clan của Clan Lôi Thần) |
-| Lightning God clan | Lightning God; Lighting God | Clan Lôi Thần | tổ chức | 67 | Clan do Kang MiRae làm Chủ Clan, Kang HaJin làm phó clan, Na YuNa làm thành viên |
+| Lightning God clan | Lightning God; Lighting God; LIghtning God Clan; LIghtning God | Clan Lôi Thần | tổ chức | 67 | Clan do Kang MiRae làm Chủ Clan, Kang HaJin làm phó clan, Na YuNa làm thành viên |
 | Sharp Wolf Bone Bastard |  | Kiếm Bastard Xương Sói Sắc Bén | vật phẩm | 67 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo đại trà từ xương sói |
 | Dark Shadow |  | Hắc Ảnh | quái vật | 67 | Quái vật cấp 93 trong hầm ngục nguy hiểm nhất Trái Đất |
 | Warhammer | War Hammer | Chiến Búa | vật phẩm | 67 | Vũ khí búa chiến |
@@ -403,7 +403,8 @@
 | Kita | Kita district | Kita | địa danh | 72 | Một trong 23 quận đặc biệt của Tokyo |
 | England |  | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
 | Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |
-| Yamata no Orochi | Yamata; Orochi; the Orochi | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
+| Yamata no Orochi | Yamata | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
+| Orochi | the Orochi | Orochi | quái vật | 73 | Tên gọi tắt của quái xà Yamata no Orochi |
 | Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |
 | DoT | Damage over Time | sát thương theo thời gian | hệ thống | 74 | Sát thương duy trì liên tục trong thuật ngữ game |
 | landscape-changing power |  | năng lực biến đổi địa hình | hệ thống | 75 | Năng lực của quái vật đột biến cấp cao làm biến dạng môi trường xung quanh |
