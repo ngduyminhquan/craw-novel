@@ -374,3 +374,9 @@ Sau khi chém bay đầu tên tùy tùng chuyển chức 1, Lita phô diễn k�
 Yu IlHan thu hoạch chiến lợi phẩm từ thi thể Dakié: chiếc 'Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm' (Phẩm cấp Truyền Thuyết, phòng thủ 3.300, dòng thuộc tính Pháo Đài Ma Pháp) dù không mặc được do giới hạn trang bị chuyển chức 3 hệ ma pháp nhưng dự định bán cho Empress, cùng túi không gian chứa lượng lớn thuốc hồi máu và thuốc hồi mana cao cấp.
 Lita áp giải tên phản bội bất tỉnh về Thiên giới để xử trảm và nhận thưởng nhiệm vụ; Yu IlHan nhờ Erta gột rửa sạch sẽ thi thể hai nạn nhân xấu số rồi cất vào Túi Đeo Chéo để tìm nơi an táng thích hợp.
 Cảnh kết thúc: Yu IlHan cất bước rời khỏi hầm ngục trong tâm trạng trĩu nặng xót thương, cảm thấy muốn uống một ly rượu dẫu bình thường không hề thích rượu bia.
+
+## 62
+Yu IlHan một mình dọn dẹp hầm ngục Quegna ở Sơn Đông lấy xương kim loại làm vũ khí cho Kang MiRae; kỹ năng bị động [Thu Thập Tử Vong] thăng lên Lv 10 mở khóa khả năng thấu hiểu tàn niệm của người chết trong sinh mệnh lực, khiến anh hứng chịu cơn tra tấn tinh thần dữ dội từ tiếng gào thét của các sinh linh và Dakié von Illastra trước khi nén giận gào thét nâng kỹ năng lên Lv 11 để dập tắt tạp âm.
+Tàn niệm của Reta Kar'iha bất ngờ thức tỉnh trong đại não IlHan, thỉnh cầu anh thay cô báo thù loài rồng (Long tộc) từng hủy diệt thế giới của mình.
+Tại Thiên giới, trước sự do dự muốn giảm nhẹ hình phạt cho tên thiên thần phản bội từ hội đồng, nữ thiên thần cấp cao Spiera lạnh lùng dùng thương ánh sáng xử trảm kẻ tội đồ sau khi tra hỏi về các thế lực chủ mưu đứng sau (Quân Đội Ma Hủy Diệt, Khu Vườn Hoàng Hôn, Quân Đội Ánh Sáng Rực Rỡ).
+Cảnh kết thúc: Báo trước một cuộc đại chiến sắp ập đến khi con đập nghiệp chướng vỡ vụn, Spiera túm cổ áo bắt Lita đi đợt đặc huấn nâng cao thực lực bất chấp lời kêu khóc muốn về Trái Đất cùng IlHan của cô, trong khi Yu IlHan và Erta hoàn toàn chẳng hề hay biết.

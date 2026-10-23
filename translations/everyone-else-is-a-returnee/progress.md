@@ -66,7 +66,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | reviewed |  |
 | 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | reviewed |  |
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | done |  |
-| 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | todo |  |
+| 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | done |  |
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | todo |  |
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | todo |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | todo |  |
@@ -583,3 +583,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#61] Tên trang bị tạo tác "Cynical Iron-wall Black Mage's Jacket" — Tạm chọn: "Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm" (chuẩn Hán Việt ngắn gọn theo rules.md). Phương án khác: "Áo Khoác Hắc Ma Pháp Sư Thiết Bích Lãnh Đạm", "Áo Khoác Hắc Ma Pháp Sư Lãnh Khốc Thiết Bích". Tạm dùng trong bản dịch: "Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm". → Chốt Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm. (orchestrator)
 - [#61] Tên dòng thuộc tính "Magic Fortress" — Tạm chọn: "Pháo Đài Ma Pháp". Phương án khác: "Ma Pháp Pháo Đài", "Pháo Đài Phép Thuật". Tạm dùng trong bản dịch: "Pháo Đài Ma Pháp". → Chốt Pháo Đài Ma Pháp. (orchestrator)
 - [#61] Nguyên liệu "Dark Yarn" — Tạm chọn: "Sợi Chỉ Bóng Tối". Phương án khác: "Hắc Chỉ", "Sợi Hắc Chỉ". Tạm dùng trong bản dịch: "Sợi Chỉ Bóng Tối". → Chốt Sợi Chỉ Bóng Tối. (orchestrator)
+- [#62] Dịch tên 2 tổ chức thực thể cấp cao Destruction Demon Army và Brilliant Army of Light → Chốt 'Quân Đội Ma Hủy Diệt' và 'Quân Đội Ánh Sáng Rực Rỡ' (đồng bộ với Quân Đội Thiên Giới) (orchestrator)
+- [#62] Lời thoại ngắn [Yes.] (T/N: As opposed to 'no' above) của Spiera khi túm lưng áo Lita → Chấp nhận dịch thoát ý thành '[Phải đi.]' để đối lập tự nhiên với lời từ chối trước đó của Lita (orchestrator)

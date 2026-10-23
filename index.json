@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T07:33:03Z",
+  "generatedAt": "2026-10-23T09:06:05Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -371,6 +371,12 @@
           "title": "Chương 61: Tôi Gánh Vác (8)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_061.md",
           "sha": "88714ba71b80ed387bc861953c2c9f9f55f7ed47"
+        },
+        {
+          "number": 62,
+          "title": "Chương 62: Tôi Gánh Vác (9)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_062.md",
+          "sha": "c80f9bbc5e12ec2b779799ffb15b3065e42d81aa"
         }
       ]
     }

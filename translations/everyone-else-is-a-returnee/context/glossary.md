@@ -339,3 +339,7 @@
 | Auto-recovery |  | Tự phục hồi | hệ thống | 61 | Dòng thuộc tính tự động hồi phục độ bền của trang bị |
 | health potion |  | thuốc hồi máu | vật phẩm | 61 | Dược phẩm hồi phục thể lực cao cấp |
 | magic potion |  | thuốc hồi mana | vật phẩm | 61 | Dược phẩm hồi phục mana cao cấp |
+| Destruction Demon Army |  | Quân Đội Ma Hủy Diệt | tổ chức | 62 | Một trong các thế lực thực thể cấp cao lớn mang dã tâm hủy diệt |
+| Garden of Sunset |  | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
+| Brilliant Army of Light | Army of Brilliant Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
+| Suspension of Activity |  | Đình Chỉ Hoạt Động | hệ thống | 62 | Hình phạt phong ấn quyền hạn và hoạt động của thiên thần |

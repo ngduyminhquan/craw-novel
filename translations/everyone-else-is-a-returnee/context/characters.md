@@ -25,6 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Reta Kar'iha |  | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
+| Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
 
 ## Chi tiết
 
@@ -88,6 +89,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 59: Chế tạo thành công tạo tác phụ kiện 'Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ' (Phẩm cấp Độc Nhất, Phòng thủ 1.700, tăng 20% tốc độ hồi phục mana, khi trúng đòn tạo bão sấm sét 1 lần/ngày) từ da và ma thạch Chim Sấm Sét Khổng Lồ; dùng Ẩn Thân trốn vé máy bay sang tỉnh Sơn Đông (Trung Quốc) dọn hầm ngục Quegna và cùng Lita phát hiện ma pháp ẩn giấu hầm ngục của phe phản bội.
 - Trạng thái tính đến chương 60: Thức tỉnh kỹ năng bị động [Ngôn Ngữ]; phối hợp Quái Lực, Bật Nhảy và Chuyển giao trọng lượng dồn 40 tấn từ Túi Đeo Chéo vào Súng Bắn Cọc nhất kích tất sát đại pháp sư chuyển chức 4 Dakié von Illastra Lv 202; nhận hơn 511 triệu EXP, thăng lên cấp 64 (+6 Sức mạnh, +5 Nhanh nhẹn, +4 Thể lực, +5 Ma pháp), nâng Thu Thập Tử Vong lên Lv 9 và thu hoạch sinh mệnh lực cùng ghi chép của Dakié; vung thương chém bay đầu gã tùy tùng phản bội.
 - Trạng thái tính đến chương 61: Thu hoạch Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm (Phẩm cấp Truyền Thuyết, Phòng thủ 3.300) và lượng lớn thuốc hồi máu/mana cao cấp từ Dakié von Illastra; phối hợp Erta phá hủy cánh cổng không gian nối với thế giới khác; thiêu rụi xác kẻ thù và thu gom thi thể hai phụ nữ vô tội để tìm nơi an táng thích hợp.
+- Trạng thái tính đến chương 62: Nâng Thu Thập Tử Vong lên Lv 11; mở khóa khả năng thấu hiểu tàn niệm của người chết trong sinh mệnh lực và tiếp nhận lời thỉnh cầu báo thù Long tộc từ tàn niệm Reta Kar'iha.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -99,6 +101,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 52: Được chỉ định cùng Erta làm thiên thần phụ trách Yu IlHan; chịu phạt quỳ giơ tay vì giấu nhẹm thời gian 1000 năm; can thiệp ghi chép tạo ra chức nghiệp phụ Bạn Đồng Hành Thiên Thần để danh chính ngôn thuận luôn ở bên cạnh IlHan; ghen khi thấy Erta tiếp cận gần IlHan.
 - Trạng thái tính đến chương 53: Ngấm ngầm ganh tị và tranh đua với Erta để giành sự chú ý của IlHan; bị IlHan quở trách vì gây gổ nên ngoan ngoãn nhận lỗi; bất lực trước sự ngô nghê và tính toán thực dụng của IlHan khi anh chỉ muốn đi chơi để luyện kỹ năng.
 - Trạng thái tính đến chương 61: Tung kỹ năng Cận Chiến cấp đại sư đánh hơn 3.000 đòn liên hoàn nghiền nát tên thiên thần phản bội; áp giải hắn về Thiên giới để tận mắt chứng kiến hắn bị xử trảm và nhận phần thưởng nhiệm vụ cho IlHan.
+- Trạng thái tính đến chương 62: Bị Spiera giữ lại Thiên giới bắt tham gia đợt đặc huấn nâng cao thực lực trước thềm đại chiến sắp tới, khiến thời gian trở lại Trái Đất cùng Yu IlHan bị trì hoãn.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -186,6 +189,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ giới (chủng tộc thông tuệ chưa rõ: con người, elf...), Kẻ Phá Vỡ (Breaker) cấp 157 bị tha hóa thành quái vật tử thần trong hầm ngục Grand Canyon.
 - Ngoại hình / giọng nói: Mang hình tượng tử thần trùm áo đen cầm lưỡi hái chiến đấu, nhưng sở hữu giọng nữ trong trẻo, dịu dàng.
 - Trạng thái tính đến chương 48: Được Yu IlHan giải thoát khỏi sự tha hóa bằng nhát thương chí mạng; trước khi tan biến thành tro đen đã mỉm cười cảm ơn IlHan và để lại ma thạch đen, áo choàng cùng lưỡi hái tử thần.
+- Trạng thái tính đến chương 62: Tàn niệm thức tỉnh bên trong sinh mệnh lực của Yu IlHan nhờ kỹ năng Thu Thập Tử Vong Lv 10; truyền tiếng nói thỉnh cầu IlHan thay cô báo thù loài rồng (Long tộc).
 
 ### Myuta
 - Giới tính, vai trò: Thiên thần chủ tọa/chủ trì cuộc họp của các thiên thần trên Thiên giới bàn về dị thường tại Trái Đất và hầm ngục Grand Canyon.
@@ -195,4 +199,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Dakié
 - Giới tính, vai trò: Pháp sư cấp 4 (4th class mage) Lv 202 thuộc một đế quốc ở thế giới khác, câu kết với gã phản bội trên Trái Đất và một nam thiên thần biến chất để kết nối chiều không gian và mở rộng hầm ngục nhằm xâm chiếm Trái Đất.
 - Trạng thái tính đến chương 60: Bị Yu IlHan dùng Súng Bắn Cọc dồn 40 tấn từ trên cao đập nát đại não và kết liễu ngay trong hầm ngục bị che giấu tại Trung Quốc.
+
+### Spiera
+- Giới tính, vai trò: Nữ thiên thần cấp cao của Quân Đội Thiên Giới, sở hữu vẻ ngoài trưởng thành hơn Lita, vũ khí là cây thương ánh sáng.
+- Tính cách: Lạnh lùng, quyết đoán, nghiêm khắc tuyệt đối với kẻ phản bội, hành động dứt khoát không khoan nhượng.
+- Trạng thái tính đến chương 62: Tự tay xử tử tên thiên thần phản bội hầm ngục Trái Đất bất chấp sự do dự của hội đồng; thẩm vấn hắn về thế lực đứng sau (Quân Đội Ma Hủy Diệt, Khu Vườn Hoàng Hôn, Quân Đội Ánh Sáng Rực Rỡ); giữ Lita lại để đặc huấn nâng cao thực lực chuẩn bị cho đại chiến.
 

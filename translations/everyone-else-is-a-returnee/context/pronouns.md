@@ -26,6 +26,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Feyta | cô / Feyta | 38 | Thiên thần hộ mệnh của Na YuNa |
 | Reta Kar'iha | cô / Reta Kar'iha | 48 | Kẻ Phá Vỡ cấp 157 |
 | Myuta | Myuta / thiên thần Myuta | 50 | Thiên thần chủ tọa cuộc họp |
+| Spiera | cô / Spiera | 62 | Nữ thiên thần cấp cao dùng thương ánh sáng |
 
 ## Giữa các nhân vật
 
@@ -87,3 +88,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Lita | tôi | Lita / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |
 | Yun DaeHan | Han YeoRang | tôi | cô / thiếu úy Han | 59 | Chỉ huy và cấp dưới trong lực lượng Trấn Áp |
 | Han YeoRang | Yun DaeHan | tôi | đại tá | 59 | Cấp dưới nói chuyện với chỉ huy |
+| Yu IlHan | Reta Kar'iha | tôi | cô / Reta Kar'iha | 62 | IlHan đối thoại với tàn niệm Reta trong Thu Thập Tử Vong |
+| Spiera | Lita | ta / tôi | Lita / cô | 62 | Thiên thần cấp cao ra lệnh đặc huấn cho Lita |
+| Lita | Spiera | tôi | Spiera / cô | 62 | Lita đối thoại và phản đối lệnh đặc huấn của Spiera |
+| Spiera | Myuta | tôi | ngài / Myuta | 62 | Spiera chất vấn chủ tọa hội đồng thiên thần |
+| Myuta | Spiera | ta / tôi | Spiera / cô | 62 | Chủ tọa hội đồng khuyên can Spiera |
