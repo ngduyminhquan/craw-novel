@@ -8,7 +8,7 @@
 
 Yu IlHan quan sát kỹ tạo tác phẩm cấp Thần nằm trên lòng bàn tay. Anh ngẫm nghĩ xem mình có thể làm được gì với món tạo tác có khả năng đóng băng thời gian và dựng lên kết giới này.
 
-"Khoan đã, nếu lúc sắp chết tôi dựng kết giới lên, nó có tống khứ hết những kẻ tôi không muốn ra ngoài không?"
+"Khoan đã, nếu lúc sắp chết tôi dựng kết giới lên, nó có đẩy hết những kẻ tôi không cho phép ra ngoài không?"
 
 [Giờ thì cậu đã nhận ra nó tuyệt vời đến mức nào rồi chứ?] (Erta)
 
@@ -44,7 +44,7 @@ Erta mở to mắt ngơ ngác nhìn quanh, nhưng thực tế, Yu IlHan lại ch
 
 "Erta, lại đây."
 
-[V-vâng... Có tôi!] (Erta)
+[V-vâng... Tôi tới đây!] (Erta)
 
 Tiếng Yu IlHan gọi Erta nghe có vẻ dịu dàng đến lạ thường.
 
@@ -86,7 +86,7 @@ Nghe nhắc đến kỹ thuật mới, hai mắt Yu IlHan sáng rực lên. Th�
 
 Trong thoáng chốc, Yu IlHan chưa hiểu cô đang nói gì, nhưng anh nhanh chóng chìm vào suy nghĩ khi mường tượng về việc làm đảo ngược những thao tác mình vẫn làm từ trước tới nay.
 
-Kỹ thuật này không thể truyền thụ bằng cách truyền thẳng thông tin trực tiếp vào đầu Yu IlHan, nên Erta cũng chỉ biết đứng nhìn. Dĩ nhiên, một phần cũng là vì chính bản thân cô còn chẳng sử dụng được kỹ thuật mà mình đang định dạy cho anh – kỹ thuật trích xuất.
+Kỹ thuật này không thể truyền thụ bằng cách truyền trực tiếp thông tin vào đầu Yu IlHan, nên Erta cũng chỉ biết đứng nhìn. Dĩ nhiên, một phần cũng là vì chính bản thân cô còn chẳng sử dụng được kỹ thuật mà mình đang định dạy cho anh – kỹ thuật trích xuất.
 
 Cấp độ kỹ năng Chế Tác Mana của Yu IlHan từ lâu đã bắt kịp Erta rồi.
 
@@ -188,7 +188,7 @@ Ngọn Lửa Vĩnh Cửu nuốt trọn tất cả rồi thiêu rụi thành hư 
 
 [Cứ cái đà này không khéo cậu ta lọt vào mắt xanh của Thần Giải Phẫu mất thôi.] (Erta)
 
-Erta lo lắng thầm nghĩ. Yu IlHan, người nghe loáng thoáng được câu nói đó, vừa vung dao vừa hét lên với một nụ cười ngầu lòi chẳng để làm gì.
+Erta lo lắng thầm nghĩ. Yu IlHan, người nghe loáng thoáng được câu nói đó, vừa vung dao vừa hét lên với một nụ cười làm màu chẳng để làm gì.
 
 "Kể cả Thần linh mà chết thì tôi cũng xẻ thịt nốt!"
 
@@ -198,7 +198,7 @@ Hai tuần đã trôi qua kể từ lúc đó. Yu IlHan, người chỉ chợp m
 
 "Xong rồi."
 
-[Thật á!? Có hơn mười vạn quái vật chuyển chức 2 cơ mà!] (Erta)
+[Thật á!? Có hơn một trăm nghìn quái vật chuyển chức 2 cơ mà!] (Erta)
 
 "Thế thì mỗi ngày tôi chỉ cần mổ hơn bảy ngàn con một chút là xong thôi."
 
@@ -254,7 +254,7 @@ Dẫu cho xác chết của Orochi rốt cuộc cũng chỉ còn lại da và x�
 
 Phải chăng là vì nó ra đời sau khi nuốt trọn tới ba chiếc Bẫy Hủy Diệt? Dù anh đã phát huy tối đa trình độ của những kỹ thuật giải phẫu mà mình đã học được, việc lột da róc xương vẫn cực kỳ khó khăn. Nếu không có kỹ năng Quái Lực thì anh thậm chí còn chẳng thể thử nổi.
 
-"Mày ăn cái đó đi!"
+"Ngươi ăn cái đó đi!"
 
 Ngay cả khi đang dốc hết sức giải phẫu, anh vẫn quẳng những bộ phận bị đòn tấn công của mình phá hủy đến mức không thể dùng được cho Ngọn Lửa Vĩnh Cửu.
 
@@ -262,7 +262,7 @@ Có lẽ do phần thịt này thuộc về một đẳng cấp vượt trội h
 
 [Aaa, nó lại tiến hóa nữa rồi!] (Erta)
 
-"Đừng có giận cá chém thớt thế chứ."
+"Đừng có cáu kỉnh thế chứ."
 
 Tốc độ giải phẫu ngày càng nhanh hơn. Bắt đầu từ bảy chiếc đầu, xuyên suốt phần thân cho đến tận những chiếc đuôi!
 

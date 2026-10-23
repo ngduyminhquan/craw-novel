@@ -265,7 +265,7 @@
 | Elf | elf | Elf | chủng tộc | 50 | Được phép giữ nguyên: Chủng tộc thông tuệ trong thần thoại kỳ ảo phương Tây |
 | Army of Heaven | Heaven's Army | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
 | Atlatl |  | Atlatl | vật phẩm | 51 | Dụng cụ phóng lao cổ đại dùng đòn bẩy vung ném lao đi |
-| Destructive |  | Hủy Diệt | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng sức xuyên phá và sức tấn công |
+| Destructive |  | Hủy Diệt | hệ thống | 51 | Tiền tố / dòng thuộc tính alpha của tạo tác tăng sức xuyên phá và sức tấn công trong Chế Tác Mana |
 | Frighteningly |  | Kinh Hãi | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác |
 | Frighteningly Destructive Metal Pile Bunker |  | Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi | vật phẩm | 51 | Vũ khí Súng Bắn Cọc làm từ Thiết Tâm và Dây Thun Khổng Lồ, sở hữu dòng thuộc tính Hủy Diệt Kinh Hãi tăng 40% sức xuyên phá và sức tấn công |
 | Moonlight |  | Nguyệt Quang | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng sức tấn công và độ chính xác dưới ánh trăng |

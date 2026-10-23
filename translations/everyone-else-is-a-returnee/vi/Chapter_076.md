@@ -52,7 +52,7 @@ Anh nhìn thấu mọi ngóc ngách trên chiến trường, chọn lọc ra nh�
 
 "Đồ ngu, nếu Susanoo chết thì tất cả chúng ta cũng đi đời hết! Tôi bảo là chúng ta phải giúp Susanoo! Ngay bây giờ!"
 
-Vô số người bắt đầu tụ tập trên chiến trường, những dây gai bị đập nát tả tơi và con Orochi gầm thét dữ dội. Bất kể kẻ có năng lực hay kẻ bất tài đều đồng loạt lao vào tấn công Orochi, và trận chiến đang dần tiến tới hồi cao trào.
+Vô số người bắt đầu tụ tập trên chiến trường, những dây gai bị đập nát tả tơi và con Orochi gầm thét dữ dội. Bất kể người có dị năng hay không có dị năng đều đồng loạt lao vào tấn công Orochi, và trận chiến đang dần tiến tới hồi cao trào.
 
 Và rồi trong khoảnh khắc, Yu IlHan tự nhiên hiểu rằng thời cơ phản công đã điểm.
 
@@ -198,7 +198,7 @@ Quân Đoàn Susanoo kiên cường cầm cự qua đợt càn quét của quái
 
 "...Đòn đánh cuối cùng đó, không thể nào là thật được."
 
-"MiRae, cậu giận à? Nhưng mà cướp bóc là không tốt đâu nha."
+"MiRae, cậu giận à? Nhưng mà cướp quái là không tốt đâu nha."
 
 Na YuNa nghiêng đầu rồi sà tới ôm lấy Kang MiRae. Thế nhưng, bản thân Kang MiRae chỉ lắc đầu rồi đẩy cô bạn ra. Sau đó, cô lẩm bẩm bằng một giọng rất nhỏ chỉ đủ cho cô và Kang HaJin nghe thấy.
 
@@ -218,7 +218,7 @@ Na YuNa cũng nhìn thấy nó — sức mạnh hủy diệt áp đảo dường
 
 Trong khi đó, Yu IlHan đã kiệt sạch sức lực sau khi phóng ngọn thương đó, cả người anh rơi tự do trong vô vọng và chẳng thể tiếp đất một cách an toàn.
 
-Dù bản thân anh chưa thể sử dụng ma pháp dẫu đã có thể điều khiển mana, Erta đã thi triển ma pháp đỡ lấy anh với lý do 'nếu bị thương sau khi hạ sát Orochi một cách ngầu lòi như thế thì tội nghiệp lắm'.
+Dù bản thân anh chưa thể sử dụng ma pháp dẫu đã có thể điều khiển mana, Erta đã thi triển ma pháp đỡ lấy anh với lý do 'nếu bị thương sau khi hạ sát Orochi một cách oai phong như thế thì tội nghiệp lắm'.
 
 [Giờ thì cậu sẽ đi nghỉ ngơi rồi chứ?] (Lita)
 

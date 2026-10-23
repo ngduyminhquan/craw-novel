@@ -58,7 +58,7 @@ Quái vật chuyển chức 4 vốn chỉ xuất hiện ở những thế giới
 
 Thế nhưng, ở một thế giới chỉ mới trải qua vỏn vẹn Đại Tai Biến lần 1, lại có người chặn đứng được một thực thể chuyển chức 4 với tổn thất ít ỏi đến thế, mà đó lại còn là một con quái đột biến nữa chứ!
 
-[Có chuyện còn quan trọng hơn thế nữa đấy. Hiện Tượng Tràn, các người đã tìm ra kẻ nào gây nên chưa?] (Erta)
+[Có chuyện còn quan trọng hơn thế nữa đấy. Hiện Tượng Tràn, mọi người đã tìm ra kẻ nào gây nên chưa?] (Erta)
 
 Khi Erta hỏi một trong số các thiên thần, người đó liền bất lực lắc đầu.
 
@@ -128,7 +128,7 @@ Khoảng cách về đẳng cấp giữa Spiera và Erta là một trời một 
 
 [Ta chỉ phân biệt rạch ròi thôi.] (Spiera)
 
-Erta ngậm chặt miệng. Trong thâm tâm, cô muốn cầm thương đâm thủng bụng con khốn thối tha đó, nhưng nếu nói toạc móng heo ra thì rõ ràng là cô sẽ bị ăn đòn tơi tả.
+Erta ngậm chặt miệng. Trong thâm tâm, cô muốn cầm thương đâm thủng bụng con khốn thối tha đó, nhưng nếu nói toẹt ra miệng thì rõ ràng là cô sẽ bị ăn đòn tơi tả.
 
 [Bổn phận của chúng ta là quản lý và bảo vệ mọi thế giới một cách công bằng. Tuy nhiên, tiêu diệt những kẻ săn mồi tràn ra từ Bức Tường Hỗn Loạn cũng là một trọng trách khác của chúng ta, và nếu chúng ta bị đẩy lùi nơi tiền tuyến, thì theo đó vô số thế giới sẽ mất đi ánh sáng. Trừ phi cơ thể chúng ta đột nhiên phân thân làm đôi, bằng không ta phải đưa ra sự lựa chọn đúng đắn hơn.] (Spiera)
 
@@ -162,7 +162,7 @@ Ngay cả Erta cũng chẳng thể phủi sạch những trách nhiệm đó. C�
 
 Erta vặn lại, nhưng Spiera lại bất ngờ gật đầu đồng tình.
 
-[Các thực thể cấp cao nên làm những gì họ có thể làm bằng sức mạnh của mình, còn sinh mệnh bậc thấp nên làm những việc trong khả năng của họ. Ít nhất thì cấp trên cho rằng điều này hiệu quả hơn, đồng thời cũng là cách có thể giảm thiểu thiệt hại xuống mức tối đa. Vì lẽ đó.] (Spiera)
+[Các thực thể cấp cao nên làm những gì họ có thể làm bằng sức mạnh của mình, còn sinh mệnh bậc thấp nên làm những việc trong khả năng của họ. Ít nhất thì cấp trên cho rằng điều này hiệu quả hơn, đồng thời cũng là cách có thể hạn chế thiệt hại xuống mức tối thiểu. Vì lẽ đó.] (Spiera)
 
 [Vì lẽ đó?] (Erta)
 
@@ -222,13 +222,13 @@ Trong lúc Yu IlHan đang nghiêng đầu khó hiểu trước cuộc đối tho
 
 [Tôi biết rồi. Thế nên tôi sẽ đi giết sạch bọn họ.] (Lita)
 
-[Bình tĩnh lại đi! Chuyện này không dừng lại ở một trò đùa đâu đấy!] (Erta)
+[Bình tĩnh lại đi! Chuyện này không thể xem là trò đùa đâu đấy!] (Erta)
 
 Yu IlHan không hiểu chính xác tình hình nơi này đang diễn ra thế nào, nhưng anh hiểu rằng Lita sẽ phải rời xa anh một lần nữa. Chà, vì giờ đây Yu IlHan đã có thể sử dụng mana, lẽ ra anh chẳng còn cần phải kề cận bên hai thiên thần nữa, nhưng... anh nở một nụ cười cay đắng.
 
 "Tôi... sẽ không thể gặp lại cô trong một thời gian dài sao?"
 
-[Không đâu, trận chiến kiểu đó, tôi sẽ kết liễu nó thật nhanh rồi quay về.] (Lita)
+[Không đâu, trận chiến kiểu đó, tôi sẽ giải quyết nó thật nhanh rồi quay về.] (Lita)
 
 Lita thu sạch sát khí trước khi ôm chầm lấy đầu Yu IlHan và tự tin tuyên bố. Yu IlHan cũng khẽ vỗ nhẹ vào lưng cô.
 
