@@ -442,3 +442,5 @@
 | Soul-sticking Spike Leather Whip |  | Roi Da Gai Dính Hồn | vật phẩm | 82 | Tạo tác roi da phẩm cấp Độc Nhất do Yu IlHan chế tạo |
 | France |  | Pháp | địa danh | 82 | Quốc gia ở châu Âu, quê hương của Clan Phoenix |
 | Germany |  | Đức | địa danh | 82 | Quốc gia ở châu Âu |
+| Newtype | Newtypes | Newtype | khác | 83 | Thế hệ trẻ em chào đời trên Trái Đất sau Đại Tai Biến |
+| Elf Royalties |  | Hoàng tộc Elf | tổ chức | 83 | Hoàng tộc thuộc đế chế elf trên thế giới Daréu cổ đại |

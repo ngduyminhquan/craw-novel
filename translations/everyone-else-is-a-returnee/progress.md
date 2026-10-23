@@ -87,7 +87,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 80 |  | Chapter_080 - I, too, now 5.txt | I, too, now 5 | reviewed |  |
 | 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | reviewed |  |
 | 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | done |  |
-| 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | todo |  |
+| 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | done |  |
 | 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | todo |  |
 | 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | todo |  |
 | 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | todo |  |
@@ -643,3 +643,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#81] Thuật ngữ chức nghiệp "Paladin" trong raw — Tạm chọn: Giữ bản dịch "Thánh Kỵ Sĩ" (đồng bộ với chức nghiệp của Kang HaJin đã chốt ở #47, thêm alias 'Paladin' vào glossary.md). Phương án khác: Dịch là "Hiệp Sĩ Paladin" hoặc "Kỵ Sĩ Thánh". Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Chốt giữ bản dịch Thánh Kỵ Sĩ (đồng bộ với chức nghiệp của Kang HaJin ở #47, thêm Paladin vào Alias). (orchestrator)
 - [#82] Tên dịch các clan quốc tế mới: "Magic Dragon Clan" (Nhật Bản) dịch là "Clan Ma Long" (đồng bộ theo tên Hán Việt như Clan Lôi Thần); "Phoenix Clan" (Pháp) dịch là "Clan Phoenix" (giữ dạng Latin như các clan phương Tây Metal Knights, Magia). — Tạm dùng trong bản dịch: "Clan Ma Long" và "Clan Phoenix". → Chốt Clan Ma Long (Nhật Bản) và Clan Phoenix (Pháp). (orchestrator)
 - [#82] Câu cảm thán thoại "Insane." của chủ clan khi nghe về 520 tạo tác Độc Nhất — Tạm dùng trong bản dịch: "Điên rồ thật." (qa_check cảnh báo do glossary có 'Insane' -> 'Cuồng Loạn' vốn áp dụng cho tiền tố trang bị/kỹ năng). Đề xuất giữ nguyên cách dịch tự nhiên trong thoại. → Chốt giữ nguyên Điên rồ thật. cho câu cảm thán thoại Insane. (orchestrator)
+- [#83] Chi tiết đùa "YeoRang Sinclair" ở đoạn 10 raw (ám chỉ nhân vật Emil Sinclair trong Demian của Hermann Hesse) → Chốt giữ nguyên tên riêng "YeoRang Sinclair" theo rules.md. (orchestrator)
+- [#83] Cụm từ "dog hole" (개구멍, đoạn 73 & 75 raw) → Chốt dịch là "lỗ chó" (kèm giải thích tự nhiên "lối đi bí mật, hay nói cách khác là một cái \"lỗ chó\"" ở đoạn 73). (orchestrator)

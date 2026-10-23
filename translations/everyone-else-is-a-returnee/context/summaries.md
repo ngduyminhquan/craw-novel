@@ -503,3 +503,9 @@ Một tuần sau khi rời khỏi kết giới Đồng Hồ Cát Vĩnh Hằng, Y
 IlHan công khai thân phận chủ tịch Vanguard, từ chối mở chi nhánh quốc tế hay chịu bất kỳ sự bảo hộ/chi phối nào từ các cường quốc, đồng thời giới thiệu danh mục mở bán gồm 30 bộ trang bị chuẩn và 10 bộ trang bị phẩm cấp Độc Nhất (kèm phụ kiện nhờ trình độ Chế Tác Mana trên cấp 30).
 Anh đưa Roi Da Gai Dính Hồn (phẩm cấp Độc Nhất, công 3.200) cùng dây chuyền tăng cường ma pháp cho Takagaki Asuha (chủ Clan Ma Long Nhật Bản) và các chủ clan chuyền tay kiểm tra, khiến tất cả mê mẩn trước hiệu năng phi thường.
 Cảnh kết thúc: Trước nỗi lo lắng của các clan về mức giá trên trời, Yu IlHan công bố mức giá cố định chỉ 5 triệu USD (khoảng 5 tỷ won) cho mỗi món tạo tác Độc Nhất khiến toàn thể chủ clan sững sờ câm nín, không một ai dám rời khỏi phòng giao dịch.
+
+## 83
+Nhờ trang bị của Vanguard, lực lượng Trấn Áp và các clan hàng đầu tăng trưởng vượt bậc, góp phần ổn định tình hình thế giới và vùng Kantou; Yu IlHan dùng quy định vé mua để dập tắt tranh chấp giữa các clan và hoàn tất đơn hàng cho 26 clan lớn trong 3 tuần, đưa cấp độ của mình lên 87.
+Nhận thấy tốc độ thăng cấp quá chậm và nguy cơ Đại Tai Biến lần 2 đang tới gần, IlHan quyết định hành động; anh chia sẻ một phần sinh mệnh lực từ Thu Thập Tử Vong giúp tàn niệm Reta Kar'iha ngày càng rõ nét, đồng thời thuần thục việc vận dụng mana cường hóa kỹ năng và ẩn thân.
+Nhờ Clan Lôi Thần bảo hộ gia đình, IlHan cùng Erta tới hầm ngục bị niêm phong ở Grand Canyon để tìm lối chui sang Thế Giới Bị Bỏ Rơi Daréu nhằm săn Long tộc chuyển chức 3; anh hùng hồn tiên đoán trúng phóc viễn cảnh trục trặc ma pháp trận khiến bản thân phải chật vật đồ sát rồng cấp 4 và chạm trán trùm cấp 5 khiến cả Erta lẫn Reta đều phát sợ.
+Cảnh kết thúc: Sau khi lối vào hầm ngục được Thiên giới phê chuẩn, Erta dần nhiễm tính cách tưng tửng tự tin của IlHan và cùng anh không chút ngần ngại bước vào hầm ngục Daréu, bỏ lại một tàn niệm Reta hoang mang lo lắng.
