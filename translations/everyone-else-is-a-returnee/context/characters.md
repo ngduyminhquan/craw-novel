@@ -33,6 +33,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Liera |  | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
 | Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
+| Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 
 ## Chi tiết
 
@@ -120,6 +121,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 87: Gặp gỡ nhóm 13 người elf sống sót và phát hiện họ được thế lực Kẻ Siêu Việt Khu Vườn Hoàng Hôn giấu đi thông qua bầy quái Long tộc mà anh vừa tiêu diệt; tiếp tục cuộc đi săn tại Daréu, hoàn thành tiêu diệt 10.000 quái vật chuyển chức 3 trong 17 ngày và chuẩn bị bước vào cuộc đi săn quái vật Long tộc chuyển chức 4.
 - Trạng thái tính đến chương 88: Tiêu diệt con rồng chuyển chức 4 cấp 200 đầu tiên tại Daréu nhờ phối hợp Bật Nhảy Tiếp, Hắc Cốt Đại Thương và 72 tấm khiên Orochi ('Thiết Pháo Đài'); thu được ma thạch chuyển chức 4 và mở khóa thông báo tiến hóa kỹ năng Thương Thuật.
 - Trạng thái tính đến chương 89: Tiến hóa thành công Thương Thuật thành kỹ năng độc nhất 'Bất Khả Họa Quỹ Đạo Thương' (thăng lên Lv 3), đồng thời nhận danh hiệu 'Cực Tốc Giả' (+10% tốc độ tu luyện kỹ năng, +10% EXP) và mở khóa 1 điều kiện chuyển chức lần 5; phát hiện điều kiện tiến hóa dung hợp của Thuật Ném; dùng thuốc hồi mana chuyển chức 4 của Dakié tăng tốc độ săn rồng chuyển chức 4 lên gấp đôi.
+- Trạng thái tính đến chương 93: Nâng kỹ năng Bật Nhảy lên Lv 40 (tăng số lần bật nhảy tiếp lên 3 và duy trì trên không bằng mana), Siêu Việt Tái Sinh lên Lv 40 (tăng mạnh hiệu suất năng lượng nghỉ ngơi và tốc độ hồi phục); hạ sát con rồng Esila và thêm 5 con rồng khác trong trận chiến tại bờ biển; đoán biết mưu đồ của kẻ địch định bắt sống mình làm con tin uy hiếp Lita; kích hoạt Đồng Hồ Cát Vĩnh Hằng tử chiến với đại quân Long tộc bao vây.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

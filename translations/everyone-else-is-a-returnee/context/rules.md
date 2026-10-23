@@ -47,4 +47,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#78) Khi dòng thoại của nhân vật trong ngoặc vuông có tên người nói đặt trong ngoặc đơn đi liền (vd `[...](Erta)`), luôn thêm một dấu cách trước ngoặc đơn thành `[...] (Erta)` để tránh bị trình đọc nhầm thành cú pháp liên kết Markdown.
 - (#80) Trong bảng thông số vật phẩm, từ khóa '[Options – ...]' dịch thống nhất là '[Dòng thuộc tính – ...]' theo glossary.md, không dịch thành '[Tùy chọn – ...]'.
 - (#88) Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ('Translation changes: spearmanship – spear master, etc)') được bỏ qua và thêm vào raw_ignore_lines.
-- (#89) Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ('(Translation changes: Close combat -> Physical Combat, this would be \'taijutsu\' in JP)') được bỏ qua và thêm vào raw_ignore_lines.
+- (#89) Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ('(Translation changes: Close combat -> Physical Combat, this would be \'taijutsu\' in JP)') được bỏ qua và thêm vào raw_ignore_lines.
+- (#93) Dòng ghi chú proofreader/editor ở giữa chương ('(P/R Is this the long-awaited realization of Yu Ilhan\'s feelings???!!!????) (E/N: Naw, he an idiot)') được bỏ qua và thêm vào raw_ignore_lines.

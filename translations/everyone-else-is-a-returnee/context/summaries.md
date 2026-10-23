@@ -568,3 +568,10 @@ Tiêu tốn hơn hai mươi viên ma thạch để sàng lọc quái ngoài tổ
 Tại bờ biển, lợi dụng con rồng tên Caliana chủ quan tách đàn lặn xuống biển, IlHan từ trên không phóng thương dồn trọng lượng tập kích trúng trán khiến nó rơi vào trạng thái sốc, tạo nên khung cảnh hỗn loạn khiến bầy rồng hoảng loạn tung đòn bắn trúng lẫn nhau.
 Tận dụng sự hỗn loạn và tái kích hoạt Ẩn Thân, IlHan áp sát bồi thêm nhát đâm thứ hai bằng Bất Khả Họa Quỹ Đạo Thương đưa Chí Mạng lên Lv 40, kết liễu Caliana thu về hơn 1 tỷ EXP và đạt mốc 959/1.000 quái chuyển chức 4 (chỉ còn 41 con).
 Cảnh kết thúc: Nhanh tay thu hồi xác Caliana và nhìn bầy rồng trên không đang chết sững vì khiếp sợ, Yu IlHan cười khẩy rồi dũng mãnh bật nhảy nghênh chiến với 4 con rồng còn lại.
+
+## 93
+Đối đầu 4 con rồng còn lại trên bầu trời hòn đảo, Yu IlHan tận dụng bộ giáp kháng hỏa 80% và Ẩn Thân để đưa kỹ năng Bật Nhảy lên Lv 40 (tăng số lần bật nhảy tiếp lên 3) cùng Siêu Việt Tái Sinh lên Lv 40; anh cắm Hắc Cốt Đại Thương và dồn trọng lượng Túi Đeo Chéo kéo con rồng Esila rơi xuống đất kết liễu.
+Nghe lỏm được bầy rồng nhắc đến việc không được giết mình, IlHan suy luận ra kẻ địch mưu đồ bắt sống anh làm con tin để nhắm vào Lita; với quyết tâm không để bản thân trở thành điểm yếu của Lita, anh biến bất lợi thành lợi thế chiến đấu.
+Lợi dụng sự lúng túng của hai con rồng đang tìm cách cứu đồng loại và cản trở một con rồng phát cuồng, IlHan phối hợp Bất Khả Họa Quỹ Đạo Thương, Quái Lực và Hỏa Tím đâm thủng vòm họng kết liễu con rồng thứ hai.
+Bầy rồng cuồng nộ kích động hàng chục con rồng và hàng trăm quái vật Long tộc kéo đến phong tỏa ma pháp trận; trong thế trận hỗn chiến tổng lực không thể rút lui, IlHan quyết định liều mình tử chiến.
+Cảnh kết thúc: Sau 17 phút ác chiến tiêu diệt thêm 4 con rồng đến mức cơ thể tưởng chừng gãy làm đôi, Yu IlHan kích hoạt thành công Đồng Hồ Cát Vĩnh Hằng để mở kết giới.

@@ -97,7 +97,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 90 |  | Chapter_090 - You, I, Strangers 8.txt | You, I, Strangers 8 | reviewed |  |
 | 91 |  | Chapter_091 - You, I, Strangers 9.txt | You, I, Strangers 9 | done |  |
 | 92 |  | Chapter_092 - You, I, Strangers 10.txt | You, I, Strangers 10 | done |  |
-| 93 |  | Chapter_093 - You, I, Strangers 11.txt | You, I, Strangers 11 | todo |  |
+| 93 |  | Chapter_093 - You, I, Strangers 11.txt | You, I, Strangers 11 | done |  |
 | 94 |  | Chapter_094 - You, I, Strangers 12.txt | You, I, Strangers 12 | todo |  |
 | 95 |  | Chapter_095 - You, I, Strangers 13.txt | You, I, Strangers 13 | todo |  |
 | 96 |  | Chapter_096 - You, I, Strangers 14.txt | You, I, Strangers 14 | todo |  |
@@ -667,3 +667,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#91] Biệt hiệu của Liera "Bloodied Angel" do kẻ địch ở Bức Tường Hỗn Loạn đặt cho — Tạm chọn: "Huyết Thiên Thần" (chuẩn Hán Việt ngắn gọn theo rules.md cho danh hiệu/biệt hiệu). Phương án khác: "Thiên Thần Nhuốm Máu". Tạm dùng trong bản dịch: "Huyết Thiên Thần". → Chốt "Huyết Thiên Thần" theo quy tắc Hán Việt ngắn gọn của rules.md cho danh hiệu/biệt hiệu. (orchestrator)
 - [#91] Đơn vị tác chiến độc lập "Strike Force 11" của Liera tại Bức Tường Hỗn Loạn — Tạm chọn: "Lực Lượng Đột Kích 11". Phương án khác: "Đội Đột Kích 11". Tạm dùng trong bản dịch: "Lực Lượng Đột Kích 11". → Chốt "Lực Lượng Đột Kích" cho "Strike Force" ("Lực Lượng Đột Kích 11"). (orchestrator)
 - [#91] Lời thoại cầu xin của rồng vàng kim "Let us party." — Tạm chọn: "Lập tổ đội đi." (theo ngữ cảnh thuật ngữ game). Phương án khác: "Hãy lập đội đi.", "Lập nhóm đi.". Tạm dùng trong bản dịch: "Lập tổ đội đi." → Chốt "Lập tổ đội đi." sát nghĩa thuật ngữ game (party) và tạo hiệu ứng hài hước trong ngữ cảnh rồng xin lập nhóm với kẻ đi săn. (orchestrator)
+- [#93] Dòng ghi chú proofreader/editor "(P/R Is this the long-awaited realization of Yu Ilhan's feelings???!!!????) (E/N: Naw, he an idiot)" không có dấu hai chấm sau P/R nên qa_check.py không tự nhận diện là T/N → Chấp nhận thêm vào raw_ignore_lines trong novel.json và ghi chú vào mục "Riêng truyện này" trong rules.md theo bước B2 của novel-translate để không gộp đoạn. (orchestrator)
