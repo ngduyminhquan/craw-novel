@@ -341,7 +341,7 @@
 | magic potion |  | thuốc hồi mana | vật phẩm | 61 | Dược phẩm hồi phục mana cao cấp |
 | Destruction Demon Army |  | Quân Đội Ma Hủy Diệt | tổ chức | 62 | Một trong các thế lực thực thể cấp cao lớn mang dã tâm hủy diệt |
 | Garden of Sunset |  | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
-| Brilliant Army of Light | Army of Brilliant Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
+| Brilliant Army of Light | Army of Brilliant Light; Army of Dazzling Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
 | Suspension of Activity |  | Đình Chỉ Hoạt Động | hệ thống | 62 | Hình phạt phong ấn quyền hạn và hoạt động của thiên thần |
 | Dungeon Break | Dungeon Breaks | Vỡ Hầm Ngục | hệ thống | 63 | Hiện tượng Bẫy Hủy Diệt bị phá vỡ do nồng độ mana tăng cao sau Đại Tai Biến lần 2 |
 | power of life |  | sinh mệnh lực | hệ thống | 60 | Năng lượng sinh mệnh mà kỹ năng Thu Thập Tử Vong thu thập từ đối tượng bị tiêu diệt |

@@ -111,4 +111,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Spiera | tôi | ngài Spiera / Spiera-nim | 77 | Erta tranh luận và chất vấn quyết định của Spiera và hội đồng Thiên giới |
 | Yu IlHan | Takagaki Asuha | tôi | cô | 82 | IlHan tiếp đón và trao đổi trang bị với chủ clan Ma Long |
 | Takagaki Asuha | Yu IlHan | tôi | anh | 82 | Chủ clan Ma Long đàm phán và ngỏ lời bảo hộ Yu IlHan |
+| Reta Kar'iha | Yu IlHan | tôi | cậu | 84 | Reta đồng hành cùng IlHan tại Daréu, thống nhất gọi cậu |
 

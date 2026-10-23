@@ -22,7 +22,7 @@ Dù con rồng đã trút sạch ma pháp về hướng nó 'cảm nhận' thấ
 
 "Chém đi đâu đấy? Tàn ảnh thôi mà!"
 
-[Đòn đánh chí mạng!]
+[Chí Mạng!]
 
 [Khuặaaa! Ta có chém đâu cơ chứ!]
 
@@ -242,7 +242,7 @@ Dĩ nhiên, Yu IlHan và Erta chẳng đời nào hay biết điều đó.
 
 Con lươn trơn tuột, Yu IlHan. Chúng đã dốc toàn lực tấn công với ý đồ đoạt mạng anh, thế nhưng Yu IlHan vẫn ngoạn mục sống sót và đào tẩu.
 
-Dựng được vài cái flag thì cũng hay đấy, nhưng chỉ dừng lại ở đó thôi. Nếu cứ để mặc anh như vậy, số lượng đồng loại có thể tiến sang thế giới khác sẽ ngày một hao hụt. Cần phải 'bắt sống' anh trước khi điều đó xảy ra.
+Dựng được vài điềm báo thì cũng hay đấy, nhưng chỉ dừng lại ở đó thôi. Nếu cứ để mặc anh như vậy, số lượng đồng loại có thể tiến sang thế giới khác sẽ ngày một hao hụt. Cần phải 'bắt sống' anh trước khi điều đó xảy ra.
 
 [Chúng ta cần tập hợp lại. Tiêu diệt con lươn trơn tuột đó, và chuẩn bị đón nhận những đổi thay.]
 
@@ -260,7 +260,7 @@ Yu IlHan không hề hay biết điều này, anh chỉ mải miết di chuyển
 
 Chỉ còn 2 ngày nữa là đến hạn chót hoàn thành nhiệm vụ. Do phải tìm diệt những con rồng sống đơn độc, tốc độ săn bắn của anh đã giảm đi trông thấy.
 
-[Chúng ta sẽ dịch chuyển ngay đây. Có thể có bẫy ma pháp nên xin anh hãy cẩn thận!] (Reta)
+[Chúng ta sẽ dịch chuyển ngay đây. Có thể có bẫy ma pháp nên xin cậu hãy cẩn thận!] (Reta)
 
 "Không sao đâu, đến cả bẫy rập cũng chẳng nhận ra tôi được đâu."
 

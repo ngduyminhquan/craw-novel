@@ -18,7 +18,7 @@ Với một người đã quyết tâm tận diệt toàn bộ Long tộc như Y
 
 Bất kể anh đã tích lũy bao nhiêu ghi chép trong cơ thể để khắc chế loài rồng, liệu có khả thi không khi đòi đập chết những sinh vật kinh hãi đó như đập ruồi?
 
-Trước những sinh vật mà chỉ cần một con duy nhất triệu hồi xuống Trái Đất cũng đủ gieo rắc địa ngục?
+Trước những sinh vật mà chỉ cần một con duy nhất được triệu hồi xuống Trái Đất cũng đủ gieo rắc địa ngục?
 
 "Chà, chỉ có thử mới biết được."
 
@@ -52,7 +52,7 @@ Reta quả quyết bằng một giọng kiên định. Lời của cô bằng c�
 
 Bởi lẽ kích thước cơ thể nó khổng lồ tới mức che khuất phân nửa cảnh vật trong tầm mắt anh. Dáng vẻ của nó đúng nghĩa như một con rồng bước ra từ trang sách truyện.
 
-Cái đầu thằn lằn đi kèm với những chiếc răng sắc nhọn kinh hãi trong khoang miệng. Lớp vảy bao phủ thân hình đồ sộ ánh lên sắc đỏ dưới ánh mặt trời, trong khi đôi cánh giống loài dơi trông có vẻ... chưa phát triển hoàn thiện để bay lượn lại được xếp gọn gàng sau lưng nó.
+Cái đầu thằn lằn đi kèm với những chiếc răng sắc nhọn đến rợn người trong khoang miệng. Lớp vảy bao phủ thân hình đồ sộ ánh lên sắc đỏ dưới ánh mặt trời, trong khi đôi cánh giống loài dơi trông có vẻ... chưa phát triển hoàn thiện để bay lượn lại được xếp gọn gàng sau lưng nó.
 
 Mọi bộ phận cấu thành nên cơ thể sinh vật Long tộc này đều chứa đựng một lượng lớn mana ngự trị. Yu IlHan chỉ mới bắt đầu lĩnh hội phương thức khống chế nguồn năng lượng đó, nhưng sinh vật Long tộc chuyển chức 4 này lại điều khiển mana tự nhiên như hơi thở.
 

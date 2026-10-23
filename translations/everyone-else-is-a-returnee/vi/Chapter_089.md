@@ -218,7 +218,7 @@ Rốt cuộc vừa rồi đã xảy ra chuyện gì vậy? — Khuôn mặt củ
 
 Vung ngọn thương lên, nhưng lại vung theo cách khiến người ta không thể nhìn thấy bất kỳ quỹ đạo nào. Những kẻ trúng đòn thậm chí sẽ chẳng thể nào biết được đòn thương ấy được vung ra từ lúc nào, hay theo cách thức ra sao. Sẽ chẳng một ai là không khiếp sợ trước một đòn tấn công bóp méo cả nhân quả như thế.
 
-Đây là kỹ năng mà chỉ có một mình Yu IlHan mới có thể học hỏi và thi triển, bởi anh đã đạt tới cảnh giới tối đa ở cả thuật ẩn thân lẫn thương thuật, cùng hàng loạt các kỹ năng võ thuật khác, giúp anh phát huy trọn vẹn toàn bộ sức mạnh hủy diệt ẩn chứa bên trong thân xác con người. Dù trông bề ngoài như một kỹ năng đơn lẻ, song thực chất nó lại chẳng hề đơn giản như vậy.
+Đây là kỹ năng mà chỉ có một mình Yu IlHan mới có thể học hỏi và thi triển, bởi anh đã đạt tới cảnh giới tối đa ở cả thuật ẩn thân lẫn thương thuật, cùng hàng loạt các kỹ năng võ thuật khác, giúp anh phát huy trọn vẹn toàn bộ sức mạnh hủy diệt ẩn chứa bên trong thân xác con người. Dù trông bề ngoài như một kỹ năng đơn lẻ, song thực chất nó lại không chỉ có một.
 
 Dĩ nhiên, anh chẳng thể nào thi triển một kỹ năng cấp bậc cao đến nhường này chỉ bằng sức mạnh thể xác đơn thuần, thế nên lượng mana anh tiêu hao là vô cùng lớn. Mới chỉ chém một cái cây thôi mà đã tốn chừng này, lỡ dùng nó để chém rồng thì có khi cạn sạch mana cũng nên.
 
