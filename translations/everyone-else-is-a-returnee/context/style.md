@@ -34,6 +34,7 @@
 | Kuhuk / Kuhk | Khặc / Hự | Tiếng rên/nghẹn họng khi trúng đòn hiểm |
 | Wao | Oa | Tiếng thốt lên thích thú hoặc kinh ngạc của Na YuNa |
 | Hik | Hức | Tiếng giật thót mình khi bị quở trách của Feyta |
+| Fufu | Hì hì / Phì | Điệu cười khẽ đắc ý hoặc thích thú |
 
 ## Đặc điểm ghi nhận theo chương
 

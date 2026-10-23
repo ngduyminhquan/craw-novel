@@ -162,7 +162,7 @@ Thú thật, Yu IlHan không phải là kẻ có lòng hiếu thảo sâu sắc 
 
 Thế nhưng, đời nào anh có thể ngẩng cao đầu trước mặt họ nếu như chưa làm được gì cho họ mà lại khiến họ bị vướng vào mớ rắc rối này, đúng chứ?
 
-Yu IlHan liền cất tiếng hỏi hai nữ thiên thần, những người dù mang danh 'siêu việt' cảm xúc nhưng lại mê mẩn trang sức và cũng biết nổi giận rất tài tình.
+Yu IlHan liền cất tiếng hỏi hai nữ thiên thần, những người dù mang danh 'siêu việt' cảm xúc nhưng lại mê mẩn trang sức và cũng rất hay nổi giận.
 
 "Lòng tham của con người ấy à. Tôi biết quá rõ rồi. Vậy thì, vào lúc này, ai là người hiểu rõ giá trị của Vanguard nhất? Và ai là kẻ khao khát muốn che giấu chuyện này đến cùng?"
 
@@ -192,7 +192,7 @@ Yu IlHan sở hữu mọi năng lực để sinh tồn trên một Trái Đất 
 
 Ban đầu, anh không hề tính xa đến mức này khi đưa số điện thoại cho Kang MiRae, nhưng trong khoảng thời gian bán cây cốt trượng, anh đã nghĩ rằng rồi sẽ có lúc mình nhận được sự tương trợ từ cô. Và quả thực mọi chuyện đã diễn ra đúng như vậy.
 
-Dẫu vậy, họ bảo vệ anh có lẽ chẳng phải để giúp đỡ anh, mà là để ngăn chặn những tạo tác do anh làm ra rơi vào tay kẻ khác.
+Dẫu vậy, họ bảo vệ anh có lẽ chẳng phải để giúp đỡ anh, mà là để ngăn chặn những tạo tác do anh làm ra rơi vào tay kẻ không nên có.
 
 [Thành ra ở Trái Đất, một người bị bỏ lại còn thích nghi tốt hơn cả những người trở về.] (Erta)
 

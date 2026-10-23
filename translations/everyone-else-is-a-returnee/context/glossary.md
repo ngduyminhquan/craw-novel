@@ -382,3 +382,4 @@
 | Thunder Spear |  | Lôi Thương | kỹ năng | 69 | Kỹ năng ma pháp ngưng tụ tia sét thành ngọn giáo phóng đi |
 | Iron Wing |  | Thiết Dực | quái vật | 69 | Quái vật dạng bay cấp 66 phóng lông vũ bằng sắt tấn công con người |
 | Remote collecting of possession |  | Thu hồi vật sở hữu từ xa | hệ thống | 69 | Dòng thuộc tính ma pháp thu gom vũ khí và vật sở hữu từ xa cho Túi Đeo Chéo |
+| Orc | orc; orcs | Orc | quái vật | 69 | Chủng tộc quái vật hình người xuất hiện trong đợt Vỡ Hầm Ngục tại Nhật Bản |

@@ -14,7 +14,7 @@ Hơn nữa, thương hiệu đó dù chiếm trọn tầng 13 và tầng 14 củ
 
 "Không biết lấy đâu ra tự tin mà lại đi treo một tấm biển trông tồi tàn đến thế ngay giữa Gangnam nhỉ? Ít ra cũng phải cho người ta biết mình bán cái gì chứ. Chẳng mấy chốc mà nợ nần với hàng tồn chất đống cho xem."
 
-Điều đó cũng chẳng thành vấn đề, bởi chủ quán lại có rất nhiều tiền.
+Điều đó cũng chẳng thành vấn đề, bởi chủ thương hiệu lại có rất nhiều tiền.
 
 Tất nhiên, những người khác đâu thể biết được nội tình bên trong. Đa số chỉ cười gượng gạo khi nhìn thấy, và vài người còn cười nhạo với vẻ khinh khỉnh.
 
@@ -214,9 +214,9 @@ Kang MiRae là chủ clan trong khi Kang HaJin là phó clan, còn Na YuNa chỉ
 
 Đó là tính cho đến tận bây giờ.
 
-"Số lượng các clan chính thức công khai danh tính tính đến nay đã lên tới hàng trăm. Ở Hàn Quốc cũng đã có vài nhóm quy mô nhỏ lộ diện. Nếu còn trì hoãn thêm nữa thì mọi chuyện sẽ trở nên dở dở ương ương. Để nâng cao danh tiếng của cậu, chúng ta nên bắt đầu hoạt động sau khi tuyển thêm thành viên."
+"Số lượng các clan chính thức công khai danh tính tính đến nay đã lên tới hàng trăm. Ở Hàn Quốc cũng đã có vài nhóm quy mô nhỏ lộ diện. Nếu còn trì hoãn thêm nữa thì mọi chuyện sẽ trở nên dở dở ương ương. Để nâng cao danh tiếng của em, chúng ta nên bắt đầu hoạt động sau khi tuyển thêm thành viên."
 
-"Ừ, chúng ta nên làm vậy."
+"Vâng, chúng ta nên làm vậy."
 
 Kang MiRae ngoan ngoãn gật đầu. Biểu cảm của cô vẫn vô cùng phức tạp, nhưng lời thốt ra từ miệng lại vô cùng dứt khoát.
 
@@ -226,7 +226,7 @@ Kang MiRae ngoan ngoãn gật đầu. Biểu cảm của cô vẫn vô cùng ph�
 
 "Im đi."
 
-Trong lúc đó, Yu IlHan, người vừa vô tình khiến các cán bộ cấp cao của Clan Lôi Thần rơi vào cảnh hỗn loạn, thì lại đang...
+Trong lúc đó, Yu IlHan, người vừa vô tình khiến ban lãnh đạo của Clan Lôi Thần rơi vào cảnh hỗn loạn, thì lại đang...
 
 [Bạn nhận được 2.989.744 điểm kinh nghiệm.]
 

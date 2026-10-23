@@ -1,4 +1,4 @@
-# Chương 69: Tôi mà là Thần!? 1
+# Chương 69: Tôi mà là Thần!? (1)
 
 Dù ý kiến của mỗi người có thể khác nhau, nhưng nhìn chung, xét về cả lịch sử, chính trị lẫn thương mại, vùng Kantou chính là trung tâm của Nhật Bản.
 
@@ -74,9 +74,9 @@ Cứ thế, một vũ đài nơi các clan quy tụ những tinh anh cấp cao c
 
 {Khéeeck, chặn ma pháp lại!}
 
-"Chặn con quái đằng sau lại! Bảo vệ Chủ clan!"
+"Chặn con quái đằng sau lại! Bảo vệ Chủ Clan!"
 
-"Chủ clan, vẫn chưa xong sao?"
+"Chủ Clan, vẫn chưa xong sao?"
 
 "Sắp rồi!"
 
@@ -126,7 +126,7 @@ Cô chưa từng nghĩ rằng anh lại không đến đây. Trong hiểu biết
 
 Trừ phi vướng phải chuyện bất khả kháng, bằng không chắc chắn anh đang có mặt ở đây. Rất có thể anh đang lập nên những chiến công hiển hách tại một góc nào đó mà cô không hay biết. Cuộc cạnh tranh giữa hai người họ rõ ràng đã bắt đầu.
 
-"Fufu."
+"Hì hì."
 
 Một nụ cười nở trên môi Kang MiRae. Tiếng rùng mình thích thú ấy khiến những người xung quanh phải giật thót, nhưng cô chẳng mảy may bận tâm. Cô chỉ giơ cao cây quyền trượng đã tụ đủ uy lực rồi hô lớn.
 

@@ -71,9 +71,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | reviewed |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | reviewed |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | reviewed |  |
-| 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | done |  |
-| 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | done |  |
-| 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | done |  |
+| 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | reviewed |  |
+| 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | reviewed |  |
+| 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | reviewed |  |
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | todo |  |
 | 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | todo |  |
 | 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | todo |  |
@@ -606,3 +606,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#68] Thuật ngữ Dungeon Chain Break & Dungeon Wave → Chốt 'Vỡ Hầm Ngục Liên Hoàn' và 'Đợt Sóng Hầm Ngục' (orchestrator)
 - [#69] Kỹ năng Chain Lightning → Chốt 'Lôi Dây Chuyền' (orchestrator)
 - [#69] Quái vật Iron Wing → Chốt 'Thiết Dực' (đồng bộ với Thiết Tâm) (orchestrator)
+- [#67-69] Xưng hô Kang HaJin và Kang MiRae Ch.67 đoạn 108? → Chốt sửa 'danh tiếng của cậu' thành 'danh tiếng của em'. (orchestrator)
+- [#67-69] Phản hồi của Kang MiRae với Kang HaJin Ch.67 đoạn 109? → Chốt sửa 'Ừ, chúng ta nên làm vậy.' thành 'Vâng, chúng ta nên làm vậy.'. (orchestrator)
+- [#67-69] Định dạng tiêu đề chương 69? → Chốt sửa thành '# Chương 69: Tôi mà là Thần!? (1)'. (orchestrator)

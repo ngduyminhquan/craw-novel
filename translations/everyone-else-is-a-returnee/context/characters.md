@@ -135,6 +135,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 55: Gặp mặt IlHan tháo mặt nạ để thể hiện sự tôn trọng; đặt hàng một cây trượng và áo choàng pháp sư có dòng thuộc tính beta (giảm thời gian hồi chiêu kỹ năng ma pháp và tăng hồi phục ma pháp) với giá lên tới 17 tỷ won; tiết lộ từng chứng kiến Cung Đình Ma Pháp Trưởng của đế quốc Palladia dùng trượng Độc Nhất một mình diệt quái vật chuyển chức lần 4.
 - Trạng thái tính đến chương 65: Mua Cốt Trượng phẩm cấp Truyền Thuyết và Áo Choàng phẩm cấp Độc Nhất từ Yu IlHan với giá 100 tỷ won (kèm quyền sở hữu một tòa nhà); thề sẽ nỗ lực vượt qua anh; bộc lộ tham vọng chiếm hữu và khao khát nâng cao giá trị bản thân để xứng đáng chinh phục IlHan, quyết tâm không để Na YuNa cướp mất anh.
 - Trạng thái tính đến chương 67: Kiểm tra giáp vai và ủng của Vanguard mà anh trai Kang HaJin mua được, nhận định việc kinh doanh của IlHan là sự nối dài từ giao dịch với mình và khen ngợi anh là người chính trực; suýt phóng sét thiêu rụi văn phòng khi bị Na YuNa trêu chọc; giữ chức Chủ Clan và quyết định chính thức chiêu mộ thành viên cho 'Clan Lôi Thần'.
+- Trạng thái tính đến chương 69: Dẫn đầu Clan Lôi Thần sang Nhật Bản chi viện theo lời thỉnh cầu SOS trong thảm họa Vỡ Hầm Ngục; sử dụng Cốt Trượng Thiên Lôi thi triển Lôi Dây Chuyền và Lôi Thương càn quét hàng chục quái vật orc chuyển chức 2, khẳng định vị thế dẫn đầu trong số các clan quốc tế; sục sôi ý chí ganh đua và mong muốn chứng tỏ năng lực với Yu IlHan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -176,6 +177,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 49: Nhường toàn bộ ma thạch đen và di vật của Reta Kar'iha cho Yu IlHan; biết tên thật của IlHan và kinh ngạc trước thái độ phũ phàng cự tuyệt nhan sắc Na YuNa của anh; cảm thấy tự ti trước mối quan hệ thân thiết giữa IlHan và các thiên thần.
 - Trạng thái tính đến chương 50: Cùng Na YuNa về nước an toàn giao nọc bọ cạp cho Kang MiRae; giấu đi mặc cảm tự ti trước sức mạnh của IlHan và nuôi tham vọng thu phục anh về dưới trướng.
 - Trạng thái tính đến chương 67: Cùng Na YuNa đến cửa hàng Vanguard mua giáp vai và ủng; thừa nhận bản thân bất lực trước năng lực và các mối quan hệ khó tin của IlHan; giữ chức phó clan và cùng em gái Kang MiRae chuẩn bị chiêu mộ thành viên cho 'Clan Lôi Thần'.
+- Trạng thái tính đến chương 69: Cùng Kang MiRae và Na YuNa dẫn dắt đội hình 10 người của Clan Lôi Thần tham chiến chi viện tại Nhật Bản; đóng vai trò thánh kỵ sĩ cầm khiên lập trận hình phòng ngự kiên cố che chắn cho Kang MiRae và Na YuNa thi triển ma pháp tiêu diệt bầy quái vật orc.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -191,6 +193,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Về đến sân bay Incheon cùng Kang HaJin; phơi bày việc HaJin bị đập tơi tả và không ngừng liến thoắng khen ngợi thực lực phi thường của Yu IlHan trước mặt Kang MiRae.
 - Trạng thái tính đến chương 65: Tới quán trà ứng cứu tiền cho Kang MiRae; vung tiền chuyển khoản 150 tỷ won và hứa tặng thêm một tòa nhà ở khu gia cố Gangnam của ông nội để đặt cọc IlHan chế tạo trọn bộ trang bị cho mình và HaJin; để lộ sự chú ý và hứng thú với IlHan như một ứng viên "cháu rể" tiềm năng.
 - Trạng thái tính đến chương 67: Nhận ra người thợ rèn tạo ra trang bị cho cửa hàng Vanguard chính là Yu IlHan; liên tục trêu chọc chuyện đó khiến Kang MiRae phát điên.
+- Trạng thái tính đến chương 69: Tham chiến chi viện tại Nhật Bản cùng Clan Lôi Thần; túc trực bên cạnh bảo vệ và liên tục ban bùa lợi thánh lực hỗ trợ cho Kang MiRae thi triển ma pháp lôi điện và Kang HaJin dựng khiên phòng thủ.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
