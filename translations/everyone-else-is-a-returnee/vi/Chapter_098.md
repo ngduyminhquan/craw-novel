@@ -142,7 +142,7 @@ Ngay sau đòn đánh, anh lập tức khoét rộng vết thương bằng Bất
 
 "Tốt, mọi chuyện đang diễn ra rất suôn sẻ."
 
-Đứng trên xác con rồng đã chết đang rơi xuống, Yu IlHan chặn đứng một đòn công kích đang lao tới trước khi thu hồi cái xác bằng kỹ năng Thu hồi vật sở hữu từ xa.
+Đứng trên xác con rồng đã chết đang rơi xuống, Yu IlHan chặn đứng một đòn công kích đang lao tới trước khi thu hồi cái xác bằng tính năng thu hồi vật sở hữu từ xa.
 
 Tuy nhiên, anh không thể lơ là cảnh giác chỉ vì tình hình đang thuận lợi. Những con rồng còn sống sót đến lúc này đều là những tồn tại cực kỳ đáng sợ. Hơn thế nữa, ngay cả số lượng rồng thuộc phe Khu Vườn Hoàng Hôn cũng bắt đầu hao hụt dần.
 
@@ -170,7 +170,7 @@ Thấy con rồng lao thẳng về phía mình theo một đường thẳng, Yu 
 
 [Chí Mạng!]
 
-Cái xác Long tộc rơi xuống với tốc độ chẳng khác nào một thiên thạch do mang sức nặng gần một triệu tấn đâm thẳng diện đối diện vào con rồng đen. Âm thanh đinh tai nhức óc bùng nổ ngay khoảnh khắc đó vang vọng khắp không gian và thu hút toàn bộ sự chú ý của bầy rồng.
+Cái xác Long tộc rơi xuống với tốc độ chẳng khác nào một thiên thạch do mang sức nặng gần một triệu tấn đâm thẳng trực diện vào con rồng đen. Âm thanh đinh tai nhức óc bùng nổ ngay khoảnh khắc đó vang vọng khắp không gian và thu hút toàn bộ sự chú ý của bầy rồng.
 
 "Chết tiệt, dính thế mà vẫn không sao à."
 

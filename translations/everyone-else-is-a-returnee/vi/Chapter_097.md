@@ -1,6 +1,6 @@
 # Chương 97: Bạn, Tôi, Kẻ Xa Lạ 15
 
-[Tôi đã đi đến tận bước này, làm sao có thể thua một thứ như Orochi được!] (Reta)
+[Ta đã đi đến tận bước này, làm sao có thể thua một thứ như Orochi được!] (Reta)
 
 [Kruooooo!] (Orochi)
 
@@ -138,7 +138,7 @@ Vào khoảnh khắc đó, cả thế giới nổ tung.
 
 ~Hết~
 
-[Bạn đã trở thành Liệt Hỏa Tử Thần. Hiệu quả ẩn thân tăng 20%. Sức tấn công và tỷ lệ chí mạng tăng 40% khi tập kích kẻ địch. Sức tấn công tăng 30% khi chiến đấu chống lại các sinh linh. Kháng hỏa thuộc tính và sức tấn công hỏa thuộc tính tăng 20%.]
+[Bạn đã trở thành Liệt Hỏa Tử Thần. Hiệu quả ẩn thân tăng 20%. Sức tấn công và tỷ lệ chí mạng tăng 40% khi tập kích kẻ địch. Sức tấn công tăng 30% khi chiến đấu chống lại các sinh linh. Kháng thuộc tính hỏa và sức tấn công thuộc tính hỏa tăng 20%.]
 
 [Tốc độ phát triển của toàn bộ kỹ năng thuộc hệ tử thần được tăng tốc.]
 
@@ -256,6 +256,6 @@ Con rồng thét lên đau đớn. Toàn bộ Long tộc đều phải chịu ch
 
 Yu IlHan, người vừa hoàn tất chuyển chức lần 3 và đang chờ đợi để nhận chức nghiệp phụ, chỉ mong trận chiến này mau chóng kết thúc trong khi vẫn không ngừng tiêu diệt lũ rồng và các sinh linh Long tộc đang lũ lượt bay tới hòn đảo hoang.
 
-Thế nhưng, ước nguyện nhỏ nhoi ấy của anh đã không thành hiện thực. Bởi lẽ khi trận chiến ngày càng trở nên khốc liệt, toàn bộ Long tộc còn sót lại trên đại lục Daréu đều ồ ạt đổ dồn về hòn đảo này, mở màn cho một trận hỗn chiến hỗn loạn chưa từng có trong lịch sử.
+Thế nhưng, ước nguyện nhỏ nhoi ấy của anh đã không thành hiện thực. Bởi lẽ khi trận chiến ngày càng trở nên khốc liệt, toàn bộ Long tộc còn sót lại trên đại lục Daréu đều ồ ạt đổ dồn về hòn đảo này, mở màn cho một trận hỗn chiến chưa từng có trong lịch sử.
 
 [← Chương trước](Chapter_096.md) | [Chương tiếp theo →](Chapter_098.md)

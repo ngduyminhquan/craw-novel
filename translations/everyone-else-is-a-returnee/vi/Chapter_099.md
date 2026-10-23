@@ -52,7 +52,7 @@ Con rồng chịu vô số vết thương rách toạc trong quá trình 'hứng
 
 Thứ này chẳng khác nào một dạng kết giới — nó cho phép con rồng đọc được mọi chuyển động của kẻ địch bên trong kết giới, đồng thời biến đổi mana trong bầu khí quyển thành bất kỳ loại ma pháp nào nó mong muốn vào bất cứ lúc nào.
 
-Tuy không áp đảo đến mức như Đồng Hồ Cát Vĩnh Hằng có thể đóng băng thời gian bên trong kết giới, nhưng nó lại vượt trội hoàn toàn về mặt tính thực dụng trong chiến đấu!
+Tuy không áp đảo đến mức như Đồng Hồ Cát Vĩnh Hằng có thể đóng băng thời gian bên trong kết giới, nhưng nó lại vượt trội hoàn toàn về tính thực dụng trong chiến đấu!
 
 Đây tuyệt đối không phải thứ mà bất kỳ con rồng nào cũng dùng được. Đúng như nỗi lo sợ ban đầu của Erta, đây chắc chắn là một cá thể cấp thủ lĩnh! Giọng cô hơi run rẩy.
 
@@ -212,7 +212,7 @@ Sẽ chẳng có gì đáng sợ khi loài rồng dịch chuyển tức thời v
 
 Yu IlHan siết chặt ngọn thương và tập trung cao độ. Bản thân Yu IlHan cũng sở hữu khả năng cảm nhận mana siêu phàm. Để có thể phản công bất kể nó xuất hiệ....!
 
-[Hà!]
+[Ha!]
 
 "Hự!?"
 
@@ -238,7 +238,7 @@ Dòng thuộc tính phóng lưỡi đao trên bộ giáp của Yu IlHan đã kí
 
 [Vâng, vâng. Cậu cứ việc làm thiên tài đi.] (Erta)
 
-Tên này luôn biết tận dụng triệt để các dòng thuộc tính trang bị vào những thời khắc quyết định khiến Erta chẳng thể nào vặn lại được! Nghĩ bụng vậy, Erta nhìn sang Yu IlHan lúc này đang thu thập xác Karrows, thì đột nhiên cô cảm nhận được một gợn sóng dao động và phản xạ mở miệng gọi giật.
+Tên này luôn biết tận dụng triệt để các dòng thuộc tính trang bị vào những thời khắc quyết định khiến Erta chẳng thể nào vặn lại được! Nghĩ bụng vậy, Erta nhìn sang Yu IlHan lúc này đang thu thập xác Karrows, thì đột nhiên cô cảm nhận được một gợn sóng dao động và theo phản xạ buột miệng gọi giật giọng.
 
 [Yu IlHan, cẩn...] (Erta)
 
@@ -262,6 +262,6 @@ Chỉ có điều, có một thứ mà Yu IlHan đã không lường trước đ
 
 "....Hà, điên rồ thật đấy."
 
-…Đó là việc con trùm thật sự của bầy rồng mà Yu IlHan vừa chạm trán lại sở hữu sức mạnh quái dị đến mức mọi bảo hiểm lẫn sự may mắn của Yu IlHan đều trở nên vô dụng trước nó.
+…Đó là việc con trùm thật sự của bầy rồng mà Yu IlHan vừa chạm trán lại sở hữu sức mạnh quái dị đến mức mọi phương án bảo hiểm lẫn sự may mắn của Yu IlHan đều trở nên vô dụng trước nó.
 
 [← Chương trước](Chapter_098.md) | [Chương tiếp theo →](Chapter_100.md)
