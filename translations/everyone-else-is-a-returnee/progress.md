@@ -73,7 +73,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | reviewed |  |
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | done |  |
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | done |  |
-| 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | todo |  |
+| 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | done |  |
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | todo |  |
 | 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | todo |  |
 | 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | todo |  |
@@ -604,3 +604,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#67] Tên quái vật "Dark Shadow" (Lv 93) — Tạm chọn: "Hắc Ảnh" (ngắn gọn, chuẩn Hán Việt). Phương án khác: "Bóng Đêm Hắc Ám", "Bóng Ma Hắc Ám". Tạm dùng trong bản dịch: "Hắc Ảnh". → Chốt 'Hắc Ảnh' (orchestrator)
 - [#68] Câu đùa hoán vị trào phúng installing father in boiler's house & install a Kantou region in insecticide's house → Chấp nhận dịch 'lắp bố vào nhà cái nồi hơi' và 'lắp vùng Kantou vào nhà thuốc diệt côn trùng' để giữ nét hài đảo ngược của nguyên tác (orchestrator)
 - [#68] Thuật ngữ Dungeon Chain Break & Dungeon Wave → Chốt 'Vỡ Hầm Ngục Liên Hoàn' và 'Đợt Sóng Hầm Ngục' (orchestrator)
+- [#69] Kỹ năng Chain Lightning → Chốt 'Lôi Dây Chuyền' (orchestrator)
+- [#69] Quái vật Iron Wing → Chốt 'Thiết Dực' (đồng bộ với Thiết Tâm) (orchestrator)

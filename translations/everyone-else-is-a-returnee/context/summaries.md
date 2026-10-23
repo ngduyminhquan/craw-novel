@@ -414,3 +414,9 @@ Yu IlHan đặt mục tiêu tiến hóa kỹ năng Ẩn Thân trước khi sang 
 Tại hầm ngục, Erta theo dõi mạng xã hội và thông báo thương hiệu Vanguard đang bùng nổ danh tiếng toàn cầu; IlHan tự tin khẳng định nhóm Kang MiRae và Na YuNa sẽ tự động đứng ra bảo hộ bí mật cho anh và người thân nhằm độc quyền nguồn tạo tác.
 Sau ba tuần khổ luyện, IlHan chạm mốc Lv 75 và quét sạch hầm ngục, nhưng bất ngờ phát hiện hàng trăm quái vật bóng tối chuyển chức 3 xuất hiện như quái thường thở nặng nhọc như Darth Vader; Lita cảnh báo nồng độ mana tại Kantou đã tăng vọt vượt ngưỡng Đại Tai Biến lần 1.
 Cảnh kết thúc: Yu IlHan vừa dọn sạch hầm ngục bước ra ngoài thì tại vùng Kantou, một thảm họa Vỡ Hầm Ngục Liên Hoàn (Đợt Sóng Hầm Ngục) quy mô lớn chính thức bùng nổ.
+
+## 69
+Thảm họa Vỡ Hầm Ngục bất ngờ bùng nổ tại tỉnh Kanagawa rồi lan nhanh về phía Tokyo khiến hàng trăm ngàn dị năng giả tinh nhuệ toàn cầu đổ về vùng Kantou chi viện; Clan Lôi Thần với nòng cốt là Kang MiRae, Na YuNa và Kang HaJin thể hiện uy lực vượt trội khi MiRae dùng quyền trượng mới quét sạch hàng loạt quái vật chuyển chức 2 bằng Lôi Dây Chuyền và Lôi Thương.
+Trong khi Kang MiRae rực cháy ý chí ganh đua và muốn vượt qua kỳ vọng của Yu IlHan, thì IlHan vừa bước ra khỏi hầm ngục và nhận định sự việc một cách dửng dưng rồi lập tức đưa ra yêu sách đổi thưởng nhiệm vụ trước với các thiên thần.
+IlHan yêu cầu bổ sung hai dòng thuộc tính cho Túi Đeo Chéo là 'mở rộng không gian' và 'thu hồi vật sở hữu từ xa', rồi dùng Atlatl Xương Nguyệt Quang Thô Ráp dưới ánh trăng tròn phóng lao liên hoàn hạ gục gọn gàng quái vật bay Thiết Dực Lv 66 từ khoảng cách vô hình trước sự kinh ngạc tột cùng của mọi người.
+Cảnh kết thúc: Được Erta và Lita cam đoan sẽ đáp ứng trọn vẹn phần thưởng dù phải dốc cạn gia sản Thiên Giới, Yu IlHan nhếch mép cười rồi hiên ngang sải bước vào tâm điểm chiến trường bắt đầu cuộc càn quét kinh hoàng.

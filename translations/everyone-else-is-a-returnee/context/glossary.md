@@ -372,3 +372,13 @@
 | Darth Vader |  | Darth Vader | khác | 68 | Được phép giữ nguyên: Nhân vật phản diện biểu tượng trong Star Wars với tiếng thở khò khè (tham chiếu văn hóa đại chúng) |
 | Dungeon Wave |  | Đợt Sóng Hầm Ngục | hệ thống | 68 | Thảm họa quy mô lớn khi nhiều hầm ngục cùng vỡ liên hoàn |
 | Dungeon Chain Break |  | Vỡ Hầm Ngục Liên Hoàn | hệ thống | 68 | Hiện tượng hàng loạt hầm ngục bị phá vỡ dây chuyền, đồng nghĩa với Đợt Sóng Hầm Ngục |
+| Kanagawa |  | Kanagawa | địa danh | 69 | Tỉnh Kanagawa ở vùng Kantou, Nhật Bản nơi khởi phát đợt Vỡ Hầm Ngục |
+| Shizuoka |  | Shizuoka | địa danh | 69 | Tỉnh Shizuoka ở Nhật Bản nằm tiếp giáp phía tây Kanagawa |
+| Tokyo |  | Tokyo | địa danh | 69 | Thủ đô của Nhật Bản, nơi tập trung nhiều hầm ngục và cư dân nhất thế giới |
+| JSDF |  | JSDF | tổ chức | 69 | Lực lượng Phòng vệ Nhật Bản (Japan Self-Defense Forces) |
+| Metal Knights |  | Metal Knights | tổ chức | 69 | Clan dị năng giả của Anh tham chiến tại Nhật Bản |
+| Magia |  | Magia | tổ chức | 69 | Clan dị năng giả của Ý tham chiến tại Nhật Bản (Magia nghĩa là ma pháp trong tiếng Ý) |
+| Chain Lightning |  | Lôi Dây Chuyền | kỹ năng | 69 | Kỹ năng ma pháp lôi phóng tia sét lan truyền qua hàng loạt mục tiêu |
+| Thunder Spear |  | Lôi Thương | kỹ năng | 69 | Kỹ năng ma pháp ngưng tụ tia sét thành ngọn giáo phóng đi |
+| Iron Wing |  | Thiết Dực | quái vật | 69 | Quái vật dạng bay cấp 66 phóng lông vũ bằng sắt tấn công con người |
+| Remote collecting of possession |  | Thu hồi vật sở hữu từ xa | hệ thống | 69 | Dòng thuộc tính ma pháp thu gom vũ khí và vật sở hữu từ xa cho Túi Đeo Chéo |
