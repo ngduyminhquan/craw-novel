@@ -97,6 +97,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 67: Khai trương thương hiệu 'Vanguard' tại tầng 13 tòa nhà Gangnam (khóa kín tầng 14), bán vũ khí chuẩn Vanguard phẩm cấp Hiếm (như Kiếm Bastard Xương Sói Sắc Bén sức tấn công 1.950) đồng giá 100 triệu won hoặc phụ phẩm tương đương; quy định chỉ mở cửa thứ Hai từ 10h-17h, mỗi khách tối đa 2 món, không tiếp thương nhân; dùng ma pháp bảo hộ của thiên thần chặn đứng mọi vụ đột nhập; một mình tiến vào hầm ngục nguy hiểm nhất thế giới săn Hắc Ảnh Lv 93 nhằm hoàn thành điều kiện tập kích tiêu diệt 3.000 quái vật chuyển chức 2 trong trạng thái ẩn thân để tiến hóa kỹ năng Ẩn Thân.
 - Trạng thái tính đến chương 68: Lần đầu tiên mua vé máy bay chính ngạch sang Nhật Bản, tiến vào hầm ngục khó nhất thế giới (yêu cầu cấp độ 90) tại vùng Kantou để săn quái vật bóng tối có năng lực ẩn thân; tích lũy hơn 1.350/3.000 quái vật chuyển chức 2 bị tập kích tiêu diệt trong trạng thái ẩn thân; thăng từ cấp 66 lên cấp 75 sau ba tuần cày cuốc và dọn sạch hầm ngục trước khi thảm họa Đợt Sóng Hầm Ngục bùng nổ tại Kantou.
 - Trạng thái tính đến chương 70: Hoàn tất tiến hóa kỹ năng Ẩn Thân thành kỹ năng bị động [Tử Thần] (thăng lên cấp 3); Túi Đeo Chéo được bổ sung thêm tính năng 'thu hồi vật sở hữu từ xa' và 'mở rộng không gian'; phối hợp Atlatl Xương Nguyệt Quang Thô Ráp một mình bình định nửa tỉnh Kanagawa và giải cứu thành phố Odawara; được người dân Nhật Bản tôn xưng là Thần Bão Tố Susanoo giáng trần.
+- Trạng thái tính đến chương 71: Đạt cấp 82 sau khi dùng hơn 100 lựu đạn xương cường hóa ma thạch chuyển chức 2 quét sạch Đợt Vỡ Hầm Ngục tại Tokyo và tiêu diệt Ark Katrar Lv 103; thức tỉnh kỹ năng [Thuật Ném] Lv Max; nhận danh hiệu 'Nhất Kích Thiên Quân' (+50% tỷ lệ chí mạng khi đánh nhiều kẻ địch cùng lúc); Quái Lực thăng lên Lv 24 và Siêu Việt Tái Sinh thăng lên Lv 23 nhờ sáng tạo kỹ thuật hồi phục cơ bắp triệt tiêu thời gian phạt suy yếu xuống dưới 5 giây; nới lỏng điều kiện tiến hóa Thương Thuật nhờ thăng hoa kỹ thuật phóng thương; dẫn dắt Quân Đoàn Susanoo bình định toàn bộ tỉnh Kanagawa và tiến vào Tokyo.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -153,6 +154,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
 - Tính cách: Thẳng thắn, hơi bộc trực, sợ cấp trên nhưng cũng rất cá tính; dễ ấm ức trước thái độ phũ phàng của IlHan.
 - Trạng thái tính đến chương 12: Đứng ra mua lại xác bầy Chó Lang Thang từ IlHan theo lệnh cấp trên; bất đắc dĩ phải thử dùng "mỹ nhân kế" để lôi kéo anh nhưng thất bại thảm hại.
+- Trạng thái tính đến chương 71: Được thăng cấp lên Trung úy, chuyển sang phục vụ trong lực lượng đặc nhiệm Trấn Áp; cùng Đại tá Yun DaeHan sang Nhật Bản tham gia tuyến phòng thủ Tokyo trước khi sáp nhập vào Quân Đoàn Susanoo.
 
 ### Do WooJun
 - Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.
@@ -162,6 +164,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Yun DaeHan
 - Giới tính, vai trò: Thiếu tá quân đội Hàn Quốc chỉ huy lực lượng tác chiến hiện trường. Từng trải qua 10 năm ở thế giới khác.
 - Tính cách: Sáng suốt, nhìn xa trông rộng, hiểu rõ sức mạnh cá nhân có thể vượt trên quân đội hay quốc gia; chủ động hợp tác và cung cấp tin tức quái vật cho IlHan thay vì cưỡng ép kiểm soát.
+- Trạng thái tính đến chương 71: Giữ chức Đại tá chỉ huy lực lượng Trấn Áp Hàn Quốc được cử sang chi viện tại tuyến phòng thủ Tokyo, Nhật Bản.
 
 ### Shiota
 - Giới tính, vai trò: Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt trên Trái Đất cùng nhóm Erta.

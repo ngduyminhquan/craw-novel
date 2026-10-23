@@ -14,6 +14,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu YongHan | ông / bố anh | 6 | Bố của IlHan |
 | Empress | cô / Empress / cô gái | 7 | Nữ sinh viên mang mặt nạ Hulk |
 | Han YeoRang | cô / Han YeoRang / thiếu úy Han | 9 | Nữ sĩ quan quân đội |
+| Han YeoRang | cô / Han YeoRang / trung úy Han | 71 | Nữ sĩ quan quân đội (thăng cấp trung úy) |
 | Do WooJun | cậu / Do WooJun | 15 | Trưởng nhóm Kẻ Hành Quyết |
 | Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
 | Yun DaeHan | ông / đại tá Yun / Yun DaeHan | 59 | Đại tá quân đội Hàn Quốc |
@@ -88,6 +89,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lita | Erta | tôi | Erta / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |
 | Erta | Lita | tôi | Lita / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |
 | Yun DaeHan | Han YeoRang | tôi | cô / thiếu úy Han | 59 | Chỉ huy và cấp dưới trong lực lượng Trấn Áp |
+| Yun DaeHan | Han YeoRang | tôi | cô / trung úy Han | 71 | Chỉ huy và cấp dưới sau khi Han YeoRang thăng cấp trung úy |
 | Han YeoRang | Yun DaeHan | tôi | đại tá | 59 | Cấp dưới nói chuyện với chỉ huy |
 | Yu IlHan | Reta Kar'iha | tôi | cô / Reta Kar'iha | 62 | IlHan đối thoại với tàn niệm Reta trong Thu Thập Tử Vong |
 | Spiera | Lita | ta / tôi | Lita / cô | 62 | Thiên thần cấp cao ra lệnh đặc huấn cho Lita |

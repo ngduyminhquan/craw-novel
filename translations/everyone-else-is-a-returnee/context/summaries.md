@@ -426,3 +426,10 @@ Hàng chục thiên thần giáng trần nâng cấp Túi Đeo Chéo theo đúng
 Trong khi các đoàn viện binh quốc tế và lực lượng phòng vệ bỏ rơi tỉnh Kanagawa đổ nát để tập trung bảo vệ Tokyo và Chiba, IlHan một mình cứu viện Odawara, tiêu diệt bầy Khỉ Ác Ma cấp 65-80 đang dồn ép các dị năng giả địa phương (trong đó có Tamura).
 Chiến tích một mình càn quét quái vật ở 30 khu vực và bình định nửa tỉnh Kanagawa chỉ trong một đêm khiến người dân và mạng xã hội bùng nổ, tôn sùng anh như Thần Bão Tố Susanoo giáng trần; bản thân IlHan khoái chí với danh xưng thần linh này và càng tăng tốc càn quét.
 Cảnh kết thúc: Sức mạnh áp đảo bí ẩn mang tên Susanoo làm chấn động toàn cầu, khiến cả những thủ lĩnh hàng đầu nhân loại như Kang MiRae (Clan Lôi Thần) cũng phải dè chừng vì sự xuất hiện của một kẻ mạnh phi lý đe dọa màn ra mắt của họ.
+
+## 71
+Yu IlHan tiếp tục càn quét quái vật ở Yokohama và bình định toàn bộ tỉnh Kanagawa trong chưa đầy 24 giờ; hàng ngàn dị năng giả tụ hội thành 'Quân Đoàn Susanoo' bám sau dọn quái chuyển chức 1 và hỗ trợ gom quái chuyển chức 2 cho anh.
+Tiến đến ranh giới Tokyo, tuyến phòng thủ của JSDF và lực lượng Trấn Áp Hàn Quốc (gồm Đại tá Yun DaeHan và Trung úy Han YeoRang) giải tán để cùng sáp nhập vào quân đoàn tiến vào thủ đô.
+IlHan vừa phóng thương vừa kết hợp Quái Lực, Siêu Việt Tái Sinh và thức uống máu để triệt tiêu thời gian phạt suy yếu xuống dưới 5 giây nhằm cày cấp kỹ năng; khi một hầm ngục cấp 50 vỡ tung giải phóng hàng ngàn quái vật, anh bật nhảy lên cao ném hơn 100 quả lựu đạn xương cường hóa ma thạch chuyển chức 2 quét sạch bầy quái trong 20 giây.
+IlHan thức tỉnh kỹ năng [Thuật Ném] Lv Max, diệt quái trùm chuyển chức 3 Ark Katrar Lv 103, thăng lên cấp 82 và nhận danh hiệu 'Nhất Kích Thiên Quân' (+50% tỷ lệ chí mạng khi tấn công nhiều kẻ địch cùng lúc).
+Cảnh kết thúc: Màn hủy diệt thần thánh khiến người dân và dị năng giả chấn động tột độ, không chỉ tôn xưng Susanoo mà còn bắt đầu xướng tên các vị thần vĩ đại khác như Takemikazuchi và Amaterasu, mở màn cho một trang lịch sử mới.

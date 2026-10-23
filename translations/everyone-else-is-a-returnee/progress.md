@@ -75,7 +75,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | reviewed |  |
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | reviewed |  |
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | done |  |
-| 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | todo |  |
+| 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | done |  |
 | 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | todo |  |
 | 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | todo |  |
 | 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | todo |  |
@@ -369,6 +369,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -613,3 +614,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#70] Tên kỹ năng tiến hóa "Death god" — Tạm chọn: "Tử Thần" (chuẩn Hán Việt, đồng bộ với chức nghiệp Tử Thần Tập Sự và vũ khí Thương Gai Diệt Long Hắc Tử Thần). Phương án khác: "Thần Chết". Tạm dùng trong bản dịch: "Tử Thần". → Chốt Tử Thần (Hán Việt, đồng bộ với Tử Thần Tập Sự và Thương Gai Diệt Long Hắc Tử Thần). (orchestrator)
 - [#70] Ngữ cảnh từ "God" trong chương — Tạm chọn: Dịch là "Thần" / "Thần linh" vì ngữ cảnh người dân Nhật Bản nói về Susanoo giáng trần và IlHan đùa về việc được xem là Thần, không phải Thượng Đế (Đấng tạo hóa). Tạm dùng trong bản dịch: "Thần" / "Thần linh". → Chốt dịch là Thần / Thần linh theo ngữ cảnh người Nhật tôn xưng thần Susanoo, không phải Thượng Đế. (orchestrator)
 - [#70] Danh xưng thần linh "Susanoo" / "Storm God Susanoo" — Tạm chọn: "Susanoo" / "Thần Bão Tố Susanoo" (thần bão tố Thần đạo Nhật Bản). Tạm dùng trong bản dịch: "Susanoo" / "Thần Bão Tố Susanoo". → Chốt giữ nguyên tên thần Susanoo và dịch God of Storms / Storm God là Thần Bão Tố (tách riêng 2 mục trong glossary). (orchestrator)
+- [#71] Danh hiệu "A Thousand In One Hit" — Tạm chọn: "Nhất Kích Thiên Quân". Phương án khác: "Nhất Kích Thiên Địch", "Một Đòn Ngàn Địch". → Chốt Nhất Kích Thiên Quân (ngắn gọn, Hán Việt, đúng nghĩa một đòn diệt ngàn địch). (orchestrator)
+- [#71] Kỹ năng "Throwing" — Tạm chọn: "Thuật Ném". Phương án khác: "Đầu Trịch". → Chốt Thuật Ném (dễ hiểu, đồng bộ với hệ thống kỹ năng vũ khí). (orchestrator)
+- [#71] Tổ chức "Susanoo Army" — Tạm chọn: "Quân Đoàn Susanoo". Phương án khác: "Đoàn quân Susanoo". → Chốt Quân Đoàn Susanoo. (orchestrator)
+- [#71] Cấp bậc của Han YeoRang "First Lieutenant" — Tạm chọn: "Trung úy" (thăng từ Thiếu úy). → Chốt Trung úy (thăng cấp từ Thiếu úy). (orchestrator)
