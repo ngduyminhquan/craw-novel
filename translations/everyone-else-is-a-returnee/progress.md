@@ -65,9 +65,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | reviewed |  |
 | 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | reviewed |  |
 | 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | reviewed |  |
-| 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | done |  |
-| 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | done |  |
-| 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | done |  |
+| 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | reviewed |  |
+| 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | reviewed |  |
+| 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | reviewed |  |
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | todo |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | todo |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | todo |  |
@@ -586,3 +586,11 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#62] Dịch tên 2 tổ chức thực thể cấp cao Destruction Demon Army và Brilliant Army of Light → Chốt 'Quân Đội Ma Hủy Diệt' và 'Quân Đội Ánh Sáng Rực Rỡ' (đồng bộ với Quân Đội Thiên Giới) (orchestrator)
 - [#62] Lời thoại ngắn [Yes.] (T/N: As opposed to 'no' above) của Spiera khi túm lưng áo Lita → Chấp nhận dịch thoát ý thành '[Phải đi.]' để đối lập tự nhiên với lời từ chối trước đó của Lita (orchestrator)
 - [#63] Thuật ngữ Dungeon Break → Chốt 'Vỡ Hầm Ngục' (orchestrator)
+- [#61-63] Sửa lỗi từ vựng Ch.61 đoạn 77? → Chấp nhận sửa 'bình thạch' thành 'bình thuốc'. (orchestrator)
+- [#61-63] Sửa câu tối nghĩa Ch.61 đoạn 42? → Chấp nhận sửa thành 'Lý do phải tiêu diệt chúng cũng như nhau thôi...'. (orchestrator)
+- [#61-63] Sửa lỗi lặp từ Ch.61 đoạn 23? → Chấp nhận sửa thành 'Nếu kẻ đó hành động trước khi Yu IlHan kịp ngăn chặn...'. (orchestrator)
+- [#61-63] Sắc thái nhân vật Erta Ch.62 đoạn 84? → Chấp nhận sửa thành 'khác hẳn vẻ thường ngày, cô nàng lại quay mặt đi...'. (orchestrator)
+- [#61-63] Giọng điệu Spiera Ch.62 đoạn 128? → Chấp nhận sửa thành '[Ta ghi nhận rồi.]'. (orchestrator)
+- [#61-63] Diễn đạt logic Ch.63 đoạn 87? → Chấp nhận sửa thành 'chẳng có chút thong dong nào để anh có thể hoàn toàn ngó lơ chuyện này cả'. (orchestrator)
+- [#61-63] Sửa lỗi lặp từ Ch.63 đoạn 116? → Chấp nhận sửa thành 'hi sinh lực lượng chiến đấu tương lai'. (orchestrator)
+- [#61-63] Cập nhật glossary.md? → Chấp nhận thêm 'power of life → sinh mệnh lực' và 'elven empire → đế chế elf'. (orchestrator)

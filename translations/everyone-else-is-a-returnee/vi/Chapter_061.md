@@ -44,7 +44,7 @@ Trong lúc đó, Yu IlHan đưa mắt nhìn cánh cổng nằm ở giữa hầm 
 
 Anh có thể giải quyết êm đẹp trong một đòn là nhờ tấn công bất ngờ, chứ ma lực ẩn chứa trong cơ thể tên đó ở mức độ vô cùng kinh hãi. Nếu không thể đánh lén, chắc chắn anh còn chẳng dại gì mà ra tay tấn công.
 
-Tuy nhiên, nếu thế giới bên kia cánh cổng này sở hữu những kẻ mạnh như tên pháp sư vừa rồi, và nếu kẻ đó bước qua cổng tới Trái Đất. Nếu kẻ đó kịp hành động trước khi Yu IlHan kịp thời ngăn chặn...
+Tuy nhiên, nếu thế giới bên kia cánh cổng này sở hữu những kẻ mạnh như tên pháp sư vừa rồi, và nếu kẻ đó bước qua cổng tới Trái Đất. Nếu kẻ đó hành động trước khi Yu IlHan kịp ngăn chặn...
 
 Chỉ nghĩ đến thôi cũng đủ khiến anh đau cả đầu. Trong một thế giới bận rộn nơi anh còn đang tối tăm mặt mũi lo đối phó với quái vật, cớ sao lũ người thế giới khác lại mò sang đây làm gì? Nếu muốn giết người thì cứ việc mà làm ở thế giới của chúng đi chứ!
 
@@ -82,7 +82,7 @@ Thế nên, anh mới giết. Anh đã do thám đề phòng trường hợp mì
 
 "Nếu không thì là gì nữa? Chẳng lẽ con người thì phải đặc biệt hơn sao?"
 
-Lời nói của Yu IlHan rất có lý. Lý do bọn họ giết chóc là như nhau, nhưng nếu anh lại cảm thấy khác biệt chỉ vì đối tượng trong cuộc khác biệt, thì điều đó bản thân nó chính là đạo đức giả.
+Lời nói của Yu IlHan rất có lý. Lý do phải tiêu diệt chúng cũng như nhau thôi, nếu anh lại cảm thấy khác biệt chỉ vì đối tượng khác biệt, thì điều đó bản thân nó chính là đạo đức giả.
 
 [Không, dĩ nhiên là không rồi. Tuy nhiên, điều đó cứ như thể...] (Erta)
 
@@ -152,7 +152,7 @@ Thêm vào đó, nếu người đó có khả năng trả một cái giá xứn
 
 Đã có áo choàng nên anh tràn trề hy vọng tìm kiếm quanh người xem có vũ khí nào không, nhưng chẳng thấy thứ gì như vậy cả. Thay vào đó, bên trong lớp quần áo tên pháp sư đang mặc có một túi da nhỏ, và đó là chiếc túi được yểm ma pháp mở rộng không gian, dẫu cho kích thước của nó nhỏ hơn Túi Đeo Chéo của Yu IlHan rất nhiều.
 
-Thế nhưng, Yu IlHan đã phải sửng sốt sau khi thấy những bình thạch chứa chất lỏng màu đỏ và màu xanh lam trút ra với số lượng lớn.
+Thế nhưng, Yu IlHan đã phải sửng sốt sau khi thấy những bình thuốc chứa chất lỏng màu đỏ và màu xanh lam trút ra với số lượng lớn.
 
 "Tôi cứ tưởng lúc này vàng phải rơi ra chứ!"
 

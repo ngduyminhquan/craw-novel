@@ -344,3 +344,5 @@
 | Brilliant Army of Light | Army of Brilliant Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
 | Suspension of Activity |  | Đình Chỉ Hoạt Động | hệ thống | 62 | Hình phạt phong ấn quyền hạn và hoạt động của thiên thần |
 | Dungeon Break | Dungeon Breaks | Vỡ Hầm Ngục | hệ thống | 63 | Hiện tượng Bẫy Hủy Diệt bị phá vỡ do nồng độ mana tăng cao sau Đại Tai Biến lần 2 |
+| power of life |  | sinh mệnh lực | hệ thống | 60 | Năng lượng sinh mệnh mà kỹ năng Thu Thập Tử Vong thu thập từ đối tượng bị tiêu diệt |
+| elven empire |  | đế chế elf | tổ chức | 63 | Đế chế cổ đại trên thế giới Daréu từng tạo ra hệ thống đại ma pháp trận dịch chuyển tức thời khắp đại lục |

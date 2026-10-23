@@ -172,7 +172,7 @@ Hai tháng mà giảm mất 100 năm, vậy tính toán đơn giản thì chỉ 
 
 [Ai bảo nó hiện rõ mồn một ra đấy chứ, tôi nhịn sao nổi! Dù sao đi nữa thì cũng không đến mức chỉ còn một tháng đâu. Hơn nữa, chúng tôi đã dùng sức mạnh của Thiên giới để phong ấn nó nên nó sẽ không bùng phát nhanh vậy đâu.] (Erta)
 
-Thế nhưng Erta càng ra sức cam đoan thì anh lại càng thêm bất an. Ít nhất thì rõ ràng là vẫn còn khoảng trống để anh tạm thời không cần bận tâm đến.
+Thế nhưng Erta càng ra sức cam đoan thì anh lại càng thêm bất an. Ít nhất thì rõ ràng là chẳng có chút thong dong nào để anh có thể hoàn toàn ngó lơ chuyện này cả.
 
 "Tôi không còn lựa chọn nào khác ngoài việc phải nhanh chân lên một chút sao?"
 
@@ -230,7 +230,7 @@ Yu IlHan bật cười đáp lại.
 
 Có hai lý do.
 
-Thứ nhất, những Người Trở Về hiện vẫn còn quá yếu. Ngay cả khi nói cho bọn họ sự thật này vào lúc này, anh cũng chỉ đang lãng phí sức mạnh chiến đấu trong tương lai mà thôi. Việc báo cho họ nên để sau hẵng tính.
+Thứ nhất, những Người Trở Về hiện vẫn còn quá yếu. Ngay cả khi nói cho họ biết sự thật ngay lúc này, anh cũng chỉ đang hi sinh lực lượng chiến đấu tương lai mà thôi. Việc báo cho họ nên để sau hẵng tính.
 
 Và thứ hai.
 

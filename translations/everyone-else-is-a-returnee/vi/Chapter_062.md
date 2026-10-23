@@ -166,7 +166,7 @@ Thế nhưng ngay khoảnh khắc tiếp theo, anh đã buộc phải rút lại
 
 "..."
 
-Lắng nghe thanh âm nữ giới trong trẻo khẽ rung lên dịu dàng, Yu IlHan chợt im lặng một hồi. Khi anh nhìn sang Erta, lúc này đang lơ lửng trên không trung sau khi rời khỏi đỉnh đầu mình, cô nàng chẳng còn vẻ bộc trực như thường ngày mà lại quay mặt đi né tránh ánh mắt của anh.
+Lắng nghe thanh âm nữ giới trong trẻo khẽ rung lên dịu dàng, Yu IlHan chợt im lặng một hồi. Khi anh nhìn sang Erta, lúc này đang lơ lửng trên không trung sau khi rời khỏi đỉnh đầu mình, khác hẳn vẻ thường ngày, cô nàng lại quay mặt đi né tránh ánh mắt của anh.
 
 [Không phải là tôi lo cho cậu đâu đấy nhé. Tôi chỉ hỏi han vì tàn niệm của người chết thường rất hung bạo, lỡ đâu cậu lại dính phải chấn thương vĩnh viễn nào đó thì sao!] (Erta)
 
@@ -254,7 +254,7 @@ Tên thiên thần bị trói không thể chống chọi nổi cơn đau, bọt
 
 [Lũ ngu xuẩn các ngươi, lũ quân cờ chỉ biết mù quáng làm theo mệnh lệnh của cỗ máy tính toán, đồ lũ giòi bọ! Thiên giới rồi sẽ sụp đổ! Những nguyên tắc và giới hạn chết tiệt kia, chúng sẽ dẫn các ngươi tới bờ vực diệt vong!]
 
-[Ta đã tiếp thu trọn vẹn rồi.]
+[Ta ghi nhận rồi.]
 
 Dẫu phải hứng chịu những lời lăng mạ không thể dung thứ, nữ thiên thần chỉ lạnh lùng gật đầu.
 
