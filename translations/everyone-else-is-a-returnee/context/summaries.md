@@ -477,3 +477,10 @@ Yu IlHan kích hoạt tạo tác phẩm cấp Thần Đồng Hồ Cát Vĩnh H�
 IlHan lao động cật lực giải phẫu hơn 100.000 xác quái vật chuyển chức 2 trong 2 tuần cho Ngọn Lửa Vĩnh Cửu xử lý phụ phẩm, khiến ngọn lửa nuốt no nê và tiến hóa thành lửa màu vàng kim, khiến Erta trêu chọc gọi anh là 'Vua Giải Phẫu'.
 Dùng dao pha thịt và tính năng thu hồi từ xa của Túi Đeo Chéo, IlHan mổ xẻ toàn bộ thân xác trùm chuyển chức 4 Yamata no Orochi, trích xuất máu quý và thu hoạch thanh cự kiếm tạo tác phẩm cấp Truyền Thuyết 'Thiên Tùng Vân Kiếm' vốn dung hợp từ các đuôi quái xà.
 Cảnh kết thúc: Bất chấp sự bất lực của Erta khi đoán trước ý đồ, Yu IlHan nhấc búa rèn chuẩn bị trích xuất thuộc tính để rèn cây thương mới từ cự kiếm Thiên Tùng Vân Kiếm.
+
+## 79
+Yu IlHan hoàn hảo trích xuất các dòng thuộc tính từ áo choàng, giáp và thương cũ vào 3 viên ma thạch chuyển chức 3, nâng Chế Tác Mana lên Lv 33; sau đó nảy ra ý tưởng đột phá từ cấu trúc Bẫy Hủy Diệt để chế tạo trang bị tích hợp nhiều ma thạch.
+Anh gia công da và 300 vảy Orochi thành 300 con 'Dao Găm Orochi Thiểm Quang' (phẩm cấp Hiếm) có khả năng tự động phóng ra và thu hồi khi chịu xung chấn, rồi gắn toàn bộ lên áo choàng da để tạo thành 'Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo' (phẩm cấp Truyền Thuyết, có khả năng tiêu hao mana kích hoạt sóng xung kích đẩy toàn bộ dao găm kết hợp bão sét).
+Chế tạo tiếp nội giáp 'Giáp Da Hắc Mãng Ám Long Cường Đại' (phẩm cấp Độc Nhất), IlHan thoáng tiếc nuối vì dòng tăng sức tấn công bị đổi thành tăng tỷ lệ chí mạng, nhưng lập tức bắt tay nung xương Orochi thành hàng loạt lưỡi dao nhọn hoắt định gắn tua tủa lên ngoại giáp phục vụ đòn cận chiến Vale Tudo.
+Cảnh kết thúc: Trước niềm đam mê kỳ quặc và sự kiên định không ngừng hoàn thiện bản thân của Yu IlHan, Erta thở dài nhưng trong lòng thầm cầu chúc một bộ giáp xứng đáng với vị anh hùng thách thức điều bất khả sẽ được khai sinh.
+

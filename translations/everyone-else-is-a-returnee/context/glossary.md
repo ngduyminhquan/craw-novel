@@ -424,3 +424,7 @@
 | Dismantle King |  | Vua Giải Phẫu | danh hiệu | 78 | Biệt danh trêu chọc Erta đặt cho Yu IlHan khi anh mổ hơn 100.000 quái vật trong 2 tuần |
 | Purple Flame |  | Hỏa Tím | kỹ năng | 78 | Kỹ năng kích hoạt ngọn lửa tím của Thiên Tùng Vân Kiếm |
 | Epic rank | epic-ranked; epic rank | Sử Thi | hệ thống | 78 | Phẩm cấp trang bị/vật phẩm nằm trên Truyền Thuyết và dưới Thần |
+| Flash Orochi Dagger |  | Dao Găm Orochi Thiểm Quang | vật phẩm | 79 | Phi đao làm từ vảy Yamata no Orochi có thể tự động phóng ra và quay lại vị trí cũ khi chịu xung chấn |
+| Roaring |  | Gầm Vang | hệ thống | 79 | Tiền tố dòng thuộc tính tạo sóng xung kích bằng mana |
+| Secretive Reaper's Roaring Dark Python Robe |  | Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo | vật phẩm | 79 | Áo choàng phẩm cấp Truyền Thuyết tích hợp 300 dao găm vảy Orochi và tạo sóng xung kích bằng mana |
+| Strong Shadow Dragon's Dark Python Leather Armor |  | Giáp Da Hắc Mãng Ám Long Cường Đại | vật phẩm | 79 | Giáp da phẩm cấp Độc Nhất làm từ da Yamata no Orochi và ma thạch Báo Bóng Tối chuyển hóa thành Ám Long |
