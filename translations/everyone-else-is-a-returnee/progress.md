@@ -78,7 +78,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 71 |  | Chapter_071 - Me, a God!_ 3.txt | Me, a God!_ 3 | reviewed |  |
 | 72 |  | Chapter_072 - Me, a God!_ 4.txt | Me, a God!_ 4 | reviewed |  |
 | 73 |  | Chapter_073 - Me, a God!_ 5.txt | Me, a God!_ 5 | done |  |
-| 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | todo |  |
+| 74 |  | Chapter_074 - Me, a God!_ 6.txt | Me, a God!_ 6 | done |  |
 | 75 |  | Chapter_075 - Me, a God!_ 7.txt | Me, a God!_ 7 | todo |  |
 | 76 |  | Chapter_076 - I, too, now 1.txt | I, too, now 1 | todo |  |
 | 77 |  | Chapter_077 - I, too, now 2.txt | I, too, now 2 | todo |  |
@@ -624,3 +624,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#72] Nhân vật "Michael Smithson" — Tạm chọn: "Michael Smithson" (giữ nguyên tên riêng phương Tây theo rules.md). → Chốt giữ nguyên Michael Smithson theo rules.md. (orchestrator)
 - [#73] Chiêu thức tự chế của Yu IlHan: "please-look-at-only-me attack" → Chốt dịch là "Đòn tấn công xin-hãy-chỉ-nhìn-mỗi-mình-tôi" giữ nguyên nét hài hước và cấu trúc gạch nối của raw. (orchestrator)
 - [#73] Danh xưng "Lord of Magia" của Carina Malatesta → Chốt dịch là "Chủ clan Magia" / "Chủ Clan Magia" đồng bộ với thuật ngữ Clan trong truyện. (orchestrator)
+- [#74] Tiếng lóng game: Cụm câu thoại chơi chữ/văn hóa game "Nerf this! Weight transfer!" → Chốt dịch là "Có giỏi thì nerf cái này đi! Chuyển giao trọng lượng!" giữ nguyên khẩu khí game thủ của Yu IlHan. (orchestrator)
+- [#74] Lỗi chính tả của raw: Cụm từ "Cross Bang" ở đoạn 108 trong raw → Chốt dịch thành "Túi Đeo Chéo" vì đây là lỗi gõ phím của raw EN cho "Cross Bag". (orchestrator)

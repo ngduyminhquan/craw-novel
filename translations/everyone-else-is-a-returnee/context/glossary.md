@@ -381,7 +381,7 @@
 | Chain Lightning |  | Lôi Dây Chuyền | kỹ năng | 69 | Kỹ năng ma pháp lôi phóng tia sét lan truyền qua hàng loạt mục tiêu |
 | Thunder Spear |  | Lôi Thương | kỹ năng | 69 | Kỹ năng ma pháp ngưng tụ tia sét thành ngọn giáo phóng đi |
 | Iron Wing |  | Thiết Dực | quái vật | 69 | Quái vật dạng bay cấp 66 phóng lông vũ bằng sắt tấn công con người |
-| Remote collecting of possession |  | Thu hồi vật sở hữu từ xa | hệ thống | 69 | Dòng thuộc tính ma pháp thu gom vũ khí và vật sở hữu từ xa cho Túi Đeo Chéo |
+| Remote collecting of possession | remote collection | Thu hồi vật sở hữu từ xa | hệ thống | 69 | Dòng thuộc tính ma pháp thu gom vũ khí và vật sở hữu từ xa cho Túi Đeo Chéo |
 | Orc | orc; orcs | Orc | quái vật | 69 | Chủng tộc quái vật hình người xuất hiện trong đợt Vỡ Hầm Ngục tại Nhật Bản |
 | Death god | death god | Tử Thần | kỹ năng | 70 | Kỹ năng tiến hóa từ Ẩn Thân, giảm mana, tăng mạnh hiệu quả ẩn thân, không mất ẩn thân khi nhất kích tất sát mục tiêu từ đòn tập kích, cộng dồn tăng chỉ số khi liên tục diệt địch trong 5 phút |
 | Devil Monkey | devil monkey; devil monkeys | Khỉ Ác Ma | quái vật | 70 | Quái vật khỉ nhanh nhẹn cấp 65-80 nhảy nhót leo trèo trên các tòa nhà tàn phá Odawara |
@@ -405,3 +405,4 @@
 | Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |
 | Yamata no Orochi | Yamata; Orochi; the Orochi | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
 | Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |
+| DoT | Damage over Time | sát thương theo thời gian | hệ thống | 74 | Sát thương duy trì liên tục trong thuật ngữ game |
