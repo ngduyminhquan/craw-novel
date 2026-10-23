@@ -89,9 +89,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | reviewed |  |
 | 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | reviewed |  |
 | 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | reviewed |  |
-| 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | done |  |
-| 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | done |  |
-| 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | done |  |
+| 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | reviewed |  |
+| 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | reviewed |  |
+| 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | reviewed |  |
 | 88 |  | Chapter_088 - You, I, Strangers 6.txt | You, I, Strangers 6 | todo |  |
 | 89 |  | Chapter_089 - You, I, Strangers 7.txt | You, I, Strangers 7 | todo |  |
 | 90 |  | Chapter_090 - You, I, Strangers 8.txt | You, I, Strangers 8 | todo |  |
@@ -657,3 +657,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#87] Thuật ngữ chủng tộc / hệ thống: "Transcenders" (các thực thể cấp cao siêu việt như Khu Vườn Hoàng Hôn, không thể trực tiếp can thiệp thế giới cấp thấp) — Tạm chọn: "Kẻ Siêu Việt" (đồng bộ với 'Kẻ Phá Vỡ', 'Kẻ Hành Quyết', 'Siêu Việt Tái Sinh'). Phương án khác: "Thực thể Siêu Việt", "Người Siêu Việt". Tạm dùng trong bản dịch: "Kẻ Siêu Việt". → Chốt "Kẻ Siêu Việt" (đồng bộ với Kẻ Phá Vỡ, Kẻ Hành Quyết và Siêu Việt Tái Sinh đã có trong glossary.md). (orchestrator)
 - [#87] Ma pháp loài rồng biến thành người: "polymorph" — Tạm chọn: "thuật Biến Hình" / "Biến Hình" (Hán Việt ngắn gọn theo rules.md cho tên ma pháp/kỹ năng). Phương án khác: giữ nguyên "Polymorph". Tạm dùng trong bản dịch: "thuật Biến Hình". → Chốt "Biến Hình" theo quy tắc dịch Hán Việt ngắn gọn cho tên kỹ năng/ma pháp trong rules.md. (orchestrator)
 - [#87] Ma pháp cảm ứng của tộc elf: "alarm magic" — Tạm chọn: "ma pháp cảnh báo". Phương án khác: "ma pháp báo động". Tạm dùng trong bản dịch: "ma pháp cảnh báo". → Giữ cách dịch "ma pháp cảnh báo" trong chương nhưng xóa "alarm magic" khỏi glossary.md vì đây là cụm từ miêu tả chung viết thường, không phải tên riêng hay kỹ năng cố định. (orchestrator)
+- [#86] Tiếng kêu quái vật ở chương 86: Duyệt chuyển âm Việt hóa các chuỗi âm thanh quái vật kéo dài ([Krrrrrrrraaaaaaaa], [Kirrrrrrrk], [Khhhh! Khhha!])? → Chấp nhận Việt hóa thành "[Kừừừừừừừ aaaaaaaa]", "[Kừừừừừừ]", "[Khừừừừừừc]", "[Khừừừ! Khààà!]" theo nguyên tắc Việt hóa tiếng kêu của style.md và đồng bộ với chương 85. (orchestrator)
+- [#87] Xưng hô của Elf với Yu IlHan (chương 87 đoạn 108): Trong câu "Wh-what about you?", giữ nguyên "anh" hay chuyển thành "ngài"? → Giữ nguyên "anh" ("C-còn anh thì sao?") cho tự nhiên theo văn phong hiện đại của style.md. (orchestrator)

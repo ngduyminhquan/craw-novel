@@ -184,7 +184,7 @@ Thế nhưng, đúng lúc đó, Yu IlHan bỗng cất tiếng reo lớn như th�
 
 [C-cái gì cơ!?]
 
-Có tật giật mình, Erta hoảng hốt đáp lại trong khi giật mình nhìn bao quát tình hình xung quanh. Biển lửa từng bao trùm khắp hang động đã biến mất tự lúc nào. Điều này đồng nghĩa với việc toàn bộ lũ Long tộc giao chiến với Yu IlHan đều đã bỏ mạng.
+Erta chột dạ hoảng hốt đáp lại rồi đảo mắt nhìn bao quát tình hình xung quanh. Biển lửa từng bao trùm khắp hang động đã biến mất tự lúc nào. Điều này đồng nghĩa với việc toàn bộ lũ Long tộc giao chiến với Yu IlHan đều đã bỏ mạng.
 
 Và tiếng reo 'Đến rồi!' của Yu IlHan là bởi anh vừa trông thấy những dòng chữ hiện lên trên võng mạc của mình sau trận chiến.
 

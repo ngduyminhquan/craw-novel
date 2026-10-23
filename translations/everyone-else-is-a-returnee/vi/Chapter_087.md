@@ -34,7 +34,7 @@ Thay vào đó, anh nói thế này:
 
 "Chúng ta đã dọn sạch chỗ này rồi, nên đi gặp những người elf còn sống sót thôi nào. Đó là hy vọng mà cô đã tìm thấy cơ mà."
 
-[...Vâng. Chúng ta làm vậy đi. Cảm ơn cậu.]
+[...Được. Chúng ta làm vậy đi. Cảm ơn cậu.]
 
 Giọng nói của Reta lại thoáng ánh lên tia hy vọng. Đây có lẽ là lần đầu tiên Yu IlHan lựa chọn được lời ăn tiếng nói đúng đắn đến vậy, bởi lẽ trước đây, do thiếu hụt giao tiếp với người khác nên ngay cả trong game anh cũng chưa từng chọn trúng phương án đối thoại chuẩn xác bao giờ. Đây thực sự là một cột mốc trưởng thành mà nếu không có Lita hay Erta thì anh sẽ chẳng đời nào đạt được.
 
@@ -52,7 +52,7 @@ Yu IlHan không có kỹ năng truy vết, nhưng nhờ Reta có thể định v
 
 Đó cũng là lúc anh nghe thấy những giọng nói vọng lại. Nơi các elf ẩn náu đã hiện ra rõ mồn một. Họ đã khoét rỗng những thân cây gần đó rồi sống bên trong. Số lượng gồm 13 người, và ai nấy đều chỉ còn da bọc xương.
 
-"Không, ta cứ ngỡ ma pháp cảnh báo vừa dao động trong thoáng chốc."
+"Không, tôi cứ ngỡ ma pháp cảnh báo vừa dao động trong thoáng chốc."
 
 "Nhưng nó đâu có bị phá vỡ. Lũ rồng chẳng đời nào lại dùng phương thức êm ả đến thế."
 

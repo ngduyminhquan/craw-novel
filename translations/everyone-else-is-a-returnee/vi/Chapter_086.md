@@ -1,6 +1,6 @@
 # Chương 86: Bạn, Tôi, Kẻ Xa Lạ 4
 
-"Oa, đúng là lâu thật đấy."
+"Chà, đúng là lâu thật đấy."
 
 [Cậu đạt cấp 99 từ mười ngày trước rồi, nên đúng là lâu thật.]
 
@@ -198,9 +198,9 @@ Nhưng chính vì đã hiểu nhiều hơn về Long tộc, lại có một đi�
 
 Dẫu vậy, có nói ra lúc này thì cũng chẳng thay đổi được gì, nên anh đành chôn chặt nó vào một góc trong tim; tin rằng mối hoài nghi của mình rồi sẽ được giải tỏa vào một thời điểm nào đó sau khi anh quét sạch Daréu.
 
-[Krrrrrrrraaaaaaaa]
+[Kừừừừừừừ aaaaaaaa]
 
-[Krrrrrr]
+[Kừừừừừừ]
 
 Đúng là có rất nhiều quái vật Long tộc như lời Reta nói. Hơn nữa, cấp độ của chúng cũng xấp xỉ 180. Không những thế, chúng còn sở hữu thân thể to lớn và cứng rắn nhất trong số những con Long tộc mà anh từng thấy từ trước đến nay, nên ngay cả với Hắc Cốt Đại Thương của Yu IlHan, việc lấy mạng chúng chỉ bằng một đòn xem ra cũng chẳng hề dễ dàng.
 
@@ -228,7 +228,7 @@ Anh cứ ngỡ mình có thể nhất kích tất sát con quái bằng một đ
 
 Trong khi đó, những con Long tộc vừa bị đánh thức bởi tiếng gầm của đồng loại đang lục tục nhấc thân mình dậy, nhưng tốc độ chậm chạp của chúng chẳng khác nào đang chạy việt dã cùng một con lười!
 
-[Kirrrrrrrk]
+[Khừừừừừừc]
 
 [Khrr... Coooonnnn ngườơơơiii...?]
 
@@ -248,11 +248,11 @@ Thốt ra những lời đầy khả nghi, bầy Long tộc rốt cuộc cũng n
 
 "À, dẹp đi. Giết quách các ngươi rồi sau này nghe ngóng từ lũ chuyển chức 4 cũng được."
 
-[Khhhh! Khhha!]
+[Khừừừ! Khààà!]
 
 Con rồng bị Yu IlHan tập kích thoạt đầu cố làm gì đó để chống trả anh bằng cách vỗ cánh cào cấu móng vuốt trước, nhưng cái hang động này có thể phù hợp để loài rồng ngủ nghỉ chứ tuyệt nhiên không thích hợp cho một trận ác chiến. Vì thế, nó đã phải đón nhận cái chết sau hàng loạt đòn tấn công dồn dập của Yu IlHan.
 
-Nó chẳng còn chút thể lực nào để chống đỡ nổi khi Yu IlHan liên tục tung ra những đòn chí mạng trong lúc vô hiệu hóa hoàn toàn mọi đợt công kích từ phía nó.
+Nó chẳng còn bao nhiêu máu để chống đỡ nổi khi Yu IlHan liên tục tung ra những đòn chí mạng trong lúc vô hiệu hóa hoàn toàn mọi đợt công kích từ phía nó.
 
 [Bạn nhận được 65.938.984 điểm kinh nghiệm.]
 
@@ -266,7 +266,7 @@ Yu IlHan lặng lẽ gật đầu trước lời của Erta. Cho đến nay đã
 
 Mọi sinh vật Long tộc vượt qua chuyển chức 3 đều sở hữu một điều kỳ diệu trong cơ thể dưới hình thức này hay hình thức khác, và chúng chủ yếu được biểu hiện thông qua ma pháp.
 
-Từ ma pháp liên quan đến cảm tri, ma pháp tấn công trực tiếp bằng lửa, nước hay đất đá, ma pháp bắn ra luồng mana được tinh luyện, cho đến tận những ma pháp trực tiếp tạo ra sự dị thường trong cơ thể Yu IlHan bằng cách tạo ra năng lượng tiêu cực từ mana.
+Từ ma pháp liên quan đến cảm tri, ma pháp tấn công trực tiếp bằng lửa, nước hay đất đá, ma pháp bắn ra luồng mana được tinh luyện, cho đến tận những ma pháp trực tiếp gây ra sự dị thường trong cơ thể Yu IlHan bằng cách tạo ra năng lượng tiêu cực từ mana.
 
 Dẫu vậy, phương pháp đối phó của Yu IlHan đối với tất cả bọn chúng đều chỉ có một bài. Trước tiên, anh bằng cách nào đó đánh lạc hướng kẻ thù để bước vào trạng thái ẩn thân, rồi hồi phục hoàn toàn trước khi tung đòn tập kích kết liễu.
 
