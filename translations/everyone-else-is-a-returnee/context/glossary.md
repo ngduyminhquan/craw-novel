@@ -470,3 +470,4 @@
 | Bloodied Angel |  | Huyết Thiên Thần | danh hiệu | 91 | Biệt hiệu của thiên thần Liera do kẻ địch ở Bức Tường Hỗn Loạn khiếp sợ đặt cho |
 | archangel |  | đại thiên thần | cấp bậc | 91 | Thiên thần cấp cao sở hữu sức mạnh vượt trội trong Quân Đội Thiên Giới |
 | Dragon's Ally |  | Đồng Minh Long Tộc | danh hiệu | 92 | Danh hiệu nhận được khi lập tổ đội với rồng, giảm 15% sát thương từ Long tộc và tăng 15% sức tấn công khi chiến đấu cùng rồng |
+| Aegis |  | Aegis | vật phẩm | 94 | Được phép giữ nguyên: Tạo tác khiên phẩm cấp Truyền Thuyết hợp nhất từ 5 chiếc khiên xương da rồng chuyển chức 4 |

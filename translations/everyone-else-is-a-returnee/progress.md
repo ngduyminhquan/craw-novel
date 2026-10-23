@@ -98,7 +98,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 91 |  | Chapter_091 - You, I, Strangers 9.txt | You, I, Strangers 9 | reviewed |  |
 | 92 |  | Chapter_092 - You, I, Strangers 10.txt | You, I, Strangers 10 | reviewed |  |
 | 93 |  | Chapter_093 - You, I, Strangers 11.txt | You, I, Strangers 11 | reviewed |  |
-| 94 |  | Chapter_094 - You, I, Strangers 12.txt | You, I, Strangers 12 | todo |  |
+| 94 |  | Chapter_094 - You, I, Strangers 12.txt | You, I, Strangers 12 | done |  |
 | 95 |  | Chapter_095 - You, I, Strangers 13.txt | You, I, Strangers 13 | todo |  |
 | 96 |  | Chapter_096 - You, I, Strangers 14.txt | You, I, Strangers 14 | todo |  |
 | 97 |  | Chapter_097 - You, I, Strangers 15.txt | You, I, Strangers 15 | todo |  |
@@ -670,3 +670,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#93] Dòng ghi chú proofreader/editor "(P/R Is this the long-awaited realization of Yu Ilhan's feelings???!!!????) (E/N: Naw, he an idiot)" không có dấu hai chấm sau P/R nên qa_check.py không tự nhận diện là T/N → Chấp nhận thêm vào raw_ignore_lines trong novel.json và ghi chú vào mục "Riêng truyện này" trong rules.md theo bước B2 của novel-translate để không gộp đoạn. (orchestrator)
 - [#93] Thoại của loài rồng ở chương 93 đoạn 96: Duyệt sửa "[Không ngờ 3 người trong chúng ta lại bỏ mạng...!]" thành "[Không ngờ 3 đồng loại của chúng ta lại bỏ mạng...!]"? → Chấp nhận sửa thành "[Không ngờ 3 đồng loại của chúng ta lại bỏ mạng...!]" cho hợp giọng kiêu hãnh của loài rồng. (orchestrator)
 - [#91-93] Cập nhật cột VI của Reta Kar'iha trong characters.md thành "Reta Kar'iha / Reta" để triệt tiêu cảnh báo giả từ script QA? → Bác, vì quy tắc không dùng "/" trong cột VI để làm im cảnh báo QA; giữ nguyên một tên chuẩn duy nhất "Reta Kar'iha". (orchestrator)
+- [#94] Cách thể hiện chữ hoa của "Dragon HEART" khi Erta giải thích ("Dragon HEARTs are written with capitals, and normal hearts aren't") → Chấp nhận dùng chữ in hoa ("TRÁI TIM RỒNG" / viết hoa để phân biệt với trái tim thông thường của rồng) nhằm giữ trọn vẹn trò đùa phá bức tường thứ tư trong lời giải thích của Erta. (orchestrator)

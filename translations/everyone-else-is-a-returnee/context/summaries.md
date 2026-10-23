@@ -575,3 +575,10 @@ Nghe lỏm được bầy rồng nhắc đến việc không được giết mì
 Lợi dụng sự lúng túng của hai con rồng đang tìm cách cứu đồng loại và cản trở một con rồng phát cuồng, IlHan phối hợp Bất Khả Họa Quỹ Đạo Thương, Quái Lực và Hỏa Tím đâm thủng vòm họng kết liễu con rồng thứ hai.
 Bầy rồng cuồng nộ kích động hàng chục con rồng và hàng trăm quái vật Long tộc kéo đến phong tỏa ma pháp trận; trong thế trận hỗn chiến tổng lực không thể rút lui, IlHan quyết định liều mình tử chiến.
 Cảnh kết thúc: Sau 17 phút ác chiến tiêu diệt thêm 4 con rồng đến mức cơ thể tưởng chừng gãy làm đôi, Yu IlHan kích hoạt thành công Đồng Hồ Cát Vĩnh Hằng để mở kết giới.
+
+## 94
+Yu IlHan an toàn bước vào kết giới Đồng Hồ Cát Vĩnh Hằng, dùng thức uống máu và Siêu Việt Tái Sinh hồi phục hoàn toàn chấn thương rách cơ và nứt xương.
+Tận dụng thời gian 2 tháng trong kết giới, anh dùng Hỏa Tím sửa giáp, mài thương và dành nhiều giờ liên tục giải phẫu hơn 900 xác rồng chuyển chức 4, thu về 18 ma thạch chuyển chức 4 cùng thùng máu và tim rồng.
+Từ xương và da rồng, anh chế tạo 3.000 chiếc khiên mới (tối thiểu phẩm cấp Độc Nhất), trong đó may mắn xuất hiện 5 chiếc đạt phẩm cấp Truyền Thuyết.
+Nhờ dùng 1 viên ma thạch chuyển chức 4 để Chế Tác Mana dung hợp 5 chiếc khiên Truyền Thuyết lại làm một, IlHan tạo ra tạo tác phòng thủ mang tính biểu tượng 'Aegis' có khả năng tự do bay lượn bảo vệ theo ý nghĩ.
+Cảnh kết thúc: Cất giữ Aegis vào Túi Đeo Chéo làm vũ khí cứu mạng cho trận chiến cuối cùng, Yu IlHan đã tạo ra một trong những tạo tác tiêu biểu đại diện cho cuộc đời mình.
