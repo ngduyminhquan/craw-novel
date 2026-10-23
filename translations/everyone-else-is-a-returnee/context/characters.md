@@ -14,7 +14,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Han YeoRang |  | Han YeoRang | Nữ thiếu úy quân đội Hàn Quốc phụ trách hiện trường quái vật | 9 |
 | God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
-| Yun DaeHan |  | Yun DaeHan | Thiếu tá quân đội Hàn Quốc chỉ huy hiện trường quái vật, nhìn xa trông rộng | 15 |
+| Yun DaeHan | Yoon DaeHan | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59) | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
@@ -85,6 +85,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 56: Thăng cấp Quái Lực lên Lv 2, Kháng Độc Cực Hạn lên Lv 8 và Nấu Nướng lên Lv 15 nhờ uống 'thức uống máu' giải quyết bài toán thiếu hụt năng lượng nghỉ ngơi để liên tục luyện Siêu Việt Tái Sinh.
 - Trạng thái tính đến chương 57: Đạt cấp độ 60; thăng cấp kỹ năng Quái Lực lên Lv 15 và Thu Thập Tử Vong lên Lv 4; thức tỉnh kỹ năng có điều kiện [Bật Nhảy]; mở khóa 1/4 điều kiện nhận kỹ năng chủ động [Phản Kích] sau khi phối hợp Súng Bắn Cọc và Atlatl Xương Nguyệt Quang Thô Ráp tiêu diệt quái vật chuyển chức lần 3 Chim Sấm Sét Khổng Lồ Lv 122.
 - Trạng thái tính đến chương 58: Tiêu diệt tổng cộng 4 Chim Sấm Sét Khổng Lồ Lv 122 chuyển chức 3 trong hầm ngục Gangwon-do, nâng Quái Lực lên Lv 16 và Nấu Nướng lên Lv 21; thu hoạch 2 viên ma thạch chuyển chức 3 hệ sấm sét để làm trượng cho Kang MiRae; Súng Bắn Cọc Kim Loại hấp thụ mana lôi điện tiến hóa thành Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi (Phẩm cấp Truyền Thuyết, bắn tầng 4 giảm 200 độ bền tối đa); chuẩn bị trang bị lên đường sang Trung Quốc.
+- Trạng thái tính đến chương 59: Chế tạo thành công tạo tác phụ kiện 'Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ' (Phẩm cấp Độc Nhất, Phòng thủ 1.700, tăng 20% tốc độ hồi phục mana, khi trúng đòn tạo bão sấm sét 1 lần/ngày) từ da và ma thạch Chim Sấm Sét Khổng Lồ; dùng Ẩn Thân trốn vé máy bay sang tỉnh Sơn Đông (Trung Quốc) dọn hầm ngục Quegna và cùng Lita phát hiện ma pháp ẩn giấu hầm ngục của phe phản bội.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

@@ -16,6 +16,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Han YeoRang | cô / Han YeoRang / thiếu úy Han | 9 | Nữ sĩ quan quân đội |
 | Do WooJun | cậu / Do WooJun | 15 | Trưởng nhóm Kẻ Hành Quyết |
 | Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
+| Yun DaeHan | ông / đại tá Yun / Yun DaeHan | 59 | Đại tá quân đội Hàn Quốc |
 | Fashta | Fashta | 18 | Thiên thần hỗ trợ Erta |
 | Ahata | Ahata | 18 | Thiên thần hỗ trợ Erta |
 | Fred | Fred | 27 | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae |
@@ -84,3 +85,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Myuta | tôi | ngài Myuta / Myuta-nim | 50 | Erta kính cẩn hỏi Myuta |
 | Lita | Erta | tôi | Erta / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |
 | Erta | Lita | tôi | Lita / cô | 52 | Đồng nghiệp thiên thần cùng hỗ trợ IlHan |
+| Yun DaeHan | Han YeoRang | tôi | cô / thiếu úy Han | 59 | Chỉ huy và cấp dưới trong lực lượng Trấn Áp |
+| Han YeoRang | Yun DaeHan | tôi | đại tá | 59 | Cấp dưới nói chuyện với chỉ huy |

@@ -326,3 +326,8 @@
 | Snorlax | Sn*rl*x | Sn*rl*x | khác | 57 | Được phép giữ nguyên: Pokemon lười ngủ (tham chiếu văn hóa đại chúng) |
 | frag shot |  | đạn nổ mảnh | vật phẩm | 57 | Loại đạn cọc phát nổ phóng mảnh bom của Súng Bắn Cọc được thiết kế nổ bên trong cơ thể kẻ địch |
 | Frighteningly Destructive Thunder Pile Bunker |  | Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi | vật phẩm | 58 | Vũ khí Súng Bắn Cọc sau khi biến đổi do liên tục tiếp xúc mana thuộc tính sấm sét |
+| Quick Lightning Storm's Gold Leather Bracelet |  | Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ | vật phẩm | 59 | Trang bị tạo tác vòng tay da làm từ da và ma thạch Chim Sấm Sét Khổng Lồ |
+| Shandong | Shandong Province | Sơn Đông | địa danh | 59 | Tỉnh Sơn Đông ở miền đông Trung Quốc |
+| Qingdao | Tsingtao | Thanh Đảo | địa danh | 59 | Thành phố ven biển thuộc tỉnh Sơn Đông, Trung Quốc, nổi tiếng với bia và thịt cừu xiên nướng |
+| Seongbuk-gu | Seongbuk | Seongbuk-gu | địa danh | 59 | Quận Seongbuk ở Seoul nơi IlHan từng tiêu diệt quái vật gấu lớn |
+| Suppression Guardian Forces | Guardian Forces | Lực Lượng Hộ Vệ Trấn Áp | tổ chức | 59 | Lực lượng dị năng giả quân đội thuộc Trấn Áp làm nhiệm vụ bảo vệ đường bay tại sân bay Incheon |
