@@ -423,7 +423,7 @@
 | God of Dismantling |  | Thần Giải Phẫu | khác | 78 | Thực thể hư cấu hình thành từ tích lũy ghi chép giải phẫu (Erta ví von) |
 | Dismantle King |  | Vua Giải Phẫu | danh hiệu | 78 | Biệt danh trêu chọc Erta đặt cho Yu IlHan khi anh mổ hơn 100.000 quái vật trong 2 tuần |
 | Purple Flame |  | Hỏa Tím | kỹ năng | 78 | Kỹ năng kích hoạt ngọn lửa tím của Thiên Tùng Vân Kiếm |
-| Epic rank | epic-ranked; epic rank | Sử Thi | hệ thống | 78 | Phẩm cấp trang bị/vật phẩm nằm trên Truyền Thuyết và dưới Thần |
+| Epic rank | epic-ranked; epic rank; Epic | Sử Thi | hệ thống | 78 | Phẩm cấp trang bị/vật phẩm nằm trên Truyền Thuyết và dưới Thần |
 | Flash Orochi Dagger |  | Dao Găm Orochi Thiểm Quang | vật phẩm | 79 | Phi đao làm từ vảy Yamata no Orochi có thể tự động phóng ra và quay lại vị trí cũ khi chịu xung chấn |
 | Roaring |  | Gầm Vang | hệ thống | 79 | Tiền tố dòng thuộc tính tạo sóng xung kích bằng mana |
 | Secretive Reaper's Roaring Dark Python Robe |  | Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo | vật phẩm | 79 | Áo choàng phẩm cấp Truyền Thuyết tích hợp 300 dao găm vảy Orochi và tạo sóng xung kích bằng mana |
@@ -489,3 +489,6 @@
 | Hollywood |  | Hollywood | địa danh | 103 | Được phép giữ nguyên: Đô thị điện ảnh nổi tiếng tại Los Angeles |
 | 2nd Great Cataclysm |  | Đại Tai Biến lần 2 | hệ thống | 62 | Đợt bùng nổ mana và nâng cấp thế giới tiếp theo của Trái Đất |
 | Taegukgi |  | cờ Thái Cực | khác | 104 | Quốc kỳ của Đại Hàn Dân Quốc |
+| God of Love | god of love | Thần Tình Yêu | khác | 105 | Vị thần hình thành từ tích lũy ghi chép tình yêu trong Hồ Sơ Akashic |
+| Envoy of God | envoy of god | Sứ Giả Của Thượng Đế | khác | 105 | Thân phận sứ giả của các thiên thần phụng sự Thượng Đế |
+| Apocalyptic-ally Beautiful Steel spear Blessed by the god of love |  | Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước | vật phẩm | 105 | Ngọn thương của Liera tiến hóa từ thanh kiếm tồi tàn Yu IlHan rèn tặng cô ngày trước nhờ phước lành của Thần Tình Yêu |

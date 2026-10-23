@@ -158,6 +158,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách, cách nói chuyện: Kế thừa trọn vẹn tình cảm sâu đậm và thói quen gọi tên Yu IlHan mọi lúc mọi nơi; trong chiến đấu vô cùng thiện chiến, hung mãnh và quyết đoán, được kẻ thù gán cho danh xưng 'Huyết Thiên Thần'.
 - Trạng thái tính đến chương 91: Là thành viên duy nhất của Lực Lượng Đột Kích 11 tại tiền tuyến Bức Tường Hỗn Loạn; sở hữu sức mạnh kết hợp hoàn hảo giữa quyền thuật và thương ánh sáng; quét sạch bầy kẻ săn mồi chuyển chức 5 và 6 của Quân Đội Ma Hủy Diệt; bị phục kích dịch chuyển sang phía bên kia Bức Tường Hỗn Loạn nhưng dùng đòn kích nổ găng tay tiêu diệt hầu hết kẻ địch cấp 6 xung quanh, sau đó một mình cầm thương ánh sáng lao vào tử chiến vì tin tưởng IlHan đang đợi mình.
 - Trạng thái tính đến chương 104: Trở về an toàn từ tiền tuyến Bức Tường Hỗn Loạn, lén vào phòng ngủ của Yu IlHan tại chung cư Gangnam và nằm ngủ say sưa trên giường anh.
+- Trạng thái tính đến chương 105: Quét sạch một bộ phận Quân Đội Ma Hủy Diệt bên trong Bức Tường Hỗn Loạn; thoát chết trong gang tấc nhờ đón nhận phước lành của Thần Tình Yêu biến thanh kiếm tồi tàn IlHan rèn cho ngày trước thành Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước (phẩm cấp Sử Thi); mắt đổi sang sắc đỏ hồng ngọc; chiến sự vừa tạm dứt liền bay thẳng về Trái Đất nằm ngủ trên giường IlHan và chính thức đoàn tụ cùng anh.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.

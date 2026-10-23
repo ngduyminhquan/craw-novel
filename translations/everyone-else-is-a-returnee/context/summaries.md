@@ -649,4 +649,11 @@ Yu IlHan bật Ẩn Thân dắt 4 elf đi lậu máy bay từ Mỹ về Hàn Qu�
 IlHan gọi điện cho mẹ và biết tin bố đã nghỉ việc do công ty phá sản nên ngỏ ý đón bố về phụ trách việc tại Vanguard; sau đó anh dẫn 4 elf cuồng tín tới căn hộ chung cư ở Gangnam chuẩn bị phổ cập nếp sống Trái Đất.
 Cảnh kết thúc: Cảm nhận được sự hiện diện quen thuộc trong phòng ngủ, IlHan mở cửa bước vào thì thấy một mỹ nhân mang hai đôi cánh (Lita sau khi thăng cấp chuyển chức 6) đang say sưa ngáy khò khò trên chiếc giường king-size của anh.
 
+## 105
+Yu IlHan khuyên đám elf bỏ qua hiềm khích với thiên thần, phân phòng ở và mua quần áo cùng tạo tác biến hình/thông dịch của Erta để ngụy trang đôi tai elf hòa nhập đời sống Trái Đất.
+Trong lúc ngâm bồn tắm, Erta báo tin chiến sự tại Bức Tường Hỗn Loạn đã tạm yên; Lita nay thăng cấp chuyển chức 6 đổi tên thành Liera, lập chiến công hiển hách rồi lập tức trốn về phòng ngủ của IlHan; IlHan sau đó về phòng nằm ngủ cạnh cô khiến Erta cạn lời.
+Tỉnh giấc trước, Erta phát hiện ngọn thương bí ẩn bên mép giường và nhận ra đó là thanh kiếm đầu tay IlHan rèn cho Liera năm xưa, nay tiến hóa thành Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước (phẩm cấp Sử Thi) nhờ phước lành của Thần Tình Yêu cứu mạng cô trong lúc thập tử nhất sinh, khiến mắt cô chuyển sang sắc đỏ hồng ngọc.
+Cảnh kết thúc: Yu IlHan giật mình thức giấc vì đạt một điều kiện nhận phước lành từ Thần Rèn Đúc; Liera rạng rỡ chào đón anh trở về, còn IlHan né tránh bẫy cờ tình cảm bằng cách chuyển hướng đòi xem ngọn thương.
+
+
 
