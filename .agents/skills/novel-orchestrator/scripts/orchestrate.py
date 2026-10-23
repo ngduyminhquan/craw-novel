@@ -92,8 +92,9 @@ def resolve(novel, needle, decision, new=False):
     else:
         hits = [i for i in _open_indices(lines) if needle in lines[i]]
         if len(hits) != 1:
-            die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}. "
-                "Câu hỏi chỉ có trong báo cáo panel thì dùng --new")
+            listing = "".join(f"\n  {lines[i].strip()[:120]}" for i in hits)
+            die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}. Dùng đoạn chữ dài hơn, chỉ có ở một câu."
+                + (listing if hits else " Câu hỏi chỉ có trong báo cáo panel thì dùng --new"))
         item = lines.pop(hits[0]).rstrip()
     item = re.sub(r"\s+—\s+đề xuất.*$", "", item)
     entry = f"{item} → {decision} (orchestrator)"
