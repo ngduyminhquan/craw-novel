@@ -535,3 +535,10 @@ Sau khi quét sạch hang động quái Long tộc, Yu IlHan tới gặp nhóm 1
 Dùng quyền kiểm soát đại ma pháp trận của đế chế elf để chứng minh mình mang theo tàn niệm của Reta Kar'iha, IlHan biết được nhóm elf được che chở theo chỉ thị từ 'Khu Vườn Hoàng Hôn' (thế lực Kẻ Siêu Việt cấp cao nắm giữ khả năng tiên tri) thông qua chính đàn Long tộc trong hang mà anh vừa tiêu diệt sạch.
 Dù biết đã lỡ tay hạ sát bầy quái bảo hộ elf, IlHan không hề bận tâm hay hối hận vì mục tiêu tối thượng của anh là tận diệt Long tộc; Reta được tiếp thêm động lực to lớn khi biết dân tộc mình chưa tuyệt chủng.
 Cảnh kết thúc: Sau 17 ngày càn quét thuận buồm xuôi gió mà không bị phát giác, Yu IlHan hoàn thành điều kiện tiêu diệt 10.000 quái vật chuyển chức 3 của nhiệm vụ chạy đua thời gian và sẵn sàng bước vào cuộc đi săn Long tộc chuyển chức 4.
+
+## 88
+Để hoàn thành nhiệm vụ chạy đua thời gian tiêu diệt 1.000 quái vật chuyển chức 4 trong 11 ngày còn lại, Yu IlHan được ma pháp trận dịch chuyển tới vị trí một con rồng chuyển chức 4 cấp 200 đang say ngủ giữa thảo nguyên Daréu.
+Nhờ các buff từ Quái Lực, Thiên Thần Chi Viện, danh hiệu Đồ Long Giả cùng thuộc tính chuyển giao trọng lượng của Túi Đeo Chéo dồn hàng vạn tấn xác quái vào ngọn Hắc Cốt Đại Thương kết hợp Hỏa Tím, IlHan phóng thương xuyên thủng đầu con rồng và đạt Bật Nhảy Lv 38.
+Con rồng phản công dồn dập bằng các chùm tia ma pháp và bão trận đồ ma pháp trên không, buộc IlHan phải dùng Bật Nhảy Tiếp né đòn, liên tục dùng tính năng thu hồi vật sở hữu từ xa triệu hồi hàng chục lớp khiên Orochi ('Thiết Pháo Đài') chống đỡ và đâm nát não kết liễu con quái, thu về gần 400 triệu EXP.
+Xót xa khi mất 72 tấm khiên Orochi và nhận thấy tốc độ săn cần cải thiện, IlHan mổ xẻ xác rồng để tìm cách gia tăng hiệu suất chiến đấu thì bất ngờ tìm thấy một viên ma thạch chuyển chức 4.
+Cảnh kết thúc: Thu được ma thạch chuyển chức 4, IlHan đáp ứng đủ mọi điều kiện thử thách (300 đòn đâm, 300 đòn chém quái chuyển chức 3, 100 ma thạch chuyển chức 3 và 1 ma thạch chuyển chức 4) và nhận được thông báo cho phép tiến hóa kỹ năng Thương Thuật, mở ra tia hy vọng hoàn thành nhiệm vụ bất khả thi.

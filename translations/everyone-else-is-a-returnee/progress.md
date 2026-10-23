@@ -92,7 +92,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | reviewed |  |
 | 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | reviewed |  |
 | 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | reviewed |  |
-| 88 |  | Chapter_088 - You, I, Strangers 6.txt | You, I, Strangers 6 | todo |  |
+| 88 |  | Chapter_088 - You, I, Strangers 6.txt | You, I, Strangers 6 | done |  |
 | 89 |  | Chapter_089 - You, I, Strangers 7.txt | You, I, Strangers 7 | todo |  |
 | 90 |  | Chapter_090 - You, I, Strangers 8.txt | You, I, Strangers 8 | todo |  |
 | 91 |  | Chapter_091 - You, I, Strangers 9.txt | You, I, Strangers 9 | todo |  |
@@ -659,3 +659,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#87] Ma pháp cảm ứng của tộc elf: "alarm magic" — Tạm chọn: "ma pháp cảnh báo". Phương án khác: "ma pháp báo động". Tạm dùng trong bản dịch: "ma pháp cảnh báo". → Giữ cách dịch "ma pháp cảnh báo" trong chương nhưng xóa "alarm magic" khỏi glossary.md vì đây là cụm từ miêu tả chung viết thường, không phải tên riêng hay kỹ năng cố định. (orchestrator)
 - [#86] Tiếng kêu quái vật ở chương 86: Duyệt chuyển âm Việt hóa các chuỗi âm thanh quái vật kéo dài ([Krrrrrrrraaaaaaaa], [Kirrrrrrrk], [Khhhh! Khhha!])? → Chấp nhận Việt hóa thành "[Kừừừừừừừ aaaaaaaa]", "[Kừừừừừừ]", "[Khừừừừừừc]", "[Khừừừ! Khààà!]" theo nguyên tắc Việt hóa tiếng kêu của style.md và đồng bộ với chương 85. (orchestrator)
 - [#87] Xưng hô của Elf với Yu IlHan (chương 87 đoạn 108): Trong câu "Wh-what about you?", giữ nguyên "anh" hay chuyển thành "ngài"? → Giữ nguyên "anh" ("C-còn anh thì sao?") cho tự nhiên theo văn phong hiện đại của style.md. (orchestrator)
+- [#88] Dòng ghi chú của dịch giả tiếng Anh ở đầu raw ("Translation changes: spearmanship – spear master, etc)") → Chấp nhận bỏ qua không dịch, thêm vào raw_ignore_lines trong novel.json và ghi chú vào mục "Riêng truyện này" trong rules.md theo đúng quy định bước B2 của novel-translate. (orchestrator)

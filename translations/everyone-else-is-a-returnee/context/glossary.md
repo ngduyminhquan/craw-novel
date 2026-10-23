@@ -13,7 +13,7 @@
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Được phép giữ nguyên: Môn võ cận chiến thực chiến tàn khốc không luật lệ (tên môn võ quốc tế phổ thông) |
-| Spearmanship | Spear arts | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
+| Spearmanship | Spear arts; Spear Mastery | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
 | Dismantling | Disassembly | Giải Phẫu | kỹ năng | 4 | Kỹ năng mổ xẻ, thu hoạch bộ phận quái vật |
 | Smithing | Blacksmithing | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
@@ -459,3 +459,5 @@
 | Time attack quest |  | Nhiệm vụ chạy đua thời gian | hệ thống | 86 | Dạng nhiệm vụ hệ thống yêu cầu hoàn thành điều kiện trong giới hạn thời gian |
 | Transcenders | Transcender | Kẻ Siêu Việt | chủng tộc | 87 | Các thực thể cấp cao siêu việt không thể can thiệp trực tiếp vào thế giới bậc thấp |
 | Polymorph |  | Biến Hình | kỹ năng | 87 | Ma pháp trong truyền thuyết của loài rồng dùng để biến thành hình dạng con người |
+| Re-leap |  | Bật Nhảy Tiếp | kỹ năng | 88 | Cú bật nhảy bổ sung giữa không trung khi kích hoạt Bật Nhảy từ cấp 20 |
+| Iron Fortress |  | Thiết Pháo Đài | khác | 88 | Tên Yu IlHan tự đặt cho thế trận dựng nhiều lớp khiên Orochi chống ma pháp |

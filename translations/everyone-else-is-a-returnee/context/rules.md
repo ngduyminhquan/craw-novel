@@ -45,4 +45,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#64) Thành ngữ "pull one's roots out" (기둥뿌리를 뽑다 / 뿌리를 뽑다) dịch thoát ý thành "vét cạn gia sản / vét sạch túi", tránh dịch thô thành "nhổ tận gốc rễ".
 - (#65) Thành ngữ "blood cannot be faked" (피는 못 속인다) dịch thoát ý thành "cùng một dòng máu thì không lẫn đi đâu được", tránh nhầm sang "giọt máu đào hơn ao nước lã".
 - (#78) Khi dòng thoại của nhân vật trong ngoặc vuông có tên người nói đặt trong ngoặc đơn đi liền (vd `[...](Erta)`), luôn thêm một dấu cách trước ngoặc đơn thành `[...] (Erta)` để tránh bị trình đọc nhầm thành cú pháp liên kết Markdown.
-- (#80) Trong bảng thông số vật phẩm, từ khóa '[Options – ...]' dịch thống nhất là '[Dòng thuộc tính – ...]' theo glossary.md, không dịch thành '[Tùy chọn – ...]'.
+- (#80) Trong bảng thông số vật phẩm, từ khóa '[Options – ...]' dịch thống nhất là '[Dòng thuộc tính – ...]' theo glossary.md, không dịch thành '[Tùy chọn – ...]'.
+- (#88) Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ('Translation changes: spearmanship – spear master, etc)') được bỏ qua và thêm vào raw_ignore_lines.
