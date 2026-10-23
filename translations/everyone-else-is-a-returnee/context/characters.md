@@ -26,6 +26,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 | Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
+| Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 
 ## Chi tiết
 
@@ -95,6 +96,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 66: Trở thành chủ tòa nhà tại khu gia cố Gangnam và mua trọn tầng cao nhất một khu căn hộ đắt đỏ gần đó; đăng ký thương hiệu 'Vanguard' và chuyển xưởng rèn xuống tầng hầm 5 của tòa nhà; sản xuất hàng loạt trang bị phẩm cấp Hiếm từ phụ phẩm quái vật cấp 30-40; được Thần Rèn Đúc phát hiện và hứa hẹn ban phước lành sau hai nhiệm vụ chưa rõ nội dung.
 - Trạng thái tính đến chương 67: Khai trương thương hiệu 'Vanguard' tại tầng 13 tòa nhà Gangnam (khóa kín tầng 14), bán vũ khí chuẩn Vanguard phẩm cấp Hiếm (như Kiếm Bastard Xương Sói Sắc Bén sức tấn công 1.950) đồng giá 100 triệu won hoặc phụ phẩm tương đương; quy định chỉ mở cửa thứ Hai từ 10h-17h, mỗi khách tối đa 2 món, không tiếp thương nhân; dùng ma pháp bảo hộ của thiên thần chặn đứng mọi vụ đột nhập; một mình tiến vào hầm ngục nguy hiểm nhất thế giới săn Hắc Ảnh Lv 93 nhằm hoàn thành điều kiện tập kích tiêu diệt 3.000 quái vật chuyển chức 2 trong trạng thái ẩn thân để tiến hóa kỹ năng Ẩn Thân.
 - Trạng thái tính đến chương 68: Lần đầu tiên mua vé máy bay chính ngạch sang Nhật Bản, tiến vào hầm ngục khó nhất thế giới (yêu cầu cấp độ 90) tại vùng Kantou để săn quái vật bóng tối có năng lực ẩn thân; tích lũy hơn 1.350/3.000 quái vật chuyển chức 2 bị tập kích tiêu diệt trong trạng thái ẩn thân; thăng từ cấp 66 lên cấp 75 sau ba tuần cày cuốc và dọn sạch hầm ngục trước khi thảm họa Đợt Sóng Hầm Ngục bùng nổ tại Kantou.
+- Trạng thái tính đến chương 70: Hoàn tất tiến hóa kỹ năng Ẩn Thân thành kỹ năng bị động [Tử Thần] (thăng lên cấp 3); Túi Đeo Chéo được bổ sung thêm tính năng 'thu hồi vật sở hữu từ xa' và 'mở rộng không gian'; phối hợp Atlatl Xương Nguyệt Quang Thô Ráp một mình bình định nửa tỉnh Kanagawa và giải cứu thành phố Odawara; được người dân Nhật Bản tôn xưng là Thần Bão Tố Susanoo giáng trần.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

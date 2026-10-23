@@ -285,7 +285,7 @@
 | Angel's Support | Angels' Support | Thiên Thần Chi Viện | kỹ năng | 52 | Kỹ năng chủ động của Bạn Đồng Hành Thiên Thần, mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi |
 | Undead | undead | Undead | quái vật | 52 | Được phép giữ nguyên: Quái vật thuộc chủng loại Undead/bất tử, kẻ thù của Quân Đội Thiên Giới |
 | Conan |  | Conan | khác | 52 | Được phép giữ nguyên: Thám tử lừng danh Conan trong manga cùng tên (tham chiếu văn hóa đại chúng) |
-| Dark Deathgod's Dragon-exterminating Spike Spear |  | Thương Gai Diệt Long Hắc Tử Thần | vật phẩm | 53 | Ngọn thương phẩm cấp Truyền Thuyết sau khi Yu IlHan Chế Tác Mana từ Thương Gai Tuyệt Diệt và ma thạch của Reta Kar'iha |
+| Dark Deathgod's Dragon-exterminating Spike Spear | Black Deathgod's Dragon-annihilating Spiked spear | Thương Gai Diệt Long Hắc Tử Thần | vật phẩm | 53 | Ngọn thương phẩm cấp Truyền Thuyết sau khi Yu IlHan Chế Tác Mana từ Thương Gai Tuyệt Diệt và ma thạch của Reta Kar'iha |
 | Tenacious Dragonhunter's Harpoon Set |  | Bộ Lao Thợ Săn Rồng Bền Bỉ | vật phẩm | 53 | Bộ 24 lao săn rèn từ xương sườn và da Thủ Lĩnh Troll Cao Nguyên mang dòng thuộc tính trói giữ rồng |
 | dragonkin | Dragonkin | Long tộc | chủng tộc | 53 | Chủng tộc mang dòng máu rồng hoặc quái vật họ rồng |
 | Dragon |  | Rồng | chủng tộc | 53 | Loài rồng thần thoại hùng mạnh, kẻ từng hủy diệt thế giới Daréu của Reta Kar'iha |
@@ -383,3 +383,10 @@
 | Iron Wing |  | Thiết Dực | quái vật | 69 | Quái vật dạng bay cấp 66 phóng lông vũ bằng sắt tấn công con người |
 | Remote collecting of possession |  | Thu hồi vật sở hữu từ xa | hệ thống | 69 | Dòng thuộc tính ma pháp thu gom vũ khí và vật sở hữu từ xa cho Túi Đeo Chéo |
 | Orc | orc; orcs | Orc | quái vật | 69 | Chủng tộc quái vật hình người xuất hiện trong đợt Vỡ Hầm Ngục tại Nhật Bản |
+| Death god | death god | Tử Thần | kỹ năng | 70 | Kỹ năng tiến hóa từ Ẩn Thân, giảm mana, tăng mạnh hiệu quả ẩn thân, không mất ẩn thân khi nhất kích tất sát mục tiêu từ đòn tập kích, cộng dồn tăng chỉ số khi liên tục diệt địch trong 5 phút |
+| Devil Monkey | devil monkey; devil monkeys | Khỉ Ác Ma | quái vật | 70 | Quái vật khỉ nhanh nhẹn cấp 65-80 nhảy nhót leo trèo trên các tòa nhà tàn phá Odawara |
+| Susanoo |  | Susanoo | khác | 70 | Tên thần bão tố trong thần thoại Thần đạo Nhật Bản, biệt danh người dân Nhật gán cho Yu IlHan khi thấy anh càn quét quái vật |
+| God of Storms | Storm God | Thần Bão Tố | danh hiệu | 70 | Danh xưng của thần Susanoo trong thần thoại Nhật Bản |
+| Odawara |  | Odawara | địa danh | 70 | Thành phố Odawara thuộc tỉnh Kanagawa, Nhật Bản |
+| Chiba |  | Chiba | địa danh | 70 | Tỉnh Chiba ở vùng Kantou, Nhật Bản |
+| Osaka |  | Osaka | địa danh | 70 | Thành phố lớn ở vùng Kansai, Nhật Bản |

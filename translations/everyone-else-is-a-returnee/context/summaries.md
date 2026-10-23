@@ -420,3 +420,9 @@ Thảm họa Vỡ Hầm Ngục bất ngờ bùng nổ tại tỉnh Kanagawa rồ
 Trong khi Kang MiRae rực cháy ý chí ganh đua và muốn vượt qua kỳ vọng của Yu IlHan, thì IlHan vừa bước ra khỏi hầm ngục và nhận định sự việc một cách dửng dưng rồi lập tức đưa ra yêu sách đổi thưởng nhiệm vụ trước với các thiên thần.
 IlHan yêu cầu bổ sung hai dòng thuộc tính cho Túi Đeo Chéo là 'mở rộng không gian' và 'thu hồi vật sở hữu từ xa', rồi dùng Atlatl Xương Nguyệt Quang Thô Ráp dưới ánh trăng tròn phóng lao liên hoàn hạ gục gọn gàng quái vật bay Thiết Dực Lv 66 từ khoảng cách vô hình trước sự kinh ngạc tột cùng của mọi người.
 Cảnh kết thúc: Được Erta và Lita cam đoan sẽ đáp ứng trọn vẹn phần thưởng dù phải dốc cạn gia sản Thiên Giới, Yu IlHan nhếch mép cười rồi hiên ngang sải bước vào tâm điểm chiến trường bắt đầu cuộc càn quét kinh hoàng.
+
+## 70
+Hàng chục thiên thần giáng trần nâng cấp Túi Đeo Chéo theo đúng yêu sách của Yu IlHan (thu hồi vật sở hữu từ xa và mở rộng không gian); kết hợp cùng kỹ năng tiến hóa mới nhận được là [Tử Thần] (giữ nguyên trạng thái ẩn thân khi nhất kích tất sát mục tiêu và tăng dồn chỉ số khi liên tục diệt quái), IlHan thỏa sức phóng lao càn quét quái vật với tốc độ kinh hoàng mà không một ai hay biết.
+Trong khi các đoàn viện binh quốc tế và lực lượng phòng vệ bỏ rơi tỉnh Kanagawa đổ nát để tập trung bảo vệ Tokyo và Chiba, IlHan một mình cứu viện Odawara, tiêu diệt bầy Khỉ Ác Ma cấp 65-80 đang dồn ép các dị năng giả địa phương (trong đó có Tamura).
+Chiến tích một mình càn quét quái vật ở 30 khu vực và bình định nửa tỉnh Kanagawa chỉ trong một đêm khiến người dân và mạng xã hội bùng nổ, tôn sùng anh như Thần Bão Tố Susanoo giáng trần; bản thân IlHan khoái chí với danh xưng thần linh này và càng tăng tốc càn quét.
+Cảnh kết thúc: Sức mạnh áp đảo bí ẩn mang tên Susanoo làm chấn động toàn cầu, khiến cả những thủ lĩnh hàng đầu nhân loại như Kang MiRae (Clan Lôi Thần) cũng phải dè chừng vì sự xuất hiện của một kẻ mạnh phi lý đe dọa màn ra mắt của họ.

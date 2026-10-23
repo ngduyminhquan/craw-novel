@@ -27,6 +27,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Reta Kar'iha | cô / Reta Kar'iha | 48 | Kẻ Phá Vỡ cấp 157 |
 | Myuta | Myuta / thiên thần Myuta | 50 | Thiên thần chủ tọa cuộc họp |
 | Spiera | cô / Spiera | 62 | Nữ thiên thần cấp cao dùng thương ánh sáng |
+| Tamura | anh ta / Tamura | 70 | Dị năng giả Nhật Bản tại Odawara |
 
 ## Giữa các nhân vật
 
