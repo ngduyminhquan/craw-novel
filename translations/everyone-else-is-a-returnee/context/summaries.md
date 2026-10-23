@@ -459,3 +459,9 @@ Na YuNa dốc toàn bộ thánh lực xướng niệm đại chúc phúc ban bù
 Orochi gầm thét đau đớn, phát cuồng kích hoạt năng lực biến đổi địa hình phóng ra rừng dây gai tím nhằm câu kéo thời gian chờ bùa lợi 5 phút hết hiệu lực; IlHan xông pha chém rách rừng dây leo và đỡ đòn đuôi hiểm hóc nhắm vào Kang MiRae trong lúc cô đang dồn trọn mana niệm chú chuẩn bị tung đòn ma pháp quyết định.
 Cảnh kết thúc: Giữa lúc IlHan nỗ lực ghìm chân quái vật để chờ Kang MiRae hoàn tất thần chú trong 4 phút bùa lợi còn lại, Yamata no Orochi lại bắt đầu biến đổi thân thể bước vào giai đoạn cuối cùng (final phase) mở màn trận quyết đấu sinh tử.
 
+## 76
+Yamata no Orochi bước vào giai đoạn cuối, hợp nhất 7 chiếc đuôi thành một chiếc đuôi khổng lồ mang cự kiếm rực lửa tím cuồng bạo tấn công Yu IlHan; các dị năng giả và Quân Đoàn Susanoo cùng lúc kéo tới chiến trường phân tán sự chú ý của quái xà.
+Trong lằn ranh sinh tử, Yu IlHan đón nhận sự khai sáng kỳ diệu, cảm nhận và đánh thức dòng mana trong cơ thể để chủ động kích hoạt lại kỹ năng Ẩn Thân trước sự sững sờ của Lita và Erta, khiến Orochi hoàn toàn mất dấu sự hiện diện của anh.
+Chớp thời cơ Kang MiRae tung lôi ma pháp khiến Orochi suy yếu, IlHan từ trời cao dồn trọn trọng lượng Túi Đeo Chéo phóng ngọn thương gai đâm nát tim quái xà kết liễu nó chỉ trước khi hết bùa lợi 19 giây, thăng lên cấp 87, nhận danh hiệu 'Đồ Long Giả' và tạo tác 'Thiên Tùng Vân Kiếm' rồi thu gom toàn bộ xác trùm vào túi đồ.
+Cảnh kết thúc: Mặc cho các clan quốc tế bàng hoàng và Kang MiRae rung động trước đòn đánh tuyệt luân kết nối trời đất, IlHan từ chối nghỉ ngơi mà tiếp tục giữ nguyên ẩn thân âm thầm càn quét sạch sẽ quái vật tại Chiba suốt 3 ngày trước khi bình yên trở về Hàn Quốc.
+

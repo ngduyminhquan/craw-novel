@@ -409,3 +409,5 @@
 | landscape-changing power |  | năng lực biến đổi địa hình | hệ thống | 75 | Năng lực của quái vật đột biến cấp cao làm biến dạng môi trường xung quanh |
 | magic bullet |  | đạn ma pháp | hệ thống | 73 | Đạn ma lực mang nhiệt lượng hoặc thuộc tính do Yamata no Orochi hoặc pháp sư bắn ra từ xa |
 | great blessing |  | đại chúc phúc | kỹ năng | 75 | Kỹ năng chúc phúc thánh lực tối thượng của Na YuNa ban bùa lợi cực hạn (trong 5 phút: tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp) |
+| Dragon Slayer |  | Đồ Long Giả | danh hiệu | 76 | Danh hiệu nhận được sau khi hạ gục quái vật Long tộc Yamata no Orochi (tăng 10% mọi năng lực khi chiến đấu chống lại Long tộc) |
+| Heavenly Cloud-Gathering Sword | Ama no Murakumo no Tsurugi; Ama no Murakumo; Ame no Murakumo | Thiên Tùng Vân Kiếm | vật phẩm | 76 | Tạo tác thần kiếm phẩm cấp Truyền Thuyết thu được từ đuôi của Yamata no Orochi |
