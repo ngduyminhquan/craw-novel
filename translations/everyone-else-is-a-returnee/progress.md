@@ -62,9 +62,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 55 |  | Chapter_055 - I Carry (2).txt | I Carry (2) | reviewed |  |
 | 56 |  | Chapter_056 - I Carry (3).txt | I Carry (3) | reviewed |  |
 | 57 |  | Chapter_057 - I Carry (4).txt | I Carry (4) | reviewed |  |
-| 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | done |  |
-| 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | done |  |
-| 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | done |  |
+| 58 |  | Chapter_058 - I Carry (5).txt | I Carry (5) | reviewed |  |
+| 59 |  | Chapter_059 - I Carry (6).txt | I Carry (6) | reviewed |  |
+| 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | reviewed |  |
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | todo |  |
 | 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | todo |  |
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | todo |  |
@@ -574,3 +574,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#59] Dịch địa danh Shandong, Qingdao và bia Tsingtao? → Chốt Sơn Đông, Thanh Đảo và bia Thanh Đảo. (orchestrator)
 - [#60] Tên kỹ năng bị động Language — Tạm chọn: 'Ngôn Ngữ'. Phương án khác: 'Thông Ngôn', 'Ngôn Ngữ Học'. Tạm dùng trong bản dịch: 'Ngôn Ngữ'. → Chốt Ngôn Ngữ. (orchestrator)
 - [#60] Cụm từ tic tac toe trong lời thoại của Lita ở đoạn 12 — Tạm chọn: 'chơi cờ ca-rô'. Phương án khác: 'chơi tic-tac-toe'. Tạm dùng trong bản dịch: 'chơi cờ ca-rô'. → Chốt chơi cờ ca-rô cho tự nhiên và quen thuộc với độc giả Việt Nam. (orchestrator)
+- [#58-60] Lỗi lặp từ ở Chương 58 đoạn 98? → Chấp nhận sửa thành chỉ để luồn cúi nịnh bợ hắn. (orchestrator)
+- [#58-60] Tiền tố thuộc tính ở Chương 59 đoạn 49? → Chấp nhận sửa thành [Dòng thuộc tính – ...]. (orchestrator)
+- [#58-60] Từ ngữ người chơi ở Chương 59 đoạn 61? → Chấp nhận đổi thành những dị năng giả cấp cao. (orchestrator)
+- [#58-60] Chuẩn hóa chuyển chức lần N ở Chương 59? → Chấp nhận thêm chữ lần ở các đoạn 10, 35, 39, 57, 103. (orchestrator)
+- [#58-60] Viết hoa tên kỹ năng ở Chương 59? → Chấp nhận viết hoa kỹ năng Nghỉ Ngơi (đoạn 1) và kỹ năng Ẩn Thân (đoạn 81, 114). (orchestrator)

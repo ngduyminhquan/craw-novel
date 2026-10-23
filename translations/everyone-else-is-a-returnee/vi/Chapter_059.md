@@ -1,6 +1,6 @@
 # Chương 59: Tôi Gánh Vác (6)
 
-Ngủ đẫy giấc suốt cả một đêm, Yu IlHan đã thổi bay sạch sẽ nỗi mệt mỏi tích tụ suốt mấy ngày qua, quả không hổ danh bậc thầy của kỹ năng nghỉ ngơi.
+Ngủ đẫy giấc suốt cả một đêm, Yu IlHan đã thổi bay sạch sẽ nỗi mệt mỏi tích tụ suốt mấy ngày qua, quả không hổ danh bậc thầy của kỹ năng Nghỉ Ngơi.
 
 Giờ thì anh không thể chần chừ thêm được nữa. Đã đến lúc phải lên đường sang Trung Quốc.
 
@@ -18,7 +18,7 @@ Mẹ anh dường như đang tận hưởng cuộc sống theo cách riêng củ
 
 Anh cũng sửa sang lại những món vũ khí khác cùng bộ áo giáp của mình. Anh nhận thấy chẳng hiểu sao sức tấn công và phòng thủ lại tăng lên trong quá trình sửa chữa, nhưng rồi anh quyết định không bận tâm đến chuyện đó.
 
-[Cậu không định dùng viên ma thạch chuyển chức 3 đó sao? Dù có dùng một viên làm vũ khí cho Empress thì vẫn còn thừa một viên mà.] (Erta)
+[Cậu không định dùng viên ma thạch chuyển chức lần 3 đó sao? Dù có dùng một viên làm vũ khí cho Empress thì vẫn còn thừa một viên mà.] (Erta)
 
 Thấy Yu IlHan chỉ bổ sung đồ dùng chứ không chế tạo thêm vũ khí mới nào, Erta bối rối hỏi. Yu IlHan liền mỉm cười đáp:
 
@@ -68,7 +68,7 @@ Trong khi Lita chẳng hiểu sao lại xị mặt ỉu xìu, gã trai tân ngh�
 
 Anh trích xuất phần da nguyên vẹn nhất từ con Chim Sấm Sét Khổng Lồ và gia công nó thành một chiếc vòng tay bình thường. Đó là một chiếc vòng da mỏng, có thể đeo vừa vặn bên trong bao tay sắt.
 
-Trông nó giống một dải băng đeo tay hơn là vòng tay và bề ngoài hết sức bình thường, thế nhưng nguyên liệu từ quái vật chuyển chức 3 đâu phải để trưng, độ dẻo dai của nó đạt đến mức đao kiếm thông thường hoàn toàn không thể làm trầy xước nổi.
+Trông nó giống một dải băng đeo tay hơn là vòng tay và bề ngoài hết sức bình thường, thế nhưng nguyên liệu từ quái vật chuyển chức lần 3 đâu phải để trưng, độ dẻo dai của nó đạt đến mức đao kiếm thông thường hoàn toàn không thể làm trầy xước nổi.
 
 [Ý kiến hay đấy. Chiến lợi phẩm cậu thu được lần này không thích hợp để làm dây chuyền hay khuyên tai đâu.] (Erta)
 
@@ -76,7 +76,7 @@ Trông nó giống một dải băng đeo tay hơn là vòng tay và bề ngoài
 
 [Được rồi...] (Erta)
 
-Giờ thì đến lượt Erta cũng chẳng hiểu sao mà xịu mặt xuống, còn Yu IlHan thì bắt đầu chuẩn bị Chế Tác Mana. Một tay anh cầm chiếc vòng da, tay kia cầm viên ma thạch lớn hơn trong số hai viên ma thạch Chim Sấm Sét chuyển chức 3.
+Giờ thì đến lượt Erta cũng chẳng hiểu sao mà xịu mặt xuống, còn Yu IlHan thì bắt đầu chuẩn bị Chế Tác Mana. Một tay anh cầm chiếc vòng da, tay kia cầm viên ma thạch lớn hơn trong số hai viên ma thạch Chim Sấm Sét chuyển chức lần 3.
 
 Thế nhưng, điều quan trọng hơn cả nguyên liệu chính là ý niệm của anh. Hít một hơi thật sâu, Yu IlHan khép mắt lại.
 
@@ -96,7 +96,7 @@ Dĩ nhiên, chẳng mấy ai là không biết đạo lý này, nhưng làm đư
 
 [Phòng thủ – 1.700]
 
-[Thuộc tính – Tăng 20% tốc độ hồi phục mana; khi trúng đòn, có thể tạo ra một cơn bão sấm sét. Giới hạn một lần mỗi ngày.]
+[Dòng thuộc tính – Tăng 20% tốc độ hồi phục mana; khi trúng đòn, có thể tạo ra một cơn bão sấm sét. Giới hạn một lần mỗi ngày.]
 
 [Độ bền – 1.150/1.150]
 
@@ -112,7 +112,7 @@ Kiếm tiền thì chẳng có gì xấu, nhưng an toàn mới là trên hết!
 
 [Cậu bị làm sao thế hả IlHan? Sao cậu có thể dễ dàng làm ra những món đồ ngang tầm quốc bảo như vậy chứ?] (Lita)
 
-[Ăn thua gì, nghĩ lại hồi cậu ta dùng thép nguyên chất rèn ra ngọn thương có thể đâm thủng da quái vật chuyển chức 2 mà xem.] (Erta)
+[Ăn thua gì, nghĩ lại hồi cậu ta dùng thép nguyên chất rèn ra ngọn thương có thể đâm thủng da quái vật chuyển chức lần 2 mà xem.] (Erta)
 
 Lita kinh ngạc trước thực lực của Yu IlHan, nhưng Erta thì đã sớm buông xuôi chấp nhận thực tế nên thản nhiên đáp lại.
 
@@ -120,7 +120,7 @@ Trong khi đó, sau khi kiểm tra các dòng thuộc tính của chiếc vòng 
 
 Điểm đến của anh là vùng núi non trung tâm tỉnh Sơn Đông, Trung Quốc, nơi nổi tiếng với thành phố Thanh Đảo. Tự nhủ lòng sẽ không ăn thịt cừu xiên nướng hay uống bia Thanh Đảo, mà sẽ dọn sạch hầm ngục Quegna rồi lập tức về thẳng nhà, anh thẳng tiến ra Sân bay Incheon. Đương nhiên là để đi lậu vé rồi!
 
-Sân bay đông nghẹt người. Giờ đây khi những người chơi cấp cao đã lần lượt nhận chuyển chức lần 2, các tuyến đường bay trên bầu trời ngày càng được mở lại nhiều hơn.
+Sân bay đông nghẹt người. Giờ đây khi những dị năng giả cấp cao đã lần lượt nhận chuyển chức lần 2, các tuyến đường bay trên bầu trời ngày càng được mở lại nhiều hơn.
 
 Chẳng mấy ai đủ dũng cảm rời nhà đi du lịch, nhưng trên đời này lại có vô số người chẳng còn lựa chọn nào khác ngoài việc phải đáp chuyến bay.
 
@@ -160,7 +160,7 @@ Lý do họ xuất hiện ở Sân bay Incheon cũng là vì vậy. Không, có 
 
 Yu IlHan phớt lờ đám binh lính và tiếp tục tiến bước. Anh kiểm tra chuyến bay hướng đến điểm đến của mình rồi nhanh chóng lẻn lên máy bay. Trình độ đi lậu vé của anh đã đạt tới cảnh giới nghệ thuật.
 
-Kỹ năng ẩn thân mà không ma pháp hay khoa học hiện đại nào có thể nhìn thấu đã đưa anh vào trong máy bay an toàn, và ngay khi chuẩn bị ngả lưng xuống một chiếc ghế trống, một ý nghĩ chợt lóe lên trong đầu anh.
+Kỹ năng Ẩn Thân mà không ma pháp hay khoa học hiện đại nào có thể nhìn thấu đã đưa anh vào trong máy bay an toàn, và ngay khi chuẩn bị ngả lưng xuống một chiếc ghế trống, một ý nghĩ chợt lóe lên trong đầu anh.
 
 'Khoan đã, nếu lần trước mình chịu đi làm hộ chiếu thì đâu đến nỗi thế này nhỉ?'
 
@@ -204,7 +204,7 @@ Thế nhưng, như thể thấu suốt được suy nghĩ trong đầu anh, Lita
 
 Erta dường như chẳng hề nhận ra điều gì bất thường. Yu IlHan liền dừng bước trước rồi quay sang hỏi Lita:
 
-"Chuyện gì nữa thế? Có quái vật chuyển chức 4 xuất hiện ở gần đây à?"
+"Chuyện gì nữa thế? Có quái vật chuyển chức lần 4 xuất hiện ở gần đây à?"
 
 [Đại loại thế.] (Lita)
 
@@ -226,7 +226,7 @@ Erta tức giận quát lên, nhưng Yu IlHan chỉ mỉm cười đáp:
 
 Tình thế này hoàn toàn khác với lần anh phải đối đầu với Reta Kar'iha.
 
-Việc bá chủ của kỹ năng ẩn thân, Yu IlHan, đã nhìn thấy trước nguy cơ đang ập đến và có thể chủ động ra tay đối phó.
+Việc bá chủ của kỹ năng Ẩn Thân, Yu IlHan, đã nhìn thấy trước nguy cơ đang ập đến và có thể chủ động ra tay đối phó.
 
 Ý nghĩa của điều đó, kẻ thù của anh sẽ chẳng thể nào thấu suốt được đâu.
 

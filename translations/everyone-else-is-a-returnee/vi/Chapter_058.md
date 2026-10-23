@@ -194,7 +194,7 @@ Vũ khí tối thượng của đế quốc mà ngay cả sự tồn tại cũng
 
 Gã đàn ông hào hứng reo lên. Thế nhưng, trái ngược với giọng điệu đầy vui sướng, nét mặt gã lại méo mó như sắp chết đến nơi. Dù biết rằng tên pháp sư ấy — kẻ nắm giữ trung tâm quyền lực và sở hữu sức mạnh hùng mạnh nhất — rồi sẽ sớm bước qua Trái Đất, nhưng không ngờ hắn lại nôn nóng đến mức này!
 
-Gã đã phải nếm bao cay đắng khổ sở chỉ để nịnh bợ bợ đít hắn ở thế giới khác, vậy mà giờ đây, dường như gã lại sắp sửa phải lặp lại chuyện đó một lần nữa. Gã đàn ông — kẻ từng ảo tưởng rằng bản thân sẽ là người chỉ huy quân đoàn pháp sư bước qua cánh cổng — thầm nghiến răng nghiến lợi, trong lòng lo sợ sẽ bị tên pháp sư phát giác.
+Gã đã phải nếm bao cay đắng khổ sở chỉ để luồn cúi nịnh bợ hắn ở thế giới khác, vậy mà giờ đây, dường như gã lại sắp sửa phải lặp lại chuyện đó một lần nữa. Gã đàn ông — kẻ từng ảo tưởng rằng bản thân sẽ là người chỉ huy quân đoàn pháp sư bước qua cánh cổng — thầm nghiến răng nghiến lợi, trong lòng lo sợ sẽ bị tên pháp sư phát giác.
 
 "Đó là vinh hạnh của tôi. Tôi sẽ dốc hết lòng hết sức để phụng sự ngài."
 
