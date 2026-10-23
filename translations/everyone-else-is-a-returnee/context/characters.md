@@ -42,6 +42,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Paté | Pat | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
 | Jirl |  | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
+| dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana | 106 |
 
 ## Chi tiết
 
@@ -137,6 +138,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 100: Sau khi tiêu diệt Karrows ở chương 99, được Lecidna báo tin con rồng thực thể cấp cao chuyển chức 5 đã lột bỏ lớp vỏ nên không thể tấn công ở thế giới bậc thấp; cưỡi con rồng đồng minh cuối cùng của Khu Vườn Hoàng Hôn càn quét tiêu diệt toàn bộ 31 con rồng còn lại của Quân Đội Ma Hủy Diệt; cất giữ thi thể Lecidna vào túi đồ sau khi cô qua đời và nhận lời thỉnh cầu ghé thăm hang ổ của cô; đứng trước con rồng thực thể cấp cao duy nhất còn sót lại nhưng bất lực không thể tấn công anh.
 - Trạng thái tính đến chương 102: Nhận lời trăn trối của Lecidna nhận nuôi quả trứng rồng vàng kim; quy tụ toàn bộ 1.527 người elf sống sót tại Daréu và được họ đồng lòng tôn xưng làm Hoàng đế của đế chế elf; dẫn dắt họ về tàn tích cố đô, phân công tái thiết cộng đồng và trực tiếp rèn luyện kỹ năng chiến đấu cho họ.
 - Trạng thái tính đến chương 105: Hướng dẫn thợ rèn và đầu bếp elf tái thiết đế chế tại Daréu; trao tạo tác Chế Tác Mana phân quyền điều khiển ma pháp trận cho Mirfa; mang 4 elf (Mirey, Paté, Jirl, Phiria) về Trái Đất sống tại căn hộ Gangnam; tái ngộ Liera và đạt một điều kiện nhận phước lành của Thần Rèn Đúc.
+- Trạng thái tính đến chương 106: Nhận thưởng hoàn thành Nhiệm Vụ Thiên Giới 006 dọn sạch Daréu (toàn bộ chỉ số +5, Sức mạnh +10); học kỹ năng chủ động [Thống Trị] (cai quản tối đa 5 cấp dưới và gia tốc tăng trưởng); nhận túi đồ không gian của 12 thiên thần hy sinh ở Bức Tường Hỗn Loạn kế thừa các thuộc tính của Túi Đeo Chéo (sáp nhập kiểm soát trọng lượng vào chuyển giao trọng lượng, ngưng đọng thời gian, thu hồi từ xa); chọn chức nghiệp phụ [Kỵ Sĩ Rồng] mở khóa kỹ năng bị động [Cộng Hưởng Long Nhân] và chủ động [Long Huyết]; dùng Ngọn Lửa Vĩnh Cửu, lửa tím và Liệt Hỏa ấp nở quả trứng của Lecidna sinh ra một bé trai rồng mắt vàng tóc đen gọi anh là Bố bằng tiếng Hàn trôi chảy, phát hiện mưu đồ "lừa hôn" của Lecidna.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -314,6 +316,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 99: Lao tới húc văng che chắn cho Yu IlHan trước đòn tập kích bất ngờ của con rồng trùm cuối và bị nó ngoạm chặt lấy cổ.
 - Trạng thái tính đến chương 100: Dùng chút sức tàn thi triển Biến Hình thành chim lông vàng bay tới rúc vào ngực IlHan báo tin con rồng trùm cuối đã lột bỏ lớp vỏ khi cắn mình nên không thể làm hại IlHan; trước khi chết khẩn thiết nhờ IlHan ghé thăm hang ổ nơi hai người gặp nhau lần đầu; nhắm mắt qua đời thanh thản và được IlHan cất giữ thi thể vào túi đồ.
 - Trạng thái tính đến chương 102: Để lại một quả trứng rồng vàng kim cùng bức thư tiếng Anh khẩn thiết nhờ Yu IlHan nuôi nấng con mình và để mắt bảo hộ tộc elf; mong muốn con mình lớn lên tự do và tỏa sáng như IlHan.
+- Trạng thái tính đến chương 106: Lộ rõ thân phận không phải "bà nội trợ" mà là rồng cái đang tìm bạn đời; đã tính toán trước việc nhờ Yu IlHan tiếp nạp mana để ấp trứng nở ra con trai nhận IlHan làm bố, khiến anh phẫn nộ gọi cô là "kẻ lừa hôn".
+
+### Đứa trẻ rồng (dragon-child)
+- Giới tính, ngoại hình: Nam, bé trai khoảng 2 tuổi vừa chui ra từ quả trứng vàng kim của Lecidna trong lò lửa; da trắng, mắt vàng kim, tóc đen tuyền; tiếp đất hoàn hảo 10/10.
+- Năng lực / Đặc điểm: Nói tiếng Hàn trôi chảy một cách kỳ diệu thay vì tiếng rồng hay tiếng Anh; gọi Yu IlHan là "Bố" và thừa hưởng mana cùng phong thái của IlHan.
+- Trạng thái tính đến chương 106: Được Yu IlHan ấp nở thành công bằng Ngọn Lửa Vĩnh Cửu, lửa tím và Liệt Hỏa; nhận IlHan làm bố theo lời dặn của mẹ Lecidna.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

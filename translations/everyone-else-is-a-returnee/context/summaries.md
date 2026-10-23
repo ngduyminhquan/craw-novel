@@ -655,5 +655,12 @@ Trong lúc ngâm bồn tắm, Erta báo tin chiến sự tại Bức Tường H�
 Tỉnh giấc trước, Erta phát hiện ngọn thương bí ẩn bên mép giường và nhận ra đó là thanh kiếm đầu tay IlHan rèn cho Liera năm xưa, nay tiến hóa thành Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước (phẩm cấp Sử Thi) nhờ phước lành của Thần Tình Yêu cứu mạng cô trong lúc thập tử nhất sinh, khiến mắt cô chuyển sang sắc đỏ hồng ngọc.
 Cảnh kết thúc: Yu IlHan giật mình thức giấc vì đạt một điều kiện nhận phước lành từ Thần Rèn Đúc; Liera rạng rỡ chào đón anh trở về, còn IlHan né tránh bẫy cờ tình cảm bằng cách chuyển hướng đòi xem ngọn thương.
 
+## 106
+Hoàn thành Nhiệm Vụ Thiên Giới 006 dọn sạch Daréu, Yu IlHan nhận 5 điểm toàn bộ chỉ số, 10 điểm Sức mạnh, học kỹ năng chủ động [Thống Trị] (cai quản tối đa 5 cấp dưới và gia tốc tăng trưởng) cùng túi đồ không gian hợp nhất từ 12 thiên thần đã hy sinh ở Bức Tường Hỗn Loạn (tích hợp ngưng đọng thời gian, chuyển giao và kiểm soát trọng lượng, thu hồi từ xa).
+Trở về xưởng rèn tầng hầm ở Gangnam, IlHan phát hiện danh sách chức nghiệp phụ không có thợ rèn mà chỉ có [Kỵ Sĩ Rồng] nổi bật sắc vàng kim; theo lời khuyên của Erta và Liera, anh quyết định chọn Kỵ Sĩ Rồng, nhận kỹ năng bị động [Cộng Hưởng Long Nhân] và kỹ năng chủ động [Long Huyết].
+IlHan dùng Ngọn Lửa Vĩnh Cửu, ngọn lửa tím, kỹ năng Liệt Hỏa cùng lượng lớn thuốc hồi mana và mana bản thân để ấp quả trứng vàng kim của Lecidna trong lò rèn.
+Cảnh kết thúc: Quả trứng nứt vỡ giải phóng một bé trai khỏe mạnh mắt vàng tóc đen khoảng 2 tuổi; cậu bé chạy ra gọi IlHan là "Bố" bằng tiếng Hàn trôi chảy khiến IlHan giật mình nhận ra mưu đồ "lừa hôn" của Lecidna khi nhờ anh truyền mana ấp trứng.
+
+
 
 

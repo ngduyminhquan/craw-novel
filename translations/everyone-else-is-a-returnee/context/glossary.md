@@ -492,3 +492,9 @@
 | God of Love | god of love | Thần Tình Yêu | khác | 105 | Vị thần hình thành từ tích lũy ghi chép tình yêu trong Hồ Sơ Akashic |
 | Envoy of God | envoy of god | Sứ Giả Của Thượng Đế | khác | 105 | Thân phận sứ giả của các thiên thần phụng sự Thượng Đế |
 | Apocalyptic-ally Beautiful Steel spear Blessed by the god of love |  | Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước | vật phẩm | 105 | Ngọn thương của Liera tiến hóa từ thanh kiếm tồi tàn Yu IlHan rèn tặng cô ngày trước nhờ phước lành của Thần Tình Yêu |
+| Rule |  | Thống Trị | kỹ năng | 106 | Kỹ năng chủ động do Thiên giới ban thưởng sau khi dọn sạch Daréu, giúp thu nhận cấp dưới và thúc đẩy họ tăng trưởng |
+| Lead |  | Thống Suất | kỹ năng | 106 | Kỹ năng cấp thấp hơn của Thống Trị |
+| Dragon Rider |  | Kỵ Sĩ Rồng | chức nghiệp | 106 | Chức nghiệp phụ hệ chiến đấu kích hoạt khi có rồng ký khế ước |
+| Dragon-Man Resonance |  | Cộng Hưởng Long Nhân | kỹ năng | 106 | Kỹ năng bị động của Kỵ Sĩ Rồng, tăng 10% năng lực khi chiến đấu cùng rồng và thêm 10% khi cưỡi rồng |
+| Dragonic Blood |  | Long Huyết | kỹ năng | 106 | Kỹ năng chủ động của Kỵ Sĩ Rồng, mượn sức mạnh cộng sự rồng để cường hóa kỹ năng |
+| Monster Lord |  | Chúa Tể Quái Vật | chức nghiệp | 106 | Chức nghiệp phụ hoặc chức nghiệp tiềm năng mà Erta phỏng đoán IlHan nhận được |

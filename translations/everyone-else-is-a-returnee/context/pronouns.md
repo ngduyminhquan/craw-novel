@@ -41,6 +41,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Paté | cậu / Paté | 103 | Nam elf cung thủ theo IlHan |
 | Jirl | cậu / Jirl | 103 | Nam elf chiến binh khiên theo IlHan |
 | Phiria | cô / Phiria | 103 | Nữ elf đạo tặc theo IlHan |
+| dragon-child | đứa bé / cậu bé / đứa trẻ rồng | 106 | Bé trai rồng nở từ quả trứng của Lecidna |
 
 ## Giữa các nhân vật
 
@@ -145,4 +146,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Yu IlHan | tôi | cậu / IlHan | 105 | Liera đối thoại với IlHan sau khi tái ngộ tại Trái Đất |
 | Erta | Liera | tôi | Liera / cô | 105 | Đồng nghiệp thiên thần tiếp tục đối thoại sau khi Liera thăng cấp |
 | Liera | Erta | tôi | Erta / cô | 105 | Liera đối thoại với Erta sau khi thăng cấp |
+| dragon-child | Yu IlHan | con | bố | 106 | Đứa bé rồng nhận Yu IlHan làm bố theo lời dặn của mẹ |
+| Yu IlHan | dragon-child | tôi / ta | nhóc / con | 106 | Yu IlHan đối thoại với đứa bé rồng |
 
