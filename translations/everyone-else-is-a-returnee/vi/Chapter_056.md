@@ -112,7 +112,7 @@ Thế nhưng, chính thời khắc này lại là lúc thích hợp nhất để
 
 "Tốt lắm, nó không chết thật này!"
 
-{*Khặc*}
+{Khặc}
 
 Chỉ sau khi dính trọn đòn phủ đầu của anh, con chim sấm sét khổng lồ mới nhận ra bóng hình của Yu IlHan, để rồi nó ngoác miệng phun ra những tia chớp kèm theo âm thanh quái dị.
 

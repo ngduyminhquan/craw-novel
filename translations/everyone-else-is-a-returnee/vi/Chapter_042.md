@@ -10,7 +10,7 @@ Cô gái cuống quýt thảng thốt, còn người đàn ông thì trầm tr�
 
 Trong lúc đó, Yu IlHan vừa mổ xẻ vừa suy nghĩ. Làm thế nào để giao tiếp với mấy kẻ quảng giao đây.
 
-Đúng lúc đó, *ùng ục*, một tiếng bụng réo vang lên. Đó không phải bụng của Yu IlHan mà phát ra từ cô gái kia.
+Đúng lúc đó, ùng ục, một tiếng bụng réo vang lên. Đó không phải bụng của Yu IlHan mà phát ra từ cô gái kia.
 
 "Xin lỗi nha, tự dưng em lại thèm ăn tôm hùm... trông ngon lành ghê."
 
@@ -36,7 +36,7 @@ Trong thoáng chốc, một luồng ánh sáng màu hồng nhạt hiện lên, b
 
 [Một năng lực thực sự đáng kinh ngạc. Tôi có nghe nói cô được Nữ Thần Sắc Đẹp ban phước, nhưng quả thực cô sở hữu thần lực rất tuyệt vời.]
 
-"*Phì*. Biết ngay mấy người đẹp mã chẳng có gì tốt đẹp mà."
+"Phì. Biết ngay mấy người đẹp mã chẳng có gì tốt đẹp mà."
 
 Có kẻ nào đó cứ mỗi lần thăng cấp lại phải soi gương trong phòng tắm xem diện mạo mình có khấm khá hơn chút nào không, vậy mà một kẻ sinh ra đã đẹp sẵn lại còn được cả nữ thần ban phước! Vẫn như mọi khi, cơn thịnh nộ vô lý của Yu IlHan lại bùng lên dữ dội.
 
@@ -50,7 +50,7 @@ Thế nhưng, có một điều khiến anh bận tâm là không biết cô gá
 
 "Nhưng mà bọn mình từng chiến đấu cùng nhau ở LA rồi mà? Với lại, Feyta cũng bảo anh ấy là người tốt nữa!"
 
-"*Phùuu*... Dù sao thì, cũng cảm ơn anh đã cứu YuNa."
+"Phùuu... Dù sao thì, cũng cảm ơn anh đã cứu YuNa."
 
 "Được rồi."
 

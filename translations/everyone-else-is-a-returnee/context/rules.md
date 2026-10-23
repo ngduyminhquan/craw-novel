@@ -21,7 +21,7 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - Mỗi đoạn raw là một đoạn dịch, cách nhau một dòng trống. Không gộp, không tách, không bỏ đoạn.
 - Lời thoại: ngoặc kép thẳng `"..."`.
 - Thông báo hệ thống, lời nói qua thần giao cách cảm, thông tin kỹ năng: giữ trong `[...]` như raw.
-- Nhấn mạnh/suy nghĩ nội tâm trong raw dùng in nghiêng hoặc ngoặc đơn thì giữ đúng kiểu đó.
+- Không dùng in nghiêng/in đậm Markdown (`*...*`, `_..._`): app hiện nguyên dấu `*`. Chữ in nghiêng trong raw (tiếng động, tiếng kêu, nhấn mạnh) viết thường, không có dấu `*`. Suy nghĩ nội tâm raw dùng ngoặc đơn thì giữ ngoặc đơn. Riêng chữ bị che một phần bằng `*` (vd `M** ***t`) thì giữ dấu `*`. (Đổi ngày 2026-10-23 theo yêu cầu user: đã bỏ `*` in nghiêng ở chương 33, 42, 44, 47, 50, 56.)
 - Cuối mỗi chương bắt buộc thêm dòng điều hướng dẫn đến chương trước và chương sau (cách nội dung chính một dòng trống) theo mẫu:
   - Chương đầu (`#1`): `[Chương tiếp theo →](Chapter_002.md)`
   - Các chương giữa (`#N`): `[← Chương trước](Chapter_<N-1_3_chữ_số>.md) | [Chương tiếp theo →](Chapter_<N+1_3_chữ_số>.md)` (ví dụ ở chương 2: `[← Chương trước](Chapter_001.md) | [Chương tiếp theo →](Chapter_003.md)`). Nếu chương liền trước/sau bị `skip` thì trỏ tới chương `todo`/`done` hợp lệ kế tiếp.

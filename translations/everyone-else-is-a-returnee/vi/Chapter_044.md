@@ -144,7 +144,7 @@ Yu IlHan vừa ngâm nga vừa kết thúc công việc giải phẫu rồi chuy
 
 [Đòn Khóa Cổ Thiên Thần!]
 
-[Đồ nói dối, *Á a a a!*]
+[Đồ nói dối, Á a a a!]
 
 "Oa, các thiên thần thân thiết ghê!"
 
@@ -160,7 +160,7 @@ Mà là bởi một viên ma thạch vừa bắn ra từ đầu con troll khổn
 
 [Đòn Siết Cổ Chữ Thập Thiên Thần, khoan đã, cái gì cơ!?]
 
-[Ma thạch chuyển chức 3 đã xuất hiện rồi sao!? *Á a a a!*]
+[Ma thạch chuyển chức 3 đã xuất hiện rồi sao!? Á a a a!]
 
 Đây chính là khoảnh khắc mà cơ hội tiến hóa kỹ năng Nghỉ Ngơi từng vuột mất trước đó đã quay trở lại, theo một cách còn hoàn hảo hơn bội phần. Đó là bởi viên ma thạch chuyển chức 3 này đến từ một con troll, loài quái vật cũng sở hữu kỹ năng Nghỉ Ngơi.
 
@@ -212,7 +212,7 @@ Và Yu IlHan đáp lại bằng một nụ cười hiền hậu.
 
 "Không muốn đâu."
 
-"*Hự*, dù tôi biết thừa anh sẽ trả lời như vậy, nhưng anh quả quyết thật đấy."
+"Hự, dù tôi biết thừa anh sẽ trả lời như vậy, nhưng anh quả quyết thật đấy."
 
 Yu IlHan chỉ mỉm cười khi nghe thấy thế và không nói thêm lời nào. Lẽ dĩ nhiên, đúng chất một kẻ cô độc, ruột gan anh đang sôi sùng sục cả lên.
 

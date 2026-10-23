@@ -162,7 +162,7 @@ Bố của Yu IlHan cũng có đủ trí tuệ để đánh giá giá trị củ
 
 "Con cũng có một cái rồi. Con còn làm cho cả mẹ một cái nữa cơ."
 
-"*Khặc*."
+"Khặc."
 
 Dù có hơi áy náy một chút, nhưng bộ của anh còn đỉnh hơn chiếc áo đưa cho bố gấp bội.
 

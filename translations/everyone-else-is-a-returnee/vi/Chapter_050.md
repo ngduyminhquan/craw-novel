@@ -154,7 +154,7 @@ Gân của thằn lằn lửa thì hoàn toàn vô dụng, còn với lũ troll,
 
 "Mày vẫn nhớ mức nhiệt độ vừa nãy đúng không?"
 
-*Bập bùng*. Ngọn Lửa Vĩnh Cửu bùng cháy dữ dội hơn như thể đáp lời anh.
+Bập bùng. Ngọn Lửa Vĩnh Cửu bùng cháy dữ dội hơn như thể đáp lời anh.
 
 Dán chặt ánh mắt như muốn đục thủng dải gân đang rực cháy trong lửa, anh tập trung cao độ.
 

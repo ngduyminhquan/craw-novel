@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T04:21:54Z",
+  "generatedAt": "2026-10-23T07:33:03Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -202,7 +202,7 @@
           "number": 33,
           "title": "Chương 33: Tôi Cũng Đi Hầm Ngục (4)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_033.md",
-          "sha": "93038e151712f205d536bdcf176a2821f766e4c2"
+          "sha": "bfdb561860d83ac64b2a8a588966dc9b473c00b0"
         },
         {
           "number": 34,
@@ -256,7 +256,7 @@
           "number": 42,
           "title": "Chương 42: Tôi Cũng Chuyển Chức Lần 2 (4)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_042.md",
-          "sha": "92db06a4684b763e3a40e335479c1500f604b380"
+          "sha": "fa9ce57ff3e16291b2ea71624e86fc63686529e9"
         },
         {
           "number": 43,
@@ -268,7 +268,7 @@
           "number": 44,
           "title": "Chương 44: Tôi cũng chuyển chức lần 2 (6)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_044.md",
-          "sha": "d0dba18f7cb95b8cab79761c5f8b99fcdc6b541a"
+          "sha": "ef5d7aebb92d4dfae150226150be6eeb59bbbc01"
         },
         {
           "number": 45,
@@ -286,7 +286,7 @@
           "number": 47,
           "title": "Chương 47: Tôi cũng chuyển chức lần 2 (9)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_047.md",
-          "sha": "6c6514b5afb9ce5dd94aa81318a528f32ccab77f"
+          "sha": "85f53c0b9058c707b8e22b80fe22db3cbdf6e8b4"
         },
         {
           "number": 48,
@@ -304,7 +304,7 @@
           "number": 50,
           "title": "Chương 50: Bạn đồng hành dành riêng cho tôi (2)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_050.md",
-          "sha": "643d0380aef8b54fad7aaaf234c0ad43c709b6ee"
+          "sha": "671bdabfc0d55502c7ab376f37747f61becf2aa6"
         },
         {
           "number": 51,
@@ -340,7 +340,7 @@
           "number": 56,
           "title": "Chương 56: Tôi Gánh Vác (3)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_056.md",
-          "sha": "f2c3293540ba5fa5b9e50f0313c0700bc4f37842"
+          "sha": "b062ddf63798fe8172e8b3cb5c0f0a46f9b59196"
         },
         {
           "number": 57,

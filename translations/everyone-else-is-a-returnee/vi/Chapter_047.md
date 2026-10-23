@@ -42,7 +42,7 @@ Giống như một vị thiên thần khác từng làm trước đây, cô cầ
 
 Đã bao nhiêu thời gian trôi qua kể từ khi cô rời đi? Yu IlHan vẫn đang chật vật chiến đấu chống lại con quái tử thần.
 
-"*Hộc* *hộc*"
+"Hộc hộc"
 
 'Giới hạn' là thứ mà anh đã nếm trải vô số lần. Thế nhưng, tình cảnh lúc này chính là giới hạn tồi tệ nhất trong số đó. Thể lực đã cạn kiệt, vết thương chằng chịt khắp thân thể, và lời nguyền xâm nhập qua vết rách nơi cánh tay đang không ngừng lan rộng, làm tê liệt toàn bộ giác quan trên cơ thể anh.
 
