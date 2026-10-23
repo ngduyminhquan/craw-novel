@@ -37,6 +37,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
 | Teraka | Teraka-nim | Teraka | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu | 101 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
+| Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
+| Mirey |  | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất | 103 |
+| Paté | Pat | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
+| Jirl |  | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
+| Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 
 ## Chi tiết
 
@@ -314,3 +319,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Rồng chuyển chức 5, đã trở thành thực thể cấp cao (Ma Binh Hủy Diệt) thuộc Quân Đội Ma Hủy Diệt; trùm cuối chiến trường Daréu.
 - Ngoại hình / tính cách: Con rồng khổng lồ tỏa uy áp kinh hoàng, có thể biến hình thành nam elf điển trai tóc đen dài mắt đỏ; nói năng trôi chảy, cao ngạo nhưng biết nhìn nhận thực tế và trân trọng kẻ mạnh; ngỏ lời chiêu mộ Yu IlHan trở thành Ma Binh Hủy Diệt.
 - Xuất hiện tính đến chương 101: Do đã giải phóng toàn bộ năng lượng tàn dư (lột bỏ lớp vỏ) nên không thể tấn công IlHan ở thế giới bậc thấp; sau khi lừa gạt bảo vệ 19 ấu long thất bại, hắn chiêu dụ IlHan gia nhập Quân Đội Ma Hủy Diệt trước khi rời đi.
+
+### Mirfa
+- Giới tính, vai trò: Nữ elf, 518 tuổi nhưng ngoại hình như mới 25 tuổi; nhân vật số hai được công nhận của tộc elf tại Daréu nhờ thông thạo cả chiến đấu lẫn năng lực sản xuất.
+- Trạng thái tính đến chương 103: Tiếp nhận tạo tác ma thạch Chế Tác Mana từ Yu IlHan để chia sẻ quyền điều khiển ma pháp trận của đế chế elf; chỉ huy việc tái thiết và phòng thủ Daréu khi IlHan trở về Trái Đất.
+
+### Nhóm 4 Elf theo Yu IlHan
+- Mirey: Nữ elf chiến binh đại kiếm Lv 87.
+- Paté: Nam elf cung thủ Lv 86.
+- Jirl: Nam elf chiến binh khiên Lv 85.
+- Phiria: Nữ elf đạo tặc Lv 83.
+- Đặc điểm chung: Đều là các chiến binh mạnh nhất vượt qua trận hỗn chiến tuyển chọn; nhờ ăn thịt theo lệnh IlHan mà cơ bắp săn chắc nhưng cả 4 người (kể cả 2 nam elf) đều sở hữu dung nhan đẹp tựa mỹ nữ; được IlHan đưa theo về Trái Đất.
+

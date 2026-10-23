@@ -636,3 +636,10 @@ Dùng ma pháp trận xác nhận loài rồng đã hoàn toàn tuyệt diệt, 
 Nhận ra anh thừa kế vị anh hùng Reta Kar'iha và là chủ nhân ma pháp trận, toàn thể 1.527 elf đồng loạt quỳ gối tôn xưng IlHan làm Hoàng đế bệ hạ; bất lực trước sự kiên quyết và sùng kính của họ, IlHan đành chấp nhận danh xưng và quyết định ở lại 10 ngày để tái thiết cộng đồng.
 Anh dẫn các elf về tàn tích của cố đô đế chế, phân công nhóm phi chiến đấu dựng nhà và tích trữ lương thực, đồng thời trực tiếp "dạy dỗ bằng đòn roi" rèn luyện kỹ năng chiến đấu cho nhóm chiến binh rồi phân đội đưa họ đi săn quái yếu qua ma pháp trận.
 Cảnh kết thúc: Thấy trang bị của các elf quá rách nát, IlHan quyết định tự tay rèn vũ khí đơn giản cho họ trước khi đi; Erta trêu chọc anh làm việc như hoàng đế còn IlHan ví von công việc tái thiết này thú vị chẳng khác nào đang chơi Sim City.
+
+## 103
+Yu IlHan dùng xác Long tộc chuyển chức 3 chỉ dạy thợ rèn elf và dập khuôn rèn hàng loạt trang bị từ phẩm cấp Hiếm trở lên; anh đồng thời dạy đám chức nghiệp phi chiến đấu cách săn quái không độc, giải phẫu và làm các loại thực phẩm bảo quản, giúp cộng đồng elf hồi sinh vượt bậc chỉ sau 20 ngày.
+Khi IlHan tuyên bố trở về Trái Đất, toàn thể tộc elf òa khóc nức nở níu giữ khiến anh lúng túng trước tình cảm chân thành; IlHan trao tạo tác ma thạch Chế Tác Mana cho nữ elf số hai Mirfa để phân chia quyền điều khiển ma pháp trận của đế chế.
+Trước sự nài nỉ và tấn công dồn dập bằng ánh mắt của các elf, IlHan đồng ý cho 4 người mạnh nhất vượt qua trận đại chiến sinh tồn (nữ đại kiếm Mirey, nam cung thủ Paté, nam khiên binh Jirl, nữ đạo tặc Phiria) theo chân anh về Trái Đất với điều kiện không được gọi anh là Bệ hạ.
+Cảnh kết thúc: Mượn sức mạnh của Erta đục "lỗ chó" xuyên qua cánh cổng, Yu IlHan cùng 4 elf bước chân trở về Trái Đất và bàng hoàng nhận ra suốt 3 tháng anh vắng bóng, nơi đây vẫn hoàn toàn thái bình mà chưa hề xảy ra Đại Tai Biến lần 2 như anh lo sợ.
+

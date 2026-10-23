@@ -36,6 +36,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lecidna | con rồng / Lecidna / cô nàng | 90 | Con rồng vảy vàng kim thuộc phe Khu Vườn Hoàng Hôn |
 | Karrows | hắn / con rồng đen / Karrows | 98 | Con rồng vảy đen chuyển chức 4 tự xưng thủ lĩnh phe địch |
 | Teraka | hắn / con rồng / Teraka | 101 | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt |
+| Mirfa | cô / Mirfa | 103 | Nữ elf số hai tộc elf tại Daréu |
+| Mirey | cô / Mirey | 103 | Nữ elf chiến binh đại kiếm theo IlHan |
+| Paté | cậu / Paté | 103 | Nam elf cung thủ theo IlHan |
+| Jirl | cậu / Jirl | 103 | Nam elf chiến binh khiên theo IlHan |
+| Phiria | cô / Phiria | 103 | Nữ elf đạo tặc theo IlHan |
 
 ## Giữa các nhân vật
 
@@ -126,4 +131,14 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Teraka | tôi / ta | ngươi | 101 | IlHan đối đáp với rồng chuyển chức 5 Teraka |
 | Teraka | Erta | ta | các ngươi / ả | 101 | Teraka mỉa mai thiên thần Quân Đội Thiên Giới |
 | Erta | Teraka | ta / tôi | ngươi / các ngươi | 101 | Erta phẫn nộ trước lời chiêu dụ của Teraka |
+| Yu IlHan | Mirfa | tôi | cô / Mirfa | 103 | IlHan giao phó ma pháp trận cho Mirfa |
+| Mirfa | Yu IlHan | thần / tôi | Bệ hạ | 103 | Mirfa đối thoại với Hoàng đế Yu IlHan |
+| Yu IlHan | Mirey | tôi | cô / Mirey | 103 | IlHan chỉ thị cho Mirey |
+| Mirey | Yu IlHan | thần / tôi | Bệ hạ / Yu IlHan | 103 | Mirey đối thoại với Yu IlHan |
+| Yu IlHan | Paté | tôi | cậu / Paté | 103 | IlHan chỉ thị cho Paté |
+| Paté | Yu IlHan | thần / tôi | Bệ hạ / Yu IlHan | 103 | Paté đối thoại với Yu IlHan |
+| Yu IlHan | Jirl | tôi | cậu / Jirl | 103 | IlHan chỉ thị cho Jirl |
+| Jirl | Yu IlHan | thần / tôi | Bệ hạ / Yu IlHan | 103 | Jirl đối thoại với Yu IlHan |
+| Yu IlHan | Phiria | tôi | cô / Phiria | 103 | IlHan chỉ thị cho Phiria |
+| Phiria | Yu IlHan | thần / tôi | Bệ hạ / Yu IlHan | 103 | Phiria đối thoại với Yu IlHan |
 

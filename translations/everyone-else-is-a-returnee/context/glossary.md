@@ -486,3 +486,5 @@
 | Immature Dragon |  | Ấu Long | quái vật | 101 | Quái vật rồng sơ sinh chưa thức tỉnh của bầy rồng Quân Đội Ma Hủy Diệt |
 | Emperor |  | Hoàng đế | danh hiệu | 102 | Danh xưng người trị vì đế chế elf mà các elf tôn xưng Yu IlHan sau khi anh tiêu diệt toàn bộ loài rồng và làm chủ ma pháp trận |
 | Sim City |  | Sim City | khác | 102 | Được phép giữ nguyên: Trò chơi điện tử mô phỏng quản lý đô thị mà Yu IlHan liên tưởng khi chỉ đạo tái thiết cộng đồng elf |
+| Hollywood |  | Hollywood | địa danh | 103 | Được phép giữ nguyên: Đô thị điện ảnh nổi tiếng tại Los Angeles |
+| 2nd Great Cataclysm |  | Đại Tai Biến lần 2 | hệ thống | 62 | Đợt bùng nổ mana và nâng cấp thế giới tiếp theo của Trái Đất |
