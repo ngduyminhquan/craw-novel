@@ -67,7 +67,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 60 |  | Chapter_060 - I Carry (7).txt | I Carry (7) | reviewed |  |
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | done |  |
 | 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | done |  |
-| 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | todo |  |
+| 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | done |  |
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | todo |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | todo |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | todo |  |
@@ -585,3 +585,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#61] Nguyên liệu "Dark Yarn" — Tạm chọn: "Sợi Chỉ Bóng Tối". Phương án khác: "Hắc Chỉ", "Sợi Hắc Chỉ". Tạm dùng trong bản dịch: "Sợi Chỉ Bóng Tối". → Chốt Sợi Chỉ Bóng Tối. (orchestrator)
 - [#62] Dịch tên 2 tổ chức thực thể cấp cao Destruction Demon Army và Brilliant Army of Light → Chốt 'Quân Đội Ma Hủy Diệt' và 'Quân Đội Ánh Sáng Rực Rỡ' (đồng bộ với Quân Đội Thiên Giới) (orchestrator)
 - [#62] Lời thoại ngắn [Yes.] (T/N: As opposed to 'no' above) của Spiera khi túm lưng áo Lita → Chấp nhận dịch thoát ý thành '[Phải đi.]' để đối lập tự nhiên với lời từ chối trước đó của Lita (orchestrator)
+- [#63] Thuật ngữ Dungeon Break → Chốt 'Vỡ Hầm Ngục' (orchestrator)

@@ -343,3 +343,4 @@
 | Garden of Sunset |  | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
 | Brilliant Army of Light | Army of Brilliant Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
 | Suspension of Activity |  | Đình Chỉ Hoạt Động | hệ thống | 62 | Hình phạt phong ấn quyền hạn và hoạt động của thiên thần |
+| Dungeon Break | Dungeon Breaks | Vỡ Hầm Ngục | hệ thống | 63 | Hiện tượng Bẫy Hủy Diệt bị phá vỡ do nồng độ mana tăng cao sau Đại Tai Biến lần 2 |

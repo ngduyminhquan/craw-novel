@@ -380,3 +380,9 @@ Yu IlHan một mình dọn dẹp hầm ngục Quegna ở Sơn Đông lấy xươ
 Tàn niệm của Reta Kar'iha bất ngờ thức tỉnh trong đại não IlHan, thỉnh cầu anh thay cô báo thù loài rồng (Long tộc) từng hủy diệt thế giới của mình.
 Tại Thiên giới, trước sự do dự muốn giảm nhẹ hình phạt cho tên thiên thần phản bội từ hội đồng, nữ thiên thần cấp cao Spiera lạnh lùng dùng thương ánh sáng xử trảm kẻ tội đồ sau khi tra hỏi về các thế lực chủ mưu đứng sau (Quân Đội Ma Hủy Diệt, Khu Vườn Hoàng Hôn, Quân Đội Ánh Sáng Rực Rỡ).
 Cảnh kết thúc: Báo trước một cuộc đại chiến sắp ập đến khi con đập nghiệp chướng vỡ vụn, Spiera túm cổ áo bắt Lita đi đợt đặc huấn nâng cao thực lực bất chấp lời kêu khóc muốn về Trái Đất cùng IlHan của cô, trong khi Yu IlHan và Erta hoàn toàn chẳng hề hay biết.
+
+## 63
+Erta dùng Vòng thiên thần tăng cường độ giao cảm với Yu IlHan để cùng lắng nghe tàn niệm Reta Kar'iha kể về thảm kịch quê hương Daréu: các đợt Đại Tai Biến dồn dập khiến loài rồng bùng nổ tàn sát hết con người và elf; bị trọng thương sau hàng trăm năm kháng cự và bị Thiên giới ruồng bỏ, Reta đành sa đọa thành Kẻ Phá Vỡ và phong ấn tàn niệm vào trang bị tử thần chờ người kế thừa.
+Erta cảnh báo hầm ngục Grand Canyon phong ấn lối sang Daréu có nguy cơ phát sinh Vỡ Hầm Ngục khi mana Trái Đất tăng vọt sau Đại Tai Biến lần 2 (dự kiến còn 50 năm nhưng đang bị rút ngắn), tạo điều kiện cho loài rồng tràn sang; tuy nhiên trong Thế Giới Bị Bỏ Rơi, IlHan có thể dùng kỹ năng Thiên Thần Chi Viện để tăng 1,5 lần thực lực.
+Reta đề nghị giúp IlHan bằng cách trao quyền vận hành ma pháp trận cổ đại của đế chế elf (nhìn thấu cấp độ quái và dịch chuyển tức thời khắp đại lục Daréu) thông qua sinh mệnh lực của cô và ma thạch.
+Cảnh kết thúc: Yu IlHan quyết định tự mình bí mật sang Daréu săn tỉa lũ rồng yếu trước thời hạn vì muốn độc chiếm toàn bộ da rồng quý giá, khiến Erta và Reta cạn lời nhận ra kẻ giết mình đích thị là một tên đại biến thái.

@@ -93,3 +93,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lita | Spiera | tôi | Spiera / cô | 62 | Lita đối thoại và phản đối lệnh đặc huấn của Spiera |
 | Spiera | Myuta | tôi | ngài / Myuta | 62 | Spiera chất vấn chủ tọa hội đồng thiên thần |
 | Myuta | Spiera | ta / tôi | Spiera / cô | 62 | Chủ tọa hội đồng khuyên can Spiera |
+| Erta | Reta Kar'iha | ta / tôi | ngươi / cô | 63 | Erta chất vấn và khiển trách tàn niệm Reta Kar'iha |
+| Reta Kar'iha | Erta | tôi | thiên thần / cô | 63 | Reta đối thoại và giải thích với Erta |
