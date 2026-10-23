@@ -449,3 +449,9 @@
 | World Hunt |  | Cuộc Săn Thế Giới | khác | 84 | Khái niệm chỉ chiến dịch đi săn quái vật quét sạch cả một thế giới của Yu IlHan |
 | mana sickness |  | say mana | khác | 84 | Hiện tượng choáng váng do tiếp xúc với nồng độ mana quá đậm đặc ở thế giới khác |
 | cheer pack |  | túi cheer pack | vật phẩm | 84 | Bao bì dạng túi có vòi nắp vặn dùng đựng thức uống máu |
+| Dark death god's Dragon fighter Black bone giant spear |  | Hắc Cốt Đại Thương Đấu Long Hắc Tử Thần | vật phẩm | 85 | Ngọn thương phẩm cấp Truyền Thuyết do Yu IlHan gia công từ Thiên Tùng Vân Kiếm kết hợp các dòng thuộc tính từ Thương Gai Diệt Long Hắc Tử Thần |
+| Black Bone Giant Spear |  | Hắc Cốt Đại Thương | vật phẩm | 85 | Vũ khí đại thương chế tác từ Thiên Tùng Vân Kiếm (xương của Yamata no Orochi) |
+| Great Jaw |  | Cự Ngạc | quái vật | 85 | Quái vật Long tộc chuyển chức 3 cấp 176 tại Daréu có hình dạng chắp vá với đôi cánh nhỏ và bộ hàm hung tợn |
+| Reaper |  | Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan |
+| God's Hammer |  | Thần Chùy | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan |
+| Blazing Reaper |  | Liệt Hỏa Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan kết hợp hỏa diễm |
