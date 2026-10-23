@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T21:24:39Z",
+  "generatedAt": "2026-10-23T21:31:30Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -545,6 +545,12 @@
           "title": "Chương 90: Bạn, Tôi, Kẻ Xa Lạ 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_090.md",
           "sha": "288641c996c12a61552096e00e977284173cff13"
+        },
+        {
+          "number": 91,
+          "title": "Chương 91: Bạn, Tôi, Kẻ Xa Lạ 9",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_091.md",
+          "sha": "9a2b5df24d23f211fdd4dded78194f522f17c9fa"
         }
       ]
     }

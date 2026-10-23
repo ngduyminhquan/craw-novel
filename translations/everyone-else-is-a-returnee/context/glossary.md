@@ -466,3 +466,6 @@
 | fusion evolution | fusion evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
 | Absolute Accuracy |  | Tuyệt Đối Chuẩn Xác | kỹ năng | 90 | Kỹ năng độc nhất tiến hóa dung hợp từ Thuật Ném và Xạ Kích |
 | Gungnir |  | Gungnir | vật phẩm | 90 | Được phép giữ nguyên: Ngọn giáo bách phát bách trúng của thần Odin trong thần thoại Bắc Âu |
+| Strike Force |  | Lực Lượng Đột Kích | tổ chức | 91 | Đơn vị tác chiến độc lập của Quân Đội Thiên Giới tại Bức Tường Hỗn Loạn |
+| Bloodied Angel |  | Huyết Thiên Thần | danh hiệu | 91 | Biệt hiệu của thiên thần Liera do kẻ địch ở Bức Tường Hỗn Loạn khiếp sợ đặt cho |
+| archangel |  | đại thiên thần | cấp bậc | 91 | Thiên thần cấp cao sở hữu sức mạnh vượt trội trong Quân Đội Thiên Giới |

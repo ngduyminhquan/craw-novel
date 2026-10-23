@@ -555,3 +555,9 @@ Tốc độ săn quét tăng vọt giúp anh tiêu diệt 816/1.000 con rồng c
 Sau cú đào thoát ngoạn mục qua ma pháp trận của anh, hai con rồng ở lại bất ngờ tiết lộ một bộ phận Long tộc tại Daréu quy thuận Quân Đội Ma Hủy Diệt (thế lực đối địch với Thiên giới tại Bức Tường Hỗn Loạn), âm mưu mượn sự sụp đổ của thế giới để tiến hóa thành thực thể cấp cao và tràn sang thế giới khác.
 Chỉ còn 2 ngày và 43 con rồng để hoàn thành nhiệm vụ chạy đua thời gian, IlHan giục Reta kích hoạt ma pháp trận dịch chuyển tới mục tiêu kế tiếp.
 Cảnh kết thúc: Vừa dịch chuyển tới nơi, Yu IlHan ngỡ ngàng phát hiện một con rồng vảy vàng kim đang say ngủ, phía trước cắm tấm biển với thông điệp bất ngờ gửi đến sứ giả của Quân Đội Thiên Giới để yêu cầu đàm phán.
+
+## 91
+Tại Bức Tường Hỗn Loạn, Lita (nay mang tên mới là Liera sau khi thăng cấp lên chuyển chức 6) một mình thuộc Lực Lượng Đột Kích 11 quét sạch bầy kẻ săn mồi chuyển chức 5 và 6 của Quân Đội Ma Hủy Diệt; dù bị kẻ địch dùng mưu kế dịch chuyển sang bên kia chiến tuyến và đe dọa IlHan đã bị bắt, cô kích nổ sóng nén từ găng tay tiêu diệt gần hết kẻ địch cấp 6 rồi một mình cầm thương ánh sáng tử chiến vì tin tưởng IlHan không thể bị bắt.
+Ở Daréu, IlHan đóng cọc giăng bẫy 12 cọc Orochi quanh con rồng vàng kim đang say ngủ rồi mới giải trừ Ẩn Thân để thẩm vấn; con rồng bất ngờ nói tiếng Anh lưu loát và hoảng loạn cầu xin lập tổ đội.
+Con rồng tiết lộ mình thuộc phe phái tuân theo mặc khải của Khu Vườn Hoàng Hôn, đã tập hợp bầy rồng chống lại mưu đồ thôn tính Daréu của Quân Đội Ma Hủy Diệt và bí mật che giấu loài elf.
+Cảnh kết thúc: Nghe con rồng tiết lộ Quân Đội Ma Hủy Diệt từng hủy diệt Daréu và hiện đang nhắm vào Trái Đất, Yu IlHan cẩn thận hạ ngọn lao săn xuống và đồng ý ngồi lại nói chuyện thêm.

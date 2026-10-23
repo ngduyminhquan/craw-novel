@@ -30,6 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
+| Liera |  | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
 
 ## Chi tiết
 
@@ -131,6 +132,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 62: Bị Spiera giữ lại Thiên giới bắt tham gia đợt đặc huấn nâng cao thực lực trước thềm đại chiến sắp tới, khiến thời gian trở lại Trái Đất cùng Yu IlHan bị trì hoãn.
 - Trạng thái tính đến chương 64: Trở về bên Yu IlHan sau khi kẻ phản bội bị tra hỏi; ôm chặt IlHan đòi sạc năng lượng và trao phần thưởng Nhiệm Vụ Thiên Giới; phải chuẩn bị cho việc thăng cấp nên mỗi ngày vắng mặt vài tiếng để tham gia đặc huấn trên Thiên giới nhưng hứa sẽ luôn theo sát IlHan khi vào hầm ngục.
 - Trạng thái tính đến chương 77: Được phê duyệt thăng cấp không cần qua bài kiểm tra và sắp nhận tên mới; được điều động ra tiền tuyến Bức Tường Hỗn Loạn tham chiến chống lại những kẻ săn mồi; ôm hôn má IlHan chia tay và đe dọa Erta không được 'tiến triển' với IlHan trong lúc cô vắng mặt.
+- Trạng thái tính đến chương 91: Đã chính thức nhận tên mới là Liera sau khi chuyển chức lên cấp 6 (xem chi tiết tại mục Liera).
+
+### Liera
+- Giới tính, vai trò: Nữ thiên thần, đại thiên thần thuộc Quân Đội Thiên Giới, chuyển chức lần 6; tên mới của Lita sau khi thăng cấp (lộ diện từ chương 91).
+- Tính cách, cách nói chuyện: Kế thừa trọn vẹn tình cảm sâu đậm và thói quen gọi tên Yu IlHan mọi lúc mọi nơi; trong chiến đấu vô cùng thiện chiến, hung mãnh và quyết đoán, được kẻ thù gán cho danh xưng 'Huyết Thiên Thần'.
+- Trạng thái tính đến chương 91: Là thành viên duy nhất của Lực Lượng Đột Kích 11 tại tiền tuyến Bức Tường Hỗn Loạn; sở hữu sức mạnh kết hợp hoàn hảo giữa quyền thuật và thương ánh sáng; quét sạch bầy kẻ săn mồi chuyển chức 5 và 6 của Quân Đội Ma Hủy Diệt; bị phục kích dịch chuyển sang phía bên kia Bức Tường Hỗn Loạn nhưng dùng đòn kích nổ găng tay tiêu diệt hầu hết kẻ địch cấp 6 xung quanh, sau đó một mình cầm thương ánh sáng lao vào tử chiến vì tin tưởng IlHan đang đợi mình.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.

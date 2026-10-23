@@ -95,7 +95,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 88 |  | Chapter_088 - You, I, Strangers 6.txt | You, I, Strangers 6 | reviewed |  |
 | 89 |  | Chapter_089 - You, I, Strangers 7.txt | You, I, Strangers 7 | reviewed |  |
 | 90 |  | Chapter_090 - You, I, Strangers 8.txt | You, I, Strangers 8 | reviewed |  |
-| 91 |  | Chapter_091 - You, I, Strangers 9.txt | You, I, Strangers 9 | todo |  |
+| 91 |  | Chapter_091 - You, I, Strangers 9.txt | You, I, Strangers 9 | done |  |
 | 92 |  | Chapter_092 - You, I, Strangers 10.txt | You, I, Strangers 10 | todo |  |
 | 93 |  | Chapter_093 - You, I, Strangers 11.txt | You, I, Strangers 11 | todo |  |
 | 94 |  | Chapter_094 - You, I, Strangers 12.txt | You, I, Strangers 12 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -664,3 +663,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#89] Danh hiệu "The Quickest" (thực thể cấp thấp tiên phong khai phá kỹ năng độc nhất nhanh nhất) → Chốt "Cực Tốc Giả" theo quy tắc Hán Việt ngắn gọn của rules.md cho tên danh hiệu. (orchestrator)
 - [#89] Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ("(Translation changes: Close combat -> Physical Combat, this would be 'taijutsu' in JP)") → Chấp nhận bỏ qua không dịch, thêm vào raw_ignore_lines trong novel.json và cập nhật mục "Riêng truyện này" trong rules.md theo bước B2 của novel-translate. (orchestrator)
 - [#90] Cụm từ "raise flags" ở chương 90 đoạn 122 nên Việt hóa thành "dựng điềm báo / cắm cờ báo tử", hay giữ nguyên tiếng lóng "dựng flag"? → Chấp nhận Việt hóa thoát ý thành "dựng được vài điềm báo" để tránh sót từ tiếng Anh trong lời dẫn. (orchestrator)
+- [#91] Tên mới của Lita sau khi chuyển chức cấp 6 "Liera" — Đã thêm dòng riêng cho Liera trong characters.md và cập nhật pronouns.md (người kể gọi: "cô / Liera") theo đúng rules.md. → Chấp nhận thêm dòng riêng cho Liera trong characters.md, liên kết với dòng Lita, và cập nhật pronouns.md theo đúng quy định bước B4 của novel-translate. (orchestrator)
+- [#91] Biệt hiệu của Liera "Bloodied Angel" do kẻ địch ở Bức Tường Hỗn Loạn đặt cho — Tạm chọn: "Huyết Thiên Thần" (chuẩn Hán Việt ngắn gọn theo rules.md cho danh hiệu/biệt hiệu). Phương án khác: "Thiên Thần Nhuốm Máu". Tạm dùng trong bản dịch: "Huyết Thiên Thần". → Chốt "Huyết Thiên Thần" theo quy tắc Hán Việt ngắn gọn của rules.md cho danh hiệu/biệt hiệu. (orchestrator)
+- [#91] Đơn vị tác chiến độc lập "Strike Force 11" của Liera tại Bức Tường Hỗn Loạn — Tạm chọn: "Lực Lượng Đột Kích 11". Phương án khác: "Đội Đột Kích 11". Tạm dùng trong bản dịch: "Lực Lượng Đột Kích 11". → Chốt "Lực Lượng Đột Kích" cho "Strike Force" ("Lực Lượng Đột Kích 11"). (orchestrator)
+- [#91] Lời thoại cầu xin của rồng vàng kim "Let us party." — Tạm chọn: "Lập tổ đội đi." (theo ngữ cảnh thuật ngữ game). Phương án khác: "Hãy lập đội đi.", "Lập nhóm đi.". Tạm dùng trong bản dịch: "Lập tổ đội đi." → Chốt "Lập tổ đội đi." sát nghĩa thuật ngữ game (party) và tạo hiệu ứng hài hước trong ngữ cảnh rồng xin lập nhóm với kẻ đi săn. (orchestrator)

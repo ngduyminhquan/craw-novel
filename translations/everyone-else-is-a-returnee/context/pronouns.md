@@ -32,6 +32,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael Smithson | hắn / gã / Smithson | 72 | Thủ lĩnh Clan Metal Knights |
 | Carina Malatesta | cô / Carina / Carina Malatesta | 73 | Chủ clan Magia (Ý) |
 | Takagaki Asuha | cô / Takagaki Asuha | 82 | Nữ chủ clan của Clan Ma Long (Nhật Bản) |
+| Liera | cô / Liera | 91 | Tên mới của Lita từ chương 91 |
 
 ## Giữa các nhân vật
 
