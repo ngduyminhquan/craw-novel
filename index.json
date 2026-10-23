@@ -1,0 +1,378 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T04:21:54Z",
+  "novels": [
+    {
+      "slug": "everyone-else-is-a-returnee",
+      "title": "Everyone Else Is A Returnee",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chương 1: Mở đầu",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_001.md",
+          "sha": "e6cad78d2a2069a89b2e13f15506855ba31b69b2"
+        },
+        {
+          "number": 2,
+          "title": "Chương 2: Tôi Sống Một Mình (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_002.md",
+          "sha": "02694bd2baad7fb1eab8852a7d2cc821aaa0f448"
+        },
+        {
+          "number": 3,
+          "title": "Chương 3: Tôi Sống Một Mình (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_003.md",
+          "sha": "db395cb27ee4d91d20fea89c964007bc9f4f5995"
+        },
+        {
+          "number": 4,
+          "title": "Chương 4: Tôi Sống Một Mình (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_004.md",
+          "sha": "1c15b0972e4b1763c45e397bdb6e53c4ef6c0c06"
+        },
+        {
+          "number": 5,
+          "title": "Chương 5: Không Thể Thấy Tôi Sao? (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_005.md",
+          "sha": "f97153d29eb0563945595d0192422bc96c7e4f80"
+        },
+        {
+          "number": 6,
+          "title": "Chương 6: Không Thể Thấy Tôi Sao? (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_006.md",
+          "sha": "dae654d5a3cae8096b4c3e6a3ecadf666dd93097"
+        },
+        {
+          "number": 7,
+          "title": "Chương 7: Không Thể Thấy Tôi Sao? (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_007.md",
+          "sha": "5e40ec6625c2d433b37f2d33c7cfc7df7e8f4494"
+        },
+        {
+          "number": 8,
+          "title": "Chương 8: Không Thể Thấy Tôi Sao? (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_008.md",
+          "sha": "f5773c04449a17ba3723c0d20ec84221044fd985"
+        },
+        {
+          "number": 9,
+          "title": "Chương 9: Không Thể Thấy Tôi Sao? (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_009.md",
+          "sha": "769449be70961094bdab3fe2dc60c65c3a19287d"
+        },
+        {
+          "number": 10,
+          "title": "Chương 10: Tôi Đi Săn Một Mình (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_010.md",
+          "sha": "b60d2358d12441040dbabeb92a0e124092bd358e"
+        },
+        {
+          "number": 11,
+          "title": "Chương 11: Tôi Đi Săn Một Mình (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_011.md",
+          "sha": "0619cee2e82186e9e8ccbddb1f7fc6ab106b6165"
+        },
+        {
+          "number": 12,
+          "title": "Chương 12: Tôi Đi Săn Một Mình (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_012.md",
+          "sha": "968f3964beb00fb013be26b33fba3860f70d64bb"
+        },
+        {
+          "number": 13,
+          "title": "Chương 13: Tôi Đi Săn Một Mình (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_013.md",
+          "sha": "65d44697f2a3463feb0c402c19b0004738c3440e"
+        },
+        {
+          "number": 14,
+          "title": "Chương 14: Tôi Đi Săn Một Mình (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_014.md",
+          "sha": "c1c2d03c613cd93fdfaa3c5cb414a0c7c09ba3a3"
+        },
+        {
+          "number": 15,
+          "title": "Chương 15: Tôi Tự Tạo Ra Chúng (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_015.md",
+          "sha": "afe0cdc6038490d92e1894f48a41e27c47fe0c32"
+        },
+        {
+          "number": 16,
+          "title": "Chương 16: Tôi Tự Tạo Ra Chúng (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_016.md",
+          "sha": "b64ac9f0b38f4852c1f974941fdadcde02404697"
+        },
+        {
+          "number": 17,
+          "title": "Chương 17: Tôi Tự Tạo Ra Chúng (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_017.md",
+          "sha": "9b846b76010ed5a07943a023736ce6f9d11bb3d0"
+        },
+        {
+          "number": 18,
+          "title": "Chương 18: Tôi Tự Tạo Ra Chúng (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_018.md",
+          "sha": "7a0a3b962df1cdfea861af4ecb2dc2e00aa4ab9d"
+        },
+        {
+          "number": 19,
+          "title": "Chương 19: Tôi Tự Tạo Ra Chúng (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_019.md",
+          "sha": "5019ee2473d7d63ed068d5f7ea7b162c45fdca4f"
+        },
+        {
+          "number": 20,
+          "title": "Chương 20: Cô Muốn Đi Săn Cùng Tôi Sao!? (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_020.md",
+          "sha": "d94c020b13fa3c756c35c6cf7d06396143c992f0"
+        },
+        {
+          "number": 21,
+          "title": "Chương 21: Cô Muốn Đi Săn Cùng Tôi Sao!? (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_021.md",
+          "sha": "911ffb96c1cd10b16422f733a424318e9f37da8c"
+        },
+        {
+          "number": 22,
+          "title": "Chương 22: Cô Muốn Đi Săn Cùng Tôi Sao!? (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_022.md",
+          "sha": "fda40d8f79249b82142893c7549c8bcd324dcf1d"
+        },
+        {
+          "number": 23,
+          "title": "Chương 23: Cô Muốn Đi Săn Cùng Tôi Sao!? (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_023.md",
+          "sha": "46c80f20c73e87d75a08f4acb4e417c245cd6b92"
+        },
+        {
+          "number": 24,
+          "title": "Chương 24: Cô có muốn đi săn cùng tôi không!? (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_024.md",
+          "sha": "78bbbce5e2de35740e52d848ceafcd8807bb9209"
+        },
+        {
+          "number": 25,
+          "title": "Chương 25: Cô Muốn Đi Săn Cùng Tôi Sao!? (6)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_025.md",
+          "sha": "f3458462d3bc1d887a8eec0b64fdffb2d1f187c0"
+        },
+        {
+          "number": 26,
+          "title": "Chương 26: Cứ Gọi Tôi Là Ishmael (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_026.md",
+          "sha": "df656f9c3f0410182cc1d416064aa978a15f0516"
+        },
+        {
+          "number": 27,
+          "title": "Chương 27: Cứ Gọi Tôi Là Ishmael (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_027.md",
+          "sha": "c6aa30c41041eea86c256ffafb8ef7479ecc4691"
+        },
+        {
+          "number": 28,
+          "title": "Chương 28: Gọi Tôi Là Ishmael (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_028.md",
+          "sha": "1de1ee2878b710d1393ce17f676fb3089ed8e51f"
+        },
+        {
+          "number": 29,
+          "title": "Chương 29: Cứ Gọi Tôi Là Ishmael (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_029.md",
+          "sha": "6f05c7ed40d11c29ddf071efd1d9e75004a04776"
+        },
+        {
+          "number": 30,
+          "title": "Chương 30: Tôi Cũng Đi Hầm Ngục (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_030.md",
+          "sha": "17ef016b1bebb418e8ec28efb5fa7dd35e6d9683"
+        },
+        {
+          "number": 31,
+          "title": "Chương 31: Tôi Cũng Đi Hầm Ngục (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_031.md",
+          "sha": "643a80a54354b0ae66807a7b5e6af5206744e4a0"
+        },
+        {
+          "number": 32,
+          "title": "Chương 32: Tôi Cũng Đi Hầm Ngục (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_032.md",
+          "sha": "22ce089e41aa262ceaf61be8671e78189350d339"
+        },
+        {
+          "number": 33,
+          "title": "Chương 33: Tôi Cũng Đi Hầm Ngục (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_033.md",
+          "sha": "93038e151712f205d536bdcf176a2821f766e4c2"
+        },
+        {
+          "number": 34,
+          "title": "Chương 34: Hiện Tượng Tràn (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_034.md",
+          "sha": "9a12f581505e7805f7691fb37ce6bda316077119"
+        },
+        {
+          "number": 35,
+          "title": "Chương 35: Hiện Tượng Tràn (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_035.md",
+          "sha": "8ddbc09c5d7c1c6d00ddde9698318504f38484e1"
+        },
+        {
+          "number": 36,
+          "title": "Chương 36: Hiện Tượng Tràn (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_036.md",
+          "sha": "67bf8194ed256644c41659893dba79695a84088b"
+        },
+        {
+          "number": 37,
+          "title": "Chương 37: Hiện Tượng Tràn (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_037.md",
+          "sha": "1c3835922f56052dbe48c437e8d00c3c1cbd1bb3"
+        },
+        {
+          "number": 38,
+          "title": "Chương 38: Hiện Tượng Tràn (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_038.md",
+          "sha": "d06270b785104b58921167def4ec8fc3b58b64d4"
+        },
+        {
+          "number": 39,
+          "title": "Chương 39: Tôi cũng chuyển chức lần 2 (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_039.md",
+          "sha": "0990d31f3d0f517a371593fc2e179c19df12e6c0"
+        },
+        {
+          "number": 40,
+          "title": "Chương 40: Tôi Cũng Chuyển Chức Lần 2 (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_040.md",
+          "sha": "2f4220471d232fe1c9fd6fbe32f37d4d80abfc0e"
+        },
+        {
+          "number": 41,
+          "title": "Chương 41: Tôi cũng chuyển chức lần 2 (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_041.md",
+          "sha": "4392d57f49e1e9e21ab88cd45c4ef463e4c2ae09"
+        },
+        {
+          "number": 42,
+          "title": "Chương 42: Tôi Cũng Chuyển Chức Lần 2 (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_042.md",
+          "sha": "92db06a4684b763e3a40e335479c1500f604b380"
+        },
+        {
+          "number": 43,
+          "title": "Chương 43: Tôi cũng chuyển chức lần 2 (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_043.md",
+          "sha": "88316e3832c9a18c4b97eb3903b25a7ebe87c1ee"
+        },
+        {
+          "number": 44,
+          "title": "Chương 44: Tôi cũng chuyển chức lần 2 (6)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_044.md",
+          "sha": "d0dba18f7cb95b8cab79761c5f8b99fcdc6b541a"
+        },
+        {
+          "number": 45,
+          "title": "Chương 45: Tôi cũng chuyển chức lần 2 (7)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_045.md",
+          "sha": "0bdc7da391330bffc650b3e34350afe9dabbf369"
+        },
+        {
+          "number": 46,
+          "title": "Chương 46: Tôi cũng chuyển chức lần 2 (8)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_046.md",
+          "sha": "b336a15bfc7d15f69e89801770dfa5472a90224e"
+        },
+        {
+          "number": 47,
+          "title": "Chương 47: Tôi cũng chuyển chức lần 2 (9)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_047.md",
+          "sha": "6c6514b5afb9ce5dd94aa81318a528f32ccab77f"
+        },
+        {
+          "number": 48,
+          "title": "Chương 48: Tôi cũng chuyển chức lần 2 (10)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_048.md",
+          "sha": "0744e1f98b7436f912b4e3cc243dcf88bb9a8b6b"
+        },
+        {
+          "number": 49,
+          "title": "Chương 49: Bạn đồng hành dành riêng cho tôi (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_049.md",
+          "sha": "5303c7f528c94c6cd611d6dc8b57a95f75bb0f04"
+        },
+        {
+          "number": 50,
+          "title": "Chương 50: Bạn đồng hành dành riêng cho tôi (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_050.md",
+          "sha": "643d0380aef8b54fad7aaaf234c0ad43c709b6ee"
+        },
+        {
+          "number": 51,
+          "title": "Chương 51: Bạn đồng hành dành riêng cho tôi (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_051.md",
+          "sha": "c8dfe3ae425cea1fb48cd5fc1eaf724c784a7cb4"
+        },
+        {
+          "number": 52,
+          "title": "Chương 52: Bạn đồng hành dành riêng cho tôi (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_052.md",
+          "sha": "e87a072fa39d1f3aa3f9a54b2cf3440667f19f99"
+        },
+        {
+          "number": 53,
+          "title": "Chương 53: Bạn đồng hành dành riêng cho tôi (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_053.md",
+          "sha": "68e4190328d6892f9df9db2d7d5960cecde1be4d"
+        },
+        {
+          "number": 54,
+          "title": "Chương 54: Tôi Gánh Vác (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_054.md",
+          "sha": "b94908b582218dd75d67661e2bb88d623817ddd1"
+        },
+        {
+          "number": 55,
+          "title": "Chương 55: Tôi Gánh Vác (2)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_055.md",
+          "sha": "97af2322ae14a4114c1f743cd6abedaf18314235"
+        },
+        {
+          "number": 56,
+          "title": "Chương 56: Tôi Gánh Vác (3)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_056.md",
+          "sha": "f2c3293540ba5fa5b9e50f0313c0700bc4f37842"
+        },
+        {
+          "number": 57,
+          "title": "Chương 57: Tôi Gánh Vác (4)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_057.md",
+          "sha": "0a1cb534854e05cb6855a02030f95e8dd4226058"
+        },
+        {
+          "number": 58,
+          "title": "Chương 58: Tôi Gánh Vác (5)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_058.md",
+          "sha": "29cfc2b564e1c31a583f2cbe109f1467cb62354d"
+        },
+        {
+          "number": 59,
+          "title": "Chương 59: Tôi Gánh Vác (6)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_059.md",
+          "sha": "7cf28532bbd7bbcc09ccd1b8daa898125f3f02c8"
+        },
+        {
+          "number": 60,
+          "title": "Chương 60: Tôi Gánh Vác (7)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_060.md",
+          "sha": "a421dc8a8801f19ceda470f1b2fe4fc06c53d069"
+        },
+        {
+          "number": 61,
+          "title": "Chương 61: Tôi Gánh Vác (8)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_061.md",
+          "sha": "88714ba71b80ed387bc861953c2c9f9f55f7ed47"
+        }
+      ]
+    }
+  ]
+}

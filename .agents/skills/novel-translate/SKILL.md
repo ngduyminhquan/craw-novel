@@ -115,6 +115,18 @@ Cập nhật xong thì chạy `python .agents/skills/novel-translate/scripts/lin
 python .agents/skills/novel-translate/scripts/progress.py <slug> set N done
 ```
 
+### Sau khi dịch xong lượt — cập nhật `index.json`
+
+Dịch xong mọi chương của lượt (hoặc sau mục D), chạy từ repo root:
+
+```
+python scripts/build_index.py
+```
+
+Script ghi lại `index.json` ở gốc repo (danh sách truyện và chương cho app đọc, spec ở `index-json-spec.md`). Thoát với `[LỖI]` (trùng số chương, `novel.json` sai JSON...) thì sửa đúng file được nêu rồi chạy lại. `[cảnh báo] ... chưa git add` là bình thường khi chưa stage: khi commit thì commit `index.json` **cùng lúc** với các chương đó để `sha` khớp. Đã `git add` chương thì chạy lại script trước khi commit.
+
+Chạy dưới orchestrator thì **bỏ qua** bước này: orchestrator tự sinh `index.json` lúc commit.
+
 ## C. Review một loạt chương (chỉ đọc)
 
 Dùng khi được giao review, thường là 3 chương vừa dịch. **Không sửa file bản dịch hay file context.** Kết quả duy nhất là báo cáo.
@@ -160,7 +172,7 @@ Brief có ghi "chế độ orchestrator" thì:
 
 - Chỉ làm đúng việc và đúng chương được giao, rồi dừng. Không tự sang chương khác.
 - Không chờ user. Chỗ nào skill bảo "báo user, chờ duyệt" (bước A3, mục "Cần user xác nhận") thì ghi đề xuất và câu hỏi vào báo cáo, chọn phương án hợp lý nhất để làm tiếp, rồi kết thúc lượt. Orchestrator sẽ quyết và sửa lại nếu cần.
-- Không chạy `git` (add, commit, push). Orchestrator lo việc này.
+- Không chạy `git` (add, commit, push) và không chạy `scripts/build_index.py`. Orchestrator lo việc này; panel sửa file ngoài `translations/<slug>/` (kể cả `index.json`) sẽ bị orchestrator dừng vòng lặp.
 - Câu hỏi vẫn ghi vào mục "Cần user xác nhận" trong `progress.md`, đồng thời ghi vào mục "Câu hỏi" của báo cáo.
 
 ## Lệnh khác
@@ -177,5 +189,6 @@ python .agents/skills/novel-translate/scripts/qa_check.py <slug> 1-20          #
 
 Sau khi dịch xong một hoặc nhiều chương, báo ngắn gọn:
 - những chương đã xong và kết quả QA;
+- kết quả `build_index.py` (số truyện, số chương trong `index.json`), trừ khi chạy dưới orchestrator;
 - thuật ngữ, nhân vật, xưng hô mới đã thêm, mỗi mục một dòng `EN → VI`;
 - các mục mới trong "Cần user xác nhận", nếu có.

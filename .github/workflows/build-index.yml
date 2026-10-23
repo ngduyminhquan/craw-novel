@@ -1,0 +1,39 @@
+name: Build index.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "translations/**"
+      - "scripts/build_index.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build index.json
+        run: python3 scripts/build_index.py
+
+      # Script giữ nguyên generatedAt khi nội dung không đổi,
+      # nên index.json chỉ hiện trong git status khi có thay đổi thật.
+      - name: Commit and push
+        run: |
+          if [ -z "$(git status --porcelain -- index.json)" ]; then
+            echo "index.json không đổi, bỏ qua commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "chore: update index.json"
+          git push origin HEAD:main

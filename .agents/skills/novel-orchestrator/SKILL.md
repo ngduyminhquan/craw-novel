@@ -195,16 +195,20 @@ Brief cho subagent:
 ```
 Repo: <repo root>. Chạy đúng các lệnh sau theo thứ tự, không làm gì thêm, không hỏi lại:
   git add -- translations/<slug>/
+  python scripts/build_index.py
+  git add -- index.json
   git diff --cached --stat
   git commit -m "<message>"
   git push origin HEAD
+build_index.py thoát với mã khác 0 thì không commit, báo lại nguyên văn lỗi và dừng.
 Không có gì để commit thì báo lại và dừng.
 Push bị từ chối vì remote có commit mới: chạy git pull --rebase origin <nhánh hiện tại> rồi push lại một lần.
 Rebase bị conflict hoặc gặp lỗi khác: chạy git rebase --abort nếu đang rebase. Không force push. Báo lại nguyên văn lỗi.
 Báo lại: hash commit, danh sách file, kết quả push.
 ```
 
-- Chỉ stage `translations/<slug>/`, không bao giờ stage `.herdr/`.
+- Chỉ stage `translations/<slug>/` và `index.json`, không bao giờ stage `.herdr/`.
+- `index.json` (spec: `index-json-spec.md`) liệt kê truyện và chương cho app đọc. Chạy `build_index.py` **sau** `git add translations/<slug>/` để `sha` lấy đúng nội dung sắp commit. Nội dung không đổi thì script giữ nguyên file, không sinh thay đổi. GitHub Action `build-index.yml` cũng tự sinh lại khi push, nên commit thiếu `index.json` vẫn được sửa trên `main`.
 - Push lỗi (sai quyền, mất mạng, conflict) thì **dừng vòng lặp**, báo user. Commit local vẫn giữ.
 
 ## Dừng
