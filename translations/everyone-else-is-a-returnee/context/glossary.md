@@ -479,3 +479,4 @@
 | Flame Dragon |  | Hỏa Long | quái vật | 98 | Quái vật rồng lửa cấp 225 tại Daréu |
 | Blowing Barrier |  | Cuồng Phong Kết Giới | kỹ năng | 98 | Ma pháp phong hệ dựng kết giới gió phòng thủ của bầy rồng phe Khu Vườn Hoàng Hôn |
 | Storm Guard |  | Phong Bạo Hộ Thể | kỹ năng | 98 | Kỹ năng ma pháp phong hệ bao bọc cuồng phong quanh thân để phòng thủ và quấy nhiễu địch của Lecidna |
+| Cursed Dragon |  | Nguyền Long | quái vật | 99 | Quái vật loài rồng chuyển chức 4 cấp 242 (Karrows) sở hữu hỏa diễm nguyền rủa |

@@ -611,3 +611,9 @@ Bầy rồng đồng minh thuộc phe Khu Vườn Hoàng Hôn do rồng vàng ki
 Giữa chiến trường hỗn loạn, con rồng vảy đen chuyển chức 4 tên Karrows xưng là thủ lĩnh phe địch lao xuống tập kích; IlHan dùng Chuyển Giao Trọng Lượng ném xác quái triệu tấn cản đường, rồi đáp lên đầu rồng địch làm bàn đạp né ngọn hắc hỏa tàn bạo của Karrows (khiến con rồng đồng đội của Karrows bị thiêu rụi).
 Từ chối dùng Súng Bắn Cọc và lựu đạn bảo hiểm vì phán đoán kẻ tính cách ngông cuồng như Karrows chưa phải trùm cuối thật sự, Yu IlHan siết chặt Hắc Cốt Đại Thương lao vào trực diện giao chiến.
 Cảnh kết thúc: Bỏ mặc trọng lực rơi tự do trong tiếng gào thét của kẻ thù, hai 'thủ lĩnh' của hai phe Yu IlHan và Karrows chính thức va chạm kinh thiên động địa giữa không trung.
+
+## 99
+Yu IlHan trực diện va chạm với Karrows; anh dùng Chuyển Giao Trọng Lượng biến xác Long tộc thành đầu đạn triệu tấn bắn nát khoang miệng rồng đen, rồi đáp xuống chóp mũi nó liên tiếp giáng thương gây sát thương chí mạng.
+Karrows kích hoạt kết giới ma pháp kiểm soát không gian và biến toàn bộ mana thành biển hắc hỏa nguyền rủa nhằm thiêu rụi đối thủ, vô tình giúp kỹ năng Kháng Lời Nguyền Cấp Cao của IlHan thăng cấp liên tục lên Lv 21; IlHan trích xuất sinh mệnh lực rồng cấp 225 kích hoạt kỹ năng Liệt Hỏa kết hợp tử hỏa phá tan kết giới khiến cả hai rơi tự do.
+Karrows thi triển ma pháp Biến Hình hóa thân thành gã elf tóc đen hòng dịch chuyển tức thời tập kích sát sườn IlHan; IlHan lập tức kích hoạt dòng thuộc tính phóng lưỡi đao bọc Liệt Hỏa từ giáp nách đâm xuyên đầu kết liễu Karrows (Nguyền Long Lv 242), thu về hơn 3,5 tỷ EXP.
+Cảnh kết thúc: Vừa thu thập xác Karrows, Lecidna bất ngờ lao tới húc văng IlHan để che chắn trước một đòn phục kích nguy hiểm; một con rồng bí ẩn chưa từng lộ diện cắn chặt cổ Lecidna và lộ diện là trùm cuối thực sự sở hữu sức mạnh quái dị vượt xa mọi phương án dự phòng của Yu IlHan.

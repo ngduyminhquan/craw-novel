@@ -296,8 +296,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Con rồng vảy vàng kim (chuyển chức 4, giống cái) tại đại lục Daréu, thuộc thiểu số rồng tiếp nhận mặc khải từ Khu Vườn Hoàng Hôn bảo vệ loài elf.
 - Tính cách: Biết phân biệt phải trái, có phần ngại ngùng nhưng thẳng thắn, biết ơn IlHan và sẵn sàng hợp tác chia sẻ thông tin.
 - Trạng thái tính đến chương 92: Lập tổ đội đồng minh 238 thành viên với Yu IlHan; cho biết bầy rồng của Quân Đội Ma Hủy Diệt đang tập hợp; đồng ý để IlHan tác chiến độc lập.
+- Trạng thái tính đến chương 99: Lao tới húc văng che chắn cho Yu IlHan trước đòn tập kích bất ngờ của con rồng trùm cuối và bị nó ngoạm chặt lấy cổ.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
 - Ngoại hình / tính cách: Thân hình thuôn dài tương đối nhỏ gọn so với các rồng khác, tốc độ bay cực nhanh; giọng điệu ngông cuồng, tàn nhẫn, không ngần ngại thiêu chết đồng đội cản đường; tự xưng là thủ lĩnh của bầy rồng.
 - Xuất hiện tính đến chương 98: Tập kích Yu IlHan từ trên không; trúng đòn ném xác quái triệu tấn bọc Chuyển Giao Trọng Lượng của IlHan nhưng dùng hắc khí giải thể; phun hắc hỏa thiêu rụi cả đồng đội làm bệ dẫm chân của IlHan rồi lao vào quyết chiến với anh.
+- Trạng thái tính đến chương 99: Dùng kết giới hắc hỏa nguyền rủa và ma pháp Biến Hình thành dạng elf dịch chuyển không gian tập kích Yu IlHan, nhưng bị IlHan kích hoạt lưỡi đao bọc Liệt Hỏa từ giáp nách đâm xuyên đầu kết liễu; bị IlHan thu thập xác (Nguyền Long Lv 242).
