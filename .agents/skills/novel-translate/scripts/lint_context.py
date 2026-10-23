@@ -19,6 +19,8 @@ from common import TRANSLATED, entries, load_novel, load_progress, read_text, ta
 
 # Loại thuật ngữ mà rules.md yêu cầu dịch Hán Việt
 MUST_TRANSLATE = ("kỹ năng", "danh hiệu", "chức nghiệp", "cấp bậc")
+KINDS = {"kỹ năng", "danh hiệu", "chức nghiệp", "cấp bậc", "vật phẩm", "địa danh", "tổ chức",
+         "chủng tộc", "quái vật", "hệ thống", "khác"}
 
 
 def lint(novel):
@@ -54,7 +56,10 @@ def lint(novel):
         note = e["row"].get("ghi chú", "").strip()
         if "/" in e["vi"] and not note:
             warns.append(f"glossary: '{e['en']}' có nhiều bản dịch '{e['vi']}' mà không ghi khi nào dùng bản nào")
-        kind = e["row"].get("loại", "").lower()
+        kind = e["row"].get("loại", "").strip().lower()
+        if kind not in KINDS:
+            warns.append(f"glossary: '{e['en']}' có Loại '{kind}' không hợp lệ — dùng một trong: "
+                         f"{', '.join(sorted(KINDS))}")
         if (e["vi"].lower() == e["en"].lower() and any(k in kind for k in MUST_TRANSLATE)
                 and "giữ nguyên" not in note.lower()):
             warns.append(f"glossary: '{e['en']}' ({kind}) để nguyên tiếng Anh — rules.md yêu cầu dịch Hán Việt, "

@@ -77,7 +77,9 @@ def check(novel, row):
     ctx = novel["context"]
     # Xét thuật ngữ dài trước và che phần đã khớp, để "God of Concealment" không bị tính là "God",
     # "Status points" không bị tính là "Status".
-    all_entries = entries(ctx / "glossary.md") + entries(ctx / "characters.md")
+    char_entries = entries(ctx / "characters.md")
+    char_ids = {id(e) for e in char_entries}
+    all_entries = entries(ctx / "glossary.md") + char_entries
     all_entries.sort(key=lambda e: -max(len(t) for t in [e["en"], *e["aliases"]]))
     masked = raw_text
     raw_lower = raw_text.lower()
@@ -93,6 +95,10 @@ def check(novel, row):
             warns.append(f"'{e['en']}' có trong raw nhưng chưa có bản dịch trong context")
             continue
         variants = [v.strip() for v in e["vi"].split("/") if v.strip()]
+        if id(e) in char_ids:
+            # Tên nhân vật giữ nguyên: raw gọi tắt bằng alias (vd "Reta" cho "Reta Kar'iha")
+            # và bản dịch cũng dùng đúng alias đó thì không phải lệch.
+            variants += [t for t in terms if contains_term(raw_text, t)]
         if not any(v.lower() in vi_text.lower() for v in variants):
             warns.append(f"'{e['en']}' có trong raw nhưng bản dịch không có '{e['vi']}'")
     return errors, warns
