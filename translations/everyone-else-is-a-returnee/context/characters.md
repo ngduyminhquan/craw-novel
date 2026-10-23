@@ -111,6 +111,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 81: Cởi bỏ mặt nạ tại văn phòng tầng 14 Vanguard; đàm phán cung cấp độc quyền vũ khí sản xuất đại trà (như Kiếm Bastard Xương Hổ Trọng Áp) cho lực lượng Trấn Áp; tiếp đón Clan Lôi Thần và tiếp nhận 3 viên Thánh Thạch của Nữ Thần Sắc Đẹp Leytna để chế tác trang bị; thẳng thừng từ chối sự gạ gẫm và đòi bỏ kính ngữ của Na YuNa.
 - Trạng thái tính đến chương 82: Mở buổi bán trang bị độc quyền tại tầng 14 Vanguard cho các clan tham chiến tại Nhật Bản; thẳng tay trục xuất chủ Clan Phoenix vì thái độ xấc xược; công khai danh tính chủ tịch Vanguard và tiết lộ trình độ Chế Tác Mana vượt cấp 30; chào bán vũ khí phẩm cấp Độc Nhất (như Roi Da Gai Dính Hồn công 3.200) với mức giá cố định 5 triệu USD mỗi món khiến các chủ clan sững sờ nể phục.
 - Trạng thái tính đến chương 83: Đạt cấp độ 87; hoàn thành chế tạo trang bị cho 26 clan trong 3 tuần; sử dụng mana ngày một thuần thục để cường hóa kỹ năng và ẩn thân tự do; cho phép tàn niệm Reta Kar'iha hấp thụ một phần sinh mệnh lực từ Thu Thập Tử Vong; gửi gắm Clan Lôi Thần bảo hộ gia đình rồi cùng Erta thâm nhập hầm ngục Grand Canyon sang Thế Giới Bị Bỏ Rơi Daréu để săn Long tộc chuyển chức 3.
+- Trạng thái tính đến chương 84: Tiến vào Thế Giới Bị Bỏ Rơi Daréu; trang bị 4 món phụ kiện tăng 50% tốc độ hồi mana, dồn toàn bộ mana vào Quái Lực và Bật Nhảy; đạt cấp 90 sau một tuần săn Oan Hồn; hoàn toàn thuần thục kỹ năng Thiên Thần Chi Viện và phát triển đòn đánh toàn lực Thiên Thần Nhất Kích; mở màn Cuộc Săn Thế Giới nhắm vào 45.988 sinh vật Long tộc trên đại lục Daréu.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -139,6 +140,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 77: Lên Thiên giới nhận thưởng cho IlHan; tranh luận gay gắt với Spiera vì Thiên giới quyết định giao phó việc bảo vệ Trái Đất cho nhân loại (chủ yếu là IlHan) do bận tham chiến tại Bức Tường Hỗn Loạn; được Spiera cảnh báo về cảm xúc tình yêu nguy hiểm có thể khiến thiên thần sa ngã; nhận Đồng Hồ Cát Vĩnh Hằng từ kho báu Thiên giới trao cho IlHan; ở lại làm thiên thần duy nhất bên cạnh bảo vệ IlHan.
 - Trạng thái tính đến chương 78: Được IlHan cho phép cùng bước vào kết giới đóng băng thời gian của Đồng Hồ Cát Vĩnh Hằng; ngượng ngùng rung động khi ở riêng 2 tháng cùng IlHan; dạy IlHan kỹ thuật trích xuất năng lực trang bị; choáng váng trước tốc độ mổ xác hơn 100.000 quái vật của anh và phong anh là 'Vua Giải Phẫu'; bất lực thở dài khi đoán trước IlHan sẽ rèn thương mới từ cự kiếm Thiên Tùng Vân Kiếm.
 - Trạng thái tính đến chương 80: Bất ngờ trước việc IlHan truyền thành công ma pháp phóng to lưỡi dao vào dòng thuộc tính của đại khải; khuyên IlHan dùng Thiên Tùng Vân Kiếm làm kiếm thay vì rèn thành thương nhưng bất thành; cùng IlHan rời kết giới Đồng Hồ Cát Vĩnh Hằng và bộc lộ sự ghét bỏ gay gắt đối với Spiera.
+- Trạng thái tính đến chương 84: Đồng hành cùng IlHan tại Thế Giới Bị Bỏ Rơi Daréu; bị hạn chế ma pháp và thể chất; hỗ trợ IlHan rèn luyện và thuần thục kỹ năng Thiên Thần Chi Viện; suýt lỡ miệng để lộ tuổi thật trước lời khen ngợi của IlHan và tức tối giật tóc anh.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
@@ -231,6 +233,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 62: Tàn niệm thức tỉnh bên trong sinh mệnh lực của Yu IlHan nhờ kỹ năng Thu Thập Tử Vong Lv 10; truyền tiếng nói thỉnh cầu IlHan thay cô báo thù loài rồng (Long tộc).
 - Trạng thái tính đến chương 63: Giao tiếp với Yu IlHan và Erta qua tàn niệm; tiết lộ quá khứ quê hương Daréu bị loài rồng tàn sát và lý do cô sa đọa thành Kẻ Phá Vỡ để bảo lưu tàn niệm chờ người kế thừa báo thù; thỏa thuận trao quyền điều khiển ma pháp trận cổ đại của đế chế elf (nhìn thấu cấp độ và dịch chuyển tức thời) cho IlHan để hỗ trợ anh săn rồng.
 - Trạng thái tính đến chương 83: Ý niệm ngày càng rõ ràng và có ý thức độc lập hơn nhờ được Yu IlHan cho phép hấp thụ một phần sinh mệnh lực tích lũy từ kỹ năng Thu Thập Tử Vong; sẵn sàng hỗ trợ IlHan khi anh đạt chuyển chức lần 3.
+- Trạng thái tính đến chương 84: Dẫn lối và kích hoạt đại ma pháp trận cổ đại của đế chế elf tại Daréu; thông báo số lượng 45.988 sinh vật Long tộc trên đại lục; thỉnh cầu IlHan tiêu diệt Oan Hồn để giải thoát cho thần dân của thế giới đã diệt vong; vận hành pháp trận dịch chuyển IlHan đi săn các cá thể Long tộc đi lẻ.
 
 ### Myuta
 - Giới tính, vai trò: Thiên thần chủ tọa/chủ trì cuộc họp của các thiên thần trên Thiên giới bàn về dị thường tại Trái Đất và hầm ngục Grand Canyon.

@@ -88,7 +88,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 81 |  | Chapter_081 - I, too, now 6.txt | I, too, now 6 | reviewed |  |
 | 82 |  | Chapter_082 - I, too, now 7.txt | I, too, now 7 | done |  |
 | 83 |  | Chapter_083 - You, I, Strangers 1.txt | You, I, Strangers 1 | done |  |
-| 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | todo |  |
+| 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | done |  |
 | 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | todo |  |
 | 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | todo |  |
 | 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | todo |  |
@@ -645,3 +645,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#82] Câu cảm thán thoại "Insane." của chủ clan khi nghe về 520 tạo tác Độc Nhất — Tạm dùng trong bản dịch: "Điên rồ thật." (qa_check cảnh báo do glossary có 'Insane' -> 'Cuồng Loạn' vốn áp dụng cho tiền tố trang bị/kỹ năng). Đề xuất giữ nguyên cách dịch tự nhiên trong thoại. → Chốt giữ nguyên Điên rồ thật. cho câu cảm thán thoại Insane. (orchestrator)
 - [#83] Chi tiết đùa "YeoRang Sinclair" ở đoạn 10 raw (ám chỉ nhân vật Emil Sinclair trong Demian của Hermann Hesse) → Chốt giữ nguyên tên riêng "YeoRang Sinclair" theo rules.md. (orchestrator)
 - [#83] Cụm từ "dog hole" (개구멍, đoạn 73 & 75 raw) → Chốt dịch là "lỗ chó" (kèm giải thích tự nhiên "lối đi bí mật, hay nói cách khác là một cái \"lỗ chó\"" ở đoạn 73). (orchestrator)
+- [#84] Tạo tác "Smooth Warrior's Black Python Earring" → Chốt dịch là "Khuyên Tai Hắc Mãng Chiến Binh Nhuần Nhuyễn" (đồng bộ với Hắc Mãng đã chốt ở #79). (orchestrator)
+- [#84] Kỹ năng đòn đánh toàn lực "Angel's Single Strike" → Chốt dịch là "Thiên Thần Nhất Kích" (Hán Việt ngắn gọn theo rules.md). (orchestrator)
+- [#84] Khái niệm "'World Hunt'" → Chốt dịch là "Cuộc Săn Thế Giới". (orchestrator)

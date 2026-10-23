@@ -444,3 +444,8 @@
 | Germany |  | Đức | địa danh | 82 | Quốc gia ở châu Âu |
 | Newtype | Newtypes | Newtype | khác | 83 | Thế hệ trẻ em chào đời trên Trái Đất sau Đại Tai Biến |
 | Elf Royalties |  | Hoàng tộc Elf | tổ chức | 83 | Hoàng tộc thuộc đế chế elf trên thế giới Daréu cổ đại |
+| Smooth Warrior's Black Python Earring |  | Khuyên Tai Hắc Mãng Chiến Binh Nhuần Nhuyễn | vật phẩm | 84 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ vảy Orochi, tăng 10% tốc độ hồi phục mana và có xác suất gây sợ hãi khi cận chiến |
+| Angel's Single Strike |  | Thiên Thần Nhất Kích | kỹ năng | 84 | Đòn đánh dồn toàn bộ sức mạnh mượn từ Thiên Thần Chi Viện vào một kích duy nhất |
+| Ghost | Ghosts | Oan hồn | quái vật | 84 | Quái vật thuộc chủng Undead hình thành từ những linh hồn chết oan do thảm họa hoặc vương quốc diệt vong |
+| World Hunt |  | Cuộc Săn Thế Giới | khác | 84 | Khái niệm chỉ chiến dịch đi săn quái vật quét sạch cả một thế giới của Yu IlHan |
+| mana sickness |  | say mana | khác | 84 | Hiện tượng choáng váng do tiếp xúc với nồng độ mana quá đậm đặc ở thế giới khác |
