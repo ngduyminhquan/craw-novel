@@ -102,7 +102,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 95 |  | Chapter_095 - You, I, Strangers 13.txt | You, I, Strangers 13 | reviewed |  |
 | 96 |  | Chapter_096 - You, I, Strangers 14.txt | You, I, Strangers 14 | reviewed |  |
 | 97 |  | Chapter_097 - You, I, Strangers 15.txt | You, I, Strangers 15 | done |  |
-| 98 |  | Chapter_098 - You, I, Strangers 16.txt | You, I, Strangers 16 | todo |  |
+| 98 |  | Chapter_098 - You, I, Strangers 16.txt | You, I, Strangers 16 | done |  |
 | 99 |  | Chapter_099 - You, I, Strangers 17.txt | You, I, Strangers 17 | todo |  |
 | 100 |  | Chapter_100 - You, I, Strangers 18.txt | You, I, Strangers 18 | todo |  |
 | 101 |  | Chapter_101 - I Am A Drifter of My Soul 1.txt | I Am A Drifter of My Soul 1 | todo |  |
@@ -684,3 +684,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#97] Kỹ năng "Soul Enchant" (kỹ năng chủ động nhận từ việc hấp thụ tàn hồn Reta Kar'iha, cho phép ban linh hồn vào tạo tác) — Tạm chọn: "Linh Hồn Phụ Ma" (chuẩn Hán Việt 4 chữ song song với Chế Tác Mana, sát nghĩa Soul = Linh Hồn, Enchant = Phụ Ma). Phương án khác: "Phụ Hồn". Tạm dùng trong bản dịch: "Linh Hồn Phụ Ma". → Chốt "Linh Hồn Phụ Ma" theo quy tắc Hán Việt ngắn gọn của rules.md cho tên kỹ năng. (orchestrator)
 - [#97] Kỹ năng "Blaze" (kỹ năng chủ động của chức nghiệp Liệt Hỏa Tử Thần) — Tạm chọn: "Liệt Hỏa" (chuẩn Hán Việt, đồng bộ với chức nghiệp Blazing Reaper = Liệt Hỏa Tử Thần). Phương án khác: "Hỏa Diễm", "Bộc Hỏa". Tạm dùng trong bản dịch: "Liệt Hỏa". → Chốt "Liệt Hỏa" theo quy tắc Hán Việt ngắn gọn của rules.md và đồng bộ với chức nghiệp "Liệt Hỏa Tử Thần" (Blazing Reaper). (orchestrator)
 - [#97] Dòng đùa phá cách "~The End~" ở đoạn 68 sau khi thế giới nổ tung — Tạm chọn: "~Hết~" (ngắn gọn, giữ trọn nét hài hước đùa cợt của tác giả). Phương án khác: "~Kết thúc~", "~Toàn văn hoàn~". Tạm dùng trong bản dịch: "~Hết~". → Chốt "~Hết~" ngắn gọn, tự nhiên cho trò đùa kết thúc truyện giả của tác giả. (orchestrator)
+- [#98] Kỹ năng "Blowing Barrier" (ma pháp phong hệ của bầy rồng Khu Vườn Hoàng Hôn) — Tạm chọn: "Cuồng Phong Kết Giới". Phương án khác: "Phong Bạo Kết Giới". Tạm dùng trong bản dịch: "Cuồng Phong Kết Giới". → Chốt "Cuồng Phong Kết Giới" theo quy tắc Hán Việt ngắn gọn của rules.md cho tên kỹ năng. (orchestrator)
+- [#98] Kỹ năng "Storm Guard" (kỹ năng bao bọc cuồng phong quanh thân phòng thủ và quấy nhiễu địch của Lecidna) — Tạm chọn: "Phong Bạo Hộ Thể". Phương án khác: "Bão Phong Hộ Vệ". Tạm dùng trong bản dịch: "Phong Bạo Hộ Thể". → Chốt "Phong Bạo Hộ Thể" theo quy tắc Hán Việt ngắn gọn của rules.md cho tên kỹ năng. (orchestrator)
+- [#98] Tên quái "Flame Dragon" (quái rồng lửa cấp 225 tại Daréu) — Tạm chọn: "Hỏa Long" (đồng bộ với Thiết Giáp Hỏa Long). Phương án khác: "Viêm Long". Tạm dùng trong bản dịch: "Hỏa Long". → Chốt "Hỏa Long" (đồng bộ với Thiết Giáp Hỏa Long đã có trong glossary.md). (orchestrator)

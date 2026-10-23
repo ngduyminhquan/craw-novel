@@ -34,6 +34,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Takagaki Asuha | cô / Takagaki Asuha | 82 | Nữ chủ clan của Clan Ma Long (Nhật Bản) |
 | Liera | cô / Liera | 91 | Tên mới của Lita từ chương 91 |
 | Lecidna | con rồng / Lecidna / cô nàng | 90 | Con rồng vảy vàng kim thuộc phe Khu Vườn Hoàng Hôn |
+| Karrows | hắn / con rồng đen / Karrows | 98 | Con rồng vảy đen chuyển chức 4 tự xưng thủ lĩnh phe địch |
 
 ## Giữa các nhân vật
 
@@ -118,4 +119,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lecidna | Yu IlHan | tôi | cậu / Yu IlHan | 91 | Lecidna đàm phán và lập tổ đội đồng minh với Yu IlHan |
 | Erta | Lecidna | tôi | cô / các người | 92 | Erta trao đổi với Lecidna về đề nghị hợp tác của Khu Vườn Hoàng Hôn |
 | Lecidna | Erta | tôi | cô | 92 | Lecidna đối thoại với thiên thần Erta |
+| Karrows | Yu IlHan | ta | ngươi / con người | 98 | Karrows khiêu khích và lao vào quyết chiến với IlHan |
+| Yu IlHan | Karrows | ta / tôi | ngươi / mi | 98 | IlHan giễu cợt và đối đầu trực diện với Karrows |
 

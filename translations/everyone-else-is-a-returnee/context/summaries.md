@@ -604,3 +604,10 @@ Anh hấp thụ tàn hồn biến dị của Reta, học được kỹ năng ch�
 Chịu đựng cơn đau thể xác dữ dội khi cơ thể biến đổi thích ứng với cấp độ mới, IlHan nhanh chóng tỉnh lại, vội vã sửa sang 6 cỗ pháo nỏ và nạp tên xương rồng chuẩn bị nghênh chiến đợt phản kích của bầy rồng Daréu do ma pháp trận phát sáng thu hút.
 Dùng Ẩn Thân che giấu cỗ pháo nỏ khổng lồ, IlHan bắn liên tiếp 15 mũi tên xương rồng trúng mắt hạ sát con rồng cấp 220 vừa bay tới.
 Cảnh kết thúc: Ước nguyện kết thúc trận chiến nhanh chóng tan biến khi toàn bộ Long tộc còn lại trên đại lục Daréu điên cuồng kéo tới hòn đảo hoang, mở màn cho một trận đại hỗn chiến kinh thiên động địa.
+
+## 98
+Hàng chục rồng chuyển chức 4 cấp trên 220 và hàng ngàn sinh vật Long tộc kéo tới đảo hoang vây hãm; Yu IlHan tận dụng Súng Bắn Cọc, Thiên Thần Chi Viện, Ẩn Thân cùng thức uống máu và rượu Hơi Thở liên tục hạ sát quái gom lượng lớn kinh nghiệm, dù chịu nhiều áp lực trước các đòn ma pháp đa thuộc tính (băng, lôi, phong).
+Bầy rồng đồng minh thuộc phe Khu Vườn Hoàng Hôn do rồng vàng kim Lecidna dẫn đầu bất ngờ xuất kích hỗ trợ, triển khai 'Cuồng Phong Kết Giới' và 'Phong Bạo Hộ Thể' thu hút hỏa lực giúp IlHan thuận lợi ẩn thân tập kích, nâng cấp độ của anh lên Lv 137.
+Giữa chiến trường hỗn loạn, con rồng vảy đen chuyển chức 4 tên Karrows xưng là thủ lĩnh phe địch lao xuống tập kích; IlHan dùng Chuyển Giao Trọng Lượng ném xác quái triệu tấn cản đường, rồi đáp lên đầu rồng địch làm bàn đạp né ngọn hắc hỏa tàn bạo của Karrows (khiến con rồng đồng đội của Karrows bị thiêu rụi).
+Từ chối dùng Súng Bắn Cọc và lựu đạn bảo hiểm vì phán đoán kẻ tính cách ngông cuồng như Karrows chưa phải trùm cuối thật sự, Yu IlHan siết chặt Hắc Cốt Đại Thương lao vào trực diện giao chiến.
+Cảnh kết thúc: Bỏ mặc trọng lực rơi tự do trong tiếng gào thét của kẻ thù, hai 'thủ lĩnh' của hai phe Yu IlHan và Karrows chính thức va chạm kinh thiên động địa giữa không trung.

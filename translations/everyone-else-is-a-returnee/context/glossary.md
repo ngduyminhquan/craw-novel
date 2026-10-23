@@ -476,3 +476,6 @@
 | soul transfer | Soul Transfer | chuyển dịch linh hồn | kỹ năng | 96 | Ma pháp cổ xưa của đế chế elf cho phép hoán chuyển linh hồn sang thể xác người khác |
 | Blaze |  | Liệt Hỏa | kỹ năng | 97 | Kỹ năng chủ động của Liệt Hỏa Tử Thần, chuyển hóa sinh mệnh lực thu thập thành mana tạo nhiệt lượng cực độ dưới địa ngục truyền vào vũ khí |
 | Soul Enchant |  | Linh Hồn Phụ Ma | kỹ năng | 97 | Kỹ năng học được sau khi hấp thụ tàn hồn Reta Kar'iha, cho phép ban linh hồn sở hữu vào tạo tác với tỷ lệ thành công 100% |
+| Flame Dragon |  | Hỏa Long | quái vật | 98 | Quái vật rồng lửa cấp 225 tại Daréu |
+| Blowing Barrier |  | Cuồng Phong Kết Giới | kỹ năng | 98 | Ma pháp phong hệ dựng kết giới gió phòng thủ của bầy rồng phe Khu Vườn Hoàng Hôn |
+| Storm Guard |  | Phong Bạo Hộ Thể | kỹ năng | 98 | Kỹ năng ma pháp phong hệ bao bọc cuồng phong quanh thân để phòng thủ và quấy nhiễu địch của Lecidna |
