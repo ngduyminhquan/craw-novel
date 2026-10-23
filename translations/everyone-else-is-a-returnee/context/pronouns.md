@@ -33,6 +33,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Carina Malatesta | cô / Carina / Carina Malatesta | 73 | Chủ clan Magia (Ý) |
 | Takagaki Asuha | cô / Takagaki Asuha | 82 | Nữ chủ clan của Clan Ma Long (Nhật Bản) |
 | Liera | cô / Liera | 91 | Tên mới của Lita từ chương 91 |
+| Lecidna | con rồng / Lecidna / cô nàng | 90 | Con rồng vảy vàng kim thuộc phe Khu Vườn Hoàng Hôn |
 
 ## Giữa các nhân vật
 
@@ -113,4 +114,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Takagaki Asuha | tôi | cô | 82 | IlHan tiếp đón và trao đổi trang bị với chủ clan Ma Long |
 | Takagaki Asuha | Yu IlHan | tôi | anh | 82 | Chủ clan Ma Long đàm phán và ngỏ lời bảo hộ Yu IlHan |
 | Reta Kar'iha | Yu IlHan | tôi | cậu | 84 | Reta đồng hành cùng IlHan tại Daréu, thống nhất gọi cậu |
+| Yu IlHan | Lecidna | tôi | cô / các người | 91 | IlHan đàm phán và lập tổ đội đồng minh với Lecidna |
+| Lecidna | Yu IlHan | tôi | cậu / Yu IlHan | 91 | Lecidna đàm phán và lập tổ đội đồng minh với Yu IlHan |
 

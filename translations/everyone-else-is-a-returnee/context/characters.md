@@ -31,6 +31,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
 | Liera |  | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
+| Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
+| Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 
 ## Chi tiết
 
@@ -279,3 +281,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Vũ khí: Dùng roi da quấn quanh eo.
 - Tính cách: Sắc sảo, thực tế, lịch thiệp và nhạy bén; tỏ ra hứng thú đặc biệt với vũ khí roi da cấp cao của Yu IlHan.
 - Trạng thái tính đến chương 82: Đại diện Clan Ma Long tham dự buổi mở bán tại Vanguard; chất vấn và ngỏ lời bảo hộ Yu IlHan; say mê chiếc Roi Da Gai Dính Hồn phẩm cấp Độc Nhất và là người đầu tiên đăng ký mua.
+
+### Lecidna
+- Giới tính, vai trò: Con rồng vảy vàng kim (chuyển chức 4, giống cái) tại đại lục Daréu, thuộc thiểu số rồng tiếp nhận mặc khải từ Khu Vườn Hoàng Hôn bảo vệ loài elf.
+- Tính cách: Biết phân biệt phải trái, có phần ngại ngùng nhưng thẳng thắn, biết ơn IlHan và sẵn sàng hợp tác chia sẻ thông tin.
+- Trạng thái tính đến chương 92: Lập tổ đội đồng minh 238 thành viên với Yu IlHan; cho biết bầy rồng của Quân Đội Ma Hủy Diệt đang tập hợp; đồng ý để IlHan tác chiến độc lập.

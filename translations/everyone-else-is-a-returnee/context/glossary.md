@@ -461,7 +461,7 @@
 | Polymorph |  | Biến Hình | kỹ năng | 87 | Ma pháp trong truyền thuyết của loài rồng dùng để biến thành hình dạng con người |
 | Re-leap |  | Bật Nhảy Tiếp | kỹ năng | 88 | Cú bật nhảy bổ sung giữa không trung khi kích hoạt Bật Nhảy từ cấp 20 |
 | Iron Fortress |  | Thiết Pháo Đài | khác | 88 | Tên Yu IlHan tự đặt cho thế trận dựng nhiều lớp khiên Orochi chống ma pháp |
-| Spear of Undrawable Trajectory |  | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
+| Spear of Undrawable Trajectory | Spear of Untraceable Trajectory | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
 | The Quickest | Quickest | Cực Tốc Giả | danh hiệu | 89 | Danh hiệu đạt được khi là thực thể cấp thấp khai phá kỹ năng độc nhất nhanh nhất |
 | fusion evolution | fusion evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
 | Absolute Accuracy |  | Tuyệt Đối Chuẩn Xác | kỹ năng | 90 | Kỹ năng độc nhất tiến hóa dung hợp từ Thuật Ném và Xạ Kích |
@@ -469,3 +469,4 @@
 | Strike Force |  | Lực Lượng Đột Kích | tổ chức | 91 | Đơn vị tác chiến độc lập của Quân Đội Thiên Giới tại Bức Tường Hỗn Loạn |
 | Bloodied Angel |  | Huyết Thiên Thần | danh hiệu | 91 | Biệt hiệu của thiên thần Liera do kẻ địch ở Bức Tường Hỗn Loạn khiếp sợ đặt cho |
 | archangel |  | đại thiên thần | cấp bậc | 91 | Thiên thần cấp cao sở hữu sức mạnh vượt trội trong Quân Đội Thiên Giới |
+| Dragon's Ally |  | Đồng Minh Long Tộc | danh hiệu | 92 | Danh hiệu nhận được khi lập tổ đội với rồng, giảm 15% sát thương từ Long tộc và tăng 15% sức tấn công khi chiến đấu cùng rồng |

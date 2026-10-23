@@ -561,3 +561,10 @@ Tại Bức Tường Hỗn Loạn, Lita (nay mang tên mới là Liera sau khi t
 Ở Daréu, IlHan đóng cọc giăng bẫy 12 cọc Orochi quanh con rồng vàng kim đang say ngủ rồi mới giải trừ Ẩn Thân để thẩm vấn; con rồng bất ngờ nói tiếng Anh lưu loát và hoảng loạn cầu xin lập tổ đội.
 Con rồng tiết lộ mình thuộc phe phái tuân theo mặc khải của Khu Vườn Hoàng Hôn, đã tập hợp bầy rồng chống lại mưu đồ thôn tính Daréu của Quân Đội Ma Hủy Diệt và bí mật che giấu loài elf.
 Cảnh kết thúc: Nghe con rồng tiết lộ Quân Đội Ma Hủy Diệt từng hủy diệt Daréu và hiện đang nhắm vào Trái Đất, Yu IlHan cẩn thận hạ ngọn lao săn xuống và đồng ý ngồi lại nói chuyện thêm.
+
+## 92
+Yu IlHan chấp thuận đề nghị lập tổ đội 238 thành viên với con rồng vàng kim Lecidna (phe Khu Vườn Hoàng Hôn) để bảo vệ tộc elf và nhận danh hiệu 'Đồng Minh Long Tộc' (-15% sát thương từ Long tộc, +15% công khi đánh cùng rồng), nhưng kiên quyết từ chối đi chung để tiếp tục săn lẻ độc lập.
+Tiêu tốn hơn hai mươi viên ma thạch để sàng lọc quái ngoài tổ đội, IlHan hạ sát con rồng đơn độc cuối cùng (đạt 958/1.000 quái chuyển chức 4); trước nguy cơ thiếu hụt trang bị và thức uống máu, anh cùng Reta dịch chuyển tới một hòn đảo bờ biển nơi bầy 5 con rồng đang tụ tập.
+Tại bờ biển, lợi dụng con rồng tên Caliana chủ quan tách đàn lặn xuống biển, IlHan từ trên không phóng thương dồn trọng lượng tập kích trúng trán khiến nó rơi vào trạng thái sốc, tạo nên khung cảnh hỗn loạn khiến bầy rồng hoảng loạn tung đòn bắn trúng lẫn nhau.
+Tận dụng sự hỗn loạn và tái kích hoạt Ẩn Thân, IlHan áp sát bồi thêm nhát đâm thứ hai bằng Bất Khả Họa Quỹ Đạo Thương đưa Chí Mạng lên Lv 40, kết liễu Caliana thu về hơn 1 tỷ EXP và đạt mốc 959/1.000 quái chuyển chức 4 (chỉ còn 41 con).
+Cảnh kết thúc: Nhanh tay thu hồi xác Caliana và nhìn bầy rồng trên không đang chết sững vì khiếp sợ, Yu IlHan cười khẩy rồi dũng mãnh bật nhảy nghênh chiến với 4 con rồng còn lại.
