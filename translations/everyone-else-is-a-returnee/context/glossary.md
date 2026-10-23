@@ -471,3 +471,5 @@
 | archangel |  | đại thiên thần | cấp bậc | 91 | Thiên thần cấp cao sở hữu sức mạnh vượt trội trong Quân Đội Thiên Giới |
 | Dragon's Ally |  | Đồng Minh Long Tộc | danh hiệu | 92 | Danh hiệu nhận được khi lập tổ đội với rồng, giảm 15% sát thương từ Long tộc và tăng 15% sức tấn công khi chiến đấu cùng rồng |
 | Aegis |  | Aegis | vật phẩm | 94 | Được phép giữ nguyên: Tạo tác khiên phẩm cấp Truyền Thuyết hợp nhất từ 5 chiếc khiên xương da rồng chuyển chức 4 |
+| Dragonhunter's Frightening and Sturdy Dark python Ballista |  | Pháo Nỏ Hắc Mãng Thợ Săn Rồng Kinh Hãi Và Kiên Cố | vật phẩm | 95 | Cỗ pháo nỏ săn rồng phẩm cấp Truyền Thuyết tích hợp xương Yamata no Orochi và ma thạch chuyển chức 3, bắn liên tiếp 15 phát mũi tên xương rồng |
+| Breath |  | Hơi Thở | vật phẩm | 95 | Thứ đồ uống có cồn làm từ máu rồng và hơn 900 trái tim rồng, hồi phục thể lực, ma pháp và không cần ngủ |

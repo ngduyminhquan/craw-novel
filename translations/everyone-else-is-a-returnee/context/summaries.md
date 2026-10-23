@@ -582,3 +582,10 @@ Tận dụng thời gian 2 tháng trong kết giới, anh dùng Hỏa Tím sửa
 Từ xương và da rồng, anh chế tạo 3.000 chiếc khiên mới (tối thiểu phẩm cấp Độc Nhất), trong đó may mắn xuất hiện 5 chiếc đạt phẩm cấp Truyền Thuyết.
 Nhờ dùng 1 viên ma thạch chuyển chức 4 để Chế Tác Mana dung hợp 5 chiếc khiên Truyền Thuyết lại làm một, IlHan tạo ra tạo tác phòng thủ mang tính biểu tượng 'Aegis' có khả năng tự do bay lượn bảo vệ theo ý nghĩ.
 Cảnh kết thúc: Cất giữ Aegis vào Túi Đeo Chéo làm vũ khí cứu mạng cho trận chiến cuối cùng, Yu IlHan đã tạo ra một trong những tạo tác tiêu biểu đại diện cho cuộc đời mình.
+
+## 95
+Tận dụng thời gian còn lại trong kết giới Đồng Hồ Cát Vĩnh Hằng, Yu IlHan gia cố và lắp đặt 6 cỗ pháo nỏ Truyền Thuyết bắn tên xương rồng cùng hàng chục cọc lao săn Orochi để trói chân giam hãm bầy rồng; anh cũng hy sinh ma thạch chuyển chức 4 chế tạo lựu đạn và Súng Bắn Cọc uy lực cực hạn làm bảo hiểm thoát hiểm khẩn cấp.
+Chỉ còn 1 giờ trước khi kết giới hết hạn, Yu IlHan và Erta kinh ngạc phát hiện 965 trái tim rồng ngâm trong máu đã tự lên men thành thứ rượu hồng ngọc kỳ diệu 'Hơi Thở' giúp hồi phục sinh mệnh lực lẫn ma pháp và không cần ngủ, đưa kỹ năng Nấu Nướng tăng vọt lên cấp 49; IlHan sang trọn vẹn 112 lít Hơi Thở vào các túi cheer pack để tiện sử dụng.
+Ngay khi chủ động thu hồi kết giới, IlHan giật dây đồng loạt khai hỏa 6 cỗ pháo nỏ lập tức bắn nát 6 con rồng chuyển chức 4, thu về hàng tỷ EXP và đẩy đội hình kẻ địch vào cơn hỗn loạn tột độ.
+Trước khi bầy rồng định thần, IlHan phóng liên hoàn các ngọn lao săn găm chặt chúng xuống đất và bồi đòn chí mạng bằng Bất Khả Họa Quỹ Đạo Thương; lũ rồng nóng vội lầm tưởng anh sắp chết vì trúng lửa nên lao vào quá đà và liên tiếp bị quật ngã, trong khi IlHan vừa hút rượu Hơi Thở vừa hoàn toàn làm chủ cục diện trận đánh.
+Cảnh kết thúc: Nhìn một con người sắp chết lại ung dung đùa giỡn với hàng chục con rồng khiến Reta chết lặng không thốt nên lời; tài năng thiên bẩm và một ngàn năm khổ luyện của Yu IlHan tỏa sáng rực rỡ qua cơ thể tiến hóa khi anh trở thành kẻ thống trị chiến trường.
