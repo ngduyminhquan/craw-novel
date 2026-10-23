@@ -346,3 +346,9 @@
 | Dungeon Break | Dungeon Breaks | Vỡ Hầm Ngục | hệ thống | 63 | Hiện tượng Bẫy Hủy Diệt bị phá vỡ do nồng độ mana tăng cao sau Đại Tai Biến lần 2 |
 | power of life |  | sinh mệnh lực | hệ thống | 60 | Năng lượng sinh mệnh mà kỹ năng Thu Thập Tử Vong thu thập từ đối tượng bị tiêu diệt |
 | elven empire |  | đế chế elf | tổ chức | 63 | Đế chế cổ đại trên thế giới Daréu từng tạo ra hệ thống đại ma pháp trận dịch chuyển tức thời khắp đại lục |
+| Guarding Earth |  | Bảo Vệ Trái Đất | hệ thống | 64 | Tên Nhiệm Vụ Thiên Giới bảo vệ Trái Đất khỏi cổng không gian |
+| Gangnam |  | Gangnam | địa danh | 64 | Quận Gangnam nổi tiếng tại Seoul, Hàn Quốc |
+| Magic Attack Power |  | Sức tấn công ma pháp | hệ thống | 64 | Chỉ số tấn công ma pháp của vũ khí/trang bị |
+| Bone Staff |  | Cốt Trượng | vật phẩm | 64 | Vũ khí gậy phép chế tác từ xương quái vật |
+| Excitement |  | Hưng Phấn | kỹ năng | 64 | Kỹ năng đặc biệt của Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc |
+| Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |

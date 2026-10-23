@@ -91,6 +91,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 61: Thu hoạch Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm (Phẩm cấp Truyền Thuyết, Phòng thủ 3.300) và lượng lớn thuốc hồi máu/mana cao cấp từ Dakié von Illastra; phối hợp Erta phá hủy cánh cổng không gian nối với thế giới khác; thiêu rụi xác kẻ thù và thu gom thi thể hai phụ nữ vô tội để tìm nơi an táng thích hợp.
 - Trạng thái tính đến chương 62: Nâng Thu Thập Tử Vong lên Lv 11; mở khóa khả năng thấu hiểu tàn niệm của người chết trong sinh mệnh lực và tiếp nhận lời thỉnh cầu báo thù Long tộc từ tàn niệm Reta Kar'iha.
 - Trạng thái tính đến chương 63: Nắm bắt nguy cơ Vỡ Hầm Ngục kết nối sang Daréu khi mana tăng vọt sau Đại Tai Biến lần 2 (chỉ còn khoảng 50 năm); đạt thỏa thuận với tàn niệm Reta Kar'iha để sử dụng ma pháp trận cổ đại của đế chế elf (nhìn thấu cấp độ và dịch chuyển tức thời khắp đại lục); lên kế hoạch một mình bí mật sang Thế Giới Bị Bỏ Rơi Daréu săn tỉa lũ rồng yếu nhằm thu hoạch toàn bộ da rồng quý giá.
+- Trạng thái tính đến chương 64: Hoàn thành Nhiệm Vụ Thiên Giới [Bảo Vệ Trái Đất], nhận 26 điểm chỉ số (+4 toàn bộ chỉ số, riêng Ma pháp +10); các kỹ năng Quái Lực, Chí Mạng, Bật Nhảy thăng vọt lên cấp 20 (mở khóa khả năng bật nhảy lần 2 giữa không trung không tốn mana); Chế Tác Mana đạt cấp 31; chế tạo thành công vũ khí phẩm cấp Truyền Thuyết 'Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc' (Sức tấn công 1.900, Sức tấn công ma pháp 3.100, kèm kỹ năng đặc biệt 'Hưng Phấn') cùng áo choàng phẩm cấp Độc Nhất cho Kang MiRae.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -103,6 +104,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 53: Ngấm ngầm ganh tị và tranh đua với Erta để giành sự chú ý của IlHan; bị IlHan quở trách vì gây gổ nên ngoan ngoãn nhận lỗi; bất lực trước sự ngô nghê và tính toán thực dụng của IlHan khi anh chỉ muốn đi chơi để luyện kỹ năng.
 - Trạng thái tính đến chương 61: Tung kỹ năng Cận Chiến cấp đại sư đánh hơn 3.000 đòn liên hoàn nghiền nát tên thiên thần phản bội; áp giải hắn về Thiên giới để tận mắt chứng kiến hắn bị xử trảm và nhận phần thưởng nhiệm vụ cho IlHan.
 - Trạng thái tính đến chương 62: Bị Spiera giữ lại Thiên giới bắt tham gia đợt đặc huấn nâng cao thực lực trước thềm đại chiến sắp tới, khiến thời gian trở lại Trái Đất cùng Yu IlHan bị trì hoãn.
+- Trạng thái tính đến chương 64: Trở về bên Yu IlHan sau khi kẻ phản bội bị tra hỏi; ôm chặt IlHan đòi sạc năng lượng và trao phần thưởng Nhiệm Vụ Thiên Giới; phải chuẩn bị cho việc thăng cấp nên mỗi ngày vắng mặt vài tiếng để tham gia đặc huấn trên Thiên giới nhưng hứa sẽ luôn theo sát IlHan khi vào hầm ngục.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.

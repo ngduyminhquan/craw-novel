@@ -68,7 +68,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | reviewed |  |
 | 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | reviewed |  |
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | reviewed |  |
-| 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | todo |  |
+| 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | done |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | todo |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | todo |  |
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | todo |  |
@@ -371,6 +371,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -594,3 +595,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#61-63] Diễn đạt logic Ch.63 đoạn 87? → Chấp nhận sửa thành 'chẳng có chút thong dong nào để anh có thể hoàn toàn ngó lơ chuyện này cả'. (orchestrator)
 - [#61-63] Sửa lỗi lặp từ Ch.63 đoạn 116? → Chấp nhận sửa thành 'hi sinh lực lượng chiến đấu tương lai'. (orchestrator)
 - [#61-63] Cập nhật glossary.md? → Chấp nhận thêm 'power of life → sinh mệnh lực' và 'elven empire → đế chế elf'. (orchestrator)
+- [#64] Tên vũ khí Truyền Thuyết "Lightning God-blessed Heavenly Lightning Excitement Bone Staff" — Tạm chọn: "Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc". Phương án khác: "Cốt Trượng Lôi Thần Chúc Phúc Thiên Lôi Hưng Phấn". Tạm dùng trong bản dịch: "Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc". → Chốt 'Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc' (orchestrator)
+- [#64] Tên kỹ năng đặc biệt "Excitement" trên vũ khí — Tạm chọn: "Hưng Phấn" (dịch Hán Việt từ nguyên tác tiếng Hàn 흥분). Phương án khác: "Cuồng Nhiệt". Tạm dùng trong bản dịch: "Hưng Phấn". → Chốt 'Hưng Phấn' (orchestrator)
