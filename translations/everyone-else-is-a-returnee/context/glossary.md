@@ -68,7 +68,7 @@
 | Ironman | Iron man | Người Sắt | khác | 8 | Mặt nạ Người Sắt (Ironman) IlHan đeo |
 | Mana crafting |  | Chế Tác Mana | kỹ năng | 9 | Kỹ năng truyền mana và tạo thuộc tính cho trang bị |
 | Artifact | Artifacts | Tạo tác | vật phẩm | 8 | Vật phẩm/trang bị chứa năng lượng mana |
-| Dragon heart |  | Trái tim rồng | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
+| Dragon heart | Dragon HEART; Dragon HEARTs | Trái tim rồng | vật phẩm | 9 | Tinh thể mana cấp cao của loài rồng |
 | Bestowal |  | Ban tặng | khác | 9 | Quá trình định hướng ý niệm cho ma thạch trong Chế Tác Mana |
 | Direwolf |  | Sói Bạo Tàn | quái vật | 10 | Quái vật sói hoang dã cấp 35 cầm đầu bầy quái |
 | Executor |  | Kẻ Hành Quyết | khác | 10 | Cách Erta gọi IlHan khi giục anh săn quái; danh xưng người thực hiện nhiệm vụ Thiên giới |
@@ -464,3 +464,5 @@
 | Spear of Undrawable Trajectory |  | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
 | The Quickest | Quickest | Cực Tốc Giả | danh hiệu | 89 | Danh hiệu đạt được khi là thực thể cấp thấp khai phá kỹ năng độc nhất nhanh nhất |
 | fusion evolution | fusion evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
+| Absolute Accuracy |  | Tuyệt Đối Chuẩn Xác | kỹ năng | 90 | Kỹ năng độc nhất tiến hóa dung hợp từ Thuật Ném và Xạ Kích |
+| Gungnir |  | Gungnir | vật phẩm | 90 | Được phép giữ nguyên: Ngọn giáo bách phát bách trúng của thần Odin trong thần thoại Bắc Âu |
