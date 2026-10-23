@@ -220,7 +220,7 @@ Khi bọn chúng tiến lại gần Liera, cô vừa thở dài vừa tháo găn
 
 Chúng có nằm mơ cũng chẳng thể ngờ rằng lại có kỹ năng kích hoạt bằng cách tháo găng tay.
 
-[Đòn Đánh Chí Mạng!]
+[Chí Mạng!]
 
 Một tia chớp lóe lên.
 
@@ -230,7 +230,7 @@ Tên săn mồi tự xưng có thể chuyển hướng năng lượng, tên săn
 
 [Ồ, may mắn ghê.] (Liera)
 
-Kèm theo dòng chữ 'Đòn Đánh Chí Mạng' là hàng loạt cửa sổ thông báo điểm kinh nghiệm và thành tựu thu được. Liera chớp mắt để tắt chúng đi trong lúc nhoẻn miệng cười. Nụ cười của cô rùng rợn đến mức khiến những kẻ đang dõi theo cũng phải rợn tóc gáy.
+Kèm theo dòng chữ 'Chí Mạng' là hàng loạt cửa sổ thông báo điểm kinh nghiệm và thành tựu thu được. Liera chớp mắt để tắt chúng đi trong lúc nhoẻn miệng cười. Nụ cười của cô rùng rợn đến mức khiến những kẻ đang dõi theo cũng phải rợn tóc gáy.
 
 [Ả định làm cái quái gì bây giờ cơ chứ?]
 

@@ -116,4 +116,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Reta Kar'iha | Yu IlHan | tôi | cậu | 84 | Reta đồng hành cùng IlHan tại Daréu, thống nhất gọi cậu |
 | Yu IlHan | Lecidna | tôi | cô / các người | 91 | IlHan đàm phán và lập tổ đội đồng minh với Lecidna |
 | Lecidna | Yu IlHan | tôi | cậu / Yu IlHan | 91 | Lecidna đàm phán và lập tổ đội đồng minh với Yu IlHan |
+| Erta | Lecidna | tôi | cô / các người | 92 | Erta trao đổi với Lecidna về đề nghị hợp tác của Khu Vườn Hoàng Hôn |
+| Lecidna | Erta | tôi | cô | 92 | Lecidna đối thoại với thiên thần Erta |
 

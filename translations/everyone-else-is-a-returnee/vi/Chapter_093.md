@@ -190,7 +190,7 @@ Cảnh tượng con rồng bị ngọn thương cắm ngập vòm họng đập 
 
 [Bạn nhận được 1.209.896.198 kinh nghiệm.]
 
-[Không ngờ 3 người trong chúng ta lại bỏ mạng...!]
+[Không ngờ 3 đồng loại của chúng ta lại bỏ mạng...!]
 
 [Chúng ta... chủng tộc loài rồng toàn năng lại trông nực cười trong mắt hắn sao?]
 

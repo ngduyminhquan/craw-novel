@@ -176,7 +176,7 @@ Thu hồi xác rồng, Yu IlHan cắn một ngụm thức uống máu.
 
 "Vậy là từ giờ trở đi sẽ là một chọi số đông."
 
-Ngay cả lượng lớn thức uống máu giờ cũng chỉ còn vẻn vẹn 50 lít. Số khiên chắn cũng chỉ còn khoảng 200 chiếc vào lúc này, dù thương thuật của anh đã thăng tiến. Dù các trang bị còn lại vẫn trụ được nhờ anh thỉnh thoảng sửa chữa...
+Ngay cả lượng lớn thức uống máu giờ cũng chỉ còn vẻn vẹn 50 lít. Số khiên chắn cũng chỉ còn khoảng 200 chiếc vào lúc này, dẫu thương thuật của anh đã thăng tiến. May mắn là các trang bị còn lại vẫn trụ được nhờ anh thỉnh thoảng sửa chữa...
 
 [Cậu có định kích hoạt Đồng Hồ Cát Vĩnh Hằng không, Yu IlHan?] (Erta)
 
