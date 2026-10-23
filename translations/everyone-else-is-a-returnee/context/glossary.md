@@ -332,3 +332,10 @@
 | Seongbuk-gu | Seongbuk | Seongbuk-gu | địa danh | 59 | Quận Seongbuk ở Seoul nơi IlHan từng tiêu diệt quái vật gấu lớn |
 | Suppression Guardian Forces | Guardian Forces | Lực Lượng Hộ Vệ Trấn Áp | tổ chức | 59 | Lực lượng dị năng giả quân đội thuộc Trấn Áp làm nhiệm vụ bảo vệ đường bay tại sân bay Incheon |
 | Language |  | Ngôn Ngữ | kỹ năng | 60 | Kỹ năng bị động giúp nghe, nói, đọc, viết hoàn hảo mọi ngôn ngữ dù mới nghe lần đầu |
+| Cynical Iron-wall Black Mage's Jacket |  | Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm | vật phẩm | 61 | Trang bị áo khoác ma pháp phẩm cấp Truyền Thuyết thu được từ Dakié von Illastra |
+| Magic Fortress |  | Pháo Đài Ma Pháp | khác | 61 | Dòng thuộc tính ma pháp phòng hộ kích hoạt khi gặp nguy hiểm |
+| Dark Yarn |  | Sợi Chỉ Bóng Tối | vật phẩm | 61 | Nguyên liệu dệt may thu được từ quái vật nguyên bản trong hầm ngục truyền thuyết |
+| Equip Restrictions |  | Giới hạn trang bị | hệ thống | 61 | Yêu cầu điều kiện để trang bị vật phẩm |
+| Auto-recovery |  | Tự phục hồi | hệ thống | 61 | Dòng thuộc tính tự động hồi phục độ bền của trang bị |
+| health potion |  | thuốc hồi máu | vật phẩm | 61 | Dược phẩm hồi phục thể lực cao cấp |
+| magic potion |  | thuốc hồi mana | vật phẩm | 61 | Dược phẩm hồi phục mana cao cấp |

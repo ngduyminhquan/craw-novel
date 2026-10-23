@@ -368,3 +368,9 @@ Lita phát hiện có thiên thần phản bội che giấu hầm ngục và m�
 Tận dụng Ẩn Thân tiến sâu vào hầm ngục cấp thấp, IlHan chứng kiến thi thể hai phụ nữ trẻ bị làm nhục và sát hại dã man; qua kỹ năng bị động [Ngôn Ngữ] vừa thức tỉnh, anh nghe thấy cuộc đối thoại tàn nhẫn coi mạng người như cỏ rác của đại pháp sư chuyển chức 4 Dakié von Illastra cùng tên tùy tùng và nam thiên thần phản bội.
 Cơn giận bùng nổ, IlHan kích hoạt Quái Lực và Bật Nhảy lao lên không trung, dồn 40 tấn trọng lượng từ Túi Đeo Chéo vào Súng Bắn Cọc giáng thẳng đòn chí mạng nghiền nát kết giới và đại não Dakié von Illastra Lv 202, thu về hơn 511 triệu EXP, thăng lên Lv 64 và nâng Thu Thập Tử Vong lên Lv 9.
 Cảnh kết thúc: Trước sự kinh hãi tột độ của gã tùy tùng, Yu IlHan lạnh lùng đáp trả "Một kẻ bị bỏ lại, thằng chó" rồi vung thương chém bay đầu gã đàn ông bằng một đòn đánh sảng khoái khôn cùng.
+
+## 61
+Sau khi chém bay đầu tên tùy tùng chuyển chức 1, Lita phô diễn kỹ năng Cận Chiến cấp đại sư đánh gã thiên thần phản bội bay lượn trên không với chuỗi hơn 3.000 liên hoàn đòn tàn khốc, trong khi Erta dùng ma pháp phá hủy hoàn toàn cánh cổng không gian nối với thế giới khác.
+Yu IlHan thu hoạch chiến lợi phẩm từ thi thể Dakié: chiếc 'Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm' (Phẩm cấp Truyền Thuyết, phòng thủ 3.300, dòng thuộc tính Pháo Đài Ma Pháp) dù không mặc được do giới hạn trang bị chuyển chức 3 hệ ma pháp nhưng dự định bán cho Empress, cùng túi không gian chứa lượng lớn thuốc hồi máu và thuốc hồi mana cao cấp.
+Lita áp giải tên phản bội bất tỉnh về Thiên giới để xử trảm và nhận thưởng nhiệm vụ; Yu IlHan nhờ Erta gột rửa sạch sẽ thi thể hai nạn nhân xấu số rồi cất vào Túi Đeo Chéo để tìm nơi an táng thích hợp.
+Cảnh kết thúc: Yu IlHan cất bước rời khỏi hầm ngục trong tâm trạng trĩu nặng xót thương, cảm thấy muốn uống một ly rượu dẫu bình thường không hề thích rượu bia.

@@ -87,6 +87,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 58: Tiêu diệt tổng cộng 4 Chim Sấm Sét Khổng Lồ Lv 122 chuyển chức 3 trong hầm ngục Gangwon-do, nâng Quái Lực lên Lv 16 và Nấu Nướng lên Lv 21; thu hoạch 2 viên ma thạch chuyển chức 3 hệ sấm sét để làm trượng cho Kang MiRae; Súng Bắn Cọc Kim Loại hấp thụ mana lôi điện tiến hóa thành Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi (Phẩm cấp Truyền Thuyết, bắn tầng 4 giảm 200 độ bền tối đa); chuẩn bị trang bị lên đường sang Trung Quốc.
 - Trạng thái tính đến chương 59: Chế tạo thành công tạo tác phụ kiện 'Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ' (Phẩm cấp Độc Nhất, Phòng thủ 1.700, tăng 20% tốc độ hồi phục mana, khi trúng đòn tạo bão sấm sét 1 lần/ngày) từ da và ma thạch Chim Sấm Sét Khổng Lồ; dùng Ẩn Thân trốn vé máy bay sang tỉnh Sơn Đông (Trung Quốc) dọn hầm ngục Quegna và cùng Lita phát hiện ma pháp ẩn giấu hầm ngục của phe phản bội.
 - Trạng thái tính đến chương 60: Thức tỉnh kỹ năng bị động [Ngôn Ngữ]; phối hợp Quái Lực, Bật Nhảy và Chuyển giao trọng lượng dồn 40 tấn từ Túi Đeo Chéo vào Súng Bắn Cọc nhất kích tất sát đại pháp sư chuyển chức 4 Dakié von Illastra Lv 202; nhận hơn 511 triệu EXP, thăng lên cấp 64 (+6 Sức mạnh, +5 Nhanh nhẹn, +4 Thể lực, +5 Ma pháp), nâng Thu Thập Tử Vong lên Lv 9 và thu hoạch sinh mệnh lực cùng ghi chép của Dakié; vung thương chém bay đầu gã tùy tùng phản bội.
+- Trạng thái tính đến chương 61: Thu hoạch Áo Khoác Hắc Pháp Sư Thiết Bích Lãnh Đạm (Phẩm cấp Truyền Thuyết, Phòng thủ 3.300) và lượng lớn thuốc hồi máu/mana cao cấp từ Dakié von Illastra; phối hợp Erta phá hủy cánh cổng không gian nối với thế giới khác; thiêu rụi xác kẻ thù và thu gom thi thể hai phụ nữ vô tội để tìm nơi an táng thích hợp.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -97,6 +98,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 51: Cùng Erta từ Thiên giới hạ phàm xuống Trái Đất và trực tiếp đến xưởng rèn gặp lại Yu IlHan sau thời gian dài xa cách.
 - Trạng thái tính đến chương 52: Được chỉ định cùng Erta làm thiên thần phụ trách Yu IlHan; chịu phạt quỳ giơ tay vì giấu nhẹm thời gian 1000 năm; can thiệp ghi chép tạo ra chức nghiệp phụ Bạn Đồng Hành Thiên Thần để danh chính ngôn thuận luôn ở bên cạnh IlHan; ghen khi thấy Erta tiếp cận gần IlHan.
 - Trạng thái tính đến chương 53: Ngấm ngầm ganh tị và tranh đua với Erta để giành sự chú ý của IlHan; bị IlHan quở trách vì gây gổ nên ngoan ngoãn nhận lỗi; bất lực trước sự ngô nghê và tính toán thực dụng của IlHan khi anh chỉ muốn đi chơi để luyện kỹ năng.
+- Trạng thái tính đến chương 61: Tung kỹ năng Cận Chiến cấp đại sư đánh hơn 3.000 đòn liên hoàn nghiền nát tên thiên thần phản bội; áp giải hắn về Thiên giới để tận mắt chứng kiến hắn bị xử trảm và nhận phần thưởng nhiệm vụ cho IlHan.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
