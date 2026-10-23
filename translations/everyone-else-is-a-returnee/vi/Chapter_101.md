@@ -74,7 +74,7 @@ Anh hiểu ra ngay lập tức. Ra là vậy. Đó là lý do tại sao mọi th
 
 Trong khi Yu IlHan gật gù ngộ ra, Erta liền lên tiếng bằng một giọng gay gắt.
 
-[Nếu Yu IlHan muốn trở thành thực thể cấp cao, một khi thời khắc đó đến! Thì Quân Đội Thiên Giới chúng ta sẽ vui lòng tiếp nhận...!] (Erta)
+[Nếu Yu IlHan muốn trở thành thực thể cấp cao, một khi thời khắc đó đến! Thì Quân Đội Thiên Giới chúng tôi sẽ vui lòng tiếp nhận...!] (Erta)
 
 [Các ngươi muốn biến một kẻ đầy tiềm năng như cậu ta thành nô lệ của Thượng Đế sao? Thật là ngu xuẩn hết chỗ nói!] (???)
 
@@ -100,7 +100,7 @@ Con rồng phớt lờ Erta rồi nhìn chằm chằm Yu IlHan cất tiếng.
 
 Chỉ riêng Daréu thôi đã đủ làm anh ngán ngẩm rồi, thế mà trên Trái Đất sẽ còn xuất hiện thêm mấy thứ như thế này nữa ư?
 
-[Ta sẽ không bắt ngươi trả lời ngay bây giờ. Nhưng hãy nhớ lấy. Quân Đội Ma Hủy Diệt chúng ta là kẻ mạnh nhất khi mọi xiềng xích của một thực thể cấp cao được tháo bỏ, và chúng ta sẵn sàng chào đón ngươi bất cứ lúc nào.] (???)
+[Ta sẽ không bắt ngươi trả lời ngay bây giờ. Nhưng hãy nhớ lấy. Quân Đội Ma Hủy Diệt chúng ta là kẻ mạnh nhất khi mọi xiềng xích của một thực thể cấp cao được tháo bỏ, và bọn ta sẵn sàng chào đón ngươi bất cứ lúc nào.] (???)
 
 [Hức, hứccc!] (Erta)
 
@@ -200,7 +200,7 @@ Thế thì chẳng còn lý do gì để chần chừ nữa. Yu IlHan vừa ngâ
 
 [Tên khốn nào đấy! Ngài Karrows quay lại sẽ giết chết ngươi cho mà xem!]
 
-[Kroaaaaar!]
+[Khàààà!]
 
 [Khặc!]
 

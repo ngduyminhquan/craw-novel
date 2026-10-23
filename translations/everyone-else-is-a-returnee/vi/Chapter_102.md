@@ -44,7 +44,7 @@ Thành thật mà nói, anh chẳng hề tự tin vào việc nuôi dạy một 
 
 Đọc đến đó, Yu IlHan dừng lại. Erta ngẩng đầu lên vì tưởng chừng đã hết, đúng lúc Yu IlHan phát hiện ra một dòng chữ với cỡ chữ nhỏ xíu nằm ở cuối bức thư.
 
-"Nếu cậu có đủ khả năng, liệu cậu có thể để mắt chăm sóc các elf một chút được không? Được viết như thế này này."
+"Nếu cậu có đủ khả năng, liệu cậu có thể để mắt chăm sóc các elf một chút được không? Đại ý bức thư viết là vậy."
 
 [Đúng là một bức thư toàn những lời nhờ vả...]
 
@@ -308,7 +308,7 @@ Khi khóa huấn luyện cơ bản kết thúc như vậy, Yu IlHan chia toàn b
 
 Dù anh có bảo họ phải trở nên thuần thục thông qua chiến đấu, trang bị của họ lại quá đỗi rách nát vô giá trị.
 
-"Trước khi rời đi ta sẽ làm cho họ vài món trang bị đơn giản."
+"Trước khi rời đi tôi sẽ làm cho họ vài món trang bị đơn giản."
 
 [Cậu đang làm ngày càng nhiều việc cho họ rồi đấy, Hoàng đế bệ hạ à.]
 

@@ -98,7 +98,7 @@ Tốt lắm, trông nó đúng là y hệt mấy vị thiên thần vô dụng t
 
 Dĩ nhiên, dẫu Erta có cam đoan đến mức nào đi chăng nữa, anh cũng chẳng thể yên tâm chiến đấu với bầy rồng khi mà một luồng khí tức áp đảo khủng khiếp như thế vẫn lơ lửng ngay sau lưng, thế nên Yu IlHan vừa lao về phía chiến trường vừa cất tiếng hỏi Erta.
 
-"Thế thì để tôi hỏi lại. Nếu gã kia cũng rơi vào hoàn cảnh giống hệt như cô, thì làm quái nào hắn lại có thể ngoạm đứt cổ Lecidna được chứ?"
+"Thế thì để tôi hỏi lại. Nếu gã kia cũng rơi vào hoàn cảnh giống hệt như cô, thì làm quái nào hắn lại có thể cắn vào cổ Lecidna được chứ?"
 
 Đó chính là thắc mắc của Yu IlHan. Anh ngỡ rằng các thực thể cấp cao không thể phát huy sức mạnh ở những thế giới như Trái Đất hay Daréu, thế nhưng con rồng đó lại vừa xuất hiện đã khiến Lecidna thập tử nhất sinh.
 
@@ -214,7 +214,7 @@ Và cô nàng chim-rồng kia cũng đang cận kề cái chết.
 
 [Nơi mà cậu và tôi gặp nhau lần đầu tiên.] (Lecidna)
 
-"Đừng nói như thể cô giấu thứ gì ở đó chứ. Làm tôi cứ hào hứng hụt đấy."
+"Đừng nói như thể cô giấu thứ gì ở đó chứ. Làm tôi cứ mừng hụt đấy."
 
 [Làm... ơn...] (Lecidna)
 
