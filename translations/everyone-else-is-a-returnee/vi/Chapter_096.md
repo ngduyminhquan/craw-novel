@@ -90,7 +90,7 @@ Dù thời gian chúng có thể duy trì trên không trung là rất ngắn ng
 
 Khi hàng trăm chiếc khiên biến mất và Yu IlHan xuất hiện trở lại hoàn toàn lành lặn không chút sứt mẻ, bầy rồng nổi cơn thịnh nộ tột cùng.
 
-[M-ngươi là đồ quái vật!]
+[N-ngươi là đồ quái vật!]
 
 [Không thể để hắn sống sót được. Bọn họ lầm rồi. Bọn họ đã xác định sai mục tiêu ưu tiên rồi. Chúng ta phải xóa sổ tên này trước bất kỳ thứ gì khác!]
 

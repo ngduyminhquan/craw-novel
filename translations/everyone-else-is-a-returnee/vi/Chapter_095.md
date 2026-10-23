@@ -164,7 +164,7 @@ Khi bàn tay anh chạm vào bề mặt chất lỏng, một dòng chữ màu xa
 
 [Bạn đã tạo ra một thứ đồ uống có cồn từ tinh hoa của Long tộc tối thiểu chuyển chức 4. Dù không ai có thể thưởng thức nếu thiếu đi kháng độc cực hạn, nhưng hương thơm xuất chúng và hiệu quả phi thường của nó đều rất đáng ngợi khen. Bạn có tư cách đặt tên cho thứ đồ uống có cồn này.]
 
-Một tia sét lóe lên trong đầu Yu IlHan. Thật ra anh cũng chẳng hiểu tường tận chuyện gì vừa xảy ra, nhưng có lẽ anh đã tìm ra một loại độc dược tuyệt vời để thay thế thức uống máu!
+Một tia sét lóe lên trong đầu Yu IlHan. Thật ra anh cũng chẳng hiểu tường tận chuyện gì vừa xảy ra, nhưng có lẽ anh đã tìm ra một loại thần dược tuyệt vời để thay thế thức uống máu!
 
 Yu IlHan và Erta đặt tên cho thứ đồ uống có cồn này là 'Hơi Thở'.
 

@@ -130,7 +130,7 @@ Trước khi trở thành thiên thần, việc săn rồng đối với cô cũ
 
 Nghĩ đến chuyện đó, Yu IlHan chỉ có thể được gọi là quái vật. Dẫu đúng là anh nhận được sự hỗ trợ từ những trang bị đáng sợ cùng kỹ năng Thiên Thần Chi Viện, nhưng với tốc độ tăng trưởng hiện tại, chẳng mấy chốc anh sẽ vượt qua cả sức mạnh của Erta hồi cô còn là một thực thể cấp thấp.
 
-Số sinh linh nhận được tiềm năng phát triển vô hạn nhờ tiếp xúc với Hồ Sơ Akashic nhiều hơn cả cát trên bãi biển, nhưng những kẻ chạm tới cảnh giới của thực thể cấp cao lại vô cùng hiếm hoi. Vì thế, dẫu một người có vĩ đại đến mức nào đi chăng nữa, thật khó để nói trước liệu người đó có thể trở thành thực thể cấp cao hay không.
+Dù số kẻ nhận được tiềm năng phát triển vô hạn sau khi tiếp xúc với Hồ Sơ Akashic nhiều hơn cả cát trên bãi biển, nhưng những kẻ chạm tới cảnh giới của thực thể cấp cao lại vô cùng hiếm hoi. Vì thế, dẫu một người có vĩ đại đến mức nào đi chăng nữa, thật khó để nói trước liệu người đó có thể trở thành thực thể cấp cao hay không.
 
 Thế nhưng, còn Yu IlHan thì sao? Chẳng lẽ cậu ta sẽ trở thành thực thể cấp cao một cách dễ như trở bàn tay?
 
