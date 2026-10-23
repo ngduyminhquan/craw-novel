@@ -1,4 +1,4 @@
-# Chương 66: Tôi Cũng Là Chủ Tòa Nhà 4
+# Chương 66: Tôi cũng là chủ tòa nhà (4)
 
 Vừa về đến nhà, Yu IlHan đã đờ người ra trước cơn bão ảnh đổ dồn tới tấp qua ứng dụng nhắn tin trên điện thoại, tất cả đều từ Na YuNa gửi đến vì ngay khi hai người đổi số, ứng dụng đã tự động kết bạn với cô.
 

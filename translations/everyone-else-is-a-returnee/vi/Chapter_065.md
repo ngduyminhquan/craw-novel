@@ -196,7 +196,7 @@ Na YuNa ngoan ngoãn gật đầu rồi vừa cắn ngón tay như con nít vừ
 
 "Ở đâu?"
 
-"Có một căn mà ông nội đang để dành ở khu gia cố Gangnam, nhưng chắc chỉ cần em thơm má một cái là ông cho liền à."
+"Có một căn mà ông nội đang để dành ở khu gia cố Gangnam, nhưng chắc chỉ cần tớ thơm má một cái là ông cho liền à."
 
 "À, chuyện đó thì chắc chắn rồi…"
 
@@ -264,7 +264,7 @@ Sự tự tin không bao giờ thái quá, thực lực xứng tầm với niề
 
 Kang MiRae muốn có được Yu IlHan. Mỗi khi nhìn anh, cô không kìm lòng được mà muốn chiếm đoạt lấy con người này.
 
-Ham muốn chiếm hữu đầu tiên đối với một con người. Người ta thường bảo giọt máu đào hơn ao nước lã, và có vẻ như cô cũng rất giống Kang HaJin ở phương diện này.
+Ham muốn chiếm hữu đầu tiên đối với một con người. Người ta thường bảo cùng một dòng máu thì không lẫn đi đâu được, và có vẻ như cô cũng rất giống Kang HaJin ở phương diện này.
 
 Thế nhưng, cô lại không tin vào tình yêu. Ngoại trừ mối quan hệ thân như ruột thịt với Kang HaJin và Na YuNa, cô cho rằng mọi mối quan hệ khác giữa người với người đều chỉ là sự trao đổi giao dịch.
 

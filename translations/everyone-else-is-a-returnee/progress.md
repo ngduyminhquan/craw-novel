@@ -68,9 +68,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 61 |  | Chapter_061 - I Carry (8).txt | I Carry (8) | reviewed |  |
 | 62 |  | Chapter_062 - I Carry (9).txt | I Carry (9) | reviewed |  |
 | 63 |  | Chapter_063 - I Am Also A Building Owner 1.txt | I Am Also A Building Owner 1 | reviewed |  |
-| 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | done |  |
-| 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | done |  |
-| 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | done |  |
+| 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | reviewed |  |
+| 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | reviewed |  |
+| 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | reviewed |  |
 | 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | todo |  |
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | todo |  |
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | todo |  |

@@ -359,3 +359,4 @@
 | Vanguard |  | Vanguard | tổ chức | 66 | Tên thương hiệu và công ty sản xuất trang bị do Yu IlHan thành lập |
 | Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
 | holy power |  | thánh lực | hệ thống | 66 | Năng lượng thần thánh dị năng giả sử dụng, thực chất là một dạng mana |
+| 3rd class magic stone |  | ma thạch chuyển chức 3 | vật phẩm | 28 | Ma thạch của quái vật chuyển chức 3 |

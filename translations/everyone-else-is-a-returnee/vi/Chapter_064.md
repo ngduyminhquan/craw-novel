@@ -192,7 +192,7 @@ Do đã dùng tim của Thiết Tâm vào chỗ này chỗ kia nên anh thực s
 
 Cẩn thận sao cho các đặc tính của xương Quegna không bị tổn hại, Yu IlHan thử nghiệm đúc hợp kim nhiều lần, và kỹ năng Rèn Đúc cấp đại sư của anh quả không phải để trưng, anh đã có thể tạo ra một cây cốt trượng sở hữu độ cứng tối ưu cùng khả năng khuếch đại ma lực tuyệt đỉnh nhất. Erta và Lita chẳng buồn bắt bẻ thêm lời nào nữa.
 
-"Và một viên ma thạch cấp 3 để hoàn thiện."
+"Và một viên ma thạch chuyển chức 3 để hoàn thiện."
 
 [Aiz, IlHan của chúng ta chẳng biết mình đang làm cái gì đâu.] (Lita)
 
@@ -242,7 +242,7 @@ Yu IlHan đọc lướt qua phần miêu tả của vật phẩm rồi lẩm b�
 
 Yu IlHan ngẫm nghĩ một thoáng, nhưng rồi anh nhún vai đáp.
 
-"Chà, dù có phải nhổ tận gốc rễ thì cô ấy cũng sẽ trả cho tôi thôi."
+"Chà, dù có phải vét cạn gia sản thì cô ấy cũng sẽ trả cho tôi thôi."
 
 Xương của Quegna vốn chứa mana bên trong, lại được bảo quản ở tình trạng hoàn hảo nhất nhờ phương thức chiến đấu của Yu IlHan, không chỉ dùng làm quyền trượng mà còn rất hữu dụng để chế tạo đủ loại vũ khí.
 
@@ -250,7 +250,7 @@ Thầm nghĩ thật may vì lúc buồn chán mình đã tiện tay hạ sát kh
 
 Chiếc áo choàng làm từ da của Chim Sấm Sét Khổng Lồ — con quái vật chết một cách bình thường nhất — cùng vài viên ma thạch chuyển chức 2, thật may mắn là đã dừng lại ở phẩm cấp Độc Nhất.
 
-"Được rồi. Đi nhổ tận gốc rễ Empress thôi nào."
+"Được rồi. Đi vét sạch túi Empress thôi nào."
 
 [Tôi khá tò mò không biết phản ứng của cô nàng sẽ thế nào nếu cậu cho cô ấy xem cả chiếc áo khoác của hắc pháp sư đấy.] (Erta)
 
