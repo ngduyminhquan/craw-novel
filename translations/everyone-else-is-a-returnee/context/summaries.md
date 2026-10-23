@@ -623,3 +623,9 @@ Yu IlHan toan dùng ma pháp trận chạy trốn khi nhận định trùm rồn
 Yên tâm quay lại chiến trường, IlHan phối hợp cùng một con rồng đồng minh sống sót cuối cùng của Khu Vườn Hoàng Hôn càn quét tiêu diệt 31 con rồng còn lại của Quân Đội Ma Hủy Diệt; Erta giải thích quy tắc hạn chế của thế lực kẻ siêu việt và quá trình rũ bỏ lớp vỏ khi phi thăng.
 Trước khi trút hơi thở cuối cùng, Lecidna khẩn thiết nhờ IlHan ghé thăm hang ổ nơi hai người gặp nhau lần đầu; IlHan đồng ý và cất giữ thi thể cô vào túi sau khi cô qua đời, trong khi con rồng đồng minh cuối cùng cũng tử trận.
 Cảnh kết thúc: Toàn bộ bầy rồng của Quân Đội Ma Hủy Diệt bị tiêu diệt sạch sẽ, để lại một mình con rồng thực thể cấp cao chuyển chức 5 vẫn đang vỗ cánh trên không và trừng mắt nhìn IlHan.
+
+## 101
+Con rồng chuyển chức 5 Teraka (đã trở thành thực thể cấp cao Ma Binh Hủy Diệt) thất bại trong việc lừa gạt bảo vệ 19 ấu long còn sót lại; hắn cảnh báo về những biến cố sắp tới giữa Trái Đất và Daréu rồi ngỏ lời chiêu dụ IlHan gia nhập Quân Đội Ma Hủy Diệt trước khi rời đi, trong khi Erta khuyên IlHan gia nhập Quân Đội Thiên Giới nhưng anh một mực từ chối vì ghét hội nhóm.
+Yu IlHan kích hoạt ma pháp trận tìm đến sào huyệt hang động bí mật và tận dụng sức mạnh tử thần ẩn thân nhất kích tất sát toàn bộ 19 con rồng sơ sinh (Ấu Long Lv 153), chính thức xóa sổ hoàn toàn loài rồng khỏi đại lục Daréu.
+Sau khi thu dọn toàn bộ kho tàng vàng bạc châu báu nhưng thất vọng vì không tìm thấy Trái tim rồng nào, IlHan nhớ tới lời trăn trối của Lecidna và dùng ma pháp trận quay lại hang ổ nơi hai người gặp nhau lần đầu.
+Cảnh kết thúc: Bước vào hang động, Yu IlHan vỡ lẽ nhận ra lý do không thể hiểu nổi Lecidna vì cô là một "bà nội trợ", khi trước mắt anh tại nơi cô từng nằm là một quả trứng vàng kim khổng lồ cùng một bức thư cô để lại.

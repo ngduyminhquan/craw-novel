@@ -35,6 +35,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | cô / Liera | 91 | Tên mới của Lita từ chương 91 |
 | Lecidna | con rồng / Lecidna / cô nàng | 90 | Con rồng vảy vàng kim thuộc phe Khu Vườn Hoàng Hôn |
 | Karrows | hắn / con rồng đen / Karrows | 98 | Con rồng vảy đen chuyển chức 4 tự xưng thủ lĩnh phe địch |
+| Teraka | hắn / con rồng / Teraka | 101 | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -121,4 +122,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lecidna | Erta | tôi | cô | 92 | Lecidna đối thoại với thiên thần Erta |
 | Karrows | Yu IlHan | ta | ngươi / con người | 98 | Karrows khiêu khích và lao vào quyết chiến với IlHan |
 | Yu IlHan | Karrows | ta / tôi | ngươi / mi | 98 | IlHan giễu cợt và đối đầu trực diện với Karrows |
+| Teraka | Yu IlHan | ta | ngươi / con người Yu IlHan | 101 | Teraka chiêu dụ IlHan gia nhập Quân Đội Ma Hủy Diệt |
+| Yu IlHan | Teraka | tôi / ta | ngươi | 101 | IlHan đối đáp với rồng chuyển chức 5 Teraka |
+| Teraka | Erta | ta | các ngươi / ả | 101 | Teraka mỉa mai thiên thần Quân Đội Thiên Giới |
+| Erta | Teraka | ta / tôi | ngươi / các ngươi | 101 | Erta phẫn nộ trước lời chiêu dụ của Teraka |
 

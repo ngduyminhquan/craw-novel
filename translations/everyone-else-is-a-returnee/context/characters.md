@@ -35,6 +35,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
+| Teraka | Teraka-nim | Teraka | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu | 101 |
+| Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 
 ## Chi tiết
 
@@ -305,3 +307,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / tính cách: Thân hình thuôn dài tương đối nhỏ gọn so với các rồng khác, tốc độ bay cực nhanh; giọng điệu ngông cuồng, tàn nhẫn, không ngần ngại thiêu chết đồng đội cản đường; tự xưng là thủ lĩnh của bầy rồng.
 - Xuất hiện tính đến chương 98: Tập kích Yu IlHan từ trên không; trúng đòn ném xác quái triệu tấn bọc Chuyển Giao Trọng Lượng của IlHan nhưng dùng hắc khí giải thể; phun hắc hỏa thiêu rụi cả đồng đội làm bệ dẫm chân của IlHan rồi lao vào quyết chiến với anh.
 - Trạng thái tính đến chương 99: Dùng kết giới hắc hỏa nguyền rủa và ma pháp Biến Hình thành dạng elf dịch chuyển không gian tập kích Yu IlHan, nhưng bị IlHan kích hoạt lưỡi đao bọc Liệt Hỏa từ giáp nách đâm xuyên đầu kết liễu; bị IlHan thu thập xác (Nguyền Long Lv 242).
+
+### Teraka
+- Giới tính, vai trò: Rồng chuyển chức 5, đã trở thành thực thể cấp cao (Ma Binh Hủy Diệt) thuộc Quân Đội Ma Hủy Diệt; trùm cuối chiến trường Daréu.
+- Ngoại hình / tính cách: Con rồng khổng lồ tỏa uy áp kinh hoàng, có thể biến hình thành nam elf điển trai tóc đen dài mắt đỏ; nói năng trôi chảy, cao ngạo nhưng biết nhìn nhận thực tế và trân trọng kẻ mạnh; ngỏ lời chiêu mộ Yu IlHan trở thành Ma Binh Hủy Diệt.
+- Xuất hiện tính đến chương 101: Do đã giải phóng toàn bộ năng lượng tàn dư (lột bỏ lớp vỏ) nên không thể tấn công IlHan ở thế giới bậc thấp; sau khi lừa gạt bảo vệ 19 ấu long thất bại, hắn chiêu dụ IlHan gia nhập Quân Đội Ma Hủy Diệt trước khi rời đi.

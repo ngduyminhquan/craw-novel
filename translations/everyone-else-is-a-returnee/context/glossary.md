@@ -482,3 +482,5 @@
 | Cursed Dragon |  | Nguyền Long | quái vật | 99 | Quái vật loài rồng chuyển chức 4 cấp 242 (Karrows) sở hữu hỏa diễm nguyền rủa |
 | dragon-tongue |  | tiếng rồng | khác | 93 | Ngôn ngữ cổ xưa của loài rồng mà Yu IlHan có thể hiểu được nhờ kỹ năng Ngôn Ngữ |
 | casting off one's shell | cast off one's shell; cast away one's shell | lột bỏ lớp vỏ | khác | 100 | Quá trình thực thể cấp cao giải phóng toàn bộ năng lượng tàn dư thế giới bậc thấp (phần tàn dư gọi là lớp vỏ - shell) |
+| Destruction Demon Soldier | Destruction Demon Soldiers | Ma Binh Hủy Diệt | khác | 101 | Chiến binh thuộc Quân Đội Ma Hủy Diệt sau khi trở thành thực thể cấp cao |
+| Immature Dragon |  | Ấu Long | quái vật | 101 | Quái vật rồng sơ sinh chưa thức tỉnh của bầy rồng Quân Đội Ma Hủy Diệt |
