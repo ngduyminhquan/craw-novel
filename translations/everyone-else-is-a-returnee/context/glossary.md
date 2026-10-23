@@ -360,3 +360,9 @@
 | Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
 | holy power |  | thánh lực | hệ thống | 66 | Năng lượng thần thánh dị năng giả sử dụng, thực chất là một dạng mana |
 | 3rd class magic stone |  | ma thạch chuyển chức 3 | vật phẩm | 28 | Ma thạch của quái vật chuyển chức 3 |
+| Clan | clan | Clan | tổ chức | 44 | Nhóm hoặc tổ chức tập hợp các dị năng giả |
+| Clan Master | clan master | Chủ Clan | danh hiệu | 67 | Người đứng đầu một clan (như Kang MiRae là Chủ Clan của Clan Lôi Thần) |
+| Lightning God clan | Lightning God; Lighting God | Clan Lôi Thần | tổ chức | 67 | Clan do Kang MiRae làm Chủ Clan, Kang HaJin làm phó clan, Na YuNa làm thành viên |
+| Sharp Wolf Bone Bastard |  | Kiếm Bastard Xương Sói Sắc Bén | vật phẩm | 67 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo đại trà từ xương sói |
+| Dark Shadow |  | Hắc Ảnh | quái vật | 67 | Quái vật cấp 93 trong hầm ngục nguy hiểm nhất Trái Đất |
+| Warhammer | War Hammer | Chiến Búa | vật phẩm | 67 | Vũ khí búa chiến |

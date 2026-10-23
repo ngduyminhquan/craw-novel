@@ -71,7 +71,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 64 |  | Chapter_064 - I Am Also A Building Owner 2.txt | I Am Also A Building Owner 2 | reviewed |  |
 | 65 |  | Chapter_065 - I Am Also A Building Owner 3.txt | I Am Also A Building Owner 3 | reviewed |  |
 | 66 |  | Chapter_066 - I Am Also A Building Owner 4.txt | I Am Also A Building Owner 4 | reviewed |  |
-| 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | todo |  |
+| 67 |  | Chapter_067 - I Am Also A Building Owner 5.txt | I Am Also A Building Owner 5 | done |  |
 | 68 |  | Chapter_068 - I Am Also A Building Owner 6.txt | I Am Also A Building Owner 6 | todo |  |
 | 69 |  | Chapter_069 - Me, a God!_ 1.txt | Me, a God!_ 1 | todo |  |
 | 70 |  | Chapter_070 - Me, a God!_ 2.txt | Me, a God!_ 2 | todo |  |
@@ -369,9 +369,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -601,3 +598,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#66] Tên thương hiệu Vanguard → Giữ nguyên 'Vanguard' (orchestrator)
 - [#66] Trang bị Frightening Hard Leather Gauntlet → Chốt 'Hộ Thủ Da Cứng Kinh Hãi' (orchestrator)
 - [#66] Thực thể God of Smithing → Chốt 'Thần Rèn Đúc' (orchestrator)
+- [#67] Quan hệ & xưng hô giữa Kang HaJin và Kang MiRae — Vấn đề: Trong `pronouns.md` từ chương 50 ghi quan hệ "Bạn nối khố từ thuở nhỏ" (gọi nhau cậu - tớ). Tuy nhiên ở chương 67 raw khẳng định rõ ràng "his little sister" và "The siblings" (hai anh em ruột). Tạm chọn: Cập nhật quan hệ thành hai anh em ruột (HaJin là anh trai, MiRae là em gái); khi nói chuyện công việc HaJin gọi MiRae là "Chủ Clan", đời thường xưng anh - em. Tạm dùng trong bản dịch #67: HaJin gọi MiRae là "Chủ Clan", các câu còn lại dùng lời thoại trung tính tránh mâu thuẫn xưng hô cũ. → Chốt cập nhật quan hệ thành hai anh em ruột từ chương 67 (công việc gọi Chủ Clan, đời thường xưng anh - em); giữ nguyên dòng cũ ở chương 50 theo quy tắc pronouns.md (orchestrator)
+- [#67] Tên clan "Lightning God" — Tạm chọn: "Clan Lôi Thần" (chuẩn Hán Việt, đồng bộ với vũ khí Lôi Thần Chúc Phúc ở #64). Phương án khác: Giữ nguyên "Clan Lightning God" hoặc "Bang Lôi Thần". Tạm dùng trong bản dịch: "Clan Lôi Thần". → Chốt 'Clan Lôi Thần' (orchestrator)
+- [#67] Tên vũ khí "Sharp Wolf Bone Bastard" — Tạm chọn: "Kiếm Bastard Xương Sói Sắc Bén". Phương án khác: "Cốt Kiếm Bastard Sói Sắc Bén". Tạm dùng trong bản dịch: "Kiếm Bastard Xương Sói Sắc Bén". → Chốt 'Kiếm Bastard Xương Sói Sắc Bén' (orchestrator)
+- [#67] Tên quái vật "Dark Shadow" (Lv 93) — Tạm chọn: "Hắc Ảnh" (ngắn gọn, chuẩn Hán Việt). Phương án khác: "Bóng Đêm Hắc Ám", "Bóng Ma Hắc Ám". Tạm dùng trong bản dịch: "Hắc Ảnh". → Chốt 'Hắc Ảnh' (orchestrator)

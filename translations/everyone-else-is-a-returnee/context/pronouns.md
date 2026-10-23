@@ -95,3 +95,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Myuta | Spiera | ta / tôi | Spiera / cô | 62 | Chủ tọa hội đồng khuyên can Spiera |
 | Erta | Reta Kar'iha | ta / tôi | ngươi / cô | 63 | Erta chất vấn và khiển trách tàn niệm Reta Kar'iha |
 | Reta Kar'iha | Erta | tôi | thiên thần / cô | 63 | Reta đối thoại và giải thích với Erta |
+| HaJin | Kang MiRae | tôi / anh | Chủ Clan / MiRae / em | 67 | Anh trai và em gái; khi nói chuyện công việc gọi MiRae là Chủ Clan |
+| Kang MiRae | HaJin | tôi / em | anh / HaJin | 67 | Em gái và anh trai (chủ clan và phó clan) |

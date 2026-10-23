@@ -93,6 +93,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 63: Nắm bắt nguy cơ Vỡ Hầm Ngục kết nối sang Daréu khi mana tăng vọt sau Đại Tai Biến lần 2 (chỉ còn khoảng 50 năm); đạt thỏa thuận với tàn niệm Reta Kar'iha để sử dụng ma pháp trận cổ đại của đế chế elf (nhìn thấu cấp độ và dịch chuyển tức thời khắp đại lục); lên kế hoạch một mình bí mật sang Thế Giới Bị Bỏ Rơi Daréu săn tỉa lũ rồng yếu nhằm thu hoạch toàn bộ da rồng quý giá.
 - Trạng thái tính đến chương 64: Hoàn thành Nhiệm Vụ Thiên Giới [Bảo Vệ Trái Đất], nhận 26 điểm chỉ số (+4 toàn bộ chỉ số, riêng Ma pháp +10); các kỹ năng Quái Lực, Chí Mạng, Bật Nhảy thăng vọt lên cấp 20 (mở khóa khả năng bật nhảy lần 2 giữa không trung không tốn mana); Chế Tác Mana đạt cấp 31; chế tạo thành công vũ khí phẩm cấp Truyền Thuyết 'Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc' (Sức tấn công 1.900, Sức tấn công ma pháp 3.100, kèm kỹ năng đặc biệt 'Hưng Phấn') cùng áo choàng phẩm cấp Độc Nhất cho Kang MiRae.
 - Trạng thái tính đến chương 66: Trở thành chủ tòa nhà tại khu gia cố Gangnam và mua trọn tầng cao nhất một khu căn hộ đắt đỏ gần đó; đăng ký thương hiệu 'Vanguard' và chuyển xưởng rèn xuống tầng hầm 5 của tòa nhà; sản xuất hàng loạt trang bị phẩm cấp Hiếm từ phụ phẩm quái vật cấp 30-40; được Thần Rèn Đúc phát hiện và hứa hẹn ban phước lành sau hai nhiệm vụ chưa rõ nội dung.
+- Trạng thái tính đến chương 67: Khai trương thương hiệu 'Vanguard' tại tầng 13 tòa nhà Gangnam (khóa kín tầng 14), bán vũ khí chuẩn Vanguard phẩm cấp Hiếm (như Kiếm Bastard Xương Sói Sắc Bén sức tấn công 1.950) đồng giá 100 triệu won hoặc phụ phẩm tương đương; quy định chỉ mở cửa thứ Hai từ 10h-17h, mỗi khách tối đa 2 món, không tiếp thương nhân; dùng ma pháp bảo hộ của thiên thần chặn đứng mọi vụ đột nhập; một mình tiến vào hầm ngục nguy hiểm nhất thế giới săn Hắc Ảnh Lv 93 nhằm hoàn thành điều kiện tập kích tiêu diệt 3.000 quái vật chuyển chức 2 trong trạng thái ẩn thân để tiến hóa kỹ năng Ẩn Thân.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -132,6 +133,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 54: Nhận cuộc gọi bất ngờ từ Yu IlHan đề nghị bán vũ khí và áo giáp phẩm cấp Độc Nhất được tối ưu theo đặc tính của cô; lập tức đồng ý và đề nghị đặt thêm trọn bộ trang bị cho Na YuNa và anh trai Kang HaJin.
 - Trạng thái tính đến chương 55: Gặp mặt IlHan tháo mặt nạ để thể hiện sự tôn trọng; đặt hàng một cây trượng và áo choàng pháp sư có dòng thuộc tính beta (giảm thời gian hồi chiêu kỹ năng ma pháp và tăng hồi phục ma pháp) với giá lên tới 17 tỷ won; tiết lộ từng chứng kiến Cung Đình Ma Pháp Trưởng của đế quốc Palladia dùng trượng Độc Nhất một mình diệt quái vật chuyển chức lần 4.
 - Trạng thái tính đến chương 65: Mua Cốt Trượng phẩm cấp Truyền Thuyết và Áo Choàng phẩm cấp Độc Nhất từ Yu IlHan với giá 100 tỷ won (kèm quyền sở hữu một tòa nhà); thề sẽ nỗ lực vượt qua anh; bộc lộ tham vọng chiếm hữu và khao khát nâng cao giá trị bản thân để xứng đáng chinh phục IlHan, quyết tâm không để Na YuNa cướp mất anh.
+- Trạng thái tính đến chương 67: Kiểm tra giáp vai và ủng của Vanguard mà anh trai Kang HaJin mua được, nhận định việc kinh doanh của IlHan là sự nối dài từ giao dịch với mình và khen ngợi anh là người chính trực; suýt phóng sét thiêu rụi văn phòng khi bị Na YuNa trêu chọc; giữ chức Chủ Clan và quyết định chính thức chiêu mộ thành viên cho 'Clan Lôi Thần'.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -162,7 +164,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Hơi ghen tị với năng lực phi thường của Yu IlHan và hay cằn nhằn về những biến cố bất ngờ trên Trái Đất, bị Erta dùng uy lực răn đe.
 
 ### HaJin
-- Giới tính, vai trò: Nam dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
+- Giới tính, vai trò: Nam dị năng giả người Hàn (chức nghiệp Thánh Kỵ Sĩ), anh trai của Kang MiRae, phó clan của Clan Lôi Thần.
 - Tính cách: Điềm tĩnh, nhắc nhở đồng đội giữ bình tĩnh giữa chiến trường hỗn loạn.
 - Trạng thái tính đến chương 39: Cùng Na YuNa tiến vào hầm ngục Grand Canyon để hỗ trợ thu thập nọc bọ cạp rồi nhanh chóng quay về Hàn Quốc.
 - Trạng thái tính đến chương 41: Bị Bọ Cạp Cát Khổng Lồ truy đuổi chạy thục mạng cùng Na YuNa; nhận diện IlHan là 'Hiệp Sĩ Bóng Đêm LA'.
@@ -172,6 +174,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 48: Nhận bùa lợi của Na YuNa liều mạng chống đỡ quái vật tử thần để câu giờ cho IlHan đến khi vỡ nát giáp trụ; lập tổ đội với IlHan và lên cấp khi quái vật tử thần bị tiêu diệt; tiết lộ từng có 10 năm sinh tồn ở Tháp Địa Ngục.
 - Trạng thái tính đến chương 49: Nhường toàn bộ ma thạch đen và di vật của Reta Kar'iha cho Yu IlHan; biết tên thật của IlHan và kinh ngạc trước thái độ phũ phàng cự tuyệt nhan sắc Na YuNa của anh; cảm thấy tự ti trước mối quan hệ thân thiết giữa IlHan và các thiên thần.
 - Trạng thái tính đến chương 50: Cùng Na YuNa về nước an toàn giao nọc bọ cạp cho Kang MiRae; giấu đi mặc cảm tự ti trước sức mạnh của IlHan và nuôi tham vọng thu phục anh về dưới trướng.
+- Trạng thái tính đến chương 67: Cùng Na YuNa đến cửa hàng Vanguard mua giáp vai và ủng; thừa nhận bản thân bất lực trước năng lực và các mối quan hệ khó tin của IlHan; giữ chức phó clan và cùng em gái Kang MiRae chuẩn bị chiêu mộ thành viên cho 'Clan Lôi Thần'.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -186,6 +189,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 49: Bị IlHan từ chối xin số điện thoại; biết tên thật của IlHan và chuyển sang gọi anh là 'IlHan'; hào hứng trước phản ứng phũ phàng khác lạ của IlHan; cùng HaJin lên máy bay về Hàn Quốc và hy vọng sớm tái ngộ IlHan.
 - Trạng thái tính đến chương 50: Về đến sân bay Incheon cùng Kang HaJin; phơi bày việc HaJin bị đập tơi tả và không ngừng liến thoắng khen ngợi thực lực phi thường của Yu IlHan trước mặt Kang MiRae.
 - Trạng thái tính đến chương 65: Tới quán trà ứng cứu tiền cho Kang MiRae; vung tiền chuyển khoản 150 tỷ won và hứa tặng thêm một tòa nhà ở khu gia cố Gangnam của ông nội để đặt cọc IlHan chế tạo trọn bộ trang bị cho mình và HaJin; để lộ sự chú ý và hứng thú với IlHan như một ứng viên "cháu rể" tiềm năng.
+- Trạng thái tính đến chương 67: Nhận ra người thợ rèn tạo ra trang bị cho cửa hàng Vanguard chính là Yu IlHan; liên tục trêu chọc chuyện đó khiến Kang MiRae phát điên.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
