@@ -24,7 +24,7 @@ Anh vắt óc suy nghĩ để tính toán quỹ đạo các đòn công kích c�
 
 Áo giáp của Yu IlHan tan chảy, cùng lúc đó da thịt anh cũng bị thiêu cháy. Từng vòi máu phun xối xả từ cơ thể Orochi. Cứ ba đòn đánh của anh thì có ít nhất hai đòn trúng chí mạng, và tới lúc này, số đòn chí mạng cộng dồn đã lên tới hàng chục.
 
-"Nhưng mẹ kiếp sao nó mãi không chịu chết thế này! U oa a a a a a a!"
+"Nhưng mẹ kiếp sao nó mãi không chịu chết thế này! A a a a a a a a!"
 
 {Kroaaaaaaar!}
 
@@ -80,7 +80,7 @@ Khung cảnh tráng lệ trông như bầy rồng đang bay vút lên trời, nh
 
 {Kgwaaaak!}
 
-Kích hoạt bật nhảy kép trong lúc rơi xuống, Yu IlHan đạp mạnh vào không khí rồi thoát ra xa nó hết mức có thể.
+Kích hoạt bật nhảy lần hai trong lúc rơi xuống, Yu IlHan đạp mạnh vào không khí rồi thoát ra xa nó hết mức có thể.
 
 Những chiếc đuôi của nó không ngờ anh lại đột ngột đổi hướng giữa không trung nên đã xoắn tít vào nhau thành một mớ hỗn độn. Dẫu vậy, sẽ chẳng mất bao lâu để nó gỡ rối đám đuôi rồi lại lao vào tấn công Yu IlHan.
 
@@ -160,7 +160,7 @@ Anh biết rõ rằng tất cả sẽ chấm hết nếu không giết chết n�
 
 "Không thể nào."
 
-Kang HaJin chối bỏ thực tế dù đang tận mắt chứng kiến cảnh tượng ấy. Không phải anh muốn Yu IlHan phải chết. Thế nhưng, ít nhất anh cũng nghĩ rằng đối phương phải rơi vào một tình thế ngặt nghèo hơn chứ.
+Kang HaJin chối bỏ thực tế dù đang tận mắt chứng kiến cảnh tượng ấy. Không phải cậu muốn Yu IlHan phải chết. Thế nhưng, ít nhất cậu cũng nghĩ rằng đối phương phải rơi vào một tình thế ngặt nghèo hơn chứ.
 
 Chẳng phải thứ này là quái vật chuyển chức 4 sao? Trên Trái Đất lúc này đáng lẽ ra không thể có ai đơn thương độc mã chiến đấu với chuyển chức 4 được!
 
@@ -170,7 +170,7 @@ Chẳng phải thứ này là quái vật chuyển chức 4 sao? Trên Trái Đ�
 
 "Vũ khí. Vũ khí của anh ta chắc chắn phải rất đặc biệt."
 
-Lời giải thích mà Kang HaJin nghĩ ra trong lúc chối bỏ thực tế không thể nào chính xác hơn, thế nhưng những người khác đều phớt lờ anh.
+Lời giải thích mà Kang HaJin nghĩ ra trong lúc chối bỏ thực tế không thể nào chính xác hơn, thế nhưng những người khác đều phớt lờ cậu.
 
 Chủ Clan, Kang MiRae, nghiến chặt răng khi nhìn Yu IlHan đang giao chiến ngang ngửa với Orochi.
 
@@ -182,7 +182,7 @@ Chủ Clan, Kang MiRae, nghiến chặt răng khi nhìn Yu IlHan đang giao chi�
 
 Kang MiRae quả quyết tuyên bố rồi cắn mở nắp một bình thuốc màu xanh lam trước khi giơ cao cây trượng bằng cả hai tay.
 
-"Dù sao thì thù hận của Orochi cũng hoàn toàn bị anh ấy thu hút rồi. Chúng ta chỉ cần cẩn thận với những đòn đánh lạc hướng thôi. Chẳng hạn như mấy chiếc lưỡi dao và ngọn lửa kia."
+"Dù sao thì thù hận của Orochi cũng hoàn toàn bị anh ấy thu hút rồi. Chúng ta chỉ cần cẩn thận với những đòn tấn công bay lạc thôi. Chẳng hạn như mấy chiếc lưỡi dao và ngọn lửa kia."
 
 "Xem ra anh phải đem mạng ra mà phòng thủ rồi."
 

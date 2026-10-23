@@ -20,7 +20,7 @@ Tuy nhiên, nếu chỉ bấy nhiêu thôi mà ngăn chặn được tình hình
 
 Khoảnh khắc Lita vừa lắc đầu vừa hét lên, một suy đoán đáng sợ chợt lóe lên trong tâm trí Yu IlHan.
 
-"Trong tình cảnh này, khi một lượng quái vật khổng lồ bị giải phóng vào một phạm vi hạn chế do hầm ngục bị vỡ, nếu có kẻ ném nhiều chiếc Bẫy Hủy Diệt vào cùng một chỗ, thì chẳng phải hoàn toàn có thể nhân tạo gây ra Hiện Tượng Tràn hay sao?"
+"Trong tình cảnh này, khi một lượng quái vật khổng lồ bị giải phóng vào một phạm vi hạn chế do hầm ngục bị vỡ, nếu có kẻ ném nhiều chiếc Bẫy Hủy Diệt vào cùng một chỗ, thì chẳng phải hoàn toàn có thể gây ra một Hiện Tượng Tràn nhân tạo hay sao?"
 
 Phán đoán của Yu IlHan hoàn toàn chính xác. Trên thực tế, nếu Hiện Tượng Tràn xảy ra giữa tình cảnh này, giữa một Đợt Sóng Hầm Ngục, thì chẳng còn lời giải thích nào khác nữa.
 
@@ -174,7 +174,7 @@ Cô muốn giúp anh, nhưng kỹ năng Thiên Thần Chi Viện lại là thứ
 
 [Không được, Erta.] (Lita)
 
-Ngay khi Erta sắp sửa bùng nổ sau khi kìm nén cơn bức bối, nói cách khác, ngay khi cô sắp sửa vi phạm quy định của Quân Đội Thiên Giới! Lita đã ngăn cô lại bằng giọng điềm tĩnh.
+Ngay khi Erta sắp sửa bùng nổ sau khi kìm nén cơn bức bối — nói cách khác, ngay khi cô sắp sửa vi phạm quy định của Quân Đội Thiên Giới — Lita đã ngăn cô lại bằng giọng điềm tĩnh.
 
 [Hãy tin tưởng IlHan và chờ đợi xem sao.] (Lita)
 
@@ -210,7 +210,7 @@ Dù kẻ địch trước mắt là thứ có thể đe dọa đến cả tính 
 
 [Vào lúc dầu sôi lửa bỏng thế này đừng có nghĩ ra mấy cái tên chiêu thức quái gở như thế chứ!] (Erta)
 
-Đúng lúc đó, bản thân khẩu Súng Bắn Cọc đã cắm phập vào yết hầu đang mở toang của Yamata no Orochi — nơi vừa mới khai hỏa ma đạn xong. Khoảnh khắc mắt Yamata no Orochi trợn trừng kinh ngạc, Yu IlHan khai hỏa cọc đạn đồng thời chuyển giao toàn bộ trọng lượng khổng lồ từ Túi Đeo Chéo vào đó!
+Đúng lúc đó, bản thân khẩu Súng Bắn Cọc đã cắm phập vào yết hầu đang mở toang của Yamata no Orochi — nơi vừa mới khai hỏa đạn ma pháp xong. Khoảnh khắc mắt Yamata no Orochi trợn trừng kinh ngạc, Yu IlHan khai hỏa cọc đạn đồng thời chuyển giao toàn bộ trọng lượng khổng lồ từ Túi Đeo Chéo vào đó!
 
 {Kroaaaakagagagagak!}
 

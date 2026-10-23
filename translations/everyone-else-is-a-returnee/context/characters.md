@@ -101,6 +101,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 70: Hoàn tất tiến hóa kỹ năng Ẩn Thân thành kỹ năng bị động [Tử Thần] (thăng lên cấp 3); Túi Đeo Chéo được bổ sung thêm tính năng 'thu hồi vật sở hữu từ xa' và 'mở rộng không gian'; phối hợp Atlatl Xương Nguyệt Quang Thô Ráp một mình bình định nửa tỉnh Kanagawa và giải cứu thành phố Odawara; được người dân Nhật Bản tôn xưng là Thần Bão Tố Susanoo giáng trần.
 - Trạng thái tính đến chương 71: Đạt cấp 82 sau khi dùng hơn 100 lựu đạn xương cường hóa ma thạch chuyển chức 2 quét sạch Đợt Vỡ Hầm Ngục tại Tokyo và tiêu diệt Ark Katrar Lv 103; thức tỉnh kỹ năng [Thuật Ném] Lv Max; nhận danh hiệu 'Nhất Kích Thiên Quân' (+50% tỷ lệ chí mạng khi đánh nhiều kẻ địch cùng lúc); Quái Lực thăng lên Lv 24 và Siêu Việt Tái Sinh thăng lên Lv 23 nhờ sáng tạo kỹ thuật hồi phục cơ bắp triệt tiêu thời gian phạt suy yếu xuống dưới 5 giây; nới lỏng điều kiện tiến hóa Thương Thuật nhờ thăng hoa kỹ thuật phóng thương; dẫn dắt Quân Đoàn Susanoo bình định toàn bộ tỉnh Kanagawa và tiến vào Tokyo.
 - Trạng thái tính đến chương 72: Đạt cấp 83 sau khi càn quét các quận của Tokyo; thu gom hàng chục nghìn xác quái vật chuyển chức 2 vào Túi Đeo Chéo; nảy ra ý tưởng kết hợp trọng lượng cực đại của túi với thời điểm bắn Súng Bắn Cọc nhằm triệt tiêu phản lực khi công kích quái vật.
+- Trạng thái tính đến chương 75: Lộ diện thân phận Susanoo trước toàn thể nhân loại khi dùng Súng Bắn Cọc dồn trọn trọng lượng Túi Đeo Chéo phá hủy 1 đầu của Yamata no Orochi; kích hoạt dòng thuộc tính gamma của Thương Gai Diệt Long Hắc Tử Thần (+150% tỷ lệ và sát thương chí mạng khi đánh Long tộc); kỹ năng Siêu Việt Tái Sinh thăng lên cấp 30; nhận đại chúc phúc từ Na YuNa chém đứt 1 đuôi của quái xà chuyển chức 4, thu hồi 1 đầu và 1 đuôi vào Túi Đeo Chéo.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -142,6 +143,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 65: Mua Cốt Trượng phẩm cấp Truyền Thuyết và Áo Choàng phẩm cấp Độc Nhất từ Yu IlHan với giá 100 tỷ won (kèm quyền sở hữu một tòa nhà); thề sẽ nỗ lực vượt qua anh; bộc lộ tham vọng chiếm hữu và khao khát nâng cao giá trị bản thân để xứng đáng chinh phục IlHan, quyết tâm không để Na YuNa cướp mất anh.
 - Trạng thái tính đến chương 67: Kiểm tra giáp vai và ủng của Vanguard mà anh trai Kang HaJin mua được, nhận định việc kinh doanh của IlHan là sự nối dài từ giao dịch với mình và khen ngợi anh là người chính trực; suýt phóng sét thiêu rụi văn phòng khi bị Na YuNa trêu chọc; giữ chức Chủ Clan và quyết định chính thức chiêu mộ thành viên cho 'Clan Lôi Thần'.
 - Trạng thái tính đến chương 69: Dẫn đầu Clan Lôi Thần sang Nhật Bản chi viện theo lời thỉnh cầu SOS trong thảm họa Vỡ Hầm Ngục; sử dụng Cốt Trượng Thiên Lôi thi triển Lôi Dây Chuyền và Lôi Thương càn quét hàng chục quái vật orc chuyển chức 2, khẳng định vị thế dẫn đầu trong số các clan quốc tế; sục sôi ý chí ganh đua và mong muốn chứng tỏ năng lực với Yu IlHan.
+- Trạng thái tính đến chương 75: Dồn trọn vẹn mana bắt đầu xướng niệm đại ma pháp quyết định để tiêu diệt Yamata no Orochi.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -186,6 +188,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Cùng Na YuNa về nước an toàn giao nọc bọ cạp cho Kang MiRae; giấu đi mặc cảm tự ti trước sức mạnh của IlHan và nuôi tham vọng thu phục anh về dưới trướng.
 - Trạng thái tính đến chương 67: Cùng Na YuNa đến cửa hàng Vanguard mua giáp vai và ủng; thừa nhận bản thân bất lực trước năng lực và các mối quan hệ khó tin của IlHan; giữ chức phó clan và cùng em gái Kang MiRae chuẩn bị chiêu mộ thành viên cho 'Clan Lôi Thần'.
 - Trạng thái tính đến chương 69: Cùng Kang MiRae và Na YuNa dẫn dắt đội hình 10 người của Clan Lôi Thần tham chiến chi viện tại Nhật Bản; đóng vai trò thánh kỵ sĩ cầm khiên lập trận hình phòng ngự kiên cố che chắn cho Kang MiRae và Na YuNa thi triển ma pháp tiêu diệt bầy quái vật orc.
+- Trạng thái tính đến chương 75: Cùng các thành viên clan chiến đấu ở tiền tuyến chống đỡ bầy quái vật dị biến và rừng dây gai của Orochi để che chắn cho MiRae và YuNa.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -202,6 +205,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 65: Tới quán trà ứng cứu tiền cho Kang MiRae; vung tiền chuyển khoản 150 tỷ won và hứa tặng thêm một tòa nhà ở khu gia cố Gangnam của ông nội để đặt cọc IlHan chế tạo trọn bộ trang bị cho mình và HaJin; để lộ sự chú ý và hứng thú với IlHan như một ứng viên "cháu rể" tiềm năng.
 - Trạng thái tính đến chương 67: Nhận ra người thợ rèn tạo ra trang bị cho cửa hàng Vanguard chính là Yu IlHan; liên tục trêu chọc chuyện đó khiến Kang MiRae phát điên.
 - Trạng thái tính đến chương 69: Tham chiến chi viện tại Nhật Bản cùng Clan Lôi Thần; túc trực bên cạnh bảo vệ và liên tục ban bùa lợi thánh lực hỗ trợ cho Kang MiRae thi triển ma pháp lôi điện và Kang HaJin dựng khiên phòng thủ.
+- Trạng thái tính đến chương 75: Thi triển đại chúc phúc tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp cho Yu IlHan.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

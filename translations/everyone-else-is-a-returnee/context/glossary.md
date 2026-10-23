@@ -407,3 +407,5 @@
 | Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |
 | DoT | Damage over Time | sát thương theo thời gian | hệ thống | 74 | Sát thương duy trì liên tục trong thuật ngữ game |
 | landscape-changing power |  | năng lực biến đổi địa hình | hệ thống | 75 | Năng lực của quái vật đột biến cấp cao làm biến dạng môi trường xung quanh |
+| magic bullet |  | đạn ma pháp | hệ thống | 73 | Đạn ma lực mang nhiệt lượng hoặc thuộc tính do Yamata no Orochi hoặc pháp sư bắn ra từ xa |
+| great blessing |  | đại chúc phúc | kỹ năng | 75 | Kỹ năng chúc phúc thánh lực tối thượng của Na YuNa ban bùa lợi cực hạn (trong 5 phút: tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp) |

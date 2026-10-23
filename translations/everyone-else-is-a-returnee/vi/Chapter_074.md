@@ -154,7 +154,7 @@ Yu IlHan lại né tránh đòn công kích của nó rồi đột ngột mở t
 
 Những yếu tố then chốt để tạo nên một đòn đánh chí mạng gồm có: 1. quan sát, và 2. chuẩn xác. Chỗ mềm nhất và yếu nhất trên cơ thể nó, hoặc vị trí mà nó đang cố ra sức bảo vệ. Anh phải tìm ra vị trí đó và tấn công chuẩn xác vào đúng điểm ấy.
 
-Theo nghĩa đó, Yu IlHan quả thực khá may mắn. Anh thậm chí chẳng cần tốn công tìm kiếm điểm yếu bởi nó đã hiện rõ mồn một. Đó không gì khác ngoài phần còn sót lại của chiếc đầu mà Yu IlHan đã dùng Súng Bắn Cọc bắn nát thành từng mảnh. Chính xác hơn là chỗ lộ ra phần thịt bên trong do vụ nổ của phát bắn phân mảnh!
+Theo nghĩa đó, Yu IlHan quả thực khá may mắn. Anh thậm chí chẳng cần tốn công tìm kiếm điểm yếu bởi nó đã hiện rõ mồn một. Đó không gì khác ngoài phần còn sót lại của chiếc đầu mà Yu IlHan đã dùng Súng Bắn Cọc bắn nát thành từng mảnh. Chính xác hơn là chỗ lộ ra phần thịt bên trong do vụ nổ của đạn nổ mảnh!
 
 May mắn thay, con quái vật này dường như không sở hữu khả năng hồi phục phi thường so với sức mạnh quái dị của nó, khi có thể thấy dòng máu đặc quánh màu tím vẫn đang rỉ ra ròng ròng.
 
@@ -216,7 +216,7 @@ Cắn răng chịu đựng cơn đau xé toang hơi thở, Yu IlHan chật vật
 
 Thay vào đó, nhờ tính năng thu hồi từ xa của Túi Đeo Chéo, anh gọi một phần thức uống máu kề sát miệng rồi mút lấy mút để, đồng thời vận hành Siêu Việt Tái Sinh như điên dại để chữa lành vết thương. Trông anh cứ như thể đã hoàn toàn thuần thục những hành động ấy.
 
-Giờ đây anh không chỉ có thể dùng tính năng thu hồi từ xa để thu gom vật phẩm ở khoảng cách xa vào Túi Đeo Chéo, mà còn có thể phóng xuất các vật phẩm bên trong Túi Đeo Chéo ra ngoài cự ly. Nếu phân tích được cự ly đó ngắn dài ra sao và có thể truyền vào bao nhiêu động lượng, thì nó cũng sẽ hoàn toàn hữu dụng trong lúc giao chiến.
+Giờ đây anh không chỉ có thể dùng tính năng thu hồi từ xa để thu gom vật phẩm ở khoảng cách xa vào Túi Đeo Chéo, mà còn có thể phóng xuất các vật phẩm bên trong Túi Đeo Chéo ra một khoảng cách nhất định. Nếu phân tích được cự ly đó ngắn dài ra sao và có thể truyền vào bao nhiêu động lượng, thì nó cũng sẽ hoàn toàn hữu dụng trong lúc giao chiến.
 
 Giống như cách anh vừa gọi tấm khiên ra để giảm bớt chấn động từ cơn mưa mảnh vảy, hay cách anh đưa thức uống máu kề miệng mà chẳng cần nhúc nhích bàn tay!
 
