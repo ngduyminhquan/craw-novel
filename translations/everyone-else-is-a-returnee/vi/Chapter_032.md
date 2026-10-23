@@ -20,7 +20,7 @@ Tình hình lần này khác hẳn hồi anh săn Báo Khổng Lồ hay Báo Bó
 
 Thế nhưng giờ thì sao? Bất kể thể chất lẫn kỹ nghệ của anh có dị thường đến đâu, anh cũng vừa mới kết liễu một con quái vật có cấp độ gấp đôi mình chỉ trong một đòn duy nhất!
 
-"Làm sao để thu hồi lại đạn bây giờ? Mà thôi, đằng nào cũng thế này rồi, hay là mình chế tạo luôn đạn mảnh dựa trên tiền đề là không cần thu hồi nhỉ?"
+"Làm sao để thu hồi lại đạn bây giờ? Mà thôi, đằng nào cũng thế này rồi, hay là mình chế tạo luôn đạn nổ mảnh dựa trên tiền đề là không cần thu hồi nhỉ?"
 
 [Mau thu hồi quả tim của nó đi đã.]
 

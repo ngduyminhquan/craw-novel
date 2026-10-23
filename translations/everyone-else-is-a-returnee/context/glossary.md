@@ -192,7 +192,7 @@
 | Core Metal | Core Metals | Kim Loại Lõi | vật phẩm | 33 | Kim loại thu hoạch từ quái vật (như Thiết Tâm), khi chế tác mana tốn ít mana hơn |
 | Asia |  | Châu Á | địa danh | 33 | Châu lục trên Trái Đất |
 | Black Full-plate Armor |  | Đại Khải Đen | vật phẩm | 33 | Bộ giáp kim loại toàn thân màu đen do Yu IlHan chế tạo từ tim Đại Thiết Tâm |
-| Shiveringly | Shivering | Kinh Hãi | hệ thống | 33 | Tiền tố dòng thuộc tính tạo tác khiến đối phương rùng mình khiếp sợ |
+| Shiveringly |  | Kinh Hãi | hệ thống | 33 | Tiền tố dòng thuộc tính tạo tác khiến đối phương rùng mình khiếp sợ |
 | Hard |  | Cứng | hệ thống | 19 | Tiền tố dòng thuộc tính tạo tác tăng độ cứng cáp |
 | Great Metal Heart |  | Cực Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
 | Huge Metal Heart |  | Khổng Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
@@ -359,7 +359,6 @@
 | Vanguard |  | Vanguard | tổ chức | 66 | Tên thương hiệu và công ty sản xuất trang bị do Yu IlHan thành lập |
 | Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
 | holy power |  | thánh lực | hệ thống | 66 | Năng lượng thần thánh dị năng giả sử dụng, thực chất là một dạng mana |
-| 3rd class magic stone |  | ma thạch chuyển chức 3 | vật phẩm | 28 | Ma thạch của quái vật chuyển chức 3 |
 | Clan | clan | Clan | tổ chức | 44 | Nhóm hoặc tổ chức tập hợp các dị năng giả |
 | Clan Master | clan master | Chủ Clan | danh hiệu | 67 | Người đứng đầu một clan (như Kang MiRae là Chủ Clan của Clan Lôi Thần) |
 | Lightning God clan | Lightning God; Lighting God; LIghtning God Clan; LIghtning God | Clan Lôi Thần | tổ chức | 67 | Clan do Kang MiRae làm Chủ Clan, Kang HaJin làm phó clan, Na YuNa làm thành viên |

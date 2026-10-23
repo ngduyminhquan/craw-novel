@@ -114,7 +114,7 @@ Dù rất biết ơn vì Lita đã nhắc nhở điều đó, nhưng tại sao c
 
 Yu IlHan ngoan ngoãn làm theo lời cô dặn. Ngay khoảnh khắc tiếp theo, những dòng chữ màu xanh lục thi nhau hiện lên trên võng mạc của anh hết dòng này đến dòng khác.
 
-Tương tự như lúc nhận chức nghiệp chính, những thành tựu và chiến tích của anh đã được tôi luyện thành các ghi chép và lần lượt hiện ra. Bắt đầu từ thợ rèn, đầu bếp, thợ mộc, cho đến thợ phù phép. Cứ như thể toàn bộ mọi chức nghiệp phụ trên cõi đời này đều đang tề tựu tại nơi đây vậy.
+Tương tự như lúc nhận chức nghiệp chính, những thành tựu và chiến tích của anh đã được tôi luyện thành các ghi chép và lần lượt hiện ra. Bắt đầu từ thợ rèn, đầu bếp, thợ mộc, cho đến phù phép sư. Cứ như thể toàn bộ mọi chức nghiệp phụ trên cõi đời này đều đang tề tựu tại nơi đây vậy.
 
 Thế nhưng, nằm ở dưới đáy cùng của danh sách chữ màu xanh lục, lại có một dòng chữ đang tỏa ra ánh sáng trắng muốt rực rỡ.
 

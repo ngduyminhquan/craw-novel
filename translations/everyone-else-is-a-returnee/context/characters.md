@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 | Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
-| Michael Smithson | Michael; Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
+| Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
 

@@ -178,7 +178,7 @@ Nghỉ ngơi ít nhất 3 tiếng đồng hồ sau mỗi lần sử dụng... Ch
 
 Vì vậy, Yu IlHan đã vắt óc suy nghĩ xem làm cách nào để hồi phục năng lượng nghỉ ngơi — thứ vốn dĩ chỉ có thể lấp đầy thông qua nghỉ ngơi — bằng một phương pháp khác.
 
-Điều đầu tiên anh nghĩ tới là thần lực của Na YuNa. Thế nhưng, cô nàng đâu phải là một món đồ vật để Yu IlHan có thể mang kè kè bên mình như một cục pin sạc. Vậy thì còn thứ gì khác nữa? Thứ vừa lóe lên trong tâm trí anh khi ấy chính là máu của troll.
+Điều đầu tiên anh nghĩ tới là thánh lực của Na YuNa. Thế nhưng, cô nàng đâu phải là một món đồ vật để Yu IlHan có thể mang kè kè bên mình như một cục pin sạc. Vậy thì còn thứ gì khác nữa? Thứ vừa lóe lên trong tâm trí anh khi ấy chính là máu của troll.
 
 Ngay khi nảy ra ý nghĩ đó, anh liền bắt tay vào việc điều chế thức uống máu và... kết quả là mọi chuyện thành ra như lúc này. Ít nhất vài ngàn lít máu đã được đóng gói thành từng túi nhỏ và đang nằm chờ sẵn trong Túi Đeo Chéo để được tiêu thụ.
 

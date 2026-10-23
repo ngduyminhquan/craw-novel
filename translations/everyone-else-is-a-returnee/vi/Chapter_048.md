@@ -38,7 +38,7 @@ Một đòn tập kích hoàn hảo và kín kẽ đến mức những con troll
 
 [Bạn hấp thụ các ghi chép đã tích lũy. Bạn đã đạt cấp độ 53. Sức mạnh +5, Nhanh nhẹn +5, Thể lực +5, Ma pháp +5.]
 
-[Bạn đã học được kỹ năng bị động, Thu Thập Tử Vong. Bạn thu thập sinh lực của những kẻ bản thân đã tiêu diệt.]
+[Bạn đã học được kỹ năng bị động, Thu Thập Tử Vong. Bạn thu thập sinh mệnh lực của những kẻ bản thân đã tiêu diệt.]
 
 [Bạn không thể sử dụng mana. Bạn không thể học kỹ năng chủ động.]
 
@@ -192,7 +192,7 @@ Yu IlHan đáp lại điều đó bằng cách dứt khoát kết liễu mạng 
 
 [Bạn nhận được ghi chép của Reta Kar'iha Lv 157.]
 
-[Thu Thập Tử Vong được kích hoạt. Bạn đã hấp thụ và lưu trữ sinh lực của Reta Kar'iha.]
+[Thu Thập Tử Vong được kích hoạt. Bạn đã hấp thụ và lưu trữ sinh mệnh lực của Reta Kar'iha.]
 
 Đây là lần đầu tiên anh nhận được số điểm kinh nghiệm lên tới 8 chữ số. Quá đỗi kinh ngạc, Yu IlHan đề phòng quay đầu lại nhìn, nhưng có vẻ như Kang HaJin và Na YuNa cũng đã lên cấp kha khá khi cả hai bắt đầu tràn trề sinh lực trở lại.
 

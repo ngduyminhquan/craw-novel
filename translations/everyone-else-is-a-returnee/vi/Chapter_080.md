@@ -190,7 +190,7 @@ Dù đã lường trước, anh vẫn cảm thấy thật kỳ lạ. Bản thân
 
 "Nhất định sẽ có ngày tôi tát vỡ mặt cô ta."
 
-[Nếu được thì cậu cứ làm đi. Không, tôi cầu xin cậu hãy tát con khố... *khụ*, à không, xin hãy nhét chút nhận thức thông thường vào cái đầu cơ bắp rỗng tuếch của ả thiên thần đó giùm tôi.]
+[Nếu được thì cậu cứ làm đi. Không, tôi cầu xin cậu hãy tát con khố... khụ, à không, xin hãy nhét chút nhận thức thông thường vào cái đầu cơ bắp rỗng tuếch của ả thiên thần đó giùm tôi.]
 
 Thu lượm thêm một thông tin vô bổ rằng Erta cực kỳ ghét một thiên thần tên là Spiera, Yu IlHan gọi điện cho Yun DaeHan vì nghĩ mình nên báo trước một tiếng trước khi họ tiếp xúc.
 

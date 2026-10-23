@@ -34,7 +34,7 @@ Yu IlHan kết thúc việc giải phẫu và thu lấy lớp giáp cứng, ừ 
 
 Trong thoáng chốc, một luồng ánh sáng màu hồng nhạt hiện lên, bao phủ lấy đống thịt rồi tan biến. Đây chính là khoảnh khắc mà độc tố trong thịt bọ cạp — thứ vốn đòi hỏi ít nhất phải có kháng độc mới nuốt nổi — đã hoàn toàn biến mất.
 
-[Một năng lực thực sự đáng kinh ngạc. Tôi có nghe nói cô được Nữ Thần Sắc Đẹp ban phước, nhưng quả thực cô sở hữu thần lực rất tuyệt vời.]
+[Một năng lực thực sự đáng kinh ngạc. Tôi có nghe nói cô được Nữ Thần Sắc Đẹp ban phước, nhưng quả thực cô sở hữu thánh lực rất tuyệt vời.]
 
 "Phì. Biết ngay mấy người đẹp mã chẳng có gì tốt đẹp mà."
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T15:52:58Z",
+  "generatedAt": "2026-10-23T16:48:16Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -196,7 +196,7 @@
           "number": 32,
           "title": "Chương 32: Tôi Cũng Đi Hầm Ngục (3)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_032.md",
-          "sha": "22ce089e41aa262ceaf61be8671e78189350d339"
+          "sha": "1c5d44236d67b741c744a3e07655aee6c5ba4c3a"
         },
         {
           "number": 33,
@@ -256,7 +256,7 @@
           "number": 42,
           "title": "Chương 42: Tôi Cũng Chuyển Chức Lần 2 (4)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_042.md",
-          "sha": "fa9ce57ff3e16291b2ea71624e86fc63686529e9"
+          "sha": "072c457db665bd8eda6da326a660da728d56a61f"
         },
         {
           "number": 43,
@@ -292,7 +292,7 @@
           "number": 48,
           "title": "Chương 48: Tôi cũng chuyển chức lần 2 (10)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_048.md",
-          "sha": "0744e1f98b7436f912b4e3cc243dcf88bb9a8b6b"
+          "sha": "9311990931063a86a1a0fc0fa8398c0b5b501188"
         },
         {
           "number": 49,
@@ -316,7 +316,7 @@
           "number": 52,
           "title": "Chương 52: Bạn đồng hành dành riêng cho tôi (4)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_052.md",
-          "sha": "e87a072fa39d1f3aa3f9a54b2cf3440667f19f99"
+          "sha": "6b931f30ebc29ee79e22298dbb6f2bdc1ca50b45"
         },
         {
           "number": 53,
@@ -340,7 +340,7 @@
           "number": 56,
           "title": "Chương 56: Tôi Gánh Vác (3)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_056.md",
-          "sha": "b062ddf63798fe8172e8b3cb5c0f0a46f9b59196"
+          "sha": "cdd92d363393fbee5b890bf581bbc9cdcdf3c960"
         },
         {
           "number": 57,
@@ -484,7 +484,7 @@
           "number": 80,
           "title": "Chương 80: Giờ tôi cũng... (5)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_080.md",
-          "sha": "329ad68fb9f59227afcddd226f860fb4f26d0863"
+          "sha": "9fca57b3c671925d0a14fc1cbb113b0448894242"
         },
         {
           "number": 81,
