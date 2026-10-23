@@ -529,3 +529,9 @@ Hệ thống kích hoạt nhiệm vụ chạy đua thời gian yêu cầu tiêu 
 Chuẩn bị dịch chuyển đi săn, Reta Kar'iha bàng hoàng phát hiện dấu vết của những người elf còn sống sót gần hang ổ Long tộc; IlHan đồng ý cùng cô tới xác nhận một lần duy nhất trước khi dồn sức làm nhiệm vụ.
 Được ma pháp trận đưa tới hang động tập trung hơn 30 con Long tộc cấp gần 180, IlHan tập kích bằng Hỏa Tím; lũ quái dùng ngôn ngữ rồng lề mề lẩm bẩm về sự xâm lược và các Chúa Tể khiến IlHan bực mình hạ sát ngay một con Hạ Đẳng Long Lv 181.
 Cảnh kết thúc: Bầy Hạ Đẳng Long chuẩn bị dùng ma pháp phản kích thì ngơ ngác mất dấu đối thủ; nhờ mana đậm đặc của Daréu cường hóa, IlHan tái kích hoạt Ẩn Thân chỉ sau 5 giây ngay trước mũi kẻ địch và quét sạch toàn bộ hang động chỉ trong 11 phút.
+
+## 87
+Sau khi quét sạch hang động quái Long tộc, Yu IlHan tới gặp nhóm 13 người elf sống sót trong các hốc cây; anh nhanh chóng dùng võ lực khống chế và đóng vai kẻ phản diện khiến họ hoảng sợ khai hết thông tin.
+Dùng quyền kiểm soát đại ma pháp trận của đế chế elf để chứng minh mình mang theo tàn niệm của Reta Kar'iha, IlHan biết được nhóm elf được che chở theo chỉ thị từ 'Khu Vườn Hoàng Hôn' (thế lực Kẻ Siêu Việt cấp cao nắm giữ khả năng tiên tri) thông qua chính đàn Long tộc trong hang mà anh vừa tiêu diệt sạch.
+Dù biết đã lỡ tay hạ sát bầy quái bảo hộ elf, IlHan không hề bận tâm hay hối hận vì mục tiêu tối thượng của anh là tận diệt Long tộc; Reta được tiếp thêm động lực to lớn khi biết dân tộc mình chưa tuyệt chủng.
+Cảnh kết thúc: Sau 17 ngày càn quét thuận buồm xuôi gió mà không bị phát giác, Yu IlHan hoàn thành điều kiện tiêu diệt 10.000 quái vật chuyển chức 3 của nhiệm vụ chạy đua thời gian và sẵn sàng bước vào cuộc đi săn Long tộc chuyển chức 4.

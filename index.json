@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T20:48:56Z",
+  "generatedAt": "2026-10-23T20:54:47Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -521,6 +521,12 @@
           "title": "Chương 86: Bạn, Tôi, Kẻ Xa Lạ 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_086.md",
           "sha": "6c25c53c68c59af28e8dfdc194f80f9b67c3526f"
+        },
+        {
+          "number": 87,
+          "title": "Chương 87: Bạn, Tôi, Kẻ Xa Lạ 5",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_087.md",
+          "sha": "875f9576028e504969b9a9f1575dca1fb2572a24"
         }
       ]
     }

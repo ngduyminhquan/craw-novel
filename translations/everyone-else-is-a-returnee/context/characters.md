@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
@@ -113,6 +113,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 83: Đạt cấp độ 87; hoàn thành chế tạo trang bị cho 26 clan trong 3 tuần; sử dụng mana ngày một thuần thục để cường hóa kỹ năng và ẩn thân tự do; cho phép tàn niệm Reta Kar'iha hấp thụ một phần sinh mệnh lực từ Thu Thập Tử Vong; gửi gắm Clan Lôi Thần bảo hộ gia đình rồi cùng Erta thâm nhập hầm ngục Grand Canyon sang Thế Giới Bị Bỏ Rơi Daréu để săn Long tộc chuyển chức 3.
 - Trạng thái tính đến chương 84: Tiến vào Thế Giới Bị Bỏ Rơi Daréu; trang bị 4 món phụ kiện tăng 50% tốc độ hồi mana, dồn toàn bộ mana vào Quái Lực và Bật Nhảy; đạt cấp 90 sau một tuần săn Oan Hồn; hoàn toàn thuần thục kỹ năng Thiên Thần Chi Viện và phát triển đòn đánh toàn lực Thiên Thần Nhất Kích; mở màn Cuộc Săn Thế Giới nhắm vào 45.988 sinh vật Long tộc trên đại lục Daréu.
 - Trạng thái tính đến chương 85: Đạt cấp độ 99 sau một tháng săn lùng tiêu diệt gần 24.000 cá thể Long tộc tại Thế Giới Bị Bỏ Rơi Daréu; sử dụng vũ khí mới 'Hắc Cốt Đại Thương Đấu Long Hắc Tử Thần' (Phẩm cấp Truyền Thuyết, Sức tấn công 5.200, gia công từ Thiên Tùng Vân Kiếm kết hợp các dòng thuộc tính từ Thương Gai Diệt Long Hắc Tử Thần) kích hoạt Hỏa Tím; sở hữu khả năng kháng thuộc tính lửa cực hạn chịu được lửa quái vật chuyển chức 3 trong 5 phút và phản lại 20% sát thương; mở khóa thông báo lựa chọn chức nghiệp chuyển chức lần 3 (Tử Thần, Thần Chùy, Liệt Hỏa Tử Thần).
+- Trạng thái tính đến chương 86: Dậm chân ở cấp 99 suốt 10 ngày để tích lũy lượng EXP khổng lồ; lựa chọn chức nghiệp Liệt Hỏa Tử Thần và nhận nhiệm vụ chạy đua thời gian yêu cầu tiêu diệt 10.000 quái vật chuyển chức 3 và 1.000 quái vật chuyển chức 4 trong 4 tuần; cùng Reta tới hang động dịch chuyển kiểm tra dấu vết tộc elf và quét sạch hơn 30 con Hạ Đẳng Long cấp gần 180 chỉ trong 11 phút.
+- Trạng thái tính đến chương 87: Gặp gỡ nhóm 13 người elf sống sót và phát hiện họ được thế lực Kẻ Siêu Việt Khu Vườn Hoàng Hôn giấu đi thông qua bầy quái Long tộc mà anh vừa tiêu diệt; tiếp tục cuộc đi săn tại Daréu, hoàn thành tiêu diệt 10.000 quái vật chuyển chức 3 trong 17 ngày và chuẩn bị bước vào cuộc đi săn quái vật Long tộc chuyển chức 4.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -236,6 +238,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 63: Giao tiếp với Yu IlHan và Erta qua tàn niệm; tiết lộ quá khứ quê hương Daréu bị loài rồng tàn sát và lý do cô sa đọa thành Kẻ Phá Vỡ để bảo lưu tàn niệm chờ người kế thừa báo thù; thỏa thuận trao quyền điều khiển ma pháp trận cổ đại của đế chế elf (nhìn thấu cấp độ và dịch chuyển tức thời) cho IlHan để hỗ trợ anh săn rồng.
 - Trạng thái tính đến chương 83: Ý niệm ngày càng rõ ràng và có ý thức độc lập hơn nhờ được Yu IlHan cho phép hấp thụ một phần sinh mệnh lực tích lũy từ kỹ năng Thu Thập Tử Vong; sẵn sàng hỗ trợ IlHan khi anh đạt chuyển chức lần 3.
 - Trạng thái tính đến chương 84: Dẫn lối và kích hoạt đại ma pháp trận cổ đại của đế chế elf tại Daréu; thông báo số lượng 45.988 sinh vật Long tộc trên đại lục; thỉnh cầu IlHan tiêu diệt Oan Hồn để giải thoát cho thần dân của thế giới đã diệt vong; vận hành pháp trận dịch chuyển IlHan đi săn các cá thể Long tộc đi lẻ.
+- Trạng thái tính đến chương 87: Được IlHan an ủi và dẫn tới gặp nhóm 13 người elf còn sống sót; xúc động và được tiếp thêm động lực to lớn sau khi biết tin đồng bào mình chưa tuyệt chủng; thỉnh cầu IlHan giúp tiêu diệt toàn bộ Long tộc còn lại để tộc elf được sống trong hòa bình.
 
 ### Myuta
 - Giới tính, vai trò: Thiên thần chủ tọa/chủ trì cuộc họp của các thiên thần trên Thiên giới bàn về dị thường tại Trái Đất và hầm ngục Grand Canyon.

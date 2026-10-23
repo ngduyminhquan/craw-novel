@@ -91,7 +91,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 84 |  | Chapter_084 - You, I, Strangers 2.txt | You, I, Strangers 2 | reviewed |  |
 | 85 |  | Chapter_085 - You, I, Strangers 3.txt | You, I, Strangers 3 | done |  |
 | 86 |  | Chapter_086 - You, I, Strangers 4.txt | You, I, Strangers 4 | done |  |
-| 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | todo |  |
+| 87 |  | Chapter_087 - You, I, Strangers 5.txt | You, I, Strangers 5 | done |  |
 | 88 |  | Chapter_088 - You, I, Strangers 6.txt | You, I, Strangers 6 | todo |  |
 | 89 |  | Chapter_089 - You, I, Strangers 7.txt | You, I, Strangers 7 | todo |  |
 | 90 |  | Chapter_090 - You, I, Strangers 8.txt | You, I, Strangers 8 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -653,3 +654,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#85] Các lựa chọn chức nghiệp chuyển chức lần 3: "Reaper", "God's Hammer", "Blazing Reaper" — Tạm chọn: "Tử Thần" (đồng bộ với Tử Thần Tập Sự), "Thần Chùy" (chuẩn Hán Việt theo rules.md cho tên chức nghiệp/kỹ năng), "Liệt Hỏa Tử Thần" (chuẩn Hán Việt 4 chữ song song với Hắc Tử Thần). Phương án khác: "Thần Búa" / "Búa Của Thần", "Hỏa Diễm Tử Thần". Tạm dùng trong bản dịch: "Tử Thần", "Thần Chùy", "Liệt Hỏa Tử Thần". → Chốt "Tử Thần" (Reaper), "Thần Chùy" (God's Hammer), "Liệt Hỏa Tử Thần" (Blazing Reaper) theo quy tắc Hán Việt ngắn gọn cho chức nghiệp trong rules.md. (orchestrator)
 - [#86] Tên quái vật "Lesser Dragon" (Lv 181) — Tạm chọn: "Hạ Đẳng Long" (chuẩn Hán Việt theo rules.md cho tên quái vật mang chữ Dragon/Long, đối lập với Higher Dragon/Chân Long). Phương án khác: "Á Long", "Hạ Long". Tạm dùng trong bản dịch: "Hạ Đẳng Long". → Chốt "Hạ Đẳng Long" theo quy tắc Hán Việt của rules.md cho tên chủng loài rồng (tương phản với Chân Long / Thượng Đẳng Long). (orchestrator)
 - [#86] Thuật ngữ hệ thống "time attack quest" / "time attack" — Tạm chọn: "nhiệm vụ chạy đua thời gian" / "chạy đua thời gian" (thuần Việt, sát nghĩa gamer và phù hợp lời giải thích phá đảo game của Erta). Phương án khác: "nhiệm vụ giới hạn thời gian", "thử thách thời gian". Tạm dùng trong bản dịch: "nhiệm vụ chạy đua thời gian" / "chạy đua thời gian". → Chốt "Nhiệm vụ chạy đua thời gian" cho "Time attack quest" (bỏ "Time attack" khỏi cột Alias để tránh cảnh báo giả khi chỉ dùng cụm "chạy đua thời gian"). (orchestrator)
+- [#87] Thuật ngữ chủng tộc / hệ thống: "Transcenders" (các thực thể cấp cao siêu việt như Khu Vườn Hoàng Hôn, không thể trực tiếp can thiệp thế giới cấp thấp) — Tạm chọn: "Kẻ Siêu Việt" (đồng bộ với 'Kẻ Phá Vỡ', 'Kẻ Hành Quyết', 'Siêu Việt Tái Sinh'). Phương án khác: "Thực thể Siêu Việt", "Người Siêu Việt". Tạm dùng trong bản dịch: "Kẻ Siêu Việt". → Chốt "Kẻ Siêu Việt" (đồng bộ với Kẻ Phá Vỡ, Kẻ Hành Quyết và Siêu Việt Tái Sinh đã có trong glossary.md). (orchestrator)
+- [#87] Ma pháp loài rồng biến thành người: "polymorph" — Tạm chọn: "thuật Biến Hình" / "Biến Hình" (Hán Việt ngắn gọn theo rules.md cho tên ma pháp/kỹ năng). Phương án khác: giữ nguyên "Polymorph". Tạm dùng trong bản dịch: "thuật Biến Hình". → Chốt "Biến Hình" theo quy tắc dịch Hán Việt ngắn gọn cho tên kỹ năng/ma pháp trong rules.md. (orchestrator)
+- [#87] Ma pháp cảm ứng của tộc elf: "alarm magic" — Tạm chọn: "ma pháp cảnh báo". Phương án khác: "ma pháp báo động". Tạm dùng trong bản dịch: "ma pháp cảnh báo". → Giữ cách dịch "ma pháp cảnh báo" trong chương nhưng xóa "alarm magic" khỏi glossary.md vì đây là cụm từ miêu tả chung viết thường, không phải tên riêng hay kỹ năng cố định. (orchestrator)

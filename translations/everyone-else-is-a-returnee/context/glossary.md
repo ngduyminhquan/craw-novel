@@ -6,7 +6,7 @@
 
 | EN | Alias | VI | Loại | Chương đầu | Ghi chú |
 |---|---|---|---|---|---|
-| Great Cataclysm |  | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
+| Great Cataclysm | Great Cataclysms | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
 | Akashic Records | Akashic Record | Hồ Sơ Akashic | hệ thống | 1 | Kho ghi chép vạn vật của vũ trụ |
 | Mana |  | Mana | hệ thống | 1 | Năng lượng ma thuật cấp cao của vũ trụ |
 | Status |  | Bảng chỉ số | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
@@ -457,3 +457,5 @@
 | Blazing Reaper |  | Liệt Hỏa Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan kết hợp hỏa diễm |
 | Lesser Dragon | Lesser Dragons | Hạ Đẳng Long | quái vật | 86 | Quái vật loài rồng bậc thấp thuộc Long tộc tại Daréu, bắt đầu có chữ rồng trong tên và biết dùng ma pháp |
 | Time attack quest |  | Nhiệm vụ chạy đua thời gian | hệ thống | 86 | Dạng nhiệm vụ hệ thống yêu cầu hoàn thành điều kiện trong giới hạn thời gian |
+| Transcenders | Transcender | Kẻ Siêu Việt | chủng tộc | 87 | Các thực thể cấp cao siêu việt không thể can thiệp trực tiếp vào thế giới bậc thấp |
+| Polymorph |  | Biến Hình | kỹ năng | 87 | Ma pháp trong truyền thuyết của loài rồng dùng để biến thành hình dạng con người |
