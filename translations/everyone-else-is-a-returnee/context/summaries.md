@@ -596,3 +596,11 @@ Hạ sát đủ 1.000 quái chuyển chức 4, IlHan hoàn thành nhiệm vụ c
 Reta lộ rõ dã tâm phản trắc: cô ta từng đoạt quyền kiểm soát pháp trận từ tay hoàng đế elf và nay mưu tính dùng ma pháp 'chuyển dịch linh hồn' đoạt xá thể xác IlHan để đánh bại Quân Đội Ma Hủy Diệt và liên minh với Khu Vườn Hoàng Hôn.
 Bị trói buộc bởi ma pháp trận khổng lồ và mất quyền kiểm soát thể xác, IlHan và Erta vẫn giữ vẻ bình tĩnh, bí mật đánh thức tàn niệm Yamata no Orochi đang say ngủ bên trong linh hồn anh.
 Cảnh kết thúc: Hóa ra trong 2 tháng ở kết giới mà Reta không thể vào, IlHan đã cho Orochi nuốt trọn sinh mệnh lực của lũ rồng; Orochi gầm vang nghiền nát tàn niệm của Reta, phát huy tác dụng bảo hiểm cuối cùng giúp IlHan giành lại quyền kiểm soát cơ thể.
+
+
+## 97
+Được tẩm bổ sinh mệnh lực từ bầy rồng, tàn niệm Yamata no Orochi áp đảo cắn nát tàn hồn Reta Kar'iha; ma pháp chuyển dịch linh hồn bị hủy bỏ, lượng mana khổng lồ của đại ma pháp trận dung hợp vào cơ thể mở rộng bể chứa mana và tăng vĩnh viễn 115 điểm Ma pháp cho Yu IlHan.
+Anh hấp thụ tàn hồn biến dị của Reta, học được kỹ năng chủ động 'Linh Hồn Phụ Ma' (ban linh hồn vào tạo tác với tỷ lệ thành công 100%) và được ma pháp trận elf công nhận làm chủ nhân mới; IlHan lập tức tiến hành chuyển chức thành Liệt Hỏa Tử Thần, tăng vọt 35 cấp lên Lv 134, nhận kỹ năng chủ động 'Liệt Hỏa' và mở khóa quyền khế ước thêm một thiên thần cùng một chức nghiệp phụ mới.
+Chịu đựng cơn đau thể xác dữ dội khi cơ thể biến đổi thích ứng với cấp độ mới, IlHan nhanh chóng tỉnh lại, vội vã sửa sang 6 cỗ pháo nỏ và nạp tên xương rồng chuẩn bị nghênh chiến đợt phản kích của bầy rồng Daréu do ma pháp trận phát sáng thu hút.
+Dùng Ẩn Thân che giấu cỗ pháo nỏ khổng lồ, IlHan bắn liên tiếp 15 mũi tên xương rồng trúng mắt hạ sát con rồng cấp 220 vừa bay tới.
+Cảnh kết thúc: Ước nguyện kết thúc trận chiến nhanh chóng tan biến khi toàn bộ Long tộc còn lại trên đại lục Daréu điên cuồng kéo tới hòn đảo hoang, mở màn cho một trận đại hỗn chiến kinh thiên động địa.

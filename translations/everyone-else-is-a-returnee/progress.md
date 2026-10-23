@@ -101,7 +101,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 94 |  | Chapter_094 - You, I, Strangers 12.txt | You, I, Strangers 12 | reviewed |  |
 | 95 |  | Chapter_095 - You, I, Strangers 13.txt | You, I, Strangers 13 | reviewed |  |
 | 96 |  | Chapter_096 - You, I, Strangers 14.txt | You, I, Strangers 14 | reviewed |  |
-| 97 |  | Chapter_097 - You, I, Strangers 15.txt | You, I, Strangers 15 | todo |  |
+| 97 |  | Chapter_097 - You, I, Strangers 15.txt | You, I, Strangers 15 | done |  |
 | 98 |  | Chapter_098 - You, I, Strangers 16.txt | You, I, Strangers 16 | todo |  |
 | 99 |  | Chapter_099 - You, I, Strangers 17.txt | You, I, Strangers 17 | todo |  |
 | 100 |  | Chapter_100 - You, I, Strangers 18.txt | You, I, Strangers 18 | todo |  |
@@ -681,3 +681,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#95] Đoạn 83 chương 95: Duyệt sửa "loại độc dược tuyệt vời" thành "loại thần dược tuyệt vời" để đúng nghĩa của "good potion"? → Chấp nhận sửa thành "loại thần dược tuyệt vời" để đúng nghĩa "good potion". (orchestrator)
 - [#96] Đoạn 46 chương 96: Duyệt sửa typo "[M-ngươi là đồ quái vật!]" thành "[N-ngươi là đồ quái vật!]"? → Chấp nhận sửa thành "[N-ngươi là đồ quái vật!]". (orchestrator)
 - [#94] Đoạn 66 chương 94: Duyệt chỉnh lại câu văn so sánh ("more than the sands on a beach") để rõ nghĩa hơn? → Chấp nhận sửa thành "Dù số kẻ nhận được tiềm năng phát triển vô hạn sau khi tiếp xúc với Hồ Sơ Akashic nhiều hơn cả cát trên bãi biển...". (orchestrator)
+- [#97] Kỹ năng "Soul Enchant" (kỹ năng chủ động nhận từ việc hấp thụ tàn hồn Reta Kar'iha, cho phép ban linh hồn vào tạo tác) — Tạm chọn: "Linh Hồn Phụ Ma" (chuẩn Hán Việt 4 chữ song song với Chế Tác Mana, sát nghĩa Soul = Linh Hồn, Enchant = Phụ Ma). Phương án khác: "Phụ Hồn". Tạm dùng trong bản dịch: "Linh Hồn Phụ Ma". → Chốt "Linh Hồn Phụ Ma" theo quy tắc Hán Việt ngắn gọn của rules.md cho tên kỹ năng. (orchestrator)
+- [#97] Kỹ năng "Blaze" (kỹ năng chủ động của chức nghiệp Liệt Hỏa Tử Thần) — Tạm chọn: "Liệt Hỏa" (chuẩn Hán Việt, đồng bộ với chức nghiệp Blazing Reaper = Liệt Hỏa Tử Thần). Phương án khác: "Hỏa Diễm", "Bộc Hỏa". Tạm dùng trong bản dịch: "Liệt Hỏa". → Chốt "Liệt Hỏa" theo quy tắc Hán Việt ngắn gọn của rules.md và đồng bộ với chức nghiệp "Liệt Hỏa Tử Thần" (Blazing Reaper). (orchestrator)
+- [#97] Dòng đùa phá cách "~The End~" ở đoạn 68 sau khi thế giới nổ tung — Tạm chọn: "~Hết~" (ngắn gọn, giữ trọn nét hài hước đùa cợt của tác giả). Phương án khác: "~Kết thúc~", "~Toàn văn hoàn~". Tạm dùng trong bản dịch: "~Hết~". → Chốt "~Hết~" ngắn gọn, tự nhiên cho trò đùa kết thúc truyện giả của tác giả. (orchestrator)
