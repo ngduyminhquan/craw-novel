@@ -483,7 +483,7 @@
 | dragon-tongue |  | tiếng rồng | khác | 93 | Ngôn ngữ cổ xưa của loài rồng mà Yu IlHan có thể hiểu được nhờ kỹ năng Ngôn Ngữ |
 | casting off one's shell | cast off one's shell; cast away one's shell | lột bỏ lớp vỏ | khác | 100 | Quá trình thực thể cấp cao giải phóng toàn bộ năng lượng tàn dư thế giới bậc thấp (phần tàn dư gọi là lớp vỏ - shell) |
 | Destruction Demon Soldier | Destruction Demon Soldiers | Ma Binh Hủy Diệt | khác | 101 | Chiến binh thuộc Quân Đội Ma Hủy Diệt sau khi trở thành thực thể cấp cao |
-| Immature Dragon |  | Ấu Long | quái vật | 101 | Quái vật rồng sơ sinh chưa thức tỉnh của bầy rồng Quân Đội Ma Hủy Diệt |
+| Immature Dragon | Baby Dragon | Ấu Long | quái vật | 101 | Quái vật rồng sơ sinh / chủng tộc khi mới nở của loài rồng (Yumir) |
 | Emperor |  | Hoàng đế | danh hiệu | 102 | Danh xưng người trị vì đế chế elf mà các elf tôn xưng Yu IlHan sau khi anh tiêu diệt toàn bộ loài rồng và làm chủ ma pháp trận |
 | Sim City |  | Sim City | khác | 102 | Được phép giữ nguyên: Trò chơi điện tử mô phỏng quản lý đô thị mà Yu IlHan liên tưởng khi chỉ đạo tái thiết cộng đồng elf |
 | Hollywood |  | Hollywood | địa danh | 103 | Được phép giữ nguyên: Đô thị điện ảnh nổi tiếng tại Los Angeles |
@@ -498,3 +498,11 @@
 | Dragon-Man Resonance |  | Cộng Hưởng Long Nhân | kỹ năng | 106 | Kỹ năng bị động của Kỵ Sĩ Rồng, tăng 10% năng lực khi chiến đấu cùng rồng và thêm 10% khi cưỡi rồng |
 | Dragonic Blood |  | Long Huyết | kỹ năng | 106 | Kỹ năng chủ động của Kỵ Sĩ Rồng, mượn sức mạnh cộng sự rồng để cường hóa kỹ năng |
 | Monster Lord |  | Chúa Tể Quái Vật | chức nghiệp | 106 | Chức nghiệp phụ hoặc chức nghiệp tiềm năng mà Erta phỏng đoán IlHan nhận được |
+| The one baptized by the flame of eternity |  | Kẻ Được Ngọn Lửa Vĩnh Cửu Rửa Tội | danh hiệu | 107 | Danh hiệu của Yumir (+130% kháng thuộc tính hỏa, hấp thụ một phần đòn tấn công thuộc tính hỏa) |
+| Birth of Chaos |  | Khởi Sinh Hỗn Loạn | danh hiệu | 107 | Danh hiệu của Yumir (+70% kháng mọi trạng thái bất thường) |
+| Middle tier wind magic | Middle Tier Wind Magic | Phong Ma Pháp Trung Cấp | kỹ năng | 107 | Kỹ năng chủ động ma pháp phong hệ của Yumir |
+| Mana rule | Mana Rule | Thống Trị Mana | kỹ năng | 107 | Kỹ năng bị động của Yumir |
+| Dragonblood regeneration | Dragonblood Regeneration | Long Huyết Tái Sinh | kỹ năng | 107 | Kỹ năng bị động hồi phục của Yumir |
+| Dragon's breath-imbued Giant Bucket |  | Đại Thùng Thấm Đẫm Hơi Thở Của Rồng | vật phẩm | 107 | Chiếc thùng tiến hóa thành tạo tác tương tự cơ quan ma pháp của loài rồng sau khi chứa máu và cộng hưởng gần 1000 trái tim rồng |
+| Ymir |  | Ymir | khác | 107 | Được phép giữ nguyên: Người khổng lồ thủy tổ trong Thần thoại Bắc Âu, đọc đồng âm với Yumir |
+| Norse Mythology |  | Thần thoại Bắc Âu | khác | 107 | Thần thoại Bắc Âu |

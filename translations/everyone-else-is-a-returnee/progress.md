@@ -111,7 +111,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 104 |  | Chapter_104 - I Am A Drifter of My Soul 4.txt | I Am A Drifter of My Soul 4 | reviewed |  |
 | 105 |  | Chapter_105 - I Am A Drifter of My Soul 5.txt | I Am A Drifter of My Soul 5 | reviewed |  |
 | 106 |  | Chapter_106 - I Am A Drifter of My Soul 6.txt | I Am A Drifter of My Soul 6 | done |  |
-| 107 |  | Chapter_107 - I Am A Drifter of My Soul 7.txt | I Am A Drifter of My Soul 7 | todo |  |
+| 107 |  | Chapter_107 - I Am A Drifter of My Soul 7.txt | I Am A Drifter of My Soul 7 | done |  |
 | 108 |  | Chapter_108 - I Am A Drifter of My Soul 8.txt | I Am A Drifter of My Soul 8 | todo |  |
 | 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | todo |  |
 | 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | todo |  |
@@ -701,3 +701,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#105] Tên tạo tác của Liera "Apocalyptic-ally Beautiful Steel spear Blessed by the god of love" và dòng kết hụt "-Fin-" → Chốt tên tạo tác là "Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước" (lột tả sự khoa trương sến sẩm gây cười của nguyên tác) và dịch "-Fin-" thành "-Hết-". (orchestrator)
 - [#103-105] Các câu hỏi review chương 103-105: đồng bộ tiêu đề #103, sửa "cụm từ 'Quân Đội Thiên Giới'" (#104 đoạn 61), sửa đoạn 20/66/69 chương 105 và đề xuất cập nhật context → Chấp nhận toàn bộ 10 chỉnh sửa văn bản ở chương 103-105 và cập nhật trạng thái chương 105 của Yu IlHan trong characters.md; bác đề xuất thêm Dang vào style.md và quy tắc đếm chữ vào rules.md. (orchestrator)
 - [#106] Định danh tạm thời "dragon-child" ("Đứa trẻ rồng") cho con của Lecidna và dịch "marriage scammer" → Chốt dùng định danh tạm "dragon-child" → "Đứa trẻ rồng" trong characters.md và pronouns.md (khi chương sau có tên riêng sẽ thêm dòng riêng theo quy tắc bước B4); chấp nhận dịch "Th-this marriage scammer....!" thành "C-Con rồng lừa hôn này....!". (orchestrator)
+- [#107] Lỗi tên "Lita" ở đoạn 5 của raw, tên tạo tác "Dragon's breath-imbued Giant Bucket" và chủng tộc "Baby Dragon" → Chốt dịch "Lita" ở đoạn 5 thành "Liera" cho khớp thời điểm sau chuyển chức lần 6; chốt "Dragon's breath-imbued Giant Bucket" → "Đại Thùng Thấm Đẫm Hơi Thở Của Rồng" (bỏ "Giant Bucket" khỏi Alias); gộp "Baby Dragon" vào Alias của "Immature Dragon" → "Ấu Long" (bỏ dấu "/" trong glossary.md). (orchestrator)

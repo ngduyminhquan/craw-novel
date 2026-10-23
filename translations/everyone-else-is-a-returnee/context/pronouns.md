@@ -42,6 +42,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jirl | cậu / Jirl | 103 | Nam elf chiến binh khiên theo IlHan |
 | Phiria | cô / Phiria | 103 | Nữ elf đạo tặc theo IlHan |
 | dragon-child | đứa bé / cậu bé / đứa trẻ rồng | 106 | Bé trai rồng nở từ quả trứng của Lecidna |
+| Yumir | cậu bé / Yumir / nhóc / đứa trẻ | 107 | Bé trai rồng con của IlHan sau khi được đặt tên |
 
 ## Giữa các nhân vật
 
@@ -148,4 +149,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Erta | tôi | Erta / cô | 105 | Liera đối thoại với Erta sau khi thăng cấp |
 | dragon-child | Yu IlHan | con | bố | 106 | Đứa bé rồng nhận Yu IlHan làm bố theo lời dặn của mẹ |
 | Yu IlHan | dragon-child | tôi / ta | nhóc / con | 106 | Yu IlHan đối thoại với đứa bé rồng |
+| Yu IlHan | Yumir | bố / ta / tôi | con / nhóc | 107 | Yu IlHan đối thoại với Yumir sau khi đặt tên và nhận làm con |
+| Yumir | Yu IlHan | con | bố | 107 | Yumir gọi Yu IlHan là bố |
+| Liera | Yumir | mẹ / cô | con / nhóc | 107 | Liera nhận làm mẹ kế của Yumir |
+| Yumir | Liera | con | chị / mẹ | 107 | Ban đầu gọi Liera là chị (noona), Liera đòi gọi là mẹ |
+| Erta | Yumir | ta / tôi | nhóc / cậu bé | 107 | Erta đối thoại với Yumir |
+| Yumir | Erta | con | cô | 107 | Yumir đối thoại với Erta |
 

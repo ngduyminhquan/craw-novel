@@ -661,6 +661,13 @@ Trở về xưởng rèn tầng hầm ở Gangnam, IlHan phát hiện danh sách
 IlHan dùng Ngọn Lửa Vĩnh Cửu, ngọn lửa tím, kỹ năng Liệt Hỏa cùng lượng lớn thuốc hồi mana và mana bản thân để ấp quả trứng vàng kim của Lecidna trong lò rèn.
 Cảnh kết thúc: Quả trứng nứt vỡ giải phóng một bé trai khỏe mạnh mắt vàng tóc đen khoảng 2 tuổi; cậu bé chạy ra gọi IlHan là "Bố" bằng tiếng Hàn trôi chảy khiến IlHan giật mình nhận ra mưu đồ "lừa hôn" của Lecidna khi nhờ anh truyền mana ấp trứng.
 
+## 107
+Liera nổi cơn lôi đình đòi tìm Lecidna trừng trị nhưng lập tức tan chảy khi đứa bé rồng khen "Chị xinh đẹp" rồi nằng nặc đòi làm mẹ của bé; Erta châm chọc IlHan là trai tân kiêm kẻ cô độc bẩm sinh tự dưng có con rồng; IlHan chấp nhận thực tế, nhận nhóc con làm con trai và đặt tên thuần Hàn là Yumir (trùng âm Ymir trong Thần thoại Bắc Âu).
+Yumir ăn thịt nướng giúp IlHan hoàn tất khế ước Kỵ Sĩ Rồng và dùng kỹ năng [Thống Trị] thu nhận cậu bé làm cấp dưới; bảng chỉ số của Yumir hé lộ thiên phú vượt bậc với 2 danh hiệu bẩm sinh [Kẻ Được Ngọn Lửa Vĩnh Cửu Rửa Tội], [Khởi Sinh Hỗn Loạn] cùng hàng loạt kỹ năng cấp cao.
+Sau khi Yumir ăn no ngủ say và được Liera tắm rửa ôm vào lòng, IlHan tìm thấy chiếc thùng khổng lồ trong túi đồ nay đã tiến hóa thành tạo tác [Đại Thùng Thấm Đẫm Hơi Thở Của Rồng] mô phỏng cơ quan ma pháp của rồng nhờ cộng hưởng gần 1.000 trái tim rồng.
+Cảnh kết thúc: Phớt lờ ý tưởng ngâm mình hay ủ rượu Hơi Thở của hai thiên thần, Yu IlHan đổ máu và ném thịt rồng vào thùng, tự hào tuyên bố ngộ ra công thức nấu ăn mới từ kỹ năng Nấu Nướng giúp mở rộng chân trời cho ẩm thực thịt quái vật.
+
+
 
 
 

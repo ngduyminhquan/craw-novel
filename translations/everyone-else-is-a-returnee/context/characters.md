@@ -42,7 +42,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Paté | Pat | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
 | Jirl |  | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
-| dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana | 106 |
+| dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
+| Yumir | Mir | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
 
 ## Chi tiết
 
