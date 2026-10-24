@@ -511,3 +511,7 @@
 | Front Line Alliance | the Front Line Alliance | Liên Minh Tiền Tuyến | tổ chức | 110 | Liên minh 26 clan mua trang bị cao cấp từ Vanguard để cùng chia sẻ thông tin và hỗ trợ tác chiến |
 | Bump Clan |  | Clan Bump | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |
 | Caycicle Clan |  | Clan Caycicle | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |
+| Gigantic Thunder |  | Cự Lôi | kỹ năng | 111 | Ma pháp lôi hệ cực mạnh của Kang MiRae |
+| Great Chain Lightning |  | Đại Lôi Dây Chuyền | kỹ năng | 111 | Ma pháp lôi hệ cấp cao của Carina Malatesta |
+| Concentrate magic |  | Ma pháp Tụ Lực | kỹ năng | 111 | Ma pháp liên kết của clan Magia dồn mana các pháp sư vào ma thạch để Carina phóng thích |
+| Great Dark Wolf |  | Đại Hắc Lang | quái vật | 111 | Quái vật sói chuyển chức 3 cấp 161 từ Thế Giới Bị Bỏ Rơi xông ra cổng hầm ngục |

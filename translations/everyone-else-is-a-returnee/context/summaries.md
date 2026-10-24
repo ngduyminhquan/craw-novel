@@ -685,3 +685,9 @@ Nhờ cột lôi quang tín hiệu của Kang MiRae, nhóm IlHan nhanh chóng ti
 Nghe Paté ngưỡng mộ Susanoo là kẻ mạnh nhất Trái Đất, IlHan thản nhiên thừa nhận đó là mình khiến các elf trầm trồ nịnh bợ; trong khi đó các clan Bump và Caycicle kéo đến chi viện, Kang MiRae và Na YuNa quyết đoán san phẳng cả khu chung cư hàng trăm tỷ won mở rộng chiến trường.
 Cảnh kết thúc: IlHan nhắn tin báo đã đến nơi và yêu cầu Kang MiRae tích tụ ma pháp lôi hệ mạnh nhất sẵn sàng phóng ra; chuẩn bị vũ khí bí mật làm từ xác Long tộc đem từ Daréu về, IlHan nở nụ cười tựa như một vị thần tai ương thực thụ giáng thảm họa xuống đầu bầy quái vật.
 
+## 111
+Yu IlHan nhảy lên trời cao phóng liên tiếp các ngọn thương khổng lồ bằng xương rồng hệ lôi cắm thành vòng tròn vây chặt cổng hầm ngục; Kang MiRae tung [Cự Lôi], Na YuNa ban phước bùa chú và Carina Malatesta (clan Magia) dùng [Ma pháp Tụ Lực] phóng [Đại Lôi Dây Chuyền] biến hàng rào thương thành cỗ máy khuếch đại sấm sét liên hoàn thiêu rụi bầy quái vật.
+IlHan ngậm ngùi nhận ra mình không còn nhận được điểm kinh nghiệm từ quái vật dưới cấp 100 sau khi đã chuyển chức 3; trước lời an ủi và rủ rê đi du lịch vòng quanh thế giới của Erta, anh từ chối và quyết tâm ở nhà nuôi dạy Yumir thành thực thể bá đạo.
+Nhìn thấy quái vật chuyển chức 3 là Đại Hắc Lang Lv 161 nhảy vọt qua hàng rào toan tập kích liên quân, IlHan dùng Atlatl phóng lao xương rồng xuyên đầu hạ gục nó trong chớp mắt trước sự ngỡ ngàng của mọi người.
+Cảnh kết thúc: Mặc dù IlHan thất vọng vì con quái chỉ là quái tép riu, hình ảnh Susanoo có thể một đòn kết liễu quái vật chuyển chức 3 đã in sâu vào tâm trí tất cả các dị năng giả trên chiến trường.
+
