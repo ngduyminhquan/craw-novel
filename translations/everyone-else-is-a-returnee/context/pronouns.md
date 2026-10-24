@@ -189,4 +189,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Erica | tôi | cô | 117 | Yu IlHan đối thoại với Erica |
 | Flemir | Erica | tôi / thần | Erica / Công chúa | 117 | Flemir nói chuyện với Erica (Erica cấm dùng kính ngữ trước mặt IlHan) |
 | Erica | Flemir | ta / tôi | Flemir | 117 | Erica ra lệnh cho Flemir |
+| Flemir | Yu IlHan | tôi / chúng tôi | ngài | 115 | Flemir hoàn toàn kính sợ trước sức mạnh của Yu IlHan |
 

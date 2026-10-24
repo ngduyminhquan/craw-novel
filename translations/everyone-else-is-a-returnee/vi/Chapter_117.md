@@ -198,9 +198,9 @@ Nhìn vào dấu vết của hàng chục ngọn cự thương đã bị phá h�
 
 Thứ đó hiển nhiên là dư sức kết liễu một thực thể chuyển chức 4. Ngay từ đầu anh chế tạo chúng cũng là nhắm đến mục đích đó. Khoản bảo hiểm quả nhiên phát huy tác dụng. Anh vô cùng hài lòng.
 
-"Hãy ban cho những đồng tộc bị Quân Đội Ma Hủy Diệt dơ bẩn vấy bẩn giấc ngủ ngàn thu! Cho chúng thấy sức mạnh của Lang tộc chúng ta!"
+"Hãy ban cho những đồng tộc bị Quân Đội Ma Hủy Diệt nhơ nhuốc vấy bẩn giấc ngủ ngàn thu! Cho chúng thấy sức mạnh của Lang tộc chúng ta!"
 
-Công chúa lúc này thậm chí chẳng thèm nghĩ đến việc biến trở lại hình dạng sói, dũng cảm cất tiếng hô vang. Dưới sự khích lệ của Công chúa, bầy sói đen càng thêm điên cuồng lao vào xé xác lũ sói đỏ, còn Flemir thì chém giết lũ sói đỏ như thể làm vậy là có thể cứu thêm được một đồng tộc Lang tộc nữa.
+Công chúa lúc này thậm chí chẳng thèm nghĩ đến việc biến trở lại hình dạng sói, dũng cảm cất tiếng hô vang. Dưới sự khích lệ của Công chúa, bầy sói đen càng thêm điên cuồng lao vào xé xác lũ sói đỏ, còn Flemir thì chém giết lũ sói đỏ như thể làm vậy là có thể cứu thêm được một đồng tộc nữa.
 
 Yu IlHan hỗ trợ họ bằng cách thả vài ngọn thương xương mỗi khi cảm thấy bản thân sắp bị lãng quên, trong lúc thong thả bước ra khỏi chiến trường.
 
@@ -216,7 +216,7 @@ Mọi kẻ tấn công tầm xa đều đổ dồn sự chú ý vào anh. Yu IlH
 
 "Tôi đã thu phục chúng rồi. Nói cách khác, giờ bọn chúng là thuộc hạ của tôi."
 
-"...Sao cơ ạ?"
+"...Sao cơ?"
 
 Cô hỏi lại. Yu IlHan liền ân cần nhắc lại một lần nữa, và nụ cười trên gương mặt cô lập tức đông cứng.
 

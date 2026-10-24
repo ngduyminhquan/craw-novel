@@ -54,7 +54,7 @@ Kẻ thù của anh hoang mang tột độ trước những đòn tấn công b�
 
 Chỉ có Flemir, kẻ không thể trở về Trái Đất vì đang vướng vào trận chiến với Quân Đội Ma Hủy Diệt và bất lực nhìn đồng tộc bị tàn sát, mới cất tiếng gào thét trong uất nghẹn.
 
-"Khuặc! Rốt cuộc cậu muốn làm cái gì thế hả!"
+"Khuặc! Rốt cuộc ngài muốn làm cái gì thế hả!"
 
 Hỏi cái gì là cái gì, dĩ nhiên là cày cấp rồi.
 
@@ -136,7 +136,7 @@ Xem ra đồng minh chuyển chức 4 còn lại có tên là Kiana. Và thật 
 
 "Đừng hòng! Mày là của tao!"
 
-"Lũ phản đồ chết tiệt, cút đi!"
+"Tên phản đồ chết tiệt, cút đi!"
 
 Một trong những con sói DD chuyển chức 4 đang xông xáo khắp chiến trường tìm kiếm Yu IlHan đã lao vào tấn công Kiana. Kiana dốc hết sức né tránh và chỉ chăm chú lao về phía Quesad trong tầm mắt. Và cô đã thành công chặn hắn lại trước khi Quesad kịp chạm tới cánh cổng!
 
@@ -148,7 +148,7 @@ Thế nhưng.
 
 Đáng tiếc thay, cấp độ của Quesad lại cao hơn tới mười lăm cấp hoặc hơn thế nữa.
 
-Khoảng cách mười lăm cấp ở giai đoạn chuyển chức 4 chẳng khác nào một bức tường không gian bốn chiều không thể vượt qua. Khi Quesad vung kiếm, thanh trường kiếm trên tay Kiana gãy đôi chuẩn xác làm hai đoạn.
+Khoảng cách mười lăm cấp ở giai đoạn chuyển chức 4 chẳng khác nào một bức tường không gian bốn chiều không thể vượt qua. Khi Quesad vung kiếm, thanh trường kiếm trên tay Kiana gãy ngọt làm đôi.
 
 [Ta! Chính là kẻ thực thi ý chí của Quân Đội Ma Hủy Diệt! Dưới ý chí của họ, ta sẽ mở ra trang sử mới cho Lang tộc và chinh phục thế giới này!]
 
@@ -228,7 +228,7 @@ Nếu đây là một bộ truyện tranh hài hước thì anh đã có thể t
 
 Quesad cất giọng đầy thỏa mãn.
 
-[Để ta tự mắt chứng kiến xem Trái Đất mà các ngươi muốn bảo vệ đến thế n-]
+[Để ta tận mắt chứng kiến xem Trái Đất mà các ngươi muốn bảo vệ đến thế n-]
 
 Và rồi hắn đổ gục xuống mặt đất.
 

@@ -119,9 +119,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | reviewed |  |
 | 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | reviewed |  |
 | 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | reviewed |  |
-| 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | done |  |
-| 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | done |  |
-| 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | done |  |
+| 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | reviewed |  |
+| 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | reviewed |  |
+| 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | reviewed |  |
 | 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | todo |  |
 | 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | todo |  |
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | todo |  |
@@ -718,3 +718,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#116] Cụm baptism of the moon dịch thế nào và có đưa vào glossary không? → Dịch là rửa tội dưới ánh trăng trong chương, nhưng không đưa vào glossary.md vì là cụm từ miêu tả chung viết thường. (orchestrator)
 - [#117] Cách dịch dòng thoại tâm linh [Slave-born-slave treatment!?!!] của Erta? → Dịch thoát ý tự nhiên là [Đãi ngộ con của nô lệ sinh ra là nô lệ đấy à!?!!] (Erta). (orchestrator)
 - [#117] Cách dịch tên chủng tộc Moon Wolf của Erica? → Dịch Hán Việt là Nguyệt Lang, thống nhất với hệ thống chủng tộc sói trong truyện. (orchestrator)
+- [#115-117] Ở chương 115 đoạn 28, Flemir gọi Yu IlHan là gì khi gào lên trong cơn quẫn bách? → Giữ kính ngữ ngài (Rốt cuộc ngài muốn làm cái gì thế hả!) để nhất quán với sự quy phục của Flemir từ chương 113–116. (orchestrator)

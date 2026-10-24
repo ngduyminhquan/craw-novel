@@ -1,6 +1,6 @@
 # Chương 116: Ta Là Chủ Nhân Sinh Mệnh Các Ngươi 7
 
-[Kroaaaaar!]
+[Khuoaaaaar!]
 
 [Khẹc!]
 
@@ -118,7 +118,7 @@ Lại búng tay thêm lần nữa, một cơn mưa rửa tội bằng xương r�
 
 "Aizz!"
 
-Sau khi tính toán được độ trễ điều khiển cùng kết quả thực tế từ túi đồ thông qua việc liên tục thu hồi vật sở hữu từ xa, Yu IlHan liền gom hàng chục ngọn thương thành từng chùm mưa kích nhỏ hơn nhưng tốc độ phóng ra nhanh hơn gấp bội.
+Sau khi tính toán được độ trễ điều khiển cùng kết quả thực tế từ túi đồ thông qua việc liên tục thu hồi vật sở hữu từ xa, Yu IlHan liền gom hàng chục ngọn thương thành từng chùm mưa thương nhỏ hơn nhưng tốc độ phóng ra nhanh hơn gấp bội.
 
 "Khaoooooh!"
 
@@ -174,7 +174,7 @@ Trên đỉnh đầu cô lộ ra đôi tai sói đen phủ đầy lông tơ, và
 
 "Tại sao chứ!"
 
-Nhìn vào việc Flemir, kẻ với kỹ năng diễn xuất dở tệ, đang gọi cô là công chúa với vẻ mặt hoảng loạn tột độ, có vẻ như cô gái này thực sự là Công chúa Lang tộc. Từ lời cô nói rằng mình tự thân tới đây, dường như cũng đúng là cô đã từng sang Trái Đất rồi lại quay trở về Kiroa.
+Nhìn vào việc Flemir, kẻ với kỹ năng diễn xuất dở tệ, đang gọi cô là Công chúa với vẻ mặt hoảng loạn tột độ, có vẻ như cô gái này thực sự là Công chúa Lang tộc. Từ lời cô nói rằng mình tự thân tới đây, dường như cũng đúng là cô đã từng sang Trái Đất rồi lại quay trở về Kiroa.
 
 Thế nhưng... Yu IlHan lại có vài thắc mắc.
 
