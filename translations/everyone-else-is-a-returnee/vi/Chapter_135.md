@@ -62,7 +62,7 @@ Thời khắc Yu IlHan lao lên tấn công cũng chính là khoảnh khắc đ�
 
 "Phải gọi tôi là bậc thầy tâm lý chiến chứ! Hây!"
 
-Phía trên ngọn thương của Yu IlHan, tử diễm cùng Liệt Hỏa đan xen vào nhau tạo thành một ngọn lửa cuồng bạo. Có lẽ nhận ra Yu IlHan đang tung đòn toàn lực, tên kỵ sĩ dù đang cạn kiệt mana vẫn gom góp toàn bộ tàn dư năng lượng trong cơ thể để chuẩn bị phản công.
+Phía trên ngọn thương của Yu IlHan, Hỏa Tím cùng Liệt Hỏa đan xen vào nhau tạo thành một ngọn lửa cuồng bạo. Có lẽ nhận ra Yu IlHan đang tung đòn toàn lực, tên kỵ sĩ dù đang cạn kiệt mana vẫn gom góp toàn bộ tàn dư năng lượng trong cơ thể để chuẩn bị phản công.
 
 "Ngài Elbani, đó là...!"
 
@@ -98,7 +98,7 @@ Trừ phi Yu IlHan là mấy con quái vật chỉ xuất hiện một tập tro
 
 "Khặc, khụ...!"
 
-Thế nhưng, xem ra anh đã lo lắng thái quá. Dù đối thủ đã cố gắng tấn công Yu IlHan bằng ý chí siêu phàm thuần túy, nhưng ngay thời khắc đòn đánh thứ hai của Yu IlHan giáng xuống dưới dạng đòn chí mạng, dòng thuộc tính của Bát Vĩ Long Thương đã kích hoạt và lan tỏa làn sương vật chất kịch độc.
+Thế nhưng, xem ra anh đã lo lắng thái quá. Dù đối thủ đã cố gắng tấn công Yu IlHan bằng ý chí siêu phàm thuần túy, nhưng ngay thời khắc đòn đánh thứ hai của Yu IlHan giáng xuống dưới dạng đòn chí mạng, dòng thuộc tính của Bát Vĩ Long Thương đã kích hoạt và lan tỏa làn sương kịch độc.
 
 Làn sương độc này ngay cả người có Kháng Độc Cực Hạn cũng khó lòng chống chịu nổi. Huống chi lần này đối thủ lại hít thẳng nó qua khí quản, nên kết cục ra sao là điều quá đỗi rõ ràng. Dẫu vậy, tên kỵ sĩ vẫn run rẩy thốt thêm vài lời trong tình cảnh ngặt nghèo này.
 
@@ -144,7 +144,7 @@ Yu IlHan giơ cao Bát Vĩ Long Thương. Với những vết thương nghiêm t
 
 "Các ngươi không phải con người."
 
-Tử diễm cùng Liệt Hỏa bùng cháy. Có lẽ trong ngọn lửa này cũng chứa đựng thứ gì đó vượt lên trên cả mana thuần túy.
+Hỏa Tím cùng Liệt Hỏa bùng cháy. Có lẽ trong ngọn lửa này cũng chứa đựng thứ gì đó vượt lên trên cả mana thuần túy.
 
 "Các ngươi là thứ rác rưởi còn tệ hơn cả quái vật."
 
@@ -156,7 +156,7 @@ Khi anh phóng ngọn thương đi, nó bay vút tới và cắm phập vào đ�
 
 "Oa, vậy mà vẫn chưa lên cấp sao. Đúng là bực mình thật đấy."
 
-Gã tên 'Elbani' này đã phải sát hại bao nhiêu sinh mạng mới có thể chạm tới cấp 257 chứ? Yu IlHan tặc lưỡi trước sức nặng áp đảo của thời gian, rồi bước lại gần kẻ cuối cùng còn sót lại nơi này.
+Gã tên 'Elbani' này đã phải sát hại bao nhiêu sinh mạng mới có thể chạm tới cấp 257 chứ? Yu IlHan lắc đầu lè lưỡi trước sức nặng áp đảo của thời gian, rồi bước lại gần kẻ cuối cùng còn sót lại nơi này.
 
 "X-Xin tha mạng."
 
@@ -194,7 +194,7 @@ Dù chẳng thể thay đổi sự thật rằng lũ này là một đám khốn
 
 "Thế sao cô không nói cho tôi biết trước?"
 
-[Thiên giới cấm tiết lộ trước. Còn bọn chúng thì đã biết từ trước vì từng trải qua kinh nghiệm ở đợt Đại Tai Biến lần 2 rồi. Giờ cậu đã nghe từ miệng bọn chúng, nên tôi nói cho cậu biết cũng chẳng sao. Hơn nữa, ngay cả tôi cũng không ngờ lại có một thế giới dám làm ra chuyện hoang đường tày đình thế này chỉ vì Cuộc Chiến Cạnh Tranh...] (Liera)
+[Thiên giới cấm tiết lộ trước. Còn bọn chúng thì đã biết từ trước vì đã có kinh nghiệm từ đợt Đại Tai Biến lần 2 rồi. Giờ cậu đã nghe từ miệng bọn chúng, nên tôi nói cho cậu biết cũng chẳng sao. Hơn nữa, ngay cả tôi cũng không ngờ lại có một thế giới dám làm ra chuyện hoang đường tày đình thế này chỉ vì Cuộc Chiến Cạnh Tranh...] (Liera)
 
 "Được rồi, thế là đủ rồi."
 
@@ -250,7 +250,7 @@ Yu IlHan thở dài một hơi thật sâu. Anh sẽ nhiệt liệt hoan nghênh
 
 [Sao cậu lại có thể nhân từ vào những thời khắc then chốt thế này cơ chứ…] (Liera)
 
-"Hừ, im lặng đi."
+"Hừ, im đi."
 
 Yu IlHan có thể nhìn thấy những kỵ sĩ đang tiến lại gần nơi này đã khựng bước trước tiếng gầm kia.
 

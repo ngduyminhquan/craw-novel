@@ -54,7 +54,7 @@ Ngay cả khi Liera đang lẩm bẩm như vậy, kế hoạch hủy diệt củ
 
 Tòa thành chết tiệt này quá rộng lớn nên quả thực tốn rất nhiều thời gian, nhưng ngọn lửa do anh châm ngòi không hề bị dập tắt mà lần lượt phá vỡ hết lớp ma pháp phòng hộ này đến lớp khác trong thành, và Huyết Hỏa càng lúc càng bùng to hơn khi nuốt chửng lượng mana tràn ra từ các pháp trận ma pháp bị phá hủy.
 
-Ban đầu, ma pháp phòng hộ sẽ được kích hoạt trước khi ngọn lửa bùng phát quá lớn, và nếu cách đó không hiệu quả thì các ma pháp sư sẽ vào cuộc để dập lửa, thế nhưng cả hai phương án đó đều đã bị Yu IlHan bẻ gãy hoàn toàn.
+Theo lẽ thường, ma pháp phòng hộ sẽ được kích hoạt trước khi ngọn lửa bùng phát quá lớn, và nếu cách đó không hiệu quả thì các ma pháp sư sẽ vào cuộc để dập lửa, thế nhưng cả hai phương án đó đều đã bị Yu IlHan bẻ gãy hoàn toàn.
 
 Tòa thành, vốn là cốt lõi sức mạnh của nhân loại thế giới Ferata, đang sụp đổ như thế đấy. Dưới tay một con người chuyển chức lần 3 duy nhất.
 
@@ -68,7 +68,7 @@ Bởi ngọn lửa đã lan ra quá rộng, các phần trên của tòa thành 
 
 Thêm vào đó, nếu cần tạo tác nào thì anh hoàn toàn có thể tự tay làm ra. Thế nhưng, Liera dường như vẫn chưa chịu từ bỏ khi lại tiếp tục cằn nhằn.
 
-[Thật ra, tôi vừa phát hiện một luồng ma pháp trông như được bao phủ lên kho báu đấy. Cậu không thể thu trọn cả kho báu vào Túi đồ sao? Sau này hẵng kiểm tra cũng được mà. Nha? Cũng đâu tốn nhiều thời gian. Mà thật ra nó ở ngay phía trước chúng ta thôi. Đi mà, xin cậu đấy?] (Liera)
+[Thật ra, tôi vừa phát hiện một luồng ma pháp trông như được bao phủ lên kho báu đấy. Cậu không thể thu trọn cả kho báu vào túi đồ sao? Sau này hẵng kiểm tra cũng được mà. Nha? Cũng đâu tốn nhiều thời gian. Mà thật ra nó ở ngay phía trước chúng ta thôi. Đi mà, xin cậu đấy?] (Liera)
 
 "Cô thích nhẫn kim cương đến thế cơ à!?"
 
@@ -76,7 +76,7 @@ Thêm vào đó, nếu cần tạo tác nào thì anh hoàn toàn có thể tự
 
 Liera dõng dạc tuyên bố mà không chút ngượng ngùng! Yu IlHan thở dài rồi xác nhận lại với cô.
 
-"Tôi thật sự có thể thu nó vào Túi đồ sao?"
+"Tôi thật sự có thể thu nó vào túi đồ sao?"
 
 [Đương nhiên rồi, chỉ cần cậu phá bỏ ma pháp phòng hộ là được.] (Liera)
 
@@ -126,7 +126,7 @@ Tuy nhiên, mọi chuyện sẽ hoàn toàn khác nếu đây chính là tâm đ
 
 "Tốt lắm, cứ dùng quả địa lôi siêu to khổng lồ thôi."
 
-Và Yu IlHan quyết định xâm phạm vùng tĩnh mịch ấy. Sử dụng kỹ thuật Thu hồi vật sở hữu từ xa, anh di dời các quả mìn trong Túi đồ tới sát bên kho báu mà không tạo ra mảy may chấn động nào!
+Và Yu IlHan quyết định xâm phạm vùng tĩnh mịch ấy. Sử dụng kỹ thuật Thu hồi vật sở hữu từ xa, anh di dời các quả mìn trong túi đồ tới sát bên kho báu mà không tạo ra mảy may chấn động nào!
 
 [Cậu học cách đặt bom trong quân đội đấy à?] (Liera)
 
@@ -284,7 +284,7 @@ Tất nhiên, ba bốn lưỡi dao đã gãy nát hoàn toàn, và lớp giáp b
 
 "Chà, ngươi hỏi câu đó đâu phải vì muốn ta giải thích, đúng không?"
 
-Yu IlHan cất ngọn roi vào Túi đồ rồi rút trường thương ra để đối đầu với gã.
+Yu IlHan cất ngọn roi vào túi đồ rồi rút trường thương ra để đối đầu với gã.
 
 Một siêu cao thủ với cấp độ ước tính trên 250, chỉ còn một cánh tay và cạn kiệt mana, cùng với Yu IlHan, người dẫu vừa chịu một đòn toàn lực nhưng vẫn được bảo vệ bởi khiên Aegis và mang trên mình những tạo tác khó tin, dẫu rằng không còn sử dụng được sức mạnh từ trạng thái Ẩn Thân cùng kỹ năng Tử Thần nữa. Đây sẽ là một trận khổ chiến ngang tài ngang sức.
 

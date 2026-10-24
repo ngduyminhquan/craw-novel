@@ -137,9 +137,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 130 |  | Chapter_130 - Invade V.txt | Invade V | reviewed |  |
 | 131 |  | Chapter_131 - Invade VI.txt | Invade VI | reviewed |  |
 | 132 |  | Chapter_132 - Invade VII.txt | Invade VII | reviewed |  |
-| 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | done |  |
-| 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | done |  |
-| 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | done |  |
+| 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | reviewed |  |
+| 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | reviewed |  |
+| 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | reviewed |  |
 | 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | todo |  |
 | 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | todo |  |
 | 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | todo |  |
@@ -759,3 +759,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#134] Câu thoại "I...remember...the days...when...I went whale hunting… with dad…..!" của Yu IlHan ở đoạn 136 → Giữ cách dịch sát nghĩa đen hài hước "Tôi... nhớ lại... những ngày... đi... bắt cá voi... cùng bố.....!" theo đúng giọng tưng tửng nguyên bản (không thêm chú thích theo rules.md). (orchestrator)
 - [#135] Tiêu đề arc "Not Me, But My Son?! (I, II...)" → Chốt dịch tiêu đề arc là "Không Phải Tôi, Mà Là Con Trai Tôi?!" thống nhất cho toàn bộ arc (từ chương 134 trở đi). (orchestrator)
 - [#135] Cụm từ "demonic beast" trong chương 135 → Giữ cách dịch "ma thú" trong chương nhưng xóa cụm từ chung viết thường "demonic beast" khỏi glossary.md theo quy tắc không thêm cụm từ chung. (orchestrator)
+- [#133-135] Các câu hỏi review chương 133-135: đồng bộ tiêu đề #133 ("Xâm Lược VIII"), sửa "hàng dọc" (#133 đoạn 45), "Hỏa Tím" (#135 đoạn 32, 73), viết thường "túi đồ" giữa câu (#134 đoạn 35, 39, 64, 143) và cập nhật glossary.md → Chấp nhận toàn bộ chỉnh sửa văn bản ở chương 133-135 và thêm Pentagon → Lầu Năm Góc vào glossary.md; giữ nguyên mục Inventory → Túi đồ trong glossary.md và bác thêm cụm từ chung Demonic beast. (orchestrator)

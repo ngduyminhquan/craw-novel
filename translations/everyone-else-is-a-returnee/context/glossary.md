@@ -546,3 +546,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Cataclysm | Cataclysms | Đại Tai Biến | hệ thống | 133 | Biến cố nâng cấp thế giới khi mana tràn vào |
 | Pajin Meccadira |  | Pajin Meccadira | địa danh | 133 | Hoàng thành tráng lệ xây dựng cho hoàng đế Đế quốc Kadra |
 | Anpanman | Anpan-man | Anpanman | khác | 134 | Nhân vật hoạt hình bánh mì Nhật Bản Yu IlHan xem hồi nhỏ, có thể thay đầu để lập tức hồi phục sinh lực |
+| Pentagon |  | Lầu Năm Góc | địa danh | 135 | Trụ sở Bộ Quốc phòng Hoa Kỳ, Yu IlHan nhắc tới khi nói đùa về robot khổng lồ |

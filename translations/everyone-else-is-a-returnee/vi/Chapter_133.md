@@ -1,4 +1,4 @@
-# Chương 133: Xâm Lăng VIII
+# Chương 133: Xâm Lược VIII
 
 Chẳng phải ngẫu nhiên mà một đế quốc lại được gọi là đế quốc. Đế quốc Kadra, tồn tại suốt hàng ngàn năm từ Đại Tai Biến lần 1 cho tới tận bây giờ, thời điểm 'ngay trước thềm Đại Tai Biến lần 3', có thể coi là nơi quy tụ toàn bộ sức mạnh của thế giới Ferata.
 
@@ -88,7 +88,7 @@ Gồm tổng cộng 5 tấm khiên, Aegis có thể che chắn diện rộng b�
 
 Vùùùưng.
 
-Ngay khoảnh khắc Yu IlHan truyền mana vào, Aegis liền xếp thành hàng dọc chắn ngay trước mặt Yu IlHan. Thao tác điều khiển chúng còn dễ dàng hơn việc thu hồi vật phẩm từ xa vào túi đồ, và Yu IlHan có thể kiểm soát chúng để che chắn cho bản thân lẫn Liera.
+Ngay khoảnh khắc Yu IlHan truyền mana vào, Aegis liền xếp thành hàng ngang chắn ngay trước mặt Yu IlHan. Thao tác điều khiển chúng còn dễ dàng hơn việc thu hồi vật phẩm từ xa vào túi đồ, và Yu IlHan có thể kiểm soát chúng để che chắn cho bản thân lẫn Liera.
 
 "Tín hiệu phát ra từ đây!"
 
@@ -238,7 +238,7 @@ Ban đầu, cô chỉ lặng lẽ canh chừng cánh cổng, trước khi nâng 
 
 Vẻ mặt cô thoáng nét cay đắng. Cô thực sự không thích những gì mình sắp sửa làm từ giây phút này.
 
-[Tôi xin lỗi.] (Spiera)
+[Ta xin lỗi.] (Spiera)
 
 Cô lẩm bẩm khẽ khàng. Lời xin lỗi đó là dành cho ai? Câu chữ của cô chẳng thể chạm tới bất kỳ ai mà tan biến vào làn nước.
 
@@ -260,7 +260,7 @@ Thế nhưng sự thong dong đó sẽ chẳng kéo dài được lâu. Spiera, 
 
 [Cũng giống như cách con người có thể mượn sức mạnh của thiên thần, chúng ta cũng có thể mượn năng lực từ người lập khế ước. Tuy nhiên, tập kích vốn chẳng phải sở thích của ta. Lupeta, nếu ngươi không phải là kẻ phản bội, ta đã đường đường chính chính xuất hiện và giao đấu sòng phẳng với ngươi rồi.] (Spiera)
 
-[Ngươi, ngươi là...!] (Lupeta)
+[Cái gì, ngươi là...!] (Lupeta)
 
 Dĩ nhiên, đó đã là giới hạn của tên thiên thần. Hắn tan biến thành dòng máu màu trắng cùng màu tro tàn, và Spiera thở dài trước khi thu hồi ngọn thương.
 
