@@ -78,7 +78,7 @@ Giờ đây, Yu IlHan có thể chuyển giao chính xác 100.000 tấn, hay 10 
 
 Dòng thuộc tính thứ hai, ngưng đọng thời gian bên trong dị không gian, dường như là đặc tính vốn có của túi đồ. Dĩ nhiên đồ đạc bên trong sẽ không bị thối rữa, thế nên dòng thuộc tính cũ của Túi Đeo Chéo đã biến mất.
 
-Ngoài ra, thứ được chuyển giao trọn vẹn nguyên vẹn chính là thu hồi vật sở hữu từ xa. Có lẽ nhờ mức độ tương thích với túi đồ cao hơn so với Túi Đeo Chéo, giờ đây anh có thể thu hồi nhiều vật phẩm ở nhiều vị trí khác nhau cùng một lúc, và việc định hướng cũng trở nên dễ dàng hơn.
+Ngoài ra, thứ được chuyển giao trọn vẹn chính là thu hồi vật sở hữu từ xa. Có lẽ nhờ mức độ tương thích với túi đồ cao hơn so với Túi Đeo Chéo, giờ đây anh có thể thu hồi nhiều vật phẩm ở nhiều vị trí khác nhau cùng một lúc, và việc định hướng cũng trở nên dễ dàng hơn.
 
 "Tốt lắm, nó đang dần tiến gần đến hình mẫu lý tưởng của mình rồi!"
 
@@ -184,7 +184,7 @@ Yu IlHan nhận thức được theo bản năng. Rằng 'cỗ động cơ' anh 
 
 [Bạn đã trở thành một Kỵ Sĩ Rồng. Giờ đây bạn có thể ký khế ước với rồng. Toàn bộ năng lực tăng 20% khi đối đầu với Long tộc.]
 
-[Bạn đã nhận được kỹ năng bị động, Cộng Hưởng Long Nhân. Toàn bộ năng lực tăng 10% khi cùng chiến đấu với rồng cho cả kỵ sĩ lẫn rồng, và tăng thêm 10% khi cưỡi rồng. Sự cộng hưởng sẽ khuếch đại nếu chức nghiệp thuộc hệ thống suất cũng được áp dụng lên rồng.]
+[Bạn đã nhận được kỹ năng bị động, Cộng Hưởng Long Nhân. Toàn bộ năng lực tăng 10% khi cùng chiến đấu với rồng cho cả kỵ sĩ lẫn rồng, và tăng thêm 10% khi cưỡi rồng. Sự cộng hưởng sẽ khuếch đại nếu chức nghiệp thuộc hệ Thống Suất cũng được áp dụng lên rồng.]
 
 [Bạn đã nhận được kỹ năng chủ động, Long Huyết. Bạn có thể cường hóa các kỹ năng chủ động của mình bằng cách mượn sức mạnh từ cộng sự, đồng thời có thể cường hóa kỹ năng theo nhiều phương thức đa dạng tùy thuộc vào đặc tính của cộng sự và cấp độ kỹ năng. Bạn cũng có thể cường hóa các kỹ năng bị động có khả năng kích hoạt chủ động.]
 

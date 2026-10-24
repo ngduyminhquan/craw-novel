@@ -138,7 +138,7 @@ Dĩ nhiên, ngay trong cùng một phẩm cấp Truyền Thuyết cũng sẽ có
 
 Cứ như thế, anh hoàn thành xong những bộ trang phục da cho cung thủ Paté và đạo tặc Phiria. Anh thiết kế các khớp nối phục vụ cho những cử động nhanh nhẹn và tinh tế, đồng thời làm cho chúng ôm sát vào da thịt, nhưng cũng không quên đầu tư thêm vảy rồng để bảo vệ thật tốt các yếu hại trên cơ thể.
 
-Vì không cần phải khâu vá quá nhiều nên phẩm cấp của chúng chỉ dừng lại ở Độc Nhất, song đó đã là mức tốt nhất mà Yu IlHan có thể làm được rồi nên anh cũng đành chịu.
+Vì chưa làm việc khâu vá nhiều nên phẩm cấp của chúng chỉ dừng lại ở Độc Nhất, song đó đã là mức tốt nhất mà Yu IlHan có thể làm được rồi nên anh cũng đành chịu.
 
 "Tiếp theo là một thanh đại kiếm, hai thanh đoản kiếm, một chiếc khiên và..."
 
@@ -218,7 +218,7 @@ Cứ việc cuồng loạn hết mức có thể đi.
 
 "Tiếc thật đấy."
 
-Yu IlHan nở một nụ cười cay đắng trước kiệt tác lưu truyền vạn thế đang hiện diện ngay trước mắt mình. Vừa nhìn lại những trang bị mà mình đã làm ra từ trước đến nay, và đặc biệt là khi anh nghĩ về tạo tác gần đây nhất mà mình chế tạo.
+Yu IlHan nở một nụ cười khổ trước kiệt tác lưu truyền vạn thế đang hiện diện ngay trước mắt mình. Vừa nhìn lại những trang bị mà mình đã làm ra từ trước đến nay, và đặc biệt là khi anh nghĩ về tạo tác gần đây nhất mà mình chế tạo.
 
 "Aegis có lẽ cũng đã trở thành thế này nếu tiến thêm một bước nữa, nhưng lúc đó tôi lại chẳng tìm được đúng cảm giác."
 
@@ -238,7 +238,7 @@ Cả con người lẫn thiên thần đều có thể chắc chắn điều đ�
 
 […..]
 
-Nghĩ lại thì anh vẫn chưa chuyển tàn niệm của Orochi sang Hắc Cốt Đại Thương. Yu IlHan thầm ghi thêm một lịch trình nữa vào lòng rồi nhẹ nhàng nắm lấy kiệt tác của mình.
+Nghĩ lại thì anh vẫn chưa chuyển tàn niệm của Orochi sang Hắc Cốt Đại Thương. Yu IlHan thầm ghi thêm một việc cần làm nữa vào đầu rồi nhẹ nhàng nắm lấy kiệt tác của mình.
 
 [Quỹ Đạo Tử Thần]
 
@@ -252,13 +252,13 @@ Nghĩ lại thì anh vẫn chưa chuyển tàn niệm của Orochi sang Hắc C�
 
 [Dòng thuộc tính –
 
-1. Toàn bộ mũi tên đều được yểm một nguồn sức mạnh nguyền rủa cực mạnh.
+1. Toàn bộ mũi tên đều được yểm một luồng sức mạnh nguyền rủa cực mạnh.
 
 2. Tuyệt Đối Chuẩn Xác.
 
-3. Đòn đánh chí mạng xuất hiện với 100% tỷ lệ khi tấn công cùng một đối thủ ở lần thứ 3.
+3. Đòn đánh chí mạng xuất hiện với tỷ lệ 100% khi tấn công cùng một đối thủ ở lần thứ 3.
 
-4. Thống trị người chết bằng cách biến họ thành undead. Sẽ tan biến sau khi toàn bộ ma pháp còn sót lại trong xác chết tiêu tán.]
+4. Thống trị người chết bằng cách biến họ thành Undead. Sẽ tan biến sau khi toàn bộ ma pháp còn sót lại trong xác chết tiêu tán.]
 
 [Một người thợ rèn sở hữu năng lực có thể bóp méo và đánh sập mọi ghi chép chỉ bằng sự tồn tại của chính mình đã tạo nên kiệt tác này. Một tạo tác hoàn mỹ xứng đáng đồng hành cùng một anh hùng huyền thoại, và sẽ được ghi vào lịch sử của muôn vàn thế giới.]
 

@@ -172,7 +172,7 @@ Thịt thì anh có hàng đống. Hơn nữa, ngay bên cạnh còn có ngọn 
 
 Khi anh nướng thịt với loại nước sốt thích hợp, Yumir ăn ngon lành như thể đã chờ đợi khoảnh khắc này từ lâu. Đúng lúc đó.
 
-[Nhờ vào sức mạnh của Kỵ Sĩ Rồng, bạn đã ký khế ước với Ấu Long Yumir. Kỹ năng bị động đã được kích hoạt. Bạn chưa thể kích hoạt kỹ năng chủ động do sức mạnh rồng của bạn còn quá yếu.]
+[Nhờ vào sức mạnh của Kỵ Sĩ Rồng, bạn đã ký khế ước với Ấu Long Yumir. Kỹ năng bị động đã được kích hoạt. Bạn chưa thể kích hoạt kỹ năng chủ động do sức mạnh con rồng của bạn còn quá yếu.]
 
 Dù đôi bên đã thảo luận trước về chuyện này, nhưng khế ước lại được hoàn tất đúng vào khoảnh khắc Yumir cắn miếng thịt. Yu IlHan chẳng thể nào giấu nổi nỗi lo âu cho tương lai của Yumir.
 
