@@ -200,7 +200,7 @@ Khu vực xung quanh cánh cổng đã biến thành một biển lửa. Những
 
 "Bị xóa sổ? Bọn họ bị xóa sổ rồi ư!? Sao có thể như thế được! Đáng lẽ bọn họ phải sang Trái Đất rồi chứ!"
 
-"Không, chúng chết hết rồi! Tất cả bọn chúng, ngay tại nơi này. Chỉ vì con chó tạp chủng Trái Đất chết tiệt đó!"
+"Không, chúng chết hết rồi! Tất cả bọn chúng, ngay tại nơi này. Chỉ vì con chó tạp chủng cư dân Trái Đất chết tiệt đó!"
 
 Ồ ồ, đám xâm lược đúng là đẳng cấp khác biệt thật đấy. Dù cùng được phân loại là 'con người', vậy mà anh lại bị coi như loài tạp chủng trong khi chính bọn chúng mới là phường đi lột da người khác!
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T07:38:55Z",
+  "generatedAt": "2026-10-24T07:54:14Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -796,7 +796,7 @@
           "number": 132,
           "title": "Chương 132: Xâm Lược VII",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_132.md",
-          "sha": "a38f1aaee226ac07a652ebe4a29102a6bc49ef0f"
+          "sha": "05ad6398e24c1388a59d7cb27fa69210f8cc2a1a"
         },
         {
           "number": 133,

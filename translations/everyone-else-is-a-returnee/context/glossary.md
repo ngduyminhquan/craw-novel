@@ -9,7 +9,39 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 
 Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: `- <EN> — <lý do> (#chương)`. Trước khi thêm thuật ngữ mới, xem danh sách này; `lint_context.py` cảnh báo nếu một mục ở đây bị thêm lại vào bảng.
 
+- 3rd class magic stone — cụm danh từ chung chỉ ma thạch cấp 3, đã xoá ở lần rà soát chương 1–84 (#41)
+- physical abilities — cụm danh từ chung chỉ năng lực thể chất, đã xoá ở lần dọn glossary chương 1–114 (#43)
+- frag shot — danh từ chung chỉ đạn nổ mảnh thông thường, đã xoá ở lần dọn glossary chương 1–114 (#57)
+- power of life — cụm danh từ chung viết thường, đã xoá ở lần review chương 115–117 (#60)
+- health potion — danh từ chung chỉ thuốc hồi máu thông thường, đã xoá ở lần dọn glossary chương 1–114 (#61)
+- magic potion — danh từ chung chỉ thuốc hồi mana thông thường, đã xoá ở lần dọn glossary chương 1–114 (#61)
+- magic bullet — cụm danh từ chung chỉ đạn ma pháp, đã xoá ở lần dọn glossary chương 1–114 (#73)
+- landscape-changing power — cụm miêu tả 1 lần chỉ sức mạnh làm biến đổi địa hình, đã xoá ở lần dọn glossary chương 1–114 (#75)
+- great blessing — cụm từ chung không xuất hiện trong raw, đã xoá ở lần dọn glossary chương 1–114 (#75)
+- extraction — danh từ chung chỉ thao tác trích xuất thông thường, đã xoá ở lần dọn glossary chương 1–114 (#78)
+- enchanter — danh từ chung chỉ nghề phù phép nhắc thoáng qua, đã xoá ở lần dọn glossary chương 1–114 (#78)
+- cheer pack — danh từ chung chỉ túi đồ uống có vòi ngoài đời thực, đã xoá ở lần dọn glossary chương 1–114 (#84)
+- alarm magic — cụm danh từ chung chỉ ma pháp cảnh báo, đã xoá ở lần rà soát chương 85–99 (#87)
+- sub-quest — danh từ chung trong câu nói ví von 1 lần, đã xoá ở lần rà soát chương 85–99 (#91)
+- main quest — cụm danh từ chung trong câu độc thoại 1 lần, đã xoá ở lần rà soát chương 85–99 (#91)
+- Party — từ tiếng Anh đa nghĩa phổ thông (tổ đội / bữa tiệc / một bên), đã xoá ở lần rà soát chương 85–99 (#92)
+- dragon-tongue — cụm từ ghép miêu tả ngôn ngữ loài rồng xuất hiện 1 lần, đã xoá ở lần dọn glossary chương 1–114 (#93)
 - Ballista — danh từ chung, đã xoá ở lần rà soát chương 95 (#95)
+- casting off one's shell — cụm ẩn dụ thông thường (lột bỏ lớp vỏ / thoát xác), đã xoá ở lần dọn glossary chương 1–114 (#100)
+- baptism of the moon — cụm từ miêu tả chung viết thường, đã bác ở lần review chương 115–117 (#117)
+- War of the Wall of Chaos — cụm miêu tả cuộc chiến, không phải tên sự kiện cố định, đã bác ở lần review chương 118–120 (#119)
+- Unflowing time — cụm miêu tả khoảng thời gian ngừng trôi, đã bác ở lần review chương 118–120 (#120)
+- Summoning magic — cụm danh từ chung chỉ ma pháp triệu hồi, đã xoá ở lần dọn glossary chương 115–129 (#123)
+- Hell and Heaven — tên chiêu thức anime nhắc đùa thoáng qua 1 lần, đã xoá ở lần dọn glossary chương 115–129 (#123)
+- G field — tham chiếu anime nhắc đùa 1 lần, đã bác ở lần review chương 121–123 (#123)
+- Defense field — cụm danh từ chung nhắc 1 lần, đã bác ở lần review chương 121–123 (#123)
+- Fallen angel — danh từ chung (trong raw viết thường `fallen angels`), đã xoá ở lần dọn glossary chương 115–129 (#124)
+- angel network — cụm danh từ miêu tả chung viết thường, đã bác ở lần review chương 124–126 (#124)
+- Double Thunderstorm — câu cảm thán đùa 1 lần, không phải kỹ năng hệ thống, đã xoá ở lần dọn glossary chương 115–129 (#126)
+- Guardian Angel — danh từ chung (trong raw viết thường `guardian angels`), đã xoá ở lần dọn glossary chương 115–129 (#129)
+- Magic warrior — cụm danh từ chung viết thường (`magic warrior`) trong lời thoại, không phải tên chức nghiệp hệ thống (#132)
+- demonic beast — cụm danh từ chung viết thường chỉ ma thú, đã xoá và bác khi dịch/review chương 135 (#135)
+- record — danh từ chung đa nghĩa (ghi chép / kỷ lục), đã bác khi review chương 136–138 (#137)
 
 ## Bảng thuật ngữ
 
@@ -491,7 +523,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Rule |  | Thống Trị | kỹ năng | 106 | Kỹ năng chủ động do Thiên giới ban thưởng sau khi dọn sạch Daréu, giúp thu nhận cấp dưới và thúc đẩy họ tăng trưởng |
 | Lead |  | Thống Suất | kỹ năng | 106 | Kỹ năng cấp thấp hơn của Thống Trị |
 | Dragon Rider |  | Kỵ Sĩ Rồng | chức nghiệp | 106 | Chức nghiệp phụ hệ chiến đấu kích hoạt khi có rồng ký khế ước |
-| Dragon-Man Resonance |  | Cộng Hưởng Long Nhân | kỹ năng | 106 | Kỹ năng bị động của Kỵ Sĩ Rồng, tăng 10% năng lực khi chiến đấu cùng rồng và thêm 10% khi cưỡi rồng |
+| Dragon-Man Resonance | Dragon-man resonance | Cộng Hưởng Long Nhân | kỹ năng | 106 | Kỹ năng bị động của Kỵ Sĩ Rồng, tăng 10% năng lực khi chiến đấu cùng rồng và thêm 10% khi cưỡi rồng |
 | Dragonic Blood |  | Long Huyết | kỹ năng | 106 | Kỹ năng chủ động của Kỵ Sĩ Rồng, mượn sức mạnh cộng sự rồng để cường hóa kỹ năng |
 | Monster Lord |  | Chúa Tể Quái Vật | chức nghiệp | 106 | Chức nghiệp phụ hoặc chức nghiệp tiềm năng mà Erta phỏng đoán IlHan nhận được |
 | The one baptized by the flame of eternity |  | Kẻ Được Ngọn Lửa Vĩnh Cửu Rửa Tội | danh hiệu | 107 | Danh hiệu của Yumir (+130% kháng thuộc tính hỏa, hấp thụ một phần đòn tấn công thuộc tính hỏa) |
@@ -550,7 +582,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lyel Knights |  | Kỵ Sĩ Đoàn Lyel | tổ chức | 132 | Lực lượng kỵ sĩ thuộc đại đế quốc Ferata Ma Kadra |
 | Battle of Competition |  | Cuộc Chiến Cạnh Tranh | hệ thống | 132 | Cuộc cạnh tranh quy mô lớn giữa các thế giới trong giai đoạn Đại Tai Biến |
 | Blood flame |  | Huyết Hỏa | khác | 132 | Ngọn lửa sinh ra từ máu kích hoạt bởi dòng thuộc tính của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
-| Magic warrior |  | Ma chiến sĩ | chức nghiệp | 132 | Chức nghiệp chiến đấu kết hợp ma pháp và võ thuật tại thế giới Ferata |
 | Cataclysm | Cataclysms | Đại Tai Biến | hệ thống | 133 | Biến cố nâng cấp thế giới khi mana tràn vào |
 | Pajin Meccadira |  | Pajin Meccadira | địa danh | 133 | Hoàng thành tráng lệ xây dựng cho hoàng đế Đế quốc Kadra |
 | Anpanman | Anpan-man | Anpanman | khác | 134 | Nhân vật hoạt hình bánh mì Nhật Bản Yu IlHan xem hồi nhỏ, có thể thay đầu để lập tức hồi phục sinh lực |
