@@ -581,7 +581,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Brazil |  | Brazil | địa danh | 130 | Quốc gia lớn nhất Nam Mỹ tiếp giáp Venezuela |
 | Colombia | Columbia | Colombia | địa danh | 130 | Quốc gia ở Nam Mỹ tiếp giáp Venezuela |
 | Lyel Knights |  | Kỵ Sĩ Đoàn Lyel | tổ chức | 132 | Lực lượng kỵ sĩ thuộc đại đế quốc Ferata Ma Kadra |
-| Battle of Competition |  | Cuộc Chiến Cạnh Tranh | hệ thống | 132 | Cuộc cạnh tranh quy mô lớn giữa các thế giới trong giai đoạn Đại Tai Biến |
+| Battle of Competition | Battle of Competitions | Cuộc Chiến Cạnh Tranh | hệ thống | 132 | Cuộc cạnh tranh quy mô lớn giữa các thế giới trong giai đoạn Đại Tai Biến |
 | Blood flame |  | Huyết Hỏa | khác | 132 | Ngọn lửa sinh ra từ máu kích hoạt bởi dòng thuộc tính của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
 | Cataclysm | Cataclysms | Đại Tai Biến | hệ thống | 133 | Biến cố nâng cấp thế giới khi mana tràn vào |
 | Pajin Meccadira |  | Pajin Meccadira | địa danh | 133 | Hoàng thành tráng lệ xây dựng cho hoàng đế Đế quốc Kadra |
@@ -601,3 +601,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | DMZ | Demilitarized Zone; demilitarized zone | DMZ | địa danh | 145 | Khu phi quân sự Triều Tiên (nơi rải đầy bom mìn); IlHan dùng để ví von trái tim mình đầy rẫy nỗi đau mìn nổ |
 | Boom Bubble |  | Bong Bóng Nổ | kỹ năng | 145 | Kỹ năng hoặc vật phẩm tạo bong bóng nổ bị Kang MiRae đánh bại trước khi kịp tung ra |
 | Snuë | Snu; Snuëans | Snuë | địa danh | 146 | Thế giới đã trải qua 1.300 năm kể từ Đại Tai Biến gần nhất, đang tiến sát Đại Tai Biến lần 3, đối thủ của Trái Đất ở vòng tứ kết |
+| Kenatoo |  | Kenatoo | địa danh | 147 | Thế giới đối thủ của Trái Đất trong trận chung kết Cuộc Chiến Cạnh Tranh, đang tiến sát Đại Tai Biến lần 4 |
+| Burning Flag | Burning Flag clan | Clan Burning Flag | tổ chức | 147 | Clan Trái Đất thành lập bởi những người trở về từ thế giới Kenatoo |

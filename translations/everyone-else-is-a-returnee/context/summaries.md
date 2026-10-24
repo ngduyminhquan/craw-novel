@@ -902,5 +902,12 @@ Trong 3 giờ nghỉ ngơi trước vòng chung kết (top 8), IlHan khao thịt
 Tại vòng tứ kết diễn ra trên các bệ đá bay lơ lửng của Lu Füera, Trái Đất chạm trán thế giới Snuë (đã trải qua 1.300 năm kể từ đợt thăng cấp gần nhất); trước sự chán nản của các thí sinh Trái Đất vì khoảng cách thực lực, IlHan quyết định tự mình xung trận để nâng cao sĩ khí.
 Cảnh kết thúc: Ngay khi trận đấu bắt đầu, IlHan phóng mưa thương nghi binh rồi lao tới chém vỡ màng bảo hộ tiễn hàng loạt địch thủ về thế giới của họ; các thuộc hạ và Paté thừa thắng xông lên giúp Trái Đất giành chiến thắng thuyết phục sau 15 phút, biến IlHan thành vị Tử Thần chiến trường trong mắt toàn thể nhân loại Trái Đất.
 
+## 147
+Ở trận bán kết, Yu IlHan dùng roi rực lửa kèm chặt một kẻ chuyển chức 4 trong khi Flemir đại náo; Na YuNa và Yumir phối hợp bắn bão phong đạn dọn đường cho Kang MiRae tung ma pháp diện rộng giúp Trái Đất chiến thắng, còn lại 43 người tiến vào chung kết.
+Trước trận chung kết gặp thế giới Kenatoo (sắp đón Đại Tai Biến lần 4), các thành viên Clan Burning Flag thuộc Trái Đất tự phá màng bảo hộ rút lui vì không muốn giao chiến với thế giới họ từng chuyển sinh; IlHan trấn an mọi người và chuẩn bị nghênh chiến trên địa hình băng giá.
+Trước khi trận đấu bắt đầu, IlHan kích hoạt Long Huyết kết hợp Ngọn Lửa Vĩnh Cửu (rút từ xưởng rèn đưa vào cánh Hiệu Triệu Diệt Vong), ngọn lửa tím của Bát Vĩ Long Thương và kỹ năng Liệt Hỏa để buff hỏa lực đến cực hạn trong trạng thái Ẩn Thân.
+Cảnh kết thúc: Vừa có hiệu lệnh bắt đầu, IlHan lập tức dịch chuyển chớp nhoáng vung thương quét sạch cả 4 kẻ chuyển chức 4 của Kenatoo và càn quét toàn bộ 20 đối thủ chỉ trong 1 phút 30 giây nhờ liên tục tái kích hoạt Ẩn Thân qua Kẻ Cô Độc Toàn Vũ Trụ, lập kỷ lục vô tiền khoáng hậu trong Cuộc Chiến Cạnh Tranh.
+
+
 
 
