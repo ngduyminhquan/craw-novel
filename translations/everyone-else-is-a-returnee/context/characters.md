@@ -153,6 +153,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 110: Trang bị giáp trụ và vũ khí cho 4 elf rồi dẫn tới hiện trường Vỡ Hầm Ngục; thản nhiên thừa nhận mình là Susanoo trước mặt các elf cấp dưới; liên lạc với Kang MiRae dặn cô chuẩn bị đại ma pháp lôi hệ, chuẩn bị sử dụng vũ khí bí mật làm từ xác Long tộc trong tâm thế của một vị thần tai ương đối với lũ quái vật.
 - Trạng thái tính đến chương 111: Bật nhảy lên không trung phóng hàng loạt thương xương rồng khổng lồ tạo hàng rào điện bẫy quái vật; ngậm ngùi nhận ra mình không còn nhận được điểm kinh nghiệm từ quái vật dưới cấp 100 sau khi chuyển chức 3; từ chối lời rủ rê đi du lịch của Erta để tập trung nuôi nấng Yumir; dùng Atlatl phóng lao xương rồng một kích tất sát quái vật chuyển chức 3 Đại Hắc Lang Lv 161 trước mắt toàn thể liên quân.
 - Trạng thái tính đến chương 119: Lập khế ước thứ hai với đại thiên thần Spiera, cường hóa Thiên Thần Bảo Hộ và Thiên Thần Chi Viện (cho phép kích hoạt chống lại thực thể cấp cao ngoài Thế Giới Bị Bỏ Rơi); thức tỉnh Tiên Thuật ở Lv Max và mở khóa khả năng tiến hóa dung hợp cho Thương Thuật; bắt đầu tiếp nhận truyền dạy kỹ năng Đại Đoạn Vũ Trụ Thương.
+- Trạng thái tính đến chương 120: Biết được tuổi thọ của bản thân đã biến đổi tương đương các chủng tộc trường thọ (như tộc elf) do 1000 năm thời gian ngừng trôi trên Trái Đất và chuyển chức 3; tinh chỉnh các chuyển động của Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật khiến Spiera thán phục rút ngắn thời gian lĩnh ngộ [Đại Đoạn Vũ Trụ Thương] xuống còn 25 năm (đặt mục tiêu rút xuống 10 năm sau kết giới); mở lại trang chủ Vanguard sau 3 tháng, bổ nhiệm bố quản lý cửa hàng số 1; phân phối vé mua vũ khí cao cấp cho các clan tham gia Vỡ Hầm Ngục và mở rộng cung cấp vũ khí cho các tổ chức dị năng giả chính phủ các nước (quy mô tương đương Trấn Áp); chuẩn bị kích hoạt kết giới 2 tháng rèn luyện cho bản thân, Yumir và đám elf.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -212,6 +213,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 69: Dẫn đầu Clan Lôi Thần sang Nhật Bản chi viện theo lời thỉnh cầu SOS trong thảm họa Vỡ Hầm Ngục; sử dụng Cốt Trượng Thiên Lôi thi triển Lôi Dây Chuyền và Lôi Thương càn quét hàng chục quái vật orc chuyển chức 2, khẳng định vị thế dẫn đầu trong số các clan quốc tế; sục sôi ý chí ganh đua và mong muốn chứng tỏ năng lực với Yu IlHan.
 - Trạng thái tính đến chương 75: Dồn trọn vẹn mana bắt đầu xướng niệm đại ma pháp quyết định để tiêu diệt Yamata no Orochi.
 - Trạng thái tính đến chương 110: Nhận định hầm ngục đã bị biến dị kết nối với Thế Giới Bị Bỏ Rơi từ 5 tuần trước; kích hoạt mạng lưới Liên Minh Tiền Tuyến cùng chính phủ chuẩn bị đối phó đợt Vỡ Hầm Ngục hơn 3 vạn quái vật; bắn cột lôi quang tín hiệu định vị chiến trường; giữ cái đầu lạnh kiên quyết trước Michael Smithson và chuẩn bị xướng niệm đại ma pháp lôi hệ mạnh nhất theo yêu cầu của IlHan.
+- Trạng thái tính đến chương 120: Dùng các mối quan hệ điều động hàng chục lực lượng quân sự nước ngoài tham gia săn quét quanh Seoul, vét sạch tận gốc bầy Lang tộc thuộc Quân Đội Ma Hủy Diệt; gọi điện trao đổi về chính sách phân phối vũ khí của Vanguard và chuyển lời bố cô muốn gặp IlHan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -224,6 +226,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.
 - Trạng thái tính đến chương 104: Công ty bị phá sản do ngành nghề mất đi vị thế sau Đại Tai Biến; được vợ và IlHan thu xếp công việc quản lý cửa hàng tại Vanguard.
+- Trạng thái tính đến chương 120: Được bổ nhiệm làm quản lý cửa hàng số 1 của Vanguard, vất vả đối phó với dòng người mua sắm đông nghẹt khi trang chủ mở bán trở lại.
 
 ### Han YeoRang
 - Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
@@ -308,6 +311,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 62: Tự tay xử tử tên thiên thần phản bội hầm ngục Trái Đất bất chấp sự do dự của hội đồng; thẩm vấn hắn về thế lực đứng sau (Quân Đội Ma Hủy Diệt, Khu Vườn Hoàng Hôn, Quân Đội Ánh Sáng Rực Rỡ); giữ Lita lại để đặc huấn nâng cao thực lực chuẩn bị cho đại chiến.
 - Trạng thái tính đến chương 77: Thông báo Bức Tường Hỗn Loạn đang mở ra khiến toàn bộ Quân Đội Thiên Giới phải tập trung đối đầu các thực thể cấp cao tà ác; bác bỏ việc đặc huấn cho Lita và trực tiếp phê duyệt thăng cấp cho cô để ra trận; tiết lộ chiến lược mở kho báu Thiên giới thưởng lớn cho Yu IlHan để anh gánh vác việc bảo vệ Trái Đất; khuyên răn Erta cẩn trọng trước cảm xúc tình cảm dành cho sinh mệnh bậc thấp.
 - Trạng thái tính đến chương 119: Đích thân hạ giới xuống Trái Đất lập khế ước với Yu IlHan sau khi Chiến Tranh Bức Tường Hỗn Loạn kết thúc; giải thích cơ chế tiến hóa dung hợp và truyền dạy kỹ năng độc môn Đại Đoạn Vũ Trụ Thương (yêu cầu tinh thông Thương Thuật, Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật); bị sốc nặng và rơi vào thế hạ phong khi IlHan lập tức thức tỉnh Tiên Thuật Lv Max chỉ bằng một cái vung roi.
+- Trạng thái tính đến chương 120: Giải thích điều kiện tu luyện [Đại Đoạn Vũ Trụ Thương] và đề xuất dùng Đồng Hồ Cát Vĩnh Hằng; liên tục rút ngắn thời gian dự tính từ 30 năm xuống 25 năm sau khi thấy IlHan tinh chỉnh chuyển động các loại vũ khí; hết lời thán phục khi thấy IlHan một mình gánh vác Trái Đất.
 
 ### Michael Smithson
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
@@ -410,4 +414,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, bé trai rồng con của Yu IlHan, nở từ quả trứng của Lecidna sau khi được IlHan truyền mana; sở hữu chủng tộc loài rồng.
 - Ngoại hình / tính cách: Tóc đen, mắt vàng kim, đáng yêu, quấn quýt bố IlHan; thông minh, học hỏi và lớn cực nhanh.
 - Trạng thái tính đến chương 118: Đạt Lv 55, tiến hóa chủng tộc thành [Thiếu Long] (vóc dáng tương đương 7 tuổi) sau khi hoàn thành chuyển chức lần 2 mà không cần làm nhiệm vụ; sở hữu [Ẩn Thân] Lv 47 và [Phong Ma Pháp Trung Cấp] Lv 39.
+- Trạng thái tính đến chương 120: Đạt cấp độ trên 60 sau khi cùng Liera và Erta dọn dẹp các hầm ngục lân cận; tiếp tục rèn luyện Ẩn Thân, Phong Ma Pháp Trung Cấp và chuẩn bị bước vào 2 tháng rèn luyện trong kết giới cùng bố.
 

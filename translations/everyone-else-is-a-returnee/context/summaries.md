@@ -740,4 +740,11 @@ Spiera giải thích cơ chế tiến hóa dung hợp kỹ năng và hé lộ v�
 Sau khi IlHan đồng ý bắt tay kết lập khế ước thứ hai giúp tăng cường [Thiên Thần Bảo Hộ] và [Thiên Thần Chi Viện] (cho phép kích hoạt chống thực thể cấp cao ngoài Thế Giới Bị Bỏ Rơi), Spiera yêu cầu anh phải thuần thục các kỹ năng cơ bản gồm Thương Thuật, Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật.
 Cảnh kết thúc: Yu IlHan lập tức lấy roi ra vung nhẹ khiến Hồ Sơ Akashic thức tỉnh [Tiên Thuật] Lv Max và mở khóa khả năng tiến hóa dung hợp Thương Thuật, khiến Spiera sững sờ cạn lời và bị dồn vào thế hạ phong ngay ngày đầu ký khế ước.
 
+## 120
+Spiera giải thích kỹ năng cao cấp [Đại Đoạn Vũ Trụ Thương] đòi hỏi luyện tập 4 tiếng mỗi ngày trong 200 năm, đồng thời tiết lộ tuổi thọ của IlHan đã biến đổi tương đương các chủng tộc trường thọ như tộc elf; cô đề xuất dùng Đồng Hồ Cát Vĩnh Hằng để rút ngắn thời gian lĩnh ngộ xuống còn 30 năm (và liên tục hạ dự tính xuống 25 năm sau khi chứng kiến IlHan luyện tập các loại vũ khí).
+Trang chủ Vanguard mở bán trở lại sau 3 tháng khiến cửa hàng số 1 do bố IlHan quản lý quá tải; IlHan quyết định phát vé mua vũ khí cao cấp cho các clan tham gia trận chiến Vỡ Hầm Ngục tại Hàn Quốc và mở rộng vũ trang cho lực lượng dị năng giả trực thuộc chính phủ các nước (như Trấn Áp của Hàn Quốc và 3 tổ chức của Mỹ) bất chấp dư luận trong nước.
+Trong lúc chờ 4 ngày nữa để kích hoạt kết giới 2 tháng nhằm rèn luyện cho bản thân, Yumir (đã đạt cấp trên 60) và đám elf, IlHan nhận cuộc gọi từ Kang MiRae trao đổi về chính sách phân phối vũ khí của Vanguard và sự hợp tác bảo vệ Trái Đất.
+Cảnh kết thúc: Giọng Kang MiRae khẽ run lên khi đề nghị hẹn gặp IlHan, ngập ngừng tiết lộ rằng bố của cô muốn gặp anh khiến IlHan sững sờ.
+
+
 
