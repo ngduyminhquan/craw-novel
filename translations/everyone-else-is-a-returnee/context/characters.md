@@ -157,6 +157,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 120: Biết được tuổi thọ của bản thân đã biến đổi tương đương các chủng tộc trường thọ (như tộc elf) do 1000 năm thời gian ngừng trôi trên Trái Đất và chuyển chức 3; tinh chỉnh các chuyển động của Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật khiến Spiera thán phục rút ngắn thời gian lĩnh ngộ [Đại Đoạn Vũ Trụ Thương] xuống còn 25 năm (đặt mục tiêu rút xuống 10 năm sau kết giới); mở lại trang chủ Vanguard sau 3 tháng, bổ nhiệm bố quản lý cửa hàng số 1; phân phối vé mua vũ khí cao cấp cho các clan tham gia Vỡ Hầm Ngục và mở rộng cung cấp vũ khí cho các tổ chức dị năng giả chính phủ các nước (quy mô tương đương Trấn Áp); chuẩn bị kích hoạt kết giới 2 tháng rèn luyện cho bản thân, Yumir và đám elf.
 - Trạng thái tính đến chương 123: Rèn liên tục 12 tiếng chế tạo hơn 600 món vũ khí tiêu chuẩn mới cho Vanguard từ nguyên liệu quái chuyển chức 2 cấp cao và chuyển chức 3 cấp thấp (đều đạt phẩm cấp Hiếm trở lên); phát hiện rượu táo trong thùng ủ nhờ Yumir triệu hồi táo từ bên ngoài xuyên qua kết giới Đồng Hồ Cát Vĩnh Hằng; bắt đầu khổ luyện [Đại Đoạn Vũ Trụ Thương] với Spiera bằng thương gỗ trên khối kim loại khổng lồ.
 - Trạng thái tính đến chương 124: Rèn hơn 500 trang bị phẩm cấp Hiếm mỗi ngày cho Vanguard trong kết giới; cung cấp thịt sói cho Erica và thịt rồng cho Yumir để gia tăng chỉ số vĩnh viễn; dùng Quái Lực và sự lặp lại kiên trì bước đầu dung hợp kiếm thuật vào thương thuật chém rách khối kim loại bằng thương gỗ chỉ sau nửa tháng.
+- Trạng thái tính đến chương 125: Nhờ kỹ năng Ngôn Ngữ Lv Max phác thảo thành công bản thiết kế ma pháp trận chứa ngôn ngữ cổ xưa của Bẫy Hủy Diệt; chế tạo thành công Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn, Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt và Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (đều đạt phẩm cấp Truyền Thuyết) từ xương rồng Karrows và xương ác lang Quesad.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -419,6 +420,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 118: Cùng Flemir quỳ phục tuyên bố quy thuận IlHan trước mặt Kang MiRae và các chủ clan; được IlHan cấp phép 2 tuần và tặng trang bị Độc Nhất để dẫn 3.000 sói đen về Kiroa tái thiết nơi cư ngụ và dọn dẹp tàn dư Quân Đội Ma Hủy Diệt.
 - Trạng thái tính đến chương 122–123: Trở về phục vụ IlHan ngay trước thời điểm kích hoạt kết giới; bắt đầu khóa huấn luyện chiến đấu 2 tháng dưới trướng Liera.
 - Trạng thái tính đến chương 124: Tiết lộ bản năng ăn thịt đồng loại của quái vật giúp tăng vĩnh viễn chỉ số, mana và cấp bậc; được IlHan giao quyền tiêu thụ toàn bộ hơn 10 vạn thịt sói trong túi đồ; hoàn toàn khâm phục và trung thành tuyệt đối với IlHan.
+- Trạng thái tính đến chương 125: Đạt cấp 98 sau gần 2 tháng khổ luyện và ăn thịt sói trong kết giới, là thuộc hạ cấp độ cao nhất của IlHan; tận tâm phục vụ với hy vọng được ban tặng trang bị phẩm cấp Truyền Thuyết.
 
 ### Kang Chan
 - Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.

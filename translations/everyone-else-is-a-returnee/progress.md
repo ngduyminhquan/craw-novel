@@ -129,7 +129,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | reviewed |  |
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | reviewed |  |
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | done |  |
-| 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | todo |  |
+| 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | done |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | todo |  |
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | todo |  |
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -734,3 +733,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#121-123] Đoạn 122:65 chủ ngữ của câu suy nghĩ Fuu, he was worried... là ai? → Chủ ngữ là Yu IlHan (he trong raw EN), sửa từ cô sang anh. (orchestrator)
 - [#124] Thuật ngữ "Fallen angel" / "Fallen angels" (phe Quân Đội Ánh Sáng Rực Rỡ) — Tạm chọn: "thiên thần sa ngã". Phương án khác: "sa đọa thiên thần". Tạm dùng trong bản dịch: "thiên thần sa ngã". → Duyệt phương án đã dùng: dịch là thiên thần sa ngã, đồng bộ với cách dịch thiên thần trong toàn bộ các chương trước. (orchestrator)
 - [#124] Cụm "giant blob of meat" ở đoạn 59 raw EN (khối kim loại dùng để luyện thương bị raw viết nhầm thành meat) — Tạm chọn: sửa thành "khối kim loại khổng lồ" cho khớp với bối cảnh chương 122 và đoạn 102 của chính chương 124 ("giant blob of metal"). → Duyệt phương án đã dùng: dịch là khối kim loại khổng lồ vì đây là lỗi đánh máy của bản dịch EN (nhầm metal thành meat, đoạn 102 chương 124 và chương 122–123 đều ghi giant blob of metal). (orchestrator)
+- [#125] Tên các trang bị phẩm cấp Truyền Thuyết mới Yu IlHan chế tạo từ xương rồng Karrows và xương ác lang Quesad (`Insanely Passionate Spiked Black dragon whip`, `Destruction-calling Titan's Resonance Thunderhammer`, `Chilly Blizzard tyrant's Mixed bone Fullplate armor`) → Duyệt phương án đã dùng: Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn, Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt, Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (tuân thủ cấu trúc đặt tên tạo tác nhiều tiền tố trong glossary.md). (orchestrator)
+- [#125] Xưng hô của Erica và đám elf khi gọi Yumir: Erica xưng "tôi", gọi Yumir là "thiếu chủ" (young master); đám elf gọi Yumir là "Hoàng tử Điện hạ / Điện hạ" (Imperial Prince). Tạm dùng: Erica gọi "thiếu chủ", elf gọi "Hoàng tử Điện hạ / Điện hạ". → Duyệt phương án đã dùng: Erica gọi Yumir là thiếu chủ (xưng tôi), các elf gọi Yumir là Hoàng tử Điện hạ / Điện hạ (đúng vị thế từng người trước Yu IlHan). (orchestrator)

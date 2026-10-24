@@ -520,3 +520,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Summoning magic |  | ma pháp triệu hồi | khác | 123 | Phép triệu hồi vật thể từ xa, xuyên qua cả kết giới của Đồng Hồ Cát |
 | Hell and Heaven |  | Hell and Heaven | khác | 123 | Chiêu thức tối thượng trong anime GaoGaiGar kết hợp công và thủ |
 | Fallen angel | Fallen angels | thiên thần sa ngã | chủng tộc | 124 | Các thiên thần phản bội gia nhập phe Quân Đội Ánh Sáng Rực Rỡ |
+| Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
+| Destruction-calling Titan's Resonance Thunderhammer |  | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
+| Chilly Blizzard tyrant's Mixed bone Fullplate armor |  | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |

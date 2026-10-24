@@ -768,6 +768,12 @@ Trong kết giới, Yu IlHan duy trì lịch trình nghiêm ngặt: 12 tiếng �
 Không cần ngủ nhờ hồi phục năng lượng nghỉ ngơi từ thịt và rượu Hơi Thở, IlHan dành trọn thời gian còn lại cùng thương gỗ khổ luyện [Đại Đoạn Vũ Trụ Thương] trước khối kim loại khổng lồ và lên kế hoạch đi săn troll ở Grand Canyon sau khi hết kết giới; trong khi đó, Spiera âm thầm quan sát anh và nung nấu nhiệm vụ truy lùng những kẻ phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ (phe thiên thần sa ngã) đang lẩn trốn trên Trái Đất.
 Cảnh kết thúc: Bằng cách kích hoạt Quái Lực kết hợp sự lặp lại kiên trì, IlHan thành công truyền tải độ sắc bén của kiếm thuật vào nhát đâm của thương gỗ tạo nên vết chém dài trên khối kim loại chỉ sau nửa tháng luyện tập, khiến Spiera hoàn toàn sững sờ trước thiên phú phi thường của người khế ước.
 
+## 125
+Thời gian kết giới chỉ còn 75 giờ; các thuộc hạ tăng tiến vượt bậc: Erica đạt cấp 98 và hoàn toàn trung thành với Yu IlHan, đám elf nỗ lực luyện tập, còn Yumir thăng tiến thần tốc (Ẩn Thân cấp 70, Cận Chiến cấp 60) dễ dàng hạ gục toàn bộ thuộc hạ trong các trận đấu tập.
+Đột nhiên nảy ra cảm hứng, IlHan phác thảo bản thiết kế ma pháp trận chứa ngôn ngữ cổ xưa của Bẫy Hủy Diệt nhờ kỹ năng Ngôn Ngữ Lv Max khiến 3 thiên thần chấn động; tuy nhiên anh đành tạm gác lại vì thiếu ma thạch của thực thể cấp cao chuyển chức lần 5.
+Chuyển sang làm trang bị cho bản thân, IlHan chế tạo thành công hai vũ khí phẩm cấp Truyền Thuyết gồm Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn và Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt từ xương rồng Karrows, đồng thời đánh bóng hàng nghìn ngọn lao phóng và khiên.
+Cảnh kết thúc: Từ xương rồng và toàn bộ xương ma lang Quesad, IlHan rèn bộ giáp thủy chiến thành Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (phẩm cấp Truyền Thuyết, phòng thủ 7.300) với các dòng thuộc tính đóng băng và điều khiển băng kỳ lạ nằm ngoài dự tính khiến anh ngơ ngác.
+
 
 
 

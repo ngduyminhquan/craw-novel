@@ -208,5 +208,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | Erta | em / con | chị / chị Erta | 123 | Yumir gọi Erta là noona (chị) khi hỏi thăm sau trận đòn của Liera |
 | Liera | Erica | ta | ngươi / các ngươi | 123 | Liera huấn luyện chiến đấu cho Erica và các thuộc hạ |
 | Erica | Liera | tôi | cô / ngài | 123 | Erica hỏi và nghe lệnh huấn luyện của Liera |
+| Erica | Yumir | tôi | thiếu chủ | 125 | Erica gọi con trai Yu IlHan là thiếu chủ |
 
 
