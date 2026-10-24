@@ -126,7 +126,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | reviewed |  |
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | reviewed |  |
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | done |  |
-| 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | todo |  |
+| 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | done |  |
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | todo |  |
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | todo |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | todo |  |

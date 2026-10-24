@@ -752,5 +752,11 @@ Kang Chan ngỏ ý tặng IlHan mảnh đất bị tàn phá quanh cánh cổng 
 Sau khi IlHan rời đi trước cuộc hẹn công việc buổi chiều, Kang Chan thúc giục MiRae nhanh chóng "tóm lấy" IlHan trước khi bị Na YuNa nẫng tay trên, khiến MiRae đỏ mặt tía tai cãi lại rồi đập bàn bỏ đi.
 Cảnh kết thúc: Kang Chan và Kang HaJin ở lại phòng nhìn nhau cười khẩy toan tính, mơ tưởng viễn cảnh lợi dụng vũ lực của IlHan một khi kết hợp với MiRae để đưa gia tộc lên đỉnh cao danh vọng trong thời kỳ Đại Tai Biến.
 
+## 122
+Yu IlHan gặp riêng Kang MiRae tại tầng 14 tòa nhà Vanguard; hai người trao đổi về tình hình thế giới, thủ tục chuyển giao khu đất sau sự biến Kiroa và thái độ của Kang Chan; Kang MiRae chủ động đề nghị đổi sang xưng hô thân thiết hơn (bỏ họ, gọi nhau là MiRae và IlHan) với tư cách đồng nghiệp, rồi đỏ mặt bối rối trốn vào thang máy sau câu cảm ơn chân thành từ IlHan.
+Bốn ngày sau tại xưởng rèn Địa Hạ, Yumir đã thăng lên cấp 65, đám elf nâng Giải Phẫu lên cấp 65 (Phiria vượt cấp 76) hoàn tất mổ xẻ toàn bộ xác quái; IlHan thử nghiệm ủ thịt sói và thịt rồng trong máu rồng chuyển chức 3, đồng thời chuẩn bị khối kim loại khổng lồ để tập luyện [Đại Đoạn Vũ Trụ Thương] theo yêu cầu của Spiera.
+Cảnh kết thúc: Giữa lúc IlHan chuẩn bị kích hoạt kết giới 2 tháng thì Erica bất ngờ xuất hiện tại xưởng rèn xin hầu cận bên anh; IlHan vui vẻ kích hoạt Đồng Hồ Cát Vĩnh Hằng, bỏ mặc cô nàng Lang tộc ngơ ngác chuẩn bị trải nghiệm 2 tháng huấn luyện cùng mọi người.
+
+
 
 

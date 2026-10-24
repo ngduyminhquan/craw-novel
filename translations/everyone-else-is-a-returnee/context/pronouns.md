@@ -201,4 +201,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | Kang Chan | con | bố | 121 | Bố con đối thoại |
 | Kang Chan | HaJin | bố / ta | con / HaJin | 121 | Bố con đối thoại |
 | HaJin | Kang Chan | con | bố | 121 | Bố con đối thoại |
+| Yu IlHan | Kang MiRae | tôi | cô MiRae / MiRae | 122 | Sau thỏa thuận bỏ họ để xưng hô thân thiết hơn như đồng nghiệp |
+| Kang MiRae | Yu IlHan | tôi | anh IlHan / IlHan | 122 | Sau thỏa thuận bỏ họ để xưng hô thân thiết hơn như đồng nghiệp |
+| Yumir | Kang MiRae | con / em | chị / chị MiRae | 122 | Yumir khen chị gái xinh đẹp, tốt bụng |
+| Kang MiRae | Yumir | chị | em / Yumir | 122 | Kang MiRae xoa đầu cảm ơn Yumir lo lắng cho mình |
+
 
