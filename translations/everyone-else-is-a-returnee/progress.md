@@ -149,9 +149,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | reviewed |  |
 | 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | reviewed |  |
 | 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | reviewed |  |
-| 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | done |  |
-| 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | done |  |
-| 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | done |  |
+| 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | reviewed |  |
+| 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | reviewed |  |
+| 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | reviewed |  |
 | 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | todo |  |
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | todo |  |
 | 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | todo |  |
@@ -771,3 +771,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#142-144] Review chương 142–144: người nói ở 143:25, từ ngữ khẩu ngữ ở 142:131 và xưng hô của Kang MiRae ở 144:104 → Chấp nhận toàn bộ 5 chỉnh sửa văn bản ở chương 142–144: đổi "ngầu lòi" thành "ngầu" ở 142:131, sửa câu dịch máy ở 142:153, xác nhận 143:25 là lời của Erica nên sửa thành "Chủ nhân, thời gian chúng tôi vắng mặt có điều gì bất tiện không ạ?", sửa đại từ của Kang MiRae thành "Tôi" ở 144:104 và chuẩn hóa dấu chấm lửng ở 144:167. (orchestrator)
 - [#145] Thuật ngữ "Boom Bubble" ở đoạn 31 (kỹ năng hoặc vật phẩm tạo bong bóng nổ bị Kang MiRae đánh văng trước khi kịp tung ra) — Tạm chọn: "Bong Bóng Nổ". Phương án khác: "Boom Bubble", "Bóng Nổ". Tạm dùng trong bản dịch: "Bong Bóng Nổ". → Chốt dịch "Boom Bubble" là "Bong Bóng Nổ" (đúng quy tắc dịch thuật ngữ/kỹ năng sang tiếng Việt ngắn gọn, viết hoa chữ cái đầu). (orchestrator)
 - [#146] Từ lóng cảm thán của Na YuNa "Wao, commando!" khi thấy Yu IlHan lật lọng tỉnh bơ ("I lied.") → Chấp nhận dịch "Wao, commando!" là "Oa, ngầu đét!" (câu đùa theo meme phim Commando khi nhân vật nói "I lied", dịch thoát ý tự nhiên hợp tính cách nhí nhảnh của Na YuNa). (orchestrator)
+- [#145-147] Về xưng hô của Liera với Yu IlHan ở chương 145-146 (duy trì "tôi - cậu / IlHan" theo pronouns.md hay đổi sang "em - anh") → Giữ đúng quy chuẩn Liera xưng "tôi", gọi "cậu / IlHan" theo pronouns.md (từ chương 105), sửa lại các câu bị dịch lệch ở chương 145 và 146. (orchestrator)
+- [#147] Về tiếng gầm của Orochi ở chương 147 đoạn 106, 115 ([Kuaoooooooh!], [Kruoooooooooooh!]) có Việt hóa thành [Khuaoooooooh!], [Khuoơơơơơơơh!] không → Giữ nguyên [Kuaoooooooh!] và [Kruoooooooooooh!] như raw EN để thống nhất với các chương trước (#96, #97, #137). (orchestrator)

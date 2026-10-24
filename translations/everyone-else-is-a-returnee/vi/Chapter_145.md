@@ -44,7 +44,7 @@ Kang MiRae lên tiếng giải đáp thắc mắc của cậu.
 
 Nghe câu trả lời của cô, Kang HaJin há hốc mồm kinh ngạc.
 
-Giờ đây, toàn thể nhân loại đều đã biết về cục diện xoay quanh Cuộc Chiến Cạnh Tranh; họ biết rõ số lượng các thế giới tham gia và cách thức phân định thắng thua. Cứ cho là anh có thể dẫn dắt họ chống lại các thế giới đang chuẩn bị bước vào Đại Tai Biến lần 2 đi chăng nữa, thì lấy đâu ra sự tự tin để chiến thắng trước các đội tuyển ở Bảng Cao Cấp cơ chứ?
+Giờ đây, toàn thể nhân loại đều đã biết về cục diện xoay quanh Cuộc Chiến Cạnh Tranh; họ biết rõ số lượng các thế giới tham gia và cách thức phân định thắng thua. Cứ cho là anh có thể dẫn dắt họ chống lại các thế giới đã trải qua Đại Tai Biến lần 2 đi chăng nữa, thì lấy đâu ra sự tự tin để chiến thắng trước các đội tuyển ở Bảng Cao Cấp cơ chứ?
 
 Trong lúc Kang HaJin đang bận suy nghĩ những điều hết sức hợp tình hợp lý ấy, thì em gái cậu cùng cô bạn thân – hai người dường như đã trở nên hơi kỳ quặc sau quãng thời gian lăn lộn ở Thế Giới Bị Bỏ Rơi – lại đưa ra những ý kiến còn tiến xa hơn một bậc.
 
@@ -94,7 +94,7 @@ Vậy nên anh mới tò mò. Rốt cuộc chuyện gì đã xảy ra giữa hai
 
 Erta tự trách bản thân vì đã quá bất cẩn! Trong khi đó, Liera – người bỗng nhiên nổi hứng quan tâm đến chuyện tình cảm của người khác sau khi được Thần Tình Yêu ban phước – lập tức đưa ra phán đoán sau khi quan sát đôi nam nữ đang đứng cạnh nhau.
 
-[A ha… Người phụ nữ có vẻ như đã để mắt đến người đàn ông, nhưng tình cảm của cô ta lại chẳng được đáp lại. Em thấy rõ trong đầu gã kia đang tơ tưởng đến một người phụ nữ khác.] (Liera) [Theo ta thấy, người phụ nữ kia vượt trội hơn hẳn cả về nhan sắc lẫn năng lực, cớ sao lại thế được nhỉ? Bình thường thì người đàn ông mới là kẻ phải bám lấy người phụ nữ chứ.] Spiera, người vừa trở lại sau khi hoàn thành nhiệm vụ giám khảo trong đợt tuyển chọn, cất tiếng nhận xét, rồi Liera liền đáp lại.
+[A ha… Người phụ nữ có vẻ như đã để mắt đến người đàn ông, nhưng tình cảm của cô ta lại chẳng được đáp lại. Tôi thấy rõ trong đầu gã kia đang tơ tưởng đến một người phụ nữ khác.] (Liera) [Theo ta thấy, người phụ nữ kia vượt trội hơn hẳn cả về nhan sắc lẫn năng lực, cớ sao lại thế được nhỉ? Bình thường thì người đàn ông mới là kẻ phải bám lấy người phụ nữ chứ.] Spiera, người vừa trở lại sau khi hoàn thành nhiệm vụ giám khảo trong đợt tuyển chọn, cất tiếng nhận xét, rồi Liera liền đáp lại.
 
 [Tình yêu đích thực chẳng liên quan gì đến mấy thứ vật chất phù phiếm đó đâu, đồ ngốc.] (Liera) [Thế cơ à? Liera hiểu rõ về tình yêu thật đấy. Ta biết cô đã đổi khác kể từ khi được ban phước bởi t#$%^.] (Spiera)
 
@@ -110,7 +110,7 @@ Anh lấy cơm từ túi hút chân không trong túi đồ ra, rồi cho thêm 
 
 Anh nêm thêm một chút muối, và một khi cho vào món sốt rồng đặc chế – thứ được làm bằng cách trộn lẫn Hơi Thở đã được Na YuNa thanh tẩy độc tố cùng dầu hào – món cơm chiên thịt rồng hoàn hảo đã ra đời.
 
-[Cả đời ta chưa từng nghĩ mình sẽ thấy có kẻ nấu nướng ngay trên võ đài tuyển chọn như thế này...] (Spiera) [Vừa đánh nhau xong em cũng đói bụng rồi. IlHan, cho em một phần với.] (Liera)
+[Cả đời ta chưa từng nghĩ mình sẽ thấy có kẻ nấu nướng ngay trên võ đài tuyển chọn như thế này...] (Spiera) [Vừa đánh nhau xong tôi cũng đói bụng rồi. IlHan, cho tôi một phần với.] (Liera)
 
 Đến cả Spiera đang bận đôi co với Liera cũng phải choáng váng. Trong khi đó, những thí sinh khác vốn chỉ đang gặm đồ ăn bảo quản để lót dạ chỉ biết nuốt nước bọt ừng ực.
 
@@ -134,7 +134,7 @@ Khoảng thời gian chờ đợi – kẻ khốn khổ người hân hoan – r
 
 Dù mang trong mình những suy nghĩ khác nhau, nhưng mục tiêu của họ khi bước qua cánh cổng ở trung tâm võ đài đều như một: giành lấy thành tích xuất sắc trong Cuộc Chiến Cạnh Tranh để mang Bẫy Hủy Diệt Cấp Cao về bảo vệ Trái Đất!
 
-[Ồ, Lu Füera. Lâu lắm rồi em mới quay lại đây.] (Liera) [Tôi thì là lần đầu tiên đấy. Trước giờ tôi chưa từng phụ trách mảng bên này.] (Erta)
+[Ồ, Lu Füera. Lâu lắm rồi tôi mới quay lại đây.] (Liera) [Tôi thì là lần đầu tiên đấy. Trước giờ tôi chưa từng phụ trách mảng bên này.] (Erta)
 
 "Oa...!"
 
@@ -144,11 +144,11 @@ Vùng đất mà họ đặt chân tới sau khi bước qua cánh cổng là m�
 
 Bởi vì vạn vật nơi đây, từ cây cỏ hoa lá, côn trùng, cho đến cả vầng mặt trời trên cao đều to lớn gấp hơn mười lần so với ở Trái Đất, nên môi trường xung quanh vô cùng oi bức nóng nực. Dĩ nhiên, Yu IlHan, người sở hữu danh hiệu Hỏa Chi Dũng Giả, chẳng hề hấn gì trước cái nóng như thiêu như đốt ấy... nhưng làm sao sinh vật sống có thể sinh trưởng ở nơi này được cơ chứ?
 
-[Thì chúng là sinh vật sống của thế giới này đang sờ sờ trước mắt anh đấy thôi, đúng không?] (Liera) "Tôi nhổ một ít đem về được không?" [Và anh nghĩ là được chắc?] (Liera)
+[Thì chúng là sinh vật sống của thế giới này đang sờ sờ trước mắt cậu đấy thôi, đúng không?] (Liera) "Tôi nhổ một ít đem về được không?" [Và cậu nghĩ là được chắc?] (Liera)
 
 Ánh mắt Yu IlHan bừng sáng lấp lánh. Đó là đòn tấn công mang thông điệp 'anh không nói nhưng em cũng tự hiểu lòng anh mà'. Liera bại trận chỉ sau đúng ba giây.
 
-[...Tất nhiên là được rồi. Là yêu cầu của IlHan mà. Em sẽ chịu trách nhiệm nên chỉ nhổ một chút thôi đấy nhé, được không?] (Liera) [Tuyệt đối không!] (Erta) [Có vẻ như đã đến lúc ta phải ra tay chấn chỉnh rồi.] (Spiera)
+[...Tất nhiên là được rồi. Là yêu cầu của IlHan mà. Tôi sẽ chịu trách nhiệm nên chỉ nhổ một chút thôi đấy nhé, được không?] (Liera) [Tuyệt đối không!] (Erta) [Có vẻ như đã đến lúc ta phải ra tay chấn chỉnh rồi.] (Spiera)
 
 Liera và Erta trông khá thảnh thơi nhàn nhã, nhưng Spiera, người giữ vai trò giám khảo tại Trái Đất, thì lại hoàn toàn khác.
 

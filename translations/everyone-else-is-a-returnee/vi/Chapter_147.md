@@ -134,7 +134,7 @@ Yu IlHan đáp lại rồi đứng dậy. Anh vỗ hai cái lên người Yumir 
 
 Toàn bộ ánh mắt lập tức đổ dồn về phía anh.
 
-"đã bị các đối thủ ở vòng trước loại bỏ. Xin mọi người hãy cứ coi là như vậy đi. Dù cho các thí sinh của Kenatoo có nói chuyện với mọi người bằng 'tiếng Anh' hay các 'ngôn ngữ Trái Đất' khác, các bạn cứ việc phớt lờ họ."
+"đã bị các đối thủ ở vòng trước loại bỏ. Xin mọi người hãy cứ coi là như vậy đi. Dù cho các thí sinh của Kenatoo có nói chuyện với mọi người bằng 'tiếng Anh' hay các 'ngôn ngữ Trái Đất' khác, mọi người cứ việc phớt lờ họ."
 
 "Làm sao mà...? À."
 

@@ -16,7 +16,7 @@ Vì thế, Yu IlHan đã ra lệnh cho các thuộc hạ của mình phải nư�
 
 Vấn đề duy nhất là dù đã nương tay, họ vẫn dễ dàng và nhanh chóng quét sạch một nửa lực lượng quân địch.
 
-"Ái chà! Lũ con người Trái Đất là quái vật à?!"
+"Á á á! Lũ con người Trái Đất là quái vật à?!"
 
 "Đừng đánh với bọn họ! Vừa nãy có người bên mình bị đá bay ra khỏi sàn đấu chỉ bằng một cú đá kìa!"
 
@@ -96,11 +96,11 @@ Có 3 tiếng nghỉ ngơi trước khi bước vào vòng chung kết. Yu IlHan
 
 Đó là câu hỏi của Ericia. Yu IlHan gật đầu tán thưởng rằng đó là một câu hỏi rất hay, rồi đáp lại.
 
-"Ta từng bảo sẽ không can thiệp vì sự trưởng thành và ý chí tự do của họ sao?"
+"Tôi từng bảo sẽ không can thiệp vì sự trưởng thành và ý chí tự do của họ sao?"
 
 "Ngài từng nói thế."
 
-"Ta lừa đấy."
+"Tôi lừa đấy."
 
 "Oa, ngầu đét!"
 
@@ -160,7 +160,7 @@ Sau khi đối thủ được ấn định, có người thở dài trong phẫn
 
 "Con người đúng là thú vị thật đấy."
 
-[Ta biết ngay là cậu sẽ nói thế mà.] (Liera)
+[Tôi biết ngay là cậu sẽ nói thế mà.] (Liera)
 
 Không giống như vòng sơ loại chỉ diễn ra trên một võ đài duy nhất, vòng chung kết lại sở hữu môi trường biến đổi theo từng trận đấu. Thế nhưng, điều đó không đòi hỏi các đội phải cuốc bộ đi khắp nửa thế giới.
 
