@@ -142,7 +142,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | reviewed |  |
 | 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | done |  |
 | 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | done |  |
-| 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | todo |  |
+| 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | done |  |
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | todo |  |
 | 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | todo |  |
 | 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | todo |  |
@@ -761,3 +761,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#135] Cụm từ "demonic beast" trong chương 135 → Giữ cách dịch "ma thú" trong chương nhưng xóa cụm từ chung viết thường "demonic beast" khỏi glossary.md theo quy tắc không thêm cụm từ chung. (orchestrator)
 - [#133-135] Các câu hỏi review chương 133-135: đồng bộ tiêu đề #133 ("Xâm Lược VIII"), sửa "hàng dọc" (#133 đoạn 45), "Hỏa Tím" (#135 đoạn 32, 73), viết thường "túi đồ" giữa câu (#134 đoạn 35, 39, 64, 143) và cập nhật glossary.md → Chấp nhận toàn bộ chỉnh sửa văn bản ở chương 133-135 và thêm Pentagon → Lầu Năm Góc vào glossary.md; giữ nguyên mục Inventory → Túi đồ trong glossary.md và bác thêm cụm từ chung Demonic beast. (orchestrator)
 - [#136] Lời thoại giễu nhại "The (weapons made of materials from) dragons shall punish you!" ở đoạn 116 và "Call me Ish..." ở đoạn 128 → Chấp nhận dịch "(Vũ khí làm từ nguyên liệu của) loài rồng sẽ trừng phạt mi!" và "Cứ gọi ta là Ish... À thôi. Này! Đằng kia! Di chuyển nhanh hơn xem!" (đồng bộ với câu đùa Ishmael ở chương 26); xóa từ chung "Ballista" khỏi glossary.md theo quyết định đã chốt ở chương 95. (orchestrator)
+- [#138] Danh hiệu "Hero of Fire" nhận được khi hạ gục Ma Thú Hỏa Sơn → Chốt dịch là "Hỏa Chi Dũng Giả" theo quy tắc Hán Việt ngắn gọn cho danh hiệu trong rules.md (đồng bộ với Đồ Long Giả, Cực Tốc Giả). (orchestrator)
+- [#138] Tên quái vật hộ quốc "Volcanic Demon Beast" (Lv 267) của Đế quốc Kadra → Chốt dịch là "Ma Thú Hỏa Sơn" (nối tiếp cách gọi "ma thú" ở chương 135–137). (orchestrator)
