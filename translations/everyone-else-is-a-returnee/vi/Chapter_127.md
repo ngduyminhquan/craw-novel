@@ -112,7 +112,7 @@ Nở nụ cười rạng rỡ, Yumir ngoắc tay hứa với Yu IlHan. Vẫn ch�
 
 Đám elf đồng lòng hướng về một ý chí sau khi nhìn thấy Yu IlHan rút ra đủ thứ đồ giao cho Yumir.
 
-"Chúng thần sẽ dùng cả tính mạng để bảo vệ cậu Mir!"
+"Chúng thần sẽ dùng cả tính mạng để bảo vệ Điện hạ Mir!"
 
 "Dù có phải hy sinh linh hồn, thần cũng nhất định bảo vệ Hoàng tử Điện hạ!"
 

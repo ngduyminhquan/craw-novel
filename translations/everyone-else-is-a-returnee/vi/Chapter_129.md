@@ -16,7 +16,7 @@ Kể từ khoảnh khắc Yu IlHan tiến lên, tình hình được dọn dẹp
 
 Yu IlHan thu toàn bộ thi thể, gồm cả nạn nhân lẫn thủ phạm, vào túi đồ của mình. Không phải anh không muốn chôn cất họ, mà là anh quyết định sẽ an táng tất cả một lượt sau khi giải quyết xong tình hình, bởi lúc này mọi chuyện đang hết sức cấp bách.
 
-[IlHan. Anh ổn chứ?] (Liera)
+[IlHan. Cậu ổn chứ?] (Liera)
 
 "Tôi ổn. .....Ổn mà."
 
@@ -46,7 +46,7 @@ Ta sẽ tự tay tiêu diệt các ngươi.
 
 Yu IlHan lặng lẽ nhưng vô cùng phẫn nộ, hạ quyết tâm trong lòng trước khi buông lời dặn các thiên thần rồi rời đi; và đúng như lời đã nói, anh tăng tốc thêm một chút.
 
-[Anh còn chạy nhanh hơn lúc nãy nữa kìa!] (Liera)
+[Cậu còn chạy nhanh hơn lúc nãy nữa kìa!] (Liera)
 
 [Hừm... Cậu quả thực rất cừ đấy.] (Spiera)
 
@@ -84,7 +84,7 @@ Lần theo những kẻ đã dốc hết tâm sức để ẩn mình ư? Nếu l
 
 Yu IlHan vội vã cất bước. Cầu mong rằng mình chưa quá muộn; cầu mong rằng mình có thể cứu vãn tất cả những chuyện này.
 
-[IlHan, em cảm nhận được ở đây rồi! Nhóm này khá lớn đấy....?] (Liera)
+[IlHan, tôi cảm nhận được ở đây rồi! Nhóm này khá lớn đấy....?] (Liera)
 
 [Hàng trăm kẻ chuyển chức 2, và có cả một tên chuyển chức 3 nữa. Cậu có cảm nhận được chúng không?] (Spiera)
 
@@ -186,7 +186,7 @@ Nét mặt Michael Smithson rạng rỡ hẳn lên. Trong khi đó, Carina Malat
 
 "Tôi cũng không rõ cụ thể. Vì tôi có tạo tác giảm độ nhận diện, nên bây giờ chúng ta sẽ di chuyển tránh khỏi ánh mắt của mọi người."
 
-"Tránh người"?
+"Tránh mọi người"?
 
 Không chỉ riêng họ. Những chủ clan thuộc Liên Minh Tiền Tuyến, và đặc biệt là những người trong số đó không có thiên thần hộ mệnh, đều được Kang MiRae triệu tập.
 

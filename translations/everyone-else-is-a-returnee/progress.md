@@ -131,9 +131,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | reviewed |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | reviewed |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | reviewed |  |
-| 127 |  | Chapter_127 - Invade II.txt | Invade II | done |  |
-| 128 |  | Chapter_128 - Invade III.txt | Invade III | done |  |
-| 129 |  | Chapter_129 - Invade IV.txt | Invade IV | done |  |
+| 127 |  | Chapter_127 - Invade II.txt | Invade II | reviewed |  |
+| 128 |  | Chapter_128 - Invade III.txt | Invade III | reviewed |  |
+| 129 |  | Chapter_129 - Invade IV.txt | Invade IV | reviewed |  |
 | 130 |  | Chapter_130 - Invade V.txt | Invade V | todo |  |
 | 131 |  | Chapter_131 - Invade VI.txt | Invade VI | todo |  |
 | 132 |  | Chapter_132 - Invade VII.txt | Invade VII | todo |  |
@@ -747,3 +747,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#127] Lỗi thiếu dấu mở ngoặc vuông `[` ở đoạn 20 raw EN (`Just what was their objective?...] (Spiera)`) — Tạm chọn: thêm dấu `[` ở đầu đoạn dịch thành `[Mục tiêu của chúng rốt cuộc là gì chứ?...] (Spiera)`. Hệ quả: QA check báo cảnh báo lệch 1 đoạn `[` (raw 20, vi 21). Tạm dùng: đã thêm `[`. → Duyệt phương án đã dùng: bổ sung dấu `[` ở đầu câu thoại tâm linh của Spiera theo đúng định dạng rules.md, chấp nhận cảnh báo đếm đoạn `[ ]` của qa_check.py (tương tự chương 2 và 63, không lách cảnh báo). (orchestrator)
 - [#129] Xử lý dòng phân cách cảnh *** giữa cảnh Nam Mỹ và New York trong raw chương 129? → Duyệt phương án đã dùng: lược bỏ dòng phân cách *** (vì SEPARATOR_RE của qa_check.py bỏ qua dòng này khi đếm đoạn và app hiển thị từng dòng văn bản thuần). (orchestrator)
 - [#129] Cách dịch tên tổ chức Burning Soul tại Mỹ? → Duyệt phương án đã dùng: giữ tên riêng tiếng Anh là Clan Burning Soul theo rules.md (nhất quán với Clan Metal Knights, Clan Magia, Clan Bump). (orchestrator)
+- [#127-129] Duyệt sửa 3 lỗi xưng hô của Liera tại chương 129 (đoạn 9, 24, 43) thế nào? → Chấp nhận sửa từ anh / em về tôi / cậu theo đúng pronouns.md. (orchestrator)
+- [#127-129] Có áp dụng chỉnh sửa ở đoạn 127:57 và đoạn 128:36 không? → Chấp nhận đoạn 127:57 (sửa cậu Mir thành Điện hạ Mir cho khớp danh xưng của các elf); bác đoạn 128:36 (vì raw không có (Spiera) và đoạn 35 đã dẫn người nói). (orchestrator)

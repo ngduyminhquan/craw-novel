@@ -52,7 +52,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
 | Erica | Moon Wolf Erica; Ericia | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
 | Kang Chan | Said Kang Chan | Kang Chan | Bố của Kang MiRae và Kang HaJin, tài phiệt thế lực ngầm | 121 |
-| Chromano Il Pedra |  | Chromano Il Pedra | Đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ, bị Yu IlHan tập kích tiêu diệt | 129 |
+| Chromano Il Pedra |  | Chromano Il Pedra | Đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ, bị Yu IlHan tập kích bằng 5 ngọn thương nghiền nát mũ giáp tiêu diệt tại chỗ | 129 |
 
 ## Chi tiết
 
@@ -160,6 +160,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 124: Rèn hơn 500 trang bị phẩm cấp Hiếm mỗi ngày cho Vanguard trong kết giới; cung cấp thịt sói cho Erica và thịt rồng cho Yumir để gia tăng chỉ số vĩnh viễn; dùng Quái Lực và sự lặp lại kiên trì bước đầu dung hợp kiếm thuật vào thương thuật chém rách khối kim loại bằng thương gỗ chỉ sau nửa tháng.
 - Trạng thái tính đến chương 125: Nhờ kỹ năng Ngôn Ngữ Lv Max phác thảo thành công bản thiết kế ma pháp trận chứa ngôn ngữ cổ xưa của Bẫy Hủy Diệt; chế tạo thành công Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn, Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt và Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (đều đạt phẩm cấp Truyền Thuyết) từ xương rồng Karrows và xương ác lang Quesad.
 - Trạng thái tính đến chương 126: Thuần thục kỹ thuật thay giáp nhanh tức thì trong lúc di chuyển và nhận thức không gian ba chiều; chế tạo thành công Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy (phẩm cấp Độc Nhất), Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ (phẩm cấp Truyền Thuyết) và Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong (phẩm cấp Truyền Thuyết); hoàn tất 2 tháng kết giới và linh cảm thấy sự cấu kết mờ ám giữa các thế lực thực thể cấp cao khi Thế Giới Bị Bỏ Rơi mới lại kết nối với Trái Đất.
+- Trạng thái tính đến chương 127–129: Di chuyển bằng cách phối hợp Quái Lực, Bật Nhảy liên hoàn và triệu hồi khiên làm điểm tựa chân với vận tốc 6.000 km/h; phác thảo bản thiết kế cánh lông vũ kim loại kết hợp long ngữ và ngôn ngữ elf cổ đại; tận dụng dao găm gắn vảy rồng chế tạo vũ khí xạ kích di động chi viện cho Trái Đất; quét sạch quân xâm lược lột da của thế giới khác trên hơn 10 hòn đảo Nam Mỹ (hạ 7 kẻ chuyển chức 3 và 2.900 tên chuyển chức 2), thu toàn bộ xác nạn nhân lẫn địch vào túi đồ.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -432,4 +433,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.
 - Tính cách / quan điểm: Thực dụng, cáo già chốn thương trường nhưng lạc hậu trước thời cuộc mới của thế giới dị năng; có tư duy "ngậm thìa vàng", muốn bảo toàn quyền lực cũ và lợi dụng sức mạnh của Yu IlHan cho gia tộc; nhiệt tình muốn gán ghép Kang MiRae với IlHan.
 - Xuất hiện tính đến chương 121: Lần đầu gặp Yu IlHan, khuyên IlHan ẩn mình cẩn trọng và tặng anh mảnh đất hoang tàn sau chiến dịch Vỡ Hầm Ngục; gặng hỏi về đứa trẻ (Yumir) và thúc giục Kang MiRae nhanh chóng nắm bắt IlHan trước Na YuNa.
+
+### Chromano Il Pedra
+- Giới tính, vai trò: Nam, đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ.
+- Xuất hiện tính đến chương 129: Bị Yu IlHan tập kích bằng 5 ngọn thương nghiền nát mũ giáp tiêu diệt tại chỗ.
 
