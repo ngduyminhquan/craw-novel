@@ -68,7 +68,7 @@ Sau đó:
 
 1. Đọc `rules.md` và `style.md`. Đọc mục chi tiết trong `characters.md` của các nhân vật script liệt kê.
 2. Đọc toàn bộ raw của chương.
-3. **Thuật ngữ mới**: với mỗi mục script liệt kê là tên riêng/kỹ năng thật (bỏ qua từ thường bị bắt nhầm), chốt bản dịch theo `rules.md` và thêm vào `glossary.md` hoặc `characters.md` **trước khi dịch**. Tên chưa chắc là ai, hoặc là cách viết khác của tên đã có, thì thêm vào cột Alias của mục cũ.
+3. **Thuật ngữ mới**: với mỗi mục script liệt kê là tên riêng/kỹ năng thật (bỏ qua từ thường bị bắt nhầm), chốt bản dịch theo `rules.md` và thêm vào `glossary.md` hoặc `characters.md` **trước khi dịch**. Tên chưa chắc là ai, hoặc là cách viết khác của tên đã có, thì thêm vào cột Alias của mục cũ. Mục nằm trong `## Đã loại (không thêm lại)` ở đầu `glossary.md` thì **không thêm lại**, cứ dịch tự nhiên theo ngữ cảnh.
 4. **Góc nhìn và xưng hô**: xác nhận góc nhìn của chương (có chương đổi sang góc nhìn nhân vật khác). Với mỗi cặp nhân vật có hội thoại mà `pronouns.md` chưa có, quyết định xưng hô dựa trên tuổi, địa vị, quan hệ, tính cách và ghi vào `pronouns.md`.
 5. **Mạch truyện**: đọc tóm tắt script in ra. Chương mở đầu nối tiếp cảnh của chương trước (cùng arc, cảnh chưa kết thúc) thì đọc phần cuối bản dịch liền trước để giữ giọng và chi tiết. Chương nhắc lại chi tiết cũ mà tóm tắt không đủ thì đọc thêm bản dịch của 2–3 chương trước đó. Chưa có chương nào đã dịch thì bỏ qua.
 
