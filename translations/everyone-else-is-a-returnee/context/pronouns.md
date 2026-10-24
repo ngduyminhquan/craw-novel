@@ -206,5 +206,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | Kang MiRae | con / em | chị / chị MiRae | 122 | Yumir khen chị gái xinh đẹp, tốt bụng |
 | Kang MiRae | Yumir | chị | em / Yumir | 122 | Kang MiRae xoa đầu cảm ơn Yumir lo lắng cho mình |
 | Yumir | Erta | em / con | chị / chị Erta | 123 | Yumir gọi Erta là noona (chị) khi hỏi thăm sau trận đòn của Liera |
+| Liera | Erica | ta | ngươi / các ngươi | 123 | Liera huấn luyện chiến đấu cho Erica và các thuộc hạ |
+| Erica | Liera | tôi | cô / ngài | 123 | Erica hỏi và nghe lệnh huấn luyện của Liera |
 
 

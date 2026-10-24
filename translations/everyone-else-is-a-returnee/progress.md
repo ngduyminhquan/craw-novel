@@ -125,9 +125,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | reviewed |  |
 | 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | reviewed |  |
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | reviewed |  |
-| 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | done |  |
-| 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | done |  |
-| 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | done |  |
+| 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | reviewed |  |
+| 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | reviewed |  |
+| 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | reviewed |  |
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | todo |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | todo |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | todo |  |
@@ -729,3 +729,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#121] Ký hiệu footnote '2' trơ trọi ở cuối câu thoại của Kang MiRae ('...moreover, I\'m only 20 years old.' 2): Lược bỏ số 2 theo rules.md về bỏ ghi chú/footnote translator. Phương án tạm dùng: Bỏ hẳn số 2. → Duyệt phương án đã dùng: Lược bỏ số footnote 2 ở cuối câu thoại theo rules.md. (orchestrator)
 - [#123] Dịch tên trang bị "Blood-calling Wolf tooth sword" thành "Kiếm Răng Sói Gọi Máu" (phương án khác: "Kiếm Răng Sói Triệu Huyết"). Tạm dùng: Kiếm Răng Sói Gọi Máu. → Duyệt phương án đã dùng: dịch là Kiếm Răng Sói Gọi Máu, nhất quán với cách đặt tên trang bị chế tác trong glossary.md (Dao Xương Gấu, Roi Da Gai Dính Hồn). (orchestrator)
 - [#123] Xưng hô Yumir gọi Erta: raw dùng "noona" (chị) thay vì "cô" như ghi chú ban đầu ở ch107. Tạm dùng: Yumir gọi "chị Erta", xưng "em/con". → Duyệt phương án đã dùng: từ chương 123 Yumir gọi Erta là chị / chị Erta, xưng em / con theo đúng từ gốc noona trong raw (ở chương 107–122 Yumir chưa từng thoại trực tiếp với Erta). (orchestrator)
+- [#121-123] Đoạn 123:29 Erta nhắm tới ai và gọi là gì? → Nhắm tới Liera (người vừa khoe ở đoạn 15 là tinh thông thương và cận chiến, tức 2 môn) và gọi là cô theo đúng pronouns.md. (orchestrator)
+- [#121-123] Đoạn 122:65 chủ ngữ của câu suy nghĩ Fuu, he was worried... là ai? → Chủ ngữ là Yu IlHan (he trong raw EN), sửa từ cô sang anh. (orchestrator)

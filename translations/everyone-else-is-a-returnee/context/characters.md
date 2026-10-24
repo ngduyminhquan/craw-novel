@@ -352,7 +352,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 109: Thức giấc gặp 4 elf, vì xấu hổ tự ti nên liều mạng kích hoạt Ẩn Thân thăng vọt lên cấp 10 và mượn được một phần năng lực ẩn thân của IlHan nhờ cộng hưởng kỵ sĩ; nghe lời bố dỗ dành cố gắng rèn luyện không trốn tránh nữa.
 - Trạng thái tính đến chương 112: Được Liera đưa tới hiện trường Vỡ Hầm Ngục; dùng đạn phong ma pháp hạ quái vật chuyển chức 2 rồi chuyển chức 3 (sói đen cấp >120); thăng vọt lên cấp 31, tiến hóa thành Tiểu Long (thể hình lớn lên tương đương 4–5 tuổi), kỹ năng Ẩn Thân đạt cấp 30 và Thống Trị Mana đạt cấp 20 (mở khóa khả năng chiếm đoạt mana từ ma pháp kẻ khác).
 - Trạng thái tính đến chương 117: Thăng lên chuyển chức lần 2, ngoại hình lớn nhanh tương đương đứa trẻ 7 tuổi (học sinh tiểu học); được Kang MiRae cung cấp bình mana để duy trì Phong Ma Pháp Trung Cấp chiến đấu dũng mãnh trên chiến trường; rất quý Kang MiRae và gọi cô là "chị gái xinh đẹp tốt bụng".
-- Trạng thái tính đến chương 123: Học ma pháp từ Erta, vô tình thi triển thành công ma pháp triệu hồi đồ vật từ bên ngoài vào trong kết giới Đồng Hồ Cát Vĩnh Hằng và gửi trả ngược lại.
+- Trạng thái tính đến chương 118: Đạt Lv 55, tiến hóa chủng tộc thành [Thiếu Long] (vóc dáng tương đương 7 tuổi) sau khi hoàn thành chuyển chức lần 2 mà không cần làm nhiệm vụ; sở hữu [Ẩn Thân] Lv 47 và [Phong Ma Pháp Trung Cấp] Lv 39.
+- Trạng thái tính đến chương 120: Đạt cấp độ trên 60 sau khi cùng Liera và Erta dọn dẹp các hầm ngục lân cận; tiếp tục rèn luyện Ẩn Thân, Phong Ma Pháp Trung Cấp và chuẩn bị bước vào 2 tháng rèn luyện trong kết giới cùng bố.
+- Trạng thái tính đến chương 122–123: Đạt cấp độ 65; được Erta hướng dẫn học ma pháp triệu hồi xuyên kết giới Đồng Hồ Cát Vĩnh Hằng; vô tình tạo ra rượu táo pha máu rồng.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
@@ -377,6 +379,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm chung: Đều là các chiến binh mạnh nhất vượt qua trận hỗn chiến tuyển chọn; nhờ ăn thịt theo lệnh IlHan mà cơ bắp săn chắc nhưng cả 4 người (kể cả 2 nam elf) đều sở hữu dung nhan đẹp tựa mỹ nữ; được IlHan đưa theo về Trái Đất.
 - Trạng thái tính đến chương 104: Theo chân Yu IlHan về Trái Đất, bị suy giảm sức mạnh do chênh lệch mật độ mana giữa Daréu và Trái Đất; tôn sùng IlHan là "alpha và omega", luôn miệng gọi anh là Bệ hạ / Bệ hạ Hung Bạo; được IlHan đưa về căn hộ chung cư ở Gangnam và chuẩn bị được học nếp sống Trái Đất.
 - Trạng thái tính đến chương 109: Được IlHan chiêu đãi món mì ramen ngập thịt; được IlHan kích hoạt kỹ năng Thống Trị thu nhận làm cấp dưới; bộc lộ chỉ số vượt trội và kỹ năng giải phẫu thượng thừa; tôn xưng Yumir là "Điện hạ"; nhận chỉ tiêu giải phẫu 3 vạn xác Long tộc trong xưởng rèn để đổi lấy trang bị cao cấp do IlHan tự tay chế tạo.
+- Trạng thái tính đến chương 122–123: Cả 4 elf nâng kỹ năng Giải Phẫu lên cấp 65; riêng Phiria kỹ năng Giải Phẫu vượt qua cấp 76, sẵn sàng thử sức với thi thể quái vật chuyển chức 4.
 
 ### Flemir
 - Giới tính, vai trò: Nam, người sói chuyển chức 4 mang hình người, Thủ lĩnh Hộ Vệ Hoàng Gia của hoàng tộc Lang tộc tại thế giới Kiroa.
@@ -412,12 +415,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Đã bị Yu IlHan thu phục làm thuộc hạ bằng kỹ năng Thống Trị; gọi IlHan là "chủ nhân" và tuyệt đối tuân phục; cấm Flemir dùng kính ngữ với mình trước mặt IlHan.
 - Xuất hiện tính đến chương 117: Sẵn sàng dập đầu cầu xin và để IlHan dùng Thống Trị chi phối sinh mạng; cùng Flemir dẫn bầy sói đen vượt cổng về Trái Đất càn quét tàn quân sói đỏ, giúp liên quân kết thúc trận chiến.
 - Trạng thái tính đến chương 118: Cùng Flemir quỳ phục tuyên bố quy thuận IlHan trước mặt Kang MiRae và các chủ clan; được IlHan cấp phép 2 tuần và tặng trang bị Độc Nhất để dẫn 3.000 sói đen về Kiroa tái thiết nơi cư ngụ và dọn dẹp tàn dư Quân Đội Ma Hủy Diệt.
-
-### Yumir
-- Giới tính, vai trò: Nam, bé trai rồng con của Yu IlHan, nở từ quả trứng của Lecidna sau khi được IlHan truyền mana; sở hữu chủng tộc loài rồng.
-- Ngoại hình / tính cách: Tóc đen, mắt vàng kim, đáng yêu, quấn quýt bố IlHan; thông minh, học hỏi và lớn cực nhanh.
-- Trạng thái tính đến chương 118: Đạt Lv 55, tiến hóa chủng tộc thành [Thiếu Long] (vóc dáng tương đương 7 tuổi) sau khi hoàn thành chuyển chức lần 2 mà không cần làm nhiệm vụ; sở hữu [Ẩn Thân] Lv 47 và [Phong Ma Pháp Trung Cấp] Lv 39.
-- Trạng thái tính đến chương 120: Đạt cấp độ trên 60 sau khi cùng Liera và Erta dọn dẹp các hầm ngục lân cận; tiếp tục rèn luyện Ẩn Thân, Phong Ma Pháp Trung Cấp và chuẩn bị bước vào 2 tháng rèn luyện trong kết giới cùng bố.
+- Trạng thái tính đến chương 122–123: Trở về phục vụ IlHan ngay trước thời điểm kích hoạt kết giới; bắt đầu khóa huấn luyện chiến đấu 2 tháng dưới trướng Liera.
 
 ### Kang Chan
 - Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.

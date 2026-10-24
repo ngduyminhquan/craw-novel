@@ -10,7 +10,7 @@ Yu IlHan kể vắn tắt về những chuyện đã xảy ra với mình trong 
 
 "Chắc cô đã nghe về các phe phái Kẻ Siêu Việt từ Thiên Thần Hộ Mệnh của Na YuNa rồi đúng không?"
 
-"Ở một mức độ nào đó thì đúng là vậy... Thành ra số lượng điều tôi cần bận tâm lại tăng thêm rồi. Dù may là tôi sẽ không bao giờ phải trực tiếp đối đầu với một thực thể cấp cao.... phù."
+"Ở một mức độ nào đó thì đúng là vậy... Thành ra những chuyện tôi phải bận tâm lại nhiều thêm rồi. Dù may là tôi sẽ không bao giờ phải trực tiếp đối đầu với một thực thể cấp cao.... phù."
 
 Khi Kang MiRae thở dài, Yu IlHan không kìm được mà bật cười. Có vẻ như Kang MiRae đã cảm thấy đủ thoải mái để buông tiếng thở dài trước mặt anh. Cô cũng nhận ra điều đó ngay lập tức và vội đổi nét mặt.
 
@@ -100,7 +100,7 @@ Chẳng cần đợi Kang MiRae phải khẳng định điều đó. Đến tầ
 
 Thế nhưng, những lời vừa rồi của Kang MiRae mới chỉ là màn dạo đầu.
 
-"Thế nhưng, nếu... chúng ta cứ xưng hô cứng nhắc (trịnh trọng) với nhau như thế này mãi, tôi thấy có chút gượng gạo."
+"Thế nhưng, nếu... chúng ta cứ xưng hô câu nệ, cứng nhắc với nhau như thế này mãi, tôi thấy có chút gượng gạo."
 
 "'Xưng hô' mà cô nói là...?"
 
@@ -128,7 +128,7 @@ Sự hiện diện của những người có ấn tượng tốt về anh, vư�
 
 "Vâng, anh IlHan. Sau này mong anh giúp đỡ nhiều hơn ạ."
 
-Sắc mặt Kang MiRae tươi tắn rạng rỡ hẳn lên khi đáp lời Yu IlHan. Phù, cô cứ lo rằng mọi chuyện cho đến cuối cùng cũng chỉ dừng lại ở mấy câu chào hỏi xã giao, hóa ra chỉ là do cô lo bò trắng răng!
+Sắc mặt Kang MiRae tươi tắn rạng rỡ hẳn lên khi đáp lời Yu IlHan. Phù, anh cứ lo rằng mọi chuyện cho đến cuối cùng cũng chỉ dừng lại ở mấy câu chào hỏi xã giao, hóa ra chỉ là do anh tự mình nghĩ nhiều!
 
 Yu IlHan nắm lấy bàn tay cô chìa ra và khẽ mỉm cười. Đó là một nụ cười xuất phát từ tận đáy lòng.
 
@@ -156,7 +156,7 @@ Vừa rôm rả trò chuyện, hai cha con vừa rời khỏi căn phòng. Trong
 
 Rồi cô lại đỏ mặt khi nhớ đến những lời Yu IlHan vừa nói lúc nãy, trước khi lắc đầu nguầy nguậy.
 
-"Giao dịch, đây là một cuộc giao dịch. Một cuộc giao dịch tính mạng của nhau.... Cảm xúc chỉ là hiểu lầm thôi. 'Cảm xúc' mà mình có chỉ là sự khâm phục, và tình yêu chỉ là ảo tưởng của mình... tim đập nhanh chỉ là do loạn nhịp tim mà thôi...."
+"Giao dịch, đây là một cuộc giao dịch. Một cuộc giao dịch tính mạng của nhau.... Cảm xúc chỉ là hiểu lầm thôi. 'Cảm xúc' mà mình có chỉ là sự ngưỡng mộ, và tình yêu chỉ là mình hiểu lầm thôi... tim đập nhanh chỉ là do loạn nhịp tim mà thôi...."
 
 Lời độc thoại của cô nghe xuôi tai đến mức phổ thành bài hát cũng được, nhưng bản thân chính chủ lại vô cùng nghiêm túc. Có điều, chẳng có ai ở bên cạnh để giúp cô gỡ bỏ mối tơ vò này. Mà dẫu có đi chăng nữa, thì cũng chẳng giúp ích được là bao.
 

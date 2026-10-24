@@ -56,7 +56,7 @@ Erta vừa nghiến răng vừa lẩm bẩm, nhưng chẳng có ai thèm để t
 
 Trong khi mọi người đồng thanh đáp lời thật lớn, chỉ riêng Erta vẫn đang ôm chặt lấy hông, khẽ nheo mắt lẩm bẩm.
 
-[Ngay cả chị sống từng ấy năm trời mà cũng mới chỉ tinh thông có hai môn thôi đấy nhé....] (Erta)
+[Ngay cả cô sống từng ấy năm trời mà cũng mới chỉ tinh thông có hai môn thôi đấy nhé....] (Erta)
 
 [Vậy thì chúng ta bắt đầu ngay thôi! Trước hết ta sẽ xem trình độ của các ngươi đến đâu, thế nên hãy cùng xông lên một lượt đi!] (Liera)
 
@@ -86,7 +86,7 @@ Vừa thấy hơi vui vì được Spiera công nhận, anh lại vừa cảm th
 
 Yu IlHan đang sử dụng sạch sẽ toàn bộ số nguyên liệu thu được từ lũ quái vật chuyển chức 2 cấp cao cùng quái vật chuyển chức 3 cấp thấp nhằm chế tạo dòng vũ khí 'tiêu chuẩn' mới cho Vanguard. Nếu xét đến việc thế hệ vũ khí 'tiêu chuẩn' đời đầu chỉ được làm từ nguyên liệu quái vật chuyển chức 1, thì đây quả thực là một bước nhảy vọt phi lý.
 
-Nói quá lên một chút thì cứ mỗi hai phút trôi qua lại có một trang bị mà ngay cả thành viên của Liên Minh Tiền Tuyến cũng dùng được hoàn thành. Tốc độ ấy thậm chí còn ngày một tăng dần theo thời gian.
+Nói quá lên một chút thì cứ mỗi hai phút trôi qua, lại có một món trang bị đến cả thành viên của Liên Minh Tiền Tuyến cũng dùng được hoàn tất xuất xưởng. Tốc độ ấy thậm chí còn ngày một tăng dần theo thời gian.
 
 Vì hành động vội vã ấy khiến người ngoài nhìn vào không khỏi nghi ngờ chất lượng của thành phẩm, Spiera bèn cố ý nhấc một thanh kiếm vừa hoàn thành lên để kiểm tra thông số.
 
@@ -206,11 +206,11 @@ Yu IlHan nở một nụ cười gượng gạo rồi hỏi.
 
 "Mir ngoan lắm đúng không nào? Làm ơn triệu hồi quả táo đó quay trở lại đây ngay lập tức giúp bố đi."
 
-Nếu kết giới đột nhiên bị giải trừ, thì có khi họ đã thực hiện trót lọt một vụ giết người bằng thủ đoạn tinh vi rồi cũng nên!
+Nếu kết giới đột nhiên bị giải trừ, thì có khi họ đã thực hiện trót lọt một vụ án hoàn hảo rồi cũng nên!
 
 Nghe lời Yu IlHan, Yumir liền lập tức triệu hồi chính quả táo đó quay lại. Quả đúng là quả táo độc lúc nãy không lẫn đi đâu được.
 
-"Phùuu, suýt chút nữa con tôi đã lập công hạ gục một mạng người rồi."
+"Phùuu, suýt chút nữa con tôi đã kiếm được một mạng người thật rồi."
 
 [Nó thực sự chẳng có chút công dụng nào đâu mà.] (Erta)
 

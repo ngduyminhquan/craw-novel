@@ -22,7 +22,7 @@ Kỳ lạ thay, anh chẳng hề có chút ký ức nào về việc từng nhì
 
 "Trên mặt tôi có dính gì sao?"
 
-"Không ạ, vì bác là bố của Kang MiRae nên tôi cứ ngỡ mình sẽ nhận ra ngay từ cái nhìn đầu tiên, nhưng tôi khá bất ngờ vì mình lại không biết bác là ai."
+"Không ạ, vì bác là bố của Kang MiRae nên tôi cứ ngỡ mình sẽ nhận ra ngay từ cái nhìn đầu tiên, nhưng tôi khá bất ngờ vì mình lại không nhận ra bác."
 
 Trước nhận xét thẳng thắn của Yu IlHan, Kang Chan khẽ mỉm cười đáp lại.
 
@@ -96,7 +96,7 @@ Giống như cách bản thân ông ta ẩn mình không lộ diện, ông ta ng
 
 Nếu ông ta cứ tiếp tục giữ lối suy nghĩ này, thì rồi sẽ có ngày ông ta xung đột nảy lửa với chính con gái mình cho mà xem.
 
-Yu IlHan cảm thấy tự hào vì mình đã không chửi thề ngay trong hoàn cảnh đó. Rốt cuộc, anh chỉ muốn rời khỏi nơi này để về nhà ngay lập tức. Anh đã bớt chút thời gian đến đây cốt để giữ thể diện cho Kang MiRae, thế mà lại xảy ra chuyện này...
+Yu IlHan cảm thấy tự hào vì mình đã không chửi thề ngay trong hoàn cảnh đó. Rốt cuộc, anh chỉ muốn rời khỏi nơi này để về nhà ngay lập tức. Anh đã bớt chút thời gian đến đây vì nể mặt Kang MiRae, thế mà lại xảy ra chuyện này...
 
 "Ồ, và ngoài ra, tôi nghe nói cậu đã thu phục một số quái vật trong một hầm ngục quy mô lớn."
 
@@ -180,7 +180,7 @@ Trong khoảnh khắc, đôi tai của Kang MiRae khẽ giật giật khi cô h�
 
 Anh đâu thể nói đó là 'rồng'. Nhưng rồng thì cũng là quái vật thôi, anh chẳng hề nói dối.
 
-"Oa."
+"Hít..."
 
 "Phù."
 
@@ -230,7 +230,7 @@ Và Kang HaJin rốt cuộc cũng bật cười phá lên.
 
 "Con xin lỗi, bố. Chỉ là... phìii."
 
-"Anh bất lịch sự quá đấy, anh trai."
+"Anh bất lịch sự quá đấy, anh."
 
 Kang MiRae nói với anh trai mình. Trong khi lườm cậu ta với ánh mắt đầy sát khí mà không để Kang Chan phát hiện.
 
@@ -256,7 +256,7 @@ Và người đầu tiên phát hiện cũng như công nhận giá trị ấy k
 
 Kang Chan chưa từng nhìn thấy một Yu IlHan trong những ngày đầu của Đại Tai Biến, cũng không chứng kiến khoảnh khắc anh săn lùng báo đen, chưa từng thấy đòn tập kích tuyệt mỹ giáng xuống từ trời cao vào ngày trảm sát Orochi, và càng không được thấy khí chất vương giả thống trị bầy sói của anh.
 
-"Can thiệp cái gì chứ. Bố chỉ đang chỉ điểm cho đứa con gái có mối tình đầu muộn màng này thôi mà."
+"Can thiệp cái con khỉ. Bố chỉ đang chỉ điểm cho đứa con gái có mối tình đầu muộn màng này thôi mà."
 
 Thế nên, đòn đánh úp bất ngờ của bố khiến cô luống cuống hoảng loạn. Khác hẳn với phong thái thường ngày, Kang MiRae lắp bắp hỏi ngược lại.
 
