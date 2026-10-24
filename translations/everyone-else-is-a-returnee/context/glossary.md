@@ -508,3 +508,6 @@
 | Norse Mythology |  | Thần thoại Bắc Âu | khác | 107 | Thần thoại Bắc Âu |
 | Deathgod's Trajectory |  | Quỹ Đạo Tử Thần | vật phẩm | 108 | Cung Sử Thi chế tạo từ gân và vảy đen của Nguyền Long Karrows kết hợp ma thạch chuyển chức 4 |
 | Eight-tailed dragon spear |  | Bát Vĩ Long Thương | vật phẩm | 109 | Vũ khí Sử Thi rèn từ Hắc Cốt Đại Thương kết hợp tàn niệm Orochi qua Linh Hồn Phụ Ma |
+| Front Line Alliance | the Front Line Alliance | Liên Minh Tiền Tuyến | tổ chức | 110 | Liên minh 26 clan mua trang bị cao cấp từ Vanguard để cùng chia sẻ thông tin và hỗ trợ tác chiến |
+| Bump Clan |  | Clan Bump | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |
+| Caycicle Clan |  | Clan Caycicle | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |

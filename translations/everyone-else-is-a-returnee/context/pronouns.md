@@ -159,4 +159,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Paté | Yumir | thần / tôi | Điện hạ | 109 | Paté gọi Yumir là Điện hạ |
 | Jirl | Yumir | thần / tôi | Điện hạ | 109 | Jirl gọi Yumir là Điện hạ |
 | Phiria | Yumir | thần / tôi | Điện hạ | 109 | Phiria gọi Yumir là Điện hạ |
+| Takagaki Asuha | Michael Smithson | tôi | anh | 110 | Hai chủ clan đàm luận tại hiện trường Vỡ Hầm Ngục |
+| Michael Smithson | Takagaki Asuha | tôi | cô / cô Asuha | 110 | Hai chủ clan đàm luận tại hiện trường Vỡ Hầm Ngục |
+| Michael Smithson | Kang MiRae | tôi | cô / cô Kang | 110 | Chủ clan Metal Knights nói chuyện với Chủ Clan Lôi Thần |
+| Kang MiRae | Michael Smithson | tôi | anh | 110 | Chủ Clan Lôi Thần giữ vững lập trường trước thủ lĩnh Metal Knights |
 

@@ -679,9 +679,9 @@ Yumir tỉnh giấc, do tự ti mình còn yếu đuối nên bẽn lẽn trốn
 IlHan đưa 4 elf về xưởng rèn, giao chỉ tiêu mổ xẻ 3 vạn xác Long tộc để đổi lấy trang bị cao cấp khiến độ trung thành của họ tăng vọt; trong khi đó, anh dùng kỹ năng [Linh Hồn Phụ Ma] chuyển tàn niệm Orochi sang Hắc Cốt Đại Thương, hoàn thành tạo tác Sử Thi thứ hai [Bát Vĩ Long Thương] (Sức tấn công 7.000, có thể tiến hóa, kích hoạt tử hỏa và chia 8 mũi thương).
 Cảnh kết thúc: IlHan nhắn tin báo cho Kang MiRae biết mình đã về Trái Đất thì cô lập tức gọi điện thất thanh thông báo một hầm ngục tại Hàn Quốc vừa kết nối với Thế Giới Bị Bỏ Rơi và sáp nhập vào Trái Đất gây hỗn loạn tột độ, khiến IlHan tự hỏi liệu sự tồn tại của chính mình trên Trái Đất có phải là nguyên nhân gây ra tai ương.
 
-
-
-
-
-
+## 110
+Kang MiRae xác nhận hầm ngục đã bị biến dị liên kết với Thế Giới Bị Bỏ Rơi từ 5 tuần trước (không phải do IlHan trở về) và kêu gọi 26 clan thuộc Liên Minh Tiền Tuyến cùng chính phủ hỗ trợ ứng phó; IlHan để Liera ở nhà trông Yumir rồi phát trang bị và mặt nạ cho 4 elf dẫn tới hiện trường.
+Nhờ cột lôi quang tín hiệu của Kang MiRae, nhóm IlHan nhanh chóng tiếp cận khoảng trống đã được quân đội và các clan dọn dẹp; tại đây các chủ clan lớn như Michael Smithson (Metal Knights), Takagaki Asuha (Ma Long) và Carina Malatesta (Magia) lo ngại đợt Vỡ Hầm Ngục với hơn 3 vạn quái chuyển chức 2 và hơn 200 quái chuyển chức 3 nên tha thiết ngóng trông Susanoo xuất hiện.
+Nghe Paté ngưỡng mộ Susanoo là kẻ mạnh nhất Trái Đất, IlHan thản nhiên thừa nhận đó là mình khiến các elf trầm trồ nịnh bợ; trong khi đó các clan Bump và Caycicle kéo đến chi viện, Kang MiRae và Na YuNa quyết đoán san phẳng cả khu chung cư hàng trăm tỷ won mở rộng chiến trường.
+Cảnh kết thúc: IlHan nhắn tin báo đã đến nơi và yêu cầu Kang MiRae tích tụ ma pháp lôi hệ mạnh nhất sẵn sàng phóng ra; chuẩn bị vũ khí bí mật làm từ xác Long tộc đem từ Daréu về, IlHan nở nụ cười tựa như một vị thần tai ương thực thụ giáng thảm họa xuống đầu bầy quái vật.
 

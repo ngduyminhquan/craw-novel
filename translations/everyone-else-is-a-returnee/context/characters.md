@@ -143,6 +143,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 107: Nhận nhóc con rồng làm con trai và đặt tên Yumir; dùng [Thống Trị] thu nhận bé làm cấp dưới; chế tạo [Đại Thùng Thấm Đẫm Hơi Thở Của Rồng] và phát triển công thức chế biến thịt quái vật mới từ Nấu Nướng.
 - Trạng thái tính đến chương 108: Kỹ năng Chế Tác Mana đạt cấp 50; hoàn thành giải phẫu toàn bộ rồng chuyển chức 4; chế tạo trang bị phẩm cấp Truyền Thuyết và Độc Nhất cho 4 elf cấp dưới; ngộ ra chân lý dung hợp Rèn Đúc và Chế Tác Mana, tự tay chế tạo thành công tạo tác phẩm cấp Sử Thi đầu tiên mang tên Quỹ Đạo Tử Thần từ gân, vảy và ma thạch chuyển chức 4 của Nguyền Long Karrows.
 - Trạng thái tính đến chương 109: Rèn thêm cung Truyền Thuyết cho Paté; dùng kỹ năng Thống Trị thu nhận 4 elf làm cấp dưới và giao chỉ tiêu giải phẫu 3 vạn xác Long tộc; nâng Linh Hồn Phụ Ma lên cấp 13, dung hợp tàn niệm Orochi vào Hắc Cốt Đại Thương tạo thành tạo tác Sử Thi thứ hai 'Bát Vĩ Long Thương' (sức tấn công 7.000, có thể tiến hóa); nhận cuộc gọi khẩn cấp từ Kang MiRae báo tin một hầm ngục tại Hàn Quốc đã kết nối và sáp nhập với Thế Giới Bị Bỏ Rơi gây hỗn loạn toàn diện.
+- Trạng thái tính đến chương 110: Trang bị giáp trụ và vũ khí cho 4 elf rồi dẫn tới hiện trường Vỡ Hầm Ngục; thản nhiên thừa nhận mình là Susanoo trước mặt các elf cấp dưới; liên lạc với Kang MiRae dặn cô chuẩn bị đại ma pháp lôi hệ, chuẩn bị sử dụng vũ khí bí mật làm từ xác Long tộc trong tâm thế của một vị thần tai ương đối với lũ quái vật.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -201,6 +202,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 67: Kiểm tra giáp vai và ủng của Vanguard mà anh trai Kang HaJin mua được, nhận định việc kinh doanh của IlHan là sự nối dài từ giao dịch với mình và khen ngợi anh là người chính trực; suýt phóng sét thiêu rụi văn phòng khi bị Na YuNa trêu chọc; giữ chức Chủ Clan và quyết định chính thức chiêu mộ thành viên cho 'Clan Lôi Thần'.
 - Trạng thái tính đến chương 69: Dẫn đầu Clan Lôi Thần sang Nhật Bản chi viện theo lời thỉnh cầu SOS trong thảm họa Vỡ Hầm Ngục; sử dụng Cốt Trượng Thiên Lôi thi triển Lôi Dây Chuyền và Lôi Thương càn quét hàng chục quái vật orc chuyển chức 2, khẳng định vị thế dẫn đầu trong số các clan quốc tế; sục sôi ý chí ganh đua và mong muốn chứng tỏ năng lực với Yu IlHan.
 - Trạng thái tính đến chương 75: Dồn trọn vẹn mana bắt đầu xướng niệm đại ma pháp quyết định để tiêu diệt Yamata no Orochi.
+- Trạng thái tính đến chương 110: Nhận định hầm ngục đã bị biến dị kết nối với Thế Giới Bị Bỏ Rơi từ 5 tuần trước; kích hoạt mạng lưới Liên Minh Tiền Tuyến cùng chính phủ chuẩn bị đối phó đợt Vỡ Hầm Ngục hơn 3 vạn quái vật; bắn cột lôi quang tín hiệu định vị chiến trường; giữ cái đầu lạnh kiên quyết trước Michael Smithson và chuẩn bị xướng niệm đại ma pháp lôi hệ mạnh nhất theo yêu cầu của IlHan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
