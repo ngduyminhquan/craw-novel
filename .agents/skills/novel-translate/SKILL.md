@@ -148,7 +148,7 @@ Dùng khi được giao review, thường là 3 chương vừa dịch. **Không 
    - câu văn dịch máy, cứng, khó đọc; câu đùa mất duyên;
    - vi phạm định dạng trong `rules.md`.
 3. Chạy `qa_check.py <slug> <range>` và đưa các cảnh báo đáng chú ý vào báo cáo.
-4. Báo cáo theo đúng mẫu sau, mỗi lỗi một dòng, trích nguyên văn đủ để tìm được chỗ cần sửa:
+4. Báo cáo theo đúng mẫu sau, mỗi lỗi một dòng, trích nguyên văn đủ để tìm được chỗ cần sửa. Phần `hiện tại` phải **chép y nguyên** từ file bản dịch, không tóm tắt, không bỏ vế. Phần `đề xuất` chỉ thay đúng đoạn được trích, để người sửa thay thế mà không làm mất chữ xung quanh (nhất là thuật ngữ trong glossary):
 
 ```
 ## Chương N
