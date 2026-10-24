@@ -148,7 +148,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | reviewed |  |
 | 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | done |  |
 | 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | done |  |
-| 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | todo |  |
+| 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | done |  |
 | 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | todo |  |
 | 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | todo |  |
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -766,3 +767,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#140] Danh hiệu 'Big and wide shadow' của Yumir — Tạm chọn: 'Quảng Đại Chi Ảnh' (Hán Việt theo quy tắc rules.md, nghĩa là bóng râm to lớn rộng mở che chở cho đồng đội). Phương án khác: 'Bóng Râm Rộng Lớn', 'Bóng Đen Rộng Lớn'. → Chốt dịch là "Quảng Đại Chi Ảnh" theo quy tắc Hán Việt ngắn gọn cho danh hiệu trong rules.md. (orchestrator)
 - [#141] Tên đôi cánh tạo tác phẩm cấp Sử Thi "Ruin Calling" — Tạm chọn: "Hiệu Triệu Diệt Vong" (phù hợp với phong cách Hán Việt trang trọng, mang dáng dấp tận thế của Ma Thú Hỏa Sơn). Phương án khác: "Tiếng Gọi Diệt Vong", "Hiệu Triệu Hủy Diệt". → Chốt dịch là "Hiệu Triệu Diệt Vong" theo quy tắc Hán Việt ngắn gọn cho tên tạo tác Sử Thi trong rules.md. (orchestrator)
 - [#139-141] Các câu hỏi review chương 139-141: sửa xưng hô của Na YuNa ở #140 đoạn 92 ("em" -> "chị"), từ ngữ thoại của Erta ở #140 đoạn 28 ("đi bợ đít" -> "đi luồn cúi") và các chỉnh sửa câu chữ ở chương 139-141 → Chấp nhận toàn bộ 8 chỉnh sửa văn bản ở chương 139-141 (sửa Na YuNa xưng "chị" ở 140:92 và Erta dùng "đi luồn cúi" ở 140:28). (orchestrator)
+- [#144] Thể thức thi đấu "Junior" và "Senior" trong Cuộc Chiến Cạnh Tranh (dành cho thế giới đón Đại Tai Biến lần 2 vs lần 3 trở lên) — Tạm chọn: "Bảng Sơ Cấp" và "Bảng Cao Cấp". Phương án khác: "Hạng Sơ Cấp" và "Hạng Cao Cấp". Tạm dùng trong bản dịch: Bảng Sơ Cấp / Bảng Cao Cấp. → Chốt dịch là "Bảng Sơ Cấp" và "Bảng Cao Cấp" vì phù hợp với thể thức chia nhánh đấu loại trực tiếp (tournament bracket). (orchestrator)
+- [#144] Quy tắc thi đấu "Elite Forces Battle" và "All Out Battle" — Tạm chọn: "Trận Chiến Tinh Anh" và "Trận Chiến Toàn Lực". Phương án khác: "Chiến Đấu Tinh Anh" và "Chiến Đấu Toàn Lực". Tạm dùng trong bản dịch: Trận Chiến Tinh Anh / Trận Chiến Toàn Lực. → Chốt dịch là "Trận Chiến Tinh Anh" và "Trận Chiến Toàn Lực" để đồng bộ cấu trúc danh ngữ với "Cuộc Chiến Cạnh Tranh" (Battle of Competition). (orchestrator)

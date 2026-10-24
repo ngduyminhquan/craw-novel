@@ -552,3 +552,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Immature Blurred dragon |  | Ấu Long Mờ Nhạt | quái vật | 139 | Dạng rồng tiến hóa của Yumir khi đạt cấp 100 |
 | Big and wide shadow |  | Quảng Đại Chi Ảnh | danh hiệu | 140 | Danh hiệu của Yumir (mở rộng phạm vi và tăng hiệu quả kỹ năng Ẩn Thân cho đồng đội) |
 | Ruin Calling |  | Hiệu Triệu Diệt Vong | vật phẩm | 141 | Cánh tạo tác phẩm cấp Sử Thi rèn từ xương và ma thạch của Ma Thú Hỏa Sơn |
+| Elite Forces Battle |  | Trận Chiến Tinh Anh | hệ thống | 144 | Hình thức thi đấu trong Cuộc Chiến Cạnh Tranh tập hợp lực lượng tinh anh của mỗi thế giới |
+| All Out Battle |  | Trận Chiến Toàn Lực | hệ thống | 144 | Hình thức thi đấu trong Cuộc Chiến Cạnh Tranh huy động toàn bộ lực lượng của một thế giới |
+| Junior |  | Bảng Sơ Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 2 |
+| Senior |  | Bảng Cao Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 3 trở lên |
+| Lu Füera |  | Lu Füera | địa danh | 144 | Thế giới cấp cao dưới quyền Quân Đội Thiên Giới, nơi tổ chức Cuộc Chiến Cạnh Tranh |
+| Advanced Trap of Destruction | Advanced Traps of Destruction | Bẫy Hủy Diệt Cấp Cao | vật phẩm | 144 | Phiên bản Bẫy Hủy Diệt cao cấp chế tạo từ vật liệu tốt hơn, phần thưởng trong Cuộc Chiến Cạnh Tranh |

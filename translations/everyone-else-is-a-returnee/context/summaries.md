@@ -884,3 +884,10 @@ IlHan đưa Yumir về thăm nhà; bố mẹ anh kinh ngạc nhưng nhanh chóng
 Thấy mẹ mình ngày càng trẻ ra và có dấu hiệu đạt chuyển chức 2, IlHan thăm dò xem 10 năm ở Ya-umin có gì bất thường không nhưng mẹ anh chỉ nói không có gì, giúp anh thở phào vì bố mẹ không phải chịu nỗi đau cô độc như mình.
 Cảnh kết thúc: Trong lúc Kim YeSeul vui vẻ chuẩn bị bữa cơm thịnh soạn và gặng hỏi ứng viên con dâu trong số các cô gái xinh đẹp, IlHan hùng hồn tuyên bố chẳng có người phụ nữ nào thèm lấy mình khiến mẹ anh vừa đi vào bếp vừa thở dài lo lắng cho tương lai của con trai.
 
+## 144
+Trở về căn hộ sau chuyến thăm bố mẹ, Yu IlHan thấy mọi người đang chơi game vui vẻ; Spiera thông báo Cuộc Chiến Cạnh Tranh sắp bắt đầu và lôi đài tuyển chọn 1.000 người đại diện Trái Đất sẽ được dựng tại New York trong 3 giờ tới, kéo dài 24 giờ.
+Erta giải thích chi tiết thể thức thi đấu tại thế giới cấp cao Lu Füera: chia thành Bảng Sơ Cấp (cho thế giới đón Đại Tai Biến lần 2) và Bảng Cao Cấp (lần 3 trở lên) với thể thức loại trực tiếp và trang bị màng bảo hộ chống tử vong; top 4 mỗi bảng sẽ xóa ranh giới để bước vào vòng chung kết tranh Bẫy Hủy Diệt Cấp Cao.
+Xác nhận cuộc thi không cấm quái vật hay dị giới nhân, IlHan quyết định mang theo Flemir cùng 4 elf và để bầy sói bảo vệ Seoul; anh trao cây cung Sử Thi 'Quỹ Đạo Tử Thần' cho Paté khiến các elf bừng bừng nhiệt huyết, đồng thời hứa tặng đồ Sử Thi cho Kang MiRae nhưng thẳng thừng từ chối Na YuNa.
+Cảnh kết thúc: IlHan ghé xưởng rèn làm giáp mới cho Mir và mang về một thứ bất ngờ; cả nhóm cùng Kang HaJin và Clan Lôi Thần lên đường tới New York tham gia đợt tuyển chọn.
+
+
