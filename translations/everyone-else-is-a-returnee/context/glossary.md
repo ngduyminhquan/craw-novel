@@ -516,3 +516,7 @@
 | Concentrate magic |  | Ma pháp Tụ Lực | kỹ năng | 111 | Ma pháp liên kết của clan Magia dồn mana các pháp sư vào ma thạch để Carina phóng thích |
 | Great Dark Wolf |  | Đại Hắc Lang | quái vật | 111 | Quái vật sói chuyển chức 3 cấp 161 từ Thế Giới Bị Bỏ Rơi xông ra cổng hầm ngục |
 | Infant Dragon |  | Tiểu Long | quái vật | 112 | Chủng tộc / chức nghiệp tiến hóa của Yumir từ Baby Dragon (thể hình lớn lên tương đương 4–5 tuổi) |
+| Kiroa |  | Kiroa | địa danh | 113 | Tên Thế Giới Bị Bỏ Rơi nơi Lang tộc sinh sống sau Đại Tai Biến lần 2 |
+| wolfkin | Wolfkin | Lang tộc | chủng tộc | 113 | Chủng tộc sói ở thế giới Kiroa, khi lên chuyển chức 4 sẽ tiến hóa sang hình người |
+| Royal Guardians | the Royal Guardians | Hộ Vệ Hoàng Gia | tổ chức | 113 | Đội cận vệ hoàng gia của hoàng tộc Lang tộc tại thế giới Kiroa |
+| Hexa-kill | Hexakill | Hexa-kill | khác | 113 | Được phép giữ nguyên: Thuật ngữ game MOBA (hạ gục 6 mạng liên tiếp), tham chiếu văn hóa game |

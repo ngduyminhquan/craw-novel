@@ -697,3 +697,9 @@ Yumir chủ động xin săn quái; được bố hướng dẫn và truyền l�
 Tiếp tục nhắm vào quái vật chuyển chức 3 (sói đen cấp trên 120), Yumir nén đạn ma pháp bắn xuyên đầu hạ gục mục tiêu, thăng vọt lên cấp 31 còn [Thống Trị Mana] lên cấp 20 mở khóa khả năng đoạt mana ma pháp của kẻ khác.
 Cảnh kết thúc: Giữa lúc IlHan hào hứng định giúp con trai chuyển chức 2 thì một người đàn ông tóc đen tỏa khí tức quái vật chuyển chức 4 lao ra từ cổng hầm ngục, bất ngờ quỳ rạp dập đầu bằng tiếng rồng cầu xin đấng rồng tối cao thứ lỗi và cứu giúp đồng loại.
 
+## 113
+Yu IlHan đáp xuống giải trừ ẩn thân, bế Yumir và đối thoại bằng ngôn ngữ loài rồng khiến người đàn ông tóc đen bàng hoàng khi biết con người là bố của rồng; để tránh quái vật bị hàng rào sấm sét thiêu cháy, IlHan dùng các dòng thuộc tính của Túi Đồ thu hồi rồi cắm lại vòng thương 100 tấn mở rộng phạm vi khiến gã tưởng là ma pháp không gian cao cấp.
+Gã người sói tự xưng là Flemir, Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, kể lại chuyện Lang tộc diệt chủng loài người sau Đại Tai Biến lần 2 rồi các thủ lĩnh câu kết với Quân Đội Ma Hủy Diệt tạo phản toan lật đổ hoàng tộc và xâm lược Trái Đất.
+IlHan nhanh chóng nhìn thấu lời nói dối vụng về của Flemir (định mượn cổng trốn thoát gây hỗn loạn Trái Đất để trục lợi từ thế chân vạc ba bên), nhưng vẫn đồng ý hợp tác và xác nhận Khu Vườn Hoàng Hôn không nhúng tay.
+Cảnh kết thúc: IlHan thu hồi toàn bộ hàng rào thương, quay lại đối diện với liên quân con người; trước sự ngưỡng mộ của mọi người, tiếng gầm gừ cay cú của Michael Smithson và câu hỏi của Kang MiRae, IlHan dùng tiếng Anh trau chuốt đề nghị thay đổi 'thứ tự ưu tiên' săn quái để diệt sạch cả hai phe quái vật.
+

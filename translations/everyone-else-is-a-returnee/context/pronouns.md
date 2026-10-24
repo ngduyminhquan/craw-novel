@@ -43,6 +43,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Phiria | cô / Phiria | 103 | Nữ elf đạo tặc theo IlHan |
 | dragon-child | đứa bé / cậu bé / đứa trẻ rồng | 106 | Bé trai rồng nở từ quả trứng của Lecidna |
 | Yumir | cậu bé / Yumir / nhóc / đứa trẻ | 107 | Bé trai rồng con của IlHan sau khi được đặt tên |
+| Flemir | gã / Flemir / người đàn ông tóc đen | 113 | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc |
 
 ## Giữa các nhân vật
 
@@ -163,4 +164,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael Smithson | Takagaki Asuha | tôi | cô / cô Asuha | 110 | Hai chủ clan đàm luận tại hiện trường Vỡ Hầm Ngục |
 | Michael Smithson | Kang MiRae | tôi | cô / cô Kang | 110 | Chủ clan Metal Knights nói chuyện với Chủ Clan Lôi Thần |
 | Kang MiRae | Michael Smithson | tôi | anh | 110 | Chủ Clan Lôi Thần giữ vững lập trường trước thủ lĩnh Metal Knights |
+| Flemir | Yu IlHan | tôi / chúng tôi | ngài / cậu | 113 | Flemir quỳ lạy cầu xin và đàm phán với Yu IlHan |
+| Yu IlHan | Flemir | tôi | anh / các người | 113 | Yu IlHan đàm phán và tra hỏi thông tin từ Flemir |
 

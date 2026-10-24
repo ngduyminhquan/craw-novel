@@ -44,6 +44,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
 | Yumir | Mir | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
+| Flemir |  | Flemir | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, thực thể chuyển chức 4 | 113 |
 
 ## Chi tiết
 
@@ -360,4 +361,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm chung: Đều là các chiến binh mạnh nhất vượt qua trận hỗn chiến tuyển chọn; nhờ ăn thịt theo lệnh IlHan mà cơ bắp săn chắc nhưng cả 4 người (kể cả 2 nam elf) đều sở hữu dung nhan đẹp tựa mỹ nữ; được IlHan đưa theo về Trái Đất.
 - Trạng thái tính đến chương 104: Theo chân Yu IlHan về Trái Đất, bị suy giảm sức mạnh do chênh lệch mật độ mana giữa Daréu và Trái Đất; tôn sùng IlHan là "alpha và omega", luôn miệng gọi anh là Bệ hạ / Bệ hạ Hung Bạo; được IlHan đưa về căn hộ chung cư ở Gangnam và chuẩn bị được học nếp sống Trái Đất.
 - Trạng thái tính đến chương 109: Được IlHan chiêu đãi món mì ramen ngập thịt; được IlHan kích hoạt kỹ năng Thống Trị thu nhận làm cấp dưới; bộc lộ chỉ số vượt trội và kỹ năng giải phẫu thượng thừa; tôn xưng Yumir là "Điện hạ"; nhận chỉ tiêu giải phẫu 3 vạn xác Long tộc trong xưởng rèn để đổi lấy trang bị cao cấp do IlHan tự tay chế tạo.
+
+### Flemir
+- Giới tính, vai trò: Nam, người sói chuyển chức 4 mang hình người, Thủ lĩnh Hộ Vệ Hoàng Gia của hoàng tộc Lang tộc tại thế giới Kiroa.
+- Ngoại hình / tính cách: Tóc đen, vóc dáng cao lớn, tỏa khí tức mạnh mẽ của thực thể chuyển chức 4 nhưng không rành ma pháp; biết tùy cơ ứng biến, dập đầu cầu xin IlHan cứu giúp đồng tộc nhưng che giấu ý đồ phân tán lực lượng gây hỗn loạn Trái Đất (bị IlHan nhìn thấu qua ánh mắt run rẩy).
+- Xuất hiện tính đến chương 113: Dẫn đầu bầy quái vật xông ra từ cổng hầm ngục, dập đầu van xin đấng rồng tối cao (Yumir) thứ lỗi; bàng hoàng khi biết con người Yu IlHan là bố của rồng; đàm phán cung cấp thông tin về thế giới Kiroa và sự phản bội của các thủ lĩnh theo Quân Đội Ma Hủy Diệt để cầu xin hợp tác.
 

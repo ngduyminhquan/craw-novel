@@ -117,7 +117,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | reviewed |  |
 | 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | reviewed |  |
 | 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | done |  |
-| 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | todo |  |
+| 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | done |  |
 | 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | todo |  |
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | todo |  |
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | todo |  |
@@ -707,3 +707,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#111] Thuật ngữ "Concentrate magic" của clan Magia và các kỹ năng/quái vật mới → Chốt "Concentrate magic" → "Ma pháp Tụ Lực" (đổi cột EN từ "Concentrate" thành "Concentrate magic" theo đúng raw dòng 124 và để không gây cảnh báo giả ở chương 45); chốt "Gigantic Thunder" → "Cự Lôi", "Great Chain Lightning" → "Đại Lôi Dây Chuyền", "Great Dark Wolf" → "Đại Hắc Lang". (orchestrator)
 - [#109-111] Các câu hỏi review chương 109-111: sửa "ghi chép" và "thực thể trong điển tích" (#109 đoạn 156), đại từ "chúng tôi" (#110 đoạn 79), "Clan Lôi Thần" và "kẻ siêu bá đạo" (#111 đoạn 61, 94), đề xuất thêm Joint magic vào glossary.md → Chấp nhận toàn bộ 5 chỉnh sửa văn bản ở chương 109-111; bác đề xuất thêm cụm từ chung Joint magic vào glossary.md và bác cập nhật trùng lặp trong characters.md. (orchestrator)
 - [#112] Chủng tộc / tiến hóa "Infant Dragon" của Yumir — Tạm chọn: "Tiểu Long". Lý do: Chương 101 và 107 đã dùng "Ấu Long" cho "Immature Dragon" và "Baby Dragon" (giai đoạn rồng sơ sinh thể hình 2 tuổi). Ở chương 112, Yumir tiến hóa từ Baby Dragon thành "Infant Dragon" với thể hình lớn lên tương đương 4–5 tuổi. Chọn "Tiểu Long" để phân biệt rõ với giai đoạn sơ sinh trước đó. Phương án khác: "Nhi Long", "Ấu Long (giữ nguyên)". → Chọn Tiểu Long để phân biệt rõ với giai đoạn sơ sinh Ấu Long (Baby Dragon / Immature Dragon) trước đó khi Yumir tiến hóa lên thể hình 4-5 tuổi. (orchestrator)
+- [#113] Thuật ngữ "wolfkin" chỉ toàn bộ chủng loài sói tại thế giới Kiroa (cả bầy sói 4 chân cấp thấp và người sói hình người chuyển chức 4) → Chọn "Lang tộc" (tương ứng với cách dịch "dragonkin" → "Long tộc" ở chương 53, ngắn gọn và phù hợp cho cả dạng sói lẫn dạng người). (orchestrator)
+- [#113] Ký hiệu footnote dangling '"Learned through anime."1' ở đoạn 40 không có nội dung chú thích ở cuối raw → Bỏ số 1 dangling theo quy tắc lược bỏ ghi chú translator trong rules.md. (orchestrator)
