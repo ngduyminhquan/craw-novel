@@ -156,7 +156,7 @@ Một chất giọng tiếng Anh điềm tĩnh và lưu loát. Đó là giọng 
 
 "Thành thật mà nói, chiến đấu an toàn hơn thì tốt cho chúng ta thật đấy... Nhưng chẳng phải đây là đất nước của cô sao, cô Kang? Cô cũng sắt đá thật đấy."
 
-"Ngay lúc này chúng tôi vẫn đang sơ tán thường dân. Hơn nữa, dẫu có thương vong về dân thường đi chăng nữa, nếu chúng ta để mất một thành viên của Clan Lôi Thần ở nơi này thì tương lai sẽ chỉ rước lấy thảm họa lớn hơn mà thôi. Với tư cách là thủ lĩnh, tôi buộc phải giữ một cái đầu lạnh. Đương nhiên, tôi không hề có ý định để bất kỳ thường dân nào phải thiệt mạng", cô bồi thêm một câu.
+"Tất nhiên thiệt hại về tài sản là điều không thể tránh khỏi, nhưng chúng tôi vẫn đang sơ tán thường dân, và nếu chúng tôi để mất một thành viên của Clan Lôi Thần ở nơi này thì tương lai sẽ chỉ rước lấy thảm họa lớn hơn mà thôi."
 
 Một ý chí sắt đá ẩn chứa trong giọng nói lạnh lùng của cô. Dù Michael Smithson có ngoan cố và tự phụ đến đâu, hắn cũng không khỏi dành cho cô một cái nhìn thiện cảm. Yu IlHan có thể thấy Kang HaJin đang chặn không cho hắn tiếp tục bắt chuyện với Kang MiRae thêm nữa. Na YuNa thì vẫn như mọi khi, đứng cười toe toét ở bên cạnh.
 

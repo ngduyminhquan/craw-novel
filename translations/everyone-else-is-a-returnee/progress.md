@@ -113,9 +113,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 106 |  | Chapter_106 - I Am A Drifter of My Soul 6.txt | I Am A Drifter of My Soul 6 | reviewed |  |
 | 107 |  | Chapter_107 - I Am A Drifter of My Soul 7.txt | I Am A Drifter of My Soul 7 | reviewed |  |
 | 108 |  | Chapter_108 - I Am A Drifter of My Soul 8.txt | I Am A Drifter of My Soul 8 | reviewed |  |
-| 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | done |  |
-| 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | done |  |
-| 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | done |  |
+| 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | reviewed |  |
+| 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | reviewed |  |
+| 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | reviewed |  |
 | 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | todo |  |
 | 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | todo |  |
 | 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | todo |  |
@@ -707,3 +707,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#109] Đoạn hội thoại ăn mì ramen ở đoạn 98-100 ("You done eating?" / "Not yet!") và tạo tác "Eight-tailed dragon spear" → Sửa đoạn 99-100 về đúng nghĩa raw: đám elf mải nhìn Yumir nên khi IlHan hỏi đã ăn xong chưa thì cuống quýt đáp "Vẫn chưa ạ!" rồi lập tức ăn sạch bát mì không chừa một giọt; chốt "Eight-tailed dragon spear" → "Bát Vĩ Long Thương". (orchestrator)
 - [#110] Tiêu đề arc "I'm the Master of Your Lives", lỗi chính tả "counter" ở đoạn 78 của raw và các thuật ngữ mới → Chốt tiêu đề arc "Ta Là Chủ Nhân Sinh Mệnh Các Ngươi" (thống nhất cho các chương trong arc); chấp nhận dịch "your counter" ở đoạn 78 thành "đất nước của cô" (lỗi gõ phím của raw EN cho "country"); chốt "Front Line Alliance" → "Liên Minh Tiền Tuyến", "Bump Clan" → "Clan Bump", "Caycicle Clan" → "Clan Caycicle". (orchestrator)
 - [#111] Thuật ngữ "Concentrate magic" của clan Magia và các kỹ năng/quái vật mới → Chốt "Concentrate magic" → "Ma pháp Tụ Lực" (đổi cột EN từ "Concentrate" thành "Concentrate magic" theo đúng raw dòng 124 và để không gây cảnh báo giả ở chương 45); chốt "Gigantic Thunder" → "Cự Lôi", "Great Chain Lightning" → "Đại Lôi Dây Chuyền", "Great Dark Wolf" → "Đại Hắc Lang". (orchestrator)
+- [#109-111] Các câu hỏi review chương 109-111: sửa "ghi chép" và "thực thể trong điển tích" (#109 đoạn 156), đại từ "chúng tôi" (#110 đoạn 79), "Clan Lôi Thần" và "kẻ siêu bá đạo" (#111 đoạn 61, 94), đề xuất thêm Joint magic vào glossary.md → Chấp nhận toàn bộ 5 chỉnh sửa văn bản ở chương 109-111; bác đề xuất thêm cụm từ chung Joint magic vào glossary.md và bác cập nhật trùng lặp trong characters.md. (orchestrator)

@@ -242,7 +242,7 @@ Vậy mà chỉ cần làm chút lao động chân tay giản đơn là nhận �
 
 "Tốt, tinh thần thế là được."
 
-Bài giảng giải phẫu của Yu IlHan vô cùng nghiêm khắc. Tuy nhiên, trước ngọn lửa nhiệt huyết sục sôi của đám elf, cấp độ kỹ năng giải phẫu của họ tăng tiến chóng mặt, và sau khi bỏ phí khoảng một nghìn xác Long tộc để làm vật thí nghiệm luyện tay, họ đã đạt tới trình độ có thể giải phẫu được Long tộc chuyển chức 3.
+Việc chỉ dạy giải phẫu của Yu IlHan vô cùng nghiêm khắc. Tuy nhiên, trước ngọn lửa nhiệt huyết sục sôi của đám elf, cấp độ kỹ năng giải phẫu của họ tăng tiến chóng mặt, và sau khi bỏ phí khoảng một nghìn xác Long tộc để làm vật thí nghiệm luyện tay, họ đã đạt tới trình độ có thể giải phẫu được Long tộc chuyển chức 3.
 
 "Tốt lắm, các cậu cứ làm y như thế là được."
 
@@ -310,7 +310,7 @@ Nếu Yu IlHan muốn, anh hoàn toàn có thể khôi phục tên của chúng 
 
 4. Tăng 120% toàn bộ năng lực khi đối đầu Long tộc.]
 
-[Một thực thể trong văn học đã được tái hiện bởi thợ chế tác nắm giữ sức mạnh linh hồn. Theo mức độ gia tăng sức mạnh điều khiển linh hồn của thợ chế tác, và cùng với sự tích lũy của các kỷ lục, vũ khí sẽ tiến hóa.]
+[Một thực thể trong điển tích đã được tái hiện bởi thợ chế tác nắm giữ sức mạnh linh hồn. Theo mức độ gia tăng sức mạnh điều khiển linh hồn của thợ chế tác, và cùng với sự tích lũy của các ghi chép, vũ khí sẽ tiến hóa.]
 
 "Tốt lắm, món đồ Sử Thi thứ hai."
 

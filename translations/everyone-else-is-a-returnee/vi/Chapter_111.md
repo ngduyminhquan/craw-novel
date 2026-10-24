@@ -120,7 +120,7 @@ Ngay sau khi có người vừa bảo thứ đó không duy trì được mãi, 
 
 Khoảnh khắc Na YuNa cất lời với giọng điệu như thể đang nhờ vả ông bác hàng xóm, tất cả các ngọn thương đều bắt đầu tỏa ra vầng hào quang màu hồng, rồi những tia sét còn mãnh liệt hơn nữa lập tức bao bọc lấy toàn bộ xung quanh!
 
-"Ôi chao, dù nơi này có là sân nhà của clan Lôi Thần đi chăng nữa, chúng ta cũng không thể để họ chiếm hết hào quang được! Chúng ta sẽ dùng Ma pháp Tụ Lực!"
+"Ôi chao, dù nơi này có là sân nhà của Clan Lôi Thần đi chăng nữa, chúng ta cũng không thể để họ chiếm hết hào quang được! Chúng ta sẽ dùng Ma pháp Tụ Lực!"
 
 "Rõ, thưa Chủ clan!"
 
@@ -186,7 +186,7 @@ Trong khi những người khác còn đang lo lắng làm sao để sống sót
 
 Erta đang ngỏ lời rủ IlHan đi hẹn hò, điều mà cô chưa từng làm trong suốt cuộc đời làm thiên thần lẫn trước đó, nhưng trớ trêu thay, cả thời điểm lẫn hoàn cảnh đều tồi tệ nhất có thể. Yu IlHan vừa thở dài vừa lắc đầu.
 
-"Tôi sẽ ở nhà nuôi con thôi. Tôi sẽ biến thằng bé thành bá đạo trên từng hạt gạo."
+"Tôi sẽ ở nhà nuôi con thôi. Tôi sẽ biến thằng bé thành kẻ siêu bá đạo."
 
 Phải rồi, đây chắc chắn là định mệnh. Có lẽ Lecidna trao đứa trẻ cho anh vì cô ta biết anh sẽ chẳng kiếm nổi điểm kinh nghiệm nào để lên cấp khi trở về Trái Đất! Đúng là một người phụ nữ đáng cảm ơn.
 
