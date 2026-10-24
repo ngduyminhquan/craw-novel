@@ -169,4 +169,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Flemir | tôi | anh / các người | 113 | Yu IlHan đàm phán và tra hỏi thông tin từ Flemir |
 | Ikedka | Flemir | ta | ngươi | 114 | Hai thủ lĩnh Lang tộc đối địch chạm trán tại Kiroa |
 | Flemir | Ikedka | ta / tao | ngươi / mày | 114 | Hai thủ lĩnh Lang tộc đối địch chạm trán tại Kiroa |
+| Carina Malatesta | Yu IlHan | tôi | anh | 114 | Chủ clan Magia trao đổi chiến thuật với Yu IlHan |
+| Yu IlHan | Carina Malatesta | tôi | cô / các vị | 114 | Yu IlHan trao đổi chiến thuật với Carina Malatesta |
 

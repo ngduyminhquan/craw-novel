@@ -10,7 +10,7 @@ Lực lượng tiền tuyến kinh ngạc thốt lên.
 
 Cùng lúc người đàn ông tóc đen dập đầu xuống đất, lũ quái vật liền dừng công kích rồi tụ lại quanh gã. Thái độ này hoàn toàn trái ngược với bộ dạng xông lên bất chấp cái chết của chúng lúc nãy.
 
-Những con người Trái Đất không hề reo hò "Tuyệt quá, cơ hội ăn Hexa-kill kìa!" hay làm mấy trò ngớ ngẩn đại loại thế, mà họ cảnh giác nhìn người đàn ông và thủ thế cẩn trọng trong lúc thu hồi vũ khí.
+Những con người Trái Đất không hề reo hò "Tuyệt quá, cơ hội ăn Hexa-kill kìa!" hay làm mấy trò ngớ ngẩn đại loại thế, mà họ cảnh giác nhìn người đàn ông và thủ thế cẩn trọng trong lúc tra vũ khí vào bao.
 
 Không thể phủ nhận khí tức của người đàn ông này vô cùng mạnh mẽ, vì thế thay vì tấn công trước chọc giận gã, họ quyết định chờ thêm một lát để phán đoán tình hình thì hơn. Tốt, một lựa chọn khôn ngoan – Yu IlHan khẽ gật đầu.
 
@@ -182,7 +182,7 @@ Sau khi hỏi han về quy mô lực lượng của cả Lang tộc lẫn Quân 
 
 "Tôi chỉ hỏi phòng hờ thôi, nhưng liệu Khu Vườn Hoàng Hôn có đang giúp đỡ các người hay làm gì đó tương tự không?"
 
-"Đ-đó là cái bang phái nào thế?"
+"Đ-đó là tổ chức nào thế?"
 
 Gã người sói nói dối tệ hại kia hỏi lại với vẻ mặt cho thấy gã thực sự không hề hay biết. Yu IlHan chỉ cười xòa bảo không có gì rồi lắc đầu.
 

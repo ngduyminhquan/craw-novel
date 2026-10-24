@@ -116,9 +116,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | reviewed |  |
 | 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | reviewed |  |
 | 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | reviewed |  |
-| 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | done |  |
-| 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | done |  |
-| 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | done |  |
+| 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | reviewed |  |
+| 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | reviewed |  |
+| 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | reviewed |  |
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | todo |  |
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | todo |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | todo |  |

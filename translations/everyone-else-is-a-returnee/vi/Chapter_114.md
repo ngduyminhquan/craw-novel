@@ -28,7 +28,7 @@ Nghe vậy, Yu IlHan đưa mắt nhìn Kang MiRae, cô lập tức gật đầu 
 
 Nhìn cái điệu bộ gã vẫn trừng mắt lườm Yu IlHan thật buồn cười, nhưng trong thâm tâm, anh cũng đã đánh giá gã cao hơn một chút.
 
-"Ned nên chịu trách nhiệm thiết lập địa hình chiến trường. Dù chúng ta đã gom được một phạm vi khá rộng nhưng bấy nhiêu vẫn chưa đủ, vì vậy phải nhanh chóng hành động. Hơn nữa, chướng ngại vật ở đây quá nhiều."
+"Tiếp theo là việc thiết lập địa hình chiến trường. Dù chúng ta đã gom được một phạm vi khá rộng nhưng bấy nhiêu vẫn chưa đủ, vì vậy phải nhanh chóng hành động. Hơn nữa, chướng ngại vật ở đây quá nhiều."
 
 "Việc sơ tán người dân đã hoàn tất chưa? À, nếu có thể, tôi muốn biết ít nhất một điểm yếu của lũ quái vật sói đó."
 
@@ -66,7 +66,7 @@ Chính vì vậy, lời tuyên bố của Susanoo nghe chẳng khác nào ân hu
 
 "..."
 
-Trước lời tuyên bố đầy ngầu và quả quyết ấy, Kang HaJin chỉ biết thốt lên cảm thán.
+Trước lời tuyên bố vừa ngầu vừa quả quyết ấy, Kang HaJin chỉ biết thốt lên cảm thán.
 
 Kang MiRae vừa di chuyển vừa gọi điện chỉ đạo nên không nghe thấy, nhưng Na YuNa đứng ngay cạnh cậu thì nghe rõ mồn một và bật cười khúc khích.
 
@@ -154,7 +154,7 @@ Bước ra khỏi cổng, anh có thể cảm nhận được nguồn sức mạ
 
 Các chỉ số vốn đã cao vượt trội so với người khác nay lại được gia tăng thêm lần nữa, nên nếu chỉ xét riêng về chỉ số, anh hẳn đã xấp xỉ cấp 200.
 
-"Mẹ kiếp, tên khốn đó lại tống mình về đây nữ...!"
+"Mẹ kiếp, tên khốn đó lại tống mình về đây nữa—!"
 
 Trong khi đó, Flemir vừa rơi xuống gần đó đang nghiến răng lẩm bẩm mà không hề hay biết Yu IlHan đã bám theo sau. Xung quanh cổng, vô số quái sói chuyển chức 2 đang điên cuồng lao mình vào trong, nhưng khác với đám Lang tộc mang bộ lông đen, tất cả bọn chúng đều mang lông đỏ. Yu IlHan xác nhận chúng chính là đám tép riu hành động dưới trướng Quân Đội Ma Hủy Diệt.
 
@@ -178,7 +178,7 @@ Cùng với câu thoại đậm chất phản diện khuôn mẫu, một bóng k
 
 Số lượng sói đen tràn qua cổng có khoảng gần ba vạn con. Số sói đen còn lại ở đây là hơn hai vạn, nhưng lũ sói đỏ vừa cố ngăn không cho chúng bước qua cổng, lại vừa tự mình lao vào trong.
 
-Và anh có thể thấy một người sói mang nhân hình khác đang chặn đánh chúng từ một phía khác. Hừm, có vẻ quả thực có hai Lang tộc chuyển chức 4. Điểm này thì Flemir không nói dối.
+Và anh có thể thấy một người sói mang nhân hình khác đang chặn đánh chúng từ một phía khác. Hừm, có vẻ quả thực có hai cá thể Lang tộc chuyển chức 4. Điểm này thì Flemir không nói dối.
 
 [Nhưng Yu IlHan này, có một chuyện tôi không hiểu.] (Erta)
 
