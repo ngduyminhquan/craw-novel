@@ -206,7 +206,7 @@ Phải rồi, thực lực hiện tại của Trái Đất là khá mạnh so v�
 
 Kang MiRae nhanh chóng thu dọn đồ đạc rồi dùng điện thoại gọi đi đâu đó. Chắc hẳn là để chuẩn bị lên đường sang Mỹ.
 
-"Em từng mong sẽ không phải quay lại New York trong một thời gian dài, thế mà giờ lại phải đi ngay lập tức rồi nhỉ? Anh IlHan, nếu anh thấy tiện thì chúng ta cùng đi nhé."
+"Tôi từng mong sẽ không phải quay lại New York trong một thời gian dài, thế mà giờ lại phải đi ngay lập tức rồi nhỉ? Anh IlHan, nếu anh thấy tiện thì chúng ta cùng đi nhé."
 
 "Khoan đã, tôi có điều cần xác nhận."
 
@@ -332,6 +332,6 @@ Quả thực Yu IlHan đã quay lại căn hộ đúng lúc Erica và Flemir tr�
 
 Họ cùng Kang HaJin và các thành viên Clan Lôi Thần mà nhóm Kang MiRae đã lâu không gặp hướng về phía New York. Một cuộc tranh tài gắt gao nhằm chọn ra một nghìn người đại diện cho Trái Đất đang chờ đón họ phía trước.
 
-....lẽ ra mọi chuyện phải diễn ra như thế.
+...lẽ ra mọi chuyện phải diễn ra như thế.
 
 [← Chương trước](Chapter_143.md) | [Chương tiếp theo →](Chapter_145.md)

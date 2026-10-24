@@ -260,7 +260,7 @@ Cuối cùng, ngay cả Erica cũng rón rén tham gia vào và người ta ch�
 
 [Ta nghe nói trong đời một con người sẽ có ba lần thời kỳ đào hoa đạt tới đỉnh điểm...] (Spiera)
 
-[Không phải cái đó, mà thì, ừ, dù IlHan của tôi lúc nào cũng ngầu lòi, nhưng kể cả thế đi chăng nữa!] (Liera)
+[Không phải cái đó, mà thì, ừ, dù IlHan của tôi lúc nào cũng ngầu, nhưng kể cả thế đi chăng nữa!] (Liera)
 
 [Đúng là cái con bé thiên thần hết thuốc chữa này...] (Spiera)
 
@@ -304,6 +304,6 @@ Yu IlHan ngẩng đầu lên. Ánh mắt anh bắt gặp ánh mắt của Liera.
 
 10 ngày, và 1.000 ngày.
 
-Bằng cách nào đó, đó là một tỷ lệ tương đối quen thuộc.
+Chẳng hiểu sao, đó lại là một tỷ lệ tương đối quen thuộc.
 
 [← Chương trước](Chapter_141.md) | [Chương tiếp theo →](Chapter_143.md)

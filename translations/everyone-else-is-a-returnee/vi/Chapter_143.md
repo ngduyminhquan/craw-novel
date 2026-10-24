@@ -48,7 +48,7 @@ Nhìn hàng loạt dị năng giả dốc sức bảo vệ nhóm Kang MiRae từ
 
 Để có được những thuộc hạ là dị năng giả chuyển chức 2 thì chỉ tiền thôi là không đủ. Chỉ có bề dày lòng trung thành được hun đúc qua năm tháng mới có thể tạo nên điều đó.
 
-"Thưa Bệ hạ, thời gian chúng thần vắng mặt có điều gì bất tiện không ạ?"
+"Chủ nhân, thời gian chúng tôi vắng mặt có điều gì bất tiện không ạ?"
 
 "Bệ hạ, hình như người lại mạnh hơn rồi!"
 

@@ -146,9 +146,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | reviewed |  |
 | 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | reviewed |  |
 | 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | reviewed |  |
-| 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | done |  |
-| 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | done |  |
-| 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | done |  |
+| 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | reviewed |  |
+| 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | reviewed |  |
+| 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | reviewed |  |
 | 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | todo |  |
 | 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | todo |  |
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | todo |  |
@@ -769,3 +769,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#139-141] Các câu hỏi review chương 139-141: sửa xưng hô của Na YuNa ở #140 đoạn 92 ("em" -> "chị"), từ ngữ thoại của Erta ở #140 đoạn 28 ("đi bợ đít" -> "đi luồn cúi") và các chỉnh sửa câu chữ ở chương 139-141 → Chấp nhận toàn bộ 8 chỉnh sửa văn bản ở chương 139-141 (sửa Na YuNa xưng "chị" ở 140:92 và Erta dùng "đi luồn cúi" ở 140:28). (orchestrator)
 - [#144] Thể thức thi đấu "Junior" và "Senior" trong Cuộc Chiến Cạnh Tranh (dành cho thế giới đón Đại Tai Biến lần 2 vs lần 3 trở lên) — Tạm chọn: "Bảng Sơ Cấp" và "Bảng Cao Cấp". Phương án khác: "Hạng Sơ Cấp" và "Hạng Cao Cấp". Tạm dùng trong bản dịch: Bảng Sơ Cấp / Bảng Cao Cấp. → Chốt dịch là "Bảng Sơ Cấp" và "Bảng Cao Cấp" vì phù hợp với thể thức chia nhánh đấu loại trực tiếp (tournament bracket). (orchestrator)
 - [#144] Quy tắc thi đấu "Elite Forces Battle" và "All Out Battle" — Tạm chọn: "Trận Chiến Tinh Anh" và "Trận Chiến Toàn Lực". Phương án khác: "Chiến Đấu Tinh Anh" và "Chiến Đấu Toàn Lực". Tạm dùng trong bản dịch: Trận Chiến Tinh Anh / Trận Chiến Toàn Lực. → Chốt dịch là "Trận Chiến Tinh Anh" và "Trận Chiến Toàn Lực" để đồng bộ cấu trúc danh ngữ với "Cuộc Chiến Cạnh Tranh" (Battle of Competition). (orchestrator)
+- [#142-144] Review chương 142–144: người nói ở 143:25, từ ngữ khẩu ngữ ở 142:131 và xưng hô của Kang MiRae ở 144:104 → Chấp nhận toàn bộ 5 chỉnh sửa văn bản ở chương 142–144: đổi "ngầu lòi" thành "ngầu" ở 142:131, sửa câu dịch máy ở 142:153, xác nhận 143:25 là lời của Erica nên sửa thành "Chủ nhân, thời gian chúng tôi vắng mặt có điều gì bất tiện không ạ?", sửa đại từ của Kang MiRae thành "Tôi" ở 144:104 và chuẩn hóa dấu chấm lửng ở 144:167. (orchestrator)
