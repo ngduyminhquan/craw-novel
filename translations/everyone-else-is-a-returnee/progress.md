@@ -140,7 +140,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | reviewed |  |
 | 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | reviewed |  |
 | 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | reviewed |  |
-| 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | todo |  |
+| 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | done |  |
 | 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | todo |  |
 | 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | todo |  |
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | todo |  |
@@ -760,3 +760,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#135] Tiêu đề arc "Not Me, But My Son?! (I, II...)" → Chốt dịch tiêu đề arc là "Không Phải Tôi, Mà Là Con Trai Tôi?!" thống nhất cho toàn bộ arc (từ chương 134 trở đi). (orchestrator)
 - [#135] Cụm từ "demonic beast" trong chương 135 → Giữ cách dịch "ma thú" trong chương nhưng xóa cụm từ chung viết thường "demonic beast" khỏi glossary.md theo quy tắc không thêm cụm từ chung. (orchestrator)
 - [#133-135] Các câu hỏi review chương 133-135: đồng bộ tiêu đề #133 ("Xâm Lược VIII"), sửa "hàng dọc" (#133 đoạn 45), "Hỏa Tím" (#135 đoạn 32, 73), viết thường "túi đồ" giữa câu (#134 đoạn 35, 39, 64, 143) và cập nhật glossary.md → Chấp nhận toàn bộ chỉnh sửa văn bản ở chương 133-135 và thêm Pentagon → Lầu Năm Góc vào glossary.md; giữ nguyên mục Inventory → Túi đồ trong glossary.md và bác thêm cụm từ chung Demonic beast. (orchestrator)
+- [#136] Lời thoại giễu nhại "The (weapons made of materials from) dragons shall punish you!" ở đoạn 116 và "Call me Ish..." ở đoạn 128 → Chấp nhận dịch "(Vũ khí làm từ nguyên liệu của) loài rồng sẽ trừng phạt mi!" và "Cứ gọi ta là Ish... À thôi. Này! Đằng kia! Di chuyển nhanh hơn xem!" (đồng bộ với câu đùa Ishmael ở chương 26); xóa từ chung "Ballista" khỏi glossary.md theo quyết định đã chốt ở chương 95. (orchestrator)

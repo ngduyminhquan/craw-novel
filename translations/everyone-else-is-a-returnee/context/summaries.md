@@ -833,13 +833,8 @@ Trước khi bị xử trảm, Hoàng đế Kadra hé lộ chân tướng vụ x
 Tiếng gầm mang sức mạnh khủng khiếp của ma thú thức tỉnh từ xa khiến quân kỵ sĩ kéo đến viện binh phải khựng lại.
 Cảnh kết thúc: Dù ngao ngán trước sự hèn hạ của hoàng tộc Kadra, Yu IlHan quyết định nhận trách nhiệm tiêu diệt ma thú để bảo vệ những người vô tội, bình thản chuẩn bị bước vào cuộc chiến mới.
 
-
-
-
-
-
-
-
-
-
-
+## 136
+Ma thú hộ quốc cao hơn 30 mét thức tỉnh phủ ma lực đen và ngọn lửa đen tàn phá vùng lân cận hoàng thành Kadra, khiến hàng ngàn kỵ sĩ rơi vào tuyệt vọng; Yu IlHan xách đầu hoàng đế xuất hiện, dùng lời lẽ đe dọa kết hợp "bánh vẽ" tương lai tái thiết đế quốc để lừa đám kỵ sĩ hợp lực nghênh chiến.
+Liera phát hiện dấu vết thiên thần phản bội đang tiến về cánh cổng không gian nên tạm biệt IlHan bằng một nụ hôn má để bay đi thanh trừng kẻ phản nghịch.
+IlHan dàn dựng trận địa gồm hàng chục bộ lao săn xương rồng cỡ lớn, cọc trụ cùng pháo nỏ bắn tên xương rồng; anh vận dụng Quái Lực, Tuyệt Đối Chuẩn Xác, dung hợp đặc tính thương, kiếm, búa, roi liên tục phóng lao và chỉ huy pháo nỏ bắn trọng thương ma thú.
+Cảnh kết thúc: Mặc dù ma thú liên tục gầm rống và phun hỏa diễm đen càn quét tiêu diệt hơn một trăm kỵ sĩ, Yu IlHan vẫn bình thản vừa né đòn vừa lẩm bẩm mượn điển tích Moby Dick ("Ishmael") và tiếp tục phóng lao trói chặt con quái thú giữa chiến trường hỗn loạn.
