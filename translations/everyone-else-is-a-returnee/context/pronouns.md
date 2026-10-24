@@ -49,6 +49,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kiana | cô / Kiana | 115 | Nữ chiến binh Lang tộc chuyển chức 4 bảo vệ hoàng tộc |
 | Melod | hắn / Melod / con sói | 116 | Thủ lĩnh Lang tộc chuyển chức 4 phe Quân Đội Ma Hủy Diệt |
 | wolfkin princess | cô / Công chúa / cô gái tóc đen | 116 | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa |
+| Erica | cô / Erica / Công chúa | 117 | Công chúa Lang tộc tóc đen sau khi lộ tên thật ở chương 117 |
 
 ## Giữa các nhân vật
 
@@ -184,4 +185,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | wolfkin princess | tôi | cô | 116 | Yu IlHan đối đáp với Công chúa Lang tộc |
 | Flemir | wolfkin princess | thần / tôi | Công chúa / Công chúa điện hạ | 116 | Thủ lĩnh Hộ Vệ Hoàng Gia kính cẩn trước Công chúa |
 | wolfkin princess | Flemir | ta / tôi | Flemir | 116 | Công chúa nói chuyện với Hộ Vệ Hoàng Gia |
+| Erica | Yu IlHan | tôi | chủ nhân / ngài | 117 | Erica sau khi bị thu phục bằng kỹ năng Thống Trị |
+| Yu IlHan | Erica | tôi | cô | 117 | Yu IlHan đối thoại với Erica |
+| Flemir | Erica | tôi / thần | Erica / Công chúa | 117 | Flemir nói chuyện với Erica (Erica cấm dùng kính ngữ trước mặt IlHan) |
+| Erica | Flemir | ta / tôi | Flemir | 117 | Erica ra lệnh cho Flemir |
 

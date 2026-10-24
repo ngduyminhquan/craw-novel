@@ -512,3 +512,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Raising Claw Wolf |  | Dương Trảo Lang | quái vật | 115 | Quái vật Lang tộc chuyển chức 4 cấp 204 thuộc phe Quân Đội Ma Hủy Diệt |
 | Blood Fenrir |  | Huyết Fenrir | quái vật | 115 | Quái vật Lang tộc chuyển chức 4 cấp 233 thuộc phe Quân Đội Ma Hủy Diệt (Quesad) |
 | DD-wolf | DD-wolves | sói DD | quái vật | 115 | Cách gọi tắt bầy quái sói thuộc phe Quân Đội Ma Hủy Diệt (Destruction Demon) tại Kiroa |
+| Moon Wolf |  | Nguyệt Lang | chủng tộc | 117 | Chủng tộc sói ánh trăng của Công chúa Erica |
+| Blessing of the Moon Goddess |  | Chúc Phúc Của Nữ Thần Mặt Trăng | danh hiệu | 117 | Danh hiệu của Công chúa Erica |

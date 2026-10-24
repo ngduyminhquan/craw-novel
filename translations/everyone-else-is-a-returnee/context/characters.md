@@ -49,7 +49,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Quesad | Red demon wolf Quesad; Blood Fenrir Quesad | Quesad | Thủ lĩnh Lang tộc chuyển chức 4 cấp 233 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 115 |
 | Kiana |  | Kiana | Nữ chiến binh Lang tộc chuyển chức 4 trung thành bảo vệ hoàng tộc Kiroa | 115 |
 | Melod |  | Melod | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 116 |
-| wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa | 116 |
+| wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
+| Erica | Moon Wolf Erica | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
 
 ## Chi tiết
 
@@ -342,6 +343,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 107: Được Yu IlHan đặt tên Yumir, thu nhận làm cấp dưới qua kỹ năng Thống Trị.
 - Trạng thái tính đến chương 109: Thức giấc gặp 4 elf, vì xấu hổ tự ti nên liều mạng kích hoạt Ẩn Thân thăng vọt lên cấp 10 và mượn được một phần năng lực ẩn thân của IlHan nhờ cộng hưởng kỵ sĩ; nghe lời bố dỗ dành cố gắng rèn luyện không trốn tránh nữa.
 - Trạng thái tính đến chương 112: Được Liera đưa tới hiện trường Vỡ Hầm Ngục; dùng đạn phong ma pháp hạ quái vật chuyển chức 2 rồi chuyển chức 3 (sói đen cấp >120); thăng vọt lên cấp 31, tiến hóa thành Tiểu Long (thể hình lớn lên tương đương 4–5 tuổi), kỹ năng Ẩn Thân đạt cấp 30 và Thống Trị Mana đạt cấp 20 (mở khóa khả năng chiếm đoạt mana từ ma pháp kẻ khác).
+- Trạng thái tính đến chương 117: Thăng lên chuyển chức lần 2, ngoại hình lớn nhanh tương đương đứa trẻ 7 tuổi (học sinh tiểu học); được Kang MiRae cung cấp bình mana để duy trì Phong Ma Pháp Trung Cấp chiến đấu dũng mãnh trên chiến trường; rất quý Kang MiRae và gọi cô là "chị gái xinh đẹp tốt bụng".
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
@@ -392,7 +394,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 116: Biến hình thành dạng sói tháo chạy qua cổng sang Trái Đất, bị Yu IlHan phóng thương cắm trúng mông.
 
 ### Công chúa Lang tộc
-- Giới tính, vai trò: Nữ, người sống sót duy nhất của hoàng tộc Lang tộc Kiroa.
+- Giới tính, vai trò: Nữ, người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica).
 - Ngoại hình / tính cách: Tóc đen, tai sói đen phủ lông, thân hình gợi cảm đẫy đà sau lớp giáp kim loại và giáp da; thông minh, có trách nhiệm với thần dân, tự nguyện quay lại Kiroa để cứu vãn sự diệt vong của tộc mình.
 - Xuất hiện tính đến chương 116: Đã vượt qua Trái Đất nhưng chứng kiến đồng tộc bị tàn sát nên quay lại Kiroa; đàm phán với Yu IlHan, đề nghị IlHan dùng kỹ năng Thống Trị khống chế sinh mạng cô để toàn bộ Lang tộc quy phục anh.
+
+### Erica
+- Tên thật của Công chúa Lang tộc (lộ diện từ chương 117); chủng tộc Nguyệt Lang Lv 85, sở hữu danh hiệu 'Chúc Phúc Của Nữ Thần Mặt Trăng'.
+- Quan hệ: Đã bị Yu IlHan thu phục làm thuộc hạ bằng kỹ năng Thống Trị; gọi IlHan là "chủ nhân" và tuyệt đối tuân phục; cấm Flemir dùng kính ngữ với mình trước mặt IlHan.
+- Xuất hiện tính đến chương 117: Sẵn sàng dập đầu cầu xin và để IlHan dùng Thống Trị chi phối sinh mạng; cùng Flemir dẫn bầy sói đen vượt cổng về Trái Đất càn quét tàn quân sói đỏ, giúp liên quân kết thúc trận chiến.
 
