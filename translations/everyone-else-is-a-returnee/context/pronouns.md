@@ -47,6 +47,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ikedka | gã / hắn / Ikedka | 114 | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt |
 | Quesad | hắn / Quesad / con quái thú | 115 | Thực thể chuyển chức 4 cấp 233 phe Quân Đội Ma Hủy Diệt |
 | Kiana | cô / Kiana | 115 | Nữ chiến binh Lang tộc chuyển chức 4 bảo vệ hoàng tộc |
+| Melod | hắn / Melod / con sói | 116 | Thủ lĩnh Lang tộc chuyển chức 4 phe Quân Đội Ma Hủy Diệt |
+| wolfkin princess | cô / Công chúa / cô gái tóc đen | 116 | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa |
 
 ## Giữa các nhân vật
 
@@ -178,4 +180,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Quesad | Kiana | ta | các ngươi / ngươi | 115 | Quesad ra tay tàn sát Kiana |
 | Kiana | Quesad | ta | ngươi | 115 | Kiana liều chết chặn đường Quesad |
 | Flemir | Kiana | tôi / ta | Kiana / cô | 115 | Flemir gọi Kiana hỗ trợ ngăn Quesad |
+| wolfkin princess | Yu IlHan | tôi | ngài | 116 | Công chúa Lang tộc đàm phán xin Yu IlHan thu phục Lang tộc |
+| Yu IlHan | wolfkin princess | tôi | cô | 116 | Yu IlHan đối đáp với Công chúa Lang tộc |
+| Flemir | wolfkin princess | thần / tôi | Công chúa / Công chúa điện hạ | 116 | Thủ lĩnh Hộ Vệ Hoàng Gia kính cẩn trước Công chúa |
+| wolfkin princess | Flemir | ta / tôi | Flemir | 116 | Công chúa nói chuyện với Hộ Vệ Hoàng Gia |
 

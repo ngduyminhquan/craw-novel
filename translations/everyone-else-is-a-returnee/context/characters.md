@@ -48,6 +48,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ikedka |  | Ikedka | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt, đối thủ của Flemir tại Kiroa | 114 |
 | Quesad | Red demon wolf Quesad; Blood Fenrir Quesad | Quesad | Thủ lĩnh Lang tộc chuyển chức 4 cấp 233 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 115 |
 | Kiana |  | Kiana | Nữ chiến binh Lang tộc chuyển chức 4 trung thành bảo vệ hoàng tộc Kiroa | 115 |
+| Melod |  | Melod | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 116 |
+| wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa | 116 |
 
 ## Chi tiết
 
@@ -384,4 +386,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, chiến binh Lang tộc chuyển chức 4 hình người, thuộc phe Hộ Vệ Hoàng Gia bảo vệ hoàng tộc Lang tộc Kiroa.
 - Ngoại hình / tính cách: Dáng người sói tương đối nhỏ nhắn so với Quesad; mang ý chí kiên định sẵn sàng hy sinh để bảo vệ hoàng tộc Lang tộc.
 - Xuất hiện tính đến chương 115: Băng qua chiến trường ngăn chặn Quesad tiến về cổng Trái Đất; vắt kiệt mana tạo kiếm khí trên thanh trường kiếm đã gãy để đâm thủng ngực Quesad, nhưng bị hai nắm đấm của Quesad giáng xuống đập nát đầu và tử trận.
+
+### Melod
+- Giới tính, vai trò: Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt tại thế giới Kiroa.
+- Xuất hiện tính đến chương 116: Biến hình thành dạng sói tháo chạy qua cổng sang Trái Đất, bị Yu IlHan phóng thương cắm trúng mông.
+
+### Công chúa Lang tộc
+- Giới tính, vai trò: Nữ, người sống sót duy nhất của hoàng tộc Lang tộc Kiroa.
+- Ngoại hình / tính cách: Tóc đen, tai sói đen phủ lông, thân hình gợi cảm đẫy đà sau lớp giáp kim loại và giáp da; thông minh, có trách nhiệm với thần dân, tự nguyện quay lại Kiroa để cứu vãn sự diệt vong của tộc mình.
+- Xuất hiện tính đến chương 116: Đã vượt qua Trái Đất nhưng chứng kiến đồng tộc bị tàn sát nên quay lại Kiroa; đàm phán với Yu IlHan, đề nghị IlHan dùng kỹ năng Thống Trị khống chế sinh mạng cô để toàn bộ Lang tộc quy phục anh.
 

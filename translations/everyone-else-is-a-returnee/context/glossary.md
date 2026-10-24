@@ -511,3 +511,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Hexa-kill | Hexakill | Hexa-kill | khác | 113 | Được phép giữ nguyên: Thuật ngữ game MOBA (hạ gục 6 mạng liên tiếp), tham chiếu văn hóa game |
 | Raising Claw Wolf |  | Dương Trảo Lang | quái vật | 115 | Quái vật Lang tộc chuyển chức 4 cấp 204 thuộc phe Quân Đội Ma Hủy Diệt |
 | Blood Fenrir |  | Huyết Fenrir | quái vật | 115 | Quái vật Lang tộc chuyển chức 4 cấp 233 thuộc phe Quân Đội Ma Hủy Diệt (Quesad) |
+| DD-wolf | DD-wolves | sói DD | quái vật | 115 | Cách gọi tắt bầy quái sói thuộc phe Quân Đội Ma Hủy Diệt (Destruction Demon) tại Kiroa |

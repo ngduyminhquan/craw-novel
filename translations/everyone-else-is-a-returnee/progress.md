@@ -120,7 +120,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | reviewed |  |
 | 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | reviewed |  |
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | done |  |
-| 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | todo |  |
+| 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | done |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | todo |  |
 | 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | todo |  |
 | 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | todo |  |
@@ -714,3 +714,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#115] Cách dịch tên quái vật chuyển chức 4 Raising Claw Wolf? → Dịch Hán Việt là Dương Trảo Lang (thống nhất với phong cách dịch tên quái vật Đại Hắc Lang, Thiết Dực). (orchestrator)
 - [#115] Cách dịch tên gọi tắt DD-wolf của Yu IlHan? → Dịch là sói DD (giữ nguyên viết tắt DD của Quân Đội Ma Hủy Diệt theo giọng tự nhiên của IlHan). (orchestrator)
 - [#115] Cách dịch tên quái vật cấp 233 Blood Fenrir? → Dịch là Huyết Fenrir (kết hợp Hán Việt và giữ tên riêng thần thoại Bắc Âu Fenrir theo rules.md). (orchestrator)
+- [#116] Cách dịch cụm DD-wolves trong chương 116? → Thống nhất với quyết định ở chương #115 là dịch thành sói DD (cột EN DD-wolf, Alias DD-wolves). (orchestrator)
+- [#116] Cụm baptism of the moon dịch thế nào và có đưa vào glossary không? → Dịch là rửa tội dưới ánh trăng trong chương, nhưng không đưa vào glossary.md vì là cụm từ miêu tả chung viết thường. (orchestrator)

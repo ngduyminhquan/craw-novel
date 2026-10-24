@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T01:25:56Z",
+  "generatedAt": "2026-10-24T01:33:53Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -695,6 +695,12 @@
           "title": "Chương 115: Ta Là Chủ Nhân Sinh Mệnh Các Ngươi 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_115.md",
           "sha": "71860ab6ee16054ba91735bb5423f0b4d782d8dc"
+        },
+        {
+          "number": 116,
+          "title": "Chương 116: Ta Là Chủ Nhân Sinh Mệnh Các Ngươi 7",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_116.md",
+          "sha": "14861208d882dca0b3ad78cf5cba3f291f4bf1ff"
         }
       ]
     }

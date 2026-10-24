@@ -716,3 +716,9 @@ Thủ lĩnh chuyển chức 4 phe địch là Xích Ma Lang Quesad (Huyết Fenr
 Yu IlHan phóng Súng Bắn Cọc nạp ma thạch chuyển chức 4 vào vết thương trước ngực Quesad gây nổ hủy diệt; dù bị phản công gãy xương sườn văng ra xa, anh đã kịp kích hoạt [Bất Khả Họa Quỹ Đạo Thương] bọc Liệt Hỏa chẻ đôi đầu Quesad, thu về hơn 2,87 tỷ EXP.
 Cảnh kết thúc: Sau khi uống túi cheer pack Hơi Thở hồi phục và tái kích hoạt Ẩn Thân, Yu IlHan búng tay thả mưa thương xương rồng quét sạch tàn quân sói và chuẩn bị xử lý nốt 2 thực thể chuyển chức 4 còn lại.
 
+## 116
+Yu IlHan tiếp tục tối ưu hóa việc ném thương duy trì Ẩn Thân và kỹ năng Tử Thần, hạ gục thêm một thực thể chuyển chức 4 phe Quân Đội Ma Hủy Diệt bằng Bất Khả Họa Quỹ Đạo Thương nhận hơn 820 triệu EXP; tên chuyển chức 4 còn lại (Melod) biến hình dạng sói tháo chạy qua cổng sang Trái Đất bị IlHan phóng thương cắm trúng mông nhường cho nhóm Empress tiêu diệt.
+Bằng cách tính toán độ trễ thu hồi vật sở hữu từ xa và gom thương thành chùm mưa kích nhỏ tốc độ cao, IlHan tiêu diệt hàng vạn sói tinh anh và thăng lên cấp 140; bầy sói hai phe hoảng loạn giẫm đạp tìm đường thoát về phía cổng Trái Đất.
+Flemir tuyệt vọng quỳ lạy dập đầu cầu xin IlHan tha mạng cho đồng tộc nhưng bị anh lạnh lùng từ chối; đúng lúc đó, Công chúa Lang tộc tóc đen (người sống sót duy nhất của hoàng tộc) bất ngờ quay lại từ Trái Đất và giải thích năng lực biến đổi dạng người là nhờ được rửa tội dưới ánh trăng.
+Cảnh kết thúc: Sau khi IlHan chuyển mưa thương chỉ nhắm vào bầy sói đỏ, Công chúa tiết lộ đã nghe đám elf nói về kỹ năng [Thống Trị] và đề nghị IlHan dùng kỹ năng đó khống chế sinh mạng cô để toàn bộ Lang tộc quy phục anh, khiến IlHan liên tưởng ngay đến tình cảnh tương tự với tộc elf trước đây.
+
