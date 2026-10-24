@@ -146,7 +146,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | reviewed |  |
 | 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | reviewed |  |
 | 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | reviewed |  |
-| 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | todo |  |
+| 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | done |  |
 | 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | todo |  |
 | 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | todo |  |
 | 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | todo |  |

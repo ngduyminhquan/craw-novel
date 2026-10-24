@@ -870,3 +870,10 @@ Nhận thấy kỹ năng Thống Trị, Cộng Hưởng Long Nhân và Long Huy�
 Gặp gỡ Kang HaJin tại Gangnam nơi đặt cổng Kiroa, IlHan trấn an cậu về sự trung thành của bầy sói và tiết lộ dự định một mình xây dựng một đại dinh thự hoành tráng trước khi mọi người trở về.
 Tận dụng xương và viên ma thạch chuyển chức 4 của Ma Thú Hỏa Sơn kết hợp Ngọn Lửa Vĩnh Cửu, Liệt Hỏa và lửa tím của Bát Vĩ Long Thương, IlHan rèn suốt 6 ngày tạo nên 7.867 phiến vũ lưỡi đao và khắc ma pháp ngữ thành công; nâng Chế Tác Mana lên cấp 60 và hoàn thành đôi cánh tạo tác phẩm cấp Sử Thi 'Hiệu Triệu Diệt Vong' (tăng 30% hiệu ứng kỹ năng cận chiến như Bật Nhảy, Quái Lực và tạo sóng xung kích nhân tốc độ lên gấp bội).
 Cảnh kết thúc: Giữa lúc IlHan cùng Liera đang thử nghiệm đôi cánh mới, Spiera khẩn cấp truyền âm báo tin cánh cổng tại New York sắp mở ra sau đúng 10 ngày Trái Đất chờ đợi.
+
+## 142
+Yu IlHan làm quen với đôi cánh Hiệu Triệu Diệt Vong, tận dụng sóng xung kích làm bệ dẫm chân giữa không trung để thi triển Bật Nhảy liên hoàn với tốc độ gấp 3 lần bình thường; trên đường bay tới New York, IlHan bất ngờ gặng hỏi Liera về sự tồn tại thật sự của Thượng Đế khiến cô bối rối và ra sức bảo vệ đức tin.
+Đến đống đổ nát tại New York gặp Spiera sau 17 phút bay, cánh cổng Thế Giới Bị Bỏ Rơi mở ra nhờ đại ma pháp trận của Erta; Yumir (đã lớn lên như một thiếu niên 11 tuổi) bật khóc lao vào lòng bố, theo sau là Erica, Flemir, bầy sói, 4 elf, Erta kích thước người thật cùng Kang MiRae và Na YuNa.
+Trong cơn xúc động và hỗn loạn, cả nhóm (từ Erta, MiRae khóc nức nở, Na YuNa đến các elf và Erica) đồng loạt nhào vào ôm chặt lấy IlHan khiến anh ngạt thở hoảng loạn và phải gắt lên hỏi tại sao chỉ mới qua 10 ngày mà mọi người lại cuống cuồng như vậy.
+Cảnh kết thúc: Mọi người sững sờ trước mốc 10 ngày của Trái Đất, và Yumir ngơ ngác tiết lộ rằng cả nhóm thực chất đã trải qua suốt 1.000 ngày trong Thế Giới Bị Bỏ Rơi, tạo nên một tỷ lệ chênh lệch thời gian 10 ngày : 1.000 ngày quen thuộc đến rợn người đối với IlHan và Liera.
+
