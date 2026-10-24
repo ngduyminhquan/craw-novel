@@ -774,6 +774,13 @@ Thời gian kết giới chỉ còn 75 giờ; các thuộc hạ tăng tiến vư
 Chuyển sang làm trang bị cho bản thân, IlHan chế tạo thành công hai vũ khí phẩm cấp Truyền Thuyết gồm Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn và Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt từ xương rồng Karrows, đồng thời đánh bóng hàng nghìn ngọn lao phóng và khiên.
 Cảnh kết thúc: Từ xương rồng và toàn bộ xương ma lang Quesad, IlHan rèn bộ giáp thủy chiến thành Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (phẩm cấp Truyền Thuyết, phòng thủ 7.300) với các dòng thuộc tính đóng băng và điều khiển băng kỳ lạ nằm ngoài dự tính khiến anh ngơ ngác.
 
+## 126
+Yu IlHan khổ luyện thành thục kỹ thuật thay giáp tức thì từ túi đồ kết hợp nhận thức không gian ba chiều; sau đó anh chế tạo bộ phụ kiện từ xương rồng và chiết xuất thuộc tính từ Vòng Tay Da Vàng sang vảy rồng hệ lôi, tạo ra Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ (phẩm cấp Truyền Thuyết, kháng lôi và tích trữ bão sét) cùng một chiếc vòng tay phẩm cấp Truyền Thuyết khác dành riêng cho pháp sư hệ lôi.
+Sau khi phân phát 12 chiếc vòng tay Độc Nhất và làm phụ kiện cho các thuộc hạ (tăng 50% tốc độ hồi phục mana cho toàn đội), kết giới 2 tháng kết thúc; IlHan dẫn nhóm thuộc hạ đang ngơ ngác vì chênh lệch thời gian về căn hộ nghỉ ngơi.
+Trong lúc chơi game cùng các thiên thần, Erta và Liera nhận tin một Thế Giới Bị Bỏ Rơi khác lại kết nối với Trái Đất dù mới qua chưa đầy 10 ngày sau sự biến Kiroa.
+Cảnh kết thúc: Linh cảm thấy điều bất thường, IlHan lóe lên ánh mắt sắc lạnh và bất ngờ hỏi các thiên thần liệu các thế lực thực thể cấp cao có thể bắt tay liên minh hợp tác với nhau hay không.
+
+
 
 
 

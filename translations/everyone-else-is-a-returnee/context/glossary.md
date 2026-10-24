@@ -325,7 +325,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Counter |  | Phản Kích | kỹ năng | 57 | Kỹ năng chủ động phản đòn công kích |
 | Snorlax | Sn*rl*x | Sn*rl*x | khác | 57 | Được phép giữ nguyên: Pokemon lười ngủ (tham chiếu văn hóa đại chúng) |
 | Frighteningly Destructive Thunder Pile Bunker |  | Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi | vật phẩm | 58 | Vũ khí Súng Bắn Cọc sau khi biến đổi do liên tục tiếp xúc mana thuộc tính sấm sét |
-| Quick Lightning Storm's Gold Leather Bracelet |  | Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ | vật phẩm | 59 | Trang bị tạo tác vòng tay da làm từ da và ma thạch Chim Sấm Sét Khổng Lồ |
+| Quick Lightning Storm's Gold Leather Bracelet | Rapid Lightning storm's Gold leather bracelet; Gold leather bracelet | Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ | vật phẩm | 59 | Trang bị tạo tác vòng tay da làm từ da và ma thạch Chim Sấm Sét Khổng Lồ |
 | Shandong | Shandong Province | Sơn Đông | địa danh | 59 | Tỉnh Sơn Đông ở miền đông Trung Quốc |
 | Qingdao | Tsingtao | Thanh Đảo | địa danh | 59 | Thành phố ven biển thuộc tỉnh Sơn Đông, Trung Quốc, nổi tiếng với bia và thịt cừu xiên nướng |
 | Seongbuk-gu | Seongbuk | Seongbuk-gu | địa danh | 59 | Quận Seongbuk ở Seoul nơi IlHan từng tiêu diệt quái vật gấu lớn |
@@ -523,3 +523,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
 | Destruction-calling Titan's Resonance Thunderhammer |  | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
 | Chilly Blizzard tyrant's Mixed bone Fullplate armor |  | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
+| Destruction-preventing Swift Cursed dragon Earring |  | Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy | vật phẩm | 126 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ xương rồng và ma thạch chuyển chức 3 |
+| Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |
+| Frenzied and Leisurely Lightning ruler's Dragonic bracelet |  | Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết hệ sấm sét do Yu IlHan rèn từ vảy rồng hệ lôi yêu cầu pháp sư hệ lôi chuyển chức 3 |
+| Double Thunderstorm |  | Lôi Bão Kép | khác | 126 | Mong muốn sở hữu cùng lúc hai cơn bão sấm sét của Yu IlHan |

@@ -130,7 +130,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | reviewed |  |
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | done |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | done |  |
-| 126 |  | Chapter_126 - Invade I.txt | Invade I | todo |  |
+| 126 |  | Chapter_126 - Invade I.txt | Invade I | done |  |
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | todo |  |
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | todo |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | todo |  |
@@ -735,3 +735,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#124] Cụm "giant blob of meat" ở đoạn 59 raw EN (khối kim loại dùng để luyện thương bị raw viết nhầm thành meat) — Tạm chọn: sửa thành "khối kim loại khổng lồ" cho khớp với bối cảnh chương 122 và đoạn 102 của chính chương 124 ("giant blob of metal"). → Duyệt phương án đã dùng: dịch là khối kim loại khổng lồ vì đây là lỗi đánh máy của bản dịch EN (nhầm metal thành meat, đoạn 102 chương 124 và chương 122–123 đều ghi giant blob of metal). (orchestrator)
 - [#125] Tên các trang bị phẩm cấp Truyền Thuyết mới Yu IlHan chế tạo từ xương rồng Karrows và xương ác lang Quesad (`Insanely Passionate Spiked Black dragon whip`, `Destruction-calling Titan's Resonance Thunderhammer`, `Chilly Blizzard tyrant's Mixed bone Fullplate armor`) → Duyệt phương án đã dùng: Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn, Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt, Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (tuân thủ cấu trúc đặt tên tạo tác nhiều tiền tố trong glossary.md). (orchestrator)
 - [#125] Xưng hô của Erica và đám elf khi gọi Yumir: Erica xưng "tôi", gọi Yumir là "thiếu chủ" (young master); đám elf gọi Yumir là "Hoàng tử Điện hạ / Điện hạ" (Imperial Prince). Tạm dùng: Erica gọi "thiếu chủ", elf gọi "Hoàng tử Điện hạ / Điện hạ". → Duyệt phương án đã dùng: Erica gọi Yumir là thiếu chủ (xưng tôi), các elf gọi Yumir là Hoàng tử Điện hạ / Điện hạ (đúng vị thế từng người trước Yu IlHan). (orchestrator)
+- [#126] Dịch từ Dragonic trong tên tạo tác Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ và Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong? → Duyệt phương án đã dùng: dịch Dragonic trong tên tạo tác là Long Linh để phân biệt với chủng tộc Long tộc (dragonkin). (orchestrator)
+- [#126] Cách dịch kỹ năng/hiệu ứng Double Thunderstorm? → Duyệt phương án đã dùng: dịch Hán Việt ngắn gọn là Lôi Bão Kép theo rules.md. (orchestrator)
+- [#126] Xử lý ghi chú (E/N: He's throwing a tantrum….) ở đoạn 104? → Duyệt phương án đã dùng: lược bỏ (E/N: ...) theo rules.md và giữ giọng nói nhõng nhẽo ăn vạ của Yu IlHan. (orchestrator)

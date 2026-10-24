@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T03:14:12Z",
+  "generatedAt": "2026-10-24T03:20:20Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -755,6 +755,12 @@
           "title": "Chương 125: Hợp Sức Mọi Người Lại Làm Một! 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_125.md",
           "sha": "a04e259ca04d50d37f83f1d45dd927cd0ba713ac"
+        },
+        {
+          "number": 126,
+          "title": "Chương 126: Xâm Lược I",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_126.md",
+          "sha": "c7f59011d3d89cd40365a083dc776d9d157965b5"
         }
       ]
     }
