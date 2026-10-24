@@ -545,3 +545,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Magic warrior |  | Ma chiến sĩ | chức nghiệp | 132 | Chức nghiệp chiến đấu kết hợp ma pháp và võ thuật tại thế giới Ferata |
 | Cataclysm | Cataclysms | Đại Tai Biến | hệ thống | 133 | Biến cố nâng cấp thế giới khi mana tràn vào |
 | Pajin Meccadira |  | Pajin Meccadira | địa danh | 133 | Hoàng thành tráng lệ xây dựng cho hoàng đế Đế quốc Kadra |
+| Anpanman | Anpan-man | Anpanman | khác | 134 | Nhân vật hoạt hình bánh mì Nhật Bản Yu IlHan xem hồi nhỏ, có thể thay đầu để lập tức hồi phục sinh lực |

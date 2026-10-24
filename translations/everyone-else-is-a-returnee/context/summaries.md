@@ -820,6 +820,13 @@ Yu IlHan càn quét hoàng thành Pajin Meccadira của Đế quốc Kadra bằn
 Tại cổng không gian đáy biển, Spiera mượn năng lực Ẩn Thân phục kích chém đôi thiên thần phản bội Lupeta; cô nhận ra kẻ địch cố tình lợi dụng tính cách tỉ mỉ của IlHan để dụ anh sang Ferata, khiến cô vô cùng lo lắng cho nhóm Yumir, Flemir, Erica cùng các thuộc hạ elf ở New York.
 Cảnh kết thúc: Hết mực yêu mến bé Mir, Spiera đằng đằng sát khí thề sẽ đồ sát toàn bộ kẻ phản bội nào dám động một ngón tay vào đứa trẻ rồng.
 
+## 134
+Yu IlHan tiếp tục tàn sát và thiêu rụi hoàng thành Pajin Meccadira; Liera tiết lộ cấp độ để trở thành thực thể cấp cao là 300, đồng thời chỉ điểm giúp anh nhìn thấu ma pháp ảo ảnh dẫn lối tới khu vực kho báu dưới lòng đất.
+Dùng kỹ thuật Thu hồi vật sở hữu từ xa kích nổ mìn phá vỡ cửa sắt phong ấn, IlHan bất ngờ phát hiện hoàng tộc và hoàng đế Kadra cùng 3 kỵ sĩ chuyển chức 4 đang ẩn náu bên trong.
+IlHan búng tay đưa cả chùm mìn và lựu đạn ma thạch cấp 4 vào hầm kích nổ liên hoàn, tiêu diệt 1 tên chuyển chức 4 và 5 thành viên hoàng tộc, rồi dùng roi kết liễu tên chuyển chức 4 thứ hai để thu hơn 7,2 tỷ điểm kinh nghiệm.
+Khi anh dùng roi nhắm vào hoàng đế, kỵ sĩ mạnh nhất Elbani (trên cấp 250) dùng võ kỹ người thủ hộ tóm roi phá tan Ẩn Thân của IlHan, lôi anh lại gần và tung đòn cùi chỏ cực mạnh đánh nứt giáp ngực hất văng anh ra xa.
+Cảnh kết thúc: Mất đi hiệu ứng Ẩn Thân và kỹ năng Tử Thần, Yu IlHan cất roi rút trường thương, sẵn sàng bước vào trận khổ chiến ngang tài ngang sức với vị kỵ sĩ cuối cùng của đế quốc.
+
 
 
 

@@ -138,7 +138,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 131 |  | Chapter_131 - Invade VI.txt | Invade VI | reviewed |  |
 | 132 |  | Chapter_132 - Invade VII.txt | Invade VII | reviewed |  |
 | 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | done |  |
-| 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | todo |  |
+| 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | done |  |
 | 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | todo |  |
 | 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | todo |  |
 | 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | todo |  |
@@ -756,3 +756,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#130-132] Các câu hỏi review chương 130-132: sửa "trốn xuống địa hạ" (#130 đoạn 70), câu thoại #132 đoạn 4, từ "thi thể" (#132 đoạn 16, 20), câu chữ #130 đoạn 73 & #132 đoạn 54, và bổ sung (Liera) ở #132 đoạn 87, 122 → Chấp nhận sửa #130 đoạn 70, 73 và #132 đoạn 4, 16, 20, 54; bác bổ sung (Liera) ở #132 đoạn 87, 122 (vì raw không có) và bác cập nhật trùng lặp trong characters.md. (orchestrator)
 - [#133] Tên đệ tử chuyển chức lần 4 "Festo" của Đế quốc Kadra → Giữ nguyên tên riêng "Festo" theo quy tắc tên riêng phương Tây / dị giới trong rules.md. (orchestrator)
 - [#133] Ký hiệu footnote "1" trơ trọi ở cuối câu mô tả vết thương ("...spine could be seen on the back. 1") → Lược bỏ số footnote 1 ở cuối câu theo quy tắc bỏ ghi chú translator trong rules.md. (orchestrator)
+- [#134] Câu thoại "I...remember...the days...when...I went whale hunting… with dad…..!" của Yu IlHan ở đoạn 136 → Giữ cách dịch sát nghĩa đen hài hước "Tôi... nhớ lại... những ngày... đi... bắt cá voi... cùng bố.....!" theo đúng giọng tưng tửng nguyên bản (không thêm chú thích theo rules.md). (orchestrator)

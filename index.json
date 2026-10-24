@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T05:15:23Z",
+  "generatedAt": "2026-10-24T05:22:38Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -803,6 +803,12 @@
           "title": "Chương 133: Xâm Lăng VIII",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_133.md",
           "sha": "55ae49ed4c63f24952b8b6e1c29e7563ded666f7"
+        },
+        {
+          "number": 134,
+          "title": "Chương 134: Không Phải Tôi, Mà Là Con Trai Tôi?! I",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_134.md",
+          "sha": "d691899533b918a10c608968bf2b1b45e64574ae"
         }
       ]
     }

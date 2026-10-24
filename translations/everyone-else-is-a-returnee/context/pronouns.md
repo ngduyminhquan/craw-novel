@@ -53,6 +53,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang Chan | ông / Kang Chan | 121 | Bố của Kang MiRae và Kang HaJin |
 | Festo | gã / Festo | 133 | Kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra |
 | Lupeta | tên thiên thần / Lupeta | 133 | Thiên thần phản bội tiếp cận cánh cổng hầm ngục |
+| Elbani | hắn / Elbani / kỵ sĩ | 134 | Kỵ sĩ chuyển chức 4 bảo vệ hoàng đế Kadra |
 
 ## Giữa các nhân vật
 
@@ -215,5 +216,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | Takagaki Asuha | tôi | cô / các vị | 129 | Kang MiRae đàm đạo với các chủ clan Liên Minh Tiền Tuyến |
 | Spiera | Lupeta | ta | ngươi / Lupeta | 133 | Spiera phục kích và chất vấn thiên thần phản bội Lupeta |
 | Lupeta | Spiera | ngươi / ta | ngươi / cô | 133 | Lupeta kinh ngạc khi bị Spiera phục kích |
+| Elbani | Yu IlHan | ta | ngươi | 134 | Elbani bảo vệ hoàng đế giao chiến với Yu IlHan |
+| Yu IlHan | Elbani | ta / tôi | ngươi | 134 | Yu IlHan đối đáp với Elbani |
 
 

@@ -57,6 +57,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Kut'sach Yi Zeta | Zeta | Kut'sach Yi Zeta | Hiệp sĩ chuyển chức 3 Lv 101 của quân đoàn Kadra bị Yu IlHan kết liễu | 131 |
 | Festo |  | Festo | Kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra, đệ tử của kiếm sĩ trung niên; bị Yu IlHan gài mìn ma thạch nổ trọng thương rồi chém đầu tại hoàng thành Pajin Meccadira | 133 |
 | Lupeta |  | Lupeta | Thiên thần phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ, tiếp cận cổng không gian dưới đáy biển và bị Spiera phục kích chém làm đôi | 133 |
+| Elbani | Sir Elbani | Elbani | Kỵ sĩ chuyển chức 4 mạnh nhất bảo vệ hoàng đế của Đế quốc Kadra, tự xưng là "thanh kiếm của đế quốc" | 134 |
 
 ## Chi tiết
 
@@ -451,4 +452,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Lupeta
 - Giới tính, vai trò: Nam, thiên thần phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ.
 - Xuất hiện tính đến chương 133: Tiếp cận cánh cổng không gian dưới đáy biển Đại Tây Dương thì bị Spiera phục kích dùng thương chém làm đôi tiêu diệt tại chỗ.
+
+### Elbani
+- Giới tính, vai trò: Nam, kỵ sĩ chuyển chức lần 4 cấp trên 250, "thanh kiếm của đế quốc" bảo vệ hoàng đế của Đế quốc Kadra.
+- Ngoại hình / tính cách: Trung thành tuyệt đối với hoàng đế, sở hữu võ kỹ của người thủ hộ cao cấp; dù bị thương nặng và cụt một tay sau vụ nổ liên hoàn vẫn tung đòn phản kích sấm sét nhằm đoạt mạng kẻ địch.
+- Xuất hiện tính đến chương 134: Hộ vệ hoàng tộc Kadra trong hầm trú ẩn khẩn cấp ở khu hầm ngầm; hứng trọn vụ nổ mìn ma thạch nhưng vẫn sống sót, phá giải đòn roi của Yu IlHan và đối đầu trực diện với anh.
 
