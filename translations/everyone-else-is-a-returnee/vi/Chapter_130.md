@@ -138,13 +138,13 @@ Trong lúc đó, những người sống sót của Trái Đất đang cố đă
 
 "Khốn kiếp, mình phải báo tin này cho cư dân Trái Đất mới được!"
 
-Trong thời gian rảnh rỗi làm ba cái trò đó thì nên trốn xuống địa hạ mới phải, lũ người này đúng là hết thuốc chữa mà. Nhìn bọn họ, Spiera nghiêm túc gật đầu.
+Trong thời gian rảnh rỗi làm ba cái trò đó thì nên trốn xuống hầm mới phải, lũ người này đúng là hết thuốc chữa mà. Nhìn bọn họ, Spiera nghiêm túc gật đầu.
 
 [Ta biết ngay mạng xã hội chỉ tổ lãng phí cuộc đời mà.] (Spiera)
 
 [Hứ! Đáng đời bọn họ lắm.] (Liera)
 
-"Này, giữa các thiên thần các cô vừa tập thể xảy ra chuyện gì đúng không? Tôi sẽ không cười đâu, nên cứ nói ra xem nào?"
+"Này, vừa có chuyện gì xảy ra đồng loạt giữa các thiên thần các cô đúng không? Tôi sẽ không cười đâu, nên cứ nói ra xem nào?"
 
 Các thiên thần ngậm chặt miệng. Yu IlHan cũng đành bỏ cuộc và tiếp tục công cuộc 'dọn dẹp'.
 

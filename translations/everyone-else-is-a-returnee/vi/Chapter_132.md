@@ -6,7 +6,7 @@ Cảm giác dịch chuyển tức thời từ đáy biển lên trên mặt đ�
 
 Dù sao thì nơi anh đang đứng cũng là đất bằng, nên Yu IlHan khẽ lắc người một cái trước khi đổi sang bộ giáp khác. Tốc độ thay đổi nhanh như chớp giật, khiến Liera đang nhìn chằm chằm vào anh cũng phải tặc lưỡi.
 
-[Cậu cũng nên phô trương một chút đi chứ.] (Liera)
+[Cậu cũng phải để người ta ngắm một chút chứ.] (Liera)
 
 "Dù sao bên trong tôi cũng mặc sẵn giáp da rồi mà, chẳng phải tôi đã nói trước đó rồi sao?"
 
@@ -30,7 +30,7 @@ Yu IlHan, kẻ nãy giờ vẫn nhìn quanh như thể vừa đến đây cắm 
 
 "Hiểu rồi."
 
-Khi Yu IlHan khẽ búng ngón tay, thi thể của đám pháp sư nổ tung trong tích tắc. Nói một cách chính xác hơn, thân thể của bọn chúng ngay lập tức bị nghiền nát bẹp dí dưới sức nặng ngàn tấn của những ngọn trường thương.
+Khi Yu IlHan khẽ búng ngón tay, cơ thể của đám pháp sư nổ tung trong tích tắc. Nói một cách chính xác hơn, thân thể của bọn chúng ngay lập tức bị nghiền nát bẹp dí dưới sức nặng ngàn tấn của những ngọn trường thương.
 
 "Áaaaak!"
 
@@ -38,7 +38,7 @@ Khi Yu IlHan khẽ búng ngón tay, thi thể của đám pháp sư nổ tung tr
 
 "Mọi người bình tĩnh! Ta bảo bình tĩnh mau!"
 
-Chứng kiến thi thể nổ tung của đám pháp sư quản lý cánh cổng, sự hỗn loạn lập tức bùng nổ.
+Chứng kiến cảnh tượng đám pháp sư quản lý cánh cổng nổ tung tan xác, sự hỗn loạn lập tức bùng nổ.
 
 Hỗn loạn là từ mà Yu IlHan yêu thích nhất; những thời điểm như thế này chính là lúc anh trở nên mạnh mẽ nhất.
 
@@ -106,7 +106,7 @@ Và cuối cùng, Huyết Hỏa sau khi hấp thụ máu của mục tiêu sẽ 
 
 [Nghe thốn thật đấy.] (Liera)
 
-Liera gói gọn dòng suy nghĩ của mình vào đúng một câu. Phải rồi. Dù thế nào đi nữa thì cái đó cũng ĐAU DÃ MAN CON NGAN. Bọn chúng thậm chí còn chẳng kịp chịu đựng nỗi đau đớn ấy mà đã phải bỏ mạng rồi!
+Liera gói gọn dòng suy nghĩ của mình vào đúng một câu. Phải rồi. Dù thế nào đi nữa thì cái đó cũng ĐAU ĐẾN XÉ RUỘT XÉ GAN. Bọn chúng thậm chí còn chẳng kịp chịu đựng nỗi đau đớn ấy mà đã phải bỏ mạng rồi!
 
 [Bạn nhận được 16.043.439 điểm kinh nghiệm.]
 

@@ -134,9 +134,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | reviewed |  |
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | reviewed |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | reviewed |  |
-| 130 |  | Chapter_130 - Invade V.txt | Invade V | done |  |
-| 131 |  | Chapter_131 - Invade VI.txt | Invade VI | done |  |
-| 132 |  | Chapter_132 - Invade VII.txt | Invade VII | done |  |
+| 130 |  | Chapter_130 - Invade V.txt | Invade V | reviewed |  |
+| 131 |  | Chapter_131 - Invade VI.txt | Invade VI | reviewed |  |
+| 132 |  | Chapter_132 - Invade VII.txt | Invade VII | reviewed |  |
 | 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | todo |  |
 | 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | todo |  |
 | 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | todo |  |
@@ -753,3 +753,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#131] Cách dịch từ "Oppa" khi Liera trêu Yu IlHan: hiện tạm dịch "oppa" ("[Chạy đi oppa ơi, chạy điii! Hura!]") để giữ trọn yếu tố hài hước văn hóa Hàn Quốc; đề xuất giữ nguyên hoặc chuyển sang thuần Việt ("anh ơi / anh trai"). → Giữ nguyên từ "oppa" ("[Chạy đi oppa ơi, chạy điii! Hura!]" và "Tôi thành oppa của cô từ bao giờ thế hả.") để truyền tải trọn vẹn nét hài hước văn hóa Hàn Quốc và sự trớ trêu khi thiên thần triệu năm tuổi gọi thanh niên là oppa. (orchestrator)
 - [#131] Tên riêng "Lepido" trong câu thoại của quân xâm lược Đế quốc Kadra ("block Lepido") → Giữ nguyên tên riêng "Lepido" theo quy tắc tên riêng nước ngoài / dị giới trong rules.md. (orchestrator)
 - [#132] Cụm từ "Earthling mutt" trong lời chửi của quân xâm lược Kadra (đoạn 101) → Dịch thoát ý thành "con chó tạp chủng Trái Đất chết tiệt đó!" để giữ sắc thái chửi rủa tự nhiên, chấp nhận cảnh báo giả của qa_check.py đối với từ "Earthling". (orchestrator)
+- [#130-132] Các câu hỏi review chương 130-132: sửa "trốn xuống địa hạ" (#130 đoạn 70), câu thoại #132 đoạn 4, từ "thi thể" (#132 đoạn 16, 20), câu chữ #130 đoạn 73 & #132 đoạn 54, và bổ sung (Liera) ở #132 đoạn 87, 122 → Chấp nhận sửa #130 đoạn 70, 73 và #132 đoạn 4, 16, 20, 54; bác bổ sung (Liera) ở #132 đoạn 87, 122 (vì raw không có) và bác cập nhật trùng lặp trong characters.md. (orchestrator)
