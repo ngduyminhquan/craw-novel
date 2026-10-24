@@ -667,6 +667,13 @@ Yumir ăn thịt nướng giúp IlHan hoàn tất khế ước Kỵ Sĩ Rồng v
 Sau khi Yumir ăn no ngủ say và được Liera tắm rửa ôm vào lòng, IlHan tìm thấy chiếc thùng khổng lồ trong túi đồ nay đã tiến hóa thành tạo tác [Đại Thùng Thấm Đẫm Hơi Thở Của Rồng] mô phỏng cơ quan ma pháp của rồng nhờ cộng hưởng gần 1.000 trái tim rồng.
 Cảnh kết thúc: Phớt lờ ý tưởng ngâm mình hay ủ rượu Hơi Thở của hai thiên thần, Yu IlHan đổ máu và ném thịt rồng vào thùng, tự hào tuyên bố ngộ ra công thức nấu ăn mới từ kỹ năng Nấu Nướng giúp mở rộng chân trời cho ẩm thực thịt quái vật.
 
+## 108
+Yu IlHan thử nghiệm ủ thịt rồng trong máu rồng nhận ra tiềm năng đưa kỹ năng Nấu Nướng chạm tới tầm cao mới; anh giải phẫu thần tốc toàn bộ gần 300 xác rồng chuyển chức 4 đến chiều muộn và khẳng định sẽ hỏa táng xác Lecidna khi Yumir lớn khôn.
+Để trang bị cho 4 elf theo mình về Trái Đất, IlHan rèn giáp toàn thân từ xương và vảy rồng phẩm cấp Truyền Thuyết cho Mirey và Jirl, giáp da Độc Nhất cho Paté và Phiria; tiếp đó anh rèn đại kiếm, đoản kiếm và khiên đều đạt Truyền Thuyết nhờ Ngọn Lửa Vĩnh Cửu tiến hóa sau khi nuốt vỏ trứng rồng.
+Khi chế tạo cây cung cho Paté từ vảy và gân Karrows, IlHan ngộ ra chân lý kết hợp hoàn mỹ giữa Rèn Đúc và Chế Tác Mana; anh dùng ma thạch chuyển chức 4 của Nguyền Long Karrows tạo nên tạo tác phẩm cấp Sử Thi [Quỹ Đạo Tử Thần] và thăng cấp Chế Tác Mana lên cấp 50.
+Cảnh kết thúc: Cây cung Sử Thi sở hữu các dòng thuộc tính áp đảo (nguyền rủa, Tuyệt Đối Chuẩn Xác, 100% chí mạng lần 3, biến xác thành undead) khiến hai thiên thần kinh ngạc; IlHan thầm lên kế hoạch chuyển tàn niệm của Orochi sang Hắc Cốt Đại Thương.
+
+
 
 
 

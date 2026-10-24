@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T23:59:25Z",
+  "generatedAt": "2026-10-24T00:04:05Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -647,6 +647,12 @@
           "title": "Chương 107: Tôi Là Kẻ Phiêu Lãng Của Linh Hồn Mình 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_107.md",
           "sha": "8671a0a0657f78b15af8706e3a411834d14d480c"
+        },
+        {
+          "number": 108,
+          "title": "Chương 108: Tôi Là Kẻ Phiêu Lãng Của Linh Hồn Mình 8",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_108.md",
+          "sha": "1f68f2e0101ca3b7fc982f18c2ec9e008f2a6577"
         }
       ]
     }

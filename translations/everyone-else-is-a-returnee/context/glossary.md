@@ -506,3 +506,4 @@
 | Dragon's breath-imbued Giant Bucket |  | Đại Thùng Thấm Đẫm Hơi Thở Của Rồng | vật phẩm | 107 | Chiếc thùng tiến hóa thành tạo tác tương tự cơ quan ma pháp của loài rồng sau khi chứa máu và cộng hưởng gần 1000 trái tim rồng |
 | Ymir |  | Ymir | khác | 107 | Được phép giữ nguyên: Người khổng lồ thủy tổ trong Thần thoại Bắc Âu, đọc đồng âm với Yumir |
 | Norse Mythology |  | Thần thoại Bắc Âu | khác | 107 | Thần thoại Bắc Âu |
+| Deathgod's Trajectory |  | Quỹ Đạo Tử Thần | vật phẩm | 108 | Cung Sử Thi chế tạo từ gân và vảy đen của Nguyền Long Karrows kết hợp ma thạch chuyển chức 4 |
