@@ -26,6 +26,9 @@ ENGLISH_RE = re.compile(r"\b(" + "|".join(sorted(ENGLISH)) + r")\b", re.IGNORECA
 NAV_RE = re.compile(r"^(\s*\[[^\]]*\]\([^)]*\)\s*\|?)+\s*$")
 # Dòng ảnh, giống regex app và scripts/build_index.py (chapter-image-guide.md). Ảnh không phải đoạn dịch.
 IMAGE_RE = re.compile(r"^!\[([^\]]*)]\(([^)]+)\)$")
+# In nghiêng Markdown "*khụ*", "_nhồm nhoàm_". Không bắt chữ bị che kiểu "M** ***t", "dig*mon"
+# (dấu * dính liền chữ cái ở phía ngoài).
+ITALIC_RE = re.compile(r"(?<![\w*])\*(?=[^\s*])[^*\n]*?(?<=[^\s*])\*(?![\w*])|(?<![\w_])_(?=[^\s_])[^_\n]*?(?<=[^\s_])_(?![\w_])")
 
 
 def vi_paragraphs(text):
@@ -68,6 +71,10 @@ def check(novel, row):
             warns.append(f"đoạn {n} còn tiếng Anh ({', '.join(hits[:5])}): {line[:90]}")
         if TN_RE.search(line):
             errors.append(f"đoạn {n} còn ghi chú translator: {line[:90]}")
+        m = ITALIC_RE.search(line)
+        if m:
+            errors.append(f"đoạn {n} dùng dấu */_ để in nghiêng ({m.group(0)[:30]}) — app hiện nguyên ký tự, "
+                          f"bỏ dấu theo rules.md: {line[:90]}")
         if "![" in line:
             errors.append(f"đoạn {n} có ảnh lẫn trong đoạn văn, ảnh phải nằm riêng một dòng: {line[:90]}")
 

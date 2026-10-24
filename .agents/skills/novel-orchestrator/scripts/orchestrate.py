@@ -80,9 +80,23 @@ def _open_indices(lines):
     return out
 
 
+def _continuation(lines, i):
+    """Các dòng thụt lề ngay sau câu hỏi ở dòng i (panel hay ghi câu hỏi kèm ý con '  1. ...')."""
+    out = []
+    j = i + 1
+    while j < len(lines) and lines[j].strip() and lines[j][:1] in (" ", "\t"):
+        out.append(j)
+        j += 1
+    return out
+
+
+def _full_question(lines, i):
+    return " ".join([lines[i].rstrip()] + [lines[j].strip() for j in _continuation(lines, i)])
+
+
 def open_questions(novel):
     lines = read_text(progress_path(novel)).splitlines()
-    return [lines[i] for i in _open_indices(lines)]
+    return [_full_question(lines, i) for i in _open_indices(lines)]
 
 
 def resolve(novel, needle, decision, new=False):
@@ -93,12 +107,15 @@ def resolve(novel, needle, decision, new=False):
     if new:
         item = needle if needle.lstrip().startswith("- ") else f"- {needle}"
     else:
-        hits = [i for i in _open_indices(lines) if needle in lines[i]]
+        hits = [i for i in _open_indices(lines) if needle in _full_question(lines, i)]
         if len(hits) != 1:
             listing = "".join(f"\n  {lines[i].strip()[:120]}" for i in hits)
             die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}. Dùng đoạn chữ dài hơn, chỉ có ở một câu."
                 + (listing if hits else " Câu hỏi chỉ có trong báo cáo panel thì dùng --new"))
-        item = lines.pop(hits[0]).rstrip()
+        item = _full_question(lines, hits[0])
+        # xoá cả các dòng ý con đi kèm, từ dưới lên để không lệch chỉ số
+        for j in reversed([hits[0], *_continuation(lines, hits[0])]):
+            lines.pop(j)
     item = re.sub(r"\s+—\s+đề xuất.*$", "", item)
     entry = f"{item} → {decision} (orchestrator)"
     d_start, d_end = _section(lines, DONE_HEADER)

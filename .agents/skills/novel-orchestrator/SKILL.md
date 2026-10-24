@@ -110,7 +110,7 @@ Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script Q
    - trạng thái là `done`;
    - có tóm tắt trong `summaries.md`.
 3. Verify chưa đạt:
-   - Lần đầu: nhắc chính panel đó bằng `herdr agent prompt <name> "<các vấn đề verify in ra, sửa rồi ghi lại báo cáo>"`, rồi chờ lại.
+   - Lần đầu: nhắc chính panel đó bằng `herdr agent prompt <name> "<các vấn đề verify in ra, sửa rồi ghi lại báo cáo>"`, rồi chờ lại. **Xoá file báo cáo cũ của panel trước khi nhắc** (`rm .herdr/reports/<name>.md`), nếu không `wait-report.sh` thấy dòng `STATUS: done` cũ và thoát ngay. Áp dụng cho mọi lần nhắc lại một panel đã báo xong.
    - Vẫn chưa đạt: đóng pane, đặt lại chương về todo bằng `progress.py <slug> set N todo`, mở panel mới làm lại từ đầu một lần.
    - Lần thứ ba vẫn hỏng: **dừng vòng lặp**, báo user.
 4. Đọc mục câu hỏi trong báo cáo và quyết. Panel thường chỉ ghi câu hỏi vào báo cáo mà không ghi vào `progress.md`. Câu như vậy thì ghi thẳng vào "Đã quyết" bằng `orchestrate.py <slug> resolve "[#N] <câu hỏi>" "<quyết định>" --new`. Quyết định làm đổi nội dung chương N thì nhắc panel sửa trước khi đóng.

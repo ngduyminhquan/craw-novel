@@ -199,6 +199,8 @@ Brief có ghi "chế độ orchestrator" thì:
 
 - Chỉ làm đúng việc và đúng chương được giao, rồi dừng. Không tự sang chương khác.
 - Không chờ user. Chỗ nào skill bảo "báo user, chờ duyệt" (bước A3, mục "Cần user xác nhận") thì ghi đề xuất và câu hỏi vào báo cáo, chọn phương án hợp lý nhất để làm tiếp, rồi kết thúc lượt. Orchestrator sẽ quyết và sửa lại nếu cần.
+- Không tạo file tạm hay file nháp trong repo, kể cả ở gốc repo. Cần file tạm (dump đoạn để đối chiếu, script tạm...) thì đặt trong `.herdr/` và xoá khi xong.
+- Câu hỏi ghi vào `progress.md` trên **một dòng** `- [#N] ...`, không xuống dòng thành ý con.
 - Không chạy `git` (add, commit, push) và không chạy `scripts/build_index.py`. Orchestrator lo việc này; panel sửa file ngoài `translations/<slug>/` (kể cả `index.json`) sẽ bị orchestrator dừng vòng lặp.
 - Câu hỏi vẫn ghi vào mục "Cần user xác nhận" trong `progress.md`, đồng thời ghi vào mục "Câu hỏi" của báo cáo.
 
