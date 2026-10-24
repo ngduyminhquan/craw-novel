@@ -513,3 +513,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | DD-wolf | DD-wolves | sói DD | quái vật | 115 | Cách gọi tắt bầy quái sói thuộc phe Quân Đội Ma Hủy Diệt (Destruction Demon) tại Kiroa |
 | Moon Wolf |  | Nguyệt Lang | chủng tộc | 117 | Chủng tộc sói ánh trăng của Công chúa Erica |
 | Blessing of the Moon Goddess |  | Chúc Phúc Của Nữ Thần Mặt Trăng | danh hiệu | 117 | Danh hiệu của Công chúa Erica |
+| Kid Dragon | Kid dragon | Thiếu Long | quái vật | 118 | Chủng tộc tiến hóa tiếp theo của Yumir từ Tiểu Long sau khi chuyển chức lần 2 (tương đương vóc dáng 7 tuổi) |

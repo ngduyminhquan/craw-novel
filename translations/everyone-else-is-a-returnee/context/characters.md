@@ -50,7 +50,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Kiana |  | Kiana | Nữ chiến binh Lang tộc chuyển chức 4 trung thành bảo vệ hoàng tộc Kiroa | 115 |
 | Melod |  | Melod | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 116 |
 | wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
-| Erica | Moon Wolf Erica | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
+| Erica | Moon Wolf Erica; Ericia | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
 
 ## Chi tiết
 
@@ -402,4 +402,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tên thật của Công chúa Lang tộc (lộ diện từ chương 117); chủng tộc Nguyệt Lang Lv 85, sở hữu danh hiệu 'Chúc Phúc Của Nữ Thần Mặt Trăng'.
 - Quan hệ: Đã bị Yu IlHan thu phục làm thuộc hạ bằng kỹ năng Thống Trị; gọi IlHan là "chủ nhân" và tuyệt đối tuân phục; cấm Flemir dùng kính ngữ với mình trước mặt IlHan.
 - Xuất hiện tính đến chương 117: Sẵn sàng dập đầu cầu xin và để IlHan dùng Thống Trị chi phối sinh mạng; cùng Flemir dẫn bầy sói đen vượt cổng về Trái Đất càn quét tàn quân sói đỏ, giúp liên quân kết thúc trận chiến.
+- Trạng thái tính đến chương 118: Cùng Flemir quỳ phục tuyên bố quy thuận IlHan trước mặt Kang MiRae và các chủ clan; được IlHan cấp phép 2 tuần và tặng trang bị Độc Nhất để dẫn 3.000 sói đen về Kiroa tái thiết nơi cư ngụ và dọn dẹp tàn dư Quân Đội Ma Hủy Diệt.
+
+### Yumir
+- Giới tính, vai trò: Nam, bé trai rồng con của Yu IlHan, nở từ quả trứng của Lecidna sau khi được IlHan truyền mana; sở hữu chủng tộc loài rồng.
+- Ngoại hình / tính cách: Tóc đen, mắt vàng kim, đáng yêu, quấn quýt bố IlHan; thông minh, học hỏi và lớn cực nhanh.
+- Trạng thái tính đến chương 118: Đạt Lv 55, tiến hóa chủng tộc thành [Thiếu Long] (vóc dáng tương đương 7 tuổi) sau khi hoàn thành chuyển chức lần 2 mà không cần làm nhiệm vụ; sở hữu [Ẩn Thân] Lv 47 và [Phong Ma Pháp Trung Cấp] Lv 39.
 

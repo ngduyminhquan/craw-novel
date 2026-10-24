@@ -122,7 +122,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | reviewed |  |
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | reviewed |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | reviewed |  |
-| 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | todo |  |
+| 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | done |  |
 | 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | todo |  |
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | todo |  |
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | todo |  |
@@ -719,3 +719,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#117] Cách dịch dòng thoại tâm linh [Slave-born-slave treatment!?!!] của Erta? → Dịch thoát ý tự nhiên là [Đãi ngộ con của nô lệ sinh ra là nô lệ đấy à!?!!] (Erta). (orchestrator)
 - [#117] Cách dịch tên chủng tộc Moon Wolf của Erica? → Dịch Hán Việt là Nguyệt Lang, thống nhất với hệ thống chủng tộc sói trong truyện. (orchestrator)
 - [#115-117] Ở chương 115 đoạn 28, Flemir gọi Yu IlHan là gì khi gào lên trong cơn quẫn bách? → Giữ kính ngữ ngài (Rốt cuộc ngài muốn làm cái gì thế hả!) để nhất quán với sự quy phục của Flemir từ chương 113–116. (orchestrator)
+- [#118] Cách dịch tên chủng tộc tiến hóa Kid dragon của Yumir? → Dịch Hán Việt là Thiếu Long, nối tiếp mạch tiến hóa Ấu Long (Baby Dragon) -> Tiểu Long (Infant Dragon) -> Thiếu Long (Kid Dragon). (orchestrator)
+- [#118] Raw chương 118 viết tên Công chúa Lang tộc là Ericia khác với Erica ở chương 117? → Giữ nguyên tên chuẩn Erica đã chốt ở chương 117 và thêm Ericia vào cột Alias trong characters.md theo rules.md. (orchestrator)

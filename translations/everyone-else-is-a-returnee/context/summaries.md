@@ -728,3 +728,9 @@ Nhận sự bái kiến tôn phục của gần một vạn cá thể sói đen 
 Nhờ kỹ năng [Tuyệt Đối Chuẩn Xác], IlHan liên tục trút mưa hàng trăm ngọn thương xương rồng tàn sát chính xác bầy sói đỏ; với sự xuất hiện của anh và Flemir, cùng việc sói chuyển chức 4 xông qua cổng trước đó đã bị nhóm Empress kích nổ bẫy thương tiêu diệt, cục diện chiến trường hoàn toàn nghiêng về phía loài người và Lang tộc đen.
 Cảnh kết thúc: Yu IlHan thong thả bước ra ngoài trận hình phòng thủ và ân cần thông báo cho Carina Malatesta cùng các dị năng giả đang ngơ ngác rằng toàn bộ bầy sói đen đã trở thành thuộc hạ của anh, khiến nụ cười và nét mặt của tất cả mọi người đông cứng lại trước khi trận chiến khép lại sau 30 phút.
 
+## 118
+Sau khi Susanoo tuyên bố bầy sói đen là thuộc hạ của mình, Kang MiRae và các chủ clan chấp thuận để 3.000 sói đen cùng Flemir và Erica rút lui về Kiroa dọn dẹp và xây dựng lại nơi cư ngụ trong 2 tuần; IlHan tặng Erica trang bị Độc Nhất rồi cùng thuộc hạ rút lui trong Ẩn Thân giữa lúc Kang MiRae tuyên bố thắng lợi, bắt đầu cuộc chiến ngoại giao/hậu cần và Kang HaJin báo tin bố họ muốn gặp anh.
+Về đến nhà, IlHan kiểm tra chỉ số của Yumir thì kinh ngạc nhận thấy con trai đã thăng lên Lv 55, tiến hóa chủng tộc thành [Thiếu Long] và [Ẩn Thân] đạt Lv 47 mà không cần trải qua nhiệm vụ chuyển chức 2.
+Nhóm IlHan ngủ ngắn 2 tiếng rồi xuống xưởng rèn giải phẫu xác quái; IlHan dùng Ngọn Lửa Vĩnh Cửu nướng thịt rồng ủ trong [Đại Thùng Thấm Đẫm Hơi Thở Của Rồng] chiêu đãi đám elf (Phiria ăn đầu tiên) khiến kỹ năng [Nấu Nướng] thăng vọt 5 cấp lên Lv 54.
+Cảnh kết thúc: Giữa lúc Liera vừa cầm đũa toan nếm thịt rồng, thiên thần Spiera truyền tin qua vòng thiên thần thông báo Quân Đội Thiên Giới quyết định phái cô xuống Trái Đất hỗ trợ ký khế ước với IlHan do các thế lực thực thể cấp cao đang có động thái đáng ngờ.
+
