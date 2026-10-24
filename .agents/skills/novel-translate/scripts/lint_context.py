@@ -7,6 +7,7 @@ LỖI (exit 1):
   - tên trong pronouns.md không khớp cột EN của characters.md
   - chương đã dịch mà summaries.md thiếu mục tóm tắt
 Cảnh báo:
+  - mục trong '## Đã loại' của glossary bị thêm lại vào bảng
   - EN viết thường từ 3 từ trở lên (thường là cụm miêu tả); đã xem và giữ thì ghi "thuật ngữ cố định" vào Ghi chú
   - kỹ năng/danh hiệu/chức nghiệp để nguyên tiếng Anh mà Ghi chú không nói "giữ nguyên"
   - VI có nhiều biến thể ngăn bằng '/' (chỉ chấp nhận khi Ghi chú nói rõ dùng biến thể nào trong ngữ cảnh nào)
@@ -47,6 +48,18 @@ def lint(novel):
         v = r.get("nhân vật", "").strip()
         if v and v.lower() not in names:
             errors.append(f"pronouns.md (người kể): '{v}' không có trong cột EN của characters.md")
+
+    # Mục đã loại: dòng "- <EN> — lý do" dưới tiêu đề "## Đã loại"
+    removed, in_removed = set(), False
+    for line in read_text(ctx / "glossary.md").splitlines():
+        if line.startswith("## "):
+            in_removed = line.startswith("## Đã loại")
+        elif in_removed and line.startswith("- "):
+            removed.add(re.split(r"\s+[—-]\s+", line[2:], maxsplit=1)[0].strip().strip("`").lower())
+    for e in entries(ctx / "glossary.md"):
+        hit = {e["en"].lower(), *(a.lower() for a in e["aliases"])} & removed
+        if hit:
+            warns.append(f"glossary: '{e['en']}' nằm trong mục 'Đã loại' (không thêm lại) — xoá dòng này khỏi bảng")
 
     summaries = read_text(ctx / "summaries.md")
     for row in load_progress(novel):
