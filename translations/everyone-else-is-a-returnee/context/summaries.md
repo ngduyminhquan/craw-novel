@@ -797,6 +797,12 @@ Không tìm thấy cánh cổng kết nối hay lông vũ thiên thần trên c�
 Tại New York, sự xuất hiện của Thế Giới Bị Bỏ Rơi thu hút toàn bộ sự chú ý của thế giới; Kang MiRae cùng Erta bí mật triệu tập các chủ clan thuộc Liên Minh Tiền Tuyến không có thiên thần hộ mệnh (như Smithson, Carina, Takagaki Asuha) vào kết giới cách ly, thông báo việc Susanoo vắng mặt và phân phát trang bị chi viện từ Vanguard cùng lực lượng trợ chiến dưới trướng Susanoo.
 Cảnh kết thúc: 19 tiếng trước khi Vỡ Hầm Ngục bùng nổ, trận chiến quy mô lớn nhất Trái Đất mở đường đưa Vanguard và các clan được lựa chọn tiến tới thiên giới chính thức khai màn.
 
+## 130
+Yu IlHan đến Venezuela, phát hiện toàn bộ cư dân bản địa từ kẻ bán buôn đến người mua sắm đều đã bị quân xâm lược dị giới chuyển chức lần 2 lột da giả dạng để hòa nhập vào Trái Đất mà khách du lịch không hề hay biết.
+Nhờ đã tàn sát hàng ngàn tên ở quần đảo trước đó, IlHan thu thập được hồ sơ trong Hồ Sơ Akashic nên phân biệt được kẻ địch với người thường; anh lập tức ra tay tàn sát hơn một ngàn tên trong 1 phút và quét sạch toàn bộ kẻ dị giới ở thủ đô lẫn bang Bolívar trong vài tiếng, thu xác vào túi đồ để chặn đứng mưu đồ phi tang bằng chứng và sát hại du khách của địch.
+Thấy mạng internet bị cắt đứt và không tìm thấy cổng thế giới trên đất liền, IlHan dùng Bát Vĩ Long Thương chứa linh hồn Orochi cắn nuốt tàn niệm để tra khảo linh hồn đám xâm lược; tàn niệm sợ hãi khai ra chúng đến từ đại đế quốc Ferata Ma Kadra của thế giới Ferata theo kế hoạch bắt tay với Quân Đội Ánh Sáng Rực Rỡ, và cánh cổng hầm ngục địa hạ được giấu kín dưới đáy Đại Tây Dương.
+Cảnh kết thúc: Quét sạch toàn bộ tàn quân Ferata lẩn trốn ở Venezuela và các vùng lân cận, IlHan lập tức lên đường tiến xuống đáy Đại Tây Dương để tiêu diệt hang ổ gốc rễ của địch trước khi tổng bộ của chúng kịp phái viện binh sang.
+
 
 
 

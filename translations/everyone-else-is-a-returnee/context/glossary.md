@@ -530,3 +530,10 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Venezuela |  | Venezuela | địa danh | 128 | Quốc gia ở Nam Mỹ nổi tiếng về người đẹp |
 | New York |  | New York | địa danh | 128 | Thành phố lớn ở Mỹ |
 | Burning Soul |  | Clan Burning Soul | tổ chức | 129 | Clan thuộc Liên Minh Tiền Tuyến phát hiện hầm ngục tại New York |
+| Ferata |  | Ferata | địa danh | 130 | Thế giới bậc thấp nơi đại đế quốc Ferata Ma Kadra khởi nguồn xâm lược Trái Đất |
+| Ferata Ma Kadra |  | Ferata Ma Kadra | tổ chức | 130 | Đại đế quốc tại thế giới Ferata liên minh với Quân Đội Ánh Sáng Rực Rỡ để xâm lăng Trái Đất |
+| Feratean | Ferateans | người Ferata | chủng tộc | 130 | Cư dân hoặc binh lính đến từ thế giới Ferata |
+| Bolívar | Bol | Bolívar | địa danh | 130 | Bang có diện tích lớn nhất của Venezuela |
+| Guyana |  | Guyana | địa danh | 130 | Quốc gia ở Nam Mỹ tiếp giáp Venezuela |
+| Brazil |  | Brazil | địa danh | 130 | Quốc gia lớn nhất Nam Mỹ tiếp giáp Venezuela |
+| Colombia | Columbia | Colombia | địa danh | 130 | Quốc gia ở Nam Mỹ tiếp giáp Venezuela |

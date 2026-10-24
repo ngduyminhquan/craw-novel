@@ -134,7 +134,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | reviewed |  |
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | reviewed |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | reviewed |  |
-| 130 |  | Chapter_130 - Invade V.txt | Invade V | todo |  |
+| 130 |  | Chapter_130 - Invade V.txt | Invade V | done |  |
 | 131 |  | Chapter_131 - Invade VI.txt | Invade VI | todo |  |
 | 132 |  | Chapter_132 - Invade VII.txt | Invade VII | todo |  |
 | 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | todo |  |
