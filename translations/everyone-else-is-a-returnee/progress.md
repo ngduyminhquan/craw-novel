@@ -143,9 +143,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | reviewed |  |
 | 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | reviewed |  |
 | 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | reviewed |  |
-| 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | done |  |
-| 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | done |  |
-| 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | done |  |
+| 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | reviewed |  |
+| 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | reviewed |  |
+| 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | reviewed |  |
 | 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | todo |  |
 | 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | todo |  |
 | 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | todo |  |
@@ -765,3 +765,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#139] Tên chủng tộc tiến hóa ở cấp 100 của Yumir "Immature Blurred dragon" và cảnh báo từ "Dragon" → Chốt dịch "Immature Blurred dragon" là "Ấu Long Mờ Nhạt" (kết hợp Ấu Long của Immature Dragon ở chương 101 và Mờ Nhạt của Blurred Lancer ở chương 13); chấp nhận cảnh báo giả của qa_check.py đối với từ "Dragon" vì các thuật ngữ trong chương đều dùng từ tố Hán Việt "Long" (Ấu Long Mờ Nhạt, Cộng Hưởng Long Nhân, Long Huyết). (orchestrator)
 - [#140] Danh hiệu 'Big and wide shadow' của Yumir — Tạm chọn: 'Quảng Đại Chi Ảnh' (Hán Việt theo quy tắc rules.md, nghĩa là bóng râm to lớn rộng mở che chở cho đồng đội). Phương án khác: 'Bóng Râm Rộng Lớn', 'Bóng Đen Rộng Lớn'. → Chốt dịch là "Quảng Đại Chi Ảnh" theo quy tắc Hán Việt ngắn gọn cho danh hiệu trong rules.md. (orchestrator)
 - [#141] Tên đôi cánh tạo tác phẩm cấp Sử Thi "Ruin Calling" — Tạm chọn: "Hiệu Triệu Diệt Vong" (phù hợp với phong cách Hán Việt trang trọng, mang dáng dấp tận thế của Ma Thú Hỏa Sơn). Phương án khác: "Tiếng Gọi Diệt Vong", "Hiệu Triệu Hủy Diệt". → Chốt dịch là "Hiệu Triệu Diệt Vong" theo quy tắc Hán Việt ngắn gọn cho tên tạo tác Sử Thi trong rules.md. (orchestrator)
+- [#139-141] Các câu hỏi review chương 139-141: sửa xưng hô của Na YuNa ở #140 đoạn 92 ("em" -> "chị"), từ ngữ thoại của Erta ở #140 đoạn 28 ("đi bợ đít" -> "đi luồn cúi") và các chỉnh sửa câu chữ ở chương 139-141 → Chấp nhận toàn bộ 8 chỉnh sửa văn bản ở chương 139-141 (sửa Na YuNa xưng "chị" ở 140:92 và Erta dùng "đi luồn cúi" ở 140:28). (orchestrator)

@@ -116,7 +116,7 @@ Kang HaJin cúi đầu nhận lỗi trước Yu IlHan.
 
 "Cậu không cần phải bận tâm đâu, đó là quyết định của chính họ mà."
 
-Kang HaJin cũng nhẹ nhõm hơn đôi chút trước câu trả lời thẳng thắn của Yu IlHan. 'Vậy sao ạ?' Cậu khẽ hỏi rồi lùi lại một bước, lên tiếng.
+Kang HaJin cũng nhẹ nhõm hơn đôi chút trước câu trả lời thẳng thắn của Yu IlHan. "Vậy sao ạ?" Cậu khẽ hỏi rồi lùi lại một bước, lên tiếng.
 
 "Tôi nghe nói những quái vật anh đang thống trị cũng bị cuốn vào chuyện này. Dù rất ngại khi phải hỏi điều này, nhưng liệu chúng tôi có thể tiếp tục tin tưởng bầy sói đó không?"
 
@@ -286,7 +286,7 @@ Quái Lực thuộc hệ cận chiến, và đương nhiên Bật Nhảy cũng t
 
 Hơn nữa, kết hợp với dòng thuộc tính thứ 3 vốn là phiên bản cường hóa từ các thuộc tính của chiếc áo choàng, tốc độ của Yu IlHan sẽ được nhân lên gấp 3 lần hoặc hơn thế nữa!
 
-[Tôi nghĩ mình phải tận mắt chứng kiến thì mới hiểu được. Thế nên trước hết chúng ta cứ... ] (Liera)
+[Tôi nghĩ mình phải tận mắt chứng kiến thì mới hiểu được. Thế nên trước hết chúng ta cứ...] (Liera)
 
 Khoảnh khắc Liera vì chưa nhận ra sức mạnh thực sự của đôi cánh mà chuẩn bị nói tiếp, thì giọng nói dồn dập của Spiera bỗng vang lên.
 

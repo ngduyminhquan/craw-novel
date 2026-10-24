@@ -54,7 +54,7 @@ Na YuNa, người cũng vừa phát hiện ra cô nàng, liền tò mò cất ti
 
 Erta tốt bụng trả lời.
 
-[Ả khốn nạn đó là kẻ phản bội trong Quân Đội Thiên Giới đi bợ đít Quân Đội Ánh Sáng Rực Rỡ. Cô bị bắt cóc cũng là do ả tiếp tay, thế mà cô lại bị lừa như một kẻ ngốc mà chẳng hề hay biết gì đúng không?] (Erta)
+[Ả khốn nạn đó là kẻ phản bội trong Quân Đội Thiên Giới đi luồn cúi Quân Đội Ánh Sáng Rực Rỡ. Cô bị bắt cóc cũng là do ả tiếp tay, thế mà cô lại bị lừa như một kẻ ngốc mà chẳng hề hay biết gì đúng không?] (Erta)
 
 "Đúng vậy ạ!"
 
@@ -182,7 +182,7 @@ Kang MiRae được họ bảo hộ và dọn sạch chiến trường bằng nh
 
 Cả nhóm tăng trưởng với tốc độ chóng mặt. Trong số đó, Yumir là người đạt chuyển chức 3 nhanh nhất trong số các thành viên chuyển chức 2, và vóc dáng lớn bổng lên trông như một cậu bé 11 tuổi thay vì 7 tuổi như trước. Mọi người chúc mừng sự trưởng thành của cậu bé với tâm trạng phức tạp vừa vui mừng lại vừa có chút tiếc nuối.
 
-"Nhưng nhóc vẫn đáng yêu là được rồi mà. Dù nếu nhóc lớn thêm nữa thì em sẽ buồn một chút đấy, nhưng vẫn ổn vì nhóc vẫn dễ thương."
+"Nhưng nhóc vẫn đáng yêu là được rồi mà. Dù nếu nhóc lớn thêm nữa thì chị sẽ buồn một chút đấy, nhưng vẫn ổn vì nhóc vẫn dễ thương."
 
 Mọi người đều đồng tình với những lời của Na YuNa. Cậu bé không phải đáng yêu vì nhỏ tuổi, mà cậu bé đáng yêu vì cậu là Yumir!
 
@@ -228,7 +228,7 @@ Những thực thể thuộc Quân Đội Ma Hủy Diệt và Quân Đội Ánh 
 
 Ngay từ đầu, chúng cứ ngỡ chỉ cần quái vật chuyển chức 4 thôi là đã quá đủ rồi, nhưng sự hiện diện của Yumir đã khiến mọi toan tính đổ bể tanh bành. Đúng vậy, tất cả mọi thứ đều đã tiêu tùng một cách triệt để và hoàn hảo.
 
-Giờ đây, chúng chỉ muốn trở về doanh trại của phe mình. Chúng cũng chẳng thể quay về vì thế giới này đã bị đóng kín. Thế nhưng, vì thế giới vẫn phong bế nghiêm ngặt, chúng chỉ đành ngoan ngoãn chờ đợi, và trong khoảng thời gian đó, nhóm Yumir đã quậy phá khắp nơi và tiêu diệt tận gốc rễ lũ quái vật khỏi Thế Giới Bị Bỏ Rơi này.
+Giờ đây, chúng chỉ muốn trở về doanh trại của phe mình. Chúng cũng chẳng thể quay về vì thế giới này đã bị đóng kín. Thế nhưng, vì thế giới vẫn phong bế nghiêm ngặt, chúng chỉ đành ngoan ngoãn chờ đợi, và trong khoảng thời gian đó, nhóm Yumir đã quậy phá khắp nơi và tiêu diệt tận gốc lũ quái vật khỏi Thế Giới Bị Bỏ Rơi này.
 
 Khi 9 tháng nữa trôi qua, thế giới cuối cùng cũng thoát khỏi trạng thái cô lập và có được khả năng kết nối với một thế giới khác.
 

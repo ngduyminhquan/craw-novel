@@ -6,7 +6,7 @@ Yu IlHan cùng Liera vội vã rời khỏi cánh cổng trở về Trái Đất
 
 [Chính vì nghe rồi nên tôi mới cuống lên thế này đây. Nhanh lên nào!] (Liera)
 
-[Dù có bực bội thì dù chúng ta có vội vàng cũng chẳng giải quyết được gì đâu.] (Spiera)
+[Dù có bực bội thì chúng ta vội vàng cũng chẳng giải quyết được gì đâu.] (Spiera)
 
 Dường như nhờ kinh nghiệm dày dặn hơn nên Spiera xử lý tình huống lý trí hơn Liera. Dẫu vậy, đôi nắm tay siết chặt của cô cho thấy cảm xúc trong lòng cô lúc này cũng chẳng khác Liera là bao!
 
@@ -62,7 +62,7 @@ Trong khi hai thiên thần đang cãi cọ vì một lý do mà Yu IlHan chẳn
 
 Yu IlHan cảm thấy tuyệt vọng.
 
-"Chết tiệt, đấy là cái động cơ rẻ rúng nhất mà đầu óc tôi có thể nghĩ ra đấy, bất ngờ thật đấy!\"
+"Chết tiệt, đấy là cái động cơ rẻ rúng nhất mà đầu óc tôi có thể nghĩ ra đấy, bất ngờ thật đấy!"
 
 [Bọn tôi cũng từng nghĩ chuyện có thể biến thành như vậy, nhưng chưa từng ngờ là nó lại thật sự diễn ra.] (Liera)
 
@@ -260,7 +260,7 @@ Ngay cả Michael Smithson của Metal Knights cũng ngoan ngoãn dẫn dắt cl
 
 "Cô muốn tôi giao lại hay không muốn thế hả?"
 
-Yu IlHan bật cười trước lời lẽ của Spiera rồi thì thầm dặn dò Layutinu trông nom nơi này. Layutinu nghiêm trang gật đầu rồi biến trở lại hình dạng chó sói.
+Yu IlHan bật cười trước lời lẽ của Spiera rồi thì thầm dặn dò Layutinu trông nom nơi này. Layutinu nghiêm trang gật đầu rồi biến trở lại hình dạng loài sói.
 
 Đó là chuyện cuối cùng. Yu IlHan nắm tay Liera trở về Hàn Quốc, anh thu dọn trang bị rồi tắm rửa sạch sẽ trước khi chìm vào giấc ngủ.
 
