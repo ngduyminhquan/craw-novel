@@ -549,3 +549,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Pentagon |  | Lầu Năm Góc | địa danh | 135 | Trụ sở Bộ Quốc phòng Hoa Kỳ, Yu IlHan nhắc tới khi nói đùa về robot khổng lồ |
 | Volcanic Demon Beast |  | Ma Thú Hỏa Sơn | quái vật | 138 | Ma thú hộ quốc cấp 267 của Đế quốc Kadra mang hỏa diễm đen |
 | Hero of Fire |  | Hỏa Chi Dũng Giả | danh hiệu | 138 | Danh hiệu đạt được khi tiêu diệt Ma Thú Hỏa Sơn (+40% kháng và tấn công thuộc tính hỏa) |
+| Immature Blurred dragon |  | Ấu Long Mờ Nhạt | quái vật | 139 | Dạng rồng tiến hóa của Yumir khi đạt cấp 100 |

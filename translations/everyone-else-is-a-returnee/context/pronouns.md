@@ -55,6 +55,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lupeta | tên thiên thần / Lupeta | 133 | Thiên thần phản bội tiếp cận cánh cổng hầm ngục |
 | Elbani | hắn / Elbani / kỵ sĩ | 134 | Kỵ sĩ chuyển chức 4 bảo vệ hoàng đế Kadra |
 | Emperor of Kadra | ông ta / hoàng đế / hoàng đế Kadra | 134 | Hoàng đế của Đế quốc Kadra |
+| Layutinu | gã / Layutinu / con sói | 139 | Chiến binh Lang tộc bảo vệ cổng tại New York |
 
 ## Giữa các nhân vật
 
@@ -223,5 +224,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elbani | Emperor of Kadra | thần / ta | Bệ hạ | 134 | Kỵ sĩ hộ vệ trung thành với hoàng đế Kadra |
 | Emperor of Kadra | Yu IlHan | ta / bọn ta | ngươi | 135 | Hoàng đế Kadra sợ hãi van xin IlHan tha mạng |
 | Yu IlHan | Emperor of Kadra | ta / tôi | ngươi / các ngươi | 135 | Yu IlHan đối đáp và trảm sát hoàng đế Kadra |
+| Layutinu | Yu IlHan | tôi | ngài / ngài Yu IlHan | 139 | Layutinu báo cáo tình hình với Yu IlHan |
+| Yu IlHan | Layutinu | tôi | cậu / Layutinu | 139 | Yu IlHan hỏi thông tin từ Layutinu |
 
 

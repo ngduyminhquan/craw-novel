@@ -59,6 +59,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lupeta |  | Lupeta | Thiên thần phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ, tiếp cận cổng không gian dưới đáy biển và bị Spiera phục kích chém làm đôi | 133 |
 | Elbani | Sir Elbani; Elbani Da Qurad | Elbani | Kỵ sĩ chuyển chức 4 mạnh nhất bảo vệ hoàng đế của Đế quốc Kadra, tự xưng là "thanh kiếm của đế quốc" | 134 |
 | Emperor of Kadra | Kadra emperor; emperor of the Kadra empire | Hoàng đế Kadra | Hoàng đế của Đế quốc Kadra tại thế giới Ferata, trốn dưới hầm ngầm, bị IlHan chém đầu | 134 |
+| Layutinu |  | Layutinu | Chiến binh Lang tộc mạnh nhất ở lại New York bảo vệ vị trí cánh cổng, nhận được chúc phúc của mặt trăng | 139 |
 
 ## Chi tiết
 
@@ -469,3 +470,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, hoàng đế của Đế quốc Kadra tại thế giới Ferata.
 - Xuất hiện tính đến chương 134–135: Ẩn náu trong hầm ngầm hoàng thành; bị nổ cụt hai chân sau vụ nổ mìn ma thạch; van xin Yu IlHan tha mạng và tiết lộ mưu đồ xâm lược Trái Đất nhằm giành lợi thế trong Cuộc Chiến Cạnh Tranh để đoạt Bẫy Hủy Diệt; đe dọa về con ma thú hộ quốc sẽ nổi điên nhưng lập tức bị Yu IlHan vung thương trảm thủ kết liễu.
 
+
+### Layutinu
+- Giới tính, vai trò: Nam, chiến binh Lang tộc thuộc hạ của Erica, kẻ mạnh nhất trong số các Lang tộc ở lại New York bảo vệ khu vực cổng không gian sau khi Yumir, Erica và Flemir xông vào.
+- Ngoại hình / đặc điểm: Nhận được chúc phúc của mặt trăng, có khả năng biến hình người; kính cẩn và trung thành báo cáo tình hình trận chiến với Yu IlHan.
+- Xuất hiện tính đến chương 139: Chờ đón Yu IlHan tại New York, kể lại toàn bộ diễn biến trận chiến chống quái vật và sự biến mất của đám người Yumir, Kang MiRae, Na YuNa.
