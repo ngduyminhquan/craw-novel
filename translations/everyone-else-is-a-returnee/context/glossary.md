@@ -507,3 +507,4 @@
 | Ymir |  | Ymir | khác | 107 | Được phép giữ nguyên: Người khổng lồ thủy tổ trong Thần thoại Bắc Âu, đọc đồng âm với Yumir |
 | Norse Mythology |  | Thần thoại Bắc Âu | khác | 107 | Thần thoại Bắc Âu |
 | Deathgod's Trajectory |  | Quỹ Đạo Tử Thần | vật phẩm | 108 | Cung Sử Thi chế tạo từ gân và vảy đen của Nguyền Long Karrows kết hợp ma thạch chuyển chức 4 |
+| Eight-tailed dragon spear |  | Bát Vĩ Long Thương | vật phẩm | 109 | Vũ khí Sử Thi rèn từ Hắc Cốt Đại Thương kết hợp tàn niệm Orochi qua Linh Hồn Phụ Ma |

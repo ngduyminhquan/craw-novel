@@ -113,7 +113,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 106 |  | Chapter_106 - I Am A Drifter of My Soul 6.txt | I Am A Drifter of My Soul 6 | reviewed |  |
 | 107 |  | Chapter_107 - I Am A Drifter of My Soul 7.txt | I Am A Drifter of My Soul 7 | reviewed |  |
 | 108 |  | Chapter_108 - I Am A Drifter of My Soul 8.txt | I Am A Drifter of My Soul 8 | reviewed |  |
-| 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | todo |  |
+| 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | done |  |
 | 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | todo |  |
 | 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | todo |  |
 | 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | todo |  |
@@ -704,3 +704,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#107] Lỗi tên "Lita" ở đoạn 5 của raw, tên tạo tác "Dragon's breath-imbued Giant Bucket" và chủng tộc "Baby Dragon" → Chốt dịch "Lita" ở đoạn 5 thành "Liera" cho khớp thời điểm sau chuyển chức lần 6; chốt "Dragon's breath-imbued Giant Bucket" → "Đại Thùng Thấm Đẫm Hơi Thở Của Rồng" (bỏ "Giant Bucket" khỏi Alias); gộp "Baby Dragon" vào Alias của "Immature Dragon" → "Ấu Long" (bỏ dấu "/" trong glossary.md). (orchestrator)
 - [#108] Tên tạo tác cung Sử Thi Deathgod's Trajectory → Chốt Deathgod's Trajectory → Quỹ Đạo Tử Thần theo quy tắc Hán Việt ngắn gọn của rules.md. (orchestrator)
 - [#106-108] Các câu hỏi review chương 106-108: viết hoa "hệ Thống Suất" (#106 đoạn 93), "sức mạnh con rồng của bạn" (#107 đoạn 87), các chỉnh sửa văn phong chương 108 và sửa alias của Deathgod's black spear trong glossary.md → Chấp nhận toàn bộ 9 chỉnh sửa văn bản ở chương 106-108 và sửa cột Alias của Deathgod's black spear trong glossary.md (bỏ dấu phẩy gây tách nhầm alias Deathgod's); bác đề xuất thêm vào rules.md và characters.md vì đã có sẵn. (orchestrator)
+- [#109] Đoạn hội thoại ăn mì ramen ở đoạn 98-100 ("You done eating?" / "Not yet!") và tạo tác "Eight-tailed dragon spear" → Sửa đoạn 99-100 về đúng nghĩa raw: đám elf mải nhìn Yumir nên khi IlHan hỏi đã ăn xong chưa thì cuống quýt đáp "Vẫn chưa ạ!" rồi lập tức ăn sạch bát mì không chừa một giọt; chốt "Eight-tailed dragon spear" → "Bát Vĩ Long Thương". (orchestrator)

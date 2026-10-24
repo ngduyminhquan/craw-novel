@@ -40,7 +40,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey |  | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất | 103 |
 | Paté | Pat | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
-| Jirl |  | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
+| Jirl | Jril | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
 | Yumir | Mir | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
@@ -142,6 +142,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 106: Nhận thưởng hoàn thành Nhiệm Vụ Thiên Giới 006 dọn sạch Daréu (toàn bộ chỉ số +5, Sức mạnh +10); học kỹ năng chủ động [Thống Trị] (cai quản tối đa 5 cấp dưới và gia tốc tăng trưởng); nhận túi đồ không gian của 12 thiên thần hy sinh ở Bức Tường Hỗn Loạn kế thừa các thuộc tính của Túi Đeo Chéo (sáp nhập kiểm soát trọng lượng vào chuyển giao trọng lượng, ngưng đọng thời gian, thu hồi từ xa); chọn chức nghiệp phụ [Kỵ Sĩ Rồng] mở khóa kỹ năng bị động [Cộng Hưởng Long Nhân] và chủ động [Long Huyết]; dùng Ngọn Lửa Vĩnh Cửu, lửa tím và Liệt Hỏa ấp nở quả trứng của Lecidna sinh ra một bé trai rồng mắt vàng tóc đen gọi anh là Bố bằng tiếng Hàn trôi chảy, phát hiện mưu đồ "lừa hôn" của Lecidna.
 - Trạng thái tính đến chương 107: Nhận nhóc con rồng làm con trai và đặt tên Yumir; dùng [Thống Trị] thu nhận bé làm cấp dưới; chế tạo [Đại Thùng Thấm Đẫm Hơi Thở Của Rồng] và phát triển công thức chế biến thịt quái vật mới từ Nấu Nướng.
 - Trạng thái tính đến chương 108: Kỹ năng Chế Tác Mana đạt cấp 50; hoàn thành giải phẫu toàn bộ rồng chuyển chức 4; chế tạo trang bị phẩm cấp Truyền Thuyết và Độc Nhất cho 4 elf cấp dưới; ngộ ra chân lý dung hợp Rèn Đúc và Chế Tác Mana, tự tay chế tạo thành công tạo tác phẩm cấp Sử Thi đầu tiên mang tên Quỹ Đạo Tử Thần từ gân, vảy và ma thạch chuyển chức 4 của Nguyền Long Karrows.
+- Trạng thái tính đến chương 109: Rèn thêm cung Truyền Thuyết cho Paté; dùng kỹ năng Thống Trị thu nhận 4 elf làm cấp dưới và giao chỉ tiêu giải phẫu 3 vạn xác Long tộc; nâng Linh Hồn Phụ Ma lên cấp 13, dung hợp tàn niệm Orochi vào Hắc Cốt Đại Thương tạo thành tạo tác Sử Thi thứ hai 'Bát Vĩ Long Thương' (sức tấn công 7.000, có thể tiến hóa); nhận cuộc gọi khẩn cấp từ Kang MiRae báo tin một hầm ngục tại Hàn Quốc đã kết nối và sáp nhập với Thế Giới Bị Bỏ Rơi gây hỗn loạn toàn diện.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -324,7 +325,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Đứa trẻ rồng (dragon-child)
 - Giới tính, ngoại hình: Nam, bé trai khoảng 2 tuổi vừa chui ra từ quả trứng vàng kim của Lecidna trong lò lửa; da trắng, mắt vàng kim, tóc đen tuyền; tiếp đất hoàn hảo 10/10.
 - Năng lực / Đặc điểm: Nói tiếng Hàn trôi chảy một cách kỳ diệu thay vì tiếng rồng hay tiếng Anh; gọi Yu IlHan là "Bố" và thừa hưởng mana cùng phong thái của IlHan.
-- Trạng thái tính đến chương 106: Được Yu IlHan ấp nở thành công bằng Ngọn Lửa Vĩnh Cửu, lửa tím và Liệt Hỏa; nhận IlHan làm bố theo lời dặn của mẹ Lecidna.
+- Trạng thái tính đến chương 106: Được Yu IlHan ấp nở thành công bằng Ngọn Lửa Vĩnh Cửu, lửa tím và Liệt Hỏa; nhận IlHan làm bố theo lời dặn của mẹ Lecidna (từ chương 107 được đặt tên là Yumir, xem chi tiết tại mục Yumir).
+
+### Yumir
+- Giới tính, vai trò: Nam, rồng con của Yu IlHan, nở từ quả trứng vàng kim của Lecidna (trước đó là Đứa trẻ rồng).
+- Tính cách / Đặc điểm: Coi Yu IlHan là bố, rất quấn quýt bố nhưng dễ xấu hổ và tự ti khi thấy bản thân còn yếu; thừa hưởng thiên phú Ẩn Thân và phong thái "Kẻ Cô Độc Toàn Vũ Trụ" của IlHan.
+- Trạng thái tính đến chương 107: Được Yu IlHan đặt tên Yumir, thu nhận làm cấp dưới qua kỹ năng Thống Trị.
+- Trạng thái tính đến chương 109: Thức giấc gặp 4 elf, vì xấu hổ tự ti nên liều mạng kích hoạt Ẩn Thân thăng vọt lên cấp 10 và mượn được một phần năng lực ẩn thân của IlHan nhờ cộng hưởng kỵ sĩ; nghe lời bố dỗ dành cố gắng rèn luyện không trốn tránh nữa.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
@@ -348,4 +355,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Phiria: Nữ elf đạo tặc Lv 83.
 - Đặc điểm chung: Đều là các chiến binh mạnh nhất vượt qua trận hỗn chiến tuyển chọn; nhờ ăn thịt theo lệnh IlHan mà cơ bắp săn chắc nhưng cả 4 người (kể cả 2 nam elf) đều sở hữu dung nhan đẹp tựa mỹ nữ; được IlHan đưa theo về Trái Đất.
 - Trạng thái tính đến chương 104: Theo chân Yu IlHan về Trái Đất, bị suy giảm sức mạnh do chênh lệch mật độ mana giữa Daréu và Trái Đất; tôn sùng IlHan là "alpha và omega", luôn miệng gọi anh là Bệ hạ / Bệ hạ Hung Bạo; được IlHan đưa về căn hộ chung cư ở Gangnam và chuẩn bị được học nếp sống Trái Đất.
+- Trạng thái tính đến chương 109: Được IlHan chiêu đãi món mì ramen ngập thịt; được IlHan kích hoạt kỹ năng Thống Trị thu nhận làm cấp dưới; bộc lộ chỉ số vượt trội và kỹ năng giải phẫu thượng thừa; tôn xưng Yumir là "Điện hạ"; nhận chỉ tiêu giải phẫu 3 vạn xác Long tộc trong xưởng rèn để đổi lấy trang bị cao cấp do IlHan tự tay chế tạo.
 

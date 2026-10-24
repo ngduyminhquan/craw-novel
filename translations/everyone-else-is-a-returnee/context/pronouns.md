@@ -155,4 +155,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | Liera | con | chị / mẹ | 107 | Ban đầu gọi Liera là chị (noona), Liera đòi gọi là mẹ |
 | Erta | Yumir | ta / tôi | nhóc / cậu bé | 107 | Erta đối thoại với Yumir |
 | Yumir | Erta | con | cô | 107 | Yumir đối thoại với Erta |
+| Mirey | Yumir | thần / tôi | Điện hạ | 109 | Mirey gọi Yumir là Điện hạ |
+| Paté | Yumir | thần / tôi | Điện hạ | 109 | Paté gọi Yumir là Điện hạ |
+| Jirl | Yumir | thần / tôi | Điện hạ | 109 | Jirl gọi Yumir là Điện hạ |
+| Phiria | Yumir | thần / tôi | Điện hạ | 109 | Phiria gọi Yumir là Điện hạ |
 

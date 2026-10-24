@@ -673,6 +673,13 @@ Yu IlHan thử nghiệm ủ thịt rồng trong máu rồng nhận ra tiềm nă
 Khi chế tạo cây cung cho Paté từ vảy và gân Karrows, IlHan ngộ ra chân lý kết hợp hoàn mỹ giữa Rèn Đúc và Chế Tác Mana; anh dùng ma thạch chuyển chức 4 của Nguyền Long Karrows tạo nên tạo tác phẩm cấp Sử Thi [Quỹ Đạo Tử Thần] và thăng cấp Chế Tác Mana lên cấp 50.
 Cảnh kết thúc: Cây cung Sử Thi sở hữu các dòng thuộc tính áp đảo (nguyền rủa, Tuyệt Đối Chuẩn Xác, 100% chí mạng lần 3, biến xác thành undead) khiến hai thiên thần kinh ngạc; IlHan thầm lên kế hoạch chuyển tàn niệm của Orochi sang Hắc Cốt Đại Thương.
 
+## 109
+Yu IlHan rèn thêm một cây cung phẩm cấp Truyền Thuyết cho Paté, rồi cùng hai thiên thần và Yumir trở về căn hộ nấu mì ramen ngập thịt cho 4 elf; anh kích hoạt kỹ năng [Thống Trị] thu nhận 4 elf làm cấp dưới và ngạc nhiên trước chỉ số vượt trội cùng kỹ năng giải phẫu thượng thừa của họ.
+Yumir tỉnh giấc, do tự ti mình còn yếu đuối nên bẽn lẽn trốn sau lưng bố và kích hoạt [Ẩn Thân] khiến kỹ năng thăng vọt lên cấp 10 và mượn được một phần năng lực ẩn thân của IlHan nhờ cộng hưởng kỵ sĩ; IlHan dỗ dành con trai và bước đầu dạy dỗ nhóc con thành công.
+IlHan đưa 4 elf về xưởng rèn, giao chỉ tiêu mổ xẻ 3 vạn xác Long tộc để đổi lấy trang bị cao cấp khiến độ trung thành của họ tăng vọt; trong khi đó, anh dùng kỹ năng [Linh Hồn Phụ Ma] chuyển tàn niệm Orochi sang Hắc Cốt Đại Thương, hoàn thành tạo tác Sử Thi thứ hai [Bát Vĩ Long Thương] (Sức tấn công 7.000, có thể tiến hóa, kích hoạt tử hỏa và chia 8 mũi thương).
+Cảnh kết thúc: IlHan nhắn tin báo cho Kang MiRae biết mình đã về Trái Đất thì cô lập tức gọi điện thất thanh thông báo một hầm ngục tại Hàn Quốc vừa kết nối với Thế Giới Bị Bỏ Rơi và sáp nhập vào Trái Đất gây hỗn loạn tột độ, khiến IlHan tự hỏi liệu sự tồn tại của chính mình trên Trái Đất có phải là nguyên nhân gây ra tai ương.
+
+
 
 
 
