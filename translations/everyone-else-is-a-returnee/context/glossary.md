@@ -516,3 +516,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Kid Dragon | Kid dragon | Thiếu Long | quái vật | 118 | Chủng tộc tiến hóa tiếp theo của Yumir từ Tiểu Long sau khi chuyển chức lần 2 (tương đương vóc dáng 7 tuổi) |
 | Great Cosmos-severing Spear |  | Đại Đoạn Vũ Trụ Thương | kỹ năng | 119 | Kỹ năng dung hợp thương cấp cao do Spiera sáng tạo sau khi chuyển chức lần 6 |
 | Whip mastery | Whip Mastery | Tiên Thuật | kỹ năng | 119 | Kỹ năng sử dụng roi, thức tỉnh ở Lv Max |
+| Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
+| Summoning magic |  | ma pháp triệu hồi | khác | 123 | Phép triệu hồi vật thể từ xa, xuyên qua cả kết giới của Đồng Hồ Cát |
+| Hell and Heaven |  | Hell and Heaven | khác | 123 | Chiêu thức tối thượng trong anime GaoGaiGar kết hợp công và thủ |

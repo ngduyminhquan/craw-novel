@@ -127,7 +127,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | reviewed |  |
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | done |  |
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | done |  |
-| 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | todo |  |
+| 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | done |  |
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | todo |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | todo |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | todo |  |
@@ -727,3 +727,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#118-120] Xưng hô của Yu IlHan với nhóm thuộc hạ elf? → Giữ đúng pronouns.md (dòng 145–152): Yu IlHan luôn xưng tôi, gọi mọi người / các cậu / cô, không xưng ta - các ngươi. (orchestrator)
 - [#121] Xưng hô giữa Yu IlHan và Kang Chan (bố của Kang MiRae): Yu IlHan xưng 'tôi', gọi Kang Chan là 'bác' trong lời thoại (gọi 'ông / Kang Chan' trong trần thuật); Kang Chan xưng 'tôi', gọi IlHan là 'cậu / cậu Yu IlHan'. Phương án tạm dùng: IlHan xưng 'tôi' - gọi 'bác' / Kang Chan xưng 'tôi' - gọi 'cậu'. → Duyệt phương án đã dùng: Yu IlHan xưng tôi - gọi bác (trong thoại) / ông (trong suy nghĩ); Kang Chan xưng tôi - gọi cậu / cậu Yu IlHan. (orchestrator)
 - [#121] Ký hiệu footnote '2' trơ trọi ở cuối câu thoại của Kang MiRae ('...moreover, I\'m only 20 years old.' 2): Lược bỏ số 2 theo rules.md về bỏ ghi chú/footnote translator. Phương án tạm dùng: Bỏ hẳn số 2. → Duyệt phương án đã dùng: Lược bỏ số footnote 2 ở cuối câu thoại theo rules.md. (orchestrator)
+- [#123] Dịch tên trang bị "Blood-calling Wolf tooth sword" thành "Kiếm Răng Sói Gọi Máu" (phương án khác: "Kiếm Răng Sói Triệu Huyết"). Tạm dùng: Kiếm Răng Sói Gọi Máu. → Duyệt phương án đã dùng: dịch là Kiếm Răng Sói Gọi Máu, nhất quán với cách đặt tên trang bị chế tác trong glossary.md (Dao Xương Gấu, Roi Da Gai Dính Hồn). (orchestrator)
+- [#123] Xưng hô Yumir gọi Erta: raw dùng "noona" (chị) thay vì "cô" như ghi chú ban đầu ở ch107. Tạm dùng: Yumir gọi "chị Erta", xưng "em/con". → Duyệt phương án đã dùng: từ chương 123 Yumir gọi Erta là chị / chị Erta, xưng em / con theo đúng từ gốc noona trong raw (ở chương 107–122 Yumir chưa từng thoại trực tiếp với Erta). (orchestrator)

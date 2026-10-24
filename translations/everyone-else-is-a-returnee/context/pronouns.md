@@ -205,5 +205,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | Yu IlHan | tôi | anh IlHan / IlHan | 122 | Sau thỏa thuận bỏ họ để xưng hô thân thiết hơn như đồng nghiệp |
 | Yumir | Kang MiRae | con / em | chị / chị MiRae | 122 | Yumir khen chị gái xinh đẹp, tốt bụng |
 | Kang MiRae | Yumir | chị | em / Yumir | 122 | Kang MiRae xoa đầu cảm ơn Yumir lo lắng cho mình |
+| Yumir | Erta | em / con | chị / chị Erta | 123 | Yumir gọi Erta là noona (chị) khi hỏi thăm sau trận đòn của Liera |
 
 

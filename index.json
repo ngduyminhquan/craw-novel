@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T02:28:30Z",
+  "generatedAt": "2026-10-24T02:39:00Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -737,6 +737,12 @@
           "title": "Chương 122: Hợp Sức Mọi Người Lại Làm Một! 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_122.md",
           "sha": "78d9f5caba8f978a4eaa3c09437f4e4b4e6c66dc"
+        },
+        {
+          "number": 123,
+          "title": "Chương 123: Hợp Sức Mọi Người Lại Làm Một! 6",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_123.md",
+          "sha": "af86a5acdba27f93188204624485fad4a7023568"
         }
       ]
     }

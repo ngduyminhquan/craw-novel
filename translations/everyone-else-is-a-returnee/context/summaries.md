@@ -757,6 +757,13 @@ Yu IlHan gặp riêng Kang MiRae tại tầng 14 tòa nhà Vanguard; hai ngườ
 Bốn ngày sau tại xưởng rèn Địa Hạ, Yumir đã thăng lên cấp 65, đám elf nâng Giải Phẫu lên cấp 65 (Phiria vượt cấp 76) hoàn tất mổ xẻ toàn bộ xác quái; IlHan thử nghiệm ủ thịt sói và thịt rồng trong máu rồng chuyển chức 3, đồng thời chuẩn bị khối kim loại khổng lồ để tập luyện [Đại Đoạn Vũ Trụ Thương] theo yêu cầu của Spiera.
 Cảnh kết thúc: Giữa lúc IlHan chuẩn bị kích hoạt kết giới 2 tháng thì Erica bất ngờ xuất hiện tại xưởng rèn xin hầu cận bên anh; IlHan vui vẻ kích hoạt Đồng Hồ Cát Vĩnh Hằng, bỏ mặc cô nàng Lang tộc ngơ ngác chuẩn bị trải nghiệm 2 tháng huấn luyện cùng mọi người.
 
+## 123
+Liera và Erta đánh giá thực lực của 6 thuộc hạ (4 elf, Yumir, Erica); Liera nhận làm sư phụ cận chiến của IlHan và tung chuỗi đòn combo đánh tơi bời Erta khi bị cà khịa, sau đó bắt đầu huấn luyện thực chiến gắt gao cho cả nhóm.
+Trong lúc Spiera quan sát và thầm thán phục vẻ đẹp lao động cùng tốc độ rèn trang bị phẩm cấp Hiếm trở lên (như Kiếm Răng Sói Gọi Máu) cứ mỗi 2 phút một món của IlHan, anh hoàn thành hơn 600 món trang bị tiêu chuẩn mới cho Vanguard sau 12 tiếng liên tục.
+Kiểm tra thùng ủ thịt và rượu Hơi Thở, IlHan phát hiện rượu có vị táo ngọt ngào do Yumir tình cờ dùng ma pháp triệu hồi lấy táo từ cửa hàng bên ngoài vào kết giới và có thể gửi trả ngược lại, mở ra khả năng tương tác vật thể xuyên kết giới.
+Cảnh kết thúc: Spiera túm lấy IlHan ném lên khối kim loại khổng lồ và giải thích nguyên lý dung hợp kiếm thuật, độn khí, tiên thuật vào thương thuật của [Đại Đoạn Vũ Trụ Thương], bắt đầu khóa huấn luyện khắc nghiệt dự kiến kéo dài 25 năm với cây thương gỗ trong sự cam chịu của IlHan.
+
+
 
 
 
