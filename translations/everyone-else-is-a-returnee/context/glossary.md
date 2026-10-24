@@ -517,21 +517,16 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Great Cosmos-severing Spear |  | Đại Đoạn Vũ Trụ Thương | kỹ năng | 119 | Kỹ năng dung hợp thương cấp cao do Spiera sáng tạo sau khi chuyển chức lần 6 |
 | Whip mastery | Whip Mastery | Tiên Thuật | kỹ năng | 119 | Kỹ năng sử dụng roi, thức tỉnh ở Lv Max |
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
-| Summoning magic |  | ma pháp triệu hồi | khác | 123 | Phép triệu hồi vật thể từ xa, xuyên qua cả kết giới của Đồng Hồ Cát |
-| Hell and Heaven |  | Hell and Heaven | khác | 123 | Chiêu thức tối thượng trong anime GaoGaiGar kết hợp công và thủ |
-| Fallen angel | Fallen angels | thiên thần sa ngã | chủng tộc | 124 | Các thiên thần phản bội gia nhập phe Quân Đội Ánh Sáng Rực Rỡ |
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
 | Destruction-calling Titan's Resonance Thunderhammer |  | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
 | Chilly Blizzard tyrant's Mixed bone Fullplate armor |  | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
 | Destruction-preventing Swift Cursed dragon Earring |  | Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy | vật phẩm | 126 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ xương rồng và ma thạch chuyển chức 3 |
 | Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |
 | Frenzied and Leisurely Lightning ruler's Dragonic bracelet |  | Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết hệ sấm sét do Yu IlHan rèn từ vảy rồng hệ lôi yêu cầu pháp sư hệ lôi chuyển chức 3 |
-| Double Thunderstorm |  | Lôi Bão Kép | khác | 126 | Mong muốn sở hữu cùng lúc hai cơn bão sấm sét của Yu IlHan |
 | Open Gate |  | Mở Cổng | khác | 127 | Năng lực kết nối thế giới hạn chế mà Yu IlHan giả định phe địch sở hữu |
 | Pure Destruction |  | Hủy Diệt Thuần Khiết | khác | 127 | Giáo lý của Quân Đội Ma Hủy Diệt |
 | South America |  | Nam Mỹ | địa danh | 128 | Lục địa Nam Mỹ |
 | Atlantic | Atlantic ocean | Đại Tây Dương | địa danh | 128 | Đại dương ngăn cách châu Mỹ với châu Âu và châu Phi |
 | Venezuela |  | Venezuela | địa danh | 128 | Quốc gia ở Nam Mỹ nổi tiếng về người đẹp |
 | New York |  | New York | địa danh | 128 | Thành phố lớn ở Mỹ |
-| Guardian Angel | Guardian angels | thiên thần hộ mệnh | chủng tộc | 129 | Thiên thần được chỉ định hỗ trợ một số dị năng giả được chọn trên Trái Đất |
 | Burning Soul |  | Clan Burning Soul | tổ chức | 129 | Clan thuộc Liên Minh Tiền Tuyến phát hiện hầm ngục tại New York |
