@@ -890,4 +890,11 @@ Erta giải thích chi tiết thể thức thi đấu tại thế giới cấp c
 Xác nhận cuộc thi không cấm quái vật hay dị giới nhân, IlHan quyết định mang theo Flemir cùng 4 elf và để bầy sói bảo vệ Seoul; anh trao cây cung Sử Thi 'Quỹ Đạo Tử Thần' cho Paté khiến các elf bừng bừng nhiệt huyết, đồng thời hứa tặng đồ Sử Thi cho Kang MiRae nhưng thẳng thừng từ chối Na YuNa.
 Cảnh kết thúc: IlHan ghé xưởng rèn làm giáp mới cho Mir và mang về một thứ bất ngờ; cả nhóm cùng Kang HaJin và Clan Lôi Thần lên đường tới New York tham gia đợt tuyển chọn.
 
+## 145
+Tại võ đài New York, nhóm Yu IlHan và Clan Lôi Thần nhanh chóng giành suất trong 1.000 người đại diện Trái Đất mà không tốn nhiều sức; trong khi các clan khác cạnh tranh khốc liệt thì Clan Ma Long, Magia và Metal Knights cũng cử lực lượng tinh anh trụ lại thành công.
+Trong 2 giờ chờ dịch chuyển, IlHan bình thản nhóm Liệt Hỏa xào cơm thịt rồng sốt Hơi Thở chiêu đãi cả nhóm ngay trên võ đài khiến các thí sinh xung quanh nuốt nước bọt thèm thuồng, đồng thời tận hưởng niềm vui ăn uống đông vui bù đắp cho quá khứ cô độc.
+Bước qua cánh cổng tới Lu Füera – thế giới cấp cao khổng lồ nóng rực do vạn vật to gấp 10 lần Trái Đất, Spiera thông báo làm giám khảo giải đấu và các thiên thần phổ biến quy chế màng bảo hộ tự hồi phục chống tử vong.
+Cảnh kết thúc: Mặc kệ mọi người căng thẳng trước ranh giới thi đấu, IlHan cùng thuộc hạ dứt khoát bước qua mở màn trận chiến; Trái Đất áp đảo giành chiến thắng 4 trận liên tiếp (trận đầu chỉ mất 7 phút) để hiên ngang tiến thẳng vào vòng chung kết.
+
+
 

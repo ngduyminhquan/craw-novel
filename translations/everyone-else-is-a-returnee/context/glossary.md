@@ -467,7 +467,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Leytna |  | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
 | Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
 | Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
-| Magic Dragon Clan | Magic Dragon clan; Magic Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
+| Magic Dragon Clan | Magic Dragon clan; Magic Dragon; Demon Dragon clan; Demon Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
 | Phoenix Clan | Phoenix Clan of France | Clan Phoenix | tổ chức | 82 | Clan dị năng giả của Pháp tham gia đợt sóng hầm ngục tại Nhật Bản |
 | Soul-sticking Spike Leather Whip |  | Roi Da Gai Dính Hồn | vật phẩm | 82 | Tạo tác roi da phẩm cấp Độc Nhất do Yu IlHan chế tạo |
 | France |  | Pháp | địa danh | 82 | Quốc gia ở châu Âu, quê hương của Clan Phoenix |
@@ -597,3 +597,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Senior |  | Bảng Cao Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 3 trở lên |
 | Lu Füera |  | Lu Füera | địa danh | 144 | Thế giới cấp cao dưới quyền Quân Đội Thiên Giới, nơi tổ chức Cuộc Chiến Cạnh Tranh |
 | Advanced Trap of Destruction | Advanced Traps of Destruction | Bẫy Hủy Diệt Cấp Cao | vật phẩm | 144 | Phiên bản Bẫy Hủy Diệt cao cấp chế tạo từ vật liệu tốt hơn, phần thưởng trong Cuộc Chiến Cạnh Tranh |
+| DMZ | Demilitarized Zone; demilitarized zone | DMZ | địa danh | 145 | Khu phi quân sự Triều Tiên (nơi rải đầy bom mìn); IlHan dùng để ví von trái tim mình đầy rẫy nỗi đau mìn nổ |
+| Boom Bubble |  | Bong Bóng Nổ | kỹ năng | 145 | Kỹ năng hoặc vật phẩm tạo bong bóng nổ bị Kang MiRae đánh bại trước khi kịp tung ra |
