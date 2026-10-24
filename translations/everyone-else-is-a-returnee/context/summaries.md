@@ -785,6 +785,12 @@ Yu IlHan suy luận Quân Đội Ma Hủy Diệt và Quân Đội Ánh Sáng R�
 IlHan giao 1/10 túi đồ cho Erta đi phân phát bí mật, lệnh Erica dẫn đàn sói trên cấp 180 xuất trận, đồng thời trang bị mũ cối và giáp hộ ngực xương rồng cho Yumir cùng nhóm elf bí mật hội quân với Erta lập công và nâng cao thực lực.
 Cảnh kết thúc: Còn lại một mình cùng Spiera và Liera, IlHan tra cứu thông tin trên mạng và chú ý đến bản tin về sự diệt vong của một quốc gia nhỏ, linh cảm đây chính là dấu vết xâm lăng của quân đội thế giới khác và thầm mong sẽ lại cứu được mọi người như những ngày đầu cầm điện thoại săn quái cùng Erta.
 
+## 128
+Yu IlHan di chuyển thần tốc từ Seoul qua Đại Tây Dương tới một quần đảo bị lãng quên ở Nam Mỹ bằng cách kết hợp Quái Lực, Bật Nhảy liên hoàn và triệu hồi khiên làm điểm tựa chân với vận tốc 6.000 km/h; dọc đường anh phác thảo bản thiết kế cánh lông vũ kim loại khắc long ngữ và ngôn ngữ elf cổ đại để tối ưu hóa khả năng bay lượn.
+Anh cũng tiết lộ đã tận dụng các dao găm gắn vảy rồng (vốn thất bại khi thử nghiệm bão sấm sét) chế tạo thành các vũ khí xạ kích di động cực mạnh có thuộc tính tự thu hồi giao cho Erta phân phát nhằm giúp con người Trái Đất hạ quái vật chuyển chức 3 và đối phó Ma Binh Hủy Diệt.
+Đến hòn đảo hoang vắng, Spiera và Liera phát hiện 29 kẻ dị giới chuyển chức lần 2 mặc giáp đang dùng kỹ năng Giải Phẫu lột da các thi thể cư dân Trái Đất để thu thập nguyên liệu cho thuật giả kim biến hình ngụy trang của phe địch.
+Cảnh kết thúc: Chứng kiến hành vi lột da đồng loại man rợ của kẻ thù, đôi mắt Yu IlHan bùng lên tia sáng lạnh lẽo; hóa thân thành Tử Thần, anh bước tới gieo rắc cái chết xuống đầu toàn bộ toán quân xâm lược.
+
 
 
 

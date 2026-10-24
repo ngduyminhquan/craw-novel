@@ -132,7 +132,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | reviewed |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | reviewed |  |
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | done |  |
-| 128 |  | Chapter_128 - Invade III.txt | Invade III | todo |  |
+| 128 |  | Chapter_128 - Invade III.txt | Invade III | done |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | todo |  |
 | 130 |  | Chapter_130 - Invade V.txt | Invade V | todo |  |
 | 131 |  | Chapter_131 - Invade VI.txt | Invade VI | todo |  |

@@ -529,3 +529,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Double Thunderstorm |  | Lôi Bão Kép | khác | 126 | Mong muốn sở hữu cùng lúc hai cơn bão sấm sét của Yu IlHan |
 | Open Gate |  | Mở Cổng | khác | 127 | Năng lực kết nối thế giới hạn chế mà Yu IlHan giả định phe địch sở hữu |
 | Pure Destruction |  | Hủy Diệt Thuần Khiết | khác | 127 | Giáo lý của Quân Đội Ma Hủy Diệt |
+| South America |  | Nam Mỹ | địa danh | 128 | Lục địa Nam Mỹ |
+| Atlantic | Atlantic ocean | Đại Tây Dương | địa danh | 128 | Đại dương ngăn cách châu Mỹ với châu Âu và châu Phi |
+| Venezuela |  | Venezuela | địa danh | 128 | Quốc gia ở Nam Mỹ nổi tiếng về người đẹp |
+| New York |  | New York | địa danh | 128 | Thành phố lớn ở Mỹ |
