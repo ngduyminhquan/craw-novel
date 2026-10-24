@@ -691,3 +691,9 @@ IlHan ngậm ngùi nhận ra mình không còn nhận được điểm kinh nghi
 Nhìn thấy quái vật chuyển chức 3 là Đại Hắc Lang Lv 161 nhảy vọt qua hàng rào toan tập kích liên quân, IlHan dùng Atlatl phóng lao xương rồng xuyên đầu hạ gục nó trong chớp mắt trước sự ngỡ ngàng của mọi người.
 Cảnh kết thúc: Mặc dù IlHan thất vọng vì con quái chỉ là quái tép riu, hình ảnh Susanoo có thể một đòn kết liễu quái vật chuyển chức 3 đã in sâu vào tâm trí tất cả các dị năng giả trên chiến trường.
 
+## 112
+Erta báo cáo thông tin do thám từ Feyta về Thế Giới Bị Bỏ Rơi bị sụp đổ sau Đại Tai Biến lần 2; Liera bất ngờ bế Yumir tới chiến trường do nhóc nằng nặc đòi gặp bố, tận dụng môi trường hỗn chiến để cày cấp [Ẩn Thân].
+Yumir chủ động xin săn quái; được bố hướng dẫn và truyền lực, nhóc bắn đạn phong ma pháp nhất kích tất sát quái vật chuyển chức 2, lập tức thăng lên cấp 17 và tiến hóa thành [Tiểu Long] (thể hình lớn lên tương đương 4–5 tuổi), đồng thời kích hoạt thiên phú [Thống Trị Mana] tích trữ toàn bộ mana dồn ứ sau các đợt thăng cấp.
+Tiếp tục nhắm vào quái vật chuyển chức 3 (sói đen cấp trên 120), Yumir nén đạn ma pháp bắn xuyên đầu hạ gục mục tiêu, thăng vọt lên cấp 31 còn [Thống Trị Mana] lên cấp 20 mở khóa khả năng đoạt mana ma pháp của kẻ khác.
+Cảnh kết thúc: Giữa lúc IlHan hào hứng định giúp con trai chuyển chức 2 thì một người đàn ông tóc đen tỏa khí tức quái vật chuyển chức 4 lao ra từ cổng hầm ngục, bất ngờ quỳ rạp dập đầu bằng tiếng rồng cầu xin đấng rồng tối cao thứ lỗi và cứu giúp đồng loại.
+

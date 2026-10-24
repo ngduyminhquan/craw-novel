@@ -335,6 +335,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách / Đặc điểm: Coi Yu IlHan là bố, rất quấn quýt bố nhưng dễ xấu hổ và tự ti khi thấy bản thân còn yếu; thừa hưởng thiên phú Ẩn Thân và phong thái "Kẻ Cô Độc Toàn Vũ Trụ" của IlHan.
 - Trạng thái tính đến chương 107: Được Yu IlHan đặt tên Yumir, thu nhận làm cấp dưới qua kỹ năng Thống Trị.
 - Trạng thái tính đến chương 109: Thức giấc gặp 4 elf, vì xấu hổ tự ti nên liều mạng kích hoạt Ẩn Thân thăng vọt lên cấp 10 và mượn được một phần năng lực ẩn thân của IlHan nhờ cộng hưởng kỵ sĩ; nghe lời bố dỗ dành cố gắng rèn luyện không trốn tránh nữa.
+- Trạng thái tính đến chương 112: Được Liera đưa tới hiện trường Vỡ Hầm Ngục; dùng đạn phong ma pháp hạ quái vật chuyển chức 2 rồi chuyển chức 3 (sói đen cấp >120); thăng vọt lên cấp 31, tiến hóa thành Tiểu Long (thể hình lớn lên tương đương 4–5 tuổi), kỹ năng Ẩn Thân đạt cấp 30 và Thống Trị Mana đạt cấp 20 (mở khóa khả năng chiếm đoạt mana từ ma pháp kẻ khác).
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

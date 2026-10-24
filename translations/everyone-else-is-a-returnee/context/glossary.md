@@ -515,3 +515,4 @@
 | Great Chain Lightning |  | Đại Lôi Dây Chuyền | kỹ năng | 111 | Ma pháp lôi hệ cấp cao của Carina Malatesta |
 | Concentrate magic |  | Ma pháp Tụ Lực | kỹ năng | 111 | Ma pháp liên kết của clan Magia dồn mana các pháp sư vào ma thạch để Carina phóng thích |
 | Great Dark Wolf |  | Đại Hắc Lang | quái vật | 111 | Quái vật sói chuyển chức 3 cấp 161 từ Thế Giới Bị Bỏ Rơi xông ra cổng hầm ngục |
+| Infant Dragon |  | Tiểu Long | quái vật | 112 | Chủng tộc / chức nghiệp tiến hóa của Yumir từ Baby Dragon (thể hình lớn lên tương đương 4–5 tuổi) |

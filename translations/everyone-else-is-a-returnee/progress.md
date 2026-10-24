@@ -116,7 +116,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 109 |  | Chapter_109 - I Am A Drifter of My Soul 9.txt | I Am A Drifter of My Soul 9 | reviewed |  |
 | 110 |  | Chapter_110 - I’m the Master of Your Lives 1.txt | I’m the Master of Your Lives 1 | reviewed |  |
 | 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | reviewed |  |
-| 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | todo |  |
+| 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | done |  |
 | 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | todo |  |
 | 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | todo |  |
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | todo |  |
@@ -367,8 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -708,3 +706,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#110] Tiêu đề arc "I'm the Master of Your Lives", lỗi chính tả "counter" ở đoạn 78 của raw và các thuật ngữ mới → Chốt tiêu đề arc "Ta Là Chủ Nhân Sinh Mệnh Các Ngươi" (thống nhất cho các chương trong arc); chấp nhận dịch "your counter" ở đoạn 78 thành "đất nước của cô" (lỗi gõ phím của raw EN cho "country"); chốt "Front Line Alliance" → "Liên Minh Tiền Tuyến", "Bump Clan" → "Clan Bump", "Caycicle Clan" → "Clan Caycicle". (orchestrator)
 - [#111] Thuật ngữ "Concentrate magic" của clan Magia và các kỹ năng/quái vật mới → Chốt "Concentrate magic" → "Ma pháp Tụ Lực" (đổi cột EN từ "Concentrate" thành "Concentrate magic" theo đúng raw dòng 124 và để không gây cảnh báo giả ở chương 45); chốt "Gigantic Thunder" → "Cự Lôi", "Great Chain Lightning" → "Đại Lôi Dây Chuyền", "Great Dark Wolf" → "Đại Hắc Lang". (orchestrator)
 - [#109-111] Các câu hỏi review chương 109-111: sửa "ghi chép" và "thực thể trong điển tích" (#109 đoạn 156), đại từ "chúng tôi" (#110 đoạn 79), "Clan Lôi Thần" và "kẻ siêu bá đạo" (#111 đoạn 61, 94), đề xuất thêm Joint magic vào glossary.md → Chấp nhận toàn bộ 5 chỉnh sửa văn bản ở chương 109-111; bác đề xuất thêm cụm từ chung Joint magic vào glossary.md và bác cập nhật trùng lặp trong characters.md. (orchestrator)
+- [#112] Chủng tộc / tiến hóa "Infant Dragon" của Yumir — Tạm chọn: "Tiểu Long". Lý do: Chương 101 và 107 đã dùng "Ấu Long" cho "Immature Dragon" và "Baby Dragon" (giai đoạn rồng sơ sinh thể hình 2 tuổi). Ở chương 112, Yumir tiến hóa từ Baby Dragon thành "Infant Dragon" với thể hình lớn lên tương đương 4–5 tuổi. Chọn "Tiểu Long" để phân biệt rõ với giai đoạn sơ sinh trước đó. Phương án khác: "Nhi Long", "Ấu Long (giữ nguyên)". → Chọn Tiểu Long để phân biệt rõ với giai đoạn sơ sinh Ấu Long (Baby Dragon / Immature Dragon) trước đó khi Yumir tiến hóa lên thể hình 4-5 tuổi. (orchestrator)
