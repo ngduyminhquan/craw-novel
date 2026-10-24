@@ -40,7 +40,7 @@ Tất cả mọi người, bao gồm Yu IlHan vừa trải qua khối lượng l
 
 Vì một ngày chỉ có mỗi bữa này là xong, ai nấy đều cật lực nhét đầy dạ dày bằng thịt, rượu, cơm và bánh mì.
 
-Đặc biệt là vương tộc Lang tộc, Erica, trông còn dữ dội hơn cả đám elf đã được Yu IlHan 'cải tạo' sang thói quen ăn thịt, khi ăn cô vứt bỏ hết phẩm giá hoàng tộc, đôi tai giật giật đầy sung sướng trong lúc nhét đầy mồm cho đến khi no căng bụng.
+Đặc biệt là vương tộc Lang tộc, Erica, trông còn dữ dội hơn cả đám elf đã được Yu IlHan 'cải tạo' sang thói quen ăn thịt; lúc ăn cô vứt bỏ hết phẩm giá hoàng tộc, đôi tai giật giật đầy sung sướng trong lúc nhét đầy mồm cho đến khi no căng bụng.
 
 "Chủ nhân, dù bề ngoài chúng tôi có giống con người đến đâu thì rốt cuộc chúng tôi vẫn là quái vật. Mà quái vật là những chủng tộc mạnh lên nhờ ăn thịt đồng loại. Đây là phương pháp nhằm giữ cho tổng thể sức mạnh của cả tộc không bị suy giảm hết mức có thể, đồng thời là bản năng đã khắc sâu vào hầu như toàn bộ loài quái vật."
 
@@ -176,7 +176,7 @@ Lũ khốn đó đang có mặt trên Trái Đất. Nhìn xuống toàn bộ mu�
 
 'Erta và Liera quá đỗi thuần khiết nên không mảy may nghi ngờ nhiều. Nhưng mình thì khác.'
 
-Đại đa số tuyệt đối các thực thể cấp cao đều không thể sử dụng quyền năng của mình ở một thế giới bậc thấp. Thế nhưng, có một trường hợp duy nhất mà quy tắc đó bị gạt sang một bên.
+Tuyệt đại đa số các thực thể cấp cao đều không thể sử dụng quyền năng của mình ở một thế giới bậc thấp. Thế nhưng, có một trường hợp duy nhất mà quy tắc đó bị gạt sang một bên.
 
 Họ có thể sử dụng quyền năng khi phát hiện ra một kẻ phản bội trong cùng thế lực, và chỉ nhằm mục đích trừng phạt kẻ phản bội đó. Để bảo vệ ghi chép của thế lực mình, mọi thực thể cấp cao đều sẽ trở thành người trừng phạt.
 

@@ -10,7 +10,7 @@ Thế nhưng, nếu cấp độ quyết định tất cả, thì Yu IlHan đã c
 
 Yumir, có lẽ do thừa hưởng hơi bị nhiều thiên phú từ người bố của mình, nên tăng cấp kỹ năng nhanh nhất, trong đó cao nhất là Ẩn Thân đã chạm tới cấp 70.
 
-Vì chẳng ai trong số các thuộc hạ của Yu IlHan có thể tìm ra cậu bé nếu nhóc đã quyết định ẩn thân đàng hoàng, nên khi đấu tập, họ luôn cố bắt được cậu trước khi cậu tiến vào trạng thái ẩn thân, thế nhưng kết quả là trượt mất và bị hạ đo ván bằng một phát đạn gió bắn thẳng vào lưng. Kể cả khi tất cả bọn họ cùng hợp lực đấu với nhóc thì kết cục cũng chẳng khác là bao.
+Vì chẳng ai trong số các thuộc hạ của Yu IlHan có thể tìm ra Yumir một khi cậu bé đã quyết định ẩn thân đàng hoàng, nên khi đấu tập, họ luôn cố bắt được cậu trước khi cậu tiến vào trạng thái ẩn thân, thế nhưng kết quả là đều trượt và bị hạ đo ván bằng một phát đạn gió bắn thẳng vào lưng. Kể cả khi tất cả bọn họ cùng hợp lực đấu với cậu thì kết cục cũng chẳng khác là bao.
 
 "Dù là Hoàng tử Điện hạ thì chúng ta cũng không thể thua dễ dàng thế này được."
 
@@ -64,7 +64,7 @@ Mặt khác, đám elf vừa không thể tăng chỉ số bằng thịt sói ha
 
 Và dĩ nhiên, Yu IlHan cũng ảnh hưởng đến sự phát triển của các thuộc hạ. Nói chính xác thì đó là kỹ năng Thống Trị của anh. Các thuộc hạ càng nung nấu ý nghĩ muốn trở nên mạnh hơn vì Yu IlHan, thì hiệu ứng của kỹ năng Thống Trị lại càng được khuếch đại.
 
-Yu IlHan từng nghĩ rằng Erica sẽ không thật lòng đi theo anh từ tận đáy lòng, nhưng sự thật cũng chẳng phải như vậy.
+Yu IlHan từng nghĩ rằng Erica sẽ không thật tâm đi theo anh từ tận đáy lòng, nhưng sự thật cũng chẳng phải như vậy.
 
 Không chỉ loài rồng mà phần lớn quái vật đều tôn sùng sức mạnh, thế nên việc Erica bị hớp hồn trước năng lực của Yu IlHan là điều hoàn toàn tự nhiên, và chuyện Yu IlHan đem toàn bộ thịt Lang tộc cho cô cũng góp phần khơi dậy lòng trung thành của cô đối với anh.
 
@@ -206,7 +206,7 @@ Chế Tác Mana cũng tương tự như vậy. Thay vì nhấn mạnh vào một
 
 [Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt đã được hoàn thành.]
 
-Thành quả thu về vô cùng rực rỡ. Cả roi lẫn búa đều được hoàn thành ở phẩm cấp Truyền Thuyết, và đúng như mong muốn của Yu IlHan, bản thân chúng đều là những vũ khí tuyệt hảo đạt gần tới độ hoàn mỹ. Trên hết, anh hài lòng vì đã có một đòn bất ngờ xuất hiện.
+Thành quả thu về vô cùng rực rỡ. Cả roi lẫn búa đều được hoàn thành ở phẩm cấp Truyền Thuyết, và đúng như mong muốn của Yu IlHan, bản thân chúng đều là những vũ khí tuyệt hảo đạt gần tới độ hoàn mỹ. Trên hết, anh hài lòng vì có thêm một hiệu ứng đòn đánh bất ngờ ngoài dự kiến.
 
 Dĩ nhiên, món khiến anh hài lòng hơn cả chính là cây búa.
 

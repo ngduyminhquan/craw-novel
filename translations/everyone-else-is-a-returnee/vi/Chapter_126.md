@@ -16,7 +16,7 @@ Nếu chuyển động cơ thể của Yu IlHan chỉ cần lệch đi một ch�
 
 [Dù cậu có lột sạch thì cũng bổ mắt mà.] (Liera)
 
-"Việc đó sẽ gây chấn thương cả về thể xác lẫn tinh thần nên miễn đi nhé. Để ngăn những tình huống không thể phát sóng như thế xảy ra, tôi đang mặc một lớp giáp da cơ bản bên trong rồi mới mặc đại khải bên ngoài đây.
+"Việc đó sẽ gây chấn thương cả về thể xác lẫn tinh thần nên miễn đi nhé. Để ngăn những tình huống không thể phát sóng như thế xảy ra, tôi đang mặc một lớp giáp da cơ bản bên trong rồi mới mặc đại khải bên ngoài đây."
 
 Nếu một người phụ nữ xinh đẹp cởi sạch đồ, thì bất kỳ người đàn ông bình thường nào cũng sẽ hoan nghênh, nhưng dù Yu IlHan có lột sạch thì cũng chẳng ai muốn nhìn đâu. Dù thế giới chẳng làm được gì cho anh, anh cũng không muốn gây tổn hại gì cho thế giới.
 
@@ -252,11 +252,11 @@ Họ vẫn hoàn toàn bình thường khi ở bên trong xưởng rèn nơi kh�
 
 "Hóa ra thời gian thực sự đã ngưng đọng... Chủ nhân thật phi thường."
 
-"Không phải sức mạnh của tôi mà là từ một món tạo tác thôi, nên các người thả lỏng đôi mắt ra ngay đi."
+"Không phải sức mạnh của tôi mà là từ một món tạo tác thôi, nên mọi người thả lỏng mắt ra ngay đi."
 
 Vì họ không phải là một Yu IlHan từng chịu đựng suốt một nghìn năm trên Trái Đất đóng băng, nên trông họ vô cùng khó chịu trước sự lệch pha của hai tháng trời. Yu IlHan chẳng thể nào hiểu nổi họ nên nghiêng đầu bối rối, và Yumir, người duy nhất hoàn toàn bình thường trong số các thuộc hạ, cũng nghiêng đầu bắt chước theo bố.
 
-"Tốt nhất là các người nên từ bỏ ý định tìm hiểu đi. Cứ chấp nhận nó như vốn có là được rồi."
+"Tốt nhất là mọi người nên từ bỏ ý định tìm hiểu đi. Cứ chấp nhận nó như vốn có là được rồi."
 
 "Bệ hạ thật tuyệt vời!"
 
@@ -278,7 +278,7 @@ Có lẽ do không còn mải chơi game chăng? Cô cũng là người nhanh nh
 
 [Hở? Cô nói đúng rồi đấy! Tính theo thời gian Trái Đất thì biến cố ở Kiroa trôi qua chưa đầy 10 ngày nữa là! ..... Ôi chết tiệt, tôi thua rồi!] (Liera)
 
-Liera, người phản ứng nhanh thứ nhì trước tin tức khẩn trên mạng lưới thiên thần, vừa bại trận trước Spiera trong màn đua xe. Trong khi đó, Spiera, người luôn giữ được cái đầu lạnh trong bất kỳ hoàn cảnh nào và vừa giành chiến thắng trong trò chơi, tắt máy chơi game rồi lên tiếng.
+Liera, người phản ứng nhanh thứ nhì trước tin tức khẩn trên mạng lưới thiên thần, vừa bại trận trước Spiera trong màn đua xe. Trong khi đó, Spiera, người luôn giữ được cái đầu lạnh trong bất kỳ hoàn cảnh nào và vừa giành chiến thắng trong trò chơi, dừng trò chơi rồi lên tiếng.
 
 [Chẳng phải chuyện này đã được tiên liệu từ trước rồi sao? Những gì Quân Đội Ma Hủy Diệt nói với cậu hẳn không phải là lời dối trá. Giờ đây khi Trái Đất đang chuyển biến vô cùng cực đoan, cậu cứ nghĩ rằng từ giờ cho tới Đại Tai Biến lần 2 sẽ còn ít nhất hai lần sự cố như thế này nữa xảy ra thì tâm lý sẽ nhẹ nhàng hơn nhiều đấy. Lẽ dĩ nhiên là sẽ không có thế giới nào sở hữu chiến lực áp đảo như Daréu đâu.] (Spiera)
 

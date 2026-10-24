@@ -128,9 +128,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | reviewed |  |
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | reviewed |  |
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | reviewed |  |
-| 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | done |  |
-| 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | done |  |
-| 126 |  | Chapter_126 - Invade I.txt | Invade I | done |  |
+| 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | reviewed |  |
+| 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | reviewed |  |
+| 126 |  | Chapter_126 - Invade I.txt | Invade I | reviewed |  |
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | todo |  |
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | todo |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | todo |  |
@@ -738,3 +738,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#126] Dịch từ Dragonic trong tên tạo tác Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ và Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong? → Duyệt phương án đã dùng: dịch Dragonic trong tên tạo tác là Long Linh để phân biệt với chủng tộc Long tộc (dragonkin). (orchestrator)
 - [#126] Cách dịch kỹ năng/hiệu ứng Double Thunderstorm? → Duyệt phương án đã dùng: dịch Hán Việt ngắn gọn là Lôi Bão Kép theo rules.md. (orchestrator)
 - [#126] Xử lý ghi chú (E/N: He's throwing a tantrum….) ở đoạn 104? → Duyệt phương án đã dùng: lược bỏ (E/N: ...) theo rules.md và giữ giọng nói nhõng nhẽo ăn vạ của Yu IlHan. (orchestrator)
+- [#124-126] Đoạn 126:127 và 126:129 sửa xưng hô của Yu IlHan với nhóm thuộc hạ thế nào? → Sửa từ các người thành mọi người, đồng thời bổ sung quy tắc vào phần Riêng truyện này của rules.md để các chương sau không tái phạm. (orchestrator)
+- [#124-126] Đoạn 126:38 sửa từ tiếng Anh and còn sót thế nào? → Sửa Liera and Spiera thành Liera và Spiera. (orchestrator)
+- [#124-126] Đoạn 125:104 diễn đạt lại cụm an unexpected blow thế nào? → Sửa thành có thêm một hiệu ứng đòn đánh bất ngờ ngoài dự kiến cho rõ nghĩa tính năng của vũ khí. (orchestrator)

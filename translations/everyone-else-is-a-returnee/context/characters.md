@@ -318,6 +318,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 119: Đích thân hạ giới xuống Trái Đất lập khế ước với Yu IlHan sau khi Chiến Tranh Bức Tường Hỗn Loạn kết thúc; giải thích cơ chế tiến hóa dung hợp và truyền dạy kỹ năng độc môn Đại Đoạn Vũ Trụ Thương (yêu cầu tinh thông Thương Thuật, Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật); bị sốc nặng và rơi vào thế hạ phong khi IlHan lập tức thức tỉnh Tiên Thuật Lv Max chỉ bằng một cái vung roi.
 - Trạng thái tính đến chương 120: Giải thích điều kiện tu luyện [Đại Đoạn Vũ Trụ Thương] và đề xuất dùng Đồng Hồ Cát Vĩnh Hằng; liên tục rút ngắn thời gian dự tính từ 30 năm xuống 25 năm sau khi thấy IlHan tinh chỉnh chuyển động các loại vũ khí; hết lời thán phục khi thấy IlHan một mình gánh vác Trái Đất.
 - Trạng thái tính đến chương 124: Trực tiếp hướng dẫn IlHan luyện Đại Đoạn Vũ Trụ Thương trong kết giới; mang nhiệm vụ ngầm theo dõi các thiên thần và truy lùng những kẻ phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ trên Trái Đất; ngỡ ngàng khi IlHan lĩnh ngộ bước đầu tiên (dung hợp kiếm thuật vào thương) chỉ sau nửa tháng.
+- Trạng thái tính đến chương 125–126: Huấn luyện Đại Đoạn Vũ Trụ Thương cho Yu IlHan; mang trọng trách ngầm theo dõi các thiên thần và truy lùng những kẻ phản bội thuộc phe Quân Đội Ánh Sáng Rực Rỡ trên Trái Đất; dự báo các Thế Giới Bị Bỏ Rơi sẽ tiếp tục kết nối với Trái Đất trước Đại Tai Biến lần 2.
 
 ### Michael Smithson
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
@@ -359,6 +360,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 118: Đạt Lv 55, tiến hóa chủng tộc thành [Thiếu Long] (vóc dáng tương đương 7 tuổi) sau khi hoàn thành chuyển chức lần 2 mà không cần làm nhiệm vụ; sở hữu [Ẩn Thân] Lv 47 và [Phong Ma Pháp Trung Cấp] Lv 39.
 - Trạng thái tính đến chương 120: Đạt cấp độ trên 60 sau khi cùng Liera và Erta dọn dẹp các hầm ngục lân cận; tiếp tục rèn luyện Ẩn Thân, Phong Ma Pháp Trung Cấp và chuẩn bị bước vào 2 tháng rèn luyện trong kết giới cùng bố.
 - Trạng thái tính đến chương 122–123: Đạt cấp độ 65; được Erta hướng dẫn học ma pháp triệu hồi xuyên kết giới Đồng Hồ Cát Vĩnh Hằng; vô tình tạo ra rượu táo pha máu rồng.
+- Trạng thái tính đến chương 124–126: Đạt Ẩn Thân cấp 70, Cận Chiến cấp 60, thi pháp phong hệ không cần niệm chú; ăn thịt rồng để gia tăng vĩnh viễn cấp độ và chỉ số; dễ dàng áp đảo toàn bộ thuộc hạ của IlHan trong đấu tập.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
@@ -422,6 +424,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 122–123: Trở về phục vụ IlHan ngay trước thời điểm kích hoạt kết giới; bắt đầu khóa huấn luyện chiến đấu 2 tháng dưới trướng Liera.
 - Trạng thái tính đến chương 124: Tiết lộ bản năng ăn thịt đồng loại của quái vật giúp tăng vĩnh viễn chỉ số, mana và cấp bậc; được IlHan giao quyền tiêu thụ toàn bộ hơn 10 vạn thịt sói trong túi đồ; hoàn toàn khâm phục và trung thành tuyệt đối với IlHan.
 - Trạng thái tính đến chương 125: Đạt cấp 98 sau gần 2 tháng khổ luyện và ăn thịt sói trong kết giới, là thuộc hạ cấp độ cao nhất của IlHan; tận tâm phục vụ với hy vọng được ban tặng trang bị phẩm cấp Truyền Thuyết.
+- Trạng thái tính đến chương 126: Gọi Yumir là "thiếu chủ"; trung thành tuyệt đối với IlHan và nỗ lực bảo vệ vị thế thuộc hạ cấp cao nhất.
 
 ### Kang Chan
 - Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.
