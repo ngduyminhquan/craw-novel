@@ -827,6 +827,13 @@ IlHan búng tay đưa cả chùm mìn và lựu đạn ma thạch cấp 4 vào h
 Khi anh dùng roi nhắm vào hoàng đế, kỵ sĩ mạnh nhất Elbani (trên cấp 250) dùng võ kỹ người thủ hộ tóm roi phá tan Ẩn Thân của IlHan, lôi anh lại gần và tung đòn cùi chỏ cực mạnh đánh nứt giáp ngực hất văng anh ra xa.
 Cảnh kết thúc: Mất đi hiệu ứng Ẩn Thân và kỹ năng Tử Thần, Yu IlHan cất roi rút trường thương, sẵn sàng bước vào trận khổ chiến ngang tài ngang sức với vị kỵ sĩ cuối cùng của đế quốc.
 
+## 135
+Yu IlHan kịch chiến với kỵ sĩ chuyển chức 4 Elbani Da Qurad (Lv 257); anh tận dụng tâm lý chiến và đòn Bất Khả Họa Quỹ Đạo Thương vô hình xé toạc cổ đối phương, kích hoạt hiệu ứng sương kịch độc của Bát Vĩ Long Thương kết liễu Elbani và thu về hơn 23,8 tỷ điểm kinh nghiệm.
+Trước khi bị xử trảm, Hoàng đế Kadra hé lộ chân tướng vụ xâm lược: Đế quốc Kadra muốn cướp Bẫy Hủy Diệt thông qua Cuộc Chiến Cạnh Tranh trước thềm Đại Tai Biến lần 3, đồng thời cảnh báo ma thú hộ quốc sẽ nổi điên nếu ông ta chết; Yu IlHan lập tức trảm thủ hoàng đế không chút do dự.
+Tiếng gầm mang sức mạnh khủng khiếp của ma thú thức tỉnh từ xa khiến quân kỵ sĩ kéo đến viện binh phải khựng lại.
+Cảnh kết thúc: Dù ngao ngán trước sự hèn hạ của hoàng tộc Kadra, Yu IlHan quyết định nhận trách nhiệm tiêu diệt ma thú để bảo vệ những người vô tội, bình thản chuẩn bị bước vào cuộc chiến mới.
+
+
 
 
 

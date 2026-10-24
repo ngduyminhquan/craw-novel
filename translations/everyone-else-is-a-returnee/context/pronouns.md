@@ -54,6 +54,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Festo | gã / Festo | 133 | Kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra |
 | Lupeta | tên thiên thần / Lupeta | 133 | Thiên thần phản bội tiếp cận cánh cổng hầm ngục |
 | Elbani | hắn / Elbani / kỵ sĩ | 134 | Kỵ sĩ chuyển chức 4 bảo vệ hoàng đế Kadra |
+| Emperor of Kadra | ông ta / hoàng đế / hoàng đế Kadra | 134 | Hoàng đế của Đế quốc Kadra |
 
 ## Giữa các nhân vật
 
@@ -218,5 +219,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lupeta | Spiera | ngươi / ta | ngươi / cô | 133 | Lupeta kinh ngạc khi bị Spiera phục kích |
 | Elbani | Yu IlHan | ta | ngươi | 134 | Elbani bảo vệ hoàng đế giao chiến với Yu IlHan |
 | Yu IlHan | Elbani | ta / tôi | ngươi | 134 | Yu IlHan đối đáp với Elbani |
+| Emperor of Kadra | Elbani | ta | ngài Elbani / Elbani | 135 | Hoàng đế gọi kỵ sĩ hộ vệ |
+| Elbani | Emperor of Kadra | thần / ta | Bệ hạ | 134 | Kỵ sĩ hộ vệ trung thành với hoàng đế Kadra |
+| Emperor of Kadra | Yu IlHan | ta / bọn ta | ngươi | 135 | Hoàng đế Kadra sợ hãi van xin IlHan tha mạng |
+| Yu IlHan | Emperor of Kadra | ta / tôi | ngươi / các ngươi | 135 | Yu IlHan đối đáp và trảm sát hoàng đế Kadra |
 
 

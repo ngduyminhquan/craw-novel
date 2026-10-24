@@ -57,7 +57,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Kut'sach Yi Zeta | Zeta | Kut'sach Yi Zeta | Hiệp sĩ chuyển chức 3 Lv 101 của quân đoàn Kadra bị Yu IlHan kết liễu | 131 |
 | Festo |  | Festo | Kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra, đệ tử của kiếm sĩ trung niên; bị Yu IlHan gài mìn ma thạch nổ trọng thương rồi chém đầu tại hoàng thành Pajin Meccadira | 133 |
 | Lupeta |  | Lupeta | Thiên thần phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ, tiếp cận cổng không gian dưới đáy biển và bị Spiera phục kích chém làm đôi | 133 |
-| Elbani | Sir Elbani | Elbani | Kỵ sĩ chuyển chức 4 mạnh nhất bảo vệ hoàng đế của Đế quốc Kadra, tự xưng là "thanh kiếm của đế quốc" | 134 |
+| Elbani | Sir Elbani; Elbani Da Qurad | Elbani | Kỵ sĩ chuyển chức 4 mạnh nhất bảo vệ hoàng đế của Đế quốc Kadra, tự xưng là "thanh kiếm của đế quốc" | 134 |
+| Emperor of Kadra | Kadra emperor; emperor of the Kadra empire | Hoàng đế Kadra | Hoàng đế của Đế quốc Kadra tại thế giới Ferata, trốn dưới hầm ngầm, bị IlHan chém đầu | 134 |
 
 ## Chi tiết
 
@@ -168,6 +169,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 127–129: Di chuyển bằng cách phối hợp Quái Lực, Bật Nhảy liên hoàn và triệu hồi khiên làm điểm tựa chân với vận tốc 6.000 km/h; phác thảo bản thiết kế cánh lông vũ kim loại kết hợp long ngữ và ngôn ngữ elf cổ đại; tận dụng dao găm gắn vảy rồng chế tạo vũ khí xạ kích di động chi viện cho Trái Đất; quét sạch quân xâm lược lột da của thế giới khác trên hơn 10 hòn đảo Nam Mỹ (hạ 7 kẻ chuyển chức 3 và 2.900 tên chuyển chức 2), thu toàn bộ xác nạn nhân lẫn địch vào túi đồ.
 - Trạng thái tính đến chương 130–131: Quét sạch toàn bộ quân xâm lược dị giới lột da tại Venezuela và dùng Bát Vĩ Long Thương tra khảo tàn niệm khai ra âm mưu của đại đế quốc Ferata Ma Kadra; trang bị Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh lặn xuống đáy Đại Tây Dương tận dụng 90% kháng thuộc tính thủy để tự do di chuyển và tạo hàng ngàn đạn băng bao vây hẻm vực; duy trì Ẩn Thân trảm thủ chỉ huy Jiëis Il Turodra Lv 178 và tiêu diệt kỵ sĩ Kut'sach Yi Zeta Lv 101, tàn sát sạch tiểu đoàn hàng ngàn quân Đế quốc Kadra trong 20 phút; nhờ Spiera trấn giữ cánh cổng ngăn kẻ phản bội, một mình bước qua cánh cổng không gian tiến thẳng vào thế giới Ferata.
 - Trạng thái tính đến chương 132: Tiến vào thế giới Ferata, lập tức hạ sát nhóm pháp sư canh cổng và dùng phi thương kết hợp Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn (kích hoạt Liệt Hỏa và Huyết Hỏa) tàn sát sạch sẽ tiểu đoàn kỵ sĩ của đại đế quốc Kadra; nâng kỹ năng Tử Thần lên cấp 34 (cường hóa tối đa 65% năng lực); khôn khéo luồn lách qua hai kẻ chuyển chức lần 4 để chúng chịu sát thương theo thời gian và canh gác vô ích giữa biển lửa, còn bản thân đột kích nội thành thiêu rụi mọi vật phẩm trọng yếu của đế quốc.
+- Trạng thái tính đến chương 133–134: Đạt cấp độ 141; dùng mìn ma thạch giấu dưới xác lính tiêu diệt hai thầy trò kỵ sĩ chuyển chức 4 tại hoàng thành Pajin Meccadira; đột nhập kho ngầm, dùng mìn kích nổ liên hoàn tiêu diệt 1 kỵ sĩ chuyển chức 4 cùng hoàng tộc, rồi dùng roi hạ sát tên kỵ sĩ thứ hai; bị kỵ sĩ mạnh nhất Elbani tóm roi phản kích phá tan Ẩn Thân làm nứt giáp ngực.
+- Trạng thái tính đến chương 135: Đánh bại và kết liễu kỵ sĩ chuyển chức 4 Elbani Da Qurad (Lv 257) bằng Bất Khả Họa Quỹ Đạo Thương (thăng lên cấp 27, Chí Mạng thăng lên cấp 51) và độc tố của Bát Vĩ Long Thương, thu về hơn 23,8 tỷ điểm kinh nghiệm; trảm sát Hoàng đế Kadra; quyết định ở lại Ferata tiêu diệt con ma thú hộ quốc vừa thức tỉnh để bảo vệ thường dân vô tội.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -454,7 +457,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 133: Tiếp cận cánh cổng không gian dưới đáy biển Đại Tây Dương thì bị Spiera phục kích dùng thương chém làm đôi tiêu diệt tại chỗ.
 
 ### Elbani
-- Giới tính, vai trò: Nam, kỵ sĩ chuyển chức lần 4 cấp trên 250, "thanh kiếm của đế quốc" bảo vệ hoàng đế của Đế quốc Kadra.
+- Giới tính, vai trò: Nam, kỵ sĩ chuyển chức lần 4 cấp 257 (tên đầy đủ Elbani Da Qurad), "thanh kiếm của đế quốc" bảo vệ hoàng đế của Đế quốc Kadra.
 - Ngoại hình / tính cách: Trung thành tuyệt đối với hoàng đế, sở hữu võ kỹ của người thủ hộ cao cấp; dù bị thương nặng và cụt một tay sau vụ nổ liên hoàn vẫn tung đòn phản kích sấm sét nhằm đoạt mạng kẻ địch.
 - Xuất hiện tính đến chương 134: Hộ vệ hoàng tộc Kadra trong hầm trú ẩn khẩn cấp ở khu hầm ngầm; hứng trọn vụ nổ mìn ma thạch nhưng vẫn sống sót, phá giải đòn roi của Yu IlHan và đối đầu trực diện với anh.
+- Xuất hiện tính đến chương 135: Dốc toàn lực dùng võ kỹ cao cấp đối đầu trực diện với Yu IlHan nhưng bị trúng liên tiếp 2 đòn Bất Khả Họa Quỹ Đạo Thương chí mạng và hít phải sương kịch độc từ Bát Vĩ Long Thương; cuối cùng bị Yu IlHan phóng thương xuyên đầu thiêu rụi bằng Liệt Hỏa tiêu diệt tại chỗ (Lv 257, mang lại hơn 23,8 tỷ EXP).
+
+### Hoàng đế Kadra
+- Giới tính, vai trò: Nam, hoàng đế của Đế quốc Kadra tại thế giới Ferata.
+- Xuất hiện tính đến chương 134–135: Ẩn náu trong hầm ngầm hoàng thành; bị nổ cụt hai chân sau vụ nổ mìn ma thạch; van xin Yu IlHan tha mạng và tiết lộ mưu đồ xâm lược Trái Đất nhằm giành lợi thế trong Cuộc Chiến Cạnh Tranh để đoạt Bẫy Hủy Diệt; đe dọa về con ma thú hộ quốc sẽ nổi điên nhưng lập tức bị Yu IlHan vung thương trảm thủ kết liễu.
 
