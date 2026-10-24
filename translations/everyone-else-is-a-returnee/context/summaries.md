@@ -838,3 +838,10 @@ Ma thú hộ quốc cao hơn 30 mét thức tỉnh phủ ma lực đen và ngọ
 Liera phát hiện dấu vết thiên thần phản bội đang tiến về cánh cổng không gian nên tạm biệt IlHan bằng một nụ hôn má để bay đi thanh trừng kẻ phản nghịch.
 IlHan dàn dựng trận địa gồm hàng chục bộ lao săn xương rồng cỡ lớn, cọc trụ cùng pháo nỏ bắn tên xương rồng; anh vận dụng Quái Lực, Tuyệt Đối Chuẩn Xác, dung hợp đặc tính thương, kiếm, búa, roi liên tục phóng lao và chỉ huy pháo nỏ bắn trọng thương ma thú.
 Cảnh kết thúc: Mặc dù ma thú liên tục gầm rống và phun hỏa diễm đen càn quét tiêu diệt hơn một trăm kỵ sĩ, Yu IlHan vẫn bình thản vừa né đòn vừa lẩm bẩm mượn điển tích Moby Dick ("Ishmael") và tiếp tục phóng lao trói chặt con quái thú giữa chiến trường hỗn loạn.
+
+
+## 137
+Yu IlHan găm khoảng 30 cây lao săn trói chân con ma thú vượt cấp 260, phối hợp cùng đám kỵ sĩ Kadra liều chết xung phong bằng Súng Bắn Cọc dùng một lần và búa ném Dây Thun Khổng Lồ; áp lực tử địa khiến nhiều kỵ sĩ cấp 99 đột phá thăng lên chuyển chức lần 3.
+IlHan liên tục duy trì Quái Lực, Siêu Việt Tái Sinh và Bật Nhảy né tránh tiếng rống hủy diệt cùng ngọn lửa đen kịch độc, đồng thời vận dụng kỹ thuật Thu hồi vật sở hữu từ xa trút cự thương mang trọn trọng lượng túi đồ gây sát thương chí mạng dồn dập.
+Ma thú phát cuồng giật tung toàn bộ cọc trụ lao về phía hoàng thành và hoàn toàn mất dấu IlHan giúp anh tái kích hoạt Ẩn Thân; khi trên thân quái thú đã cắm hơn một ngàn vũ khí bằng xương rồng, IlHan rút vũ khí phẩm cấp Truyền Thuyết Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt, phóng to gấp 10 lần kết hợp Liệt Hỏa giáng đòn sấm sét vào đầu nó.
+Cảnh kết thúc: Kỹ năng Liệt Hỏa thăng lên cấp 19, đồng thời đòn đánh kích hoạt dòng thuộc tính gamma khiến hơn một ngàn vũ khí xương rồng trên người ma thú đồng loạt cộng hưởng rung chuyển dữ dội và phun trào những cột Liệt Hỏa rực cháy thiêu đốt nó trong đau đớn tột cùng.

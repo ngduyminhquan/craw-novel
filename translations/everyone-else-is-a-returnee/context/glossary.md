@@ -168,7 +168,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Shadow Leopard |  | Báo Bóng Tối | quái vật | 28 | Quái vật báo cấp 102 chuyển chức lần 3 chuyên về Ẩn Thân |
 | Poison Resistance | poison resistance | Kháng Độc | kỹ năng | 29 | Kỹ năng kháng độc cấp trung |
 | Extreme Poison Resistance | extreme poison resistance | Kháng Độc Cực Hạn | kỹ năng | 29 | Kỹ năng kháng độc cấp cực hạn |
-| Giant's Rubber Band | Giant's Rubber String | Dây Thun Khổng Lồ | vật phẩm | 29 | Gân Báo Bóng Tối tôi luyện qua Ngọn Lửa Vĩnh Cửu có độ đàn hồi cực đại do IlHan đặt tên |
+| Giant's Rubber Band | Giant's Rubber String; Giant's Rubberband | Dây Thun Khổng Lồ | vật phẩm | 29 | Gân Báo Bóng Tối tôi luyện qua Ngọn Lửa Vĩnh Cửu có độ đàn hồi cực đại do IlHan đặt tên |
 | Pile Bunker | pile bunker | Súng Bắn Cọc | vật phẩm | 29 | Vũ khí cận chiến bắn cọc phá hủy phòng ngự kẻ địch |
 | Lightspeed |  | Quang Tốc | hệ thống | 29 | Tiền tố dòng thuộc tính alpha tăng tốc độ nạp đòn và tốc độ tấn công |
 | Lightspeed Pile Bunker |  | Súng Bắn Cọc Quang Tốc | vật phẩm | 29 | Vũ khí Súng Bắn Cọc làm từ xương, răng và gân Báo Bóng Tối sở hữu dòng thuộc tính Quang Tốc |
@@ -518,7 +518,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Whip mastery | Whip Mastery | Tiên Thuật | kỹ năng | 119 | Kỹ năng sử dụng roi, thức tỉnh ở Lv Max |
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
-| Destruction-calling Titan's Resonance Thunderhammer |  | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
+| Destruction-calling Titan's Resonance Thunderhammer | Destruction-calling Giant's Resonance Thunderhammer | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
 | Chilly Blizzard tyrant's Mixed bone Fullplate armor | Chilly Blizzard tyrant's Mixed bone Full plate armour | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
 | Destruction-preventing Swift Cursed dragon Earring |  | Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy | vật phẩm | 126 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ xương rồng và ma thạch chuyển chức 3 |
 | Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |

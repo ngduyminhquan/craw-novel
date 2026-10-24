@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T05:50:36Z",
+  "generatedAt": "2026-10-24T05:57:21Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -821,6 +821,12 @@
           "title": "Chương 136: Không Phải Tôi, Mà Là Con Trai Tôi?! III",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_136.md",
           "sha": "9990f42c079c426fadd76d6a9a4bf9d3ecadf9c5"
+        },
+        {
+          "number": 137,
+          "title": "Chương 137: Không Phải Tôi, Mà Là Con Trai Tôi?! IV",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_137.md",
+          "sha": "a7f5f9f01ee218eaa23f5381627ba3f6065a9f93"
         }
       ]
     }

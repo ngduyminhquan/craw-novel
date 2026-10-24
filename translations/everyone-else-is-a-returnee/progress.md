@@ -141,7 +141,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | reviewed |  |
 | 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | reviewed |  |
 | 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | done |  |
-| 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | todo |  |
+| 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | done |  |
 | 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | todo |  |
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | todo |  |
 | 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | todo |  |
