@@ -734,3 +734,10 @@ Về đến nhà, IlHan kiểm tra chỉ số của Yumir thì kinh ngạc nhậ
 Nhóm IlHan ngủ ngắn 2 tiếng rồi xuống xưởng rèn giải phẫu xác quái; IlHan dùng Ngọn Lửa Vĩnh Cửu nướng thịt rồng ủ trong [Đại Thùng Thấm Đẫm Hơi Thở Của Rồng] chiêu đãi đám elf (Phiria ăn đầu tiên) khiến kỹ năng [Nấu Nướng] thăng vọt 5 cấp lên Lv 54.
 Cảnh kết thúc: Giữa lúc Liera vừa cầm đũa toan nếm thịt rồng, thiên thần Spiera truyền tin qua vòng thiên thần thông báo Quân Đội Thiên Giới quyết định phái cô xuống Trái Đất hỗ trợ ký khế ước với IlHan do các thế lực thực thể cấp cao đang có động thái đáng ngờ.
 
+## 119
+Trong lúc cùng Liera và đám elf thưởng thức thịt rồng nướng cùng rượu Hơi Thở rót trong ly xương rồng tự chế, Yu IlHan đón tiếp nữ đại thiên thần Spiera tóc đỏ vừa hạ giới sau thắng lợi áp đảo ở Bức Tường Hỗn Loạn.
+Spiera giải thích cơ chế tiến hóa dung hợp kỹ năng và hé lộ về kỹ năng dung hợp thương cấp cao do cô sáng tạo sau khi chuyển chức 6 mang tên [Đại Đoạn Vũ Trụ Thương] để thuyết phục IlHan lập khế ước.
+Sau khi IlHan đồng ý bắt tay kết lập khế ước thứ hai giúp tăng cường [Thiên Thần Bảo Hộ] và [Thiên Thần Chi Viện] (cho phép kích hoạt chống thực thể cấp cao ngoài Thế Giới Bị Bỏ Rơi), Spiera yêu cầu anh phải thuần thục các kỹ năng cơ bản gồm Thương Thuật, Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật.
+Cảnh kết thúc: Yu IlHan lập tức lấy roi ra vung nhẹ khiến Hồ Sơ Akashic thức tỉnh [Tiên Thuật] Lv Max và mở khóa khả năng tiến hóa dung hợp Thương Thuật, khiến Spiera sững sờ cạn lời và bị dồn vào thế hạ phong ngay ngày đầu ký khế ước.
+
+

@@ -192,4 +192,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Flemir | Yu IlHan | tôi / chúng tôi | ngài | 115 | Flemir hoàn toàn kính sợ trước sức mạnh của Yu IlHan |
 | Spiera | Liera | ta / tôi | Liera / cô | 118 | Spiera liên lạc truyền đạt quyết định mới của Quân Đội Thiên Giới cho Liera |
 | Liera | Spiera | tôi | Spiera / cô | 118 | Liera nhận liên lạc từ Spiera |
+| Spiera | Yu IlHan | tôi / ta | cậu / Yu IlHan | 119 | Spiera xuống Trái Đất lập khế ước với IlHan |
+| Yu IlHan | Spiera | tôi | cô / Spiera | 119 | Yu IlHan đối thoại với Spiera |
 

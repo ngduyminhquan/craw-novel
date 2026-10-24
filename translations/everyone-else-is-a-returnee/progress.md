@@ -123,7 +123,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | reviewed |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | reviewed |  |
 | 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | done |  |
-| 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | todo |  |
+| 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | done |  |
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | todo |  |
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | todo |  |
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | todo |  |
@@ -721,3 +721,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#115-117] Ở chương 115 đoạn 28, Flemir gọi Yu IlHan là gì khi gào lên trong cơn quẫn bách? → Giữ kính ngữ ngài (Rốt cuộc ngài muốn làm cái gì thế hả!) để nhất quán với sự quy phục của Flemir từ chương 113–116. (orchestrator)
 - [#118] Cách dịch tên chủng tộc tiến hóa Kid dragon của Yumir? → Dịch Hán Việt là Thiếu Long, nối tiếp mạch tiến hóa Ấu Long (Baby Dragon) -> Tiểu Long (Infant Dragon) -> Thiếu Long (Kid Dragon). (orchestrator)
 - [#118] Raw chương 118 viết tên Công chúa Lang tộc là Ericia khác với Erica ở chương 117? → Giữ nguyên tên chuẩn Erica đã chốt ở chương 117 và thêm Ericia vào cột Alias trong characters.md theo rules.md. (orchestrator)
+- [#119] Cách dịch tên kỹ năng Great Cosmos-severing Spear của Spiera? → Dịch Hán Việt là Đại Đoạn Vũ Trụ Thương, vừa chuẩn quy tắc tên kỹ năng Hán Việt vừa giữ nét tên kêu sến để khớp cảnh Yu IlHan chê tên kỹ năng. (orchestrator)
+- [#119] Cách dịch tên kỹ năng Whip mastery? → Dịch Hán Việt là Tiên Thuật, đồng bộ với Thương Thuật, Kiếm Thuật, Độn Khí Thuật. (orchestrator)

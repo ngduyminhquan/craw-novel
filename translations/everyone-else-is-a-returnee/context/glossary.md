@@ -514,3 +514,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Moon Wolf |  | Nguyệt Lang | chủng tộc | 117 | Chủng tộc sói ánh trăng của Công chúa Erica |
 | Blessing of the Moon Goddess |  | Chúc Phúc Của Nữ Thần Mặt Trăng | danh hiệu | 117 | Danh hiệu của Công chúa Erica |
 | Kid Dragon | Kid dragon | Thiếu Long | quái vật | 118 | Chủng tộc tiến hóa tiếp theo của Yumir từ Tiểu Long sau khi chuyển chức lần 2 (tương đương vóc dáng 7 tuổi) |
+| Great Cosmos-severing Spear |  | Đại Đoạn Vũ Trụ Thương | kỹ năng | 119 | Kỹ năng dung hợp thương cấp cao do Spiera sáng tạo sau khi chuyển chức lần 6 |
+| Whip mastery | Whip Mastery | Tiên Thuật | kỹ năng | 119 | Kỹ năng sử dụng roi, thức tỉnh ở Lv Max |
