@@ -509,3 +509,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | wolfkin | Wolfkin | Lang tộc | chủng tộc | 113 | Chủng tộc sói ở thế giới Kiroa, khi lên chuyển chức 4 sẽ tiến hóa sang hình người |
 | Royal Guardians | the Royal Guardians; Royal Guard; Royal Guards | Hộ Vệ Hoàng Gia | tổ chức | 113 | Đội cận vệ hoàng gia của hoàng tộc Lang tộc tại thế giới Kiroa |
 | Hexa-kill | Hexakill | Hexa-kill | khác | 113 | Được phép giữ nguyên: Thuật ngữ game MOBA (hạ gục 6 mạng liên tiếp), tham chiếu văn hóa game |
+| Raising Claw Wolf |  | Dương Trảo Lang | quái vật | 115 | Quái vật Lang tộc chuyển chức 4 cấp 204 thuộc phe Quân Đội Ma Hủy Diệt |
+| Blood Fenrir |  | Huyết Fenrir | quái vật | 115 | Quái vật Lang tộc chuyển chức 4 cấp 233 thuộc phe Quân Đội Ma Hủy Diệt (Quesad) |

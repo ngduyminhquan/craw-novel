@@ -45,6 +45,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | cậu bé / Yumir / nhóc / đứa trẻ | 107 | Bé trai rồng con của IlHan sau khi được đặt tên |
 | Flemir | gã / Flemir / người đàn ông tóc đen | 113 | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc |
 | Ikedka | gã / hắn / Ikedka | 114 | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt |
+| Quesad | hắn / Quesad / con quái thú | 115 | Thực thể chuyển chức 4 cấp 233 phe Quân Đội Ma Hủy Diệt |
+| Kiana | cô / Kiana | 115 | Nữ chiến binh Lang tộc chuyển chức 4 bảo vệ hoàng tộc |
 
 ## Giữa các nhân vật
 
@@ -171,4 +173,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Flemir | Ikedka | ta / tao | ngươi / mày | 114 | Hai thủ lĩnh Lang tộc đối địch chạm trán tại Kiroa |
 | Carina Malatesta | Yu IlHan | tôi | anh | 114 | Chủ clan Magia trao đổi chiến thuật với Yu IlHan |
 | Yu IlHan | Carina Malatesta | tôi | cô / các vị | 114 | Yu IlHan trao đổi chiến thuật với Carina Malatesta |
+| Quesad | Yu IlHan | ta | ngươi / con người | 115 | Quesad khinh bỉ con người và chất vấn IlHan |
+| Yu IlHan | Quesad | ta / tôi | ngươi / mi | 115 | Yu IlHan đối đầu trực diện kết liễu Quesad |
+| Quesad | Kiana | ta | các ngươi / ngươi | 115 | Quesad ra tay tàn sát Kiana |
+| Kiana | Quesad | ta | ngươi | 115 | Kiana liều chết chặn đường Quesad |
+| Flemir | Kiana | tôi / ta | Kiana / cô | 115 | Flemir gọi Kiana hỗ trợ ngăn Quesad |
 

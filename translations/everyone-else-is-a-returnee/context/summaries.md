@@ -710,3 +710,9 @@ Flemir bị thủ lĩnh phản loạn chuyển chức 4 Ikedka chặn đánh; Er
 Phát hiện một thực thể chuyển chức 4 phe địch có cấp bậc vượt trội đang ở Kiroa, IlHan kích hoạt Ẩn Thân di chuyển không để lại dấu vết trên tuyết và chuẩn bị quét sạch 12 vạn quái vật cùng 8 thực thể chuyển chức 4.
 Cảnh kết thúc: Yu IlHan nở nụ cười tựa tử thần tuyên bố hủy diệt hoàn toàn kẻ thù, cùng lúc hàng trăm ngọn thương xương rồng từ trên trời trút xuống như mưa giáng thẳng vào bầy quái sói.
 
+## 115
+Yu IlHan vừa duy trì [Ẩn Thân] vừa thả hàng trăm ngọn thương xương rồng nặng hàng ngàn tấn liên tục tàn sát 3 vạn quái sói chuyển chức 2 và 3, kích hoạt tối đa kỹ năng [Tử Thần] tăng 62% chỉ số và thăng lên cấp 138; sau đó anh dùng Bát Vĩ Long Thương kết hợp Liệt Hỏa và Quái Lực chém đứt đầu Dương Trảo Lang Lv 204 (sói chuyển chức 4 phe địch) chỉ bằng một đòn chí mạng.
+Thủ lĩnh chuyển chức 4 phe địch là Xích Ma Lang Quesad (Huyết Fenrir Lv 233) lao thẳng về phía cổng Trái Đất; nữ chiến binh Lang tộc Kiana liều mạng ngưng tụ mana kiếm đâm thủng ngực hắn trước khi bị đập nát đầu tử trận.
+Yu IlHan phóng Súng Bắn Cọc nạp ma thạch chuyển chức 4 vào vết thương trước ngực Quesad gây nổ hủy diệt; dù bị phản công gãy xương sườn văng ra xa, anh đã kịp kích hoạt [Bất Khả Họa Quỹ Đạo Thương] bọc Liệt Hỏa chẻ đôi đầu Quesad, thu về hơn 2,87 tỷ EXP.
+Cảnh kết thúc: Sau khi uống túi cheer pack Hơi Thở hồi phục và tái kích hoạt Ẩn Thân, Yu IlHan búng tay thả mưa thương xương rồng quét sạch tàn quân sói và chuẩn bị xử lý nốt 2 thực thể chuyển chức 4 còn lại.
+

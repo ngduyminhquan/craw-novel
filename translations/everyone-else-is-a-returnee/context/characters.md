@@ -46,6 +46,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yumir | Mir | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
 | Flemir |  | Flemir | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, thực thể chuyển chức 4 | 113 |
 | Ikedka |  | Ikedka | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt, đối thủ của Flemir tại Kiroa | 114 |
+| Quesad | Red demon wolf Quesad; Blood Fenrir Quesad | Quesad | Thủ lĩnh Lang tộc chuyển chức 4 cấp 233 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 115 |
+| Kiana |  | Kiana | Nữ chiến binh Lang tộc chuyển chức 4 trung thành bảo vệ hoàng tộc Kiroa | 115 |
 
 ## Chi tiết
 
@@ -372,4 +374,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Thủ lĩnh Lang tộc chuyển chức 4 thuộc phe Quân Đội Ma Hủy Diệt tại thế giới Kiroa.
 - Ngoại hình / tính cách: Hung hãn, tàn độc, mang giọng điệu phản diện khuôn mẫu, hả hê trước sự tuyệt vọng của Flemir khi ép Hộ Vệ Hoàng Gia vào đường cùng.
 - Xuất hiện tính đến chương 114: Chặn đánh Flemir ngay sau khi Flemir bị Yu IlHan đá văng ngược trở lại cổng hầm ngục tại Kiroa.
+
+### Quesad
+- Giới tính, vai trò: Nam/đực, thực thể Lang tộc chuyển chức 4 cấp 233 (Huyết Fenrir / Xích Ma Lang) thuộc Quân Đội Ma Hủy Diệt tại thế giới Kiroa.
+- Ngoại hình / tính cách: Thân hình sói khổng lồ dạng người, vóc dáng như gã khổng lồ Goliath, sức mạnh thể chất và võ nghệ cận chiến đạt cảnh giới đỉnh phong; cuồng tín ý chí của Quân Đội Ma Hủy Diệt, khinh miệt con người yếu đuối phải dựa dẫm vào sức mạnh bên ngoài.
+- Xuất hiện tính đến chương 115: Bất chấp hàng trăm ngọn thương lao thẳng về phía cổng hầm ngục Trái Đất; đập nát đầu tiêu diệt Kiana; trúng đòn Súng Bắn Cọc nạp ma thạch chuyển chức 4 của Yu IlHan nhưng vẫn sống sót và đá văng IlHan gãy xương sườn; cuối cùng bị vết thương bọc Liệt Hỏa từ Bất Khả Họa Quỹ Đạo Thương chẻ đôi đầu và bỏ mạng (nhận hơn 2,87 tỷ EXP).
+
+### Kiana
+- Giới tính, vai trò: Nữ, chiến binh Lang tộc chuyển chức 4 hình người, thuộc phe Hộ Vệ Hoàng Gia bảo vệ hoàng tộc Lang tộc Kiroa.
+- Ngoại hình / tính cách: Dáng người sói tương đối nhỏ nhắn so với Quesad; mang ý chí kiên định sẵn sàng hy sinh để bảo vệ hoàng tộc Lang tộc.
+- Xuất hiện tính đến chương 115: Băng qua chiến trường ngăn chặn Quesad tiến về cổng Trái Đất; vắt kiệt mana tạo kiếm khí trên thanh trường kiếm đã gãy để đâm thủng ngực Quesad, nhưng bị hai nắm đấm của Quesad giáng xuống đập nát đầu và tử trận.
 

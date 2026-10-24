@@ -119,7 +119,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | reviewed |  |
 | 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | reviewed |  |
 | 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | reviewed |  |
-| 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | todo |  |
+| 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | done |  |
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | todo |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | todo |  |
 | 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | todo |  |
@@ -711,3 +711,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#113] Ký hiệu footnote dangling '"Learned through anime."1' ở đoạn 40 không có nội dung chú thích ở cuối raw → Bỏ số 1 dangling theo quy tắc lược bỏ ghi chú translator trong rules.md. (orchestrator)
 - [#114] Từ "Ned" ở đoạn 15 ("Ned should be setting up battlefield environments...") là tên riêng hay lỗi đánh máy của raw? → Trong toàn bộ 350+ chương raw không có nhân vật nào tên Ned; đây là lỗi đánh máy của raw tiếng Anh (từ "Next should be..." hoặc "Need to..."). Sẽ sửa ở bước fix 112-114 thành "Tiếp theo là việc thiết lập địa hình chiến trường." (orchestrator)
 - [#114] Đoạn thoại "[This, is, Abandon, World!]" của Erta ở đoạn 72 viết ngắt quãng bằng dấu phẩy do Erta đang rét run cầm cập → Dịch giữ nhịp ngắt quãng khớp ngữ cảnh: "[Nơi, này, là, Thế Giới Bị Bỏ Rơi mà!] (Erta)". (orchestrator)
+- [#115] Cách dịch tên quái vật chuyển chức 4 Raising Claw Wolf? → Dịch Hán Việt là Dương Trảo Lang (thống nhất với phong cách dịch tên quái vật Đại Hắc Lang, Thiết Dực). (orchestrator)
+- [#115] Cách dịch tên gọi tắt DD-wolf của Yu IlHan? → Dịch là sói DD (giữ nguyên viết tắt DD của Quân Đội Ma Hủy Diệt theo giọng tự nhiên của IlHan). (orchestrator)
+- [#115] Cách dịch tên quái vật cấp 233 Blood Fenrir? → Dịch là Huyết Fenrir (kết hợp Hán Việt và giữ tên riêng thần thoại Bắc Âu Fenrir theo rules.md). (orchestrator)
