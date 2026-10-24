@@ -746,5 +746,11 @@ Trang chủ Vanguard mở bán trở lại sau 3 tháng khiến cửa hàng số
 Trong lúc chờ 4 ngày nữa để kích hoạt kết giới 2 tháng nhằm rèn luyện cho bản thân, Yumir (đã đạt cấp trên 60) và đám elf, IlHan nhận cuộc gọi từ Kang MiRae trao đổi về chính sách phân phối vũ khí của Vanguard và sự hợp tác bảo vệ Trái Đất.
 Cảnh kết thúc: Giọng Kang MiRae khẽ run lên khi đề nghị hẹn gặp IlHan, ngập ngừng tiết lộ rằng bố của cô muốn gặp anh khiến IlHan sững sờ.
 
+## 121
+Yu IlHan có buổi gặp gỡ gượng gạo với Kang Chan (bố của Kang MiRae và Kang HaJin); nhận ra tư duy bảo thủ, thực dụng của ông khi khuyên anh nên ẩn mình như giới tài phiệt cũ và xem sự biến Kiroa chỉ là một hầm ngục quy mô lớn.
+Kang Chan ngỏ ý tặng IlHan mảnh đất bị tàn phá quanh cánh cổng sau trận chiến, IlHan vui vẻ nhận lời bất chấp nguy cơ bại lộ danh tính Susanoo; IlHan khéo léo dùng lời nói dối ngụy tạo về Yumir (quái vật tạo ra từ việc tiêu hao mana) qua mặt trót lọt sự dò xét của Kang Chan.
+Sau khi IlHan rời đi trước cuộc hẹn công việc buổi chiều, Kang Chan thúc giục MiRae nhanh chóng "tóm lấy" IlHan trước khi bị Na YuNa nẫng tay trên, khiến MiRae đỏ mặt tía tai cãi lại rồi đập bàn bỏ đi.
+Cảnh kết thúc: Kang Chan và Kang HaJin ở lại phòng nhìn nhau cười khẩy toan tính, mơ tưởng viễn cảnh lợi dụng vũ lực của IlHan một khi kết hợp với MiRae để đưa gia tộc lên đỉnh cao danh vọng trong thời kỳ Đại Tai Biến.
+
 
 

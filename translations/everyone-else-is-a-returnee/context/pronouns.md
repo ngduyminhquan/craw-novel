@@ -50,6 +50,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Melod | hắn / Melod / con sói | 116 | Thủ lĩnh Lang tộc chuyển chức 4 phe Quân Đội Ma Hủy Diệt |
 | wolfkin princess | cô / Công chúa / cô gái tóc đen | 116 | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa |
 | Erica | cô / Erica / Công chúa | 117 | Công chúa Lang tộc tóc đen sau khi lộ tên thật ở chương 117 |
+| Kang Chan | ông / Kang Chan | 121 | Bố của Kang MiRae và Kang HaJin |
 
 ## Giữa các nhân vật
 
@@ -194,4 +195,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Spiera | tôi | Spiera / cô | 118 | Liera nhận liên lạc từ Spiera |
 | Spiera | Yu IlHan | tôi / ta | cậu / Yu IlHan | 119 | Spiera xuống Trái Đất lập khế ước với IlHan |
 | Yu IlHan | Spiera | tôi | cô / Spiera | 119 | Yu IlHan đối thoại với Spiera |
+| Kang Chan | Yu IlHan | tôi | cậu / cậu Yu IlHan | 121 | Kang Chan đối thoại với Yu IlHan |
+| Yu IlHan | Kang Chan | tôi | bác / ông | 121 | Yu IlHan đối thoại với Kang Chan |
+| Kang Chan | Kang MiRae | bố / ta | con / MiRae | 121 | Bố con đối thoại |
+| Kang MiRae | Kang Chan | con | bố | 121 | Bố con đối thoại |
+| Kang Chan | HaJin | bố / ta | con / HaJin | 121 | Bố con đối thoại |
+| HaJin | Kang Chan | con | bố | 121 | Bố con đối thoại |
 

@@ -51,6 +51,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Melod |  | Melod | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 116 |
 | wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
 | Erica | Moon Wolf Erica; Ericia | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
+| Kang Chan | Said Kang Chan | Kang Chan | Bố của Kang MiRae và Kang HaJin, tài phiệt thế lực ngầm | 121 |
 
 ## Chi tiết
 
@@ -415,4 +416,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / tính cách: Tóc đen, mắt vàng kim, đáng yêu, quấn quýt bố IlHan; thông minh, học hỏi và lớn cực nhanh.
 - Trạng thái tính đến chương 118: Đạt Lv 55, tiến hóa chủng tộc thành [Thiếu Long] (vóc dáng tương đương 7 tuổi) sau khi hoàn thành chuyển chức lần 2 mà không cần làm nhiệm vụ; sở hữu [Ẩn Thân] Lv 47 và [Phong Ma Pháp Trung Cấp] Lv 39.
 - Trạng thái tính đến chương 120: Đạt cấp độ trên 60 sau khi cùng Liera và Erta dọn dẹp các hầm ngục lân cận; tiếp tục rèn luyện Ẩn Thân, Phong Ma Pháp Trung Cấp và chuẩn bị bước vào 2 tháng rèn luyện trong kết giới cùng bố.
+
+### Kang Chan
+- Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.
+- Tính cách / quan điểm: Thực dụng, cáo già chốn thương trường nhưng lạc hậu trước thời cuộc mới của thế giới dị năng; có tư duy "ngậm thìa vàng", muốn bảo toàn quyền lực cũ và lợi dụng sức mạnh của Yu IlHan cho gia tộc; nhiệt tình muốn gán ghép Kang MiRae với IlHan.
+- Xuất hiện tính đến chương 121: Lần đầu gặp Yu IlHan, khuyên IlHan ẩn mình cẩn trọng và tặng anh mảnh đất hoang tàn sau chiến dịch Vỡ Hầm Ngục; gặng hỏi về đứa trẻ (Yumir) và thúc giục Kang MiRae nhanh chóng nắm bắt IlHan trước Na YuNa.
 

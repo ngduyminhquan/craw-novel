@@ -125,7 +125,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | reviewed |  |
 | 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | reviewed |  |
 | 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | reviewed |  |
-| 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | todo |  |
+| 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | done |  |
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | todo |  |
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | todo |  |
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | todo |  |
@@ -725,3 +725,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#119] Cách dịch tên kỹ năng Whip mastery? → Dịch Hán Việt là Tiên Thuật, đồng bộ với Thương Thuật, Kiếm Thuật, Độn Khí Thuật. (orchestrator)
 - [#118-120] Cụm từ pull one's roots out trong chương 120 đoạn 54 dịch thế nào? → Dịch là tiêu diệt tận gốc khi nói về quái vật/kẻ thù, đồng thời làm rõ mục (#64) trong phần Riêng truyện này của rules.md. (orchestrator)
 - [#118-120] Xưng hô của Yu IlHan với nhóm thuộc hạ elf? → Giữ đúng pronouns.md (dòng 145–152): Yu IlHan luôn xưng tôi, gọi mọi người / các cậu / cô, không xưng ta - các ngươi. (orchestrator)
+- [#121] Xưng hô giữa Yu IlHan và Kang Chan (bố của Kang MiRae): Yu IlHan xưng 'tôi', gọi Kang Chan là 'bác' trong lời thoại (gọi 'ông / Kang Chan' trong trần thuật); Kang Chan xưng 'tôi', gọi IlHan là 'cậu / cậu Yu IlHan'. Phương án tạm dùng: IlHan xưng 'tôi' - gọi 'bác' / Kang Chan xưng 'tôi' - gọi 'cậu'. → Duyệt phương án đã dùng: Yu IlHan xưng tôi - gọi bác (trong thoại) / ông (trong suy nghĩ); Kang Chan xưng tôi - gọi cậu / cậu Yu IlHan. (orchestrator)
+- [#121] Ký hiệu footnote '2' trơ trọi ở cuối câu thoại của Kang MiRae ('...moreover, I\'m only 20 years old.' 2): Lược bỏ số 2 theo rules.md về bỏ ghi chú/footnote translator. Phương án tạm dùng: Bỏ hẳn số 2. → Duyệt phương án đã dùng: Lược bỏ số footnote 2 ở cuối câu thoại theo rules.md. (orchestrator)
