@@ -52,6 +52,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
 | Erica | Moon Wolf Erica; Ericia | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
 | Kang Chan | Said Kang Chan | Kang Chan | Bố của Kang MiRae và Kang HaJin, tài phiệt thế lực ngầm | 121 |
+| Chromano Il Pedra |  | Chromano Il Pedra | Đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ, bị Yu IlHan tập kích tiêu diệt | 129 |
 
 ## Chi tiết
 

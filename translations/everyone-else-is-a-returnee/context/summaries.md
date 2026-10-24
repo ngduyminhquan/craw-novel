@@ -791,6 +791,12 @@ Anh cũng tiết lộ đã tận dụng các dao găm gắn vảy rồng (vốn 
 Đến hòn đảo hoang vắng, Spiera và Liera phát hiện 29 kẻ dị giới chuyển chức lần 2 mặc giáp đang dùng kỹ năng Giải Phẫu lột da các thi thể cư dân Trái Đất để thu thập nguyên liệu cho thuật giả kim biến hình ngụy trang của phe địch.
 Cảnh kết thúc: Chứng kiến hành vi lột da đồng loại man rợ của kẻ thù, đôi mắt Yu IlHan bùng lên tia sáng lạnh lẽo; hóa thân thành Tử Thần, anh bước tới gieo rắc cái chết xuống đầu toàn bộ toán quân xâm lược.
 
+## 129
+Yu IlHan trút cơn thịnh nộ tàn sát sạch sẽ toán quân xâm lược dị giới trên hơn 10 hòn đảo Nam Mỹ (hạ 7 kẻ chuyển chức 3 gồm đội trưởng Chromano Il Pedra và 2.900 tên chuyển chức 2), thu toàn bộ thi thể nạn nhân lẫn kẻ địch vào túi đồ để ngăn chặn âm mưu dùng thuật giả kim lột da ngụy trang xâm nhập Trái Đất.
+Không tìm thấy cánh cổng kết nối hay lông vũ thiên thần trên các đảo, IlHan phán đoán căn cứ khởi nguồn của phe địch nằm ở Venezuela và lập tức phóng khiên phi thân tới đó càn quét.
+Tại New York, sự xuất hiện của Thế Giới Bị Bỏ Rơi thu hút toàn bộ sự chú ý của thế giới; Kang MiRae cùng Erta bí mật triệu tập các chủ clan thuộc Liên Minh Tiền Tuyến không có thiên thần hộ mệnh (như Smithson, Carina, Takagaki Asuha) vào kết giới cách ly, thông báo việc Susanoo vắng mặt và phân phát trang bị chi viện từ Vanguard cùng lực lượng trợ chiến dưới trướng Susanoo.
+Cảnh kết thúc: 19 tiếng trước khi Vỡ Hầm Ngục bùng nổ, trận chiến quy mô lớn nhất Trái Đất mở đường đưa Vanguard và các clan được lựa chọn tiến tới thiên giới chính thức khai màn.
+
 
 
 

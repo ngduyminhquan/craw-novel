@@ -533,3 +533,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Atlantic | Atlantic ocean | Đại Tây Dương | địa danh | 128 | Đại dương ngăn cách châu Mỹ với châu Âu và châu Phi |
 | Venezuela |  | Venezuela | địa danh | 128 | Quốc gia ở Nam Mỹ nổi tiếng về người đẹp |
 | New York |  | New York | địa danh | 128 | Thành phố lớn ở Mỹ |
+| Guardian Angel | Guardian angels | thiên thần hộ mệnh | chủng tộc | 129 | Thiên thần được chỉ định hỗ trợ một số dị năng giả được chọn trên Trái Đất |
+| Burning Soul |  | Clan Burning Soul | tổ chức | 129 | Clan thuộc Liên Minh Tiền Tuyến phát hiện hầm ngục tại New York |

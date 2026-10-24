@@ -209,5 +209,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Erica | ta | ngươi / các ngươi | 123 | Liera huấn luyện chiến đấu cho Erica và các thuộc hạ |
 | Erica | Liera | tôi | cô / ngài | 123 | Erica hỏi và nghe lệnh huấn luyện của Liera |
 | Erica | Yumir | tôi | thiếu chủ | 125 | Erica gọi con trai Yu IlHan là thiếu chủ |
+| Takagaki Asuha | Kang MiRae | tôi | cô / Chủ Clan Kang | 129 | Cuộc họp bí mật giữa các chủ clan trước trận chiến New York |
+| Kang MiRae | Takagaki Asuha | tôi | cô / các vị | 129 | Kang MiRae đàm đạo với các chủ clan Liên Minh Tiền Tuyến |
 
 
