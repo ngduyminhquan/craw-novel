@@ -45,6 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
 | Yumir | Mir | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
 | Flemir |  | Flemir | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, thực thể chuyển chức 4 | 113 |
+| Ikedka |  | Ikedka | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt, đối thủ của Flemir tại Kiroa | 114 |
 
 ## Chi tiết
 
@@ -366,4 +367,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, người sói chuyển chức 4 mang hình người, Thủ lĩnh Hộ Vệ Hoàng Gia của hoàng tộc Lang tộc tại thế giới Kiroa.
 - Ngoại hình / tính cách: Tóc đen, vóc dáng cao lớn, tỏa khí tức mạnh mẽ của thực thể chuyển chức 4 nhưng không rành ma pháp; biết tùy cơ ứng biến, dập đầu cầu xin IlHan cứu giúp đồng tộc nhưng che giấu ý đồ phân tán lực lượng gây hỗn loạn Trái Đất (bị IlHan nhìn thấu qua ánh mắt run rẩy).
 - Xuất hiện tính đến chương 113: Dẫn đầu bầy quái vật xông ra từ cổng hầm ngục, dập đầu van xin đấng rồng tối cao (Yumir) thứ lỗi; bàng hoàng khi biết con người Yu IlHan là bố của rồng; đàm phán cung cấp thông tin về thế giới Kiroa và sự phản bội của các thủ lĩnh theo Quân Đội Ma Hủy Diệt để cầu xin hợp tác.
+
+### Ikedka
+- Giới tính, vai trò: Thủ lĩnh Lang tộc chuyển chức 4 thuộc phe Quân Đội Ma Hủy Diệt tại thế giới Kiroa.
+- Ngoại hình / tính cách: Hung hãn, tàn độc, mang giọng điệu phản diện khuôn mẫu, hả hê trước sự tuyệt vọng của Flemir khi ép Hộ Vệ Hoàng Gia vào đường cùng.
+- Xuất hiện tính đến chương 114: Chặn đánh Flemir ngay sau khi Flemir bị Yu IlHan đá văng ngược trở lại cổng hầm ngục tại Kiroa.
 

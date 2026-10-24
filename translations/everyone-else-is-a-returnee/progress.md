@@ -118,7 +118,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 111 |  | Chapter_111 - I’m the Master of Your Lives 2.txt | I’m the Master of Your Lives 2 | reviewed |  |
 | 112 |  | Chapter_112 - I’m the Master of Your Lives 3.txt | I’m the Master of Your Lives 3 | done |  |
 | 113 |  | Chapter_113 - I’m the Master of Your Lives 4.txt | I’m the Master of Your Lives 4 | done |  |
-| 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | todo |  |
+| 114 |  | Chapter_114 - I’m the Master of Your Lives 5.txt | I’m the Master of Your Lives 5 | done |  |
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | todo |  |
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | todo |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | todo |  |
@@ -709,3 +709,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#112] Chủng tộc / tiến hóa "Infant Dragon" của Yumir — Tạm chọn: "Tiểu Long". Lý do: Chương 101 và 107 đã dùng "Ấu Long" cho "Immature Dragon" và "Baby Dragon" (giai đoạn rồng sơ sinh thể hình 2 tuổi). Ở chương 112, Yumir tiến hóa từ Baby Dragon thành "Infant Dragon" với thể hình lớn lên tương đương 4–5 tuổi. Chọn "Tiểu Long" để phân biệt rõ với giai đoạn sơ sinh trước đó. Phương án khác: "Nhi Long", "Ấu Long (giữ nguyên)". → Chọn Tiểu Long để phân biệt rõ với giai đoạn sơ sinh Ấu Long (Baby Dragon / Immature Dragon) trước đó khi Yumir tiến hóa lên thể hình 4-5 tuổi. (orchestrator)
 - [#113] Thuật ngữ "wolfkin" chỉ toàn bộ chủng loài sói tại thế giới Kiroa (cả bầy sói 4 chân cấp thấp và người sói hình người chuyển chức 4) → Chọn "Lang tộc" (tương ứng với cách dịch "dragonkin" → "Long tộc" ở chương 53, ngắn gọn và phù hợp cho cả dạng sói lẫn dạng người). (orchestrator)
 - [#113] Ký hiệu footnote dangling '"Learned through anime."1' ở đoạn 40 không có nội dung chú thích ở cuối raw → Bỏ số 1 dangling theo quy tắc lược bỏ ghi chú translator trong rules.md. (orchestrator)
+- [#114] Từ "Ned" ở đoạn 15 ("Ned should be setting up battlefield environments...") là tên riêng hay lỗi đánh máy của raw? → Trong toàn bộ 350+ chương raw không có nhân vật nào tên Ned; đây là lỗi đánh máy của raw tiếng Anh (từ "Next should be..." hoặc "Need to..."). Sẽ sửa ở bước fix 112-114 thành "Tiếp theo là việc thiết lập địa hình chiến trường." (orchestrator)
+- [#114] Đoạn thoại "[This, is, Abandon, World!]" của Erta ở đoạn 72 viết ngắt quãng bằng dấu phẩy do Erta đang rét run cầm cập → Dịch giữ nhịp ngắt quãng khớp ngữ cảnh: "[Nơi, này, là, Thế Giới Bị Bỏ Rơi mà!] (Erta)". (orchestrator)

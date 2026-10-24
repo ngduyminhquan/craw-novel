@@ -703,3 +703,10 @@ Gã người sói tự xưng là Flemir, Thủ lĩnh Hộ Vệ Hoàng Gia của 
 IlHan nhanh chóng nhìn thấu lời nói dối vụng về của Flemir (định mượn cổng trốn thoát gây hỗn loạn Trái Đất để trục lợi từ thế chân vạc ba bên), nhưng vẫn đồng ý hợp tác và xác nhận Khu Vườn Hoàng Hôn không nhúng tay.
 Cảnh kết thúc: IlHan thu hồi toàn bộ hàng rào thương, quay lại đối diện với liên quân con người; trước sự ngưỡng mộ của mọi người, tiếng gầm gừ cay cú của Michael Smithson và câu hỏi của Kang MiRae, IlHan dùng tiếng Anh trau chuốt đề nghị thay đổi 'thứ tự ưu tiên' săn quái để diệt sạch cả hai phe quái vật.
 
+## 114
+Yu IlHan thống nhất phương án tác chiến với Liên Minh Tiền Tuyến và các clan quốc tế để khoanh vùng chiến trường Seoul; anh công bố tương quan lực lượng áp đảo giữa hai phe Lang tộc (địch 13 vạn có 6 chuyển chức 4, đồng minh 5 vạn có 2 chuyển chức 4) rồi giao Yumir cho Liera và các elf bảo vệ để một mình sang bên kia cổng xử lý chuyển chức 4.
+IlHan dùng Quái Lực đá văng Flemir trở lại Kiroa, cắm lại hàng rào thương xương rồng lôi hệ phòng thủ cánh cổng ở Trái Đất rồi cùng Erta bước qua cánh cổng tiến vào vùng bình nguyên tuyết trắng của Kiroa; nhờ mật độ mana cao và kỹ năng Thiên Thần Chi Viện, toàn bộ chỉ số của anh tăng vọt 30% xấp xỉ cấp 200.
+Flemir bị thủ lĩnh phản loạn chuyển chức 4 Ikedka chặn đánh; Erta thắc mắc việc bầy sói đỏ phe Quân Đội Ma Hủy Diệt phớt lờ Lang tộc để xông vào cổng Trái Đất và được IlHan chỉ ra rằng hoàng tộc Lang tộc thực chất đã đi lẫn trong đám sói vượt sang Trái Đất từ trước nhằm trốn chạy.
+Phát hiện một thực thể chuyển chức 4 phe địch có cấp bậc vượt trội đang ở Kiroa, IlHan kích hoạt Ẩn Thân di chuyển không để lại dấu vết trên tuyết và chuẩn bị quét sạch 12 vạn quái vật cùng 8 thực thể chuyển chức 4.
+Cảnh kết thúc: Yu IlHan nở nụ cười tựa tử thần tuyên bố hủy diệt hoàn toàn kẻ thù, cùng lúc hàng trăm ngọn thương xương rồng từ trên trời trút xuống như mưa giáng thẳng vào bầy quái sói.
+
