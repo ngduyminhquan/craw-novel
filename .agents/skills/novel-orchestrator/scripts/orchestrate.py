@@ -67,8 +67,11 @@ def _open_indices(lines):
     """Vị trí các câu hỏi mở: mọi dòng '- ' trong "Cần user xác nhận", cộng các dòng '- ' chưa có
     '→' trong "Đã quyết" (panel lỡ ghi câu hỏi mới xuống cuối file)."""
     out = []
-    start, end = _section(lines, OPEN_HEADER)
-    if start is not None:
+    # Panel có thể lỡ tạo thêm một mục "Cần user xác nhận" ở cuối file: đọc mọi mục trùng tên.
+    for start, line in enumerate(lines):
+        if line.strip() != OPEN_HEADER:
+            continue
+        end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("## ")), len(lines))
         out += [i for i in range(start + 1, end) if _is_question(lines[i])]
     d_start, d_end = _section(lines, DONE_HEADER)
     if d_start is not None:

@@ -114,7 +114,7 @@ Cập nhật xong thì chạy `python .agents/skills/novel-translate/scripts/lin
 
 **Không tự ghi đè quyết định cũ.** Thấy một thuật ngữ, tên hay xưng hô đã chốt có vẻ sai, hoặc mâu thuẫn với raw chương mới:
 1. giữ nguyên cách cũ trong bản dịch;
-2. ghi vào mục "Cần user xác nhận" cuối `progress.md`, gồm số chương, vấn đề và đề xuất;
+2. ghi vào mục `## Cần user xác nhận` **đã có** trong `progress.md` (nằm ngay trên mục `## Đã quyết`, không phải cuối file; không tạo mục mới), gồm số chương, vấn đề và đề xuất;
 3. báo user ở cuối lượt.
 
 ### Bước 5 — Đánh dấu xong

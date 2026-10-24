@@ -123,7 +123,8 @@ def table_with(path, column):
 
 
 def split_aliases(value):
-    return [a.strip() for a in re.split(r"[;,]", value or "") if a.strip()]
+    # Chỉ tách theo ';' — alias có thể chứa dấu phẩy (vd lỗi gõ của raw "Deathgod's, Black Spear")
+    return [a.strip() for a in (value or "").split(";") if a.strip()]
 
 
 def is_placeholder(value):

@@ -178,7 +178,7 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
   - đọc hoặc ghi file trong `translations/<slug>/` và `.herdr/`.
 
   Việc khác (git, xóa file ngoài các thư mục trên, cài đặt, truy cập mạng...) thì từ chối, rồi báo user.
-- **Hỏi về nội dung dịch**: quyết theo mục "Quyết định", trả lời bằng `herdr agent prompt <name> "<quyết định>"`, rồi chạy lại lệnh chờ.
+- **Hỏi về nội dung dịch**: quyết theo mục "Quyết định", trả lời bằng `herdr agent prompt <name> "<quyết định>"`, rồi chạy lại lệnh chờ. Gọi từ PowerShell 5.1 thì nội dung không được chứa dấu `"`: ghi câu trả lời vào một file trong `.herdr/tasks/` rồi gọi qua Git Bash, `bash -c 'herdr agent prompt <name> "$(cat <file>)"'`, hoặc diễn đạt lại để không cần dấu `"`.
 - **Quên ghi báo cáo**: nhắc như herdr-spawn hướng dẫn.
 - **`spawn.sh` thất bại** (exit khác 0, hoặc in `status=failed`): pane vẫn bị giữ lại để xem lỗi. Đọc màn hình, đóng pane đó, rồi mới spawn lại. Không chạy `wait-report.sh` cho lần spawn hỏng. Khi gộp hai lệnh: trong bash nối bằng `&&`; PowerShell 5.1 không có `&&`, dùng `A; if ($?) { B }`. Không nối bằng `;` trần.
 - **Lỗi khởi tạo model ngay khi mở** (vd `failed to construct executor`, `plan model not specified`): đóng pane, mở lại một lần với cùng brief. Vẫn lỗi thì dừng vòng lặp, báo user.
