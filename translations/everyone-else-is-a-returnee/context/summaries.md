@@ -856,3 +856,11 @@ Yu IlHan cùng Liera và Spiera phá hủy cánh cổng Ferata dưới đáy Đ�
 Chiến binh sói Layutinu thuật lại diễn biến: phe loài người phối hợp cùng bầy sói, các elf và vũ khí cố định tự hủy của IlHan đẩy lui đợt sóng 5 vạn quái vật chuyển chức 3; nhưng khi một quái vật chuyển chức 4 ẩn thân mưu toan bắt cóc Na YuNa (người được Nữ Thần Sắc Đẹp ban phước), Yumir dùng ma pháp vạch trần khiến Kang MiRae và Na YuNa rơi vào cánh cổng; Yumir cùng Flemir, đám sói tinh nhuệ, các elf và Erta đã lao vào cứu viện trước khi cánh cổng tự phong bế hoàn toàn.
 Spiera tiết lộ Erta đã tiêu diệt kẻ phản bội Feyta; Yu IlHan suy sụp và tự trách bản thân đã đánh giá sai lầm khiến người thân rơi vào nguy hiểm, nhưng gượng dậy trấn an các clan giải tán và để Lang tộc cùng Spiera canh giữ cổng rồi về nhà nghỉ ngơi.
 Cảnh kết thúc: Vừa chìm vào giấc ngủ, võng mạc Yu IlHan liên tục hiện thông báo bùng nổ: Yumir đạt cấp 100 tiến hóa thành Ấu Long Mờ Nhạt, mở khóa Long Huyết của Cộng Hưởng Long Nhân và kỹ năng Thống Trị của IlHan tăng vọt lên cấp 28 nhờ sự phát triển vượt bậc của cấp dưới trong Thế Giới Bị Bỏ Rơi.
+
+
+## 140
+Bị cuốn vào Thế Giới Bị Bỏ Rơi bị cô lập hoàn toàn, Kang MiRae và Na YuNa tỉnh lại nhận ra được nhóm Yumir, Erta, Flemir, bầy sói và 4 elf dùng Ẩn Thân bảo vệ; Erta thông báo đã tiêu diệt kẻ phản bội Feyta và cho biết cần thu thập 10 vạn ma thạch quái chuyển chức 3 để lập ma pháp trận kích hoạt cổng quay về Trái Đất.
+Tổ đội 10 người bắt đầu chiến dịch thảm sát săn quái toàn thế giới; nhờ kho bình thuốc mana khổng lồ của Kang MiRae và kỹ năng Nghỉ Ngơi của Yumir, cả nhóm chiến đấu du kích liên tục, lần lượt thăng lên chuyển chức 3 (Yumir lớn bổng lên tương đương 11 tuổi, Erica và các elf cùng hai cô gái đều chuyển chức 3 sau nửa năm).
+Sau một năm rưỡi, Ẩn Thân của Yumir đạt cấp 90 và nhận danh hiệu 'Quảng Đại Chi Ảnh', giúp mở rộng phạm vi ẩn thân cho toàn đội và biến họ từ kẻ trốn chạy thành những kẻ đi săn, lần lượt quét sạch gần 100 quái vật chuyển chức 4, đưa cấp độ trung bình cả nhóm lên 130 sau 2 năm.
+Sau 2 năm 9 tháng, Thế Giới Bị Bỏ Rơi mở khóa cô lập; nhóm tiêu hao ma thạch kích hoạt ma pháp trận trở về Trái Đất an toàn.
+Cảnh kết thúc: Cả nhóm tràn đầy lo âu lẫn phấn khởi bước qua cánh cổng để trở về với IlHan, và kinh ngạc khi nhận ra ở Trái Đất thực chất mới chỉ trôi qua vỏn vẹn 10 ngày.

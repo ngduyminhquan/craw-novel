@@ -144,7 +144,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | reviewed |  |
 | 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | reviewed |  |
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | done |  |
-| 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | todo |  |
+| 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | done |  |
 | 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | todo |  |
 | 142 |  | Chapter_142 - Not Me, But My Son_! XI.txt | Not Me, But My Son_! XI | todo |  |
 | 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -765,3 +766,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#138] Tên quái vật hộ quốc "Volcanic Demon Beast" (Lv 267) của Đế quốc Kadra → Chốt dịch là "Ma Thú Hỏa Sơn" (nối tiếp cách gọi "ma thú" ở chương 135–137). (orchestrator)
 - [#136-138] Các câu hỏi review chương 136-138: sửa "những kỷ lục" thành "những ghi chép" (#137 đoạn 110), sửa tiếng nổ "Ùuuuuuuuuum!" thành "Ầmmmmmmmm!" (#138 đoạn 51) và đề xuất cập nhật context → Chấp nhận 13 chỉnh sửa văn bản ở chương 136-138 (bác #138 đoạn 24 tách khoảng trắng tiếng hét) và thêm Boom / Booooom vào style.md; bác thêm từ chung record vào glossary.md. (orchestrator)
 - [#139] Tên chủng tộc tiến hóa ở cấp 100 của Yumir "Immature Blurred dragon" và cảnh báo từ "Dragon" → Chốt dịch "Immature Blurred dragon" là "Ấu Long Mờ Nhạt" (kết hợp Ấu Long của Immature Dragon ở chương 101 và Mờ Nhạt của Blurred Lancer ở chương 13); chấp nhận cảnh báo giả của qa_check.py đối với từ "Dragon" vì các thuật ngữ trong chương đều dùng từ tố Hán Việt "Long" (Ấu Long Mờ Nhạt, Cộng Hưởng Long Nhân, Long Huyết). (orchestrator)
+- [#140] Danh hiệu 'Big and wide shadow' của Yumir — Tạm chọn: 'Quảng Đại Chi Ảnh' (Hán Việt theo quy tắc rules.md, nghĩa là bóng râm to lớn rộng mở che chở cho đồng đội). Phương án khác: 'Bóng Râm Rộng Lớn', 'Bóng Đen Rộng Lớn'. → Chốt dịch là "Quảng Đại Chi Ảnh" theo quy tắc Hán Việt ngắn gọn cho danh hiệu trong rules.md. (orchestrator)

@@ -226,5 +226,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Emperor of Kadra | ta / tôi | ngươi / các ngươi | 135 | Yu IlHan đối đáp và trảm sát hoàng đế Kadra |
 | Layutinu | Yu IlHan | tôi | ngài / ngài Yu IlHan | 139 | Layutinu báo cáo tình hình với Yu IlHan |
 | Yu IlHan | Layutinu | tôi | cậu / Layutinu | 139 | Yu IlHan hỏi thông tin từ Layutinu |
+| YuNa | Erta | em / tôi | cô / thiên thần đại nhân | 140 | Na YuNa đối thoại với Erta |
+| Erta | YuNa | tôi / ta | cô / Na YuNa | 140 | Erta đối thoại và giải thích tình hình cho Na YuNa |
+| Kang MiRae | Erta | tôi | cô / Erta | 140 | Kang MiRae đối thoại với Erta |
+| Erta | Kang MiRae | tôi / ta | cô / Kang MiRae | 140 | Erta đối thoại và giải thích tình hình cho Kang MiRae |
+| YuNa | Yumir | chị | Mir / em / Yumir | 140 | Na YuNa khen ngợi và cưng chiều Yumir |
+| Yumir | YuNa | em / con | chị | 140 | Yumir đối thoại với Na YuNa |
 
 

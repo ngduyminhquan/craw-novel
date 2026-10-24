@@ -38,8 +38,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Teraka | Teraka-nim | Teraka | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu | 101 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
-| Mirey |  | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất | 103 |
-| Paté | Pat | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
+| Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất | 103 |
+| Paté | Pat; Pate | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
 | Jirl | Jril | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
@@ -378,6 +378,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 122–123: Đạt cấp độ 65; được Erta hướng dẫn học ma pháp triệu hồi xuyên kết giới Đồng Hồ Cát Vĩnh Hằng; vô tình tạo ra rượu táo pha máu rồng.
 - Trạng thái tính đến chương 124–126: Đạt Ẩn Thân cấp 70, Cận Chiến cấp 60, thi pháp phong hệ không cần niệm chú; ăn thịt rồng để gia tăng vĩnh viễn cấp độ và chỉ số; dễ dàng áp đảo toàn bộ thuộc hạ của IlHan trong đấu tập.
 - Trạng thái tính đến chương 127: Chuẩn bị chuyển chức lần 3; được bố trang bị mũ cối và giáp hộ ngực xương rồng cùng thuốc mana và rượu Hơi Thở để xuất trận chiến đấu cùng nhóm elf.
+- Trạng thái tính đến chương 140: Đạt chuyển chức lần 3 trong Thế Giới Bị Bỏ Rơi, ngoại hình lớn bổng tương đương 11 tuổi; kỹ năng Ẩn Thân đạt cấp 90 và nhận danh hiệu 'Quảng Đại Chi Ảnh' giúp mở rộng phạm vi ẩn thân cho toàn bộ đồng minh; dẫn dắt tổ đội quét sạch gần 100 quái vật chuyển chức 4 và thu thập đủ 10 vạn ma thạch để mở cổng trở về Trái Đất.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
