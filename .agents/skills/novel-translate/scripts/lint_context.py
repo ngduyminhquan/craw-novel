@@ -7,6 +7,7 @@ LỖI (exit 1):
   - tên trong pronouns.md không khớp cột EN của characters.md
   - chương đã dịch mà summaries.md thiếu mục tóm tắt
 Cảnh báo:
+  - EN viết thường từ 3 từ trở lên (thường là cụm miêu tả); đã xem và giữ thì ghi "thuật ngữ cố định" vào Ghi chú
   - kỹ năng/danh hiệu/chức nghiệp để nguyên tiếng Anh mà Ghi chú không nói "giữ nguyên"
   - VI có nhiều biến thể ngăn bằng '/' (chỉ chấp nhận khi Ghi chú nói rõ dùng biến thể nào trong ngữ cảnh nào)
 """
@@ -56,6 +57,11 @@ def lint(novel):
         note = e["row"].get("ghi chú", "").strip()
         if "/" in e["vi"] and not note:
             warns.append(f"glossary: '{e['en']}' có nhiều bản dịch '{e['vi']}' mà không ghi khi nào dùng bản nào")
+        # Ghi chú có "thuật ngữ cố định" nghĩa là đã xem và quyết giữ: không cảnh báo lại
+        if (e["en"] == e["en"].lower() and len(e["en"].split()) >= 3
+                and "thuật ngữ cố định" not in note.lower()):
+            warns.append(f"glossary: '{e['en']}' là cụm viết thường dài — kiểm tra có phải cụm miêu tả chung không "
+                         "(mục B4: chỉ thêm tên riêng và thuật ngữ cố định)")
         kind = e["row"].get("loại", "").strip().lower()
         if kind not in KINDS:
             warns.append(f"glossary: '{e['en']}' có Loại '{kind}' không hợp lệ — dùng một trong: "
