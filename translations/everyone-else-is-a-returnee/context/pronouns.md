@@ -51,6 +51,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | wolfkin princess | cô / Công chúa / cô gái tóc đen | 116 | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa |
 | Erica | cô / Erica / Công chúa | 117 | Công chúa Lang tộc tóc đen sau khi lộ tên thật ở chương 117 |
 | Kang Chan | ông / Kang Chan | 121 | Bố của Kang MiRae và Kang HaJin |
+| Festo | gã / Festo | 133 | Kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra |
+| Lupeta | tên thiên thần / Lupeta | 133 | Thiên thần phản bội tiếp cận cánh cổng hầm ngục |
 
 ## Giữa các nhân vật
 
@@ -211,5 +213,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erica | Yumir | tôi | thiếu chủ | 125 | Erica gọi con trai Yu IlHan là thiếu chủ |
 | Takagaki Asuha | Kang MiRae | tôi | cô / Chủ Clan Kang | 129 | Cuộc họp bí mật giữa các chủ clan trước trận chiến New York |
 | Kang MiRae | Takagaki Asuha | tôi | cô / các vị | 129 | Kang MiRae đàm đạo với các chủ clan Liên Minh Tiền Tuyến |
+| Spiera | Lupeta | ta | ngươi / Lupeta | 133 | Spiera phục kích và chất vấn thiên thần phản bội Lupeta |
+| Lupeta | Spiera | ngươi / ta | ngươi / cô | 133 | Lupeta kinh ngạc khi bị Spiera phục kích |
 
 

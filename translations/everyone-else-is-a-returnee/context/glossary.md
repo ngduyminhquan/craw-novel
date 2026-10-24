@@ -543,3 +543,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Battle of Competition |  | Cuộc Chiến Cạnh Tranh | hệ thống | 132 | Cuộc cạnh tranh quy mô lớn giữa các thế giới trong giai đoạn Đại Tai Biến |
 | Blood flame |  | Huyết Hỏa | khác | 132 | Ngọn lửa sinh ra từ máu kích hoạt bởi dòng thuộc tính của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
 | Magic warrior |  | Ma chiến sĩ | chức nghiệp | 132 | Chức nghiệp chiến đấu kết hợp ma pháp và võ thuật tại thế giới Ferata |
+| Cataclysm | Cataclysms | Đại Tai Biến | hệ thống | 133 | Biến cố nâng cấp thế giới khi mana tràn vào |
+| Pajin Meccadira |  | Pajin Meccadira | địa danh | 133 | Hoàng thành tráng lệ xây dựng cho hoàng đế Đế quốc Kadra |

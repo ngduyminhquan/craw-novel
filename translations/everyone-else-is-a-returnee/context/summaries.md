@@ -814,6 +814,13 @@ Yu IlHan bước qua cổng không gian sang thế giới Ferata (nơi có 2 m�
 Đạo quân bị thiêu rụi tạo thành biển lửa ngập trời thu hút hai cao thủ chuyển chức lần 4 thuộc phe địch (hai thầy trò gồm người đệ tử trên cấp 220 và sư phụ trung niên đã sống hàng trăm năm); cả hai nhầm tưởng kẻ địch là một ma chiến sĩ đang ẩn nấp trong biển lửa nên gầm thét thề tử thủ tiêu diệt kẻ xâm nhập.
 Cảnh kết thúc: Xác nhận cánh cổng đã đóng chặt, Yu IlHan mỉm cười chào "Hasta la vista!" lướt qua hai tên chuyển chức lần 4, bỏ mặc chúng chịu sát thương theo thời gian (DoT) và canh gác trong vô vọng để xông thẳng vào nội thành trống rỗng càn quét, thiêu rụi toàn bộ các vật phẩm trọng yếu của đế quốc.
 
+## 133
+Yu IlHan càn quét hoàng thành Pajin Meccadira của Đế quốc Kadra bằng roi và Huyết Hỏa, thăng lên cấp 141; anh gài mìn ma thạch giấu dưới xác lính và trong đầu đệ tử Festo để lần lượt cho hai thầy trò chuyển chức lần 4 nổ trọng thương rồi chém đầu thiêu rụi, thu về hơn 11,4 tỷ điểm kinh nghiệm.
+Đòn đánh thịnh nộ chạm tới Hồ Sơ Akashic mở khóa cơ hội tiến hóa dung hợp Tiên Thuật và Kiếm Thuật, nhưng IlHan từ chối để dành dung hợp vào Đại Đoạn Vũ Trụ Thương, đồng thời lĩnh ngộ cách truyền đặc tính tự do khó lường của roi vào ngọn thương.
+Tại cổng không gian đáy biển, Spiera mượn năng lực Ẩn Thân phục kích chém đôi thiên thần phản bội Lupeta; cô nhận ra kẻ địch cố tình lợi dụng tính cách tỉ mỉ của IlHan để dụ anh sang Ferata, khiến cô vô cùng lo lắng cho nhóm Yumir, Flemir, Erica cùng các thuộc hạ elf ở New York.
+Cảnh kết thúc: Hết mực yêu mến bé Mir, Spiera đằng đằng sát khí thề sẽ đồ sát toàn bộ kẻ phản bội nào dám động một ngón tay vào đứa trẻ rồng.
+
+
 
 
 

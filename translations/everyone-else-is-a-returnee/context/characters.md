@@ -55,6 +55,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Chromano Il Pedra |  | Chromano Il Pedra | Đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ, bị Yu IlHan tập kích bằng 5 ngọn thương nghiền nát mũ giáp tiêu diệt tại chỗ | 129 |
 | Jiëis Il Turodra | Turodra | Jiëis Il Turodra | Chỉ huy quân đoàn hủy diệt của Đế quốc Kadra Lv 178, bị Yu IlHan trảm thủ tập kích dưới đáy biển | 131 |
 | Kut'sach Yi Zeta | Zeta | Kut'sach Yi Zeta | Hiệp sĩ chuyển chức 3 Lv 101 của quân đoàn Kadra bị Yu IlHan kết liễu | 131 |
+| Festo |  | Festo | Kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra, đệ tử của kiếm sĩ trung niên; bị Yu IlHan gài mìn ma thạch nổ trọng thương rồi chém đầu tại hoàng thành Pajin Meccadira | 133 |
+| Lupeta |  | Lupeta | Thiên thần phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ, tiếp cận cổng không gian dưới đáy biển và bị Spiera phục kích chém làm đôi | 133 |
 
 ## Chi tiết
 
@@ -441,4 +443,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Chromano Il Pedra
 - Giới tính, vai trò: Nam, đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ.
 - Xuất hiện tính đến chương 129: Bị Yu IlHan tập kích bằng 5 ngọn thương nghiền nát mũ giáp tiêu diệt tại chỗ.
+
+### Festo
+- Giới tính, vai trò: Nam, kỵ sĩ chuyển chức lần 4 trẻ tuổi của Đế quốc Kadra, đệ tử của kiếm sĩ trung niên.
+- Xuất hiện tính đến chương 133: Lao vào định cứu viện thì trúng mìn ma thạch giấu dưới xác đồng đội nổ toác giáp ngực, sau đó bị Yu IlHan dùng roi chém bay đầu và thiêu hủy thi thể.
+
+### Lupeta
+- Giới tính, vai trò: Nam, thiên thần phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ.
+- Xuất hiện tính đến chương 133: Tiếp cận cánh cổng không gian dưới đáy biển Đại Tây Dương thì bị Spiera phục kích dùng thương chém làm đôi tiêu diệt tại chỗ.
 
