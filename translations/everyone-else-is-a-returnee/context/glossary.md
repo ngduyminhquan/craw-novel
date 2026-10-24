@@ -527,3 +527,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |
 | Frenzied and Leisurely Lightning ruler's Dragonic bracelet |  | Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết hệ sấm sét do Yu IlHan rèn từ vảy rồng hệ lôi yêu cầu pháp sư hệ lôi chuyển chức 3 |
 | Double Thunderstorm |  | Lôi Bão Kép | khác | 126 | Mong muốn sở hữu cùng lúc hai cơn bão sấm sét của Yu IlHan |
+| Open Gate |  | Mở Cổng | khác | 127 | Năng lực kết nối thế giới hạn chế mà Yu IlHan giả định phe địch sở hữu |
+| Pure Destruction |  | Hủy Diệt Thuần Khiết | khác | 127 | Giáo lý của Quân Đội Ma Hủy Diệt |

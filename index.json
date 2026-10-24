@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T03:48:10Z",
+  "generatedAt": "2026-10-24T03:56:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -761,6 +761,12 @@
           "title": "Chương 126: Xâm Lược I",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_126.md",
           "sha": "602793737ba3f0ed768d7e6c251a4c21ca421f13"
+        },
+        {
+          "number": 127,
+          "title": "Chương 127: Xâm Lược II",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_127.md",
+          "sha": "d9f934e6e373db93f16e3a7baa9ab80f4d9625e2"
         }
       ]
     }

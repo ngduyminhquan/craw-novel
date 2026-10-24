@@ -131,7 +131,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | reviewed |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | reviewed |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | reviewed |  |
-| 127 |  | Chapter_127 - Invade II.txt | Invade II | todo |  |
+| 127 |  | Chapter_127 - Invade II.txt | Invade II | done |  |
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | todo |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | todo |  |
 | 130 |  | Chapter_130 - Invade V.txt | Invade V | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -741,3 +742,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#124-126] Đoạn 126:127 và 126:129 sửa xưng hô của Yu IlHan với nhóm thuộc hạ thế nào? → Sửa từ các người thành mọi người, đồng thời bổ sung quy tắc vào phần Riêng truyện này của rules.md để các chương sau không tái phạm. (orchestrator)
 - [#124-126] Đoạn 126:38 sửa từ tiếng Anh and còn sót thế nào? → Sửa Liera and Spiera thành Liera và Spiera. (orchestrator)
 - [#124-126] Đoạn 125:104 diễn đạt lại cụm an unexpected blow thế nào? → Sửa thành có thêm một hiệu ứng đòn đánh bất ngờ ngoài dự kiến cho rõ nghĩa tính năng của vũ khí. (orchestrator)
+- [#127] Tên khái niệm "Open Gate" mà Yu IlHan đặt cho quyền năng kết nối thế giới bị hạn chế của địch — Tạm chọn: "Mở Cổng". Phương án khác: "Khai Môn", "Cổng Mở". Tạm dùng trong bản dịch: "Mở Cổng". → Duyệt phương án đã dùng: dịch là Mở Cổng (tên tạm do Yu IlHan tự đặt trong suy nghĩ cho năng lực mở cổng kết nối thế giới). (orchestrator)
+- [#127] Giáo lý "Pure Destruction" của Quân Đội Ma Hủy Diệt — Tạm chọn: "Hủy Diệt Thuần Khiết". Phương án khác: "Sự Hủy Diệt Thuần Khiết". Tạm dùng trong bản dịch: "Hủy Diệt Thuần Khiết". → Duyệt phương án đã dùng: dịch là Hủy Diệt Thuần Khiết, đồng bộ với tên Quân Đội Ma Hủy Diệt (Destruction Demon Army). (orchestrator)
+- [#127] Lỗi thiếu dấu mở ngoặc vuông `[` ở đoạn 20 raw EN (`Just what was their objective?...] (Spiera)`) — Tạm chọn: thêm dấu `[` ở đầu đoạn dịch thành `[Mục tiêu của chúng rốt cuộc là gì chứ?...] (Spiera)`. Hệ quả: QA check báo cảnh báo lệch 1 đoạn `[` (raw 20, vi 21). Tạm dùng: đã thêm `[`. → Duyệt phương án đã dùng: bổ sung dấu `[` ở đầu câu thoại tâm linh của Spiera theo đúng định dạng rules.md, chấp nhận cảnh báo đếm đoạn `[ ]` của qa_check.py (tương tự chương 2 và 63, không lách cảnh báo). (orchestrator)

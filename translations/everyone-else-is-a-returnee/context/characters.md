@@ -43,7 +43,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jirl | Jril | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
-| Yumir | Mir | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
+| Yumir | Mir; Mir-nim; Imperial Prince | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
 | Flemir |  | Flemir | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, thực thể chuyển chức 4 | 113 |
 | Ikedka |  | Ikedka | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt, đối thủ của Flemir tại Kiroa | 114 |
 | Quesad | Red demon wolf Quesad; Blood Fenrir Quesad | Quesad | Thủ lĩnh Lang tộc chuyển chức 4 cấp 233 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 115 |
@@ -361,6 +361,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 120: Đạt cấp độ trên 60 sau khi cùng Liera và Erta dọn dẹp các hầm ngục lân cận; tiếp tục rèn luyện Ẩn Thân, Phong Ma Pháp Trung Cấp và chuẩn bị bước vào 2 tháng rèn luyện trong kết giới cùng bố.
 - Trạng thái tính đến chương 122–123: Đạt cấp độ 65; được Erta hướng dẫn học ma pháp triệu hồi xuyên kết giới Đồng Hồ Cát Vĩnh Hằng; vô tình tạo ra rượu táo pha máu rồng.
 - Trạng thái tính đến chương 124–126: Đạt Ẩn Thân cấp 70, Cận Chiến cấp 60, thi pháp phong hệ không cần niệm chú; ăn thịt rồng để gia tăng vĩnh viễn cấp độ và chỉ số; dễ dàng áp đảo toàn bộ thuộc hạ của IlHan trong đấu tập.
+- Trạng thái tính đến chương 127: Chuẩn bị chuyển chức lần 3; được bố trang bị mũ cối và giáp hộ ngực xương rồng cùng thuốc mana và rượu Hơi Thở để xuất trận chiến đấu cùng nhóm elf.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
