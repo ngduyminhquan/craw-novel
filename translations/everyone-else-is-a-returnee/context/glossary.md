@@ -551,3 +551,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Hero of Fire |  | Hỏa Chi Dũng Giả | danh hiệu | 138 | Danh hiệu đạt được khi tiêu diệt Ma Thú Hỏa Sơn (+40% kháng và tấn công thuộc tính hỏa) |
 | Immature Blurred dragon |  | Ấu Long Mờ Nhạt | quái vật | 139 | Dạng rồng tiến hóa của Yumir khi đạt cấp 100 |
 | Big and wide shadow |  | Quảng Đại Chi Ảnh | danh hiệu | 140 | Danh hiệu của Yumir (mở rộng phạm vi và tăng hiệu quả kỹ năng Ẩn Thân cho đồng đội) |
+| Ruin Calling |  | Hiệu Triệu Diệt Vong | vật phẩm | 141 | Cánh tạo tác phẩm cấp Sử Thi rèn từ xương và ma thạch của Ma Thú Hỏa Sơn |

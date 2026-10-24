@@ -864,3 +864,9 @@ Tổ đội 10 người bắt đầu chiến dịch thảm sát săn quái toàn
 Sau một năm rưỡi, Ẩn Thân của Yumir đạt cấp 90 và nhận danh hiệu 'Quảng Đại Chi Ảnh', giúp mở rộng phạm vi ẩn thân cho toàn đội và biến họ từ kẻ trốn chạy thành những kẻ đi săn, lần lượt quét sạch gần 100 quái vật chuyển chức 4, đưa cấp độ trung bình cả nhóm lên 130 sau 2 năm.
 Sau 2 năm 9 tháng, Thế Giới Bị Bỏ Rơi mở khóa cô lập; nhóm tiêu hao ma thạch kích hoạt ma pháp trận trở về Trái Đất an toàn.
 Cảnh kết thúc: Cả nhóm tràn đầy lo âu lẫn phấn khởi bước qua cánh cổng để trở về với IlHan, và kinh ngạc khi nhận ra ở Trái Đất thực chất mới chỉ trôi qua vỏn vẹn 10 ngày.
+
+## 141
+Nhận thấy kỹ năng Thống Trị, Cộng Hưởng Long Nhân và Long Huyết liên tục tăng cấp dữ dội nhờ nhóm Yumir cày cuốc, Yu IlHan yên lòng rằng mọi người vẫn sống sót bình an; Vanguard tiếp tục mở đợt giao dịch vũ khí cao cấp lần thứ 2 thu về vô số đất đai và tài sản trước nỗi kinh sợ Đại Tai Biến lần 2 của nhân loại.
+Gặp gỡ Kang HaJin tại Gangnam nơi đặt cổng Kiroa, IlHan trấn an cậu về sự trung thành của bầy sói và tiết lộ dự định một mình xây dựng một đại dinh thự hoành tráng trước khi mọi người trở về.
+Tận dụng xương và viên ma thạch chuyển chức 4 của Ma Thú Hỏa Sơn kết hợp Ngọn Lửa Vĩnh Cửu, Liệt Hỏa và lửa tím của Bát Vĩ Long Thương, IlHan rèn suốt 6 ngày tạo nên 7.867 phiến vũ lưỡi đao và khắc ma pháp ngữ thành công; nâng Chế Tác Mana lên cấp 60 và hoàn thành đôi cánh tạo tác phẩm cấp Sử Thi 'Hiệu Triệu Diệt Vong' (tăng 30% hiệu ứng kỹ năng cận chiến như Bật Nhảy, Quái Lực và tạo sóng xung kích nhân tốc độ lên gấp bội).
+Cảnh kết thúc: Giữa lúc IlHan cùng Liera đang thử nghiệm đôi cánh mới, Spiera khẩn cấp truyền âm báo tin cánh cổng tại New York sắp mở ra sau đúng 10 ngày Trái Đất chờ đợi.
