@@ -809,6 +809,12 @@ Khi tiểu đoàn xâm lược hàng ngàn quân của Đế quốc Kadra kéo q
 Tiến vào hầm ngục dưới đáy biển và tìm thấy cánh cổng không gian dẫn thẳng sang thế giới Ferata, Yu IlHan quyết định sang tận nơi diệt cỏ tận gốc; anh nhờ Spiera ở lại phong tỏa lối vào canh chừng đám thiên thần phản bội.
 Cảnh kết thúc: Không chút do dự trước nguy cơ bị bài xích ở thế giới xa lạ, Yu IlHan mỉm cười bước qua cánh cổng không gian tiến thẳng vào thế giới Ferata để kết thúc triệt để mối đe dọa xâm lăng.
 
+## 132
+Yu IlHan bước qua cổng không gian sang thế giới Ferata (nơi có 2 mặt trời), lập tức búng tay nghiền nát đám pháp sư canh cổng và dùng phi thương cùng vũ khí mới Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn kết hợp Liệt Hỏa và Huyết Hỏa tàn sát toàn bộ tiểu đoàn kỵ sĩ của đại đế quốc Ferata Ma Kadra (trong đó có phó đoàn trưởng Kỵ Sĩ Đoàn Lyel); kỹ năng Tử Thần thăng lên cấp 34 (+65% năng lực).
+Đạo quân bị thiêu rụi tạo thành biển lửa ngập trời thu hút hai cao thủ chuyển chức lần 4 thuộc phe địch (hai thầy trò gồm người đệ tử trên cấp 220 và sư phụ trung niên đã sống hàng trăm năm); cả hai nhầm tưởng kẻ địch là một ma chiến sĩ đang ẩn nấp trong biển lửa nên gầm thét thề tử thủ tiêu diệt kẻ xâm nhập.
+Cảnh kết thúc: Xác nhận cánh cổng đã đóng chặt, Yu IlHan mỉm cười chào "Hasta la vista!" lướt qua hai tên chuyển chức lần 4, bỏ mặc chúng chịu sát thương theo thời gian (DoT) và canh gác trong vô vọng để xông thẳng vào nội thành trống rỗng càn quét, thiêu rụi toàn bộ các vật phẩm trọng yếu của đế quốc.
+
+
 
 
 

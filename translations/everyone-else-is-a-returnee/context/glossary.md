@@ -539,3 +539,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Guyana |  | Guyana | địa danh | 130 | Quốc gia ở Nam Mỹ tiếp giáp Venezuela |
 | Brazil |  | Brazil | địa danh | 130 | Quốc gia lớn nhất Nam Mỹ tiếp giáp Venezuela |
 | Colombia | Columbia | Colombia | địa danh | 130 | Quốc gia ở Nam Mỹ tiếp giáp Venezuela |
+| Lyel Knights |  | Kỵ Sĩ Đoàn Lyel | tổ chức | 132 | Lực lượng kỵ sĩ thuộc đại đế quốc Ferata Ma Kadra |
+| Battle of Competition |  | Cuộc Chiến Cạnh Tranh | hệ thống | 132 | Cuộc cạnh tranh quy mô lớn giữa các thế giới trong giai đoạn Đại Tai Biến |
+| Blood flame |  | Huyết Hỏa | khác | 132 | Ngọn lửa sinh ra từ máu kích hoạt bởi dòng thuộc tính của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
+| Magic warrior |  | Ma chiến sĩ | chức nghiệp | 132 | Chức nghiệp chiến đấu kết hợp ma pháp và võ thuật tại thế giới Ferata |
