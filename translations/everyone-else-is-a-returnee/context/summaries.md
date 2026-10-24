@@ -877,3 +877,10 @@ Yu IlHan làm quen với đôi cánh Hiệu Triệu Diệt Vong, tận dụng s�
 Trong cơn xúc động và hỗn loạn, cả nhóm (từ Erta, MiRae khóc nức nở, Na YuNa đến các elf và Erica) đồng loạt nhào vào ôm chặt lấy IlHan khiến anh ngạt thở hoảng loạn và phải gắt lên hỏi tại sao chỉ mới qua 10 ngày mà mọi người lại cuống cuồng như vậy.
 Cảnh kết thúc: Mọi người sững sờ trước mốc 10 ngày của Trái Đất, và Yumir ngơ ngác tiết lộ rằng cả nhóm thực chất đã trải qua suốt 1.000 ngày trong Thế Giới Bị Bỏ Rơi, tạo nên một tỷ lệ chênh lệch thời gian 10 ngày : 1.000 ngày quen thuộc đến rợn người đối với IlHan và Liera.
 
+## 143
+Kang MiRae lấy lại bình tĩnh, tách Na YuNa khỏi IlHan và điều động trực thăng cùng chuyên cơ đưa cả nhóm về Hàn Quốc; Kang MiRae và Na YuNa xin ở nhờ căn hộ của Yu IlHan trong 3 ngày để nghỉ ngơi hồi phục thể lực và tâm trí sau 2 năm 9 tháng chiến đấu cạn kiệt, tránh bị gia đình và clan quấy rầy.
+Nghe kể lại hành trình, IlHan hài lòng khi biết Yumir đã gánh đội nhờ kỹ năng Ẩn Thân tiến hóa che giấu cho đồng đội; các thiên thần Liera, Spiera và Erta tranh luận về tỷ lệ chênh lệch thời gian 10 ngày : 1.000 ngày quá trùng hợp với thời gian IlHan bị bỏ lại, nghi ngờ ghi chép của dòng họ Yu có mối liên hệ bí ẩn với Trái Đất.
+IlHan đưa Yumir về thăm nhà; bố mẹ anh kinh ngạc nhưng nhanh chóng chấp nhận đứa cháu nội 11 tuổi dù Mir giải thích mẹ đã mất và rồng nở từ trứng.
+Thấy mẹ mình ngày càng trẻ ra và có dấu hiệu đạt chuyển chức 2, IlHan thăm dò xem 10 năm ở Ya-umin có gì bất thường không nhưng mẹ anh chỉ nói không có gì, giúp anh thở phào vì bố mẹ không phải chịu nỗi đau cô độc như mình.
+Cảnh kết thúc: Trong lúc Kim YeSeul vui vẻ chuẩn bị bữa cơm thịnh soạn và gặng hỏi ứng viên con dâu trong số các cô gái xinh đẹp, IlHan hùng hồn tuyên bố chẳng có người phụ nữ nào thèm lấy mình khiến mẹ anh vừa đi vào bếp vừa thở dài lo lắng cho tương lai của con trai.
+

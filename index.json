@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T07:07:49Z",
+  "generatedAt": "2026-10-24T07:21:39Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -857,6 +857,12 @@
           "title": "Chương 142: Không Phải Tôi, Mà Là Con Trai Tôi?! XI",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_142.md",
           "sha": "ef2a385722488d6b294675e77a253ac5fe23b0cf"
+        },
+        {
+          "number": 143,
+          "title": "Chương 143: MVP Là Của Tôi I",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_143.md",
+          "sha": "ce3f28b959791feb5a9c05919ef7386eae9461cc"
         }
       ]
     }
