@@ -53,6 +53,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Erica | Moon Wolf Erica; Ericia | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
 | Kang Chan | Said Kang Chan | Kang Chan | Bố của Kang MiRae và Kang HaJin, tài phiệt thế lực ngầm | 121 |
 | Chromano Il Pedra |  | Chromano Il Pedra | Đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ, bị Yu IlHan tập kích bằng 5 ngọn thương nghiền nát mũ giáp tiêu diệt tại chỗ | 129 |
+| Jiëis Il Turodra | Turodra | Jiëis Il Turodra | Chỉ huy quân đoàn hủy diệt của Đế quốc Kadra Lv 178, bị Yu IlHan trảm thủ tập kích dưới đáy biển | 131 |
+| Kut'sach Yi Zeta | Zeta | Kut'sach Yi Zeta | Hiệp sĩ chuyển chức 3 Lv 101 của quân đoàn Kadra bị Yu IlHan kết liễu | 131 |
 
 ## Chi tiết
 
@@ -161,6 +163,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 125: Nhờ kỹ năng Ngôn Ngữ Lv Max phác thảo thành công bản thiết kế ma pháp trận chứa ngôn ngữ cổ xưa của Bẫy Hủy Diệt; chế tạo thành công Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn, Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt và Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh (đều đạt phẩm cấp Truyền Thuyết) từ xương rồng Karrows và xương ác lang Quesad.
 - Trạng thái tính đến chương 126: Thuần thục kỹ thuật thay giáp nhanh tức thì trong lúc di chuyển và nhận thức không gian ba chiều; chế tạo thành công Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy (phẩm cấp Độc Nhất), Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ (phẩm cấp Truyền Thuyết) và Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong (phẩm cấp Truyền Thuyết); hoàn tất 2 tháng kết giới và linh cảm thấy sự cấu kết mờ ám giữa các thế lực thực thể cấp cao khi Thế Giới Bị Bỏ Rơi mới lại kết nối với Trái Đất.
 - Trạng thái tính đến chương 127–129: Di chuyển bằng cách phối hợp Quái Lực, Bật Nhảy liên hoàn và triệu hồi khiên làm điểm tựa chân với vận tốc 6.000 km/h; phác thảo bản thiết kế cánh lông vũ kim loại kết hợp long ngữ và ngôn ngữ elf cổ đại; tận dụng dao găm gắn vảy rồng chế tạo vũ khí xạ kích di động chi viện cho Trái Đất; quét sạch quân xâm lược lột da của thế giới khác trên hơn 10 hòn đảo Nam Mỹ (hạ 7 kẻ chuyển chức 3 và 2.900 tên chuyển chức 2), thu toàn bộ xác nạn nhân lẫn địch vào túi đồ.
+- Trạng thái tính đến chương 130–131: Quét sạch toàn bộ quân xâm lược dị giới lột da tại Venezuela và dùng Bát Vĩ Long Thương tra khảo tàn niệm khai ra âm mưu của đại đế quốc Ferata Ma Kadra; trang bị Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh lặn xuống đáy Đại Tây Dương tận dụng 90% kháng thuộc tính thủy để tự do di chuyển và tạo hàng ngàn đạn băng bao vây hẻm vực; duy trì Ẩn Thân trảm thủ chỉ huy Jiëis Il Turodra Lv 178 và tiêu diệt kỵ sĩ Kut'sach Yi Zeta Lv 101, tàn sát sạch tiểu đoàn hàng ngàn quân Đế quốc Kadra trong 20 phút; nhờ Spiera trấn giữ cánh cổng ngăn kẻ phản bội, một mình bước qua cánh cổng không gian tiến thẳng vào thế giới Ferata.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

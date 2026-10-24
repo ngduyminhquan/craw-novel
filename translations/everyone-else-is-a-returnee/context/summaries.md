@@ -803,6 +803,13 @@ Nhờ đã tàn sát hàng ngàn tên ở quần đảo trước đó, IlHan thu
 Thấy mạng internet bị cắt đứt và không tìm thấy cổng thế giới trên đất liền, IlHan dùng Bát Vĩ Long Thương chứa linh hồn Orochi cắn nuốt tàn niệm để tra khảo linh hồn đám xâm lược; tàn niệm sợ hãi khai ra chúng đến từ đại đế quốc Ferata Ma Kadra của thế giới Ferata theo kế hoạch bắt tay với Quân Đội Ánh Sáng Rực Rỡ, và cánh cổng hầm ngục địa hạ được giấu kín dưới đáy Đại Tây Dương.
 Cảnh kết thúc: Quét sạch toàn bộ tàn quân Ferata lẩn trốn ở Venezuela và các vùng lân cận, IlHan lập tức lên đường tiến xuống đáy Đại Tây Dương để tiêu diệt hang ổ gốc rễ của địch trước khi tổng bộ của chúng kịp phái viện binh sang.
 
+## 131
+Yu IlHan mặc Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh lặn sâu xuống đáy Đại Tây Dương, phát huy tối đa khả năng kháng thuộc tính thủy 90% để bơi như ngư lôi và tìm ra cánh cổng hầm ngục ngụy trang gần rãnh biển sâu.
+Khi tiểu đoàn xâm lược hàng ngàn quân của Đế quốc Kadra kéo qua cánh cổng, Yu IlHan duy trì Ẩn Thân, nhất kích trảm thủ tên chỉ huy Jiëis Il Turodra Lv 178 bằng Bát Vĩ Long Thương kết hợp Liệt Hỏa và kết liễu kỵ sĩ Kut'sach Yi Zeta Lv 101, đồng thời dùng hàng ngàn viên đạn băng phong tỏa đường rút và tàn sát toàn bộ quân địch trong 20 phút.
+Tiến vào hầm ngục dưới đáy biển và tìm thấy cánh cổng không gian dẫn thẳng sang thế giới Ferata, Yu IlHan quyết định sang tận nơi diệt cỏ tận gốc; anh nhờ Spiera ở lại phong tỏa lối vào canh chừng đám thiên thần phản bội.
+Cảnh kết thúc: Không chút do dự trước nguy cơ bị bài xích ở thế giới xa lạ, Yu IlHan mỉm cười bước qua cánh cổng không gian tiến thẳng vào thế giới Ferata để kết thúc triệt để mối đe dọa xâm lăng.
+
+
 
 
 

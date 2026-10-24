@@ -135,7 +135,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 128 |  | Chapter_128 - Invade III.txt | Invade III | reviewed |  |
 | 129 |  | Chapter_129 - Invade IV.txt | Invade IV | reviewed |  |
 | 130 |  | Chapter_130 - Invade V.txt | Invade V | done |  |
-| 131 |  | Chapter_131 - Invade VI.txt | Invade VI | todo |  |
+| 131 |  | Chapter_131 - Invade VI.txt | Invade VI | done |  |
 | 132 |  | Chapter_132 - Invade VII.txt | Invade VII | todo |  |
 | 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | todo |  |
 | 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -749,3 +750,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#129] Cách dịch tên tổ chức Burning Soul tại Mỹ? → Duyệt phương án đã dùng: giữ tên riêng tiếng Anh là Clan Burning Soul theo rules.md (nhất quán với Clan Metal Knights, Clan Magia, Clan Bump). (orchestrator)
 - [#127-129] Duyệt sửa 3 lỗi xưng hô của Liera tại chương 129 (đoạn 9, 24, 43) thế nào? → Chấp nhận sửa từ anh / em về tôi / cậu theo đúng pronouns.md. (orchestrator)
 - [#127-129] Có áp dụng chỉnh sửa ở đoạn 127:57 và đoạn 128:36 không? → Chấp nhận đoạn 127:57 (sửa cậu Mir thành Điện hạ Mir cho khớp danh xưng của các elf); bác đoạn 128:36 (vì raw không có (Spiera) và đoạn 35 đã dẫn người nói). (orchestrator)
+- [#131] Cách dịch từ "Oppa" khi Liera trêu Yu IlHan: hiện tạm dịch "oppa" ("[Chạy đi oppa ơi, chạy điii! Hura!]") để giữ trọn yếu tố hài hước văn hóa Hàn Quốc; đề xuất giữ nguyên hoặc chuyển sang thuần Việt ("anh ơi / anh trai"). → Giữ nguyên từ "oppa" ("[Chạy đi oppa ơi, chạy điii! Hura!]" và "Tôi thành oppa của cô từ bao giờ thế hả.") để truyền tải trọn vẹn nét hài hước văn hóa Hàn Quốc và sự trớ trêu khi thiên thần triệu năm tuổi gọi thanh niên là oppa. (orchestrator)
+- [#131] Tên riêng "Lepido" trong câu thoại của quân xâm lược Đế quốc Kadra ("block Lepido") → Giữ nguyên tên riêng "Lepido" theo quy tắc tên riêng nước ngoài / dị giới trong rules.md. (orchestrator)

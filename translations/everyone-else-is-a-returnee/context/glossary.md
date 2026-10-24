@@ -519,7 +519,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
 | Destruction-calling Titan's Resonance Thunderhammer |  | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
-| Chilly Blizzard tyrant's Mixed bone Fullplate armor |  | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
+| Chilly Blizzard tyrant's Mixed bone Fullplate armor | Chilly Blizzard tyrant's Mixed bone Full plate armour | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
 | Destruction-preventing Swift Cursed dragon Earring |  | Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy | vật phẩm | 126 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ xương rồng và ma thạch chuyển chức 3 |
 | Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |
 | Frenzied and Leisurely Lightning ruler's Dragonic bracelet |  | Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết hệ sấm sét do Yu IlHan rèn từ vảy rồng hệ lôi yêu cầu pháp sư hệ lôi chuyển chức 3 |
@@ -532,6 +532,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Burning Soul |  | Clan Burning Soul | tổ chức | 129 | Clan thuộc Liên Minh Tiền Tuyến phát hiện hầm ngục tại New York |
 | Ferata |  | Ferata | địa danh | 130 | Thế giới bậc thấp nơi đại đế quốc Ferata Ma Kadra khởi nguồn xâm lược Trái Đất |
 | Ferata Ma Kadra |  | Ferata Ma Kadra | tổ chức | 130 | Đại đế quốc tại thế giới Ferata liên minh với Quân Đội Ánh Sáng Rực Rỡ để xâm lăng Trái Đất |
+| Kadra Empire | Kadra | Đế quốc Kadra | tổ chức | 131 | Đại đế quốc thuộc thế giới Ferata mưu đồ xâm lăng Trái Đất, cách gọi vắn tắt của Ferata Ma Kadra |
+| Lepido |  | Lepido | khác | 131 | Mục tiêu hoặc lực lượng tại Nam Mỹ mà quân xâm lược Kadra dự tính chặn đường |
 | Feratean | Ferateans | người Ferata | chủng tộc | 130 | Cư dân hoặc binh lính đến từ thế giới Ferata |
 | Bolívar | Bol | Bolívar | địa danh | 130 | Bang có diện tích lớn nhất của Venezuela |
 | Guyana |  | Guyana | địa danh | 130 | Quốc gia ở Nam Mỹ tiếp giáp Venezuela |
