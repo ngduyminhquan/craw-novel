@@ -252,7 +252,6 @@
 | Transcendent Regeneration | Transcendent Regeneration skill | Siêu Việt Tái Sinh | kỹ năng | 45 | Kỹ năng tiến hóa từ Nghỉ Ngơi, độ khó tu luyện Hạng EX, hồi phục chấn thương tức thì |
 | EX | EX-tier; EX rank | Hạng EX | hệ thống | 45 | Cấp độ khó hoặc phẩm cấp vượt trên cả Hạng SSS |
 | Abandoned World | Abandoned Worlds | Thế Giới Bị Bỏ Rơi | khác | 45 | Thế giới mất cân bằng nghiêm trọng do quái vật áp đảo dẫn đến bị Thiên giới cắt đứt liên lạc và bỏ rơi |
-| physical abilities |  | năng lực thể chất | hệ thống | 43 | Năng lực thể chất tổng thể trong các bảng mô tả kỹ năng/buff hệ thống |
 | Holy Knight | holy knight; Paladin; paladins | Thánh Kỵ Sĩ | chức nghiệp | 47 | Chức nghiệp của Kang HaJin |
 | Escape Scroll | escape scroll | Cuộn Trục Đào Tẩu | vật phẩm | 47 | Cuộn trục dịch chuyển ma pháp giúp rời khỏi hầm ngục |
 | Executor angels | Executor angel | thiên thần chấp hành | chủng tộc | 47 | Các thiên thần thực thi quyền năng của Thiên giới |
@@ -324,7 +323,6 @@
 | Leap |  | Bật Nhảy | kỹ năng | 57 | Kỹ năng có điều kiện giúp dậm chân nhảy cao khi đang kích hoạt Quái Lực |
 | Counter |  | Phản Kích | kỹ năng | 57 | Kỹ năng chủ động phản đòn công kích |
 | Snorlax | Sn*rl*x | Sn*rl*x | khác | 57 | Được phép giữ nguyên: Pokemon lười ngủ (tham chiếu văn hóa đại chúng) |
-| frag shot |  | đạn nổ mảnh | vật phẩm | 57 | Loại đạn cọc phát nổ phóng mảnh bom của Súng Bắn Cọc được thiết kế nổ bên trong cơ thể kẻ địch |
 | Frighteningly Destructive Thunder Pile Bunker |  | Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi | vật phẩm | 58 | Vũ khí Súng Bắn Cọc sau khi biến đổi do liên tục tiếp xúc mana thuộc tính sấm sét |
 | Quick Lightning Storm's Gold Leather Bracelet |  | Vòng Tay Da Vàng Bão Sấm Sét Mau Lẹ | vật phẩm | 59 | Trang bị tạo tác vòng tay da làm từ da và ma thạch Chim Sấm Sét Khổng Lồ |
 | Shandong | Shandong Province | Sơn Đông | địa danh | 59 | Tỉnh Sơn Đông ở miền đông Trung Quốc |
@@ -337,8 +335,6 @@
 | Dark Yarn |  | Sợi Chỉ Bóng Tối | vật phẩm | 61 | Nguyên liệu dệt may thu được từ quái vật nguyên bản trong hầm ngục truyền thuyết |
 | Equip Restrictions |  | Giới hạn trang bị | hệ thống | 61 | Yêu cầu điều kiện để trang bị vật phẩm |
 | Auto-recovery |  | Tự phục hồi | hệ thống | 61 | Dòng thuộc tính tự động hồi phục độ bền của trang bị |
-| health potion |  | thuốc hồi máu | vật phẩm | 61 | Dược phẩm hồi phục thể lực cao cấp |
-| magic potion |  | thuốc hồi mana | vật phẩm | 61 | Dược phẩm hồi phục mana cao cấp |
 | Destruction Demon Army |  | Quân Đội Ma Hủy Diệt | tổ chức | 62 | Một trong các thế lực thực thể cấp cao lớn mang dã tâm hủy diệt |
 | Garden of Sunset |  | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
 | Brilliant Army of Light | Army of Brilliant Light; Army of Dazzling Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
@@ -406,9 +402,6 @@
 | Orochi | the Orochi | Orochi | quái vật | 73 | Tên gọi tắt của quái xà Yamata no Orochi |
 | Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |
 | DoT | Damage over Time | sát thương theo thời gian | hệ thống | 74 | Sát thương duy trì liên tục trong thuật ngữ game |
-| landscape-changing power |  | năng lực biến đổi địa hình | hệ thống | 75 | Năng lực của quái vật đột biến cấp cao làm biến dạng môi trường xung quanh |
-| magic bullet |  | đạn ma pháp | hệ thống | 73 | Đạn ma lực mang nhiệt lượng hoặc thuộc tính do Yamata no Orochi hoặc pháp sư bắn ra từ xa |
-| great blessing |  | đại chúc phúc | kỹ năng | 75 | Kỹ năng chúc phúc thánh lực tối thượng của Na YuNa ban bùa lợi cực hạn (trong 5 phút: tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp) |
 | Dragon Slayer |  | Đồ Long Giả | danh hiệu | 76 | Danh hiệu nhận được sau khi hạ gục quái vật Long tộc Yamata no Orochi (tăng 10% mọi năng lực khi chiến đấu chống lại Long tộc) |
 | Heavenly Cloud-Gathering Sword | Ama no Murakumo no Tsurugi; Ama no Murakumo; Ame no Murakumo; Heavenly Cloud Gathering Sword | Thiên Tùng Vân Kiếm | vật phẩm | 76 | Tạo tác thần kiếm phẩm cấp Truyền Thuyết thu được từ đuôi của Yamata no Orochi |
 | Wall of Chaos |  | Bức Tường Hỗn Loạn | địa danh | 77 | Tiền tuyến chiến trường ngăn cách các thế giới với các thực thể cấp cao tà ác |
@@ -417,8 +410,6 @@
 | Higher Curse Resistance |  | Kháng Lời Nguyền Cấp Cao | kỹ năng | 77 | Kỹ năng kháng nguyền rủa cấp cao nhận từ phần thưởng Nhiệm Vụ Thiên Giới 005 |
 | God rank | God-rank | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
 | predator | predators | kẻ săn mồi | chủng tộc | 77 | Các thực thể cấp cao tà ác vượt qua Bức Tường Hỗn Loạn mưu toan nuốt chửng ghi chép của mọi thế giới |
-| extraction |  | trích xuất | kỹ năng | 78 | Kỹ thuật nén và trích xuất dòng thuộc tính từ trang bị sang ma thạch của Chế Tác Mana |
-| enchanter | enchanters | phù phép sư | chức nghiệp | 78 | Những người lấy Chế Tác Mana làm chức nghiệp chính |
 | Tyrant |  | Bạo Chúa | hệ thống | 78 | Dòng thuộc tính beta tăng sát thương chí mạng |
 | God of Dismantling |  | Thần Giải Phẫu | khác | 78 | Thực thể hư cấu hình thành từ tích lũy ghi chép giải phẫu (Erta ví von) |
 | Dismantle King |  | Vua Giải Phẫu | danh hiệu | 78 | Biệt danh trêu chọc Erta đặt cho Yu IlHan khi anh mổ hơn 100.000 quái vật trong 2 tuần |
@@ -447,8 +438,7 @@
 | Angel's Single Strike |  | Thiên Thần Nhất Kích | kỹ năng | 84 | Đòn đánh dồn toàn bộ sức mạnh mượn từ Thiên Thần Chi Viện vào một kích duy nhất |
 | Ghost | Ghosts | Oan hồn | quái vật | 84 | Quái vật thuộc chủng Undead hình thành từ những linh hồn chết oan do thảm họa hoặc vương quốc diệt vong |
 | World Hunt |  | Cuộc Săn Thế Giới | khác | 84 | Khái niệm chỉ chiến dịch đi săn quái vật quét sạch cả một thế giới của Yu IlHan |
-| mana sickness |  | say mana | khác | 84 | Hiện tượng choáng váng do tiếp xúc với nồng độ mana quá đậm đặc ở thế giới khác |
-| cheer pack |  | túi cheer pack | vật phẩm | 84 | Bao bì dạng túi có vòi nắp vặn dùng đựng thức uống máu |
+| mana sickness |  | say mana | hệ thống | 84 | Hiện tượng choáng váng do tiếp xúc với nồng độ mana quá đậm đặc ở thế giới khác |
 | Dark death god's Dragon fighter Black bone giant spear |  | Hắc Cốt Đại Thương Đấu Long Hắc Tử Thần | vật phẩm | 85 | Ngọn thương phẩm cấp Truyền Thuyết do Yu IlHan gia công từ Thiên Tùng Vân Kiếm kết hợp các dòng thuộc tính từ Thương Gai Diệt Long Hắc Tử Thần |
 | Black Bone Giant Spear |  | Hắc Cốt Đại Thương | vật phẩm | 85 | Vũ khí đại thương chế tác từ Thiên Tùng Vân Kiếm (xương của Yamata no Orochi) |
 | Great Jaw |  | Cự Ngạc | quái vật | 85 | Quái vật Long tộc chuyển chức 3 cấp 176 tại Daréu có hình dạng chắp vá với đôi cánh nhỏ và bộ hàm hung tợn |
@@ -480,8 +470,6 @@
 | Blowing Barrier |  | Cuồng Phong Kết Giới | kỹ năng | 98 | Ma pháp phong hệ dựng kết giới gió phòng thủ của bầy rồng phe Khu Vườn Hoàng Hôn |
 | Storm Guard |  | Phong Bạo Hộ Thể | kỹ năng | 98 | Kỹ năng ma pháp phong hệ bao bọc cuồng phong quanh thân để phòng thủ và quấy nhiễu địch của Lecidna |
 | Cursed Dragon |  | Nguyền Long | quái vật | 99 | Quái vật loài rồng chuyển chức 4 cấp 242 (Karrows) sở hữu hỏa diễm nguyền rủa |
-| dragon-tongue |  | tiếng rồng | khác | 93 | Ngôn ngữ cổ xưa của loài rồng mà Yu IlHan có thể hiểu được nhờ kỹ năng Ngôn Ngữ |
-| casting off one's shell | cast off one's shell; cast away one's shell | lột bỏ lớp vỏ | khác | 100 | Quá trình thực thể cấp cao giải phóng toàn bộ năng lượng tàn dư thế giới bậc thấp (phần tàn dư gọi là lớp vỏ - shell) |
 | Destruction Demon Soldier | Destruction Demon Soldiers | Ma Binh Hủy Diệt | khác | 101 | Chiến binh thuộc Quân Đội Ma Hủy Diệt sau khi trở thành thực thể cấp cao |
 | Immature Dragon | Baby Dragon | Ấu Long | quái vật | 101 | Quái vật rồng sơ sinh / chủng tộc khi mới nở của loài rồng (Yumir) |
 | Emperor |  | Hoàng đế | danh hiệu | 102 | Danh xưng người trị vì đế chế elf mà các elf tôn xưng Yu IlHan sau khi anh tiêu diệt toàn bộ loài rồng và làm chủ ma pháp trận |
