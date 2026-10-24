@@ -140,9 +140,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 133 |  | Chapter_133 - Invade VIII.txt | Invade VIII | reviewed |  |
 | 134 |  | Chapter_134 - Not Me, But My Son_! I.txt | Not Me, But My Son_! I | reviewed |  |
 | 135 |  | Chapter_135 - Not Me, But My Son_! II.txt | Not Me, But My Son_! II | reviewed |  |
-| 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | done |  |
-| 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | done |  |
-| 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | done |  |
+| 136 |  | Chapter_136 - Not Me, But My Son_! III.txt | Not Me, But My Son_! III | reviewed |  |
+| 137 |  | Chapter_137 - Not Me, But My Son_! IV.txt | Not Me, But My Son_! IV | reviewed |  |
+| 138 |  | Chapter_138 - Not Me, But My Son_! V.txt | Not Me, But My Son_! V | reviewed |  |
 | 139 |  | Chapter_139 - Not Me, But My Son_! VI.txt | Not Me, But My Son_! VI | todo |  |
 | 140 |  | Chapter_140 - Not Me, But My Son_! VII.txt | Not Me, But My Son_! VII | todo |  |
 | 141 |  | Chapter_141 - Not Me, But My Son_! VIII.txt | Not Me, But My Son_! VIII | todo |  |
@@ -763,3 +763,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#136] Lời thoại giễu nhại "The (weapons made of materials from) dragons shall punish you!" ở đoạn 116 và "Call me Ish..." ở đoạn 128 → Chấp nhận dịch "(Vũ khí làm từ nguyên liệu của) loài rồng sẽ trừng phạt mi!" và "Cứ gọi ta là Ish... À thôi. Này! Đằng kia! Di chuyển nhanh hơn xem!" (đồng bộ với câu đùa Ishmael ở chương 26); xóa từ chung "Ballista" khỏi glossary.md theo quyết định đã chốt ở chương 95. (orchestrator)
 - [#138] Danh hiệu "Hero of Fire" nhận được khi hạ gục Ma Thú Hỏa Sơn → Chốt dịch là "Hỏa Chi Dũng Giả" theo quy tắc Hán Việt ngắn gọn cho danh hiệu trong rules.md (đồng bộ với Đồ Long Giả, Cực Tốc Giả). (orchestrator)
 - [#138] Tên quái vật hộ quốc "Volcanic Demon Beast" (Lv 267) của Đế quốc Kadra → Chốt dịch là "Ma Thú Hỏa Sơn" (nối tiếp cách gọi "ma thú" ở chương 135–137). (orchestrator)
+- [#136-138] Các câu hỏi review chương 136-138: sửa "những kỷ lục" thành "những ghi chép" (#137 đoạn 110), sửa tiếng nổ "Ùuuuuuuuuum!" thành "Ầmmmmmmmm!" (#138 đoạn 51) và đề xuất cập nhật context → Chấp nhận 13 chỉnh sửa văn bản ở chương 136-138 (bác #138 đoạn 24 tách khoảng trắng tiếng hét) và thêm Boom / Booooom vào style.md; bác thêm từ chung record vào glossary.md. (orchestrator)

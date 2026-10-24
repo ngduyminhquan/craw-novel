@@ -18,7 +18,7 @@ Chà, chẳng còn cây lao nào để phóng nữa vì chúng đều đã gãy 
 
 "U ô ô ô!"
 
-Trước thảm họa to lớn đến phi lý này, dường như đầu óc của họ đều đã bị chập mạch. Đám kỵ sĩ còn sống sót thi nhau diễn màn kịch anh hùng. Họ hợp sức lại để chống lại con ma thú, điên cuồng tấn công nhằm gây ra bất kỳ tổn thương nào có thể!
+Trước thảm họa to lớn đến phi lý này, dường như đầu óc của họ đều đã bị chập mạch. Đám kỵ sĩ còn sống sót thi nhau diễn màn kịch anh hùng. Họ hợp sức để chống lại con ma thú, điên cuồng tấn công nhằm gây ra bất kỳ tổn thương nào có thể!
 
 Một lần nữa xác nhận rằng tinh thần con người luôn tự bẻ lái theo cách phù hợp với bản thân nhất, Yu IlHan đạp mạnh xuống mặt đất.
 
@@ -42,13 +42,13 @@ Ngọn lửa từ cơ thể nó thiêu đốt không khí và nuốt chửng c�
 
 Nguy hiểm nhất trên hết thảy vẫn là tiếng rống của nó. Mọi thứ nằm trên đường đi từ miệng nó đều bị xóa sổ, và anh không thể né tránh điều đó.
 
-Ma pháp của loài rồng vốn gần như không có độ trễ giữa niệm chú và kích hoạt đã đủ bá đạo rồi, thế nhưng gã này, xét về khả năng hủy diệt, lại liên tục xả những đòn đánh như thế cứ như thể chẳng tốn chút công sức nào!
+Ma pháp của loài rồng vốn gần như không có độ trễ giữa niệm chú và kích hoạt đã đủ bá đạo rồi, thế nhưng con quái này, xét về khả năng hủy diệt, lại liên tục xả những đòn đánh như thế cứ như thể chẳng tốn chút công sức nào!
 
 "Chậc!"
 
 "Ô ô ô!"
 
-"Khực!"
+"Khuặc!"
 
 Không thể né tránh chỉ bằng cách quan sát chuyển động của nó. Anh phải cảm nhận sự dao động của mana và đoán trước quỹ đạo trước khi đòn đánh thực sự tung ra, thậm chí còn phải bật nhảy hai lần liên tiếp mới né được.
 
@@ -218,7 +218,7 @@ Anh lấy ra một món vũ khí mới từ túi đồ. Món vũ khí mà anh đ
 
 3. Cộng hưởng với các vật phẩm làm từ cùng chất liệu với chiếc búa theo ý niệm của người dùng]
 
-[Vũ khí của Kẻ Sáng Tạo Thần Thoại. Vũ khí sẽ tiến hóa dựa trên những kỷ lục mà nó đạt được cùng chủ nhân.]
+[Vũ khí của Kẻ Sáng Tạo Thần Thoại. Vũ khí sẽ tiến hóa dựa trên những ghi chép mà nó đạt được cùng chủ nhân.]
 
 Cây búa không có những dòng thuộc tính lộng lẫy như chiếc roi. Tuy nhiên, không chỉ sức tấn công cao hơn khoảng 600 điểm, mà đặc tính của cả ba dòng thuộc tính đều tập trung vào một phương diện duy nhất, đó là chuyên trị một kẻ địch đơn lẻ to lớn!
 

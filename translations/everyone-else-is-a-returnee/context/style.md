@@ -40,6 +40,7 @@
 | Blerrrgh | Ọe / Oẹ | Tiếng thè lưỡi giả vờ nôn mửa hoặc ghê tởm của Erta |
 | Puh | Phụt / Phì | Tiếng bật cười phì, cười phụt ra |
 | Heheh | Hì hì / He he | Tiếng cười khẽ, đắc ý |
+| Boom / Booooom | Ầm / Ầmmmm | Tiếng nổ lớn khi va chạm kỹ năng hoặc ma pháp |
 
 ## Đặc điểm ghi nhận theo chương
 

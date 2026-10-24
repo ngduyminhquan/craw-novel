@@ -70,7 +70,7 @@ Cảnh tượng một con quái thú mang tầm hủy diệt cao hàng chục m�
 
 Bao trùm lấy họ là tiếng gầm của Yu IlHan, tiếng thét của con quái vật cùng mặt đất rung chuyển dữ dội. Và chỉ sau khi những giọt mưa từ bầu trời táp vào mặt, họ mới có thể lấy lại sự bình tĩnh và lý trí.
 
-Tái thiết đế quốc ư? Một truyền thuyết mới ư? Dù những điều như thế có tồn tại đi chăng nữa, họ cũng nhận ra rằng mình sẽ chẳng bao giờ có cơ hội làm bất cứ điều gì như vậy sau khi nhìn vào Yu IlHan. Chỉ có một vị anh hùng huyền thoại duy nhất tỏa sáng rực rỡ, và đó chỉ có thể là Yu IlHan. Đến cả vai trò của những con quái vật tép riu ven đường họ còn chẳng xứng đáng được coi là như thế.
+Tái thiết đế quốc ư? Một truyền thuyết mới ư? Dù những điều như thế có tồn tại đi chăng nữa, họ cũng nhận ra rằng mình sẽ chẳng bao giờ có cơ hội làm bất cứ điều gì như vậy sau khi nhìn vào Yu IlHan. Chỉ có một vị anh hùng huyền thoại duy nhất tỏa sáng rực rỡ, và đó chỉ có thể là Yu IlHan. Đến làm quái tép riu lót đường họ còn chẳng xứng.
 
 Họ đã bị cuốn theo danh nghĩa của đế quốc suốt cả cuộc đời, và giờ đây, họ sẽ chìm sâu vào vực thẳm cùng với một đế quốc vừa đi tới diệt vong vì một sai lầm chí mạng.
 
@@ -92,7 +92,7 @@ Bởi con ma thú sở hữu năng lực thao túng mana vượt trội áp đ�
 
 "Khặc!?"
 
-[Khuộc! Khéaaaaaaaaahk!]
+[Khuặcccccccccccc!]
 
 Tới khi nhận ra thì đã quá muộn. Cho dù phản xạ của Yu IlHan có nhanh đến đâu, anh cũng không thể bật nhảy ngay giữa lúc đang nện búa xuống. Trọng tâm của anh sẽ bị nghiêng, và hậu quả sẽ còn tồi tệ hơn nhiều so với việc trực tiếp đón đỡ đòn đánh đó.
 
@@ -100,7 +100,7 @@ Tới khi nhận ra thì đã quá muộn. Cho dù phản xạ của Yu IlHan c�
 
 Vì vậy, Yu IlHan liền dùng khiên Aegis bảo vệ thân mình rồi dốc toàn lực giáng búa xuống. Dù làn sóng mana đang ập tới có mạnh đến đâu, anh cũng sẽ hủy diệt tất cả bằng cú đòn này! Đây chính là pha đối đầu trực diện đầu tiên, và cũng là cuối cùng, giữa con ma thú và Yu IlHan.
 
-Ùuuuuuuuuum!
+Ầmmmmmmmm!
 
 Mana của nó nổ tung. Cây búa mang theo toàn bộ lượng mana còn lại của Yu IlHan cũng phun trào Liệt Hỏa và giáng trả dữ dội.
 
@@ -212,7 +212,7 @@ Trong khi đám kỵ sĩ vẫn quỳ trơ ra đó mà chưa kịp hiểu hết n
 
 "Mình muốn quay về nhanh cho rồi."
 
-Anh đã quá kiệt sức cả về thể xác lẫn tinh thần. Anh muốn ngủ trên một chiếc giường êm ái và quên đi tất cả. Liệu anh có nên ôm Mir khi ngủ không nhỉ? Như vậy sẽ là tuyệt nhất.
+Anh đã quá kiệt sức cả về thể xác lẫn tinh thần. Anh muốn ngủ trên một chiếc giường êm ái và quên đi tất cả. Hay là cứ ôm Mir ngủ một giấc nhỉ? Như vậy sẽ là tuyệt nhất.
 
 Anh quay trở lại hoàng thành nhanh hơn nhiều so với lúc rời đi. Cơn mưa xối xả trút xuống tàn tích cháy rụi của hoàng thành đã dập tắt ngọn lửa. Tòa thành nguy nga tráng lệ giờ nằm hoang tàn đổ nát và ướt sũng dưới làn mưa trông thật thảm hại.
 
@@ -232,7 +232,7 @@ Thế nhưng, ngay khi vừa đặt chân tới nơi, Liera đã đón anh với
 
 Liera vừa sụt sùi khóc vừa nói. Trái tim Yu IlHan như chùng xuống, nghĩ rằng chuyện tày đình gì đó đã thực sự xảy ra. Thế nhưng cánh cổng trông vẫn hoàn toàn bình thường mà. Nó vẫn đang kích hoạt để họ có thể quay về bất cứ lúc nào, vậy thì rốt cuộc là chuyện gì...!?
 
-[Mir đã đến một Thế Giới Bị Bỏ Rơi để giải cứu Kang MiRae rồi! Rồi cánh cổng đó đã đóng lại mất rồi! Chúng ta phải làm sao đây??!!!] (Liera)
+[Mir đã sang một Thế Giới Bị Bỏ Rơi để giải cứu Kang MiRae! Cánh cổng đó lại đóng lại mất rồi! Chúng ta phải làm sao đây??!!!] (Liera)
 
 "...Sao cơ?"
 
@@ -246,6 +246,6 @@ Hả? Thế đâu có được.
 
 "CÁI GÌ CƠƠƠƠƠƠƠƠƠƠ!?"
 
-Đây là khoảnh khắc Yu IlHan kinh hoàng vượt quá mọi lý trí, ngoại trừ khoảng thời gian anh bị bỏ lại trên Trái Đất!
+Đây là khoảnh khắc Yu IlHan chấn động vượt quá mọi lý trí, ngoại trừ khoảng thời gian anh bị bỏ lại trên Trái Đất!
 
 [← Chương trước](Chapter_137.md) | [Chương tiếp theo →](Chapter_139.md)

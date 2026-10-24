@@ -12,7 +12,7 @@ Một thân thể khổng lồ được bao phủ bởi những luồng ma lực
 
 "A a, đáng lẽ chúng ta không nên nắm lấy bàn tay của bọn chúng."
 
-Bất cứ ai biết được thân phận của con quái vật đều ngã quỵ xuống đất trong tuyệt vọng.
+Bất cứ ai biết được lai lịch của con quái vật đều ngã quỵ xuống đất trong tuyệt vọng.
 
 Rõ ràng là hoàng đế đã chết. Bởi lẽ nếu hoàng tộc còn bất kỳ ai sống sót thì ma thú sẽ không bao giờ lộ diện, nên chắc chắn cả hoàng gia cũng đã bị diệt vong.
 
@@ -66,7 +66,7 @@ Các kỵ sĩ câm nín. Khuôn mặt của ai nấy đều hiện rõ vẻ "tê
 
 Đám kỵ sĩ cười trong tuyệt vọng. Yu IlHan cũng mỉm cười.
 
-"Chà, ai mà biết được? Biết đâu chừng ma thú sẽ ăn bớt người đi vì trong bụng đã có các người nhét vào rồi?"
+"Chà, ai mà biết được? Biết đâu chừng ma thú sẽ ăn ít người đi vì trong bụng đã có các người nhét vào rồi?"
 
 Không một ai đáp lại câu đùa đó. Thay vào đó, một kỵ sĩ im lặng nãy giờ trừng mắt nhìn Yu IlHan rồi hỏi.
 
@@ -128,7 +128,7 @@ Mọi thứ trên đường đi của nó đều bị thiêu rụi thành tro đ
 
 Không chỉ vậy, tiếng rống của nó không chỉ tạo ra sóng xung kích mà còn nghiền nát cây cối và đất đá xung quanh. Bất kể nó làm gì cũng đều hóa thành một thảm họa tự nhiên.
 
-"Hừ..."
+"Hơ..."
 
 Ngay cả Yu IlHan, người đã hạ quyết tâm tiêu diệt nó, cũng thầm nghĩ khi tiến gần đến khu vực: 'Ủa? Trận này khéo mình chết thật không chừng?'
 
