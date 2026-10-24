@@ -519,3 +519,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
 | Summoning magic |  | ma pháp triệu hồi | khác | 123 | Phép triệu hồi vật thể từ xa, xuyên qua cả kết giới của Đồng Hồ Cát |
 | Hell and Heaven |  | Hell and Heaven | khác | 123 | Chiêu thức tối thượng trong anime GaoGaiGar kết hợp công và thủ |
+| Fallen angel | Fallen angels | thiên thần sa ngã | chủng tộc | 124 | Các thiên thần phản bội gia nhập phe Quân Đội Ánh Sáng Rực Rỡ |

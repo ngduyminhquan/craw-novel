@@ -128,7 +128,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | reviewed |  |
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | reviewed |  |
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | reviewed |  |
-| 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | todo |  |
+| 124 |  | Chapter_124 - Combine Everyone’s Strength Into One! 7.txt | Combine Everyone’s Strength Into One! 7 | done |  |
 | 125 |  | Chapter_125 - Combine Everyone’s Strength Into One! 8.txt | Combine Everyone’s Strength Into One! 8 | todo |  |
 | 126 |  | Chapter_126 - Invade I.txt | Invade I | todo |  |
 | 127 |  | Chapter_127 - Invade II.txt | Invade II | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -731,3 +732,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#123] Xưng hô Yumir gọi Erta: raw dùng "noona" (chị) thay vì "cô" như ghi chú ban đầu ở ch107. Tạm dùng: Yumir gọi "chị Erta", xưng "em/con". → Duyệt phương án đã dùng: từ chương 123 Yumir gọi Erta là chị / chị Erta, xưng em / con theo đúng từ gốc noona trong raw (ở chương 107–122 Yumir chưa từng thoại trực tiếp với Erta). (orchestrator)
 - [#121-123] Đoạn 123:29 Erta nhắm tới ai và gọi là gì? → Nhắm tới Liera (người vừa khoe ở đoạn 15 là tinh thông thương và cận chiến, tức 2 môn) và gọi là cô theo đúng pronouns.md. (orchestrator)
 - [#121-123] Đoạn 122:65 chủ ngữ của câu suy nghĩ Fuu, he was worried... là ai? → Chủ ngữ là Yu IlHan (he trong raw EN), sửa từ cô sang anh. (orchestrator)
+- [#124] Thuật ngữ "Fallen angel" / "Fallen angels" (phe Quân Đội Ánh Sáng Rực Rỡ) — Tạm chọn: "thiên thần sa ngã". Phương án khác: "sa đọa thiên thần". Tạm dùng trong bản dịch: "thiên thần sa ngã". → Duyệt phương án đã dùng: dịch là thiên thần sa ngã, đồng bộ với cách dịch thiên thần trong toàn bộ các chương trước. (orchestrator)
+- [#124] Cụm "giant blob of meat" ở đoạn 59 raw EN (khối kim loại dùng để luyện thương bị raw viết nhầm thành meat) — Tạm chọn: sửa thành "khối kim loại khổng lồ" cho khớp với bối cảnh chương 122 và đoạn 102 của chính chương 124 ("giant blob of metal"). → Duyệt phương án đã dùng: dịch là khối kim loại khổng lồ vì đây là lỗi đánh máy của bản dịch EN (nhầm metal thành meat, đoạn 102 chương 124 và chương 122–123 đều ghi giant blob of metal). (orchestrator)

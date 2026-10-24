@@ -763,6 +763,11 @@ Trong lúc Spiera quan sát và thầm thán phục vẻ đẹp lao động cùn
 Kiểm tra thùng ủ thịt và rượu Hơi Thở, IlHan phát hiện rượu có vị táo ngọt ngào do Yumir tình cờ dùng ma pháp triệu hồi lấy táo từ cửa hàng bên ngoài vào kết giới và có thể gửi trả ngược lại, mở ra khả năng tương tác vật thể xuyên kết giới.
 Cảnh kết thúc: Spiera túm lấy IlHan ném lên khối kim loại khổng lồ và giải thích nguyên lý dung hợp kiếm thuật, độn khí, tiên thuật vào thương thuật của [Đại Đoạn Vũ Trụ Thương], bắt đầu khóa huấn luyện khắc nghiệt dự kiến kéo dài 25 năm với cây thương gỗ trong sự cam chịu của IlHan.
 
+## 124
+Trong kết giới, Yu IlHan duy trì lịch trình nghiêm ngặt: 12 tiếng đầu rèn hơn 500 trang bị phẩm cấp Hiếm mỗi ngày cho Vanguard, thản nhiên đón nhận việc lộ quan hệ giữa Susanoo và Vanguard; trong bữa ăn chung, Erica và Yumir tiết lộ bản năng ăn thịt đồng loại giúp tăng vĩnh viễn chỉ số và cấp bậc của quái vật, được IlHan và các thiên thần vui vẻ cung cấp toàn bộ kho thịt sói và thịt rồng trong túi đồ.
+Không cần ngủ nhờ hồi phục năng lượng nghỉ ngơi từ thịt và rượu Hơi Thở, IlHan dành trọn thời gian còn lại cùng thương gỗ khổ luyện [Đại Đoạn Vũ Trụ Thương] trước khối kim loại khổng lồ và lên kế hoạch đi săn troll ở Grand Canyon sau khi hết kết giới; trong khi đó, Spiera âm thầm quan sát anh và nung nấu nhiệm vụ truy lùng những kẻ phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ (phe thiên thần sa ngã) đang lẩn trốn trên Trái Đất.
+Cảnh kết thúc: Bằng cách kích hoạt Quái Lực kết hợp sự lặp lại kiên trì, IlHan thành công truyền tải độ sắc bén của kiếm thuật vào nhát đâm của thương gỗ tạo nên vết chém dài trên khối kim loại chỉ sau nửa tháng luyện tập, khiến Spiera hoàn toàn sững sờ trước thiên phú phi thường của người khế ước.
+
 
 
 
