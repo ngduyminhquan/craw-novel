@@ -150,7 +150,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 143 |  | Chapter_143 - The MVP Is Mine I.txt | The MVP Is Mine I | reviewed |  |
 | 144 |  | Chapter_144 - The MVP Is Mine II.txt | The MVP Is Mine II | reviewed |  |
 | 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | done |  |
-| 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | todo |  |
+| 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | done |  |
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | todo |  |
 | 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | todo |  |
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | todo |  |
@@ -770,3 +770,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#144] Quy tắc thi đấu "Elite Forces Battle" và "All Out Battle" — Tạm chọn: "Trận Chiến Tinh Anh" và "Trận Chiến Toàn Lực". Phương án khác: "Chiến Đấu Tinh Anh" và "Chiến Đấu Toàn Lực". Tạm dùng trong bản dịch: Trận Chiến Tinh Anh / Trận Chiến Toàn Lực. → Chốt dịch là "Trận Chiến Tinh Anh" và "Trận Chiến Toàn Lực" để đồng bộ cấu trúc danh ngữ với "Cuộc Chiến Cạnh Tranh" (Battle of Competition). (orchestrator)
 - [#142-144] Review chương 142–144: người nói ở 143:25, từ ngữ khẩu ngữ ở 142:131 và xưng hô của Kang MiRae ở 144:104 → Chấp nhận toàn bộ 5 chỉnh sửa văn bản ở chương 142–144: đổi "ngầu lòi" thành "ngầu" ở 142:131, sửa câu dịch máy ở 142:153, xác nhận 143:25 là lời của Erica nên sửa thành "Chủ nhân, thời gian chúng tôi vắng mặt có điều gì bất tiện không ạ?", sửa đại từ của Kang MiRae thành "Tôi" ở 144:104 và chuẩn hóa dấu chấm lửng ở 144:167. (orchestrator)
 - [#145] Thuật ngữ "Boom Bubble" ở đoạn 31 (kỹ năng hoặc vật phẩm tạo bong bóng nổ bị Kang MiRae đánh văng trước khi kịp tung ra) — Tạm chọn: "Bong Bóng Nổ". Phương án khác: "Boom Bubble", "Bóng Nổ". Tạm dùng trong bản dịch: "Bong Bóng Nổ". → Chốt dịch "Boom Bubble" là "Bong Bóng Nổ" (đúng quy tắc dịch thuật ngữ/kỹ năng sang tiếng Việt ngắn gọn, viết hoa chữ cái đầu). (orchestrator)
+- [#146] Từ lóng cảm thán của Na YuNa "Wao, commando!" khi thấy Yu IlHan lật lọng tỉnh bơ ("I lied.") → Chấp nhận dịch "Wao, commando!" là "Oa, ngầu đét!" (câu đùa theo meme phim Commando khi nhân vật nói "I lied", dịch thoát ý tự nhiên hợp tính cách nhí nhảnh của Na YuNa). (orchestrator)

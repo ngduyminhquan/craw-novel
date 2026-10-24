@@ -42,6 +42,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - Magic warrior — cụm danh từ chung viết thường (`magic warrior`) trong lời thoại, không phải tên chức nghiệp hệ thống (#132)
 - demonic beast — cụm danh từ chung viết thường chỉ ma thú, đã xoá và bác khi dịch/review chương 135 (#135)
 - record — danh từ chung đa nghĩa (ghi chép / kỷ lục), đã bác khi review chương 136–138 (#137)
+- Battle start — câu hiệu lệnh thông thường của trọng tài, không phải thuật ngữ cố định (#146)
 
 ## Bảng thuật ngữ
 
@@ -145,7 +146,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
 | Earth |  | Trái Đất | địa danh | 1 | Thế giới quê hương của Yu IlHan |
 | Inventory |  | Túi đồ | hệ thống | 6 | Không gian chứa đồ ma pháp |
-| Trap of Destruction | Traps of Destruction | Bẫy Hủy Diệt | vật phẩm | 17 | Ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục |
+| Trap of Destruction | Traps of Destruction; Traps of Destructions | Bẫy Hủy Diệt | vật phẩm | 17 | Ma cụ thu hút quái vật và biến đổi môi trường thành hầm ngục |
 | Harkanium |  | Harkanium | vật phẩm | 17 | Kim loại thế giới bậc cao phát ra ánh sáng đen kỳ ảo |
 | Fecinom |  | Fecinom | vật phẩm | 17 | Kim loại thế giới bậc cao chứa năng lượng đỏ rực thô ráp |
 | El Hazra |  | El Hazra | vật phẩm | 17 | Kim loại lỏng thế giới bậc cao phát ra ánh sáng lam nhạt |
@@ -405,7 +406,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Kantou |  | Kantou | địa danh | 68 | Vùng Kantou ở Nhật Bản nơi có hầm ngục quái vật bóng tối |
 | Litawagon |  | Litawagon | khác | 68 | Cách IlHan trêu chọc Lita khi cô giải thích cặn kẽ, phỏng theo meme Speedwagon (JoJo) |
 | Darth Vader |  | Darth Vader | khác | 68 | Được phép giữ nguyên: Nhân vật phản diện biểu tượng trong Star Wars với tiếng thở khò khè (tham chiếu văn hóa đại chúng) |
-| Dungeon Wave |  | Đợt Sóng Hầm Ngục | hệ thống | 68 | Thảm họa quy mô lớn khi nhiều hầm ngục cùng vỡ liên hoàn |
+| Dungeon Wave | Dungeon Waves | Đợt Sóng Hầm Ngục | hệ thống | 68 | Thảm họa quy mô lớn khi nhiều hầm ngục cùng vỡ liên hoàn |
 | Dungeon Chain Break |  | Vỡ Hầm Ngục Liên Hoàn | hệ thống | 68 | Hiện tượng hàng loạt hầm ngục bị phá vỡ dây chuyền, đồng nghĩa với Đợt Sóng Hầm Ngục |
 | Kanagawa |  | Kanagawa | địa danh | 69 | Tỉnh Kanagawa ở vùng Kantou, Nhật Bản nơi khởi phát đợt Vỡ Hầm Ngục |
 | Shizuoka |  | Shizuoka | địa danh | 69 | Tỉnh Shizuoka ở Nhật Bản nằm tiếp giáp phía tây Kanagawa |
@@ -593,9 +594,10 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Ruin Calling |  | Hiệu Triệu Diệt Vong | vật phẩm | 141 | Cánh tạo tác phẩm cấp Sử Thi rèn từ xương và ma thạch của Ma Thú Hỏa Sơn |
 | Elite Forces Battle |  | Trận Chiến Tinh Anh | hệ thống | 144 | Hình thức thi đấu trong Cuộc Chiến Cạnh Tranh tập hợp lực lượng tinh anh của mỗi thế giới |
 | All Out Battle |  | Trận Chiến Toàn Lực | hệ thống | 144 | Hình thức thi đấu trong Cuộc Chiến Cạnh Tranh huy động toàn bộ lực lượng của một thế giới |
-| Junior |  | Bảng Sơ Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 2 |
-| Senior |  | Bảng Cao Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 3 trở lên |
+| Junior | Junior tournament; Junior Tournament | Bảng Sơ Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 2 |
+| Senior | Senior tournament; Senior Tournament | Bảng Cao Cấp | hệ thống | 144 | Bảng thi đấu Cuộc Chiến Cạnh Tranh dành cho các thế giới chuẩn bị bước vào Đại Tai Biến lần 3 trở lên |
 | Lu Füera |  | Lu Füera | địa danh | 144 | Thế giới cấp cao dưới quyền Quân Đội Thiên Giới, nơi tổ chức Cuộc Chiến Cạnh Tranh |
 | Advanced Trap of Destruction | Advanced Traps of Destruction | Bẫy Hủy Diệt Cấp Cao | vật phẩm | 144 | Phiên bản Bẫy Hủy Diệt cao cấp chế tạo từ vật liệu tốt hơn, phần thưởng trong Cuộc Chiến Cạnh Tranh |
 | DMZ | Demilitarized Zone; demilitarized zone | DMZ | địa danh | 145 | Khu phi quân sự Triều Tiên (nơi rải đầy bom mìn); IlHan dùng để ví von trái tim mình đầy rẫy nỗi đau mìn nổ |
 | Boom Bubble |  | Bong Bóng Nổ | kỹ năng | 145 | Kỹ năng hoặc vật phẩm tạo bong bóng nổ bị Kang MiRae đánh bại trước khi kịp tung ra |
+| Snuë | Snu; Snuëans | Snuë | địa danh | 146 | Thế giới đã trải qua 1.300 năm kể từ Đại Tai Biến gần nhất, đang tiến sát Đại Tai Biến lần 3, đối thủ của Trái Đất ở vòng tứ kết |

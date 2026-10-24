@@ -896,5 +896,11 @@ Trong 2 giờ chờ dịch chuyển, IlHan bình thản nhóm Liệt Hỏa xào 
 Bước qua cánh cổng tới Lu Füera – thế giới cấp cao khổng lồ nóng rực do vạn vật to gấp 10 lần Trái Đất, Spiera thông báo làm giám khảo giải đấu và các thiên thần phổ biến quy chế màng bảo hộ tự hồi phục chống tử vong.
 Cảnh kết thúc: Mặc kệ mọi người căng thẳng trước ranh giới thi đấu, IlHan cùng thuộc hạ dứt khoát bước qua mở màn trận chiến; Trái Đất áp đảo giành chiến thắng 4 trận liên tiếp (trận đầu chỉ mất 7 phút) để hiên ngang tiến thẳng vào vòng chung kết.
 
+## 146
+Nhóm Yu IlHan chủ động nương tay để cư dân Trái Đất tự rèn luyện nhưng vẫn càn quét nửa quân địch, kết hợp sức mạnh sấm sét của Kang MiRae đưa Trái Đất vào top 4 Bảng Sơ Cấp (còn lại 419 người) và chắc suất nhận Bẫy Hủy Diệt Cấp Cao.
+Trong 3 giờ nghỉ ngơi trước vòng chung kết (top 8), IlHan khao thịt rồng và thịt sói chiên cho cả nhóm, đồng thời chia sẻ cho Clan Lôi Thần; anh tuyên bố sẽ chiến đấu chủ động hơn vì các đối thủ Bảng Cao Cấp đều từ cấp 130 trở lên; Spiera cũng xác nhận thế giới Ferata đã bị loại do kỵ sĩ thủ đô không tham gia.
+Tại vòng tứ kết diễn ra trên các bệ đá bay lơ lửng của Lu Füera, Trái Đất chạm trán thế giới Snuë (đã trải qua 1.300 năm kể từ đợt thăng cấp gần nhất); trước sự chán nản của các thí sinh Trái Đất vì khoảng cách thực lực, IlHan quyết định tự mình xung trận để nâng cao sĩ khí.
+Cảnh kết thúc: Ngay khi trận đấu bắt đầu, IlHan phóng mưa thương nghi binh rồi lao tới chém vỡ màng bảo hộ tiễn hàng loạt địch thủ về thế giới của họ; các thuộc hạ và Paté thừa thắng xông lên giúp Trái Đất giành chiến thắng thuyết phục sau 15 phút, biến IlHan thành vị Tử Thần chiến trường trong mắt toàn thể nhân loại Trái Đất.
+
 
 

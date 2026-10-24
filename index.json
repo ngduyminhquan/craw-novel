@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T08:06:53Z",
+  "generatedAt": "2026-10-24T08:14:23Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -875,6 +875,12 @@
           "title": "Chương 145: MVP Là Của Tôi III",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_145.md",
           "sha": "a8c5715cccfcf5cc41a1ca005c5f590cd66cfe25"
+        },
+        {
+          "number": 146,
+          "title": "Chương 146: MVP Là Của Tôi IV",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_146.md",
+          "sha": "37866d71e9b574b19351c75ddd708fcf24b00cc4"
         }
       ]
     }
