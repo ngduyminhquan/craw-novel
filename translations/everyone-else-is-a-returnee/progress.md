@@ -122,9 +122,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 115 |  | Chapter_115 - I’m the Master of Your Lives 6.txt | I’m the Master of Your Lives 6 | reviewed |  |
 | 116 |  | Chapter_116 - I’m the Master of Your Lives 7.txt | I’m the Master of Your Lives 7 | reviewed |  |
 | 117 |  | Chapter_117 - I’m the Master of Your Lives 8.txt | I’m the Master of Your Lives 8 | reviewed |  |
-| 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | done |  |
-| 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | done |  |
-| 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | done |  |
+| 118 |  | Chapter_118 - Combine Everyone’s Strength Into One! 1.txt | Combine Everyone’s Strength Into One! 1 | reviewed |  |
+| 119 |  | Chapter_119 - Combine Everyone’s Strength Into One! 2.txt | Combine Everyone’s Strength Into One! 2 | reviewed |  |
+| 120 |  | Chapter_120 - Combine Everyone’s Strength Into One! 3.txt | Combine Everyone’s Strength Into One! 3 | reviewed |  |
 | 121 |  | Chapter_121 - Combine Everyone’s Strength Into One! 4.txt | Combine Everyone’s Strength Into One! 4 | todo |  |
 | 122 |  | Chapter_122 - Combine Everyone’s Strength Into One! 5.txt | Combine Everyone’s Strength Into One! 5 | todo |  |
 | 123 |  | Chapter_123 - Combine Everyone’s Strength Into One! 6.txt | Combine Everyone’s Strength Into One! 6 | todo |  |
@@ -723,3 +723,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#118] Raw chương 118 viết tên Công chúa Lang tộc là Ericia khác với Erica ở chương 117? → Giữ nguyên tên chuẩn Erica đã chốt ở chương 117 và thêm Ericia vào cột Alias trong characters.md theo rules.md. (orchestrator)
 - [#119] Cách dịch tên kỹ năng Great Cosmos-severing Spear của Spiera? → Dịch Hán Việt là Đại Đoạn Vũ Trụ Thương, vừa chuẩn quy tắc tên kỹ năng Hán Việt vừa giữ nét tên kêu sến để khớp cảnh Yu IlHan chê tên kỹ năng. (orchestrator)
 - [#119] Cách dịch tên kỹ năng Whip mastery? → Dịch Hán Việt là Tiên Thuật, đồng bộ với Thương Thuật, Kiếm Thuật, Độn Khí Thuật. (orchestrator)
+- [#118-120] Cụm từ pull one's roots out trong chương 120 đoạn 54 dịch thế nào? → Dịch là tiêu diệt tận gốc khi nói về quái vật/kẻ thù, đồng thời làm rõ mục (#64) trong phần Riêng truyện này của rules.md. (orchestrator)
+- [#118-120] Xưng hô của Yu IlHan với nhóm thuộc hạ elf? → Giữ đúng pronouns.md (dòng 145–152): Yu IlHan luôn xưng tôi, gọi mọi người / các cậu / cô, không xưng ta - các ngươi. (orchestrator)

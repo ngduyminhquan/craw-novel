@@ -14,7 +14,7 @@ Liera buồn bã đáp lời trong khi nhét thịt rồng vào miệng. Vẻ m�
 
 Liera dẹp bỏ suy nghĩ sang một bên và quyết định chỉ việc há miệng đón lấy thịt. Miếng thịt vốn đã ngon tuyệt hảo rồi, nay lại còn được khen đáng yêu nữa thì làm sao cô có thể từ chối cho được.
 
-"Uống chút rượu đi. Cô có kháng độc cực hạn đúng không?"
+"Uống chút rượu đi. Cô có Kháng Độc Cực Hạn đúng không?"
 
 [Ừ.] (Liera)
 
@@ -22,11 +22,11 @@ Yu IlHan lấy ra hai chiếc ly có chân do chính tay anh đẽo gọt từ x
 
 "Bệ hạ. Người không cho chúng thần một chút sao?"
 
-"Ta cũng muốn cho các ngươi lắm, nhưng vì các ngươi không có kháng độc cực hạn, uống cái này vào là trúng độc chết tươi đấy."
+"Tôi cũng muốn cho mọi người lắm, nhưng vì các cậu không có Kháng Độc Cực Hạn, uống cái này vào là trúng độc chết tươi đấy."
 
 "Chết tiệt thật!"
 
-Nhìn Liera và Yu IlHan thưởng thức đồ ăn thức uống ngon lành, đám elf hạ quyết tâm phải đạt được kháng độc cực hạn bằng mọi giá. Thế nhưng nhiệt huyết ấy chẳng kéo dài được bao lâu, họ lại nhanh chóng ngập tràn hạnh phúc khi cắn từng miếng thịt rồng. Đám elf thầm nghĩ thứ thịt này có khi cứu rỗi được cả thế giới ấy chứ.
+Nhìn Liera và Yu IlHan thưởng thức đồ ăn thức uống ngon lành, đám elf hạ quyết tâm phải đạt được Kháng Độc Cực Hạn bằng mọi giá. Thế nhưng nhiệt huyết ấy chẳng kéo dài được bao lâu, họ lại nhanh chóng ngập tràn hạnh phúc khi cắn từng miếng thịt rồng. Đám elf thầm nghĩ thứ thịt này có khi cứu rỗi được cả thế giới ấy chứ.
 
 "Thế rồi sao nữa? Cái cô thiên thần tên Spiera ấy thế nào? Có đáng tin không?"
 
@@ -174,7 +174,7 @@ Do đó, việc đem nó đi tiến hóa dung hợp cùng các kỹ năng khác 
 
 Spiera dùng giọng điệu nghiêm túc chặn đứng tràng câu hỏi dồn dập của Yu IlHan. Trong khi Yu IlHan nhìn chằm chằm vào cô, cô nàng thong thả gắp một miếng thịt rồng trên vỉ nướng bỏ vào miệng.
 
-[*nhồm nhoàm*... điều mà ta sẽ nói cho cậu biết nếu cậu lập khế ước với ta. *nhồm nhoàm*] (Spiera)
+[Nhồm nhoàm... điều mà ta sẽ nói cho cậu biết nếu cậu lập khế ước với ta. Nhồm nhoàm.] (Spiera)
 
 "Chốt kèo."
 

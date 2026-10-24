@@ -58,7 +58,7 @@ Không phải là anh không thể đoán ra lý do. Trong khoảng thời gian 
 
 Spiera nghiêm túc gật đầu, nhưng dù có làm vậy đi nữa thì trong miệng cô lúc này vẫn đang ngậm một miếng thịt, thành thử trông chẳng có chút nghiêm túc nào cả.
 
-[*Nhai nhồm nhoàm…* Nếu cậu tập trung tu luyện bằng đồng hồ cát vĩnh hằng, cậu sẽ có thể rút ngắn thời gian cần thiết để lĩnh ngộ kỹ năng. Ta dự tính là vào khoảng 30 năm.] (Spiera)
+[Nhai nhồm nhoàm… Nếu cậu tập trung tu luyện bằng Đồng Hồ Cát Vĩnh Hằng, cậu sẽ có thể rút ngắn thời gian cần thiết để lĩnh ngộ kỹ năng. Ta dự tính là vào khoảng 30 năm.] (Spiera)
 
 [Nhưng chắc chắn IlHan sẽ còn nhanh hơn thế.] (Liera)
 
@@ -106,7 +106,7 @@ Yu IlHan khịt mũi rồi đăng thông báo thứ hai lên. Những đối tư
 
 Tựa như lực lượng Trấn Áp - 'những anh bạn quân đội mạnh mẽ' đầy tự hào của Hàn Quốc, mỗi quốc gia đều có ít nhất một tổ chức dị năng giả trực thuộc chính phủ. Riêng trường hợp của Mỹ thì có tới tận 3 tổ chức!
 
-Thế nhưng đêm qua, Kang MiRae đã dùng cách này hay cách khác để điều động hàng chục lực lượng quân đội quốc gia khác nhau từ hàng chục đất nước tham gia săn quét quanh Seoul và vét sạch tận gốc bầy Lang tộc thuộc Quân Đội Ma Hủy Diệt. Mối quan hệ của cô quả thực khủng khiếp như quái vật.
+Thế nhưng đêm qua, Kang MiRae đã dùng cách này hay cách khác để điều động hàng chục lực lượng quân đội quốc gia khác nhau từ hàng chục đất nước tham gia săn quét quanh Seoul và tiêu diệt tận gốc bầy Lang tộc thuộc Quân Đội Ma Hủy Diệt. Mối quan hệ của cô quả thực khủng khiếp như quái vật.
 
 Còn Yu IlHan, người vốn luôn nghĩ đến việc gia tăng quân số cho những lực lượng có quy mô tương đương Trấn Áp, liền cho rằng đây cũng là một dịp tốt để vũ trang cho cả các dị năng giả nước ngoài.
 
@@ -118,7 +118,7 @@ Dù sao thì lượng nguyên liệu của anh cũng đang thừa mứa. Nếu c
 
 [...]
 
-Người Hàn Quốc chắc chắn sẽ không hoan nghênh điều này. Đáng lý ra họ phải nghĩ rằng Vanguard đang dành sự ưu ái đặc biệt cho Clan Lôi Thần và Trấn Áp mới phải.
+Người Hàn Quốc chắc chắn sẽ không hoan nghênh điều này. Họ ắt hẳn nghĩ rằng Vanguard đang dành sự ưu ái đặc biệt cho Clan Lôi Thần và Trấn Áp.
 
 Dù đang ở trong thời khắc đại khủng hoảng nơi vận mệnh của Trái Đất như ngàn cân treo sợi tóc, con người ta vẫn ích kỷ và chỉ muốn vơ vét mọi phần thưởng cho bản thân và clan của mình. Đây chính là lối suy nghĩ mà Yu IlHan chán ghét nhất.
 
@@ -166,9 +166,9 @@ Bắt con trai mình phải chịu khổ một nghìn năm là điều bất kh�
 
 Anh cũng không thể để đám elf rảnh rỗi chơi bời được. Anh muốn cường hóa họ tới mức có thể đánh cho các chủ clan trong Liên Minh Tiền Tuyến tơi bời hoa lá mà vẫn còn thừa sức. Mặc dù hiện tại họ đã làm được điều đó rồi, nhưng anh muốn tăng cường để họ có thể tẩn đám kia một cách thảnh thơi hơn nữa!
 
-Tất nhiên, người quan trọng nhất vẫn là bản thân anh. Anh không chỉ dự định dùng hết đống nguyên liệu chất đống để chế tạo trang bị, mà còn muốn rèn luyện kỹ thuật thương pháp cùng với việc lĩnh ngộ Đại Đoạn Vũ Trụ Thương.
+Tất nhiên, người quan trọng nhất vẫn là bản thân anh. Anh không chỉ dự định dùng hết lượng nguyên liệu chất đống để chế tạo trang bị, mà còn muốn rèn luyện kỹ thuật thương pháp cùng với việc lĩnh ngộ Đại Đoạn Vũ Trụ Thương.
 
-Để chuẩn bị trong vài ngày qua, anh đã hỗ trợ các elf giải phẫu, đồng thời tinh chỉnh các động tác của cận chiến, kiếm thuật, độn khí thuật và tiên thuật.
+Để chuẩn bị trong vài ngày qua, anh đã hỗ trợ các elf giải phẫu, đồng thời tinh chỉnh các động tác của Cận Chiến, Kiếm Thuật, Độn Khí Thuật và Tiên Thuật.
 
 Spiera đã cố hết sức giấu đi vẻ mặt sửng sốt mỗi lần Yu IlHan vung từng loại vũ khí, nhưng cô chẳng thể nào qua mắt được một Yu IlHan vốn đã đắc đạo trong việc nhìn thấu sắc mặt người khác.
 

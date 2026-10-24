@@ -52,7 +52,7 @@ Khi tất cả những con sói bình thường đã quay trở lại cánh cổ
 
 "A! Cảm ơn ngài rất nhiều!"
 
-Khi Yu IlHan lục lọi trong túi đồ rồi lấy ra vài món vũ khí và áo giáp phẩm cấp Độc Nhất tùy tiện, cô liên tục cúi đầu cảm tạ rồi cùng Flemir bước qua cánh cổng.
+Khi Yu IlHan lục lọi trong túi đồ rồi tiện tay lấy ra vài món vũ khí và áo giáp phẩm cấp Độc Nhất, cô liên tục cúi đầu cảm tạ rồi cùng Flemir bước qua cánh cổng.
 
 Con người đang ngơ ngác nhìn cánh cổng vẫn đang phả ra làn khói đen đầy điềm gở, nhưng khi Kang MiRae vỗ tay, tất cả bọn họ đều quay nhìn về phía cô như bị thôi miên.
 
