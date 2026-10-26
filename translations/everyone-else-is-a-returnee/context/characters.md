@@ -12,7 +12,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71) | 9 |
-| God | Lord God | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
+| God | Lord God; The Lord | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
 | Yun DaeHan | Yoon DaeHan; Captain Yoon DaeHan; Yoon DaeBang | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59) | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
@@ -62,6 +62,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Layutinu |  | Layutinu | Chiến binh Lang tộc mạnh nhất ở lại New York bảo vệ vị trí cánh cổng, nhận được chúc phúc của mặt trăng | 139 |
 | Irma An Ill'ta | Irma Anilta | Irma An Ill'ta | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia thuộc thế giới Lanpas | 158 |
 | Dmirel |  | Dmirel | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ canh giữ ma pháp trận bí mật, bị Yu IlHan tập kích tiêu diệt | 184 |
+| Tibera |  | Tibera | Thiên thần cấp cao chuyển chức lần 6 của Quân Đội Thiên Giới, người thông báo quyết định bỏ mặc Trái Đất cho Erta | 190 |
 
 ## Chi tiết
 
@@ -255,6 +256,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 94: Đồng hành cùng IlHan trong kết giới Đồng Hồ Cát Vĩnh Hằng; bộc lộ tâm lý ghen tị trẻ con và ấm ức khi tưởng IlHan giấu mình làm quà tặng cho tàn niệm Reta Kar'iha; ngẩn ngơ trước vẻ ngầu của IlHan khi múa vũ điệu kiếm giải phẫu hơn 900 con rồng; sững sờ trước sự ra đời của tạo tác Aegis phẩm cấp Truyền Thuyết và ví nó ngang hàng với Thiên Tùng Vân Kiếm; tự hỏi liệu mai này khi có khả năng trở thành thực thể cấp cao, IlHan có đến bên Thiên giới cùng cô hay không.
 - Trạng thái tính đến chương 181: Phân tích ma pháp trận bí mật sử dụng ngôn ngữ Thiên giới bị bẻ cong có độ bảo mật cao che giấu thiên thần; nhận được lệnh triệu tập chuẩn bị thăng chức.
 - Trạng thái tính đến chương 182: Nhận lệnh trở về Thiên giới để tiếp nhận thăng cấp lên thực thể chuyển chức lần 6.
+- Trạng thái tính đến chương 190: Bàng hoàng hay tin Quân Đội Thiên Giới bắt tay với các phe đối địch bỏ mặc Trái Đất và chấp nhận hy sinh những đứa trẻ như Yumir; phẫn nộ từ chối thăng cấp lên chuyển chức lần 6, công khai chỉ trích các phe thực thể cấp cao chỉ là lũ hèn nhát tụ tập thành bầy vì sợ cô độc, đồng thời đặt trọn niềm tin rằng Yu IlHan sẽ tự mình đột phá thành thực thể cấp cao làm chủ Trái Đất; vỗ cánh rời đi tự chuẩn bị kế hoạch riêng.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.

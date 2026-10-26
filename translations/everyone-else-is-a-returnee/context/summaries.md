@@ -1167,6 +1167,13 @@ Yu IlHan lo lắng tột cùng cho Yumir và những đứa trẻ mới sinh có
 Liera cho biết âm mưu của phe địch là trục xuất nhân loại để làm chậm quá trình Trái Đất tiến hóa thành thế giới bậc cao cho tới khi con người già chết, nhưng IlHan khẳng định sẽ tự mình săn quái gánh vác thay hàng tỷ người để đẩy nhanh tiến độ; anh cũng cảm ơn Liera vì đã luôn ở bên cạnh mình suốt 1.000 năm qua.
 Cảnh kết thúc: Giữa lúc Trái Đất đang biến đổi dữ dội vì Đại Tai Biến lần 3, IlHan từ chối lời rủ ngủ chung của Liera và tuyên bố trong hai tháng tới sẽ dồn toàn lực chế tạo một pháo đài bay.
 
+## 190
+Tại Thiên giới, Erta bàng hoàng khi được thiên thần cấp cao Tibera và Spiera thông báo rằng Quân Đội Thiên Giới đã đàm phán với Quân Đội Ánh Sáng Rực Rỡ và Quân Đội Ma Hủy Diệt để bỏ mặc Trái Đất và trục xuất con người, chấp nhận hy sinh những đứa trẻ như Yumir để giảm bớt tổn thất chung theo ý chỉ của Thượng Đế.
+Nghĩ đến Yumir và Yu IlHan, Erta vô cùng phẫn nộ và đau đớn, đồng thời dâng trào cảm giác tự ghê tởm bản thân vì đã đắn đo lý trí trở về Thiên giới thăng cấp thay vì táo bạo gạt bỏ tất cả để ở lại bên IlHan như Liera.
+Erta kiên quyết từ chối thăng cấp lên thiên thần cấp cao chuyển chức lần 6 và công khai chỉ trích các phe thực thể cấp cao chỉ là lũ hèn nhát tụ tập thành bầy vì sợ cô độc, đồng thời tuyên bố niềm tin tuyệt đối rằng Yu IlHan sẽ tự mình đột phá thành thực thể cấp cao làm chủ Trái Đất.
+Cảnh kết thúc: Mặc kệ sự giận dữ và lời răn đe của Tibera cùng Spiera, Erta vỗ cánh rời đi, hạ quyết tâm tự mình chuẩn bị cho con đường phía trước.
+
+
 
 
 

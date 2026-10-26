@@ -58,6 +58,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Layutinu | gã / Layutinu / con sói | 139 | Chiến binh Lang tộc bảo vệ cổng tại New York |
 | Irma An Ill'ta | cô / Hoàng nữ / Irma An Ill'ta | 158 | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia |
 | Dmirel | tên thiên thần sa ngã / Dmirel / hắn | 184 | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ |
+| Tibera | Tibera / thiên thần Tibera | 190 | Thiên thần cấp cao chuyển chức lần 6 |
 
 ## Giữa các nhân vật
 
@@ -271,6 +272,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Kim YeSeul | cháu | bác | 181 | Liera chào hỏi mẹ của Yu IlHan |
 | Liera | YuNa | tôi / ta | cô | 182 | Liera đe dọa Na YuNa khi Na YuNa đòi hẹn hò riêng với IlHan |
 | YuNa | Liera | tôi / em | cô | 182 | Na YuNa đối đáp với Liera |
+| Tibera | Erta | ta | Erta / cô | 190 | Thiên thần cấp cao chuyển chức lần 6 nói với Erta |
+| Erta | Tibera | tôi | ngài / ngài Tibera | 190 | Erta đối thoại và chất vấn quyết định của Tibera |
+| Erta | Spiera | tôi | Spiera / cô | 190 | Erta phẫn nộ chất vấn Spiera sau khi biết Thiên giới bỏ mặc Trái Đất |
 
 
 

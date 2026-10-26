@@ -194,7 +194,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | reviewed |  |
 | 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | reviewed |  |
 | 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | reviewed |  |
-| 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | todo |  |
+| 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | done |  |
 | 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | todo |  |
 | 192 |  | Chapter_192 - I Create – 2.txt | I Create – 2 | todo |  |
 | 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -844,3 +845,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#188] Danh xưng "Lady Leytna" (đoạn 11) — Tạm chọn: "Nữ Thần Leytna" (đồng bộ với Nữ Thần Leytna trong glossary và các chương #81, #169, #183; đã thêm Lady Leytna vào Alias của Leytna). Phương án khác: "Đức bà Leytna". → Giữ cách dịch "Nữ Thần Leytna" trong chương 188, nhưng không đưa `Lady Leytna` vào cột Alias của `Leytna` vì cột VI của `Leytna` chỉ là `Leytna` (quy tắc: cột Alias chỉ ghi biến thể dịch ra đúng chữ cột VI). (orchestrator)
 - [#188] Xử lý 2 dòng ghi chú tác giả ngoài lề truyện ở cuối raw (về nguồn gốc câu thoại Dio Brando / JoJo và lời nhắn tác giả) — Tạm chọn: Bỏ qua không dịch, thêm vào raw_ignore_lines trong novel.json và ghi chú vào rules.md (nhất quán với các chương #152, #176, #182-#187). Phương án khác: Giữ lại dịch ở cuối chương. → Giữ nguyên quyết định thêm 2 dòng ghi chú cuối chương 188 vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md theo quy tắc bỏ ghi chú ngoài truyện. (orchestrator)
 - [#189] Cụm từ "flying fortress" ở đoạn 94 (Yu IlHan tuyên bố chế tạo) — Tạm chọn: dịch tự nhiên là "pháo đài bay" (đồng bộ với ngữ cảnh chương 171) và không thêm vào glossary.md vì là cụm danh từ chung miêu tả tính năng; phương án khác: viết hoa và thêm vào glossary.md dạng 'Pháo Đài Bay'. → Giữ cách dịch tự nhiên "pháo đài bay" và không thêm vào glossary.md vì là cụm danh từ chung viết thường miêu tả tính năng. (orchestrator)
+- [#190] Cụm từ "Earth-alone" ở đoạn 1 (raw "season 2 of Earth-alone", chơi chữ theo tên phim Home Alone / 나 홀로 집에) — Tạm chọn: "Một mình trên Trái Đất" (mùa thứ hai của "Một mình trên Trái Đất"). Phương án khác: "Ở nhà một mình trên Trái Đất". → Dịch là "Một mình trên Trái Đất" (chơi chữ theo phim Home Alone / Ở nhà một mình, phù hợp ngữ cảnh cả nhân loại đã rời khỏi Trái Đất). (orchestrator)
+- [#190] Xưng hô giữa thiên thần cấp cao Tibera và Erta — Tạm chọn: Tibera xưng "ta", gọi "cô / Erta"; Erta xưng "tôi", gọi "ngài / ngài Tibera" (trước khi nổi giận). Phương án khác: Tibera xưng "ta", gọi "ngươi". → Chốt Tibera xưng "ta" - gọi "cô / Erta", Erta xưng "tôi" - gọi "ngài / ngài Tibera" đúng cấp bậc trong Quân Đội Thiên Giới. (orchestrator)
