@@ -15,7 +15,7 @@ TN_RE = re.compile(r"\b(T/N|E/N|P/R|TL\s*note|Translator[’']?s?\s*note|TL:|Edi
                    r"|Translation\s+changes?\s*:)", re.IGNORECASE)
 # Từ viết tắt trần (TL, ED, PR) chỉ là ghi chú khi có dấu ':' ngay sau, để "[Probably.]" hay "[Ed is here]"
 # không bị coi là ghi chú. Dạng có "/" (T/N, E/N, P/R) đủ đặc trưng nên không cần ':'.
-_NOTE_LONG = r"(?:(?:TL|Translator[’']?s?|Editor[’']?s?|Author[’']?s?)\s*note|Translation\s+changes?)"
+_NOTE_LONG = r"(?:(?:TL|Translator[’']?s?|Editor[’']?s?|Author[’']?s?)\s*notes?|Translation\s+changes?)"
 _NOTE_KW = rf"(?:(?:T/N|E/N|P/R)\b\s*:?|(?:TL|ED|PR)\s*:|{_NOTE_LONG}\b\s*:?)"
 # Ghi chú kẹp trong câu: "I can fly!" (T/N: Said in English)
 # Cho phép một tầng ngoặc lồng bên trong: "(T/N: Holy Knight -> Paladin. (Kang HaJin's job))"

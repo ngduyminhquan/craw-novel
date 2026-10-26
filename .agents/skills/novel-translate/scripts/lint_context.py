@@ -8,6 +8,7 @@ LỖI (exit 1):
   - chương đã dịch mà summaries.md thiếu mục tóm tắt
 Cảnh báo:
   - mục trong '## Đã loại' của glossary bị thêm lại vào bảng
+  - nhiều dòng glossary có cùng bản dịch VI (thường là một thuật ngữ khai báo hai lần)
   - EN viết thường từ 3 từ trở lên (thường là cụm miêu tả); đã xem và giữ thì ghi "thuật ngữ cố định" vào Ghi chú
   - kỹ năng/danh hiệu/chức nghiệp để nguyên tiếng Anh mà Ghi chú không nói "giữ nguyên"
   - VI có nhiều biến thể ngăn bằng '/' (chỉ chấp nhận khi Ghi chú nói rõ dùng biến thể nào trong ngữ cảnh nào)
@@ -60,6 +61,15 @@ def lint(novel):
         hit = {e["en"].lower(), *(a.lower() for a in e["aliases"])} & removed
         if hit:
             warns.append(f"glossary: '{e['en']}' nằm trong mục 'Đã loại' (không thêm lại) — xoá dòng này khỏi bảng")
+
+    by_vi = defaultdict(list)
+    for e in entries(ctx / "glossary.md"):
+        if e["vi"].strip():
+            by_vi[e["vi"].strip().lower()].append(e["en"])
+    for vi, ens in sorted(by_vi.items()):
+        if len(ens) > 1:
+            warns.append(f"glossary: {len(ens)} dòng cùng dịch là '{vi}': {', '.join(ens)} — cùng một thứ thì gộp "
+                         "vào Alias của một dòng")
 
     summaries = read_text(ctx / "summaries.md")
     for row in load_progress(novel):
