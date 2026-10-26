@@ -6,7 +6,7 @@ Tại một thế giới mà ngay cả cái tên họ cũng chẳng hề hay bi�
 
 "Oa, em vẫn không thể tin nổi luôn ấy. Anh IlHan cứ thế này rồi vọt ra một phát, vậy mà bao nhiêu chuyện đã xảy ra...."
 
-Thế nhưng, cái 'một phát' ấy lại gói trọn toàn bộ những gì tinh túy nhất của Yu IlHan. Nói cho đúng thì đó là một đòn công kích mang theo sức nặng và nỗi uất ức dồn nén suốt một ngàn năm cuộc đời của anh. Có thể nói nó vô cùng xứng tầm với một Yu IlHan đang sở hữu danh hiệu 'Ngươi Một Kích, Ta Một Kích'.
+Thế nhưng, cái 'một phát' ấy lại gói trọn toàn bộ những gì tinh túy nhất của Yu IlHan. Nói cho đúng thì đó là một đòn công kích mang theo sức nặng và nỗi uất ức dồn nén suốt một ngàn năm cuộc đời của anh. Có thể nói nó vô cùng xứng tầm với một Yu IlHan đang sở hữu danh hiệu 'Một đòn cho ta, một đòn cho ngươi!'.
 
 "Nhưng Liera này, sao kinh nghiệm lại không hiện con số cụ thể nào thế?"
 
@@ -24,7 +24,7 @@ Tên thiên thần sa ngã vừa gục ngã tức tưởi trước cú lao mình
 
 Liera mím môi như muốn nói điều gì, nhưng rồi lại thôi.
 
-[...Không có gì đâu. Vì cậu đã hạ gục một thực thể cấp cao, chắc hẳn cậu đã chạm đến giới hạn cực hạn của chuyển chức 3 rồi đúng không?]
+[...Không có gì đâu. Vì cậu đã hạ gục một thực thể cấp cao, chắc hẳn cậu đã chạm đến cực hạn của chuyển chức 3 rồi đúng không?]
 
 "Ừm, cấp độ 199 và danh sách lựa chọn chức nghiệp đã hiện ra rồi."
 

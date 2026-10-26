@@ -172,7 +172,7 @@ Phải rồi, dĩ nhiên. Một người lanh lợi như Na YuNa đời nào l�
 
 "Nhưng nếu ngay từ đầu, ý đồ của chúng là khiến chúng ta chú ý đến chúng thì sao? Nếu mục đích của chúng là khiến người Trái Đất phải 'hành động' theo một hướng nào đó thì sao?"
 
-"Thế thì lại càng vô nghĩa hơn nữa. Điều duy nhất em có thể nghĩ đến là ngăn không cho chúng ta có mặt ở Trái Đất, nhưng trên Trái Đất làm gì còn cao thủ nào phá vỡ mọi quy chuẩn thông thường như anh đâu, mà Trái Đất cũng chẳng thể đối mặt với ngày tận thế chỉ vì vắng bóng vài chuyên gia. Hiện tại trên Trái Đất không chỉ có vô số dị năng giả, mà còn nhận được rất nhiều sự hỗ trợ từ các thế giới khác nữa."
+"Thế thì lại càng vô nghĩa hơn nữa. Điều duy nhất em có thể nghĩ đến là ngăn không cho chúng ta có mặt ở Trái Đất, nhưng trên Trái Đất làm gì còn cao thủ nào phá vỡ mọi quy chuẩn thông thường như anh đâu, mà Trái Đất cũng chẳng thể đối mặt với ngày tận thế chỉ vì vắng bóng vài cao thủ. Hiện tại trên Trái Đất không chỉ có vô số dị năng giả, mà còn nhận được rất nhiều sự hỗ trợ từ các thế giới khác nữa."
 
 "Hự."
 
@@ -192,7 +192,7 @@ Rất khó có khả năng lời nói của những tên thiên thần sa ngã l
 
 "Hức, em xin lỗi."
 
-[Hai người các người thực sự muốn ăn đòn đấy à?]
+[Cả hai người thực sự muốn ăn đòn đấy à?]
 
 Dòng suy ngẫm dừng lại ở đây. Điều duy nhất anh có thể làm lúc này là nỗ lực hết sức mình. Yu IlHan khẽ thở dài rồi dang rộng đôi cánh Hiệu Triệu Diệt Vong. Khi anh đưa hai tay ra phía trước, Na YuNa liền đỏ mặt nhảy tót vào lòng anh.
 

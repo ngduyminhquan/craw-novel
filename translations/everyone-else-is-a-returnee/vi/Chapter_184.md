@@ -90,7 +90,7 @@ Tròn trĩnh 100 điểm. Hiệu quả của nấu nướng ma pháp đã gia t�
 
 "Lúc đó tôi đâu thể dùng kỹ năng Tử Thần. Làm sao mà nhất kích tất sát từng con một trong số lũ quái vật ấy được."
 
-[Tôi đoán cũng đúng...]
+[Cũng đúng thật...]
 
 Trên thực tế, sức mạnh của Yu IlHan đã bị kìm hãm khá nhiều trong hầm ngục địa ngục đó.
 
@@ -230,7 +230,7 @@ Khi cả bả vai lẫn trái tim đều đã bị phá hủy, cơ quan ma pháp
 
 Nghe những lời oán hận của tên thiên thần sa ngã, Liera khẽ nở một nụ cười thản nhiên khi cất giọng.
 
-[Bổn cô nương chẳng nghe thấy gì đâu vì ngươi chỉ là một kẻ yếu ớt bị một người chuyển chức 3 hạ gục.]
+[Ta chẳng nghe thấy gì đâu vì ngươi chỉ là một kẻ yếu ớt bị một người chuyển chức 3 hạ gục.]
 
 "Phù... Này này, lời của cô gây sát thương lan sang cả tôi đấy, nên làm ơn bớt bớt lại giùm đi."
 
@@ -274,7 +274,7 @@ Hồ Sơ Akashic hiện lên trong mắt anh và hiển thị những phần th�
 
 [Kỹ năng Long Huyết đã đạt cấp độ 70.]
 
-[Bạn đã nhận được danh hiệu, 'Bất Khả Xâm Phạm'. Mọi năng lực tăng 20% khi đối đầu với kẻ địch thuộc đẳng cấp cao hơn, đồng thời bạn có thể tránh được một đòn tấn công có thể đoạt mạng trong một kích.]
+[Bạn đã nhận được danh hiệu 'Bất Khả Xâm Phạm'. Mọi năng lực tăng 20% khi đối đầu với kẻ địch thuộc đẳng cấp cao hơn, đồng thời bạn có thể tránh được một đòn tấn công có thể đoạt mạng trong một kích.]
 
 [Bạn đã đạt cấp độ 199. Tăng 5 Sức mạnh, 3 Nhanh nhẹn, 3 Thể lực, 4 Ma pháp.]
 

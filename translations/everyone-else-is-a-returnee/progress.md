@@ -188,9 +188,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | reviewed |  |
 | 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | reviewed |  |
 | 183 |  | Chapter_183 - The Path I Walk – 1.txt | The Path I Walk – 1 | reviewed |  |
-| 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | done |  |
-| 185 |  | Chapter_185 - The Path I Walk – 3.txt | The Path I Walk – 3 | done |  |
-| 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | done |  |
+| 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | reviewed |  |
+| 185 |  | Chapter_185 - The Path I Walk – 3.txt | The Path I Walk – 3 | reviewed |  |
+| 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | reviewed |  |
 | 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | todo |  |
 | 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | todo |  |
 | 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | todo |  |

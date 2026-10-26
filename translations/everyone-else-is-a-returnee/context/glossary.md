@@ -141,7 +141,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Jeongneung |  | Jeongneung | địa danh | 13 | Khu vực lân cận núi Bukhansan ở Seoul |
 | Brown Big Bear |  | Gấu Lớn Nâu | quái vật | 14 | Quái vật gấu biến dị cấp 54 tại khu Jeongneung |
 | Critical Hit | Critical Hit Skill; Fatal; Fatally | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng; cũng là tiền tố dòng thuộc tính trang bị (Fatal/Fatally) tăng tỷ lệ chí mạng |
-| One hit for me, one hit for you! |  | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
+| One hit for me, one hit for you! | One hit for you, one hit for me | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
@@ -492,7 +492,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Polymorph |  | Biến Hình | kỹ năng | 87 | Ma pháp trong truyền thuyết của loài rồng dùng để biến thành hình dạng con người |
 | Re-leap |  | Bật Nhảy Tiếp | kỹ năng | 88 | Cú bật nhảy bổ sung giữa không trung khi kích hoạt Bật Nhảy từ cấp 20 |
 | Iron Fortress |  | Thiết Pháo Đài | khác | 88 | Tên Yu IlHan tự đặt cho thế trận dựng nhiều lớp khiên Orochi chống ma pháp |
-| Spear of Undrawable Trajectory | Spear of Untraceable Trajectory | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
+| Spear of Undrawable Trajectory | Spear of Untraceable Trajectory; Untraceable Trajectory | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
 | The Quickest |  | Cực Tốc Giả | danh hiệu | 89 | Danh hiệu đạt được khi là thực thể cấp thấp khai phá kỹ năng độc nhất nhanh nhất |
 | fusion evolution | fusion evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
 | Absolute Accuracy |  | Tuyệt Đối Chuẩn Xác | kỹ năng | 90 | Kỹ năng độc nhất tiến hóa dung hợp từ Thuật Ném và Xạ Kích |
