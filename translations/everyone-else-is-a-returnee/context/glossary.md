@@ -625,3 +625,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | London |  | London | địa danh | 153 | Thủ đô nước Anh, nơi Michael Smithson cùng clan Metal Knights chiến đấu |
 | Melotra |  | Melotra | địa danh | 153 | Thế giới khác nơi Michael Smithson từng trải qua 10 năm chuyển sinh |
 | Mister Unique |  | Quý ngài Độc Nhất | khác | 153 | Biệt danh Michael Smithson dùng để gọi Yu IlHan (người bán trang bị phẩm cấp Độc Nhất của Vanguard) |
+| Twin-headed snake |  | Rắn Hai Đầu | quái vật | 154 | Quái vật rắn chuyển chức 3 Lv 108 |
+| Ultra Monkey |  | Siêu Khỉ | quái vật | 154 | Quái vật khỉ chuyển chức 3 Lv 104 |

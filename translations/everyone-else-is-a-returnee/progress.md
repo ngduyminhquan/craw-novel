@@ -158,7 +158,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | reviewed |  |
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | reviewed |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | reviewed |  |
-| 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | todo |  |
+| 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | done |  |
 | 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | todo |  |
 | 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | todo |  |
 | 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | todo |  |

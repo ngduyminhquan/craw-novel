@@ -946,6 +946,13 @@ Cùng lúc đó tại thủ đô London (Anh), Michael Smithson một mình nh�
 Cả Carina lẫn Smithson đều ngỡ ngàng nhận ra những vòng xoáy mana kỳ lạ trên Trái Đất không phải là Hiện Tượng Tràn quái vật, mà là quá trình chuẩn bị khai mở các cánh cổng kết nối Trái Đất với các thế giới khác mà dị năng giả từng gắn kết trong 10 năm qua.
 Cảnh kết thúc: Trong lúc các cánh cổng không gian liên tục mở ra khắp thế giới, Yu IlHan cùng nhóm bạn tại Gangnam vẫn đang mải mê trong trận chiến phòng thủ đại dinh thự và hoàn toàn không hay biết biến cố chấn động này.
 
+## 154
+Hàng vạn quái vật bị thu hút bởi lượng mana khổng lồ của Bittersweet Persona kéo đến vây hãm dinh thự, nhưng phần lớn đều bị hàng rào hấp thụ mana biến thành nhiệt lượng thiêu rụi, tường thành thứ hai hất ngược vào hố lửa và các tạo tác ngụy trang trong hoa viên tiêu diệt; dàn thuộc hạ gồm Paté, Erica và Yumir phối hợp quét sạch tàn dư quái vật chuyển chức 3.
+Tại phòng điều khiển, IlHan tận dụng cơ chế trực tiếp vận hành pháo đài để thu về trọn vẹn điểm kinh nghiệm từ bẫy rập và để dinh thự hấp thụ ghi chép quái vật cấp 2; khi Spiera báo cáo các Bẫy Hủy Diệt không theo kịp quy mô quái vật vượt trội tựa như Đại Tai Biến lần 3, IlHan kích hoạt toàn bộ vũ khí bắn tỉa và tạo ra vụ nổ mana diện rộng tàn sát bầy quái vật.
+Lượng mana dày đặc từ quái vật ngã xuống ngưng tụ thành một vòng xoáy mana khổng lồ tự nhiên hình thành cổng kết nối dị giới ngay trong khuôn viên dinh thự; tưởng nhầm đó là Hiện Tượng Tràn, IlHan điên cuồng dồn toàn bộ mana kích nổ vòng xoáy khiến nó tan biến hoàn toàn mà không mở ra cánh cổng nào, đồng thời nhận được lượng EXP bí ẩn cùng ghi chép bị che dấu chấm hỏi giúp anh thăng liền 2 cấp lên Lv 146.
+Cảnh kết thúc: Mặc cho các thiên thần chết lặng vì kinh ngạc trước việc anh phá hủy cánh cổng kết nối dị giới và nghi ngờ Hồ Sơ Akashic bị dính lỗi, IlHan vẫn thản nhiên tiếp tục cuộc chiến phòng thủ dinh thự trong những ngày đầu của Đại Tai Biến lần 2.
+
+
 
 
 
