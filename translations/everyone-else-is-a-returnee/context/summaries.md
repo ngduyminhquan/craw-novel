@@ -1196,3 +1196,10 @@ Yu IlHan cải tạo 5 tấm khiên Aegis và dùng bột lông cánh thiên th�
 Tiêu tốn 2.000 ma thạch chuyển chức 4 trong đợt Chế Tác Mana quy mô khổng lồ, IlHan hoàn thành tạo tác Bách Nhãn phẩm cấp Hỗn Loạn với khả năng bắn chùm tia liên tục và tự phục hồi; sau đó anh dùng nốt 500 ma thạch làm bẫy rồi tự thưởng 2 ngày tắm nước nóng trong Đại Thùng.
 Liera thản nhiên trút bỏ y phục bước vào bồn tắm chung và ôm chầm lấy IlHan an ủi động viên, khiến IlHan hoảng loạn ngượng ngùng tìm cách giữ khoảng cách nhưng đành bất lực trước sự ấm áp của cô.
 Cảnh kết thúc: Hoàn tất lắp đặt toàn bộ vũ khí và tạo tác vào dinh thự, IlHan kích hoạt đợt Chế Tác Mana sau cùng, chính thức khai sinh Pháo Đài Bay Kẻ Hủy Diệt phẩm cấp Thần vô tiền khoáng hậu và giúp danh hiệu Kẻ Sáng Tạo Thần Thoại tiếp tục tăng trưởng.
+
+## 195
+Pháo Đài Bay Kẻ Hủy Diệt hoàn thành với 7 dòng thuộc tính bá đạo nhờ danh hiệu Kẻ Sáng Tạo Thần Thoại tiến hóa, biến toàn bộ pháo đài thành trang bị của Yu IlHan giúp anh nhận kinh nghiệm tự động và điều khiển từ xa.
+Khi Đồng Hồ Cát Vĩnh Hằng kết thúc hiệu lực, kết giới điện từ và hệ thống Bách Nhãn gồm 100 Gương Hủy Diệt tự động bắn chùm tia tiêu diệt sạch sẽ bầy quái vật vây hãm, mang về hơn 300 ma thạch chuyển chức 4 cùng vô số điểm kinh nghiệm.
+IlHan dùng xác Ác Ma Rung Biến Thái truyền chấn động cực mạnh vào kết giới cắt đứt gốc rễ dinh thự với mặt đất, giúp pháo đài bay lơ lửng lên không trung và phát tán mana thu hút quái vật bay khắp nơi để tiến hành không chiến.
+Cảnh kết thúc: Sau khi IlHan hào hứng tiết lộ pháo đài còn có thể lặn biển và chiến đấu ngoài vũ trụ khiến sự tự tin của Liera sụp đổ, bầy quái vật bay ập đến và IlHan ra lệnh cho các khẩu pháo quét sạch toàn bộ.
+

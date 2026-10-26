@@ -684,4 +684,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Miraculously apocalyptic and unbelievably curseful Destruction mirror |  | Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin | vật phẩm | 193 | Tạo tác gương phẩm cấp Sử Thi rèn từ lông cánh thiên thần sa ngã có khả năng bắn chùm tia và phản đòn |
 | Destruction mirror | destruction mirror | Gương Hủy Diệt | vật phẩm | 193 | Tên gọi tắt của Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin |
 | Hundred Eyes |  | Bách Nhãn | vật phẩm | 194 | Hệ thống 100 chiếc Gương Hủy Diệt kết hợp 20 thùng chứa ma thuật phẩm cấp Hỗn Loạn của Yu IlHan |
-| Destroyer's Flying Fortress |  | Pháo Đài Bay Kẻ Hủy Diệt | vật phẩm | 194 | Tạo tác phẩm cấp Thần do Yu IlHan hoàn thành từ dinh thự Bittersweet Persona |
+| Destroyer's Flying Fortress | Destroyer's Flying fortress | Pháo Đài Bay Kẻ Hủy Diệt | vật phẩm | 194 | Tạo tác phẩm cấp Thần do Yu IlHan hoàn thành từ dinh thự Bittersweet Persona |
