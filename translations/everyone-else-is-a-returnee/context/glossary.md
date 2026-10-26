@@ -440,7 +440,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | England |  | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
 | Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |
 | Yamata no Orochi | Yamata | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
-| Orochi | the Orochi | Orochi | quái vật | 73 | Tên gọi tắt của quái xà Yamata no Orochi |
+| Orochi | the Orochi | Orochi | quái vật | 73 | Tên gọi tắt của quái xà Yamata no Orochi; từ chương 148 trở thành thuộc hạ trong Bát Vĩ Long Thương, nói chuyện trực tiếp với Yu IlHan (xưng ta, gọi ngươi) |
 | Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |
 | DoT | Damage over Time | sát thương theo thời gian | hệ thống | 74 | Sát thương duy trì liên tục trong thuật ngữ game |
 | Dragon Slayer |  | Đồ Long Giả | danh hiệu | 76 | Danh hiệu nhận được sau khi hạ gục quái vật Long tộc Yamata no Orochi (tăng 10% mọi năng lực khi chiến đấu chống lại Long tộc) |

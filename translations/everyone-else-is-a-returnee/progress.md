@@ -152,9 +152,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | reviewed |  |
 | 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | reviewed |  |
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | reviewed |  |
-| 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | done |  |
-| 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | done |  |
-| 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | done |  |
+| 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | reviewed |  |
+| 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | reviewed |  |
+| 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | reviewed |  |
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | todo |  |
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | todo |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | todo |  |
@@ -779,3 +779,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#149] Lời gọi đùa "Spiemon" của Liera ở đoạn 10 ([Help us, Spiemon!]): xử lý thế nào? → Giữ nguyên biệt danh chơi chữ "Spiemon" (ghép Spiera + Doraemon) trong câu thoại "[Cứu bọn tôi với, Spiemon!]" và ghi chú biệt danh đùa trong mô tả nhân vật Spiera ở characters.md, không đưa vào cột Alias. (orchestrator)
 - [#149] Cụm "Record of worlds" trong điều kiện tiến hóa kỹ năng Ngôn Ngữ: dịch thế nào? → Chốt dịch là "Ghi Chép Các Thế Giới" trong thông báo hệ thống (và viết thường "ghi chép các thế giới" trong lời văn/thoại), đồng bộ với thuật ngữ "ghi chép" (record) và "Hồ Sơ Akashic". (orchestrator)
 - [#149] Ghi chú biên tập inline ở đoạn raw 188 "(E/N: Souls from his death god skills)": xử lý thế nào? → Loại bỏ hoàn toàn phần ghi chú biên tập (E/N) theo quy tắc cứng trong rules.md, giữ nguyên phần nội dung câu truyện. (orchestrator)
+- [#148] Đoạn 21 câu thoại "Adieu!" của Yu IlHan khi tạm biệt Flemir: giữ "Vĩnh biệt!" hay đổi sang "Cáo biệt!"? → Đổi thành "Cáo biệt!" để giữ sắc thái chào tạm biệt kiểu kịch tính hài hước khi IlHan chuồn đi trước và nhắn Flemir về lại thế giới Kiroa, tránh cảm giác bi lụy của "Vĩnh biệt!". (orchestrator)

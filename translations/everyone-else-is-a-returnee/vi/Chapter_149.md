@@ -46,7 +46,7 @@ Liera giục Spiera.
 
 Hóa ra số thiên thần bị tha hóa do qua lại với Yu IlHan đâu chỉ giới hạn ở mỗi Liera và Erta!
 
-Vẻ mặt các nàng thiên thần đơ cứng lại. Biểu cảm của họ trông buồn cười đến lạ. Rồi sau đó là một tràng sắc mặt đầy mâu thuẫn trên khuôn mặt họ! Spiera cất lời như muốn đóng đinh sự thật vào đầu họ.
+Vẻ mặt các nàng thiên thần đơ cứng lại. Biểu cảm của họ trông buồn cười đến lạ. Rồi sau đó là những nét biểu cảm đầy mâu thuẫn nối tiếp nhau trên gương mặt họ! Spiera cất lời như muốn đóng đinh sự thật vào đầu họ.
 
 [Liera, trả lời ta. Chuyện gì vừa xảy ra thế?] (Spiera)
 
@@ -58,7 +58,7 @@ Vẻ mặt các nàng thiên thần đơ cứng lại. Biểu cảm của họ t
 
 Các thiên thần đã thỏa hiệp với hiện thực! Ngay sau đó, cả ba người đồng loạt trừng mắt nhìn Yu IlHan. Ánh mắt tuyệt vọng trốn tránh hiện thực của các thiên thần chạm phải ánh nhìn ngơ ngác của Yu IlHan giữa không trung, bắn ra những tia lửa tóe khói.
 
-[Yu IlHan, cậu còn đứng đấy làm gì mà không chịu chế tạo Bẫy Hủy Diệt đi? Ta sẽ cộng thêm 30 bình thuốc hồi mana nữa, nên mau vung tay vung chân ngay đi.] (Spiera)
+[Yu IlHan, cậu còn đứng đấy làm gì mà không chịu chế tạo Bẫy Hủy Diệt đi? Ta sẽ cộng thêm 30 bình thuốc hồi mana nữa, nên mau bắt tay vào làm việc ngay đi.] (Spiera)
 
 "Hóa ra cô muốn hối lộ để bịt miệng tôi đấy hả..."
 

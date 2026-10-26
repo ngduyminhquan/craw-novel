@@ -20,7 +20,7 @@ Dù đã lập kỷ lục khi chỉ mất 40 phút để tạo ra chiếc đầu
 
 Vấn đề lại nằm ở phía các thiên thần. Tương tự như trước, việc hoàn thiện bẫy bắt buộc phải có các thiên thần sở hữu mana ở đẳng cấp cao hơn, nhưng vì ai nấy đều bận trăm công nghìn việc nên chẳng có mấy người đến phụ giúp anh.
 
-Do đó, sau khi tạo hình và cẩn khảm xong các Bẫy Hủy Diệt, Yu IlHan đành xếp đống chúng lại ở một góc phòng.
+Do đó, sau khi tạo hình và khảm nạm xong các Bẫy Hủy Diệt, Yu IlHan đành xếp đống chúng lại ở một góc phòng.
 
 Nhờ thế, những thiên thần có nhiệm vụ lắp đặt Bẫy Hủy Diệt ở thế giới mà mình phụ trách sẽ tự tìm đến chỗ anh, hoàn tất công đoạn Chế Tác Mana rồi mang những chiếc bẫy đã hoàn chỉnh đi.
 
@@ -56,7 +56,7 @@ Lúc này, một bên thì anh đang cắt gọt và đánh bóng khúc xương 
 
 Vì chẳng thể nào can thiệp vào công việc của Yu IlHan, họ chỉ đành đứng nhìn. Cứ thế, những ngày tháng lao động miệt mài không ngừng nghỉ lặng lẽ trôi qua.
 
-Trong lúc đó, thế giới bên ngoài đang quay cuồng như điên dại. Kể từ khi thông tin Đại Tai Biến lần 2 sắp sửa ập đến được công bố chính thức, lửa đã thiêu đốt đến tận chân mọi người.
+Trong lúc đó, thế giới bên ngoài đang quay cuồng như điên dại. Kể từ khi thông tin Đại Tai Biến lần 2 sắp sửa ập đến được công bố chính thức, lửa đã cháy đến tận chân mọi người.
 
 Xu hướng tìm cách thu thập thông tin hoặc vật phẩm từ các thế giới được kết nối ngày càng trở nên gay gắt, và cùng với việc tin đồn Trái Đất sẽ không thể vượt qua Đại Tai Biến lần 2 lan rộng, các loại tội phạm như bạo lực hay lừa đảo cũng bùng phát nghiêm trọng hơn.
 
@@ -100,9 +100,9 @@ Ngay cả trong khoảng thời gian đó, các thiên thần vẫn thường xu
 
 Những lời đồn đại về Susanoo cũng bắt đầu nhen nhóm từ đây.
 
-Về các quốc đảo bị hủy diệt ở Thái Bình Dương và Venezuela trong khi nhân loại còn đang mải mê chiến đấu chống lại Thế Giới Bị Bỏ Rơi. Người ta rêu rao rằng kẻ đã tàn sát họ không phải lũ quái vật, mà chính là Susanoo.
+Đó là vụ các quốc đảo ở Thái Bình Dương và Venezuela bị hủy diệt trong khi nhân loại còn đang mải mê chiến đấu chống lại Thế Giới Bị Bỏ Rơi. Người ta rêu rao rằng kẻ đã tàn sát họ không phải lũ quái vật, mà chính là Susanoo.
 
-[Đoạn video ghi lại cảnh Susanoo tàn sát con người như quái vật này được ghi lại bởi những du khách có mặt vào thời điểm đó...]
+[Đoạn video quay lại cảnh Susanoo tàn sát con người như quái vật này do các du khách có mặt vào thời điểm đó ghi lại...]
 
 [Cùng với sự thật là Susanoo quả thực đã không xuất hiện trong trận chiến chống lại Thế Giới Bị Bỏ Rơi, đoạn video này....]
 

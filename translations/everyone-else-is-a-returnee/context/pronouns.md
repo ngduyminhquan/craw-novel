@@ -236,6 +236,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu YongHan | Yumir | ông / bố | cháu / con / Mir | 143 | Yu YongHan trò chuyện với cháu nội |
 | Yumir | Kim YeSeul | cháu | bà nội / bà | 143 | Yumir trò chuyện với bà nội |
 | Kim YeSeul | Yumir | bà | cháu / Mir | 143 | Kim YeSeul trò chuyện và cưng chiều cháu nội |
+| Yumir | Erica | em / con | chị / chị Erica | 148 | Yumir xưng em/con, gọi Erica là chị / chị Erica |
 
 
 

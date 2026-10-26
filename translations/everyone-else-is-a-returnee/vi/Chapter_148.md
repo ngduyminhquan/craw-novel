@@ -40,7 +40,7 @@ Những người khác nhìn anh với vẻ mặt như muốn hỏi 'Sao tự d�
 
 Tại sao lại nói ra điều đó vào lúc này? Lý do vô cùng đơn giản. Trong số các thành viên ở đây, Flemir là người duy nhất mà anh không cần phải gặp lại khi về đến Hàn Quốc.
 
-"Vậy thì tôi xin phép đi trước đây! Vĩnh biệt!"
+"Vậy thì tôi xin phép đi trước đây! Cáo biệt!"
 
 Yu IlHan dang rộng đôi cánh rồi nhảy bật lên! Chỉ trong chớp mắt anh đã ở độ cao vài cây số trên không trung, đoạn dùng sóng xung kích kết hợp nhảy bật thêm vài lần nữa để đẩy mình lên cao hơn! Với các vectơ di chuyển theo phương ngang chồng lên chuyển động thẳng đứng, chẳng còn ai có thể nhìn thấy anh được nữa. Yu IlHan cũng cẩn thận triển khai kỹ năng Bật Nhảy.
 
@@ -54,7 +54,7 @@ Liera lao vút lên đuổi theo anh và thốt ra những lời khiến toàn b
 
 Mặt khác, Na YuNa lại cất tiếng nói với Kang MiRae với bộ dạng như bị lỏng mất một chiếc đinh ốc trong đầu, trông như thể cô nàng chẳng buồn suy nghĩ điều gì, ừ thì, mà cũng có thể là cô nàng chẳng nghĩ gì thật.
 
-Có vẻ như sự bận tâm của Yu IlHan về an nguy của cô đã đánh trúng trái tim cô nàng. Kang MiRae mỉm cười đáp lại cô.
+Có vẻ như sự bận tâm của Yu IlHan về an nguy của cô đã khiến trái tim cô nàng rung động. Kang MiRae mỉm cười đáp lại cô.
 
 "Im đi, YuNa."
 
