@@ -197,7 +197,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | reviewed |  |
 | 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | reviewed |  |
 | 192 |  | Chapter_192 - I Create – 2.txt | I Create – 2 | reviewed |  |
-| 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | todo |  |
+| 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | done |  |
 | 194 |  | Chapter_194 - I Create – 4.txt | I Create – 4 | todo |  |
 | 195 |  | Chapter_195 - I Create – 5.txt | I Create – 5 | todo |  |
 | 196 |  | Chapter_196 - I Create – 6.txt | I Create – 6 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -849,3 +848,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#191] Tiêu đề arc "I Create – 1" — Tạm chọn: "Tôi Tạo Ra – 1" (thống nhất với các chương ngôi thứ nhất "Tôi..."). Đề xuất khác: "Tôi Chế Tạo – 1" hoặc "Tôi Sáng Tạo – 1". → Dịch là "Tôi Tạo Ra – 1" (thống nhất với các tiêu đề chương ngôi thứ nhất và bao hàm cả ý nghĩa chế tạo lẫn kiến tạo). (orchestrator)
 - [#191] Vị thần ban phước cho Liera ("goddess of love" / "god of love") — Tạm chọn: "Thần Tình Yêu" (thống nhất với chương 105). Đề xuất khác: "Nữ Thần Tình Yêu". → Giữ nguyên "Thần Tình Yêu" thống nhất với mục đã chốt từ chương 105 trong glossary.md. (orchestrator)
 - [#192] Tên tổ chức "Dragon's Hell Army" — Tạm dùng: "Quân Đoàn Địa Ngục Rồng" (tương tự Quân Đoàn Susanoo; phương án khác: "Quân Đội Địa Ngục Rồng"). → Dịch là "Quân Đoàn Địa Ngục Rồng" (phù hợp với quy mô đội quân do Yumir lập ra và phân biệt với các phe phái thực thể cấp cao dùng "Quân Đội ..."). (orchestrator)
+- [#193] Tên tạo tác "Miraculously apocalyptic and unbelievably curseful Destruction mirror" và tên rút gọn "Destruction mirror" — Tạm chọn: "Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin" và "Gương Hủy Diệt". → Chốt dịch tên đầy đủ là "Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin" và tên gọi tắt là "Gương Hủy Diệt". (orchestrator)
+- [#193] Dịch "beam" / "beam weapon" trong hội thoại và tiếng hô "BEEEEEEEEEEEEEEEAAAAAAAAAM!" của Yu IlHan — Tạm chọn: "chùm tia" / "vũ khí chùm tia" và tiếng hô "CHÙM TIAAAAAAAAAAAAAAA!". → Chốt dịch là "chùm tia" / "vũ khí chùm tia" và tiếng hô "CHÙM TIAAAAAAAAAAAAAAA!" tự nhiên, giữ chất hài hước của Yu IlHan. (orchestrator)
+- [#193] Đoạn 101 raw thiếu dấu mở ngoặc vuông '[' ở đầu khối mô tả tạo tác dù có dấu đóng ']' ở cuối — Tạm chọn: bổ sung '[' ở đầu đoạn cho chuẩn định dạng bảng thông số vật phẩm (khiến QA báo lệch số đoạn '[' raw 32 vs dịch 33). → Bổ sung dấu '[' ở đầu đoạn 101 để cân xứng với dấu ']' ở cuối đoạn theo đúng định dạng bảng thông số vật phẩm. (orchestrator)

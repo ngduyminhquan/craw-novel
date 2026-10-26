@@ -1185,6 +1185,12 @@ Phát hiện một nhóm trẻ con loài người dưới 4 tuổi tụ tập kh
 Nhờ khả năng kháng hỏa bẩm sinh kết hợp phong thuật mượn ngọn lửa phản kích, Yumir giáng liên tiếp hai đòn Chí Mạng rồi đập nát đầu con ác ma, thu về lượng kinh nghiệm khổng lồ và ghi chép bị che giấu.
 Cảnh kết thúc: Bất chấp đau đớn, Yumir ăn thịt quái vật rồi nướng phần ít độc chia cho lũ trẻ con đói lả ăn cùng; tin rằng chúng không thể từ chối và sẽ trở thành thuộc hạ của mình giống cách bố biến những thứ vô dụng thành hữu dụng, Yumir chính thức khai sinh Quân Đoàn Địa Ngục Rồng.
 
+## 193
+Trong thế giới ngưng đọng của Đồng Hồ Cát Vĩnh Hằng, Yu IlHan làm việc điên cuồng như một cỗ máy không ngủ nghỉ, kết hợp Ngọn Lửa Vĩnh Cửu, Chế Tác Mana cùng Ma Pháp Công Học để rèn các hợp kim quý hiếm từ nhiều thế giới thành các bộ phận cho pháo đài bay.
+Sau 48 ngày, công trình hoàn thành 80%; IlHan chế tạo thành công 10 cỗ động cơ bay lơ lửng khổng lồ tích hợp kỹ năng Bật Nhảy tiêu tốn hàng nghìn ma thạch chuyển chức 4, đồng thời cải tiến các thiết bị phòng thủ và bẫy quái vật của dinh thự.
+Để tạo ra vũ khí tối thượng đối phó thực thể chuyển chức 5, IlHan nảy ra ý tưởng làm vũ khí chùm tia; anh vặt lông cánh của tên thiên thần sa ngã, nghiền thành bột mịn kết hợp xương rồng và ma thạch để chế tạo chiếc Gương Hủy Diệt phẩm cấp Sử Thi có khả năng tự động đánh chặn, bắn chùm tia năng lượng và phản đòn đối phương.
+Cảnh kết thúc: Yu IlHan nhìn chiếc Gương Hủy Diệt lơ lửng theo sau với đôi mắt rực sáng đầy khao khát tiếp tục mở rộng hệ thống tấn công, khiến Liera thầm tự hỏi rốt cuộc trên cánh tên thiên thần sa ngã còn lại bao nhiêu chiếc lông vũ.
+
 
 
 

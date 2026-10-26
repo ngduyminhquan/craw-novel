@@ -451,7 +451,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Heaven's City |  | Thiên Thành | địa danh | 77 | Thành phố trung tâm nơi sinh sống của các thiên thần trên Thiên giới |
 | Hourglass of Eternity |  | Đồng Hồ Cát Vĩnh Hằng | vật phẩm | 77 | Tạo tác phẩm cấp Thần do Thiên giới ban thưởng, có năng lực đóng băng thời gian xung quanh tối đa 2 tháng |
 | Higher Curse Resistance |  | Kháng Lời Nguyền Cấp Cao | kỹ năng | 77 | Kỹ năng kháng nguyền rủa cấp cao nhận từ phần thưởng Nhiệm Vụ Thiên Giới 005 |
-| God rank | God-rank | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
+| God rank | God-rank; God-ranked | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
 | predator | predators | kẻ săn mồi | chủng tộc | 77 | Các thực thể cấp cao tà ác vượt qua Bức Tường Hỗn Loạn mưu toan nuốt chửng ghi chép của mọi thế giới |
 | Tyrant |  | Bạo Chúa | hệ thống | 78 | Dòng thuộc tính beta tăng sát thương chí mạng |
 | God of Dismantling |  | Thần Giải Phẫu | khác | 78 | Thực thể hư cấu hình thành từ tích lũy ghi chép giải phẫu (Erta ví von) |
@@ -681,3 +681,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Untouchable |  | Bất Khả Xâm Phạm | danh hiệu | 184 | Danh hiệu Yu IlHan nhận được sau khi hạ gục thực thể cấp cao Dmirel (+20% mọi chỉ số khi đấu kẻ địch đẳng cấp cao hơn, tránh được đòn chí tử một kích) |
 | Dragonic bracelet |  | Vòng Tay Long Linh | vật phẩm | 191 | Tên gọi tắt chiếc vòng tay chế tác từ vảy rồng hệ lôi chứa thuộc tính bão sấm sét của Yu IlHan |
 | Dragon's Hell Army |  | Quân Đoàn Địa Ngục Rồng | tổ chức | 192 | Đội quân gồm những đứa trẻ sơ sinh ở hỏa ngục do Yumir thu phục bằng thịt quái vật |
+| Miraculously apocalyptic and unbelievably curseful Destruction mirror |  | Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin | vật phẩm | 193 | Tạo tác gương phẩm cấp Sử Thi rèn từ lông cánh thiên thần sa ngã có khả năng bắn chùm tia và phản đòn |
+| Destruction mirror | destruction mirror | Gương Hủy Diệt | vật phẩm | 193 | Tên gọi tắt của Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin |
