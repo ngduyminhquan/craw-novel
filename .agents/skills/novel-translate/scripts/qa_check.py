@@ -50,6 +50,11 @@ def check(novel, row):
 
     if not vi_text.lstrip().startswith("# "):
         warns.append("thiếu dòng tiêu đề '# Chương N: ...' ở đầu file")
+    else:
+        title_line = vi_text.lstrip().splitlines()[0]
+        raw_title = row.get("tiêu đề", "").strip()
+        if raw_title and len(raw_title.split()) >= 2 and raw_title.lower() in title_line.lower():
+            warns.append(f"tiêu đề chưa dịch, vẫn là tiếng Anh: {title_line[:90]}")
 
     # rules.md quy định mỗi đoạn raw là một đoạn dịch, nên thiếu dù một đoạn cũng là lỗi.
     diff = len(vi_paras) - len(raw_paras)
