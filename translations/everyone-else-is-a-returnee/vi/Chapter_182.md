@@ -148,7 +148,7 @@ Trong khi Yu IlHan đang lập lời hứa với Yumir, Kang MiRae và Na YuNa l
 
 Xem chừng những người phụ nữ này cũng đã nếm trải đủ điều ngoài những thứ có thể giải thích bằng cấp độ và kỹ năng. Yu IlHan cảm thấy lúng túng bèn lùi lại một bước, rồi chợt nhớ ra một chuyện mà nãy giờ mình đã bỏ quên.
 
-"Thế còn các elf và tộc Lang tộc thì sao?"
+"Thế còn các elf và Lang tộc thì sao?"
 
 "À."
 
@@ -162,7 +162,7 @@ Kang MiRae lộ vẻ mặt khó xử.
 
 Na YuNa nói chen vào. Thấy Yu IlHan vẫn chưa hiểu, Kang MiRae bèn ân cần giải thích.
 
-"Đại Tai Biến lần 4 đã ập đến Daréu. Các elf đã tới đó để bảo vệ đồng bào mình, còn tộc Lang tộc thì đang hỗ trợ họ."
+"Đại Tai Biến lần 4 đã ập đến Daréu. Các elf đã tới đó để bảo vệ đồng bào mình, còn Lang tộc thì đang hỗ trợ họ."
 
 "Vậy sao....?"
 
@@ -186,7 +186,7 @@ Thế nhưng, nghĩ đến việc Daréu phải trải qua Đại Tai Biến l�
 
 "Nhưng thực ra chúng ta cũng chẳng cần giúp họ đâu mà~. Toàn bộ người sói từ Kiroa đều đã sang Daréu rồi. Họ đang cày cấp như điên ấy."
 
-Dù các elf và tộc Lang tộc là thuộc hạ của mình, anh cảm thấy không nỡ điều động họ về đây sau khi nghe tin họ đang phải đương đầu với Đại Tai Biến lần 4. Đúng như những gì Kang MiRae đã nói, anh thậm chí còn muốn sang giúp họ thì đúng hơn....
+Dù các elf và Lang tộc là thuộc hạ của mình, anh cảm thấy không nỡ điều động họ về đây sau khi nghe tin họ đang phải đương đầu với Đại Tai Biến lần 4. Đúng như những gì Kang MiRae đã nói, anh thậm chí còn muốn sang giúp họ thì đúng hơn....
 
 'Bốn người họ. Không, sáu người nếu tính cả Erica và Flemir. Mình đã trang bị cho họ toàn vật phẩm phẩm cấp Truyền Thuyết trở lên, nên chắc là ổn thôi... Paté có một món Sử Thi có thể điều khiển Undead, nên họ sẽ hạn chế được số lượng thương vong.'
 
@@ -204,7 +204,7 @@ Sau một tiếng thở dài, do không nghĩ ra được đối sách nào, khi
 
 "Bí mật ạ."
 
-Yu IlHan gạt phăng câu hỏi của mẹ, cũng như nỗi lo lắng về các elf và tộc Lang tộc. Vì sức khỏe tinh thần của mọi người, anh quyết định không đề cập đến việc tòa dinh thự này sẽ còn trở nên mạnh mẽ hơn nữa trong tương lai.
+Yu IlHan gạt phăng câu hỏi của mẹ, cũng như nỗi lo lắng về các elf và Lang tộc. Vì sức khỏe tinh thần của mọi người, anh quyết định không đề cập đến việc tòa dinh thự này sẽ còn trở nên mạnh mẽ hơn nữa trong tương lai.
 
 Cuối cùng, người đi cùng Yu IlHan được quyết định là Na YuNa. Trận oẳn tù tì nảy lửa kéo dài hơn 30 hiệp giữa cô và Kang MiRae đã khép lại với phần thắng thuộc về cô: 3 thắng, 30 hòa và 2 thua.
 

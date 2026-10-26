@@ -112,7 +112,7 @@ Yu IlHan nhận ra mình đã nhảy lên quá cao, và rốt cuộc cũng nhớ
 
 Đạt mức tinh thông một kỹ năng là điều không thể so sánh với giai đoạn trước đó. Hơn thế nữa, khi đã tiến hóa thành một kỹ năng cấp cao hơn, sự trưởng thành của kỹ năng cấp cao đó cũng sẽ cường hóa hiệu ứng của kỹ năng gốc ban đầu.
 
-Kỹ năng Tử Thần của Yu IlHan cũng tăng cường hiệu ứng ẩn thân càng nhiều khi cấp độ của nó càng tăng lên. Yu IlHan đã tiến hóa Bật Nhảy để nhận được Dịch Chuyển, do đó anh càng dùng Dịch Chuyển nhiều thì Bật Nhảy sẽ càng trở nên mạnh mẽ hơn. Dĩ nhiên, việc sử dụng nó cũng rất khó khăn đối với anh, bởi nguyên liệu đòi hỏi thực sự quá đỗi Cuồng Loạn....
+Kỹ năng Tử Thần của Yu IlHan cũng tăng cường hiệu ứng ẩn thân càng nhiều khi cấp độ của nó càng tăng lên. Yu IlHan đã tiến hóa Bật Nhảy để nhận được Dịch Chuyển, do đó anh càng dùng Dịch Chuyển nhiều thì Bật Nhảy sẽ càng trở nên mạnh mẽ hơn. Dĩ nhiên, việc sử dụng nó cũng rất khó khăn đối với anh, bởi nguyên liệu đòi hỏi thực sự quá đỗi điên rồ....
 
 "Thế thì chúng ta sẽ đi nhanh nhé."
 
@@ -130,7 +130,7 @@ Dường như ngay cả Na YuNa đang ngoan ngoãn cũng chẳng thể chịu đ
 
 "Coi chừng cắn vào lưỡi đấy. Cứ giữ yên cho đến khi chúng ta tới nơi đi."
 
-"Tồ ngốck! Đồ thỉu năng!"
+"Tồ ngốck! Đồ đầnnn!"
 
 Có vẻ như cô nàng đã cắn phải lưỡi mất rồi. Dù bật cười, Yu IlHan vẫn tiếp tục tăng tốc thêm một lần nữa. Với Bật Nhảy đạt mức tinh thông cùng Hiệu Triệu Diệt Vong, anh hoàn toàn tự tin sẽ không chịu thua bất kỳ thực thể cấp cao nào về mặt tốc độ!
 
@@ -286,7 +286,7 @@ Yu IlHan chẳng hề có ý định tin vào lời Na YuNa nói, thế nhưng c
 
 "Nãy giờ anh đang làm cái gì thế ạ?"
 
-Na YuNa cất tiếng hỏi trong khi nhìn theo một ngọn thương đang rơi xuống mặt đất. Chúng chắc chắn là lấy ra từ túi đồ của Yu IlHan. Và đó không phải là cây thương duy nhất. Không lâu sau khi Yu IlHan bay lên, anh đã đều đặn phóng những ngọn thương xuống mặt đất theo định kỳ.
+Na YuNa cất tiếng hỏi trong khi nhìn theo một ngọn thương đang rơi xuống mặt đất. Cây thương chắc chắn là lấy ra từ túi đồ của Yu IlHan. Và đó không phải là cây thương duy nhất. Không lâu sau khi Yu IlHan bay lên, anh đã đều đặn phóng những ngọn thương xuống mặt đất theo định kỳ.
 
 Thế nhưng dù Na YuNa không thể nhìn thấy, những ngọn thương được phóng đi đều được thu hồi trở lại túi đồ sau khi đã tiêu diệt quái vật trên mặt đất, dưới biển và cả trên không trung.
 

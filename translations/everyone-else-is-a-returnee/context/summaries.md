@@ -1120,7 +1120,7 @@ Cảnh kết thúc: Giữa lúc IlHan thay giáp chuẩn bị cùng mọi ngư�
 ## 182
 Erta và Spiera lần lượt nhận lệnh trở về Thiên giới (Erta thăng chức lên chuyển chức 6, Spiera chuẩn bị thanh trừng nội gián); Liera dứt khoát bẻ gãy đôi vòng hào quang liên lạc, quyết tâm ở lại Trái Đất bảo hộ Yu IlHan.
 Cả nhóm thống nhất chia nhau ra phá hủy các ma pháp trận bí mật; Yumir quyến luyến và được IlHan hứa từ nay sẽ không đi đâu một mình nữa; Na YuNa chiến thắng Kang MiRae trong ván oẳn tù tì để giành quyền đi cùng IlHan.
-Cả nhóm hay tin Daréu đang đối mặt với Đại Tai Biến lần 4 và toàn bộ tộc Lang tộc Kiroa đã sang tiếp viện cho các elf; IlHan thở phào khi biết họ đều được trang bị vật phẩm Truyền Thuyết trở lên và dinh thự luôn duy trì cổng rút lui an toàn.
+Cả nhóm hay tin Daréu đang đối mặt với Đại Tai Biến lần 4 và toàn bộ Lang tộc Kiroa đã sang tiếp viện cho các elf; IlHan thở phào khi biết họ đều được trang bị vật phẩm Truyền Thuyết trở lên và dinh thự luôn duy trì cổng rút lui an toàn.
 Cảnh kết thúc: IlHan chia cho mẹ Kim YeSeul, Kang MiRae và Na YuNa hàng loạt trang bị phẩm cấp Sử Thi cùng phụ kiện Truyền Thuyết 5 dòng thuộc tính chế tạo từ hầm ngục, đồng thời tiết lộ bộ giáp và Aegis của mình cũng đã tự phát triển lên phẩm cấp Sử Thi khiến mọi người cạn lời kinh ngạc.
 
 ## 183
