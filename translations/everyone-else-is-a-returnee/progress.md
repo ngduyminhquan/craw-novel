@@ -185,7 +185,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | reviewed |  |
 | 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | reviewed |  |
 | 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | reviewed |  |
-| 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | todo |  |
+| 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | done |  |
 | 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | todo |  |
 | 183 |  | Chapter_183 - The Path I Walk – 1.txt | The Path I Walk – 1 | todo |  |
 | 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -827,3 +828,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#179] Thuật ngữ "Spatial transfer magic" — Tạm chọn: "Ma pháp dịch chuyển không gian" (nhất quán với "Ma pháp mở rộng không gian" ở chương 30). → Giữ cách dịch tự nhiên "ma pháp dịch chuyển không gian" trong chương 179, nhưng đưa `Spatial transfer magic` vào danh sách Đã loại trong glossary.md vì trong raw đây là cụm danh từ chung viết thường (`spatial transfer magic`), không phải tên kỹ năng hệ thống. (orchestrator)
 - [#179] Ký tự số 1 ở cuối tiếng khóc của Yumir trong raw ('*Waaaaaaaaaaaaah*!' 1) — Tạm chọn: lược bỏ số 1 vì là ký hiệu đánh dấu chú thích thừa của bản dịch tiếng Anh (không có nội dung chú giải ở cuối file). → Giữ nguyên quyết định lược bỏ số 1 thừa ở cuối tiếng khóc của Yumir vì đó là ký hiệu đánh dấu chú thích của bản dịch tiếng Anh. (orchestrator)
 - [#180] Raw đoạn 6 ghi "he just turned 61", đây là lỗi gõ của bản EN (Yumir sinh từ ch106, tính cả thời gian ở dị giới và 2 năm hầm ngục mới được khoảng 5–6 tuổi; vế sau nói "như một đứa trẻ... việc như thế này là đương nhiên"). Bản dịch tạm dùng "vừa mới tròn 6 tuổi". → Giữ "vừa mới tròn 6 tuổi" ("61" trong raw EN là số "6" dính ký hiệu chú thích "1" của bản dịch tiếng Anh, giống trường hợp ở chương 179). (orchestrator)
+- [#181] Thuật ngữ "Higher world" — Tạm dùng: "Thế giới bậc cao". Phương án khác: "Thế giới cấp cao". → Giữ "Thế giới bậc cao" (đồng bộ hoàn toàn với cách dịch ở các chương 100 và 120, không gây cảnh báo QA ở chương cũ). (orchestrator)
+- [#181] Khái niệm "interspace" của Kim YeSeul — Tạm dùng: "không gian thứ nguyên". Phương án khác: "kho chứa không gian" hoặc "á không gian". → Giữ cách dịch tự nhiên theo ngữ cảnh "không gian thứ nguyên" (đây là danh từ chung viết thường trong raw nên không thêm vào glossary.md). (orchestrator)

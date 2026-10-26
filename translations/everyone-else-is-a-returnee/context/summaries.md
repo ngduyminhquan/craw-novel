@@ -1111,6 +1111,12 @@ Nhờ lượng mana vượt trội và vũ khí từ Vanguard tràn ngập các 
 Kang MiRae ngập ngừng tiết lộ ngoài các Thế Giới Bị Bỏ Rơi thì Quân Đội Ánh Sáng Rực Rỡ và Quân Đội Ma Hủy Diệt cũng đang rục rịch chuẩn bị tấn công Trái Đất, và buột miệng nhắc tới "mẹ" sẽ giải thích cặn kẽ mọi chuyện.
 Cảnh kết thúc: Mẹ của IlHan (Kim YeSeul) bất ngờ xuất hiện tại dinh thự với diện mạo trẻ trung như thuở anh còn học mẫu giáo; sau giây phút bàng hoàng trước năng lực bí ẩn của bà, hai mẹ con có màn hội ngộ xúc động và ấm áp.
 
+## 181
+Nhận thấy mẹ Kim YeSeul đã tiệm cận chuyển chức 4, Yu IlHan được bà cho xem mẫu ma pháp trận bí mật mà nhóm 4 người (bà, Kang MiRae, Na YuNa, Yumir) đã rong ruổi suốt 2 năm qua các thế giới để phá hủy do nghi ngờ Quân Đội Ánh Sáng Rực Rỡ và Quân Đội Ma Hủy Diệt liên kết gài bẫy.
+Khi ba thiên thần hiện hình khiến mẹ IlHan kinh ngạc và thích thú chấm Liera làm "biến số hấp dẫn" cạnh tranh vị trí con dâu, Erta phân tích ma pháp trận có tính bảo mật cực cao nhằm qua mặt thiên thần; IlHan quyết định gia nhập đội phá trận, dựa vào Đồng Hồ Cát Vĩnh Hằng đã được nâng cấp phạm vi kết giới.
+Liera và Spiera tiết lộ các thế lực thực thể cấp cao đang nhắm vào Trái Đất vì nơi này sắp chuyển mình thành thế giới bậc cao giàu tài nguyên, dự báo một cuộc đại chiến khốc liệt giữa Quân Đội Thiên Giới, Quân Đội Ma Hủy Diệt, Quân Đội Ánh Sáng Rực Rỡ và cả Khu Vườn Hoàng Hôn.
+Cảnh kết thúc: Giữa lúc IlHan thay giáp chuẩn bị cùng mọi người xuất phát đi rà soát Trái Đất và Liera định triệu tập toàn bộ thiên thần bảo hộ, Erta bất ngờ nhận được lệnh triệu tập từ cấp trên thông báo cô sắp được thăng chức.
+
 
 
 

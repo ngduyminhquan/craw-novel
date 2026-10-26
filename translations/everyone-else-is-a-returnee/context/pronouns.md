@@ -267,6 +267,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kim YeSeul | YuNa | bác | cháu / cô bé | 175 | Kim YeSeul đối thoại với Na YuNa |
 | Kang MiRae | Yu YongHan | cháu | bác | 175 | Kang MiRae chào bố của Yu IlHan |
 | Yu YongHan | Kang MiRae | bác | cháu | 175 | Yu YongHan đối thoại với Kang MiRae |
+| Liera | Kim YeSeul | cháu | bác | 181 | Liera chào hỏi mẹ của Yu IlHan |
 
 
 

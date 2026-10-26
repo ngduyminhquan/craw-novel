@@ -30,7 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
-| Liera | Lieara | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
+| Liera | Lieara; LIera | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
 | Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
@@ -200,6 +200,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 178: Tròn 2 năm ở trong hầm ngục, chế tạo hệ thống drone ma pháp công học hỗ trợ gom quái; kích hoạt mìn và cùng Orochi quét sạch bầy ác ma chuyển chức 4, nâng Bất Khả Họa Quỹ Đạo Thương lên cấp 83; kỹ năng Chí Mạng và Bật Nhảy đồng loạt đạt cấp tối đa (master), đưa IlHan thăng lên cấp 196 sau khi diệt Ác Ma Rung Biến Thái; tiêu hao 1.000 ma thạch chuyển chức 4, 100.000 ma thạch chuyển chức 3, 1.000L máu chủng tộc ma pháp cao cấp cùng hai danh hiệu 'Cực Tốc Giả' và 'Ếch Nhảy Khỏi Đáy Giếng' để tiến hóa Bật Nhảy thành kỹ năng cao cấp độc nhất 'Dịch Chuyển' (Warp), mở ra khả năng bóp méo thời không trở về nhà.
 - Trạng thái tính đến chương 179: Tiêu tốn 350 ma thạch chuyển chức 4 thi triển kỹ năng Dịch Chuyển đưa bản thân và 3 thiên thần từ hầm ngục trở về dinh thự Bittersweet Persona trên Trái Đất an toàn; cơ thể phát triển đạt chiều cao 190 cm nhờ tế bào nghìn năm tiến hóa qua các lần thăng cấp; cạo râu cắt tóc gọn gàng và sử dụng Đại Thùng hòa cùng máu rồng Hơi Thở làm bồn tắm độc quyền để hấp thu dưỡng chất và cộng hưởng mana; đón Yumir và Kang MiRae trở về báo tin Đại Tai Biến lần 3 sắp diễn ra.
 - Trạng thái tính đến chương 180: Chế tạo vòng đội đầu Sử Thi phòng hộ 2 đòn tấn công của thực thể cấp cao tặng Na YuNa; nắm bắt thông tin Trái Đất chuẩn bị bùng nổ Đại Tai Biến lần 3 sau 1–3 tháng; hội ngộ mẹ Kim YeSeul tại dinh thự Bittersweet Persona.
+- Trạng thái tính đến chương 181: Khả năng vận dụng Đồng Hồ Cát Vĩnh Hằng được nâng cấp (giảm thời gian trễ, tăng thời lượng và mở rộng phạm vi kết giới bao trùm toàn bộ khu vực); gia nhập đội phá hủy ma pháp trận bí mật; chuẩn bị tâm lý đón đầu cuộc chiến giữa các phe thực thể cấp cao khi Trái Đất sắp trở thành thế giới bậc cao.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -224,6 +225,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 104: Trở về an toàn từ tiền tuyến Bức Tường Hỗn Loạn, lén vào phòng ngủ của Yu IlHan tại chung cư Gangnam và nằm ngủ say sưa trên giường anh.
 - Trạng thái tính đến chương 105: Quét sạch một bộ phận Quân Đội Ma Hủy Diệt bên trong Bức Tường Hỗn Loạn; thoát chết trong gang tấc nhờ đón nhận phước lành của Thần Tình Yêu biến thanh kiếm tồi tàn IlHan rèn cho ngày trước thành Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước (phẩm cấp Sử Thi); mắt đổi sang sắc đỏ hồng ngọc; chiến sự vừa tạm dứt liền bay thẳng về Trái Đất nằm ngủ trên giường IlHan và chính thức đoàn tụ cùng anh.
 - Trạng thái tính đến chương 136: Lần theo dấu vết kẻ phản bội liên hệ với hoàng đế Kadra đang tiến về cánh cổng không gian, trao nụ hôn má khích lệ cho Yu IlHan rồi bay đi thanh trừng kẻ phản nghịch.
+- Trạng thái tính đến chương 181: Gặp gỡ mẹ của Yu IlHan và xưng nhận anh là "IlHan của cháu"; giải thích cho IlHan về động cơ các thế lực thực thể cấp cao dòm ngó Trái Đất vì nơi này sắp chuyển mình thành thế giới bậc cao.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -241,6 +243,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 84: Đồng hành cùng IlHan tại Thế Giới Bị Bỏ Rơi Daréu; bị hạn chế ma pháp và thể chất; hỗ trợ IlHan rèn luyện và thuần thục kỹ năng Thiên Thần Chi Viện; suýt lỡ miệng để lộ tuổi thật trước lời khen ngợi của IlHan và tức tối giật tóc anh.
 - Trạng thái tính đến chương 85: Đồng hành hỗ trợ IlHan suốt một tháng săn rồng tại Daréu; chứng kiến sự phát triển vượt bậc cùng bản tính chiến đấu lạnh lùng phi nhân tính của anh, vừa mừng rỡ vừa đau lòng cho vết thương tâm lý sau 1000 năm cô độc của IlHan, thầm ước người ở bên cạnh anh năm xưa là mình thay vì Lita.
 - Trạng thái tính đến chương 94: Đồng hành cùng IlHan trong kết giới Đồng Hồ Cát Vĩnh Hằng; bộc lộ tâm lý ghen tị trẻ con và ấm ức khi tưởng IlHan giấu mình làm quà tặng cho tàn niệm Reta Kar'iha; ngẩn ngơ trước vẻ ngầu của IlHan khi múa vũ điệu kiếm giải phẫu hơn 900 con rồng; sững sờ trước sự ra đời của tạo tác Aegis phẩm cấp Truyền Thuyết và ví nó ngang hàng với Thiên Tùng Vân Kiếm; tự hỏi liệu mai này khi có khả năng trở thành thực thể cấp cao, IlHan có đến bên Thiên giới cùng cô hay không.
+- Trạng thái tính đến chương 181: Phân tích ma pháp trận bí mật sử dụng ngôn ngữ Thiên giới bị bẻ cong có độ bảo mật cao che giấu thiên thần; nhận được lệnh triệu tập chuẩn bị thăng chức.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
@@ -276,6 +279,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 151: Cùng chồng từ chối mọi sự tiếp cận của người ngoài; thể hiện thực lực kinh hồn bạt vía khiến những kẻ mưu toan đột nhập dùng vũ lực phải bỏ chạy thục mạng sau khi nếm trải cảm giác suýt chết.
 - Trạng thái tính đến chương 175: Trông trẻ trung như phụ nữ dưới 30 tuổi; sở hữu năng lực ma pháp xuất chúng, có thể giăng kết giới ngăn chặn sự giám sát của các thực thể cấp cao và dùng kho chứa không gian xé rách không gian cất giữ đồ; phát hiện và phong ấn vô hiệu hóa một ma pháp trận bí mật của Quân Đội Ánh Sáng Rực Rỡ tại dị giới từng kết nối; lập tổ đội cùng Kang MiRae, Na YuNa và Yumir đi các thế giới truy tìm và phá hủy các ma pháp trận tương tự; rất thích Kang MiRae và nhiệt tình chấm cô làm con dâu.
 - Trạng thái tính đến chương 180: Xuất hiện tại dinh thự Bittersweet Persona với diện mạo trẻ trung như thuở Yu IlHan còn học mẫu giáo, trông ngang ngửa tuổi Kang MiRae; đọc vị suy nghĩ của IlHan dễ dàng và ôm chầm lấy con trai trong cuộc hội ngộ ấm áp.
+- Trạng thái tính đến chương 181: Đạt cấp độ xấp xỉ chuyển chức 4; mở không gian thứ nguyên lấy ra mẫu ma pháp trận bí mật đã bị vô hiệu hóa; kinh ngạc trước ba thiên thần và chấm Liera làm "biến số quyến rũ" cạnh tranh vị trí con dâu.
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.

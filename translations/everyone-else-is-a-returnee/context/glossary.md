@@ -63,6 +63,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Smithing | Blacksmithing | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
 | Lower existence |  | Thực thể cấp thấp | chủng tộc | 7 | Sinh linh thông thường chưa vượt ngưỡng năng lượng |
+| Higher world |  | Thế giới bậc cao | khác | 100 | Thế giới nơi các thực thể cấp cao cư ngụ (vượt qua Đại Tai Biến lần 5) |
 | Returnee |  | Người Trở Về | khác | 5 | Nhân loại Trái Đất trở về sau 10 năm thích ứng mana |
 | Dropout |  | Người Bị Bỏ Lại | khác | 1 | Cách gọi người không được chuyển sinh (Yu IlHan) |
 | Dropout bonus | Rejector bonus | Thưởng cho người bị bỏ lại | hệ thống | 1 | Phần thưởng đền bù của Thượng Đế cho IlHan |
