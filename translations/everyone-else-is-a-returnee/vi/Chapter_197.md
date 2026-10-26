@@ -64,7 +64,7 @@ Thấy Yumir bỗng khựng lại, đứa bé ngơ ngác nhìn cậu với vẻ 
 
 Dĩ nhiên, 'mạnh nhất' ở đây thậm chí còn chưa chạm mốc cấp 20, nhưng nếu xét đến việc chúng chỉ bám theo Yumir và ăn những gì cậu đưa (dù chúng cũng phải chịu khổ sở không ít), thì đây quả là một tốc độ tăng trưởng điên rồ.
 
-"Nếu các cậu mạnh hơn nữa, ta sẽ nhận các cậu làm thuộc hạ."
+"Nếu mấy đứa mạnh hơn nữa, ta sẽ nhận mấy đứa làm thuộc hạ."
 
 "Dạ vâng ạ!"
 
@@ -220,7 +220,7 @@ Chỉ những đứa trẻ xuất chúng nhất mới có thể sống sót cho 
 
 "Đi theo anh hùng nào!"
 
-1 năm trôi qua. Đội quân đã tăng lên tới khoảng 5.800 người, và những đứa có tốc độ tăng trưởng nhanh nhất trông đã như tầm 12 tuổi. Một nửa trong số chúng đã đạt tới chuyển chức 2, còn bốn đứa đầu tiên trở thành thuộc hạ của Yumir đều đang ngấp nghé quanh mức cấp 70. Tốc độ trưởng thành của chúng thực sự điên rồ đến mức ấy.
+Một năm trôi qua. Đội quân đã tăng lên tới khoảng 5.800 người, và những đứa có tốc độ tăng trưởng nhanh nhất trông đã như tầm 12 tuổi. Một nửa trong số chúng đã đạt tới chuyển chức 2, còn bốn đứa đầu tiên trở thành thuộc hạ của Yumir đều đang ngấp nghé quanh mức cấp 70. Tốc độ trưởng thành của chúng thực sự điên rồ đến mức ấy.
 
 Còn về bản thân Yumir.
 

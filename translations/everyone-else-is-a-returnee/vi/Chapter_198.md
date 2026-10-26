@@ -106,7 +106,7 @@ Trong khi đó, hai trong số những người mà Kang MiRae nghĩ tới hiệ
 
 "Cầu hôn Thánh nữ đại nhân sao?"
 
-"Thánh nữ đại nhân cũng đã hoàn toàn trở thành công dân của thế giới chúng ta. Bệ hạ Hoàng đế không muốn trì hoãn việc này thêm nữa. Vì tương lai của hai đế quốc..."
+"Thánh nữ đại nhân cũng đã hoàn toàn trở thành công dân của thế giới chúng ta. Hoàng đế Bệ hạ không muốn trì hoãn việc này thêm nữa. Vì tương lai của hai đế quốc..."
 
 "Em ghét lão già mập đó lắm~!"
 
@@ -114,7 +114,7 @@ Trong khi đó, hai trong số những người mà Kang MiRae nghĩ tới hiệ
 
 …rơi vào một tình huống vô cùng nan giải.
 
-"Sao cô dám sỉ nhục hoàng đế của đại đế quốc, Bệ hạ Li Catriana cơ chứ!"
+"Sao cô dám sỉ nhục hoàng đế của đại đế quốc, Hoàng đế Bệ hạ Li Catriana cơ chứ!"
 
 "Lêu lêu!"
 
@@ -224,7 +224,7 @@ Na YuNa dừng lại ở đó rồi thở dài.
 
 "Phù."
 
-Sau một tiếng thở dài khẽ, cô dùng gót giày đá thẳng vào cẳng chân Kang HaJin. Đòn đá được cường hóa bằng thánh lực ngày một lớn mạnh của cô đủ sức khiến một thánh kỵ sĩ cũng phải khuỵu gối.
+Sau một tiếng thở dài khẽ, cô dùng gót giày đá thẳng vào cẳng chân Kang HaJin. Đòn đá được cường hóa bằng thánh lực ngày một lớn mạnh của cô đủ sức khiến một Thánh Kỵ Sĩ cũng phải khuỵu gối.
 
 "Khặc!"
 

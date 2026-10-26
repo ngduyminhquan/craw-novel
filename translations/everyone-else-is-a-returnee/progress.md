@@ -200,9 +200,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | reviewed |  |
 | 194 |  | Chapter_194 - I Create – 4.txt | I Create – 4 | reviewed |  |
 | 195 |  | Chapter_195 - I Create – 5.txt | I Create – 5 | reviewed |  |
-| 196 |  | Chapter_196 - I Create – 6.txt | I Create – 6 | done |  |
-| 197 |  | Chapter_197 - I Create – 7.txt | I Create – 7 | done |  |
-| 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | done |  |
+| 196 |  | Chapter_196 - I Create – 6.txt | I Create – 6 | reviewed |  |
+| 197 |  | Chapter_197 - I Create – 7.txt | I Create – 7 | reviewed |  |
+| 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | reviewed |  |
 | 199 |  | Chapter_199 - If You See Me – 1.txt | If You See Me – 1 | todo |  |
 | 200 |  | Chapter_200 - If You See Me – 2.txt | If You See Me – 2 | todo |  |
 | 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | todo |  |
@@ -853,3 +853,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#193] Đoạn 101 raw thiếu dấu mở ngoặc vuông '[' ở đầu khối mô tả tạo tác dù có dấu đóng ']' ở cuối — Tạm chọn: bổ sung '[' ở đầu đoạn cho chuẩn định dạng bảng thông số vật phẩm (khiến QA báo lệch số đoạn '[' raw 32 vs dịch 33). → Bổ sung dấu '[' ở đầu đoạn 101 để cân xứng với dấu ']' ở cuối đoạn theo đúng định dạng bảng thông số vật phẩm. (orchestrator)
 - [#198] Thuật ngữ "Electric Shield" (ma pháp bảo hộ hệ lôi của Kang MiRae) — Tạm dùng: "Lôi Khiên". Phương án khác: "Khiên Sấm Sét", "Khiên Điện". → Chốt dịch là "Lôi Khiên" (Hán Việt ngắn gọn theo rules.md, đồng bộ với Lôi Búa, Lôi Thần). (orchestrator)
 - [#198] Danh xưng "Her Holiness" / "Pope" (người đứng đầu Giáo Hội Leytna tại Thánh đế quốc Elforce) — Tạm dùng: "Đức Giáo Hoàng" / "Giáo hoàng". Phương án khác: "Đức Thánh Mẫu", "Đức Giáo Chủ". → Dịch cụm "Her Holiness" trong lời thoại là "Đức Giáo Hoàng"; loại "Pope" khỏi glossary.md vì là danh từ chung và không xuất hiện trong raw chương 198. (orchestrator)
+- [#198] Na YuNa xưng hô với các giáo sĩ Elforce → Giữ nguyên Na YuNa xưng "em" theo nét tính cách nhí nhảnh (aegyo) đặc trưng của nhân vật và thống nhất với chương 169, tạo sự tương phản hài hước với uy quyền tuyệt đối của Thánh nữ. (orchestrator)

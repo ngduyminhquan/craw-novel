@@ -148,7 +148,7 @@ May mắn thay, Bách Nhãn vẫn sẽ duy trì hoạt động cho đến khi qu
 
 Dù không nhanh bằng những cú tông của pháo đài, một số lượng quái vật vô lý vẫn đang bỏ mạng với một tốc độ hoang đường. Điều này lại càng đáng kinh ngạc hơn nữa khi phần lớn trong số chúng đều là thực thể chuyển chức 3 giai đoạn cuối hoặc chuyển chức 4 sơ cấp.
 
-"Tốt lắm, ngay cả lũ quái vật bay nhanh nhất cũng không né được, vậy tôi có thể kết luận rằng thứ này sẽ hữu dụng đối với mọi thực thể bậc thấp."
+"Tốt lắm, ngay cả lũ quái vật bay nhanh nhất cũng không né được, vậy tôi có thể kết luận rằng thứ này sẽ hữu dụng đối với mọi thực thể cấp thấp."
 
 [Tôi nghĩ thứ này sẽ có tác dụng với cả chuyển chức 5 nữa đấy....?]
 

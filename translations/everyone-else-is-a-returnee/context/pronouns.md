@@ -57,6 +57,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Emperor of Kadra | ông ta / hoàng đế / hoàng đế Kadra | 134 | Hoàng đế của Đế quốc Kadra |
 | Layutinu | gã / Layutinu / con sói | 139 | Chiến binh Lang tộc bảo vệ cổng tại New York |
 | Irma An Ill'ta | cô / Hoàng nữ / Irma An Ill'ta | 158 | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia |
+| Irma An Ill'ta | cô / Nữ hoàng / Irma An Ill'ta | 198 | Nữ hoàng Đại Đế quốc Palladia |
 | Dmirel | tên thiên thần sa ngã / Dmirel / hắn | 184 | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Tibera | Tibera / thiên thần Tibera | 190 | Thiên thần cấp cao chuyển chức lần 6 |
 
