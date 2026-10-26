@@ -1,4 +1,4 @@
-# Chương 168: Ta Là Thợ Đào 1 và 2
+# Chương 168: Tôi Là Thợ Đào 1 và 2
 
 "Cái quái gì thế kia!"
 

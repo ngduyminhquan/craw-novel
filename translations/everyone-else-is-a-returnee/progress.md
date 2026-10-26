@@ -820,3 +820,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#173] Thuật ngữ cây "Baobab" (Baobab tree) IlHan tự đặt cho loài cây khổng lồ ở thế giới địa ngục — Tạm chọn: dịch là "cây Baobab" và thêm vào glossary.md (loại khác). → Đồng ý: dịch Baobab / Baobab tree là cây Baobab trong glossary.md. (orchestrator)
 - [#174] Tiêu đề arc 'Everyone Else Is a Guardian' (đối ứng tên truyện Everyone Else Is A Returnee) → Đồng ý: dịch là Mọi Người Đều Là Hộ Vệ. (orchestrator)
 - [#174] Đoạn 84 chương 174, Kang MiRae hỏi Yumir về Yu IlHan → Đổi Chú ấy không về được sao em? thành Anh ấy không về được sao em? cho nhất quán với đoạn 88. (orchestrator)
+- [#168-169] Tiêu đề chương I am the Digger 1-4 → Đổi tiêu đề chương 168 và 169 từ 'Ta Là Thợ Đào ...' thành 'Tôi Là Thợ Đào 1 và 2' / 'Tôi Là Thợ Đào 3 và 4' cho đồng bộ với các tiêu đề ngôi thứ nhất của Yu IlHan ('Tôi ...') (orchestrator)

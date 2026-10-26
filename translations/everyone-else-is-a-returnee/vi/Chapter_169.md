@@ -1,4 +1,4 @@
-# Chương 169: Ta Là Thợ Đào 3 và 4
+# Chương 169: Tôi Là Thợ Đào 3 và 4
 
 Breya là một thế giới có số lượng người tôn thờ các vị thần được ghi chép đặc biệt đông đảo, điều đó ảnh hưởng sâu sắc đến nền văn minh của họ đến mức có rất nhiều công nghệ và văn hóa liên quan đến những vị thần ấy. Đồng thời, đây cũng là một thế giới mà thánh lực thuộc về các nam nữ tư tế có thể sánh ngang với quyền lực và tầm ảnh hưởng chính trị.
 
