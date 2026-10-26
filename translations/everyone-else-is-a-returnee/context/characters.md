@@ -323,6 +323,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 67: Nhận ra người thợ rèn tạo ra trang bị cho cửa hàng Vanguard chính là Yu IlHan; liên tục trêu chọc chuyện đó khiến Kang MiRae phát điên.
 - Trạng thái tính đến chương 69: Tham chiến chi viện tại Nhật Bản cùng Clan Lôi Thần; túc trực bên cạnh bảo vệ và liên tục ban bùa lợi thánh lực hỗ trợ cho Kang MiRae thi triển ma pháp lôi điện và Kang HaJin dựng khiên phòng thủ.
 - Trạng thái tính đến chương 75: Thi triển đại chúc phúc tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp cho Yu IlHan.
+- Trạng thái tính đến chương 165: Hứa trả thù lao bằng thánh thạch phẩm cấp cao nhất và ban phước thánh lực để mời IlHan sang thế giới Breya nhưng bất thành do cổng chưa mở; giao việc mở cổng cho Kang HaJin rồi cùng Kang MiRae tháp tùng IlHan và Yumir sang Lanpas.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
@@ -509,3 +510,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Năng nổ, khao khát phát triển và đổi mới ma pháp, có đầu óc giao thương nhạy bén, thân thiện và xem Kang MiRae như bạn bè.
 - Quan hệ: Bạn thân thiết với Kang MiRae; từng bị MiRae gom lượng lớn bình thuốc mana của đế quốc; đặc biệt hứng thú với tạo tác đến từ Trái Đất (trang bị Vanguard của Yu IlHan).
 - Xuất hiện tính đến chương 164: Đề xuất với Kang MiRae ý tưởng biến Trái Đất thành trung tâm giao thương đa giới; tham gia buổi đấu giá Vanguard, thắng dây chuyền răng rồng; tìm cách làm quen với Yu IlHan nhưng bị anh từ chối thẳng thừng; dùng cảm quan ma pháp nhận diện IlHan là kẻ tiêu diệt đám cướp; cùng Na YuNa bị Erica ép phụ việc dọn dẹp hiện trường.
+- Xuất hiện tính đến chương 165: Dùng đặc quyền hoàng nữ lấy các tài liệu ma pháp công học cổ của Vương quốc Ma Pháp Ill'ta trao cho Yu IlHan; thuyết phục thành công IlHan sang Lanpas hỗ trợ thâm nhập và giải mã di tích ma pháp công học cổ bí ẩn.

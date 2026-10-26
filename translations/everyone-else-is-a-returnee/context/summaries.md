@@ -1011,6 +1011,13 @@ Sau khi hoàn tất giao dịch thu về gần 700 ma thạch chuyển chức 4 
 IlHan bay sang Hà Lan, dùng Ẩn Thân lẻn qua cánh cổng bí mật đột nhập lâu đài Tsoner tại thế giới Mishta, dùng kỹ năng Thu Hồi Vật Sở Hữu Từ Xa vét sạch kho báu kim loại quý; trước khi rút lui qua cổng, anh ném trả thủ cấp của tên vua Tsoner khiến toàn quân Tsoner nổi cơn lôi đình tràn sang Trái Đất báo thù.
 Cảnh kết thúc: Sự cố hỗn loạn tại Hà Lan kéo dài 11 tiếng mới lắng xuống; việc Vanguard tịch thu toàn bộ vũ khí và cắt đứt quan hệ khiến liên minh clan tan rã và Hà Lan sụp đổ hoàn toàn, trở thành lời cảnh báo rùng mình khắc sâu trật tự thế giới mới lên tâm khảm toàn nhân loại.
 
+## 165
+Yu IlHan hoàn tất xử lý hậu quả vụ Hà Lan rồi trở về Gangnam; Na YuNa tha thiết nài nỉ anh sang thế giới Breya giúp đỡ với thù lao là thánh thạch phẩm cấp cao nhất cùng lời hứa ban phước thánh lực.
+Đệ nhất Hoàng nữ Irma An Ill'ta chen ngang, trao cho IlHan các tài liệu ma pháp công học cổ của Vương quốc Ma Pháp Ill'ta và tha thiết mời anh sang Lanpas khám phá một di tích ma pháp công học bí ẩn mà người Palladia không thể giải mã.
+Trước màn tranh giành giữa Na YuNa và Irma, IlHan quyết định chọn sang Lanpas trước vì Breya chưa mở cổng (giao lại việc mở cổng Breya cho Kang HaJin); Kang MiRae và Na YuNa quyết định cùng tháp tùng anh và Yumir sang Lanpas.
+IlHan dặn dò nhóm thuộc hạ (Erica và nhóm elf) tranh thủ săn quái tăng cấp ở Daréu hoặc Kiroa trong thời gian anh vắng mặt.
+Cảnh kết thúc: Đoàn người đi xe limousine của gia tộc họ Kang đến cánh cổng tại Gangnam và bước qua, hướng về hoàng cung Đại Đế quốc Palladia đang chờ đón.
+
 
 
 

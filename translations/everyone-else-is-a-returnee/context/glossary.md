@@ -640,3 +640,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Netherlands | The Netherlands | Hà Lan | địa danh | 164 | Quốc gia trên Trái Đất mở cổng sang Mishta liên thủ cướp đồ Vanguard |
 | Mishta |  | Mishta | địa danh | 164 | Dị giới đã trải qua Đại Tai Biến lần thứ 3 |
 | Tsoner | Tsnoer | Tsoner | địa danh | 164 | Quốc gia lính đánh thuê tại thế giới Mishta |
+| Magic kingdom of Ill'ta | magic kingdom of Ill'ta | Vương quốc Ma Pháp Ill'ta | địa danh | 165 | Vương quốc ma pháp cổ đại tại thế giới Lanpas, tiền thân của Đại Đế quốc Palladia |
+| Holy maiden | holy maiden | Thánh nữ | chức nghiệp | 165 | Thân phận tôn giáo của Na YuNa tại thế giới Breya |
