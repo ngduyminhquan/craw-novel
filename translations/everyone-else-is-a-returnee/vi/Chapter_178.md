@@ -12,7 +12,7 @@ Giờ đây, sau khi chạm mốc kỷ niệm 2 năm sống trong cảnh địa 
 
 "Thế này giờ cũng chẳng còn khó khăn gì nữa rồi."
 
-[Có mà mắt ấy!] Liera đem hết tiềm năng trong linh hồn mình ra để vặn lại. Ánh mắt cô cũng đang dán chặt vào cảnh tượng trước mặt.
+[Có mà mắt ấy!] Liera đem hết sức lực từ tận sâu trong linh hồn ra để vặn lại. Ánh mắt cô cũng đang dán chặt vào cảnh tượng trước mặt.
 
 Thịt nát và những giọt máu bắn tung tóe không ngừng, những tiếng thét gào và tiếng khóc rên vang vọng. Nơi đây chính là địa ngục thực sự. Dĩ nhiên, điểm khác biệt duy nhất là kẻ trừng phạt và kẻ chịu phạt đã hoán đổi vị trí cho nhau!
 

@@ -182,9 +182,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | reviewed |  |
 | 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | reviewed |  |
 | 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | reviewed |  |
-| 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | done |  |
-| 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | done |  |
-| 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | done |  |
+| 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | reviewed |  |
+| 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | reviewed |  |
+| 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | reviewed |  |
 | 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | todo |  |
 | 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | todo |  |
 | 183 |  | Chapter_183 - The Path I Walk – 1.txt | The Path I Walk – 1 | todo |  |

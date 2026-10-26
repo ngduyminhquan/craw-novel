@@ -188,7 +188,7 @@ Ban đầu, Yu IlHan từng nghĩ rằng hầm ngục anh đặt chân tới cũ
 
 "Lũ khốn đó lại đang giở trò gì nữa đây? Chẳng phải chúng ta nên hành động ngay lập tức sao?"
 
-"À, không đâu ạ. Bọn em cũng vừa mới giải quyết xong một nơi... Mẹ sẽ giải thích rõ hơn."
+"À, không đâu. Bọn tôi cũng vừa mới giải quyết xong một nơi... Mẹ sẽ giải thích rõ hơn."
 
 "Vậy thì để tôi nghe từ... hả?"
 
@@ -196,7 +196,7 @@ Yu IlHan hỏi lại trước khi kịp nói hết câu.
 
 "Mẹ sao.... chẳng lẽ mẹ cô cũng?"
 
-"À, không. Không phải mẹ em mà là mẹ của..."
+"À, không. Không phải mẹ tôi mà là mẹ của..."
 
 Hai má Kang MiRae lại đỏ bừng lên. Yu IlHan không tài nào hình dung nổi mối liên hệ giữa mẹ mình và Kang MiRae, rồi anh nghiêng đầu khó hiểu khi mẹ anh quả thực xuất hiện ngay tại lối vào dinh thự.
 
@@ -204,7 +204,7 @@ Và rồi, bà mang diện mạo hệt như những ngày anh còn đi học m�
 
 "Rốt cuộc chuyện quái gì đã xảy ra ở đây thế này!?"
 
-"Ngay từ đầu chính mẹ anh là người đã báo cho bọn em biết chuyện này. Suốt hai năm qua bác cũng giúp đỡ bọn em rất nhiều..."
+"Ngay từ đầu chính mẹ anh là người đã báo cho bọn tôi biết chuyện này. Suốt hai năm qua bác cũng giúp đỡ bọn tôi rất nhiều..."
 
 "Mẹ ngầu lắm cơ~!"
 
