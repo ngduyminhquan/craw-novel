@@ -1075,4 +1075,11 @@ Không có lối thoát thông thường, Yu IlHan quyết định tạm dừng 
 Tại Trái Đất, Yumir nhận tin nhắn báo bận của bố nên cùng Kang MiRae, Na YuNa đứng trước cánh cổng kết nối tới Thế Giới Bị Bỏ Rơi đang có nguy cơ bùng nổ với ít nhất năm quái vật chuyển chức lần 4; trong bối cảnh Flemir và Erica đang hỗ trợ ở Daréu, cả nhóm quyết định tự thân vận động.
 Nhờ kỹ năng Ẩn Thân của Yumir đã đạt cấp 97, cậu bé cùng Kang MiRae, Na YuNa và ép Kang HaJin đi theo làm bia đỡ đạn xông thẳng qua cổng tiêu diệt sạch lũ quái vật chuyển chức lần 4, bảo vệ Trái Đất an toàn.
 
+## 175
+Sau hơn một năm Yu IlHan chưa trở về, Kim YeSeul liên lạc hẹn gặp Kang MiRae, Na YuNa và Yumir; bà bộc lộ năng lực ma pháp xuất chúng khi dựng kết giới chặn đứng sự giám sát của thực thể cấp cao và dùng kho chứa không gian lấy ra một ma pháp trận đã chết tìm thấy ở dị giới từng kết nối.
+Kang MiRae nhận diện các ký tự ma pháp ngữ tương tự trên cánh Hiệu Triệu Diệt Vong của Yu IlHan, phán đoán đây là âm mưu của Quân Đội Ánh Sáng Rực Rỡ liên minh cùng Quân Đội Ma Hủy Diệt nhằm nhắm vào người Trái Đất.
+Cả nhóm quyết định không trông cậy vào các thiên thần mà tự lập đội 4 người gồm Kim YeSeul, Kang MiRae, Na YuNa và Yumir (tận dụng kỹ năng Ẩn Thân chuyên về tổ đội của Yumir) đi xuyên qua các thế giới để điều tra và phá hủy các ma pháp trận tương tự, để Kang HaJin ở lại trông coi clan.
+Cảnh kết thúc: Kim YeSeul ôm Yumir và dặn cháu nội bảo vệ bà, trong khi Kang MiRae và Na YuNa thầm quyết tâm phải chăm sóc da kỹ hơn để không bị IlHan chê già hơn cả mẹ anh.
+
+
 

@@ -261,6 +261,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Erica | tôi / em | ngài / chị / cô | 164 | Na YuNa ngoan ngoãn vâng lời Erica |
 | Irma An Ill'ta | YuNa | tôi | cô | 164 | Hoàng nữ Palladia và Na YuNa trò chuyện trong lúc đợi IlHan |
 | YuNa | Irma An Ill'ta | tôi | cô | 164 | Na YuNa và Hoàng nữ Palladia trò chuyện trong lúc đợi IlHan |
+| Kang MiRae | Kim YeSeul | cháu / con | bác / mẹ | 175 | Kang MiRae đến gặp mẹ của Yu IlHan |
+| Kim YeSeul | Kang MiRae | bác | cháu / tiểu thư / cô bé | 175 | Kim YeSeul đối thoại với Kang MiRae |
+| YuNa | Kim YeSeul | cháu / con | bác / mẹ | 175 | Na YuNa đối thoại với Kim YeSeul |
+| Kim YeSeul | YuNa | bác | cháu / cô bé | 175 | Kim YeSeul đối thoại với Na YuNa |
+| Kang MiRae | Yu YongHan | cháu | bác | 175 | Kang MiRae chào bố của Yu IlHan |
+| Yu YongHan | Kang MiRae | bác | cháu | 175 | Yu YongHan đối thoại với Kang MiRae |
 
 
 

@@ -43,6 +43,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - demonic beast — cụm danh từ chung viết thường chỉ ma thú, đã xoá và bác khi dịch/review chương 135 (#135)
 - record — danh từ chung đa nghĩa (ghi chép / kỷ lục), đã bác khi review chương 136–138 (#137)
 - Battle start — câu hiệu lệnh thông thường của trọng tài, không phải thuật ngữ cố định (#146)
+- Interspatial storage — cụm danh từ chung chỉ kho chứa không gian (trong raw viết thường `interspatial storage`), không phải tên kỹ năng hệ thống (#175)
 
 ## Bảng thuật ngữ
 

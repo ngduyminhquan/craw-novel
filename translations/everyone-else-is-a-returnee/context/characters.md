@@ -258,6 +258,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 110: Nhận định hầm ngục đã bị biến dị kết nối với Thế Giới Bị Bỏ Rơi từ 5 tuần trước; kích hoạt mạng lưới Liên Minh Tiền Tuyến cùng chính phủ chuẩn bị đối phó đợt Vỡ Hầm Ngục hơn 3 vạn quái vật; bắn cột lôi quang tín hiệu định vị chiến trường; giữ cái đầu lạnh kiên quyết trước Michael Smithson và chuẩn bị xướng niệm đại ma pháp lôi hệ mạnh nhất theo yêu cầu của IlHan.
 - Trạng thái tính đến chương 120: Dùng các mối quan hệ điều động hàng chục lực lượng quân sự nước ngoài tham gia săn quét quanh Seoul, vét sạch tận gốc bầy Lang tộc thuộc Quân Đội Ma Hủy Diệt; gọi điện trao đổi về chính sách phân phối vũ khí của Vanguard và chuyển lời bố cô muốn gặp IlHan.
 - Trạng thái tính đến chương 159: Gặp Yu IlHan đề xuất biến Vanguard thành trung tâm giao thương đa giới; sau khi nếm trà Fyylita và tráng miệng của IlHan liền đề xuất lập thương hiệu tráng miệng cao cấp Angel Tear; đàm phán với Michael Smithson, Carina Malatesta và các clan Liên Minh Tiền Tuyến siết chặt quy chế kiểm soát người dị giới tại Gangnam dựa trên quyền lực tối cao của trang bị Vanguard.
+- Trạng thái tính đến chương 175: Đến gặp Kim YeSeul và ghi điểm tuyệt đối; nhận diện ký tự ma pháp ngữ trên ma pháp trận giống với cánh Hiệu Triệu Diệt Vong của IlHan; cùng Na YuNa, Yumir và Kim YeSeul lập đội 4 người đi các dị giới điều tra và phá hủy ma pháp trận của Quân Đội Ánh Sáng Rực Rỡ; để anh trai Kang HaJin ở lại trông nom clan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -268,6 +269,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 104: Biết IlHan là chủ tịch Vanguard; thông báo bố IlHan nghỉ việc do công ty phá sản và đồng ý để bố anh sang làm việc quản lý tại Vanguard; từ chối dọn về Gangnam vì tự tin có năng lực chăm sóc gia đình.
 - Trạng thái tính đến chương 143: Trông trẻ trung ra hơn 20 tuổi và có dấu hiệu đã đạt chuyển chức 2; bất ngờ nhưng vui vẻ đón nhận đứa cháu nội Yumir (11 tuổi); khẳng định 10 năm ở Ya-umin không có gì bất thường và nhiệt tình dò hỏi ứng viên con dâu trong số các cô gái đi cùng con trai.
 - Trạng thái tính đến chương 151: Cùng chồng từ chối mọi sự tiếp cận của người ngoài; thể hiện thực lực kinh hồn bạt vía khiến những kẻ mưu toan đột nhập dùng vũ lực phải bỏ chạy thục mạng sau khi nếm trải cảm giác suýt chết.
+- Trạng thái tính đến chương 175: Trông trẻ trung như phụ nữ dưới 30 tuổi; sở hữu năng lực ma pháp xuất chúng, có thể giăng kết giới ngăn chặn sự giám sát của các thực thể cấp cao và dùng kho chứa không gian xé rách không gian cất giữ đồ; phát hiện và phong ấn vô hiệu hóa một ma pháp trận bí mật của Quân Đội Ánh Sáng Rực Rỡ tại dị giới từng kết nối; lập tổ đội cùng Kang MiRae, Na YuNa và Yumir đi các thế giới truy tìm và phá hủy các ma pháp trận tương tự; rất thích Kang MiRae và nhiệt tình chấm cô làm con dâu.
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.
@@ -329,6 +331,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 75: Thi triển đại chúc phúc tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp cho Yu IlHan.
 - Trạng thái tính đến chương 165: Hứa trả thù lao bằng thánh thạch phẩm cấp cao nhất và ban phước thánh lực để mời IlHan sang thế giới Breya nhưng bất thành do cổng chưa mở; giao việc mở cổng cho Kang HaJin rồi cùng Kang MiRae tháp tùng IlHan và Yumir sang Lanpas.
 - Trạng thái tính đến chương 169: Đưa nhóm IlHan đến thánh địa tối cao tại thế giới Breya nhờ IlHan xây dựng lại Đại Đền Thờ của Nữ Thần Sắc Đẹp Leytna; nhận thêm ghi chép của Nữ Thần Leytna khi đền thờ hoàn thành; đến nhà IlHan chơi với Yumir và được IlHan mời ăn trưa sau khi bộc lộ tính cách chân thật.
+- Trạng thái tính đến chương 175: Cùng Kang MiRae và Yumir đến thăm Kim YeSeul; thích thú với tính cách của mẹ IlHan và nhiệt tình xí xớn nhận mẹ nhưng bị bà trêu; tham gia tổ đội 4 người đi các thế giới điều tra ma pháp trận.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
@@ -413,6 +416,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 142: Trở về an toàn qua cánh cổng không gian New York sau 1.000 ngày ở Thế Giới Bị Bỏ Rơi; ngoại hình lớn lên như thiếu niên khôi ngô 11 tuổi; bật khóc nức nở khi được bố IlHan ôm trọn vào lòng; ngơ ngác tiết lộ chênh lệch thời gian 1.000 ngày đối với 10 ngày của Trái Đất.
 - Trạng thái tính đến chương 155: Chiến đấu quả cảm suốt 20 ngày phòng thủ dinh thự và nhờ việc ăn thịt rồng tăng cấp điên cuồng, nhóc đã cán mốc Lv 140; sau trận chiến liền thay đồ ngủ và ngoan ngoãn ngủ say trong vòng tay ấm áp của bố IlHan.
 - Trạng thái tính đến chương 174: Nâng kỹ năng Ẩn Thân lên cấp 97 (ngay sát mốc cấp tối đa); cùng Kang MiRae, Na YuNa và Kang HaJin tiên phong xông qua cánh cổng kết nối Thế Giới Bị Bỏ Rơi tiêu diệt toàn bộ quái vật chuyển chức lần 4 để bảo vệ Trái Đất khi Yu IlHan vắng mặt.
+- Trạng thái tính đến chương 175: Thuần thục kỹ năng Ẩn Thân chuyên về ẩn thân tổ đội; cùng Kang MiRae, Na YuNa đến gặp bà nội Kim YeSeul và làm nũng cực kỳ đáng yêu; nhận nhiệm vụ bảo vệ bà nội và tham gia đội 4 người xuyên qua các thế giới phá hủy ma pháp trận.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

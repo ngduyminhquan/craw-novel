@@ -179,7 +179,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | reviewed |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | reviewed |  |
 | 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | reviewed |  |
-| 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | todo |  |
+| 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | done |  |
 | 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | todo |  |
 | 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | todo |  |
 | 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -821,3 +822,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#174] Tiêu đề arc 'Everyone Else Is a Guardian' (đối ứng tên truyện Everyone Else Is A Returnee) → Đồng ý: dịch là Mọi Người Đều Là Hộ Vệ. (orchestrator)
 - [#174] Đoạn 84 chương 174, Kang MiRae hỏi Yumir về Yu IlHan → Đổi Chú ấy không về được sao em? thành Anh ấy không về được sao em? cho nhất quán với đoạn 88. (orchestrator)
 - [#168-169] Tiêu đề chương I am the Digger 1-4 → Đổi tiêu đề chương 168 và 169 từ 'Ta Là Thợ Đào ...' thành 'Tôi Là Thợ Đào 1 và 2' / 'Tôi Là Thợ Đào 3 và 4' cho đồng bộ với các tiêu đề ngôi thứ nhất của Yu IlHan ('Tôi ...') (orchestrator)
+- [#175] Xưng hô Kang MiRae và Na YuNa gọi Kim YeSeul: raw dùng "Mother" (어머님 eomeonim), bản dịch tạm để cả hai gọi là "mẹ" (xưng "cháu / con") để giữ tình huống hiểu lầm hài hước "chấm con dâu" của Kim YeSeul; xin ý kiến user xác nhận giữ "mẹ" hay đổi thành "bác / bác gái". → Giữ gọi "mẹ" (xưng "cháu / con") như bản dịch và pronouns.md đã ghi, vì câu dẫn trong raw ("due to Kang MiRae calling her 'mother'") lấy chính cách gọi "mẹ" (어머님) làm chi tiết gây cười khi Kim YeSeul tự chấm con dâu. (orchestrator)
