@@ -1043,3 +1043,9 @@ Nhóm Yu IlHan đến Thánh đế quốc Elforce thuộc thế giới Breya và
 Quá trình xây dựng Đại Đền Thờ diễn ra thần tốc chỉ trong 9 ngày; việc tiếp xúc liên tục với thánh lực giúp IlHan đào sâu sự thấu hiểu về bản chất của các vị thần; khi đặt tượng nữ thần vào vị trí trung tâm, toàn bộ nhóm nhận được ghi chép của Nữ Thần Leytna và IlHan được giáo dân tôn sùng như kiến trúc sư vĩ đại.
 Trở về Trái Đất, IlHan nhận thánh thạch cao cấp từ Na YuNa và mời cô ăn trưa cùng Yumir sau khi thấu hiểu tính cách chân thật không giấu giếm của cô.
 Cảnh kết thúc: Một thông báo chiêu mộ lính đánh thuê giải cứu thế giới Phituroa xuất hiện tại Gangnam, mở ra thời đại Lính Đánh Thuê Trái Đất.
+
+## 170
+Yu IlHan vừa nấu chảy 3 tấn kim loại Keshna trong Ngọn Lửa Vĩnh Cửu vừa bàn luận với các thiên thần về làn sóng chi viện cho thế giới Phituroa; nhờ phần thưởng ma thạch cấp 3 và cấp 4 hậu hĩnh từ Phituroa để mua đồ Vanguard và Angel Tear, hơn 5.000 lính đánh thuê từ các thế giới đã ồ ạt kéo đến giải cứu thành công thế giới này.
+Nhận thấy nhu cầu chi viện dị giới tăng vọt, Kang MiRae trao quyền cho hai clan Metal Knights và Magia thành lập Hội Lính Đánh Thuê tại Gangnam nhằm quản lý hoa hồng, phân phối thù lao và mở đường rút lui an toàn.
+Buổi đấu giá trang bị cao cấp lần 2 diễn ra thành công tốt đẹp dưới sự bảo an của Flemir và bầy sói Kiroa; Kang MiRae thấp thỏm nhớ nhung Yu IlHan sau 2 tháng anh bặt vô âm tín kể từ khi để lại vật phẩm đấu giá và gửi gắm Yumir.
+Cảnh kết thúc: Yu IlHan đang một mình quẩy hết mình tung hoành ngang dọc tại một thế giới quái vật ngập tràn, hào hứng hô vang tuyệt kỹ "Giga drill break" trong khi Liera lo lắng nhắc nhở coi chừng bị kiện bản quyền.

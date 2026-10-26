@@ -174,7 +174,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | reviewed |  |
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | reviewed |  |
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | done |  |
-| 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | todo |  |
+| 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | done |  |
 | 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | todo |  |
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | todo |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -811,3 +812,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#167] Tiếng gầm golem trong ngoặc vuông ở chương 167 → Chuẩn hóa theo raw tiếng Anh ([Kuwoooooooh!], [Guwoooooooh!]...) đồng bộ với chương 166 và 168. (orchestrator)
 - [#168] Xưng hô của Kang MiRae với Hoàng nữ Irma ở đoạn 186 → Đổi thành Điện hạ cứ đi đi theo đúng phong thái đối tác bình đẳng trong pronouns.md. (orchestrator)
 - [#169] Thuật ngữ "Great Temple" — Tạm chọn: "Đại Đền Thờ" (khớp với "đền thờ Leytna" ở chương 81). Phương án khác: "Đại Thánh Đường". → Đồng ý: dịch Great Temple là Đại Đền Thờ (khớp với đền thờ Leytna ở chương 81). (orchestrator)
+- [#170] Tên chiêu thức anime "Giga drill break" (tham chiếu Gurren Lagann): giữ nguyên "Giga drill break" theo thông lệ tham chiếu anime (tương tự AT Field) hay Việt hóa? Tạm dùng: giữ nguyên "Giga drill breakkkkkkkkkk!". → Đồng ý: giữ nguyên Giga drill break / Giga Drill Break theo thông lệ tham chiếu anime (tương tự AT Field). (orchestrator)

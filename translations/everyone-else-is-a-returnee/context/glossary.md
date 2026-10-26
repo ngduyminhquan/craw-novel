@@ -658,3 +658,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Kavur | Kavurs | Kavur | khác | 169 | Loại quả hoặc hương liệu đặc sản ở thế giới Breya dùng làm kem |
 | Phituroa |  | Phituroa | địa danh | 169 | Dị giới lâm vào khủng hoảng cần chiêu mộ lính đánh thuê từ Trái Đất |
 | Earth Mercenary |  | Lính Đánh Thuê Trái Đất | khác | 169 | Khái niệm chỉ các dị năng giả Trái Đất nhận lời chiêu mộ sang giải cứu các thế giới khác |
+| Gangnam Trade Center |  | Trung Tâm Giao Dịch Gangnam | địa danh | 170 | Khu trung tâm thương mại và giao dịch giữa Trái Đất và các dị giới đặt tại Gangnam |
+| mercenary guild | Mercenary guild; Mercenary Guild | Hội Lính Đánh Thuê | tổ chức | 170 | Tổ chức quản lý lính đánh thuê, tiền hoa hồng và thù lao theo đóng góp do Metal Knights và Magia thành lập tại Gangnam |
+| Giga Drill Break | giga drill break | Giga Drill Break | khác | 170 | Được phép giữ nguyên: Chiêu thức biểu tượng trong anime Tengen Toppa Gurren Lagann mà Yu IlHan hô vang khi dùng Tua Vít Tử Thần |
