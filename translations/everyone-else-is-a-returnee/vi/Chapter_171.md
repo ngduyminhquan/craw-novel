@@ -1,4 +1,4 @@
-# Chương 171: Hell Picnic, Alone – 2
+# Chương 171: Buổi Dã Ngoại Địa Ngục, Đơn Độc – 2
 
 Yu IlHan kết luận rằng anh chẳng cần phải bận tâm trông nom Trái Đất nữa sau khi thấy rất nhiều thế giới, bao gồm cả Phituroa, đều đang vận hành êm đẹp.
 
