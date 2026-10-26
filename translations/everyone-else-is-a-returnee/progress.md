@@ -161,7 +161,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | reviewed |  |
 | 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | reviewed |  |
 | 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | reviewed |  |
-| 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | todo |  |
+| 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | done |  |
 | 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | todo |  |
 | 159 |  | Chapter_159 - If I Open It, It’s The Gate To Hell VI.txt | If I Open It, It’s The Gate To Hell VI | todo |  |
 | 160 |  | Chapter_160 - I am the Centre of the World I.txt | I am the Centre of the World I | todo |  |

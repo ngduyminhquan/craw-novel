@@ -629,3 +629,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Mister Unique |  | Quý ngài Độc Nhất | khác | 153 | Biệt danh Michael Smithson dùng để gọi Yu IlHan (người bán trang bị phẩm cấp Độc Nhất của Vanguard) |
 | Twin-headed snake |  | Rắn Hai Đầu | quái vật | 154 | Quái vật rắn chuyển chức 3 Lv 108 |
 | Ultra Monkey |  | Siêu Khỉ | quái vật | 154 | Quái vật khỉ chuyển chức 3 Lv 104 |
+| Perverted Vibration Demon |  | Ác Ma Rung Biến Thái | quái vật | 157 | Biệt danh Liera đặt cho con quái vật xúc tu rung chấn sinh ra từ cổng |
+| Thunderhammer | thunderhammer; thunder hammer | Lôi Búa | vật phẩm | 157 | Tên gọi tắt của Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt |

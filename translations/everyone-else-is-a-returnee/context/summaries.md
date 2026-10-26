@@ -964,6 +964,13 @@ Giao Yumir và dinh thự cho Erta trông nom, IlHan dùng cánh Hiệu Triệu 
 Sau 2 giờ càn quét quái vật, một vòng xoáy mana mới lại ngưng tụ; IlHan tự tin dồn Ngọn Lửa Vĩnh Cửu, Hỏa Tím, Liệt Hỏa vào Bất Khả Họa Quỹ Đạo Thương đâm xuyên vòng xoáy toan phá hủy nó một mình như ở dinh thự nhưng bất thành khiến vòng xoáy phát nổ.
 Cảnh kết thúc: Nhờ Aegis chắn trọn vụ nổ, IlHan bình an vô sự nhưng nhận ra không nhận được điểm kinh nghiệm phá hủy vòng xoáy, để rồi sững sờ đối diện trước một cánh cổng không gian mở ra khung cảnh rợn người bên trong.
 
+## 157
+Trước cánh cổng kỳ dị nối liền thế giới rợn người đầy cây baobab và mana đặc quánh, Yu IlHan quyết định không bước vào mà ở lại canh gác suốt 24 giờ cho đến khi cổng khép lại; hàng đàn quái vật bị thu hút kéo đến giúp anh vừa luyện Đại Đoạn Vũ Trụ Thương vừa cày cấp lên Lv 160 dù vẫn không thấy bóng dáng quái vật chuyển chức 4 nào.
+Khi cánh cổng bắt đầu co lại sau 24 giờ, nó bất ngờ nén thành điểm kỳ dị rồi phát nổ dữ dội, tạo ra hiện tượng tương tự Hiện Tượng Tràn nuốt chửng toàn bộ xác quái vật xung quanh và khai sinh một quái vật chuyển chức 4 dạng khổng lồ hai chân nhiều xúc tu (được Liera gọi đùa là 'Ác Ma Rung Biến Thái' vì giống quái trong anime biến thái IlHan lưu trên máy tính).
+Con quái vật sở hữu năng lực rung chấn cực hạn làm lệch toàn bộ mưa thương xương và bắn sóng xung kích; IlHan dùng cánh đối chưởng xung kích mana, rồi lợi dụng ngọn Bát Vĩ Long Thương đang cắm trong người nó để vung Lôi Búa kích hoạt hiệu ứng cộng hưởng xương rồng, khiến chính độ rung tự vệ của nó phản phệ và tự bộc phát nổ tung cơ thể từ bên trong.
+Cảnh kết thúc: Thu về lượng điểm kinh nghiệm bí ẩn bị che dấu chấm hỏi cùng thi thể quái vật, IlHan kiệt quệ tinh thần trước trò trêu chọc của Liera và Spiera rồi cùng hai thiên thần chuẩn bị trở về nhà.
+
+
 
 
 
