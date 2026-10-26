@@ -48,6 +48,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - Spatial transfer magic — cụm danh từ chung chỉ ma pháp dịch chuyển không gian (trong raw viết thường `spatial transfer magic`), không phải tên kỹ năng hệ thống (#179)
 - Flaming Monarch — cụm diễn giải 1 lần nghĩa của chức nghiệp Burning Lord trong độc thoại, không phải tên chức nghiệp hệ thống (#185)
 - 3rd Great Cataclysm — đã có mục gốc Great Cataclysm (Đại Tai Biến) trong bảng; các chương 50, 98, 164 dịch linh hoạt "lần thứ ba / lần thứ 3 / lần 3" (#187)
+- Pope — danh từ chung không xuất hiện trong raw chương 198 (raw dùng Her Holiness), không phải tên chức nghiệp hệ thống (#198)
 
 ## Bảng thuật ngữ
 
@@ -685,3 +686,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Destruction mirror | destruction mirror | Gương Hủy Diệt | vật phẩm | 193 | Tên gọi tắt của Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin |
 | Hundred Eyes |  | Bách Nhãn | vật phẩm | 194 | Hệ thống 100 chiếc Gương Hủy Diệt kết hợp 20 thùng chứa ma thuật phẩm cấp Hỗn Loạn của Yu IlHan |
 | Destroyer's Flying Fortress | Destroyer's Flying fortress | Pháo Đài Bay Kẻ Hủy Diệt | vật phẩm | 194 | Tạo tác phẩm cấp Thần do Yu IlHan hoàn thành từ dinh thự Bittersweet Persona |
+| Electric Shield |  | Lôi Khiên | kỹ năng | 198 | Kỹ năng ma pháp bảo vệ lôi hệ của Kang MiRae |
+| Li Catriana |  | Li Catriana | địa danh | 198 | Đế quốc đối địch với Thánh đế quốc Elforce tại thế giới Breya, do Hoàng đế Li Catriana cai trị |

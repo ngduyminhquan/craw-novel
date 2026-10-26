@@ -202,7 +202,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 195 |  | Chapter_195 - I Create – 5.txt | I Create – 5 | reviewed |  |
 | 196 |  | Chapter_196 - I Create – 6.txt | I Create – 6 | done |  |
 | 197 |  | Chapter_197 - I Create – 7.txt | I Create – 7 | done |  |
-| 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | todo |  |
+| 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | done |  |
 | 199 |  | Chapter_199 - If You See Me – 1.txt | If You See Me – 1 | todo |  |
 | 200 |  | Chapter_200 - If You See Me – 2.txt | If You See Me – 2 | todo |  |
 | 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | todo |  |
@@ -851,3 +851,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#193] Tên tạo tác "Miraculously apocalyptic and unbelievably curseful Destruction mirror" và tên rút gọn "Destruction mirror" — Tạm chọn: "Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin" và "Gương Hủy Diệt". → Chốt dịch tên đầy đủ là "Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin" và tên gọi tắt là "Gương Hủy Diệt". (orchestrator)
 - [#193] Dịch "beam" / "beam weapon" trong hội thoại và tiếng hô "BEEEEEEEEEEEEEEEAAAAAAAAAM!" của Yu IlHan — Tạm chọn: "chùm tia" / "vũ khí chùm tia" và tiếng hô "CHÙM TIAAAAAAAAAAAAAAA!". → Chốt dịch là "chùm tia" / "vũ khí chùm tia" và tiếng hô "CHÙM TIAAAAAAAAAAAAAAA!" tự nhiên, giữ chất hài hước của Yu IlHan. (orchestrator)
 - [#193] Đoạn 101 raw thiếu dấu mở ngoặc vuông '[' ở đầu khối mô tả tạo tác dù có dấu đóng ']' ở cuối — Tạm chọn: bổ sung '[' ở đầu đoạn cho chuẩn định dạng bảng thông số vật phẩm (khiến QA báo lệch số đoạn '[' raw 32 vs dịch 33). → Bổ sung dấu '[' ở đầu đoạn 101 để cân xứng với dấu ']' ở cuối đoạn theo đúng định dạng bảng thông số vật phẩm. (orchestrator)
+- [#198] Thuật ngữ "Electric Shield" (ma pháp bảo hộ hệ lôi của Kang MiRae) — Tạm dùng: "Lôi Khiên". Phương án khác: "Khiên Sấm Sét", "Khiên Điện". → Chốt dịch là "Lôi Khiên" (Hán Việt ngắn gọn theo rules.md, đồng bộ với Lôi Búa, Lôi Thần). (orchestrator)
+- [#198] Danh xưng "Her Holiness" / "Pope" (người đứng đầu Giáo Hội Leytna tại Thánh đế quốc Elforce) — Tạm dùng: "Đức Giáo Hoàng" / "Giáo hoàng". Phương án khác: "Đức Thánh Mẫu", "Đức Giáo Chủ". → Dịch cụm "Her Holiness" trong lời thoại là "Đức Giáo Hoàng"; loại "Pope" khỏi glossary.md vì là danh từ chung và không xuất hiện trong raw chương 198. (orchestrator)

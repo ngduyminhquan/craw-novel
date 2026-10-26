@@ -282,6 +282,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 159: Gặp Yu IlHan đề xuất biến Vanguard thành trung tâm giao thương đa giới; sau khi nếm trà Fyylita và tráng miệng của IlHan liền đề xuất lập thương hiệu tráng miệng cao cấp Angel Tear; đàm phán với Michael Smithson, Carina Malatesta và các clan Liên Minh Tiền Tuyến siết chặt quy chế kiểm soát người dị giới tại Gangnam dựa trên quyền lực tối cao của trang bị Vanguard.
 - Trạng thái tính đến chương 175: Đến gặp Kim YeSeul và ghi điểm tuyệt đối; nhận diện ký tự ma pháp ngữ trên ma pháp trận giống với cánh Hiệu Triệu Diệt Vong của IlHan; cùng Na YuNa, Yumir và Kim YeSeul lập đội 4 người đi các dị giới điều tra và phá hủy ma pháp trận của Quân Đội Ánh Sáng Rực Rỡ; để anh trai Kang HaJin ở lại trông nom clan.
 - Trạng thái tính đến chương 180: Tiếp tục phát triển vượt bậc, quản lý giao thương dị giới cho Vanguard; ngượng ngùng khi lỡ miệng gọi "mẹ" (mẹ của IlHan) trước mặt anh; thông báo Trái Đất chuẩn bị bùng nổ Đại Tai Biến lần 3 trong vòng 1–3 tháng tới.
+- Trạng thái tính đến chương 198: Bị kẹt lại Lanpas sau Đại Tai Biến lần 3, trở thành cố vấn đáng tin cậy nhất của Nữ hoàng Irma An Ill'ta; trong vòng 1 năm đã chinh phục 3 tàn tích ma pháp cổ và nghiên cứu ma pháp kết nối hai thế giới; thẳng thắn thừa nhận 365 ngày lúc nào cũng nhớ Yu IlHan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -337,6 +338,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 67: Cùng Na YuNa đến cửa hàng Vanguard mua giáp vai và ủng; thừa nhận bản thân bất lực trước năng lực và các mối quan hệ khó tin của IlHan; giữ chức phó clan và cùng em gái Kang MiRae chuẩn bị chiêu mộ thành viên cho 'Clan Lôi Thần'.
 - Trạng thái tính đến chương 69: Cùng Kang MiRae và Na YuNa dẫn dắt đội hình 10 người của Clan Lôi Thần tham chiến chi viện tại Nhật Bản; đóng vai trò thánh kỵ sĩ cầm khiên lập trận hình phòng ngự kiên cố che chắn cho Kang MiRae và Na YuNa thi triển ma pháp tiêu diệt bầy quái vật orc.
 - Trạng thái tính đến chương 75: Cùng các thành viên clan chiến đấu ở tiền tuyến chống đỡ bầy quái vật dị biến và rừng dây gai của Orochi để che chắn cho MiRae và YuNa.
+- Trạng thái tính đến chương 198: Làm kỵ sĩ hộ vệ cho Na YuNa tại Thánh đế quốc Elforce thuộc Breya; lo lắng cho cục diện chiến tranh và chuyện tình cảm của em gái Kang MiRae; bị Na YuNa đá vào cẳng chân vì trêu chọc chuyện tình cảm giữa cô và IlHan.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -361,6 +363,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 183: Cùng Yu IlHan đi làm nhiệm vụ phá ma pháp trận; dùng quyền trượng và thánh lực Nữ Thần Leytna định vị thành công ma pháp trận; bị IlHan bế bay với vận tốc kinh hoàng khiến cô cắn phải lưỡi và nôn mửa; ban bùa lợi tăng 30% sức mạnh giúp IlHan phá ma pháp trận; trên đường bay về sà vào lòng IlHan và thẳng thắn bày tỏ cảm tình chân thành với anh.
 - Trạng thái tính đến chương 186: Cùng Yu IlHan quét sạch ma pháp trận ở hàng chục thế giới; tò mò về bí quyết bay lượn và quá khứ của IlHan; trêu chọc Liera là "bà cô"; thích thú khi IlHan vô tình khen ngợi mùi hương cơ thể tự nhiên thơm ngát của mình.
 - Trạng thái tính đến chương 188: Bị lời nguyền trục xuất sang Breya do Đại Tai Biến lần 3 kích hoạt; trước khi biến mất đã dặn IlHan sang tìm mình và táo bạo cướp nụ hôn đầu của anh để khẳng định tình cảm.
+- Trạng thái tính đến chương 198: Tại Thánh đế quốc Elforce ở Breya, nắm giữ uy quyền tôn giáo to lớn được các giáo sĩ tôn sùng; thẳng thừng cự tuyệt lời cầu hôn của Hoàng đế Li Catriana khiến chiến tranh giữa hai đế quốc nổ ra; tự nhận là "người phụ nữ đã có chủ" dành trọn tình cảm cho Yu IlHan; đá cẳng chân kỵ sĩ hộ vệ Kang HaJin khi bị trêu chọc.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
@@ -555,3 +558,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 164: Đề xuất với Kang MiRae ý tưởng biến Trái Đất thành trung tâm giao thương đa giới; tham gia buổi đấu giá Vanguard, thắng dây chuyền răng rồng; tìm cách làm quen với Yu IlHan nhưng bị anh từ chối thẳng thừng; dùng cảm quan ma pháp nhận diện IlHan là kẻ tiêu diệt đám cướp; cùng Na YuNa bị Erica ép phụ việc dọn dẹp hiện trường.
 - Xuất hiện tính đến chương 165: Dùng đặc quyền hoàng nữ lấy các tài liệu ma pháp công học cổ của Vương quốc Ma Pháp Ill'ta trao cho Yu IlHan; thuyết phục thành công IlHan sang Lanpas hỗ trợ thâm nhập và giải mã di tích ma pháp công học cổ bí ẩn.
 - Xuất hiện tính đến chương 166: Đón nhóm IlHan tại hoàng thành và điều phi thuyền đưa đến di tích; sở hữu chức nghiệp phụ tăng số lượng tạo tác có thể trang bị; từng cho 2 ma pháp sư chuyển chức 4 nã ma pháp đánh bật tấm bia đá chắn cửa di tích khiến cơ chế phòng thủ cổ đại bị kích hoạt trễ.
+- Trạng thái tính đến chương 198: Đã lên ngôi Nữ hoàng của Đại Đế quốc Palladia được 3 tháng; ủng hộ và hỗ trợ Kang MiRae nghiên cứu ma pháp kết nối hai thế giới để trở về Trái Đất.

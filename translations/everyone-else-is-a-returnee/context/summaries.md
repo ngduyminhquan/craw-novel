@@ -1215,3 +1215,8 @@ Cảm nhận được nhóm trẻ khác gặp nguy hiểm, Yumir dùng Ẩn Thâ
 Nhận ra lũ trẻ sống sót nhờ cơ thể hấp thụ mana và coi chúng như bậc đá lót đường để mạnh lên giống bố Yu IlHan, Yumir kiên trì bảo vệ và mở rộng quân đoàn.
 Cảnh kết thúc: Một năm sau, đội quân của Yumir đã phát triển lên 5.800 người với nhiều thành viên đạt chuyển chức 2, còn bản thân Yumir lột xác thành một con rồng chuyển chức 4 uy dũng sẵn sàng chở thuộc hạ tiếp tục hành trình.
 
+## 198
+Tại Lanpas, Kang MiRae cùng Nữ hoàng Irma An Ill'ta thất bại trong cuộc thí nghiệm ma pháp kết nối hai thế giới; MiRae thẳng thắn thừa nhận nỗi nhớ da diết dành cho Yu IlHan và tiếp tục dấn thân chinh phục các di tích ma pháp để tìm đường về Trái Đất.
+Tại cõi Breya, Na YuNa thẳng thừng từ chối lời cầu hôn của Hoàng đế Li Catriana khiến chiến tranh giữa Đế quốc Li Catriana và Thánh đế quốc Elforce bùng nổ; YuNa khẳng định mình là "người phụ nữ đã có chủ" và đá vào cẳng chân kỵ sĩ hộ vệ Kang HaJin khi bị trêu chọc về chuyện tình cảm với IlHan.
+Cảnh kết thúc: Trong khi mọi người ở khắp các thế giới không ngừng chiến đấu và hướng về Yu IlHan, thì trên Trái Đất sau một năm ròng, IlHan vẫn mải mê làm nổ tung hàng loạt hầm ngục gây ra Hiện Tượng Tràn để nhổ cỏ tận gốc bầy quái vật.
+
