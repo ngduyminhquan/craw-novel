@@ -23,7 +23,7 @@ INLINE_NOTE_RE = re.compile(
     rf"\s*(?:\(\s*{_NOTE_KW}(?:[^()]|\([^()]*\))*\)|\[\s*{_NOTE_KW}(?:[^\[\]]|\[[^\[\]]*\])*\])",
     re.IGNORECASE)
 # Dòng chỉ có tiêu đề ghi chú ("Editors Note.") — từ đây đến hết file là lời nhắn của translator/editor
-NOTE_HEADER_RE = re.compile(rf"^(?:T/N|E/N|{_NOTE_LONG})\s*[:.]?\s*$", re.IGNORECASE)
+NOTE_HEADER_RE = re.compile(rf"^(?:T/N|E/N|{_NOTE_LONG}|Ghi chú tác giả)\s*[:.]?\s*$", re.IGNORECASE)
 SEPARATOR_RE = re.compile(r"^[=\-_*~]{3,}$")
 
 STATUSES = ("todo", "done", "reviewed", "skip")
