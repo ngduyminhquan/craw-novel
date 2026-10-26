@@ -1063,3 +1063,9 @@ Các thiên thần phát hiện mật độ mana dưới lòng đất đậm đ�
 Tại một thế giới xa lạ, một thiên thần sa ngã thuộc Quân Đội Ánh Sáng Rực Rỡ bí mật triệu tập lính đánh thuê và thương nhân từ nhiều thế giới khác nhau, lôi kéo họ lập các ma pháp trận hòng phong tỏa sức mạnh Trái Đất và quyền năng Thượng Đế.
 Cảnh kết thúc: Tên thiên thần sa ngã mỉm cười tà ác tiết lộ tên gọi của ma pháp quy mô thế giới đó chính là "Tự Do".
 
+## 173
+Yu IlHan đào bới lòng đất ròng rã suốt hơn một tháng bằng Súng Bắn Cọc và Tua Vít Tử Thần nhưng vấp phải tầng địa chất cứng hơn da Golem Keshna làm mài mòn đinh vít xương.
+Hai con ác ma thuộc tính hỏa và lôi liên tiếp tiếp cận; Yu IlHan kích hoạt năm chiếc khiên Aegis tự xoay theo quỹ đạo bảo vệ toàn diện, dồn Độn Khí Thuật cùng Ngọn Lửa Vĩnh Cửu vào 8 mũi Bát Vĩ Long Thương kết liễu ác ma lửa trong 1 phút 41 giây (kỹ năng Chí Mạng lên cấp 84).
+Nhận tín hiệu liên lạc từ Yumir, Yu IlHan kích hoạt năng lực quay về quê hương từ danh hiệu 'Ếch Nhảy Khỏi Đáy Giếng' nhưng không thành công do hệ thống ghi nhận năng lực đã kích hoạt và đang chịu thời gian hồi chiêu 1 tuần.
+Cảnh kết thúc: Erta bàng hoàng nhận ra sự thật động trời rằng thế giới địa ngục đỏ ngầu tràn ngập ác ma này thực chất chính là Trái Đất.
+

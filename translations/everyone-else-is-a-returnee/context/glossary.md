@@ -602,7 +602,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | El Tièfè |  | El Tièfè | địa danh | 149 | Thế giới bậc cao nơi Spiera mang Bẫy Hủy Diệt mẫu đến để thử nghiệm |
 | Giant Snake |  | Rắn Khổng Lồ | quái vật | 149 | Quái vật rắn khổng lồ bị Yu IlHan thu phục tàn niệm làm thuộc hạ và phụ ma vào Bẫy Hủy Diệt |
 | Record of Worlds | Record of worlds; record of worlds | Ghi Chép Các Thế Giới | hệ thống | 149 | Yêu cầu tiến hóa kỹ năng Ngôn Ngữ, thu thập ghi chép từ 100 thế giới khác nhau |
-| The frog that leaped out of the well |  | Ếch Nhảy Khỏi Đáy Giếng | danh hiệu | 151 | Danh hiệu nhận được khi thu thập đủ 100 Ghi Chép Các Thế Giới, cho phép trở về thế giới nơi sinh ra từ bất kỳ thế giới nào (có thể mang người khác, hồi chiêu 1 tuần) |
+| The frog that leaped out of the well | Frog that leaped out of the well | Ếch Nhảy Khỏi Đáy Giếng | danh hiệu | 151 | Danh hiệu nhận được khi thu thập đủ 100 Ghi Chép Các Thế Giới, cho phép trở về thế giới nơi sinh ra từ bất kỳ thế giới nào (có thể mang người khác, hồi chiêu 1 tuần) |
+| Baobab | Baobab tree; Baobab trees | cây Baobab | khác | 172 | Tên IlHan tự đặt cho loài cây khổng lồ cao chọc trời mọc tại thế giới địa ngục |
 | Kiera Monkey |  | Khỉ Kiera | quái vật | 151 | Thuộc hạ khỉ hấp thụ ghi chép thế giới Niurad |
 | Niurad |  | Niurad | địa danh | 151 | Thế giới nơi Khỉ Kiera hấp thụ ghi chép |
 | Uniquism |  | Độc Nhất Giáo | khác | 151 | Tôn giáo giả tưởng có nguy cơ hình thành do sự tôn sùng thái quá của loài người dành cho Yu IlHan |
