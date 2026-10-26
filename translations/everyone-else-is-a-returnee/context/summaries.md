@@ -1191,15 +1191,8 @@ Sau 48 ngày, công trình hoàn thành 80%; IlHan chế tạo thành công 10 c
 Để tạo ra vũ khí tối thượng đối phó thực thể chuyển chức 5, IlHan nảy ra ý tưởng làm vũ khí chùm tia; anh vặt lông cánh của tên thiên thần sa ngã, nghiền thành bột mịn kết hợp xương rồng và ma thạch để chế tạo chiếc Gương Hủy Diệt phẩm cấp Sử Thi có khả năng tự động đánh chặn, bắn chùm tia năng lượng và phản đòn đối phương.
 Cảnh kết thúc: Yu IlHan nhìn chiếc Gương Hủy Diệt lơ lửng theo sau với đôi mắt rực sáng đầy khao khát tiếp tục mở rộng hệ thống tấn công, khiến Liera thầm tự hỏi rốt cuộc trên cánh tên thiên thần sa ngã còn lại bao nhiêu chiếc lông vũ.
 
-
-
-
-
-
-
-
-
-
-
-
-
+## 194
+Yu IlHan cải tạo 5 tấm khiên Aegis và dùng bột lông cánh thiên thần sa ngã sản xuất 100 chiếc Gương Hủy Diệt, đồng thời nghiền xương và thịt thiên thần trộn máu rồng phong ấn vào 20 thùng hợp kim để cung cấp nguồn mana dồi dào.
+Tiêu tốn 2.000 ma thạch chuyển chức 4 trong đợt Chế Tác Mana quy mô khổng lồ, IlHan hoàn thành tạo tác Bách Nhãn phẩm cấp Hỗn Loạn với khả năng bắn chùm tia liên tục và tự phục hồi; sau đó anh dùng nốt 500 ma thạch làm bẫy rồi tự thưởng 2 ngày tắm nước nóng trong Đại Thùng.
+Liera thản nhiên trút bỏ y phục bước vào bồn tắm chung và ôm chầm lấy IlHan an ủi động viên, khiến IlHan hoảng loạn ngượng ngùng tìm cách giữ khoảng cách nhưng đành bất lực trước sự ấm áp của cô.
+Cảnh kết thúc: Hoàn tất lắp đặt toàn bộ vũ khí và tạo tác vào dinh thự, IlHan kích hoạt đợt Chế Tác Mana sau cùng, chính thức khai sinh Pháo Đài Bay Kẻ Hủy Diệt phẩm cấp Thần vô tiền khoáng hậu và giúp danh hiệu Kẻ Sáng Tạo Thần Thoại tiếp tục tăng trưởng.
