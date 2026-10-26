@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T18:32:07Z",
+  "generatedAt": "2026-10-26T18:40:22Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1025,6 +1025,12 @@
           "title": "Chương 170: Buổi Dã Ngoại Địa Ngục, Đơn Độc – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_170.md",
           "sha": "595ca9ade4196f25edd72e9fa365a5b110e658c3"
+        },
+        {
+          "number": 171,
+          "title": "Chương 171: Hell Picnic, Alone – 2",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_171.md",
+          "sha": "5a8e320da3e32b777575504d5a8f16ffb3ed50c0"
         }
       ]
     }

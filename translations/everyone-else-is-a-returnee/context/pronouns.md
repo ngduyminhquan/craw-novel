@@ -197,6 +197,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Flemir | Erica | tôi / thần | Erica / Công chúa | 117 | Flemir nói chuyện với Erica (Erica cấm dùng kính ngữ trước mặt IlHan) |
 | Erica | Flemir | ta / tôi | Flemir | 117 | Erica ra lệnh cho Flemir |
 | Flemir | Yu IlHan | tôi / chúng tôi | ngài | 115 | Flemir hoàn toàn kính sợ trước sức mạnh của Yu IlHan |
+| Flemir | Yu IlHan | thuộc hạ / tôi | chủ nhân | 117 | Flemir chính thức quy thuận và gọi Yu IlHan là chủ nhân sau khi Erica ra lệnh |
 | Spiera | Liera | ta / tôi | Liera / cô | 118 | Spiera liên lạc truyền đạt quyết định mới của Quân Đội Thiên Giới cho Liera |
 | Liera | Spiera | tôi | Spiera / cô | 118 | Liera nhận liên lạc từ Spiera |
 | Spiera | Yu IlHan | tôi / ta | cậu / Yu IlHan | 119 | Spiera xuống Trái Đất lập khế ước với IlHan |

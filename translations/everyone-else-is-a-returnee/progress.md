@@ -175,7 +175,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | reviewed |  |
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | done |  |
 | 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | done |  |
-| 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | todo |  |
+| 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | done |  |
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | todo |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | todo |  |
 | 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | todo |  |
@@ -813,3 +813,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#168] Xưng hô của Kang MiRae với Hoàng nữ Irma ở đoạn 186 → Đổi thành Điện hạ cứ đi đi theo đúng phong thái đối tác bình đẳng trong pronouns.md. (orchestrator)
 - [#169] Thuật ngữ "Great Temple" — Tạm chọn: "Đại Đền Thờ" (khớp với "đền thờ Leytna" ở chương 81). Phương án khác: "Đại Thánh Đường". → Đồng ý: dịch Great Temple là Đại Đền Thờ (khớp với đền thờ Leytna ở chương 81). (orchestrator)
 - [#170] Tên chiêu thức anime "Giga drill break" (tham chiếu Gurren Lagann): giữ nguyên "Giga drill break" theo thông lệ tham chiếu anime (tương tự AT Field) hay Việt hóa? Tạm dùng: giữ nguyên "Giga drill breakkkkkkkkkk!". → Đồng ý: giữ nguyên Giga drill break / Giga Drill Break theo thông lệ tham chiếu anime (tương tự AT Field). (orchestrator)
+- [#171] Từ 'demons' ở thế giới địa ngục trong chương 171 (QA cảnh báo 'demon race' -> 'Ma tộc') → Đồng ý: dịch là ác ma / lũ ác ma theo ngữ cảnh quái vật địa ngục, không phải thực thể cấp cao Ma tộc. (orchestrator)

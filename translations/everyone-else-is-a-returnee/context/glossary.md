@@ -318,7 +318,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Weight control |  | Kiểm soát trọng lượng | hệ thống | 52 | Dòng thuộc tính ma pháp điều chỉnh sức nặng đồ vật trong Túi Đeo Chéo |
 | Rot-proof | rot-proof | Chống thối rữa | hệ thống | 52 | Dòng thuộc tính ma pháp ngăn chặn sự phân hủy hữu cơ trong Túi Đeo Chéo |
 | Weight transfer |  | Chuyển giao trọng lượng | hệ thống | 52 | Dòng thuộc tính ma pháp chuyển trọng lượng của Túi Đeo Chéo sang vật phẩm khác |
-| Angel's Partner |  | Bạn Đồng Hành Thiên Thần | chức nghiệp | 52 | Chức nghiệp phụ độc nhất của Yu IlHan liên kết với tối đa 2 thiên thần |
+| Angel's Partner | Angels' Partner | Bạn Đồng Hành Thiên Thần | chức nghiệp | 52 | Chức nghiệp phụ độc nhất của Yu IlHan liên kết với tối đa 2 thiên thần |
 | Angel's Protection |  | Thiên Thần Bảo Hộ | kỹ năng | 52 | Kỹ năng bị động của Bạn Đồng Hành Thiên Thần, giảm đòn chí mạng, tăng kháng lời nguyền và thưởng nhiệm vụ |
 | Angel's Support | Angels' Support | Thiên Thần Chi Viện | kỹ năng | 52 | Kỹ năng chủ động của Bạn Đồng Hành Thiên Thần, mượn sức mạnh thiên thần trong Thế Giới Bị Bỏ Rơi |
 | Undead | undead | Undead | quái vật | 52 | Được phép giữ nguyên: Quái vật thuộc chủng loại Undead/bất tử, kẻ thù của Quân Đội Thiên Giới |
@@ -426,7 +426,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Susanoo Army | Army of Susanoo | Quân Đoàn Susanoo | tổ chức | 71 | Lực lượng dị năng giả tập hợp đi theo dọn quái hỗ trợ Yu IlHan |
 | Throwing |  | Thuật Ném | kỹ năng | 71 | Kỹ năng ném vũ khí và vật thể thức tỉnh ở Lv Max; lưu ý cụm "throwing spear" trong raw là lao phóng, không phải kỹ năng Thuật Ném |
 | Ark Katrar |  | Ark Katrar | quái vật | 71 | Quái vật cấp 103 bước ra từ Đợt Vỡ Hầm Ngục tại Tokyo |
-| A Thousand In One Hit |  | Nhất Kích Thiên Quân | danh hiệu | 71 | Danh hiệu tăng 50% tỷ lệ đòn đánh chí mạng khi tấn công nhiều kẻ địch cùng lúc |
+| A Thousand In One Hit | A thousand in one go | Nhất Kích Thiên Quân | danh hiệu | 71 | Danh hiệu tăng 50% tỷ lệ đòn đánh chí mạng khi tấn công nhiều kẻ địch cùng lúc |
 | Takemikazuchi |  | Takemikazuchi | khác | 71 | Vị thần sấm sét và kiếm thuật trong thần thoại Thần đạo Nhật Bản |
 | Amaterasu |  | Amaterasu | khác | 71 | Nữ thần Mặt Trời tối cao trong thần thoại Thần đạo Nhật Bản |
 | Double Cross |  | Song Thập Tự | kỹ năng | 72 | Kỹ năng chiến đấu của thành viên clan Metal Knights |
@@ -555,7 +555,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
 | Destruction-calling Titan's Resonance Thunderhammer | Destruction-calling Giant's Resonance Thunderhammer | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
-| Chilly Blizzard tyrant's Mixed bone Fullplate armor | Chilly Blizzard tyrant's Mixed bone Full plate armour; Mixed bone full plate armor | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
+| Chilly Blizzard tyrant's Mixed bone Fullplate armor | Chilly Blizzard tyrant's Mixed bone Full plate armour; Mixed bone full plate armor; Blizzard Tyrant's Mixed Bone Fullplate | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
 | Destruction-preventing Swift Cursed dragon Earring |  | Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy | vật phẩm | 126 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ xương rồng và ma thạch chuyển chức 3 |
 | Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |
 | Frenzied and Leisurely Lightning ruler's Dragonic bracelet |  | Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết hệ sấm sét do Yu IlHan rèn từ vảy rồng hệ lôi yêu cầu pháp sư hệ lôi chuyển chức 3 |
@@ -623,7 +623,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Mister Unique |  | Quý ngài Độc Nhất | khác | 153 | Biệt danh Michael Smithson dùng để gọi Yu IlHan (người bán trang bị phẩm cấp Độc Nhất của Vanguard) |
 | Twin-headed snake |  | Rắn Hai Đầu | quái vật | 154 | Quái vật rắn chuyển chức 3 Lv 108 |
 | Ultra Monkey |  | Siêu Khỉ | quái vật | 154 | Quái vật khỉ chuyển chức 3 Lv 104 |
-| Perverted Vibration Demon | Perverted Demon Beast | Ác Ma Rung Biến Thái | quái vật | 157 | Biệt danh Liera đặt cho con quái vật xúc tu rung chấn sinh ra từ cổng |
+| Perverted Vibration Demon | Perverted Demon Beast; perverted vibration demons | Ác Ma Rung Biến Thái | quái vật | 157 | Biệt danh Liera đặt cho con quái vật xúc tu rung chấn sinh ra từ cổng |
 | Thunderhammer | thunderhammer; thunder hammer | Lôi Búa | vật phẩm | 157 | Tên gọi tắt của Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt |
 | Reserve Territory |  | Lãnh Địa Dự Bị | khác | 158 | Quy chế đặc biệt do Spiera đề xuất Thiên Giới áp dụng cho Trái Đất |
 | Imperial Princess | First Imperial Princess | Hoàng nữ | chức nghiệp | 158 | Tước vị hoàng gia của Irma An Ill'ta thuộc Đại Đế quốc Palladia |
@@ -661,3 +661,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Gangnam Trade Center |  | Trung Tâm Giao Dịch Gangnam | địa danh | 170 | Khu trung tâm thương mại và giao dịch giữa Trái Đất và các dị giới đặt tại Gangnam |
 | mercenary guild | Mercenary guild; Mercenary Guild | Hội Lính Đánh Thuê | tổ chức | 170 | Tổ chức quản lý lính đánh thuê, tiền hoa hồng và thù lao theo đóng góp do Metal Knights và Magia thành lập tại Gangnam |
 | Giga Drill Break | giga drill break | Giga Drill Break | khác | 170 | Được phép giữ nguyên: Chiêu thức biểu tượng trong anime Tengen Toppa Gurren Lagann mà Yu IlHan hô vang khi dùng Tua Vít Tử Thần |
+| Human Blazing Reaper |  | Nhân Loại Liệt Hỏa Tử Thần | chức nghiệp | 171 | Chức nghiệp chuyển chức 3 hệ nhân loại của Yu IlHan |
+| Black Dragon Whip |  | Roi Hắc Long | vật phẩm | 171 | Tên gọi tắt của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |

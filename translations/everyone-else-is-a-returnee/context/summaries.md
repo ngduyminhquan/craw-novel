@@ -1049,3 +1049,9 @@ Yu IlHan vừa nấu chảy 3 tấn kim loại Keshna trong Ngọn Lửa Vĩnh C
 Nhận thấy nhu cầu chi viện dị giới tăng vọt, Kang MiRae trao quyền cho hai clan Metal Knights và Magia thành lập Hội Lính Đánh Thuê tại Gangnam nhằm quản lý hoa hồng, phân phối thù lao và mở đường rút lui an toàn.
 Buổi đấu giá trang bị cao cấp lần 2 diễn ra thành công tốt đẹp dưới sự bảo an của Flemir và bầy sói Kiroa; Kang MiRae thấp thỏm nhớ nhung Yu IlHan sau 2 tháng anh bặt vô âm tín kể từ khi để lại vật phẩm đấu giá và gửi gắm Yumir.
 Cảnh kết thúc: Yu IlHan đang một mình quẩy hết mình tung hoành ngang dọc tại một thế giới quái vật ngập tràn, hào hứng hô vang tuyệt kỹ "Giga drill break" trong khi Liera lo lắng nhắc nhở coi chừng bị kiện bản quyền.
+
+## 171
+Yu IlHan yên tâm khi thấy Trái Đất và các thế giới vận hành ổn định nên bàn giao Vanguard, Angel Tear cho Kang MiRae, giao thiết bị liên lạc đa giới tự chế cho người thân, dặn Flemir canh giữ cổng và để Yumir ở lại Trái Đất rồi một mình tiến vào thế giới địa ngục bí ẩn đỏ ngầu rèn luyện.
+Sau 2 tháng điên cuồng săn quái, anh hạ gục một con ác ma băng khổng lồ cấp 250 bằng sự phối hợp nhịp nhàng giữa Đại Khải Bạo Quân Bão Tuyết, Roi Hắc Long, Bát Vĩ Long Thương và Liệt Hỏa, qua đó tăng 9 cấp đạt mốc cấp 171.
+Bảng chỉ số thăng tiến vượt bậc với các kỹ năng thể chất như Quái Lực, Bật Nhảy và Siêu Việt Tái Sinh tăng mạnh giúp cơ thể có thể tự liền lại tức thì; các thiên thần kinh ngạc nhận định thế giới này có thể chưa từng thuộc quyền quản hạt của Thiên giới ngay từ lúc khai sinh.
+Cảnh kết thúc: Yu IlHan thản nhiên nướng thịt quái vật bằng Ngọn Lửa Vĩnh Cửu rồi mỉm cười nói với Erta rằng mình đã quá quen với việc chờ đợi, chính thức bước vào chuyến tham quan địa ngục dài hạn.
