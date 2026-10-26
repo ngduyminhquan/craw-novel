@@ -1220,3 +1220,9 @@ Tại Lanpas, Kang MiRae cùng Nữ hoàng Irma An Ill'ta thất bại trong cu�
 Tại cõi Breya, Na YuNa thẳng thừng từ chối lời cầu hôn của Hoàng đế Li Catriana khiến chiến tranh giữa Đế quốc Li Catriana và Thánh đế quốc Elforce bùng nổ; YuNa khẳng định mình là "người phụ nữ đã có chủ" và đá vào cẳng chân kỵ sĩ hộ vệ Kang HaJin khi bị trêu chọc về chuyện tình cảm với IlHan.
 Cảnh kết thúc: Trong khi mọi người ở khắp các thế giới không ngừng chiến đấu và hướng về Yu IlHan, thì trên Trái Đất sau một năm ròng, IlHan vẫn mải mê làm nổ tung hàng loạt hầm ngục gây ra Hiện Tượng Tràn để nhổ cỏ tận gốc bầy quái vật.
 
+## 199
+Yu IlHan điều khiển Pháo Đài Bay Kẻ Hủy Diệt càn quét quái vật khắp bầu trời và các lục địa, sau đó chuyển Bách Nhãn sang chế độ tiết kiệm năng lượng để tự mình trui rèn 7 kỹ năng chuẩn bị chuyển chức 4 (Kẻ Giáng Địa Ngục).
+Cùng với tàn niệm Orochi điên cuồng hấp thụ tàn niệm nâng cấp Thu Thập Tử Vong và Linh Hồn Phụ Ma, IlHan dùng Quái Lực cực hạn tự phá hủy xương cốt và nội tạng rồi dùng Siêu Việt Tái Sinh phục hồi liên tục để đẩy nhanh tiến độ; anh phóng to Lôi Búa gấp 10 lần kết hợp Aegis và Liệt Hỏa tung đòn Lốc Xoáy Địa Ngục càn quét chiến trường.
+Khi lặn xuống biển hạ gục quái vật Kraken Tà Ác Lv 233, IlHan nhận ra độc và lời nguyền của quái vật Trái Đất quá yếu do tên chủ nhân hầm ngục 2 năm trước đã gom sạch quái vật mang độc và nguyền rủa.
+Cảnh kết thúc: Hậm hực vì không thể luyện Kháng Độc Cực Hạn và Kháng Lời Nguyền Cấp Cao một cách tự nhiên, IlHan quyết định dùng "biện pháp cuối cùng" và giương cánh Hiệu Triệu Diệt Vong bay về pháo đài bay để tìm lời giải.
+

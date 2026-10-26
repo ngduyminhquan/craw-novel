@@ -203,7 +203,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 196 |  | Chapter_196 - I Create – 6.txt | I Create – 6 | reviewed |  |
 | 197 |  | Chapter_197 - I Create – 7.txt | I Create – 7 | reviewed |  |
 | 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | reviewed |  |
-| 199 |  | Chapter_199 - If You See Me – 1.txt | If You See Me – 1 | todo |  |
+| 199 |  | Chapter_199 - If You See Me – 1.txt | If You See Me – 1 | done |  |
 | 200 |  | Chapter_200 - If You See Me – 2.txt | If You See Me – 2 | todo |  |
 | 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | todo |  |
 | 202 |  | Chapter_202 - If You See Me – 4.txt | If You See Me – 4 | todo |  |
@@ -854,3 +854,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#198] Thuật ngữ "Electric Shield" (ma pháp bảo hộ hệ lôi của Kang MiRae) — Tạm dùng: "Lôi Khiên". Phương án khác: "Khiên Sấm Sét", "Khiên Điện". → Chốt dịch là "Lôi Khiên" (Hán Việt ngắn gọn theo rules.md, đồng bộ với Lôi Búa, Lôi Thần). (orchestrator)
 - [#198] Danh xưng "Her Holiness" / "Pope" (người đứng đầu Giáo Hội Leytna tại Thánh đế quốc Elforce) — Tạm dùng: "Đức Giáo Hoàng" / "Giáo hoàng". Phương án khác: "Đức Thánh Mẫu", "Đức Giáo Chủ". → Dịch cụm "Her Holiness" trong lời thoại là "Đức Giáo Hoàng"; loại "Pope" khỏi glossary.md vì là danh từ chung và không xuất hiện trong raw chương 198. (orchestrator)
 - [#198] Na YuNa xưng hô với các giáo sĩ Elforce → Giữ nguyên Na YuNa xưng "em" theo nét tính cách nhí nhảnh (aegyo) đặc trưng của nhân vật và thống nhất với chương 169, tạo sự tương phản hài hước với uy quyền tuyệt đối của Thánh nữ. (orchestrator)
+- [#199] Tiêu đề arc mới "If You See Me – 1" — Tạm chọn: "Nếu Thấy Tôi – 1" (đồng bộ ngôi xưng "tôi" với các arc trước như "Tôi Tạo Ra", "Không Thể Thấy Tôi Sao?"). Đề xuất khác: "Nếu Nhìn Thấy Tôi – 1" hoặc "Nếu Thấy Ta – 1". → Chốt dịch là "Nếu Thấy Tôi – 1" (ngắn gọn, đồng bộ ngôi xưng với tiêu đề arc trước "Không Thể Thấy Tôi Sao?"). (orchestrator)
+- [#199] Chiêu thức tự đặt "Hell Tornado" — Tạm chọn: "Lốc Xoáy Địa Ngục" và thêm vào glossary.md. Phương án khác: "Địa Ngục Cuồng Phong", "Cơn Lốc Địa Ngục". → Chốt dịch là "Lốc Xoáy Địa Ngục" (rõ nghĩa, hợp phong cách tự đặt tên chiêu thức hài hước của Yu IlHan). (orchestrator)
+- [#199] Câu chửi thề "God dammit." của Yu IlHan ở đoạn 96 — Tạm chọn: dịch tự nhiên thành "Chết tiệt thật chứ", không dịch "God" thành "Thượng Đế" (tương tự chương 182; QA cảnh báo thiếu Thượng Đế do bắt nhầm từ cảm thán). → Giữ nguyên "Chết tiệt thật chứ" đúng sắc thái lời chửi thề tự nhiên, bỏ qua cảnh báo false positive 'God' của QA (tương tự chương 182, 185, 195). (orchestrator)

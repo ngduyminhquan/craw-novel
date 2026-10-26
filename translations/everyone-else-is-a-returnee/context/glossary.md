@@ -688,3 +688,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Destroyer's Flying Fortress | Destroyer's Flying fortress | Pháo Đài Bay Kẻ Hủy Diệt | vật phẩm | 194 | Tạo tác phẩm cấp Thần do Yu IlHan hoàn thành từ dinh thự Bittersweet Persona |
 | Electric Shield |  | Lôi Khiên | kỹ năng | 198 | Kỹ năng ma pháp bảo vệ lôi hệ của Kang MiRae |
 | Li Catriana |  | Li Catriana | địa danh | 198 | Đế quốc đối địch với Thánh đế quốc Elforce tại thế giới Breya, do Hoàng đế Li Catriana cai trị |
+| Hell Tornado |  | Lốc Xoáy Địa Ngục | kỹ năng | 199 | Tên đòn thế tự đặt của Yu IlHan khi vung Lôi Búa kết hợp Liệt Hỏa và bệ đỡ xoay Aegis |
+| Wicked Kraken |  | Kraken Tà Ác | quái vật | 199 | Quái vật mực khổng lồ cấp 233 cao hơn 300m dưới biển |
