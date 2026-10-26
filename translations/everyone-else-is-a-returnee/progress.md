@@ -171,7 +171,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | reviewed |  |
 | 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | reviewed |  |
 | 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | done |  |
-| 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | todo |  |
+| 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | done |  |
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | todo |  |
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | todo |  |
 | 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | todo |  |

@@ -1024,6 +1024,12 @@ Tại cửa di tích, IlHan đọc văn tự cổ trên tấm bia đá khổng l
 Một con golem khổng lồ trên cấp 250 thời cổ đại thức tỉnh ở đỉnh núi; Na YuNa ban phước buff toàn diện sức tấn công và phòng thủ cho IlHan.
 Cảnh kết thúc: Yu IlHan dặn dò Yumir giữ khoảng cách bắn tầm xa rồi Bật Nhảy vút lên không trung chuẩn bị nghênh chiến con golem khổng lồ đang gầm thét.
 
+## 167
+Yu IlHan quan sát con golem titan khổng lồ cao 120 mét cấp trên 250 đang thức tỉnh; nhận thấy bùa lợi của Nữ Thần Sắc Đẹp từ Na YuNa đã bù đắp phần nào hiệu ứng Tử Thần (do golem là sinh mệnh nhân tạo), anh quyết định dùng vũ khí đặc chế Máy Bắn Đá Của David (Súng Bắn Cọc Sử Thi có dòng thuộc tính khắc chế kẻ địch khổng lồ).
+Trước sự khiếp đảm của nhóm Hoàng nữ Irma An Ill'ta và đòn Cự Lôi của Kang MiRae chỉ làm sứt một ngón chân quái vật, IlHan cắn răng dốc toàn lực (kết hợp Quái Lực lv 75 và Siêu Việt Tái Sinh lv 61) nạp nấc 7 rồi Bật Nhảy giáng một kích kinh thiên động địa nghiền nát đầu golem và găm sâu đạn đinh ốc xương vào cơ thể nó.
+Thấy các mảnh vỡ kim loại tự động bay về để chắp vá lại đầu golem, IlHan chỉ đạo Yumir dùng phong ma pháp thổi bay cùng nhóm Kang MiRae và quân đội Palladia nã sấm sét thiêu hủy mảnh vụn; IlHan rút vũ khí mới Tua Vít Tử Thần Cuồng Phong Sáng Chói cắm phập vào rãnh chữ thập trên đinh ốc xương.
+Cảnh kết thúc: Yu IlHan rót toàn bộ mana kích hoạt tua vít xoay tít đinh ốc lửa với tốc độ điên cuồng, vừa nghiền nát thân thể con golem vừa phấn khích thốt lên câu thoại anime tâm đắc: "Mũi khoan của ta là mũi khoan sẽ xuyên thủng trời cao!".
+
 
 
 

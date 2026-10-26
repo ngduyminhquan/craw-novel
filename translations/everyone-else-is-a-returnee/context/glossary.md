@@ -642,3 +642,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Tsoner | Tsnoer | Tsoner | địa danh | 164 | Quốc gia lính đánh thuê tại thế giới Mishta |
 | Magic kingdom of Ill'ta | magic kingdom of Ill'ta | Vương quốc Ma Pháp Ill'ta | địa danh | 165 | Vương quốc ma pháp cổ đại tại thế giới Lanpas, tiền thân của Đại Đế quốc Palladia |
 | Holy maiden | holy maiden | Thánh nữ | chức nghiệp | 165 | Thân phận tôn giáo của Na YuNa tại thế giới Breya |
+| David's Stone Thrower |  | Máy Bắn Đá Của David | vật phẩm | 167 | Vũ khí Súng Bắn Cọc đặc chế kích hoạt bằng Dây Thun Khổng Lồ và Ngọn Lửa Vĩnh Cửu, khắc chế kẻ địch có kích thước khổng lồ |
+| Death Driver |  | Tua Vít Tử Thần | vật phẩm | 167 | Vũ khí có hình dạng tua vít hai đầu chữ thập xoay tròn cực mạnh nhờ mana và Dây Thun Khổng Lồ |
+| Powerful and Bright Wind Death Driver |  | Tua Vít Tử Thần Cuồng Phong Sáng Chói | vật phẩm | 167 | Tua Vít Tử Thần phẩm cấp Truyền Thuyết sở hữu thuộc tính cuồng phong và ánh sáng do Akashic Records đặt tên |
