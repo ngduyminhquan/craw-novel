@@ -152,7 +152,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 145 |  | Chapter_145 - The MVP Is Mine III.txt | The MVP Is Mine III | reviewed |  |
 | 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | reviewed |  |
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | reviewed |  |
-| 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | todo |  |
+| 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | done |  |
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | todo |  |
 | 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | todo |  |
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | todo |  |
@@ -773,3 +773,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#146] Từ lóng cảm thán của Na YuNa "Wao, commando!" khi thấy Yu IlHan lật lọng tỉnh bơ ("I lied.") → Chấp nhận dịch "Wao, commando!" là "Oa, ngầu đét!" (câu đùa theo meme phim Commando khi nhân vật nói "I lied", dịch thoát ý tự nhiên hợp tính cách nhí nhảnh của Na YuNa). (orchestrator)
 - [#145-147] Về xưng hô của Liera với Yu IlHan ở chương 145-146 (duy trì "tôi - cậu / IlHan" theo pronouns.md hay đổi sang "em - anh") → Giữ đúng quy chuẩn Liera xưng "tôi", gọi "cậu / IlHan" theo pronouns.md (từ chương 105), sửa lại các câu bị dịch lệch ở chương 145 và 146. (orchestrator)
 - [#147] Về tiếng gầm của Orochi ở chương 147 đoạn 106, 115 ([Kuaoooooooh!], [Kruoooooooooooh!]) có Việt hóa thành [Khuaoooooooh!], [Khuoơơơơơơơh!] không → Giữ nguyên [Kuaoooooooh!] và [Kruoooooooooooh!] như raw EN để thống nhất với các chương trước (#96, #97, #137). (orchestrator)
+- [#148] Đoạn 145–147 raw có câu thoại đùa "Not telling…" và "…Returns" gọi lại tình huống ở chương 66 (khi Thần Rèn Đúc không thèm nói điều kiện nhận phước lành khiến IlHan cáu kỉnh đáp "Không nói."): dịch thế nào? → Giữ phương án "Không thèm nói đâu…" và "…Tái xuất." để giữ tính hài hước gợi lại tình huống vị thần không nói điều kiện nhận lời chúc phúc ở chương 66. (orchestrator)
+- [#148] Đoạn 62 raw viết "big sis Ericia": xử lý thế nào? → Chuẩn hóa thành "chị Erica" theo tên chính đã chốt trong characters.md (Ericia là alias do raw viết lệch). (orchestrator)
+- [#148] Đoạn 82 raw viết nhầm chính tả Comos-severing Spear: xử lý thế nào? → Quy về kỹ năng Đại Đoạn Vũ Trụ Thương (Great Cosmos-severing Spear) của Spiera đã chốt trong glossary.md và thêm Comos-severing Spear vào cột Alias. (orchestrator)

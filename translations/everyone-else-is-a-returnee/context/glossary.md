@@ -555,7 +555,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Moon Wolf |  | Nguyệt Lang | chủng tộc | 117 | Chủng tộc sói ánh trăng của Công chúa Erica |
 | Blessing of the Moon Goddess |  | Chúc Phúc Của Nữ Thần Mặt Trăng | danh hiệu | 117 | Danh hiệu của Công chúa Erica |
 | Kid Dragon | Kid dragon | Thiếu Long | quái vật | 118 | Chủng tộc tiến hóa tiếp theo của Yumir từ Tiểu Long sau khi chuyển chức lần 2 (tương đương vóc dáng 7 tuổi) |
-| Great Cosmos-severing Spear |  | Đại Đoạn Vũ Trụ Thương | kỹ năng | 119 | Kỹ năng dung hợp thương cấp cao do Spiera sáng tạo sau khi chuyển chức lần 6 |
+| Great Cosmos-severing Spear | Cosmos-severing Spear; Comos-severing Spear | Đại Đoạn Vũ Trụ Thương | kỹ năng | 119 | Kỹ năng dung hợp thương cấp cao do Spiera sáng tạo sau khi chuyển chức lần 6 |
 | Whip mastery | Whip Mastery | Tiên Thuật | kỹ năng | 119 | Kỹ năng sử dụng roi, thức tỉnh ở Lv Max |
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
@@ -603,3 +603,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Snuë | Snu; Snuëans | Snuë | địa danh | 146 | Thế giới đã trải qua 1.300 năm kể từ Đại Tai Biến gần nhất, đang tiến sát Đại Tai Biến lần 3, đối thủ của Trái Đất ở vòng tứ kết |
 | Kenatoo |  | Kenatoo | địa danh | 147 | Thế giới đối thủ của Trái Đất trong trận chung kết Cuộc Chiến Cạnh Tranh, đang tiến sát Đại Tai Biến lần 4 |
 | Burning Flag | Burning Flag clan | Clan Burning Flag | tổ chức | 147 | Clan Trái Đất thành lập bởi những người trở về từ thế giới Kenatoo |
+| Goddess of Fire | goddess of fire | Nữ Thần Lửa | khác | 148 | Vị thần muốn ban lời chúc phúc cho Yu IlHan sau khi anh thuần phục Ngọn Lửa Vĩnh Cửu |
+| Blessing of the goddess of fire | Blessing of the fire goddess | Chúc Phúc Của Nữ Thần Lửa | danh hiệu | 148 | Lời chúc phúc từ Nữ Thần Lửa dành cho Yu IlHan khi thuần phục Ngọn Lửa Vĩnh Cửu |

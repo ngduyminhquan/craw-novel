@@ -908,6 +908,13 @@ Trước trận chung kết gặp thế giới Kenatoo (sắp đón Đại Tai B
 Trước khi trận đấu bắt đầu, IlHan kích hoạt Long Huyết kết hợp Ngọn Lửa Vĩnh Cửu (rút từ xưởng rèn đưa vào cánh Hiệu Triệu Diệt Vong), ngọn lửa tím của Bát Vĩ Long Thương và kỹ năng Liệt Hỏa để buff hỏa lực đến cực hạn trong trạng thái Ẩn Thân.
 Cảnh kết thúc: Vừa có hiệu lệnh bắt đầu, IlHan lập tức dịch chuyển chớp nhoáng vung thương quét sạch cả 4 kẻ chuyển chức 4 của Kenatoo và càn quét toàn bộ 20 đối thủ chỉ trong 1 phút 30 giây nhờ liên tục tái kích hoạt Ẩn Thân qua Kẻ Cô Độc Toàn Vũ Trụ, lập kỷ lục vô tiền khoáng hậu trong Cuộc Chiến Cạnh Tranh.
 
+## 148
+Trở về sau Cuộc Chiến Cạnh Tranh trong sự chào đón cuồng nhiệt của đám đông Trái Đất, Yu IlHan khó chịu vì bị bao vây nên vội ôm Yumir kích hoạt Bật Nhảy bay thẳng từ New York về căn hộ ở Gangnam (Seoul) chỉ trong 15 phút sau khi dặn Flemir sớm trở về Kiroa; Liera cũng đuổi theo về cùng.
+Liera nhận chỉ thị từ Thiên giới chuẩn bị thu gom nguyên liệu để IlHan chế tạo Bẫy Hủy Diệt cho Trái Đất và các thế giới khác; trong 13 giờ chờ đợi, IlHan mang Bát Vĩ Long Thương ra ngoài săn quái cho tàn niệm Orochi ăn.
+Nhờ Yumir gợi ý, IlHan nhận ra sự cộng hưởng giữa năng lực Tử Thần và kỹ năng Thống Trị nên đã dùng Thống Trị thu phục tàn niệm Orochi thành thuộc hạ (nâng Thống Trị lên cấp 56, Linh Hồn Phụ Ma lên cấp 24), giúp Orochi nói được tiếng người và biến hóa các nhánh thương chiến đấu linh hoạt như pháp sư.
+Quay về xưởng đúc chuẩn bị rèn Bẫy Hủy Diệt đổi lấy 1 kỹ năng bị động, 40 điểm chỉ số và 150 bình thuốc hồi mana cao cấp, IlHan kích hoạt Long Huyết nâng tầm đẳng cấp rồi dùng Thống Trị thu phục luôn Ngọn Lửa Vĩnh Cửu (nâng Thống Trị lên cấp 63).
+Cảnh kết thúc: Hệ thống bất ngờ thông báo Nữ Thần Lửa muốn ban Chúc Phúc Của Nữ Thần Lửa cho anh nếu đạt thêm một điều kiện ẩn; IlHan thối mặt nhớ lại vụ việc tương tự với Thần Rèn Đúc trước đây, đánh dấu khoảnh khắc lịch sử khi lời chúc phúc của cả hai vị Thần cùng chờ đợi một con người.
+
 
 
 
