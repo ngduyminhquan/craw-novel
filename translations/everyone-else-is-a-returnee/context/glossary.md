@@ -663,3 +663,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Giga Drill Break | giga drill break | Giga Drill Break | khác | 170 | Được phép giữ nguyên: Chiêu thức biểu tượng trong anime Tengen Toppa Gurren Lagann mà Yu IlHan hô vang khi dùng Tua Vít Tử Thần |
 | Human Blazing Reaper |  | Nhân Loại Liệt Hỏa Tử Thần | chức nghiệp | 171 | Chức nghiệp chuyển chức 3 hệ nhân loại của Yu IlHan |
 | Black Dragon Whip |  | Roi Hắc Long | vật phẩm | 171 | Tên gọi tắt của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
+| Freedom |  | Tự Do | kỹ năng | 172 | Ma pháp quy mô thế giới do Quân Đội Ánh Sáng Rực Rỡ mưu đồ kích hoạt đồng loạt |

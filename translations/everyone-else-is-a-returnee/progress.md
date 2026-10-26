@@ -176,7 +176,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | reviewed |  |
 | 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | reviewed |  |
 | 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | reviewed |  |
-| 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | todo |  |
+| 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | done |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | todo |  |
 | 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | todo |  |
 | 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -815,3 +814,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#170] Tên chiêu thức anime "Giga drill break" (tham chiếu Gurren Lagann): giữ nguyên "Giga drill break" theo thông lệ tham chiếu anime (tương tự AT Field) hay Việt hóa? Tạm dùng: giữ nguyên "Giga drill breakkkkkkkkkk!". → Đồng ý: giữ nguyên Giga drill break / Giga Drill Break theo thông lệ tham chiếu anime (tương tự AT Field). (orchestrator)
 - [#171] Từ 'demons' ở thế giới địa ngục trong chương 171 (QA cảnh báo 'demon race' -> 'Ma tộc') → Đồng ý: dịch là ác ma / lũ ác ma theo ngữ cảnh quái vật địa ngục, không phải thực thể cấp cao Ma tộc. (orchestrator)
 - [#171] Danh hiệu viết rút gọn Not two hits; nor three hits; ở đoạn 77 chương 171 → Dùng tên chuẩn đầy đủ trong glossary.md là Không hai đòn, chẳng ba đòn, chỉ một đòn. (orchestrator)
+- [#172] Tiêu đề chương: #170 dịch 'Buổi Dã Ngoại Địa Ngục, Đơn Độc – 1', #171 để EN 'Hell Picnic, Alone – 2' — Tạm chọn: dịch #172 là 'Buổi Dã Ngoại Địa Ngục, Đơn Độc – 3' cho khớp #170; đề xuất chuẩn hóa luôn #171. → Đồng ý: dịch là Buổi Dã Ngoại Địa Ngục, Đơn Độc – N (chuẩn hóa cả chương 171 sang tiếng Việt). (orchestrator)
+- [#172] Tên ma pháp quy mô thế giới của Quân Đội Ánh Sáng Rực Rỡ 'Freedom' ở cuối chương — Tạm chọn: dịch là 'Tự Do' và thêm vào glossary. → Đồng ý: dịch Freedom là Tự Do và lưu vào glossary.md. (orchestrator)

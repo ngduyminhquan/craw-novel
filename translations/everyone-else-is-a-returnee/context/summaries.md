@@ -1055,3 +1055,11 @@ Yu IlHan yên tâm khi thấy Trái Đất và các thế giới vận hành ổ
 Sau 2 tháng điên cuồng săn quái, anh hạ gục một con ác ma băng khổng lồ cấp 250 bằng sự phối hợp nhịp nhàng giữa Đại Khải Bạo Quân Bão Tuyết, Roi Hắc Long, Bát Vĩ Long Thương và Liệt Hỏa, qua đó tăng 9 cấp đạt mốc cấp 171.
 Bảng chỉ số thăng tiến vượt bậc với các kỹ năng thể chất như Quái Lực, Bật Nhảy và Siêu Việt Tái Sinh tăng mạnh giúp cơ thể có thể tự liền lại tức thì; các thiên thần kinh ngạc nhận định thế giới này có thể chưa từng thuộc quyền quản hạt của Thiên giới ngay từ lúc khai sinh.
 Cảnh kết thúc: Yu IlHan thản nhiên nướng thịt quái vật bằng Ngọn Lửa Vĩnh Cửu rồi mỉm cười nói với Erta rằng mình đã quá quen với việc chờ đợi, chính thức bước vào chuyến tham quan địa ngục dài hạn.
+
+## 172
+Yu IlHan tiếp tục săn Ác Ma Rung Biến Thái suốt 4 tháng rưỡi tại thế giới địa ngục, mổ xẻ lấy cơ quan ma pháp rung động và nướng quả cây Baobab kịch độc để rèn luyện Kháng Độc Cực Hạn cùng các kỹ năng chủ chốt.
+Anh nỗ lực dung hợp kiếm, roi và độn khí vào ngọn thương để lĩnh ngộ Đại Đoạn Vũ Trụ Thương trước khi chuyển chức lần 4 nhưng chưa thành; một đòn thương dồn trọng lượng độn khí xả bực bội vô tình chém toác mặt đất sâu hàng chục mét.
+Các thiên thần phát hiện mật độ mana dưới lòng đất đậm đặc hơn hẳn bề mặt nên giục anh dùng Súng Bắn Cọc và Tua Vít Tử Thần khoan sâu xuống tìm kiếm ánh sáng cứu rỗi và lập căn cứ địa.
+Tại một thế giới xa lạ, một thiên thần sa ngã thuộc Quân Đội Ánh Sáng Rực Rỡ bí mật triệu tập lính đánh thuê và thương nhân từ nhiều thế giới khác nhau, lôi kéo họ lập các ma pháp trận hòng phong tỏa sức mạnh Trái Đất và quyền năng Thượng Đế.
+Cảnh kết thúc: Tên thiên thần sa ngã mỉm cười tà ác tiết lộ tên gọi của ma pháp quy mô thế giới đó chính là "Tự Do".
+
