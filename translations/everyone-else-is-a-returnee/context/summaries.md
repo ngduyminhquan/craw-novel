@@ -1209,3 +1209,9 @@ Sau đó, IlHan chuyển Bách Nhãn sang quỹ đạo bám theo bề mặt kế
 Để tự mình rèn giũa kỹ năng chuẩn bị cho chuyển chức 4 thay vì phó mặc cho pháo đài, IlHan giương Hiệu Triệu Diệt Vong bay ra ngoài, kết hợp Ngọn Lửa Vĩnh Cửu, Liệt Hỏa và Long Huyết tạo vầng lửa chói lòa hơn cả mặt trời.
 Cảnh kết thúc: Vì quái vật không thể nhìn thẳng vào quầng sáng chói lọi nên kỹ năng Ẩn Thân tự động kích hoạt đưa anh vào cảnh giới "bậc thầy ẩn thân", IlHan cầm Bát Vĩ Long Thương lao vào càn quét sạch sẽ bầy quái vật giữa không trung.
 
+## 197
+Yumir dẫn dắt lũ trẻ sơ sinh Trái Đất sống sót sau Đại Tai Biến lần 1, cho chúng ăn thịt quái vật để tăng cấp thần tốc và bất ngờ học được kỹ năng Thống Trị, lập tức thu nhận 4 đứa mạnh nhất làm thuộc hạ đầu tiên.
+Cảm nhận được nhóm trẻ khác gặp nguy hiểm, Yumir dùng Ẩn Thân và phong thuật tập kích tiêu diệt con quái vật sương giá hơn mình 50 cấp, giải cứu thêm đồng đội và thu phục chúng bằng thịt quái vật nướng.
+Nhận ra lũ trẻ sống sót nhờ cơ thể hấp thụ mana và coi chúng như bậc đá lót đường để mạnh lên giống bố Yu IlHan, Yumir kiên trì bảo vệ và mở rộng quân đoàn.
+Cảnh kết thúc: Một năm sau, đội quân của Yumir đã phát triển lên 5.800 người với nhiều thành viên đạt chuyển chức 2, còn bản thân Yumir lột xác thành một con rồng chuyển chức 4 uy dũng sẵn sàng chở thuộc hạ tiếp tục hành trình.
+
