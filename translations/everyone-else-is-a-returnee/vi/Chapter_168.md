@@ -52,7 +52,7 @@ Nghĩa là, Yu IlHan thực chất chỉ đang tích lũy độ thuần thục k
 
 Trong khi Yu IlHan đang tận hưởng khoảng thời gian một mũi tên trúng hai đích vừa luyện kỹ năng vừa luyện kỹ năng, thì con golem lại cảm nhận được mối nguy khôn cùng khi cơ thể nó đang bị nghiền nát từng chút một. Ngay cả khi nó cố tái tạo cơ thể bằng cách hút các mảnh vụn trở lại, lũ con người nhỏ bé dưới chân nó vẫn liều mạng ngăn cản, khiến nó chẳng thể làm được!
 
-Thế nên, nó đành đưa ra một lựa chọn cực đoan. Lượng kỷ lục và mana khổng lồ mà nó đã tích tụ suốt một thời gian đằng đẵng trên ngọn núi đá này! — Tận dụng tất cả những thứ đó, nó đã tung ra một đòn con bài tẩy vốn dĩ bình thường nó không thể nào thi triển!
+Thế nên, nó đành đưa ra một lựa chọn cực đoan. Lượng kỷ lục và mana khổng lồ mà nó đã tích tụ suốt một thời gian đằng đẵng trên ngọn núi đá này! — Tận dụng tất cả những thứ đó, nó đã tung ra một đòn át chủ bài vốn dĩ bình thường nó không thể nào thi triển!
 
 "Hở?"
 
@@ -268,7 +268,7 @@ Một luồng nhiệt độ cao đến phi lý bùng lên trên ngọn thương,
 
 "U ô ô ô!"
 
-ẦMMMMM! Một vụ nổ không thể nào sánh bằng vụ nổ ban nãy nổ tung! Lượng ma thuốc nổ đã phát nổ một phần rải rác khắp các bộ phận trên cơ thể nó (bị phân tán do vụ nổ đầu tiên) chịu tác động từ Liệt Hỏa và gây ra một vụ nổ thứ cấp!
+ẦMMMMM! Một vụ nổ với quy mô vượt xa khi nãy bùng lên! Lượng ma thuốc nổ đã phát nổ một phần rải rác khắp các bộ phận trên cơ thể nó (bị phân tán do vụ nổ đầu tiên) chịu tác động từ Liệt Hỏa và gây ra một vụ nổ thứ cấp!
 
 [Khuô ô ô!]
 
@@ -284,7 +284,7 @@ Dù kháng tính thuộc tính hỏa của Yu IlHan có cao đến đâu, việc
 
 [Tôi hiểu cô lo lắng cho cậu ấy, nhưng đó là câu nói kích hoạt cờ tử vong trên núi tuyết đấy!] (Erta)
 
-Anh đã chịu đựng trong tình trạng đó bao lâu rồi? Đúng lúc Yu IlHan quyết định lấy ra một túi cheer pack mới, xung quanh bỗng chốc trở nên tĩnh lặng như thể mọi thứ chỉ là một trò đùa. Cho đến tận ban nãy, tai anh vẫn còn lùng bùng vì tiếng gầm rống của con golem, tiếng chuyển động nhộn nhạo từ bên trong cơ thể nó và rung chấn khắp nơi, nhưng giờ đây tất cả đều biến mất.
+Anh đã chịu đựng trong tình trạng đó bao lâu rồi? Đúng lúc Yu IlHan quyết định lấy ra một túi thức uống mới, xung quanh bỗng chốc trở nên tĩnh lặng như thể mọi thứ chỉ là một trò đùa. Cho đến tận ban nãy, tai anh vẫn còn lùng bùng vì tiếng gầm rống của con golem, tiếng chuyển động nhộn nhạo từ bên trong cơ thể nó và rung chấn khắp nơi, nhưng giờ đây tất cả đều biến mất.
 
 Ngay sau đó, dòng chữ báo hiệu chiến thắng khắc sâu lên võng mạc của anh.
 
@@ -350,7 +350,7 @@ Kể từ hôm nay trở đi, anh sẽ không thèm nhìn về hướng Lanpas l
 
 "Không sao đâu. Tôi cũng kiếm được điểm kinh nghiệm lẫn kim loại ma pháp rồi."
 
-Nàng hoàng nữ không dám ngẩng đầu lên trước mặt anh. Yu IlHan chẳng buồn đề cập đến việc đằng nào thì con golem cũng sẽ kích hoạt. Đối phương đã hạ mình khiêm nhường như vậy, anh thấy chẳng việc gì phải giảm bớt gánh nặng tâm lý cho cô ta cả.
+Nàng hoàng nữ không dám ngẩng đầu lên trước mặt anh. Yu IlHan chẳng buồn đề cập đến việc đằng nào thì con golem cũng sẽ kích hoạt. Đối phương đã hạ mình khiêm nhường như vậy, anh thấy chẳng việc gì phải giảm bớt gánh nặng tâm lý cho cô cả.
 
 Dù vậy, anh vẫn bày tỏ lời cảm ơn, nói rằng mình đã thu thập được rất nhiều nguyên liệu liên quan đến ma pháp công học.
 
@@ -370,7 +370,7 @@ Yu IlHan vừa nói vừa lấy ra một chiếc hộp L*ck&L*ck.
 
 Nàng hoàng nữ chẳng thể nào từ chối, đành nhận lấy chiếc hộp với vẻ mặt kỳ quặc. Sau đó, cô nhìn về phía Kang MiRae để cầu cứu. Kang MiRae nhận ra điều đó cũng lên tiếng.
 
-"Bọn tôi sẽ đợi người quay lại, nên người cứ đi đi ạ."
+"Bọn tôi sẽ đợi Điện hạ quay lại, nên Điện hạ cứ đi đi."
 
 "Kẻ phản bội!"
 
@@ -428,7 +428,7 @@ Yumir gật đầu, nhưng giọng cậu bé run run như thể có chút ấm �
 
 "Dạ không, đâu phải thế đâu ạ."
 
-Năng lực của anh tăng lên chỉ nhờ việc kề vai chiến đấu cùng cậu bé, và thằng bé cũng giáng một đòn chí mạng bằng Long Huyết, thế nên anh không thể bảo rằng Yumir không giúp ích gì được. Tuy nhiên, Yumir dường như không hài lòng với chỉ bấy nhiêu. Đúng là không hổ danh loài rồng.
+Năng lực của anh tăng lên chỉ nhờ việc kề vai chiến đấu cùng cậu bé, và bản thân anh cũng giáng được một đòn chí mạng bằng Long Huyết, thế nên anh không thể bảo rằng Yumir không giúp ích gì được. Tuy nhiên, Yumir dường như không hài lòng với chỉ bấy nhiêu. Đúng là không hổ danh loài rồng.
 
 "Con muốn trở nên mạnh hơn nữa. Con muốn chiến đấu thật nhiều và ăn thật nhiều."
 
@@ -456,7 +456,7 @@ Ngay lúc đó, những giọng nói thoang thoảng vọng lại. Có vẻ như
 
 Khi hai cha con bước ra khỏi phòng tắm, nàng hoàng nữ đã đứng chờ sẵn bên ngoài. Vẻ mặt đầy tự hào vì hoàn thành nhiệm vụ của cô trông khá ấn tượng.
 
-"Đây ạ, tôi đã đích thân xếp đầy đủ từng món một vào rồi! Đích thân tôi đấy nhé! Dành riêng cho anh Yu IlHan thôi!"
+"Đây này, tôi đã đích thân xếp đầy đủ từng món một vào rồi! Đích thân tôi đấy nhé! Dành riêng cho anh Yu IlHan thôi!"
 
 "Tuyệt vời!"
 
@@ -472,7 +472,7 @@ Yu IlHan đón lấy viên ngọc. Anh cũng kiểm tra thông tin của nó, nh
 
 "...Tôi hiểu rồi."
 
-Anh không ngờ tới điều này, nhưng xem ra cô ta vẫn còn cảm giác áy náy tội lỗi.
+Anh không ngờ tới điều này, nhưng xem ra cô vẫn còn cảm giác áy náy tội lỗi.
 
 Mà cũng phải thôi, bởi dẫu cho những chuyện như thế này là cơm bữa đối với Yu IlHan, thì đối với cô, đó lại là một thảm họa cả mấy trăm năm mới có cơ hội xảy ra một lần. Việc cô nghĩ rằng Yu IlHan có ấn tượng đầu tiên tồi tệ về đế quốc cũng là điều dễ hiểu.
 

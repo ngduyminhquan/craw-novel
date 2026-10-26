@@ -170,9 +170,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | reviewed |  |
 | 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | reviewed |  |
 | 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | reviewed |  |
-| 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | done |  |
-| 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | done |  |
-| 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | done |  |
+| 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | reviewed |  |
+| 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | reviewed |  |
+| 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | reviewed |  |
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | todo |  |
 | 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | todo |  |
 | 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | todo |  |
@@ -809,3 +809,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#164] Xưng hô của Yu IlHan với Kang MiRae ở chương 164 → Dùng cô MiRae theo pronouns.md (từ chương 122), thay cho tiểu thư MiRae. (orchestrator)
 - [#166] Tiếng gầm golem [Guoooooooooooh!] và [Kuoooooooh!] trong ngoặc vuông → Đồng ý: giữ nguyên tiếng gầm trong ngoặc vuông theo ngữ cảnh. (orchestrator)
 - [#166] Thành ngữ 'first world problems' khi nhận xét về Na YuNa → Đồng ý: dịch thoát ý tự nhiên theo văn cảnh. (orchestrator)
+- [#167] Tiêu đề chương 167 trong chuỗi arc I am the Centre of the World → Đổi thành # Chương 167: Tôi Là Trung Tâm Của Thế Giới VIII cho đồng bộ với chương 160–166. (orchestrator)
+- [#167] Tiếng gầm golem trong ngoặc vuông ở chương 167 → Chuẩn hóa theo raw tiếng Anh ([Kuwoooooooh!], [Guwoooooooh!]...) đồng bộ với chương 166 và 168. (orchestrator)
+- [#168] Xưng hô của Kang MiRae với Hoàng nữ Irma ở đoạn 186 → Đổi thành Điện hạ cứ đi đi theo đúng phong thái đối tác bình đẳng trong pronouns.md. (orchestrator)

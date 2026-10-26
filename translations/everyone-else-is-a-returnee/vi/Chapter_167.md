@@ -1,4 +1,4 @@
-# Chương 167: Ta Là Trung Tâm Của Thế Giới VIII
+# Chương 167: Tôi Là Trung Tâm Của Thế Giới VIII
 
 Trong khi con golem không hề nhận ra Yu IlHan đang ẩn thân mà gầm vang, Liera cất tiếng hỏi anh bằng giọng chán chường.
 
@@ -84,7 +84,7 @@ Một tuyệt tác được tạo nên với ý niệm hồi phục độ bền,
 
 Anh chẳng ngờ mình lại phải phơi bày con bài tẩy ở đây. Đã vậy, đối thủ lại là một con quái vật còn tệ hại hơn cả Ác Ma Rung Biến Thái!
 
-[Gừ oà oà oà oà oà!]
+[Kuwoooooooh!]
 
 [IlHan, trông như nó sắp cử động rồi! Nó đang run lên kìa!] (Liera)
 
@@ -104,7 +104,7 @@ Dù kích cỡ đó cũng đủ làm người ta rớt hàm kinh ngạc... nhưn
 
 Yu IlHan nhanh chóng đưa ra phán đoán. Anh phải tung một đòn chí mạng bằng đòn đánh lén, nhưng uy lực nấc 6 thì không đủ. Dù việc tốn ma thạch để hồi độ bền có hơi lãng phí, nhưng lúc này anh phải liều lĩnh tung đòn tấn công nấc 7 thôi.
 
-[Gừ oà oà oà oà oà!]
+[Guwoooooooh!]
 
 Mặt khác, sau khi gầm lên một tiếng nữa, tên titan khổng lồ bắt đầu chầm chậm chuyển động. Nhóm của Hoàng nữ, những người đã dàn trận hình phòng thủ và bắt đầu niệm ma pháp tấn công, dường như sợ chết trân trước gã titan đang di chuyển vượt xa cảnh giới tưởng tượng của họ.
 
@@ -128,7 +128,7 @@ Anh phải triển khai Quái Lực, dồn hết sức bình sinh để vặn xo
 
 "Oa, to kinh khủng!"
 
-"Thưa Điện hạ, chuyện này xảy ra là do cô, không phải do anh ấy."
+"Thưa Điện hạ, chuyện này xảy ra là do Điện hạ, không phải do anh ấy."
 
 "Dù ta chẳng có ý định phủ nhận trách nhiệm của mình, nhưng có nhất thiết phải nói thế vào lúc chúng ta sắp chết cả lũ thế này không hả!? Cô thương ông xã mình ghê nhỉ!"
 
@@ -154,7 +154,7 @@ Và rồi đến một khoảnh khắc, một tiếng cạch vang lên báo hi�
 
 Ngay cả đòn đánh mạnh nhất của Kang MiRae dưới sự hỗ trợ từ bùa lợi của Na YuNa cũng chỉ cắn đứt nổi một ngón chân của nó. Thực tế đó đã là một uy lực gây sốc rồi, nhưng lần này kẻ địch lại quá đỗi mạnh mẽ.
 
-[Gừ oà oà oà oà oà oà!]
+[Kuguooooooooh!]
 
 Tên titan khựng lại một thoáng, trước khi nhấc chân bước tới...
 
@@ -162,7 +162,7 @@ Tên titan khựng lại một thoáng, trước khi nhấc chân bước tới.
 
 ...nhưng không thành, bởi Yu IlHan đã bay vụt lên đỉnh đầu nó và giáng mạnh chiếc Súng Bắn Cọc xuống, ngay trên đỉnh sọ!
 
-Đúng lúc đó, Ngọn Lửa Vĩnh Cửu kích nổ lượng thuốc súng ma pháp tích trữ bên trong viên đạn tạo nên một vụ nổ kinh thiên động địa, và cùng lúc viên đạn rực lửa được bắn ra, nấc 7 của Dây Thun Khổng Lồ bật tung trong chớp mắt để gia tăng thêm một tầng lực đẩy!
+Đúng lúc đó, Ngọn Lửa Vĩnh Cửu kích nổ lượng ma thuốc nổ tích trữ bên trong viên đạn tạo nên một vụ nổ kinh thiên động địa, và cùng lúc viên đạn rực lửa được bắn ra, nấc 7 của Dây Thun Khổng Lồ bật tung trong chớp mắt để gia tăng thêm một tầng lực đẩy!
 
 [Khuặcccc!]
 
@@ -180,7 +180,7 @@ Kết quả từ việc tiêu hao 10.000 độ bền tối đa của Súng Bắn
 
 Thêm vào đó, mũi của đầu đạn vẫn đang cháy rực, khiến con golem liên tục phải chịu sát thương.
 
-[Gừ oà oà oà oà oà! Khà a a a a a!]
+[Kuwooooooooh! Kuhaaaaah!]
 
 Con golem gầm rống mà không thể lấy lại tỉnh táo. Phải chăng nó cũng cảm thấy đau đớn dù là một sinh mệnh nhân tạo? Cho dù không biết đau, thì chắc chắn nó cũng phản ứng vô cùng nhạy cảm với việc bị mất đi các bộ phận trên cơ thể.
 
@@ -272,17 +272,17 @@ Ngay đó, găm sâu trong cơ thể con golem, là một chiếc đinh ốc b�
 
 Yu IlHan dồn hết sức cắm phập chiếc Tua Vít Tử Thần xuống — Cạch! Cùng với âm thanh đó, chiếc đinh ốc xương bên trong thân thể golem và Tua Vít Tử Thần khớp lại hoàn hảo với nhau.
 
-[G-Gừ oà oà oà oà oà!]
+[G-Guwoooooooh!]
 
 Có lẽ do cảm nhận theo bản năng về mối nguy diệt vong sắp ập tới, nó bắt đầu lồng lộn lên trong khi gầm thét như điên dại. Thế nhưng Yu IlHan từ lâu đã nắm vững nghệ thuật đứng vững như bàn thạch trên đỉnh một con quái vật đang cuồng loạn!
 
-"TA LÀ TA!! Yu IlHan Thợ Đào Mỏ!"
+"TA LÀ TA!! Yu IlHan Thợ Đào!"
 
 [Cậu có phải thợ đào đâu!] (Liera)
 
 Bỏ ngoài tai mấy lời châm chọc vụn vặt, Yu IlHan nắm chặt cán Tua Vít Tử Thần rồi rót mana vào đó — toàn bộ mana, bao gồm cả phần đã gia tăng nhờ ăn bánh quy nhồi ma pháp!
 
-[Khu, khừ oà oà oà oà oà!]
+[Ku, Kuuoooooooh!]
 
 Khi Tua Vít Tử Thần bắt đầu xoay tròn kèm theo âm thanh vang dội, chiếc đinh ốc xương nối liền với nó đương nhiên cũng xoay tít theo. Vì trong quá trình chế tạo Súng Bắn Cọc, Yu IlHan đã tạo ra các rãnh xoắn ốc trên đinh ốc xương như một chiếc đinh ốc thực thụ, nên một khi nó bắt đầu chuyển động, thân thể con golem liền bị nghiền nát từng mảng.
 
@@ -290,7 +290,7 @@ Khi Tua Vít Tử Thần bắt đầu xoay tròn kèm theo âm thanh vang dội,
 
 Thân thể con golem cứng hơn bất kỳ khúc xương sinh vật nào anh từng đối mặt từ trước tới nay, nhưng lúc này, chiếc đinh ốc xương không chỉ găm sâu vào trong mà còn phát hỏa làm suy yếu kết cấu xung quanh. Chiếc đinh ốc xương vừa phun lửa vừa xoay tròn với tốc độ điên cuồng, khoan xuyên qua người con golem ngày một nhanh hơn theo thời gian.
 
-[Khu oà oà a a a a a a!]
+[Kuwuahhhhhhhh!]
 
 "Mũi khoan của ta là mũi khoan sẽ xuyên thủng trời cao!"
 

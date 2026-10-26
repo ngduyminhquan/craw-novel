@@ -152,7 +152,7 @@ Kang MiRae lập tức gật đầu và giải thích thêm.
 
 Chiếc phi thuyền được chuẩn bị tại bãi cất cánh ở một góc hoàng thành không lớn như anh tưởng tượng, nhưng nó sở hữu vẻ bề ngoài vô cùng kiên cố và tuyệt đẹp.
 
-"Kinh ngạc thật đấy. Các người đã Chế Tác Mana lên chính ma thạch luôn."
+"Kinh ngạc thật đấy. Các cô đã Chế Tác Mana lên chính ma thạch luôn."
 
 Yu IlHan thốt lên kinh ngạc khi kiểm tra các tạo tác khác nhau được lắp đặt theo vai trò của chúng ở nhiều vị trí trên phi thuyền. Khi Chế Tác Mana lên chính ma thạch, nó có xác suất cao hơn trong việc truyền tải sức mạnh chứa đựng bên trong ma thạch, đồng thời còn giúp ma thạch tỏa ra mana một cách ổn định hơn.
 
@@ -254,7 +254,7 @@ Lúc này Yu IlHan đang đọc câu văn cuối cùng trên tấm bia đá.
 
 "(Ta để lại nơi này tinh hoa ma pháp công học mà cả đời ta đã tận tụy nghiên cứu. Ta mong hậu bối có thể thấy được điểm tận cùng của ma pháp công học, điều mà vì tài năng có hạn, ta thậm chí chẳng thể thoáng nhìn thấy được.)"
 
-Tấm bia đá phát ra ánh sáng xanh lam rực rỡ. Nối tiếp theo đó, con đường làm bằng kim loại trắng bắt đầu rung chuyển và ánh sáng ngày một mãnh liệt hơn. Kỹ thuật Chế Tác Mana cao cấp đã vượt qua thời gian để bắt đầu thở lại một lần nữa!
+Tấm bia đá phát ra ánh sáng xanh lam rực rỡ. Nối tiếp theo đó, con đường làm bằng kim loại trắng bắt đầu rung chuyển và ánh sáng ngày một mãnh liệt hơn. Kỹ thuật Chế Tác Mana cao cấp đã vượt qua thời gian để hồi sinh trở lại một lần nữa!
 
 Yu IlHan giải thích cho nhóm của MiRae.
 
