@@ -4,7 +4,7 @@
 
 "Oa, nếu lúc nào anh cũng dịu dàng thế này thì em đã đổ anh từ lâu rồi."
 
-Yu IlHan liên tục gọi cô vì sợ rằng cô sẽ biến mất hoàn toàn, nhưng nhân vật chính trong câu chuyện lại tỏ ra vô cùng bình thản.
+Yu IlHan liên tục gọi cô vì sợ rằng cô sẽ biến mất hoàn toàn, nhưng bản thân cô nàng lại tỏ ra vô cùng bình thản.
 
 "Em không chết đâu, nên anh không phải lo."
 
@@ -142,7 +142,7 @@ Phải mất một lúc thì Liera mới có thể nghiêm túc lên tiếng v�
 
 [Nhưng người phụ nữ đó thích cậu mà, đúng không? Nên cô ta mới chớp lấy cơ hội để đóng dấu chủ quyền. Để cậu không còn phải nghi ngờ nữa. Để cậu hoàn toàn tin chắc vào điều đó.]
 
-Nói đoạn, Liera bật cười. Vừa bực bội khi thấy Yu IlHan bị hạ đo ván như thế; nhưng ở một khía cạnh nào đó, cô lại thấy Na YuNa cũng thật đáng yêu.
+Nói đoạn, Liera bật cười. Dù bực bội khi thấy Yu IlHan bị hạ đo ván như thế, nhưng ở một khía cạnh nào đó, cô lại thấy Na YuNa cũng thật đáng yêu.
 
 [Lại đi nghĩ rằng cậu sẽ tin vào tình cảm của cô ta chỉ nhờ một nụ hôn cỏn con. Đúng là đồ trẻ con mà. Xem ra cô ta được nuôi nấng trong nhung lụa từ bé thật đấy.]
 

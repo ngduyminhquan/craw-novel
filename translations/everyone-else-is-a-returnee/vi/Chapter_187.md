@@ -2,7 +2,7 @@
 
 Hai năm trước, chỉ cần dùng hai bàn tay là đếm xuể số người vượt qua cấp 80, nhưng tình thế đã đổi thay sau Đại Tai Biến lần 2 cũng như qua những đợt giao lưu với các thế giới khác, khiến nhân loại trên Trái Đất mạnh lên nhanh chóng. Và tương ứng với điều đó, họ đã mở ra cổng kết nối tới ngần ấy thế giới.
 
-Điều đó đã góp phần to lớn giúp Trái Đất chuyển mình đúng hướng, đồng thời mang lại sự phồn vinh cho Vanguard, Gangnam và Hàn Quốc; song đồng thời, nó cũng đem đến nỗi thống khổ cho đám người Kang MiRae, những người phải gạn lọc qua toàn bộ các thế giới ấy bởi một số nơi có nguy cơ tiềm ẩn hiểm họa.
+Điều đó đã góp phần to lớn giúp Trái Đất chuyển mình đúng hướng, đồng thời mang lại sự phồn vinh cho Vanguard, Gangnam và Hàn Quốc; song đồng thời, nó cũng đem đến nỗi thống khổ cho nhóm Kang MiRae, những người phải gạn lọc qua toàn bộ các thế giới ấy bởi một số nơi có thể tiềm ẩn hiểm họa.
 
 "Hóa ra người Trái Đất đã mạnh lên thật sự rồi. Tôi chưa từng nghĩ họ lại kết nối tới hơn ba mươi nghìn thế giới như thế."
 
@@ -18,7 +18,7 @@ Na YuNa thở dài trước câu trả lời của Yu IlHan.
 
 "Oa!"
 
-Yu IlHan tin chắc rằng Quân Đội Ánh Sáng Rực Rỡ đang mưu tính một âm mưu nào khác, song điều đó không có nghĩa là anh có thể làm được gì nhiều ngoài việc tập trung phá hủy các ma pháp trận cùng Na YuNa. Kết quả là chỉ trong vỏn vẹn ba ngày, họ đã phá hủy được hơn 150 ma pháp trận.
+Yu IlHan tin chắc rằng Quân Đội Ánh Sáng Rực Rỡ đang ấp ủ một âm mưu nào khác, song điều đó không có nghĩa là anh có thể làm được gì nhiều ngoài việc tập trung phá hủy các ma pháp trận cùng Na YuNa. Kết quả là chỉ trong vỏn vẹn ba ngày, họ đã phá hủy được hơn 150 ma pháp trận.
 
 Ma pháp trận chứa đựng ghi chép, và vì có thể thu thập từng mẩu nhỏ mỗi khi phá hủy chúng, Yu IlHan ngày càng giải mã được nhiều hơn về cấu trúc của các ma pháp trận theo thời gian.
 
@@ -42,7 +42,7 @@ Một tuần đã trôi qua kể từ chiến thắng đầu tiên trước thi�
 
 Dĩ nhiên, anh không thể thu được ma thạch từ chúng, nhưng việc thu hoạch được thể xác của chúng cũng đủ khiến anh vô cùng mãn nguyện. Nhờ thế, anh có thể tạo nên 'nền tảng' cho thứ vũ khí toàn năng hằng mơ ước.
 
-"Nhưng ngoài việc không có cánh ra thì trông họ giống hệt con người mà. Anh định làm gì với chúng thế?"
+"Nhưng ngoài việc không có cánh ra thì trông họ giống hệt con người mà. Anh định làm gì với họ thế?"
 
 "Ý cô 'làm gì' là sao chứ. Tôi chỉ việc rã cánh, da, thịt, cơ bắp và máu của chúng ra, rồi tìm hiểu công dụng thôi."
 

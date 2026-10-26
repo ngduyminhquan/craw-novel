@@ -40,11 +40,11 @@ Trái Đất có thể trực tiếp lẫn gián tiếp thu thập ghi chép c�
 
 "Chuyện đó khả thi sao?"
 
-[Nếu là bất kỳ thế giới nào khác thì không thể, nhưng đúng như cậu nói, với một Trái Đất đã hấp thụ lượng lớn ghi chép khổng lồ như hiện tại thì hoàn toàn có thể. Nó sẽ đạt tới một thế giới bậc cao bằng cách tự mình phát triển.]
+[Nếu là bất kỳ thế giới nào khác thì không thể, nhưng đúng như cậu nói, với một Trái Đất đã hấp thụ một lượng ghi chép khổng lồ như hiện tại thì hoàn toàn có thể. Nó sẽ đạt tới một thế giới bậc cao bằng cách tự mình phát triển.]
 
 Nghe vậy, Yu IlHan thấy chua xót trong lòng. Tự mình phát triển trong cô độc? Chẳng phải điều đó cũng tương tự như con đường anh đang theo đuổi sao?
 
-Điểm khác biệt lớn nhất là, không giống như Yu IlHan sở hữu tài năng trơ trọi giữa biển người đông đúc, Trái Đất lại tống khứ hết tất cả những kẻ khác chỉ vì muốn được ở một mình. Quy mô của nó lớn đến mức khiến anh thậm chí chẳng thể nổi giận nổi.
+Điểm khác biệt lớn nhất là, không giống như Yu IlHan sở hữu tài năng trơ trọi giữa biển người đông đúc, Trái Đất lại tống khứ hết tất cả những kẻ khác chỉ vì muốn được ở một mình. Quy mô của nó lớn đến mức khiến anh thậm chí chẳng thể nào giận nổi.
 
 Vì cách tạo cổng bằng vòng xoáy không khả thi, phương án duy nhất còn lại là Dịch Chuyển. Anh không muốn dùng chiêu này vì tiêu tốn quá nhiều tài nguyên, nhưng lúc này chẳng còn hơi đâu mà bận tâm điều đó.
 
@@ -114,7 +114,7 @@ Yu IlHan nghiêng đầu nhìn Liera. Anh lúc nào cũng cằn nhằn về vi�
 
 [...Không phải là không có cách. Cậu chỉ cần biến Trái Đất thành một thế giới bậc cao. Khi đó, Trái Đất tự nhiên sẽ rộng mở cho tất cả và trở thành một chiến trường, nhưng dù sao đi nữa, người Trái Đất cũng sẽ có thể trở về quê hương. Họ sẽ được trao quyền lựa chọn: trở về Trái Đất, hoặc tiếp tục sinh sống ở thế giới kia.]
 
-Và lạ lùng thay, lần này Liera lại đưa ra được một câu trả lời rõ ràng. Cái từ ngữ mà Yu IlHan từng dặn cô đừng có thả thính lung tung: thế giới bậc cao. Nực cười thay, đó lại chính là từ duy nhất anh có thể bấu víu vào lúc này.
+Và lạ lùng thay, lần này Liera lại đưa ra được một câu trả lời rõ ràng. Cái từ ngữ mà Yu IlHan từng dặn cô đừng có quăng mồi câu nữa: thế giới bậc cao. Nực cười thay, đó lại chính là từ duy nhất anh có thể bấu víu vào lúc này.
 
 "Dễ thôi. Nói trắng ra là tôi chỉ việc đập tan tành mọi thứ."
 
@@ -140,7 +140,7 @@ Tuy nhiên, Yu IlHan đã gạt phắt lời cô. Thật khó tin khi nghĩ rằ
 
 [Bằng cách nào...?]
 
-"Tôi sẽ cứ tự mình làm một mình thôi. Cho đến nay tôi đã làm như thế, và sau này cũng sẽ như vậy."
+"Tôi sẽ cứ tự mình gánh vác thôi. Cho đến nay tôi đã làm như thế, và sau này cũng sẽ như vậy."
 
 [....]
 
@@ -160,7 +160,7 @@ Nghĩ đến đó, Yu IlHan chợt nhận ra điều gì đó rồi tự đập 
 
 "Không, Liera à. Cô luôn ở bên cạnh tôi mà. Tôi lại suýt nữa quên mất điều đó rồi."
 
-[Phải, đừng quên đấy. Tôi sẽ luôn ở bên cạnh cậu. Điều này đã được định đoạt từ một nghìn năm trước rồi.] Liera đỏ mặt đáp lời. Khác với một nghìn năm trước, hiện tại mọi liên lạc với Thiên giới đã bị cắt đứt nên cô thậm chí chẳng thể liên hệ với họ. Họ hoàn toàn bị cô lập, nhưng dẫu vậy, cô chẳng hề cảm thấy lo sợ gì. Đã từ rất lâu rồi, Yu IlHan đã trở thành ưu tiên lớn nhất trong cuộc đời cô.
+[Phải, đừng quên đấy. Tôi sẽ luôn ở bên cạnh cậu. Điều này đã được định đoạt từ một nghìn năm trước rồi.] Liera đỏ mặt đáp lời. Khác với một nghìn năm trước, hiện tại mọi liên lạc với Thiên giới đã bị cắt đứt nên cô thậm chí chẳng thể liên hệ với họ. Họ hoàn toàn bị cô lập, nhưng dẫu vậy, cô chẳng hề cảm thấy lo sợ gì. Từ rất lâu rồi, Yu IlHan đã trở thành ưu tiên lớn nhất trong cuộc đời cô.
 
 "Vậy thì bây giờ."
 

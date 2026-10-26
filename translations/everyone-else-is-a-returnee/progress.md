@@ -191,9 +191,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | reviewed |  |
 | 185 |  | Chapter_185 - The Path I Walk – 3.txt | The Path I Walk – 3 | reviewed |  |
 | 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | reviewed |  |
-| 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | done |  |
-| 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | done |  |
-| 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | done |  |
+| 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | reviewed |  |
+| 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | reviewed |  |
+| 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | reviewed |  |
 | 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | todo |  |
 | 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | todo |  |
 | 192 |  | Chapter_192 - I Create – 2.txt | I Create – 2 | todo |  |
