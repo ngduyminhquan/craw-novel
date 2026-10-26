@@ -28,7 +28,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon) | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
-| Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
+| Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
 | Liera |  | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
 | Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
@@ -355,10 +355,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Hiếu thắng, ích kỷ, coi trọng danh tiếng và quyền lợi cá nhân hơn tính mạng người khác; sẵn sàng hy sinh các clan nhỏ để làm bàn đạp trục lợi cho mình.
 - Trạng thái tính đến chương 72: Chỉ huy clan Metal Knights tác chiến tại quận Nerima (Tokyo); tức tối vì bị Yu IlHan (Susanoo) cướp sạch quái vật chuyển chức 2; lên kế hoạch lôi kéo các clan quy mô nhỏ làm mồi nhử chết thay để trục lợi danh vọng.
 - Trạng thái tính đến chương 82: Đại diện Clan Metal Knights tới mua trang bị tại Vanguard; miễn cưỡng hùa theo các clan khác ngỏ ý bảo hộ Yu IlHan với vẻ mặt nhăn nhó; sững sờ trước chất lượng và mức giá tạo tác Độc Nhất của IlHan.
+- Trạng thái tính đến chương 153: Thỏa thuận chia đôi lực lượng hoán đổi thành viên với clan Magia để vừa bảo vệ Anh vừa hỗ trợ Ý trong Đại Tai Biến lần 2; tại London, dũng cảm dùng thanh đại kiếm phẩm cấp Độc Nhất mua từ Vanguard dồn toàn bộ mana liều mạng chém vỡ vòng xoáy mana để bảo vệ các pháp sư, sau đó ngỡ ngàng phát hiện cánh cổng kết nối trở lại thế giới Melotra nơi gã từng tu luyện 10 năm.
 
 ### Carina Malatesta
 - Giới tính, vai trò: Nữ, quý cô quý tộc kiêu kỳ, chủ clan (Lord of Magia) của Clan Magia đến từ Ý.
 - Trạng thái tính đến chương 73: Bắt tay lập tổ đội tạm thời với Michael Smithson (Metal Knights) kết hợp ma pháp hùng mạnh với phòng thủ kiên cố để cùng chống lại bầy quái vật dị biến chuyển chức 3 và 4 bảo vệ Trái Đất.
+- Trạng thái tính đến chương 153: Phối hợp cùng các thành viên clan Metal Knights tác chiến tại Ý; thi triển ma pháp Đại Bạo Tạc dọn sạch quái vật quanh vòng xoáy mana và ngỡ ngàng khi vòng xoáy biến thành cánh cổng dẫn tới thế giới cũ gặp lại sư phụ dạy ma pháp kiêm Cung Đình Ma Pháp Sư của mình.
 
 ### Takagaki Asuha
 - Giới tính, vai trò: Nữ, chủ clan (Clan Master) của Clan Ma Long (Magic Dragon Clan) đến từ Nhật Bản.

@@ -542,7 +542,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Caycicle Clan |  | Clan Caycicle | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |
 | Gigantic Thunder |  | Cự Lôi | kỹ năng | 111 | Ma pháp lôi hệ cực mạnh của Kang MiRae |
 | Great Chain Lightning |  | Đại Lôi Dây Chuyền | kỹ năng | 111 | Ma pháp lôi hệ cấp cao của Carina Malatesta |
-| Concentrate magic |  | Ma pháp Tụ Lực | kỹ năng | 111 | Ma pháp liên kết của clan Magia dồn mana các pháp sư vào ma thạch để Carina phóng thích |
+| Concentrate magic | Concentrated magic | Ma pháp Tụ Lực | kỹ năng | 111 | Ma pháp liên kết của clan Magia dồn mana các pháp sư vào ma thạch để Carina phóng thích |
 | Great Dark Wolf |  | Đại Hắc Lang | quái vật | 111 | Quái vật sói chuyển chức 3 cấp 161 từ Thế Giới Bị Bỏ Rơi xông ra cổng hầm ngục |
 | Infant Dragon |  | Tiểu Long | quái vật | 112 | Chủng tộc / chức nghiệp tiến hóa của Yumir từ Baby Dragon (thể hình lớn lên tương đương 4–5 tuổi) |
 | Kiroa |  | Kiroa | địa danh | 113 | Tên Thế Giới Bị Bỏ Rơi nơi Lang tộc sinh sống sau Đại Tai Biến lần 2 |
@@ -620,3 +620,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Demigod rank |  | Bán Thần | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Hỗn Loạn và dưới Thần |
 | Eternal rank |  | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
 | Normal rank |  | Bình Thường | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm cơ bản nhất (thứ tự phẩm cấp: Bình Thường -> Hiếm -> Độc Nhất -> Truyền Thuyết -> Sử Thi -> Hỗn Loạn -> Bán Thần -> Thần -> Vĩnh Cửu) |
+| Great Explosion |  | Đại Bạo Tạc | kỹ năng | 153 | Ma pháp công kích bộc phá cực mạnh do Carina Malatesta thi triển |
+| Milan |  | Milan | địa danh | 153 | Thành phố ở Ý, nơi Carina Malatesta cùng clan chuẩn bị tới chi viện |
+| London |  | London | địa danh | 153 | Thủ đô nước Anh, nơi Michael Smithson cùng clan Metal Knights chiến đấu |
+| Melotra |  | Melotra | địa danh | 153 | Thế giới khác nơi Michael Smithson từng trải qua 10 năm chuyển sinh |
+| Mister Unique |  | Quý ngài Độc Nhất | khác | 153 | Biệt danh Michael Smithson dùng để gọi Yu IlHan (người bán trang bị phẩm cấp Độc Nhất của Vanguard) |

@@ -940,6 +940,12 @@ Dinh thự được tạo tác thành công thành pháo đài chiến đấu ph
 Cơn đau đầu dữ dội do khối tri thức khổng lồ tràn vào chưa kịp dứt thì màn hình an ninh của dinh thự phát hiện hàng ngàn quái vật bị thu hút bởi luồng mana nồng đậm đang ồ ạt kéo đến.
 Cảnh kết thúc: Bất chấp sự can ngăn của các thiên thần, IlHan kiên quyết ngồi vào bàn chỉ huy lệnh cho thuộc hạ nghênh chiến, chính thức mở màn trận chiến phòng thủ đại dinh thự đầy hoành tráng trong ngày đầu của Đại Tai Biến lần 2.
 
+## 153
+Trong ngày đầu của Đại Tai Biến lần 2, Clan Magia và Clan Metal Knights phối hợp tác chiến sau khi Carina Malatesta và Michael Smithson thỏa thuận chia đôi lực lượng hoán đổi cho nhau để cùng bảo vệ Ý và Anh; tại Ý, trước một vòng xoáy mana khổng lồ nghi là Hiện Tượng Tràn, Carina kích hoạt Ma pháp Tụ Lực cùng đồng đội thi triển 'Đại Bạo Tạc' san phẳng quái vật, nhưng vòng xoáy lại biến thành cánh cổng không gian dẫn tới thế giới cũ nơi sư phụ ma pháp của cô thò đầu ra nhìn.
+Cùng lúc đó tại thủ đô London (Anh), Michael Smithson một mình nhận trách nhiệm cản hậu, dốc toàn lực dùng thanh đại kiếm phẩm cấp Độc Nhất mua từ Vanguard chém đứt vòng xoáy mana bảo vệ các pháp sư và quê hương; sau vụ nổ, cánh cổng mở ra nối liền thế giới Melotra nơi người quen cũ của gã đang luyện tập ngơ ngác nhìn sang.
+Cả Carina lẫn Smithson đều ngỡ ngàng nhận ra những vòng xoáy mana kỳ lạ trên Trái Đất không phải là Hiện Tượng Tràn quái vật, mà là quá trình chuẩn bị khai mở các cánh cổng kết nối Trái Đất với các thế giới khác mà dị năng giả từng gắn kết trong 10 năm qua.
+Cảnh kết thúc: Trong lúc các cánh cổng không gian liên tục mở ra khắp thế giới, Yu IlHan cùng nhóm bạn tại Gangnam vẫn đang mải mê trong trận chiến phòng thủ đại dinh thự và hoàn toàn không hay biết biến cố chấn động này.
+
 
 
 
