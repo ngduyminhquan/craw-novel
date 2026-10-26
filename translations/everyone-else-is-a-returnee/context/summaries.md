@@ -1123,6 +1123,13 @@ Cả nhóm thống nhất chia nhau ra phá hủy các ma pháp trận bí mật
 Cả nhóm hay tin Daréu đang đối mặt với Đại Tai Biến lần 4 và toàn bộ tộc Lang tộc Kiroa đã sang tiếp viện cho các elf; IlHan thở phào khi biết họ đều được trang bị vật phẩm Truyền Thuyết trở lên và dinh thự luôn duy trì cổng rút lui an toàn.
 Cảnh kết thúc: IlHan chia cho mẹ Kim YeSeul, Kang MiRae và Na YuNa hàng loạt trang bị phẩm cấp Sử Thi cùng phụ kiện Truyền Thuyết 5 dòng thuộc tính chế tạo từ hầm ngục, đồng thời tiết lộ bộ giáp và Aegis của mình cũng đã tự phát triển lên phẩm cấp Sử Thi khiến mọi người cạn lời kinh ngạc.
 
+## 183
+Yu IlHan và Na YuNa bắt đầu nhiệm vụ dò tìm và phá hủy ma pháp trận bí mật; Na YuNa dùng thánh lực và sự ban phước của Nữ Thần Leytna định vị thành công ma pháp trận ở cự ly xa trên một thế giới rộng gấp đôi Trái Đất.
+Yu IlHan bế bổng Na YuNa rồi kết hợp kỹ năng Bật Nhảy đạt mức tinh thông cùng sóng xung kích từ cánh Hiệu Triệu Diệt Vong bay xuyên không trung, rút ngắn thời gian di chuyển từ hơn 1 tháng xuống còn vỏn vẹn 6 phút.
+Phát hiện một thiên thần sa ngã chuyển chức 5 thuộc Quân Đội Ánh Sáng Rực Rỡ đang lén lút canh chừng gần ma pháp trận, IlHan nhận bùa lợi tăng 30% sức mạnh từ Na YuNa rồi duy trì Ẩn Thân tiếp cận, dùng Súng Bắn Cọc nạp tầng 6 giáng đòn Chí Mạng phá tan ma pháp trận trong một nốt nhạc khiến Na YuNa kinh ngạc.
+Cảnh kết thúc: Trên đường bay thong thả trở về trong vòng tay IlHan, Na YuNa thẳng thắn bày tỏ sự rung động và cảm tình ngày càng lớn dành cho anh; trong khi đó IlHan vừa bay vừa phóng thương định kỳ để rèn luyện kỹ năng Tử Thần trong trạng thái Ẩn Thân, bí mật nhắm thẳng vào lưng tên thiên thần sa ngã đang bay vô định phía sau.
+
+
 
 
 

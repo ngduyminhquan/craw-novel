@@ -202,6 +202,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 180: Chế tạo vòng đội đầu Sử Thi phòng hộ 2 đòn tấn công của thực thể cấp cao tặng Na YuNa; nắm bắt thông tin Trái Đất chuẩn bị bùng nổ Đại Tai Biến lần 3 sau 1–3 tháng; hội ngộ mẹ Kim YeSeul tại dinh thự Bittersweet Persona.
 - Trạng thái tính đến chương 181: Khả năng vận dụng Đồng Hồ Cát Vĩnh Hằng được nâng cấp (giảm thời gian trễ, tăng thời lượng và mở rộng phạm vi kết giới bao trùm toàn bộ khu vực); gia nhập đội phá hủy ma pháp trận bí mật; chuẩn bị tâm lý đón đầu cuộc chiến giữa các phe thực thể cấp cao khi Trái Đất sắp trở thành thế giới bậc cao.
 - Trạng thái tính đến chương 182: Chia sẻ trang bị phẩm cấp Sử Thi và phụ kiện Truyền Thuyết 5 dòng thuộc tính chế tạo từ hầm ngục cho mẹ Kim YeSeul, Kang MiRae và Na YuNa; bộ giáp và Aegis tự phát triển lên phẩm cấp Sử Thi; chuẩn bị cùng Na YuNa xuất phát rà soát phá hủy ma pháp trận.
+- Trạng thái tính đến chương 183: Cùng Na YuNa đi dò tìm ma pháp trận bí mật; bế bổng Na YuNa kết hợp Bật Nhảy tinh thông và cánh Hiệu Triệu Diệt Vong bay đến mục tiêu trong 6 phút (thay vì 1 tháng); nhận bùa lợi tăng 30% sức mạnh từ Na YuNa rồi dùng Súng Bắn Cọc nạp tầng 6 giáng đòn Chí Mạng phá tan ma pháp trận; trên đường bay về duy trì Ẩn Thân phóng thương tiêu diệt quái vật để rèn luyện kỹ năng Tử Thần, nhắm vào sau lưng tên thiên thần sa ngã chuyển chức 5 thuộc Quân Đội Ánh Sáng Rực Rỡ.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -346,6 +347,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 169: Đưa nhóm IlHan đến thánh địa tối cao tại thế giới Breya nhờ IlHan xây dựng lại Đại Đền Thờ của Nữ Thần Sắc Đẹp Leytna; nhận thêm ghi chép của Nữ Thần Leytna khi đền thờ hoàn thành; đến nhà IlHan chơi với Yumir và được IlHan mời ăn trưa sau khi bộc lộ tính cách chân thật.
 - Trạng thái tính đến chương 175: Cùng Kang MiRae và Yumir đến thăm Kim YeSeul; thích thú với tính cách của mẹ IlHan và nhiệt tình xí xớn nhận mẹ nhưng bị bà trêu; tham gia tổ đội 4 người đi các thế giới điều tra ma pháp trận.
 - Trạng thái tính đến chương 180: Cấp độ tăng vọt và thuần thục sức mạnh của Nữ Thần Sắc Đẹp khiến nhan sắc tiệm cận ngưỡng thực thể cấp cao; được Yu IlHan tặng chiếc vòng đội đầu phẩm cấp Sử Thi có khả năng phòng ngự trước thực thể cấp cao.
+- Trạng thái tính đến chương 183: Cùng Yu IlHan đi làm nhiệm vụ phá ma pháp trận; dùng quyền trượng và thánh lực Nữ Thần Leytna định vị thành công ma pháp trận; bị IlHan bế bay với vận tốc kinh hoàng khiến cô cắn phải lưỡi và nôn mửa; ban bùa lợi tăng 30% sức mạnh giúp IlHan phá ma pháp trận; trên đường bay về sà vào lòng IlHan và thẳng thắn bày tỏ cảm tình chân thành với anh.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
