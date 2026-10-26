@@ -1161,6 +1161,13 @@ Một thanh âm phẫn nộ quyền năng (từng nghe thấy từ hầm ngục 
 Liera vừa bực tức vừa trêu chọc IlHan ngây ngô trước tình cảm của Na YuNa; IlHan gác lại bối rối để đối mặt thực tế mình lại bị bỏ lại đơn độc trên Trái Đất trong tình cảnh bị cô lập hoàn toàn với Thiên giới.
 Cảnh kết thúc: Sực nhớ tới Yumir và những đứa trẻ sinh ra sau Đại Tai Biến không có dị giới để bị trục xuất tới, IlHan hốt hoảng giương cánh Hiệu Triệu Diệt Vong bay rà soát khắp toàn cầu nhưng tuyệt vọng nhận ra không còn một bóng người nào khác.
 
+## 189
+Yu IlHan lo lắng tột cùng cho Yumir và những đứa trẻ mới sinh có thể bị tống vào hầm ngục nơi anh từng trải qua; khi định kích hoạt Dịch Chuyển để vào cứu con, anh bàng hoàng nhận ra mình chưa thấu hiểu tường tận hầm ngục đó nên không thể nhảy tới, khiến anh rơi vào nửa hoảng loạn vì mất đi tia hy vọng cuối cùng.
+Được Liera động viên và giật tóc kéo về thực tại, IlHan lấy lại bình tĩnh và rút Bát Vĩ Long Thương tuyên bố sẽ đập nát mọi thứ trên Trái Đất để tìm ra hầm ngục cứu Yumir.
+Liera cho biết âm mưu của phe địch là trục xuất nhân loại để làm chậm quá trình Trái Đất tiến hóa thành thế giới bậc cao cho tới khi con người già chết, nhưng IlHan khẳng định sẽ tự mình săn quái gánh vác thay hàng tỷ người để đẩy nhanh tiến độ; anh cũng cảm ơn Liera vì đã luôn ở bên cạnh mình suốt 1.000 năm qua.
+Cảnh kết thúc: Giữa lúc Trái Đất đang biến đổi dữ dội vì Đại Tai Biến lần 3, IlHan từ chối lời rủ ngủ chung của Liera và tuyên bố trong hai tháng tới sẽ dồn toàn lực chế tạo một pháo đài bay.
+
+
 
 
 

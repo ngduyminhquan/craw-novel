@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T21:42:17Z",
+  "generatedAt": "2026-10-26T21:48:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1133,6 +1133,12 @@
           "title": "Chương 188: Con Đường Tôi Đi – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_188.md",
           "sha": "baa74cb97aa86e6b869b6096cca7388d6c34f826"
+        },
+        {
+          "number": 189,
+          "title": "Chương 189: Con Đường Tôi Đi – 7",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_189.md",
+          "sha": "d90c188c720fceff1f2df2cccb4737617c215db3"
         }
       ]
     }

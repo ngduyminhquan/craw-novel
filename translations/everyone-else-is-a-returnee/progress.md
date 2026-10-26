@@ -193,7 +193,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | reviewed |  |
 | 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | done |  |
 | 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | done |  |
-| 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | todo |  |
+| 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | done |  |
 | 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | todo |  |
 | 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | todo |  |
 | 192 |  | Chapter_192 - I Create – 2.txt | I Create – 2 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -842,3 +843,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#187] Tiếng reo cổ vũ "Yay, run, oppa, run!" ở đoạn 33 (tạm dùng "Oa, chạy đi oppa ơi, chạy điii!" giữ từ xưng hô oppa văn hóa Hàn như chương 131; PA khác: "chạy đi anh ơi") và phản ứng "Safe!" - "It's out!" ở đoạn 58–59 (tạm dùng "An toàn rồi!" - "Chết đến nơi thì có!" cho khớp cảm giác suýt chết của Na YuNa; PA khác: dịch sát bóng chày "An toàn!" - "Bị loại!"). → Giữ "Oa, chạy đi oppa ơi, chạy điii!" (nhất quán với chương 131 khi Na YuNa trêu ghẹo gọi "oppa") và giữ cặp đối đáp "An toàn rồi!" - "Chết đến nơi thì có!" ở đoạn 58–59 vì tự nhiên, sống động trong tiếng Việt. (orchestrator)
 - [#188] Danh xưng "Lady Leytna" (đoạn 11) — Tạm chọn: "Nữ Thần Leytna" (đồng bộ với Nữ Thần Leytna trong glossary và các chương #81, #169, #183; đã thêm Lady Leytna vào Alias của Leytna). Phương án khác: "Đức bà Leytna". → Giữ cách dịch "Nữ Thần Leytna" trong chương 188, nhưng không đưa `Lady Leytna` vào cột Alias của `Leytna` vì cột VI của `Leytna` chỉ là `Leytna` (quy tắc: cột Alias chỉ ghi biến thể dịch ra đúng chữ cột VI). (orchestrator)
 - [#188] Xử lý 2 dòng ghi chú tác giả ngoài lề truyện ở cuối raw (về nguồn gốc câu thoại Dio Brando / JoJo và lời nhắn tác giả) — Tạm chọn: Bỏ qua không dịch, thêm vào raw_ignore_lines trong novel.json và ghi chú vào rules.md (nhất quán với các chương #152, #176, #182-#187). Phương án khác: Giữ lại dịch ở cuối chương. → Giữ nguyên quyết định thêm 2 dòng ghi chú cuối chương 188 vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md theo quy tắc bỏ ghi chú ngoài truyện. (orchestrator)
+- [#189] Cụm từ "flying fortress" ở đoạn 94 (Yu IlHan tuyên bố chế tạo) — Tạm chọn: dịch tự nhiên là "pháo đài bay" (đồng bộ với ngữ cảnh chương 171) và không thêm vào glossary.md vì là cụm danh từ chung miêu tả tính năng; phương án khác: viết hoa và thêm vào glossary.md dạng 'Pháo Đài Bay'. → Giữ cách dịch tự nhiên "pháo đài bay" và không thêm vào glossary.md vì là cụm danh từ chung viết thường miêu tả tính năng. (orchestrator)
