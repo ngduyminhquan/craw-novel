@@ -1005,6 +1005,13 @@ Thanh trường kiếm Truyền Thuyết mài từ xương quái chuyển chức
 Buổi đấu giá kết thúc, người tham dự kinh hoàng phát hiện núi xác hàng ngàn kẻ tấn công bao vây quảng trường (gồm vô số chuyển chức 3 và một tên chuyển chức 4) đã bị Yu IlHan một kích xuyên tim tiêu diệt toàn bộ trong âm thầm.
 Cảnh kết thúc: Yu IlHan ra lệnh cho Orochi bắt đầu tra khảo các tàn niệm thu được để truy lùng kẻ chủ mưu và những bên tiếp tay, trong khi anh thỏa mãn tiếp nhận lượng lớn ma thạch và kim loại quý giá thu được từ buổi đấu giá.
 
+## 164
+Nhờ Orochi tra khảo các tàn niệm, Yu IlHan biết được kẻ chủ mưu là quốc gia lính đánh thuê Tsoner (thế giới Mishta) thông đồng cùng liên minh clan Hà Lan mở cổng sang mưu toan cướp đồ đấu giá Vanguard với tỷ lệ ăn chia 8-2.
+Sau khi hoàn tất giao dịch thu về gần 700 ma thạch chuyển chức 4 cùng kho kim loại khổng lồ, IlHan hứa làm tặng Kang MiRae một chiếc nhẫn khiến cô ngượng chín người; Đệ nhất Hoàng nữ Irma An Ill'ta xuất hiện trêu chọc và nhận diện IlHan là kẻ đã hạ sát toán cướp ngoài quảng trường; Na YuNa hớn hở chạy tới khiến IlHan hoảng hốt giương cánh Hiệu Triệu Diệt Vong bay biến mất; Erica túm cổ cả Irma lẫn Na YuNa bắt phụ việc dọn dẹp.
+IlHan bay sang Hà Lan, dùng Ẩn Thân lẻn qua cánh cổng bí mật đột nhập lâu đài Tsoner tại thế giới Mishta, dùng kỹ năng Thu Hồi Vật Sở Hữu Từ Xa vét sạch kho báu kim loại quý; trước khi rút lui qua cổng, anh ném trả thủ cấp của tên vua Tsoner khiến toàn quân Tsoner nổi cơn lôi đình tràn sang Trái Đất báo thù.
+Cảnh kết thúc: Sự cố hỗn loạn tại Hà Lan kéo dài 11 tiếng mới lắng xuống; việc Vanguard tịch thu toàn bộ vũ khí và cắt đứt quan hệ khiến liên minh clan tan rã và Hà Lan sụp đổ hoàn toàn, trở thành lời cảnh báo rùng mình khắc sâu trật tự thế giới mới lên tâm khảm toàn nhân loại.
+
+
 
 
 

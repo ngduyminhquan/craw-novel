@@ -637,3 +637,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Merere |  | Merere | địa danh | 162 | Dị giới kết nối với Trái Đất có nhiều quái vật cỡ lớn |
 | Central Plaza |  | Quảng trường Trung tâm | địa danh | 163 | Quảng trường trung tâm tại khu giao thương Gangnam tổ chức đấu giá |
 | thought-souls |  | tàn niệm | khác | 163 | Mảnh ý thức linh hồn của người chết (raw đổi từ thoughts sang thought-souls từ chương 163) |
+| Netherlands | The Netherlands | Hà Lan | địa danh | 164 | Quốc gia trên Trái Đất mở cổng sang Mishta liên thủ cướp đồ Vanguard |
+| Mishta |  | Mishta | địa danh | 164 | Dị giới đã trải qua Đại Tai Biến lần thứ 3 |
+| Tsoner | Tsnoer | Tsoner | địa danh | 164 | Quốc gia lính đánh thuê tại thế giới Mishta |

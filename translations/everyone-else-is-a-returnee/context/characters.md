@@ -508,4 +508,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, Đệ nhất Hoàng nữ của Đại Đế quốc Palladia thuộc thế giới Lanpas.
 - Tính cách: Năng nổ, khao khát phát triển và đổi mới ma pháp, có đầu óc giao thương nhạy bén, thân thiện và xem Kang MiRae như bạn bè.
 - Quan hệ: Bạn thân thiết với Kang MiRae; từng bị MiRae gom lượng lớn bình thuốc mana của đế quốc; đặc biệt hứng thú với tạo tác đến từ Trái Đất (trang bị Vanguard của Yu IlHan).
-- Xuất hiện tính đến chương 158: Đề xuất với Kang MiRae ý tưởng biến Trái Đất thành trung tâm giao thương đa giới và sẵn sàng cung cấp tài liệu ma pháp công học của đế quốc để đổi lấy cơ hội tiếp cận trang bị Vanguard.
+- Xuất hiện tính đến chương 164: Đề xuất với Kang MiRae ý tưởng biến Trái Đất thành trung tâm giao thương đa giới; tham gia buổi đấu giá Vanguard, thắng dây chuyền răng rồng; tìm cách làm quen với Yu IlHan nhưng bị anh từ chối thẳng thừng; dùng cảm quan ma pháp nhận diện IlHan là kẻ tiêu diệt đám cướp; cùng Na YuNa bị Erica ép phụ việc dọn dẹp hiện trường.

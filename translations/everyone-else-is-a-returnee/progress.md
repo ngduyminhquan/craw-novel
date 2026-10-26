@@ -168,7 +168,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | reviewed |  |
 | 162 |  | Chapter_162 - I am the Centre of the World III.txt | I am the Centre of the World III | reviewed |  |
 | 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | done |  |
-| 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | todo |  |
+| 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | done |  |
 | 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | todo |  |
 | 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | todo |  |
 | 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -801,3 +802,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#160-162] Xưng hô của Spiera trong chương 160–162 → Thống nhất Spiera xưng ta ở chương 160 cho đồng bộ với chương 161; giữ nguyên dòng trong pronouns.md. (orchestrator)
 - [#161] Câu đùa Kis...Cookies! của Liera ở đoạn 31 → Đổi thành [Hôn... Bánh quy!] để giữ nét lỡ miệng đòi hôn (Kiss) của Liera. (orchestrator)
 - [#163] Cảm thán 'Insane!' / 'That's fucking insane!' của khán giả — Tạm dùng: "Điên thật rồi!" / "Mẹ kiếp, điên rồ thật sự!" theo ngữ cảnh khẩu ngữ thay vì ép dùng thuật ngữ "Cuồng Loạn" của glossary. Đề xuất: Chấp nhận phương án theo ngữ cảnh. → Đồng ý: dịch theo ngữ cảnh cảm thán thông thường là Điên thật rồi! / Mẹ kiếp, điên rồ thật sự! (orchestrator)
+- [#164] Tên quốc gia "The Netherlands" dịch thành "Hà Lan" (theo chuẩn địa danh đời thực như Mỹ, Trung Quốc); tên quốc gia lính đánh thuê "Tsoner" (đoạn 4 gõ nhầm "Tsnoer") chốt chuẩn hóa là "Tsoner" — Tạm dùng: Hà Lan / Tsoner. → Đồng ý: dịch Netherlands / The Netherlands là Hà Lan; chuẩn hóa Tsoner (thêm Tsnoer vào Alias) trong glossary.md. (orchestrator)
