@@ -153,7 +153,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 146 |  | Chapter_146 - The MVP Is Mine IV.txt | The MVP Is Mine IV | reviewed |  |
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | reviewed |  |
 | 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | done |  |
-| 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | todo |  |
+| 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | done |  |
 | 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | todo |  |
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | todo |  |
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | todo |  |
@@ -776,3 +776,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#148] Đoạn 145–147 raw có câu thoại đùa "Not telling…" và "…Returns" gọi lại tình huống ở chương 66 (khi Thần Rèn Đúc không thèm nói điều kiện nhận phước lành khiến IlHan cáu kỉnh đáp "Không nói."): dịch thế nào? → Giữ phương án "Không thèm nói đâu…" và "…Tái xuất." để giữ tính hài hước gợi lại tình huống vị thần không nói điều kiện nhận lời chúc phúc ở chương 66. (orchestrator)
 - [#148] Đoạn 62 raw viết "big sis Ericia": xử lý thế nào? → Chuẩn hóa thành "chị Erica" theo tên chính đã chốt trong characters.md (Ericia là alias do raw viết lệch). (orchestrator)
 - [#148] Đoạn 82 raw viết nhầm chính tả Comos-severing Spear: xử lý thế nào? → Quy về kỹ năng Đại Đoạn Vũ Trụ Thương (Great Cosmos-severing Spear) của Spiera đã chốt trong glossary.md và thêm Comos-severing Spear vào cột Alias. (orchestrator)
+- [#149] Lời gọi đùa "Spiemon" của Liera ở đoạn 10 ([Help us, Spiemon!]): xử lý thế nào? → Giữ nguyên biệt danh chơi chữ "Spiemon" (ghép Spiera + Doraemon) trong câu thoại "[Cứu bọn tôi với, Spiemon!]" và ghi chú biệt danh đùa trong mô tả nhân vật Spiera ở characters.md, không đưa vào cột Alias. (orchestrator)
+- [#149] Cụm "Record of worlds" trong điều kiện tiến hóa kỹ năng Ngôn Ngữ: dịch thế nào? → Chốt dịch là "Ghi Chép Các Thế Giới" trong thông báo hệ thống (và viết thường "ghi chép các thế giới" trong lời văn/thoại), đồng bộ với thuật ngữ "ghi chép" (record) và "Hồ Sơ Akashic". (orchestrator)
+- [#149] Ghi chú biên tập inline ở đoạn raw 188 "(E/N: Souls from his death god skills)": xử lý thế nào? → Loại bỏ hoàn toàn phần ghi chú biên tập (E/N) theo quy tắc cứng trong rules.md, giữ nguyên phần nội dung câu truyện. (orchestrator)

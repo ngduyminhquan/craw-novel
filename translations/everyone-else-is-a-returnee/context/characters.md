@@ -25,7 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Reta Kar'iha | Reta | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
-| Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng | 62 |
+| Spiera |  | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon) | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
@@ -180,6 +180,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 146: Cùng thuộc hạ và Clan Lôi Thần đưa Trái Đất lọt vào top 4 Bảng Sơ Cấp (còn lại 419 người); tại vòng tứ kết trên các bệ đá bay của Lu Füera, dùng mưa thương phóng nghi binh kết hợp cánh Hiệu Triệu Diệt Vong càn quét các đối thủ cấp 130 của thế giới Snuë, giúp Trái Đất giành chiến thắng áp đảo sau 15 phút và trở thành vị Tử Thần chiến trường thắp sáng niềm tin cho toàn thể nhân loại Trái Đất.
 - Trạng thái tính đến chương 147: Dùng roi rực lửa kèm chặt kẻ chuyển chức 4 ở bán kết; trong trận chung kết gặp Kenatoo, kích hoạt Long Huyết, Ngọn Lửa Vĩnh Cửu, lửa tím Bát Vĩ Long Thương và Liệt Hỏa trong trạng thái Ẩn Thân, quét sạch 4 kẻ chuyển chức 4 cùng toàn bộ 20 đối thủ chỉ trong 1 phút 30 giây lập kỷ lục lịch sử.
 - Trạng thái tính đến chương 148: Dùng Thống Trị thu phục tàn niệm Yamata no Orochi trong Bát Vĩ Long Thương thành thuộc hạ (nâng Thống Trị lên cấp 56, Linh Hồn Phụ Ma lên cấp 24), giúp Orochi nói được tiếng người; kích hoạt Long Huyết nâng tầm đẳng cấp rồi dùng Thống Trị thu phục thành công Ngọn Lửa Vĩnh Cửu (nâng Thống Trị lên cấp 63); mở khóa điều kiện ẩn đón nhận Chúc Phúc Của Nữ Thần Lửa; nhận nhiệm vụ chế tạo Bẫy Hủy Diệt cho Trái Đất và các thế giới khác với phần thưởng 1 kỹ năng bị động, 40 điểm chỉ số và 150 bình thuốc hồi mana cao cấp.
+- Trạng thái tính đến chương 149: Được Spiera hối lộ thêm 50 bình thuốc hồi mana để giữ bí mật việc thống trị Ngọn Lửa Vĩnh Cửu; dùng Ngọn Lửa Vĩnh Cửu chỉnh sửa bản thiết kế Bẫy Hủy Diệt kết hợp long ngữ và ngôn ngữ elf cổ đại để tăng hiệu quả và giảm tỷ lệ Vỡ Hầm Ngục; rèn xong mẫu Bẫy Hủy Diệt trong 40 phút; nâng kỹ năng Linh Hồn Phụ Ma lên cấp 25; phối hợp kỹ năng Thống Trị và Linh Hồn Phụ Ma đưa tàn hồn thuộc hạ vào Bẫy Hủy Diệt để thu thập Ghi Chép Các Thế Giới gián tiếp từ xa phục vụ tiến hóa kỹ năng Ngôn Ngữ, đạt tiến độ 8/100 sau khi Spiera thử nghiệm tại thế giới bậc cao El Tièfè.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

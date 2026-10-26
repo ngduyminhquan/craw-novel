@@ -605,3 +605,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Burning Flag | Burning Flag clan | Clan Burning Flag | tổ chức | 147 | Clan Trái Đất thành lập bởi những người trở về từ thế giới Kenatoo |
 | Goddess of Fire | goddess of fire | Nữ Thần Lửa | khác | 148 | Vị thần muốn ban lời chúc phúc cho Yu IlHan sau khi anh thuần phục Ngọn Lửa Vĩnh Cửu |
 | Blessing of the goddess of fire | Blessing of the fire goddess | Chúc Phúc Của Nữ Thần Lửa | danh hiệu | 148 | Lời chúc phúc từ Nữ Thần Lửa dành cho Yu IlHan khi thuần phục Ngọn Lửa Vĩnh Cửu |
+| El Tièfè |  | El Tièfè | địa danh | 149 | Thế giới bậc cao nơi Spiera mang Bẫy Hủy Diệt mẫu đến để thử nghiệm |
+| Giant Snake |  | Rắn Khổng Lồ | quái vật | 149 | Quái vật rắn khổng lồ bị Yu IlHan thu phục tàn niệm làm thuộc hạ và phụ ma vào Bẫy Hủy Diệt |
+| Record of Worlds | Record of worlds; record of worlds | Ghi Chép Các Thế Giới | hệ thống | 149 | Yêu cầu tiến hóa kỹ năng Ngôn Ngữ, thu thập ghi chép từ 100 thế giới khác nhau |

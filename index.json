@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T13:37:16Z",
+  "generatedAt": "2026-10-26T13:51:07Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -893,6 +893,12 @@
           "title": "Chương 148: Tự Tay Dựng Tổ Ấm I",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_148.md",
           "sha": "87103e15c6d80920c6f66951573df92a27eaa24d"
+        },
+        {
+          "number": 149,
+          "title": "Chương 149: Tự Tay Dựng Tổ Ấm II",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_149.md",
+          "sha": "843bdf9145347a4241d15337102a1315148dfc6c"
         }
       ]
     }

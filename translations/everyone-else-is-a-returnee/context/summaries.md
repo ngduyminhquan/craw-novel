@@ -915,6 +915,13 @@ Nhờ Yumir gợi ý, IlHan nhận ra sự cộng hưởng giữa năng lực T�
 Quay về xưởng đúc chuẩn bị rèn Bẫy Hủy Diệt đổi lấy 1 kỹ năng bị động, 40 điểm chỉ số và 150 bình thuốc hồi mana cao cấp, IlHan kích hoạt Long Huyết nâng tầm đẳng cấp rồi dùng Thống Trị thu phục luôn Ngọn Lửa Vĩnh Cửu (nâng Thống Trị lên cấp 63).
 Cảnh kết thúc: Hệ thống bất ngờ thông báo Nữ Thần Lửa muốn ban Chúc Phúc Của Nữ Thần Lửa cho anh nếu đạt thêm một điều kiện ẩn; IlHan thối mặt nhớ lại vụ việc tương tự với Thần Rèn Đúc trước đây, đánh dấu khoảnh khắc lịch sử khi lời chúc phúc của cả hai vị Thần cùng chờ đợi một con người.
 
+## 149
+Liera, Erta và Spiera bối rối trước việc IlHan dùng Thống Trị thu phục Ngọn Lửa Vĩnh Cửu; Spiera quyết định coi như không biết gì và hối lộ thêm 50 bình thuốc hồi mana để IlHan bắt tay chế tạo Bẫy Hủy Diệt nâng cấp cho các thế giới khác.
+IlHan xin phép chỉnh sửa bản thiết kế bằng cách tích hợp thêm long ngữ và ngôn ngữ elf cổ đại để tăng hiệu quả và giảm tỷ lệ Vỡ Hầm Ngục; anh hoàn thành bản mẫu trong 40 phút và lén dùng Linh Hồn Phụ Ma (lên cấp 25) gài tàn hồn thuộc hạ vào bên trong trước khi Spiera mang tới thế giới bậc cao El Tièfè thử nghiệm.
+Mục đích thực sự của IlHan là nhằm thỏa mãn điều kiện tiến hóa của kỹ năng Ngôn Ngữ (cần thu thập Ghi Chép Các Thế Giới từ 100 thế giới khác nhau); anh lợi dụng sự kết hợp giữa Thống Trị và Linh Hồn Phụ Ma để thu hoạch ghi chép thế giới gián tiếp từ xa qua tàn hồn thuộc hạ.
+Cảnh kết thúc: Hệ thống thông báo thuộc hạ Rắn Khổng Lồ hấp thụ thành công một phần ghi chép của thế giới bậc cao El Tièfè, đưa tiến độ Ghi Chép Các Thế Giới lên 8/100, xác nhận canh bạc của IlHan đã thành công mỹ mãn.
+
+
 
 
 
