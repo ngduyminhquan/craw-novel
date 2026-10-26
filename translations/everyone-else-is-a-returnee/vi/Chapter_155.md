@@ -60,7 +60,7 @@ Thế còn với Yu IlHan? Đương nhiên, đây là thời kỳ cày cuốc v�
 
 "Ngon rồi, quất thôi!"
 
-Thực sự may mắn thay, sau thêm vài ngày hỗn loạn nữa trôi qua, người ta bắt đầu nhìn thấy ánh sáng nơi cuối đường hầm. Hàng vạn quái vật giờ đây đã giảm xuống chỉ còn vài nghìn con.
+Thực sự may mắn thay, sau vài ngày hỗn loạn nữa trôi qua, người ta bắt đầu nhìn thấy ánh sáng nơi cuối đường hầm. Hàng vạn quái vật giờ đây đã giảm xuống chỉ còn vài nghìn con.
 
 "Bầy quái vật rõ ràng đã giảm hẳn rồi."
 
@@ -112,7 +112,7 @@ Liera nở một nụ cười đắc thắng về phía Erta trước khi rời 
 
 "Được rồi... từ giờ hãy tập trung vào việc thu gom xác quái vật nào..."
 
-[Khèèè.] (Erta)
+[Gừừừ.] (Erta)
 
 Erta chỉ nhận lại bóng lưng của Yu IlHan khi anh đứng dậy, và cô nàng thực sự rất muốn tung một cú đá vào cái lưng ấy. Thế nhưng, Spiera chỉ thầm nghĩ rằng cô ấy rõ ràng là một thực thể cấp cao mà lại cứ thích hùa theo mấy trò này.
 
@@ -132,7 +132,7 @@ Sau khi xác nhận trận chiến trường kỳ đã hoàn toàn khép lại, 
 
 "Vụ nổ mana quét sạch bầy quái vật khi nãy thực sự..."
 
-"Ta không thể dùng chiêu đó thường xuyên đâu. Dù sao thì các cậu cũng đã vất vả nhiều rồi."
+"Tôi không thể dùng chiêu đó thường xuyên đâu. Dù sao thì các cậu cũng đã vất vả nhiều rồi."
 
 Yu IlHan thậm chí cảm thấy có chút áy náy khi nhìn vào bộ dạng của họ. Họ đã phải chiến đấu suốt 20 ngày liên tục mà chẳng có lấy một lần tắm rửa. Tuy nhiên, chẳng hiểu sao đám elf dù lấm lem bụi đất nhưng trông vẫn toát lên vẻ đẹp thẩm mỹ vượt trội đến lạ lùng.
 
@@ -216,7 +216,7 @@ Tốt lắm, một khi đã nghĩ được như thế, động lực trong anh l
 
 Ngón tay của Yu IlHan luồn vào eo cô nàng rồi cù lét không thương tiếc. Anh chẳng tài nào ngờ được rằng đó lại chính là phần thưởng tuyệt vời nhất mà Liera có thể nhận được!
 
-[Hự, ngay cả ta cũng chỉ biết những điều cơ bản nhất về ma pháp công học thôi mà...!] (Erta)
+[Hự, ngay cả tôi cũng chỉ biết những điều cơ bản nhất về ma pháp công học thôi mà...!] (Erta)
 
 [Cô bực bội vì không thể dạy Yu IlHan ma pháp công học, hay là vì không thể thế chỗ của Liera thế hả...?] (Spiera)
 

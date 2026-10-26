@@ -70,7 +70,7 @@ Yu IlHan lắc đầu.
 
 "Đáng tiếc là chẳng có con nào xuất hiện cả. Với lại, là Yu IlHan."
 
-"Kỳ lạ thật đấýyy. Bọn em cũng chẳng gặp được con nào."
+"Kỳ lạ thật đấyyy. Bọn em cũng chẳng gặp được con nào."
 
 "Nếu gặp thì đã nguy hiểm rồi. Dù chúng ta có mạnh lên cỡ nào đi nữa, quái vật chuyển chức 4 vẫn quá tầm nếu không có Mir. Huống hồ, Trái Đất mới chỉ đang ở giai đoạn đầu của Đại Tai Biến lần 2, làm sao xuất hiện chuyển chức 4 được chứ? Ngay cả ở những thế giới sau Đại Tai Biến lần 3 cũng có rất ít chuyển chức 4 mà."
 
@@ -126,7 +126,7 @@ Yu IlHan vừa ngoan ngoãn uống trà vừa nhìn màn tiếp xúc thân mật
 
 "Anh cứ lờ lời cậu ta đi, đồ ngốc ấy mà." (MiRae)
 
-"Không, tôi sẽ đi xem xét một vòng quanh xem sao. Tuy đầu óc cô Na YuNa trông có vẻ rỗng tuếch, nhưng cô ấy vẫn có một nét sắc sảo, tựa như một mảnh thủy tinh nhỏ giữa bãi cát dài vô tận vậy." (IlHan)
+"Không, tôi sẽ đi xem xét một vòng xem sao. Tuy đầu óc cô Na YuNa trông có vẻ rỗng tuếch, nhưng cô ấy vẫn có một nét sắc sảo, tựa như một mảnh thủy tinh nhỏ giữa bãi cát dài vô tận vậy." (IlHan)
 
 "Oa!" (YuNa)
 
@@ -188,7 +188,7 @@ Dù anh có phát hiện ra vài con có tiềm năng sẽ sớm tiến hóa lê
 
 Cuộc tấn công của Yu IlHan giáng xuống như một thảm họa trút lên đầu lũ quái vật. Cơn bão thương xương rồng bất tận hòa cùng những tia chớp lóe lên từ Roi Hắc Long!
 
-Thực ra, Yu IlHan cũng phần nào kỳ vọng sẽ nhìn thấy một vòng xoáy khác xuất hiện nếu có một lượng lớn quái vật ngã xuống, nhưng có vẻ như nó không phải là thứ cứ muốn là sẽ sinh ra, dẫu vậy DẤU HIỆU của vòng xoáy cũng đã xuất hiện khi Yu IlHan dọn sạch lũ quái vật trong khoảng 2 tiếng đồng hồ.
+Thực ra, Yu IlHan cũng phần nào kỳ vọng sẽ nhìn thấy một vòng xoáy khác xuất hiện nếu có một lượng lớn quái vật ngã xuống, nhưng có vẻ như nó không phải là thứ cứ muốn là sẽ sinh ra, dẫu vậy dấu hiệu của vòng xoáy cũng đã xuất hiện khi Yu IlHan dọn sạch lũ quái vật trong khoảng 2 tiếng đồng hồ.
 
 [Dù nó đang diễn ra ngay trước mắt, ta vẫn chẳng tài nào nhìn thấu được cơ chế của nó!] (Liera)
 

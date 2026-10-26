@@ -158,9 +158,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | reviewed |  |
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | reviewed |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | reviewed |  |
-| 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | done |  |
-| 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | done |  |
-| 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | done |  |
+| 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | reviewed |  |
+| 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | reviewed |  |
+| 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | reviewed |  |
 | 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | todo |  |
 | 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | todo |  |
 | 159 |  | Chapter_159 - If I Open It, It’s The Gate To Hell VI.txt | If I Open It, It’s The Gate To Hell VI | todo |  |
@@ -792,3 +792,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#152] Tên đại dinh thự kiêm pháo đài chiến đấu "Bittersweet Persona": giữ nguyên tiếng Anh hay Việt hóa? → Giữ nguyên tên riêng tiếng Anh "Bittersweet Persona" (tương tự các tên riêng tiếng Anh khác như Vanguard, Metal Knights, Burning Flag). (orchestrator)
 - [#153] Xưng hô của Michael Smithson ở chương 153 đoạn 93 ("một mình ta sẽ trấn thủ!" hay "một mình tôi sẽ trấn thủ!"): chọn phương án nào? → Đổi sang xưng "tôi" (cả ở đoạn 80, 90, 93) để nhất quán với cách xưng hô "tôi - các cậu" của Michael Smithson với các thành viên clan. (orchestrator)
 - [#155] 'Magic engineering' (마법공학): kỹ năng bị động kiêm ngành học thuật; đã tạm chốt 'Ma Pháp Công Học' theo Hán Việt; xin xác nhận giữ nguyên hay đổi thành 'Kỹ Thuật Ma Pháp'. → Chốt dịch "Magic engineering" là "Ma Pháp Công Học" theo đúng quy tắc dịch tên kỹ năng/học thuật sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
+- [#155] Đoạn 57 tiếng kêu "[Eeeeeek.] (Erta)" khi bị Yu IlHan phớt lờ: dịch thế nào? → Đổi thành "[Gừừừ.] (Erta)" cho khớp với hành động nghiến răng tức tối của Erta ở câu ngay trước (tương ứng từ tượng thanh "이이익" trong tiếng Hàn). (orchestrator)
+- [#156] Đoạn 95 viết hoa "DẤU HIỆU" (từ raw "ALSO a sign of the vortex"): giữ viết hoa hay viết thường? → Chuyển về viết thường "dấu hiệu" để câu văn tiếng Việt tự nhiên, không viết hoa toàn bộ từ giữa câu trần thuật. (orchestrator)

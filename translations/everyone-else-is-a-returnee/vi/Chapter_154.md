@@ -198,7 +198,7 @@ Khóe môi cong lên thành một nụ cười, Yu IlHan đáp lại.
 
 [Bạn nhận….]
 
-Như muốn xóa sạch những dòng chữ xanh đang che khuất tầm nhìn, anh lại tiếp tục kích hoạt các dòng thuộc tính của pháo đài. Quái vật lại ngã rạ thành từng bầy. Dĩ nhiên, do thuộc hạ của Yu IlHan lúc ấy vẫn đang không ngừng chiến đấu, số lượng quái vật tử trận trên thực tế còn nhiều hơn thế gấp bội.
+Như muốn xóa sạch những dòng chữ xanh đang che khuất tầm nhìn, anh lại tiếp tục kích hoạt các dòng thuộc tính của pháo đài. Quái vật lại ngã như rạ thành từng bầy. Dĩ nhiên, do thuộc hạ của Yu IlHan lúc ấy vẫn đang không ngừng chiến đấu, số lượng quái vật tử trận trên thực tế còn nhiều hơn thế gấp bội.
 
 Đến một khoảnh khắc, lượng mana phát ra từ vô số quái vật đang chết dần cứ tầng tầng lớp lớp chồng chất lên nhau, tạo nên một vòng xoáy mana khổng lồ ngay bên trong khuôn viên dinh thự của Yu IlHan!
 
