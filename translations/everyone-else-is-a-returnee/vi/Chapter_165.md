@@ -30,7 +30,7 @@ Ngay khi Yu IlHan nhẹ nhàng đáp xuống cạnh họ và thu cánh lại, Yu
 
 "Tôi đã muốn giải quyết một cách hòa bình nhất có thể rồi đấy chứ."
 
-Thành ra thay vì giết người, tôi giải tán luôn một quốc gia. Dù chẳng rõ sau khi tới Ferata thì suy nghĩ của anh đã biến chuyển thế nào, nhưng có vẻ anh đã tiến hóa theo cái cách tồi tệ nhất có thể rồi.
+'Thành ra thay vì giết người, tôi giải tán luôn một quốc gia.' Dù chẳng rõ sau khi tới Ferata thì suy nghĩ của anh đã biến chuyển thế nào, nhưng có vẻ anh đã tiến hóa theo cái cách tồi tệ nhất có thể rồi.
 
 "Hòa bình cơ đấy.... haha."
 
@@ -82,7 +82,7 @@ Na YuNa tự tin tuyên bố. Thái độ của cô nàng cứ như thể Yu IlH
 
 Lần này người lên tiếng là Irma An Ill'ta. Nhận thấy Na YuNa đang bám chặt lấy Yu IlHan, nàng Hoàng nữ liền khéo léo gạt cô nàng sang một bên, rồi lấy từ trong túi ra vài cuốn sách dày cộp đưa cho Yu IlHan.
 
-"Trước hết, đây là một số tài liệu ma pháp công học. Đây là các bản gốc sở hữu giá trị to lớn cả về mặt lịch sử lẫn học thuật, đúc kết thành quả nghiên cứu của các học giả thời kỳ vương quốc ma pháp. Thế nên 'rồi' anh nhất định phải trả lại cho bọn tôi đấy nhé."
+"Trước hết, đây là một số tài liệu Ma Pháp Công Học. Đây là các bản gốc sở hữu giá trị to lớn cả về mặt lịch sử lẫn học thuật, đúc kết thành quả nghiên cứu của các học giả thời kỳ vương quốc ma pháp. Thế nên 'sau này' anh nhất định phải trả lại cho bọn tôi đấy nhé."
 
 "Aha."
 
@@ -98,15 +98,15 @@ Nàng Hoàng nữ khẽ thở dài rồi nói tiếp.
 
 "Dù đã trải qua biết bao thăng trầm mới có thể đứng dậy dưới cái tên 'Palladia' sau khi Vương quốc Ma Pháp Ill'ta sụp đổ, bọn tôi cũng đã thành công phục dựng phần lớn các thư tịch ma pháp. Thế nhưng vẫn có một số tài liệu không may mắn nằm ngoài danh sách được 'phục dựng'..."
 
-"Ý cô muốn nói ma pháp công học là một trong số đó chứ gì."
+"Ý cô muốn nói Ma Pháp Công Học là một trong số đó chứ gì."
 
-"Đúng vậy! Do đặc thù của mình, ma pháp công học dễ tiếp thu nhất khi được học song song với kỹ nghệ rèn đúc kim loại. Tuy nhiên sau khi vương quốc ma pháp lụi tàn, nơi ấy lại chẳng còn nhân tài nào trong lĩnh vực đó nữa, nên cả công trình nghiên cứu lẫn kỹ thuật đều không được lưu truyền lại trọn vẹn."
+"Đúng vậy! Do đặc thù của mình, Ma Pháp Công Học dễ tiếp thu nhất khi được học song song với kỹ nghệ rèn đúc kim loại. Tuy nhiên sau khi vương quốc ma pháp lụi tàn, nơi ấy lại chẳng còn nhân tài nào trong lĩnh vực đó nữa, nên cả công trình nghiên cứu lẫn kỹ thuật đều không được lưu truyền lại trọn vẹn."
 
 "Thế nhưng."
 
 Kang MiRae chen ngang.
 
-"Dường như có một di tích mang dấu vết của ma pháp công học. Trong lúc tìm kiếm tài liệu để trao cho anh IlHan, Hoàng nữ đã tình cờ phát hiện ra một nơi và tiến hành khai quật. Vì thế, có lẽ ở đó sẽ có những văn bản giúp anh đào sâu thêm kiến thức ma pháp công học."
+"Dường như có một di tích mang dấu vết của Ma Pháp Công Học. Trong lúc tìm kiếm tài liệu để trao cho anh IlHan, Hoàng nữ đã tình cờ phát hiện ra một nơi và tiến hành khai quật. Vì thế, có lẽ ở đó sẽ có những văn bản giúp anh đào sâu thêm kiến thức Ma Pháp Công Học."
 
 "Oa!"
 
@@ -214,7 +214,7 @@ Yu IlHan thầm nghĩ tầm ảnh hưởng của nàng Hoàng nữ đúng là ki
 
 Dù nói đi cũng phải nói lại, chính anh cũng đã mở cả một cánh cổng nối tới Daréu ngay trong nhà mình đấy thôi!
 
-[Bọn ta không ngờ là tộc elf cũng có thể tạo ra các cánh cổng đấy. Họ đâu giống như người Trái Đất vốn được kết nối với các thế giới khác, mà chỉ bám theo IlHan thôi mà.] (Liera)
+[Bọn tôi không ngờ là tộc elf cũng có thể tạo ra các cánh cổng đấy. Họ đâu giống như người Trái Đất vốn được kết nối với các thế giới khác, mà chỉ bám theo IlHan thôi mà.] (Liera)
 
 [Có lẽ cũng không khác biệt là bao, vì người Trái Đất cũng chỉ mở cổng đến thế giới mà họ 'thuộc về' khi đang ở Trái Đất. Kẻ kỳ quặc ở đây là Yu IlHan cơ, người đã mở ra cánh cổng nơi con Ác Ma Rung Biến Thái kia chui ra ấy.] (Erta)
 

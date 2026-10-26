@@ -167,9 +167,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 160 |  | Chapter_160 - I am the Centre of the World I.txt | I am the Centre of the World I | reviewed |  |
 | 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | reviewed |  |
 | 162 |  | Chapter_162 - I am the Centre of the World III.txt | I am the Centre of the World III | reviewed |  |
-| 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | done |  |
-| 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | done |  |
-| 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | done |  |
+| 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | reviewed |  |
+| 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | reviewed |  |
+| 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | reviewed |  |
 | 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | todo |  |
 | 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | todo |  |
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | todo |  |
@@ -805,3 +805,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#163] Cảm thán 'Insane!' / 'That's fucking insane!' của khán giả — Tạm dùng: "Điên thật rồi!" / "Mẹ kiếp, điên rồ thật sự!" theo ngữ cảnh khẩu ngữ thay vì ép dùng thuật ngữ "Cuồng Loạn" của glossary. Đề xuất: Chấp nhận phương án theo ngữ cảnh. → Đồng ý: dịch theo ngữ cảnh cảm thán thông thường là Điên thật rồi! / Mẹ kiếp, điên rồ thật sự! (orchestrator)
 - [#164] Tên quốc gia "The Netherlands" dịch thành "Hà Lan" (theo chuẩn địa danh đời thực như Mỹ, Trung Quốc); tên quốc gia lính đánh thuê "Tsoner" (đoạn 4 gõ nhầm "Tsnoer") chốt chuẩn hóa là "Tsoner" — Tạm dùng: Hà Lan / Tsoner. → Đồng ý: dịch Netherlands / The Netherlands là Hà Lan; chuẩn hóa Tsoner (thêm Tsnoer vào Alias) trong glossary.md. (orchestrator)
 - [#165] Tên vương quốc ma pháp cổ đại 'Magic kingdom of Ill'ta' (tiền thân của Palladia) tạm dịch 'Vương quốc Ma Pháp Ill'ta', thân phận 'Holy maiden' của Na YuNa tạm dịch 'Thánh nữ', và cảm thán 'Wao, Solomon!' tạm dịch 'Oa, đúng là Solomon!'. → Đồng ý: Vương quốc Ma Pháp Ill'ta (bỏ Ill'ta đơn lẻ khỏi Alias để không bắt nhầm tên Irma An Ill'ta), Thánh nữ cho Holy maiden, và Oa, đúng là Solomon! cho Wao, Solomon! (orchestrator)
+- [#164] Xưng hô của Liera với Yu IlHan ở chương 164 → Giữ nguyên tôi - cậu theo pronouns.md. (orchestrator)
+- [#164] Xưng hô của Yu IlHan với Kang MiRae ở chương 164 → Dùng cô MiRae theo pronouns.md (từ chương 122), thay cho tiểu thư MiRae. (orchestrator)

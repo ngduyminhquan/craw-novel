@@ -178,7 +178,7 @@ Hơn thế nữa, chúng còn tung thêm nhiều tạo tác để rải khói ma
 
 "Hừ!"
 
-Paté và những người elf khác, những người vốn chẳng hề bị ảnh hưởng giác quan bởi chút khói ma pháp tầm thường, liền tấn công lũ thủ phạm bằng những vũ khí giấu trong người, nhưng bọn chúng cũng đã tính trước điều đó. Chúng đã chuẩn bị sẵn cả người chịu chết thay và biến họ thành bức tường thịt để chặn đường lũ elf!
+Paté và những người elf khác, những người vốn chẳng hề bị ảnh hưởng giác quan bởi chút khói ma pháp tầm thường, liền tấn công lũ thủ phạm bằng những vũ khí giấu trong người, nhưng bọn chúng cũng đã tính trước điều đó. Chúng đã chuẩn bị sẵn cả người chịu chết thay và biến họ thành bức tường thịt để chặn đường các elf!
 
 Trong lúc đó, một trong những kẻ tấn công vươn tay ra chộp lấy vật phẩm!
 
@@ -260,7 +260,7 @@ Sở dĩ họ biết được điều đó là vì ở một góc quảng trư�
 
 Điều đáng kinh ngạc hơn nữa là tất cả bọn chúng đều là những thực thể chuyển chức 3, và thậm chí có một tên chuyển chức 4! Lẽ ra chúng nên dùng lực lượng tầm cỡ này để đi săn những quái vật dị chủng, đằng này công lý đã giáng búa trừng phạt lên đầu chúng khi dám mưu toan trục lợi mà không phải bỏ công sức!
 
-Thế nhưng Yu IlHan, kẻ thủ ác duy nhất đứng sau cảnh tượng kinh hoàng đó, lại đang thong dong tiến bước để trao vật phẩm cho những người thắng đấu giá mà không dính lấy một giọt máu trên người. Trong tâm trí anh, muôn vàn tàn niệm bám theo sinh mệnh lực của đủ mọi hạng người đang gào khóc thảm thiết.
+Thế nhưng Yu IlHan, thủ phạm duy nhất đứng sau cảnh tượng đó, lại đang thong dong tiến bước để trao vật phẩm cho những người thắng đấu giá mà không dính lấy một giọt máu trên người. Trong tâm trí anh, muôn vàn tàn niệm bám theo sinh mệnh lực của đủ mọi hạng người đang gào khóc thảm thiết.
 
 "Orochi."
 

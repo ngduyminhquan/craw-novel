@@ -22,7 +22,7 @@ Bất kỳ con người nào cũng có 'quyền' đấu tranh để sinh tồn �
 
 Tuy nhiên, anh cũng nghĩ rằng họ phải tự mình gánh chịu hậu quả từ sự đấu tranh của chính họ.
 
-[Đôi khi em thấy sợ khi IlHan nghĩ như thế đấy, nhưng anh ngầu đến phát sợ luôn!] (Liera)
+[Đôi khi tôi thấy sợ khi IlHan nghĩ như thế đấy, nhưng cậu ngầu đến phát sợ luôn!] (Liera)
 
 [Cô ả này hết thuốc chữa rồi. Thần Tình Yêu đã rót thuốc độc vào não cô ta mất rồi.] (Spiera)
 
@@ -138,7 +138,7 @@ Dạo gần đây cô nàng đã bám dính lấy anh đến phát mệt kể c�
 
 Vì thế, Yu IlHan quyết định vứt luôn cái phương châm 'chậm rãi nhưng chắc chắn' trong đầu ra sau gáy, và quyết định chuồn khỏi nơi này ngay lập tức.
 
-"Tôi có vài chuyện cần phải đi điều tra nên xin phép đi trước đây. Erica, tôi sẽ quay lại sớm thôi, dọn dẹp xong thì nghỉ ngơi đi nhé. À, tiểu thư MiRae, tôi sẽ sớm làm nhẫn cho cô nên hãy đợi một chút nhé."
+"Tôi có vài chuyện cần phải đi điều tra nên xin phép đi trước đây. Erica, tôi sẽ quay lại sớm thôi, dọn dẹp xong thì nghỉ ngơi đi nhé. À, cô MiRae, tôi sẽ sớm làm nhẫn cho cô nên hãy đợi một chút nhé."
 
 "Dạ!? N-Nhẫn á? Không, t-tôi—!"
 
@@ -280,7 +280,7 @@ Kho báu ngập tràn những kim loại quý lấp lánh ánh kim. Không chỉ
 
 [Chà, hai cái đó cũng chẳng khác nhau là mấy. Ồ, chiếc dây chuyền đằng kia trông đẹp đấy chứ.] (Erta)
 
-[IlHan, em muốn chiếc nhẫn pha lê ở đằng kiiaaaa cơ!] (Liera)
+[IlHan, tôi muốn chiếc nhẫn pha lê ở đằng kiiaaaa cơ!] (Liera)
 
 "Biết rồi, biết rồi."
 
@@ -290,7 +290,7 @@ Cơ mà nhờ thế mà Yu IlHan mới kiếm được một món hời khổng 
 
 "Tốt lắm, xong việc."
 
-[Ta cứ ngỡ mình đang được chứng kiến ma pháp biến mất chứ không phải là thu hồi vật sở hữu từ xa nữa đấy.] (Liera)
+[Tôi cứ ngỡ mình đang được chứng kiến ma pháp biến mất chứ không phải là thu hồi vật sở hữu từ xa nữa đấy.] (Liera)
 
 Trong nghề trộm cắp, điều quan trọng ngang ngửa với việc thâm nhập êm thấm và hành động chớp nhoáng chính là rút lui nhanh gọn. Không giống như tay nghề non nớt của đám trộm đã đột nhập vào địa điểm đấu giá, Yu IlHan đã vét sạch sành sanh toàn bộ nơi này một cách hoàn hảo, rồi rời đi trong trạng thái vẫn đang Ẩn Thân cho tới khi về tới cánh cổng.
 
@@ -316,7 +316,7 @@ Hẳn là anh sẽ chẳng còn lựa chọn nào khác ngoài việc phải kh�
 
 "Ồ, vậy thì. Có nên đi tịch thu toàn bộ vũ khí sản xuất hàng loạt ở Hà Lan trước không nhỉ?"
 
-[Giờ ta thậm chí còn chẳng biết ai mới là kẻ ác nữa rồi.] (Erta)
+[Giờ tôi thậm chí còn chẳng biết ai mới là kẻ ác nữa rồi.] (Erta)
 
 Người dân Tsoner phản ứng dữ dội hơn nhiều so với dự tính của Yu IlHan – toàn bộ lực lượng canh gác cánh cổng, cùng quân đội bên trong lâu đài đã tràn sang xâm lược Trái Đất!
 
