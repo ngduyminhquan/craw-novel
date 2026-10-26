@@ -181,7 +181,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | reviewed |  |
 | 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | done |  |
 | 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | done |  |
-| 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | todo |  |
+| 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | done |  |
 | 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | todo |  |
 | 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | todo |  |
 | 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -823,3 +822,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#175] Xưng hô Kang MiRae và Na YuNa gọi Kim YeSeul: raw dùng "Mother" (어머님 eomeonim), bản dịch tạm để cả hai gọi là "mẹ" (xưng "cháu / con") để giữ tình huống hiểu lầm hài hước "chấm con dâu" của Kim YeSeul; xin ý kiến user xác nhận giữ "mẹ" hay đổi thành "bác / bác gái". → Giữ gọi "mẹ" (xưng "cháu / con") như bản dịch và pronouns.md đã ghi, vì câu dẫn trong raw ("due to Kang MiRae calling her 'mother'") lấy chính cách gọi "mẹ" (어머님) làm chi tiết gây cười khi Kim YeSeul tự chấm con dâu. (orchestrator)
 - [#176] Ba dòng cuối raw là lời nhắn ngoài truyện của tác giả ('Ghi chú tác giả:' và 2 dòng bình luận) — Tạm chọn: thêm vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md theo quy tắc bỏ ghi chú ngoài truyện. → Giữ nguyên quyết định thêm 3 dòng cuối raw chương 176 ('Ghi chú tác giả:' và 2 câu bình luận) vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md. (orchestrator)
 - [#176] Kỹ năng ma pháp 'Time Stop' của Kim YeSeul và 'Thunderstorm' của Kang MiRae — Tạm chọn: dịch Hán Việt là 'Ngưng Đọng Thời Gian' và 'Bão Lôi' rồi lưu vào glossary.md. → Chốt 'Time Stop' là 'Ngưng Đọng Thời Gian'; tạm giữ 'Thunderstorm' là 'Bão Lôi' ở chương 176 và sẽ đồng bộ thành 'Lôi Bão' (thuần Hán Việt, khớp 'Lôi Bão Kép' ở chương 126) ở bước sửa sau review 175–177. (orchestrator)
+- [#177] Cụm từ "slug cartridge" (đạn vỡ từ xương ác ma khuếch đại xung kích khi Bật Nhảy) — Tạm chọn: "hộp đạn slug". Phương án khác: "khối đạn slug", "hộp đạn đặc". → Giữ "hộp đạn slug" (nhất quán với cách dịch "cartridge" là "hộp đạn" ở chương 32 và 168; cụm này chỉ xuất hiện ở chương 177). (orchestrator)

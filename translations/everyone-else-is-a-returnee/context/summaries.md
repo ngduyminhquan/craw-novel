@@ -1087,5 +1087,12 @@ Yumir bắt sống nhóm quý tộc Lanpas tiếp tay cho thiên thần sa ngã;
 Kim YeSeul tiết lộ năng lực thời gian kỳ bí của mình bắt nguồn từ việc bị kẹt trong các vòng lặp; cả nhóm quyết định tiếp tục sang Breya để truy quét thêm các ma pháp trận.
 Cảnh kết thúc: Tại không gian đỏ ngầu, Yu IlHan gom một bầy quái vật khổng lồ để săn một mẻ khiến Liera và Erta kinh hãi hét toáng lên, trong khi anh thản nhiên tuyên bố mình vừa nâng độ khó từ cấp địa ngục lên cấp hỏa ngục.
 
+## 177
+Nhận thấy việc hạ gục ác ma quá nhanh bằng Súng Bắn Cọc và Lôi Búa không giúp kỹ năng tăng tiến đồng đều, Yu IlHan quyết định tăng độ khó bằng cách gom quái số lượng lớn; anh kích hoạt Đồng Hồ Cát Vĩnh Hằng có 2 tháng rèn đúc chế tạo hàng loạt pháo nỏ đánh chặn tự động, lựu đạn, mìn và bẫy lôi/băng phẩm cấp Sử Thi có gắn tàn niệm chuyển chức 4 do Orochi quản lý.
+Bước vào trận chiến, Yu IlHan phối hợp nhịp nhàng giữa Bật Nhảy, hộp đạn slug khuếch đại xung chấn làm từ xương ác ma và dàn pháo nỏ ngụy trang ẩn thân giăng thiên la địa võng nghiền nát đàn quái vật chuyển chức 4 cấp 260 trở lên.
+Với những đòn đâm thương Bất Khả Họa Quỹ Đạo vung ra 3 quỹ đạo chí mạng cùng lúc, anh thăng lên cấp 187, Bất Khả Họa Quỹ Đạo Thương lên cấp 68 và Bật Nhảy lên cấp 96.
+Cảnh kết thúc: Mũi thương rực cháy ngọn lửa trắng kết hợp giữa Ngọn Lửa Vĩnh Cửu và Liệt Hỏa, Yu IlHan hào hứng khiêu chiến toàn bộ lũ quái vật mở màn cuộc tiểu chiến tranh thứ 7 giữa tiếng la ó cãi cọ của Liera và Erta, hoàn toàn không hay biết tình hình hiểm nguy tại Trái Đất.
+
+
 
 

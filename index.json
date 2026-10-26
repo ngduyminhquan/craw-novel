@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:44:46Z",
+  "generatedAt": "2026-10-26T19:51:24Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1061,6 +1061,12 @@
           "title": "Chương 176: Mọi Người Đều Là Hộ Vệ – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_176.md",
           "sha": "84f0d19fe2f28d499bb6013acdeacc064a4ef190"
+        },
+        {
+          "number": 177,
+          "title": "Chương 177: Mọi Người Đều Là Hộ Vệ – 4",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_177.md",
+          "sha": "a9e946525cbeb23d878773fedcc7e89605f057eb"
         }
       ]
     }
