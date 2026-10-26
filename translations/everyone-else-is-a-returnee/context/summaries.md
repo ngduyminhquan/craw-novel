@@ -921,6 +921,13 @@ IlHan xin phép chỉnh sửa bản thiết kế bằng cách tích hợp thêm 
 Mục đích thực sự của IlHan là nhằm thỏa mãn điều kiện tiến hóa của kỹ năng Ngôn Ngữ (cần thu thập Ghi Chép Các Thế Giới từ 100 thế giới khác nhau); anh lợi dụng sự kết hợp giữa Thống Trị và Linh Hồn Phụ Ma để thu hoạch ghi chép thế giới gián tiếp từ xa qua tàn hồn thuộc hạ.
 Cảnh kết thúc: Hệ thống thông báo thuộc hạ Rắn Khổng Lồ hấp thụ thành công một phần ghi chép của thế giới bậc cao El Tièfè, đưa tiến độ Ghi Chép Các Thế Giới lên 8/100, xác nhận canh bạc của IlHan đã thành công mỹ mãn.
 
+## 150
+Sau khi cuộc thử nghiệm thành công mỹ mãn, Spiera truyền đạt quyết định của Thiên giới: IlHan sẽ chế tạo một phần tư số lượng Bẫy Hủy Diệt nâng cấp để phân bổ tới từng thế giới, tạo cơ hội cho anh tiếp tục thu thập Ghi Chép Các Thế Giới; IlHan rút ngắn thời gian chế tác xuống còn 20 phút mỗi chiếc và tranh thủ dùng bộ dụng cụ rèn đúc để gia công vật liệu chuẩn bị xây biệt thự.
+Trong lúc đó, Trái Đất rơi vào hỗn loạn trước thềm Đại Tai Biến lần 2 khi quái vật gia tăng và Vỡ Hầm Ngục xuất hiện liên tục; lực lượng Trấn Áp cùng trung úy Han YeoRang và các thuộc hạ của IlHan phải liên tục thực chiến bảo vệ an ninh.
+Các thế lực cũ tung video cắt ghép bôi nhọ Susanoo tàn sát dân thường ở Venezuela nhằm kiềm chế tầm ảnh hưởng của anh, nhưng âm mưu phản tác dụng hoàn toàn khi người dân và các clan đồng loạt nổi dậy phẫn nộ, tạo nên cuộc thanh trừng xã hội lật đổ các gia tộc thao túng quyền lực suốt một tháng rưỡi.
+Cảnh kết thúc: Mặc kệ biến động xã hội bên ngoài, IlHan hoàn tất chuẩn bị vật liệu và cùng bé Yumir hào hứng bắt tay vào chiến dịch xây dựng "Tổ ấm thân yêu", khiến Liera chỉ biết thở dài ngao ngán trước bản tính tách biệt của Kẻ Cô Độc Toàn Vũ Trụ.
+
+
 
 
 

@@ -263,6 +263,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thẳng thắn, hơi bộc trực, sợ cấp trên nhưng cũng rất cá tính; dễ ấm ức trước thái độ phũ phàng của IlHan.
 - Trạng thái tính đến chương 12: Đứng ra mua lại xác bầy Chó Lang Thang từ IlHan theo lệnh cấp trên; bất đắc dĩ phải thử dùng "mỹ nhân kế" để lôi kéo anh nhưng thất bại thảm hại.
 - Trạng thái tính đến chương 71: Được thăng cấp lên Trung úy, chuyển sang phục vụ trong lực lượng đặc nhiệm Trấn Áp; cùng Đại tá Yun DaeHan sang Nhật Bản tham gia tuyến phòng thủ Tokyo trước khi sáp nhập vào Quân Đoàn Susanoo.
+- Trạng thái tính đến chương 150: Ngày đêm thực chiến chống quái vật bảo vệ tổ quốc trước thềm Đại Tai Biến lần 2; mỗi lần xuất kích đều gào thét đòi giải ngũ lấy chồng giàu và liên tục réo tên Yu IlHan khiến đồng đội thắc mắc.
 
 ### Do WooJun
 - Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.

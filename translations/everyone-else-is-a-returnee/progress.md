@@ -154,7 +154,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 147 |  | Chapter_147 - The MVP Is Mine V.txt | The MVP Is Mine V | reviewed |  |
 | 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | done |  |
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | done |  |
-| 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | todo |  |
+| 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | done |  |
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | todo |  |
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | todo |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | todo |  |
