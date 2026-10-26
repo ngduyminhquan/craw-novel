@@ -2,7 +2,7 @@
 
 Trước khi kích hoạt kết giới, họ đã được phân chia nhiệm vụ rõ ràng.
 
-Bốn người elf chịu trách nhiệm giải phẫu, còn Yu IlHan sẽ chế tác bằng các nguyên liệu đã qua giải phẫu cũng như các sản phẩm của Angel Tear — lá trà Fyylita, bột bánh quy và món tráng miệng hoa quả, trong khi Ericia và Yumir phụ trách hỗ trợ và đóng gói mọi thứ được tạo ra từ Đại Thùng.
+Bốn người elf chịu trách nhiệm giải phẫu, còn Yu IlHan sẽ chế tác bằng các nguyên liệu đã qua giải phẫu cũng như các sản phẩm của Angel Tear — lá trà Fyylita, bột bánh quy và món tráng miệng hoa quả, trong khi Erica và Yumir phụ trách hỗ trợ và đóng gói mọi thứ được tạo ra từ Đại Thùng.
 
 [Trong lịch trình của cậu chẳng thấy có chỗ nào dành cho việc luyện thương cả! Gào!] (Spiera)
 
@@ -16,7 +16,7 @@ Vì chẳng ai có thể bắt kịp tốc độ làm việc của anh, nên dù
 
 [Hì hì, thế cô không muốn ăn bánh quy à?] (Liera)
 
-[Lời cô nói nghe bực cả mình….. cơ mà, tôi vẫn sẽ ăn!] (Spiera)
+[Lời cô nói nghe bực cả mình….. cơ mà, ta vẫn sẽ ăn!] (Spiera)
 
 Đúng như lời Spiera nói, con đường tắt có lẽ là tập trung rèn luyện để bản thân trở nên mạnh mẽ hơn. Chỉ cần tinh thông thêm một kỹ thuật vũ khí cao cấp nữa thôi cũng đủ để nâng cao đáng kể toàn bộ thực lực, và anh sẽ dễ thở hơn nhiều trước bất kỳ kẻ thù nào ập tới.
 
@@ -116,7 +116,7 @@ Vấn đề nằm ở chỗ Hơi Thở chứa nồng độ cồn cực cao.
 
 "Ợ, nếu tôi say thì hãy dùng ma pháp đánh cho tôi tỉnh lại nhé."
 
-[Đừng lo. Tôi sẽ đập cho cậu một đòn ma pháp siêu mạnh để thổi bay cậu ra ngoài vũ trụ, chứ đừng nói là giúp cậu tỉnh táo.] (Spiera)
+[Đừng lo. Ta sẽ đập cho cậu một đòn ma pháp siêu mạnh để thổi bay cậu ra ngoài vũ trụ, chứ đừng nói là giúp cậu tỉnh táo.] (Spiera)
 
 [Đừng có thổi cậu ấy đi đâu hết! Giữ cậu ấy ở lại đây!] (Erta)
 
@@ -132,19 +132,19 @@ Vào lúc này, Yu IlHan đã làm ra một loại bánh quy mới bằng cách 
 
 [Sao lại là nước Mỹ. Cứ tính cả thế giới luôn đi.] (Erta)
 
-[Kỹ năng Nấu Nướng của tôi tăng tận 3 cấp chỉ nhờ ăn nó. Dù thấy bực bội nhưng tôi không thể không công nhận điều này... Rộp rộp.] (Spiera)
+[Kỹ năng Nấu Nướng của ta tăng tận 3 cấp chỉ nhờ ăn nó. Dù thấy bực bội nhưng ta không thể không công nhận điều này... Rộp rộp.] (Spiera)
 
 [Này, đó là của tôi mà, đừng có ăn luôn chứ!] (Liera)
 
 Phớt lờ cuộc đại chiến siêu nhỏ lần thứ 4 giữa các thiên thần, Yu IlHan tiếp tục nhào nặn thêm nhiều mẻ bột bánh quy.
 
-Ở một góc khác, Yumir và Ericia đang dùng khuôn bánh quy để chia từng chiếc ra trước khi đem nướng trong lò. Nướng xong, họ đợi bánh nguội bớt rồi đóng gói lại, sau đó tất cả sẽ được chuyển thẳng vào túi đồ của Yu IlHan.
+Ở một góc khác, Yumir và Erica đang dùng khuôn bánh quy để chia từng chiếc ra trước khi đem nướng trong lò. Nướng xong, họ đợi bánh nguội bớt rồi đóng gói lại, sau đó tất cả sẽ được chuyển thẳng vào túi đồ của Yu IlHan.
 
 'Hừm. Mình nên làm xong mẻ này thật nhanh rồi tiếp tục nướng thêm mới được…..'
 
 [Khéck!] (Erta)
 
-Thế nhưng, ngay khi anh vừa nhấp một ngụm túi Hơi Thở vừa định nhào bột, thì Erta, người bị Spiera tung cú móc hàm hất văng đi, đã đập thẳng vào sau gáy Yu IlHan khiến ngụm rượu trong miệng anh phun trào hết lên khối bột bánh quy.
+Thế nhưng, ngay khi anh vừa nhấp một ngụm từ túi Hơi Thở vừa định nhào bột, thì Erta, người bị Spiera tung cú móc hàm hất văng đi, đã đập thẳng vào sau gáy Yu IlHan khiến ngụm rượu trong miệng anh phun trào hết lên khối bột bánh quy.
 
 Khối bột bánh quy ướt sũng trong Hơi Thở, rồi chẳng mấy chốc đã nhuốm một màu đỏ rực.
 
@@ -212,7 +212,7 @@ Cho bánh vào khuôn rồi đem nướng trong lò chẳng mất quá nhiều t
 
 Một cấp trong lúc nhào bột, và hai cấp trong lúc nướng bánh. Xét tới việc kỹ năng Nấu Nướng của Yu IlHan đã đạt tới đẳng cấp rất cao do nhiều hoàn cảnh khác nhau, thì việc đoán ra mẻ bánh quy làm bằng Hơi Thở kết hợp qua Đại Thùng chẳng phải thứ tầm thường là điều vô cùng dễ dàng.
 
-Các elf đang cặm cụi giải phẫu bên cạnh, cũng như Ericia đang đóng gói bánh quy, đều đưa mắt tha thiết nhìn về phía Yu IlHan, thế nhưng vì trong hỗn hợp có pha thêm Hơi Thở, anh không thể để họ ăn một cách tùy tiện như thế được.
+Các elf đang cặm cụi giải phẫu bên cạnh, cũng như Erica đang đóng gói bánh quy, đều đưa mắt tha thiết nhìn về phía Yu IlHan, thế nhưng vì trong hỗn hợp có pha thêm Hơi Thở, anh không thể để họ ăn một cách tùy tiện như thế được.
 
 Chỉ có Yu IlHan, các thiên thần, cùng Yumir, đứa trẻ bẩm sinh đã sở hữu Kháng Độc Cực Hạn, mới có đủ tư cách thưởng thức chiếc bánh quy này!
 
@@ -246,7 +246,7 @@ Thế nhưng, vẫn còn một điều tuyệt vời hơn thế nữa.
 
 "Tuân lệnh ạ!"
 
-Ngay khi nhận được sự cho phép của Yu IlHan, các elf và cả Ericia liền xúm lại thưởng thức mỗi người một chiếc bánh quy. Nhìn họ xúc động nghẹn ngào trước hương thơm cùng mùi vị của chiếc bánh, anh cảm nhận được một cảm giác dịu êm đang lan tỏa khắp cơ thể mình.
+Ngay khi nhận được sự cho phép của Yu IlHan, các elf và cả Erica liền xúm lại thưởng thức mỗi người một chiếc bánh quy. Nhìn họ xúc động nghẹn ngào trước hương thơm cùng mùi vị của chiếc bánh, anh cảm nhận được một cảm giác dịu êm đang lan tỏa khắp cơ thể mình.
 
 Một sự bao dung rộng lớn tựa như chiếc bánh quy, mang lại cảm giác như có thể ôm trọn mọi sinh linh! Yu IlHan ngỡ rằng đây chỉ là một cảm xúc thoáng qua, nhưng không phải. Ngay khoảnh khắc tiếp theo, mana của Yu IlHan liền phản ứng và dao động như muốn chào đón nó.
 
@@ -260,7 +260,7 @@ Một sự bao dung rộng lớn tựa như chiếc bánh quy, mang lại cảm 
 
 Yu IlHan đọc những dòng chữ hiện lên trên võng mạc, rồi nhìn thấy tất cả mọi người xung quanh cũng đều đứng lặng người như anh. Chắc hẳn ai nấy cũng đều đang suy nghĩ cùng một điều.
 
-[Bùa lợi từ thức ăn… Đây là lần đầu tiên trong cả đời làm thiên thần của mình....]
+[Bùa lợi từ thức ăn… Đây là lần đầu tiên trong cả đời làm thiên thần của tôi....]
 
 Tấm lưới của kẻ say ngủ… rốt cuộc lại níu trúng tà áo của nữ thần may mắn.
 

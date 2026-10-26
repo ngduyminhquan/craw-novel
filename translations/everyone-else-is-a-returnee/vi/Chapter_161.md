@@ -60,7 +60,7 @@ Với vẻ mặt hung dữ, Yu IlHan quay sang nhìn cả ba thiên thần rồi
 
 [Bánh quy.]
 
-[Bá... Bánh quy!]
+[Hôn... Bánh quy!]
 
 Anh mở một gói bánh quy nhồi ma pháp rồi nhét vào miệng mỗi thiên thần một chiếc. Anh bắt gặp những ánh mắt đòi ăn thêm, nhưng biết đâu sau đó họ sẽ còn uy hiếp anh dữ dội hơn, nên anh tính toán sẽ phân phát cách quãng theo từng đợt.
 
@@ -176,7 +176,7 @@ Giờ đây, thời gian cho đến khi kết giới được giải trừ chẳ
 
 Trong suốt ba ngày được xử lý bên trong Đại Thùng, mana loài rồng đã nén các hạt bột lại khiến chúng trở nên nhỏ hơn và cứng cáp hơn, thậm chí còn tăng cường các thuộc tính, và giờ đây, chúng mang đặc tính sẽ phát nổ với sức mạnh kinh hoàng ngay cả khi Yu IlHan chỉ mới nung nóng chúng bằng Liệt Hỏa.
 
-Anh đã thử nghiệm và đánh giá rằng chỉ cần một nắm bột trong lòng bàn tay cũng đủ sức nghiền nát một con quái vật chuyển chức lần 3 ở cấp 120 thành tro bụi.
+Anh đã thử nghiệm và đánh giá rằng chỉ cần một nắm bột trong lòng bàn tay cũng đủ sức nghiền nát một con quái vật chuyển chức 3 ở cấp 120 thành tro bụi.
 
 [Hả?] (Liera)
 

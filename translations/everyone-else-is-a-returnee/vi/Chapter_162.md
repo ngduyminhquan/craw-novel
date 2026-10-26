@@ -44,7 +44,7 @@ Những kẻ vốn chẳng ưa gì Vanguard đã lập tức tuôn ra hàng trà
 
 Bất chấp mức giá trên trời khiến không phải ai cũng dễ dàng thưởng thức, hương vị của chúng lại xuất sắc đến khó tin, và tin đồn cứ thế lan truyền với tốc độ chóng mặt. Lẽ tất nhiên, những lời đồn thổi ấy nhanh chóng lọt vào tai người của các thế giới khác đang ghé thăm Trái Đất.
 
-Những kẻ vốn đang vừa đi tham quan Trái Đất vừa buông lời cằn nhằn Vanguard vì chẳng chịu công bố bất kỳ lịch trình nào liền tức tốc kéo nhau đến Gangnam, để rồi bắt gặp một thứ sản phẩm còn quý giá hơn bất kỳ thứ gì khác trên cõi đời này.
+Những kẻ vốn đang vừa đi tham quan Trái Đất vừa buông lời cằn nhằn Vanguard vì chẳng chịu công bố bất kỳ lịch trình nào liền tức tốc kéo nhau đến Gangnam, để rồi bắt gặp một thứ sản phẩm còn quý giá hơn bất kỳ thứ gì khác trên Trái Đất.
 
 "Ôi lạy Thượng Đế."
 
@@ -168,7 +168,7 @@ Tại sao Kang MiRae lại phải quyến rũ anh chứ? Cô ấy đâu có thi�
 
 "Tôi không biến mất đâu. Ừ thì, ít nhất là trong một khoảng thời gian dài nữa sẽ không biến mất đâu."
 
-"Anh tuyệt đối không được biến mất. Tôi sẽ xử lý hết mọi lũ giòi bọ bất tài dám mon men bò tới, vì vậy xin anh đừng bao giờ biến mất."
+"Anh tuyệt đối không được biến mất. Tôi sẽ xử lý hết lũ giòi bọ bất tài dám mon men bò tới, vì vậy xin anh đừng bao giờ biến mất."
 
 "Tôi biết rồi mà."
 
