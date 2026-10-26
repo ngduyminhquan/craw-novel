@@ -22,7 +22,7 @@ Yumir tìm kiếm bố mình đầu tiên trong tình cảnh xa lạ này. Và n
 
 Sau khi rút ra được kết luận, Yumir cảm thấy an lòng hơn hẳn. Chỉ riêng việc Yu IlHan từng đặt chân đến chốn này thôi cũng đã khiến cậu cảm nhận được sợi dây gắn kết giữa mình và Yu IlHan.
 
-Kìm nén những giọt nước mắt chực trào, Yumir bắt đầu suy ngẫm. Nếu là bố mình thì ông ấy sẽ làm gì trong tình cảnh này?
+Kìm nén những giọt nước mắt chực trào, Yumir bắt đầu suy ngẫm. Nếu là bố mình thì bố sẽ làm gì trong tình cảnh này?
 
 "Mình biết rồi, giết sạch mọi thứ trong tầm mắt!"
 
@@ -92,7 +92,7 @@ Những đứa bé nom thậm chí còn chưa đầy 3 hay 4 tuổi. Thực ra, 
 
 "Mẹ ơi, mẹ ở đâu rồi!"
 
-[Kuaooooooooooooh!]
+[Khuặoooooooooooh!]
 
 Đáp lại thay cho những người mẹ mà chúng đang tìm kiếm lại là một con quái vật. Đó là một sinh vật kinh hoàng với chiều cao hơn 20 mét, toàn thân phun ra những luồng hỏa diễm rực cháy.
 
@@ -106,7 +106,7 @@ Như thể đang tự thôi miên chính mình, Yumir lẩm bẩm rồi Bật Nh
 
 Dẫu không thể Bật Nhảy một mạch vài cây số như Yu IlHan, nhưng luồng phong khí dưới chân đóng vai trò như một lực đẩy tăng tốc, khiến tốc độ của cậu chẳng hề thua kém tốc độ tức thời của Yu IlHan. Thành quả từ những chuỗi ngày khổ luyện để di chuyển thật nhanh như bố cuối cùng cũng đã đơm hoa kết trái.
 
-[Kioaaaaaahk!]
+[Khéaaaaaahk!]
 
 "Oaaaaaa!"
 
@@ -118,7 +118,7 @@ Thế nhưng đúng vào khoảnh khắc ấy, cú đấm trực diện của Yu
 
 [Chí Mạng!]
 
-[Kuoooooh!]
+[Khuoooooh!]
 
 Con quái vật gầm thét đau đớn. Tuy nhiên, Yumir không coi đó là một mối đe dọa mà xem như một sơ hở mới lộ ra và tiếp tục chuyển động thân mình. Mượn đà xông tới, cậu liền tung một cú đá bồi thẳng vào đầu con quái vật đúng như thế!
 
@@ -128,7 +128,7 @@ Cú đá của Yumir được bao bọc trong ma pháp phong cấp cao, có đ�
 
 Lẽ dĩ nhiên, điều đó chỉ có thể thực hiện được là nhờ Yumir sở hữu khả năng kiểm soát ma pháp phong tuyệt đỉnh. Năng lực điều khiển gió để làm dịu đi mọi thứ mỗi khi đối mặt với xung lực từ bên ngoài của Yumir đã vượt xa trình độ của một cấp chuyển chức 3 thông thường.
 
-[Kuoooooh!]
+[Khuoooooh!]
 
 "Hừ!"
 
@@ -146,7 +146,7 @@ Thế nhưng, ngọn lửa của nó chẳng thể làm tổn thương Yumir đ�
 
 Những đứa trẻ đã biết bập bẹ đôi câu quên bẵng cả việc khóc lóc và reo hò với đôi mắt sáng rực. Yumir thầm nghĩ lũ ngốc thực sự chẳng hợp với sở thích của mình chút nào, rồi cậu tiếp tục truyền thêm mana vào cơ thể.
 
-[Kihaaaah!]
+[Khéaaaah!]
 
 "Giao điểm kinh nghiệm ra đây!"
 
@@ -156,11 +156,11 @@ Những con ác ma này dựa vào thuộc tính nhiều hơn là năng lực th
 
 "Éccc! Ííííí!"
 
-[Khuaooooooooh!]
+[Khuặoooooooooh!]
 
 Chẳng rõ đã bao nhiêu thời gian trôi qua kể từ khi tiếng thét của một tiểu long và tiếng gầm rú của con ác ma ngọn lửa bắt đầu hòa lẫn vào nhau. Cuối cùng, nắm đấm của Yumir đã giáng thẳng vào chiếc đầu khổng lồ của con quái vật.
 
-[Kihk, Kihi...]
+[Khặc, khặc...]
 
 Con quái vật thậm chí còn không kịp rống lên một lời trăn trối cuối cùng trước khi đổ gục xuống đất. Đúng lúc ấy, một dòng văn tự kỳ lạ không rõ hiển hiện trên võng mạc của một Yumir đang mệt nhoài.
 

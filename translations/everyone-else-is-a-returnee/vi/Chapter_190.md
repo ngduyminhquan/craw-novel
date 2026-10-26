@@ -58,7 +58,7 @@ Liera không hề do dự làm bất cứ điều gì mình muốn, một nét t
 
 Nhìn vào lúc này mà xem. Erta từng nghĩ rằng đạt được chuyển chức lần 6 sẽ giúp ích nhiều hơn cho Yu IlHan nên mới trở về Thiên giới, để rồi bị đẩy vào tình cảnh có thể sẽ chẳng bao giờ gặp lại anh nữa. Trái lại, Liera gạt phăng mọi lý trí lẫn thứ tự ưu tiên của công việc để ở lại bên Yu IlHan, thành thật với cảm xúc muốn kề vai sát cánh cùng anh của chính mình. Và kết quả thì sao? Ngay lúc này cô ấy đang ở bên cạnh anh, chẳng phải vậy sao?
 
-"Phải rồi. Hai người họ hợp nhau đến thế cơ mà. Chẳng bù cho một kẻ như mình, chuyện gì cũng đắn đo suy tính thiệt hơn, viện cớ lý trí này nọ, để rồi rốt cuộc lại chuốc lấy thất bại..."
+'Phải rồi. Hai người họ hợp nhau đến thế cơ mà. Chẳng bù cho một kẻ như mình, chuyện gì cũng đắn đo suy tính thiệt hơn, viện cớ lý trí này nọ, để rồi rốt cuộc lại chuốc lấy thất bại...'
 
 Erta dâng trào một nỗi tự ghê tởm chính mình. Cô cảm thấy thật thảm hại, bi đát, và trên hết, cô muốn được gặp Yu IlHan.
 
@@ -98,7 +98,7 @@ Spiera là một thiên thần cấp cao chuyển chức lần 6 không sợ tr�
 
 Erta rốt cuộc cũng phải bật cười sau khi nghe thấy điều đó. Cảm giác tuyệt vọng mà cô hiếm khi phải nếm trải kể từ ngày trở thành thực thể cấp cao nay lại bủa vây khắp cơ thể cô. Cứ như thể cô đã biến thành một kẻ đại ngốc trong khi tất cả mọi người đều đang hành động theo phán đoán của riêng họ.
 
-"Mình phải làm sao đây, Yu IlHan? Chính mình là người luôn miệng bảo anh phải tin tưởng vào Quân Đội Thiên Giới và các thiên thần, vậy mà giờ đây mình lại ra nông nỗi này....."
+'Mình phải làm sao đây, Yu IlHan? Chính mình là người luôn miệng bảo anh phải tin tưởng vào Quân Đội Thiên Giới và các thiên thần, vậy mà giờ đây mình lại ra nông nỗi này.....'
 
 Trong lúc Erta còn đang bối rối không biết phải làm gì với cảm giác tội lỗi dành cho Yu IlHan, Tibera lại cất tiếng mà chẳng hề hay biết cô đang suy nghĩ điều gì.
 
@@ -142,7 +142,7 @@ Spiera kinh hãi thốt lên, nhưng đã quá muộn. Erta không thể kìm n�
 
 Đôi mắt của Erta long lanh. Ngay cả bản thân cô cũng không thể tin nổi, nhưng những giọt nước mắt thực sự đang dâng trào trong khóe mi cô lúc này.
 
-[Các ngài đã nói rằng Trái Đất luôn vượt xa mọi dự tính của chúng ta, đúng chứ? Thế nhưng, đã có một sự tồn tại vượt qua mọi dự tính của chúng ta từ trước đó rất lâu rồi. Phải, các ngài đoán đúng rồi đấy. Đó chính là Yu IlHan. Một ngày nào đó anh ấy sẽ tự mình trở thành một thực thể cấp cao và tự tay Thống Trị Trái Đất. Và sẽ chẳng có bất kỳ ai có thể chiếm đoạt được Trái Đất đâu!]
+[Các ngài đã nói rằng Trái Đất luôn vượt xa mọi dự tính của chúng ta, đúng chứ? Thế nhưng, đã có một sự tồn tại vượt qua mọi dự tính của chúng ta từ trước đó rất lâu rồi. Phải, các ngài đoán đúng rồi đấy. Đó chính là Yu IlHan. Một ngày nào đó anh ấy sẽ tự mình trở thành một thực thể cấp cao và tự tay thống trị Trái Đất. Và sẽ chẳng có bất kỳ ai có thể chiếm đoạt được Trái Đất đâu!]
 
 [Chuyện đó là bất khả thi. Dù có là một con người xuất chúng đến đâu đi chăng nữa, người ta cũng không thể tự mình trở thành một thực thể cấp cao được. Kẻ bị mắc kẹt trên Trái Đất như hắn sẽ chẳng thể nào tiếp xúc được với bất kỳ phe phái thực thể cấp cao nào, và cũng sẽ chẳng có ai thèm để mắt tới hắn đâu.]
 
@@ -160,15 +160,15 @@ Tibera quát tháo giận dữ, và Spiera cũng siết chặt ngọn thương t
 
 Erta không chịu thua nửa lời cho đến tận phút chót, rồi dang rộng đôi cánh. Kế đó, cô liền vút bay đi trước khi các thiên thần cấp cao kịp tóm lấy cô.
 
-"Đồ ngốc. Mình đúng là một con ngốc mà."
+'Đồ ngốc. Mình đúng là một con ngốc mà.'
 
 Cô thậm chí còn không kiềm chế nổi cảm xúc của mình mà nói ra những lời báng bổ, lại còn chọc giận cả cấp trên. Cô hoàn toàn mất hết tư cách của một thực thể cấp cao rồi. Thế nhưng, đồng thời trong đầu cô cũng nảy ra suy nghĩ này.
 
-"Vậy nên, trong tương lai mình phải cẩn thận để không phạm phải những sai lầm lớn hơn nữa."
+'Vậy nên, trong tương lai mình phải cẩn thận để không phạm phải những sai lầm lớn hơn nữa.'
 
 Cô nghĩ về Yu IlHan. Cô tin rằng anh sẽ tự mình trở thành một thực thể cấp cao và trở thành chúa tể của Trái Đất. Không, có lẽ cô chỉ đang muốn tin vào điều đó mà thôi, nhưng cô thực sự đã tuyệt vọng đến mức ấy rồi.
 
-"Bắt đầu từ bây giờ, mình cần phải chuẩn bị."
+'Bắt đầu từ bây giờ, mình cần phải chuẩn bị.'
 
 Hạ quyết tâm trong lòng, cô lại một lần nữa vỗ cánh.
 
