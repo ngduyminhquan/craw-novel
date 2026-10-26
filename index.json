@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T21:12:20Z",
+  "generatedAt": "2026-10-26T21:18:23Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1115,6 +1115,12 @@
           "title": "Chương 185: Con Đường Tôi Đi – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_185.md",
           "sha": "669b5136292598af6af4cc43029f2440ba2d6484"
+        },
+        {
+          "number": 186,
+          "title": "Chương 186: Con Đường Tôi Đi – 4",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_186.md",
+          "sha": "aff323575acaba2dc29aa5a86ae2302951c42efb"
         }
       ]
     }

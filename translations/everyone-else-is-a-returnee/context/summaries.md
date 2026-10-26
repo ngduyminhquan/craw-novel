@@ -1142,6 +1142,12 @@ Yêu cầu chuyển chức vô cùng khắc nghiệt gồm thuần thục 7 kỹ
 Na YuNa chứng kiến sức mạnh tựa Thần linh của IlHan liền dấy lên nỗi sợ bị bỏ lại phía sau và ôm chặt lấy anh cầu xin anh đừng rời xa; IlHan nghiêm túc nhờ cô tiếp tục gia phúc bùa lợi để cùng anh săn lùng tiêu diệt hết tàn dư thiên thần sa ngã canh giữ ma pháp trận trước khi tin tức rò rỉ.
 Cảnh kết thúc: Na YuNa đồng ý tiếp tục hỗ trợ IlHan; Liera đứng bên khẽ thì thầm trêu chọc rằng kẻ rung động trước luôn là kẻ thua cuộc.
 
+## 186
+Nhận hiệu ứng tăng 20% toàn bộ năng lực trước kẻ địch từ chuyển chức 4 trở lên từ danh hiệu 'Bất Khả Xâm Phạm', Yu IlHan cùng Na YuNa tiếp tục hành trình săn lùng thiên thần sa ngã và phá hủy ma pháp trận ở các thế giới; sau khi qua 4 thế giới, anh phục kích nhất kích tất sát tên thiên thần sa ngã thứ hai, nâng Bất Khả Họa Quỹ Đạo Thương lên cấp 86, Tử Thần lên cấp 90 và hoàn thành mục tiêu diệt 1 thực thể chuyển chức 5 (1/1).
+Cả hai tên thiên thần sa ngã trước khi chết đều trăn trối rằng 'đã quá muộn', khiến IlHan băn khoăn nghi ngờ các ma pháp trận chỉ là mồi nhử nghi binh che giấu âm mưu ngầm lớn hơn của phe địch nhắm vào Trái Đất.
+Nhờ kết hợp cánh Hiệu Triệu Diệt Vong và Bật Nhảy, IlHan rút ngắn thời gian quét sạch mỗi thế giới xuống trung bình 25 phút; Na YuNa thắc mắc về bí quyết bay lượn và tò mò về quá khứ của IlHan khiến Liera nổi máu ghen tuông đe dọa đòi xử đẹp cô khi thành thực thể cấp cao.
+Cảnh kết thúc: Yu IlHan tò mò hỏi Na YuNa về mùi hương cơ thể tự nhiên thơm ngát khiến cô nàng thích thú ôm chặt tay anh không buông, còn IlHan quyết định sau này sẽ bảo vệ cô khỏi bàn tay Liera.
+
 
 
 

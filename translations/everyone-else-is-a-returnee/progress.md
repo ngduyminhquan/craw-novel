@@ -190,7 +190,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 183 |  | Chapter_183 - The Path I Walk – 1.txt | The Path I Walk – 1 | reviewed |  |
 | 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | done |  |
 | 185 |  | Chapter_185 - The Path I Walk – 3.txt | The Path I Walk – 3 | done |  |
-| 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | todo |  |
+| 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | done |  |
 | 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | todo |  |
 | 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | todo |  |
 | 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -838,3 +839,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#184] Tên danh hiệu 'Untouchable' — Tạm dùng: 'Bất Khả Xâm Phạm'. Phương án khác: 'Bất Khả Xúc Cập', 'Không Thể Chạm Tới'. → Chốt danh hiệu 'Untouchable' là 'Bất Khả Xâm Phạm' (Hán Việt ngắn gọn theo rules.md). (orchestrator)
 - [#185] Cụm "Flaming Monarch" khi Yu IlHan giải nghĩa chức nghiệp "Burning Lord" — Tạm chọn: "Liệt Hỏa Quân Vương". Phương án khác: "Hỏa Diễm Quân Vương". → Giữ cách dịch "Liệt Hỏa Quân Vương" trong chương 185 nhưng đưa `Flaming Monarch` vào danh sách Đã loại của glossary.md vì đây chỉ là cụm diễn giải 1 lần nghĩa của Burning Lord trong độc thoại, không phải tên chức nghiệp hệ thống. (orchestrator)
 - [#185] Cảnh báo QA về 'God' trong "God-like being" miêu tả Yu IlHan — Giữ "tựa Thần linh" (so sánh như thần thánh), không dịch thành "Thượng Đế" (Đấng tạo hóa). → Giữ "tựa Thần linh" (so sánh như thần thánh, cảnh báo thiếu 'Thượng Đế' của QA là báo nhầm hợp lệ). (orchestrator)
+- [#186] Xưng hô đối đáp châm chọc giữa Na YuNa và Liera: Na YuNa gọi Liera là "bà cô" (raw tiếng Anh "ahjumma"), Liera phản ứng tức tối "[Bà cô!?]"; tạm dùng "bà cô" theo sắc thái chọc ghẹo của thiếu nữ với phụ nữ lớn tuổi hơn. Đề xuất: giữ nguyên "bà cô". → Giữ cách gọi châm chọc "bà cô" (tương ứng từ tiếng Hàn "ahjumma" khi thiếu nữ trêu chọc phụ nữ lớn tuổi hơn). (orchestrator)
