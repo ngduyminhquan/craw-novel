@@ -341,7 +341,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Depression |  | Trầm Cảm | khác | 54 | Biệt danh người đời chế giễu tổ chức Trấn Áp do nhân viên lúc nào cũng mang bộ mặt ủ rũ như sắp chết |
 | Breya |  | Breya | địa danh | 55 | Thế giới khác nơi Na YuNa từng chuyển sinh đến |
 | Palladia |  | Palladia | địa danh | 55 | Đế quốc nơi có Cung Đình Ma Pháp Trưởng sở hữu trượng Độc Nhất |
-| Illta |  | Illta | địa danh | 55 | Tên Đế quốc Ma Pháp trong truyền thuyết |
+| Illta | Magic Kingdom of Illta | Illta | địa danh | 55 | Tên Vương quốc/Đế quốc Ma Pháp trong truyền thuyết |
 | Quegna | Quegnae | Quegna | quái vật | 55 | Loài quái vật tích tụ ma lực trong xương sống trong hầm ngục tại Trung Quốc |
 | Palace Magic Chief |  | Cung Đình Ma Pháp Trưởng | chức nghiệp | 55 | Chức danh người đứng đầu ma pháp hoàng gia tại đế quốc Palladia |
 | Magic Empire |  | Đế quốc Ma Pháp | khác | 55 | Quốc gia ma pháp hùng mạnh trong truyền thuyết |

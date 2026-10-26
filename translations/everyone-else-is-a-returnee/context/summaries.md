@@ -958,6 +958,13 @@ Trận chiến lắng dịu sau 20 ngày ác chiến, quét sạch khoảng 20% 
 Liera trở về từ Thiên Giới trao thưởng hoàn thành Nhiệm Vụ Thiên Giới 07 và 08 (+20 mọi chỉ số, +10 Sức mạnh) cùng kỹ năng bị động mới 'Ma Pháp Công Học' giúp tăng cường hiệu quả tạo tác và Chế Tác Mana, nhưng bản thân cô lại không biết cách rèn luyện kỹ năng này.
 Cảnh kết thúc: Giữa lúc IlHan đang bế tắc và khó xử trước sự xuất hiện bất ngờ của hai vị khách Kang MiRae và Na YuNa, MiRae bất ngờ tiết lộ thế giới cô từng đến có nền ma pháp công học vô cùng phát triển, mở ra lối thoát cho anh.
 
+## 156
+Kang MiRae chia sẻ thông tin về đế quốc Palladia thuộc thế giới Lanpas phát triển rực rỡ về ma pháp công học và hứa sẽ tìm tài liệu hỗ trợ Yu IlHan; Na YuNa chỉ ra sự bất thường khi quy mô quái vật khổng lồ của Đại Tai Biến lần 2 lại vắng bóng hoàn toàn quái vật chuyển chức 4, nghi ngờ chúng có mưu đồ mờ ám đang ẩn nấp.
+Giao Yumir và dinh thự cho Erta trông nom, IlHan dùng cánh Hiệu Triệu Diệt Vong cùng Liera và Spiera bay rà soát khắp Trái Đất nhưng không tìm thấy quái vật chuyển chức 4 nào; anh quyết định quét sạch quái vật tại một khu vực ở Thái Bình Dương bằng bão thương xương rồng và Roi Hắc Long.
+Sau 2 giờ càn quét quái vật, một vòng xoáy mana mới lại ngưng tụ; IlHan tự tin dồn Ngọn Lửa Vĩnh Cửu, Hỏa Tím, Liệt Hỏa vào Bất Khả Họa Quỹ Đạo Thương đâm xuyên vòng xoáy toan phá hủy nó một mình như ở dinh thự nhưng bất thành khiến vòng xoáy phát nổ.
+Cảnh kết thúc: Nhờ Aegis chắn trọn vụ nổ, IlHan bình an vô sự nhưng nhận ra không nhận được điểm kinh nghiệm phá hủy vòng xoáy, để rồi sững sờ đối diện trước một cánh cổng không gian mở ra khung cảnh rợn người bên trong.
+
+
 
 
 
