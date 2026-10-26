@@ -44,6 +44,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - record — danh từ chung đa nghĩa (ghi chép / kỷ lục), đã bác khi review chương 136–138 (#137)
 - Battle start — câu hiệu lệnh thông thường của trọng tài, không phải thuật ngữ cố định (#146)
 - Interspatial storage — cụm danh từ chung chỉ kho chứa không gian (trong raw viết thường `interspatial storage`), không phải tên kỹ năng hệ thống (#175)
+- settled mercenary system — cụm danh từ chung viết thường trong lời thoại chỉ chế độ lính đánh thuê định cư, không phải thuật ngữ hệ thống cố định (#176)
 
 ## Bảng thuật ngữ
 
@@ -666,3 +667,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Human Blazing Reaper |  | Nhân Loại Liệt Hỏa Tử Thần | chức nghiệp | 171 | Chức nghiệp chuyển chức 3 hệ nhân loại của Yu IlHan |
 | Black Dragon Whip |  | Roi Hắc Long | vật phẩm | 171 | Tên gọi tắt của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
 | Freedom |  | Tự Do | kỹ năng | 172 | Ma pháp quy mô thế giới do Quân Đội Ánh Sáng Rực Rỡ mưu đồ kích hoạt đồng loạt |
+| Time Stop |  | Ngưng Đọng Thời Gian | kỹ năng | 176 | Ma pháp thời gian làm chậm mục tiêu trong không gian chỉ định của Kim YeSeul |
+| Thunderstorm |  | Bão Lôi | kỹ năng | 176 | Ma pháp sấm sét cao cấp bậc nhất của Kang MiRae hút sạch mana phe địch lẫn đồng minh |

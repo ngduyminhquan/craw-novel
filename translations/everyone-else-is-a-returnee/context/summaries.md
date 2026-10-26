@@ -1081,5 +1081,11 @@ Kang MiRae nhận diện các ký tự ma pháp ngữ tương tự trên cánh H
 Cả nhóm quyết định không trông cậy vào các thiên thần mà tự lập đội 4 người gồm Kim YeSeul, Kang MiRae, Na YuNa và Yumir (tận dụng kỹ năng Ẩn Thân chuyên về tổ đội của Yumir) đi xuyên qua các thế giới để điều tra và phá hủy các ma pháp trận tương tự, để Kang HaJin ở lại trông coi clan.
 Cảnh kết thúc: Kim YeSeul ôm Yumir và dặn cháu nội bảo vệ bà, trong khi Kang MiRae và Na YuNa thầm quyết tâm phải chăm sóc da kỹ hơn để không bị IlHan chê già hơn cả mẹ anh.
 
+## 176
+Nhóm 4 người gồm Kim YeSeul, Kang MiRae, Na YuNa và Yumir tới Lanpas và tìm thấy ma pháp trận bị che giấu; Kim YeSeul thi triển ma pháp Ngưng Đọng Thời Gian kết hợp chiêu Bão Lôi của Kang MiRae đánh phá lớp khiên, và Yumir tung đòn gió kết liễu phá hủy ma pháp trận rồi nuốt trọn làn sương kịch độc nhờ kỹ năng Kháng Độc Cực Hạn và Kháng Lời Nguyền Cấp Cao.
+Yumir bắt sống nhóm quý tộc Lanpas tiếp tay cho thiên thần sa ngã; cả nhóm tra khảo và xác nhận đây là ma pháp mang tên 'Tự Do' do Quân Đội Ánh Sáng Rực Rỡ cùng Quân Đội Ma Hủy Diệt phối hợp thực hiện, lợi dụng chế độ lính đánh thuê định cư để lôi kéo con người từ nhiều thế giới nhắm vào Trái Đất.
+Kim YeSeul tiết lộ năng lực thời gian kỳ bí của mình bắt nguồn từ việc bị kẹt trong các vòng lặp; cả nhóm quyết định tiếp tục sang Breya để truy quét thêm các ma pháp trận.
+Cảnh kết thúc: Tại không gian đỏ ngầu, Yu IlHan gom một bầy quái vật khổng lồ để săn một mẻ khiến Liera và Erta kinh hãi hét toáng lên, trong khi anh thản nhiên tuyên bố mình vừa nâng độ khó từ cấp địa ngục lên cấp hỏa ngục.
+
 
 
