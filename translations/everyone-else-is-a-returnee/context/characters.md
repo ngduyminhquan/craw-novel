@@ -195,6 +195,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 169: Cùng Kang MiRae, Na YuNa và Yumir tới Thánh đế quốc Elforce tại thế giới Breya; dùng Tua Vít Tử Thần thăng cấp kỹ năng Khai Quật lên Lv 51 và hoàn thành việc tái thiết Đại Đền Thờ Nữ Thần Sắc Đẹp Leytna trong 9 ngày; nhận thánh thạch cao cấp và ghi chép của Nữ Thần Leytna, được người dân sùng bái như một kiến trúc sư vĩ đại; thiện cảm với Na YuNa dần cải thiện và chủ động mời cô ăn trưa tại nhà.
 - Trạng thái tính đến chương 171: Nhận thấy Trái Đất và các dị giới ổn định nên bàn giao việc quản lý lại cho Kang MiRae, chế tạo máy liên lạc đa giới tặng người thân và thuộc hạ; để Yumir ở lại Trái Đất rồi một mình vượt cổng tiến vào thế giới địa ngục bí ẩn; sau 2 tháng rèn luyện đạt cấp 171, các kỹ năng thể chất như Quái Lực (Lv 83), Bật Nhảy (Lv 87) và Siêu Việt Tái Sinh (Lv 78) tăng vọt giúp cơ thể tự liền lại tức thì dù bị đứt lìa cánh tay.
 - Trạng thái tính đến chương 172: Ở lại thế giới địa ngục săn quái suốt 4 tháng rưỡi; ăn quả và uống nước kịch độc từ cây Baobab để rèn luyện Kháng Độc Cực Hạn; nỗ lực dung hợp kiếm, roi và độn khí vào ngọn thương để lĩnh ngộ Đại Đoạn Vũ Trụ Thương trước khi chuyển chức lần 4; một đòn thương dồn trọng lượng độn khí chém toác mặt đất sâu hàng chục mét, mở ra khu vực có mật độ mana đậm đặc và dùng Súng Bắn Cọc kết hợp Tua Vít Tử Thần khoan sâu xuống lòng đất.
+- Trạng thái tính đến chương 174: Đạt cấp 180 và nâng kỹ năng Khai Quật lên cấp 80 trong hầm ngục kỳ bí trên Trái Đất; quyết định dừng đào bới để tập trung săn lùng ác ma đặt mục tiêu chuyển chức lần 4 trong vòng 5 năm.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -411,6 +412,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 140: Đạt chuyển chức lần 3 trong Thế Giới Bị Bỏ Rơi, ngoại hình lớn bổng tương đương 11 tuổi; kỹ năng Ẩn Thân đạt cấp 90 và nhận danh hiệu 'Quảng Đại Chi Ảnh' giúp mở rộng phạm vi ẩn thân cho toàn bộ đồng minh; dẫn dắt tổ đội quét sạch gần 100 quái vật chuyển chức 4 và thu thập đủ 10 vạn ma thạch để mở cổng trở về Trái Đất.
 - Trạng thái tính đến chương 142: Trở về an toàn qua cánh cổng không gian New York sau 1.000 ngày ở Thế Giới Bị Bỏ Rơi; ngoại hình lớn lên như thiếu niên khôi ngô 11 tuổi; bật khóc nức nở khi được bố IlHan ôm trọn vào lòng; ngơ ngác tiết lộ chênh lệch thời gian 1.000 ngày đối với 10 ngày của Trái Đất.
 - Trạng thái tính đến chương 155: Chiến đấu quả cảm suốt 20 ngày phòng thủ dinh thự và nhờ việc ăn thịt rồng tăng cấp điên cuồng, nhóc đã cán mốc Lv 140; sau trận chiến liền thay đồ ngủ và ngoan ngoãn ngủ say trong vòng tay ấm áp của bố IlHan.
+- Trạng thái tính đến chương 174: Nâng kỹ năng Ẩn Thân lên cấp 97 (ngay sát mốc cấp tối đa); cùng Kang MiRae, Na YuNa và Kang HaJin tiên phong xông qua cánh cổng kết nối Thế Giới Bị Bỏ Rơi tiêu diệt toàn bộ quái vật chuyển chức lần 4 để bảo vệ Trái Đất khi Yu IlHan vắng mặt.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

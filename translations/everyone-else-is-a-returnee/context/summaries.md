@@ -1069,3 +1069,10 @@ Hai con ác ma thuộc tính hỏa và lôi liên tiếp tiếp cận; Yu IlHan 
 Nhận tín hiệu liên lạc từ Yumir, Yu IlHan kích hoạt năng lực quay về quê hương từ danh hiệu 'Ếch Nhảy Khỏi Đáy Giếng' nhưng không thành công do hệ thống ghi nhận năng lực đã kích hoạt và đang chịu thời gian hồi chiêu 1 tuần.
 Cảnh kết thúc: Erta bàng hoàng nhận ra sự thật động trời rằng thế giới địa ngục đỏ ngầu tràn ngập ác ma này thực chất chính là Trái Đất.
 
+## 174
+Sau khi tiêu diệt ác ma sấm sét, Yu IlHan cùng ba thiên thần nhận ra không gian đỏ ngầu khổng lồ này thực chất là một hầm ngục biến ảo dựng nên từ mana của một kẻ hùng mạnh trên Trái Đất, chặn đứng liên lạc với Thiên giới.
+Không có lối thoát thông thường, Yu IlHan quyết định tạm dừng đào bới (kỹ năng Khai Quật đã lên cấp 80) và dốc sức săn lùng ác ma để đạt chuyển chức lần 4 trong vòng 5 năm; hiện tại anh đã đạt cấp 180 và tự tin có thể trốn thoát ngay cả khi chạm trán thực thể cấp cao.
+Tại Trái Đất, Yumir nhận tin nhắn báo bận của bố nên cùng Kang MiRae, Na YuNa đứng trước cánh cổng kết nối tới Thế Giới Bị Bỏ Rơi đang có nguy cơ bùng nổ với ít nhất năm quái vật chuyển chức lần 4; trong bối cảnh Flemir và Erica đang hỗ trợ ở Daréu, cả nhóm quyết định tự thân vận động.
+Nhờ kỹ năng Ẩn Thân của Yumir đã đạt cấp 97, cậu bé cùng Kang MiRae, Na YuNa và ép Kang HaJin đi theo làm bia đỡ đạn xông thẳng qua cổng tiêu diệt sạch lũ quái vật chuyển chức lần 4, bảo vệ Trái Đất an toàn.
+
+

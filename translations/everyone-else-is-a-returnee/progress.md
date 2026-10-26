@@ -178,7 +178,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | reviewed |  |
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | done |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | done |  |
-| 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | todo |  |
+| 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | done |  |
 | 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | todo |  |
 | 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | todo |  |
 | 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | todo |  |
@@ -818,3 +818,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#172] Tiêu đề chương: #170 dịch 'Buổi Dã Ngoại Địa Ngục, Đơn Độc – 1', #171 để EN 'Hell Picnic, Alone – 2' — Tạm chọn: dịch #172 là 'Buổi Dã Ngoại Địa Ngục, Đơn Độc – 3' cho khớp #170; đề xuất chuẩn hóa luôn #171. → Đồng ý: dịch là Buổi Dã Ngoại Địa Ngục, Đơn Độc – N (chuẩn hóa cả chương 171 sang tiếng Việt). (orchestrator)
 - [#172] Tên ma pháp quy mô thế giới của Quân Đội Ánh Sáng Rực Rỡ 'Freedom' ở cuối chương — Tạm chọn: dịch là 'Tự Do' và thêm vào glossary. → Đồng ý: dịch Freedom là Tự Do và lưu vào glossary.md. (orchestrator)
 - [#173] Thuật ngữ cây "Baobab" (Baobab tree) IlHan tự đặt cho loài cây khổng lồ ở thế giới địa ngục — Tạm chọn: dịch là "cây Baobab" và thêm vào glossary.md (loại khác). → Đồng ý: dịch Baobab / Baobab tree là cây Baobab trong glossary.md. (orchestrator)
+- [#174] Tiêu đề arc 'Everyone Else Is a Guardian' (đối ứng tên truyện Everyone Else Is A Returnee) → Đồng ý: dịch là Mọi Người Đều Là Hộ Vệ. (orchestrator)
