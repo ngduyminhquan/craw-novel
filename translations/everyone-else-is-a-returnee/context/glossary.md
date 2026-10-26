@@ -669,3 +669,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Freedom |  | Tự Do | kỹ năng | 172 | Ma pháp quy mô thế giới do Quân Đội Ánh Sáng Rực Rỡ mưu đồ kích hoạt đồng loạt |
 | Time Stop |  | Ngưng Đọng Thời Gian | kỹ năng | 176 | Ma pháp thời gian làm chậm mục tiêu trong không gian chỉ định của Kim YeSeul |
 | Thunderstorm |  | Lôi Bão | kỹ năng | 176 | Ma pháp sấm sét cao cấp bậc nhất của Kang MiRae hút sạch mana phe địch lẫn đồng minh |
+| Warp |  | Dịch Chuyển | kỹ năng | 178 | Kỹ năng độc nhất tiến hóa từ Bật Nhảy, tiêu hao ma thạch bóp méo thời không để dịch chuyển đến nơi đã thấu hiểu hoàn hảo |

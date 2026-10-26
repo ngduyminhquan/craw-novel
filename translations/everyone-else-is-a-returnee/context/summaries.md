@@ -1093,6 +1093,13 @@ Bước vào trận chiến, Yu IlHan phối hợp nhịp nhàng giữa Bật Nh
 Với những đòn đâm thương Bất Khả Họa Quỹ Đạo vung ra 3 quỹ đạo chí mạng cùng lúc, anh thăng lên cấp 187, Bất Khả Họa Quỹ Đạo Thương lên cấp 68 và Bật Nhảy lên cấp 96.
 Cảnh kết thúc: Mũi thương rực cháy ngọn lửa trắng kết hợp giữa Ngọn Lửa Vĩnh Cửu và Liệt Hỏa, Yu IlHan hào hứng khiêu chiến toàn bộ lũ quái vật mở màn cuộc tiểu chiến tranh thứ 7 giữa tiếng la ó cãi cọ của Liera và Erta, hoàn toàn không hay biết tình hình hiểm nguy tại Trái Đất.
 
+## 178
+Tròn 2 năm ở trong hầm ngục, Yu IlHan vận dụng hệ thống bẫy rập, pháo nỏ và drone tự chế làm rối loạn hệ thống phòng ngự để gom và tiêu diệt đàn quái vật chuyển chức 4 cấp trên 260.
+Trước sự ngăn cản của các thiên thần không để anh mạo hiểm giáp lá cà, Yu IlHan kích hoạt toàn bộ mìn rồi phối hợp cùng Orochi càn quét chiến trường; kỹ năng Bất Khả Họa Quỹ Đạo Thương đạt cấp 83, đồng thời kỹ năng Chí Mạng và Bật Nhảy cùng đạt cấp tối đa (master), đưa anh lên cấp 196 sau khi hạ gục Ác Ma Rung Biến Thái.
+Yu IlHan đáp ứng điều kiện tiêu hao 1.000 ma thạch chuyển chức 4, 100.000 ma thạch chuyển chức 3, 1.000L máu chủng tộc ma pháp cao cấp và giải phóng hai danh hiệu 'Cực Tốc Giả' cùng 'Ếch Nhảy Khỏi Đáy Giếng' để tiến hóa Bật Nhảy thành kỹ năng cao cấp độc nhất 'Dịch Chuyển' (Warp).
+Cảnh kết thúc: Sau khi nhận ra kỹ năng mới cho phép bóp méo thời không để dịch chuyển tức thời về bất cứ nơi nào bản thân thấu hiểu, Yu IlHan vui vẻ tuyên bố đã đến lúc về nhà trong sự tán đồng hân hoan của Liera.
+
+
 
 
 
