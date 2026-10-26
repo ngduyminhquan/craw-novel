@@ -179,9 +179,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | reviewed |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | reviewed |  |
 | 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | reviewed |  |
-| 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | done |  |
-| 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | done |  |
-| 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | done |  |
+| 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | reviewed |  |
+| 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | reviewed |  |
+| 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | reviewed |  |
 | 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | todo |  |
 | 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | todo |  |
 | 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | todo |  |

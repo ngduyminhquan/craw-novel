@@ -102,7 +102,7 @@ Một tàn niệm nằm bên trong tạo tác sẽ dễ quản lý hơn nhiều.
 
 Chẳng phải lũ ác ma không để lại tàn niệm. Thế nhưng, chúng chỉ biết gầm rống như hồi còn sống, nên Orochi chỉ có thể chật vật khi đối đầu với chúng. Không, thật ra ngay cả thắng thế một chọi một cũng đã là chuyện khó khăn rồi.
 
-"Vậy thì cứ tạm dùng những gì đang có đã. Ta sẽ chế tạo các tạo tác sao cho dễ lắp đặt và tháo dỡ... Tốt rồi, giờ thì chỉ cần ta làm cho tốt là được."
+"Vậy thì cứ tạm dùng những gì đang có đã. Mình sẽ chế tạo các tạo tác sao cho dễ lắp đặt và tháo dỡ... Tốt rồi, giờ thì chỉ cần mình làm cho tốt là được."
 
 [Kế hoạch của cậu ấy đang dần thành hình cụ thể rồi kìa, chúng ta phải làm sao đây?] (Liera)
 
@@ -182,7 +182,7 @@ Mặc dù thực tế là chúng đã bị lựu đạn và mìn mặt đất t�
 
 [Kihih! Kihiiiih!]
 
-Đội quân pháo nỏ không ngừng bắn ra những ngọn thương xương một cách không thương tiếc về phía kẻ thù, bắt đầu tấu lên một bản hòa tấu bằng những tiếng thét của lũ ác ma vốn đang trải nghiệm một chân trời mới trước sự hòa quyện giữa ma thuốc nổ và Dây Thun Khổng Lồ tựa như những nhạc cụ! Dù chúng chỉ muốn trả thù kẻ đã đục thủng lồng ngực mình, nhưng chúng lại phải nếm mùi đòn roi bằng đủ mọi phương thức có thể tồn tại trên cõi đời này!
+Đội quân pháo nỏ không ngừng bắn ra những ngọn thương xương một cách không thương tiếc về phía kẻ thù, bắt đầu tấu lên một khúc hòa ca bằng những tiếng thét của lũ ác ma vốn đang trải nghiệm một chân trời mới trước sự hòa quyện giữa ma thuốc nổ và Dây Thun Khổng Lồ tựa như những nhạc cụ! Dù chúng chỉ muốn trả thù kẻ đã đục thủng lồng ngực mình, nhưng chúng lại phải nếm mùi đòn roi bằng đủ mọi phương thức có thể tồn tại trên cõi đời này!
 
 [Chúng nó đều bị lừa rồi! Tất cả bọn chúng!] (Liera)
 

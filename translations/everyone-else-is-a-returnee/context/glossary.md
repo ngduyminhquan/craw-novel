@@ -668,4 +668,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Black Dragon Whip |  | Roi Hắc Long | vật phẩm | 171 | Tên gọi tắt của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
 | Freedom |  | Tự Do | kỹ năng | 172 | Ma pháp quy mô thế giới do Quân Đội Ánh Sáng Rực Rỡ mưu đồ kích hoạt đồng loạt |
 | Time Stop |  | Ngưng Đọng Thời Gian | kỹ năng | 176 | Ma pháp thời gian làm chậm mục tiêu trong không gian chỉ định của Kim YeSeul |
-| Thunderstorm |  | Bão Lôi | kỹ năng | 176 | Ma pháp sấm sét cao cấp bậc nhất của Kang MiRae hút sạch mana phe địch lẫn đồng minh |
+| Thunderstorm |  | Lôi Bão | kỹ năng | 176 | Ma pháp sấm sét cao cấp bậc nhất của Kang MiRae hút sạch mana phe địch lẫn đồng minh |

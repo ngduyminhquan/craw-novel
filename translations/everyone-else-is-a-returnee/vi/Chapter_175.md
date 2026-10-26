@@ -32,7 +32,7 @@ Kim YeSeul nhìn về phía Yu YongHan, người vừa đi làm ở Vanguard v�
 
 "Ôi, hóa ra bác ở đây ạ. Cháu xin lỗi bác nhiều lắm...!"
 
-"Khụ khụ. Đừng bận tâm. Thỉnh thoảng sự hiện diện của tôi lại trở nên rất mờ nhạt ấy mà."
+"Khụ khụ. Đừng bận tâm. Thỉnh thoảng sự hiện diện của bác lại trở nên rất mờ nhạt ấy mà."
 
 Kang MiRae thầm nghĩ cùng một dòng máu đúng là không lẫn đi đâu được, nhưng rồi cô lại nghĩ đến chuyện mình từng phải công nhận Yumir là con trai của Yu IlHan, thế là cô lắc đầu. Kim YeSeul nhìn Kang MiRae với vẻ hài lòng đầy bí ẩn, rồi mỉm cười vỗ vỗ vai cô.
 
@@ -72,7 +72,7 @@ Kang MiRae đang tự hạ thấp năng lực của mình, nhưng khi tự đán
 
 Chỉ có hai kiểu người trông không hề kỳ quặc ngay cả khi làm cái chuyện độc ác như thế: một là những bà mẹ đem con trai mình đi so sánh với con nhà người ta, hai là những người đang yêu đem bản thân mình ra so với đối phương.
 
-"Vậy cháu có muốn qua đây một lát không? Bác có thứ này muốn cho cháu xem. Mắt bác không hiểu nổi thứ này, nên bác muốn nghe ý kiến của người khác."
+"Vậy cháu có muốn qua đây một lát không? Bác có thứ này muốn cho cháu xem. Bác nhìn mà chẳng thể hiểu nổi thứ này, nên bác muốn nghe ý kiến của người khác."
 
 "Dạ?... Mẹ cũng dùng ma pháp ạ?"
 
@@ -124,7 +124,7 @@ Kim YeSeul nở một nụ cười gượng gạo.
 
 "Tuy bác nói ra điều này thì hơi ngại, nhưng thứ này từng mạnh đến mức vô lý đấy. Dù bác dùng ma pháp khá cừ, nhưng mấy thứ mang tính lý thuyết thế này lại không phải sở trường của bác. Cháu có hiểu được nó không, tiểu thư?"
 
-Kang MiRae toan trả lời rằng mình chẳng biết gì về một vật phẩm kinh hoàng như thế, thế nhưng cô thực sự lại hiểu được một vài ký tự khắc trên ma pháp trận.
+Kang MiRae toan trả lời rằng mình chẳng biết gì về một vật phẩm kinh hoàng đến vậy, thế nhưng cô thực sự lại hiểu được một vài ký tự khắc trên ma pháp trận.
 
 Hơn nữa, đây là thứ mà cô từng nhìn thấy trên một số lượng cực kỳ ít ỏi các tác phẩm của Yu IlHan.
 

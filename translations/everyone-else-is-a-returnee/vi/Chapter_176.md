@@ -18,7 +18,7 @@ Kang MiRae đáp lời với giọng điệu cứng cỏi rồi nắm chặt câ
 
 "Ngưng Đọng Thời Gian!"
 
-Một luồng mana cao cấp mà Kang MiRae không thể giải mã tuôn trào ra, bao phủ toàn bộ khu vực đặt ma pháp trận. Kang MiRae hiểu được câu niệm chú mà Kim YeSeul vừa thốt lên, liền kinh ngạc thốt lên.
+Một luồng mana cao cấp mà Kang MiRae không thể giải mã tuôn trào ra, bao phủ toàn bộ khu vực đặt ma pháp trận. Kang MiRae hiểu được câu niệm chú mà Kim YeSeul vừa xướng lên, liền kinh ngạc thốt lên.
 
 "Ngưng Đọng Thời Gian ư!?"
 
@@ -28,7 +28,7 @@ Thế là quá sức to tát rồi còn gì!
 
 Song gác sự sửng sốt của Kang MiRae sang một bên, Kim YeSeul vừa niệm ma pháp thời gian vừa dùng những viên đạn ma pháp nén tới cực hạn tấn công ma pháp trận. Ngay khoảnh khắc phát hiện đòn tấn công của kẻ địch, ma pháp trận liền tỏa ra một lượng mana khổng lồ dựng nên một tấm khiên chắn; đến lúc này Kang MiRae mới nhận ra đã tới lượt mình ra tay.
 
-"Bão Lôi!"
+"Lôi Bão!"
 
 Ngay khoảnh khắc hai đợt sóng mana không thể đo đếm va chạm vào nhau, ma pháp sấm sét cao cấp bậc nhất, thứ được kích hoạt bằng cách hiến tế toàn bộ mana của đồng minh lẫn kẻ thù thông qua một lực hút cực mạnh, liền quét qua toàn bộ khu vực. Năng lực có thể tận dụng đòn tấn công của người khác để tạo nên đòn đánh của riêng mình quả thật xứng danh Empress!
 
@@ -220,7 +220,7 @@ Trong khi đó, người mà ai nấy đều mong ngóng khôn nguôi, Yu IlHan,
 
 [Cậu điên rồi! Đồ điên này! Sao cậu lại có thể nghĩ đến chuyện gom hết chúng lại để săn cùng một lúc chứ!] (Liera)
 
-[Khéck! Nó đang lao tới đây kìa! Nó tới đây kìa! Yu IlHan! IlHaaaaaaan!] (Erta)
+[Khéccc! Nó đang lao tới đây kìa! Nó tới đây kìa! Yu IlHan! IlHaaaaaaan!] (Erta)
 
 "Tôi không có điên, tôi chỉ tăng độ khó luyện tập lên một chút thôi!"
 
