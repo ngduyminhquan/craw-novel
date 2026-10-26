@@ -437,7 +437,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Spike Ketura |  | Ketura Gai | quái vật | 72 | Quái vật cấp 69 chuyển chức 2 bị Yu IlHan hạ gục tại quận Nerima |
 | Nerima | Nerima district | Nerima | địa danh | 72 | Một trong 23 quận đặc biệt của Tokyo |
 | Kita | Kita district | Kita | địa danh | 72 | Một trong 23 quận đặc biệt của Tokyo |
-| England |  | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
+| England | Britain | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
 | Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |
 | Yamata no Orochi | Yamata | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
 | Orochi | the Orochi | Orochi | quái vật | 73 | Tên gọi tắt của quái xà Yamata no Orochi; từ chương 148 trở thành thuộc hạ trong Bát Vĩ Long Thương, nói chuyện trực tiếp với Yu IlHan (xưng ta, gọi ngươi) |
@@ -608,3 +608,10 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | El Tièfè |  | El Tièfè | địa danh | 149 | Thế giới bậc cao nơi Spiera mang Bẫy Hủy Diệt mẫu đến để thử nghiệm |
 | Giant Snake |  | Rắn Khổng Lồ | quái vật | 149 | Quái vật rắn khổng lồ bị Yu IlHan thu phục tàn niệm làm thuộc hạ và phụ ma vào Bẫy Hủy Diệt |
 | Record of Worlds | Record of worlds; record of worlds | Ghi Chép Các Thế Giới | hệ thống | 149 | Yêu cầu tiến hóa kỹ năng Ngôn Ngữ, thu thập ghi chép từ 100 thế giới khác nhau |
+| The frog that leaped out of the well |  | Ếch Nhảy Khỏi Đáy Giếng | danh hiệu | 151 | Danh hiệu nhận được khi thu thập đủ 100 Ghi Chép Các Thế Giới, cho phép trở về thế giới nơi sinh ra từ bất kỳ thế giới nào (có thể mang người khác, hồi chiêu 1 tuần) |
+| Kiera Monkey |  | Khỉ Kiera | quái vật | 151 | Thuộc hạ khỉ hấp thụ ghi chép thế giới Niurad |
+| Niurad |  | Niurad | địa danh | 151 | Thế giới nơi Khỉ Kiera hấp thụ ghi chép |
+| Uniquism |  | Độc Nhất Giáo | khác | 151 | Tôn giáo giả tưởng có nguy cơ hình thành do sự tôn sùng thái quá của loài người dành cho Yu IlHan |
+| Russia |  | Nga | địa danh | 151 | Quốc gia ở châu Âu - Á |
+| Switzerland |  | Thụy Sĩ | địa danh | 151 | Quốc gia ở châu Âu |
+| Canada |  | Canada | địa danh | 151 | Quốc gia ở Bắc Mỹ |

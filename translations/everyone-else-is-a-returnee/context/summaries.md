@@ -927,6 +927,13 @@ Trong lúc đó, Trái Đất rơi vào hỗn loạn trước thềm Đại Tai 
 Các thế lực cũ tung video cắt ghép bôi nhọ Susanoo tàn sát dân thường ở Venezuela nhằm kiềm chế tầm ảnh hưởng của anh, nhưng âm mưu phản tác dụng hoàn toàn khi người dân và các clan đồng loạt nổi dậy phẫn nộ, tạo nên cuộc thanh trừng xã hội lật đổ các gia tộc thao túng quyền lực suốt một tháng rưỡi.
 Cảnh kết thúc: Mặc kệ biến động xã hội bên ngoài, IlHan hoàn tất chuẩn bị vật liệu và cùng bé Yumir hào hứng bắt tay vào chiến dịch xây dựng "Tổ ấm thân yêu", khiến Liera chỉ biết thở dài ngao ngán trước bản tính tách biệt của Kẻ Cô Độc Toàn Vũ Trụ.
 
+## 151
+Yu IlHan huy động nhóm elf (Phiria, Mirey), Erica, Yumir cùng ba thiên thần bắt tay vào xây dựng đại dinh thự kiêm pháo đài bay chiến đấu rộng hàng nghìn mét vuông tại khu đất Gangnam bằng kỹ năng Rèn Đúc, Quái Lực và Chế Tác Mana từ 1.800 viên ma thạch cấp 3 và 1 viên ma thạch cấp 4.
+Trong khi đó bên ngoài, nhân loại sục sôi trước danh tính thật của Susanoo; Vanguard mở rộng bán trang bị và tạo tác tự vệ giá rẻ; chính phủ các nước từ Nhật Bản, Mỹ đến các cường quốc châu Âu liên tục săn đón IlHan nhưng đều thất bại trước tường thành xương rồng, còn những kẻ định quấy rối gia đình anh đều bị mẹ anh dằn mặt suýt chết.
+Kang MiRae và Na YuNa ghé thăm công trường thông báo tình hình thế giới; YuNa đòi cưới IlHan để được ở trong dinh thự liền bị MiRae siết cổ bằng đòn sleeper-choke.
+Đúng lúc này, tàn hồn thuộc hạ Khỉ Kiera giúp IlHan hoàn thành chỉ tiêu 100/100 Ghi Chép Các Thế Giới, mang lại cho anh danh hiệu 'Ếch Nhảy Khỏi Đáy Giếng' với khả năng dịch chuyển tức thời trở về thế giới quê hương từ bất kỳ thế giới nào.
+Cảnh kết thúc: Sau hai tuần gấp rút hoàn tất công trình, Đại Tai Biến lần 2 chính thức giáng xuống Trái Đất cùng những hiện tượng dị thường chưa từng xuất hiện ở bất kỳ thế giới nào khác.
+
 
 
 

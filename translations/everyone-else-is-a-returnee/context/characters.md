@@ -38,7 +38,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Teraka | Teraka-nim | Teraka | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu | 101 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
-| Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất | 103 |
+| Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |
 | Paté | Pat; Pate | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
 | Jirl | Jril | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
@@ -182,6 +182,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 148: Dùng Thống Trị thu phục tàn niệm Yamata no Orochi trong Bát Vĩ Long Thương thành thuộc hạ (nâng Thống Trị lên cấp 56, Linh Hồn Phụ Ma lên cấp 24), giúp Orochi nói được tiếng người; kích hoạt Long Huyết nâng tầm đẳng cấp rồi dùng Thống Trị thu phục thành công Ngọn Lửa Vĩnh Cửu (nâng Thống Trị lên cấp 63); mở khóa điều kiện ẩn đón nhận Chúc Phúc Của Nữ Thần Lửa; nhận nhiệm vụ chế tạo Bẫy Hủy Diệt cho Trái Đất và các thế giới khác với phần thưởng 1 kỹ năng bị động, 40 điểm chỉ số và 150 bình thuốc hồi mana cao cấp.
 - Trạng thái tính đến chương 149: Được Spiera hối lộ thêm 50 bình thuốc hồi mana để giữ bí mật việc thống trị Ngọn Lửa Vĩnh Cửu; dùng Ngọn Lửa Vĩnh Cửu chỉnh sửa bản thiết kế Bẫy Hủy Diệt kết hợp long ngữ và ngôn ngữ elf cổ đại để tăng hiệu quả và giảm tỷ lệ Vỡ Hầm Ngục; rèn xong mẫu Bẫy Hủy Diệt trong 40 phút; nâng kỹ năng Linh Hồn Phụ Ma lên cấp 25; phối hợp kỹ năng Thống Trị và Linh Hồn Phụ Ma đưa tàn hồn thuộc hạ vào Bẫy Hủy Diệt để thu thập Ghi Chép Các Thế Giới gián tiếp từ xa phục vụ tiến hóa kỹ năng Ngôn Ngữ, đạt tiến độ 8/100 sau khi Spiera thử nghiệm tại thế giới bậc cao El Tièfè.
 - Trạng thái tính đến chương 150: Chế tạo một phần tư số lượng Bẫy Hủy Diệt nâng cấp phân bổ cho các thế giới, rút ngắn thời gian chế tác xuống còn 20 phút mỗi chiếc; tận dụng bộ dụng cụ rèn đúc gia công vật liệu chuẩn bị xây biệt thự gia đình ("Tổ ấm thân yêu"); hoàn toàn phớt lờ các âm mưu bôi nhọ của thế lực cũ và sự sùng bái của nhân loại sau cuộc thanh trừng xã hội.
+- Trạng thái tính đến chương 151: Thu thập đủ 100/100 Ghi Chép Các Thế Giới nhờ các tàn hồn thuộc hạ gài trong Bẫy Hủy Diệt (mục cuối là Khỉ Kiera ở thế giới Niurad), đạt danh hiệu 'Ếch Nhảy Khỏi Đáy Giếng' (có thể trở về thế giới nơi sinh ra từ bất kỳ thế giới nào kèm người khác, hồi chiêu 1 tuần); hoàn tất xây dựng đại dinh thự kiêm pháo đài bay chiến đấu từ 1.800 ma thạch cấp 3 và 1 ma thạch cấp 4 ngay trước thềm Đại Tai Biến lần 2.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -252,6 +253,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Mẹ của Yu IlHan, người mẹ hiền từ, chu đáo, hết lòng thương yêu con cái nhưng lời nói vô cùng sắc sảo, thẳng thắn. Bị chuyển đến thế giới Ya-umin trong 10 năm; trở về bình an với phần thưởng nhiệm vụ toàn nguyên liệu nấu ăn ngon lành; ủng hộ IlHan bỏ học đại học để theo đuổi con đường riêng nhưng mê mẩn chiếc Túi Đeo Chéo của con trai vì tiện đi chợ.
 - Trạng thái tính đến chương 104: Biết IlHan là chủ tịch Vanguard; thông báo bố IlHan nghỉ việc do công ty phá sản và đồng ý để bố anh sang làm việc quản lý tại Vanguard; từ chối dọn về Gangnam vì tự tin có năng lực chăm sóc gia đình.
 - Trạng thái tính đến chương 143: Trông trẻ trung ra hơn 20 tuổi và có dấu hiệu đã đạt chuyển chức 2; bất ngờ nhưng vui vẻ đón nhận đứa cháu nội Yumir (11 tuổi); khẳng định 10 năm ở Ya-umin không có gì bất thường và nhiệt tình dò hỏi ứng viên con dâu trong số các cô gái đi cùng con trai.
+- Trạng thái tính đến chương 151: Cùng chồng từ chối mọi sự tiếp cận của người ngoài; thể hiện thực lực kinh hồn bạt vía khiến những kẻ mưu toan đột nhập dùng vũ lực phải bỏ chạy thục mạng sau khi nếm trải cảm giác suýt chết.
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.

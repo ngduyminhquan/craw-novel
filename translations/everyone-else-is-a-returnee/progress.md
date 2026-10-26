@@ -155,7 +155,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | reviewed |  |
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | reviewed |  |
 | 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | reviewed |  |
-| 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | todo |  |
+| 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | done |  |
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | todo |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | todo |  |
 | 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | todo |  |
@@ -780,3 +780,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#149] Cụm "Record of worlds" trong điều kiện tiến hóa kỹ năng Ngôn Ngữ: dịch thế nào? → Chốt dịch là "Ghi Chép Các Thế Giới" trong thông báo hệ thống (và viết thường "ghi chép các thế giới" trong lời văn/thoại), đồng bộ với thuật ngữ "ghi chép" (record) và "Hồ Sơ Akashic". (orchestrator)
 - [#149] Ghi chú biên tập inline ở đoạn raw 188 "(E/N: Souls from his death god skills)": xử lý thế nào? → Loại bỏ hoàn toàn phần ghi chú biên tập (E/N) theo quy tắc cứng trong rules.md, giữ nguyên phần nội dung câu truyện. (orchestrator)
 - [#148] Đoạn 21 câu thoại "Adieu!" của Yu IlHan khi tạm biệt Flemir: giữ "Vĩnh biệt!" hay đổi sang "Cáo biệt!"? → Đổi thành "Cáo biệt!" để giữ sắc thái chào tạm biệt kiểu kịch tính hài hước khi IlHan chuồn đi trước và nhắn Flemir về lại thế giới Kiroa, tránh cảm giác bi lụy của "Vĩnh biệt!". (orchestrator)
+- [#151] Đoạn raw 42 viết nhầm 'Mirae' thay vì nữ elf chiến binh 'Mirey' (người vừa lên tiếng ở đoạn 40, trong khi Kang MiRae chỉ xuất hiện ở đoạn 87) — Tạm chọn: dịch là 'Mirey' và thêm 'Mirae' vào Alias của Mirey trong characters.md. → Chốt dịch là "Mirey" vì đoạn 40 ngay trước đó là nữ elf chiến binh Mirey lên tiếng (Kang MiRae tới đoạn 87 mới xuất hiện); ghi chú lỗi gõ nhầm của raw vào phần Vai trò của Mirey trong characters.md, không thêm "Mirae" vào cột Alias để tránh xung đột với Kang MiRae. (orchestrator)
