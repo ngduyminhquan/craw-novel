@@ -47,6 +47,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - settled mercenary system — cụm danh từ chung viết thường trong lời thoại chỉ chế độ lính đánh thuê định cư, không phải thuật ngữ hệ thống cố định (#176)
 - Spatial transfer magic — cụm danh từ chung chỉ ma pháp dịch chuyển không gian (trong raw viết thường `spatial transfer magic`), không phải tên kỹ năng hệ thống (#179)
 - Flaming Monarch — cụm diễn giải 1 lần nghĩa của chức nghiệp Burning Lord trong độc thoại, không phải tên chức nghiệp hệ thống (#185)
+- 3rd Great Cataclysm — đã có mục gốc Great Cataclysm (Đại Tai Biến) trong bảng; các chương 50, 98, 164 dịch linh hoạt "lần thứ ba / lần thứ 3 / lần 3" (#187)
 
 ## Bảng thuật ngữ
 

@@ -1148,6 +1148,14 @@ Cả hai tên thiên thần sa ngã trước khi chết đều trăn trối rằ
 Nhờ kết hợp cánh Hiệu Triệu Diệt Vong và Bật Nhảy, IlHan rút ngắn thời gian quét sạch mỗi thế giới xuống trung bình 25 phút; Na YuNa thắc mắc về bí quyết bay lượn và tò mò về quá khứ của IlHan khiến Liera nổi máu ghen tuông đe dọa đòi xử đẹp cô khi thành thực thể cấp cao.
 Cảnh kết thúc: Yu IlHan tò mò hỏi Na YuNa về mùi hương cơ thể tự nhiên thơm ngát khiến cô nàng thích thú ôm chặt tay anh không buông, còn IlHan quyết định sau này sẽ bảo vệ cô khỏi bàn tay Liera.
 
+## 187
+Suốt gần một tháng rong ruổi khắp các thế giới cùng Na YuNa, Yu IlHan đã phá hủy hàng trăm ma pháp trận và tiêu diệt thêm hai thiên thần sa ngã (nâng tổng số xác thu thập lên bốn); trước sự răn đe này, Quân Đội Ánh Sáng Rực Rỡ và Quân Đội Ma Hủy Diệt hoàn toàn co cụm không dám xuất đầu lộ diện.
+Nhờ ghi chép thu được sau mỗi lần phá ma pháp trận cùng kiến thức Ma Pháp Công Học, IlHan nắm rõ kết cấu trận pháp và nhận thấy nhiều thế giới đã sạch bóng kẻ địch hoặc bị bỏ hoang mưu đồ.
+Trên đường bay hết tốc lực trở về Trái Đất, cánh cổng bất ngờ khép lại; IlHan bung toàn lực phi thân qua cổng kịp thời rồi dùng đệm êm tiếp đất an toàn, nhưng kinh ngạc nhận ra Trái Đất hoàn toàn vắng bóng người, gợi lại nỗi ám ảnh cô độc 1.000 năm trước.
+Liera nhận định Đại Tai Biến lần 3 của Trái Đất đã chính thức bùng nổ khiến mana tăng vọt dữ dội và toàn bộ cánh cổng kết nối bị cắt đứt, đồng nghĩa các ma pháp trận của phe địch ở thế giới khác trở nên hoàn toàn vô dụng.
+Cảnh kết thúc: Trong lúc IlHan và Liera ngơ ngác trước sự vô nghĩa của các ma pháp trận, Na YuNa trong vòng tay IlHan bất ngờ bắt đầu mờ nhạt dần và sắp sửa tan biến.
+
+
 
 
 
