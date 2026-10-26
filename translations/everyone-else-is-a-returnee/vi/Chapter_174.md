@@ -166,7 +166,7 @@ Trong khi Yu IlHan đang từng bước tái sinh thành một con quái vật c
 
 "Không có bố ở đây con lo quá."
 
-"Chú ấy không về được sao em?"
+"Anh ấy không về được sao em?"
 
 "Vâng ạ."
 
@@ -220,7 +220,7 @@ Kang MiRae bán tín bán nghi, nhưng nét mặt Yumir vẫn rạng rỡ như t
 
 Cậu không thể không lo cho bố mình, nhưng cậu cũng chẳng thể bỏ mặc những con người đang thấp thỏm nơi đây. Khả năng giao tiếp của Yumir gần như vô địch trước bất kỳ ai, ngoại trừ những kẻ mạnh hơn cậu!
 
-"Chắc chắn làm được mà, vì kỹ năng ẩn thân của em tăng cấp nhiều lắm từ đợt trước rồi đấy ạ!"
+"Chắc chắn làm được mà, vì kỹ năng Ẩn Thân của em tăng cấp nhiều lắm từ đợt trước rồi đấy ạ!"
 
 "Tăng nhiều là bao nhiêu cơ...?"
 
@@ -232,7 +232,7 @@ Ngay trước mốc cấp tối đa.
 
 "Nghe thế làm tớ thấy kỳ cục lắm, nên cậu đừng có nhắc tới nữa."
 
-Quả thực, Yumir trông rất cuốn hút nhờ thừa hưởng nét đẹp từ Yu IlHan, và đối với cô cậu bé càng đáng yêu cùng là một sự tồn tại vô cùng quý giá. Thế nhưng, cậu bé chỉ trông giống Yu IlHan chứ đâu phải con ruột của anh! Như thể bị thôi miên, cô giơ cây trượng phép lên.
+Quả thực, Yumir trông rất cuốn hút nhờ thừa hưởng nét đẹp từ Yu IlHan, và đối với cô cậu bé càng đáng yêu và là một sự tồn tại vô cùng quý giá. Thế nhưng, cậu bé chỉ trông giống Yu IlHan chứ đâu phải con ruột của anh! Như thể bị thôi miên, cô giơ cây trượng phép lên.
 
 "Được rồi, Mir. Chúng ta đi thôi. Nếu đi cùng em thì chị chắc chắn sẽ làm được."
 

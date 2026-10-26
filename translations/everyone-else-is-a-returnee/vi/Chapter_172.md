@@ -102,9 +102,9 @@ Chúng bao gồm kỹ năng chức nghiệp của anh, Tử Thần, Liệt Hỏa
 
 Yu IlHan chẳng mảy may bận tâm đến chuyện tương lai. Đến lúc đó anh chỉ cần lo chuyện chuyển chức là được. Vấn đề lúc này là Đại Đoạn Vũ Trụ Thương mà anh cần phải học.
 
-Đến lúc này, Bất Khả Họa Quỹ Đạo Thương đã bớt gánh nặng đến mức anh gần như chẳng chịu chút áp lực nào khi tung ra ba đòn cùng lúc, nhưng với Đại Đoạn Vũ Trụ Thương, anh vẫn chưa thể nắm bắt được điểm mấu chốt then chốt.
+Đến lúc này, Bất Khả Họa Quỹ Đạo Thương đã bớt gánh nặng đến mức anh gần như chẳng chịu chút áp lực nào khi tung ra ba đòn cùng lúc, nhưng với Đại Đoạn Vũ Trụ Thương, anh vẫn chưa thể nắm bắt được điểm then chốt.
 
-Giờ đây anh đã có thể đồng thời phát huy uy lực của kiếm và roi, cũng như uy lực của kiếm và độn khí cùng một lúc, nhưng một khi thực sự làm vậy, các ưu thế của thương bằng cách nào đó lại biến mất, hoặc sự cân bằng cơ thể của anh bị phá vỡ. Anh đã hiểu vì sao Spiera phải đợi tới tận khi đạt tới chuyển chức lần 6 mới khó khăn lắm mới học được kỹ năng này.
+Giờ đây anh đã có thể đồng thời phát huy uy lực của kiếm và roi, cũng như uy lực của kiếm và độn khí cùng một lúc, nhưng một khi thực sự làm vậy, các ưu thế của thương bằng cách nào đó lại biến mất, hoặc sự cân bằng cơ thể của anh bị phá vỡ. Anh đã hiểu vì sao Spiera phải đợi tới tận khi đạt tới chuyển chức lần 6 mới chật vật học được kỹ năng này.
 
 [Thứ cậu thiếu chỉ là thời gian mà thôi. Tiến độ hiện tại của cậu vẫn là quá nhanh rồi. Cho thêm chút thời gian nữa, cậu chắc chắn sẽ thành công.] (Spiera)
 
@@ -158,7 +158,7 @@ Yu IlHan giải trừ kỹ năng Ẩn Thân bị động rồi dùng Hiệu Tri�
 
 Âm thanh ngỡ như trời sụp vang vọng ra xa, xa tít tắp. Thế nhưng, đó vẫn chưa phải là hồi kết. Chiếc Tua Vít Tử Thần của Yu IlHan vẫn đang chực chờ đến lượt để gầm thét hết mình.
 
-"Nếu chẳng có thứ gì xuất hiện, tôi sẽ nổ tung nơi này thành trăm mảnh luôn cho xem."
+"Nếu chẳng có thứ gì xuất hiện, tôi sẽ cho nổ tung nơi này thành trăm mảnh luôn cho xem."
 
 [Đến lúc đó tôi sẽ thưởng cho cậu một nụ hôn!] (Liera)
 

@@ -176,9 +176,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | reviewed |  |
 | 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | reviewed |  |
 | 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | reviewed |  |
-| 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | done |  |
-| 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | done |  |
-| 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | done |  |
+| 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | reviewed |  |
+| 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | reviewed |  |
+| 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | reviewed |  |
 | 175 |  | Chapter_175 - Everyone Else Is a Guardian – 2.txt | Everyone Else Is a Guardian – 2 | todo |  |
 | 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | todo |  |
 | 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | todo |  |
@@ -819,3 +819,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#172] Tên ma pháp quy mô thế giới của Quân Đội Ánh Sáng Rực Rỡ 'Freedom' ở cuối chương — Tạm chọn: dịch là 'Tự Do' và thêm vào glossary. → Đồng ý: dịch Freedom là Tự Do và lưu vào glossary.md. (orchestrator)
 - [#173] Thuật ngữ cây "Baobab" (Baobab tree) IlHan tự đặt cho loài cây khổng lồ ở thế giới địa ngục — Tạm chọn: dịch là "cây Baobab" và thêm vào glossary.md (loại khác). → Đồng ý: dịch Baobab / Baobab tree là cây Baobab trong glossary.md. (orchestrator)
 - [#174] Tiêu đề arc 'Everyone Else Is a Guardian' (đối ứng tên truyện Everyone Else Is A Returnee) → Đồng ý: dịch là Mọi Người Đều Là Hộ Vệ. (orchestrator)
+- [#174] Đoạn 84 chương 174, Kang MiRae hỏi Yumir về Yu IlHan → Đổi Chú ấy không về được sao em? thành Anh ấy không về được sao em? cho nhất quán với đoạn 88. (orchestrator)

@@ -44,7 +44,7 @@ Dù là lửa, băng, sấm sét hay rung động, tất cả chúng đều có 
 
 Ở lưng chừng trời, Yu IlHan xác định con quái vật gần mình nhất rồi trang bị Súng Bắn Cọc. Vì lũ ác ma xuất hiện ở đây đều to lớn hơn anh ít nhất gấp 10 lần, dòng thuộc tính thứ hai của Súng Bắn Cọc thông thường sẽ kích hoạt và tăng thêm 70% sát thương.
 
-Thêm vào đó, hàng loạt điều kiện khác cũng được thỏa mãn, chẳng hạn như Thiên Thần Chi Viện, tấn công bất ngờ, và đối phương là sinh vật sống. Vậy nên so với đòn đánh đầu tiên giáng lên Golem Keshna dạo trước, đòn kích này chẳng khác nào có thể xuyên thủng cả trời xanh. Chẳng cần dùng tới nấc thứ 7, chỉ riêng nấc thứ 6 cũng đủ để khoan thủng một lỗ xuyên qua người chúng rồi.
+Thêm vào đó, hàng loạt điều kiện khác cũng được thỏa mãn, chẳng hạn như Thiên Thần Chi Viện, tấn công bất ngờ, và đối phương là sinh vật sống. Vậy nên so với đòn đánh đầu tiên giáng lên Golem Keshna dạo trước, đòn công kích này chẳng khác nào có thể xuyên thủng cả trời xanh. Chẳng cần dùng tới nấc thứ 7, chỉ riêng nấc thứ 6 cũng đủ để khoan thủng một lỗ xuyên qua người chúng rồi.
 
 "Hự!"
 
@@ -224,7 +224,7 @@ Nó không hề kích hoạt.
 
 "Không, tôi không đùa đâu. Lạ thật đấy. Ở những thế giới khác nó vẫn hoạt động trơn tru mà."
 
-Một người cẩn trọng đến mức qua cây cầu nào cũng phải gõ gõ thử xuống mặt đất để kiểm tra độ vững chắc như Yu IlHan, đời nào lại không kiểm tra năng lực đó trước cơ chứ. Anh đã từng thử nghiệm việc trở về Trái Đất từ vài thế giới khác nhau, và chỉ tiến vào nơi này sau khi đã xác nhận chắc chắn rằng nó hoàn toàn hoạt động.
+Một người cẩn trọng đến mức qua cây cầu nào cũng phải gõ gõ thử xuống mặt cầu để kiểm tra độ vững chắc như Yu IlHan, đời nào lại không kiểm tra năng lực đó trước cơ chứ. Anh đã từng thử nghiệm việc trở về Trái Đất từ vài thế giới khác nhau, và chỉ tiến vào nơi này sau khi đã xác nhận chắc chắn rằng nó hoàn toàn hoạt động.
 
 [Biết đâu thế giới này là một ngoại lệ!] (Liera)
 
