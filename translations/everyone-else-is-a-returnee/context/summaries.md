@@ -1232,4 +1232,10 @@ Trong lúc ngâm mình và uống rượu Hơi Thở, cơ thể anh cộng hư�
 Sau một năm không ngủ càn quét quái vật Trái Đất bằng pháo đài bay, IlHan đã luyện tối đa Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao và Siêu Việt Tái Sinh (Tử Thần tiệm cận tối đa), nhưng vẫn bế tắc trước tiêu chí nhận Chúc Phúc Của Nữ Thần Lửa dù Liệt Hỏa đã đạt cấp 99.
 Cảnh kết thúc: Nhận thấy tốc độ sinh sôi của quái vật bên ngoài chậm dần làm chậm tiến độ luyện kỹ năng, IlHan quyết định nhắm vào các hầm ngục và hỏi Liera xem cô đã từng nghe đến từ "cửa sau" hay chưa.
 
+## 201
+Yu IlHan tiết lộ với Liera rằng anh đã bí mật cài "cửa sau" vào toàn bộ Bẫy Hủy Diệt trên Trái Đất từ thời Đại Tai Biến lần 2 (pha trộn long ngữ và ngôn ngữ elf cổ đại) có chức năng thăm dò số lượng quái vật và kích nổ hầm ngục.
+Nhằm giải quyết tình trạng thiếu hụt quái vật rèn luyện kỹ năng, IlHan ném tạo tác chứa ma thạch chuyển chức 2 liên hoàn kích nổ các cánh cổng hầm ngục khắp bầu trời và mặt đất, tạo ra Đợt Sóng Hầm Ngục và Hiện Tượng Tràn nhân tạo khiến hàng triệu quái vật túa ra và dung hợp tiến hóa thành chuyển chức 4.
+Cảnh kết thúc: IlHan vung Bát Vĩ Long Thương chỉ huy hệ thống Bách Nhãn phóng một trăm Gương Hủy Diệt bắn chùm tia năng lượng thiêu rụi toàn bộ bầy quái vật; chỉ trong vỏn vẹn 3 tháng, toàn bộ hầm ngục trên Trái Đất đã được giải phóng và bị IlHan quét sạch không còn một mống.
+
+
 

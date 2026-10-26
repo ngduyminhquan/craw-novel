@@ -205,7 +205,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | reviewed |  |
 | 199 |  | Chapter_199 - If You See Me – 1.txt | If You See Me – 1 | done |  |
 | 200 |  | Chapter_200 - If You See Me – 2.txt | If You See Me – 2 | done |  |
-| 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | todo |  |
+| 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | done |  |
 | 202 |  | Chapter_202 - If You See Me – 4.txt | If You See Me – 4 | todo |  |
 | 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | todo |  |
 | 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -859,3 +858,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#199] Chiêu thức tự đặt "Hell Tornado" — Tạm chọn: "Lốc Xoáy Địa Ngục" và thêm vào glossary.md. Phương án khác: "Địa Ngục Cuồng Phong", "Cơn Lốc Địa Ngục". → Chốt dịch là "Lốc Xoáy Địa Ngục" (rõ nghĩa, hợp phong cách tự đặt tên chiêu thức hài hước của Yu IlHan). (orchestrator)
 - [#199] Câu chửi thề "God dammit." của Yu IlHan ở đoạn 96 — Tạm chọn: dịch tự nhiên thành "Chết tiệt thật chứ", không dịch "God" thành "Thượng Đế" (tương tự chương 182; QA cảnh báo thiếu Thượng Đế do bắt nhầm từ cảm thán). → Giữ nguyên "Chết tiệt thật chứ" đúng sắc thái lời chửi thề tự nhiên, bỏ qua cảnh báo false positive 'God' của QA (tương tự chương 182, 185, 195). (orchestrator)
 - [#200] Thuật ngữ "backdoor" trong câu hỏi cuối chương của Yu IlHan ("Liera, have you ever heard of the word 'backdoor'?") — Tạm chọn: dịch thuần Việt là "cửa sau" theo đúng nghĩa thuật ngữ tin học/lập trình; phương án khác: giữ nguyên "backdoor" hoặc dùng "cửa sau (backdoor)". → Chốt dịch thuần Việt là "cửa sau" (rõ nghĩa cả nghĩa đen lẫn thuật ngữ cổng hậu tin học, không giữ tiếng Anh trong ngoặc theo rules.md). (orchestrator)
+- [#201] Từ "records" trong câu thoại quái vật "[Kill humans! Let's earn records!]" (đoạn 68) — Tạm chọn: "ghi chép" (theo thuật ngữ cốt lõi Hồ Sơ Akashic). Đề xuất: giữ nguyên "ghi chép". → Giữ nguyên "ghi chép" theo đúng bản chất cơ chế tích lũy ghi chép của Hồ Sơ Akashic. (orchestrator)
