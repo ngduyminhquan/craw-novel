@@ -54,7 +54,7 @@ Ba nữ thiên thần lần lượt bày tỏ nỗi âu lo. Ánh mắt họ cũn
 
 Liệt Hỏa Tử Thần hệ nhân loại, Yu IlHan, người gánh vác trên vai vận mệnh của Trái Đất, lúc này đang bận rộn kiểm tra sự phân bổ ma thạch khắp dinh thự.
 
-"Vì Đại Tai Biến lần 2 đã xảy ra nên việc chế tác mana sẽ dễ dàng hơn nhỉ."
+"Vì Đại Tai Biến lần 2 đã xảy ra nên việc Chế Tác Mana sẽ dễ dàng hơn nhỉ."
 
 [IlHan yêu dấu của tôi ơi? Cậu không muốn cùng bà chị này đi săn quái vật sao?] (Liera)
 
@@ -70,7 +70,7 @@ Kiểm tra xong xuôi, Yu IlHan rảo bước về phía thư phòng trung tâm 
 
 [Có vẻ như cậu ấy bắt đầu rồi.] (Spiera)
 
-Hít một hơi thật sâu, anh lấy một viên ma thạch cấp 4 đặt vào lòng bàn tay. Đoạn, anh khép mắt lại.
+Hít một hơi thật sâu, anh lấy một viên ma thạch chuyển chức 4 đặt vào lòng bàn tay. Đoạn, anh khép mắt lại.
 
 'Mình chỉ cần làm đúng theo kế hoạch là được.'
 
@@ -88,7 +88,7 @@ Tựa như cộng hưởng với viên ma thạch, chiếc bàn trong thư phòn
 
 [...Đ, đó là vì đây là sự kết hợp giữa rèn đúc và chế tác mana đấy chứ!] (Erta)
 
-Ánh sáng không hề suy giảm mà tiếp tục bùng cháy dữ dội. Trong quá trình đó, những viên ma thạch cấp 3 gắn khắp các khu vực trên mảnh đất tan chảy ra để truyền đặc tính đặc biệt vào vô số vật phẩm, hoàn toàn đúng như những gì Yu IlHan đã vạch sẵn.
+Ánh sáng không hề suy giảm mà tiếp tục bùng cháy dữ dội. Trong quá trình đó, những viên ma thạch chuyển chức 3 gắn khắp các khu vực trên mảnh đất tan chảy ra để truyền đặc tính đặc biệt vào vô số vật phẩm, hoàn toàn đúng như những gì Yu IlHan đã vạch sẵn.
 
 Ngay sau đó, mạch ma pháp ngôn ngữ khắc trên mọi đồ vật trong lãnh địa đồng loạt cộng hưởng và khuếch đại sức mạnh ấy lên!
 
@@ -100,7 +100,7 @@ Ngay sau đó, mạch ma pháp ngôn ngữ khắc trên mọi đồ vật trong 
 
 "Ngài ấy sẽ không phi thăng lên trời luôn như thế này đấy chứ... phải không?"
 
-Dĩ nhiên, luồng sáng ấy không thể kéo dài mãi mãi. Khi viên ma thạch cấp 4 trong tay Yu IlHan tan chảy hoàn toàn và hòa quyện vào dinh thự, vầng hào quang bao trùm lấy đại dinh thự cùng khu lãnh địa cuối cùng cũng lắng xuống.
+Dĩ nhiên, luồng sáng ấy không thể kéo dài mãi mãi. Khi viên ma thạch chuyển chức 4 trong tay Yu IlHan tan chảy hoàn toàn và hòa quyện vào dinh thự, vầng hào quang bao trùm lấy đại dinh thự cùng khu lãnh địa cuối cùng cũng lắng xuống.
 
 Dẫu vẫn còn những tia sáng mờ ảo lập lòe ở nhiều ngóc ngách trong dinh thự, nhưng trừ khi có người rót thêm mana vào, nếu không chúng sẽ sớm tiêu tán vào không khí. Quá trình chế tác mana đã thành công mỹ mãn.
 
@@ -132,7 +132,7 @@ Hỗn Loạn? Ngay khi Yu IlHan đang nghiêng đầu thắc mắc trước ph�
 
 "Không lẽ luồng sáng này là...!"
 
-"Tiến hóa ạ? Bố đang tiến hóa sao bố!?" (Mir)
+"Tiến hóa ạ? Bố đang tiến hóa sao bố!?" (Yumir)
 
 Khác với lúc trước khi ánh sáng ma thạch bao trùm lấy tất cả mọi người bao gồm cả Yu IlHan, thì giờ đây, chính bản thân cơ thể Yu IlHan lại đang tự phát ra hào quang.
 
@@ -140,7 +140,7 @@ Trong khi mọi người còn đang hoang mang trước hiện tượng kỳ l�
 
 [Hở? Trạng thái của IlHan cứ như là...?] (Liera)
 
-"Hóa ra là bố đang tiến hóa thật ạ?" (Mir)
+"Hóa ra là bố đang tiến hóa thật ạ?" (Yumir)
 
 Đúng khoảnh khắc ấy, những dòng chữ còn nhiều hơn cả khi anh tạo ra Bittersweet Persona bắt đầu xuất hiện.
 

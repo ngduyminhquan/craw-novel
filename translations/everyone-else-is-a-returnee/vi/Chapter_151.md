@@ -186,7 +186,7 @@ Yu IlHan, vừa là tổng chỉ huy công trường vừa là thợ xây số m
 
 "À, không có gì đâu."
 
-Dẫu đối với tiêu chuẩn của Kang MiRae thì đó là "không có gì", nhưng với Na YuNa đang bị cô khóa cổ bằng đòn sleeper-choke thì đó lại là một việc trọng đại vô cùng.
+Dẫu đối với tiêu chuẩn của Kang MiRae thì đó là "không có gì", nhưng với Na YuNa đang bị cô khóa cổ bằng đòn siết cổ sleeper-choke thì đó lại là một việc trọng đại vô cùng.
 
 Tuy vậy, vì tin tưởng vào tình bạn thắm thiết giữa Kang MiRae và Na YuNa, anh không nói thêm lời nào. Thay vào đó, anh tiếp tục cất giọng hô lớn về phía đám thuộc hạ đang làm việc.
 

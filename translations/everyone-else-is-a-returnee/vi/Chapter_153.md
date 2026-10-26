@@ -40,7 +40,7 @@ Phải rồi, trao đổi thành viên clan! Tâm trạng cô bắt đầu xáo 
 
 Mọi chuyện kết thúc như vậy đấy. Metal Knights và Magia được chia làm hai nửa rồi trở về đất nước của mình! Vấn đề là cô đã vô thức chấp nhận lời đề nghị của hắn chỉ vì những lời lẽ đường mật bảnh bao đó. Chính vì thế mà giờ đây cô mới bồn chồn thế này...
 
-"Vấn đề? Mình đang nghĩ vấn đề này là vấn đề gì cơ chứ?"
+'Vấn đề? Mình đang nghĩ vấn đề này là vấn đề gì cơ chứ?'
 
 Đề xuất của Michael Smithson hợp tình hợp lý đến mức thật khó tin nổi nó lại thốt ra từ chính miệng hắn!
 
@@ -86,7 +86,7 @@ Một tiếng nổ kinh thiên động địa vang lên. Khi số lượng quái
 
 Trước đây, chạm tới cột mốc đó là điều xa vời tận tương lai, nhưng ngay lúc này, nhờ vào hoàn cảnh khắc nghiệt của Trái Đất cùng những hành động của chính mình, việc đạt tới chuyển chức lần 3 trước tuổi ba mươi hoàn toàn có thể trở thành hiện thực!
 
-"Mình sẽ chứng minh cho thấy mình có thể chạm tới nó nhanh hơn tên đó."
+'Mình sẽ chứng minh cho thấy mình có thể chạm tới nó nhanh hơn tên đó.'
 
 Dù trong lòng vẫn đang nghĩ đến chuyện khác, cô vẫn siết chặt trượng phép và quan sát địa hình xung quanh vừa bị san phẳng.
 
@@ -102,11 +102,11 @@ Tuy nhiên vào khoảnh khắc tiếp theo, cô bắt gặp một cảnh tượ
 
 "Không, tôi không nghĩ vậy. Thứ nhìn thấy phía bên kia cánh cổng đó là một thế giới khác..."
 
-"Thế giới khác sao?
+"Thế giới khác sao?"
 
 ...nó đang biến chuyển thành một thứ cách xa hàng tỷ năm ánh sáng so với Hiện Tượng Tràn!
 
-"Không lẽ nào, đó là Thế Giới Bị Bỏ Rơi sao?
+"Không lẽ nào, đó là Thế Giới Bị Bỏ Rơi sao?"
 
 "Chết tiệt, phát tín hiệu SOS đi! Yêu cầu...!"
 
@@ -136,7 +136,7 @@ Trong khi đó, hiện tượng như vậy không chỉ xảy đến với riên
 
 "Chúng ta phải phá hủy vòng xoáy đó bằng mọi giá trước khi Hiện Tượng Tràn xảy ra! Các pháp sư, tung đòn nào uy lực hơn đi!"
 
-"Nhưng chúng tôi cạn sạch cả mana lẫn thuốc hồi phục rồi!
+"Nhưng chúng tôi cạn sạch cả mana lẫn thuốc hồi phục rồi!"
 
 "Chủ Clan, quái vật từ phía bên kia cũng đang kéo tới nữa!"
 
@@ -150,7 +150,7 @@ Tệ hơn nữa, lũ quái vật còn đang lũ lượt lao về phía vòng xo�
 
 "Nếu có cô Kang ở đây thì mọi chuyện đã chẳng ra nông nỗi này."
 
-"Chủ nhân Magia của chúng tôi đâu có thua kém gì Chủ Clan của Clan Lôi Thần chứ!"
+"Chủ Clan Magia của chúng tôi đâu có thua kém gì Chủ Clan của Clan Lôi Thần chứ!"
 
 "Phải, cô ấy cũng rất cừ khôi. Nhưng ngặt nỗi cả hai người họ hiện tại đều không có ở đây."
 
@@ -158,7 +158,7 @@ Smithson, người đang lần lượt nghĩ về hai người phụ nữ sở h
 
 Susanoo ư? Dĩ nhiên hắn ta sẽ còn mạnh hơn thế, nhưng nếu hắn thực sự xuất hiện rồi quét sạch lũ quái vật xông ra, thì Michael Smithson sẽ phải cay cú đá chăn trong giấc ngủ vì chịu thua mất.
 
-"...Dù vậy, ta vẫn ước gì hắn đang ở đây lúc này."
+"...Dù vậy, tôi vẫn ước gì hắn đang ở đây lúc này."
 
 Lòng tự tôn của hắn bị chà đạp vẫn còn tốt hơn hàng triệu lần so với việc quê hương bị giày xéo. Chẳng phải hắn đã trải qua mười năm ở thế giới khác và nâng cao sức mạnh sau Đại Tai Biến lần 1 cốt là để bảo vệ nước Anh hay sao?
 
@@ -178,13 +178,13 @@ Dẫu hắn là một gã đáng ghét, Smithson vẫn luôn tôn trọng anh �
 
 Hắn sải bước tiến lên phía trước. Một con quái vật lao về phía hắn liền bị chém đứt làm đôi. Thanh đại kiếm sở hữu chức năng gia tăng sức mạnh của hắn, đồng thời khuếch đại trọng lượng cơ thể rồi truyền thẳng vào vũ khí.
 
-"Thì ta sẽ là người gánh vác."
+"Thì tôi sẽ là người gánh vác."
 
 Ngoài ra, nó còn có chức năng tạo ra một lưỡi kiếm mana kinh hoàng hơn bất kỳ loại ma pháp nào bằng cách thiêu đốt mana của chính hắn. Nếu hắn không có đủ mana, nó sẽ hiến tế chính những ghi chép của hắn!
 
 "Chủ Clan, đừng làm vậy!"
 
-"Im miệng. Các cậu vừa rút lui vừa bảo vệ các pháp sư mau! Và báo cho người đàn ông đó, Quý ngài Độc Nhất, rằng ở đây đang có Hiện Tượng Tràn! Cho đến khi anh ta tới, một mình ta sẽ trấn thủ!"
+"Im miệng. Các cậu vừa rút lui vừa bảo vệ các pháp sư mau! Và báo cho người đàn ông đó, Quý ngài Độc Nhất, rằng ở đây đang có Hiện Tượng Tràn! Cho đến khi anh ta tới, một mình tôi sẽ trấn thủ!"
 
 "Chủ Clan!"
 

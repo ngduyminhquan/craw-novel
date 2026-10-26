@@ -155,9 +155,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 148 |  | Chapter_148 - I Make My Own Home I.txt | I Make My Own Home I | reviewed |  |
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | reviewed |  |
 | 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | reviewed |  |
-| 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | done |  |
-| 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | done |  |
-| 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | done |  |
+| 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | reviewed |  |
+| 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | reviewed |  |
+| 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | reviewed |  |
 | 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | todo |  |
 | 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | todo |  |
 | 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | todo |  |
@@ -788,3 +788,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#152] Ba dòng cuối raw là lời nhắn ngoài truyện của tác giả ('Author\'s notes' giải thích thứ tự các phẩm cấp vật phẩm: Normal -> Rare -> Unique -> Legend -> Epic -> Chaos -> Demigod -> God -> Eternal) — Tạm chọn: thêm vào raw_ignore_lines trong novel.json theo quy ước bỏ lời nhắn cuối chương của pipeline, đồng thời cập nhật toàn bộ thứ tự phẩm cấp vào glossary.md; phương án khác: dịch thành 3 đoạn văn bản ở cuối chương. → Bỏ qua 3 dòng ghi chú cuối chương của tác giả ('Author's notes' về thứ tự phẩm cấp vật phẩm) bằng cách thêm vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md; đồng thời lưu thứ tự phẩm cấp vào glossary.md. (orchestrator)
 - [#153] Biệt danh "Mister Unique" mà Michael Smithson dùng để gọi Yu IlHan: dịch thế nào? → Chốt dịch là "Quý ngài Độc Nhất" và thêm vào glossary.md (loại khác), không thêm vào cột Alias của Yu IlHan trong characters.md. (orchestrator)
 - [#153] Tên địa danh "London", "Milan": giữ nguyên hay phiên âm? → Giữ nguyên dạng Latin "London", "Milan" thống nhất với các thành phố quốc tế khác trong truyện (New York, Los Angeles, Tokyo). (orchestrator)
+- [#152] Tên đại dinh thự kiêm pháo đài chiến đấu "Bittersweet Persona": giữ nguyên tiếng Anh hay Việt hóa? → Giữ nguyên tên riêng tiếng Anh "Bittersweet Persona" (tương tự các tên riêng tiếng Anh khác như Vanguard, Metal Knights, Burning Flag). (orchestrator)
+- [#153] Xưng hô của Michael Smithson ở chương 153 đoạn 93 ("một mình ta sẽ trấn thủ!" hay "một mình tôi sẽ trấn thủ!"): chọn phương án nào? → Đổi sang xưng "tôi" (cả ở đoạn 80, 90, 93) để nhất quán với cách xưng hô "tôi - các cậu" của Michael Smithson với các thành viên clan. (orchestrator)

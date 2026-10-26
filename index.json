@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T14:43:59Z",
+  "generatedAt": "2026-10-26T14:56:35Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -910,19 +910,19 @@
           "number": 151,
           "title": "Chương 151: Tự Tay Dựng Tổ Ấm IV",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_151.md",
-          "sha": "d1353c4d9e2442c155e15455cf178d8d8837e7af"
+          "sha": "7f2c7ac5f5fbc2d80be7fc208b976ec45e8739a7"
         },
         {
           "number": 152,
           "title": "Chương 152: Tự Tay Dựng Tổ Ấm V",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_152.md",
-          "sha": "712b7da3592a4b8d74e362f74df5adf386a33f22"
+          "sha": "0d0ad7002d2ed14c2f45f0f9a2c535dcb33a8097"
         },
         {
           "number": 153,
           "title": "Chương 153: Tự Tay Dựng Tổ Ấm VI",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_153.md",
-          "sha": "d41893057ada12f9c31fc7c618fb45043b2747fa"
+          "sha": "8cb02500682df44d780796cca9b8068eda7c60ff"
         }
       ]
     }
