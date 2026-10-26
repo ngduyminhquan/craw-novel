@@ -674,7 +674,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Time Stop |  | Ngưng Đọng Thời Gian | kỹ năng | 176 | Ma pháp thời gian làm chậm mục tiêu trong không gian chỉ định của Kim YeSeul |
 | Thunderstorm |  | Lôi Bão | kỹ năng | 176 | Ma pháp sấm sét cao cấp bậc nhất của Kang MiRae hút sạch mana phe địch lẫn đồng minh |
 | Warp |  | Dịch Chuyển | kỹ năng | 178 | Kỹ năng độc nhất tiến hóa từ Bật Nhảy, tiêu hao ma thạch bóp méo thời không để dịch chuyển đến nơi đã thấu hiểu hoàn hảo |
-| Spear Master |  | Thương Sư | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan hướng tới cực hạn của thương thuật |
+| Spear Master |  | Thương Sư | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan hướng tới cực hạn của thương thuật (ở #89 đoạn 62 raw gõ nhầm kỹ năng Spear Mastery / Thương Thuật thành Spear Master) |
 | Burning Lord |  | Liệt Hỏa Chúa Tể | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan điều khiển hỏa diễm |
 | Little Giant |  | Tiểu Cự Nhân | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan liên quan đến Quái Lực hoặc Bật Nhảy |
 | Hell Bringer |  | Kẻ Giáng Địa Ngục | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan kế thừa hệ Tử Thần, mang địa ngục giáng xuống kẻ thù |
