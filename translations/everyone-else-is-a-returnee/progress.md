@@ -183,7 +183,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 176 |  | Chapter_176 - Everyone Else Is a Guardian – 3.txt | Everyone Else Is a Guardian – 3 | reviewed |  |
 | 177 |  | Chapter_177 - Everyone Else Is a Guardian – 4.txt | Everyone Else Is a Guardian – 4 | reviewed |  |
 | 178 |  | Chapter_178 - Everyone Else Is a Guardian – 5.txt | Everyone Else Is a Guardian – 5 | done |  |
-| 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | todo |  |
+| 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | done |  |
 | 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | todo |  |
 | 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | todo |  |
 | 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -825,3 +824,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#176] Kỹ năng ma pháp 'Time Stop' của Kim YeSeul và 'Thunderstorm' của Kang MiRae — Tạm chọn: dịch Hán Việt là 'Ngưng Đọng Thời Gian' và 'Bão Lôi' rồi lưu vào glossary.md. → Chốt 'Time Stop' là 'Ngưng Đọng Thời Gian'; tạm giữ 'Thunderstorm' là 'Bão Lôi' ở chương 176 và sẽ đồng bộ thành 'Lôi Bão' (thuần Hán Việt, khớp 'Lôi Bão Kép' ở chương 126) ở bước sửa sau review 175–177. (orchestrator)
 - [#177] Cụm từ "slug cartridge" (đạn vỡ từ xương ác ma khuếch đại xung kích khi Bật Nhảy) — Tạm chọn: "hộp đạn slug". Phương án khác: "khối đạn slug", "hộp đạn đặc". → Giữ "hộp đạn slug" (nhất quán với cách dịch "cartridge" là "hộp đạn" ở chương 32 và 168; cụm này chỉ xuất hiện ở chương 177). (orchestrator)
 - [#178] Kỹ năng độc nhất mới 'Warp' (tiến hóa từ Bật Nhảy/Leap) — Tạm chọn: "Dịch Chuyển". Đề xuất khác: "Dịch Chuyển Không Gian", "Xuyên Không". → Giữ "Dịch Chuyển" (ngắn gọn, thuần Hán Việt theo rules.md). (orchestrator)
+- [#179] Thuật ngữ "Spatial transfer magic" — Tạm chọn: "Ma pháp dịch chuyển không gian" (nhất quán với "Ma pháp mở rộng không gian" ở chương 30). → Giữ cách dịch tự nhiên "ma pháp dịch chuyển không gian" trong chương 179, nhưng đưa `Spatial transfer magic` vào danh sách Đã loại trong glossary.md vì trong raw đây là cụm danh từ chung viết thường (`spatial transfer magic`), không phải tên kỹ năng hệ thống. (orchestrator)
+- [#179] Ký tự số 1 ở cuối tiếng khóc của Yumir trong raw ('*Waaaaaaaaaaaaah*!' 1) — Tạm chọn: lược bỏ số 1 vì là ký hiệu đánh dấu chú thích thừa của bản dịch tiếng Anh (không có nội dung chú giải ở cuối file). → Giữ nguyên quyết định lược bỏ số 1 thừa ở cuối tiếng khóc của Yumir vì đó là ký hiệu đánh dấu chú thích của bản dịch tiếng Anh. (orchestrator)

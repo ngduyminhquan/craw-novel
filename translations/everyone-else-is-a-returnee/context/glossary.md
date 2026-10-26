@@ -45,6 +45,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - Battle start — câu hiệu lệnh thông thường của trọng tài, không phải thuật ngữ cố định (#146)
 - Interspatial storage — cụm danh từ chung chỉ kho chứa không gian (trong raw viết thường `interspatial storage`), không phải tên kỹ năng hệ thống (#175)
 - settled mercenary system — cụm danh từ chung viết thường trong lời thoại chỉ chế độ lính đánh thuê định cư, không phải thuật ngữ hệ thống cố định (#176)
+- Spatial transfer magic — cụm danh từ chung chỉ ma pháp dịch chuyển không gian (trong raw viết thường `spatial transfer magic`), không phải tên kỹ năng hệ thống (#179)
 
 ## Bảng thuật ngữ
 

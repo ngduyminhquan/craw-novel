@@ -1099,6 +1099,13 @@ Trước sự ngăn cản của các thiên thần không để anh mạo hiểm
 Yu IlHan đáp ứng điều kiện tiêu hao 1.000 ma thạch chuyển chức 4, 100.000 ma thạch chuyển chức 3, 1.000L máu chủng tộc ma pháp cao cấp và giải phóng hai danh hiệu 'Cực Tốc Giả' cùng 'Ếch Nhảy Khỏi Đáy Giếng' để tiến hóa Bật Nhảy thành kỹ năng cao cấp độc nhất 'Dịch Chuyển' (Warp).
 Cảnh kết thúc: Sau khi nhận ra kỹ năng mới cho phép bóp méo thời không để dịch chuyển tức thời về bất cứ nơi nào bản thân thấu hiểu, Yu IlHan vui vẻ tuyên bố đã đến lúc về nhà trong sự tán đồng hân hoan của Liera.
 
+## 179
+Tiêu tốn 350 ma thạch chuyển chức 4, Yu IlHan cùng ba thiên thần kích hoạt kỹ năng Dịch Chuyển thoát khỏi hầm ngục và đáp xuống dinh thự Bittersweet Persona trên Trái Đất an toàn, phớt lờ lời thì thầm xua đuổi của trùm hầm ngục.
+Vừa về đến nhà, các thiên thần bận rộn nhận liên lạc từ khắp nơi, trong khi IlHan tranh thủ cạo râu cắt tóc (nhận ra mình đã cao lên 190 cm sau 2 năm) rồi mang Đại Thùng chứa máu rồng Hơi Thở ra làm bồn tắm để hấp thu dưỡng chất và cộng hưởng mana.
+Yumir bất ngờ lao vào phòng tắm ôm chầm lấy IlHan khóc nức nở mừng bố trở về; ngay sau đó Kang MiRae bước vào bắt gặp cảnh IlHan khỏa thân trong thùng nên ngượng ngùng ngất lịm đi.
+Cảnh kết thúc: Trước câu hỏi của IlHan, Yumir nhanh nhảu thông báo một tin chấn động rằng Đại Tai Biến lần 3 sắp ập đến, khiến ba thiên thần trong phòng tắm thất thanh thét lớn.
+
+
 
 
 
