@@ -60,6 +60,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elbani | Sir Elbani; Elbani Da Qurad | Elbani | Kỵ sĩ chuyển chức 4 mạnh nhất bảo vệ hoàng đế của Đế quốc Kadra, tự xưng là "thanh kiếm của đế quốc" | 134 |
 | Emperor of Kadra | Kadra emperor; emperor of the Kadra empire | Hoàng đế Kadra | Hoàng đế của Đế quốc Kadra tại thế giới Ferata, trốn dưới hầm ngầm, bị IlHan chém đầu | 134 |
 | Layutinu |  | Layutinu | Chiến binh Lang tộc mạnh nhất ở lại New York bảo vệ vị trí cánh cổng, nhận được chúc phúc của mặt trăng | 139 |
+| Irma An Ill'ta | Irma Anilta | Irma An Ill'ta | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia thuộc thế giới Lanpas | 158 |
 
 ## Chi tiết
 
@@ -498,3 +499,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, chiến binh Lang tộc thuộc hạ của Erica, kẻ mạnh nhất trong số các Lang tộc ở lại New York bảo vệ khu vực cổng không gian sau khi Yumir, Erica và Flemir xông vào.
 - Ngoại hình / đặc điểm: Nhận được chúc phúc của mặt trăng, có khả năng biến hình người; kính cẩn và trung thành báo cáo tình hình trận chiến với Yu IlHan.
 - Xuất hiện tính đến chương 139: Chờ đón Yu IlHan tại New York, kể lại toàn bộ diễn biến trận chiến chống quái vật và sự biến mất của đám người Yumir, Kang MiRae, Na YuNa.
+
+### Irma An Ill'ta
+- Giới tính, vai trò: Nữ, Đệ nhất Hoàng nữ của Đại Đế quốc Palladia thuộc thế giới Lanpas.
+- Tính cách: Năng nổ, khao khát phát triển và đổi mới ma pháp, có đầu óc giao thương nhạy bén, thân thiện và xem Kang MiRae như bạn bè.
+- Quan hệ: Bạn thân thiết với Kang MiRae; từng bị MiRae gom lượng lớn bình thuốc mana của đế quốc; đặc biệt hứng thú với tạo tác đến từ Trái Đất (trang bị Vanguard của Yu IlHan).
+- Xuất hiện tính đến chương 158: Đề xuất với Kang MiRae ý tưởng biến Trái Đất thành trung tâm giao thương đa giới và sẵn sàng cung cấp tài liệu ma pháp công học của đế quốc để đổi lấy cơ hội tiếp cận trang bị Vanguard.

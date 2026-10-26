@@ -970,6 +970,13 @@ Khi cánh cổng bắt đầu co lại sau 24 giờ, nó bất ngờ nén thành
 Con quái vật sở hữu năng lực rung chấn cực hạn làm lệch toàn bộ mưa thương xương và bắn sóng xung kích; IlHan dùng cánh đối chưởng xung kích mana, rồi lợi dụng ngọn Bát Vĩ Long Thương đang cắm trong người nó để vung Lôi Búa kích hoạt hiệu ứng cộng hưởng xương rồng, khiến chính độ rung tự vệ của nó phản phệ và tự bộc phát nổ tung cơ thể từ bên trong.
 Cảnh kết thúc: Thu về lượng điểm kinh nghiệm bí ẩn bị che dấu chấm hỏi cùng thi thể quái vật, IlHan kiệt quệ tinh thần trước trò trêu chọc của Liera và Spiera rồi cùng hai thiên thần chuẩn bị trở về nhà.
 
+## 158
+Yu IlHan trở về dinh thự an toàn, cùng Yumir say giấc nồng sau 20 ngày chiến đấu liên tục nhờ thực lực bậc thầy Nghỉ Ngơi; các thiên thần Spiera, Liera và Erta thảo luận phương án đối phó các cánh cổng dị giới, Spiera lên Thiên giới đề xuất ban hành Nhiệm Vụ Thiên Giới và áp dụng quy chế Lãnh Địa Dự Bị cho Trái Đất, trong khi Erta thắng oẳn tù tì giành được chỗ ngủ cạnh nắm tay áo IlHan.
+Tại Lanpas, Đệ nhất Hoàng nữ Irma An Ill'ta của Đại Đế quốc Palladia gặp Kang MiRae đề xuất ý tưởng biến Trái Đất thành trung tâm giao thương đa giới để nghiên cứu phát triển ma pháp; MiRae quyết tâm gánh vác trách nhiệm để chia sẻ bớt gánh nặng trên vai IlHan và định hướng dùng trang bị Vanguard làm mặt hàng đặc sản Trái Đất.
+MiRae thương lượng yêu cầu Hoàng nữ cung cấp toàn bộ tài liệu về Ma Pháp Công Học của đế quốc; Hoàng nữ đồng ý nhưng cảnh báo môn này đòi hỏi tay nghề rèn đúc thủ công cực cao mà thời đại nay gần như bế tắc.
+Cảnh kết thúc: MiRae mỉm cười cho Hoàng nữ xem thông số chiếc vòng tay Vanguard của mình, khiến Hoàng nữ kinh ngạc tột độ trước tay nghề chế tác thần sầu và hoàn toàn bị thuyết phục bởi giá trị của món đặc sản Trái Đất.
+
+
 
 
 

@@ -56,6 +56,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elbani | hắn / Elbani / kỵ sĩ | 134 | Kỵ sĩ chuyển chức 4 bảo vệ hoàng đế Kadra |
 | Emperor of Kadra | ông ta / hoàng đế / hoàng đế Kadra | 134 | Hoàng đế của Đế quốc Kadra |
 | Layutinu | gã / Layutinu / con sói | 139 | Chiến binh Lang tộc bảo vệ cổng tại New York |
+| Irma An Ill'ta | cô / Hoàng nữ / Irma An Ill'ta | 158 | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia |
 
 ## Giữa các nhân vật
 
@@ -237,6 +238,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | Kim YeSeul | cháu | bà nội / bà | 143 | Yumir trò chuyện với bà nội |
 | Kim YeSeul | Yumir | bà | cháu / Mir | 143 | Kim YeSeul trò chuyện và cưng chiều cháu nội |
 | Yumir | Erica | em / con | chị / chị Erica | 148 | Yumir xưng em/con, gọi Erica là chị / chị Erica |
+| Kang MiRae | Irma An Ill'ta | tôi | Điện hạ / cô | 158 | Kang MiRae đàm đạo về giao thương với Đệ nhất Hoàng nữ Palladia |
+| Irma An Ill'ta | Kang MiRae | tôi / ta | cô / MiRae | 158 | Đệ nhất Hoàng nữ Palladia đàm đạo và đưa ra lời khuyên cho Kang MiRae |
 
 
 

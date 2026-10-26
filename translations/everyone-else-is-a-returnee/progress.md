@@ -162,7 +162,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | reviewed |  |
 | 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | reviewed |  |
 | 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | done |  |
-| 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | todo |  |
+| 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | done |  |
 | 159 |  | Chapter_159 - If I Open It, It’s The Gate To Hell VI.txt | If I Open It, It’s The Gate To Hell VI | todo |  |
 | 160 |  | Chapter_160 - I am the Centre of the World I.txt | I am the Centre of the World I | todo |  |
 | 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | todo |  |
@@ -367,6 +367,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
+
 
 
 
@@ -794,3 +796,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#155] 'Magic engineering' (마법공학): kỹ năng bị động kiêm ngành học thuật; đã tạm chốt 'Ma Pháp Công Học' theo Hán Việt; xin xác nhận giữ nguyên hay đổi thành 'Kỹ Thuật Ma Pháp'. → Chốt dịch "Magic engineering" là "Ma Pháp Công Học" theo đúng quy tắc dịch tên kỹ năng/học thuật sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#155] Đoạn 57 tiếng kêu "[Eeeeeek.] (Erta)" khi bị Yu IlHan phớt lờ: dịch thế nào? → Đổi thành "[Gừừừ.] (Erta)" cho khớp với hành động nghiến răng tức tối của Erta ở câu ngay trước (tương ứng từ tượng thanh "이이익" trong tiếng Hàn). (orchestrator)
 - [#156] Đoạn 95 viết hoa "DẤU HIỆU" (từ raw "ALSO a sign of the vortex"): giữ viết hoa hay viết thường? → Chuyển về viết thường "dấu hiệu" để câu văn tiếng Việt tự nhiên, không viết hoa toàn bộ từ giữa câu trần thuật. (orchestrator)
+- [#158] Quy chế 'Reserve Territory' cho Trái Đất (tạm dịch: Lãnh Địa Dự Bị); danh hiệu 'First Imperial Princess' của Irma An Ill'ta (tạm dịch: Đệ nhất Hoàng nữ, xưng hô với Kang MiRae: MiRae gọi 'Điện hạ/cô' - xưng 'tôi', Irma gọi 'cô/MiRae' - xưng 'ta'). Đề xuất giữ nguyên. → Chốt dịch "Reserve Territory" là "Lãnh Địa Dự Bị"; thân phận "First Imperial Princess" của Irma An Ill'ta là "Đệ nhất Hoàng nữ"; xưng hô giữa Kang MiRae và Irma An Ill'ta là MiRae xưng "tôi" - gọi "Điện hạ / cô", Irma xưng "tôi / ta" - gọi "cô / MiRae". (orchestrator)
