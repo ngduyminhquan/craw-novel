@@ -1203,3 +1203,9 @@ Khi Đồng Hồ Cát Vĩnh Hằng kết thúc hiệu lực, kết giới điệ
 IlHan dùng xác Ác Ma Rung Biến Thái truyền chấn động cực mạnh vào kết giới cắt đứt gốc rễ dinh thự với mặt đất, giúp pháo đài bay lơ lửng lên không trung và phát tán mana thu hút quái vật bay khắp nơi để tiến hành không chiến.
 Cảnh kết thúc: Sau khi IlHan hào hứng tiết lộ pháo đài còn có thể lặn biển và chiến đấu ngoài vũ trụ khiến sự tự tin của Liera sụp đổ, bầy quái vật bay ập đến và IlHan ra lệnh cho các khẩu pháo quét sạch toàn bộ.
 
+## 196
+Trên bầu trời Hàn Quốc, hàng vạn quái vật bay kéo đến vây hãm; Yu IlHan kích hoạt thuộc tính tăng tốc đột ngột, biến toàn bộ pháo đài bay thành viên đạn khổng lồ tông chết hơn 30.000 quái vật chỉ sau hai lượt va chạm.
+Sau đó, IlHan chuyển Bách Nhãn sang quỹ đạo bám theo bề mặt kết giới ngoài pháo đài để hấp thụ đòn đánh và mana rồi phản hồi thành trận mưa chùm tia năng lượng hủy diệt, càn quét tàn dư quái vật chuyển chức 3 và chuyển chức 4 sơ cấp.
+Để tự mình rèn giũa kỹ năng chuẩn bị cho chuyển chức 4 thay vì phó mặc cho pháo đài, IlHan giương Hiệu Triệu Diệt Vong bay ra ngoài, kết hợp Ngọn Lửa Vĩnh Cửu, Liệt Hỏa và Long Huyết tạo vầng lửa chói lòa hơn cả mặt trời.
+Cảnh kết thúc: Vì quái vật không thể nhìn thẳng vào quầng sáng chói lọi nên kỹ năng Ẩn Thân tự động kích hoạt đưa anh vào cảnh giới "bậc thầy ẩn thân", IlHan cầm Bát Vĩ Long Thương lao vào càn quét sạch sẽ bầy quái vật giữa không trung.
+

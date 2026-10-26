@@ -248,7 +248,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | America |  | Mỹ | địa danh | 34 | Nước Mỹ, Hợp chúng quốc Hoa Kỳ |
 | Arizona |  | Arizona | địa danh | 34 | Bang Arizona ở tây nam nước Mỹ |
 | Los Angeles |  | Los Angeles | địa danh | 34 | Thành phố Los Angeles ở bang California, Mỹ |
-| Pokemon | P*k*m*n | Pokemon | khác | 34 | Được phép giữ nguyên: Thương hiệu trò chơi/anime nổi tiếng của Nhật Bản (tham chiếu văn hóa đại chúng) |
+| Pokemon | P*k*m*n; Pokémon; Pok*mon | Pokemon | khác | 34 | Được phép giữ nguyên: Thương hiệu trò chơi/anime nổi tiếng của Nhật Bản (tham chiếu văn hóa đại chúng) |
 | Record of Extreme Poison Resistance Skill |  | Ghi Chép Kỹ Năng Kháng Độc Cực Hạn | vật phẩm | 34 | Sách ghi chép chứa kỹ năng Kháng Độc Cực Hạn do thiên giới trao thưởng |
 | Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 33 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
 | Heaven | Heavenly | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần; cũng dùng làm tiền tố thuộc tính tạo tác gắn với Thiên giới (Heavenly) |

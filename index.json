@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T23:00:34Z",
+  "generatedAt": "2026-10-26T23:05:44Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1175,6 +1175,12 @@
           "title": "Chương 195: Tôi Tạo Ra – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_195.md",
           "sha": "37d16b11993988f360ec4b9a72e4d444c67716f1"
+        },
+        {
+          "number": 196,
+          "title": "Chương 196: Tôi Tạo Ra – 6",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_196.md",
+          "sha": "d83e0b6da37c650934f8478217bfbda8a198160a"
         }
       ]
     }
