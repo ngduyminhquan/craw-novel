@@ -240,6 +240,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | Erica | em / con | chị / chị Erica | 148 | Yumir xưng em/con, gọi Erica là chị / chị Erica |
 | Kang MiRae | Irma An Ill'ta | tôi | Điện hạ / cô | 158 | Kang MiRae đàm đạo về giao thương với Đệ nhất Hoàng nữ Palladia |
 | Irma An Ill'ta | Kang MiRae | tôi / ta | cô / MiRae | 158 | Đệ nhất Hoàng nữ Palladia đàm đạo và đưa ra lời khuyên cho Kang MiRae |
+| Carina Malatesta | Kang MiRae | tôi | cô / cô Kang | 159 | Hai chủ clan đàm phán hợp tác kiểm soát người dị giới |
+| Kang MiRae | Carina Malatesta | tôi | cô | 159 | Hai chủ clan đàm phán hợp tác kiểm soát người dị giới |
 
 
 

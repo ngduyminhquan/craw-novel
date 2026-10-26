@@ -976,6 +976,12 @@ Tại Lanpas, Đệ nhất Hoàng nữ Irma An Ill'ta của Đại Đế quốc 
 MiRae thương lượng yêu cầu Hoàng nữ cung cấp toàn bộ tài liệu về Ma Pháp Công Học của đế quốc; Hoàng nữ đồng ý nhưng cảnh báo môn này đòi hỏi tay nghề rèn đúc thủ công cực cao mà thời đại nay gần như bế tắc.
 Cảnh kết thúc: MiRae mỉm cười cho Hoàng nữ xem thông số chiếc vòng tay Vanguard của mình, khiến Hoàng nữ kinh ngạc tột độ trước tay nghề chế tác thần sầu và hoàn toàn bị thuyết phục bởi giá trị của món đặc sản Trái Đất.
 
+## 159
+Kang MiRae tới gặp Yu IlHan tại dinh thự đề xuất kế hoạch đưa trang bị Vanguard thành đặc sản Trái Đất để kiểm soát làn sóng giao thương và nhập cảnh của người dị giới; sau khi nếm thử trà quý Fyylita cùng hoa quả ngâm và bánh quy ủ trong Đại Thùng, cô mê mẩn và thuyết phục IlHan thành lập thêm thương hiệu món tráng miệng xa xỉ Angel Tear nhắm vào giới thượng lưu các thế giới.
+MiRae cùng các chủ clan Liên Minh Tiền Tuyến (Michael Smithson, Carina Malatesta...) thống nhất các điều khoản siết chặt quản lý cổng và kiểm soát dị giới tại Gangnam, buộc các quốc gia trên thế giới phải tuân thủ nếu không muốn bị tước quyền mua trang bị Vanguard; các Nhiệm Vụ Thiên Giới cũng được ban hành thúc đẩy luồng người và cổng dị giới.
+Trái ngược với sự bận rộn của MiRae, IlHan cùng Yumir và các thuộc hạ tận hưởng một tháng nghỉ ngơi dưỡng sức thanh thản tại dinh thự và tiện tay kích nổ các vòng xoáy mana xuất hiện gần nhà.
+Cảnh kết thúc: Sau đúng tròn một tháng, IlHan di dời xưởng rèn xuống xưởng ngầm trong dinh thự rồi cùng Yumir, thuộc hạ và ba thiên thần Erta, Liera, Spiera kích hoạt Đồng Hồ Cát Vĩnh Hằng bước vào đợt rèn đúc và luyện thương khép kín kéo dài 2 tháng.
+
 
 
 

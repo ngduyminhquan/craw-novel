@@ -163,7 +163,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | reviewed |  |
 | 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | done |  |
 | 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | done |  |
-| 159 |  | Chapter_159 - If I Open It, It’s The Gate To Hell VI.txt | If I Open It, It’s The Gate To Hell VI | todo |  |
+| 159 |  | Chapter_159 - If I Open It, It’s The Gate To Hell VI.txt | If I Open It, It’s The Gate To Hell VI | done |  |
 | 160 |  | Chapter_160 - I am the Centre of the World I.txt | I am the Centre of the World I | todo |  |
 | 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | todo |  |
 | 162 |  | Chapter_162 - I am the Centre of the World III.txt | I am the Centre of the World III | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -797,3 +798,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#155] Đoạn 57 tiếng kêu "[Eeeeeek.] (Erta)" khi bị Yu IlHan phớt lờ: dịch thế nào? → Đổi thành "[Gừừừ.] (Erta)" cho khớp với hành động nghiến răng tức tối của Erta ở câu ngay trước (tương ứng từ tượng thanh "이이익" trong tiếng Hàn). (orchestrator)
 - [#156] Đoạn 95 viết hoa "DẤU HIỆU" (từ raw "ALSO a sign of the vortex"): giữ viết hoa hay viết thường? → Chuyển về viết thường "dấu hiệu" để câu văn tiếng Việt tự nhiên, không viết hoa toàn bộ từ giữa câu trần thuật. (orchestrator)
 - [#158] Quy chế 'Reserve Territory' cho Trái Đất (tạm dịch: Lãnh Địa Dự Bị); danh hiệu 'First Imperial Princess' của Irma An Ill'ta (tạm dịch: Đệ nhất Hoàng nữ, xưng hô với Kang MiRae: MiRae gọi 'Điện hạ/cô' - xưng 'tôi', Irma gọi 'cô/MiRae' - xưng 'ta'). Đề xuất giữ nguyên. → Chốt dịch "Reserve Territory" là "Lãnh Địa Dự Bị"; thân phận "First Imperial Princess" của Irma An Ill'ta là "Đệ nhất Hoàng nữ"; xưng hô giữa Kang MiRae và Irma An Ill'ta là MiRae xưng "tôi" - gọi "Điện hạ / cô", Irma xưng "tôi / ta" - gọi "cô / MiRae". (orchestrator)
+- [#159] Đoạn 56 raw EN viết sót phủ định ("will have the rights to purchase Vanguard equipment" khi không quản lý cổng/người dị giới) mâu thuẫn với ngữ cảnh trừng phạt — Tạm chọn: dịch là "sẽ bị tước quyền mua trang bị Vanguard". Đề xuất: giữ nguyên bản dịch theo mạch logic cốt truyện. → Chốt dịch là "sẽ bị tước quyền mua trang bị Vanguard" theo đúng mạch logic trừng phạt các quốc gia không tuân thủ quản lý cổng và người dị giới ở các đoạn 55–61. (orchestrator)
