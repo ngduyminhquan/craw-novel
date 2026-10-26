@@ -645,3 +645,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | David's Stone Thrower |  | Máy Bắn Đá Của David | vật phẩm | 167 | Vũ khí Súng Bắn Cọc đặc chế kích hoạt bằng Dây Thun Khổng Lồ và Ngọn Lửa Vĩnh Cửu, khắc chế kẻ địch có kích thước khổng lồ |
 | Death Driver |  | Tua Vít Tử Thần | vật phẩm | 167 | Vũ khí có hình dạng tua vít hai đầu chữ thập xoay tròn cực mạnh nhờ mana và Dây Thun Khổng Lồ |
 | Powerful and Bright Wind Death Driver |  | Tua Vít Tử Thần Cuồng Phong Sáng Chói | vật phẩm | 167 | Tua Vít Tử Thần phẩm cấp Truyền Thuyết sở hữu thuộc tính cuồng phong và ánh sáng do Akashic Records đặt tên |
+| Excavation |  | Khai Quật | kỹ năng | 168 | Kỹ năng đào bới, khai quật quặng và kim loại ma pháp, mở khóa và tăng vọt cấp độ khi Yu IlHan dùng Tua Vít Tử Thần khoan thân golem |
+| Death Ballista Quartet |  | Tứ Tấu Pháo Nỏ Tử Thần | vật phẩm | 168 | Cụm bốn cỗ pháo nỏ tử thần tự động đặt bốn hướng đông tây nam bắc do Yu IlHan chế tạo, dùng Dây Thun Khổng Lồ và ma thuốc nổ bắn phi đao |
+| Keshna |  | Keshna | vật phẩm | 168 | Loại kim loại ma pháp cao cấp có khả năng hấp thụ mana và độ bền kéo cực cao, qua xử lý đặc biệt có thể hấp thụ và lưu giữ trọn vẹn mọi kỷ lục của vật thể |
+| Keshna Golem |  | Golem Keshna | quái vật | 168 | Con golem khổng lồ cấp 270 được chế tạo từ kim loại ma pháp Keshna để lưu giữ kỷ lục của di tích ma pháp công học tại Lanpas |
+| Magic gunpowder | magic gunpowder | ma thuốc nổ | vật phẩm | 168 | Thuốc nổ được chế tạo bằng mana, kết hợp với các đòn ma pháp lửa gây ra chuỗi nổ thứ cấp kinh hoàng |

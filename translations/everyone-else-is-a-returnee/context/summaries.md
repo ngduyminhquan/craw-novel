@@ -1030,18 +1030,10 @@ Trước sự khiếp đảm của nhóm Hoàng nữ Irma An Ill'ta và đòn C�
 Thấy các mảnh vỡ kim loại tự động bay về để chắp vá lại đầu golem, IlHan chỉ đạo Yumir dùng phong ma pháp thổi bay cùng nhóm Kang MiRae và quân đội Palladia nã sấm sét thiêu hủy mảnh vụn; IlHan rút vũ khí mới Tua Vít Tử Thần Cuồng Phong Sáng Chói cắm phập vào rãnh chữ thập trên đinh ốc xương.
 Cảnh kết thúc: Yu IlHan rót toàn bộ mana kích hoạt tua vít xoay tít đinh ốc lửa với tốc độ điên cuồng, vừa nghiền nát thân thể con golem vừa phấn khích thốt lên câu thoại anime tâm đắc: "Mũi khoan của ta là mũi khoan sẽ xuyên thủng trời cao!".
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 168
+Yu IlHan dùng Tua Vít Tử Thần khoan vào thân golem và mở khóa kỹ năng Khai Quật; khi con golem hợp thể với kim loại di tích và đất đá ngọn núi rồi phóng gai nhọn thu hẹp không gian, anh triệu hồi Tứ Tấu Pháo Nỏ Tử Thần nã nát các mảnh kim loại tái tạo.
+Kỹ năng Khai Quật thăng cấp 30 cho phép IlHan tước quyền kiểm soát kim loại ma pháp Keshna của golem và thu toàn bộ vào túi đồ; anh hoán đổi đinh ốc xương để kích nổ ma thuốc nổ rồi dùng Bát Vĩ Long Thương kết hợp Liệt Hỏa kích hoạt vụ nổ thứ cấp thiêu rụi hoàn toàn con golem cấp 270.
+Tiêu diệt Golem Keshna giúp IlHan đạt cấp 162 và hấp thụ toàn bộ kỷ lục tri thức ma pháp công học cổ xưa vốn được tiền nhân lưu giữ trong con golem.
+Sau khi tắm rửa cùng Yumir tại hoàng cung và nhận món quà bồi thường là một viên ngọc ma pháp bí ẩn cùng thức ăn tiệc đóng hộp L*ck&L*ck từ Hoàng nữ Irma, nhóm IlHan an toàn trở về Trái Đất.
+Cảnh kết thúc: Yu IlHan sửa chữa trang bị để ngày hôm sau cùng đoàn chuẩn bị lên đường tiến vào thế giới Breya thu thập thánh thạch và kim loại mới.
 
