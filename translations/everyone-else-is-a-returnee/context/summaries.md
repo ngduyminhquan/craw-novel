@@ -1129,6 +1129,12 @@ Yu IlHan bế bổng Na YuNa rồi kết hợp kỹ năng Bật Nhảy đạt m�
 Phát hiện một thiên thần sa ngã chuyển chức 5 thuộc Quân Đội Ánh Sáng Rực Rỡ đang lén lút canh chừng gần ma pháp trận, IlHan nhận bùa lợi tăng 30% sức mạnh từ Na YuNa rồi duy trì Ẩn Thân tiếp cận, dùng Súng Bắn Cọc nạp tầng 6 giáng đòn Chí Mạng phá tan ma pháp trận trong một nốt nhạc khiến Na YuNa kinh ngạc.
 Cảnh kết thúc: Trên đường bay thong thả trở về trong vòng tay IlHan, Na YuNa thẳng thắn bày tỏ sự rung động và cảm tình ngày càng lớn dành cho anh; trong khi đó IlHan vừa bay vừa phóng thương định kỳ để rèn luyện kỹ năng Tử Thần trong trạng thái Ẩn Thân, bí mật nhắm thẳng vào lưng tên thiên thần sa ngã đang bay vô định phía sau.
 
+## 184
+Trong khi bay lượn và bế Na YuNa, Yu IlHan liên tục phóng thương hạ sát 104 quái vật từ trên cao trong trạng thái Ẩn Thân để tích lũy hiệu ứng kỹ năng Tử Thần tăng 78,45% mọi chỉ số, ăn bánh quy nhồi ma pháp tăng 100 ma pháp, rồi quyết định tập kích tiêu diệt tên thiên thần sa ngã nhằm răn đe các thực thể cấp cao dám dòm ngó Trái Đất.
+Được Liera tiết lộ điểm yếu chí mạng sau lưng của thiên thần sa ngã (vết sẹo do giật bỏ cánh thiên thần), IlHan kích hoạt Quái Lực Lv 99, Siêu Việt Tái Sinh, ngọn lửa trắng từ Ngọn Lửa Vĩnh Cửu cùng Long Huyết của Yumir; anh phóng Hiệu Triệu Diệt Vong và tung liên hoàn 6 cú nhảy vọt áp sát tung ra Bất Khả Họa Quỹ Đạo Thương đánh liền 8 kích phá nát tim, cổ, đầu và bả vai đối thủ.
+Bị tê liệt cơ quan ma pháp và chịu đòn công kích tinh thần xỉa xói của IlHan và Liera, tên thiên thần sa ngã uất ức nôn máu đen chết tại chỗ; IlHan vui sướng thu gom trọn vẹn xác kẻ địch vào túi đồ.
+Cảnh kết thúc: Hồ Sơ Akashic thông báo Yu IlHan thu được ghi chép của Dmirel Lv 307, Bất Khả Họa Quỹ Đạo Thương đạt Lv 85, thuần thục Quái Lực (mở khóa tiến hóa dung hợp), Long Huyết đạt Lv 70, nhận danh hiệu 'Bất Khả Xâm Phạm' và đạt cấp độ cực hạn 199 của chuyển chức 3; hệ thống đồng thời mở ra 4 lựa chọn chức nghiệp chuyển chức 4 gồm Thương Sư, Liệt Hỏa Chúa Tể, Tiểu Cự Nhân và Kẻ Giáng Địa Ngục.
+
 
 
 

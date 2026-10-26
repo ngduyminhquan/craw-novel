@@ -188,7 +188,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | reviewed |  |
 | 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | reviewed |  |
 | 183 |  | Chapter_183 - The Path I Walk – 1.txt | The Path I Walk – 1 | reviewed |  |
-| 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | todo |  |
+| 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | done |  |
 | 185 |  | Chapter_185 - The Path I Walk – 3.txt | The Path I Walk – 3 | todo |  |
 | 186 |  | Chapter_186 - The Path I Walk – 4.txt | The Path I Walk – 4 | todo |  |
 | 187 |  | Chapter_187 - The Path I Walk – 5.txt | The Path I Walk – 5 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -835,3 +834,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#182] Câu cảm thán/chửi thề của Yu IlHan "God dammit." ở đoạn 91 — Tạm chọn: dịch tự nhiên thành "Chết tiệt thật chứ", không dịch "God" thành "Thượng Đế" (QA cảnh báo thiếu Thượng Đế nhưng là cảnh báo nhầm do ngữ cảnh cảm thán). → Giữ bản dịch tự nhiên "Chết tiệt thật chứ" (cảnh báo thiếu 'Thượng Đế' của QA là báo nhầm hợp lệ vì "God dammit" là câu chửi thề). (orchestrator)
 - [#183] Tiêu đề arc mới "The Path I Walk" — Tạm chọn: "Con Đường Tôi Đi – 1". Phương án khác: "Con Đường Tôi Bước – 1", "Con Đường Ta Đi – 1". → Chốt tiêu đề arc "The Path I Walk" là "Con Đường Tôi Đi" (tự nhiên, đúng ngôi xưng "tôi" của Yu IlHan). (orchestrator)
 - [#183] Ba dòng ghi chú ngoài truyện của tác giả ở cuối raw ('Life always changes...', 'What’s Na YuNa’s secret...', 'Yu IlHan has finally decided!') — Tạm chọn: bỏ qua không dịch và thêm vào raw_ignore_lines trong novel.json cùng rules.md (tương tự các chương #152, #176, #182). → Giữ nguyên quyết định thêm 3 dòng ghi chú cuối chương 183 vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md theo quy tắc bỏ ghi chú ngoài truyện. (orchestrator)
+- [#184] Tên 4 chức nghiệp lựa chọn chuyển chức 4: 'Spear Master' (tạm dùng: 'Thương Sư'; PA khác: 'Đại Sư Thương Thuật'), 'Burning Lord' (tạm dùng: 'Liệt Hỏa Chúa Tể'; PA khác: 'Hỏa Viêm Chúa Tể'), 'Little Giant' (tạm dùng: 'Tiểu Cự Nhân'), 'Hell Bringer' (tạm dùng: 'Kẻ Giáng Địa Ngục'; PA khác: 'Kẻ Mang Địa Ngục', 'Địa Ngục Sứ Giả'). → Chốt 4 chức nghiệp chuyển chức 4: 'Spear Master' → 'Thương Sư' (tách khỏi Alias của 'Spearmanship' vì dịch khác chữ VI), 'Burning Lord' → 'Liệt Hỏa Chúa Tể', 'Little Giant' → 'Tiểu Cự Nhân', 'Hell Bringer' → 'Kẻ Giáng Địa Ngục'. (orchestrator)
+- [#184] Tên danh hiệu 'Untouchable' — Tạm dùng: 'Bất Khả Xâm Phạm'. Phương án khác: 'Bất Khả Xúc Cập', 'Không Thể Chạm Tới'. → Chốt danh hiệu 'Untouchable' là 'Bất Khả Xâm Phạm' (Hán Việt ngắn gọn theo rules.md). (orchestrator)

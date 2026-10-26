@@ -61,6 +61,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Emperor of Kadra | Kadra emperor; emperor of the Kadra empire | Hoàng đế Kadra | Hoàng đế của Đế quốc Kadra tại thế giới Ferata, trốn dưới hầm ngầm, bị IlHan chém đầu | 134 |
 | Layutinu |  | Layutinu | Chiến binh Lang tộc mạnh nhất ở lại New York bảo vệ vị trí cánh cổng, nhận được chúc phúc của mặt trăng | 139 |
 | Irma An Ill'ta | Irma Anilta | Irma An Ill'ta | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia thuộc thế giới Lanpas | 158 |
+| Dmirel |  | Dmirel | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ canh giữ ma pháp trận bí mật, bị Yu IlHan tập kích tiêu diệt | 184 |
 
 ## Chi tiết
 
@@ -203,6 +204,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 181: Khả năng vận dụng Đồng Hồ Cát Vĩnh Hằng được nâng cấp (giảm thời gian trễ, tăng thời lượng và mở rộng phạm vi kết giới bao trùm toàn bộ khu vực); gia nhập đội phá hủy ma pháp trận bí mật; chuẩn bị tâm lý đón đầu cuộc chiến giữa các phe thực thể cấp cao khi Trái Đất sắp trở thành thế giới bậc cao.
 - Trạng thái tính đến chương 182: Chia sẻ trang bị phẩm cấp Sử Thi và phụ kiện Truyền Thuyết 5 dòng thuộc tính chế tạo từ hầm ngục cho mẹ Kim YeSeul, Kang MiRae và Na YuNa; bộ giáp và Aegis tự phát triển lên phẩm cấp Sử Thi; chuẩn bị cùng Na YuNa xuất phát rà soát phá hủy ma pháp trận.
 - Trạng thái tính đến chương 183: Cùng Na YuNa đi dò tìm ma pháp trận bí mật; bế bổng Na YuNa kết hợp Bật Nhảy tinh thông và cánh Hiệu Triệu Diệt Vong bay đến mục tiêu trong 6 phút (thay vì 1 tháng); nhận bùa lợi tăng 30% sức mạnh từ Na YuNa rồi dùng Súng Bắn Cọc nạp tầng 6 giáng đòn Chí Mạng phá tan ma pháp trận; trên đường bay về duy trì Ẩn Thân phóng thương tiêu diệt quái vật để rèn luyện kỹ năng Tử Thần, nhắm vào sau lưng tên thiên thần sa ngã chuyển chức 5 thuộc Quân Đội Ánh Sáng Rực Rỡ.
+- Trạng thái tính đến chương 184: Vừa bay vừa phóng thương hạ sát 104 quái vật từ trên cao trong trạng thái Ẩn Thân để tăng 78,45% mọi chỉ số từ kỹ năng Tử Thần; kết hợp Quái Lực Lv 99, Siêu Việt Tái Sinh, ngọn lửa trắng từ Ngọn Lửa Vĩnh Cửu, Long Huyết và Bát Vĩ Long Thương tung 8 kích Bất Khả Họa Quỹ Đạo Thương nhất kích tất sát thực thể cấp cao Dmirel Lv 307 của Quân Đội Ánh Sáng Rực Rỡ; Bất Khả Họa Quỹ Đạo Thương đạt cấp độ 85, thuần thục Quái Lực, Long Huyết đạt cấp độ 70, nhận danh hiệu 'Bất Khả Xâm Phạm' (+20% mọi chỉ số khi đấu kẻ địch đẳng cấp cao hơn, tránh đòn chí tử một kích), đạt cấp độ 199 (cực hạn chuyển chức 3) và mở khóa 4 lựa chọn chức nghiệp chuyển chức 4 (Thương Sư, Liệt Hỏa Chúa Tể, Tiểu Cự Nhân, Kẻ Giáng Địa Ngục).
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.

@@ -58,7 +58,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Pancosmic Loner |  | Kẻ Cô Độc Toàn Vũ Trụ | danh hiệu | 5 | Danh hiệu độc nhất vô nhị của Yu IlHan |
 | Concealment | Hiding | Ẩn Thân | kỹ năng | 5 | Kỹ năng bị động khiến không ai nhận ra |
 | Vale Tudo |  | Vale Tudo | kỹ năng | 2 | Được phép giữ nguyên: Môn võ cận chiến thực chiến tàn khốc không luật lệ (tên môn võ quốc tế phổ thông) |
-| Spearmanship | Spear arts; Spear Mastery; Spear Master | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
+| Spearmanship | Spear arts; Spear Mastery | Thương Thuật | kỹ năng | 2 | Kỹ năng sử dụng trường thương |
 | Dismantling | Disassembly | Giải Phẫu | kỹ năng | 4 | Kỹ năng mổ xẻ, thu hoạch bộ phận quái vật |
 | Smithing | Blacksmithing | Rèn Đúc | kỹ năng | 4 | Kỹ năng chế tạo vũ khí, áo giáp |
 | Higher existence |  | Thực thể cấp cao | chủng tộc | 1 | Cấp độ tồn tại siêu việt (thiên thần, thần...) |
@@ -672,3 +672,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Time Stop |  | Ngưng Đọng Thời Gian | kỹ năng | 176 | Ma pháp thời gian làm chậm mục tiêu trong không gian chỉ định của Kim YeSeul |
 | Thunderstorm |  | Lôi Bão | kỹ năng | 176 | Ma pháp sấm sét cao cấp bậc nhất của Kang MiRae hút sạch mana phe địch lẫn đồng minh |
 | Warp |  | Dịch Chuyển | kỹ năng | 178 | Kỹ năng độc nhất tiến hóa từ Bật Nhảy, tiêu hao ma thạch bóp méo thời không để dịch chuyển đến nơi đã thấu hiểu hoàn hảo |
+| Spear Master |  | Thương Sư | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan hướng tới cực hạn của thương thuật |
+| Burning Lord |  | Liệt Hỏa Chúa Tể | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan điều khiển hỏa diễm |
+| Little Giant |  | Tiểu Cự Nhân | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan liên quan đến Quái Lực hoặc Bật Nhảy |
+| Hell Bringer |  | Kẻ Giáng Địa Ngục | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan kế thừa hệ Tử Thần, mang địa ngục giáng xuống kẻ thù |
+| Untouchable |  | Bất Khả Xâm Phạm | danh hiệu | 184 | Danh hiệu Yu IlHan nhận được sau khi hạ gục thực thể cấp cao Dmirel (+20% mọi chỉ số khi đấu kẻ địch đẳng cấp cao hơn, tránh được đòn chí tử một kích) |
