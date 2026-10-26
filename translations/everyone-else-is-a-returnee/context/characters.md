@@ -273,6 +273,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 143: Trông trẻ trung ra hơn 20 tuổi và có dấu hiệu đã đạt chuyển chức 2; bất ngờ nhưng vui vẻ đón nhận đứa cháu nội Yumir (11 tuổi); khẳng định 10 năm ở Ya-umin không có gì bất thường và nhiệt tình dò hỏi ứng viên con dâu trong số các cô gái đi cùng con trai.
 - Trạng thái tính đến chương 151: Cùng chồng từ chối mọi sự tiếp cận của người ngoài; thể hiện thực lực kinh hồn bạt vía khiến những kẻ mưu toan đột nhập dùng vũ lực phải bỏ chạy thục mạng sau khi nếm trải cảm giác suýt chết.
 - Trạng thái tính đến chương 175: Trông trẻ trung như phụ nữ dưới 30 tuổi; sở hữu năng lực ma pháp xuất chúng, có thể giăng kết giới ngăn chặn sự giám sát của các thực thể cấp cao và dùng kho chứa không gian xé rách không gian cất giữ đồ; phát hiện và phong ấn vô hiệu hóa một ma pháp trận bí mật của Quân Đội Ánh Sáng Rực Rỡ tại dị giới từng kết nối; lập tổ đội cùng Kang MiRae, Na YuNa và Yumir đi các thế giới truy tìm và phá hủy các ma pháp trận tương tự; rất thích Kang MiRae và nhiệt tình chấm cô làm con dâu.
+- Trạng thái tính đến chương 180: Xuất hiện tại dinh thự Bittersweet Persona với diện mạo trẻ trung như thuở Yu IlHan còn học mẫu giáo, trông ngang ngửa tuổi Kang MiRae; đọc vị suy nghĩ của IlHan dễ dàng và ôm chầm lấy con trai trong cuộc hội ngộ ấm áp.
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.
@@ -335,6 +336,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 165: Hứa trả thù lao bằng thánh thạch phẩm cấp cao nhất và ban phước thánh lực để mời IlHan sang thế giới Breya nhưng bất thành do cổng chưa mở; giao việc mở cổng cho Kang HaJin rồi cùng Kang MiRae tháp tùng IlHan và Yumir sang Lanpas.
 - Trạng thái tính đến chương 169: Đưa nhóm IlHan đến thánh địa tối cao tại thế giới Breya nhờ IlHan xây dựng lại Đại Đền Thờ của Nữ Thần Sắc Đẹp Leytna; nhận thêm ghi chép của Nữ Thần Leytna khi đền thờ hoàn thành; đến nhà IlHan chơi với Yumir và được IlHan mời ăn trưa sau khi bộc lộ tính cách chân thật.
 - Trạng thái tính đến chương 175: Cùng Kang MiRae và Yumir đến thăm Kim YeSeul; thích thú với tính cách của mẹ IlHan và nhiệt tình xí xớn nhận mẹ nhưng bị bà trêu; tham gia tổ đội 4 người đi các thế giới điều tra ma pháp trận.
+- Trạng thái tính đến chương 180: Cấp độ tăng vọt và thuần thục sức mạnh của Nữ Thần Sắc Đẹp khiến nhan sắc tiệm cận ngưỡng thực thể cấp cao; được Yu IlHan tặng chiếc vòng đội đầu phẩm cấp Sử Thi có khả năng phòng ngự trước thực thể cấp cao.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

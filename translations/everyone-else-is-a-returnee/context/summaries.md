@@ -1105,6 +1105,13 @@ Vừa về đến nhà, các thiên thần bận rộn nhận liên lạc từ k
 Yumir bất ngờ lao vào phòng tắm ôm chầm lấy IlHan khóc nức nở mừng bố trở về; ngay sau đó Kang MiRae bước vào bắt gặp cảnh IlHan khỏa thân trong thùng nên ngượng ngùng ngất lịm đi.
 Cảnh kết thúc: Trước câu hỏi của IlHan, Yumir nhanh nhảu thông báo một tin chấn động rằng Đại Tai Biến lần 3 sắp ập đến, khiến ba thiên thần trong phòng tắm thất thanh thét lớn.
 
+## 180
+Sau khi bế Kang MiRae đang ngất ra sô pha, Yu IlHan tặng Na YuNa một chiếc vòng đội đầu phẩm cấp Sử Thi có khả năng chống đỡ đòn đánh của thực thể cấp cao; giữa lúc Liera hớt hải bay ra trong tình trạng khỏa thân báo tin Đại Tai Biến lần 3, Kang MiRae tỉnh lại và cùng Na YuNa trao đổi về tình hình Trái Đất suốt 2 năm qua.
+Nhờ lượng mana vượt trội và vũ khí từ Vanguard tràn ngập các tiền tuyến, đa số người Trái Đất đạt chuyển chức 2 thần tốc và liên tục mở cổng kết nối dị giới, khiến Trái Đất tăng trưởng phi mã và đứng trước nguy cơ bùng nổ Đại Tai Biến lần 3 chỉ trong 1 đến 3 tháng tới.
+Kang MiRae ngập ngừng tiết lộ ngoài các Thế Giới Bị Bỏ Rơi thì Quân Đội Ánh Sáng Rực Rỡ và Quân Đội Ma Hủy Diệt cũng đang rục rịch chuẩn bị tấn công Trái Đất, và buột miệng nhắc tới "mẹ" sẽ giải thích cặn kẽ mọi chuyện.
+Cảnh kết thúc: Mẹ của IlHan (Kim YeSeul) bất ngờ xuất hiện tại dinh thự với diện mạo trẻ trung như thuở anh còn học mẫu giáo; sau giây phút bàng hoàng trước năng lực bí ẩn của bà, hai mẹ con có màn hội ngộ xúc động và ấm áp.
+
+
 
 
 
