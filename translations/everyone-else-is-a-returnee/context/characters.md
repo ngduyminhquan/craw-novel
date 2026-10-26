@@ -447,6 +447,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 155: Chiến đấu quả cảm suốt 20 ngày phòng thủ dinh thự và nhờ việc ăn thịt rồng tăng cấp điên cuồng, nhóc đã cán mốc Lv 140; sau trận chiến liền thay đồ ngủ và ngoan ngoãn ngủ say trong vòng tay ấm áp của bố IlHan.
 - Trạng thái tính đến chương 174: Nâng kỹ năng Ẩn Thân lên cấp 97 (ngay sát mốc cấp tối đa); cùng Kang MiRae, Na YuNa và Kang HaJin tiên phong xông qua cánh cổng kết nối Thế Giới Bị Bỏ Rơi tiêu diệt toàn bộ quái vật chuyển chức lần 4 để bảo vệ Trái Đất khi Yu IlHan vắng mặt.
 - Trạng thái tính đến chương 175: Thuần thục kỹ năng Ẩn Thân chuyên về ẩn thân tổ đội; cùng Kang MiRae, Na YuNa đến gặp bà nội Kim YeSeul và làm nũng cực kỳ đáng yêu; nhận nhiệm vụ bảo vệ bà nội và tham gia đội 4 người xuyên qua các thế giới phá hủy ma pháp trận.
+- Trạng thái tính đến chương 192: Đạt cấp 192 sau khi ăn thịt rồng; bị trục xuất tới một thế giới rực lửa xa lạ; kỹ năng Ẩn Thân đạt cảnh giới đại sư (Lv Max); đơn đả độc đấu tiêu diệt quái vật ác ma ngọn lửa khổng lồ cấp trên 250 và thu phục một nhóm trẻ con loài người sơ sinh bằng thịt quái vật, thành lập Quân Đoàn Địa Ngục Rồng.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

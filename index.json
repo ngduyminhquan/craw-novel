@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T22:24:14Z",
+  "generatedAt": "2026-10-26T22:29:51Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1151,6 +1151,12 @@
           "title": "Chương 191: Tôi Tạo Ra – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_191.md",
           "sha": "1e966c8b5fc7cb7fab4e4d41afc0cb13c66b3343"
+        },
+        {
+          "number": 192,
+          "title": "Chương 192: Tôi Tạo Ra – 2",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_192.md",
+          "sha": "5b874e0a42eefd36aec8848e311bad35ed802c13"
         }
       ]
     }

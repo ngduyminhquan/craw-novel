@@ -1179,6 +1179,13 @@ Trước làn sóng quái vật vô tận kéo tới, IlHan cắm hàng trăm ng
 Trong thế giới ngưng đọng hai tháng, IlHan bắt tay vào xưởng rèn, dùng Ngọn Lửa Vĩnh Cửu, kiến thức Ma Pháp Công Học từ Lanpas và ma thạch chuyển chức 4 nung chảy kim loại cùng xương quái vật để chế tạo các bộ phận khổng lồ cho pháo đài bay cùng vũ khí tác chiến.
 Cảnh kết thúc: Chứng kiến sự kiên cường và bóng lưng rèn đúc của IlHan, Liera thầm hạ quyết tâm sẽ dùng đến sức mạnh do Thần Tình Yêu ban cho để bảo vệ anh sống sót bằng mọi giá nếu một thực thể chuyển chức 5 xuất hiện, giữa tiếng búa rèn vang dội khắp Trái Đất.
 
+## 192
+Bị trục xuất tới một thế giới rực lửa xa lạ chứa đầy quái vật cấp 250 trở lên sau khi bất tỉnh ở Trái Đất, Yumir nhận ra tàn tích dấu vết của Yu IlHan nên lấy lại bình tĩnh, nướng thịt rồng đạt cấp 192 và quyết định học theo bố: tiêu diệt mọi kẻ địch trong tầm mắt.
+Phát hiện một nhóm trẻ con loài người dưới 4 tuổi tụ tập khóc lóc sắp bị một con ác ma ngọn lửa khổng lồ cao hơn 20 mét tấn công, Yumir ăn Bánh quy nhồi ma pháp tăng sức mạnh, dùng Ẩn Thân và ma pháp phong phối hợp Bật Nhảy tập kích bất ngờ.
+Nhờ khả năng kháng hỏa bẩm sinh kết hợp phong thuật mượn ngọn lửa phản kích, Yumir giáng liên tiếp hai đòn Chí Mạng rồi đập nát đầu con ác ma, thu về lượng kinh nghiệm khổng lồ và ghi chép bị che giấu.
+Cảnh kết thúc: Bất chấp đau đớn, Yumir ăn thịt quái vật rồi nướng phần ít độc chia cho lũ trẻ con đói lả ăn cùng; tin rằng chúng không thể từ chối và sẽ trở thành thuộc hạ của mình giống cách bố biến những thứ vô dụng thành hữu dụng, Yumir chính thức khai sinh Quân Đoàn Địa Ngục Rồng.
+
+
 
 
 

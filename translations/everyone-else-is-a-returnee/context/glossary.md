@@ -680,3 +680,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hell Bringer |  | Kẻ Giáng Địa Ngục | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan kế thừa hệ Tử Thần, mang địa ngục giáng xuống kẻ thù |
 | Untouchable |  | Bất Khả Xâm Phạm | danh hiệu | 184 | Danh hiệu Yu IlHan nhận được sau khi hạ gục thực thể cấp cao Dmirel (+20% mọi chỉ số khi đấu kẻ địch đẳng cấp cao hơn, tránh được đòn chí tử một kích) |
 | Dragonic bracelet |  | Vòng Tay Long Linh | vật phẩm | 191 | Tên gọi tắt chiếc vòng tay chế tác từ vảy rồng hệ lôi chứa thuộc tính bão sấm sét của Yu IlHan |
+| Dragon's Hell Army |  | Quân Đoàn Địa Ngục Rồng | tổ chức | 192 | Đội quân gồm những đứa trẻ sơ sinh ở hỏa ngục do Yumir thu phục bằng thịt quái vật |
