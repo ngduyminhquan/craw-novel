@@ -1018,6 +1018,13 @@ Trước màn tranh giành giữa Na YuNa và Irma, IlHan quyết định chọn
 IlHan dặn dò nhóm thuộc hạ (Erica và nhóm elf) tranh thủ săn quái tăng cấp ở Daréu hoặc Kiroa trong thời gian anh vắng mặt.
 Cảnh kết thúc: Đoàn người đi xe limousine của gia tộc họ Kang đến cánh cổng tại Gangnam và bước qua, hướng về hoàng cung Đại Đế quốc Palladia đang chờ đón.
 
+## 166
+Nhóm Yu IlHan đến hoàng thành Lanpas, được Hoàng nữ Irma An Ill'ta dùng phi thuyền ma pháp công học đưa tới di tích cổ nằm giữa ngọn núi đá; IlHan chia bánh quy nhồi ma pháp cho nhóm Kang MiRae phòng khi giao chiến.
+Tại cửa di tích, IlHan đọc văn tự cổ trên tấm bia đá khổng lồ để kích hoạt lại toàn bộ hệ thống động cơ ma pháp của di tích; tuy nhiên việc phía Palladia từng nã ma pháp khai quật trước đó đã khiến cơ chế diệt trừ kẻ xâm nhập bị kích hoạt trễ.
+Một con golem khổng lồ trên cấp 250 thời cổ đại thức tỉnh ở đỉnh núi; Na YuNa ban phước buff toàn diện sức tấn công và phòng thủ cho IlHan.
+Cảnh kết thúc: Yu IlHan dặn dò Yumir giữ khoảng cách bắn tầm xa rồi Bật Nhảy vút lên không trung chuẩn bị nghênh chiến con golem khổng lồ đang gầm thét.
+
+
 
 
 

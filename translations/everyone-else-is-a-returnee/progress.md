@@ -170,7 +170,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | reviewed |  |
 | 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | reviewed |  |
 | 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | reviewed |  |
-| 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | todo |  |
+| 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | done |  |
 | 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | todo |  |
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | todo |  |
 | 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | todo |  |
@@ -807,3 +807,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#165] Tên vương quốc ma pháp cổ đại 'Magic kingdom of Ill'ta' (tiền thân của Palladia) tạm dịch 'Vương quốc Ma Pháp Ill'ta', thân phận 'Holy maiden' của Na YuNa tạm dịch 'Thánh nữ', và cảm thán 'Wao, Solomon!' tạm dịch 'Oa, đúng là Solomon!'. → Đồng ý: Vương quốc Ma Pháp Ill'ta (bỏ Ill'ta đơn lẻ khỏi Alias để không bắt nhầm tên Irma An Ill'ta), Thánh nữ cho Holy maiden, và Oa, đúng là Solomon! cho Wao, Solomon! (orchestrator)
 - [#164] Xưng hô của Liera với Yu IlHan ở chương 164 → Giữ nguyên tôi - cậu theo pronouns.md. (orchestrator)
 - [#164] Xưng hô của Yu IlHan với Kang MiRae ở chương 164 → Dùng cô MiRae theo pronouns.md (từ chương 122), thay cho tiểu thư MiRae. (orchestrator)
+- [#166] Tiếng gầm golem [Guoooooooooooh!] và [Kuoooooooh!] trong ngoặc vuông → Đồng ý: giữ nguyên tiếng gầm trong ngoặc vuông theo ngữ cảnh. (orchestrator)
+- [#166] Thành ngữ 'first world problems' khi nhận xét về Na YuNa → Đồng ý: dịch thoát ý tự nhiên theo văn cảnh. (orchestrator)
