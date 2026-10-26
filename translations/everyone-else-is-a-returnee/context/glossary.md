@@ -354,7 +354,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Pikachu |  | Pikachu | khác | 56 | Được phép giữ nguyên: Loài chuột điện trong Pokemon (tham chiếu văn hóa đại chúng) |
 | Raichu |  | Raichu | khác | 56 | Được phép giữ nguyên: Dạng tiến hóa của Pikachu trong Pokemon (tham chiếu văn hóa đại chúng) |
 | rest energy |  | năng lượng nghỉ ngơi | hệ thống | 56 | Năng lượng tích lũy khi nghỉ ngơi dùng để kích hoạt kỹ năng Siêu Việt Tái Sinh |
-| demon race | demons | Ma tộc | chủng tộc | 56 | Chủng tộc ma quỷ, thực thể cấp cao của Kẻ Phá Vỡ |
+| demon race |  | Ma tộc | chủng tộc | 56 | Chủng tộc ma quỷ, thực thể cấp cao của Kẻ Phá Vỡ |
 | Originals |  | Nguyên Bản | khác | 57 | Quái vật tiến hóa từ các loài động vật vốn có của Trái Đất nhờ hấp thụ mana |
 | Migrants |  | Di Cư | khác | 57 | Quái vật hình thành tự nhiên từ sự tích tụ mana (như Thiết Tâm, troll), đối lập với Nguyên Bản |
 | Great Thunder Bear |  | Đại Gấu Sấm Sét | quái vật | 57 | Quái vật gấu hệ sấm sét biến dị cấp 98 trong hầm ngục Gangwon-do |

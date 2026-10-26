@@ -116,7 +116,7 @@ Bản thân công trình trông như thể đã được xây dựng từ rất 
 
 "Nếu anh hôn em một cái thì em sẽ trả... áiáiáiáiái đau quá."
 
-Yu IlHan nhéo má Na YuNa thật mạnh đến mức để lại một vết hằn mờ mờ rồi hỏi với vẻ mặt thản nhiên. Không phải anh không muốn hỏi làm thế nào một vị thần được ghi chép lại có thể giáng lâm xuống trần thế, nhưng tạm thời, anh tập trung vào những thông tin cần thiết trước đã.
+Yu IlHan nhéo đôi má mềm mại của Na YuNa để lại một vết hằn mờ mờ rồi hỏi với vẻ mặt thản nhiên. Không phải anh không muốn hỏi làm thế nào một vị thần được ghi chép lại có thể giáng lâm xuống trần thế, nhưng tạm thời, anh tập trung vào những thông tin cần thiết trước đã.
 
 "Tại sao một nơi như thế này lại tan hoang thế kia?"
 
@@ -316,7 +316,7 @@ Kang MiRae và Yumir cũng đang miệt mài làm việc. Những tia sét của
 
 Dĩ nhiên, họ đời nào vượt qua nổi Yu IlHan, người đã tạc xong một bức tượng chỉ bằng một mũi khoan duy nhất.
 
-Ba ngày sau khi Yu IlHan bắt tay vào việc ở mỏ đá, công tác thu mua và cung ứng vật liệu xây dựng đã kết thúc trọn vẹn. Dù còn vài khâu trung gian như mài nhẵn và đánh bóng tỉ mỉ, nhưng những việc đó hoàn toàn có thể tiến hành song song trong quá trình thi công.
+Ba ngày sau khi Yu IlHan bắt tay vào việc ở mỏ đá, công tác khai thác và chuẩn bị vật liệu xây dựng đã kết thúc trọn vẹn. Dù còn vài khâu trung gian như mài nhẵn và đánh bóng tỉ mỉ, nhưng những việc đó hoàn toàn có thể tiến hành song song trong quá trình thi công.
 
 "Một con người đáng kinh ngạc."
 

@@ -173,9 +173,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | reviewed |  |
 | 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | reviewed |  |
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | reviewed |  |
-| 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | done |  |
-| 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | done |  |
-| 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | done |  |
+| 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | reviewed |  |
+| 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | reviewed |  |
+| 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | reviewed |  |
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | todo |  |
 | 173 |  | Chapter_173 - Hell Picnic, Alone – 4.txt | Hell Picnic, Alone – 4 | todo |  |
 | 174 |  | Chapter_174 - Everyone Else Is a Guardian – 1.txt | Everyone Else Is a Guardian – 1 | todo |  |
@@ -814,3 +814,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#169] Thuật ngữ "Great Temple" — Tạm chọn: "Đại Đền Thờ" (khớp với "đền thờ Leytna" ở chương 81). Phương án khác: "Đại Thánh Đường". → Đồng ý: dịch Great Temple là Đại Đền Thờ (khớp với đền thờ Leytna ở chương 81). (orchestrator)
 - [#170] Tên chiêu thức anime "Giga drill break" (tham chiếu Gurren Lagann): giữ nguyên "Giga drill break" theo thông lệ tham chiếu anime (tương tự AT Field) hay Việt hóa? Tạm dùng: giữ nguyên "Giga drill breakkkkkkkkkk!". → Đồng ý: giữ nguyên Giga drill break / Giga Drill Break theo thông lệ tham chiếu anime (tương tự AT Field). (orchestrator)
 - [#171] Từ 'demons' ở thế giới địa ngục trong chương 171 (QA cảnh báo 'demon race' -> 'Ma tộc') → Đồng ý: dịch là ác ma / lũ ác ma theo ngữ cảnh quái vật địa ngục, không phải thực thể cấp cao Ma tộc. (orchestrator)
+- [#171] Danh hiệu viết rút gọn Not two hits; nor three hits; ở đoạn 77 chương 171 → Dùng tên chuẩn đầy đủ trong glossary.md là Không hai đòn, chẳng ba đòn, chỉ một đòn. (orchestrator)

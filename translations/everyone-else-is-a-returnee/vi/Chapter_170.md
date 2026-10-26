@@ -78,7 +78,7 @@ Nhưng nếu chỉ là một chút thôi, thì sẽ chẳng còn những mối r
 
 "Tôi đã bảo đó là đi săn rồi mà."
 
-Yu IlHan bĩu môi trong lúc tiếp tục đổ Keshna vào lò rèn. Trong trận chiến với Golem Keshna, Ngọn Lửa Vĩnh Cửu đã thu nạp được một lượng kỷ lục đáng kể và một lần nữa trưởng thành hơn. Giờ đây, khi nó phát huy toàn bộ công suất, anh có thể hài lòng ngắm nhìn cảnh tượng từng mẩu vụn Keshna tan chảy rồi hợp thành một vũng kim loại lỏng.
+Yu IlHan bĩu môi trong lúc tiếp tục đổ Keshna vào lò rèn. Trong trận chiến với Golem Keshna, Ngọn Lửa Vĩnh Cửu đã thu nạp được một lượng ghi chép đáng kể và một lần nữa trưởng thành hơn. Giờ đây, khi nó phát huy toàn bộ công suất, anh có thể hài lòng ngắm nhìn cảnh tượng từng mẩu vụn Keshna tan chảy rồi hợp thành một vũng kim loại lỏng.
 
 [Rốt cuộc thì cậu thu gom được bao nhiêu Keshna từ con quái đó thế?] (Erta)
 
@@ -206,7 +206,7 @@ Mối tình đầu của cô chẳng khác nào chất gây nghiện, cô đã t
 
 Càng kiếm cớ bao biện, cô lại càng cảm thấy bản thân giống như một người dưng xa lạ, vì vậy cô đành ngậm miệng lại. Na YuNa thậm chí còn chẳng nhận ra nỗi lòng của bạn mình, cứ thế liến thoắng bên cạnh.
 
-"Có khi anh ấy đang làm một nhiệm vụ khổng lồ nào đó đấy. Anh ấy là người có thể mạnh lên nhường ấy sau khi các kỷ lục bị xóa bỏ, nên thế giới mà anh ấy kết nối tới hẳn phải đỉnh chóp lắm đúng không? Ước gì anh ấy cũng đưa tụi mình tới đó chơi nhỉ~."
+"Có khi anh ấy đang làm một nhiệm vụ khổng lồ nào đó đấy. Anh ấy là người có thể mạnh lên nhường ấy sau khi các ghi chép bị xóa bỏ, nên thế giới mà anh ấy kết nối tới hẳn phải đỉnh chóp lắm đúng không? Ước gì anh ấy cũng đưa tụi mình tới đó chơi nhỉ~."
 
 "...Đúng vậy thật. Có lẽ một ngày nào đó anh ấy sẽ kể cho chúng ta nghe."
 

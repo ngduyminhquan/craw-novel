@@ -152,11 +152,11 @@ Yu IlHan kiểm tra bảng chỉ số của mình sau khi thăng cấp.
 
 [Chức nghiệp phụ – Bạn Đồng Hành Thiên Thần, Kỵ Sĩ Rồng]
 
-[Danh hiệu – Kẻ Cô Độc Toàn Vũ Trụ, Một đòn cho ta, một đòn cho ngươi, Kẻ Sáng Tạo Thần Thoại, Không hai đòn, chẳng ba đòn, Nhất Kích Thiên Quân, Đồ Long Giả, Cực Tốc Giả, Hỏa Chi Dũng Giả, Ếch Nhảy Khỏi Đáy Giếng, Sự Ban Phước Của Thần Rèn Đúc]
+[Danh hiệu – Kẻ Cô Độc Toàn Vũ Trụ, Một đòn cho ta, một đòn cho ngươi, Kẻ Sáng Tạo Thần Thoại, Không hai đòn, chẳng ba đòn, chỉ một đòn, Nhất Kích Thiên Quân, Đồ Long Giả, Cực Tốc Giả, Hỏa Chi Dũng Giả, Ếch Nhảy Khỏi Đáy Giếng, Sự Ban Phước Của Thần Rèn Đúc]
 
 [Sức mạnh – 384 Nhanh nhẹn – 355 Thể lực – 313 Ma pháp – 414]
 
-[Kỹ năng chủ động – Tử Thần(Ẩn Thân) Chế Tác Mana Lv 76, Linh Hồn Phụ Ma Lv 51, Liệt Hỏa Lv 56, Quái Lực Lv 83, Bật Nhảy Lv 87, Thiên Thần Chi Viện Lv 41, Thống Trị Lv 77, Long Huyết Lv 18]
+[Kỹ năng chủ động – Tử Thần(Ẩn Thân), Chế Tác Mana Lv 76, Linh Hồn Phụ Ma Lv 51, Liệt Hỏa Lv 56, Quái Lực Lv 83, Bật Nhảy Lv 87, Thiên Thần Chi Viện Lv 41, Thống Trị Lv 77, Long Huyết Lv 18]
 
 [Kỹ năng bị động – Thiên Thần Bảo Hộ, Cận Chiến Lv Max, Độn Khí Thuật Lv Max, Kiếm Thuật Lv Max, Tiên Thuật Lv Max, Giải Phẫu Lv Max, Rèn Đúc Lv Max, Ngôn Ngữ Lv Max, Cộng Hưởng Long Nhân Lv 41, Thu Thập Tử Vong Lv 79, Ma Pháp Công Học Lv 44, Khai Quật Lv 65, Bất Khả Họa Quỹ Đạo Thương(Thương Thuật) Lv 54, Tuyệt Đối Chuẩn Xác(Thuật Ném, Xạ Kích) Lv 55, Siêu Việt Tái Sinh(Nghỉ Ngơi) Lv 78, Nấu Nướng Lv 92, Chí Mạng Lv 76, Kháng Độc Cực Hạn Lv 83, Kháng Lời Nguyền Cấp Cao Lv 74]
 
