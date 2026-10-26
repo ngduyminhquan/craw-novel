@@ -49,7 +49,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Quesad | Red demon wolf Quesad; Blood Fenrir Quesad | Quesad | Thủ lĩnh Lang tộc chuyển chức 4 cấp 233 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 115 |
 | Kiana |  | Kiana | Nữ chiến binh Lang tộc chuyển chức 4 trung thành bảo vệ hoàng tộc Kiroa | 115 |
 | Melod |  | Melod | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 116 |
-| wolfkin princess | Princess | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
+| wolfkin princess |  | Công chúa Lang tộc | Người sống sót duy nhất của hoàng tộc Lang tộc Kiroa (từ chương 117 lộ tên thật là Erica) | 116 |
 | Erica | Moon Wolf Erica; Ericia | Erica | Công chúa Lang tộc tóc đen (trước đó gọi là Công chúa Lang tộc), người thừa kế hoàng tộc duy nhất sống sót, đã bị IlHan thu phục bằng kỹ năng Thống Trị | 117 |
 | Kang Chan | Said Kang Chan | Kang Chan | Bố của Kang MiRae và Kang HaJin, tài phiệt thế lực ngầm | 121 |
 | Chromano Il Pedra |  | Chromano Il Pedra | Đội trưởng dị giới cấp 134 chỉ huy toán quân lột da trên đảo ở Nam Mỹ, bị Yu IlHan tập kích bằng 5 ngọn thương nghiền nát mũ giáp tiêu diệt tại chỗ | 129 |

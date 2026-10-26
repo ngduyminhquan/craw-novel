@@ -158,7 +158,7 @@ Nơi đón nhận sự thay đổi lớn nhất, dĩ nhiên chính là Gangnam. 
 
 Chẳng một ai từ chối quy trình kiểm tra danh tính và quản lý giản đơn mà Trái Đất đưa ra. Lý do là bởi trang bị của Vanguard là tuyệt đỉnh nhất trên khắp mọi thế giới.
 
-Quân Đội Thiên Giới ban bố các Nhiệm Vụ Thiên Giới liên quan đến những cánh cổng dẫn sang thế giới khác, và con người cứ thế hành động theo đó. Các cánh cổng kết nối với những thế giới khác lần lượt mở ra hết cái này đến cái khác, và thậm chí còn xuất hiện một công việc mới ra đời là duy trì các cánh cổng bằng cách truyền mana vào.
+Quân Đội Thiên Giới ban bố các Nhiệm Vụ Thiên Giới liên quan đến những cánh cổng dẫn sang thế giới khác, và con người cứ thế hành động theo đó. Các cánh cổng kết nối với những thế giới khác lần lượt mở ra hết cái này đến cái khác, và thậm chí còn xuất hiện một công việc mới là duy trì các cánh cổng bằng cách truyền mana vào.
 
 Một cơn gió đổi thay cuồn cuộn, không thể nào so sánh nổi với thời Đại Tai Biến lần 1, đang ùa quét qua khắp Trái Đất.
 

@@ -632,6 +632,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Perverted Vibration Demon |  | Ác Ma Rung Biến Thái | quái vật | 157 | Biệt danh Liera đặt cho con quái vật xúc tu rung chấn sinh ra từ cổng |
 | Thunderhammer | thunderhammer; thunder hammer | Lôi Búa | vật phẩm | 157 | Tên gọi tắt của Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt |
 | Reserve Territory |  | Lãnh Địa Dự Bị | khác | 158 | Quy chế đặc biệt do Spiera đề xuất Thiên Giới áp dụng cho Trái Đất |
+| Imperial Princess | First Imperial Princess | Hoàng nữ | chức nghiệp | 158 | Tước vị hoàng gia của Irma An Ill'ta thuộc Đại Đế quốc Palladia |
 | Giant Bucket |  | Đại Thùng | vật phẩm | 159 | Cách gọi tắt của Đại Thùng Thấm Đẫm Hơi Thở Của Rồng, chiếc thùng khổng lồ IlHan dùng để chế biến nguyên liệu, ủ trà, ngâm hoa quả và trộn bột |
 | Fyylita |  | Fyylita | vật phẩm | 159 | Loại trà quý nhất của tộc elf tại Daréu tặng cho Yu IlHan |
 | Angel Tear |  | Angel Tear | tổ chức | 159 | Thương hiệu món tráng miệng cao cấp do Kang MiRae và Yu IlHan thành lập, sánh ngang với thương hiệu trang bị Vanguard |

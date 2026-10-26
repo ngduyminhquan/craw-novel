@@ -112,7 +112,7 @@ Trong lúc đó, vào đúng thời điểm này, chủ Clan Lôi Thần là Kan
 
 "Chẳng phải đang có những lối dẫn đến vô số thế giới khác hay sao? MiRae à, chắc cô cũng biết rồi đấy, mọi thế giới nhìn qua thì có vẻ sở hữu những nguồn tài nguyên tương tự nhau nhưng thực chất lại có đôi chút khác biệt... Tất nhiên, quái vật cũng vậy. Trong quá trình nghiên cứu chúng, chúng ta sẽ có thể thu thập được vô số ghi chép chất lượng cao ngoài sức tưởng tượng... và đó sẽ là cơ hội tuyệt vời để phát triển nền ma pháp vốn đã bị đình trệ bấy lâu của thế giới chúng ta."
 
-"Quá nguy hiểm. Bọn tôi không thể biết trước khi nào vòng xoáy mana sẽ xuất hiện, và ngay cả khi tôi mở một cánh cổng dẫn tới nơi này để người của đế quốc tạm thời qua đây, thì lỡ như cánh cổng vì một sơ suất nào đó mà đóng lại..."
+"Quá nguy hiểm. Chúng tôi không thể biết trước khi nào vòng xoáy mana sẽ xuất hiện, và ngay cả khi tôi mở một cánh cổng dẫn tới nơi này để người của đế quốc tạm thời qua đây, thì lỡ như cánh cổng vì một sơ suất nào đó mà đóng lại..."
 
 "Có MiRae ở đây rồi mà. Ta còn phải lo lắng điều gì nữa chứ? Rồi một ngày nào đó cô lại mở ra một cánh cổng khác thôi."
 
@@ -168,7 +168,7 @@ Ngay cả vào khoảnh khắc này, lãnh đạo của các quốc gia chắc h
 
 Kang MiRae đang cất lời phản bác thì bỗng thốt lên kinh ngạc. Lần này đến lượt vị Hoàng nữ phải giật mình.
 
-"Sao hả, thật sự có thứ như thế sao? Dù Trái Đất có tuyệt vời đến đâu thì các người cũng mới chỉ vừa trải qua Đại Tai Biến lần 2 thôi mà?"
+"Sao hả, thật sự có thứ như thế sao? Dù Trái Đất có tuyệt vời đến đâu thì nó cũng mới chỉ vừa trải qua Đại Tai Biến lần 2 thôi mà?"
 
 "Có đấy, một... 'đặc sản' mà bất kỳ ai trên đời cũng sẽ phải thèm khát."
 
@@ -204,7 +204,7 @@ Hàng loạt dấu hỏi chấm hiện rõ mồn một trên khuôn mặt của 
 
 "Quà tặng cho ta sao?"
 
-"Dù đầu tôi có rơi xuống đất thì tôi cũng tuyệt đối không bao giờ tặng nó cho Điện hạ đâu. Cô chỉ cần kiểm tra thông tin của nó là được."
+"Dù đầu tôi có rơi xuống đất thì tôi cũng tuyệt đối không bao giờ tặng nó cho Điện hạ đâu. Điện hạ chỉ cần kiểm tra thông tin của nó là được."
 
 Vị Hoàng nữ vừa bĩu môi vừa đặt bàn tay lên chiếc vòng. Ngay tại khoảnh khắc đó, một chuỗi ký tự màu xanh lục hiện lên trên võng mạc của cô và...
 
