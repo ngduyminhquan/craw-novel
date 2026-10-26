@@ -633,3 +633,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Angel Tear |  | Angel Tear | tổ chức | 159 | Thương hiệu món tráng miệng cao cấp do Kang MiRae và Yu IlHan thành lập, sánh ngang với thương hiệu trang bị Vanguard |
 | 1st Great Cataclysm |  | Đại Tai Biến lần 1 | hệ thống | 159 | Đợt Đại Tai Biến đầu tiên khi mana lần đầu tràn vào Trái Đất |
 | Magic stuffed cookie | magic stuffed cookies; magic stuffed cookie | Bánh quy nhồi ma pháp | vật phẩm | 161 | Món bánh quy ủ trong Đại Thùng dùng bột ngâm rượu Hơi Thở tăng chỉ số Ma pháp do IlHan làm ra |
+| Fireta |  | Fireta | địa danh | 162 | Dị giới kết nối với Trái Đất và tham gia giao thương |
+| Merere |  | Merere | địa danh | 162 | Dị giới kết nối với Trái Đất có nhiều quái vật cỡ lớn |

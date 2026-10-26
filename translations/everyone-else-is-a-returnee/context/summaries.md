@@ -994,6 +994,11 @@ IlHan bắt tay giải phẫu Ác Ma Rung Biến Thái, tách thành công cơ q
 Sau 3 ngày ủ cùng mana loài rồng (trong lúc IlHan tiếp tục luyện Đại Đoạn Vũ Trụ Thương trước ánh mắt rực lửa của Spiera), bột thịt xương biến đổi thành loại thuốc súng ma pháp tối thượng có thể khuếch đại uy lực nổ kinh hoàng khi tiếp nhận Liệt Hỏa hoặc sấm sét.
 Cảnh kết thúc: Kết giới Đồng Hồ Cát Vĩnh Hằng giải trừ; với lượng hàng dồi dào cho Vanguard và Angel Tear cùng sáng kiến kết hợp Dây Thun Khổng Lồ, Liệt Hỏa và thuốc súng để xuyên thủng Ác Ma Rung Biến Thái, IlHan cùng mọi người bước ra mở màn cho kỷ nguyên Giao Thương Trái Đất.
 
+## 162
+Người dị giới đổ xô sang Trái Đất qua các cổng cấp 90 và kéo về Gangnam tìm mua trang bị Vanguard; Yu IlHan cho ra mắt thương hiệu tráng miệng cao cấp Angel Tear tại tầng 12 tòa nhà Vanguard với trà Fyylita, bánh quy và hoa quả ngâm, gây nên cơn sốt bùng nổ trong giới quý tộc dị giới; trung tâm giao thương Gangnam được gia tộc Kang MiRae gấp rút hoàn thiện để quản lý luồng người từ các thế giới.
+Kang MiRae tới gặp IlHan bàn thảo kế hoạch đẩy giá tối đa cho buổi đấu giá quy tụ đại diện 17 thế giới (giới thiệu 2 trang bị phẩm cấp Truyền Thuyết); khi MiRae bày tỏ lo lắng IlHan sẽ trở thành mục tiêu bị đố kỵ và thù ghét, IlHan định viện cớ sẽ dùng Ẩn Thân bỏ trốn khiến MiRae hoảng hốt nắm chặt tay anh cầu xin anh đừng bao giờ biến mất; năng khiếu cảm nhận kích hoạt kỹ năng của MiRae khiến Spiera kinh ngạc còn Liera thì ghen tuông lôi đình.
+Cảnh kết thúc: 3 ngày sau, buổi đấu giá hoành tráng chính thức mở màn tại quảng trường trung tâm giao thương Gangnam, mở ra cơ hội để Yu IlHan vơ vét kho nguyên liệu rèn kim loại quý giá từ gần như toàn bộ các thế giới khác.
+
 
 
 
