@@ -934,6 +934,13 @@ Kang MiRae và Na YuNa ghé thăm công trường thông báo tình hình thế 
 Đúng lúc này, tàn hồn thuộc hạ Khỉ Kiera giúp IlHan hoàn thành chỉ tiêu 100/100 Ghi Chép Các Thế Giới, mang lại cho anh danh hiệu 'Ếch Nhảy Khỏi Đáy Giếng' với khả năng dịch chuyển tức thời trở về thế giới quê hương từ bất kỳ thế giới nào.
 Cảnh kết thúc: Sau hai tuần gấp rút hoàn tất công trình, Đại Tai Biến lần 2 chính thức giáng xuống Trái Đất cùng những hiện tượng dị thường chưa từng xuất hiện ở bất kỳ thế giới nào khác.
 
+## 152
+Công cuộc xây dựng đại dinh thự hoàn tất ngay khi Trái Đất bước vào Đại Tai Biến lần 2 với nồng độ mana tăng vọt; trong khi nhân loại tìm cách sơ tán sang thế giới khác hoặc căng mình chống quái vật, IlHan dùng ma thạch cấp 4 kích hoạt Chế Tác Mana trên toàn bộ dinh thự.
+Dinh thự được tạo tác thành công thành pháo đài chiến đấu phẩm cấp Hỗn Loạn mang tên 'Bittersweet Persona', sở hữu độ bền hơn 5,3 triệu và khả năng tự phản công, trưởng thành qua chiến trận; chiến tích này cũng giúp IlHan thỏa mãn mọi điều kiện để nhận sự ban phước cùng ghi chép của Thần Rèn Đúc, mở khóa khả năng chế tạo trang bị phẩm cấp Hỗn Loạn trở lên và khiến một phần tóc anh chuyển sang màu tro.
+Cơn đau đầu dữ dội do khối tri thức khổng lồ tràn vào chưa kịp dứt thì màn hình an ninh của dinh thự phát hiện hàng ngàn quái vật bị thu hút bởi luồng mana nồng đậm đang ồ ạt kéo đến.
+Cảnh kết thúc: Bất chấp sự can ngăn của các thiên thần, IlHan kiên quyết ngồi vào bàn chỉ huy lệnh cho thuộc hạ nghênh chiến, chính thức mở màn trận chiến phòng thủ đại dinh thự đầy hoành tráng trong ngày đầu của Đại Tai Biến lần 2.
+
+
 
 
 

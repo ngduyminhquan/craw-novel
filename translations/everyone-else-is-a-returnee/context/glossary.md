@@ -391,7 +391,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |
 | Holy stone | holy stones; Holy stone; Holy Stone | Thánh thạch | vật phẩm | 65 | Khoáng thạch chứa năng lượng thánh lực |
 | Gangnam reinforced area | Gangnam reinforced district | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |
-| God of Smithing |  | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic |
+| God of Smithing | God of blacksmithing; god of blacksmithing | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic (ban phước lành và ghi chép cho Yu IlHan ở chương 152) |
 | God of Warriors |  | Thần Chiến Binh | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép chiến đấu trong Hồ Sơ Akashic |
 | Vanguard |  | Vanguard | tổ chức | 66 | Tên thương hiệu và công ty sản xuất trang bị do Yu IlHan thành lập |
 | Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
@@ -615,3 +615,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Russia |  | Nga | địa danh | 151 | Quốc gia ở châu Âu - Á |
 | Switzerland |  | Thụy Sĩ | địa danh | 151 | Quốc gia ở châu Âu |
 | Canada |  | Canada | địa danh | 151 | Quốc gia ở Bắc Mỹ |
+| Bittersweet Persona |  | Bittersweet Persona | vật phẩm | 152 | Tên đại dinh thự kiêm pháo đài chiến đấu của Yu IlHan |
+| Chaos rank | Chaos; chaos-ranked | Hỗn Loạn | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Sử Thi và dưới Bán Thần |
+| Demigod rank |  | Bán Thần | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Hỗn Loạn và dưới Thần |
+| Eternal rank |  | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
+| Normal rank |  | Bình Thường | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm cơ bản nhất (thứ tự phẩm cấp: Bình Thường -> Hiếm -> Độc Nhất -> Truyền Thuyết -> Sử Thi -> Hỗn Loạn -> Bán Thần -> Thần -> Vĩnh Cửu) |

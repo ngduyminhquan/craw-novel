@@ -49,4 +49,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#88) Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ('Translation changes: spearmanship – spear master, etc)') được bỏ qua và thêm vào raw_ignore_lines.
 - (#89) Dòng ghi chú thay đổi thuật ngữ của translator tiếng Anh ở đầu raw ('(Translation changes: Close combat -> Physical Combat, this would be \'taijutsu\' in JP)') được bỏ qua và thêm vào raw_ignore_lines.
 - (#93) Dòng ghi chú proofreader/editor ở giữa chương ('(P/R Is this the long-awaited realization of Yu Ilhan\'s feelings???!!!????) (E/N: Naw, he an idiot)') được bỏ qua và thêm vào raw_ignore_lines.
-- (#119, #126) Khi Yu IlHan nói chuyện chung với nhóm thuộc hạ (các elf, Erica), luôn dịch ngôi thứ hai số nhiều là "mọi người / các cậu", không dùng "các ngươi / các người".
+- (#119, #126) Khi Yu IlHan nói chuyện chung với nhóm thuộc hạ (các elf, Erica), luôn dịch ngôi thứ hai số nhiều là "mọi người / các cậu", không dùng "các ngươi / các người".
+- (#152) Ba dòng ghi chú cuối chương của tác giả ('Author's notes' về thứ tự phẩm cấp vật phẩm) là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.

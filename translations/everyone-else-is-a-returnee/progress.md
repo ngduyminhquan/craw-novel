@@ -156,7 +156,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 149 |  | Chapter_149 - I Make My Own Home II.txt | I Make My Own Home II | reviewed |  |
 | 150 |  | Chapter_150 - I Make My Own Home III.txt | I Make My Own Home III | reviewed |  |
 | 151 |  | Chapter_151 - I Make My Own Home IV.txt | I Make My Own Home IV | done |  |
-| 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | todo |  |
+| 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | done |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | todo |  |
 | 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | todo |  |
 | 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | todo |  |
@@ -367,6 +367,10 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
+
+
+
 
 
 ## Đã quyết
@@ -781,3 +785,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#149] Ghi chú biên tập inline ở đoạn raw 188 "(E/N: Souls from his death god skills)": xử lý thế nào? → Loại bỏ hoàn toàn phần ghi chú biên tập (E/N) theo quy tắc cứng trong rules.md, giữ nguyên phần nội dung câu truyện. (orchestrator)
 - [#148] Đoạn 21 câu thoại "Adieu!" của Yu IlHan khi tạm biệt Flemir: giữ "Vĩnh biệt!" hay đổi sang "Cáo biệt!"? → Đổi thành "Cáo biệt!" để giữ sắc thái chào tạm biệt kiểu kịch tính hài hước khi IlHan chuồn đi trước và nhắn Flemir về lại thế giới Kiroa, tránh cảm giác bi lụy của "Vĩnh biệt!". (orchestrator)
 - [#151] Đoạn raw 42 viết nhầm 'Mirae' thay vì nữ elf chiến binh 'Mirey' (người vừa lên tiếng ở đoạn 40, trong khi Kang MiRae chỉ xuất hiện ở đoạn 87) — Tạm chọn: dịch là 'Mirey' và thêm 'Mirae' vào Alias của Mirey trong characters.md. → Chốt dịch là "Mirey" vì đoạn 40 ngay trước đó là nữ elf chiến binh Mirey lên tiếng (Kang MiRae tới đoạn 87 mới xuất hiện); ghi chú lỗi gõ nhầm của raw vào phần Vai trò của Mirey trong characters.md, không thêm "Mirae" vào cột Alias để tránh xung đột với Kang MiRae. (orchestrator)
+- [#152] Ba dòng cuối raw là lời nhắn ngoài truyện của tác giả ('Author\'s notes' giải thích thứ tự các phẩm cấp vật phẩm: Normal -> Rare -> Unique -> Legend -> Epic -> Chaos -> Demigod -> God -> Eternal) — Tạm chọn: thêm vào raw_ignore_lines trong novel.json theo quy ước bỏ lời nhắn cuối chương của pipeline, đồng thời cập nhật toàn bộ thứ tự phẩm cấp vào glossary.md; phương án khác: dịch thành 3 đoạn văn bản ở cuối chương. → Bỏ qua 3 dòng ghi chú cuối chương của tác giả ('Author's notes' về thứ tự phẩm cấp vật phẩm) bằng cách thêm vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md; đồng thời lưu thứ tự phẩm cấp vào glossary.md. (orchestrator)
