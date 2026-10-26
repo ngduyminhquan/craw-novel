@@ -461,7 +461,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |
 | Pressure Tiger Bone Bastard |  | Kiếm Bastard Xương Hổ Trọng Áp | vật phẩm | 81 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo từ xương hổ cung cấp cho lực lượng Trấn Áp |
 | The Holy Stone of the Goddess of Beauty, Leytna |  | Thánh Thạch của Nữ Thần Sắc Đẹp Leytna | vật phẩm | 81 | Khoáng thạch chứa thánh lực từ đền thờ Nữ Thần Sắc Đẹp Leytna |
-| Leytna |  | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
+| Leytna | Leyta | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
 | Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
 | Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | Magic Dragon Clan | Magic Dragon clan; Magic Dragon; Demon Dragon clan; Demon Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
@@ -650,3 +650,11 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Keshna |  | Keshna | vật phẩm | 168 | Loại kim loại ma pháp cao cấp có khả năng hấp thụ mana và độ bền kéo cực cao, qua xử lý đặc biệt có thể hấp thụ và lưu giữ trọn vẹn mọi kỷ lục của vật thể |
 | Keshna Golem |  | Golem Keshna | quái vật | 168 | Con golem khổng lồ cấp 270 được chế tạo từ kim loại ma pháp Keshna để lưu giữ kỷ lục của di tích ma pháp công học tại Lanpas |
 | Magic gunpowder | magic gunpowder | ma thuốc nổ | vật phẩm | 168 | Thuốc nổ được chế tạo bằng mana, kết hợp với các đòn ma pháp lửa gây ra chuỗi nổ thứ cấp kinh hoàng |
+| Elforce |  | Elforce | địa danh | 169 | Thánh đế quốc thuộc thế giới Breya nơi thế lực tôn thờ Nữ Thần Sắc Đẹp Leytna có tiếng nói lớn nhất |
+| Great Temple |  | Đại Đền Thờ | địa danh | 169 | Đại đền thờ của Giáo Hội Leytna tại thánh địa tối cao ở thế giới Breya |
+| Leytna Church | Church of Leytna; Leyta Church | Giáo Hội Leytna | tổ chức | 169 | Giáo hội tôn thờ Nữ Thần Sắc Đẹp Leytna tại thế giới Breya |
+| Thunder Strike |  | Lôi Kích | kỹ năng | 169 | Kỹ năng ma pháp sấm sét của Kang MiRae |
+| Wind Cutter |  | Phong Đao | kỹ năng | 169 | Kỹ năng ma pháp phong hệ của Yumir |
+| Kavur | Kavurs | Kavur | khác | 169 | Loại quả hoặc hương liệu đặc sản ở thế giới Breya dùng làm kem |
+| Phituroa |  | Phituroa | địa danh | 169 | Dị giới lâm vào khủng hoảng cần chiêu mộ lính đánh thuê từ Trái Đất |
+| Earth Mercenary |  | Lính Đánh Thuê Trái Đất | khác | 169 | Khái niệm chỉ các dị năng giả Trái Đất nhận lời chiêu mộ sang giải cứu các thế giới khác |

@@ -1037,3 +1037,9 @@ Tiêu diệt Golem Keshna giúp IlHan đạt cấp 162 và hấp thụ toàn b�
 Sau khi tắm rửa cùng Yumir tại hoàng cung và nhận món quà bồi thường là một viên ngọc ma pháp bí ẩn cùng thức ăn tiệc đóng hộp L*ck&L*ck từ Hoàng nữ Irma, nhóm IlHan an toàn trở về Trái Đất.
 Cảnh kết thúc: Yu IlHan sửa chữa trang bị để ngày hôm sau cùng đoàn chuẩn bị lên đường tiến vào thế giới Breya thu thập thánh thạch và kim loại mới.
 
+## 169
+Nhóm Yu IlHan đến Thánh đế quốc Elforce thuộc thế giới Breya và được Na YuNa dẫn đến tàn tích thánh địa tối cao, nơi từng bị quái vật cấp 4 trên cấp 250 tàn phá, để nhờ anh xây dựng lại Đại Đền Thờ của Nữ Thần Sắc Đẹp Leytna.
+Được trả công bằng thánh thạch cao cấp và nhờ sự hỗ trợ đàm phán của Kang MiRae, IlHan dọn sạch tàn tích bằng túi đồ rồi cùng MiRae và Yumir đến mỏ đá khai quật và đẽo gọt vật liệu; Tua Vít Tử Thần giúp kỹ năng Khai Quật thăng lên cấp 51 và anh tạc xong bức tượng nữ thần.
+Quá trình xây dựng Đại Đền Thờ diễn ra thần tốc chỉ trong 9 ngày; việc tiếp xúc liên tục với thánh lực giúp IlHan đào sâu sự thấu hiểu về bản chất của các vị thần; khi đặt tượng nữ thần vào vị trí trung tâm, toàn bộ nhóm nhận được ghi chép của Nữ Thần Leytna và IlHan được giáo dân tôn sùng như kiến trúc sư vĩ đại.
+Trở về Trái Đất, IlHan nhận thánh thạch cao cấp từ Na YuNa và mời cô ăn trưa cùng Yumir sau khi thấu hiểu tính cách chân thật không giấu giếm của cô.
+Cảnh kết thúc: Một thông báo chiêu mộ lính đánh thuê giải cứu thế giới Phituroa xuất hiện tại Gangnam, mở ra thời đại Lính Đánh Thuê Trái Đất.

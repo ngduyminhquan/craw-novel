@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T18:15:30Z",
+  "generatedAt": "2026-10-26T18:24:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1013,6 +1013,12 @@
           "title": "Chương 168: Ta Là Thợ Đào 1 và 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_168.md",
           "sha": "e492abce74cd2cf3d3a01bbd5f57b26fc31d5376"
+        },
+        {
+          "number": 169,
+          "title": "Chương 169: Ta Là Thợ Đào 3 và 4",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_169.md",
+          "sha": "7382d6e0b18ef4d1c0a33f62eeb8d7fb8e6b021b"
         }
       ]
     }

@@ -192,6 +192,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 156: Dùng cánh Hiệu Triệu Diệt Vong cùng Liera và Spiera bay rà soát toàn cầu truy tìm quái vật chuyển chức 4; càn quét quái vật Thái Bình Dương trong 2 giờ; dùng Bất Khả Họa Quỹ Đạo Thương kết hợp Ngọn Lửa Vĩnh Cửu, Hỏa Tím và Liệt Hỏa toan phá hủy vòng xoáy mana nhưng không đủ sức mạnh khiến nó phát nổ mở ra cánh cổng không gian dị giới.
 - Trạng thái tính đến chương 157: Canh giữ cánh cổng dị giới tại Thái Bình Dương suốt 24 giờ, tiêu diệt hàng đàn quái vật bị thu hút để thăng lên Lv 160; sau khi cổng nén nổ và sinh ra quái vật chuyển chức 4 khổng lồ rung chấn nhiều xúc tu, anh phối hợp tập kích Bát Vĩ Long Thương, sóng xung kích từ cánh Hiệu Triệu Diệt Vong và cú nện Lôi Búa kích hoạt cộng hưởng xương rồng khiến quái vật tự phát nổ nát bấy từ bên trong; nhận lượng EXP bí ẩn bị che dấu chấm hỏi và thu hồi xác quái vật vào túi đồ.
 - Trạng thái tính đến chương 159: Đồng ý hợp tác với Kang MiRae đưa Vanguard làm mặt hàng chủ lực kiểm soát giao thương dị giới và lập thêm thương hiệu món tráng miệng xa xỉ Angel Tear; tận hưởng 1 tháng nghỉ ngơi cùng Yumir và thuộc hạ tại dinh thự; chuyển xưởng rèn từ tòa nhà Vanguard về hầm dinh thự Bittersweet Persona rồi cùng thuộc hạ và 3 thiên thần kích hoạt Đồng Hồ Cát Vĩnh Hằng bước vào đợt rèn đúc và luyện thương khép kín 2 tháng.
+- Trạng thái tính đến chương 169: Cùng Kang MiRae, Na YuNa và Yumir tới Thánh đế quốc Elforce tại thế giới Breya; dùng Tua Vít Tử Thần thăng cấp kỹ năng Khai Quật lên Lv 51 và hoàn thành việc tái thiết Đại Đền Thờ Nữ Thần Sắc Đẹp Leytna trong 9 ngày; nhận thánh thạch cao cấp và ghi chép của Nữ Thần Leytna, được người dân sùng bái như một kiến trúc sư vĩ đại; thiện cảm với Na YuNa dần cải thiện và chủ động mời cô ăn trưa tại nhà.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -324,6 +325,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 69: Tham chiến chi viện tại Nhật Bản cùng Clan Lôi Thần; túc trực bên cạnh bảo vệ và liên tục ban bùa lợi thánh lực hỗ trợ cho Kang MiRae thi triển ma pháp lôi điện và Kang HaJin dựng khiên phòng thủ.
 - Trạng thái tính đến chương 75: Thi triển đại chúc phúc tăng 300% tốc độ hồi phục thể lực và ma pháp, +70% sức tấn công, +50% tỷ lệ chí mạng khi đánh kẻ địch hơn 100 cấp cho Yu IlHan.
 - Trạng thái tính đến chương 165: Hứa trả thù lao bằng thánh thạch phẩm cấp cao nhất và ban phước thánh lực để mời IlHan sang thế giới Breya nhưng bất thành do cổng chưa mở; giao việc mở cổng cho Kang HaJin rồi cùng Kang MiRae tháp tùng IlHan và Yumir sang Lanpas.
+- Trạng thái tính đến chương 169: Đưa nhóm IlHan đến thánh địa tối cao tại thế giới Breya nhờ IlHan xây dựng lại Đại Đền Thờ của Nữ Thần Sắc Đẹp Leytna; nhận thêm ghi chép của Nữ Thần Leytna khi đền thờ hoàn thành; đến nhà IlHan chơi với Yumir và được IlHan mời ăn trưa sau khi bộc lộ tính cách chân thật.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

@@ -173,7 +173,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | reviewed |  |
 | 167 |  | Chapter_167 - I am the Centre of the World VIII.txt | I am the Centre of the World VIII | reviewed |  |
 | 168 |  | Chapter_168 - I am the Digger 1 and 2.txt | I am the Digger 1 and 2 | reviewed |  |
-| 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | todo |  |
+| 169 |  | Chapter_169 - I am the Digger 3 and 4.txt | I am the Digger 3 and 4 | done |  |
 | 170 |  | Chapter_170 - Hell Picnic, Alone – 1.txt | Hell Picnic, Alone – 1 | todo |  |
 | 171 |  | Chapter_171 - Hell Picnic, Alone – 2.txt | Hell Picnic, Alone – 2 | todo |  |
 | 172 |  | Chapter_172 - Hell Picnic, Alone – 3.txt | Hell Picnic, Alone – 3 | todo |  |
@@ -367,8 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -812,3 +810,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#167] Tiêu đề chương 167 trong chuỗi arc I am the Centre of the World → Đổi thành # Chương 167: Tôi Là Trung Tâm Của Thế Giới VIII cho đồng bộ với chương 160–166. (orchestrator)
 - [#167] Tiếng gầm golem trong ngoặc vuông ở chương 167 → Chuẩn hóa theo raw tiếng Anh ([Kuwoooooooh!], [Guwoooooooh!]...) đồng bộ với chương 166 và 168. (orchestrator)
 - [#168] Xưng hô của Kang MiRae với Hoàng nữ Irma ở đoạn 186 → Đổi thành Điện hạ cứ đi đi theo đúng phong thái đối tác bình đẳng trong pronouns.md. (orchestrator)
+- [#169] Thuật ngữ "Great Temple" — Tạm chọn: "Đại Đền Thờ" (khớp với "đền thờ Leytna" ở chương 81). Phương án khác: "Đại Thánh Đường". → Đồng ý: dịch Great Temple là Đại Đền Thờ (khớp với đền thờ Leytna ở chương 81). (orchestrator)
