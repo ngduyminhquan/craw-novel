@@ -30,7 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
-| Liera |  | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
+| Liera | Lieara | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
 | Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |

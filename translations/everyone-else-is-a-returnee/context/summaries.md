@@ -988,6 +988,13 @@ Sau hơn một tháng, thức uống máu cạn kiệt và IlHan phải dùng H�
 Kỹ năng Nấu Nướng thăng lên Lv 80 khi nướng chín; điều kỳ diệu xảy ra khi toàn bộ độc tố trong Hơi Thở biến đổi hoàn toàn thành hương vị thơm ngon tuyệt đỉnh, cho phép cả nhóm elf và Erica cùng được thưởng thức.
 Cảnh kết thúc: Món bánh quy kích hoạt bùa lợi tăng 65 điểm Ma pháp trong 45 phút, đưa kỹ năng Nấu Nướng của IlHan tăng vọt lên Lv 90 và khai mở bí quyết ban phát sức mạnh qua món ăn, khiến cả IlHan lẫn các thiên thần đều sững sờ trước bùa lợi thức ăn chưa từng thấy.
 
+## 161
+Yu IlHan đặt tên cho món bánh quy bùa lợi là 'Bánh quy nhồi ma pháp' và sản xuất thêm 5 vạn chiếc tích trữ vào túi đồ; kết thúc 2 tháng kết giới, nhóm thuộc hạ đã hoàn tất giải phẫu và đóng gói sản phẩm cho Angel Tear.
+IlHan bắt tay giải phẫu Ác Ma Rung Biến Thái, tách thành công cơ quan ma pháp rung chấn nhưng tạm thời cất vào túi đồ chờ ứng dụng Ma Pháp Công Học; phần thịt và xương không thể nung chảy hay cắt rèn được anh dùng năng lực tạo băng của Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh rút cạn hơi ẩm nghiền thành bột rồi trút vào Đại Thùng.
+Sau 3 ngày ủ cùng mana loài rồng (trong lúc IlHan tiếp tục luyện Đại Đoạn Vũ Trụ Thương trước ánh mắt rực lửa của Spiera), bột thịt xương biến đổi thành loại thuốc súng ma pháp tối thượng có thể khuếch đại uy lực nổ kinh hoàng khi tiếp nhận Liệt Hỏa hoặc sấm sét.
+Cảnh kết thúc: Kết giới Đồng Hồ Cát Vĩnh Hằng giải trừ; với lượng hàng dồi dào cho Vanguard và Angel Tear cùng sáng kiến kết hợp Dây Thun Khổng Lồ, Liệt Hỏa và thuốc súng để xuyên thủng Ác Ma Rung Biến Thái, IlHan cùng mọi người bước ra mở màn cho kỷ nguyên Giao Thương Trái Đất.
+
+
 
 
 

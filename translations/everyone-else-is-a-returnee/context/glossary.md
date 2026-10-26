@@ -555,7 +555,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Blood-calling Wolf tooth sword |  | Kiếm Răng Sói Gọi Máu | vật phẩm | 123 | Kiếm phẩm cấp Hiếm Yu IlHan rèn từ răng sói trong kết giới |
 | Insanely Passionate Spiked Black dragon whip | Insantely Passionate Spiked Black dragon whip | Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn | vật phẩm | 125 | Vũ khí roi phẩm cấp Truyền Thuyết rèn từ xương và gân hắc long |
 | Destruction-calling Titan's Resonance Thunderhammer | Destruction-calling Giant's Resonance Thunderhammer | Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt | vật phẩm | 125 | Vũ khí búa khổng lồ phẩm cấp Truyền Thuyết rèn từ xương rồng Karrows |
-| Chilly Blizzard tyrant's Mixed bone Fullplate armor | Chilly Blizzard tyrant's Mixed bone Full plate armour | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
+| Chilly Blizzard tyrant's Mixed bone Fullplate armor | Chilly Blizzard tyrant's Mixed bone Full plate armour; Mixed bone full plate armor | Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh | vật phẩm | 125 | Bộ đại khải phẩm cấp Truyền Thuyết chế tạo từ xương rồng và xương ác lang Quesad |
 | Destruction-preventing Swift Cursed dragon Earring |  | Khuyên Tai Nguyền Long Mau Lẹ Phòng Phá Hủy | vật phẩm | 126 | Khuyên tai phẩm cấp Độc Nhất do Yu IlHan chế tạo từ xương rồng và ma thạch chuyển chức 3 |
 | Lightning god's wrathful Lightspeed Dragonic bracelet |  | Vòng Tay Long Linh Quang Tốc Lôi Thần Thịnh Nộ | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết chuyển giao thuộc tính từ Vòng Tay Da Vàng kết hợp vảy rồng hệ lôi và ma thạch chuyển chức 3 |
 | Frenzied and Leisurely Lightning ruler's Dragonic bracelet |  | Vòng Tay Long Linh Lôi Vương Cuồng Loạn Và Thong Dong | vật phẩm | 126 | Vòng tay phẩm cấp Truyền Thuyết hệ sấm sét do Yu IlHan rèn từ vảy rồng hệ lôi yêu cầu pháp sư hệ lôi chuyển chức 3 |
@@ -623,7 +623,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Mister Unique |  | Quý ngài Độc Nhất | khác | 153 | Biệt danh Michael Smithson dùng để gọi Yu IlHan (người bán trang bị phẩm cấp Độc Nhất của Vanguard) |
 | Twin-headed snake |  | Rắn Hai Đầu | quái vật | 154 | Quái vật rắn chuyển chức 3 Lv 108 |
 | Ultra Monkey |  | Siêu Khỉ | quái vật | 154 | Quái vật khỉ chuyển chức 3 Lv 104 |
-| Perverted Vibration Demon |  | Ác Ma Rung Biến Thái | quái vật | 157 | Biệt danh Liera đặt cho con quái vật xúc tu rung chấn sinh ra từ cổng |
+| Perverted Vibration Demon | Perverted Demon Beast | Ác Ma Rung Biến Thái | quái vật | 157 | Biệt danh Liera đặt cho con quái vật xúc tu rung chấn sinh ra từ cổng |
 | Thunderhammer | thunderhammer; thunder hammer | Lôi Búa | vật phẩm | 157 | Tên gọi tắt của Lôi Búa Cự Nhân Cộng Hưởng Gọi Hủy Diệt |
 | Reserve Territory |  | Lãnh Địa Dự Bị | khác | 158 | Quy chế đặc biệt do Spiera đề xuất Thiên Giới áp dụng cho Trái Đất |
 | Imperial Princess | First Imperial Princess | Hoàng nữ | chức nghiệp | 158 | Tước vị hoàng gia của Irma An Ill'ta thuộc Đại Đế quốc Palladia |
@@ -632,3 +632,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Heaven's Library |  | Thư Viện Thiên Giới | địa danh | 160 | Thư viện lưu trữ tri thức của Thiên giới, cấm mang sách ra ngoài |
 | Angel Tear |  | Angel Tear | tổ chức | 159 | Thương hiệu món tráng miệng cao cấp do Kang MiRae và Yu IlHan thành lập, sánh ngang với thương hiệu trang bị Vanguard |
 | 1st Great Cataclysm |  | Đại Tai Biến lần 1 | hệ thống | 159 | Đợt Đại Tai Biến đầu tiên khi mana lần đầu tràn vào Trái Đất |
+| Magic stuffed cookie | magic stuffed cookies; magic stuffed cookie | Bánh quy nhồi ma pháp | vật phẩm | 161 | Món bánh quy ủ trong Đại Thùng dùng bột ngâm rượu Hơi Thở tăng chỉ số Ma pháp do IlHan làm ra |

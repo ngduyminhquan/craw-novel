@@ -165,7 +165,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | reviewed |  |
 | 159 |  | Chapter_159 - If I Open It, It’s The Gate To Hell VI.txt | If I Open It, It’s The Gate To Hell VI | reviewed |  |
 | 160 |  | Chapter_160 - I am the Centre of the World I.txt | I am the Centre of the World I | done |  |
-| 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | todo |  |
+| 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | done |  |
 | 162 |  | Chapter_162 - I am the Centre of the World III.txt | I am the Centre of the World III | todo |  |
 | 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | todo |  |
 | 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | todo |  |
@@ -794,3 +794,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#158] Sửa cách dịch ở đoạn 85 ("các người" khi nói về Trái Đất) và xưng hô của Kang MiRae ở đoạn 57, 103: xử lý thế nào? → Chấp nhận sửa đoạn 57 ("Bọn tôi" -> "Chúng tôi"), đoạn 85 dịch đúng theo chữ "it" (Trái Đất) của raw thành "Dù Trái Đất có tuyệt vời đến đâu thì nó cũng mới chỉ vừa trải qua Đại Tai Biến lần 2 thôi mà?", và đoạn 103 thống nhất gọi "Điện hạ". (orchestrator)
 - [#160] Ký hiệu footnote rải rác '1' ở cuối câu thoại đoạn 52 ('"Erta, you know it too!?" 1') và '2' ở giữa câu đoạn 94 ('emitting light. 2 Breath...') — Tạm chọn: lược bỏ các số footnote theo rules.md về bỏ ghi chú translator. → Đồng ý: lược bỏ các số footnote sót lại của bản EN theo rules.md. (orchestrator)
 - [#160] Địa danh 'Heaven's Library' (nơi Liera định tìm tài liệu Ma Pháp Công Học) — Tạm chọn: dịch là 'Thư Viện Thiên Giới' và lưu vào glossary.md; đoạn sau Erta nhắc 'the Library' dịch tự nhiên là 'Thư viện'. → Đồng ý: dịch Heaven's Library là Thư Viện Thiên Giới trong glossary.md; chỗ gọi tắt the Library dịch là Thư viện. (orchestrator)
+- [#161] Thuật ngữ 'magic stuffed cookies': raw viết thường, bản dịch tạm dùng 'bánh quy nhồi ma pháp'. → Đồng ý: dịch là bánh quy nhồi ma pháp (Bánh quy nhồi ma pháp trong glossary.md). (orchestrator)
+- [#161] Tên gọi 'Perverted Demon Beast' ở đoạn 110 (cách viết khác của Perverted Vibration Demon). → Đồng ý: thêm vào Alias của Perverted Vibration Demon và dịch thống nhất là Ác Ma Rung Biến Thái. (orchestrator)
