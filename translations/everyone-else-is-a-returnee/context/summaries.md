@@ -1135,6 +1135,13 @@ Trong khi bay lượn và bế Na YuNa, Yu IlHan liên tục phóng thương h�
 Bị tê liệt cơ quan ma pháp và chịu đòn công kích tinh thần xỉa xói của IlHan và Liera, tên thiên thần sa ngã uất ức nôn máu đen chết tại chỗ; IlHan vui sướng thu gom trọn vẹn xác kẻ địch vào túi đồ.
 Cảnh kết thúc: Hồ Sơ Akashic thông báo Yu IlHan thu được ghi chép của Dmirel Lv 307, Bất Khả Họa Quỹ Đạo Thương đạt Lv 85, thuần thục Quái Lực (mở khóa tiến hóa dung hợp), Long Huyết đạt Lv 70, nhận danh hiệu 'Bất Khả Xâm Phạm' và đạt cấp độ cực hạn 199 của chuyển chức 3; hệ thống đồng thời mở ra 4 lựa chọn chức nghiệp chuyển chức 4 gồm Thương Sư, Liệt Hỏa Chúa Tể, Tiểu Cự Nhân và Kẻ Giáng Địa Ngục.
 
+## 185
+Sau khi tiêu diệt thiên thần sa ngã Dmirel, Yu IlHan thảo luận cùng Liera và Na YuNa về 4 lựa chọn chức nghiệp chuyển chức 4; anh quyết định chọn nhánh chức nghiệp kế thừa hệ Tử Thần là Kẻ Giáng Địa Ngục.
+Yêu cầu chuyển chức vô cùng khắc nghiệt gồm thuần thục 7 kỹ năng cấp cao (Tử Thần, Liệt Hỏa, Linh Hồn Phụ Ma, Thu Thập Tử Vong, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao), nhận Chúc Phúc Của Nữ Thần Lửa, diệt 1.000 quái vật chuyển chức 4, diệt 1 thực thể chuyển chức 5, nộp 100 ma thạch chuyển chức 4 và 1 ma thạch chuyển chức 5.
+Đập vỡ sọ Dmirel bằng Bát Vĩ Long Thương, IlHan may mắn thu ngay được 1 ma thạch chuyển chức 5 quý hiếm từ não đối phương và được Liera khuyên nên giữ lại cho nhiệm vụ thăng cấp thay vì đem chế tạo vũ khí.
+Na YuNa chứng kiến sức mạnh tựa Thần linh của IlHan liền dấy lên nỗi sợ bị bỏ lại phía sau và ôm chặt lấy anh cầu xin anh đừng rời xa; IlHan nghiêm túc nhờ cô tiếp tục gia phúc bùa lợi để cùng anh săn lùng tiêu diệt hết tàn dư thiên thần sa ngã canh giữ ma pháp trận trước khi tin tức rò rỉ.
+Cảnh kết thúc: Na YuNa đồng ý tiếp tục hỗ trợ IlHan; Liera đứng bên khẽ thì thầm trêu chọc rằng kẻ rung động trước luôn là kẻ thua cuộc.
+
 
 
 

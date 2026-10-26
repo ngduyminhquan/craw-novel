@@ -46,6 +46,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - Interspatial storage — cụm danh từ chung chỉ kho chứa không gian (trong raw viết thường `interspatial storage`), không phải tên kỹ năng hệ thống (#175)
 - settled mercenary system — cụm danh từ chung viết thường trong lời thoại chỉ chế độ lính đánh thuê định cư, không phải thuật ngữ hệ thống cố định (#176)
 - Spatial transfer magic — cụm danh từ chung chỉ ma pháp dịch chuyển không gian (trong raw viết thường `spatial transfer magic`), không phải tên kỹ năng hệ thống (#179)
+- Flaming Monarch — cụm diễn giải 1 lần nghĩa của chức nghiệp Burning Lord trong độc thoại, không phải tên chức nghiệp hệ thống (#185)
 
 ## Bảng thuật ngữ
 
