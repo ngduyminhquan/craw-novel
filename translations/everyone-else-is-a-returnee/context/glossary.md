@@ -644,7 +644,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Fireta |  | Fireta | địa danh | 162 | Dị giới kết nối với Trái Đất và tham gia giao thương |
 | Merere |  | Merere | địa danh | 162 | Dị giới kết nối với Trái Đất có nhiều quái vật cỡ lớn |
 | Central Plaza |  | Quảng trường Trung tâm | địa danh | 163 | Quảng trường trung tâm tại khu giao thương Gangnam tổ chức đấu giá |
-| thought-souls |  | tàn niệm | khác | 163 | Mảnh ý thức linh hồn của người chết (raw đổi từ thoughts sang thought-souls từ chương 163) |
+| thought-souls | thought-soul | tàn niệm | khác | 163 | Mảnh ý thức linh hồn của người chết (raw đổi từ thoughts sang thought-souls từ chương 163) |
 | Netherlands | The Netherlands | Hà Lan | địa danh | 164 | Quốc gia trên Trái Đất mở cổng sang Mishta liên thủ cướp đồ Vanguard |
 | Mishta |  | Mishta | địa danh | 164 | Dị giới đã trải qua Đại Tai Biến lần thứ 3 |
 | Tsoner | Tsnoer | Tsoner | địa danh | 164 | Quốc gia lính đánh thuê tại thế giới Mishta |
@@ -690,3 +690,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Li Catriana |  | Li Catriana | địa danh | 198 | Đế quốc đối địch với Thánh đế quốc Elforce tại thế giới Breya, do Hoàng đế Li Catriana cai trị |
 | Hell Tornado |  | Lốc Xoáy Địa Ngục | kỹ năng | 199 | Tên đòn thế tự đặt của Yu IlHan khi vung Lôi Búa kết hợp Liệt Hỏa và bệ đỡ xoay Aegis |
 | Wicked Kraken |  | Kraken Tà Ác | quái vật | 199 | Quái vật mực khổng lồ cấp 233 cao hơn 300m dưới biển |
+| Blessing of the god of smithing | Blessing of the god of blacksmithing; blessing of the god of smithing | Chúc Phúc Của Thần Rèn Đúc | danh hiệu | 200 | Lời chúc phúc từ Thần Rèn Đúc ban cho Yu IlHan khi chạm tới đỉnh cao rèn đúc |

@@ -1226,3 +1226,10 @@ Cùng với tàn niệm Orochi điên cuồng hấp thụ tàn niệm nâng cấ
 Khi lặn xuống biển hạ gục quái vật Kraken Tà Ác Lv 233, IlHan nhận ra độc và lời nguyền của quái vật Trái Đất quá yếu do tên chủ nhân hầm ngục 2 năm trước đã gom sạch quái vật mang độc và nguyền rủa.
 Cảnh kết thúc: Hậm hực vì không thể luyện Kháng Độc Cực Hạn và Kháng Lời Nguyền Cấp Cao một cách tự nhiên, IlHan quyết định dùng "biện pháp cuối cùng" và giương cánh Hiệu Triệu Diệt Vong bay về pháo đài bay để tìm lời giải.
 
+## 200
+Yu IlHan pha trộn máu Ác Ma Rung Biến Thái với máu rồng rồi Chế Tác Mana cùng bột ma thạch chuyển chức 4, đổ vào Đại Thùng làm bồn tắm để cưỡng ép trui rèn Kháng Độc Cực Hạn và Kháng Lời Nguyền Cấp Cao.
+Trong lúc ngâm mình và uống rượu Hơi Thở, cơ thể anh cộng hưởng với Đại Thùng khiến một nguồn sức mạnh bí ẩn hé lộ, gợi mở dấu hiệu tiếp cận cảnh giới của một thực thể cấp cao.
+Sau một năm không ngủ càn quét quái vật Trái Đất bằng pháo đài bay, IlHan đã luyện tối đa Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao và Siêu Việt Tái Sinh (Tử Thần tiệm cận tối đa), nhưng vẫn bế tắc trước tiêu chí nhận Chúc Phúc Của Nữ Thần Lửa dù Liệt Hỏa đã đạt cấp 99.
+Cảnh kết thúc: Nhận thấy tốc độ sinh sôi của quái vật bên ngoài chậm dần làm chậm tiến độ luyện kỹ năng, IlHan quyết định nhắm vào các hầm ngục và hỏi Liera xem cô đã từng nghe đến từ "cửa sau" hay chưa.
+
+
