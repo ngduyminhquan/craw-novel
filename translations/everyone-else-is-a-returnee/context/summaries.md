@@ -982,6 +982,13 @@ MiRae cùng các chủ clan Liên Minh Tiền Tuyến (Michael Smithson, Carina 
 Trái ngược với sự bận rộn của MiRae, IlHan cùng Yumir và các thuộc hạ tận hưởng một tháng nghỉ ngơi dưỡng sức thanh thản tại dinh thự và tiện tay kích nổ các vòng xoáy mana xuất hiện gần nhà.
 Cảnh kết thúc: Sau đúng tròn một tháng, IlHan di dời xưởng rèn xuống xưởng ngầm trong dinh thự rồi cùng Yumir, thuộc hạ và ba thiên thần Erta, Liera, Spiera kích hoạt Đồng Hồ Cát Vĩnh Hằng bước vào đợt rèn đúc và luyện thương khép kín kéo dài 2 tháng.
 
+## 160
+Bên trong kết giới Đồng Hồ Cát Vĩnh Hằng, Yu IlHan phân công nhóm elf giải phẫu nguyên liệu còn Erica và Yumir đóng gói, còn bản thân dồn sức chế biến trà Fyylita, tráng miệng hoa quả và rèn hàng loạt trang bị Độc Nhất lẫn Truyền Thuyết (lén khắc dòng thuộc tính bí mật phòng phản trắc) cho các phiên đấu giá; xen kẽ là các buổi khổ luyện Đại Đoạn Vũ Trụ Thương dưới sự đốc thúc của Spiera.
+Sau hơn một tháng, thức uống máu cạn kiệt và IlHan phải dùng Hơi Thở thay thế; trong lúc nhào bột bánh quy Angel Tear, Erta bị Spiera đấm văng trúng gáy IlHan khiến ngụm rượu Hơi Thở phun vào bột bánh, mở ra sáng kiến cho cồn vào bột rồi đem ủ trong Đại Thùng.
+Kỹ năng Nấu Nướng thăng lên Lv 80 khi nướng chín; điều kỳ diệu xảy ra khi toàn bộ độc tố trong Hơi Thở biến đổi hoàn toàn thành hương vị thơm ngon tuyệt đỉnh, cho phép cả nhóm elf và Erica cùng được thưởng thức.
+Cảnh kết thúc: Món bánh quy kích hoạt bùa lợi tăng 65 điểm Ma pháp trong 45 phút, đưa kỹ năng Nấu Nướng của IlHan tăng vọt lên Lv 90 và khai mở bí quyết ban phát sức mạnh qua món ăn, khiến cả IlHan lẫn các thiên thần đều sững sờ trước bùa lợi thức ăn chưa từng thấy.
+
+
 
 
 

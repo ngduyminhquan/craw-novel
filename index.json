@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T16:07:23Z",
+  "generatedAt": "2026-10-26T16:31:54Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -959,6 +959,12 @@
           "title": "Chương 159: Nếu mở ra, đó là Cổng Địa Ngục VI",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_159.md",
           "sha": "b37a5fa2f4de0116c849f5db76ca5b31a0d91ce2"
+        },
+        {
+          "number": 160,
+          "title": "Chương 160: Tôi Là Trung Tâm Của Thế Giới I",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_160.md",
+          "sha": "c4fd87b07c1bee528c6bac8cd2c8d2a067632080"
         }
       ]
     }
