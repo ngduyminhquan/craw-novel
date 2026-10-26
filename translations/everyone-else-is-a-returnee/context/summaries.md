@@ -1173,6 +1173,12 @@ Nghĩ đến Yumir và Yu IlHan, Erta vô cùng phẫn nộ và đau đớn, đ�
 Erta kiên quyết từ chối thăng cấp lên thiên thần cấp cao chuyển chức lần 6 và công khai chỉ trích các phe thực thể cấp cao chỉ là lũ hèn nhát tụ tập thành bầy vì sợ cô độc, đồng thời tuyên bố niềm tin tuyệt đối rằng Yu IlHan sẽ tự mình đột phá thành thực thể cấp cao làm chủ Trái Đất.
 Cảnh kết thúc: Mặc kệ sự giận dữ và lời răn đe của Tibera cùng Spiera, Erta vỗ cánh rời đi, hạ quyết tâm tự mình chuẩn bị cho con đường phía trước.
 
+## 191
+Yu IlHan quay về dinh thự Bittersweet Persona và phát hiện hàng trăm quái vật chuyển chức 4 mới sinh ra từ Đại Tai Biến lần 3 đang kéo đến bao vây nhằm xóa sổ dấu vết con người; anh dùng Đại Đoạn Vũ Trụ Thương kết hợp vũ khí đa dạng nhất kích tất sát hàng loạt quái vật trong trạng thái ẩn thân.
+Trước làn sóng quái vật vô tận kéo tới, IlHan cắm hàng trăm ngọn cốt thương rồng quanh vườn rồi kích hoạt Lôi Búa kết hợp dòng thuộc tính bão sét từ Vòng Tay Long Linh tạo combo bão lôi cộng hưởng quét sạch toàn bộ quái vật; sau đó anh chạy vào dinh thự kích hoạt Đồng Hồ Cát Vĩnh Hằng đóng băng không gian.
+Trong thế giới ngưng đọng hai tháng, IlHan bắt tay vào xưởng rèn, dùng Ngọn Lửa Vĩnh Cửu, kiến thức Ma Pháp Công Học từ Lanpas và ma thạch chuyển chức 4 nung chảy kim loại cùng xương quái vật để chế tạo các bộ phận khổng lồ cho pháo đài bay cùng vũ khí tác chiến.
+Cảnh kết thúc: Chứng kiến sự kiên cường và bóng lưng rèn đúc của IlHan, Liera thầm hạ quyết tâm sẽ dùng đến sức mạnh do Thần Tình Yêu ban cho để bảo vệ anh sống sót bằng mọi giá nếu một thực thể chuyển chức 5 xuất hiện, giữa tiếng búa rèn vang dội khắp Trái Đất.
+
 
 
 

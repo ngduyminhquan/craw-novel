@@ -195,7 +195,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 188 |  | Chapter_188 - The Path I Walk – 6.txt | The Path I Walk – 6 | reviewed |  |
 | 189 |  | Chapter_189 - The Path I Walk – 7.txt | The Path I Walk – 7 | reviewed |  |
 | 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | done |  |
-| 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | todo |  |
+| 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | done |  |
 | 192 |  | Chapter_192 - I Create – 2.txt | I Create – 2 | todo |  |
 | 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | todo |  |
 | 194 |  | Chapter_194 - I Create – 4.txt | I Create – 4 | todo |  |
@@ -367,8 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -847,3 +845,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#189] Cụm từ "flying fortress" ở đoạn 94 (Yu IlHan tuyên bố chế tạo) — Tạm chọn: dịch tự nhiên là "pháo đài bay" (đồng bộ với ngữ cảnh chương 171) và không thêm vào glossary.md vì là cụm danh từ chung miêu tả tính năng; phương án khác: viết hoa và thêm vào glossary.md dạng 'Pháo Đài Bay'. → Giữ cách dịch tự nhiên "pháo đài bay" và không thêm vào glossary.md vì là cụm danh từ chung viết thường miêu tả tính năng. (orchestrator)
 - [#190] Cụm từ "Earth-alone" ở đoạn 1 (raw "season 2 of Earth-alone", chơi chữ theo tên phim Home Alone / 나 홀로 집에) — Tạm chọn: "Một mình trên Trái Đất" (mùa thứ hai của "Một mình trên Trái Đất"). Phương án khác: "Ở nhà một mình trên Trái Đất". → Dịch là "Một mình trên Trái Đất" (chơi chữ theo phim Home Alone / Ở nhà một mình, phù hợp ngữ cảnh cả nhân loại đã rời khỏi Trái Đất). (orchestrator)
 - [#190] Xưng hô giữa thiên thần cấp cao Tibera và Erta — Tạm chọn: Tibera xưng "ta", gọi "cô / Erta"; Erta xưng "tôi", gọi "ngài / ngài Tibera" (trước khi nổi giận). Phương án khác: Tibera xưng "ta", gọi "ngươi". → Chốt Tibera xưng "ta" - gọi "cô / Erta", Erta xưng "tôi" - gọi "ngài / ngài Tibera" đúng cấp bậc trong Quân Đội Thiên Giới. (orchestrator)
+- [#191] Tiêu đề arc "I Create – 1" — Tạm chọn: "Tôi Tạo Ra – 1" (thống nhất với các chương ngôi thứ nhất "Tôi..."). Đề xuất khác: "Tôi Chế Tạo – 1" hoặc "Tôi Sáng Tạo – 1". → Dịch là "Tôi Tạo Ra – 1" (thống nhất với các tiêu đề chương ngôi thứ nhất và bao hàm cả ý nghĩa chế tạo lẫn kiến tạo). (orchestrator)
+- [#191] Vị thần ban phước cho Liera ("goddess of love" / "god of love") — Tạm chọn: "Thần Tình Yêu" (thống nhất với chương 105). Đề xuất khác: "Nữ Thần Tình Yêu". → Giữ nguyên "Thần Tình Yêu" thống nhất với mục đã chốt từ chương 105 trong glossary.md. (orchestrator)

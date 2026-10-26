@@ -209,6 +209,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 186: Nhờ danh hiệu Bất Khả Xâm Phạm tăng 20% năng lực trước đối thủ từ chuyển chức 4 trở lên, phục kích hạ sát tên thiên thần sa ngã thứ hai của Quân Đội Ánh Sáng Rực Rỡ; Bất Khả Họa Quỹ Đạo Thương thăng lên cấp 86, Tử Thần thăng lên cấp 90, hoàn thành 1/1 yêu cầu tiêu diệt tồn tại chuyển chức 5 cho nhiệm vụ Kẻ Giáng Địa Ngục; cùng Na YuNa càn quét phá hủy ma pháp trận ở hàng chục thế giới với tốc độ trung bình 25 phút mỗi thế giới.
 - Trạng thái tính đến chương 188: Không bị dính lời nguyền trục xuất nhờ Kháng Lời Nguyền Cấp Cao; bị Na YuNa cưỡng hôn cướp nụ hôn đầu ngay trước khi cô biến mất; một lần nữa kẹt lại đơn độc trên Trái Đất trong Đại Tai Biến lần 3 mà không tìm thấy bóng dáng bất kỳ đứa trẻ hay con người nào.
 - Trạng thái tính đến chương 189: Trải qua sự kiện Đại Tai Biến lần 3 bùng nổ khiến toàn bộ loài người trên Trái Đất bị trục xuất sang dị giới; bản thân một lần nữa bị bỏ lại đơn độc cùng Liera; quyết định dành 2 tháng tới chế tạo pháo đài bay để tìm kiếm giải cứu Yumir và săn quái đẩy nhanh tiến hóa Trái Đất.
+- Trạng thái tính đến chương 191: Dùng Bát Vĩ Long Thương, Đại Đoạn Vũ Trụ Thương và combo Lôi Búa kết hợp Vòng Tay Long Linh càn quét quái vật chuyển chức 4 quanh dinh thự Bittersweet Persona; kích hoạt Đồng Hồ Cát Vĩnh Hằng đóng băng thời gian 2 tháng; bắt đầu dùng Ngọn Lửa Vĩnh Cửu và kiến thức Ma Pháp Công Học từ Lanpas để rèn đúc các bộ phận cho pháo đài bay cùng vũ khí.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -237,6 +238,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 182: Tự tay bẻ gãy đôi vòng hào quang liên lạc để từ chối lệnh triệu tập về Thiên giới, dứt khoát chọn ở lại Trái Đất làm thiên thần bảo hộ bên cạnh Yu IlHan.
 - Trạng thái tính đến chương 188: Nhận ra âm mưu lây nhiễm nguyền thuật của phe địch; nổi cơn ghen tuông lôi đình khi Na YuNa cướp nụ hôn đầu của IlHan; bật cười trêu chọc IlHan ngây ngô trước tình cảm của YuNa; kẹt lại Trái Đất cùng IlHan trong tình trạng mất liên lạc hoàn toàn với Thiên giới.
 - Trạng thái tính đến chương 189: Giải thích cho IlHan về bản chất của Đại Tai Biến lần 3, cơ chế tiến hóa thế giới bậc cao và âm mưu làm chậm thời gian của phe địch; thề sẽ luôn ở bên cạnh IlHan như 1000 năm trước.
+- Trạng thái tính đến chương 191: Cùng IlHan quay về dinh thự Bittersweet Persona; chứng kiến anh càn quét quái vật chuyển chức 4 và kích hoạt kết giới Đồng Hồ Cát Vĩnh Hằng; động viên và khen ngợi IlHan; thầm hạ quyết tâm sẽ dùng đến sức mạnh do Thần Tình Yêu ban cho để bảo vệ IlHan sống sót bằng mọi giá nếu một thực thể chuyển chức 5 xuất hiện.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
