@@ -242,6 +242,14 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Irma An Ill'ta | Kang MiRae | tôi / ta | cô / MiRae | 158 | Đệ nhất Hoàng nữ Palladia đàm đạo và đưa ra lời khuyên cho Kang MiRae |
 | Carina Malatesta | Kang MiRae | tôi | cô / cô Kang | 159 | Hai chủ clan đàm phán hợp tác kiểm soát người dị giới |
 | Kang MiRae | Carina Malatesta | tôi | cô | 159 | Hai chủ clan đàm phán hợp tác kiểm soát người dị giới |
+| Mirey | Paté | tôi | cậu / Paté | 163 | Đồng đội elf trò chuyện |
+| Paté | Mirey | tôi | cô / Mirey | 163 | Đồng đội elf trò chuyện |
+| Mirey | Jirl | tôi | cậu / Jirl | 163 | Đồng đội elf trò chuyện |
+| Jirl | Mirey | tôi | cô / Mirey | 163 | Đồng đội elf trò chuyện |
+| Phiria | Jirl | tôi | cậu / Jirl | 163 | Đồng đội elf trò chuyện |
+| Jirl | Phiria | tôi | cô / Phiria | 163 | Đồng đội elf trò chuyện |
+| Mirey | Phiria | tôi | cô / Phiria | 163 | Đồng đội elf trò chuyện |
+| Phiria | Mirey | tôi | cô / Mirey | 163 | Đồng đội elf trò chuyện |
 
 
 

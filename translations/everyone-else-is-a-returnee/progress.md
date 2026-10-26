@@ -167,7 +167,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 160 |  | Chapter_160 - I am the Centre of the World I.txt | I am the Centre of the World I | reviewed |  |
 | 161 |  | Chapter_161 - I am the Centre of the World II.txt | I am the Centre of the World II | reviewed |  |
 | 162 |  | Chapter_162 - I am the Centre of the World III.txt | I am the Centre of the World III | reviewed |  |
-| 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | todo |  |
+| 163 |  | Chapter_163 - I am the Centre of the World IV.txt | I am the Centre of the World IV | done |  |
 | 164 |  | Chapter_164 - I am the Centre of the World V.txt | I am the Centre of the World V | todo |  |
 | 165 |  | Chapter_165 - I am the Centre of the World VI.txt | I am the Centre of the World VI | todo |  |
 | 166 |  | Chapter_166 - I am the Centre of the World VII.txt | I am the Centre of the World VII | todo |  |
@@ -800,3 +800,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#162] Ký hiệu footnote sót lại từ bản dịch EN (' 1' ở cuối câu thoại đoạn 35 và ' 2' ở đoạn 89) → Đồng ý: lược bỏ các số footnote sót lại của bản EN theo rules.md. (orchestrator)
 - [#160-162] Xưng hô của Spiera trong chương 160–162 → Thống nhất Spiera xưng ta ở chương 160 cho đồng bộ với chương 161; giữ nguyên dòng trong pronouns.md. (orchestrator)
 - [#161] Câu đùa Kis...Cookies! của Liera ở đoạn 31 → Đổi thành [Hôn... Bánh quy!] để giữ nét lỡ miệng đòi hôn (Kiss) của Liera. (orchestrator)
+- [#163] Cảm thán 'Insane!' / 'That's fucking insane!' của khán giả — Tạm dùng: "Điên thật rồi!" / "Mẹ kiếp, điên rồ thật sự!" theo ngữ cảnh khẩu ngữ thay vì ép dùng thuật ngữ "Cuồng Loạn" của glossary. Đề xuất: Chấp nhận phương án theo ngữ cảnh. → Đồng ý: dịch theo ngữ cảnh cảm thán thông thường là Điên thật rồi! / Mẹ kiếp, điên rồ thật sự! (orchestrator)

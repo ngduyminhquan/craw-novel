@@ -999,6 +999,13 @@ Người dị giới đổ xô sang Trái Đất qua các cổng cấp 90 và k�
 Kang MiRae tới gặp IlHan bàn thảo kế hoạch đẩy giá tối đa cho buổi đấu giá quy tụ đại diện 17 thế giới (giới thiệu 2 trang bị phẩm cấp Truyền Thuyết); khi MiRae bày tỏ lo lắng IlHan sẽ trở thành mục tiêu bị đố kỵ và thù ghét, IlHan định viện cớ sẽ dùng Ẩn Thân bỏ trốn khiến MiRae hoảng hốt nắm chặt tay anh cầu xin anh đừng bao giờ biến mất; năng khiếu cảm nhận kích hoạt kỹ năng của MiRae khiến Spiera kinh ngạc còn Liera thì ghen tuông lôi đình.
 Cảnh kết thúc: 3 ngày sau, buổi đấu giá hoành tráng chính thức mở màn tại quảng trường trung tâm giao thương Gangnam, mở ra cơ hội để Yu IlHan vơ vét kho nguyên liệu rèn kim loại quý giá từ gần như toàn bộ các thế giới khác.
 
+## 163
+Buổi đấu giá Vanguard do Kang MiRae chủ trì cùng nhóm 4 elf phụ tá (Paté dẫn đầu đẩy xe vật phẩm) diễn ra tại Quảng trường Trung tâm thuộc khu giao thương Gangnam; các món đồ phẩm cấp Độc Nhất và Truyền Thuyết được tranh mua quyết liệt bằng xu quy đổi từ ma thạch chuyển chức 4, mang về 841 xu cho 28 món đồ đầu tiên.
+Thanh trường kiếm Truyền Thuyết mài từ xương quái chuyển chức 4 được đưa ra; một toán dị giới ẩn thân phục kích cướp kiếm bị nhóm elf trấn áp chớp nhoáng (kẻ chạm vào kiếm bị đóng băng và bị Kang MiRae vung trượng đập nát thị uy trước khi bán kiếm với giá 214 xu); Hoàng nữ Irma An Ill'ta của Palladia thắng đấu giá chiếc dây chuyền răng Hắc Long với giá 350 xu.
+Buổi đấu giá kết thúc, người tham dự kinh hoàng phát hiện núi xác hàng ngàn kẻ tấn công bao vây quảng trường (gồm vô số chuyển chức 3 và một tên chuyển chức 4) đã bị Yu IlHan một kích xuyên tim tiêu diệt toàn bộ trong âm thầm.
+Cảnh kết thúc: Yu IlHan ra lệnh cho Orochi bắt đầu tra khảo các tàn niệm thu được để truy lùng kẻ chủ mưu và những bên tiếp tay, trong khi anh thỏa mãn tiếp nhận lượng lớn ma thạch và kim loại quý giá thu được từ buổi đấu giá.
+
+
 
 
 

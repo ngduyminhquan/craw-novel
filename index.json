@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T16:56:13Z",
+  "generatedAt": "2026-10-26T17:06:32Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -977,6 +977,12 @@
           "title": "Chương 162: Tôi Là Trung Tâm Của Thế Giới III",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_162.md",
           "sha": "7edaf40aa77e7b680a891916ab221adcddc35e06"
+        },
+        {
+          "number": 163,
+          "title": "Chương 163: Tôi Là Trung Tâm Của Thế Giới IV",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_163.md",
+          "sha": "c5a50351c58e1e74f25cc7e7cbd894861e2d3c66"
         }
       ]
     }

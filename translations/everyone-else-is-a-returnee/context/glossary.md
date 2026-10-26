@@ -635,3 +635,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Magic stuffed cookie | magic stuffed cookies; magic stuffed cookie | Bánh quy nhồi ma pháp | vật phẩm | 161 | Món bánh quy ủ trong Đại Thùng dùng bột ngâm rượu Hơi Thở tăng chỉ số Ma pháp do IlHan làm ra |
 | Fireta |  | Fireta | địa danh | 162 | Dị giới kết nối với Trái Đất và tham gia giao thương |
 | Merere |  | Merere | địa danh | 162 | Dị giới kết nối với Trái Đất có nhiều quái vật cỡ lớn |
+| Central Plaza |  | Quảng trường Trung tâm | địa danh | 163 | Quảng trường trung tâm tại khu giao thương Gangnam tổ chức đấu giá |
+| thought-souls |  | tàn niệm | khác | 163 | Mảnh ý thức linh hồn của người chết (raw đổi từ thoughts sang thought-souls từ chương 163) |
