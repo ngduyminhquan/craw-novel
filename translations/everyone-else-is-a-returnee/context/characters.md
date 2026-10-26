@@ -201,6 +201,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 179: Tiêu tốn 350 ma thạch chuyển chức 4 thi triển kỹ năng Dịch Chuyển đưa bản thân và 3 thiên thần từ hầm ngục trở về dinh thự Bittersweet Persona trên Trái Đất an toàn; cơ thể phát triển đạt chiều cao 190 cm nhờ tế bào nghìn năm tiến hóa qua các lần thăng cấp; cạo râu cắt tóc gọn gàng và sử dụng Đại Thùng hòa cùng máu rồng Hơi Thở làm bồn tắm độc quyền để hấp thu dưỡng chất và cộng hưởng mana; đón Yumir và Kang MiRae trở về báo tin Đại Tai Biến lần 3 sắp diễn ra.
 - Trạng thái tính đến chương 180: Chế tạo vòng đội đầu Sử Thi phòng hộ 2 đòn tấn công của thực thể cấp cao tặng Na YuNa; nắm bắt thông tin Trái Đất chuẩn bị bùng nổ Đại Tai Biến lần 3 sau 1–3 tháng; hội ngộ mẹ Kim YeSeul tại dinh thự Bittersweet Persona.
 - Trạng thái tính đến chương 181: Khả năng vận dụng Đồng Hồ Cát Vĩnh Hằng được nâng cấp (giảm thời gian trễ, tăng thời lượng và mở rộng phạm vi kết giới bao trùm toàn bộ khu vực); gia nhập đội phá hủy ma pháp trận bí mật; chuẩn bị tâm lý đón đầu cuộc chiến giữa các phe thực thể cấp cao khi Trái Đất sắp trở thành thế giới bậc cao.
+- Trạng thái tính đến chương 182: Chia sẻ trang bị phẩm cấp Sử Thi và phụ kiện Truyền Thuyết 5 dòng thuộc tính chế tạo từ hầm ngục cho mẹ Kim YeSeul, Kang MiRae và Na YuNa; bộ giáp và Aegis tự phát triển lên phẩm cấp Sử Thi; chuẩn bị cùng Na YuNa xuất phát rà soát phá hủy ma pháp trận.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -226,6 +227,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 105: Quét sạch một bộ phận Quân Đội Ma Hủy Diệt bên trong Bức Tường Hỗn Loạn; thoát chết trong gang tấc nhờ đón nhận phước lành của Thần Tình Yêu biến thanh kiếm tồi tàn IlHan rèn cho ngày trước thành Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước (phẩm cấp Sử Thi); mắt đổi sang sắc đỏ hồng ngọc; chiến sự vừa tạm dứt liền bay thẳng về Trái Đất nằm ngủ trên giường IlHan và chính thức đoàn tụ cùng anh.
 - Trạng thái tính đến chương 136: Lần theo dấu vết kẻ phản bội liên hệ với hoàng đế Kadra đang tiến về cánh cổng không gian, trao nụ hôn má khích lệ cho Yu IlHan rồi bay đi thanh trừng kẻ phản nghịch.
 - Trạng thái tính đến chương 181: Gặp gỡ mẹ của Yu IlHan và xưng nhận anh là "IlHan của cháu"; giải thích cho IlHan về động cơ các thế lực thực thể cấp cao dòm ngó Trái Đất vì nơi này sắp chuyển mình thành thế giới bậc cao.
+- Trạng thái tính đến chương 182: Tự tay bẻ gãy đôi vòng hào quang liên lạc để từ chối lệnh triệu tập về Thiên giới, dứt khoát chọn ở lại Trái Đất làm thiên thần bảo hộ bên cạnh Yu IlHan.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -244,6 +246,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 85: Đồng hành hỗ trợ IlHan suốt một tháng săn rồng tại Daréu; chứng kiến sự phát triển vượt bậc cùng bản tính chiến đấu lạnh lùng phi nhân tính của anh, vừa mừng rỡ vừa đau lòng cho vết thương tâm lý sau 1000 năm cô độc của IlHan, thầm ước người ở bên cạnh anh năm xưa là mình thay vì Lita.
 - Trạng thái tính đến chương 94: Đồng hành cùng IlHan trong kết giới Đồng Hồ Cát Vĩnh Hằng; bộc lộ tâm lý ghen tị trẻ con và ấm ức khi tưởng IlHan giấu mình làm quà tặng cho tàn niệm Reta Kar'iha; ngẩn ngơ trước vẻ ngầu của IlHan khi múa vũ điệu kiếm giải phẫu hơn 900 con rồng; sững sờ trước sự ra đời của tạo tác Aegis phẩm cấp Truyền Thuyết và ví nó ngang hàng với Thiên Tùng Vân Kiếm; tự hỏi liệu mai này khi có khả năng trở thành thực thể cấp cao, IlHan có đến bên Thiên giới cùng cô hay không.
 - Trạng thái tính đến chương 181: Phân tích ma pháp trận bí mật sử dụng ngôn ngữ Thiên giới bị bẻ cong có độ bảo mật cao che giấu thiên thần; nhận được lệnh triệu tập chuẩn bị thăng chức.
+- Trạng thái tính đến chương 182: Nhận lệnh trở về Thiên giới để tiếp nhận thăng cấp lên thực thể chuyển chức lần 6.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.
@@ -378,6 +381,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 120: Giải thích điều kiện tu luyện [Đại Đoạn Vũ Trụ Thương] và đề xuất dùng Đồng Hồ Cát Vĩnh Hằng; liên tục rút ngắn thời gian dự tính từ 30 năm xuống 25 năm sau khi thấy IlHan tinh chỉnh chuyển động các loại vũ khí; hết lời thán phục khi thấy IlHan một mình gánh vác Trái Đất.
 - Trạng thái tính đến chương 124: Trực tiếp hướng dẫn IlHan luyện Đại Đoạn Vũ Trụ Thương trong kết giới; mang nhiệm vụ ngầm theo dõi các thiên thần và truy lùng những kẻ phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ trên Trái Đất; ngỡ ngàng khi IlHan lĩnh ngộ bước đầu tiên (dung hợp kiếm thuật vào thương) chỉ sau nửa tháng.
 - Trạng thái tính đến chương 125–126: Huấn luyện Đại Đoạn Vũ Trụ Thương cho Yu IlHan; mang trọng trách ngầm theo dõi các thiên thần và truy lùng những kẻ phản bội thuộc phe Quân Đội Ánh Sáng Rực Rỡ trên Trái Đất; dự báo các Thế Giới Bị Bỏ Rơi sẽ tiếp tục kết nối với Trái Đất trước Đại Tai Biến lần 2.
+- Trạng thái tính đến chương 182: Nhận lệnh trở về Thiên giới để huy động toàn bộ thiên thần chuẩn bị thanh trừng những kẻ phản bội.
 
 ### Michael Smithson
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.

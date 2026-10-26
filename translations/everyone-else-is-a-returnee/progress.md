@@ -186,7 +186,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 179 |  | Chapter_179 - Everyone Else Is a Guardian – 6.txt | Everyone Else Is a Guardian – 6 | reviewed |  |
 | 180 |  | Chapter_180 - Everyone Else Is a Guardian – 7.txt | Everyone Else Is a Guardian – 7 | reviewed |  |
 | 181 |  | Chapter_181 - Everyone Else Is a Guardian – 8.txt | Everyone Else Is a Guardian – 8 | done |  |
-| 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | todo |  |
+| 182 |  | Chapter_182 - Everyone Else Is a Guardian – 9.txt | Everyone Else Is a Guardian – 9 | done |  |
 | 183 |  | Chapter_183 - The Path I Walk – 1.txt | The Path I Walk – 1 | todo |  |
 | 184 |  | Chapter_184 - The Path I Walk – 2.txt | The Path I Walk – 2 | todo |  |
 | 185 |  | Chapter_185 - The Path I Walk – 3.txt | The Path I Walk – 3 | todo |  |
@@ -830,3 +830,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#180] Raw đoạn 6 ghi "he just turned 61", đây là lỗi gõ của bản EN (Yumir sinh từ ch106, tính cả thời gian ở dị giới và 2 năm hầm ngục mới được khoảng 5–6 tuổi; vế sau nói "như một đứa trẻ... việc như thế này là đương nhiên"). Bản dịch tạm dùng "vừa mới tròn 6 tuổi". → Giữ "vừa mới tròn 6 tuổi" ("61" trong raw EN là số "6" dính ký hiệu chú thích "1" của bản dịch tiếng Anh, giống trường hợp ở chương 179). (orchestrator)
 - [#181] Thuật ngữ "Higher world" — Tạm dùng: "Thế giới bậc cao". Phương án khác: "Thế giới cấp cao". → Giữ "Thế giới bậc cao" (đồng bộ hoàn toàn với cách dịch ở các chương 100 và 120, không gây cảnh báo QA ở chương cũ). (orchestrator)
 - [#181] Khái niệm "interspace" của Kim YeSeul — Tạm dùng: "không gian thứ nguyên". Phương án khác: "kho chứa không gian" hoặc "á không gian". → Giữ cách dịch tự nhiên theo ngữ cảnh "không gian thứ nguyên" (đây là danh từ chung viết thường trong raw nên không thêm vào glossary.md). (orchestrator)
+- [#182] Bốn dòng ghi chú của tác giả ở cuối raw chương 182 bàn luận vui về cân bằng sức mạnh và tâm lý nhân vật chính — Tạm chọn: bỏ qua không dịch và thêm vào raw_ignore_lines của novel.json và rules.md (tương tự #176). → Giữ nguyên quyết định thêm 4 dòng ghi chú cuối chương 182 vào raw_ignore_lines trong novel.json và ghi nhận vào rules.md theo quy tắc bỏ ghi chú ngoài truyện. (orchestrator)
+- [#182] Câu cảm thán/chửi thề của Yu IlHan "God dammit." ở đoạn 91 — Tạm chọn: dịch tự nhiên thành "Chết tiệt thật chứ", không dịch "God" thành "Thượng Đế" (QA cảnh báo thiếu Thượng Đế nhưng là cảnh báo nhầm do ngữ cảnh cảm thán). → Giữ bản dịch tự nhiên "Chết tiệt thật chứ" (cảnh báo thiếu 'Thượng Đế' của QA là báo nhầm hợp lệ vì "God dammit" là câu chửi thề). (orchestrator)

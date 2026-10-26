@@ -52,4 +52,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#119, #126) Khi Yu IlHan nói chuyện chung với nhóm thuộc hạ (các elf, Erica), luôn dịch ngôi thứ hai số nhiều là "mọi người / các cậu", không dùng "các ngươi / các người".
 - (#152) Ba dòng ghi chú cuối chương của tác giả ('Author's notes' về thứ tự phẩm cấp vật phẩm) là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
 - (#167) Dòng ghi chú của editor ở đầu raw ('(E/N) Look at that, the last day of the year and I give you 14 new chapters how nice of me. anyway, I'm probably gonna start combining chapters cuz the arcs are starting to get longer. Maybe 2 or 3 chapters in one.') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
-- (#176) Ba dòng ghi chú cuối chương của tác giả ('Ghi chú tác giả:' và hai câu bình luận vui) là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
+- (#176) Ba dòng ghi chú cuối chương của tác giả ('Ghi chú tác giả:' và hai câu bình luận vui) là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
+- (#182) Bốn dòng ghi chú cuối chương của tác giả (lời nhắn về tâm lý nhân vật chính và cân bằng sức mạnh/bình luận độc giả) là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T20:39:11Z",
+  "generatedAt": "2026-10-26T20:45:35Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1091,6 +1091,12 @@
           "title": "Chương 181: Mọi Người Đều Là Hộ Vệ – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_181.md",
           "sha": "2dc9fb45994357e3819913e0a8f76e3d7cdbf424"
+        },
+        {
+          "number": 182,
+          "title": "Chương 182: Mọi Người Đều Là Hộ Vệ – 9",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_182.md",
+          "sha": "c8e93426e30a57549d165d48b1b35129349acdbd"
         }
       ]
     }
