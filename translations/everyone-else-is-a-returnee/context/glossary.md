@@ -48,7 +48,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 
 | EN | Alias | VI | Loại | Chương đầu | Ghi chú |
 |---|---|---|---|---|---|
-| Great Cataclysm | Great Cataclysms | Đại Tai Biến | hệ thống | 1 | Biến cố Trái Đất thăng cấp, mở khóa mana |
+| Great Cataclysm | Great Cataclysms; Cataclysm; Cataclysms | Đại Tai Biến | hệ thống | 1 | Biến cố nâng cấp thế giới khi mana tràn vào |
 | Akashic Records | Akashic Record | Hồ Sơ Akashic | hệ thống | 1 | Kho ghi chép vạn vật của vũ trụ |
 | Mana |  | Mana | hệ thống | 1 | Năng lượng ma thuật cấp cao của vũ trụ |
 | Status |  | Bảng chỉ số | hệ thống | 1 | Thông tin cá nhân trích từ Akashic Records |
@@ -135,7 +135,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Gireum |  | Gireum | địa danh | 13 | Khu vực và ga tàu điện ngầm ở Seoul |
 | Jeongneung |  | Jeongneung | địa danh | 13 | Khu vực lân cận núi Bukhansan ở Seoul |
 | Brown Big Bear |  | Gấu Lớn Nâu | quái vật | 14 | Quái vật gấu biến dị cấp 54 tại khu Jeongneung |
-| Critical Hit | Critical Hit Skill | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng |
+| Critical Hit | Critical Hit Skill; Fatal; Fatally | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng; cũng là tiền tố dòng thuộc tính trang bị (Fatal/Fatally) tăng tỷ lệ chí mạng |
 | One hit for me, one hit for you! |  | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
@@ -175,7 +175,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Japan |  | Nhật Bản | địa danh | 19 | Quốc gia láng giềng |
 | China |  | Trung Quốc | địa danh | 19 | Quốc gia láng giềng |
 | Fatally Sharp Steel Spear |  | Trường Thương Thép Sắc Bén Chí Mạng | vật phẩm | 20 | Ngọn thương thép của Yu IlHan sau khi rèn sửa, sở hữu 2 dòng thuộc tính Chí Mạng và Sắc Bén |
-| Fatal | Fatally | Chí Mạng | hệ thống | 20 | Tiền tố dòng thuộc tính tăng tỷ lệ đòn đánh chí mạng |
 | Blue House |  | Nhà Xanh | địa danh | 20 | Phủ Tổng thống Hàn Quốc |
 | RPG |  | RPG | khác | 20 | Từ viết tắt phổ thông được phép giữ nguyên: dịch là 'game RPG' khi chỉ thể loại trò chơi nhập vai (#13) và 'súng RPG' / 'RPG' khi chỉ súng phóng lựu chống tăng (#20) |
 | Giant Leopard |  | Báo Khổng Lồ | quái vật | 21 | Quái vật báo cấp 87 chuyển chức lần 2 đột biến tại Jongno |
@@ -189,7 +188,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Rasengan |  | Rasengan | khác | 23 | Được phép giữ nguyên: Tên riêng nhẫn thuật biểu tượng trong manga Naruto (tham chiếu văn hóa đại chúng do nhân vật nhắc đùa, không phải kỹ năng trong truyện) |
 | Troll |  | Troll | chủng tộc | 23 | Được phép giữ nguyên: Tên chủng tộc sinh vật thần thoại Bắc Âu / kỳ ảo phương Tây kinh điển (tương tự Elf, Orc, Goblin) |
 | Vast |  | Bao La | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
-| Heavenly |  | Thiên Giới | hệ thống | 23 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | SSS | SSS rank | Hạng SSS | hệ thống | 23 | Cấp độ khó hoặc phẩm cấp tối thượng |
 | Instakill |  | Nhất Kích Tất Sát | hệ thống | 24 | Giết chết mục tiêu chỉ bằng một đòn duy nhất |
 | Mount Baekdu | Baekdu | Núi Baekdu | địa danh | 24 | Ngọn núi cao nhất trên bán đảo Triều Tiên (Bạch Đầu Sơn) |
@@ -234,7 +232,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Core Metal | Core Metals | Kim Loại Lõi | vật phẩm | 33 | Kim loại thu hoạch từ quái vật (như Thiết Tâm), khi chế tác mana tốn ít mana hơn |
 | Asia |  | Châu Á | địa danh | 33 | Châu lục trên Trái Đất |
 | Black Full-plate Armor |  | Đại Khải Đen | vật phẩm | 33 | Bộ giáp kim loại toàn thân màu đen do Yu IlHan chế tạo từ tim Đại Thiết Tâm |
-| Shiveringly |  | Kinh Hãi | hệ thống | 33 | Tiền tố dòng thuộc tính tạo tác khiến đối phương rùng mình khiếp sợ |
+| Shiveringly | Frighteningly | Kinh Hãi | hệ thống | 33 | Tiền tố dòng thuộc tính tạo tác khiến đối phương rùng mình khiếp sợ |
 | Hard |  | Cứng | hệ thống | 19 | Tiền tố dòng thuộc tính tạo tác tăng độ cứng cáp |
 | Great Metal Heart |  | Cực Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
 | Huge Metal Heart |  | Khổng Đại Thiết Tâm | quái vật | 32 | Dạng tiến hóa tưởng tượng của Thiết Tâm do IlHan phỏng đoán |
@@ -247,8 +245,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Pokemon | P*k*m*n | Pokemon | khác | 34 | Được phép giữ nguyên: Thương hiệu trò chơi/anime nổi tiếng của Nhật Bản (tham chiếu văn hóa đại chúng) |
 | Record of Extreme Poison Resistance Skill |  | Ghi Chép Kỹ Năng Kháng Độc Cực Hạn | vật phẩm | 34 | Sách ghi chép chứa kỹ năng Kháng Độc Cực Hạn do thiên giới trao thưởng |
 | Shiveringly Hard and Secretive Black Full-plate Armor | Shiveringly Hard and Secretive Black Full plate arm or | Đại Khải Đen Kinh Hãi, Cứng và Kín Đáo | vật phẩm | 33 | Bộ giáp Đại Khải Đen sở hữu 3 dòng thuộc tính Kinh Hãi, Cứng và Kín Đáo |
-| Heaven |  | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần |
-| Deathgod |  | Tử Thần | khác | 35 | Khái niệm/hình tượng thần chết tước đoạt sinh mệnh từ bóng tối |
+| Heaven | Heavenly | Thiên giới | tổ chức | 1 | Nơi ở của Thượng Đế và các thiên thần; cũng dùng làm tiền tố thuộc tính tạo tác gắn với Thiên giới (Heavenly) |
+| Deathgod | Death god; death god; Reaper | Tử Thần | kỹ năng | 35 | Khái niệm/danh xưng thần chết tước đoạt sinh mệnh từ bóng tối (ch.35), kỹ năng tiến hóa từ Ẩn Thân (Death god/Deathgod, ch.70), và lựa chọn chức nghiệp chuyển chức lần 3 (Reaper, ch.85) |
 | Deathgod's black spear | Death god's Black Spear; Deathgod's Black Spear | Hắc Thương Tử Thần | vật phẩm | 35 | Ngọn thương đen phẩm cấp Độc Nhất của Yu IlHan rèn từ tim Thiết Tâm và Đại Thiết Tâm |
 | Curse |  | Lời Nguyền | hệ thống | 46 | Thuộc tính ma pháp hắc ám hoặc hiệu ứng trạng thái bất lợi ăn mòn cơ thể |
 | Flame Lizard | Flame Lizards | Thằn Lằn Lửa | quái vật | 35 | Quái vật biến dị chuyển chức lần 2 xuất hiện trong Hiện Tượng Tràn tại Los Angeles |
@@ -307,7 +305,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Army of Heaven | Heaven's Army | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
 | Atlatl |  | Atlatl | vật phẩm | 51 | Dụng cụ phóng lao cổ đại dùng đòn bẩy vung ném lao đi |
 | Destructive |  | Hủy Diệt | hệ thống | 51 | Tiền tố / dòng thuộc tính alpha của tạo tác tăng sức xuyên phá và sức tấn công trong Chế Tác Mana |
-| Frighteningly |  | Kinh Hãi | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác |
 | Frighteningly Destructive Metal Pile Bunker |  | Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi | vật phẩm | 51 | Vũ khí Súng Bắn Cọc làm từ Thiết Tâm và Dây Thun Khổng Lồ, sở hữu dòng thuộc tính Hủy Diệt Kinh Hãi tăng 40% sức xuyên phá và sức tấn công |
 | Moonlight |  | Nguyệt Quang | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng sức tấn công và độ chính xác dưới ánh trăng |
 | Rough |  | Thô Ráp | hệ thống | 51 | Tiền tố dòng thuộc tính tạo tác tăng tầm đánh |
@@ -419,7 +416,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Iron Wing |  | Thiết Dực | quái vật | 69 | Quái vật dạng bay cấp 66 phóng lông vũ bằng sắt tấn công con người |
 | Remote collecting of possession | remote collection | Thu hồi vật sở hữu từ xa | hệ thống | 69 | Dòng thuộc tính ma pháp thu gom vũ khí và vật sở hữu từ xa cho Túi Đeo Chéo |
 | Orc | orc; orcs | Orc | quái vật | 69 | Chủng tộc quái vật hình người xuất hiện trong đợt Vỡ Hầm Ngục tại Nhật Bản |
-| Death god | death god | Tử Thần | kỹ năng | 70 | Kỹ năng tiến hóa từ Ẩn Thân, giảm mana, tăng mạnh hiệu quả ẩn thân, không mất ẩn thân khi nhất kích tất sát mục tiêu từ đòn tập kích, cộng dồn tăng chỉ số khi liên tục diệt địch trong 5 phút |
 | Devil Monkey | devil monkey; devil monkeys | Khỉ Ác Ma | quái vật | 70 | Quái vật khỉ nhanh nhẹn cấp 65-80 nhảy nhót leo trèo trên các tòa nhà tàn phá Odawara |
 | Susanoo |  | Susanoo | khác | 70 | Tên thần bão tố trong thần thoại Thần đạo Nhật Bản, biệt danh người dân Nhật gán cho Yu IlHan khi thấy anh càn quét quái vật |
 | God of Storms | Storm God | Thần Bão Tố | danh hiệu | 70 | Danh xưng của thần Susanoo trong thần thoại Nhật Bản |
@@ -483,7 +479,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dark death god's Dragon fighter Black bone giant spear |  | Hắc Cốt Đại Thương Đấu Long Hắc Tử Thần | vật phẩm | 85 | Ngọn thương phẩm cấp Truyền Thuyết do Yu IlHan gia công từ Thiên Tùng Vân Kiếm kết hợp các dòng thuộc tính từ Thương Gai Diệt Long Hắc Tử Thần |
 | Black Bone Giant Spear |  | Hắc Cốt Đại Thương | vật phẩm | 85 | Vũ khí đại thương chế tác từ Thiên Tùng Vân Kiếm (xương của Yamata no Orochi) |
 | Great Jaw |  | Cự Ngạc | quái vật | 85 | Quái vật Long tộc chuyển chức 3 cấp 176 tại Daréu có hình dạng chắp vá với đôi cánh nhỏ và bộ hàm hung tợn |
-| Reaper |  | Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan |
 | God's Hammer |  | Thần Chùy | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan |
 | Blazing Reaper |  | Liệt Hỏa Tử Thần | chức nghiệp | 85 | Lựa chọn chức nghiệp chuyển chức lần 3 của Yu IlHan kết hợp hỏa diễm |
 | Lesser Dragon | Lesser Dragons | Hạ Đẳng Long | quái vật | 86 | Quái vật loài rồng bậc thấp thuộc Long tộc tại Daréu, bắt đầu có chữ rồng trong tên và biết dùng ma pháp |
@@ -583,7 +578,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lyel Knights |  | Kỵ Sĩ Đoàn Lyel | tổ chức | 132 | Lực lượng kỵ sĩ thuộc đại đế quốc Ferata Ma Kadra |
 | Battle of Competition | Battle of Competitions | Cuộc Chiến Cạnh Tranh | hệ thống | 132 | Cuộc cạnh tranh quy mô lớn giữa các thế giới trong giai đoạn Đại Tai Biến |
 | Blood flame |  | Huyết Hỏa | khác | 132 | Ngọn lửa sinh ra từ máu kích hoạt bởi dòng thuộc tính của Roi Hắc Long Gai Nhiệt Huyết Cuồng Loạn |
-| Cataclysm | Cataclysms | Đại Tai Biến | hệ thống | 133 | Biến cố nâng cấp thế giới khi mana tràn vào |
 | Pajin Meccadira |  | Pajin Meccadira | địa danh | 133 | Hoàng thành tráng lệ xây dựng cho hoàng đế Đế quốc Kadra |
 | Anpanman | Anpan-man | Anpanman | khác | 134 | Nhân vật hoạt hình bánh mì Nhật Bản Yu IlHan xem hồi nhỏ, có thể thay đầu để lập tức hồi phục sinh lực |
 | Pentagon |  | Lầu Năm Góc | địa danh | 135 | Trụ sở Bộ Quốc phòng Hoa Kỳ, Yu IlHan nhắc tới khi nói đùa về robot khổng lồ |
