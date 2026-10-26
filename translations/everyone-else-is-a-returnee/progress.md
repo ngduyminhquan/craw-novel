@@ -159,7 +159,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 152 |  | Chapter_152 - I Make My Own Home V.txt | I Make My Own Home V | reviewed |  |
 | 153 |  | Chapter_153 - I Make My Own Home VI.txt | I Make My Own Home VI | reviewed |  |
 | 154 |  | Chapter_154 - If I Open It, It’s The Gate To Hell I.txt | If I Open It, It’s The Gate To Hell I | done |  |
-| 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | todo |  |
+| 155 |  | Chapter_155 - If I Open It, It’s The Gate To Hell II.txt | If I Open It, It’s The Gate To Hell II | done |  |
 | 156 |  | Chapter_156 - If I Open It, It’s The Gate To Hell III.txt | If I Open It, It’s The Gate To Hell III | todo |  |
 | 157 |  | Chapter_157 - If I Open It, It’s The Gate To Hell IV.txt | If I Open It, It’s The Gate To Hell IV | todo |  |
 | 158 |  | Chapter_158 - If I Open It, It’s The Gate To Hell V.txt | If I Open It, It’s The Gate To Hell V | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -790,3 +791,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#153] Tên địa danh "London", "Milan": giữ nguyên hay phiên âm? → Giữ nguyên dạng Latin "London", "Milan" thống nhất với các thành phố quốc tế khác trong truyện (New York, Los Angeles, Tokyo). (orchestrator)
 - [#152] Tên đại dinh thự kiêm pháo đài chiến đấu "Bittersweet Persona": giữ nguyên tiếng Anh hay Việt hóa? → Giữ nguyên tên riêng tiếng Anh "Bittersweet Persona" (tương tự các tên riêng tiếng Anh khác như Vanguard, Metal Knights, Burning Flag). (orchestrator)
 - [#153] Xưng hô của Michael Smithson ở chương 153 đoạn 93 ("một mình ta sẽ trấn thủ!" hay "một mình tôi sẽ trấn thủ!"): chọn phương án nào? → Đổi sang xưng "tôi" (cả ở đoạn 80, 90, 93) để nhất quán với cách xưng hô "tôi - các cậu" của Michael Smithson với các thành viên clan. (orchestrator)
+- [#155] 'Magic engineering' (마법공학): kỹ năng bị động kiêm ngành học thuật; đã tạm chốt 'Ma Pháp Công Học' theo Hán Việt; xin xác nhận giữ nguyên hay đổi thành 'Kỹ Thuật Ma Pháp'. → Chốt dịch "Magic engineering" là "Ma Pháp Công Học" theo đúng quy tắc dịch tên kỹ năng/học thuật sang Hán Việt ngắn gọn trong rules.md. (orchestrator)

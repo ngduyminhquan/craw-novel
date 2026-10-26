@@ -952,6 +952,12 @@ Tại phòng điều khiển, IlHan tận dụng cơ chế trực tiếp vận h
 Lượng mana dày đặc từ quái vật ngã xuống ngưng tụ thành một vòng xoáy mana khổng lồ tự nhiên hình thành cổng kết nối dị giới ngay trong khuôn viên dinh thự; tưởng nhầm đó là Hiện Tượng Tràn, IlHan điên cuồng dồn toàn bộ mana kích nổ vòng xoáy khiến nó tan biến hoàn toàn mà không mở ra cánh cổng nào, đồng thời nhận được lượng EXP bí ẩn cùng ghi chép bị che dấu chấm hỏi giúp anh thăng liền 2 cấp lên Lv 146.
 Cảnh kết thúc: Mặc cho các thiên thần chết lặng vì kinh ngạc trước việc anh phá hủy cánh cổng kết nối dị giới và nghi ngờ Hồ Sơ Akashic bị dính lỗi, IlHan vẫn thản nhiên tiếp tục cuộc chiến phòng thủ dinh thự trong những ngày đầu của Đại Tai Biến lần 2.
 
+## 155
+Suốt hai tuần phòng thủ dinh thự Bittersweet Persona, IlHan cùng thuộc hạ tiêu diệt vô số quái vật và liên tục kích nổ các vòng xoáy mana để cày cấp lên Lv 155, trong khi các thiên thần thảo luận về mối nguy hại khi các cánh cổng kết nối dị giới tự động mở ra khắp Trái Đất tạo cơ hội cho Quân Đội Ánh Sáng Rực Rỡ và Quân Đội Ma Hủy Diệt lôi kéo các thế giới khác.
+Trận chiến lắng dịu sau 20 ngày ác chiến, quét sạch khoảng 20% lượng quái vật trên toàn cầu và tích tụ lượng mana đậm đặc bao quanh dinh thự thành làn sương vĩnh cửu; các thuộc hạ kiệt sức lui về nghỉ ngơi, còn Yumir đạt Lv 140 ngoan ngoãn ngủ say trong tay IlHan.
+Liera trở về từ Thiên Giới trao thưởng hoàn thành Nhiệm Vụ Thiên Giới 07 và 08 (+20 mọi chỉ số, +10 Sức mạnh) cùng kỹ năng bị động mới 'Ma Pháp Công Học' giúp tăng cường hiệu quả tạo tác và Chế Tác Mana, nhưng bản thân cô lại không biết cách rèn luyện kỹ năng này.
+Cảnh kết thúc: Giữa lúc IlHan đang bế tắc và khó xử trước sự xuất hiện bất ngờ của hai vị khách Kang MiRae và Na YuNa, MiRae bất ngờ tiết lộ thế giới cô từng đến có nền ma pháp công học vô cùng phát triển, mở ra lối thoát cho anh.
+
 
 
 

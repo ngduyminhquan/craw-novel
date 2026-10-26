@@ -621,6 +621,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Eternal rank |  | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
 | Normal rank |  | Bình Thường | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm cơ bản nhất (thứ tự phẩm cấp: Bình Thường -> Hiếm -> Độc Nhất -> Truyền Thuyết -> Sử Thi -> Hỗn Loạn -> Bán Thần -> Thần -> Vĩnh Cửu) |
 | Great Explosion |  | Đại Bạo Tạc | kỹ năng | 153 | Ma pháp công kích bộc phá cực mạnh do Carina Malatesta thi triển |
+| Magic engineering | Magical engineering | Ma Pháp Công Học | kỹ năng | 155 | Kỹ năng bị động giúp dễ dàng phát huy sức mạnh của tạo tác và tăng tỷ lệ thành công của Chế Tác Mana, đồng thời là một ngành học thuật |
+| Pacific | Pacific Ocean | Thái Bình Dương | địa danh | 155 | Đại dương lớn nhất Trái Đất, nơi các hòn đảo bị bỏ hoang cho quái vật hoành hành |
 | Milan |  | Milan | địa danh | 153 | Thành phố ở Ý, nơi Carina Malatesta cùng clan chuẩn bị tới chi viện |
 | London |  | London | địa danh | 153 | Thủ đô nước Anh, nơi Michael Smithson cùng clan Metal Knights chiến đấu |
 | Melotra |  | Melotra | địa danh | 153 | Thế giới khác nơi Michael Smithson từng trải qua 10 năm chuyển sinh |

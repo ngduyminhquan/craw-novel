@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T15:01:45Z",
+  "generatedAt": "2026-10-26T15:08:47Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -929,6 +929,12 @@
           "title": "Chương 154: Nếu mở ra, đó là Cổng Địa Ngục I",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_154.md",
           "sha": "afba850992eec968bf947a00737cd4ac3728dcfe"
+        },
+        {
+          "number": 155,
+          "title": "Chương 155: Nếu mở ra, đó là Cổng Địa Ngục II",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_155.md",
+          "sha": "b8e093d5aa4866c83042ea09fcbe354c2dad550c"
         }
       ]
     }
