@@ -57,4 +57,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#183) Ba dòng ghi chú cuối chương của tác giả ('Life always changes...', 'What’s Na YuNa’s secret...', 'Yu IlHan has finally decided!') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
 - (#184) Hai dòng ghi chú cuối chương của tác giả ('No matter how strong...', 'Finally, a 4th-class mission...') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
 - (#186) Dòng ghi chú cuối chương của tác giả ('Na YuNa and Liera’s fierce psychological warfare') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
-- (#187) Dòng ghi chú cuối chương của tác giả ('Just what is happening? Find out in the next chapter') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
+- (#187) Dòng ghi chú cuối chương của tác giả ('Just what is happening? Find out in the next chapter') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.
+- (#188) Hai dòng ghi chú cuối chương của tác giả ('Your first kiss is not OOO, but this XXX!...', 'Until when does Yu IlHan have to be dropped out!...') là lời nhắn ngoài truyện, được bỏ qua và thêm vào raw_ignore_lines trong novel.json.

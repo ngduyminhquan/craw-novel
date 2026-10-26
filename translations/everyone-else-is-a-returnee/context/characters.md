@@ -206,6 +206,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 183: Cùng Na YuNa đi dò tìm ma pháp trận bí mật; bế bổng Na YuNa kết hợp Bật Nhảy tinh thông và cánh Hiệu Triệu Diệt Vong bay đến mục tiêu trong 6 phút (thay vì 1 tháng); nhận bùa lợi tăng 30% sức mạnh từ Na YuNa rồi dùng Súng Bắn Cọc nạp tầng 6 giáng đòn Chí Mạng phá tan ma pháp trận; trên đường bay về duy trì Ẩn Thân phóng thương tiêu diệt quái vật để rèn luyện kỹ năng Tử Thần, nhắm vào sau lưng tên thiên thần sa ngã chuyển chức 5 thuộc Quân Đội Ánh Sáng Rực Rỡ.
 - Trạng thái tính đến chương 184: Vừa bay vừa phóng thương hạ sát 104 quái vật từ trên cao trong trạng thái Ẩn Thân để tăng 78,45% mọi chỉ số từ kỹ năng Tử Thần; kết hợp Quái Lực Lv 99, Siêu Việt Tái Sinh, ngọn lửa trắng từ Ngọn Lửa Vĩnh Cửu, Long Huyết và Bát Vĩ Long Thương tung 8 kích Bất Khả Họa Quỹ Đạo Thương nhất kích tất sát thực thể cấp cao Dmirel Lv 307 của Quân Đội Ánh Sáng Rực Rỡ; Bất Khả Họa Quỹ Đạo Thương đạt cấp độ 85, thuần thục Quái Lực, Long Huyết đạt cấp độ 70, nhận danh hiệu 'Bất Khả Xâm Phạm' (+20% mọi chỉ số khi đấu kẻ địch đẳng cấp cao hơn, tránh đòn chí tử một kích), đạt cấp độ 199 (cực hạn chuyển chức 3) và mở khóa 4 lựa chọn chức nghiệp chuyển chức 4 (Thương Sư, Liệt Hỏa Chúa Tể, Tiểu Cự Nhân, Kẻ Giáng Địa Ngục).
 - Trạng thái tính đến chương 186: Nhờ danh hiệu Bất Khả Xâm Phạm tăng 20% năng lực trước đối thủ từ chuyển chức 4 trở lên, phục kích hạ sát tên thiên thần sa ngã thứ hai của Quân Đội Ánh Sáng Rực Rỡ; Bất Khả Họa Quỹ Đạo Thương thăng lên cấp 86, Tử Thần thăng lên cấp 90, hoàn thành 1/1 yêu cầu tiêu diệt tồn tại chuyển chức 5 cho nhiệm vụ Kẻ Giáng Địa Ngục; cùng Na YuNa càn quét phá hủy ma pháp trận ở hàng chục thế giới với tốc độ trung bình 25 phút mỗi thế giới.
+- Trạng thái tính đến chương 188: Không bị dính lời nguyền trục xuất nhờ Kháng Lời Nguyền Cấp Cao; bị Na YuNa cưỡng hôn cướp nụ hôn đầu ngay trước khi cô biến mất; một lần nữa kẹt lại đơn độc trên Trái Đất trong Đại Tai Biến lần 3 mà không tìm thấy bóng dáng bất kỳ đứa trẻ hay con người nào.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -232,6 +233,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 136: Lần theo dấu vết kẻ phản bội liên hệ với hoàng đế Kadra đang tiến về cánh cổng không gian, trao nụ hôn má khích lệ cho Yu IlHan rồi bay đi thanh trừng kẻ phản nghịch.
 - Trạng thái tính đến chương 181: Gặp gỡ mẹ của Yu IlHan và xưng nhận anh là "IlHan của cháu"; giải thích cho IlHan về động cơ các thế lực thực thể cấp cao dòm ngó Trái Đất vì nơi này sắp chuyển mình thành thế giới bậc cao.
 - Trạng thái tính đến chương 182: Tự tay bẻ gãy đôi vòng hào quang liên lạc để từ chối lệnh triệu tập về Thiên giới, dứt khoát chọn ở lại Trái Đất làm thiên thần bảo hộ bên cạnh Yu IlHan.
+- Trạng thái tính đến chương 188: Nhận ra âm mưu lây nhiễm nguyền thuật của phe địch; nổi cơn ghen tuông lôi đình khi Na YuNa cướp nụ hôn đầu của IlHan; bật cười trêu chọc IlHan ngây ngô trước tình cảm của YuNa; kẹt lại Trái Đất cùng IlHan trong tình trạng mất liên lạc hoàn toàn với Thiên giới.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -352,6 +354,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 180: Cấp độ tăng vọt và thuần thục sức mạnh của Nữ Thần Sắc Đẹp khiến nhan sắc tiệm cận ngưỡng thực thể cấp cao; được Yu IlHan tặng chiếc vòng đội đầu phẩm cấp Sử Thi có khả năng phòng ngự trước thực thể cấp cao.
 - Trạng thái tính đến chương 183: Cùng Yu IlHan đi làm nhiệm vụ phá ma pháp trận; dùng quyền trượng và thánh lực Nữ Thần Leytna định vị thành công ma pháp trận; bị IlHan bế bay với vận tốc kinh hoàng khiến cô cắn phải lưỡi và nôn mửa; ban bùa lợi tăng 30% sức mạnh giúp IlHan phá ma pháp trận; trên đường bay về sà vào lòng IlHan và thẳng thắn bày tỏ cảm tình chân thành với anh.
 - Trạng thái tính đến chương 186: Cùng Yu IlHan quét sạch ma pháp trận ở hàng chục thế giới; tò mò về bí quyết bay lượn và quá khứ của IlHan; trêu chọc Liera là "bà cô"; thích thú khi IlHan vô tình khen ngợi mùi hương cơ thể tự nhiên thơm ngát của mình.
+- Trạng thái tính đến chương 188: Bị lời nguyền trục xuất sang Breya do Đại Tai Biến lần 3 kích hoạt; trước khi biến mất đã dặn IlHan sang tìm mình và táo bạo cướp nụ hôn đầu của anh để khẳng định tình cảm.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.

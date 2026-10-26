@@ -1155,6 +1155,12 @@ Trên đường bay hết tốc lực trở về Trái Đất, cánh cổng bấ
 Liera nhận định Đại Tai Biến lần 3 của Trái Đất đã chính thức bùng nổ khiến mana tăng vọt dữ dội và toàn bộ cánh cổng kết nối bị cắt đứt, đồng nghĩa các ma pháp trận của phe địch ở thế giới khác trở nên hoàn toàn vô dụng.
 Cảnh kết thúc: Trong lúc IlHan và Liera ngơ ngác trước sự vô nghĩa của các ma pháp trận, Na YuNa trong vòng tay IlHan bất ngờ bắt đầu mờ nhạt dần và sắp sửa tan biến.
 
+## 188
+Na YuNa và Liera nhận ra các ma pháp trận thực chất là mưu đồ lây nhiễm khí tức nguyền rủa vô hại vào con người, khiến toàn bộ người Trái Đất bị trục xuất về các thế giới họ từng qua lại ngay khi Đại Tai Biến lần 3 bùng nổ; chỉ riêng IlHan nhờ có Kháng Lời Nguyền Cấp Cao nên không bị dính bùa.
+Một thanh âm phẫn nộ quyền năng (từng nghe thấy từ hầm ngục trước đây) vang lên xua đuổi con người và thúc đẩy địa hình Trái Đất biến đổi dữ dội; Na YuNa không chống cự nổi sự trục xuất nên dặn IlHan sang Breya tìm mình, rồi bất ngờ cưỡng hôn cướp nụ hôn đầu của anh trước mặt Liera trước khi hoàn toàn tan biến.
+Liera vừa bực tức vừa trêu chọc IlHan ngây ngô trước tình cảm của Na YuNa; IlHan gác lại bối rối để đối mặt thực tế mình lại bị bỏ lại đơn độc trên Trái Đất trong tình cảnh bị cô lập hoàn toàn với Thiên giới.
+Cảnh kết thúc: Sực nhớ tới Yumir và những đứa trẻ sinh ra sau Đại Tai Biến không có dị giới để bị trục xuất tới, IlHan hốt hoảng giương cánh Hiệu Triệu Diệt Vong bay rà soát khắp toàn cầu nhưng tuyệt vọng nhận ra không còn một bóng người nào khác.
+
 
 
 
