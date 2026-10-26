@@ -58,7 +58,7 @@ Ngay sau khi Yu IlHan dứt lời với Liera, Đồng Hồ Cát Vĩnh Hằng đ
 
 [Hủy diệt, đập nát cái tòa nhà chướng mắt kia đi!]
 
-Lũ quái vật từng bị xua đuổi trước hai tháng mà không kéo dài lấy một khoảnh khắc cố gắng tràn vào khi chẳng hề hay biết chuyện gì đã xảy ra, nhưng Pháo Đài Bay Kẻ Hủy Diệt vừa được kích hoạt chẳng dễ dàng để bất kỳ kẻ nào trong số chúng bước qua.
+Lũ quái vật từng bị đánh đuổi ra ngoài trước khoảng thời gian hai tháng ngưng đọng chỉ thoáng qua trong chớp mắt ấy cố gắng tràn vào khi chẳng hề hay biết chuyện gì đã xảy ra, nhưng Pháo Đài Bay Kẻ Hủy Diệt vừa được kích hoạt chẳng dễ dàng để bất kỳ kẻ nào trong số chúng bước qua.
 
 Đầu tiên, một trận động đất rung chuyển ầm ầm khắp khu vực khiến chúng phải lùi lại, và một bức tường thành cao sừng sững trồi lên ở chu vi bên ngoài pháo đài bay. Bức tường với dòng điện chết chóc chạy qua lập tức làm tê liệt toàn bộ quái vật trong khu vực.
 

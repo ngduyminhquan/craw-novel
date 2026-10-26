@@ -197,9 +197,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 190 |  | Chapter_190 - The Path I Walk – 8.txt | The Path I Walk – 8 | reviewed |  |
 | 191 |  | Chapter_191 - I Create – 1.txt | I Create – 1 | reviewed |  |
 | 192 |  | Chapter_192 - I Create – 2.txt | I Create – 2 | reviewed |  |
-| 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | done |  |
-| 194 |  | Chapter_194 - I Create – 4.txt | I Create – 4 | done |  |
-| 195 |  | Chapter_195 - I Create – 5.txt | I Create – 5 | done |  |
+| 193 |  | Chapter_193 - I Create – 3.txt | I Create – 3 | reviewed |  |
+| 194 |  | Chapter_194 - I Create – 4.txt | I Create – 4 | reviewed |  |
+| 195 |  | Chapter_195 - I Create – 5.txt | I Create – 5 | reviewed |  |
 | 196 |  | Chapter_196 - I Create – 6.txt | I Create – 6 | todo |  |
 | 197 |  | Chapter_197 - I Create – 7.txt | I Create – 7 | todo |  |
 | 198 |  | Chapter_198 - I Create – 8.txt | I Create – 8 | todo |  |

@@ -204,7 +204,7 @@ Khi cô hỏi lại lần nữa, Yu IlHan làu bàu rằng Liera chỉ toàn h�
 
 [Được rồi!]
 
-"Úi chàaaa!"
+"Oáiiiiii!"
 
 Liera đột nhiên tập kích Yu IlHan ngay trong chiếc thùng chật hẹp này, ôm chặt lấy anh!
 
