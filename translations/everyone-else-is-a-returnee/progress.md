@@ -217,7 +217,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 210 |  | Chapter_210 - I, Too – 3.txt | I, Too – 3 | reviewed |  |
 | 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | done |  |
 | 212 |  | Chapter_212 - I, Too – 5.txt | I, Too – 5 | done |  |
-| 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | todo |  |
+| 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | done |  |
 | 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | todo |  |
 | 215 |  | Chapter_215 - I, Too – 8.txt | I, Too – 8 | todo |  |
 | 216 |  | Chapter_216 - I’m Coming To Get You Now – 1.txt | I’m Coming To Get You Now – 1 | todo |  |
@@ -877,3 +877,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#211] Cụm từ "retire a character" trong câu thoại meta của Yu IlHan ở đoạn 100 — Tạm chọn: "hết vai". Phương án khác: "khai tử nhân vật", "cho bay màu". Tạm dùng trong bản dịch: "hết vai". → Giữ nguyên hết vai (orchestrator)
 - [#212] Xử lý dòng đùa cuối raw "Just kidding – KouKouSeiDesu" — Tạm chọn: Dịch thành "Đùa đấy." và lược bỏ tên translator tiếng Anh KouKouSeiDesu theo quy tắc bỏ T/N. → Chấp nhận dịch thành Đùa đấy. và lược bỏ tên translator KouKouSeiDesu (orchestrator)
 - [#212] Xưng hô giữa Yu IlHan và Liera sau khi tỏ tình và hôn nhau — Tạm chọn: Giữ nguyên "tôi - cô" / "tôi - cậu" theo đúng raw chương 212; theo dõi các chương sau nếu có chuyển biến sang xưng hô đôi lứa ("anh - em"). → Giữ nguyên tôi - cô và tôi - cậu (orchestrator)
+- [#213] Tên kỹ năng "Falling down" (dung hợp 7 kỹ năng của Hell Bringer, kéo tụt bậc kẻ địch trong biển lửa) — Tạm chọn: "Đọa Lạc". Phương án khác: "Trầm Luân", "Giáng Lạc". → Giữ nguyên Đọa Lạc (orchestrator)
+- [#213] Tên kỹ năng "God Force" (dung hợp Quái Lực và Chí Mạng, tăng 300% sức mạnh cơ bắp) — Tạm chọn: "Thần Lực". Phương án khác: "Thần Kình". → Giữ nguyên Thần Lực (orchestrator)

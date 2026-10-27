@@ -1301,3 +1301,10 @@ Bộ giáp màu hồng tan chảy cùng dòng máu của Yu IlHan kích hoạt d
 Trước sự gặng hỏi dồn dập và đe dọa cưỡng bức hài hước của Liera, IlHan chính thức vượt qua sự nhút nhát để thổ lộ tình cảm chân thành: "Tôi cũng rất thích cô. Cho nên.... tôi ..yêu ..cô".
 Bị Mystic trêu chọc và dọa thả pháo đài bay đè bẹp, IlHan quyết định không giữ thế bị động mà chủ động ôm cằm Liera trao cho cô nụ hôn đầu đầy bất ngờ.
 Cảnh kết thúc: Màn chim chuột ngọt ngào khiến Mystic nổi giận điều khiển pháo đài bay múa break-dance giữa không trung, còn Orochi trong Hỏa Ngục Long Thân thầm tấm tắc xem kịch hay, khép lại arc "Tôi Cũng Thế" với trò đùa kết thúc có hậu của tác giả.
+
+## 213
+Sau khi trở về pháo đài bay, Yu IlHan và Liera thống nhất giữ nguyên tên Liera; IlHan đẩy cô vào bồn tắm nghỉ ngơi hồi phục rồi ra ngoài kiểm tra các biến đổi sau chuyển chức 4.
+Nhờ kỹ năng Ký Lục giúp hiểu thấu Hồ Sơ Akashic và Liệt Hỏa đạt cấp tối đa kèm Chúc Phúc Của Nữ Thần Lửa, IlHan thăng tiến thành Kẻ Giáng Địa Ngục Lv 270, đồng thời mở khóa 2 kỹ năng dung hợp bá đạo: Đọa Lạc (dung hợp 7 kỹ năng) và Thần Lực (dung hợp Quái Lực và Chí Mạng, tăng 300% Sức mạnh).
+Bị Mystic trêu chọc chuyện tình cảm, IlHan ngượng ngùng lăn lộn khắp dinh thự với tốc độ vượt xa kỷ lục Sungdaein Bolt thì bất ngờ cảm nhận được dao động mana khổng lồ từ hầm ngục giam giữ Yumir và những đứa trẻ đang tan biến do chủ nhân hầm ngục đã chết.
+Cảnh kết thúc: Liera vội vã lao khỏi bồn tắm đòi đi ứng cứu ngay, IlHan liền nghiêm giọng nhắc cô mặc quần áo vào trước đã.
+

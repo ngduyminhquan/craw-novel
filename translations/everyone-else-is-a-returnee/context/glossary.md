@@ -144,7 +144,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Jeongneung |  | Jeongneung | địa danh | 13 | Khu vực lân cận núi Bukhansan ở Seoul |
 | Brown Big Bear |  | Gấu Lớn Nâu | quái vật | 14 | Quái vật gấu biến dị cấp 54 tại khu Jeongneung |
 | Critical Hit | Critical Hit Skill; Fatal; Fatally | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng; cũng là tiền tố dòng thuộc tính trang bị (Fatal/Fatally) tăng tỷ lệ chí mạng |
-| One hit for me, one hit for you! | One hit for you, one hit for me | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
+| One hit for me, one hit for you! | One hit for you, one hit for me; One hit for him, one hit for you | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
@@ -396,7 +396,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |
 | Holy stone | holy stones; Holy stone; Holy Stone | Thánh thạch | vật phẩm | 65 | Khoáng thạch chứa năng lượng thánh lực |
 | Gangnam reinforced area | Gangnam reinforced district | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |
-| God of Smithing | God of blacksmithing; god of blacksmithing; god of smithing | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic (ban phước lành và ghi chép cho Yu IlHan ở chương 152) |
+| God of Smithing | blacksmith god; God of blacksmithing; god of blacksmithing; god of smithing | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic (ban phước lành và ghi chép cho Yu IlHan ở chương 152) |
 | God of Warriors |  | Thần Chiến Binh | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép chiến đấu trong Hồ Sơ Akashic |
 | Vanguard |  | Vanguard | tổ chức | 66 | Tên thương hiệu và công ty sản xuất trang bị do Yu IlHan thành lập |
 | Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
@@ -699,3 +699,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Thunder Knights |  | Kỵ Sĩ Sấm Sét | tổ chức | 208 | Tên nhóm 2.300 đứa trẻ sử dụng năng lực hệ sét tự đặt cho mình dưới quyền chỉ huy của Yumir |
 | Sonic |  | Sonic | khác | 212 | Được phép giữ nguyên: Nhím Sonic, nhân vật biểu tượng văn hóa đại chúng nổi tiếng với tốc độ siêu thanh |
 | Infernal Dragon |  | Hỏa Ngục Long | khác | 212 | Thực thể / tên gọi của con rồng hỏa ngục bên trong bộ giáp Hỏa Ngục Long Thân |
+| Falling Down | Falling down | Đọa Lạc | kỹ năng | 213 | Kỹ năng độc nhất dung hợp từ 7 kỹ năng (Liệt Hỏa, Tử Thần, Thu Thập Tử Vong, Linh Hồn Phụ Ma, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao) của Kẻ Giáng Địa Ngục |
+| God Force |  | Thần Lực | kỹ năng | 213 | Kỹ năng dung hợp từ Quái Lực và Chí Mạng khi Yu IlHan đạt chuyển chức lần 4, tăng 300% sức mạnh cơ bắp |
