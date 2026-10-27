@@ -61,6 +61,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dmirel | tên thiên thần sa ngã / Dmirel / hắn | 184 | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Tibera | Tibera / thiên thần Tibera | 190 | Thiên thần cấp cao chuyển chức lần 6 |
 | Mystic | cô / Mystic / cô nàng | 204 | Tàn niệm thực thể cấp cao chuyển chức 5 được IlHan thu phục và đặt tên |
+| Chaos Will | nó / chiếc bóng / Ý Chí Hỗn Loạn | 211 | Thực thể cấp cao chuyển chức 6 sinh từ tập hợp ý thức oán hận Trái Đất |
 
 ## Giữa các nhân vật
 
@@ -281,6 +282,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mystic | Yu IlHan | tôi / ta | ngươi / chủ nhân | 204 | Ban đầu đối địch xưng ta gọi ngươi, sau khi bị Thống Trị thì xưng tôi gọi chủ nhân |
 | Liera | Mystic | tôi | cô | 204 | Liera đối thoại và nhận định về Mystic |
 | Mystic | Liera | tôi | cô | 204 | Mystic đáp lời Liera |
+| Liera | Chaos Will | ta | ngươi | 210 | Liera chặn đánh chiếc bóng bảo vệ Yu IlHan |
+| Chaos Will | Liera | ta / bọn ta | ngươi | 210 | Chiếc bóng đối đầu Liera |
+| Yu IlHan | Chaos Will | ta | ngươi | 211 | Yu IlHan thức tỉnh chuyển chức 4 giáng đòn trừng phạt kẻ tập kích |
+| Chaos Will | Yu IlHan | ta / bọn ta | ngươi / tên con người | 210 | Chiếc bóng oán hận IlHan |
 
 
 

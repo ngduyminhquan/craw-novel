@@ -215,7 +215,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 208 |  | Chapter_208 - I, Too – 1.txt | I, Too – 1 | reviewed |  |
 | 209 |  | Chapter_209 - I, Too – 2.txt | I, Too – 2 | reviewed |  |
 | 210 |  | Chapter_210 - I, Too – 3.txt | I, Too – 3 | reviewed |  |
-| 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | todo |  |
+| 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | done |  |
 | 212 |  | Chapter_212 - I, Too – 5.txt | I, Too – 5 | todo |  |
 | 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | todo |  |
 | 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -873,3 +874,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#208] Tên nhóm "Thunder Knights" của 2.300 đứa trẻ hệ sét do Yumir chỉ huy — Tạm chọn: "Kỵ Sĩ Sấm Sét". Phương án khác: "Hiệp Sĩ Sấm Sét". → Giữ nguyên Kỵ Sĩ Sấm Sét (orchestrator)
 - [#209] Đoạn 84 raw EN ghi "3 years passed like that" (Cứ thế 3 năm trôi qua), bản dịch tạm giữ nguyên mốc 3 năm theo raw dù mốc thời gian nhảy khá nhanh so với bối cảnh vài tháng gần đây; cần xác nhận giữ nguyên hay hiệu chỉnh nếu raw Hàn gốc là "3 tháng". → Giữ nguyên 3 năm theo đúng raw (orchestrator)
 - [#210] Tên kỹ năng mới 'Record' (tiến hóa từ Language) — Tạm chọn: 'Ký Lục' (Hán Việt chuẩn của 기록, phù hợp quy tắc Hán Việt hóa kỹ năng; không thêm vào bảng glossary vì 'record' nằm trong mục Đã loại). Phương án khác: 'Ghi Chép' (thuần Việt). → Giữ nguyên Ký Lục (không thêm vào bảng glossary để tránh cảnh báo false positive với từ thường record) (orchestrator)
+- [#211] Tên thực thể chuyển chức 6 "Chaos Will" (Lv 403) — Tạm chọn: "Ý Chí Hỗn Loạn". Phương án khác: "Hỗn Loạn Chi Ý", "Tập Hợp Hỗn Loạn". Tạm dùng trong bản dịch: "Ý Chí Hỗn Loạn". → Giữ nguyên Ý Chí Hỗn Loạn (orchestrator)
+- [#211] Cụm từ "retire a character" trong câu thoại meta của Yu IlHan ở đoạn 100 — Tạm chọn: "hết vai". Phương án khác: "khai tử nhân vật", "cho bay màu". Tạm dùng trong bản dịch: "hết vai". → Giữ nguyên hết vai (orchestrator)

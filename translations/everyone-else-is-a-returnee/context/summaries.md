@@ -1289,3 +1289,9 @@ Chiếc bóng bí ẩn tập kích xuyên thủng bụng Yu IlHan nhưng đòn c
 Mystic liều mình xả pháo sáng cầm chân kẻ địch; nhận thấy nguy cơ, Liera bất chấp bị tước tư cách thực thể cấp cao, rụng cánh đổ máu trắng đã dũng cảm tỏ tình với IlHan và dùng ngọn thương Thần Tình Yêu đâm thủng chiếc bóng để câu giờ bảo vệ anh.
 Cảnh kết thúc: Kỹ năng Ngôn Ngữ hoàn tất tiến hóa thành Ký Lục, kéo theo Liệt Hỏa đạt cấp tối đa giúp IlHan nhận được Chúc Phúc Của Nữ Thần Lửa và mở khóa tư cách tiến hành chuyển chức lần 4.
 
+
+## 211
+Liera dốc trọn sức lực áp đảo và đâm thủng vô số lỗ trên cơ thể chiếc bóng chuyển chức 6 bất chấp cơ thể bị biến dạng và hoại tử do mất đi sức mạnh thực thể cấp cao, nhưng đành gục ngã vì phước lành Thần Tình Yêu cưỡng chế bảo toàn mạng sống ngăn cô bước tiếp.
+Kẻ địch toan rút lui thì Yu IlHan — vừa thăng lên chuyển chức 4 — lập tức giăng kết giới ngọn lửa trắng, dùng xích lửa trói chặt và vung thương thiêu rụi hoàn toàn Ý Chí Hỗn Loạn Lv 403.
+IlHan chạy đến bên Liera đang thoi thóp, dịu dàng trấn an và rạch cổ tay lấy máu nhỏ lên bộ giáp để bắt đầu quá trình tái sinh cho cô.
+Cảnh kết thúc: IlHan tuyên bố sẽ nắm lấy mọi thứ và không buông tay bất kỳ điều gì, trong khi quá trình tái sinh của Liera chính thức bắt đầu.

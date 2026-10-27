@@ -64,6 +64,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dmirel |  | Dmirel | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ canh giữ ma pháp trận bí mật, bị Yu IlHan tập kích tiêu diệt | 184 |
 | Tibera |  | Tibera | Thiên thần cấp cao chuyển chức lần 6 của Quân Đội Thiên Giới, người thông báo quyết định bỏ mặc Trái Đất cho Erta | 190 |
 | Mystic | Mistic | Mystic | Tàn niệm thực thể cấp cao chuyển chức 5 sinh ra trên Trái Đất, bị Yu IlHan thu phục thành thuộc hạ | 204 |
+| Chaos Will |  | Ý Chí Hỗn Loạn | Thực thể cấp cao chuyển chức 6 (Lv 403) sinh ra từ tập hợp ý thức oán hận của các sinh vật Trái Đất bị bỏ lại nghìn năm, ẩn thân tập kích Yu IlHan nhưng bị Liera chặn đánh trọng thương và bị IlHan tiêu diệt | 211 |
 
 ## Chi tiết
 
@@ -576,3 +577,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 205: Được Yu IlHan phù phép nhập vào Pháo Đài Bay Kẻ Hủy Diệt làm thể xác mới kiêm người quản lý; cãi nhau với Orochi vì chê Orochi yếu; trải qua nhiều ngày luyện tập để làm quen điều khiển pháo đài bay và Gương Hủy Diệt; chứng kiến IlHan dùng thi thể cũ và ma thạch chuyển chức 5 để rèn áo giáp mới.
 - Trạng thái tính đến chương 207: Cùng Yu IlHan quản lý pháo đài bay săn quét quái vật trên Trái Đất; hốt hoảng khi một thực thể chuyển chức 5 đột biến nửa người nửa sói nhảy vọt lên xâm nhập vào bên trong kết giới của pháo đài để vô hiệu hóa Bách Nhãn, nhưng IlHan kịp thời xuất hiện trảm sát kẻ địch.
 - Trạng thái tính đến chương 209: Thích thú với phong cách quân đội; điều khiển pháo đài bay phối hợp oanh tạc diệt quái và quét sạch toàn bộ chiến trường sau khi IlHan hạ 3 thực thể chuyển chức 5.
+
+### Chaos Will
+- Giới tính, vai trò: Vô tính, thực thể cấp cao chuyển chức 6 (Lv 403) hình thành từ tập hợp ý thức và oán hận nghìn năm của các sinh vật Trái Đất bị bỏ lại.
+- Đặc điểm / năng lực: Cơ thể dạng bóng lỏng đen không hình thù cố định, sở hữu kỹ năng Ẩn Thân thượng thừa, sử dụng thương đen; mang ý niệm báo thù tột cùng nhắm vào Yu IlHan và Trái Đất.
+- Xuất hiện tính đến chương 210–211: Phục kích đâm thủng bụng Yu IlHan lúc anh đang tiến hóa kỹ năng; bị Mystic bắn pháo sáng cầm chân và bị Liera liều mạng giáng vô số đòn thương phá hủy cơ thể; định rút lui chờ cơ hội thì bị Yu IlHan (vừa đạt chuyển chức 4) giăng kết giới ngọn lửa trắng và xích lửa khóa chặt, sau đó bị một thương hủy diệt hoàn toàn.
+
