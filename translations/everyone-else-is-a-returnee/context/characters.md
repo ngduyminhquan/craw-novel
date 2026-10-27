@@ -71,6 +71,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Sharkilton |  | Sharkilton | Thực thể cấp cao Lv 309 mang đầu cá mập thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yumir tập kích trọng thương rồi bị Yu IlHan kết liễu | 224 |
 | Berein |  | Berein | Thực thể cấp cao Lv 306 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Bách Nhãn bắn trúng và bị Yu IlHan phóng thương tiêu diệt | 228 |
 | Piltah |  | Piltah | Thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu, kẻ lừa giết Phiria cướp trang bị cấp Truyền Thuyết, bị Yu IlHan tiêu diệt | 228 |
+| Orochi | the Orochi | Orochi | Tàn niệm Yamata no Orochi, trở thành thuộc hạ của Yu IlHan trong Bát Vĩ Long Thương và Hỏa Ngục Long Thân | 73 |
 
 ## Chi tiết
 
@@ -646,4 +647,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam tính / vô tính, thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu.
 - Ngoại hình / hành vi: Giả vờ tiếp cận bảo vệ các elf để chiếm lòng tin, sau đó lén lút sát hại Ảnh Đạo Tặc Phiria để đoạt trang bị cấp Truyền Thuyết do Yu IlHan chế tạo; định lừa Yu IlHan cùng diệt trừ Quân Đội Ma Hủy Diệt nhưng bị anh nhìn thấu.
 - Xuất hiện tính đến chương 228: Bị Yu IlHan dùng Bát Vĩ Long Thương bất ngờ đâm thủng 10 lỗ trên cơ thể, sau đó bị ngọn lửa Liệt Hỏa và liên hoàn đâm chém tra tấn rách nát thân xác; dù bắn đạn mana chống cự nhưng không thể xuyên thủng giáp Hỏa Ngục Long Thân của IlHan và bị anh kết liễu bằng chuôi kiếm đóng vào cán thương.
+
+### Orochi
+- Giới tính, vai trò: Tàn niệm quái xà Yamata no Orochi, sau trở thành thuộc hạ của Yu IlHan trú ngụ trong Bát Vĩ Long Thương và sau đó là bộ giáp Hỏa Ngục Long Thân.
+- Tính cách / Cách nói chuyện: Tự xưng "ta", gọi người khác là "ngươi", hay cãi nhau và đấu khẩu với Mystic; khi cần tịnh tâm thì niệm kinh Phật "Ma ha bát nhã ba la mật đa".
+- Trạng thái tính đến chương 227: Cùng Mystic phụ tá Yu IlHan vận hành các chức năng của Pháo Đài Bay.
+
+### Quân Đoàn Rồng (Dragon's Army)
+- Vai trò: Đội quân 9.300 đứa trẻ Trái Đất do Yumir lãnh đạo, được Yu IlHan nuôi dưỡng, trang bị và che chở trên Pháo Đài Bay.
+- Đặc điểm / Cách gọi: Lũ rồng con kỷ luật, thiện chiến, tôn sùng Yu IlHan như thần tượng; thường gọi Yu IlHan là "Anh hùng" (Hero) hoặc "Thủ lĩnh" (Captain).
+- Trạng thái tính đến chương 227: Luôn sẵn sàng xuất trận theo lệnh của Yu IlHan và Yumir; trang bị vũ khí, giáp trụ chuẩn Yu IlHan chế tạo.
+
 

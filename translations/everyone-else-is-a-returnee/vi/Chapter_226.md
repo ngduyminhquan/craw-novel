@@ -50,7 +50,7 @@ Trước khi Giáo hoàng và Na YuNa kịp đùn đẩy chiếc vương miện 
 
 Trong khi Na YuNa ngạc nhiên còn Liera lại một lần nữa rơi vào trạng thái si mê, Giáo hoàng không nhìn thấu được ý đồ của Yu IlHan nên nghiêng đầu khó hiểu.
 
-"Chà, chúng ta chỉ có thể chấp nhận bất kỳ điều kiện nào của cậu. Nhưng nếu cậu dùng thánh thạch vào mục đích xấu, điều đó sẽ làm hoen ố nữ thần của chúng ta, nên ta không thể chấp nhận được. Ta có thể hỏi lý do cậu muốn có thánh thạch không?"
+"Chà, bọn ta chỉ có thể chấp nhận bất kỳ điều kiện nào của cậu. Nhưng nếu cậu dùng thánh thạch vào mục đích xấu, điều đó sẽ làm hoen ố nữ thần của chúng ta, nên ta không thể chấp nhận được. Ta có thể hỏi lý do cậu muốn có thánh thạch không?"
 
 Yu IlHan đáp lại như thể muốn hỏi sao mọi người vẫn chưa nhận ra sau ngần ấy cuộc trò chuyện.
 
@@ -106,7 +106,7 @@ Kang HaJin hét lên với Na YuNa và trong một thoáng, cậu tự hỏi: 'M
 
 Tầm tuổi này rồi mà cậu vẫn chưa thể buông bỏ được thói hiếu thắng sao? Hay nếu không phải thế, thì liệu cậu vẫn còn chút vương vấn nào với Na YuNa chăng? Dù là trường hợp nào đi nữa, cậu cũng thấy ghê tởm chính bản thân mình.
 
-Thế nhưng, Na YuNa chỉ thích thú ngắm nhìn khung cảnh bên ngoài Pháo Đài Bay khi nó ngày càng nâng cao độ cao. Yu IlHan, người đang chăm sóc Quân Đoàn Rồng ở bên cạnh, cất tiếng trấn an cô.
+Thế nhưng, Na YuNa chỉ thích thú ngắm nhìn khung cảnh bên ngoài Pháo Đài Bay khi nó ngày càng lên cao. Yu IlHan, người đang chăm sóc Quân Đoàn Rồng ở bên cạnh, cất tiếng trấn an cô.
 
 "Kỹ năng Dịch Chuyển đã kích hoạt rồi, vậy nên chờ một chút nhé. Chúng ta sẽ sớm về tới Trái Đất thôi."
 
@@ -200,7 +200,7 @@ Khuôn mặt hờn dỗi của Na YuNa trông khá dễ thương. Yu IlHan liề
 
 Sau đó Yu IlHan bắt tay vào chế tạo thánh địa, sử dụng số thánh thạch cùng vài loại kim loại quý hiếm còn lại của mình.
 
-Yumir dẫn dắt Quân Đoàn Rồng, mỗi người đều được trang bị những món đồ chuẩn Yu IlHan do anh chế tạo trong suốt một tuần ở Breya, trải nghiệm các trận thực chiến trên Trái Đất để nâng cao thực lực, trong khi Liera luôn bám dính bên cạnh Yu IlHan như thường lệ, Na YuNa vừa bĩu môi vừa hỗ trợ triển khai thánh địa, còn Kang HaJin thì đứng bảo vệ cô.
+Yumir dẫn dắt Quân Đoàn Rồng, mỗi cá thể đều được trang bị những món đồ chuẩn Yu IlHan do anh chế tạo trong suốt một tuần ở Breya, trải nghiệm các trận thực chiến trên Trái Đất để nâng cao thực lực, trong khi Liera luôn bám dính bên cạnh Yu IlHan như thường lệ, Na YuNa vừa bĩu môi vừa hỗ trợ triển khai thánh địa, còn Kang HaJin thì đứng bảo vệ cô.
 
 Lúc ấy, thiết bị liên lạc đã không reo lên thêm lần nào nữa.
 

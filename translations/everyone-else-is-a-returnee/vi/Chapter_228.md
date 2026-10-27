@@ -222,7 +222,7 @@ Một tên trong số đó gào lên.
 
 "Không phải chuyện của các ngươi."
 
-Yu IlHan thu hồi tàn tích của kẻ chết và vung thương để gạt sạch máu. Sau đó, anh lao thẳng về phía hai kẻ còn lại với tốc độ tối đa, nhe nanh múa vuốt kích hoạt Đọa Lạc để ngăn không cho bọn chúng tẩu thoát.
+Yu IlHan thu hồi tàn tích của kẻ chết và vung thương để gạt sạch máu. Sau đó, anh lao thẳng về phía hai kẻ còn lại với tốc độ tối đa, để lộ nanh vuốt kích hoạt Đọa Lạc để ngăn không cho bọn chúng tẩu thoát.
 
 "Lũ các ngươi chết chắc rồi."
 

@@ -444,7 +444,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | England | Britain | Anh | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Metal Knights |
 | Italy |  | Ý | địa danh | 72 | Quốc gia ở châu Âu, quê hương của clan Magia |
 | Yamata no Orochi | Yamata | Yamata no Orochi | quái vật | 73 | Quái vật đột biến chuyển chức 4 mang hình tượng quái xà 8 đầu 8 đuôi trong thần thoại Nhật Bản |
-| Orochi | the Orochi | Orochi | quái vật | 73 | Tên gọi tắt của quái xà Yamata no Orochi; từ chương 148 trở thành thuộc hạ trong Bát Vĩ Long Thương, nói chuyện trực tiếp với Yu IlHan (xưng ta, gọi ngươi) |
 | Ame no Habakiri | Ame-no-Habakiri | Ame no Habakiri | vật phẩm | 73 | Thần kiếm trảm xà trong thần thoại Nhật Bản mà Susanoo dùng chém Yamata no Orochi |
 | DoT | Damage over Time | sát thương theo thời gian | hệ thống | 74 | Sát thương duy trì liên tục trong thuật ngữ game |
 | Dragon Slayer |  | Đồ Long Giả | danh hiệu | 76 | Danh hiệu nhận được sau khi hạ gục quái vật Long tộc Yamata no Orochi (tăng 10% mọi năng lực khi chiến đấu chống lại Long tộc) |
@@ -703,7 +702,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | God Force |  | Thần Lực | kỹ năng | 213 | Kỹ năng dung hợp từ Quái Lực và Chí Mạng khi Yu IlHan đạt chuyển chức lần 4, tăng 300% sức mạnh cơ bắp |
 | Record skill | Record Skill; The skill Record | Ký Lục | kỹ năng | 213 | Kỹ năng tiến hóa từ Ngôn Ngữ, cho phép Yu IlHan thấu hiểu bản thân và thế giới dưới góc nhìn của Hồ Sơ Akashic |
 | BGM |  | nhạc nền | khác | 214 | Viết tắt của Background Music, nhạc nền |
-| Dragon's Army | Dragon's army; dragon army | Quân Đoàn Rồng | tổ chức | 214 | Đội quân những đứa trẻ Trái Đất theo Yumir (tên gọi khác của Quân Đoàn Địa Ngục Rồng) |
+| Dragon's Army | Dragon's army; dragon army | Quân Đoàn Rồng | tổ chức | 214 | Đội quân những đứa trẻ Trái Đất theo Yumir (tên gọi khác của Quân Đoàn Địa Ngục Rồng); lũ rồng con thường gọi Yu IlHan là "Anh hùng" hoặc "Thủ lĩnh" |
 | Breath of Gold |  | Hơi Thở Hoàng Kim | vật phẩm | 217 | Trang bị giáp kiêm vũ khí biến hình phẩm cấp Hỗn Loạn Yu IlHan rèn cho Yumir từ Ý Chí Hỗn Loạn |
 | Feather of Temptation | Feathers of Temptation | Lông Vũ Mê Hoặc | vật phẩm | 218 | Bộ chiến bào trang phục rèn từ 300.000 lông vũ và máu trắng của Liera (Rank Thần) |
 | Nietzsche |  | Nietzsche | khác | 218 | Nhà triết học Friedrich Nietzsche với tuyên ngôn Thượng Đế đã chết (tham chiếu triết học) |

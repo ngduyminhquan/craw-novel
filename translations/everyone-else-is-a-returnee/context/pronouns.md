@@ -67,6 +67,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sharkilton | Sharkilton / con cá mập | 224 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
 | Berein | hắn / gã / Berein | 228 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
 | Piltah | hắn / gã / Piltah | 228 | Thực thể cấp cao Khu Vườn Hoàng Hôn |
+| Orochi | Orochi | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan |
 
 ## Giữa các nhân vật
 
@@ -305,6 +306,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | YuNa | tôi / chị | cô / em | 228 | Liera chấp nhận cho Na YuNa gọi mình là chị để tránh bị gọi là bà cụ |
 | Yu IlHan | Piltah | tao / bọn tao | mày | 228 | IlHan phẫn nộ truy vấn và tiêu diệt Piltah vì trả thù cho Phiria |
 | Piltah | Yu IlHan | ta / bọn ta | các ngươi / ngươi | 228 | Piltah tưởng lầm IlHan là đồng minh rồi kinh hoàng khi bị tấn công |
+| Orochi | Mystic | ta | ngươi | 227 | Hai tàn niệm phụ tá trong Pháo Đài Bay đối thoại và cãi nhau |
+| Mystic | Orochi | tôi | ngươi | 227 | Hai tàn niệm phụ tá trong Pháo Đài Bay đối thoại và cãi nhau |
+| Yu IlHan | Orochi | tôi | ngươi / Orochi | 148 | IlHan đối thoại với tàn niệm Orochi |
+| Orochi | Yu IlHan | ta | ngươi | 148 | Orochi đối thoại với IlHan |
 
 
 

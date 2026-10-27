@@ -174,7 +174,7 @@ Nói cách khác, bọn họ đang cố gắng bảo vệ nhân loại trên ph�
 
 "Vào lúc đó, tôi đâu có thời gian để nghĩ ngợi nhiều đến thế trong lúc hành động..."
 
-Thế giới bậc cao có sụp đổ hay đóng băng thì anh cũng chẳng thèm quan tâm. Anh vội vã tới Daréu chỉ vì người ta bảo loài rồng có thể xâm lược Trái Đất và để tiêu diệt sạch sẽ Long tộc. Vừa đặt chân đến để diệt rồng, anh đã bị một con rồng kỳ quặc tên là Lecidna dắt mũi, kẻ đã cùng một bộ phận loài rồng, bao gồm cả ả, lập nên liên minh...
+Thế giới bậc cao có sụp đổ hay đóng băng thì anh cũng chẳng thèm quan tâm. Anh vội vã tới Daréu chỉ vì người ta bảo loài rồng có thể xâm lược Trái Đất và để tiêu diệt sạch sẽ Long tộc. Vừa đặt chân đến để diệt rồng, anh đã bị một con rồng kỳ quặc tên là Lecidna dắt mũi, kẻ đã cùng một bộ phận loài rồng, bao gồm cả cô nàng, lập nên liên minh...
 
 Không hiểu bằng cách nào mà cuối cùng lại thành ra anh thu phục các elf dưới trướng mình, trở thành hoàng đế của họ. Anh dạy họ chiến thuật chiến đấu, biến họ thành một lực lượng tinh nhuệ, và tốc độ phát triển lại càng tăng tốc chóng mặt hơn nữa khi Lang tộc gia nhập.
 
@@ -200,7 +200,7 @@ Yu IlHan bật cười trước câu nói ấy. Xem chừng Liera cũng nghĩ ng
 
 Yu IlHan, người vốn chẳng còn chút niềm tin nào vào Quân Đội Thiên Giới, hiển nhiên cũng sẽ nảy ra suy nghĩ như vậy.
 
-Có lẽ Quân Đội Thiên Giới cũng chẳng mấy bận tâm, ngay cả khi cư dân của thế giới đã trở thành một thực thể cấp cao lâm vào cảnh hiểm nguy.
+Có lẽ Quân Đội Thiên Giới cũng chẳng mấy bận tâm, ngay cả khi cư dân của thế giới đã thăng cấp thành thế giới bậc cao lâm vào cảnh hiểm nguy.
 
 Không, tất nhiên là họ sẽ đứng ra 'bảo vệ họ', thế nhưng họ sẽ coi trọng điều gì hơn? Một thế giới bậc cao, hay là những thực thể cấp thấp? – câu hỏi ấy vẫn còn bỏ ngỏ. Ngay từ đầu, chẳng phải họ luôn miệng nói về việc bảo vệ các thực thể cấp thấp chỉ cốt để thuận lợi thu nạp một thế giới bậc cao vào hàng ngũ của mình hay sao?
 
