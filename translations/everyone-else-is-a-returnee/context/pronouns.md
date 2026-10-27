@@ -297,6 +297,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pope | Liera | ta | cô | 222 | Giáo hoàng đồng ý đi nghỉ ngơi theo lời Liera |
 | Sharkilton | Yu IlHan | ta | ngươi | 224 | Sharkilton phẫn nộ uy hiếp Yu IlHan |
 | Yu IlHan | Sharkilton | ta / tôi | ngươi | 224 | Yu IlHan đối đáp với Sharkilton trước khi kết liễu |
+| Yu IlHan | Pope | tôi | bà / Giáo hoàng | 225 | Yu IlHan chúc mừng và tặng quà cho Giáo hoàng |
+| Pope | Yu IlHan | ta | cậu | 225 | Giáo hoàng đối thoại với Yu IlHan |
 
 
 

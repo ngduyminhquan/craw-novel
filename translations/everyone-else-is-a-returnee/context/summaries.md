@@ -1373,3 +1373,9 @@ Yu IlHan phóng thương hạ sát Arreyal Lv 311 chỉ bằng một kích nhờ
 IlHan hướng dẫn Yumir quan sát quỹ đạo mana và dồn lực tập kích điểm yếu; Yumir kết hợp Quái Lực, Long Lực, Hơi Thở Hoàng Kim cùng ma pháp gió tự sáng tạo tung đòn chí mạng xé toạc cổ Sharkilton; IlHan sau đó kích hoạt Đọa Lạc và Thần Lực kết liễu Sharkilton Lv 309 trước khi tên này kịp đe dọa về an nguy của Na YuNa.
 Tại lối vào Thánh địa, quân tinh nhuệ chuyển chức 4 của đế quốc và quái vật Quân Đội Ma Hủy Diệt trở mặt tranh giành Na YuNa dẫn tới hỗn chiến; Pháo Đài Bay bất ngờ xuất hiện phóng chùm tia laser Bách Nhãn giáng xuống tên thực thể cấp cao chỉ huy.
 Cảnh kết thúc: Liera trong bộ chiến bào Lông Vũ Mê Hoặc xuất hiện vung thương chém đứt vũ khí và chém đôi tên thực thể cấp cao; đám lính đế quốc nhầm lẫn cô là Thánh nữ, Liera giơ thương chuẩn bị quét sạch toàn bộ quân địch để kiếm thêm kinh nghiệm.
+
+## 225
+Na YuNa thức dậy sau khi hồi phục thể lực và nhận ra Liera đã trở thành thực thể cấp thấp; cả hai trêu đùa và tranh luận gay gắt nhưng hài hước về mối quan hệ với Yu IlHan.
+Yu IlHan trở về lôi theo hoàng đế Li Catriana đã bị đánh tơi bời để làm vật tế xoa dịu nỗi đau của người dân Elforce, đồng thời trói gô hàng triệu binh lính đế quốc giao cho Yumir canh giữ, một mình kết thúc hoàn toàn cuộc chiến tranh toàn lục địa.
+Na YuNa kiên quyết từ chối ngôi vương của Đế Quốc Thống Nhất để theo Yu IlHan về Trái Đất; IlHan chế tạo 5 món phụ kiện từ ma thạch cấp 4 tặng Giáo hoàng, vĩnh viễn hồi phục khả năng tái tạo giúp bà trẻ lại tuổi đôi mươi và kéo dài tuổi thọ thêm hàng trăm năm.
+Cảnh kết thúc: Vị Giáo hoàng trẻ hóa trở thành Nữ hoàng đầu tiên của Đế Quốc Thống Nhất, mở đường cho Na YuNa đồng hành cùng Yu IlHan trở về Trái Đất.

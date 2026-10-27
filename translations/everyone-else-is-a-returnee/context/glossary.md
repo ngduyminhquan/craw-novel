@@ -469,7 +469,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |
 | Pressure Tiger Bone Bastard |  | Kiếm Bastard Xương Hổ Trọng Áp | vật phẩm | 81 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo từ xương hổ cung cấp cho lực lượng Trấn Áp |
 | The Holy Stone of the Goddess of Beauty, Leytna |  | Thánh Thạch của Nữ Thần Sắc Đẹp Leytna | vật phẩm | 81 | Khoáng thạch chứa thánh lực từ đền thờ Nữ Thần Sắc Đẹp Leytna |
-| Leytna | Leyta | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
+| Leytna | Leyta; Lady Leytna | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
 | Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
 | Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | Magic Dragon Clan | Magic Dragon clan; Magic Dragon; Demon Dragon clan; Demon Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
@@ -717,3 +717,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | High-class blessing |  | Chúc Phúc Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
 | Master of Miracles |  | Bậc Thầy Kỳ Tích | danh hiệu | 221 | Danh hiệu Na YuNa đạt được, tăng 30% hiệu quả cho toàn bộ kỹ năng hệ thánh lực |
 | Dragon Force |  | Long Lực | kỹ năng | 224 | Kỹ năng gia tăng ma pháp và sức mạnh của Long tộc, Yumir thức tỉnh khi đạt chuyển chức lần 4 |
+| United Empire |  | Đế Quốc Thống Nhất | tổ chức | 225 | Đế quốc hợp nhất giữa Elforce và Li Catriana tại thế giới Breya sau chiến tranh |
