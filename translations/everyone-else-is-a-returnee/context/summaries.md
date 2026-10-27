@@ -1265,3 +1265,9 @@ Cảnh kết thúc: IlHan lấy viên ma thạch chuyển chức 5 màu tím kí
 Yu IlHan khống chế lượng mana khổng lồ từ viên ma thạch chuyển chức 5 và hy sinh bộ giáp cũ Thiết Giáp Hỏa Long làm khuôn, dùng kỹ thuật khảm mana vật chất hóa để tạo nên bộ giáp kim loại trắng phẩm cấp Bán Thần mang tên Hỏa Long Thân.
 Để hoàn thiện bộ giáp, IlHan ra điều kiện cho tàn niệm Orochi nuốt trọn 300.000 tàn niệm Ác Ma Rung Biến Thái trong không gian giam giữ để gia tăng sức mạnh, rồi dùng kỹ năng Linh Hồn Phụ Ma cấp tối đa đưa Orochi cùng Bát Vĩ Long Thương dung hợp vào bộ giáp, tiến hóa thành Hỏa Ngục Long Thân.
 Cảnh kết thúc: IlHan vét sạch toàn bộ Túi Đồ để nhồi nhét tăng cường sức mạnh cho Hỏa Ngục Long Thân, hoàn tất một trong những món vũ khí cấp chiến lược tối thượng của mình.
+
+## 207
+Yu IlHan hoàn thiện bộ giáp phẩm cấp Bán Thần Hỏa Ngục Long Thân (đòi hỏi kháng hỏa 120%) bằng cách ngâm mình trong Đại Thùng chứa máu rồng và dung hợp cùng Ngọn Lửa Vĩnh Cửu; sau đó anh dốc tâm rèn thêm bộ giáp kim loại màu hồng bí mật để bảo vệ Liera trước nguy cơ bị tước tư cách thực thể cấp cao.
+Trong lúc cùng Mystic lái pháo đài bay quét sạch quái vật toàn cầu, một thực thể chuyển chức 5 đột biến dạng nửa người nửa sói bất ngờ xuất hiện và xâm nhập vào bên trong kết giới của pháo đài bay để vô hiệu hóa Bách Nhãn.
+IlHan lập tức tận dụng Ẩn Thân, tốc độ của Hiệu Triệu Diệt Vong và sức mạnh hủy diệt mới từ Hỏa Ngục Long Thân cùng Bất Khả Họa Quỹ Đạo Thương chém nát kẻ địch chỉ bằng một chuỗi đòn tập kích liên hoàn.
+Cảnh kết thúc: Hạ sát thực thể chuyển chức 5 thứ hai giúp Bất Khả Họa Quỹ Đạo Thương thăng lên cấp 93 và kỹ năng Tử Thần đạt cấp tối đa (master), mở khóa khả năng tiến hóa dung hợp và rút ngắn con đường tiến tới chuyển chức lần 4 của IlHan.

@@ -338,7 +338,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dragon-exterminating |  | Diệt Long | hệ thống | 53 | Dòng thuộc tính tạo tác tăng mạnh sát thương khi đối đầu với loài rồng |
 | Tenacious |  | Bền Bỉ | hệ thống | 53 | Tiền tố dòng thuộc tính alpha tăng khả năng duy trì liên kết của lao và cọc trụ |
 | Dragonhunter |  | Thợ Săn Rồng | khác | 53 | Kẻ chuyên săn lùng loài rồng |
-| User Restrictions |  | Giới hạn người dùng | hệ thống | 53 | Mục hiển thị điều kiện yêu cầu để có thể sử dụng trang bị |
+| User Restrictions | User restrictions | Giới hạn người dùng | hệ thống | 53 | Mục hiển thị điều kiện yêu cầu để có thể sử dụng trang bị |
 | Suppression |  | Trấn Áp | tổ chức | 54 | Tổ chức dị năng giả chính quy ban đầu của chính phủ Hàn Quốc |
 | Special Ability Management Bureau |  | Cục Quản Lý Dị Năng | tổ chức | 54 | Cơ quan quản lý dị năng giả của chính phủ Hàn Quốc |
 | Korean Special Ability Management Bureau |  | Cục Quản Lý Dị Năng Hàn Quốc | tổ chức | 54 | Tên đầy đủ của Cục Quản Lý Dị Năng |
@@ -367,7 +367,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Migrants |  | Di Cư | khác | 57 | Quái vật hình thành tự nhiên từ sự tích tụ mana (như Thiết Tâm, troll), đối lập với Nguyên Bản |
 | Great Thunder Bear |  | Đại Gấu Sấm Sét | quái vật | 57 | Quái vật gấu hệ sấm sét biến dị cấp 98 trong hầm ngục Gangwon-do |
 | Giant Thunder Bird |  | Chim Sấm Sét Khổng Lồ | quái vật | 57 | Quái vật chim khổng lồ hệ sấm sét cấp 122 (chuyển chức lần 3) tại hầm ngục Gangwon-do |
-| Leap |  | Bật Nhảy | kỹ năng | 57 | Kỹ năng có điều kiện giúp dậm chân nhảy cao khi đang kích hoạt Quái Lực |
+| Leap | Leaps | Bật Nhảy | kỹ năng | 57 | Kỹ năng có điều kiện giúp dậm chân nhảy cao khi đang kích hoạt Quái Lực |
 | Counter |  | Phản Kích | kỹ năng | 57 | Kỹ năng chủ động phản đòn công kích |
 | Snorlax | Sn*rl*x | Sn*rl*x | khác | 57 | Được phép giữ nguyên: Pokemon lười ngủ (tham chiếu văn hóa đại chúng) |
 | Frighteningly Destructive Thunder Pile Bunker |  | Súng Bắn Cọc Sấm Sét Hủy Diệt Kinh Hãi | vật phẩm | 58 | Vũ khí Súng Bắn Cọc sau khi biến đổi do liên tục tiếp xúc mana thuộc tính sấm sét |
@@ -464,7 +464,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Roaring |  | Gầm Vang | hệ thống | 79 | Tiền tố dòng thuộc tính tạo sóng xung kích bằng mana |
 | Secretive Reaper's Roaring Dark Python Robe |  | Áo Choàng Hắc Mãng Gầm Vang Tử Thần Kín Đáo | vật phẩm | 79 | Áo choàng phẩm cấp Truyền Thuyết tích hợp 300 dao găm vảy Orochi và tạo sóng xung kích bằng mana |
 | Strong Shadow Dragon's Dark Python Leather Armor |  | Giáp Da Hắc Mãng Ám Long Cường Đại | vật phẩm | 79 | Giáp da phẩm cấp Độc Nhất làm từ da Yamata no Orochi và ma thạch Báo Bóng Tối chuyển hóa thành Ám Long |
-| Iron Armored Fire Dragon |  | Thiết Giáp Hỏa Long | quái vật | 80 | Quái vật rồng lửa bọc sắt mà Yu IlHan sở hữu ma thạch chuyển chức 3 |
+| Iron Armored Fire Dragon | Iron-armored fire dragon | Thiết Giáp Hỏa Long | quái vật | 80 | Quái vật rồng lửa bọc sắt mà Yu IlHan sở hữu ma thạch chuyển chức 3 |
 | Iron Armored Fire Dragon's Biting Dark Python Fullplate Armor |  | Đại Khải Hắc Mãng Cắn Xé Thiết Giáp Hỏa Long | vật phẩm | 80 | Đại khải phẩm cấp Truyền Thuyết kết hợp xương Orochi mài nhọn và ma thạch Thiết Giáp Hỏa Long |
 | Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |
 | Pressure Tiger Bone Bastard |  | Kiếm Bastard Xương Hổ Trọng Áp | vật phẩm | 81 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo từ xương hổ cung cấp cho lực lượng Trấn Áp |
@@ -497,7 +497,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Iron Fortress |  | Thiết Pháo Đài | khác | 88 | Tên Yu IlHan tự đặt cho thế trận dựng nhiều lớp khiên Orochi chống ma pháp |
 | Spear of Undrawable Trajectory | Spear of Untraceable Trajectory; Untraceable Trajectory | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
 | The Quickest |  | Cực Tốc Giả | danh hiệu | 89 | Danh hiệu đạt được khi là thực thể cấp thấp khai phá kỹ năng độc nhất nhanh nhất |
-| fusion evolution | fusion evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
+| fusion evolution | fusion evolve; fuse-evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
 | Absolute Accuracy |  | Tuyệt Đối Chuẩn Xác | kỹ năng | 90 | Kỹ năng độc nhất tiến hóa dung hợp từ Thuật Ném và Xạ Kích |
 | Gungnir |  | Gungnir | vật phẩm | 90 | Được phép giữ nguyên: Ngọn giáo bách phát bách trúng của thần Odin trong thần thoại Bắc Âu |
 | Strike Force |  | Lực Lượng Đột Kích | tổ chức | 91 | Đơn vị tác chiến độc lập của Quân Đội Thiên Giới tại Bức Tường Hỗn Loạn |
@@ -522,13 +522,13 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 2nd Great Cataclysm |  | Đại Tai Biến lần 2 | hệ thống | 62 | Đợt bùng nổ mana và nâng cấp thế giới tiếp theo của Trái Đất |
 | Taegukgi |  | cờ Thái Cực | khác | 104 | Quốc kỳ của Đại Hàn Dân Quốc |
 | God of Love | god of love; Goddess of Love; goddess of love | Thần Tình Yêu | khác | 105 | Vị thần hình thành từ tích lũy ghi chép tình yêu trong Hồ Sơ Akashic, ban phước cho Liera |
-| Envoy of God | envoy of god | Sứ Giả Của Thượng Đế | khác | 105 | Thân phận sứ giả của các thiên thần phụng sự Thượng Đế |
+| Envoy of God | envoy of god; God's envoy | Sứ Giả Của Thượng Đế | khác | 105 | Thân phận sứ giả của các thiên thần phụng sự Thượng Đế |
 | Apocalyptic-ally Beautiful Steel spear Blessed by the god of love |  | Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước | vật phẩm | 105 | Ngọn thương của Liera tiến hóa từ thanh kiếm tồi tàn Yu IlHan rèn tặng cô ngày trước nhờ phước lành của Thần Tình Yêu |
 | Rule |  | Thống Trị | kỹ năng | 106 | Kỹ năng chủ động do Thiên giới ban thưởng sau khi dọn sạch Daréu, giúp thu nhận cấp dưới và thúc đẩy họ tăng trưởng |
 | Lead |  | Thống Suất | kỹ năng | 106 | Kỹ năng cấp thấp hơn của Thống Trị |
 | Dragon Rider |  | Kỵ Sĩ Rồng | chức nghiệp | 106 | Chức nghiệp phụ hệ chiến đấu kích hoạt khi có rồng ký khế ước |
 | Dragon-Man Resonance | Dragon-man resonance | Cộng Hưởng Long Nhân | kỹ năng | 106 | Kỹ năng bị động của Kỵ Sĩ Rồng, tăng 10% năng lực khi chiến đấu cùng rồng và thêm 10% khi cưỡi rồng |
-| Dragonic Blood |  | Long Huyết | kỹ năng | 106 | Kỹ năng chủ động của Kỵ Sĩ Rồng, mượn sức mạnh cộng sự rồng để cường hóa kỹ năng |
+| Dragonic Blood | Dragonic blood | Long Huyết | kỹ năng | 106 | Kỹ năng chủ động của Kỵ Sĩ Rồng, mượn sức mạnh cộng sự rồng để cường hóa kỹ năng |
 | Monster Lord |  | Chúa Tể Quái Vật | chức nghiệp | 106 | Chức nghiệp phụ hoặc chức nghiệp tiềm năng mà Erta phỏng đoán IlHan nhận được |
 | The one baptized by the flame of eternity |  | Kẻ Được Ngọn Lửa Vĩnh Cửu Rửa Tội | danh hiệu | 107 | Danh hiệu của Yumir (+130% kháng thuộc tính hỏa, hấp thụ một phần đòn tấn công thuộc tính hỏa) |
 | Birth of Chaos |  | Khởi Sinh Hỗn Loạn | danh hiệu | 107 | Danh hiệu của Yumir (+70% kháng mọi trạng thái bất thường) |
@@ -620,7 +620,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Canada |  | Canada | địa danh | 151 | Quốc gia ở Bắc Mỹ |
 | Bittersweet Persona |  | Bittersweet Persona | vật phẩm | 152 | Tên đại dinh thự kiêm pháo đài chiến đấu của Yu IlHan |
 | Chaos rank | Chaos; chaos-ranked | Hỗn Loạn | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Sử Thi và dưới Bán Thần |
-| Demigod rank |  | Bán Thần | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Hỗn Loạn và dưới Thần |
+| Demigod rank | Demigod; Demigod-ranked | Bán Thần | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Hỗn Loạn và dưới Thần |
 | Eternal rank |  | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
 | Normal rank |  | Bình Thường | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm cơ bản nhất (thứ tự phẩm cấp: Bình Thường -> Hiếm -> Độc Nhất -> Truyền Thuyết -> Sử Thi -> Hỗn Loạn -> Bán Thần -> Thần -> Vĩnh Cửu) |
 | Great Explosion |  | Đại Bạo Tạc | kỹ năng | 153 | Ma pháp công kích bộc phá cực mạnh do Carina Malatesta thi triển |
@@ -695,3 +695,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Flying fortress | flying fortress; Flying Fortress | pháo đài bay | vật phẩm | 205 | Tên gọi thông dụng / vắn tắt của Pháo Đài Bay Kẻ Hủy Diệt |
 | Firedragon Body |  | Hỏa Long Thân | vật phẩm | 206 | Bộ giáp kim loại màu trắng phẩm cấp Bán Thần do Yu IlHan rèn từ ma thạch chuyển chức 5 và thi thể Mystic |
 | Infernal Dragon Body | Infernal dragon body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |
+| Valkyrie |  | Valkyrie | khác | 207 | Thiếu nữ chiến đấu trong thần thoại, dùng để ví von vẻ đẹp chiến binh của Liera |

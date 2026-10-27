@@ -211,7 +211,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | reviewed |  |
 | 205 |  | Chapter_205 - If You See Me – 7.txt | If You See Me – 7 | done |  |
 | 206 |  | Chapter_206 - If You See Me – 8.txt | If You See Me – 8 | done |  |
-| 207 |  | Chapter_207 - If You See Me – 9.txt | If You See Me – 9 | todo |  |
+| 207 |  | Chapter_207 - If You See Me – 9.txt | If You See Me – 9 | done |  |
 | 208 |  | Chapter_208 - I, Too – 1.txt | I, Too – 1 | todo |  |
 | 209 |  | Chapter_209 - I, Too – 2.txt | I, Too – 2 | todo |  |
 | 210 |  | Chapter_210 - I, Too – 3.txt | I, Too – 3 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -866,3 +867,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#206] Tên bộ giáp mới của Yu IlHan: "Firedragon Body" và "Infernal dragon body" — Tạm chọn: "Hỏa Long Thân" và "Hỏa Ngục Long Thân" (thêm vào glossary.md; phương án khác: "Ngục Long Thân", "Ma Ngục Long Thân"). → Giữ nguyên Hỏa Long Thân và Hỏa Ngục Long Thân (orchestrator)
 - [#206] Phân loại nhân vật Orochi — Tạm giữ Orochi trong glossary.md (mục quái vật từ chương 73); đề xuất chuyển sang characters.md để bổ sung các cặp xưng hô vào pronouns.md theo đúng quy tắc lint_context. → Giữ nguyên Orochi trong glossary.md (đã có ghi chú xưng hô) (orchestrator)
 - [#206] Cảnh báo QA về 'Dragon' thiếu 'Rồng' — Tạm giữ các thuật ngữ tạo tác Hán Việt có yếu tố 'Long' (Bát Vĩ Long Thương, Hỏa Long Thân, Hỏa Ngục Long Thân), bỏ qua cảnh báo false positive của QA. → Giữ nguyên các thuật ngữ tạo tác Hán Việt dùng chữ Long, bỏ qua cảnh báo false positive (orchestrator)
+- [#207] Thuật ngữ "Valkyrie" (ví von vẻ đẹp chiến binh của Liera) — Tạm chọn: giữ nguyên "Valkyrie" ("thiếu nữ chiến đấu Valkyrie" theo rules.md; đã thêm vào glossary.md). Phương án khác: "nữ chiến thần Valkyrie". → Giữ nguyên Valkyrie theo rules.md (orchestrator)
+- [#207] Cảnh báo QA về 'Shooting' thiếu 'Xạ Kích' ở đoạn 140 — Tạm chọn: dịch tự nhiên thành "Bắn chùm tia..." (ngữ cảnh hành động bắn beam của Bách Nhãn, không phải kỹ năng Xạ Kích), bỏ qua cảnh báo false positive của QA. → Giữ nguyên dịch tự nhiên Bắn chùm tia..., bỏ qua cảnh báo false positive (orchestrator)
+- [#207] Ký tự số 1 thừa ở cuối câu thoại của Mystic ở đoạn 34 ('(Mystic) 1') — Tạm chọn: lược bỏ số 1 vì là ký hiệu đánh dấu chú thích thừa của raw tiếng Anh (tương tự #179, #180). → Chấp nhận lược bỏ ký hiệu đánh dấu chú thích thừa của raw (orchestrator)
