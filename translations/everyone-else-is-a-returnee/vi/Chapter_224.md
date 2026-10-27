@@ -14,7 +14,7 @@ Tên thực thể cấp cao với chiếc đầu mang hình thù như cá mập 
 
 Thế nhưng, nếu hắn tấn công hay làm tổn hại đến một thực thể cấp thấp, điều đó sẽ bị coi là vi phạm quy tắc của Quân Đội Ma Hủy Diệt và hắn sẽ lập tức bị giáng cấp trở lại thành một thực thể cấp thấp! Nếu có điều gì khả dĩ lúc này, thì đó chính là chuồn khỏi nơi này càng nhanh càng tốt.
 
-[Chết tiệt, rốt cuộc là loại quái vật gì thế này... ! Không, sinh vật tự nhiên thì làm sao có lý đó được! Chết tiệt, chết tiệt!]
+[Chết tiệt, rốt cuộc là loại quái vật gì thế này...! Không, sinh vật tự nhiên thì làm sao có lý đó được! Chết tiệt, chết tiệt!]
 
 Hắn dường như cũng nhận ra chẳng có suy đoán nào của mình là hợp lý, liền quay ngoắt người cắm đầu tháo chạy. Trông bộ dạng có vẻ như hắn toan thoát khỏi thế giới này ngay tức khắc... thế nhưng dẫu có chạy nhanh đến đâu, hắn cũng chẳng thể nào cắt đuôi được Yu IlHan và Yumir.
 
@@ -148,11 +148,11 @@ Cảm nhận thấy cái chết đang cận kề, con 'cá mập' gào thét th�
 
 Ngay trước khi đâm ngọn thương vào cổ hắn, Yu IlHan nghiêng đầu đáp lại:
 
-"Thế nhưng người phụ nữ của tôi hiện tại lại là người phụ nữ mạnh nhất thế giới này cơ mà?"
+"Thế nhưng người phụ nữ của ta hiện tại lại là người phụ nữ mạnh nhất thế giới này cơ mà?"
 
 [Na YuNa! Đồng minh của ta đã tóm được ả rồi! Ngươi đã thất bại ngay từ khoảnh khắc đặt chân tới đây!]
 
-"Ồồồ, ta cứ tưởng mi định nói cái gì cơ đấy."
+"Ồồồ, ta cứ tưởng ngươi định nói cái gì cơ đấy."
 
 Yu IlHan chỉ cười nhạt rồi vung thương kết liễu hắn. Dẫu anh đã biết từ lúc hắn suy yếu khi bị chém đứt cổ, nhưng gã này cũng chỉ là một sinh vật tương đối tầm thường, sẽ chết khi bị chém đứt đầu.
 
@@ -172,7 +172,7 @@ Dĩ nhiên, kẻ chết rồi thì làm sao nghe thấy lời anh nói hay bất
 
 [Vâng ạ!]
 
-Yu IlHan nghĩ rằng đế quốc chắc hẳn cũng đã điều động quân đội. Bọn chúng có lẽ toan cướp Na YuNa đi khỏi tầm mắt của đối phương. Tuy nhiên, Quân Đội Ma Hủy Diệt chắc chắn sẽ nhận ra điều đó và cũng tìm cách giành lại ả bằng lũ quái vật của mình...
+Yu IlHan nghĩ rằng đế quốc chắc hẳn cũng đã điều động quân đội. Bọn chúng có lẽ toan cướp Na YuNa đi khỏi tầm mắt của đối phương. Tuy nhiên, Quân Đội Ma Hủy Diệt chắc chắn sẽ nhận ra điều đó và cũng tìm cách giành lại cô bằng lũ quái vật của mình...
 
 "Thấy chưa, bố biết ngay nơi đó sẽ có màn kịch thú vị nhất mà. Tiếc thật đấy."
 
@@ -212,7 +212,7 @@ Khi cuộc đối thoại giữa hai bên chẳng tìm được tiếng nói chu
 
 Có lẽ vì cuộc chiến quá đỗi khốc liệt, tên thực thể cấp cao đã hơi chậm trễ trong việc nhận ra Pháo Đài Bay đang lơ lửng ngay trên đỉnh đầu mình. Hành tung của Pháo Đài Bay cực kỳ cơ mật, và sẽ chẳng ai có thể phát giác nếu nó không chủ động tham chiến.
 
-[Cái gì, thế này là... ?]
+[Cái gì, thế này là...?]
 
 [Cái gì là cái gì chứ! Dĩ nhiên là chùm tia năng lượng rồi!]
 
@@ -262,7 +262,7 @@ Có một câu nói nổi tiếng của Yu IlHan mà Liera rất thích. 'Chưa 
 
 Những kẻ chưa từng thấy diện mạo của Thánh nữ thì lầm tưởng dung nhan kiều diễm của Liera chính là Thánh nữ, còn những kẻ đã biết mặt Thánh nữ thì lại bàng hoàng chấn động khi nhận ra trên cõi đời này còn có một người xinh đẹp đến nhường ấy.
 
-"Nhào vô đi."
+"Lao vào đây."
 
 Đương nhiên, Liera chẳng thèm bận tâm xem bọn chúng nghĩ gì về mình. Cô chỉ nghĩ đến việc mình sẽ thu hoạch được bao nhiêu điểm kinh nghiệm nếu giết sạch toàn bộ lũ này, rồi nhấc ngọn thương lên.
 

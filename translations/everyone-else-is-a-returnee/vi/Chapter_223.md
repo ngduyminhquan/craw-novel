@@ -164,7 +164,7 @@ Hẳn là nó đã toan tính băm Yu IlHan thành trăm mảnh trong lúc hồi
 
 Yu IlHan liếm vết máu màu xanh lục trên đầu ngọn thương. Con quái vật vốn đã bị cắt đứt làm ba phần liền cười phá lên đầy khoái chí khi chứng kiến cảnh tượng đó. Nó cho rằng Yu IlHan vừa làm một điều ngu xuẩn đến mức khó tin.
 
-[Ngươi, cái thứ đó! Khà ha ha ha ha! Đồ sinh linh ngu xuẩn, ngạo mạn!]
+[Ngươi, cái thứ đó! Khà ha ha ha ha! Đồ sinh vật ngu xuẩn, ngạo mạn!]
 
 "Hừmmmmmmmm."
 
@@ -228,7 +228,7 @@ Chuyện này nằm ngoài dự tính của Yu IlHan. Và thế là, anh thở d
 
 Yu IlHan đạp đất nhảy trở lại lên đầu Yumir. Vào lúc đó, quân đội đế quốc cũng đã nhận ra có kẻ xâm nhập và bắt đầu hò hét ầm ĩ, nhưng Yu IlHan chẳng mảy may bận tâm xem bọn chúng phản ứng ra sao.
 
-[Uhaaaaaaap!]
+[U-a-a-a-áp!]
 
 Yumir gom tụ những luồng gió rồi kích nổ chúng phía sau đôi cánh để tăng tốc dữ dội. Cả hai lại một lần nữa bay vút lên qua nóc lều! Đám binh lính đế quốc vừa tụ tập lại sợ đến mức hồn xiêu phách lạc.
 

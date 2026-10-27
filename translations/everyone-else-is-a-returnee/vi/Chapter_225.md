@@ -106,7 +106,7 @@ Anh thực sự rất đẹp trai. Có lẽ lăng kính trong mắt cô đã dà
 
 "....Cô YuNa. Có chuyện gì thế?"
 
-"Ái chà!"
+"Hây!"
 
 Na YuNa đang ngẩn ngơ ngắm nhìn từng đường nét trên khuôn mặt Yu IlHan thì Liera huých cùi chỏ thẳng vào mặt cô.
 
@@ -192,7 +192,7 @@ Na YuNa lại bật cười khi thấy Yu IlHan hốt hoảng. Giờ đây, cô 
 
 Cô thực sự có thôi thúc muốn trao cho Yu IlHan những nụ hôn tới tấp với tất cả cảm xúc lúc này, nhưng điều đó là bất khả thi khi Liera đang ở đây, chỉ thấy thật đáng tiếc. Cô thậm chí còn nhìn thấy cơ bắp trên cánh tay Liera đang giật giật, sẵn sàng ngăn cô lại bất cứ lúc nào.
 
-"Đồ bủn xỉn." Na YuNa bĩu môi.
+"Đồ keo kiệt." Na YuNa bĩu môi.
 
 "Im miệng đi." Liera trừng mắt.
 
@@ -208,7 +208,7 @@ Giới thượng tầng của đế quốc, bao gồm cả hoàng đế, đều 
 
 Pháo Đài Bay cũng như Yu IlHan, những người xuất hiện sau khi Na YuNa tạo ra kỳ tích nơi thánh địa, đã được các tín đồ giáo hội công nhận là một phần sức mạnh của Leytna, hay hóa thân của người, hoặc những điều tương tự như vậy. Điều này cũng không ngoại lệ đối với cả đội quân đế quốc bại trận; toàn bộ lục địa giờ đây đã được quy về một mối dưới danh nghĩa của người.
 
-Li Catriana cứ thế sụp đổ. Nhờ hành động của Yu IlHan và Pháo Đài Bay, họ đã nhổ tận gốc rễ bộ máy quyền lực đầu não của đế quốc, thế nên việc Elforce thâu tóm Li Catriana cũng chẳng mấy khó khăn.
+Li Catriana cứ thế sụp đổ. Nhờ hành động của Yu IlHan và Pháo Đài Bay, họ đã tiêu diệt tận gốc bộ máy quyền lực đầu não của đế quốc, thế nên việc Elforce thâu tóm Li Catriana cũng chẳng mấy khó khăn.
 
 Vấn đề đặt ra lúc này là ai sẽ ngồi lên ngai vàng của Đế Quốc Thống Nhất.
 
@@ -268,9 +268,9 @@ Yu IlHan, người nãy giờ vẫn lắng nghe toàn bộ cuộc đối thoại
 
 "..."
 
-Vị Giáo hoàng, người vừa lấy lại được dung mạo tuổi đôi mươi bằng cách chuyển hóa lượng mana tràn trề từ món phụ kiện thành thánh lực, nhìn Yu IlHan như thể nhìn một kẻ quái dị, nhưng Yu IlHan vốn đã quá quen với điều đó nên chẳng thấy mảy may bận lòng.
+Vị Giáo hoàng, người vừa lấy lại được dung mạo cuối độ tuổi hai mươi bằng cách chuyển hóa lượng mana tràn trề từ món phụ kiện thành thánh lực, nhìn Yu IlHan như thể nhìn một kẻ quái dị, nhưng Yu IlHan vốn đã quá quen với điều đó nên chẳng thấy mảy may bận lòng.
 
-Na YuNa mỉm cười đầy thỏa mãn, còn Liera cũng nở một nụ cười cay đắng như muốn nói rằng chuyện này chẳng có gì là mới lạ.
+Na YuNa mỉm cười đầy thỏa mãn, còn Liera cũng cười trừ như muốn nói rằng chuyện này chẳng có gì là mới lạ.
 
 Cứ như thế, Nữ hoàng đầu tiên của Đế Quốc Thống Nhất đã ra đời.
 
