@@ -66,6 +66,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mystic | Mistic | Mystic | Tàn niệm thực thể cấp cao chuyển chức 5 sinh ra trên Trái Đất, bị Yu IlHan thu phục thành thuộc hạ | 204 |
 | Chaos Will |  | Ý Chí Hỗn Loạn | Thực thể cấp cao chuyển chức 6 (Lv 403) sinh ra từ tập hợp ý thức oán hận của các sinh vật Trái Đất bị bỏ lại nghìn năm, ẩn thân tập kích Yu IlHan nhưng bị Liera chặn đánh trọng thương và bị IlHan tiêu diệt | 211 |
 | Pope | the pope; Your Holiness; Her Holiness | Giáo hoàng | Giáo hoàng của Giáo Hội Leytna tại thế giới Breya, người từng là đệ nhất mỹ nhân lục địa, chọn Na YuNa làm thánh nữ kế nhiệm | 220 |
+| Blatail |  | Blatail | Thực thể cấp cao Lv 317 thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yu IlHan tập kích chém đứt đuôi tiêu diệt | 223 |
 
 ## Chi tiết
 
@@ -613,4 +614,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / năng lực: Bà lão tóc trắng đội vương miện thánh thạch phát ánh sáng đỏ (biểu tượng quyền lực tối cao của giáo hội); thực thể chuyển chức 4 đã sống hơn 200 năm; sở hữu bí thuật giải phóng mana tích tụ nhiều thập kỷ để đảo ngược thời gian lấy lại dung mạo mỹ nữ đôi mươi.
 - Xuất hiện tính đến chương 220: Tỉnh táo gõ trán Na YuNa khi cô nói năng ngây ngô; nhìn thấu ý định tự sát để giữ gìn sự trong sạch của Na YuNa; trao vương miện thánh thạch cho Na YuNa và dặn cô phải trốn thoát; tự mình thi triển bí thuật trẻ hóa bước ra chặn hậu trước đại quân đế quốc Li Catriana.
 - Trạng thái tính đến chương 220–222: Trao vương miện giáo hoàng cho Na YuNa và dùng bí thuật trẻ hóa chặn hậu; sẵn sàng tử chiến cùng các thánh kỵ sĩ; kinh ngạc chứng kiến Pháo Đài Bay và IlHan giáng lâm quét sạch quân xâm lược; trở lại diện mạo tuổi già, đồng ý để Liera lo việc dọn dẹp chiến trường và đi nghỉ ngơi sau một tuần kiệt sức; gửi gắm Na YuNa cho IlHan và Liera chăm sóc.
+
+### Blatail
+- Giới tính, vai trò: Vô tính, thực thể cấp cao Lv 317 thuộc Quân Đội Ma Hủy Diệt đóng quân tại đại bản doanh quân xâm lược Li Catriana ở Breya.
+- Ngoại hình / đặc điểm: Cơ thể khổng lồ cao 3m mang giáp đuôi phía sau, có máu màu xanh lá chứa kịch độc mang khả năng siêu tái sinh vô tận và tự sinh mana; điểm yếu chí tử nằm ở chiếc đuôi bọc giáp.
+- Xuất hiện tính đến chương 223: Đang ngủ say thì bị Yu IlHan và Yumir đột kích chém đứt cơ thể làm 3 phần; dựa vào khả năng siêu tái sinh định phản kích nhưng bị ngọn lửa trắng thiêu đốt và bị IlHan chém đứt đuôi tiêu diệt sau 27 giây, trở thành nguồn kinh nghiệm giúp IlHan tăng 2 cấp lên Lv 272.
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T07:39:45Z",
+  "generatedAt": "2026-10-27T07:46:53Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1337,6 +1337,12 @@
           "title": "Chương 222: Bây Giờ Tôi Đến Đón Mọi Người – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_222.md",
           "sha": "766763f6ff21eb4676aea8d42b4c5203fbeab645"
+        },
+        {
+          "number": 223,
+          "title": "Chương 223: Bây Giờ Tôi Đến Đón Mọi Người – 8",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_223.md",
+          "sha": "a110a9a587aad08167c7847b00694a088da82f80"
         }
       ]
     }

@@ -701,7 +701,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Infernal Dragon |  | Hỏa Ngục Long | khác | 212 | Thực thể / tên gọi của con rồng hỏa ngục bên trong bộ giáp Hỏa Ngục Long Thân |
 | Falling Down | Falling down | Đọa Lạc | kỹ năng | 213 | Kỹ năng độc nhất dung hợp từ 7 kỹ năng (Liệt Hỏa, Tử Thần, Thu Thập Tử Vong, Linh Hồn Phụ Ma, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao) của Kẻ Giáng Địa Ngục |
 | God Force |  | Thần Lực | kỹ năng | 213 | Kỹ năng dung hợp từ Quái Lực và Chí Mạng khi Yu IlHan đạt chuyển chức lần 4, tăng 300% sức mạnh cơ bắp |
-| Record skill | Record Skill | Ký Lục | kỹ năng | 213 | Kỹ năng tiến hóa từ Ngôn Ngữ, cho phép Yu IlHan thấu hiểu bản thân và thế giới dưới góc nhìn của Hồ Sơ Akashic |
+| Record skill | Record Skill; The skill Record | Ký Lục | kỹ năng | 213 | Kỹ năng tiến hóa từ Ngôn Ngữ, cho phép Yu IlHan thấu hiểu bản thân và thế giới dưới góc nhìn của Hồ Sơ Akashic |
 | BGM |  | nhạc nền | khác | 214 | Viết tắt của Background Music, nhạc nền |
 | Dragon's Army | Dragon's army; dragon army | Quân Đoàn Rồng | tổ chức | 214 | Đội quân những đứa trẻ Trái Đất theo Yumir (tên gọi khác của Quân Đoàn Địa Ngục Rồng) |
 | Breath of Gold |  | Hơi Thở Hoàng Kim | vật phẩm | 217 | Trang bị giáp kiêm vũ khí biến hình phẩm cấp Hỗn Loạn Yu IlHan rèn cho Yumir từ Ý Chí Hỗn Loạn |

@@ -227,7 +227,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | reviewed |  |
 | 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | reviewed |  |
 | 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | reviewed |  |
-| 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | todo |  |
+| 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | done |  |
 | 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | todo |  |
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | todo |  |
 | 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | todo |  |
@@ -891,3 +891,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#220] Yu IlHan xưng hô với hạm đội trẻ em khi nhận danh xưng 'Captain': tạm dịch 'Thuyền trưởng' (gắn với kỹ năng 'Chỉ Huy Hạm Đội' và pháo đài bay, tạo không khí phiêu lưu cho lũ trẻ); phương án khác: 'Đội trưởng' / 'Hạm trưởng'. → Giữ nguyên 'Thuyền trưởng' (phù hợp với nét hài chuuni khi 'bật công tắc' của Yu IlHan và kỹ năng Chỉ Huy Hạm Đội) (orchestrator)
 - [#220] Kính ngữ và xưng hô giữa Na YuNa và Giáo hoàng (the pope / Your Holiness): Na YuNa xưng 'con', gọi 'Đức Giáo Hoàng'; Giáo hoàng xưng 'ta', gọi 'con / YuNa' (do là bậc tiền bối >200 tuổi dìu dắt YuNa); phương án khác: gọi 'Đức Giáo Chủ' / 'Đức Thánh Mẫu'. → Giữ nguyên 'Đức Giáo Hoàng' (Your Holiness) và cặp xưng hô con - Đức Giáo Hoàng / ta - con, YuNa (orchestrator)
 - [#222] Đoạn 105: 'Sharp.' là lời thoại đối đáp tán thưởng ('Tinh ý đấy') của Yu IlHan với Mystic, trùng từ tiếng Anh với tiền tố thuộc tính 'Sharp' ('Sắc Bén') trong glossary — Phương án tạm dùng: dịch 'Tinh ý đấy' theo ngữ cảnh hội thoại thay vì ép dùng 'Sắc Bén'. → Giữ 'Tinh ý đấy' theo ngữ cảnh hội thoại; 'Sharp' trong glossary chỉ áp dụng cho tiền tố trang bị. (orchestrator)
+- [#223] Tên quái vật thực thể cấp cao "Blatail" — Tạm chọn: giữ nguyên "Blatail" theo rules.md cho tên quái vật có tên riêng. Phương án khác: phiên âm. → Giữ nguyên 'Blatail' theo rules.md cho tên riêng của thực thể/quái vật. (orchestrator)

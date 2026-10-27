@@ -1361,3 +1361,9 @@ Yu IlHan cùng Pháo Đài Bay quét sạch 190.000 quân đế quốc Li Catria
 Liera xuất hiện trong bộ chiến bào kiêu dũng nhận lãnh trách nhiệm dọn dẹp tàn quân và canh phòng để Giáo hoàng, Kang HaJin cùng các thánh kỵ sĩ nghỉ ngơi; HaJin ngỡ ngàng khi nhận ra IlHan và Liera đã thành một đôi, song cảnh báo YuNa sẽ không dễ dàng từ bỏ.
 Yu IlHan bế Na YuNa vào phòng nghỉ của pháo đài bay rồi dỗ dành Liera, khẳng định cô là người đặc biệt nhất đối với anh.
 Cảnh kết thúc: Bỏ lại Liera đang thở dài và Mystic kinh ngạc trước khả năng ẩn thân siêu việt, Yu IlHan cưỡi rồng Yumir xuất phát đi ám sát 4 Ma Binh Hủy Diệt tại đại bản doanh quân đế quốc.
+
+## 223
+Yu IlHan cưỡi trên lưng rồng Yumir, kết hợp Cộng Hưởng Long Nhân và Thống Trị gia tăng 30% năng lực chiến đấu; cả hai duy trì Ẩn Thân hoàn hảo vượt qua kết giới ma pháp bảo hộ đột kích vào đại bản doanh quân đế quốc Li Catriana tại Elforce.
+IlHan dùng Bát Vĩ Long Thương bất ngờ tập kích xuyên thủng đầu và chém lìa cơ thể thực thể cấp cao Lv 317 Blatail thuộc Quân Đội Ma Hủy Diệt; nhận diện điểm yếu của quái vật có khả năng siêu tái sinh nằm ở chiếc đuôi bọc giáp, IlHan phóng thương chặt đứt đuôi tiêu diệt Blatail sau 27 giây, kỹ năng Ký Lục đạt cấp 3 và bản thân tăng liền 2 cấp lên Lv 272 (Yumir cũng tăng 2 cấp).
+Phát hiện đồng minh bị hạ sát, hai thực thể cấp cao còn lại hoảng loạn bỏ chạy khỏi đại bản doanh; Yumir kích hoạt Hơi Thở Hoàng Kim hóa thành đôi cánh gió tăng gấp đôi tốc độ chở IlHan duy trì ẩn thân bám đuổi sát nút.
+Cảnh kết thúc: Nghe lỏm hai thực thể cấp cao bàn tán về việc Quân Đội Thiên Giới đàm phán thỏa thuận giam chân mình ở Trái Đất, Yu IlHan không hề dao động trước dấu hiệu phản bội mà lập tức phóng thương phủ đầy mana giáng một đòn chí mạng vào lưng kẻ địch.
