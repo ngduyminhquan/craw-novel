@@ -223,7 +223,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 216 |  | Chapter_216 - I’m Coming To Get You Now – 1.txt | I’m Coming To Get You Now – 1 | reviewed |  |
 | 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | done |  |
 | 218 |  | Chapter_218 - I’m Coming To Get You Now – 3.txt | I’m Coming To Get You Now – 3 | done |  |
-| 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | todo |  |
+| 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | done |  |
 | 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | todo |  |
 | 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | todo |  |
 | 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | todo |  |
@@ -887,3 +887,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#217] Tên trang bị phẩm cấp Hỗn Loạn của Yumir "Breath of Gold" — Tạm chọn: "Hơi Thở Hoàng Kim". Phương án khác: "Hơi Thở Ánh Vàng" / "Hơi Thở Kim Sắc". → Giữ 'Hơi Thở Hoàng Kim' (orchestrator)
 - [#217] Đoạn thoại bí ẩn [They... lo... sacred...] ở đoạn 115: "lo..." có thể là "look" (They look sacred) hoặc "love" (tình yêu thiêng liêng). Tạm chọn: "[Họ... trô... thiêng liêng...]". → Giữ '[Họ... trô... thiêng liêng...]' (orchestrator)
 - [#218] Tên bộ chiến bào phẩm cấp Thần của Liera 'Feather of Temptation' — Tạm chọn: 'Lông Vũ Mê Hoặc' (rèn từ hơn 300.000 lông vũ và máu trắng của Liera). Phương án khác: 'Vũ Trang Mê Hoặc' hoặc 'Lông Vũ Quyến Rũ'. → Giữ 'Lông Vũ Mê Hoặc' (orchestrator)
+- [#219] Tên chức nghiệp phụ "Dimensional Traveller" và 3 kỹ năng mới (Dimensional Adaptation, Fleet Command, Ruler of Dimensions) — Tạm dùng: "Du Hành Giả Thứ Nguyên", "Thích Ứng Thứ Nguyên", "Chỉ Huy Hạm Đội", "Chúa Tể Thứ Nguyên". Phương án khác: "Lữ Khách Thứ Nguyên", "Thứ Nguyên Thích Ứng", "Thống Soái Hạm Đội", "Thống Trị Thứ Nguyên". → Giữ 'Du Hành Giả Thứ Nguyên', 'Thích Ứng Thứ Nguyên', 'Chỉ Huy Hạm Đội', 'Chúa Tể Thứ Nguyên' (orchestrator)

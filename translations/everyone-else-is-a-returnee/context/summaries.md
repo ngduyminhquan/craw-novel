@@ -1338,3 +1338,9 @@ Liera mặc bộ chiến bào mới lộng lẫy và hạnh phúc đón nhận l
 IlHan tạm gác việc dùng nửa thi thể Ý Chí Hỗn Loạn còn lại (chờ ma thạch cấp 5 để làm bộ trang bị mới và ưu tiên nâng cấp cho Yumir) và tiếp tục sử dụng Hỏa Ngục Long Thân, rồi mở danh sách chức nghiệp phụ để tìm kiếm chức nghiệp gia tăng phụ kiện hồi phục mana như Hoàng nữ Palladia.
 Cảnh kết thúc: Lướt tới cuối danh sách, IlHan bỏ qua ý định ban đầu khi phát hiện một chức nghiệp phụ bất ngờ, đôi mắt ánh lên sắc đỏ đầy phấn khích với tuyên bố đã "nhìn thấy một kết thúc khác".
 
+## 219
+Yu IlHan nhận chức nghiệp phụ độc nhất 'Du Hành Giả Thứ Nguyên' cùng 3 kỹ năng mới (Thích Ứng Thứ Nguyên, Chỉ Huy Hạm Đội, Chúa Tể Thứ Nguyên), mở ra khả năng di chuyển tự do qua 32 thế giới với chi phí cực thấp để kết nối nhân loại và hỗ trợ Trái Đất thăng hoa; Liera được bổ nhiệm làm thành viên số 1 của hạm đội.
+Liera tranh thủ cơ hội 'ép' IlHan vào phòng ngủ nghỉ ngơi suốt 3 ngày để bồi đắp tình cảm và khát khao tích tụ hàng trăm năm, khiến Mystic liên tục xả đạn diệt quái giải tỏa còn Orochi phải nhắm mắt niệm Phật; IlHan hồi phục thần tốc và khẳng định hiệu quả của Siêu Việt Tái Sinh là vô hạn.
+IlHan rèn 18 món phụ kiện từ nguyên liệu chuyển chức 5 (4 Hỗn Loạn, 5 Sử Thi, 9 Truyền Thuyết) cho bản thân, Liera và Yumir, nâng giới hạn và tốc độ hồi phục mana lên 400%; dự kiến mất một tuần để may đo trang bị cho 9.300 đứa trẻ.
+Cảnh kết thúc: Thiết bị liên lạc im lìm suốt 3 năm trong túi Yu IlHan bất ngờ rung sáng báo hiệu tín hiệu cầu cứu từ Na YuNa tại Breya; IlHan rung chuyển pháo đài bay phát lệnh kết thúc kỳ nghỉ để chuẩn bị xuất phát sang thế giới mới.
+

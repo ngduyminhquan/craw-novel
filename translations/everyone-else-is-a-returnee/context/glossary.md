@@ -707,3 +707,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Feather of Temptation | Feathers of Temptation | Lông Vũ Mê Hoặc | vật phẩm | 218 | Bộ chiến bào trang phục rèn từ 300.000 lông vũ và máu trắng của Liera (Rank Thần) |
 | Nietzsche |  | Nietzsche | khác | 218 | Nhà triết học Friedrich Nietzsche với tuyên ngôn Thượng Đế đã chết (tham chiếu triết học) |
 | Zarathustra |  | Zarathustra | khác | 218 | Nhân vật trong tác phẩm triết học của Nietzsche (tham chiếu triết học) |
+| Dimensional Traveller |  | Du Hành Giả Thứ Nguyên | chức nghiệp | 219 | Chức nghiệp phụ độc nhất Yu IlHan đạt được, giảm tài nguyên tiêu hao khi di chuyển giữa các thứ nguyên |
+| Dimensional Adaptation |  | Thích Ứng Thứ Nguyên | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên giúp xóa bỏ mọi phạt chỉ số ở bất kỳ thứ nguyên nào |
+| Fleet Command |  | Chỉ Huy Hạm Đội | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên cho phép mang thành viên đi cùng khi di chuyển chiều không gian và chia sẻ Thích Ứng Thứ Nguyên |
+| Ruler of Dimensions |  | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
+| Maha prajna para mita |  | Ma ha bát nhã ba la mật đa | khác | 219 | Câu chân ngôn tiếng Phạn Bát Nhã Ba La Mật Đa (Maha Prajnaparamita) do Orochi trì tụng khi tịnh tâm thiền định |
