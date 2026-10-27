@@ -535,6 +535,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 109: Được IlHan chiêu đãi món mì ramen ngập thịt; được IlHan kích hoạt kỹ năng Thống Trị thu nhận làm cấp dưới; bộc lộ chỉ số vượt trội và kỹ năng giải phẫu thượng thừa; tôn xưng Yumir là "Điện hạ"; nhận chỉ tiêu giải phẫu 3 vạn xác Long tộc trong xưởng rèn để đổi lấy trang bị cao cấp do IlHan tự tay chế tạo.
 - Trạng thái tính đến chương 122–123: Cả 4 elf nâng kỹ năng Giải Phẫu lên cấp 65; riêng Phiria kỹ năng Giải Phẫu vượt qua cấp 76, sẵn sàng thử sức với thi thể quái vật chuyển chức 4.
 - Trạng thái tính đến chương 227: Phiria đạt cấp độ 182 với chức nghiệp Ảnh Đạo Tặc (Shadow Thief), trang bị phẩm cấp Truyền Thuyết; tử trận tại Daréu trong bối cảnh thế giới này thăng cấp thành thế giới bậc cao sau Đại Tai Biến lần 5.
+- Trạng thái tính đến chương 239: Paté cùng tộc elf và Lang tộc phối hợp hạ sát một thực thể cấp cao của Quân Đội Ma Hủy Diệt; vô tình kích hoạt dòng thuộc tính của Quỹ Đạo Tử Thần hồi sinh kẻ đó thành undead phục tùng; chiến công vượt cấp giúp Paté đột phá chuyển chức lần 4 thành Cung Thủ Định Mệnh (Destiny Archer), vũ khí tiến hóa lên phẩm cấp Hỗn Loạn và được Thần Lời Nguyền nhắm ban phước.
 
 ### Lang tộc Kiroa
 - Vai trò, chủng tộc: Chủng tộc người sói đến từ thế giới Kiroa, đứng đầu bởi Công chúa Erica và Hộ Vệ Hoàng Gia Flemir; đã quy phục Yu IlHan, hỗ trợ xây dựng và bảo vệ căn cứ tại Trái Đất cũng như Daréu.

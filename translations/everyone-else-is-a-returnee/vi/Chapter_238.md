@@ -14,7 +14,7 @@
 
 [Kỹ năng Tử Thần được kích hoạt, toàn bộ chỉ số tăng 8%. Kỹ năng sẽ bị hủy kích hoạt nếu bạn không tiêu diệt thêm bất kỳ kẻ địch nào trong vòng 3 giờ.]
 
-Kỹ năng Tử Thần kích hoạt, và các chỉ số vốn đã vô cùng mạnh mẽ của Yu IlHan lập tức tăng thêm 8% tại chỗ. Hồi Tử Thần mới cấp 1, mỗi mạng hạ gục chỉ giúp anh tăng vỏn vẹn 0,1% sức mạnh, nhưng giờ đây khi anh đã đạt cấp Đại Sư, nó đã trở thành một kỹ năng hoàn toàn khác biệt so với trước, bất kể là về tỷ lệ phần trăm chỉ số gia tăng hay giới hạn thời gian!
+Thực chất thì đúng là thế thật. Nếu là hồi ở chuyển chức lần 3 thì hiệu quả có thể không đến mức này, nhưng giờ đây khi anh đã luyện tới cảnh giới Đại Thành, nó đã trở thành một kỹ năng hoàn toàn khác biệt so với trước. Huống hồ, thứ thực sự kinh khủng vẫn còn ở phía sau.
 
 "Tốt lắm, tiếp tục nào."
 
@@ -186,7 +186,7 @@ Khoảnh khắc anh vừa dứt lời, hình bóng vốn đã hiện rõ mồn m
 
 [Khặc!]
 
-Cùng lúc đó, mười vết rách khác lại xuất hiện trên cơ thể tên khổng lồ, và lần này đã thực sự phanh thây hắn thành mười mảnh dứt điểm. Dù kỹ năng Tử Thần của Yu IlHan đã bị ngắt quãng vì không thể hạ gục kẻ địch ngay lập tức, nhưng thuật ẩn thân của anh vẫn được duy trì trọn vẹn, và đòn tập kích đã thành công mỹ mãn; hơn nữa, vì kẻ thù không thể phục hồi thương tích nhờ vào 'đòn tấn công mang đẳng cấp quá cao' của Yu IlHan, nên mọi chuyện đã được định đoạt dễ dàng như thế.
+Cùng lúc đó, mười đường chém khác lại xuất hiện trên cơ thể tên khổng lồ, và lần này đã thực sự phanh thây hắn thành mười mảnh dứt điểm. Dù kỹ năng Tử Thần của Yu IlHan đã bị ngắt quãng vì không thể hạ gục kẻ địch ngay lập tức, nhưng thuật ẩn thân của anh vẫn được duy trì trọn vẹn, và đòn tập kích đã thành công mỹ mãn; hơn nữa, vì kẻ thù không thể phục hồi thương tích nhờ vào 'đòn tấn công mang đẳng cấp quá cao' của Yu IlHan, nên mọi chuyện đã được định đoạt dễ dàng như thế.
 
 Ngay sau đó, dòng chữ mà Yu IlHan yêu thích nhất đã hiện lên trên võng mạc của anh.
 

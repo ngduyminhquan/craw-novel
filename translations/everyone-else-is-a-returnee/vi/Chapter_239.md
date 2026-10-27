@@ -10,9 +10,9 @@
 
 Doanh trại Quân Đội Ma Hủy Diệt chìm trong hỗn loạn. Sau khi tên khổng lồ đầy uy lực chết uổng mạng, những thực thể cấp cao khác với chút năng lực cỏn con đều đua nhau gào thét nêu ý kiến làm nơi này náo loạn cả lên, trong khi Yu IlHan vẫn tiếp tục tỉa bớt từng tên một.
 
-[Bạn nhận được kinh nghiệm.]
+[Bạn đã nhận được kinh nghiệm.]
 
-[Bạn nhận được kinh nghiệm.]
+[Bạn đã nhận được kinh nghiệm.]
 
 [Bạn đã đạt cấp độ 294. Tăng 2 Sức mạnh, 1 Nhanh nhẹn, 1 Thể lực, 1 Ma pháp.]
 
@@ -44,7 +44,7 @@ Từ giờ trở đi là nhiệm vụ phòng thủ — ngăn không cho chúng r
 
 [Bôi nhọ thanh danh của Quân Đội Ma Hủy Diệt cũng phải có giới hạn thôi chứ! Các ngươi không dám hành động chỉ vì sợ hãi một tên thực thể cấp thấp bé mọn.... Khặc!?]
 
-Yu IlHan vung thương chém đôi thêm một thành viên nữa của Quân Đội Ma Hủy Diệt rồi ngẩng đầu lên. Pháo đài bay và Pháo Đài Hộ Vệ trên không trung đang được bao phủ dưới thánh lực khổng lồ của Na YuNa.
+Yu IlHan vung thương chém đôi thêm một thành viên nữa của Quân Đội Ma Hủy Diệt rồi ngẩng đầu lên. Pháo Đài Bay và Pháo Đài Hộ Vệ trên không trung đang được bao phủ dưới thánh lực khổng lồ của Na YuNa.
 
 Dĩ nhiên, vì thuật ẩn thân của Yu IlHan vẫn còn hiệu lực nên hai tòa pháo đài vẫn chưa hề bị chúng cảm nhận được!
 
@@ -70,7 +70,7 @@ Những ngọn lửa trắng lan tỏa ra xung quanh và thiêu rụi toàn bộ
 
 [Không, đó chắc chắn là bản thể thật của hắn, bởi vì...]
 
-Giờ thì chúng đã có thể nhìn thấy hai tòa pháo đài! Lời nói của nó bị chôn vùi trong tiếng động đinh tai nhức óc mà Yu IlHan tạo ra khi anh nện chiếc búa xuống.
+Giờ thì chúng đã có thể nhìn thấy hai tòa pháo đài! Lời nói của tên đó bị chôn vùi trong tiếng động đinh tai nhức óc mà Yu IlHan tạo ra khi anh nện chiếc búa xuống.
 
 [Chí Mạng!]
 
@@ -210,7 +210,7 @@ Và rồi, điều đó rốt cuộc cũng xảy ra. Những thanh kiếm trong 
 
 [Ta không thể chết dưới tay lũ giòi bọ như...]
 
-"Kha!"
+"Á!"
 
 "Á á á!"
 
@@ -262,7 +262,7 @@ Paté đã chạm đến giới hạn của chuyển chức lần 3 từ cách �
 
 [Quỹ Đạo Tử Thần tiến hóa lên phẩm cấp Hỗn Loạn nhờ vào những ghi chép của người sử dụng. Vũ khí này có thể tiến hóa thêm một lần nữa khi nhận được lời chúc phúc từ Thần Lời Nguyền.]
 
-Mana màu tím đen hội tụ về phía Paté, người đang đứng ở giữa chiến trường. Dù Yu IlHan trước đây cũng từng như vậy, nhưng cảnh tượng này vẫn vô cùng ầm ĩ, khó tin nếu chỉ là một màn thăng cấp chuyển chức lần 4.
+Mana màu tím đen hội tụ về phía Paté, người đang đứng ở giữa chiến trường. Dù Yu IlHan trước đây cũng từng như vậy, nhưng cảnh tượng này vẫn vô cùng rầm rộ, khó tin nếu chỉ là một màn thăng cấp chuyển chức lần 4.
 
 "Phùuu."
 

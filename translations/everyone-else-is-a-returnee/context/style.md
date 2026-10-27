@@ -31,6 +31,7 @@
 | Kwek / Kweeek | Khẹc / Khẹccc | Tiếng kêu/rít của quái vật bò sát (Thằn Lằn Lửa) |
 | Kuaak | Khuặc | Tiếng gầm thét của quái vật |
 | Kyaaak / Kyaaaak | Khéck / Khéccc | Tiếng rít/thét chói tai của quái vật |
+| Kyak | Á / Khé | Tiếng thét thất thanh đau đớn của trẻ nhỏ hoặc người bị thương |
 | Kuhuk / Kuhk | Khặc / Hự | Tiếng rên/nghẹn họng khi trúng đòn hiểm |
 | Kehk | Khặc / Ặc | Tiếng nghẹn họng vì sốc hoặc kinh ngạc |
 | Wao | Oa | Tiếng thốt lên thích thú hoặc kinh ngạc của Na YuNa |
