@@ -67,6 +67,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Chaos Will |  | Ý Chí Hỗn Loạn | Thực thể cấp cao chuyển chức 6 (Lv 403) sinh ra từ tập hợp ý thức oán hận của các sinh vật Trái Đất bị bỏ lại nghìn năm, ẩn thân tập kích Yu IlHan nhưng bị Liera chặn đánh trọng thương và bị IlHan tiêu diệt | 211 |
 | Pope | the pope; Your Holiness; Her Holiness | Giáo hoàng | Giáo hoàng của Giáo Hội Leytna tại thế giới Breya, người từng là đệ nhất mỹ nhân lục địa, chọn Na YuNa làm thánh nữ kế nhiệm | 220 |
 | Blatail |  | Blatail | Thực thể cấp cao Lv 317 thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yu IlHan tập kích chém đứt đuôi tiêu diệt | 223 |
+| Arreyal |  | Arreyal | Thực thể cấp cao Lv 311 thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yu IlHan phóng thương đâm xuyên điểm yếu tiêu diệt | 224 |
+| Sharkilton |  | Sharkilton | Thực thể cấp cao Lv 309 mang đầu cá mập thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yumir tập kích trọng thương rồi bị Yu IlHan kết liễu | 224 |
 
 ## Chi tiết
 
@@ -619,4 +621,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Vô tính, thực thể cấp cao Lv 317 thuộc Quân Đội Ma Hủy Diệt đóng quân tại đại bản doanh quân xâm lược Li Catriana ở Breya.
 - Ngoại hình / đặc điểm: Cơ thể khổng lồ cao 3m mang giáp đuôi phía sau, có máu màu xanh lá chứa kịch độc mang khả năng siêu tái sinh vô tận và tự sinh mana; điểm yếu chí tử nằm ở chiếc đuôi bọc giáp.
 - Xuất hiện tính đến chương 223: Đang ngủ say thì bị Yu IlHan và Yumir đột kích chém đứt cơ thể làm 3 phần; dựa vào khả năng siêu tái sinh định phản kích nhưng bị ngọn lửa trắng thiêu đốt và bị IlHan chém đứt đuôi tiêu diệt sau 27 giây, trở thành nguồn kinh nghiệm giúp IlHan tăng 2 cấp lên Lv 272.
+
+### Arreyal
+- Giới tính, vai trò: Vô tính, thực thể cấp cao Lv 311 thuộc Quân Đội Ma Hủy Diệt đóng quân tại Breya.
+- Xuất hiện tính đến chương 224: Bị Yu IlHan dùng thương đâm trúng điểm yếu chí mạng giết chết ngay tức khắc khi kỹ năng Tử Thần vẫn đang kích hoạt, giúp IlHan thăng lên Lv 273.
+
+### Sharkilton
+- Giới tính, vai trò: Vô tính / nam tính, thực thể cấp cao Lv 309 thuộc Quân Đội Ma Hủy Diệt đóng quân tại Breya.
+- Ngoại hình / đặc điểm: Cơ thể mang chiếc đầu có hình thù giống cá mập, máu màu xanh lam, có thể phình to cơ thể khi kích hoạt trạng thái tự vệ.
+- Xuất hiện tính đến chương 224: Hoảng loạn bỏ chạy sau cái chết của Blatail và Arreyal nhưng bị Yumir tập kích xé toạc cổ bằng móng vuốt ngưng tụ gió và Hơi Thở Hoàng Kim; sau đó bị Yu IlHan dùng Đọa Lạc hạ thấp một bậc đẳng cấp, dùng Thần Lực kết hợp sức mạnh gió của Yumir gia cường ngọn lửa trắng vung thương chém đầu kết liễu.
 

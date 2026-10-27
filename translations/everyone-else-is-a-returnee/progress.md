@@ -228,7 +228,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | reviewed |  |
 | 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | reviewed |  |
 | 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | done |  |
-| 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | todo |  |
+| 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | done |  |
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | todo |  |
 | 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | todo |  |
 | 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -892,3 +893,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#220] Kính ngữ và xưng hô giữa Na YuNa và Giáo hoàng (the pope / Your Holiness): Na YuNa xưng 'con', gọi 'Đức Giáo Hoàng'; Giáo hoàng xưng 'ta', gọi 'con / YuNa' (do là bậc tiền bối >200 tuổi dìu dắt YuNa); phương án khác: gọi 'Đức Giáo Chủ' / 'Đức Thánh Mẫu'. → Giữ nguyên 'Đức Giáo Hoàng' (Your Holiness) và cặp xưng hô con - Đức Giáo Hoàng / ta - con, YuNa (orchestrator)
 - [#222] Đoạn 105: 'Sharp.' là lời thoại đối đáp tán thưởng ('Tinh ý đấy') của Yu IlHan với Mystic, trùng từ tiếng Anh với tiền tố thuộc tính 'Sharp' ('Sắc Bén') trong glossary — Phương án tạm dùng: dịch 'Tinh ý đấy' theo ngữ cảnh hội thoại thay vì ép dùng 'Sắc Bén'. → Giữ 'Tinh ý đấy' theo ngữ cảnh hội thoại; 'Sharp' trong glossary chỉ áp dụng cho tiền tố trang bị. (orchestrator)
 - [#223] Tên quái vật thực thể cấp cao "Blatail" — Tạm chọn: giữ nguyên "Blatail" theo rules.md cho tên quái vật có tên riêng. Phương án khác: phiên âm. → Giữ nguyên 'Blatail' theo rules.md cho tên riêng của thực thể/quái vật. (orchestrator)
+- [#224] Tiêu đề arc mới "I Go With You – 1" — Tạm chọn: "Tôi Đi Cùng Cậu – 1" (đồng bộ ngôi xưng "tôi" với các arc trước như "Tôi Cũng Thế", "Bây Giờ Tôi Đến Đón Mọi Người"). Phương án khác: "Tôi Đi Cùng Em – 1" (theo lời Na YuNa ở chương 227), "Tôi Sẽ Đi Cùng Cậu – 1", "Tôi Đi Cùng Người – 1". → Giữ 'Tôi Đi Cùng Cậu – 1' để đồng bộ ngôi xưng trung tính của tiêu đề chương với các arc trước. (orchestrator)
+- [#224] Tên kỹ năng của Yumir "Dragon Force" — Tạm chọn: "Long Lực" (dịch Hán Việt theo rules.md, tương ứng God Force là Thần Lực). Phương án khác: "Sức Mạnh Rồng". → Giữ 'Long Lực' theo quy tắc Hán Việt của rules.md (tương ứng Thần Lực, Long Uy). (orchestrator)
+- [#224] Tên hai thực thể cấp cao Quân Đội Ma Hủy Diệt "Arreyal" và "Sharkilton" — Tạm chọn: giữ nguyên "Arreyal" và "Sharkilton" theo rules.md cho tên riêng của quái vật/thực thể cấp cao. Phương án khác: phiên âm. → Giữ nguyên 'Arreyal' và 'Sharkilton' theo rules.md cho tên riêng của thực thể/quái vật. (orchestrator)

@@ -63,6 +63,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mystic | cô / Mystic / cô nàng | 204 | Tàn niệm thực thể cấp cao chuyển chức 5 được IlHan thu phục và đặt tên |
 | Chaos Will | nó / chiếc bóng / Ý Chí Hỗn Loạn | 211 | Thực thể cấp cao chuyển chức 6 sinh từ tập hợp ý thức oán hận Trái Đất |
 | Pope | bà / Giáo hoàng | 220 | Giáo hoàng của Giáo Hội Leytna tại thế giới Breya |
+| Arreyal | Arreyal | 224 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
+| Sharkilton | Sharkilton / con cá mập | 224 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -293,6 +295,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pope | HaJin | ta | cậu / hiệp sĩ | 221 | Giáo hoàng đáp lời Kang HaJin trước trận quyết chiến |
 | Liera | Pope | tôi | bà | 222 | Liera nhận việc dọn dẹp tàn quân và giục Giáo hoàng đi ngủ |
 | Pope | Liera | ta | cô | 222 | Giáo hoàng đồng ý đi nghỉ ngơi theo lời Liera |
+| Sharkilton | Yu IlHan | ta | ngươi | 224 | Sharkilton phẫn nộ uy hiếp Yu IlHan |
+| Yu IlHan | Sharkilton | ta / tôi | ngươi | 224 | Yu IlHan đối đáp với Sharkilton trước khi kết liễu |
 
 
 

@@ -716,3 +716,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | High-class Holy power control |  | Điều Khiển Thánh Lực Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
 | High-class blessing |  | Chúc Phúc Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
 | Master of Miracles |  | Bậc Thầy Kỳ Tích | danh hiệu | 221 | Danh hiệu Na YuNa đạt được, tăng 30% hiệu quả cho toàn bộ kỹ năng hệ thánh lực |
+| Dragon Force |  | Long Lực | kỹ năng | 224 | Kỹ năng gia tăng ma pháp và sức mạnh của Long tộc, Yumir thức tỉnh khi đạt chuyển chức lần 4 |
