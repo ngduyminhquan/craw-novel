@@ -233,7 +233,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | reviewed |  |
 | 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | reviewed |  |
 | 228 |  | Chapter_228 - I Go With You – 5.txt | I Go With You – 5 | reviewed |  |
-| 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | todo |  |
+| 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | done |  |
 | 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | todo |  |
 | 231 |  | Chapter_231 - I Go With You – 8.txt | I Go With You – 8 | todo |  |
 | 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -906,3 +907,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#228] Dịch câu thoại giận dữ của IlHan "You killed our Phiria, bitch." (đoạn 79) — Tạm chọn: "Mày dám giết Phiria của bọn tao, đồ khốn." Phương án khác: "Mày dám giết Phiria của bọn tao, con chó chết." → Giữ "Mày dám giết Phiria của bọn tao, đồ khốn." (orchestrator)
 - [#228] Cụm từ "America's Got Talent" (đoạn 9) — Tạm chọn: Việt hóa quen thuộc thành "Tìm Kiếm Tài Năng Mỹ". Phương án khác: giữ nguyên tiếng Anh "America's Got Talent". → Giữ "Tìm Kiếm Tài Năng Mỹ" để tránh sót từ tiếng Anh và tự nhiên với độc giả Việt. (orchestrator)
 - [#228] Kang HaJin gọi Yu IlHan là "Đội trưởng" (chương 228 đoạn 2) trong khi bầy rồng con gọi "Thủ lĩnh" (chương 227 đoạn 40) → Giữ nguyên "Đội trưởng" cho lời gọi đùa kiểu đội nhóm hiện đại của Kang HaJin, và giữ "Thủ lĩnh" cho tiếng reo của bầy rồng con. (orchestrator)
+- [#229] Tên riêng Katlar (thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt): tạm giữ nguyên 'Katlar' theo quy tắc tên riêng phương Tây. → Giữ nguyên "Katlar" theo rules.md. (orchestrator)

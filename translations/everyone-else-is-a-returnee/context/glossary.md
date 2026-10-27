@@ -683,7 +683,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dragonic bracelet |  | Vòng Tay Long Linh | vật phẩm | 191 | Tên gọi tắt chiếc vòng tay chế tác từ vảy rồng hệ lôi chứa thuộc tính bão sấm sét của Yu IlHan |
 | Dragon's Hell Army |  | Quân Đoàn Địa Ngục Rồng | tổ chức | 192 | Đội quân gồm những đứa trẻ sơ sinh ở hỏa ngục do Yumir thu phục bằng thịt quái vật |
 | Miraculously apocalyptic and unbelievably curseful Destruction mirror |  | Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin | vật phẩm | 193 | Tạo tác gương phẩm cấp Sử Thi rèn từ lông cánh thiên thần sa ngã có khả năng bắn chùm tia và phản đòn |
-| Destruction mirror | destruction mirror | Gương Hủy Diệt | vật phẩm | 193 | Tên gọi tắt của Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin |
+| Destruction mirror | destruction mirror; Destruction Mirrors; destruction mirrors | Gương Hủy Diệt | vật phẩm | 193 | Tên gọi tắt của Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin |
 | Hundred Eyes |  | Bách Nhãn | vật phẩm | 194 | Hệ thống 100 chiếc Gương Hủy Diệt kết hợp 20 thùng chứa ma thuật phẩm cấp Hỗn Loạn của Yu IlHan |
 | Destroyer's Flying Fortress | Destroyer's Flying fortress | Pháo Đài Bay Kẻ Hủy Diệt | vật phẩm | 194 | Tạo tác phẩm cấp Thần do Yu IlHan hoàn thành từ dinh thự Bittersweet Persona |
 | Electric Shield |  | Lôi Khiên | kỹ năng | 198 | Kỹ năng ma pháp bảo vệ lôi hệ của Kang MiRae |

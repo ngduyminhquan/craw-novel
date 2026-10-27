@@ -1397,3 +1397,9 @@ Dịch chuyển tới chiến trường nơi Phiria tử trận, Yu IlHan dùng 
 Nhận bùa lợi từ Na YuNa, IlHan phối hợp cùng Bách Nhãn của Mystic ném thương tiêu diệt Berein Lv 306 phe Ma Hủy Diệt để thăng lên Lv 274 và dùng kỹ năng Ký Lục (lên cấp 4) phát hiện kẻ thủ ác sát hại Phiria.
 Nhận diện hai kẻ phe Khu Vườn Hoàng Hôn tiếp cận chính là hung thủ lừa gạt đoạt mạng Phiria hòng cướp đoạt trang bị cấp Truyền Thuyết, Yu IlHan cùng Liera bất ngờ tập kích tàn sát tàn nhẫn; IlHan dùng Bát Vĩ Long Thương kết hợp Liệt Hỏa kết liễu Piltah Lv 317 còn Liera trảm sát tên còn lại.
 Cảnh kết thúc: Hai kẻ sống sót của phe Ma Hủy Diệt kinh hoàng trước sức mạnh áp đảo của thực thể cấp thấp; Yu IlHan kích hoạt Đọa Lạc bùng cháy biển lửa trắng rực rỡ, mở màn cho lễ hội lửa bao trùm toàn bộ Daréu.
+
+## 229
+Yu IlHan cùng Aegis và Bát Vĩ Long Thương nghiền nát Katlar Lv 319 (thuộc Quân Đội Ma Hủy Diệt) rồi nhường con ma thú còn lại cho Yumir kết liễu, thu hoạch lượng lớn kinh nghiệm giúp IlHan lên Lv 275 và Yumir thăng nhiều cấp.
+Sau cuộc trò chuyện với Liera về chiến thuật đối đầu các thế lực thực thể cấp cao và cùng Yumir quyết tâm báo thù cho Phiria, Yu IlHan đưa Pháo Đài Bay dịch chuyển tới khu tị nạn khẩn cấp của thuộc hạ tại Daréu.
+Chứng kiến Mirfa kiên quyết chờ Phiria trước áp lực chia tách từ Khu Vườn Hoàng Hôn, Yu IlHan xuất kích bắn hạ tên cầm đầu, ra lệnh cho elf rút lui phòng thủ rồi kích hoạt Đọa Lạc quét sạch 11 thực thể cấp cao trong 15 phút.
+Cảnh kết thúc: Yu IlHan quét sạch 11 thực thể cấp cao của Khu Vườn Hoàng Hôn trong 15 phút và tăng thêm 3 cấp độ.

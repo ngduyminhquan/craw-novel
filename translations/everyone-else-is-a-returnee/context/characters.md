@@ -71,6 +71,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Sharkilton |  | Sharkilton | Thực thể cấp cao Lv 309 mang đầu cá mập thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yumir tập kích trọng thương rồi bị Yu IlHan kết liễu | 224 |
 | Berein |  | Berein | Thực thể cấp cao Lv 306 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Bách Nhãn bắn trúng và bị Yu IlHan phóng thương tiêu diệt | 228 |
 | Piltah |  | Piltah | Thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu, kẻ lừa giết Phiria cướp trang bị cấp Truyền Thuyết, bị Yu IlHan tiêu diệt | 228 |
+| Katlar |  | Katlar | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt tự xưng anh hùng đồng bằng băng giá, bị Yu IlHan tiêu diệt | 229 |
 | Orochi | the Orochi | Orochi | Tàn niệm Yamata no Orochi, trở thành thuộc hạ của Yu IlHan trong Bát Vĩ Long Thương và Hỏa Ngục Long Thân | 73 |
 
 ## Chi tiết
@@ -647,6 +648,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam tính / vô tính, thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu.
 - Ngoại hình / hành vi: Giả vờ tiếp cận bảo vệ các elf để chiếm lòng tin, sau đó lén lút sát hại Ảnh Đạo Tặc Phiria để đoạt trang bị cấp Truyền Thuyết do Yu IlHan chế tạo; định lừa Yu IlHan cùng diệt trừ Quân Đội Ma Hủy Diệt nhưng bị anh nhìn thấu.
 - Xuất hiện tính đến chương 228: Bị Yu IlHan dùng Bát Vĩ Long Thương bất ngờ đâm thủng 10 lỗ trên cơ thể, sau đó bị ngọn lửa Liệt Hỏa và liên hoàn đâm chém tra tấn rách nát thân xác; dù bắn đạn mana chống cự nhưng không thể xuyên thủng giáp Hỏa Ngục Long Thân của IlHan và bị anh kết liễu bằng chuôi kiếm đóng vào cán thương.
+
+### Katlar
+- Giới tính, vai trò: Nam dạng người, thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt tại Daréu, tự xưng là anh hùng đồng bằng băng giá.
+- Xuất hiện tính đến chương 229: Bị xích linh hồn và ngọn lửa của Yu IlHan trói cùng một ma thú; toan phản kích bằng ma thuật băng nhưng bị Aegis phản hồi đòn đánh; sau đó nghênh chiến trực diện với Yu IlHan và bị ngọn lửa bán trong suốt nung chảy toàn bộ kiếm băng, bị chín kích liên hoàn của Bất Khả Họa Quỹ Đạo Thương cắt đứt mạch mana và bị mana bạo tẩu đóng băng cơ thể tiêu diệt.
 
 ### Orochi
 - Giới tính, vai trò: Tàn niệm quái xà Yamata no Orochi, sau trở thành thuộc hạ của Yu IlHan trú ngụ trong Bát Vĩ Long Thương và sau đó là bộ giáp Hỏa Ngục Long Thân.
