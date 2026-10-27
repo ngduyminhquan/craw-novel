@@ -68,7 +68,7 @@ Yu IlHan tàn nhẫn không cho phép bất kỳ ai được nghỉ ngơi. Ánh 
 
 "Chà, tất nhiên là tôi sẽ biến pháo đài vệ tinh thành một thánh địa rồi. Dù không thể bằng Pháo Đài Bay, nhưng tôi dự định sẽ tạo ra một số bùa lợi tăng cường cho những ai trú ngụ bên trong đó."
 
-"Uhiiiik."
+"Ư hức."
 
 Dẫu năng lực xuất chúng giúp Na YuNa thích nghi rất nhanh với thánh địa nhân tạo, nhưng cô thực sự chẳng hề tự tin vào khả năng kiểm soát của mình nếu khu vực này được mở rộng thêm.
 

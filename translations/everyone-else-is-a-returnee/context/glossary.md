@@ -392,7 +392,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Gangnam |  | Gangnam | địa danh | 64 | Quận Gangnam nổi tiếng tại Seoul, Hàn Quốc |
 | Magic Attack Power |  | Sức tấn công ma pháp | hệ thống | 64 | Chỉ số tấn công ma pháp của vũ khí/trang bị |
 | Bone Staff |  | Cốt Trượng | vật phẩm | 64 | Vũ khí gậy phép chế tác từ xương quái vật |
-| Excitement |  | Hưng Phấn | kỹ năng | 64 | Kỹ năng đặc biệt của Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc |
+| Excitement |  | Hưng Phấn | kỹ năng | 64 | Kỹ năng đặc biệt của Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc. Chỉ viết hoa khi là tên kỹ năng của vũ khí, danh từ cảm xúc thông thường thì viết thường hưng phấn / phấn khích |
 | Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |
 | Holy stone | holy stones; Holy stone; Holy Stone | Thánh thạch | vật phẩm | 65 | Khoáng thạch chứa năng lượng thánh lực |
 | Gangnam reinforced area | Gangnam reinforced district | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |

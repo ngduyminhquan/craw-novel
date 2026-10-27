@@ -529,6 +529,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 122–123: Cả 4 elf nâng kỹ năng Giải Phẫu lên cấp 65; riêng Phiria kỹ năng Giải Phẫu vượt qua cấp 76, sẵn sàng thử sức với thi thể quái vật chuyển chức 4.
 - Trạng thái tính đến chương 227: Phiria đạt cấp độ 182 với chức nghiệp Ảnh Đạo Tặc (Shadow Thief), trang bị phẩm cấp Truyền Thuyết; tử trận tại Daréu trong bối cảnh thế giới này thăng cấp thành thế giới bậc cao sau Đại Tai Biến lần 5.
 
+### Lang tộc Kiroa
+- Vai trò, chủng tộc: Chủng tộc người sói đến từ thế giới Kiroa, đứng đầu bởi Công chúa Erica và Hộ Vệ Hoàng Gia Flemir; đã quy phục Yu IlHan, hỗ trợ xây dựng và bảo vệ căn cứ tại Trái Đất cũng như Daréu.
+- Lưu ý dịch thuật: Dịch thống nhất là `Lang tộc` khi raw dùng `wolves` để chỉ tộc nhân Lang tộc, tránh dùng `người sói`.
+
 ### Flemir
 - Giới tính, vai trò: Nam, người sói chuyển chức 4 mang hình người, Thủ lĩnh Hộ Vệ Hoàng Gia của hoàng tộc Lang tộc tại thế giới Kiroa.
 - Ngoại hình / tính cách: Tóc đen, vóc dáng cao lớn, tỏa khí tức mạnh mẽ của thực thể chuyển chức 4 nhưng không rành ma pháp; biết tùy cơ ứng biến, dập đầu cầu xin IlHan cứu giúp đồng tộc nhưng che giấu ý đồ phân tán lực lượng gây hỗn loạn Trái Đất (bị IlHan nhìn thấu qua ánh mắt run rẩy).

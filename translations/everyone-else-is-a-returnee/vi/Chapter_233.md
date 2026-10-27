@@ -34,7 +34,7 @@ Khi anh khen ngợi Erica, vài người đã thì thầm sau lưng anh.
 
 Kỹ năng Thống Trị của Yu IlHan hiện đang ở cấp 98. Dù thông thường việc thăng cấp kỹ năng Thống Trị nhanh đến vậy là bất khả thi, song các thuộc hạ của Yu IlHan đều chẳng hề thiếu độ hiếm hay tốc độ trưởng thành, nên anh mới đạt tới cấp độ này trong một khoảng thời gian ngắn như thế.
 
-Dĩ nhiên, hai cấp còn lại chẳng dễ tăng chút nào, nhưng nếu anh thu nhận thêm vài elf và người sói rồi bồi dưỡng họ, cảnh giới đại thành có lẽ không còn xa. Đây là một lý do khác khiến Yu IlHan muốn thu nhận thêm thuộc hạ.
+Dĩ nhiên, hai cấp còn lại chẳng dễ tăng chút nào, nhưng nếu anh thu nhận thêm vài elf và Lang tộc rồi bồi dưỡng họ, cảnh giới đại thành có lẽ không còn xa. Đây là một lý do khác khiến Yu IlHan muốn thu nhận thêm thuộc hạ.
 
 "Được Bệ hạ thu nhận làm thuộc hạ là vinh dự to lớn của thần! Sau này thần sẽ cống hiến hết mình vì ngài! Ngay bên cạnh ngài!"
 
@@ -118,7 +118,7 @@ Anh thực sự hèn nhát, ngay cả bản thân anh tự nghĩ cũng thấy v�
 
 Dù chỉ là một con rắn, Orochi lại răn dạy Yu IlHan bằng những lời lẽ đầy khí phách. Một cú đập mạnh đã đập tan tia do dự cuối cùng của anh. Yu IlHan khịt mũi rồi giơ viên ma thạch lên.
 
-"Ta biết chứ. Đây cũng đúng kiểu của ta. Dù vậy, ta đã do dự vì cảm thấy dường như mình đang áp đặt cách hành động của bản thân lên bọn họ..."
+"Tôi biết chứ. Đây cũng đúng kiểu của tôi. Dù vậy, tôi đã do dự vì cảm thấy dường như mình đang áp đặt cách hành động của bản thân lên bọn họ..."
 
 Anh ngẩng đầu nhìn về phía bãi huấn luyện. Erica, Mirey cùng các thuộc hạ khác của anh đang bị Liera đánh tơi bời không thương tiếc, thế nhưng họ vẫn nghiến chặt răng lao vào đối đầu với cô – dáng vẻ ấy vô cùng giống với chính anh trong quá khứ.
 
@@ -144,9 +144,9 @@ Thế nhưng, Yu IlHan cố tình không để nó bay lên. Nếu làm vậy, n
 
 Độ rung chấn ngày càng dữ dội hơn, và toàn bộ tạo tác bên trong pháo đài đều tỏa sáng rực rỡ cùng mana, rồi đến một thời khắc, cơn rung chấn đột ngột dừng lại và một chuỗi ký tự hiện lên trên võng mạc của Yu IlHan.
 
-[Pháo đài Hộ Vệ Huyết Quang đã hoàn thành.]
+[Pháo Đài Hộ Vệ Huyết Quang đã hoàn thành.]
 
-[Pháo đài Hộ Vệ Huyết Quang]
+[Pháo Đài Hộ Vệ Huyết Quang]
 
 [Phẩm cấp – Bán Thần]
 

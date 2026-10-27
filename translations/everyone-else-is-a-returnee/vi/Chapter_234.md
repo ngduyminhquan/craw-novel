@@ -162,7 +162,7 @@ Nói tóm lại, cũng giống như Quân Đội Thiên Giới và Quân Đội 
 
 "Dù vẫn còn đôi chút thiếu sót... nhưng tạm thời thế này là hài lòng rồi."
 
-"Thế ra anh thật sự chẳng chịu dừng lại ở bất kỳ đâu nhỉ. Ơ kìa."
+"Thế ra anh thật sự chẳng chịu dừng lại ở bất kỳ đâu nhỉ. A... ư..."
 
 "Đừng có phát ra mấy tiếng rên kỳ quặc đó nữa mà hãy tập trung vào việc điều khiển đi."
 
@@ -194,7 +194,7 @@ Na YuNa đành buông tay Yu IlHan ra như thể chẳng còn cách nào khác. 
 
 "Thế thì tốt rồi."
 
-Dù đã có được Đồng Hồ Cát Vĩnh Hằng từ khá lâu, nhưng anh chưa từng cảm thấy căng thẳng như lần này. Nỗi hồi hộp này bắt nguồn từ đâu? Lo âu ư? Hưng Phấn chăng? Sợ hãi? Hay nếu không phải những thứ đó, thì là sự kỳ vọng?
+Dù đã có được Đồng Hồ Cát Vĩnh Hằng từ khá lâu, nhưng anh chưa từng cảm thấy căng thẳng như lần này. Nỗi hồi hộp này bắt nguồn từ đâu? Lo âu ư? Hưng phấn chăng? Sợ hãi? Hay nếu không phải những thứ đó, thì là sự kỳ vọng?
 
 'Tốt lắm, mình muốn trở thành một thực thể cấp cao khi cuộc chiến này kết thúc.'
 
@@ -238,7 +238,7 @@ Erta.
 
 Anh quay đầu sang nhìn Liera, nhưng giờ đây cô không còn là thiên thần nữa, nên có vẻ cô vẫn chưa phát hiện ra Erta. Yu IlHan thoáng ngẫm nghĩ xem nên làm gì, nhưng rồi quyết định đứng chờ.
 
-Thời gian chờ đợi không hề lâu. Khi mà Daréu đã phi thăng lên cảnh giới của các thế giới cấp cao, bất kỳ thực thể cấp cao nào cũng có thể phát huy trọn vẹn toàn bộ sức mạnh của mình mà chẳng cần phải kiềm chế.
+Thời gian chờ đợi không hề lâu. Khi mà Daréu đã thăng cấp lên cảnh giới của các thế giới bậc cao, bất kỳ thực thể cấp cao nào cũng có thể phát huy trọn vẹn toàn bộ sức mạnh của mình mà chẳng cần phải kiềm chế.
 
 "Hả."
 

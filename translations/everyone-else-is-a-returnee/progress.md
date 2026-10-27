@@ -236,9 +236,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | reviewed |  |
 | 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | reviewed |  |
 | 231 |  | Chapter_231 - I Go With You – 8.txt | I Go With You – 8 | reviewed |  |
-| 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | done |  |
-| 233 |  | Chapter_233 - I Hear Your Voice – 2.txt | I Hear Your Voice – 2 | done |  |
-| 234 |  | Chapter_234 - I Hear Your Voice – 3.txt | I Hear Your Voice – 3 | done |  |
+| 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | reviewed |  |
+| 233 |  | Chapter_233 - I Hear Your Voice – 2.txt | I Hear Your Voice – 2 | reviewed |  |
+| 234 |  | Chapter_234 - I Hear Your Voice – 3.txt | I Hear Your Voice – 3 | reviewed |  |
 | 235 |  | Chapter_235 - I Hear Your Voice – 4.txt | I Hear Your Voice – 4 | todo |  |
 | 236 |  | Chapter_236 - I Hear Your Voice – 5.txt | I Hear Your Voice – 5 | todo |  |
 | 237 |  | Chapter_237 - You Are Already Dead – 1.txt | You Are Already Dead – 1 | todo |  |
