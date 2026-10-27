@@ -316,6 +316,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Katlar | tôi / ta | các người / ngươi | 229 | Đối đáp và tiêu diệt Katlar |
 | El Phisadein | Yu IlHan | ta | ngươi / thực thể cấp thấp | 230 | El Phisadein bị IlHan tiêu diệt |
 | Yu IlHan | El Phisadein | ta | ngươi | 230 | IlHan đáp trả trước khi tiêu diệt El Phisadein |
+| Erta | Liera | ta | Liera / cô | 234 | Erta giận dữ phẫn nộ đòi giết Liera sau khi biết tin Liera thành thực thể cấp thấp bên IlHan |
 
 
 

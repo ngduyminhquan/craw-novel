@@ -724,3 +724,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Argos |  | Argos | khác | 231 | Quái vật khổng lồ trăm mắt trong thần thoại Hy Lạp được nhắc tới để ví von |
 | satellite |  | vệ tinh | khác | 231 | Pháo đài vệ tinh phụ trợ đồng hành cùng Pháo Đài Bay |
 | Bloodlight Guardian fortress |  | Pháo Đài Hộ Vệ Huyết Quang | vật phẩm | 233 | Pháo đài vệ tinh phẩm cấp Bán Thần do Yu IlHan chế tạo từ ma thạch chuyển chức 5 làm vệ tinh phòng thủ đi kèm Pháo Đài Bay Kẻ Hủy Diệt |
+| Guardian fortress | Guardian Fortress | Pháo Đài Hộ Vệ | vật phẩm | 234 | Tên gọi tắt của Pháo Đài Hộ Vệ Huyết Quang |

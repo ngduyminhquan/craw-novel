@@ -1427,3 +1427,9 @@ Yu IlHan tiếp nhận thêm các elf tiềm năng và Lang tộc hóa nhân hì
 Yu IlHan dùng viên ma thạch chuyển chức 5 cuối cùng (sau khi đã nâng cấp Hơi Thở Hoàng Kim lên phẩm cấp Bán Thần và làm đôi găng tay mới cho Hỏa Ngục Long Thân) kích hoạt Chế Tác Mana, hoàn tất pháo đài vệ tinh mang tên Pháo Đài Hộ Vệ Huyết Quang (phẩm cấp Bán Thần) liên kết chặt chẽ với Pháo Đài Bay Kẻ Hủy Diệt.
 Yu IlHan đưa quân vào pháo đài vệ tinh làm quen và bắt tay vào việc cuối cùng trong kết giới: dùng ma thạch chuyển chức 4 can thiệp và cải tạo ma pháp trận cổ đại bao phủ toàn bộ đại lục Daréu.
 Cảnh kết thúc: Giữa lúc Yu IlHan chuẩn bị cải tạo ma pháp trận thì một giọng nói quen thuộc mà anh ngỡ rất lâu nữa mới nghe lại đột ngột vang lên bên tai gọi tên anh: "Yu IlHan?".
+
+## 234
+Erta dùng dấu vết lưu lại trên Đồng Hồ Cát Vĩnh Hằng truyền một thông điệp ngắn ngủi tới Yu IlHan bên trong kết giới rồi đứt quãng; Yu IlHan an lòng khi biết cô vẫn an toàn và cắm đầu dùng hàng vạn ma thạch chuyển chức 4 cải tạo toàn diện ma pháp trận cổ đại bao phủ đại lục Daréu, bổ sung chức năng cảnh báo, định vị kẻ địch và hiệu ứng bất lợi cản trở dịch chuyển.
+Liera kết thúc đợt huấn luyện chiến đấu khắc nghiệt cho các elf và Lang tộc, trở về chia sẻ nụ hôn chớp nhoáng động viên IlHan trước khi nghỉ ngơi; Na YuNa kiểm soát thánh lực cho cả Pháo Đài Bay lẫn Pháo Đài Hộ Vệ và nắm chặt tay IlHan hỗ trợ đến sát giờ kết giới tan biến.
+Chỉ còn 18 phút trước khi hết hạn, Yu IlHan hoàn tất cải tạo ma pháp trận và nắm quyền kiểm soát gần như tuyệt đối toàn bộ Daréu; anh giải trừ kết giới Đồng Hồ Cát Vĩnh Hằng với quyết tâm trở thành thực thể cấp cao độc lập sau cuộc chiến, đồng thời duy trì Ẩn Thân che giấu toàn quân.
+Cảnh kết thúc: Ngay khi kết giới mở ra, Erta một mình dang đôi cánh trắng xé mây bay thẳng tới tìm họ và gầm thét đòi giết Liera trong cơn thịnh nộ tột cùng khiến Yu IlHan hoàn toàn ngơ ngác khó hiểu.
