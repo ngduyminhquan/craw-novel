@@ -1421,3 +1421,9 @@ Yu IlHan chế tạo máy photocopy tự chế để in hàng ngàn bản thiế
 Trong lúc quân đội hăng say xây dựng pháo đài với bệ bật nhảy tăng sức tấn công, đầm lầy độc và nỏ thành, Yu IlHan sử dụng Ngọn Lửa Vĩnh Cửu trong Hỏa Ngục Long Thân cùng kỹ thuật kết hợp hợp kim tàn tích thực thể cấp cao và mạ lên hơn 40.000 xác ác ma biến thái để sản xuất hàng loạt trang bị.
 Sau 43 ngày thi công, pháo đài vệ tinh hoàn tất; Yu IlHan ban phát vũ khí, áo giáp phẩm cấp Sử Thi cùng 5 món phụ kiện phẩm cấp Truyền Thuyết trở lên cho nhóm chỉ huy (Erica, Flemir, Paté, Jirl, Mirey) để thực hiện lời hứa và bảo vệ thuộc hạ không còn ai phải hy sinh.
 Cảnh kết thúc: Yu IlHan gọi ra kho vũ khí và áo giáp phẩm cấp Truyền Thuyết trang bị cho toàn bộ 1.500 elf và 20.000 Lang tộc, vượt mặt cả kho vũ khí của Quân Đội Thiên Giới và tuyên bố mục tiêu: 1.000 thực thể cấp thấp phải tiêu diệt gọn gàng một thực thể cấp cao.
+
+## 233
+Yu IlHan tiếp nhận thêm các elf tiềm năng và Lang tộc hóa nhân hình làm thuộc hạ qua danh sách Erica chuẩn bị, đẩy kỹ năng Thống Trị lên cấp 98; anh giao Liera đảm nhận việc huấn luyện chiến đấu khắc nghiệt cho toàn quân để sẵn sàng chống lại các thực thể cấp cao mà không hy sinh.
+Yu IlHan dùng viên ma thạch chuyển chức 5 cuối cùng (sau khi đã nâng cấp Hơi Thở Hoàng Kim lên phẩm cấp Bán Thần và làm đôi găng tay mới cho Hỏa Ngục Long Thân) kích hoạt Chế Tác Mana, hoàn tất pháo đài vệ tinh mang tên Pháo Đài Hộ Vệ Huyết Quang (phẩm cấp Bán Thần) liên kết chặt chẽ với Pháo Đài Bay Kẻ Hủy Diệt.
+Yu IlHan đưa quân vào pháo đài vệ tinh làm quen và bắt tay vào việc cuối cùng trong kết giới: dùng ma thạch chuyển chức 4 can thiệp và cải tạo ma pháp trận cổ đại bao phủ toàn bộ đại lục Daréu.
+Cảnh kết thúc: Giữa lúc Yu IlHan chuẩn bị cải tạo ma pháp trận thì một giọng nói quen thuộc mà anh ngỡ rất lâu nữa mới nghe lại đột ngột vang lên bên tai gọi tên anh: "Yu IlHan?".
