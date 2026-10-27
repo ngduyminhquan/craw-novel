@@ -1344,3 +1344,10 @@ Liera tranh thủ cơ hội 'ép' IlHan vào phòng ngủ nghỉ ngơi suốt 3 
 IlHan rèn 18 món phụ kiện từ nguyên liệu chuyển chức 5 (4 Hỗn Loạn, 5 Sử Thi, 9 Truyền Thuyết) cho bản thân, Liera và Yumir, nâng giới hạn và tốc độ hồi phục mana lên 400%; dự kiến mất một tuần để may đo trang bị cho 9.300 đứa trẻ.
 Cảnh kết thúc: Thiết bị liên lạc im lìm suốt 3 năm trong túi Yu IlHan bất ngờ rung sáng báo hiệu tín hiệu cầu cứu từ Na YuNa tại Breya; IlHan rung chuyển pháo đài bay phát lệnh kết thúc kỳ nghỉ để chuẩn bị xuất phát sang thế giới mới.
 
+## 220
+Yu IlHan thu nhận 5.000 đứa trẻ vào hạm đội thông qua kỹ năng Chỉ Huy Hạm Đội và tự xưng là "Thuyền trưởng", đồng thời dùng kho ma thạch khổng lồ bù chi phí cho 4.300 đứa trẻ còn lại; toàn bộ Pháo Đài Bay cùng Quân Đoàn Rồng kích hoạt Dịch Chuyển nhảy vọt thứ nguyên tới Breya.
+Tại Breya, Na YuNa cùng Kang HaJin và Giáo hoàng bị đẩy vào bước đường cùng trước cuộc xâm lược của đế quốc Li Catriana do Quân Đội Ma Hủy Diệt giật dây sau Đại Tai Biến lần thứ 4; YuNa thà chết quyết không chịu nhục để giữ trọn vẹn tình cảm dành cho Yu IlHan.
+Nhận thấy thánh lực áp đảo của Na YuNa dù mới chỉ chuyển chức 3, Giáo hoàng thi triển bí thuật giải phóng mana tích tụ nhiều thập kỷ để lấy lại diện mạo đôi mươi, trao vương miện thánh thạch tối thượng cho cô và giục cô bỏ trốn.
+Cảnh kết thúc: Trong khi Na YuNa bàng hoàng đón nhận vương miện, Giáo hoàng đơn độc bước lên phía trước chặn hậu trước đại quân đế quốc, mở màn trận quyết chiến cuối cùng bảo vệ Thánh nữ.
+
+

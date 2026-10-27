@@ -224,7 +224,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | reviewed |  |
 | 218 |  | Chapter_218 - I’m Coming To Get You Now – 3.txt | I’m Coming To Get You Now – 3 | reviewed |  |
 | 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | reviewed |  |
-| 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | todo |  |
+| 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | done |  |
 | 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | todo |  |
 | 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | todo |  |
 | 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -888,3 +889,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#217] Đoạn thoại bí ẩn [They... lo... sacred...] ở đoạn 115: "lo..." có thể là "look" (They look sacred) hoặc "love" (tình yêu thiêng liêng). Tạm chọn: "[Họ... trô... thiêng liêng...]". → Giữ '[Họ... trô... thiêng liêng...]' (orchestrator)
 - [#218] Tên bộ chiến bào phẩm cấp Thần của Liera 'Feather of Temptation' — Tạm chọn: 'Lông Vũ Mê Hoặc' (rèn từ hơn 300.000 lông vũ và máu trắng của Liera). Phương án khác: 'Vũ Trang Mê Hoặc' hoặc 'Lông Vũ Quyến Rũ'. → Giữ 'Lông Vũ Mê Hoặc' (orchestrator)
 - [#219] Tên chức nghiệp phụ "Dimensional Traveller" và 3 kỹ năng mới (Dimensional Adaptation, Fleet Command, Ruler of Dimensions) — Tạm dùng: "Du Hành Giả Thứ Nguyên", "Thích Ứng Thứ Nguyên", "Chỉ Huy Hạm Đội", "Chúa Tể Thứ Nguyên". Phương án khác: "Lữ Khách Thứ Nguyên", "Thứ Nguyên Thích Ứng", "Thống Soái Hạm Đội", "Thống Trị Thứ Nguyên". → Giữ 'Du Hành Giả Thứ Nguyên', 'Thích Ứng Thứ Nguyên', 'Chỉ Huy Hạm Đội', 'Chúa Tể Thứ Nguyên' (orchestrator)
+- [#220] Yu IlHan xưng hô với hạm đội trẻ em khi nhận danh xưng 'Captain': tạm dịch 'Thuyền trưởng' (gắn với kỹ năng 'Chỉ Huy Hạm Đội' và pháo đài bay, tạo không khí phiêu lưu cho lũ trẻ); phương án khác: 'Đội trưởng' / 'Hạm trưởng'. → Giữ nguyên 'Thuyền trưởng' (phù hợp với nét hài chuuni khi 'bật công tắc' của Yu IlHan và kỹ năng Chỉ Huy Hạm Đội) (orchestrator)
+- [#220] Kính ngữ và xưng hô giữa Na YuNa và Giáo hoàng (the pope / Your Holiness): Na YuNa xưng 'con', gọi 'Đức Giáo Hoàng'; Giáo hoàng xưng 'ta', gọi 'con / YuNa' (do là bậc tiền bối >200 tuổi dìu dắt YuNa); phương án khác: gọi 'Đức Giáo Chủ' / 'Đức Thánh Mẫu'. → Giữ nguyên 'Đức Giáo Hoàng' (Your Holiness) và cặp xưng hô con - Đức Giáo Hoàng / ta - con, YuNa (orchestrator)

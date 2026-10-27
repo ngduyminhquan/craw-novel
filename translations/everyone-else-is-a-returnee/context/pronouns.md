@@ -62,6 +62,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Tibera | Tibera / thiên thần Tibera | 190 | Thiên thần cấp cao chuyển chức lần 6 |
 | Mystic | cô / Mystic / cô nàng | 204 | Tàn niệm thực thể cấp cao chuyển chức 5 được IlHan thu phục và đặt tên |
 | Chaos Will | nó / chiếc bóng / Ý Chí Hỗn Loạn | 211 | Thực thể cấp cao chuyển chức 6 sinh từ tập hợp ý thức oán hận Trái Đất |
+| Pope | bà / Giáo hoàng | 220 | Giáo hoàng của Giáo Hội Leytna tại thế giới Breya |
 
 ## Giữa các nhân vật
 
@@ -286,6 +287,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Chaos Will | Liera | ta / bọn ta | ngươi | 210 | Chiếc bóng đối đầu Liera |
 | Yu IlHan | Chaos Will | ta | ngươi | 211 | Yu IlHan thức tỉnh chuyển chức 4 giáng đòn trừng phạt kẻ tập kích |
 | Chaos Will | Yu IlHan | ta / bọn ta | ngươi / tên con người | 210 | Chiếc bóng oán hận IlHan |
+| Pope | YuNa | ta | con / YuNa | 220 | Giáo hoàng vỗ về, dặn dò và hy sinh cản đường cho Na YuNa trốn thoát |
+| YuNa | Pope | con | Đức Giáo Hoàng | 220 | Na YuNa kính trọng đối thoại với Giáo hoàng |
 
 
 

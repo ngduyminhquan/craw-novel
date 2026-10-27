@@ -65,6 +65,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Tibera |  | Tibera | Thiên thần cấp cao chuyển chức lần 6 của Quân Đội Thiên Giới, người thông báo quyết định bỏ mặc Trái Đất cho Erta | 190 |
 | Mystic | Mistic | Mystic | Tàn niệm thực thể cấp cao chuyển chức 5 sinh ra trên Trái Đất, bị Yu IlHan thu phục thành thuộc hạ | 204 |
 | Chaos Will |  | Ý Chí Hỗn Loạn | Thực thể cấp cao chuyển chức 6 (Lv 403) sinh ra từ tập hợp ý thức oán hận của các sinh vật Trái Đất bị bỏ lại nghìn năm, ẩn thân tập kích Yu IlHan nhưng bị Liera chặn đánh trọng thương và bị IlHan tiêu diệt | 211 |
+| Pope | the pope; Your Holiness; Her Holiness | Giáo hoàng | Giáo hoàng của Giáo Hội Leytna tại thế giới Breya, người từng là đệ nhất mỹ nhân lục địa, chọn Na YuNa làm thánh nữ kế nhiệm | 220 |
 
 ## Chi tiết
 
@@ -601,4 +602,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Vô tính, thực thể cấp cao chuyển chức 6 (Lv 403) hình thành từ tập hợp ý thức và oán hận nghìn năm của các sinh vật Trái Đất bị bỏ lại.
 - Đặc điểm / năng lực: Cơ thể dạng bóng lỏng đen không hình thù cố định, sở hữu kỹ năng Ẩn Thân thượng thừa, sử dụng thương đen; mang ý niệm báo thù tột cùng nhắm vào Yu IlHan và Trái Đất.
 - Xuất hiện tính đến chương 210–211: Phục kích đâm thủng bụng Yu IlHan lúc anh đang tiến hóa kỹ năng; bị Mystic bắn pháo sáng cầm chân và bị Liera liều mạng giáng vô số đòn thương phá hủy cơ thể; định rút lui chờ cơ hội thì bị Yu IlHan (vừa đạt chuyển chức 4) giăng kết giới ngọn lửa trắng và xích lửa khóa chặt, sau đó bị một thương hủy diệt hoàn toàn.
+
+### Pope
+- Giới tính, vai trò: Nữ, Giáo hoàng đứng đầu Giáo Hội Leytna tại thế giới Breya, từng là đệ nhất mỹ nhân lục địa; người phát hiện tiềm năng của Na YuNa và chọn cô làm thánh nữ kế nhiệm.
+- Ngoại hình / năng lực: Bà lão tóc trắng đội vương miện thánh thạch phát ánh sáng đỏ (biểu tượng quyền lực tối cao của giáo hội); thực thể chuyển chức 4 đã sống hơn 200 năm; sở hữu bí thuật giải phóng mana tích tụ nhiều thập kỷ để đảo ngược thời gian lấy lại dung mạo mỹ nữ đôi mươi.
+- Xuất hiện tính đến chương 220: Tỉnh táo gõ trán Na YuNa khi cô nói năng ngây ngô; nhìn thấu ý định tự sát để giữ gìn sự trong sạch của Na YuNa; trao vương miện thánh thạch cho Na YuNa và dặn cô phải trốn thoát; tự mình thi triển bí thuật trẻ hóa bước ra chặn hậu trước đại quân đế quốc Li Catriana.
 

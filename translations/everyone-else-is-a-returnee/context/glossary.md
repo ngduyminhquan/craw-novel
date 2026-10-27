@@ -344,7 +344,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Korean Special Ability Management Bureau |  | Cục Quản Lý Dị Năng Hàn Quốc | tổ chức | 54 | Tên đầy đủ của Cục Quản Lý Dị Năng |
 | Dark Flame Dragon |  | Hắc Viêm Long | khác | 54 | Rồng lửa đen trong câu đùa chuunibyou của Erta |
 | Depression |  | Trầm Cảm | khác | 54 | Biệt danh người đời chế giễu tổ chức Trấn Áp do nhân viên lúc nào cũng mang bộ mặt ủ rũ như sắp chết |
-| Breya |  | Breya | địa danh | 55 | Thế giới khác nơi Na YuNa từng chuyển sinh đến |
+| Breya | Bretya | Breya | địa danh | 55 | Thế giới khác nơi Na YuNa từng chuyển sinh đến |
 | Palladia | Great Empire of Palladia | Palladia | địa danh | 55 | Đế quốc nơi có Cung Đình Ma Pháp Trưởng sở hữu trượng Độc Nhất |
 | Illta | Magic Kingdom of Illta | Illta | địa danh | 55 | Tên Vương quốc/Đế quốc Ma Pháp trong truyền thuyết |
 | Quegna | Quegnae | Quegna | quái vật | 55 | Loài quái vật tích tụ ma lực trong xương sống trong hầm ngục tại Trung Quốc |
@@ -701,6 +701,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Infernal Dragon |  | Hỏa Ngục Long | khác | 212 | Thực thể / tên gọi của con rồng hỏa ngục bên trong bộ giáp Hỏa Ngục Long Thân |
 | Falling Down | Falling down | Đọa Lạc | kỹ năng | 213 | Kỹ năng độc nhất dung hợp từ 7 kỹ năng (Liệt Hỏa, Tử Thần, Thu Thập Tử Vong, Linh Hồn Phụ Ma, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao) của Kẻ Giáng Địa Ngục |
 | God Force |  | Thần Lực | kỹ năng | 213 | Kỹ năng dung hợp từ Quái Lực và Chí Mạng khi Yu IlHan đạt chuyển chức lần 4, tăng 300% sức mạnh cơ bắp |
+| Record skill | Record Skill | Ký Lục | kỹ năng | 213 | Kỹ năng tiến hóa từ Ngôn Ngữ, cho phép Yu IlHan thấu hiểu bản thân và thế giới dưới góc nhìn của Hồ Sơ Akashic |
 | BGM |  | nhạc nền | khác | 214 | Viết tắt của Background Music, nhạc nền |
 | Dragon's Army | Dragon's army; dragon army | Quân Đoàn Rồng | tổ chức | 214 | Đội quân những đứa trẻ Trái Đất theo Yumir (tên gọi khác của Quân Đoàn Địa Ngục Rồng) |
 | Breath of Gold |  | Hơi Thở Hoàng Kim | vật phẩm | 217 | Trang bị giáp kiêm vũ khí biến hình phẩm cấp Hỗn Loạn Yu IlHan rèn cho Yumir từ Ý Chí Hỗn Loạn |
