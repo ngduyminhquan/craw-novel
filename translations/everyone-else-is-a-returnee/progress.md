@@ -215,9 +215,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 208 |  | Chapter_208 - I, Too – 1.txt | I, Too – 1 | reviewed |  |
 | 209 |  | Chapter_209 - I, Too – 2.txt | I, Too – 2 | reviewed |  |
 | 210 |  | Chapter_210 - I, Too – 3.txt | I, Too – 3 | reviewed |  |
-| 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | done |  |
-| 212 |  | Chapter_212 - I, Too – 5.txt | I, Too – 5 | done |  |
-| 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | done |  |
+| 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | reviewed |  |
+| 212 |  | Chapter_212 - I, Too – 5.txt | I, Too – 5 | reviewed |  |
+| 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | reviewed |  |
 | 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | todo |  |
 | 215 |  | Chapter_215 - I, Too – 8.txt | I, Too – 8 | todo |  |
 | 216 |  | Chapter_216 - I’m Coming To Get You Now – 1.txt | I’m Coming To Get You Now – 1 | todo |  |

@@ -152,7 +152,7 @@ Một sợi xích lửa trắng mọc lên từ mặt đất, phát ra những t
 
 Trong khi nó vặn vẹo cơ thể để chống cự và cố gắng trốn thoát, Yu IlHan lao về phía nó với ngọn thương bao phủ trong ngọn lửa trắng. Càng đến gần nó, ngọn lửa lại càng trở nên mãnh liệt hơn. Gương mặt anh, chứa chan cơn thịnh nộ đanh thép, nói lên ý chí của mình.
 
-"Nếu có một lối ra duy nhất, thì chính là thứ đó."
+"Nếu có một lối ra duy nhất, thì đó chính là con đường này."
 
 Cuối cùng nó cũng cảm nhận được cái chết đang cận kề lần đầu tiên, thứ vốn bị chôn sâu tận đáy tâm trí.
 
@@ -182,7 +182,7 @@ Trên võng mạc của anh, vô số dòng văn tự xuất hiện, bao gồm c
 
 Anh chạy lại, cất tiếng gọi tên nàng thiên thần mà mình yêu thương. Gục ngã trên mặt đất, cô đang co giật, nhưng vẫn chưa chết. Và anh cảm thấy biết ơn vì điều đó hơn bất cứ thứ gì trên đời.
 
-[Tôi.... câu trả lời...]
+[Câu... trả lời... của tôi...]
 
 "Tôi sẽ cho cô câu trả lời mà cô hằng mong muốn, nên trước hết hãy chờ một lát đã."
 

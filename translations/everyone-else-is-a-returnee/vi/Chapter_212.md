@@ -198,7 +198,7 @@ Có ai đó lên tiếng thúc giục họ trong tình thế khó xử ấy. Ng�
 
 Giọng của Mystic nghe có vẻ vô cùng hờn dỗi, và trông như thể cô nàng không thích việc chỉ được đứng nhìn mà chẳng thể làm được gì. Không, có lẽ cô chỉ cảm thấy bực mình khi phải chứng kiến Yu IlHan và Liera đóng phim tình cảm lãng mạn mà thôi.
 
-[Mau hôn cô ấy đi, chủ nhân. Không thì tôi sẽ thả rơi cả pháo đài bay đè bẹp người cậu đấy!]
+[Mau hôn cô ấy đi, chủ nhân. Không thì tôi sẽ thả rơi cả pháo đài bay đè bẹp người chủ nhân đấy!]
 
 "Cô thậm chí còn chẳng có nổi một thân thể mà cũng dám trêu chọc tôi à."
 

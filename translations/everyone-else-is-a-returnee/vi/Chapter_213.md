@@ -48,7 +48,7 @@ Bỏ mặc Liera lại một mình, Yu IlHan bước ra ngoài và cuối cùng 
 
 Tình hình trở nên hỗn loạn cũng phải có giới hạn thôi chứ. Anh suýt chút nữa thì ngất đi vì đau đầu. Anh cũng tự ngạc nhiên vì mình vẫn còn trụ vững được đến giờ này.
 
-[Tôi suýt chết vì cái sự sến súa đó đấy. Cậu học toàn bộ mấy trò đó từ trong sách ra đúng không? Đúng không hả?]
+[Tôi suýt chết vì cái sự sến súa đó đấy. Chủ nhân học toàn bộ mấy trò đó từ trong sách ra đúng không? Đúng không hả?]
 
 [Ngươi đã cố hết sức rồi.]
 
@@ -148,7 +148,7 @@ Nghĩa là, nếu như anh không có kỹ năng Đọa Lạc.
 
 "Bá đạo thật mà!"
 
-[Cậu định một mình chinh phục Trái Đất đấy à?]
+[Chủ nhân định một mình chinh phục Trái Đất đấy à?]
 
 "Ồ, nghe phiền phức lắm, nên thôi."
 
@@ -186,21 +186,21 @@ Chế tạo phụ kiện từ tàn tích của các thực thể cấp cao để
 
 "Mình sẽ bắt tay vào làm việc ngay."
 
-[Lại đi làm việc trong khi bỏ mặc một người phụ nữ đã sẵn sàng như thế. Chậc chậc, đàn ông lúc nào cũng thế cả. Vừa nãy cậu còn nói ra bao nhiêu lời ngọt ngào cơ mà, hả?]
+[Lại đi làm việc trong khi bỏ mặc một người phụ nữ đã sẵn sàng như thế. Chậc chậc, đàn ông lúc nào cũng thế cả. Vừa nãy chủ nhân còn nói ra bao nhiêu lời ngọt ngào cơ mà, hả?]
 
 "Ư..."
 
-["Thật may là cậu không phải phạm tội đấy nhé...!"]
+["Thật mừng là cô không phải phạm tội đấy nhé...!"]
 
 "Ư a a a a a a."
 
-[Tôi cũng yêu cậu.]
+[Tôi cũng... yêu cô.]
 
 "Úi a a a a a! Khụ!"
 
 Đó là giới hạn chịu đựng của Yu IlHan. Trước sự khiêu khích liên hồi từ Mystic, Yu IlHan, người bừng tỉnh nhận ra sự ngượng ngùng tột độ, liền bắt đầu lăn lộn khắp dinh thự với tốc độ vượt xa mọi kỷ lục trước đây của Sungdaein Bolt! Mystic, kẻ cuối cùng cũng tạo ra được cảnh tượng mình mong muốn, cất giọng vô cùng đắc ý.
 
-[Chủ nhân, nếu đã lăn lộn thì cậu quấn thêm mấy cái giẻ lau quanh người rồi lăn dọc theo mấy dãy hành lang bẩn thỉu luôn đi.]
+[Chủ nhân, nếu đã lăn lộn thì người quấn thêm mấy cái giẻ lau quanh người rồi lăn dọc theo mấy dãy hành lang bẩn thỉu luôn đi.]
 
 [Một tòa nhà thật tàn nhẫn….] (Orochi)
 
