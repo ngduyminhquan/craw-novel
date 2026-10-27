@@ -299,6 +299,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Sharkilton | ta | ngươi | 224 | Yu IlHan đối đáp với Sharkilton trước khi kết liễu |
 | Yu IlHan | Pope | tôi | bà / Giáo hoàng | 225 | Yu IlHan chúc mừng và tặng quà cho Giáo hoàng |
 | Pope | Yu IlHan | ta | cậu | 225 | Giáo hoàng đối thoại với Yu IlHan |
+| YuNa | Liera | em / tôi | chị / chị Liera | 226 | Na YuNa gọi thân mật là chị Liera sau khi biết Liera đã trở thành thực thể cấp thấp |
 
 
 

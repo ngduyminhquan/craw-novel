@@ -718,3 +718,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Master of Miracles |  | Bậc Thầy Kỳ Tích | danh hiệu | 221 | Danh hiệu Na YuNa đạt được, tăng 30% hiệu quả cho toàn bộ kỹ năng hệ thánh lực |
 | Dragon Force |  | Long Lực | kỹ năng | 224 | Kỹ năng gia tăng ma pháp và sức mạnh của Long tộc, Yumir thức tỉnh khi đạt chuyển chức lần 4 |
 | United Empire |  | Đế Quốc Thống Nhất | tổ chức | 225 | Đế quốc hợp nhất giữa Elforce và Li Catriana tại thế giới Breya sau chiến tranh |
+| Holy region | holy region; the holy region | Thánh địa | địa danh | 220 | Vùng đất linh thiêng của Giáo Hội Leytna tại thế giới Breya |
+| United Empire of Elforce |  | Đế Quốc Thống Nhất Elforce | tổ chức | 226 | Tên gọi đầy đủ của đế quốc hợp nhất tại Breya |

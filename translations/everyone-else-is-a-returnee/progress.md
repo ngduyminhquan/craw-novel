@@ -230,7 +230,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | reviewed |  |
 | 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | reviewed |  |
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | reviewed |  |
-| 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | todo |  |
+| 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | done |  |
 | 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | todo |  |
 | 228 |  | Chapter_228 - I Go With You – 5.txt | I Go With You – 5 | todo |  |
 | 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | todo |  |

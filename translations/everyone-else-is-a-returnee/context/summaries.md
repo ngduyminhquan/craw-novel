@@ -1379,3 +1379,9 @@ Na YuNa thức dậy sau khi hồi phục thể lực và nhận ra Liera đã t
 Yu IlHan trở về lôi theo hoàng đế Li Catriana đã bị đánh tơi bời để làm vật tế xoa dịu nỗi đau của người dân Elforce, đồng thời trói gô hàng triệu binh lính đế quốc giao cho Yumir canh giữ, một mình kết thúc hoàn toàn cuộc chiến tranh toàn lục địa.
 Na YuNa kiên quyết từ chối ngôi vương của Đế Quốc Thống Nhất để theo Yu IlHan về Trái Đất; IlHan chế tạo 5 món phụ kiện từ ma thạch cấp 4 tặng Giáo hoàng, vĩnh viễn hồi phục khả năng tái tạo giúp bà trẻ lại tuổi đôi mươi và kéo dài tuổi thọ thêm hàng trăm năm.
 Cảnh kết thúc: Vị Giáo hoàng trẻ hóa trở thành Nữ hoàng đầu tiên của Đế Quốc Thống Nhất, mở đường cho Na YuNa đồng hành cùng Yu IlHan trở về Trái Đất.
+
+## 226
+Sau một tuần dọn dẹp hậu chiến và đặt nền móng cho Đế Quốc Thống Nhất Elforce, Na YuNa từ biệt các tín đồ Leytna và Giáo hoàng; để giúp Na YuNa tiếp tục sử dụng sức mạnh của vương miện giáo hoàng ngoài thánh địa, Yu IlHan xin 17kg thánh thạch cấp cao nhất từ giáo hội nhằm kiến tạo một thánh địa ngay trên Pháo Đài Bay.
+Yu IlHan kích hoạt kỹ năng Dịch Chuyển và Chỉ Huy Hạm Đội, đưa toàn bộ Pháo Đài Bay, Quân Đoàn Rồng, Liera, Na YuNa và Kang HaJin nhảy vọt chiều không gian trở về Trái Đất an toàn; Mystic điều khiển Bách Nhãn dễ dàng quét sạch lũ quái vật chuyển chức 4 kéo đến vây quanh pháo đài.
+Yu IlHan từ chối giải thích về 1000 năm bị lãng quên hay sự xuất hiện của các thực thể cấp cao trên Trái Đất để tránh làm Na YuNa bận lòng; anh bắt tay cùng cô triển khai thánh địa trên Pháo Đài Bay, trong khi Yumir dẫn dắt Quân Đoàn Rồng mang trang bị chuẩn Yu IlHan thực chiến diệt quái.
+Cảnh kết thúc: Giữa lúc thiết bị liên lạc vẫn bặt vô âm tín và thánh địa trên Pháo Đài Bay sắp hoàn tất, Yu IlHan bỗng nhận ra một trong các thuộc hạ dưới quyền kỹ năng Thống Trị của mình đã tử trận.

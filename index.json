@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T08:16:02Z",
+  "generatedAt": "2026-10-27T08:22:35Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1355,6 +1355,12 @@
           "title": "Chương 225: Tôi Đi Cùng Cậu – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_225.md",
           "sha": "f0e6949cb54693d21a25bc9e98bec2f4ed662424"
+        },
+        {
+          "number": 226,
+          "title": "Chương 226: Tôi Đi Cùng Cậu – 3",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_226.md",
+          "sha": "690fe40f12ae14d70c27ceebe30f7d9d2433a866"
         }
       ]
     }
