@@ -720,3 +720,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Holy region | holy region; the holy region | Thánh địa | địa danh | 220 | Vùng đất linh thiêng của Giáo Hội Leytna tại thế giới Breya |
 | United Empire of Elforce |  | Đế Quốc Thống Nhất Elforce | tổ chức | 226 | Tên gọi đầy đủ của đế quốc hợp nhất tại Breya |
 | Shadow Thief |  | Ảnh Đạo Tặc | chức nghiệp | 227 | Chức nghiệp của nữ elf Phiria |
+| Angel Hold |  | Đòn Khóa Thiên Thần | kỹ năng | 231 | Chiêu khóa đấu vật hài hước của thiên thần (tương tự Angel Sleeper Hold) |
+| Argos |  | Argos | khác | 231 | Quái vật khổng lồ trăm mắt trong thần thoại Hy Lạp được nhắc tới để ví von |
+| satellite |  | vệ tinh | khác | 231 | Pháo đài vệ tinh phụ trợ đồng hành cùng Pháo Đài Bay |

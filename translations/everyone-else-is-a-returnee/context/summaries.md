@@ -1409,3 +1409,9 @@ Yu IlHan đâm xuyên cổ tiêu diệt kẻ cuối cùng của Khu Vườn Hoà
 Mirfa báo cáo tình hình ma pháp trận vẫn an toàn, còn Erica (đã đạt chuyển chức 4 với mái tóc và lông mày bạc phát sáng) cùng Flemir báo cáo việc bảo vệ tộc elf suốt thời gian qua; Yu IlHan dùng Chế Tác Mana chuẩn bị kế hoạch gia cố trận pháp.
 Yu IlHan đau buồn thông báo tin Phiria cùng toàn đội đã hy sinh và đưa ra di vật cùng trang bị của cô; Paté nén đau thương, biến phẫn nộ thành ý chí báo thù và toàn quân tuyên thệ coi cả 4 phe phái thực thể cấp cao đều là kẻ thù.
 Cảnh kết thúc: Yu IlHan kích hoạt Đồng Hồ Cát Vĩnh Hằng bao trùm toàn bộ rừng rậm, pháo đài bay cùng thuộc hạ, mở ra hai tháng đóng băng thời gian để toàn quân nghỉ ngơi và chuẩn bị cho cuộc chiến toàn diện.
+
+## 231
+Yu IlHan lệnh cho toàn bộ thuộc hạ nghỉ ngơi trong kết giới Đồng Hồ Cát Vĩnh Hằng, đồng thời lên kế hoạch chế tạo một pháo đài vệ tinh đồng hành cùng Pháo Đài Bay để chứa hàng vạn chiến binh Lang tộc; anh trò chuyện cùng Liera, thẳng thắn bày tỏ sự cảnh giác trước nguy cơ Quân Đội Thiên Giới trở thành kẻ thù và quyết tâm chuẩn bị toàn diện.
+Yu IlHan bắt tay biến Pháo Đài Bay thành một Thánh địa nhân tạo: anh hoàn tất hệ thống điều khiển tại dinh thự, liên kết cùng Mystic và tích hợp vương miện giáo hoàng để Na YuNa tiếp nhận quyền kiểm soát thánh lực.
+Trong cơn bão thánh lực nhiễu loạn suýt hất văng Kang HaJin, Na YuNa ôm chặt cánh tay IlHan để trấn tĩnh nhận thức và nhanh chóng làm chủ hoàn toàn thánh địa sau 3 giờ, thậm chí có thể tùy ý ngưng tụ thánh thạch.
+Cảnh kết thúc: Yu IlHan lập tức phác thảo bản thiết kế vệ tinh và lên lịch trình làm việc cật lực suốt hai tháng đóng băng thời gian, mở màn cho cuộc cách mạng thay đổi cục diện chiến tranh mà không một thực thể cấp cao nào hay biết.
