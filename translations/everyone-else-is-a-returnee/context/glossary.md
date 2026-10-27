@@ -704,3 +704,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | BGM |  | nhạc nền | khác | 214 | Viết tắt của Background Music, nhạc nền |
 | Dragon's Army | Dragon's army; dragon army | Quân Đoàn Rồng | tổ chức | 214 | Đội quân những đứa trẻ Trái Đất theo Yumir (tên gọi khác của Quân Đoàn Địa Ngục Rồng) |
 | Breath of Gold |  | Hơi Thở Hoàng Kim | vật phẩm | 217 | Trang bị giáp kiêm vũ khí biến hình phẩm cấp Hỗn Loạn Yu IlHan rèn cho Yumir từ Ý Chí Hỗn Loạn |
+| Feather of Temptation | Feathers of Temptation | Lông Vũ Mê Hoặc | vật phẩm | 218 | Bộ chiến bào trang phục rèn từ 300.000 lông vũ và máu trắng của Liera (Rank Thần) |
+| Nietzsche |  | Nietzsche | khác | 218 | Nhà triết học Friedrich Nietzsche với tuyên ngôn Thượng Đế đã chết (tham chiếu triết học) |
+| Zarathustra |  | Zarathustra | khác | 218 | Nhân vật trong tác phẩm triết học của Nietzsche (tham chiếu triết học) |

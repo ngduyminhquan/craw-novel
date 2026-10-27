@@ -1332,3 +1332,9 @@ Yumir thích thú trang bị Hơi Thở Hoàng Kim, hóa thành hình dạng r�
 IlHan dùng hơn 300.000 chiếc lông vũ, máu trắng và da chết của Liera kết hợp Ma Pháp Công Học dệt thành bộ chiến bào trắng muốt tuyệt đẹp, rồi pha bột lông vũ cùng máu trắng thành lớp sơn ngọc trai quét lên trang phục khiến nó ánh lên sắc hồng.
 Cảnh kết thúc: Khi Yu IlHan nắm tay Liera tiến hành liên kết rót mana cấp 299 vào bộ chiến bào, một giọng nói bí ẩn vang lên cùng luồng ánh sáng hồng nhạt bao trùm khắp xưởng rèn.
 
+## 218
+Ý chí và mana của Thần Tình Yêu bất ngờ can thiệp vào quá trình chế tạo, biến đổi toàn bộ mana thành cấu trúc năng lượng hoàn toàn mới và để lại lời nhắn chấn động "Thượng Đế không hề tồn tại"; Yu IlHan khống chế mana đỉnh cao hoàn thành bộ chiến bào phẩm cấp Thần 'Lông Vũ Mê Hoặc' xóa sạch mọi dấu vết của Thiên giới dành riêng cho Liera.
+Liera mặc bộ chiến bào mới lộng lẫy và hạnh phúc đón nhận lời xác nhận tình cảm từ IlHan khi phần mô tả vật phẩm của Hồ Sơ Akashic vạch trần tình yêu sâu đậm anh dành cho cô khiến IlHan ngượng chín mặt.
+IlHan tạm gác việc dùng nửa thi thể Ý Chí Hỗn Loạn còn lại (chờ ma thạch cấp 5 để làm bộ trang bị mới và ưu tiên nâng cấp cho Yumir) và tiếp tục sử dụng Hỏa Ngục Long Thân, rồi mở danh sách chức nghiệp phụ để tìm kiếm chức nghiệp gia tăng phụ kiện hồi phục mana như Hoàng nữ Palladia.
+Cảnh kết thúc: Lướt tới cuối danh sách, IlHan bỏ qua ý định ban đầu khi phát hiện một chức nghiệp phụ bất ngờ, đôi mắt ánh lên sắc đỏ đầy phấn khích với tuyên bố đã "nhìn thấy một kết thúc khác".
+
