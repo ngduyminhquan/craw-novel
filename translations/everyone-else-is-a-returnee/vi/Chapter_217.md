@@ -156,7 +156,7 @@ Chừng này có lẽ vẫn chưa đủ để bù đắp cho sự cô đơn củ
 
 Nhưng giờ đây, mọi chuyện sẽ đổi khác. Anh đã chán ngấy cảnh bị giam cầm hay phải tiễn người khác rời đi. Anh sẽ tự mình đi tìm họ. Anh sẽ đoạt lại những gì cần đoạt lại, đập cho ra bã những kẻ cần bị đập, và sửa chữa bất cứ điều gì cần phải sửa.
 
-"Để làm được điều đó, trước tiên mình."
+"Để làm được điều đó, trước tiên mình..."
 
 Cần phải chế tạo trang bị cho Liera.
 
@@ -174,7 +174,7 @@ Thế nhưng, ngay khi Yu IlHan chuẩn bị bắt tay vào chế tạo với nh
 
 "Một quả cầu mana khổng lồ như thế kia cứ bay lượn phành phạch ngoài kia, tôi mà không dậy thì mới là lạ đấy."
 
-Liera chỉ ngón tay về phía Yumir, cậu bé đang vui chơi thỏa thích ở bên ngoài. Hơi Thở Hoàng Kim trên cơ thể nhóc đang hấp thụ mana của rồng và không ngừng biến đổi. Nhìn cảnh tượng đó khiến người ta phải tự hỏi liệu nó có thực sự thuộc phẩm cấp Hỗn Loạn hay không.
+Liera chỉ ngón tay về phía Yumir, cậu bé đang vui chơi thỏa thích ở bên ngoài. Hơi Thở Hoàng Kim trên cơ thể nhóc đang hấp thụ mana của rồng và không ngừng biến đổi. Nhìn cảnh tượng đó khiến anh phải tự hỏi liệu nó có thực sự thuộc phẩm cấp Hỗn Loạn hay không.
 
 "Thế nên lượng mana còn thiếu đã được Mir bù đắp. Biết đâu nó lại có thể tăng phẩm cấp mà không cần ma thạch cũng nên. Loài rồng quả thực thật đáng kinh ngạc."
 

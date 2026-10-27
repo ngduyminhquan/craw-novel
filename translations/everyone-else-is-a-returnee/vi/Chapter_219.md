@@ -148,7 +148,7 @@ Liera nhìn quanh kiểm tra xem có ai ở gần không trước khi họ bư�
 
 Lũ trẻ thỏa thích tận hưởng công viên giải trí kiêm cơ sở giáo dục trên pháo đài bay suốt nhiều giờ rồi nhiều ngày liền. Yumir cũng mải mê bay lượn chẳng màng thời gian, đắm chìm trong việc thử nghiệm các giới hạn của trang bị mới.
 
-[Phùuu... Chết đi! Chết quách đi cho rồi! Chết đi! Oa oa oa, ta không nghe thấy gì hết, không nghe thấy gì hết! Chết điiiiii!]
+[Phùuu... Chết đi! Chết quách đi cho rồi! Chết đi! Oa oa oa, tôi không nghe thấy gì hết, không nghe thấy gì hết! Chết điiiiii!]
 
 [Ma ha bát nhã ba la mật đa....]
 
@@ -192,7 +192,7 @@ Ngay cả Mystic và Orochi sau khi nghe xong cũng phải câm nín. Rốt cu�
 
 "Thôi nào. Quay lại làm việc thôi."
 
-[Quả là một tên phi thường.]
+[Quả là một kẻ phi thường.]
 
 [Dù ngượng miệng thật đấy, nhưng về điểm này thì tôi chỉ có thể đồng tình với ngươi…..]
 

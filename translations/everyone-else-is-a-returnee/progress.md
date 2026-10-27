@@ -221,9 +221,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | reviewed |  |
 | 215 |  | Chapter_215 - I, Too – 8.txt | I, Too – 8 | reviewed |  |
 | 216 |  | Chapter_216 - I’m Coming To Get You Now – 1.txt | I’m Coming To Get You Now – 1 | reviewed |  |
-| 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | done |  |
-| 218 |  | Chapter_218 - I’m Coming To Get You Now – 3.txt | I’m Coming To Get You Now – 3 | done |  |
-| 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | done |  |
+| 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | reviewed |  |
+| 218 |  | Chapter_218 - I’m Coming To Get You Now – 3.txt | I’m Coming To Get You Now – 3 | reviewed |  |
+| 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | reviewed |  |
 | 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | todo |  |
 | 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | todo |  |
 | 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | todo |  |
