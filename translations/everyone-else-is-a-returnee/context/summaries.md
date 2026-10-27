@@ -1403,3 +1403,9 @@ Yu IlHan cùng Aegis và Bát Vĩ Long Thương nghiền nát Katlar Lv 319 (thu
 Sau cuộc trò chuyện với Liera về chiến thuật đối đầu các thế lực thực thể cấp cao và cùng Yumir quyết tâm báo thù cho Phiria, Yu IlHan đưa Pháo Đài Bay dịch chuyển tới khu tị nạn khẩn cấp của thuộc hạ tại Daréu.
 Chứng kiến Mirfa kiên quyết chờ Phiria trước áp lực chia tách từ Khu Vườn Hoàng Hôn, Yu IlHan xuất kích bắn hạ tên cầm đầu, ra lệnh cho elf rút lui phòng thủ rồi kích hoạt Đọa Lạc quét sạch 11 thực thể cấp cao trong 15 phút.
 Cảnh kết thúc: Yu IlHan quét sạch 11 thực thể cấp cao của Khu Vườn Hoàng Hôn trong 15 phút và tăng thêm 3 cấp độ.
+
+## 230
+Yu IlHan đâm xuyên cổ tiêu diệt kẻ cuối cùng của Khu Vườn Hoàng Hôn là El Phisadein Lv 321, thăng lên cấp 278 và thu được viên ma thạch chuyển chức 5 thứ ba; toàn bộ các elf hân hoan vây quanh chào đón anh như thần tượng.
+Mirfa báo cáo tình hình ma pháp trận vẫn an toàn, còn Erica (đã đạt chuyển chức 4 với mái tóc và lông mày bạc phát sáng) cùng Flemir báo cáo việc bảo vệ tộc elf suốt thời gian qua; Yu IlHan dùng Chế Tác Mana chuẩn bị kế hoạch gia cố trận pháp.
+Yu IlHan đau buồn thông báo tin Phiria cùng toàn đội đã hy sinh và đưa ra di vật cùng trang bị của cô; Paté nén đau thương, biến phẫn nộ thành ý chí báo thù và toàn quân tuyên thệ coi cả 4 phe phái thực thể cấp cao đều là kẻ thù.
+Cảnh kết thúc: Yu IlHan kích hoạt Đồng Hồ Cát Vĩnh Hằng bao trùm toàn bộ rừng rậm, pháo đài bay cùng thuộc hạ, mở ra hai tháng đóng băng thời gian để toàn quân nghỉ ngơi và chuẩn bị cho cuộc chiến toàn diện.

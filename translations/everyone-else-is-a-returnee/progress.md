@@ -234,7 +234,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | reviewed |  |
 | 228 |  | Chapter_228 - I Go With You – 5.txt | I Go With You – 5 | reviewed |  |
 | 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | done |  |
-| 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | todo |  |
+| 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | done |  |
 | 231 |  | Chapter_231 - I Go With You – 8.txt | I Go With You – 8 | todo |  |
 | 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | todo |  |
 | 233 |  | Chapter_233 - I Hear Your Voice – 2.txt | I Hear Your Voice – 2 | todo |  |

@@ -72,6 +72,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Berein |  | Berein | Thực thể cấp cao Lv 306 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Bách Nhãn bắn trúng và bị Yu IlHan phóng thương tiêu diệt | 228 |
 | Piltah |  | Piltah | Thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu, kẻ lừa giết Phiria cướp trang bị cấp Truyền Thuyết, bị Yu IlHan tiêu diệt | 228 |
 | Katlar |  | Katlar | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt tự xưng anh hùng đồng bằng băng giá, bị Yu IlHan tiêu diệt | 229 |
+| El Phisadein |  | El Phisadein | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn tại Daréu, bị Yu IlHan tiêu diệt | 230 |
 | Orochi | the Orochi | Orochi | Tàn niệm Yamata no Orochi, trở thành thuộc hạ của Yu IlHan trong Bát Vĩ Long Thương và Hỏa Ngục Long Thân | 73 |
 
 ## Chi tiết
@@ -234,6 +235,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 218: Khống chế mana đỉnh cao trước sự can thiệp của Thần Tình Yêu, hoàn thành bộ chiến bào phẩm cấp Thần 'Lông Vũ Mê Hoặc' xóa sạch mọi dấu vết của Thiên giới dành tặng Liera; ngượng ngùng khi phần mô tả trang bị vạch trần tình yêu sâu sắc của mình dành cho cô; chuẩn bị tìm kiếm chức nghiệp phụ để tăng số lượng phụ kiện hồi phục mana và phát hiện một chức nghiệp phụ bất ngờ ở cuối danh sách.
 - Trạng thái tính đến chương 219: Nhận chức nghiệp phụ độc nhất Du Hành Giả Thứ Nguyên cùng 3 kỹ năng mới Thích Ứng Thứ Nguyên, Chỉ Huy Hạm Đội, Chúa Tể Thứ Nguyên; có thể di chuyển tới 32 thế giới khác nhau; cùng Liera trải qua 3 ngày 'nghỉ ngơi' và nhận ra hiệu quả không giới hạn của Siêu Việt Tái Sinh; chế tạo 18 món phụ kiện từ nguyên liệu chuyển chức 5 đưa khả năng hồi phục mana chạm mốc 400%; nhận tín hiệu liên lạc khẩn cấp từ Na YuNa sau 3 năm và chỉ huy pháo đài bay chuẩn bị sang Breya.
 - Trạng thái tính đến chương 220–222: Dùng chức nghiệp Du Hành Giả Thứ Nguyên và kỹ năng Chỉ Huy Hạm Đội thu nhận 5.000 đứa trẻ Quân Đoàn Rồng vào hạm đội, dùng kho ma thạch đưa toàn bộ Pháo Đài Bay nhảy vọt thứ nguyên tới Breya; kịp thời giáng lâm giải cứu Na YuNa và các thánh kỵ sĩ, vung búa khổng lồ và ngọn lửa trắng tiêu diệt 80.000 quân đế quốc Li Catriana; bế Na YuNa kiệt sức vào phòng nghỉ và xoa dịu Liera (khẳng định cô là người đặc biệt nhất đối với anh); cùng con trai Yumir hóa rồng xuất phát đi ám sát 4 Ma Binh Hủy Diệt tại đại bản doanh quân địch.
+- Trạng thái tính đến chương 230: Tiêu diệt El Phisadein đạt cấp độ 278 và thu được viên ma thạch chuyển chức 5 thứ ba; hội ngộ tộc elf và Erica tại Daréu; đau xót thông báo tin Phiria hy sinh, khơi dậy ý chí báo thù và thống nhất toàn quân coi cả 4 phe phái thực thể cấp cao đều là kẻ thù; kích hoạt Đồng Hồ Cát Vĩnh Hằng bao phủ toàn bộ cánh rừng và pháo đài bay, thiết lập 2 tháng đóng băng thời gian để toàn quân chuẩn bị chiến tranh.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -562,6 +564,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 124: Tiết lộ bản năng ăn thịt đồng loại của quái vật giúp tăng vĩnh viễn chỉ số, mana và cấp bậc; được IlHan giao quyền tiêu thụ toàn bộ hơn 10 vạn thịt sói trong túi đồ; hoàn toàn khâm phục và trung thành tuyệt đối với IlHan.
 - Trạng thái tính đến chương 125: Đạt cấp 98 sau gần 2 tháng khổ luyện và ăn thịt sói trong kết giới, là thuộc hạ cấp độ cao nhất của IlHan; tận tâm phục vụ với hy vọng được ban tặng trang bị phẩm cấp Truyền Thuyết.
 - Trạng thái tính đến chương 126: Gọi Yumir là "thiếu chủ"; trung thành tuyệt đối với IlHan và nỗ lực bảo vệ vị thế thuộc hạ cấp cao nhất.
+- Trạng thái tính đến chương 230: Đạt chuyển chức 4, tiếp nhận tinh hoa của mặt trăng khiến mái tóc và đôi lông mày chuyển sang màu bạc phát sáng dịu nhẹ; cùng Flemir bảo vệ an toàn cho tộc elf trước các phe phái thực thể cấp cao tại Daréu.
 
 ### Kang Chan
 - Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.
@@ -652,6 +655,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Katlar
 - Giới tính, vai trò: Nam dạng người, thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt tại Daréu, tự xưng là anh hùng đồng bằng băng giá.
 - Xuất hiện tính đến chương 229: Bị xích linh hồn và ngọn lửa của Yu IlHan trói cùng một ma thú; toan phản kích bằng ma thuật băng nhưng bị Aegis phản hồi đòn đánh; sau đó nghênh chiến trực diện với Yu IlHan và bị ngọn lửa bán trong suốt nung chảy toàn bộ kiếm băng, bị chín kích liên hoàn của Bất Khả Họa Quỹ Đạo Thương cắt đứt mạch mana và bị mana bạo tẩu đóng băng cơ thể tiêu diệt.
+
+### El Phisadein
+- Giới tính, vai trò: Thực thể cấp cao Lv 321 thuộc phe Khu Vườn Hoàng Hôn tại Daréu, kẻ cầm đầu nhóm thực thể cấp cao đe dọa các elf.
+- Xuất hiện tính đến chương 230: Bị Yu IlHan đâm xuyên cổ tiêu diệt trong trận chiến 15 phút, rớt ma thạch chuyển chức 5 và cung cấp lượng lớn kinh nghiệm giúp IlHan lên Lv 278.
 
 ### Orochi
 - Giới tính, vai trò: Tàn niệm quái xà Yamata no Orochi, sau trở thành thuộc hạ của Yu IlHan trú ngụ trong Bát Vĩ Long Thương và sau đó là bộ giáp Hỏa Ngục Long Thân.
