@@ -49,6 +49,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - Flaming Monarch — cụm diễn giải 1 lần nghĩa của chức nghiệp Burning Lord trong độc thoại, không phải tên chức nghiệp hệ thống (#185)
 - 3rd Great Cataclysm — đã có mục gốc Great Cataclysm (Đại Tai Biến) trong bảng; các chương 50, 98, 164 dịch linh hoạt "lần thứ ba / lần thứ 3 / lần 3" (#187)
 - Pope — danh từ chung không xuất hiện trong raw chương 198 (raw dùng Her Holiness), không phải tên chức nghiệp hệ thống (#198)
+- Blessing of the god of smithing — đã có mục gốc God of Smithing (Thần Rèn Đúc) trong bảng; cụm viết thường trong thoại/tự sự các chương 66, 160, 161, 171, 191, 200 dịch linh hoạt "phước lành / sự ban phước / chúc phúc của Thần Rèn Đúc" (#200)
 
 ## Bảng thuật ngữ
 
@@ -395,7 +396,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lightning God-blessed Heavenly Lightning Excitement Bone Staff |  | Cốt Trượng Thiên Lôi Hưng Phấn Lôi Thần Chúc Phúc | vật phẩm | 64 | Cốt trượng phẩm cấp Truyền Thuyết IlHan chế tạo cho Kang MiRae |
 | Holy stone | holy stones; Holy stone; Holy Stone | Thánh thạch | vật phẩm | 65 | Khoáng thạch chứa năng lượng thánh lực |
 | Gangnam reinforced area | Gangnam reinforced district | Khu gia cố Gangnam | địa danh | 65 | Khu vực được gia cố phòng thủ đặc biệt tại Gangnam |
-| God of Smithing | God of blacksmithing; god of blacksmithing | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic (ban phước lành và ghi chép cho Yu IlHan ở chương 152) |
+| God of Smithing | God of blacksmithing; god of blacksmithing; god of smithing | Thần Rèn Đúc | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép rèn đúc trong Hồ Sơ Akashic (ban phước lành và ghi chép cho Yu IlHan ở chương 152) |
 | God of Warriors |  | Thần Chiến Binh | khác | 66 | Thực thể hư cấu hình thành từ tích lũy ghi chép chiến đấu trong Hồ Sơ Akashic |
 | Vanguard |  | Vanguard | tổ chức | 66 | Tên thương hiệu và công ty sản xuất trang bị do Yu IlHan thành lập |
 | Frightening Hard Leather Gauntlet |  | Hộ Thủ Da Cứng Kinh Hãi | vật phẩm | 66 | Trang bị phòng thủ cấp Hiếm do Yu IlHan chế tạo hàng loạt từ da quái vật cấp 30-40 |
@@ -690,4 +691,3 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Li Catriana |  | Li Catriana | địa danh | 198 | Đế quốc đối địch với Thánh đế quốc Elforce tại thế giới Breya, do Hoàng đế Li Catriana cai trị |
 | Hell Tornado |  | Lốc Xoáy Địa Ngục | kỹ năng | 199 | Tên đòn thế tự đặt của Yu IlHan khi vung Lôi Búa kết hợp Liệt Hỏa và bệ đỡ xoay Aegis |
 | Wicked Kraken |  | Kraken Tà Ác | quái vật | 199 | Quái vật mực khổng lồ cấp 233 cao hơn 300m dưới biển |
-| Blessing of the god of smithing | Blessing of the god of blacksmithing; blessing of the god of smithing | Chúc Phúc Của Thần Rèn Đúc | danh hiệu | 200 | Lời chúc phúc từ Thần Rèn Đúc ban cho Yu IlHan khi chạm tới đỉnh cao rèn đúc |
