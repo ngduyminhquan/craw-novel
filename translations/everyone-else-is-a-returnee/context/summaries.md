@@ -1314,3 +1314,9 @@ Sau khi chủ nhân hầm ngục bị Yu IlHan tiêu diệt, ranh giới hầm n
 Yumir bay vào pháo đài bay và òa khóc nức nở trong vòng tay ấm áp của Yu IlHan; hai bố con mừng rỡ đoàn tụ sau gần 3 năm xa cách trong sự cãi cọ quen thuộc giữa Mystic và Orochi.
 Cảnh kết thúc: Yu IlHan ôm chặt lấy Yumir đang khóc, còn quân đoàn 9.300 đứa trẻ rồng ở dưới mặt đất ngơ ngác và òa khóc vì ngỡ anh hùng/thủ lĩnh sẽ không quay lại nữa.
 
+## 215
+Yu IlHan đón 9.300 đứa trẻ thuộc Quân Đoàn Rồng lên pháo đài bay; dùng Ký Lục kiểm tra và nhận ra chính Ý Chí Hỗn Loạn đã biến đổi gen lũ trẻ bằng sức mạnh Trái Đất để gầy dựng lực lượng cho ngày thế giới thăng hoa.
+IlHan hiểu ra mối thù nghìn năm của Ý Chí Hỗn Loạn chỉ nhắm vào riêng cá nhân anh vì từng đả thương nó trong quá khứ, và việc hai bố con tiêu diệt quái vật cùng hầm ngục đã biến họ thành "chủ nhân Trái Đất" lật đổ kế hoạch của nó.
+IlHan trổ tài nấu nướng đại quy mô cho 9.300 đứa trẻ, đưa kỹ năng Nấu Nướng lên cấp 98; Liera tranh thủ ăn vụng và đòi Yumir gọi bằng mẹ khiến IlHan phải cốc đầu chấn chỉnh.
+Cảnh kết thúc: Sau bữa tiệc no nê khiến lũ trẻ lăn ra đất trò chuyện ngô nghê, IlHan bàn kế hoạch đưa Trái Đất trở lại trạng thái bình thường cùng Mir; Quân Đoàn Rồng và pháo đài bay chính thức hợp nhất thành tổ chức hùng mạnh nhất Trái Đất.
+

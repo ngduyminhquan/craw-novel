@@ -221,6 +221,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 212: Dùng máu và bộ giáp kích hoạt dòng thuộc tính thứ năm cứu Liera thành công; chính thức vượt qua sự rụt rè để thổ lộ tình cảm ("Tôi cũng rất thích cô. Cho nên.... tôi ..yêu ..cô") và chủ động trao nụ hôn đầu cho Liera trước sự chứng kiến của Mystic và Orochi.
 - Trạng thái tính đến chương 213: Chính thức hoàn tất chuyển chức lần 4 thành Kẻ Giáng Địa Ngục Lv 270 nhờ lượng kinh nghiệm nhân đôi từ Ý Chí Hỗn Loạn; sở hữu 2 kỹ năng dung hợp tối thượng là Đọa Lạc (dung hợp 7 kỹ năng) và Thần Lực (dung hợp Quái Lực và Chí Mạng); dự định chế tạo phụ kiện từ tàn tích thực thể cấp cao để khắc phục nhược điểm tiêu hao mana của Đọa Lạc; ngượng ngùng lăn lộn khắp dinh thự vì bị Mystic trêu chọc thì phát hiện hầm ngục giam giữ Yumir và lũ trẻ đang tan biến do chủ nhân hầm ngục đã bị tiêu diệt.
 - Trạng thái tính đến chương 214: Điều khiển Pháo Đài Bay Kẻ Hủy Diệt cùng hệ thống Gương Hủy Diệt dội năng lượng xóa sổ lũ ác ma tràn ra khi hầm ngục hòa vào Trái Đất; mở kết giới đón Yumir vào lòng và an ủi con trai khi cậu bé òa khóc nức nở sau gần 3 năm xa cách.
+- Trạng thái tính đến chương 215: Dùng kỹ năng Ký Lục kiểm tra 9.300 đứa trẻ thuộc Quân Đoàn Rồng và phát hiện chính Ý Chí Hỗn Loạn đã biến đổi gen của chúng bằng sức mạnh Trái Đất; nhận ra mối oán thù nghìn năm của Ý Chí Hỗn Loạn chỉ nhắm vào riêng bản thân anh; trổ tài nấu nướng cho 9.300 đứa trẻ đưa kỹ năng Nấu Nướng lên cấp 98; cùng Yumir bàn kế hoạch đưa Trái Đất trở lại trạng thái bình thường và tiếp nhận Quân Đoàn Rồng hợp nhất với pháo đài bay.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -255,6 +256,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 211: Dốc cạn sức lực đâm thủng kẻ địch chuyển chức 6 rồi gục ngã vì phước lành Thần Tình Yêu cưỡng chế bảo toàn mạng sống; được Yu IlHan nhỏ máu lên bộ giáp để bắt đầu quá trình tái sinh.
 - Trạng thái tính đến chương 212: Rơi từ thực thể cấp cao chuyển chức 6 xuống thực thể cấp thấp chuyển chức 4, tái sinh nguyên vẹn cơ thể mang dòng máu đỏ nhờ bộ giáp do Yu IlHan chế tạo (với dòng thuộc tính thứ năm) và sự can thiệp của lời chúc phúc từ Thần Tình Yêu; gặng hỏi câu trả lời và đe dọa cưỡng bức IlHan; ngượng ngùng đến mức muốn chết đi khi nghe IlHan chính thức tỏ tình và bất ngờ nhận được nụ hôn đầu từ anh.
 - Trạng thái tính đến chương 213: Không còn nhớ tên thời còn là con người nên cùng IlHan thống nhất tiếp tục dùng tên Liera; vào bồn tắm nghỉ ngơi hồi phục theo lời khuyên của Bậc Thầy Nghỉ Ngơi Yu IlHan; khi cảm nhận được dao động mana từ hầm ngục đang tan biến, vội vã lao ra khỏi bồn tắm đòi đi ứng cứu Yumir và bị IlHan nghiêm giọng nhắc mặc quần áo vào.
+- Trạng thái tính đến chương 215: Cùng Yu IlHan tiếp đón lũ trẻ Quân Đoàn Rồng, khẳng định chúng vẫn là con người thuần khiết; ăn vụng và đòi Yumir gọi mình bằng mẹ khiến IlHan phải cốc đầu trừng phạt bắt phụ dọn bàn.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -470,6 +472,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 197: Học được kỹ năng Thống Trị, thu nhận lũ trẻ sơ sinh Trái Đất mạnh nhất làm thuộc hạ và cho chúng ăn thịt quái vật để tăng cấp; dùng Ẩn Thân và phong thuật tiêu diệt quái vật sương giá hơn 50 cấp cứu thêm lũ trẻ; sau 1 năm đã xây dựng đội quân lên 5.800 người và bản thân lột xác thành rồng chuyển chức 4.
 - Trạng thái tính đến chương 208: Đã bước lên chuyển chức 4, ngoại hình phát triển thành thiếu niên 15 tuổi tuấn tú xuất chúng; lãnh đạo và huấn luyện quân đoàn 9.300 đứa trẻ sơ sinh Trái Đất sống sót (đạt chuyển chức 3, chia thành các đội nguyên tố) bằng thịt ác ma và trang bị tự chế; trực tiếp kiểm soát mana của lũ trẻ để cường hóa sức mạnh; chỉ huy toàn quân xuất trận tiêu diệt bầy ác ma 4 con.
 - Trạng thái tính đến chương 214: Huấn luyện quân đoàn 9.300 đứa trẻ đạt cấp độ từ 120 đến 144 bằng cách săn ác ma không ngủ nghê; được lũ trẻ hết lòng tôn sùng và muốn đi theo; khi hầm ngục tan biến hòa vào Trái Đất, nhóc nhận ra bố đến cứu liền bay lên pháo đài bay sà vào lòng Yu IlHan òa khóc nức nở đoàn tụ.
+- Trạng thái tính đến chương 215: Dẫn 9.300 đứa trẻ thuộc Quân Đoàn Rồng lên pháo đài bay; được Yu IlHan khen ngợi và xoa đầu; bất ngờ khi thấy Liera yếu đi nhưng bị cô nàng ép gọi là mẹ; cùng bố Yu IlHan tiếp nhận toàn bộ lũ trẻ gia nhập lực lượng pháo đài bay.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
