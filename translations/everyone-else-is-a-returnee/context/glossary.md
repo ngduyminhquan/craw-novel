@@ -509,6 +509,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Soul Transfer |  | chuyển dịch linh hồn | kỹ năng | 96 | Ma pháp cổ xưa của đế chế elf cho phép hoán chuyển linh hồn sang thể xác người khác |
 | Blaze |  | Liệt Hỏa | kỹ năng | 97 | Kỹ năng chủ động của Liệt Hỏa Tử Thần, chuyển hóa sinh mệnh lực thu thập thành mana tạo nhiệt lượng cực độ dưới địa ngục truyền vào vũ khí |
 | Soul Enchant |  | Linh Hồn Phụ Ma | kỹ năng | 97 | Kỹ năng học được sau khi hấp thụ tàn hồn Reta Kar'iha, cho phép ban linh hồn sở hữu vào tạo tác với tỷ lệ thành công 100% |
+| Soul of the Hero |  | Anh Hùng Chi Hồn | kỹ năng | 238 | Kỹ năng độc nhất bí truyền trong huyết mạch cự nhân tộc, mỗi tháng một lần giúp hồi phục hoàn toàn mọi sát thương vật lý |
 | Flame Dragon |  | Hỏa Long | quái vật | 98 | Quái vật rồng lửa cấp 225 tại Daréu |
 | Blowing Barrier |  | Cuồng Phong Kết Giới | kỹ năng | 98 | Ma pháp phong hệ dựng kết giới gió phòng thủ của bầy rồng phe Khu Vườn Hoàng Hôn |
 | Storm Guard |  | Phong Bạo Hộ Thể | kỹ năng | 98 | Kỹ năng ma pháp phong hệ bao bọc cuồng phong quanh thân để phòng thủ và quấy nhiễu địch của Lecidna |
@@ -538,7 +539,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Ymir |  | Ymir | khác | 107 | Được phép giữ nguyên: Người khổng lồ thủy tổ trong Thần thoại Bắc Âu, đọc đồng âm với Yumir |
 | Norse Mythology |  | Thần thoại Bắc Âu | khác | 107 | Thần thoại Bắc Âu |
 | Deathgod's Trajectory |  | Quỹ Đạo Tử Thần | vật phẩm | 108 | Cung Sử Thi chế tạo từ gân và vảy đen của Nguyền Long Karrows kết hợp ma thạch chuyển chức 4 |
-| Eight-tailed dragon spear |  | Bát Vĩ Long Thương | vật phẩm | 109 | Vũ khí Sử Thi rèn từ Hắc Cốt Đại Thương kết hợp tàn niệm Orochi qua Linh Hồn Phụ Ma |
+| Eight-tailed dragon spear | Eight-tailed Dragon Spear | Bát Vĩ Long Thương | vật phẩm | 109 | Vũ khí Sử Thi rèn từ Hắc Cốt Đại Thương kết hợp tàn niệm Orochi qua Linh Hồn Phụ Ma |
 | Front Line Alliance | the Front Line Alliance | Liên Minh Tiền Tuyến | tổ chức | 110 | Liên minh 26 clan mua trang bị cao cấp từ Vanguard để cùng chia sẻ thông tin và hỗ trợ tác chiến |
 | Bump Clan |  | Clan Bump | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |
 | Caycicle Clan |  | Clan Caycicle | tổ chức | 110 | Một trong 26 clan thuộc Liên Minh Tiền Tuyến |

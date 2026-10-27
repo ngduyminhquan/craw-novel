@@ -1452,3 +1452,9 @@ Nhận thấy đối đầu với hơn 300 kẻ chuyển chức 5 an toàn hơn 
 Sau khi nhận đại chúc phúc từ Na YuNa và thống nhất tín hiệu phối hợp kỹ thuật va chạm thiên thạch (dùng hai pháo đài đè bẹp doanh trại) cùng Mystic, Yu IlHan kích hoạt Liệt Hỏa, Ngọn Lửa Vĩnh Cửu cùng bánh quy nhồi ma pháp rồi lao mình xuống doanh trại địch.
 Cảnh kết thúc: Tận dụng sự lơ là của kẻ địch và khả năng Ẩn Thân phớt lờ ma pháp phòng hộ, Yu IlHan mỉm cười nâng Bát Vĩ Long Thương đâm thẳng vào tim một thực thể cấp cao đang lười nhác luyện kỹ năng Nghỉ Ngơi.
 
+## 238
+Yu IlHan liên tục ám sát hơn 200 thực thể cấp cao của Quân Đội Ma Hủy Diệt trong lúc chúng đang lười nhác và mất cảnh giác; việc thăng cấp liên tục (đạt cấp 292) giúp anh hồi phục mana không ngừng, đồng thời kỹ năng Ký Lục đạt cấp 30 giúp anh khắc sâu bản chất của Quân Đội Ma Hủy Diệt và khái niệm thực thể cấp cao vào linh hồn (+20% chỉ số khi đối đầu phe này).
+Sự sụt giảm mana và việc Galayton biến mất khiến doanh trại bừng tỉnh; tên khổng lồ cao 23m (cấp 367) nhận diện Yu IlHan và kêu gọi đồng bọn đề phòng, nhưng lập tức bị Yu IlHan dồn toàn lực đâm chém phanh thây.
+Tên khổng lồ nhờ bí thuật huyết mạch 'Anh Hùng Chi Hồn' hồi phục hoàn toàn sau đòn sát thương vật lý và chộp lấy Yu IlHan mỉa mai, nhưng IlHan lập tức hòa vào bóng đêm và tung đòn tấn công vượt cấp kết liễu hắn hoàn toàn, thăng lên cấp 293.
+Cảnh kết thúc: Thu xác tên khổng lồ vào túi đồ trong sự ngơ ngác của kẻ thù khi thuật Ẩn Thân vẫn chưa mất, Yu IlHan mỉm cười chuẩn bị biến doanh trại thành sàn nhảy của riêng mình.
+

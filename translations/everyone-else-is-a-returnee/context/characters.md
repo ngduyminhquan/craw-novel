@@ -74,6 +74,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Katlar |  | Katlar | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt tự xưng anh hùng đồng bằng băng giá, bị Yu IlHan tiêu diệt | 229 |
 | El Phisadein |  | El Phisadein | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn tại Daréu, bị Yu IlHan tiêu diệt | 230 |
 | Orochi | the Orochi | Orochi | Tàn niệm Yamata no Orochi, trở thành thuộc hạ của Yu IlHan trong Bát Vĩ Long Thương và Hỏa Ngục Long Thân | 73 |
+| Elynard |  | Elynard | Thực thể cấp cao Lv 302 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát đầu tiên trong doanh trại | 238 |
+| Kelotuke |  | Kelotuke | Thực thể cấp cao Lv 313 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát | 238 |
+| Galayton |  | Galayton | Thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát khiến đồng bọn phát hiện doanh trại bị đột kích | 238 |
 
 ## Chi tiết
 
@@ -683,5 +686,17 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Vai trò: Đội quân 9.300 đứa trẻ Trái Đất do Yumir lãnh đạo, được Yu IlHan nuôi dưỡng, trang bị và che chở trên Pháo Đài Bay.
 - Đặc điểm / Cách gọi: Lũ rồng con kỷ luật, thiện chiến, tôn sùng Yu IlHan như thần tượng; thường gọi Yu IlHan là "Anh hùng" (Hero) hoặc "Thủ lĩnh" (Captain).
 - Trạng thái tính đến chương 227: Luôn sẵn sàng xuất trận theo lệnh của Yu IlHan và Yumir; trang bị vũ khí, giáp trụ chuẩn Yu IlHan chế tạo.
+
+### Elynard
+- Giới tính, vai trò: Vô tính, thực thể cấp cao Lv 302 thuộc Quân Đội Ma Hủy Diệt tại Daréu.
+- Xuất hiện tính đến chương 238: Đang lơ là tại góc doanh trại tiền tuyến thì bị Yu IlHan tung một kích Bát Vĩ Long Thương đâm nát đầu, tim và các bộ phận cơ thể, cung cấp bản ghi chép cho anh.
+
+### Kelotuke
+- Giới tính, vai trò: Vô tính, thực thể cấp cao Lv 313 thuộc Quân Đội Ma Hủy Diệt tại Daréu.
+- Xuất hiện tính đến chương 238: Bị Yu IlHan ám sát trong chuỗi tiêu diệt hơn 200 thực thể cấp cao tại doanh trại tiền tuyến.
+
+### Galayton
+- Giới tính, vai trò: Vô tính, thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu.
+- Xuất hiện tính đến chương 238: Bị Yu IlHan ám sát; việc biến mất của hắn khiến các thực thể cấp cao khác trong doanh trại nhận ra điều bất thường và phát hiện doanh trại đang bị tập kích.
 
 
