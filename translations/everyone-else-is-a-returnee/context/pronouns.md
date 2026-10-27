@@ -67,6 +67,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sharkilton | Sharkilton / con cá mập | 224 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
 | Berein | hắn / gã / Berein | 228 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
 | Piltah | hắn / gã / Piltah | 228 | Thực thể cấp cao Khu Vườn Hoàng Hôn |
+| Katlar | hắn / Katlar | 229 | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt |
 | El Phisadein | hắn / El Phisadein | 230 | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn bị IlHan tiêu diệt |
 | Orochi | Orochi | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan |
 
@@ -311,6 +312,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mystic | Orochi | tôi | ngươi | 227 | Hai tàn niệm phụ tá trong Pháo Đài Bay đối thoại và cãi nhau |
 | Yu IlHan | Orochi | tôi | ngươi / Orochi | 148 | IlHan đối thoại với tàn niệm Orochi |
 | Orochi | Yu IlHan | ta | ngươi | 148 | Orochi đối thoại với IlHan |
+| Katlar | Yu IlHan | ta | ngươi | 229 | Đối đầu trực diện với Yu IlHan |
+| Yu IlHan | Katlar | tôi / ta | các người / ngươi | 229 | Đối đáp và tiêu diệt Katlar |
 | El Phisadein | Yu IlHan | ta | ngươi / thực thể cấp thấp | 230 | El Phisadein bị IlHan tiêu diệt |
 | Yu IlHan | El Phisadein | ta | ngươi | 230 | IlHan đáp trả trước khi tiêu diệt El Phisadein |
 

@@ -4,15 +4,15 @@ Xích linh hồn và ngọn lửa do Yu IlHan tạo ra trói chặt những th�
 
 Dĩ nhiên, những kẻ có đẳng cấp vượt xa Yu IlHan lúc này sẽ dễ dàng phớt lờ những giới hạn đó mà thoát ra ngoài, nhưng hai kẻ trước mặt anh lại không đạt tới tiêu chuẩn ấy.
 
-"Liera, em xử lý một tên đi."
+"Liera, cô xử lý một tên đi."
 
-"Không, nhường cho Mir đi anh. Cấp của Mir vẫn còn thấp."
+"Không, nhường cho Mir đi. Cấp của Mir vẫn còn thấp."
 
 Hai thực thể cấp thấp thản nhiên trò chuyện ngay trước mặt những thực thể cấp cao đang bị trói chặt. Cảnh tượng này mỉa mai đến mức trông chẳng khác nào một cặp vợ chồng đang nhường nhau miếng thịt cuối cùng trên đĩa, nhưng rốt cuộc lại gắp cho cậu con trai.
 
-"Được rồi, thế để em đi gọi Mir."
+"Được rồi, thế để tôi đi gọi Mir."
 
-"Nhờ em đấy."
+"Nhờ cô đấy."
 
 Rốt cuộc, Liera quay trở lại Pháo Đài Bay, bỏ lại hai thực thể cấp cao ở phía sau. Điều đó khiến lòng tự tôn của hai kẻ bị trói vỡ vụn thành ngàn mảnh.
 
@@ -100,7 +100,7 @@ Vấn đề lớn hơn là những đường thương ẩn chứa uy lực đủ
 
 "Lần trước ngươi đã nhìn thấy rồi đúng không?"
 
-[Chẳng lẽ ngay cả trong các kỹ thuật nâng cao thì đó cũng là võ thuật sao...!? Không thể nào né tránh chỉ bằng mắt nhìn...…]
+[Chẳng lẽ trong số các kỹ thuật nâng cao, thứ này lại là võ thuật sao...!? Không thể nào né tránh chỉ bằng mắt nhìn...…]
 
 Đó là những lời trăng trối cuối cùng của hắn. Các đòn đánh liên tiếp của Yu IlHan cắt đứt toàn bộ mạch mana của hắn, và luồng mana bạo tẩu đã đóng băng toàn bộ cơ thể hắn. Khoảnh khắc cuối cùng hắn mới nhận ra kẻ ngạo mạn chính là mình, rồi sau đó não bộ và đôi mắt của hắn cũng đóng băng theo.
 
@@ -108,7 +108,7 @@ Vấn đề lớn hơn là những đường thương ẩn chứa uy lực đủ
 
 [Bạn đã đạt cấp độ 275. Tăng 2 Sức mạnh, 1 Nhanh nhẹn, 1 Thể lực, 1 Ma pháp.]
 
-[Bạn đã nhận được ký lục của Katlar Lv 319.]
+[Bạn đã nhận được ghi chép của Katlar Lv 319.]
 
 [Kỹ năng Bất Khả Họa Quỹ Đạo Thương đã đạt cấp 95.]
 
@@ -148,7 +148,7 @@ Yu IlHan lên tiếng.
 
 "Con rõ rồi ạ!"
 
-[Khaaaaaaak!]
+[Khuặcccc!]
 
 [Bạn nhận được kinh nghiệm.]
 
@@ -162,9 +162,9 @@ Thật quá đỗi bình thường; tiếng thét cuối cùng khiến tâm tr�
 
 Sau khi xác nhận không còn kẻ địch nào xung quanh, Yu IlHan thu hồi thi thể con quái vật rồi giải trừ Đọa Lạc, trong khi Liera đưa mắt nhìn anh đầy lo lắng hỏi han.
 
-"IlHan, em không nghĩ tên đó nói sai đâu.... Anh sẽ thực sự ổn chứ? Em từng thấy hàng trăm thực thể chuyển chức 5 giao tranh ác liệt vì một thế giới bậc cao rồi."
+"IlHan, tôi không nghĩ tên đó nói sai đâu.... Cậu sẽ thực sự ổn chứ? Tôi từng thấy hàng trăm thực thể chuyển chức 5 giao tranh ác liệt vì một thế giới bậc cao rồi."
 
-"Sau trận chiến vừa rồi thì anh khá yên tâm. Chúng ta sẽ ổn thôi dù phải đối đầu với năm thực thể chuyển chức 6 trong lãnh vực Đọa Lạc. Nó không chỉ tăng cường sức mạnh của anh mà còn làm suy yếu kẻ địch. Có em, anh, Mir và Pháo Đài Bay, chúng ta có thể cân năm tên cùng lúc."
+"Sau trận chiến vừa rồi thì tôi khá yên tâm. Chúng ta sẽ ổn thôi dù phải đối đầu với năm thực thể chuyển chức 6 trong lãnh vực Đọa Lạc. Nó không chỉ tăng cường sức mạnh của tôi mà còn làm suy yếu kẻ địch. Có cô, tôi, Mir và Pháo Đài Bay, chúng ta có thể cân năm tên cùng lúc."
 
 Yu IlHan trả lời. Năm thực thể chuyển chức 6. Trong khi Liera còn đang nghĩ đó là một con số phi lý...
 
@@ -174,7 +174,7 @@ Yu IlHan trả lời. Năm thực thể chuyển chức 6. Trong khi Liera còn 
 
 "Với Pháo Đài Bay."
 
-"Anh có biết là lên tới chuyển chức 6 thì họ có thể quét toàn bộ thế giới này chỉ trong tối đa 15 phút không đấy?"
+"Cậu có biết là lên tới chuyển chức 6 thì họ có thể quét toàn bộ thế giới này chỉ trong tối đa 15 phút không đấy?"
 
 "Thế là quá dư dả rồi. Hơn nữa..."
 

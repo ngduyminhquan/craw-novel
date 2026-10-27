@@ -112,7 +112,7 @@ Liera nghĩ mình nên vung thương đấm quyền để rũ bỏ mọi tạp n
 
 "Những lúc thế này đừng có đùn việc cho tôi, đồ ngốc!"
 
-Tuy vậy, cô vẫn ngoan ngoãn vung thương phóng quyền để dọn sạch cây cối xung quanh. Yu IlHan hài lòng nhìn theo hành động của cô rồi bay vào Pháo Đài Bay. Trong khi các elf cùng một con Nguyệt Lang đang hối hả chạy vào pháo đài, Na YuNa, người mặt dày đứng yên một chỗ chẳng thèm chạy, liền cất lời với một nụ cười rạng rỡ.
+Tuy vậy, cô vẫn ngoan ngoãn vung thương phóng quyền để dọn sạch cây cối xung quanh. Yu IlHan hài lòng nhìn theo hành động của cô rồi bay vào Pháo Đài Bay. Trong khi các elf cùng nàng Nguyệt Lang duy nhất đang hối hả chạy vào pháo đài, Na YuNa, người mặt dày đứng yên một chỗ chẳng thèm chạy, liền cất lời với một nụ cười rạng rỡ.
 
 "Nào, bắt đầu làm việc thôi!"
 
@@ -196,7 +196,7 @@ Tuy nhiên, dòng thánh lực cuồng bạo đã có dấu hiệu lắng dịu 
 
 "Này, cái đồ hèn nhát kia! Không, không, không được đâu. Anh Yu IlHan, đừng có rời khỏi chỗ đó đấy nhé! Tôi bảo đừng có nhúc nhích mà!"
 
-Na YuNa buông tay Yu IlHan ra sau khoảng 3 giờ đồng hồ. Yu IlHan vốn đã chuẩn bị tinh thần cho 30 giờ, không, 3 ngày, thậm chí là 3 tuần, nhưng Na YuNa đã thành công kiểm soát thánh địa chỉ trong khoảng thời gian ngắn ngủi ấy.
+Na YuNa buông cánh tay Yu IlHan ra sau khoảng 3 giờ đồng hồ. Yu IlHan vốn đã chuẩn bị tinh thần cho 30 giờ, không, 3 ngày, thậm chí là 3 tuần, nhưng Na YuNa đã thành công kiểm soát thánh địa chỉ trong khoảng thời gian ngắn ngủi ấy.
 
 "Oa, em thậm chí còn có thể tạo ra thánh thạch ngay tại chỗ này! Ten tèn."
 

@@ -100,7 +100,7 @@ Nếu Mirfa là đại diện cho tộc elf, thì Erica chính là đại diện
 
 Không, cô thực sự đang phát sáng theo đúng nghĩa đen, từ mái tóc cho tới vóc dáng cơ thể vào lúc này. Trước kia cô là một nàng sói tóc đen, nhưng có lẽ do đã tiếp nhận tinh hoa của mặt trăng khi đạt chuyển chức 4 chăng? Mái tóc và đôi lông mày của cô đã chuyển sang sắc bạc lấp lánh ánh sáng dịu nhẹ. Đây chính là minh chứng cho thấy cô đã trở nên mạnh mẽ hơn trước gấp bội phần.
 
-"Hóa ra cô đã bảo vệ các elf suốt thời gian qua sao? Cảm ơn nhé. Thu nhận cô làm thuộc hạ là một trong những quyết định sáng suốt nhất đời ta đấy."
+"Hóa ra cô đã bảo vệ các elf suốt thời gian qua sao? Cảm ơn nhé. Thu nhận cô làm thuộc hạ là một trong những quyết định sáng suốt nhất đời tôi đấy."
 
 "Hì hì."
 
@@ -194,7 +194,7 @@ Anh nuốt ngược 'thứ gì đó' chực trào ra khỏi cổ họng và ti�
 
 "Lúc này, Khu Vườn Hoàng Hôn và Quân Đội Ma Hủy Diệt đã tiến vào thế giới này, và có lẽ Quân Đội Ánh Sáng Rực Rỡ cùng Quân Đội Thiên Giới sau này cũng sẽ tìm cách can dự vào. Tuy nhiên, điều quan trọng là thế này." Anh tuyên bố, cắm ngập mũi thương vào gã thực thể cấp cao vốn đã chết.
 
-"Hãy coi cả bốn phe đó đều là kẻ thù. Mọi thứ trên mảnh đất này ngoài các ngươi ra đều là kẻ địch."
+"Hãy coi cả bốn phe đó đều là kẻ thù. Mọi thứ trên mảnh đất này ngoài mọi người ra đều là kẻ địch."
 
 "Tuân lệnh Bệ hạ!"
 
@@ -206,13 +206,13 @@ Giọng nói của Yu IlHan vô cùng đanh thép, và các thuộc hạ của a
 
 "Và vì thế, đây là chiến tranh. Không, nói chính xác hơn..."
 
-Yu IlHan nhìn tình trạng trang bị của các elf, vốn đã rách nát tả tơi vì không được bảo trì suốt hơn 5 năm; nhìn ma pháp trận mà các thực thể cấp cao có thể tìm cách can thiệp bất cứ lúc nào; nhìn pháo đài bay vẫn chưa hoàn thiện thánh địa, cũng như nhìn những elf và Lang tộc đang kiệt sức trước khi giơ cao tay lên.
+Yu IlHan nhìn tình trạng trang bị của các elf, vốn đã rách nát tả tơi vì không được bảo trì suốt hơn 5 năm; nhìn ma pháp trận mà các thực thể cấp cao có thể tìm cách can thiệp bất cứ lúc nào; nhìn Pháo Đài Bay vẫn chưa hoàn thiện thánh địa, cũng như nhìn những elf và Lang tộc đang kiệt sức trước khi giơ cao tay lên.
 
 Trên tay anh chính là Đồng Hồ Cát Vĩnh Hằng. Vật phẩm này cùng trưởng thành theo anh, và giờ đây khi anh đã đạt tới cấp độ 278, anh có thể dùng tạo tác kỳ diệu này để bao phủ một phạm vi mà thuở mới nhận được nó anh thậm chí còn chẳng dám tưởng tượng tới.
 
 "Đây là thời gian chuẩn bị cho chiến tranh."
 
-Khi Yu IlHan nắm chặt bàn tay lại, ánh sáng tuôn trào từ Đồng Hồ Cát Vĩnh Hằng đã bao phủ lấy Yu IlHan cùng nhóm của anh; các elf và Lang tộc; cũng như khu rừng bạt ngàn và pháo đài bay. Các elf và Lang tộc chỉ biết chớp mắt ngơ ngác, và khi trông thấy cảnh đó, Yu IlHan khẽ mỉm cười lên tiếng.
+Khi Yu IlHan nắm chặt bàn tay lại, ánh sáng tuôn trào từ Đồng Hồ Cát Vĩnh Hằng đã bao phủ lấy Yu IlHan cùng nhóm của anh; các elf và Lang tộc; cũng như khu rừng bạt ngàn và Pháo Đài Bay. Các elf và Lang tộc chỉ biết chớp mắt ngơ ngác, và khi trông thấy cảnh đó, Yu IlHan khẽ mỉm cười lên tiếng.
 
 "Trước tiên mọi người hãy đi ngủ một giấc đi đã."
 
