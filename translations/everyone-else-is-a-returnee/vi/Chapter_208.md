@@ -172,7 +172,7 @@ Những đứa trẻ sở hữu thuộc tính gió giống như Yumir đều đ�
 
 Thời gian trôi qua, phương thức hành động của lũ ác ma cũng bắt đầu có những biến chuyển. Cho đến tận gần đây, chúng chẳng thèm bận tâm tụ tập lại thành bầy nếu như Yumir và lũ trẻ không chủ động gây náo loạn; thế nhưng giờ đây sau khi bị tàn sát liên miên hết lần này đến lần khác, chúng đã thôi không còn hành động đơn lẻ nữa mà bắt đầu kéo đi thành từng nhóm!
 
-"Đông quá rồi, bọn mình không chạy trốn sao ạ?"
+"Đông quá rồi, bọn em không chạy trốn sao ạ?"
 
 "Đông người thế này thì chạy đằng trời? Ngay cả anh hùng cũng không gánh nổi đâu."
 
@@ -206,7 +206,7 @@ Suốt những năm tháng qua, chúng đâu chỉ có mỗi việc ăn thịt l
 
 Lũ trẻ mang trên mình những bộ giáp có hình thù kỳ dị nhưng cứng chắc đến khó tin, tay lăm lăm những món vũ khí vặn vẹo nhưng sắc bén vô cùng, rồi nhanh chóng xếp thành từng hàng ngũ quân đội chỉnh tề. Trong suốt hai năm qua, tổng số đứa trẻ sống sót được nhờ có Yumir đã lên tới con số 9.300. Nhờ tập hợp và phát triển với tốc độ hoàn toàn không tưởng so với độ tuổi thực tế, cả đội quân thậm chí còn tỏa ra một luồng khí tức áp bức đầy uy nghiêm.
 
-"Tốt lắm, thế thì."
+"Được rồi, vậy thì."
 
 Vị thống soái của đội quân, Yumir, quay người nhìn thẳng về phía trước. Trên nắm đấm của cậu bé, chiếc bao tay sắt mà Yu IlHan tự tay chế tạo vẫn đang tỏa ra những ánh sáng rực rỡ như thuở nào.
 

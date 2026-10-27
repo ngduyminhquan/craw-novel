@@ -224,7 +224,7 @@ Người phụ nữ đã từ bỏ thiên giới và quay trở lại làm một
 
 Và khoảnh khắc cả hai lao vào nhau, Liera đã đục thủng một lỗ trên chiếc bóng ngay cả khi đang thổ huyết.
 
-[Kỹ năng Ngôn Ngữ đã tiến hóa thành kỹ năng Ký Lục!] Bạn có thể chuyển hóa mọi điều tai nghe, mắt thấy, tâm cảm nhận thành ngôn ngữ của Hồ Sơ Akashic và ghi chép lại. Một khi đã ghi lại, mọi thứ sẽ tồn tại như một phần ghi chép của chính bản thân bạn.]
+[Kỹ năng Ngôn Ngữ đã tiến hóa thành kỹ năng Ký Lục! Bạn có thể chuyển hóa mọi điều tai nghe, mắt thấy, tâm cảm nhận thành ngôn ngữ của Hồ Sơ Akashic và ghi chép lại. Một khi đã ghi lại, mọi thứ sẽ tồn tại như một phần ghi chép của chính bản thân bạn.]
 
 [Tốc độ tăng trưởng của mọi kỹ năng tăng gấp đôi.]
 
@@ -236,7 +236,7 @@ Quá trình tiến hóa kỹ năng kết thúc, và cùng lúc đó.
 
 [Bạn đã thuần thục kỹ năng Liệt Hỏa. Bạn trở thành chúa tể ngọn lửa.]
 
-[Bạn nhận được Chúc Phúc Của Nữ Thần Lửa. Kháng hỏa thuộc tính và sức tấn công tăng 50%. Ngọn lửa không còn có thể làm tổn thương bạn. Ngọn lửa do kẻ thù điều khiển có thể bị bạn tước quyền kiểm soát, và bạn có thể thao túng chúng. Cấp độ của toàn bộ kỹ năng sử dụng lửa tăng 1 cấp.]
+[Bạn nhận được Chúc Phúc Của Nữ Thần Lửa. Kháng thuộc tính hỏa và sức tấn công tăng 50%. Ngọn lửa không còn có thể làm tổn thương bạn. Ngọn lửa do kẻ thù điều khiển có thể bị bạn tước quyền kiểm soát, và bạn có thể thao túng chúng. Cấp độ của toàn bộ kỹ năng sử dụng lửa tăng 1 cấp.]
 
 [Bạn có thể tiến hành chuyển chức lần 4.]
 

@@ -224,7 +224,7 @@ Yu IlHan khịt mũi một tiếng rồi nhắm mắt lại.
 
 "Tôi sẽ tiến hóa kỹ năng Ngôn Ngữ."
 
-[Xem xét các tiêu chí tiến hóa để tiến hóa kỹ năng, Ngôn Ngữ.]
+[Kiểm tra các tiêu chí để tiến hóa kỹ năng Ngôn Ngữ.]
 
 [Ma thạch chuyển chức 3 3.924.498/1.000]
 
