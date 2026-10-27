@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T10:07:53Z",
+  "generatedAt": "2026-10-27T10:15:21Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1415,6 +1415,12 @@
           "title": "Chương 235: Tôi Nghe Thấy Tiếng Cậu – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_235.md",
           "sha": "d6cf954760cb1e577aa5f66b8c041aacb7031d13"
+        },
+        {
+          "number": 236,
+          "title": "Chương 236: Tôi Nghe Thấy Tiếng Cậu – 5",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_236.md",
+          "sha": "10da97e1db2012c8fbc3d5dae6dbf29c5e4dc23d"
         }
       ]
     }

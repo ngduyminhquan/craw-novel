@@ -515,6 +515,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Rồng chuyển chức 5, đã trở thành thực thể cấp cao (Ma Binh Hủy Diệt) thuộc Quân Đội Ma Hủy Diệt; trùm cuối chiến trường Daréu.
 - Ngoại hình / tính cách: Con rồng khổng lồ tỏa uy áp kinh hoàng, có thể biến hình thành nam elf điển trai tóc đen dài mắt đỏ; nói năng trôi chảy, cao ngạo nhưng biết nhìn nhận thực tế và trân trọng kẻ mạnh; ngỏ lời chiêu mộ Yu IlHan trở thành Ma Binh Hủy Diệt.
 - Xuất hiện tính đến chương 101: Do đã giải phóng toàn bộ năng lượng tàn dư (lột bỏ lớp vỏ) nên không thể tấn công IlHan ở thế giới bậc thấp; sau khi lừa gạt bảo vệ 19 ấu long thất bại, hắn chiêu dụ IlHan gia nhập Quân Đội Ma Hủy Diệt trước khi rời đi.
+- Xuất hiện tính đến chương 236: Đã đạt cảnh giới chuyển chức 6, dẫn đầu một tiểu đoàn toàn rồng thuộc Quân Đội Ma Hủy Diệt đóng quân tại doanh trại tiền tuyến ở Daréu và khao khát tiếp tục trở nên mạnh mẽ hơn.
 
 ### Mirfa
 - Giới tính, vai trò: Nữ elf, 518 tuổi nhưng ngoại hình như mới 25 tuổi; nhân vật số hai được công nhận của tộc elf tại Daréu nhờ thông thạo cả chiến đấu lẫn năng lực sản xuất.

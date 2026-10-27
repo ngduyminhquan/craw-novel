@@ -1439,3 +1439,10 @@ Erta trút giận lên Liera vì đã từ bỏ Thiên giới để ở bên Yu 
 Erta thông báo Quân Đội Thiên Giới sắp đổ bộ Daréu sau khi IlHan phá vỡ thế cân bằng giữa Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn; cô giải thích việc dùng kết giới giả đồng bộ thời gian để tìm anh trước tiên và khuyên IlHan tạm thời chấp nhận lời đề nghị liên minh của Thiên giới.
 Erta tiết lộ kế hoạch bí mật: nhận lời gia nhập Khu Vườn Hoàng Hôn rồi dùng ma pháp bí mật can thiệp ngay giữa quá trình biến hình nhằm an toàn trở lại làm thực thể cấp thấp bên cạnh IlHan, đồng thời hủy bỏ khế ước với Thiên giới; IlHan lập tức đồng ý bảo vệ cô trước sự truy sát của cả hai phe phái.
 Cảnh kết thúc: Cả nhóm nhận ra Yu IlHan vẫn còn bị ràng buộc khế ước với một thiên thần khác, và Erta tuyên bố việc cần làm ngay trong kết giới là phải giải quyết dứt điểm với Spiera.
+
+## 236
+Đánh giá thực lực của Spiera (chuyển chức 6, võ thuật thượng thừa với Đại Đoạn Vũ Trụ Thương), Yu IlHan quyết định dùng thủ đoạn để hóa giải khế ước mà không cần giết cô; Erta bộc bạch lý do rời bỏ Thiên giới vì ghê tởm sự thỏa hiệp của họ và vì tin tưởng tuyệt đối vào IlHan.
+Từ chối phương án biến Erta thành thực thể cấp thấp bằng cách đau đớn như với Liera để chọn kế hoạch an toàn qua Khu Vườn Hoàng Hôn, Erta trước khi rời đi đã khiêu khích Liera rằng một ngày nào đó sẽ biến IlHan thành một "Thượng Đế" mới.
+Nhận định vị thế trong liên minh sắp tới với Thiên giới phụ thuộc vào chiến tích, Yu IlHan kích hoạt ma pháp trận dịch chuyển Pháo Đài Bay và Pháo Đài Hộ Vệ đột kích thẳng vào doanh trại tiền tuyến của Quân Đội Ma Hủy Diệt.
+Cảnh kết thúc: Yu IlHan chạm trán Teraka – con rồng từng chiêu mộ anh trước đây nay đã đột phá lên chuyển chức 6 và đang thống lĩnh cả một tiểu đoàn rồng khổng lồ.
+
