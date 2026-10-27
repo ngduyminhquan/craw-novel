@@ -1458,3 +1458,10 @@ Sự sụt giảm mana và việc Galayton biến mất khiến doanh trại b�
 Tên khổng lồ nhờ bí thuật huyết mạch 'Anh Hùng Chi Hồn' hồi phục hoàn toàn sau đòn sát thương vật lý và chộp lấy Yu IlHan mỉa mai, nhưng IlHan lập tức hòa vào bóng đêm và tung đòn tấn công vượt cấp kết liễu hắn hoàn toàn, thăng lên cấp 293.
 Cảnh kết thúc: Thu xác tên khổng lồ vào túi đồ trong sự ngơ ngác của kẻ thù khi thuật Ẩn Thân vẫn chưa mất, Yu IlHan mỉm cười chuẩn bị biến doanh trại thành sàn nhảy của riêng mình.
 
+## 239
+Yu IlHan tiếp tục tàn sát thêm các thực thể cấp cao trong lúc doanh trại địch hoảng loạn, thăng lên cấp 294 và đạt cấp 33 kỹ năng Ký Lục; sau khi tiêu diệt bớt kẻ thù chỉ còn khoảng 90 tên, anh kích hoạt kỹ năng chức nghiệp Kẻ Giáng Địa Ngục và phóng thích 'Đọa Lạc' cùng ngọn lửa trắng và xích hồn hỏa trói chặt toàn bộ kẻ địch, hạ thấp cảnh giới của chúng.
+Mystic phối hợp cùng Na YuNa giáng cú va chạm thiên thạch từ Pháo Đài Bay và Pháo Đài Hộ Vệ xuống đè bẹp doanh trại, tiêu diệt hai thực thể cấp cao ngắc ngoải và gây trọng thương hàng loạt kẻ địch, giúp Na YuNa tăng liền 5 cấp.
+Quân đội từ hai pháo đài do Liera và Yumir dẫn đầu túa ra tấn công dữ dội; lũ trẻ thuộc Quân Đoàn Rồng lập chiến công đầu hạ sát một thực thể cấp cao và thăng cấp hàng loạt, trong khi Paté dùng Quỹ Đạo Tử Thần bắn chết một thực thể cấp cao khác, vô tình kích hoạt dòng thuộc tính hồi sinh nó thành undead dưới quyền mình.
+Chiến công vượt bậc giúp Paté thức tỉnh chức nghiệp chuyển chức lần 4 'Cung Thủ Định Mệnh', đồng thời vũ khí Quỹ Đạo Tử Thần tiến hóa lên phẩm cấp Hỗn Loạn và được Thần Lời Nguyền nhắm ban phước; sự biến đổi undead của Paté khiến quân địch khiếp đảm nhận ra bậc cảnh giới của thực thể cấp cao bị đảo lộn.
+Cảnh kết thúc: Kẻ địch hoảng loạn cố liên lạc với đại bản doanh và cầu cứu Teraka nhưng bị phớt lờ hoàn toàn, khiến Yu IlHan đắc ý khen ngợi Teraka đã làm rất tốt.
+

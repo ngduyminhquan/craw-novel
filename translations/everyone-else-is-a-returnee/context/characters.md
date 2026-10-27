@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |
-| Paté | Pat; Pate | Paté | Nam elf cung thủ Lv 86 theo Yu IlHan về Trái Đất | 103 |
+| Paté | Pat; Pate | Paté | Nam elf cung thủ theo Yu IlHan về Trái Đất (đạt chuyển chức lần 4 thành Cung Thủ Định Mệnh tính đến chương 239) | 103 |
 | Jirl | Jril | Jirl | Nam elf chiến binh khiên Lv 85 theo Yu IlHan về Trái Đất | 103 |
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |

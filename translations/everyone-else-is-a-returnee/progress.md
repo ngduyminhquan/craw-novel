@@ -243,7 +243,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 236 |  | Chapter_236 - I Hear Your Voice – 5.txt | I Hear Your Voice – 5 | reviewed |  |
 | 237 |  | Chapter_237 - You Are Already Dead – 1.txt | You Are Already Dead – 1 | reviewed |  |
 | 238 |  | Chapter_238 - You Are Already Dead – 2.txt | You Are Already Dead – 2 | done |  |
-| 239 |  | Chapter_239 - You Are Already Dead – 3.txt | You Are Already Dead – 3 | todo |  |
+| 239 |  | Chapter_239 - You Are Already Dead – 3.txt | You Are Already Dead – 3 | done |  |
 | 240 |  | Chapter_240 - You Are Already Dead – 4.txt | You Are Already Dead – 4 | todo |  |
 | 241 |  | Chapter_241 - You Are Already Dead – 5.txt | You Are Already Dead – 5 | todo |  |
 | 242 |  | Chapter_242 - You Are Already Dead – 6.txt | You Are Already Dead – 6 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -913,3 +914,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#236] Cụm từ "make Yu IlHan a new 'God'" của Erta — Tạm chọn: "biến Yu IlHan thành một 'Thượng Đế' mới" (theo glossary.md và phản ứng sợ bị giáng làm thiên thần sa ngã của Liera). Phương án khác: "biến Yu IlHan thành một 'Thần' mới". → Giữ "biến Yu IlHan thành một 'Thượng Đế' mới" (phù hợp ngữ cảnh Thiên giới và phản ứng sợ bị giáng làm thiên thần sa ngã của Liera). (orchestrator)
 - [#237] Tiêu đề chương/arc "You Are Already Dead" – tạm dịch "Ngươi Đã Chết Rồi" (tham chiếu câu thoại kinh điển Hokuto no Ken, hợp ngữ cảnh Yu IlHan kết liễu kẻ địch bất ngờ), đề xuất xác nhận dùng thống nhất cho cả arc 12 chương (hoặc đổi thành "Các Ngươi Đã Chết Rồi" / "Ngươi Đã Chết"). → Giữ "Ngươi Đã Chết Rồi" dùng thống nhất cho cả arc 12 chương (#237–#248) (đúng câu thoại kinh điển Hokuto no Ken và hợp ngữ cảnh chiến đấu). (orchestrator)
 - [#238] Kỹ năng huyết mạch cự nhân tộc 'Soul of the Hero' — Tạm chọn: 'Anh Hùng Chi Hồn'. Phương án khác: 'Linh Hồn Anh Hùng', 'Dũng Giả Chi Hồn'. Tạm dùng trong bản dịch: 'Anh Hùng Chi Hồn'. → Giữ 'Anh Hùng Chi Hồn' (Hán Việt ngắn gọn theo rules.md). (orchestrator)
+- [#239] Chức nghiệp chuyển chức 4 của Paté "Destiny Archer" — Tạm chọn: "Cung Thủ Định Mệnh" (Hán Việt theo rules.md; phương án khác: "Định Mệnh Cung Thủ", "Cung Thủ Vận Mệnh"). → Giữ "Cung Thủ Định Mệnh" (tự nhiên và nhất quán với các chức nghiệp khác như Thương Thủ Mờ Nhạt). (orchestrator)
+- [#239] Vị thần "god of curses" muốn ban phước cho Paté — Tạm chọn: "Thần Lời Nguyền" (đồng bộ Thần Rèn Đúc, Thần Tình Yêu; phương án khác: "Thần Nguyền Rủa"). → Giữ "Thần Lời Nguyền" (đồng bộ cấu trúc với Thần Rèn Đúc, Thần Chiến Binh, Thần Tình Yêu và Kháng Lời Nguyền Cấp Cao). (orchestrator)
+- [#239] Câu thoại "I'm one-way-His-Majesty!" của Paté ở đoạn 138 — Tạm chọn: "Tôi một lòng vì Bệ hạ!" (thể hiện lòng trung thành tuyệt đối hài hước của Paté; phương án khác: "Tôi nhất tâm vì Bệ hạ!"). → Giữ "Tôi một lòng vì Bệ hạ!" (tự nhiên, đúng giọng hài hước của Paté). (orchestrator)
