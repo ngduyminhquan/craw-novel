@@ -1320,3 +1320,9 @@ IlHan hiểu ra mối thù nghìn năm của Ý Chí Hỗn Loạn chỉ nhắm v
 IlHan trổ tài nấu nướng đại quy mô cho 9.300 đứa trẻ, đưa kỹ năng Nấu Nướng lên cấp 98; Liera tranh thủ ăn vụng và đòi Yumir gọi bằng mẹ khiến IlHan phải cốc đầu chấn chỉnh.
 Cảnh kết thúc: Sau bữa tiệc no nê khiến lũ trẻ lăn ra đất trò chuyện ngô nghê, IlHan bàn kế hoạch đưa Trái Đất trở lại trạng thái bình thường cùng Mir; Quân Đoàn Rồng và pháo đài bay chính thức hợp nhất thành tổ chức hùng mạnh nhất Trái Đất.
 
+## 216
+Yu IlHan giao việc dọn dẹp quái vật Trái Đất cho Mystic, còn bản thân dành 22 giờ chế tạo 119 trò chơi từ xương ác ma rung, ma thạch cấp 4 và Ma Pháp Công Học biến pháo đài bay thành công viên giải trí kết hợp vũ khí phòng thủ và giáo dục cho 9.300 đứa trẻ.
+Công viên vận hành đồng thời như hệ thống phân tích, ghi nhận thông tin nhờ kỹ năng Ký Lục để IlHan thu thập dữ liệu phục vụ chế tạo trang bị tương thích cho lũ trẻ; Yumir bám chặt bên bố không rời, trong khi Liera đe dọa phạt IlHan những nụ hôn kéo dài cả tiếng nếu dám lừa cô.
+IlHan chuẩn bị dùng phân nửa tàn tích của Ý Chí Hỗn Loạn làm giáp cho Mir khiến Liera bĩu môi hờn dỗi vì muốn làm đồ đôi, buộc anh phải lấy ra số lông vũ, máu trắng và da vảy thần thánh bí mật chuẩn bị từ trước để làm trang bị riêng cho cô.
+Cảnh kết thúc: Bị Liera phát hiện đã lén thu thập nguyên liệu từ trước, Mir tự giác nhắm mắt quay đi để Liera trừng phạt quấn quýt IlHan suốt một tiếng trước khi anh bắt tay chế tạo trang bị.
+
