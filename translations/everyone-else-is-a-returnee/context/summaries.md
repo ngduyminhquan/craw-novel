@@ -1237,5 +1237,12 @@ Yu IlHan tiết lộ với Liera rằng anh đã bí mật cài "cửa sau" vào
 Nhằm giải quyết tình trạng thiếu hụt quái vật rèn luyện kỹ năng, IlHan ném tạo tác chứa ma thạch chuyển chức 2 liên hoàn kích nổ các cánh cổng hầm ngục khắp bầu trời và mặt đất, tạo ra Đợt Sóng Hầm Ngục và Hiện Tượng Tràn nhân tạo khiến hàng triệu quái vật túa ra và dung hợp tiến hóa thành chuyển chức 4.
 Cảnh kết thúc: IlHan vung Bát Vĩ Long Thương chỉ huy hệ thống Bách Nhãn phóng một trăm Gương Hủy Diệt bắn chùm tia năng lượng thiêu rụi toàn bộ bầy quái vật; chỉ trong vỏn vẹn 3 tháng, toàn bộ hầm ngục trên Trái Đất đã được giải phóng và bị IlHan quét sạch không còn một mống.
 
+## 202
+Sau 2 năm một mình càn quét Trái Đất bằng pháo đài bay, Yu IlHan đã thu thập tới 150 nghìn viên ma thạch chuyển chức 4 và dọn sạch quái vật trên toàn cầu chỉ trong 1-2 ngày mỗi vòng tuần tra.
+Việc quái vật bị diệt nhanh hơn tốc độ sinh sôi khiến các Bẫy Hủy Diệt liên tục hút mana tạo ra Hiện Tượng Tràn với quái vật tinh anh trên cấp 250; trong khi đó, IlHan vẫn bế tắc trước yêu cầu Chúc Phúc Của Nữ Thần Lửa và thiếu ma thạch chuyển chức 5 để tiến hóa kỹ năng Ngôn Ngữ hay hoàn thành chuyển chức 4.
+Thấy IlHan buồn bã múa thương lửa một mình, Liera ngượng ngùng định mở lời an ủi thì bị cắt ngang bởi một đợt Hiện Tượng Tràn bất thường bùng nổ dữ dội.
+Cảnh kết thúc: IlHan ẩn thân pháo đài bay lao tới điểm bùng phát và chứng kiến hàng loạt Bẫy Hủy Diệt cộng hưởng cùng Hồ Sơ Akashic khai sinh ra một thực thể chuyển chức 5 hoàn toàn tự nhiên ngay trên Trái Đất.
+
+
 
 
