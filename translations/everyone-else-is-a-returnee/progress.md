@@ -207,7 +207,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 200 |  | Chapter_200 - If You See Me – 2.txt | If You See Me – 2 | reviewed |  |
 | 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | reviewed |  |
 | 202 |  | Chapter_202 - If You See Me – 4.txt | If You See Me – 4 | done |  |
-| 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | todo |  |
+| 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | done |  |
 | 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | todo |  |
 | 205 |  | Chapter_205 - If You See Me – 7.txt | If You See Me – 7 | todo |  |
 | 206 |  | Chapter_206 - If You See Me – 8.txt | If You See Me – 8 | todo |  |
@@ -367,8 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 ## Đã quyết
 
@@ -861,3 +859,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#200] Thuật ngữ "backdoor" trong câu hỏi cuối chương của Yu IlHan ("Liera, have you ever heard of the word 'backdoor'?") — Tạm chọn: dịch thuần Việt là "cửa sau" theo đúng nghĩa thuật ngữ tin học/lập trình; phương án khác: giữ nguyên "backdoor" hoặc dùng "cửa sau (backdoor)". → Chốt dịch thuần Việt là "cửa sau" (rõ nghĩa cả nghĩa đen lẫn thuật ngữ cổng hậu tin học, không giữ tiếng Anh trong ngoặc theo rules.md). (orchestrator)
 - [#201] Từ "records" trong câu thoại quái vật "[Kill humans! Let's earn records!]" (đoạn 68) — Tạm chọn: "ghi chép" (theo thuật ngữ cốt lõi Hồ Sơ Akashic). Đề xuất: giữ nguyên "ghi chép". → Giữ nguyên "ghi chép" theo đúng bản chất cơ chế tích lũy ghi chép của Hồ Sơ Akashic. (orchestrator)
 - [#202] Tên loài Pokemon "Electrodes (Pokemon)" — Tạm chọn: "Electrode (Pokemon)" (giữ nguyên tên gốc loài Pokemon theo tiền lệ Pidgeotto, Pikachu, Snorlax trong glossary). Phương án khác: "Pokemon Electrode" hoặc dịch nghĩa. → Chốt giữ nguyên tên gốc "Electrode" theo tiền lệ giữ nguyên tên các loài Pokemon (Pikachu, Pidgeotto, Snorlax) trong glossary.md. (orchestrator)
+- [#203] Định danh tàn niệm thực thể cấp cao (????????) — Tạm giữ nguyên chuỗi dấu hỏi (????????) theo raw EN do IlHan chưa tiến hóa Ngôn Ngữ để đọc hiểu ghi chép bậc cao. Phương án khác: giữ nguyên. → Giữ nguyên chuỗi dấu hỏi (????????) đúng như raw EN để thể hiện Yu IlHan chưa đọc được ghi chép bậc cao. (orchestrator)

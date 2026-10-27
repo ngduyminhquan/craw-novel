@@ -1243,6 +1243,12 @@ Việc quái vật bị diệt nhanh hơn tốc độ sinh sôi khiến các B�
 Thấy IlHan buồn bã múa thương lửa một mình, Liera ngượng ngùng định mở lời an ủi thì bị cắt ngang bởi một đợt Hiện Tượng Tràn bất thường bùng nổ dữ dội.
 Cảnh kết thúc: IlHan ẩn thân pháo đài bay lao tới điểm bùng phát và chứng kiến hàng loạt Bẫy Hủy Diệt cộng hưởng cùng Hồ Sơ Akashic khai sinh ra một thực thể chuyển chức 5 hoàn toàn tự nhiên ngay trên Trái Đất.
 
+## 203
+Trước sự xuất hiện bất thường của một thực thể cấp cao chuyển chức 5 sinh ra tự nhiên trên Trái Đất, Yu IlHan kiên quyết không mạo hiểm mà tận dụng trạng thái cường hóa của kỹ năng Tử Thần (kéo dài tới 1,5 tiếng ở cấp 99) để đánh phủ đầu.
+Anh kết hợp hệ thống Bách Nhãn, ma thạch, Ngọn Lửa Vĩnh Cửu, Liệt Hỏa và Long Huyết phóng chùm tia cực hạn bắn thủng ngực đối phương, rồi dùng toàn bộ Pháo Đài Bay Kẻ Hủy Diệt hóa thành một quả Thiên Thạch nhân tạo lao xuống nghiền nát mục tiêu mà không hề mềm lòng trước hình dạng thiếu nữ xinh đẹp đang rơi lệ giả tạo.
+Sau khi hạ sát thực thể chuyển chức 5 và thu hồi thi thể cùng lượng lớn điểm kinh nghiệm, thông báo hệ thống xuất hiện đầy dấu hỏi chấm do IlHan chưa tiến hóa kỹ năng Ngôn Ngữ để đọc hiểu ghi chép bậc cao.
+Cảnh kết thúc: Tàn niệm của thực thể cấp cao vừa bị tiêu diệt hóa ra vẫn giữ được ý thức và gào thét trong đầu IlHan chất vấn tại sao anh nỡ xuống tay, trong khi Orochi chỉ biết nuốt ấm ức vì nhận ra lại có thêm một kẻ mình không đọ lại.
+
 
 
 

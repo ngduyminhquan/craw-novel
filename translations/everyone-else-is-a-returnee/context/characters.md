@@ -210,6 +210,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 188: Không bị dính lời nguyền trục xuất nhờ Kháng Lời Nguyền Cấp Cao; bị Na YuNa cưỡng hôn cướp nụ hôn đầu ngay trước khi cô biến mất; một lần nữa kẹt lại đơn độc trên Trái Đất trong Đại Tai Biến lần 3 mà không tìm thấy bóng dáng bất kỳ đứa trẻ hay con người nào.
 - Trạng thái tính đến chương 189: Trải qua sự kiện Đại Tai Biến lần 3 bùng nổ khiến toàn bộ loài người trên Trái Đất bị trục xuất sang dị giới; bản thân một lần nữa bị bỏ lại đơn độc cùng Liera; quyết định dành 2 tháng tới chế tạo pháo đài bay để tìm kiếm giải cứu Yumir và săn quái đẩy nhanh tiến hóa Trái Đất.
 - Trạng thái tính đến chương 191: Dùng Bát Vĩ Long Thương, Đại Đoạn Vũ Trụ Thương và combo Lôi Búa kết hợp Vòng Tay Long Linh càn quét quái vật chuyển chức 4 quanh dinh thự Bittersweet Persona; kích hoạt Đồng Hồ Cát Vĩnh Hằng đóng băng thời gian 2 tháng; bắt đầu dùng Ngọn Lửa Vĩnh Cửu và kiến thức Ma Pháp Công Học từ Lanpas để rèn đúc các bộ phận cho pháo đài bay cùng vũ khí.
+- Trạng thái tính đến chương 203: Tận dụng bùa lợi duy trì 1,5 tiếng của kỹ năng Tử Thần (Lv 99), kết hợp Bách Nhãn (chế độ tập trung một điểm), Ngọn Lửa Vĩnh Cửu, Liệt Hỏa và Long Huyết phóng chùm tia cực hạn hạ thủng ngực rồi lao cả Pháo Đài Bay Kẻ Hủy Diệt nghiền nát tiêu diệt thực thể cấp cao chuyển chức 5 (Lv 300+) sinh ra tự nhiên trên Trái Đất; thu hồi thi thể, ma thạch và tàn niệm của đối phương.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
