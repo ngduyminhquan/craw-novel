@@ -720,3 +720,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | United Empire |  | Đế Quốc Thống Nhất | tổ chức | 225 | Đế quốc hợp nhất giữa Elforce và Li Catriana tại thế giới Breya sau chiến tranh |
 | Holy region | holy region; the holy region | Thánh địa | địa danh | 220 | Vùng đất linh thiêng của Giáo Hội Leytna tại thế giới Breya |
 | United Empire of Elforce |  | Đế Quốc Thống Nhất Elforce | tổ chức | 226 | Tên gọi đầy đủ của đế quốc hợp nhất tại Breya |
+| Shadow Thief |  | Ảnh Đạo Tặc | chức nghiệp | 227 | Chức nghiệp của nữ elf Phiria |

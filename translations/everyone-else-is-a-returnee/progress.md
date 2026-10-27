@@ -231,7 +231,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | reviewed |  |
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | reviewed |  |
 | 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | done |  |
-| 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | todo |  |
+| 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | done |  |
 | 228 |  | Chapter_228 - I Go With You – 5.txt | I Go With You – 5 | todo |  |
 | 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | todo |  |
 | 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -899,3 +900,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#224] Tên hai thực thể cấp cao Quân Đội Ma Hủy Diệt "Arreyal" và "Sharkilton" — Tạm chọn: giữ nguyên "Arreyal" và "Sharkilton" theo rules.md cho tên riêng của quái vật/thực thể cấp cao. Phương án khác: phiên âm. → Giữ nguyên 'Arreyal' và 'Sharkilton' theo rules.md cho tên riêng của thực thể/quái vật. (orchestrator)
 - [#225] Danh xưng của Giáo hoàng khi lên ngôi trị vì Đế Quốc Thống Nhất (the first empress of the United Empire) - Tạm chọn: "Nữ hoàng" (phù hợp với nhân vật nữ, tương tự Nữ hoàng Irma An Ill'ta ở #198). Phương án khác: "Nữ Đế" hoặc "Hoàng đế". → Giữ 'Nữ hoàng' để nhất quán với danh xưng empress của Irma An Ill'ta ở các chương trước. (orchestrator)
 - [#224] Cặp xưng hô giữa Yu IlHan và Sharkilton ở chương 224 → Thống nhất Yu IlHan xưng 'ta', gọi 'ngươi' trong toàn bộ cuộc đối đầu với Sharkilton. (orchestrator)
+- [#227] Chức nghiệp "Shadow Thief" của Phiria (trong thông báo hệ thống [Lv182 Elf Shadow Thief Phiria has died.]) — Tạm chọn: "Ảnh Đạo Tặc" (Hán Việt ngắn gọn, theo quy tắc chức nghiệp trong rules.md). Phương án khác: "Đạo Tặc Bóng Đêm". → Giữ "Ảnh Đạo Tặc" (Hán Việt ngắn gọn theo quy tắc chức nghiệp trong rules.md). (orchestrator)

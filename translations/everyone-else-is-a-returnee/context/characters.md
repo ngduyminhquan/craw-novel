@@ -517,6 +517,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 104: Theo chân Yu IlHan về Trái Đất, bị suy giảm sức mạnh do chênh lệch mật độ mana giữa Daréu và Trái Đất; tôn sùng IlHan là "alpha và omega", luôn miệng gọi anh là Bệ hạ / Bệ hạ Hung Bạo; được IlHan đưa về căn hộ chung cư ở Gangnam và chuẩn bị được học nếp sống Trái Đất.
 - Trạng thái tính đến chương 109: Được IlHan chiêu đãi món mì ramen ngập thịt; được IlHan kích hoạt kỹ năng Thống Trị thu nhận làm cấp dưới; bộc lộ chỉ số vượt trội và kỹ năng giải phẫu thượng thừa; tôn xưng Yumir là "Điện hạ"; nhận chỉ tiêu giải phẫu 3 vạn xác Long tộc trong xưởng rèn để đổi lấy trang bị cao cấp do IlHan tự tay chế tạo.
 - Trạng thái tính đến chương 122–123: Cả 4 elf nâng kỹ năng Giải Phẫu lên cấp 65; riêng Phiria kỹ năng Giải Phẫu vượt qua cấp 76, sẵn sàng thử sức với thi thể quái vật chuyển chức 4.
+- Trạng thái tính đến chương 227: Phiria đạt cấp độ 182 với chức nghiệp Ảnh Đạo Tặc (Shadow Thief), trang bị phẩm cấp Truyền Thuyết; tử trận tại Daréu trong bối cảnh thế giới này thăng cấp thành thế giới bậc cao sau Đại Tai Biến lần 5.
 
 ### Flemir
 - Giới tính, vai trò: Nam, người sói chuyển chức 4 mang hình người, Thủ lĩnh Hộ Vệ Hoàng Gia của hoàng tộc Lang tộc tại thế giới Kiroa.
