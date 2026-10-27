@@ -241,7 +241,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 234 |  | Chapter_234 - I Hear Your Voice – 3.txt | I Hear Your Voice – 3 | reviewed |  |
 | 235 |  | Chapter_235 - I Hear Your Voice – 4.txt | I Hear Your Voice – 4 | done |  |
 | 236 |  | Chapter_236 - I Hear Your Voice – 5.txt | I Hear Your Voice – 5 | done |  |
-| 237 |  | Chapter_237 - You Are Already Dead – 1.txt | You Are Already Dead – 1 | todo |  |
+| 237 |  | Chapter_237 - You Are Already Dead – 1.txt | You Are Already Dead – 1 | done |  |
 | 238 |  | Chapter_238 - You Are Already Dead – 2.txt | You Are Already Dead – 2 | todo |  |
 | 239 |  | Chapter_239 - You Are Already Dead – 3.txt | You Are Already Dead – 3 | todo |  |
 | 240 |  | Chapter_240 - You Are Already Dead – 4.txt | You Are Already Dead – 4 | todo |  |
@@ -367,8 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -913,3 +911,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#234] Cụm 'Guardian fortress' (dạng gọi tắt của Bloodlight Guardian fortress ở chương 233): tạm dịch là 'Pháo Đài Hộ Vệ' và đã thêm vào glossary.md; đề xuất giữ nguyên. → Giữ "Pháo Đài Hộ Vệ" (nhất quán với tên đầy đủ "Pháo Đài Hộ Vệ Huyết Quang"). (orchestrator)
 - [#235] Thuật ngữ "Garden of Sunset Light" ở raw đoạn 36 — Tạm chọn: quy về "Garden of Sunset" (Khu Vườn Hoàng Hôn) và thêm vào cột Alias của glossary.md. Phương án khác: tạo mục riêng "Khu Vườn Ánh Sáng Hoàng Hôn". → Giữ "Khu Vườn Hoàng Hôn" và gộp "Garden of Sunset Light" vào cột Alias của "Garden of Sunset" trong glossary.md (cùng một thế lực thực thể cấp cao với chương 62). (orchestrator)
 - [#236] Cụm từ "make Yu IlHan a new 'God'" của Erta — Tạm chọn: "biến Yu IlHan thành một 'Thượng Đế' mới" (theo glossary.md và phản ứng sợ bị giáng làm thiên thần sa ngã của Liera). Phương án khác: "biến Yu IlHan thành một 'Thần' mới". → Giữ "biến Yu IlHan thành một 'Thượng Đế' mới" (phù hợp ngữ cảnh Thiên giới và phản ứng sợ bị giáng làm thiên thần sa ngã của Liera). (orchestrator)
+- [#237] Tiêu đề chương/arc "You Are Already Dead" – tạm dịch "Ngươi Đã Chết Rồi" (tham chiếu câu thoại kinh điển Hokuto no Ken, hợp ngữ cảnh Yu IlHan kết liễu kẻ địch bất ngờ), đề xuất xác nhận dùng thống nhất cho cả arc 12 chương (hoặc đổi thành "Các Ngươi Đã Chết Rồi" / "Ngươi Đã Chết"). → Giữ "Ngươi Đã Chết Rồi" dùng thống nhất cho cả arc 12 chương (#237–#248) (đúng câu thoại kinh điển Hokuto no Ken và hợp ngữ cảnh chiến đấu). (orchestrator)

@@ -1446,3 +1446,9 @@ Từ chối phương án biến Erta thành thực thể cấp thấp bằng cá
 Nhận định vị thế trong liên minh sắp tới với Thiên giới phụ thuộc vào chiến tích, Yu IlHan kích hoạt ma pháp trận dịch chuyển Pháo Đài Bay và Pháo Đài Hộ Vệ đột kích thẳng vào doanh trại tiền tuyến của Quân Đội Ma Hủy Diệt.
 Cảnh kết thúc: Yu IlHan chạm trán Teraka – con rồng từng chiêu mộ anh trước đây nay đã đột phá lên chuyển chức 6 và đang thống lĩnh cả một tiểu đoàn rồng khổng lồ.
 
+## 237
+Teraka – nay đã đạt trung kỳ chuyển chức 6 – tranh cãi gay gắt với các thực thể cấp cao khác trong lều chỉ huy của Quân Đội Ma Hủy Diệt rồi một mình tập hợp hơn 5.000 con rồng sơ sinh tại Daréu xuất trận đi tiêu diệt kẻ thù trên đại lục.
+Nhận thấy đối đầu với hơn 300 kẻ chuyển chức 5 an toàn hơn nhiều so với một kẻ chuyển chức 6, Yu IlHan quyết định chờ Teraka cùng bầy rồng rời đi rồi mới ra lệnh tấn công tổng lực vào doanh trại tiền tuyến.
+Sau khi nhận đại chúc phúc từ Na YuNa và thống nhất tín hiệu phối hợp kỹ thuật va chạm thiên thạch (dùng hai pháo đài đè bẹp doanh trại) cùng Mystic, Yu IlHan kích hoạt Liệt Hỏa, Ngọn Lửa Vĩnh Cửu cùng bánh quy nhồi ma pháp rồi lao mình xuống doanh trại địch.
+Cảnh kết thúc: Tận dụng sự lơ là của kẻ địch và khả năng Ẩn Thân phớt lờ ma pháp phòng hộ, Yu IlHan mỉm cười nâng Bát Vĩ Long Thương đâm thẳng vào tim một thực thể cấp cao đang lười nhác luyện kỹ năng Nghỉ Ngơi.
+

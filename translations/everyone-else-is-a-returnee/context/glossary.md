@@ -681,7 +681,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hell Bringer |  | Kẻ Giáng Địa Ngục | chức nghiệp | 184 | Lựa chọn chức nghiệp chuyển chức lần 4 của Yu IlHan kế thừa hệ Tử Thần, mang địa ngục giáng xuống kẻ thù |
 | Untouchable |  | Bất Khả Xâm Phạm | danh hiệu | 184 | Danh hiệu Yu IlHan nhận được sau khi hạ gục thực thể cấp cao Dmirel (+20% mọi chỉ số khi đấu kẻ địch đẳng cấp cao hơn, tránh được đòn chí tử một kích) |
 | Dragonic bracelet |  | Vòng Tay Long Linh | vật phẩm | 191 | Tên gọi tắt chiếc vòng tay chế tác từ vảy rồng hệ lôi chứa thuộc tính bão sấm sét của Yu IlHan |
-| Dragon's Hell Army |  | Quân Đoàn Địa Ngục Rồng | tổ chức | 192 | Đội quân gồm những đứa trẻ sơ sinh ở hỏa ngục do Yumir thu phục bằng thịt quái vật |
+| Dragon's Hell Army | Dragon Hell Army | Quân Đoàn Địa Ngục Rồng | tổ chức | 192 | Đội quân gồm những đứa trẻ sơ sinh ở hỏa ngục do Yumir thu phục bằng thịt quái vật |
 | Miraculously apocalyptic and unbelievably curseful Destruction mirror |  | Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin | vật phẩm | 193 | Tạo tác gương phẩm cấp Sử Thi rèn từ lông cánh thiên thần sa ngã có khả năng bắn chùm tia và phản đòn |
 | Destruction mirror | destruction mirror; Destruction Mirrors; destruction mirrors | Gương Hủy Diệt | vật phẩm | 193 | Tên gọi tắt của Gương Hủy Diệt Tận Thế Kỳ Diệu Và Nguyền Rủa Khó Tin |
 | Hundred Eyes |  | Bách Nhãn | vật phẩm | 194 | Hệ thống 100 chiếc Gương Hủy Diệt kết hợp 20 thùng chứa ma thuật phẩm cấp Hỗn Loạn của Yu IlHan |
@@ -725,3 +725,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | satellite |  | vệ tinh | khác | 231 | Pháo đài vệ tinh phụ trợ đồng hành cùng Pháo Đài Bay |
 | Bloodlight Guardian fortress |  | Pháo Đài Hộ Vệ Huyết Quang | vật phẩm | 233 | Pháo đài vệ tinh phẩm cấp Bán Thần do Yu IlHan chế tạo từ ma thạch chuyển chức 5 làm vệ tinh phòng thủ đi kèm Pháo Đài Bay Kẻ Hủy Diệt |
 | Guardian fortress | Guardian Fortress | Pháo Đài Hộ Vệ | vật phẩm | 234 | Tên gọi tắt của Pháo Đài Hộ Vệ Huyết Quang |
+| meteor strike | Meteor strikes; meteor strikes | cú va chạm thiên thạch | khác | 237 | Kỹ thuật phối hợp điên rồ giáng thẳng hai pháo đài đã được Na YuNa thánh hóa xuống đầu kẻ thù với tốc độ cực nhanh do Mystic điều khiển |
