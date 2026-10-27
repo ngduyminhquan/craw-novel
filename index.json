@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T03:34:13Z",
+  "generatedAt": "2026-10-27T03:42:06Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1235,6 +1235,12 @@
           "title": "Chương 205: Nếu Thấy Tôi – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_205.md",
           "sha": "ea94eb2345d30e3b3dcdaa13eda927cb9cee3bf9"
+        },
+        {
+          "number": 206,
+          "title": "Chương 206: Nếu Thấy Tôi – 8",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_206.md",
+          "sha": "432aa143b906d68bd112caf45a7efb9b28fca731"
         }
       ]
     }

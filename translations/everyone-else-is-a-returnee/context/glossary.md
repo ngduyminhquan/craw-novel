@@ -693,3 +693,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Wicked Kraken |  | Kraken Tà Ác | quái vật | 199 | Quái vật mực khổng lồ cấp 233 cao hơn 300m dưới biển |
 | Electrode | Electrodes | Electrode | khác | 202 | Được phép giữ nguyên: Loài Pokemon hệ Điện mang chiêu Tự Phát Nổ (tham chiếu văn hóa đại chúng) |
 | Flying fortress | flying fortress; Flying Fortress | pháo đài bay | vật phẩm | 205 | Tên gọi thông dụng / vắn tắt của Pháo Đài Bay Kẻ Hủy Diệt |
+| Firedragon Body |  | Hỏa Long Thân | vật phẩm | 206 | Bộ giáp kim loại màu trắng phẩm cấp Bán Thần do Yu IlHan rèn từ ma thạch chuyển chức 5 và thi thể Mystic |
+| Infernal Dragon Body | Infernal dragon body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |

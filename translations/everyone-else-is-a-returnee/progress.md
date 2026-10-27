@@ -210,7 +210,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | reviewed |  |
 | 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | reviewed |  |
 | 205 |  | Chapter_205 - If You See Me – 7.txt | If You See Me – 7 | done |  |
-| 206 |  | Chapter_206 - If You See Me – 8.txt | If You See Me – 8 | todo |  |
+| 206 |  | Chapter_206 - If You See Me – 8.txt | If You See Me – 8 | done |  |
 | 207 |  | Chapter_207 - If You See Me – 9.txt | If You See Me – 9 | todo |  |
 | 208 |  | Chapter_208 - I, Too – 1.txt | I, Too – 1 | todo |  |
 | 209 |  | Chapter_209 - I, Too – 2.txt | I, Too – 2 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -862,3 +863,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#203] Định danh tàn niệm thực thể cấp cao (????????) — Tạm giữ nguyên chuỗi dấu hỏi (????????) theo raw EN do IlHan chưa tiến hóa Ngôn Ngữ để đọc hiểu ghi chép bậc cao. Phương án khác: giữ nguyên. → Giữ nguyên chuỗi dấu hỏi (????????) đúng như raw EN để thể hiện Yu IlHan chưa đọc được ghi chép bậc cao. (orchestrator)
 - [#204] Tên nhân vật mới Mystic (chơi chữ từ 'optimistic' nhưng nghe nhầm thành 'mystic') và xưng hô với Yu IlHan — Tạm chọn: giữ tên "Mystic" (Alias "Mistic"), xưng hô ban đầu ta - ngươi, sau khi bị Thống Trị chuyển sang xưng tôi - gọi chủ nhân. → Chốt giữ nguyên tên riêng "Mystic" (Alias "Mistic") theo rules.md; xưng hô ban đầu xưng "ta" - gọi "ngươi", sau khi bị thu phục bằng Thống Trị chuyển sang xưng "tôi" - gọi "chủ nhân". (orchestrator)
 - [#205] Tên gọi thông dụng/vắn tắt "Flying fortress" (của "Destroyer's Flying Fortress") — Tạm dùng trong bản dịch: "pháo đài bay". → Giữ nguyên pháo đài bay (viết thường khi gọi chung/vắn tắt) (orchestrator)
+- [#206] Tên bộ giáp mới của Yu IlHan: "Firedragon Body" và "Infernal dragon body" — Tạm chọn: "Hỏa Long Thân" và "Hỏa Ngục Long Thân" (thêm vào glossary.md; phương án khác: "Ngục Long Thân", "Ma Ngục Long Thân"). → Giữ nguyên Hỏa Long Thân và Hỏa Ngục Long Thân (orchestrator)
+- [#206] Phân loại nhân vật Orochi — Tạm giữ Orochi trong glossary.md (mục quái vật từ chương 73); đề xuất chuyển sang characters.md để bổ sung các cặp xưng hô vào pronouns.md theo đúng quy tắc lint_context. → Giữ nguyên Orochi trong glossary.md (đã có ghi chú xưng hô) (orchestrator)
+- [#206] Cảnh báo QA về 'Dragon' thiếu 'Rồng' — Tạm giữ các thuật ngữ tạo tác Hán Việt có yếu tố 'Long' (Bát Vĩ Long Thương, Hỏa Long Thân, Hỏa Ngục Long Thân), bỏ qua cảnh báo false positive của QA. → Giữ nguyên các thuật ngữ tạo tác Hán Việt dùng chữ Long, bỏ qua cảnh báo false positive (orchestrator)

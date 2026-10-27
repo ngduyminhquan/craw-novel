@@ -1260,3 +1260,8 @@ Mystic tiết lộ kẻ ban sức mạnh cho cô rất căm ghét IlHan và dư�
 Sau chuỗi ngày chỉ dẫn Mystic làm quen điều khiển pháo đài bay và Gương Hủy Diệt, IlHan nhận thấy số lượng quái vật Trái Đất sụt giảm và nảy sinh cảm giác khủng hoảng phòng thủ trước nguy cơ đối đầu các thực thể cấp cao hùng mạnh.
 Để nâng cấp trang bị, IlHan ném phần thịt thi thể Mystic cho Ngọn Lửa Vĩnh Cửu thiêu rụi tiến hóa, lấy xương hợp kim hóa cùng kim loại hiếm và xương rồng, rồi dùng bộ giáp cũ lót khuôn thịt Ác Ma Rung Biến Thái làm khuôn đúc.
 Cảnh kết thúc: IlHan lấy viên ma thạch chuyển chức 5 màu tím kích hoạt bí thuật rèn đúc kết hợp Chế Tác Mana đỉnh cao để tôi luyện nên bộ giáp mới vượt trên mọi giới hạn gia công kim loại thông thường.
+
+## 206
+Yu IlHan khống chế lượng mana khổng lồ từ viên ma thạch chuyển chức 5 và hy sinh bộ giáp cũ Thiết Giáp Hỏa Long làm khuôn, dùng kỹ thuật khảm mana vật chất hóa để tạo nên bộ giáp kim loại trắng phẩm cấp Bán Thần mang tên Hỏa Long Thân.
+Để hoàn thiện bộ giáp, IlHan ra điều kiện cho tàn niệm Orochi nuốt trọn 300.000 tàn niệm Ác Ma Rung Biến Thái trong không gian giam giữ để gia tăng sức mạnh, rồi dùng kỹ năng Linh Hồn Phụ Ma cấp tối đa đưa Orochi cùng Bát Vĩ Long Thương dung hợp vào bộ giáp, tiến hóa thành Hỏa Ngục Long Thân.
+Cảnh kết thúc: IlHan vét sạch toàn bộ Túi Đồ để nhồi nhét tăng cường sức mạnh cho Hỏa Ngục Long Thân, hoàn tất một trong những món vũ khí cấp chiến lược tối thượng của mình.
