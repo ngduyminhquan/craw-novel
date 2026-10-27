@@ -210,7 +210,7 @@ Yu IlHan cũng cảm thấy vô cùng ủ rũ khi thấy Yumir đã trở nên m
 
 "Dĩ nhiên rồi, con nghĩ bố là ai chứ."
 
-Một cuộc đối thoại không đầu không đuôi cứ thế trôi qua. Thế nhưng, điều quan trọng lúc này không phải là ý nghĩa đằng sau những câu từ ấy, mà là những cảm xúc chất chứa bên trong. Đó chính là điều mà hai cha con đang thực sự cần vào lúc này.
+Một cuộc đối thoại không đầu không đuôi cứ thế trôi qua. Thế nhưng, điều quan trọng lúc này không phải là ý nghĩa đằng sau những câu từ ấy, mà là những cảm xúc chất chứa bên trong. Đó chính là điều mà hai bố con đang thực sự cần vào lúc này.
 
 [Ai thế kia? Trông giống hệt một chủ nhân thu nhỏ vậy... Và đúng gu của mình luôn.]
 
@@ -236,6 +236,6 @@ Yu IlHan ôm chặt lấy Yumir cho đến khi cậu bé nguôi ngoai, còn Lier
 
 "Oaaa oa oa!"
 
-Phải mất 5 phút sau họ mới nhận ra quân đoàn rồng lúc này vẫn đang ngơ ngác ngước nhìn lên tòa lâu đài trên bầu trời.
+Phải mất 5 phút sau họ mới nhận ra Quân Đoàn Rồng lúc này vẫn đang ngơ ngác ngước nhìn lên tòa lâu đài trên bầu trời.
 
 [← Chương trước](Chapter_213.md) | [Chương tiếp theo →](Chapter_215.md)

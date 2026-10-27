@@ -4,7 +4,7 @@ Yu IlHan cho lũ trẻ thuộc Quân Đoàn Rồng bước vào pháo đài bay.
 
 Và trên thực tế, chúng đã được rèn luyện tốt hơn bất kỳ đội quân nào ở bất kỳ thế giới nào.
 
-"...Nên con đã nhận họ làm thuộc hạ ạ."
+"...Nên con đã nhận mấy đứa đó làm thuộc hạ ạ."
 
 "Hóa ra là vậy."
 
@@ -216,9 +216,9 @@ Yu IlHan để mặc cho lũ trẻ nghỉ ngơi như thế rồi quay sang hỏi
 
 "Vậy thì, Mir. Con muốn làm gì với lũ trẻ đó nào?"
 
-"Con định để họ làm những gì họ muốn ạ."
+"Con định để mấy đứa đó làm những gì tụi nó muốn ạ."
 
-Nhưng vấn đề là tất cả bọn họ đều muốn đi theo con, cậu bé nói thêm. Yu IlHan nghe vậy liền nhìn con trai nở một nụ cười cay đắng. Đoạn, anh suy nghĩ một lát rồi lên tiếng.
+Nhưng vấn đề là đứa nào cũng muốn đi theo con, cậu bé nói thêm. Yu IlHan nghe vậy liền nhìn con trai nở một nụ cười cay đắng. Đoạn, anh suy nghĩ một lát rồi lên tiếng.
 
 "Vậy thì chúng ta cứ để chúng đi cùng một thời gian xem sao? Thật ra, bố đang tính đến một cách để đưa Trái Đất trở lại trạng thái bình thường….."
 

@@ -2,7 +2,7 @@
 
 Không phải vì đã đón nhận Quân Đoàn Rồng vào pháo đài bay mà Yu IlHan lập tức bắt tay vào thực hiện kế hoạch của mình ngay. Không những Yu IlHan vẫn còn nhiều việc phải lo liệu, mà anh cũng không nỡ đẩy lũ trẻ quay trở lại chiến trường một lần nữa.
 
-[Thế nên ngươi muốn tôi làm hết mọi chuyện chứ gì!]
+[Thế nên chủ nhân muốn tôi làm hết mọi chuyện chứ gì!]
 
 "Tôi luôn luôn tin tưởng cô mà, Mystic!"
 
@@ -42,9 +42,9 @@ Khôi phục lại những thứ đó là việc của phần còn lại của n
 
 "Anh hùng ơi, đây là gì thế ạ?"
 
-"Nhìn cái này tim cháu cứ đập thình thịch ấy!"
+"Nhìn cái này tim tớ cứ đập thình thịch ấy!"
 
-"Cháu cũng không biết luôn!"
+"Tớ cũng không biết luôn!"
 
 Có lẽ điều đó đã được khắc sâu vào trong bản năng của chúng chăng? Lũ trẻ nhảy nhót lăng xăng, ngắm nhìn những trò chơi đang được lắp đặt khắp khu vực pháo đài bay. Ngay cả Yumir, người đáng lẽ phải dẫn dắt tất cả bọn chúng, đôi mắt cũng long lanh khi nhìn những trò đu quay trượt hấp dẫn mà cậu bé chưa từng thấy bao giờ!
 
@@ -178,7 +178,7 @@ Thế nhưng, Yu IlHan của ngày đó và Yu IlHan của ngày hôm nay đã k
 
 "Aizz, thật là."
 
-Thế nhưng, những lời cô nói quả không sai. Yu IlHan đang dự định chế tạo một bộ giáp cho Yumir bằng tàn tích của Ý Chí Hỗn Loạn, thứ mà phần lớn là do một mình Liera săn lùng tiêu diệt!
+Thế nhưng, cô cằn nhằn cũng chẳng sai. Yu IlHan đang dự định chế tạo một bộ giáp cho Yumir bằng tàn tích của Ý Chí Hỗn Loạn, thứ mà phần lớn là do một mình Liera săn lùng tiêu diệt!
 
 "Dĩ nhiên là tôi cũng cần dùng nó cho bộ giáp của mình nữa, nên tôi sẽ chỉ dùng một nửa thôi."
 
