@@ -659,7 +659,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Keshna |  | Keshna | vật phẩm | 168 | Loại kim loại ma pháp cao cấp có khả năng hấp thụ mana và độ bền kéo cực cao, qua xử lý đặc biệt có thể hấp thụ và lưu giữ trọn vẹn mọi kỷ lục của vật thể |
 | Keshna Golem |  | Golem Keshna | quái vật | 168 | Con golem khổng lồ cấp 270 được chế tạo từ kim loại ma pháp Keshna để lưu giữ kỷ lục của di tích ma pháp công học tại Lanpas |
 | Magic gunpowder | magic gunpowder | ma thuốc nổ | vật phẩm | 168 | Thuốc nổ được chế tạo bằng mana, kết hợp với các đòn ma pháp lửa gây ra chuỗi nổ thứ cấp kinh hoàng |
-| Elforce |  | Elforce | địa danh | 169 | Thánh đế quốc thuộc thế giới Breya nơi thế lực tôn thờ Nữ Thần Sắc Đẹp Leytna có tiếng nói lớn nhất |
+| Elforce | Elfroce | Elforce | địa danh | 169 | Thánh đế quốc thuộc thế giới Breya nơi thế lực tôn thờ Nữ Thần Sắc Đẹp Leytna có tiếng nói lớn nhất |
 | Great Temple |  | Đại Đền Thờ | địa danh | 169 | Đại đền thờ của Giáo Hội Leytna tại thánh địa tối cao ở thế giới Breya |
 | Leytna Church | Church of Leytna; Leyta Church | Giáo Hội Leytna | tổ chức | 169 | Giáo hội tôn thờ Nữ Thần Sắc Đẹp Leytna tại thế giới Breya |
 | Thunder Strike |  | Lôi Kích | kỹ năng | 169 | Kỹ năng ma pháp sấm sét của Kang MiRae |
@@ -713,3 +713,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Fleet Command |  | Chỉ Huy Hạm Đội | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên cho phép mang thành viên đi cùng khi di chuyển chiều không gian và chia sẻ Thích Ứng Thứ Nguyên |
 | Ruler of Dimensions |  | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
 | Maha prajna para mita |  | Ma ha bát nhã ba la mật đa | khác | 219 | Câu chân ngôn tiếng Phạn Bát Nhã Ba La Mật Đa (Maha Prajnaparamita) do Orochi trì tụng khi tịnh tâm thiền định |
+| High-class Holy power control |  | Điều Khiển Thánh Lực Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
+| High-class blessing |  | Chúc Phúc Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
+| Master of Miracles |  | Bậc Thầy Kỳ Tích | danh hiệu | 221 | Danh hiệu Na YuNa đạt được, tăng 30% hiệu quả cho toàn bộ kỹ năng hệ thánh lực |

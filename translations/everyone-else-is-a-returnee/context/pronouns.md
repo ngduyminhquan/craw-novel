@@ -289,6 +289,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Chaos Will | Yu IlHan | ta / bọn ta | ngươi / tên con người | 210 | Chiếc bóng oán hận IlHan |
 | Pope | YuNa | ta | con / YuNa | 220 | Giáo hoàng vỗ về, dặn dò và hy sinh cản đường cho Na YuNa trốn thoát |
 | YuNa | Pope | con | Đức Giáo Hoàng | 220 | Na YuNa kính trọng đối thoại với Giáo hoàng |
+| HaJin | Pope | con / tôi | Đức Giáo Hoàng | 221 | Kang HaJin đối thoại với Giáo hoàng trước trận quyết chiến |
+| Pope | HaJin | ta | cậu / hiệp sĩ | 221 | Giáo hoàng đáp lời Kang HaJin trước trận quyết chiến |
 
 
 

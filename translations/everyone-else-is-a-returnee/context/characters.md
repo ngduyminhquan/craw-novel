@@ -364,6 +364,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 69: Cùng Kang MiRae và Na YuNa dẫn dắt đội hình 10 người của Clan Lôi Thần tham chiến chi viện tại Nhật Bản; đóng vai trò thánh kỵ sĩ cầm khiên lập trận hình phòng ngự kiên cố che chắn cho Kang MiRae và Na YuNa thi triển ma pháp tiêu diệt bầy quái vật orc.
 - Trạng thái tính đến chương 75: Cùng các thành viên clan chiến đấu ở tiền tuyến chống đỡ bầy quái vật dị biến và rừng dây gai của Orochi để che chắn cho MiRae và YuNa.
 - Trạng thái tính đến chương 198: Làm kỵ sĩ hộ vệ cho Na YuNa tại Thánh đế quốc Elforce thuộc Breya; lo lắng cho cục diện chiến tranh và chuyện tình cảm của em gái Kang MiRae; bị Na YuNa đá vào cẳng chân vì trêu chọc chuyện tình cảm giữa cô và IlHan.
+- Trạng thái tính đến chương 220–221: Dẫn dắt thánh kỵ sĩ bảo vệ thánh địa; khuyên Na YuNa bỏ trốn nhưng bất thành; sẵn sàng nâng khiên kiếm tử chiến để bảo vệ Na YuNa đến cùng và giữ thể diện thánh kỵ sĩ; ngỡ ngàng chứng kiến Pháo Đài Bay và IlHan giáng lâm cứu nguy.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -389,6 +390,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 186: Cùng Yu IlHan quét sạch ma pháp trận ở hàng chục thế giới; tò mò về bí quyết bay lượn và quá khứ của IlHan; trêu chọc Liera là "bà cô"; thích thú khi IlHan vô tình khen ngợi mùi hương cơ thể tự nhiên thơm ngát của mình.
 - Trạng thái tính đến chương 188: Bị lời nguyền trục xuất sang Breya do Đại Tai Biến lần 3 kích hoạt; trước khi biến mất đã dặn IlHan sang tìm mình và táo bạo cướp nụ hôn đầu của anh để khẳng định tình cảm.
 - Trạng thái tính đến chương 198: Tại Thánh đế quốc Elforce ở Breya, nắm giữ uy quyền tôn giáo to lớn được các giáo sĩ tôn sùng; thẳng thừng cự tuyệt lời cầu hôn của Hoàng đế Li Catriana khiến chiến tranh giữa hai đế quốc nổ ra; tự nhận là "người phụ nữ đã có chủ" dành trọn tình cảm cho Yu IlHan; đá cẳng chân kỵ sĩ hộ vệ Kang HaJin khi bị trêu chọc.
+- Trạng thái tính đến chương 220–221: Thà chết không chịu nhục để giữ lòng chung thủy với Yu IlHan; kiên quyết từ chối bỏ trốn và bấm nút thiết bị liên lạc gọi IlHan lần cuối; tiếp nhận vương miện thánh thạch từ Giáo hoàng, thức tỉnh thánh lực khổng lồ cộng hưởng toàn bộ thánh địa, đạt cảnh giới Đại Thành Điều Khiển Thánh Lực Cấp Cao, Chúc Phúc Cấp Cao và nhận danh hiệu 'Bậc Thầy Kỳ Tích'; xúc động nhìn IlHan cùng Pháo Đài Bay giáng lâm giải cứu.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
@@ -607,4 +609,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, Giáo hoàng đứng đầu Giáo Hội Leytna tại thế giới Breya, từng là đệ nhất mỹ nhân lục địa; người phát hiện tiềm năng của Na YuNa và chọn cô làm thánh nữ kế nhiệm.
 - Ngoại hình / năng lực: Bà lão tóc trắng đội vương miện thánh thạch phát ánh sáng đỏ (biểu tượng quyền lực tối cao của giáo hội); thực thể chuyển chức 4 đã sống hơn 200 năm; sở hữu bí thuật giải phóng mana tích tụ nhiều thập kỷ để đảo ngược thời gian lấy lại dung mạo mỹ nữ đôi mươi.
 - Xuất hiện tính đến chương 220: Tỉnh táo gõ trán Na YuNa khi cô nói năng ngây ngô; nhìn thấu ý định tự sát để giữ gìn sự trong sạch của Na YuNa; trao vương miện thánh thạch cho Na YuNa và dặn cô phải trốn thoát; tự mình thi triển bí thuật trẻ hóa bước ra chặn hậu trước đại quân đế quốc Li Catriana.
+- Trạng thái tính đến chương 221: Cùng Kang HaJin giương quyền trượng sẵn sàng tử chiến để bảo vệ Na YuNa; kinh ngạc trước việc Na YuNa đạt cảnh giới Đại Thành các kỹ năng thánh lực và cộng hưởng với toàn bộ thánh địa; ngỡ ngàng chứng kiến Pháo Đài Bay và IlHan giáng lâm quét sạch quân địch.
 

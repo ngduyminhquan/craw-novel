@@ -1350,4 +1350,10 @@ Tại Breya, Na YuNa cùng Kang HaJin và Giáo hoàng bị đẩy vào bước 
 Nhận thấy thánh lực áp đảo của Na YuNa dù mới chỉ chuyển chức 3, Giáo hoàng thi triển bí thuật giải phóng mana tích tụ nhiều thập kỷ để lấy lại diện mạo đôi mươi, trao vương miện thánh thạch tối thượng cho cô và giục cô bỏ trốn.
 Cảnh kết thúc: Trong khi Na YuNa bàng hoàng đón nhận vương miện, Giáo hoàng đơn độc bước lên phía trước chặn hậu trước đại quân đế quốc, mở màn trận quyết chiến cuối cùng bảo vệ Thánh nữ.
 
+## 221
+Na YuNa kiên quyết từ chối bỏ trốn và bấm nút thiết bị liên lạc gọi IlHan lần cuối; cô tiếp nhận vương miện giáo hoàng, kích hoạt toàn bộ thánh địa chìm trong hào quang màu hồng, đạt cảnh giới Đại Thành Điều Khiển Thánh Lực Cấp Cao, Chúc Phúc Cấp Cao và nhận danh hiệu 'Bậc Thầy Kỳ Tích' giúp xoay chuyển cục diện và tiếp thêm sĩ khí cho các thánh kỵ sĩ.
+Giáo hoàng và Kang HaJin sẵn sàng hy sinh bảo vệ Na YuNa thì Pháo Đài Bay bất ngờ giáng lâm; Mystic điều khiển hệ thống gương năng lượng và cành cây bắn tỉa quét sạch hàng vạn quân xâm lược Li Catriana khiến quân địch hoảng loạn tháo chạy.
+Quân địch tung các quái vật trên cấp 250 của Quân Đội Ma Hủy Diệt nhảy lên toan đánh hạ pháo đài bay, nhưng Yu IlHan lập tức xuất hiện vung búa phủ ngọn lửa trắng đập nổ tung toàn bộ quái vật trong một đòn chí mạng rồi hủy bỏ Ẩn Thân.
+Cảnh kết thúc: Nghe tiếng gọi thất thanh của Na YuNa, Yu IlHan quay lại chào cô rồi giơ cao cây búa thảm họa khổng lồ đường kính hơn 100m phủ rực lửa trắng chuẩn bị quét sạch toàn bộ chiến trường.
+
 
