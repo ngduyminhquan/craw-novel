@@ -1308,3 +1308,9 @@ Nhờ kỹ năng Ký Lục giúp hiểu thấu Hồ Sơ Akashic và Liệt Hỏa
 Bị Mystic trêu chọc chuyện tình cảm, IlHan ngượng ngùng lăn lộn khắp dinh thự với tốc độ vượt xa kỷ lục Sungdaein Bolt thì bất ngờ cảm nhận được dao động mana khổng lồ từ hầm ngục giam giữ Yumir và những đứa trẻ đang tan biến do chủ nhân hầm ngục đã chết.
 Cảnh kết thúc: Liera vội vã lao khỏi bồn tắm đòi đi ứng cứu ngay, IlHan liền nghiêm giọng nhắc cô mặc quần áo vào trước đã.
 
+## 214
+Yumir lãnh đạo 9.300 đứa trẻ sơ sinh Trái Đất (đều đạt cấp 120–144) khổ luyện tàn khốc không ngủ nghê, hạ sát bầy ác ma và chia sẻ kinh nghiệm; lũ trẻ tôn sùng Yumir là anh hùng kiêm thủ lĩnh và một lòng muốn đi theo cậu dù cậu luôn miệng chê chúng yếu.
+Sau khi chủ nhân hầm ngục bị Yu IlHan tiêu diệt, ranh giới hầm ngục sụp đổ và hòa trộn hoàn toàn vào Trái Đất; Yu IlHan điều khiển pháo đài bay cùng hệ thống Gương Hủy Diệt dội hỏa lực càn quét sạch sẽ tàn dư ác ma để đón con trai.
+Yumir bay vào pháo đài bay và òa khóc nức nở trong vòng tay ấm áp của Yu IlHan; hai bố con mừng rỡ đoàn tụ sau gần 3 năm xa cách trong sự cãi cọ quen thuộc giữa Mystic và Orochi.
+Cảnh kết thúc: Yu IlHan ôm chặt lấy Yumir đang khóc, còn quân đoàn 9.300 đứa trẻ rồng ở dưới mặt đất ngơ ngác và òa khóc vì ngỡ anh hùng/thủ lĩnh sẽ không quay lại nữa.
+

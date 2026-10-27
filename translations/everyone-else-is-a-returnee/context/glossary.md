@@ -701,3 +701,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Infernal Dragon |  | Hỏa Ngục Long | khác | 212 | Thực thể / tên gọi của con rồng hỏa ngục bên trong bộ giáp Hỏa Ngục Long Thân |
 | Falling Down | Falling down | Đọa Lạc | kỹ năng | 213 | Kỹ năng độc nhất dung hợp từ 7 kỹ năng (Liệt Hỏa, Tử Thần, Thu Thập Tử Vong, Linh Hồn Phụ Ma, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao) của Kẻ Giáng Địa Ngục |
 | God Force |  | Thần Lực | kỹ năng | 213 | Kỹ năng dung hợp từ Quái Lực và Chí Mạng khi Yu IlHan đạt chuyển chức lần 4, tăng 300% sức mạnh cơ bắp |
+| BGM |  | nhạc nền | khác | 214 | Viết tắt của Background Music, nhạc nền |

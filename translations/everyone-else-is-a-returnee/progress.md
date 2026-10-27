@@ -218,7 +218,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | reviewed |  |
 | 212 |  | Chapter_212 - I, Too – 5.txt | I, Too – 5 | reviewed |  |
 | 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | reviewed |  |
-| 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | todo |  |
+| 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | done |  |
 | 215 |  | Chapter_215 - I, Too – 8.txt | I, Too – 8 | todo |  |
 | 216 |  | Chapter_216 - I’m Coming To Get You Now – 1.txt | I’m Coming To Get You Now – 1 | todo |  |
 | 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | todo |  |
@@ -879,3 +879,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#212] Xưng hô giữa Yu IlHan và Liera sau khi tỏ tình và hôn nhau — Tạm chọn: Giữ nguyên "tôi - cô" / "tôi - cậu" theo đúng raw chương 212; theo dõi các chương sau nếu có chuyển biến sang xưng hô đôi lứa ("anh - em"). → Giữ nguyên tôi - cô và tôi - cậu (orchestrator)
 - [#213] Tên kỹ năng "Falling down" (dung hợp 7 kỹ năng của Hell Bringer, kéo tụt bậc kẻ địch trong biển lửa) — Tạm chọn: "Đọa Lạc". Phương án khác: "Trầm Luân", "Giáng Lạc". → Giữ nguyên Đọa Lạc (orchestrator)
 - [#213] Tên kỹ năng "God Force" (dung hợp Quái Lực và Chí Mạng, tăng 300% sức mạnh cơ bắp) — Tạm chọn: "Thần Lực". Phương án khác: "Thần Kình". → Giữ nguyên Thần Lực (orchestrator)
+- [#214] Danh xưng lũ trẻ trong quân đoàn rồng gọi Yumir ('hero' và 'master'): bản dịch tạm dùng 'anh hùng' (nhất quán #208) và 'thủ lĩnh' (tự nhiên với trẻ nhỏ 5 tuổi trong tổ chức quân sự); đề xuất giữ nguyên 'anh hùng' và 'thủ lĩnh' (phương án khác: đổi 'master' thành 'chủ nhân' theo hiệu ứng Thống Trị). → Giữ nguyên anh hùng và thủ lĩnh (orchestrator)

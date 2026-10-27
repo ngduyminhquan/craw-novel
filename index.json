@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T05:38:00Z",
+  "generatedAt": "2026-10-27T05:44:22Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1283,6 +1283,12 @@
           "title": "Chương 213: Tôi Cũng Thế – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_213.md",
           "sha": "7c4e43dd86cdff080880c14839b335dbb9a78d9f"
+        },
+        {
+          "number": 214,
+          "title": "Chương 214: Tôi Cũng Thế – 7",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_214.md",
+          "sha": "54a79bcd0a27132db2f651cab161577a0b3b0ead"
         }
       ]
     }
