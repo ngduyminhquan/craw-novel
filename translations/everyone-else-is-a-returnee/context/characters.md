@@ -237,6 +237,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 220–222: Dùng chức nghiệp Du Hành Giả Thứ Nguyên và kỹ năng Chỉ Huy Hạm Đội thu nhận 5.000 đứa trẻ Quân Đoàn Rồng vào hạm đội, dùng kho ma thạch đưa toàn bộ Pháo Đài Bay nhảy vọt thứ nguyên tới Breya; kịp thời giáng lâm giải cứu Na YuNa và các thánh kỵ sĩ, vung búa khổng lồ và ngọn lửa trắng tiêu diệt 80.000 quân đế quốc Li Catriana; bế Na YuNa kiệt sức vào phòng nghỉ và xoa dịu Liera (khẳng định cô là người đặc biệt nhất đối với anh); cùng con trai Yumir hóa rồng xuất phát đi ám sát 4 Ma Binh Hủy Diệt tại đại bản doanh quân địch.
 - Trạng thái tính đến chương 230: Tiêu diệt El Phisadein đạt cấp độ 278 và thu được viên ma thạch chuyển chức 5 thứ ba; hội ngộ tộc elf và Erica tại Daréu; đau xót thông báo tin Phiria hy sinh, khơi dậy ý chí báo thù và thống nhất toàn quân coi cả 4 phe phái thực thể cấp cao đều là kẻ thù; kích hoạt Đồng Hồ Cát Vĩnh Hằng bao phủ toàn bộ cánh rừng và pháo đài bay, thiết lập 2 tháng đóng băng thời gian để toàn quân chuẩn bị chiến tranh.
 - Trạng thái tính đến chương 231: Thiết lập hệ thống điều khiển thánh địa nhân tạo trên Pháo Đài Bay cho Na YuNa và Mystic; lên kế hoạch xây dựng pháo đài vệ tinh đồng hành và dự định rèn trang bị phẩm cấp Truyền Thuyết / Sử Thi cho toàn bộ 1.500 elf và 20.000 Lang tộc trong 2 tháng kết giới của Đồng Hồ Cát Vĩnh Hằng.
+- Trạng thái tính đến chương 232: Chế tạo máy photocopy tự chế để in hàng ngàn bản thiết kế, huy động toàn bộ 1.500 elf và 20.000 Lang tộc tham gia xây dựng pháo đài vệ tinh trong 43 ngày; dùng Ngọn Lửa Vĩnh Cửu trong Hỏa Ngục Long Thân kết hợp hợp kim tàn tích thực thể cấp cao mạ lên hơn 40.000 xác ác ma biến thái để sản xuất hàng loạt trang bị; ban thưởng trang bị phẩm cấp Sử Thi và 5 món phụ kiện Truyền Thuyết trở lên cho nhóm chỉ huy (Erica, Flemir, Paté, Jirl, Mirey); ban phát trang bị phẩm cấp Truyền Thuyết cho toàn thể 1.500 elf và 20.000 Lang tộc với mục tiêu tiêu diệt thực thể cấp cao.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -532,6 +533,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / tính cách: Tóc đen, vóc dáng cao lớn, tỏa khí tức mạnh mẽ của thực thể chuyển chức 4 nhưng không rành ma pháp; biết tùy cơ ứng biến, dập đầu cầu xin IlHan cứu giúp đồng tộc nhưng che giấu ý đồ phân tán lực lượng gây hỗn loạn Trái Đất (bị IlHan nhìn thấu qua ánh mắt run rẩy).
 - Xuất hiện tính đến chương 113: Dẫn đầu bầy quái vật xông ra từ cổng hầm ngục, dập đầu van xin đấng rồng tối cao (Yumir) thứ lỗi; bàng hoàng khi biết con người Yu IlHan là bố của rồng; đàm phán cung cấp thông tin về thế giới Kiroa và sự phản bội của các thủ lĩnh theo Quân Đội Ma Hủy Diệt để cầu xin hợp tác.
 - Trạng thái tính đến chương 171: Nhận hiệu ứng từ kỹ năng Thống Trị của Yu IlHan và tăng thêm một bậc sức mạnh, trở thành kẻ mạnh nhất trong số các thuộc hạ; sau khi Erica trưởng thành và bộ tộc sói Kiroa có thể tự sinh tồn, gã đã chuyển hẳn sang Trái Đất định cư lâu dài, nhận thiết bị liên lạc đa giới và nhận lệnh canh gác cánh cổng dinh thự trong 24 giờ.
+- Trạng thái tính đến chương 232: Tham gia xây dựng pháo đài vệ tinh tại Daréu; cùng Erica, Paté, Jirl và Mirey được Yu IlHan ban thưởng bộ trang bị (vũ khí, áo giáp) phẩm cấp Sử Thi cùng 5 món phụ kiện phẩm cấp Truyền Thuyết trở lên.
 
 ### Ikedka
 - Giới tính, vai trò: Thủ lĩnh Lang tộc chuyển chức 4 thuộc phe Quân Đội Ma Hủy Diệt tại thế giới Kiroa.
@@ -567,6 +569,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 125: Đạt cấp 98 sau gần 2 tháng khổ luyện và ăn thịt sói trong kết giới, là thuộc hạ cấp độ cao nhất của IlHan; tận tâm phục vụ với hy vọng được ban tặng trang bị phẩm cấp Truyền Thuyết.
 - Trạng thái tính đến chương 126: Gọi Yumir là "thiếu chủ"; trung thành tuyệt đối với IlHan và nỗ lực bảo vệ vị thế thuộc hạ cấp cao nhất.
 - Trạng thái tính đến chương 230: Đạt chuyển chức 4, tiếp nhận tinh hoa của mặt trăng khiến mái tóc và đôi lông mày chuyển sang màu bạc phát sáng dịu nhẹ; cùng Flemir bảo vệ an toàn cho tộc elf trước các phe phái thực thể cấp cao tại Daréu.
+- Trạng thái tính đến chương 232: Tham gia xây dựng pháo đài vệ tinh tại Daréu; cùng Flemir, Paté, Jirl và Mirey được Yu IlHan ban thưởng bộ trang bị (vũ khí, áo giáp) phẩm cấp Sử Thi cùng 5 món phụ kiện phẩm cấp Truyền Thuyết trở lên.
 
 ### Kang Chan
 - Giới tính, vai trò: Nam, bố của Kang MiRae và Kang HaJin, tài phiệt đứng sau điều hành thế lực ngầm của Hàn Quốc.

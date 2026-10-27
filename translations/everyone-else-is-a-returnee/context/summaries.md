@@ -1415,3 +1415,9 @@ Yu IlHan lệnh cho toàn bộ thuộc hạ nghỉ ngơi trong kết giới Đ�
 Yu IlHan bắt tay biến Pháo Đài Bay thành một Thánh địa nhân tạo: anh hoàn tất hệ thống điều khiển tại dinh thự, liên kết cùng Mystic và tích hợp vương miện giáo hoàng để Na YuNa tiếp nhận quyền kiểm soát thánh lực.
 Trong cơn bão thánh lực nhiễu loạn suýt hất văng Kang HaJin, Na YuNa ôm chặt cánh tay IlHan để trấn tĩnh nhận thức và nhanh chóng làm chủ hoàn toàn thánh địa sau 3 giờ, thậm chí có thể tùy ý ngưng tụ thánh thạch.
 Cảnh kết thúc: Yu IlHan lập tức phác thảo bản thiết kế vệ tinh và lên lịch trình làm việc cật lực suốt hai tháng đóng băng thời gian, mở màn cho cuộc cách mạng thay đổi cục diện chiến tranh mà không một thực thể cấp cao nào hay biết.
+
+## 232
+Yu IlHan chế tạo máy photocopy tự chế để in hàng ngàn bản thiết kế, huy động toàn bộ 1.500 elf và 20.000 Lang tộc tham gia san phẳng rừng rậm, đổ bê tông và thi công pháo đài vệ tinh; anh dùng "mỹ nam kế" nhờ Na YuNa liên tục ngưng tụ thánh thạch để biến vệ tinh thành thánh địa nhân tạo.
+Trong lúc quân đội hăng say xây dựng pháo đài với bệ bật nhảy tăng sức tấn công, đầm lầy độc và nỏ thành, Yu IlHan sử dụng Ngọn Lửa Vĩnh Cửu trong Hỏa Ngục Long Thân cùng kỹ thuật kết hợp hợp kim tàn tích thực thể cấp cao và mạ lên hơn 40.000 xác ác ma biến thái để sản xuất hàng loạt trang bị.
+Sau 43 ngày thi công, pháo đài vệ tinh hoàn tất; Yu IlHan ban phát vũ khí, áo giáp phẩm cấp Sử Thi cùng 5 món phụ kiện phẩm cấp Truyền Thuyết trở lên cho nhóm chỉ huy (Erica, Flemir, Paté, Jirl, Mirey) để thực hiện lời hứa và bảo vệ thuộc hạ không còn ai phải hy sinh.
+Cảnh kết thúc: Yu IlHan gọi ra kho vũ khí và áo giáp phẩm cấp Truyền Thuyết trang bị cho toàn bộ 1.500 elf và 20.000 Lang tộc, vượt mặt cả kho vũ khí của Quân Đội Thiên Giới và tuyên bố mục tiêu: 1.000 thực thể cấp thấp phải tiêu diệt gọn gàng một thực thể cấp cao.

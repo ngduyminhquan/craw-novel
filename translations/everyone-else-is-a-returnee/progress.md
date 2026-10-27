@@ -236,7 +236,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | reviewed |  |
 | 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | reviewed |  |
 | 231 |  | Chapter_231 - I Go With You – 8.txt | I Go With You – 8 | reviewed |  |
-| 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | todo |  |
+| 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | done |  |
 | 233 |  | Chapter_233 - I Hear Your Voice – 2.txt | I Hear Your Voice – 2 | todo |  |
 | 234 |  | Chapter_234 - I Hear Your Voice – 3.txt | I Hear Your Voice – 3 | todo |  |
 | 235 |  | Chapter_235 - I Hear Your Voice – 4.txt | I Hear Your Voice – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -906,3 +907,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#231] Thuật ngữ "satellite" (công trình phụ trợ chứa vạn quân sói bay cùng Pháo Đài Bay) — Tạm chọn: "vệ tinh". Phương án khác: "pháo đài vệ tinh". → Giữ "vệ tinh" (dịch sát nghĩa và tự nhiên cho công trình bay phụ trợ quanh Pháo Đài Bay). (orchestrator)
 - [#231] Chiêu thức đấu vật "Angel Hold" (Liera muốn dùng ghì chặt IlHan) — Tạm chọn: "Đòn Khóa Thiên Thần" (nhất quán với "Đòn Khóa Cổ Thiên Thần" ở #44). Phương án khác: "Khóa Thiên Thần". → Giữ "Đòn Khóa Thiên Thần" (nhất quán với "Đòn Khóa Cổ Thiên Thần" ở chương 44). (orchestrator)
 - [#229-231] Xưng hô giữa Yu IlHan và Liera ở chương 229 bị lệch sang "anh - em" → Tiếp tục giữ "tôi - cô / cậu" theo quyết định #212 và pronouns.md, sửa lại các đoạn ở chương 229 cho đồng bộ với các chương 228, 230, 231. (orchestrator)
+- [#232] Tiêu đề arc "I Hear Your Voice" (#232–#236) — Tạm chọn: "Tôi Nghe Thấy Tiếng Cậu" (khớp văn phong "Tôi Đi Cùng Cậu" ở arc liền trước). Phương án khác: "Tôi Nghe Thấy Giọng Cậu" / "Tôi Lắng Nghe Tiếng Cậu". → Giữ "Tôi Nghe Thấy Tiếng Cậu" (khớp văn phong với "Tôi Đi Cùng Cậu" ở arc #224–#231). (orchestrator)
