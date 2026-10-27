@@ -1277,3 +1277,9 @@ Yu IlHan khôi phục nguyên vẹn thi thể người sói chuyển chức 5 b�
 Trong khi đó tại hầm ngục địa ngục rực lửa, Yumir đã thăng lên chuyển chức 4 với diện mạo thiếu niên 15 tuổi tuấn tú, chỉ huy và huấn luyện quân đoàn 9.300 đứa trẻ sơ sinh Trái Đất (đã đạt chuyển chức 3, chia thành các đội nguyên tố như Kỵ Sĩ Sấm Sét 2.300 người) ăn thịt ác ma và rèn trang bị để sinh tồn.
 Nhận tin báo có 4 con quái vật tụ tập thành bầy kéo đến, Yumir dõng dạc hạ lệnh chiến đấu để rèn giũa quân đoàn và quyết tâm bảo toàn mạng sống cho tất cả.
 Cảnh kết thúc: Mang theo chiếc bao tay sắt do IlHan chế tạo, Yumir dẫn đầu quân đoàn 9.300 chiến binh nhí xuất trận, đẩy hầm ngục địa ngục đứng trước nguy cơ bị xóa sổ lần thứ hai.
+
+## 209
+Yu IlHan cùng pháo đài bay của Mystic và sức mạnh của Hỏa Ngục Long Thân (kết hợp Orochi và Ngọn Lửa Vĩnh Cửu kích hoạt Súng Bắn Cọc) phối hợp tác chiến hạ gục chớp nhoáng 3 thực thể chuyển chức 5 (báo khổng lồ, bọ ngựa và quái vật hình người ẩn thân).
+Sau khi Mystic dọn sạch chiến trường, IlHan trò chuyện cùng Liera về Khu Vườn Hoàng Hôn, các phe phái thực thể cấp cao và viễn cảnh Trái Đất bước vào Đại Tai Biến lần thứ 4; trải qua thời gian càn quét và thu thập trang bị nuôi dưỡng giáp, anh giải phẫu thi thể và may mắn tìm được thêm một viên ma thạch chuyển chức 5 bán trong suốt từ đầu con báo.
+IlHan quyết định dùng viên ma thạch quý giá này để tiến hóa kỹ năng Ngôn Ngữ sau chuỗi ngày dài tích lũy đủ các tiêu chí ngặt nghèo (gần 4 triệu ma thạch cấp 3, hơn 650 nghìn ma thạch cấp 4, 2 ma thạch cấp 5 và 109/100 Ghi Chép Các Thế Giới).
+Cảnh kết thúc: Trong lúc IlHan mất ý thức vì sự thăng hoa kỹ năng hòa quyện cùng mana ngũ sắc, một kẻ bí ẩn mai phục bấy lâu nay bất ngờ tung đòn tập kích nhắm thẳng vào anh với tiếng thét "Chết đi!".
