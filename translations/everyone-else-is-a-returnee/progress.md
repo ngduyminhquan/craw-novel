@@ -232,7 +232,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | reviewed |  |
 | 226 |  | Chapter_226 - I Go With You – 3.txt | I Go With You – 3 | done |  |
 | 227 |  | Chapter_227 - I Go With You – 4.txt | I Go With You – 4 | done |  |
-| 228 |  | Chapter_228 - I Go With You – 5.txt | I Go With You – 5 | todo |  |
+| 228 |  | Chapter_228 - I Go With You – 5.txt | I Go With You – 5 | done |  |
 | 229 |  | Chapter_229 - I Go With You – 6.txt | I Go With You – 6 | todo |  |
 | 230 |  | Chapter_230 - I Go With You – 7.txt | I Go With You – 7 | todo |  |
 | 231 |  | Chapter_231 - I Go With You – 8.txt | I Go With You – 8 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -901,3 +902,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#225] Danh xưng của Giáo hoàng khi lên ngôi trị vì Đế Quốc Thống Nhất (the first empress of the United Empire) - Tạm chọn: "Nữ hoàng" (phù hợp với nhân vật nữ, tương tự Nữ hoàng Irma An Ill'ta ở #198). Phương án khác: "Nữ Đế" hoặc "Hoàng đế". → Giữ 'Nữ hoàng' để nhất quán với danh xưng empress của Irma An Ill'ta ở các chương trước. (orchestrator)
 - [#224] Cặp xưng hô giữa Yu IlHan và Sharkilton ở chương 224 → Thống nhất Yu IlHan xưng 'ta', gọi 'ngươi' trong toàn bộ cuộc đối đầu với Sharkilton. (orchestrator)
 - [#227] Chức nghiệp "Shadow Thief" của Phiria (trong thông báo hệ thống [Lv182 Elf Shadow Thief Phiria has died.]) — Tạm chọn: "Ảnh Đạo Tặc" (Hán Việt ngắn gọn, theo quy tắc chức nghiệp trong rules.md). Phương án khác: "Đạo Tặc Bóng Đêm". → Giữ "Ảnh Đạo Tặc" (Hán Việt ngắn gọn theo quy tắc chức nghiệp trong rules.md). (orchestrator)
+- [#228] Tên hai thực thể cấp cao mới "Berein" và "Piltah" — Tạm chọn: giữ nguyên "Berein" và "Piltah" theo rules.md cho tên riêng thực thể/quái vật. Phương án khác: phiên âm. → Giữ nguyên "Berein" và "Piltah" theo rules.md. (orchestrator)
+- [#228] Dịch câu thoại giận dữ của IlHan "You killed our Phiria, bitch." (đoạn 79) — Tạm chọn: "Mày dám giết Phiria của bọn tao, đồ khốn." Phương án khác: "Mày dám giết Phiria của bọn tao, con chó chết." → Giữ "Mày dám giết Phiria của bọn tao, đồ khốn." (orchestrator)
+- [#228] Cụm từ "America's Got Talent" (đoạn 9) — Tạm chọn: Việt hóa quen thuộc thành "Tìm Kiếm Tài Năng Mỹ". Phương án khác: giữ nguyên tiếng Anh "America's Got Talent". → Giữ "Tìm Kiếm Tài Năng Mỹ" để tránh sót từ tiếng Anh và tự nhiên với độc giả Việt. (orchestrator)

@@ -1391,3 +1391,9 @@ Hệ thống thông báo nữ elf Ảnh Đạo Tặc Phiria (Lv 182) đã tử t
 Kích hoạt Dịch Chuyển đưa Pháo Đài Bay tới Daréu, cả nhóm chịu phản chấn dữ dội từ mật độ mana đậm đặc và nhận ra Daréu đã trải qua Đại Tai Biến lần 5 để thăng cấp thành một thế giới bậc cao; Quân Đoàn Rồng (Newtype) thích nghi và hấp thụ mana tăng tiến thực lực, trong khi Kang HaJin hoảng sợ trước nguy cơ đụng độ các phe phái thực thể cấp cao còn IlHan xem đó là nguồn EXP béo bở.
 Liera và IlHan thảo luận nguyên nhân Daréu thăng cấp sớm do sự can thiệp từ trước của Khu Vườn Hoàng Hôn và Quân Đội Ma Hủy Diệt cùng sự phát triển vượt bậc của tộc elf và Lang tộc mà IlHan đặt nền móng; IlHan thất vọng về sự vô dụng và mưu tính vụ lợi của Quân Đội Thiên Giới.
 Cảnh kết thúc: Bắt gặp một trận giao tranh rồng gần đó khiến Yumir bồi hồi vì chạm trán đồng loại, Yu IlHan quyết định ưu tiên an nguy thuộc hạ, kích hoạt đại ma pháp trận bao phủ Daréu vẫn nằm dưới quyền kiểm soát của mình để dịch chuyển cả nhóm tới nơi Phiria bỏ mạng.
+
+## 228
+Dịch chuyển tới chiến trường nơi Phiria tử trận, Yu IlHan dùng ẩn thân che giấu Pháo Đài Bay và phát hiện cuộc giao tranh giữa ba thực thể cấp cao của Quân Đội Ma Hủy Diệt và hai kẻ thuộc Khu Vườn Hoàng Hôn.
+Nhận bùa lợi từ Na YuNa, IlHan phối hợp cùng Bách Nhãn của Mystic ném thương tiêu diệt Berein Lv 306 phe Ma Hủy Diệt để thăng lên Lv 274 và dùng kỹ năng Ký Lục (lên cấp 4) phát hiện kẻ thủ ác sát hại Phiria.
+Nhận diện hai kẻ phe Khu Vườn Hoàng Hôn tiếp cận chính là hung thủ lừa gạt đoạt mạng Phiria hòng cướp đoạt trang bị cấp Truyền Thuyết, Yu IlHan cùng Liera bất ngờ tập kích tàn sát tàn nhẫn; IlHan dùng Bát Vĩ Long Thương kết hợp Liệt Hỏa kết liễu Piltah Lv 317 còn Liera trảm sát tên còn lại.
+Cảnh kết thúc: Hai kẻ sống sót của phe Ma Hủy Diệt kinh hoàng trước sức mạnh áp đảo của thực thể cấp thấp; Yu IlHan kích hoạt Đọa Lạc bùng cháy biển lửa trắng rực rỡ, mở màn cho lễ hội lửa bao trùm toàn bộ Daréu.

@@ -69,6 +69,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Blatail |  | Blatail | Thực thể cấp cao Lv 317 thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yu IlHan tập kích chém đứt đuôi tiêu diệt | 223 |
 | Arreyal |  | Arreyal | Thực thể cấp cao Lv 311 thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yu IlHan phóng thương đâm xuyên điểm yếu tiêu diệt | 224 |
 | Sharkilton |  | Sharkilton | Thực thể cấp cao Lv 309 mang đầu cá mập thuộc Quân Đội Ma Hủy Diệt tại Breya, bị Yumir tập kích trọng thương rồi bị Yu IlHan kết liễu | 224 |
+| Berein |  | Berein | Thực thể cấp cao Lv 306 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Bách Nhãn bắn trúng và bị Yu IlHan phóng thương tiêu diệt | 228 |
+| Piltah |  | Piltah | Thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu, kẻ lừa giết Phiria cướp trang bị cấp Truyền Thuyết, bị Yu IlHan tiêu diệt | 228 |
 
 ## Chi tiết
 
@@ -635,4 +637,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Vô tính / nam tính, thực thể cấp cao Lv 309 thuộc Quân Đội Ma Hủy Diệt đóng quân tại Breya.
 - Ngoại hình / đặc điểm: Cơ thể mang chiếc đầu có hình thù giống cá mập, máu màu xanh lam, có thể phình to cơ thể khi kích hoạt trạng thái tự vệ.
 - Xuất hiện tính đến chương 224: Hoảng loạn bỏ chạy sau cái chết của Blatail và Arreyal nhưng bị Yumir tập kích xé toạc cổ bằng móng vuốt ngưng tụ gió và Hơi Thở Hoàng Kim; sau đó bị Yu IlHan dùng Đọa Lạc hạ thấp một bậc đẳng cấp, dùng Thần Lực kết hợp sức mạnh gió của Yumir gia cường ngọn lửa trắng vung thương chém đầu kết liễu.
+
+### Berein
+- Giới tính, vai trò: Vô tính, thực thể cấp cao Lv 306 thuộc Quân Đội Ma Hủy Diệt tại Daréu.
+- Xuất hiện tính đến chương 228: Tham chiến chống lại phe Khu Vườn Hoàng Hôn tại Daréu; bị chùm sáng từ Bách Nhãn của Pháo Đài Bay bắn trúng khi đang trong trạng thái lành lặn hơn các đồng đội, sau đó bị Yu IlHan phóng thương đâm xuyên người thiêu rụi thành tro, mang lại kinh nghiệm giúp IlHan thăng lên Lv 274.
+
+### Piltah
+- Giới tính, vai trò: Nam tính / vô tính, thực thể cấp cao Lv 317 thuộc Khu Vườn Hoàng Hôn tại Daréu.
+- Ngoại hình / hành vi: Giả vờ tiếp cận bảo vệ các elf để chiếm lòng tin, sau đó lén lút sát hại Ảnh Đạo Tặc Phiria để đoạt trang bị cấp Truyền Thuyết do Yu IlHan chế tạo; định lừa Yu IlHan cùng diệt trừ Quân Đội Ma Hủy Diệt nhưng bị anh nhìn thấu.
+- Xuất hiện tính đến chương 228: Bị Yu IlHan dùng Bát Vĩ Long Thương bất ngờ đâm thủng 10 lỗ trên cơ thể, sau đó bị ngọn lửa Liệt Hỏa và liên hoàn đâm chém tra tấn rách nát thân xác; dù bắn đạn mana chống cự nhưng không thể xuyên thủng giáp Hỏa Ngục Long Thân của IlHan và bị anh kết liễu bằng chuôi kiếm đóng vào cán thương.
 

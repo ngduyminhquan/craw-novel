@@ -65,6 +65,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pope | bà / Giáo hoàng | 220 | Giáo hoàng của Giáo Hội Leytna tại thế giới Breya |
 | Arreyal | Arreyal | 224 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
 | Sharkilton | Sharkilton / con cá mập | 224 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
+| Berein | hắn / gã / Berein | 228 | Thực thể cấp cao Quân Đội Ma Hủy Diệt |
+| Piltah | hắn / gã / Piltah | 228 | Thực thể cấp cao Khu Vườn Hoàng Hôn |
 
 ## Giữa các nhân vật
 
@@ -300,6 +302,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Pope | tôi | bà / Giáo hoàng | 225 | Yu IlHan chúc mừng và tặng quà cho Giáo hoàng |
 | Pope | Yu IlHan | ta | cậu | 225 | Giáo hoàng đối thoại với Yu IlHan |
 | YuNa | Liera | em / tôi | chị / chị Liera | 226 | Na YuNa gọi thân mật là chị Liera sau khi biết Liera đã trở thành thực thể cấp thấp |
+| Liera | YuNa | tôi / chị | cô / em | 228 | Liera chấp nhận cho Na YuNa gọi mình là chị để tránh bị gọi là bà cụ |
+| Yu IlHan | Piltah | tao / bọn tao | mày | 228 | IlHan phẫn nộ truy vấn và tiêu diệt Piltah vì trả thù cho Phiria |
+| Piltah | Yu IlHan | ta / bọn ta | các ngươi / ngươi | 228 | Piltah tưởng lầm IlHan là đồng minh rồi kinh hoàng khi bị tấn công |
 
 
 
