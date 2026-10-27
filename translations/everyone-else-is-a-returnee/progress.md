@@ -214,7 +214,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 207 |  | Chapter_207 - If You See Me – 9.txt | If You See Me – 9 | reviewed |  |
 | 208 |  | Chapter_208 - I, Too – 1.txt | I, Too – 1 | done |  |
 | 209 |  | Chapter_209 - I, Too – 2.txt | I, Too – 2 | done |  |
-| 210 |  | Chapter_210 - I, Too – 3.txt | I, Too – 3 | todo |  |
+| 210 |  | Chapter_210 - I, Too – 3.txt | I, Too – 3 | done |  |
 | 211 |  | Chapter_211 - I, Too – 4.txt | I, Too – 4 | todo |  |
 | 212 |  | Chapter_212 - I, Too – 5.txt | I, Too – 5 | todo |  |
 | 213 |  | Chapter_213 - I, Too – 6.txt | I, Too – 6 | todo |  |
@@ -872,3 +872,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#208] Tiêu đề arc "I, Too" — Tạm chọn: "Tôi Cũng Thế – 1" (đồng bộ các arc trước dùng "Tôi"). Phương án khác: "Tôi Cũng Vậy – 1". → Giữ nguyên Tôi Cũng Thế (orchestrator)
 - [#208] Tên nhóm "Thunder Knights" của 2.300 đứa trẻ hệ sét do Yumir chỉ huy — Tạm chọn: "Kỵ Sĩ Sấm Sét". Phương án khác: "Hiệp Sĩ Sấm Sét". → Giữ nguyên Kỵ Sĩ Sấm Sét (orchestrator)
 - [#209] Đoạn 84 raw EN ghi "3 years passed like that" (Cứ thế 3 năm trôi qua), bản dịch tạm giữ nguyên mốc 3 năm theo raw dù mốc thời gian nhảy khá nhanh so với bối cảnh vài tháng gần đây; cần xác nhận giữ nguyên hay hiệu chỉnh nếu raw Hàn gốc là "3 tháng". → Giữ nguyên 3 năm theo đúng raw (orchestrator)
+- [#210] Tên kỹ năng mới 'Record' (tiến hóa từ Language) — Tạm chọn: 'Ký Lục' (Hán Việt chuẩn của 기록, phù hợp quy tắc Hán Việt hóa kỹ năng; không thêm vào bảng glossary vì 'record' nằm trong mục Đã loại). Phương án khác: 'Ghi Chép' (thuần Việt). → Giữ nguyên Ký Lục (không thêm vào bảng glossary để tránh cảnh báo false positive với từ thường record) (orchestrator)

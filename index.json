@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T04:52:34Z",
+  "generatedAt": "2026-10-27T04:58:34Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1259,6 +1259,12 @@
           "title": "Chương 209: Tôi Cũng Thế – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_209.md",
           "sha": "1dca61d3abffff1116c629cca47f4b1b4da6eaa8"
+        },
+        {
+          "number": 210,
+          "title": "Chương 210: Tôi Cũng Thế – 3",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_210.md",
+          "sha": "94f072f41e6c2c800b0020ab4366bce1a83dacc7"
         }
       ]
     }

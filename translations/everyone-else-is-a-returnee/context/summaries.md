@@ -1283,3 +1283,9 @@ Yu IlHan cùng pháo đài bay của Mystic và sức mạnh của Hỏa Ngục 
 Sau khi Mystic dọn sạch chiến trường, IlHan trò chuyện cùng Liera về Khu Vườn Hoàng Hôn, các phe phái thực thể cấp cao và viễn cảnh Trái Đất bước vào Đại Tai Biến lần thứ 4; trải qua thời gian càn quét và thu thập trang bị nuôi dưỡng giáp, anh giải phẫu thi thể và may mắn tìm được thêm một viên ma thạch chuyển chức 5 bán trong suốt từ đầu con báo.
 IlHan quyết định dùng viên ma thạch quý giá này để tiến hóa kỹ năng Ngôn Ngữ sau chuỗi ngày dài tích lũy đủ các tiêu chí ngặt nghèo (gần 4 triệu ma thạch cấp 3, hơn 650 nghìn ma thạch cấp 4, 2 ma thạch cấp 5 và 109/100 Ghi Chép Các Thế Giới).
 Cảnh kết thúc: Trong lúc IlHan mất ý thức vì sự thăng hoa kỹ năng hòa quyện cùng mana ngũ sắc, một kẻ bí ẩn mai phục bấy lâu nay bất ngờ tung đòn tập kích nhắm thẳng vào anh với tiếng thét "Chết đi!".
+
+## 210
+Chiếc bóng bí ẩn tập kích xuyên thủng bụng Yu IlHan nhưng đòn chí mạng bị danh hiệu Bất Khả Xâm Phạm triệt tiêu; trong khi IlHan bị tê liệt vì quá trình tiến hóa kỹ năng Ngôn Ngữ, kẻ địch lộ diện là tập hợp ý thức chuyển chức 6 của các sinh linh Trái Đất bị bỏ lại ôm mối thù nghìn năm và tiết lộ chính Trái Đất đã hút toàn bộ trẻ sơ sinh vào hầm ngục địa ngục.
+Mystic liều mình xả pháo sáng cầm chân kẻ địch; nhận thấy nguy cơ, Liera bất chấp bị tước tư cách thực thể cấp cao, rụng cánh đổ máu trắng đã dũng cảm tỏ tình với IlHan và dùng ngọn thương Thần Tình Yêu đâm thủng chiếc bóng để câu giờ bảo vệ anh.
+Cảnh kết thúc: Kỹ năng Ngôn Ngữ hoàn tất tiến hóa thành Ký Lục, kéo theo Liệt Hỏa đạt cấp tối đa giúp IlHan nhận được Chúc Phúc Của Nữ Thần Lửa và mở khóa tư cách tiến hành chuyển chức lần 4.
+
