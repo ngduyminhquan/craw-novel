@@ -1326,3 +1326,9 @@ Công viên vận hành đồng thời như hệ thống phân tích, ghi nhận
 IlHan chuẩn bị dùng phân nửa tàn tích của Ý Chí Hỗn Loạn làm giáp cho Mir khiến Liera bĩu môi hờn dỗi vì muốn làm đồ đôi, buộc anh phải lấy ra số lông vũ, máu trắng và da vảy thần thánh bí mật chuẩn bị từ trước để làm trang bị riêng cho cô.
 Cảnh kết thúc: Bị Liera phát hiện đã lén thu thập nguyên liệu từ trước, Mir tự giác nhắm mắt quay đi để Liera trừng phạt quấn quýt IlHan suốt một tiếng trước khi anh bắt tay chế tạo trang bị.
 
+## 217
+Yu IlHan thừa nhận với Yumir về tình cảm dành cho Liera nhưng dặn con giữ bí mật; anh dùng một nửa thi thể Ý Chí Hỗn Loạn, Ngọn Lửa Vĩnh Cửu thanh tẩy tạp chất và bột ma thạch cấp 4 kết hợp Chế Tác Mana rèn nên bộ giáp kiêm vũ khí 'Hơi Thở Hoàng Kim' phẩm cấp Hỗn Loạn cho con trai.
+Yumir thích thú trang bị Hơi Thở Hoàng Kim, hóa thành hình dạng rồng bay lượn phành phạch ngoài trời khiến bộ giáp hấp thụ mana rồng và liên tục biến đổi; IlHan quyết tâm chủ động tìm lại những người quan trọng và sửa chữa mọi thứ.
+IlHan dùng hơn 300.000 chiếc lông vũ, máu trắng và da chết của Liera kết hợp Ma Pháp Công Học dệt thành bộ chiến bào trắng muốt tuyệt đẹp, rồi pha bột lông vũ cùng máu trắng thành lớp sơn ngọc trai quét lên trang phục khiến nó ánh lên sắc hồng.
+Cảnh kết thúc: Khi Yu IlHan nắm tay Liera tiến hành liên kết rót mana cấp 299 vào bộ chiến bào, một giọng nói bí ẩn vang lên cùng luồng ánh sáng hồng nhạt bao trùm khắp xưởng rèn.
+

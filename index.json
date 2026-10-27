@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T06:15:49Z",
+  "generatedAt": "2026-10-27T06:21:46Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1301,6 +1301,12 @@
           "title": "Chương 216: Bây Giờ Tôi Đến Đón Mọi Người – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_216.md",
           "sha": "fe67718e97bf2e8f7ca29b983f39fb1834bdb355"
+        },
+        {
+          "number": 217,
+          "title": "Chương 217: Bây Giờ Tôi Đến Đón Mọi Người – 2",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_217.md",
+          "sha": "32d9b44724c00c3b468abebd76b612dd515c9ca1"
         }
       ]
     }

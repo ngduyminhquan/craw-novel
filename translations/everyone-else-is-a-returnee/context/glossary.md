@@ -703,3 +703,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | God Force |  | Thần Lực | kỹ năng | 213 | Kỹ năng dung hợp từ Quái Lực và Chí Mạng khi Yu IlHan đạt chuyển chức lần 4, tăng 300% sức mạnh cơ bắp |
 | BGM |  | nhạc nền | khác | 214 | Viết tắt của Background Music, nhạc nền |
 | Dragon's Army | Dragon's army; dragon army | Quân Đoàn Rồng | tổ chức | 214 | Đội quân những đứa trẻ Trái Đất theo Yumir (tên gọi khác của Quân Đoàn Địa Ngục Rồng) |
+| Breath of Gold |  | Hơi Thở Hoàng Kim | vật phẩm | 217 | Trang bị giáp kiêm vũ khí biến hình phẩm cấp Hỗn Loạn Yu IlHan rèn cho Yumir từ Ý Chí Hỗn Loạn |

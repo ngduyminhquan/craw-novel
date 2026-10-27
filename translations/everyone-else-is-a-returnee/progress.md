@@ -221,7 +221,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 214 |  | Chapter_214 - I, Too – 7.txt | I, Too – 7 | reviewed |  |
 | 215 |  | Chapter_215 - I, Too – 8.txt | I, Too – 8 | reviewed |  |
 | 216 |  | Chapter_216 - I’m Coming To Get You Now – 1.txt | I’m Coming To Get You Now – 1 | reviewed |  |
-| 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | todo |  |
+| 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | done |  |
 | 218 |  | Chapter_218 - I’m Coming To Get You Now – 3.txt | I’m Coming To Get You Now – 3 | todo |  |
 | 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | todo |  |
 | 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -884,3 +885,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#215] Dấu ngoặc vuông thông báo kỹ năng ở đoạn 71 raw ('[The skill Cooking has reached level 98.] Roughly made food tastes better now.]') — Tạm dùng: gộp thành một khối chuẩn '[Kỹ năng Nấu Nướng đã đạt cấp 98. Giờ đây thức ăn nấu sơ sài cũng trở nên ngon miệng hơn.]'. Phương án khác: tách thành 2 khối ngoặc '[...] [...]'. → Chấp nhận gộp thành một khối ngoặc vuông chuẩn (orchestrator)
 - [#215] Lời thoại đoạn 97 raw ghi 'Orochi\'s words are right' sau khi Mystic phản bác Orochi — Tạm dùng: giữ nguyên theo raw là 'Orochi nói đúng đấy'. Phương án khác: hiệu chỉnh thành 'Mystic nói đúng đấy' nếu nghi ngờ raw bị nhầm lẫn nhân vật. → Giữ nguyên Orochi nói đúng đấy theo đúng raw (đoạn 95 là lời Mystic, đoạn 96 là lời Orochi) (orchestrator)
 - [#216] Tiêu đề arc mới "I’m Coming To Get You Now – 1" — Tạm chọn: "Bây Giờ Tôi Đến Đón Mọi Người – 1" (đồng bộ ngôi xưng "tôi" của Yu IlHan và phù hợp mục tiêu sang các thế giới tìm kiếm/kết nối lại nhân loại Trái Đất). Đề xuất khác: "Giờ Tôi Đến Đón Mọi Người – 1" hoặc "Bây Giờ Tôi Tới Đón Mọi Người – 1". → Giữ nguyên Bây Giờ Tôi Đến Đón Mọi Người (orchestrator)
+- [#217] Tên trang bị phẩm cấp Hỗn Loạn của Yumir "Breath of Gold" — Tạm chọn: "Hơi Thở Hoàng Kim". Phương án khác: "Hơi Thở Ánh Vàng" / "Hơi Thở Kim Sắc". → Giữ 'Hơi Thở Hoàng Kim' (orchestrator)
+- [#217] Đoạn thoại bí ẩn [They... lo... sacred...] ở đoạn 115: "lo..." có thể là "look" (They look sacred) hoặc "love" (tình yêu thiêng liêng). Tạm chọn: "[Họ... trô... thiêng liêng...]". → Giữ '[Họ... trô... thiêng liêng...]' (orchestrator)
