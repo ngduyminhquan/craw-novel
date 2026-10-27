@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T03:50:10Z",
+  "generatedAt": "2026-10-27T04:00:26Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1246,7 +1246,7 @@
           "number": 207,
           "title": "Chương 207: Nếu Thấy Tôi – 9",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_207.md",
-          "sha": "a02d15c9314ea8521b5a368450c387ca21771c57"
+          "sha": "226fcca5a7bf0c69651391dfebe35a91bf9883d5"
         }
       ]
     }

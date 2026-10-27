@@ -82,7 +82,7 @@ Chưa tính đến các chi tiết nhỏ nhặt khác, riêng kháng tính cơ b
 
 [Đến mức đó thì chẳng khác nào một con phượng hoàng sơ sinh được sinh ra từ trong biển lửa rồi.]
 
-[Hóa ra việc anh ta nhắm tới chúc phúc của Nữ Thần Lửa chẳng phải là không có lý do…] (Mystic)
+[Hóa ra việc chủ nhân nhắm tới chúc phúc của Nữ Thần Lửa chẳng phải là không có lý do…] (Mystic)
 
 Trước sự chứng kiến của mọi người, Yu IlHan cởi phăng toàn bộ đồ đạc trên người ra, không chừa một mảnh vải. Hồi mới bị bỏ lại một mình trên Trái Đất, anh vừa thấp lại vừa có bụng mỡ hơi tròn trĩnh, một thân hình chẳng lấy gì làm đẹp đẽ để phơi ra trước mặt người khác, nhưng giờ đây câu chuyện đã hoàn toàn khác.
 
@@ -160,7 +160,7 @@ Yu IlHan dập tắt hy vọng của Liera rồi cất chiếc thùng vào trong
 
 "Thế nên mới bảo, nếu cô chịu cho tôi một viên ma thạch thì tốt biết mấy, Mystic."
 
-[Tôi chết rồi mà vẫn phải hợp tác với anh thế này còn chưa đủ sao!?]
+[Tôi chết rồi mà vẫn phải hợp tác với chủ nhân thế này còn chưa đủ sao!?]
 
 "Không biết bao lâu nữa mình mới gặp tên đó đây? Mình thực sự muốn chuyển chức lần 4 trước khi chạm trán hắn..."
 
@@ -234,7 +234,7 @@ Anh sẽ chẳng đời nào lặp lại quy trình này lần nữa. Yu IlHan m
 
 [Được thôi.]
 
-Khoác lên mình bộ giáp màu hồng cùng cây thương mang sắc màu tương tự, Liera xinh đẹp đến độ người ta có thể gọi cô là thiếu nữ chiến đấu Valkyrie thay vì một sứ giả của Thượng Đế. Yu IlHan hài lòng gật đầu, còn Liera trông vô cùng hạnh phúc.
+Khoác lên mình bộ giáp màu hồng cùng cây thương mang sắc màu tương tự, Liera xinh đẹp đến độ người ta có thể gọi cô là thiếu nữ chiến đấu Valkyrie thay vì một Sứ Giả Của Thượng Đế. Yu IlHan hài lòng gật đầu, còn Liera trông vô cùng hạnh phúc.
 
 Đến đây, mọi sự chuẩn bị mà anh có thể làm để đối phó với chủ nhân hầm ngục địa ngục đều đã hoàn tất. Thế nhưng Mystic – kẻ chẳng hề hay biết chính mình là nguyên do khiến Yu IlHan phải hối hả đến vậy – lại đang tận hưởng niềm vui tột độ khi điều khiển Pháo Đài Bay tàn sát quái vật trên Trái Đất.
 
