@@ -1249,6 +1249,9 @@ Anh kết hợp hệ thống Bách Nhãn, ma thạch, Ngọn Lửa Vĩnh Cửu, 
 Sau khi hạ sát thực thể chuyển chức 5 và thu hồi thi thể cùng lượng lớn điểm kinh nghiệm, thông báo hệ thống xuất hiện đầy dấu hỏi chấm do IlHan chưa tiến hóa kỹ năng Ngôn Ngữ để đọc hiểu ghi chép bậc cao.
 Cảnh kết thúc: Tàn niệm của thực thể cấp cao vừa bị tiêu diệt hóa ra vẫn giữ được ý thức và gào thét trong đầu IlHan chất vấn tại sao anh nỡ xuống tay, trong khi Orochi chỉ biết nuốt ấm ức vì nhận ra lại có thêm một kẻ mình không đọ lại.
 
-
-
+## 204
+Tàn niệm của thực thể cấp cao chuyển chức 5 vừa bị giết vô cùng ồn ào và phẫn nộ vì bị đánh lén; nhận ra thi thể cũ đã nát bấy, cô ta nhanh chóng chấp nhận thực tế một cách lạc quan và đòi Yu IlHan cho một thể xác mới.
+Lợi dụng tình thế, IlHan ra điều kiện bắt cô ta ký khế ước trở thành thuộc hạ dưới trướng mình, đẩy cấp độ kỹ năng Thống Trị tăng vọt lên cấp 97.
+Sau khi thu phục, IlHan đặt tên cho cô là Mystic (xuất phát từ "optimistic" nhưng cô nghe nhầm thành bí ẩn) và bắt đầu tra hỏi về nguồn gốc sự ra đời của cô trên Trái Đất.
+Cảnh kết thúc: Mystic tiết lộ mình không phải thực thể cấp cao sinh ra tự nhiên mà ra đời nhờ ghi chép chia sẻ của một thực thể cấp cao khác kèm mệnh lệnh tiêu diệt IlHan, cho thấy hiện đang có một thực thể cấp cao khác ẩn náu trên Trái Đất.
 

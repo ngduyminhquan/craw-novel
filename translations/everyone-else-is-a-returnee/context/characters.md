@@ -63,6 +63,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Irma An Ill'ta | Irma Anilta | Irma An Ill'ta | Đệ nhất Hoàng nữ của Đại Đế quốc Palladia thuộc thế giới Lanpas | 158 |
 | Dmirel |  | Dmirel | Thiên thần sa ngã Lv 307 thuộc Quân Đội Ánh Sáng Rực Rỡ canh giữ ma pháp trận bí mật, bị Yu IlHan tập kích tiêu diệt | 184 |
 | Tibera |  | Tibera | Thiên thần cấp cao chuyển chức lần 6 của Quân Đội Thiên Giới, người thông báo quyết định bỏ mặc Trái Đất cho Erta | 190 |
+| Mystic | Mistic | Mystic | Tàn niệm thực thể cấp cao chuyển chức 5 sinh ra trên Trái Đất, bị Yu IlHan thu phục thành thuộc hạ | 204 |
 
 ## Chi tiết
 
@@ -560,3 +561,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 165: Dùng đặc quyền hoàng nữ lấy các tài liệu ma pháp công học cổ của Vương quốc Ma Pháp Ill'ta trao cho Yu IlHan; thuyết phục thành công IlHan sang Lanpas hỗ trợ thâm nhập và giải mã di tích ma pháp công học cổ bí ẩn.
 - Xuất hiện tính đến chương 166: Đón nhóm IlHan tại hoàng thành và điều phi thuyền đưa đến di tích; sở hữu chức nghiệp phụ tăng số lượng tạo tác có thể trang bị; từng cho 2 ma pháp sư chuyển chức 4 nã ma pháp đánh bật tấm bia đá chắn cửa di tích khiến cơ chế phòng thủ cổ đại bị kích hoạt trễ.
 - Trạng thái tính đến chương 198: Đã lên ngôi Nữ hoàng của Đại Đế quốc Palladia được 3 tháng; ủng hộ và hỗ trợ Kang MiRae nghiên cứu ma pháp kết nối hai thế giới để trở về Trái Đất.
+
+### Mystic
+- Giới tính, vai trò: Nữ, tàn niệm của thực thể cấp cao chuyển chức 5 sinh ra trên Trái Đất, bị Yu IlHan tiêu diệt và thu nhận tàn niệm bằng Thu Thập Tử Vong; sau đó quy phục IlHan qua kỹ năng Thống Trị và được anh đặt tên là Mystic.
+- Tính cách / đặc điểm: Ngây thơ, cực kỳ lạc quan, suy nghĩ tích cực mau lẹ, hành xử như trẻ con dù mang lượng tri thức khổng lồ; đòi có thể xác mới sau khi thấy xác cũ nát bét; chấp nhận làm thuộc hạ để đổi lấy thể xác; tiết lộ bản thân sinh ra từ ghi chép chia sẻ của một thực thể cấp cao khác trên Trái Đất với mệnh lệnh tiêu diệt Yu IlHan.
+- Xuất hiện tính đến chương 204: Bị IlHan hạ gục khi vừa giáng sinh; cãi nhau với IlHan và Orochi trong đầu anh; quy phục IlHan giúp Thống Trị thăng lên cấp 97; được IlHan đặt tên là Mystic (xuất phát từ "optimistic").
