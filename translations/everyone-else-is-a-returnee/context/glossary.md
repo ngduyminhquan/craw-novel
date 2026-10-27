@@ -383,7 +383,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Equip Restrictions |  | Giới hạn trang bị | hệ thống | 61 | Yêu cầu điều kiện để trang bị vật phẩm |
 | Auto-recovery |  | Tự phục hồi | hệ thống | 61 | Dòng thuộc tính tự động hồi phục độ bền của trang bị |
 | Destruction Demon Army |  | Quân Đội Ma Hủy Diệt | tổ chức | 62 | Một trong các thế lực thực thể cấp cao lớn mang dã tâm hủy diệt |
-| Garden of Sunset |  | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
+| Garden of Sunset | Garden of Sunset Light | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
 | Brilliant Army of Light | Army of Brilliant Light; Army of Dazzling Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
 | Suspension of Activity |  | Đình Chỉ Hoạt Động | hệ thống | 62 | Hình phạt phong ấn quyền hạn và hoạt động của thiên thần |
 | Dungeon Break | Dungeon Breaks | Vỡ Hầm Ngục | hệ thống | 63 | Hiện tượng Bẫy Hủy Diệt bị phá vỡ do nồng độ mana tăng cao sau Đại Tai Biến lần 2 |

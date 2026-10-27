@@ -278,6 +278,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 218: Đón nhận bộ chiến bào phẩm cấp Thần 'Lông Vũ Mê Hoặc' do Yu IlHan chế tạo với sự can thiệp từ Thần Tình Yêu, giúp cô xóa sạch liên kết tàn dư với Thiên giới; ngập tràn hạnh phúc khi đọc phần mô tả của Hồ Sơ Akashic chứng thực tình cảm sâu đậm Yu IlHan dành cho mình.
 - Trạng thái tính đến chương 219: Kéo Yu IlHan vào phòng ngủ 'nghỉ ngơi' suốt 3 ngày để bồi đắp tình cảm và khát khao tích tụ hàng trăm năm; được bổ nhiệm làm thành viên số 1 trong hạm đội Du Hành Giả Thứ Nguyên của Yu IlHan; cùng IlHan và Yumir nhận bộ 6 phụ kiện ma pháp từ nguyên liệu chuyển chức 5.
 - Trạng thái tính đến chương 220–222: Cùng IlHan và Pháo Đài Bay tới Breya; khoác chiến bào lộng lẫy và cầm thương giáng lâm khiến các thánh kỵ sĩ ngỡ ngàng trước nhan sắc sánh ngang Thánh nữ; nhận trách nhiệm dọn dẹp tàn quân để Giáo hoàng cùng các thánh kỵ sĩ đi nghỉ ngơi; ghen tuông khi thấy Na YuNa ôm chặt IlHan nhưng lập tức an lòng khi IlHan khẳng định cô là người đặc biệt nhất; dặn IlHan nếu gặp thực thể chuyển chức 6 thì phải bỏ chạy.
+- Trạng thái tính đến chương 235: Nép sau lưng Yu IlHan trêu chọc và chế giễu Erta khi Erta bất lực nổi giận; cùng IlHan lắng nghe kế hoạch của Erta và nhanh chóng nhận ra chướng ngại lớn nhất là khế ước giữa IlHan và Spiera.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.
@@ -298,6 +299,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 181: Phân tích ma pháp trận bí mật sử dụng ngôn ngữ Thiên giới bị bẻ cong có độ bảo mật cao che giấu thiên thần; nhận được lệnh triệu tập chuẩn bị thăng chức.
 - Trạng thái tính đến chương 182: Nhận lệnh trở về Thiên giới để tiếp nhận thăng cấp lên thực thể chuyển chức lần 6.
 - Trạng thái tính đến chương 190: Bàng hoàng hay tin Quân Đội Thiên Giới bắt tay với các phe đối địch bỏ mặc Trái Đất và chấp nhận hy sinh những đứa trẻ như Yumir; phẫn nộ từ chối thăng cấp lên chuyển chức lần 6, công khai chỉ trích các phe thực thể cấp cao chỉ là lũ hèn nhát tụ tập thành bầy vì sợ cô độc, đồng thời đặt trọn niềm tin rằng Yu IlHan sẽ tự mình đột phá thành thực thể cấp cao làm chủ Trái Đất; vỗ cánh rời đi tự chuẩn bị kế hoạch riêng.
+- Trạng thái tính đến chương 235: Tái ngộ Yu IlHan và Liera tại Daréu; dựng kết giới cách âm ngăn chặn Hồ Sơ Akashic ghi chép để thông báo việc Quân Đội Thiên Giới sắp đổ bộ; khuyên IlHan tạm thời chấp nhận đề nghị liên minh của Thiên giới, đồng thời tiết lộ kế hoạch bí mật: nhận lời gia nhập Khu Vườn Hoàng Hôn rồi dùng ma pháp bí mật can thiệp ngay giữa quá trình biến hình để an toàn trở lại thành thực thể cấp thấp bên IlHan; yêu cầu IlHan cùng giải quyết dứt điểm khế ước với Spiera trong kết giới trước khi hủy bỏ liên minh.
 
 ### Empress
 - Giới tính, tuổi/vẻ ngoài: Nữ sinh viên mang mặt nạ Hulk rẻ tiền mua ở quầy văn phòng phẩm.

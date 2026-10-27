@@ -239,7 +239,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 232 |  | Chapter_232 - I Hear Your Voice – 1.txt | I Hear Your Voice – 1 | reviewed |  |
 | 233 |  | Chapter_233 - I Hear Your Voice – 2.txt | I Hear Your Voice – 2 | reviewed |  |
 | 234 |  | Chapter_234 - I Hear Your Voice – 3.txt | I Hear Your Voice – 3 | reviewed |  |
-| 235 |  | Chapter_235 - I Hear Your Voice – 4.txt | I Hear Your Voice – 4 | todo |  |
+| 235 |  | Chapter_235 - I Hear Your Voice – 4.txt | I Hear Your Voice – 4 | done |  |
 | 236 |  | Chapter_236 - I Hear Your Voice – 5.txt | I Hear Your Voice – 5 | todo |  |
 | 237 |  | Chapter_237 - You Are Already Dead – 1.txt | You Are Already Dead – 1 | todo |  |
 | 238 |  | Chapter_238 - You Are Already Dead – 2.txt | You Are Already Dead – 2 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -909,3 +910,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#232] Tiêu đề arc "I Hear Your Voice" (#232–#236) — Tạm chọn: "Tôi Nghe Thấy Tiếng Cậu" (khớp văn phong "Tôi Đi Cùng Cậu" ở arc liền trước). Phương án khác: "Tôi Nghe Thấy Giọng Cậu" / "Tôi Lắng Nghe Tiếng Cậu". → Giữ "Tôi Nghe Thấy Tiếng Cậu" (khớp văn phong với "Tôi Đi Cùng Cậu" ở arc #224–#231). (orchestrator)
 - [#233] Đoạn 89 raw ghi "this fortress and the Bloodlight Guardian fortress" trong khi pháo đài này chính là Pháo Đài Hộ Vệ Huyết Quang (pháo đài còn lại là Pháo Đài Bay). Tạm dịch sát raw "pháo đài này và Pháo Đài Hộ Vệ Huyết Quang", đề xuất đổi thành "Pháo Đài Bay và Pháo Đài Hộ Vệ Huyết Quang" nếu duyệt. → Giữ bản dịch bám sát raw ("pháo đài này và Pháo Đài Hộ Vệ Huyết Quang"), không tự ý sửa nội dung của raw. (orchestrator)
 - [#234] Cụm 'Guardian fortress' (dạng gọi tắt của Bloodlight Guardian fortress ở chương 233): tạm dịch là 'Pháo Đài Hộ Vệ' và đã thêm vào glossary.md; đề xuất giữ nguyên. → Giữ "Pháo Đài Hộ Vệ" (nhất quán với tên đầy đủ "Pháo Đài Hộ Vệ Huyết Quang"). (orchestrator)
+- [#235] Thuật ngữ "Garden of Sunset Light" ở raw đoạn 36 — Tạm chọn: quy về "Garden of Sunset" (Khu Vườn Hoàng Hôn) và thêm vào cột Alias của glossary.md. Phương án khác: tạo mục riêng "Khu Vườn Ánh Sáng Hoàng Hôn". → Giữ "Khu Vườn Hoàng Hôn" và gộp "Garden of Sunset Light" vào cột Alias của "Garden of Sunset" trong glossary.md (cùng một thế lực thực thể cấp cao với chương 62). (orchestrator)

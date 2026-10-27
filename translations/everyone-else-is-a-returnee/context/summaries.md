@@ -1433,3 +1433,9 @@ Erta dùng dấu vết lưu lại trên Đồng Hồ Cát Vĩnh Hằng truyền 
 Liera kết thúc đợt huấn luyện chiến đấu khắc nghiệt cho các elf và Lang tộc, trở về chia sẻ nụ hôn chớp nhoáng động viên IlHan trước khi nghỉ ngơi; Na YuNa kiểm soát thánh lực cho cả Pháo Đài Bay lẫn Pháo Đài Hộ Vệ và nắm chặt tay IlHan hỗ trợ đến sát giờ kết giới tan biến.
 Chỉ còn 18 phút trước khi hết hạn, Yu IlHan hoàn tất cải tạo ma pháp trận và nắm quyền kiểm soát gần như tuyệt đối toàn bộ Daréu; anh giải trừ kết giới Đồng Hồ Cát Vĩnh Hằng với quyết tâm trở thành thực thể cấp cao độc lập sau cuộc chiến, đồng thời duy trì Ẩn Thân che giấu toàn quân.
 Cảnh kết thúc: Ngay khi kết giới mở ra, Erta một mình dang đôi cánh trắng xé mây bay thẳng tới tìm họ và gầm thét đòi giết Liera trong cơn thịnh nộ tột cùng khiến Yu IlHan hoàn toàn ngơ ngác khó hiểu.
+
+## 235
+Erta trút giận lên Liera vì đã từ bỏ Thiên giới để ở bên Yu IlHan nhưng đành bất lực dừng lại; cô dựng kết giới cách âm ngăn chặn Hồ Sơ Akashic ghi chép để bàn kế hoạch mật với IlHan và Liera.
+Erta thông báo Quân Đội Thiên Giới sắp đổ bộ Daréu sau khi IlHan phá vỡ thế cân bằng giữa Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn; cô giải thích việc dùng kết giới giả đồng bộ thời gian để tìm anh trước tiên và khuyên IlHan tạm thời chấp nhận lời đề nghị liên minh của Thiên giới.
+Erta tiết lộ kế hoạch bí mật: nhận lời gia nhập Khu Vườn Hoàng Hôn rồi dùng ma pháp bí mật can thiệp ngay giữa quá trình biến hình nhằm an toàn trở lại làm thực thể cấp thấp bên cạnh IlHan, đồng thời hủy bỏ khế ước với Thiên giới; IlHan lập tức đồng ý bảo vệ cô trước sự truy sát của cả hai phe phái.
+Cảnh kết thúc: Cả nhóm nhận ra Yu IlHan vẫn còn bị ràng buộc khế ước với một thiên thần khác, và Erta tuyên bố việc cần làm ngay trong kết giới là phải giải quyết dứt điểm với Spiera.
