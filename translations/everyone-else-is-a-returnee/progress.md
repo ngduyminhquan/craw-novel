@@ -226,7 +226,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | reviewed |  |
 | 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | done |  |
 | 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | done |  |
-| 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | todo |  |
+| 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | done |  |
 | 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | todo |  |
 | 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | todo |  |
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -891,3 +890,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#219] Tên chức nghiệp phụ "Dimensional Traveller" và 3 kỹ năng mới (Dimensional Adaptation, Fleet Command, Ruler of Dimensions) — Tạm dùng: "Du Hành Giả Thứ Nguyên", "Thích Ứng Thứ Nguyên", "Chỉ Huy Hạm Đội", "Chúa Tể Thứ Nguyên". Phương án khác: "Lữ Khách Thứ Nguyên", "Thứ Nguyên Thích Ứng", "Thống Soái Hạm Đội", "Thống Trị Thứ Nguyên". → Giữ 'Du Hành Giả Thứ Nguyên', 'Thích Ứng Thứ Nguyên', 'Chỉ Huy Hạm Đội', 'Chúa Tể Thứ Nguyên' (orchestrator)
 - [#220] Yu IlHan xưng hô với hạm đội trẻ em khi nhận danh xưng 'Captain': tạm dịch 'Thuyền trưởng' (gắn với kỹ năng 'Chỉ Huy Hạm Đội' và pháo đài bay, tạo không khí phiêu lưu cho lũ trẻ); phương án khác: 'Đội trưởng' / 'Hạm trưởng'. → Giữ nguyên 'Thuyền trưởng' (phù hợp với nét hài chuuni khi 'bật công tắc' của Yu IlHan và kỹ năng Chỉ Huy Hạm Đội) (orchestrator)
 - [#220] Kính ngữ và xưng hô giữa Na YuNa và Giáo hoàng (the pope / Your Holiness): Na YuNa xưng 'con', gọi 'Đức Giáo Hoàng'; Giáo hoàng xưng 'ta', gọi 'con / YuNa' (do là bậc tiền bối >200 tuổi dìu dắt YuNa); phương án khác: gọi 'Đức Giáo Chủ' / 'Đức Thánh Mẫu'. → Giữ nguyên 'Đức Giáo Hoàng' (Your Holiness) và cặp xưng hô con - Đức Giáo Hoàng / ta - con, YuNa (orchestrator)
+- [#222] Đoạn 105: 'Sharp.' là lời thoại đối đáp tán thưởng ('Tinh ý đấy') của Yu IlHan với Mystic, trùng từ tiếng Anh với tiền tố thuộc tính 'Sharp' ('Sắc Bén') trong glossary — Phương án tạm dùng: dịch 'Tinh ý đấy' theo ngữ cảnh hội thoại thay vì ép dùng 'Sắc Bén'. → Giữ 'Tinh ý đấy' theo ngữ cảnh hội thoại; 'Sharp' trong glossary chỉ áp dụng cho tiền tố trang bị. (orchestrator)

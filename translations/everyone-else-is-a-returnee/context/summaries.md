@@ -1356,4 +1356,8 @@ Giáo hoàng và Kang HaJin sẵn sàng hy sinh bảo vệ Na YuNa thì Pháo Đ
 Quân địch tung các quái vật trên cấp 250 của Quân Đội Ma Hủy Diệt nhảy lên toan đánh hạ pháo đài bay, nhưng Yu IlHan lập tức xuất hiện vung búa phủ ngọn lửa trắng đập nổ tung toàn bộ quái vật trong một đòn chí mạng rồi hủy bỏ Ẩn Thân.
 Cảnh kết thúc: Nghe tiếng gọi thất thanh của Na YuNa, Yu IlHan quay lại chào cô rồi giơ cao cây búa thảm họa khổng lồ đường kính hơn 100m phủ rực lửa trắng chuẩn bị quét sạch toàn bộ chiến trường.
 
-
+## 222
+Yu IlHan cùng Pháo Đài Bay quét sạch 190.000 quân đế quốc Li Catriana chỉ trong 30 phút; Na YuNa sau một tuần kiệt sức đã bật khóc rồi ngủ thiếp đi trong vòng tay IlHan.
+Liera xuất hiện trong bộ chiến bào kiêu dũng nhận lãnh trách nhiệm dọn dẹp tàn quân và canh phòng để Giáo hoàng, Kang HaJin cùng các thánh kỵ sĩ nghỉ ngơi; HaJin ngỡ ngàng khi nhận ra IlHan và Liera đã thành một đôi, song cảnh báo YuNa sẽ không dễ dàng từ bỏ.
+Yu IlHan bế Na YuNa vào phòng nghỉ của pháo đài bay rồi dỗ dành Liera, khẳng định cô là người đặc biệt nhất đối với anh.
+Cảnh kết thúc: Bỏ lại Liera đang thở dài và Mystic kinh ngạc trước khả năng ẩn thân siêu việt, Yu IlHan cưỡi rồng Yumir xuất phát đi ám sát 4 Ma Binh Hủy Diệt tại đại bản doanh quân đế quốc.

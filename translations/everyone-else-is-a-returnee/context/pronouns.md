@@ -291,6 +291,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Pope | con | Đức Giáo Hoàng | 220 | Na YuNa kính trọng đối thoại với Giáo hoàng |
 | HaJin | Pope | con / tôi | Đức Giáo Hoàng | 221 | Kang HaJin đối thoại với Giáo hoàng trước trận quyết chiến |
 | Pope | HaJin | ta | cậu / hiệp sĩ | 221 | Giáo hoàng đáp lời Kang HaJin trước trận quyết chiến |
+| Liera | Pope | tôi | bà | 222 | Liera nhận việc dọn dẹp tàn quân và giục Giáo hoàng đi ngủ |
+| Pope | Liera | ta | cô | 222 | Giáo hoàng đồng ý đi nghỉ ngơi theo lời Liera |
 
 
 
