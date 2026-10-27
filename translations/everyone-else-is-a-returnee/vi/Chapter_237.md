@@ -224,11 +224,11 @@ Yu IlHan lấy Bát Vĩ Long Thương ra, tạo ra ngọn lửa tím và Liệt 
 
 [Ý ngài là tín hiệu kích hoạt cú va chạm thiên thạch sao? Tôi hiểu rồi.]
 
-Cú va chạm thiên thạch ám chỉ kỹ thuật điên rồ giáng thẳng hai pháo đài – vốn đã trở thành thánh địa nhờ thần thánh ma pháp của Na YuNa – xuống đầu kẻ thù bằng các thuộc tính cho phép lao xuống với tốc độ cực nhanh do Mystic tạo ra.
+Cú va chạm thiên thạch ám chỉ kỹ thuật điên rồ giáng thẳng hai pháo đài – vốn đã trở thành thánh địa nhờ ma pháp thần thánh của Na YuNa – xuống đầu kẻ thù bằng các thuộc tính cho phép lao xuống với tốc độ cực nhanh do Mystic tạo ra.
 
 "Hoàn hảo."
 
-Lời chúc phúc của Na YuNa, kích hoạt Liệt Hỏa, và cuối cùng là những chiếc bánh quy nhồi ma pháp – khi sức mạnh đã được đẩy lên mức tối đa, Yu IlHan lập tức nhảy khỏi pháo đài bay, đồng thời mở rộng Hiệu Triệu Diệt Vong bắn ra những làn sóng xung kích phía sau lưng để lao thẳng xuống mặt đất với tốc độ kinh hồn. Anh thậm chí còn đạt được gia tốc điên cuồng bằng những cú bật nhảy và bật nhảy kép!
+Lời chúc phúc của Na YuNa, kích hoạt Liệt Hỏa, và cuối cùng là những chiếc bánh quy nhồi ma pháp – khi sức mạnh đã được đẩy lên mức tối đa, Yu IlHan lập tức nhảy khỏi pháo đài bay, đồng thời mở rộng Hiệu Triệu Diệt Vong bắn ra những làn sóng xung kích phía sau lưng để lao thẳng xuống mặt đất với tốc độ kinh hồn. Anh thậm chí còn đạt được gia tốc điên cuồng bằng những cú Bật Nhảy và Bật Nhảy Tiếp!
 
 "Hực."
 

@@ -20,7 +20,7 @@ Trong lúc Erta và Liera đấu mắt với nhau, Yu IlHan thầm tính toán c
 
 Chuyện đó vẫn quá đỗi nguy hiểm. Yu IlHan tin chắc rằng trong một môi trường mà sức mạnh không bị hạn chế, Spiera sẽ mạnh ít nhất gấp đôi so với Ý Chí Hỗn Loạn.
 
-Dù Ý Chí Hỗn Loạn đã tự lực đạt tới cảnh giới thực thể cấp cao, nó vẫn kém xa bề dày kinh nghiệm hàng năm trời, lượng ma pháp dồi dào, và trên hết là kỹ thuật võ đạo áp đảo của Spiera.
+Dù Ý Chí Hỗn Loạn đã tự lực đạt tới cảnh giới thực thể cấp cao, nó vẫn kém xa bề dày kinh nghiệm tích lũy qua năm tháng, lượng ma pháp dồi dào, và trên hết là kỹ thuật võ đạo áp đảo của Spiera.
 
 "Được rồi, vậy thì."
 
@@ -154,7 +154,7 @@ Những lời Erta để lại thực sự khiến tâm trí anh bứt rứt, nh
 
 Điều quan trọng nhất trong một liên minh là gì? Đó chính là vị thế của đôi bên tại thời điểm thiết lập liên minh. Quân Đội Thiên Giới là một tổ chức khổng lồ. Để không bị lép vế trước họ, điều then chốt chính là chiến tích.
 
-Chiến tích, nói cách khác, chính là những thứ như đầu lâu của Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn.
+Chiến tích, nói cách khác, chính là những thứ như thủ cấp của những kẻ thuộc Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn.
 
 "Tôi chuẩn bị kích hoạt ma pháp trận đây. Số lượng kẻ thù là....."
 
@@ -194,7 +194,7 @@ Yu IlHan phóng tầm mắt ra bên ngoài Pháo Đài Bay. Số lượng áp đ
 
 Yu IlHan từng tự tin rằng tốc độ phát triển của mình từ trước đến nay vượt xa bất kỳ ai. Thế nhưng khi nhìn thấy gã đó, anh nhận ra mình đã lầm.
 
-Không phải Quân Đoàn Rồng do Yumir lãnh đạo, mà là cả một tiểu đoàn chỉ toàn rồng độc nhất – với gã đó làm thủ lĩnh. Trong quá khứ, gã này cũng từng ngỏ lời lôi kéo Yu IlHan gia nhập Quân Đội Ma Hủy Diệt – Teraka.
+Không phải Quân Đoàn Rồng do Yumir lãnh đạo, mà là cả một tiểu đoàn chỉ toàn là rồng – với gã đó làm thủ lĩnh. Trong quá khứ, gã này cũng từng ngỏ lời lôi kéo Yu IlHan gia nhập Quân Đội Ma Hủy Diệt – Teraka.
 
 Kẻ trước đây từng ở cấp bậc chuyển chức 5 nay đã trở thành chuyển chức 6 và đang thống lĩnh cả một đội quân.
 

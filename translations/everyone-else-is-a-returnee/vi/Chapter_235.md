@@ -32,13 +32,13 @@ Yu IlHan, kẻ chẳng hề hay biết chút gì về cảm xúc của Erta lúc
 
 "Dù sao thì Erta không phải là kẻ thù là tốt rồi."
 
-[À phải rồi, còn cậu nữa. Vừa rồi cậu thật sự định chĩa mũi giáo đối đầu với tôi không chút do dự đấy phỏng!?]
+[À phải rồi, còn cậu nữa. Vừa rồi cậu thật sự định chĩa mũi thương đối đầu với tôi không chút do dự đấy phỏng!?]
 
 "Thì tại cô bảo là sẽ giết Liera cơ mà..."
 
 [Hừừừ.]
 
-Erta trừng mắt nhìn hết Yu IlHan rồi lại sang Liera, đôi bàn tay cô run rẩy, nhưng cuối cùng cô buông thõng xuống với một tiếng thở dài.
+Erta trừng mắt nhìn hết Yu IlHan rồi lại sang Liera, đôi bàn tay cô run rẩy, nhưng cuối cùng cô buông thõng hai tay xuống với một tiếng thở dài.
 
 Cùng lúc đó, cô dựng lên một kết giới bao bọc lấy bản thân, Yu IlHan, Liera và vài người khác. Khi Daréu đã bước vào cảnh giới của các thế giới bậc cao, Erta cũng không còn bị hạn chế năng lực sử dụng mana nữa.
 
@@ -142,7 +142,7 @@ Erta thoáng lộ vẻ tự đắc. Đôi mắt màu lục điềm tĩnh của c
 
 [Thế nhưng đó là sự thật; chẳng giống như Liera, người đứng đầu danh sách chiêu mộ của Quân Đội Ma Hủy Diệt nhờ vào xu hướng hung bạo và man rợ đâu.]
 
-Yu IlHan dùng cả hai tay ghì chặt Liera lại khi cô đang định rút thương lao vào tấn công Erta, rồi giục cô tiếp tục:
+Yu IlHan dùng cả hai tay ghì chặt Liera lại khi cô đang định rút thương lao vào tấn công Erta, rồi giục Erta nói tiếp.
 
 "Nói tiếp đi."
 
@@ -170,7 +170,7 @@ Luồng ánh sáng đó. Luồng ánh sáng đáng căm hận đã biến cảnh
 
 [Thế nếu một kẻ phản diện tấn công ngay giữa quá trình biến hình thì sao?]
 
-"Thế thì sẽ bị đá văng đi trong tình trạng trần truồng. Đó đúng là một loại kẻ xấu mà."
+"Thế thì sẽ bị đá văng đi trong tình trạng trần truồng. Kẻ xấu kiểu đó đúng là bỉ ổi thật đấy."
 
 [Ma pháp mà tôi đã chuẩn bị chính là kẻ phản diện đó.]
 
