@@ -1255,3 +1255,8 @@ Lợi dụng tình thế, IlHan ra điều kiện bắt cô ta ký khế ước 
 Sau khi thu phục, IlHan đặt tên cho cô là Mystic (xuất phát từ "optimistic" nhưng cô nghe nhầm thành bí ẩn) và bắt đầu tra hỏi về nguồn gốc sự ra đời của cô trên Trái Đất.
 Cảnh kết thúc: Mystic tiết lộ mình không phải thực thể cấp cao sinh ra tự nhiên mà ra đời nhờ ghi chép chia sẻ của một thực thể cấp cao khác kèm mệnh lệnh tiêu diệt IlHan, cho thấy hiện đang có một thực thể cấp cao khác ẩn náu trên Trái Đất.
 
+## 205
+Mystic tiết lộ kẻ ban sức mạnh cho cô rất căm ghét IlHan và dường như chính là chủ nhân hầm ngục đã bước ra ngoài thế giới; IlHan quyết định biến Pháo Đài Bay Kẻ Hủy Diệt thành thể xác mới cho Mystic quản lý để giải phóng ý thức tập trung chiến đấu, dù cô và Orochi liên tục cãi cọ.
+Sau chuỗi ngày chỉ dẫn Mystic làm quen điều khiển pháo đài bay và Gương Hủy Diệt, IlHan nhận thấy số lượng quái vật Trái Đất sụt giảm và nảy sinh cảm giác khủng hoảng phòng thủ trước nguy cơ đối đầu các thực thể cấp cao hùng mạnh.
+Để nâng cấp trang bị, IlHan ném phần thịt thi thể Mystic cho Ngọn Lửa Vĩnh Cửu thiêu rụi tiến hóa, lấy xương hợp kim hóa cùng kim loại hiếm và xương rồng, rồi dùng bộ giáp cũ lót khuôn thịt Ác Ma Rung Biến Thái làm khuôn đúc.
+Cảnh kết thúc: IlHan lấy viên ma thạch chuyển chức 5 màu tím kích hoạt bí thuật rèn đúc kết hợp Chế Tác Mana đỉnh cao để tôi luyện nên bộ giáp mới vượt trên mọi giới hạn gia công kim loại thông thường.

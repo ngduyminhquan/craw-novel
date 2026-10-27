@@ -209,7 +209,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 202 |  | Chapter_202 - If You See Me – 4.txt | If You See Me – 4 | reviewed |  |
 | 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | reviewed |  |
 | 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | reviewed |  |
-| 205 |  | Chapter_205 - If You See Me – 7.txt | If You See Me – 7 | todo |  |
+| 205 |  | Chapter_205 - If You See Me – 7.txt | If You See Me – 7 | done |  |
 | 206 |  | Chapter_206 - If You See Me – 8.txt | If You See Me – 8 | todo |  |
 | 207 |  | Chapter_207 - If You See Me – 9.txt | If You See Me – 9 | todo |  |
 | 208 |  | Chapter_208 - I, Too – 1.txt | I, Too – 1 | todo |  |
@@ -861,3 +861,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#202] Tên loài Pokemon "Electrodes (Pokemon)" — Tạm chọn: "Electrode (Pokemon)" (giữ nguyên tên gốc loài Pokemon theo tiền lệ Pidgeotto, Pikachu, Snorlax trong glossary). Phương án khác: "Pokemon Electrode" hoặc dịch nghĩa. → Chốt giữ nguyên tên gốc "Electrode" theo tiền lệ giữ nguyên tên các loài Pokemon (Pikachu, Pidgeotto, Snorlax) trong glossary.md. (orchestrator)
 - [#203] Định danh tàn niệm thực thể cấp cao (????????) — Tạm giữ nguyên chuỗi dấu hỏi (????????) theo raw EN do IlHan chưa tiến hóa Ngôn Ngữ để đọc hiểu ghi chép bậc cao. Phương án khác: giữ nguyên. → Giữ nguyên chuỗi dấu hỏi (????????) đúng như raw EN để thể hiện Yu IlHan chưa đọc được ghi chép bậc cao. (orchestrator)
 - [#204] Tên nhân vật mới Mystic (chơi chữ từ 'optimistic' nhưng nghe nhầm thành 'mystic') và xưng hô với Yu IlHan — Tạm chọn: giữ tên "Mystic" (Alias "Mistic"), xưng hô ban đầu ta - ngươi, sau khi bị Thống Trị chuyển sang xưng tôi - gọi chủ nhân. → Chốt giữ nguyên tên riêng "Mystic" (Alias "Mistic") theo rules.md; xưng hô ban đầu xưng "ta" - gọi "ngươi", sau khi bị thu phục bằng Thống Trị chuyển sang xưng "tôi" - gọi "chủ nhân". (orchestrator)
+- [#205] Tên gọi thông dụng/vắn tắt "Flying fortress" (của "Destroyer's Flying Fortress") — Tạm dùng trong bản dịch: "pháo đài bay". → Giữ nguyên pháo đài bay (viết thường khi gọi chung/vắn tắt) (orchestrator)

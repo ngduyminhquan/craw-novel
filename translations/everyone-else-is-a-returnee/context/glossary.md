@@ -692,3 +692,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hell Tornado |  | Lốc Xoáy Địa Ngục | kỹ năng | 199 | Tên đòn thế tự đặt của Yu IlHan khi vung Lôi Búa kết hợp Liệt Hỏa và bệ đỡ xoay Aegis |
 | Wicked Kraken |  | Kraken Tà Ác | quái vật | 199 | Quái vật mực khổng lồ cấp 233 cao hơn 300m dưới biển |
 | Electrode | Electrodes | Electrode | khác | 202 | Được phép giữ nguyên: Loài Pokemon hệ Điện mang chiêu Tự Phát Nổ (tham chiếu văn hóa đại chúng) |
+| Flying fortress | flying fortress; Flying Fortress | pháo đài bay | vật phẩm | 205 | Tên gọi thông dụng / vắn tắt của Pháo Đài Bay Kẻ Hủy Diệt |
