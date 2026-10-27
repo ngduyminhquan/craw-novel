@@ -1271,3 +1271,9 @@ Yu IlHan hoàn thiện bộ giáp phẩm cấp Bán Thần Hỏa Ngục Long Th�
 Trong lúc cùng Mystic lái pháo đài bay quét sạch quái vật toàn cầu, một thực thể chuyển chức 5 đột biến dạng nửa người nửa sói bất ngờ xuất hiện và xâm nhập vào bên trong kết giới của pháo đài bay để vô hiệu hóa Bách Nhãn.
 IlHan lập tức tận dụng Ẩn Thân, tốc độ của Hiệu Triệu Diệt Vong và sức mạnh hủy diệt mới từ Hỏa Ngục Long Thân cùng Bất Khả Họa Quỹ Đạo Thương chém nát kẻ địch chỉ bằng một chuỗi đòn tập kích liên hoàn.
 Cảnh kết thúc: Hạ sát thực thể chuyển chức 5 thứ hai giúp Bất Khả Họa Quỹ Đạo Thương thăng lên cấp 93 và kỹ năng Tử Thần đạt cấp tối đa (master), mở khóa khả năng tiến hóa dung hợp và rút ngắn con đường tiến tới chuyển chức lần 4 của IlHan.
+
+## 208
+Yu IlHan khôi phục nguyên vẹn thi thể người sói chuyển chức 5 bằng máu chứa năng lượng nghỉ ngơi cùng Siêu Việt Tái Sinh rồi cất vào Túi Đồ; sau đó anh vừa ngâm mình trong Đại Thùng tăng độ đồng bộ với Hỏa Ngục Long Thân vừa nung nấu quyết tâm nhanh chóng đạt chuyển chức 4 và lo lắng khôn nguôi cho sự an nguy của Yumir.
+Trong khi đó tại hầm ngục địa ngục rực lửa, Yumir đã thăng lên chuyển chức 4 với diện mạo thiếu niên 15 tuổi tuấn tú, chỉ huy và huấn luyện quân đoàn 9.300 đứa trẻ sơ sinh Trái Đất (đã đạt chuyển chức 3, chia thành các đội nguyên tố như Kỵ Sĩ Sấm Sét 2.300 người) ăn thịt ác ma và rèn trang bị để sinh tồn.
+Nhận tin báo có 4 con quái vật tụ tập thành bầy kéo đến, Yumir dõng dạc hạ lệnh chiến đấu để rèn giũa quân đoàn và quyết tâm bảo toàn mạng sống cho tất cả.
+Cảnh kết thúc: Mang theo chiếc bao tay sắt do IlHan chế tạo, Yumir dẫn đầu quân đoàn 9.300 chiến binh nhí xuất trận, đẩy hầm ngục địa ngục đứng trước nguy cơ bị xóa sổ lần thứ hai.

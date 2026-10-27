@@ -458,6 +458,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 175: Thuần thục kỹ năng Ẩn Thân chuyên về ẩn thân tổ đội; cùng Kang MiRae, Na YuNa đến gặp bà nội Kim YeSeul và làm nũng cực kỳ đáng yêu; nhận nhiệm vụ bảo vệ bà nội và tham gia đội 4 người xuyên qua các thế giới phá hủy ma pháp trận.
 - Trạng thái tính đến chương 192: Đạt cấp 192 sau khi ăn thịt rồng; bị trục xuất tới một thế giới rực lửa xa lạ; kỹ năng Ẩn Thân đạt cảnh giới đại sư (Lv Max); đơn đả độc đấu tiêu diệt quái vật ác ma ngọn lửa khổng lồ cấp trên 250 và thu phục một nhóm trẻ con loài người sơ sinh bằng thịt quái vật, thành lập Quân Đoàn Địa Ngục Rồng.
 - Trạng thái tính đến chương 197: Học được kỹ năng Thống Trị, thu nhận lũ trẻ sơ sinh Trái Đất mạnh nhất làm thuộc hạ và cho chúng ăn thịt quái vật để tăng cấp; dùng Ẩn Thân và phong thuật tiêu diệt quái vật sương giá hơn 50 cấp cứu thêm lũ trẻ; sau 1 năm đã xây dựng đội quân lên 5.800 người và bản thân lột xác thành rồng chuyển chức 4.
+- Trạng thái tính đến chương 208: Đã bước lên chuyển chức 4, ngoại hình phát triển thành thiếu niên 15 tuổi tuấn tú xuất chúng; lãnh đạo và huấn luyện quân đoàn 9.300 đứa trẻ sơ sinh Trái Đất sống sót (đạt chuyển chức 3, chia thành các đội nguyên tố) bằng thịt ác ma và trang bị tự chế; trực tiếp kiểm soát mana của lũ trẻ để cường hóa sức mạnh; chỉ huy toàn quân xuất trận tiêu diệt bầy ác ma 4 con.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

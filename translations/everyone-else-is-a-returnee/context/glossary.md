@@ -696,3 +696,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Firedragon Body |  | Hỏa Long Thân | vật phẩm | 206 | Bộ giáp kim loại màu trắng phẩm cấp Bán Thần do Yu IlHan rèn từ ma thạch chuyển chức 5 và thi thể Mystic |
 | Infernal Dragon Body | Infernal dragon body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |
 | Valkyrie |  | Valkyrie | khác | 207 | Thiếu nữ chiến đấu trong thần thoại, dùng để ví von vẻ đẹp chiến binh của Liera |
+| Thunder Knights |  | Kỵ Sĩ Sấm Sét | tổ chức | 208 | Tên nhóm 2.300 đứa trẻ sử dụng năng lực hệ sét tự đặt cho mình dưới quyền chỉ huy của Yumir |
