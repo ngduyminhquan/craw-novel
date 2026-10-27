@@ -208,7 +208,7 @@ Trông thấy hình bóng mà bản thân chưa từng thấy bao giờ, Na YuNa
 
 "Ta sẽ cho bọn chúng thấy nhan sắc của ta vẫn chưa hề tàn phai. Chắc hẳn bọn chúng cũng sẽ bị mắc lừa cho mà xem."
 
-Vị Giáo hoàng tháo chiếc vương miện trên đầu mình rồi đội lên đầu Na YuNa. Chiếc vương miện ấy là đại diện cho chính bản thân giáo hội, đồng thời cũng là tạo tác tối thượng nơi đây. Quyền sở hữu được chuyển giao một cách vô cùng tự nhiên theo đúng ý nguyện của bà. Cảm nhận được đôi mắt đang rung rinh dao động của Na YuNa, Giáo hoàng khẽ mỉm cười rồi cất bước tiến lên phía trước.
+Vị Giáo hoàng tháo chiếc vương miện trên đầu mình rồi đội lên đầu Na YuNa. Chiếc vương miện ấy là đại diện cho chính bản thân giáo hội, đồng thời cũng là tạo tác tối thượng nơi đây. Quyền sở hữu được chuyển giao một cách vô cùng tự nhiên theo đúng ý nguyện của bà. Cảm nhận được ánh mắt run rẩy dao động của Na YuNa, Giáo hoàng khẽ mỉm cười rồi cất bước tiến lên phía trước.
 
 "Nào, mau đi đi, YuNa!"
 

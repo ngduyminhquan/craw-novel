@@ -284,7 +284,7 @@ Yu IlHan và Yumir vui vẻ rời khỏi Pháo Đài Bay, bỏ ngoài tai nhữn
 
 "Haizz. Cặp bài trùng tai ương nhất cuối cùng cũng đã thành hình….."
 
-[Làm thế nào mà họ có thể ẩn thân ngay cả khi mình đang trợn tròn mắt nhìn chòng chọc vào họ như thế chứ!?]
+[Làm thế nào mà họ có thể ẩn thân ngay cả khi tôi đang trợn tròn mắt nhìn chòng chọc vào họ như thế chứ!?]
 
 Trong lúc Liera thở dài ngao ngán còn Mystic thì sửng sốt kinh hoàng, hai cha con đã lao vun vút về phía đích đến của mình.
 

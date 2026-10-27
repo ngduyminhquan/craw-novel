@@ -44,7 +44,7 @@ Các thánh kỵ sĩ đã dốc toàn lực đánh trả, nhưng điều đó l�
 
 "Cô không muốn gặp lại anh Yu IlHan sao!? Cô phải sống sót thì mới gặp được anh ấy hay làm bất cứ điều gì chứ!"
 
-Vào lúc ấy, giọng nói của Kang HaJin rốt cuộc đã khiến Na YuNa bật khóc nức nở. Chẳng khác nào cậu vừa tát cho cô một cái đúng lúc cô đang chực khóc.
+Vào lúc ấy, giọng nói của Kang HaJin rốt cuộc đã khiến Na YuNa bật khóc nức nở. Chẳng khác nào như người đang chực khóc lại bị tát cho một cái, cho cô một cái cớ để òa khóc.
 
 "Em muốn chứ. Em muốn gặp anh ấy lắm....! Chẳng phải đó là điều hiển nhiên sao!"
 
@@ -144,7 +144,7 @@ Chính vì thế mà Kang HaJin mới thích cô vô cùng. Nói thật lòng, �
 
 Anh sẽ phải hối hận nếu để một người phụ nữ như thế này chết đấy.
 
-Kang HaJin lẩm bẩm những lời chẳng ai nghe thấy ấy khi quay người lại. Đoạn cậu cất tiếng gọi Giáo hoàng, người đang rơi lệ khi nhìn Na YuNa, người đang cộng hưởng với toàn bộ thánh địa sau khi nhận được vương miện giáo hoàng.
+Kang HaJin lẩm bẩm những lời chẳng ai nghe thấy ấy khi quay người lại. Đoạn cậu cất tiếng gọi Giáo hoàng, người đang rơi lệ khi nhìn Na YuNa lúc này đang cộng hưởng với toàn bộ thánh địa sau khi nhận được vương miện giáo hoàng.
 
 "Thưa Đức Giáo Hoàng."
 
@@ -206,7 +206,7 @@ Thế nhưng, mọi chuyện vẫn chưa dừng lại ở đó. Bởi lẽ sau k
 
 "Khặc!"
 
-Cây cỏ, các công trình kiến trúc và những vật dụng khác cấu thành nên khu vườn của pháo đài bay dường như tự phân tách thành kích thước phù hợp rồi mài sắc các cạnh sắc nhọn khi lao vút xuống mặt đất. Dù thoạt nhìn trông như thể chúng đang rơi bừa bãi khắp nơi, nhưng từng món từng món một đều đang nhắm thẳng vào một tên lính đế quốc. Đây thực chất là một chiến dịch bắn tỉa trên quy mô lớn.
+Cây cỏ, các công trình kiến trúc và những vật dụng khác cấu thành nên khu vườn của pháo đài bay dường như tự phân tách thành kích thước phù hợp rồi mài sắc các góc cạnh khi lao vút xuống mặt đất. Dù thoạt nhìn trông như thể chúng đang rơi bừa bãi khắp nơi, nhưng từng món từng món một đều đang nhắm thẳng vào một tên lính đế quốc. Đây thực chất là một chiến dịch bắn tỉa trên quy mô lớn.
 
 "R-Rốt cuộc là….."
 

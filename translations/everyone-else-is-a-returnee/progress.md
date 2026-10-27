@@ -224,9 +224,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 217 |  | Chapter_217 - I’m Coming To Get You Now – 2.txt | I’m Coming To Get You Now – 2 | reviewed |  |
 | 218 |  | Chapter_218 - I’m Coming To Get You Now – 3.txt | I’m Coming To Get You Now – 3 | reviewed |  |
 | 219 |  | Chapter_219 - I’m Coming To Get You Now – 4.txt | I’m Coming To Get You Now – 4 | reviewed |  |
-| 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | done |  |
-| 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | done |  |
-| 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | done |  |
+| 220 |  | Chapter_220 - I’m Coming To Get You Now – 5.txt | I’m Coming To Get You Now – 5 | reviewed |  |
+| 221 |  | Chapter_221 - I’m Coming To Get You Now – 6.txt | I’m Coming To Get You Now – 6 | reviewed |  |
+| 222 |  | Chapter_222 - I’m Coming To Get You Now – 7.txt | I’m Coming To Get You Now – 7 | reviewed |  |
 | 223 |  | Chapter_223 - I’m Coming To Get You Now – 8.txt | I’m Coming To Get You Now – 8 | todo |  |
 | 224 |  | Chapter_224 - I Go With You – 1.txt | I Go With You – 1 | todo |  |
 | 225 |  | Chapter_225 - I Go With You – 2.txt | I Go With You – 2 | todo |  |
