@@ -1,10 +1,10 @@
 # Chương 203: Nếu Thấy Tôi – 5
 
-Mọi sinh mệnh sinh ra đều là những thực thể cấp thấp. Đây là điều kiện tuyệt đối áp dụng cho tất cả các thế giới; ngay cả những thế giới cấp cao cũng không phải là ngoại lệ đối với quy luật này.
+Mọi sinh mệnh sinh ra đều là những thực thể cấp thấp. Đây là điều kiện tuyệt đối áp dụng cho tất cả các thế giới; ngay cả những thế giới bậc cao cũng không phải là ngoại lệ đối với quy luật này.
 
 Không phải là không có những quái vật phi lý sinh ra đã trên cấp 270 do sự tích tụ mana thảm khốc, nhưng bất kể 'thế giới cố gắng' đến mức nào, vẫn luôn tồn tại sự khác biệt mang tính bản chất về lượng ghi chép và mana giữa thực thể cấp cao và thực thể cấp thấp. Nếu chúng cứ sinh ra nhan nhản khắp nơi, thì đa vũ trụ đã sụp đổ từ lâu rồi.
 
-[Nếu chuyện đó dễ dàng như vậy thì Quân Đội Ma Hủy Diệt hẳn đã tiêu diệt Quân Đội Thiên Giới từ lâu rồi.] Thật ra, Quân Đội Ma Hủy Diệt sở hữu quân số đông đảo nhất trong số 4 phe phái. Có rất nhiều quái vật sinh ra với cấp độ cực cao ở các thế giới sau Đại Tai Biến lần 4. Dù con đường để đạt đến cảnh giới thực thể cấp cao cũng gian nan như bao kẻ khác, nhưng nếu Quân Đội Ma Hủy Diệt nhúng tay vào...]
+[Nếu chuyện đó dễ dàng như vậy thì Quân Đội Ma Hủy Diệt hẳn đã tiêu diệt Quân Đội Thiên Giới từ lâu rồi. Thật ra, Quân Đội Ma Hủy Diệt sở hữu quân số đông đảo nhất trong số 4 phe phái. Có rất nhiều quái vật sinh ra với cấp độ cực cao ở các thế giới sau Đại Tai Biến lần 4. Dù con đường để đạt đến cảnh giới thực thể cấp cao cũng gian nan như bao kẻ khác, nhưng nếu Quân Đội Ma Hủy Diệt nhúng tay vào...]
 
 "Vậy nên ngay cả Daréu có lẽ cũng đã sinh ra nhiều Ma Binh Hủy Diệt."
 
@@ -144,7 +144,7 @@ Mặt đất ngày một cận kề. Yu IlHan phủ lên pháo đài bay một l
 
 "Chỉ đáng tiếc là tôi vẫn chưa thể dùng đồng thời cả Long Huyết được thôi!"
 
-Uy lực từ những tia năng lượng cộng dồn của Bách Nhãn khủng khiếp đến mức kẻ địch chuyển chức 5 hiện ra sau khi cơn bão tan đi dưới áp lực kinh hoàng đó thậm chí không thể nhúc nhích dù chỉ một chút. Khi mặt đất ngày càng gần, Yu IlHan cũng có thể xác nhận được hình dáng của kẻ thù.
+Uy lực từ những tia năng lượng cộng dồn của Bách Nhãn khủng khiếp đến mức kẻ địch chuyển chức 5 hiện ra sau khi cơn bão tan đi, bị đè nén dưới áp lực kinh hoàng đến mức thậm chí không thể nhúc nhích dù chỉ một chút. Khi mặt đất ngày càng gần, Yu IlHan cũng có thể xác nhận được hình dáng của kẻ thù.
 
 "Ồ, toi rồi."
 

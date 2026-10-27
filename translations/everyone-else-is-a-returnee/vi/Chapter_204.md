@@ -154,7 +154,7 @@ Orochi gào lên. Yu IlHan khúc khích cười trước cảnh hai đứa cãi 
 
 Dù cô ta chỉ là một tàn niệm, cô ta vẫn là một phần của thực thể cấp cao. Bắt cô ta phải quy phục dưới sự thống trị của anh quả thực là một chuyện vô cùng hệ trọng.
 
-Ngay cả khi đã đạt cấp tối đa kỹ năng Thống Trị thì điều này vẫn rất khó khăn, nhưng nhờ sự trợ lực của danh hiệu Tử Thần cùng với sự hợp tác từ phía cô ta, anh đã thành công. Và lẽ dĩ nhiên, cấp độ kỹ năng của anh đã tăng vọt lên đáng kể!
+Ngay cả khi đã đạt cấp tối đa kỹ năng Thống Trị thì điều này vẫn rất khó khăn, nhưng nhờ sự trợ lực của kỹ năng Tử Thần cùng với sự hợp tác từ phía cô ta, anh đã thành công. Và lẽ dĩ nhiên, cấp độ kỹ năng của anh đã tăng vọt lên đáng kể!
 
 [Kỹ năng Thống Trị đã đạt cấp 97.] Việc thu phục đối thủ có cấp bậc cao hơn dưới sự thống trị của bạn trở nên dễ dàng hơn; tốc độ phát triển của mọi sinh mệnh dưới trướng bạn được đẩy nhanh, và bạn nhận được lòng trung thành tự nhiên từ họ. Bạn có thể áp dụng một chút cưỡng chế khi kích hoạt, nhưng chỉ đối với những sinh mệnh có đẳng cấp thấp hơn bạn một cách áp đảo.]
 
@@ -204,7 +204,7 @@ Dẫu sao thì ai mà chẳng lớn lên như thế. Ngay cả Yu IlHan cũng s�
 
 Đúng như cái tên, Mystic hỏi với thái độ tích cực vô hạn.
 
-[Thế, anh muốn hỏi chuyện gì?]
+[Thế, chủ nhân muốn hỏi chuyện gì?]
 
 "Tình trạng hiện tại của Trái Đất. Cô từng nhắc đến chuyện này đúng không? Rằng cô nghĩ mình phải giết tôi ngay khoảnh khắc sinh ra. Sẽ chẳng có gì đáng nói nếu đó là bản năng của một con quái vật, nhưng sau khi nói chuyện với cô, có vẻ mọi chuyện không phải như vậy."
 
@@ -216,9 +216,9 @@ Giọng của Yu IlHan trầm xuống. Có lẽ đây chính là khoảnh khắc
 
 "Tôi có rất nhiều điều muốn hỏi, nhưng trước hết hãy trả lời câu này đã. Làm thế nào... cô lại có thể sinh ra như một thực thể cấp cao?"
 
-Mystic ngập ngừng trong thoáng chốc nhưng rồi đáp lại ngay.
+[Chuyện đó là.....]
 
-[Chuyện đó là...]
+Mystic ngập ngừng trong thoáng chốc nhưng rồi đáp lại ngay.
 
 [Có lẽ, trước khi sinh ra, tôi từng là một phần của một lượng lớn ghi chép được chia sẻ.]
 
@@ -232,7 +232,7 @@ Yu IlHan thoáng chốc không hiểu và hỏi lại, nhưng Liera thì lập t
 
 Mystic thừa nhận.
 
-[Tôi được sinh ra nhờ sự trợ giúp của một thực thể cấp cao khác đã chia sẻ ghi chép của chính mình. Cùng với mệnh lệnh phải giết anh.]
+[Tôi được sinh ra nhờ sự trợ giúp của một thực thể cấp cao khác đã chia sẻ ghi chép của chính mình. Cùng với mệnh lệnh phải giết chủ nhân.]
 
 "...."
 

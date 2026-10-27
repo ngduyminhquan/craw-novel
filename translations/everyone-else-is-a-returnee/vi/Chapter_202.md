@@ -162,7 +162,7 @@ Dáng vẻ của anh, một hình bóng bằng lửa giữa không trung đượ
 
 "Cô lại định tắm chung chứ gì?"
 
-[Tôi thèm vào chui vào cái bồn tắm độc hại như thế nhé, rõ vớ vẩn.]
+[Tôi thèm chui vào cái bồn tắm độc hại như thế nhé, rõ vớ vẩn.]
 
 Thế nhưng, tâm trạng của Yu IlHan chẳng hề khá hơn kể cả sau khi tắm xong. Điều đó có thể thấy rõ qua việc hình bóng bằng lửa mà anh tạo ra đã tiến hóa từ một con thỏ thành Ác Ma Rung Biến Thái. Nếu có thể, Liera rất muốn bảo anh nặn ra thứ gì khác, nhưng Yu IlHan lúc này chẳng khác nào một quả bom có thể phát nổ bất cứ lúc nào.
 

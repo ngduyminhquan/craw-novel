@@ -206,9 +206,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 199 |  | Chapter_199 - If You See Me – 1.txt | If You See Me – 1 | reviewed |  |
 | 200 |  | Chapter_200 - If You See Me – 2.txt | If You See Me – 2 | reviewed |  |
 | 201 |  | Chapter_201 - If You See Me – 3.txt | If You See Me – 3 | reviewed |  |
-| 202 |  | Chapter_202 - If You See Me – 4.txt | If You See Me – 4 | done |  |
-| 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | done |  |
-| 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | done |  |
+| 202 |  | Chapter_202 - If You See Me – 4.txt | If You See Me – 4 | reviewed |  |
+| 203 |  | Chapter_203 - If You See Me – 5.txt | If You See Me – 5 | reviewed |  |
+| 204 |  | Chapter_204 - If You See Me – 6.txt | If You See Me – 6 | reviewed |  |
 | 205 |  | Chapter_205 - If You See Me – 7.txt | If You See Me – 7 | todo |  |
 | 206 |  | Chapter_206 - If You See Me – 8.txt | If You See Me – 8 | todo |  |
 | 207 |  | Chapter_207 - If You See Me – 9.txt | If You See Me – 9 | todo |  |

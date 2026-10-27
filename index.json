@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T00:57:43Z",
+  "generatedAt": "2026-10-27T01:10:15Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1216,19 +1216,19 @@
           "number": 202,
           "title": "Chương 202: Nếu Thấy Tôi – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_202.md",
-          "sha": "86eab4e93e86b56d7a27c7b428b712e0b0692d3d"
+          "sha": "048ac2e1e076204ab9769432c4dafe2f2bfa3259"
         },
         {
           "number": 203,
           "title": "Chương 203: Nếu Thấy Tôi – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_203.md",
-          "sha": "3992ca59fe766f39f8c0b57129163becaada91c2"
+          "sha": "0d19ce8dc7b5d9cff0e548628ade60a5bd5f9ee1"
         },
         {
           "number": 204,
           "title": "Chương 204: Nếu Thấy Tôi – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_204.md",
-          "sha": "eaf9df15b9f2e937f77bb2381e5d867bbfb0e0a9"
+          "sha": "4b83bbff766a861facb2879f72ee3127e9a4ea61"
         }
       ]
     }
