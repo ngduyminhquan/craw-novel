@@ -1295,3 +1295,9 @@ Liera dốc trọn sức lực áp đảo và đâm thủng vô số lỗ trên 
 Kẻ địch toan rút lui thì Yu IlHan — vừa thăng lên chuyển chức 4 — lập tức giăng kết giới ngọn lửa trắng, dùng xích lửa trói chặt và vung thương thiêu rụi hoàn toàn Ý Chí Hỗn Loạn Lv 403.
 IlHan chạy đến bên Liera đang thoi thóp, dịu dàng trấn an và rạch cổ tay lấy máu nhỏ lên bộ giáp để bắt đầu quá trình tái sinh cho cô.
 Cảnh kết thúc: IlHan tuyên bố sẽ nắm lấy mọi thứ và không buông tay bất kỳ điều gì, trong khi quá trình tái sinh của Liera chính thức bắt đầu.
+
+## 212
+Bộ giáp màu hồng tan chảy cùng dòng máu của Yu IlHan kích hoạt dòng thuộc tính thứ năm đã trích xuất ghi chép, giúp Liera tái sinh nguyên vẹn cơ thể mang dòng máu đỏ của một thực thể cấp thấp chuyển chức 4 dưới sự phát triển thần thánh của lời chúc phúc từ Thần Tình Yêu.
+Trước sự gặng hỏi dồn dập và đe dọa cưỡng bức hài hước của Liera, IlHan chính thức vượt qua sự nhút nhát để thổ lộ tình cảm chân thành: "Tôi cũng rất thích cô. Cho nên.... tôi ..yêu ..cô".
+Bị Mystic trêu chọc và dọa thả pháo đài bay đè bẹp, IlHan quyết định không giữ thế bị động mà chủ động ôm cằm Liera trao cho cô nụ hôn đầu đầy bất ngờ.
+Cảnh kết thúc: Màn chim chuột ngọt ngào khiến Mystic nổi giận điều khiển pháo đài bay múa break-dance giữa không trung, còn Orochi trong Hỏa Ngục Long Thân thầm tấm tắc xem kịch hay, khép lại arc "Tôi Cũng Thế" với trò đùa kết thúc có hậu của tác giả.

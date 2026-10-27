@@ -697,3 +697,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Infernal Dragon Body | Infernal dragon body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |
 | Valkyrie |  | Valkyrie | khác | 207 | Thiếu nữ chiến đấu trong thần thoại, dùng để ví von vẻ đẹp chiến binh của Liera |
 | Thunder Knights |  | Kỵ Sĩ Sấm Sét | tổ chức | 208 | Tên nhóm 2.300 đứa trẻ sử dụng năng lực hệ sét tự đặt cho mình dưới quyền chỉ huy của Yumir |
+| Sonic |  | Sonic | khác | 212 | Được phép giữ nguyên: Nhím Sonic, nhân vật biểu tượng văn hóa đại chúng nổi tiếng với tốc độ siêu thanh |
+| Infernal Dragon |  | Hỏa Ngục Long | khác | 212 | Thực thể / tên gọi của con rồng hỏa ngục bên trong bộ giáp Hỏa Ngục Long Thân |
