@@ -83,6 +83,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Keduta | Keduta / tên thiên thần / gã | 260 | Thiên thần chuyển chức 5 Quân Đội Thiên Giới |
 | Titaera | cô / Titaera / nữ thiên thần | 261 | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh |
 | Leciel | hắn / Leciel / đại thiên thần Leciel | 263 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố |
+| Satière | hắn / Satière | 265 | Chỉ huy chuyển chức 7 Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ |
 
 ## Giữa các nhân vật
 
@@ -385,3 +386,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Leciel | Yu IlHan | ta | ngươi / nhân loại | 263 | Đại thiên thần ngạo mạn thị uy với Yu IlHan |
 | Yu IlHan | Leciel | tôi | ông / ngươi | 263 | Yu IlHan cộc lốc đòi tạo tác phẩm, không chịu nhún nhường |
 | Leciel | Liera | ta | ngươi / Liera | 263 | Leciel quở trách Liera là kẻ ngu ngốc |
+| Helièna | Satière | ta | Satière / ngươi | 265 | Hai chỉ huy chuyển chức 7 đối đầu |
+| Satière | Helièna | ta | ngươi | 265 | Hai chỉ huy chuyển chức 7 đối đầu |
+| Satière | Titaera | ta | ngươi / các ngươi / lũ bồ câu | 265 | Satière giáng lâm uy hiếp phe thiên thần |

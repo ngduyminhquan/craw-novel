@@ -269,7 +269,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 262 |  | Chapter_262 - Wherever I Go – 5.txt | Wherever I Go – 5 | reviewed |  |
 | 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | reviewed |  |
 | 264 |  | Chapter_264 - Wherever I Go – 7.txt | Wherever I Go – 7 | done |  |
-| 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | todo |  |
+| 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | done |  |
 | 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | todo |  |
 | 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | todo |  |
 | 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -954,3 +953,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#263] Cụm từ "league of mana" (dòng thuộc tính của Crown of Wisdom) — Tạm chọn: "đẳng cấp mana". Phương án khác: "cảnh giới mana", "tầng bậc mana". → Chốt dịch là đẳng cấp mana (orchestrator)
 - [#263] Thuật ngữ "Crown of Wisdom" (tạo tác phẩm phẩm cấp Thần trao cho Kang MiRae) — Tạm chọn: "Vương Miện Trí Tuệ". Phương án khác: "Vương Miện Trí Huệ". → Chốt dịch là Vương Miện Trí Tuệ (orchestrator)
 - [#264] Câu chào "It's Guten Morgen, you fuckers!" của Yu IlHan: tạm dịch giữ nguyên từ tiếng Đức "Guten Morgen nhé, lũ khốn!" để giữ nét hài hước đùa cợt; nếu muốn thuần Việt có thể đổi thành "Chào buổi sáng nhé, lũ khốn!". → Giữ nguyên câu đùa Guten Morgen nhé, lũ khốn! theo sát bản gốc (orchestrator)
+- [#265] Kỹ năng "Lunatic wave" của Liera — Tạm dịch "Cuồng Ba". Phương án khác: "Cuồng Loạn Ba" / "Sóng Cuồng Loạn". → Chốt dịch là Cuồng Ba (orchestrator)
+- [#265] Tước vị "The 4th Wing of Brilliant Light" của Satière — Tạm dịch "Cánh Thứ 4 Của Ánh Sáng Rực Rỡ" (khớp với "Cánh Thứ 8 Của Ánh Sáng Rực Rỡ" ở #250). Phương án khác: "Cánh Của Ánh Sáng Rực Rỡ Thứ 4". → Chốt dịch là Cánh Thứ 4 Của Ánh Sáng Rực Rỡ để đồng bộ với #250 (orchestrator)

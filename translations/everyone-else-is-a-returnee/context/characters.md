@@ -90,6 +90,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Keduta |  | Keduta | Thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới tại Lanpas, người đầu tiên tìm đến Kang MiRae | 260 |
 | Titaera |  | Titaera | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh, bạn thân của Liera được cử đến đàm phán với Yu IlHan | 261 |
 | Leciel | Lord Leciel | Leciel | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố, có ba cặp cánh | 263 |
+| Satière | Lord Satière | Satière | Thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ, có 3 cặp cánh đen tuyền và mắt đỏ như hồng ngọc | 265 |
 
 ## Chi tiết
 
@@ -780,3 +781,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố.
 - Ngoại hình / Đặc điểm: Đại thiên thần có ba cặp cánh (6 cánh), cầm trượng, thái độ kiêu ngạo coi thường nhân loại nhưng biết kiềm chế khi nhận ra Yu IlHan không thể bị đe dọa.
 - Xuất hiện tính đến chương 263: Đón nhóm Yu IlHan trước ngân khố Thiên giới, mở ngân khố và trao Vương Miện Trí Tuệ cho Kang MiRae theo thỏa thuận.
+
+### Satière
+- Giới tính, vai trò: Nam, thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ.
+- Ngoại hình / Đặc điểm: Vẻ ngoài trung niên uy nghiêm như một vị hoàng đế, có 3 cặp cánh đen tuyền, đôi mắt đỏ rực như hồng ngọc, khoác áo lông đen bao trùm toàn thân; uy áp khủng khiếp khiến các thực thể chuyển chức 5 bị hóa đá và tan biến mana chỉ bằng một ánh nhìn.
+- Cách nói chuyện: Lạnh lùng, ngạo mạn, coi thường các thiên thần (gọi là "lũ bồ câu"), xem chiến tranh là điều phiền toái.
+- Xuất hiện tính đến chương 265: Xuất hiện trên chiến trường Bức Tường Hỗn Loạn định tự tay xóa sổ Yu IlHan; bị Nữ Hoàng Succubus Helièna xuất hiện chặn đầu mời gọi giao chiến.

@@ -1624,3 +1624,10 @@ Sau khi nhận lời chúc phúc tăng vọt chỉ số từ nữ tư tế Na Yu
 Bằng đòn vung thương kết hợp giữa kiếm, roi và độn khí chém toạc không gian, Yu IlHan liên tiếp hạ gục các thực thể cấp cao trong trạng thái ẩn thân; sau đó anh dùng một bình Hơi Thở, lao vào lỗ hổng Bức Tường Hỗn Loạn và giải trừ ẩn thân bằng kỹ năng Đọa Lạc, hạ thấp toàn bộ đẳng cấp của kẻ thù.
 Khai hỏa đồng thời Đại Đoạn Vũ Trụ Thương và Bất Khả Họa Quỹ Đạo Thương quét sạch 121 thực thể cấp cao trong chớp mắt, Yu IlHan để lộ thân phận khiến liên minh kẻ thù bàng hoàng và dồn toàn bộ sát khí trả thù cho Helièna về phía anh.
 Cảnh kết thúc: Liera mỉm cười giương thương chuẩn bị nghênh chiến, mở màn cuộc chiến hoàn toàn do Yu IlHan làm chủ và dẫn dắt.
+
+## 265
+Yu IlHan cùng Liera và Erta khuấy đảo chiến trường bên kia Bức Tường Hỗn Loạn; kỹ năng Đọa Lạc mở rộng phạm vi hạ thấp đẳng cấp quân thù và cường hóa gấp đôi ma pháp trận hỗ trợ của Erta, trong khi Liera thi triển kỹ năng Cuồng Ba dưới sự bảo hộ của Thần Tình Yêu càn quét kẻ địch.
+Pháo Đài Bay dưới sự ẩn thân của Yumir vượt qua Bức Tường Hỗn Loạn; Kang MiRae mở nhầm cổng sang thế giới phụ khiến vị trí pháo đài bị bại lộ, liên minh kẻ thù bàng hoàng và chuyển hướng vây hãm.
+Yu IlHan dốc toàn bộ thương xương rồng kết hợp Lôi Búa và kỹ năng Thần Lực tàn sát hàng ngàn thực thể cấp cao bảo vệ pháo đài, khiến kẻ địch kinh hãi nghi ngờ anh chính là Kẻ Thứ Năm trong truyền thuyết.
+Satière — thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ — giáng lâm tỏa uy áp hoàng đế khiến các thực thể chuyển chức 5 bị hóa đá tan biến mana và dọa bẻ gãy mọi hy vọng của phe thiên thần.
+Cảnh kết thúc: Nữ Hoàng Succubus Helièna xuất hiện như một đóa độc hoa bừng nở phía trên Pháo Đài Bay, quyến rũ mời gọi Satière giao đấu.
