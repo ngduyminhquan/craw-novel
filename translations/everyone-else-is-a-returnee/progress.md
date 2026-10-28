@@ -244,7 +244,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 237 |  | Chapter_237 - You Are Already Dead – 1.txt | You Are Already Dead – 1 | reviewed |  |
 | 238 |  | Chapter_238 - You Are Already Dead – 2.txt | You Are Already Dead – 2 | reviewed |  |
 | 239 |  | Chapter_239 - You Are Already Dead – 3.txt | You Are Already Dead – 3 | reviewed |  |
-| 240 |  | Chapter_240 - You Are Already Dead – 4.txt | You Are Already Dead – 4 | todo |  |
+| 240 |  | Chapter_240 - You Are Already Dead – 4.txt | You Are Already Dead – 4 | done |  |
 | 241 |  | Chapter_241 - You Are Already Dead – 5.txt | You Are Already Dead – 5 | todo |  |
 | 242 |  | Chapter_242 - You Are Already Dead – 6.txt | You Are Already Dead – 6 | todo |  |
 | 243 |  | Chapter_243 - You Are Already Dead – 7.txt | You Are Already Dead – 7 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -917,3 +916,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#239] Chức nghiệp chuyển chức 4 của Paté "Destiny Archer" — Tạm chọn: "Cung Thủ Định Mệnh" (Hán Việt theo rules.md; phương án khác: "Định Mệnh Cung Thủ", "Cung Thủ Vận Mệnh"). → Giữ "Cung Thủ Định Mệnh" (tự nhiên và nhất quán với các chức nghiệp khác như Thương Thủ Mờ Nhạt). (orchestrator)
 - [#239] Vị thần "god of curses" muốn ban phước cho Paté — Tạm chọn: "Thần Lời Nguyền" (đồng bộ Thần Rèn Đúc, Thần Tình Yêu; phương án khác: "Thần Nguyền Rủa"). → Giữ "Thần Lời Nguyền" (đồng bộ cấu trúc với Thần Rèn Đúc, Thần Chiến Binh, Thần Tình Yêu và Kháng Lời Nguyền Cấp Cao). (orchestrator)
 - [#239] Câu thoại "I'm one-way-His-Majesty!" của Paté ở đoạn 138 — Tạm chọn: "Tôi một lòng vì Bệ hạ!" (thể hiện lòng trung thành tuyệt đối hài hước của Paté; phương án khác: "Tôi nhất tâm vì Bệ hạ!"). → Giữ "Tôi một lòng vì Bệ hạ!" (tự nhiên, đúng giọng hài hước của Paté). (orchestrator)
+- [#240] Dịch từ "God" trong lời thoại của thực thể cấp cao ở đoạn 54 raw ("[Perhaps in this place, the fifth.... God may rise.]") — Tạm chọn: "vị Thần... thứ năm" (ngữ cảnh nói về chúa tể/thủ lĩnh tối cao của phe thứ năm độc lập ngoài 4 phe lớn, không phải Thượng Đế của Thiên giới; dẫn đến cảnh báo QA thiếu 'Thượng Đế'). Phương án khác: "Thượng Đế... thứ năm". → Giữ nguyên cách dịch "vị Thần... thứ năm" vì ngữ cảnh nói về vị thần tối cao đứng đầu thế lực thứ năm độc lập (ngoài 4 phe lớn), không phải Thượng Đế của Thiên Giới; bỏ qua cảnh báo false positive của QA. (orchestrator)

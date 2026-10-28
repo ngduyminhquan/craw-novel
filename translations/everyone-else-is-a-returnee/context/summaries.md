@@ -1465,3 +1465,10 @@ Quân đội từ hai pháo đài do Liera và Yumir dẫn đầu túa ra tấn 
 Chiến công vượt bậc giúp Paté thức tỉnh chức nghiệp chuyển chức lần 4 'Cung Thủ Định Mệnh', đồng thời vũ khí Quỹ Đạo Tử Thần tiến hóa lên phẩm cấp Hỗn Loạn và được Thần Lời Nguyền nhắm ban phước; sự biến đổi undead của Paté khiến quân địch khiếp đảm nhận ra bậc cảnh giới của thực thể cấp cao bị đảo lộn.
 Cảnh kết thúc: Kẻ địch hoảng loạn cố liên lạc với đại bản doanh và cầu cứu Teraka nhưng bị phớt lờ hoàn toàn, khiến Yu IlHan đắc ý khen ngợi Teraka đã làm rất tốt.
 
+## 240
+Yu IlHan duy trì Đọa Lạc và Thần Lực cùng xích hồn hỏa kiềm tỏa toàn bộ doanh trại, nhường lại việc kết liễu cho đồng minh cày điểm kinh nghiệm; Paté dẫn dắt 5 undead thực thể cấp cao mang độc nguyền rủa càn quét chiến trường, trong khi các elf và Lang tộc thi đua lập công giành chuyển chức lần 4.
+Yu IlHan thăng lên cấp 295 (chỉ còn 5 cấp nữa là chạm tới thực thể cấp cao) và cùng Orochi phóng to Bát Vĩ Long Thương quét sạch tàn quân; liên quân dưới sự yểm trợ của Yumir và Bách Nhãn từ hai pháo đài đã tiêu diệt hoàn toàn hơn 300 thực thể cấp cao của Quân Đội Ma Hủy Diệt.
+Trận chiến toàn thắng nhưng liên quân tổn thất hơn 200 người (73 rồng nhỏ, 59 elf, 75 người sói); IlHan tập hợp quân đội nghiêm khắc nhắc nhở họ trân trọng sinh mạng, không được phép hy sinh trong những trận chiến tới và giao Paté quản lý đội quân undead.
+Cảnh kết thúc: Thu gom toàn bộ chiến lợi phẩm và xác đồng minh, Yu IlHan lệnh cho Mystic lái hai pháo đài rời khỏi tiền tuyến vừa bị san phẳng, chuẩn bị cho những bước đi tiếp theo của cuộc chiến.
+
+
