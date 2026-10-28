@@ -90,7 +90,7 @@ Phớt lờ hai người phụ nữ bắt đầu cãi cọ, Yu IlHan nhập thô
 
 Lúc này, anh nói năng nhẹ tênh như vậy là để mọi người an lòng, nhưng dù làm gì đi nữa thì chuyển chức 7 vẫn là một kẻ thù vô cùng đáng sợ. Bất kể chuẩn bị bao nhiêu đi chăng nữa cũng khó lòng mà đủ.
 
-Dù anh từng may mắn đánh bại Echjar, tình thế lần này lại hoàn toàn khác biệt. Ả là một kẻ thù chưa từng thấy trước đây, xét từ năng lực cho đến chủng tộc! Hơn nữa, nếu ả thuộc Quân Đội Ma Hủy Diệt, chắc chắn ả phải nắm thông tin về khả năng dịch chuyển không gian chiều của Yu IlHan. Rất khó để tái diễn lại mánh khóe anh từng dùng đối phó với Echjar một lần nữa.
+Dù anh từng may mắn đánh bại Echjar, tình thế lần này lại hoàn toàn khác biệt. Ả là một kẻ thù chưa từng thấy trước đây, xét từ năng lực cho đến chủng tộc! Hơn nữa, nếu ả thuộc Quân Đội Ma Hủy Diệt, chắc chắn ả phải nắm thông tin về khả năng dịch chuyển thứ nguyên của Yu IlHan. Rất khó để tái diễn lại mánh khóe anh từng dùng đối phó với Echjar một lần nữa.
 
 Điều tồi tệ nhất ở Quân Đội Ma Hủy Diệt là chẳng thể nói lý lẽ gì với chúng. Chúng chỉ thích làm bất cứ điều gì chúng muốn!
 

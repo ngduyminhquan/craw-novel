@@ -94,7 +94,7 @@ Nghe thấy hai chữ 'mạnh mẽ', sắc mặt cậu bé trông đã tươi t�
 
 "Chắc chắn con sẽ làm được."
 
-Tốt rồi, vậy là đã vượt qua được ngọn đồi lớn. Yu IlHan vừa thở phào nhẹ nhõm vừa xoa đầu Yumir. Có lẽ nhờ đã trút bỏ được gánh nặng trong lòng, Yumir đưa tay xoa xoa chiếc bụng của mình rồi lẩm bẩm.
+Tốt rồi, vậy là đã vượt qua được một cửa ải lớn. Yu IlHan vừa thở phào nhẹ nhõm vừa xoa đầu Yumir. Có lẽ nhờ đã trút bỏ được gánh nặng trong lòng, Yumir đưa tay xoa xoa chiếc bụng của mình rồi lẩm bẩm.
 
 "Bố ơi, con đói bụng rồi."
 
@@ -240,7 +240,7 @@ Sau khi nghe hết mọi chuyện, ngay cả Helièna cũng bắt đầu cảm t
 
 [Phải rồi. Đó quả thực là sở trường của ta đấy.]
 
-Helièna thè chiếc lưỡi đỏ hỏn ra liếm nhẹ bờ môi trên, đôi mắt ả ánh lên vẻ ma mị đầy quyến rũ.
+Helièna thè chiếc lưỡi đỏ tươi ra liếm nhẹ bờ môi trên, đôi mắt ả ánh lên vẻ ma mị đầy quyến rũ.
 
 [Không một người đàn ông nào có thể từ chối ta. Hắn có thể đã giết chết một con rồng, nhưng chắc chắn hắn không thể nào kháng cự nổi trước uy quyền của Nữ Hoàng Succubus.]
 

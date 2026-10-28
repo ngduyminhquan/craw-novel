@@ -10,7 +10,7 @@ Yu IlHan nhìn Liera với vẻ mặt ủ rũ để xác nhận lại.
 
 "Nếu cậu đang tìm gợi ý, thì có một cái lù lù ngay trước mặt cậu kìa."
 
-Liera chọc chọc ngón tay vào đôi cánh của Spiera. Anh vừa định nói gì đó với Liera, nhưng đến cả Spiera dường như cũng đang nắm bắt cơ hội kinh doanh ở đây mà chỉ mỉm cười.
+Liera chọc chọc ngón tay vào đôi cánh của Spiera. Anh vừa định nói gì đó với Liera, nhưng đến cả Spiera dường như cũng đang tranh thủ làm nhiệm vụ chiêu mộ ở đây mà chỉ mỉm cười.
 
 [Quân Đội Thiên Giới đãi ngộ tốt lắm đấy, Yu IlHan.]
 
@@ -170,7 +170,7 @@ Mặc kệ Na YuNa phía sau, Mirfa và Erica tiến tới chào đón anh. Trô
 
 "Con rồng đáng sợ đó đã thực sự chết rồi sao ạ?"
 
-"Ừ, ta đã hạ sát nó chắc chắn rồi. Dù không phải một trận đấu sòng phẳng, nhưng ít nhất các cô sẽ không bao giờ phải gặp lại gã đó khi còn sống nữa. Quân Đội Ma Hủy Diệt hẳn cũng chẳng còn tâm trí đâu mà tham gia vào cuộc chiến này nữa."
+"Ừ, tôi đã hạ sát nó chắc chắn rồi. Dù không phải một trận đấu sòng phẳng, nhưng ít nhất các cô sẽ không bao giờ phải gặp lại gã đó khi còn sống nữa. Quân Đội Ma Hủy Diệt hẳn cũng chẳng còn tâm trí đâu mà tham gia vào cuộc chiến này nữa."
 
 Dĩ nhiên, anh cũng không loại trừ khả năng có con quái vật nào đó nhảy ra bảo "Thứ 13 đã chết, giờ đến lượt thứ 12 ta đây ra tay!" hay đại loại thế, nhưng Yu IlHan cũng cho rằng sự cân bằng giữa bốn phe phái lớn không dễ dàng bị phá vỡ như vậy.
 
