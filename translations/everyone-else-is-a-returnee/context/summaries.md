@@ -1471,4 +1471,11 @@ Yu IlHan thăng lên cấp 295 (chỉ còn 5 cấp nữa là chạm tới thực
 Trận chiến toàn thắng nhưng liên quân tổn thất hơn 200 người (73 rồng nhỏ, 59 elf, 75 người sói); IlHan tập hợp quân đội nghiêm khắc nhắc nhở họ trân trọng sinh mạng, không được phép hy sinh trong những trận chiến tới và giao Paté quản lý đội quân undead.
 Cảnh kết thúc: Thu gom toàn bộ chiến lợi phẩm và xác đồng minh, Yu IlHan lệnh cho Mystic lái hai pháo đài rời khỏi tiền tuyến vừa bị san phẳng, chuẩn bị cho những bước đi tiếp theo của cuộc chiến.
 
+## 241
+Teraka dẫn 5.000 con rồng lùng sục khắp Daréu nhưng chỉ đụng độ Khu Vườn Hoàng Hôn; hắn phớt lờ và chặn liên lạc từ doanh trại Quân Đội Ma Hủy Diệt, rồi quyết định dẫn bầy rồng chuyển hướng tập kích Quân Đội Thiên Giới.
+Yu IlHan cho quân đội nghỉ ngơi và thông qua Erta để đại thiên thần Spiera tìm đến gặp mình; Spiera chân thành vui mừng khi thấy anh an toàn và hứa sẽ dạy Đại Đoạn Vũ Trụ Thương cũng như theo anh về Trái Đất sau khi chiến tranh kết thúc.
+Yu IlHan che giấu toan tính riêng và cho Spiera xem núi xác hơn 300 thực thể cấp cao trong túi đồ khiến cô kinh ngạc tột độ; Spiera chấp nhận ẩn mình vào bóng của anh để phối hợp tác chiến, đồng thời thấu hiểu và chúc phúc cho tình cảm giữa Liera và IlHan.
+Cảnh kết thúc: Yu IlHan bao bọc hai tòa pháo đài trong kỹ năng Ẩn Thân và kích hoạt ma pháp trận dịch chuyển tới chiến trường nơi bầy rồng của Teraka đang kịch chiến long trời lở đất với Quân Đội Thiên Giới.
+
+
 

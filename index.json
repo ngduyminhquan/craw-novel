@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T04:32:50Z",
+  "generatedAt": "2026-10-28T04:39:28Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1445,6 +1445,12 @@
           "title": "Chương 240: Ngươi Đã Chết Rồi – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_240.md",
           "sha": "9f6192686ff079821ec65f22424fe7fb3fb32a21"
+        },
+        {
+          "number": 241,
+          "title": "Chương 241: Ngươi Đã Chết Rồi – 5",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_241.md",
+          "sha": "9838ccc5c21a6d4550682294904f0e58b466f139"
         }
       ]
     },

@@ -245,7 +245,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 238 |  | Chapter_238 - You Are Already Dead – 2.txt | You Are Already Dead – 2 | reviewed |  |
 | 239 |  | Chapter_239 - You Are Already Dead – 3.txt | You Are Already Dead – 3 | reviewed |  |
 | 240 |  | Chapter_240 - You Are Already Dead – 4.txt | You Are Already Dead – 4 | done |  |
-| 241 |  | Chapter_241 - You Are Already Dead – 5.txt | You Are Already Dead – 5 | todo |  |
+| 241 |  | Chapter_241 - You Are Already Dead – 5.txt | You Are Already Dead – 5 | done |  |
 | 242 |  | Chapter_242 - You Are Already Dead – 6.txt | You Are Already Dead – 6 | todo |  |
 | 243 |  | Chapter_243 - You Are Already Dead – 7.txt | You Are Already Dead – 7 | todo |  |
 | 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | todo |  |
@@ -917,3 +917,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#239] Vị thần "god of curses" muốn ban phước cho Paté — Tạm chọn: "Thần Lời Nguyền" (đồng bộ Thần Rèn Đúc, Thần Tình Yêu; phương án khác: "Thần Nguyền Rủa"). → Giữ "Thần Lời Nguyền" (đồng bộ cấu trúc với Thần Rèn Đúc, Thần Chiến Binh, Thần Tình Yêu và Kháng Lời Nguyền Cấp Cao). (orchestrator)
 - [#239] Câu thoại "I'm one-way-His-Majesty!" của Paté ở đoạn 138 — Tạm chọn: "Tôi một lòng vì Bệ hạ!" (thể hiện lòng trung thành tuyệt đối hài hước của Paté; phương án khác: "Tôi nhất tâm vì Bệ hạ!"). → Giữ "Tôi một lòng vì Bệ hạ!" (tự nhiên, đúng giọng hài hước của Paté). (orchestrator)
 - [#240] Dịch từ "God" trong lời thoại của thực thể cấp cao ở đoạn 54 raw ("[Perhaps in this place, the fifth.... God may rise.]") — Tạm chọn: "vị Thần... thứ năm" (ngữ cảnh nói về chúa tể/thủ lĩnh tối cao của phe thứ năm độc lập ngoài 4 phe lớn, không phải Thượng Đế của Thiên giới; dẫn đến cảnh báo QA thiếu 'Thượng Đế'). Phương án khác: "Thượng Đế... thứ năm". → Giữ nguyên cách dịch "vị Thần... thứ năm" vì ngữ cảnh nói về vị thần tối cao đứng đầu thế lực thứ năm độc lập (ngoài 4 phe lớn), không phải Thượng Đế của Thiên Giới; bỏ qua cảnh báo false positive của QA. (orchestrator)
+- [#241] Cụm từ "anti-recognition magic" (đoạn 26 raw) — Tạm chọn: dịch là "ma pháp phản nhận diện" (không thêm vào glossary.md vì là cụm danh từ chung viết thường; phương án khác: "ma pháp chống nhận diện", "ma pháp gây nhiễu nhận diện"). → Giữ nguyên cách dịch "ma pháp phản nhận diện" và không thêm vào glossary.md vì là cụm danh từ chung viết thường trong lời thoại. (orchestrator)
+- [#241] Dấu ngoặc vuông bị đóng ngắt quãng ở các đoạn thoại thần giao cách cảm của Spiera (đoạn 53, 55, 68, 82 raw có dạng '[...] text...]') — Tạm chọn: gộp thành một khối ngoặc vuông '[...]' hoàn chỉnh xuyên suốt lời thoại (tương tự tiền lệ #215; phương án khác: giữ nguyên dấu ngoặc đóng giữa chừng của raw). → Giữ nguyên quyết định gộp thành một khối ngoặc vuông '[...]' hoàn chỉnh xuyên suốt lời thoại thực thể cấp cao theo đúng định dạng chuẩn (tương tự tiền lệ #215). (orchestrator)

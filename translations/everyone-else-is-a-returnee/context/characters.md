@@ -25,7 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Reta Kar'iha | Reta | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
-| Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon) | 62 |
+| Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
@@ -35,7 +35,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
-| Teraka | Teraka-nim | Teraka | Con rồng chuyển chức 5 thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu | 101 |
+| Teraka | Teraka-nim | Teraka | Con rồng thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu; tính đến #237-#241 đã đột phá lên chuyển chức 6 và dẫn dắt 5.000 con rồng sơ sinh | 101 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |
