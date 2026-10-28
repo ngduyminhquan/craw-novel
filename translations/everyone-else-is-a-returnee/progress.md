@@ -271,7 +271,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 264 |  | Chapter_264 - Wherever I Go – 7.txt | Wherever I Go – 7 | reviewed |  |
 | 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | reviewed |  |
 | 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | reviewed |  |
-| 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | todo |  |
+| 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | done |  |
 | 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | todo |  |
 | 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | todo |  |
 | 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -957,3 +958,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#265] Tước vị "The 4th Wing of Brilliant Light" của Satière — Tạm dịch "Cánh Thứ 4 Của Ánh Sáng Rực Rỡ" (khớp với "Cánh Thứ 8 Của Ánh Sáng Rực Rỡ" ở #250). Phương án khác: "Cánh Của Ánh Sáng Rực Rỡ Thứ 4". → Chốt dịch là Cánh Thứ 4 Của Ánh Sáng Rực Rỡ để đồng bộ với #250 (orchestrator)
 - [#266] Tiêu đề arc mới "If You Wish To Follow Me" (#266–#273) — Tạm chọn: "Nếu Muốn Theo Tôi – N" ("Nếu Muốn Theo Tôi – 1" ở #266) để đồng bộ ngôi xưng "Tôi" với các arc trước ("Dù Tôi Đi Đâu", "Tôi Đi Cùng Cậu"). Phương án khác: "Nếu Ngươi Muốn Theo Ta – N" / "Nếu Muốn Đi Theo Tôi – N". → Chốt dịch tiêu đề arc là Nếu Muốn Theo Tôi – N (orchestrator)
 - [#266] Thuật ngữ "Netherworld" (thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ) — Tạm chọn: "Minh Giới" (Hán Việt ngắn gọn, đối ứng với Thiên Giới của Quân Đội Thiên Giới) và đã thêm vào glossary.md. Phương án khác: "Cõi Âm" / "U Minh Giới". → Chốt dịch là Minh Giới (orchestrator)
+- [#267] 'Heart of Fire' (tạo tác ma thạch phượng hoàng chuyển chức 7 phẩm cấp Thần): tạm dịch 'Hỏa Tâm' (nhất quán với cách dịch Hán Việt của tạo tác như Thiết Tâm); raw dòng 114 ghi '[Heat of Fire]' xem là lỗi chính tả (typo) của '[Heart of Fire]' và dịch thống nhất là '[Hỏa Tâm]'. → Chốt dịch là Hỏa Tâm (orchestrator)
+- [#267] 'the Supremes' (chỉ các lãnh tụ cấp cao nhất của 4 thế lực lớn): tạm dịch 'những thực thể tối cao' (nhất quán với hệ thống thuật ngữ thực thể cấp cao / thực thể cấp thấp). → Chốt dịch là Thực thể tối cao (orchestrator)

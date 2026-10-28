@@ -91,6 +91,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Titaera |  | Titaera | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh, bạn thân của Liera được cử đến đàm phán với Yu IlHan | 261 |
 | Leciel | Lord Leciel | Leciel | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố, có ba cặp cánh | 263 |
 | Satière | Lord Satière | Satière | Thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ, có 3 cặp cánh đen tuyền và mắt đỏ như hồng ngọc | 265 |
+| Ruler of the Army of Brilliant Light | Leader of the Army of Brilliant Light | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ | Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới; sở hữu giọng nói tuyệt mỹ và uy áp có thể phong tỏa ánh sáng và mana của toàn bộ thế giới khi thức tỉnh | 267 |
 
 ## Chi tiết
 
@@ -782,6 +783,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố.
 - Ngoại hình / Đặc điểm: Đại thiên thần có ba cặp cánh (6 cánh), cầm trượng, thái độ kiêu ngạo coi thường nhân loại nhưng biết kiềm chế khi nhận ra Yu IlHan không thể bị đe dọa.
 - Xuất hiện tính đến chương 263: Đón nhóm Yu IlHan trước ngân khố Thiên giới, mở ngân khố và trao Vương Miện Trí Tuệ cho Kang MiRae theo thỏa thuận.
+- Xuất hiện tính đến chương 267: Hỏi dò Yu IlHan về khả năng hồi sinh; sau khi thất vọng liền đổi thái độ bớt thù địch và mở ngân khố trao Hỏa Tâm cho IlHan; bị IlHan đấu võ mồm châm chọc đến mức tức tối giơ ngón giữa đuổi khách.
 
 ### Satière
 - Giới tính, vai trò: Nam, thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ.
@@ -789,3 +791,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lạnh lùng, ngạo mạn, coi thường các thiên thần (gọi là "lũ bồ câu"), xem chiến tranh là điều phiền toái.
 - Xuất hiện tính đến chương 265: Xuất hiện trên chiến trường Bức Tường Hỗn Loạn định tự tay xóa sổ Yu IlHan; bị Nữ Hoàng Succubus Helièna xuất hiện chặn đầu mời gọi giao chiến.
 - Xuất hiện tính đến chương 266: Bị Helièna câu giờ làm Kang MiRae mở thành công cổng sang Minh Giới; bị các thực thể cấp cao khác cản đòn và suýt dính mị lực của Helièna, đành ngậm ngùi rút lui thề sẽ đích thân bẻ gãy cổ Yu IlHan và Helièna.
+- Xuất hiện tính đến chương 267: Cùng các Tiểu Đoàn Trưởng quét sạch quân xâm lăng tràn vào Minh Giới; quỳ gối kính cẩn trước uy áp tuyệt đối của Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ và tiếp nhận mệnh lệnh cấm đụng vào Yu IlHan.
+
+### Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ (Ruler of the Army of Brilliant Light)
+- Giới tính, vai trò: Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới.
+- Đặc điểm: Giọng nói tuyệt mỹ thanh tao nhưng uy áp kinh hoàng; chỉ cần cất tiếng là toàn bộ Minh Giới chìm trong bóng tối tuyệt đối và mana trong không khí bị đóng băng.
+- Xuất hiện tính đến chương 267: Thức giấc sau khi Minh Giới bị liên quân xâm lăng; ra lệnh cho Satière và các chỉ huy không được đụng vào Yu IlHan vì tin chắc anh là Kẻ Thứ Năm và không muốn ai phá hỏng sự tò mò của mình; cho phép toàn lực va chạm với các phe phái khác, đặc biệt là Quân Đội Thiên Giới.

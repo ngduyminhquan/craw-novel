@@ -392,3 +392,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Satière | Yu IlHan | ta | ngươi / tên con người | 266 | Satière gườm gườm thề sẽ bẻ gãy cổ Yu IlHan |
 | Helièna | Titaera | ta | cô / nữ thiên thần | 266 | Helièna đáp lại Titaera bằng vẻ ma mị trêu chọc |
 | Titaera | Helièna | tôi / ta | cô / succubus | 266 | Titaera khiếp sợ mị lực của Helièna |
+| Hillutonne | Belkatoo | ta | ngươi | 267 | Hai Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt kinh ngạc bàn luận về việc Helièna còn sống |
+| Belkatoo | Hillutonne | ta | ngươi | 267 | Hai Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt kinh ngạc bàn luận về việc Helièna còn sống |
+| Satière | Ruler of the Army of Brilliant Light | thuộc hạ / chúng thần | Ngài | 267 | Satière quỳ gối kính cẩn diện kiến và nhận lệnh từ Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ |
+| Ruler of the Army of Brilliant Light | Satière | ta | ngươi / các ngươi | 267 | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ hạ lệnh cấm đụng vào Yu IlHan |

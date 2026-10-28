@@ -753,3 +753,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Crown of Wisdom |  | Vương Miện Trí Tuệ | vật phẩm | 263 | Tạo tác phẩm phẩm cấp Thần của Quân Đội Thiên Giới trao cho Kang MiRae |
 | Lunatic Wave | Lunatic wave | Cuồng Ba | kỹ năng | 265 | Kỹ năng thương thuật của Liera kết hợp ngọn lửa và ma pháp hỗ trợ |
 | Netherworld | the Netherworld | Minh Giới | địa danh | 266 | Thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ |
+| Heart of Fire | Heat of Fire | Hỏa Tâm | vật phẩm | 267 | Tạo tác ma thạch của phượng hoàng chuyển chức 7 hấp thụ mana thế giới bậc cao vô số năm, chỉ người nhận Chúc Phúc Của Nữ Thần Lửa mới dùng được; phần thưởng thứ hai Yu IlHan nhận từ ngân khố Quân Đội Thiên Giới |
+| Supremes | Supreme being; Supreme | Thực thể tối cao | cấp bậc | 267 | Chỉ các lãnh tụ tối cao của 4 thế lực thực thể cấp cao lớn |

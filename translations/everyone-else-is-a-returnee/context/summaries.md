@@ -1637,3 +1637,10 @@ Helièna xuất hiện sống sờ sờ khiến Satière cùng liên minh các p
 Lợi dụng sự xao nhãng của Satière, Kang MiRae đã mở thành công cánh cổng nối thẳng tới Minh Giới (thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ); Yu IlHan dùng kết giới Đọa Lạc chặn đòn đánh của Satière để bảo vệ cổng.
 Quân Đội Ma Hủy Diệt cùng Khu Vườn Hoàng Hôn ồ ạt tràn qua cánh cổng tấn công Minh Giới khiến liên minh sụp đổ; các thiên thần sa ngã buộc phải rút lui để cứu nguy cho thế giới của mình, Satière bị Helièna khiêu khích và đành rút chạy.
 Nhiệm vụ hoàn tất, Kang MiRae kiệt sức ngã vào vòng tay Yu IlHan; giữa lúc Titaera đang chất vấn IlHan về quan hệ với Helièna, hai thực thể chuyển chức 7 khác lại gầm thét lao tới vì nhận ra người thương Helièna khiến IlHan hô hào cả nhóm bỏ chạy.
+
+## 267
+Na YuNa cầu nguyện Leytna tạo kỳ tích cường hóa ma pháp làm chậm của Kim YeSeul và kỹ năng Dịch Chuyển của Yu IlHan, giúp cả nhóm cùng các thiên thần kịp thời dịch chuyển thoát thân về Thiên giới ngay trước đòn đánh của hai Tiểu Đoàn Trưởng Hillutonne và Belkatoo.
+Yu IlHan giục Helièna trốn vào dinh thự, rồi cùng Titaera đến gặp lại đại thiên thần Leciel tại ngân khố Thiên giới; sau khi biết IlHan không có năng lực hồi sinh thực sự, Leciel đổi thái độ không còn thù địch và trao cho IlHan phần thưởng thứ hai là Hỏa Tâm — tạo tác ma thạch phượng hoàng phẩm cấp Thần; IlHan đấu võ mồm khiến Leciel câm nín giơ ngón giữa rồi kích hoạt Dịch Chuyển đưa cả nhóm trở về Trái Đất.
+Trên đường về, Yu IlHan nảy ra ý tưởng táo bạo chế tạo tạo tác lõi kép kết hợp cả Hỏa Tâm lẫn Trái tim rồng của Echjar để hoàn thiện bộ giáp tối thượng.
+Tại tổng bộ Minh Giới, quân xâm lăng của Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn tàn phá khắp nơi buộc Satière cùng các chỉ huy phải vất vả dẹp loạn; thanh âm tuyệt mỹ của Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ bất chợt vang lên tỏa uy áp đóng băng cả thế giới, hạ lệnh không được đụng vào Yu IlHan vì tin anh là Kẻ Thứ Năm và cho phép toàn lực đối đầu các phe phái khác, đặc biệt là phe thiên thần.
+
