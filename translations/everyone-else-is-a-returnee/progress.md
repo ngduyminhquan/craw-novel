@@ -267,7 +267,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | reviewed |  |
 | 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | done |  |
 | 262 |  | Chapter_262 - Wherever I Go – 5.txt | Wherever I Go – 5 | done |  |
-| 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | todo |  |
+| 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | done |  |
 | 264 |  | Chapter_264 - Wherever I Go – 7.txt | Wherever I Go – 7 | todo |  |
 | 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | todo |  |
 | 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | todo |  |
@@ -367,11 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
-
-
-
 
 
 ## Đã quyết
@@ -955,3 +950,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#261] Thuật ngữ "God-ranked artifact" — Tạm chọn: "tạo tác phẩm cấp Thần" (đồng bộ với cấp bậc 'God rank' là phẩm cấp 'Thần' trong glossary). Phương án khác: "tạo tác cấp Thần". → Chốt dịch là tạo tác phẩm cấp Thần (orchestrator)
 - [#262] Cách viết "Archer of Destiny" ở raw (thay vì "Destiny Archer") — Tạm chọn: thêm vào Alias của "Destiny Archer" (Cung Thủ Định Mệnh) trong glossary.md. Phương án khác: tạo dòng riêng. → Giữ nguyên việc gộp vào Alias của Destiny Archer (Cung Thủ Định Mệnh) (orchestrator)
 - [#262] Cụm từ "living doll" (Yu IlHan định nghĩa thể xác Helièna) — Tạm chọn: dịch tự nhiên thành "búp bê sống" (không thêm vào glossary.md vì là cách nói ví von theo ngữ cảnh). Phương án khác: thêm vào glossary.md. → Chốt dịch là búp bê sống theo ngữ cảnh, không cần thêm vào glossary.md (orchestrator)
+- [#263] Cụm từ "league of mana" (dòng thuộc tính của Crown of Wisdom) — Tạm chọn: "đẳng cấp mana". Phương án khác: "cảnh giới mana", "tầng bậc mana". → Chốt dịch là đẳng cấp mana (orchestrator)
+- [#263] Thuật ngữ "Crown of Wisdom" (tạo tác phẩm phẩm cấp Thần trao cho Kang MiRae) — Tạm chọn: "Vương Miện Trí Tuệ". Phương án khác: "Vương Miện Trí Huệ". → Chốt dịch là Vương Miện Trí Tuệ (orchestrator)

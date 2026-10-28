@@ -1610,3 +1610,9 @@ Trước trận chiến khốc liệt sắp tới, IlHan để Quân Đoàn Rồ
 Dùng Cái Nôi Kỳ Tích, máu Echjar, viên ma thạch cấp 7 bên trong thi thể Helièna và mượn năng lực Cung Thủ Định Mệnh của Paté, IlHan hồi sinh lại cơ thể Helièna và đưa kỹ năng Chế Tác Mana đạt cảnh giới thuần thục (Max).
 Tàn niệm Helièna (giữ 60% ý thức nguyên bản) thẳng thắn thổ lộ tình yêu và nhắc IlHan rằng việc giết cô chỉ chia đôi linh hồn; IlHan kích hoạt kỹ năng Thống Trị đạt cảnh giới thuần thục, chính thức thu nhận Helièna làm thuộc hạ rồi phụ ma linh hồn cô trở lại thể xác ban đầu.
 Cảnh kết thúc: Quy trình Linh Hồn Phụ Ma hoàn tất êm đềm nhưng mở màn cho một biến cố chấn động có thể làm rung chuyển tương lai của mọi phe phái thực thể cấp cao.
+
+## 263
+Titaera quay lại báo tin Quân Đội Thiên Giới đồng ý giao trước 1 tạo tác phẩm cấp Thần; Yu IlHan để Pháo Đài Hộ Vệ cùng Kang HaJin và Quân Đoàn Rồng ở lại bảo vệ Trái Đất, rồi cùng Kang MiRae tạo cổng lần theo dấu vết mana dịch chuyển tới Thiên giới.
+Tại ngân khố Thiên giới, đại thiên thần chuyển chức 7 Leciel kiêu ngạo định ra oai nhưng bị IlHan chặn họng đòi đồ; Leciel mở kho trao tạo tác phẩm cấp Thần Vương Miện Trí Tuệ (yêu cầu sự chúc phúc của Thần Ma Pháp) cho Kang MiRae giúp tăng vọt năng lực và đẳng cấp mana của cô.
+Titaera đưa nhóm IlHan và Pháo Đài Bay tới lối vào chiến trường Bức Tường Hỗn Loạn — nơi Quân Đội Thiên Giới đang bị liên minh Quân Đội Ma Hủy Diệt, Quân Đội Ánh Sáng Rực Rỡ và Khu Vườn Hoàng Hôn vây hãm dữ dội sau sự biến Daréu.
+Cảnh kết thúc: Titaera tiết lộ kế hoạch nhờ Kang MiRae mở cổng dẫn thẳng tới đại bản doanh Quân Đội Ánh Sáng Rực Rỡ để lùa nửa đàn quái vật của Quân Đội Ma Hủy Diệt tràn sang chia rẽ liên minh kẻ thù; Yu IlHan nhận định nơi này sắp tới sẽ còn hỗn loạn hơn cả Daréu.

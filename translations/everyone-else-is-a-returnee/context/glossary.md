@@ -750,3 +750,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lünaë |  | Lünaë | địa danh | 256 | Khu vực/thành trì tại thế giới Heishia bị quân đội orc tàn phá |
 | Model Garden |  | Khu Vườn Mô Hình | địa danh | 258 | Thế giới hỗn loạn nơi thời gian và không gian ngưng trệ, thuộc quyền quản lý của Khu Vườn Hoàng Hôn |
 | God of Magic | god of magic | Thần Ma Pháp | khác | 259 | Vị thần hình thành từ tích lũy ghi chép ma pháp trong Hồ Sơ Akashic ban phước cho Kang MiRae |
+| Crown of Wisdom |  | Vương Miện Trí Tuệ | vật phẩm | 263 | Tạo tác phẩm phẩm cấp Thần của Quân Đội Thiên Giới trao cho Kang MiRae |

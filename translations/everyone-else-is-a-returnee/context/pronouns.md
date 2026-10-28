@@ -82,6 +82,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hillutonne | Hillutonne / gã | 256 | Tiểu Đoàn Trưởng Tiểu Đoàn 2 Quân Đội Ma Hủy Diệt |
 | Keduta | Keduta / tên thiên thần / gã | 260 | Thiên thần chuyển chức 5 Quân Đội Thiên Giới |
 | Titaera | cô / Titaera / nữ thiên thần | 261 | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh |
+| Leciel | hắn / Leciel / đại thiên thần Leciel | 263 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố |
 
 ## Giữa các nhân vật
 
@@ -380,3 +381,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Titaera | tớ / tôi | cậu / Titaera | 261 | Đôi bạn thiên thần chuyển chức 6 thân thiết lâu ngày tái ngộ |
 | Titaera | Yu IlHan | tôi / chúng tôi | cậu / Cậu Yu IlHan | 261 | Đại diện Quân Đội Thiên Giới đàm phán với Yu IlHan |
 | Yu IlHan | Titaera | tôi | cô | 261 | Yu IlHan đàm phán ép giá với thiên thần Titaera |
+| Titaera | Leciel | tôi | Ngài Leciel | 263 | Titaera kính cẩn chào đại thiên thần canh giữ ngân khố |
+| Leciel | Yu IlHan | ta | ngươi / nhân loại | 263 | Đại thiên thần ngạo mạn thị uy với Yu IlHan |
+| Yu IlHan | Leciel | tôi | ông / ngươi | 263 | Yu IlHan cộc lốc đòi tạo tác phẩm, không chịu nhún nhường |
+| Leciel | Liera | ta | ngươi / Liera | 263 | Leciel quở trách Liera là kẻ ngu ngốc |

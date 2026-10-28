@@ -89,6 +89,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Hillutonne | 2nd Battalion Commander, Hillutonne | Hillutonne | Tiểu Đoàn Trưởng Tiểu Đoàn 2 thuộc Quân Đội Ma Hủy Diệt | 256 |
 | Keduta |  | Keduta | Thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới tại Lanpas, người đầu tiên tìm đến Kang MiRae | 260 |
 | Titaera |  | Titaera | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh, bạn thân của Liera được cử đến đàm phán với Yu IlHan | 261 |
+| Leciel | Lord Leciel | Leciel | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố, có ba cặp cánh | 263 |
 
 ## Chi tiết
 
@@ -774,3 +775,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thiên thần cấp cao chuyển chức 6 thuộc Quân Đội Thiên Giới; bạn thân thiết của Liera.
 - Ngoại hình / Đặc điểm: Nữ thiên thần xinh đẹp sở hữu hai cặp cánh trắng muốt (4 cánh).
 - Xuất hiện tính đến chương 261: Được Quân Đội Thiên Giới phái đến pháo đài bay để đàm phán mượn sức mạnh vượt chiều của Kang MiRae và viện trợ của Yu IlHan trong cuộc chiến tại Bức Tường Hỗn Loạn; ban đầu cố tỏ ra cứng rắn nhưng hoàn toàn lép vế trước tài ép giá và đe dọa của Yu IlHan, cuối cùng phải chấp nhận nhượng bộ đổi 2 tạo tác phẩm cấp Thần.
+
+### Leciel
+- Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố.
+- Ngoại hình / Đặc điểm: Đại thiên thần có ba cặp cánh (6 cánh), cầm trượng, thái độ kiêu ngạo coi thường nhân loại nhưng biết kiềm chế khi nhận ra Yu IlHan không thể bị đe dọa.
+- Xuất hiện tính đến chương 263: Đón nhóm Yu IlHan trước ngân khố Thiên giới, mở ngân khố và trao Vương Miện Trí Tuệ cho Kang MiRae theo thỏa thuận.
