@@ -1513,3 +1513,9 @@ Yu IlHan an ủi Yumir sau khi cậu bé bị sốc và tự ti trước uy lự
 Cái chết của Tiểu Đoàn Trưởng Tiểu Đoàn 13 Echjar gây chấn động khắp các phe phái; ngoại trừ Quân Đội Thiên Giới bị các phe khác nghi ngờ đứng sau vụ việc, chỉ có Quân Đội Ma Hủy Diệt nhanh chóng nắm bắt được chính Yu IlHan mới là người hạ sát Echjar.
 Tại đại bản doanh Elo Katra ngoài Bức Tường Hỗn Loạn, hội nghị các Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt (gồm cự điểu Zenusva, nữ khổng lồ Melohinne...) bàn tán sôi nổi và đồng thuận sẽ lôi kéo Yu IlHan gia nhập thay vì thù oán.
 Cảnh kết thúc: Tiểu Đoàn Trưởng Tiểu Đoàn 3 Helièna (Nữ Hoàng Succubus) tự tin vào mị thuật của bản thân, nhận nhiệm vụ quyến rũ Yu IlHan và lập tức lên đường hướng về Daréu, đẩy quy mô cuộc chiến lên cấp độ hoàn toàn mới.
+
+## 248
+Trong bữa tiệc ăn mừng, Liera nhờ nhận phước lành từ Thần Tình Yêu đã phát hiện Tiểu Đoàn Trưởng Tiểu Đoàn 3 Helièna (succubus chuyển chức 7 của Quân Đội Ma Hủy Diệt) đang nhắm đến IlHan; IlHan bình tĩnh nhập toàn bộ thông tin tình báo của ả vào ma pháp trận phòng thủ tại Daréu để sẵn sàng giật dây các phe phái.
+Yu IlHan quyết định xử lý xác rồng Echjar làm quà sinh nhật sớm cho bản thân; anh triệu hồi Cái Nôi Kỳ Tích ra giữa bãi đất trống, khiến Liera và Na YuNa sững sờ trước các dòng thuộc tính cực phẩm phẩm cấp Thần chuyên thanh tẩy, tiến hóa và cường hóa nguyên liệu Long tộc của bồn tắm chung.
+Orochi lo lắng trước tàn niệm chuyển chức 7 của Echjar mà IlHan vừa thu thập bằng Thu Thập Tử Vong, nhưng IlHan tự tin với kỹ năng Đọa Lạc và việc Echjar đã chết nên không thể gây hại cho mình.
+Cảnh kết thúc: Bỏ ngoài tai tiếng gầm rú đe dọa của tàn niệm Echjar, Yu IlHan vung Bát Vĩ Long Thương đâm thẳng vào giữa đầu con rồng để bắt đầu màn Giải Phẫu vô tiền khoáng hậu.

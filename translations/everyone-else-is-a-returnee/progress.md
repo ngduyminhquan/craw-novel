@@ -252,7 +252,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 245 |  | Chapter_245 - You Are Already Dead – 9.txt | You Are Already Dead – 9 | reviewed |  |
 | 246 |  | Chapter_246 - You Are Already Dead – 10.txt | You Are Already Dead – 10 | done |  |
 | 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | done |  |
-| 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | todo |  |
+| 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | done |  |
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | todo |  |
 | 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | todo |  |
 | 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -926,3 +927,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#245] Tên tạo tác phẩm cấp Thần "Cradle of Miracles" (tiến hóa từ Đại Thùng) — Tạm chọn: "Cái Nôi Kỳ Tích". Phương án khác: "Kỳ Tích Chi Nôi". → Chốt dịch là "Cái Nôi Kỳ Tích" (tự nhiên, rõ nghĩa, đồng bộ với các tạo tác có cấu trúc danh ngữ như Lông Vũ Mê Hoặc, Hơi Thở Hoàng Kim). (orchestrator)
 - [#246] Lời thoại đoạn 64 "Sorry, I have an owner already." — Tạm chọn: Liera nói ("Xin lỗi nhé, người ta có chủ rồi.") thể hiện sự tranh giành IlHan với Na YuNa. Phương án khác: Yu IlHan nói ("Xin lỗi nhé, tôi có chủ rồi.") nhưng IlHan vốn chưa từng nhận mình có người yêu/có chủ. → Giữ nguyên cách dịch "Xin lỗi nhé, người ta có chủ rồi." (lời của Liera dùng từ "người ta" để khẳng định chủ quyền với Yu IlHan khi chặn Na YuNa). (orchestrator)
 - [#247] Thuật ngữ "Succubus Queen" — Tạm chọn: "Nữ Hoàng Succubus". Phương án khác: "Nữ Chúa Succubus". → Chốt dịch là "Nữ Hoàng Succubus" (tự nhiên, giữ nguyên tên chủng tộc phương Tây kinh điển Succubus kết hợp danh xưng Nữ Hoàng). (orchestrator)
+- [#248] Chỉ số độ bền "indestructible" của Cái Nôi Kỳ Tích — Tạm chọn: "Không thể phá hủy". Phương án khác: "Bất hoại". → Chốt dịch là "Không thể phá hủy" (rõ nghĩa, tự nhiên và khớp với các dòng thông số hệ thống khác trong truyện). (orchestrator)

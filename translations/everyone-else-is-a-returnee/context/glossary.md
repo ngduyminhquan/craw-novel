@@ -382,7 +382,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dark Yarn |  | Sợi Chỉ Bóng Tối | vật phẩm | 61 | Nguyên liệu dệt may thu được từ quái vật nguyên bản trong hầm ngục truyền thuyết |
 | Equip Restrictions |  | Giới hạn trang bị | hệ thống | 61 | Yêu cầu điều kiện để trang bị vật phẩm |
 | Auto-recovery |  | Tự phục hồi | hệ thống | 61 | Dòng thuộc tính tự động hồi phục độ bền của trang bị |
-| Destruction Demon Army |  | Quân Đội Ma Hủy Diệt | tổ chức | 62 | Một trong các thế lực thực thể cấp cao lớn mang dã tâm hủy diệt |
+| Destruction Demon Army | Demon Destruction Army | Quân Đội Ma Hủy Diệt | tổ chức | 62 | Một trong các thế lực thực thể cấp cao lớn mang dã tâm hủy diệt |
 | Garden of Sunset | Garden of Sunset Light | Khu Vườn Hoàng Hôn | tổ chức | 62 | Thế lực thực thể cấp cao bí ẩn sở hữu năng lực nhìn thấu tương lai |
 | Brilliant Army of Light | Army of Brilliant Light; Army of Dazzling Light | Quân Đội Ánh Sáng Rực Rỡ | tổ chức | 62 | Thế lực thực thể cấp cao do Lucifer sáng lập |
 | Suspension of Activity |  | Đình Chỉ Hoạt Động | hệ thống | 62 | Hình phạt phong ấn quyền hạn và hoạt động của thiên thần |
@@ -736,3 +736,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Cradle of Miracles |  | Cái Nôi Kỳ Tích | vật phẩm | 245 | Tạo tác phẩm cấp Thần tiến hóa từ Đại Thùng sau khi Yu IlHan nâng cấp bằng ma thạch cấp 5 và cộng hưởng cùng máu rồng |
 | Elo Katra |  | Elo Katra | địa danh | 247 | Thế giới bậc cao nằm ngoài Bức Tường Hỗn Loạn, đại bản doanh của Quân Đội Ma Hủy Diệt |
 | Succubus Queen |  | Nữ Hoàng Succubus | danh hiệu | 247 | Danh hiệu và chủng tộc tối cao của Helièna trong tộc succubus |
+| indestructible |  | Không thể phá hủy | hệ thống | 248 | Chỉ số độ bền của tạo tác phẩm cấp Thần |

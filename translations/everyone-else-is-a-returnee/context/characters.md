@@ -720,6 +720,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt; Nữ Hoàng Succubus.
 - Ngoại hình / Đặc điểm: Người phụ nữ vô cùng quyến rũ sở hữu ba cặp cánh dơi sau lưng, ánh mắt ma mị và mê hoặc; cực kỳ tự tin vào mị lực và quyền năng succubus của bản thân.
 - Xuất hiện tính đến chương 247: Hứng thú với Yu IlHan sau khi biết tin tức từ Zenusva; nhận nhiệm vụ quyến rũ và lôi kéo Yu IlHan về phe mình, lập tức lên đường hướng về Daréu.
+- Xuất hiện tính đến chương 248: Bị năng lực của Thần Tình Yêu qua Liera phát hiện thông tin chi tiết (succubus Lv 519, 33.985 tuổi, chuyên mị thuật và các danh hiệu quyến rũ); Yu IlHan đã nạp thông tin của ả vào ma pháp trận phòng thủ Daréu để đối phó.
 
 
 
