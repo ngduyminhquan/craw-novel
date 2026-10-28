@@ -87,6 +87,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Belkatoo |  | Belkatoo | Thực thể cấp cao chuyển chức 7, một trong các Tiểu Đoàn Trưởng thuộc Quân Đội Ma Hủy Diệt | 256 |
 | Telzaider | 4th Battalion Commander Telzaider | Telzaider | Tiểu Đoàn Trưởng Tiểu Đoàn 4 thuộc Quân Đội Ma Hủy Diệt | 256 |
 | Hillutonne | 2nd Battalion Commander, Hillutonne | Hillutonne | Tiểu Đoàn Trưởng Tiểu Đoàn 2 thuộc Quân Đội Ma Hủy Diệt | 256 |
+| Keduta |  | Keduta | Thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới tại Lanpas, người đầu tiên tìm đến Kang MiRae | 260 |
+| Titaera |  | Titaera | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh, bạn thân của Liera được cử đến đàm phán với Yu IlHan | 261 |
 
 ## Chi tiết
 
@@ -760,6 +762,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / Đặc điểm: Con cá mập khổng lồ được bọc trong bộ giáp kim loại dày cộm.
 - Xuất hiện tính đến chương 250: Xé rách không gian giáng lâm Daréu tham chiến ngay sau khi Lisona tử trận; kích hoạt biện pháp phòng thủ tối cao và chất vấn Yu IlHan vì lấy đi thi thể thủ môn nhân của phe mình.
 - Xuất hiện/tử trận tính đến chương 253: Bị mị lực của Helièna ép đảo ngược gai giáp tự cào rách thân thể và bỏ mạng tại chiến trường Daréu.
+### Keduta
+- Giới tính, vai trò: Nam, thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới.
+- Ngoại hình / Đặc điểm: Thiên thần có vầng sáng trên đầu, run rẩy và kính sợ trước uy áp áp đảo của Yu IlHan.
+- Xuất hiện tính đến chương 260: Giáng lâm phòng của Kang MiRae tại hoàng thành Palladia ở Lanpas, cầu xin mượn sức mạnh vòng xoáy ma pháp vượt chiều của cô để cứu nguy cho Quân Đội Thiên Giới; sợ hãi toát mồ hôi trước sức mạnh của IlHan.
+- Xuất hiện tính đến chương 261: Theo nhóm IlHan lên pháo đài bay và tham gia bàn đàm phán cùng Titaera.
 
-
-
+### Titaera
+- Giới tính, vai trò: Nữ, thiên thần cấp cao chuyển chức 6 thuộc Quân Đội Thiên Giới; bạn thân thiết của Liera.
+- Ngoại hình / Đặc điểm: Nữ thiên thần xinh đẹp sở hữu hai cặp cánh trắng muốt (4 cánh).
+- Xuất hiện tính đến chương 261: Được Quân Đội Thiên Giới phái đến pháo đài bay để đàm phán mượn sức mạnh vượt chiều của Kang MiRae và viện trợ của Yu IlHan trong cuộc chiến tại Bức Tường Hỗn Loạn; ban đầu cố tỏ ra cứng rắn nhưng hoàn toàn lép vế trước tài ép giá và đe dọa của Yu IlHan, cuối cùng phải chấp nhận nhượng bộ đổi 2 tạo tác phẩm cấp Thần.

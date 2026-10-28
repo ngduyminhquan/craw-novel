@@ -1594,3 +1594,11 @@ Yu IlHan nhảy xuống ban công tái ngộ Kang MiRae (đã chuyển chức 4)
 Na YuNa nhảy từ trên cao xuống sà vào lòng IlHan rồi trêu chọc và giải tỏa nỗi lo cho MiRae, xác nhận HaJin vẫn bình an; IlHan hỏi ý kiến MiRae về đề nghị của thiên thần, nhưng MiRae mỉm cười tuyên bố chỉ muốn dùng sức mạnh vượt chiều vì anh khiến tên thiên thần thở dài thất vọng.
 Cảnh kết thúc: Kim YeSeul cười rạng rỡ khi nhắm trúng MiRae làm "ứng cử viên thứ tư" cho vị trí con dâu, trong khi Yu IlHan toát mồ hôi bất an trước tình cảm mãnh liệt của cô.
 
+
+
+## 261
+Kang MiRae thu hồi lượng mana khổng lồ về người và từ biệt Nữ hoàng Irma An Ill'ta; Nữ hoàng trao tặng cô chiếc hộp chứa hai chiếc nhẫn bảo vật gia truyền của đế quốc (có thể đeo mà không tính vào giới hạn trang bị) và dặn nhớ chia sẻ cho Yu IlHan.
+Nhóm đưa thiên thần Keduta lên pháo đài bay; Kang HaJin, Yumir và Liera lần lượt chào hỏi, chúc mừng sự trưởng thành vượt bậc và nhan sắc của MiRae, khiến IlHan toát mồ hôi lo sợ không biết từ chối tình cảm thế nào.
+Nữ thiên thần cấp cao chuyển chức 6 Titaera — bạn thân cũ của Liera — được Quân Đội Thiên Giới cử đến đàm phán mượn sức mạnh vượt chiều của MiRae và chiến lực của nhóm IlHan nhằm cứu nguy chiến trường Bức Tường Hỗn Loạn.
+Bị IlHan chất vấn tội bỏ rơi Trái Đất và bác bỏ lời đề nghị vô lý "nhận MiRae làm thiên thần làm phần thưởng", Titaera phải đánh giá nhóm IlHan ngang ngửa 1/10 một phe phái thực thể cấp cao và lỡ miệng nhắc tới tạo tác phẩm cấp Thần; khi cô định thoái thác, IlHan liền gọi Mystic dọa đuổi khách khiến cô phải chịu thua.
+Cảnh kết thúc: Yu IlHan ép giá đòi không chỉ một mà là hai tạo tác phẩm cấp Thần (thậm chí dọa tăng lên ba), buộc Titaera phải run rẩy nhượng bộ đồng ý; cuộc đàm phán sơ bộ thành công mỹ mãn.

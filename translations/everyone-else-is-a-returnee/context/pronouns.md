@@ -80,6 +80,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Belkatoo | Belkatoo / hắn | 256 | Thực thể cấp cao chuyển chức 7 Quân Đội Ma Hủy Diệt |
 | Telzaider | Telzaider / gã | 256 | Tiểu Đoàn Trưởng Tiểu Đoàn 4 Quân Đội Ma Hủy Diệt |
 | Hillutonne | Hillutonne / gã | 256 | Tiểu Đoàn Trưởng Tiểu Đoàn 2 Quân Đội Ma Hủy Diệt |
+| Keduta | Keduta / tên thiên thần / gã | 260 | Thiên thần chuyển chức 5 Quân Đội Thiên Giới |
+| Titaera | cô / Titaera / nữ thiên thần | 261 | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh |
 
 ## Giữa các nhân vật
 
@@ -366,6 +368,15 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kim YeSeul | Erta | bác | cháu | 259 | Kim YeSeul đáp lại lời chào của Erta |
 | Erica | Kim YeSeul | tôi / thần | phu nhân / người / bác | 259 | Erica cung kính chào hỏi mẹ của chủ nhân |
 | Kim YeSeul | Erica | bác | cháu / cô | 259 | Kim YeSeul đáp lại lời chào của Erica |
-
-
-
+| Kang MiRae | Irma An Ill'ta | tôi | Bệ hạ | 261 | Kang MiRae chào tạm biệt Nữ hoàng Irma trước khi rời đi |
+| Irma An Ill'ta | Kang MiRae | ta / tôi | cô / MiRae | 261 | Nữ hoàng tặng bảo vật đế quốc và dặn dò MiRae |
+| Irma An Ill'ta | Yu IlHan | ta / tôi | Ngài Yu IlHan | 261 | Nữ hoàng Palladia nhờ Yu IlHan giải quyết chuyện thực thể cấp cao |
+| Yu IlHan | Irma An Ill'ta | tôi | Bệ hạ | 261 | Yu IlHan nhận lời Nữ hoàng Palladia |
+| Kang MiRae | Liera | em / tôi | chị / Liera | 261 | Tái ngộ thân mật tại pháo đài bay |
+| Liera | Kang MiRae | chị / tôi | em / Kang MiRae / MiRae | 261 | Tái ngộ thân mật tại pháo đài bay |
+| Keduta | Yu IlHan | tôi / chúng tôi | ngài | 260 | Thiên thần chuyển chức 5 kính sợ trước uy áp của IlHan |
+| Yu IlHan | Keduta | tôi | ngươi / cậu | 260 | IlHan đáp lời thiên thần chuyển chức 5 |
+| Titaera | Liera | tớ / tôi | cậu / Liera | 261 | Đôi bạn thiên thần chuyển chức 6 thân thiết lâu ngày tái ngộ |
+| Liera | Titaera | tớ / tôi | cậu / Titaera | 261 | Đôi bạn thiên thần chuyển chức 6 thân thiết lâu ngày tái ngộ |
+| Titaera | Yu IlHan | tôi / chúng tôi | cậu / Cậu Yu IlHan | 261 | Đại diện Quân Đội Thiên Giới đàm phán với Yu IlHan |
+| Yu IlHan | Titaera | tôi | cô | 261 | Yu IlHan đàm phán ép giá với thiên thần Titaera |

@@ -265,7 +265,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | reviewed |  |
 | 259 |  | Chapter_259 - Wherever I Go – 2.txt | Wherever I Go – 2 | reviewed |  |
 | 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | reviewed |  |
-| 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | todo |  |
+| 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | done |  |
 | 262 |  | Chapter_262 - Wherever I Go – 5.txt | Wherever I Go – 5 | todo |  |
 | 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | todo |  |
 | 264 |  | Chapter_264 - Wherever I Go – 7.txt | Wherever I Go – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -950,3 +951,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#258] Tiêu đề arc "Wherever I Go" dịch là "Dù Tôi Đi Đâu – N" (tạm dùng cho #258: "Dù Tôi Đi Đâu – 1"; phương án khác: "Dù Tôi Đến Đâu – N", "Bất Kể Nơi Nào Tôi Đến – N"). → Chốt dịch tiêu đề arc là Dù Tôi Đi Đâu – N (orchestrator)
 - [#258] Thế giới ngưng trệ không-thời gian "Model Garden" của Khu Vườn Hoàng Hôn dịch là "Khu Vườn Mô Hình" (tạm chốt vào glossary; phương án khác: "Vườn Mô Hình", "Khu Vườn Kiểu Mẫu"). → Chốt dịch là Khu Vườn Mô Hình (orchestrator)
 - [#260] Cụm từ "foreshadow meister" — Tạm dịch: "bậc thầy điềm báo" (thống nhất với các chương trước dịch "foreshadow" là "điềm báo"). Phương án khác: "chuyên gia cắm cờ" hoặc "bậc thầy cắm flag". → Chốt dịch là bậc thầy điềm báo (orchestrator)
+- [#261] Thuật ngữ "God-ranked artifact" — Tạm chọn: "tạo tác phẩm cấp Thần" (đồng bộ với cấp bậc 'God rank' là phẩm cấp 'Thần' trong glossary). Phương án khác: "tạo tác cấp Thần". → Chốt dịch là tạo tác phẩm cấp Thần (orchestrator)
