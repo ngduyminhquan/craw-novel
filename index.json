@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T09:19:13Z",
+  "generatedAt": "2026-10-28T09:30:05Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1570,19 +1570,19 @@
           "number": 261,
           "title": "Chương 261: Dù Tôi Đi Đâu – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_261.md",
-          "sha": "3fea222e0e07792a337b7d174c63454d9748bef4"
+          "sha": "86d50fdbbd93f6264d54aec73b75f221aa3441a5"
         },
         {
           "number": 262,
           "title": "Chương 262: Dù Tôi Đi Đâu – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_262.md",
-          "sha": "4e31703f38436f81458f73214378e59ae4b850af"
+          "sha": "b79b094baf3c57bac85ba36c3655f1c95f40c4b3"
         },
         {
           "number": 263,
           "title": "Chương 263: Dù Tôi Đi Đâu – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_263.md",
-          "sha": "096351de5b974e92dcc2bc5e56f7162081b024dc"
+          "sha": "94d0714a6396070702289eebb662a7bc837b0a81"
         }
       ]
     },

@@ -2,7 +2,7 @@
 
 Kang MiRae nhìn thẳng vào mặt Yu IlHan mà hỏi.
 
-"Anh IlHan nghĩ sao? Theo em thấy, mối quan hệ giữa anh và Quân Đội Thiên Giới dường như không còn giống như trước nữa. Có phải anh đã thoát khỏi mối quan hệ phải vô điều kiện cho họ mượn sức mạnh rồi không?"
+"Anh IlHan nghĩ sao? Theo tôi thấy, mối quan hệ giữa anh và Quân Đội Thiên Giới dường như không còn giống như trước nữa. Có phải anh đã thoát khỏi mối quan hệ phải vô điều kiện cho họ mượn sức mạnh rồi không?"
 
 "Cô cứ nghĩ như vậy cũng được. Ngay lúc này, tôi không nghĩ mình nên giúp họ mà lại đẩy cô vào chỗ nguy hiểm."
 
@@ -48,7 +48,7 @@ Nữ hoàng nở một nụ cười cay đắng sau khi ánh mắt chạm phải
 
 "Đây là...?"
 
-Đó là một chiếc hộp nhỏ, và khi mở ra, bên trong có hai chiếc nhẫn cao cấp. Đôi mắt Kang MiRae mở to khi nghe Nữ hoàng lên tiếng, trong khi cô chỉ biết gãi đầu.
+Đó là một chiếc hộp nhỏ, và khi mở ra, bên trong có hai chiếc nhẫn cao cấp. Đôi mắt Kang MiRae mở to khi Nữ hoàng vừa lên tiếng vừa gãi đầu.
 
 "Dù món này chẳng là gì so với những tạo tác mà Ngài Yu IlHan làm ra... nhưng đó là bảo vật chứa đựng tinh hoa của toàn thể đế quốc, đã được truyền qua biết bao thế hệ trong hoàng gia. Cô có thể đeo nó mà không cần bận tâm đến giới hạn trang bị tạo tác, nên hãy nhớ chia cho Ngài Yu IlHan một chiếc nhé."
 
@@ -146,7 +146,7 @@ Cứ như thế, bàn đàm phán đã được chuẩn bị xong. Yu IlHan, Kan
 
 Titaera thể hiện thái độ đầy cứng rắn.
 
-[Nếu lần này các vị giúp đỡ chúng tôi, chúng tôi sẽ bỏ qua mọi chuyện đã xảy ra giữa cậu, Cậu Yu IlHan, và Quân Đội Thiên Giới chúng tôi.]
+[Nếu lần này các vị giúp đỡ chúng tôi, chúng tôi sẽ bỏ qua mọi chuyện đã xảy ra giữa cậu, cậu Yu IlHan, và Quân Đội Thiên Giới chúng tôi.]
 
 "Ý cô là các người sẽ quên đi sự thật rằng các người đã bỏ rơi Trái Đất sau khi thương lượng với các phe phái khác chỉ vì cái cớ 'cân bằng' của các người sao?"
 
@@ -170,9 +170,9 @@ Yu IlHan tiếp tục lên tiếng như thể ngay từ đầu tất cả nhữn
 
 "Tôi không muốn nghe mấy lời tâng bốc đó. Đã nói là muốn mượn sức mạnh của cô ấy thì khế ước hòa bình phải là điều cơ bản nhất. Hãy nói về thứ khác mà các người có thể đem ra đi."
 
-"Anh IlHan ngầu quá đi mất...."
+"IlHan ngầu quá đi mất...."
 
-"Em trật tự đi."
+"Cô trật tự đi."
 
 [Liera....]
 
@@ -220,7 +220,7 @@ Yu IlHan nhìn Kang MiRae rồi hỏi cô.
 
 "Cô ta bảo là một tạo tác phẩm cấp Thần; cô thấy ổn chứ?"
 
-"Nếu đó là điều em có thể làm thì vâng, em muốn làm. Dù sao thì chuyện Quân Đội Thiên Giới đang duy trì sự cân bằng giữa các thế giới cũng là sự thật."
+"Nếu đó là điều tôi có thể làm thì vâng, tôi muốn làm. Dù sao thì chuyện Quân Đội Thiên Giới đang duy trì sự cân bằng giữa các thế giới cũng là sự thật."
 
 Câu trả lời của Kang MiRae mang tính đồng thuận. Yu IlHan gật đầu thấu hiểu rồi quay lại đối diện với Titaera thêm lần nữa. Sắc mặt cô lúc này đã tươi tỉnh hơn rất nhiều.
 

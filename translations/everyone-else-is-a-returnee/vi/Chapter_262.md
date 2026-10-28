@@ -24,7 +24,7 @@ Titaera rời đi như thế. Sau khi tiễn cô nàng, Yu IlHan thở dài mộ
 
 "Chuyện đâm ra phiền toái rồi đây. Tôi cứ ngỡ chúng ta sẽ không phải chiến đấu trong một khoảng thời gian dài chứ."
 
-"Thế thì anh cứ từ chối lời đề nghị của họ là được mà. Ngay từ đầu, người họ muốn cũng chỉ là em thôi..."
+"Thế thì anh cứ từ chối lời đề nghị của họ là được mà. Ngay từ đầu, người họ muốn cũng chỉ là tôi thôi..."
 
 "Nhưng tôi không thể tin tưởng họ thêm nữa. Tôi không thể để cô đi một mình được, cô MiRae."
 
@@ -44,7 +44,7 @@ Liera nghiêng đầu khó hiểu. Yu IlHan khẽ gật đầu rồi nói thêm.
 
 Đôi mắt Liera khẽ run rẩy. Điều cô nghĩ đến chính là những thi thể nguyên vẹn của các thực thể cấp cao đang nằm trong túi đồ của Yu IlHan.
 
-"Cậu định dấn thân vào lĩnh vực chiêu hồn sư sao? Sẽ khó khăn lắm đấy nếu cậu không quen với chức nghiệp như Paté."
+"Cậu định dấn thân vào lĩnh vực thuật chiêu hồn sao? Sẽ khó khăn lắm đấy nếu cậu không quen với chức nghiệp như Paté."
 
 "Không, thay vì là undead, nó nên được xếp vào dạng búp bê sống... Tôi muốn xử lý mấy tàn niệm phiền phức này."
 
@@ -204,7 +204,7 @@ Anh chẳng bao giờ ngờ được mẹ mình lại ấm áp và chu đáo đ�
 
 Phải, đây cũng chính là lý do khiến Yu IlHan không hề ngần ngại bắt tay vào công việc này. Tuy nhiên, tàn niệm của Helièna lại dứt khoát phản bác anh.
 
-[Tuy nhiên, chắc chàng cũng biết rồi đấy. Sức mạnh của chàng từ lâu đã phá vỡ mọi giới hạn, và kết quả là ta, người đang ở trong ý thức của chàng lúc này, lại có một ý thức tự thân vô cùng rõ ràng. Ta không nghĩ mình còn nguyên vẹn hoàn toàn, nhưng có lẽ cũng phải được ít nhất 60%. Vì thế, chàng chỉ vừa mới xẻ đôi linh hồn khi hạ sát Helièna mà thôi. Aah, ta chỉ thấy tiếc cho nửa linh hồn kia đã tan biến vĩnh viễn vào hư vô.]
+[Tuy nhiên, chắc chàng cũng biết rồi đấy. Sức mạnh của chàng từ lâu đã phá vỡ mọi giới hạn, và kết quả là ta, người đang ở trong ý thức của chàng lúc này, lại có một ý thức tự thân vô cùng rõ ràng. Ta không nghĩ mình còn nguyên vẹn hoàn toàn, nhưng có lẽ cũng phải được ít nhất 60%. Vì thế, chàng chỉ vừa mới xẻ đôi linh hồn khi hạ sát Helièna mà thôi. A, ta chỉ thấy tiếc cho nửa linh hồn kia đã tan biến vĩnh viễn vào hư vô.]
 
 "... Sao cô lại nói cho tôi biết tất cả những chuyện này?"
 

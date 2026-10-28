@@ -30,7 +30,7 @@ Yu IlHan chuyển những người sẽ đi cùng mình lên Pháo Đài Bay, c�
 
 Khi Yu IlHan quay trở lại sau khi đặt Pháo Đài Hộ Vệ cùng những người trên đó xuống Trái Đất, Titaera nhìn anh từ đầu đến chân một lượt đầy vẻ không thể tin nổi, rồi thở dài lẩm bẩm.
 
-[Một khi sức mạnh của cậu và Kang MiRae kết hợp lại, đó sẽ là một chuyện kinh thiên động địa. Bản thân tôi... không nghĩ điều đó là xấu, nhưng sẽ có rất nhiều kẻ không thích sự biến đổi to lớn xảy ra bởi các cậu đâu.]
+[Một khi sức mạnh của cậu và Kang MiRae kết hợp lại, đó sẽ là một chuyện kinh thiên động địa. Bản thân tôi... không nghĩ điều đó là xấu, nhưng sẽ có rất nhiều kẻ không thích sự biến đổi to lớn do các cậu tạo ra đâu.]
 
 "Cô biết không? Thường thì chính những kẻ nói câu đó mới là những kẻ không thích đấy. Đi thôi."
 
@@ -184,7 +184,7 @@ Liera hét lên. Titaera đáp lại với nét mặt u sầu.
 
 [Quân Đội Ma Hủy Diệt đã bày mưu tính kế chống lại chúng tôi. Bọn chúng kéo các phe phái khác tới thế giới của mình là Elo Katra, và đang cố gắng đẩy lùi chúng tôi...]
 
-"Thế thì vô lý quá. Bọn chúng dám kéo các phe phái khác vào chỉ để làm tổn hại Quân Đội Thiên Giới sao? Lũ ngu ngốc đó không thể nào ngu ngốc đến mức ấy được!"
+"Thế thì vô lý quá. Bọn chúng dám kéo các phe phái khác vào chỉ để làm tổn hại Quân Đội Thiên Giới sao? Lũ ngu ngốc đó làm sao có thể ngớ ngẩn đến mức ấy được!"
 
 [Đó là lý do Quân Đội Thiên Giới đáng sợ đấy, Erta.]
 

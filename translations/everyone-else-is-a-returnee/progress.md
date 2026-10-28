@@ -265,9 +265,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | reviewed |  |
 | 259 |  | Chapter_259 - Wherever I Go – 2.txt | Wherever I Go – 2 | reviewed |  |
 | 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | reviewed |  |
-| 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | done |  |
-| 262 |  | Chapter_262 - Wherever I Go – 5.txt | Wherever I Go – 5 | done |  |
-| 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | done |  |
+| 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | reviewed |  |
+| 262 |  | Chapter_262 - Wherever I Go – 5.txt | Wherever I Go – 5 | reviewed |  |
+| 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | reviewed |  |
 | 264 |  | Chapter_264 - Wherever I Go – 7.txt | Wherever I Go – 7 | todo |  |
 | 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | todo |  |
 | 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | todo |  |
