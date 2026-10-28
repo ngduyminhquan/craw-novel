@@ -251,7 +251,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | reviewed |  |
 | 245 |  | Chapter_245 - You Are Already Dead – 9.txt | You Are Already Dead – 9 | reviewed |  |
 | 246 |  | Chapter_246 - You Are Already Dead – 10.txt | You Are Already Dead – 10 | done |  |
-| 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | todo |  |
+| 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | done |  |
 | 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | todo |  |
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | todo |  |
 | 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | todo |  |
@@ -925,3 +925,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#244] Lời thoại cảm thán 'Insane...!\' ở đoạn 23 (raw line 48) - Tạm dịch: 'Điên thật rồi...!?' theo ngữ cảnh hội thoại thay vì dùng thuật ngữ thuộc tính 'Cuồng Loạn' (khiến QA cảnh báo). → Giữ nguyên cách dịch tự nhiên "Điên thật rồi...!?" theo ngữ cảnh hội thoại cảm thán (tương tự tiền lệ #163), bỏ qua cảnh báo false positive của QA. (orchestrator)
 - [#245] Tên tạo tác phẩm cấp Thần "Cradle of Miracles" (tiến hóa từ Đại Thùng) — Tạm chọn: "Cái Nôi Kỳ Tích". Phương án khác: "Kỳ Tích Chi Nôi". → Chốt dịch là "Cái Nôi Kỳ Tích" (tự nhiên, rõ nghĩa, đồng bộ với các tạo tác có cấu trúc danh ngữ như Lông Vũ Mê Hoặc, Hơi Thở Hoàng Kim). (orchestrator)
 - [#246] Lời thoại đoạn 64 "Sorry, I have an owner already." — Tạm chọn: Liera nói ("Xin lỗi nhé, người ta có chủ rồi.") thể hiện sự tranh giành IlHan với Na YuNa. Phương án khác: Yu IlHan nói ("Xin lỗi nhé, tôi có chủ rồi.") nhưng IlHan vốn chưa từng nhận mình có người yêu/có chủ. → Giữ nguyên cách dịch "Xin lỗi nhé, người ta có chủ rồi." (lời của Liera dùng từ "người ta" để khẳng định chủ quyền với Yu IlHan khi chặn Na YuNa). (orchestrator)
+- [#247] Thuật ngữ "Succubus Queen" — Tạm chọn: "Nữ Hoàng Succubus". Phương án khác: "Nữ Chúa Succubus". → Chốt dịch là "Nữ Hoàng Succubus" (tự nhiên, giữ nguyên tên chủng tộc phương Tây kinh điển Succubus kết hợp danh xưng Nữ Hoàng). (orchestrator)

@@ -78,6 +78,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elynard |  | Elynard | Thực thể cấp cao Lv 302 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát đầu tiên trong doanh trại | 238 |
 | Kelotuke |  | Kelotuke | Thực thể cấp cao Lv 313 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát | 238 |
 | Galayton |  | Galayton | Thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát khiến đồng bọn phát hiện doanh trại bị đột kích | 238 |
+| Zenusva |  | Zenusva | Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt, cự điểu khổng lồ bằng ma hỏa mana | 247 |
+| Melohinne |  | Melohinne | Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt, nữ ma tộc cao 20m da trắng như băng | 247 |
+| Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi | 247 |
 
 ## Chi tiết
 
@@ -702,5 +705,21 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Galayton
 - Giới tính, vai trò: Vô tính, thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu.
 - Xuất hiện tính đến chương 238: Bị Yu IlHan ám sát; việc biến mất của hắn khiến các thực thể cấp cao khác trong doanh trại nhận ra điều bất thường và phát hiện doanh trại đang bị tập kích.
+
+### Zenusva
+- Giới tính, vai trò: Thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt.
+- Ngoại hình / Đặc điểm: Con chim khổng lồ được tạo thành từ ngọn lửa mana thuần khiết, miệng phun hơi thở tựa dung nham nóng rực.
+- Xuất hiện tính đến chương 247: Tham gia hội nghị các Tiểu Đoàn Trưởng tại đền thờ Elo Katra để bàn về cái chết của Echjar; ban đầu tức giận đòi báo thù cho Echjar nhưng sau đó bị thuyết phục đồng thuận với kế hoạch chiêu mộ Yu IlHan.
+
+### Melohinne
+- Giới tính, vai trò: Nữ, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt.
+- Ngoại hình / Đặc điểm: Nữ chỉ huy khổng lồ cao 20m, làn da trắng bệch như băng tuyết, vô cùng xinh đẹp theo tiêu chuẩn con người; tính cách mạnh bạo, thích chiếm hữu.
+- Xuất hiện tính đến chương 247: Đề xuất lôi kéo Yu IlHan vào Quân Đội Ma Hủy Diệt thay vì thù oán; tranh giành Yu IlHan với Helièna trong hội nghị Tiểu Đoàn Trưởng.
+
+### Helièna
+- Giới tính, vai trò: Nữ, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt; Nữ Hoàng Succubus.
+- Ngoại hình / Đặc điểm: Người phụ nữ vô cùng quyến rũ sở hữu ba cặp cánh dơi sau lưng, ánh mắt ma mị và mê hoặc; cực kỳ tự tin vào mị lực và quyền năng succubus của bản thân.
+- Xuất hiện tính đến chương 247: Hứng thú với Yu IlHan sau khi biết tin tức từ Zenusva; nhận nhiệm vụ quyến rũ và lôi kéo Yu IlHan về phe mình, lập tức lên đường hướng về Daréu.
+
 
 

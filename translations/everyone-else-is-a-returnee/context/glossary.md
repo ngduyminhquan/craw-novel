@@ -734,3 +734,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dragon of Despair |  | Tuyệt Vọng Chi Long | danh hiệu | 242 | Danh hiệu của con rồng chuyển chức 7 Echjar thuộc Quân Đội Ma Hủy Diệt |
 | King of Dragons |  | Long Vương | danh hiệu | 243 | Danh hiệu tự xưng của Echjar, rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
 | Cradle of Miracles |  | Cái Nôi Kỳ Tích | vật phẩm | 245 | Tạo tác phẩm cấp Thần tiến hóa từ Đại Thùng sau khi Yu IlHan nâng cấp bằng ma thạch cấp 5 và cộng hưởng cùng máu rồng |
+| Elo Katra |  | Elo Katra | địa danh | 247 | Thế giới bậc cao nằm ngoài Bức Tường Hỗn Loạn, đại bản doanh của Quân Đội Ma Hủy Diệt |
+| Succubus Queen |  | Nữ Hoàng Succubus | danh hiệu | 247 | Danh hiệu và chủng tộc tối cao của Helièna trong tộc succubus |

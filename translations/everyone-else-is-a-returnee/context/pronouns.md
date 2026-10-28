@@ -71,6 +71,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | El Phisadein | hắn / El Phisadein | 230 | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn bị IlHan tiêu diệt |
 | Orochi | Orochi | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan |
 | Echjar | nó / Echjar / con rồng | 242 | Con rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
+| Zenusva | nó / Zenusva / con chim khổng lồ | 247 | Cự điểu ma hỏa, Tiểu Đoàn Trưởng Tiểu Đoàn 8 Quân Đội Ma Hủy Diệt |
+| Melohinne | cô / Melohinne / nữ chỉ huy | 247 | Nữ chỉ huy cao 20m, Tiểu Đoàn Trưởng Tiểu Đoàn 10 Quân Đội Ma Hủy Diệt |
+| Helièna | cô / ả / Helièna | 247 | Nữ Hoàng Succubus, Tiểu Đoàn Trưởng Tiểu Đoàn 3 Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -324,6 +327,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Echjar | Yu IlHan | ta | ngươi / tên con người | 244 | Echjar giận dữ tấn công và nguyền rủa IlHan |
 | Yu IlHan | Echjar | ta | ngươi | 244 | Thống nhất xưng ta - gọi ngươi khi đối đầu sinh tử |
 | Orochi | Yu IlHan | ta | chủ nhân | 245 | Orochi gọi IlHan là chủ nhân khi nói chuyện |
+| Melohinne | Helièna | ta | ngươi | 247 | Tranh giành Yu IlHan trong hội nghị Tiểu Đoàn Trưởng |
+| Helièna | Melohinne | ta | ngươi | 247 | Tranh giành Yu IlHan trong hội nghị Tiểu Đoàn Trưởng |
+| Zenusva | * | ta | các ngươi | 247 | Quát mắng các Tiểu Đoàn Trưởng khác trong hội nghị |
 
 
 

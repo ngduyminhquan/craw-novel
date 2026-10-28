@@ -1507,3 +1507,9 @@ Spiera và Liera giải thích con đường duy nhất để tiến vào cảnh
 Yu IlHan dùng Dịch Chuyển đưa cả nhóm quay lại Daréu, bỏ mặc Spiera ở lại giữa đám thiên thần đang nháo nhào hoang mang để cô tự giải trình về cái chết của Echjar, còn anh và Liera dịch chuyển về doanh trại tiền đồn cũ hội quân với thuộc hạ.
 Na YuNa lao tới ôm chầm lấy IlHan dẫn đến màn tranh cãi hài hước giữa cô và Liera (Na YuNa dùng cả ma pháp bảo hộ của Leytna xuyên qua Aegis); Mirfa và Erica mừng rỡ chào đón chủ nhân và thở phào khi biết con rồng chuyển chức 7 đã chết.
 Cảnh kết thúc: Để giải phóng chiếc túi đồ đang quá tải, Yu IlHan triệu tập khoảng mười thợ rèn elf ra và trao cho họ một xác rồng chuyển chức 4 để tự do luyện tập rèn đúc mà không sợ lãng phí, mỉm cười tiết lộ trong túi đồ vẫn còn hơn 3.298 cái xác rồng nữa.
+
+## 247
+Yu IlHan an ủi Yumir sau khi cậu bé bị sốc và tự ti trước uy lực áp đảo của Echjar; sau màn đòi "mang con dâu về cho bố" dở khóc dở cười, Yumir lấy lại quyết tâm rèn luyện và Yu IlHan chuẩn bị mở đại tiệc thịt rồng ăn mừng chiến thắng đầu tiên của liên minh.
+Cái chết của Tiểu Đoàn Trưởng Tiểu Đoàn 13 Echjar gây chấn động khắp các phe phái; ngoại trừ Quân Đội Thiên Giới bị các phe khác nghi ngờ đứng sau vụ việc, chỉ có Quân Đội Ma Hủy Diệt nhanh chóng nắm bắt được chính Yu IlHan mới là người hạ sát Echjar.
+Tại đại bản doanh Elo Katra ngoài Bức Tường Hỗn Loạn, hội nghị các Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt (gồm cự điểu Zenusva, nữ khổng lồ Melohinne...) bàn tán sôi nổi và đồng thuận sẽ lôi kéo Yu IlHan gia nhập thay vì thù oán.
+Cảnh kết thúc: Tiểu Đoàn Trưởng Tiểu Đoàn 3 Helièna (Nữ Hoàng Succubus) tự tin vào mị thuật của bản thân, nhận nhiệm vụ quyến rũ Yu IlHan và lập tức lên đường hướng về Daréu, đẩy quy mô cuộc chiến lên cấp độ hoàn toàn mới.
