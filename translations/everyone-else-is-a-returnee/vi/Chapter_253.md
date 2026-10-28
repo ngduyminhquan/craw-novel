@@ -34,7 +34,7 @@ Con cá mập đảo ngược những chiếc gai nhọn trên lớp giáp và t
 
 [Khự.... Hực!]
 
-[Phù phù, ngươi đẹp lắm, Natière. Giờ ngươi là lúc xinh đẹp nhất từ trước tới nay đấy.]
+[Hì hì hì, ngươi đẹp lắm, Natière. Giờ ngươi là lúc xinh đẹp nhất từ trước tới nay đấy.]
 
 [Khụ a a a a a a a a a a a a a a!]
 
@@ -270,7 +270,7 @@ Yu IlHan xoay ngọn thương để kết liễu ả hoàn toàn. Đoạn, anh c
 
 "Thế nhưng Liera mới là người bạn đời duy nhất của tôi."
 
-Chẳng đời nào Yu IlHan lại đi tin một người phụ nữ nói ra từ 'yêu' một cách dễ dàng đến thế, thứ tình cảm mà chính anh đã phải mất hàng trăm năm mới có thể chấp nhận và thừa nhận. Thêm vào đó, anh chẳng hề biết tâm đồ thực sự của ả là gì, cũng chẳng rõ liệu chúng có thuần khiết hay không!
+Chẳng đời nào Yu IlHan lại đi tin một người phụ nữ nói ra từ 'yêu' một cách dễ dàng đến thế, thứ tình cảm mà chính anh đã phải mất hàng trăm năm mới có thể chấp nhận và thừa nhận. Thêm vào đó, anh chẳng hề biết ý đồ thực sự của ả là gì, cũng chẳng rõ liệu chúng có thuần khiết hay không!
 
 Kể từ khoảnh khắc ả không nhận ra điều đó, kết cục của Helièna coi như đã được định đoạt.
 

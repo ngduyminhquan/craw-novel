@@ -25,7 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Reta Kar'iha | Reta | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
-| Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến; tính đến #243 liều mình cầm chân Echjar rồi được IlHan dịch chuyển về Trái Đất; tính đến #244-#245 cùng Yu IlHan quyết chiến với Echjar tại Trái Đất và bị trọng thương, sau đó chứng kiến IlHan kết liễu Echjar; tính đến #246 chèo kéo IlHan gia nhập Quân Đội Thiên Giới bất thành, rồi bị IlHan bỏ lại Daréu một mình gánh việc giải trình về cái chết của Echjar | 62 |
+| Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến; tính đến #243 liều mình cầm chân Echjar rồi được IlHan dịch chuyển về Trái Đất; tính đến #244-#245 cùng Yu IlHan quyết chiến với Echjar tại Trái Đất và bị trọng thương, sau đó chứng kiến IlHan kết liễu Echjar; tính đến #246 chèo kéo IlHan gia nhập Quân Đội Thiên Giới bất thành, rồi bị IlHan bỏ lại Daréu một mình gánh việc giải trình về cái chết của Echjar; đã giải trừ khế ước Bạn Đồng Hành Thiên Thần với Yu IlHan và tử trận ở #253 sau trận quyết đấu sinh tử cùng anh | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
@@ -80,10 +80,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Galayton |  | Galayton | Thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát khiến đồng bọn phát hiện doanh trại bị đột kích | 238 |
 | Zenusva |  | Zenusva | Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt, cự điểu khổng lồ bằng ma hỏa mana | 247 |
 | Melohinne |  | Melohinne | Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt, nữ ma tộc cao 20m da trắng như băng | 247 |
-| Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi | 247 |
+| Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi; bị Yu IlHan đâm xuyên tim kết liễu ở #253 sau khi dọn sạch chiến trường Daréu | 247 |
 | Lisona |  | Lisona | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn tại Daréu, nửa thân trên là phụ nữ nửa thân dưới là rắn | 250 |
-| Natière | Nati | Natière | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (Quân Đội Ánh Sáng Rực Rỡ) | 250 |
-| Kelatuke |  | Kelatuke | Đại Thủ Môn Nhân của Khu Vườn Hoàng Hôn, cá mập khổng lồ chuyển chức 7 bọc giáp kim loại dày | 250 |
+| Natière | Nati | Natière | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (Quân Đội Ánh Sáng Rực Rỡ); bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
+| Kelatuke |  | Kelatuke | Đại Thủ Môn Nhân của Khu Vườn Hoàng Hôn, cá mập khổng lồ chuyển chức 7 bọc giáp kim loại dày; bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
 
 ## Chi tiết
 

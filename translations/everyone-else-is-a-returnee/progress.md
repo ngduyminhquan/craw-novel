@@ -256,9 +256,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | reviewed |  |
 | 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | reviewed |  |
 | 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | reviewed |  |
-| 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | done |  |
-| 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | done |  |
-| 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | done |  |
+| 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | reviewed |  |
+| 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | reviewed |  |
+| 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | reviewed |  |
 | 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | todo |  |
 | 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | todo |  |
 | 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | todo |  |
@@ -940,3 +940,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#252] Danh xưng "Ruler" (chỉ lãnh đạo tối cao của phe phái Quân Đội Ma Hủy Diệt) — Tạm chọn: "Kẻ Thống Trị". Phương án khác: "Đấng Thống Trị", "Thống Trị Giả". Tạm dùng trong bản dịch: "Kẻ Thống Trị". → Chốt Kẻ Thống Trị (lãnh đạo tối cao của Quân Đội Ma Hủy Diệt) (orchestrator)
 - [#253] Thuật ngữ "fifth God" (Helièna nói về việc IlHan sẽ trở thành người sáng lập phe phái thứ năm) — Tạm chọn: "Vị Thần Thứ Năm". Phương án khác: "Đấng Thứ Năm". → Chốt Vị Thần Thứ Năm (người sáng lập phe phái thực thể cấp cao thứ năm) (orchestrator)
 - [#254] 'God' trong lời thoại của Erta và Liera ('make him a God', 'become a God all by himself'): tạm dịch là 'vị Thần' theo ngữ cảnh Yu IlHan trở thành Vị Thần Thứ Năm, tránh nhầm lẫn với 'Thượng Đế'. → Giữ nguyên cách dịch 'vị Thần' theo ngữ cảnh Yu IlHan trở thành Vị Thần Thứ Năm (bỏ qua cảnh báo false positive của QA) (orchestrator)
+- [#252-254] Bổ sung mục 'Fallen Angel' -> 'thiên thần sa ngã' vào glossary.md → Bác thêm vào glossary.md vì là danh từ chung (đã ghi ở mục từ chung đã xóa dòng 38), chỉ sửa trực tiếp trong bản dịch chương 254 thành "thiên thần sa ngã". (orchestrator)

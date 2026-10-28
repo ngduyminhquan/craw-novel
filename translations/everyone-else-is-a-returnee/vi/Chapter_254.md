@@ -8,7 +8,7 @@
 
 Yu IlHan lập tức thu lấy thi thể của Helièna khi ả trượt khỏi ngọn thương của mình rồi nhìn lại chiến trường.
 
-Vô số xác chết của các thiên thần và sa ngã thiên thần, cũng như tàn tích của Natière và Kelatuke vốn vẫn đang lơ lửng giữa không trung nhờ vào lượng mana hùng hậu bao bọc lấy chúng kể cả sau khi đã chết – tất cả những thứ này từng là tài sản của Helièna. Thế nhưng, vì ả đã chết, giờ đây chúng đều là vật vô chủ. Vì không nỡ từ chối, anh cũng thu tất cả bọn chúng vào túi đồ của mình.
+Vô số xác chết của các thiên thần và thiên thần sa ngã, cũng như tàn tích của Natière và Kelatuke vốn vẫn đang lơ lửng giữa không trung nhờ vào lượng mana hùng hậu bao bọc lấy chúng kể cả sau khi đã chết – tất cả những thứ này từng là tài sản của Helièna. Thế nhưng, vì ả đã chết, giờ đây chúng đều là vật vô chủ. Vì không nỡ từ chối, anh cũng thu tất cả bọn chúng vào túi đồ của mình.
 
 "IlHan."
 
@@ -96,7 +96,7 @@ Liera và Yumir chiến đấu với kẻ địch ở phía trước; Erta hỗ 
 
 [Chủ nhân, vừa có chuyện lớn xảy ra ở đây đúng không? Mana quanh khu vực này vặn xoắn dữ dội quá...]
 
-"Chuyện lớn đang diễn ra ngay lúc này đấy. Mystic, không cần ta phải bảo thì cô cũng biết phải làm gì rồi chứ?"
+"Chuyện lớn đang diễn ra ngay lúc này đấy. Mystic, không cần tôi phải bảo thì cô cũng biết phải làm gì rồi chứ?"
 
 [Lại đánh trống lảng rồi... Đương nhiên là tôi biết chứ!]
 
@@ -192,7 +192,7 @@ Còn 6 tiếng nữa cho đến khi anh có thể kích hoạt kỹ năng Chúa 
 
 "Hứ, câm miệng lại hếttttt điiii!"
 
-Khi ma pháp của Erta trói chặt quân địch, ngọn thương của Liera phóng ra những làn sóng xung kích xé toạc không trung. Cùng với sự hỗ trợ từ phong ma pháp của Yumir giúp gia tăng uy lực của sóng xung kích, ba sa ngã thiên thần đã bỏ mạng cùng một lúc.
+Khi ma pháp của Erta trói chặt quân địch, ngọn thương của Liera phóng ra những làn sóng xung kích xé toạc không trung. Cùng với sự hỗ trợ từ phong ma pháp của Yumir giúp gia tăng uy lực của sóng xung kích, ba thiên thần sa ngã đã bỏ mạng cùng một lúc.
 
 [Đã sa ngã rồi mà các ngươi vẫn mạnh đến mức này, ta không thể tin được... ta!]
 

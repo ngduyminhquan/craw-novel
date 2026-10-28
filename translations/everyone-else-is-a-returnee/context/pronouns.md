@@ -349,6 +349,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Helièna | em | chị / chị gái | 251 | Na YuNa can ngăn khi thấy Helièna dồn toàn lực mê hoặc Yu IlHan |
 | Spiera | Helièna | ta | succubus / ngươi | 253 | Spiera căm phẫn đối đầu và đòi tiêu diệt Helièna |
 | Helièna | Spiera | ta | ngươi / nữ thiên thần | 253 | Helièna trêu chọc và ép Spiera hủy bỏ khế ước |
+| Spiera | Yu IlHan | tôi | cậu / Yu IlHan | 253 | Giải trừ khế ước Bạn Đồng Hành Thiên Thần và quyết đấu bài học cuối cùng trước khi tử trận |
+| Yu IlHan | Spiera | tôi | cô / Spiera | 253 | Giải trừ khế ước Bạn Đồng Hành Thiên Thần, quyết đấu bài học cuối cùng và tiễn đưa Spiera |
 
 
 
