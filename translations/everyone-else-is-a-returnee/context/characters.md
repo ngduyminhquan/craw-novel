@@ -30,12 +30,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
-| Liera | Lieara; LIera | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
+| Liera | Lieara; LIera; Lier | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
 | Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
-| Teraka | Teraka-nim | Teraka | Con rồng thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu; tính đến #237-#241 đã đột phá lên chuyển chức 6 và dẫn dắt 5.000 con rồng sơ sinh | 101 |
+| Teraka | Teraka-nim | Teraka | Con rồng thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu; tính đến #237-#241 đã đột phá lên chuyển chức 6 và dẫn dắt 5.000 con rồng sơ sinh; tử trận ở #242 dưới một thương của Spiera | 101 |
+| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka và bầy rồng bị tiêu diệt | 242 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |

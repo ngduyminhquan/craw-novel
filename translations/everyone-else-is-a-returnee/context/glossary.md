@@ -729,3 +729,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | meteor strike | Meteor strikes; meteor strikes | cú va chạm thiên thạch | khác | 237 | Kỹ thuật phối hợp điên rồ giáng thẳng hai pháo đài đã được Na YuNa thánh hóa xuống đầu kẻ thù với tốc độ cực nhanh do Mystic điều khiển |
 | Destiny Archer |  | Cung Thủ Định Mệnh | chức nghiệp | 239 | Chức nghiệp chuyển chức lần 4 của Paté đạt được sau khi hạ sát thực thể cấp cao |
 | God of curses | god of curses; god of curse | Thần Lời Nguyền | khác | 239 | Vị thần hình thành từ tích lũy ghi chép lời nguyền trong Hồ Sơ Akashic muốn ban phước cho Paté |
+| Battalion Commander |  | Tiểu Đoàn Trưởng | cấp bậc | 242 | Chức vụ chỉ huy tiểu đoàn trong Quân Đội Ma Hủy Diệt, như Echjar là Tiểu Đoàn Trưởng Tiểu Đoàn 13 |
+| Dragon of Despair |  | Tuyệt Vọng Chi Long | danh hiệu | 242 | Danh hiệu của con rồng chuyển chức 7 Echjar thuộc Quân Đội Ma Hủy Diệt |

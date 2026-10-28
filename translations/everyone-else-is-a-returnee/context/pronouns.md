@@ -70,6 +70,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Katlar | hắn / Katlar | 229 | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt |
 | El Phisadein | hắn / El Phisadein | 230 | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn bị IlHan tiêu diệt |
 | Orochi | Orochi | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan |
+| Echjar | Echjar / con rồng | 242 | Con rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 

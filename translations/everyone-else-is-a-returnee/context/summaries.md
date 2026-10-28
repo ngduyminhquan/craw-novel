@@ -1477,5 +1477,12 @@ Yu IlHan cho quân đội nghỉ ngơi và thông qua Erta để đại thiên t
 Yu IlHan che giấu toan tính riêng và cho Spiera xem núi xác hơn 300 thực thể cấp cao trong túi đồ khiến cô kinh ngạc tột độ; Spiera chấp nhận ẩn mình vào bóng của anh để phối hợp tác chiến, đồng thời thấu hiểu và chúc phúc cho tình cảm giữa Liera và IlHan.
 Cảnh kết thúc: Yu IlHan bao bọc hai tòa pháo đài trong kỹ năng Ẩn Thân và kích hoạt ma pháp trận dịch chuyển tới chiến trường nơi bầy rồng của Teraka đang kịch chiến long trời lở đất với Quân Đội Thiên Giới.
 
+## 242
+Đến chiến trường nơi bầy rồng của Teraka đang giao chiến ác liệt với Quân Đội Thiên Giới, Spiera nhờ hiệu quả Ẩn Thân của Yu IlHan đã bất ngờ tung đòn 'Đại Đoạn Vũ Trụ Thương' chém bay đầu Teraka trong một chiêu duy nhất; Yu IlHan thu xác Teraka Lv 411 vào Túi đồ và nhận kinh nghiệm cùng ghi chép.
+Mất đi thủ lĩnh, 5.000 con rồng sơ sinh rơi vào hoảng loạn; Yu IlHan cùng đồng minh từ hai pháo đài (Mystic bắn Bách Nhãn tiêu diệt hơn 100 rồng, Na YuNa ban chúc phúc, Yumir cùng liên quân càn quét) phối hợp với các thiên thần tàn sát bầy rồng để cày cấp và thu hoạch nguyên liệu quý giá.
+Trong lúc bầy rồng sắp bị tiêu diệt hoàn toàn, bầu trời Daréu bỗng rách toạc làm đôi khi toàn bộ lực lượng Quân Đội Ma Hủy Diệt tại Daréu bị quét sạch, mở đường cho Echjar – con rồng khổng lồ chuyển chức 7, Tiểu Đoàn Trưởng Tiểu Đoàn 13 kiêm Tuyệt Vọng Chi Long – giáng lâm đòi nợ máu.
+Cảnh kết thúc: Giữa lúc các thiên thần và liên quân rơi vào tuyệt vọng trước uy áp kinh hoàng của con rồng chuyển chức 7, Yu IlHan lại sáng rực mắt háo hức thèm muốn lấy nguyên liệu từ Echjar để chế tạo trang bị mới.
+
+
 
 
