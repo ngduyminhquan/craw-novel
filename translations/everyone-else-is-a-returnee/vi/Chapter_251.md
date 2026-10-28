@@ -1,6 +1,6 @@
 # Chương 251: Ngươi Cũng Được Hoan Nghênh – 3
 
-[Anh yêu, chàng táo bạo thật đấy! Ta thích sự táo bạo này của chàng rồi.]
+[Chàng ơi, chàng táo bạo thật đấy! Ta thích sự táo bạo này của chàng rồi.]
 
 "Cảm ơn, tôi cũng thích cái sự táo bạo của mình lắm."
 
@@ -178,7 +178,7 @@ Yu IlHan liền bảo Yumir lùi ra xa khỏi đám thiên thần đang nhốn n
 
 Chỉ duy nhất nhóm của Yu IlHan, nhóm xét về mặt khách quan là sở hữu chiến lực thấp nhất, lại hoàn toàn bình an vô sự trước mị hoặc! Lũ thực thể cấp cao kia thực sự nên bỏ việc mà đi tu luyện lại từ đầu đi thì hơn — anh thực tâm nghĩ như vậy.
 
-[Anh yêu, chàng biết rõ mọi chuyện xảy ra đều là vì chàng, đúng không nào?]
+[Chàng à, chàng biết rõ mọi chuyện xảy ra đều là vì chàng, đúng không nào?]
 
 Khoảnh khắc tiếp theo, Helièna đã xuất hiện ngay trước mặt Yu IlHan. Yu IlHan thoáng cân nhắc việc kích hoạt lại ma pháp trận để nới rộng khoảng cách, nhưng rồi quyết định từ bỏ sau khi nhận định rằng dù có làm vậy thì tình hình xung quanh cũng chẳng có gì thay đổi.
 

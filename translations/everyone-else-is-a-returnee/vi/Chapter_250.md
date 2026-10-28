@@ -216,7 +216,7 @@ Diện mạo của ả, thứ tỏa ra mị lực mãnh liệt nhắm thẳng v�
 
 [Vị Tiểu Đoàn Trưởng thứ hai đến từ Quân Đội Ma Hủy Diệt...!?]
 
-[Ôi chao, ta đâu có muốn bị những kẻ khác phát hiện chứ. Tất cả là tại chàng đấy, anh yêu à. Chàng sẽ chịu trách nhiệm, đúng không nào?]
+[Ôi chao, ta đâu có muốn bị những kẻ khác phát hiện chứ. Tất cả là tại chàng đấy, người thương à. Chàng sẽ chịu trách nhiệm, đúng không nào?]
 
 Helièna nháy mắt với Yu IlHan. Thế nhưng, Yu IlHan chỉ nghiêng đầu thắc mắc. Có vẻ như các dòng thuộc tính của chiếc mũ giáp vẫn chưa hề kích hoạt, vậy mà trái tim anh vẫn bình lặng như tờ như mọi khi.
 

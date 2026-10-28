@@ -32,13 +32,13 @@ Dẫu sự kiện đánh thức sức mạnh loài rồng là khế ước với
 
 "Nên có khi mọi người cũng làm được đấy. Cứ bắt đầu với một con rồng chuyển chức 4 tương đối yếu xem sao. Vừa uống rượu vừa ngâm bồn, chẳng phải quá tuyệt sao?"
 
-"Nghe chẳng lành chút nào... mà thôi, nếu làm cùng anh thì chắc là ổn thôi."
+"Nghe chẳng lành chút nào... mà thôi, nếu làm cùng cậu thì chắc là ổn thôi."
 
 Máu của Echjar chỉ là một phần nhỏ trong số phần thi thể còn lại. Da, xương và cơ bắp của nó đều thuộc hàng phẩm chất cao nhất. Điểm quan trọng nhất là với kích thước khổng lồ ấy, số lượng thu được nhiều vô kể! Số nguyên liệu này thừa sức trang bị cho cả một đội quân mà vẫn còn dư dả.
 
 "Nhưng mọi người đều có trang bị cả rồi mà."
 
-"Đừng bảo là anh lại định xây pháo đài bay thứ ba đấy nhé."
+"Đừng bảo là cậu lại định xây pháo đài bay thứ ba đấy nhé."
 
 "Tôi cũng nghĩ là tạm thời chưa cần đến nó."
 
@@ -108,7 +108,7 @@ Nói năng ngớ ngẩn đến thế chỉ vì cố tìm cách nói vòng vo! L�
 
 Anh liếc nhìn Paté, Mirey, Jirl, Erica cùng các thuộc hạ khác, gật đầu rồi di chuyển sang Trái Đất. Ngay khoảnh khắc tiếp theo, anh trở lại Daréu một mình... hoặc ít nhất là anh định làm thế, cho đến khi ống tay áo bị túm lại.
 
-"Cho em đi cùng với."
+"Cho tôi đi cùng với."
 
 "Anh cần buff hỗ trợ mà, đúng không?"
 
@@ -118,7 +118,7 @@ Thở dài một tiếng, anh quay đầu nhìn lại. Đó là Liera, Na YuNa v
 
 "Mọi người có tự tin vào khả năng kháng mê hoặc không đấy?"
 
-"Em đã nhận phước lành từ Thần Tình Yêu. Nghĩa là chỉ cần em vẫn còn yêu anh thì sẽ chẳng bị bất kỳ ma pháp mê hoặc nào tác động hết."
+"Tôi đã nhận phước lành từ Thần Tình Yêu. Nghĩa là chỉ cần tôi vẫn còn yêu cậu thì sẽ chẳng bị bất kỳ ma pháp mê hoặc nào tác động hết."
 
 "Còn em thì nhận phước lành từ Nữ Thần Sắc Đẹp. Chẳng có ai đẹp hơn em đâu, nên anh đừng lo."
 
@@ -264,7 +264,7 @@ Dù sao đi nữa, với việc này thì mọi khâu chuẩn bị mà anh có t
 
 "Thôi được rồi. Nếu thế này mà tôi vẫn dính nguyền rủa, cô cứ việc gọi tôi là Nguyền Vương đi."
 
-"Nghe chẳng hiểu sao lại thấy ngầu đấy chứ! Còn nếu anh bị ả succubus đó quyến rũ, em sẽ gọi anh là chân bủn rủn. Á, hết mười phút rồi kìa."
+"Nghe chẳng hiểu sao lại thấy ngầu đấy chứ! Còn nếu cậu bị ả succubus đó quyến rũ, tôi sẽ gọi cậu là chân bủn rủn. Á, hết mười phút rồi kìa."
 
 Khoảnh khắc một lý do mới khiến anh không thể bị quyến rũ được thêm vào, Yu IlHan liền kiểm tra trạng thái cùng vị trí của Erta rồi kích hoạt ma pháp trận.
 

@@ -337,7 +337,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Lisona | tôi | cô / các người / ngươi | 250 | Erta vờ tiếp nhận nghi thức rồi lật kèo kích hoạt ma pháp phản công |
 | Lisona | Yu IlHan | ta | Yu IlHan / ngươi | 250 | Lisona phẫn nộ trước đòn tập kích bất ngờ của Yu IlHan |
 | Yu IlHan | Lisona | ta / tôi | ngươi / các ngươi | 250 | Yu IlHan xuất hiện đâm trọng thương Lisona |
-| Helièna | Yu IlHan | em / ta | chàng / anh / darling / Yu IlHan | 250 | Helièna giáng lâm Daréu buông lời quyến rũ Yu IlHan |
+| Helièna | Yu IlHan | ta | chàng / người thương / Yu IlHan | 250 | Helièna giáng lâm Daréu buông lời quyến rũ Yu IlHan |
 | Helièna | Natière | ta | Natière / cô | 250 | Hai nữ chỉ huy chuyển chức 7 chạm trán trên chiến trường Daréu |
 | Natière | Helièna | ta | Helièna / ngươi | 250 | Natière chất vấn Helièna về việc phá vỡ liên minh |
 | Kelatuke | * | ta | các ngươi | 250 | Kelatuke giáng lâm tuyên bố kích hoạt phòng thủ tối cao |
