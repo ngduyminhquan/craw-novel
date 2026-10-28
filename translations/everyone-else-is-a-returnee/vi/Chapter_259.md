@@ -186,7 +186,7 @@ Dẫu vậy, bà không thể bật khóc khi những đứa trẻ trước mặ
 
 "Tuyệt quá!"
 
-Những đứa trẻ reo mừng khi nghe thấy bà cùng chung một dòng máu với anh và được Kim YeSeul ôm vào lòng. Yu IlHan đứng nhìn cảnh tượng đó và cảm thấy nhẹ nhõm trong lòng.
+Những đứa trẻ reo mừng khi biết bà cùng chung dòng máu với anh và khi được Kim YeSeul ôm vào lòng. Yu IlHan đứng nhìn cảnh tượng đó và cảm thấy nhẹ nhõm trong lòng.
 
 Dù chúng đi theo Yu IlHan và Yumir, nhưng tình cảm của cả hai người đều không thể xem là bình thường. Có lẽ Kim YeSeul sẽ có thể lấp đầy khoảng trống còn sót lại trong tâm hồn những đứa trẻ. Anh thực tâm mong mỏi mọi chuyện sẽ được như thế.
 

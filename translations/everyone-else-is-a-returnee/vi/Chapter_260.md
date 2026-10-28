@@ -74,7 +74,7 @@ Kim YeSeul, người dường như chỉ chậm hơn Yu IlHan một bước, th�
 
 [Đừng nói nơi này chính là... Vậy nghĩa là con người thực sự, Ửm!?]
 
-Một đôi cánh lông vũ màu trắng muốt sau lưng, cùng với một vòng hào quang hoàng kim tỏa sáng rực rỡ trên đỉnh đầu — diện mạo này chỉ có thể chỉ một sự tồn tại duy nhất. Một chi trảo của Quân Đội Thiên Giới, một thiên thần, cuối cùng cũng lộ diện tại nơi này.
+Một đôi cánh lông vũ màu trắng muốt sau lưng, cùng với một vòng hào quang hoàng kim tỏa sáng rực rỡ trên đỉnh đầu — diện mạo này chỉ có thể thuộc về một sự tồn tại duy nhất. Một chi trảo của Quân Đội Thiên Giới, một thiên thần, cuối cùng cũng lộ diện tại nơi này.
 
 Mặc dù Yu IlHan thậm chí còn chưa hề làm gì cả!
 
@@ -90,7 +90,7 @@ Mặc dù Yu IlHan không biết vì sao tên thiên thần này lại tìm tớ
 
 Mọi thực thể cấp cao thuộc về một phe phái chỉ được phép sử dụng sức mạnh của họ ở thế giới cấp thấp để tự vệ. Nghĩa là, họ chỉ có thể phản kích sau khi bị tấn công.
 
-Dù thông thường điều này chẳng thành vấn đề, bởi lẽ chẳng đời nào một thực thể cấp thấp có thể làm tổn thương thực thể cấp cao trước, nhưng Yu IlHan lại là một con quái vật siêu cấp có khả năng băm vằn không chỉ thực thể chuyển chức 5 mà cả thực thể chuyển chức 6! Tên thiên thần này nhìn thấy anh mà không cắm đầu bỏ chạy thì đã là làm tốt lắm rồi.
+Dù thông thường điều này chẳng thành vấn đề, bởi lẽ chẳng đời nào một thực thể cấp thấp có thể làm tổn thương thực thể cấp cao trước, nhưng Yu IlHan lại là một con quái vật siêu cấp có khả năng băm vằm không chỉ thực thể chuyển chức 5 mà cả thực thể chuyển chức 6! Tên thiên thần này nhìn thấy anh mà không cắm đầu bỏ chạy thì đã là làm tốt lắm rồi.
 
 Chà, niềm kiêu hãnh của kẻ từng đứng trên đỉnh cao thế giới của riêng mình đã giữ chân hắn ở lại.
 

@@ -68,7 +68,7 @@ Kim YeSeul chỉ tay xuống mặt nước. Những bọt nước mà trước �
 
 "Hì hì, mẹ cũng chẳng rõ nữa. Dù sao thì mẹ đã học được ma pháp như thế đấy. Tiếp theo sau đó."
 
-Ngoại trừ việc không thể luyện tập điều khiển mana, những gì bà đã trải qua rất giống với trải nghiệm của chính Yu IlHan. Yu IlHan liếm môi, cố tìm kiếm lời nào đó để nói, nhưng chẳng thể thốt nên lời. Không ai có thể đong đếm được nỗi đau của người khác. Kim YeSeul khẽ mỉm cười như thấu hiểu nỗi lòng của anh rồi nói tiếp.
+Ngoại trừ việc anh không thể luyện tập điều khiển mana, những gì bà đã trải qua rất giống với trải nghiệm của chính Yu IlHan. Yu IlHan liếm môi, cố tìm kiếm lời nào đó để nói, nhưng chẳng thể thốt nên lời. Không ai có thể đong đếm được nỗi đau của người khác. Kim YeSeul khẽ mỉm cười như thấu hiểu nỗi lòng của anh rồi nói tiếp.
 
 "Chẳng biết đã bao lâu kể từ khi mẹ bắt đầu luyện tập ma pháp nữa? Dù sao thì sau đó mẹ cũng đã có đủ tự tin để chiến thắng lũ quái vật trong Khu Vườn Mô Hình. Vào lúc ấy, bầy tinh linh lần đầu tiên yêu cầu mẹ đi theo chúng, và mẹ đã cùng chúng quét sạch lũ quái vật. Đó là một trận chiến dài đằng đẵng không hồi kết, nhưng chúng không thể làm tổn thương mẹ. Mẹ chỉ có thể thắng mà thôi."
 
