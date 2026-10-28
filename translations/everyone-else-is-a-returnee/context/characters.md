@@ -254,6 +254,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 251: Cưỡi Yumir bước vào trận chiến Daréu, nâng chiến lực lên 220% (+160% với hỏa công); trước sức mạnh mị hoặc toàn lực của Nữ Hoàng Succubus Helièna, anh vẫn giữ vững tâm trí và chính thức thức tỉnh kỹ năng phòng ngự tâm trí tối thượng 'Tâm Bất Động, Lv Max' (không thể tiến hóa hay dung hợp).
 - Trạng thái tính đến chương 252: Đối đầu trực diện với Helièna, kích hoạt Đọa Lạc và Thần Lực, thăng cấp Ký Lục lên cấp 50 khi đâm thủng bụng, vai và đùi Helièna rồi hấp thụ máu chuyển chức 7; được Helièna nhận diện là 'Kẻ Thứ Năm'.
 - Trạng thái tính đến chương 253: Giải trừ khế ước Bạn Đồng Hành Thiên Thần với Spiera; quyết đấu sinh tử với Spiera, dùng Bất Khả Xâm Phạm, giương Hiệu Triệu Diệt Vong và kích hoạt Thần Lực chồng 11 quỹ đạo thương chém đôi Spiera Lv 478, nhận điểm kinh nghiệm/ghi chép và đủ điều kiện tiến hóa dung hợp 5 kỹ năng cận chiến (Thương Thuật, Cận Chiến, Độn Khí Thuật, Tiên Thuật, Kiếm Thuật); lạnh lùng đâm nổ tung tim kết liễu Nữ Hoàng Succubus Helièna và khẳng định Liera mới là người bạn đời duy nhất.
+- Trạng thái tính đến chương 254: Thu nhận xác Helièna Lv 519, nâng Ký Lục lên cấp 56; dùng Dịch Chuyển về Trái Đất huy động toàn lực elf, Lang tộc và Quân Đoàn Rồng cùng Pháo Đài Bay và Pháo Đài Hộ Vệ sang Daréu; điều khiển trận chiến và hồi phục bằng Siêu Việt Tái Sinh cùng Hơi Thở; kích hoạt thành công kỹ năng Chúa Tể Thứ Nguyên (chức nghiệp phụ Du Hành Giả Thứ Nguyên) phong tỏa Daréu trước mọi kẻ địch không phải thủ lĩnh phe phái, bảo vệ thành công Daréu.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -733,6 +734,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 251: Thể hiện mị lực áp đảo thao túng cơ thể cá mập khổng lồ Kelatuke chuyển chức 7 bắn phá Quân Đội Ánh Sáng Rực Rỡ, bẻ cong đòn ánh sáng của Natière và làm tê liệt phần lớn thiên thần Quân Đội Thiên Giới; áp sát Yu IlHan và dồn toàn bộ sức mạnh mê hoặc lên người anh nhưng thất bại trước kỹ năng Tâm Bất Động vừa thức tỉnh.
 - Xuất hiện tính đến chương 252: Thao túng cả chiến trường Daréu khiến Kelatuke, Natière và các thiên thần (kể cả Spiera) tàn sát lẫn nhau; bị IlHan dùng Bất Khả Họa Quỹ Đạo Thương đâm trúng và hấp thụ máu; nhận ra IlHan chính là 'Kẻ Thứ Năm' theo lời tiên tri, lập tức rút mị lực khỏi nhóm IlHan và đảo chiều mana ép ba phe phái đồng loạt tự sát.
 - Xuất hiện/tử trận tính đến chương 253: Ép Kelatuke, Natière và tàn quân ba phe tự sát dã man; làm trung gian giải trừ khế ước giữa IlHan và Spiera; mê đắm IlHan vì tin anh là Vị Thần Thứ Năm theo lời tiên tri và đặt tay anh lên ngực mình; bị IlHan lạnh lùng đâm xuyên nổ tung tim kết liễu.
+- Xuất hiện/tử trận tính đến chương 254: Thi thể được Yu IlHan thu nạp vào túi đồ cùng ghi chép Lv 519 (giúp Ký Lục của IlHan tăng lên cấp 56).
 
 ### Lisona
 - Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.
