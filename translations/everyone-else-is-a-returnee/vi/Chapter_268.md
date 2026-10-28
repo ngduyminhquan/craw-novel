@@ -182,7 +182,7 @@ Kim YeSeul không khỏi kinh ngạc khi tận mắt chứng kiến năng lực 
 
 Trong lúc Kim YeSeul nhìn nhận lại năng lực của con trai mình với một góc nhìn hoàn toàn mới, Yu IlHan lại kích hoạt Dịch Chuyển lần nữa tới vị trí nơi Đại tá Yun DaeHan đang cùng các thuộc hạ chiến đấu.
 
-[Kroaaaaaaaaaar!]
+[Khroaaaaaaaaaar!]
 
 "Không được lùi bước! Nó đang nhắm vào sơ hở đó đấy!"
 
@@ -206,7 +206,7 @@ Yu IlHan khịt mũi với ả rồi rút ra một ngọn thương xương rồn
 
 Đoạn, anh nhẹ nhàng phóng ngọn thương đi mà chẳng cần suy nghĩ nhiều.
 
-[Kuaaaaaaaaak!]
+[Khuặccccccccc!]
 
 Ngọn thương được phóng đi lao xuống từ bầu trời như một ngôi sao chổi, găm chặt thân xác con rắn xuống mặt đất. Khi con rắn quằn quại giãy giụa làm máu xanh bắn tung tóe khắp nơi, những kẻ vốn đang chuẩn bị hứng chịu đòn tấn công của nó đều sững sờ không biết chuyện gì đang xảy ra.
 

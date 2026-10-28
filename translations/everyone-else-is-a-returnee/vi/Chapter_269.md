@@ -6,7 +6,7 @@ Chỉ là, khế ước giữa cư dân các thế giới đó với Quân Độ
 
 "Dù vậy thì chuyện này vẫn thật đáng kinh ngạc. Cậu Yu IlHan à, dường như cậu đã... vượt qua cả ranh giới nhận thức của con người mất rồi."
 
-Yun DaeHan bất lực thốt lên sau khi chứng kiến Yu IlHan điều khiển Pháo Đài Hộ Vệ, dễ dàng nhảy qua các chiều không gian, và một nữ hoàng succubus đáng sợ mà đến nhìn thẳng vào mắt ông cũng không dám lại đang làm nũng với cậu. Thế nhưng, câu trả lời của Yu IlHan còn uể oải hơn gấp bội:
+Yun DaeHan bất lực thốt lên sau khi chứng kiến Yu IlHan điều khiển Pháo Đài Hộ Vệ, dễ dàng nhảy qua các chiều không gian, và một nữ hoàng succubus đáng sợ mà đến nhìn thẳng vào mắt ông cũng không dám lại đang làm nũng với anh. Thế nhưng, câu trả lời của Yu IlHan còn uể oải hơn gấp bội:
 
 "Tôi vốn như thế ngay từ đầu rồi mà."
 
@@ -138,9 +138,9 @@ Các thành viên Trấn Áp nhấp nhổm khi nhìn thấy những người ph�
 
 Yu IlHan nở nụ cười cay đắng rồi giơ tay lên. Đúng khoảnh khắc ấy, Pháo Đài Hộ Vệ đột ngột chuyển hướng quỹ đạo rồi lao thẳng xuống mặt đất với tốc độ kinh hoàng!
 
-[Kraaaaaaaaaaaaaaah!]
+[Khraaaaaaaaaaaaaaah!]
 
-[Kuaaaaaaaak!]
+[Khuặcccccccc!]
 
 Những gì Yu IlHan làm vô cùng đơn giản. Anh chỉ lựa chọn một khu vực không có bóng người và tập trung nhiều quái vật nhất có thể để nghiền nát!
 
@@ -172,7 +172,7 @@ Dĩ nhiên, Pháo Đài Hộ Vệ thiếu thốn tạo tác hơn hẳn so với 
 
 [Khẹccc!]
 
-[Kgagak!]
+[Khặc khặc!]
 
 Giờ đây tiếng gào thét của lũ quái vật chẳng thể làm lay động trái tim Yu IlHan dù chỉ một micromet. Tựa như một nhạc trưởng trong dàn nhạc giao hưởng, anh giơ hai tay lên và tấu nên bản hòa tấu kết hợp từ những tiếng rên rỉ, gầm rú và thét gào của bầy quái vật.
 
@@ -218,7 +218,7 @@ Những thành viên khác của Trấn Áp cùng cư ngụ tại Guundia với 
 
 Những trận chiến mà cô phải chỉ huy suốt mấy năm qua quá đỗi tàn khốc đối với cô, dẫu cho cô từng có rất nhiều chiến hữu ở Trái Đất.
 
-"Thiếu tướng, làm sao ông lại...?"
+"Thiếu tướng, làm sao thiếu tướng lại...?"
 
 "Như cô có thể đoán được rồi đấy, đây không phải năng lực của tôi. Tôi đến đây cùng cậu Yu IlHan."
 

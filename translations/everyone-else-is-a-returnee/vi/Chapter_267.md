@@ -2,7 +2,7 @@
 
 Mọi người phối hợp nhanh như chớp. Ngay khoảnh khắc nhận ra hai Tiểu Đoàn Trưởng xuất hiện, Yu IlHan lập tức kích hoạt Dịch Chuyển và bao bọc toàn bộ đồng minh trong phạm vi của mình; còn Tiểu Đoàn Trưởng Tiểu Đoàn 2 Hillutonne, người vừa nhận ra anh đã thi triển kỹ năng, liền tung ra một ma pháp diện rộng mà Helièna đã kịp thời phá vỡ bằng sự can thiệp mana; Kang MiRae lập tức hủy bỏ cánh cổng của mình, và tận dụng lượng mana đó, Kim YeSeul thi triển ma pháp làm chậm diện rộng, trong khi Na YuNa cất lời cầu nguyện tới Leytna.
 
-"Xin hãy giúp chúng con, Nữ thần Leytnaaaaaaa!"
+"Xin hãy giúp chúng con, Nữ Thần Leytnaaaaaaa!"
 
 Những thay đổi diễn ra với Na YuNa sau khi thăng cấp lên chuyển chức lần 4 không chỉ có một hay hai điều, và thay đổi lớn nhất cũng như mạnh mẽ nhất chính là khả năng tạo ra kỳ tích. Ngay khoảnh khắc thánh lực của cô bao trùm chiến trường, thần lực của Leytna đã cường hóa một kỹ năng và một ma pháp.
 
@@ -24,7 +24,7 @@ Bóng dáng của tất cả bọn họ biến mất khỏi nơi đó như thể
 
 [Tuy nhiên, nàng ấy không còn thuộc về Quân Đội Ma Hủy Diệt nữa... Giờ đây, nàng ấy chỉ đơn thuần là một kẻ khác sở hữu sức mạnh của Quân Đội Ma Hủy Diệt mà thôi. Và hơn thế nữa...!]
 
-Hillutonne đã nhìn thấy rất rõ ràng rằng Helièna tỏ ra nũng nịu với hắn trong khi ngoan ngoãn lắng nghe mệnh lệnh của hắn. Đó là một hình ảnh hoàn toàn khác biệt so với Helièna mà gã từng biết. Từ trước tới nay, mỗi khi ả tỏ ra nũng nịu với một người đàn ông nào đó, thì chỉ là để trêu đùa hay kết liễu mạng sống của họ mà thôi.
+Hillutonne đã nhìn thấy rất rõ ràng rằng Helièna tỏ ra nũng nịu với Yu IlHan trong khi ngoan ngoãn lắng nghe mệnh lệnh của anh. Đó là một hình ảnh hoàn toàn khác biệt so với Helièna mà gã từng biết. Từ trước tới nay, mỗi khi ả tỏ ra nũng nịu với một người đàn ông nào đó, thì chỉ là để trêu đùa hay kết liễu mạng sống của họ mà thôi.
 
 [Yu IlHan, đó là việc làm của tên đó. Chính là do hắn làm...!]
 
@@ -66,7 +66,7 @@ Các thiên thần vừa đập cánh vừa hoan hỉ reo mừng. Đặc biệt 
 
 "Nào, về đi. Sẽ phiền toái lắm nếu bọn họ lại bắt đầu làm loạn lên khi phát hiện ra khí tức của cô đấy."
 
-[Chàng thật là độc đoán quá đi mà... Thôi được rồi, ta về là được chứ gì. Ta ghét cái cách chàng nhìn ta như thế lắm đấy.]
+[Chàng thật là ranh ma quá đi mà... Thôi được rồi, ta về là được chứ gì. Ta ghét cái cách chàng nhìn ta như thế lắm đấy.]
 
 [Khoan đã, Heliè...]
 
@@ -234,7 +234,7 @@ Hơi thở của Satière nghẹn lại. Không đời nào Kẻ Thống Trị c
 
 [Rõ, thưa Ngài.]
 
-Dứt lời, thanh âm ấy không còn vang lên nữa. Satière lập tức đứng dậy ngay khi cảm nhận thấy khí tức của kẻ thống trị đã tan biến.
+Dứt lời, thanh âm ấy không còn vang lên nữa. Satière lập tức đứng dậy ngay khi cảm nhận thấy khí tức của Kẻ Thống Trị đã tan biến.
 
 Bóng dáng của toàn bộ những kẻ xâm lược đã biến mất tăm mất tích như thể chưa từng xuất hiện ngay từ đầu, hoặc giả như bọn chúng đã hòa tan vào trong bóng tối vậy.
 
