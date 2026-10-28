@@ -744,3 +744,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Spear of Untraceable Trajectory Overlap |  | Bất Khả Họa Quỹ Đạo Thương Trùng Điệp | kỹ năng | 250 | Kỹ thuật lĩnh ngộ khi kết liễu Echjar, xếp chồng toàn bộ đòn đánh của Bất Khả Họa Quỹ Đạo Thương vào làm một đòn duy nhất |
 | Wing of Brilliant Light | wing of Brilliant Light | Cánh Của Ánh Sáng Rực Rỡ | cấp bậc | 250 | Chức danh chỉ huy cấp cao (tương đương Tiểu Đoàn Trưởng) của Quân Đội Ánh Sáng Rực Rỡ, được đánh số từ Cánh Thứ 1 đến Cánh Thứ 11 |
 | Unshakable Heart |  | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |
+| Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
+| The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |

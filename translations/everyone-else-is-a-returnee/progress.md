@@ -256,7 +256,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | reviewed |  |
 | 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | reviewed |  |
 | 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | reviewed |  |
-| 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | todo |  |
+| 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | done |  |
 | 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | todo |  |
 | 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | todo |  |
 | 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | todo |  |
@@ -367,10 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
-
-
 
 
 ## Đã quyết
@@ -938,3 +934,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#250] Kỹ thuật 'Spear of Untraceable Trajectory Overlap': tạm dịch 'Bất Khả Họa Quỹ Đạo Thương Trùng Điệp' (phương án khác: 'Bất Khả Họa Quỹ Đạo Thương Xếp Chồng'). → Chốt dịch là "Bất Khả Họa Quỹ Đạo Thương Trùng Điệp" theo quy tắc Hán Việt của rules.md. (orchestrator)
 - [#251] Kỹ năng 'Unshakable Heart' (Lv Max) tạm dịch là 'Tâm Bất Động' (phòng ngự tâm trí/kháng mê hoặc tối thượng); đề xuất user duyệt giữ nguyên hay đổi sang 'Tâm Bất Biến'. → Chốt dịch "Unshakable Heart" là "Tâm Bất Động" theo quy tắc dịch tên kỹ năng sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#250, #251] Thống nhất phong cách xưng hô của Helièna dành cho Yu IlHan → Thống nhất Helièna xưng 'ta' - gọi 'chàng' (dịch "darling" là "người thương / chàng ơi / chàng à"), không trộn lẫn 'anh yêu' và 'chàng' trong cùng một câu. (orchestrator)
+- [#252] Danh xưng "The Fifth" khi Helièna nhận ra IlHan trong lời tiên tri — Tạm chọn: "Kẻ Thứ Năm" (liên kết với lời tiên tri về vị Thần thứ năm / phe phái thứ năm). Phương án khác: "Vị Thần Thứ Năm", "Đấng Thứ Năm". Tạm dùng trong bản dịch: "Kẻ Thứ Năm". → Chốt Kẻ Thứ Năm (thực thể thứ năm trong lời tiên tri) (orchestrator)
+- [#252] Danh xưng "Ruler" (chỉ lãnh đạo tối cao của phe phái Quân Đội Ma Hủy Diệt) — Tạm chọn: "Kẻ Thống Trị". Phương án khác: "Đấng Thống Trị", "Thống Trị Giả". Tạm dùng trong bản dịch: "Kẻ Thống Trị". → Chốt Kẻ Thống Trị (lãnh đạo tối cao của Quân Đội Ma Hủy Diệt) (orchestrator)

@@ -252,6 +252,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 246: Chạm trần cấp độ 299 nhưng không có nhiệm vụ chuyển chức 5; từ chối gia nhập Quân Đội Thiên Giới, dùng Dịch Chuyển trở về Daréu và bỏ mặc Spiera tự giải trình với các thiên thần; quay lại tiền đồn cũ hội quân với thuộc hạ và Na YuNa, sau đó triệu tập thợ rèn elf và giao xác rồng chuyển chức 4 cho họ tự do luyện tay nghề rèn đúc (trong túi đồ còn hơn 3.298 xác rồng).
 - Trạng thái tính đến chương 249: Hoàn tất giải phẫu xác rồng chuyển chức 7 Echjar, thu hoạch Trái Tim Rồng chuyển chức 7 làm nguồn năng lượng tương lai; tôi vảy và mắt Echjar trong máu rồng Cái Nôi Kỳ Tích, dùng 2 ma thạch chuyển chức 5 cuối cùng kết hợp kỹ thuật rèn và Chế Tác Mana đồng thời tạo ra mũ giáp 'Long Nhãn Kẻ Báo Thù' phẩm cấp Hỗn Loạn (+18.600 Phòng thủ, +150% kháng trạng thái bất thường, +50% kháng ma pháp); mở phong ấn ma pháp trận Daréu nghênh chiến Nữ Hoàng Succubus Helièna cùng các phe phái.
 - Trạng thái tính đến chương 251: Cưỡi Yumir bước vào trận chiến Daréu, nâng chiến lực lên 220% (+160% với hỏa công); trước sức mạnh mị hoặc toàn lực của Nữ Hoàng Succubus Helièna, anh vẫn giữ vững tâm trí và chính thức thức tỉnh kỹ năng phòng ngự tâm trí tối thượng 'Tâm Bất Động, Lv Max' (không thể tiến hóa hay dung hợp).
+- Trạng thái tính đến chương 252: Đối đầu trực diện với Helièna, kích hoạt Đọa Lạc và Thần Lực, thăng cấp Ký Lục lên cấp 50 khi đâm thủng bụng, vai và đùi Helièna rồi hấp thụ máu chuyển chức 7; được Helièna nhận diện là 'Kẻ Thứ Năm'.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -460,6 +461,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 125–126: Huấn luyện Đại Đoạn Vũ Trụ Thương cho Yu IlHan; mang trọng trách ngầm theo dõi các thiên thần và truy lùng những kẻ phản bội thuộc phe Quân Đội Ánh Sáng Rực Rỡ trên Trái Đất; dự báo các Thế Giới Bị Bỏ Rơi sẽ tiếp tục kết nối với Trái Đất trước Đại Tai Biến lần 2.
 - Trạng thái tính đến chương 182: Nhận lệnh trở về Thiên giới để huy động toàn bộ thiên thần chuẩn bị thanh trừng những kẻ phản bội.
 - Trạng thái tính đến chương 246: Nhiệt tình chèo kéo Yu IlHan gia nhập Quân Đội Thiên Giới nhưng bất thành; cùng IlHan và Liera trở về Daréu rồi bị IlHan bỏ lại giữa đám thiên thần đang hoang mang để một mình gánh trách nhiệm giải trình về cái chết của Echjar.
+- Trạng thái tính đến chương 252: Cùng toán thiên thần rơi vào hỗn chiến tại Daréu do không có viện binh Tiểu Đoàn Trưởng từ Thiên giới; bị cuốn vào cuộc chiến giữa Kelatuke và Natière, bị trọng thương và rốt cuộc cũng bị mị lực của Helièna khuất phục.
 
 ### Michael Smithson
 - Giới tính, vai trò: Nam, thủ lĩnh (Clan Master) của clan Metal Knights đến từ Anh.
@@ -727,6 +729,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 247: Hứng thú với Yu IlHan sau khi biết tin tức từ Zenusva; nhận nhiệm vụ quyến rũ và lôi kéo Yu IlHan về phe mình, lập tức lên đường hướng về Daréu.
 - Xuất hiện tính đến chương 248: Bị năng lực của Thần Tình Yêu qua Liera phát hiện thông tin chi tiết (succubus Lv 519, 33.985 tuổi, chuyên mị thuật và các danh hiệu quyến rũ); Yu IlHan đã nạp thông tin của ả vào ma pháp trận phòng thủ Daréu để đối phó.
 - Xuất hiện tính đến chương 251: Thể hiện mị lực áp đảo thao túng cơ thể cá mập khổng lồ Kelatuke chuyển chức 7 bắn phá Quân Đội Ánh Sáng Rực Rỡ, bẻ cong đòn ánh sáng của Natière và làm tê liệt phần lớn thiên thần Quân Đội Thiên Giới; áp sát Yu IlHan và dồn toàn bộ sức mạnh mê hoặc lên người anh nhưng thất bại trước kỹ năng Tâm Bất Động vừa thức tỉnh.
+- Xuất hiện tính đến chương 252: Thao túng cả chiến trường Daréu khiến Kelatuke, Natière và các thiên thần (kể cả Spiera) tàn sát lẫn nhau; bị IlHan dùng Bất Khả Họa Quỹ Đạo Thương đâm trúng và hấp thụ máu; nhận ra IlHan chính là 'Kẻ Thứ Năm' theo lời tiên tri, lập tức rút mị lực khỏi nhóm IlHan và đảo chiều mana ép ba phe phái đồng loạt tự sát.
 
 ### Lisona
 - Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.
