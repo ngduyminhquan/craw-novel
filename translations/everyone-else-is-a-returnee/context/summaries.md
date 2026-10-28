@@ -1616,3 +1616,11 @@ Titaera quay lại báo tin Quân Đội Thiên Giới đồng ý giao trước 
 Tại ngân khố Thiên giới, đại thiên thần chuyển chức 7 Leciel kiêu ngạo định ra oai nhưng bị IlHan chặn họng đòi đồ; Leciel mở kho trao tạo tác phẩm cấp Thần Vương Miện Trí Tuệ (yêu cầu sự chúc phúc của Thần Ma Pháp) cho Kang MiRae giúp tăng vọt năng lực và đẳng cấp mana của cô.
 Titaera đưa nhóm IlHan và Pháo Đài Bay tới lối vào chiến trường Bức Tường Hỗn Loạn — nơi Quân Đội Thiên Giới đang bị liên minh Quân Đội Ma Hủy Diệt, Quân Đội Ánh Sáng Rực Rỡ và Khu Vườn Hoàng Hôn vây hãm dữ dội sau sự biến Daréu.
 Cảnh kết thúc: Titaera tiết lộ kế hoạch nhờ Kang MiRae mở cổng dẫn thẳng tới đại bản doanh Quân Đội Ánh Sáng Rực Rỡ để lùa nửa đàn quái vật của Quân Đội Ma Hủy Diệt tràn sang chia rẽ liên minh kẻ thù; Yu IlHan nhận định nơi này sắp tới sẽ còn hỗn loạn hơn cả Daréu.
+
+
+## 264
+Kang MiRae gặp khó khăn trong việc dò tìm dấu vết mana giữa chiến trường hỗn loạn; trước sự vắng mặt của các đại thiên thần Quân Đội Thiên Giới, Yu IlHan quyết định chia nhóm: giao Yumir dùng danh hiệu và kỹ năng ẩn thân diện rộng bảo vệ Pháo Đài Bay cùng mọi người, đồng thời để Helièna âm thầm bảo hộ.
+Sau khi nhận lời chúc phúc tăng vọt chỉ số từ nữ tư tế Na YuNa, Yu IlHan cùng Liera và Erta xông thẳng ra tiền tuyến chiến trường Bức Tường Hỗn Loạn; giữa không trung, IlHan dùng ma thạch chuyển chức 5 tiến hóa dung hợp học thành công Đại Đoạn Vũ Trụ Thương (vũ kỹ tâm đắc cả đời của Spiera).
+Bằng đòn vung thương kết hợp giữa kiếm, roi và độn khí chém toạc không gian, Yu IlHan liên tiếp hạ gục các thực thể cấp cao trong trạng thái ẩn thân; sau đó anh dùng một bình Hơi Thở, lao vào lỗ hổng Bức Tường Hỗn Loạn và giải trừ ẩn thân bằng kỹ năng Đọa Lạc, hạ thấp toàn bộ đẳng cấp của kẻ thù.
+Khai hỏa đồng thời Đại Đoạn Vũ Trụ Thương và Bất Khả Họa Quỹ Đạo Thương quét sạch 121 thực thể cấp cao trong chớp mắt, Yu IlHan để lộ thân phận khiến liên minh kẻ thù bàng hoàng và dồn toàn bộ sát khí trả thù cho Helièna về phía anh.
+Cảnh kết thúc: Liera mỉm cười giương thương chuẩn bị nghênh chiến, mở màn cuộc chiến hoàn toàn do Yu IlHan làm chủ và dẫn dắt.
