@@ -257,7 +257,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | reviewed |  |
 | 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | reviewed |  |
 | 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | done |  |
-| 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | todo |  |
+| 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | done |  |
 | 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | todo |  |
 | 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | todo |  |
 | 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -936,3 +937,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#250, #251] Thống nhất phong cách xưng hô của Helièna dành cho Yu IlHan → Thống nhất Helièna xưng 'ta' - gọi 'chàng' (dịch "darling" là "người thương / chàng ơi / chàng à"), không trộn lẫn 'anh yêu' và 'chàng' trong cùng một câu. (orchestrator)
 - [#252] Danh xưng "The Fifth" khi Helièna nhận ra IlHan trong lời tiên tri — Tạm chọn: "Kẻ Thứ Năm" (liên kết với lời tiên tri về vị Thần thứ năm / phe phái thứ năm). Phương án khác: "Vị Thần Thứ Năm", "Đấng Thứ Năm". Tạm dùng trong bản dịch: "Kẻ Thứ Năm". → Chốt Kẻ Thứ Năm (thực thể thứ năm trong lời tiên tri) (orchestrator)
 - [#252] Danh xưng "Ruler" (chỉ lãnh đạo tối cao của phe phái Quân Đội Ma Hủy Diệt) — Tạm chọn: "Kẻ Thống Trị". Phương án khác: "Đấng Thống Trị", "Thống Trị Giả". Tạm dùng trong bản dịch: "Kẻ Thống Trị". → Chốt Kẻ Thống Trị (lãnh đạo tối cao của Quân Đội Ma Hủy Diệt) (orchestrator)
+- [#253] Thuật ngữ "fifth God" (Helièna nói về việc IlHan sẽ trở thành người sáng lập phe phái thứ năm) — Tạm chọn: "Vị Thần Thứ Năm". Phương án khác: "Đấng Thứ Năm". → Chốt Vị Thần Thứ Năm (người sáng lập phe phái thực thể cấp cao thứ năm) (orchestrator)

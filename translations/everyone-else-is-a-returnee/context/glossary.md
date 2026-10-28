@@ -226,7 +226,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Heavy Battle Crusher |  | Chiến Búa Nghiền Nát Nặng | vật phẩm | 31 | Vũ khí búa rìu chế tạo từ xương Báo Bóng Tối mang dòng thuộc tính tăng 50% trọng lượng |
 | Metal Heart | Metal Hearts | Thiết Tâm | quái vật | 31 | Quái vật ngoại lai cấu tạo từ kim loại cấp trên 50 trong hầm ngục, không có ma thạch mà sở hữu lõi kim loại Thiết Tâm |
 | Big Metal Heart | Big Metal Hearts | Đại Thiết Tâm | quái vật | 31 | Biến thể khổng lồ cấp 71 của quái vật Thiết Tâm |
-| Blunt Weapon | Blunt Weapon mastery | Độn Khí Thuật | kỹ năng | 31 | Kỹ năng sử dụng các loại vũ khí cùn như búa, chùy, thức tỉnh ở Lv Max |
+| Blunt Weapon | Blunt Weapon mastery; Blunt Weapons mastery; Blunt Weapons | Độn Khí Thuật | kỹ năng | 31 | Kỹ năng sử dụng các loại vũ khí cùn như búa, chùy, thức tỉnh ở Lv Max |
 | Daedalus |  | Daedalus | khác | 31 | Nhà phát minh và kiến trúc sư trong thần thoại Hy Lạp, người xây dựng mê cung đảo Crete |
 | Crete |  | Crete | địa danh | 31 | Hòn đảo ở Hy Lạp với truyền thuyết về mê cung ngục tối |
 | The Sixth Sense | Sixth Sense | Giác Quan Thứ Sáu | khác | 31 | Bộ phim điện ảnh kinh dị tâm lý nổi tiếng của M. Night Shyamalan với cú twist kinh điển |
@@ -746,3 +746,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Unshakable Heart |  | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |
 | Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
+| fifth God | fifth god; the fifth God; the fifth god | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
