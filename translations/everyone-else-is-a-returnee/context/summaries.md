@@ -1502,3 +1502,8 @@ Sợ thi thể chuyển chức 7 tiếp tục tụt dốc mất giá trị nguy�
 Echjar Lv 502 (539) tử trận mang lại lượng kinh nghiệm khổng lồ đưa IlHan chạm trần cấp độ 299 (+15% hiệu quả danh hiệu Bất Khả Xâm Phạm cho mỗi đẳng cấp chênh lệch); IlHan háo hức chờ nhận thông báo chuyển chức 5 nhưng không thấy gì.
 Cảnh kết thúc: Trước thắc mắc của IlHan về việc thiếu hướng dẫn nhiệm vụ, Liera mỉm cười tiết lộ từ chuyển chức 5 trở đi không hề có sẵn lựa chọn, bởi đây không còn là bài thi trắc nghiệm.
 
+## 246
+Spiera và Liera giải thích con đường duy nhất để tiến vào cảnh giới thực thể cấp cao (chuyển chức 5) là gia nhập một phe phái lớn; Spiera nhiệt tình chèo kéo Yu IlHan gia nhập Quân Đội Thiên Giới nhưng anh khéo léo từ chối vì không muốn bị trói buộc.
+Yu IlHan dùng Dịch Chuyển đưa cả nhóm quay lại Daréu, bỏ mặc Spiera ở lại giữa đám thiên thần đang nháo nhào hoang mang để cô tự giải trình về cái chết của Echjar, còn anh và Liera dịch chuyển về doanh trại tiền đồn cũ hội quân với thuộc hạ.
+Na YuNa lao tới ôm chầm lấy IlHan dẫn đến màn tranh cãi hài hước giữa cô và Liera (Na YuNa dùng cả ma pháp bảo hộ của Leytna xuyên qua Aegis); Mirfa và Erica mừng rỡ chào đón chủ nhân và thở phào khi biết con rồng chuyển chức 7 đã chết.
+Cảnh kết thúc: Để giải phóng chiếc túi đồ đang quá tải, Yu IlHan triệu tập khoảng mười thợ rèn elf ra và trao cho họ một xác rồng chuyển chức 4 để tự do luyện tập rèn đúc mà không sợ lãng phí, mỉm cười tiết lộ trong túi đồ vẫn còn hơn 3.298 cái xác rồng nữa.

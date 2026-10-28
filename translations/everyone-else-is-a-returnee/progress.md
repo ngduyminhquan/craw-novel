@@ -250,7 +250,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 243 |  | Chapter_243 - You Are Already Dead – 7.txt | You Are Already Dead – 7 | reviewed |  |
 | 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | reviewed |  |
 | 245 |  | Chapter_245 - You Are Already Dead – 9.txt | You Are Already Dead – 9 | reviewed |  |
-| 246 |  | Chapter_246 - You Are Already Dead – 10.txt | You Are Already Dead – 10 | todo |  |
+| 246 |  | Chapter_246 - You Are Already Dead – 10.txt | You Are Already Dead – 10 | done |  |
 | 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | todo |  |
 | 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | todo |  |
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | todo |  |
@@ -924,3 +924,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#243] Danh hiệu tự xưng của Echjar "King of Dragons" (đoạn 98) — Tạm chọn: "Long Vương". Phương án khác: "Vua Của Loài Rồng". → Chốt dịch là "Long Vương" theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#244] Lời thoại cảm thán 'Insane...!\' ở đoạn 23 (raw line 48) - Tạm dịch: 'Điên thật rồi...!?' theo ngữ cảnh hội thoại thay vì dùng thuật ngữ thuộc tính 'Cuồng Loạn' (khiến QA cảnh báo). → Giữ nguyên cách dịch tự nhiên "Điên thật rồi...!?" theo ngữ cảnh hội thoại cảm thán (tương tự tiền lệ #163), bỏ qua cảnh báo false positive của QA. (orchestrator)
 - [#245] Tên tạo tác phẩm cấp Thần "Cradle of Miracles" (tiến hóa từ Đại Thùng) — Tạm chọn: "Cái Nôi Kỳ Tích". Phương án khác: "Kỳ Tích Chi Nôi". → Chốt dịch là "Cái Nôi Kỳ Tích" (tự nhiên, rõ nghĩa, đồng bộ với các tạo tác có cấu trúc danh ngữ như Lông Vũ Mê Hoặc, Hơi Thở Hoàng Kim). (orchestrator)
+- [#246] Lời thoại đoạn 64 "Sorry, I have an owner already." — Tạm chọn: Liera nói ("Xin lỗi nhé, người ta có chủ rồi.") thể hiện sự tranh giành IlHan với Na YuNa. Phương án khác: Yu IlHan nói ("Xin lỗi nhé, tôi có chủ rồi.") nhưng IlHan vốn chưa từng nhận mình có người yêu/có chủ. → Giữ nguyên cách dịch "Xin lỗi nhé, người ta có chủ rồi." (lời của Liera dùng từ "người ta" để khẳng định chủ quyền với Yu IlHan khi chặn Na YuNa). (orchestrator)
