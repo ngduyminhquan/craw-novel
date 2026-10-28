@@ -15,6 +15,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Empress | cô / Empress / cô gái | 7 | Nữ sinh viên mang mặt nạ Hulk |
 | Han YeoRang | cô / Han YeoRang / thiếu úy Han | 9 | Nữ sĩ quan quân đội |
 | Han YeoRang | cô / Han YeoRang / trung úy Han | 71 | Nữ sĩ quan quân đội (thăng cấp trung úy) |
+| Han YeoRang | cô / Han YeoRang / đại tá Han | 269 | Nữ sĩ quan quân đội (thăng cấp đại tá) |
 | Do WooJun | cậu / Do WooJun | 15 | Trưởng nhóm Kẻ Hành Quyết |
 | Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
 | Yun DaeHan | ông / đại tá Yun / Yun DaeHan | 59 | Đại tá quân đội Hàn Quốc |
@@ -401,3 +402,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yun DaeHan | Yu IlHan | tôi | cậu / Yu IlHan | 268 | Thiếu tướng quân đội và dị năng giả |
 | Helièna | Liera | ta | cô / cô cựu thiên thần | 268 | Helièna trêu chọc Liera khi chia đội |
 | Helièna | Kim YeSeul | ta | bác | 268 | Helièna hưởng ứng lời dặn dò của mẹ Yu IlHan |
+| Yun DaeHan | Han YeoRang | tôi | cô / đại tá Han | 269 | Chỉ huy và cấp dưới sau khi Han YeoRang thăng cấp đại tá |
+| Han YeoRang | Yun DaeHan | tôi | thiếu tướng | 269 | Cấp dưới nói chuyện với chỉ huy sau khi Yun DaeHan thăng thiếu tướng |
+| Yu IlHan | Han YeoRang | tôi | cô / đại tá Han | 269 | Yu IlHan đến Guundia chi viện và giải cứu |
+| Han YeoRang | Yu IlHan | tôi | anh / anh Yu IlHan | 269 | Han YeoRang tái ngộ Yu IlHan |

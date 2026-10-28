@@ -1650,4 +1650,11 @@ Anh quyết định chia tách lực lượng: Kang MiRae cùng đại đa số 
 Yu IlHan cùng mẹ và Helièna kích hoạt Dịch Chuyển tới thế giới Midora, dùng kỹ năng Ký Lục định vị chính xác vị trí của lực lượng Trấn Áp và kịp thời phóng thương xương rồng cứu nguy trước một con rắn khổng lồ chuyển chức 4 cấp 230.
 Cảnh kết thúc: Yu IlHan từ trên Pháo Đài Hộ Vệ cất lời chiêu mộ, và 'Thiếu tướng' Yun DaeHan (mới được thăng chức trước khi rời Trái Đất) cùng 35 cấp dưới chính thức gia nhập lực lượng phòng vệ Trái Đất.
 
+## 269
+Yu IlHan cùng Thiếu tướng Yun DaeHan di chuyển qua 13 thế giới, tập hợp được gần 200 thành viên Trấn Áp chịu theo anh về bảo vệ Trái Đất dù biết rõ tình cảnh địa ngục.
+Khi kích hoạt Dịch Chuyển tới thế giới cuối cùng mang tên Guundia để đón Đại tá Han YeoRang (đã đạt Lv 190 sau khi thăng chức) cùng 12 binh sĩ, IlHan phát hiện 99,9% nhân loại nơi này đã tuyệt diệt sau 4 năm kể từ Đại Tai Biến lần 3 do không thích nghi kịp với sự bùng nổ của quái vật.
+Đến nơi, thấy nhóm của Han YeoRang đang kiên cường cầm cự phòng thủ trong tuyệt vọng, Yu IlHan cho Pháo Đài Hộ Vệ lao thẳng từ trên trời xuống nghiền nát bầy quái vật và kích hoạt các tạo tác tiêu diệt kẻ địch giải nguy cho tiền tuyến.
+Sau khi kết giới mở ra, Yun DaeHan cùng các binh sĩ tái ngộ Han YeoRang; Yu IlHan lập tức cho Pháo Đài Hộ Vệ biến mất để dành 13 tiếng đồng hồ quét sạch toàn bộ quái vật trên khắp thế giới Guundia.
+
+
 

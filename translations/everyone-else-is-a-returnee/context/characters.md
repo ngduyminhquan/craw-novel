@@ -11,7 +11,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae; MiRae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
-| Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71) | 9 |
+| Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71, thăng đại tá từ ch269) | 9 |
 | God | Lord God; The Lord | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
 | Yun DaeHan | Yoon DaeHan; Captain Yoon DaeHan; Yoon DaeBang | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59, thăng thiếu tướng tính đến chương 268) | 15 |
@@ -379,6 +379,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 12: Đứng ra mua lại xác bầy Chó Lang Thang từ IlHan theo lệnh cấp trên; bất đắc dĩ phải thử dùng "mỹ nhân kế" để lôi kéo anh nhưng thất bại thảm hại.
 - Trạng thái tính đến chương 71: Được thăng cấp lên Trung úy, chuyển sang phục vụ trong lực lượng đặc nhiệm Trấn Áp; cùng Đại tá Yun DaeHan sang Nhật Bản tham gia tuyến phòng thủ Tokyo trước khi sáp nhập vào Quân Đoàn Susanoo.
 - Trạng thái tính đến chương 150: Ngày đêm thực chiến chống quái vật bảo vệ tổ quốc trước thềm Đại Tai Biến lần 2; mỗi lần xuất kích đều gào thét đòi giải ngũ lấy chồng giàu và liên tục réo tên Yu IlHan khiến đồng đội thắc mắc.
+- Trạng thái tính đến chương 269: Đạt cấp độ 190, thăng cấp lên Đại tá, chỉ huy 12 binh sĩ Trấn Áp kiên cường bám trụ phòng thủ tuyến đầu cho số ít nhân loại còn sống sót tại Guundia sau Đại Tai Biến lần 3 trước khi được Yu IlHan và Thiếu tướng Yun DaeHan đến chi viện giải cứu.
 
 ### Do WooJun
 - Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.

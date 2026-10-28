@@ -273,7 +273,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | reviewed |  |
 | 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | done |  |
 | 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | done |  |
-| 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | todo |  |
+| 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | done |  |
 | 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | todo |  |
 | 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | todo |  |
 | 272 |  | Chapter_272 - If You Wish To Follow Me – 7.txt | If You Wish To Follow Me – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -963,3 +964,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#267] 'the Supremes' (chỉ các lãnh tụ cấp cao nhất của 4 thế lực lớn): tạm dịch 'những thực thể tối cao' (nhất quán với hệ thống thuật ngữ thực thể cấp cao / thực thể cấp thấp). → Chốt dịch là Thực thể tối cao (orchestrator)
 - [#268] Dịch quân hàm 'Major-General' của Yun DaeHan thành 'Thiếu tướng' — Tạm dùng: "Thiếu tướng". Phương án khác: "Chuẩn tướng". → Chốt dịch là Thiếu tướng (orchestrator)
 - [#268] Đoạn 55 raw EN lặp từ ("The Flying Fortress was originally supposed to be under the control of the Flying Fortress") — Tạm dùng: dịch chỉnh lý theo ngữ cảnh thành "Pháo Đài Hộ Vệ vốn dĩ chịu sự điều khiển của pháo đài bay, nhưng Yu IlHan cũng có thể tự mình vận hành khi cần". Phương án khác: dịch sát chữ thô. → Giữ nguyên cách dịch chỉnh lý theo ngữ cảnh là Pháo Đài Hộ Vệ chịu sự điều khiển của pháo đài bay (orchestrator)
+- [#269] Quân hàm Han YeoRang: IlHan nhớ là 'Captain' (Đại úy), Yun DaeHan đính chính là 'Colonel' (Đại tá) do cô thăng cấp nhanh; tạm dịch 'Đại úy Han YeoRang' và 'Đại tá Han' theo đúng hội thoại của raw. → Chốt dịch Captain là Đại úy và Colonel là Đại tá theo đúng hội thoại trong raw (orchestrator)
