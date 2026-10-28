@@ -25,7 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Reta Kar'iha | Reta | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
-| Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến | 62 |
+| Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến; tính đến #243 liều mình cầm chân Echjar rồi được IlHan dịch chuyển về Trái Đất | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
@@ -36,7 +36,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
 | Teraka | Teraka-nim | Teraka | Con rồng thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu; tính đến #237-#241 đã đột phá lên chuyển chức 6 và dẫn dắt 5.000 con rồng sơ sinh; tử trận ở #242 dưới một thương của Spiera | 101 |
-| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka và bầy rồng bị tiêu diệt | 242 |
+| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Long Vương kiêm Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka bị diệt; tính đến #243 bị IlHan kéo về Trái Đất và bắt đầu bị tước đoạt tư cách thực thể cấp cao do tấn công kẻ yếu trước | 242 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |

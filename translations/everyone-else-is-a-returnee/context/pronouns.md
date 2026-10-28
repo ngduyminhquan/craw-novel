@@ -319,6 +319,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | El Phisadein | ta | ngươi | 230 | IlHan đáp trả trước khi tiêu diệt El Phisadein |
 | Erta | Liera | ta | Liera / cô | 234 | Erta giận dữ phẫn nộ đòi giết Liera sau khi biết tin Liera thành thực thể cấp thấp bên IlHan |
 | YuNa | Erta | em | chị / chị Erta | 236 | Na YuNa gọi thân mật Erta là chị sau khi Erta trở thành thực thể cấp thấp |
+| Spiera | Echjar | ta | ngươi | 243 | Spiera khiêu khích và quyết chiến với rồng chuyển chức 7 Echjar |
+| Echjar | Spiera | ta | ngươi / các ngươi | 243 | Echjar đối đầu và áp đảo Spiera |
 
 
 

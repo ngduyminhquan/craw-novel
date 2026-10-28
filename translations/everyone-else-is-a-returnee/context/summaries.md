@@ -1483,6 +1483,13 @@ Mất đi thủ lĩnh, 5.000 con rồng sơ sinh rơi vào hoảng loạn; Yu Il
 Trong lúc bầy rồng sắp bị tiêu diệt hoàn toàn, bầu trời Daréu bỗng rách toạc làm đôi khi toàn bộ lực lượng Quân Đội Ma Hủy Diệt tại Daréu bị quét sạch, mở đường cho Echjar – con rồng khổng lồ chuyển chức 7, Tiểu Đoàn Trưởng Tiểu Đoàn 13 kiêm Tuyệt Vọng Chi Long – giáng lâm đòi nợ máu.
 Cảnh kết thúc: Giữa lúc các thiên thần và liên quân rơi vào tuyệt vọng trước uy áp kinh hoàng của con rồng chuyển chức 7, Yu IlHan lại sáng rực mắt háo hức thèm muốn lấy nguyên liệu từ Echjar để chế tạo trang bị mới.
 
+## 243
+Tuyệt Vọng Chi Long Echjar (chuyển chức 7) giáng lâm áp đảo toàn bộ chiến trường, tiết lộ Quân Đội Ánh Sáng Rực Rỡ sắp tới Daréu và tàn sát hàng loạt thiên thần; Spiera dốc toàn lực dùng Đại Đoạn Vũ Trụ Thương nhưng hoàn toàn bất lực trước lớp phòng hộ mana của Echjar và rơi vào nguy khốn.
+Trước áp lực mana khổng lồ làm Ký Lục và Đọa Lạc vô hiệu, Yu IlHan quyết định dịch chuyển hai tòa pháo đài cùng toàn bộ quân đội rút lui đến nơi an toàn, chỉ giữ lại Liera bên mình để tìm cách cứu Spiera và đối đầu Echjar.
+Echjar nhận ra có kẻ ẩn thân và tung sóng mana cuồng bạo làm rung chuyển 5 lớp khiên Aegis, sau đó tích tụ đại ma pháp băng giá nhằm hủy diệt toàn bộ khu vực; chớp lấy thời khắc này, Yu IlHan tiêu hao 1.300 ma thạch cấp 4 và 15 ma thạch cấp 5 để kích hoạt kỹ năng Dịch Chuyển (Warp) cuốn theo Echjar.
+Cảnh kết thúc: Cả nhóm Yu IlHan, Liera, Spiera cùng Echjar an toàn đáp xuống Trái Đất; vì dám ra tay tấn công thực thể cấp thấp trước tiên tại một thế giới bậc thấp, Echjar gào thét dữ dội khi tư cách thực thể cấp cao của nó bắt đầu bị tước đoạt.
+
+
 
 
 

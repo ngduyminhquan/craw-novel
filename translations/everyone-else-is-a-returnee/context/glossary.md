@@ -731,3 +731,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | God of curses | god of curses; god of curse | Thần Lời Nguyền | khác | 239 | Vị thần hình thành từ tích lũy ghi chép lời nguyền trong Hồ Sơ Akashic muốn ban phước cho Paté |
 | Battalion Commander |  | Tiểu Đoàn Trưởng | cấp bậc | 242 | Chức vụ chỉ huy tiểu đoàn trong Quân Đội Ma Hủy Diệt, như Echjar là Tiểu Đoàn Trưởng Tiểu Đoàn 13 |
 | Dragon of Despair |  | Tuyệt Vọng Chi Long | danh hiệu | 242 | Danh hiệu của con rồng chuyển chức 7 Echjar thuộc Quân Đội Ma Hủy Diệt |
+| King of Dragons |  | Long Vương | danh hiệu | 243 | Danh hiệu tự xưng của Echjar, rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
