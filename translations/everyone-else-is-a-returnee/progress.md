@@ -255,7 +255,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | reviewed |  |
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | done |  |
 | 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | done |  |
-| 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | todo |  |
+| 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | done |  |
 | 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | todo |  |
 | 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | todo |  |
 | 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -935,3 +936,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#250] Chức vụ 'Chief Gatekeeper' của Khu Vườn Hoàng Hôn: tạm dịch 'Đại Thủ Môn Nhân' (phương án khác: 'Thủ Môn Trưởng', 'Chỉ Huy Gác Cổng'). → Chốt dịch "Chief Gatekeeper" là "Đại Thủ Môn Nhân" theo quy tắc dịch cấp bậc/chức danh sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#250] Chức danh 'Wing of Brilliant Light' của Quân Đội Ánh Sáng Rực Rỡ (như 8th Wing Natière): tạm dịch 'Cánh Của Ánh Sáng Rực Rỡ' (phương án khác: 'Đôi Cánh Ánh Sáng Rực Rỡ'). → Chốt dịch là "Cánh Của Ánh Sáng Rực Rỡ" (và dịch tự nhiên "Cánh Thứ 8 Của Ánh Sáng Rực Rỡ" khi đi kèm số thứ tự, bỏ qua cảnh báo false positive của QA). (orchestrator)
 - [#250] Kỹ thuật 'Spear of Untraceable Trajectory Overlap': tạm dịch 'Bất Khả Họa Quỹ Đạo Thương Trùng Điệp' (phương án khác: 'Bất Khả Họa Quỹ Đạo Thương Xếp Chồng'). → Chốt dịch là "Bất Khả Họa Quỹ Đạo Thương Trùng Điệp" theo quy tắc Hán Việt của rules.md. (orchestrator)
+- [#251] Kỹ năng 'Unshakable Heart' (Lv Max) tạm dịch là 'Tâm Bất Động' (phòng ngự tâm trí/kháng mê hoặc tối thượng); đề xuất user duyệt giữ nguyên hay đổi sang 'Tâm Bất Biến'. → Chốt dịch "Unshakable Heart" là "Tâm Bất Động" theo quy tắc dịch tên kỹ năng sang Hán Việt ngắn gọn trong rules.md. (orchestrator)

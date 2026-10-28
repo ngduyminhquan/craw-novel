@@ -743,3 +743,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Chief Gatekeeper | Chief Gatekeepers | Đại Thủ Môn Nhân | cấp bậc | 250 | Chức vụ chỉ huy cấp cao trong Khu Vườn Hoàng Hôn, tương đương Tiểu Đoàn Trưởng của các phe phái khác (như Kelatuke) |
 | Spear of Untraceable Trajectory Overlap |  | Bất Khả Họa Quỹ Đạo Thương Trùng Điệp | kỹ năng | 250 | Kỹ thuật lĩnh ngộ khi kết liễu Echjar, xếp chồng toàn bộ đòn đánh của Bất Khả Họa Quỹ Đạo Thương vào làm một đòn duy nhất |
 | Wing of Brilliant Light | wing of Brilliant Light | Cánh Của Ánh Sáng Rực Rỡ | cấp bậc | 250 | Chức danh chỉ huy cấp cao (tương đương Tiểu Đoàn Trưởng) của Quân Đội Ánh Sáng Rực Rỡ, được đánh số từ Cánh Thứ 1 đến Cánh Thứ 11 |
+| Unshakable Heart |  | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |

@@ -343,6 +343,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kelatuke | * | ta | các ngươi | 250 | Kelatuke giáng lâm tuyên bố kích hoạt phòng thủ tối cao |
 | Kelatuke | Yu IlHan | ta | ngươi | 250 | Kelatuke chất vấn Yu IlHan khi thấy anh thu hồi thi thể Lisona |
 | Yu IlHan | * | tôi | mọi người / các người | 250 | Yu IlHan cúi chào xin phép rời đi trước mặt đại diện các phe phái |
+| Yu IlHan | Helièna | tôi | cô / Helièna | 251 | Yu IlHan đối thoại trực diện và cự tuyệt sự quyến rũ của Nữ Hoàng Succubus Helièna |
+| Kelatuke | Helièna | ta | con dơi / ngươi | 251 | Kelatuke giận dữ vì bị Helièna thao túng cơ thể |
+| Helièna | Kelatuke | ta | con cá mập / ngươi | 251 | Helièna trêu chọc và thao túng Kelatuke |
+| YuNa | Helièna | em | chị / chị gái | 251 | Na YuNa can ngăn khi thấy Helièna dồn toàn lực mê hoặc Yu IlHan |
 
 
 
