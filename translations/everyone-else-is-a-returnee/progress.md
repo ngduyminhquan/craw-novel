@@ -270,7 +270,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | reviewed |  |
 | 264 |  | Chapter_264 - Wherever I Go – 7.txt | Wherever I Go – 7 | done |  |
 | 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | done |  |
-| 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | todo |  |
+| 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | done |  |
 | 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | todo |  |
 | 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | todo |  |
 | 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | todo |  |
@@ -955,3 +955,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#264] Câu chào "It's Guten Morgen, you fuckers!" của Yu IlHan: tạm dịch giữ nguyên từ tiếng Đức "Guten Morgen nhé, lũ khốn!" để giữ nét hài hước đùa cợt; nếu muốn thuần Việt có thể đổi thành "Chào buổi sáng nhé, lũ khốn!". → Giữ nguyên câu đùa Guten Morgen nhé, lũ khốn! theo sát bản gốc (orchestrator)
 - [#265] Kỹ năng "Lunatic wave" của Liera — Tạm dịch "Cuồng Ba". Phương án khác: "Cuồng Loạn Ba" / "Sóng Cuồng Loạn". → Chốt dịch là Cuồng Ba (orchestrator)
 - [#265] Tước vị "The 4th Wing of Brilliant Light" của Satière — Tạm dịch "Cánh Thứ 4 Của Ánh Sáng Rực Rỡ" (khớp với "Cánh Thứ 8 Của Ánh Sáng Rực Rỡ" ở #250). Phương án khác: "Cánh Của Ánh Sáng Rực Rỡ Thứ 4". → Chốt dịch là Cánh Thứ 4 Của Ánh Sáng Rực Rỡ để đồng bộ với #250 (orchestrator)
+- [#266] Tiêu đề arc mới "If You Wish To Follow Me" (#266–#273) — Tạm chọn: "Nếu Muốn Theo Tôi – N" ("Nếu Muốn Theo Tôi – 1" ở #266) để đồng bộ ngôi xưng "Tôi" với các arc trước ("Dù Tôi Đi Đâu", "Tôi Đi Cùng Cậu"). Phương án khác: "Nếu Ngươi Muốn Theo Ta – N" / "Nếu Muốn Đi Theo Tôi – N". → Chốt dịch tiêu đề arc là Nếu Muốn Theo Tôi – N (orchestrator)
+- [#266] Thuật ngữ "Netherworld" (thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ) — Tạm chọn: "Minh Giới" (Hán Việt ngắn gọn, đối ứng với Thiên Giới của Quân Đội Thiên Giới) và đã thêm vào glossary.md. Phương án khác: "Cõi Âm" / "U Minh Giới". → Chốt dịch là Minh Giới (orchestrator)

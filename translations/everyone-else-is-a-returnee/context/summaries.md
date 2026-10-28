@@ -1631,3 +1631,9 @@ Pháo Đài Bay dưới sự ẩn thân của Yumir vượt qua Bức Tường H
 Yu IlHan dốc toàn bộ thương xương rồng kết hợp Lôi Búa và kỹ năng Thần Lực tàn sát hàng ngàn thực thể cấp cao bảo vệ pháo đài, khiến kẻ địch kinh hãi nghi ngờ anh chính là Kẻ Thứ Năm trong truyền thuyết.
 Satière — thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ — giáng lâm tỏa uy áp hoàng đế khiến các thực thể chuyển chức 5 bị hóa đá tan biến mana và dọa bẻ gãy mọi hy vọng của phe thiên thần.
 Cảnh kết thúc: Nữ Hoàng Succubus Helièna xuất hiện như một đóa độc hoa bừng nở phía trên Pháo Đài Bay, quyến rũ mời gọi Satière giao đấu.
+
+## 266
+Helièna xuất hiện sống sờ sờ khiến Satière cùng liên minh các phe phái thực thể cấp cao bàng hoàng; Satière dốc lực tấn công nhưng các thực thể cấp cao khác bị mị lực của Helièna thao túng đứng ra đỡ đòn thay ả.
+Lợi dụng sự xao nhãng của Satière, Kang MiRae đã mở thành công cánh cổng nối thẳng tới Minh Giới (thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ); Yu IlHan dùng kết giới Đọa Lạc chặn đòn đánh của Satière để bảo vệ cổng.
+Quân Đội Ma Hủy Diệt cùng Khu Vườn Hoàng Hôn ồ ạt tràn qua cánh cổng tấn công Minh Giới khiến liên minh sụp đổ; các thiên thần sa ngã buộc phải rút lui để cứu nguy cho thế giới của mình, Satière bị Helièna khiêu khích và đành rút chạy.
+Nhiệm vụ hoàn tất, Kang MiRae kiệt sức ngã vào vòng tay Yu IlHan; giữa lúc Titaera đang chất vấn IlHan về quan hệ với Helièna, hai thực thể chuyển chức 7 khác lại gầm thét lao tới vì nhận ra người thương Helièna khiến IlHan hô hào cả nhóm bỏ chạy.

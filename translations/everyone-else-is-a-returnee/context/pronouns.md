@@ -389,3 +389,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Helièna | Satière | ta | Satière / ngươi | 265 | Hai chỉ huy chuyển chức 7 đối đầu |
 | Satière | Helièna | ta | ngươi | 265 | Hai chỉ huy chuyển chức 7 đối đầu |
 | Satière | Titaera | ta | ngươi / các ngươi / lũ bồ câu | 265 | Satière giáng lâm uy hiếp phe thiên thần |
+| Satière | Yu IlHan | ta | ngươi / tên con người | 266 | Satière gườm gườm thề sẽ bẻ gãy cổ Yu IlHan |
+| Helièna | Titaera | ta | cô / nữ thiên thần | 266 | Helièna đáp lại Titaera bằng vẻ ma mị trêu chọc |
+| Titaera | Helièna | tôi / ta | cô / succubus | 266 | Titaera khiếp sợ mị lực của Helièna |

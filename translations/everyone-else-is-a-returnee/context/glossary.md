@@ -752,3 +752,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | God of Magic | god of magic | Thần Ma Pháp | khác | 259 | Vị thần hình thành từ tích lũy ghi chép ma pháp trong Hồ Sơ Akashic ban phước cho Kang MiRae |
 | Crown of Wisdom |  | Vương Miện Trí Tuệ | vật phẩm | 263 | Tạo tác phẩm phẩm cấp Thần của Quân Đội Thiên Giới trao cho Kang MiRae |
 | Lunatic Wave | Lunatic wave | Cuồng Ba | kỹ năng | 265 | Kỹ năng thương thuật của Liera kết hợp ngọn lửa và ma pháp hỗ trợ |
+| Netherworld | the Netherworld | Minh Giới | địa danh | 266 | Thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ |

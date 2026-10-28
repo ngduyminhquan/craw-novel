@@ -749,6 +749,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện/tử trận tính đến chương 253: Ép Kelatuke, Natière và tàn quân ba phe tự sát dã man; làm trung gian giải trừ khế ước giữa IlHan và Spiera; mê đắm IlHan vì tin anh là Vị Thần Thứ Năm theo lời tiên tri và đặt tay anh lên ngực mình; bị IlHan lạnh lùng đâm xuyên nổ tung tim kết liễu.
 - Xuất hiện/tử trận tính đến chương 254: Thi thể được Yu IlHan thu nạp vào túi đồ cùng ghi chép Lv 519 (giúp Ký Lục của IlHan tăng lên cấp 56).
 - Trạng thái tính đến chương 262: Thi thể nguyên vẹn được Yu IlHan dùng Cái Nôi Kỳ Tích, máu Echjar, ma thạch cấp 7 và sức mạnh của Paté tái tạo và làm đập lại trái tim bằng Chế Tác Mana thuần thục; tàn niệm (giữ khoảng 60% ý thức nguyên bản) chấp nhận gắn kết với IlHan qua kỹ năng Thống Trị, chính thức trở thành thuộc hạ của Yu IlHan và được Linh Hồn Phụ Ma trở lại vào thể xác ban đầu.
+- Xuất hiện tính đến chương 266: Xuất hiện sống sờ sờ làm náo loạn liên minh các phe phái, dùng mị lực thao túng các thực thể cấp cao làm lá chắn đỡ đòn của Satière câu giờ cho Kang MiRae mở cổng; lộ ra chuyện có vô số người theo đuổi kể cả thực thể chuyển chức 7.
 
 ### Lisona
 - Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.
@@ -787,3 +788,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / Đặc điểm: Vẻ ngoài trung niên uy nghiêm như một vị hoàng đế, có 3 cặp cánh đen tuyền, đôi mắt đỏ rực như hồng ngọc, khoác áo lông đen bao trùm toàn thân; uy áp khủng khiếp khiến các thực thể chuyển chức 5 bị hóa đá và tan biến mana chỉ bằng một ánh nhìn.
 - Cách nói chuyện: Lạnh lùng, ngạo mạn, coi thường các thiên thần (gọi là "lũ bồ câu"), xem chiến tranh là điều phiền toái.
 - Xuất hiện tính đến chương 265: Xuất hiện trên chiến trường Bức Tường Hỗn Loạn định tự tay xóa sổ Yu IlHan; bị Nữ Hoàng Succubus Helièna xuất hiện chặn đầu mời gọi giao chiến.
+- Xuất hiện tính đến chương 266: Bị Helièna câu giờ làm Kang MiRae mở thành công cổng sang Minh Giới; bị các thực thể cấp cao khác cản đòn và suýt dính mị lực của Helièna, đành ngậm ngùi rút lui thề sẽ đích thân bẻ gãy cổ Yu IlHan và Helièna.
