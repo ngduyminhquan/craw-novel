@@ -261,7 +261,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | reviewed |  |
 | 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | done |  |
 | 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | done |  |
-| 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | todo |  |
+| 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | done |  |
 | 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | todo |  |
 | 259 |  | Chapter_259 - Wherever I Go – 2.txt | Wherever I Go – 2 | todo |  |
 | 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -944,3 +945,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#255] Thuật ngữ 'scale capsule' (vật thể hình bầu dục bảo vệ di vật của Lecidna) — Tạm chọn: 'kén vảy'. Phương án khác: 'viên nhộng vảy'. → Chốt dịch là kén vảy (orchestrator)
 - [#255] Thuật ngữ 'locket' (mặt dây chuyền mở nắp chứa thư) — Tạm chọn: 'mề đay'. Phương án khác: 'mặt dây chuyền mở nắp'. → Chốt dịch là mề đay (orchestrator)
 - [#256] Thuật ngữ 'colony' trong 'orc colony' / 'yeti colony' tạm dịch là 'bộ tộc / bầy' ('bộ tộc orc', 'bầy yeti'); xin xác nhận giữ nguyên hay đổi thành 'sào huyệt / quần thể'. → Giữ nguyên cách dịch linh hoạt theo ngữ cảnh (bộ tộc orc, bầy yeti) (orchestrator)
+- [#257] Dịch "spirits / elementals" ở thế giới hỗn loạn thành "tinh linh / nguyên tố" theo tiêu chuẩn Trái Đất. Phương án khác: "linh thể / nguyên tố thể". Tạm dùng trong bản dịch: "tinh linh / nguyên tố". → Chốt dịch là tinh linh / nguyên tố (orchestrator)

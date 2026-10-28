@@ -7,7 +7,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
-| Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
+| Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
 | Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae; MiRae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
@@ -356,6 +356,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 175: Trông trẻ trung như phụ nữ dưới 30 tuổi; sở hữu năng lực ma pháp xuất chúng, có thể giăng kết giới ngăn chặn sự giám sát của các thực thể cấp cao và dùng kho chứa không gian xé rách không gian cất giữ đồ; phát hiện và phong ấn vô hiệu hóa một ma pháp trận bí mật của Quân Đội Ánh Sáng Rực Rỡ tại dị giới từng kết nối; lập tổ đội cùng Kang MiRae, Na YuNa và Yumir đi các thế giới truy tìm và phá hủy các ma pháp trận tương tự; rất thích Kang MiRae và nhiệt tình chấm cô làm con dâu.
 - Trạng thái tính đến chương 180: Xuất hiện tại dinh thự Bittersweet Persona với diện mạo trẻ trung như thuở Yu IlHan còn học mẫu giáo, trông ngang ngửa tuổi Kang MiRae; đọc vị suy nghĩ của IlHan dễ dàng và ôm chầm lấy con trai trong cuộc hội ngộ ấm áp.
 - Trạng thái tính đến chương 181: Đạt cấp độ xấp xỉ chuyển chức 4; mở không gian thứ nguyên lấy ra mẫu ma pháp trận bí mật đã bị vô hiệu hóa; kinh ngạc trước ba thiên thần và chấm Liera làm "biến số quyến rũ" cạnh tranh vị trí con dâu.
+- Trạng thái tính đến chương 257: Được Yu IlHan tìm thấy tại thế giới hỗn loạn; diện mạo già đi khoảng 5 tuổi; đã đạt chuyển chức 4 ở cấp độ 299 (chạm đỉnh của thực thể cấp thấp) nhưng sự phát triển bị đình trệ và liên tục rơi vào vòng lặp kiểm soát mana/thời gian; từng rời khỏi Trái Đất đến Ya-umin bằng tạo tác máy thu phát của Khu Vườn Hoàng Hôn từ 3 năm trước (thời điểm Trái Đất trục xuất nhân loại).
 
 ### Yu YongHan
 - Cha của Yu IlHan, tính tình bộc trực, hay cằn nhằn, nghiến răng nhưng rất thương vợ con. Bị chuyển đến thế giới Heishia trong 10 năm; chật vật đạt chuyển chức lần 1; lo sợ bị xã hội đào thải nên vội vã đi làm ngay trong đêm khi giao dịch tài chính mở lại; xúc động nhận áo giáp bảo hộ từ con trai.

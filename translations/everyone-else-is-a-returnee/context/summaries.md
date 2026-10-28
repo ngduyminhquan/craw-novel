@@ -1567,3 +1567,10 @@ Tại Elo Katra, các Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt (Zenu
 Trở về Trái Đất nghỉ ngơi 4 ngày, IlHan quyết định đi tìm bố mẹ; anh thuyết phục Erta, Na YuNa, thuộc hạ và Yumir (được để lại Cái Nôi Kỳ Tích) ở lại Trái Đất rèn luyện, rồi cùng Liera dùng Dịch Chuyển đến thế giới Heishia nơi bố anh từng chuyển sinh.
 Đến Heishia và chứng kiến thế giới đang đứng trước bờ vực diệt vong vì quái vật, IlHan dùng kỹ năng Ký Lục truy vết dấu vết của Yu YongHan nhưng hoàn toàn không tìm thấy bất kỳ ghi chép nào, nghi ngờ bố mình cũng là bậc thầy ẩn thân.
 Cảnh kết thúc: Để đảm bảo an toàn tuyệt đối cho bố nếu ông còn sống, Yu IlHan giương Hiệu Triệu Diệt Vong bay lên và càn quét tiêu diệt toàn bộ quái vật trên khắp thế giới Heishia trong 17 tiếng trong trạng thái Ẩn Thân tuyệt đối, để lại bí ẩn vĩnh viễn về vị anh hùng cứu thế.
+
+## 257
+Sau khi lùng sục Heishia lần nữa mà không tìm thấy tung tích bố, Yu IlHan dùng Ký Lục kiểm tra mẹ Kim YeSeul và phát hiện bất thường khi có ghi chép về hai thế giới: Ya-umin và một thế giới bí ẩn không có ai khác từng đến.
+Đến Ya-umin trước, IlHan phát hiện mẹ đã rời đi từ 3 năm trước (thời điểm Trái Đất trục xuất nhân loại) bằng tạo tác máy thu phát của Khu Vườn Hoàng Hôn giống hệt món đồ Lecidna để lại.
+Rời Ya-umin sang thế giới thứ hai, IlHan và Liera đặt chân vào một không gian 'hỗn loạn' không phân định trời đất hay sống chết; bầy tinh linh tại đây nhận diện anh là Kẻ Thứ Năm sẽ trở thành Vị Thần Thứ Năm lập nên phe phái thực thể cấp cao thứ năm phá vỡ thế cân bằng và khơi mào đại chiến.
+Bỏ ngoài tai lời sấm truyền và tăng Ký Lục lên Lv 62, IlHan lần theo dấu vết tìm thấy mẹ Kim YeSeul đang ngồi luyện mana trên mỏm đá với diện mạo già đi khoảng 5 tuổi.
+Cảnh kết thúc: Kim YeSeul gượng cười thừa nhận bị ngưng trệ phát triển và mắc kẹt trong các vòng lặp, lộ diện thân phận là thực thể chuyển chức 4 ở cấp độ 299 tối thượng.
