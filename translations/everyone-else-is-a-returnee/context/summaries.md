@@ -1587,3 +1587,10 @@ Kim YeSeul chia tay bầy tinh linh tại Khu Vườn Mô Hình và được Yu 
 Trở lại Trái Đất, Na YuNa khoe đã đạt chuyển chức lần 4 lên cấp 279 nhờ chiến công tại Daréu rồi nhiệt tình ra mắt tự nhận làm "vợ hai"; Erta cũng chào hỏi và thông báo tin Spiera đã chết dưới tay IlHan, khiến Kim YeSeul thấu hiểu sự tàn khốc mà con trai phải đối mặt; bà ôm an ủi toàn bộ 8.000 đứa trẻ Newtype của Quân Đoàn Rồng và nhận được sự kính trọng của thuộc hạ IlHan.
 Sau khi thống nhất tạm hoãn chế tạo trang bị để đi tìm Kang MiRae (nhưng trước đó ăn một bữa đã), góc nhìn chuyển sang đế quốc Palladia tại Lanpas.
 Cảnh kết thúc: Kang MiRae hoàn thành kỳ tích khai phá cảnh giới Hồ Sơ Akashic và đạt chuyển chức lần 4, được Thần Ma Pháp ban phước giảm nửa mana và hồi phục mana hàng tháng, sau đó mở một cánh cổng lam sẵn sàng đi tìm gặp Yu IlHan trước sự bàng hoàng của Nữ hoàng Irma An Ill'ta.
+
+## 260
+Yu IlHan cùng nhóm bạn (Kim YeSeul, Liera, Erta, Na YuNa) điều khiển hai tòa pháo đài tới Lanpas tìm Kang MiRae; vừa thốt lời mong nơi đây bình yên thì cột sáng ma pháp từ hoàng thành Palladia bắn lên biến lời anh thành điềm báo thật.
+Yu IlHan nhảy xuống ban công tái ngộ Kang MiRae (đã chuyển chức 4) và phát hiện một vòng xoáy ma pháp vượt chiều không gian do cô tạo ra để đi tìm anh; một thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới xuất hiện trong sợ hãi trước uy áp của IlHan và muốn mượn sức mạnh cánh cổng vượt chiều để cứu nguy cho Thiên giới.
+Na YuNa nhảy từ trên cao xuống sà vào lòng IlHan rồi trêu chọc và giải tỏa nỗi lo cho MiRae, xác nhận HaJin vẫn bình an; IlHan hỏi ý kiến MiRae về đề nghị của thiên thần, nhưng MiRae mỉm cười tuyên bố chỉ muốn dùng sức mạnh vượt chiều vì anh khiến tên thiên thần thở dài thất vọng.
+Cảnh kết thúc: Kim YeSeul cười rạng rỡ khi nhắm trúng MiRae làm "ứng cử viên thứ tư" cho vị trí con dâu, trong khi Yu IlHan toát mồ hôi bất an trước tình cảm mãnh liệt của cô.
+

@@ -264,7 +264,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | reviewed |  |
 | 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | done |  |
 | 259 |  | Chapter_259 - Wherever I Go – 2.txt | Wherever I Go – 2 | done |  |
-| 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | todo |  |
+| 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | done |  |
 | 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | todo |  |
 | 262 |  | Chapter_262 - Wherever I Go – 5.txt | Wherever I Go – 5 | todo |  |
 | 263 |  | Chapter_263 - Wherever I Go – 6.txt | Wherever I Go – 6 | todo |  |
@@ -949,3 +949,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#257] Dịch "spirits / elementals" ở thế giới hỗn loạn thành "tinh linh / nguyên tố" theo tiêu chuẩn Trái Đất. Phương án khác: "linh thể / nguyên tố thể". Tạm dùng trong bản dịch: "tinh linh / nguyên tố". → Chốt dịch là tinh linh / nguyên tố (orchestrator)
 - [#258] Tiêu đề arc "Wherever I Go" dịch là "Dù Tôi Đi Đâu – N" (tạm dùng cho #258: "Dù Tôi Đi Đâu – 1"; phương án khác: "Dù Tôi Đến Đâu – N", "Bất Kể Nơi Nào Tôi Đến – N"). → Chốt dịch tiêu đề arc là Dù Tôi Đi Đâu – N (orchestrator)
 - [#258] Thế giới ngưng trệ không-thời gian "Model Garden" của Khu Vườn Hoàng Hôn dịch là "Khu Vườn Mô Hình" (tạm chốt vào glossary; phương án khác: "Vườn Mô Hình", "Khu Vườn Kiểu Mẫu"). → Chốt dịch là Khu Vườn Mô Hình (orchestrator)
+- [#260] Cụm từ "foreshadow meister" — Tạm dịch: "bậc thầy điềm báo" (thống nhất với các chương trước dịch "foreshadow" là "điềm báo"). Phương án khác: "chuyên gia cắm cờ" hoặc "bậc thầy cắm flag". → Chốt dịch là bậc thầy điềm báo (orchestrator)

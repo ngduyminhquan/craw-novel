@@ -345,7 +345,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dark Flame Dragon |  | Hắc Viêm Long | khác | 54 | Rồng lửa đen trong câu đùa chuunibyou của Erta |
 | Depression |  | Trầm Cảm | khác | 54 | Biệt danh người đời chế giễu tổ chức Trấn Áp do nhân viên lúc nào cũng mang bộ mặt ủ rũ như sắp chết |
 | Breya | Bretya | Breya | địa danh | 55 | Thế giới khác nơi Na YuNa từng chuyển sinh đến |
-| Palladia | Great Empire of Palladia | Palladia | địa danh | 55 | Đế quốc nơi có Cung Đình Ma Pháp Trưởng sở hữu trượng Độc Nhất |
+| Palladia | Great Empire of Palladia, Palladian Empire | Palladia | địa danh | 55 | Đế quốc nơi có Cung Đình Ma Pháp Trưởng sở hữu trượng Độc Nhất |
 | Illta | Magic Kingdom of Illta | Illta | địa danh | 55 | Tên Vương quốc/Đế quốc Ma Pháp trong truyền thuyết |
 | Quegna | Quegnae | Quegna | quái vật | 55 | Loài quái vật tích tụ ma lực trong xương sống trong hầm ngục tại Trung Quốc |
 | Palace Magic Chief |  | Cung Đình Ma Pháp Trưởng | chức nghiệp | 55 | Chức danh người đứng đầu ma pháp hoàng gia tại đế quốc Palladia |
