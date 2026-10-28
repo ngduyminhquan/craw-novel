@@ -168,7 +168,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Shrinking magic |  | Ma pháp thu nhỏ | hệ thống | 16 | Ma pháp Erta dùng để thu nhỏ cơ thể xuống kích thước lòng bàn tay |
 | Invisibility magic |  | Ma pháp tàng hình | hệ thống | 18 | Ma pháp các thiên thần định thi triển lên IlHan để che giấu người thường |
 | Rare |  | Hiếm | hệ thống | 19 | Phẩm cấp trang bị/vật phẩm |
-| Defense |  | Phòng thủ | hệ thống | 19 | Chỉ số phòng thủ của trang bị |
+| Defense | Defence | Phòng thủ | hệ thống | 19 | Chỉ số phòng thủ của trang bị |
 | Secretive |  | Kín Đáo | hệ thống | 19 | Tiền tố dòng thuộc tính alpha/beta giúp che giấu |
 | Sharp |  | Sắc Bén | hệ thống | 19 | Tiền tố dòng thuộc tính alpha/beta tăng uy lực đâm chém |
 | Direwolf Leather Gloves |  | Găng Tay Da Sói Bạo Tàn | vật phẩm | 19 | Găng tay da Sói Bạo Tàn do Yu IlHan chế tạo |
@@ -737,3 +737,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Elo Katra |  | Elo Katra | địa danh | 247 | Thế giới bậc cao nằm ngoài Bức Tường Hỗn Loạn, đại bản doanh của Quân Đội Ma Hủy Diệt |
 | Succubus Queen |  | Nữ Hoàng Succubus | danh hiệu | 247 | Danh hiệu và chủng tộc tối cao của Helièna trong tộc succubus |
 | indestructible |  | Không thể phá hủy | hệ thống | 248 | Chỉ số độ bền của tạo tác phẩm cấp Thần |
+| Hell Seeker's Demon Eye |  | Ma Nhãn Kẻ Tìm Địa Ngục | vật phẩm | 249 | Tấm ma nhãn chế tác từ mắt rồng Echjar qua Chế Tác Mana làm linh kiện cho mũ giáp |
+| Dragoneye of the Avenger |  | Long Nhãn Kẻ Báo Thù | vật phẩm | 249 | Chiếc mũ giáp phẩm cấp Hỗn Loạn chế tạo từ vảy rồng và mắt rồng Echjar của Yu IlHan |
+| Cursed King |  | Nguyền Vương | danh hiệu | 249 | Biệt danh tự xưng hài hước của Yu IlHan nếu bị dính nguyền rủa |
