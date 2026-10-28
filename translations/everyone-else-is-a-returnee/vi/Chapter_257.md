@@ -54,7 +54,7 @@ Ya-umin là một thế giới phát triển rất chậm chạp, và dù thời
 
 "Đằng kia, một con troll đang lao về phía cậu đấy!"
 
-"Đừng để nó chạy thoát, bắt lấy nó! Khoan đã, cô đang làm cái trò gì trong bẫy thế hả!"
+"Đừng để nó chạy thoát, bắt lấy nó! Khoan đã, bà đang làm cái trò gì trong bẫy thế hả!"
 
 "Đằng nào tôi cũng chẳng trông mong gì ở bà già đó cả. Giữ lấy! Giữ lấy!"
 
@@ -154,7 +154,7 @@ Những thực thể với cơ thể mềm mại phát ra ánh sáng bán trong 
 
 [Hóa ra là vậy. Hắn là con trai của YeSeul.]
 
-[Hắn tràn ngập hỗn loạn. Ôi chao, trên người hắn còn có cả máu của Khu Vườn Hoàng Hôn nữa kìa.]
+[Hắn tràn ngập hỗn loạn. Ôi chao, trên người hắn còn vấy cả máu của Khu Vườn Hoàng Hôn nữa kìa.]
 
 [Hơn nữa, hắn vẫn là một thực thể cấp thấp.]
 
@@ -238,6 +238,6 @@ Nhìn Kim YeSeul trông như đã già đi khoảng năm tuổi, Yu IlHan nở m
 
 Kim YeSeul gượng cười rồi nhún vai. Yu IlHan chỉ biết mỉm cười đáp lại.
 
-Bà là một người chuyển chức 4 ở cấp độ 299.
+Bà là một người chuyển chức 4 ở Lv 299.
 
 [← Chương trước](Chapter_256.md) | [Chương tiếp theo →](Chapter_258.md)

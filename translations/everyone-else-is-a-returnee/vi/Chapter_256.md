@@ -146,7 +146,7 @@ Những người còn lại nhận ra số phận của mình và rơi vào tuy�
 
 "Tôi cũng sẽ... trở nên mạnh hơn một chút."
 
-"Khuỵt, không ngờ lại không thể hầu cận Bệ hạ... Thần cũng sẽ nghiên cứu thêm về đám tay sai undead."
+"Hự, không ngờ lại không thể hầu cận Bệ hạ... Thần cũng sẽ nghiên cứu thêm về đám tay sai undead."
 
 Anh vỗ đầu từng người thuộc hạ của mình. Thấy họ đã rũ bỏ được nỗi thất vọng, anh khẽ bật cười rồi nhìn sang Liera và Yumir. Anh không thực sự cần phải để hai người này ở lại.
 

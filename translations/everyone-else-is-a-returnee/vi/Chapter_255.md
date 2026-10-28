@@ -22,7 +22,7 @@ Erica cẩn thận tiến lại gần Yu IlHan và Liera.
 
 "Cảm ơn cô, Erica. Chúng ta đã nắm rõ số lượng thương vong chưa?"
 
-"Các biện pháp thích hợp đều đã được thực hiện. Tất cả chúng thần đều đang chờ mệnh lệnh tiếp theo của chủ nhân."
+"Các biện pháp thích hợp đều đã được thực hiện. Tất cả chúng tôi đều đang chờ mệnh lệnh tiếp theo của chủ nhân."
 
 Yu IlHan xoa đầu Erica, người đang khẽ cúi đầu xuống. Nhìn đôi tai khẽ giật giật của cô, anh mỉm cười nhẹ rồi nói.
 
@@ -54,7 +54,7 @@ Trong khi Yu IlHan cạn lời trước những lời của Yumir, thì lũ tr�
 
 Đối với chúng, Yumir là tất cả, vậy nên hẳn là chúng sẽ thấu hiểu được điều gì đó sau khi thấy cậu tiễn đưa mẹ mình. Dẫu sẽ thật tệ nếu chúng do dự khi chiến đấu với kẻ thù, nhưng ít nhất chúng cũng có thể tránh việc bị ảnh hưởng bởi cái chết của đồng minh.
 
-"Mọi người đều đã vất vả rồi. Máu mà các bạn đổ xuống đều đã trở thành hạt giống để giành lại Daréu."
+"Mọi người đều đã vất vả rồi. Máu mà mọi người đổ xuống đều đã trở thành hạt giống để giành lại Daréu."
 
 "Và cùng với những giọt nước mắt của chúng ta, nguyện cầu tộc elf sẽ lại phồn vinh một lần nữa..."
 
@@ -174,7 +174,7 @@ Dù sao đi nữa, tang lễ cũng đã khép lại tại đây. Một khi đã 
 
 Trong khi Yu IlHan đang chuẩn bị kích hoạt hai pháo đài, Mirfa cất tiếng hỏi với giọng hốt hoảng. Anh không thể phớt lờ ánh mắt tha thiết mong anh ở lại thêm với họ, bèn đáp lại bằng một nụ cười khổ.
 
-"Ta xin lỗi. Nhưng ta không thể đưa tất cả các bạn đến Trái Đất được... Ta sẽ quay trở lại khi cần đến sức mạnh của mọi người, vậy nên hãy tiếp tục chiến đấu cho tới lúc đó nhé. Ta rất mong chờ ngày tất cả các bạn trở nên mạnh mẽ hơn."
+"Tôi xin lỗi. Nhưng tôi không thể đưa tất cả mọi người đến Trái Đất được... Tôi sẽ quay trở lại khi cần đến sức mạnh của mọi người, vậy nên hãy tiếp tục chiến đấu cho tới lúc đó nhé. Tôi rất mong chờ ngày tất cả các cậu trở nên mạnh mẽ hơn."
 
 "Nhưng mà..."
 
@@ -188,7 +188,7 @@ Jirl mỉm cười đầy tự tin đáp lời Mirfa, người vẫn chưa thể
 
 Tình cảm mà các elf dành cho Yu IlHan là tuyệt đối. Anh cảm thấy chuyện này hết sức ngượng ngùng, nhưng bọn họ cũng đều vô cùng đáng yêu. Yu IlHan khẽ vuốt tóc Mirfa và an ủi cô.
 
-"Kể cả không cần sự giúp đỡ của các bạn, ta vẫn sẽ ghé qua đây chơi mà. Bây giờ việc đi sang thế giới này đối với ta chẳng có gì khó khăn cả."
+"Kể cả không cần sự giúp đỡ của mọi người, tôi vẫn sẽ ghé qua đây chơi mà. Bây giờ việc đi sang thế giới này đối với tôi chẳng có gì khó khăn cả."
 
 "...Vâng, thưa Bệ hạ! Chúng thần sẽ chờ ngày Người trở lại!"
 
@@ -228,7 +228,7 @@ Thế nhưng khi anh chuẩn bị khởi động kỹ năng Dịch Chuyển, Na 
 
 "B, bố mẹ áaaa!?" Na YuNa giật bắn mình hét lên rồi bắt đầu chải lại mái tóc. Liera và Erta cũng trở nên căng thẳng. Vì những gì họ đang nghĩ lộ rõ mồn một ra mặt, nên Yu IlHan liền cốc đầu mỗi cô nàng một cái.
 
-"Đâu phải mọi thế giới khác đều hỗn loạn tan hoang như Daréu đâu, vậy nên từ giờ chúng ta cứ từ tốn thôi. Dù sao thì cũng phải mất một thời gian Trái Đất mới bật nhảy lên thành thế giới bậc cao được... Vả lại chúng ta cũng cần phải nghỉ ngơi đôi chút nữa."
+"Đâu phải mọi thế giới khác đều hỗn loạn tan hoang như Daréu đâu, vậy nên từ giờ chúng ta cứ từ tốn thôi. Dù sao thì cũng phải mất một thời gian Trái Đất mới nhảy vọt lên thành thế giới bậc cao được... Vả lại chúng ta cũng cần phải nghỉ ngơi đôi chút nữa."
 
 "Còn phải chế tạo trang bị từ những chiến lợi phẩm thu được nữa chứ gì."
 

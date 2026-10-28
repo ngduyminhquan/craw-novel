@@ -259,9 +259,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | reviewed |  |
 | 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | reviewed |  |
 | 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | reviewed |  |
-| 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | done |  |
-| 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | done |  |
-| 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | done |  |
+| 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | reviewed |  |
+| 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | reviewed |  |
+| 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | reviewed |  |
 | 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | todo |  |
 | 259 |  | Chapter_259 - Wherever I Go – 2.txt | Wherever I Go – 2 | todo |  |
 | 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | todo |  |
