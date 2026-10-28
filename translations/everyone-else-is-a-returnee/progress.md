@@ -262,7 +262,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | reviewed |  |
 | 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | reviewed |  |
 | 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | reviewed |  |
-| 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | todo |  |
+| 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | done |  |
 | 259 |  | Chapter_259 - Wherever I Go – 2.txt | Wherever I Go – 2 | todo |  |
 | 260 |  | Chapter_260 - Wherever I Go – 3.txt | Wherever I Go – 3 | todo |  |
 | 261 |  | Chapter_261 - Wherever I Go – 4.txt | Wherever I Go – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -946,3 +947,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#255] Thuật ngữ 'locket' (mặt dây chuyền mở nắp chứa thư) — Tạm chọn: 'mề đay'. Phương án khác: 'mặt dây chuyền mở nắp'. → Chốt dịch là mề đay (orchestrator)
 - [#256] Thuật ngữ 'colony' trong 'orc colony' / 'yeti colony' tạm dịch là 'bộ tộc / bầy' ('bộ tộc orc', 'bầy yeti'); xin xác nhận giữ nguyên hay đổi thành 'sào huyệt / quần thể'. → Giữ nguyên cách dịch linh hoạt theo ngữ cảnh (bộ tộc orc, bầy yeti) (orchestrator)
 - [#257] Dịch "spirits / elementals" ở thế giới hỗn loạn thành "tinh linh / nguyên tố" theo tiêu chuẩn Trái Đất. Phương án khác: "linh thể / nguyên tố thể". Tạm dùng trong bản dịch: "tinh linh / nguyên tố". → Chốt dịch là tinh linh / nguyên tố (orchestrator)
+- [#258] Tiêu đề arc "Wherever I Go" dịch là "Dù Tôi Đi Đâu – N" (tạm dùng cho #258: "Dù Tôi Đi Đâu – 1"; phương án khác: "Dù Tôi Đến Đâu – N", "Bất Kể Nơi Nào Tôi Đến – N"). → Chốt dịch tiêu đề arc là Dù Tôi Đi Đâu – N (orchestrator)
+- [#258] Thế giới ngưng trệ không-thời gian "Model Garden" của Khu Vườn Hoàng Hôn dịch là "Khu Vườn Mô Hình" (tạm chốt vào glossary; phương án khác: "Vườn Mô Hình", "Khu Vườn Kiểu Mẫu"). → Chốt dịch là Khu Vườn Mô Hình (orchestrator)

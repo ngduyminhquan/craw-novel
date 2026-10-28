@@ -748,3 +748,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
 | fifth God | fifth god; the fifth God; the fifth god | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
 | Lünaë |  | Lünaë | địa danh | 256 | Khu vực/thành trì tại thế giới Heishia bị quân đội orc tàn phá |
+| Model Garden |  | Khu Vườn Mô Hình | địa danh | 258 | Thế giới hỗn loạn nơi thời gian và không gian ngưng trệ, thuộc quyền quản lý của Khu Vườn Hoàng Hôn |

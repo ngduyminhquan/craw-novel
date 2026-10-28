@@ -293,6 +293,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | Yu YongHan | cháu | bác | 175 | Kang MiRae chào bố của Yu IlHan |
 | Yu YongHan | Kang MiRae | bác | cháu | 175 | Yu YongHan đối thoại với Kang MiRae |
 | Liera | Kim YeSeul | cháu | bác | 181 | Liera chào hỏi mẹ của Yu IlHan |
+| Kim YeSeul | Liera | mẹ | con / Liera | 258 | Kim YeSeul ôm Liera vào lòng xem như đứa con khác của mình |
 | Liera | YuNa | tôi / ta | cô | 182 | Liera đe dọa Na YuNa khi Na YuNa đòi hẹn hò riêng với IlHan |
 | YuNa | Liera | tôi / em | cô | 182 | Na YuNa đối đáp với Liera |
 | Tibera | Erta | ta | Erta / cô | 190 | Thiên thần cấp cao chuyển chức lần 6 nói với Erta |

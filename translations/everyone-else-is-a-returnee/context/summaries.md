@@ -1574,3 +1574,10 @@ Sau khi lùng sục Heishia lần nữa mà không tìm thấy tung tích bố, 
 Rời Ya-umin sang thế giới thứ hai, IlHan và Liera đặt chân vào một không gian 'hỗn loạn' không phân định trời đất hay sống chết; bầy tinh linh tại đây nhận diện anh là Kẻ Thứ Năm sẽ trở thành Vị Thần Thứ Năm lập nên phe phái thực thể cấp cao thứ năm phá vỡ thế cân bằng và khơi mào đại chiến.
 Bỏ ngoài tai lời sấm truyền và tăng Ký Lục lên Lv 62, IlHan lần theo dấu vết tìm thấy mẹ Kim YeSeul đang ngồi luyện mana trên mỏm đá với diện mạo già đi khoảng 5 tuổi.
 Cảnh kết thúc: Kim YeSeul gượng cười thừa nhận bị ngưng trệ phát triển và mắc kẹt trong các vòng lặp, lộ diện thân phận là thực thể chuyển chức 4 ở cấp độ 299 tối thượng.
+
+## 258
+Liera tuyên bố đã có được Yu IlHan khiến Kim YeSeul thích thú trêu chọc chuyện sớm có đứa cháu nội thứ hai; Kim YeSeul kể lại quá khứ khi Đại Tai Biến xảy ra, bà bị ném một mình vào Khu Vườn Mô Hình — một thế giới tĩnh lặng ngưng trệ không-thời gian thuộc quản lý của Khu Vườn Hoàng Hôn.
+Không có thầy dạy, bà tự làm quen với mana nhờ kết bạn cùng bầy tinh linh, tự ngộ ra ma pháp không-thời gian và cùng tinh linh tiêu diệt toàn bộ quái vật để đạt tới Lv 299; sau đó bà dùng tạo tác của tinh linh đến Ya-umin sống 10 năm cùng người Trái Đất rồi trở về.
+Sau này, nghi ngờ Khu Vườn Hoàng Hôn mưu đồ hãm hại, bà làm trái lời cảnh báo và cùng nhóm MiRae, YuNa, Yumir phá hủy các ma pháp trận bí mật của Quân Đội Ma Hủy Diệt và Quân Đội Ánh Sáng Rực Rỡ, dẫn đến việc bị đẩy ngược về Khu Vườn Mô Hình đúng 3 năm.
+IlHan cũng trải lòng chia sẻ về quãng đời 1.000 năm bị bỏ lại trên Trái Đất cùng Lita/Liera; Kim YeSeul xúc động rơi nước mắt ôm chầm lấy IlHan vỗ về giải tỏa gánh nặng tâm lý ngàn năm của con trai.
+Cảnh kết thúc: Kim YeSeul dang tay kéo cả Liera vào lòng tràn ngập tình mẫu tử; trong thế giới ngưng đọng không-thời gian, cả ba người cứ thế lặng im bên nhau trong vòng tay ấm áp.
