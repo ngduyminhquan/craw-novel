@@ -359,6 +359,13 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Spiera | tôi | cô / Spiera | 253 | Giải trừ khế ước Bạn Đồng Hành Thiên Thần, quyết đấu bài học cuối cùng và tiễn đưa Spiera |
 | Zenusva | Hillutonne | ta | ngươi | 256 | Zenusva khuyên can Hillutonne kiềm chế trả thù cho Helièna |
 | Hillutonne | Zenusva | ta | ngươi | 256 | Hillutonne tranh luận với Zenusva trong hội nghị |
+| Liera | Kim YeSeul | con | mẹ | 259 | Liera gọi mẹ sau khi được Kim YeSeul nhận làm con gái |
+| YuNa | Kim YeSeul | con | mẹ | 259 | Na YuNa công khai nhận làm vợ hai và gọi mẹ |
+| Kim YeSeul | YuNa | mẹ | con | 259 | Kim YeSeul đáp lời và gọi Na YuNa là con |
+| Erta | Kim YeSeul | cháu | bác | 259 | Erta chào hỏi mẹ của Yu IlHan |
+| Kim YeSeul | Erta | bác | cháu | 259 | Kim YeSeul đáp lại lời chào của Erta |
+| Erica | Kim YeSeul | tôi / thần | phu nhân / người / bác | 259 | Erica cung kính chào hỏi mẹ của chủ nhân |
+| Kim YeSeul | Erica | bác | cháu / cô | 259 | Kim YeSeul đáp lại lời chào của Erica |
 
 
 

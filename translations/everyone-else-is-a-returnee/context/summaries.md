@@ -1581,3 +1581,9 @@ Không có thầy dạy, bà tự làm quen với mana nhờ kết bạn cùng b
 Sau này, nghi ngờ Khu Vườn Hoàng Hôn mưu đồ hãm hại, bà làm trái lời cảnh báo và cùng nhóm MiRae, YuNa, Yumir phá hủy các ma pháp trận bí mật của Quân Đội Ma Hủy Diệt và Quân Đội Ánh Sáng Rực Rỡ, dẫn đến việc bị đẩy ngược về Khu Vườn Mô Hình đúng 3 năm.
 IlHan cũng trải lòng chia sẻ về quãng đời 1.000 năm bị bỏ lại trên Trái Đất cùng Lita/Liera; Kim YeSeul xúc động rơi nước mắt ôm chầm lấy IlHan vỗ về giải tỏa gánh nặng tâm lý ngàn năm của con trai.
 Cảnh kết thúc: Kim YeSeul dang tay kéo cả Liera vào lòng tràn ngập tình mẫu tử; trong thế giới ngưng đọng không-thời gian, cả ba người cứ thế lặng im bên nhau trong vòng tay ấm áp.
+
+## 259
+Kim YeSeul chia tay bầy tinh linh tại Khu Vườn Mô Hình và được Yu IlHan dùng Dịch Chuyển đưa cùng Liera trở về Trái Đất; bầy tinh linh gửi lời cảnh báo về mối hiểm họa khôn lường của Khu Vườn Hoàng Hôn khi làm đồng minh.
+Trở lại Trái Đất, Na YuNa khoe đã đạt chuyển chức lần 4 lên cấp 279 nhờ chiến công tại Daréu rồi nhiệt tình ra mắt tự nhận làm "vợ hai"; Erta cũng chào hỏi và thông báo tin Spiera đã chết dưới tay IlHan, khiến Kim YeSeul thấu hiểu sự tàn khốc mà con trai phải đối mặt; bà ôm an ủi toàn bộ 8.000 đứa trẻ Newtype của Quân Đoàn Rồng và nhận được sự kính trọng của thuộc hạ IlHan.
+Sau khi thống nhất tạm hoãn chế tạo trang bị để đi tìm Kang MiRae (nhưng trước đó ăn một bữa đã), góc nhìn chuyển sang đế quốc Palladia tại Lanpas.
+Cảnh kết thúc: Kang MiRae hoàn thành kỳ tích khai phá cảnh giới Hồ Sơ Akashic và đạt chuyển chức lần 4, được Thần Ma Pháp ban phước giảm nửa mana và hồi phục mana hàng tháng, sau đó mở một cánh cổng lam sẵn sàng đi tìm gặp Yu IlHan trước sự bàng hoàng của Nữ hoàng Irma An Ill'ta.
