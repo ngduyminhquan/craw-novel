@@ -82,7 +82,7 @@ Bên trong lãnh địa của Đọa Lạc, toàn bộ kẻ thù của Yu IlHan 
 
 Dù cho đây là chiến trường nơi tính mạng ngàn cân treo sợi tóc, các elf và Lang tộc vẫn không hề lùi bước mà lao thẳng vào kẻ thù. Ai là người xứng đáng hơn với sự đối đãi đặc biệt của Yu IlHan? Đây chính là cơ hội tốt để phân định điều đó. Mặc dù đây là một lối suy nghĩ hết sức hung bạo và đậm tính quân phiệt, nhưng vào lúc này trên chiến trường, nó lại là một lối suy nghĩ vô cùng chuẩn xác.
 
-"O a a a a a a a k!"
+"Oaaaaaaaak!"
 
 "Ta sẽ không chết! Ta sẽ giết chết chúng!"
 
@@ -186,7 +186,7 @@ Yu IlHan tập hợp quân đội đang đắm chìm trong cảm giác ngọt ng
 
 "Rõ rồi ạ!"
 
-"....Mọi người đã chiến đấu rất vất vả rồi, nên hãy nghỉ ngơi một chút đi. Paté. Cậu hãy quản lý đám undead của mình kể từ giờ."
+"....Mọi người đã chiến đấu rất vất vả rồi, nên hãy nghỉ ngơi một chút đi. Paté. Cậu hãy quản lý đám undead của mình từ giờ trở đi."
 
 "Rõ!"
 

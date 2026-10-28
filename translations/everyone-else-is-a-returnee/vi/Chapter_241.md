@@ -154,7 +154,7 @@ Spiera lắc đầu rồi khép hai cánh lại, đáp xuống pháo đài bay. 
 
 Nụ cười trên môi cô thoáng chút cay đắng. Thế nhưng ngay khoảnh khắc tiếp theo, cô gật đầu với một nụ cười rạng rỡ mà Yu IlHan chưa từng thấy trước đây.
 
-[Đó là chuyện tốt. Đó là một hỷ sự. Hãy trân trọng cô ấy, Yu IlHan. Nếu là cậu trong tương lai... cậu có thể bảo vệ Liera.]
+[Đó là chuyện tốt. Đó là một chuyện đáng mừng. Hãy trân trọng cô ấy, Yu IlHan. Nếu là cậu trong tương lai... cậu có thể bảo vệ Liera.]
 
 "Cô không bảo Liera quay trở lại Quân Đội Thiên Giới sao?"
 

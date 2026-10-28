@@ -22,29 +22,29 @@ Spiera dường như cũng không ngờ trận chiến lại nổ ra sớm đế
 
 Liera ngượng ngùng bước ra khỏi dinh thự trong bộ đồ ngủ, rồi chẳng chút phòng bị nép chặt vào lòng Yu IlHan. Không phải cô không để ý thấy Spiera, mà chỉ đơn giản là cô chẳng thèm bận tâm chút nào. Spiera bật cười lớn khi nhìn vẻ mặt bình thản của Liera rồi vỗ đôi cánh bay vút lên.
 
-[Tôi nhìn mà ngứa mắt quá rồi. Yu IlHan, tôi đi trước đây. Tôi phải đập cho con thằn lằn ngạo mạn kia một trận mới được.]
+[Ta nhìn mà ngứa mắt quá rồi. Yu IlHan, ta đi trước đây. Ta phải đập cho con thằn lằn ngạo mạn kia một trận mới được.]
 
 "Đừng quên là Ẩn Thân của cô chỉ duy trì cho tới đòn tấn công đầu tiên thôi đấy."
 
-[Đòn tấn công đầu tiên ư? Tôi nghĩ cậu nhầm rồi đấy.]
+[Đòn tấn công đầu tiên ư? Ta nghĩ cậu nhầm rồi đấy.]
 
 Hai mắt Spiera lóe sáng. Trong lúc đang trải nghiệm hiệu quả từ kỹ năng Ẩn Thân của Yu IlHan, không một ai ngoại trừ Liera và Yu IlHan có thể nhìn thấy cô — và cô nở một nụ cười đầy tự tin. Vận toàn bộ sức mạnh của một thực thể chuyển chức 6, cô dõng dạc tuyên bố.
 
-[Nếu là tôi của hiện tại, đòn đầu tiên cũng sẽ là đòn cuối cùng.]
+[Nếu là ta của hiện tại, đòn đầu tiên cũng sẽ là đòn cuối cùng.]
 
 "...."
 
-[Yu IlHan, đòn tấn công tuyệt đỉnh nhất của tôi — hãy khắc sâu nó vào hai mắt cậu đi. Hãy cảm thấy may mắn vì cậu đã có cơ hội được tận mắt chứng kiến Đại Đoạn Vũ Trụ Thương ở cự ly gần thế này.]
+[Yu IlHan, đòn tấn công tuyệt đỉnh nhất của ta — hãy khắc sâu nó vào hai mắt cậu đi. Hãy cảm thấy may mắn vì cậu đã có cơ hội được tận mắt chứng kiến Đại Đoạn Vũ Trụ Thương ở cự ly gần thế này.]
 
 Trong suốt cuộc đời mình, Spiera chưa từng bao giờ phải dựa dẫm vào ẩn thân. Đối với một người luôn tiên phong chiến đấu ở tuyến đầu như cô, đó là một điều đáng xấu hổ! Thế nhưng suy nghĩ đó đã dần dần thay đổi khi cô dõi theo Yu IlHan.
 
 Kẻ sống sót mới là kẻ chiến thắng, và từ trước đến nay Yu IlHan luôn giành hết thắng lợi này đến thắng lợi khác nhờ vào kỹ năng ẩn thân của mình. Chứng kiến những gì anh sở hữu sau tất cả những điều đó, sự hèn nhát hay nỗi xấu hổ bỗng trở thành những trò nực cười. Hơn nữa, đây lại là một cuộc chiến vì một thế giới bậc cao! Bất cứ thứ gì có thể tận dụng để tạo lợi thế thì đều phải đem ra dùng.
 
-[Vậy thì, tôi đi đây.]
+[Vậy thì, ta đi đây.]
 
 "Nhờ có tôi mà cô mới ẩn thân được đấy, nên chia cho tôi một nửa chiến lợi phẩm nhé?"
 
-[Tham lam thật đấy... Hứ, coi như đây là tiền hối lộ cho liên minh đi. Tôi sẽ nhường hết cho cậu. Vậy nên hãy mở to mắt ra mà đứng đây xem tôi thể hiện.]
+[Tham lam thật đấy... Hứ, coi như đây là tiền hối lộ cho liên minh đi. Ta sẽ nhường hết cho cậu. Vậy nên hãy mở to mắt ra mà đứng đây xem ta thể hiện.]
 
 Ngọn thương của Spiera bừng sáng một luồng sức mạnh huyền bí. Đây là mũi thương mà Yu IlHan chưa từng thấy bao giờ — ngọn thương kết tinh toàn bộ sức mạnh của Spiera với tư cách là một thực thể chuyển chức 6!
 
@@ -94,7 +94,7 @@ Yu IlHan thấy Teraka chết quá dễ dàng liền nghĩ, 'Chắc đây chưa 
 
 Có vẻ như tầm ảnh hưởng của Yu IlHan là khá lớn nên anh cũng nhận được cả kinh nghiệm lẫn ghi chép. Thế nhưng Yu IlHan lại chẳng thể thực sự vui mừng nổi.
 
-"Tôi có cảm giác sân khấu của mình vừa bị Spiera cướp mất rồi. Mình còn có cả Bát Vĩ Long Thương khắc chế loài rồng nữa chứ. Cảm giác như bị lỗ nặng vậy...."
+"Tôi có cảm giác sân khấu của mình vừa bị Spiera cướp mất rồi. Tôi còn có cả Bát Vĩ Long Thương khắc chế loài rồng nữa chứ. Cảm giác như bị lỗ nặng vậy...."
 
 "Cậu nhất thiết phải ủ rũ chỉ vì không được đánh nhau với một thực thể chuyển chức 6 sao....? Đúng hơn là, nếu Ẩn Thân của IlHan mà kết hợp với một quái vật như Spiera, thì chuyện phi lý cỡ này lại xảy ra được..."
 
@@ -146,7 +146,7 @@ Yu IlHan cũng cảm thấy sinh lực dâng trào sau khi nhận được chúc
 
 "Orochi, làm việc thêm một chút nào!"
 
-[Có rất nhiều con mồi ngon xơi. Tôi cũng rất hoan nghênh chuyến săn này!]
+[Có rất nhiều con mồi ngon xơi. Ta cũng rất hoan nghênh chuyến săn này!]
 
 Bát Vĩ Long Thương bùng cháy ngọn lửa trong suốt. Yu IlHan thầm nghĩ không cần thiết phải dùng đến Đọa Lạc khi có các thiên thần ở đây. Thực tế là lũ rồng thậm chí còn chẳng thể tháo chạy tử tế, nên anh cũng thấy chẳng có lý do gì để phải dùng!
 
@@ -240,7 +240,7 @@ Các thiên thần run rẩy sợ hãi. Liera cũng kinh hoàng tột độ và 
 
 "I-IlHan, Echjar là...."
 
-"À, tôi biết rồi. Cậu không cần giải thích đâu."
+"À, tôi biết rồi. Cô không cần giải thích đâu."
 
 "Sao cậu lại biết được!?"
 
