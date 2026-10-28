@@ -452,6 +452,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Heaven's City |  | Thiên Thành | địa danh | 77 | Thành phố trung tâm nơi sinh sống của các thiên thần trên Thiên giới |
 | Hourglass of Eternity |  | Đồng Hồ Cát Vĩnh Hằng | vật phẩm | 77 | Tạo tác phẩm cấp Thần do Thiên giới ban thưởng, có năng lực đóng băng thời gian xung quanh tối đa 2 tháng |
 | Higher Curse Resistance |  | Kháng Lời Nguyền Cấp Cao | kỹ năng | 77 | Kỹ năng kháng nguyền rủa cấp cao nhận từ phần thưởng Nhiệm Vụ Thiên Giới 005 |
+| Curse Resistance |  | Kháng Lời Nguyền | kỹ năng | 244 | Kỹ năng hoặc khả năng kháng nguyền rủa nói chung |
 | God rank | God-rank; God-ranked | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
 | predator | predators | kẻ săn mồi | chủng tộc | 77 | Các thực thể cấp cao tà ác vượt qua Bức Tường Hỗn Loạn mưu toan nuốt chửng ghi chép của mọi thế giới |
 | Tyrant |  | Bạo Chúa | hệ thống | 78 | Dòng thuộc tính beta tăng sát thương chí mạng |
@@ -494,7 +495,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Polymorph |  | Biến Hình | kỹ năng | 87 | Ma pháp trong truyền thuyết của loài rồng dùng để biến thành hình dạng con người |
 | Re-leap |  | Bật Nhảy Tiếp | kỹ năng | 88 | Cú bật nhảy bổ sung giữa không trung khi kích hoạt Bật Nhảy từ cấp 20 |
 | Iron Fortress |  | Thiết Pháo Đài | khác | 88 | Tên Yu IlHan tự đặt cho thế trận dựng nhiều lớp khiên Orochi chống ma pháp |
-| Spear of Undrawable Trajectory | Spear of Untraceable Trajectory; Untraceable Trajectory | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
+| Spear of Undrawable Trajectory | Spear of Untraceable Trajectory; Untraceable Trajectory; Spear of Untraceable | Bất Khả Họa Quỹ Đạo Thương | kỹ năng | 89 | Kỹ năng độc nhất tiến hóa từ Thương Thuật, đòn vung thương không lộ quỹ đạo, bẻ cong nhân quả |
 | The Quickest |  | Cực Tốc Giả | danh hiệu | 89 | Danh hiệu đạt được khi là thực thể cấp thấp khai phá kỹ năng độc nhất nhanh nhất |
 | fusion evolution | fusion evolve; fuse-evolve | tiến hóa dung hợp | hệ thống | 89 | Dạng tiến hóa của kỹ năng phụ trợ kết hợp cùng kỹ năng khác |
 | Absolute Accuracy |  | Tuyệt Đối Chuẩn Xác | kỹ năng | 90 | Kỹ năng độc nhất tiến hóa dung hợp từ Thuật Ném và Xạ Kích |
@@ -694,7 +695,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Electrode | Electrodes | Electrode | khác | 202 | Được phép giữ nguyên: Loài Pokemon hệ Điện mang chiêu Tự Phát Nổ (tham chiếu văn hóa đại chúng) |
 | Flying fortress | flying fortress; Flying Fortress; Flying Castle | pháo đài bay | vật phẩm | 205 | Tên gọi thông dụng / vắn tắt của Pháo Đài Bay Kẻ Hủy Diệt |
 | Firedragon Body |  | Hỏa Long Thân | vật phẩm | 206 | Bộ giáp kim loại màu trắng phẩm cấp Bán Thần do Yu IlHan rèn từ ma thạch chuyển chức 5 và thi thể Mystic |
-| Infernal Dragon Body | Infernal dragon body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |
+| Infernal Dragon Body | Infernal dragon body; Infernal Dragon's body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |
 | Valkyrie |  | Valkyrie | khác | 207 | Thiếu nữ chiến đấu trong thần thoại, dùng để ví von vẻ đẹp chiến binh của Liera |
 | Thunder Knights |  | Kỵ Sĩ Sấm Sét | tổ chức | 208 | Tên nhóm 2.300 đứa trẻ sử dụng năng lực hệ sét tự đặt cho mình dưới quyền chỉ huy của Yumir |
 | Sonic |  | Sonic | khác | 212 | Được phép giữ nguyên: Nhím Sonic, nhân vật biểu tượng văn hóa đại chúng nổi tiếng với tốc độ siêu thanh |

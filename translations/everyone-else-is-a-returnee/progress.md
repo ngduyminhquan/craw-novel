@@ -248,7 +248,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 241 |  | Chapter_241 - You Are Already Dead – 5.txt | You Are Already Dead – 5 | reviewed |  |
 | 242 |  | Chapter_242 - You Are Already Dead – 6.txt | You Are Already Dead – 6 | reviewed |  |
 | 243 |  | Chapter_243 - You Are Already Dead – 7.txt | You Are Already Dead – 7 | done |  |
-| 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | todo |  |
+| 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | done |  |
 | 245 |  | Chapter_245 - You Are Already Dead – 9.txt | You Are Already Dead – 9 | todo |  |
 | 246 |  | Chapter_246 - You Are Already Dead – 10.txt | You Are Already Dead – 10 | todo |  |
 | 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -922,3 +921,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#242] Danh hiệu / biệt danh "Dragon of Despair" của Echjar — Tạm chọn: "Tuyệt Vọng Chi Long". Phương án khác: "Rồng Tuyệt Vọng". → Chốt dịch là "Tuyệt Vọng Chi Long" theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#242] Cấp bậc "13th Battalion Commander" của Echjar trong Quân Đội Ma Hủy Diệt — Tạm chọn: "Tiểu Đoàn Trưởng" ("Tiểu Đoàn Trưởng Tiểu Đoàn 13"). Phương án khác: "Chỉ Huy Tiểu Đoàn" / "Tiểu Đoàn Trưởng Đệ Thập Tam". → Chốt dịch "Battalion Commander" là "Tiểu Đoàn Trưởng" ("Tiểu Đoàn Trưởng Tiểu Đoàn 13"), đồng bộ cấu trúc quân hàm trong truyện. (orchestrator)
 - [#243] Danh hiệu tự xưng của Echjar "King of Dragons" (đoạn 98) — Tạm chọn: "Long Vương". Phương án khác: "Vua Của Loài Rồng". → Chốt dịch là "Long Vương" theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
+- [#244] Lời thoại cảm thán 'Insane...!\' ở đoạn 23 (raw line 48) - Tạm dịch: 'Điên thật rồi...!?' theo ngữ cảnh hội thoại thay vì dùng thuật ngữ thuộc tính 'Cuồng Loạn' (khiến QA cảnh báo). → Giữ nguyên cách dịch tự nhiên "Điên thật rồi...!?" theo ngữ cảnh hội thoại cảm thán (tương tự tiền lệ #163), bỏ qua cảnh báo false positive của QA. (orchestrator)

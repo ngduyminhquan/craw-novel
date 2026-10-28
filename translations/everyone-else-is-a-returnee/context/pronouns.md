@@ -321,6 +321,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Erta | em | chị / chị Erta | 236 | Na YuNa gọi thân mật Erta là chị sau khi Erta trở thành thực thể cấp thấp |
 | Spiera | Echjar | ta | ngươi | 243 | Spiera khiêu khích và quyết chiến với rồng chuyển chức 7 Echjar |
 | Echjar | Spiera | ta | ngươi / các ngươi | 243 | Echjar đối đầu và áp đảo Spiera |
+| Echjar | Yu IlHan | ta | ngươi / tên con người | 244 | Echjar giận dữ tấn công và nguyền rủa IlHan |
+| Yu IlHan | Echjar | ta / tôi | ngươi | 244 | Yu IlHan đối đầu và kích hoạt toàn bộ sức mạnh kháng cự lời nguyền của Echjar |
 
 
 

@@ -1489,6 +1489,12 @@ Trước áp lực mana khổng lồ làm Ký Lục và Đọa Lạc vô hiệu,
 Echjar nhận ra có kẻ ẩn thân và tung sóng mana cuồng bạo làm rung chuyển 5 lớp khiên Aegis, sau đó tích tụ đại ma pháp băng giá nhằm hủy diệt toàn bộ khu vực; chớp lấy thời khắc này, Yu IlHan tiêu hao 1.300 ma thạch cấp 4 và 15 ma thạch cấp 5 để kích hoạt kỹ năng Dịch Chuyển (Warp) cuốn theo Echjar.
 Cảnh kết thúc: Cả nhóm Yu IlHan, Liera, Spiera cùng Echjar an toàn đáp xuống Trái Đất; vì dám ra tay tấn công thực thể cấp thấp trước tiên tại một thế giới bậc thấp, Echjar gào thét dữ dội khi tư cách thực thể cấp cao của nó bắt đầu bị tước đoạt.
 
+## 244
+Echjar bị kéo tới Trái Đất và bị tước bỏ tư cách thực thể cấp cao do ma pháp dở dang vô tình đánh trúng Yu IlHan và Liera; dẫu cảnh giới tụt dốc và rò rỉ mana dữ dội, hắn vẫn phát động đòn hắc hỏa hủy diệt khoét sâu lòng đất và giao chiến ác liệt làm trọng thương Spiera.
+Yu IlHan kiên nhẫn duy trì Ẩn Thân chờ kẻ địch suy yếu để đoạt trọn vẹn tàn tích chuyển chức 7; anh ném thương kích hoạt Tử Thần tăng 100% toàn bộ chỉ số, rồi vận dụng Bất Khả Họa Quỹ Đạo Thương cùng ngọn lửa mạnh nhất đâm sâu vào thân xác khổng lồ của Echjar.
+Bị đâm trúng, Echjar lập tức phản ứng giáng đòn Phản Kích bằng Lời Nguyền huyết mạch kinh hoàng trói chặt và ăn mòn Yu IlHan, kết nối tâm linh khiến Liera và Spiera không thể can thiệp; Lời Nguyền quá đỗi tàn độc vượt khỏi tầm chống đỡ của Kháng Lời Nguyền Cấp Cao, Đọa Lạc và ngọn lửa.
+Cảnh kết thúc: Trước nguy cơ mất mạng, Yu IlHan kích hoạt Long Huyết để cường hóa Siêu Việt Tái Sinh ăn thua đủ với Lời Nguyền, bất ngờ làm thức tỉnh khí tức rồng đã ngấm sâu vào người kể từ khi lập khế ước với Yumir.
+
 
 
 
