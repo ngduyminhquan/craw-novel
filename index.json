@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T02:10:24Z",
+  "generatedAt": "2026-10-28T03:02:55Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1450,43 +1450,43 @@
           "number": 1,
           "title": "Chương 1: Vào cõi nguyên thủy",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_001.md",
-          "sha": "8dcb6ca607ce19cd93ac40f0c1607b612fc28c1c"
+          "sha": "844aeec6c7940a0fc4d6076341fc8ecdbf491514"
         },
         {
           "number": 2,
           "title": "Chương 2: Luật của dùi cui và răng nanh",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_002.md",
-          "sha": "97d15722245ef5929f6264c57a3193ccf10120fc"
+          "sha": "8f931adb5266ba940aed8ab63371037e4d413354"
         },
         {
           "number": 3,
           "title": "Chương 3: Con thú nguyên thủy thống soái",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_003.md",
-          "sha": "224b2ed55c3f91812920df11a8e30c140dcdea41"
+          "sha": "5331e0d359b1e886d155e234277abcb43c300acf"
         },
         {
           "number": 4,
           "title": "Chương 4: Kẻ đã đạt tới quyền lực",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_004.md",
-          "sha": "7c0f79a76e39a9dbf59dba546068faa2ebe9f1fd"
+          "sha": "1b2767221cf42a6d0f9c707fae5684903391cc7a"
         },
         {
           "number": 5,
           "title": "Chương 5: Lao khổ trên vệt đường mòn",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_005.md",
-          "sha": "74a040ea2ceb7404970e7de28303088d0a8e6197"
+          "sha": "df49a2f97027ffd44b4ea493402a111c33c0914f"
         },
         {
           "number": 6,
           "title": "Chương 6: Vì tình yêu thương đối với một con người",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_006.md",
-          "sha": "c05772d68b7301a8973a6fb8244f54314183151f"
+          "sha": "a24f84be1bdd7e87622cd75e0549db92bdce91ed"
         },
         {
           "number": 7,
           "title": "Chương 7: Tiếng gọi",
           "path": "translations/tieng-goi-noi-hoang-da/vi/Chapter_007.md",
-          "sha": "a9ba1109cfb534d076a3dc14bf54519ffe82de46"
+          "sha": "2bdf1cc858dfb27a10476f2e5487f779ac7cf45b"
         }
       ]
     }
