@@ -50,7 +50,7 @@ Chùm tia hủy diệt diện rộng, thứ khiến không chỉ Spiera vừa m�
 
 Mọi chuyện vẫn chưa dừng lại ở đó, luồng mana mang theo Lời Nguyền đáng sợ ngay lập tức làm ô uế cả vùng phụ cận và xâm lấn sang các khu vực khác! Nếu Trái Đất mà có ý chí, hẳn nó đã tống khứ kẻ này đi từ lâu rồi!
 
-[Khaooooooooooooooồ!]
+[Khaoooooooooooooooor!]
 
 Một tiếng gầm đặc quánh mana, khó lòng tin nổi lại phát ra từ một kẻ đang đánh mất đẳng cấp của mình, vang rền khắp không gian.
 
@@ -72,7 +72,7 @@ Một chuyển chức 7 đang đánh mất đẳng cấp va chạm nảy lửa v
 
 [Hừ, ngươi cũng thế thôi....!]
 
-Máu trắng phun trào từ cơ thể Spiera tạo nên một dải cầu vồng giữa không trung. Lẽ dĩ nhiên, con rồng cũng chẳng khá khẩm hơn là bao. Không phải vì nó bị Spiera đã thương, mà bởi nó càng cố cử động cơ thể và kiểm soát mana bao nhiêu, thì thân xác nó lại càng bị hủy hoại nhanh bấy nhiêu.
+Máu trắng phun trào từ cơ thể Spiera tạo nên một dải cầu vồng giữa không trung. Lẽ dĩ nhiên, con rồng cũng chẳng khá khẩm hơn là bao. Không phải vì nó bị Spiera đả thương, mà bởi nó càng cố cử động cơ thể và kiểm soát mana bao nhiêu, thì thân xác nó lại càng bị hủy hoại nhanh bấy nhiêu.
 
 "Oaaa, chỉ nhìn ai đó bị giáng xuống thành thực thể cấp thấp thôi đã thấy rùng mình rồi. Lại nhớ tới hồi đó ghê."
 

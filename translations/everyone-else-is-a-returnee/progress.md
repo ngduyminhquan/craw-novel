@@ -247,9 +247,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 240 |  | Chapter_240 - You Are Already Dead – 4.txt | You Are Already Dead – 4 | reviewed |  |
 | 241 |  | Chapter_241 - You Are Already Dead – 5.txt | You Are Already Dead – 5 | reviewed |  |
 | 242 |  | Chapter_242 - You Are Already Dead – 6.txt | You Are Already Dead – 6 | reviewed |  |
-| 243 |  | Chapter_243 - You Are Already Dead – 7.txt | You Are Already Dead – 7 | done |  |
-| 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | done |  |
-| 245 |  | Chapter_245 - You Are Already Dead – 9.txt | You Are Already Dead – 9 | done |  |
+| 243 |  | Chapter_243 - You Are Already Dead – 7.txt | You Are Already Dead – 7 | reviewed |  |
+| 244 |  | Chapter_244 - You Are Already Dead – 8.txt | You Are Already Dead – 8 | reviewed |  |
+| 245 |  | Chapter_245 - You Are Already Dead – 9.txt | You Are Already Dead – 9 | reviewed |  |
 | 246 |  | Chapter_246 - You Are Already Dead – 10.txt | You Are Already Dead – 10 | todo |  |
 | 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | todo |  |
 | 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | todo |  |

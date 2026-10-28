@@ -2,7 +2,7 @@
 
 '....Hử, chờ chút.'
 
-Yu IlHan tạm quên đi cơn đau buốt từ lời nguyền của Echjar và tập trung vào những biến chuyển đang diễn ra bên trong cơ thể mình. Lượng mana khổng lồ của Echjar, lời nguyền mà hắn đang điều khiển, cùng với lượng mana của Đọa Lạc — vô số loại mana khác nhau đang va chạm kịch liệt lẫn nhau; và ở đâu đó giữa sự hỗn loạn cuồng loạn ấy, có một luồng khí tức vẫn bừng cháy trắng xóa rực rỡ lấn át tất cả.
+Yu IlHan tạm quên đi cơn đau buốt từ Lời Nguyền của Echjar và tập trung vào những biến chuyển đang diễn ra bên trong cơ thể mình. Lượng mana khổng lồ của Echjar, Lời Nguyền mà nó đang điều khiển, cùng với lượng mana của Đọa Lạc — vô số loại mana khác nhau đang va chạm kịch liệt lẫn nhau; và ở đâu đó giữa sự hỗn loạn cuồng loạn ấy, có một luồng khí tức vẫn bừng cháy trắng xóa rực rỡ lấn át tất cả.
 
 Khí tức của rồng — anh đã từng cảm nhận được điều này từ trước đó khi 'ngâm mình' trong Đại Thùng. Dòng chảy đặc biệt đã từng bước thay đổi tận gốc rễ lượng mana của anh, dẫu có muốn thì anh cũng không tài nào quên nổi.
 
@@ -32,7 +32,7 @@ Máu của Echjar tự nhiên cũng bao bọc lấy toàn bộ Đại Thùng, v�
 
 [...]
 
-Không thể ngờ anh lại thong thả bắt đầu tắm rửa ngay vào lúc cơ thể gần như chẳng thể nhúc nhích nổi vì lời nguyền — chứng kiến cảnh tượng hoàn toàn không thể lường trước hiển hiện trước mắt, cả đồng minh lẫn kẻ thù đều rơi vào câm lặng. Dẫu vậy, đúng chất một kẻ cô độc, Yu IlHan chẳng thèm bận tâm đến ánh nhìn của những kẻ xung quanh mà chỉ dồn toàn bộ sự chú ý vào chính mình và Đại Thùng.
+Không thể ngờ anh lại thong thả bắt đầu tắm rửa ngay vào lúc cơ thể gần như chẳng thể nhúc nhích nổi vì Lời Nguyền — chứng kiến cảnh tượng hoàn toàn không thể lường trước hiển hiện trước mắt, cả đồng minh lẫn kẻ thù đều rơi vào câm lặng. Dẫu vậy, đúng chất một kẻ cô độc, Yu IlHan chẳng thèm bận tâm đến ánh nhìn của những kẻ xung quanh mà chỉ dồn toàn bộ sự chú ý vào chính mình và Đại Thùng.
 
 'Mình có thể làm được. Mình chắc chắn làm được...!'
 
@@ -40,27 +40,27 @@ Anh kích hoạt Long Huyết để cưỡng ép biến đổi dòng máu của 
 
 [Rốt cuộc, là cái gì...!?]
 
-Echjar, kẻ ban đầu ngập tràn phẫn nộ với kẻ đã khiến hắn bị đày xuống thành thực thể cấp thấp, lúc này lại cất lời nghi hoặc về việc đối phương đang làm thay vì tiếp tục nổi cơn thịnh nộ.
+Echjar, kẻ ban đầu ngập tràn phẫn nộ với kẻ đã khiến nó bị đày xuống thành thực thể cấp thấp, lúc này lại cất lời nghi hoặc về việc đối phương đang làm thay vì tiếp tục nổi cơn thịnh nộ.
 
-Thế nhưng, chừng nào lời nguyền vẫn còn hiệu lực thì hắn cũng rất khó lòng cử động, và vì không thể tùy ý giải trừ nó theo ý muốn, nên hắn chỉ có thể giương mắt nhìn xem Yu IlHan rốt cuộc đang làm trò gì.
+Thế nhưng, chừng nào Lời Nguyền vẫn còn hiệu lực thì nó cũng rất khó lòng cử động, và vì không thể tùy ý giải trừ nó theo ý muốn, nên nó chỉ có thể giương mắt nhìn xem Yu IlHan rốt cuộc đang làm trò gì.
 
 "Khừừừ, nhưng thế này thì..."
 
-Trong lúc Đại Thùng và máu của Yu IlHan đang dần đồng bộ, làn máu chứa đầy lời nguyền của Echjar lại cuồng bạo dâng trào, mưu toan hòa tan Yu IlHan thành hư vô.
+Trong lúc Đại Thùng và máu của Yu IlHan đang dần đồng bộ, làn máu chứa đầy Lời Nguyền của Echjar lại cuồng bạo dâng trào, mưu toan hòa tan Yu IlHan thành hư vô.
 
 Sẽ là lý tưởng nhất nếu Đại Thùng có thể xâm lấn cả máu rồng, song chủ nhân của dòng máu ấy vẫn còn sống sờ sờ! Như thể muốn chống lại khí tức của Đại Thùng, nó bắt đầu gây ảnh hưởng sang cả chiếc thùng. Làn khói đen ánh đỏ bắt đầu bốc lên nghi ngút từ nhiều vị trí khác nhau trên Đại Thùng.
 
-[Chủ nhân, dù Đại Thùng là một tạo tác, nhưng máu của hắn quá mạnh!]
+[Chủ nhân, dù Đại Thùng là một tạo tác, nhưng máu của nó quá mạnh!]
 
 "Đúng không?"
 
 Yu IlHan cũng nhận thức rõ mối hiểm họa đó — Đại Thùng của anh có nguy cơ biến thành phế phẩm! Chính vì thế, anh liền lôi toàn bộ số ma thạch cấp 5 còn lại trong túi đồ ra — có cả thảy bốn viên. Chừng này là quá đủ rồi!
 
-"Nếu đã vậy thì ta sẽ nâng cấp Đại Thùng ngay tại đây luôn!"
+"Nếu đã vậy thì tôi sẽ nâng cấp Đại Thùng ngay tại đây luôn!"
 
 [Trí tưởng tượng của chủ nhân lúc nào cũng vượt xa sức tưởng tượng của ta...]
 
-[Khặc! Lời nguyền của ta.... NGƯƠI!]
+[Khặc! Lời Nguyền của ta.... NGƯƠI!]
 
 Một khi chuyện đã đi đến nước này, anh sẽ không từ bất cứ thủ đoạn nào. Cuộc chiến này từ lâu đã không còn là màn đọ sức đơn thuần giữa Echjar và Yu IlHan nữa, mà là Yu IlHan đối đầu với chính khái niệm về loài rồng.
 
@@ -72,19 +72,19 @@ Luồng mana ánh vàng kim rực rỡ nhuộm màu cả thế giới. Toàn b�
 
 "IlHan rốt cuộc đang làm cái quái gì thế?"
 
-[Rốt cuộc là loại kháng lời nguyền gì mới có thể cho phép cậu ta cử động tự do đến thế bên trong một lời nguyền đáng sợ dường này chứ...?]
+[Rốt cuộc là loại Kháng Lời Nguyền gì mới có thể cho phép cậu ta cử động tự do đến thế bên trong một Lời Nguyền đáng sợ dường này chứ...?]
 
-Cơ thể Yu IlHan cộng hưởng mãnh liệt cùng Đại Thùng và cũng bắt đầu phát ra ánh sáng chói lọi. Anh vừa phải duy trì Đọa Lạc, vừa chống chọi với lời nguyền của rồng, lại vừa phải tập trung vào tiến trình nâng cấp, khiến đầu óc cảm tưởng như sắp sửa nổ tung, nhưng anh vẫn cắn răng chịu đựng. Chịu đựng và tập trung mọi giác quan đến giới hạn tột cùng!
+Cơ thể Yu IlHan cộng hưởng mãnh liệt cùng Đại Thùng và cũng bắt đầu phát ra ánh sáng chói lọi. Anh vừa phải duy trì Đọa Lạc, vừa chống chọi với Lời Nguyền của rồng, lại vừa phải tập trung vào tiến trình nâng cấp, khiến đầu óc cảm tưởng như sắp sửa nổ tung, nhưng anh vẫn cắn răng chịu đựng. Chịu đựng và tập trung mọi giác quan đến giới hạn tột cùng!
 
 [Khuặc.]
 
-Nếu ở trạng thái bình thường, hắn đã dồn thêm mana để dồn ép Yu IlHan vào đường cùng ngõ cụt, song vì phải ra sức giữ cho thân xác không bị sụp đổ do cảnh giới tụt dốc không phanh, hắn hoàn toàn không thể làm nổi điều đó. Tình thế giằng co rơi vào bế tắc tột độ.
+Nếu ở trạng thái bình thường, nó đã dồn thêm mana để dồn ép Yu IlHan vào đường cùng ngõ cụt, song vì phải ra sức giữ cho thân xác không bị sụp đổ do cảnh giới tụt dốc không phanh, nó hoàn toàn không thể làm nổi điều đó. Tình thế giằng co rơi vào bế tắc tột độ.
 
 "Spiera, tôi có thể làm gì cho IlHan đây...?"
 
 [Chúng ta không thể làm gì được đâu, Liera. Chỉ cần ngăn không cho Echjar làm thêm bất cứ điều gì khác là được.]
 
-Vừa phải tập trung điều khiển mana để thực hiện Chế Tác Mana lên Đại Thùng, lại vừa phải chống chọi với lời nguyền đang mưu toan hòa tan da thịt, mạch máu, dây thần kinh, cơ bắp và thậm chí cả xương tủy, là điều mà ngay cả các thực thể cấp cao chỉ cần nghĩ đến thôi cũng đủ rùng mình khiếp đảm — vậy mà anh đã kiên trì chịu đựng trong trạng thái đó suốt một khoảng thời gian dài đằng đẵng không rõ bao lâu.
+Vừa phải tập trung điều khiển mana để thực hiện Chế Tác Mana lên Đại Thùng, lại vừa phải chống chọi với Lời Nguyền đang mưu toan hòa tan da thịt, mạch máu, dây thần kinh, cơ bắp và thậm chí cả xương tủy, là điều mà ngay cả các thực thể cấp cao chỉ cần nghĩ đến thôi cũng đủ rùng mình khiếp đảm — vậy mà anh đã kiên trì chịu đựng trong trạng thái đó suốt một khoảng thời gian dài đằng đẵng không rõ bao lâu.
 
 [Khặc!?]
 
@@ -124,7 +124,7 @@ Chiến trường mà nãy giờ anh phải cậy nhờ các giác quan khác đ
 
 Liera và Spiera đồng thanh reo lên mừng rỡ khi chứng kiến sự 'hồi sinh' của Yu IlHan, sau chuỗi thời gian hoàn toàn lúng túng chẳng biết phải làm gì kể từ khoảnh khắc Yu IlHan tấn công con rồng. Cả hai cũng có thể trông thấy con rồng khổng lồ đang gầm thét dữ dội giữa không trung, nối liền với Yu IlHan thông qua một dải huyết mạch.
 
-Dù con rồng vẫn giữ được hình thể, song khả năng kiểm soát mana của nó đã suy sụp nghiêm trọng; Yu IlHan càng chống cự lâu trước lời nguyền, thì tình trạng của nó lại càng trở nên tồi tệ hơn. Quả thực, đó là một lời nguyền sẽ không bao giờ chấm dứt trừ phi một bên phải bỏ mạng.
+Dù con rồng vẫn giữ được hình thể, song khả năng kiểm soát mana của nó đã suy sụp nghiêm trọng; Yu IlHan càng chống cự lâu trước Lời Nguyền, thì tình trạng của nó lại càng trở nên tồi tệ hơn. Quả thực, đó là một Lời Nguyền sẽ không bao giờ chấm dứt trừ phi một bên phải bỏ mạng.
 
 "Nhìn bộ dạng đến cả mana của chính mình cũng không kiểm soát nổi của ngươi, ta nghĩ kết cục đã quá rõ ràng rồi!"
 
@@ -134,11 +134,11 @@ Mặc kệ lời cằn nhằn của Spiera, Yu IlHan đẩy nhanh tốc độ c�
 
 [Chuyện này, không thể nào...!?]
 
-Echjar cất tiếng thét kinh hoàng. Trong suốt chuỗi sinh mệnh đằng đẵng của hắn, chưa từng có bất kỳ ai có thể xóa bỏ lời nguyền của hắn bằng cách đối đầu trực diện như thế!
+Echjar cất tiếng thét kinh hoàng. Trong suốt chuỗi sinh mệnh đằng đẵng của nó, chưa từng có bất kỳ ai có thể xóa bỏ Lời Nguyền của nó bằng cách đối đầu trực diện như thế!
 
-Không, đâu chỉ có thế. Kể từ khoảnh khắc dòng máu được gột sạch lời nguyền, nó liền phát ra ánh sáng vàng kim rực rỡ, cộng hưởng cùng Cái Nôi Kỳ Tích rồi bắt đầu chảy ngược trở lại vào cơ thể Yu IlHan.
+Không, đâu chỉ có thế. Kể từ khoảnh khắc dòng máu được gột sạch Lời Nguyền, nó liền phát ra ánh sáng vàng kim rực rỡ, cộng hưởng cùng Cái Nôi Kỳ Tích rồi bắt đầu chảy ngược trở lại vào cơ thể Yu IlHan.
 
-Đó là một dòng chảy hoàn toàn khác biệt so với khi lời nguyền đang tìm cách hủy diệt cơ thể của Yu IlHan. Dòng máu chứa đựng sinh mệnh lực cùng mana dồi dào ấy đã chữa lành mọi vết thương của Yu IlHan, đồng thời cải biến toàn diện lượng mana của anh!
+Đó là một dòng chảy hoàn toàn khác biệt so với khi Lời Nguyền đang tìm cách hủy diệt cơ thể của Yu IlHan. Dòng máu chứa đựng sinh mệnh lực cùng mana dồi dào ấy đã chữa lành mọi vết thương của Yu IlHan, đồng thời cải biến toàn diện lượng mana của anh!
 
 "Thấy chưa?"
 
@@ -152,11 +152,11 @@ Yu IlHan cảm nhận rõ lượng mana bên trong cơ thể đang cộng hưở
 
 Yu IlHan cuối cùng cũng đứng dậy khỏi Cái Nôi Kỳ Tích rồi cất nó trở lại vào túi đồ. Những cử động thân thể của anh vô cùng nhẹ nhàng thanh thoát, và toàn thân tràn trề sức sống mãnh liệt.
 
-Ngay lúc này, ai mới là kẻ không thể cử động nổi vì lời nguyền? Lượng mana của Yu IlHan không ngừng được khuếch đại khi anh hấp thụ dòng máu hoàng kim, trong khi máu của Echjar lại liên tục bị rút cạn trong lúc hắn chẳng thể nhúc nhích. Lẽ dĩ nhiên, quá trình ấy cũng sẽ chấm dứt ngay khi mana của hắn cạn kiệt!
+Ngay lúc này, ai mới là kẻ không thể cử động nổi vì Lời Nguyền? Lượng mana của Yu IlHan không ngừng được khuếch đại khi anh hấp thụ dòng máu hoàng kim, trong khi máu của Echjar lại liên tục bị rút cạn trong lúc nó chẳng thể nhúc nhích. Lẽ dĩ nhiên, quá trình ấy cũng sẽ chấm dứt ngay khi mana của nó cạn kiệt!
 
 [Ta, Tiểu Đoàn Trưởng Tiểu Đoàn 13 của Quân Đội Ma Hủy Diệt, Echjar tôn quý...!]
 
-Và đó cũng chính là thời khắc hắn trút hơi thở cuối cùng.
+Và đó cũng chính là thời khắc nó trút hơi thở cuối cùng.
 
 "Nhưng ta sẽ không để chuyện đó xảy ra đâu."
 
@@ -166,17 +166,17 @@ Không phải Yu IlHan bỗng dưng đổi ý muốn gia nhập Quân Đội Ma 
 
 [NGƯƠI, YU ILHAAAAAAAAAAN!]
 
-Echjar gầm lên dữ dội nhắm vào Yu IlHan trong cơn thịnh nộ tột cùng, khi rốt cuộc hắn cũng nhận ra Yu IlHan cho đến tận giây phút cuối cùng vẫn chỉ xem hắn như một mớ trang bị!
+Echjar gầm lên dữ dội nhắm vào Yu IlHan trong cơn thịnh nộ tột cùng, khi rốt cuộc nó cũng nhận ra Yu IlHan cho đến tận giây phút cuối cùng vẫn chỉ xem nó như một mớ trang bị!
 
-Thế nhưng, Yu IlHan hoàn toàn phớt lờ tiếng gầm của hắn, dồn toàn bộ lượng mana vừa được cường hóa bởi máu rồng vào đầu ngọn Bát Vĩ Long Thương, đồng thời triệu hồi ngọn lửa bên trong lãnh vực Đọa Lạc quy tụ về một điểm.
+Thế nhưng, Yu IlHan hoàn toàn phớt lờ tiếng gầm của nó, dồn toàn bộ lượng mana vừa được cường hóa bởi máu rồng vào đầu ngọn Bát Vĩ Long Thương, đồng thời triệu hồi ngọn lửa bên trong lãnh vực Đọa Lạc quy tụ về một điểm.
 
-Lúc này, chẳng cần phải dùng đến xích linh hồn hỏa để trói buộc cái sinh vật khổng lồ đó lại nữa. Bản thân hắn đã tự trói chặt mình chẳng khác nào một gói quà dâng tận miệng.
+Lúc này, chẳng cần phải dùng đến xích linh hồn hỏa để trói buộc cái sinh vật khổng lồ đó lại nữa. Bản thân nó đã tự trói chặt mình chẳng khác nào một gói quà dâng tận miệng.
 
 [Đó là sức mạnh mà Yu IlHan vừa đạt được sao...?]
 
 "IlHan....!"
 
-Chừng nào lời nguyền còn kết nối hai người, cả Liera lẫn Spiera đều không thể can thiệp. Spiera, người bị cướp mất sân khấu giữa chừng, ngơ ngác nhìn cảnh tượng trước mắt, còn Liera thì nắm chặt ngọn thương để phòng bất trắc.
+Chừng nào Lời Nguyền còn kết nối hai người, cả Liera lẫn Spiera đều không thể can thiệp. Spiera, người bị cướp mất sân khấu giữa chừng, ngơ ngác nhìn cảnh tượng trước mắt, còn Liera thì nắm chặt ngọn thương để phòng bất trắc.
 
 Thế nhưng, lượt của Liera sẽ chẳng bao giờ đến. Với Bát Vĩ Long Thương giúp tăng 120% sức tấn công đối với Long tộc, nếu anh không thể kết liễu nổi một con rồng đã sống dở chết dở, thì danh hiệu Đồ Long Giả của anh ắt sẽ bị đặt dấu hỏi lớn.
 
@@ -192,7 +192,7 @@ Anh vẫn chưa đủ tự tin để tái hiện lại điều đó. Anh nghĩ r
 
 "Nhưng nếu là một thứ khác thì sao!"
 
-[Khuô ô ô ô ô!]
+[Khuôôôôô!]
 
 Anh bước lên một bước rồi phóng mạnh ngọn thương về phía trước. Ngay lúc này, những điều anh có thể làm là quá đủ để kết liễu kẻ thù.
 
@@ -218,7 +218,7 @@ Những lời tiếp theo cũng chỉ quanh đi quẩn lại như vậy — Quâ
 
 [Ta không nghĩ đó là điều cậu nên nói với kẻ mà chính tay mình vừa hạ sát đâu...]
 
-Spiera vặn lại, nhưng Yu IlHan không đáp lời. Khoảnh khắc Echjar bỏ mạng, một lượng kinh nghiệm khổng lồ đến phi lý ập đến nhờ việc hắn đã gắng gượng được quá lâu dẫu đáng lẽ đã rơi xuống hàng ngũ thực thể cấp thấp từ sớm, và vì thế, anh phải dồn toàn lực tập trung để tiếp nhận toàn bộ số kinh nghiệm đó.
+Spiera vặn lại, nhưng Yu IlHan không đáp lời. Khoảnh khắc Echjar bỏ mạng, một lượng kinh nghiệm khổng lồ đến phi lý ập đến nhờ việc nó đã gắng gượng được quá lâu dẫu đáng lẽ đã rơi xuống hàng ngũ thực thể cấp thấp từ sớm, và vì thế, anh phải dồn toàn lực tập trung để tiếp nhận toàn bộ số kinh nghiệm đó.
 
 [Bạn đã nhận được kinh nghiệm.]
 
@@ -240,7 +240,7 @@ Thế nhưng, khi chẳng có bất cứ điều gì xuất hiện dù anh đã 
 
 "Cái quái gì thế này? Gì đây?"
 
-[Có chuyện gì thế, Yu IlHan? Lời nguyền của hắn vẫn còn sót lại sao?]
+[Có chuyện gì thế, Yu IlHan? Lời Nguyền của nó vẫn còn sót lại sao?]
 
 "IlHan, cậu có sao không!?"
 

@@ -70,7 +70,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Katlar | hắn / Katlar | 229 | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt |
 | El Phisadein | hắn / El Phisadein | 230 | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn bị IlHan tiêu diệt |
 | Orochi | Orochi | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan |
-| Echjar | Echjar / con rồng | 242 | Con rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
+| Echjar | nó / Echjar / con rồng | 242 | Con rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -322,7 +322,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Spiera | Echjar | ta | ngươi | 243 | Spiera khiêu khích và quyết chiến với rồng chuyển chức 7 Echjar |
 | Echjar | Spiera | ta | ngươi / các ngươi | 243 | Echjar đối đầu và áp đảo Spiera |
 | Echjar | Yu IlHan | ta | ngươi / tên con người | 244 | Echjar giận dữ tấn công và nguyền rủa IlHan |
-| Yu IlHan | Echjar | ta / tôi | ngươi | 244 | Yu IlHan đối đầu và kích hoạt toàn bộ sức mạnh kháng cự lời nguyền của Echjar |
+| Yu IlHan | Echjar | ta | ngươi | 244 | Thống nhất xưng ta - gọi ngươi khi đối đầu sinh tử |
 | Orochi | Yu IlHan | ta | chủ nhân | 245 | Orochi gọi IlHan là chủ nhân khi nói chuyện |
 
 

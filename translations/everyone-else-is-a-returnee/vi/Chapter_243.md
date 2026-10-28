@@ -128,7 +128,7 @@ Yu IlHan nở một nụ cười cay đắng chấp nhận cô. Yumir, Na YuNa c
 
 "Nhưng thưa Bệ hạ, chúng ta mới gặp lại nhau sau một thời gian dài như vậy..."
 
-"Ta đã bảo là ta sẽ không chết mà."
+"Tôi đã bảo là tôi sẽ không chết mà."
 
 "Nhưng mà...."
 
@@ -192,7 +192,7 @@ Chấn động mà ngay cả Hỏa Ngục Long Thân cũng không thể chịu �
 
 Spiera cười nhạo nó rồi nâng ngọn thương lên. Dù đôi cánh tay đẫm máu của cô đang khẽ run rẩy, nhưng luồng kình khí nơi mũi thương vẫn rực rỡ sáng chói như thuở nào.
 
-[Ngươi chớ có nghĩ rằng chỉ mỗi Quân Đội Ma Hủy Diệt mới sở hữu các tồn tại chuyển chức 7.] Ngươi đã quá liều lĩnh rồi. Ngươi đã đẩy quy mô cuộc chiến này đi quá xa rồi đấy.]
+[Ngươi chớ có nghĩ rằng chỉ mỗi Quân Đội Ma Hủy Diệt mới sở hữu các tồn tại chuyển chức 7. Ngươi đã quá liều lĩnh rồi. Ngươi đã đẩy quy mô cuộc chiến này đi quá xa rồi đấy.]
 
 [Ngươi nghĩ ta sợ ai sao? Ta là Long Vương. Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt, Echjar!]
 
@@ -210,7 +210,7 @@ Yu IlHan quan sát Spiera đang dốc toàn lực tấn công, còn con rồng c
 
 Thứ bị tiêu hao sẽ là 1.300 ma thạch chuyển chức 4 và 15 ma thạch chuyển chức 5. Đây là một cái giá khổng lồ để chuẩn bị cho một kỹ năng duy nhất, nhưng anh chỉ còn cách dùng hết toàn bộ, bởi rốt cuộc thì 'mục tiêu đồng hành' của kỹ năng này lại là một tồn tại có thứ bậc cực kỳ cao.
 
-"Nếu bị phát hiện là tôi dùng cách này thì sau này tôi sẽ chẳng thể dùng lại được nữa, và dù tôi từng nghĩ đến việc dùng chiêu này đối phó với Spiera, nhưng đây vốn là phương pháp tôi không định dùng nếu thiếu đi sự trợ giúp của Erta…"`
+"Nếu bị phát hiện là tôi dùng cách này thì sau này tôi sẽ chẳng thể dùng lại được nữa, và dù tôi từng nghĩ đến việc dùng chiêu này đối phó với Spiera, nhưng đây vốn là phương pháp tôi không định dùng nếu thiếu đi sự trợ giúp của Erta…"
 
 "IlHan..."
 
