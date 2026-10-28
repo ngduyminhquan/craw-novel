@@ -740,3 +740,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hell Seeker's Demon Eye |  | Ma Nhãn Kẻ Tìm Địa Ngục | vật phẩm | 249 | Tấm ma nhãn chế tác từ mắt rồng Echjar qua Chế Tác Mana làm linh kiện cho mũ giáp |
 | Dragoneye of the Avenger |  | Long Nhãn Kẻ Báo Thù | vật phẩm | 249 | Chiếc mũ giáp phẩm cấp Hỗn Loạn chế tạo từ vảy rồng và mắt rồng Echjar của Yu IlHan |
 | Cursed King |  | Nguyền Vương | danh hiệu | 249 | Biệt danh tự xưng hài hước của Yu IlHan nếu bị dính nguyền rủa |
+| Chief Gatekeeper | Chief Gatekeepers | Đại Thủ Môn Nhân | cấp bậc | 250 | Chức vụ chỉ huy cấp cao trong Khu Vườn Hoàng Hôn, tương đương Tiểu Đoàn Trưởng của các phe phái khác (như Kelatuke) |
+| Spear of Untraceable Trajectory Overlap |  | Bất Khả Họa Quỹ Đạo Thương Trùng Điệp | kỹ năng | 250 | Kỹ thuật lĩnh ngộ khi kết liễu Echjar, xếp chồng toàn bộ đòn đánh của Bất Khả Họa Quỹ Đạo Thương vào làm một đòn duy nhất |
+| Wing of Brilliant Light | wing of Brilliant Light | Cánh Của Ánh Sáng Rực Rỡ | cấp bậc | 250 | Chức danh chỉ huy cấp cao (tương đương Tiểu Đoàn Trưởng) của Quân Đội Ánh Sáng Rực Rỡ, được đánh số từ Cánh Thứ 1 đến Cánh Thứ 11 |

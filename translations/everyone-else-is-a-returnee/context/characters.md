@@ -81,6 +81,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Zenusva |  | Zenusva | Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt, cự điểu khổng lồ bằng ma hỏa mana | 247 |
 | Melohinne |  | Melohinne | Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt, nữ ma tộc cao 20m da trắng như băng | 247 |
 | Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi | 247 |
+| Lisona |  | Lisona | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn tại Daréu, nửa thân trên là phụ nữ nửa thân dưới là rắn | 250 |
+| Natière | Nati | Natière | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (Quân Đội Ánh Sáng Rực Rỡ) | 250 |
+| Kelatuke |  | Kelatuke | Đại Thủ Môn Nhân của Khu Vườn Hoàng Hôn, cá mập khổng lồ chuyển chức 7 bọc giáp kim loại dày | 250 |
 
 ## Chi tiết
 
@@ -722,6 +725,21 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / Đặc điểm: Người phụ nữ vô cùng quyến rũ sở hữu ba cặp cánh dơi sau lưng, ánh mắt ma mị và mê hoặc; cực kỳ tự tin vào mị lực và quyền năng succubus của bản thân.
 - Xuất hiện tính đến chương 247: Hứng thú với Yu IlHan sau khi biết tin tức từ Zenusva; nhận nhiệm vụ quyến rũ và lôi kéo Yu IlHan về phe mình, lập tức lên đường hướng về Daréu.
 - Xuất hiện tính đến chương 248: Bị năng lực của Thần Tình Yêu qua Liera phát hiện thông tin chi tiết (succubus Lv 519, 33.985 tuổi, chuyên mị thuật và các danh hiệu quyến rũ); Yu IlHan đã nạp thông tin của ả vào ma pháp trận phòng thủ Daréu để đối phó.
+
+### Lisona
+- Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.
+- Ngoại hình / Đặc điểm: Nửa thân trên là phụ nữ khỏa thân, nửa thân dưới là thân rắn phủ đầy vảy bảo vệ.
+- Xuất hiện tính đến chương 250: Chủ trì nghi thức chuyển giao ghi chép tước bỏ đôi cánh thiên thần của Erta sang Khu Vườn Hoàng Hôn; bị Erta lập kết giới lừa gạt và Yu IlHan, Liera, Yumir phục kích tiêu diệt toàn bộ thuộc hạ; bị Erta bắn tan lớp vảy bảo hộ và Yu IlHan dùng Bất Khả Họa Quỹ Đạo Thương Trùng Điệp đâm xuyên chỗ hiểm, sau đó tử trận dưới đòn tấn công của Liera và Yumir; tàn tích bị Yu IlHan thu dọn ngay trước mặt các Tiểu Đoàn Trưởng.
+
+### Natière
+- Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ; Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (tương đương Tiểu Đoàn Trưởng).
+- Ngoại hình / Đặc điểm: Nữ chỉ huy xinh đẹp sở hữu ba cặp cánh đen kiêu hãnh sau lưng.
+- Xuất hiện tính đến chương 250: Xuất hiện tại Daréu đối đầu với Helièna sau khi Quân Đội Ma Hủy Diệt và Quân Đội Thiên Giới giáng lâm.
+
+### Kelatuke
+- Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Khu Vườn Hoàng Hôn; Đại Thủ Môn Nhân (tương đương Tiểu Đoàn Trưởng).
+- Ngoại hình / Đặc điểm: Con cá mập khổng lồ được bọc trong bộ giáp kim loại dày cộm.
+- Xuất hiện tính đến chương 250: Xé rách không gian giáng lâm Daréu tham chiến ngay sau khi Lisona tử trận; kích hoạt biện pháp phòng thủ tối cao và chất vấn Yu IlHan vì lấy đi thi thể thủ môn nhân của phe mình.
 
 
 

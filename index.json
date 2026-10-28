@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T06:17:47Z",
+  "generatedAt": "2026-10-28T06:24:37Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1499,6 +1499,12 @@
           "title": "Chương 249: Ngươi Cũng Được Hoan Nghênh – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_249.md",
           "sha": "b9f865e007a1f12be520a638fb5aa14012aad2d8"
+        },
+        {
+          "number": 250,
+          "title": "Chương 250: Ngươi Cũng Được Hoan Nghênh – 2",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_250.md",
+          "sha": "75f7de74a3638756f0c8691fa38c4be7d5afd715"
         }
       ]
     },

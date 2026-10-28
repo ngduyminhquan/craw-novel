@@ -254,7 +254,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 247 |  | Chapter_247 - You Are Already Dead – 11.txt | You Are Already Dead – 11 | reviewed |  |
 | 248 |  | Chapter_248 - You Are Already Dead – 12.txt | You Are Already Dead – 12 | reviewed |  |
 | 249 |  | Chapter_249 - You’re Welcome Too – 1.txt | You’re Welcome Too – 1 | done |  |
-| 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | todo |  |
+| 250 |  | Chapter_250 - You’re Welcome Too – 2.txt | You’re Welcome Too – 2 | done |  |
 | 251 |  | Chapter_251 - You’re Welcome Too – 3.txt | You’re Welcome Too – 3 | todo |  |
 | 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | todo |  |
 | 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -931,3 +932,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#248] Chỉ số độ bền "indestructible" của Cái Nôi Kỳ Tích — Tạm chọn: "Không thể phá hủy". Phương án khác: "Bất hoại". → Chốt dịch là "Không thể phá hủy" (rõ nghĩa, tự nhiên và khớp với các dòng thông số hệ thống khác trong truyện). (orchestrator)
 - [#248] Ở chương 248 đoạn 2, raw tiếng Anh viết "eating wolfkin meat" → Giữ nguyên theo đúng raw ("gặm thịt Lang tộc") theo nguyên tắc 3 của skill (dựa vào raw, không tự ý sửa nội dung raw; tương tự tiền lệ #209, #215, #233). (orchestrator)
 - [#249] Tiêu đề arc "You’re Welcome Too" tạm dịch "Ngươi Cũng Được Hoan Nghênh" (khác: "Cứ Tự Nhiên Tới Đi"); trang bị "Hell Seeker's Demon Eye" tạm dịch "Ma Nhãn Kẻ Tìm Địa Ngục", "Dragoneye of the Avenger" tạm dịch "Long Nhãn Kẻ Báo Thù". → Chốt tiêu đề arc "You’re Welcome Too" là "Ngươi Cũng Được Hoan Nghênh" (thống nhất cho cả arc #249–#255); trang bị "Hell Seeker's Demon Eye" là "Ma Nhãn Kẻ Tìm Địa Ngục" và "Dragoneye of the Avenger" là "Long Nhãn Kẻ Báo Thù". (orchestrator)
+- [#250] Chức vụ 'Chief Gatekeeper' của Khu Vườn Hoàng Hôn: tạm dịch 'Đại Thủ Môn Nhân' (phương án khác: 'Thủ Môn Trưởng', 'Chỉ Huy Gác Cổng'). → Chốt dịch "Chief Gatekeeper" là "Đại Thủ Môn Nhân" theo quy tắc dịch cấp bậc/chức danh sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
+- [#250] Chức danh 'Wing of Brilliant Light' của Quân Đội Ánh Sáng Rực Rỡ (như 8th Wing Natière): tạm dịch 'Cánh Của Ánh Sáng Rực Rỡ' (phương án khác: 'Đôi Cánh Ánh Sáng Rực Rỡ'). → Chốt dịch là "Cánh Của Ánh Sáng Rực Rỡ" (và dịch tự nhiên "Cánh Thứ 8 Của Ánh Sáng Rực Rỡ" khi đi kèm số thứ tự, bỏ qua cảnh báo false positive của QA). (orchestrator)
+- [#250] Kỹ thuật 'Spear of Untraceable Trajectory Overlap': tạm dịch 'Bất Khả Họa Quỹ Đạo Thương Trùng Điệp' (phương án khác: 'Bất Khả Họa Quỹ Đạo Thương Xếp Chồng'). → Chốt dịch là "Bất Khả Họa Quỹ Đạo Thương Trùng Điệp" theo quy tắc Hán Việt của rules.md. (orchestrator)

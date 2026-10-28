@@ -74,6 +74,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zenusva | nó / Zenusva / con chim khổng lồ | 247 | Cự điểu ma hỏa, Tiểu Đoàn Trưởng Tiểu Đoàn 8 Quân Đội Ma Hủy Diệt |
 | Melohinne | cô / Melohinne / nữ chỉ huy | 247 | Nữ chỉ huy cao 20m, Tiểu Đoàn Trưởng Tiểu Đoàn 10 Quân Đội Ma Hủy Diệt |
 | Helièna | cô / ả / Helièna | 247 | Nữ Hoàng Succubus, Tiểu Đoàn Trưởng Tiểu Đoàn 3 Quân Đội Ma Hủy Diệt |
+| Lisona | ả / Lisona / người phụ nữ nửa thân rắn | 250 | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn |
+| Natière | cô / Natière | 250 | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ |
+| Kelatuke | nó / Kelatuke / con cá mập | 250 | Đại Thủ Môn Nhân chuyển chức 7 của Khu Vườn Hoàng Hôn |
 
 ## Giữa các nhân vật
 
@@ -330,6 +333,16 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Melohinne | Helièna | ta | ngươi | 247 | Tranh giành Yu IlHan trong hội nghị Tiểu Đoàn Trưởng |
 | Helièna | Melohinne | ta | ngươi | 247 | Tranh giành Yu IlHan trong hội nghị Tiểu Đoàn Trưởng |
 | Zenusva | * | ta | các ngươi | 247 | Quát mắng các Tiểu Đoàn Trưởng khác trong hội nghị |
+| Lisona | Erta | ta | Erta / cô / ngươi | 250 | Lisona chủ trì nghi thức chuyển giao cho Erta trước khi bị phục kích |
+| Erta | Lisona | tôi | cô / các người / ngươi | 250 | Erta vờ tiếp nhận nghi thức rồi lật kèo kích hoạt ma pháp phản công |
+| Lisona | Yu IlHan | ta | Yu IlHan / ngươi | 250 | Lisona phẫn nộ trước đòn tập kích bất ngờ của Yu IlHan |
+| Yu IlHan | Lisona | ta / tôi | ngươi / các ngươi | 250 | Yu IlHan xuất hiện đâm trọng thương Lisona |
+| Helièna | Yu IlHan | em / ta | chàng / anh / darling / Yu IlHan | 250 | Helièna giáng lâm Daréu buông lời quyến rũ Yu IlHan |
+| Helièna | Natière | ta | Natière / cô | 250 | Hai nữ chỉ huy chuyển chức 7 chạm trán trên chiến trường Daréu |
+| Natière | Helièna | ta | Helièna / ngươi | 250 | Natière chất vấn Helièna về việc phá vỡ liên minh |
+| Kelatuke | * | ta | các ngươi | 250 | Kelatuke giáng lâm tuyên bố kích hoạt phòng thủ tối cao |
+| Kelatuke | Yu IlHan | ta | ngươi | 250 | Kelatuke chất vấn Yu IlHan khi thấy anh thu hồi thi thể Lisona |
+| Yu IlHan | * | tôi | mọi người / các người | 250 | Yu IlHan cúi chào xin phép rời đi trước mặt đại diện các phe phái |
 
 
 
