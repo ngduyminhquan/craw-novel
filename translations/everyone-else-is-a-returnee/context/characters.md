@@ -80,7 +80,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Galayton |  | Galayton | Thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát khiến đồng bọn phát hiện doanh trại bị đột kích | 238 |
 | Zenusva |  | Zenusva | Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt, cự điểu khổng lồ bằng ma hỏa mana | 247 |
 | Melohinne |  | Melohinne | Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt, nữ ma tộc cao 20m da trắng như băng | 247 |
-| Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi; bị Yu IlHan đâm xuyên tim kết liễu ở #253 sau khi dọn sạch chiến trường Daréu | 247 |
+| Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi; bị Yu IlHan đâm xuyên tim kết liễu ở #253, đến #262 được hồi sinh thể xác và trở thành thuộc hạ của Yu IlHan | 247 |
 | Lisona |  | Lisona | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn tại Daréu, nửa thân trên là phụ nữ nửa thân dưới là rắn | 250 |
 | Natière | Nati | Natière | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (Quân Đội Ánh Sáng Rực Rỡ); bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
 | Kelatuke |  | Kelatuke | Đại Thủ Môn Nhân của Khu Vườn Hoàng Hôn, cá mập khổng lồ chuyển chức 7 bọc giáp kim loại dày; bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
@@ -260,6 +260,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 252: Đối đầu trực diện với Helièna, kích hoạt Đọa Lạc và Thần Lực, thăng cấp Ký Lục lên cấp 50 khi đâm thủng bụng, vai và đùi Helièna rồi hấp thụ máu chuyển chức 7; được Helièna nhận diện là 'Kẻ Thứ Năm'.
 - Trạng thái tính đến chương 253: Giải trừ khế ước Bạn Đồng Hành Thiên Thần với Spiera; quyết đấu sinh tử với Spiera, dùng Bất Khả Xâm Phạm, giương Hiệu Triệu Diệt Vong và kích hoạt Thần Lực chồng 11 quỹ đạo thương chém đôi Spiera Lv 478, nhận điểm kinh nghiệm/ghi chép và đủ điều kiện tiến hóa dung hợp 5 kỹ năng cận chiến (Thương Thuật, Cận Chiến, Độn Khí Thuật, Tiên Thuật, Kiếm Thuật); lạnh lùng đâm nổ tung tim kết liễu Nữ Hoàng Succubus Helièna và khẳng định Liera mới là người bạn đời duy nhất.
 - Trạng thái tính đến chương 254: Thu nhận xác Helièna Lv 519, nâng Ký Lục lên cấp 56; dùng Dịch Chuyển về Trái Đất huy động toàn lực elf, Lang tộc và Quân Đoàn Rồng cùng Pháo Đài Bay và Pháo Đài Hộ Vệ sang Daréu; điều khiển trận chiến và hồi phục bằng Siêu Việt Tái Sinh cùng Hơi Thở; kích hoạt thành công kỹ năng Chúa Tể Thứ Nguyên (chức nghiệp phụ Du Hành Giả Thứ Nguyên) phong tỏa Daréu trước mọi kẻ địch không phải thủ lĩnh phe phái, bảo vệ thành công Daréu.
+- Trạng thái tính đến chương 262: Đưa kỹ năng Chế Tác Mana đạt cảnh giới thuần thục (Max) khi hồi sinh cơ thể Nữ Hoàng Succubus Helièna; đưa kỹ năng Thống Trị đạt cảnh giới thuần thục khi chính thức thu nhận Helièna làm thuộc hạ và mở khóa điều kiện tiến hóa kỹ năng.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -745,6 +746,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 252: Thao túng cả chiến trường Daréu khiến Kelatuke, Natière và các thiên thần (kể cả Spiera) tàn sát lẫn nhau; bị IlHan dùng Bất Khả Họa Quỹ Đạo Thương đâm trúng và hấp thụ máu; nhận ra IlHan chính là 'Kẻ Thứ Năm' theo lời tiên tri, lập tức rút mị lực khỏi nhóm IlHan và đảo chiều mana ép ba phe phái đồng loạt tự sát.
 - Xuất hiện/tử trận tính đến chương 253: Ép Kelatuke, Natière và tàn quân ba phe tự sát dã man; làm trung gian giải trừ khế ước giữa IlHan và Spiera; mê đắm IlHan vì tin anh là Vị Thần Thứ Năm theo lời tiên tri và đặt tay anh lên ngực mình; bị IlHan lạnh lùng đâm xuyên nổ tung tim kết liễu.
 - Xuất hiện/tử trận tính đến chương 254: Thi thể được Yu IlHan thu nạp vào túi đồ cùng ghi chép Lv 519 (giúp Ký Lục của IlHan tăng lên cấp 56).
+- Trạng thái tính đến chương 262: Thi thể nguyên vẹn được Yu IlHan dùng Cái Nôi Kỳ Tích, máu Echjar, ma thạch cấp 7 và sức mạnh của Paté tái tạo và làm đập lại trái tim bằng Chế Tác Mana thuần thục; tàn niệm (giữ khoảng 60% ý thức nguyên bản) chấp nhận gắn kết với IlHan qua kỹ năng Thống Trị, chính thức trở thành thuộc hạ của Yu IlHan và được Linh Hồn Phụ Ma trở lại vào thể xác ban đầu.
 
 ### Lisona
 - Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.

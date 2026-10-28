@@ -1602,3 +1602,11 @@ Nhóm đưa thiên thần Keduta lên pháo đài bay; Kang HaJin, Yumir và Lie
 Nữ thiên thần cấp cao chuyển chức 6 Titaera — bạn thân cũ của Liera — được Quân Đội Thiên Giới cử đến đàm phán mượn sức mạnh vượt chiều của MiRae và chiến lực của nhóm IlHan nhằm cứu nguy chiến trường Bức Tường Hỗn Loạn.
 Bị IlHan chất vấn tội bỏ rơi Trái Đất và bác bỏ lời đề nghị vô lý "nhận MiRae làm thiên thần làm phần thưởng", Titaera phải đánh giá nhóm IlHan ngang ngửa 1/10 một phe phái thực thể cấp cao và lỡ miệng nhắc tới tạo tác phẩm cấp Thần; khi cô định thoái thác, IlHan liền gọi Mystic dọa đuổi khách khiến cô phải chịu thua.
 Cảnh kết thúc: Yu IlHan ép giá đòi không chỉ một mà là hai tạo tác phẩm cấp Thần (thậm chí dọa tăng lên ba), buộc Titaera phải run rẩy nhượng bộ đồng ý; cuộc đàm phán sơ bộ thành công mỹ mãn.
+
+
+## 262
+Yu IlHan chấp nhận yêu cầu của Quân Đội Thiên Giới (bảo vệ Kang MiRae tạo một cổng dịch chuyển duy nhất) để đổi lấy 2 tạo tác phẩm cấp Thần; Titaera ủ rũ quay về báo cáo cho cấp trên.
+Trước trận chiến khốc liệt sắp tới, IlHan để Quân Đoàn Rồng và những người dưới chuyển chức 4 ở lại Trái Đất, rồi cùng 10 người thân và thuộc hạ vào xưởng chế tác để chuẩn bị con át chủ bài.
+Dùng Cái Nôi Kỳ Tích, máu Echjar, viên ma thạch cấp 7 bên trong thi thể Helièna và mượn năng lực Cung Thủ Định Mệnh của Paté, IlHan hồi sinh lại cơ thể Helièna và đưa kỹ năng Chế Tác Mana đạt cảnh giới thuần thục (Max).
+Tàn niệm Helièna (giữ 60% ý thức nguyên bản) thẳng thắn thổ lộ tình yêu và nhắc IlHan rằng việc giết cô chỉ chia đôi linh hồn; IlHan kích hoạt kỹ năng Thống Trị đạt cảnh giới thuần thục, chính thức thu nhận Helièna làm thuộc hạ rồi phụ ma linh hồn cô trở lại thể xác ban đầu.
+Cảnh kết thúc: Quy trình Linh Hồn Phụ Ma hoàn tất êm đềm nhưng mở màn cho một biến cố chấn động có thể làm rung chuyển tương lai của mọi phe phái thực thể cấp cao.
