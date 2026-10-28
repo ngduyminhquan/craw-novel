@@ -14,7 +14,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71) | 9 |
 | God | Lord God; The Lord | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
-| Yun DaeHan | Yoon DaeHan; Captain Yoon DaeHan; Yoon DaeBang | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59) | 15 |
+| Yun DaeHan | Yoon DaeHan; Captain Yoon DaeHan; Yoon DaeBang | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59, thăng thiếu tướng tính đến chương 268) | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Ahata |  | Ahata | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |

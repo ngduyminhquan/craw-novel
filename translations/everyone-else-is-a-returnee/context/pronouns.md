@@ -18,6 +18,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Do WooJun | cậu / Do WooJun | 15 | Trưởng nhóm Kẻ Hành Quyết |
 | Yun DaeHan | ông / thiếu tá Yun / Yun DaeHan | 15 | Thiếu tá quân đội Hàn Quốc |
 | Yun DaeHan | ông / đại tá Yun / Yun DaeHan | 59 | Đại tá quân đội Hàn Quốc |
+| Yun DaeHan | ông / thiếu tướng Yun / Yun DaeHan | 268 | Thiếu tướng quân đội Hàn Quốc |
 | Fashta | Fashta | 18 | Thiên thần hỗ trợ Erta |
 | Ahata | Ahata | 18 | Thiên thần hỗ trợ Erta |
 | Fred | Fred | 27 | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae |
@@ -396,3 +397,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Belkatoo | Hillutonne | ta | ngươi | 267 | Hai Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt kinh ngạc bàn luận về việc Helièna còn sống |
 | Satière | Ruler of the Army of Brilliant Light | thuộc hạ / chúng thần | Ngài | 267 | Satière quỳ gối kính cẩn diện kiến và nhận lệnh từ Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ |
 | Ruler of the Army of Brilliant Light | Satière | ta | ngươi / các ngươi | 267 | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ hạ lệnh cấm đụng vào Yu IlHan |
+| Yu IlHan | Yun DaeHan | tôi | ông / đại tá / thiếu tướng | 268 | Yu IlHan gặp lại và chiêu mộ Yun DaeHan sau khi thăng thiếu tướng |
+| Yun DaeHan | Yu IlHan | tôi | cậu / Yu IlHan | 268 | Thiếu tướng quân đội và dị năng giả |
+| Helièna | Liera | ta | cô / cô cựu thiên thần | 268 | Helièna trêu chọc Liera khi chia đội |
+| Helièna | Kim YeSeul | ta | bác | 268 | Helièna hưởng ứng lời dặn dò của mẹ Yu IlHan |

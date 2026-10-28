@@ -272,7 +272,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 265 |  | Chapter_265 - Wherever I Go – 8.txt | Wherever I Go – 8 | reviewed |  |
 | 266 |  | Chapter_266 - If You Wish To Follow Me – 1.txt | If You Wish To Follow Me – 1 | reviewed |  |
 | 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | done |  |
-| 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | todo |  |
+| 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | done |  |
 | 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | todo |  |
 | 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | todo |  |
 | 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -960,3 +961,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#266] Thuật ngữ "Netherworld" (thế giới cư ngụ chính của Quân Đội Ánh Sáng Rực Rỡ) — Tạm chọn: "Minh Giới" (Hán Việt ngắn gọn, đối ứng với Thiên Giới của Quân Đội Thiên Giới) và đã thêm vào glossary.md. Phương án khác: "Cõi Âm" / "U Minh Giới". → Chốt dịch là Minh Giới (orchestrator)
 - [#267] 'Heart of Fire' (tạo tác ma thạch phượng hoàng chuyển chức 7 phẩm cấp Thần): tạm dịch 'Hỏa Tâm' (nhất quán với cách dịch Hán Việt của tạo tác như Thiết Tâm); raw dòng 114 ghi '[Heat of Fire]' xem là lỗi chính tả (typo) của '[Heart of Fire]' và dịch thống nhất là '[Hỏa Tâm]'. → Chốt dịch là Hỏa Tâm (orchestrator)
 - [#267] 'the Supremes' (chỉ các lãnh tụ cấp cao nhất của 4 thế lực lớn): tạm dịch 'những thực thể tối cao' (nhất quán với hệ thống thuật ngữ thực thể cấp cao / thực thể cấp thấp). → Chốt dịch là Thực thể tối cao (orchestrator)
+- [#268] Dịch quân hàm 'Major-General' của Yun DaeHan thành 'Thiếu tướng' — Tạm dùng: "Thiếu tướng". Phương án khác: "Chuẩn tướng". → Chốt dịch là Thiếu tướng (orchestrator)
+- [#268] Đoạn 55 raw EN lặp từ ("The Flying Fortress was originally supposed to be under the control of the Flying Fortress") — Tạm dùng: dịch chỉnh lý theo ngữ cảnh thành "Pháo Đài Hộ Vệ vốn dĩ chịu sự điều khiển của pháo đài bay, nhưng Yu IlHan cũng có thể tự mình vận hành khi cần". Phương án khác: dịch sát chữ thô. → Giữ nguyên cách dịch chỉnh lý theo ngữ cảnh là Pháo Đài Hộ Vệ chịu sự điều khiển của pháo đài bay (orchestrator)

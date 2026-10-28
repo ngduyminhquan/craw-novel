@@ -1644,3 +1644,10 @@ Yu IlHan giục Helièna trốn vào dinh thự, rồi cùng Titaera đến gặ
 Trên đường về, Yu IlHan nảy ra ý tưởng táo bạo chế tạo tạo tác lõi kép kết hợp cả Hỏa Tâm lẫn Trái tim rồng của Echjar để hoàn thiện bộ giáp tối thượng.
 Tại tổng bộ Minh Giới, quân xâm lăng của Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn tàn phá khắp nơi buộc Satière cùng các chỉ huy phải vất vả dẹp loạn; thanh âm tuyệt mỹ của Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ bất chợt vang lên tỏa uy áp đóng băng cả thế giới, hạ lệnh không được đụng vào Yu IlHan vì tin anh là Kẻ Thứ Năm và cho phép toàn lực đối đầu các phe phái khác, đặc biệt là phe thiên thần.
 
+## 268
+Yu IlHan họp bàn kế hoạch tương lai nhằm ứng phó tốc độ phát triển quá nhanh của Trái Đất: làm chậm quá trình tăng trưởng bằng tạo tác kết hợp Đồng Hồ Cát Vĩnh Hằng, đồng thời gom góp lực lượng chiến đấu khắp các dị giới trước khi Trái Đất thăng cấp thành thế giới bậc cao.
+Anh quyết định chia tách lực lượng: Kang MiRae cùng đại đa số thành viên chuyển chức 4 và Yumir di chuyển trên pháo đài bay về thăm gia đình rồi tìm kiếm Liên Minh Tiền Tuyến; còn IlHan mang theo Helièna (như một quả bom hẹn giờ) và Kim YeSeul trên Pháo Đài Hộ Vệ, đồng thời phân phát thiết bị liên lạc chế tạo từ Vòng thiên thần.
+Yu IlHan cùng mẹ và Helièna kích hoạt Dịch Chuyển tới thế giới Midora, dùng kỹ năng Ký Lục định vị chính xác vị trí của lực lượng Trấn Áp và kịp thời phóng thương xương rồng cứu nguy trước một con rắn khổng lồ chuyển chức 4 cấp 230.
+Cảnh kết thúc: Yu IlHan từ trên Pháo Đài Hộ Vệ cất lời chiêu mộ, và 'Thiếu tướng' Yun DaeHan (mới được thăng chức trước khi rời Trái Đất) cùng 35 cấp dưới chính thức gia nhập lực lượng phòng vệ Trái Đất.
+
+
