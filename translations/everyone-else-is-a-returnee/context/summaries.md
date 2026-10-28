@@ -1555,3 +1555,9 @@ Yu IlHan thu nhận toàn bộ chiến lợi phẩm cùng thi thể Helièna, Na
 Trở lại Daréu, IlHan điều khiển hệ thống hai pháo đài từ xa trong khi hồi phục chấn thương bằng Siêu Việt Tái Sinh và Hơi Thở; với sự hỗ trợ của Bách Nhãn, thánh lực từ Na YuNa cùng sự dũng cảm của các binh đoàn và đòn kết liễu của Erica, toàn bộ tàn quân chuyển chức 5 xâm lăng đều bị quét sạch.
 Sau 6 tiếng kiên trì cầm cự, Yu IlHan kích hoạt thành công kỹ năng chủ động Chúa Tể Thứ Nguyên (thuộc chức nghiệp phụ Du Hành Giả Thứ Nguyên), thiết lập 'bản vá' thế giới phong tỏa hoàn toàn Daréu đối với mọi kẻ xâm lược ngoại trừ các thủ lĩnh phe phái, chính thức giành thắng lợi toàn diện và bảo vệ trọn vẹn Daréu.
 Cảnh kết thúc: Yu IlHan mệt mỏi bước ra khỏi dinh thự đón Liera sà vào vòng tay, trong khi Erta khẳng định chắc chắn anh sẽ tự mình trở thành một vị Thần đích thực, khép lại trọn vẹn cuộc đại chiến Daréu.
+
+## 255
+Tang lễ long trọng cho Phiria, Lecidna cùng các chiến binh elf và Lang tộc ngã xuống được tổ chức tại Daréu; Ngọn Lửa Vĩnh Cửu thiêu rụi các di hài, để lại một kén vảy rồng do Lecidna để lại cho Yumir chứa bức thư dặn dò và một tạo tác máy thu phát có chức năng liên lạc và mở cổng sang căn cứ Khu Vườn Hoàng Hôn; IlHan cất máy thu phát để tính sổ sau và nhận lời rèn một chiếc mề đay từ vảy khổng lồ để Yumir cất thư mẹ.
+Cuộc chiến khép lại, Yu IlHan giao quyền cai quản Daréu cho tộc elf (Mirfa...) và phần lớn Lang tộc tự rèn luyện phát triển; anh cùng Liera, Erta, Yumir, Kang HaJin, Na YuNa, Erica, Flemir, Mirey, Jirl và Paté lên Pháo Đài Bay dùng Dịch Chuyển trở về Trái Đất.
+Trên đường về, Na YuNa và HaJin mong mỏi gặp lại Kang MiRae cùng gia đình; IlHan quyết định ghé thăm bố mẹ mình trước khiến Na YuNa và Erta nháo nhào sửa soạn ra mắt phụ huynh.
+Cảnh kết thúc: Yu IlHan ôm eo Liera dắt cô đi nghỉ ngơi khiến Na YuNa và Erta sững sờ chết trân vì ghen, thúc đẩy hai cô nàng bắt tay đồng thanh lập liên minh quyết không bỏ cuộc trước sự kinh hãi của Kang HaJin.

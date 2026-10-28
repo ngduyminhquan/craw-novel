@@ -271,6 +271,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jirl | Phiria | tôi | cô / Phiria | 163 | Đồng đội elf trò chuyện |
 | Mirey | Phiria | tôi | cô / Phiria | 163 | Đồng đội elf trò chuyện |
 | Phiria | Mirey | tôi | cô / Mirey | 163 | Đồng đội elf trò chuyện |
+| Jirl | Mirfa | tôi | Mirfa / cô | 255 | Đồng tộc elf trấn an trước khi rời Daréu |
+| Mirfa | Jirl | tôi | Jirl / cậu | 255 | Đồng tộc elf trao đổi trước khi rời Daréu |
 | Yu IlHan | Irma An Ill'ta | tôi | cô / Điện hạ | 164 | Yu IlHan từ chối kết bạn với Đệ nhất Hoàng nữ Palladia |
 | Irma An Ill'ta | Yu IlHan | tôi | anh Yu IlHan / Yu IlHan | 164 | Đệ nhất Hoàng nữ Palladia làm quen với Yu IlHan |
 | Erica | Kang MiRae | tôi | cô | 164 | Erica nói chuyện với Kang MiRae sau buổi đấu giá |

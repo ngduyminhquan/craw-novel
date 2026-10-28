@@ -10,7 +10,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Kim YeSeul |  | Kim YeSeul | Mẹ của Yu IlHan | 6 |
 | Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
-| Kang MiRae | Kang Mirae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
+| Kang MiRae | Kang Mirae; MiRae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71) | 9 |
 | God | Lord God; The Lord | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |

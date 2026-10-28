@@ -259,7 +259,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 252 |  | Chapter_252 - You’re Welcome Too – 4.txt | You’re Welcome Too – 4 | reviewed |  |
 | 253 |  | Chapter_253 - You’re Welcome Too – 5.txt | You’re Welcome Too – 5 | reviewed |  |
 | 254 |  | Chapter_254 - You’re Welcome Too – 6.txt | You’re Welcome Too – 6 | reviewed |  |
-| 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | todo |  |
+| 255 |  | Chapter_255 - You’re Welcome Too – 7.txt | You’re Welcome Too – 7 | done |  |
 | 256 |  | Chapter_256 - You’re Welcome Too – 8.txt | You’re Welcome Too – 8 | todo |  |
 | 257 |  | Chapter_257 - You’re Welcome Too – 9.txt | You’re Welcome Too – 9 | todo |  |
 | 258 |  | Chapter_258 - Wherever I Go – 1.txt | Wherever I Go – 1 | todo |  |
@@ -367,8 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -941,3 +939,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#253] Thuật ngữ "fifth God" (Helièna nói về việc IlHan sẽ trở thành người sáng lập phe phái thứ năm) — Tạm chọn: "Vị Thần Thứ Năm". Phương án khác: "Đấng Thứ Năm". → Chốt Vị Thần Thứ Năm (người sáng lập phe phái thực thể cấp cao thứ năm) (orchestrator)
 - [#254] 'God' trong lời thoại của Erta và Liera ('make him a God', 'become a God all by himself'): tạm dịch là 'vị Thần' theo ngữ cảnh Yu IlHan trở thành Vị Thần Thứ Năm, tránh nhầm lẫn với 'Thượng Đế'. → Giữ nguyên cách dịch 'vị Thần' theo ngữ cảnh Yu IlHan trở thành Vị Thần Thứ Năm (bỏ qua cảnh báo false positive của QA) (orchestrator)
 - [#252-254] Bổ sung mục 'Fallen Angel' -> 'thiên thần sa ngã' vào glossary.md → Bác thêm vào glossary.md vì là danh từ chung (đã ghi ở mục từ chung đã xóa dòng 38), chỉ sửa trực tiếp trong bản dịch chương 254 thành "thiên thần sa ngã". (orchestrator)
+- [#255] Xưng hô giữa Yu IlHan và Liera sau khi xác lập quan hệ tình cảm — Đề xuất cân nhắc chuyển sang 'anh - em' trong ngữ cảnh riêng tư; tạm dùng: giữ nguyên 'tôi - cô / Liera' và 'tôi - cậu / IlHan' theo pronouns.md. → Giữ nguyên tôi - cô / Liera và tôi - cậu / IlHan theo pronouns.md để nhất quán (orchestrator)
+- [#255] Thuật ngữ 'scale capsule' (vật thể hình bầu dục bảo vệ di vật của Lecidna) — Tạm chọn: 'kén vảy'. Phương án khác: 'viên nhộng vảy'. → Chốt dịch là kén vảy (orchestrator)
+- [#255] Thuật ngữ 'locket' (mặt dây chuyền mở nắp chứa thư) — Tạm chọn: 'mề đay'. Phương án khác: 'mặt dây chuyền mở nắp'. → Chốt dịch là mề đay (orchestrator)
