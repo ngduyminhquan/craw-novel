@@ -77,6 +77,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lisona | ả / Lisona / người phụ nữ nửa thân rắn | 250 | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn |
 | Natière | cô / Natière | 250 | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ |
 | Kelatuke | nó / Kelatuke / con cá mập | 250 | Đại Thủ Môn Nhân chuyển chức 7 của Khu Vườn Hoàng Hôn |
+| Belkatoo | Belkatoo / hắn | 256 | Thực thể cấp cao chuyển chức 7 Quân Đội Ma Hủy Diệt |
+| Telzaider | Telzaider / gã | 256 | Tiểu Đoàn Trưởng Tiểu Đoàn 4 Quân Đội Ma Hủy Diệt |
+| Hillutonne | Hillutonne / gã | 256 | Tiểu Đoàn Trưởng Tiểu Đoàn 2 Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -353,6 +356,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Helièna | Spiera | ta | ngươi / nữ thiên thần | 253 | Helièna trêu chọc và ép Spiera hủy bỏ khế ước |
 | Spiera | Yu IlHan | tôi | cậu / Yu IlHan | 253 | Giải trừ khế ước Bạn Đồng Hành Thiên Thần và quyết đấu bài học cuối cùng trước khi tử trận |
 | Yu IlHan | Spiera | tôi | cô / Spiera | 253 | Giải trừ khế ước Bạn Đồng Hành Thiên Thần, quyết đấu bài học cuối cùng và tiễn đưa Spiera |
+| Zenusva | Hillutonne | ta | ngươi | 256 | Zenusva khuyên can Hillutonne kiềm chế trả thù cho Helièna |
+| Hillutonne | Zenusva | ta | ngươi | 256 | Hillutonne tranh luận với Zenusva trong hội nghị |
 
 
 

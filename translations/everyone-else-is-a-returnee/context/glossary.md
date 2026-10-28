@@ -83,7 +83,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Boston Public Library |  | Thư viện Công cộng Boston | địa danh | 3 | Thư viện lớn ở Mỹ nơi IlHan hoàn thành việc đọc toàn bộ sách |
 | Russian Academy of Sciences | Russian Academy of sciences | Viện Hàn lâm Khoa học Nga | tổ chức | 3 | Nơi có 7,5 triệu đầu sách IlHan đã đọc qua |
 | Ya-umin | Ya'umin | Ya-umin | địa danh | 6 | Thế giới khác nơi mẹ IlHan chuyển sinh đến |
-| Heishia |  | Heishia | địa danh | 6 | Thế giới khác nơi cha IlHan chuyển sinh đến |
+| Heishia | Heisha | Heishia | địa danh | 6 | Thế giới khác nơi cha IlHan chuyển sinh đến |
 | Mo Palmo |  | Mo Palmo | khác | 4 | Thợ rèn huyền thoại trong truyền thuyết Jumong |
 | Strength |  | Sức mạnh | hệ thống | 5 | Chỉ số cơ bản |
 | Agility |  | Nhanh nhẹn | hệ thống | 5 | Chỉ số cơ bản |
@@ -747,3 +747,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
 | fifth God | fifth god; the fifth God; the fifth god | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
+| Lünaë |  | Lünaë | địa danh | 256 | Khu vực/thành trì tại thế giới Heishia bị quân đội orc tàn phá |

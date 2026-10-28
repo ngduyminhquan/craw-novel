@@ -1561,3 +1561,9 @@ Tang lễ long trọng cho Phiria, Lecidna cùng các chiến binh elf và Lang 
 Cuộc chiến khép lại, Yu IlHan giao quyền cai quản Daréu cho tộc elf (Mirfa...) và phần lớn Lang tộc tự rèn luyện phát triển; anh cùng Liera, Erta, Yumir, Kang HaJin, Na YuNa, Erica, Flemir, Mirey, Jirl và Paté lên Pháo Đài Bay dùng Dịch Chuyển trở về Trái Đất.
 Trên đường về, Na YuNa và HaJin mong mỏi gặp lại Kang MiRae cùng gia đình; IlHan quyết định ghé thăm bố mẹ mình trước khiến Na YuNa và Erta nháo nhào sửa soạn ra mắt phụ huynh.
 Cảnh kết thúc: Yu IlHan ôm eo Liera dắt cô đi nghỉ ngơi khiến Na YuNa và Erta sững sờ chết trân vì ghen, thúc đẩy hai cô nàng bắt tay đồng thanh lập liên minh quyết không bỏ cuộc trước sự kinh hãi của Kang HaJin.
+
+## 256
+Tại Elo Katra, các Tiểu Đoàn Trưởng Quân Đội Ma Hủy Diệt (Zenusva, Hillutonne, Telzaider, Belkatoo) họp hội nghị bàn về cái chết của Echjar và Helièna; Zenusva ngăn Hillutonne báo thù và thống nhất chuyển hướng cơn thịnh nộ sang Bức Tường Hỗn Loạn lôi kéo liên minh tấn công Quân Đội Thiên Giới, vô tình giúp Yu IlHan tạm thoát khỏi sự chú ý của các phe phái.
+Trở về Trái Đất nghỉ ngơi 4 ngày, IlHan quyết định đi tìm bố mẹ; anh thuyết phục Erta, Na YuNa, thuộc hạ và Yumir (được để lại Cái Nôi Kỳ Tích) ở lại Trái Đất rèn luyện, rồi cùng Liera dùng Dịch Chuyển đến thế giới Heishia nơi bố anh từng chuyển sinh.
+Đến Heishia và chứng kiến thế giới đang đứng trước bờ vực diệt vong vì quái vật, IlHan dùng kỹ năng Ký Lục truy vết dấu vết của Yu YongHan nhưng hoàn toàn không tìm thấy bất kỳ ghi chép nào, nghi ngờ bố mình cũng là bậc thầy ẩn thân.
+Cảnh kết thúc: Để đảm bảo an toàn tuyệt đối cho bố nếu ông còn sống, Yu IlHan giương Hiệu Triệu Diệt Vong bay lên và càn quét tiêu diệt toàn bộ quái vật trên khắp thế giới Heishia trong 17 tiếng trong trạng thái Ẩn Thân tuyệt đối, để lại bí ẩn vĩnh viễn về vị anh hùng cứu thế.

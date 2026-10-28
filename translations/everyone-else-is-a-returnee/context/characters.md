@@ -84,6 +84,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lisona |  | Lisona | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn tại Daréu, nửa thân trên là phụ nữ nửa thân dưới là rắn | 250 |
 | Natière | Nati | Natière | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (Quân Đội Ánh Sáng Rực Rỡ); bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
 | Kelatuke |  | Kelatuke | Đại Thủ Môn Nhân của Khu Vườn Hoàng Hôn, cá mập khổng lồ chuyển chức 7 bọc giáp kim loại dày; bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
+| Belkatoo |  | Belkatoo | Thực thể cấp cao chuyển chức 7, một trong các Tiểu Đoàn Trưởng thuộc Quân Đội Ma Hủy Diệt | 256 |
+| Telzaider | 4th Battalion Commander Telzaider | Telzaider | Tiểu Đoàn Trưởng Tiểu Đoàn 4 thuộc Quân Đội Ma Hủy Diệt | 256 |
+| Hillutonne | 2nd Battalion Commander, Hillutonne | Hillutonne | Tiểu Đoàn Trưởng Tiểu Đoàn 2 thuộc Quân Đội Ma Hủy Diệt | 256 |
 
 ## Chi tiết
 
