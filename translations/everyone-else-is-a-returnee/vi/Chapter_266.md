@@ -34,11 +34,11 @@ Dù là Quân Đội Thiên Giới, Quân Đội Ánh Sáng Rực Rỡ, Khu Vư�
 
 "Đã xuất hiện rồi thì giữ chân hắn đi!"
 
-[Thiếp tạ ơn lời dặn của chàng, chàng yêu dấu.]
+[Ta cảm ơn lời dặn của chàng nhé, chàng yêu dấu.]
 
 [Ả còn quy phục một thực thể cấp thấp nữa cơ à? ...Ta chẳng biết ngươi đã dùng thủ đoạn gì, nhưng thật kinh tởm làm sao. Cảm giác như ta đang bị đem ra làm trò đùa vậy.]
 
-Ánh mắt Satière chuyển hướng về phía Yu IlHan — thực thể cấp thấp đang quét sạch lũ thiên thần sa ngã ngay giữa lúc chiến trường đang hỗn loạn; kẻ đang thao túng linh hồn hỏa.
+Ánh mắt Satière chuyển hướng về phía Yu IlHan — thực thể cấp thấp đang quét sạch lũ thiên thần sa ngã ngay giữa lúc chiến trường đang hỗn loạn; kẻ đang thao túng những ngọn lửa linh hồn.
 
 Chính là hắn. Mọi thứ bắt đầu chệch hướng kể từ khoảnh khắc hắn can thiệp vào chuyện giữa các thực thể cấp cao.
 
@@ -118,7 +118,7 @@ Satière, kẻ nhận ra sai lầm của mình có phần muộn màng, điên c
 
 "Hựựựựựự!"
 
-Những sợi xích linh hồn hỏa tạo nên Đọa Lạc đã tự bện lại thành một tấm khiên khổng lồ, đỡ lấy đòn tấn công của Satière trước khi tan biến. Yu IlHan cảm nhận được kết giới Đọa Lạc của mình bị cưỡng chế giải trừ, bất đắc dĩ lắc đầu.
+Những sợi xích ngọn lửa linh hồn tạo nên Đọa Lạc đã tự bện lại thành một tấm khiên khổng lồ, đỡ lấy đòn tấn công của Satière trước khi tan biến. Yu IlHan cảm nhận được kết giới Đọa Lạc của mình bị cưỡng chế giải trừ, bất đắc dĩ lắc đầu.
 
 "Phù, hắn ta mạnh điên cuồng thật đấy. Tạm thời mình thậm chí còn chẳng chạm nổi vào người hắn."
 

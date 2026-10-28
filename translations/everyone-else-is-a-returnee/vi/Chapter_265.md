@@ -32,13 +32,13 @@ Phải đấy, dẫu anh đã trả lại thể xác cho ả, sự giải thoát
 
 Dù trước khi vượt qua Bức Tường Hỗn Loạn vẫn còn lác đác vài thiên thần, nhưng giờ đây khi đã vượt qua ranh giới, nơi này hoàn toàn là lãnh địa của quân thù. Tình thế hiện tại là tồi tệ nhất, bởi ngay cả các sa đọa thiên thần cùng những kẻ thuộc Khu Vườn Hoàng Hôn cũng không hề bị hạn chế sức mạnh. Chúng tin chắc mình đang nắm giữ lợi thế nên lập tức xông thẳng về phía nơi anh cùng các bạn đồng hành đang đứng.
 
-"IlHan, có khá nhiều kẻ chuyển chức 6 đấy, nên hãy cẩn thận. Anh sẽ mất mạng ngay khoảnh khắc sơ suất đấy."
+"IlHan, có khá nhiều kẻ chuyển chức 6 đấy, nên hãy cẩn thận. Cậu sẽ mất mạng ngay khoảnh khắc sơ suất đấy."
 
 Liera hạ thấp trọng tâm, nắm chặt ngọn thương màu hồng nhạt. Bức Tường Hỗn Loạn — dù cô đã tích lũy dày dạn kinh nghiệm chiến đấu ở nơi này, nhưng hiển nhiên đây là lần đầu tiên cô làm điều đó dưới tư cách một thực thể cấp thấp.
 
 Dù có đôi chút căng thẳng, cô không hề có ý định lùi bước; người ở bên cạnh là người cô yêu thương, người mà cô phải bảo vệ. Ngay khoảnh khắc ý nghĩ ấy lóe lên, ánh sáng trên ngọn thương của cô rực rỡ hơn, và phước lành của Thần Tình Yêu sục sôi bao bọc lấy cô. Ánh sáng màu hồng bảo hộ lấy thân hình cô.
 
-"Anh có thể xoay xở với lũ chuyển chức 6 nhờ Đọa Lạc. Erta, cô có thể chủ yếu dùng ma pháp hỗ trợ được không? Liera và anh sẽ lo liệu kẻ thù."
+"Tôi có thể xoay xở với lũ chuyển chức 6 nhờ Đọa Lạc. Erta, cô có thể chủ yếu dùng ma pháp hỗ trợ được không? Liera và tôi sẽ lo liệu kẻ thù."
 
 "Cứ giao cho tôi. Đó là sở trường của tôi mà."
 
@@ -60,13 +60,13 @@ Một thực thể cấp thấp vừa mới hạ sát một thực thể cấp c
 
 "Rút cuộc thì chúng cũng chỉ đến thế mà thôi. Có quá nhiều thế giới đến mức không thể đếm xuể. Nhưng dẫu chúng có chạm tới đỉnh cao ở một trong những thế giới đó, chúng cũng chỉ là một trong vô số kẻ mà thôi. Sao trước đây mình lại không nhận ra điều này nhỉ?"
 
-"IlHan, suy nghĩ của anh thật sự rất táo bạo đấy. Dù bực bội thật khi nó chẳng hề sai chút nào."
+"IlHan, suy nghĩ của cậu thật sự rất táo bạo đấy. Dù bực bội thật khi nó chẳng hề sai chút nào."
 
 Là một trong những 'đỉnh cao vô số' ấy, Liera nghiến răng đáp lời. Tuy nhiên, cơn giận của cô không hề trút lên Yu IlHan mà hướng về phía những thực thể cấp cao khác.
 
 "Haaaaaaaaaahp!"
 
-[Kyak!? Thể xác của ta...!]
+[Á!? Thể xác của ta...!]
 
 Một tên lính Quân Đội Ma Hủy Diệt lập tức bị ngọn thương của cô nghiền nát sau khi bị ma pháp trận của Erta trói chặt và hóa giải ma pháp. Tiếp theo là một sa đọa thiên thần, rồi kế đó là một kẻ đến từ Khu Vườn Hoàng Hôn! Máu đen và xanh bắn tung tóe khắp nơi. Toàn bộ các thi thể đều được thu dọn vào hòm đồ của Yu IlHan.
 
@@ -78,7 +78,7 @@ Liera nhanh chóng nhận ra một điều.
 
 "Tất cả là nhờ Đọa Lạc đấy. Kỹ năng này không phải thứ thuộc về một thực thể cấp thấp...!"
 
-Erta toát mồ hôi hột khi nhìn vào phạm vi của linh hồn hỏa, vốn đã bành trướng đáng kể và giờ đây đang bao phủ một phần lớn chiến trường.
+Erta toát mồ hôi hột khi nhìn vào phạm vi của những ngọn lửa linh hồn, vốn đã bành trướng đáng kể và giờ đây đang bao phủ một phần lớn chiến trường.
 
 "Nó thậm chí còn kiềm tỏa và hạ thấp đẳng cấp của những kẻ chuyển chức 6. Tôi còn chưa từng thấy kỹ năng nào như thế này ngay cả ở các Tiểu Đoàn Trưởng!"
 
@@ -90,7 +90,7 @@ Ngay lúc này đây, những ngọn lửa vẫn đang trói buộc và gây sá
 
 "Tan học bước lên sân thượng cho tôi!"
 
-Những gì họ đang làm chẳng còn đơn thuần là 'đánh lạc hướng' nữa. Yu IlHan, Liera và Erta đã biến thành một cơn bão quét ngang chiến trường! Titaera, người đang chứng kiến lãnh địa linh hồn hỏa ngày một bành trướng và nuốt trọn thêm nhiều phần của chiến trường, toàn thân vã ra mồ hôi lạnh.
+Những gì họ đang làm chẳng còn đơn thuần là 'đánh lạc hướng' nữa. Yu IlHan, Liera và Erta đã biến thành một cơn bão quét ngang chiến trường! Titaera, người đang chứng kiến lãnh địa ngọn lửa linh hồn ngày một bành trướng và nuốt trọn thêm nhiều phần của chiến trường, toàn thân vã ra mồ hôi lạnh.
 
 [Trời đất... Tôi cứ tưởng cậu ta chỉ giỏi tấn công phục kích thôi chứ...]
 
@@ -160,7 +160,7 @@ Lũ sa đọa thiên thần thảy đều bị một làn sóng căng thẳng b�
 
 Khi doanh trại của lũ sa đọa thiên thần chao đảo, Đọa Lạc lại một lần nữa bành trướng phạm vi và lập tức lôi tuột lũ sa đọa thiên thần vào bên trong rồi trói chặt chúng lại, trong khi ma pháp trận của Erta cũng mở rộng và phân tán ma lực của chúng! Yu IlHan và Liera sóng vai bay lượn bên trong lãnh địa để chém đầu và giật đứt đôi cánh của chúng.
 
-"Thế này là... Em cảm thấy như mình còn mạnh hơn cả hồi còn là thực thể cấp cao nữa!"
+"Thế này là... Tôi cảm thấy như mình còn mạnh hơn cả hồi còn là thực thể cấp cao nữa!"
 
 "Haaaaaaaap! Cuồng Ba!"
 

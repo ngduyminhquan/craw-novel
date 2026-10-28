@@ -36,7 +36,7 @@ Không ổn rồi. Lời nói chẳng có tác dụng gì. Yu IlHan ôm lấy c�
 
 Tuy nhiên, đây cũng là sơ suất của chính anh. Giờ còn biết bới móc điều gì nữa đây? Càng bỏ cuộc muộn thì sẽ càng đau đớn hơn – Yu IlHan gạt đi những tiếc nuối về Quân Đội Thiên Giới rồi dõng dạc tuyên bố.
 
-"Chuyện đã đến nước này thì chúng ta chỉ còn cách chia làm hai nhóm thôi. Hỡi các thiên thần, tôi sẽ hành động và coi như các người không hề tồn tại ở đây."
+"Chuyện đã đến nước này thì chúng ta chỉ còn cách chia làm hai nhóm thôi. Này các thiên thần, tôi sẽ hành động và coi như các người không hề tồn tại ở đây."
 
 [...?]
 
@@ -96,7 +96,7 @@ Khi Yumir kích hoạt kỹ năng, đẩy sức mạnh từ danh hiệu của c�
 
 "E hèm!"
 
-Na YuNa nháy mắt với các thiên thần rồi ban phước cho Yu IlHan, Liera và Na YuNa. Sau khi gần chạm mốc cấp độ 280 của chuyển chức lần 4, cô đã phát triển thành một mỹ nhân siêu phàm thoát tục, sở hữu năng lực chuyển hóa sắc đẹp của mình thành sức mạnh chúc phúc — một dạng sức mạnh mà cô nắm giữ với tư cách là nữ tư tế của Nữ Thần Sắc Đẹp Leytna!
+Na YuNa nháy mắt với các thiên thần rồi ban phước cho Yu IlHan, Liera và Erta. Sau khi gần chạm mốc cấp độ 280 của chuyển chức lần 4, cô đã phát triển thành một mỹ nhân siêu phàm thoát tục, sở hữu năng lực chuyển hóa sắc đẹp của mình thành sức mạnh chúc phúc — một dạng sức mạnh mà cô nắm giữ với tư cách là nữ tư tế của Nữ Thần Sắc Đẹp Leytna!
 
 [Toàn bộ năng lực tăng 43% trong vòng 3 giờ tới. Bạn tuyệt đối không phải chịu đòn chí mạng và có thể né tránh một đòn tất sát từ kẻ thù. Toàn bộ khả năng hồi phục tăng 300%.]
 
@@ -112,7 +112,7 @@ Yu IlHan liếc nhìn Kang MiRae và Na YuNa rồi nhẹ nhàng gõ ngón chân 
 
 "Ả sẽ xuất hiện nếu thấy tình thế nguy hiểm."
 
-"Em tin tưởng ở anh."
+"Tôi tin tưởng ở anh."
 
 [Cái gì cơ? 'Ả' nào là 'ả' nào?]
 
@@ -166,7 +166,7 @@ Yu IlHan nghiêng đầu sau khi thu xác của các thực thể cấp cao vào
 
 "Không sao đâu; rất nhiều tên trong số chúng đã nhận ra rồi."
 
-Yu IlHan lại vung Đại Đoạn Vũ Trụ Thương thêm một lần nữa, nhưng lần này, thậm chí nhiều thực thể cấp cao hơn đã bỏ mạng khi kỹ năng Tử Thần của anh bắt đầu phát huy hiệu lực.
+Yu IlHan lại vung Đại Đoạn Vũ Trụ Thương thêm một lần nữa, nhưng lần này, ngay cả các thực thể cấp cao cũng phải bỏ mạng khi kỹ năng Tử Thần của anh bắt đầu phát huy hiệu lực.
 
 Ngay cả trên một chiến trường nơi các thực thể cấp cao đông như kiến cỏ, việc nhiều kẻ trong số chúng bỏ mạng cùng một lúc mà không hề phát hiện ra bóng dáng kẻ thù quả thực vô cùng kỳ lạ. Một sự hỗn loạn lập tức bùng nổ khắp chiến trường.
 
