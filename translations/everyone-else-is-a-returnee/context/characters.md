@@ -36,7 +36,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
 | Teraka | Teraka-nim | Teraka | Con rồng thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu; tính đến #237-#241 đã đột phá lên chuyển chức 6 và dẫn dắt 5.000 con rồng sơ sinh; tử trận ở #242 dưới một thương của Spiera | 101 |
-| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Long Vương kiêm Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka bị diệt; tính đến #243-#244 bị IlHan kéo về Trái Đất, bị tước bỏ tư cách thực thể cấp cao nhưng vẫn dùng đòn hắc hỏa và Lời Nguyền huyết mạch trói chặt linh hồn IlHan | 242 |
+| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Long Vương kiêm Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka bị diệt; tính đến #243-#244 bị IlHan kéo về Trái Đất, bị tước bỏ tư cách thực thể cấp cao nhưng vẫn dùng đòn hắc hỏa và Lời Nguyền huyết mạch trói chặt linh hồn IlHan; tử trận ở #245 dưới ngọn Bát Vĩ Long Thương của IlHan | 242 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |

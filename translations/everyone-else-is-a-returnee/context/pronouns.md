@@ -323,6 +323,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Echjar | Spiera | ta | ngươi / các ngươi | 243 | Echjar đối đầu và áp đảo Spiera |
 | Echjar | Yu IlHan | ta | ngươi / tên con người | 244 | Echjar giận dữ tấn công và nguyền rủa IlHan |
 | Yu IlHan | Echjar | ta / tôi | ngươi | 244 | Yu IlHan đối đầu và kích hoạt toàn bộ sức mạnh kháng cự lời nguyền của Echjar |
+| Orochi | Yu IlHan | ta | chủ nhân | 245 | Orochi gọi IlHan là chủ nhân khi nói chuyện |
 
 
 

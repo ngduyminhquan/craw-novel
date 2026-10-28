@@ -1495,7 +1495,10 @@ Yu IlHan kiên nhẫn duy trì Ẩn Thân chờ kẻ địch suy yếu để đo
 Bị đâm trúng, Echjar lập tức phản ứng giáng đòn Phản Kích bằng Lời Nguyền huyết mạch kinh hoàng trói chặt và ăn mòn Yu IlHan, kết nối tâm linh khiến Liera và Spiera không thể can thiệp; Lời Nguyền quá đỗi tàn độc vượt khỏi tầm chống đỡ của Kháng Lời Nguyền Cấp Cao, Đọa Lạc và ngọn lửa.
 Cảnh kết thúc: Trước nguy cơ mất mạng, Yu IlHan kích hoạt Long Huyết để cường hóa Siêu Việt Tái Sinh ăn thua đủ với Lời Nguyền, bất ngờ làm thức tỉnh khí tức rồng đã ngấm sâu vào người kể từ khi lập khế ước với Yumir.
 
-
-
-
+## 245
+Yu IlHan nhận thấy khí tức rồng thức tỉnh từ bên trong, liền triệu hồi Đại Thùng ra giữa không trung và nhảy vào ngâm mình giữa làn máu nguyền rủa; trước nguy cơ Đại Thùng bị máu đen ăn mòn, anh đập 4 viên ma thạch cấp 5 kích hoạt Chế Tác Mana nâng cấp thành công Đại Thùng thành tạo tác phẩm cấp Thần 'Cái Nôi Kỳ Tích'.
+Dưới sự cộng hưởng của Cái Nôi Kỳ Tích, Hỏa Ngục Long Thân và Siêu Việt Tái Sinh, máu của Echjar bị thanh tẩy thành ánh hoàng kim chảy ngược vào IlHan, giúp anh phục hồi thương thế, tăng vĩnh viễn 235 điểm Ma pháp và bắt đầu tiến hóa cơ thể; trái lại, Echjar bị rút cạn máu và bất động.
+Sợ thi thể chuyển chức 7 tiếp tục tụt dốc mất giá trị nguyên liệu, IlHan từ bỏ sao chép Đại Đoạn Vũ Trụ Thương mà kết hợp nhuần nhuyễn kiếm thuật và roi thuật tung 10 kích đồng thời, đánh ra đòn Chí Mạng chém đôi đầu Echjar, đưa Bất Khả Họa Quỹ Đạo Thương lên cấp 98.
+Echjar Lv 502 (539) tử trận mang lại lượng kinh nghiệm khổng lồ đưa IlHan chạm trần cấp độ 299 (+15% hiệu quả danh hiệu Bất Khả Xâm Phạm cho mỗi đẳng cấp chênh lệch); IlHan háo hức chờ nhận thông báo chuyển chức 5 nhưng không thấy gì.
+Cảnh kết thúc: Trước thắc mắc của IlHan về việc thiếu hướng dẫn nhiệm vụ, Liera mỉm cười tiết lộ từ chuyển chức 5 trở đi không hề có sẵn lựa chọn, bởi đây không còn là bài thi trắc nghiệm.
 
