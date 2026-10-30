@@ -436,7 +436,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Eternal Flame | ta / tôi | em / Ngọn Lửa Vĩnh Cửu | 278 | Yu IlHan đối thoại với ý chí của Ngọn Lửa Vĩnh Cửu |
 | Michael Smithson | Carina Malatesta | tôi | Carina / em | 280 | Michael thổ lộ sẽ trở thành tấm khiên bảo vệ Carina |
 | Carina Malatesta | Michael Smithson | tôi / em | anh / anh yêu | 280 | Carina xưng hô âu yếm với Michael |
-| Echjar | Yu IlHan | ta | chủ nhân / ngươi | 280 | Sau khi bị Thống Trị, thừa nhận IlHan là chủ nhân |
+| Echjar | Yu IlHan | ta | chủ nhân / ngươi / Chúa Tể / Người | 280 | Sau khi bị Thống Trị, thừa nhận IlHan là chủ nhân; từ ch302 gọi thêm Chúa Tể / Người |
 | Erta | Takagaki Asuha | tôi | cô / Takagaki Asuha | 280 | Erta huấn luyện các chủ clan |
 | Takagaki Asuha | Erta | tôi | Erta | 280 | Takagaki Asuha được Erta huấn luyện |
 | Erta | Michael Smithson | tôi | Michael / các cậu | 280 | Erta huấn luyện các chủ clan |

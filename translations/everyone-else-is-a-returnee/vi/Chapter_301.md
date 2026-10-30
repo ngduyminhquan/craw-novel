@@ -112,13 +112,13 @@ Yu IlHan cẩn trọng mở miệng. Anh cảm thấy thứ ngôn ngữ mình s�
 
 [Nước và đất, hãy tách rời nhau ra.]
 
-Những dòng nước bắn tung tóe khắp nơi liền lắng dịu lại rồi tụ lại tạo thành các hồ và đại dương. Mặt đất lấy lại sự tĩnh lặng và dung hợp với bất kỳ mảnh đất nào ở lân cận. Trong quá trình đó, những ngọn núi và thung lũng khổng lồ thành hình, trong khi những hồ nước ban đầu bị nghiền nát không thương tiếc và đôi khi tạo nên một đại dương rộng lớn.
+Những dòng nước bắn tung tóe khắp nơi liền lắng dịu rồi tụ lại tạo thành các hồ và đại dương. Mặt đất lấy lại sự tĩnh lặng và dung hợp với bất kỳ mảnh đất nào ở lân cận. Trong quá trình đó, những ngọn núi và thung lũng khổng lồ thành hình, trong khi những hồ nước ban đầu bị nghiền nát không thương tiếc và đôi khi tạo nên một đại dương rộng lớn.
 
 "A, Aaaaa."
 
 "Làm sao có thể như vậy được.......?"
 
-Tộc elf cuối cùng đã mất trí hoàn toàn sau khi chứng kiến thế giới biến đổi theo từng lời nói của Yu IlHan. Yu IlHan trong vô thức đang tỏa ra những ngọn lửa đỏ rực trong khi thống trị cả bầu trời lẫn mặt đất! Những elf vốn đã đạt độ trung thành tối đa với anh bắt đầu có một niềm tin gần như cuồng tín.
+Tộc elf cuối cùng đã hoàn toàn choáng ngợp sau khi chứng kiến thế giới biến đổi theo từng lời nói của Yu IlHan. Yu IlHan trong vô thức đang tỏa ra những ngọn lửa đỏ rực trong khi thống trị cả bầu trời lẫn mặt đất! Những elf vốn đã đạt độ trung thành tối đa với anh bắt đầu có một niềm tin gần như cuồng tín.
 
 Tất nhiên, tình trạng của Yu IlHan cũng chẳng hề tốt lành gì.
 
@@ -152,7 +152,7 @@ Thông qua vô số quá trình dung hợp và tiến hóa, lượng mana đang 
 
 "Bố không sao. Bố nghĩ gần xong rồi."
 
-Nhờ việc Yu IlHan vắt kiệt tinh thần lẫn mana để liên tục bắn ra kỹ năng Tuyên Cáo, những cánh rừng với những thân cây to lớn đến mức điên rồ mà Trái Đất không tài nào tưởng tượng nổi đã được hình thành, những giọt nước khổng lồ trôi lơ lửng giữa không trung rồi phân tán từ các vùng nước ra những nơi xa xôi, và vạn vật đều đang hấp thụ mana tự nhiên.
+Nhờ việc Yu IlHan vắt kiệt tinh thần lẫn mana để liên tục thi triển kỹ năng Tuyên Cáo, những cánh rừng với những thân cây to lớn đến mức điên rồ mà Trái Đất không tài nào tưởng tượng nổi đã được hình thành, những giọt nước khổng lồ trôi lơ lửng giữa không trung rồi phân tán từ các vùng nước ra những nơi xa xôi, và vạn vật đều đang hấp thụ mana tự nhiên.
 
 Nhiều nguyên tố cấu thành thế giới trở nên to lớn, biến đổi một cách áp đảo và trở nên mỹ lệ hơn. Chưa một thế giới nào Yu IlHan từng thấy trước đây, có lẽ ngoại trừ Thiên giới, sở hữu một quy mô choáng ngợp đến nhường này!
 
@@ -170,7 +170,7 @@ Hơn nữa, dẫu cho Yu IlHan đã kiểm soát mọi thứ bằng kỹ năng T
 
 Nhờ vào ký lục của Yu IlHan, những hồ kịch độc đã xuất hiện ở một số nơi trên Daréu, trong khi địa ngục rực lửa có thể thấy được ở những khe nứt sâu thẳm, cùng với một cơn bão tử thần tạo thành từ bụi kim loại sinh ra một từ trường đặc biệt xoay tròn, nghiền nát theo đúng nghĩa đen mọi thứ trên đường đi của nó!
 
-"Chà, một tồn tại chuyển chức 4 mà trúng phải đòn đó thì chết chắc trong chớp mắt."
+"Chà, một thực thể chuyển chức 4 mà trúng phải đòn đó thì chết chắc trong chớp mắt."
 
 "Daréu ngày càng giống bố hơn rồi, ngầu thật đấy."
 

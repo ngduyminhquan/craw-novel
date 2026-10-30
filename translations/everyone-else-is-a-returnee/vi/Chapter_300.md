@@ -184,7 +184,7 @@ Thế nhưng, Hồ Sơ Akashic chẳng hề cho anh chút thời gian nào để
 
 [Thế giới dưới sự thống trị của bạn, Elyde, dung hợp với Daréu.]
 
-"Chuyện này nằm ngoài dự liệu của tôi rồi!"
+"Chuyện này nằm ngoài dự liệu của mình rồi!"
 
 "Nhìn kìa, nhìn kìa bố ơi! Oaaa, không gian đang tách ra kìa! Đó là thế giới trước đây chúng ta từng đến đấy!"
 

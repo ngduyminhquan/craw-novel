@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T07:31:38Z",
+  "generatedAt": "2026-10-30T07:44:43Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1786,19 +1786,19 @@
           "number": 300,
           "title": "Chương 300: Tôi Sẽ Đạt Được – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_300.md",
-          "sha": "50bc6de9f2864b36e8a50ee922d114f650cbcc83"
+          "sha": "0131f5642278425b21714f033e2aa46df5e8cfe3"
         },
         {
           "number": 301,
           "title": "Chương 301: Tôi Sẽ Đạt Được – 9",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_301.md",
-          "sha": "466c9d09c92bc523fa8a60f3454844d833fdc374"
+          "sha": "c1f9089a514dadcd60c1f7bff9b5cd9e80b2fada"
         },
         {
           "number": 302,
           "title": "Chương 302: Ta Là Cha Ngươi – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_302.md",
-          "sha": "294b26be5f8876916cd8b3057f763ca16b058eb7"
+          "sha": "0efcdf1ab940920582ed3eaf0c3f362d028fe864"
         }
       ]
     },

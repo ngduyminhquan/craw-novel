@@ -45,6 +45,7 @@
 | Puh | Phụt / Phì | Tiếng bật cười phì, cười phụt ra |
 | Heheh | Hì hì / He he | Tiếng cười khẽ, đắc ý |
 | Boom / Booooom | Ầm / Ầmmmm | Tiếng nổ lớn khi va chạm kỹ năng hoặc ma pháp |
+| Khoo / Khooooooooooooh | Khồ / Khồồồồồồồồồ | Tiếng gầm/thở của rồng con mới nở |
 
 ## Đặc điểm ghi nhận theo chương
 

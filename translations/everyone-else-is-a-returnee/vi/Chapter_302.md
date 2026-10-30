@@ -72,7 +72,7 @@ Thế nhưng, đây gần như là định mệnh an bài ngay khoảnh khắc a
 
 "Ta đã hứa khi lập khế ước với ngươi, nên ta sẽ chịu trách nhiệm với bầy rồng đó."
 
-[Ta xin cảm tạ người.]
+[Ta xin cảm tạ Người.]
 
 Echjar im lặng sau một tiếng thở phào nhẹ nhõm. Ngay cả trong lúc này, những con rồng vẫn không ngừng tụ họp xung quanh Yu IlHan.
 
@@ -182,11 +182,11 @@ Một sự kiện trọng đại như Đại Tai Biến lần thứ 6 sẽ khôn
 
 Một trong những elf thấy Yu IlHan trầm ngâm bèn lên tiếng hỏi. Anh nhún vai đáp.
 
-"Ta đang nghĩ về những việc phải làm ở Daréu sau này. Quá nhiều thứ thay đổi trong chớp mắt. Tộc elf và Lang tộc các cậu cũng chỉ có thể sống sót nếu bản thân mạnh mẽ hơn thôi......"
+"Tôi đang nghĩ về những việc phải làm ở Daréu sau này. Quá nhiều thứ thay đổi trong chớp mắt. Tộc elf và Lang tộc các cậu cũng chỉ có thể sống sót nếu bản thân mạnh mẽ hơn thôi......"
 
 "Chúng thần có thể làm được!"
 
-"Ta thích sự tự tin của các cậu, nhưng mà......"
+"Tôi thích sự tự tin của các cậu, nhưng mà......"
 
 Đôi mắt của Yu IlHan có thể dễ dàng nhìn thấu những con quái vật đang liên tục sinh sôi khắp thế giới này. Các elf và Lang tộc hiện tại gần như không có cửa đối đầu với chúng.
 
@@ -198,7 +198,7 @@ Liệu có phải chỉ riêng loài rồng sinh ra đã mạnh mẽ? Những qu
 
 Các elf nửa tin nửa ngờ. Chà, cũng chẳng có gì lạ vì trước đây mục tiêu duy nhất của họ chỉ là trốn tránh loài rồng. Yu IlHan cười gượng gật đầu.
 
-"Chúng đều đã quy phục ta và không thể làm trái mệnh lệnh, nên điều các cậu lo lắng sẽ không xảy ra nữa đâu. ......Tuy nhiên, sau này có thể các cậu sẽ phải chiến đấu với những kẻ địch đáng sợ và phiền toái hơn đấy."
+"Chúng đều đã quy phục tôi và không thể làm trái mệnh lệnh, nên điều các cậu lo lắng sẽ không xảy ra nữa đâu. ......Tuy nhiên, sau này có thể các cậu sẽ phải chiến đấu với những kẻ địch đáng sợ và phiền toái hơn đấy."
 
 [Khừừừừừừừừừừ!]
 
@@ -222,7 +222,7 @@ Một con trong số chúng đã thâu tóm toàn bộ thịt của Echjar.
 
 Có một đứa đã thu hút sự chú ý của anh ngay từ đầu. Đó là đứa nhỏ kiêu hãnh sở hữu cấp độ 280 ngay từ lúc lọt lòng, lớp vảy của nó mang màu đỏ rực rỡ và nắm giữ sức mạnh hỏa diễm, cũng thuộc phạm vi quyền năng mà Yu IlHan quản lý.
 
-Dĩ nhiên, sau khi con rồng đỏ ăn thịt của Echjar, cấp độ của nó đã vọt lên 294. Những kỹ năng khác của nó chắc hẳn cũng tăng trưởng vượt bậc. Đây là sự ra đời được ban phước nhiều nhất sau một Mystic bẩm sinh đã chuyển chức lần 5.
+Dĩ nhiên, sau khi con rồng đỏ ăn thịt của Echjar, cấp độ của nó đã vọt lên 294. Những kỹ năng khác của nó chắc hẳn cũng tăng trưởng vượt bậc. Đây là sự ra đời được ban phước nhiều nhất kể từ Mystic bẩm sinh đã chuyển chức lần 5.
 
 [Con muốn trở nên mạnh hơn thế này nữa. Con muốn chiến thắng!]
 
