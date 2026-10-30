@@ -14,7 +14,7 @@ Quá mạnh. Không phải hắn không lường trước mức độ phản kh�
 
 [Nếu đối phó với ta mà ngươi đã thấy khó, thì trước mặt con trai ta, ngươi còn chẳng nhấc nổi tay đâu.]
 
-Người đàn ông tuấn tú đứng thẳng người đáp lời không phải ai khác mà chính là Gabriel. Với mái tóc xanh lam ánh lục, ông không hề có cánh. Ông đã khai hoa nở nhụy sức mạnh của Thượng Đế thành thứ của riêng mình, hoàn toàn thoát khỏi kiếp thiên thần bằng cách tự mở ra một cảnh giới hoàn toàn mới.
+Người đàn ông tuấn tú đứng thẳng người đáp lời không phải ai khác mà chính là Gabriel. Với mái tóc xanh lam ánh lục, ông không hề có cánh. Ông đã làm nở rộ sức mạnh của Thượng Đế thành thứ của riêng mình, hoàn toàn thoát khỏi kiếp thiên thần bằng cách tự mở ra một cảnh giới hoàn toàn mới.
 
 [Ngươi tự hào về con trai mình ghê nhỉ. Nhưng ừ, ta biết mà. Hai người giống nhau ở rất nhiều điểm đấy. À phải rồi. Ngươi có biết chính ta đã giúp nó mở mắt đàng hoàng không? Nào, cảm ơn ta đi chứ.]
 
@@ -40,9 +40,9 @@ Những thiên thần biến dị Legna bắt nguồn từ linh hồn nhưng kh�
 
 Họ chỉ chiếm được chút ít ưu thế nhờ việc Gabriel đóng băng cử động và làm chậm thời gian của kẻ địch, chứ trên thực tế họ vẫn đang phải trải qua một trận khổ chiến.
 
-[Sao ngươi lại hợp tác với Thượng Đế lần nữa? Ngươi từng giúp bọn ta khi chúng ta trục xuất ngài ấy mà. Chẳng phải ngươi đang quá tùy hứng sao?]
+[Sao ngươi lại hợp tác với Thượng Đế lần nữa? Ngươi từng giúp bọn ta khi bọn ta trục xuất ngài ấy mà. Chẳng phải ngươi đang quá tùy hứng sao?]
 
-[Gì chứ? Ngươi biết thừa rồi còn gì. Ta luôn thích đứng về phe yếu thế hơn. Trước kia ta giúp các ngươi vì ta cảm thấy chống lại Thượng Đế quá đỗi nguy hiểm, còn giờ ta quyết định giúp ngài ấy vì trông ngài ấy có vẻ đang thất thế. À mà này, ngươi biết không? Lão ấy ru rú trong thế giới của mình chẳng dám nhúc nhích nửa bước. Lão ấy sợ ngươi đấy! Giá mà ngươi nhìn thấy cảnh đó. Buồn cười chết đi được!]
+[Gì chứ? Ngươi biết thừa rồi còn gì. Ta luôn thích đứng về phe yếu thế hơn. Trước kia ta giúp các ngươi vì ta cảm thấy chống lại Thượng Đế quá đỗi nguy hiểm, còn giờ ta quyết định giúp lão ấy vì trông lão ấy có vẻ đang thất thế. À mà này, ngươi biết không? Lão ấy ru rú trong thế giới của mình chẳng dám nhúc nhích nửa bước. Lão ấy sợ ngươi đấy! Giá mà ngươi nhìn thấy cảnh đó. Buồn cười chết đi được!]
 
 Gabriel vốn đã đoán trước được sự tình ngay từ đầu. Suy cho cùng, khi tứ Đại Thiên Thần và Satan trục xuất Thượng Đế rồi tước đoạt quyền năng của ngài, ngài đã tàn tạ đến mức khiến bọn họ phải tự hỏi vì sao đến giờ ngài vẫn chưa chết.
 
@@ -128,7 +128,7 @@ Gabriel đã thấy trước sự ra đời của con trai mình, nhưng lại c
 
 [Cấp độ của bạn đã tăng lên.]
 
-Một Archlegna bị vặn xoắn rồi biến mất tăm. Tận mắt chứng kiến cảnh đó, Kim YeSeul cảm thấy hơi cường điệu và có phần phi thực tế, nhưng bà vẫn nở nụ cười rạng rỡ. Một lượng điểm kinh nghiệm khổng lồ tràn vào cơ thể, thậm chí bà còn hồi phục trọn vẹn mana nhờ thăng cấp và đã có thể chuẩn bị cho đợt ma pháp tiếp theo.
+Một tên Archlegna bị vặn xoắn rồi biến mất tăm. Tận mắt chứng kiến cảnh đó, Kim YeSeul cảm thấy hơi cường điệu và có phần phi thực tế, nhưng bà vẫn nở nụ cười rạng rỡ. Một lượng điểm kinh nghiệm khổng lồ tràn vào cơ thể, thậm chí bà còn hồi phục trọn vẹn mana nhờ thăng cấp và đã có thể chuẩn bị cho đợt ma pháp tiếp theo.
 
 Khu Vườn Hoàng Hôn cùng Quân Đội Ánh Sáng Rực Rỡ cùng nhau lao về phía vực sâu của sự hủy diệt.
 

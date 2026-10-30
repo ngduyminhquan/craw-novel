@@ -150,7 +150,7 @@ Cùng với những lời trăn trối khiến người nghe phải rợn tóc g
 
 Khung cảnh thê thảm và rùng rợn đến mức mọi người đều rơi vào im lặng trong thoáng chốc.
 
-[Lũ mầm mống... chết tiệt......!]
+[Lũ nghiệt chủng... chết tiệt......!]
 
 Rốt cuộc, Michael nhổ ra ngụm nước bọt có lẫn độc tố rồi ngẩng đầu lên. Hiện rõ trong đôi mắt hoàng kim của hắn không gì khác ngoài ác ý và cơn thịnh nộ.
 

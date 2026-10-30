@@ -78,7 +78,7 @@ Dù sau Đại Tai Biến lần thứ 7, Yu IlHan đã tiêu hao toàn bộ lư�
 
 Mọi biến chuyển đều đang diễn ra đồng thời, nên việc anh miễn cưỡng khống chế được bất cứ thứ gì đã là một kỳ tích! Anh đi đến kết luận rằng với tốc độ này, bản thân sẽ đi tong trước khi quá trình dung hợp kịp hoàn tất. Vì thế, anh nghiến răng và quay đầu lại.
 
-Đập vào mắt anh là nàng Ma Pháp Sư Không Gian thiên tài tiền vô cổ nhân hậu vô thập toàn, Kang MiRae.
+Đập vào mắt anh là nàng Ma Pháp Sư Không Gian thiên tài vô tiền khoáng hậu, Kang MiRae.
 
 "Cô MiRae, cô có thể mở thêm bao nhiêu cánh cổng cùng một lúc nữa?"
 
@@ -190,7 +190,7 @@ Cả thế giới nhuốm một màu trắng xóa, và tất cả mọi người
 
 Ký lục trở nên hỗn loạn, các thế giới rung chuyển, và mana bị tiêu hao sạch trơn. Thứ từng tồn tại thì tiêu vong, thứ chưa từng tồn tại lại được sinh ra; những gì từng được ghi chép đều bị xóa bỏ, trong khi các ký lục mới lại được tạo thành.
 
-[Khácccccccccccccccccccccccccccccccccccccccccccccccccc!]
+[Khààààààààààààààààààààààààààààààààààààààààààààààààààk!]
 
 Những tiếng thét kinh hoàng vang vọng khắp mọi thế giới. Lắng nghe những tiếng la hét nghe như thể đang nguyền rủa toàn bộ sinh linh, Yu IlHan chợt nhận ra dường như đây là một giọng nói mà anh từng nghe thấy trước đây.
 
@@ -208,7 +208,7 @@ Những tiếng thét kinh hoàng vang vọng khắp mọi thế giới. Lắng 
 
 [Chúng ta mạo muội gọi tên Người.]
 
-[[Giờ đây Người chính là vị Thần mới.]]
+[[Giờ đây Người chính là Thượng Đế mới.]]
 
 "......Cái gì cơ?"
 
