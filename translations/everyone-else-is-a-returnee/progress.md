@@ -277,7 +277,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | reviewed |  |
 | 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | reviewed |  |
 | 272 |  | Chapter_272 - If You Wish To Follow Me – 7.txt | If You Wish To Follow Me – 7 | reviewed |  |
-| 273 |  | Chapter_273 - If You Wish To Follow Me – 8.txt | If You Wish To Follow Me – 8 | todo |  |
+| 273 |  | Chapter_273 - If You Wish To Follow Me – 8.txt | If You Wish To Follow Me – 8 | done |  |
 | 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | todo |  |
 | 275 |  | Chapter_275 - Why Only Me_ – 2.txt | Why Only Me_ – 2 | todo |  |
 | 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -966,3 +967,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#270] Cách dịch danh xưng "Lady Han YeoRang" ở đoạn 89 do người dân/binh sĩ Guundia gọi — Tạm dùng: "ngài Han YeoRang" (thể hiện sự tôn kính của người dân đối với người bảo hộ pháo đài). Phương án khác: "Đại tá Han YeoRang" hoặc "tiểu thư Han YeoRang". → Chốt dịch là "ngài Han YeoRang" (tương ứng kính ngữ "-nim" khi người dân Guundia gọi vị chỉ huy bảo hộ mình) (orchestrator)
 - [#271] Raw lược bỏ chữ 'Chilly' trong 'Blizzard Tyrant's Mixed bone fullplate armour' — Tạm chọn: giữ tên đầy đủ đã chốt là 'Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh' (đã thêm vào Alias trong glossary.md). Phương án khác: dịch rút gọn là 'Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết'. → Giữ tên chuẩn đầy đủ "Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh" và gộp biến thể vào Alias trong glossary.md (orchestrator)
 - [#272] Dịch tên golem hồ nước 'Will of the Guardian' thành 'Ý Chí Hộ Vệ' — Tạm chọn: 'Ý Chí Hộ Vệ' (thống nhất với Ý Chí Hỗn Loạn và Guardian trong context). Phương án khác: 'Ý Chí Bảo Hộ', 'Ý Chí Thủ Hộ'. → Chốt dịch là "Ý Chí Hộ Vệ" (đồng bộ với Ý Chí Hỗn Loạn và thuật ngữ Hộ Vệ cho Guardian) (orchestrator)
+- [#273] Lời thoại nói chậm của Michael Smithson ("Wwwwwwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeee." và "Miiiiiiiiiiiiiiiiissssssssssssssstteeeeeeeeerrrrrrrrrr."): tạm dịch nghĩa kéo dài âm tiếng Việt thành "Chuuuuuuuuuuuuuuuúnnnnnnnnnnnnnngggggggggg." (Chúng...) và "Nnnnnnnnnnnngggggggggggààààààààààààààiiiiiiiiiiiiii." (Ngài...); đề xuất giữ nguyên như bản dịch hoặc chuyển sang giữ nguyên âm tiếng Anh nếu muốn nhấn mạnh ngữ điệu nguyên bản. → Giữ nguyên cách dịch kéo dài âm tiếng Việt ("Chuuuuuuuuuuuuuuuúnnnnnnnnnnnnnngggggggggg." và "Nnnnnnnnnnnngggggggggggààààààààààààààiiiiiiiiiiiiii.") để đúng nghĩa và không để sót từ tiếng Anh (orchestrator)

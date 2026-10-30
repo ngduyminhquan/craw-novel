@@ -756,3 +756,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Heart of Fire | Heat of Fire | Hỏa Tâm | vật phẩm | 267 | Tạo tác ma thạch của phượng hoàng chuyển chức 7 hấp thụ mana thế giới bậc cao vô số năm, chỉ người nhận Chúc Phúc Của Nữ Thần Lửa mới dùng được; phần thưởng thứ hai Yu IlHan nhận từ ngân khố Quân Đội Thiên Giới |
 | Supremes | Supreme being; Supreme | Thực thể tối cao | cấp bậc | 267 | Chỉ các lãnh tụ tối cao của 4 thế lực thực thể cấp cao lớn |
 | Midora |  | Midora | địa danh | 268 | Thế giới nơi Thiếu tướng Yun DaeHan cùng 39 cấp dưới chuyển sinh tới |
+| Gyeonggi-do | Gyeongi-do; Gyeonggi | Gyeonggi-do | địa danh | 273 | Tỉnh Gyeonggi bao quanh thủ đô Seoul, Hàn Quốc |

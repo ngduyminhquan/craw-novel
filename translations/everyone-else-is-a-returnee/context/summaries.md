@@ -1676,3 +1676,10 @@ Kim YeSeul cùng Erta và Helièna hoàn thành bản thiết kế ma pháp tr�
 Kim YeSeul dốc toàn lực rót mana vào lòng hồ; Ý Chí Hộ Vệ hấp thụ mana, biến đổi và len lỏi vào lòng đất tỏa đi khắp toàn cầu, tuyên thệ sẽ bảo vệ Trái Đất.
 Cảnh kết thúc: Nhân quả định sẵn trên Trái Đất thành công bị trì hoãn trong một khoảng thời gian dài.
 
+## 273
+Ý Chí Hộ Vệ chìm xuống 10km dưới lòng đất rồi hấp thụ nước trên khắp Trái Đất, khuếch đại ma pháp trận mở rộng từ Hàn Quốc sang Nhật Bản, Trung Quốc và bao trùm toàn cầu.
+Yu IlHan kích hoạt mặt dây chuyền điều khiển từ xa chế tác từ sọ Teraka, chỉ huy hàng triệu cột xương rồng rải khắp hành tinh đồng loạt hút mana Trái Đất tống khứ sang Daréu, phối hợp hoàn hảo cùng Ý Chí Hộ Vệ kích hoạt thành công ma pháp làm chậm thời gian trên phạm vi toàn Trái Đất.
+Trong khi người bình thường và thực thể chuyển chức 3 như Michael Smithson bị chậm lại mà không hề hay biết, Yu IlHan cùng nhóm đồng đội cấp cao phải gồng mình kháng cự ma pháp, biến môi trường Trái Đất thành bãi luyện tập đặc biệt.
+Mystic điều khiển Pháo Đài Bay đưa Liên Minh Tiền Tuyến trở về; các thành viên cốt cán (Yumir, Kang MiRae, Na YuNa, Liera) kháng ma pháp thành công và hội ngộ cùng IlHan.
+Cảnh kết thúc: Yu IlHan kiểm tra Đồng Hồ Cát Vĩnh Hằng và phát hiện những hạt cát rơi chậm hơn bình thường rất nhiều do tác động của ma pháp làm chậm, hứa hẹn mở ra một mối lợi khổng lồ khi kích hoạt lại kết giới.
+
