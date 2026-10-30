@@ -782,7 +782,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Feira |  | Feira | địa danh | 289 | Thế giới bậc cao thuộc quyền quản lý của Quân Đội Thiên Giới sắp trải qua Đại Tai Biến lần 7 |
 | Great Lord of Black Wings |  | Đại Chúa Tể Đôi Cánh Đen | danh hiệu | 289 | Danh xưng tôn sùng các thiên thần sa ngã dùng để gọi Chúa Tể Satan |
 | Raphael of Healing |  | Raphael Trị Liệu | danh hiệu | 289 | Danh xưng của Raphael, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
-| four Great Archangels | Great Archangels | tứ Đại Thiên Thần | cấp bậc | 288 | Bốn vị đại thiên thần quyền lực tối cao lãnh đạo Quân Đội Thiên Giới |
+| four Great Archangels | Great Archangels; Four Great Angels | tứ Đại Thiên Thần | cấp bậc | 288 | Bốn vị đại thiên thần quyền lực tối cao lãnh đạo Quân Đội Thiên Giới |
 | The Great One | Great One | Đấng Vĩ Đại | danh hiệu | 293 | Danh xưng tôn sùng các thiên thần sa ngã dùng để gọi Chúa Tể Satan |
 | Woodworker |  | Thợ Mộc | chức nghiệp | 296 | Chức nghiệp phụ liên quan đến chế tác đồ gỗ |
 | Musician |  | Nhạc Công | chức nghiệp | 296 | Chức nghiệp phụ liên quan đến âm nhạc |
@@ -831,3 +831,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Halfling |  | Bán Thể | khác | 335 | Thực thể mới hoàn thành một nửa trên con đường trở thành Kẻ Sáng Tạo |
 | 63 Building |  | Tòa nhà 63 | địa danh | 339 | Tòa nhà 63 tầng (63 Square) nổi tiếng tại Seoul, Hàn Quốc |
 | God of Earth |  | Thượng Đế của Trái Đất | khác | 339 | Vị thế Đấng sáng tạo và cai quản thế giới Trái Đất mới của Yu IlHan |
+| Blade of the Avenger |  | Lưỡi Kiếm Kẻ Báo Thù | vật phẩm | 340 | Tạo tác thần thương màu trắng tinh khiết Yu IlHan chế tạo từ thi thể Raphael, dung hợp tàn niệm Spiera và vô số tàn niệm quái vật |

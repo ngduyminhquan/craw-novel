@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T14:24:19Z",
+  "generatedAt": "2026-10-30T14:41:17Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2021,6 +2021,12 @@
           "title": "Chương 339: Harmageddon – 13",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_339.md",
           "sha": "fbf45b39920fd8fe21c6b9f05fcac6de708284c9"
+        },
+        {
+          "number": 340,
+          "title": "Chương 340: Harmageddon – 14",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_340.md",
+          "sha": "6b5bc6f275e0161f91dbe024de60a12079cacd9d"
         }
       ]
     },

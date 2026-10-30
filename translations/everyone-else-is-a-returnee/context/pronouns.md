@@ -550,3 +550,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Will of the Guardian | ta | ngươi | 338 | Yu IlHan ban tên mới Trái Đất cho Ý Chí Hộ Vệ |
 | Will of the Guardian | Yu IlHan | ta | ngươi | 338 | Ý Chí Hộ Vệ đối đáp và đồng thuận với Yu IlHan |
 | Kim YeSeul | Kang MiRae | mẹ / bác | con / MiRae | 339 | Kim YeSeul đối thoại thân mật xem Kang MiRae như người nhà |
+| Spiera | Raphael | ta | Raphael / ngươi | 340 | Spiera đối thoại và nuốt chửng tàn niệm Raphael |
+| Raphael | Spiera | ta | ngươi | 340 | Raphael chất vấn và gầm thét trong tuyệt vọng |

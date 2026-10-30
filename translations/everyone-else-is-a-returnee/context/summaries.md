@@ -2075,3 +2075,9 @@ Sau câu chuyện xúc động, Yu IlHan dùng Tuyên Cáo phóng chiếu hình 
 Kang MiRae đau lòng nhận ra bấy lâu nay cô chỉ mải tìm kiếm hình bóng bản thân nơi IlHan thay vì thấu tỏ con người anh, trong khi Na YuNa khóc nức nở một mình trong phòng riêng vì xót xa cho anh nhưng vẫn canh cánh nỗi lo nhan sắc; Yu IlHan vô tình chứng kiến tất cả nên xấu hổ khôn cùng.
 Cảnh kết thúc: Sau khi lăn lộn lấy thân mình làm cây lau nhà để xua đi sự ngượng ngùng tột độ và lau sạch bóng sàn xưởng chế tác, Yu IlHan hào hứng bắt tay vào xử lý thi thể của Archlegna và Raphael.
 
+## 340
+Yu IlHan tiến hành giải phẫu thi thể của Raphael và nhận ra Michael đã phản bội cướp đoạt toàn bộ sức mạnh trị liệu của Raphael trước khi đẩy hắn ra thế mạng dưới chiêu Siêu Việt Quỹ Đạo.
+Yu IlHan đánh thức tàn niệm Spiera sâu trong tâm thức của mình, bộc bạch sự thấu hiểu và gắn kết, rồi chiêu đãi cô bữa tiệc tàn niệm quái vật cùng tàn niệm của Raphael để giúp cô khôi phục và đột phá sức mạnh sánh ngang chuyển chức lần 7.
+Yu IlHan vận dụng kỹ năng Sáng Tạo đúc thành công tạo tác thần thương màu trắng tinh khiết mang tên Lưỡi Kiếm Kẻ Báo Thù làm nơi cư ngụ cho Spiera, chuẩn bị vũ khí phục thù nhắm vào Michael và Thượng Đế.
+Cảnh kết thúc: Sau khi khẳng định chắc nịch sẽ chiến thắng bất kỳ kẻ thù nào, Yu IlHan tiếp tục kích hoạt Sáng Tạo thiêu đốt nguyên liệu chế tạo trang bị bảo hộ cho mọi người trong suốt một năm trôi qua.
+
