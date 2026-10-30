@@ -281,7 +281,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | reviewed |  |
 | 275 |  | Chapter_275 - Why Only Me_ – 2.txt | Why Only Me_ – 2 | reviewed |  |
 | 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | done |  |
-| 277 |  | Chapter_277 - Why Only Me_ – 4.txt | Why Only Me_ – 4 | todo |  |
+| 277 |  | Chapter_277 - Why Only Me_ – 4.txt | Why Only Me_ – 4 | done |  |
 | 278 |  | Chapter_278 - Why Only Me_ – 5.txt | Why Only Me_ – 5 | todo |  |
 | 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | todo |  |
 | 280 |  | Chapter_280 - Why Only Me_ – 7.txt | Why Only Me_ – 7 | todo |  |
@@ -367,11 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
-
-
-
 
 
 ## Đã quyết
@@ -975,3 +970,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#274] Lời thoại nói chậm của người từ thế giới khác ở đoạn 109 ("Weeeeeeeeeee shhhhhhaaaaaaaaaaaaaaallllllll llllllllllllooooooooooooooooyaaaaaaaaaaaaalllllllll-") do ảnh hưởng ma pháp trận làm chậm — Tạm dịch kéo dài âm tiếng Việt thành `"Chuuuuuuuuuuuunnnnnnnnnnnnngggggggggggg ttttttttttôôôôôôôôôôiiiiiiiiii trrrrrrrrrrrrrunnnnnnnnnnnnnngggggggggg-"` (Chúng tôi trung...) theo tiền lệ #273 để trọn nghĩa tiếng Việt. Phương án khác: giữ nguyên dạng chữ kéo dài tiếng Anh hoặc dịch thành `"Chuuuuuuuuuuuunnnnnnnnnnnnngggggggggggg sssssssssssseeeeeeeeeeeeeee trrrrrrrrrrrrrunnnnnnnnnnnnnngggggggggg-"`. → Giữ nguyên cách dịch kéo dài âm tiếng Việt theo tiền lệ chương #273 để trọn nghĩa và không sót từ tiếng Anh (orchestrator)
 - [#275] Xưng hô giữa Michael Smithson và Carina Malatesta sau màn cưỡng hôn và yêu cầu gọi thẳng tên: tạm dùng 'tôi - anh / Michael' và 'tôi - Carina' (vừa bộc lộ tình cảm vừa giữ phong thái quý tộc/thủ lĩnh clan). Phương án khác: đổi sang 'em - anh'. → Chốt giữ nguyên "tôi - anh / Michael" và "tôi - Carina / cô" (phù hợp phong thái hai thủ lĩnh phương Tây chuyển sang gọi thẳng tên nhau) (orchestrator)
 - [#276] Lời thoại chơi chữ 1004 (thiên thần) của Mystic '[Why four? Is it because 1,004 (Angel)?]' — Tạm dịch: '[Sao lại là bốn cái? Vì số một nghìn không trăm lẻ bốn phát âm giống "thiên thần" à?]'. Đề xuất giữ nguyên cách diễn đạt này để người đọc hiểu ngữ cảnh tự nhiên mà không cần chú thích. → Giữ nguyên cách dịch giải nghĩa tự nhiên trong câu thoại ('[Sao lại là bốn cái? Vì số một nghìn không trăm lẻ bốn phát âm giống "thiên thần" à?]') để không cần dùng ngoặc chú thích theo rules.md (orchestrator)
+- [#277] Danh hiệu mới 'Surpasser' sau khi chế tạo trang bị phẩm cấp Vĩnh Cửu — Tạm chọn: 'Kẻ Vượt Trội' (phương án khác: 'Kẻ Vượt Giới Hạn' / 'Kẻ Siêu Vượt'; tránh 'Kẻ Siêu Việt' vì đã dùng cho 'Transcenders' ở #87). → Chốt dịch là "Kẻ Vượt Trội" (phân biệt với "Kẻ Siêu Việt" của Transcenders ở chương 87) (orchestrator)
+- [#277] Tên Pháo Đài Bay khi lên phẩm cấp Vĩnh Cửu 'Annihilator's Flying Fortress' — Tạm chọn: 'Pháo Đài Bay Kẻ Tận Diệt' (phương án khác: 'Pháo Đài Bay Kẻ Tuyệt Diệt'; nâng cấp từ 'Pháo Đài Bay Kẻ Hủy Diệt'). → Chốt dịch là "Pháo Đài Bay Kẻ Tận Diệt" (tương ứng cấp nâng cấp từ "Pháo Đài Bay Kẻ Hủy Diệt") (orchestrator)

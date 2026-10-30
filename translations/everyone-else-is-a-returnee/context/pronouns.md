@@ -417,3 +417,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Takagaki Asuha | Yu IlHan | tôi | ngài Susanoo / ngài | 275 | Asuha tôn sùng IlHan như hóa thân thần Susanoo sau khi chứng kiến năng lực thao túng thời không |
 | Carina Malatesta | Michael Smithson | tôi | anh / Michael | 275 | Carina chủ động tấn công ép Michael gọi tên và xưng hô thân mật |
 | Michael Smithson | Carina Malatesta | tôi | Carina | 275 | Michael khuất phục và đồng ý gọi thẳng tên Carina |
+| Liera | Helièna | tôi | cô | 277 | Liera tuyên bố chủ quyền Yu IlHan trước sự ve vãn của Helièna |

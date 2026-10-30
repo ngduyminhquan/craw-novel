@@ -762,3 +762,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hourglass |  | Đồng Hồ Cát | vật phẩm | 275 | Tên gọi tắt của Đồng Hồ Cát Vĩnh Hằng |
 | Vibration Demon | vibration demon | Ác Ma Rung | quái vật | 275 | Quái vật ác ma có cơ thể rung chấn liên tục |
 | Thousand Eyes |  | Thiên Nhãn | vật phẩm | 276 | Bản nâng cấp của Bách Nhãn trên Pháo Đài Bay gồm 1.004 chiếc Gương Hủy Diệt, phẩm cấp Bán Thần |
+| Annihilator's Flying Fortress | Annihilator's Flying fortress | Pháo Đài Bay Kẻ Tận Diệt | vật phẩm | 277 | Pháo Đài Bay được Yu IlHan nâng cấp lên phẩm cấp Vĩnh Cửu nhờ lớp giáp kim loại của Kelatuke |
+| Surpasser |  | Kẻ Vượt Trội | danh hiệu | 277 | Danh hiệu Yu IlHan nhận được sau khi chế tạo thành công tạo tác phẩm cấp Vĩnh Cửu |

@@ -1702,3 +1702,10 @@ IlHan chế tác thêm 904 chiếc Gương Hủy Diệt nâng cấp Bách Nhãn 
 Anh tẩm độc kết hợp nấu nướng ma pháp lên toàn bộ vũ khí bẫy rập, dùng xác khô cùng ma thạch chuyển chức 5 gia cố pháo đài nhưng vẫn chưa thể vượt qua phẩm cấp Thần.
 Cảnh kết thúc: Quyết tâm làm điều bất khả thi để đột phá giới hạn cho Pháo Đài Bay, Yu IlHan lôi xác khổng lồ của Kelatuke — Đại Thủ Môn Nhân chuyển chức 7 của Khu Vườn Hoàng Hôn — ra làm nguyên liệu khiến Mystic chết lặng.
 
+## 277
+Yu IlHan dùng Bát Vĩ Long Thương kết hợp các loại hỏa diễm (Liệt Hỏa, Long Huyết, lửa Orochi, Ngọn Lửa Vĩnh Cửu) giải phẫu xác cá mập khổng lồ Kelatuke; anh trổ tài nấu nướng biến thịt và vi cá thành súp vi cá, sushi và sashimi đãi cả nhóm cùng 8.000 đứa trẻ Quân Đoàn Rồng.
+Anh dùng lớp giáp kim loại của Kelatuke cùng ma thạch chuyển chức 5 gia cố kết giới Pháo Đài Bay thành cơ chế mũi khoan xoay tròn, nâng cấp thành công lên phẩm cấp Vĩnh Cửu với tên gọi mới 'Pháo Đài Bay Kẻ Tận Diệt' và nhận danh hiệu 'Kẻ Vượt Trội'.
+Mọi người kinh ngạc trước tạo tác vượt trên phẩm cấp Thần; Mystic bứt rứt khó chịu vì pháo đài còn thiếu một mảnh ghép cuối cùng; Liera lập tức chen vào tuyên bố chủ quyền Yu IlHan trước sự ve vãn của Helièna.
+Cảnh kết thúc: Gom toàn bộ xương của Kelatuke, xương và Trái Tim Rồng của Echjar cùng Hỏa Tâm, Yu IlHan cởi bỏ trang bị, lôi đe búa ra chuẩn bị rèn bộ giáp lý tưởng phẩm cấp Vĩnh Cửu.
+
+
