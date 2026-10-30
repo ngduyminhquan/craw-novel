@@ -1756,3 +1756,10 @@ Melohinne bàng hoàng nhận tin thế giới bí mật Tebeta của Quân Đ�
 Cả 4 đại phe phái chấn động nhận ra một thực thể cấp thấp như Yu IlHan đang liên tục cướp các thế giới bậc cao để làm suy yếu đồng loạt tất cả các phe phái lớn cùng một lúc.
 Tại thế giới bậc cao thứ hai của Quân Đội Thiên Giới, Liera và Erta kiên quyết đứng về phía Yu IlHan và đối đầu với sự phủ nhận ngạo mạn của Đại thiên thần chuyển chức 7 Lemiel; Yu IlHan quyết định trực tiếp giao chiến với Lemiel để thu thập thêm ký lục về Thiên giới.
 Cảnh kết thúc: Yu IlHan cưỡi rồng Yumir, kích hoạt Hỏa Hồn Long Thân và ngưng tụ ngọn hỏa thương rồng, chính thức mở màn trận chiến kinh thiên động địa với Đại thiên thần Lemiel.
+
+
+## 286
+Lemiel dốc toàn lực phóng tia lôi điện khổng lồ tấn công Yu IlHan và Pháo Đài Bay nhưng bị kết giới bọc giáp Kelatuke chặn đứng và hấp thụ mana; IlHan cùng Yumir biến mất rồi dùng Bất Khả Họa Quỹ Đạo Thương kết hợp giác ngộ ma pháp làm chậm thời gian phản kích khiến Phản Kích của Lemiel thất bại.
+Đòn đánh chém đứt lìa cánh tay trái cùng các cánh của Lemiel, giúp IlHan nâng Bất Khả Họa Quỹ Đạo Thương lên cấp 99, hoàn thành điều kiện thứ hai để học kỹ năng Phản Kích, đồng thời nâng Đại Đoạn Vũ Trụ Thương lên cấp 89 bằng ngọn hỏa thương rồng chém rách cổ đối thủ.
+Yu IlHan và Yumir cộng hưởng sâu sắc thông qua Hỏa Hồn Long Thân, hòa quyện hỏa và phong thành quả cầu lửa khổng lồ, điên cuồng hút sạch mana của thế giới bậc cao và vô hiệu hóa lôi điện của Lemiel; IlHan vạch trần Lemiel mang dòng máu trắng xám chuẩn bị đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ trước sự bàng hoàng của Liera và Erta.
+Cảnh kết thúc: Lemiel điên cuồng giáng mưa lôi điện nhuộm xanh trời đất chối bỏ thân phận phản bội, trong khi Yu IlHan và Yumir khuếch đại đôi cánh rồng lửa sẵn sàng thi triển kỹ thuật Phản Kích vừa học được, biến những tia sét của thế giới chuyển dần sang màu đỏ rực.

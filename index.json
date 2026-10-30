@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T05:03:35Z",
+  "generatedAt": "2026-10-30T05:10:31Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1715,13 +1715,26 @@
           "title": "Chương 285: Tôi Sẽ Chuẩn Bị – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_285.md",
           "sha": "52ef3ecda6b0582082aa3f6ab98b720163665b43"
+        },
+        {
+          "number": 286,
+          "title": "Chương 286: Tôi Sẽ Chuẩn Bị – 5",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_286.md",
+          "sha": "8da0dcca0fb3aa8ecdcba7821de9be4491b80a6f"
         }
       ]
     },
     {
       "slug": "the-unwanted-undead-adventurer",
       "title": "The Unwanted Undead Adventurer",
-      "chapters": []
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chương 1: Mở đầu Tập 1",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_001.md",
+          "sha": "9fcfee86a27985fde582b5adb22edaefb7f4f7e6"
+        }
+      ]
     },
     {
       "slug": "tieng-goi-noi-hoang-da",

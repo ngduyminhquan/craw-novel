@@ -290,7 +290,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | reviewed |  |
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | reviewed |  |
 | 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | done |  |
-| 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | todo |  |
+| 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | done |  |
 | 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | todo |  |
 | 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | todo |  |
 | 289 |  | Chapter_289 - I Will Prepare – 8.txt | I Will Prepare – 8 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -988,3 +989,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#284] Đoạn 102 thông báo hệ thống ghi 'Kỹ năng Chúa Tể Thứ Nguyên đã đạt cấp độ 64' trong khi bảng chỉ số chương 283 ghi 'Lv 69': lỗi không nhất quán chỉ số trong raw EN → Giữ nguyên "cấp độ 64" bám sát raw theo nguyên tắc 3 (orchestrator)
 - [#285] Sentry (chức vụ của Felaère) — Tạm chọn: 'Lính Canh'. Phương án khác: 'Thủ Hộ Giả', 'Vệ Binh'. Tạm dùng trong bản dịch: 'Lính Canh'. → Chốt 'Lính Canh' — dịch nghĩa tự nhiên, sát với chức năng canh gác cổng/thế giới bậc cao trong raw. (orchestrator)
 - [#285] Ice Giantess (chủng tộc của Melohinne) — Tạm chọn: 'Nữ Khổng Lồ Băng'. Phương án khác: 'Băng Nữ Khổng Lồ', 'Nữ Cự Nhân Băng'. Tạm dùng trong bản dịch: 'Nữ Khổng Lồ Băng'. → Chốt 'Nữ Khổng Lồ Băng' — nhất quán với cách dịch dòng tộc Giant (Khổng Lồ) trong glossary. (orchestrator)
+- [#286] Lời thoại thốt lên '[You girlllllls!]' của Lemiel khi bị Erta và Liera châm chọc — Tạm dùng: '[Lũ ranh con các ngươiii!]' (thể hiện sự phẫn nộ của đại thiên thần chuyển chức 7 trước hai cựu thiên thần cấp dưới). Phương án khác: '[Mấy con ranh nàyyy!]' hoặc '[Lũ ranh các cô!]'. → Chốt '[Lũ ranh con các ngươiii!]' — khớp đại từ 'các ngươi' của Lemiel với Liera/Erta và thể hiện đúng cơn thịnh nộ. (orchestrator)

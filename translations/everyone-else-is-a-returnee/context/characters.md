@@ -839,3 +839,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới bị Yu IlHan đột kích.
 - Ngoại hình / Đặc điểm: Toàn thân phát ra lôi điện kinh hoàng; tôn sùng duy nhất Thượng Đế và căm ghét dị giáo, phủ nhận sự tồn tại của Kẻ Thứ Năm; bị Helièna gọi là kẻ đầu óc cơ bắp (musclehead).
 - Xuất hiện tính đến chương 285: Phẫn nộ vì Liera và Erta đứng về phía Kẻ Thứ Năm Yu IlHan; vận chuyển lôi điện toàn bộ thế giới để giao chiến sinh tử với Yu IlHan cưỡi Yumir.
+
+- Xuất hiện tính đến chương 286: Bị Yu IlHan dùng Bất Khả Họa Quỹ Đạo Thương chém đứt cánh tay trái và các cánh, phá vỡ kỹ năng Phản Kích; bị IlHan liếm máu vạch trần thân phận là kẻ phản bội ngầm chuẩn bị đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ; trong cơn hoảng loạn đã giải phóng mưa lôi điện toàn diện để ngăn Yu IlHan cướp mana thế giới.
