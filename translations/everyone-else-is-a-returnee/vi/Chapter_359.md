@@ -106,7 +106,7 @@ Anh cảm thấy như cô nàng đang vô cớ coi thường mình, nhưng ngay 
 
 ‘Có lẽ nào mình lại thấy thượng đẳng hơn chính bản thân thường ngày chỉ vì đang đi ăn tối cùng một thiên thần chăng?’
 
-Thậm chí một suy ngẫm chín chắn như thế cũng thoáng qua tâm trí anh. Anh từng có thôi thúc muốn bật dậy khỏi chỗ ngồi và giải thích mọi chuyện xảy ra ngày hôm nay cho Cô Nàng Lạnh Lùng để tránh bị hiểu lầm.
+Thậm chí một suy ngẫm chín chắn như thế cũng thoáng qua tâm trí anh. Anh bỗng thấy thôi thúc muốn bật dậy khỏi chỗ ngồi và giải thích mọi chuyện xảy ra ngày hôm nay cho Cô Nàng Lạnh Lùng để tránh bị hiểu lầm.
 
 ‘Nhưng làm thế trông mình sẽ chẳng khác nào một gã dở hơi, nên thôi đi.’
 
@@ -202,7 +202,7 @@ Có ai đó gọi anh. Trớ trêu thay, đó lại chính là Min Ha-Yul, nữ 
 
 "Cậu lại tự ý tách đoàn trốn đi một mình nữa rồi đúng không?" Ha-Yul hỏi.
 
-"Đừng có làm việc riêng lẻ như thế chứ," cô nói thêm.
+"Đừng có hành động riêng lẻ như thế chứ," cô nói thêm.
 
 "Tôi vẫn ở đây mà," IlHan khăng khăng.
 
@@ -268,7 +268,7 @@ IlHan chỉ nói là điều đương nhiên vì nó thực sự quá hiển nhi
 
 May thay, IlHan ném lon rỗng vào thùng rác trúng phóc như ghi bàn. Sau đó, anh bước ra khỏi khách sạn.
 
-"Ta còn mong cậu nói chuyện với bạn mình nhiều hơn cơ đấy."
+"Ta còn mong cậu nói chuyện với bạn của cậu nhiều hơn cơ đấy."
 
 Nữ thiên thần đang đứng đợi anh.
 

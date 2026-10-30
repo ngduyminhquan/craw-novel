@@ -861,6 +861,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Irregular Crisis | irregular crisis | Khủng Hoảng Dị Thường | khác | 357 | Cuộc khủng hoảng dị thường mà thiên thần của Thượng Đế thông báo cho Yu IlHan |
 | Longinus Spear |  | Thương Longinus | vật phẩm | 358 | Ngọn thương thần bí nữ thiên thần trao cho Yu IlHan để tiêu diệt các sinh vật dị thường |
 | Chui Tofu |  | Đậu Phụ Thối | khác | 359 | Biệt danh của nam sinh Chu Do-Bin do phát âm gần giống 취두부 (chwidubu) |
-| Miss Blind |  | Cô Nàng Mù | khác | 357 | Biệt danh Yu IlHan đặt cho Na YuNa vì cô không nhận thấy sự hiện diện của anh |
-| Miss Cool |  | Cô Nàng Lạnh Lùng | khác | 359 | Biệt danh Yu IlHan đặt cho Kang MiRae trong chuyến đi Jeju thời cấp ba |
+| Miss Blind | Ms. Blind | Cô Nàng Mù | khác | 357 | Biệt danh Yu IlHan đặt cho Na YuNa vì cô không nhận thấy sự hiện diện của anh |
+| Miss Cool | Ms. Cool | Cô Nàng Lạnh Lùng | khác | 357 | Biệt danh Yu IlHan đặt cho Kang MiRae trong chuyến đi Jeju thời cấp ba |
 | Jeju black pork | black pork belly; black pork | thịt lợn đen Jeju | khác | 359 | Đặc sản thịt lợn đen nổi tiếng của đảo Jeju |

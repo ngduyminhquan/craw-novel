@@ -100,7 +100,7 @@ Ngay khi những lời ấy vừa thốt ra khỏi miệng, nỗi buồn bã l�
 
 Tại sao anh cứ phải đẩy người khác ra xa chứ? Cô gái này chỉ đang có ý tốt thôi mà. Anh cảm thấy lạc lõng và cô đơn, nhưng nỗi cô đơn ấy lại chính do anh tự chuốc lấy.
 
-Tựa như sao Diêm Vương, anh quá đỗi nhỏ bé mờ nhạt, và điều đó khiến anh bị xem là kém cỏi hạ đẳng. Tủi hổ vì sự tồn tại của chính mình, IlHan nhanh chóng thanh toán tiền rồi rời khỏi quán ăn, cẩn thận không để đám vệ sĩ chú ý.
+Tựa như sao Diêm Vương, anh quá đỗi nhỏ bé mờ nhạt, và điều đó khiến anh bị xem là thấp kém hơn người khác. Tủi hổ vì sự tồn tại của chính mình, IlHan nhanh chóng thanh toán tiền rồi rời khỏi quán ăn, cẩn thận không để đám vệ sĩ chú ý.
 
 Bên trong quán, Na YuNa vẫn dán chặt mắt nhìn theo cánh cửa sau khi Yu IlHan đã rời đi.
 

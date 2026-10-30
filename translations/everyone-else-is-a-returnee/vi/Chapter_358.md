@@ -28,7 +28,7 @@ Lời nói của anh khiến nữ thiên thần xúc động. Thật ngây thơ 
 
 Cô ngập ngừng một thoáng khi nhìn chàng trai trẻ. "Dù sao thì, chúng ta cũng có thể cung cấp vũ khí cho cậu."
 
-"Nếu các người toàn năng như thế, tại sao lại cần đến sự giúp đỡ của tôi?" IlHan buột miệng thắc mắc.
+"Nếu các vị toàn năng như thế, tại sao lại cần đến sự giúp đỡ của tôi?" IlHan buột miệng thắc mắc.
 
 "Ở Trái Đất này, sức mạnh của chúng ta bị giới hạn. Cậu sẽ giúp chúng ta chứ?" nữ thiên thần hỏi.
 

@@ -361,9 +361,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | reviewed |  |
 | 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | reviewed |  |
 | 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | reviewed |  |
-| 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | done |  |
-| 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | done |  |
-| 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | done |  |
+| 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | reviewed |  |
+| 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | reviewed |  |
+| 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | reviewed |  |
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận

@@ -643,3 +643,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | The Angel | tôi | cô / chị | 357 | Yu IlHan giao tiếp với nữ thiên thần thời cấp ba tại Jeju (đến #359 bắt đầu gọi là chị) |
 | Min Ha-Yul | Yu IlHan | tớ / mình | cậu / Yu IlHan | 359 | Bạn cùng trường cấp ba trong chuyến dã ngoại Jeju |
 | Yu IlHan | Min Ha-Yul | tôi / tớ | cậu | 359 | Bạn cùng trường cấp ba trong chuyến dã ngoại Jeju |
+| Kang MiRae | Yu IlHan | tôi | anh | 357 | Kang MiRae nói với Yu IlHan tại đảo Jeju |
