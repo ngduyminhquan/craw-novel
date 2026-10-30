@@ -109,6 +109,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lazière | Lady Lazière; Lazi | Lazière | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ, nhân vật số 2 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan | 295 |
 | Crissière | Crissi | Crissière | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ, nhân vật chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ | 296 |
 | Greed |  | Greed | Thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, Kẻ Siêu Việt mang bản tính tham lam vô tận tự trói mình trong lâu đài ở Elo Katra | 299 |
+| Zeàr |  | Zeàr | Thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta; bị Liera hạ sát ở #303 | 303 |
 
 ## Chi tiết
 
@@ -903,4 +904,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam/vô tính, thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, một Kẻ Siêu Việt.
 - Ngoại hình / hành vi: Một cự quái có kích thước khổng lồ đến mức phải dùng ma pháp bẻ cong không gian để ép mình vào lâu đài tại Elo Katra, bị trói buộc bởi những xiềng xích kim loại cổ đại; cơ thể là sự dung hợp bão hòa của mọi dạng sống qua muôn vàn thế giới (lông chim, vảy rồng, bóng hơi cá, bờm sư tử, nanh độc, da troll, cơ bắp ogre, vòng thiên thần, lông đen thiên thần sa ngã); giọng nói điềm đạm như đàn ông trung niên; bản tính tham lam vô tận, nuốt chửng mọi thứ để biến thành sức mạnh.
 - Xuất hiện tính đến chương 300: Chào đón Yu IlHan đến Elo Katra; phớt lờ việc IlHan giết Keshein và Hillutonne; tiết lộ việc Thượng Đế không còn ở Thiên giới (đã chết) và nhận định Yu IlHan sẽ trở thành vị Thượng Đế mới, Đấng Sáng Tạo mới để tái tạo các thế giới cho hắn tiếp tục nuốt chửng; đề xuất liên minh bình đẳng với IlHan tiêu diệt hai thế lực còn lại và xóa sổ Thiên giới nhưng bị IlHan thẳng thừng từ chối.
+
+### Zeàr
+- Giới tính, vai trò: Nam, thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta.
+- Xuất hiện/tử trận tính đến chương 303: Bị Liera tiêu diệt trong trận đấu tay đôi sau khi hai pháo đài bay quét sạch phần lớn thuộc hạ; thi thể bị Liera thu thập.
+
 

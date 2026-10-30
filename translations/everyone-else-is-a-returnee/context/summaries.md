@@ -1843,6 +1843,14 @@ Khoảng một triệu con rồng sơ sinh cấp 200 trở lên (có con đạt 
 Anh chữa trị vết thương cho bầy rồng rồi phái chúng đi săn quái vật yếu để bảo vệ trật tự Daréu; đồng thời trấn an tộc elf và Lang tộc trước nỗi sợ loài rồng, nảy ra ý tưởng đào tạo kỵ sĩ rồng sau này.
 Cảnh kết thúc: Khi Đại Tai Biến lần 6 dần lắng dịu trên vùng cao nguyên, ngọn lửa sáng tạo trong lòng Yu IlHan bùng cháy dữ dội và anh quyết định bắt tay xây dựng một thành phố tráng lệ cho toàn bộ thần dân của mình.
 
+## 303
+Trong khi Yu IlHan kiến tạo Daréu, nhóm Liera trên Pháo Đài Bay tiếp tục càn quét các thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ; Liera đơn đả độc đấu hạ sát Zeàr — thiên thần sa ngã chuyển chức 6 canh giữ thế giới Fièta.
+Khi cả nhóm chuẩn bị di chuyển sang thế giới tiếp theo, cánh cổng không gian của Kang MiRae và tạo tác liên lạc của Yu IlHan bất ngờ bị vô hiệu hóa bởi một thế lực can thiệp bí ẩn.
+Một sinh vật dị dạng tựa thiên thần với ba cặp cánh rèm và vòng hào quang vặn xoắn xuất hiện, tự xưng đến để tiêu diệt 'Phe phái thứ năm, những kẻ dị thường của Hồ Sơ Akashic' nhằm ngăn chặn mối họa cho Thiên giới; nó sở hữu sức mạnh áp đảo có thể bắt chước kỹ năng và bắn chùm tia phá hủy 4 tấm Gương Hủy Diệt của Thiên Nhãn.
+Liera cùng Helièna phối hợp đột kích: Liera dùng sóng xung kích từ thương bẻ cong chùm tia sáng tạo cơ hội cho Helièna áp sát truyền mị lực tối thượng.
+Cảnh kết thúc: Bất chấp mị lực tuyệt đối của Helièna, sinh vật vô cảm lập tức đổi mục tiêu ưu tiên sang kẻ gây cản trở di chuyển và bắn chùm tia sáng xuyên thủng bụng của Helièna.
+
+
 
 
 

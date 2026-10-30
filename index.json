@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T07:44:43Z",
+  "generatedAt": "2026-10-30T07:56:34Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1799,6 +1799,12 @@
           "title": "Chương 302: Ta Là Cha Ngươi – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_302.md",
           "sha": "0efcdf1ab940920582ed3eaf0c3f362d028fe864"
+        },
+        {
+          "number": 303,
+          "title": "Chương 303: Ta Là Cha Ngươi – 2",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_303.md",
+          "sha": "2ae0a65353fa2c6feabd8d9180ae06e30cc2aecb"
         }
       ]
     },

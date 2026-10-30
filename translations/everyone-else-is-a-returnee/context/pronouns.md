@@ -485,3 +485,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Greed | tôi | ông / Greed | 299 | Yu IlHan đối thoại với thủ lĩnh Quân Đội Ma Hủy Diệt Greed |
 | Ruby | Yu IlHan | con | Cha | 302 | Ruby gọi Yu IlHan là Cha sau khi được sinh ra và đặt tên |
 | Yu IlHan | Ruby | ta | ngươi / con | 302 | Yu IlHan ra lệnh và đặt tên cho Ruby |
+| Zeàr | Liera | ta | ngươi | 303 | Zeàr chất vấn và đối đầu Liera |
+| Liera | Zeàr | ta / tôi | ngươi | 303 | Liera đáp trả và tiêu diệt Zeàr |
+| Helièna | Kang MiRae | ta | cô / tiểu thư | 303 | Helièna hỏi Kang MiRae về việc mở cổng không gian |
+| Kang MiRae | Helièna | tôi | cô | 303 | Kang MiRae giải thích việc cổng bị chặn |

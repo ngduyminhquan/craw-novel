@@ -468,7 +468,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |
 | Pressure Tiger Bone Bastard |  | Kiếm Bastard Xương Hổ Trọng Áp | vật phẩm | 81 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo từ xương hổ cung cấp cho lực lượng Trấn Áp |
 | The Holy Stone of the Goddess of Beauty, Leytna |  | Thánh Thạch của Nữ Thần Sắc Đẹp Leytna | vật phẩm | 81 | Khoáng thạch chứa thánh lực từ đền thờ Nữ Thần Sắc Đẹp Leytna |
-| Leytna | Leyta; Lady Leytna | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
+| Leytna | Leyta; Lady Leytna; Lady Letyna | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
 | Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
 | Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | Magic Dragon Clan | Magic Dragon clan; Magic Dragon; Demon Dragon clan; Demon Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
@@ -745,6 +745,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Unshakable Heart | Unshakeable heart; Unshakeable Heart | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |
 | Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
+| The Fifth faction | the Fifth faction; Fifth faction | Phe phái thứ năm | khác | 303 | Phe phái thực thể cấp cao thứ năm do Kẻ Thứ Năm dẫn dắt (#303) |
+| irregular | irregulars; Irregulars | kẻ dị thường | khác | 229 | Kẻ hoặc nhóm cá thể nằm ngoài dự đoán hoặc quy luật của Hồ Sơ Akashic (#229, #303) |
 | fifth God | fifth god; the fifth God; the fifth god; Fifth God | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
 | Lünaë |  | Lünaë | địa danh | 256 | Khu vực/thành trì tại thế giới Heishia bị quân đội orc tàn phá |
 | Model Garden |  | Khu Vườn Mô Hình | địa danh | 258 | Thế giới hỗn loạn nơi thời gian và không gian ngưng trệ, thuộc quyền quản lý của Khu Vườn Hoàng Hôn |
@@ -797,3 +799,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Typhen |  | Typhen | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
 | Elyde |  | Elyde | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
 | Terodua |  | Terodua | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
+| Fièta |  | Fièta | địa danh | 303 | Thế giới bậc cao thuộc quyền cai quản của Quân Đội Ánh Sáng Rực Rỡ (#303) |

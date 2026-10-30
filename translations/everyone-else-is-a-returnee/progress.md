@@ -307,7 +307,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | reviewed |  |
 | 301 | 299 | Chapter_301 - Chapter 299_ I Will Achieve – 9.txt | I Will Achieve – 9 | reviewed |  |
 | 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | reviewed |  |
-| 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | todo |  |
+| 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | done |  |
 | 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | todo |  |
 | 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | todo |  |
 | 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -1008,3 +1007,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#302] Tiêu đề arc mới "I Am Your Father" (#302–#310) — Tạm chọn: "Ta Là Cha Ngươi – N" ("Ta Là Cha Ngươi – 1" ở #302) theo câu thoại meme Star Wars kinh điển tác giả trích dẫn trong Author's notes. Phương án khác: "Ta Là Cha Của Ngươi – N" hoặc "Ta Là Cha Các Ngươi – N". Tạm dùng trong bản dịch: "Ta Là Cha Ngươi – 1". → Chốt dịch tiêu đề arc 'I Am Your Father – N' là 'Ta Là Cha Ngươi – N'. (orchestrator)
 - [#302] Danh xưng bầy rồng gọi Yu IlHan là "Father" trong thoại [Father], [Father, I wish to become stronger!] — Tạm chọn: dịch là "Cha" / "thưa Cha" (tôn kính Đấng Sáng Tạo) để phân biệt với tiếng "Bố" gần gũi của Yumir. Phương án khác: đồng bộ thành "Bố". Tạm dùng trong bản dịch: "Cha" / "thưa Cha". → Giữ cách dịch 'Cha' / 'thưa Cha' (con - Cha) khi bầy rồng gọi Yu IlHan để phân biệt với tiếng 'Bố' của Yumir. (orchestrator)
 - [#302] Tôn xưng bầy rồng gọi Yu IlHan [To the Supreme!] ở đoạn 23 — Tạm chọn: "Đấng Tối Cao" (tôn xưng cá nhân thiêng liêng) thay vì "Thực thể tối cao" (thuật ngữ Supremes trong glossary chỉ nhóm 5 lãnh tụ các phe). Phương án khác: "Thực thể tối cao". Tạm dùng trong bản dịch: "Đấng Tối Cao". → Giữ 'Đấng Tối Cao' khi bầy rồng tôn xưng cá nhân Yu IlHan là 'the Supreme'. (orchestrator)
+- [#303] Cụm 'The Fifth faction, Irregulars of the Akashic Record' từ kẻ địch mới: tạm dịch là 'Phe phái thứ năm, những kẻ dị thường của Hồ Sơ Akashic' (thống nhất với #229 dịch 'irregular' là 'kẻ dị thường'). → Chốt dịch là 'Phe phái thứ năm, những kẻ dị thường của Hồ Sơ Akashic' và giữ 'irregular -> kẻ dị thường' trong glossary.md. (orchestrator)
+- [#303] Tên nữ thần 'Lady Letyna' trong lời cầu nguyện của Na YuNa ở raw là biến thể chính tả của 'Lady Leytna': tạm giữ bản dịch là 'Nữ Thần Leytna' và thêm 'Lady Letyna' vào Alias trong glossary. → Giữ 'Nữ Thần Leytna' theo cách viết đã chốt và thêm 'Lady Letyna' vào Alias. (orchestrator)
