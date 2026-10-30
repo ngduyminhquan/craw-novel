@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T02:11:17Z",
+  "generatedAt": "2026-10-30T02:18:48Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1625,6 +1625,12 @@
           "title": "Chương 270: Nếu Muốn Theo Tôi – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_270.md",
           "sha": "a31b02ddc004237db9c79906ebcd38173cbf7880"
+        },
+        {
+          "number": 271,
+          "title": "Chương 271: Nếu Muốn Theo Tôi – 6",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_271.md",
+          "sha": "dfe337fda0963ff61bba4a104cfb9ad1627f2a5a"
         }
       ]
     },

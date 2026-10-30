@@ -1662,6 +1662,14 @@ Helièna dùng mị thuật trêu chọc và khích lệ IlHan đón nhận sự
 Yu IlHan đồng ý, giải trừ kết giới đón toàn bộ 30.000 người lên Pháo Đài Hộ Vệ rồi kích hoạt kỹ năng Dịch Chuyển đưa tất cả vượt tường chiều không gian về Trái Đất.
 Cảnh kết thúc: Mọi người trên pháo đài đều bàng hoàng ngỡ ngàng trước cảnh tượng Trái Đất lúc này đẹp tựa chốn bồng lai tiên cảnh và sùng kính IlHan như một Kẻ Thống Trị, còn IlHan nhận ra mình phải gấp rút bắt tay vào ổn định Trái Đất trước khi thế giới thăng cấp thành thế giới bậc cao.
 
+## 271
+Yu IlHan đưa 30.000 người Guundia và lực lượng Trấn Áp tới định cư tại Venezuela, phân phát tạo tác Độc Nhất từ kho Vanguard cùng thiết bị liên lạc và giăng bẫy phòng thủ tự động trước khi trở về Hàn Quốc.
+Tại hố đất cũ từng đào pháo đài bay, nay đã biến thành hồ nước chứa ma lực khổng lồ, Erta kịp thời tới hội quân và chứng kiến Trái Đất đang biến đổi cực nhanh thành thế giới bậc cao.
+Yu IlHan vạch kế hoạch mượn ma pháp làm chậm thời không của Kim YeSeul kết hợp ma pháp trận quy mô toàn cầu lấy cảm hứng từ ma pháp trận cổ đại tộc elf ở Daréu để trì hoãn quá trình thăng cấp của Trái Đất.
+Anh phân rã Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh để lấy năng lực thao túng nước nạp vào ma thạch chuyển chức 5 thả xuống lòng hồ, biến cả hồ nước thành golem nước bằng Ma Pháp Công Học, Chế Tác Mana và Linh Hồn Phụ Ma.
+Cảnh kết thúc: Yu IlHan đàm phán thành công và dùng kỹ năng Thống Trị thu phục tàn niệm của Ý Chí Hỗn Loạn làm thuộc hạ để phong ấn vào hồ nước, chính thức bắt tay cùng thực thể tàn bạo nhất bảo vệ Trái Đất.
+
+
 
 
 

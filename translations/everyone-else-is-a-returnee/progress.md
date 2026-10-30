@@ -275,7 +275,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | reviewed |  |
 | 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | reviewed |  |
 | 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | done |  |
-| 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | todo |  |
+| 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | done |  |
 | 272 |  | Chapter_272 - If You Wish To Follow Me – 7.txt | If You Wish To Follow Me – 7 | todo |  |
 | 273 |  | Chapter_273 - If You Wish To Follow Me – 8.txt | If You Wish To Follow Me – 8 | todo |  |
 | 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | todo |  |
@@ -963,3 +963,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#268] Đoạn 55 raw EN lặp từ ("The Flying Fortress was originally supposed to be under the control of the Flying Fortress") — Tạm dùng: dịch chỉnh lý theo ngữ cảnh thành "Pháo Đài Hộ Vệ vốn dĩ chịu sự điều khiển của pháo đài bay, nhưng Yu IlHan cũng có thể tự mình vận hành khi cần". Phương án khác: dịch sát chữ thô. → Giữ nguyên cách dịch chỉnh lý theo ngữ cảnh là Pháo Đài Hộ Vệ chịu sự điều khiển của pháo đài bay (orchestrator)
 - [#269] Quân hàm Han YeoRang: IlHan nhớ là 'Captain' (Đại úy), Yun DaeHan đính chính là 'Colonel' (Đại tá) do cô thăng cấp nhanh; tạm dịch 'Đại úy Han YeoRang' và 'Đại tá Han' theo đúng hội thoại của raw. → Chốt dịch Captain là Đại úy và Colonel là Đại tá theo đúng hội thoại trong raw (orchestrator)
 - [#270] Cách dịch danh xưng "Lady Han YeoRang" ở đoạn 89 do người dân/binh sĩ Guundia gọi — Tạm dùng: "ngài Han YeoRang" (thể hiện sự tôn kính của người dân đối với người bảo hộ pháo đài). Phương án khác: "Đại tá Han YeoRang" hoặc "tiểu thư Han YeoRang". → Chốt dịch là "ngài Han YeoRang" (tương ứng kính ngữ "-nim" khi người dân Guundia gọi vị chỉ huy bảo hộ mình) (orchestrator)
+- [#271] Raw lược bỏ chữ 'Chilly' trong 'Blizzard Tyrant's Mixed bone fullplate armour' — Tạm chọn: giữ tên đầy đủ đã chốt là 'Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh' (đã thêm vào Alias trong glossary.md). Phương án khác: dịch rút gọn là 'Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết'. → Giữ tên chuẩn đầy đủ "Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh" và gộp biến thể vào Alias trong glossary.md (orchestrator)

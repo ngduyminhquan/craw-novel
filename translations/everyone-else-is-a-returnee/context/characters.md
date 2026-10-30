@@ -381,6 +381,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 150: Ngày đêm thực chiến chống quái vật bảo vệ tổ quốc trước thềm Đại Tai Biến lần 2; mỗi lần xuất kích đều gào thét đòi giải ngũ lấy chồng giàu và liên tục réo tên Yu IlHan khiến đồng đội thắc mắc.
 - Trạng thái tính đến chương 269: Đạt cấp độ 190, thăng cấp lên Đại tá, chỉ huy 12 binh sĩ Trấn Áp kiên cường bám trụ phòng thủ tuyến đầu cho số ít nhân loại còn sống sót tại Guundia sau Đại Tai Biến lần 3 trước khi được Yu IlHan và Thiếu tướng Yun DaeHan đến chi viện giải cứu.
 - Trạng thái tính đến chương 270: Trưởng thành vượt bậc trong cương vị thủ lĩnh, không còn hành động theo cảm tính; đứng ra thỉnh cầu Yu IlHan tiếp nhận toàn bộ 30.000 người sống sót của Guundia di cư về Trái Đất để nhận sự bảo hộ của anh.
+- Trạng thái tính đến chương 271: Cùng Thiếu tướng Yun DaeHan tiếp nhận trang bị Độc Nhất từ kho Vanguard và thiết bị liên lạc từ Yu IlHan, chỉ huy lực lượng Trấn Áp tiếp quản khu định cư 30.000 người Guundia tại Venezuela.
 
 ### Do WooJun
 - Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.
@@ -392,6 +393,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Sáng suốt, nhìn xa trông rộng, hiểu rõ sức mạnh cá nhân có thể vượt trên quân đội hay quốc gia; chủ động hợp tác và cung cấp tin tức quái vật cho IlHan thay vì cưỡng ép kiểm soát.
 - Trạng thái tính đến chương 71: Giữ chức Đại tá chỉ huy lực lượng Trấn Áp Hàn Quốc được cử sang chi viện tại tuyến phòng thủ Tokyo, Nhật Bản.
 - Trạng thái tính đến chương 270: Đã thăng Thiếu tướng; cùng Han YeoRang thuyết phục Yu IlHan tiếp nhận toàn bộ 30.000 người sống sót của Guundia di cư về Trái Đất.
+- Trạng thái tính đến chương 271: Cùng Han YeoRang tiếp nhận các tạo tác Độc Nhất từ kho Vanguard và thiết bị liên lạc từ Yu IlHan, dẫn dắt lực lượng Trấn Áp bảo vệ người dân Guundia tại khu định cư Venezuela.
 
 ### Shiota
 - Giới tính, vai trò: Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt trên Trái Đất cùng nhóm Erta.
@@ -671,6 +673,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Vô tính, thực thể cấp cao chuyển chức 6 (Lv 403) hình thành từ tập hợp ý thức và oán hận nghìn năm của các sinh vật Trái Đất bị bỏ lại.
 - Đặc điểm / năng lực: Cơ thể dạng bóng lỏng đen không hình thù cố định, sở hữu kỹ năng Ẩn Thân thượng thừa, sử dụng thương đen; mang ý niệm báo thù tột cùng nhắm vào Yu IlHan và Trái Đất.
 - Xuất hiện tính đến chương 210–211: Phục kích đâm thủng bụng Yu IlHan lúc anh đang tiến hóa kỹ năng; bị Mystic bắn pháo sáng cầm chân và bị Liera liều mạng giáng vô số đòn thương phá hủy cơ thể; định rút lui chờ cơ hội thì bị Yu IlHan (vừa đạt chuyển chức 4) giăng kết giới ngọn lửa trắng và xích lửa khóa chặt, sau đó bị một thương hủy diệt hoàn toàn.
+- Trạng thái tính đến chương 271: Tàn niệm lưu lại trong Yu IlHan; chấp nhận quy phục làm thuộc hạ của Yu IlHan theo kỹ năng Thống Trị để thoát khỏi cảnh giam cầm và tiếp tục tồn tại bảo vệ Trái Đất.
 
 ### Pope
 - Giới tính, vai trò: Nữ, Giáo hoàng đứng đầu Giáo Hội Leytna tại thế giới Breya, từng là đệ nhất mỹ nhân lục địa; người phát hiện tiềm năng của Na YuNa và chọn cô làm thánh nữ kế nhiệm.
