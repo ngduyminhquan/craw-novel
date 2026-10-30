@@ -107,6 +107,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Tachiel | Tachiel / đại thiên thần Tachiel | 326 | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 |
 | Boomer’ol | Boomer’ol / hắn | 331 | Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt |
 | Siferai | Siferai / gã / gã khổng lồ | 331 | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt |
+| Carina Smithson | cô / Carina Smithson / Carina | 342 | Tên sau khi kết hôn của Carina Malatesta |
+| Yuni | cô bé / Yuni / con bé | 342 | Con gái rồng của Michael Smithson và Carina Malatesta |
 
 ## Giữa các nhân vật
 
@@ -552,3 +554,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kim YeSeul | Kang MiRae | mẹ / bác | con / MiRae | 339 | Kim YeSeul đối thoại thân mật xem Kang MiRae như người nhà |
 | Spiera | Raphael | ta | Raphael / ngươi | 340 | Spiera đối thoại và nuốt chửng tàn niệm Raphael |
 | Raphael | Spiera | ta | ngươi | 340 | Raphael chất vấn và gầm thét trong tuyệt vọng |
+| Carina Smithson | Yu IlHan | tôi | anh / cha đỡ đầu | 342 | Carina Malatesta (Smithson) nhờ Yu IlHan làm cha đỡ đầu chăm sóc con gái |
+| Yu IlHan | Carina Smithson | tôi | cô / cô Smithson | 342 | Yu IlHan chúc mừng và đối thoại với Carina sau khi sinh |
+| Yuni | Yu IlHan | con | cha đỡ đầu | 342 | Yuni gọi Yu IlHan là cha đỡ đầu |
+| Yu IlHan | Yuni | ta / tôi | con / Yuni | 342 | Yu IlHan đối thoại với con gái đỡ đầu Yuni |

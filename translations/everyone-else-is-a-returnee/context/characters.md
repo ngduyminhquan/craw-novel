@@ -122,6 +122,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Boomer’ol | Boomer'ol; 5th Battalion Commander Boomer’ol | Boomer’ol | Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt, có khả năng kích nổ tử thi ma binh để tập kích | 331 |
 | Siferai | 9th Battalion Commander Siferai | Siferai | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt, cự nhân mang sừng bọc thân như giáp, thể lực đứng thứ hai sau Greed, mang kịch độc trong máu; hi sinh để hạ độc làm suy yếu Michael | 331 |
 | Leytna | Lady Leytna; Lady Letyna; Leyta | Leytna | Nữ Thần Sắc Đẹp trong quá khứ, một vị thần được ghi chép; xuất hiện dưới dạng tàn niệm truyền dạy bí quyết cho Na YuNa ở #337 | 81 |
+| Carina Smithson |  | Carina Smithson | Tên sau khi kết hôn của Carina Malatesta với Michael Smithson | 342 |
+| Yuni | Yuni Smithson | Yuni | Con gái rồng của Michael Smithson và Carina Malatesta, con gái đỡ đầu của Yu IlHan | 342 |
 
 ## Chi tiết
 
@@ -551,6 +553,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 275: Đột phá lên chuyển chức lần 4; cùng Carina Malatesta và Takagaki Asuha nỗ lực kháng cự ma pháp làm chậm trên Trái Đất và hồi phục 40% tốc độ di chuyển; được mời vào kết giới Đồng Hồ Cát Vĩnh Hằng; bị Carina lên gối khống chế cưỡng hôn, chấp nhận gọi thẳng tên Carina; bị Erta thả Ác Ma Rung cấp cuối 200 bắt đầu quá trình luyện tập tăng cấp.
 - Trạng thái tính đến chương 333: Tiến hóa thành rồng thực thụ chuyển chức 5 giữa trận chiến ác liệt tại Daréu; cùng Carina Malatesta tình tứ trao nhau lời hẹn ước tiếp tục cố gắng vì đứa con tương lai.
 - Trạng thái tính đến chương 341: Đón đứa con đầu lòng cùng Carina Malatesta chào đời trong kết giới tại pháo đài bay; tha thiết nhờ Yu IlHan làm cha đỡ đầu cho con mình và được anh chấp thuận.
+- Trạng thái tính đến chương 342: Cùng Carina đặt tên con gái là Yuni Smithson, vui vẻ đón nhận lời chúc phúc Tuyên Cáo từ cha đỡ đầu Yu IlHan; tính tình trở nên hòa nhã, biết nhẫn nhịn và cười xòa trước những lời chọc ngoáy của Na YuNa.
 
 ### Carina Malatesta
 - Giới tính, vai trò: Nữ, quý cô quý tộc kiêu kỳ, chủ clan (Lord of Magia) của Clan Magia đến từ Ý.
@@ -559,6 +562,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 275: Đạt chuyển chức lần 4; nỗ lực kháng cự ma pháp làm chậm Trái Đất; bước vào kết giới Đồng Hồ Cát Vĩnh Hằng liền dùng đòn lên gối kèm ma pháp tê liệt đốn ngã Michael Smithson để cưỡng hôn và yêu cầu anh gọi thẳng tên mình; rũ bỏ vẻ kiêu kỳ cúi đầu cảm ơn IlHan vì đã giúp cô gặp lại người mình yêu, đồng thời tuyên thệ trung thành tuyệt đối và nguyện theo sự dẫn dắt của IlHan để giải cứu những người còn thất lạc.
 - Trạng thái tính đến chương 333: Trải qua trận chiến khốc liệt và hấp thụ Cái Nôi Kỳ Tích, an toàn tiến hóa thành rồng thực thụ chuyển chức 5; công khai thể hiện tình cảm mặn nồng với Michael Smithson ngay trên chiến trường Daréu.
 - Trạng thái tính đến chương 341: Thuận lợi sinh hạ một bé rồng khỏe mạnh tại pháo đài bay sau một năm trong kết giới; cùng Michael Smithson nhờ Yu IlHan làm cha đỡ đầu.
+- Trạng thái tính đến chương 342: Đổi họ theo chồng thành Carina Smithson; cùng chồng trao con gái Yuni cho cha đỡ đầu Yu IlHan ban phước lành và nhận vào Long Sào.
 
 ### Takagaki Asuha
 - Giới tính, vai trò: Nữ, chủ clan (Clan Master) của Clan Ma Long (Magic Dragon Clan) đến từ Nhật Bản.
@@ -1024,3 +1028,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Leytna
 - Giới tính, vai trò: Nữ, Nữ Thần Sắc Đẹp trong quá khứ, một trong các "thần được ghi chép"; tín ngưỡng của Na YuNa và Giáo Hội Leytna.
 - Xuất hiện: Xuất hiện dưới dạng tàn niệm trong ý thức của Na YuNa ở chương 337, thừa nhận nhan sắc của Na YuNa, truyền dạy bí quyết làm đẹp để quyến rũ Yu IlHan và trao tàn dư thần lực cuối cùng trước khi tan biến vĩnh viễn.
+
+### Yuni
+- Giới tính, vai trò: Nữ, con gái rồng đầu lòng của Michael Smithson và Carina Malatesta (Smithson), con gái đỡ đầu của Yu IlHan.
+- Đặc điểm / ngoại hình: Mái tóc vàng óng buộc đuôi ngựa xòe như đóa hoa hướng dương, đôi mắt màu ngọc lục bảo; vừa sinh ra đã hiểu được tiếng người; lớn nhanh như thổi, tròn 9 tuổi đã có ngoại hình của thiếu nữ 15 tuổi; hiếu học, say mê luyện thương và tôn sùng cha đỡ đầu Yu IlHan; đạt tới chuyển chức lần 4 trước thềm sinh nhật 9 tuổi.
+- Xuất hiện tính đến chương 342: Chào đời tại pháo đài bay, được Yu IlHan dùng Tuyên Cáo ban phước lành nhận làm con gái đỡ đầu; 9 năm sau hăng hái luyện tập cùng Yu IlHan trong kết giới và lén mò lên thành phố bay đòi tham chiến nhưng bị đuổi về Trái Đất an toàn.

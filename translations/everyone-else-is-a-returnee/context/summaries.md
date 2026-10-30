@@ -2087,3 +2087,10 @@ Yu IlHan phân tích xác Archlegna và nhận ra Thượng Đế từng toan t�
 Tự xưng là bậc thầy phục bút khi xóa sổ vũ khí tối thượng của trùm cuối từ trước trận chiến, Yu IlHan dùng Sáng Tạo đúc toàn bộ xác Archlegna thành một viên đạn pháo độc nhất vô nhị không thể ghi chép để nạp cho đại pháo của mình.
 Cảnh kết thúc: Michael Smithson chạy đến báo tin Carina Malatesta sắp sinh và khẩn thiết xin Yu IlHan làm cha đỡ đầu cho con mình; Yu IlHan chấp thuận, và một bé rồng khỏe mạnh sở hữu tóc vàng cùng mắt ngọc lục bảo chính thức chào đời tại pháo đài bay.
 
+## 342
+Michael Smithson và Carina Malatesta (Smithson) đón chào con gái đầu lòng mang tên Yuni; Yu IlHan dùng kỹ năng Tuyên Cáo ban phước lành và nhận làm cha đỡ đầu của cô bé rồng, trong khi từ chối lời vòi vĩnh sinh em bé của Liera vì sợ chạm tới hồi kết.
+Chín năm sau trong kết giới, Yuni đã lớn nhanh như thổi thành thiếu nữ 15 tuổi, đạt tới chuyển chức lần 4 và say mê luyện thương cùng cha đỡ đầu; Yu IlHan giật mình nhận ra kết giới sắp giải trừ trong khi Siêu Việt Quỹ Đạo mới chạm cấp 99.
+Yu IlHan cùng toàn thể chiến binh Long Sào và Uriel tập hợp trên thành phố bay, chuẩn bị sẵn sàng vũ trang và tâm thế tiến đánh các thế lực thù địch ngay khi kết giới thời gian của Đồng Hồ Cát Vĩnh Hằng tiêu biến.
+Cảnh kết thúc: Sau khi cho người đưa cô bé Yuni trở lại mặt đất Trái Đất an toàn, Yu IlHan nháy mắt hé lộ với Helièna mục tiêu xâm lược đầu tiên ngay sau khi kết giới tan biến chính là hang ổ vắng vẻ nhất: Minh Giới.
+
+

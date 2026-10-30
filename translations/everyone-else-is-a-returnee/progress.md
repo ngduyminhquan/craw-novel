@@ -346,7 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | reviewed |  |
 | 340 | 338 | Chapter_340 - Chapter 338_ Harmageddon – 14.txt | Harmageddon – 14 | reviewed |  |
 | 341 | 339 | Chapter_341 - Chapter 339_ Harmageddon – 15.txt | Harmageddon – 15 | reviewed |  |
-| 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | todo |  |
+| 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | done |  |
 | 343 | 341 | Chapter_343 - Chapter 341_ Sole God – 2.txt | Sole God – 2 | todo |  |
 | 344 | 342 | Chapter_344 - Chapter 342_ Sole God – 3.txt | Sole God – 3 | todo |  |
 | 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1072,3 +1073,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#339] Danh xưng "God of Earth" (đoạn 85) — Tạm dùng: "Thượng Đế của Trái Đất" (đối ứng với "Thượng Đế Thiên giới" - God of Heaven trong glossary và danh xưng "Thượng Đế" mà dân chúng Trái Đất tôn kính gọi Yu IlHan ở đoạn 3, 7, 8). Phương án khác: "Thần của Trái Đất" / "Vị Thần của Trái Đất". → Chốt 'Thượng Đế của Trái Đất' đối ứng với 'Thượng Đế Thiên giới' (orchestrator)
 - [#340] Tên tạo tác "Blade of the Avenger" — Tạm chọn: "Lưỡi Kiếm Kẻ Báo Thù" (khớp với "Kẻ Báo Thù" trong "Long Nhãn Kẻ Báo Thù"). Phương án khác: "Lưỡi Đao Kẻ Báo Thù", "Thương Nhận Kẻ Báo Thù" (lưu ý: hình dạng vũ khí vốn là ngọn thương trắng của Spiera). → Chốt 'Lưỡi Kiếm Kẻ Báo Thù' (orchestrator)
 - [#341] Danh xưng tự phong 'foreshadow master' của Yu IlHan — Tạm chọn: 'bậc thầy phục bút' (đồng bộ với 'đập tan mọi phục bút' ở #315). Phương án khác: 'bậc thầy điềm báo'. → Chốt 'bậc thầy phục bút' (orchestrator)
+- [#342] Tiêu đề arc 'Sole God' dịch là 'Vị Thần Duy Nhất' (đã tạm dùng); đề xuất giữ nguyên hoặc đổi thành 'Thần Duy Nhất'. → Chốt 'Vị Thần Duy Nhất' (chơi chữ từ tên Yu Il / 유일 trong nguyên tác) (orchestrator)

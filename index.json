@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T14:58:22Z",
+  "generatedAt": "2026-10-30T15:15:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2033,6 +2033,12 @@
           "title": "Chương 341: Harmageddon – 15",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_341.md",
           "sha": "5b6b1981e6d5cf2a0846fe622ca9824a3d407e60"
+        },
+        {
+          "number": 342,
+          "title": "Chương 342: Vị Thần Duy Nhất – 1",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_342.md",
+          "sha": "51845e5894913ab04ce9d28524b4a973195f33a4"
         }
       ]
     },
