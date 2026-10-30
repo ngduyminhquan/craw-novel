@@ -1727,3 +1727,10 @@ Ba chủ clan phối hợp hạ gục Ác Ma Băng sau trận chiến ác liệt
 Trong suốt một năm ba tháng liên tục không ngủ trong kết giới, Yu IlHan dùng Đại Đoạn Vũ Trụ Thương cùng những lời khiêu khích chà đạp thể xác và bẻ gãy hoàn toàn ý chí của con rồng chuyển chức 7 Echjar.
 Echjar buộc phải nhận thua, thừa nhận Yu IlHan là kẻ thống trị muôn loài rồng và trở thành thuộc hạ của anh dưới kỹ năng Thống Trị; Yu IlHan kích hoạt 'Sáng Tạo' hoán đổi Orochi sang thân xác rồng của Echjar và đưa Echjar vào Nhân Long Thân.
 Cảnh kết thúc: Orochi xin Yu IlHan biến thân xác rồng thành dạng người khiến Mystic ghen tị vòi vĩnh đòi một cơ thể bé gái dễ thương; Yu IlHan bật cười cầm búa chuẩn bị tạo tác kiệt tác tiếp theo trong một tháng cuối cùng trước khi kết giới giải trừ.
+
+## 281
+Kết giới một năm rưỡi tan biến, ba chủ clan nhận trang bị phẩm cấp Truyền Thuyết từ Yu IlHan rồi trở về vị trí để thích nghi với ma pháp làm chậm; Orochi càu nhàu vì chưa điều khiển trơn tru thân xác rồng mới của Echjar, trong khi Echjar bị phụ ma vào Nhân Long Thân lên tiếng giễu cợt.
+Yu IlHan chia hai đội tiếp tục hành trình: nhóm Kang MiRae, Na YuNa, Liera và phần lớn thuộc hạ lên Pháo Đài Bay; còn anh cùng mẹ Kim YeSeul, Helièna và Orochi điều khiển Pháo Đài Hộ Vệ dùng kỹ năng Dịch Chuyển đi cứu hộ tàn dư các thế giới khác.
+Trải qua hàng chục thế giới tàn lụi, Yu IlHan bất đắc dĩ tiếp nhận vô số người tị nạn cùng tàn dư tộc elf đưa về Trái Đất phồn vinh ngoài dự tính, đồng thời phát hiện dấu hiệu bất thường khi các thiên thần Quân Đội Thiên Giới hoàn toàn biến mất ở khắp các thế giới.
+Cảnh kết thúc: Trải qua thêm khoảng mười đợt đặc huấn trong kết giới của Đồng Hồ Cát Vĩnh Hằng mà vẫn chưa thể chạm tới cảnh giới thực thể cấp cao, Yu IlHan kết luận anh phải thu thập thêm ký lục của các thực thể cấp cao.
+

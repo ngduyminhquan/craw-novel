@@ -430,3 +430,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael Smithson | Erta | tôi | Erta | 280 | Michael Smithson được Erta huấn luyện |
 | Erta | Carina Malatesta | tôi | Carina / các cậu | 280 | Erta huấn luyện các chủ clan |
 | Carina Malatesta | Erta | tôi | Erta | 280 | Carina Malatesta được Erta huấn luyện |
+| Echjar | Orochi | ta | ngươi | 281 | Echjar mỉa mai và coi thường Orochi |
+| Orochi | Echjar | ta | ngươi | 281 | Hai tàn niệm trong thân xác và trang bị mới của Yu IlHan |
+

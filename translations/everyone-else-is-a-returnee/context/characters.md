@@ -36,7 +36,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
 | Karrows |  | Karrows | Con rồng vảy đen chuyển chức 4, tự xưng thủ lĩnh phe địch trên chiến trường Daréu | 98 |
 | Teraka | Teraka-nim | Teraka | Con rồng thuộc Quân Đội Ma Hủy Diệt, trùm cuối chiến trường Daréu; tính đến #237-#241 đã đột phá lên chuyển chức 6 và dẫn dắt 5.000 con rồng sơ sinh; tử trận ở #242 dưới một thương của Spiera | 101 |
-| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Long Vương kiêm Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka bị diệt; tính đến #243-#244 bị IlHan kéo về Trái Đất, bị tước bỏ tư cách thực thể cấp cao nhưng vẫn dùng đòn hắc hỏa và Lời Nguyền huyết mạch trói chặt linh hồn IlHan; tử trận ở #245 dưới ngọn Bát Vĩ Long Thương của IlHan; tính đến #280 bị IlHan bẻ gãy ý chí trong kết giới sau hơn 1 năm giao chiến, thừa nhận IlHan là kẻ thống trị muôn loài rồng, quy thuận làm thuộc hạ dưới kỹ năng Thống Trị và được hoán đổi tàn niệm vào Nhân Long Thân | 242 |
+| Echjar |  | Echjar | Con rồng chuyển chức 7 khổng lồ, Long Vương kiêm Tiểu Đoàn Trưởng Tiểu Đoàn 13 thuộc Quân Đội Ma Hủy Diệt; xé toạc bầu trời giáng lâm Daréu sau khi Teraka bị diệt; tính đến #243-#244 bị IlHan kéo về Trái Đất, bị tước bỏ tư cách thực thể cấp cao nhưng vẫn dùng đòn hắc hỏa và Lời Nguyền huyết mạch trói chặt linh hồn IlHan; tử trận ở #245 dưới ngọn Bát Vĩ Long Thương của IlHan; tính đến #280 bị IlHan bẻ gãy ý chí trong kết giới sau hơn 1 năm giao chiến, thừa nhận IlHan là kẻ thống trị muôn loài rồng, quy thuận làm thuộc hạ dưới kỹ năng Thống Trị và được hoán đổi tàn niệm vào Nhân Long Thân; tính đến #281 lên tiếng chế giễu Orochi không biết thân biết phận khi Orochi chê bai thân xác rồng mới | 242 |
 | Karl |  | Karl | Con rồng non thuộc bầy rồng sơ sinh của Quân Đội Ma Hủy Diệt tại Daréu | 101 |
 | Mirfa |  | Mirfa | Nữ elf 518 tuổi, nhân vật số hai tự xưng và được công nhận của tộc elf tại Daréu | 103 |
 | Mirey | Mirea | Mirey | Nữ elf chiến binh đại kiếm Lv 87 theo Yu IlHan về Trái Đất (ở #151 đoạn 42 raw gõ nhầm là Mirae) | 103 |
@@ -268,6 +268,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 262: Đưa kỹ năng Chế Tác Mana đạt cảnh giới thuần thục (Max) khi hồi sinh cơ thể Nữ Hoàng Succubus Helièna; đưa kỹ năng Thống Trị đạt cảnh giới thuần thục khi chính thức thu nhận Helièna làm thuộc hạ và mở khóa điều kiện tiến hóa kỹ năng.
 - Trạng thái tính đến chương 277: Dùng Bát Vĩ Long Thương kết hợp đa tầng hỏa diễm (Liệt Hỏa, Long Huyết, lửa Orochi, Ngọn Lửa Vĩnh Cửu) giải phẫu xác cá mập khổng lồ Kelatuke và nấu nướng thịt cá mập đãi toàn quân; dùng giáp kim loại của Kelatuke cùng ma thạch chuyển chức 5 gia cố Pháo Đài Bay thành mũi khoan xoay tròn, nâng cấp pháo đài lên phẩm cấp Vĩnh Cửu đầu tiên với tên gọi 'Pháo Đài Bay Kẻ Tận Diệt' và nhận danh hiệu 'Kẻ Vượt Trội'; chuẩn bị rèn bộ giáp lý tưởng từ xương Kelatuke, xương và Trái Tim Rồng của Echjar cùng Hỏa Tâm.
 - Trạng thái tính đến chương 278: Dùng Ngọn Lửa Vĩnh Cửu kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma nung chảy nửa bộ Hỏa Ngục Long Thân, xương Kelatuke và Hỏa Tâm; lĩnh ngộ cảnh giới Khởi Nguyên và Sáng Tạo, nhận danh hiệu 'Kẻ Sáng Tạo'; chế tạo thành công nội giáp phẩm cấp Thần 'Hỏa Hồn' làm nơi cư ngụ cho Ngọn Lửa Vĩnh Cửu; tóc bị nhuộm đỏ rực và dài tới eo nhưng có thể co ngắn tức thì theo ý nghĩ.
+- Trạng thái tính đến chương 281: Hoàn thành khoảng mười đợt đặc huấn trong kết giới Đồng Hồ Cát Vĩnh Hằng nhưng vẫn chưa thể đột phá lên thực thể cấp cao do thiếu yếu tố quyết định; cứu hộ tàn dư các thế giới diệt vong và tộc elf đưa về Trái Đất; phát hiện dấu hiệu Quân Đội Thiên Giới hoàn toàn biến mất ở khắp các thế giới; quyết định cần phải thu thập thêm ký lục của các thực thể cấp cao.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -731,6 +732,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Tàn niệm quái xà Yamata no Orochi, sau trở thành thuộc hạ của Yu IlHan trú ngụ trong Bát Vĩ Long Thương và sau đó là bộ giáp Hỏa Ngục Long Thân.
 - Tính cách / Cách nói chuyện: Tự xưng "ta", gọi người khác là "ngươi", hay cãi nhau và đấu khẩu với Mystic; khi cần tịnh tâm thì niệm kinh Phật "Ma ha bát nhã ba la mật đa".
 - Trạng thái tính đến chương 227: Cùng Mystic phụ tá Yu IlHan vận hành các chức năng của Pháo Đài Bay.
+- Trạng thái tính đến chương 281: Được hoán đổi sang thân xác rồng chuyển chức 7 của Echjar đã được tinh chỉnh; càu nhàu và ngượng ngùng vì chưa điều khiển trơn tru cơ bắp và xương khớp rồng mới.
 
 ### Quân Đoàn Rồng (Dragon's Army)
 - Vai trò: Đội quân 9.300 đứa trẻ Trái Đất do Yumir lãnh đạo, được Yu IlHan nuôi dưỡng, trang bị và che chở trên Pháo Đài Bay.

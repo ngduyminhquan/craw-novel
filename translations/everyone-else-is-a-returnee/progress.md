@@ -285,7 +285,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 278 |  | Chapter_278 - Why Only Me_ – 5.txt | Why Only Me_ – 5 | reviewed |  |
 | 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | done |  |
 | 280 |  | Chapter_280 - Why Only Me_ – 7.txt | Why Only Me_ – 7 | done |  |
-| 281 |  | Chapter_281 - Why Only Me_ – 8.txt | Why Only Me_ – 8 | todo |  |
+| 281 |  | Chapter_281 - Why Only Me_ – 8.txt | Why Only Me_ – 8 | done |  |
 | 282 |  | Chapter_282 - I Will Prepare – 1.txt | I Will Prepare – 1 | todo |  |
 | 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | todo |  |
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | todo |  |
