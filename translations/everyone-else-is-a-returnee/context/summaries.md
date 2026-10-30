@@ -2202,4 +2202,12 @@ Trở về khách sạn tắm rửa, IlHan nghe đám nam sinh bàn tán về v�
 Nữ thiên thần đứng đợi ngoài khách sạn, ngán ngẩm trước định kiến sắt đá bài trừ tình cảm mà ác ma Helièna đã gieo vào đầu IlHan từ nhỏ, rồi đưa cho anh một chiếc cần câu cá từ kho tàng Thiên giới.
 Cảnh kết thúc: Đôi mắt nữ thiên thần sáng rực tuyên bố mục tiêu đi săn trong đêm nay trên biển Jeju chính là Moby Dick.
 
+## 360
+Yu IlHan và nữ thiên thần ngồi thuyền câu cá giữa biển đêm Jeju; nữ thiên thần tiết lộ chiếc cần câu từng được dùng để bắt Leviathan thời cổ và IlHan phải dùng nó vì số lượng tạo tác mang từ Thiên giới có hạn (không có tạo tác thở dưới nước).
+IlHan đấu tranh nội tâm giữa việc rung động, cảm kích trước sự ấm áp của nữ thiên thần với những nguyên tắc phòng thủ sắt đá của kẻ cô độc không tin tưởng ai để khỏi bị phản bội.
+Cá voi trắng khổng lồ Moby Dick cắn câu kéo nhấc thuyền lên không trung; IlHan bị hất văng suýt rơi vào miệng quái vật nhưng đã liều mình phóng ngọn Thương Longinus xuyên qua lỗ thở găm thẳng vào tim tiêu diệt con thú.
+Thương Longinus tự động bay về tay IlHan khiến nữ thiên thần kinh ngạc vì ngọn thương thần thánh lại công nhận một người chưa điều khiển được mana; cô hết lời khích lệ tiềm năng vô hạn của anh và dặn anh tập trung vào kỹ năng đâm thương thay vì ném.
+Cảnh kết thúc: Nữ thiên thần chân thành thổ lộ cô vui mừng vì IlHan có thiên phú giết chóc là để anh có thể sống sót khi Trái Đất bước vào thời kỳ khắc nghiệt, khiến kẻ cô độc như anh bối rối và tạm gác suy nghĩ khi số quái vật dị thường còn lại là ba con.
+
+
 

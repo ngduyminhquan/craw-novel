@@ -859,7 +859,11 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Mt. Halla | Hallasan | Núi Halla | địa danh | 357 | Ngọn núi lửa nổi tiếng cao nhất Hàn Quốc trên đảo Jeju |
 | Pluto | planet Pluto | sao Diêm Vương | khác | 357 | Hành tinh lùn bị giáng cấp khỏi hệ hành tinh chính, dùng làm ẩn dụ cho sự tự ti của Yu IlHan |
 | Irregular Crisis | irregular crisis | Khủng Hoảng Dị Thường | khác | 357 | Cuộc khủng hoảng dị thường mà thiên thần của Thượng Đế thông báo cho Yu IlHan |
-| Longinus Spear |  | Thương Longinus | vật phẩm | 358 | Ngọn thương thần bí nữ thiên thần trao cho Yu IlHan để tiêu diệt các sinh vật dị thường |
+| Longinus Spear | Longinus; Longinus' spear; Longinus's spear | Thương Longinus | vật phẩm | 358 | Ngọn thương thần bí nữ thiên thần trao cho Yu IlHan để tiêu diệt các sinh vật dị thường |
+| Grand Duke Jiang |  | Khương Thái Công | khác | 360 | Nhân vật Khương Tử Nha trong điển tích Khương Thái Công câu cá |
+| Leviathan |  | Leviathan | quái vật | 360 | Thủy quái khổng lồ thời cổ trong Kinh Thánh |
+| Bible |  | Kinh Thánh | khác | 360 | Kinh Thánh Kitô giáo |
+| Pokemon Center |  | Trung Tâm Pokemon | khác | 360 | Trung tâm y tế hồi phục Pokemon trong nhượng quyền Pokemon |
 | Chui Tofu |  | Đậu Phụ Thối | khác | 359 | Biệt danh của nam sinh Chu Do-Bin do phát âm gần giống 취두부 (chwidubu) |
 | Miss Blind | Ms. Blind | Cô Nàng Mù | khác | 357 | Biệt danh Yu IlHan đặt cho Na YuNa vì cô không nhận thấy sự hiện diện của anh |
 | Miss Cool | Ms. Cool | Cô Nàng Lạnh Lùng | khác | 357 | Biệt danh Yu IlHan đặt cho Kang MiRae trong chuyến đi Jeju thời cấp ba |
