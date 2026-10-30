@@ -498,3 +498,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Helièna | Mystic | ta | cô | 305 | Helièna đáp lời Mystic |
 | Erta | Mystic | tôi / ta | cô / ngươi | 204 | Erta nói chuyện với Mystic trên Pháo Đài Bay |
 | Mystic | Erta | ta | cô | 204 | Mystic đối đáp với Erta |
+| Ruby | Yumir | em | huynh trưởng | 307 | Ruby gọi Yumir là huynh trưởng (orabuni) |
+| Yumir | Ruby | anh | em / Ruby | 307 | Yumir chỉ huy và hướng dẫn bầy rồng sơ sinh |

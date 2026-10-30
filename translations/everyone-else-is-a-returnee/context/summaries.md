@@ -1868,6 +1868,12 @@ Mọi người kinh ngạc trước cảnh tượng Daréu hoàn toàn đổi kh
 Yu IlHan an ủi mẹ Kim YeSeul, giải thích việc các thế giới bậc thấp quy phục anh đã dung nhập vào Daréu và hé lộ tham vọng tương lai sẽ dùng Ý Chí Hộ Vệ cùng ma pháp trận cổ xưa để dung hợp cả Trái Đất vào Daréu.
 Cảnh kết thúc: Trong lúc trò chuyện cùng Helièna, bầy rồng trở về sau chuyến đi săn đầu tiên với sự dẫn đầu của rồng đỏ Ruby thăng lên cấp 296, cung kính cất tiếng gọi Yu IlHan là "Cha" trước sự ngỡ ngàng của Helièna.
 
+## 307
+Ruby báo cáo việc các quái vật diệt rồng sinh ra tại Daréu do hấp thụ ký lục của Yu IlHan; Yu IlHan cử Yumir dẫn đầu bầy rồng đi săn, Yumir phô diễn thân thể chuyển chức 6 hoàng kim và phong thái thủ lĩnh khiến Ruby (lộ diện là rồng cái) cùng bầy rồng vô cùng ngưỡng mộ.
+Trong lúc kiểm tra tiến độ xây dựng và kế hoạch biến toàn bộ Daréu thành pháo đài khổng lồ, Yu IlHan trò chuyện với Helièna về những chuyển biến trong tâm tính và tầm nhìn kể từ khi trở thành thủ lĩnh Long Sào; Helièna an ủi và khuyên anh đón nhận bản thân.
+Yu IlHan bay lượn trên không quan sát thế giới bằng đôi cánh Hiệu Triệu Diệt Vong tiến hóa từ Hỏa Hồn Long Thân; chứng kiến Yumir huấn luyện bầy rồng săn quái vật diệt rồng thành công, anh an tâm chuyển hướng.
+Cảnh kết thúc: Cảm nhận được sự sợ hãi xen lẫn quy phục của các sinh vật Long tộc khác sinh ra trên Daréu, Yu IlHan quyết định thu nạp toàn bộ Long tộc dưới trướng Long Sào và cất tiếng gọi quy tụ chúng trong vòng mười giây.
+
 
 
 
