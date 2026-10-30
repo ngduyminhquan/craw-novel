@@ -323,7 +323,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Tibera | tôi | ngài / ngài Tibera | 190 | Erta đối thoại và chất vấn quyết định của Tibera |
 | Erta | Spiera | tôi | Spiera / cô | 190 | Erta phẫn nộ chất vấn Spiera sau khi biết Thiên giới bỏ mặc Trái Đất |
 | Yu IlHan | Mystic | tôi | cô / Mystic | 204 | IlHan đối thoại với tàn niệm Mystic |
-| Mystic | Yu IlHan | tôi / ta | ngươi / chủ nhân | 204 | Ban đầu đối địch xưng ta gọi ngươi, sau khi bị Thống Trị thì xưng tôi gọi chủ nhân |
+| Mystic | Yu IlHan | tôi / ta | ngươi / chủ nhân / ngài | 204 | Ban đầu đối địch xưng ta gọi ngươi; sau khi quy phục xưng tôi gọi chủ nhân / ngài / Chúa Tể, tránh dùng "người" (viết thường) khi dịch đại từ you |
 | Liera | Mystic | tôi | cô | 204 | Liera đối thoại và nhận định về Mystic |
 | Mystic | Liera | tôi | cô | 204 | Mystic đáp lời Liera |
 | Liera | Chaos Will | ta | ngươi | 210 | Liera chặn đánh chiếc bóng bảo vệ Yu IlHan |
@@ -358,7 +358,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Echjar | Spiera | ta | ngươi / các ngươi | 243 | Echjar đối đầu và áp đảo Spiera |
 | Echjar | Yu IlHan | ta | ngươi / tên con người | 244 | Echjar giận dữ tấn công và nguyền rủa IlHan |
 | Yu IlHan | Echjar | ta | ngươi | 244 | Thống nhất xưng ta - gọi ngươi khi đối đầu sinh tử |
-| Orochi | Yu IlHan | ta | chủ nhân | 245 | Orochi gọi IlHan là chủ nhân khi nói chuyện |
+| Orochi | Yu IlHan | ta | chủ nhân | 245 | Orochi gọi IlHan là chủ nhân khi nói chuyện, tuyệt đối không dịch you thành ngươi |
 | Melohinne | Helièna | ta | ngươi | 247 | Tranh giành Yu IlHan trong hội nghị Tiểu Đoàn Trưởng |
 | Helièna | Melohinne | ta | ngươi | 247 | Tranh giành Yu IlHan trong hội nghị Tiểu Đoàn Trưởng |
 | Zenusva | * | ta | các ngươi | 247 | Quát mắng các Tiểu Đoàn Trưởng khác trong hội nghị |
@@ -366,7 +366,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Lisona | tôi | cô / các người / ngươi | 250 | Erta vờ tiếp nhận nghi thức rồi lật kèo kích hoạt ma pháp phản công |
 | Lisona | Yu IlHan | ta | Yu IlHan / ngươi | 250 | Lisona phẫn nộ trước đòn tập kích bất ngờ của Yu IlHan |
 | Yu IlHan | Lisona | ta / tôi | ngươi / các ngươi | 250 | Yu IlHan xuất hiện đâm trọng thương Lisona |
-| Helièna | Yu IlHan | ta | chàng / người thương / Yu IlHan | 250 | Helièna giáng lâm Daréu buông lời quyến rũ Yu IlHan |
+| Helièna | Yu IlHan | ta | chàng / người thương / Yu IlHan | 250 | Helièna giáng lâm Daréu buông lời quyến rũ Yu IlHan (xưng ta gọi chàng / người thương, không dịch darling thành anh / anh yêu) |
 | Helièna | Natière | ta | Natière / cô | 250 | Hai nữ chỉ huy chuyển chức 7 chạm trán trên chiến trường Daréu |
 | Natière | Helièna | ta | Helièna / ngươi | 250 | Natière chất vấn Helièna về việc phá vỡ liên minh |
 | Kelatuke | * | ta | các ngươi | 250 | Kelatuke giáng lâm tuyên bố kích hoạt phòng thủ tối cao |

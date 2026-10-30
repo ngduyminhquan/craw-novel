@@ -60,11 +60,11 @@ Echjar không kìm được tiếng cảm thán.
 
 Yu IlHan mỉm cười hài lòng rồi đặt tạo tác đã hoàn thành lên lòng bàn tay. Tuy nhiên, Mystic liền lên tiếng thắc mắc sau khi nhìn khối hợp kim có dạng hình lập phương ấy.
 
-[Chủ nhân, người có đưa Linh Hồn Phụ Ma vào đúng không? Nhưng sao tôi không cảm nhận được bất kỳ tàn niệm nào khác từ nó vậy?]
+[Chủ nhân, ngài có đưa Linh Hồn Phụ Ma vào đúng không? Nhưng sao tôi không cảm nhận được bất kỳ tàn niệm nào khác từ nó vậy?]
 
 "Dĩ nhiên là vì tôi không phụ ma bất kỳ tàn niệm nào vào đó rồi."
 
-[Dù người đã dùng Linh Hồn Phụ Ma sao?]
+[Dù ngài đã dùng Linh Hồn Phụ Ma sao?]
 
 Mystic trầm ngâm một lát rồi giật mình kinh ngạc.
 
@@ -72,7 +72,7 @@ Mystic trầm ngâm một lát rồi giật mình kinh ngạc.
 
 "Chưa đâu. Nếu làm được thì tôi đã trở thành Kẻ Sáng Tạo mới rồi. Dù vậy, việc gieo vào một hạt mầm nhỏ thì tôi vẫn làm được."
 
-[Tôi nghĩ người nên trở thành Kẻ Sáng Tạo mới luôn đi là vừa.......]
+[Tôi nghĩ ngài nên trở thành Kẻ Sáng Tạo mới luôn đi là vừa.......]
 
 Mystic lẩm bẩm trong sự sững sờ, nhưng rồi cô nàng nghiêng đầu thắc mắc.
 
@@ -82,7 +82,7 @@ Mystic lẩm bẩm trong sự sững sờ, nhưng rồi cô nàng nghiêng đầ
 
 Dù chuyện này gắn liền sâu sắc với bản thân mình, đây lại là lần đầu tiên cô nghe nói tới!
 
-[Người đang làm cái quái gì thế hả!]
+[Ngài đang làm cái quái gì thế hả!]
 
 "Ha ha ha, bình tĩnh nào, Mystic."
 
@@ -90,7 +90,7 @@ Giọng Mystic nghe như thể cô nàng vừa cắn phải 'lưỡi' vì quá k
 
 "Lẽ nào tôi lại làm thân xác cho cô miễn phí sao? Đây là thù lao cho những gì cô phải gánh vác đấy! Không sao đâu, cô làm được mà. Cô sẽ trở thành một tồn tại vĩ đại cai quản mọi hầm ngục!"
 
-[Đừng có tự tiện biến tôi thành tồn tại vĩ đại gì đó theo ý người chứ!]
+[Đừng có tự tiện biến tôi thành tồn tại vĩ đại gì đó theo ý ngài chứ!]
 
 "Thực ra, đây chính là một trong những giấc mơ của tôi từ hồi mới làm ra pháo đài bay đấy!"
 
@@ -114,7 +114,7 @@ Kỹ năng Tuyên Cáo là một phép màu giả lập giúp biến những đi
 
 "Hãy nghĩ tới thân xác của cô mà ráng chịu đựng đi! Thân xác lộng lẫy, xinh đẹp, và có khả năng điều khiển một mạng lưới ý thức vô tận!"
 
-[Thực chất chẳng phải người tạo thân xác cho tôi chỉ vì muốn tôi cai quản toàn bộ hầm ngục sao?]
+[Thực chất chẳng phải ngài tạo thân xác cho tôi chỉ vì muốn tôi cai quản toàn bộ hầm ngục sao?]
 
 "Dĩ nhiên rồi!"
 
@@ -124,7 +124,7 @@ Công việc của Yu IlHan chỉ dừng lại sau khi đã tạo ra khoảng v�
 
 "Đây là tạo tác tôi làm ra để chống lại Thượng Đế. Tôi không biết ông ta định làm gì với lũ Legna, nhưng ông ta sẽ không thể can thiệp vào bất kỳ chiếc Bẫy Hủy Diệt nào ở những thế giới đã được cắm Bẫy Phục Hồi."
 
-[Chủ nhân, nghĩ lại thì lời tuyên cáo đầu tiên người dùng khi tạo ra những chiếc Bẫy Phục Hồi này là 'phục hồi và thôn tính' đúng không?]
+[Chủ nhân, nghĩ lại thì lời tuyên cáo đầu tiên ngài dùng khi tạo ra những chiếc Bẫy Phục Hồi này là 'phục hồi và thôn tính' đúng không?]
 
 "Phải, một khi Bẫy Phục Hồi được kích hoạt, nó sẽ chủ động hút mana xung quanh để tăng kích thước như một sinh vật, rồi cuối cùng tạo ra các Bẫy Phục Hồi mới bằng cách bao trùm lấy những chiếc Bẫy Hủy Diệt khác. Nói cách khác, mỗi thế giới chỉ cần một chiếc là đủ!"
 
@@ -158,7 +158,7 @@ Nhưng ngay lúc này, một lời vặn lại từ một góc độ không ai n
 
 "Cô còn cần cái gì khác nữa chứ?"
 
-[T, thì người biết rồi đấy.]
+[T, thì ngài biết rồi đấy.]
 
 Mystic ngập ngừng mãi rồi ngúng nguẩy cả thân mình. Pháo đài bay rung lắc dữ dội.
 

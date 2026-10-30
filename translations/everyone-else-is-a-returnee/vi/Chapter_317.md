@@ -98,7 +98,7 @@ Ba tiếng đồng hồ trôi qua, và lần này đến lượt Orochi đang kh
 
 Dù bề ngoài chỉ là một thanh niên tuấn tú tóc đen mang làn da màu đồng cùng những khối cơ bắp rắn rỏi như tượng tạc, nhưng ẩn sâu bên trong lại là một nguồn sức mạnh kinh hồn bạt vía. Sau khi trở thành một thực thể cấp cao với thể xác của Echjar, Orochi từng nghĩ rằng mình chẳng còn khía cạnh nào để mạnh lên được nữa, thế nhưng giờ đây cậu ta buộc phải rút lại suy nghĩ đó.
 
-"Ngươi thậm chí còn điều chỉnh cả những chỗ mất cân bằng dù là nhỏ nhất trong cơ thể này sao?"
+"Chủ nhân thậm chí còn điều chỉnh cả những chỗ mất cân bằng dù là nhỏ nhất trong cơ thể này sao?"
 
 "Dù ngươi đã trở thành thực thể cấp cao, nhưng thể xác của Echjar dùng để tạo nên cơ thể ngươi vốn đâu có hoàn chỉnh, đúng chứ? Tôi chỉ dùng phần tàn tích còn sót lại sau khi chế tạo trang bị cho ngươi để bổ khuyết vào những phần thiếu sót mà thôi. Dù việc long hóa thi thể của bọn chúng khá vất vả, nhưng ngoại trừ điều đó ra thì dễ hơn trường hợp của Mystic nhiều."
 
@@ -114,7 +114,7 @@ Như một dạng tác dụng phụ, Orochi giờ đây không còn có thể r�
 
 "Để được gọi là một Kẻ Sáng Tạo hoàn chỉnh thì tôi vẫn còn nhiều thiếu sót lắm, nhưng ít nhất tôi cũng giỏi hơn ngươi tưởng đấy. Nào. Mau kính cẩn bái phục tôi đi xem nào."
 
-"Ta thấy theo thời gian ngươi ngày càng ngạo mạn hơn thì có...... hự, nhưng ngươi thực sự rất đáng kinh ngạc."
+"Ta thấy theo thời gian chủ nhân ngày càng ngạo mạn hơn thì có...... hự, nhưng quả thực chủ nhân rất đáng kinh ngạc."
 
 Orochi gọi những ngọn lửa tím của mình ra và thử điều khiển chúng, để rồi sững sờ trước mức độ khuếch đại vượt xa trước đây rất nhiều. Cậu ta không thể tin nổi việc đồng bộ hóa một cách hoàn hảo và trọn vẹn các thể xác của những thực thể cấp cao khác nhau lại là điều khả thi. Tuy nhiên, Yu IlHan lại đang lo lắng về một chuyện khác.
 
@@ -134,13 +134,13 @@ Và đứng ngay sau hai người họ chính là Orochi, kẻ đang đứng s�
 
 "Dẹp cái trò phấn khích vớ vẩn ấy đi. Bộ tất cả các người đều là lũ thích khoe thân đấy à? Tôi đã làm lại toàn bộ trang bị ban đầu cho ngươi rồi nên mau mặc vào đi. Này, cầm lấy nhanh lên. Lỡ có kẻ nhìn trộm ở bên ngoài thì ngươi tính sao hả?"
 
-"Dưới trướng ngươi lại có tên biến thái như thế cơ à?"
+"Dưới trướng chủ nhân lại có tên biến thái như thế cơ à?"
 
 Vấn đề là có thật đấy chứ. Yu IlHan thầm cười nhạo Orochi trong bụng, bởi Orochi chẳng hề cảm nhận được Mystic đang nấp bên ngoài xưởng rèn để nhìn trộm vào trong, trong lúc anh trao trang bị cho cậu ta.
 
 Orochi nghiêng đầu thắc mắc nhưng vẫn đón lấy những món đồ. Một bộ đồ lót màu đen mặc ở lớp bên trong, vô cùng co giãn mà khả năng phòng thủ lại cực kỳ kiên cố. Thêm vào đó là một bộ giáp kim loại mỏng màu đen — trông nó hao hao giống với Hỏa Hồn Long Thân.
 
-"Bộ này trông giống với giáp của ngươi đấy."
+"Bộ này trông giống với giáp của chủ nhân đấy."
 
 "Dù tôi không thể tạo ra những món đồ phẩm cấp Vĩnh Cửu một cách dễ dàng như không, nhưng chà, tính năng của nó chắc chắn không thua kém là bao đâu. Đó là một tạo tác phẩm cấp Thần đấy."
 
@@ -180,6 +180,6 @@ Yu IlHan thở dài khi nhìn một Orochi đang ngơ ngác và một Mystic m�
 
 Yu IlHan cất tiếng bằng một giọng nghiêm túc hơn bao giờ hết.
 
-"Đó là cuộc phản công chống lại toàn bộ những điềm báo và âm mưu tồn tại trên thế giới này."
+"Đó là cuộc phản công chống lại toàn bộ những phục bút và âm mưu tồn tại trên thế giới này."
 
 [← Chương trước](Chapter_316.md) | [Chương tiếp theo →](Chapter_318.md)

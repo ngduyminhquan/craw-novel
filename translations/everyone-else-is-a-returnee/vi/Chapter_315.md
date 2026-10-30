@@ -34,7 +34,7 @@ Trong game hay tiểu thuyết, nhân vật chính hoặc là luôn mạnh mẽ,
 
 Nhờ vậy, người chơi cũng sẽ hoảng loạn, còn các nhân vật chính cũng sẽ phải chịu một cú giáng nặng nề rồi nghiến răng nghiến lợi quyết tâm báo thù – đây là một mô-típ cốt truyện vô cùng rập khuôn, nhưng dẫu sao thì nó vẫn rất cuốn hút.
 
-"Thế nhưng, bị bất ngờ kiểu đó ngoài đời thực thì khó chịu lắm, ngươi hiểu chứ? Đó là lý do chúng ta không bao giờ được thân thiện với sự bất cẩn. Chúng ta luôn phải chuẩn bị cho những gì có thể ập đến sau đó."
+"Thế nhưng, bị bất ngờ kiểu đó ngoài đời thực thì khó chịu lắm, ngươi hiểu chứ? Đó là lý do chúng ta không bao giờ được làm bạn với sự bất cẩn. Chúng ta luôn phải chuẩn bị cho những gì có thể ập đến sau đó."
 
 [Dẫu đây chẳng phải điều mà kẻ mang danh Tuyệt Vọng Chi Long như ta nên nói, nhưng thưa Chúa Tể, ngài đã sống một cuộc đời vất vả thật đấy.]
 
@@ -102,7 +102,7 @@ Nghe cái đó thì có khác gì mấy so với những gì tên 'Thượng Đ�
 
 Thời điểm Yu IlHan giải trừ kỹ năng Hiển Hiện là 32 giờ sau đó. Lúc này, bầy rồng cùng các sinh vật Long tộc khác đã tăng cấp khá nhiều nhờ tiêu diệt vô số quái vật khác, nên chúng đã có thể tự mình đối đầu với đám quái vật còn lại mà không cần anh phải dùng kỹ năng hỗ trợ nữa.
 
-[Anh yêu, lại có chuyện gì xảy ra sao?]
+[Chàng à, lại có chuyện gì xảy ra sao?]
 
 [IlHan? Cậu lại cần phải đi đâu nữa à?]
 
