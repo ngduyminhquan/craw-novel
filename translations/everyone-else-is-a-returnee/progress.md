@@ -353,7 +353,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | reviewed |  |
 | 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | reviewed |  |
 | 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | done |  |
-| 349 | 347 | Chapter_349 - Chapter 347_ Sole God – 8.txt | Sole God – 8 | todo |  |
+| 349 | 347 | Chapter_349 - Chapter 347_ Sole God – 8.txt | Sole God – 8 | done |  |
 | 350 | 348 | Chapter_350 - Chapter 348_ Epilogue.txt | Epilogue | todo |  |
 | 351 |  | Chapter_351 - Extra  1_ Graduating Lonership, Entering Marriage.txt | Extra  1_ Graduating Lonership, Entering Marriage | todo |  |
 | 352 |  | Chapter_352 - Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected.txt | Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected | todo |  |

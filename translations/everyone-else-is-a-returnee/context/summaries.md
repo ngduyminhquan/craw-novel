@@ -2131,3 +2131,10 @@ Yu IlHan cùng toàn quân Long Sào tiến vào Thiên giới và bắt gặp c
 Yu IlHan thản nhiên vạch trần chân tướng Greed chính là Thượng Đế Thiên giới dựa trên dấu vết sức mạnh thần thánh từ mảnh thịt trong dạ dày Greed và kho lưu trữ ghi chép của các thần được ghi chép mà anh cùng Kang MiRae đã triệt hạ, khiến Satan cười phá lên vì kế hoạch của Thượng Đế đã bị phá hỏng hoàn toàn.
 Yu IlHan hóa giải đòn tấn công của Satan nhắm vào Uriel và suy luận ra chân tướng then chốt: để tiêu diệt Thượng Đế vĩnh viễn thì cả 5 kẻ từng cướp chia sẻ sức mạnh của Ngài (tứ đại thiên thần và Lucifer) đều buộc phải chết, khiến Satan bất lực thừa nhận sự thật.
 Cảnh kết thúc: Bức Tường Hỗn Loạn sụp đổ khi Michael bị tiêu diệt hoàn toàn và Thượng Đế thu hồi toàn bộ sức mạnh để chuẩn bị bước vào trận quyết chiến cuối cùng.
+
+## 349
+Satan giải thích việc mưu sát Thượng Đế năm xưa thất bại là do năng lực tước đoạt của Michael không hoàn hảo khiến 5 kẻ cướp sức mạnh bị ràng buộc phải chết cùng Thượng Đế, đồng thời thừa nhận cố tình dàn dựng cục diện để Gabriel, Uriel và chính hắn bị giết nhằm mượn tay Yu IlHan tiêu diệt Thượng Đế.
+Yu IlHan đưa Gabriel (đang ẩn thân làm người thường tại Thiên giới) tái xuất và chứng minh thực lực Chúa Tể Long Sào khi dễ dàng thuần hóa, chuyển hóa sức mạnh Thượng Đế từ Uriel thành của riêng mình, khiến cả Gabriel lẫn Satan hoàn toàn tâm phục khẩu phục trao trọn quyền quyết định cho anh.
+Yu IlHan kích hoạt kỹ năng Tuyên Cáo kết hợp thành phố trên không và các pháo đài để mở màn cuộc phản công.
+Ở phía bên kia, Thượng Đế sau khi nuốt chửng Michael đang hân hoan chuẩn bị tiêu diệt tất cả thì bàng hoàng phát hiện kho ghi chép trong dạ dày mình đã bị xâm nhập và bầy thuộc hạ không còn phản hồi.
+Cảnh kết thúc: Giữa lúc Thượng Đế sững sờ trước thông báo [Chí Mạng!], Yu IlHan bất ngờ xuất hiện buông lời mỉa mai chúc một ngày đẹp trời để bỏ mạng khi chính Thượng Đế mới là kẻ vừa trúng đòn.
