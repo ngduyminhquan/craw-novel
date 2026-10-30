@@ -2039,6 +2039,13 @@ Nhờ lượng kinh nghiệm khổng lồ từ việc quét sạch hàng ngàn t
 Nhận ra các vị thần được ghi chép từng bị Quân Đội Ánh Sáng Rực Rỡ giam cầm và cha mẹ đang gặp nguy trước Satan cùng Lazière, Yu IlHan dùng Dịch Chuyển triệu hồi cả hai nhưng Gabriel từ chối để ở lại cầm chân kẻ địch, khiến chỉ có Kim YeSeul (đã đạt chuyển chức 6) xuất hiện.
 Cảnh kết thúc: Kim YeSeul đau lòng báo tin Gabriel ở lại cản địch khiến Yu IlHan gào thét vì điềm báo tử lộ liễu, trong khi một biến cố kinh hoàng như địa ngục bất ngờ bùng nổ ở một góc thế giới Daréu.
 
+## 334
+Tại Khu Vườn Khe Nứt, Gabriel quyết chiến cầm chân Satan và quét sạch bầy Legna, khẳng định Yu IlHan sẽ vượt qua Thượng Đế để trở thành Kẻ Sáng Tạo mới; Satan bị Yu IlHan tước đoạt lượng lớn sức mạnh và ghi chép từ các thế giới bậc cao nhưng vẫn đánh bại Gabriel nhờ lợi thế sức mạnh.
+Satan gặp mặt Thượng Đế báo tin đã trừ khử Gabriel nhưng từ chối giao thi thể, đồng thời mỉa mai tình trạng thương tật cùng dã tâm tạo dựng thế giới mới của Thượng Đế trước thềm đại chiến.
+Tại Daréu, Yu IlHan dùng mana thanh tẩy và dung hợp góc thế giới hỗn loạn bị nôn tháo từ đòn Quỹ Đạo Ngân Hà, đồng thời trấn an mẹ Kim YeSeul và nghe bà kể về thời gian dài chiến đấu gian khổ ở thế giới chính nhờ ma pháp thời không của Gabriel.
+Cảnh kết thúc: Yu IlHan tiếc nuối vì không thể tung thêm đòn Final Buster sau Đại Tai Biến lần 8, trong khi Kang MiRae mỉm cười giơ trượng mở ra hàng trăm cánh cổng mới theo yêu cầu hoàn tất công việc.
+
+
 
 
 

@@ -541,3 +541,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael | Boomer’ol | ta | ngươi | 331 | Michael tức giận đáp trả Boomer’ol |
 | Siferai | Michael | ta | ngươi / Michael / thiên thần | 331 | Siferai liều mình giao chiến và mỉa mai Michael |
 | Michael | Siferai | ta | ngươi / kẻ ngu muội | 331 | Michael đối đáp và thiêu cháy Siferai |
+| Satan | God | ta | ngươi / lão già / ông / ngài (mỉa mai) | 334 | Satan báo cáo và châm chọc Thượng Đế sau khi trừ khử Gabriel |
+| God | Satan | ta | ngươi / Lucifer | 334 | Thượng Đế chất vấn và ra lệnh cho Satan mang thi thể Gabriel về |
