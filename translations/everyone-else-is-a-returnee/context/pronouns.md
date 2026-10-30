@@ -92,6 +92,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lemiel | hắn / Lemiel / đại thiên thần Lemiel | 285 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới |
 | Michael | Michael / đại thiên thần Michael | 289 | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 | Raphael | Raphael / đại thiên thần Raphael | 289 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu) |
+| Daiel | hắn / Daiel / gã | 293 | Thiên thần chuyển chức 7 tại Feira, kẻ phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ |
+| Gabriel | Gabriel / đại thiên thần Gabriel | 293 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 
 ## Giữa các nhân vật
 
@@ -446,3 +448,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Erta | Lemiel | tôi | ông | 285 | Erta đáp trả Lemiel |
 | Helièna | Lemiel | ta | ngươi / tên đầu óc cơ bắp | 285 | Helièna nhận xét và cảnh báo về Lemiel |
 | Lemiel | Satan | ta | Chúa Tể Satan / Ngài | 287 | Lemiel tôn xưng Satan là Kẻ Đại Phản Bội và Vị Thần Cuối Cùng |
+| Daiel | Raphael | thuộc hạ / tôi | Ngài Raphael | 293 | Daiel giả vờ kính cẩn thỉnh cầu Raphael |
+| Raphael | Daiel | ta | ngươi / Daiel | 293 | Raphael đối đáp và răn dạy Daiel |

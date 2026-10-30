@@ -782,3 +782,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Great Lord of Black Wings |  | Đại Chúa Tể Đôi Cánh Đen | danh hiệu | 289 | Danh xưng tôn sùng các thiên thần sa ngã dùng để gọi Chúa Tể Satan |
 | Raphael of Healing |  | Raphael Trị Liệu | danh hiệu | 289 | Danh xưng của Raphael, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 | four Great Archangels | Great Archangels | tứ Đại Thiên Thần | cấp bậc | 288 | Bốn vị đại thiên thần quyền lực tối cao lãnh đạo Quân Đội Thiên Giới |
+| The Great One | Great One | Đấng Vĩ Đại | danh hiệu | 293 | Danh xưng tôn sùng các thiên thần sa ngã dùng để gọi Chúa Tể Satan |

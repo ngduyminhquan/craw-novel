@@ -1781,3 +1781,8 @@ Yu IlHan phong tỏa hoàn toàn thế giới Wirepa bằng Chúa Tể Thứ Ngu
 Liera cảnh báo IlHan về thực lực tiệm cận chuyển chức 8 của Đại thiên thần ngọn lửa Michael (nhân vật số 2 của Quân Đội Thiên Giới); IlHan cùng Liera và Yumir tiếp tục dùng Ký Lục và Dịch Chuyển càn quét nội gián qua hơn 20 thế giới bậc cao khác, nâng Đọa Lạc lên cấp 68 và Dịch Chuyển lên cấp 84.
 Nhóm ba người đặt chân tới thế giới Feira sắp trải qua Đại Tai Biến lần 7 với hơn 1.000 kẻ phản bội cùng một kẻ chuyển chức 7; IlHan lập tức ra tay tàn sát để khiêu chiến đối thủ.
 Cảnh kết thúc: Giữa lúc Yu IlHan đang đồ sát lũ phản bội, Raphael Trị Liệu – một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới – bất ngờ giáng lâm xuống thế giới Feira khiến toàn bộ thiên thần nơi đây rúng động.
+
+## 293
+Yu IlHan âm thầm phóng hỏa thương tiêu diệt các thiên thần phản bội tại thế giới Feira ngay trước mắt Đại thiên thần Raphael; nhận thấy kẻ bí ẩn đang giúp thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ mà không làm tổn hại Thiên giới, Raphael cấm toàn bộ thiên thần can thiệp và phớt lờ lời hối thúc truy bắt của Daiel.
+Bị dồn vào đường cùng, 32 kẻ phản bội chuyển chức 6 đồng loạt kích hoạt ma pháp dịch chuyển tập thể toan đào tẩu về với Satan; Raphael mượn mana của cả thế giới Feira giáng sóng xung kích bẻ gãy ma pháp dịch chuyển, phong tỏa lối thoát và ngưng tụ phong kiếm chứa hỏa lực cùng các thiên thần trung thành tàn sát lũ phản bội.
+Cảnh kết thúc: Lợi dụng lúc Raphael đang bận tiêu diệt nhóm phản bội chuyển chức 6, Daiel toan dồn toàn lực đánh lén Raphael để mở đường đào tẩu thì bất ngờ bị Yu IlHan phối hợp cùng Yumir tung 12 đòn Bất Khả Họa Quỹ Đạo Thương trùng điệp cắm ngọn thương xuyên thủng cơ thể.
