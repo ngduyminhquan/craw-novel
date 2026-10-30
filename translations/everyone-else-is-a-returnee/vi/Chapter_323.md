@@ -56,7 +56,7 @@ Chà, hiển nhiên rồi, bởi vì thân thể của chúng đang bị cắt t
 
 [Ch.......]
 
-Ngang, dọc, chéo, từ dưới lên, từ trên xuống, tựa như những nhát dao ấn và lướt qua rau củ trên thớt, vô số quỹ đạo ập vào băm vằn chúng ra.
+Ngang, dọc, chéo, từ dưới lên, từ trên xuống, tựa như những nhát dao ấn và lướt qua rau củ trên thớt, vô số quỹ đạo ập vào băm vằm chúng ra.
 
 Bất khả thi với mana ư? Uy lực của mana khác biệt một trời một vực tùy thuộc vào người sử dụng. Làm sao chúng có thể chịu nổi khi đã bị ma pháp không gian của Kang MiRae biến thành tổ ong vò vẽ chứ? Hơn nữa, chừng nào nguồn năng lượng chúng dùng còn bắt nguồn từ linh hồn, chúng sẽ không thể ngó lơ sức mạnh thao túng tinh hoa linh hồn của Yu IlHan.
 
@@ -196,7 +196,7 @@ Mọi lời phản đối đều bị gạt phắt đi. Yu IlHan nhìn quanh b�
 
 Đúng như mọi khi, chẳng có chút ước mơ hay hy vọng nào trong kịch bản này cả.
 
-"Trước hết, bố nói sẽ biến đám lính quàng xiên của Khu Vườn Hoàng Hôn thành một lực lượng hữu dụng đôi chút......."
+"Trước hết, bố nói sẽ biến đám lâu la của Khu Vườn Hoàng Hôn thành một lực lượng hữu dụng đôi chút......."
 
 [Con trai à, bố thấy con đang lồng định kiến cố hữu vào từng câu chữ đấy.]
 
@@ -308,7 +308,7 @@ Khóe môi Yu IlHan nhếch lên thành một nụ cười khi anh kích hoạt 
 
 "Uaaa, chúng ta đi thật này!"
 
-"Ufufufu, thế này là tuyệt nhất trần đời!"
+"Hì hì hì, thế này là tuyệt nhất trần đời!"
 
 Pháo Đài Hộ Vệ hoàn toàn biến mất khỏi Daréu. Bức màn khai mở cho Harmageddon rốt cuộc cũng đã được kéo lên.
 

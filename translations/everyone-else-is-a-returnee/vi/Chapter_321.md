@@ -56,7 +56,7 @@ Dù vẫn đang cảnh giác đề phòng Uriel, anh đón lấy Bẫy Phục H�
 
 "Chẳng phải ngài sinh ra đã cao quý ngút trời rồi sao, chủ nhân hả? Thật không ngờ ngài lại là thiếu gia của một trong tứ Đại Thiên Thần đấy!"
 
-"Nhưng không giống ai đó vừa sinh ra đã là thực thể cấp cao, ta sinh ra chỉ là một con người cấp 1 đến cả mana cũng chẳng thể sử dụng."
+"Nhưng không giống ai đó vừa sinh ra đã là thực thể cấp cao, tôi sinh ra chỉ là một con người cấp 1 đến cả mana cũng chẳng thể sử dụng."
 
 "Thìa đất thì trật tự đi mà kích hoạt Bẫy giùm cái."
 
@@ -64,7 +64,7 @@ Dù vẫn đang cảnh giác đề phòng Uriel, anh đón lấy Bẫy Phục H�
 
 "Khoan đã, thìa đất. Đã đến nước này rồi thì làm thêm một việc nữa đi."
 
-"Ta không phải thìa đất! Cái đồ đáng ghét này!"
+"Tôi không phải thìa đất! Cái đồ đáng ghét này!"
 
 Yu IlHan lập tức kích hoạt năng lực sáng tạo của mình để bổ sung thêm một thứ mới mẻ vào Bẫy Phục Hồi. Đón nhận chiếc bẫy, Mystic liền nhận ra sự biến chuyển và trợn tròn mắt.
 
@@ -86,7 +86,7 @@ Kế đó, nó giải phóng toàn bộ quái vật bị giam giữ bên trong.
 
 [Con trai!?]
 
-Chẳng riêng gì Uriel và Orochi, ngay cả Gabriel với năng lực tiên tri của mình cũng chưa từng nhìn thấy cảnh tượng này, liền kinh ngạc thốt lên gọi anh. Thế nhưng, Yu IlHan chỉ khịt mũi trước phản ứng của họ rồi bước lên một bước, đồng thời kích hoạt Hiển Hiện và Tuyên Cáo cùng một lúc. Lẽ dĩ nhiên, anh đã sớm giải trừ ẩn thân từ trước.
+Chẳng riêng gì Uriel và Orochi, ngay cả Gabriel với năng lực tiên tri của mình cũng chưa từng nhìn thấy cảnh tượng này, liền kinh ngạc thốt lên gọi anh. Thế nhưng, Yu IlHan chỉ khịt mũi trước phản ứng của họ rồi bước lên một bước, đồng thời kích hoạt Hiển Hiện và Tuyên Cáo. Lẽ dĩ nhiên, anh đã sớm giải trừ ẩn thân từ trước.
 
 [Hãy nhìn ta.]
 
@@ -94,7 +94,7 @@ Với sự trợ lực của Hiển Hiện, phạm vi tác động của Tuyên 
 
 [Những kẻ mang dã tâm với nhân loại. Những kẻ mang lòng thù địch với sự tồn vong của loài người. Những kẻ khao khát lớn mạnh bằng cách thèm muốn da thịt của những sinh linh mà ta muốn chở che.]
 
-Lời Tuyên Cáo của anh vẫn tiếp tục. Nguồn mana khổng lồ mà anh sở hữu trong chốc lát đã cạn kiệt, nhưng bằng cách uống ngụm Hơi Thở nấu từ máu của Echjar, anh đã nói nốt những lời cuối cùng.
+Lời Tuyên Cáo của anh vẫn tiếp tục. Nguồn mana khổng lồ mà anh sở hữu trong chốc lát đã gần như cạn kiệt, nhưng nhờ uống ngụm Hơi Thở nấu từ máu của Echjar, anh đã nói nốt những lời cuối cùng.
 
 [Tất cả các ngươi, đều phải chết.]
 
@@ -174,7 +174,7 @@ Một người khác lên tiếng. Đó là một người đàn ông cô độc
 
 "Xin hãy dẫn dắt chúng tôi."
 
-Một người khác nữa cất tiếng. Đó là một bà lão cả đời làm lính đánh thuê chiến đấu với quái vật trước khi gục ngã giải nghệ sau khi mất đi một bên chân và những người thân yêu quan trọng nhất.
+Một người khác nữa cất tiếng. Đó là một bà lão cả đời làm lính đánh thuê chiến đấu với quái vật trước khi phải giải nghệ vì mất đi một bên chân cùng những người quan trọng nhất đối với mình.
 
 "Ta ghét cay ghét đắng những kẻ tìm cách giẫm đạp lên đầu chúng ta...... chết tiệt, xem ra chẳng còn cách nào khác."
 

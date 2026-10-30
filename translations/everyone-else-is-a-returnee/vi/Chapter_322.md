@@ -28,7 +28,7 @@ Những người mòn mỏi chờ đợi trong lúc anh bôn ba qua hơn ba vạ
 
 Liera rúc mặt vào lồng ngực anh một hồi lâu, nhưng rồi cô chợt nhận ra đi cùng Yu IlHan là một đôi nam nữ hoàn toàn xa lạ chứ không phải Orochi và Mystic.
 
-"Hở, khí tức này là...... Ngài Uriel và Ngài Gabriel của Tứ Đại Thiên Thần!? Sao lại ra nông nỗi này!?"
+"Hở, khí tức này là...... Ngài Uriel và Ngài Gabriel của tứ Đại Thiên Thần!? Sao lại ra nông nỗi này!?"
 
 "Cậu vừa giết một người xong lại bắt thêm hai người nữa làm con tin đấy à!?" — Yu IlHan cốc nhẹ vào trán Liera một cái, rồi vừa nhìn Gabriel vừa cất lời.
 
@@ -72,13 +72,13 @@ Bộ não Liera đình trệ mọi hoạt động vì quá tải khi cố chấp
 
 Nếu trước đây Kim YeSeul chịu gia nhập Khu Vườn Hoàng Hôn thì ông đã có thể giải thích ngọn ngành mọi chuyện cho bà, nhưng cũng nhờ cú thẳng thừng từ chối chỉ trong một nốt nhạc của bà mà ông đành phải sống xa vợ mà chẳng có lấy một giây phút nào để giãi bày.
 
-Vợ ông quả thực là một người phụ nữ vô cùng kiên định. Dù vậy, đó cũng chính là lý do khiến ông thực lòng say đắm bà dẫu bản thân là một trong Tứ Đại Thiên Thần...... nhưng cũng chính vì thế, ông mới càng thêm sợ hãi mỗi khi phải đối mặt với vợ mình.
+Vợ ông quả thực là một người phụ nữ vô cùng kiên định. Dù vậy, đó cũng chính là lý do khiến ông thực lòng say đắm bà dẫu bản thân là một trong tứ Đại Thiên Thần...... nhưng cũng chính vì thế, ông mới càng thêm sợ hãi mỗi khi phải đối mặt với vợ mình.
 
 Thế nhưng tấm khiên Aegis mà Yu IlHan gọi ra lại hoàn toàn phớt lờ nỗi ngập ngừng cùng cảm xúc của ông, lạnh lùng dẫn lối đưa ông tới nơi Kim YeSeul đang ở. Uriel lẽo đẽo bám theo sau cho đến khi bị ánh mắt sắc lẹm của Yu IlHan trừng cho một cái, đành ngoan ngoãn thụt lùi lại.
 
-"Một khi hai trong Tứ Đại Thiên Thần rời bỏ cương vị, chuyện này chắc chắn cũng đã bại lộ trước Quân Đội Thiên Giới rồi. Thế nhưng tại sao cô vẫn chưa bị đọa lạc thành một thực thể cấp thấp dẫu đã làm trái với giới luật của Thiên giới?"
+"Một khi hai trong tứ Đại Thiên Thần rời bỏ cương vị, chuyện này chắc chắn cũng đã bại lộ trước Quân Đội Thiên Giới rồi. Thế nhưng tại sao cô vẫn chưa bị đọa lạc thành một thực thể cấp thấp dẫu đã làm trái với giới luật của Thiên giới?"
 
-[Bởi vì kẻ chịu trách nhiệm giáng đòn đọa lạc khiến các thiên thần rơi xuống thành thực thể cấp thấp chính là Tứ Đại Thiên Thần.]
+[Bởi vì kẻ chịu trách nhiệm giáng đòn đọa lạc khiến các thiên thần rơi xuống thành thực thể cấp thấp chính là tứ Đại Thiên Thần.]
 
 Quá sức bá đạo. Bảo sao vấn nạn tham nhũng chưa bao giờ biến mất trên chính trường! Một khi chính những kẻ nắm quyền trừng trị tham nhũng lại là kẻ biến chất, thì làm sao cấp dưới chịu dừng tay cho được! Dĩ nhiên, điều này hiện tại lại đang giúp ích cho anh!
 
@@ -148,7 +148,7 @@ Trong lúc Yu IlHan và Orochi đang đồng thanh tâm đầu ý hợp, một t
 
 "Em à, xin hãy nhẹ tay với anh chút đi. Nhẹ thôi...... Ặc!"
 
-Một trong Tứ Đại Thiên Thần, Gabriel, đang phải chịu trận trước cơn mưa tát liên hoàn như súng liên thanh từ vợ mình. Nhìn thấy Uriel cứ giật thót mình mỗi khi da thịt chạm vào nhau tấu lên giai điệu bôm bốp, Yu IlHan hài lòng lẩm bẩm:
+Một trong tứ Đại Thiên Thần, Gabriel, đang phải chịu trận trước cơn mưa tát liên hoàn như súng liên thanh từ vợ mình. Nhìn thấy Uriel cứ giật thót mình mỗi khi da thịt chạm vào nhau tấu lên giai điệu bôm bốp, Yu IlHan hài lòng lẩm bẩm:
 
 "Mẹ tát thay phần con thêm một nghìn cái nữa nhé."
 
@@ -206,7 +206,7 @@ Anh vốn định hành động một khi mẹ mình nguôi giận đôi chút, 
 
 Dù mẹ anh giờ đây đã là một con rồng thực thụ thuộc Long Sào, và Yu IlHan là thủ lĩnh của thế lực ấy, Yu IlHan cũng chẳng thể nào làm trái ý mẹ mình. Quan hệ cha mẹ con cái xưa nay chẳng phải đều như thế hay sao?
 
-Huống hồ cơn thịnh nộ của mẹ anh lại đang trút thẳng lên đầu bố anh. Không những anh chẳng thể can ngăn, mà bản thân anh cũng chẳng hề có ý định làm thế. Yu IlHan quyết định bình thản đứng chờ cho đến khi bố mẹ kết thúc sự kiện đoàn tụ của họ. Thế nhưng đúng vào cái lúc dầu sôi lửa bỏng ấy, anh có thể cảm nhận được những kẻ xấc xược đang toan tính xâm nhập vào Daréu.
+Huống hồ cơn thịnh nộ của mẹ anh lại đang trút thẳng lên đầu bố anh. Không những anh chẳng thể can ngăn, mà bản thân anh cũng chẳng hề có ý định làm thế. Yu IlHan quyết định bình thản đứng chờ cho đến khi bố mẹ kết thúc sự kiện đoàn tụ của họ. Thế nhưng đúng vào cái thời điểm đẹp trời như thế, anh lại cảm nhận được những kẻ xấc xược đang toan tính xâm nhập vào Daréu.
 
 [Những kẻ dị thường, trở ngại lớn nhất cho kế hoạch.]
 
@@ -228,6 +228,6 @@ Có hơn hai mươi con Legna đã xâm lăng Daréu. Trọn vẹn hai mươi ba
 
 Dĩ nhiên, góc nhìn của Yu IlHan về bọn chúng lại có đôi chút khác biệt. Anh mỉm cười và bay lên giữa không trung đối mặt với những kẻ xâm lược bất lịch sự. Anh gào to về phía 'Thượng Đế Thiên giới', kẻ chắc chắn đang lén lút dòm ngó anh đằng sau lưng bọn chúng:
 
-"Nếu muốn đánh bại ta, thì hãy mang số quân đông gấp khoảng ba ngàn lần chỗ này tới đây! Nhào vô kiếm ăn mau!"
+"Nếu muốn đánh bại ta, thì hãy mang số quân đông gấp khoảng ba ngàn lần chỗ này tới đây! Nhào vô đây mau!"
 
 [← Chương trước](Chapter_321.md) | [Chương tiếp theo →](Chapter_323.md)

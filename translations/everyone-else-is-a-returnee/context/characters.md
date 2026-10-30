@@ -293,6 +293,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 281: Hoàn thành khoảng mười đợt đặc huấn trong kết giới Đồng Hồ Cát Vĩnh Hằng nhưng vẫn chưa thể đột phá lên thực thể cấp cao do thiếu yếu tố quyết định; cứu hộ tàn dư các thế giới diệt vong và tộc elf đưa về Trái Đất; phát hiện dấu hiệu Quân Đội Thiên Giới hoàn toàn biến mất ở khắp các thế giới; quyết định cần phải thu thập thêm ký lục của các thực thể cấp cao.
 - Trạng thái tính đến chương 284: Dẫn đầu hai đại pháo đài cùng hạm đội thực thể cấp thấp mang trang bị Sử Thi tập kích thế giới bậc cao Louisa của Khu Vườn Hoàng Hôn; gom Thiên Nhãn bắn hạ toàn bộ viện binh chuyển chức 5 và 6, nâng Ký Lục lên cấp 84 và Chúa Tể Thứ Nguyên lên cấp 64, giành được quyền thống trị thế giới Louisa.
 - Trạng thái tính đến chương 297: Hoàn thành quá trình tự tái sinh bản ngã trong Cái Nôi Kỳ Tích; hấp thụ toàn bộ ngọn giáo lửa của Michael; dung hợp toàn bộ chức nghiệp và kỹ năng cũ để tạo ra các kỹ năng mới gồm Tuyên Cáo, Hiển Hiện và Siêu Việt Quỹ Đạo; chính thức thức tỉnh thành thực thể cấp cao ở cấp độ 519 và trở thành Chúa Tể Long Sào; tuyệt đối áp chế và tước quyền thao túng ngọn lửa của Đại thiên thần Michael.
+- Trạng thái tính đến chương 323: Đạt cấp độ 536 sau khi quét sạch 23 Legna; thăng lên cấp 554 sau khi Uriel tái sinh chia sẻ ký lục; kỹ năng Tuyên Cáo đạt cấp 71, Siêu Việt Quỹ Đạo đạt cấp 24, Hiển Hiện đạt cấp 32; phát động "Chiến Dịch Cuối Cùng" mang theo quân đoàn rồng tiến đánh Thiên giới.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -611,6 +612,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 122–123: Cả 4 elf nâng kỹ năng Giải Phẫu lên cấp 65; riêng Phiria kỹ năng Giải Phẫu vượt qua cấp 76, sẵn sàng thử sức với thi thể quái vật chuyển chức 4.
 - Trạng thái tính đến chương 227: Phiria đạt cấp độ 182 với chức nghiệp Ảnh Đạo Tặc (Shadow Thief), trang bị phẩm cấp Truyền Thuyết; tử trận tại Daréu trong bối cảnh thế giới này thăng cấp thành thế giới bậc cao sau Đại Tai Biến lần 5.
 - Trạng thái tính đến chương 239: Paté cùng tộc elf và Lang tộc phối hợp hạ sát một thực thể cấp cao của Quân Đội Ma Hủy Diệt; vô tình kích hoạt dòng thuộc tính của Quỹ Đạo Tử Thần hồi sinh kẻ đó thành undead phục tùng; chiến công vượt cấp giúp Paté đột phá chuyển chức lần 4 thành Cung Thủ Định Mệnh (Destiny Archer), vũ khí tiến hóa lên phẩm cấp Hỗn Loạn và được Thần Lời Nguyền nhắm ban phước.
+- Trạng thái tính đến chương 323: Đạt chân long cấp 5, chỉ huy undead cấp 6 trở lên, được Yu IlHan ban tạo tác lông vũ phẩm cấp Thần và giao chỉ huy nhóm elf về bảo vệ Trái Đất.
 
 ### Lang tộc Kiroa
 - Vai trò, chủng tộc: Chủng tộc người sói đến từ thế giới Kiroa, đứng đầu bởi Công chúa Erica và Hộ Vệ Hoàng Gia Flemir; đã quy phục Yu IlHan, hỗ trợ xây dựng và bảo vệ căn cứ tại Trái Đất cũng như Daréu.

@@ -325,9 +325,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 318 | 316 | Chapter_318 - Chapter 316_ You Are The Same As Me – 8.txt | You Are The Same As Me – 8 | reviewed |  |
 | 319 | 317 | Chapter_319 - Chapter 317_ I’m One That Closes The Curtain – 1.txt | I’m One That Closes The Curtain – 1 | reviewed |  |
 | 320 | 318 | Chapter_320 - Chapter 318_ I’m One That Closes The Curtain – 2.txt | I’m One That Closes The Curtain – 2 | reviewed |  |
-| 321 | 319 | Chapter_321 - Chapter 319_ I’m One That Closes The Curtain – 3.txt | I’m One That Closes The Curtain – 3 | done |  |
-| 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | done |  |
-| 323 | 321 | Chapter_323 - Chapter 321_ I’m One That Closes The Curtain – 5.txt | I’m One That Closes The Curtain – 5 | done |  |
+| 321 | 319 | Chapter_321 - Chapter 319_ I’m One That Closes The Curtain – 3.txt | I’m One That Closes The Curtain – 3 | reviewed |  |
+| 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | reviewed |  |
+| 323 | 321 | Chapter_323 - Chapter 321_ I’m One That Closes The Curtain – 5.txt | I’m One That Closes The Curtain – 5 | reviewed |  |
 | 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | todo |  |
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | todo |  |
 | 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | todo |  |
@@ -1038,3 +1038,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#323] Dịch "Archlegna / Archlegnae" (sinh thể cấp cao hơn Legna do Thượng Đế tạo ra) — Tạm chọn: "Archlegna" (giữ nguyên danh xưng quái vật như Legna, số nhiều Archlegnae đưa vào Alias). Phương án khác: "Đại Legna". → Giữ nguyên Archlegna (nhất quán với việc giữ nguyên Legna). (orchestrator)
 - [#323] Dịch mật danh "Final Operation" — Tạm chọn: "Chiến Dịch Cuối Cùng". Phương án khác: giữ nguyên tiếng Anh "Final Operation". → Giữ Chiến Dịch Cuối Cùng. (orchestrator)
 - [#323] Dịch điển tích "The Emille bell" — Tạm chọn: "Chuông Emille". Phương án khác: "Chuông Thần Emille". → Giữ Chuông Emille. (orchestrator)
+- [#322 đoạn 115] Câu thách thức Come at me! của Yu IlHan → Sửa thành Nhào vô đây mau! để sát nghĩa raw và giữ khí thế khiêu khích. (orchestrator)
+- [#323 đoạn 155] Tiếng cười Ufufufu của Helièna → Sửa thành Hì hì hì theo quy ước Việt hóa từ cảm thán Fufu trong style.md. (orchestrator)
