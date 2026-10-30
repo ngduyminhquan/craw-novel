@@ -769,3 +769,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Creation |  | Sáng Tạo | khác | 278 | Cảnh giới chuyển hóa Hỗn Loạn thành Khai Sinh |
 | Body of the Human Dragon |  | Nhân Long Thân | vật phẩm | 279 | Ngoại giáp phẩm cấp Thần rèn từ xương Echjar, Trái Tim Rồng, tàn tích Ý Chí Hỗn Loạn, một nửa Hỏa Ngục Long Thân cùng Orochi |
 | Flamesoul Dragon body | Flamesoul Dragon | Hỏa Hồn Long Thân | vật phẩm | 279 | Bộ giáp phẩm cấp Vĩnh Cửu dung hợp giữa Hỏa Hồn và Nhân Long Thân |
+| Ice demon |  | Ác Ma Băng | quái vật | 280 | Quái vật ác ma hệ băng được Erta triệu hồi làm đối thủ huấn luyện |

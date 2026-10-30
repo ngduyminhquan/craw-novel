@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T03:50:13Z",
+  "generatedAt": "2026-10-30T03:57:55Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1679,8 +1679,19 @@
           "title": "Chương 279: Tại Sao Chỉ Có Mình Tôi? – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_279.md",
           "sha": "9512da5a9e58b51fd3ce3625509af1583e9604a9"
+        },
+        {
+          "number": 280,
+          "title": "Chương 280: Tại Sao Chỉ Có Mình Tôi? – 7",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_280.md",
+          "sha": "7bcd780ba1e7479e430709465a0b2c30ffa937c3"
         }
       ]
+    },
+    {
+      "slug": "the-unwanted-undead-adventurer",
+      "title": "the-unwanted-undead-adventurer",
+      "chapters": []
     },
     {
       "slug": "tieng-goi-noi-hoang-da",

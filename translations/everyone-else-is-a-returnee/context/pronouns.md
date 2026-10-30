@@ -421,3 +421,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Helièna | tôi | cô | 277 | Liera tuyên bố chủ quyền Yu IlHan trước sự ve vãn của Helièna |
 | Eternal Flame | Yu IlHan | em | chủ nhân | 278 | Ý chí của Ngọn Lửa Vĩnh Cửu thức tỉnh và cất tiếng nói chuyện với Yu IlHan |
 | Yu IlHan | Eternal Flame | ta / tôi | em / Ngọn Lửa Vĩnh Cửu | 278 | Yu IlHan đối thoại với ý chí của Ngọn Lửa Vĩnh Cửu |
+| Michael Smithson | Carina Malatesta | tôi | Carina / em | 280 | Michael thổ lộ sẽ trở thành tấm khiên bảo vệ Carina |
+| Carina Malatesta | Michael Smithson | tôi / em | anh / anh yêu | 280 | Carina xưng hô âu yếm với Michael |
+| Echjar | Yu IlHan | ta | chủ nhân / ngươi | 280 | Sau khi bị Thống Trị, thừa nhận IlHan là chủ nhân |
+| Erta | Takagaki Asuha | tôi | cô / Takagaki Asuha | 280 | Erta huấn luyện các chủ clan |
+| Takagaki Asuha | Erta | tôi | Erta | 280 | Takagaki Asuha được Erta huấn luyện |
+| Erta | Michael Smithson | tôi | Michael / các cậu | 280 | Erta huấn luyện các chủ clan |
+| Michael Smithson | Erta | tôi | Erta | 280 | Michael Smithson được Erta huấn luyện |
+| Erta | Carina Malatesta | tôi | Carina / các cậu | 280 | Erta huấn luyện các chủ clan |
+| Carina Malatesta | Erta | tôi | Erta | 280 | Carina Malatesta được Erta huấn luyện |

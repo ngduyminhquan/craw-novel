@@ -1722,3 +1722,8 @@ Anh dung hợp Hỏa Hồn và Nhân Long Thân thành bộ giáp phẩm cấp V
 Yu IlHan gọi ra ngọn trường thương đen pha đỏ mới toanh và muốn đấu tập để rèn luyện Đại Đoạn Vũ Trụ Thương nhưng ai nấy đều sợ hãi co rúm từ chối.
 Cảnh kết thúc: Yu IlHan lấy tàn tích thân xác còn lại của Echjar, chế một chiếc búa mới từ xương rồng và chuẩn bị hồi sinh Echjar thành một sinh vật bé nhỏ dễ thương để đấu tập và thu phục nó dưới quyền Thống Trị.
 
+## 280
+Ba chủ clan phối hợp hạ gục Ác Ma Băng sau trận chiến ác liệt dưới sự hỗ trợ của Na YuNa và Erta; Takagaki Asuha đạt cấp 250, trong khi Michael Smithson chấp nhận thua kém Yu IlHan và nguyện làm tấm khiên bảo vệ Carina Malatesta.
+Trong suốt một năm ba tháng liên tục không ngủ trong kết giới, Yu IlHan dùng Đại Đoạn Vũ Trụ Thương cùng những lời khiêu khích chà đạp thể xác và bẻ gãy hoàn toàn ý chí của con rồng chuyển chức 7 Echjar.
+Echjar buộc phải nhận thua, thừa nhận Yu IlHan là kẻ thống trị muôn loài rồng và trở thành thuộc hạ của anh dưới kỹ năng Thống Trị; Yu IlHan kích hoạt 'Sáng Tạo' hoán đổi Orochi sang thân xác rồng của Echjar và đưa Echjar vào Nhân Long Thân.
+Cảnh kết thúc: Orochi xin Yu IlHan biến thân xác rồng thành dạng người khiến Mystic ghen tị vòi vĩnh đòi một cơ thể bé gái dễ thương; Yu IlHan bật cười cầm búa chuẩn bị tạo tác kiệt tác tiếp theo trong một tháng cuối cùng trước khi kết giới giải trừ.
