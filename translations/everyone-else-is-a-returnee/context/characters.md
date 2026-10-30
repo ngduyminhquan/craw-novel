@@ -146,6 +146,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Adrian |  | Adrian | Con trai của Lucifer và Lazière, hiếu thắng và muốn vượt qua kẻ mạnh | 353 |
 | Ariel |  | Ariel | Con gái của Lucifer và Lazière, hiếu thắng và muốn vượt qua kẻ mạnh | 353 |
 | The Angel | Angel; female angel | Nữ thiên thần | Thiên thần của Thượng Đế giáng trần gặp Yu IlHan thời cấp ba tại Jeju để giao nhiệm vụ tiêu diệt các sinh vật dị thường | 357 |
+| Min Ha-Yul | Ha-Yul; Min Hayul | Min Ha-Yul | Nữ sinh cùng trường cấp ba với Yu IlHan trong chuyến dã ngoại tại Jeju, xinh đẹp, nổi tiếng | 359 |
+| Chu Do-Bin | Chu Do-bin | Chu Do-Bin | Nam sinh lớp 3 cùng trường cấp ba với Yu IlHan, người tỏ tình với Min Ha-Yul và bị từ chối | 359 |
 
 ## Chi tiết
 
@@ -1166,4 +1168,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### The Angel
 - Giới tính, vai trò: Nữ, thiên thần giáng trần theo mệnh lệnh của Thượng Đế.
 - Đặc điểm: Xinh đẹp, uy nghiêm, có đôi cánh lớn tỏa sáng; biết rõ về Yu IlHan và khả năng đặc biệt của anh; đưa IlHan đi tiêu diệt các sinh vật dị thường tiến hóa sớm bằng Thương Longinus.
+
+### Min Ha-Yul
+- Giới tính, vai trò: Nữ, bạn học cùng trường cấp ba của Yu IlHan trong chuyến dã ngoại đảo Jeju.
+- Đặc điểm: Xinh đẹp, da trắng, má ửng hồng, được nhiều nam sinh theo đuổi; chủ động tiếp cận bắt chuyện và đưa cà phê lon cho Yu IlHan.
+
+### Chu Do-Bin
+- Giới tính, vai trò: Nam, bạn học lớp 3 cùng trường cấp ba với Yu IlHan trong chuyến dã ngoại đảo Jeju.
+- Đặc điểm: Có biệt danh là Đậu Phụ Thối (Chui Tofu), đem lòng thích Min Ha-Yul và bị cô từ chối.
 

@@ -363,11 +363,10 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | reviewed |  |
 | 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | done |  |
 | 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | done |  |
-| 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | todo |  |
+| 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | done |  |
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -1099,3 +1098,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#357] Thuật ngữ "Irregular Crisis" — Tạm chọn: "Khủng Hoảng Dị Thường" (theo gốc "irregular" = "kẻ dị thường" trong glossary). Phương án khác: "Khủng Hoảng Kẻ Dị Thường", "Biến Cố Dị Thường". → Chốt 'Khủng Hoảng Dị Thường'. (orchestrator)
 - [#357] Biệt danh Yu IlHan đặt thầm cho Na YuNa ("Ms. Blind") và Kang MiRae ("Ms. Cool") — Tạm chọn: "Cô Nàng Mù" và "Cô Nàng Lạnh Lùng". Phương án khác: "Cô Nàng Khiếm Thị", "Cô Nàng Băng Giá". → Chốt 'Cô Nàng Mù' và 'Cô Nàng Lạnh Lùng'. (orchestrator)
 - [#358] Tiêu đề dòng 1 chương 358: raw EN ghi 'Chapter 356: Secret File, Dark History - 3' (bỏ sót 'Apocrypha (3)' so với các chương 356, 357, 359 trong arc Ngoại Điển, và không có dòng tiêu đề phụ riêng trong thân bài như #356 và #357). Tạm chọn: '# Chương 358: Ngoại Điển (3) – Hồ Sơ Mật, Lịch Sử Đen Tối – 3' để vừa giữ mạch Ngoại Điển (1)-(5) vừa chuyển tải trọn vẹn tiêu đề 'Hồ Sơ Mật, Lịch Sử Đen Tối – 3'. Phương án khác: '# Chương 358: Ngoại Điển (3)' hoặc '# Chương 358: Hồ Sơ Mật, Lịch Sử Đen Tối – 3'. → Chốt '# Chương 358: Ngoại Điển (3) – Hồ Sơ Mật, Lịch Sử Đen Tối – 3'. (orchestrator)
+- [#359] Đoạn 20-21 và 66-68 raw EN gán nhầm thoại (Il-Han asked / the Angel replied thay vì Na YuNa và Kang MiRae bàn luận ở phòng bên) → tạm dùng: chỉnh người nói thành Na YuNa và Kang MiRae theo đúng ngữ cảnh và logic truyện. → Chấp nhận khôi phục đúng người nói là Na YuNa và Kang MiRae theo ngữ cảnh (bản EN tự thêm tag người nói bị nhầm). (orchestrator)

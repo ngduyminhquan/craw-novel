@@ -125,6 +125,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Irena | cô bé / Irena | 353 | Con gái của Paté và Mirfa |
 | Yu Jia | cô bé / Yu Jia | 353 | Con gái của Yu IlHan và Phiria |
 | The Angel | cô / nữ thiên thần / thiên thần | 357 | Nữ thiên thần giao nhiệm vụ cho Yu IlHan thời cấp ba tại Jeju |
+| Min Ha-Yul | cô / Ha-Yul / Min Ha-Yul | 359 | Nữ sinh cùng trường cấp ba với IlHan tại Jeju |
+| Chu Do-Bin | cậu ta / Chu Do-Bin | 359 | Nam sinh cùng trường cấp ba bị Ha-Yul từ chối |
 
 ## Giữa các nhân vật
 
@@ -638,4 +640,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Helièna | cháu | chị / cô | 356 | Yu IlHan thời tiểu học trong hồi tưởng |
 | Helièna | Yu IlHan | ta | nhóc / nhóc con / cậu bé / bé cưng | 356 | Helièna gặp gỡ Yu IlHan thời tiểu học trong hồi tưởng |
 | The Angel | Yu IlHan | ta | cậu / nhóc con / IlHan / Yoo Il-Han | 357 | Nữ thiên thần giao nhiệm vụ tiêu diệt sinh vật dị thường cho Yu IlHan tại Jeju |
-| Yu IlHan | The Angel | tôi | cô | 357 | Yu IlHan giao tiếp với nữ thiên thần thời cấp ba tại Jeju |
+| Yu IlHan | The Angel | tôi | cô / chị | 357 | Yu IlHan giao tiếp với nữ thiên thần thời cấp ba tại Jeju (đến #359 bắt đầu gọi là chị) |
+| Min Ha-Yul | Yu IlHan | tớ / mình | cậu / Yu IlHan | 359 | Bạn cùng trường cấp ba trong chuyến dã ngoại Jeju |
+| Yu IlHan | Min Ha-Yul | tôi / tớ | cậu | 359 | Bạn cùng trường cấp ba trong chuyến dã ngoại Jeju |

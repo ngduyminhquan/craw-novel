@@ -2195,4 +2195,11 @@ Nữ thiên thần giao cho IlHan ngọn Thương Longinus; IlHan tận dụng k
 Nữ thiên thần trầm ngâm báo trước vẫn còn 5 sinh vật đáng sợ hơn cần tiêu diệt trước khi đối mặt với thử thách cam go nhất.
 Cảnh kết thúc: Hoàng hôn buông xuống, nữ thiên thần dắt tay IlHan bay đi tìm mục tiêu dị thường tiếp theo, mở ra tiềm năng to lớn trong con người anh.
 
+## 359
+Sau khi hạ gục thêm 2 quái vật, nữ thiên thần đưa Yu IlHan đi ăn thịt lợn đen Jeju; nhan sắc tuyệt trần của cô thu hút toàn bộ sự chú ý của quán ăn khiến IlHan lần đầu tiên trải nghiệm cảm giác bị dòm ngó, đồng thời Na YuNa và Kang MiRae bước vào quán và bắt gặp hai người.
+IlHan kiên định giữ vững tâm lý "kẻ cô độc" trước những lời khen và trêu chọc của nữ thiên thần, coi giao tiếp là vô nghĩa và từ chối thanh minh hiểu lầm với Kang MiRae.
+Trở về khách sạn tắm rửa, IlHan nghe đám nam sinh bàn tán về vụ cá cược Chu Do-Bin (Đậu Phụ Thối) tỏ tình thất bại với hoa khôi Min Ha-Yul; khi ra sảnh hóng gió, IlHan được Min Ha-Yul tiếp cận tặng lon cà phê và gạ đi chơi chung ngày mai nhưng anh khéo léo từ chối và chuồn ra ngoài.
+Nữ thiên thần đứng đợi ngoài khách sạn, ngán ngẩm trước định kiến sắt đá bài trừ tình cảm mà ác ma Helièna đã gieo vào đầu IlHan từ nhỏ, rồi đưa cho anh một chiếc cần câu cá từ kho tàng Thiên giới.
+Cảnh kết thúc: Đôi mắt nữ thiên thần sáng rực tuyên bố mục tiêu đi săn trong đêm nay trên biển Jeju chính là Moby Dick.
+
 
