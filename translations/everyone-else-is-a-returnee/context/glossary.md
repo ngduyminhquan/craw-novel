@@ -309,7 +309,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Moonwalk |  | Moonwalk | khác | 48 | Điệu nhảy trượt lùi kinh điển của Michael Jackson |
 | Daréu | Dareu | Daréu | địa danh | 50 | Thế Giới Bị Bỏ Rơi quê hương của Reta Kar'iha và tộc Elf |
 | Elf | elf | Elf | chủng tộc | 50 | Được phép giữ nguyên: Chủng tộc thông tuệ trong thần thoại kỳ ảo phương Tây |
-| Army of Heaven | Heaven's Army | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
+| Army of Heaven | Heaven's Army; Heavens Army | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
 | Atlatl |  | Atlatl | vật phẩm | 51 | Dụng cụ phóng lao cổ đại dùng đòn bẩy vung ném lao đi |
 | Destructive |  | Hủy Diệt | hệ thống | 51 | Tiền tố / dòng thuộc tính alpha của tạo tác tăng sức xuyên phá và sức tấn công trong Chế Tác Mana |
 | Frighteningly Destructive Metal Pile Bunker |  | Súng Bắn Cọc Kim Loại Hủy Diệt Kinh Hãi | vật phẩm | 51 | Vũ khí Súng Bắn Cọc làm từ Thiết Tâm và Dây Thun Khổng Lồ, sở hữu dòng thuộc tính Hủy Diệt Kinh Hãi tăng 40% sức xuyên phá và sức tấn công |
@@ -501,7 +501,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Gungnir |  | Gungnir | vật phẩm | 90 | Được phép giữ nguyên: Ngọn giáo bách phát bách trúng của thần Odin trong thần thoại Bắc Âu |
 | Strike Force |  | Lực Lượng Đột Kích | tổ chức | 91 | Đơn vị tác chiến độc lập của Quân Đội Thiên Giới tại Bức Tường Hỗn Loạn |
 | Bloodied Angel |  | Huyết Thiên Thần | danh hiệu | 91 | Biệt hiệu của thiên thần Liera do kẻ địch ở Bức Tường Hỗn Loạn khiếp sợ đặt cho |
-| archangel |  | đại thiên thần | cấp bậc | 91 | Thiên thần cấp cao sở hữu sức mạnh vượt trội trong Quân Đội Thiên Giới |
+| archangel | Archangel; Archangels | đại thiên thần | cấp bậc | 91 | Thiên thần cấp cao sở hữu sức mạnh vượt trội trong Quân Đội Thiên Giới |
 | Dragon's Ally |  | Đồng Minh Long Tộc | danh hiệu | 92 | Danh hiệu nhận được khi lập tổ đội với rồng, giảm 15% sát thương từ Long tộc và tăng 15% sức tấn công khi chiến đấu cùng rồng |
 | Aegis |  | Aegis | vật phẩm | 94 | Được phép giữ nguyên: Tạo tác khiên phẩm cấp Truyền Thuyết hợp nhất từ 5 chiếc khiên xương da rồng chuyển chức 4 |
 | Dragonhunter's Frightening and Sturdy Dark python Ballista |  | Pháo Nỏ Hắc Mãng Thợ Săn Rồng Kinh Hãi Và Kiên Cố | vật phẩm | 95 | Cỗ pháo nỏ săn rồng phẩm cấp Truyền Thuyết tích hợp xương Yamata no Orochi và ma thạch chuyển chức 3, bắn liên tiếp 15 phát mũi tên xương rồng |

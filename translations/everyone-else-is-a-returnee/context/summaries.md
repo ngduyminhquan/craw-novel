@@ -1793,3 +1793,10 @@ Yu IlHan hạ sát Daiel ngay khi hắn bắt đầu chuyển hóa thành thiên
 Chứng kiến năng lực bộc phát của IlHan, Đại thiên thần Raphael chấn động nhưng nhanh chóng lấy lại bình tĩnh cùng các thiên thần xử lý nốt tàn dư phản bội đã mất hết nhuệ khí.
 Raphael chủ động đề nghị liên minh cùng Yu IlHan để truy quét toàn bộ nội gián trước khi cuộc chiến cuối cùng bùng nổ; IlHan chấp thuận với điều kiện anh sẽ là người trực tiếp kết liễu lũ phản bội.
 Cảnh kết thúc: Cùng Raphael, Yumir và Liera bước qua cánh cổng tiến tới các thế giới tiếp theo của Thiên giới, IlHan mỉm cười khi Ký Lục đạt cấp 95 sau cái bắt tay với Raphael, nhận ra ngài ấy chính là mảnh ghép cuối cùng để anh chạm tới cảnh giới Kẻ Thứ Năm.
+
+## 295
+Yu IlHan cùng Raphael quét sạch hơn mười nghìn thiên thần phản bội (bao gồm Vera) qua hơn 500 thế giới bậc cao trong suốt 2 tuần, nâng Ký Lục lên cấp 98 và Đại Đoạn Vũ Trụ Thương lên cấp 99.
+Dùng Dịch Chuyển gửi Liera về nơi an toàn, Yu IlHan cùng Yumir theo Raphael tiến vào một thế giới khổng lồ từng qua 7 lần Đại Tai Biến kết nối trực tiếp với Minh Giới; nơi đây đang diễn ra đại hỗn chiến giữa cả bốn thế lực, và IlHan tiếp tục ẩn thân hạ sát 1.500 thực thể cấp cao.
+Chiến trường đột ngột biến động dữ dội khi Anafière (Cánh Thứ 2 Của Ánh Sáng Rực Rỡ) cùng Satière xuất hiện, tiếp đó là Đại thiên thần Michael và Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt) cũng giáng lâm.
+Cảnh kết thúc: Michael kích hoạt ma pháp do Raphael bí mật chuẩn bị từ ký lục của Hỏa Tâm nhằm giải trừ hoàn toàn thuật ẩn thân của Yu IlHan, phơi bày cái bẫy câu kết giữa Thiên giới và Quân Đội Ma Hủy Diệt hòng trừ khử anh; Yu IlHan bình thản cho phép Ngọn Lửa Vĩnh Cửu xóa bỏ ma pháp, sẵn sàng cho bước nhảy vọt vĩ đại.
+

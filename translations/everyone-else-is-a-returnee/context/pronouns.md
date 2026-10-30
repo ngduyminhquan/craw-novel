@@ -94,6 +94,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Raphael | Raphael / đại thiên thần Raphael | 289 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu) |
 | Daiel | hắn / Daiel / gã | 293 | Thiên thần chuyển chức 7 tại Feira, kẻ phản bội thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Gabriel | Gabriel / đại thiên thần Gabriel | 293 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
+| Vera | Vera / kẻ phản bội | 295 | Thiên thần phản bội thuộc Quân Đội Thiên Giới bị trảm thủ |
+| Anafière | hắn / Anafière / Cánh Thứ 2 Của Ánh Sáng Rực Rỡ | 295 | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ |
+| Keshein | hắn / Keshein / con quái vật | 295 | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt |
+| Lazière | Lazière / ngài Lazière | 295 | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ |
 
 ## Giữa các nhân vật
 
@@ -454,3 +458,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Raphael | tôi | ông / các ông | 294 | Yu IlHan đối thoại và bắt tay liên minh với Raphael |
 | Yu IlHan | Daiel | ta / tôi | ngươi | 294 | Yu IlHan chế giễu và kết liễu Daiel |
 | Daiel | Yu IlHan | ta / - | ngươi / con người / Kẻ Siêu Việt | 294 | Daiel kinh sợ van nài Yu IlHan trước khi bị tiêu diệt |
+| Vera | Raphael | chúng tôi / tôi | Ngài Raphael | 295 | Vera kêu oan trước Raphael |
+| Raphael | Vera | ta | Vera / ngươi | 295 | Raphael lạnh lùng bác bỏ lời thanh minh của Vera |
+| Anafière | Michael | ta | ngươi / Michael / lũ bồ câu | 295 | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ đối đầu Đại thiên thần Michael |
+| Michael | Anafière | ta | ngươi / Anafière | 295 | Michael đối thoại và khiêu khích Anafière |
+| Michael | Yu IlHan | ta | thằng nhãi đó / ngươi | 295 | Michael tuyên bố sẽ xóa sổ Yu IlHan |
+| Keshein | Yu IlHan | ta | hắn | 295 | Keshein tuân lệnh Lãnh Chúa đến lấy mạng Yu IlHan |

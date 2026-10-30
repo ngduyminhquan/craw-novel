@@ -102,6 +102,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira | 289 |
 | Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |
 | Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri | 293 |
+| Vera |  | Vera | Thiên thần phản bội thuộc Quân Đội Thiên Giới bị Raphael vạch trần và Yu IlHan trảm thủ | 295 |
+| Anafière | Anafi | Anafière | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ, thực thể cấp cao chuyển chức 7 | 295 |
+| Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu | 295 |
+| Lazière | Lady Lazière; Lazi | Lazière | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ, nhân vật số 2 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan | 295 |
 
 ## Chi tiết
 
