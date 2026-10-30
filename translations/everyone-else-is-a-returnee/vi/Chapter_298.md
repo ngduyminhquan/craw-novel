@@ -8,7 +8,7 @@ Michael triệu hồi một món vũ khí mới rồi nắm chặt lấy nó. D�
 
 "Khẳng định đó thú vị đấy."
 
-Nhưng điều thú vị hơn cả lại là tạo tác cấp Thần mà ngài ấy đang cầm trên tay. Dù sao ngài ấy cũng là đại diện của Thượng Đế, lại còn là thủ lĩnh trên thực tế của tứ Đại Thiên Thần, nên việc ngài ấy sở hữu không chỉ một tạo tác cấp Thần cũng chẳng có gì lạ... Dẫu vậy, anh vẫn phải cẩn trọng trước uy lực của tạo tác cấp Thần ấy.......
+Nhưng điều thú vị hơn cả lại là tạo tác cấp Thần mà hắn đang cầm trên tay. Dù sao hắn cũng là đại diện của Thượng Đế, lại còn là thủ lĩnh trên thực tế của tứ Đại Thiên Thần, nên việc hắn sở hữu không chỉ một tạo tác cấp Thần cũng chẳng có gì lạ... Dẫu vậy, anh vẫn phải cẩn trọng trước uy lực của tạo tác cấp Thần ấy.......
 
 "Úi chà. Sao ngươi lại vội vàng thế..."
 
@@ -16,7 +16,7 @@ Một ngọn thương bằng lửa và một ngọn thương bằng kim loại v
 
 [!?]
 
-Michael định lùi lại sau màn trao đổi chiêu thức thăm dò, nhưng ngài ấy chợt nhận ra mình không thể lùi bước nào, khiến vẻ bối rối hiện rõ trên gương mặt. Ngài ấy không thể nào rút ngọn thương của mình về sau cú va chạm.
+Michael định lùi lại sau màn trao đổi chiêu thức thăm dò, nhưng hắn chợt nhận ra mình không thể lùi bước nào, khiến vẻ bối rối hiện rõ trên gương mặt. Hắn không thể nào rút ngọn thương của mình về sau cú va chạm.
 
 "Sao thế?"
 
@@ -28,7 +28,7 @@ Nhìn từ bên ngoài, trông họ như thể đang trò chuyện thân mật. 
 
 "Ngươi nghĩ ta sẽ nói cho ngươi biết chắc?"
 
-Khi Yu IlHan kéo ngọn hỏa thương về phía mình, ngọn thương kim loại cũng trượt thẳng vào tay anh. Đây không phải thứ hàng Sử Thi hay Hỗn Loạn tầm thường, mà là một món đồ cấp Thần! Michael không thể để nó bị cướp mất nên liều mạng giằng lại, và kết quả là cả cơ thể ngài ấy cũng bị kéo giật về phía trước. Cú đá lạnh lùng và sắc bén của Yu IlHan giáng thẳng vào lồng ngực ngài ấy.
+Khi Yu IlHan kéo ngọn hỏa thương về phía mình, ngọn thương kim loại cũng trượt thẳng vào tay anh. Đây không phải thứ hàng Sử Thi hay Hỗn Loạn tầm thường, mà là một món đồ cấp Thần! Michael không thể để nó bị cướp mất nên liều mạng giằng lại, và kết quả là cả cơ thể hắn cũng bị kéo giật về phía trước. Cú đá lạnh lùng và sắc bén của Yu IlHan giáng thẳng vào lồng ngực ngài ấy.
 
 [Chí Mạng!]
 
@@ -50,7 +50,7 @@ Michael bàng hoàng trước cảnh tượng đó, nhưng ngay khoảnh khắc 
 
 "Cảm ơn nhé."
 
-Ngay sau đó, ngọn thương anh đang cầm khẽ biến đổi hình dạng. Thân thương dài thêm một chút, và một phù hiệu đặc biệt được khắc sâu lên phần lưỡi thương. Michael lập tức hiểu được điều này mang ý nghĩa gì. Ngài ấy vô thức rên rỉ.
+Ngay sau đó, ngọn thương anh đang cầm khẽ biến đổi hình dạng. Thân thương dài thêm một chút, và một phù hiệu đặc biệt được khắc sâu lên phần lưỡi thương. Michael lập tức hiểu được điều này mang ý nghĩa gì. Hắn vô thức rên rỉ.
 
 [Không thể nào...... đó không phải sự thật. Điều đó tuyệt đối không thể xảy ra.]
 
@@ -58,13 +58,13 @@ Ngay sau đó, ngọn thương anh đang cầm khẽ biến đổi hình dạng.
 
 [Kuoooooooh!]
 
-Lần này, đến lượt Yu IlHan. Chẳng cần anh phải lên tiếng, Yumir đã gầm vang và vỗ cánh, phóng ra một làn mưa hỏa diễm! Khoảnh khắc Yu IlHan 'mong muốn' xuất hiện trước mặt kẻ thù, anh liền hiện diện ngay trước mặt ngài ấy.
+Lần này, đến lượt Yu IlHan. Chẳng cần anh phải lên tiếng, Yumir đã gầm vang và vỗ cánh, phóng ra một làn mưa hỏa diễm! Khoảnh khắc Yu IlHan 'mong muốn' xuất hiện trước mặt kẻ thù, anh liền hiện diện ngay trước mặt đối phương.
 
 "Chào nhé?"
 
 [Hự......!?]
 
-Bằng những chuyển động dứt khoát, Yu IlHan vung thương công kích. Michael đã chứng minh ngài ấy không hổ danh là đại diện của Thượng Đế khi né tránh trước cả khi đòn thương của Yu IlHan kịp chạm tới, thế nhưng đòn thương của Yu IlHan lại không đơn thuần chỉ là một đòn tấn công vật lý thông thường.
+Bằng những chuyển động dứt khoát, Yu IlHan vung thương công kích. Michael đã chứng minh hắn không hổ danh là đại diện của Thượng Đế khi né tránh trước cả khi đòn thương của Yu IlHan kịp chạm tới, thế nhưng đòn thương của Yu IlHan lại không đơn thuần chỉ là một đòn tấn công vật lý thông thường.
 
 "Hì."
 
@@ -78,7 +78,7 @@ Nó không thể né tránh bằng cách luồn lách, cũng chẳng thể chố
 
 [Hự...... Khặc!?]
 
-Khoảnh khắc một đường quỹ đạo mà chỉ Thực thể tối cao mới có thể vẽ ra xuất hiện, một vệt máu trắng liền phun trào từ lồng ngực Michael dù ngài ấy đang ở cách xa Yu IlHan.
+Khoảnh khắc một đường quỹ đạo mà chỉ Thực thể tối cao mới có thể vẽ ra xuất hiện, một vệt máu trắng liền phun trào từ lồng ngực Michael dù hắn đang ở cách xa Yu IlHan.
 
 Không ngừng nghỉ.
 
@@ -86,17 +86,17 @@ Không ngừng nghỉ.
 
 [Thưa ngài Michael!]
 
-Raphael không thể khoanh tay đứng nhìn nên lập tức triển khai sức mạnh lên người ngài ấy. Năng lực trị liệu vô song liền bao bọc lấy Michael. Thế nhưng, Yu IlHan chỉ bật cười.
+Raphael không thể khoanh tay đứng nhìn nên lập tức triển khai sức mạnh lên người Michael. Năng lực trị liệu vô song liền bao bọc lấy Michael. Thế nhưng, Yu IlHan chỉ bật cười.
 
 [Không thể cầm máu. Máu của ngài Michael đang......]
 
 [...... Khặc, hiển nhiên rồi. Uy lực của tạo tác cấp Thần không phải thứ mà ngươi, Raphael, hay ngay cả ta có thể phớt lờ.]
 
-Yu IlHan lại một lần nữa lao về phía Michael và vung thương. Michael biết né tránh cũng vô ích nên triệu hồi một tạo tác khác để đối đầu trực diện, song món tạo tác liền bị nghiền nát trong chớp mắt và một vết thương nữa lại xuất hiện trên cơ thể ngài ấy. Michael cố kìm nén tiếng rên rỉ, nhưng Raphael thì không thể chịu đựng thêm được nữa. Một ngọn thương bằng phong bão liền xuất hiện trên tay ngài ấy.
+Yu IlHan lại một lần nữa lao về phía Michael và vung thương. Michael biết né tránh cũng vô ích nên triệu hồi một tạo tác khác để đối đầu trực diện, song món tạo tác liền bị nghiền nát trong chớp mắt và một vết thương nữa lại xuất hiện trên cơ thể hắn. Michael cố kìm nén tiếng rên rỉ, nhưng Raphael thì không thể chịu đựng thêm được nữa. Một ngọn thương bằng bão gió liền xuất hiện trên tay Raphael.
 
 [Thực thể xấc xược. Ngươi nghĩ chỉ vì mạnh lên một chút mà dám nhòm ngó uy quyền của Thiên giới sao!]
 
-"Được thôi, nhào vô đi. Lần này ngươi sẽ không thể hồi phục dễ dàng như lần trước đâu."
+"Được thôi, tới đây đi. Lần này ngươi sẽ không thể hồi phục dễ dàng như lần trước đâu."
 
 [Kuooooooooh!]
 
@@ -108,7 +108,7 @@ Yumir cất tiếng gầm hòa cùng ý niệm của Yu IlHan. Những cơn gió
 
 [Raphael!]
 
-Ác ma cơ đấy. Rốt cuộc mọi chuyện cũng đi đến nước này. Yu IlHan nở một nụ cười cay đắng khi nhìn Raphael đang bay lượn nhờ ngọn gió với đôi cánh đã bị xé rách một phần. Ngài ấy thực sự trông giống như một thiên thần thánh thiện đang phụng mệnh Thượng Đế, khiến anh cảm thấy như thể mình thực sự đang đóng vai một con ác ma vậy.
+Ác ma cơ đấy. Rốt cuộc mọi chuyện cũng đi đến nước này. Yu IlHan nở một nụ cười cay đắng khi nhìn Raphael đang bay lượn nhờ ngọn gió với đôi cánh đã bị xé rách một phần. Raphael thực sự trông giống như một thiên thần thánh thiện đang phụng mệnh Thượng Đế, khiến anh cảm thấy như thể mình thực sự đang đóng vai một con ác ma vậy.
 
 Thế nhưng, nếu chỉ vì muốn trở nên mạnh mẽ hơn để sinh tồn mà phải khoác lên mình danh hiệu ác ma.
 
@@ -140,7 +140,7 @@ Raphael nghiến chặt răng để chống đỡ, trong khi Keshein nở một 
 
 [Khặc!]
 
-Dù chỉ có một đòn duy nhất quét ngang qua không trung, nhưng lại có tới hai vết thương xuất hiện. Raphael không thể đỡ nổi ngọn thương của Yu IlHan và bị bắn văng đi trong khi máu từ lồng ngực ngài ấy phun trào xối xả, còn Keshein thì ngã gục trước khi móng vuốt của hắn kịp chạm tới đầu Yu IlHan khi cổ họng hắn bị đâm thủng vô số lỗ trước khi kịp áp sát anh. Đòn chém và đòn đâm của Yu IlHan đã được hiện thực hóa theo hai hướng hoàn toàn khác nhau cùng một lúc.
+Dù chỉ có một đòn duy nhất quét ngang qua không trung, nhưng lại có tới hai vết thương xuất hiện. Raphael không thể đỡ nổi ngọn thương của Yu IlHan và bị bắn văng đi trong khi máu từ lồng ngực hắn phun trào xối xả, còn Keshein thì ngã gục trước khi móng vuốt của hắn kịp chạm tới đầu Yu IlHan khi cổ họng hắn bị đâm thủng vô số lỗ trước khi kịp áp sát anh. Đòn chém và đòn đâm của Yu IlHan đã được hiện thực hóa theo hai hướng hoàn toàn khác nhau cùng một lúc.
 
 [Bạn đã nhận được điểm kinh nghiệm.]
 
@@ -154,7 +154,7 @@ Dù chỉ có một đòn duy nhất quét ngang qua không trung, nhưng lại 
 
 "Tạm biệt."
 
-Yu IlHan thậm chí chẳng thèm lắng nghe những lời trăng trối của Raphael mà lạnh lùng cắm phập ngọn thương vào trán ngài ấy. Ngọn thương xuyên thủng qua não bộ và mọi chuyện chấm dứt tại đó.
+Yu IlHan thậm chí chẳng thèm lắng nghe những lời trăng trối của Raphael mà lạnh lùng cắm phập ngọn thương vào trán hắn. Ngọn thương xuyên thủng qua não bộ và mọi chuyện chấm dứt tại đó.
 
 [Bạn đã nhận được điểm kinh nghiệm.]
 
@@ -214,7 +214,7 @@ Khu Vườn Hoàng Hôn và Quân Đội Ánh Sáng Rực Rỡ là những bên 
 
 [Thưa ngài Michael!]
 
-Michael khẽ ngẩng đầu lên sau tiếng gọi đó. Các thiên thần tản mác khắp thế giới đều đã tề tựu trở lại và đang nhìn về phía ngài ấy. Không hiểu vì lý do gì mà Yu IlHan chỉ đứng nhìn ngài ấy chứ không hề tấn công, và Michael hiểu rành rọt nguyên nhân tại sao anh lại làm vậy, điều đó càng khiến ngài ấy thêm căm phẫn.
+Michael khẽ ngẩng đầu lên sau tiếng gọi đó. Các thiên thần tản mác khắp thế giới đều đã tề tựu trở lại và đang nhìn về phía Michael. Không hiểu vì lý do gì mà Yu IlHan chỉ đứng nhìn Michael chứ không hề tấn công, và Michael hiểu rành rọt nguyên nhân tại sao anh lại làm vậy, điều đó càng khiến hắn thêm căm phẫn.
 
 Thế nhưng, bất chấp điều đó.
 
@@ -224,7 +224,7 @@ Thế nhưng, bất chấp điều đó.
 
 Các thiên thần đều bắt đầu biến mất như thể chỉ chờ đợi mệnh lệnh đó được ban xuống. Ngay cả những kẻ cuồng tín kia cũng đã nhận thức được sự chênh lệch về sức mạnh.
 
-Michael dõi theo khi tất cả bọn họ đã quay về, và khi chỉ còn lại một mình, rốt cuộc ngài ấy mới ngẩng đầu lên trừng mắt nhìn Yu IlHan. Cảm nhận được lượng mana đang sôi sục bên trong ngài ấy, Yu IlHan bật cười.
+Michael dõi theo khi tất cả bọn họ đã quay về, và khi chỉ còn lại một mình, rốt cuộc hắn mới ngẩng đầu lên trừng mắt nhìn Yu IlHan. Cảm nhận được lượng mana đang sôi sục bên trong hắn, Yu IlHan bật cười.
 
 [Thượng Đế sẽ trừng phạt tội lỗi của ngươi.]
 

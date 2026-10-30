@@ -301,9 +301,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 294 | 292 | Chapter_294 - Chapter 292_ I Will Achieve – 2.txt | I Will Achieve – 2 | reviewed |  |
 | 295 | 293 | Chapter_295 - Chapter 293_ I Will Achieve – 3.txt | I Will Achieve – 3 | reviewed |  |
 | 296 | 294 | Chapter_296 - Chapter 294_ I Will Achieve – 4.txt | I Will Achieve – 4 | reviewed |  |
-| 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | done |  |
-| 298 | 296 | Chapter_298 - Chapter 296_ I Will Achieve – 6.txt | I Will Achieve – 6 | done |  |
-| 299 | 297 | Chapter_299 - Chapter 297_ I Will Achieve – 7.txt | I Will Achieve – 7 | done |  |
+| 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | reviewed |  |
+| 298 | 296 | Chapter_298 - Chapter 296_ I Will Achieve – 6.txt | I Will Achieve – 6 | reviewed |  |
+| 299 | 297 | Chapter_299 - Chapter 297_ I Will Achieve – 7.txt | I Will Achieve – 7 | reviewed |  |
 | 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | todo |  |
 | 301 | 299 | Chapter_301 - Chapter 299_ I Will Achieve – 9.txt | I Will Achieve – 9 | todo |  |
 | 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | todo |  |

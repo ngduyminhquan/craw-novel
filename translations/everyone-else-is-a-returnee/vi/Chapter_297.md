@@ -38,11 +38,11 @@ Anh muốn cân bằng cả hai nguồn năng lượng đó. Mình có thể là
 
 "Ra là thế."
 
-Kẻ đang bốc cháy hừng hực trong địch ý dữ dội chính là Michael, đại diện của Thượng Đế. Có vẻ như đám thiên thần sa ngã vẫn chưa đủ sức cản bước ngài ấy. Anh có thể cảm nhận rõ luồng khí tức hỏa diễm đang lao thẳng tới chỗ mình theo một đường thẳng tắp.
+Kẻ đang bốc cháy hừng hực trong địch ý dữ dội chính là Michael, đại diện của Thượng Đế. Có vẻ như đám thiên thần sa ngã vẫn chưa đủ sức cản bước hắn. Anh có thể cảm nhận rõ luồng khí tức hỏa diễm đang lao thẳng tới chỗ mình theo một đường thẳng tắp.
 
-Nếu đám thiên thần sa ngã không chặn đường ngài ấy thì có khi việc đã xong xuôi sớm hơn rồi... cái lũ đó quả nhiên chẳng làm được tích sự gì nên hồn.
+Nếu đám thiên thần sa ngã không cản đường hắn thì có khi anh đã xong việc sớm hơn rồi... cái lũ đó quả nhiên chẳng làm được tích sự gì nên hồn.
 
-[Dù ta cảm thấy chuyện này vô cùng đáng tiếc... nhưng chúng ta không thể cho phép sự tồn tại của ngươi. Chúng ta sẽ chăm sóc Trái Đất. Vì thế... hãy an nghỉ đi!]
+[Dù ta cảm thấy chuyện này vô cùng đáng tiếc... nhưng bọn ta không thể cho phép sự tồn tại của ngươi. Bọn ta sẽ chăm sóc Trái Đất. Vì thế... hãy an nghỉ đi!]
 
 Hất văng Cánh Thứ 2 Của Ánh Sáng Rực Rỡ là Anafière, Michael bay vụt tới chỗ anh và phóng ra một ngọn giáo lửa chứa toàn bộ lượng mana của mình. Cánh Thứ 4 Của Ánh Sáng Rực Rỡ là Satière cố gắng chặn ngọn giáo lại trước khi nó chạm tới Yu IlHan, nhưng Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt là Keshein đã nuốt chửng Cánh Thứ 5 Của Ánh Sáng Rực Rỡ và giữ chân Satière lại.
 
@@ -64,7 +64,7 @@ Anh vừa 'phản kích' đòn tấn công từ Michael, kẻ thậm chí còn �
 
 [Lạy Thượng Đế...]
 
-Khi hỏa diễm của mình bị cướp đoạt, Michael rốt cuộc cũng nhận ra mọi chuyện đang đi tới đâu và lẩm bẩm trong sự bàng hoàng không thể tin nổi. Càng tiến lại gần Yu IlHan, ngài ấy càng thấy rõ những gì anh đang thực hiện lúc này.
+Khi hỏa diễm của mình bị cướp đoạt, Michael rốt cuộc cũng nhận ra mọi chuyện đang đi tới đâu và lẩm bẩm trong sự bàng hoàng không thể tin nổi. Càng tiến lại gần Yu IlHan, Michael càng thấy rõ những gì anh đang thực hiện lúc này.
 
 Ở bề ngoài, anh vẫn giữ nhân dạng con người, nhưng trên thực tế anh lại chẳng còn chút gì là con người nữa. Ngay lúc này, những yếu tố cấu tạo nên một cá thể mang tên Yu IlHan đang tự phân rã, chúng vỡ vụn thành những đơn vị cơ bản nhất, rồi sau đó được tái cấu trúc thành những tổ hợp và cấu trúc hoàn mỹ nhất.
 
@@ -80,13 +80,13 @@ Yu IlHan mỉm cười đáp lời.
 
 Michael tạo ra một luồng hỏa diễm mới rồi ném tới. Bản thể tồn tại của Yu IlHan vốn đã được nới lỏng; và Michael vừa châm thêm lửa vào ngay giữa tâm điểm của tất cả những điều đó. Thế nhưng, luồng lửa ấy lại chỉ càng hỗ trợ cho quá trình sáng tạo của Yu IlHan khi bị hút trọn vào sự cộng hưởng của lĩnh vực.
 
-Nếu Michael là một thiên thần thao túng nước hay băng thay vì lửa, ngài ấy đã có thể trì hoãn sự sáng tạo của Yu IlHan đôi chút, thế nhưng giờ đây khi Yu IlHan đã thăng hoa lên một cảnh giới sinh mệnh mới, toàn bộ ngọn lửa của ngài ấy lại bị Yu IlHan trực tiếp thống trị.
+Nếu Michael là một thiên thần thao túng nước hay băng thay vì lửa, hắn đã có thể trì hoãn sự sáng tạo của Yu IlHan đôi chút, thế nhưng giờ đây khi Yu IlHan đã thăng hoa lên một cảnh giới sinh mệnh mới, toàn bộ ngọn lửa của hắn lại bị Yu IlHan trực tiếp thống trị.
 
 [Chuyện này không thể nào xảy ra được. Gabriel chắc chắn đã nói với chúng ta rằng sẽ không quá muộn mà. Khả năng tiên tri của ngài ấy chưa từng...]
 
 "Tiên tri... sấm truyền..."
 
-Càng tiến lại gần Yu IlHan, lượng mana hỏa diễm cấu thành nên Michael càng bị rút cạn khỏi cơ thể ngài ấy và chảy ngược vào người Yu IlHan. Sự cộng hưởng giữa Yu IlHan và Cái Nôi Kỳ Tích lúc này đã vang dội như sấm sét, thậm chí còn khiến một số sinh mệnh nơi đây đinh tai nhức óc.
+Càng tiến lại gần Yu IlHan, lượng mana hỏa diễm cấu thành nên Michael càng bị rút cạn khỏi cơ thể hắn và chảy ngược vào người Yu IlHan. Sự cộng hưởng giữa Yu IlHan và Cái Nôi Kỳ Tích lúc này đã vang dội như sấm sét, thậm chí còn khiến một số sinh mệnh nơi đây đinh tai nhức óc.
 
 "Ta phát ngấy với mấy trò nhảm nhí đó rồi. Khi giải bài tập trong sách giáo khoa, ta chưa từng nhìn vào đáp án."
 
@@ -106,7 +106,7 @@ Nếu anh có đủ tư cách.
 
 Anh muốn ôm trọn vạn vật vào trong vòng tay mình.
 
-Ngọn lửa mà Michael tạo ra, thứ chứa đựng toàn bộ bản ngã của ngài ấy, từ Cái Nôi Kỳ Tích trút thẳng xuống người Yu IlHan. Cảnh tượng ấy chẳng khác nào một lễ rửa tội bằng lửa thiêng. Michael tự nguyền rủa chính mình vì trong một thoáng chốc ngắn ngủi, ngài ấy lại thấy khung cảnh đó trông thật thần thánh.
+Ngọn lửa mà Michael tạo ra, thứ chứa đựng toàn bộ bản ngã của hắn, từ Cái Nôi Kỳ Tích trút thẳng xuống người Yu IlHan. Cảnh tượng ấy chẳng khác nào một lễ rửa tội bằng lửa thiêng. Michael tự nguyền rủa chính mình vì trong một thoáng chốc ngắn ngủi, hắn lại thấy khung cảnh đó trông thật thần thánh.
 
 Quá trình sáng tạo bắt đầu.
 
@@ -210,7 +210,7 @@ Lúc này, Yumir đã là một con rồng to lớn hơn trước rất nhiều.
 
 [Tên khốn kiếp nhà ngươi...]
 
-Michael nghiến chặt răng khi đối mặt với một Yu IlHan vừa được tái sinh thành một chúa tể. Ngọn giáo lửa trên tay ngài ấy không thể duy trì được nữa mà tự động tiêu biến. Trước mặt chúa tể của muôn loài lửa như Yu IlHan, không một ai có thể sử dụng sức mạnh hỏa diễm mà không có sự cho phép của anh.
+Michael nghiến chặt răng khi đối mặt với một Yu IlHan vừa được tái sinh thành một chúa tể. Ngọn giáo lửa trên tay hắn không thể duy trì được nữa mà tự động tiêu biến. Trước mặt chúa tể của muôn loài lửa như Yu IlHan, không một ai có thể sử dụng sức mạnh hỏa diễm mà không có sự cho phép của anh.
 
 [Ta là đại diện của Thượng Đế! Hỡi Kẻ Siêu Việt giả mạo kia. Ngươi không nghĩ rằng hỏa diễm là tất cả những gì ta có đấy chứ!]
 
@@ -222,6 +222,6 @@ Yu IlHan thong thả đáp lời trong khi giơ tay lên. Một ngọn thương 
 
 Yu IlHan mỉm cười ngoắc ngoắc ngón tay.
 
-"Nhào vô đi."
+"Đến đây đi."
 
 [← Chương trước](Chapter_296.md) | [Chương tiếp theo →](Chapter_298.md)
