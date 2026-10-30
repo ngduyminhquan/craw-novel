@@ -358,9 +358,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 351 |  | Chapter_351 - Extra  1_ Graduating Lonership, Entering Marriage.txt | Extra  1_ Graduating Lonership, Entering Marriage | reviewed |  |
 | 352 |  | Chapter_352 - Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected.txt | Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected | reviewed |  |
 | 353 |  | Chapter_353 - Extra  3_ Demigod Eleven.txt | Extra  3_ Demigod Eleven | reviewed |  |
-| 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | done |  |
-| 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | done |  |
-| 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | done |  |
+| 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | reviewed |  |
+| 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | reviewed |  |
+| 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | reviewed |  |
 | 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | todo |  |
 | 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | todo |  |
 | 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | todo |  |
@@ -1094,3 +1094,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#355] Cách gọi độc giả gửi tranh fan-art 'Mr. Warpic' — Tạm chọn: 'Bạn Warpic à'. Phương án khác: 'Mr. Warpic' hoặc 'Anh Warpic'. → Chốt 'Bạn Warpic à' phù hợp giọng thân thiện của tác giả trong lời bạt. (orchestrator)
 - [#356] Dịch tên arc "Apocrypha (1)" — Tạm chọn: "Ngoại Điển (1)". Đề xuất khác: "Ngoại Kinh (1)" hoặc "Bí Lục (1)". → Chốt 'Ngoại Điển (1)'. (orchestrator)
 - [#356] Dịch món ăn "Cost-efficient Hairtail set" — Tạm chọn: "Set cá hố bình dân" (từ lóng tiếng Hàn 가성비 - giá cả phải chăng). Đề xuất khác: "Set cá hố tiết kiệm". → Chốt 'Set cá hố bình dân'. (orchestrator)
+- [#356 đoạn 109] Câu EN 'Yoo Il-han arrived at the accommodation, but he was left behind when he arrived at the travel destination on his high school field trip' mâu thuẫn với ngữ cảnh đang ở sân bay Jeju → Chấp nhận dịch thoát ý: 'Chưa kịp về tới nơi nghỉ chân mà ngay khi vừa đặt chân đến điểm du lịch trong chuyến dã ngoại thời cấp ba, Yu IlHan đã bị bỏ rơi.' (orchestrator)

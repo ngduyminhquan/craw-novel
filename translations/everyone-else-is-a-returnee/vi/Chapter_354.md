@@ -138,7 +138,7 @@ Yu IlHan thốt ra những lời nhảm nhí ấy cứ như thể chẳng có g�
 
 Yuni, người được trang bị một ý chí siêu phàm, à không, siêu long tộc để giành lấy tình cảm của Yu IlHan, đã miệt mài khổ luyện suốt mấy chục năm và giờ đây con bé đã là một chân long chuyển chức 6.
 
-Con bé đạt tốc độ thăng tiến nhanh nhất nếu không tính những đứa trẻ thừa hưởng huyết mạch của Yu IlHan, và với tài năng cùng sự bền bỉ của mình, có lẽ ngay cả những đứa con ruột của Yu IlHan cũng có thể bị hít khói phía sau.
+Con bé đạt tốc độ thăng tiến nhanh nhất nếu không tính những đứa trẻ thừa hưởng huyết mạch của Yu IlHan, và với tài năng cùng sự bền bỉ của mình, có lẽ ngay cả những đứa con ruột của Yu IlHan cũng có thể bị bỏ lại phía sau hít khói.
 
 Carina và Michael vô cùng tự hào về tài năng của con gái mình, nhưng vẫn cảm thấy tâm trạng hết sức phức tạp khi mục tiêu của con bé lại là Yu IlHan. Hai người họ vẫn còn ở chuyển chức 5, vậy mà con gái họ đã vượt mặt cả hai nhờ vào sự kiên trì bền bỉ thuần túy!
 

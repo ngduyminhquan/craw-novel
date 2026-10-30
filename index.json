@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:39:55Z",
+  "generatedAt": "2026-10-30T17:48:54Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2110,7 +2110,7 @@
           "number": 354,
           "title": "Chương 354: Ngoại truyện 4 – Ta là kẻ hủy diệt mọi phục bút",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_354.md",
-          "sha": "87dbe9cc475c2361bf752596085b6d9d229b6035"
+          "sha": "49c9f4421ffa9aeffab0b9f09b5a22de9fdb9068"
         },
         {
           "number": 355,
@@ -2122,7 +2122,7 @@
           "number": 356,
           "title": "Chương 356: Ngoại Điển (1)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_356.md",
-          "sha": "48a6a8611d60983494833ead388175affe1bd4e7"
+          "sha": "4e985a70f891a299376162790f62065b21f3b940"
         }
       ]
     },

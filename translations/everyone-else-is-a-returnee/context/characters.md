@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan; Yoo Il-Han; Yoo Il-han; Il-Han; Il-han | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới; đến #351 hoàn tất Đại Dung Hợp và cử hành hôn lễ với Liera | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan; Yoo Il-Han; Yoo Il-han; Il-Han; Il-han | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới; đến #351 hoàn tất Đại Dung Hợp và cử hành hôn lễ với Liera; ở #356 hé lộ quá khứ bị bỏ rơi từ buổi dã ngoại lớp 1 và gặp Helièna, bị bỏ rơi tại sân bay Jeju thời cấp ba | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
