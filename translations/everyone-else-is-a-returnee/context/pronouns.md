@@ -566,3 +566,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael | Zenusva | ta | ngươi | 344 | Michael đối đáp và thiêu rụi Zenusva |
 | Michael | Greed | ta | Greed / ngươi | 344 | Michael khiêu chiến Greed sau khi thức tỉnh thành Thần Ánh Sáng |
 | Greed | Michael | ta | ngươi | 344 | Greed đáp lời khiêu chiến của Michael |
+| Michael | God | con | Cha / Thượng Đế | 345 | Michael bàng hoàng nhận ra Greed chính là cựu Thượng Đế Thiên giới |
+| God | Michael | ta | con / con trai của ta | 345 | Cựu Thượng Đế Thiên giới trong thân xác Greed đáp lại Michael sau khi nuốt chửng ánh sáng |

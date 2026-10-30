@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T15:40:51Z",
+  "generatedAt": "2026-10-30T15:51:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2051,6 +2051,12 @@
           "title": "Chương 344: Vị Thần Duy Nhất – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_344.md",
           "sha": "17e8ff354d4f3e770263472658c65c97ba2bb8d2"
+        },
+        {
+          "number": 345,
+          "title": "Chương 345: Vị Thần Duy Nhất – 4",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_345.md",
+          "sha": "0d74974c40c421a51b0ba18b7144c0f963247b03"
         }
       ]
     },

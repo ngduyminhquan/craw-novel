@@ -2106,6 +2106,8 @@ Tại Elo Katra, Michael dù bị trúng kịch độc vẫn giải phóng sức
 Lời khiêu khích gợi nhớ đến Yu IlHan giúp Michael giác ngộ bản chất Kẻ Siêu Việt toàn vẹn, rũ bỏ sự do dự quá khứ và giải phóng thứ ánh sáng tuyệt đối thiêu rụi hoàn toàn Zenusva cùng các thiên thần tháp tùng.
 Hồ Sơ Akashic thông báo Michael đã vượt qua mọi ghi chép để thức tỉnh thành Thần Ánh Sáng; trong men say quyền lực, hắn ngạo nghễ gọi tên Greed khiêu chiến.
 Cảnh kết thúc: Từ góc hỗn loạn của Elo Katra, Greed cất giọng đáp lại rằng gã đã chờ đợi Michael suốt bấy lâu nay.
-
-
-
+## 345
+Michael tiến vào lâu đài kỳ dị tại Elo Katra và đối đầu trực diện với Greed; hai bên liên tục phô diễn sức mạnh tối thượng khi Greed dùng khả năng nuốt chửng mana và giải phóng hàng triệu xiềng xích kim loại cổ đại, còn Michael dùng năng lực tước đoạt bẩm sinh kết hợp ánh sáng áp đảo.
+Tòa lâu đài nổ tung và Greed lộ diện thân xác cự thú khổng lồ lấp đầy thế giới; Michael tự tin hóa thân thành mặt trời rực rỡ dốc toàn lực thiêu đốt cơ thể Greed hòng biến gã thành hư vô trong thời kỳ Harmageddon.
+Khi đạt tới đỉnh điểm, toàn bộ ánh sáng của Michael bất ngờ bị hút sạch như rơi vào hố đen bởi sức mạnh nuốt chửng của đối phương; Greed lộ diện chân tướng là một người đàn ông bao bọc trong chính ánh sáng của Michael.
+Cảnh kết thúc: Michael bàng hoàng thốt lên "Cha" trong sự phủ nhận, và Greed — tức cựu Thượng Đế Thiên giới — nở nụ cười tà ác xác nhận danh tính của mình.

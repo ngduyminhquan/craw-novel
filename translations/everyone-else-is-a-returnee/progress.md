@@ -349,7 +349,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | reviewed |  |
 | 343 | 341 | Chapter_343 - Chapter 341_ Sole God – 2.txt | Sole God – 2 | reviewed |  |
 | 344 | 342 | Chapter_344 - Chapter 342_ Sole God – 3.txt | Sole God – 3 | reviewed |  |
-| 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | todo |  |
+| 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | done |  |
 | 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | todo |  |
 | 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | todo |  |
 | 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -1075,3 +1074,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#342] Tiêu đề arc 'Sole God' dịch là 'Vị Thần Duy Nhất' (đã tạm dùng); đề xuất giữ nguyên hoặc đổi thành 'Thần Duy Nhất'. → Chốt 'Vị Thần Duy Nhất' (chơi chữ từ tên Yu Il / 유일 trong nguyên tác) (orchestrator)
 - [#343] Thuật ngữ "BL delusions" (đoạn 73) — Tạm dùng "ảo tưởng BL" (giữ nguyên viết tắt BL theo văn hóa mạng/webnovel). Phương án khác: "ảo tưởng đam mỹ". → Chốt 'ảo tưởng BL' (sát nguyên tác Hàn BL 망상) (orchestrator)
 - [#344] Thuật ngữ "god of light" (Michael thức tỉnh vượt qua Hồ Sơ Akashic) — Tạm chọn: "Thần Ánh Sáng" (viết hoa dạng thực thể/danh xưng, thống nhất với Thần Rèn Đúc, Thần Ma Pháp). Phương án khác: "thần ánh sáng" / "Vị Thần Ánh Sáng". → Chốt 'Thần Ánh Sáng' (đồng bộ với Thần Rèn Đúc, Thần Ma Pháp) (orchestrator)
+- [#345] Đoạn 91 Michael gọi Thượng Đế là "Father" và Thượng Đế gọi Michael là "my son" — Tạm dùng: "Cha" và "con" ("......Cha.", "Đúng vậy, con trai của ta. Chính là ta."). Phương án khác: "Phụ thân" / "con". → Chốt giữ "Cha" và "con / con trai của ta" đúng văn phong Thiên giới (không dùng "Phụ thân"). (orchestrator)

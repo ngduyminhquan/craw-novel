@@ -109,7 +109,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu; tử trận ở #298 dưới ngọn thương của Yu IlHan | 295 |
 | Lazière | Lady Lazière; Lazi | Lazière | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ, nhân vật số 2 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan | 295 |
 | Crissière | Crissi | Crissière | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ, nhân vật chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ | 296 |
-| Greed |  | Greed | Thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, Kẻ Siêu Việt mang bản tính tham lam vô tận tự trói mình trong lâu đài ở Elo Katra | 299 |
+| Greed |  | Greed | Thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, Kẻ Siêu Việt mang bản tính tham lam vô tận tự trói mình trong lâu đài ở Elo Katra; ở #345 lộ diện là cựu Thượng Đế Thiên giới | 299 |
 | Zeàr |  | Zeàr | Thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta; bị Liera hạ sát ở #303 | 303 |
 | First |  | First | Sinh vật Long tộc (dực long hệ hỏa Lv 290) đầu tiên quy phục Yu IlHan tại Daréu, được ban tên và tái sinh thành rồng thực thụ qua Cái Nôi Kỳ Tích | 309 |
 | Lay |  | Lay | Tên gọi ngắn gọn do Yu IlHan đặt cho Ngọn Lửa Vĩnh Cửu từ chương 315 | 315 |
@@ -945,6 +945,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 298: Dùng tạo tác thương cấp Thần giao chiến với Yu IlHan nhưng bị đoạt mất vũ khí và bị phản phệ bởi chính năng lực sao chép của tạo tác thông qua Siêu Việt Quỹ Đạo; bất lực chứng kiến Raphael tử trận và đành ngậm ngùi hạ lệnh cho toàn bộ thiên thần rút lui về Thiên giới.
 - Xuất hiện tính đến chương 324: Xuất hiện chặn đứng sự dao động của các thiên thần trước Uriel; hấp thụ sức mạnh của Thượng Đế và ký lục cần thiết thăng hoa thành Kẻ Siêu Việt với 5 cánh ánh sáng, tuyên bố từ bỏ thân phận thiên thần để trở thành Thượng Đế mới, rồi cầm giáo ánh sáng lao vào quyết chiến với Yu IlHan.
 - Trạng thái tính đến chương 326: Hấp thụ tàn dư sức mạnh của Thượng Đế và toàn bộ ký lục, thăng hoa ngọn lửa thành ánh sáng với 5 cặp cánh ánh sáng tiến hóa thành Kẻ Siêu Việt cấp độ 700 tự xưng là Thượng Đế mới; hoàn toàn bất lực và thất bại trước Yu IlHan; sau khi Yu IlHan rút lui cùng 1/10 binh lực thiên thần và toàn bộ ngân khố, Michael đích thân dẫn toàn lực tiến ra Bức Tường Hỗn Loạn trấn áp quái vật của Quân Đội Ma Hủy Diệt để củng cố quyền uy và thống nhất Thiên giới.
+- Trạng thái tính đến chương 345: Thức tỉnh thành Thần Ánh Sáng vượt qua Hồ Sơ Akashic; tấn công lâu đài Elo Katra đối đầu trực diện Greed; bộc lộ năng lực tước đoạt bẩm sinh từng dùng để lật đổ Thượng Đế năm xưa; dồn toàn lực chuyển hóa ma lực thành ánh sáng để tiêu diệt Greed nhưng bị đối phương nuốt chửng toàn bộ ánh sáng; bàng hoàng nhận ra Greed chính là cựu Thượng Đế Thiên giới (Cha của mình).
 
 ### Raphael
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.
@@ -995,6 +996,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam/vô tính, thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, một Kẻ Siêu Việt.
 - Ngoại hình / hành vi: Một cự quái có kích thước khổng lồ đến mức phải dùng ma pháp bẻ cong không gian để ép mình vào lâu đài tại Elo Katra, bị trói buộc bởi những xiềng xích kim loại cổ đại; cơ thể là sự dung hợp bão hòa của mọi dạng sống qua muôn vàn thế giới (lông chim, vảy rồng, bóng hơi cá, bờm sư tử, nanh độc, da troll, cơ bắp ogre, vòng thiên thần, lông đen thiên thần sa ngã); giọng nói điềm đạm như đàn ông trung niên; bản tính tham lam vô tận, nuốt chửng mọi thứ để biến thành sức mạnh.
 - Xuất hiện tính đến chương 300: Chào đón Yu IlHan đến Elo Katra; phớt lờ việc IlHan giết Keshein và Hillutonne; tiết lộ việc Thượng Đế không còn ở Thiên giới (đã chết) và nhận định Yu IlHan sẽ trở thành vị Thượng Đế mới, Đấng Sáng Tạo mới để tái tạo các thế giới cho hắn tiếp tục nuốt chửng; đề xuất liên minh bình đẳng với IlHan tiêu diệt hai thế lực còn lại và xóa sổ Thiên giới nhưng bị IlHan thẳng thừng từ chối.
+- Trạng thái tính đến chương 345: Trực tiếp nghênh chiến Michael tại Elo Katra; phá vỡ lâu đài và xiềng xích cổ đại bộc lộ thân xác cự quái lấp đầy thế giới; dùng năng lực nuốt chửng năng lượng và ma lực khắc chế ánh sáng của Michael; sau khi thân xác cự quái tan chảy, lộ chân tướng là một người đàn ông bao bọc trong ánh sáng của Michael, chính là cựu Thượng Đế Thiên giới (Cha của Michael).
 
 ### Zeàr
 - Giới tính, vai trò: Nam, thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta.
@@ -1003,6 +1005,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### God
 - Giới tính, vai trò: Vô tính / Nam, thủ lĩnh tối cao sáng lập Quân Đội Thiên Giới, một Kẻ Siêu Việt; Đấng tạo hóa đã rời bỏ Thiên giới.
 - Trạng thái tính đến chương 312–314: Bí mật tạo ra các sinh thể golem kháng mana từ hợp kim Harkanium, Fecinom và El Hazra tại một thế giới bí mật; âm mưu xóa sổ vạn vật sở hữu mana để làm lại từ đầu từ Adam và Eva không có mana; liên lạc dụ dỗ Kang MiRae trong tiềm thức khi cô trở thành thực thể cấp cao nhưng bị cự tuyệt; cài ngòi nổ ma pháp vào ký lục của Kang MiRae nhằm thủ tiêu cô nhưng bị Yu IlHan hóa giải.
+- Thân phận thực sự hé lộ ở chương 345: Cựu Thượng Đế Thiên giới chính là Greed, thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt; sau khi bị đuổi khỏi Thiên giới đã che giấu thân phận dưới lốt quái thú tham lam dung hợp vạn vật tại Elo Katra và dụ dỗ Michael phát huy ánh sáng để nuốt chửng hoàn toàn.
 
 ### Luciel
 - Giới tính, vai trò: Nam, tên gọi ban đầu của Satan khi còn là Đại Thiên Thần của Quân Đội Thiên Giới trước khi cưỡng đoạt sức mạnh của Thượng Đế và sa ngã thành Kẻ Phản Bội (#320).
