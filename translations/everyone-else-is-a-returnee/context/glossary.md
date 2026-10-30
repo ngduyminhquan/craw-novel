@@ -711,7 +711,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dimensional Traveller |  | Du Hành Giả Thứ Nguyên | chức nghiệp | 219 | Chức nghiệp phụ độc nhất Yu IlHan đạt được, giảm tài nguyên tiêu hao khi di chuyển giữa các thứ nguyên |
 | Dimensional Adaptation |  | Thích Ứng Thứ Nguyên | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên giúp xóa bỏ mọi phạt chỉ số ở bất kỳ thứ nguyên nào |
 | Fleet Command |  | Chỉ Huy Hạm Đội | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên cho phép mang thành viên đi cùng khi di chuyển chiều không gian và chia sẻ Thích Ứng Thứ Nguyên |
-| Ruler of Dimensions |  | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
+| Ruler of Dimensions | Dimensional Ruler | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
 | Maha prajna para mita |  | Ma ha bát nhã ba la mật đa | khác | 219 | Câu chân ngôn tiếng Phạn Bát Nhã Ba La Mật Đa (Maha Prajnaparamita) do Orochi trì tụng khi tịnh tâm thiền định |
 | High-class Holy power control |  | Điều Khiển Thánh Lực Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
 | High-class blessing |  | Chúc Phúc Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
@@ -745,7 +745,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Unshakable Heart |  | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |
 | Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
-| fifth God | fifth god; the fifth God; the fifth god | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
+| fifth God | fifth god; the fifth God; the fifth god; Fifth God | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
 | Lünaë |  | Lünaë | địa danh | 256 | Khu vực/thành trì tại thế giới Heishia bị quân đội orc tàn phá |
 | Model Garden |  | Khu Vườn Mô Hình | địa danh | 258 | Thế giới hỗn loạn nơi thời gian và không gian ngưng trệ, thuộc quyền quản lý của Khu Vườn Hoàng Hôn |
 | God of Magic | god of magic | Thần Ma Pháp | khác | 259 | Vị thần hình thành từ tích lũy ghi chép ma pháp trong Hồ Sơ Akashic ban phước cho Kang MiRae |

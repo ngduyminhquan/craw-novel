@@ -1734,3 +1734,8 @@ Yu IlHan chia hai đội tiếp tục hành trình: nhóm Kang MiRae, Na YuNa, L
 Trải qua hàng chục thế giới tàn lụi, Yu IlHan bất đắc dĩ tiếp nhận vô số người tị nạn cùng tàn dư tộc elf đưa về Trái Đất phồn vinh ngoài dự tính, đồng thời phát hiện dấu hiệu bất thường khi các thiên thần Quân Đội Thiên Giới hoàn toàn biến mất ở khắp các thế giới.
 Cảnh kết thúc: Trải qua thêm khoảng mười đợt đặc huấn trong kết giới của Đồng Hồ Cát Vĩnh Hằng mà vẫn chưa thể chạm tới cảnh giới thực thể cấp cao, Yu IlHan kết luận anh phải thu thập thêm ký lục của các thực thể cấp cao.
 
+## 282
+Yu IlHan quyết định phải can thiệp vào các hoạt động của thực thể cấp cao và nhắm tới các phân bộ thế giới bậc cao để thu thập thêm ký lục nhằm đột phá cảnh giới thực thể cấp cao.
+Kim YeSeul khéo léo đuổi mọi người ra ngoài để Helièna lập kết giới nói chuyện riêng với Yu IlHan, tiết lộ sự biến mất của các thiên thần là do lộ bản doanh Quân Đội Ánh Sáng Rực Rỡ và cuộc đại chiến tranh giành Trái Đất sắp bùng nổ.
+Helièna thú nhận ả từng bị thủ lĩnh Khu Vườn Hoàng Hôn lợi dụng để lan truyền lời tiên tri về Vị Thần Thứ Năm nhằm kích động các phe phái xâu xé Trái Đất, qua đó tạo điều kiện cho IlHan trưởng thành và trở thành Thần.
+Cảnh kết thúc: Bực bội tột cùng khi phát hiện bản thân và Trái Đất bị các thế giới tính toán sắp đặt từ trước khi sinh ra, Yu IlHan quyết định chống lại số phận bằng cách tập hợp mọi người chuẩn bị tuyên chiến và đi cướp đoạt các thế giới bậc cao.
