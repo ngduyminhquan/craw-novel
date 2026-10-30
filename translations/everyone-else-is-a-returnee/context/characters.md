@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới; đến #351 hoàn tất Đại Dung Hợp và cử hành hôn lễ với Liera | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
@@ -30,7 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
-| Liera | Lieara; LIera; Lier | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
+| Liera | Lieara; LIera; Lier | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91); đến #351 cử hành hôn lễ với Yu IlHan với tư cách chính thất | 91 |
 | Lecidna |  | Lecidna | Con rồng vảy vàng kim chuyển chức 4 tuân theo mặc khải của Khu Vườn Hoàng Hôn, đại diện bầy rồng lập đồng minh với Yu IlHan để bảo vệ tộc elf | 90 |
 | Caliana |  | Caliana | Con rồng chuyển chức 4 thuộc bầy rồng ở bờ biển bị Yu IlHan tập kích tiêu diệt | 92 |
 | Esila |  | Esila | Con rồng chuyển chức 4 bị thương ở cổ, bị Yu IlHan cắm thương dồn trọng lượng kéo rơi xuống đất và kết liễu | 93 |
@@ -308,6 +308,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 333: Cùng Mystic nén và dung hợp gần bảy ngàn thế giới vào Daréu; đạt cấp 650 sau khi tiêu diệt hàng ngàn thế giới bậc cao; cường hóa thể xác vượt bậc (xương, máu, cơ, da) và thấu suốt chân lý cấp độ là sự tích lũy ghi chép; dùng Dịch Chuyển triệu hồi cha mẹ từ Khu Vườn Khe Nứt nhưng chỉ kéo được mẹ Kim YeSeul về do Gabriel từ chối để ở lại cản địch.
 - Trạng thái tính đến chương 335: Kết thúc Đại Tai Biến lần thứ 9 của Daréu sau khi dung hợp toàn bộ 23.000 thế giới bậc cao của các phe phái; đạt cấp độ 748 (Sức mạnh 1.754, Nhanh nhẹn 1.545, Thể lực 1.443, Ma pháp 3.559), các kỹ năng tăng vọt (Hiển Hiện Lv 87, Siêu Việt Quỹ Đạo Lv 65, Tuyên Cáo Lv 88, Dịch Chuyển Lv 97, Chúa Tể Thứ Nguyên Lv 99, Phản Kích Lv 87, Thích Ứng Thứ Nguyên Lv 99, Chỉ Huy Hạm Đội Lv 99); tự nhận mình là Kẻ Sáng Tạo chưa hoàn chỉnh (Bán Thể - Halfling); chuẩn bị cùng Kang MiRae mở cây cầu Quỹ Đạo Ngân Hà nối liền Daréu với Trái Đất.
 - Trạng thái tính đến chương 339: Đưa toàn bộ cư dân trở lại mặt đất Trái Đất mới, dùng Tuyên Cáo cấm quái vật chủ động tấn công con người; mở lòng kể lại trọn vẹn 1.000 năm bị bỏ lại đơn độc của mình cho mẹ và mọi người lắng nghe; dùng Tuyên Cáo phóng chiếu hình ảnh Đồng Hồ Cát Vĩnh Hằng khổng lồ lên bầu trời Trái Đất để toàn thể cư dân theo dõi mốc thời gian chuẩn bị; bắt tay vào nghiên cứu chế tác từ thi thể của Archlegna và Raphael trong xưởng chế tác.
+- Trạng thái tính đến chương 351: Hoàn tất công cuộc Đại Dung Hợp mọi thế giới về Trái Đất mới; tái sinh Phiria và cho các thành viên Long Sào cơ hội thỉnh cầu nguyện vọng ("gian lận"); dành 1 tháng rèn đúc cặp nhẫn cưới chứa đựng mọi kim loại và linh hồn vạn vật để trao cho người vợ đầu tiên (chính thất) Liera trong hôn lễ giữa bầu trời.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -349,6 +350,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 220–222: Cùng IlHan và Pháo Đài Bay tới Breya; khoác chiến bào lộng lẫy và cầm thương giáng lâm khiến các thánh kỵ sĩ ngỡ ngàng trước nhan sắc sánh ngang Thánh nữ; nhận trách nhiệm dọn dẹp tàn quân để Giáo hoàng cùng các thánh kỵ sĩ đi nghỉ ngơi; ghen tuông khi thấy Na YuNa ôm chặt IlHan nhưng lập tức an lòng khi IlHan khẳng định cô là người đặc biệt nhất; dặn IlHan nếu gặp thực thể chuyển chức 6 thì phải bỏ chạy.
 - Trạng thái tính đến chương 235: Nép sau lưng Yu IlHan trêu chọc và chế giễu Erta khi Erta bất lực nổi giận; cùng IlHan lắng nghe kế hoạch của Erta và nhanh chóng nhận ra chướng ngại lớn nhất là khế ước giữa IlHan và Spiera.
 - Trạng thái tính đến chương 311: Được Yu IlHan dùng Cái Nôi Kỳ Tích hòa cùng một giọt máu của anh để tái sinh cơ thể, sở hữu hai cặp cánh rồng màu đỏ rực rỡ và lấp đầy khoảng trống ký lục sau thời gian dài mất tư cách thiên thần, chính thức khôi phục đẳng cấp thực thể cấp cao chuyển chức lần 6 dưới trướng thế lực Long Sào.
+- Trạng thái tính đến chương 351: Chấp nhận tình cảm của Yu IlHan dành cho các cô gái khác nhưng giữ vững vị thế người vợ đầu tiên (chính thất); tổ chức hôn lễ hoành tráng cùng Yu IlHan trên lễ đường mây và trao nhau cặp nhẫn cưới thiêng liêng.
 
 ### Erta
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, dung mạo tuyệt mỹ, vóc dáng cao ráo ngang Yu IlHan; thường dùng ma pháp thu nhỏ để xuất hiện dưới hình dạng tí hon đậu trên đỉnh đầu anh.

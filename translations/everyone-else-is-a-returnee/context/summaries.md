@@ -2144,3 +2144,10 @@ Yu IlHan chĩa pháo kết hợp Siêu Việt Quỹ Đạo bắn nát tim Thư�
 Sau khi thiêu rụi thân xác Thượng Đế và thu gom tàn niệm, Yu IlHan kích hoạt mạng lưới Bẫy Phục Hồi bao trùm Thiên giới cùng mọi thế giới, triệu hồi và dung hợp tất cả vào Trái Đất, chính thức trở thành Chúa Tể Thế Giới mới.
 Dùng mana cấp 900 phát động Tuyên Cáo, Yu IlHan tái sinh và đưa những linh hồn thuần khiết của những đứa trẻ chết oan uổng trong Đại Trục Xuất trở về sống trong yên bình, khiến mẹ Kim YeSeul cùng mọi người xúc động rơi lệ.
 Cảnh kết thúc: Yu IlHan điều khiển pháo đài bay đáp xuống Trái Đất để nghênh đón nhân loại trở về, khép lại hành trình bằng lời chào hóm hỉnh của kẻ cô độc đã luôn chờ đợi tất cả.
+
+## 351
+Yu IlHan hoàn tất Đại Dung Hợp đưa muôn thế giới về Trái Đất mới, tạo các khu vực ngăn cách bằng núi non sông biển theo mật độ mana; anh đặc cách hồi sinh Phiria theo thỉnh cầu của Paté và cho toàn thể Long Sào cơ hội thỉnh cầu nguyện vọng ("gian lận").
+Liera chấp nhận tình cảm của Yu IlHan dành cho các cô gái khác với điều kiện được làm chính thất và tổ chức hôn lễ đầu tiên thật hoành tráng; Lucifer đảm nhận vị trí chủ hôn trên lễ đường mây giữa bầu trời, còn Yu IlHan trao tặng cô dâu cặp nhẫn cưới kết tinh từ mọi kim loại và linh hồn vạn vật.
+Sau khi Liera ném hoa cưới rồi cùng Yu IlHan dịch chuyển về phòng riêng, Erta, Kang MiRae, Na YuNa và Helièna đồng loạt bùng nổ sát khí và ma lực tranh giành vị trí người vợ thứ hai của Thần.
+Cảnh kết thúc: Lucifer hào hứng cầm micro mở sới đặt cược xem ai sẽ giành vị trí vợ hai, khẳng định Yu IlHan sẽ không bao giờ còn bị gọi là kẻ cô độc nữa.
+

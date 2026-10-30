@@ -594,3 +594,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | God | Gabriel | ta | ngươi | 350 | Thượng Đế mắng mỏ Gabriel vì sa đọa và quy phục Yu IlHan |
 | Gabriel | God | tôi | ông già Thượng Đế / ông | 350 | Gabriel giễu cợt Thượng Đế về tỷ lệ tử vong 100,1% |
 | Lucifer | God | ta | ông già | 350 | Lucifer khoe cánh rồng ngầu hơn cánh bồ câu với Thượng Đế |
+| Lucifer | Lazière | ta | Lazière / cô / ngươi | 351 | Lucifer đối thoại với Lazière trước lễ cưới |
+| Lazière | Lucifer | tôi | ngài / ngài Lucifer | 351 | Lazière chỉnh áo và khen ngợi Lucifer mặc âu phục |
+| Lucifer | Yu IlHan | ta | chú rể / Yu IlHan / ngươi | 351 | Lucifer làm chủ hôn lễ của Yu IlHan |
+| Yu IlHan | Lucifer | ta | Lucifer / tên kia / ngươi | 351 | Yu IlHan phản đối bài phát biểu chủ hôn của Lucifer |
