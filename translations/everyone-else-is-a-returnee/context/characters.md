@@ -98,6 +98,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lemiel | Ramiel | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
+| Ruby |  | Ruby | Con rồng đỏ sơ sinh Lv 280, sau khi nuốt trọn thịt Echjar thăng lên Lv 294, được Yu IlHan đặt tên và phong làm thủ lĩnh bầy rồng tại Daréu | 302 |
 | Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8 | 289 |
 | Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira; tử trận ở #298 dưới ngọn thương của Yu IlHan | 289 |
 | Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |

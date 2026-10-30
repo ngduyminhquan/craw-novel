@@ -1837,6 +1837,13 @@ Tận dụng sự tự do tuyệt đối từ danh hiệu Kẻ Vượt Trội k�
 Ký lục của Yu IlHan in sâu vào lòng Daréu tạo nên các hồ độc, hỏa ngục và bão bụi kim loại chết chóc mang đặc trưng của riêng anh; nhận thấy bản thân có tiềm năng dung hợp hai thế giới bậc cao nhờ năng lực Sáng Tạo nhưng anh tạm gác lại vì quá hao tổn tâm lực.
 Cảnh kết thúc: Trước vòng lặp sinh tử và tiến hóa dồn dập của quái vật trên thế giới mới ngập tràn ký lục của Yu IlHan, Yumir mơ màng cảm nhận được những con rồng mới đầu tiên đang bắt đầu được tái sinh tại Daréu.
 
+## 302
+Khoảng một triệu con rồng sơ sinh cấp 200 trở lên (có con đạt tới cấp 280) đồng loạt nở rộ khắp Daréu và tụ hội về tôn sùng Yu IlHan là Đấng Sáng Tạo và Cha của chúng; Echjar cũng xúc động gác lại thù hận, tha thiết gửi gắm tâm nguyện nhờ IlHan dẫn dắt bầy rồng thế hệ mới.
+Để rèn luyện bầy rồng và phân chia cấp bậc, Yu IlHan lấy thịt rồng tích trữ trong túi đồ làm phần thưởng khơi mào trận không chiến giành thức ăn nảy lửa; một con rồng đỏ sơ sinh Lv 280 thâu tóm toàn bộ thịt Echjar thăng lên Lv 294, được IlHan đặt tên là Ruby và phong làm thủ lĩnh bầy rồng.
+Anh chữa trị vết thương cho bầy rồng rồi phái chúng đi săn quái vật yếu để bảo vệ trật tự Daréu; đồng thời trấn an tộc elf và Lang tộc trước nỗi sợ loài rồng, nảy ra ý tưởng đào tạo kỵ sĩ rồng sau này.
+Cảnh kết thúc: Khi Đại Tai Biến lần 6 dần lắng dịu trên vùng cao nguyên, ngọn lửa sáng tạo trong lòng Yu IlHan bùng cháy dữ dội và anh quyết định bắt tay xây dựng một thành phố tráng lệ cho toàn bộ thần dân của mình.
+
+
 
 
 

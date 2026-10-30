@@ -100,6 +100,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lazière | Lazière / ngài Lazière | 295 | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ |
 | Crissière | hắn / Crissière / Cánh Thứ 3 Của Ánh Sáng Rực Rỡ | 296 | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Greed | gã / con quái vật / Greed | 299 | Thủ lĩnh Quân Đội Ma Hủy Diệt |
+| Ruby | nó / Ruby / con rồng đỏ | 302 | Con rồng đỏ sơ sinh thủ lĩnh bầy rồng Daréu |
 
 ## Giữa các nhân vật
 
@@ -482,3 +483,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Greed | Hillutonne | ta | hắn / Hillutonne | 299 | Greed ra lệnh và nhận xét về Hillutonne |
 | Greed | Yu IlHan | ta | ngươi / Kẻ Siêu Việt Thứ Năm / Yu IlHan | 299 | Greed tiếp đón và đối thoại với Yu IlHan |
 | Yu IlHan | Greed | tôi | ông / Greed | 299 | Yu IlHan đối thoại với thủ lĩnh Quân Đội Ma Hủy Diệt Greed |
+| Ruby | Yu IlHan | con | Cha | 302 | Ruby gọi Yu IlHan là Cha sau khi được sinh ra và đặt tên |
+| Yu IlHan | Ruby | ta | ngươi / con | 302 | Yu IlHan ra lệnh và đặt tên cho Ruby |

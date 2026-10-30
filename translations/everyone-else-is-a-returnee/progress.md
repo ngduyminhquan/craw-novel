@@ -306,7 +306,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 299 | 297 | Chapter_299 - Chapter 297_ I Will Achieve – 7.txt | I Will Achieve – 7 | reviewed |  |
 | 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | done |  |
 | 301 | 299 | Chapter_301 - Chapter 299_ I Will Achieve – 9.txt | I Will Achieve – 9 | done |  |
-| 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | todo |  |
+| 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | done |  |
 | 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | todo |  |
 | 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | todo |  |
 | 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1004,3 +1005,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#299] Tên thủ lĩnh Quân Đội Ma Hủy Diệt "Greed" — Tạm chọn: giữ nguyên tên riêng Latin "Greed" theo quy tắc tên riêng quái vật/thực thể cấp cao (như Satan, Echjar). Phương án khác: dịch nghĩa thành "Tham Lam". → Đồng ý giữ nguyên tên riêng "Greed" theo quy tắc tên riêng phương Tây/thực thể cấp cao trong rules.md (tương tự Satan, Echjar). (orchestrator)
 - [#299] Xưng hô giữa Yu IlHan và Greed — Tạm dùng: Greed xưng "ta" gọi "ngươi", Yu IlHan xưng "tôi" gọi "ông" (phù hợp giọng điệu điềm đạm như đàn ông trung niên của Greed và tính cách cà khịa thong thả của IlHan). Phương án khác: Yu IlHan xưng "ta" gọi "ngươi". → Đồng ý giữ Greed xưng "ta" - gọi "ngươi", Yu IlHan xưng "tôi" - gọi "ông / Greed" (khớp giọng người đàn ông trung niên điềm đạm trong raw). (orchestrator)
 - [#300] Câu ví von đại chúng 'fused like power rangers' ở đoạn 95: tạm dịch thoát ý là 'hợp thể như năm anh em siêu nhân' cho hài hước và gần gũi với độc giả Việt Nam; đề xuất giữ nguyên cách này hay đổi sang để nguyên 'Power Rangers'? → Giữ cách dịch thoát ý 'hợp thể như năm anh em siêu nhân' cho tự nhiên và hài hước. (orchestrator)
+- [#302] Tiêu đề arc mới "I Am Your Father" (#302–#310) — Tạm chọn: "Ta Là Cha Ngươi – N" ("Ta Là Cha Ngươi – 1" ở #302) theo câu thoại meme Star Wars kinh điển tác giả trích dẫn trong Author's notes. Phương án khác: "Ta Là Cha Của Ngươi – N" hoặc "Ta Là Cha Các Ngươi – N". Tạm dùng trong bản dịch: "Ta Là Cha Ngươi – 1". → Chốt dịch tiêu đề arc 'I Am Your Father – N' là 'Ta Là Cha Ngươi – N'. (orchestrator)
+- [#302] Danh xưng bầy rồng gọi Yu IlHan là "Father" trong thoại [Father], [Father, I wish to become stronger!] — Tạm chọn: dịch là "Cha" / "thưa Cha" (tôn kính Đấng Sáng Tạo) để phân biệt với tiếng "Bố" gần gũi của Yumir. Phương án khác: đồng bộ thành "Bố". Tạm dùng trong bản dịch: "Cha" / "thưa Cha". → Giữ cách dịch 'Cha' / 'thưa Cha' (con - Cha) khi bầy rồng gọi Yu IlHan để phân biệt với tiếng 'Bố' của Yumir. (orchestrator)
+- [#302] Tôn xưng bầy rồng gọi Yu IlHan [To the Supreme!] ở đoạn 23 — Tạm chọn: "Đấng Tối Cao" (tôn xưng cá nhân thiêng liêng) thay vì "Thực thể tối cao" (thuật ngữ Supremes trong glossary chỉ nhóm 5 lãnh tụ các phe). Phương án khác: "Thực thể tối cao". Tạm dùng trong bản dịch: "Đấng Tối Cao". → Giữ 'Đấng Tối Cao' khi bầy rồng tôn xưng cá nhân Yu IlHan là 'the Supreme'. (orchestrator)
