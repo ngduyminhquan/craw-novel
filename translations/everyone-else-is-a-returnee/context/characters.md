@@ -121,6 +121,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lucifer |  | Lucifer | Tên gọi cũ của Satan thuở trước khi vứt bỏ danh xưng này (#330) | 330 |
 | Boomer’ol | Boomer'ol; 5th Battalion Commander Boomer’ol | Boomer’ol | Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt, có khả năng kích nổ tử thi ma binh để tập kích | 331 |
 | Siferai | 9th Battalion Commander Siferai | Siferai | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt, cự nhân mang sừng bọc thân như giáp, thể lực đứng thứ hai sau Greed, mang kịch độc trong máu; hi sinh để hạ độc làm suy yếu Michael | 331 |
+| Leytna | Lady Leytna; Lady Letyna; Leyta | Leytna | Nữ Thần Sắc Đẹp trong quá khứ, một vị thần được ghi chép; xuất hiện dưới dạng tàn niệm truyền dạy bí quyết cho Na YuNa ở #337 | 81 |
 
 ## Chi tiết
 
@@ -1012,3 +1013,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt; nhận Melohinne là em gái.
 - Ngoại hình / Đặc điểm: Gã khổng lồ to lớn hơn cả Melohinne, mọc sừng khắp người như bộ giáp; mang kịch độc trong máu; sức mạnh thể chất đứng thứ hai sau Greed trong Quân Đội Ma Hủy Diệt; cuồng si sự hủy diệt, hoan lạc khi đối đầu kẻ mạnh.
 - Xuất hiện/tử trận tính đến chương 331: Cùng các Tiểu Đoàn Trưởng chặn đường Michael; lợi dụng làn sương nguyền rủa của Melohinne để lao thẳng vào Michael, dùng máu chứa kịch độc làm ô uế và suy yếu thể xác Michael trước khi nổ tung tử trận trong sự hoan lạc cuồng nhiệt.
+
+### Leytna
+- Giới tính, vai trò: Nữ, Nữ Thần Sắc Đẹp trong quá khứ, một trong các "thần được ghi chép"; tín ngưỡng của Na YuNa và Giáo Hội Leytna.
+- Xuất hiện: Xuất hiện dưới dạng tàn niệm trong ý thức của Na YuNa ở chương 337, thừa nhận nhan sắc của Na YuNa, truyền dạy bí quyết làm đẹp để quyến rũ Yu IlHan và trao tàn dư thần lực cuối cùng trước khi tan biến vĩnh viễn.

@@ -545,3 +545,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | God | Satan | ta | ngươi / Lucifer | 334 | Thượng Đế chất vấn và ra lệnh cho Satan mang thi thể Gabriel về |
 | Kim YeSeul | Will of the Guardian | tôi | cậu / Ý Chí Hộ Vệ | 336 | Kim YeSeul liên kết tâm trí và điều phối ma pháp trận cùng Ý Chí Hộ Vệ |
 | Will of the Guardian | Kim YeSeul | ta | ngươi | 336 | Ý Chí Hộ Vệ phản ứng khi được kết nối tâm trí với Kim YeSeul |
+| YuNa | Leytna | con | Nữ thần Leytna / Đức bà Leytna / Người | 337 | Na YuNa đối thoại với tàn niệm Nữ Thần Sắc Đẹp Leytna |
+| Leytna | YuNa | ta | ngươi / con / YuNa | 337 | Tàn niệm Leytna truyền dạy bí quyết quyến rũ đàn ông cho Na YuNa |

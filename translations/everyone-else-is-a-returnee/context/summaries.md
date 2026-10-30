@@ -2057,7 +2057,8 @@ Kang MiRae mở cánh cổng khổng lồ kết nối Daréu với Trái Đất;
 Kim YeSeul cùng Erta và Helièna kết nối tâm trí với Ý Chí Hộ Vệ nhằm phối hợp kiến tạo ma pháp trận thời không; trong khi đó Yu IlHan lần lượt vận dụng Rèn Đúc, Chế Tác Mana, Linh Hồn Phụ Ma và Cái Nôi Kỳ Tích để rèn gộp hai thế giới.
 Cảnh kết thúc: Cái Nôi Kỳ Tích hóa thành một quả trứng khổng lồ bao trùm cả Daréu lẫn Trái Đất, chính thức ứng nghiệm lời tiên tri.
 
-
-
-
-
+## 337
+Trong không gian trung gian rực đỏ của Cái Nôi Kỳ Tích, Kim YeSeul, Erta và Helièna nỗ lực phối hợp cùng Ý Chí Hộ Vệ tính toán và xây dựng công thức ma pháp phổ quát để làm tâm điểm định hình cho thế giới mới.
+Kang MiRae thấu hiểu lý do mình bị Yu IlHan thu hút, dốc toàn lực duy trì và cường hóa Quỹ Đạo Ngân Hà để đồng bộ hóa hai chiều không gian của Daréu và Trái Đất; tàn niệm của Nữ Thần Sắc Đẹp Leytna xuất hiện truyền dạy bí quyết làm đẹp để quyến rũ IlHan và trao tàn dư sức mạnh cuối cùng cho Na YuNa trước khi tan biến.
+Yu IlHan dùng Tuyên Cáo và triết lý Nấu Nướng đỉnh cao để cân bằng hai thế giới và đón nhận sự hỗ trợ kịp thời từ ma pháp không gian của Kang MiRae cùng kỳ tích tăng cường của Na YuNa giúp áp chế phản phệ.
+Cảnh kết thúc: Yu IlHan mỉm cười đầy hân hoan khi cảm nhận hai thế giới đã hòa làm một và sẵn sàng nghênh chiến các thế lực thù địch với tư cách Thượng Đế và Kẻ Sáng Tạo.

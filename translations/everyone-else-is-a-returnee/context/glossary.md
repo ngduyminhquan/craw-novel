@@ -468,7 +468,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Biting Dark Python |  | Hắc Mãng Cắn Xé | vật phẩm | 80 | Thành phần giáp từ xương Yamata no Orochi mài thành lưỡi dao cắn xé kẻ địch |
 | Pressure Tiger Bone Bastard |  | Kiếm Bastard Xương Hổ Trọng Áp | vật phẩm | 81 | Kiếm bastard phẩm cấp Hiếm do Yu IlHan chế tạo từ xương hổ cung cấp cho lực lượng Trấn Áp |
 | The Holy Stone of the Goddess of Beauty, Leytna |  | Thánh Thạch của Nữ Thần Sắc Đẹp Leytna | vật phẩm | 81 | Khoáng thạch chứa thánh lực từ đền thờ Nữ Thần Sắc Đẹp Leytna |
-| Leytna | Leyta; Lady Leytna; Lady Letyna | Leytna | khác | 81 | Tên Nữ Thần Sắc Đẹp trong tín ngưỡng của Na YuNa |
 | Excalibur |  | Excalibur | khác | 81 | Thần kiếm trong truyền thuyết vua Arthur phương Tây (tham chiếu so sánh) |
 | Pressure |  | Trọng Áp | hệ thống | 81 | Tiền tố dòng thuộc tính alpha/beta của tạo tác |
 | Magic Dragon Clan | Magic Dragon clan; Magic Dragon; Demon Dragon clan; Demon Dragon | Clan Ma Long | tổ chức | 82 | Clan dị năng giả của Nhật Bản do Takagaki Asuha làm Chủ Clan |
