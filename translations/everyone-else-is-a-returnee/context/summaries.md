@@ -1856,6 +1856,12 @@ Orochi tận dụng cơ thể rồng chuyển chức 7 biến đổi cánh tay t
 Bị tổn hại, kẻ địch đình chỉ hồi phục và tạo ra ba vòng hào quang xoay tít truy kích dữ dội nghiền nát lớp giáp Kelatuke; lợi dụng lúc nó mất tập trung, Orochi ẩn thân bắn ngọn cốt thương dự trữ thứ hai nghiền nát nó từ đỉnh đầu tới hạ bộ, kết liễu thành công sinh vật bí ẩn.
 Cảnh kết thúc: Vừa hạ gục kẻ địch và nhận được điểm kinh nghiệm ẩn danh (Lv??? ??????) giống ngón nghề của Yu IlHan, cả nhóm bàng hoàng khi ba sinh vật bí ẩn tương tự đồng loạt xuất hiện giương tay tuyên bố loại trừ.
 
+## 305
+Ba sinh vật bí ẩn vô hiệu hóa mana và dồn ép cả nhóm vào đường cùng; Na YuNa thi triển lời chúc phúc của Nữ Thần Sắc Đẹp lên Helièna, giúp cô bùng nổ mị lực cực hạn kiềm tỏa và làm rối loạn cơ chế phân tích của kẻ địch.
+Nhờ đó dòng mana được giải phóng: Erta nén toàn bộ mana của nhóm bắn viên đạn ma pháp khổng lồ phá nát cánh và vòng hào quang của chúng; Kim YeSeul dùng ma pháp thời không làm chậm, mở đường cho Orochi dùng Súng Bắn Cọc và Paté kích nổ xác thực thể cấp cao tiêu diệt gọn cả ba con.
+Khi chín sinh vật tương tự bất ngờ qua cổng không gian tiếp viện chặn đứng lối thoát, Kang MiRae dùng Vương Miện Trí Tuệ cùng dược phẩm kích phát mana, tạo hàng trăm cánh cổng không gian siêu nhỏ xé nát toàn bộ chín kẻ địch rồi kiệt sức ngất lịm.
+Cảnh kết thúc: Sau chiến thắng kỳ tích, kết giới phong tỏa biến mất và giọng nói của Yu IlHan kịp thời vang lên qua thiết bị liên lạc thông báo Daréu đã an toàn, Liera bàng hoàng nhìn MiRae ngất xỉu chuẩn bị báo cáo tình hình.
+
 
 
 

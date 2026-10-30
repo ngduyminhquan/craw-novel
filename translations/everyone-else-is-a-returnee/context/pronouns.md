@@ -493,3 +493,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Orochi | Liera | ta | ngươi / cô | 304 | Orochi phối hợp tác chiến cùng Liera |
 | Helièna | Orochi | ta | ngươi / con rắn ngốc | 304 | Helièna phàn nàn và chê bai Orochi |
 | Orochi | Helièna | ta | ngươi | 304 | Orochi tranh cãi với Helièna về Súng Bắn Cọc |
+| Helièna | YuNa | ta | em / cô | 251 | Helièna trò chuyện và nhờ Na YuNa ban chúc phúc |
+| Mystic | Helièna | ta | cô | 305 | Mystic quát Helièna trong lúc né đòn |
+| Helièna | Mystic | ta | cô | 305 | Helièna đáp lời Mystic |
+| Erta | Mystic | tôi / ta | cô / ngươi | 204 | Erta nói chuyện với Mystic trên Pháo Đài Bay |
+| Mystic | Erta | ta | cô | 204 | Mystic đối đáp với Erta |

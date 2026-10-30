@@ -374,6 +374,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 180: Tiếp tục phát triển vượt bậc, quản lý giao thương dị giới cho Vanguard; ngượng ngùng khi lỡ miệng gọi "mẹ" (mẹ của IlHan) trước mặt anh; thông báo Trái Đất chuẩn bị bùng nổ Đại Tai Biến lần 3 trong vòng 1–3 tháng tới.
 - Trạng thái tính đến chương 198: Bị kẹt lại Lanpas sau Đại Tai Biến lần 3, trở thành cố vấn đáng tin cậy nhất của Nữ hoàng Irma An Ill'ta; trong vòng 1 năm đã chinh phục 3 tàn tích ma pháp cổ và nghiên cứu ma pháp kết nối hai thế giới; thẳng thắn thừa nhận 365 ngày lúc nào cũng nhớ Yu IlHan.
 - Trạng thái tính đến chương 259: Khai phá một cảnh giới mới của Hồ Sơ Akashic và hoàn thành chuyển chức lần 4 tại Palladia (Lanpas); được Thần Ma Pháp ban phước giảm một nửa mana tiêu hao và hồi phục toàn bộ mana mỗi tháng một lần; kích hoạt cánh cổng lam chuẩn bị sang gặp Yu IlHan.
+- Trạng thái tính đến chương 305: Khi 9 sinh vật bí ẩn tiếp viện khóa chặt mana của cả nhóm, dùng Vương Miện Trí Tuệ cùng dược phẩm kích phát mana lên cực hạn, sáng tạo ra cách mở hàng trăm cánh cổng không gian siêu nhỏ xé nát toàn bộ kẻ địch, tạo nên 'kỳ tích' tiêu hao lượng lớn thánh lực của Na YuNa rồi kiệt sức ngất lịm.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -793,6 +794,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 262: Thi thể nguyên vẹn được Yu IlHan dùng Cái Nôi Kỳ Tích, máu Echjar, ma thạch cấp 7 và sức mạnh của Paté tái tạo và làm đập lại trái tim bằng Chế Tác Mana thuần thục; tàn niệm (giữ khoảng 60% ý thức nguyên bản) chấp nhận gắn kết với IlHan qua kỹ năng Thống Trị, chính thức trở thành thuộc hạ của Yu IlHan và được Linh Hồn Phụ Ma trở lại vào thể xác ban đầu.
 - Xuất hiện tính đến chương 266: Xuất hiện sống sờ sờ làm náo loạn liên minh các phe phái, dùng mị lực thao túng các thực thể cấp cao làm lá chắn đỡ đòn của Satière câu giờ cho Kang MiRae mở cổng; lộ ra chuyện có vô số người theo đuổi kể cả thực thể chuyển chức 7.
 - Xuất hiện tính đến chương 282: Tiết lộ việc từng bị thủ lĩnh Khu Vườn Hoàng Hôn lợi dụng lan truyền lời tiên tri về Vị Thần Thứ Năm để kích động các phe phái nhắm vào Trái Đất, nhằm tạo cơ hội gặp gỡ và biến Yu IlHan thành Thần.
+- Trạng thái tính đến chương 305: Trong trận chiến với các sinh vật bí ẩn, chấp nhận nhận lời chúc phúc của Na YuNa từ Nữ Thần Sắc Đẹp để khuếch đại mị lực lên cảnh giới áp đảo cả sinh thể phi sự sống, phá vỡ khả năng vô hiệu hóa mana của kẻ địch và trói chân 9 kẻ địch tạo thời cơ cho Kang MiRae phản công.
 
 ### Lisona
 - Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.
