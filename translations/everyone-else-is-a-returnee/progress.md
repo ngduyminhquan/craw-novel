@@ -310,9 +310,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | reviewed |  |
 | 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | reviewed |  |
 | 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | reviewed |  |
-| 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | done |  |
-| 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | done |  |
-| 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | done |  |
+| 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | reviewed |  |
+| 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | reviewed |  |
+| 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | reviewed |  |
 | 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | todo |  |
 | 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | todo |  |
 | 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | todo |  |

@@ -13,7 +13,7 @@
 - Hán Việt chỉ dùng cho tên kỹ năng/danh hiệu/thuật ngữ (xem rules.md) và những chỗ tiếng Việt vốn dùng Hán Việt.
 - Dịch ý, không dịch từng chữ. Câu bị động, mệnh đề quan hệ dài của raw EN phải viết lại cho xuôi.
 - Giữ nguyên chất hài: câu đùa, châm chọc, tự giễu phải còn buồn cười trong tiếng Việt; chơi chữ không dịch được thì thay bằng cách nói tương đương.
-- Từ cảm thán, tiếng kêu (Kuk, Ugh, Tsk...) chuyển sang dạng tiếng Việt tương ứng (Hự, Ối, Chậc...), thống nhất theo bảng dưới.
+- Từ cảm thán, tiếng kêu (Kuk, Ugh, Tsk...) chuyển sang dạng tiếng Việt tương ứng (Hự, Ối, Chậc...), thống nhất theo bảng dưới. Viết liền các ký tự kéo dài trong từ tượng thanh / tiếng kêu quái vật (vd `Gừồồồồ...`, `Khéoooo...`), không chèn dấu cách đơn giữa từng chữ cái lẻ.
 - Không thêm thắt nội dung, không tóm tắt, không kiểm duyệt.
 
 ## Từ cảm thán / cách nói cố định

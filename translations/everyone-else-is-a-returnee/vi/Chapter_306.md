@@ -96,7 +96,7 @@ Helièna nở một nụ cười ấm áp khi nói ra điều đó. Ả đã tha
 
 "......Hự."
 
-Đối diện với ả, anh cảm thấy nhồn nhột và như thể mình đang phạm phải tội lỗi với Liera, thế nên anh đành quay đầu đi với một nụ cười gượng gạo. Đứng ở đó là Kang HaJin đang cõng Kang MiRae ngất lịm trên lưng. Anh đã sớm biết rằng cô gái ấy chính là người đã che chở cho tất cả những người khác trong nhóm.
+Đối diện với ả, anh cảm thấy nhột nhạt trong lòng và như thể mình đang phạm phải tội lỗi với Liera, thế nên anh đành quay đầu đi với một nụ cười gượng gạo. Đứng ở đó là Kang HaJin đang cõng Kang MiRae ngất lịm trên lưng. Anh đã sớm biết rằng cô gái ấy chính là người đã che chở cho tất cả những người khác trong nhóm.
 
 "Vậy là...... cô MiRae đã ngất đi và vẫn chưa tỉnh lại sao?"
 

@@ -2,11 +2,11 @@
 
 Lời khiêu khích của anh mang lại hiệu quả tức thì. Lũ sinh vật Long tộc vốn đang hoang mang tự hỏi về ý nghĩa tồn tại của chính mình khi chứng kiến hàng trăm nghìn con rồng chao lượn trên bầu trời, thì nay nghe những lời ngông cuồng của Yu IlHan, tất cả liền bắt đầu lũ lượt kéo đến.
 
-[Gừ ô ô ô ô ô ô ô!]
+[Gừồồồồồồồ!]
 
 Từ khắp núi non và rừng rậm.
 
-[Khé o o o o o o h!]
+[Khéoooooooh!]
 
 Từ trên đỉnh những tầng mây.
 
@@ -30,7 +30,7 @@ Yu IlHan thản nhiên phớt lờ lời Echjar, rồi mượn ma pháp trận c
 
 [Ngươi rốt cuộc là thứ gì.]
 
-[Khéck! Khéeeeh!]
+[Khéck! Khéccc!]
 
 [Đáng ghét! Ngươi thật đáng ghét!]
 
@@ -164,7 +164,7 @@ Thế nhưng.
 
 [Khặc...... khìiiiik!]
 
-[Khu a a a a a h Khu a a a a a h n!]
+[Khuàààààh! Khuàààààhn!]
 
 Bao gồm cả con dực long, toàn bộ sinh vật Long tộc vốn khựng cứng người lại giữa lúc lao về phía anh, cũng như những kẻ bất tuân tiếng gọi nhưng vẫn phải quỳ rạp xuống ngay khoảnh khắc Yu IlHan kích hoạt Hiển Hiện, đều cảm nhận sâu sắc điều đó đến tận xương tủy.
 
@@ -192,7 +192,7 @@ Và điều này cũng đồng nghĩa với một chuyện khác nữa.
 
 [.......]
 
-Ngay cả cựu Tuyệt Vọng Chi Long, Echjar, cũng cạn lời. Tên này thực sự quá hợp làm gã ác ma thống trị loài rồng! Có lẽ anh ta thậm chí vẫn sẽ làm tốt ngay cả khi trở thành thủ lĩnh của Quân Đội Ma Hủy Diệt!
+Ngay cả cựu Tuyệt Vọng Chi Long, Echjar, cũng cạn lời. Tên này thực sự quá hợp làm gã ác ma thống trị loài rồng! Có lẽ anh thậm chí vẫn sẽ làm tốt ngay cả khi trở thành thủ lĩnh của Quân Đội Ma Hủy Diệt!
 
 "Được thôi, ta sẽ giúp các ngươi mạnh hơn."
 
