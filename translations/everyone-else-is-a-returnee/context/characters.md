@@ -377,6 +377,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 198: Bị kẹt lại Lanpas sau Đại Tai Biến lần 3, trở thành cố vấn đáng tin cậy nhất của Nữ hoàng Irma An Ill'ta; trong vòng 1 năm đã chinh phục 3 tàn tích ma pháp cổ và nghiên cứu ma pháp kết nối hai thế giới; thẳng thắn thừa nhận 365 ngày lúc nào cũng nhớ Yu IlHan.
 - Trạng thái tính đến chương 259: Khai phá một cảnh giới mới của Hồ Sơ Akashic và hoàn thành chuyển chức lần 4 tại Palladia (Lanpas); được Thần Ma Pháp ban phước giảm một nửa mana tiêu hao và hồi phục toàn bộ mana mỗi tháng một lần; kích hoạt cánh cổng lam chuẩn bị sang gặp Yu IlHan.
 - Trạng thái tính đến chương 305: Khi 9 sinh vật bí ẩn tiếp viện khóa chặt mana của cả nhóm, dùng Vương Miện Trí Tuệ cùng dược phẩm kích phát mana lên cực hạn, sáng tạo ra cách mở hàng trăm cánh cổng không gian siêu nhỏ xé nát toàn bộ kẻ địch, tạo nên 'kỳ tích' tiêu hao lượng lớn thánh lực của Na YuNa rồi kiệt sức ngất lịm.
+- Trạng thái tính đến chương 312: Trong không gian hư vô tâm thức, thẳng thừng từ chối lời chiêu dụ của kẻ tự xưng là Thượng Đế muốn biến cô thành Eva bên cạnh Adam (Yu IlHan) để hủy diệt và làm lại thế giới; tự mình lĩnh ngộ bản chất mana từ không gian xung quanh mà không cần kỹ năng, tạo nên kỳ tích chưa từng có trong Hồ Sơ Akashic; đánh tan ý niệm của Thượng Đế và từ chối thăng hoa một mình để trở về hội ngộ cùng Yu IlHan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -848,17 +849,28 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ (ý chí linh hồn mang giọng nói bé gái), ngọn lửa sống bất diệt của Yu IlHan.
 - Tính cách / Cách nói chuyện: Ngây thơ, trong sáng, tràn đầy nhiệt huyết và tuyệt đối trung thành với Yu IlHan; xưng "em", gọi Yu IlHan là "chủ nhân".
 - Xuất hiện tính đến chương 278: Thức tỉnh ý chí sau khi nuốt vô số ghi chép và tiến hóa nhiều lần; cùng Yu IlHan nung chảy xương Kelatuke, Hỏa Tâm và Hỏa Ngục Long Thân để tạo nên nội giáp Hỏa Hồn; dọn vào ngụ trong bộ giáp mới và mừng rỡ nhảy múa giữa không trung.
-
-
-### Felaère
-- Giới tính, vai trò: Nam, thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh bảo vệ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ.
-- Ngoại hình / Đặc điểm: Sở hữu 3 cặp cánh đen tuyền (6 cánh); dùng ma pháp ngưng tụ đầu cánh phóng ra như thương; kiêu hãnh với bộ lông quạ đen của mình.
-- Xuất hiện tính đến chương 285: Giao chiến với Nữ Khổng Lồ Băng Melohinne của Quân Đội Ma Hủy Diệt; bị mất mana đột ngột do thế giới bị Yu IlHan đoạt quyền kiểm soát dẫn đến gãy một nửa cánh.
-
-### Lemiel
-- Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới bị Yu IlHan đột kích.
-- Ngoại hình / Đặc điểm: Toàn thân phát ra lôi điện kinh hoàng; tôn sùng duy nhất Thượng Đế và căm ghét dị giáo, phủ nhận sự tồn tại của Kẻ Thứ Năm; bị Helièna gọi là kẻ đầu óc cơ bắp (musclehead).
-- Xuất hiện tính đến chương 285: Phẫn nộ vì Liera và Erta đứng về phía Kẻ Thứ Năm Yu IlHan; vận chuyển lôi điện toàn bộ thế giới để giao chiến sinh tử với Yu IlHan cưỡi Yumir.
+
+
+
+
+### Felaère
+
+- Giới tính, vai trò: Nam, thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh bảo vệ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ.
+
+- Ngoại hình / Đặc điểm: Sở hữu 3 cặp cánh đen tuyền (6 cánh); dùng ma pháp ngưng tụ đầu cánh phóng ra như thương; kiêu hãnh với bộ lông quạ đen của mình.
+
+- Xuất hiện tính đến chương 285: Giao chiến với Nữ Khổng Lồ Băng Melohinne của Quân Đội Ma Hủy Diệt; bị mất mana đột ngột do thế giới bị Yu IlHan đoạt quyền kiểm soát dẫn đến gãy một nửa cánh.
+
+
+
+### Lemiel
+
+- Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới bị Yu IlHan đột kích.
+
+- Ngoại hình / Đặc điểm: Toàn thân phát ra lôi điện kinh hoàng; tôn sùng duy nhất Thượng Đế và căm ghét dị giáo, phủ nhận sự tồn tại của Kẻ Thứ Năm; bị Helièna gọi là kẻ đầu óc cơ bắp (musclehead).
+
+- Xuất hiện tính đến chương 285: Phẫn nộ vì Liera và Erta đứng về phía Kẻ Thứ Năm Yu IlHan; vận chuyển lôi điện toàn bộ thế giới để giao chiến sinh tử với Yu IlHan cưỡi Yumir.
+
 
 - Xuất hiện tính đến chương 286: Bị Yu IlHan dùng Bất Khả Họa Quỹ Đạo Thương chém đứt cánh tay trái và các cánh, phá vỡ kỹ năng Phản Kích; bị IlHan liếm máu vạch trần thân phận là kẻ phản bội ngầm chuẩn bị đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ; trong cơn hoảng loạn đã giải phóng mưa lôi điện toàn diện để ngăn Yu IlHan cướp mana thế giới.
 - Xuất hiện tính đến chương 287: Bị Yu IlHan dùng Phản Kích đảo ngược cơn mưa lôi điện và tước quyền thống trị thế giới; thừa nhận tôn sùng Chúa Tể Satan rồi tự đọa lạc thành Cánh Thứ 11 Của Ánh Sáng Rực Rỡ để phục hồi thể xác; bị Yu IlHan phóng hỏa thương kết hợp Tuyệt Đối Chuẩn Xác tiêu diệt tại chỗ dù đã dồn tàn lực giáng lời nguyền chí tử vào IlHan.

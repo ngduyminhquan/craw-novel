@@ -802,3 +802,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Fièta |  | Fièta | địa danh | 303 | Thế giới bậc cao thuộc quyền cai quản của Quân Đội Ánh Sáng Rực Rỡ (#303) |
 | winged dragon | Winged dragon | Dực Long | quái vật | 308 | Phân loài Long tộc có đôi cánh dơi khổng lồ và thuộc tính hỏa sinh ra tại Daréu |
 | Brood Father |  | Long Phụ | danh hiệu | 310 | Danh hiệu do quái vật diệt rồng buột miệng thốt ra tôn xưng Yu IlHan là chúa tể muôn loài rồng |
+| Dimensional Mage |  | Ma Pháp Sư Không Gian | chức nghiệp | 312 | Chức nghiệp ma pháp không gian của Kang MiRae |
+| Great Flood |  | Đại Hồng Thủy | khác | 312 | Sự kiện diệt thế và tái khởi đầu trong Kinh Thánh do Thượng Đế nhắc tới |
+| Adam and Eve |  | Adam và Eva | khác | 312 | Cặp đôi khởi thủy của loài người trong Kinh Thánh do Thượng Đế và Kang MiRae nhắc tới |

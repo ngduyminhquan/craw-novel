@@ -505,3 +505,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | First | Yu IlHan | tôi / thuộc hạ | ngài / Kẻ Thống Trị / chúa tể | 309 | First quy phục và tôn sùng Yu IlHan sau khi được tái sinh thành rồng |
 | Liera | YuNa | tôi / chị | YuNa / cô / em | 311 | Liera nhận bắp rang và nói chuyện với Na YuNa |
 | YuNa | Liera | em | chị / chị Liera | 311 | Na YuNa lấy lòng và nói chuyện với Liera |
+| God | Kang MiRae | ta | con / ngươi | 312 | Thượng Đế tiếp cận và chiêu dụ Kang MiRae qua ghi chép của thiên thần kỳ dị |
+| Kang MiRae | God | tôi | ngươi / ông | 312 | Kang MiRae thẳng thừng từ chối và mắng Thượng Đế |

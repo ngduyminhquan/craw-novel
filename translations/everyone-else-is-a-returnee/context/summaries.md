@@ -1898,6 +1898,13 @@ Mọi người thay nhau trêu chọc và an ủi việc Yu IlHan tới tận l�
 Yu IlHan đưa Cái Nôi Kỳ Tích ra và nhỏ giọt máu của mình để tái tạo cơ thể cho Liera; nhờ đó, khoảng trống ký lục sau thời gian dài mất tư cách thiên thần được lấp đầy hoàn hảo.
 Cảnh kết thúc: Liera phá vỡ vỏ trứng bước ra với hai cặp cánh rồng màu đỏ rực rỡ và khôi phục đẳng cấp chuyển chức 6 trong sự kinh ngạc tột cùng của Helièna; Yu IlHan cười bảo Helièna chuẩn bị đến lượt khôi phục đẳng cấp chuyển chức 7 hoàn hảo.
 
+## 312
+Liera tái sinh thành rồng đạt Lv 483 với hai cặp cánh rồng và vẻ đẹp rực rỡ, lao ra ngoài kết giới quét sạch hơn 10 vạn quái vật bằng kỹ năng mới trong sự ngỡ ngàng của đôi bên; Yu IlHan chuẩn bị tái tạo chuyển chức 6 cho Erta.
+Trong không gian hư vô tâm thức, Kang MiRae đối mặt với kẻ tự xưng là Thượng Đế; Thượng Đế thừa nhận mana là một thất bại và âm mưu xóa sổ vạn vật để làm lại từ đầu từ Adam và Eva, đồng thời dụ dỗ trao trọn Yu IlHan cho MiRae nếu cô chịu quy phục đứng đầu đội quân mới.
+MiRae thẳng thừng từ chối vì ghét hôn nhân sắp đặt và mỉa mai Thượng Đế không hiểu tình yêu; khi Thượng Đế toan tấn công tinh thần, MiRae tự mình lĩnh ngộ bản chất mana không cần kỹ năng, đập tan không gian ý niệm của Thượng Đế và từ chối thăng hoa một mình.
+Cảnh kết thúc: Kang MiRae tỉnh lại trong nụ cười chào đón của Yu IlHan cùng nhóm bạn mang cánh rồng, đánh dấu việc tất cả mọi người đã tề tựu đông đủ.
+
+
 
 
 
