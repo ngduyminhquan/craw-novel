@@ -451,3 +451,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Daiel | Raphael | thuộc hạ / tôi | Ngài Raphael | 293 | Daiel giả vờ kính cẩn thỉnh cầu Raphael |
 | Raphael | Yu IlHan | ta | ngươi / Kẻ Siêu Việt | 293 | Raphael cất tiếng nói chuyện với thực thể bí ẩn (Yu IlHan) tại Feira |
 | Raphael | Daiel | ta | ngươi / Daiel | 293 | Raphael đối đáp và răn dạy Daiel |
+| Yu IlHan | Raphael | tôi | ông / các ông | 294 | Yu IlHan đối thoại và bắt tay liên minh với Raphael |
+| Yu IlHan | Daiel | ta / tôi | ngươi | 294 | Yu IlHan chế giễu và kết liễu Daiel |
+| Daiel | Yu IlHan | ta / - | ngươi / con người / Kẻ Siêu Việt | 294 | Daiel kinh sợ van nài Yu IlHan trước khi bị tiêu diệt |

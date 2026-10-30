@@ -1786,3 +1786,10 @@ Cảnh kết thúc: Giữa lúc Yu IlHan đang đồ sát lũ phản bội, Raph
 Yu IlHan âm thầm phóng hỏa thương tiêu diệt các thiên thần phản bội tại thế giới Feira ngay trước mắt Đại thiên thần Raphael; nhận thấy kẻ bí ẩn đang giúp thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ mà không làm tổn hại Thiên giới, Raphael cấm toàn bộ thiên thần can thiệp và phớt lờ lời hối thúc truy bắt của Daiel.
 Bị dồn vào đường cùng, 32 kẻ phản bội chuyển chức 6 đồng loạt kích hoạt ma pháp dịch chuyển tập thể toan đào tẩu về với Satan; Raphael mượn mana của cả thế giới Feira giáng sóng xung kích bẻ gãy ma pháp dịch chuyển, phong tỏa lối thoát và ngưng tụ phong kiếm chứa hỏa lực cùng các thiên thần trung thành tàn sát lũ phản bội.
 Cảnh kết thúc: Lợi dụng lúc Raphael đang bận tiêu diệt nhóm phản bội chuyển chức 6, Daiel toan dồn toàn lực đánh lén Raphael để mở đường đào tẩu thì bất ngờ bị Yu IlHan phối hợp cùng Yumir tung 12 đòn Bất Khả Họa Quỹ Đạo Thương trùng điệp cắm ngọn thương xuyên thủng cơ thể.
+
+
+## 294
+Yu IlHan hạ sát Daiel ngay khi hắn bắt đầu chuyển hóa thành thiên thần sa ngã; anh dùng Đọa Lạc (lên cấp 72) trói chặt, vô hiệu hóa tạo tác cứu mạng và thi triển Đại Đoạn Vũ Trụ Thương kết liễu Daiel (Lv 537), thu về ký lục và nâng Ký Lục lên cấp 93.
+Chứng kiến năng lực bộc phát của IlHan, Đại thiên thần Raphael chấn động nhưng nhanh chóng lấy lại bình tĩnh cùng các thiên thần xử lý nốt tàn dư phản bội đã mất hết nhuệ khí.
+Raphael chủ động đề nghị liên minh cùng Yu IlHan để truy quét toàn bộ nội gián trước khi cuộc chiến cuối cùng bùng nổ; IlHan chấp thuận với điều kiện anh sẽ là người trực tiếp kết liễu lũ phản bội.
+Cảnh kết thúc: Cùng Raphael, Yumir và Liera bước qua cánh cổng tiến tới các thế giới tiếp theo của Thiên giới, IlHan mỉm cười khi Ký Lục đạt cấp 95 sau cái bắt tay với Raphael, nhận ra ngài ấy chính là mảnh ghép cuối cùng để anh chạm tới cảnh giới Kẻ Thứ Năm.

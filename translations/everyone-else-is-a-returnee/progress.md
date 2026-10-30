@@ -298,7 +298,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 291 | 289 | Chapter_291 - Chapter 289_ I Will Prepare – 7.txt | I Will Prepare – 7 | skip | trùng nội dung #288 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
 | 292 | 290 | Chapter_292 - Chapter 290 I Will Prepare – 8.txt | I Will Prepare – 8 | skip | trùng nội dung #289 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
 | 293 | 291 | Chapter_293 - Chapter 291_ I Will Achieve – 1.txt | I Will Achieve – 1 | reviewed |  |
-| 294 | 292 | Chapter_294 - Chapter 292_ I Will Achieve – 2.txt | I Will Achieve – 2 | todo |  |
+| 294 | 292 | Chapter_294 - Chapter 292_ I Will Achieve – 2.txt | I Will Achieve – 2 | done |  |
 | 295 | 293 | Chapter_295 - Chapter 293_ I Will Achieve – 3.txt | I Will Achieve – 3 | todo |  |
 | 296 | 294 | Chapter_296 - Chapter 294_ I Will Achieve – 4.txt | I Will Achieve – 4 | todo |  |
 | 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -996,3 +997,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#289] Tách nhân vật Archangel Michael khỏi Michael Smithson (đã xóa alias 'Michael' của Smithson) và dịch danh xưng 'Raphael of Healing' thành 'Raphael Trị Liệu' (phương án khác: 'Raphael Chữa Lành'), 'Great Lord of Black Wings' thành 'Đại Chúa Tể Đôi Cánh Đen' — Tạm dùng: Michael (Đại thiên thần ngọn lửa), Raphael Trị Liệu, Đại Chúa Tể Đôi Cánh Đen. → Đồng ý tách riêng nhân vật đại thiên thần Michael (xóa alias 'Michael' khỏi Michael Smithson), dịch 'Raphael of Healing' là 'Raphael Trị Liệu' và 'Great Lord of Black Wings' là 'Đại Chúa Tể Đôi Cánh Đen'. (orchestrator)
 - [#293] Tiêu đề "I Will Achieve – 1" — Tạm dùng: "Tôi Sẽ Đạt Được – 1" (đồng bộ cấu trúc với "Tôi Sẽ Chuẩn Bị" của arc trước). Đề xuất giữ nguyên. → Đồng ý dịch tiêu đề arc "I Will Achieve" là "Tôi Sẽ Đạt Được – N" (đồng bộ cấu trúc ngôi thứ nhất với "Tôi Sẽ Chuẩn Bị"). (orchestrator)
 - [#293 đoạn 60] Lỗi gõ chữ 'p' thừa trong raw EN ('p newly ascended transcender') — Tạm dùng: bỏ chữ 'p' thừa, dịch thành "Kẻ Siêu Việt mới thăng hoa kia ơi". Đề xuất giữ nguyên. → Đồng ý lược bỏ chữ 'p' gõ nhầm trong raw EN và dịch thành "Kẻ Siêu Việt mới thăng hoa kia ơi". (orchestrator)
+- [#294] Cụm từ "final war" ở đoạn 78 — Tạm dịch: "cuộc chiến cuối cùng". Phương án khác: "đại chiến cuối cùng", "chung cuộc chi chiến". → Đồng ý dịch tự nhiên là "cuộc chiến cuối cùng" (cụm danh từ chung viết thường trong raw nên không thêm vào glossary.md). (orchestrator)

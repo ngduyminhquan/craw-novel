@@ -100,7 +100,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
 | Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8 | 289 |
 | Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira | 289 |
-| Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ | 293 |
+| Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |
 | Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri | 293 |
 
 ## Chi tiết
@@ -858,10 +858,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.
 - Xuất hiện tính đến chương 289: Bất ngờ giáng lâm xuống thế giới bậc cao Feira giữa lúc Yu IlHan đang tàn sát các thiên thần phản bội, khiến các thiên thần tại đây kinh ngạc thốt lên.
 - Xuất hiện tính đến chương 293: Sở hữu khả năng trị liệu vượt xa Na YuNa và sức chiến đấu vượt trội phần lớn thực thể chuyển chức 7; ngoại hình đẹp trai và hiền từ khiến Yu IlHan ghen tị tích điểm thù địch; nhận ra kẻ bí ẩn đang giúp thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ nên đã ra lệnh cho các thiên thần không được can thiệp; dùng mana của thế giới Feira bẻ gãy ma pháp dịch chuyển tập thể của 32 kẻ phản bội chuyển chức 6 và tạo phong kiếm chứa hỏa lực để tự tay tiêu diệt chúng.
+- Xuất hiện tính đến chương 294: Kinh ngạc trước năng lực chiến đấu bộc phát của Yu IlHan khi hạ sát Daiel; thu dọn tàn dư phản bội và chủ động đề nghị liên minh với Yu IlHan để cùng đi thanh trừng nội gián khắp các thế giới thuộc Thiên giới trước thềm cuộc chiến cuối cùng; mở cổng thế giới dẫn IlHan đi tiếp.
 
 ### Daiel
 - Giới tính, vai trò: Nam, thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên thăng cấp đại thiên thần nhưng thực chất là kẻ phản bội bí mật phục vụ Quân Đội Ánh Sáng Rực Rỡ.
 - Xuất hiện tính đến chương 293: Giả vờ hối thúc Raphael truy bắt kẻ đột kích, nhưng trong lòng hoảng loạn tìm cơ hội đào tẩu; khi Raphael mượn mana thế giới tiêu diệt nhóm thiên thần sa ngã chuyển chức 6, Daiel định thừa cơ dồn toàn lực đánh lén Raphael để mở đường trốn chạy thì bất ngờ bị Yu IlHan tung đòn 12 đòn Bất Khả Họa Quỹ Đạo Thương trùng điệp đâm xuyên người.
+- Xuất hiện tính đến chương 294: Bị Yu IlHan dùng Đọa Lạc trói chặt và vô hiệu hóa tạo tác cứu mạng trong ngực, sau đó bị đòn Đại Đoạn Vũ Trụ Thương cùng hàng chục ngọn hỏa thương kết liễu; Yu IlHan thu được thi thể cùng ký lục của hắn (Lv 537).
 
 ### Gabriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri (được Daiel nhắc đến trong suy nghĩ ở chương 293).
