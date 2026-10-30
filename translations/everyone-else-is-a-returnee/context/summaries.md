@@ -2021,5 +2021,11 @@ Kim YeSeul sát cánh chiến đấu trên tiền tuyến bảo vệ chồng, k�
 Kim YeSeul thức tỉnh ma pháp thời không mới 'Phá Vỡ' (Break) cho phép thao túng thời không vặn xoắn để phá hủy nhân quả, tung đòn chí mạng tiêu diệt một Archlegna và thăng cấp.
 Cảnh kết thúc: Cuộc quyết chiến giữa Khu Vườn Hoàng Hôn và Quân Đội Ánh Sáng Rực Rỡ tiếp tục leo thang khốc liệt, kéo cả hai thế lực cùng lao về phía bờ vực hủy diệt.
 
+## 331
+Michael dẫn dắt Quân Đội Thiên Giới vượt qua Bức Tường Hỗn Loạn tấn công tổng lực vào đại bản doanh Elo Katra của Quân Đội Ma Hủy Diệt; các thiên thần thừa nhận sức mạnh áp đảo của Thượng Đế mới dù hắn lộ rõ tâm lý giận cá chém thớt sau thất bại trước Yu IlHan.
+Tiểu Đoàn Trưởng Tiểu Đoàn 10 Melohinne nghênh chiến Michael để bảo vệ Chúa Tể Greed nhưng bị ánh sáng áp đảo xóa sổ; trước khi chết cô dùng sinh mạng kích hoạt lời nguyền sương mù làm suy yếu ánh sáng của Michael và làm chậm chuyển động của các thiên thần.
+Tiểu Đoàn Trưởng Tiểu Đoàn 5 Boomer’ol cùng các chỉ huy còn sống (Telzaider, Belkatoo, Zenusva) hợp lực tập kích; trong lúc hỗn chiến, Tiểu Đoàn Trưởng Tiểu Đoàn 9 Siferai dùng máu chứa kịch độc lao vào ôm Michael phát nổ, hạ độc làm suy yếu thể xác Michael.
+Cảnh kết thúc: Michael trúng kịch độc nhổ ra ngụm máu độc, bộc phát cơn thịnh nộ tột cùng và thề sẽ đem đại chiến Harmageddon hủy diệt toàn bộ đối thủ.
+
 
 

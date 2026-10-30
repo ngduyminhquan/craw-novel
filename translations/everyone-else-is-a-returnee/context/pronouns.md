@@ -105,6 +105,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | First | nó / First / con dực long | 309 | Sinh vật Long tộc đầu tiên quy phục IlHan và tái sinh thành rồng |
 | Uriel | cô / Uriel / đại thiên thần Uriel | 319 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 | Tachiel | Tachiel / đại thiên thần Tachiel | 326 | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 |
+| Boomer’ol | Boomer’ol / hắn | 331 | Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt |
+| Siferai | Siferai / gã / gã khổng lồ | 331 | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -533,3 +535,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Leciel | Michael | ta / tôi | hắn / Michael | 325 | Leciel vạch trần bộ mặt giả tạo của Michael |
 | Gabriel | Satan | ta | ngươi / Satan / Lucifer | 330 | Gabriel giao chiến và đàm thoại với Satan tại thế giới chính |
 | Satan | Gabriel | ta | ngươi / Gabriel | 330 | Satan xâm lăng Khu Vườn Hoàng Hôn và đàm thoại với Gabriel |
+| Melohinne | Michael | ta | ngươi | 331 | Melohinne đối đầu và chế giễu Michael trước lâu đài Elo Katra |
+| Michael | Melohinne | ta | ngươi | 331 | Michael khinh miệt và kết liễu Melohinne |
+| Boomer’ol | Michael | ta | ngươi / thiên thần / thiên thần Michael | 331 | Boomer’ol tập kích và chế giễu Michael |
+| Michael | Boomer’ol | ta | ngươi | 331 | Michael tức giận đáp trả Boomer’ol |
+| Siferai | Michael | ta | ngươi / Michael / thiên thần | 331 | Siferai liều mình giao chiến và mỉa mai Michael |
+| Michael | Siferai | ta | ngươi / kẻ ngu muội | 331 | Michael đối đáp và thiêu cháy Siferai |

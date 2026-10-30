@@ -119,6 +119,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Tachiel |  | Tachiel | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 | 326 |
 | Limaère | Limaere; Lima | Limaère | Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, thực thể cấp 7 thuộc phe Satan bị Orochi tiêu diệt | 328 |
 | Lucifer |  | Lucifer | Tên gọi cũ của Satan thuở trước khi vứt bỏ danh xưng này (#330) | 330 |
+| Boomer’ol | Boomer'ol; 5th Battalion Commander Boomer’ol | Boomer’ol | Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt, có khả năng kích nổ tử thi ma binh để tập kích | 331 |
+| Siferai | 9th Battalion Commander Siferai | Siferai | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt, cự nhân mang sừng bọc thân như giáp, thể lực đứng thứ hai sau Greed, mang kịch độc trong máu; hi sinh để hạ độc làm suy yếu Michael | 331 |
 
 ## Chi tiết
 
@@ -811,6 +813,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt.
 - Ngoại hình / Đặc điểm: Nữ chỉ huy khổng lồ cao 20m, làn da trắng bệch như băng tuyết, vô cùng xinh đẹp theo tiêu chuẩn con người; tính cách mạnh bạo, thích chiếm hữu.
 - Xuất hiện tính đến chương 247: Đề xuất lôi kéo Yu IlHan vào Quân Đội Ma Hủy Diệt thay vì thù oán; tranh giành Yu IlHan với Helièna trong hội nghị Tiểu Đoàn Trưởng.
+- Xuất hiện/tử trận tính đến chương 331: Nghênh chiến Michael tại Elo Katra nhằm bảo vệ Greed; bị ánh sáng của Michael hủy diệt nhưng kích hoạt lời nguyền bằng sinh mạng, biến thành làn sương hơi nước làm suy yếu ánh sáng và làm chậm chuyển động của các thiên thần.
 
 ### Helièna
 - Giới tính, vai trò: Nữ, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt; Nữ Hoàng Succubus.
@@ -988,3 +991,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Limaère
 - Giới tính, vai trò: Nam, Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, thực thể cấp 7 thuộc Quân Đội Ánh Sáng Rực Rỡ của Satan.
 - Xuất hiện/tử trận tính đến chương 328: Vượt qua cánh cổng thứ nguyên xông vào Daréu, dùng đại ma pháp Diệt Thế Bộc Viêm tấn công Mystic; bị Orochi chặn đòn và dùng kịch độc cùng lời nguyền từ nanh độc đâm xuyên kháng ma pháp làm tê liệt, sau đó bị Orochi trảm sát bằng trảm kích hỏa diễm tím; trở thành thực thể cấp 7 đầu tiên ngã xuống giúp Orochi thăng cấp lên chuyển chức 7.
+
+### Boomer’ol
+- Giới tính, vai trò: Nam, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt.
+- Đặc điểm / hành vi: Giọng điệu ranh mãnh, quỷ quyệt; có khả năng kích nổ xác chết của Ma Binh Hủy Diệt để tập kích kẻ địch.
+- Xuất hiện tính đến chương 331: Kích nổ tử thi ma binh tập kích các thiên thần đi cùng Michael, chế giễu Michael là kẻ phản bội lộng hành và nhắc đến tin đồn Michael và Satan là anh em.
+
+### Siferai
+- Giới tính, vai trò: Nam, thực thể cấp cao, Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt; nhận Melohinne là em gái.
+- Ngoại hình / Đặc điểm: Gã khổng lồ to lớn hơn cả Melohinne, mọc sừng khắp người như bộ giáp; mang kịch độc trong máu; sức mạnh thể chất đứng thứ hai sau Greed trong Quân Đội Ma Hủy Diệt; cuồng si sự hủy diệt, hoan lạc khi đối đầu kẻ mạnh.
+- Xuất hiện/tử trận tính đến chương 331: Cùng các Tiểu Đoàn Trưởng chặn đường Michael; lợi dụng làn sương nguyền rủa của Melohinne để lao thẳng vào Michael, dùng máu chứa kịch độc làm ô uế và suy yếu thể xác Michael trước khi nổ tung tử trận trong sự hoan lạc cuồng nhiệt.

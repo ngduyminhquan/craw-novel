@@ -335,7 +335,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | reviewed |  |
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | reviewed |  |
 | 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | done |  |
-| 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | todo |  |
+| 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | done |  |
 | 332 | 330 | Chapter_332 - Chapter 330_ Harmageddon – 6.txt | Harmageddon – 6 | todo |  |
 | 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | todo |  |
 | 334 | 332 | Chapter_334 - Chapter 332_ Harmageddon – 8.txt | Harmageddon – 8 | todo |  |
@@ -1056,3 +1056,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#329 đoạn 19, 20] Đại từ người kể dùng cho Helièna ở phân đoạn hy sinh bảo vệ đồng minh → Đổi ả thành cô ở đoạn 19–20 theo quy ước cô / ả / Helièna trong pronouns.md. (orchestrator)
 - [#330] Tên thế giới chính 'Crevasse Garden' của Khu Vườn Hoàng Hôn: tạm dùng 'Khu Vườn Khe Nứt' (theo nghĩa khe nứt thời không và tương tự Model Garden -> Khu Vườn Mô Hình). Phương án khác: giữ nguyên 'Crevasse Garden' hoặc 'Khu Vườn Vực Nứt'. → Chốt 'Khu Vườn Khe Nứt' (orchestrator)
 - [#330] Kỹ năng ma pháp thời không mới 'Break' của Kim YeSeul: tạm dùng 'Phá Vỡ' (ngắn gọn, chuẩn Hán Việt). Phương án khác: 'Phá Diệt' hoặc 'Đoạn Tuyệt'. → Chốt 'Phá Vỡ' (orchestrator)
+- [#331] Cụm "still restrained by league" ở đoạn 58 khi Siferai chế giễu Michael — Tạm chọn: dịch "league" là "đẳng cấp" ("vẫn còn bị trói buộc bởi đẳng cấp") khớp với ngữ cảnh cấp bậc thực thể và chương 329 (nguyên tác Hàn '격'), thay vì "liên minh". → Chấp nhận dịch 'league' là 'đẳng cấp' ('vẫn còn bị trói buộc bởi đẳng cấp') khớp ngữ cảnh Michael câu trước coi thường cấp 7 (orchestrator)
