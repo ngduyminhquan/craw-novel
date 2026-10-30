@@ -291,7 +291,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | reviewed |  |
 | 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | done |  |
 | 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | done |  |
-| 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | todo |  |
+| 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | done |  |
 | 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | todo |  |
 | 289 |  | Chapter_289 - I Will Prepare – 8.txt | I Will Prepare – 8 | todo |  |
 | 290 | 288 | Chapter_290 - Chapter 288_ I Will Prepare – 6.txt | I Will Prepare – 6 | skip | trùng nội dung #287 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |

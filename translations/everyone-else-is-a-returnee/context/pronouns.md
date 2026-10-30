@@ -443,3 +443,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lemiel | Erta | ta | các ngươi / các cô | 285 | Lemiel chất vấn các cựu thiên thần |
 | Erta | Lemiel | tôi | ông | 285 | Erta đáp trả Lemiel |
 | Helièna | Lemiel | ta | ngươi / tên đầu óc cơ bắp | 285 | Helièna nhận xét và cảnh báo về Lemiel |
+| Lemiel | Satan | ta | Chúa Tể Satan / Ngài | 287 | Lemiel tôn xưng Satan là Kẻ Đại Phản Bội và Vị Thần Cuối Cùng |

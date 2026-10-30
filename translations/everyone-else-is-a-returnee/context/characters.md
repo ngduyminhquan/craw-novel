@@ -96,6 +96,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | Ngọn lửa sống của Yu IlHan nhận từ Nhiệm Vụ Thiên Giới ở chương 16; qua nhiều lần tiến hóa đã thức tỉnh ý chí và có giọng nói như bé gái từ chương 278 | 16 |
 | Felaère | Fela | Felaère | Thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh canh giữ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ; sở hữu 3 cặp cánh đen tuyền; giao chiến với Melohinne ở #285 | 285 |
 | Lemiel |  | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
+| Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
 
 ## Chi tiết
 
@@ -841,3 +842,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 285: Phẫn nộ vì Liera và Erta đứng về phía Kẻ Thứ Năm Yu IlHan; vận chuyển lôi điện toàn bộ thế giới để giao chiến sinh tử với Yu IlHan cưỡi Yumir.
 
 - Xuất hiện tính đến chương 286: Bị Yu IlHan dùng Bất Khả Họa Quỹ Đạo Thương chém đứt cánh tay trái và các cánh, phá vỡ kỹ năng Phản Kích; bị IlHan liếm máu vạch trần thân phận là kẻ phản bội ngầm chuẩn bị đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ; trong cơn hoảng loạn đã giải phóng mưa lôi điện toàn diện để ngăn Yu IlHan cướp mana thế giới.
+- Xuất hiện tính đến chương 287: Bị Yu IlHan dùng Phản Kích đảo ngược cơn mưa lôi điện và tước quyền thống trị thế giới; thừa nhận tôn sùng Chúa Tể Satan rồi tự đọa lạc thành Cánh Thứ 11 Của Ánh Sáng Rực Rỡ để phục hồi thể xác; bị Yu IlHan phóng hỏa thương kết hợp Tuyệt Đối Chuẩn Xác tiêu diệt tại chỗ dù đã dồn tàn lực giáng lời nguyền chí tử vào IlHan.

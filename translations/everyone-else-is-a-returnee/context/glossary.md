@@ -775,3 +775,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Tebeta |  | Tebeta | địa danh | 285 | Thế giới bậc cao chưa từng bị lộ của Quân Đội Ma Hủy Diệt bị Yu IlHan cướp đoạt |
 | Sentry |  | Lính Canh | chức nghiệp | 285 | Danh xưng hoặc chức vụ bảo hộ/chấn thủ một thế giới bậc cao của Cánh Của Ánh Sáng Rực Rỡ |
 | Ice Giantess |  | Nữ Khổng Lồ Băng | quái vật | 285 | Chủng tộc ma tộc khổng lồ hệ băng của Melohinne |
+| Great Traitor |  | Kẻ Đại Phản Bội | danh hiệu | 287 | Danh hiệu của Satan do Lemiel tôn xưng |
+| Final God |  | Vị Thần Cuối Cùng | danh hiệu | 287 | Danh xưng của Satan do Lemiel tôn xưng |

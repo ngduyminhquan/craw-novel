@@ -1763,3 +1763,9 @@ Lemiel dốc toàn lực phóng tia lôi điện khổng lồ tấn công Yu IlH
 Đòn đánh chém đứt lìa cánh tay trái cùng các cánh của Lemiel, giúp IlHan nâng Bất Khả Họa Quỹ Đạo Thương lên cấp 99, hoàn thành điều kiện thứ hai để học kỹ năng Phản Kích, đồng thời nâng Đại Đoạn Vũ Trụ Thương lên cấp 89 bằng ngọn hỏa thương rồng chém rách cổ đối thủ.
 Yu IlHan và Yumir cộng hưởng sâu sắc thông qua Hỏa Hồn Long Thân, hòa quyện hỏa và phong thành quả cầu lửa khổng lồ, điên cuồng hút sạch mana của thế giới bậc cao và vô hiệu hóa lôi điện của Lemiel; IlHan vạch trần Lemiel mang dòng máu trắng xám chuẩn bị đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ trước sự bàng hoàng của Liera và Erta.
 Cảnh kết thúc: Lemiel điên cuồng giáng mưa lôi điện nhuộm xanh trời đất chối bỏ thân phận phản bội, trong khi Yu IlHan và Yumir khuếch đại đôi cánh rồng lửa sẵn sàng thi triển kỹ thuật Phản Kích vừa học được, biến những tia sét của thế giới chuyển dần sang màu đỏ rực.
+
+## 287
+Yu IlHan chính thức học được kỹ năng chủ động Phản Kích, kết hợp cùng Yumir, Echjar và Ngọn Lửa Vĩnh Cửu đảo ngược cơn mưa lôi điện của Lemiel thành hỏa diễm đỏ rực và cưỡng chế tước đoạt quyền thống trị thế giới, nâng Chúa Tể Thứ Nguyên lên cấp 73.
+Bị dồn vào đường cùng và bị chặn đứng đường trốn chạy qua thứ nguyên, Lemiel thừa nhận tôn sùng Kẻ Đại Phản Bội kiêm Vị Thần Cuối Cùng là Chúa Tể Satan, rồi tự đọa lạc thành Cánh Thứ 11 Của Ánh Sáng Rực Rỡ để phục hồi thể xác.
+Yu IlHan bình thản dùng Đọa Lạc trói chặt Lemiel và phóng hỏa thương kích hoạt Tuyệt Đối Chuẩn Xác nhất kích tất sát; trước khi chết, Lemiel dồn tàn lực giáng lời nguyền chí tử vào IlHan nhưng hoàn toàn bị cơ thể IlHan vô hiệu hóa; IlHan thu được ký lục Lemiel Lv 548, nâng Ký Lục lên cấp 89 và Chúa Tể Thứ Nguyên lên cấp 77.
+Cảnh kết thúc: Sau khi dọn dẹp chiến trường và đọc ký lục của Lemiel, Yu IlHan cay đắng hé lộ với Liera và mọi người rằng Thượng Đế đã bỏ trốn khỏi Thiên giới, báo trước tình hình hỗn loạn khủng khiếp sắp tới.
