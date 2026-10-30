@@ -321,7 +321,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | reviewed |  |
 | 315 | 313 | Chapter_315 - Chapter 313_ You Are The Same As Me – 5.txt | You Are The Same As Me – 5 | done |  |
 | 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | done |  |
-| 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | todo |  |
+| 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | done |  |
 | 318 | 316 | Chapter_318 - Chapter 316_ You Are The Same As Me – 8.txt | You Are The Same As Me – 8 | todo |  |
 | 319 | 317 | Chapter_319 - Chapter 317_ I’m One That Closes The Curtain – 1.txt | I’m One That Closes The Curtain – 1 | todo |  |
 | 320 | 318 | Chapter_320 - Chapter 318_ I’m One That Closes The Curtain – 2.txt | I’m One That Closes The Curtain – 2 | todo |  |

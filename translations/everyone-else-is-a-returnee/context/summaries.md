@@ -1929,3 +1929,10 @@ IlHan giải thích Bẫy Phục Hồi sẽ tự hấp thụ mana xung quanh đ�
 Để Mystic có đủ năng lực xử lý mạng lưới ý thức khổng lồ, Yu IlHan bắt tay vào tạo thân xác mới cho cô nàng bằng Cái Nôi Kỳ Tích; dù Mystic lo sợ bị biến thành quái vật vì nguyên liệu gồm toàn búa El Hazra cùng thi thể nam đại thiên thần và thiên thần sa ngã (đặc biệt là ma thạch cấp 7 của Lemiel và xác Daiel), IlHan hứa sẽ tạo cho cô một thân xác xinh đẹp, hoàn hảo.
 Cảnh kết thúc: Yu IlHan kích hoạt kỹ năng Sáng Tạo, chính thức khai sinh một tạo tác phẩm cấp Vĩnh Cửu mới trước tiếng hét thất thanh lẫn mong đợi của Mystic.
 
+## 317
+Yu IlHan hoàn thành thân xác mới cho Mystic từ thi thể các đại thiên thần cấp 7 và ma thạch cấp 7 của Lemiel, biến cô thành một thiếu nữ tóc đen mắt tím xinh đẹp mang đôi cánh bạch long chuyển chức 6; anh tặng cô trang phục và mũ rơm phẩm cấp Thần giúp khuếch đại năng lực tính toán để điều khiển mạng lưới Bẫy Phục Hồi.
+Yu IlHan trêu chọc Mystic và bảo cô đi gọi Orochi; sau đó anh dùng Cái Nôi Kỳ Tích kết hợp thi thể Keshein và Hillutonne để hoàn thiện thể xác, dung hợp trọn vẹn linh hồn và nâng cấp trang bị phẩm cấp Thần cho Orochi.
+Cả Mystic lẫn Orochi đều được tái sinh thành linh hồn trọn vẹn sở hữu thể xác thực thụ, không còn có thể tùy tiện rời khỏi cơ thể dưới dạng tàn niệm như trước; Orochi ngày càng khâm phục cảnh giới Sáng Tạo của Yu IlHan.
+Cảnh kết thúc: Thu gom toàn bộ Bẫy Phục Hồi vào túi đồ, Yu IlHan cùng Orochi và một Mystic còn ngượng ngùng chuẩn bị tiến đến Daréu cắm bẫy, chính thức phát động đòn phản công chống lại mọi điềm báo và âm mưu đe dọa thế giới.
+
+

@@ -452,7 +452,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hourglass of Eternity |  | Đồng Hồ Cát Vĩnh Hằng | vật phẩm | 77 | Tạo tác phẩm cấp Thần do Thiên giới ban thưởng, có năng lực đóng băng thời gian xung quanh tối đa 2 tháng |
 | Higher Curse Resistance |  | Kháng Lời Nguyền Cấp Cao | kỹ năng | 77 | Kỹ năng kháng nguyền rủa cấp cao nhận từ phần thưởng Nhiệm Vụ Thiên Giới 005 |
 | Curse Resistance |  | Kháng Lời Nguyền | kỹ năng | 244 | Kỹ năng hoặc khả năng kháng nguyền rủa nói chung |
-| God rank | God-rank; God-ranked | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
+| God rank | God-rank; God-ranked; God ranked | Thần | hệ thống | 77 | Phẩm cấp trang bị tối thượng vượt trên cả phẩm cấp Truyền Thuyết |
 | predator | predators | kẻ săn mồi | chủng tộc | 77 | Các thực thể cấp cao tà ác vượt qua Bức Tường Hỗn Loạn mưu toan nuốt chửng ghi chép của mọi thế giới |
 | Tyrant |  | Bạo Chúa | hệ thống | 78 | Dòng thuộc tính beta tăng sát thương chí mạng |
 | God of Dismantling |  | Thần Giải Phẫu | khác | 78 | Thực thể hư cấu hình thành từ tích lũy ghi chép giải phẫu (Erta ví von) |
@@ -621,7 +621,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Bittersweet Persona |  | Bittersweet Persona | vật phẩm | 152 | Tên đại dinh thự kiêm pháo đài chiến đấu của Yu IlHan |
 | Chaos rank | Chaos; chaos-ranked | Hỗn Loạn | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Sử Thi và dưới Bán Thần |
 | Demigod rank | Demigod; Demigod-ranked | Bán Thần | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Hỗn Loạn và dưới Thần |
-| Eternal rank | Eternal-ranked; Eternal-rank | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
+| Eternal rank | Eternal-ranked; Eternal-rank; Eternal ranked | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
 | Normal rank |  | Bình Thường | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm cơ bản nhất (thứ tự phẩm cấp: Bình Thường -> Hiếm -> Độc Nhất -> Truyền Thuyết -> Sử Thi -> Hỗn Loạn -> Bán Thần -> Thần -> Vĩnh Cửu) |
 | Great Explosion |  | Đại Bạo Tạc | kỹ năng | 153 | Ma pháp công kích bộc phá cực mạnh do Carina Malatesta thi triển |
 | Magic engineering | Magical engineering | Ma Pháp Công Học | kỹ năng | 155 | Kỹ năng bị động giúp dễ dàng phát huy sức mạnh của tạo tác và tăng tỷ lệ thành công của Chế Tác Mana, đồng thời là một ngành học thuật |
@@ -645,7 +645,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Fireta |  | Fireta | địa danh | 162 | Dị giới kết nối với Trái Đất và tham gia giao thương |
 | Merere |  | Merere | địa danh | 162 | Dị giới kết nối với Trái Đất có nhiều quái vật cỡ lớn |
 | Central Plaza |  | Quảng trường Trung tâm | địa danh | 163 | Quảng trường trung tâm tại khu giao thương Gangnam tổ chức đấu giá |
-| thought-souls | thought-soul | tàn niệm | khác | 163 | Mảnh ý thức linh hồn của người chết (raw đổi từ thoughts sang thought-souls từ chương 163) |
+| thought-souls | thought-soul; thought soul | tàn niệm | khác | 163 | Mảnh ý thức linh hồn của người chết (raw đổi từ thoughts sang thought-souls từ chương 163) |
 | Netherlands | The Netherlands | Hà Lan | địa danh | 164 | Quốc gia trên Trái Đất mở cổng sang Mishta liên thủ cướp đồ Vanguard |
 | Mishta |  | Mishta | địa danh | 164 | Dị giới đã trải qua Đại Tai Biến lần thứ 3 |
 | Tsoner | Tsnoer | Tsoner | địa danh | 164 | Quốc gia lính đánh thuê tại thế giới Mishta |
