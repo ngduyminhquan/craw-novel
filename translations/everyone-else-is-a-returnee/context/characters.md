@@ -97,7 +97,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Felaère | Fela | Felaère | Thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh canh giữ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ; sở hữu 3 cặp cánh đen tuyền; giao chiến với Melohinne ở #285 | 285 |
 | Lemiel | Ramiel | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
-| Nick |  | Nick | Con trai của Michael Smithson và Carina Smithson (Carina Malatesta) | 352 |
+| Nick | Nick Smithson | Nick | Con trai của Michael Smithson và Carina Smithson (Carina Malatesta) | 352 |
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
 | Ruby |  | Ruby | Con rồng đỏ sơ sinh Lv 280, sau khi nuốt trọn thịt Echjar thăng lên Lv 294, được Yu IlHan đặt tên và phong làm thủ lĩnh bầy rồng tại Daréu; tính đến #307 lộ rõ là rồng cái có chất giọng của bé gái, gọi Yumir là huynh trưởng; đến #329 tiến hóa thành thực thể cấp cao chuyển chức 5 qua Cái Nôi Kỳ Tích, có hình dạng bé gái tóc đỏ mắt đỏ | 302 |
 | Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8; ở #344 giác ngộ bản chất Kẻ Siêu Việt và thức tỉnh thành Thần Ánh Sáng; tử trận ở #347 khi bị Thượng Đế bóp nát đầu và nuốt chửng | 289 |
@@ -125,6 +125,26 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Leytna | Lady Leytna; Lady Letyna; Leyta | Leytna | Nữ Thần Sắc Đẹp trong quá khứ, một vị thần được ghi chép; xuất hiện dưới dạng tàn niệm truyền dạy bí quyết cho Na YuNa ở #337 | 81 |
 | Carina Smithson |  | Carina Smithson | Tên sau khi kết hôn của Carina Malatesta với Michael Smithson | 342 |
 | Yuni | Yuni Smithson | Yuni | Con gái rồng của Michael Smithson và Carina Malatesta, con gái đỡ đầu của Yu IlHan | 342 |
+| Yu Ara | Ara; Yu Ara-nim | Yu Ara | Con gái trưởng của Yu IlHan và Liera, tóc vàng mắt đỏ thừa hưởng sức mạnh hỏa diễm | 353 |
+| Ian |  | Ian | Con trai song sinh của Yu IlHan và Na YuNa, đĩnh đạc và bình thường | 353 |
+| Ina |  | Ina | Con gái song sinh của Yu IlHan và Na YuNa, đĩnh đạc và bình thường | 353 |
+| Yu Jin |  | Yu Jin | Con trai của Yu IlHan và Helièna, người con trai đẹp trai nhất | 353 |
+| Yu Se-ah | Se-ah | Yu Se-ah | Con gái của Yu IlHan và Kang MiRae, thân thiết với Yu Sira và có thiên phú ma pháp xuất chúng | 353 |
+| Yu Sira | Sira | Yu Sira | Con gái của Yu IlHan và Erta, thân thiết với Yu Se-ah và có thiên phú ma pháp xuất chúng | 353 |
+| Yu Ilwoo | Ilwoo | Yu Ilwoo | Con trai đầu trong bộ ba sinh ba của Yu IlHan và Ericia, có thể hóa sói và rồng | 353 |
+| Yu Ijoon | Ijoon | Yu Ijoon | Con trai thứ hai trong bộ ba sinh ba của Yu IlHan và Ericia, có thể hóa sói và rồng | 353 |
+| Yu Samyul | Samyul | Yu Samyul | Con trai thứ ba trong bộ ba sinh ba của Yu IlHan và Ericia, có thể hóa sói và rồng | 353 |
+| Yu Jia | Jia | Yu Jia | Con gái 5 tuổi của Yu IlHan và Phiria, trầm lặng và rất bám cha | 353 |
+| Yu Arang | Arang | Yu Arang | Con trai thứ 4 tuổi của Yu IlHan và Liera, thủ môn đáng yêu nhất thừa hưởng năng lực Che Giấu | 353 |
+| Yu Nayeon | Nayeon | Yu Nayeon | Con gái của Gabriel và Kim YeSeul, em gái của Yu IlHan, có chứng cuồng anh trai | 353 |
+| Yu Isu | Isu | Yu Isu | Con gái của Gabriel và Uriel, em gái của Yu IlHan, có chứng cuồng anh trai | 353 |
+| Hessian |  | Hessian | Con trai của Mirey và Jirl | 353 |
+| Fenia |  | Fenia | Con của Orochi và Mystic | 353 |
+| Fate |  | Fate | Con của Orochi và Mystic | 353 |
+| Fenadin |  | Fenadin | Con của Orochi và Mystic | 353 |
+| Irena |  | Irena | Con gái của Paté và Mirfa, thừa hưởng mana của tử thần | 353 |
+| Adrian |  | Adrian | Con trai của Lucifer và Lazière, hiếu thắng và muốn vượt qua kẻ mạnh | 353 |
+| Ariel |  | Ariel | Con gái của Lucifer và Lazière, hiếu thắng và muốn vượt qua kẻ mạnh | 353 |
 
 ## Chi tiết
 
@@ -1062,4 +1082,82 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, con trai kháu khỉnh của Michael Smithson và Carina Smithson (Carina Malatesta), em trai của Yuni.
 - Đặc điểm / ngoại hình: Kháu khỉnh, đôi bàn tay nhỏ nhắn như nhánh cây non, gương mặt giống hệt Michael Smithson.
 - Xuất hiện tính đến chương 352: Được Carina bế trên tay trong lúc Mystic đến hỏi về tình yêu.
+- Xuất hiện tính đến chương 353: Lớn lên làm người mẫu thời trang trên Trái Đất, tính cách hơi tinh ranh và thích trêu chọc Yu Ara.
+
+### Yu Ara
+- Giới tính, vai trò: Nữ, con gái trưởng của Yu IlHan và Liera.
+- Đặc điểm / ngoại hình: Mới 7 tuổi nhưng nhờ đặc tính rồng nên lớn nhanh mang vóc dáng thiếu nữ 15 tuổi; sở hữu mái tóc vàng óng của Liera và đôi mắt đỏ thẫm của Yu IlHan; thừa hưởng năng lực hỏa diễm của IlHan; tính cách kiên quyết, bảo vệ cha tuyệt đối trước sự nhòm ngó của Yuni.
+
+### Ian
+- Giới tính, vai trò: Nam, con trai song sinh của Yu IlHan và Na YuNa.
+- Đặc điểm: Thừa hưởng nét đẹp của mẹ nhưng tính cách đĩnh đạc, chững chạc và bình thường.
+
+### Ina
+- Giới tính, vai trò: Nữ, con gái song sinh của Yu IlHan và Na YuNa.
+- Đặc điểm: Thừa hưởng nhan sắc rạng rỡ của mẹ nhưng tính cách nghiêm túc, đứng đắn.
+
+### Yu Jin
+- Giới tính, vai trò: Nam, con trai của Yu IlHan và Helièna.
+- Đặc điểm: Đẹp trai nhất trong số các con trai của Yu IlHan; tốc độ trưởng thành chỉ xếp sau Yu Ara.
+
+### Yu Se-ah
+- Giới tính, vai trò: Nữ, con gái của Yu IlHan và Kang MiRae.
+- Đặc điểm: Thân thiết như hình với bóng cùng Yu Sira; có thiên phú ma pháp xuất chúng và tranh giành tình cảm của cha.
+
+### Yu Sira
+- Giới tính, vai trò: Nữ, con gái của Yu IlHan và Erta.
+- Đặc điểm: Gắn bó keo sơn với Yu Se-ah khi cả hai cùng nghiên cứu ma pháp; sở hữu tài năng ma pháp vượt bậc.
+
+### Yu Ilwoo
+- Giới tính, vai trò: Nam, con trai đầu trong bộ ba sinh ba của Yu IlHan và Ericia.
+- Đặc điểm: Thừa hưởng huyết thống sói và rồng, có thể hóa sói; tính tình hiếu chiến, hăng hái nhất đám.
+
+### Yu Ijoon
+- Giới tính, vai trò: Nam, con trai thứ hai trong bộ ba sinh ba của Yu IlHan và Ericia.
+- Đặc điểm: Có thể hóa sói và rồng, tính cách hiếu chiến.
+
+### Yu Samyul
+- Giới tính, vai trò: Nam, con trai thứ ba trong bộ ba sinh ba của Yu IlHan và Ericia.
+- Đặc điểm: Có thể hóa sói và rồng, tính cách hiếu chiến.
+
+### Yu Jia
+- Giới tính, vai trò: Nữ, con gái 5 tuổi của Yu IlHan và Phiria.
+- Đặc điểm: Thừa hưởng huyết thống elf, trầm tính, ít nói và luôn bám dính lấy cha Yu IlHan.
+
+### Yu Arang
+- Giới tính, vai trò: Nam, con trai thứ 4 tuổi của Yu IlHan và Liera.
+- Đặc điểm: Ngoại hình nhỏ nhắn và đáng yêu nhất; đảm nhận vị trí thủ môn; thừa hưởng trọn vẹn kỹ năng Che Giấu tuyệt đỉnh của cha Yu IlHan.
+
+### Yu Nayeon
+- Giới tính, vai trò: Nữ, con gái của Gabriel và Kim YeSeul (em gái của Yu IlHan).
+- Đặc điểm: Nụ cười hiền hậu, thiên tài ma pháp thế hệ mới, mắc chứng cuồng anh trai (brother complex).
+
+### Yu Isu
+- Giới tính, vai trò: Nữ, con gái của Gabriel và Uriel (em gái của Yu IlHan).
+- Đặc điểm: Nụ cười ấm áp, thiên tài ma pháp, mắc chứng cuồng anh trai.
+
+### Hessian
+- Giới tính, vai trò: Nam, con trai của Mirey và Jirl.
+- Đặc điểm: Cầu thủ trong đội hình con em thuộc hạ.
+
+### Fenia
+- Giới tính, vai trò: Con của Orochi và Mystic.
+
+### Fate
+- Giới tính, vai trò: Con của Orochi và Mystic.
+
+### Fenadin
+- Giới tính, vai trò: Con của Orochi và Mystic.
+
+### Irena
+- Giới tính, vai trò: Nữ, con gái của Paté và Mirfa.
+- Đặc điểm: Kế thừa mana của tử thần.
+
+### Adrian
+- Giới tính, vai trò: Nam, con trai của Lucifer và Lazière.
+- Đặc điểm: Lạnh lùng bề ngoài nhưng bốc lửa bên trong, bản năng loài rồng thuần túy, khao khát vượt qua kẻ mạnh.
+
+### Ariel
+- Giới tính, vai trò: Nữ, con gái của Lucifer và Lazière.
+- Đặc điểm: Tranh giành vị trí thủ môn với em trai, bản năng rồng mạnh mẽ.
 

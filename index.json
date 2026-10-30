@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:03:05Z",
+  "generatedAt": "2026-10-30T17:09:07Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2099,6 +2099,12 @@
           "title": "Chương 352: Ngoại truyện 2 – Chuyện tình hài hước của thuộc hạ quả nhiên sai bét như tôi tưởng",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_352.md",
           "sha": "9ba5ebee51db6617a8582fd7ba7ef1cba4996ba6"
+        },
+        {
+          "number": 353,
+          "title": "Chương 353: Ngoại truyện 3 – Bán Thần Eleven",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_353.md",
+          "sha": "937ec3eec12075fb6261b4e4a2c1c6929041d49c"
         }
       ]
     },

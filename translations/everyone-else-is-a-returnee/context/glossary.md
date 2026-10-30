@@ -842,3 +842,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Five Great Angels |  | Ngũ Đại Thiên Thần | cấp bậc | 352 | Năm vị đại thiên thần ban đầu của Quân Đội Thiên Giới (gồm cả Luciel trước khi sa ngã) |
 | Lepina |  | Lepina | địa danh | 352 | Thế giới từng trải qua Đại Tai Biến lần 3, bị kéo về Trái Đất qua Bẫy Phục Hồi |
 | Lepina Empire |  | Đế quốc Lepina | tổ chức | 352 | Đế quốc tại thế giới Lepina; con gái duy nhất của hoàng đế là hôn thê của Kang HaJin |
+| Godspoon |  | Thìa thần | khác | 353 | Sinh ra ngậm thìa của Thần, đẳng cấp tối thượng hơn cả thìa vàng hay thìa rồng |

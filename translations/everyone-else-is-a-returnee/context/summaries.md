@@ -2157,3 +2157,10 @@ Mystic lần lượt đi xin lời khuyên tình yêu: Carina Smithson (đang b�
 Có được câu trả lời, Mystic lao tới thành phố trên không nơi Orochi đang làm 'đại sư phụ' huấn luyện lũ trẻ mồ côi trong Đại Trục Xuất, tung cú cưỡng hôn hung bạo đè hắn xuống đất và đòi kết hôn trước sự reo hò phấn khích của lũ trẻ.
 Cảnh kết thúc: Orochi bối rối trước sự đường đột của cô nàng bèn đề xuất bắt đầu bằng việc hẹn hò trước, chính thức đánh dấu sự ra đời của cặp đôi Rắn x Dinh Thự.
 
+## 353
+Yu IlHan xây dựng một sân bóng đá khổng lồ có yểm ma pháp mở rộng không gian để thỏa mãn ước nguyện thành lập đội bóng của mẹ Kim YeSeul, quy tụ hàng chục triệu khán giả đến xem trận cầu thế kỷ giữa đội con cái của Thần và đội con cái của các thuộc hạ do Lucifer và Lazière bình luận.
+Đội hình 11 người con của Yu IlHan lần lượt ra mắt gồm Yu Ara (trưởng nữ tài sắc vẹn toàn thừa hưởng hỏa lực), cặp song sinh Ian và Ina, con trai tuấn tú Yu Jin, Yu Se-ah, Yu Sira, bộ ba sinh ba sói Yu Ilwoo, Yu Ijoon, Yu Samyul, Yu Jia và thủ môn nhí đáng yêu Yu Arang; đối đầu với đội con em thuộc hạ do Yuni Smithson dẫn đầu cùng Nick, hai em gái của Thần (Yu Nayeon, Yu Isu), Hessian, 3 con của Mystic x Orochi (Fenia, Fate, Fenadin), Irena và cặp song sinh rồng của Lucifer x Lazière (Adrian, Ariel).
+Yuni tuyên bố muốn cưới cha đỡ đầu Yu IlHan nếu thắng khiến Yu Ara cùng các con của Thần bốc hỏa tranh cãi nảy lửa; khi đôi bên toan biến hình và dùng kỹ năng lao vào huyết chiến, Yu IlHan phóng mana cưỡng chế giải trừ vũ khí của tất cả.
+Yumir lộ diện với tư cách trọng tài đạt tới chuyển chức lần 9, dùng uy áp tuyệt đối buộc các bên tuân thủ luật thi đấu nghiêm cấm biến hình và chỉ cho phép dùng kỹ năng/thần chú nếu qua mặt được mình.
+Cảnh kết thúc: Yu Arang cười rạng rỡ chào anh cả Yumir rồi tan biến vào hư không trước khung thành, khẳng định năng lực che giấu tuyệt đỉnh của Yu IlHan đã được truyền thừa hoàn hảo sang thế hệ kế tiếp.
+

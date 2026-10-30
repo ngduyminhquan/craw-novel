@@ -357,7 +357,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 350 | 348 | Chapter_350 - Chapter 348_ Epilogue.txt | Epilogue | reviewed |  |
 | 351 |  | Chapter_351 - Extra  1_ Graduating Lonership, Entering Marriage.txt | Extra  1_ Graduating Lonership, Entering Marriage | done |  |
 | 352 |  | Chapter_352 - Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected.txt | Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected | done |  |
-| 353 |  | Chapter_353 - Extra  3_ Demigod Eleven.txt | Extra  3_ Demigod Eleven | todo |  |
+| 353 |  | Chapter_353 - Extra  3_ Demigod Eleven.txt | Extra  3_ Demigod Eleven | done |  |
 | 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | todo |  |
 | 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | todo |  |
 | 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1085,3 +1086,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#348-349] Đồng bộ toàn bộ dấu ngoặc kép của chương 348 và 349 từ ngoặc kép cong sang ngoặc kép thẳng theo quy chuẩn rules.md → Chấp nhận đổi toàn bộ ngoặc kép cong sang ngoặc kép thẳng ở chương 348 và 349. (orchestrator)
 - [#351] 'God' dùng để chỉ Yu IlHan sau khi đạt cấp 900+ (Vị Thần Duy Nhất) — Tạm dịch: 'Thần' / 'Vị Thần' (không dịch 'Thượng Đế' để tránh nhầm với cựu Thượng Đế đã bị tiêu diệt ở #350; QA cảnh báo 'God' thiếu 'Thượng Đế'). Phương án khác: dịch 'Thượng Đế'. → Chấp nhận dịch là 'Thần' / 'Vị Thần' khi chỉ Yu IlHan (Vị Thần Duy Nhất) để phân biệt với cựu Thượng Đế. (orchestrator)
 - [#352] Tiêu đề chương nhại tựa đề light novel Oregairu 'My Subordinate Love Comedy is Wrong as I Expected' — Tạm dịch: 'Ngoại truyện 2 – Chuyện tình hài hước của thuộc hạ quả nhiên sai bét như tôi tưởng'. Đề xuất giữ nguyên hoặc đổi thành 'Ngoại truyện 2 – Chuyện tình hài của thuộc hạ quả nhiên có vấn đề'. → Chốt giữ 'Ngoại truyện 2 – Chuyện tình hài hước của thuộc hạ quả nhiên sai bét như tôi tưởng'. (orchestrator)
+- [#353] Tiêu đề chương 'Extra 3: Demigod Eleven' — Tạm dùng: 'Ngoại truyện 3 – Bán Thần Eleven' (giữ nguyên chất parody anime Inazuma Eleven). Phương án khác: 'Ngoại truyện 3 – Đội hình 11 Bán Thần'. → Chốt giữ 'Ngoại truyện 3 – Bán Thần Eleven' (giữ nét parody Inazuma Eleven). (orchestrator)
+- [#353] Thuật ngữ 'Godspoon' (chơi chữ văn hóa ngậm thìa vàng/thìa đất/thìa rồng của Hàn Quốc chỉ con của Thần) — Tạm dùng: 'thìa thần'. Phương án khác: 'thìa của Thần' hoặc 'ngậm thìa thần'. → Chốt 'thìa thần' (nhất quán với 'thìa đất' và 'thìa rồng' ở rules.md). (orchestrator)

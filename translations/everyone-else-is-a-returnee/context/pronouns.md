@@ -114,6 +114,16 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Luciel | Luciel | 346 | Tên ban đầu Thượng Đế đặt cho Satan trước khi đổi thành Lucifer |
 | God | Thượng Đế / Ngài / ông ta | 1 | Đấng sáng tạo tối cao (sau là cựu Thượng Đế trong thân xác Greed) |
 | Nick | cậu bé / Nick / con | 352 | Con trai của Michael Smithson và Carina Smithson |
+| Yu Ara | cô bé / Yu Ara / Ara | 353 | Con gái trưởng của Yu IlHan và Liera |
+| Yu Arang | cậu bé / Yu Arang / Arang | 353 | Con trai thứ của Yu IlHan và Liera, thủ môn |
+| Yu Jin | cậu bé / Yu Jin | 353 | Con trai của Yu IlHan và Helièna |
+| Yu Nayeon | cô bé / Yu Nayeon | 353 | Em gái của Yu IlHan |
+| Yu Isu | cô bé / Yu Isu | 353 | Em gái của Yu IlHan |
+| Adrian | cậu bé / Adrian | 353 | Con trai của Lucifer và Lazière |
+| Ariel | cô bé / Ariel | 353 | Con gái của Lucifer và Lazière |
+| Hessian | cậu bé / Hessian | 353 | Con trai của Mirey và Jirl |
+| Irena | cô bé / Irena | 353 | Con gái của Paté và Mirfa |
+| Yu Jia | cô bé / Yu Jia | 353 | Con gái của Yu IlHan và Phiria |
 
 ## Giữa các nhân vật
 
@@ -612,3 +622,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mystic | HaJin | tôi | Kang HaJin / anh | 352 | Mystic nghe lời khuyên từ Kang HaJin |
 | Mystic | Orochi | tôi / em | anh / ngươi / Orochi / đồ đầu rắn | 352 | Mystic tỏ tình và cưỡng hôn Orochi; bắt đầu hẹn hò |
 | Orochi | Mystic | ta / tôi | cô / ngươi / ả ngốc này | 352 | Orochi bị Mystic cưỡng hôn và đồng ý bắt đầu hẹn hò |
+| Yu Ara | Yuni | em | chị / Yuni-unni | 353 | Yu Ara đối đầu với Yuni trên sân cỏ |
+| Yuni | Yu Ara | ta / chị | em / Ara / ngươi | 353 | Yuni đòi thắng trận để cưới cha đỡ đầu Yu IlHan |
+| Nick | Yu Ara | anh | Ara / em | 353 | Nick tuyên bố nhắm đến Yu Ara |
+| Yu Ara | Nick | tôi | anh / ngươi / các người | 353 | Yu Ara đáp trả Nick trên sân cỏ |
+| Yu Ilwoo | Lucifer | bọn cháu / bọn này | ông già Lucifer | 353 | Con trai Ericia cãi lời Lucifer khi bị cấm hóa sói |
+| Lucifer | Yu Ilwoo | ta | ngươi / các ngươi / nhóc ranh | 353 | Lucifer nhắc nhở quy tắc trận đấu |
+| Yu Arang | Yumir | em | anh / anh Mir | 353 | Yu Arang đáp lời trọng tài Yumir |
+| Yumir | Yu Arang | anh | em / Arang | 353 | Yumir động viên em trai Yu Arang bắt gôn |
+| Yumir | * | tôi / ta | các tuyển thủ / các em | 353 | Trọng tài Yumir phổ biến luật trận đấu |
