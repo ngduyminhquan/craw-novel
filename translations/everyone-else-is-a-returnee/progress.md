@@ -307,9 +307,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | reviewed |  |
 | 301 | 299 | Chapter_301 - Chapter 299_ I Will Achieve – 9.txt | I Will Achieve – 9 | reviewed |  |
 | 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | reviewed |  |
-| 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | done |  |
-| 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | done |  |
-| 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | done |  |
+| 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | reviewed |  |
+| 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | reviewed |  |
+| 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | reviewed |  |
 | 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | todo |  |
 | 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | todo |  |
 | 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | todo |  |

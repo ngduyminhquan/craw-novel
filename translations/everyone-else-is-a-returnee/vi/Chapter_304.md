@@ -202,7 +202,7 @@ Mystic hét toáng lên và như sắp nhảy dựng giữa không trung, đúng
 
 [Chí Mạng!]
 
-[Kỳ, haaaaa.......]
+[Khì, haaaaa.......]
 
 Giọng nói của nó lịm dần, và ba vòng hào quang đang xoay tít cũng hoàn toàn im bặt. Orochi chắc chắn rằng mình đã tung ra đòn kết liễu.
 

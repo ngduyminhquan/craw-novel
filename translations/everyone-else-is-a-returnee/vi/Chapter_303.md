@@ -10,7 +10,7 @@ Kẻ thốt ra câu hỏi bằng giọng điệu hằn học đó là Zeàr, m�
 
 Liera đáp lại. Người mạnh nhất trong nhóm hiển nhiên là Helièna, nhưng ả lại thiếu hụt sức mạnh thể chất, nên sau khi Liera tách khỏi Yu IlHan, cô đã đảm nhận vai trò chỉ huy phân đội.
 
-"Bọn ta nhận ra mình chẳng ở vào vị thế có quyền kén chọn. Tôi xin lỗi. Tôi không nghĩ mình là bên đúng đắn. Chỉ là...... cứ coi đây như một cuộc chiến đi. Giống như cái cách chúng ta vẫn luôn sống từ trước tới giờ vậy."
+"Bọn ta nhận ra mình chẳng ở vào vị thế có quyền kén chọn. Ta xin lỗi. Ta không nghĩ mình là bên đúng đắn. Chỉ là...... cứ coi đây như một cuộc chiến đi. Giống như cái cách chúng ta vẫn luôn sống từ trước tới giờ vậy."
 
 [Nữ đại thiên thần gãy cánh, Liera...... ngươi thấy sung sướng lắm sao khi đi làm chó săn cho loài người!?]
 
@@ -198,7 +198,7 @@ Biến cố cuối cùng cũng xảy ra. Toàn bộ đôi cánh rèm bung rộng
 
 "......Hừ, được thôi. Theo sát tôi đấy, Helièna."
 
-Cựu đại thiên thần cùng cựu Tiểu Đoàn Trưởng kết hợp thành một đội. Sau khi Helièna vượt qua muôn vàn chùm tia sáng để tiếp cận Liera, Liera nâng ngọn thương lên, hít sâu một hơi rồi đồng loạt lao tới.
+Cựu đại thiên thần cùng cựu Tiểu Đoàn Trưởng kết hợp thành một đội. Sau khi Helièna vượt qua muôn vàn chùm tia sáng để tiếp cận Liera, Liera nâng ngọn thương lên, hít sâu một hơi rồi lập tức lao tới.
 
 [Mục tiêu loại trừ ưu tiên.]
 

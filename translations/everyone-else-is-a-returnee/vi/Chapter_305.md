@@ -122,7 +122,7 @@ Tuy nhiên, điều quan trọng nhất là việc vận dụng mana của cả 
 
 [Mấy cô em, không thể thi triển ma pháp tầm xa càng sớm càng tốt sao? Bà chị này không cầm cự được lâu đâu!]
 
-"Ngươi làm tốt lắm, succubus......! Đến lượt một đòn cực lớn đây!"
+"Cô làm tốt lắm, succubus......! Đến lượt một đòn cực lớn đây!"
 
 Khoảnh khắc những người khác giành lại quyền kiểm soát mana nhờ Helièna, Erta nghiến chặt răng và tạo ra một ma pháp trận khổng lồ trên không trung.
 

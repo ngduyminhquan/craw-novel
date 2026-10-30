@@ -46,6 +46,7 @@
 | Heheh | Hì hì / He he | Tiếng cười khẽ, đắc ý |
 | Boom / Booooom | Ầm / Ầmmmm | Tiếng nổ lớn khi va chạm kỹ năng hoặc ma pháp |
 | Khoo / Khooooooooooooh | Khồ / Khồồồồồồồồồ | Tiếng gầm/thở của rồng con mới nở |
+| Ki / Ki, haaaaa | Khì / Khì, haaaaa | Tiếng kêu của quái vật khi bị tiêu diệt |
 
 ## Đặc điểm ghi nhận theo chương
 
