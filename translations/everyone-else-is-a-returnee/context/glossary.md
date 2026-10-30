@@ -816,3 +816,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Archlegna | Archlegnae | Archlegna | quái vật | 323 | Sinh thể thiên thần nhân tạo kháng mana cấp cao hơn Legna do Thượng Đế Thiên giới tạo ra |
 | Final Operation |  | Chiến Dịch Cuối Cùng | khác | 323 | Mật danh chiến dịch quy mô toàn diện chống lại các thế lực thực thể cấp cao do Yu IlHan khởi xướng |
 | Emille Bell | Emille bell; The Emille bell; The Emille Bell | Chuông Emille | khác | 323 | Quả chuông đồng thần thoại nổi tiếng của Hàn Quốc gắn liền với truyền thuyết ném đứa trẻ vào vạc đồng đúc chuông |
+| Godspear |  | Thần Thương | vật phẩm | 325 | Ngọn thương tối thượng Yu IlHan ngưng tụ từ vạn ngàn ký lục, kết hợp sức mạnh của Thần Rèn Đúc và Thần Lửa vượt qua mọi giới hạn ngôn từ và phẩm cấp |
+| Brightest-shining Star | brightest, shining, star; Brightest-shining star | Ngôi Sao Sáng Nhất | danh hiệu | 325 | Danh xưng tôn vinh Yu IlHan, vị Kẻ Thứ Năm tỏa sáng rực rỡ hơn bất kỳ ai |

@@ -89,7 +89,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Hillutonne | 2nd Battalion Commander, Hillutonne; Hilluttone | Hillutonne | Tiểu Đoàn Trưởng Tiểu Đoàn 2 thuộc Quân Đội Ma Hủy Diệt | 256 |
 | Keduta |  | Keduta | Thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới tại Lanpas, người đầu tiên tìm đến Kang MiRae | 260 |
 | Titaera |  | Titaera | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh, bạn thân của Liera được cử đến đàm phán với Yu IlHan | 261 |
-| Leciel | Lord Leciel | Leciel | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố, có ba cặp cánh | 263 |
+| Leciel | Lord Leciel; Raciel; Archangel Raciel; Lord Raciel | Leciel | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố, có ba cặp cánh; gia nhập Long Sào ở #325 | 263 |
 | Satière | Lord Satière | Satière | Thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ, có 3 cặp cánh đen tuyền và mắt đỏ như hồng ngọc | 265 |
 | Ruler of the Army of Brilliant Light | Leader of the Army of Brilliant Light | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ | Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới; sở hữu giọng nói tuyệt mỹ và uy áp có thể phong tỏa ánh sáng và mana của toàn bộ thế giới khi thức tỉnh | 267 |
 | Will of the Guardian |  | Ý Chí Hộ Vệ | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn sau khi quy phục Yu IlHan, đảm nhận triển khai ma pháp trận bảo vệ Trái Đất | 272 |
@@ -845,6 +845,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Ngoại hình / Đặc điểm: Đại thiên thần có ba cặp cánh (6 cánh), cầm trượng, thái độ kiêu ngạo coi thường nhân loại nhưng biết kiềm chế khi nhận ra Yu IlHan không thể bị đe dọa.
 - Xuất hiện tính đến chương 263: Đón nhóm Yu IlHan trước ngân khố Thiên giới, mở ngân khố và trao Vương Miện Trí Tuệ cho Kang MiRae theo thỏa thuận.
 - Xuất hiện tính đến chương 267: Hỏi dò Yu IlHan về khả năng hồi sinh; sau khi thất vọng liền đổi thái độ bớt thù địch và mở ngân khố trao Hỏa Tâm cho IlHan; bị IlHan đấu võ mồm châm chọc đến mức tức tối giơ ngón giữa đuổi khách.
+- Trạng thái tính đến chương 325: Trước sự đàn áp và cuồng loạn của Michael, Leciel đã chủ động xin đầu hàng và gia nhập Long Sào, được Cái Nôi Kỳ Tích tái sinh thành một con rồng hoàn chỉnh với 3 cặp cánh, sở hữu sức mạnh vượt trội hơn trước; sau khi thoát khỏi xiềng xích của Thiên giới, Leciel công khai tố cáo Michael là kẻ tiếm vị dối trá trước toàn thể thiên thần.
 
 ### Satière
 - Giới tính, vai trò: Nam, thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ.

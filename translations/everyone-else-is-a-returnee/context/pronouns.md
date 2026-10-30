@@ -526,3 +526,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Uriel | Kim YeSeul | tôi | cô | 323 | Uriel đối thoại với mẹ của Yu IlHan |
 | Uriel | Michael | tôi | anh / Michael | 324 | Uriel chất vấn sự thay đổi tâm trí của Michael |
 | Michael | Uriel | ta | ngươi / Uriel | 324 | Michael tuyên bố vượt lên trên Thượng Đế và cắt đứt với Uriel |
+| Leciel | Yu IlHan | tôi | ngài / Chúa Tể | 325 | Leciel đầu hàng và tôn kính Yu IlHan |
+| Yu IlHan | Leciel | ta | ngươi / Leciel | 325 | Yu IlHan tiếp nhận Leciel gia nhập Long Sào |
+| Michael | Leciel | ta | ngươi / Leciel | 325 | Michael thịnh nộ trước sự phản bội của Leciel |
+| Leciel | Michael | ta / tôi | hắn / Michael | 325 | Leciel vạch trần bộ mặt giả tạo của Michael |

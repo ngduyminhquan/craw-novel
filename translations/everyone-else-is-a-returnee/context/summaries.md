@@ -1983,3 +1983,9 @@ Uriel xuất hiện với thân phận cựu Đại Thiên Thần nay đã tái 
 Yu IlHan hoàn toàn bình thản trước sự thăng cấp của Michael, thong thả tạo giáo lửa nghênh chiến giáo ánh sáng của đối phương.
 Cảnh kết thúc: Yu IlHan và Michael vung thương lao vào trận quyết chiến đỉnh cao giữa hai Kẻ Siêu Việt trên bầu trời Thiên giới.
 
+## 325
+Yu IlHan áp đảo hoàn toàn Michael trong trận quyết chiến đỉnh cao giữa hai Kẻ Siêu Việt; dù Michael thăng hoa ngọn lửa thành ánh sáng và cô đọng ma lực thành vô số vòng đao, Yu IlHan dễ dàng hóa giải bằng Cận Chiến, Phản Kích và Siêu Việt Quỹ Đạo.
+Yu IlHan vận dụng Tuyên Cáo và Sáng Tạo dung hợp sức mạnh của Thần Rèn Đúc và Thần Lửa đúc nên tạo tác vượt ngoài cảnh giới ngôn từ mang tên Thần Thương; chỉ một nhát phóng thương đã làm suy yếu và chấn động toàn bộ Thiên giới, khiến các thiên thần bàng hoàng nghi hoặc vị Thượng Đế mới Michael.
+Yu IlHan phát thông cáo chiêu mộ hài hước kiểu mua sắm truyền hình; Đại thiên thần Leciel trông coi ngân khố Quân Đội Thiên Giới chủ động xin đầu hàng và được Cái Nôi Kỳ Tích tái sinh thành rồng 3 cặp cánh với thực lực vượt trội hơn trước.
+Cảnh kết thúc: Leciel công khai tố cáo Michael là kẻ tiếm vị hèn hạ giả tạo trước toàn thể thiên thần; Yu IlHan cười tươi thông báo đường dây nóng đang quá tải thúc giục các thiên thần nhanh chóng đặt hàng gia nhập Long Sào.
+
