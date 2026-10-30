@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:27:43Z",
+  "generatedAt": "2026-10-30T17:33:10Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2111,6 +2111,12 @@
           "title": "Chương 354: Ngoại truyện 4 – Ta là kẻ hủy diệt mọi phục bút",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_354.md",
           "sha": "87dbe9cc475c2361bf752596085b6d9d229b6035"
+        },
+        {
+          "number": 355,
+          "title": "Chương 355: Lời bạt (HẾT)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_355.md",
+          "sha": "44748a29aa0e3a55ae027124ff697787fe68b8da"
         }
       ]
     },

@@ -2170,3 +2170,10 @@ Sau khi dỗ dành Helièna, Liera và nhận lời chúc phúc ngọt ngào t�
 Spiera mang hình dạng chân long trắng nắm giữ ngọn thương phong ấn linh hồn tàn niệm cựu Thượng Đế, dùng ngọn thương uy hiếp cầu hôn Yu IlHan với ước mơ trở thành người nội trợ dịu dàng và sinh ra kẻ mạnh tiếp theo.
 Cảnh kết thúc: Yu IlHan ghé mắt vào Kính Hiện Thực nhìn thấy cảnh giới vượt ngoài hồ sơ, hào hứng cùng mọi người chuẩn bị giải quyết sạch sẽ mảnh phục bút cuối cùng.
 
+## 355
+Tác giả Toika gửi lời chào quen thuộc tới độc giả, chính thức thông báo bộ truyện Everyone Else is a Returnee đã đi đến hồi kết sau 9 tháng sáng tác (bắt đầu từ ngày 26/06/2016).
+Tác giả chia sẻ niềm xúc động khi viết xong các chương ngoại truyện cho IlHan cùng gia đình, bày tỏ lòng biết ơn và niềm hạnh phúc khi được cùng cười vui và đồng hành cùng độc giả suốt chặng đường dài.
+Toika giới thiệu tác phẩm tiếp theo mang tên 'Lẽ Ra Tôi Không Nên Chuyển Sinh' (I Shouldn’t Have Reincarnated), kể về chuyến phiêu lưu dở khóc dở cười của hai anh hùng lạc vào lâu đài ma vương.
+Cảnh kết thúc: Tác giả đăng tải bức tranh fan-art nhận được từ độc giả Warpic kèm lời cảm ơn nồng nhiệt, nhắn nhủ các fan cứng của EER hãy chú ý tìm một chi tiết hài hước khiến tác giả cười phun nước trong tranh.
+
+

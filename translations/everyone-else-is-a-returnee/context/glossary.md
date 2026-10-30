@@ -845,3 +845,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Godspoon |  | Thìa thần | khác | 353 | Sinh ra ngậm thìa của Thần, đẳng cấp tối thượng hơn cả thìa vàng hay thìa rồng |
 | Realiscope |  | Kính Hiện Thực | vật phẩm | 354 | Tạo tác phẩm cấp Vĩnh Cửu do Yu IlHan chế tạo giúp quan sát những nơi vượt ngoài hồ sơ và kéo đối tượng vào hiện thực |
 | true dragon |  | chân long | chủng tộc | 323 | Rồng thực thụ đã hoàn toàn thức tỉnh huyết mạch rồng |
+| Toika |  | Toika | khác | 355 | Bút danh tác giả tiểu thuyết Everyone Else is a Returnee |
+| I Shouldn’t Have Reincarnated | ‘I Shouldn’t Have Reincarnated’; I Shouldn't Have Reincarnated | Lẽ Ra Tôi Không Nên Chuyển Sinh | khác | 355 | Tựa tiểu thuyết tiếp theo của tác giả Toika (환생하지 말걸 그랬어) |
+| EER |  | EER | khác | 355 | Viết tắt tựa tiểu thuyết Everyone Else is a Returnee |
+| Warpic |  | Warpic | khác | 355 | Tên người dùng/độc giả vẽ tranh fan-art tặng tác giả Toika |
