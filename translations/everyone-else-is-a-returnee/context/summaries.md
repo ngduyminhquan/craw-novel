@@ -2008,4 +2008,10 @@ Sau khi dung hợp 30 thế giới, Daréu bùng nổ tiến hóa bước vào �
 Cánh Thứ 10 Của Ánh Sáng Rực Rỡ Limaère (chuyển chức 7) đột kích nhắm vào Mystic nhưng bị Orochi dùng nanh kịch độc làm tê liệt và dùng trảm kích hỏa diễm tím kết liễu; Orochi đột phá thăng cấp lên chuyển chức 7 đầu tiên.
 Cảnh kết thúc: Yu IlHan tung quân bài tẩy thứ hai, giải phóng Cái Nôi Kỳ Tích hòa vào khí quyển Daréu và tuyên bố sẽ tiến hóa bất kỳ ai đủ tư cách thành rồng thực thụ chuyển chức 5, kích thích sĩ khí toàn quân sôi sục.
 
+## 329
+Kang MiRae mở tiếp 100 cánh cổng; Ruby tiến hóa qua Cái Nôi Kỳ Tích thành thực thể cấp cao chuyển chức 5 trong hình dạng bé gái tóc đỏ mắt đỏ như nhân vật anime, khích lệ sĩ khí Long Sào dâng cao.
+Daréu hoàn thành Đại Tai Biến lần thứ 7; Yu IlHan dùng Tuyên Cáo hoán đổi nguồn mana tạo quái vật thành biển lửa hủy diệt quét sạch quân địch từ gần 200 thế giới bậc cao.
+Yu IlHan cùng Mystic nén và dung hợp hơn 200 thế giới vào Daréu; thế giới tương tác nâng đẳng cấp đưa Yu IlHan thăng lên cấp 600, trải qua quá trình tái cấu trúc thể xác cực kỳ đau đớn và mọc thêm đôi cánh thứ hai mang tính kim loại phản chiếu đối xứng với đôi cánh lửa Ruin Calling.
+Cảnh kết thúc: Yu IlHan trấn an Kang MiRae và yêu cầu mở tiếp các cánh cổng để tiếp tục dung hợp các thế giới còn lại.
+
 
