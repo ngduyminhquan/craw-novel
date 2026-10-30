@@ -118,6 +118,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Miriel | Archangel Miriel | Miriel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới | 324 |
 | Tachiel |  | Tachiel | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 | 326 |
 | Limaère | Limaere; Lima | Limaère | Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, thực thể cấp 7 thuộc phe Satan bị Orochi tiêu diệt | 328 |
+| Lucifer |  | Lucifer | Tên gọi cũ của Satan thuở trước khi vứt bỏ danh xưng này (#330) | 330 |
 
 ## Chi tiết
 

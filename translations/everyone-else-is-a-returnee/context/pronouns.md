@@ -531,3 +531,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Leciel | ta | ngươi / Leciel | 325 | Yu IlHan tiếp nhận Leciel gia nhập Long Sào |
 | Michael | Leciel | ta | ngươi / Leciel | 325 | Michael thịnh nộ trước sự phản bội của Leciel |
 | Leciel | Michael | ta / tôi | hắn / Michael | 325 | Leciel vạch trần bộ mặt giả tạo của Michael |
+| Gabriel | Satan | ta | ngươi / Satan / Lucifer | 330 | Gabriel giao chiến và đàm thoại với Satan tại thế giới chính |
+| Satan | Gabriel | ta | ngươi / Gabriel | 330 | Satan xâm lăng Khu Vườn Hoàng Hôn và đàm thoại với Gabriel |

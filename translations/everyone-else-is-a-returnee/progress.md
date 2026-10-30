@@ -334,7 +334,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | reviewed |  |
 | 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | reviewed |  |
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | reviewed |  |
-| 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | todo |  |
+| 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | done |  |
 | 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | todo |  |
 | 332 | 330 | Chapter_332 - Chapter 330_ Harmageddon – 6.txt | Harmageddon – 6 | todo |  |
 | 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | todo |  |
@@ -1054,3 +1054,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#327 đoạn 85 / #328 đoạn 77] Xưng hô số nhiều của Yu IlHan khi hiệu triệu đồng minh và thuộc hạ → Thống nhất dùng mọi người theo đúng rules.md. (orchestrator)
 - [#328 đoạn 98] Cụm từ death flag trong lời thoại của Orochi → Việt hóa thành lá cờ báo tử để nhất quán với chương 131. (orchestrator)
 - [#329 đoạn 19, 20] Đại từ người kể dùng cho Helièna ở phân đoạn hy sinh bảo vệ đồng minh → Đổi ả thành cô ở đoạn 19–20 theo quy ước cô / ả / Helièna trong pronouns.md. (orchestrator)
+- [#330] Tên thế giới chính 'Crevasse Garden' của Khu Vườn Hoàng Hôn: tạm dùng 'Khu Vườn Khe Nứt' (theo nghĩa khe nứt thời không và tương tự Model Garden -> Khu Vườn Mô Hình). Phương án khác: giữ nguyên 'Crevasse Garden' hoặc 'Khu Vườn Vực Nứt'. → Chốt 'Khu Vườn Khe Nứt' (orchestrator)
+- [#330] Kỹ năng ma pháp thời không mới 'Break' của Kim YeSeul: tạm dùng 'Phá Vỡ' (ngắn gọn, chuẩn Hán Việt). Phương án khác: 'Phá Diệt' hoặc 'Đoạn Tuyệt'. → Chốt 'Phá Vỡ' (orchestrator)

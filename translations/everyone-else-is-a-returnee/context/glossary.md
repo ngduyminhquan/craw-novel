@@ -823,3 +823,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Fallen Editt |  | Fallen Editt | địa danh | 328 | Thế giới bậc cao do Quân Đội Ánh Sáng Rực Rỡ thống trị bị Yu IlHan dung hợp vào Daréu |
 | Dtchaë | Dtcha | Dtchaë | địa danh | 328 | Thế giới bậc cao do Quân Đội Thiên Giới thống trị bị Yu IlHan dung hợp vào Daréu |
 | Doom Flare |  | Diệt Thế Bộc Viêm | kỹ năng | 328 | Đại ma pháp hệ hỏa cấp 7 của Limaère thuộc Quân Đội Ánh Sáng Rực Rỡ |
+| Crevasse Garden |  | Khu Vườn Khe Nứt | địa danh | 330 | Thế giới chính của Khu Vườn Hoàng Hôn nơi thời không ngưng trệ |
+| Break |  | Phá Vỡ | kỹ năng | 330 | Ma pháp thời không mới thức tỉnh của Kim YeSeul dùng thao túng thời không để phá hủy nhân quả |

@@ -2014,4 +2014,12 @@ Daréu hoàn thành Đại Tai Biến lần thứ 7; Yu IlHan dùng Tuyên Cáo 
 Yu IlHan cùng Mystic nén và dung hợp hơn 200 thế giới vào Daréu; thế giới tương tác nâng đẳng cấp đưa Yu IlHan thăng lên cấp 600, trải qua quá trình tái cấu trúc thể xác cực kỳ đau đớn và mọc thêm đôi cánh thứ hai mang tính kim loại phản chiếu đối xứng với đôi cánh lửa Ruin Calling.
 Cảnh kết thúc: Yu IlHan trấn an Kang MiRae và yêu cầu mở tiếp các cánh cổng để tiếp tục dung hợp các thế giới còn lại.
 
+## 330
+Tại thế giới chính 'Khu Vườn Khe Nứt' của Khu Vườn Hoàng Hôn, Satan dẫn đầu quân đoàn Legna và thiên thần sa ngã tập kích, đối đầu trực tiếp với thủ lĩnh Gabriel.
+Hai vị thủ lĩnh giao chiến kịch liệt; Satan tiết lộ Thượng Đế vì sợ hãi sức mạnh và kế hoạch của Gabriel nên đang ẩn nấp và bắt tay cùng hắn, trong khi toàn bộ thủ môn nhân của Khu Vườn Hoàng Hôn kiên cường bám trụ tử thủ.
+Kim YeSeul sát cánh chiến đấu trên tiền tuyến bảo vệ chồng, kết hợp ma pháp thời không với các tạo tác do Yu IlHan chế tạo để đối đầu với các Archlegna sánh ngang chuyển chức 8.
+Kim YeSeul thức tỉnh ma pháp thời không mới 'Phá Vỡ' (Break) cho phép thao túng thời không vặn xoắn để phá hủy nhân quả, tung đòn chí mạng tiêu diệt một Archlegna và thăng cấp.
+Cảnh kết thúc: Cuộc quyết chiến giữa Khu Vườn Hoàng Hôn và Quân Đội Ánh Sáng Rực Rỡ tiếp tục leo thang khốc liệt, kéo cả hai thế lực cùng lao về phía bờ vực hủy diệt.
+
+
 
