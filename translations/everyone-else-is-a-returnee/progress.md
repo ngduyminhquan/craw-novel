@@ -349,9 +349,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | reviewed |  |
 | 343 | 341 | Chapter_343 - Chapter 341_ Sole God – 2.txt | Sole God – 2 | reviewed |  |
 | 344 | 342 | Chapter_344 - Chapter 342_ Sole God – 3.txt | Sole God – 3 | reviewed |  |
-| 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | done |  |
-| 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | done |  |
-| 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | done |  |
+| 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | reviewed |  |
+| 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | reviewed |  |
+| 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | reviewed |  |
 | 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | todo |  |
 | 349 | 347 | Chapter_349 - Chapter 347_ Sole God – 8.txt | Sole God – 8 | todo |  |
 | 350 | 348 | Chapter_350 - Chapter 348_ Epilogue.txt | Epilogue | todo |  |

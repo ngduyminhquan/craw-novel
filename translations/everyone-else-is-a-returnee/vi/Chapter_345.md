@@ -1,6 +1,6 @@
 # Chương 345: Vị Thần Duy Nhất – 4
 
-Michael tiếp tục tiến bước. Băng qua thế giới ngập tràn lời nguyền và độc dược, hắn dùng ánh sáng thiêu đốt xóa sổ tất cả những thứ chướng mắt chắn đường. Không có lấy một tia sáng nào bắt nguồn từ Elo Katra, nhưng điều đó chẳng hề hể gì. Michael chính là bản thân ánh sáng, và hắn có thể hấp thụ ma lực để tự tạo ra ánh sáng.
+Michael tiếp tục tiến bước. Băng qua thế giới ngập tràn lời nguyền và độc dược, hắn dùng ánh sáng thiêu đốt xóa sổ tất cả những thứ chướng mắt chắn đường. Không có lấy một tia sáng nào bắt nguồn từ Elo Katra, nhưng điều đó chẳng hề hấn gì. Michael chính là bản thân ánh sáng, và hắn có thể hấp thụ ma lực để tự tạo ra ánh sáng.
 
 Gán khối lượng vào ánh sáng, điều chỉnh tốc độ, và thậm chí khuếch đại sức mạnh hủy diệt bằng cách tập trung nó vào một điểm, mọi thứ đối với hắn giờ đây đều dễ như trở bàn tay. Rốt cuộc từ trước đến nay cớ sao hắn lại phải dồn sức nghiên cứu ma pháp hay võ thuật khác làm gì? Đáng lẽ hắn chỉ cần tập trung vào duy nhất một thứ này là đủ!
 
@@ -114,9 +114,9 @@ Nắm đấm va vào nắm đấm khi cả hai liên tục trao đổi vô số 
 
 Michael khịt mũi coi thường, nhưng trong lòng không khỏi chấn động. Làm sao tên này lại biết được sức mạnh của hắn đã suy yếu?
 
-'Khi bọn ta đuổi Thượng Đế đi, ta đã mất đi một phần sức mạnh như cái giá phải trả cho sự phản bội. Dù rốt cuộc ta cũng có thể hồi phục nhờ đoạt lấy sức mạnh của Thượng Đế...... nhưng đúng là năng lực của mình đã bị suy yếu.'
+'Khi bọn ta đuổi Thượng Đế đi, ta đã mất đi một phần sức mạnh như cái giá phải trả cho sự phản bội. Dù rốt cuộc ta cũng có thể hồi phục nhờ đoạt lấy sức mạnh của Thượng Đế...... nhưng đúng là năng lực của ta đã bị suy yếu.'
 
-Ngay cả với năng lực tước đoạt, việc cướp đoạt hoàn toàn sức mạnh của Thượng Đế vẫn là điều bất khả thi. Tuy nhiên, những mảnh tàn dư sức mạnh Thượng Đế mà hắn nhận lại còn mạnh hơn trước, nên tới tận bây giờ hắn mới không nhận ra điều đó. Vì chính sức mạnh của Thượng Đế là ngòi nổ giúp hắn trở thành Kẻ Siêu Việt, nên hắn cũng chẳng quá bận tâm.
+Ngay cả với năng lực tước đoạt, việc cướp đoạt hoàn toàn sức mạnh của Thượng Đế vẫn là điều bất khả thi. Tuy nhiên, những mảnh tàn dư sức mạnh Thượng Đế mà hắn nhận lại còn mạnh hơn trước, nên trước giờ hắn không hề nhận ra điều đó. Vì chính sức mạnh của Thượng Đế là ngòi nổ giúp hắn trở thành Kẻ Siêu Việt, nên hắn cũng chẳng quá bận tâm.
 
 [Thế nhưng chừng này là quá đủ để đối phó với hạng như ngươi rồi!]
 

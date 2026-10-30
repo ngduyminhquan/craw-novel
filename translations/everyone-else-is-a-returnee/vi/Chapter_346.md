@@ -180,7 +180,7 @@ Giọng nói của anh dội vào tai Michael tựa sấm sét giữa trời qua
 
 [Tiêu diệt Thượng Đế, và chính chúng ta sẽ tự mình quản lý tất cả các thế giới.]
 
-[Chúng ta, quản lý, tất cả, các thế giới...... đúng đắn, chỉnh chu.]
+[Chúng ta, quản lý, tất cả, các thế giới...... đúng đắn, chỉn chu.]
 
 Đó chính là khoảnh khắc mà ngọn lửa nhiệt huyết rực cháy cùng dục vọng nhơ bẩn nảy nở trong tim Michael. Lucifer nhận ra điều đó và bật cười.
 
@@ -198,7 +198,7 @@ Gabriel đứng ở vị trí dẫn đầu. Bậc đại tiên tri và kẻ hi�
 
 Dẫu vậy, Michael chẳng hề ngần ngại cuốn mình theo dòng chảy dẫu vẫn đang nghiến chặt răng. Một khi đã nhận ra mình phải tự tay tạo nên những thứ mình mong muốn, bấy giờ hắn chỉ việc tiến bước thực thi nó mà thôi.
 
-Kế hoạch chỉ thành công một nửa. Lucifer đã đưa cả nhóm thoát khỏi phạm vi ảnh hưởng của Thượng Đế thành công, và Michael cũng tước đoạt thành công sức mạnh của Thượng Đế rồi chia sẻ nó cho cả năm người bọn họ. Tuy nhiên, họ đã thất bại trong việc sát hại Thượng Đế.
+Kế hoạch chỉ thành công một nửa. Lucifer đã đưa cả nhóm thoát khỏi phạm vi ảnh hưởng của Thượng Đế, và Michael cũng tước đoạt thành công sức mạnh của Thượng Đế rồi chia sẻ nó cho cả năm người bọn họ. Tuy nhiên, họ đã thất bại trong việc sát hại Thượng Đế.
 
 Thượng Đế trốn thoát trong tình cảnh thảm hại, trong khi Lucifer vừa cười lớn vừa tiến về một nơi khác. Michael, kẻ nắm giữ nhiều sức mạnh của Thượng Đế nhất trong số năm người, đã gọi 'bốn người' còn lại là tứ Đại Thiên Thần và trở thành thủ lĩnh trên thực tế.
 
@@ -224,7 +224,7 @@ Michael cất tiếng hỏi kẻ đang đứng trước mặt mình — Greed, k
 
 [Làm sao Người có thể ở đây được! Làm sao Người lại có thể ở nơi này vào lúc này chứ!]
 
-[Ngươi vẫn chưa nhận ra sao? Ta vốn đang sử dụng thứ sức mạnh mà ta đoạt lấy từ ngươi đấy.]
+[Con vẫn chưa nhận ra sao? Ta vốn đang sử dụng thứ sức mạnh mà ta đoạt lấy từ con đấy.]
 
 [Đoạt lấy từ con ư? Rốt cuộc là cái gì cơ chứ.......]
 

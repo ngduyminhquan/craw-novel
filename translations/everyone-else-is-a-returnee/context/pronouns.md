@@ -111,6 +111,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yuni | cô bé / Yuni / con bé | 342 | Con gái rồng của Michael Smithson và Carina Malatesta |
 | Lucifer | hắn / Lucifer | 346 | Tên gọi của Satan khi còn là đại thiên thần mạnh nhất mưu tính lật đổ Thượng Đế |
 | Luciel | Luciel | 346 | Tên ban đầu Thượng Đế đặt cho Satan trước khi đổi thành Lucifer |
+| God | Thượng Đế / Ngài / ông ta | 1 | Đấng sáng tạo tối cao (sau là cựu Thượng Đế trong thân xác Greed) |
 
 ## Giữa các nhân vật
 

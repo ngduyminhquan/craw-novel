@@ -154,7 +154,7 @@ Michael vận chuyển sức mạnh của mình lần cuối cùng.
 
 Thế nhưng, điều hắn lựa chọn lại là tháo chạy. Hắn phán đoán rằng đối đầu trực diện thì chẳng còn tia hy vọng chiến thắng nào.
 
-Hắn phải làm gì, và làm bằng cách nào? Hắn nghĩ rằng mình buộc phải liên minh với Yu IlHan dù trong lòng vạn phần không muốn. Phải rồi, vì hiện tại Thượng Đế đang nhắm vào Yu IlHan, nên Yu IlHan cũng sẽ phải tiêu diệt Thượng Đế. Khi hai người hợp sức lại, một kẻ vừa mới ngã khỏi đỉnh cao quyền lực theo cách gớm ghiếc và xấu xí đến nhường ấy chắc chắn sẽ dễ dàng bị xử lý......
+Hắn phải làm gì, và làm bằng cách nào? Hắn nghĩ rằng mình buộc phải liên minh với Yu IlHan dù trong lòng chẳng hề muốn chút nào. Phải rồi, vì hiện tại Thượng Đế đang nhắm vào Yu IlHan, nên Yu IlHan cũng sẽ phải tiêu diệt Thượng Đế. Khi hai người hợp sức lại, một kẻ vừa mới ngã khỏi đỉnh cao quyền lực theo cách gớm ghiếc và xấu xí đến nhường ấy chắc chắn sẽ dễ dàng bị xử lý......
 
 [Con của ta, con định đi đâu vậy?]
 
@@ -174,7 +174,7 @@ Thượng Đế bật cười khúc khích rồi vặn nhẹ bàn tay.
 
 [Chẳng có nơi nào cho con đi đâu, con của ta.]
 
-[K, hựaaaaaaaaaaaaaaaaaaaaaaaaak!]
+[H, hựaaaaaaaaaaaaaaaaaaaaaaaaak!]
 
 Michael đã chết, và Thượng Đế nuốt chửng toàn bộ thân xác hắn.
 

@@ -745,7 +745,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
 | The Fifth faction | the Fifth faction; Fifth faction | Phe phái thứ năm | khác | 303 | Phe phái thực thể cấp cao thứ năm do Kẻ Thứ Năm dẫn dắt (#303) |
-| irregular | irregulars; Irregulars | kẻ dị thường | khác | 229 | Kẻ hoặc nhóm cá thể nằm ngoài dự đoán hoặc quy luật của Hồ Sơ Akashic (#229, #303) |
+| irregular | irregulars; Irregulars | kẻ dị thường | khác | 229 | Kẻ hoặc nhóm cá thể nằm ngoài dự đoán hoặc quy luật của Hồ Sơ Akashic (#229, #303). Khi là tính từ mô tả đặc tính (như mana), dịch linh hoạt là bất quy tắc / thất thường / hỗn loạn; chỉ dịch 'kẻ dị thường' khi là danh từ. |
 | fifth God | fifth god; the fifth God; the fifth god; Fifth God | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |
 | Lünaë |  | Lünaë | địa danh | 256 | Khu vực/thành trì tại thế giới Heishia bị quân đội orc tàn phá |
 | Model Garden |  | Khu Vườn Mô Hình | địa danh | 258 | Thế giới hỗn loạn nơi thời gian và không gian ngưng trệ, thuộc quyền quản lý của Khu Vườn Hoàng Hôn |
