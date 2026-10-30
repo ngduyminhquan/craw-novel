@@ -283,7 +283,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | reviewed |  |
 | 277 |  | Chapter_277 - Why Only Me_ – 4.txt | Why Only Me_ – 4 | reviewed |  |
 | 278 |  | Chapter_278 - Why Only Me_ – 5.txt | Why Only Me_ – 5 | reviewed |  |
-| 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | todo |  |
+| 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | done |  |
 | 280 |  | Chapter_280 - Why Only Me_ – 7.txt | Why Only Me_ – 7 | todo |  |
 | 281 |  | Chapter_281 - Why Only Me_ – 8.txt | Why Only Me_ – 8 | todo |  |
 | 282 |  | Chapter_282 - I Will Prepare – 1.txt | I Will Prepare – 1 | todo |  |
@@ -975,3 +975,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#278] Dịch tên nội giáp phẩm cấp Thần 'Soul of Fire' thành 'Hỏa Hồn' — Tạm chọn: 'Hỏa Hồn' (ngắn gọn, Hán Việt đối xứng với 'Hỏa Tâm' Heart of Fire). Phương án khác: 'Linh Hồn Lửa' hoặc 'Hỏa Linh Hồn'. → Chốt dịch là "Hỏa Hồn" (đồng bộ cấu trúc Hán Việt với "Hỏa Tâm" Heart of Fire) (orchestrator)
 - [#278] Xưng hô của Ngọn Lửa Vĩnh Cửu (Eternal Flame) sau khi thức tỉnh giọng nói bé gái — Tạm chọn: Eternal Flame xưng 'em', gọi Yu IlHan là 'chủ nhân'; Yu IlHan xưng 'ta / tôi', gọi 'em / Ngọn Lửa Vĩnh Cửu'. Phương án khác: xưng 'tôi' gọi 'chủ nhân'. → Chốt giữ nguyên Eternal Flame xưng "em" - gọi "chủ nhân", Yu IlHan xưng "ta / tôi" - gọi "em / Ngọn Lửa Vĩnh Cửu" (phù hợp giọng nói bé gái non nớt gắn bó với chủ nhân) (orchestrator)
 - [#276-278] Xưng hô giữa Yu IlHan và Liera ở chương 276 bị lệch sang "anh - em" → Tiếp tục giữ nguyên "tôi - cô / Liera" và "tôi - cậu / IlHan" theo pronouns.md và các quyết định #212, #229-231, #255; sửa lại các đoạn 60–82 ở chương 276 cho đồng bộ với chương 273 và 278 (orchestrator)
+- [#279] Thuật ngữ ngoại giáp phẩm cấp Thần "Body of the Human Dragon" — Tạm chọn: "Nhân Long Thân" (đồng bộ cấu trúc với Hỏa Ngục Long Thân). Phương án khác: "Thân Thể Nhân Long" / "Nhân Long Thể". Tạm dùng trong bản dịch: "Nhân Long Thân". → Chốt dịch là "Nhân Long Thân" (đồng bộ cấu trúc với "Hỏa Long Thân" và "Hỏa Ngục Long Thân") (orchestrator)
+- [#279] Thuật ngữ bộ giáp phẩm cấp Vĩnh Cửu "Flamesoul Dragon body" — Tạm chọn: "Hỏa Hồn Long Thân" (ghép từ nội giáp Hỏa Hồn và ngoại giáp Nhân Long Thân). Phương án khác: "Hỏa Hồn Long Thể". Tạm dùng trong bản dịch: "Hỏa Hồn Long Thân". → Chốt dịch là "Hỏa Hồn Long Thân" (ghép từ nội giáp "Hỏa Hồn" và ngoại giáp "Nhân Long Thân") (orchestrator)

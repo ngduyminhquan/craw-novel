@@ -621,7 +621,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Bittersweet Persona |  | Bittersweet Persona | vật phẩm | 152 | Tên đại dinh thự kiêm pháo đài chiến đấu của Yu IlHan |
 | Chaos rank | Chaos; chaos-ranked | Hỗn Loạn | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Sử Thi và dưới Bán Thần |
 | Demigod rank | Demigod; Demigod-ranked | Bán Thần | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm nằm trên Hỗn Loạn và dưới Thần |
-| Eternal rank |  | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
+| Eternal rank | Eternal-ranked; Eternal-rank | Vĩnh Cửu | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm tối thượng nằm trên Thần |
 | Normal rank |  | Bình Thường | hệ thống | 152 | Phẩm cấp trang bị/vật phẩm cơ bản nhất (thứ tự phẩm cấp: Bình Thường -> Hiếm -> Độc Nhất -> Truyền Thuyết -> Sử Thi -> Hỗn Loạn -> Bán Thần -> Thần -> Vĩnh Cửu) |
 | Great Explosion |  | Đại Bạo Tạc | kỹ năng | 153 | Ma pháp công kích bộc phá cực mạnh do Carina Malatesta thi triển |
 | Magic engineering | Magical engineering | Ma Pháp Công Học | kỹ năng | 155 | Kỹ năng bị động giúp dễ dàng phát huy sức mạnh của tạo tác và tăng tỷ lệ thành công của Chế Tác Mana, đồng thời là một ngành học thuật |
@@ -767,3 +767,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Genesis |  | Khởi Nguyên | khác | 278 | Cảnh giới chế tạo tối cao kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma |
 | Creator |  | Kẻ Sáng Tạo | danh hiệu | 278 | Danh hiệu Yu IlHan nhận được sau khi chạm tới cảnh giới Khởi Nguyên và Sáng Tạo |
 | Creation |  | Sáng Tạo | khác | 278 | Cảnh giới chuyển hóa Hỗn Loạn thành Khai Sinh |
+| Body of the Human Dragon |  | Nhân Long Thân | vật phẩm | 279 | Ngoại giáp phẩm cấp Thần rèn từ xương Echjar, Trái Tim Rồng, tàn tích Ý Chí Hỗn Loạn, một nửa Hỏa Ngục Long Thân cùng Orochi |
+| Flamesoul Dragon body | Flamesoul Dragon | Hỏa Hồn Long Thân | vật phẩm | 279 | Bộ giáp phẩm cấp Vĩnh Cửu dung hợp giữa Hỏa Hồn và Nhân Long Thân |

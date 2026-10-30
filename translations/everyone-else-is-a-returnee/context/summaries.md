@@ -1716,3 +1716,9 @@ Sau khi tạo ra Hỏa Hồn, tóc của Yu IlHan cũng bị nhuộm đỏ rực
 Cảnh kết thúc: Yu IlHan hoang mang tự hỏi bản thân rốt cuộc đang biến đổi thành thứ gì.
 
 
+## 279
+Yu IlHan dùng Chế Tác Mana, Linh Hồn Phụ Ma và Rèn Đúc nung chảy Bát Vĩ Long Thương, nửa còn lại của Hỏa Ngục Long Thân, hộ thủ Ý Chí Hỗn Loạn, xương cốt và Trái Tim Rồng của Echjar để tạo ra ngoại giáp phẩm cấp Thần 'Nhân Long Thân' chứa tàn niệm Orochi.
+Anh dung hợp Hỏa Hồn và Nhân Long Thân thành bộ giáp phẩm cấp Vĩnh Cửu hoàn chỉnh mang tên 'Hỏa Hồn Long Thân', trở thành bậc thầy của muôn loài rồng và hỏa diễm đồng thời giải phóng 'Hơi Thở'.
+Yu IlHan gọi ra ngọn trường thương đen pha đỏ mới toanh và muốn đấu tập để rèn luyện Đại Đoạn Vũ Trụ Thương nhưng ai nấy đều sợ hãi co rúm từ chối.
+Cảnh kết thúc: Yu IlHan lấy tàn tích thân xác còn lại của Echjar, chế một chiếc búa mới từ xương rồng và chuẩn bị hồi sinh Echjar thành một sinh vật bé nhỏ dễ thương để đấu tập và thu phục nó dưới quyền Thống Trị.
+
