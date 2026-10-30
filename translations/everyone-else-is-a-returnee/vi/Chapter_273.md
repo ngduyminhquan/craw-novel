@@ -34,7 +34,7 @@ Ma pháp trận đã mở rộng vượt ra ngoài biên giới Hàn Quốc, vư
 
 Chia sẻ các giác quan cùng nó, Yu IlHan cảm thấy đầu óc mình như sắp nổ tung, nhưng anh đã kìm nén cơn đau lại. Anh vẫn còn một việc nữa phải làm.
 
-[Mana của Trái Đất đang phản kháng dữ dội đấy, anh yêu. Em không nghĩ nó sẽ ngoan ngoãn chịu bị giam cầm dưới ma pháp trận đâu.]
+[Mana của Trái Đất đang phản kháng dữ dội đấy, chàng ơi. Ta không nghĩ nó sẽ ngoan ngoãn chịu bị giam cầm dưới ma pháp trận đâu.]
 
 "Tầm đó thì tôi cũng lường trước rồi. Nhưng đâu phải ma pháp trận là lá bài duy nhất tôi chuẩn bị."
 
@@ -54,7 +54,7 @@ Tuy nhiên, ngay cả Erta và Kim YeSeul cũng không thể nào cảm nhận �
 
 [Trời đất ơi. Sao có thể... A, tuyệt vời quá.]
 
-Ả thậm chí còn cảm thấy một cảm giác ngập tràn hạnh phúc khi hàng triệu tạo tác đồng thời hút sạch mana, khiến nó biến mất. Dẫu cần rất nhiều sự chuẩn bị, nhưng việc kiểm soát mana của cả một thế giới chỉ bằng một cử chỉ duy nhất đã khiến Yu IlHan trông chẳng khác nào Thực thể tối cao thống trị vô số thế giới!
+Ả thậm chí còn cảm thấy ngập tràn hạnh phúc khi hàng triệu tạo tác đồng thời hút sạch mana, khiến nó biến mất. Dẫu cần rất nhiều sự chuẩn bị, nhưng việc kiểm soát mana của cả một thế giới chỉ bằng một cử chỉ duy nhất đã khiến Yu IlHan trông chẳng khác nào Thực thể tối cao thống trị vô số thế giới!
 
 "...Hử? Tự nhiên mẹ cảm thấy sinh lực của mình bị hụt đi một chút."
 
@@ -104,7 +104,7 @@ Nghĩa là họ chỉ di chuyển chậm chạp trong mắt những người nh�
 
 Anh không nhớ nổi lần cuối cùng mình toát mồ hôi là khi nào, nhưng ngay lúc này đây, ngay cả Yu IlHan cũng đang toát mồ hôi hột. Hiện tại, anh cảm thấy mình đang di chuyển chậm hơn thường lệ một chút; nhưng xét đến việc cả Trái Đất đã bị làm chậm lại, thì anh đang di chuyển cực kỳ nhanh!
 
-[Đúng thế đấy, anh yêu. Lẽ ra tốc độ di chuyển của anh yêu phải giảm đi nhiều hơn bình thường chứ, đúng không?]
+[Đúng thế đấy, chàng ơi. Lẽ ra tốc độ di chuyển của chàng phải giảm đi nhiều hơn bình thường chứ, đúng không?]
 
 "Hừm... Chuyện này thực ra chẳng mới mẻ gì, nhưng chúng ta đúng là đang ở trong tình thế mà khoa học có thể quẳng vào sọt rác được rồi."
 
@@ -184,7 +184,7 @@ Có lẽ việc Mystic là người vận chuyển các thành viên của Liên
 
 "Anh IlHaaaaaaan!"
 
-"IlHan, đây là ma pháp đó sao? Em cứ tưởng anh định triển khai sau, sao đã làm luôn rồi?"
+"IlHan, đây là ma pháp đó sao? Tôi cứ tưởng cậu định triển khai sau, sao đã làm luôn rồi?"
 
 "...Phùuu."
 

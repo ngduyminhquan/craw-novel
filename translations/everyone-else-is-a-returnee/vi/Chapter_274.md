@@ -102,7 +102,7 @@ Yu IlHan đáp xuống một trong những nền văn minh đã bị thiêu rụ
 
 "Không còn một ai thuộc về Trái Đất ở thế giới này nữa. Họ từng là một clan khá mạnh đấy chứ...."
 
-"Thuộc về Trái Đất ư? Ý con là từng có... những người khác nữa sao?"
+"Thuộc về Trái Đất ư? Ý con là vẫn còn... những người khác nữa sao?"
 
 "Vâng ạ."
 
@@ -116,7 +116,7 @@ Khi anh dịch chuyển tới nơi, trước mắt hiện ra một bãi chiến 
 
 [Khuôaaaaaaaaaaaaah!]
 
-[Lũ người ghê tởm, dở tệ và yếu ớt.]
+[Lũ người ghê tởm, khó nuốt và yếu ớt.]
 
 [Giết sạch chúng! Giết sạch chúng!]
 

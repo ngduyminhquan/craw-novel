@@ -74,7 +74,7 @@ Sau khi giành lại toàn quyền kiểm soát cơ thể, Michael Smithson lậ
 
 Trong khi đó, Takagaki Asuha mắt sáng rực nhìn về phía Yu IlHan mà thốt lên.
 
-"Thật tuyệt vời, ngài Susanoo! Giờ đây ngài thậm chí có thể thao túng cả thời không gian!"
+"Thật tuyệt vời, ngài Susanoo! Giờ đây ngài thậm chí có thể thao túng cả không gian và thời gian!"
 
 "Không, đây là sức mạnh của các đồng đội của tôi..."
 
@@ -230,7 +230,7 @@ Gánh nặng đè nặng trong lòng anh sau khi nghe rằng thực sự cần p
 
 Nghe vậy, Yu IlHan trầm ngâm một lát rồi đưa mắt nhìn quanh Takagaki Asuha cùng Michael Smithson rồi cất lời.
 
-"Vậy thì tôi sẽ để các người tăng cấp trước. Cấp độ của mấy người vẫn còn quá thấp."
+"Vậy thì tôi sẽ để mọi người tăng cấp trước. Cấp độ của mọi người vẫn còn quá thấp."
 
 "Dù gì thì giờ tôi cũng là chuyển chức 4 rồi đấy chứ, dẫu biết chắc chắn vẫn thấp hơn anh... Nhưng mà tăng cấp sao? Bằng cách nào? Ở đây làm gì có quái vật."
 
