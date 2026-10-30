@@ -104,6 +104,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ruby | nó / Ruby / con rồng đỏ | 302 | Con rồng đỏ sơ sinh thủ lĩnh bầy rồng Daréu |
 | First | nó / First / con dực long | 309 | Sinh vật Long tộc đầu tiên quy phục IlHan và tái sinh thành rồng |
 | Uriel | cô / Uriel / đại thiên thần Uriel | 319 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
+| Tachiel | Tachiel / đại thiên thần Tachiel | 326 | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 |
 
 ## Giữa các nhân vật
 

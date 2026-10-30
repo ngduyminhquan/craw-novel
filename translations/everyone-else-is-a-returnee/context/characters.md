@@ -296,6 +296,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 284: Dẫn đầu hai đại pháo đài cùng hạm đội thực thể cấp thấp mang trang bị Sử Thi tập kích thế giới bậc cao Louisa của Khu Vườn Hoàng Hôn; gom Thiên Nhãn bắn hạ toàn bộ viện binh chuyển chức 5 và 6, nâng Ký Lục lên cấp 84 và Chúa Tể Thứ Nguyên lên cấp 64, giành được quyền thống trị thế giới Louisa.
 - Trạng thái tính đến chương 297: Hoàn thành quá trình tự tái sinh bản ngã trong Cái Nôi Kỳ Tích; hấp thụ toàn bộ ngọn giáo lửa của Michael; dung hợp toàn bộ chức nghiệp và kỹ năng cũ để tạo ra các kỹ năng mới gồm Tuyên Cáo, Hiển Hiện và Siêu Việt Quỹ Đạo; chính thức thức tỉnh thành thực thể cấp cao ở cấp độ 519 và trở thành Chúa Tể Long Sào; tuyệt đối áp chế và tước quyền thao túng ngọn lửa của Đại thiên thần Michael.
 - Trạng thái tính đến chương 323: Đạt cấp độ 536 sau khi quét sạch 23 Legna; thăng lên cấp 554 sau khi Uriel tái sinh chia sẻ ký lục; kỹ năng Tuyên Cáo đạt cấp 71, Siêu Việt Quỹ Đạo đạt cấp 24, Hiển Hiện đạt cấp 32; phát động "Chiến Dịch Cuối Cùng" mang theo quân đoàn rồng tiến đánh Thiên giới.
+- Trạng thái tính đến chương 326: Giáng lâm đại bản doanh Thiên giới, thi triển Tuyên Cáo và Hiển Hiện công khai vạch trần Thượng Đế ruồng bỏ Quân Đội Thiên Giới; áp đảo Michael bằng Cận Chiến, Phản Kích và Siêu Việt Quỹ Đạo; vận dụng Tuyên Cáo và Sáng Tạo đúc nên thần binh vô thượng "Thần Thương" làm suy yếu toàn bộ Thiên giới; gieo "Bẫy Phục Hồi" vào mây trời Thiên giới; chiêu mộ thành công 1/10 binh lực thiên thần (gồm 2 Đại Thiên Thần Leciel và Tachiel, cùng Titaera); chỉ đạo Yumir vét sạch ngân khố harkanium, fecinom, el hazra của Thiên giới rồi rút quân về Daréu.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -585,6 +586,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 219: Cùng 9.300 đứa trẻ thỏa thích vui chơi và rèn luyện trong công viên giải trí trên pháo đài bay; được Yu IlHan chế tạo tặng bộ 6 phụ kiện ma pháp từ nguyên liệu chuyển chức 5.
 - Trạng thái tính đến chương 220–222: Lãnh đạo 9.300 đứa trẻ của Quân Đoàn Rồng theo chân bố IlHan tới Breya; xin đi theo IlHan đến đại bản doanh đế quốc Li Catriana; hóa thân thành rồng dài 20m chở cha bay đi ám sát các Ma Binh Hủy Diệt dưới sự che chở của kỹ năng Ẩn Thân đại thành phối hợp.
 - Trạng thái tính đến chương 297: Được gỡ bỏ giới hạn cấp độ nhờ sự thức tỉnh của IlHan; tiến hóa thành rồng chuyển chức 6 ở cấp độ 451; có thể sử dụng hỏa diễm kết hợp với phong ma pháp.
+- Trạng thái tính đến chương 326: Thực hiện nhiệm vụ bí mật đột nhập kho tàng Thiên giới khi Leciel vắng mặt, vét sạch bách toàn bộ harkanium, fecinom, el hazra và kim loại cấp cao mang về cho Yu IlHan.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
@@ -848,6 +850,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 263: Đón nhóm Yu IlHan trước ngân khố Thiên giới, mở ngân khố và trao Vương Miện Trí Tuệ cho Kang MiRae theo thỏa thuận.
 - Xuất hiện tính đến chương 267: Hỏi dò Yu IlHan về khả năng hồi sinh; sau khi thất vọng liền đổi thái độ bớt thù địch và mở ngân khố trao Hỏa Tâm cho IlHan; bị IlHan đấu võ mồm châm chọc đến mức tức tối giơ ngón giữa đuổi khách.
 - Trạng thái tính đến chương 325: Trước sự đàn áp và cuồng loạn của Michael, Leciel đã chủ động xin đầu hàng và gia nhập Long Sào, được Cái Nôi Kỳ Tích tái sinh thành một con rồng hoàn chỉnh với 3 cặp cánh, sở hữu sức mạnh vượt trội hơn trước; sau khi thoát khỏi xiềng xích của Thiên giới, Leciel công khai tố cáo Michael là kẻ tiếm vị dối trá trước toàn thể thiên thần.
+- Trạng thái tính đến chương 326: Cùng Yu IlHan và các cựu thiên thần gia nhập Long Sào rút quân về Daréu.
+
+### Tachiel
+- Giới tính, vai trò: Nam, Đại thiên thần Quân Đội Thiên Giới.
+- Trạng thái tính đến chương 326: Đại thiên thần Quân Đội Thiên Giới theo chân Leciel đào thoát gia nhập Long Sào ở #326.
 
 ### Satière
 - Giới tính, vai trò: Nam, thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ.
@@ -900,7 +907,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 296: Hóa giải phong ấn truy dấu trên người Yu IlHan thất bại; thừa nhận đã đàm phán bắt tay với Quân Đội Ma Hủy Diệt để tiêu diệt IlHan; hoảng hốt trước tốc độ thức tỉnh thành Kẻ Thứ Năm của IlHan và phóng hỏa thương toan hạ sát anh nhưng bị Anafière liều mình chặn lại.
 - Xuất hiện tính đến chương 298: Dùng tạo tác thương cấp Thần giao chiến với Yu IlHan nhưng bị đoạt mất vũ khí và bị phản phệ bởi chính năng lực sao chép của tạo tác thông qua Siêu Việt Quỹ Đạo; bất lực chứng kiến Raphael tử trận và đành ngậm ngùi hạ lệnh cho toàn bộ thiên thần rút lui về Thiên giới.
 - Xuất hiện tính đến chương 324: Xuất hiện chặn đứng sự dao động của các thiên thần trước Uriel; hấp thụ sức mạnh của Thượng Đế và ký lục cần thiết thăng hoa thành Kẻ Siêu Việt với 5 cánh ánh sáng, tuyên bố từ bỏ thân phận thiên thần để trở thành Thượng Đế mới, rồi cầm giáo ánh sáng lao vào quyết chiến với Yu IlHan.
-- Xuất hiện tính đến chương 326: Dù thăng lên Kẻ Siêu Việt cấp độ 700 nhưng hoàn toàn bất lực trước Yu IlHan và bị IlHan lừa gạt tẩu thoát cùng 1/10 binh lực thiên thần và toàn bộ ngân khố; Michael dẫn toàn lực tới Bức Tường Hỗn Loạn trấn áp lũ kẻ săn mồi của Quân Đội Ma Hủy Diệt để thị uy uy danh Thượng Đế mới và thống nhất Thiên giới.
+- Trạng thái tính đến chương 326: Hấp thụ tàn dư sức mạnh của Thượng Đế và toàn bộ ký lục, thăng hoa ngọn lửa thành ánh sáng với 5 cặp cánh ánh sáng tiến hóa thành Kẻ Siêu Việt cấp độ 700 tự xưng là Thượng Đế mới; hoàn toàn bất lực và thất bại trước Yu IlHan; sau khi Yu IlHan rút lui cùng 1/10 binh lực thiên thần và toàn bộ ngân khố, Michael đích thân dẫn toàn lực tiến ra Bức Tường Hỗn Loạn trấn áp quái vật của Quân Đội Ma Hủy Diệt để củng cố quyền uy và thống nhất Thiên giới.
 
 ### Raphael
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.

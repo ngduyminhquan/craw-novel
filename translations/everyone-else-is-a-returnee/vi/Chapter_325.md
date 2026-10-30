@@ -28,7 +28,7 @@ Thế nhưng, ngay trước khi năm cặp cánh ánh sáng truyền mana vào c
 
 [Khaaaaaaaaaaaaaaahk!]
 
-"Cảm giác bị một sinh linh nhỏ bé đả thương thế nào hả Michael? À mà này, ngươi có biết chữ ‘minor’ với ‘Michael’ đều bắt đầu bằng hai chữ cái giống nhau không?"
+"Cảm giác bị một sinh linh hạ đẳng đả thương thế nào hả Michael? À mà này, ngươi có biết chữ ‘minor’ với ‘Michael’ đều bắt đầu bằng hai chữ cái giống nhau không?"
 
 Hàng ngàn tia lửa xuyên thủng người Michael tựa như những tia laser sắc bén. Cơ thể Michael chằng chịt những lỗ thủng đủ để tước đoạt mạng sống của bất kỳ ai, nhưng hắn đã rút lấy nguồn mana vô tận ở Thiên giới và hồi phục lại.
 
@@ -144,7 +144,7 @@ Ngọn giáo của Yu IlHan không chạm tới Michael, nhưng chỉ với mộ
 
 [Ngài Michael đã tuyên bố mình là Thượng Đế. Rằng Thượng Đế đã vắng bóng...... Vậy thì chúng ta phải phụng sự ngài ấy như Thượng Đế mới sao?]
 
-[Chỉ có một vị Thượng Đế duy nhất mà chúng ta phụng sự. Thế nhưng, tiểu thư Uriel lại.......]
+[Chỉ có một vị Thượng Đế duy nhất mà chúng ta phụng sự. Thế nhưng, Ngài Uriel lại.......]
 
 Ngay cả khi áp đảo được Yu IlHan trong trận chiến, Michael cũng chưa chắc đã giành được đủ sự tin tưởng, đằng này khi thấy hắn bị đẩy lùi liên tục và không thương tiếc, những hạt mầm do dự và ngờ vực bắt đầu nảy chồi trong trái tim của tất cả các thiên thần.
 
@@ -156,7 +156,7 @@ Yu IlHan không đuổi theo Michael, mà thay vào đó lại nháy mắt về 
 
 [Đừng bỏ lỡ cơ hội cuối cùng này! Các ngươi có thể gia nhập Long Sào một cách êm đẹp mà chẳng gặp bất kỳ phiền toái nào. Đừng bỏ lỡ vận may ngàn năm có một này! Ma thạch của thực thể cấp cao ư? Kim loại cấp cao ư? Chà, đừng có ngạc nhiên nhé. Ngay lúc này đây, kể cả có hai bàn tay trắng thì các ngươi vẫn có thể tới và gia nhập cùng bọn ta!]
 
-"Sao anh cứ nói như mấy mục quảng cáo bán hàng trên truyền hình thế hả!"
+"Sao cậu cứ nói như mấy mục quảng cáo bán hàng trên truyền hình thế hả!"
 
 [Tôi.]
 
@@ -170,9 +170,9 @@ Yu IlHan cười khúc khích. Giọng nói này là của một người anh qu
 
 Thân phận của người đó chính là Đại thiên thần Leciel, người trông coi ngân khố của Quân Đội Thiên Giới.
 
-Dù chỉ làm theo khế ước, ngài ấy đã trao cho Kang MiRae và Yu IlHan những tạo tác họ cần. Dĩ nhiên, Hỏa Tâm đã bị Michael và Raphael nhúng tay vào giở trò, nhưng ngài ấy chẳng hề dính dáng chút nào tới trò hề đó cả.
+Dù chỉ làm theo khế ước, hắn đã trao cho Kang MiRae và Yu IlHan những tạo tác họ cần. Dĩ nhiên, Hỏa Tâm đã bị Michael và Raphael nhúng tay vào giở trò, nhưng hắn chẳng hề dính dáng chút nào tới trò hề đó cả.
 
-Nhờ vậy mà Yu IlHan mới có thể thăng hoa lên cảnh giới vượt trên thực thể cấp cao, vậy nên ngài ấy có thể được coi là một người gián tiếp đóng góp vào việc gia tăng thực lực của Yu IlHan. Chẳng đời nào Yu IlHan lại từ chối ngài ấy.
+Nhờ vậy mà Yu IlHan mới có thể thăng hoa lên cảnh giới vượt trên thực thể cấp cao, vậy nên hắn có thể được coi là một người gián tiếp đóng góp vào việc gia tăng thực lực của Yu IlHan. Chẳng đời nào Yu IlHan lại từ chối hắn.
 
 [Ngài...... thật sự sẽ chấp nhận tôi chứ? Không, xin ngài hãy thu nhận tôi được không?]
 
@@ -192,7 +192,7 @@ Ngọn giáo của Yu IlHan một lần nữa chặn đứng các đòn tấn c�
 
 Sự biến đổi của Leciel không mất quá nhiều thời gian. Yu IlHan vốn đã rất tinh thông việc bảo tồn sức mạnh và ký lục của các thế lực khác kể từ thời điểm hồi sinh Helièna, vậy nên giờ đây khi đã trở thành Chúa Tể Long Sào, năng lực đó lại càng được khuếch đại mạnh mẽ hơn nữa.
 
-Cái Nôi Kỳ Tích nứt toác ra, và Leciel bước ra từ bên trong đã trở thành một con rồng hoàn chỉnh với ba cặp cánh, trên thực tế ngài ấy còn sở hữu sức mạnh cường đại hơn trước đây.
+Cái Nôi Kỳ Tích nứt toác ra, và Leciel bước ra từ bên trong đã trở thành một con rồng hoàn chỉnh với ba cặp cánh, trên thực tế hắn còn sở hữu sức mạnh cường đại hơn trước đây.
 
 "Giờ đây ta có thể nói ra sự thật khi đã được giải thoát khỏi xiềng xích của Thiên giới."
 

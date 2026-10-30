@@ -164,7 +164,7 @@ Giọng nói của Uriel trào dâng cơn thịnh nộ tột cùng sau khi nhìn
 
 Khóe mắt Uriel rơm rớm những giọt lệ long lanh. Với màn thể hiện đó, có lẽ cô ẵm trọn luôn giải nữ diễn viên chính xuất sắc nhất cũng nên.
 
-"Xin các bạn, đừng chấp nhận thêm bất kỳ sự hy sinh vô ích nào nữa. Hãy kề vai sát cánh bên vị đấng thống trị non trẻ này, để bảo vệ thế giới xấu xí nhưng ôi chao đẹp đẽ biết bao này!"
+"Xin các bạn, đừng chấp nhận thêm bất kỳ sự hy sinh vô ích nào nữa. Hãy kề vai sát cánh bên đấng thống trị non trẻ này, để bảo vệ thế giới xấu xí nhưng ôi chao đẹp đẽ biết bao này!"
 
 "Này, tôi ngửi thấy mùi gai nhọn trong lời của cô đấy nhé."
 
@@ -240,7 +240,7 @@ Năm chiếc cánh ánh sáng mọc ra sau lưng Michael. Đó là một cảnh 
 
 Tuy nhiên, Yu IlHan vẫn bình thản như mọi khi. Ánh mắt anh nhìn về phía Michael vừa thăng hoa lên cảnh giới của Kẻ Siêu Việt trông thậm chí còn giống hệt một cô gái đang đắm chìm trong tình yêu.
 
-"Ta từng lo hắn yếu quá không trụ nổi cơ đấy. Nhưng thế này thì ta yên tâm rồi. Ít nhất hắn cũng sẽ không chết cho tới khi ta tự tay kết liễu hắn."
+"Tôi từng lo hắn yếu quá không trụ nổi cơ đấy. Nhưng thế này thì tôi yên tâm rồi. Ít nhất hắn cũng sẽ không chết cho tới khi tôi tự tay kết liễu hắn."
 
 Sự bình thản của anh thậm chí còn kéo tan biến mọi nỗi căng thẳng của Uriel về con số không! Cô hỏi, trong sự buông xuôi.
 

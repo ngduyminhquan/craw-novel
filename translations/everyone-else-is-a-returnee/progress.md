@@ -328,9 +328,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 321 | 319 | Chapter_321 - Chapter 319_ I’m One That Closes The Curtain – 3.txt | I’m One That Closes The Curtain – 3 | reviewed |  |
 | 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | reviewed |  |
 | 323 | 321 | Chapter_323 - Chapter 321_ I’m One That Closes The Curtain – 5.txt | I’m One That Closes The Curtain – 5 | reviewed |  |
-| 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | done |  |
-| 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | done |  |
-| 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | done |  |
+| 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | reviewed |  |
+| 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | reviewed |  |
+| 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | reviewed |  |
 | 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | todo |  |
 | 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | todo |  |
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | todo |  |
@@ -1045,3 +1045,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#325] Tên đại thiên thần canh giữ ngân khố Raciel (chương 325) → Đồng bộ thành Leciel theo nhân vật đã xuất hiện ở chương 263, thêm Raciel vào Alias của Leciel trong characters.md. (orchestrator)
 - [#326] Tên đại thiên thần mới 'Tachiel' cùng Leciel gia nhập Long Sào — Tạm chọn: giữ nguyên 'Tachiel' theo rules.md (tên phương Tây/thiên thần giữ nguyên phiên âm Latin). → Giữ nguyên Tachiel theo rules.md. (orchestrator)
 - [#326] Thuật ngữ 'ending credits' trong lời đùa của Yu IlHan ở đoạn 89 ("put you guys up on the ending credits") — Tạm chọn: dịch là 'danh đề cuối phim'. Phương án khác: 'phần credit cuối phim'. → Giữ danh đề cuối phim. (orchestrator)
+- [#325 đoạn 15] Dịch cụm minor being trong màn đối đáp giữa Michael và Yu IlHan → Thống nhất dùng sinh linh hạ đẳng ở cả đoạn 9 và đoạn 15 để giữ sự đối chiếu mỉa mai. (orchestrator)
+- [#326 định dạng] Dấu ngoặc kép lời thoại trong chương 326 → Chuyển toàn bộ dấu ngoặc kép cong sang ngoặc kép thẳng theo đúng rules.md. (orchestrator)

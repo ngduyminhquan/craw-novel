@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T11:52:44Z",
+  "generatedAt": "2026-10-30T12:03:38Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1930,19 +1930,19 @@
           "number": 324,
           "title": "Chương 324: Ta Là Kẻ Hạ Màn – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_324.md",
-          "sha": "d5d74dcb33e7525a9b6d68e8e375d188febda7d0"
+          "sha": "07b11bde5ef56e70c83dd048ba4508b63890104a"
         },
         {
           "number": 325,
           "title": "Chương 325: Ta Là Kẻ Hạ Màn – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_325.md",
-          "sha": "21af84b31a8774ac8b2379215a5c43c9622e68bf"
+          "sha": "a99aa7af5bf3653de5fde691697a196a78ab8ce4"
         },
         {
           "number": 326,
           "title": "Chương 326: Ta Là Kẻ Hạ Màn – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_326.md",
-          "sha": "22c39e6f729bb568e77c3fd7a636b0351adca534"
+          "sha": "9286f4ee6fccce8a839e351374592c7bdb34f73d"
         }
       ]
     },
