@@ -1,26 +1,26 @@
 # Chương 293: Tôi Sẽ Đạt Được – 1
 
-“Kyaa, là ngài Raphael Trị Liệu trong tứ Đại Thiên Thần!”
+"Kyaa, là ngài Raphael Trị Liệu trong tứ Đại Thiên Thần!"
 
 Liera hét lên như một nữ sinh trung học vừa gặp được thần tượng nam mà mình hâm mộ. Yu IlHan liền ghi thêm khoảng 10 điểm thù địch nhắm vào vị Đại Thiên Thần này, rồi càu nhàu hỏi Liera.
 
-“Tên đó mạnh không?”
+"Tên đó mạnh không?"
 
-“Về trị liệu thì ngài ấy chắc chắn vượt trội hơn Na YuNa rồi. Em nghe nói ngài ấy ở đẳng cấp gần như có thể hồi sinh bất kỳ ai miễn là họ chưa chết hẳn. Còn về sức mạnh thể chất...... em không rõ lắm. Em chỉ nghe nói ngài ấy mạnh hơn phần lớn các thực thể chuyển chức 7, nhưng mạnh hơn cụ thể bao nhiêu thì em chịu.”
+"Về trị liệu thì ngài ấy chắc chắn vượt trội hơn Na YuNa rồi. Tôi nghe nói ngài ấy ở đẳng cấp gần như có thể hồi sinh bất kỳ ai miễn là họ chưa chết hẳn. Còn về sức mạnh thể chất...... tôi không rõ lắm. Tôi chỉ nghe nói ngài ấy mạnh hơn phần lớn các thực thể chuyển chức 7, nhưng mạnh hơn cụ thể bao nhiêu thì tôi chịu."
 
 Vượt trội hơn cả Thánh nữ Na YuNa về trị liệu, lại còn mạnh hơn phần lớn các thực thể chuyển chức 7 ư? Thế thì quá bá đạo rồi còn gì! Nếu tên này có chút thường thức nào thì đáng lẽ hắn phải chọn một hướng đi rồi chuyên sâu vào đó chứ!
 
 Yu IlHan hoàn toàn không hề nghĩ đến bản thân khi nghĩ như vậy, mặt dày càu nhàu rồi ghi thêm 10 điểm thù địch nữa vào sổ. Liera nhìn Yu IlHan bằng ánh mắt đầy vẻ lo lắng.
 
-“IlHan, ngài Raphael cũng là kẻ phản bội sao......?”
+"IlHan, ngài Raphael cũng là kẻ phản bội sao......?"
 
-“Không, không phải thế. Đúng hơn là tôi ước gì hắn cũng là kẻ phản bội để có thể tẩn cho một trận không cần phải kiêng dè gì cả.......”
+"Không, không phải thế. Đúng hơn là tôi ước gì hắn cũng là kẻ phản bội để có thể tẩn cho một trận không cần phải kiêng dè gì cả......."
 
-“Tại sao!?”
+"Tại sao!?"
 
-“Tôi không ưa cái bản mặt đẹp trai với hiền từ vô tích sự của hắn. Chết tiệt thật.”
+"Tôi không ưa cái bản mặt đẹp trai với hiền từ vô tích sự của hắn. Chết tiệt thật."
 
-“Kyaaaak. Anh đang làm cái trò gì thế hả!”
+"Kyaaaak. Cậu đang làm cái trò gì thế hả!"
 
 Yu IlHan đắn đo xem có nên lộ diện hay không, nhưng cuối cùng anh chỉ phóng thêm vài ngọn hỏa thương để tiêu diệt thêm những kẻ phản bội chuyển chức 5. Khi những kẻ phản bội ngã xuống, Daiel sốt ruột cất tiếng.
 
@@ -52,9 +52,9 @@ Raphael mỉm cười.
 
 Dứt lời, Raphael búng nhẹ ngón tay, một làn sóng ánh sáng lập tức lan tỏa ra xung quanh ngài ấy. Dù ma pháp đó dùng cho mục đích dò tìm, Yu IlHan vẫn thản nhiên phớt lờ và phóng thêm 8 ngọn thương để tiêu diệt 8 kẻ phản bội.
 
-“Khôngggggggggg!”
+"Khôngggggggggg!"
 
-“Ngồi yên nào, Liera. Chúng ta không bị lộ đâu.”
+"Ngồi yên nào, Liera. Chúng ta không bị lộ đâu."
 
 [Chị Liera, chị ồn quá đấy.]
 
@@ -88,7 +88,7 @@ Ngay lúc này đây, các thiên thần đang gào thét vang dội và máu c�
 
 Raphael thản nhiên cười lớn ngay cả khi tận mắt chứng kiến từng thiên thần một bị hỏa thương lấy mạng. Dù biết những kẻ bị tiêu diệt là kẻ phản bội, dáng vẻ của ngài ấy trông vẫn vô cùng đáng sợ.
 
-[Ta thậm chí không thể lần ra nơi kẻ đó phóng thương. Ta còn cảm nhận được ngọn lửa kia uy lực ngang ngửa với của ngài Michael. Thật bí ẩn làm sao. Đó chính là Kẻ Siêu Việt mới xuất hiện sao? Quả là thú vị.]
+[Ta thậm chí không thể lần ra nơi kẻ đó phóng thương. Ta còn cảm nhận được ngọn lửa kia uy lực ngang ngửa với ngọn lửa của ngài Michael. Thật bí ẩn làm sao. Đó chính là Kẻ Siêu Việt mới xuất hiện sao? Quả là thú vị.]
 
 [Ngài Raphael. Chúng ta không thể để mặc chuyện này tiếp diễn được!]
 
@@ -122,11 +122,11 @@ Những kẻ nhận thấy không thể tiếp tục chịu đựng thêm cuối
 
 Dù không cảm nhận được sự hiện diện của Yu IlHan, Raphael vẫn tin chắc anh đang ở đó và cất tiếng nói vọng tới. Yu IlHan khịt mũi rồi tạo ra một ngọn thương duy nhất. Kế đó, anh cộng hưởng với Yumir để khơi dậy long khí trước khi dồn toàn bộ sức mạnh vào mũi thương. Trông anh hoàn toàn không có vẻ gì là sắp sửa tấn công nhiều mục tiêu cùng lúc.
 
-“IlHan, ma pháp của bọn chúng kìa! Anh sẽ để chúng trốn thoát mất nếu không kích hoạt Đọa Lạc ngay bây giờ đấy!”
+"IlHan, ma pháp của bọn chúng kìa! Cậu sẽ để chúng trốn thoát mất nếu không kích hoạt Đọa Lạc ngay bây giờ đấy!"
 
-“Tôi biết, nhưng nếu cố giết lũ đó thì tôi sẽ để vuột mất con mồi lớn.”
+"Tôi biết, nhưng nếu cố giết lũ đó thì tôi sẽ để vuột mất con mồi lớn."
 
-“Hiểm độc thật đấy.......”
+"Hiểm độc thật đấy......."
 
 Ngay từ đầu, mục tiêu của Yu IlHan đã là Daiel. Tên mặt dày ngoài mặt thì tỏ ra bình tĩnh nhưng bên trong lại hoảng loạn và điên cuồng vắt óc suy tính kể từ khoảnh khắc Raphael xuất hiện! Cũng chính là kẻ vừa để lộ vẻ mặt ‘cơ hội đến rồi!’ sau khi nhìn thấy nhóm thiên thần chuyển chức 6 hành động!
 
@@ -198,7 +198,7 @@ Và đúng vào thời điểm đó, người còn lại chờ đợi khoảnh k
 
 [Khặc!?]
 
-“Huoooooooh!”
+"Huoooooooh!"
 
 Yu IlHan, đồng bộ cùng Yumir, đã dồn hết sức bình sinh tung ra đòn đánh trùng điệp 12 lần của Bất Khả Họa Quỹ Đạo Thương!
 

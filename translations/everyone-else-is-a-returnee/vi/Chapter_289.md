@@ -30,7 +30,7 @@ Dòng máu trắng văng tung tóe giữa không trung. Đó chính là bằng c
 
 Máu của kẻ phản bội chuyển sang màu xám là lẽ thường tình. Tuy nhiên, nếu quả thực đơn giản như vậy, chẳng lẽ mọi kẻ phản bội lại không bị phát giác từ lâu rồi sao? Chẳng hạn như khi một ai đó bị thương trong lúc làm nhiệm vụ chẳng hạn. Quân Đội Ánh Sáng Rực Rỡ cùng lũ phản bội đâu có ngu ngốc đến thế. Bọn chúng đều có thể thi triển ma pháp để ngụy trang ký lục của mình.
 
-"Lũ này dám to gan giở trò qua mặt ta sao?"
+"Lũ này dám to gan giở trò qua mặt mình sao?"
 
 [Nhìn ta đi này. Ta cũng không phải... Khặc!]
 
@@ -128,7 +128,7 @@ Thế nhưng, vài kẻ phản bội khác vẫn còn trà trộn giữa các th
 
 [Ta không thể bỏ mạng ở nơi này...]
 
-"Nếu muốn lừa ta, lần sau hãy nhuộm cánh màu đỏ ấy, chứ đừng nhuộm màu đen!"
+"Nếu muốn lừa tôi, lần sau hãy nhuộm cánh màu đỏ ấy, chứ đừng nhuộm màu đen!"
 
 "Đến cả tôi cũng chẳng hiểu nổi câu đùa này đấy, IlHan!"
 

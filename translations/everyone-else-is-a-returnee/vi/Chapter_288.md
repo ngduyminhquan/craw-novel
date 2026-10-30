@@ -266,6 +266,6 @@ Lũ phản bội run rẩy trong kinh hãi, nhưng bọn chúng chẳng thể l�
 
 [Kể từ lúc này cấm ai được nhúc nhích! Bất kỳ ai cử động đều là kẻ phản bội!]
 
-Từng nhánh rễ chằng chịt của Quân Đội Ánh Sáng Rực Rỡ bắt đầu bị nhổ bật lên từng chiếc một.
+Những nhánh rễ chằng chịt của Quân Đội Ánh Sáng Rực Rỡ bắt đầu bị nhổ bật lên từng nhánh một.
 
 [← Chương trước](Chapter_287.md) | [Chương tiếp theo →](Chapter_289.md)

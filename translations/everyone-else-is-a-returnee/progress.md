@@ -292,12 +292,12 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | reviewed |  |
 | 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | reviewed |  |
 | 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | reviewed |  |
-| 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | done |  |
-| 289 |  | Chapter_289 - I Will Prepare – 8.txt | I Will Prepare – 8 | done |  |
+| 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | reviewed |  |
+| 289 |  | Chapter_289 - I Will Prepare – 8.txt | I Will Prepare – 8 | reviewed |  |
 | 290 | 288 | Chapter_290 - Chapter 288_ I Will Prepare – 6.txt | I Will Prepare – 6 | skip | trùng nội dung #287 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
 | 291 | 289 | Chapter_291 - Chapter 289_ I Will Prepare – 7.txt | I Will Prepare – 7 | skip | trùng nội dung #288 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
 | 292 | 290 | Chapter_292 - Chapter 290 I Will Prepare – 8.txt | I Will Prepare – 8 | skip | trùng nội dung #289 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
-| 293 | 291 | Chapter_293 - Chapter 291_ I Will Achieve – 1.txt | I Will Achieve – 1 | done |  |
+| 293 | 291 | Chapter_293 - Chapter 291_ I Will Achieve – 1.txt | I Will Achieve – 1 | reviewed |  |
 | 294 | 292 | Chapter_294 - Chapter 292_ I Will Achieve – 2.txt | I Will Achieve – 2 | todo |  |
 | 295 | 293 | Chapter_295 - Chapter 293_ I Will Achieve – 3.txt | I Will Achieve – 3 | todo |  |
 | 296 | 294 | Chapter_296 - Chapter 294_ I Will Achieve – 4.txt | I Will Achieve – 4 | todo |  |

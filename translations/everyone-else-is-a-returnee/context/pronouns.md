@@ -449,4 +449,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Helièna | Lemiel | ta | ngươi / tên đầu óc cơ bắp | 285 | Helièna nhận xét và cảnh báo về Lemiel |
 | Lemiel | Satan | ta | Chúa Tể Satan / Ngài | 287 | Lemiel tôn xưng Satan là Kẻ Đại Phản Bội và Vị Thần Cuối Cùng |
 | Daiel | Raphael | thuộc hạ / tôi | Ngài Raphael | 293 | Daiel giả vờ kính cẩn thỉnh cầu Raphael |
+| Raphael | Yu IlHan | ta | ngươi / Kẻ Siêu Việt | 293 | Raphael cất tiếng nói chuyện với thực thể bí ẩn (Yu IlHan) tại Feira |
 | Raphael | Daiel | ta | ngươi / Daiel | 293 | Raphael đối đáp và răn dạy Daiel |
