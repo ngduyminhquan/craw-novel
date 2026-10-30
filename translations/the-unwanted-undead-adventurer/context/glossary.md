@@ -31,6 +31,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Adventurer’s Guild | Guild | Hội Mạo Hiểm Giả | tổ chức | 1 | Tổ chức quản lý và cấp phép cho mạo hiểm giả |
 | Skeleton | Skeletons | Khô Lâu | quái vật | 1 | Quái vật xương khô Undead cấp thấp |
 | Ghoul | Ghouls | Ngạ Quỷ | quái vật | 1 | Quái vật Undead ăn xác có da thịt |
+| Undead | undead | Undead | chủng tộc | 2 | Quái vật xác sống/bất tử (Khô Lâu, Ngạ Quỷ...) |
 | Slime | Slimes | Slime | quái vật | 1 | Quái vật chất nhầy cơ bản |
 | Goblin | Goblins | Goblin | quái vật | 1 | Quái vật yêu tinh nhỏ da xanh |
 | Wight |  | Wight | quái vật | 1 | Undead cấp cao hơn Ngạ Quỷ |
