@@ -26,7 +26,7 @@ Ngay cả những thành viên tinh anh của Long Sào cũng chẳng phải ngo
 
 "Kinh ngạc thật. Mọi chân lý về ma pháp mà tôi từng học được từ trước đến nay...... tất cả đều đang được thăng hoa một cách vô cùng tự nhiên vào thế giới này."
 
-"Dù anh có thể dung hợp tất cả các thế giới thành một, nhưng nếu cứ hấp tấp gom bừa lại với nhau thì nó sẽ chỉ biến thành một vùng hỗn loạn vô tận mà thôi. Điều lý tưởng nhất là từng mảnh từng mảnh hòa hợp với nhau rồi cuối cùng mới trở thành một thể thống nhất."
+"Dù tôi có thể dung hợp tất cả các thế giới thành một, nhưng nếu cứ hấp tấp gom bừa lại với nhau thì nó sẽ chỉ biến thành một vùng hỗn loạn vô tận mà thôi. Lý tưởng nhất là từng phần một dung hòa với nhau rồi cuối cùng mới hợp thành một thể thống nhất."
 
 Cứ như vậy, Yu IlHan đang tiến hành công cuộc dung hợp tự nhiên các thế giới, nhưng đối với những người khác thì làm sao mà tự nhiên cho nổi? Cư dân Trái Đất lưu lạc khắp nhiều thế giới cũng như cư dân của các thế giới khác liên tục được triệu hồi về Trái Đất, và tất cả bọn họ đều phải trải qua một giai đoạn hoang mang bối rối.
 
@@ -88,7 +88,7 @@ Ba người elf nhảy cẫng lên vì vui sướng. Nhân tiện ở đây, Yu 
 
 "Nếu, nếu bố mẹ chúng tôi đã qua đời thì xin ngài......."
 
-"Ồ, bố mẹ của cả hai người thuộc cặp đôi Michael Smithson đều đã an toàn trở về rồi. Hai người chỉ việc chuẩn bị cho hôn lễ của mình thôi."
+"Ồ, bố mẹ của cả hai người thuộc hai vợ chồng nhà Smithson đều đã an toàn trở về rồi. Hai người chỉ việc chuẩn bị cho hôn lễ của mình thôi."
 
 "Em muốn sinh con cho anh!!! khẹcccccccc."
 
@@ -234,7 +234,7 @@ Khi tất cả các vị khách đã an tọa, và khung cảnh bên trong lễ 
 
 Yu IlHan đã khẽ ẩn thân để làm nổi bật vẻ đẹp của cô dâu! Mưu kế nhỏ của anh đã phát huy tác dụng thần kỳ, và Liera, người bước vào trong bộ váy trắng tinh khôi, đã thu hút toàn bộ sự chú ý của mọi vị khách với tư cách là người phụ nữ đẹp nhất thế giới mà không cần bất kỳ sự phóng đại nào.
 
-Mái tóc vàng óng ả được chải chuốt dịu dàng cùng đôi mắt đỏ lấp lánh như ngọc Ruby, đôi gò má khẽ ửng hồng một sắc phấn nhẹ nhàng đã hớp trọn hồn vía của tất cả mọi người. Bộ váy cưới tôn lên vóc dáng hoàn hảo của cô mà không cần thêm thắt bất kỳ chi tiết rườm rà nào. Giờ đây khi đã trở thành Nữ Thần Tình Yêu và giành lấy điều được coi là chiến thắng vẻ vang trong hành trình kiếm tìm tình yêu, ma lực khẽ tỏa ra từ làn da cô và tạo thành một tấm khăn voan mờ ảo kết hợp hoàn mỹ với bộ váy, càng tôn thêm vẻ đẹp siêu phàm thoát tục của cô.
+Mái tóc vàng óng ả được chải chuốt dịu dàng cùng đôi mắt đỏ lấp lánh như hồng ngọc, đôi gò má khẽ ửng hồng một sắc phấn nhẹ nhàng đã hớp trọn hồn vía của tất cả mọi người. Bộ váy cưới tôn lên vóc dáng hoàn hảo của cô mà không cần thêm thắt bất kỳ chi tiết rườm rà nào. Giờ đây khi đã trở thành Nữ Thần Tình Yêu và giành lấy điều được coi là chiến thắng vẻ vang trong hành trình kiếm tìm tình yêu, ma lực khẽ tỏa ra từ làn da cô và tạo thành một tấm khăn voan mờ ảo kết hợp hoàn mỹ với bộ váy, càng tôn thêm vẻ đẹp siêu phàm thoát tục của cô.
 
 "Cô ấy chẳng thể kiềm chế nổi niềm vui sướng nữa rồi."
 
@@ -312,7 +312,7 @@ Kang MiRae đứng bật dậy với nét mặt tràn đầy kiên định. Na Y
 
 Khóe môi Helièna cũng nở một nụ cười đượm vẻ sát khí. Ả chẳng bận tâm Yu IlHan có bao nhiêu người vợ, nhưng ả muốn thiết lập tôn ti trật tự cho thật rõ ràng!
 
-Những kẻ có thể tham gia vào trận chiến này trên thực tế đã là những kẻ vô cùng may mắn rồi. Còn như trường hợp của Phiria hay Erica, những người thậm chí không thể bước lên sàn đấu vì thiếu hụt thực lực, họ chỉ biết ngậm đắng nuốt cay nuốt những giọt nước mắt rỉ máu vào trong lòng. Paté thì chỉ biết ngồi khóc một mình ở một góc. Hiện thực lúc nào cũng khắc nghiệt, tàn nhẫn và lạnh lùng.
+Những kẻ có thể tham gia vào trận chiến này trên thực tế đã là những kẻ vô cùng may mắn rồi. Còn như trường hợp của Phiria hay Erica, những người thậm chí không thể bước lên sàn đấu vì thiếu hụt thực lực, họ chỉ biết ngậm ngùi nuốt những giọt nước mắt rỉ máu vào trong lòng. Paté thì chỉ biết ngồi khóc một mình ở một góc. Hiện thực lúc nào cũng khắc nghiệt, tàn nhẫn và lạnh lùng.
 
 "Tốt lắm, chúng ta đang chuyển sang tiết mục tiếp theo vô cùng êm thắm đấy."
 

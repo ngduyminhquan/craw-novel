@@ -631,3 +631,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu Arang | Yumir | em | anh / anh Mir | 353 | Yu Arang đáp lời trọng tài Yumir |
 | Yumir | Yu Arang | anh | em / Arang | 353 | Yumir động viên em trai Yu Arang bắt gôn |
 | Yumir | * | tôi / ta | các tuyển thủ / các em | 353 | Trọng tài Yumir phổ biến luật trận đấu |
+| Gabriel | Uriel | ta / anh | nàng / em / Uriel | 351 | Xưng hô vợ chồng thân mật sau Đại Dung Hợp |
+| Yu Nayeon | * | cô | các cháu | 353 | Yu Nayeon xưng cô với các con cháu của Yu IlHan |
+| Yu Isu | * | cô | các cháu | 353 | Yu Isu xưng cô với các con cháu của Yu IlHan |

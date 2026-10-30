@@ -10,7 +10,7 @@ Yu IlHan gãi đầu nói lời xin lỗi với mẹ mình.
 
 "Chắc khoảng 20 năm nữa ạ."
 
-"Ừ, con trai ta, con vất vả rồi."
+"Ừ, con trai của mẹ, con vất vả rồi."
 
 Kim YeSeul hài lòng gật đầu rồi quay người lại.
 
@@ -46,7 +46,7 @@ Các hàng ghế khán giả có sức chứa hàng chục triệu người đã
 
 Vì các phu nhân của Yu IlHan không chỉ sinh mỗi con trai, nên trận đấu hiển nhiên là một trận đấu nam nữ hỗn hợp. Mà thôi, ở đẳng cấp của Yu IlHan hay thuộc hạ của anh thì giới tính bẩm sinh cũng chẳng quan trọng đến thế!
 
-"Kyaaaaaak!"
+"Áaaaaaa!"
 
 "Là tiểu thư Yu Ara!"
 
@@ -118,7 +118,7 @@ Kế tiếp là con gái của Phiria, Yu Jia. Thừa hưởng tính cách lặn
 
 Cầu thủ cuối cùng kiêm thủ môn chính là Yu Arang, con trai thứ hai của Yu IlHan và Liera! Cậu bé năm nay lên bốn, và dù có tốc độ lớn rất nhanh nhưng cậu vẫn là đứa bé nhỏ thó nhất trong số các cầu thủ ở đây.
 
-"Kyaaaaaaaaaak!"
+"Áaaaaaaaaa!"
 
 "Đáng yêu quá đi mất!"
 
@@ -170,7 +170,7 @@ Tuyên bố của Yuni đã đốt cháy toàn bộ ngọn lửa chiến đấu 
 
 "Sau trận đấu này, các em sẽ phải gọi chị là mẹ thay vì gọi là chị đấy!"
 
-"Sao chị dám...... cha của bọn tôi......!"
+"Sao chị dám...... bố của bọn tôi......!"
 
 Ý chí chiến đấu của Yu Ara sôi sục. Bầu không khí xung quanh cô bé bắt đầu bị bóp méo. Còn gì phải giấu giếm nữa, cô bé chính là người thừa hưởng năng lực hỏa diễm của Yu IlHan.
 
@@ -194,7 +194,7 @@ Khác với Yuni thừa hưởng nét đẹp từ mẹ, Nick lại giống cha m
 
 Con gái của Kim YeSeul là Yu Nayeon, con gái của Uriel là Yu Isu. Cả hai đều nở nụ cười dịu dàng và ấm áp, nhưng tài năng ma pháp của họ lại có thể sánh ngang với Yu Se-ah và Yu Sira. Vì thế, bốn người bọn họ được coi là những tài năng ma pháp của thế hệ kế tiếp.
 
-"Em không muốn thấy anh trai phải buồn đâu, nên em sẽ nương tay với các cháu nhé."
+"Cô không muốn thấy anh trai phải buồn đâu, nên cô sẽ nương tay với các cháu nhé."
 
 "Đúng rồi, chúng ta cùng chơi vui vẻ nhé."
 
@@ -222,7 +222,7 @@ Một bé trai và một bé gái cùng nhau bước ra. Chúng là những đ�
 
 "Em biết là chị Yuni hết thuốc chữa rồi, nhưng mà......."
 
-"Chúng ta không thể vì thế mà chịu thua được. Xin lỗi nhé, chiến thắng lần này sẽ thuộc về chúng tôi."
+"Bọn này không thể vì thế mà chịu thua được. Xin lỗi nhé, chiến thắng lần này sẽ thuộc về chúng tôi."
 
 Càng lúc tinh thần chiến đấu của cả hai bên càng bốc cháy hừng hực. Đội con của Thần chiến đấu(?) để bảo vệ thanh danh cũng như trinh tiết của cha mình, đối đầu với đội con của thuộc hạ sống thật với dục vọng của loài rồng! Với Yu Ara và Yuni lần lượt dẫn đầu đôi bên, chúng nhe nanh giương vuốt chĩa về phía nhau và mặc sức để bản tính hung bạo của mình bùng nổ hoang dại.
 
@@ -252,7 +252,7 @@ Ngoại hình của cậu giống hệt Yu IlHan nhất, một chân long đã t
 
 Đó chính là Yumir.
 
-"Kyaaaaaaaaaaaaak!"
+"Áaaaaaaaaaaaa!"
 
 "Ngài Mi-i-i-i-i-i-i-r!"
 

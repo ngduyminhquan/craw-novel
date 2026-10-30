@@ -174,9 +174,9 @@ Mystic ngây người gật đầu. Dù cô không thể hoàn toàn đồng c�
 
 "Cảm ơn vì đã giúp đỡ. Giờ tôi đi đây. À, chúc mừng cô mang thai nhé."
 
-"Lần này tôi muốn có một đứa con gái. Một đứa con trai là quá đủ mệt mỏi rồi."
+"Lần này ta muốn có một đứa con gái. Một đứa con trai là quá đủ mệt mỏi rồi."
 
-"Em lại muốn có con trai cơ, Gabriel. Một đứa con trai giống hệt anh ấy."
+"Em lại muốn có con trai cơ, Gabriel. Một đứa con trai giống hệt anh."
 
 "Hiiik, ta không muốn có thêm một IlHan nữa đâu!"
 
@@ -290,7 +290,7 @@ Một phen náo loạn bùng nổ. Chẳng những lũ trẻ đang luyện tập
 
 "Áaaaa!"
 
-"Huýt sáo! Ngầu quá đi mất!"
+"Huýttt! Ngầu quá đi mất!"
 
 Orochi tuyệt vọng vận dụng ma lực nhằm thoát khỏi Mystic. Thế nhưng Mystic đã nhắm trúng mục tiêu và chẳng có vẻ gì là sẽ chịu lùi bước dễ dàng như vậy.
 
