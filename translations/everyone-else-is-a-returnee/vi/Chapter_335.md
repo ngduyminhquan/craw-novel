@@ -10,7 +10,7 @@
 
 [Sức mạnh – 1.754 Nhanh nhẹn – 1.545 Thể lực – 1.443 Ma pháp – 3.559]
 
-[Kỹ năng chủ động – Hiển Hiện(Đọa Lạc, Long Huyết, Cộng Hưởng Long Nhân) Lv 87, Siêu Việt Quỹ Đạo(Đại Đoạn Vũ Trụ Thương, Bất Khả Họa Quỹ Đạo Thương, Thần Lực, Giải Phẫu, Khai Quật, Tuyệt Đối Chuẩn Xác) Lv 65, Chế Tác Mana Lv Max, Tuyên Cáo(Thống Trị, Ký Lục) Lv 88, Dịch Chuyển(Bật Nhảy) Lv 97, Chúa Tể Thứ Nguyên Lv 99, Phản Kích Lv 87]
+[Kỹ năng chủ động – Hiển Hiện (Đọa Lạc, Long Huyết, Cộng Hưởng Long Nhân) Lv 87, Siêu Việt Quỹ Đạo (Đại Đoạn Vũ Trụ Thương, Bất Khả Họa Quỹ Đạo Thương, Thần Lực, Giải Phẫu, Khai Quật, Tuyệt Đối Chuẩn Xác) Lv 65, Chế Tác Mana Lv Max, Tuyên Cáo (Thống Trị, Ký Lục) Lv 88, Dịch Chuyển (Bật Nhảy) Lv 97, Chúa Tể Thứ Nguyên Lv 99, Phản Kích Lv 87]
 
 [Kỹ năng bị động – Rèn Đúc Lv Max, Ma Pháp Công Học Lv Max, Nấu Nướng Lv Max, Thích Ứng Thứ Nguyên Lv 99, Chỉ Huy Hạm Đội Lv 99]
 
@@ -74,7 +74,7 @@ Cuối cùng, cô cất giọng cẩn trọng hỏi anh.
 
 Lẽ ra cô không nên hỏi câu đó. Nó chỉ khiến cô thêm phần sợ hãi! Yu IlHan bật cười khúc khích khi nhìn thấy Liera run rẩy. Ở độ tuổi của cô, đáng lẽ cô phải trưởng thành hơn ai hết, nhưng không hiểu sao nàng cựu thiên thần này lại càng ngày càng trẻ con theo thời gian. Nhưng hiển nhiên rồi, chính điều đó mới làm cô trở nên đáng yêu.
 
-"Nếu việc thâu tóm nhiều thế giới bậc cao có thể biến tôi thành Thượng Đế, thì bất kỳ Kẻ Siêu Việt nào khác cũng đã thành Thượng Đế từ lâu rồi. Chẳng hạn như Thượng Đế Thiên giới....... Tất nhiên, tôi không thể bảo rằng việc dung hợp toàn bộ các thế giới làm một không đem lại hiệu quả gì, nhưng không phải thế đâu, Liera. Tôi vẫn chưa thể nắm bắt được nó. Tôi chỉ là một Kẻ Sáng Tạo chưa hoàn chỉnh, một Bán Thể thậm chí còn chẳng thể tự mình tạo ra mana một cách đàng hoàng."
+"Nếu việc thâu tóm nhiều thế giới bậc cao có thể biến anh thành Thượng Đế, thì bất kỳ Kẻ Siêu Việt nào khác cũng đã thành Thượng Đế từ lâu rồi. Chẳng hạn như Thượng Đế Thiên giới....... Tất nhiên, anh không thể bảo rằng việc dung hợp toàn bộ các thế giới làm một không đem lại hiệu quả gì, nhưng không phải thế đâu, Liera. Anh vẫn chưa thể nắm bắt được nó. Anh chỉ là một Kẻ Sáng Tạo chưa hoàn chỉnh, một Bán Thể thậm chí còn chẳng thể tự mình tạo ra mana một cách đàng hoàng."
 
 Đôi môi Liera bĩu ra. Càng nói chuyện với anh, cô lại càng cảm thấy anh xa cách hơn và khiến cô thêm lo lắng.
 
@@ -90,7 +90,7 @@ Nếu có một điều chắc chắn, thì đó là giờ đây anh chẳng cò
 
 "Dù sao thì, ngoại trừ Khu Vườn Hoàng Hôn ra, chúng ta đã hấp thụ toàn bộ các thế giới bậc cao thuộc quyền sở hữu của các phe phái khác rồi đúng không? Ngoại trừ các thế giới chính?"
 
-"Anh thừa biết khởi nguồn của mọi phe phái chính là thế giới chính của họ mà đúng không? Thế giới chính theo đúng nghĩa đen là nơi bắt nguồn cho toàn bộ sức mạnh của phe phái đó cùng thủ lĩnh của họ. Tôi biết Daréu đã tiến hóa vượt qua cả giới hạn cực hạn, nhưng có những thứ không thể vượt qua chỉ bằng số lượng ghi chép đơn thuần. Anh đặc biệt không thể xem thường Thiên giới. Elo Katra và Minh Giới cũng tương tự như vậy."
+"Anh thừa biết khởi nguồn của mọi phe phái chính là thế giới chính của họ mà đúng không? Thế giới chính theo đúng nghĩa đen là nơi bắt nguồn cho toàn bộ sức mạnh của phe phái đó cùng thủ lĩnh của họ. Em biết Daréu đã tiến hóa vượt qua cả giới hạn cực hạn, nhưng có những thứ không thể vượt qua chỉ bằng số lượng ghi chép đơn thuần. Anh đặc biệt không thể xem thường Thiên giới. Elo Katra và Minh Giới cũng tương tự như vậy."
 
 "Liera, không cần phải lo lắng thái quá như vậy đâu. Ta không bảo cô đừng cẩn trọng, mà là đừng tự hạ thấp giá trị của bản thân. Chuyện đó hoàn toàn khả thi mà. Cứ mở to mắt ra mà nhìn người thương lúc này xem. Chàng ấy không còn là cậu nhóc mà cô từng biết năm xưa nữa đâu, Liera."
 

@@ -207,8 +207,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jirl | Yu IlHan | thần / tôi | Bệ hạ / Yu IlHan | 103 | Jirl đối thoại với Yu IlHan |
 | Yu IlHan | Phiria | tôi | cô / Phiria | 103 | IlHan chỉ thị cho Phiria |
 | Phiria | Yu IlHan | thần / tôi | Bệ hạ / Yu IlHan | 103 | Phiria đối thoại với Yu IlHan |
-| Yu IlHan | Liera | tôi | cô / Liera | 105 | IlHan đối thoại với Liera sau khi tái ngộ tại Trái Đất |
-| Liera | Yu IlHan | tôi | cậu / IlHan | 105 | Liera đối thoại với IlHan sau khi tái ngộ tại Trái Đất |
+| Yu IlHan | Liera | tôi / anh | cô / Liera / em | 105 | IlHan đối thoại với Liera sau khi tái ngộ tại Trái Đất; anh - em sau khi thành đôi |
+| Liera | Yu IlHan | tôi / em | cậu / IlHan / anh | 105 | Liera đối thoại với IlHan sau khi tái ngộ tại Trái Đất; em - anh sau khi thành đôi |
 | Erta | Liera | tôi | Liera / cô | 105 | Đồng nghiệp thiên thần tiếp tục đối thoại sau khi Liera thăng cấp |
 | Liera | Erta | tôi | Erta / cô | 105 | Liera đối thoại với Erta sau khi thăng cấp |
 | dragon-child | Yu IlHan | con | bố | 106 | Đứa bé rồng nhận Yu IlHan làm bố theo lời dặn của mẹ |

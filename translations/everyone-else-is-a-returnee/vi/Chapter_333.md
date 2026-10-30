@@ -16,7 +16,7 @@ Yu IlHan gạt phăng mọi suy nghĩ khác sang một bên rồi điên cuồng
 
 "Orochi."
 
-"Vâng vâng, tôi biết rồi."
+"Vâng vâng, ta biết rồi."
 
 Orochi chỉ biết vỗ nhẹ lên chiếc mũ rơm của Mystic khi cô nàng trông như sắp sửa phát nổ tới nơi bất cứ lúc nào. Mystic chỉ muốn lao vào đập cả Yu IlHan lẫn Orochi thừa sống thiếu chết cùng một lúc. Nhưng bực bội thay, cô chẳng thể làm thế vì cơ thể đang bị bất động bởi những thế giới vẫn chưa được dung hợp hoàn hảo. Chết tiệt cái nghề tay trái này!
 

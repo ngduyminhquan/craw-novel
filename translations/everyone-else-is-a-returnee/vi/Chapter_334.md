@@ -198,7 +198,7 @@ Kim YeSeul khẽ cười rồi nói thêm.
 
 "Đúng vậy."
 
-Đó quả thực là một ma pháp quá đỗi phi thường trước một kẻ thù như Satan. Yu IlHan trầm trồ thán phục trước năng lực của cha mình. Phải rồi, vì cha anh có thể thi triển một ma pháp với quy mô đến mức ấy, ông hẳn lúc này vẫn sẽ bình an vô sự. Chắc chắn phải như vậy, anh tin là thế và.......
+Đó quả thực là một ma pháp quá đỗi phi thường trước một kẻ thù như Satan. Yu IlHan trầm trồ thán phục trước năng lực của bố mình. Phải rồi, vì bố anh có thể thi triển một ma pháp với quy mô đến mức ấy, ông hẳn lúc này vẫn sẽ bình an vô sự. Chắc chắn phải như vậy, anh tin là thế và.......
 
 "Được rồi, chúng ta hãy hoàn thành nốt những gì đang làm dở đi. Giá mà mình có thể tung thêm một lượt Quỹ Đạo Ngân Hà nữa nhỉ..."
 
