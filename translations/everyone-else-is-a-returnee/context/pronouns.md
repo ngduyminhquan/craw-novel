@@ -474,3 +474,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Michael | ta | ngươi / các ngươi / Michael | 297 | Yu IlHan đối mặt và khiêu chiến Đại thiên thần Michael |
 | Satière | Keshein | ngươi | ngươi / quái vật chết tiệt | 297 | Satière ngăn cản Keshein can thiệp vào Yu IlHan |
 | Keshein | Satière | ta | ngươi | 297 | Keshein giằng co và chế giễu Satière trên chiến trường |
+| Yu IlHan | Raphael | ta | ngươi | 298 | Yu IlHan đối đầu và kết liễu Raphael |

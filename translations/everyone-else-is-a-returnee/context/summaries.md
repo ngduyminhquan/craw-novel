@@ -1812,5 +1812,12 @@ Quá trình sáng tạo phá vỡ mọi chức nghiệp và dung hợp hàng lo�
 Yu IlHan hoàn tất tái sinh, chính thức trở thành thực thể cấp cao ở cấp độ 519 với danh hiệu Chúa Tể Long Sào; đồng thời Yumir cũng được gỡ bỏ giới hạn cấp độ, tiến hóa thành rồng chuyển chức 6 ở cấp độ 451.
 Cảnh kết thúc: Mọi hỏa diễm của Michael hoàn toàn bị vô hiệu hóa và tước đoạt trước uy quyền tuyệt đối của Chúa Tể Long Sào; Yu IlHan thong thả ngưng tụ ngọn hỏa thương thuần khiết rồi mỉm cười ngoắc tay khiêu chiến Michael.
 
+## 298
+Yu IlHan tước đoạt tạo tác cấp Thần của Đại thiên thần Michael rồi cắm vào Hỏa Hồn Long Thân để sao chép đặc tính (gây vết thương không thể chữa lành và hút máu hồi phục); anh kết hợp cùng Yumir thi triển Siêu Việt Quỹ Đạo (lên cấp 9) chém Michael trọng thương phun máu trắng khiến ma pháp trị liệu của Raphael hoàn toàn vô hiệu.
+Raphael cùng Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt) đồng thời đánh lén trước sau nhưng bị Siêu Việt Quỹ Đạo của IlHan chém gục cả hai cùng một lúc; IlHan kết liễu Raphael, thu thập ký lục của Keshein (Lv 588) và Raphael (Lv 585), thăng liền lên cấp 530 đồng thời nâng Siêu Việt Quỹ Đạo lên cấp 13 và Tuyên Cáo lên cấp 19.
+Chứng kiến hai nhân vật cấp cao bỏ mạng chớp nhoáng, các thực thể cấp cao hoảng loạn tháo chạy, Khu Vườn Hoàng Hôn cùng Quân Đội Ánh Sáng Rực Rỡ rút lui, Michael tuyệt vọng dẫn tàn quân thiên thần rút về Thiên giới sau khi buông lời đe dọa về sự trừng phạt của Thượng Đế.
+Cảnh kết thúc: Tàn quân Quân Đội Ma Hủy Diệt bất ngờ chuyển lời mời của thủ lĩnh chúng rủ "Kẻ Thứ Năm" tới sào huyệt Elo Katra chơi; Yu IlHan hào hứng nhận lời với khao khát xem thử nơi đó có những tạo tác nào.
+
+
 
 

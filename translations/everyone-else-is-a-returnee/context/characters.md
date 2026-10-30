@@ -99,12 +99,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
 | Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8 | 289 |
-| Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira | 289 |
+| Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira; tử trận ở #298 dưới ngọn thương của Yu IlHan | 289 |
 | Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |
 | Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri | 293 |
 | Vera |  | Vera | Thiên thần phản bội thuộc Quân Đội Thiên Giới bị Raphael vạch trần và Yu IlHan trảm thủ | 295 |
 | Anafière | Anafi | Anafière | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ, thực thể cấp cao chuyển chức 7 | 295 |
-| Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu | 295 |
+| Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu; tử trận ở #298 dưới ngọn thương của Yu IlHan | 295 |
 | Lazière | Lady Lazière; Lazi | Lazière | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ, nhân vật số 2 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan | 295 |
 | Crissière | Crissi | Crissière | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ, nhân vật chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ | 296 |
 
@@ -861,6 +861,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Sở hữu thực lực tiệm cận chuyển chức 8, vượt trội hoàn toàn so với các đại thiên thần chuyển chức 7 thông thường và có thể trực tiếp đối đầu với Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ.
 - Xuất hiện tính đến chương 289: Được các thiên thần tại Wirepa nghi ngờ là người đang phóng hỏa thương thanh trừng nội gián; được Liera cảnh báo Yu IlHan phải lập tức tháo chạy nếu chạm trán vì khoảng cách sức mạnh quá lớn.
 - Xuất hiện tính đến chương 296: Hóa giải phong ấn truy dấu trên người Yu IlHan thất bại; thừa nhận đã đàm phán bắt tay với Quân Đội Ma Hủy Diệt để tiêu diệt IlHan; hoảng hốt trước tốc độ thức tỉnh thành Kẻ Thứ Năm của IlHan và phóng hỏa thương toan hạ sát anh nhưng bị Anafière liều mình chặn lại.
+- Xuất hiện tính đến chương 298: Dùng tạo tác thương cấp Thần giao chiến với Yu IlHan nhưng bị đoạt mất vũ khí và bị phản phệ bởi chính năng lực sao chép của tạo tác thông qua Siêu Việt Quỹ Đạo; bất lực chứng kiến Raphael tử trận và đành ngậm ngùi hạ lệnh cho toàn bộ thiên thần rút lui về Thiên giới.
 
 ### Raphael
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.
@@ -868,6 +869,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 293: Sở hữu khả năng trị liệu vượt xa Na YuNa và sức chiến đấu vượt trội phần lớn thực thể chuyển chức 7; ngoại hình đẹp trai và hiền từ khiến Yu IlHan ghen tị tích điểm thù địch; nhận ra kẻ bí ẩn đang giúp thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ nên đã ra lệnh cho các thiên thần không được can thiệp; dùng mana của thế giới Feira bẻ gãy ma pháp dịch chuyển tập thể của 32 kẻ phản bội chuyển chức 6 và tạo phong kiếm chứa hỏa lực để tự tay tiêu diệt chúng.
 - Xuất hiện tính đến chương 294: Kinh ngạc trước năng lực chiến đấu bộc phát của Yu IlHan khi hạ sát Daiel; thu dọn tàn dư phản bội và chủ động đề nghị liên minh với Yu IlHan để cùng đi thanh trừng nội gián khắp các thế giới thuộc Thiên giới trước thềm cuộc chiến cuối cùng; mở cổng thế giới dẫn IlHan đi tiếp.
 - Xuất hiện tính đến chương 296: Bị Yu IlHan dùng Nhân Long Thân tạo ảo ảnh lừa gạt và tập kích chí mạng làm vỡ bả vai, đứt 2 cặp cánh để cướp ký lục Thượng Đế; lập tức hồi phục dịch chuyển về cạnh Michael và cảnh báo Michael phải cẩn giác trước IlHan.
+- Xuất hiện tính đến chương 298: Dùng năng lực trị liệu tối thượng hòng cứu Michael nhưng vô hiệu trước tạo tác cấp Thần; phẫn nộ cùng Keshein giáp công Yu IlHan nhưng bị Siêu Việt Quỹ Đạo chém trọng thương; bị Yu IlHan cắm thương xuyên não kết liễu ở Lv 585 và thu thập thi thể cùng ký lục.
 
 ### Anafière
 - Giới tính, vai trò: Thực thể cấp cao chuyển chức 7, Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan.
@@ -888,4 +890,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Keshein
 - Giới tính, vai trò: Nam/quái vật, Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt.
 - Xuất hiện tính đến chương 296: Xuất hiện qua ma pháp dịch chuyển bằng máu ở chương 295 theo lệnh Chúa tể để lấy mạng Yu IlHan; bị Crissière và Satière chặn đường ở chương 296.
+- Xuất hiện tính đến chương 298: Đánh lén Yu IlHan từ phía sau nhưng bị Siêu Việt Quỹ Đạo đâm thủng cổ họng tử trận chớp nhoáng ở Lv 588; thi thể và ký lục bị Yu IlHan thu vào túi đồ.
 
