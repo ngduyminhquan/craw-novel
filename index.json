@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T04:38:52Z",
+  "generatedAt": "2026-10-30T04:51:22Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1696,19 +1696,19 @@
           "number": 282,
           "title": "Chương 282: Tôi Sẽ Chuẩn Bị – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_282.md",
-          "sha": "4c8f88126d249337df2343c283e7685b643b9fd6"
+          "sha": "cb1353a3a5e9bd6e48d07ae494e097777dc479f6"
         },
         {
           "number": 283,
           "title": "Chương 283: Tôi Sẽ Chuẩn Bị – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_283.md",
-          "sha": "ccc64e59091fc43fda399e6cfd52b48079c15088"
+          "sha": "431618af3d05188560dc0339250bc084a354bd7c"
         },
         {
           "number": 284,
           "title": "Chương 284: Tôi Sẽ Chuẩn Bị – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_284.md",
-          "sha": "a4ee9095dc1f84a1c4e3a065066a440de337decc"
+          "sha": "a978507b609a04149b792d3ed95e759f9a2a4615"
         }
       ]
     },

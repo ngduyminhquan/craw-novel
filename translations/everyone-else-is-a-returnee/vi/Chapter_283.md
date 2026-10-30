@@ -14,7 +14,7 @@ Anh nâng cấp toàn bộ trang bị mà các thành viên trong tổ đội s�
 
 [Sức mạnh – 827 Nhanh nhẹn – 766 Thể lực – 635 Ma pháp – 1.238]
 
-[Kỹ năng chủ động – Đọa Lạc(Tử Thần, Linh Hồn Phụ Ma, Liệt Hỏa, Thu Thập Tử Vong, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao) Lv 43, Chế Tác Mana Lv Max, Thần Lực(Quái Lực, Đòn Chí Mạng) Lv 79, Thống Trị Lv Max, Long Huyết Lv 96, Dịch Chuyển(Bật Nhảy) Lv 58, Chúa Tể Thứ Nguyên Lv 69]
+[Kỹ năng chủ động – Đọa Lạc(Tử Thần, Linh Hồn Phụ Ma, Liệt Hỏa, Thu Thập Tử Vong, Siêu Việt Tái Sinh, Kháng Độc Cực Hạn, Kháng Lời Nguyền Cấp Cao) Lv 43, Chế Tác Mana Lv Max, Thần Lực(Quái Lực, Chí Mạng) Lv 79, Thống Trị Lv Max, Long Huyết Lv 96, Dịch Chuyển(Bật Nhảy) Lv 58, Chúa Tể Thứ Nguyên Lv 69]
 
 [Kỹ năng bị động – Cộng Hưởng Long Nhân Lv 87, Giải Phẫu Lv Max, Rèn Đúc Lv Max, Ký Lục(Ngôn Ngữ) Lv 82, Ma Pháp Công Học Lv Max, Khai Quật Lv Max, Bất Khả Họa Quỹ Đạo Thương(Thương Thuật) Lv 98, Đại Đoạn Vũ Trụ Thương(Thương Thuật, Cận Chiến, Độn Khí Thuật, Kiếm Thuật, Tiên Thuật) Lv 86, Tuyệt Đối Chuẩn Xác(Thuật Ném, Xạ Kích) Lv Max, Nấu Nướng Lv Max, Tâm Bất Động Lv Max, Thích Ứng Thứ Nguyên Lv 59, Chỉ Huy Hạm Đội Lv 66]
 
@@ -82,7 +82,7 @@ Họ muốn giữ mãi cái ôm ấy thêm một lúc lâu, nhưng những ánh 
 
 "Cô có nhìn cũng chẳng nhận ra giá trị thực sự của IlHan đâu."
 
-"Giờ ta chỉ muốn giết ngươi thôi đấy, Liera. Không thể kéo nhau ra chỗ nào không có ta được à?"
+"Giờ ta chỉ muốn giết cô thôi đấy, Liera. Không thể kéo nhau ra chỗ nào không có ta được à?"
 
 "IlHan chủ động ôm tôi trước mà, sao tôi có thể từ chối được chứ?"
 

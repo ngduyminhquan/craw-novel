@@ -90,7 +90,7 @@ Gã thủ môn nhân dừng dở câu nói. Ngay sau đó, móng vuốt của Or
 
 "Tôi nghe thấy đấy nhé, Orochi. Có thời gian càu nhàu thì nhấc cái mông lên mà hành động đi."
 
-[Ít ra ngươi cũng không phủ nhận. Rõ rồi. Ta sẽ quậy phá cho thỏa thích.]
+[Ít ra chủ nhân cũng không phủ nhận. Rõ rồi. Ta sẽ quậy phá cho thỏa thích.]
 
 Orochi nắm chặt rồi lại thả lỏng nắm đấm vài lần, tựa như cảm thấy thực chiến cũng không đến nỗi tệ, rồi lao thẳng về phía một kẻ địch với nụ cười nhạt trên môi.
 

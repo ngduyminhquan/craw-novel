@@ -96,7 +96,7 @@ Liera kịch liệt phản đối chuyện đó, nhưng Yu IlHan xua tay.
 
 "Nghe có vẻ thú vị đấy. Đó là chuyện mà bác không thể nghe sao?"
 
-[Không đâu ạ, bất kỳ ai khác ngoài chàng có nghe cũng vô nghĩa thôi. Tốt nhất là chỉ có chàng, kẻ thống trị Trái Đất, được nghe mà thôi.]
+[Không đâu bác, bất kỳ ai khác ngoài chàng có nghe cũng vô nghĩa thôi. Tốt nhất là chỉ có chàng, kẻ thống trị Trái Đất, được nghe mà thôi.]
 
 "Thế thì bác chịu rồi. Mấy đứa, chúng ta tạm thời nhường chỗ cho hai người họ đi."
 
@@ -146,19 +146,19 @@ Thủ lĩnh của Khu Vườn Hoàng Hôn tiên tri về Vị Thần Thứ Năm,
 
 "Có phải cô...."
 
-[Phải. Ta đã bị thủ lĩnh của Khu Vườn Hoàng Hôn lợi dụng. Ông ta dùng ta làm thù lao cho việc tiết lộ thông tin rằng cuối cùng ta sẽ được tiếp xúc với Vị Thần Thứ Năm. Dĩ nhiên, mãi về sau này ta mới nhận ra điều đó.]
+[Phải. Ta đã bị thủ lĩnh của Khu Vườn Hoàng Hôn lợi dụng. Ông ta lợi dụng ta như cái giá phải trả cho việc tiết lộ thông tin rằng cuối cùng ta sẽ được tiếp xúc với Vị Thần Thứ Năm. Dĩ nhiên, mãi về sau này ta mới nhận ra điều đó.]
 
 Điều đó đồng thời còn ám chỉ thêm một chuyện nữa. Thay vì chỉ đơn thuần nhắm vào Trái Đất, thủ lĩnh của Khu Vườn Hoàng Hôn....
 
 "Đã có chủ đích nhắm vào sự trưởng thành của tôi sao? Thậm chí từ trước cả khi tôi được sinh ra ư?"
 
-[Phải, đó là kết luận mà ta rút ra được. Khu Vườn Hoàng Hôn, chí ít là người thủ lĩnh ấy, đã muốn biến chàng thành Thượng Đế.]
+[Phải, đó là kết luận mà ta rút ra được. Khu Vườn Hoàng Hôn, chí ít là người thủ lĩnh ấy, đã muốn biến chàng thành một vị Thần.]
 
 "Lý do tôi có thể trở nên mạnh mẽ, dẫu chuyện đó vô cùng phiền toái, là vì tôi bị bỏ lại trên Trái Đất. Vậy là ông ta thậm chí còn thấy trước được việc tôi sẽ bị bỏ lại một mình sao?"
 
 [Có lẽ vậy? ...Hoặc có khi ông ta còn chủ định sắp đặt chuyện đó nữa cơ.]
 
-Yu IlHan sững sờ chết lặng. Quân Đội Thiên Giới cùng Khu Vườn Hoàng Hôn có mưu đồ gì mà lại can thiệp vào sự trưởng thành và cuộc đời của anh chứ? Bọn họ cứ thế tự tiện quyết định biến anh thành Thượng Đế sao? Rồi lại còn tự ý xâu xé tranh giành Trái Đất nữa chứ....
+Yu IlHan sững sờ chết lặng. Quân Đội Thiên Giới cùng Khu Vườn Hoàng Hôn có mưu đồ gì mà lại can thiệp vào sự trưởng thành và cuộc đời của anh chứ? Bọn họ cứ thế tự tiện quyết định biến anh thành một vị Thần sao? Rồi lại còn tự ý xâu xé tranh giành Trái Đất nữa chứ....
 
 Cảm giác ấy thật vô cùng khó chịu. Anh đặc biệt chán ghét từ 'tiên tri'. Thế chẳng khác nào gian lận. Bất kể kết quả có ra sao thì ông ta cũng có thể phán 'ta đã lường trước chuyện này' hay 'ta biết tỏng chuyện này sẽ xảy ra' được hết mà!
 
