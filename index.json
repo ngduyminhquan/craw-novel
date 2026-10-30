@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T06:35:28Z",
+  "generatedAt": "2026-10-30T06:41:03Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1763,6 +1763,12 @@
           "title": "Chương 296: Tôi Sẽ Đạt Được – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_296.md",
           "sha": "99a99e2a7df97ada8393012c131ac199405e2b94"
+        },
+        {
+          "number": 297,
+          "title": "Chương 297: Tôi Sẽ Đạt Được – 5",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_297.md",
+          "sha": "de43048557b7033e6fac1e6074db1266b25ae1ea"
         }
       ]
     },

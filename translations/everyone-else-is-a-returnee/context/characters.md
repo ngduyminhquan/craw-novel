@@ -284,6 +284,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 278: Dùng Ngọn Lửa Vĩnh Cửu kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma nung chảy nửa bộ Hỏa Ngục Long Thân, xương Kelatuke và Hỏa Tâm; lĩnh ngộ cảnh giới Khởi Nguyên và Sáng Tạo, nhận danh hiệu 'Kẻ Sáng Tạo'; chế tạo thành công nội giáp phẩm cấp Thần 'Hỏa Hồn' làm nơi cư ngụ cho Ngọn Lửa Vĩnh Cửu; tóc bị nhuộm đỏ rực và dài tới eo nhưng có thể co ngắn tức thì theo ý nghĩ.
 - Trạng thái tính đến chương 281: Hoàn thành khoảng mười đợt đặc huấn trong kết giới Đồng Hồ Cát Vĩnh Hằng nhưng vẫn chưa thể đột phá lên thực thể cấp cao do thiếu yếu tố quyết định; cứu hộ tàn dư các thế giới diệt vong và tộc elf đưa về Trái Đất; phát hiện dấu hiệu Quân Đội Thiên Giới hoàn toàn biến mất ở khắp các thế giới; quyết định cần phải thu thập thêm ký lục của các thực thể cấp cao.
 - Trạng thái tính đến chương 284: Dẫn đầu hai đại pháo đài cùng hạm đội thực thể cấp thấp mang trang bị Sử Thi tập kích thế giới bậc cao Louisa của Khu Vườn Hoàng Hôn; gom Thiên Nhãn bắn hạ toàn bộ viện binh chuyển chức 5 và 6, nâng Ký Lục lên cấp 84 và Chúa Tể Thứ Nguyên lên cấp 64, giành được quyền thống trị thế giới Louisa.
+- Trạng thái tính đến chương 297: Hoàn thành quá trình tự tái sinh bản ngã trong Cái Nôi Kỳ Tích; hấp thụ toàn bộ ngọn giáo lửa của Michael; dung hợp toàn bộ chức nghiệp và kỹ năng cũ để tạo ra các kỹ năng mới gồm Tuyên Cáo, Hiển Hiện và Siêu Việt Quỹ Đạo; chính thức thức tỉnh thành thực thể cấp cao ở cấp độ 519 và trở thành Chúa Tể Long Sào; tuyệt đối áp chế và tước quyền thao túng ngọn lửa của Đại thiên thần Michael.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -565,6 +566,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 217: Được bố Yu IlHan chế tạo tặng bộ giáp kiêm vũ khí 'Hơi Thở Hoàng Kim' (phẩm cấp Hỗn Loạn) làm từ thi thể Ý Chí Hỗn Loạn; hóa thành dạng rồng bay lượn thử nghiệm trang bị khiến bộ giáp liên tục hấp thụ mana rồng và biến đổi hình dạng tương thích.
 - Trạng thái tính đến chương 219: Cùng 9.300 đứa trẻ thỏa thích vui chơi và rèn luyện trong công viên giải trí trên pháo đài bay; được Yu IlHan chế tạo tặng bộ 6 phụ kiện ma pháp từ nguyên liệu chuyển chức 5.
 - Trạng thái tính đến chương 220–222: Lãnh đạo 9.300 đứa trẻ của Quân Đoàn Rồng theo chân bố IlHan tới Breya; xin đi theo IlHan đến đại bản doanh đế quốc Li Catriana; hóa thân thành rồng dài 20m chở cha bay đi ám sát các Ma Binh Hủy Diệt dưới sự che chở của kỹ năng Ẩn Thân đại thành phối hợp.
+- Trạng thái tính đến chương 297: Được gỡ bỏ giới hạn cấp độ nhờ sự thức tỉnh của IlHan; tiến hóa thành rồng chuyển chức 6 ở cấp độ 451; có thể sử dụng hỏa diễm kết hợp với phong ma pháp.
 
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.

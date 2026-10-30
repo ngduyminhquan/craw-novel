@@ -1806,4 +1806,11 @@ Thuần thục kỹ năng Ký Lục và hội đủ tư cách trở thành thự
 Các thủ môn nhân của Khu Vườn Hoàng Hôn hân hoan chứng kiến sự ra đời của Kẻ Thứ Năm theo lời tiên tri; mọi đòn tấn công liều mạng từ Michael, thiên thần và Quân Đội Ma Hủy Diệt đều bị các thiên thần sa ngã cản bước hoặc bị ma pháp cộng hưởng của IlHan hấp thụ.
 Cảnh kết thúc: Trước danh sách chức nghiệp phụ thay thế cho Bạn Đồng Hành Thiên Thần, Yu IlHan được Yumir cổ vũ đã quyết định chọn chức nghiệp phụ "Thủ Lĩnh", qua đó đáp ứng trọn vẹn mọi điều kiện và khai sinh ra thế lực thực thể cấp cao thứ năm: Long Sào.
 
+## 297
+Yu IlHan bước vào quá trình tự tái sinh bản ngã trong Cái Nôi Kỳ Tích, kết hợp sự tương trợ từ Ngọn Lửa Vĩnh Cửu, Echjar và Yumir; khi nhận thấy năng lượng rồng hơi lấn át hỏa diễm, anh khéo léo dùng Phản Kích hấp thụ trọn vẹn ngọn giáo lửa của Đại thiên thần Michael (nâng Phản Kích lên cấp 39) để đạt thế cân bằng hoàn hảo, phớt lờ mọi đòn tấn công liều mạng từ Michael và Quân Đội Ma Hủy Diệt.
+Quá trình sáng tạo phá vỡ mọi chức nghiệp và dung hợp hàng loạt kỹ năng cũ thành các kỹ năng tối thượng mới gồm Tuyên Cáo (từ Ký Lục + Thống Trị), Hiển Hiện (từ Đọa Lạc + Long Huyết + Cộng Hưởng Long Nhân) và Siêu Việt Quỹ Đạo (từ Thần Lực + Bất Khả Họa Quỹ Đạo Thương + Đại Đoạn Vũ Trụ Thương + Giải Phẫu + Khai Quật + Tuyệt Đối Chuẩn Xác).
+Yu IlHan hoàn tất tái sinh, chính thức trở thành thực thể cấp cao ở cấp độ 519 với danh hiệu Chúa Tể Long Sào; đồng thời Yumir cũng được gỡ bỏ giới hạn cấp độ, tiến hóa thành rồng chuyển chức 6 ở cấp độ 451.
+Cảnh kết thúc: Mọi hỏa diễm của Michael hoàn toàn bị vô hiệu hóa và tước đoạt trước uy quyền tuyệt đối của Chúa Tể Long Sào; Yu IlHan thong thả ngưng tụ ngọn hỏa thương thuần khiết rồi mỉm cười ngoắc tay khiêu chiến Michael.
+
+
 

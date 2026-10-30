@@ -301,7 +301,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 294 | 292 | Chapter_294 - Chapter 292_ I Will Achieve – 2.txt | I Will Achieve – 2 | reviewed |  |
 | 295 | 293 | Chapter_295 - Chapter 293_ I Will Achieve – 3.txt | I Will Achieve – 3 | reviewed |  |
 | 296 | 294 | Chapter_296 - Chapter 294_ I Will Achieve – 4.txt | I Will Achieve – 4 | reviewed |  |
-| 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | todo |  |
+| 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | done |  |
 | 298 | 296 | Chapter_298 - Chapter 296_ I Will Achieve – 6.txt | I Will Achieve – 6 | todo |  |
 | 299 | 297 | Chapter_299 - Chapter 297_ I Will Achieve – 7.txt | I Will Achieve – 7 | todo |  |
 | 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | todo |  |
@@ -999,3 +999,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#294] Cụm từ "final war" ở đoạn 78 — Tạm dịch: "cuộc chiến cuối cùng". Phương án khác: "đại chiến cuối cùng", "chung cuộc chi chiến". → Đồng ý dịch tự nhiên là "cuộc chiến cuối cùng" (cụm danh từ chung viết thường trong raw nên không thêm vào glossary.md). (orchestrator)
 - [#295] Danh xưng thủ lĩnh Quân Đội Ma Hủy Diệt trong lời thoại của Keshein ('The Lord gave me an order'): tạm dịch là 'Lãnh Chúa' (phương án khác: 'Đấng Chúa Tể' hoặc 'Chúa Tể'). → Tạm giữ ở chương 295 và sẽ đồng bộ 'The Lord' (thủ lĩnh Quân Đội Ma Hủy Diệt) thành 'Chúa tể' (nhất quán với lời Melohinne ở #285) ở vòng review 294–296. (orchestrator)
 - [#296] Thế lực thực thể cấp cao mới 'Dragon''s Nest' nên dịch là 'Long Sào' (Hán Việt, đồng bộ với Long Thân, Long Vương) hay 'Tổ Rồng' (thuần Việt)? Tạm dùng 'Long Sào'. → Đồng ý giữ 'Long Sào' (ngắn gọn, Hán Việt đồng bộ với hệ thuật ngữ Long Vương, Long Thân, Long Huyết). (orchestrator)
+- [#297] Thuật ngữ kỹ năng tối thượng mới của Yu IlHan: "Declaration" dịch là "Tuyên Cáo" (kỹ năng tạo và hiện thực hóa ký lục), "Manifestation" dịch là "Hiển Hiện" (gia tăng uy lực và hủy diệt trong lĩnh vực), "Transcendent Trajectory" dịch là "Siêu Việt Quỹ Đạo" (dung hợp các kỹ năng thương thuật và tấn công), và danh xưng "Lord of Dragon's Nest" dịch là "Chúa Tể Long Sào". Đã tạm dùng các phương án này trong bản dịch. → Đồng ý chốt các thuật ngữ Hán Việt ngắn gọn theo rules.md: 'Declaration' → 'Tuyên Cáo', 'Manifestation' → 'Hiển Hiện', 'Transcendent Trajectory' → 'Siêu Việt Quỹ Đạo', 'Lord of Dragon's Nest' → 'Chúa Tể Long Sào'. (orchestrator)

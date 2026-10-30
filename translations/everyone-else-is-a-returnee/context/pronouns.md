@@ -471,3 +471,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Crissière | Anafière | tôi / thuộc hạ | Ngài Anafière | 296 | Crissière tuân lệnh Anafière |
 | Crissière | Keshein | ta | ngươi | 296 | Crissière cùng Satière chặn đường Keshein |
 | Keshein | Crissière | ta | các ngươi | 296 | Keshein khinh miệt sức mạnh của Crissière và Satière |
+| Yu IlHan | Michael | ta | ngươi / các ngươi / Michael | 297 | Yu IlHan đối mặt và khiêu chiến Đại thiên thần Michael |
+| Satière | Keshein | ngươi | ngươi / quái vật chết tiệt | 297 | Satière ngăn cản Keshein can thiệp vào Yu IlHan |
+| Keshein | Satière | ta | ngươi | 297 | Keshein giằng co và chế giễu Satière trên chiến trường |
