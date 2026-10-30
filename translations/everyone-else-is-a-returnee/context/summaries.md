@@ -1957,3 +1957,9 @@ Tại Heishia, Uriel tiết lộ cô đã giấu kín thế giới này khỏi Q
 Yu IlHan vạch trần kẻ ẩn thân theo dõi bấy lâu nay chính là cha anh, Yu YongHan – người đồng thời là Đại Thiên Thần Gabriel của Thiên giới và là thủ lĩnh sáng lập Khu Vườn Hoàng Hôn sở hữu năng lực tiên tri bẩm sinh duy nhất trong vũ trụ.
 Yu YongHan thừa nhận đã gây dựng các thế lực và can thiệp vào quá khứ nhằm bảo vệ gia đình, chuẩn bị cho IlHan trở thành Kẻ Đương Đầu Thượng Đế; ông vạch trần Thượng Đế Thiên giới không phải Đấng sáng tạo thực thụ mà chỉ thiêu rụi linh hồn làm nhiên liệu và tạo ra lũ golem Legna nhằm xóa sổ vạn vật sở hữu mana để trở thành vị Thượng Đế duy nhất.
 Cảnh kết thúc: Yu YongHan cảnh báo Yu IlHan rằng sự xuất hiện của anh đã khiến các phe phái co cụm, mở ra thời khắc trận đại chiến tận thế Harmageddon chính thức bắt đầu.
+
+## 321
+Yu IlHan gặng hỏi chuyện tình cảm và trêu chọc cha mình (Gabriel) cùng Uriel; sau đó anh dùng năng lực Sáng Tạo cải tiến Bẫy Phục Hồi, giải phóng toàn bộ quái vật bị giam tại Heishia rồi đồng thời thi triển Hiển Hiện và Tuyên Cáo quét sạch toàn bộ quái vật trong một chiêu, đưa Hiển Hiện lên cấp 32 và Tuyên Cáo lên cấp 57.
+Yu IlHan tuyên xưng là vị Thần cứu thế, thuyết phục toàn thể nhân loại còn sống sót tại Heishia (tướng lĩnh, cựu hoàng đế, hiệp sĩ, lính đánh thuê) đồng lòng quy phục mình.
+Thế giới Heishia chính thức tiến vào lãnh địa của Yu IlHan và dung hợp thành công với Daréu, khép lại giai đoạn một của chiến dịch rải Bẫy Phục Hồi.
+Cảnh kết thúc: Trong lúc Gabriel than vãn và được Uriel ngượng ngùng cổ vũ, Yu IlHan chuẩn bị đưa mọi người trở về Daréu và bảo bố nghĩ sẵn lý do giải thích với mẹ.

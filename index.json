@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T10:54:23Z",
+  "generatedAt": "2026-10-30T11:00:12Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1907,6 +1907,12 @@
           "title": "Chương 320: Ta Là Kẻ Hạ Màn – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_320.md",
           "sha": "b89b94ec071f9743874a2afb46decefccb309501"
+        },
+        {
+          "number": 321,
+          "title": "Chương 321: Ta Là Kẻ Hạ Màn – 3",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_321.md",
+          "sha": "fb46477a75a6750f81b38b564137aa71354a07e3"
         }
       ]
     },
