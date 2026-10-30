@@ -1910,6 +1910,12 @@ Yu IlHan giải trừ kết giới; Mystic điều khiển hai pháo đài bay �
 Yu IlHan nhận định cục diện đã ổn định nên yên tâm để đồng đội tác chiến, chuẩn bị lên kế hoạch hợp nhất Trái Đất với Daréu cũng như nghiên cứu các thực thể cấp cao kháng mana.
 Cảnh kết thúc: Kang MiRae giữ Yu IlHan lại để nói chuyện riêng và bất ngờ thú nhận cô vừa gặp Thượng Đế khiến anh ngỡ ngàng.
 
+## 314
+Kang MiRae kể lại việc gặp gỡ Thượng Đế; Yu IlHan kiểm tra và gỡ bỏ ngòi nổ ma pháp mà Thượng Đế lén cài vào ký lục của cô, nhận thấy Thượng Đế dù có tư tưởng trẻ con nhưng thủ đoạn che giấu ma pháp cực kỳ cao tay.
+Bác bỏ ý định bắt tay liên minh với Satan hay các thế lực khác, Yu IlHan cùng Ngọn Lửa Vĩnh Cửu dùng kỹ năng Hiển Hiện nung chảy sinh thể thiên thần kháng mana (dạng golem) để phân tích cấu trúc ký lục, giúp kỹ năng Tuyên Cáo đạt cấp 31.
+IlHan phát hiện vật liệu cấu thành sinh thể golem chính là hợp kim Harkanium, Fecinom và El Hazra — ba loại khoáng thạch dùng chế tạo Bẫy Hủy Diệt của Quân Đội Thiên Giới.
+Cảnh kết thúc: Yu IlHan suy đoán Thượng Đế có thể kích hoạt cộng hưởng biến toàn bộ Bẫy Hủy Diệt rải rác khắp vạn giới thành các golem kháng mana bằng cách hiến tế quái vật trong hầm ngục, và trầm ngâm dự cảm về một trận đại chiến Harmageddon sắp sửa nổ ra.
+
 
 
 

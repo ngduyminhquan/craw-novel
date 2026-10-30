@@ -318,7 +318,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | reviewed |  |
 | 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | done |  |
 | 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | done |  |
-| 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | todo |  |
+| 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | done |  |
 | 315 | 313 | Chapter_315 - Chapter 313_ You Are The Same As Me – 5.txt | You Are The Same As Me – 5 | todo |  |
 | 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | todo |  |
 | 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -1024,3 +1025,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#311] Tiêu đề chương "You Are The Same As Me – 1" — Tạm chọn: "Ngươi Cũng Giống Như Ta – 1" (phù hợp lời kết của IlHan về việc khôi phục đẳng cấp và cân xứng cấu trúc với "Ta Là Cha Ngươi"). Phương án khác: "Ngươi Cũng Như Ta – 1", "Các Ngươi Cũng Giống Như Ta – 1". → Chốt dịch tiêu đề arc 'You Are The Same As Me – N' là 'Ngươi Cũng Giống Như Ta – N'. (orchestrator)
 - [#312] Tên cặp đôi khởi thủy trong Kinh Thánh "Adam and Eve" — Tạm dùng: "Adam và Eva" theo tên gọi phổ biến trong tiếng Việt. Phương án khác: "Adam và Eve". → Chốt dịch 'Adam and Eve' là 'Adam và Eva' theo cách gọi quen thuộc trong tiếng Việt. (orchestrator)
 - [#313] Biệt danh trêu chọc "DoubleBrain" Orochi dành cho Mystic — Tạm chọn: "Song Não". Phương án khác: "Hai Não". → Giữ cách dịch 'Song Não' cho biệt danh 'DoubleBrain'. (orchestrator)
+- [#314] Thuật ngữ 'Harmageddon' (raw: a 'Harmageddon', bản EN dùng dạng tiếng Hy Lạp của Armageddon) — Tạm dùng: 'Harmageddon' (đặt trong ngoặc nháy đơn). Đề xuất: giữ nguyên 'Harmageddon' hoặc dùng 'Đại Chiến Harmageddon'. → Chốt giữ nguyên 'Harmageddon' trong glossary.md (đồng bộ với tên arc Harmageddon ở các chương sau). (orchestrator)

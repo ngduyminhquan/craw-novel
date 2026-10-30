@@ -805,3 +805,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dimensional Mage |  | Ma Pháp Sư Không Gian | chức nghiệp | 312 | Chức nghiệp ma pháp không gian của Kang MiRae |
 | Great Flood |  | Đại Hồng Thủy | khác | 312 | Sự kiện diệt thế và tái khởi đầu trong Kinh Thánh do Thượng Đế nhắc tới |
 | Adam and Eve |  | Adam và Eva | khác | 312 | Cặp đôi khởi thủy của loài người trong Kinh Thánh do Thượng Đế và Kang MiRae nhắc tới |
+| Harmageddon | harmageddon | Harmageddon | khác | 314 | Trận đại chiến tận thế theo điển tích Kinh Thánh |
