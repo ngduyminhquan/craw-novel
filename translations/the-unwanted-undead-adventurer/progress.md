@@ -347,8 +347,12 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 ## Cần user xác nhận
 
-<!-- Agent ghi vào đây các mâu thuẫn thuật ngữ/xưng hô/quyết định chưa chắc. Mỗi dòng: - [#chương] vấn đề — đề xuất -->
+
 
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
+- [#1] Dịch 'Existential Evolution' — tạm chọn 'Tiến Hóa Bản Thể' (phương án khác: 'Tiến Hóa Tồn Tại') → Chốt Tiến Hóa Bản Thể (orchestrator)
+- [#1] Dịch 'Labyrinth of the Moon’s Reflection' — tạm chọn 'Mê Cung Nguyệt Ảnh' (phương án khác: 'Mê Cung Thủy Nguyệt') → Chốt Mê Cung Nguyệt Ảnh (orchestrator)
+- [#1] Dịch 'Ghoul' — tạm chọn 'Ngạ Quỷ' (phương án khác: giữ nguyên 'Ghoul') → Chốt Ngạ Quỷ (orchestrator)
+- [#7] Xưng hô Rentt và Rina — tạm chọn Rentt gọi Rina là 'cô/Rina', xưng 'tôi'; Rina gọi Rentt là 'anh Rentt' / 'tiền bối Rentt', xưng 'tôi' → Chốt Rentt xưng tôi gọi cô/Rina; Rina xưng tôi gọi anh Rentt/tiền bối Rentt (orchestrator)
