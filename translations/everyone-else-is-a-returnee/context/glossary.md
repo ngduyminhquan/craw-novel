@@ -801,3 +801,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Terodua |  | Terodua | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
 | Fièta |  | Fièta | địa danh | 303 | Thế giới bậc cao thuộc quyền cai quản của Quân Đội Ánh Sáng Rực Rỡ (#303) |
 | winged dragon | Winged dragon | Dực Long | quái vật | 308 | Phân loài Long tộc có đôi cánh dơi khổng lồ và thuộc tính hỏa sinh ra tại Daréu |
+| Brood Father |  | Long Phụ | danh hiệu | 310 | Danh hiệu do quái vật diệt rồng buột miệng thốt ra tôn xưng Yu IlHan là chúa tể muôn loài rồng |

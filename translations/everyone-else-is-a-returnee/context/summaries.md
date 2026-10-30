@@ -1887,6 +1887,12 @@ Chứng kiến First lột xác ngoạn mục thành con rồng hùng mạnh và
 Yu IlHan yêu cầu chúng chứng minh tư cách bằng chiến đấu; đúng lúc này kỹ năng Hiển Hiện với uy lực quá lớn đã vô tình triệu tập toàn bộ các phe phái và sinh vật trên Daréu kéo đến (nhóm Yumir, bầy quái vật mang sức mạnh diệt rồng, Mystic điều khiển hai pháo đài bay cùng nhóm Liera).
 Cảnh kết thúc: First cùng bầy sinh vật Long tộc hừng hực khí thế xung trận trừng trị kẻ địch của Kẻ Thống Trị, mở màn trận đại chiến sinh tồn sánh ngang thần thoại sáng thế trên Daréu.
 
+## 310
+Trận hỗn chiến giữa bầy rồng, sinh vật Long tộc cùng nhóm pháo đài bay với bầy quái vật diệt rồng nổ ra ác liệt; Yu IlHan dùng kỹ năng Hiển Hiện kết hợp ma pháp trận cổ xưa (được anh gọi vui là "tấm thảm") bao phủ toàn bộ Daréu để áp chế, rút cạn mana kẻ thù và tăng lực cho đồng minh.
+Bầy quái vật diệt rồng khiếp sợ tôn xưng Yu IlHan là "Long Phụ" trước khi bị anh nhẹ nhàng tiêu diệt chỉ bằng một ngọn thương lửa tốc độ kinh hoàng; Yumir, Ruby và First hăng hái dẫn đầu bầy đàn xung phong càn quét.
+Cảnh kết thúc: Yu IlHan tái kích hoạt các ống trụ gom mana khổng lồ từ xác quái vật để kìm hãm quái vật sinh sôi, ra lệnh cho bầy rồng chiến đấu liên tục trong 3 tuần, và quay lại giải thích đầu đuôi việc thành lập thế lực Long Sào cho Liera và mọi người nghe.
+
+
 
 
 
