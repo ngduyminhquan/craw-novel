@@ -152,7 +152,7 @@ Yu IlHan nắm rất rõ nguyên do dẫn tới hiện tượng này. Giống nh
 
 Dĩ nhiên, lúc này làm gì có thời gian để kiểm tra từng dòng thuộc tính mà nó sở hữu. Cho dù nó có hoàn toàn độc lập hay không, anh cũng sẽ dung hợp nó trở lại với thế giới mà thôi!
 
-"Điều quan trọng là lúc này các ngươi đã mạnh hơn rồi! Xông lên!"
+"Điều quan trọng là lúc này mọi người đã mạnh hơn rồi! Xông lên!"
 
 "Cái đồ đieeeeeennnn khùnnggggg nàyyyyy!"
 
@@ -174,15 +174,15 @@ Dĩ nhiên, Uriel có thể chặn đứng đòn tấn công mà không gặp m�
 
 [Hấp!]
 
-Thế nhưng, Orochi đã kịp thời chặn đứng đòn tấn công. Ngọn lửa tím bùng cháy trên cơ thể đã đẩy lùi ma lực của tên thiên thần sa ngã và ép hắn phải bật lùi lại. Hiện tại Orochi vẫn chỉ là chuyển chức 6, nhưng nhờ được Yu IlHan cường hóa theo đủ mọi cách, anh hoàn toàn có thể đối đầu trực diện với cả các vị Tiểu Đoàn Trưởng!
+Thế nhưng, Orochi đã kịp thời chặn đứng đòn tấn công. Ngọn lửa tím bùng cháy trên cơ thể đã đẩy lùi ma lực của tên thiên thần sa ngã và ép hắn phải bật lùi lại. Orochi lúc này vẫn chỉ ở chuyển chức lần 6, nhưng nhờ được Yu IlHan cường hóa theo đủ mọi cách, hắn hoàn toàn có thể đối đầu trực diện với cả các Tiểu Đoàn Trưởng!
 
 [Nguồn mana kỳ lạ này...... là rồng sao? Ngươi không phải thuần chủng mà là một kẻ lai tạp!]
 
 "Phải đấy, ta là kẻ lai tạp đủ mọi thứ hầm bà lằng...... nhưng có vẻ ngươi không biết thì phải? Trong bất kỳ bộ phim hay truyện nào, mấy kẻ cứ mở mồm ra lải nhải về thuần chủng luôn là đứa lăn ra chết đầu tiên!"
 
-Nắm đấm của Orochi tách ra làm tám nhánh như đuôi của anh lúc còn 'sống' và giáng xuống kẻ thù cùng một lúc.
+Nắm đấm của Orochi tách ra làm tám nhánh như đuôi của hắn lúc còn 'sống' và giáng xuống kẻ thù cùng một lúc.
 
-Không, nói cho chính xác thì đó là một cú đâm hơn là một cú đấm. Ngay khoảnh khắc va chạm, một chiếc nanh kịch độc trồi ra từ nắm đấm của anh và tiêm thẳng lời nguyền cùng độc tố vào cơ thể kẻ thù! Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, Limaère, kẻ vừa trúng đòn, mở to hai mắt trong sự ngỡ ngàng tột độ và lảo đảo lùi lại.
+Không, nói cho chính xác thì đó là một cú đâm hơn là một cú đấm. Ngay khoảnh khắc va chạm, một chiếc nanh kịch độc trồi ra từ nắm đấm của hắn và tiêm thẳng lời nguyền cùng độc tố vào cơ thể kẻ thù! Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, Limaère, kẻ vừa trúng đòn, mở to hai mắt trong sự ngỡ ngàng tột độ và lảo đảo lùi lại.
 
 [Một lời nguyền có thể xuyên thủng cả kháng ma pháp của ta sao? Không thể nào, ta không thể chấp nhận chuyện này!]
 
@@ -194,13 +194,13 @@ Thế nhưng, cục diện chiến trường biến chuyển quá nhanh ngay c�
 
 [T-ta không thể chấp nhận chuyện này...... ta ư? Cánh Thứ 10 Của Ánh Sáng Rực Rỡ lại có thể ngã xuống dễ dàng đến thế sao—]
 
-"Để ta thu hồi cái death flag mà ngươi vừa mới cắm lên nhé!"
+"Để ta thu hồi lá cờ báo tử mà ngươi vừa mới cắm lên nhé!"
 
 [Không, KHÔÔÔÔÔNG......!]
 
 Chẳng cần đến bất kỳ ai khác phải ra tay giúp đỡ. Rốt cuộc thì Orochi đâu có ngu ngốc đến mức để cho Limaère kịp hồi phục sau khi đã bị nanh độc của mình làm cho tê liệt.
 
-Anh dồn toàn lực lao lên lần đầu tiên kể từ khi đoạt được cơ thể của Echjar, rồi phóng ra một lưỡi đao hỏa diễm tím cô đọng nơi bàn chân chém ngọt Limaère từ đầu tới chân!
+Hắn dồn toàn lực lao lên lần đầu tiên kể từ khi đoạt được cơ thể của Echjar, rồi phóng ra một lưỡi đao hỏa diễm tím cô đọng nơi bàn chân chém ngọt Limaère từ đầu tới chân!
 
 [Chí Mạng!]
 
@@ -210,9 +210,9 @@ Sự tĩnh lặng bao trùm khắp chiến trường, dù chỉ là trong thoán
 
 "Khừaaaaaaa aaaaaa!"
 
-Orochi gầm thét vang dội giữa muôn vàn ánh mắt đổ dồn về phía mình. Cùng lúc đó, một vầng sáng tím rực rỡ bao phủ trọn lấy thân thể anh! Từ sâu bên trong, toàn bộ cơ thể anh đang vặn xoắn lại và ngọn lửa tím bùng lên ngút trời.
+Orochi gầm thét vang dội giữa muôn vàn ánh mắt đổ dồn về phía mình. Cùng lúc đó, một vầng sáng tím rực rỡ bao phủ trọn lấy thân thể hắn! Từ sâu bên trong, toàn bộ cơ thể hắn đang vặn xoắn lại và ngọn lửa tím bùng lên ngút trời.
 
-Toàn bộ những ký lục cấu thành nên anh tiến thêm một bước và dẫn dắt chính sinh mệnh anh, đồng thời phủ lên người anh một luồng khí tức trọng áp trong khi cô đọng nguồn mana của anh lại.
+Toàn bộ những ký lục cấu thành nên Orochi tiến thêm một bước và dẫn dắt chính sinh mệnh hắn, đồng thời phủ lên người hắn một luồng khí tức trọng áp trong khi cô đọng nguồn mana của hắn lại.
 
 "Oa, đừng nói là......."
 

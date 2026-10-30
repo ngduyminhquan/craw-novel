@@ -331,9 +331,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | reviewed |  |
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | reviewed |  |
 | 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | reviewed |  |
-| 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | done |  |
-| 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | done |  |
-| 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | done |  |
+| 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | reviewed |  |
+| 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | reviewed |  |
+| 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | reviewed |  |
 | 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | todo |  |
 | 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | todo |  |
 | 332 | 330 | Chapter_332 - Chapter 330_ Harmageddon – 6.txt | Harmageddon – 6 | todo |  |
@@ -1051,3 +1051,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#328] Kỹ năng ma pháp cấp 7 "Doom Flare" của Limaère — Tạm chọn: "Diệt Thế Bộc Viêm". Phương án khác: "Diệt Vong Bộc Viêm", "Hỏa Diễm Tận Thế". → Giữ Diệt Thế Bộc Viêm (Hán Việt ngắn gọn theo rules.md). (orchestrator)
 - [#329] Tiêu đề chương giữ nguyên "Harmageddon – 3" (đồng bộ với #327, #328, QA cảnh báo tiếng Anh) hay dịch Việt hóa ("Tận Thế – 3")? Tạm chọn: "Harmageddon – 3". → Giữ nguyên Harmageddon – 3 đồng bộ với #327–#328 và glossary.md. (orchestrator)
 - [#329] Câu lệnh Tuyên Cáo "Substitute!" của Yu IlHan nên dịch là "Hoán đổi!" hay "Thay thế!"? Tạm chọn: "Hoán đổi!". → Giữ Hoán đổi!. (orchestrator)
+- [#327 đoạn 85 / #328 đoạn 77] Xưng hô số nhiều của Yu IlHan khi hiệu triệu đồng minh và thuộc hạ → Thống nhất dùng mọi người theo đúng rules.md. (orchestrator)
+- [#328 đoạn 98] Cụm từ death flag trong lời thoại của Orochi → Việt hóa thành lá cờ báo tử để nhất quán với chương 131. (orchestrator)
+- [#329 đoạn 19, 20] Đại từ người kể dùng cho Helièna ở phân đoạn hy sinh bảo vệ đồng minh → Đổi ả thành cô ở đoạn 19–20 theo quy ước cô / ả / Helièna trong pronouns.md. (orchestrator)

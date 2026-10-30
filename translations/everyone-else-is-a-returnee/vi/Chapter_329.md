@@ -6,7 +6,7 @@ Trận chiến ngày càng trở nên khốc liệt. Trong lúc đó, năm phút
 
 [Daréu đang trải qua Đại Tai Biến lần thứ 7.]
 
-"Biết rồi, ta biết thừa rồi...... chậc!"
+"Biết rồi, tôi biết thừa rồi...... chậc!"
 
 Yu IlHan chuyển hướng sang tiếp tục kiểm soát Daréu. Anh liên tiếp thi triển nhiều lần Tuyên Cáo để xoa dịu thế giới và giảm bớt phần nào gánh nặng cho Mystic.
 
@@ -36,9 +36,9 @@ Không một ai có thể né tránh sự mê hoặc của Helièna. Khoảnh kh
 
 Helièna thật xinh đẹp. Một vẻ đẹp tàn nhẫn đến nghẹt thở. Điều đó đã trở thành sức mạnh cho phe đồng minh, thuốc độc cho kẻ thù, và là một nguồn an tâm cho Yu IlHan.
 
-Ả biết Yu IlHan rất để tâm đến thương vong của đồng minh, và bởi thế nên ả không hề ngơi nghỉ dù chỉ một giây phút. Ả mê hoặc kẻ khác không phải để giải khuây cho bản thân, mà là để ngăn chặn những người khác phải bỏ mạng.
+Cô biết Yu IlHan rất để tâm đến thương vong của đồng minh, và bởi thế nên cô không hề ngơi nghỉ dù chỉ một giây phút. Cô mê hoặc kẻ khác không phải để giải khuây cho bản thân, mà là để ngăn chặn những người khác phải bỏ mạng.
 
-Đã bao lâu rồi kể từ lần cuối ả đặt người khác lên trước dục vọng của chính mình? Bản thân ả lúc này vẫn chưa hề hay biết, nhưng ả đang chạm tới một cảnh giới sức mạnh cao hơn ngay khoảnh khắc trái tim vốn đã ngừng đập suốt hàng vạn năm của mình rốt cuộc cũng một lần nữa rung động.
+Đã bao lâu rồi kể từ lần cuối cô đặt người khác lên trước dục vọng của chính mình? Bản thân cô lúc này vẫn chưa hề hay biết, nhưng cô đang chạm tới một cảnh giới sức mạnh cao hơn ngay khoảnh khắc trái tim vốn đã ngừng đập suốt hàng vạn năm của mình rốt cuộc cũng một lần nữa rung động.
 
 [Cha! Aaaa, Cha!]
 
@@ -182,7 +182,7 @@ Khi dung hợp các thế giới, ký lục của Yu IlHan không có nhiều bi
 
 [Chuyển hóa toàn bộ ký lục từ trước đến nay vào tiến trình trưởng thành. Bạn sở hữu sức chịu đựng để trải qua nỗi đau đi kèm với sự biến đổi. Bắt đầu tiến hành tiến hóa thể xác.]
 
-"Hựựựựự, ta không có! Ta làm gì có sức chịu đựng đó!"
+"Hựựựựự, tôi không có! Tôi làm gì có sức chịu đựng đó!"
 
 "Đừng có giả vờ yếu đuối!"
 

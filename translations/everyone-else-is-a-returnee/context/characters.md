@@ -298,7 +298,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 297: Hoàn thành quá trình tự tái sinh bản ngã trong Cái Nôi Kỳ Tích; hấp thụ toàn bộ ngọn giáo lửa của Michael; dung hợp toàn bộ chức nghiệp và kỹ năng cũ để tạo ra các kỹ năng mới gồm Tuyên Cáo, Hiển Hiện và Siêu Việt Quỹ Đạo; chính thức thức tỉnh thành thực thể cấp cao ở cấp độ 519 và trở thành Chúa Tể Long Sào; tuyệt đối áp chế và tước quyền thao túng ngọn lửa của Đại thiên thần Michael.
 - Trạng thái tính đến chương 323: Đạt cấp độ 536 sau khi quét sạch 23 Legna; thăng lên cấp 554 sau khi Uriel tái sinh chia sẻ ký lục; kỹ năng Tuyên Cáo đạt cấp 71, Siêu Việt Quỹ Đạo đạt cấp 24, Hiển Hiện đạt cấp 32; phát động "Chiến Dịch Cuối Cùng" mang theo quân đoàn rồng tiến đánh Thiên giới.
 - Trạng thái tính đến chương 326: Giáng lâm đại bản doanh Thiên giới, thi triển Tuyên Cáo và Hiển Hiện công khai vạch trần Thượng Đế ruồng bỏ Quân Đội Thiên Giới; áp đảo Michael bằng Cận Chiến, Phản Kích và Siêu Việt Quỹ Đạo; vận dụng Tuyên Cáo và Sáng Tạo đúc nên thần binh vô thượng "Thần Thương" làm suy yếu toàn bộ Thiên giới; gieo "Bẫy Phục Hồi" vào mây trời Thiên giới; chiêu mộ thành công 1/10 binh lực thiên thần (gồm 2 Đại Thiên Thần Leciel và Tachiel, cùng Titaera); chỉ đạo Yumir vét sạch ngân khố harkanium, fecinom, el hazra của Thiên giới rồi rút quân về Daréu.
-- Trạng thái tính đến chương 329: Dùng Tuyên Cáo hoán đổi nguồn mana sản sinh quái vật trong Đại Tai Biến lần thứ 7 thành biển lửa hủy diệt quét sạch quân địch từ gần 200 thế giới bậc cao; phối hợp Mystic nén và dung hợp hơn 200 thế giới vào Daréu; thế giới tương tác nâng đẳng cấp đưa anh thăng lên cấp 600 (+500 Ma pháp), hoàn thành tái cấu trúc thể xác và mọc thêm đôi cánh thứ hai mang ánh kim loại phản chiếu đối xứng với đôi cánh rực lửa Ruin Calling.
+- Trạng thái tính đến chương 329: Khởi xướng kế hoạch Đại Dung Hợp thứ nguyên nuốt chửng hơn 200 thế giới bậc cao vào Daréu; dùng Tuyên Cáo và Hoán Đổi chuyển hóa toàn bộ mana sinh quái của Đại Tai Biến lần thứ 7 thành biển lửa hủy diệt quét sạch quân địch cấp 5 và 6; đạt cấp độ 600 (+500 Ma pháp) và kích hoạt tiến hóa thể xác toàn diện (thay thế tim, xương, máu, thịt), mọc thêm đôi cánh thứ hai mang ánh kim loại phản chiếu đối xứng với đôi cánh rực lửa Ruin Calling; đưa Daréu vượt qua Đại Tai Biến lần thứ 7 và tiến hóa thành pháo đài chiến đấu có quy mô vật lý lớn hơn cả Thiên giới.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -389,6 +389,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 305: Khi 9 sinh vật bí ẩn tiếp viện khóa chặt mana của cả nhóm, dùng Vương Miện Trí Tuệ cùng dược phẩm kích phát mana lên cực hạn, sáng tạo ra cách mở hàng trăm cánh cổng không gian siêu nhỏ xé nát toàn bộ kẻ địch, tạo nên 'kỳ tích' tiêu hao lượng lớn thánh lực của Na YuNa rồi kiệt sức ngất lịm.
 - Trạng thái tính đến chương 312: Trong không gian hư vô tâm thức, thẳng thừng từ chối lời chiêu dụ của kẻ tự xưng là Thượng Đế muốn biến cô thành Eva bên cạnh Adam (Yu IlHan) để hủy diệt và làm lại thế giới; tự mình lĩnh ngộ bản chất mana từ không gian xung quanh mà không cần kỹ năng, tạo nên kỳ tích chưa từng có trong Hồ Sơ Akashic; đánh tan ý niệm của Thượng Đế và từ chối thăng hoa một mình để trở về hội ngộ cùng Yu IlHan.
 - Trạng thái tính đến chương 313: Chấp nhận lời mời của Yu IlHan gia nhập Long Sào, bước vào Cái Nôi Kỳ Tích tiếp nhận máu của IlHan để tái sinh thành rồng chuyển chức 6 với hai cặp cánh; thấu hiểu cục diện Daréu qua ký lục của IlHan; giữ IlHan lại nói chuyện riêng và thú nhận việc vừa gặp Thượng Đế.
+- Trạng thái tính đến chương 329: Đã tiến hóa thành rồng chuyển chức 6, thi triển Ma pháp không gian mở liên tiếp hàng trăm cánh cổng tới các thế giới bậc cao phục vụ kế hoạch Đại Dung Hợp của Yu IlHan.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -590,6 +591,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 297: Được gỡ bỏ giới hạn cấp độ nhờ sự thức tỉnh của IlHan; tiến hóa thành rồng chuyển chức 6 ở cấp độ 451; có thể sử dụng hỏa diễm kết hợp với phong ma pháp.
 - Trạng thái tính đến chương 326: Thực hiện nhiệm vụ bí mật đột nhập kho tàng Thiên giới khi Leciel vắng mặt, vét sạch bách toàn bộ harkanium, fecinom, el hazra và kim loại cấp cao mang về cho Yu IlHan.
 
+### Ruby
+- Giới tính, vai trò: Nữ, rồng đỏ sơ sinh được Yu IlHan đặt tên và phong làm thủ lĩnh bầy rồng tại Daréu; gọi Yumir là huynh trưởng, gọi Yu IlHan là Cha.
+- Trạng thái tính đến chương 329: Con rồng đầu tiên trong bầy rồng sơ sinh đột phá lên thực thể cấp cao (chuyển chức 5 / rồng thực thụ) nhờ Cái Nôi Kỳ Tích, hóa hình thành một cô bé tóc đỏ mắt đỏ thẫm sở hữu hỏa lực áp đảo.
+
 ### Karrows
 - Giới tính, vai trò: Rồng vảy đen (chuyển chức 4) thuộc bầy rồng Quân Đội Ma Hủy Diệt trên chiến trường đại lục Daréu.
 - Ngoại hình / tính cách: Thân hình thuôn dài tương đối nhỏ gọn so với các rồng khác, tốc độ bay cực nhanh; giọng điệu ngông cuồng, tàn nhẫn, không ngần ngại thiêu chết đồng đội cản đường; tự xưng là thủ lĩnh của bầy rồng.
@@ -717,6 +722,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 207: Cùng Yu IlHan quản lý pháo đài bay săn quét quái vật trên Trái Đất; hốt hoảng khi một thực thể chuyển chức 5 đột biến nửa người nửa sói nhảy vọt lên xâm nhập vào bên trong kết giới của pháo đài để vô hiệu hóa Bách Nhãn, nhưng IlHan kịp thời xuất hiện trảm sát kẻ địch.
 - Trạng thái tính đến chương 209: Thích thú với phong cách quân đội; điều khiển pháo đài bay phối hợp oanh tạc diệt quái và quét sạch toàn bộ chiến trường sau khi IlHan hạ 3 thực thể chuyển chức 5.
 - Trạng thái tính đến chương 317: Được Yu IlHan dùng Cái Nôi Kỳ Tích tái tạo thân xác mới từ thi thể các đại thiên thần phản bội chuyển chức 7 và ma thạch chuyển chức 7 của Lemiel, trở thành thiếu nữ xinh đẹp tóc đen dài, mắt tím, mang hai đôi cánh bạch long chuyển chức 6; trở thành linh hồn trọn vẹn sở hữu thể xác thực thụ, không thể thoát xác như tàn niệm trước đây; nhận váy và mũ rơm phẩm cấp Thần giúp khuếch đại năng lực tính toán điều khiển Pháo Đài Bay, Pháo Đài Hộ Vệ và toàn bộ mạng lưới Bẫy Phục Hồi; ngượng ngùng khi bị IlHan trêu chọc chuyện đi tìm Orochi.
+- Trạng thái tính đến chương 329: Đóng vai trò hệ thống trung ương điều phối Daréu cùng Yu IlHan, chịu áp lực tinh thần cực lớn khi dung hợp hàng trăm thế giới, được tăng cường năng lực nhờ chiếc mũ rơm.
 
 ### Chaos Will
 - Giới tính, vai trò: Vô tính, thực thể cấp cao chuyển chức 6 (Lv 403) hình thành từ tập hợp ý thức và oán hận nghìn năm của các sinh vật Trái Đất bị bỏ lại.
@@ -776,6 +782,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 281: Được hoán đổi sang thân xác rồng chuyển chức 7 của Echjar đã được tinh chỉnh; càu nhàu và ngượng ngùng vì chưa điều khiển trơn tru cơ bắp và xương khớp rồng mới.
 - Trạng thái tính đến chương 313: Được Hồ Sơ Akashic công nhận ký lục và tái sinh thành chuyển chức 6 trong thân xác rồng của Echjar, có thể hóa thành hình dạng thiếu niên tóc đen; thăng hoa ngọn Hỏa Tím kết hợp lời nguyền chết người thi triển ma pháp cao cấp càn quét quái vật, được Echjar thừa nhận sự hữu dụng.
 - Trạng thái tính đến chương 317: Được Yu IlHan dùng Cái Nôi Kỳ Tích và tàn tích thi thể Keshein, Hillutonne để bổ khuyết, tinh chỉnh hoàn thiện cơ thể rồng và khuếch tán linh hồn trọn vẹn, không còn là tàn niệm mà sở hữu thể xác thực thụ; nhận trang phục và giáp kim loại mỏng phẩm cấp Thần tương tự Hỏa Hồn Long Thân; ngọn lửa tím và sức mạnh được khuếch đại vượt bậc; hoàn toàn khâm phục cảnh giới Sáng Tạo của Yu IlHan.
+- Trạng thái tính đến chương 329: Tiêu diệt Cánh Thứ 10 Của Ánh Sáng Rực Rỡ Limaère (chuyển chức 7) ở #328, đột phá thành công lên thực thể cấp cao chuyển chức 7 đầu tiên trong nhóm cận chiến của Long Sào; ngọn lửa tím và nanh độc mang lời nguyền được cường hóa mạnh mẽ.
 
 ### Quân Đoàn Rồng (Dragon's Army)
 - Vai trò: Đội quân 9.300 đứa trẻ Trái Đất do Yumir lãnh đạo, được Yu IlHan nuôi dưỡng, trang bị và che chở trên Pháo Đài Bay.
@@ -817,6 +824,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 266: Xuất hiện sống sờ sờ làm náo loạn liên minh các phe phái, dùng mị lực thao túng các thực thể cấp cao làm lá chắn đỡ đòn của Satière câu giờ cho Kang MiRae mở cổng; lộ ra chuyện có vô số người theo đuổi kể cả thực thể chuyển chức 7.
 - Xuất hiện tính đến chương 282: Tiết lộ việc từng bị thủ lĩnh Khu Vườn Hoàng Hôn lợi dụng lan truyền lời tiên tri về Vị Thần Thứ Năm để kích động các phe phái nhắm vào Trái Đất, nhằm tạo cơ hội gặp gỡ và biến Yu IlHan thành Thần.
 - Trạng thái tính đến chương 305: Trong trận chiến với các sinh vật bí ẩn, chấp nhận nhận lời chúc phúc của Na YuNa từ Nữ Thần Sắc Đẹp để khuếch đại mị lực lên cảnh giới áp đảo cả sinh thể phi sự sống, phá vỡ khả năng vô hiệu hóa mana của kẻ địch và trói chân 9 kẻ địch tạo thời cơ cho Kang MiRae phản công.
+- Trạng thái tính đến chương 329: Tiến hóa thành rồng chuyển chức 7, chiến đấu quả cảm nơi tiền tuyến dùng mana mê hoặc cầm chân kẻ thù bảo vệ đồng minh; mở ra cảnh giới sức mạnh cao hơn khi đặt tính mạng người khác lên trên dục vọng bản thân.
 
 ### Lisona
 - Giới tính, vai trò: Nữ, thực thể cấp cao chuyển chức 6 thuộc phe Khu Vườn Hoàng Hôn tại Daréu.

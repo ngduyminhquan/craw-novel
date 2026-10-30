@@ -71,7 +71,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Piltah | hắn / gã / Piltah | 228 | Thực thể cấp cao Khu Vườn Hoàng Hôn |
 | Katlar | hắn / Katlar | 229 | Thực thể cấp cao Lv 319 thuộc Quân Đội Ma Hủy Diệt |
 | El Phisadein | hắn / El Phisadein | 230 | Thực thể cấp cao Lv 321 thuộc Khu Vườn Hoàng Hôn bị IlHan tiêu diệt |
-| Orochi | Orochi | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan |
+| Orochi | Orochi / hắn | 73 | Tàn niệm quái xà Yamata no Orochi trong vũ khí / giáp của IlHan; tuyệt đối không dùng đại từ "anh" (để dành riêng cho Yu IlHan) |
 | Echjar | nó / Echjar / con rồng | 242 | Con rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
 | Zenusva | nó / Zenusva / con chim khổng lồ | 247 | Cự điểu ma hỏa, Tiểu Đoàn Trưởng Tiểu Đoàn 8 Quân Đội Ma Hủy Diệt |
 | Melohinne | cô / Melohinne / nữ chỉ huy | 247 | Nữ chỉ huy cao 20m, Tiểu Đoàn Trưởng Tiểu Đoàn 10 Quân Đội Ma Hủy Diệt |

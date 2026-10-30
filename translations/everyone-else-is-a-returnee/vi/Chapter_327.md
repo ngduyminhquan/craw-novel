@@ -10,7 +10,7 @@ Không, nhưng tại sao cái tên Satan này lại giúp Thượng Đế trong 
 
 "Không, thế này không ổn. Chính những lúc như thế này mình càng phải bình tĩnh."
 
-"Yu IlHan, mấy trận động đất ở Daréu lúc này là do anh làm đúng không? Tôi hiểu là anh đang lo lắng nhưng làm ơn dừng rung lắc hộ cái đi."
+"Yu IlHan, mấy trận động đất ở Daréu lúc này là do cậu làm đúng không? Tôi hiểu là cậu đang lo lắng nhưng làm ơn dừng rung lắc hộ cái đi."
 
 "G-Gabriel... phải làm sao bây giờ? Không đời nào Gabriel có thể cùng lúc đối đầu với cả Thượng Đế lẫn Satan được... Gabriel, ôi, Gabriel của em...!"
 
@@ -168,7 +168,7 @@ Thánh địa được kích hoạt. Chịu sự tác động của Yu IlHan, th
 
 Lấy cô làm trung tâm, một lượng mana khổng lồ gợn sóng lan tỏa. Yu IlHan đã truyền cho cô ký lục về những thế giới đó. Việc còn lại là mở các cánh cổng kết nối tới những thế giới ấy.
 
-[Tôi hứa. Nếu còn sống sót, tất cả mọi người sẽ đạt được sự trưởng thành vượt bậc. Có lẽ tất cả các bạn ở đây đều có thể trở thành thực thể cấp cao. Tới lúc đó... chúng ta nhất định sẽ chiến thắng.]
+[Tôi hứa. Nếu còn sống sót, tất cả mọi người sẽ đạt được sự trưởng thành vượt bậc. Có lẽ tất cả mọi người ở đây đều có thể trở thành thực thể cấp cao. Tới lúc đó... chúng ta nhất định sẽ chiến thắng.]
 
 Khi Yu IlHan giơ tay lên, một ngọn hỏa thương khổng lồ xuất hiện trong tay anh. Lực lượng chiến đấu mạnh nhất ở nơi này là Yu IlHan, nhưng anh phải tập trung vào việc 'dung hợp' thay vì chiến đấu. Đồng nghĩa với việc bản thân anh khó lòng đích thân xông pha vào chiến trường.
 
