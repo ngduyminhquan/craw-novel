@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T10:32:00Z",
+  "generatedAt": "2026-10-30T10:37:58Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1895,6 +1895,12 @@
           "title": "Chương 318: Ngươi Cũng Giống Như Ta – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_318.md",
           "sha": "838f1880877073f1683f44819ff8adf9ab9a21fa"
+        },
+        {
+          "number": 319,
+          "title": "Chương 319: Ta Là Kẻ Hạ Màn – 1",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_319.md",
+          "sha": "99db5346a67f44c6b27db948974e7c7d621c4da9"
         }
       ]
     },

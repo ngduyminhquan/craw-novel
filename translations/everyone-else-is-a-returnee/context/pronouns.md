@@ -103,6 +103,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Greed | gã / con quái vật / Greed | 299 | Thủ lĩnh Quân Đội Ma Hủy Diệt |
 | Ruby | nó / Ruby / con rồng đỏ | 302 | Con rồng đỏ sơ sinh thủ lĩnh bầy rồng Daréu |
 | First | nó / First / con dực long | 309 | Sinh vật Long tộc đầu tiên quy phục IlHan và tái sinh thành rồng |
+| Uriel | cô / Uriel / đại thiên thần Uriel | 319 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 
 ## Giữa các nhân vật
 
@@ -510,3 +511,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kang MiRae | God | tôi | ngươi / ông | 312 | Kang MiRae thẳng thừng từ chối và mắng Thượng Đế |
 | Yu IlHan | Lay | ta | em / Lay | 315 | Yu IlHan gọi Ngọn Lửa Vĩnh Cửu bằng tên ngắn gọn Lay |
 | Lay | Yu IlHan | em | chủ nhân | 315 | Lay đối thoại với Yu IlHan |
+| Uriel | Yu IlHan | ta | ngươi / Yu IlHan | 319 | Uriel tìm gặp và đề nghị đồng hành cùng Yu IlHan |
+| Yu IlHan | Uriel | tôi | cô / Uriel | 319 | Yu IlHan đối đáp và chấp thuận cho Uriel đi cùng |

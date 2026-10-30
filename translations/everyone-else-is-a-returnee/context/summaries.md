@@ -1942,4 +1942,12 @@ Thực hiện lời hứa sau khi quái vật bị dọn dẹp, IlHan cho 16 th�
 IlHan giao Pháo Đài Hộ Vệ cho Kang MiRae đưa người dân Trái Đất sang Daréu lánh nạn, đồng thời dặn dò toàn quân đề phòng quân đoàn Legna xâm lược.
 Cảnh kết thúc: Yu IlHan cùng Mystic và Orochi bước lên pháo đài bay, mang theo 6.938 chiếc Bẫy Phục Hồi xuất phát đến các thế giới khác để gieo rắc trật tự mới.
 
+## 319
+Yu IlHan cùng Mystic và Orochi đi rải Bẫy Phục Hồi khắp hàng chục ngàn thế giới bậc thấp chưa dung hợp với Daréu; cơ chế bẫy tự sinh sôi xuyên thứ nguyên và tự hủy nếu bị can thiệp khiến các thiên thần canh giữ hoàn toàn bất lực.
+Nhờ hấp thụ ký lục từ mạng lưới Bẫy Phục Hồi, năng lực của Mystic ngày càng thăng tiến vượt bậc khiến Orochi ghen tị sốt ruột.
+Tại thế giới thứ 32.918, nữ đại thiên thần Uriel (một trong tứ Đại Thiên Thần mang thánh hỏa) bất ngờ giăng lửa tìm kiếm Yu IlHan theo lời chỉ dẫn của Gabriel.
+Sau khi dùng kỹ năng Chúa Tể Thứ Nguyên khóa cổng thế giới và lộ diện, IlHan chấp thuận đề nghị đồng hành của Uriel để cô quan sát hành động của anh và tránh xung đột với Quân Đội Thiên Giới.
+Cảnh kết thúc: Yu IlHan kích hoạt Dịch Chuyển đưa Mystic, Orochi và Uriel tiến tới thế giới Heishia để khép lại màn diễn của các thế giới bậc thấp.
+
+
 

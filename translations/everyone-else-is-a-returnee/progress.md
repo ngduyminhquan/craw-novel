@@ -323,7 +323,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | reviewed |  |
 | 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | reviewed |  |
 | 318 | 316 | Chapter_318 - Chapter 316_ You Are The Same As Me – 8.txt | You Are The Same As Me – 8 | done |  |
-| 319 | 317 | Chapter_319 - Chapter 317_ I’m One That Closes The Curtain – 1.txt | I’m One That Closes The Curtain – 1 | todo |  |
+| 319 | 317 | Chapter_319 - Chapter 317_ I’m One That Closes The Curtain – 1.txt | I’m One That Closes The Curtain – 1 | done |  |
 | 320 | 318 | Chapter_320 - Chapter 318_ I’m One That Closes The Curtain – 2.txt | I’m One That Closes The Curtain – 2 | todo |  |
 | 321 | 319 | Chapter_321 - Chapter 319_ I’m One That Closes The Curtain – 3.txt | I’m One That Closes The Curtain – 3 | todo |  |
 | 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | todo |  |
@@ -367,10 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
-
-
 
 
 ## Đã quyết
@@ -1033,3 +1029,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#315] Tên gọi ngắn gọn "Lay" Yu IlHan đặt cho Eternal Flame — Tạm giữ nguyên tên riêng Latin "Lay" theo rules.md. Đề xuất: giữ nguyên "Lay". → Giữ nguyên Lay theo quy tắc giữ tên riêng Latin trong rules.md. (orchestrator)
 - [#316] Tên đại thiên thần phản bội "Ramiel" (chương 316) là cách viết khác của "Lemiel" (#285, sở hữu lôi điện và Phản Kích) — Tạm chọn: dịch là "Lemiel" theo Alias đã chốt trong characters.md. → Giữ Lemiel theo Alias đã chốt trong characters.md. (orchestrator)
 - [#315-317] Cụm từ foreshadows trong lời thoại châm biếm của Yu IlHan đối với Thượng Đế → Thống nhất dịch là phục bút để giữ liên kết văn phong châm biếm giữa chương 315 và 317. (orchestrator)
+- [#319] Tiêu đề arc 'I’m One That Closes The Curtain' (#319–#326) — Tạm chọn: "Ta Là Kẻ Hạ Màn – N". Phương án khác: "Tôi Là Kẻ Hạ Màn – N", "Người Khép Lại Bức Màn – N". → Giữ Ta Là Kẻ Hạ Màn – N cho toàn bộ arc #319–#326. (orchestrator)
+- [#319] Cặp xưng hô Yu IlHan và nữ Đại Thiên Thần Uriel — Tạm chọn: IlHan xưng 'tôi' gọi 'cô / Uriel', Uriel xưng 'ta' gọi 'ngươi / Yu IlHan'. Phương án khác: IlHan xưng 'ta' gọi 'ngươi'. → Giữ IlHan xưng tôi gọi cô / Uriel, Uriel xưng ta gọi ngươi / Yu IlHan. (orchestrator)

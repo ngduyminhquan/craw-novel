@@ -914,6 +914,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Uriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (được Yu IlHan suy đoán nắm giữ một phần sức mạnh và ký lục của Thượng Đế ở chương 318).
+- Giới tính, đặc điểm: Nữ, sở hữu mái tóc vàng bạch kim rực rỡ lóa mắt và đôi mắt màu vàng kim; nắm giữ thánh hỏa và một phần sức mạnh của đất.
+- Xuất hiện tính đến chương 319: Tìm gặp Yu IlHan theo chỉ dẫn của Gabriel, đề nghị đồng hành để quan sát hành động của anh với tư cách đại diện Quân Đội Thiên Giới.
 
 ### Crissière
 - Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 3 Của Ánh Sáng Rực Rỡ.
