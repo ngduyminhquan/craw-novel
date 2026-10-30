@@ -2151,3 +2151,9 @@ Liera chấp nhận tình cảm của Yu IlHan dành cho các cô gái khác v�
 Sau khi Liera ném hoa cưới rồi cùng Yu IlHan dịch chuyển về phòng riêng, Erta, Kang MiRae, Na YuNa và Helièna đồng loạt bùng nổ sát khí và ma lực tranh giành vị trí người vợ thứ hai của Thần.
 Cảnh kết thúc: Lucifer hào hứng cầm micro mở sới đặt cược xem ai sẽ giành vị trí vợ hai, khẳng định Yu IlHan sẽ không bao giờ còn bị gọi là kẻ cô độc nữa.
 
+## 352
+Sau khi Yu IlHan đạt Thần vị hoàn mỹ và giảm bớt gánh nặng quản lý Trái Đất, Mystic rơi vào khủng hoảng hiện sinh tuổi dậy thì và bối rối trước tình cảm chớm nở dành cho Orochi; cô tìm đến Ngài Trái Đất (Ý Chí Hộ Vệ) và được khuyên nên đối diện cảm xúc thay vì trốn chạy.
+Mystic lần lượt đi xin lời khuyên tình yêu: Carina Smithson (đang bế con trai kháu khỉnh Nick) chia sẻ về sự chuyển biến của Michael Smithson và dạy cô tuyệt chiêu cưỡng hôn; Uriel và Gabriel (chuẩn bị làm đám cưới cùng Kim YeSeul và cả hai người phụ nữ đều đang mang thai em của Yu IlHan) khuyên cô dũng cảm đón nhận và bày tỏ tình yêu; Kang HaJin (nay làm chủ tập đoàn đường sắt toàn cầu hợp tác cùng Yu IlHan và sắp kết hôn chính trị với công chúa Đế quốc Lepina) khuyên cô lao thẳng về phía trước để không phải nuối tiếc như mối tình đơn phương đã qua với Na YuNa.
+Có được câu trả lời, Mystic lao tới thành phố trên không nơi Orochi đang làm 'đại sư phụ' huấn luyện lũ trẻ mồ côi trong Đại Trục Xuất, tung cú cưỡng hôn hung bạo đè hắn xuống đất và đòi kết hôn trước sự reo hò phấn khích của lũ trẻ.
+Cảnh kết thúc: Orochi bối rối trước sự đường đột của cô nàng bèn đề xuất bắt đầu bằng việc hẹn hò trước, chính thức đánh dấu sự ra đời của cặp đôi Rắn x Dinh Thự.
+

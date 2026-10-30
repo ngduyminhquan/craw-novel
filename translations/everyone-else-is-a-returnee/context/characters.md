@@ -97,6 +97,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Felaère | Fela | Felaère | Thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh canh giữ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ; sở hữu 3 cặp cánh đen tuyền; giao chiến với Melohinne ở #285 | 285 |
 | Lemiel | Ramiel | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
+| Nick |  | Nick | Con trai của Michael Smithson và Carina Smithson (Carina Malatesta) | 352 |
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
 | Ruby |  | Ruby | Con rồng đỏ sơ sinh Lv 280, sau khi nuốt trọn thịt Echjar thăng lên Lv 294, được Yu IlHan đặt tên và phong làm thủ lĩnh bầy rồng tại Daréu; tính đến #307 lộ rõ là rồng cái có chất giọng của bé gái, gọi Yumir là huynh trưởng; đến #329 tiến hóa thành thực thể cấp cao chuyển chức 5 qua Cái Nôi Kỳ Tích, có hình dạng bé gái tóc đỏ mắt đỏ | 302 |
 | Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8; ở #344 giác ngộ bản chất Kẻ Siêu Việt và thức tỉnh thành Thần Ánh Sáng; tử trận ở #347 khi bị Thượng Đế bóp nát đầu và nuốt chửng | 289 |
@@ -474,6 +475,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 226: Cùng Na YuNa bước lên Pháo Đài Bay trở về Trái Đất; tự ti và chua chát trước sự vô dụng của bản thân so với Yu IlHan, song nhận ra suy nghĩ hiếu thắng hay vương vấn tình cảm với Na YuNa đều là vô nghĩa; đứng bảo vệ Na YuNa khi cô hỗ trợ IlHan triển khai thánh địa trên Pháo Đài Bay.
 - Trạng thái tính đến chương 313: Đạt Lv 270 nhưng vẫn là người duy nhất trong nhóm chưa đủ điều kiện gia nhập Long Sào (yêu cầu Lv 300); bị Na YuNa trêu là kẻ cô độc; càu nhàu khi được Yu IlHan nhắc mọi người nhường điểm kinh nghiệm và lập tức co rúm người lại trước những cái lườm của hội phụ nữ.
 - Trạng thái tính đến chương 332: Đạt tới chuyển chức 5 trong trận chiến bảo vệ Daréu nhưng hoàn toàn choáng váng và hét toáng lên khi thấy Kang MiRae mở ra hàng ngàn cánh cổng đối đầu với hàng trăm ngàn thực thể cấp cao.
+- Trạng thái tính đến chương 352: Đạt tới thực thể cấp cao nhưng rẽ hướng sang làm kinh tế, hợp tác với Yu IlHan thành lập và làm lãnh đạo tập đoàn đường sắt toàn cầu kết nối mọi vùng đất trên Trái Đất; sắp kết hôn chính trị với con gái duy nhất của hoàng đế Đế quốc Lepina; khuyên Mystic dũng cảm tiến tới trong tình yêu và buông bỏ mối tình đơn phương trong quá khứ với Na YuNa.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -565,6 +567,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 333: Trải qua trận chiến khốc liệt và hấp thụ Cái Nôi Kỳ Tích, an toàn tiến hóa thành rồng thực thụ chuyển chức 5; công khai thể hiện tình cảm mặn nồng với Michael Smithson ngay trên chiến trường Daréu.
 - Trạng thái tính đến chương 341: Thuận lợi sinh hạ một bé rồng khỏe mạnh tại pháo đài bay sau một năm trong kết giới; cùng Michael Smithson nhờ Yu IlHan làm cha đỡ đầu.
 - Trạng thái tính đến chương 342: Đổi họ theo chồng thành Carina Smithson; cùng chồng trao con gái Yuni cho cha đỡ đầu Yu IlHan ban phước lành và nhận vào Long Sào.
+- Trạng thái tính đến chương 352: Sinh hạ thêm con trai kháu khỉnh tên Nick; chia sẻ với Mystic về quá trình Michael Smithson thay đổi và bí mật dạy cô nàng tuyệt chiêu cưỡng hôn.
 
 ### Takagaki Asuha
 - Giới tính, vai trò: Nữ, chủ clan (Clan Master) của Clan Ma Long (Magic Dragon Clan) đến từ Nhật Bản.
@@ -749,6 +752,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 317: Được Yu IlHan dùng Cái Nôi Kỳ Tích tái tạo thân xác mới từ thi thể các đại thiên thần phản bội chuyển chức 7 và ma thạch chuyển chức 7 của Lemiel, trở thành thiếu nữ xinh đẹp tóc đen dài, mắt tím, mang hai đôi cánh bạch long chuyển chức 6; trở thành linh hồn trọn vẹn sở hữu thể xác thực thụ, không thể thoát xác như tàn niệm trước đây; nhận váy và mũ rơm phẩm cấp Thần giúp khuếch đại năng lực tính toán điều khiển Pháo Đài Bay, Pháo Đài Hộ Vệ và toàn bộ mạng lưới Bẫy Phục Hồi; ngượng ngùng khi bị IlHan trêu chọc chuyện đi tìm Orochi.
 - Trạng thái tính đến chương 329: Đóng vai trò hệ thống trung ương điều phối Daréu cùng Yu IlHan, chịu áp lực tinh thần cực lớn khi dung hợp hàng trăm thế giới, được tăng cường năng lực nhờ chiếc mũ rơm.
 - Trạng thái tính đến chương 335: Vượt qua chuyển chức 7 và bước vào chuyển chức 8 nhờ việc quản lý trục trung tâm của Daréu và tiếp xúc với vô số ghi chép từ việc dung hợp 23.000 thế giới bậc cao; kiệt sức nằm bẹp trên sàn đấm yêu Yu IlHan và cãi nhau với Orochi.
+- Trạng thái tính đến chương 352: Rơi vào băn khoăn về ý nghĩa cuộc sống và tình cảm chớm nở dành cho Orochi; sau khi xin lời khuyên từ Ngài Trái Đất, Carina Smithson, Uriel, Gabriel và Kang HaJin, cô tìm đến thành phố trên không dùng ma lực đè Orochi xuống đất cưỡng hôn và ép hắn bắt đầu hẹn hò với mình.
 
 ### Chaos Will
 - Giới tính, vai trò: Vô tính, thực thể cấp cao chuyển chức 6 (Lv 403) hình thành từ tập hợp ý thức và oán hận nghìn năm của các sinh vật Trái Đất bị bỏ lại.
@@ -811,6 +815,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 313: Được Hồ Sơ Akashic công nhận ký lục và tái sinh thành chuyển chức 6 trong thân xác rồng của Echjar, có thể hóa thành hình dạng thiếu niên tóc đen; thăng hoa ngọn Hỏa Tím kết hợp lời nguyền chết người thi triển ma pháp cao cấp càn quét quái vật, được Echjar thừa nhận sự hữu dụng.
 - Trạng thái tính đến chương 317: Được Yu IlHan dùng Cái Nôi Kỳ Tích và tàn tích thi thể Keshein, Hillutonne để bổ khuyết, tinh chỉnh hoàn thiện cơ thể rồng và khuếch tán linh hồn trọn vẹn, không còn là tàn niệm mà sở hữu thể xác thực thụ; nhận trang phục và giáp kim loại mỏng phẩm cấp Thần tương tự Hỏa Hồn Long Thân; ngọn lửa tím và sức mạnh được khuếch đại vượt bậc; hoàn toàn khâm phục cảnh giới Sáng Tạo của Yu IlHan.
 - Trạng thái tính đến chương 329: Tiêu diệt Cánh Thứ 10 Của Ánh Sáng Rực Rỡ Limaère (chuyển chức 7) ở #328, đột phá thành công lên thực thể cấp cao chuyển chức 7 đầu tiên trong nhóm cận chiến của Long Sào; ngọn lửa tím và nanh độc mang lời nguyền được cường hóa mạnh mẽ.
+- Trạng thái tính đến chương 352: Phụ trách giáo dục, rèn luyện lũ trẻ mồ côi trong Đại Trục Xuất tại thành phố trên không và được lũ trẻ kính cẩn gọi là 'đại sư phụ'; bị Mystic cưỡng hôn và đòi kết hôn trước mặt lũ trẻ, bèn nhượng bộ đề xuất bắt đầu bằng việc hẹn hò trước.
 
 ### Quân Đoàn Rồng (Dragon's Army)
 - Vai trò: Đội quân 9.300 đứa trẻ Trái Đất do Yumir lãnh đạo, được Yu IlHan nuôi dưỡng, trang bị và che chở trên Pháo Đài Bay.
@@ -972,6 +977,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 320: Chính là Yu YongHan (cha của Yu IlHan), đồng thời là thủ lĩnh sáng lập Khu Vườn Hoàng Hôn; hội ngộ Yu IlHan tại Heishia và tiết lộ chân tướng về việc Thượng Đế không phải Đấng sáng tạo chân chính, chỉ đang thiêu rụi linh hồn để làm nhiên liệu và âm mưu hủy diệt toàn bộ vạn vật để trở thành Thượng Đế duy nhất trong Harmageddon.
 - Xuất hiện tính đến chương 322: Trở về Daréu cùng Yu IlHan, thu hồi cánh và mana lặn vào cảnh giới ẩn thân sâu thẳm biến thành nhân dạng trung niên; bị Kim YeSeul tát liên hoàn trừng phạt tại Lâu Đài Hộ Vệ vì tội bỏ rơi gia đình.
 - Xuất hiện tính đến chương 323: Rũ bỏ thân phận đại thiên thần và nhân dạng trung niên để hiện nguyên hình là thủ lĩnh Khu Vườn Hoàng Hôn – một thanh niên tuấn tú da trắng tóc xanh bí ẩn; cùng Kim YeSeul dịch chuyển rời Daréu để tập hợp toàn bộ lực lượng Khu Vườn Hoàng Hôn chuẩn bị cho đại chiến.
+- Xuất hiện tính đến chương 352: Sống cùng Kim YeSeul và Uriel; chuẩn bị tổ chức đám cưới lần nữa với cả hai người phụ nữ; vui mừng nhưng thảng thốt khi biết cả hai vợ đều đang mang thai và hoảng hốt sợ sẽ sinh thêm một "IlHan thứ hai".
 
 ### Uriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (được Yu IlHan suy đoán nắm giữ một phần sức mạnh và ký lục của Thượng Đế ở chương 318).
@@ -980,6 +986,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 322: Cùng Gabriel tới Daréu; đề nghị Yu IlHan cho phép gia nhập Long Sào mà vẫn giữ nguyên thực lực; giải thích tình hình Quân Đội Thiên Giới và mối đe dọa từ Greed của Quân Đội Ma Hủy Diệt.
 - Xuất hiện tính đến chương 323: Bị Yu IlHan ném vào Cái Nôi Kỳ Tích cùng xác Legna, hấp thụ toàn bộ mana và sức mạnh cướp từ Thượng Đế để tái sinh thành rồng cấp 8 (Lv 600) với 4 cặp cánh rồng, chính thức gia nhập Long Sào.
 - Xuất hiện tính đến chương 324: Cùng Yu IlHan gián tiếp đột kích Thiên giới, lộ diện dưới hình dạng rồng cấp 8 với 4 cặp cánh rồng và trưng ra thi thể Legna để vạch trần Thượng Đế, kêu gọi các thiên thần gia nhập Long Sào.
+- Xuất hiện tính đến chương 352: Mang thai đứa con của Gabriel (sắp sinh em cho Yu IlHan cùng lúc với Kim YeSeul); chia sẻ về tình yêu chân thành suốt hàng vạn năm và khuyên Mystic dũng cảm thể hiện tình cảm của mình.
 
 ### Crissière
 - Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 3 Của Ánh Sáng Rực Rỡ.
@@ -1050,4 +1057,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, cựu Đại Thiên Thần Lucifer của Thiên giới.
 - Đặc điểm / ngoại hình: Sở hữu 13 chiếc cánh sau lưng; ma pháp sư vĩ đại nhất với khả năng thao túng ma pháp bị bóp méo tới mức không thể nhận biết nguồn gốc; tính cách kiêu ngạo, tưng tửng, thích châm biếm nhưng sắc sảo và biết nhìn người.
 - Xuất hiện tính đến chương 348: Tàn sát toàn bộ thiên thần tại Thiên giới và đứng trên núi xác đối đầu Yu IlHan; cười sảng khoái khi biết Yu IlHan đã phá hủy kho lưu trữ ghi chép và các thần được ghi chép trong dạ dày Greed; vung đòn ma pháp ngầm nhắm vào Uriel để thử thách Yu IlHan nhưng bị anh hóa giải; thừa nhận suy luận của Yu IlHan rằng cả 5 kẻ từng chia sẻ sức mạnh của Thượng Đế đều phải chết thì Thượng Đế mới có thể bị tiêu diệt vĩnh viễn.
+
+### Nick
+- Giới tính, vai trò: Nam, con trai kháu khỉnh của Michael Smithson và Carina Smithson (Carina Malatesta), em trai của Yuni.
+- Đặc điểm / ngoại hình: Kháu khỉnh, đôi bàn tay nhỏ nhắn như nhánh cây non, gương mặt giống hệt Michael Smithson.
+- Xuất hiện tính đến chương 352: Được Carina bế trên tay trong lúc Mystic đến hỏi về tình yêu.
 

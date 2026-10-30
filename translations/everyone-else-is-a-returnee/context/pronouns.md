@@ -113,6 +113,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Satan | hắn / Satan | 287 | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ |
 | Luciel | Luciel | 346 | Tên ban đầu Thượng Đế đặt cho Satan trước khi đổi thành Lucifer |
 | God | Thượng Đế / Ngài / ông ta | 1 | Đấng sáng tạo tối cao (sau là cựu Thượng Đế trong thân xác Greed) |
+| Nick | cậu bé / Nick / con | 352 | Con trai của Michael Smithson và Carina Smithson |
 
 ## Giữa các nhân vật
 
@@ -598,3 +599,16 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lazière | Lucifer | tôi | ngài / ngài Lucifer | 351 | Lazière chỉnh áo và khen ngợi Lucifer mặc âu phục |
 | Lucifer | Yu IlHan | ta | chú rể / Yu IlHan / ngươi | 351 | Lucifer làm chủ hôn lễ của Yu IlHan |
 | Yu IlHan | Lucifer | ta | Lucifer / tên kia / ngươi | 351 | Yu IlHan phản đối bài phát biểu chủ hôn của Lucifer |
+| Mystic | Will of the Guardian | tôi | Ngài Trái Đất | 352 | Mystic hỏi Trái Đất về ý nghĩa cuộc sống và tình cảm |
+| Will of the Guardian | Mystic | ta | cô / Mystic | 352 | Trái Đất khuyên Mystic chấp nhận cảm xúc của mình |
+| Carina Smithson | Nick | mẹ | con / Nick | 352 | Carina Smithson trò chuyện với con trai |
+| Carina Smithson | Mystic | tôi | cô / Mystic | 352 | Carina chia sẻ chuyện tình yêu với Mystic |
+| Mystic | Carina Smithson | tôi | Carina / cô | 352 | Mystic xin lời khuyên tình yêu từ Carina |
+| Gabriel | Mystic | ta / tôi | Mystic / cô | 352 | Gabriel trêu đùa và báo tin vui cho Mystic |
+| Mystic | Gabriel | tôi | ông / Gabriel | 352 | Mystic xem Gabriel là kẻ tệ nhất |
+| Uriel | Mystic | ta / tôi | Mystic / em / cô | 352 | Uriel xoa má an ủi và khuyên Mystic dũng cảm yêu |
+| Mystic | Uriel | tôi | Uriel / cô | 352 | Mystic hỏi Uriel lý do yêu Gabriel |
+| HaJin | Mystic | tôi / anh | Mystic / cô / đồ ngốc | 352 | Kang HaJin tâm sự và khuyên Mystic tiến tới |
+| Mystic | HaJin | tôi | Kang HaJin / anh | 352 | Mystic nghe lời khuyên từ Kang HaJin |
+| Mystic | Orochi | tôi / em | anh / ngươi / Orochi / đồ đầu rắn | 352 | Mystic tỏ tình và cưỡng hôn Orochi; bắt đầu hẹn hò |
+| Orochi | Mystic | ta / tôi | cô / ngươi / ả ngốc này | 352 | Orochi bị Mystic cưỡng hôn và đồng ý bắt đầu hẹn hò |

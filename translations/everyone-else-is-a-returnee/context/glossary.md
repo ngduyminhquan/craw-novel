@@ -839,3 +839,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | multiverse |  | đa vũ trụ | khác | 347 | Toàn thể các thế giới và thứ nguyên trong vũ trụ quan của truyện |
 | Lord of Heaven's Army | Lord of Heaven’s Army | Chúa Tể Quân Đội Thiên Giới | danh hiệu | 350 | Danh hiệu và ghi chép của Thượng Đế Thiên giới thu được sau khi Yu IlHan tiêu diệt ông ta |
 | Great Expulsion |  | Đại Trục Xuất | khác | 350 | Sự kiện toàn bộ nhân loại Trái Đất bị Thượng Đế chuyển dời sang các thế giới khác khi Trái Đất bước vào Đại Tai Biến |
+| Five Great Angels |  | Ngũ Đại Thiên Thần | cấp bậc | 352 | Năm vị đại thiên thần ban đầu của Quân Đội Thiên Giới (gồm cả Luciel trước khi sa ngã) |
+| Lepina |  | Lepina | địa danh | 352 | Thế giới từng trải qua Đại Tai Biến lần 3, bị kéo về Trái Đất qua Bẫy Phục Hồi |
+| Lepina Empire |  | Đế quốc Lepina | tổ chức | 352 | Đế quốc tại thế giới Lepina; con gái duy nhất của hoàng đế là hôn thê của Kang HaJin |

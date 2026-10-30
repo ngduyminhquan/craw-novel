@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:53:58Z",
+  "generatedAt": "2026-10-30T17:03:05Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2093,6 +2093,12 @@
           "title": "Chương 351: Ngoại truyện 1 – Tốt nghiệp đời cô độc, bước vào hôn nhân",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_351.md",
           "sha": "aa08fda0f94ba930cdf8d7f0df895b8e14df07fa"
+        },
+        {
+          "number": 352,
+          "title": "Chương 352: Ngoại truyện 2 – Chuyện tình hài hước của thuộc hạ quả nhiên sai bét như tôi tưởng",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_352.md",
+          "sha": "9ba5ebee51db6617a8582fd7ba7ef1cba4996ba6"
         }
       ]
     },
