@@ -107,6 +107,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu; tử trận ở #298 dưới ngọn thương của Yu IlHan | 295 |
 | Lazière | Lady Lazière; Lazi | Lazière | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ, nhân vật số 2 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan | 295 |
 | Crissière | Crissi | Crissière | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ, nhân vật chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ | 296 |
+| Greed |  | Greed | Thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, Kẻ Siêu Việt mang bản tính tham lam vô tận tự trói mình trong lâu đài ở Elo Katra | 299 |
 
 ## Chi tiết
 
@@ -891,4 +892,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam/quái vật, Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt.
 - Xuất hiện tính đến chương 296: Xuất hiện qua ma pháp dịch chuyển bằng máu ở chương 295 theo lệnh Chúa tể để lấy mạng Yu IlHan; bị Crissière và Satière chặn đường ở chương 296.
 - Xuất hiện tính đến chương 298: Đánh lén Yu IlHan từ phía sau nhưng bị Siêu Việt Quỹ Đạo đâm thủng cổ họng tử trận chớp nhoáng ở Lv 588; thi thể và ký lục bị Yu IlHan thu vào túi đồ.
+
+### Hillutonne
+- Giới tính, vai trò: Nam, thực thể cấp cao Lv 571, Tiểu Đoàn Trưởng Tiểu Đoàn 2 thuộc Quân Đội Ma Hủy Diệt.
+- Xuất hiện tính đến chương 256: Tham gia hội nghị các Tiểu Đoàn Trưởng tại đền thờ Elo Katra để bàn về cái chết của Echjar.
+- Trạng thái tính đến chương 299: Chặn đường Yu IlHan trước lâu đài của Greed vì phẫn nộ chuyện Helièna; bị tiếng gầm ma pháp cộng hưởng của Yumir và IlHan đánh trọng thương, sau đó bị Siêu Việt Quỹ Đạo phóng thương xuyên người tiêu diệt ở Lv 571.
+
+### Greed
+- Giới tính, vai trò: Nam/vô tính, thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, một Kẻ Siêu Việt.
+- Ngoại hình / hành vi: Một cự quái có kích thước khổng lồ đến mức phải dùng ma pháp bẻ cong không gian để ép mình vào lâu đài tại Elo Katra, bị trói buộc bởi những xiềng xích kim loại cổ đại; cơ thể là sự dung hợp bão hòa của mọi dạng sống qua muôn vàn thế giới (lông chim, vảy rồng, bóng hơi cá, bờm sư tử, nanh độc, da troll, cơ bắp ogre, vòng thiên thần, lông đen thiên thần sa ngã); giọng nói điềm đạm như đàn ông trung niên; bản tính tham lam vô tận, nuốt chửng mọi thứ để biến thành sức mạnh.
+- Xuất hiện tính đến chương 299: Chào đón Yu IlHan đến Elo Katra; phớt lờ việc IlHan giết Keshein và Hillutonne; tiết lộ việc Thượng Đế không còn ở Thiên giới (đã chết) và nhận định Yu IlHan sẽ trở thành vị Thượng Đế mới, Đấng Sáng Tạo mới để tái tạo các thế giới cho hắn tiếp tục nuốt chửng.
 

@@ -99,6 +99,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Keshein | hắn / Keshein / con quái vật | 295 | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt |
 | Lazière | Lazière / ngài Lazière | 295 | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ |
 | Crissière | hắn / Crissière / Cánh Thứ 3 Của Ánh Sáng Rực Rỡ | 296 | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ |
+| Greed | gã / con quái vật / Greed | 299 | Thủ lĩnh Quân Đội Ma Hủy Diệt |
 
 ## Giữa các nhân vật
 
@@ -475,3 +476,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Satière | Keshein | ngươi | ngươi / quái vật chết tiệt | 297 | Satière ngăn cản Keshein can thiệp vào Yu IlHan |
 | Keshein | Satière | ta | ngươi | 297 | Keshein giằng co và chế giễu Satière trên chiến trường |
 | Yu IlHan | Raphael | ta | ngươi | 298 | Yu IlHan đối đầu và kết liễu Raphael |
+| Yu IlHan | Hillutonne | tôi / ta | ngươi | 299 | Yu IlHan đối đáp châm chọc và tiêu diệt Hillutonne |
+| Hillutonne | Yu IlHan | ta | ngươi | 299 | Hillutonne tức giận tấn công Yu IlHan trước lâu đài |
+| Hillutonne | Greed | thuộc hạ / tôi | ngài | 299 | Hillutonne đáp lời mệnh lệnh của Greed |
+| Greed | Hillutonne | ta | hắn / Hillutonne | 299 | Greed ra lệnh và nhận xét về Hillutonne |
+| Greed | Yu IlHan | ta | ngươi / Kẻ Siêu Việt Thứ Năm / Yu IlHan | 299 | Greed tiếp đón và đối thoại với Yu IlHan |
+| Yu IlHan | Greed | tôi | ông / Greed | 299 | Yu IlHan đối thoại với thủ lĩnh Quân Đội Ma Hủy Diệt Greed |

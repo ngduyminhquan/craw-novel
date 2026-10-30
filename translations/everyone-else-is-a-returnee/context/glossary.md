@@ -793,3 +793,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Manifestation |  | Hiển Hiện | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Đọa Lạc, Long Huyết và Cộng Hưởng Long Nhân, gia tăng năng lực của vạn vật trong lĩnh vực và thi triển uy lực hủy diệt diện rộng |
 | Transcendent Trajectory |  | Siêu Việt Quỹ Đạo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Thần Lực, Bất Khả Họa Quỹ Đạo Thương, Đại Đoạn Vũ Trụ Thương, Giải Phẫu, Khai Quật và Tuyệt Đối Chuẩn Xác |
 | Lord of Dragon's Nest | Lord of Dragon’s Nest | Chúa Tể Long Sào | danh hiệu | 297 | Danh hiệu và vị thế của Yu IlHan khi trở thành người đứng đầu thế lực thực thể cấp cao Long Sào |
+| Lady Helièna | Lady Heli | tiểu thư Helièna | khác | 266 | Cách thuộc hạ Quân Đội Ma Hủy Diệt tôn xưng Helièna |

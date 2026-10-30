@@ -1818,6 +1818,14 @@ Raphael cùng Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma H
 Chứng kiến hai nhân vật cấp cao bỏ mạng chớp nhoáng, các thực thể cấp cao hoảng loạn tháo chạy, Khu Vườn Hoàng Hôn cùng Quân Đội Ánh Sáng Rực Rỡ rút lui, Michael tuyệt vọng dẫn tàn quân thiên thần rút về Thiên giới sau khi buông lời đe dọa về sự trừng phạt của Thượng Đế.
 Cảnh kết thúc: Tàn quân Quân Đội Ma Hủy Diệt bất ngờ chuyển lời mời của thủ lĩnh chúng rủ "Kẻ Thứ Năm" tới sào huyệt Elo Katra chơi; Yu IlHan hào hứng nhận lời với khao khát xem thử nơi đó có những tạo tác nào.
 
+## 299
+Yu IlHan cùng Yumir đặt chân đến Elo Katra, đại bản doanh ngập tràn nham thạch và kịch độc của Quân Đội Ma Hủy Diệt; nhờ uy áp từ lời mời của vị thủ lĩnh tối cao, các thực thể cấp cao không dám cản đường ngoại trừ Hillutonne (Tiểu Đoàn Trưởng Tiểu Đoàn 2) phẫn nộ đòi báo thù vì chuyện Helièna.
+Yu IlHan cùng Yumir cộng hưởng sức mạnh, dùng tiếng gầm rồng chứa hơn 1.500 điểm ma pháp đánh tan ma lực và làm Hillutonne trọng thương phun máu, sau đó IlHan phóng thương Siêu Việt Quỹ Đạo kết liễu Hillutonne (Lv 571), tăng liền lên cấp 533 và nâng Siêu Việt Quỹ Đạo lên cấp 17.
+Tiến vào tòa lâu đài khổng lồ được tạo nên từ ma pháp bẻ cong không gian, hai cha con diện kiến chân thân của thủ lĩnh Quân Đội Ma Hủy Diệt — Greed, một cự quái bão hòa bị trói bằng xích kim loại cổ đại, sở hữu cơ thể khổng lồ dung hợp mọi chủng loài do lòng tham nuốt chửng vô tận; áp lực khổng lồ từ Greed giúp Phản Kích của IlHan tăng vọt lên cấp 55.
+Greed tiết lộ từng dẫn thế giới xông lên Thiên giới nhưng nhận ra Thượng Đế đã chết và không có gì cho hắn nuốt chửng, đồng thời các thế giới đang ngày càng lụi tàn dẫn đến nguy cơ hắn không còn gì để ăn.
+Cảnh kết thúc: Greed mỉm cười quái dị tuyên bố thế giới cần một vị Thượng Đế mới, một Kẻ Sáng Tạo mới để tái tạo lại tất cả, và hắn tin rằng Yu IlHan chính là người sẽ trở thành vị Thượng Đế đó.
+
+
 
 
 
