@@ -313,7 +313,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | reviewed |  |
 | 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | reviewed |  |
 | 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | reviewed |  |
-| 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | todo |  |
+| 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | done |  |
 | 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | todo |  |
 | 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | todo |  |
 | 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1018,3 +1019,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#307] Chơi chữ đoạn 88-89 ("four-feeted" vs "forfeit" / bỏ cuộc): tạm dịch thoát ý "bốn cẳng" và Echjar định sửa "bỏ cu..."; đề xuất giữ nguyên. → Giữ cách dịch thoát ý 'bốn cẳng' và 'bỏ cu...' đồng bộ với chương 306. (orchestrator)
 - [#308] Đoạn 38 raw có typo 'an even more traffic thing' nối tiếp 'How tragic!'; tạm sửa theo ngữ cảnh thành 'điều còn tàn nhẫn hơn thế' (an even more tragic thing). → Giữ cách dịch theo nghĩa đúng 'tragic' ('điều còn tàn nhẫn/bi thảm hơn thế'). (orchestrator)
 - [#308] Thuật ngữ 'winged dragon' (đoạn 22: 'To classify it, this could be considered a winged dragon') tạm dịch và thêm glossary là 'Dực Long'. → Chốt dịch 'winged dragon' là 'Dực Long' trong glossary.md. (orchestrator)
+- [#309] Tên dực long được Yu IlHan ban tên 'First' (đoạn 24: 'Right, you’ll be the first. And hence your name will be ‘First’ as well') — Tạm giữ nguyên tên riêng Latin 'First' theo rules.md (tương tự Ruby) và dịch câu chơi chữ thành 'ngươi sẽ là kẻ đầu tiên. Và vì thế, tên của ngươi cũng sẽ là 'First' luôn'; phương án khác: dịch tên thành 'Thứ Nhất' / 'Số Một' nhưng sẽ phá vỡ quy tắc tên riêng. → Giữ nguyên tên riêng 'First' theo đúng rules.md. (orchestrator)

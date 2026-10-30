@@ -110,6 +110,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Crissière | Crissi | Crissière | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ, nhân vật chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ | 296 |
 | Greed |  | Greed | Thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, Kẻ Siêu Việt mang bản tính tham lam vô tận tự trói mình trong lâu đài ở Elo Katra | 299 |
 | Zeàr |  | Zeàr | Thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta; bị Liera hạ sát ở #303 | 303 |
+| First |  | First | Sinh vật Long tộc (dực long hệ hỏa Lv 290) đầu tiên quy phục Yu IlHan tại Daréu, được ban tên và tái sinh thành rồng thực thụ qua Cái Nôi Kỳ Tích | 309 |
 
 ## Chi tiết
 

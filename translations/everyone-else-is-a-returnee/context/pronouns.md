@@ -101,6 +101,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Crissière | hắn / Crissière / Cánh Thứ 3 Của Ánh Sáng Rực Rỡ | 296 | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Greed | gã / con quái vật / Greed | 299 | Thủ lĩnh Quân Đội Ma Hủy Diệt |
 | Ruby | nó / Ruby / con rồng đỏ | 302 | Con rồng đỏ sơ sinh thủ lĩnh bầy rồng Daréu |
+| First | nó / First / con dực long | 309 | Sinh vật Long tộc đầu tiên quy phục IlHan và tái sinh thành rồng |
 
 ## Giữa các nhân vật
 
@@ -500,3 +501,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mystic | Erta | ta | cô | 204 | Mystic đối đáp với Erta |
 | Ruby | Yumir | em | huynh trưởng | 307 | Ruby gọi Yumir là huynh trưởng (orabuni) |
 | Yumir | Ruby | anh | em / Ruby | 307 | Yumir chỉ huy và hướng dẫn bầy rồng sơ sinh |
+| Yu IlHan | First | ta | ngươi / First | 309 | Yu IlHan thu phục và ban tên cho First |
+| First | Yu IlHan | tôi / thuộc hạ | ngài / Kẻ Thống Trị / chúa tể | 309 | First quy phục và tôn sùng Yu IlHan sau khi được tái sinh thành rồng |

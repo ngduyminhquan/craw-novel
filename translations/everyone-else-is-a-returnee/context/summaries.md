@@ -1881,6 +1881,13 @@ Yu IlHan kích hoạt kỹ năng Hiển Hiện, tuyên cáo lãnh thổ thống 
 Nhận ra sự sùng bái sức mạnh và khao khát thoát khỏi số phận giống loài của đàn quái vật sơ sinh non nớt này, Yu IlHan nhếch môi hứa hẹn sẽ giúp chúng mạnh hơn.
 Cảnh kết thúc: Giọng nói và mana của Yu IlHan hòa cùng ma pháp trận cổ xưa lan tỏa khắp Daréu, gieo vào tâm trí mọi sinh vật Long tộc lời tuyên bố sẽ biến chúng thành loài rồng nếu chịu quy phục và chung sống.
 
+## 309
+Con dực long Lv 290 chấp nhận từ bỏ tự do để theo đuổi sức mạnh và quy phục Yu IlHan; Yu IlHan đặt tên cho nó là First, kích hoạt kỹ năng Tuyên Cáo và dùng tạo tác Cái Nôi Kỳ Tích hòa cùng máu của mình để tái tạo First thành rồng thực thụ, phá vỡ giới hạn giống loài.
+Chứng kiến First lột xác ngoạn mục thành con rồng hùng mạnh và phủ phục tuyên thệ trung thành, toàn bộ sinh vật Long tộc chấn động và cuồng nhiệt cầu xin Yu IlHan ban ân điển tương tự.
+Yu IlHan yêu cầu chúng chứng minh tư cách bằng chiến đấu; đúng lúc này kỹ năng Hiển Hiện với uy lực quá lớn đã vô tình triệu tập toàn bộ các phe phái và sinh vật trên Daréu kéo đến (nhóm Yumir, bầy quái vật mang sức mạnh diệt rồng, Mystic điều khiển hai pháo đài bay cùng nhóm Liera).
+Cảnh kết thúc: First cùng bầy sinh vật Long tộc hừng hực khí thế xung trận trừng trị kẻ địch của Kẻ Thống Trị, mở màn trận đại chiến sinh tồn sánh ngang thần thoại sáng thế trên Daréu.
+
+
 
 
 
