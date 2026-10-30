@@ -150,7 +150,7 @@ Những người khác cũng không bao giờ thốt ra tên cô để ý tứ g
 
 "Cô nói gì vậy chứ."
 
-Dường như những người khác vẫn chưa thực sự thấu hiểu Yu IlHan sở hữu loại năng lực nào với tư cách là một tử thần. Yu IlHan bật cười khúc khích và đính chính lại ngộ nhận của họ.
+Dường như những người khác vẫn chưa thực sự thấu hiểu Yu IlHan sở hữu loại năng lực nào với tư cách là một Tử Thần. Yu IlHan bật cười khúc khích và đính chính lại ngộ nhận của họ.
 
 "Mọi hành động kết liễu một sinh mạng đều kéo theo một trách nhiệm không thể xóa nhòa phía sau. Với người khác, đó có thể là một món nợ trong lòng, hay tội lỗi, nhưng với tôi, trách nhiệm cho việc sát sinh sau một thời điểm nhất định...... chính là những linh hồn."
 

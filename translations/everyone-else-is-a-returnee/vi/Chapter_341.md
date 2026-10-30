@@ -40,7 +40,7 @@ Yu IlHan vừa trả lời vừa suy nghĩ. Một năm tương đương với m�
 
 Erta bỗng nhiên hét lên. Giọng cô nàng tràn ngập sự bực bội.
 
-"Kang MiRae, cái người phụ nữ đó đích thị là một thiên tài! Cảnh giới mà tôi khổ luyện suốt hàng ngàn năm cũng không chạm tới được, cô ấy lại đạt tới chỉ trong vỏn vẹn hai ba thập kỷ! Sao lại có thể bất công đến thế chứ! Tôi thậm chí còn chẳng hiểu nổi một nửa những gì cô ấy nói!"
+"Cái cô Kang MiRae đó đích thị là một thiên tài! Cảnh giới mà tôi khổ luyện suốt hàng ngàn năm cũng không chạm tới được, cô ấy lại đạt tới chỉ trong vỏn vẹn hai ba thập kỷ! Sao lại có thể bất công đến thế chứ! Tôi thậm chí còn chẳng hiểu nổi một nửa những gì cô ấy nói!"
 
 "Đừng có giận cá chém thớt lên tôi chứ. Làm tôi sợ đấy."
 

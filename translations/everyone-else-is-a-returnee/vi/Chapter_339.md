@@ -20,7 +20,7 @@ Quan trọng hơn cả, dáng hình hiện tại của Yu IlHan mang một phong
 
 Yu IlHan, người chẳng mảy may bận tâm người khác gọi mình là gì mà chỉ chăm chăm nghĩ về những điều bản thân cần phải chuẩn bị kể từ lúc này, liếc nhìn họ rồi cất lời đáp ngắn gọn.
 
-"Cứ đi đâu tùy các người, và đừng có chết rấp ở xó xỉnh nào là được. Mọi người chỉ cần sống cho tốt."
+"Cứ đi đâu tùy mọi người, và đừng có chết rấp ở xó xỉnh nào là được. Mọi người chỉ cần sống cho tốt."
 
 "Sống sao..."
 
@@ -176,7 +176,7 @@ Dĩ nhiên, người đầu bếp mạnh nhất có thể giành chiến thắng
 
 "Em sẽ tiếp tục ngắm nhìn IlHan như mọi khi. Như cái cách em đã làm suốt một ngàn năm ấy!"
 
-"Oa, cô lộ rõ vẻ khoe khoang chuyện mình đã độc chiếm cậu ấy suốt một ngàn năm ra mặt rồi đấy."
+"Oa, chị lộ rõ vẻ khoe khoang chuyện mình đã độc chiếm anh ấy suốt một ngàn năm ra mặt rồi đấy."
 
 "Thế thì ta cũng sẽ ở bên cạnh người thương. Hì hì."
 
@@ -202,7 +202,7 @@ Kang MiRae lên tiếng bằng một chất giọng không để lộ chút cả
 
 Dù đã qua một hồi lâu kể từ khi Kim YeSeul và Erta rời đi, Kang MiRae vẫn đăm đăm nhìn lên bầu trời. Cô ngưng lại và ngắm nhìn bất tận, hòa cùng dòng thời gian đã ngưng đọng.
 
-'Mình cứ ngỡ đã thấu hiểu mọi điều, nhưng rốt cuộc... mình đâu biết cách thấu tỏ con người anh ấy, mà chỉ mải miết tìm kiếm hình bóng của chính bản thân nơi anh mà thôi. Aah, thật xấu hổ và đau đớn làm sao...'
+'Mình cứ ngỡ đã thấu hiểu mọi điều, nhưng rốt cuộc... mình đâu biết cách thấu tỏ con người anh, mà chỉ mải miết tìm kiếm hình bóng của chính bản thân nơi anh mà thôi. Aah, thật xấu hổ và đau đớn làm sao...'
 
 Một giọt nước mắt lăn dài bên má cô rồi rơi tõm vào tách trà trống rỗng. Kang MiRae cứ ngồi lại nơi đó cho tới tận khi Kim YeSeul quay lại gọi cô.
 
