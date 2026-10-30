@@ -1745,3 +1745,9 @@ Yu IlHan dồn hết nguyên liệu nâng cấp trang bị toàn quân, kiểm t
 Kết giới giải trừ, ba chủ clan (Smithson, Carina, Asuha) kiên quyết xin gia nhập xuất chiến cùng Pháo Đài Bay; Yu IlHan tới Daréu điều động 1.000 tinh anh elf và Lang tộc chuyển chức 4 dưới quyền Mirfa, Jirl, Mirey, Paté và Erica lên Pháo Đài Hộ Vệ.
 Yu IlHan cùng Orochi chuẩn bị xong một vũ khí đặc biệt làm át chủ bài, sau đó hỏi ý kiến Helièna về điều kiện cướp đoạt thế giới bậc cao (xua đuổi mọi thực thể cấp cao và xóa sạch dấu vết của chúng).
 Cảnh kết thúc: Yu IlHan chọn mục tiêu đầu tiên là Khu Vườn Hoàng Hôn vì "dễ xơi nhất" và kích hoạt Dịch Chuyển đưa cả hai đại pháo đài biến mất, sẵn sàng gánh vác vai phản diện chống lại sự sắp đặt của các thế lực.
+
+## 284
+Yu IlHan chỉ huy hai đại pháo đài cùng hạm đội thực thể cấp thấp mang trang bị Sử Thi đột kích thế giới bậc cao Louisa của Khu Vườn Hoàng Hôn; nhờ hiệu ứng Du Hành Giả Thứ Nguyên vô hiệu hóa áp chế thế giới kết hợp thánh địa của Na YuNa và Dịch Chuyển, toàn quân áp đảo hoàn toàn các thủ môn nhân chuyển chức 5.
+Khi hàng ngàn viện binh phe địch kéo tới qua cánh cổng không gian, Yu IlHan gom Thiên Nhãn bắn một đòn năng lượng siêu mật độ tiêu diệt sạch sẽ viện binh (gồm cả thủ môn nhân chuyển chức 6), qua đó nâng kỹ năng Ký Lục lên cấp 84 và Chúa Tể Thứ Nguyên lên cấp 64.
+Toàn quân nhanh chóng quét sạch tàn dư, giúp Yu IlHan giành được quyền thống trị thế giới Louisa dù vẫn còn thiếu một vài điều kiện để kiểm soát hoàn toàn.
+Cảnh kết thúc: Yu IlHan ra lệnh toàn quân lập tức vào đội hình hướng tới mục tiêu tiếp theo là Quân Đội Ma Hủy Diệt, rồi kích hoạt Dịch Chuyển mở màn cuộc chiến toàn diện giữa tiếng cười thích thú của Helièna.
