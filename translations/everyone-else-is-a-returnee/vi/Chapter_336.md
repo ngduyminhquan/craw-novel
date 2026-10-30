@@ -60,17 +60,17 @@ Tuy nhiên, nếu bảo không tin anh, thì những điều anh đạt được
 
 Đến nước này thì cô nàng đã mặt dày tới mức nom lại khá đáng yêu! Yu IlHan xoa đầu cô như ý nguyện rồi quay người sang phía Mystic.
 
-"Mystic sẽ hỗ trợ ta. Đừng quên rằng đây là một kết nối song song giữa Trái Đất và Daréu."
+"Mystic sẽ hỗ trợ tôi. Đừng quên rằng đây là một kết nối song song giữa Trái Đất và Daréu."
 
-"Người định xử lý thế nào về việc đẳng cấp của Trái Đất tương đối quá thấp hả chủ nhân?"
+"Ngài định xử lý thế nào về việc đẳng cấp của Trái Đất tương đối quá thấp hả chủ nhân?"
 
-"Ta sẽ rót sức mạnh của Daréu vào Trái Đất để cân bằng nó."
+"Tôi sẽ rót sức mạnh của Daréu vào Trái Đất để cân bằng nó."
 
 "Vô lý quá thể! Chuyện đó tuyệt đối không th....ể nào......."
 
 Mystic nghẹn lời giữa chừng câu nói. Dù nghĩ điều đó là bất khả thi, cô cũng cảm thấy như Yu IlHan hoàn toàn có thể làm được. Cuối cùng, cô đành ngậm miệng lại và kéo sụp chiếc mũ rơm trên đầu xuống, che khuất đôi mắt và cắt đứt tầm nhìn với Yu IlHan.
 
-"Tôi mặc kệ đấy. Là người bảo tôi hỗ trợ nhé. Bất kể chuyện gì xảy ra cũng không phải trách nhiệm của tôi đâu."
+"Tôi mặc kệ đấy. Là ngài bảo tôi hỗ trợ nhé. Bất kể chuyện gì xảy ra cũng không phải trách nhiệm của tôi đâu."
 
 "Thế là đủ rồi. Còn nữa...... mẹ."
 

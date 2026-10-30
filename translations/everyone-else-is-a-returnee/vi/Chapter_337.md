@@ -36,7 +36,7 @@ Lời Tuyên Cáo của con trai bà vang vọng từ một nơi vô định. N�
 
 "Thế nhưng vẫn còn quá khó. Trừ phi Yu IlHan phác họa ra đường nét đại thể của thế giới......!"
 
-"Cô thừa biết chuyện đó đâu dễ làm thế mà, tiểu thư."
+"Cô thừa biết chuyện đó đâu dễ làm thế mà."
 
 "Chúng ta làm được mà. Chúng ta chỉ cần lập ra một công thức ma pháp phổ quát có thể áp dụng mọi lúc, mọi nơi thôi. Chẳng phải vậy sao?"
 

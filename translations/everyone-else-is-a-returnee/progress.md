@@ -340,9 +340,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | reviewed |  |
 | 334 | 332 | Chapter_334 - Chapter 332_ Harmageddon – 8.txt | Harmageddon – 8 | reviewed |  |
 | 335 | 333 | Chapter_335 - Chapter 333_ Harmageddon – 9.txt | Harmageddon – 9 | reviewed |  |
-| 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | done |  |
-| 337 | 335 | Chapter_337 - Chapter 335_ Harmageddon – 11.txt | Harmageddon – 11 | done |  |
-| 338 | 336 | Chapter_338 - Chapter 336_ Harmageddon – 12.txt | Harmageddon – 12 | done |  |
+| 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | reviewed |  |
+| 337 | 335 | Chapter_337 - Chapter 335_ Harmageddon – 11.txt | Harmageddon – 11 | reviewed |  |
+| 338 | 336 | Chapter_338 - Chapter 336_ Harmageddon – 12.txt | Harmageddon – 12 | reviewed |  |
 | 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | todo |  |
 | 340 | 338 | Chapter_340 - Chapter 338_ Harmageddon – 14.txt | Harmageddon – 14 | todo |  |
 | 341 | 339 | Chapter_341 - Chapter 339_ Harmageddon – 15.txt | Harmageddon – 15 | todo |  |

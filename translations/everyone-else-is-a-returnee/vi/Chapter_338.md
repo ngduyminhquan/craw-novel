@@ -134,7 +134,7 @@ Kang MiRae hỏi với ánh mắt kiên định ngập tràn niềm tin. Yu IlHa
 
 Yu IlHan trầm ngâm trong giây lát. Đến nước này thì mọi thứ đều sẽ diễn ra theo ý anh, nhưng anh vẫn cho rằng sẽ là tốt nhất nếu mình làm mọi việc theo đúng cách mình mong muốn.
 
-"Vậy thì con nên làm những gì vốn định làm từ đầu thôi."
+"Vậy thì mình nên làm những gì vốn định làm từ đầu thôi."
 
 "Thứ mà con vốn định làm từ đầu là gì thế hả con trai? Có thể nói cho mẹ nghe được không?"
 
