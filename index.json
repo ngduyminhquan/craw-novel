@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:54:06Z",
+  "generatedAt": "2026-10-30T18:00:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2129,6 +2129,12 @@
           "title": "Chương 357: Ngoại Điển (2)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_357.md",
           "sha": "ba6668bfef1a4e69d5119c8f51032b05ecac5f1c"
+        },
+        {
+          "number": 358,
+          "title": "Chương 358: Ngoại Điển (3) – Hồ Sơ Mật, Lịch Sử Đen Tối – 3",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_358.md",
+          "sha": "c3c8ef82a1619196d5fdaa05361dcdb9f334f982"
         }
       ]
     },

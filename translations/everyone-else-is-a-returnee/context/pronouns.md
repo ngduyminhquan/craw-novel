@@ -124,6 +124,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hessian | cậu bé / Hessian | 353 | Con trai của Mirey và Jirl |
 | Irena | cô bé / Irena | 353 | Con gái của Paté và Mirfa |
 | Yu Jia | cô bé / Yu Jia | 353 | Con gái của Yu IlHan và Phiria |
+| The Angel | cô / nữ thiên thần / thiên thần | 357 | Nữ thiên thần giao nhiệm vụ cho Yu IlHan thời cấp ba tại Jeju |
 
 ## Giữa các nhân vật
 
@@ -636,3 +637,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu Isu | * | cô | các cháu | 353 | Yu Isu xưng cô với các con cháu của Yu IlHan |
 | Yu IlHan | Helièna | cháu | chị / cô | 356 | Yu IlHan thời tiểu học trong hồi tưởng |
 | Helièna | Yu IlHan | ta | nhóc / nhóc con / cậu bé / bé cưng | 356 | Helièna gặp gỡ Yu IlHan thời tiểu học trong hồi tưởng |
+| The Angel | Yu IlHan | ta | cậu / nhóc con / IlHan / Yoo Il-Han | 357 | Nữ thiên thần giao nhiệm vụ tiêu diệt sinh vật dị thường cho Yu IlHan tại Jeju |
+| Yu IlHan | The Angel | tôi | cô | 357 | Yu IlHan giao tiếp với nữ thiên thần thời cấp ba tại Jeju |

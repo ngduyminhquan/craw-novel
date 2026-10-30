@@ -2188,4 +2188,11 @@ Sau màn xin lỗi ngượng ngùng và bị IlHan từ chối ngồi chung bàn
 IlHan bắt xe buýt lên đồi Oreum leo núi ngắm cảnh, thầm biết ơn công việc dịch thuật bán thời gian giúp mình tự chủ tài chính và lên kế hoạch trốn buổi leo Núi Halla ngày mai để đi ăn uống.
 Cảnh kết thúc: Trước cửa một quán cà phê dưới chân núi, một người phụ nữ xinh đẹp uy nghiêm xưng là thiên thần của Thượng Đế hiện đôi cánh lớn, biết rõ thân thế của IlHan và yêu cầu anh hợp tác để đối phó với Khủng Hoảng Dị Thường sắp xảy ra trên Trái Đất.
 
+## 358
+Nữ thiên thần giải thích khả năng khó nhận diện của Yu IlHan là siêu năng lực do Thượng Đế ban tặng, đồng thời nhờ anh giúp tiêu diệt các sinh vật dị thường tiến hóa sớm trên Trái Đất vì sức mạnh thiên thần bị giới hạn tại đây.
+Thấy IlHan có tâm tính thuần khiết và đồng ý giúp để cứu người, nữ thiên thần đưa anh bay lên không trung hướng về tổ của một con chim khổng lồ tiến hóa sớm nhờ ăn mana.
+Nữ thiên thần giao cho IlHan ngọn Thương Longinus; IlHan tận dụng khả năng tàng hình tiếp cận và phóng thương cắm phập xuyên đầu hạ gục con chim trong chớp mắt.
+Nữ thiên thần trầm ngâm báo trước vẫn còn 5 sinh vật đáng sợ hơn cần tiêu diệt trước khi đối mặt với thử thách cam go nhất.
+Cảnh kết thúc: Hoàng hôn buông xuống, nữ thiên thần dắt tay IlHan bay đi tìm mục tiêu dị thường tiếp theo, mở ra tiềm năng to lớn trong con người anh.
+
 

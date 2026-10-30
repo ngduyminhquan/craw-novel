@@ -859,3 +859,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Mt. Halla | Hallasan | Núi Halla | địa danh | 357 | Ngọn núi lửa nổi tiếng cao nhất Hàn Quốc trên đảo Jeju |
 | Pluto | planet Pluto | sao Diêm Vương | khác | 357 | Hành tinh lùn bị giáng cấp khỏi hệ hành tinh chính, dùng làm ẩn dụ cho sự tự ti của Yu IlHan |
 | Irregular Crisis | irregular crisis | Khủng Hoảng Dị Thường | khác | 357 | Cuộc khủng hoảng dị thường mà thiên thần của Thượng Đế thông báo cho Yu IlHan |
+| Longinus Spear |  | Thương Longinus | vật phẩm | 358 | Ngọn thương thần bí nữ thiên thần trao cho Yu IlHan để tiêu diệt các sinh vật dị thường |

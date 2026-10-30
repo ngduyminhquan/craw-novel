@@ -145,6 +145,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Irena |  | Irena | Con gái của Paté và Mirfa, thừa hưởng mana của tử thần | 353 |
 | Adrian |  | Adrian | Con trai của Lucifer và Lazière, hiếu thắng và muốn vượt qua kẻ mạnh | 353 |
 | Ariel |  | Ariel | Con gái của Lucifer và Lazière, hiếu thắng và muốn vượt qua kẻ mạnh | 353 |
+| The Angel | Angel; female angel | Nữ thiên thần | Thiên thần của Thượng Đế giáng trần gặp Yu IlHan thời cấp ba tại Jeju để giao nhiệm vụ tiêu diệt các sinh vật dị thường | 357 |
 
 ## Chi tiết
 
@@ -1161,4 +1162,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Ariel
 - Giới tính, vai trò: Nữ, con gái của Lucifer và Lazière.
 - Đặc điểm: Tranh giành vị trí thủ môn với em trai, bản năng rồng mạnh mẽ.
+
+### The Angel
+- Giới tính, vai trò: Nữ, thiên thần giáng trần theo mệnh lệnh của Thượng Đế.
+- Đặc điểm: Xinh đẹp, uy nghiêm, có đôi cánh lớn tỏa sáng; biết rõ về Yu IlHan và khả năng đặc biệt của anh; đưa IlHan đi tiêu diệt các sinh vật dị thường tiến hóa sớm bằng Thương Longinus.
 
