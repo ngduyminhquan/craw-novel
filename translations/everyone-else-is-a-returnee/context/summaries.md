@@ -1831,6 +1831,13 @@ Greed đề xuất liên minh cùng Yu IlHan chia đôi các thế giới, quét
 Vừa đặt chân tới Daréu, Đại Tai Biến lần thứ 6 lập tức giáng xuống; quyền năng Chúa Tể Long Sào tự động kích hoạt, dung hợp hàng loạt thế giới bậc thấp dưới quyền cai trị của Yu IlHan (Guundia, Typhen, Elyde, Terodua...) vào Daréu khiến thế giới bành trướng với tốc độ không tưởng; IlHan kịp thời hủy bỏ lệnh dung hợp của Trái Đất để bảo toàn nhân loại.
 Cảnh kết thúc: Đứng trước một thế giới khổng lồ mới sinh sôi quái vật cùng mana cuộn trào thuộc về riêng mình, Yu IlHan hoảng hốt hối hả cùng con trai đi tìm kiếm và bảo vệ tộc elf cùng Lang tộc.
 
+## 301
+Yu IlHan kích hoạt ma pháp trận cổ đại nâng vùng cao nguyên lên cao để bảo vệ an toàn cho tộc elf và Lang tộc trước biến động kinh thiên động địa của Đại Tai Biến lần thứ 6 tại Daréu; sự bành trướng vượt không gian của ma pháp trận giúp anh vững tâm điều phối thế giới.
+Tận dụng sự tự do tuyệt đối từ danh hiệu Kẻ Vượt Trội kết hợp kỹ năng Hiển Hiện và Du Hành Giả Thứ Nguyên, anh liên hoàn thi triển kỹ năng Tuyên Cáo (tăng vọt lên cấp 39) để phân tách đất liền và biển cả, trói buộc lượng mana bùng nổ vào ma pháp trận và vật chất thế giới như một đấng sáng thế thực thụ, khiến tộc elf sùng bái tột độ.
+Ký lục của Yu IlHan in sâu vào lòng Daréu tạo nên các hồ độc, hỏa ngục và bão bụi kim loại chết chóc mang đặc trưng của riêng anh; nhận thấy bản thân có tiềm năng dung hợp hai thế giới bậc cao nhờ năng lực Sáng Tạo nhưng anh tạm gác lại vì quá hao tổn tâm lực.
+Cảnh kết thúc: Trước vòng lặp sinh tử và tiến hóa dồn dập của quái vật trên thế giới mới ngập tràn ký lục của Yu IlHan, Yumir mơ màng cảm nhận được những con rồng mới đầu tiên đang bắt đầu được tái sinh tại Daréu.
+
+
 
 
 
