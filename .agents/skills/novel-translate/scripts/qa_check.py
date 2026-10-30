@@ -10,7 +10,7 @@ import argparse
 import re
 import sys
 
-from common import (TN_RE, contains_term, raw_paragraphs, term_regex, entries, get_row, is_placeholder, load_novel, load_progress,
+from common import (IMAGE_RE, TN_RE, contains_term, raw_paragraphs, term_regex, entries, get_row, is_placeholder, load_novel, load_progress,
                     parse_range, raw_file, read_text, utf8_stdout, vi_file)
 
 # Từ tiếng Anh không trùng với âm tiết tiếng Việt không dấu.
@@ -69,6 +69,13 @@ def check(novel, row):
     vb = sum(p.startswith("[") for p in vi_paras)
     if rb != vb:
         warns.append(f"số đoạn [ ]: raw {rb}, bản dịch {vb}")
+
+    raw_imgs = [l.strip() for l in read_text(raw_file(novel, row)).splitlines() if IMAGE_RE.match(l.strip())]
+    if raw_imgs:
+        vi_imgs = [l.strip() for l in vi_text.splitlines() if IMAGE_RE.match(l.strip())]
+        missing_imgs = [img for img in raw_imgs if img not in vi_imgs]
+        if missing_imgs:
+            errors.append(f"thiếu dòng ảnh có trong raw: {', '.join(missing_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí")
 
     for n, line in enumerate(vi_paras, 1):
         hits = ENGLISH_RE.findall(line)

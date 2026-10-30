@@ -25,6 +25,8 @@ INLINE_NOTE_RE = re.compile(
 # Dòng chỉ có tiêu đề ghi chú ("Editors Note.") — từ đây đến hết file là lời nhắn của translator/editor
 NOTE_HEADER_RE = re.compile(rf"^(?:T/N|E/N|{_NOTE_LONG}|Ghi chú tác giả)\s*[:.]?\s*$", re.IGNORECASE)
 SEPARATOR_RE = re.compile(r"^[=\-_*~]{3,}$")
+# Dòng ảnh, giống regex app và scripts/build_index.py (chapter-image-guide.md). Ảnh không phải đoạn dịch.
+IMAGE_RE = re.compile(r"^!\[([^\]]*)]\(([^)]+)\)$")
 
 STATUSES = ("todo", "done", "reviewed", "skip")
 TRANSLATED = ("done", "reviewed")  # đã có bản dịch
@@ -180,14 +182,14 @@ def clean_raw(text, ignore=()):
     và các dòng nằm trong `ignore` (so nguyên dòng sau khi strip)."""
     ignore = {s.strip() for s in ignore}
     lines = text.splitlines()
-    if lines and not lines[0].strip().startswith(("\"", "“", "[")):
+    if lines and not lines[0].strip().startswith(("\"", "“", "[")) and not IMAGE_RE.match(lines[0].strip()):
         lines = lines[1:]  # dòng đầu là tiêu đề chương
     out = []
     for line in lines:
         s = line.strip()
         if NOTE_HEADER_RE.match(s):
             break
-        if not s or SEPARATOR_RE.match(s) or s in ignore:
+        if not s or SEPARATOR_RE.match(s) or IMAGE_RE.match(s) or s in ignore:
             continue
         s = strip_notes(s)
         if s:

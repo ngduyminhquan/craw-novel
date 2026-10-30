@@ -8,7 +8,7 @@ thuật ngữ mới chưa có trong glossary, tóm tắt 3 chương trước và
 import argparse
 import re
 
-from common import (TRANSLATED, contains, raw_paragraphs, die, entries, get_row, load_novel, load_progress, raw_file,
+from common import (IMAGE_RE, TRANSLATED, contains, raw_paragraphs, die, entries, get_row, load_novel, load_progress, raw_file,
                     read_text, table_with, utf8_stdout, vi_file)
 from extract_terms import pov_hint, report
 
@@ -72,7 +72,10 @@ def main():
     print(f"# Chương #{idx}: {row['tiêu đề']}")
     print(f"Raw:      {raw.as_posix()}")
     print(f"Bản dịch: {vi_file(novel, idx).as_posix()}")
-    print(f"Độ dài: {words} từ, {len(paras)} đoạn (đã bỏ tiêu đề, phân cách, T/N)")
+    print(f"Độ dài: {words} từ, {len(paras)} đoạn (đã bỏ tiêu đề, phân cách, ảnh, T/N)")
+    raw_imgs = [l.strip() for l in read_text(raw).splitlines() if IMAGE_RE.match(l.strip())]
+    if raw_imgs:
+        print(f"Ảnh trong raw ({len(raw_imgs)}): {', '.join(raw_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí tương ứng.")
 
     h = pov_hint(paras)
     print(f"\n## Góc nhìn (ước lượng)\n{h['pov']} — I/me/my ngoài thoại: {h['first']}, he/she ngoài thoại: {h['third']}; "

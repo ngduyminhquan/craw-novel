@@ -78,7 +78,7 @@ Ghi vào file bản dịch script đã in ra (`translations/<slug>/vi/Chapter_NN
 
 - Dòng đầu: `# Chương N: <tiêu đề dịch>`, rồi một dòng trống.
 - Dịch **đủ từng đoạn**, theo đúng thứ tự. Mỗi đoạn raw thành một đoạn dịch **trên một dòng**, cách nhau dòng trống. Không ngắt một đoạn ra nhiều dòng. Không tóm tắt, không bỏ câu, không thêm nội dung.
-- Không tự thêm ảnh. File chương đã có dòng ảnh (dịch lại, sửa chương) thì giữ nguyên dòng đó và vị trí của nó.
+- Không tự thêm ảnh ngoài raw. Raw hoặc file chương đã có dòng ảnh (`![...](images/...)`) thì giữ nguyên dòng đó và vị trí tương ứng của nó giữa các đoạn dịch.
 - Bỏ ghi chú translator (T/N) của raw. T/N kẹp trong câu thì chỉ bỏ phần ghi chú, vẫn dịch phần truyện của câu đó.
 - Quyết định bỏ hẳn một dòng raw không phải truyện (vd bảng chú giải ký hiệu của bản EN) thì ghi lý do vào `rules.md` và thêm nguyên văn dòng đó vào `raw_ignore_lines` trong `novel.json`, để QA không báo thiếu đoạn.
 - Theo `rules.md` (tên, thuật ngữ, định dạng) và `style.md` (giọng văn). Mỗi lời thoại phải đúng xưng hô trong `pronouns.md` cho cặp người nói/người nghe ở thời điểm của chương.
