@@ -25,6 +25,7 @@
 | Tsk / Tch | Chậc / Xì | Tiếng tặc lưỡi, khinh khỉnh |
 | Fuu / Phew | Phù / Phùuu | Tiếng thở dài nhẹ nhõm hoặc ngao ngán |
 | Ara ara | Ái chà / Ôi chao | Giọng trêu chọc nữ tính của Lita |
+| Eeek | Á / Áaaa / Hiiik / Ối | Tiếng thốt lên kinh hãi trước hiểm nguy (phân biệt với Ara ara) |
 | Teehee | Hihi / He he | Cười trừ, cười ngượng |
 | What the fuck / What the hell | Cái quái gì thế này / Chết tiệt | Tiếng chửi thề thường gặp của IlHan |
 | Kek | Khặc | Tiếng cười khẩy, cảm thán ngạc nhiên theo văn hóa mạng/game |

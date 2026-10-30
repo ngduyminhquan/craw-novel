@@ -46,7 +46,7 @@ Thế nhưng, đòn Phản Kích của Yu IlHan thậm chí còn chưa thực s�
 
 "Trời đất ơi…"
 
-Bầu trời đã bị nhuộm thành một màu đỏ rực. Những vệt lôi điện xanh lam biến thành những ngọn lửa đỏ, và quyền thống trị thế giới này đã bị Quân Đội Thiên Giới cưỡng chế tạm thời chuyển giao sang cho Yu IlHan. Đại ma pháp vận dụng sức mạnh của cả thế giới đã bị phản đòn toàn bộ.
+Bầu trời đã bị nhuộm thành một màu đỏ rực. Những vệt lôi điện xanh lam biến thành những ngọn lửa đỏ, và quyền thống trị thế giới này của Thiên giới đã tạm thời bị cưỡng chế chuyển giao sang cho Yu IlHan. Đại ma pháp vận dụng sức mạnh của cả thế giới đã bị phản đòn toàn bộ.
 
 [Kỹ năng Chúa Tể Thứ Nguyên đã đạt cấp độ 70. Thời gian thích ứng với một thứ nguyên giảm xuống, và bạn có thể rút ra cũng như thống trị nhiều mana hơn từ thế giới mà bạn đã chiếm đoạt.]
 
@@ -148,11 +148,11 @@ Toàn bộ lượng mana hắn sở hữu đều nghịch chuyển, rơi vào tr
 
 "Dù tôi vẫn tin lời Yu IlHan, nhưng nghĩ đến việc chuyện như thế này thực sự diễn ra... Rốt cuộc chuyện gì đang xảy ra bên trong Quân Đội Thiên Giới vậy?"
 
-"Á, chẳng phải sẽ rất tệ khi anh phải thu thập ký lục của một thiên thần nhưng hắn lại đọa lạc thành sa đọa thiên thần sao~!?"
+"Á, chẳng phải sẽ rất tệ khi anh phải thu thập ký lục của một thiên thần nhưng hắn lại đọa lạc thành thiên thần sa ngã sao~!?"
 
 Trong khi Liera và Erta đang vô cùng nghiêm trọng, Na YuNa lại lo lắng về một chuyện hơi khác người một chút! Tuy nhiên, Yu IlHan khẽ lắc đầu, phủ nhận lời cô.
 
-"Thực ra như thế này lại càng tốt hơn. Tôi đã có thể ghi lại khoảnh khắc hắn biến thành sa đọa thiên thần, vậy nên giờ tôi thậm chí có thể đảo ngược ký lục của sa đọa thiên thần thành ký lục của thiên thần. Có thể coi đây là món hàng Mua Một Tặng Một cho nhiều sản phẩm cùng lúc."
+"Thực ra như thế này lại càng tốt hơn. Tôi đã có thể ghi lại khoảnh khắc hắn biến thành thiên thần sa ngã, vậy nên giờ tôi thậm chí có thể đảo ngược ký lục của thiên thần sa ngã thành ký lục của thiên thần. Có thể coi đây là món hàng Mua Một Tặng Một cho nhiều sản phẩm cùng lúc."
 
 "Oa!"
 
@@ -162,13 +162,13 @@ Trong khi Liera và Erta đang vô cùng nghiêm trọng, Na YuNa lại lo lắn
 
 [Ta sẽ giết ngươiiiiiiiiiiiii! Bằng toàn bộ sức mạnh của Cánh Thứ 11 Của Ánh Sáng Rực Rỡ!]
 
-Hắn đã từ bỏ sự hỗ trợ của thế giới và đọa lạc thành sa đọa thiên thần như một cái giá để phục hồi lại cơ thể mình. Cánh Thứ 11 Của Ánh Sáng Rực Rỡ. Mana của hắn cuồng bạo bùng nổ, đẩy lùi mana của Đọa Lạc. Những sợi xích định trói chặt hắn lập tức bị nhuộm đen rồi vỡ vụn. Lý do hắn có thể sử dụng sức mạnh lớn hơn trước có lẽ là do hắn đang trải qua quá trình thức tỉnh. Điều này sẽ chỉ là tạm thời!
+Hắn đã từ bỏ sự hỗ trợ của thế giới và đọa lạc thành thiên thần sa ngã như một cái giá để phục hồi lại cơ thể mình. Cánh Thứ 11 Của Ánh Sáng Rực Rỡ. Mana của hắn cuồng bạo bùng nổ, đẩy lùi mana của Đọa Lạc. Những sợi xích định trói chặt hắn lập tức bị nhuộm đen rồi vỡ vụn. Lý do hắn có thể sử dụng sức mạnh lớn hơn trước có lẽ là do hắn đang trải qua quá trình thức tỉnh. Điều này sẽ chỉ là tạm thời!
 
-[Hắn đang cố liều mạng giết anh bằng mọi giá đấy! Ái chà, cứ đà này thì....]
+[Hắn đang cố liều mạng giết anh bằng mọi giá đấy! Áaaa, cứ đà này thì....]
 
 "Không, kết thúc rồi. Đó chỉ là sự giãy chết cuối cùng của hắn thôi."
 
-Mọi người đều run rẩy lo sợ, chỉ riêng Yu IlHan là vẫn vô cùng bình thản. Anh vào tư thế với ngọn hỏa thương rồng đã hoàn thiện và nhắm thẳng vào xương bả vai của tên sa đọa thiên thần đang dần chuyển sang màu đen.
+Mọi người đều run rẩy lo sợ, chỉ riêng Yu IlHan là vẫn vô cùng bình thản. Anh vào tư thế với ngọn hỏa thương rồng đã hoàn thiện và nhắm thẳng vào xương bả vai của tên thiên thần sa ngã đang dần chuyển sang màu đen.
 
 [Khuaaaaaaaa! Yu IlHaaaaaaaaaaan!]
 

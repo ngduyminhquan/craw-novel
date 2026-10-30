@@ -289,9 +289,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 282 |  | Chapter_282 - I Will Prepare – 1.txt | I Will Prepare – 1 | reviewed |  |
 | 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | reviewed |  |
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | reviewed |  |
-| 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | done |  |
-| 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | done |  |
-| 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | done |  |
+| 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | reviewed |  |
+| 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | reviewed |  |
+| 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | reviewed |  |
 | 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | todo |  |
 | 289 |  | Chapter_289 - I Will Prepare – 8.txt | I Will Prepare – 8 | todo |  |
 | 290 | 288 | Chapter_290 - Chapter 288_ I Will Prepare – 6.txt | I Will Prepare – 6 | skip | trùng nội dung #287 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
@@ -990,3 +990,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#285] Sentry (chức vụ của Felaère) — Tạm chọn: 'Lính Canh'. Phương án khác: 'Thủ Hộ Giả', 'Vệ Binh'. Tạm dùng trong bản dịch: 'Lính Canh'. → Chốt 'Lính Canh' — dịch nghĩa tự nhiên, sát với chức năng canh gác cổng/thế giới bậc cao trong raw. (orchestrator)
 - [#285] Ice Giantess (chủng tộc của Melohinne) — Tạm chọn: 'Nữ Khổng Lồ Băng'. Phương án khác: 'Băng Nữ Khổng Lồ', 'Nữ Cự Nhân Băng'. Tạm dùng trong bản dịch: 'Nữ Khổng Lồ Băng'. → Chốt 'Nữ Khổng Lồ Băng' — nhất quán với cách dịch dòng tộc Giant (Khổng Lồ) trong glossary. (orchestrator)
 - [#286] Lời thoại thốt lên '[You girlllllls!]' của Lemiel khi bị Erta và Liera châm chọc — Tạm dùng: '[Lũ ranh con các ngươiii!]' (thể hiện sự phẫn nộ của đại thiên thần chuyển chức 7 trước hai cựu thiên thần cấp dưới). Phương án khác: '[Mấy con ranh nàyyy!]' hoặc '[Lũ ranh các cô!]'. → Chốt '[Lũ ranh con các ngươiii!]' — khớp đại từ 'các ngươi' của Lemiel với Liera/Erta và thể hiện đúng cơn thịnh nộ. (orchestrator)
+- [#285] Ở đoạn 66, câu thoại `[From what I see, he's already in reach of it. Lemiel, you're as arrogant as ever.]` → Sửa thành `[Theo ta thấy, chàng đã ở ngay trong tầm với tới cảnh giới đó rồi. Lemiel, ngươi vẫn ngạo mạn như xưa nhỉ.]` (người nói là Helièna) (orchestrator)
+- [#287] Ở các đoạn 75, 77, 82, 85, thống nhất chuyển toàn bộ cụm `sa đọa thiên thần` thành `thiên thần sa ngã` → Đổi toàn bộ `sa đọa thiên thần` thành `thiên thần sa ngã` (orchestrator)
+- [#287] Ở đoạn 83, câu thoại `[He's trying to kill you even if it costs his life! Eeek, at this rate....]` → Đổi `Ái chà` thành `Áaaa` và giữ đại từ `anh` (`[Hắn đang cố liều mạng giết anh bằng mọi giá đấy! Áaaa, cứ đà này thì....]`) (orchestrator)

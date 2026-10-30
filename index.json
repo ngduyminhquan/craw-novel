@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T05:25:49Z",
+  "generatedAt": "2026-10-30T05:31:14Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1714,7 +1714,7 @@
           "number": 285,
           "title": "Chương 285: Tôi Sẽ Chuẩn Bị – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_285.md",
-          "sha": "52ef3ecda6b0582082aa3f6ab98b720163665b43"
+          "sha": "b421ebe611e905c1846ab8aeaa739f95392b6d04"
         },
         {
           "number": 286,
@@ -1726,7 +1726,7 @@
           "number": 287,
           "title": "Chương 287: Tôi Sẽ Chuẩn Bị – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_287.md",
-          "sha": "f479ee97b2ec8b4150ee159a7205e69efb01ad10"
+          "sha": "bfefd4b85fc80e3ea432f71f88309af8ef35a477"
         }
       ]
     },
@@ -1738,7 +1738,7 @@
           "number": 1,
           "title": "Chương 1: Mở đầu Tập 1",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_001.md",
-          "sha": "9fcfee86a27985fde582b5adb22edaefb7f4f7e6"
+          "sha": "cd13f3cbebd5b06b0ea37b4a717a3ddb95985adf"
         },
         {
           "number": 2,

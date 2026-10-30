@@ -34,9 +34,9 @@ Phải, Quân Đội Ma Hủy Diệt hiện đang giao chiến với các thiên
 
 Tiếng gầm của nữ khổng lồ khiến cả thế giới rung chuyển. Kẻ đáp lại ả chính là Lính Canh của thế giới này, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ, Felaère.
 
-[Lũ quái vật đáng thương, hỡi kẻ xâm lược liều lĩnh. Felaère này sẽ ban sự phán xét cho ngươi.]
+[Con quái vật đáng thương, hỡi kẻ xâm lược liều lĩnh. Felaère này sẽ ban sự phán xét cho ngươi.]
 
-[Hah, ngon thì nhào vô thử xem!]
+[Hah, ngon thì xông vào thử xem!]
 
 Nữ khổng lồ và thiên thần sa ngã va chạm dữ dội giữa không trung. Nắm đấm của nữ khổng lồ ngỡ như có thể đóng băng cả thế giới được ba cặp cánh đen đỡ lấy một cách êm ái. Mana của Felaère tụ lại nơi đầu những chiếc cánh, nén tới cực hạn rồi bắn vụt ra!
 
@@ -130,7 +130,7 @@ Lemiel khịt mũi chế giễu sau khi nghe thấy những lời đó.
 
 [Ta biết hắn có chút bản lĩnh. Nhưng là Kẻ Thứ Năm sao? Các ngươi tưởng cảnh giới siêu việt là thứ dễ dàng đạt được thế ư? Được rồi. Chẳng lẽ đó là lý do các ngươi quay sang bợ đỡ hắn chỉ vì tin rằng hắn có thể trở thành thứ đó sao?]
 
-[Theo ta thấy, cậu ấy đã ở ngay trong tầm tay rồi. Lemiel, ngươi vẫn ngạo mạn như xưa nhỉ.]
+[Theo ta thấy, chàng đã ở ngay trong tầm với tới cảnh giới đó rồi. Lemiel, ngươi vẫn ngạo mạn như xưa nhỉ.]
 
 [Đúng vậy! Chúng ta không thừa nhận bất kỳ vị Thần nào ngoài Thượng Đế tôn kính duy nhất! Đó là con đường dị giáo, và là con đường không được phép dung thứ cho bất kỳ thực thể nào!]
 
