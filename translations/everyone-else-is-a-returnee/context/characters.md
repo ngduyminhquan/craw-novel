@@ -1033,3 +1033,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, con gái rồng đầu lòng của Michael Smithson và Carina Malatesta (Smithson), con gái đỡ đầu của Yu IlHan.
 - Đặc điểm / ngoại hình: Mái tóc vàng óng buộc đuôi ngựa xòe như đóa hoa hướng dương, đôi mắt màu ngọc lục bảo; vừa sinh ra đã hiểu được tiếng người; lớn nhanh như thổi, tròn 9 tuổi đã có ngoại hình của thiếu nữ 15 tuổi; hiếu học, say mê luyện thương và tôn sùng cha đỡ đầu Yu IlHan; đạt tới chuyển chức lần 4 trước thềm sinh nhật 9 tuổi.
 - Xuất hiện tính đến chương 342: Chào đời tại pháo đài bay, được Yu IlHan dùng Tuyên Cáo ban phước lành nhận làm con gái đỡ đầu; 9 năm sau hăng hái luyện tập cùng Yu IlHan trong kết giới và lén mò lên thành phố bay đòi tham chiến nhưng bị đuổi về Trái Đất an toàn.
+
+### Lazière
+- Giới tính, vai trò: Nữ, Cánh Thứ 1 Của Ánh Sáng Rực Rỡ kiêm Tiểu Đoàn Trưởng chuyển chức 8 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan.
+- Đặc điểm / ngoại hình: Mái tóc đen dài ấn tượng, diện váy lụa đen và găng tay lụa đen toát lên khí chất quý phái xa hoa; sau lưng có 8 chiếc cánh sắc nhọn vươn dài; tính cách điềm đạm, cực kỳ lễ phép và tôn trọng đối thủ dù đôi bên ở thế đối đầu sinh tử.
+- Xuất hiện tính đến chương 343: Một mình trấn giữ cung điện trung tâm Minh Giới trong khi Satan và đại quân đã đi vắng; đối thoại nhã nhặn với Yu IlHan, xác nhận Satan vẫn là kẻ thù và sẵn sàng quyết tử chặn bước anh; kinh ngạc khi bị Yu IlHan dễ dàng khống chế chỉ bằng một cái vươn tay và ngỡ ngàng khi nghe Yu IlHan tuyên bố sẽ không giết mình mà dùng Bẫy Phục Hồi để thay đổi tương lai.
+

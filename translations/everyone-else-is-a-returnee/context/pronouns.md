@@ -558,3 +558,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Carina Smithson | tôi | cô / cô Smithson | 342 | Yu IlHan chúc mừng và đối thoại với Carina sau khi sinh |
 | Yuni | Yu IlHan | con | cha đỡ đầu | 342 | Yuni gọi Yu IlHan là cha đỡ đầu |
 | Yu IlHan | Yuni | ta / tôi | con / Yuni | 342 | Yu IlHan đối thoại với con gái đỡ đầu Yuni |
+| Lazière | Yu IlHan | tôi | ngài / Yu IlHan | 343 | Lazière đối thoại nhã nhặn với Yu IlHan tại Minh Giới |
+| Yu IlHan | Lazière | tôi | cô / Lazière | 343 | Yu IlHan đối thoại và khống chế Lazière tại Minh Giới |

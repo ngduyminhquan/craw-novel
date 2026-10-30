@@ -2093,4 +2093,11 @@ Chín năm sau trong kết giới, Yuni đã lớn nhanh như thổi thành thi�
 Yu IlHan cùng toàn thể chiến binh Long Sào và Uriel tập hợp trên thành phố bay, chuẩn bị sẵn sàng vũ trang và tâm thế tiến đánh các thế lực thù địch ngay khi kết giới thời gian của Đồng Hồ Cát Vĩnh Hằng tiêu biến.
 Cảnh kết thúc: Sau khi cho người đưa cô bé Yuni trở lại mặt đất Trái Đất an toàn, Yu IlHan nháy mắt hé lộ với Helièna mục tiêu xâm lược đầu tiên ngay sau khi kết giới tan biến chính là hang ổ vắng vẻ nhất: Minh Giới.
 
+## 343
+Kết giới Đồng Hồ Cát Vĩnh Hằng tan biến, Yu IlHan đưa thành phố bay mang theo toàn quân Long Sào rời Trái Đất và dùng Dịch Chuyển tiến thẳng vào Minh Giới của Quân Đội Ánh Sáng Rực Rỡ.
+Nhận thấy Minh Giới hoàn toàn trống rỗng không một bóng thiên thần sa ngã, Yu IlHan phán đoán Satan đã bắt tay với Thượng Đế và chấp nhận để Thượng Đế xóa sổ thế giới chính; anh lái thành phố bay tới trung tâm thế giới và gặp Lazière, Cánh Thứ 1 Của Ánh Sáng Rực Rỡ.
+Sau màn tra hỏi hài hước khiến đồng đội nghi ngờ ảo tưởng BL, Lazière lịch thiệp xác nhận Satan vẫn là kẻ thù và sẵn sàng quyết tử chặn đường; tuy nhiên Yu IlHan dễ dàng khống chế vị Tiểu Đoàn Trưởng chuyển chức 8 chỉ bằng một cái phẩy tay.
+Thay vì tiếp tục thói quen giết chóc kẻ địch để diệt trừ hậu họa như trước kia, Yu IlHan quyết định tha mạng cho Lazière để tự mình bẻ gãy kịch bản và xóa bỏ các tương lai tiêu cực.
+Cảnh kết thúc: Trước ánh mắt ngỡ ngàng của Lazière, Yu IlHan rút ra một khối lập phương nhỏ từ lồng ngực và giới thiệu đó chính là Bẫy Phục Hồi.
+
 
