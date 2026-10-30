@@ -36,7 +36,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Goblin | Goblins | Goblin | quái vật | 1 | Quái vật yêu tinh nhỏ da xanh |
 | Wight |  | Wight | quái vật | 1 | Undead cấp cao hơn Ngạ Quỷ |
 | Vampire |  | Ma Cà Rồng | quái vật | 1 | Undead cấp cao gần như người sống |
-| Dragon | Dragons; Ancient Dragon | Rồng | quái vật | 1 | Quái vật huyền thoại đỉnh cao |
+| Dragon | Dragons | Rồng | quái vật | 1 | Quái vật huyền thoại đỉnh cao |
+| Ancient Dragon | | Rồng Cổ Đại | quái vật | 2 | Rồng trưởng thành sau nhiều năm |
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity |  | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |

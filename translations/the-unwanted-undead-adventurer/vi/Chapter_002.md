@@ -40,7 +40,7 @@ Bằng cách nào đó, tôi sẽ hướng tới việc kích hoạt Tiến Hóa
 
 ◆◇◆◇◆
 
-Tiến Hóa Bản Thể từ Khô Lâu lên Ngạ Quỷ là việc đầu tiên tôi phải giải quyết. Dù đã quyết định chọn hướng đi đó, tôi vẫn không chắc về giới hạn năng lực chiến đấu của mình. Tôi vốn chỉ là một mạo hiểm giả Hạ Đồng Cấp nằm ở những nấc thang gần như dưới đáy của hội. Dẫu vậy, tôi vẫn khá khẩm hơn lũ mạo hiểm giả Thiết Cấp, những tân binh chân ướt chân ráo mới vào nghề. Nếu phải đánh giá một cách khách quan về sức chiến đấu của bản thân, tôi có thể nói rằng việc hạ gục một hay hai con Goblin và Khô Lâu là hoàn toàn khả thi, và nằm trọn trong ngưỡng an toàn. Ít nhất thì tôi cũng làm được chừng đó—
+Tiến Hóa Bản Thể từ Khô Lâu lên Ngạ Quỷ là việc đầu tiên tôi phải giải quyết. Dù đã quyết định chọn hướng đi đó, tôi vẫn không chắc về giới hạn năng lực chiến đấu của mình. Tôi vốn chỉ là một mạo hiểm giả Hạ Đồng Cấp nằm ở những nấc thang gần như dưới đáy của hội. Dẫu vậy, tôi vẫn khá khẩm hơn các mạo hiểm giả Thiết Cấp, những tân binh chân ướt chân ráo mới vào nghề. Nếu phải đánh giá một cách khách quan về sức chiến đấu của bản thân, tôi có thể nói rằng việc hạ gục một hay hai con Goblin và Khô Lâu là hoàn toàn khả thi, và nằm trọn trong ngưỡng an toàn. Ít nhất thì tôi cũng làm được chừng đó—
 
 Dẫu rằng có lẽ tôi khó lòng lành lặn toàn thân mà rút lui.
 
@@ -78,7 +78,7 @@ Thêm vào đó, do bản chất là năng lực được các đấng thiêng l
 
 Trong trường hợp này, nếu chỉ xét một người bình thường thì chắc chắn trong người họ sẽ chẳng có lấy một mảy may Thần Lực. Nhưng tôi, vì lý do này hay lý do khác, lại sở hữu một chút Thần Lực le lói trong người. Dù nói là vậy, một chút thì vẫn chỉ là một chút, nên những việc lớn lao đều nằm ngoài tầm với của tôi.
 
-Nếu trí nhớ không lầm, chút Thần Lực ít ỏi này bắt nguồn từ một biến cố thời thơ ấu, khi chẳng hiểu vì sao tôi lại quyết định tu sửa một ngôi đền xập xệ ở địa phương. Những tinh linh cư ngụ tại ngôi đền ấy có lẽ thấy thích hợp nên đã ban phước cho tôi, và mọi chuyện chỉ có vậy.
+Nếu trí nhớ không lầm, chút Thần Lực ít ỏi này bắt nguồn từ một kỷ niệm thời nhỏ, khi chẳng hiểu vì sao tôi lại quyết định tu sửa một ngôi đền xập xệ ở địa phương. Những tinh linh cư ngụ tại ngôi đền ấy có lẽ thấy thích hợp nên đã ban phước cho tôi, và mọi chuyện chỉ có vậy.
 
 Dù kể từ đó tôi có thể sử dụng thần thuật đôi chút, tất cả những gì tôi làm được chỉ là lọc sạch nước bẩn để uống an toàn, hoặc khử trùng vết thương tránh nhiễm trùng. Những việc như lập tức khép miệng vết thương hay thanh tẩy đất đai ô uế đã, và đáng tiếc là hiện tại vẫn, hoàn toàn vượt quá khả năng của tôi.
 
@@ -132,7 +132,7 @@ Chính vì thế, nhiệm vụ đầu tiên của tôi là tìm kiếm và đán
 
 Còn về những quái vật mà ngay cả một Khô Lâu bình thường cũng có thể đánh bại... Slime, Goblin và những Khô Lâu khác lập tức hiện lên trong tâm trí tôi. Rất may là chúng đều có thể được tìm thấy ngay trong chính mê cung này. Mặc dù hiện tại tôi đang ở trong một khu vực chưa từng được khám phá của Mê Cung Nguyệt Ảnh, tôi nhớ mình đã thấy khá nhiều quái vật trên đường đến đây.
 
-Có nhiều giả thuyết giải thích lý do vì sao quái vật lại tồn tại trong các mê cung ngay từ đầu. Tuy nhiên, tất cả những giả thuyết đó dường như đều thống nhất ở một điểm: quái vật sẽ tái xuất hiện sau một khoảng thời gian nhất định một khi bị tiêu diệt. Hiện tượng thường được gọi là "Tái Sinh Quái" này sẽ chứng kiến lũ quái vật tự hồi sinh vào bất kỳ thời điểm nào, từ ba mươi phút cho tới vài ngày, hoặc đôi khi là vài năm. Đặc biệt, lũ quái vật yếu trong mê cung được quan sát là sẽ xuất hiện trở lại trong vòng xấp xỉ một giờ đồng hồ.
+Có nhiều giả thuyết giải thích lý do vì sao quái vật lại tồn tại trong các mê cung ngay từ đầu. Tuy nhiên, tất cả những giả thuyết đó dường như đều thống nhất ở một điểm: quái vật sẽ tái xuất hiện sau một khoảng thời gian nhất định một khi bị tiêu diệt. Theo hiện tượng thường được gọi là "Tái Sinh Quái" này, lũ quái vật sẽ tự hồi sinh vào bất kỳ thời điểm nào, từ ba mươi phút cho tới vài ngày, hoặc đôi khi là vài năm. Đặc biệt, lũ quái vật yếu trong mê cung được quan sát là sẽ xuất hiện trở lại trong vòng xấp xỉ một giờ đồng hồ.
 
 Dẫu không thể xác định chính xác bao nhiêu thời gian đã trôi qua kể từ khi bị Rồng nuốt chửng, tôi tin chắc thời gian cần thiết để lũ quái vật tái xuất hiện đã trôi qua từ lâu. Rốt cuộc thì cái chết của tôi chẳng giống một chuyện chỉ diễn ra trong vỏn vẹn năm đến mười phút. Dù thật ngớ ngẩn khi nghĩ đồng hồ sinh học của mình còn chuẩn xác trong khi bản thân giờ chỉ là một đống xương khô khốc, tôi chỉ việc chờ đợi quanh đây nếu lỡ như ước tính thời gian của mình bị sai lệch.
 

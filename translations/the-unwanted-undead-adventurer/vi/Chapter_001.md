@@ -14,7 +14,7 @@
 
 Thế này... Thế này tệ thật rồi.
 
-Đó là ý nghĩ đầu tiên lóe lên trong đầu tôi khi con quái vật trước mặt hé mở bờ môi đỏ như máu, há to cái miệng ngoác ra rồi lao thẳng về phía tôi.
+Đó là ý nghĩ đầu tiên lóe lên trong đầu tôi khi con quái vật trước mặt mở toang bờ môi đỏ như máu, há to cái miệng ngoác ra rồi lao thẳng về phía tôi.
 
 Tại một góc hẻo lánh nơi vùng biên viễn có Vương Quốc Yaaran tọa lạc, và nằm ở rìa vương quốc là một thị trấn nhỏ mang tên Maalt. Tôi, Rentt Faina, một mạo hiểm giả Hạ Đồng Cấp, đang săn lùng lũ quái vật yếu ớt trong Mê Cung Nguyệt Ảnh—nơi mà, tiện thể nói luôn, nằm khá gần thị trấn Maalt. Vào ngày hôm nay, cũng như bao ngày khác, tôi vẫn miệt mài săn đuổi Khô Lâu và Goblin, gom nhặt từng chút nguyên liệu cùng quặng ma pháp ít ỏi mà mình có thể kiếm được.
 
@@ -84,7 +84,7 @@ Khoan đã. Không, không không không. Điều đó là bất khả thi.
 
 Đó là những gì tôi nghĩ khi tỉnh dậy và xác nhận lại tình hình xung quanh.
 
-Tất cả những chuyện này dường như là bất khả thi, đặc biệt là việc những gì đã xảy ra với cơ thể tôi. Tôi chẳng thể nào tiếp thu nổi những chuyện đang diễn ra; dẫu vậy, trước tiên tôi cần phải nhìn vào đôi bàn tay của mình đã.
+Tất cả những chuyện này dường như là bất khả thi, đặc biệt là chuyện đã xảy ra với cơ thể tôi. Tôi chẳng thể nào tiếp thu nổi những chuyện đang diễn ra; dẫu vậy, trước tiên tôi cần phải nhìn vào đôi bàn tay của mình đã.
 
 Chính vào lúc ấy, sự thật phũ phàng ập đến với tôi. Chẳng hề có chút da thịt nào trên đôi bàn tay—dù đáng lẽ ra phải có—và cũng chẳng hề có lấy một mẩu da. Thực tế, tất cả những gì còn sót lại từ thứ từng là bàn tay của tôi chỉ là những khúc xương trắng hếu và mảnh khảnh nối liền nhau.
 

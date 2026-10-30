@@ -10,7 +10,7 @@ Những khúc xương của nó va vào nhau, phát ra thứ âm thanh ghê rợ
 
 Khô Lâu—
 
-Tôi đã giao chiến với chúng rất nhiều lần trong suốt sự nghiệp mạo hiểm giả của mình. Thế nhưng giờ đây, tôi lại thấy bản thân ghê tởm sự tồn tại của chúng một cách mới mẻ, có lẽ là do góc nhìn hoàn toàn mới của tôi lúc này.
+Tôi đã giao chiến với chúng rất nhiều lần trong suốt sự nghiệp mạo hiểm giả của mình. Thế nhưng giờ đây, tôi lại thấy dấy lên một nỗi ghê tởm đối với sự tồn tại của chúng, có lẽ là do góc nhìn hoàn toàn mới của tôi lúc này.
 
 Một khi sinh vật sống đã biến thành một đống xương, nó chắc chắn sẽ chẳng bao giờ đứng dậy được nữa. Ấy thế mà con Khô Lâu trước mắt tôi vẫn cử động bất chấp điều đó, như một sự ngang nhiên thách thức các quy luật sinh tử thiêng liêng. Càng nhìn nó, tôi càng cảm thấy sự tồn tại của nó tự thân đã là một sự bỡn cợt đối với tự nhiên.
 
@@ -24,7 +24,7 @@ Dù cảm giác như mình đã thấu triệt thực tế về trạng thái m�
 
 Mặc dù vậy, tôi không còn lựa chọn nào khác ngoài việc tiến lên. Tôi phải đánh bại con Khô Lâu trước mặt này và tiến hóa thành Ngạ Quỷ bằng mọi giá! Với quyết tâm đó, tôi dồn hết sức lực vào nhiệm vụ, lấy đà lao thẳng về phía con Khô Lâu đối diện—
 
-Ít nhất thì đó là những gì tôi muốn làm. Tốc độ tôi lao về phía con Khô Lâu kia, nói giảm nói tránh thì đúng là chậm đến thảm hại. Tôi cho là người ta có thể gọi đó là một kiểu chạy, hoặc có lẽ là chạy bộ dưỡng sinh. Tuy nhiên, tốc độ di chuyển đó quả thực còn lâu mới đạt yêu cầu—nó hoàn toàn không giống nhịp độ phù hợp cho một trận chiến.
+Ít nhất thì đó là những gì tôi muốn làm. Tốc độ tôi lao về phía con Khô Lâu kia, nếu không tìm được từ nào chuẩn xác hơn thì đúng là chậm đến thảm hại. Tôi cho là người ta có thể gọi đó là một kiểu chạy, hoặc có lẽ là chạy bộ dưỡng sinh. Tuy nhiên, tốc độ di chuyển đó quả thực còn lâu mới đạt yêu cầu—nó hoàn toàn không giống nhịp độ phù hợp cho một trận chiến.
 
 Chí ít tôi vẫn nhanh hơn một cư dân bình thường của thị trấn Maalt. Nhưng tôi vẫn chậm hơn rõ rệt so với các mạo hiểm giả thông thường, kể cả những mạo hiểm giả Thiết Cấp có thứ hạng thấp nhất.
 
