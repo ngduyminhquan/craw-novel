@@ -8,7 +8,7 @@ Lazière không có mảy may một chút sức lực nào để ngăn cản bư
 
 Lazière cắn môi phủ nhận điều đó.
 
-[Tôi là thuộc hạ của ngài ấy. Tôi không hề nghi ngờ thắng lợi tất yếu của ngài.]
+[Tôi là thuộc hạ của ngài ấy. Tôi không hề nghi ngờ thắng lợi tất yếu của ngài ấy.]
 
 "Vừa rồi cô đã phạm phải vài sai lầm. Và hai sai lầm này đều bắt nguồn từ một ngộ nhận duy nhất — cô đã đánh giá sai về tôi."
 
@@ -172,7 +172,7 @@ Phải rồi, Michael là một Kẻ Siêu Việt. Một thực thể toàn vẹ
 
 Michael ngắt lời Zenusva và cất tiếng.
 
-[Ta không cần phải ngoảnh đầu lại. Ta không cần phải chuẩn bị. Ta là tuyệt đối và ta là cô độc. Hơi nước? Chất độc? Hỏa diễm? Ta đếch cần bận tâm. Ta đã không nhìn thấy hiện tại vì bị trói buộc bởi quá khứ của mình, nhưng giờ đây ta đã nhận ra nhờ có ngươi. Ta đã giác ngộ nhờ vào một kẻ bất toàn như ngươi.]
+[Ta không cần phải ngoảnh đầu lại. Ta không cần phải chuẩn bị. Ta là tuyệt đối và ta là cô độc. Hơi nước? Chất độc? Hỏa diễm? Ta chẳng màng bận tâm. Ta đã không nhìn thấy hiện tại vì bị trói buộc bởi quá khứ của mình, nhưng giờ đây ta đã nhận ra nhờ có ngươi. Ta đã giác ngộ nhờ vào một kẻ bất toàn như ngươi.]
 
 Quang huy của Michael trở nên đậm đặc hơn. Không, nó đã đạt đến mức chẳng thể định nghĩa là 'tồn tại' được nữa. Không rõ là luồng sáng rực rỡ kia phát ra từ Michael hay Michael bắt nguồn từ chính Ánh Sáng.
 

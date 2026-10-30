@@ -128,7 +128,7 @@ Trong mắt Yu IlHan, đây quả thực là tài năng đỉnh cao! Loài rồn
 
 "Lại nữa à?"
 
-Và người mà Yuni ngưỡng mộ nhất, cũng giống như bao loài rồng cùng Long tộc khác trên Trái Đất, chính chính là Yu IlHan, người quản lý Trái Đất. Dù sao thì sức mạnh của anh cũng là cao nhất cơ mà.
+Và người mà Yuni ngưỡng mộ nhất, cũng giống như bao loài rồng cùng Long tộc khác trên Trái Đất, chính là Yu IlHan, người quản lý Trái Đất. Dù sao thì sức mạnh của anh cũng là cao nhất cơ mà.
 
 Kể từ giây phút đầu tiên có thể cầm vũ khí bằng hai tay, con bé đã chọn lấy ngọn thương như thể đó là điều tự nhiên nhất trên đời, và giờ đây khi sở hữu ngoại hình của một thiếu nữ mười lăm tuổi, kỹ thuật của cô bé đã đạt tới trình độ khá cao.
 

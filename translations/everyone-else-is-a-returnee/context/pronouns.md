@@ -98,7 +98,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vera | Vera / kẻ phản bội | 295 | Thiên thần phản bội thuộc Quân Đội Thiên Giới bị trảm thủ |
 | Anafière | hắn / Anafière / Cánh Thứ 2 Của Ánh Sáng Rực Rỡ | 295 | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ |
 | Keshein | hắn / Keshein / con quái vật | 295 | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt |
-| Lazière | Lazière / ngài Lazière | 295 | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ |
+| Lazière | cô / nàng / Lazière / ngài Lazière | 295 | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ |
 | Crissière | hắn / Crissière / Cánh Thứ 3 Của Ánh Sáng Rực Rỡ | 296 | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Greed | gã / con quái vật / Greed | 299 | Thủ lĩnh Quân Đội Ma Hủy Diệt |
 | Ruby | nó / Ruby / con rồng đỏ | 302 | Con rồng đỏ sơ sinh thủ lĩnh bầy rồng Daréu |

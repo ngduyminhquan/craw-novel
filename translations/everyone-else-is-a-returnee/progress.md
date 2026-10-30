@@ -346,9 +346,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | reviewed |  |
 | 340 | 338 | Chapter_340 - Chapter 338_ Harmageddon – 14.txt | Harmageddon – 14 | reviewed |  |
 | 341 | 339 | Chapter_341 - Chapter 339_ Harmageddon – 15.txt | Harmageddon – 15 | reviewed |  |
-| 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | done |  |
-| 343 | 341 | Chapter_343 - Chapter 341_ Sole God – 2.txt | Sole God – 2 | done |  |
-| 344 | 342 | Chapter_344 - Chapter 342_ Sole God – 3.txt | Sole God – 3 | done |  |
+| 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | reviewed |  |
+| 343 | 341 | Chapter_343 - Chapter 341_ Sole God – 2.txt | Sole God – 2 | reviewed |  |
+| 344 | 342 | Chapter_344 - Chapter 342_ Sole God – 3.txt | Sole God – 3 | reviewed |  |
 | 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | todo |  |
 | 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | todo |  |
 | 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | todo |  |

@@ -80,11 +80,11 @@ Bọn họ vừa mới nói về việc thế giới chính quan trọng đến 
 
 Yu IlHan nhún vai giải thích cho những người chưa hiểu ra vấn đề.
 
-"Hắn đã bắt tay với Thượng Đế, đúng chứ? Thượng Đế nói sẽ tái tạo lại thế giới, vậy chẳng lẽ ngài ấy lại không xóa sổ luôn cả Minh Giới sao?"
+"Hắn đã bắt tay với Thượng Đế, đúng chứ? Thượng Đế nói sẽ tái tạo lại thế giới, vậy chẳng lẽ ông ta lại không xóa sổ luôn cả Minh Giới sao?"
 
 "Nhưng một khi chuyện đó xảy ra, sức mạnh của Satan sẽ......."
 
-"Thượng Đế sẽ không thể xóa sổ hoàn toàn thế giới chính trừ khi ngài ấy xử lý xong kẻ thủ lĩnh, thế nên chính xác mà nói, Thượng Đế sẽ xóa sổ Minh Giới theo thỏa thuận đồng thuận từ Satan. Có thể nói rằng hắn đang tự khiến bản thân yếu đi."
+"Thượng Đế sẽ không thể xóa sổ hoàn toàn thế giới chính trừ khi ông ta xử lý xong kẻ thủ lĩnh, thế nên chính xác mà nói, Thượng Đế sẽ xóa sổ Minh Giới theo thỏa thuận đồng thuận từ Satan. Có thể nói rằng hắn đang tự khiến bản thân yếu đi."
 
 "Vậy điều đó có nghĩa là Satan thực sự tin tưởng Thượng Đế và lại một lần nữa đứng về bên cạnh ngài ấy sao......?"
 
