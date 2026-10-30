@@ -547,3 +547,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Will of the Guardian | Kim YeSeul | ta | ngươi | 336 | Ý Chí Hộ Vệ phản ứng khi được kết nối tâm trí với Kim YeSeul |
 | YuNa | Leytna | con | Nữ thần Leytna / Đức bà Leytna / Người | 337 | Na YuNa đối thoại với tàn niệm Nữ Thần Sắc Đẹp Leytna |
 | Leytna | YuNa | ta | ngươi / con / YuNa | 337 | Tàn niệm Leytna truyền dạy bí quyết quyến rũ đàn ông cho Na YuNa |
+| Yu IlHan | Will of the Guardian | ta | ngươi | 338 | Yu IlHan ban tên mới Trái Đất cho Ý Chí Hộ Vệ |
+| Will of the Guardian | Yu IlHan | ta | ngươi | 338 | Ý Chí Hộ Vệ đối đáp và đồng thuận với Yu IlHan |

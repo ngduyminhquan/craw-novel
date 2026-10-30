@@ -750,6 +750,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm / năng lực: Độ bền không thể phá hủy chừng nào còn một giọt nước; không bốc hơi trước ngọn lửa có phẩm cấp thấp hơn; tự do biến đổi thành băng và hơi nước; hấp thụ nước làm một phần cơ thể; tăng 40% toàn bộ năng lực khi ở Trái Đất.
 - Xuất hiện tính đến chương 272-273: Sau khi quy phục IlHan, được phong ấn vào lòng hồ và trở thành Ý Chí Hộ Vệ; tiếp nhận tri thức ma pháp trận từ Ký Lục của IlHan và mana bóp méo thời không của Kim YeSeul, tự phân tách và thấm sâu vào lòng đất để tự vẽ và vận hành ma pháp trận quy mô toàn cầu; tính đến #273 đã chìm sâu 10km, bành trướng bao trùm lớp vỏ Trái Đất và cùng IlHan kích hoạt thành công ma pháp làm chậm thời gian trên toàn Trái Đất.
 - Trạng thái tính đến chương 336: Được Yu IlHan dùng Tuyên Cáo kết nối tâm trí với Kim YeSeul, Erta và Helièna để điều phối biến đổi thể xác và vận hành ma pháp trận thời không hỗ trợ đại dung hợp Trái Đất và Daréu; kinh hãi thét lên chửi IlHan là tên điên khi nhận ra Daréu và kế hoạch không tưởng của anh.
+- Trạng thái tính đến chương 338: Được Yu IlHan ban tên mới là Trái Đất (Earth) và trở thành bản thân Trái Đất mới sau khi hai thế giới dung hợp thành công; phối hợp cùng Yu IlHan kích hoạt kết giới Đồng Hồ Cát Vĩnh Hằng ngưng đọng thời gian trên quy mô toàn cầu.
 
 ### Pope
 - Giới tính, vai trò: Nữ, Giáo hoàng đứng đầu Giáo Hội Leytna tại thế giới Breya, từng là đệ nhất mỹ nhân lục địa; người phát hiện tiềm năng của Na YuNa và chọn cô làm thánh nữ kế nhiệm.

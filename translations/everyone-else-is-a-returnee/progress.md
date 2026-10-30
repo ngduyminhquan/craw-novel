@@ -342,7 +342,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 335 | 333 | Chapter_335 - Chapter 333_ Harmageddon – 9.txt | Harmageddon – 9 | reviewed |  |
 | 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | done |  |
 | 337 | 335 | Chapter_337 - Chapter 335_ Harmageddon – 11.txt | Harmageddon – 11 | done |  |
-| 338 | 336 | Chapter_338 - Chapter 336_ Harmageddon – 12.txt | Harmageddon – 12 | todo |  |
+| 338 | 336 | Chapter_338 - Chapter 336_ Harmageddon – 12.txt | Harmageddon – 12 | done |  |
 | 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | todo |  |
 | 340 | 338 | Chapter_340 - Chapter 338_ Harmageddon – 14.txt | Harmageddon – 14 | todo |  |
 | 341 | 339 | Chapter_341 - Chapter 339_ Harmageddon – 15.txt | Harmageddon – 15 | todo |  |
@@ -367,9 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
-
-
 
 
 ## Đã quyết
@@ -1070,3 +1067,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#336] Tiêu đề chương "Harmageddon – 10" có nên tiếp tục giữ nguyên tên arc theo glossary.md như các chương #327–#335 hay Việt hóa — Tạm dùng: "# Chương 336: Harmageddon – 10". Đề xuất: Giữ nguyên để thống nhất toàn bộ arc Harmageddon (chấp nhận cảnh báo QA). → Giữ nguyên 'Harmageddon – 10' đồng bộ toàn bộ arc Harmageddon (orchestrator)
 - [#336] Xưng hô khi Kim YeSeul liên kết tâm trí với Ý Chí Hộ Vệ (Will of the Guardian) — Tạm dùng: Kim YeSeul xưng "tôi", gọi "cậu / Ý Chí Hộ Vệ"; Ý Chí Hộ Vệ xưng "ta", gọi "ngươi". Đề xuất: Giữ nguyên phương án này phù hợp phong thái điềm đạm của Kim YeSeul và bản chất golem hộ vệ có giọng nam trầm của Ý Chí Hộ Vệ. → Chốt Kim YeSeul xưng 'tôi' gọi 'cậu / Ý Chí Hộ Vệ', Ý Chí Hộ Vệ xưng 'ta' gọi 'ngươi' (orchestrator)
 - [#337] Tiêu đề chương "Harmageddon – 11" giữ nguyên tên arc theo glossary.md như các chương #327–#336 — Tạm dùng: "# Chương 337: Harmageddon – 11" (chấp nhận cảnh báo QA để đồng bộ toàn arc). Đề xuất: Tiếp tục giữ nguyên "Harmageddon – 11". → Giữ nguyên 'Harmageddon – 11' đồng bộ toàn bộ arc Harmageddon (orchestrator)
+- [#338] Tên riêng Ý Chí Hộ Vệ được ban tặng 'Earth' trong thoại và ngôi kể — Tạm dùng: dịch là 'Trái Đất' (đồng nhất với bản thân Trái Đất mới). Phương án khác: giữ nguyên 'Earth' như một danh xưng riêng. → Chốt dịch là 'Trái Đất' đồng nhất với bản thân hành tinh Trái Đất mới (orchestrator)
+- [#338] Tiêu đề chương 'Harmageddon – 12' — Tạm dùng: giữ nguyên 'Harmageddon – 12' cho nhất quán với các chương 327–337 cùng arc. Phương án khác: dịch sang Hán Việt 'Đại Tận Thế – 12'. → Giữ nguyên 'Harmageddon – 12' đồng bộ toàn bộ arc Harmageddon (orchestrator)

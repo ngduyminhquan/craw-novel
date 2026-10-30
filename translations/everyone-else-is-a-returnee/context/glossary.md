@@ -767,7 +767,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Soul of Fire |  | Hỏa Hồn | vật phẩm | 278 | Nội giáp phẩm cấp Thần rèn từ xương Kelatuke, Hỏa Tâm, một phần Hỏa Ngục Long Thân và Ngọn Lửa Vĩnh Cửu |
 | Genesis |  | Khởi Nguyên | khác | 278 | Cảnh giới chế tạo tối cao kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma |
 | Creator |  | Kẻ Sáng Tạo | danh hiệu | 278 | Danh hiệu Yu IlHan nhận được sau khi chạm tới cảnh giới Khởi Nguyên và Sáng Tạo |
-| Creation |  | Sáng Tạo | khác | 278 | Cảnh giới chuyển hóa Hỗn Loạn thành Khai Sinh |
+| Creation |  | Sáng Tạo | kỹ năng | 278 | Cảnh giới chuyển hóa Hỗn Loạn thành Khai Sinh; từ #338 trở thành kỹ năng chủ động sau khi dung hợp Nấu Nướng, Rèn Đúc, Chế Tác Mana, Linh Hồn Phụ Ma và Ma Pháp Công Học |
 | Body of the Human Dragon |  | Nhân Long Thân | vật phẩm | 279 | Ngoại giáp phẩm cấp Thần rèn từ xương Echjar, Trái Tim Rồng, tàn tích Ý Chí Hỗn Loạn, một nửa Hỏa Ngục Long Thân cùng Orochi |
 | Flamesoul Dragon body | Flamesoul Dragon | Hỏa Hồn Long Thân | vật phẩm | 279 | Bộ giáp phẩm cấp Vĩnh Cửu dung hợp giữa Hỏa Hồn và Nhân Long Thân |
 | Ice demon |  | Ác Ma Băng | quái vật | 280 | Quái vật ác ma hệ băng được Erta triệu hồi làm đối thủ huấn luyện |

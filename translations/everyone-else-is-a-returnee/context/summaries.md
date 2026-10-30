@@ -2062,3 +2062,9 @@ Trong không gian trung gian rực đỏ của Cái Nôi Kỳ Tích, Kim YeSeul,
 Kang MiRae thấu hiểu lý do mình bị Yu IlHan thu hút, dốc toàn lực duy trì và cường hóa Quỹ Đạo Ngân Hà để đồng bộ hóa hai chiều không gian của Daréu và Trái Đất; tàn niệm của Nữ Thần Sắc Đẹp Leytna xuất hiện truyền dạy bí quyết làm đẹp để quyến rũ IlHan và trao tàn dư sức mạnh cuối cùng cho Na YuNa trước khi tan biến.
 Yu IlHan dùng Tuyên Cáo và triết lý Nấu Nướng đỉnh cao để cân bằng hai thế giới và đón nhận sự hỗ trợ kịp thời từ ma pháp không gian của Kang MiRae cùng kỳ tích tăng cường của Na YuNa giúp áp chế phản phệ.
 Cảnh kết thúc: Yu IlHan mỉm cười đầy hân hoan khi cảm nhận hai thế giới đã hòa làm một và sẵn sàng nghênh chiến các thế lực thù địch với tư cách Thượng Đế và Kẻ Sáng Tạo.
+
+## 338
+Yu IlHan nhận ra bản chất của Sáng Tạo vượt qua các giới hạn ghi chép thông thường, tiến hành dung hợp 5 kỹ năng sản xuất (Nấu Nướng, Rèn Đúc, Chế Tác Mana, Linh Hồn Phụ Ma, Ma Pháp Công Học) và chính thức thức tỉnh kỹ năng chủ động Sáng Tạo.
+Daréu và Trái Đất cân bằng hoàn mỹ rồi dung hợp thành công thành Trái Đất mới; Yu IlHan ban tên mới "Trái Đất" cho Ý Chí Hộ Vệ và đưa kỹ năng Sáng Tạo lên cấp 2 sau khi Cái Nôi Kỳ Tích hoàn tất sứ mệnh vỡ tan.
+Yu IlHan hạ độ cao xuống thành phố nổi đang bảo bọc mọi người và thông báo thành công; Kim YeSeul, Kang MiRae, Na YuNa, Liera và Helièna đều vui mừng nhưng ngỡ ngàng trước kế hoạch tiếp theo của anh.
+Cảnh kết thúc: Triệt để tuân thủ triết lý cẩn tắc vô áy náy chuẩn bị nghênh chiến các tầng lớp trùm cuối, Yu IlHan cùng Trái Đất (Ý Chí Hộ Vệ) kích hoạt Đồng Hồ Cát Vĩnh Hằng triển khai kết giới ngưng đọng thời gian dài nhất trong lịch sử trên toàn thế giới.
