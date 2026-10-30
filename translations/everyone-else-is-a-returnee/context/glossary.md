@@ -761,3 +761,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lord Susanoo |  | ngài Susanoo | danh hiệu | 275 | Tôn xưng của người dân Nhật Bản và Takagaki Asuha dành cho Yu IlHan |
 | Hourglass |  | Đồng Hồ Cát | vật phẩm | 275 | Tên gọi tắt của Đồng Hồ Cát Vĩnh Hằng |
 | Vibration Demon | vibration demon | Ác Ma Rung | quái vật | 275 | Quái vật ác ma có cơ thể rung chấn liên tục |
+| Thousand Eyes |  | Thiên Nhãn | vật phẩm | 276 | Bản nâng cấp của Bách Nhãn trên Pháo Đài Bay gồm 1.004 chiếc Gương Hủy Diệt, phẩm cấp Bán Thần |

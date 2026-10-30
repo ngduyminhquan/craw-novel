@@ -280,7 +280,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 273 |  | Chapter_273 - If You Wish To Follow Me – 8.txt | If You Wish To Follow Me – 8 | reviewed |  |
 | 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | reviewed |  |
 | 275 |  | Chapter_275 - Why Only Me_ – 2.txt | Why Only Me_ – 2 | reviewed |  |
-| 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | todo |  |
+| 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | done |  |
 | 277 |  | Chapter_277 - Why Only Me_ – 4.txt | Why Only Me_ – 4 | todo |  |
 | 278 |  | Chapter_278 - Why Only Me_ – 5.txt | Why Only Me_ – 5 | todo |  |
 | 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -973,3 +974,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#274] Tiêu đề arc mới "Why Only Me?" (#274–#279) — Tạm chọn: "Tại Sao Chỉ Có Mình Tôi? – N" ("Tại Sao Chỉ Có Mình Tôi? – 1" ở #274) để đúng nghĩa câu hỏi tu từ và đồng bộ ngôi xưng "Tôi" với các arc trước ("Nếu Muốn Theo Tôi", "Dù Tôi Đi Đâu", "Tôi Đi Cùng Cậu"). Phương án khác: "Sao Lại Chỉ Có Mình Tôi? – N" hoặc "Tại Sao Chỉ Riêng Tôi? – N". → Chốt dịch tiêu đề arc là "Tại Sao Chỉ Có Mình Tôi? – N" (đồng bộ ngôi xưng "Tôi" với các arc trước) (orchestrator)
 - [#274] Lời thoại nói chậm của người từ thế giới khác ở đoạn 109 ("Weeeeeeeeeee shhhhhhaaaaaaaaaaaaaaallllllll llllllllllllooooooooooooooooyaaaaaaaaaaaaalllllllll-") do ảnh hưởng ma pháp trận làm chậm — Tạm dịch kéo dài âm tiếng Việt thành `"Chuuuuuuuuuuuunnnnnnnnnnnnngggggggggggg ttttttttttôôôôôôôôôôiiiiiiiiii trrrrrrrrrrrrrunnnnnnnnnnnnnngggggggggg-"` (Chúng tôi trung...) theo tiền lệ #273 để trọn nghĩa tiếng Việt. Phương án khác: giữ nguyên dạng chữ kéo dài tiếng Anh hoặc dịch thành `"Chuuuuuuuuuuuunnnnnnnnnnnnngggggggggggg sssssssssssseeeeeeeeeeeeeee trrrrrrrrrrrrrunnnnnnnnnnnnnngggggggggg-"`. → Giữ nguyên cách dịch kéo dài âm tiếng Việt theo tiền lệ chương #273 để trọn nghĩa và không sót từ tiếng Anh (orchestrator)
 - [#275] Xưng hô giữa Michael Smithson và Carina Malatesta sau màn cưỡng hôn và yêu cầu gọi thẳng tên: tạm dùng 'tôi - anh / Michael' và 'tôi - Carina' (vừa bộc lộ tình cảm vừa giữ phong thái quý tộc/thủ lĩnh clan). Phương án khác: đổi sang 'em - anh'. → Chốt giữ nguyên "tôi - anh / Michael" và "tôi - Carina / cô" (phù hợp phong thái hai thủ lĩnh phương Tây chuyển sang gọi thẳng tên nhau) (orchestrator)
+- [#276] Lời thoại chơi chữ 1004 (thiên thần) của Mystic '[Why four? Is it because 1,004 (Angel)?]' — Tạm dịch: '[Sao lại là bốn cái? Vì số một nghìn không trăm lẻ bốn phát âm giống "thiên thần" à?]'. Đề xuất giữ nguyên cách diễn đạt này để người đọc hiểu ngữ cảnh tự nhiên mà không cần chú thích. → Giữ nguyên cách dịch giải nghĩa tự nhiên trong câu thoại ('[Sao lại là bốn cái? Vì số một nghìn không trăm lẻ bốn phát âm giống "thiên thần" à?]') để không cần dùng ngoặc chú thích theo rules.md (orchestrator)

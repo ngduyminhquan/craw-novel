@@ -1696,3 +1696,9 @@ Yu IlHan sắp xếp cho mọi người dùng chung Cái Nôi Kỳ Tích ngâm m
 Erta hỗ trợ triệu hồi một con Ác Ma Rung cấp cuối 200 vào kết giới để ba vị chủ clan cọ xát và tăng cấp.
 Cảnh kết thúc: Mở ra một năm rưỡi cuộc sống tu luyện đầy hứa hẹn bên trong kết giới của nhóm Yu IlHan.
 
+## 276
+Ba chủ clan chật vật chiến đấu với Ác Ma Rung dưới sự bảo bọc của Na YuNa; Yu IlHan phó thác cho Erta và YuNa rồi bắt tay vào đại tu Pháo Đài Bay.
+IlHan chế tác thêm 904 chiếc Gương Hủy Diệt nâng cấp Bách Nhãn thành Thiên Nhãn (1.004 gương, phẩm cấp Bán Thần) bất chấp Mystic than vãn; tiếp đó anh chiết xuất hàng triệu lít máu độc từ xác thực thể cấp cao của Quân Đội Ma Hủy Diệt và nếm độc để pha chế, vô tình luyện kỹ năng Nấu Nướng đạt cấp tối đa.
+Anh tẩm độc kết hợp nấu nướng ma pháp lên toàn bộ vũ khí bẫy rập, dùng xác khô cùng ma thạch chuyển chức 5 gia cố pháo đài nhưng vẫn chưa thể vượt qua phẩm cấp Thần.
+Cảnh kết thúc: Quyết tâm làm điều bất khả thi để đột phá giới hạn cho Pháo Đài Bay, Yu IlHan lôi xác khổng lồ của Kelatuke — Đại Thủ Môn Nhân chuyển chức 7 của Khu Vườn Hoàng Hôn — ra làm nguyên liệu khiến Mystic chết lặng.
+
