@@ -1850,6 +1850,12 @@ Một sinh vật dị dạng tựa thiên thần với ba cặp cánh rèm và v
 Liera cùng Helièna phối hợp đột kích: Liera dùng sóng xung kích từ thương bẻ cong chùm tia sáng tạo cơ hội cho Helièna áp sát truyền mị lực tối thượng.
 Cảnh kết thúc: Bất chấp mị lực tuyệt đối của Helièna, sinh vật vô cảm lập tức đổi mục tiêu ưu tiên sang kẻ gây cản trở di chuyển và bắn chùm tia sáng xuyên thủng bụng của Helièna.
 
+## 304
+Helièna bị trọng thương vùng bụng phải rút về sau cho Na YuNa trị thương; Liera dốc toàn lực dùng sóng xung kích từ ngọn thương kiềm tỏa kẻ địch, trong khi ma pháp của nhóm Erta, Kang MiRae và Kim YeSeul hoàn toàn bất lực trước khả năng kháng ma lực quái dị của nó.
+Orochi tận dụng cơ thể rồng chuyển chức 7 biến đổi cánh tay thành khẩu đại bác bắn ngọn cốt thương Súng Bắn Cọc giáng đòn chí mạng xuyên thủng vòng hào quang của kẻ địch; tuy nhiên nó lập tức phân tích ký lục và tái hiện Súng Bắn Cọc bắn trả, buộc Mystic phải thu nạp đòn đánh vào kết giới chôn xuống đất.
+Bị tổn hại, kẻ địch đình chỉ hồi phục và tạo ra ba vòng hào quang xoay tít truy kích dữ dội nghiền nát lớp giáp Kelatuke; lợi dụng lúc nó mất tập trung, Orochi ẩn thân bắn ngọn cốt thương dự trữ thứ hai nghiền nát nó từ đỉnh đầu tới hạ bộ, kết liễu thành công sinh vật bí ẩn.
+Cảnh kết thúc: Vừa hạ gục kẻ địch và nhận được điểm kinh nghiệm ẩn danh (Lv??? ??????) giống ngón nghề của Yu IlHan, cả nhóm bàng hoàng khi ba sinh vật bí ẩn tương tự đồng loạt xuất hiện giương tay tuyên bố loại trừ.
+
 
 
 

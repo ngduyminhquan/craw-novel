@@ -489,3 +489,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liera | Zeàr | ta / tôi | ngươi | 303 | Liera đáp trả và tiêu diệt Zeàr |
 | Helièna | Kang MiRae | ta | cô / tiểu thư | 303 | Helièna hỏi Kang MiRae về việc mở cổng không gian |
 | Kang MiRae | Helièna | tôi | cô | 303 | Kang MiRae giải thích việc cổng bị chặn |
+| Liera | Orochi | ta / tôi | ngươi / Orochi | 304 | Liera phối hợp chiến đấu và quát Orochi |
+| Orochi | Liera | ta | ngươi / cô | 304 | Orochi phối hợp tác chiến cùng Liera |
+| Helièna | Orochi | ta | ngươi / con rắn ngốc | 304 | Helièna phàn nàn và chê bai Orochi |
+| Orochi | Helièna | ta | ngươi | 304 | Orochi tranh cãi với Helièna về Súng Bắn Cọc |

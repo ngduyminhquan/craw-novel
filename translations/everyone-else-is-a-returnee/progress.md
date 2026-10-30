@@ -308,7 +308,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 301 | 299 | Chapter_301 - Chapter 299_ I Will Achieve – 9.txt | I Will Achieve – 9 | reviewed |  |
 | 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | reviewed |  |
 | 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | done |  |
-| 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | todo |  |
+| 304 | 302 | Chapter_304 - Chapter 302_ I Am Your Father – 3.txt | I Am Your Father – 3 | done |  |
 | 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | todo |  |
 | 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | todo |  |
 | 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | todo |  |
@@ -1009,3 +1009,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#302] Tôn xưng bầy rồng gọi Yu IlHan [To the Supreme!] ở đoạn 23 — Tạm chọn: "Đấng Tối Cao" (tôn xưng cá nhân thiêng liêng) thay vì "Thực thể tối cao" (thuật ngữ Supremes trong glossary chỉ nhóm 5 lãnh tụ các phe). Phương án khác: "Thực thể tối cao". Tạm dùng trong bản dịch: "Đấng Tối Cao". → Giữ 'Đấng Tối Cao' khi bầy rồng tôn xưng cá nhân Yu IlHan là 'the Supreme'. (orchestrator)
 - [#303] Cụm 'The Fifth faction, Irregulars of the Akashic Record' từ kẻ địch mới: tạm dịch là 'Phe phái thứ năm, những kẻ dị thường của Hồ Sơ Akashic' (thống nhất với #229 dịch 'irregular' là 'kẻ dị thường'). → Chốt dịch là 'Phe phái thứ năm, những kẻ dị thường của Hồ Sơ Akashic' và giữ 'irregular -> kẻ dị thường' trong glossary.md. (orchestrator)
 - [#303] Tên nữ thần 'Lady Letyna' trong lời cầu nguyện của Na YuNa ở raw là biến thể chính tả của 'Lady Leytna': tạm giữ bản dịch là 'Nữ Thần Leytna' và thêm 'Lady Letyna' vào Alias trong glossary. → Giữ 'Nữ Thần Leytna' theo cách viết đã chốt và thêm 'Lady Letyna' vào Alias. (orchestrator)
+- [#304] Các từ tham chiếu game 'Megam*n', 'Mega B*ster', 'B-d*man' trong thoại và suy nghĩ có dấu sao: tạm giữ nguyên dạng che chữ bằng dấu sao `*` theo raw và theo quy tắc rules.md. Phương án khác: bỏ dấu sao thành 'Megaman', 'Mega Buster', 'B-Daman'. Tạm dùng trong bản dịch: 'Megam*n', 'Mega B*ster', 'B-d*man'. → Giữ nguyên dạng che chữ bằng dấu sao ('Megam*n', 'Mega B*ster', 'B-d*man') theo đúng rules.md. (orchestrator)
+- [#304] Khẩu lệnh lặp lại của sinh vật bí ẩn [Eliminate.] / [Eliminating...]: tạm dùng [Loại trừ.] / [Loại trừ...] (đồng bộ nhất quán với chương #303 cùng arc). Phương án khác: [Tiêu trừ.] / [Tiêu diệt.]. Tạm dùng trong bản dịch: [Loại trừ.]. → Giữ '[Loại trừ.]' / '[Loại trừ...]' đồng bộ với chương 303. (orchestrator)
