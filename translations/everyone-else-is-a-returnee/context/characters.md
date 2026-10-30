@@ -117,6 +117,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Luciel |  | Luciel | Tên thuở ban đầu của Satan khi còn là Đại Thiên Thần trước khi phản bội và sa ngã (#320) | 320 |
 | Miriel | Archangel Miriel | Miriel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới | 324 |
 | Tachiel |  | Tachiel | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 | 326 |
+| Limaère | Limaere; Lima | Limaère | Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, thực thể cấp 7 thuộc phe Satan bị Orochi tiêu diệt | 328 |
 
 ## Chi tiết
 
@@ -973,3 +974,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Miriel
 - Giới tính, vai trò: Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới.
 - Xuất hiện: Chương 324 (được các thiên thần xưng danh hiệu triệu tiêu diệt Yu IlHan).
+
+### Limaère
+- Giới tính, vai trò: Nam, Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, thực thể cấp 7 thuộc Quân Đội Ánh Sáng Rực Rỡ của Satan.
+- Xuất hiện/tử trận tính đến chương 328: Vượt qua cánh cổng thứ nguyên xông vào Daréu, dùng đại ma pháp Diệt Thế Bộc Viêm tấn công Mystic; bị Orochi chặn đòn và dùng kịch độc cùng lời nguyền từ nanh độc đâm xuyên kháng ma pháp làm tê liệt, sau đó bị Orochi trảm sát bằng trảm kích hỏa diễm tím; trở thành thực thể cấp 7 đầu tiên ngã xuống giúp Orochi thăng cấp lên chuyển chức 7.

@@ -711,7 +711,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Dimensional Traveller | Dimensional Traveler | Du Hành Giả Thứ Nguyên | chức nghiệp | 219 | Chức nghiệp phụ độc nhất Yu IlHan đạt được, giảm tài nguyên tiêu hao khi di chuyển giữa các thứ nguyên |
 | Dimensional Adaptation |  | Thích Ứng Thứ Nguyên | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên giúp xóa bỏ mọi phạt chỉ số ở bất kỳ thứ nguyên nào |
 | Fleet Command |  | Chỉ Huy Hạm Đội | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên cho phép mang thành viên đi cùng khi di chuyển chiều không gian và chia sẻ Thích Ứng Thứ Nguyên |
-| Ruler of Dimensions | Dimensional Ruler | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
+| Ruler of Dimensions | Dimensional Ruler; Dimensional ruler | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
 | Maha prajna para mita |  | Ma ha bát nhã ba la mật đa | khác | 219 | Câu chân ngôn tiếng Phạn Bát Nhã Ba La Mật Đa (Maha Prajnaparamita) do Orochi trì tụng khi tịnh tâm thiền định |
 | High-class Holy power control |  | Điều Khiển Thánh Lực Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
 | High-class blessing |  | Chúc Phúc Cấp Cao | kỹ năng | 221 | Kỹ năng Na YuNa đạt cảnh giới Đại Thành (Master), có thể tiến hóa khi đạt điều kiện |
@@ -819,3 +819,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Godspear |  | Thần Thương | vật phẩm | 325 | Ngọn thương tối thượng Yu IlHan ngưng tụ từ vạn ngàn ký lục, kết hợp sức mạnh của Thần Rèn Đúc và Thần Lửa vượt qua mọi giới hạn ngôn từ và phẩm cấp |
 | Brightest-shining Star | brightest, shining, star; Brightest-shining star | Ngôi Sao Sáng Nhất | danh hiệu | 325 | Danh xưng tôn vinh Yu IlHan, vị Kẻ Thứ Năm tỏa sáng rực rỡ hơn bất kỳ ai |
 | Dimensional magic | dimensional magic | Ma pháp không gian | kỹ năng | 327 | Ma pháp thao túng không gian và thứ nguyên của Kang MiRae |
+| Great Fusion |  | Đại Dung Hợp | khác | 328 | Hiện tượng dung hợp quy mô lớn nhiều thế giới thứ nguyên vào một thế giới duy nhất |
+| Fallen Editt |  | Fallen Editt | địa danh | 328 | Thế giới bậc cao do Quân Đội Ánh Sáng Rực Rỡ thống trị bị Yu IlHan dung hợp vào Daréu |
+| Dtchaë | Dtcha | Dtchaë | địa danh | 328 | Thế giới bậc cao do Quân Đội Thiên Giới thống trị bị Yu IlHan dung hợp vào Daréu |
+| Doom Flare |  | Diệt Thế Bộc Viêm | kỹ năng | 328 | Đại ma pháp hệ hỏa cấp 7 của Limaère thuộc Quân Đội Ánh Sáng Rực Rỡ |

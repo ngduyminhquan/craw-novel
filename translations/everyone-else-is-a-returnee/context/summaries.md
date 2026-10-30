@@ -2002,3 +2002,10 @@ Yu IlHan liên kết Pháo Đài Hộ Vệ và Pháo Đài Bay mở rộng thán
 Yu IlHan thi triển Hiển Hiện bao phủ Daréu, phát biểu động viên toàn quân trước giờ xuất trận, chuẩn bị hỏa thương khổng lồ và tập trung cho việc dung hợp.
 Cảnh kết thúc: Kang MiRae kích hoạt ma pháp không gian mở ra một trăm cánh cổng đầu tiên giữa không trung; Yu IlHan mở mắt hô vang lệnh khai chiến hướng về phía các thực thể cấp cao.
 
+## 328
+Kang MiRae mở 200 cánh cổng không gian kết nối tới các thế giới bậc cao của địch; lực hút từ Tấm Thảm cưỡng chế lôi hàng ngàn thực thể cấp cao về Daréu cho quân đoàn Long Sào tiêu diệt; Yu IlHan liên tục dung hợp các thế giới bậc cao vào Daréu khiến Mystic quá tải tinh thần.
+Sau khi dung hợp 30 thế giới, Daréu bùng nổ tiến hóa bước vào Đại Tai Biến lần thứ 7; Yu IlHan dùng Tuyên Cáo định hình thế giới tiến hóa thành pháo đài chiến đấu, biến cả thành phố thành một pháo đài bay độc lập.
+Cánh Thứ 10 Của Ánh Sáng Rực Rỡ Limaère (chuyển chức 7) đột kích nhắm vào Mystic nhưng bị Orochi dùng nanh kịch độc làm tê liệt và dùng trảm kích hỏa diễm tím kết liễu; Orochi đột phá thăng cấp lên chuyển chức 7 đầu tiên.
+Cảnh kết thúc: Yu IlHan tung quân bài tẩy thứ hai, giải phóng Cái Nôi Kỳ Tích hòa vào khí quyển Daréu và tuyên bố sẽ tiến hóa bất kỳ ai đủ tư cách thành rồng thực thụ chuyển chức 5, kích thích sĩ khí toàn quân sôi sục.
+
+

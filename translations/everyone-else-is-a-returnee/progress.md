@@ -332,7 +332,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | reviewed |  |
 | 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | reviewed |  |
 | 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | done |  |
-| 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | todo |  |
+| 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | done |  |
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | todo |  |
 | 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | todo |  |
 | 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | todo |  |
@@ -1047,3 +1047,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#325 đoạn 15] Dịch cụm minor being trong màn đối đáp giữa Michael và Yu IlHan → Thống nhất dùng sinh linh hạ đẳng ở cả đoạn 9 và đoạn 15 để giữ sự đối chiếu mỉa mai. (orchestrator)
 - [#326 định dạng] Dấu ngoặc kép lời thoại trong chương 326 → Chuyển toàn bộ dấu ngoặc kép cong sang ngoặc kép thẳng theo đúng rules.md. (orchestrator)
 - [#327] Tiêu đề chương và tên arc 'Harmageddon' — Tạm dùng: giữ nguyên 'Harmageddon – 1' theo glossary.md (đã chốt ở #314); nếu user muốn thuần Việt có thể đổi thành 'Đại Chiến Tận Thế – 1'. → Giữ nguyên Harmageddon – N theo glossary.md đã chốt từ #314. (orchestrator)
+- [#328] Kỹ năng ma pháp cấp 7 "Doom Flare" của Limaère — Tạm chọn: "Diệt Thế Bộc Viêm". Phương án khác: "Diệt Vong Bộc Viêm", "Hỏa Diễm Tận Thế". → Giữ Diệt Thế Bộc Viêm (Hán Việt ngắn gọn theo rules.md). (orchestrator)
