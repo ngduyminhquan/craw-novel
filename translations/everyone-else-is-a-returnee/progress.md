@@ -364,7 +364,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | reviewed |  |
 | 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | reviewed |  |
 | 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | reviewed |  |
-| 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | done |  |
+| 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | reviewed |  |
 
 ## Cần user xác nhận
 

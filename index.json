@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T18:22:10Z",
+  "generatedAt": "2026-10-30T18:29:46Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2146,7 +2146,7 @@
           "number": 360,
           "title": "Chương 360: Ngoại Điển (5)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_360.md",
-          "sha": "33d7d46a82f7b1cd29811cda0291957e1bee01fd"
+          "sha": "00101f70836f706f4455a45c5759bbe0c2e3a55e"
         }
       ]
     },

@@ -40,7 +40,7 @@ Sau khi rút ra kết luận đó, Yu IlHan tò mò hỏi nữ thiên thần.
 
 Nữ thiên thần ngồi trên thuyền ngân nga một giai điệu, đung đưa hai chân trên mặt nước phẳng lặng.
 
-Sự phi nhân loại của cô lộ rõ qua việc chiếc thuyền chẳng hề phải chịu chút trọng lượng nào.
+Bản chất phi phàm của cô lộ rõ qua việc chiếc thuyền chẳng hề phải chịu chút trọng lượng nào.
 
 Mái tóc cô tỏa sáng rực rỡ dưới ánh trăng, và Yu IlHan ngây người nhìn vào những đường nét trên cơ thể cô nhưng đã nhanh chóng lắc đầu để tỉnh táo lại.
 
@@ -106,7 +106,7 @@ Nếu tin thì mình sẽ bị phản bội.
 
 Nếu không tin ngay từ đầu thì mình sẽ không bao giờ bị phản bội.'
 
-Hồi tưởng lại câu nói nổi tiếng của người huấn luyện của mình ngày hôm nay, IlHan ho khan vài tiếng vô ích. Đúng lúc đó, chiếc cần câu đang rũ xuống của anh khẽ cựa quậy.
+Nhớ lại câu thoại nổi tiếng của Trainer hôm nay, IlHan tằng hắng một tiếng chữa ngượng. Đúng lúc đó, chiếc cần câu đang rũ xuống của anh khẽ cựa quậy.
 
 "Là cá voi đấy!"
 
@@ -142,7 +142,7 @@ Thế nhưng, Yu IlHan chẳng còn nghe thấy nữ thiên thần nói gì nữ
 
 Nhưng đó không phải là một con cá mó hay cá thu.
 
-Khi dây cước thu lại kéo nhấc bổng IlHan lên, bên dưới mạn thuyền là một bóng đen khổng lồ đến phi lý.
+Khi dây cước thu lại kéo nhấc bổng IlHan lên, bên dưới mạn thuyền là một sinh vật khổng lồ. Anh có thể nhìn thấy một bóng đen to lớn đến phi lý.
 
 "Nó sắp làm nát thuyền rồi!" IlHan lo lắng kêu lên.
 
@@ -174,7 +174,7 @@ Tình hình lúc này chẳng hề dễ dàng chút nào. Chỉ có Thượng Đ
 
 "Đương nhiên rồi. Cứ đâm đi," nữ thiên thần khẳng định.
 
-"Ơ, ơ, Oa-a-a!"
+"Ơ, ơ, Oái-i-i!"
 
 [Gùùùùùùùùùùùùùùù!]
 
@@ -266,7 +266,7 @@ Nữ thiên thần liếc nhìn ngọn Thương Longinus, nhưng cô chẳng th�
 
 "Không đâu."
 
-Đến đó, nữ thiên thần phủ nhận lời anh.
+Thế nhưng, nữ thiên thần lập tức phủ nhận lời anh.
 
 "Ta nghĩ cậu khá có khiếu ném lao đấy. Có lẽ cậu có tài dùng thương..."
 
@@ -288,7 +288,7 @@ Có lẽ bước đầu tiên cậu vừa bước sẽ lưu lại một quỹ đ
 
 "Ơ... tôi hiểu rồi, ừm."
 
-Trên biển đêm, con cá voi bị vỡ tim đang chìm dần xuống. Nữ thiên thần ôm lấy Yu IlHan trong khi đôi cánh lông vũ uy nghiêm của cô khẽ vỗ. Cô nhìn anh bằng ánh mắt nghiêm túc, nói với anh những lời như thế.
+Trên biển đêm, con cá voi bị nổ tung tim đang chìm dần xuống. Nữ thiên thần ôm lấy Yu IlHan trong khi đôi cánh lông vũ uy nghiêm của cô khẽ vỗ. Cô nhìn anh bằng ánh mắt nghiêm túc, nói với anh những lời như thế.
 
 "Vậy nên, khi có cơ hội, hãy cố gắng làm bất cứ điều gì cậu có thể. Nhưng hãy chỉ tập trung vào việc đâm thôi, đừng ném nữa nhé."
 
@@ -308,7 +308,7 @@ Yu IlHan khẽ ngoảnh đầu đi, cảm thấy có chút áp lực trước á
 
 "Phải rồi! Cậu có thiên phú tuyệt vời cho việc này đấy!" nữ thiên thần quả quyết.
 
-"Chị vui đến thế khi thấy tôi có thiên phú giết chóc một sinh vật sao?" IlHan hỏi.
+"Chị vui đến thế khi thấy tôi có thiên phú tước đoạt sinh mạng sao?" IlHan hỏi.
 
 'Sao lúc này mình lại ăn nói khó nghe thế nhỉ?'
 
@@ -330,4 +330,4 @@ Yu IlHan không thể đáp lời. Đột nhiên, anh muốn chạy trốn đi �
 
 Số lượng quái vật còn lại cho đến khi nhiệm vụ hoàn thành là ba con.
 
-[← Chương trước](Chapter_359.md) | [Chương tiếp theo →](Chapter_361.md)
+[← Chương trước](Chapter_359.md)

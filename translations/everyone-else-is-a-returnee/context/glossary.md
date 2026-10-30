@@ -868,3 +868,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Miss Blind | Ms. Blind | Cô Nàng Mù | khác | 357 | Biệt danh Yu IlHan đặt cho Na YuNa vì cô không nhận thấy sự hiện diện của anh |
 | Miss Cool | Ms. Cool | Cô Nàng Lạnh Lùng | khác | 357 | Biệt danh Yu IlHan đặt cho Kang MiRae trong chuyến đi Jeju thời cấp ba |
 | Jeju black pork | black pork belly; black pork | thịt lợn đen Jeju | khác | 359 | Đặc sản thịt lợn đen nổi tiếng của đảo Jeju |
+| trainer |  | Trainer | khác | 360 | Nhân vật trong game Closers (Hàn Quốc), tác giả câu thoại nổi tiếng về việc không đặt kỳ vọng/tin tưởng ngay từ đầu để khỏi bị phản bội |
