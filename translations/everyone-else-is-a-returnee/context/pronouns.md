@@ -517,3 +517,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gabriel | Uriel | tôi / ta | Uriel / cô | 320 | Gabriel cảm ơn và phân bua với Uriel |
 | Yu IlHan | Gabriel | con | bố | 321 | Yu IlHan đối thoại với cha mình dưới nhân dạng Gabriel |
 | Gabriel | Yu IlHan | bố | con / con trai / IlHan | 321 | Gabriel đối thoại với con trai Yu IlHan |
+| Gabriel | Kim YeSeul | anh / tôi | em / bà | 322 | Gabriel đối thoại với vợ Kim YeSeul |
+| Kim YeSeul | Gabriel | tôi / em | ông / anh | 322 | Kim YeSeul trút giận lên chồng Gabriel |
+| Gabriel | Liera | ta | con | 322 | Gabriel xưng hô thân mật với con dâu Liera |
+| Liera | Gabriel | con / tôi | ngài Gabriel / bố | 322 | Liera bối rối khi biết đại thiên thần Gabriel là bố chồng |

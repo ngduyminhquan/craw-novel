@@ -326,7 +326,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 319 | 317 | Chapter_319 - Chapter 317_ I’m One That Closes The Curtain – 1.txt | I’m One That Closes The Curtain – 1 | reviewed |  |
 | 320 | 318 | Chapter_320 - Chapter 318_ I’m One That Closes The Curtain – 2.txt | I’m One That Closes The Curtain – 2 | reviewed |  |
 | 321 | 319 | Chapter_321 - Chapter 319_ I’m One That Closes The Curtain – 3.txt | I’m One That Closes The Curtain – 3 | done |  |
-| 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | todo |  |
+| 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | done |  |
 | 323 | 321 | Chapter_323 - Chapter 321_ I’m One That Closes The Curtain – 5.txt | I’m One That Closes The Curtain – 5 | todo |  |
 | 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | todo |  |
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | todo |  |
@@ -1034,3 +1034,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#320] Thuật ngữ "Confronter of God" — Tạm chọn: "Kẻ Đương Đầu Thượng Đế". Phương án khác: "Kẻ Đối Đầu Thượng Đế". → Giữ Kẻ Đương Đầu Thượng Đế. (orchestrator)
 - [#318] Đoạn 67 chương 318: người nói câu cảm thán về uy lực Bẫy Phục Hồi → Xác nhận là Orochi nói (đối đáp với Mystic), dùng đại từ ta. (orchestrator)
 - [#321] Cách dịch cách gọi đùa 'Earth spoon' và 'dragon spoon' giữa Mystic và Yu IlHan — Tạm dùng: "thìa đất" và "thìa rồng" (chơi chữ văn hóa Hàn 흙수저 chỉ người xuất thân tầng lớp dưới/nghèo khó, kết hợp với việc IlHan sinh ra tại Trái Đất). Phương án khác: "muỗng đất", "ngậm thìa đất". → Giữ thìa đất và thìa rồng (tương ứng cụm ngậm thìa vàng / thìa đất trong tiếng Việt). (orchestrator)
+- [#322] Thuật ngữ 'Guardian castle' ở đoạn 98 (raw line 200) chỉ tòa lâu đài Yu IlHan xây tại Daréu — Tạm dùng: "Lâu Đài Hộ Vệ" (thống nhất với cụm Pháo Đài Hộ Vệ / Guardian Fortress). Phương án khác: "lâu đài Hộ Vệ", "thành Hộ Vệ". → Giữ Lâu Đài Hộ Vệ (nhất quán với Pháo Đài Hộ Vệ / Guardian Fortress). (orchestrator)

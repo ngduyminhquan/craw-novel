@@ -1963,3 +1963,9 @@ Yu IlHan gặng hỏi chuyện tình cảm và trêu chọc cha mình (Gabriel) 
 Yu IlHan tuyên xưng là vị Thần cứu thế, thuyết phục toàn thể nhân loại còn sống sót tại Heishia (tướng lĩnh, cựu hoàng đế, hiệp sĩ, lính đánh thuê) đồng lòng quy phục mình.
 Thế giới Heishia chính thức tiến vào lãnh địa của Yu IlHan và dung hợp thành công với Daréu, khép lại giai đoạn một của chiến dịch rải Bẫy Phục Hồi.
 Cảnh kết thúc: Trong lúc Gabriel than vãn và được Uriel ngượng ngùng cổ vũ, Yu IlHan chuẩn bị đưa mọi người trở về Daréu và bảo bố nghĩ sẵn lý do giải thích với mẹ.
+
+## 322
+Trở về Daréu sau khi sáp nhập Heishia, Yu IlHan đoàn tụ với Yumir và Liera; Gabriel thu hồi mana ẩn thân trở về nhân dạng trung niên khiến Liera ngỡ ngàng khi biết Đại Thiên Thần Gabriel kiêm thủ lĩnh Khu Vườn Hoàng Hôn chính là bố chồng tương lai của mình.
+Gabriel bị Kim YeSeul bạt tai trừng phạt dữ dội vì tội bỏ rơi gia đình; trong khi đó, Uriel ngỏ ý muốn gia nhập Long Sào và giải thích tình hình các phe phái, thôi thúc Yu IlHan lên kế hoạch chủ động tấn công Thiên giới để cướp kim loại cấp cao chế tạo Bẫy Phục Hồi.
+Kang MiRae hoàn tất việc di tản toàn bộ nhân loại Trái Đất sang Daréu; Yu IlHan kích hoạt kỹ năng Tuyên Cáo phát đi thông cáo hài hước trấn an người dân trên toàn thế giới Daréu.
+Cảnh kết thúc: Giữa lúc Gabriel van xin con trai cứu mạng trước cơn thịnh nộ của vợ tại Lâu Đài Hộ Vệ, 23 sinh thể Legna cấp trên 500 bất ngờ xé toạc kết giới xâm nhập Daréu; Yu IlHan mỉm cười đón nhận nguồn kim loại mới và thách thức Thượng Đế Thiên giới hãy điều quân đông gấp ba ngàn lần tới đây.

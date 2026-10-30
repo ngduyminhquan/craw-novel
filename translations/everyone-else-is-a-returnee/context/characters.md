@@ -914,11 +914,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Gabriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri (được Daiel nhắc đến trong suy nghĩ ở chương 293).
 - Xuất hiện tính đến chương 320: Chính là Yu YongHan (cha của Yu IlHan), đồng thời là thủ lĩnh sáng lập Khu Vườn Hoàng Hôn; hội ngộ Yu IlHan tại Heishia và tiết lộ chân tướng về việc Thượng Đế không phải Đấng sáng tạo chân chính, chỉ đang thiêu rụi linh hồn để làm nhiên liệu và âm mưu hủy diệt toàn bộ vạn vật để trở thành Thượng Đế duy nhất trong Harmageddon.
+- Xuất hiện tính đến chương 322: Trở về Daréu cùng Yu IlHan, thu hồi cánh và mana lặn vào cảnh giới ẩn thân sâu thẳm biến thành nhân dạng trung niên; bị Kim YeSeul tát liên hoàn trừng phạt tại Lâu Đài Hộ Vệ vì tội bỏ rơi gia đình.
 
 ### Uriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (được Yu IlHan suy đoán nắm giữ một phần sức mạnh và ký lục của Thượng Đế ở chương 318).
 - Giới tính, đặc điểm: Nữ, sở hữu mái tóc vàng bạch kim rực rỡ lóa mắt và đôi mắt màu vàng kim; nắm giữ thánh hỏa và một phần sức mạnh của đất.
 - Xuất hiện tính đến chương 319: Tìm gặp Yu IlHan theo chỉ dẫn của Gabriel, đề nghị đồng hành để quan sát hành động của anh với tư cách đại diện Quân Đội Thiên Giới.
+- Xuất hiện tính đến chương 322: Cùng Gabriel tới Daréu; đề nghị Yu IlHan cho phép gia nhập Long Sào mà vẫn giữ nguyên thực lực; giải thích tình hình Quân Đội Thiên Giới và mối đe dọa từ Greed của Quân Đội Ma Hủy Diệt.
 
 ### Crissière
 - Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 3 Của Ánh Sáng Rực Rỡ.

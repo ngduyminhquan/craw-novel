@@ -729,7 +729,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | meteor strike | Meteor strikes; meteor strikes | cú va chạm thiên thạch | khác | 237 | Kỹ thuật phối hợp điên rồ giáng thẳng hai pháo đài đã được Na YuNa thánh hóa xuống đầu kẻ thù với tốc độ cực nhanh do Mystic điều khiển |
 | Destiny Archer | Archer of Destiny | Cung Thủ Định Mệnh | chức nghiệp | 239 | Chức nghiệp chuyển chức lần 4 của Paté đạt được sau khi hạ sát thực thể cấp cao |
 | God of curses | god of curses; god of curse | Thần Lời Nguyền | khác | 239 | Vị thần hình thành từ tích lũy ghi chép lời nguyền trong Hồ Sơ Akashic muốn ban phước cho Paté |
-| Battalion Commander |  | Tiểu Đoàn Trưởng | cấp bậc | 242 | Chức vụ chỉ huy tiểu đoàn trong Quân Đội Ma Hủy Diệt, như Echjar là Tiểu Đoàn Trưởng Tiểu Đoàn 13 |
+| Battalion Commander | Battalion Commanders | Tiểu Đoàn Trưởng | cấp bậc | 242 | Chức vụ chỉ huy tiểu đoàn trong Quân Đội Ma Hủy Diệt, như Echjar là Tiểu Đoàn Trưởng Tiểu Đoàn 13 |
 | Dragon of Despair |  | Tuyệt Vọng Chi Long | danh hiệu | 242 | Danh hiệu của con rồng chuyển chức 7 Echjar thuộc Quân Đội Ma Hủy Diệt |
 | King of Dragons |  | Long Vương | danh hiệu | 243 | Danh hiệu tự xưng của Echjar, rồng chuyển chức 7 thuộc Quân Đội Ma Hủy Diệt |
 | Cradle of Miracles |  | Cái Nôi Kỳ Tích | vật phẩm | 245 | Tạo tác phẩm cấp Thần tiến hóa từ Đại Thùng sau khi Yu IlHan nâng cấp bằng ma thạch cấp 5 và cộng hưởng cùng máu rồng |
@@ -807,6 +807,9 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Adam and Eve |  | Adam và Eva | khác | 312 | Cặp đôi khởi thủy của loài người trong Kinh Thánh do Thượng Đế và Kang MiRae nhắc tới |
 | Harmageddon | harmageddon | Harmageddon | khác | 314 | Trận đại chiến tận thế theo điển tích Kinh Thánh |
 | Legna | Legnae | Legna | quái vật | 315 | Sinh thể thiên thần nhân tạo kháng mana do Thượng Đế chế tạo; tên viết ngược từ Angel; xuất hiện từ chương 314 dưới dạng golem |
-| Trap of Restoration | Traps of Restoration | Bẫy Phục Hồi | vật phẩm | 315 | Loại bẫy ma pháp mới do Yu IlHan nghiên cứu chế tạo từ Cái Nôi Kỳ Tích để đối trọng với Bẫy Hủy Diệt |
+| Trap of Restoration | Traps of Restoration; Traps of Regeneration | Bẫy Phục Hồi | vật phẩm | 315 | Loại bẫy ma pháp mới do Yu IlHan nghiên cứu chế tạo từ Cái Nôi Kỳ Tích để đối trọng với Bẫy Hủy Diệt |
 | Perfect Trap of Restoration |  | Bẫy Phục Hồi Hoàn Hảo | vật phẩm | 316 | Phiên bản Bẫy Phục Hồi phẩm cấp Thần do Yu IlHan chế tạo bằng toàn bộ sức mạnh để áp chế mana và đối trọng Bẫy Hủy Diệt |
 | Confronter of God |  | Kẻ Đương Đầu Thượng Đế | danh hiệu | 320 | Danh xưng và vai trò được Gabriel tiên tri dành cho Yu IlHan, kẻ sẽ trực tiếp đối đầu với Thượng Đế |
+| God of Heaven |  | Thượng Đế Thiên giới | khác | 320 | Cách gọi chỉ kẻ đứng đầu Thiên giới tự xưng là Thượng Đế, kẻ sáng tạo ra lũ Legna |
+| The Sims | Sims | The Sims | khác | 322 | Tựa game mô phỏng cuộc sống nổi tiếng của hãng Maxis/EA |
+| Guardian castle |  | Lâu Đài Hộ Vệ | vật phẩm | 322 | Tòa lâu đài trung tâm căn cứ của Yu IlHan tại Daréu, nơi gia đình và thuộc hạ cư ngụ |
