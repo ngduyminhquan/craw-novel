@@ -152,9 +152,9 @@ Yu IlHan khịt mũi coi thường.
 
 Orochi, kẻ dường như cũng đã nghe những câu thoại đó đến cả triệu lần, bất lực lẩm bẩm.
 
-[Người độc ác thật đấy. Ta nghĩ ý chí của ta sắp bị bẻ gãy trước cả hắn rồi....]
+[Chủ nhân độc ác thật đấy. Ta nghĩ ý chí của ta sắp bị bẻ gãy trước cả hắn rồi....]
 
-"Ta cần phải chà đạp hắn thêm một chút nữa."
+"Tôi cần phải chà đạp hắn thêm một chút nữa."
 
 Vừa nói, Yu IlHan vừa liên tục phóng mình giữa không trung. Bất cứ nơi nào anh đi qua, ngọn thương đều vạch lối trong không khí, và Đại Đoạn Vũ Trụ Thương theo sau lại một lần nữa giáng thẳng vào cơ thể đầy thương tích của Echjar.
 
@@ -192,7 +192,7 @@ Dù thế nào đi nữa, Yu IlHan đã đạt được mục tiêu mà mình đ
 
 "Tốt, vậy từ giờ ngươi cũng thuộc về phe ta rồi nhé."
 
-[Rốt cuộc người cũng làm được rồi, tên chủ nhân độc ác của ta.]
+[Rốt cuộc chủ nhân cũng làm được rồi, đúng là một chủ nhân độc ác.]
 
 Kỹ năng Thống Trị ở cấp độ viên mãn bao trùm lấy toàn bộ cơ thể Echjar. Thể xác lẫn tâm trí đều đã rách bươm, Echjar vứt bỏ lòng kiêu hãnh tích lũy qua vô số năm tháng và đồng ý trở thành thuộc hạ của Yu IlHan.
 
@@ -226,7 +226,7 @@ Ngay khi Yu IlHan chuẩn bị bắt tay vào công việc cuối cùng bên tro
 
 "Cô... cứ đợi thêm chút nữa đi."
 
-[Người quá đáng lắm! Đồ chủ nhân ngốc nghếch! Tôi cũng muốn có một cơ thể như Orochi! Một bé gái dễ thương cơ!]
+[Chủ nhân quá đáng lắm! Đồ chủ nhân ngốc nghếch! Tôi cũng muốn có một cơ thể như Orochi! Một bé gái dễ thương cơ!]
 
 [Haha, nhóc con. Với cái thân hình đồ sộ đó của ngươi thì đi nhảy breakdance hay làm gì đó đi.]
 

@@ -254,7 +254,7 @@ Yu IlHan lơ đãng nghĩ rằng có lẽ đang xảy ra một cuộc nội chi�
 
 Cuộc chiến ở Bức Tường Hỗn Loạn vừa mới diễn ra cách đây không lâu, vậy mà có vẻ như lũ thực thể cấp cao này lại đang toan tính điều gì đó nữa rồi. Làm thế quái nào mà bọn họ có thể chống đỡ được lâu đến vậy với cái tốc độ bùng nổ biến cố dồn dập thế này cơ chứ? Đúng là một điều kỳ lạ....
 
-"Thôi kệ, tôi chẳng thèm bận tâm làm gì."
+"Thôi kệ, mình chẳng thèm bận tâm làm gì."
 
 [Rồi sẽ có ngày chàng phải đối mặt với chuyện đó thôi, nhưng giờ thì cứ làm theo ý chàng muốn đi, người thương à.]
 

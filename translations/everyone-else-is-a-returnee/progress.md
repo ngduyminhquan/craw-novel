@@ -283,9 +283,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | reviewed |  |
 | 277 |  | Chapter_277 - Why Only Me_ – 4.txt | Why Only Me_ – 4 | reviewed |  |
 | 278 |  | Chapter_278 - Why Only Me_ – 5.txt | Why Only Me_ – 5 | reviewed |  |
-| 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | done |  |
-| 280 |  | Chapter_280 - Why Only Me_ – 7.txt | Why Only Me_ – 7 | done |  |
-| 281 |  | Chapter_281 - Why Only Me_ – 8.txt | Why Only Me_ – 8 | done |  |
+| 279 |  | Chapter_279 - Why Only Me_ – 6.txt | Why Only Me_ – 6 | reviewed |  |
+| 280 |  | Chapter_280 - Why Only Me_ – 7.txt | Why Only Me_ – 7 | reviewed |  |
+| 281 |  | Chapter_281 - Why Only Me_ – 8.txt | Why Only Me_ – 8 | reviewed |  |
 | 282 |  | Chapter_282 - I Will Prepare – 1.txt | I Will Prepare – 1 | todo |  |
 | 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | todo |  |
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | todo |  |
@@ -979,3 +979,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#279] Thuật ngữ bộ giáp phẩm cấp Vĩnh Cửu "Flamesoul Dragon body" — Tạm chọn: "Hỏa Hồn Long Thân" (ghép từ nội giáp Hỏa Hồn và ngoại giáp Nhân Long Thân). Phương án khác: "Hỏa Hồn Long Thể". Tạm dùng trong bản dịch: "Hỏa Hồn Long Thân". → Chốt dịch là "Hỏa Hồn Long Thân" (ghép từ nội giáp "Hỏa Hồn" và ngoại giáp "Nhân Long Thân") (orchestrator)
 - [#280] Thuật ngữ quái vật 'Ice demon' — Tạm chọn: 'Ác Ma Băng' (đồng bộ với 'Ác Ma Rung' Vibration Demon ở #275). Phương án khác: 'Quái vật ác ma băng' / 'Băng Ác Ma'. Tạm dùng trong bản dịch: 'Ác Ma Băng'. → Chốt dịch là "Ác Ma Băng" (đồng bộ với "Ác Ma Rung" ở chương #275) (orchestrator)
 - [#280] Xưng hô tình cảm giữa Michael Smithson và Carina Malatesta ở đoạn 50–51 ("I will become a shield that protects you" – "If that's what you wish... my love") — Tạm dùng: Michael xưng "tôi - em" ("Tôi sẽ trở thành tấm khiên bảo vệ em"), Carina xưng "em - anh / anh yêu" ("Nếu đó là điều anh mong muốn... anh yêu"). Phương án khác: giữ nguyên "tôi - cô / Michael". → Chốt giữ nguyên "tôi - Carina / em" và "tôi / em - anh / anh yêu" từ chương 280 (sau hơn 1 năm hẹn hò trong kết giới và gọi nhau là "my love" trong raw) (orchestrator)
+- [#281] Ở chương 281 đoạn 110, giữ nguyên "ngọc rồng" hay viết hoa "Ngọc Rồng" → Giữ nguyên "ngọc rồng" theo raw viết thường. (orchestrator)
+- [#279] Bỏ qua cảnh báo false positive 'God' ở chương 279 đoạn 73 → Đồng ý bỏ qua vì [Rank – God] dịch là [Phẩm cấp – Thần] theo glossary.md. (orchestrator)

@@ -242,7 +242,7 @@ Ai nấy đều co rúm lại vì sợ hãi khi nghe thấy những chữ 'Đạ
 
 Anh thốt ra những lời vô lý đến kinh ngạc ngay trước tàn tích đó.
 
-"Ta chỉ còn cách hồi sinh Echjar rồi đánh nhau với nó thôi."
+"Tôi chỉ còn cách hồi sinh Echjar rồi đánh nhau với nó thôi."
 
 [Ngươi dám biến ta thành ra thế này ư!]
 
