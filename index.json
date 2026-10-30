@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T09:03:43Z",
+  "generatedAt": "2026-10-30T09:12:42Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1847,6 +1847,12 @@
           "title": "Chương 310: Ta Là Cha Ngươi – 9",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_310.md",
           "sha": "eb8f2364570c770ba46e44946e146ac5a48e7ad9"
+        },
+        {
+          "number": 311,
+          "title": "Chương 311: Ngươi Cũng Giống Như Ta – 1",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_311.md",
+          "sha": "63b1e67917e136383e10da294f377bf5808f7cba"
         }
       ]
     },

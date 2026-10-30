@@ -503,3 +503,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yumir | Ruby | anh | em / Ruby | 307 | Yumir chỉ huy và hướng dẫn bầy rồng sơ sinh |
 | Yu IlHan | First | ta | ngươi / First | 309 | Yu IlHan thu phục và ban tên cho First |
 | First | Yu IlHan | tôi / thuộc hạ | ngài / Kẻ Thống Trị / chúa tể | 309 | First quy phục và tôn sùng Yu IlHan sau khi được tái sinh thành rồng |
+| Liera | YuNa | tôi / chị | YuNa / cô / em | 311 | Liera nhận bắp rang và nói chuyện với Na YuNa |
+| YuNa | Liera | em | chị / chị Liera | 311 | Na YuNa lấy lòng và nói chuyện với Liera |

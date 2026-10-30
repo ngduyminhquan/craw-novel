@@ -315,7 +315,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | reviewed |  |
 | 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | done |  |
 | 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | done |  |
-| 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | todo |  |
+| 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | done |  |
 | 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | todo |  |
 | 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | todo |  |
 | 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | todo |  |
@@ -1020,3 +1020,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#308] Thuật ngữ 'winged dragon' (đoạn 22: 'To classify it, this could be considered a winged dragon') tạm dịch và thêm glossary là 'Dực Long'. → Chốt dịch 'winged dragon' là 'Dực Long' trong glossary.md. (orchestrator)
 - [#309] Tên dực long được Yu IlHan ban tên 'First' (đoạn 24: 'Right, you’ll be the first. And hence your name will be ‘First’ as well') — Tạm giữ nguyên tên riêng Latin 'First' theo rules.md (tương tự Ruby) và dịch câu chơi chữ thành 'ngươi sẽ là kẻ đầu tiên. Và vì thế, tên của ngươi cũng sẽ là 'First' luôn'; phương án khác: dịch tên thành 'Thứ Nhất' / 'Số Một' nhưng sẽ phá vỡ quy tắc tên riêng. → Giữ nguyên tên riêng 'First' theo đúng rules.md. (orchestrator)
 - [#310] Danh hiệu "Brood Father" (lời quái vật tôn xưng Yu IlHan là chúa tể loài rồng) tạm dịch là "Long Phụ", xin ý kiến giữ nguyên hay đổi thành "Cha Đẻ Bầy Rồng" / "Vạn Long Chi Phụ". → Chốt dịch 'Brood Father' là 'Long Phụ' trong glossary.md. (orchestrator)
+- [#311] Tiêu đề chương "You Are The Same As Me – 1" — Tạm chọn: "Ngươi Cũng Giống Như Ta – 1" (phù hợp lời kết của IlHan về việc khôi phục đẳng cấp và cân xứng cấu trúc với "Ta Là Cha Ngươi"). Phương án khác: "Ngươi Cũng Như Ta – 1", "Các Ngươi Cũng Giống Như Ta – 1". → Chốt dịch tiêu đề arc 'You Are The Same As Me – N' là 'Ngươi Cũng Giống Như Ta – N'. (orchestrator)
