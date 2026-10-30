@@ -149,7 +149,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
 | Heavenly Quest | Heaven Quest; Heaven's Quest | Nhiệm Vụ Thiên Giới | hệ thống | 16 | Nhiệm vụ do thiên giới ban hành cho Kẻ Hành Quyết |
-| Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | vật phẩm | 16 | Ngọn lửa sống bất diệt từ thiên giới, phần thưởng nhiệm vụ của IlHan |
 | Republic of Korea | Korea | Hàn Quốc | địa danh | 16 | Quốc gia nơi Yu IlHan sinh sống |
 | Brown Bear |  | Gấu Nâu | quái vật | 16 | Quái vật gấu nâu biến dị |
 | Earth |  | Trái Đất | địa danh | 1 | Thế giới quê hương của Yu IlHan |
@@ -764,3 +763,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Thousand Eyes |  | Thiên Nhãn | vật phẩm | 276 | Bản nâng cấp của Bách Nhãn trên Pháo Đài Bay gồm 1.004 chiếc Gương Hủy Diệt, phẩm cấp Bán Thần |
 | Annihilator's Flying Fortress | Annihilator's Flying fortress | Pháo Đài Bay Kẻ Tận Diệt | vật phẩm | 277 | Pháo Đài Bay được Yu IlHan nâng cấp lên phẩm cấp Vĩnh Cửu nhờ lớp giáp kim loại của Kelatuke |
 | Surpasser |  | Kẻ Vượt Trội | danh hiệu | 277 | Danh hiệu Yu IlHan nhận được sau khi chế tạo thành công tạo tác phẩm cấp Vĩnh Cửu |
+| Soul of Fire |  | Hỏa Hồn | vật phẩm | 278 | Nội giáp phẩm cấp Thần rèn từ xương Kelatuke, Hỏa Tâm, một phần Hỏa Ngục Long Thân và Ngọn Lửa Vĩnh Cửu |
+| Genesis |  | Khởi Nguyên | khác | 278 | Cảnh giới chế tạo tối cao kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma |
+| Creator |  | Kẻ Sáng Tạo | danh hiệu | 278 | Danh hiệu Yu IlHan nhận được sau khi chạm tới cảnh giới Khởi Nguyên và Sáng Tạo |
+| Creation |  | Sáng Tạo | khác | 278 | Cảnh giới chuyển hóa Hỗn Loạn thành Khai Sinh |

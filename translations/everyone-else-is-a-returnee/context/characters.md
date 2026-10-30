@@ -93,6 +93,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Satière | Lord Satière | Satière | Thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ, có 3 cặp cánh đen tuyền và mắt đỏ như hồng ngọc | 265 |
 | Ruler of the Army of Brilliant Light | Leader of the Army of Brilliant Light | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ | Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới; sở hữu giọng nói tuyệt mỹ và uy áp có thể phong tỏa ánh sáng và mana của toàn bộ thế giới khi thức tỉnh | 267 |
 | Will of the Guardian |  | Ý Chí Hộ Vệ | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn sau khi quy phục Yu IlHan, đảm nhận triển khai ma pháp trận bảo vệ Trái Đất | 272 |
+| Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | Ngọn lửa sống của Yu IlHan nhận từ Nhiệm Vụ Thiên Giới ở chương 16; qua nhiều lần tiến hóa đã thức tỉnh ý chí và có giọng nói như bé gái từ chương 278 | 16 |
 
 ## Chi tiết
 
@@ -266,6 +267,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 254: Thu nhận xác Helièna Lv 519, nâng Ký Lục lên cấp 56; dùng Dịch Chuyển về Trái Đất huy động toàn lực elf, Lang tộc và Quân Đoàn Rồng cùng Pháo Đài Bay và Pháo Đài Hộ Vệ sang Daréu; điều khiển trận chiến và hồi phục bằng Siêu Việt Tái Sinh cùng Hơi Thở; kích hoạt thành công kỹ năng Chúa Tể Thứ Nguyên (chức nghiệp phụ Du Hành Giả Thứ Nguyên) phong tỏa Daréu trước mọi kẻ địch không phải thủ lĩnh phe phái, bảo vệ thành công Daréu.
 - Trạng thái tính đến chương 262: Đưa kỹ năng Chế Tác Mana đạt cảnh giới thuần thục (Max) khi hồi sinh cơ thể Nữ Hoàng Succubus Helièna; đưa kỹ năng Thống Trị đạt cảnh giới thuần thục khi chính thức thu nhận Helièna làm thuộc hạ và mở khóa điều kiện tiến hóa kỹ năng.
 - Trạng thái tính đến chương 277: Dùng Bát Vĩ Long Thương kết hợp đa tầng hỏa diễm (Liệt Hỏa, Long Huyết, lửa Orochi, Ngọn Lửa Vĩnh Cửu) giải phẫu xác cá mập khổng lồ Kelatuke và nấu nướng thịt cá mập đãi toàn quân; dùng giáp kim loại của Kelatuke cùng ma thạch chuyển chức 5 gia cố Pháo Đài Bay thành mũi khoan xoay tròn, nâng cấp pháo đài lên phẩm cấp Vĩnh Cửu đầu tiên với tên gọi 'Pháo Đài Bay Kẻ Tận Diệt' và nhận danh hiệu 'Kẻ Vượt Trội'; chuẩn bị rèn bộ giáp lý tưởng từ xương Kelatuke, xương và Trái Tim Rồng của Echjar cùng Hỏa Tâm.
+- Trạng thái tính đến chương 278: Dùng Ngọn Lửa Vĩnh Cửu kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma nung chảy nửa bộ Hỏa Ngục Long Thân, xương Kelatuke và Hỏa Tâm; lĩnh ngộ cảnh giới Khởi Nguyên và Sáng Tạo, nhận danh hiệu 'Kẻ Sáng Tạo'; chế tạo thành công nội giáp phẩm cấp Thần 'Hỏa Hồn' làm nơi cư ngụ cho Ngọn Lửa Vĩnh Cửu; tóc bị nhuộm đỏ rực và dài tới eo nhưng có thể co ngắn tức thì theo ý nghĩ.
 
 ### Lita
 - Giới tính, tuổi/vẻ ngoài: Nữ thiên thần, cánh trắng, dung mạo tuyệt mỹ, thân hình bốc lửa.
@@ -814,3 +816,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới.
 - Đặc điểm: Giọng nói tuyệt mỹ thanh tao nhưng uy áp kinh hoàng; chỉ cần cất tiếng là toàn bộ Minh Giới chìm trong bóng tối tuyệt đối và mana trong không khí bị đóng băng.
 - Xuất hiện tính đến chương 267: Thức giấc sau khi Minh Giới bị liên quân xâm lăng; ra lệnh cho Satière và các chỉ huy không được đụng vào Yu IlHan vì tin chắc anh là Kẻ Thứ Năm và không muốn ai phá hỏng sự tò mò của mình; cho phép toàn lực va chạm với các phe phái khác, đặc biệt là Quân Đội Thiên Giới.
+
+### Eternal Flame
+- Giới tính, vai trò: Nữ (ý chí linh hồn mang giọng nói bé gái), ngọn lửa sống bất diệt của Yu IlHan.
+- Tính cách / Cách nói chuyện: Ngây thơ, trong sáng, tràn đầy nhiệt huyết và tuyệt đối trung thành với Yu IlHan; xưng "em", gọi Yu IlHan là "chủ nhân".
+- Xuất hiện tính đến chương 278: Thức tỉnh ý chí sau khi nuốt vô số ghi chép và tiến hóa nhiều lần; cùng Yu IlHan nung chảy xương Kelatuke, Hỏa Tâm và Hỏa Ngục Long Thân để tạo nên nội giáp Hỏa Hồn; dọn vào ngụ trong bộ giáp mới và mừng rỡ nhảy múa giữa không trung.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T03:23:44Z",
+  "generatedAt": "2026-10-30T03:31:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1667,6 +1667,12 @@
           "title": "Chương 277: Tại Sao Chỉ Có Mình Tôi? – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_277.md",
           "sha": "4bb3bc8cafb1d3a67c3e9a0c745d992c64a3a443"
+        },
+        {
+          "number": 278,
+          "title": "Chương 278: Tại Sao Chỉ Có Mình Tôi? – 5",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_278.md",
+          "sha": "5035f7e1fe326d5ff57955e0651d52fc7f6dcc8d"
         }
       ]
     },

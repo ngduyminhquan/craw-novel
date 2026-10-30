@@ -1708,4 +1708,11 @@ Anh dùng lớp giáp kim loại của Kelatuke cùng ma thạch chuyển chức
 Mọi người kinh ngạc trước tạo tác vượt trên phẩm cấp Thần; Mystic bứt rứt khó chịu vì pháo đài còn thiếu một mảnh ghép cuối cùng; Liera lập tức chen vào tuyên bố chủ quyền Yu IlHan trước sự ve vãn của Helièna.
 Cảnh kết thúc: Gom toàn bộ xương của Kelatuke, xương và Trái Tim Rồng của Echjar cùng Hỏa Tâm, Yu IlHan cởi bỏ trang bị, lôi đe búa ra chuẩn bị rèn bộ giáp lý tưởng phẩm cấp Vĩnh Cửu.
 
+## 278
+Yu IlHan tách Orochi sang Bát Vĩ Long Thương rồi dùng Ngọn Lửa Vĩnh Cửu kết hợp Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma nung chảy một nửa Hỏa Ngục Long Thân cùng xương Kelatuke và Hỏa Tâm.
+Ngọn Lửa Vĩnh Cửu thức tỉnh ý chí và giọng nói của một bé gái, háo hức cùng Yu IlHan rèn nên ngôi nhà mới; IlHan lĩnh ngộ cảnh giới 'Khởi Nguyên' và 'Sáng Tạo', nhận danh hiệu 'Kẻ Sáng Tạo' và hoàn thành nội giáp phẩm cấp Thần 'Hỏa Hồn'.
+Ngọn Lửa Vĩnh Cửu vui sướng dọn vào ngụ trong Hỏa Hồn và bay nhảy giữa không trung; Yu IlHan chuẩn bị tinh thần tiếp tục rèn ngoại giáp từ nửa còn lại của Hỏa Ngục Long Thân, xương Echjar, hộ thủ Ý Chí Hỗn Loạn và Trái Tim Rồng.
+Sau khi tạo ra Hỏa Hồn, tóc của Yu IlHan cũng bị nhuộm đỏ rực và dài tới thắt lưng; Na YuNa ôm eo nài nỉ anh giữ lại nhưng mái tóc lập tức co ngắn theo ý nghĩ của IlHan.
+Cảnh kết thúc: Yu IlHan hoang mang tự hỏi bản thân rốt cuộc đang biến đổi thành thứ gì.
+
 

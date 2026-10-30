@@ -87,6 +87,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Leciel | hắn / Leciel / đại thiên thần Leciel | 263 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố |
 | Satière | hắn / Satière | 265 | Chỉ huy chuyển chức 7 Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ |
 | Will of the Guardian | nó / Ý Chí Hộ Vệ / golem hồ nước | 272 | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn |
+| Eternal Flame | cô / cô bé / Ngọn Lửa Vĩnh Cửu / nó | 278 | Ngọn lửa sống của Yu IlHan thức tỉnh ý chí và giọng nói của một bé gái từ chương 278 |
 
 ## Giữa các nhân vật
 
@@ -418,3 +419,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Carina Malatesta | Michael Smithson | tôi | anh / Michael | 275 | Carina chủ động tấn công ép Michael gọi tên và xưng hô thân mật |
 | Michael Smithson | Carina Malatesta | tôi | Carina | 275 | Michael khuất phục và đồng ý gọi thẳng tên Carina |
 | Liera | Helièna | tôi | cô | 277 | Liera tuyên bố chủ quyền Yu IlHan trước sự ve vãn của Helièna |
+| Eternal Flame | Yu IlHan | em | chủ nhân | 278 | Ý chí của Ngọn Lửa Vĩnh Cửu thức tỉnh và cất tiếng nói chuyện với Yu IlHan |
+| Yu IlHan | Eternal Flame | ta / tôi | em / Ngọn Lửa Vĩnh Cửu | 278 | Yu IlHan đối thoại với ý chí của Ngọn Lửa Vĩnh Cửu |
