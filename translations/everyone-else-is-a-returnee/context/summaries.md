@@ -2118,3 +2118,10 @@ Hồi ức thuở xa xưa hé lộ biến cố phân rẽ Thiên giới: Gabriel
 Trận chiến chỉ thành công một nửa khi Lucifer phá vỡ phạm vi khống chế, Michael tước đoạt chia sẻ sức mạnh của Thượng Đế cho năm người nhưng để Thượng Đế trốn thoát; sau đó Lucifer lập Quân Đội Ánh Sáng Rực Rỡ (đổi tên thành Satan), Michael nắm quyền tứ Đại Thiên Thần che giấu sự thật, kéo theo sự ra đời của Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn.
 Trở lại hiện tại tại Elo Katra, Michael bàng hoàng khi biết Greed sở hữu năng lực tước đoạt bẩm sinh giống hệt mình là do sự trói buộc cấm chế từ Thượng Đế khiến sức mạnh của Michael tự phân tách chảy ngược về Ngài sau vụ phản nghịch năm xưa.
 Cảnh kết thúc: Thượng Đế trong thân xác Greed nở nụ cười nhân từ nhưng tỏa ma lực áp chế toàn diện Michael, đanh thép tuyên bố hắn phải bị trừng phạt như một đứa con phạm sai lầm.
+
+
+## 347
+Thượng Đế hé lộ Elo Katra vốn là thế giới tưởng tượng do Ngài tạo ra và đánh sập Bức Tường Hỗn Loạn để sáp nhập nó với Thiên giới, khiến toàn bộ sức mạnh và quyền cai quản Thiên giới từ Michael chảy ngược về Ngài.
+Michael tuyệt vọng tuyên bố đoạn tuyệt quan hệ cha con và dốc tàn lực ánh sáng chống cự, nhưng bị Thượng Đế vạch trần chân tướng các 'thần được ghi chép' thực chất là những tồn tại siêu việt từng bị Ngài giam cầm để lập kho lưu trữ ghi chép mới.
+Nhận ra bản thân không có cơ hội chiến thắng trước kẻ cuồng loạn muốn nuốt chửng cả mình lẫn Yu IlHan, Michael toan kích hoạt Dịch Chuyển tháo chạy để tìm kiếm cơ hội liên minh với Yu IlHan nhưng bị chặn đứng.
+Cảnh kết thúc: Thượng Đế bóp nát đầu Michael rồi nuốt chửng toàn bộ thân xác hắn, chính thức đánh dấu sự trở lại của Kẻ Thống Trị đích thực của Thiên giới.

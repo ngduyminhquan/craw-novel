@@ -581,3 +581,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lucifer | Michael | ta | Michael / ngươi | 346 | Lucifer phân công nhiệm vụ cho Michael |
 | Michael | God | con | Cha / Chúa Tể | 346 | Michael đối thoại và phục tùng Thượng Đế trong quá khứ |
 | God | Michael | ta | Michael / con / con trai đáng yêu của ta | 346 | Thượng Đế giao việc và khuyên bảo Michael trong quá khứ |
+| Michael | God | ta | ông / ngươi / con quái vật đáng nguyền rủa | 347 | Michael đoạn tuyệt quan hệ cha con với Thượng Đế sau khi bị dồn vào chân tường |
+| God | Michael | ta | con / đứa con của ta | 347 | Thượng Đế duy trì xưng hô kẻ bề trên với đứa con phạm sai lầm trước khi tiêu diệt hắn |

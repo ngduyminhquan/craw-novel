@@ -836,3 +836,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | godfather |  | cha đỡ đầu | khác | 341 | Người nhận làm cha tinh thần bảo trợ cho con của Michael Smithson và Carina Malatesta |
 | Sole God |  | Vị Thần Duy Nhất | khác | 342 | Tên arc từ chương 342 đến 349 |
 | God of Light | god of light | Thần Ánh Sáng | khác | 344 | Khái niệm vị thần của ánh sáng mà Michael thức tỉnh khi vượt qua Hồ Sơ Akashic |
+| multiverse |  | đa vũ trụ | khác | 347 | Toàn thể các thế giới và thứ nguyên trong vũ trụ quan của truyện |
