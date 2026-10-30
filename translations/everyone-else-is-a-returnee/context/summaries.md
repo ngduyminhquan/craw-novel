@@ -1683,3 +1683,9 @@ Trong khi người bình thường và thực thể chuyển chức 3 như Micha
 Mystic điều khiển Pháo Đài Bay đưa Liên Minh Tiền Tuyến trở về; các thành viên cốt cán (Yumir, Kang MiRae, Na YuNa, Liera) kháng ma pháp thành công và hội ngộ cùng IlHan.
 Cảnh kết thúc: Yu IlHan kiểm tra Đồng Hồ Cát Vĩnh Hằng và phát hiện những hạt cát rơi chậm hơn bình thường rất nhiều do tác động của ma pháp làm chậm, hứa hẹn mở ra một mối lợi khổng lồ khi kích hoạt lại kết giới.
 
+## 274
+Một số clan trong Liên Minh Tiền Tuyến từ chối trở về Trái Đất vì e ngại hiểm nguy và năng lực của các thực thể cấp cao; Yu IlHan chấp nhận và rời đi mà không cưỡng cầu.
+Trên đường trở về Trái Đất, Orochi động viên và khuyên Yu IlHan nên tự tin hơn vào thực lực bản thân; IlHan dự định sau này sẽ tìm cách nâng cảnh giới của Orochi để dung hợp vào thân xác rồng Echjar.
+Trở lại Trái Đất, IlHan xác nhận cần thêm 4 ngày nữa để tái kích hoạt Đồng Hồ Cát Vĩnh Hằng nên tiếp tục dùng Dịch Chuyển chu du đến các thế giới khác để giải cứu người sống sót; tại một thế giới đã bị hủy diệt hoàn toàn, anh quét sạch quái vật giải cứu người bản địa và được họ tôn sùng như Thượng Đế rồi nằng nặc đòi đi theo.
+Cảnh kết thúc: Sau 4 ngày chu du qua 42 thế giới, Yu IlHan và nhóm Kang MiRae đưa hơn 10 vạn người từ các thế giới khác về Trái Đất, sẵn sàng tái kích hoạt Đồng Hồ Cát Vĩnh Hằng.
+

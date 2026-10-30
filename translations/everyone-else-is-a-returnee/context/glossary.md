@@ -696,7 +696,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Flying fortress | flying fortress; Flying Fortress; Flying Castle | pháo đài bay | vật phẩm | 205 | Tên gọi thông dụng / vắn tắt của Pháo Đài Bay Kẻ Hủy Diệt |
 | Firedragon Body |  | Hỏa Long Thân | vật phẩm | 206 | Bộ giáp kim loại màu trắng phẩm cấp Bán Thần do Yu IlHan rèn từ ma thạch chuyển chức 5 và thi thể Mystic |
 | Infernal Dragon Body | Infernal dragon body; Infernal Dragon's body | Hỏa Ngục Long Thân | vật phẩm | 206 | Bộ giáp Hỏa Long Thân sau khi dung hợp tàn niệm Orochi và nuốt 300.000 tàn niệm ác ma |
-| Valkyrie |  | Valkyrie | khác | 207 | Thiếu nữ chiến đấu trong thần thoại, dùng để ví von vẻ đẹp chiến binh của Liera |
+| Valkyrie | Valkyries | Valkyrie | khác | 207 | Thiếu nữ chiến đấu trong thần thoại, dùng để ví von vẻ đẹp chiến binh của Liera |
 | Thunder Knights |  | Kỵ Sĩ Sấm Sét | tổ chức | 208 | Tên nhóm 2.300 đứa trẻ sử dụng năng lực hệ sét tự đặt cho mình dưới quyền chỉ huy của Yumir |
 | Sonic |  | Sonic | khác | 212 | Được phép giữ nguyên: Nhím Sonic, nhân vật biểu tượng văn hóa đại chúng nổi tiếng với tốc độ siêu thanh |
 | Infernal Dragon |  | Hỏa Ngục Long | khác | 212 | Thực thể / tên gọi của con rồng hỏa ngục bên trong bộ giáp Hỏa Ngục Long Thân |
@@ -757,3 +757,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Supremes | Supreme being; Supreme | Thực thể tối cao | cấp bậc | 267 | Chỉ các lãnh tụ tối cao của 4 thế lực thực thể cấp cao lớn |
 | Midora |  | Midora | địa danh | 268 | Thế giới nơi Thiếu tướng Yun DaeHan cùng 39 cấp dưới chuyển sinh tới |
 | Gyeonggi-do | Gyeongi-do; Gyeonggi | Gyeonggi-do | địa danh | 273 | Tỉnh Gyeonggi bao quanh thủ đô Seoul, Hàn Quốc |
+| SimCity |  | SimCity | khác | 274 | Được phép giữ nguyên: Trò chơi mô phỏng xây dựng và quản lý thành phố nổi tiếng |

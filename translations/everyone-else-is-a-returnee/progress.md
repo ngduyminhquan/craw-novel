@@ -278,7 +278,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | reviewed |  |
 | 272 |  | Chapter_272 - If You Wish To Follow Me – 7.txt | If You Wish To Follow Me – 7 | reviewed |  |
 | 273 |  | Chapter_273 - If You Wish To Follow Me – 8.txt | If You Wish To Follow Me – 8 | done |  |
-| 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | todo |  |
+| 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | done |  |
 | 275 |  | Chapter_275 - Why Only Me_ – 2.txt | Why Only Me_ – 2 | todo |  |
 | 276 |  | Chapter_276 - Why Only Me_ – 3.txt | Why Only Me_ – 3 | todo |  |
 | 277 |  | Chapter_277 - Why Only Me_ – 4.txt | Why Only Me_ – 4 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -968,3 +969,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#271] Raw lược bỏ chữ 'Chilly' trong 'Blizzard Tyrant's Mixed bone fullplate armour' — Tạm chọn: giữ tên đầy đủ đã chốt là 'Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh' (đã thêm vào Alias trong glossary.md). Phương án khác: dịch rút gọn là 'Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết'. → Giữ tên chuẩn đầy đủ "Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh" và gộp biến thể vào Alias trong glossary.md (orchestrator)
 - [#272] Dịch tên golem hồ nước 'Will of the Guardian' thành 'Ý Chí Hộ Vệ' — Tạm chọn: 'Ý Chí Hộ Vệ' (thống nhất với Ý Chí Hỗn Loạn và Guardian trong context). Phương án khác: 'Ý Chí Bảo Hộ', 'Ý Chí Thủ Hộ'. → Chốt dịch là "Ý Chí Hộ Vệ" (đồng bộ với Ý Chí Hỗn Loạn và thuật ngữ Hộ Vệ cho Guardian) (orchestrator)
 - [#273] Lời thoại nói chậm của Michael Smithson ("Wwwwwwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeee." và "Miiiiiiiiiiiiiiiiissssssssssssssstteeeeeeeeerrrrrrrrrr."): tạm dịch nghĩa kéo dài âm tiếng Việt thành "Chuuuuuuuuuuuuuuuúnnnnnnnnnnnnnngggggggggg." (Chúng...) và "Nnnnnnnnnnnngggggggggggààààààààààààààiiiiiiiiiiiiii." (Ngài...); đề xuất giữ nguyên như bản dịch hoặc chuyển sang giữ nguyên âm tiếng Anh nếu muốn nhấn mạnh ngữ điệu nguyên bản. → Giữ nguyên cách dịch kéo dài âm tiếng Việt ("Chuuuuuuuuuuuuuuuúnnnnnnnnnnnnnngggggggggg." và "Nnnnnnnnnnnngggggggggggààààààààààààààiiiiiiiiiiiiii.") để đúng nghĩa và không để sót từ tiếng Anh (orchestrator)
+- [#274] Tiêu đề arc mới "Why Only Me?" (#274–#279) — Tạm chọn: "Tại Sao Chỉ Có Mình Tôi? – N" ("Tại Sao Chỉ Có Mình Tôi? – 1" ở #274) để đúng nghĩa câu hỏi tu từ và đồng bộ ngôi xưng "Tôi" với các arc trước ("Nếu Muốn Theo Tôi", "Dù Tôi Đi Đâu", "Tôi Đi Cùng Cậu"). Phương án khác: "Sao Lại Chỉ Có Mình Tôi? – N" hoặc "Tại Sao Chỉ Riêng Tôi? – N". → Chốt dịch tiêu đề arc là "Tại Sao Chỉ Có Mình Tôi? – N" (đồng bộ ngôi xưng "Tôi" với các arc trước) (orchestrator)
+- [#274] Lời thoại nói chậm của người từ thế giới khác ở đoạn 109 ("Weeeeeeeeeee shhhhhhaaaaaaaaaaaaaaallllllll llllllllllllooooooooooooooooyaaaaaaaaaaaaalllllllll-") do ảnh hưởng ma pháp trận làm chậm — Tạm dịch kéo dài âm tiếng Việt thành `"Chuuuuuuuuuuuunnnnnnnnnnnnngggggggggggg ttttttttttôôôôôôôôôôiiiiiiiiii trrrrrrrrrrrrrunnnnnnnnnnnnnngggggggggg-"` (Chúng tôi trung...) theo tiền lệ #273 để trọn nghĩa tiếng Việt. Phương án khác: giữ nguyên dạng chữ kéo dài tiếng Anh hoặc dịch thành `"Chuuuuuuuuuuuunnnnnnnnnnnnngggggggggggg sssssssssssseeeeeeeeeeeeeee trrrrrrrrrrrrrunnnnnnnnnnnnnngggggggggg-"`. → Giữ nguyên cách dịch kéo dài âm tiếng Việt theo tiền lệ chương #273 để trọn nghĩa và không sót từ tiếng Anh (orchestrator)

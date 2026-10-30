@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T02:41:31Z",
+  "generatedAt": "2026-10-30T02:49:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1643,6 +1643,12 @@
           "title": "Chương 273: Nếu Muốn Theo Tôi – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_273.md",
           "sha": "721ed1000db25b0181ee524ffbb1a13361e1462a"
+        },
+        {
+          "number": 274,
+          "title": "Chương 274: Tại Sao Chỉ Có Mình Tôi? – 1",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_274.md",
+          "sha": "f43c9488424cb02c871ae063a13478f35dcb56ba"
         }
       ]
     },

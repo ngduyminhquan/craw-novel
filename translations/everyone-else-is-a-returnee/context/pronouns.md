@@ -410,3 +410,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Will of the Guardian | ta | ngươi | 272 | IlHan giao phó nhiệm vụ triển khai ma pháp trận |
 | Will of the Guardian | Yu IlHan | ta | ngươi | 272 | Ý Chí Hộ Vệ đáp lời và nhận lệnh bảo vệ Trái Đất |
 | Kim YeSeul | Helièna | bác | cháu / Helièna | 272 | Kim YeSeul vui vẻ hứa sẽ nói tốt cho Helièna trước mặt Yu IlHan |
+| Erta | Helièna | tôi / ta | cô / ả | 274 | Erta cảnh cáo và chặn đứng hành vi ve vãn Yu IlHan của Helièna |
+| Helièna | Erta | ta | cô | 274 | Helièna phản bác và so sánh Erta với Liera |
