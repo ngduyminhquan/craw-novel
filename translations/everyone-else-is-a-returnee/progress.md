@@ -361,7 +361,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | reviewed |  |
 | 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | reviewed |  |
 | 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | reviewed |  |
-| 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | todo |  |
+| 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | done |  |
 | 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | todo |  |
 | 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | todo |  |
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
@@ -1095,3 +1095,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#356] Dịch tên arc "Apocrypha (1)" — Tạm chọn: "Ngoại Điển (1)". Đề xuất khác: "Ngoại Kinh (1)" hoặc "Bí Lục (1)". → Chốt 'Ngoại Điển (1)'. (orchestrator)
 - [#356] Dịch món ăn "Cost-efficient Hairtail set" — Tạm chọn: "Set cá hố bình dân" (từ lóng tiếng Hàn 가성비 - giá cả phải chăng). Đề xuất khác: "Set cá hố tiết kiệm". → Chốt 'Set cá hố bình dân'. (orchestrator)
 - [#356 đoạn 109] Câu EN 'Yoo Il-han arrived at the accommodation, but he was left behind when he arrived at the travel destination on his high school field trip' mâu thuẫn với ngữ cảnh đang ở sân bay Jeju → Chấp nhận dịch thoát ý: 'Chưa kịp về tới nơi nghỉ chân mà ngay khi vừa đặt chân đến điểm du lịch trong chuyến dã ngoại thời cấp ba, Yu IlHan đã bị bỏ rơi.' (orchestrator)
+- [#357] Thuật ngữ "Irregular Crisis" — Tạm chọn: "Khủng Hoảng Dị Thường" (theo gốc "irregular" = "kẻ dị thường" trong glossary). Phương án khác: "Khủng Hoảng Kẻ Dị Thường", "Biến Cố Dị Thường". → Chốt 'Khủng Hoảng Dị Thường'. (orchestrator)
+- [#357] Biệt danh Yu IlHan đặt thầm cho Na YuNa ("Ms. Blind") và Kang MiRae ("Ms. Cool") — Tạm chọn: "Cô Nàng Mù" và "Cô Nàng Lạnh Lùng". Phương án khác: "Cô Nàng Khiếm Thị", "Cô Nàng Băng Giá". → Chốt 'Cô Nàng Mù' và 'Cô Nàng Lạnh Lùng'. (orchestrator)

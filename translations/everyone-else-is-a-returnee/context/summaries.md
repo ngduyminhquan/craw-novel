@@ -2182,4 +2182,10 @@ Bố Yu YongHan (Gabriel) đến đón IlHan về nhà và tái mặt khi nghe c
 Lên cấp ba, trong chuyến dã ngoại trường tại Đảo Jeju, IlHan tiếp tục bị bỏ quên ở Sân bay Quốc tế Jeju nhưng anh ung dung cầm tiền tự đi ăn đặc sản cá hố và tận hưởng chuyến đi; phía sau lưng anh, Kang MiRae cùng đoàn vệ sĩ đưa Na YuNa sang Ý lánh nạn.
 Cảnh kết thúc: Yu IlHan thoăn thoắt lẩm nhẩm thực đơn đặc sản như niệm ma pháp rồi cất bước bắt đầu chuyến dã ngoại trường đơn độc, khép lại mẩu chuyện quá khứ đầu tiên.
 
+## 357
+Tại một quán ăn ở Jeju, Yu IlHan vào gọi món cá hố nướng nhưng bị cô phục vụ ngó lơ; đúng lúc đó Na YuNa và Kang MiRae (thời học sinh cấp ba) bước vào quán và YuNa vô tình ngồi thụp lên đùi IlHan vì không nhìn thấy anh.
+Sau màn xin lỗi ngượng ngùng và bị IlHan từ chối ngồi chung bàn, YuNa lén nhờ anh giữ bí mật về sự xuất hiện của hai người rồi đòi bao tiền ăn để tạ lỗi, nhưng IlHan tự ái từ chối vì lòng tự trọng của một kẻ cô độc; YuNa vẫn chăm chú nhìn theo bóng anh với linh cảm đặc biệt.
+IlHan bắt xe buýt lên đồi Oreum leo núi ngắm cảnh, thầm biết ơn công việc dịch thuật bán thời gian giúp mình tự chủ tài chính và lên kế hoạch trốn buổi leo Núi Halla ngày mai để đi ăn uống.
+Cảnh kết thúc: Trước cửa một quán cà phê dưới chân núi, một người phụ nữ xinh đẹp uy nghiêm xưng là thiên thần của Thượng Đế hiện đôi cánh lớn, biết rõ thân thế của IlHan và yêu cầu anh hợp tác để đối phó với Khủng Hoảng Dị Thường sắp xảy ra trên Trái Đất.
+
 

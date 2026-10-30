@@ -855,3 +855,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Destruction Devils | Destruction Devil; Destruction Demon | Ma Hủy Diệt | tổ chức | 356 | Tên gọi chung của các ác ma thuộc Quân Đội Ma Hủy Diệt |
 | Jeju Island | Jeju | Đảo Jeju | địa danh | 356 | Hòn đảo du lịch nổi tiếng của Hàn Quốc |
 | Jeju International Airport |  | Sân bay Quốc tế Jeju | địa danh | 356 | Sân bay quốc tế tại đảo Jeju, Hàn Quốc |
+| Jeju Oreum | Oreum | đồi Oreum trên đảo Jeju | địa danh | 357 | Đồi núi lửa hình nón nhỏ đặc trưng tại đảo Jeju (tiếng Hàn 오름) |
+| Mt. Halla | Hallasan | Núi Halla | địa danh | 357 | Ngọn núi lửa nổi tiếng cao nhất Hàn Quốc trên đảo Jeju |
+| Pluto | planet Pluto | sao Diêm Vương | khác | 357 | Hành tinh lùn bị giáng cấp khỏi hệ hành tinh chính, dùng làm ẩn dụ cho sự tự ti của Yu IlHan |
+| Irregular Crisis | irregular crisis | Khủng Hoảng Dị Thường | khác | 357 | Cuộc khủng hoảng dị thường mà thiên thần của Thượng Đế thông báo cho Yu IlHan |

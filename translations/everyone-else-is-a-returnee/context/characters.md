@@ -20,7 +20,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Fred |  | Fred | Người ngoại quốc tóc nâu lái xe bọc thép đi cùng Kang MiRae | 27 |
 | Shiota | Shiuta | Shiota | Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt cùng nhóm Erta | 30 |
 | HaJin | Ha Jin; Kang HaJin; Kang Hajin | HaJin | Nam dị năng giả người Hàn (chức nghiệp Thánh Kỵ Sĩ) | 36 |
-| YuNa | Yu Na; Na YuNa | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
+| YuNa | Yu Na; Na YuNa; Na Yoo-Na; Yoo-Na | YuNa | Nữ dị năng giả người Hàn tham chiến tại sân bay Los Angeles | 36 |
 | Feyta |  | Feyta | Thiên thần hộ mệnh của Na YuNa | 38 |
 | Reta Kar'iha | Reta | Reta Kar'iha | Kẻ Phá Vỡ (Breaker) cấp 157 trong hình dạng tử thần hầm ngục Grand Canyon | 48 |
 | Myuta | Myuta-nim | Myuta | Thiên thần chủ trì hội nghị thiên giới, công bằng và nghiêm khắc | 50 |
