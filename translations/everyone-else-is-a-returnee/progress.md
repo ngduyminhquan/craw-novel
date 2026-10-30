@@ -312,7 +312,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 305 | 303 | Chapter_305 - Chapter 303_ I Am Your Father – 4.txt | I Am Your Father – 4 | reviewed |  |
 | 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | done |  |
 | 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | done |  |
-| 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | todo |  |
+| 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | done |  |
 | 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | todo |  |
 | 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | todo |  |
 | 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | todo |  |
@@ -1016,3 +1016,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#306] Màn đối đáp chơi chữ giữa Yu IlHan và Na YuNa ở đoạn 21–23 ("I thought you forfeited?" - "No, I'm not four-feeted!" - "I know, you're four feet tall") — Tạm chọn: dịch giữ âm vần hài hước chê chiều cao ("Tôi tưởng cô bỏ cuộc rồi chứ?" - "Không, em đâu có bốn cẳng!" - "Tôi biết rồi, cô cao có bốn tấc chứ gì."). Phương án khác: dịch sát nghĩa gốc tiếng Anh ("Tôi tưởng cô chịu thua rồi chứ?" - "Không, em đâu phải thú bốn chân!" - "Tôi biết rồi, cô cao có bốn thước chứ gì."). Tạm dùng trong bản dịch: "bỏ cuộc" - "bốn cẳng" - "bốn tấc". → Giữ cách dịch 'bỏ cuộc - bốn cẳng - bốn tấc' để khớp với lời nhận xét 'không dễ dàng bỏ cuộc' của Liera ngay sau đó. (orchestrator)
 - [#307] Xưng hô Ruby gọi Yumir (raw dùng từ cổ orabuni): tạm dịch "huynh trưởng" (Ruby) và "đại ca" (bầy rồng con); đề xuất giữ nguyên. → Giữ 'huynh trưởng' (em - huynh trưởng) cho Ruby khi gọi Yumir và 'đại ca' cho bầy rồng con. (orchestrator)
 - [#307] Chơi chữ đoạn 88-89 ("four-feeted" vs "forfeit" / bỏ cuộc): tạm dịch thoát ý "bốn cẳng" và Echjar định sửa "bỏ cu..."; đề xuất giữ nguyên. → Giữ cách dịch thoát ý 'bốn cẳng' và 'bỏ cu...' đồng bộ với chương 306. (orchestrator)
+- [#308] Đoạn 38 raw có typo 'an even more traffic thing' nối tiếp 'How tragic!'; tạm sửa theo ngữ cảnh thành 'điều còn tàn nhẫn hơn thế' (an even more tragic thing). → Giữ cách dịch theo nghĩa đúng 'tragic' ('điều còn tàn nhẫn/bi thảm hơn thế'). (orchestrator)
+- [#308] Thuật ngữ 'winged dragon' (đoạn 22: 'To classify it, this could be considered a winged dragon') tạm dịch và thêm glossary là 'Dực Long'. → Chốt dịch 'winged dragon' là 'Dực Long' trong glossary.md. (orchestrator)

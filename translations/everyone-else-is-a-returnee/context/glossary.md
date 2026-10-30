@@ -800,3 +800,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Elyde |  | Elyde | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
 | Terodua |  | Terodua | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
 | Fièta |  | Fièta | địa danh | 303 | Thế giới bậc cao thuộc quyền cai quản của Quân Đội Ánh Sáng Rực Rỡ (#303) |
+| winged dragon | Winged dragon | Dực Long | quái vật | 308 | Phân loài Long tộc có đôi cánh dơi khổng lồ và thuộc tính hỏa sinh ra tại Daréu |

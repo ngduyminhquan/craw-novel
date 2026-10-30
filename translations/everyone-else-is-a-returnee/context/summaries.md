@@ -1874,6 +1874,13 @@ Trong lúc kiểm tra tiến độ xây dựng và kế hoạch biến toàn b�
 Yu IlHan bay lượn trên không quan sát thế giới bằng đôi cánh Hiệu Triệu Diệt Vong tiến hóa từ Hỏa Hồn Long Thân; chứng kiến Yumir huấn luyện bầy rồng săn quái vật diệt rồng thành công, anh an tâm chuyển hướng.
 Cảnh kết thúc: Cảm nhận được sự sợ hãi xen lẫn quy phục của các sinh vật Long tộc khác sinh ra trên Daréu, Yu IlHan quyết định thu nạp toàn bộ Long tộc dưới trướng Long Sào và cất tiếng gọi quy tụ chúng trong vòng mười giây.
 
+## 308
+Hàng triệu sinh vật Long tộc sinh ra trên khắp Daréu đồng loạt kéo đến trước lời hiệu triệu và uy áp của Yu IlHan; đại diện của chúng là một con dực long hệ hỏa cấp 290 chất vấn ý đồ của anh và từ chối khuất phục khi Yu IlHan đề nghị cơ hội trở thành rồng thực thụ.
+Bị dồn vào thế phải quy phục hoặc trở thành điểm kinh nghiệm cho bầy rồng, con dực long cùng đàn quái vật kích động khí tức hòng liều mạng tấn công Yu IlHan nhưng Echjar thở dài khẳng định đó là điều vô vọng.
+Yu IlHan kích hoạt kỹ năng Hiển Hiện, tuyên cáo lãnh thổ thống trị bao trùm toàn bộ các đại lục Daréu, nhuộm đỏ thế giới và tước quyền kiểm soát ngọn lửa khiến con dực long cùng bầy quái vật ngạt thở, rơi rụng và khiếp sợ trước uy quyền tuyệt đối của chúa tể muôn loài rồng.
+Nhận ra sự sùng bái sức mạnh và khao khát thoát khỏi số phận giống loài của đàn quái vật sơ sinh non nớt này, Yu IlHan nhếch môi hứa hẹn sẽ giúp chúng mạnh hơn.
+Cảnh kết thúc: Giọng nói và mana của Yu IlHan hòa cùng ma pháp trận cổ xưa lan tỏa khắp Daréu, gieo vào tâm trí mọi sinh vật Long tộc lời tuyên bố sẽ biến chúng thành loài rồng nếu chịu quy phục và chung sống.
+
 
 
 
