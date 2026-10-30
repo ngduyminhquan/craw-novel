@@ -378,6 +378,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 259: Khai phá một cảnh giới mới của Hồ Sơ Akashic và hoàn thành chuyển chức lần 4 tại Palladia (Lanpas); được Thần Ma Pháp ban phước giảm một nửa mana tiêu hao và hồi phục toàn bộ mana mỗi tháng một lần; kích hoạt cánh cổng lam chuẩn bị sang gặp Yu IlHan.
 - Trạng thái tính đến chương 305: Khi 9 sinh vật bí ẩn tiếp viện khóa chặt mana của cả nhóm, dùng Vương Miện Trí Tuệ cùng dược phẩm kích phát mana lên cực hạn, sáng tạo ra cách mở hàng trăm cánh cổng không gian siêu nhỏ xé nát toàn bộ kẻ địch, tạo nên 'kỳ tích' tiêu hao lượng lớn thánh lực của Na YuNa rồi kiệt sức ngất lịm.
 - Trạng thái tính đến chương 312: Trong không gian hư vô tâm thức, thẳng thừng từ chối lời chiêu dụ của kẻ tự xưng là Thượng Đế muốn biến cô thành Eva bên cạnh Adam (Yu IlHan) để hủy diệt và làm lại thế giới; tự mình lĩnh ngộ bản chất mana từ không gian xung quanh mà không cần kỹ năng, tạo nên kỳ tích chưa từng có trong Hồ Sơ Akashic; đánh tan ý niệm của Thượng Đế và từ chối thăng hoa một mình để trở về hội ngộ cùng Yu IlHan.
+- Trạng thái tính đến chương 313: Chấp nhận lời mời của Yu IlHan gia nhập Long Sào, bước vào Cái Nôi Kỳ Tích tiếp nhận máu của IlHan để tái sinh thành rồng chuyển chức 6 với hai cặp cánh; thấu hiểu cục diện Daréu qua ký lục của IlHan; giữ IlHan lại nói chuyện riêng và thú nhận việc vừa gặp Thượng Đế.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -444,6 +445,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 198: Làm kỵ sĩ hộ vệ cho Na YuNa tại Thánh đế quốc Elforce thuộc Breya; lo lắng cho cục diện chiến tranh và chuyện tình cảm của em gái Kang MiRae; bị Na YuNa đá vào cẳng chân vì trêu chọc chuyện tình cảm giữa cô và IlHan.
 - Trạng thái tính đến chương 220–222: Kề vai sát cánh cùng Na YuNa và Giáo hoàng trong cuộc chiến bảo vệ thánh địa; sẵn sàng hy sinh thân mình làm lá chắn cho Thánh nữ; sững sờ trước sức mạnh quét sạch chiến trường của Pháo Đài Bay và IlHan; giải thích cho Giáo hoàng về mối quan hệ giữa IlHan và YuNa; ngỡ ngàng khi phát hiện IlHan và Liera là người yêu, song cảnh báo IlHan rằng Na YuNa rất cứng đầu và sẽ không dễ dàng bỏ cuộc; đi ngủ sau một tuần cầm cự kiệt sức.
 - Trạng thái tính đến chương 226: Cùng Na YuNa bước lên Pháo Đài Bay trở về Trái Đất; tự ti và chua chát trước sự vô dụng của bản thân so với Yu IlHan, song nhận ra suy nghĩ hiếu thắng hay vương vấn tình cảm với Na YuNa đều là vô nghĩa; đứng bảo vệ Na YuNa khi cô hỗ trợ IlHan triển khai thánh địa trên Pháo Đài Bay.
+- Trạng thái tính đến chương 313: Đạt Lv 270 nhưng vẫn là người duy nhất trong nhóm chưa đủ điều kiện gia nhập Long Sào (yêu cầu Lv 300); bị Na YuNa trêu là kẻ cô độc; càu nhàu khi được Yu IlHan nhắc mọi người nhường điểm kinh nghiệm và lập tức co rúm người lại trước những cái lườm của hội phụ nữ.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.
@@ -473,6 +475,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 231: Đồng bộ với vương miện giáo hoàng để tiếp nhận quyền kiểm soát thánh địa nhân tạo trên Pháo Đài Bay; ôm chặt cánh tay Yu IlHan để trấn tĩnh nhận thức trong cơn bão thánh lực hỗn loạn; nhanh chóng làm chủ hoàn toàn thánh địa sau 3 giờ và có thể ngưng tụ thánh thạch ngay tại chỗ.
 - Trạng thái tính đến chương 225–226: Tỉnh dậy sau khi kiệt sức và phát hiện Liera đã thành thực thể cấp thấp, nhanh chóng trêu đùa và gọi thân mật là 'chị Liera'; từ chối ngai vàng Đế Quốc Thống Nhất để trở về Trái Đất cùng Yu IlHan; cùng Kang HaJin bước lên Pháo Đài Bay nhảy vọt chiều không gian về lại Hàn Quốc; ngỡ ngàng khi thấy quái vật chuyển chức 4 trên Trái Đất chỉ là nguồn kinh nghiệm; hờn dỗi khi IlHan không chịu giải thích về 1000 năm bị lãng quên nhưng vẫn vui vẻ phối hợp giúp IlHan kiến tạo thánh địa trên Pháo Đài Bay.
 - Trạng thái tính đến chương 259: Nhờ công sức duy trì bùa lợi và liên kết tổ đội tại Daréu thu về lượng EXP khổng lồ, sau khi nhận chuyển chức lần 4 đã tăng vọt lên Lv 279 cùng chức nghiệp phụ; lượng mana và thánh lực tăng vọt khiến cả thực thể cấp cao cũng kinh ngạc; sà vào lòng Kim YeSeul vui vẻ nhận làm "vợ hai" và bị Liera trừng phạt.
+- Trạng thái tính đến chương 313: Đạt tới chuyển chức 6 nhờ đóng góp to lớn bằng năng lực hỗ trợ toàn diện cho nhóm; vui vẻ trêu chọc Kang HaJin bị bỏ lại một mình ngoài Long Sào và chào đón Kang MiRae tỉnh lại.
 
 ### Feyta
 - Giới tính, vai trò: Nữ thiên thần, đóng vai trò thiên thần hộ mệnh quan sát và hỗ trợ Na YuNa trên Trái Đất.
@@ -757,6 +760,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách / Cách nói chuyện: Tự xưng "ta", gọi người khác là "ngươi", hay cãi nhau và đấu khẩu với Mystic; khi cần tịnh tâm thì niệm kinh Phật "Ma ha bát nhã ba la mật đa".
 - Trạng thái tính đến chương 227: Cùng Mystic phụ tá Yu IlHan vận hành các chức năng của Pháo Đài Bay.
 - Trạng thái tính đến chương 281: Được hoán đổi sang thân xác rồng chuyển chức 7 của Echjar đã được tinh chỉnh; càu nhàu và ngượng ngùng vì chưa điều khiển trơn tru cơ bắp và xương khớp rồng mới.
+- Trạng thái tính đến chương 313: Được Hồ Sơ Akashic công nhận ký lục và tái sinh thành chuyển chức 6 trong thân xác rồng của Echjar, có thể hóa thành hình dạng thiếu niên tóc đen; thăng hoa ngọn Hỏa Tím kết hợp lời nguyền chết người thi triển ma pháp cao cấp càn quét quái vật, được Echjar thừa nhận sự hữu dụng.
 
 ### Quân Đoàn Rồng (Dragon's Army)
 - Vai trò: Đội quân 9.300 đứa trẻ Trái Đất do Yumir lãnh đạo, được Yu IlHan nuôi dưỡng, trang bị và che chở trên Pháo Đài Bay.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T09:30:22Z",
+  "generatedAt": "2026-10-30T09:37:32Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1859,6 +1859,12 @@
           "title": "Chương 312: Ngươi Cũng Giống Như Ta – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_312.md",
           "sha": "ba8f261cc7149073783a459b521da72eadaaf730"
+        },
+        {
+          "number": 313,
+          "title": "Chương 313: Ngươi Cũng Giống Như Ta – 3",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_313.md",
+          "sha": "f223e9129537855d929a902fd0b63a59dfc9001c"
         }
       ]
     },

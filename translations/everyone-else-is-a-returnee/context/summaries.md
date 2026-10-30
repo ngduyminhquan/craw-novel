@@ -1904,6 +1904,13 @@ Trong không gian hư vô tâm thức, Kang MiRae đối mặt với kẻ tự x
 MiRae thẳng thừng từ chối vì ghét hôn nhân sắp đặt và mỉa mai Thượng Đế không hiểu tình yêu; khi Thượng Đế toan tấn công tinh thần, MiRae tự mình lĩnh ngộ bản chất mana không cần kỹ năng, đập tan không gian ý niệm của Thượng Đế và từ chối thăng hoa một mình.
 Cảnh kết thúc: Kang MiRae tỉnh lại trong nụ cười chào đón của Yu IlHan cùng nhóm bạn mang cánh rồng, đánh dấu việc tất cả mọi người đã tề tựu đông đủ.
 
+## 313
+Kang MiRae chấp nhận lời mời gia nhập Long Sào, dùng Cái Nôi Kỳ Tích hòa cùng máu của Yu IlHan để tái sinh thành rồng chuyển chức 6 với hai cặp cánh; Na YuNa cũng đã đạt chuyển chức 6 trong khi Kang HaJin đạt Lv 270 và bị trêu là người duy nhất chưa đủ cấp vào Long Sào.
+Yu IlHan giải trừ kết giới; Mystic điều khiển hai pháo đài bay đẩy lùi đợt quái vật tập kích, Orochi trong thân xác Echjar tái sinh thành chuyển chức 6 thi triển ngọn Hỏa Tím thăng hoa càn quét chiến trường; Yumir và Ruby tiếp tục khích lệ bầy rồng tiêu diệt quái vật diệt rồng.
+Yu IlHan nhận định cục diện đã ổn định nên yên tâm để đồng đội tác chiến, chuẩn bị lên kế hoạch hợp nhất Trái Đất với Daréu cũng như nghiên cứu các thực thể cấp cao kháng mana.
+Cảnh kết thúc: Kang MiRae giữ Yu IlHan lại để nói chuyện riêng và bất ngờ thú nhận cô vừa gặp Thượng Đế khiến anh ngỡ ngàng.
+
+
 
 
 
