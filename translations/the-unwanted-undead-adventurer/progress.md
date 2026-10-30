@@ -7,7 +7,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 |---|---|---|---|---|---|
 | 1 |  | Chapter_001 - Vol 1 Prologue.txt | Vol 1 Prologue | done |  |
 | 2 |  | Chapter_002 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (1).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (1) | done |  |
-| 3 |  | Chapter_003 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2) | todo |  |
+| 3 |  | Chapter_003 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2) | done |  |
 | 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | todo |  |
 | 5 |  | Chapter_005 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4) | todo |  |
 | 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -358,3 +357,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#7] Xưng hô Rentt và Rina — tạm chọn Rentt gọi Rina là 'cô/Rina', xưng 'tôi'; Rina gọi Rentt là 'anh Rentt' / 'tiền bối Rentt', xưng 'tôi' → Chốt Rentt xưng tôi gọi cô/Rina; Rina xưng tôi gọi anh Rentt/tiền bối Rentt (orchestrator)
 - [#1] Dịch 'lower-Bronze-class' — tạm chọn 'Hạ Đồng Cấp' (phương án khác: 'Đồng Cấp bậc thấp', 'Đồng Cấp sơ giai'). → Chốt Hạ Đồng Cấp (orchestrator)
 - [#2] Thuật ngữ 'Undead' — tạm chọn giữ nguyên 'Undead' theo phong cách kỳ ảo / light novel quen thuộc (phương án khác: 'Quái vật bất tử', 'Xác sống', 'Bất tử quái'). → Chốt giữ nguyên Undead (orchestrator)
+- [#3] Dịch 'magic crystal' (vật phẩm quái vật rơi ra) — tạm chọn 'Ma Tinh' (phương án khác: 'tinh thể ma thuật', 'ma thạch', 'đá ma thuật'). → Chốt Ma Tinh (orchestrator)

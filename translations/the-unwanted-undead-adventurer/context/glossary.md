@@ -44,3 +44,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gie Vieros |  | Gie Vieros | kỹ năng | 2 | Ma pháp thổ tiễn cơ bản (câu chú giữ nguyên) |
 | Re-popping |  | Tái Sinh Quái | hệ thống | 2 | Hiện tượng quái vật hồi sinh định kỳ trong mê cung |
 | Acid Blitz |  | Acid Blitz | kỹ năng | 4 | Đòn phun dung dịch axit của Slime (giữ nguyên tên đòn) |
+| Magic crystal | Magic crystals; magic crystal; magic crystals | Ma Tinh | vật phẩm | 3 | Tinh thể ma thuật rơi ra từ quái vật (魔石/魔晶石) |

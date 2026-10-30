@@ -13,3 +13,9 @@ Tỉnh dậy dưới hình hài Khô Lâu, Rentt nhanh chóng chấp nhận th�
 Anh kiểm tra lại ba nguồn năng lượng (Ma Lực, Khí Lực, Thần Lực) vốn ít ỏi nhưng vẫn theo mình sang cõi chết, mang lại lợi thế hơn hẳn quái Khô Lâu thường.
 Nhận thức được cơ thể xương xẩu nặng nề, Rentt cất bước quay lại đường cũ để tìm quái vật chiến đấu nhằm hấp thụ sinh mệnh lực.
 Sau năm phút di chuyển, Rentt chạm trán đối thủ đầu tiên: một con Khô Lâu không trang bị giáp vũ khí.
+
+## 3
+Rentt đối đầu với con Khô Lâu hoang dã trong Mê Cung Nguyệt Ảnh, chật vật làm quen với cơ thể xương xẩu thiếu cơ bắp.
+Sau pha va chạm khiến kiếm cắm vào hốc mắt kẻ địch, Rentt vận dụng Khí Lực bọc lấy cơ thể để gia tăng sức mạnh, đập nát hộp sọ khiến đối thủ vỡ vụn.
+Hấp thụ luồng sáng sinh mệnh bốc lên từ hài cốt kẻ thù (cùng việc nhặt viên Ma Tinh), Rentt cảm thấy cơ thể khỏe hơn và các nguồn năng lượng Ma Lực, Khí Lực, Thần Lực tăng nhẹ.
+Nhận ra Tiến Hóa Bản Thể cần thời gian và tích lũy qua nhiều trận chiến chứ không thể thành Ngạ Quỷ ngay lập tức, Rentt tiếp tục lên đường săn tìm quái vật khác.
