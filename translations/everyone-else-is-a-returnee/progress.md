@@ -328,7 +328,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 321 | 319 | Chapter_321 - Chapter 319_ I’m One That Closes The Curtain – 3.txt | I’m One That Closes The Curtain – 3 | reviewed |  |
 | 322 | 320 | Chapter_322 - Chapter 320_ I’m One That Closes The Curtain – 4.txt | I’m One That Closes The Curtain – 4 | reviewed |  |
 | 323 | 321 | Chapter_323 - Chapter 321_ I’m One That Closes The Curtain – 5.txt | I’m One That Closes The Curtain – 5 | reviewed |  |
-| 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | todo |  |
+| 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | done |  |
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | todo |  |
 | 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | todo |  |
 | 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | todo |  |
@@ -1040,3 +1040,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#323] Dịch điển tích "The Emille bell" — Tạm chọn: "Chuông Emille". Phương án khác: "Chuông Thần Emille". → Giữ Chuông Emille. (orchestrator)
 - [#322 đoạn 115] Câu thách thức Come at me! của Yu IlHan → Sửa thành Nhào vô đây mau! để sát nghĩa raw và giữ khí thế khiêu khích. (orchestrator)
 - [#323 đoạn 155] Tiếng cười Ufufufu của Helièna → Sửa thành Hì hì hì theo quy ước Việt hóa từ cảm thán Fufu trong style.md. (orchestrator)
+- [#324] Tiếng thét tuyên bố của Michael "[I! AM GOD!]" (đoạn 112) và "[The God you want, is here...]" (đoạn 116) — Tạm chọn: dịch "God" là "Thượng Đế" ("TA! CHÍNH LÀ THƯỢNG ĐẾ!", "Thượng Đế mà các ngươi hằng mong muốn đang ở ngay đây") để nhấn mạnh việc Michael tiếm quyền thay thế Thượng Đế Thiên giới vừa ruồng bỏ họ. Phương án khác: "TA! CHÍNH LÀ THẦN!" / "Vị Thần mà các ngươi hằng mong muốn...". → Giữ Thượng Đế để thể hiện đúng việc Michael tự xưng thay thế Thượng Đế của Thiên giới. (orchestrator)

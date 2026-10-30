@@ -103,7 +103,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira; tử trận ở #298 dưới ngọn thương của Yu IlHan | 289 |
 | Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |
 | Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri | 293 |
-| Uriel |  | Uriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới | 318 |
+| Uriel | Lady Uriel | Uriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới | 318 |
 | Vera |  | Vera | Thiên thần phản bội thuộc Quân Đội Thiên Giới bị Raphael vạch trần và Yu IlHan trảm thủ | 295 |
 | Anafière | Anafi | Anafière | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ, thực thể cấp cao chuyển chức 7 | 295 |
 | Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu; tử trận ở #298 dưới ngọn thương của Yu IlHan | 295 |
@@ -115,6 +115,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lay |  | Lay | Tên gọi ngắn gọn do Yu IlHan đặt cho Ngọn Lửa Vĩnh Cửu từ chương 315 | 315 |
 | Pygmalion |  | Pygmalion | Nhà điêu khắc đảo Síp trong thần thoại Hy Lạp đem lòng yêu bức tượng do chính mình tạc nên, được IlHan nhắc đến khi ví von | 317 |
 | Luciel |  | Luciel | Tên thuở ban đầu của Satan khi còn là Đại Thiên Thần trước khi phản bội và sa ngã (#320) | 320 |
+| Miriel | Archangel Miriel | Miriel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới | 324 |
 
 ## Chi tiết
 
@@ -895,6 +896,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 289: Được các thiên thần tại Wirepa nghi ngờ là người đang phóng hỏa thương thanh trừng nội gián; được Liera cảnh báo Yu IlHan phải lập tức tháo chạy nếu chạm trán vì khoảng cách sức mạnh quá lớn.
 - Xuất hiện tính đến chương 296: Hóa giải phong ấn truy dấu trên người Yu IlHan thất bại; thừa nhận đã đàm phán bắt tay với Quân Đội Ma Hủy Diệt để tiêu diệt IlHan; hoảng hốt trước tốc độ thức tỉnh thành Kẻ Thứ Năm của IlHan và phóng hỏa thương toan hạ sát anh nhưng bị Anafière liều mình chặn lại.
 - Xuất hiện tính đến chương 298: Dùng tạo tác thương cấp Thần giao chiến với Yu IlHan nhưng bị đoạt mất vũ khí và bị phản phệ bởi chính năng lực sao chép của tạo tác thông qua Siêu Việt Quỹ Đạo; bất lực chứng kiến Raphael tử trận và đành ngậm ngùi hạ lệnh cho toàn bộ thiên thần rút lui về Thiên giới.
+- Xuất hiện tính đến chương 324: Xuất hiện chặn đứng sự dao động của các thiên thần trước Uriel; hấp thụ sức mạnh của Thượng Đế và ký lục cần thiết thăng hoa thành Kẻ Siêu Việt với 5 cánh ánh sáng, tuyên bố từ bỏ thân phận thiên thần để trở thành Thượng Đế mới, rồi cầm giáo ánh sáng lao vào quyết chiến với Yu IlHan.
 
 ### Raphael
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.
@@ -925,6 +927,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 319: Tìm gặp Yu IlHan theo chỉ dẫn của Gabriel, đề nghị đồng hành để quan sát hành động của anh với tư cách đại diện Quân Đội Thiên Giới.
 - Xuất hiện tính đến chương 322: Cùng Gabriel tới Daréu; đề nghị Yu IlHan cho phép gia nhập Long Sào mà vẫn giữ nguyên thực lực; giải thích tình hình Quân Đội Thiên Giới và mối đe dọa từ Greed của Quân Đội Ma Hủy Diệt.
 - Xuất hiện tính đến chương 323: Bị Yu IlHan ném vào Cái Nôi Kỳ Tích cùng xác Legna, hấp thụ toàn bộ mana và sức mạnh cướp từ Thượng Đế để tái sinh thành rồng cấp 8 (Lv 600) với 4 cặp cánh rồng, chính thức gia nhập Long Sào.
+- Xuất hiện tính đến chương 324: Cùng Yu IlHan gián tiếp đột kích Thiên giới, lộ diện dưới hình dạng rồng cấp 8 với 4 cặp cánh rồng và trưng ra thi thể Legna để vạch trần Thượng Đế, kêu gọi các thiên thần gia nhập Long Sào.
 
 ### Crissière
 - Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 3 Của Ánh Sáng Rực Rỡ.
@@ -955,3 +958,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Luciel
 - Giới tính, vai trò: Nam, tên gọi ban đầu của Satan khi còn là Đại Thiên Thần của Quân Đội Thiên Giới trước khi cưỡng đoạt sức mạnh của Thượng Đế và sa ngã thành Kẻ Phản Bội (#320).
+
+### Miriel
+- Giới tính, vai trò: Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới.
+- Xuất hiện: Chương 324 (được các thiên thần xưng danh hiệu triệu tiêu diệt Yu IlHan).

@@ -522,7 +522,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 2nd Great Cataclysm |  | Đại Tai Biến lần 2 | hệ thống | 62 | Đợt bùng nổ mana và nâng cấp thế giới tiếp theo của Trái Đất |
 | Taegukgi |  | cờ Thái Cực | khác | 104 | Quốc kỳ của Đại Hàn Dân Quốc |
 | God of Love | god of love; Goddess of Love; goddess of love | Thần Tình Yêu | khác | 105 | Vị thần hình thành từ tích lũy ghi chép tình yêu trong Hồ Sơ Akashic, ban phước cho Liera |
-| Envoy of God | envoy of god; God's envoy | Sứ Giả Của Thượng Đế | khác | 105 | Thân phận sứ giả của các thiên thần phụng sự Thượng Đế |
+| Envoy of God | envoy of god; God's envoy; Envoys of God; envoys of God | Sứ Giả Của Thượng Đế | khác | 105 | Thân phận sứ giả của các thiên thần phụng sự Thượng Đế |
 | Apocalyptic-ally Beautiful Steel spear Blessed by the god of love |  | Thương Thép Đẹp Đến Tận Thế Được Thần Tình Yêu Ban Phước | vật phẩm | 105 | Ngọn thương của Liera tiến hóa từ thanh kiếm tồi tàn Yu IlHan rèn tặng cô ngày trước nhờ phước lành của Thần Tình Yêu |
 | Rule |  | Thống Trị | kỹ năng | 106 | Kỹ năng chủ động do Thiên giới ban thưởng sau khi dọn sạch Daréu, giúp thu nhận cấp dưới và thúc đẩy họ tăng trưởng |
 | Lead |  | Thống Suất | kỹ năng | 106 | Kỹ năng cấp thấp hơn của Thống Trị |

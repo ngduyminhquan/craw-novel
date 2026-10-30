@@ -524,3 +524,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Uriel | Yu IlHan | tôi | Chúa Tể | 323 | Sau khi tái sinh thành rồng cấp 8 thuộc Long Sào |
 | Kim YeSeul | Uriel | tôi | cô / cô Uriel | 323 | Đối thoại gay gắt khi Uriel gia nhập Long Sào |
 | Uriel | Kim YeSeul | tôi | cô | 323 | Uriel đối thoại với mẹ của Yu IlHan |
+| Uriel | Michael | tôi | anh / Michael | 324 | Uriel chất vấn sự thay đổi tâm trí của Michael |
+| Michael | Uriel | ta | ngươi / Uriel | 324 | Michael tuyên bố vượt lên trên Thượng Đế và cắt đứt với Uriel |

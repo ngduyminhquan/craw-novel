@@ -1976,3 +1976,10 @@ Yu IlHan ném xác Legna cùng Uriel vào Cái Nôi Kỳ Tích; Uriel hấp th�
 Gabriel rũ bỏ nhân dạng Yu YongHan và thân phận đại thiên thần, lộ diện là thủ lĩnh Khu Vườn Hoàng Hôn dưới hình dáng một thanh niên khôi ngô tóc xanh lam, cùng Kim YeSeul dịch chuyển đi tập hợp toàn bộ thế lực; Yu IlHan trao tạo tác lông vũ phẩm cấp Thần cho Paté chỉ huy nhóm elf về bảo vệ Trái Đất, giao Erica, Flemir cùng Ruby, First bảo vệ Daréu.
 Cảnh kết thúc: Yu IlHan phát động chiến dịch "Chiến Dịch Cuối Cùng", dẫn theo Liera, Erta, Helièna, Uriel và quân đoàn rồng bước lên Pháo Đài Hộ Vệ kích hoạt Dịch Chuyển tiến thẳng vào Thiên giới để cướp bóc harkanium, fecinom và el hazra.
 
+## 324
+Yu IlHan giáng lâm Thiên giới, đồng thời thi triển Tuyên Cáo và Hiển Hiện kết hợp hỏa diễm của Ngọn Lửa Vĩnh Cửu và Echjar để bành trướng lãnh địa, rồi tự trói buộc bằng Tuyên Cáo "không thể nói dối" để công khai vạch trần việc Thượng Đế đã ruồng bỏ Quân Đội Thiên Giới.
+Uriel xuất hiện với thân phận cựu Đại Thiên Thần nay đã tái sinh thành rồng cấp 8 mang 4 cặp cánh rồng, trưng ra thi thể quái vật Legna thuyết phục các thiên thần từ bỏ Thiên giới gia nhập Long Sào khiến hàng ngũ thiên thần dao động dữ dội.
+Đại thiên thần Michael xuất hiện cắt ngang, tuyên bố muốn vượt lên trên Thượng Đế để bảo vệ thế giới hiện tại; Michael hấp thụ sức mạnh của Thượng Đế và toàn bộ ký lục cần thiết, thăng hoa ngọn lửa thành ánh sáng và mọc ra 5 cánh ánh sáng, chính thức chạm tới cảnh giới Kẻ Siêu Việt và tự xưng là Thượng Đế mới.
+Yu IlHan hoàn toàn bình thản trước sự thăng cấp của Michael, thong thả tạo giáo lửa nghênh chiến giáo ánh sáng của đối phương.
+Cảnh kết thúc: Yu IlHan và Michael vung thương lao vào trận quyết chiến đỉnh cao giữa hai Kẻ Siêu Việt trên bầu trời Thiên giới.
+
