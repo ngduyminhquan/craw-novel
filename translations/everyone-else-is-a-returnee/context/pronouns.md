@@ -412,3 +412,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kim YeSeul | Helièna | bác | cháu / Helièna | 272 | Kim YeSeul vui vẻ hứa sẽ nói tốt cho Helièna trước mặt Yu IlHan |
 | Erta | Helièna | tôi / ta | cô / ả | 274 | Erta cảnh cáo và chặn đứng hành vi ve vãn Yu IlHan của Helièna |
 | Helièna | Erta | ta | cô | 274 | Helièna phản bác và so sánh Erta với Liera |
+| Michael Smithson | Yu IlHan | tôi | anh / Quý ngài Độc Nhất | 275 | Michael Smithson chất vấn và kinh ngạc trước ma pháp làm chậm Trái Đất của IlHan |
+| Yu IlHan | Michael Smithson | tôi | anh | 275 | Yu IlHan đáp lời và hướng dẫn luyện tập trong kết giới |
+| Takagaki Asuha | Yu IlHan | tôi | ngài Susanoo / ngài | 275 | Asuha tôn sùng IlHan như hóa thân thần Susanoo sau khi chứng kiến năng lực thao túng thời không |
+| Carina Malatesta | Michael Smithson | tôi | anh / Michael | 275 | Carina chủ động tấn công ép Michael gọi tên và xưng hô thân mật |
+| Michael Smithson | Carina Malatesta | tôi | Carina | 275 | Michael khuất phục và đồng ý gọi thẳng tên Carina |

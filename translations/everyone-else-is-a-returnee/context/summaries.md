@@ -1689,3 +1689,10 @@ Trên đường trở về Trái Đất, Orochi động viên và khuyên Yu IlH
 Trở lại Trái Đất, IlHan xác nhận cần thêm 4 ngày nữa để tái kích hoạt Đồng Hồ Cát Vĩnh Hằng nên tiếp tục dùng Dịch Chuyển chu du đến các thế giới khác để giải cứu người sống sót; tại một thế giới đã bị hủy diệt hoàn toàn, anh quét sạch quái vật giải cứu người bản địa và được họ tôn sùng như Thượng Đế rồi nằng nặc đòi đi theo.
 Cảnh kết thúc: Sau 4 ngày chu du qua 42 thế giới, Yu IlHan và nhóm Kang MiRae đưa hơn 10 vạn người từ các thế giới khác về Trái Đất, sẵn sàng tái kích hoạt Đồng Hồ Cát Vĩnh Hằng.
 
+## 275
+Yu IlHan và đồng đội phát hiện ba chủ clan Michael Smithson, Carina Malatesta và Takagaki Asuha đã đạt chuyển chức lần 4 và nỗ lực kháng cự ma pháp làm chậm trên Trái Đất; anh mời họ cùng vào kết giới Đồng Hồ Cát Vĩnh Hằng tu luyện.
+Trong kết giới, Carina dùng vũ lực tấn công Michael rồi tỏ tình và yêu cầu anh gọi thẳng tên mình; Asuha cuồng nhiệt sùng bái Yu IlHan như hóa thân chuyển thế của thần Susanoo; Carina đại diện cam kết trung thành và nguyện theo sự dẫn dắt của IlHan.
+Yu IlHan sắp xếp cho mọi người dùng chung Cái Nôi Kỳ Tích ngâm máu rồng Echjar để nâng cao cảnh giới, đồng thời phát hiện ma pháp làm chậm toàn cầu kéo dài thời lượng kết giới từ 2 tháng lên tới khoảng một năm rưỡi.
+Erta hỗ trợ triệu hồi một con Ác Ma Rung cấp cuối 200 vào kết giới để ba vị chủ clan cọ xát và tăng cấp.
+Cảnh kết thúc: Mở ra một năm rưỡi cuộc sống tu luyện đầy hứa hẹn bên trong kết giới của nhóm Yu IlHan.
+

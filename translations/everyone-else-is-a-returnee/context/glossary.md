@@ -758,3 +758,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Midora |  | Midora | địa danh | 268 | Thế giới nơi Thiếu tướng Yun DaeHan cùng 39 cấp dưới chuyển sinh tới |
 | Gyeonggi-do | Gyeongi-do; Gyeonggi | Gyeonggi-do | địa danh | 273 | Tỉnh Gyeonggi bao quanh thủ đô Seoul, Hàn Quốc |
 | SimCity |  | SimCity | khác | 274 | Được phép giữ nguyên: Trò chơi mô phỏng xây dựng và quản lý thành phố nổi tiếng |
+| Lord Susanoo |  | ngài Susanoo | danh hiệu | 275 | Tôn xưng của người dân Nhật Bản và Takagaki Asuha dành cho Yu IlHan |
+| Hourglass |  | Đồng Hồ Cát | vật phẩm | 275 | Tên gọi tắt của Đồng Hồ Cát Vĩnh Hằng |
+| Vibration Demon | vibration demon | Ác Ma Rung | quái vật | 275 | Quái vật ác ma có cơ thể rung chấn liên tục |

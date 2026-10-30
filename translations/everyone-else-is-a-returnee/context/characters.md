@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 | Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến; tính đến #243 liều mình cầm chân Echjar rồi được IlHan dịch chuyển về Trái Đất; tính đến #244-#245 cùng Yu IlHan quyết chiến với Echjar tại Trái Đất và bị trọng thương, sau đó chứng kiến IlHan kết liễu Echjar; tính đến #246 chèo kéo IlHan gia nhập Quân Đội Thiên Giới bất thành, rồi bị IlHan bỏ lại Daréu một mình gánh việc giải trình về cái chết của Echjar; đã giải trừ khế ước Bạn Đồng Hành Thiên Thần với Yu IlHan và tử trận ở #253 sau trận quyết đấu sinh tử cùng anh | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
-| Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
+| Michael Smithson | Smithson; Michael | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
 | Liera | Lieara; LIera; Lier | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
@@ -492,17 +492,20 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 72: Chỉ huy clan Metal Knights tác chiến tại quận Nerima (Tokyo); tức tối vì bị Yu IlHan (Susanoo) cướp sạch quái vật chuyển chức 2; lên kế hoạch lôi kéo các clan quy mô nhỏ làm mồi nhử chết thay để trục lợi danh vọng.
 - Trạng thái tính đến chương 82: Đại diện Clan Metal Knights tới mua trang bị tại Vanguard; miễn cưỡng hùa theo các clan khác ngỏ ý bảo hộ Yu IlHan với vẻ mặt nhăn nhó; sững sờ trước chất lượng và mức giá tạo tác Độc Nhất của IlHan.
 - Trạng thái tính đến chương 153: Thỏa thuận chia đôi lực lượng hoán đổi thành viên với clan Magia để vừa bảo vệ Anh vừa hỗ trợ Ý trong Đại Tai Biến lần 2; tại London, dũng cảm dùng thanh đại kiếm phẩm cấp Độc Nhất mua từ Vanguard dồn toàn bộ mana liều mạng chém vỡ vòng xoáy mana để bảo vệ các pháp sư, sau đó ngỡ ngàng phát hiện cánh cổng kết nối trở lại thế giới Melotra nơi gã từng tu luyện 10 năm.
+- Trạng thái tính đến chương 275: Đột phá lên chuyển chức lần 4; cùng Carina Malatesta và Takagaki Asuha nỗ lực kháng cự ma pháp làm chậm trên Trái Đất và hồi phục 40% tốc độ di chuyển; được mời vào kết giới Đồng Hồ Cát Vĩnh Hằng; bị Carina lên gối khống chế cưỡng hôn, chấp nhận gọi thẳng tên Carina; bị Erta thả Ác Ma Rung cấp cuối 200 bắt đầu quá trình luyện tập tăng cấp.
 
 ### Carina Malatesta
 - Giới tính, vai trò: Nữ, quý cô quý tộc kiêu kỳ, chủ clan (Lord of Magia) của Clan Magia đến từ Ý.
 - Trạng thái tính đến chương 73: Bắt tay lập tổ đội tạm thời với Michael Smithson (Metal Knights) kết hợp ma pháp hùng mạnh với phòng thủ kiên cố để cùng chống lại bầy quái vật dị biến chuyển chức 3 và 4 bảo vệ Trái Đất.
 - Trạng thái tính đến chương 153: Phối hợp cùng các thành viên clan Metal Knights tác chiến tại Ý; thi triển ma pháp Đại Bạo Tạc dọn sạch quái vật quanh vòng xoáy mana và ngỡ ngàng khi vòng xoáy biến thành cánh cổng dẫn tới thế giới cũ gặp lại sư phụ dạy ma pháp kiêm Cung Đình Ma Pháp Sư của mình.
+- Trạng thái tính đến chương 275: Đạt chuyển chức lần 4; nỗ lực kháng cự ma pháp làm chậm Trái Đất; bước vào kết giới Đồng Hồ Cát Vĩnh Hằng liền dùng đòn lên gối kèm ma pháp tê liệt đốn ngã Michael Smithson để cưỡng hôn và yêu cầu anh gọi thẳng tên mình; rũ bỏ vẻ kiêu kỳ cúi đầu cảm ơn IlHan vì đã giúp cô gặp lại người mình yêu, đồng thời tuyên thệ trung thành tuyệt đối và nguyện theo sự dẫn dắt của IlHan để giải cứu những người còn thất lạc.
 
 ### Takagaki Asuha
 - Giới tính, vai trò: Nữ, chủ clan (Clan Master) của Clan Ma Long (Magic Dragon Clan) đến từ Nhật Bản.
 - Vũ khí: Dùng roi da quấn quanh eo.
 - Tính cách: Sắc sảo, thực tế, lịch thiệp và nhạy bén; tỏ ra hứng thú đặc biệt với vũ khí roi da cấp cao của Yu IlHan.
 - Trạng thái tính đến chương 82: Đại diện Clan Ma Long tham dự buổi mở bán tại Vanguard; chất vấn và ngỏ lời bảo hộ Yu IlHan; say mê chiếc Roi Da Gai Dính Hồn phẩm cấp Độc Nhất và là người đầu tiên đăng ký mua.
+- Trạng thái tính đến chương 275: Đạt chuyển chức lần 4; cùng hai chủ clan nỗ lực kháng cự ma pháp làm chậm; tiến vào kết giới Đồng Hồ Cát Vĩnh Hằng và bày tỏ sự tôn sùng tuyệt đối với Yu IlHan như hóa thân chuyển thế của thần Susanoo có khả năng thao túng thời không.
 
 ### Lecidna
 - Giới tính, vai trò: Con rồng vảy vàng kim (chuyển chức 4, giống cái) tại đại lục Daréu, thuộc thiểu số rồng tiếp nhận mặc khải từ Khu Vườn Hoàng Hôn bảo vệ loài elf.
