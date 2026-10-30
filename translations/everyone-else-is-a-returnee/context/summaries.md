@@ -2045,6 +2045,12 @@ Satan gặp mặt Thượng Đế báo tin đã trừ khử Gabriel nhưng từ 
 Tại Daréu, Yu IlHan dùng mana thanh tẩy và dung hợp góc thế giới hỗn loạn bị nôn tháo từ đòn Quỹ Đạo Ngân Hà, đồng thời trấn an mẹ Kim YeSeul và nghe bà kể về thời gian dài chiến đấu gian khổ ở thế giới chính nhờ ma pháp thời không của Gabriel.
 Cảnh kết thúc: Yu IlHan tiếc nuối vì không thể tung thêm đòn Final Buster sau Đại Tai Biến lần 8, trong khi Kang MiRae mỉm cười giơ trượng mở ra hàng trăm cánh cổng mới theo yêu cầu hoàn tất công việc.
 
+## 335
+Đại Tai Biến lần thứ 9 của Daréu kết thúc thành công mỹ mãn; toàn bộ 23.000 thế giới bậc cao của các phe phái (ngoại trừ thế giới chính) đã bị Daréu dung hợp triệt để; hầu hết thuộc hạ đều thăng hoa thành thực thể cấp cao, Mystic chạm tới chuyển chức 8 còn Yu IlHan đạt cấp 748.
+Yu IlHan thử kích hoạt Dịch Chuyển lần nữa nhưng Gabriel tiếp tục từ chối tiếp nhận; anh lo ngại Satan liên quan đến các vị thần được ghi chép và bố mình sẽ gặp nguy hiểm.
+Trò chuyện cùng Liera và Helièna, Yu IlHan tự nhận mình là Kẻ Sáng Tạo chưa hoàn chỉnh (Bán Thể) và khẳng định không thể liều lĩnh xông vào lòng địch khi tính mạng người thân đang bị đe dọa; tiếp đó anh bộc phát "góc tối nội tâm" của một kẻ đơn độc kinh niên khiến mọi người vừa xót xa vừa bối rối an ủi.
+Cảnh kết thúc: Yu IlHan gạt bỏ cảm xúc và yêu cầu Kang MiRae dùng Quỹ Đạo Ngân Hà mở một cây cầu khổng lồ nối liền Daréu với Trái Đất để chuẩn bị cho trận chiến tiếp theo.
+
 
 
 
