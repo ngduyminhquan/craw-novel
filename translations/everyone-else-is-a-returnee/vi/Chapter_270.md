@@ -1,6 +1,6 @@
 # Chương 270: Nếu Muốn Theo Tôi – 5
 
-Khi họ quay trở lại, đồng hồ điểm 4 giờ sáng theo giờ Guundia. Nếu thế giới vẫn bình thường, lẽ ra mọi người đều đang chìm trong giấc ngủ, nhưng đối với những người ở Guundia vốn phải đề phòng quái vật suốt hai mươi tư trên bảy, điều này đương nhiên không áp dụng cho họ.
+Khi họ quay trở lại, đồng hồ điểm 4 giờ sáng theo giờ Guundia. Nếu thế giới vẫn bình thường, lẽ ra mọi người đều đang chìm trong giấc ngủ, nhưng đối với những người ở Guundia vốn phải đề phòng quái vật suốt 24/7, điều này đương nhiên không áp dụng cho họ.
 
 Đèn đuốc sáng trưng ở nhiều nơi trong pháo đài, và lính canh không khỏi cảnh giác cao độ trước Yu IlHan cùng Pháo Đài Hộ Vệ đột ngột xuất hiện từ hư không sau khi Yu IlHan giải trừ Ẩn Thân, dù họ thừa biết mình chẳng thể nào thắng nổi anh.
 

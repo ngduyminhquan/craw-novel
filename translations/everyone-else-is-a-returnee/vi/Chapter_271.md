@@ -60,7 +60,7 @@ Nhưng giờ thì anh biết làm sao được? Chính họ là những người
 
 Trên đường trở về từ Venezuela, Yu IlHan đã thiết lập mức độ thiết bị an toàn tối thiểu. Trước tiên, anh quét sạch lũ quái vật, rồi lắp đặt đủ loại bẫy và vũ khí tự động được chế tạo từ các nguyên liệu thu thập được từ chính chúng.
 
-Nếu những con quái vật vượt trên mức 'thông thường' xuất hiện — chẳng hạn như đám ác ma biến thái — các thiết bị sẽ tự động kích hoạt và thậm chí gửi tín hiệu báo cho Yu IlHan. Trước khi Trái Đất phi thăng thành một thế giới bậc cao, sự chuẩn bị chừng này hẳn là đủ để bảo vệ họ.
+Nếu những con quái vật vượt trên mức 'thông thường' xuất hiện — chẳng hạn như đám ác ma biến thái — các thiết bị sẽ tự động kích hoạt và thậm chí gửi tín hiệu báo cho Yu IlHan. Trước khi Trái Đất thăng cấp thành một thế giới bậc cao, sự chuẩn bị chừng này hẳn là đủ để bảo vệ họ.
 
 [Thật tốt bụng làm sao.]
 
@@ -118,7 +118,7 @@ Nếu có thể, anh cũng muốn nhờ tới sự trợ giúp của Kang MiRae,
 
 Erta nhớ ra một điều sau khi nghe thấy vậy.
 
-"Ma pháp trận của yêu tinh cổ đại ở Daréu. Trời đất ơi."
+"Ma pháp trận của tộc elf cổ đại ở Daréu. Trời đất ơi."
 
 "Phải, đây là phiên bản cường hóa. Cho nên... tôi sẽ biến những gì Đại tá Han YeoRang nói trở nên không còn cách quá xa sự thật."
 

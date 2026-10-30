@@ -274,9 +274,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 267 |  | Chapter_267 - If You Wish To Follow Me – 2.txt | If You Wish To Follow Me – 2 | reviewed |  |
 | 268 |  | Chapter_268 - If You Wish To Follow Me – 3.txt | If You Wish To Follow Me – 3 | reviewed |  |
 | 269 |  | Chapter_269 - If You Wish To Follow Me – 4.txt | If You Wish To Follow Me – 4 | reviewed |  |
-| 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | done |  |
-| 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | done |  |
-| 272 |  | Chapter_272 - If You Wish To Follow Me – 7.txt | If You Wish To Follow Me – 7 | done |  |
+| 270 |  | Chapter_270 - If You Wish To Follow Me – 5.txt | If You Wish To Follow Me – 5 | reviewed |  |
+| 271 |  | Chapter_271 - If You Wish To Follow Me – 6.txt | If You Wish To Follow Me – 6 | reviewed |  |
+| 272 |  | Chapter_272 - If You Wish To Follow Me – 7.txt | If You Wish To Follow Me – 7 | reviewed |  |
 | 273 |  | Chapter_273 - If You Wish To Follow Me – 8.txt | If You Wish To Follow Me – 8 | todo |  |
 | 274 |  | Chapter_274 - Why Only Me_ – 1.txt | Why Only Me_ – 1 | todo |  |
 | 275 |  | Chapter_275 - Why Only Me_ – 2.txt | Why Only Me_ – 2 | todo |  |

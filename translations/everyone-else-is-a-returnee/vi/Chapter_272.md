@@ -210,7 +210,7 @@ Yu IlHan phớt lờ lời ả. Chỉ riêng việc hỗ trợ Ý Chí Hộ Vệ
 
 [... Chuyện đơn giản.]
 
-Ánh sáng từ hồ nước dần trở nên rực rỡ hơn theo thời gian, và mực nước rốt cuộc cũng bắt đầu hạ xuống. Một phần Ý Chí Hộ Vệ thoát ra qua các mạch địa hạ đã hấp thụ độ ẩm từ lòng đất, ngày một lớn mạnh hơn rồi chậm rãi nhưng chắc chắn lan tỏa tới nhiều nơi trên khắp Trái Đất.
+Ánh sáng từ hồ nước dần trở nên rực rỡ hơn theo thời gian, và mực nước rốt cuộc cũng bắt đầu hạ xuống. Một phần Ý Chí Hộ Vệ luồn qua lòng đất đã hấp thụ độ ẩm, ngày một lớn mạnh hơn rồi chậm rãi nhưng chắc chắn lan tỏa tới nhiều nơi trên khắp Trái Đất.
 
 [Ta.]
 
