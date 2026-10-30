@@ -337,7 +337,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | reviewed |  |
 | 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | reviewed |  |
 | 332 | 330 | Chapter_332 - Chapter 330_ Harmageddon – 6.txt | Harmageddon – 6 | reviewed |  |
-| 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | todo |  |
+| 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | done |  |
 | 334 | 332 | Chapter_334 - Chapter 332_ Harmageddon – 8.txt | Harmageddon – 8 | todo |  |
 | 335 | 333 | Chapter_335 - Chapter 333_ Harmageddon – 9.txt | Harmageddon – 9 | todo |  |
 | 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -1061,3 +1060,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#332] Tên chiêu thức "Final Buster" do Yu IlHan tự kỷ đặt tên theo phong cách anime bị Kang MiRae chê — Tạm chọn: giữ nguyên "Final Buster" (và "Final Busterrrrrrrrr!") để giữ chất hài hước otaku; Phương án khác: dịch Hán Việt "Chung Cực Bộc Phá" theo rules.md. → Chấp nhận giữ nguyên 'Final Buster' (và 'Final Busterrrrrrrrr!') để giữ chất hài chuunibyou/anime (orchestrator)
 - [#332] Danh xưng "Liberator" các vị thần được ghi chép gọi Yu IlHan khi được giải thoát khỏi sự trói buộc của hồ sơ — Tạm chọn: "Đấng Giải Thoát"; Phương án khác: "Kẻ Giải Phóng" / "Đấng Giải Phóng". → Chốt 'Đấng Giải Thoát' (orchestrator)
 - [#332] Tên kỹ năng ma pháp không gian cực hạn mới "Galactic Trajectory" của Kang MiRae — Tạm chọn: "Quỹ Đạo Ngân Hà"; Phương án khác: "Ngân Hà Quỹ Đạo". → Chốt 'Quỹ Đạo Ngân Hà' (orchestrator)
+- [#333] Tiêu đề chương "Harmageddon – 7" có nên giữ nguyên tên arc như các chương #327–#332 hay Việt hóa — Tạm dùng: "# Chương 333: Harmageddon – 7". Đề xuất: Giữ nguyên để thống nhất toàn bộ arc Harmageddon. → Giữ nguyên 'Harmageddon – 7' đồng bộ với toàn bộ arc Harmageddon (orchestrator)

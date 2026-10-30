@@ -2033,6 +2033,12 @@ Yu IlHan kích hoạt Tuyên Cáo kết hợp với ma pháp không gian của K
 Yu IlHan gom toàn bộ mana lửa cuồng bạo của Daréu tung đòn 'Final Buster' ném thẳng vào các cánh cổng, quét sạch hàng trăm ngàn thực thể cấp cao và dẹp yên Đại Tai Biến lần thứ 8; các vị thần được ghi chép xưng tụng Yu IlHan là Đấng Giải Thoát và Thượng Đế mới trước khi giải thoát khỏi ghi chép.
 Cảnh kết thúc: Bầu trời Daréu quang đãng trở lại trong tiếng hò reo ăn mừng của thuộc hạ; Yu IlHan ngỡ ngàng nhận ra chỉ có mình anh nghe thấy lời truyền tụng của các vị thần được ghi chép trong khi Mystic kêu ca về cơn đau đầu sắp tới do dung hợp hàng ngàn thế giới.
 
+## 333
+Yu IlHan cùng Mystic nén và dung hợp gần bảy ngàn thế giới vào Daréu, biến Daréu thành thế giới siêu việt ngập tràn cạm bẫy ma pháp tự nhiên; Carina Malatesta, Michael Smithson và Takagaki Asuha đều an toàn tiến hóa thành rồng thực thụ chuyển chức 5.
+Nhờ lượng kinh nghiệm khổng lồ từ việc quét sạch hàng ngàn thế giới, Yu IlHan thăng lên cấp 650, thể xác được cường hóa vượt bậc và đúc kết chân lý cốt lõi về bản chất của cấp độ là sự tích lũy ghi chép.
+Nhận ra các vị thần được ghi chép từng bị Quân Đội Ánh Sáng Rực Rỡ giam cầm và cha mẹ đang gặp nguy trước Satan cùng Lazière, Yu IlHan dùng Dịch Chuyển triệu hồi cả hai nhưng Gabriel từ chối để ở lại cầm chân kẻ địch, khiến chỉ có Kim YeSeul (đã đạt chuyển chức 6) xuất hiện.
+Cảnh kết thúc: Kim YeSeul đau lòng báo tin Gabriel ở lại cản địch khiến Yu IlHan gào thét vì điềm báo tử lộ liễu, trong khi một biến cố kinh hoàng như địa ngục bất ngờ bùng nổ ở một góc thế giới Daréu.
+
 
 
 
