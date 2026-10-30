@@ -837,3 +837,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Sole God |  | Vị Thần Duy Nhất | khác | 342 | Tên arc từ chương 342 đến 349 |
 | God of Light | god of light | Thần Ánh Sáng | khác | 344 | Khái niệm vị thần của ánh sáng mà Michael thức tỉnh khi vượt qua Hồ Sơ Akashic |
 | multiverse |  | đa vũ trụ | khác | 347 | Toàn thể các thế giới và thứ nguyên trong vũ trụ quan của truyện |
+| Lord of Heaven's Army | Lord of Heaven’s Army | Chúa Tể Quân Đội Thiên Giới | danh hiệu | 350 | Danh hiệu và ghi chép của Thượng Đế Thiên giới thu được sau khi Yu IlHan tiêu diệt ông ta |
+| Great Expulsion |  | Đại Trục Xuất | khác | 350 | Sự kiện toàn bộ nhân loại Trái Đất bị Thượng Đế chuyển dời sang các thế giới khác khi Trái Đất bước vào Đại Tai Biến |

@@ -2138,3 +2138,9 @@ Yu IlHan đưa Gabriel (đang ẩn thân làm người thường tại Thiên gi
 Yu IlHan kích hoạt kỹ năng Tuyên Cáo kết hợp thành phố trên không và các pháo đài để mở màn cuộc phản công.
 Ở phía bên kia, Thượng Đế sau khi nuốt chửng Michael đang hân hoan chuẩn bị tiêu diệt tất cả thì bàng hoàng phát hiện kho ghi chép trong dạ dày mình đã bị xâm nhập và bầy thuộc hạ không còn phản hồi.
 Cảnh kết thúc: Giữa lúc Thượng Đế sững sờ trước thông báo [Chí Mạng!], Yu IlHan bất ngờ xuất hiện buông lời mỉa mai chúc một ngày đẹp trời để bỏ mạng khi chính Thượng Đế mới là kẻ vừa trúng đòn.
+
+## 350
+Yu IlHan chĩa pháo kết hợp Siêu Việt Quỹ Đạo bắn nát tim Thượng Đế rồi khuấy Lưỡi Kiếm Kẻ Báo Thù kết liễu trùm cuối, nhận ghi chép của Chúa Tể Quân Đội Thiên Giới, thăng lên cấp 911 và tối đa hóa kỹ năng Sáng Tạo.
+Sau khi thiêu rụi thân xác Thượng Đế và thu gom tàn niệm, Yu IlHan kích hoạt mạng lưới Bẫy Phục Hồi bao trùm Thiên giới cùng mọi thế giới, triệu hồi và dung hợp tất cả vào Trái Đất, chính thức trở thành Chúa Tể Thế Giới mới.
+Dùng mana cấp 900 phát động Tuyên Cáo, Yu IlHan tái sinh và đưa những linh hồn thuần khiết của những đứa trẻ chết oan uổng trong Đại Trục Xuất trở về sống trong yên bình, khiến mẹ Kim YeSeul cùng mọi người xúc động rơi lệ.
+Cảnh kết thúc: Yu IlHan điều khiển pháo đài bay đáp xuống Trái Đất để nghênh đón nhân loại trở về, khép lại hành trình bằng lời chào hóm hỉnh của kẻ cô độc đã luôn chờ đợi tất cả.

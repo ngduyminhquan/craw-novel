@@ -589,3 +589,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Satan | Yu IlHan | ta | ngươi / cậu / nhóc / Yu IlHan | 348 | Satan trò chuyện và thừa nhận suy luận của Yu IlHan |
 | Uriel | Satan | tôi | anh / ngươi / Lucifer / Satan | 348 | Uriel chất vấn và tuyệt giao với Satan |
 | Satan | Uriel | ta | cô / Uriel | 348 | Satan khuyên Uriel tỉnh mộng |
+| God | Yu IlHan | ta | ngươi | 350 | Thượng Đế gào thét phẫn nộ và đe dọa trừng phạt Yu IlHan |
+| Yu IlHan | God | tôi | ông | 350 | Yu IlHan mỉa mai và truy vấn Thượng Đế về trùm ẩn hay trùm cuối thật sự |
+| God | Gabriel | ta | ngươi | 350 | Thượng Đế mắng mỏ Gabriel vì sa đọa và quy phục Yu IlHan |
+| Gabriel | God | tôi | ông già Thượng Đế / ông | 350 | Gabriel giễu cợt Thượng Đế về tỷ lệ tử vong 100,1% |
+| Lucifer | God | ta | ông già | 350 | Lucifer khoe cánh rồng ngầu hơn cánh bồ câu với Thượng Đế |

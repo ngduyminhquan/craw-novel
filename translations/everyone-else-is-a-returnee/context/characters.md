@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
@@ -12,7 +12,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae; MiRae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71, thăng đại tá từ ch269) | 9 |
-| God | Lord God; The Lord | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo | 1 |
+| God | Lord God; The Lord | Thượng Đế | Đấng tạo hóa sơ suất bỏ quên IlHan khỏi danh sách chuyển sinh; khi xuất hiện trong ngữ cảnh Thần đạo Nhật Bản (nói về Susanoo, Takemikazuchi, Amaterasu hay các vị Thần nói chung) thì dịch là Thần linh / vị Thần, tránh nhầm lẫn với Thượng Đế Đấng sáng tạo; tính đến #350 bị Yu IlHan dùng pháo đạn Archlegna và Lưỡi Kiếm Kẻ Báo Thù tiêu diệt hoàn toàn, thi thể bị thiêu rụi và tàn niệm bị thu gom | 1 |
 | Do WooJun | WooJun; Do Woojoon; Woojoon | Do WooJun | Đội trưởng nhóm Kẻ Hành Quyết 5 người, xem IlHan là đối thủ | 15 |
 | Yun DaeHan | Yoon DaeHan; Captain Yoon DaeHan; Yoon DaeBang | Yun DaeHan | Sĩ quan quân đội Hàn Quốc chỉ huy lực lượng đặc nhiệm Trấn Áp (thiếu tá ở chương 15, lên đại tá ở chương 59, thăng thiếu tướng tính đến chương 268) | 15 |
 | Fashta |  | Fashta | Thiên thần đồng nghiệp của Erta xuống hỗ trợ Chế Tác Mana | 18 |
@@ -102,7 +102,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8; ở #344 giác ngộ bản chất Kẻ Siêu Việt và thức tỉnh thành Thần Ánh Sáng; tử trận ở #347 khi bị Thượng Đế bóp nát đầu và nuốt chửng | 289 |
 | Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira; tử trận ở #298 dưới ngọn thương của Yu IlHan | 289 |
 | Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |
-| Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri | 293 |
+| Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri; tính đến #350 chuyển hóa thành rồng chuyển chức 9 thuộc Long Sào | 293 |
 | Uriel | Lady Uriel | Uriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới | 318 |
 | Vera |  | Vera | Thiên thần phản bội thuộc Quân Đội Thiên Giới bị Raphael vạch trần và Yu IlHan trảm thủ | 295 |
 | Anafière | Anafi | Anafière | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ, thực thể cấp cao chuyển chức 7 | 295 |
@@ -118,7 +118,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Miriel | Archangel Miriel | Miriel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới | 324 |
 | Tachiel |  | Tachiel | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 | 326 |
 | Limaère | Limaere; Lima | Limaère | Cánh Thứ 10 Của Ánh Sáng Rực Rỡ, thực thể cấp 7 thuộc phe Satan bị Orochi tiêu diệt | 328 |
-| Lucifer |  | Lucifer | Tên gọi cũ của Satan thuở trước khi vứt bỏ danh xưng này (#330) | 330 |
+| Lucifer |  | Lucifer | Tên gọi cũ của Satan thuở trước khi vứt bỏ danh xưng này (#330); tính đến #350 chuyển hóa thành rồng sở hữu 13 cánh rồng thuộc Long Sào | 330 |
 | Boomer’ol | Boomer'ol; 5th Battalion Commander Boomer’ol | Boomer’ol | Tiểu Đoàn Trưởng Tiểu Đoàn 5 thuộc Quân Đội Ma Hủy Diệt, có khả năng kích nổ tử thi ma binh để tập kích | 331 |
 | Siferai | 9th Battalion Commander Siferai | Siferai | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt, cự nhân mang sừng bọc thân như giáp, thể lực đứng thứ hai sau Greed, mang kịch độc trong máu; hi sinh để hạ độc làm suy yếu Michael | 331 |
 | Leytna | Lady Leytna; Lady Letyna; Leyta | Leytna | Nữ Thần Sắc Đẹp trong quá khứ, một vị thần được ghi chép; xuất hiện dưới dạng tàn niệm truyền dạy bí quyết cho Na YuNa ở #337 | 81 |

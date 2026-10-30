@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T16:29:19Z",
+  "generatedAt": "2026-10-30T16:36:38Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2081,6 +2081,12 @@
           "title": "Chương 349: Vị Thần Duy Nhất – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_349.md",
           "sha": "9ea73d5402bbdb1f922d2b9de6044b547ab36a7d"
+        },
+        {
+          "number": 350,
+          "title": "Chương 350: Vĩ thanh",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_350.md",
+          "sha": "eb301107480706b40e1b5e89f2219779c8eff075"
         }
       ]
     },
