@@ -708,7 +708,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Feather of Temptation | Feathers of Temptation | Lông Vũ Mê Hoặc | vật phẩm | 218 | Bộ chiến bào trang phục rèn từ 300.000 lông vũ và máu trắng của Liera (Rank Thần) |
 | Nietzsche |  | Nietzsche | khác | 218 | Nhà triết học Friedrich Nietzsche với tuyên ngôn Thượng Đế đã chết (tham chiếu triết học) |
 | Zarathustra |  | Zarathustra | khác | 218 | Nhân vật trong tác phẩm triết học của Nietzsche (tham chiếu triết học) |
-| Dimensional Traveller |  | Du Hành Giả Thứ Nguyên | chức nghiệp | 219 | Chức nghiệp phụ độc nhất Yu IlHan đạt được, giảm tài nguyên tiêu hao khi di chuyển giữa các thứ nguyên |
+| Dimensional Traveller | Dimensional Traveler | Du Hành Giả Thứ Nguyên | chức nghiệp | 219 | Chức nghiệp phụ độc nhất Yu IlHan đạt được, giảm tài nguyên tiêu hao khi di chuyển giữa các thứ nguyên |
 | Dimensional Adaptation |  | Thích Ứng Thứ Nguyên | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên giúp xóa bỏ mọi phạt chỉ số ở bất kỳ thứ nguyên nào |
 | Fleet Command |  | Chỉ Huy Hạm Đội | kỹ năng | 219 | Kỹ năng bị động của Du Hành Giả Thứ Nguyên cho phép mang thành viên đi cùng khi di chuyển chiều không gian và chia sẻ Thích Ứng Thứ Nguyên |
 | Ruler of Dimensions | Dimensional Ruler | Chúa Tể Thứ Nguyên | kỹ năng | 219 | Kỹ năng chủ động của Du Hành Giả Thứ Nguyên cho phép cảm nhận và ngăn chặn thực thể khác xâm nhập khi ở một thứ nguyên đủ lâu |
@@ -783,3 +783,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Raphael of Healing |  | Raphael Trị Liệu | danh hiệu | 289 | Danh xưng của Raphael, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 | four Great Archangels | Great Archangels | tứ Đại Thiên Thần | cấp bậc | 288 | Bốn vị đại thiên thần quyền lực tối cao lãnh đạo Quân Đội Thiên Giới |
 | The Great One | Great One | Đấng Vĩ Đại | danh hiệu | 293 | Danh xưng tôn sùng các thiên thần sa ngã dùng để gọi Chúa Tể Satan |
+| Woodworker |  | Thợ Mộc | chức nghiệp | 296 | Chức nghiệp phụ liên quan đến chế tác đồ gỗ |
+| Musician |  | Nhạc Công | chức nghiệp | 296 | Chức nghiệp phụ liên quan đến âm nhạc |
+| Tamer |  | Thuần Thú Sư | chức nghiệp | 296 | Chức nghiệp phụ thuần hóa và chỉ huy sinh vật, ma thú |
+| Leader |  | Thủ Lĩnh | chức nghiệp | 296 | Chức nghiệp phụ giúp dẫn dắt, tăng cường hiệu quả khi tổ đội hoặc thống lĩnh nhiều người |
+| Dragon's Nest | Dragon’s Nest | Long Sào | tổ chức | 296 | Thế lực thực thể cấp cao thứ năm do Yu IlHan sáng lập |

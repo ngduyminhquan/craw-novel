@@ -1800,3 +1800,10 @@ Dùng Dịch Chuyển gửi Liera về nơi an toàn, Yu IlHan cùng Yumir theo 
 Chiến trường đột ngột biến động dữ dội khi Anafière (Cánh Thứ 2 Của Ánh Sáng Rực Rỡ) cùng Satière xuất hiện, tiếp đó là Đại thiên thần Michael và Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt) cũng giáng lâm.
 Cảnh kết thúc: Michael kích hoạt ma pháp do Raphael bí mật chuẩn bị từ ký lục của Hỏa Tâm nhằm giải trừ hoàn toàn thuật ẩn thân của Yu IlHan, phơi bày cái bẫy câu kết giữa Thiên giới và Quân Đội Ma Hủy Diệt hòng trừ khử anh; Yu IlHan bình thản cho phép Ngọn Lửa Vĩnh Cửu xóa bỏ ma pháp, sẵn sàng cho bước nhảy vọt vĩ đại.
 
+## 296
+Yu IlHan dùng Nhân Long Thân tạo ảo ảnh đánh lừa toàn bộ chiến trường, rồi cùng Yumir tung đòn chí mạng đâm xuyên bụng và xé toạc hai cặp cánh của Raphael để thu thập mảnh vỡ ký lục Thượng Đế còn thiếu; Michael phơi bày việc Thiên giới chấp nhận hạ mình bắt tay với Quân Đội Ma Hủy Diệt để diệt trừ IlHan, trong khi phe Quân Đội Ánh Sáng Rực Rỡ dưới sự chỉ huy của Anafière, Crissière và Satière lại liều mình bảo vệ anh theo lệnh của Satan.
+Thuần thục kỹ năng Ký Lục và hội đủ tư cách trở thành thực thể cấp cao, Yu IlHan triệu hồi Cái Nôi Kỳ Tích bao bọc bản thân cùng Yumir, khuếch đại năng lượng rồng và hỏa diễm, xóa bỏ toàn bộ danh hiệu cũ cùng chúc phúc từ thần linh để tự mình trực tiếp thống trị các thuộc tính đó.
+Các thủ môn nhân của Khu Vườn Hoàng Hôn hân hoan chứng kiến sự ra đời của Kẻ Thứ Năm theo lời tiên tri; mọi đòn tấn công liều mạng từ Michael, thiên thần và Quân Đội Ma Hủy Diệt đều bị các thiên thần sa ngã cản bước hoặc bị ma pháp cộng hưởng của IlHan hấp thụ.
+Cảnh kết thúc: Trước danh sách chức nghiệp phụ thay thế cho Bạn Đồng Hành Thiên Thần, Yu IlHan được Yumir cổ vũ đã quyết định chọn chức nghiệp phụ "Thủ Lĩnh", qua đó đáp ứng trọn vẹn mọi điều kiện và khai sinh ra thế lực thực thể cấp cao thứ năm: Long Sào.
+
+

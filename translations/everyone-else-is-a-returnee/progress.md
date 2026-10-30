@@ -300,7 +300,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 293 | 291 | Chapter_293 - Chapter 291_ I Will Achieve – 1.txt | I Will Achieve – 1 | reviewed |  |
 | 294 | 292 | Chapter_294 - Chapter 292_ I Will Achieve – 2.txt | I Will Achieve – 2 | done |  |
 | 295 | 293 | Chapter_295 - Chapter 293_ I Will Achieve – 3.txt | I Will Achieve – 3 | done |  |
-| 296 | 294 | Chapter_296 - Chapter 294_ I Will Achieve – 4.txt | I Will Achieve – 4 | todo |  |
+| 296 | 294 | Chapter_296 - Chapter 294_ I Will Achieve – 4.txt | I Will Achieve – 4 | done |  |
 | 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | todo |  |
 | 298 | 296 | Chapter_298 - Chapter 296_ I Will Achieve – 6.txt | I Will Achieve – 6 | todo |  |
 | 299 | 297 | Chapter_299 - Chapter 297_ I Will Achieve – 7.txt | I Will Achieve – 7 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -997,3 +998,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#293 đoạn 60] Lỗi gõ chữ 'p' thừa trong raw EN ('p newly ascended transcender') — Tạm dùng: bỏ chữ 'p' thừa, dịch thành "Kẻ Siêu Việt mới thăng hoa kia ơi". Đề xuất giữ nguyên. → Đồng ý lược bỏ chữ 'p' gõ nhầm trong raw EN và dịch thành "Kẻ Siêu Việt mới thăng hoa kia ơi". (orchestrator)
 - [#294] Cụm từ "final war" ở đoạn 78 — Tạm dịch: "cuộc chiến cuối cùng". Phương án khác: "đại chiến cuối cùng", "chung cuộc chi chiến". → Đồng ý dịch tự nhiên là "cuộc chiến cuối cùng" (cụm danh từ chung viết thường trong raw nên không thêm vào glossary.md). (orchestrator)
 - [#295] Danh xưng thủ lĩnh Quân Đội Ma Hủy Diệt trong lời thoại của Keshein ('The Lord gave me an order'): tạm dịch là 'Lãnh Chúa' (phương án khác: 'Đấng Chúa Tể' hoặc 'Chúa Tể'). → Tạm giữ ở chương 295 và sẽ đồng bộ 'The Lord' (thủ lĩnh Quân Đội Ma Hủy Diệt) thành 'Chúa tể' (nhất quán với lời Melohinne ở #285) ở vòng review 294–296. (orchestrator)
+- [#296] Thế lực thực thể cấp cao mới 'Dragon''s Nest' nên dịch là 'Long Sào' (Hán Việt, đồng bộ với Long Thân, Long Vương) hay 'Tổ Rồng' (thuần Việt)? Tạm dùng 'Long Sào'. → Đồng ý giữ 'Long Sào' (ngắn gọn, Hán Việt đồng bộ với hệ thuật ngữ Long Vương, Long Thân, Long Huyết). (orchestrator)

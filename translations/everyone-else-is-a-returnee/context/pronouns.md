@@ -98,6 +98,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Anafière | hắn / Anafière / Cánh Thứ 2 Của Ánh Sáng Rực Rỡ | 295 | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ |
 | Keshein | hắn / Keshein / con quái vật | 295 | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt |
 | Lazière | Lazière / ngài Lazière | 295 | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ |
+| Crissière | hắn / Crissière / Cánh Thứ 3 Của Ánh Sáng Rực Rỡ | 296 | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ |
 
 ## Giữa các nhân vật
 
@@ -464,3 +465,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael | Anafière | ta | ngươi / Anafière | 295 | Michael đối thoại và khiêu khích Anafière |
 | Michael | Yu IlHan | ta | thằng nhãi đó / ngươi | 295 | Michael tuyên bố sẽ xóa sổ Yu IlHan |
 | Keshein | Yu IlHan | ta | hắn | 295 | Keshein tuân lệnh Lãnh Chúa đến lấy mạng Yu IlHan |
+| Michael | Raphael | ta | Raphael / ngươi | 296 | Michael hỏi thăm tình hình thương tích của Raphael |
+| Raphael | Michael | tôi / ta | ngài / ngài Michael | 296 | Raphael cảnh báo Michael cẩn giác trước Yu IlHan |
+| Anafière | Crissière | ta | Crissière / các ngươi | 296 | Anafière chỉ huy cánh quân bảo vệ Yu IlHan |
+| Crissière | Anafière | tôi / thuộc hạ | Ngài Anafière | 296 | Crissière tuân lệnh Anafière |
+| Crissière | Keshein | ta | ngươi | 296 | Crissière cùng Satière chặn đường Keshein |
+| Keshein | Crissière | ta | các ngươi | 296 | Keshein khinh miệt sức mạnh của Crissière và Satière |

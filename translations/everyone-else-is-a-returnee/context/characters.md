@@ -106,6 +106,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Anafière | Anafi | Anafière | Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ, thực thể cấp cao chuyển chức 7 | 295 |
 | Keshein |  | Keshein | Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, cự quái đen tuyền xuất hiện qua ma pháp dịch chuyển bằng máu | 295 |
 | Lazière | Lady Lazière; Lazi | Lazière | Cánh Thứ 1 Của Ánh Sáng Rực Rỡ, nhân vật số 2 tối cao của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan | 295 |
+| Crissière | Crissi | Crissière | Cánh Thứ 3 Của Ánh Sáng Rực Rỡ, nhân vật chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ | 296 |
 
 ## Chi tiết
 
@@ -857,12 +858,18 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, đại diện của Thượng Đế và là nhân vật số 2 chính thức của Quân Đội Thiên Giới.
 - Đặc điểm: Sở hữu thực lực tiệm cận chuyển chức 8, vượt trội hoàn toàn so với các đại thiên thần chuyển chức 7 thông thường và có thể trực tiếp đối đầu với Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ.
 - Xuất hiện tính đến chương 289: Được các thiên thần tại Wirepa nghi ngờ là người đang phóng hỏa thương thanh trừng nội gián; được Liera cảnh báo Yu IlHan phải lập tức tháo chạy nếu chạm trán vì khoảng cách sức mạnh quá lớn.
+- Xuất hiện tính đến chương 296: Hóa giải phong ấn truy dấu trên người Yu IlHan thất bại; thừa nhận đã đàm phán bắt tay với Quân Đội Ma Hủy Diệt để tiêu diệt IlHan; hoảng hốt trước tốc độ thức tỉnh thành Kẻ Thứ Năm của IlHan và phóng hỏa thương toan hạ sát anh nhưng bị Anafière liều mình chặn lại.
 
 ### Raphael
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.
 - Xuất hiện tính đến chương 289: Bất ngờ giáng lâm xuống thế giới bậc cao Feira giữa lúc Yu IlHan đang tàn sát các thiên thần phản bội, khiến các thiên thần tại đây kinh ngạc thốt lên.
 - Xuất hiện tính đến chương 293: Sở hữu khả năng trị liệu vượt xa Na YuNa và sức chiến đấu vượt trội phần lớn thực thể chuyển chức 7; ngoại hình đẹp trai và hiền từ khiến Yu IlHan ghen tị tích điểm thù địch; nhận ra kẻ bí ẩn đang giúp thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ nên đã ra lệnh cho các thiên thần không được can thiệp; dùng mana của thế giới Feira bẻ gãy ma pháp dịch chuyển tập thể của 32 kẻ phản bội chuyển chức 6 và tạo phong kiếm chứa hỏa lực để tự tay tiêu diệt chúng.
 - Xuất hiện tính đến chương 294: Kinh ngạc trước năng lực chiến đấu bộc phát của Yu IlHan khi hạ sát Daiel; thu dọn tàn dư phản bội và chủ động đề nghị liên minh với Yu IlHan để cùng đi thanh trừng nội gián khắp các thế giới thuộc Thiên giới trước thềm cuộc chiến cuối cùng; mở cổng thế giới dẫn IlHan đi tiếp.
+- Xuất hiện tính đến chương 296: Bị Yu IlHan dùng Nhân Long Thân tạo ảo ảnh lừa gạt và tập kích chí mạng làm vỡ bả vai, đứt 2 cặp cánh để cướp ký lục Thượng Đế; lập tức hồi phục dịch chuyển về cạnh Michael và cảnh báo Michael phải cẩn giác trước IlHan.
+
+### Anafière
+- Giới tính, vai trò: Thực thể cấp cao chuyển chức 7, Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, nhân vật số 3 của Quân Đội Ánh Sáng Rực Rỡ dưới trướng Satan.
+- Xuất hiện tính đến chương 296: Tuân mật lệnh của Satan, dẫn đầu Crissière, Satière cùng toàn thể thiên thần sa ngã liều mình cản bước Michael và Quân Đội Ma Hủy Diệt để bảo vệ Yu IlHan; dùng toàn lực chặn đứng ngọn hỏa thương của Michael dù bị đánh lui và ho ra máu đen.
 
 ### Daiel
 - Giới tính, vai trò: Nam, thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên thăng cấp đại thiên thần nhưng thực chất là kẻ phản bội bí mật phục vụ Quân Đội Ánh Sáng Rực Rỡ.
@@ -871,3 +878,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Gabriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri (được Daiel nhắc đến trong suy nghĩ ở chương 293).
+
+### Crissière
+- Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 3 Của Ánh Sáng Rực Rỡ.
+- Xuất hiện tính đến chương 296: Cùng Satière tuân lệnh Anafière đứng ra chặn đường Tiểu Đoàn Trưởng Keshein của Quân Đội Ma Hủy Diệt để bảo vệ Yu IlHan theo mật lệnh của Satan.
+
