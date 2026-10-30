@@ -2051,6 +2051,12 @@ Yu IlHan thử kích hoạt Dịch Chuyển lần nữa nhưng Gabriel tiếp t�
 Trò chuyện cùng Liera và Helièna, Yu IlHan tự nhận mình là Kẻ Sáng Tạo chưa hoàn chỉnh (Bán Thể) và khẳng định không thể liều lĩnh xông vào lòng địch khi tính mạng người thân đang bị đe dọa; tiếp đó anh bộc phát "góc tối nội tâm" của một kẻ đơn độc kinh niên khiến mọi người vừa xót xa vừa bối rối an ủi.
 Cảnh kết thúc: Yu IlHan gạt bỏ cảm xúc và yêu cầu Kang MiRae dùng Quỹ Đạo Ngân Hà mở một cây cầu khổng lồ nối liền Daréu với Trái Đất để chuẩn bị cho trận chiến tiếp theo.
 
+## 336
+Yu IlHan kiên quyết chọn Trái Đất làm thế giới chính của Long Sào theo đúng lời tiên tri, đồng thời ngăn chặn người Trái Đất ở thế giới bậc thấp quay về trong ba giờ để tranh thủ tiêu diệt kẻ siêu việt của các phe phái thù địch.
+Kang MiRae mở cánh cổng khổng lồ kết nối Daréu với Trái Đất; Na YuNa nhận ra sự biến mất của các thần được ghi chép và tự sáng tạo câu niệm nhân danh tình yêu dành cho IlHan để triển khai Thánh địa; Yu IlHan dùng Tuyên Cáo kích hoạt việc thăng hoa Trái Đất lên thế giới bậc cao và bắt đầu dung hợp hai thế giới.
+Kim YeSeul cùng Erta và Helièna kết nối tâm trí với Ý Chí Hộ Vệ nhằm phối hợp kiến tạo ma pháp trận thời không; trong khi đó Yu IlHan lần lượt vận dụng Rèn Đúc, Chế Tác Mana, Linh Hồn Phụ Ma và Cái Nôi Kỳ Tích để rèn gộp hai thế giới.
+Cảnh kết thúc: Cái Nôi Kỳ Tích hóa thành một quả trứng khổng lồ bao trùm cả Daréu lẫn Trái Đất, chính thức ứng nghiệm lời tiên tri.
+
 
 
 

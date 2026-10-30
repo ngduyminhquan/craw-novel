@@ -543,3 +543,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Michael | Siferai | ta | ngươi / kẻ ngu muội | 331 | Michael đối đáp và thiêu cháy Siferai |
 | Satan | God | ta | ngươi / lão già / ông / ngài (mỉa mai) | 334 | Satan báo cáo và châm chọc Thượng Đế sau khi trừ khử Gabriel |
 | God | Satan | ta | ngươi / Lucifer | 334 | Thượng Đế chất vấn và ra lệnh cho Satan mang thi thể Gabriel về |
+| Kim YeSeul | Will of the Guardian | tôi | cậu / Ý Chí Hộ Vệ | 336 | Kim YeSeul liên kết tâm trí và điều phối ma pháp trận cùng Ý Chí Hộ Vệ |
+| Will of the Guardian | Kim YeSeul | ta | ngươi | 336 | Ý Chí Hộ Vệ phản ứng khi được kết nối tâm trí với Kim YeSeul |

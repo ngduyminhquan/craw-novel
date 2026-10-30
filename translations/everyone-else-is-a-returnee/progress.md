@@ -340,7 +340,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | reviewed |  |
 | 334 | 332 | Chapter_334 - Chapter 332_ Harmageddon – 8.txt | Harmageddon – 8 | reviewed |  |
 | 335 | 333 | Chapter_335 - Chapter 333_ Harmageddon – 9.txt | Harmageddon – 9 | reviewed |  |
-| 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | todo |  |
+| 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | done |  |
 | 337 | 335 | Chapter_337 - Chapter 335_ Harmageddon – 11.txt | Harmageddon – 11 | todo |  |
 | 338 | 336 | Chapter_338 - Chapter 336_ Harmageddon – 12.txt | Harmageddon – 12 | todo |  |
 | 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -1065,3 +1066,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#334] Tiêu đề chương "Harmageddon – 8" có nên giữ nguyên tên arc theo glossary.md như các chương #327–#333 — Tạm dùng: "# Chương 334: Harmageddon – 8". Đề xuất: Giữ nguyên để thống nhất toàn bộ arc Harmageddon. → Giữ nguyên 'Harmageddon – 8' đồng bộ toàn bộ arc Harmageddon (orchestrator)
 - [#334] Xưng hô đối thoại giữa Satan và Thượng Đế — Tạm dùng: Satan xưng "ta", gọi Thượng Đế là "ngươi / lão già / ngài (mỉa mai)"; Thượng Đế xưng "ta", gọi Satan là "ngươi / Lucifer". Đề xuất: Giữ nguyên theo quan hệ đồng minh bằng mặt không bằng lòng hiện tại. → Chốt Satan xưng 'ta' gọi 'ngươi / lão già / ngài (mỉa mai)', Thượng Đế xưng 'ta' gọi 'ngươi / Lucifer' (orchestrator)
 - [#335] Thuật ngữ "Halfling" dùng để chỉ Yu IlHan khi mới hoàn thiện một nửa trên con đường trở thành Kẻ Sáng Tạo — Tạm chọn: dịch là 'Bán Thể' (và đưa vào glossary.md). Phương án khác: dịch là 'kẻ nửa vời' hoặc giữ nguyên 'Halfling'. → Chốt 'Bán Thể' (orchestrator)
+- [#336] Tiêu đề chương "Harmageddon – 10" có nên tiếp tục giữ nguyên tên arc theo glossary.md như các chương #327–#335 hay Việt hóa — Tạm dùng: "# Chương 336: Harmageddon – 10". Đề xuất: Giữ nguyên để thống nhất toàn bộ arc Harmageddon (chấp nhận cảnh báo QA). → Giữ nguyên 'Harmageddon – 10' đồng bộ toàn bộ arc Harmageddon (orchestrator)
+- [#336] Xưng hô khi Kim YeSeul liên kết tâm trí với Ý Chí Hộ Vệ (Will of the Guardian) — Tạm dùng: Kim YeSeul xưng "tôi", gọi "cậu / Ý Chí Hộ Vệ"; Ý Chí Hộ Vệ xưng "ta", gọi "ngươi". Đề xuất: Giữ nguyên phương án này phù hợp phong thái điềm đạm của Kim YeSeul và bản chất golem hộ vệ có giọng nam trầm của Ý Chí Hộ Vệ. → Chốt Kim YeSeul xưng 'tôi' gọi 'cậu / Ý Chí Hộ Vệ', Ý Chí Hộ Vệ xưng 'ta' gọi 'ngươi' (orchestrator)
