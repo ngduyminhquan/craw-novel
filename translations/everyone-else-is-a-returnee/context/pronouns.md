@@ -86,6 +86,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Titaera | cô / Titaera / nữ thiên thần | 261 | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh |
 | Leciel | hắn / Leciel / đại thiên thần Leciel | 263 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố |
 | Satière | hắn / Satière | 265 | Chỉ huy chuyển chức 7 Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ |
+| Will of the Guardian | nó / Ý Chí Hộ Vệ / golem hồ nước | 272 | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn |
 
 ## Giữa các nhân vật
 
@@ -406,3 +407,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Han YeoRang | Yun DaeHan | tôi | thiếu tướng | 269 | Cấp dưới nói chuyện với chỉ huy sau khi Yun DaeHan thăng thiếu tướng |
 | Yu IlHan | Han YeoRang | tôi | cô / đại tá Han | 269 | Yu IlHan đến Guundia chi viện và giải cứu |
 | Han YeoRang | Yu IlHan | tôi | anh / anh Yu IlHan | 269 | Han YeoRang tái ngộ Yu IlHan |
+| Yu IlHan | Will of the Guardian | ta | ngươi | 272 | IlHan giao phó nhiệm vụ triển khai ma pháp trận |
+| Will of the Guardian | Yu IlHan | ta | ngươi | 272 | Ý Chí Hộ Vệ đáp lời và nhận lệnh bảo vệ Trái Đất |
+| Kim YeSeul | Helièna | bác | cháu / Helièna | 272 | Kim YeSeul vui vẻ hứa sẽ nói tốt cho Helièna trước mặt Yu IlHan |

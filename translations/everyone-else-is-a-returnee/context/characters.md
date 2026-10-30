@@ -92,6 +92,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Leciel | Lord Leciel | Leciel | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố, có ba cặp cánh | 263 |
 | Satière | Lord Satière | Satière | Thực thể cấp cao chuyển chức 7, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ thuộc Quân Đội Ánh Sáng Rực Rỡ, có 3 cặp cánh đen tuyền và mắt đỏ như hồng ngọc | 265 |
 | Ruler of the Army of Brilliant Light | Leader of the Army of Brilliant Light | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ | Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới; sở hữu giọng nói tuyệt mỹ và uy áp có thể phong tỏa ánh sáng và mana của toàn bộ thế giới khi thức tỉnh | 267 |
+| Will of the Guardian |  | Ý Chí Hộ Vệ | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn sau khi quy phục Yu IlHan, đảm nhận triển khai ma pháp trận bảo vệ Trái Đất | 272 |
 
 ## Chi tiết
 
@@ -674,6 +675,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm / năng lực: Cơ thể dạng bóng lỏng đen không hình thù cố định, sở hữu kỹ năng Ẩn Thân thượng thừa, sử dụng thương đen; mang ý niệm báo thù tột cùng nhắm vào Yu IlHan và Trái Đất.
 - Xuất hiện tính đến chương 210–211: Phục kích đâm thủng bụng Yu IlHan lúc anh đang tiến hóa kỹ năng; bị Mystic bắn pháo sáng cầm chân và bị Liera liều mạng giáng vô số đòn thương phá hủy cơ thể; định rút lui chờ cơ hội thì bị Yu IlHan (vừa đạt chuyển chức 4) giăng kết giới ngọn lửa trắng và xích lửa khóa chặt, sau đó bị một thương hủy diệt hoàn toàn.
 - Trạng thái tính đến chương 271: Tàn niệm lưu lại trong Yu IlHan; chấp nhận quy phục làm thuộc hạ của Yu IlHan theo kỹ năng Thống Trị để thoát khỏi cảnh giam cầm và tiếp tục tồn tại bảo vệ Trái Đất.
+- Trạng thái tính đến chương 272: Được Yu IlHan thả vào hồ nước chứa ma thạch chuyển chức 5, kết hợp Ma Pháp Công Học, Chế Tác Mana và Linh Hồn Phụ Ma để tái sinh thành golem hồ nước phẩm cấp Bán Thần mang tên Ý Chí Hộ Vệ (Will of the Guardian); tiếp nhận tri thức ma pháp trận từ kỹ năng Ký Lục của IlHan và mana của Kim YeSeul để lan tỏa khắp Trái Đất, trì hoãn quá trình thăng cấp thành thế giới bậc cao.
+
+### Will of the Guardian
+- Giới tính, vai trò: Vô tính, golem hồ nước phẩm cấp Bán Thần do Yu IlHan tạo ra từ ma thạch chuyển chức 5 và tàn niệm Ý Chí Hỗn Loạn.
+- Đặc điểm / năng lực: Độ bền không thể phá hủy chừng nào còn một giọt nước; không bốc hơi trước ngọn lửa có phẩm cấp thấp hơn; tự do biến đổi thành băng và hơi nước; hấp thụ nước làm một phần cơ thể; tăng 40% toàn bộ năng lực khi ở Trái Đất.
+- Xuất hiện tính đến chương 272: Sau khi quy phục IlHan, được phong ấn vào lòng hồ và trở thành Ý Chí Hộ Vệ; tiếp nhận tri thức ma pháp trận từ Ký Lục của IlHan và mana bóp méo thời không của Kim YeSeul, tự phân tách và thấm sâu vào lòng đất để tự vẽ và vận hành ma pháp trận quy mô toàn cầu nhằm trì hoãn quá trình Trái Đất thăng cấp thành thế giới bậc cao.
 
 ### Pope
 - Giới tính, vai trò: Nữ, Giáo hoàng đứng đầu Giáo Hội Leytna tại thế giới Breya, từng là đệ nhất mỹ nhân lục địa; người phát hiện tiềm năng của Na YuNa và chọn cô làm thánh nữ kế nhiệm.

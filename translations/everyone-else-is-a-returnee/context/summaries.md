@@ -1669,7 +1669,10 @@ Yu IlHan vạch kế hoạch mượn ma pháp làm chậm thời không của Ki
 Anh phân rã Đại Khải Hỗn Cốt Bạo Quân Bão Tuyết Giá Lạnh để lấy năng lực thao túng nước nạp vào ma thạch chuyển chức 5 thả xuống lòng hồ, biến cả hồ nước thành golem nước bằng Ma Pháp Công Học, Chế Tác Mana và Linh Hồn Phụ Ma.
 Cảnh kết thúc: Yu IlHan đàm phán thành công và dùng kỹ năng Thống Trị thu phục tàn niệm của Ý Chí Hỗn Loạn làm thuộc hạ để phong ấn vào hồ nước, chính thức bắt tay cùng thực thể tàn bạo nhất bảo vệ Trái Đất.
 
-
-
-
+## 272
+Yu IlHan phong ấn tàn niệm Ý Chí Hỗn Loạn vào hồ nước và hoàn tất tạo tác golem hồ nước phẩm cấp Bán Thần mang tên Ý Chí Hộ Vệ (Will of the Guardian).
+Để giảm nồng độ mana đang khiến Trái Đất tiến hóa, anh nghiền xương cánh của Cánh Thứ 8 Natière và xương rồng Teraka thành một ống trụ khổng lồ đặt tại Daréu qua kỹ năng Dịch Chuyển, rồi dùng 60% lông vũ thiên thần chế tác hàng triệu ống trụ nhỏ rải khắp Trái Đất qua Chế Tác Mana diện rộng để thu gom và tống khứ mana sang Daréu.
+Kim YeSeul cùng Erta và Helièna hoàn thành bản thiết kế ma pháp trận làm chậm thời không quy mô toàn cầu; Yu IlHan dùng Ký Lục tiếp thu trọn vẹn tri thức (kỹ năng Ký Lục tăng vọt lên trên Lv 70) rồi truyền thụ lại cho Ý Chí Hộ Vệ.
+Kim YeSeul dốc toàn lực rót mana vào lòng hồ; Ý Chí Hộ Vệ hấp thụ mana, biến đổi và len lỏi vào lòng đất tỏa đi khắp toàn cầu, tuyên thệ sẽ bảo vệ Trái Đất.
+Cảnh kết thúc: Nhân quả định sẵn trên Trái Đất thành công bị trì hoãn trong một khoảng thời gian dài.
 
