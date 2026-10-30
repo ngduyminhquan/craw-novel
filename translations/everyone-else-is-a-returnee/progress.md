@@ -352,7 +352,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | reviewed |  |
 | 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | reviewed |  |
 | 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | reviewed |  |
-| 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | todo |  |
+| 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | done |  |
 | 349 | 347 | Chapter_349 - Chapter 347_ Sole God – 8.txt | Sole God – 8 | todo |  |
 | 350 | 348 | Chapter_350 - Chapter 348_ Epilogue.txt | Epilogue | todo |  |
 | 351 |  | Chapter_351 - Extra  1_ Graduating Lonership, Entering Marriage.txt | Extra  1_ Graduating Lonership, Entering Marriage | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -1077,3 +1078,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#345] Đoạn 91 Michael gọi Thượng Đế là "Father" và Thượng Đế gọi Michael là "my son" — Tạm dùng: "Cha" và "con" ("......Cha.", "Đúng vậy, con trai của ta. Chính là ta."). Phương án khác: "Phụ thân" / "con". → Chốt giữ "Cha" và "con / con trai của ta" đúng văn phong Thiên giới (không dùng "Phụ thân"). (orchestrator)
 - [#346] Xưng hô Uriel và Gabriel thuở xưa tại Thiên giới: Uriel biểu lộ tình cảm trêu đùa và ủng hộ Gabriel nên tạm dùng "em – anh" (nhất quán với các chương trước khi Uriel thích Gabriel); Thượng Đế và Michael dùng "Cha – con / con trai của ta" (Michael phục tùng, Thượng Đế xưng Cha bề trên). → Chốt giữ xưng hô Uriel - Gabriel ("em – anh") và Thượng Đế - Michael ("Cha – con / con trai của ta") nhất quán với các chương trước. (orchestrator)
 - [#347] Xưng hô Michael với Thượng Đế khi đoạn tuyệt (từ đoạn 20): tạm dùng Michael xưng "ta" gọi "ông / ngươi / con quái vật đáng nguyền rủa" (thay vì "con - Cha"). → Chốt giữ Michael xưng "ta" gọi "ông / ngươi / con quái vật đáng nguyền rủa" từ đoạn 20 khi tuyên bố đoạn tuyệt quan hệ cha con. (orchestrator)
+- [#348 đoạn 81] Chơi chữ Forfeit / four-feeted của Satan ("[Forfeit? Me? Forfeit what? I’m not four-feeted at all, fella.]") — Tạm chọn: "[Chịu thua? Ta á? Thua cái gì? Ta đâu có đi bằng bốn chân đâu hả nhóc con.]" để giữ tính hài hước tự nhiên của Satan; Phương án khác: "[Bỏ cuộc? Ta á? Bỏ cuộc cái gì? Ta đâu có đi bốn chân đâu hả nhóc.]". → Chấp nhận bản dịch tạm chọn trong chương. (orchestrator)
+- [#348 đoạn 96] Chi tiết tác giả ám chỉ Thám tử lừng danh Conan kèm T/N ("...high school boy trapped in a little kid’s body... (T/N: Conan probably)") — Tạm chọn: lược bỏ T/N theo rules.md và dịch thoát ý tự nhiên ("Bằng vẻ mặt sắc sảo và láu lỉnh như cậu thám tử học sinh cấp ba bị mắc kẹt trong cơ thể một đứa trẻ vào năm phút cuối của một tập phim anime, anh hỏi Satan."); Phương án khác: dịch sát giữ nguyên "học sinh cấp ba bị mắc kẹt trong cơ thể đứa trẻ" mà không thêm chữ "thám tử". → Chấp nhận lược bỏ T/N theo rules.md và dịch thoát ý tự nhiên như bản dịch hiện tại. (orchestrator)

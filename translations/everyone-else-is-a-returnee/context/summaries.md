@@ -2125,3 +2125,9 @@ Thượng Đế hé lộ Elo Katra vốn là thế giới tưởng tượng do N
 Michael tuyệt vọng tuyên bố đoạn tuyệt quan hệ cha con và dốc tàn lực ánh sáng chống cự, nhưng bị Thượng Đế vạch trần chân tướng các 'thần được ghi chép' thực chất là những tồn tại siêu việt từng bị Ngài giam cầm để lập kho lưu trữ ghi chép mới.
 Nhận ra bản thân không có cơ hội chiến thắng trước kẻ cuồng loạn muốn nuốt chửng cả mình lẫn Yu IlHan, Michael toan kích hoạt Dịch Chuyển tháo chạy để tìm kiếm cơ hội liên minh với Yu IlHan nhưng bị chặn đứng.
 Cảnh kết thúc: Thượng Đế bóp nát đầu Michael rồi nuốt chửng toàn bộ thân xác hắn, chính thức đánh dấu sự trở lại của Kẻ Thống Trị đích thực của Thiên giới.
+
+## 348
+Yu IlHan cùng toàn quân Long Sào tiến vào Thiên giới và bắt gặp cảnh tượng Satan đứng giữa núi xác thiên thần; Uriel đau đớn tuyệt vọng khi nhận ra Satan đã thực sự phản bội.
+Yu IlHan thản nhiên vạch trần chân tướng Greed chính là Thượng Đế Thiên giới dựa trên dấu vết sức mạnh thần thánh từ mảnh thịt trong dạ dày Greed và kho lưu trữ ghi chép của các thần được ghi chép mà anh cùng Kang MiRae đã triệt hạ, khiến Satan cười phá lên vì kế hoạch của Thượng Đế đã bị phá hỏng hoàn toàn.
+Yu IlHan hóa giải đòn tấn công của Satan nhắm vào Uriel và suy luận ra chân tướng then chốt: để tiêu diệt Thượng Đế vĩnh viễn thì cả 5 kẻ từng cướp chia sẻ sức mạnh của Ngài (tứ đại thiên thần và Lucifer) đều buộc phải chết, khiến Satan bất lực thừa nhận sự thật.
+Cảnh kết thúc: Bức Tường Hỗn Loạn sụp đổ khi Michael bị tiêu diệt hoàn toàn và Thượng Đế thu hồi toàn bộ sức mạnh để chuẩn bị bước vào trận quyết chiến cuối cùng.

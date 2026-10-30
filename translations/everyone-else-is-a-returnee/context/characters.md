@@ -1044,3 +1044,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm / ngoại hình: Mái tóc đen dài ấn tượng, diện váy lụa đen và găng tay lụa đen toát lên khí chất quý phái xa hoa; sau lưng có 8 chiếc cánh sắc nhọn vươn dài; tính cách điềm đạm, cực kỳ lễ phép và tôn trọng đối thủ dù đôi bên ở thế đối đầu sinh tử.
 - Xuất hiện tính đến chương 343: Một mình trấn giữ cung điện trung tâm Minh Giới trong khi Satan và đại quân đã đi vắng; đối thoại nhã nhặn với Yu IlHan, xác nhận Satan vẫn là kẻ thù và sẵn sàng quyết tử chặn bước anh; kinh ngạc khi bị Yu IlHan dễ dàng khống chế chỉ bằng một cái vươn tay và ngỡ ngàng khi nghe Yu IlHan tuyên bố sẽ không giết mình mà dùng Bẫy Phục Hồi để thay đổi tương lai.
 
+### Satan
+- Giới tính, vai trò: Nam, Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, cựu Đại Thiên Thần Lucifer của Thiên giới.
+- Đặc điểm / ngoại hình: Sở hữu 13 chiếc cánh sau lưng; ma pháp sư vĩ đại nhất với khả năng thao túng ma pháp bị bóp méo tới mức không thể nhận biết nguồn gốc; tính cách kiêu ngạo, tưng tửng, thích châm biếm nhưng sắc sảo và biết nhìn người.
+- Xuất hiện tính đến chương 348: Tàn sát toàn bộ thiên thần tại Thiên giới và đứng trên núi xác đối đầu Yu IlHan; cười sảng khoái khi biết Yu IlHan đã phá hủy kho lưu trữ ghi chép và các thần được ghi chép trong dạ dày Greed; vung đòn ma pháp ngầm nhắm vào Uriel để thử thách Yu IlHan nhưng bị anh hóa giải; thừa nhận suy luận của Yu IlHan rằng cả 5 kẻ từng chia sẻ sức mạnh của Thượng Đế đều phải chết thì Thượng Đế mới có thể bị tiêu diệt vĩnh viễn.
+

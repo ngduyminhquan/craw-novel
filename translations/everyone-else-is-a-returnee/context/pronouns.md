@@ -110,6 +110,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Carina Smithson | cô / Carina Smithson / Carina | 342 | Tên sau khi kết hôn của Carina Malatesta |
 | Yuni | cô bé / Yuni / con bé | 342 | Con gái rồng của Michael Smithson và Carina Malatesta |
 | Lucifer | hắn / Lucifer | 346 | Tên gọi của Satan khi còn là đại thiên thần mạnh nhất mưu tính lật đổ Thượng Đế |
+| Satan | hắn / Satan | 287 | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ |
 | Luciel | Luciel | 346 | Tên ban đầu Thượng Đế đặt cho Satan trước khi đổi thành Lucifer |
 | God | Thượng Đế / Ngài / ông ta | 1 | Đấng sáng tạo tối cao (sau là cựu Thượng Đế trong thân xác Greed) |
 
@@ -584,3 +585,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | God | Michael | ta | Michael / con / con trai đáng yêu của ta | 346 | Thượng Đế giao việc và khuyên bảo Michael trong quá khứ |
 | Michael | God | ta | ông / ngươi / con quái vật đáng nguyền rủa | 347 | Michael đoạn tuyệt quan hệ cha con với Thượng Đế sau khi bị dồn vào chân tường |
 | God | Michael | ta | con / đứa con của ta | 347 | Thượng Đế duy trì xưng hô kẻ bề trên với đứa con phạm sai lầm trước khi tiêu diệt hắn |
+| Yu IlHan | Satan | tôi | ông / Satan | 348 | Yu IlHan đối thoại và vạch trần chân tướng với Satan tại Thiên giới |
+| Satan | Yu IlHan | ta | ngươi / cậu / nhóc / Yu IlHan | 348 | Satan trò chuyện và thừa nhận suy luận của Yu IlHan |
+| Uriel | Satan | tôi | anh / ngươi / Lucifer / Satan | 348 | Uriel chất vấn và tuyệt giao với Satan |
+| Satan | Uriel | ta | cô / Uriel | 348 | Satan khuyên Uriel tỉnh mộng |
