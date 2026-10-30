@@ -2068,3 +2068,10 @@ Yu IlHan nhận ra bản chất của Sáng Tạo vượt qua các giới hạn 
 Daréu và Trái Đất cân bằng hoàn mỹ rồi dung hợp thành công thành Trái Đất mới; Yu IlHan ban tên mới "Trái Đất" cho Ý Chí Hộ Vệ và đưa kỹ năng Sáng Tạo lên cấp 2 sau khi Cái Nôi Kỳ Tích hoàn tất sứ mệnh vỡ tan.
 Yu IlHan hạ độ cao xuống thành phố nổi đang bảo bọc mọi người và thông báo thành công; Kim YeSeul, Kang MiRae, Na YuNa, Liera và Helièna đều vui mừng nhưng ngỡ ngàng trước kế hoạch tiếp theo của anh.
 Cảnh kết thúc: Triệt để tuân thủ triết lý cẩn tắc vô áy náy chuẩn bị nghênh chiến các tầng lớp trùm cuối, Yu IlHan cùng Trái Đất (Ý Chí Hộ Vệ) kích hoạt Đồng Hồ Cát Vĩnh Hằng triển khai kết giới ngưng đọng thời gian dài nhất trong lịch sử trên toàn thế giới.
+
+## 339
+Yu IlHan đưa cư dân các thế giới trở lại mặt đất Trái Đất mới xinh đẹp và dùng Tuyên Cáo cấm quái vật chủ động tấn công con người; tại phòng khách pháo đài bay, anh dũng cảm mở lòng chia sẻ trọn vẹn câu chuyện 1.000 năm bị bỏ lại đơn độc của mình trước mẹ và mọi người đồng hành.
+Sau câu chuyện xúc động, Yu IlHan dùng Tuyên Cáo phóng chiếu hình ảnh Đồng Hồ Cát Vĩnh Hằng khổng lồ lên bầu trời cho toàn thể cư dân nhìn thấy mốc thời hạn chuẩn bị cho trận chiến cuối cùng, rồi giải tán mọi người đi luyện tập và nghiên cứu ma pháp.
+Kang MiRae đau lòng nhận ra bấy lâu nay cô chỉ mải tìm kiếm hình bóng bản thân nơi IlHan thay vì thấu tỏ con người anh, trong khi Na YuNa khóc nức nở một mình trong phòng riêng vì xót xa cho anh nhưng vẫn canh cánh nỗi lo nhan sắc; Yu IlHan vô tình chứng kiến tất cả nên xấu hổ khôn cùng.
+Cảnh kết thúc: Sau khi lăn lộn lấy thân mình làm cây lau nhà để xua đi sự ngượng ngùng tột độ và lau sạch bóng sàn xưởng chế tác, Yu IlHan hào hứng bắt tay vào xử lý thi thể của Archlegna và Raphael.
+

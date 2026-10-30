@@ -549,3 +549,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Leytna | YuNa | ta | ngươi / con / YuNa | 337 | Tàn niệm Leytna truyền dạy bí quyết quyến rũ đàn ông cho Na YuNa |
 | Yu IlHan | Will of the Guardian | ta | ngươi | 338 | Yu IlHan ban tên mới Trái Đất cho Ý Chí Hộ Vệ |
 | Will of the Guardian | Yu IlHan | ta | ngươi | 338 | Ý Chí Hộ Vệ đối đáp và đồng thuận với Yu IlHan |
+| Kim YeSeul | Kang MiRae | mẹ / bác | con / MiRae | 339 | Kim YeSeul đối thoại thân mật xem Kang MiRae như người nhà |

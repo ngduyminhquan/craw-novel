@@ -829,3 +829,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Final Buster | Final Busterrrrrrrrr | Final Buster | kỹ năng | 332 | Giữ nguyên tên tiếng Anh do đây là tên chiêu thức tự chế theo phong cách anime do Yu IlHan tự đặt, không phải kỹ năng chính thức từ Hồ Sơ Akashic |
 | Liberator |  | Đấng Giải Thoát | danh hiệu | 332 | Danh xưng các vị thần được ghi chép gọi Yu IlHan sau khi ông dùng lửa hủy diệt thế giới giam cầm họ, giúp họ giải thoát khỏi sự trói buộc |
 | Halfling |  | Bán Thể | khác | 335 | Thực thể mới hoàn thành một nửa trên con đường trở thành Kẻ Sáng Tạo |
+| 63 Building |  | Tòa nhà 63 | địa danh | 339 | Tòa nhà 63 tầng (63 Square) nổi tiếng tại Seoul, Hàn Quốc |
+| God of Earth |  | Thượng Đế của Trái Đất | khác | 339 | Vị thế Đấng sáng tạo và cai quản thế giới Trái Đất mới của Yu IlHan |

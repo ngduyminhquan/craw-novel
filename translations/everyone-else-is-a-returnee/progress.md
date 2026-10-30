@@ -343,7 +343,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 336 | 334 | Chapter_336 - Chapter 334_ Harmageddon – 10.txt | Harmageddon – 10 | reviewed |  |
 | 337 | 335 | Chapter_337 - Chapter 335_ Harmageddon – 11.txt | Harmageddon – 11 | reviewed |  |
 | 338 | 336 | Chapter_338 - Chapter 336_ Harmageddon – 12.txt | Harmageddon – 12 | reviewed |  |
-| 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | todo |  |
+| 339 | 337 | Chapter_339 - Chapter 337_ Harmageddon – 13.txt | Harmageddon – 13 | done |  |
 | 340 | 338 | Chapter_340 - Chapter 338_ Harmageddon – 14.txt | Harmageddon – 14 | todo |  |
 | 341 | 339 | Chapter_341 - Chapter 339_ Harmageddon – 15.txt | Harmageddon – 15 | todo |  |
 | 342 | 340 | Chapter_342 - Chapter 340_ Sole God – 1.txt | Sole God – 1 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1069,3 +1070,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#337] Tiêu đề chương "Harmageddon – 11" giữ nguyên tên arc theo glossary.md như các chương #327–#336 — Tạm dùng: "# Chương 337: Harmageddon – 11" (chấp nhận cảnh báo QA để đồng bộ toàn arc). Đề xuất: Tiếp tục giữ nguyên "Harmageddon – 11". → Giữ nguyên 'Harmageddon – 11' đồng bộ toàn bộ arc Harmageddon (orchestrator)
 - [#338] Tên riêng Ý Chí Hộ Vệ được ban tặng 'Earth' trong thoại và ngôi kể — Tạm dùng: dịch là 'Trái Đất' (đồng nhất với bản thân Trái Đất mới). Phương án khác: giữ nguyên 'Earth' như một danh xưng riêng. → Chốt dịch là 'Trái Đất' đồng nhất với bản thân hành tinh Trái Đất mới (orchestrator)
 - [#338] Tiêu đề chương 'Harmageddon – 12' — Tạm dùng: giữ nguyên 'Harmageddon – 12' cho nhất quán với các chương 327–337 cùng arc. Phương án khác: dịch sang Hán Việt 'Đại Tận Thế – 12'. → Giữ nguyên 'Harmageddon – 12' đồng bộ toàn bộ arc Harmageddon (orchestrator)
+- [#339] Danh xưng "God of Earth" (đoạn 85) — Tạm dùng: "Thượng Đế của Trái Đất" (đối ứng với "Thượng Đế Thiên giới" - God of Heaven trong glossary và danh xưng "Thượng Đế" mà dân chúng Trái Đất tôn kính gọi Yu IlHan ở đoạn 3, 7, 8). Phương án khác: "Thần của Trái Đất" / "Vị Thần của Trái Đất". → Chốt 'Thượng Đế của Trái Đất' đối ứng với 'Thượng Đế Thiên giới' (orchestrator)
