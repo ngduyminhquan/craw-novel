@@ -634,3 +634,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gabriel | Uriel | ta / anh | nàng / em / Uriel | 351 | Xưng hô vợ chồng thân mật sau Đại Dung Hợp |
 | Yu Nayeon | * | cô | các cháu | 353 | Yu Nayeon xưng cô với các con cháu của Yu IlHan |
 | Yu Isu | * | cô | các cháu | 353 | Yu Isu xưng cô với các con cháu của Yu IlHan |
+| Yu IlHan | Helièna | cháu | chị / cô | 356 | Yu IlHan thời tiểu học trong hồi tưởng |
+| Helièna | Yu IlHan | ta | nhóc / nhóc con / cậu bé / bé cưng | 356 | Helièna gặp gỡ Yu IlHan thời tiểu học trong hồi tưởng |

@@ -2176,4 +2176,10 @@ Tác giả chia sẻ niềm xúc động khi viết xong các chương ngoại t
 Toika giới thiệu tác phẩm tiếp theo mang tên 'Lẽ Ra Tôi Không Nên Chuyển Sinh' (I Shouldn’t Have Reincarnated), kể về chuyến phiêu lưu dở khóc dở cười của hai anh hùng lạc vào lâu đài ma vương.
 Cảnh kết thúc: Tác giả đăng tải bức tranh fan-art nhận được từ độc giả Warpic kèm lời cảm ơn nồng nhiệt, nhắn nhủ các fan cứng của EER hãy chú ý tìm một chi tiết hài hước khiến tác giả cười phun nước trong tranh.
 
+## 356
+Hồi tưởng về thời thơ ấu của Yu IlHan khi cậu lần đầu bị giáo viên và các bạn bỏ quên trong buổi dã ngoại mùa xuân lớp 1; cậu tình cờ gặp nữ ác ma Helièna (vượt cấm đoán xuống Trái Đất tìm kiếm Kẻ Thứ Năm) và được cô khắc sâu triết lý sinh tồn: không tin ai ngoài bản thân, coi mọi người là kẻ thù và luôn nghĩ đến chiến thắng.
+Bố Yu YongHan (Gabriel) đến đón IlHan về nhà và tái mặt khi nghe con trai ngây thơ hỏi về năng lực che giấu hiện diện; sau sự việc đó, IlHan thôi khóc lóc, tự lập mọi việc và nỗ lực đạt danh hiệu học sinh đứng đầu để không bị ai khinh thường.
+Lên cấp ba, trong chuyến dã ngoại trường tại Đảo Jeju, IlHan tiếp tục bị bỏ quên ở Sân bay Quốc tế Jeju nhưng anh ung dung cầm tiền tự đi ăn đặc sản cá hố và tận hưởng chuyến đi; phía sau lưng anh, Kang MiRae cùng đoàn vệ sĩ đưa Na YuNa sang Ý lánh nạn.
+Cảnh kết thúc: Yu IlHan thoăn thoắt lẩm nhẩm thực đơn đặc sản như niệm ma pháp rồi cất bước bắt đầu chuyến dã ngoại trường đơn độc, khép lại mẩu chuyện quá khứ đầu tiên.
+
 

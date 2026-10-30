@@ -360,13 +360,14 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 353 |  | Chapter_353 - Extra  3_ Demigod Eleven.txt | Extra  3_ Demigod Eleven | reviewed |  |
 | 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | done |  |
 | 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | done |  |
-| 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | todo |  |
+| 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | done |  |
 | 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | todo |  |
 | 358 | 356 | Chapter_358 - Chapter 356_ Secret File, Dark History - 3.txt | Secret File, Dark History - 3 | todo |  |
 | 359 | 357 | Chapter_359 - Chapter 357_ Apocrypha (4).txt | Apocrypha (4) | todo |  |
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -1091,3 +1092,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#354] Tạo tác phẩm cấp Vĩnh Cửu "Realiscope" — Tạm chọn: "Kính Hiện Thực" (theo quy tắc dịch Hán Việt ngắn gọn). Phương án khác: "Kính Thực Hóa", "Kính Chiếu Thực", hoặc giữ nguyên "Realiscope". → Chốt 'Kính Hiện Thực'. (orchestrator)
 - [#355] Tựa tiểu thuyết mới của tác giả Toika 'I Shouldn’t Have Reincarnated' (환생하지 말걸 그랬어) — Tạm chọn: 'Lẽ Ra Tôi Không Nên Chuyển Sinh' (kèm tên tiếng Anh trong ngoặc). Phương án khác: 'Đáng Lẽ Không Nên Chuyển Sinh' hoặc giữ nguyên tiếng Anh. → Chốt 'Lẽ Ra Tôi Không Nên Chuyển Sinh'. (orchestrator)
 - [#355] Cách gọi độc giả gửi tranh fan-art 'Mr. Warpic' — Tạm chọn: 'Bạn Warpic à'. Phương án khác: 'Mr. Warpic' hoặc 'Anh Warpic'. → Chốt 'Bạn Warpic à' phù hợp giọng thân thiện của tác giả trong lời bạt. (orchestrator)
+- [#356] Dịch tên arc "Apocrypha (1)" — Tạm chọn: "Ngoại Điển (1)". Đề xuất khác: "Ngoại Kinh (1)" hoặc "Bí Lục (1)". → Chốt 'Ngoại Điển (1)'. (orchestrator)
+- [#356] Dịch món ăn "Cost-efficient Hairtail set" — Tạm chọn: "Set cá hố bình dân" (từ lóng tiếng Hàn 가성비 - giá cả phải chăng). Đề xuất khác: "Set cá hố tiết kiệm". → Chốt 'Set cá hố bình dân'. (orchestrator)

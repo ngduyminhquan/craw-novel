@@ -849,3 +849,9 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | I Shouldn’t Have Reincarnated | ‘I Shouldn’t Have Reincarnated’; I Shouldn't Have Reincarnated | Lẽ Ra Tôi Không Nên Chuyển Sinh | khác | 355 | Tựa tiểu thuyết tiếp theo của tác giả Toika (환생하지 말걸 그랬어) |
 | EER |  | EER | khác | 355 | Viết tắt tựa tiểu thuyết Everyone Else is a Returnee |
 | Warpic |  | Warpic | khác | 355 | Tên người dùng/độc giả vẽ tranh fan-art tặng tác giả Toika |
+| Apocrypha |  | Ngoại Điển | khác | 356 | Tên phần truyện phụ kể về những mẩu chuyện quá khứ bí mật của Yu IlHan |
+| Secret File | secret file | Hồ Sơ Mật | khác | 356 | Hồ sơ ghi lại những câu chuyện bí mật thời thơ ấu của Yu IlHan |
+| Dark History | dark history | Lịch Sử Đen Tối | khác | 356 | Quá khứ đen tối / những kỷ niệm xấu hổ thời thơ ấu (tiếng Hàn 흑역사) |
+| Destruction Devils | Destruction Devil; Destruction Demon | Ma Hủy Diệt | tổ chức | 356 | Tên gọi chung của các ác ma thuộc Quân Đội Ma Hủy Diệt |
+| Jeju Island | Jeju | Đảo Jeju | địa danh | 356 | Hòn đảo du lịch nổi tiếng của Hàn Quốc |
+| Jeju International Airport |  | Sân bay Quốc tế Jeju | địa danh | 356 | Sân bay quốc tế tại đảo Jeju, Hàn Quốc |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:33:10Z",
+  "generatedAt": "2026-10-30T17:39:55Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2117,6 +2117,12 @@
           "title": "Chương 355: Lời bạt (HẾT)",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_355.md",
           "sha": "44748a29aa0e3a55ae027124ff697787fe68b8da"
+        },
+        {
+          "number": 356,
+          "title": "Chương 356: Ngoại Điển (1)",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_356.md",
+          "sha": "48a6a8611d60983494833ead388175affe1bd4e7"
         }
       ]
     },

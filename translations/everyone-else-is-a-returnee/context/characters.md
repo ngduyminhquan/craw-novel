@@ -4,11 +4,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới; đến #351 hoàn tất Đại Dung Hợp và cử hành hôn lễ với Liera | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan; Yoo Il-Han; Yoo Il-han; Il-Han; Il-han | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm; tính đến #350 tiêu diệt hoàn toàn Thượng Đế, đạt cấp 911, tối đa hóa kỹ năng Sáng Tạo và trở thành Chúa Tể Thế Giới của Trái Đất thống nhất mới; đến #351 hoàn tất Đại Dung Hợp và cử hành hôn lễ với Liera | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
-| Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan; lộ diện là Đại Thiên Thần Gabriel kiêm thủ lĩnh Khu Vườn Hoàng Hôn từ chương 320 | 6 |
+| Yu YongHan | Yun YongHan; Yoo Yong-han; Yong-Han | Yu YongHan | Cha của Yu IlHan; lộ diện là Đại Thiên Thần Gabriel kiêm thủ lĩnh Khu Vườn Hoàng Hôn từ chương 320 | 6 |
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae; MiRae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71, thăng đại tá từ ch269) | 9 |
