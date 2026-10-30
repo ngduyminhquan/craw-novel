@@ -550,6 +550,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 153: Thỏa thuận chia đôi lực lượng hoán đổi thành viên với clan Magia để vừa bảo vệ Anh vừa hỗ trợ Ý trong Đại Tai Biến lần 2; tại London, dũng cảm dùng thanh đại kiếm phẩm cấp Độc Nhất mua từ Vanguard dồn toàn bộ mana liều mạng chém vỡ vòng xoáy mana để bảo vệ các pháp sư, sau đó ngỡ ngàng phát hiện cánh cổng kết nối trở lại thế giới Melotra nơi gã từng tu luyện 10 năm.
 - Trạng thái tính đến chương 275: Đột phá lên chuyển chức lần 4; cùng Carina Malatesta và Takagaki Asuha nỗ lực kháng cự ma pháp làm chậm trên Trái Đất và hồi phục 40% tốc độ di chuyển; được mời vào kết giới Đồng Hồ Cát Vĩnh Hằng; bị Carina lên gối khống chế cưỡng hôn, chấp nhận gọi thẳng tên Carina; bị Erta thả Ác Ma Rung cấp cuối 200 bắt đầu quá trình luyện tập tăng cấp.
 - Trạng thái tính đến chương 333: Tiến hóa thành rồng thực thụ chuyển chức 5 giữa trận chiến ác liệt tại Daréu; cùng Carina Malatesta tình tứ trao nhau lời hẹn ước tiếp tục cố gắng vì đứa con tương lai.
+- Trạng thái tính đến chương 341: Đón đứa con đầu lòng cùng Carina Malatesta chào đời trong kết giới tại pháo đài bay; tha thiết nhờ Yu IlHan làm cha đỡ đầu cho con mình và được anh chấp thuận.
 
 ### Carina Malatesta
 - Giới tính, vai trò: Nữ, quý cô quý tộc kiêu kỳ, chủ clan (Lord of Magia) của Clan Magia đến từ Ý.
@@ -557,6 +558,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 153: Phối hợp cùng các thành viên clan Metal Knights tác chiến tại Ý; thi triển ma pháp Đại Bạo Tạc dọn sạch quái vật quanh vòng xoáy mana và ngỡ ngàng khi vòng xoáy biến thành cánh cổng dẫn tới thế giới cũ gặp lại sư phụ dạy ma pháp kiêm Cung Đình Ma Pháp Sư của mình.
 - Trạng thái tính đến chương 275: Đạt chuyển chức lần 4; nỗ lực kháng cự ma pháp làm chậm Trái Đất; bước vào kết giới Đồng Hồ Cát Vĩnh Hằng liền dùng đòn lên gối kèm ma pháp tê liệt đốn ngã Michael Smithson để cưỡng hôn và yêu cầu anh gọi thẳng tên mình; rũ bỏ vẻ kiêu kỳ cúi đầu cảm ơn IlHan vì đã giúp cô gặp lại người mình yêu, đồng thời tuyên thệ trung thành tuyệt đối và nguyện theo sự dẫn dắt của IlHan để giải cứu những người còn thất lạc.
 - Trạng thái tính đến chương 333: Trải qua trận chiến khốc liệt và hấp thụ Cái Nôi Kỳ Tích, an toàn tiến hóa thành rồng thực thụ chuyển chức 5; công khai thể hiện tình cảm mặn nồng với Michael Smithson ngay trên chiến trường Daréu.
+- Trạng thái tính đến chương 341: Thuận lợi sinh hạ một bé rồng khỏe mạnh tại pháo đài bay sau một năm trong kết giới; cùng Michael Smithson nhờ Yu IlHan làm cha đỡ đầu.
 
 ### Takagaki Asuha
 - Giới tính, vai trò: Nữ, chủ clan (Clan Master) của Clan Ma Long (Magic Dragon Clan) đến từ Nhật Bản.

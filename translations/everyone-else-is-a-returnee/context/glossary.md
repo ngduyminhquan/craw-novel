@@ -832,3 +832,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 63 Building |  | Tòa nhà 63 | địa danh | 339 | Tòa nhà 63 tầng (63 Square) nổi tiếng tại Seoul, Hàn Quốc |
 | God of Earth |  | Thượng Đế của Trái Đất | khác | 339 | Vị thế Đấng sáng tạo và cai quản thế giới Trái Đất mới của Yu IlHan |
 | Blade of the Avenger |  | Lưỡi Kiếm Kẻ Báo Thù | vật phẩm | 340 | Tạo tác thần thương màu trắng tinh khiết Yu IlHan chế tạo từ thi thể Raphael, dung hợp tàn niệm Spiera và vô số tàn niệm quái vật |
+| foreshadow master |  | bậc thầy phục bút | khác | 341 | Danh xưng tự phong của Yu IlHan khi anh tạo ra và đập tan các phục bút, phá hủy âm mưu của Thượng Đế trước thềm trận chiến cuối |
+| godfather |  | cha đỡ đầu | khác | 341 | Người nhận làm cha tinh thần bảo trợ cho con của Michael Smithson và Carina Malatesta |

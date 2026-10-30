@@ -2081,3 +2081,9 @@ Yu IlHan đánh thức tàn niệm Spiera sâu trong tâm thức của mình, b�
 Yu IlHan vận dụng kỹ năng Sáng Tạo đúc thành công tạo tác thần thương màu trắng tinh khiết mang tên Lưỡi Kiếm Kẻ Báo Thù làm nơi cư ngụ cho Spiera, chuẩn bị vũ khí phục thù nhắm vào Michael và Thượng Đế.
 Cảnh kết thúc: Sau khi khẳng định chắc nịch sẽ chiến thắng bất kỳ kẻ thù nào, Yu IlHan tiếp tục kích hoạt Sáng Tạo thiêu đốt nguyên liệu chế tạo trang bị bảo hộ cho mọi người trong suốt một năm trôi qua.
 
+## 341
+Yu IlHan dùng cạn sạch nguyên liệu rèn trang bị suốt một năm (kết giới đã trôi qua 1/10 thời gian) đưa kỹ năng Sáng Tạo lên cấp 5; Erta tìm đến than thở vì bị thiên tài Kang MiRae bỏ xa trong nghiên cứu ma pháp.
+Yu IlHan phân tích xác Archlegna và nhận ra Thượng Đế từng toan tính giam cầm các thần được ghi chép để tạo kho lưu trữ ghi chép mới độc lập hòng chối bỏ Hồ Sơ Akashic và triệt tiêu mana; tuy nhiên kho lưu trữ này đã vô tình bị Quỹ Đạo Ngân Hà của Kang MiRae kết nối và bị chính đòn Final Buster của Yu IlHan quét sạch từ trước.
+Tự xưng là bậc thầy phục bút khi xóa sổ vũ khí tối thượng của trùm cuối từ trước trận chiến, Yu IlHan dùng Sáng Tạo đúc toàn bộ xác Archlegna thành một viên đạn pháo độc nhất vô nhị không thể ghi chép để nạp cho đại pháo của mình.
+Cảnh kết thúc: Michael Smithson chạy đến báo tin Carina Malatesta sắp sinh và khẩn thiết xin Yu IlHan làm cha đỡ đầu cho con mình; Yu IlHan chấp thuận, và một bé rồng khỏe mạnh sở hữu tóc vàng cùng mắt ngọc lục bảo chính thức chào đời tại pháo đài bay.
+
