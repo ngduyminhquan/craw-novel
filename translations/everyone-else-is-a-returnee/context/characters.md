@@ -95,8 +95,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Will of the Guardian |  | Ý Chí Hộ Vệ | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn sau khi quy phục Yu IlHan, đảm nhận triển khai ma pháp trận bảo vệ Trái Đất | 272 |
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | Ngọn lửa sống của Yu IlHan nhận từ Nhiệm Vụ Thiên Giới ở chương 16; qua nhiều lần tiến hóa đã thức tỉnh ý chí và có giọng nói như bé gái từ chương 278 | 16 |
 | Felaère | Fela | Felaère | Thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh canh giữ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ; sở hữu 3 cặp cánh đen tuyền; giao chiến với Melohinne ở #285 | 285 |
-| Lemiel |  | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
+| Lemiel | Ramiel | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
+| Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
 
 ## Chi tiết
 

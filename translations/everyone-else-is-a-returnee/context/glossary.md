@@ -777,3 +777,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Ice Giantess |  | Nữ Khổng Lồ Băng | quái vật | 285 | Chủng tộc ma tộc khổng lồ hệ băng của Melohinne |
 | Great Traitor |  | Kẻ Đại Phản Bội | danh hiệu | 287 | Danh hiệu của Satan do Lemiel tôn xưng |
 | Final God |  | Vị Thần Cuối Cùng | danh hiệu | 287 | Danh xưng của Satan do Lemiel tôn xưng |
+| Wirepa |  | Wirepa | địa danh | 288 | Thế giới bậc cao thuộc quyền quản lý của Quân Đội Thiên Giới, đã trải qua Đại Tai Biến lần thứ 6 |
+| four Great Archangels | Great Archangels | tứ Đại Thiên Thần | cấp bậc | 288 | Bốn vị đại thiên thần quyền lực tối cao lãnh đạo Quân Đội Thiên Giới |

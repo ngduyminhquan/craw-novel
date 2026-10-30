@@ -1769,3 +1769,9 @@ Yu IlHan chính thức học được kỹ năng chủ động Phản Kích, k�
 Bị dồn vào đường cùng và bị chặn đứng đường trốn chạy qua thứ nguyên, Lemiel thừa nhận tôn sùng Kẻ Đại Phản Bội kiêm Vị Thần Cuối Cùng là Chúa Tể Satan, rồi tự đọa lạc thành Cánh Thứ 11 Của Ánh Sáng Rực Rỡ để phục hồi thể xác.
 Yu IlHan bình thản dùng Đọa Lạc trói chặt Lemiel và phóng hỏa thương kích hoạt Tuyệt Đối Chuẩn Xác nhất kích tất sát; trước khi chết, Lemiel dồn tàn lực giáng lời nguyền chí tử vào IlHan nhưng hoàn toàn bị cơ thể IlHan vô hiệu hóa; IlHan thu được ký lục Lemiel Lv 548, nâng Ký Lục lên cấp 89 và Chúa Tể Thứ Nguyên lên cấp 77.
 Cảnh kết thúc: Sau khi dọn dẹp chiến trường và đọc ký lục của Lemiel, Yu IlHan cay đắng hé lộ với Liera và mọi người rằng Thượng Đế đã bỏ trốn khỏi Thiên giới, báo trước tình hình hỗn loạn khủng khiếp sắp tới.
+
+## 288
+Liera bàng hoàng khi Yu IlHan tiết lộ Thượng Đế đã bỏ trốn khỏi Thiên giới từ trước khi Quân Đội Ánh Sáng Rực Rỡ được thành lập, nhưng được Helièna trấn an rằng không ai kiểm soát được vận mệnh của anh.
+Yu IlHan nhận ra bản thân sắp chạm tới cảnh giới thực thể cấp cao sau khi thuần thục Ký Lục và Chúa Tể Thứ Nguyên, liền chia đội: anh truyền ký lục lộ trình cho Kang MiRae để pháo đài tiếp tục tuần tra ba phe còn lại dưới sự bảo hộ của Helièna.
+IlHan chỉ mang theo Liera và Yumir rồi dùng Dịch Chuyển (lên cấp 66) đến thế giới Wirepa đã qua Đại Tai Biến lần 6 để thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ theo ký lục của Lemiel.
+Cảnh kết thúc: Yu IlHan liên tiếp phóng hỏa thương kết hợp Tuyệt Đối Chuẩn Xác lấy mạng kẻ phản bội Mita (Lv 366) cùng hàng loạt nội gián khác, khiến các thiên thần tại Wirepa hoang mang tột độ nghi ngờ tứ Đại Thiên Thần đang đích thân hành hình.

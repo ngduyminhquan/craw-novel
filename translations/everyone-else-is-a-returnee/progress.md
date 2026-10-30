@@ -292,7 +292,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | reviewed |  |
 | 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | reviewed |  |
 | 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | reviewed |  |
-| 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | todo |  |
+| 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | done |  |
 | 289 |  | Chapter_289 - I Will Prepare – 8.txt | I Will Prepare – 8 | todo |  |
 | 290 | 288 | Chapter_290 - Chapter 288_ I Will Prepare – 6.txt | I Will Prepare – 6 | skip | trùng nội dung #287 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
 | 291 | 289 | Chapter_291 - Chapter 289_ I Will Prepare – 7.txt | I Will Prepare – 7 | skip | trùng nội dung #288 (bản dịch EN khác) — kiểm tra lại trước khi bỏ |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -993,3 +992,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#285] Ở đoạn 66, câu thoại `[From what I see, he's already in reach of it. Lemiel, you're as arrogant as ever.]` → Sửa thành `[Theo ta thấy, chàng đã ở ngay trong tầm với tới cảnh giới đó rồi. Lemiel, ngươi vẫn ngạo mạn như xưa nhỉ.]` (người nói là Helièna) (orchestrator)
 - [#287] Ở các đoạn 75, 77, 82, 85, thống nhất chuyển toàn bộ cụm `sa đọa thiên thần` thành `thiên thần sa ngã` → Đổi toàn bộ `sa đọa thiên thần` thành `thiên thần sa ngã` (orchestrator)
 - [#287] Ở đoạn 83, câu thoại `[He's trying to kill you even if it costs his life! Eeek, at this rate....]` → Đổi `Ái chà` thành `Áaaa` và giữ đại từ `anh` (`[Hắn đang cố liều mạng giết anh bằng mọi giá đấy! Áaaa, cứ đà này thì....]`) (orchestrator)
+- [#288] Tên đại thiên thần bị IlHan hạ gục ở chương trước được raw viết là 'Ramiel' thay vì 'Lemiel' (như #285–#287) — Tạm chọn: quy về 'Lemiel' theo nhân vật đã chốt và thêm 'Ramiel' vào Alias của Lemiel trong characters.md. → Đồng ý giữ tên 'Lemiel' như đã chốt ở #285–#287 và ghi 'Ramiel' vào cột Alias trong characters.md theo quy tắc tên riêng. (orchestrator)
