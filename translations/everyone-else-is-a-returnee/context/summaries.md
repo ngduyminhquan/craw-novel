@@ -1951,3 +1951,9 @@ Cảnh kết thúc: Yu IlHan kích hoạt Dịch Chuyển đưa Mystic, Orochi v
 
 
 
+
+## 320
+Tại Heishia, Uriel tiết lộ cô đã giấu kín thế giới này khỏi Quân Đội Thiên Giới, đồng thời giải thích việc các đại thiên thần cưỡng đoạt sức mạnh của Thượng Đế sau khi Ngài mất tích, khiến Luciel biến thành Satan còn nội bộ tứ Đại Thiên Thần bị rạn nứt chia rẽ.
+Yu IlHan vạch trần kẻ ẩn thân theo dõi bấy lâu nay chính là cha anh, Yu YongHan – người đồng thời là Đại Thiên Thần Gabriel của Thiên giới và là thủ lĩnh sáng lập Khu Vườn Hoàng Hôn sở hữu năng lực tiên tri bẩm sinh duy nhất trong vũ trụ.
+Yu YongHan thừa nhận đã gây dựng các thế lực và can thiệp vào quá khứ nhằm bảo vệ gia đình, chuẩn bị cho IlHan trở thành Kẻ Đương Đầu Thượng Đế; ông vạch trần Thượng Đế Thiên giới không phải Đấng sáng tạo thực thụ mà chỉ thiêu rụi linh hồn làm nhiên liệu và tạo ra lũ golem Legna nhằm xóa sổ vạn vật sở hữu mana để trở thành vị Thượng Đế duy nhất.
+Cảnh kết thúc: Yu YongHan cảnh báo Yu IlHan rằng sự xuất hiện của anh đã khiến các phe phái co cụm, mở ra thời khắc trận đại chiến tận thế Harmageddon chính thức bắt đầu.

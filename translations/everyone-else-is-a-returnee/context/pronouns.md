@@ -513,3 +513,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lay | Yu IlHan | em | chủ nhân | 315 | Lay đối thoại với Yu IlHan |
 | Uriel | Yu IlHan | ta | ngươi / Yu IlHan | 319 | Uriel tìm gặp và đề nghị đồng hành cùng Yu IlHan |
 | Yu IlHan | Uriel | tôi | cô / Uriel | 319 | Yu IlHan đối đáp và chấp thuận cho Uriel đi cùng |
+| Uriel | Gabriel | ta / tôi | Gabriel / anh | 320 | Uriel chào hỏi và cảm thông với Gabriel |
+| Gabriel | Uriel | tôi / ta | Uriel / cô | 320 | Gabriel cảm ơn và phân bua với Uriel |

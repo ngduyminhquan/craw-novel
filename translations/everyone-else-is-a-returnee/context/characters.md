@@ -114,6 +114,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | First |  | First | Sinh vật Long tộc (dực long hệ hỏa Lv 290) đầu tiên quy phục Yu IlHan tại Daréu, được ban tên và tái sinh thành rồng thực thụ qua Cái Nôi Kỳ Tích | 309 |
 | Lay |  | Lay | Tên gọi ngắn gọn do Yu IlHan đặt cho Ngọn Lửa Vĩnh Cửu từ chương 315 | 315 |
 | Pygmalion |  | Pygmalion | Nhà điêu khắc đảo Síp trong thần thoại Hy Lạp đem lòng yêu bức tượng do chính mình tạc nên, được IlHan nhắc đến khi ví von | 317 |
+| Luciel |  | Luciel | Tên thuở ban đầu của Satan khi còn là Đại Thiên Thần trước khi phản bội và sa ngã (#320) | 320 |
 
 ## Chi tiết
 
@@ -404,6 +405,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 104: Công ty bị phá sản do ngành nghề mất đi vị thế sau Đại Tai Biến; được vợ và IlHan thu xếp công việc quản lý cửa hàng tại Vanguard.
 - Trạng thái tính đến chương 120: Được bổ nhiệm làm quản lý cửa hàng số 1 của Vanguard, vất vả đối phó với dòng người mua sắm đông nghẹt khi trang chủ mở bán trở lại.
 - Trạng thái tính đến chương 143: Vẫn giậm chân ở chuyển chức 1; ban đầu kinh ngạc trước sự xuất hiện của Yumir nhưng nhanh chóng công nhận nét giống bố của cháu nội; hay châm chọc vợ già đi nhưng vẫn thong thả không vội tăng cấp.
+- Trạng thái tính đến chương 320: Lộ diện chính là Đại Thiên Thần Gabriel của Quân Đội Thiên Giới, đồng thời là thủ lĩnh bí mật sáng lập Khu Vườn Hoàng Hôn; sở hữu năng lực tiên tri bẩm sinh duy nhất trong toàn vũ trụ; hội ngộ Yu IlHan tại Heishia, giải thích việc tạo dựng các thế lực và can thiệp để bảo vệ gia đình, chuẩn bị cho Yu IlHan trở thành Kẻ Đương Đầu Thượng Đế, và cảnh báo về đại chiến Harmageddon.
 
 ### Han YeoRang
 - Giới tính, vai trò: Nữ thiếu úy quân đội Hàn Quốc, chỉ huy hiện trường xử lý quái vật. Từng có 10 năm chuyển sinh tại thế giới Guundia.
@@ -911,6 +913,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Gabriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri (được Daiel nhắc đến trong suy nghĩ ở chương 293).
+- Xuất hiện tính đến chương 320: Chính là Yu YongHan (cha của Yu IlHan), đồng thời là thủ lĩnh sáng lập Khu Vườn Hoàng Hôn; hội ngộ Yu IlHan tại Heishia và tiết lộ chân tướng về việc Thượng Đế không phải Đấng sáng tạo chân chính, chỉ đang thiêu rụi linh hồn để làm nhiên liệu và âm mưu hủy diệt toàn bộ vạn vật để trở thành Thượng Đế duy nhất trong Harmageddon.
 
 ### Uriel
 - Vai trò: Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (được Yu IlHan suy đoán nắm giữ một phần sức mạnh và ký lục của Thượng Đế ở chương 318).
@@ -943,3 +946,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### God
 - Giới tính, vai trò: Vô tính / Nam, thủ lĩnh tối cao sáng lập Quân Đội Thiên Giới, một Kẻ Siêu Việt; Đấng tạo hóa đã rời bỏ Thiên giới.
 - Trạng thái tính đến chương 312–314: Bí mật tạo ra các sinh thể golem kháng mana từ hợp kim Harkanium, Fecinom và El Hazra tại một thế giới bí mật; âm mưu xóa sổ vạn vật sở hữu mana để làm lại từ đầu từ Adam và Eva không có mana; liên lạc dụ dỗ Kang MiRae trong tiềm thức khi cô trở thành thực thể cấp cao nhưng bị cự tuyệt; cài ngòi nổ ma pháp vào ký lục của Kang MiRae nhằm thủ tiêu cô nhưng bị Yu IlHan hóa giải.
+
+### Luciel
+- Giới tính, vai trò: Nam, tên gọi ban đầu của Satan khi còn là Đại Thiên Thần của Quân Đội Thiên Giới trước khi cưỡng đoạt sức mạnh của Thượng Đế và sa ngã thành Kẻ Phản Bội (#320).
