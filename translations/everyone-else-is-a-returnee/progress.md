@@ -330,7 +330,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 323 | 321 | Chapter_323 - Chapter 321_ I’m One That Closes The Curtain – 5.txt | I’m One That Closes The Curtain – 5 | reviewed |  |
 | 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | done |  |
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | done |  |
-| 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | todo |  |
+| 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | done |  |
 | 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | todo |  |
 | 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | todo |  |
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | todo |  |
@@ -1043,3 +1043,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#324] Tiếng thét tuyên bố của Michael "[I! AM GOD!]" (đoạn 112) và "[The God you want, is here...]" (đoạn 116) — Tạm chọn: dịch "God" là "Thượng Đế" ("TA! CHÍNH LÀ THƯỢNG ĐẾ!", "Thượng Đế mà các ngươi hằng mong muốn đang ở ngay đây") để nhấn mạnh việc Michael tiếm quyền thay thế Thượng Đế Thiên giới vừa ruồng bỏ họ. Phương án khác: "TA! CHÍNH LÀ THẦN!" / "Vị Thần mà các ngươi hằng mong muốn...". → Giữ Thượng Đế để thể hiện đúng việc Michael tự xưng thay thế Thượng Đế của Thiên giới. (orchestrator)
 - [#325] Thuật ngữ "Godspear" (vũ khí tối thượng mới do IlHan sáng tạo) — Tạm chọn: "Thần Thương". Phương án khác: "Giáo Thần", "Thần Giáo". → Giữ Thần Thương (nhất quán hệ thuật ngữ vũ khí Hán Việt như Bát Vĩ Long Thương). (orchestrator)
 - [#325] Tên đại thiên thần canh giữ ngân khố Raciel (chương 325) → Đồng bộ thành Leciel theo nhân vật đã xuất hiện ở chương 263, thêm Raciel vào Alias của Leciel trong characters.md. (orchestrator)
+- [#326] Tên đại thiên thần mới 'Tachiel' cùng Leciel gia nhập Long Sào — Tạm chọn: giữ nguyên 'Tachiel' theo rules.md (tên phương Tây/thiên thần giữ nguyên phiên âm Latin). → Giữ nguyên Tachiel theo rules.md. (orchestrator)
+- [#326] Thuật ngữ 'ending credits' trong lời đùa của Yu IlHan ở đoạn 89 ("put you guys up on the ending credits") — Tạm chọn: dịch là 'danh đề cuối phim'. Phương án khác: 'phần credit cuối phim'. → Giữ danh đề cuối phim. (orchestrator)

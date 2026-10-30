@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm | 1 |
+| Yu IlHan | Yu Ilhan; IlHan; Ilhan; Yu Il Han; Yu IllHan; Yu IlHaan; Yu IlHan-nim; Yu IIlHan; Yu IliHan | Yu IlHan | Nhân vật chính, người bị bỏ lại Trái Đất 1000 năm | 1 |
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
@@ -116,6 +116,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Pygmalion |  | Pygmalion | Nhà điêu khắc đảo Síp trong thần thoại Hy Lạp đem lòng yêu bức tượng do chính mình tạc nên, được IlHan nhắc đến khi ví von | 317 |
 | Luciel |  | Luciel | Tên thuở ban đầu của Satan khi còn là Đại Thiên Thần trước khi phản bội và sa ngã (#320) | 320 |
 | Miriel | Archangel Miriel | Miriel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới | 324 |
+| Tachiel |  | Tachiel | Đại thiên thần Quân Đội Thiên Giới cùng Leciel gia nhập Long Sào ở #326 | 326 |
 
 ## Chi tiết
 
@@ -839,6 +840,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thiên thần cấp cao chuyển chức 6 thuộc Quân Đội Thiên Giới; bạn thân thiết của Liera.
 - Ngoại hình / Đặc điểm: Nữ thiên thần xinh đẹp sở hữu hai cặp cánh trắng muốt (4 cánh).
 - Xuất hiện tính đến chương 261: Được Quân Đội Thiên Giới phái đến pháo đài bay để đàm phán mượn sức mạnh vượt chiều của Kang MiRae và viện trợ của Yu IlHan trong cuộc chiến tại Bức Tường Hỗn Loạn; ban đầu cố tỏ ra cứng rắn nhưng hoàn toàn lép vế trước tài ép giá và đe dọa của Yu IlHan, cuối cùng phải chấp nhận nhượng bộ đổi 2 tạo tác phẩm cấp Thần.
+- Trạng thái tính đến chương 326: Theo chân Liera gia nhập Long Sào, chuẩn bị được Cái Nôi Kỳ Tích tái sinh thành rồng; tò mò hỏi gu phụ nữ của Yu IlHan khiến Liera nổi cơn ghen đuổi khéo.
 
 ### Leciel
 - Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 Quân Đội Thiên Giới canh giữ ngân khố.
@@ -898,6 +900,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện tính đến chương 296: Hóa giải phong ấn truy dấu trên người Yu IlHan thất bại; thừa nhận đã đàm phán bắt tay với Quân Đội Ma Hủy Diệt để tiêu diệt IlHan; hoảng hốt trước tốc độ thức tỉnh thành Kẻ Thứ Năm của IlHan và phóng hỏa thương toan hạ sát anh nhưng bị Anafière liều mình chặn lại.
 - Xuất hiện tính đến chương 298: Dùng tạo tác thương cấp Thần giao chiến với Yu IlHan nhưng bị đoạt mất vũ khí và bị phản phệ bởi chính năng lực sao chép của tạo tác thông qua Siêu Việt Quỹ Đạo; bất lực chứng kiến Raphael tử trận và đành ngậm ngùi hạ lệnh cho toàn bộ thiên thần rút lui về Thiên giới.
 - Xuất hiện tính đến chương 324: Xuất hiện chặn đứng sự dao động của các thiên thần trước Uriel; hấp thụ sức mạnh của Thượng Đế và ký lục cần thiết thăng hoa thành Kẻ Siêu Việt với 5 cánh ánh sáng, tuyên bố từ bỏ thân phận thiên thần để trở thành Thượng Đế mới, rồi cầm giáo ánh sáng lao vào quyết chiến với Yu IlHan.
+- Xuất hiện tính đến chương 326: Dù thăng lên Kẻ Siêu Việt cấp độ 700 nhưng hoàn toàn bất lực trước Yu IlHan và bị IlHan lừa gạt tẩu thoát cùng 1/10 binh lực thiên thần và toàn bộ ngân khố; Michael dẫn toàn lực tới Bức Tường Hỗn Loạn trấn áp lũ kẻ săn mồi của Quân Đội Ma Hủy Diệt để thị uy uy danh Thượng Đế mới và thống nhất Thiên giới.
 
 ### Raphael
 - Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.

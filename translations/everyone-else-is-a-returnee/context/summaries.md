@@ -1989,3 +1989,9 @@ Yu IlHan vận dụng Tuyên Cáo và Sáng Tạo dung hợp sức mạnh của 
 Yu IlHan phát thông cáo chiêu mộ hài hước kiểu mua sắm truyền hình; Đại thiên thần Leciel trông coi ngân khố Quân Đội Thiên Giới chủ động xin đầu hàng và được Cái Nôi Kỳ Tích tái sinh thành rồng 3 cặp cánh với thực lực vượt trội hơn trước.
 Cảnh kết thúc: Leciel công khai tố cáo Michael là kẻ tiếm vị hèn hạ giả tạo trước toàn thể thiên thần; Yu IlHan cười tươi thông báo đường dây nóng đang quá tải thúc giục các thiên thần nhanh chóng đặt hàng gia nhập Long Sào.
 
+## 326
+Yu IlHan thi triển Tuyên Cáo và gieo Bẫy Phục Hồi vào mây trời Thiên giới, đồng thời thu phục 1/10 binh lực thiên thần (gồm 2 Đại Thiên Thần Leciel và Tachiel, cùng Titaera); Yumir hoàn thành nhiệm vụ đột nhập vét sạch toàn bộ kho báu và kim loại cấp cao (harkanium, fecinom, el hazra) của Thiên giới.
+Bức Tường Hỗn Loạn ngăn cách Thiên giới và Elo Katra rung chuyển dữ dội trước sự uy hiếp của Quân Đội Ma Hủy Diệt; Yu IlHan kích hoạt Dịch Chuyển rút lui êm đẹp về Daréu, trong khi Michael vội vã tập hợp lực lượng tới Bức Tường Hỗn Loạn thị uy sức mạnh Kẻ Siêu Việt cấp độ 700 để thống nhất Thiên giới.
+Tại Daréu, Yu IlHan dùng Cái Nôi Kỳ Tích tái sinh hàng loạt cựu thiên thần thành rồng thực thụ để củng cố Quân Đoàn Rồng chuẩn bị cho Harmageddon.
+Cảnh kết thúc: Gabriel khẩn cấp liên lạc báo tin hành tung bị bại lộ khi lũ Legna bất ngờ bắt tay với thiên thần sa ngã và Satan cùng tiến đánh Khu Vườn Hoàng Hôn, khiến Yu IlHan kinh ngạc trước liên minh khó tin này.
+

@@ -793,7 +793,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 5th Wing | 5th Wing of Brilliant Light | Cánh Thứ 5 Của Ánh Sáng Rực Rỡ | cấp bậc | 297 | Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ bị Keshein nuốt chửng |
 | Declaration |  | Tuyên Cáo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Ký Lục và Thống Trị, cho phép tạo ký lục vượt trên ký lục trong lĩnh vực và hiện thực hóa ký lục chưa từng tồn tại |
 | Manifestation |  | Hiển Hiện | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Đọa Lạc, Long Huyết và Cộng Hưởng Long Nhân, gia tăng năng lực của vạn vật trong lĩnh vực và thi triển uy lực hủy diệt diện rộng |
-| Transcendent Trajectory |  | Siêu Việt Quỹ Đạo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Thần Lực, Bất Khả Họa Quỹ Đạo Thương, Đại Đoạn Vũ Trụ Thương, Giải Phẫu, Khai Quật và Tuyệt Đối Chuẩn Xác |
+| Transcendent Trajectory | Transcendent trajectory | Siêu Việt Quỹ Đạo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Thần Lực, Bất Khả Họa Quỹ Đạo Thương, Đại Đoạn Vũ Trụ Thương, Giải Phẫu, Khai Quật và Tuyệt Đối Chuẩn Xác |
 | Lord of Dragon's Nest | Lord of Dragon’s Nest | Chúa Tể Long Sào | danh hiệu | 297 | Danh hiệu và vị thế của Yu IlHan khi trở thành người đứng đầu thế lực thực thể cấp cao Long Sào |
 | Lady Helièna | Lady Heli | tiểu thư Helièna | khác | 266 | Cách thuộc hạ Quân Đội Ma Hủy Diệt tôn xưng Helièna |
 | Typhen |  | Typhen | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
@@ -807,7 +807,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Adam and Eve |  | Adam và Eva | khác | 312 | Cặp đôi khởi thủy của loài người trong Kinh Thánh do Thượng Đế và Kang MiRae nhắc tới |
 | Harmageddon | harmageddon | Harmageddon | khác | 314 | Trận đại chiến tận thế theo điển tích Kinh Thánh |
 | Legna | Legnae | Legna | quái vật | 315 | Sinh thể thiên thần nhân tạo kháng mana do Thượng Đế chế tạo; tên viết ngược từ Angel; xuất hiện từ chương 314 dưới dạng golem |
-| Trap of Restoration | Traps of Restoration; Traps of Regeneration | Bẫy Phục Hồi | vật phẩm | 315 | Loại bẫy ma pháp mới do Yu IlHan nghiên cứu chế tạo từ Cái Nôi Kỳ Tích để đối trọng với Bẫy Hủy Diệt |
+| Trap of Restoration | Traps of Restoration; Traps of Regeneration; Trap of Regeneration | Bẫy Phục Hồi | vật phẩm | 315 | Loại bẫy ma pháp mới do Yu IlHan nghiên cứu chế tạo từ Cái Nôi Kỳ Tích để đối trọng với Bẫy Hủy Diệt |
 | Perfect Trap of Restoration |  | Bẫy Phục Hồi Hoàn Hảo | vật phẩm | 316 | Phiên bản Bẫy Phục Hồi phẩm cấp Thần do Yu IlHan chế tạo bằng toàn bộ sức mạnh để áp chế mana và đối trọng Bẫy Hủy Diệt |
 | Confronter of God |  | Kẻ Đương Đầu Thượng Đế | danh hiệu | 320 | Danh xưng và vai trò được Gabriel tiên tri dành cho Yu IlHan, kẻ sẽ trực tiếp đối đầu với Thượng Đế |
 | God of Heaven |  | Thượng Đế Thiên giới | khác | 320 | Cách gọi chỉ kẻ đứng đầu Thiên giới tự xưng là Thượng Đế, kẻ sáng tạo ra lũ Legna |
