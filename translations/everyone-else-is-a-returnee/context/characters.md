@@ -380,6 +380,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 71: Được thăng cấp lên Trung úy, chuyển sang phục vụ trong lực lượng đặc nhiệm Trấn Áp; cùng Đại tá Yun DaeHan sang Nhật Bản tham gia tuyến phòng thủ Tokyo trước khi sáp nhập vào Quân Đoàn Susanoo.
 - Trạng thái tính đến chương 150: Ngày đêm thực chiến chống quái vật bảo vệ tổ quốc trước thềm Đại Tai Biến lần 2; mỗi lần xuất kích đều gào thét đòi giải ngũ lấy chồng giàu và liên tục réo tên Yu IlHan khiến đồng đội thắc mắc.
 - Trạng thái tính đến chương 269: Đạt cấp độ 190, thăng cấp lên Đại tá, chỉ huy 12 binh sĩ Trấn Áp kiên cường bám trụ phòng thủ tuyến đầu cho số ít nhân loại còn sống sót tại Guundia sau Đại Tai Biến lần 3 trước khi được Yu IlHan và Thiếu tướng Yun DaeHan đến chi viện giải cứu.
+- Trạng thái tính đến chương 270: Trưởng thành vượt bậc trong cương vị thủ lĩnh, không còn hành động theo cảm tính; đứng ra thỉnh cầu Yu IlHan tiếp nhận toàn bộ 30.000 người sống sót của Guundia di cư về Trái Đất để nhận sự bảo hộ của anh.
 
 ### Do WooJun
 - Giới tính, vai trò: Nam dị năng giả, trưởng nhóm Kẻ Hành Quyết gồm 5 người.
@@ -390,6 +391,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Thiếu tá quân đội Hàn Quốc chỉ huy lực lượng tác chiến hiện trường. Từng trải qua 10 năm ở thế giới khác.
 - Tính cách: Sáng suốt, nhìn xa trông rộng, hiểu rõ sức mạnh cá nhân có thể vượt trên quân đội hay quốc gia; chủ động hợp tác và cung cấp tin tức quái vật cho IlHan thay vì cưỡng ép kiểm soát.
 - Trạng thái tính đến chương 71: Giữ chức Đại tá chỉ huy lực lượng Trấn Áp Hàn Quốc được cử sang chi viện tại tuyến phòng thủ Tokyo, Nhật Bản.
+- Trạng thái tính đến chương 270: Đã thăng Thiếu tướng; cùng Han YeoRang thuyết phục Yu IlHan tiếp nhận toàn bộ 30.000 người sống sót của Guundia di cư về Trái Đất.
 
 ### Shiota
 - Giới tính, vai trò: Thiên thần hỗ trợ thiết lập Bẫy Hủy Diệt trên Trái Đất cùng nhóm Erta.

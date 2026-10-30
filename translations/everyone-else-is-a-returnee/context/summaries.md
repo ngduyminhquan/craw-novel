@@ -1656,5 +1656,12 @@ Khi kích hoạt Dịch Chuyển tới thế giới cuối cùng mang tên Guund
 Đến nơi, thấy nhóm của Han YeoRang đang kiên cường cầm cự phòng thủ trong tuyệt vọng, Yu IlHan cho Pháo Đài Hộ Vệ lao thẳng từ trên trời xuống nghiền nát bầy quái vật và kích hoạt các tạo tác tiêu diệt kẻ địch giải nguy cho tiền tuyến.
 Sau khi kết giới mở ra, Yun DaeHan cùng các binh sĩ tái ngộ Han YeoRang; Yu IlHan lập tức cho Pháo Đài Hộ Vệ biến mất để dành 13 tiếng đồng hồ quét sạch toàn bộ quái vật trên khắp thế giới Guundia.
 
+## 270
+Yu IlHan quay lại pháo đài tại Guundia lúc 4 giờ sáng sau khi quét sạch quái vật trên khắp thế giới; Han YeoRang cùng Thiếu tướng Yun DaeHan tha thiết thỉnh cầu anh tiếp nhận toàn bộ 30.000 người sống sót của Guundia cùng theo về Trái Đất để tự lập khu định cư dưới sự bảo hộ của anh.
+Helièna dùng mị thuật trêu chọc và khích lệ IlHan đón nhận sự phụng sự của những kẻ thấp kém, đồng thời bí mật ám chỉ việc IlHan thu nạp nhân loại Guundia dưới trướng Trái Đất có thể thay đổi số phận của thế giới bị bỏ rơi này.
+Yu IlHan đồng ý, giải trừ kết giới đón toàn bộ 30.000 người lên Pháo Đài Hộ Vệ rồi kích hoạt kỹ năng Dịch Chuyển đưa tất cả vượt tường chiều không gian về Trái Đất.
+Cảnh kết thúc: Mọi người trên pháo đài đều bàng hoàng ngỡ ngàng trước cảnh tượng Trái Đất lúc này đẹp tựa chốn bồng lai tiên cảnh và sùng kính IlHan như một Kẻ Thống Trị, còn IlHan nhận ra mình phải gấp rút bắt tay vào ổn định Trái Đất trước khi thế giới thăng cấp thành thế giới bậc cao.
+
+
 
 
