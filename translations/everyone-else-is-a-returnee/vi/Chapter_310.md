@@ -74,7 +74,7 @@ Na YuNa ngượng ngùng bộc bạch một cách thành thật. Yu IlHan mỉm 
 
 "Liera đang ở sau lưng cô kìa."
 
-"Anh đừng có trêu em, chuyên gia chọc ghẹ...... hức!"
+"Anh đừng có trêu em, chuyên gia chọc ghẹo...... hức!"
 
 "Em vừa tự nhận tội đấy nhé!"
 

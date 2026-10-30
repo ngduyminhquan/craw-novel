@@ -46,7 +46,7 @@ Chẳng hề có bất kỳ dấu hiệu báo trước nào, một chiếc thùn
 
 Chiếc thùng đã trở thành một tạo tác phẩm cấp Thần sau khi hấp thụ vô số ký lục cùng nguyên liệu, và khi Yu IlHan trở thành thực thể cấp cao, nó cũng đã biến đổi cùng anh để trở thành một thứ còn vượt trên cả cấp bậc đó.
 
-[Đó là...... long lực khổng lồ đến nhường nào.]
+[Đó là...... một lượng long lực thật khổng lồ.]
 
 "Ngươi cảm nhận được thì tốt. Thế thì bắt đầu thôi. Ngươi đã sẵn sàng rồi chứ?"
 
@@ -194,7 +194,7 @@ Yu IlHan vừa vẫy tay chào những người mới đến, vừa nhìn về p
 
 Muốn trở nên mạnh hơn thì hãy chứng minh tư cách của bản thân đi. Chẳng phải điều đó vừa đơn giản lại hết sức hợp lý sao?
 
-[Thuộc hạ đã rõ, hỡi Kẻ Thống Trị của tôi.]
+[Thuộc hạ đã rõ, thưa Kẻ Thống Trị.]
 
 First lại dang rộng đôi cánh và bay vút lên. Hỏa lực hùng mạnh tụ lại trong khoang miệng nó.
 

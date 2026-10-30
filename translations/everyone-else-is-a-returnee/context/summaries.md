@@ -1895,7 +1895,7 @@ Cảnh kết thúc: Yu IlHan tái kích hoạt các ống trụ gom mana khổng
 ## 311
 Yu IlHan dựng kết giới lửa bảo vệ mọi người và hai pháo đài bay, biến nơi đây thành khu vực an toàn để cả nhóm vừa ăn bắp rang vừa theo dõi bầy rồng kịch chiến; anh kể lại toàn bộ hành trình tiêu diệt Raphael, Keshein, gặp gỡ Greed và trở thành thủ lĩnh thế lực Long Sào.
 Mọi người thay nhau trêu chọc và an ủi việc Yu IlHan tới tận lúc đó mới nhận được chức nghiệp Thủ Lĩnh khiến anh dở khóc dở cười; trước thắc mắc của Helièna về cái tên Long Sào có vẻ bài trừ các chủng tộc khác, anh giải thích Long Sào không chỉ là nơi loài rồng tụ hội mà còn là nơi khai sinh ra loài rồng.
-Yu IlHan đưa Cái Nôi Kỳ Tích ra và nhỏ giọt máu của mình để tái tạo cơ thể cho Liera; nhờ đó, khoảng trống hồ sơ sau thời gian dài mất tư cách thiên thần được lấp đầy hoàn hảo.
+Yu IlHan đưa Cái Nôi Kỳ Tích ra và nhỏ giọt máu của mình để tái tạo cơ thể cho Liera; nhờ đó, khoảng trống ký lục sau thời gian dài mất tư cách thiên thần được lấp đầy hoàn hảo.
 Cảnh kết thúc: Liera phá vỡ vỏ trứng bước ra với hai cặp cánh rồng màu đỏ rực rỡ và khôi phục đẳng cấp chuyển chức 6 trong sự kinh ngạc tột cùng của Helièna; Yu IlHan cười bảo Helièna chuẩn bị đến lượt khôi phục đẳng cấp chuyển chức 7 hoàn hảo.
 
 

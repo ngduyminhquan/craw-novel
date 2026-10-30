@@ -313,9 +313,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 306 | 304 | Chapter_306 - Chapter 304_ I Am Your Father – 5.txt | I Am Your Father – 5 | reviewed |  |
 | 307 | 305 | Chapter_307 - Chapter 305_ I Am Your Father – 6.txt | I Am Your Father – 6 | reviewed |  |
 | 308 | 306 | Chapter_308 - Chapter 306_ I Am Your Father – 7.txt | I Am Your Father – 7 | reviewed |  |
-| 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | done |  |
-| 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | done |  |
-| 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | done |  |
+| 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | reviewed |  |
+| 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | reviewed |  |
+| 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | reviewed |  |
 | 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | todo |  |
 | 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | todo |  |
 | 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | todo |  |

@@ -30,9 +30,9 @@ Yu IlHan lớn tiếng quát, nhưng tình hình đã hoàn toàn nghiêng về 
 
 Yu IlHan thở dài, nhưng anh cũng chẳng còn cách nào khác. Hẳn là Liera đã kể cho họ nghe tới tận đoạn Raphael đồng hành cùng hai người. Anh bắt đầu tiết lộ chi tiết từ thời điểm sau đó, đồng thời nhấn mạnh vào những việc anh phải làm để kiến tạo nên một tổ chức thực thể cấp cao.
 
-Nào là việc họ cùng Raphael tới một nơi mà mọi phe phái đang chém giết lẫn nhau; nào là những kẻ vốn tấn công Quân Đội Thiên Giới dữ dội lại quay sang tấn công Quân Đội Ánh Sáng Rực Rỡ khiến anh ngạc nhiên ra sao; nào là việc Michael và Raphael phối hợp với nhau để hóa giải Ẩn Thân của anh, hay nói chính xác hơn là phân thân của anh; và việc anh thừa dịp họ phân tâm đã tấn công Raphael rồi đoạt lấy toàn bộ hồ sơ cần thiết!
+Nào là việc họ cùng Raphael tới một nơi mà mọi phe phái đang chém giết lẫn nhau; nào là những kẻ vốn tấn công Quân Đội Thiên Giới dữ dội lại quay sang tấn công Quân Đội Ánh Sáng Rực Rỡ khiến anh ngạc nhiên ra sao; nào là việc Michael và Raphael phối hợp với nhau để hóa giải Ẩn Thân của anh, hay nói chính xác hơn là phân thân của anh; và việc anh thừa dịp họ phân tâm đã tấn công Raphael rồi đoạt lấy toàn bộ ký lục cần thiết!
 
-Rồi việc anh nhận được chức nghiệp Thủ Lĩnh để thay thế cho Bạn Đồng Hành Thiên Thần đã mất, và tái sinh thành kẻ đứng đầu phe phái ra sao; việc anh hạ sát Keshein cùng Raphael rồi trưởng thành vượt bậc hơn nữa; việc anh đến Elo Katra diện kiến thủ lĩnh Quân Đội Ma Hủy Diệt, cũng như việc anh hoàn toàn phớt lờ Greed rồi quay trở lại Daréu, để rồi khơi mào cho Đại Tai Biến lần thứ 6.
+Rồi việc anh nhận được chức nghiệp Thủ Lĩnh để thay thế cho Bạn Đồng Hành Thiên Thần đã mất, và tái sinh thành kẻ đứng đầu phe phái ra sao; việc anh hạ sát Keshein cùng Raphael rồi trưởng thành vượt bậc hơn nữa; việc anh đến Elo Katra gặp gỡ thủ lĩnh Quân Đội Ma Hủy Diệt, cũng như việc anh hoàn toàn phớt lờ Greed rồi quay trở lại Daréu, để rồi khơi mào cho Đại Tai Biến lần thứ 6.
 
 "Phù, thấy chưa, có chuyện gì to tát xảy ra đâu, đúng không?"
 
@@ -52,7 +52,7 @@ Dù anh đã kể toàn bộ câu chuyện ngầu lòi này chỉ trong một h�
 
 "Hả, ôi chao?"
 
-"Ch-chuyện đó cũng có thể xảy ra mà. Thủ Lĩnh ấy à, ừm. Có khi nếu không trải qua mười năm ở Breya thì tôi cũng chẳng nhận được đâu. Ừ, hẳn là thế rồi."
+"Ch-chuyện đó cũng có thể xảy ra mà. Thủ Lĩnh ấy à, ừm. Có khi nếu không trải qua mười năm ở Breya thì em cũng chẳng nhận được đâu. Ừ, hẳn là thế rồi."
 
 "Hảảả?"
 
@@ -90,7 +90,7 @@ Con ngươi của Yu IlHan tỏa ra ánh sáng. Đồng tử hình khe dọc mà
 
 Anh giơ một bàn tay lên. Liera, người cảm nhận được đã tới lượt mình, liền đứng dậy và bước lại gần anh. Những người khác dường như cũng cảm nhận được một luồng khí tức huyền bí, liền dồn ánh mắt về phía Yu IlHan, Helièna và Liera.
 
-Đúng khoảnh khắc ấy, một chiếc xô khổng lồ màu đỏ xuất hiện bên trong kết giới. Đó chính là chiếc nôi đã biến First thành một con rồng thực thụ, Cái Nôi Kỳ Tích. Helièna dường như cuối cùng cũng nhận ra điều gì đó, liền thốt lên một tiếng rên cảm thán.
+Đúng khoảnh khắc ấy, một chiếc thùng khổng lồ màu đỏ xuất hiện bên trong kết giới. Đó chính là chiếc nôi đã biến First thành một con rồng thực thụ, Cái Nôi Kỳ Tích. Helièna dường như cuối cùng cũng nhận ra điều gì đó, liền thốt lên một tiếng rên cảm thán.
 
 [Hóa ra là vậy, Long Sào......]
 
@@ -104,7 +104,7 @@ Liera nhắm mắt lại. Họ chẳng cần phải mở lời với nhau để 
 
 Helièna không giấu nổi vẻ bàng hoàng cùng sự cảm thán.
 
-[Làm sao có thể như thế được, hóa ra là vậy. Cuối cùng ta cũng hiểu được làm thế nào mà chàng lại có thể trở thành một thực thể vượt qua cả Thiên giới rồi. Một thế lực có thể thay đổi hồ sơ của một cá thể với biên độ lớn đến nhường này...... từ trước tới nay chỉ có duy nhất Thiên giới mới làm được điều đó thôi.]
+[Làm sao có thể như thế được, hóa ra là vậy. Cuối cùng ta cũng hiểu được làm thế nào mà chàng lại có thể trở thành một thực thể vượt qua cả Thiên giới rồi. Một thế lực có thể thay đổi ký lục của một cá thể với biên độ lớn đến nhường này...... từ trước tới nay chỉ có duy nhất Thiên giới mới làm được điều đó thôi.]
 
 Điều đó hoàn toàn đúng. Quân Đội Ma Hủy Diệt chỉ nâng cao đẳng cấp của những thực thể mang khuynh hướng hủy diệt và giữ nguyên các thuộc tính của chúng. Khu Vườn Hoàng Hôn là một thế lực tôn trọng đặc tính của từng cá thể và hỗ trợ sự phát triển của chúng. Quân Đội Ánh Sáng Rực Rỡ có tạo ra đôi chút biến đổi, nhưng đó chẳng qua chỉ là làm sa ngã những kẻ vốn đã trở thành thiên thần.
 
@@ -132,13 +132,13 @@ Hơn nữa trường hợp của Liera cũng có chút khác biệt so với Fir
 
 [K-khoan đã, người thương. Khôi phục đẳng cấp của cô ấy ư? Đẳng cấp mà cô ấy từng đánh mất sao?]
 
-"Liera chỉ không thể hiện thực hóa những hồ sơ tích lũy bấy lâu kể từ khi mất đi tư cách thiên thần thôi, chứ cô ấy vẫn sở hữu các thành tựu và hồ sơ mà bản thân tự mình đoạt lấy, đúng chứ?"
+"Liera chỉ không thể hiện thực hóa những ký lục tích lũy bấy lâu kể từ khi mất đi tư cách thiên thần thôi, chứ cô ấy vẫn sở hữu các thành tựu và ký lục mà bản thân tự mình đoạt lấy, đúng chứ?"
 
 [Nhưng dù có là như vậy đi chăng nữa......]
 
 "Điều này cũng giống như việc một thiên thần trở thành thiên thần sa ngã, một thiên thần sa ngã trở thành kẻ săn mồi của Quân Đội Ma Hủy Diệt, và một kẻ săn mồi trở thành thủ môn nhân của Khu Vườn Hoàng Hôn vậy. Có gì mà phải ngạc nhiên đến thế chứ."
 
-Trước đây, Khu Vườn Hoàng Hôn từng cố gắng giúp Erta tái sinh thành thủ môn nhân của họ. Bởi cô vẫn giữ lại những hồ sơ từng sở hữu để chạm tới đẳng cấp ấy, họ chỉ cần tráo đổi hồ sơ thiên thần của cô bằng hồ sơ của một thủ môn nhân mà thôi.
+Trước đây, Khu Vườn Hoàng Hôn từng cố gắng giúp Erta tái sinh thành thủ môn nhân của họ. Bởi cô vẫn giữ lại những ký lục từng sở hữu để chạm tới đẳng cấp ấy, họ chỉ cần tráo đổi ký lục thiên thần của cô bằng ký lục của một thủ môn nhân mà thôi.
 
 Đây cũng chính là phương pháp đã biến các thiên thần thành thiên thần sa ngã, và về cơ bản là một loại ma pháp mà tất cả các phe phái đều chia sẻ vào thời điểm này. Tuy nhiên, điều đó chỉ áp dụng cho......
 
