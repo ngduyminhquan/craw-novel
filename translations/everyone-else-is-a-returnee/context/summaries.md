@@ -1935,4 +1935,11 @@ Yu IlHan trêu chọc Mystic và bảo cô đi gọi Orochi; sau đó anh dùng 
 Cả Mystic lẫn Orochi đều được tái sinh thành linh hồn trọn vẹn sở hữu thể xác thực thụ, không còn có thể tùy tiện rời khỏi cơ thể dưới dạng tàn niệm như trước; Orochi ngày càng khâm phục cảnh giới Sáng Tạo của Yu IlHan.
 Cảnh kết thúc: Thu gom toàn bộ Bẫy Phục Hồi vào túi đồ, Yu IlHan cùng Orochi và một Mystic còn ngượng ngùng chuẩn bị tiến đến Daréu cắm bẫy, chính thức phát động đòn phản công chống lại mọi điềm báo và âm mưu đe dọa thế giới.
 
+## 318
+Yu IlHan rải các Bẫy Phục Hồi đầu tiên xuống Daréu; Mystic vận dụng năng lực khống chế mana chuyển hóa toàn bộ Bẫy Hủy Diệt trên đại lục thành Bẫy Phục Hồi, tự động hút giam toàn bộ quái vật vào hầm ngục và giúp các kỹ năng của IlHan thăng cấp mạnh mẽ.
+Nhận thấy kinh nghiệm và ký lục liên tục tăng lên nhờ cấp dưới chiến đấu, IlHan phân tích và suy đoán Thượng Đế đã phân chia sức mạnh cùng ký lục cho tứ Đại Thiên Thần (Michael, Raphael, Gabriel, Uriel), đồng thời hoài nghi năng lực tiên tri của Gabriel.
+Thực hiện lời hứa sau khi quái vật bị dọn dẹp, IlHan cho 16 thực thể cấp cao của Long Sào mỗi người chọn một cá thể Long tộc ưu tú để biến chúng thành rồng thực thụ, khiến toàn thể Long tộc phấn khích sục sôi ý chí chiến đấu.
+IlHan giao Pháo Đài Hộ Vệ cho Kang MiRae đưa người dân Trái Đất sang Daréu lánh nạn, đồng thời dặn dò toàn quân đề phòng quân đoàn Legna xâm lược.
+Cảnh kết thúc: Yu IlHan cùng Mystic và Orochi bước lên pháo đài bay, mang theo 6.938 chiếc Bẫy Phục Hồi xuất phát đến các thế giới khác để gieo rắc trật tự mới.
+
 
