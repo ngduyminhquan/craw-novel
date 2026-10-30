@@ -929,4 +929,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta.
 - Xuất hiện/tử trận tính đến chương 303: Bị Liera tiêu diệt trong trận đấu tay đôi sau khi hai pháo đài bay quét sạch phần lớn thuộc hạ; thi thể bị Liera thu thập.
 
-
+### God
+- Giới tính, vai trò: Vô tính / Nam, thủ lĩnh tối cao sáng lập Quân Đội Thiên Giới, một Kẻ Siêu Việt; Đấng tạo hóa đã rời bỏ Thiên giới.
+- Trạng thái tính đến chương 312–314: Bí mật tạo ra các sinh thể golem kháng mana từ hợp kim Harkanium, Fecinom và El Hazra tại một thế giới bí mật; âm mưu xóa sổ vạn vật sở hữu mana để làm lại từ đầu từ Adam và Eva không có mana; liên lạc dụ dỗ Kang MiRae trong tiềm thức khi cô trở thành thực thể cấp cao nhưng bị cự tuyệt; cài ngòi nổ ma pháp vào ký lục của Kang MiRae nhằm thủ tiêu cô nhưng bị Yu IlHan hóa giải.

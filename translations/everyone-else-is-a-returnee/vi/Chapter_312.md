@@ -26,7 +26,7 @@ Sau câu nói ngắn ngủi ấy, cô liền lao ngay tới chỗ Yu IlHan và t
 
 "Hứ, nhưng mà dù vậy đi nữa."
 
-Trên thực tế, kinh nghiệm mà Liera tích lũy được trong khoảng thời gian làm thực thể cấp thấp cũng đã thúc đẩy sự trưởng thành của cô, và giờ đây đẳng cấp của cô đã vượt xa cấp độ thời còn là đại thiên thần. Khi xưa làm đại thiên thần, cô chỉ ở mức dưới Lv 430 một chút, nhưng giờ đây khi tái sinh thành rồng, cô đã đạt tới Lv 483. Qua đó đủ thấy cô đã cùng Yu IlHan trải qua những chiến trường khốc liệt đến nhường nào.
+Trên thực tế, kinh nghiệm mà Liera tích lũy được trong khoảng thời gian làm thực thể cấp thấp cũng đã thúc đẩy sự trưởng thành của cô, và giờ đây cấp độ của cô đã vượt xa cấp độ thời còn là đại thiên thần. Khi xưa làm đại thiên thần, cô chỉ ở mức dưới Lv 430 một chút, nhưng giờ đây khi tái sinh thành rồng, cô đã đạt tới Lv 483. Qua đó đủ thấy cô đã cùng Yu IlHan trải qua những chiến trường khốc liệt đến nhường nào.
 
 "Toàn bộ kỹ năng của tôi đều đã biến đổi và tiến hóa. Hơn nữa...... tôi nghĩ mình có thể chuyển đổi hình dạng nếu muốn."
 
@@ -194,7 +194,7 @@ Thế nhưng.
 
 "Ngươi biết rồi mà vẫn còn hỏi à?"
 
-[Cho tới nay ta đã thất bại trong không ít kế hoạch của mình, và tất cả đều là nhờ vào những cảm xúc bắt nguồn từ loài người. Do đó, ta đã đi tới kết luận rằng chỉ có cảm xúc của con người mới làm các kế hoạch của ta rơi vào hỗn loạn. Đó là lý do ta kích động cảm xúc của ngươi, với hy vọng vào một kết quả khác. Và kết quả thế nào? Chẳng phải trái tim ngươi đã dao động trước lời hứa rằng ngươi có thể độc chiếm Yu IlHan sao?]
+[Cho tới nay ta đã thất bại trong không ít kế hoạch của mình, và tất cả đều là do những cảm xúc bắt nguồn từ loài người. Do đó, ta đã đi tới kết luận rằng chỉ có cảm xúc của con người mới làm các kế hoạch của ta rơi vào hỗn loạn. Đó là lý do ta kích động cảm xúc của ngươi, với hy vọng vào một kết quả khác. Và kết quả thế nào? Chẳng phải trái tim ngươi đã dao động trước lời hứa rằng ngươi có thể độc chiếm Yu IlHan sao?]
 
 "Chuyện đó đúng là không sai, nhưng mà."
 

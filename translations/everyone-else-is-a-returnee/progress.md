@@ -316,9 +316,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 309 | 307 | Chapter_309 - Chapter 307_ I Am Your Father – 8.txt | I Am Your Father – 8 | reviewed |  |
 | 310 | 308 | Chapter_310 - Chapter 308_ I Am Your Father – 9.txt | I Am Your Father – 9 | reviewed |  |
 | 311 | 309 | Chapter_311 - Chapter 309_ You Are The Same As Me – 1.txt | You Are The Same As Me – 1 | reviewed |  |
-| 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | done |  |
-| 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | done |  |
-| 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | done |  |
+| 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | reviewed |  |
+| 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | reviewed |  |
+| 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | reviewed |  |
 | 315 | 313 | Chapter_315 - Chapter 313_ You Are The Same As Me – 5.txt | You Are The Same As Me – 5 | todo |  |
 | 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | todo |  |
 | 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | todo |  |

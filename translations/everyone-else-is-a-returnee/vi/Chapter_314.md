@@ -82,13 +82,13 @@ Sinh thể thiên thần kỳ quái vẫn đang ở đó. Vòng hào quang khôn
 
 Đúng như mong đợi từ một con rồng, Echjar phản ứng vô cùng nhạy cảm với những chủ đề liên quan đến mana. Yu IlHan bật cười rồi lắc đầu.
 
-"Ta cũng từng thắc mắc về điều đó, nhưng giờ thì ta biết chắc rồi. Đây không phải sinh mệnh. Đúng hơn nên coi nó là một con golem thì hợp lý hơn."
+"Ta cũng từng thắc mắc về điều đó, nhưng giờ thì ta biết chắc rồi. Đây không phải sinh mệnh. Đúng hơn thì nên coi nó là một con golem."
 
 [Rốt cuộc đúng là như thế sao......?]
 
 "Mọi thế giới đều phải trải qua Đại Tai Biến sau khi đạt đến một thời điểm nhất định, và mana sẽ được sản sinh một cách tự nhiên trong quá trình đó. Mana chính là tự nhiên. Thứ này cự tuyệt mana, thứ vốn là tự nhiên, vậy nên làm sao nó có thể là sinh mệnh được chứ?"
 
-[Vậy kẻ tự xưng là ‘Thượng Đế’ kia thì sao?]
+[Vậy kẻ tự xưng là 'Thượng Đế' kia thì sao?]
 
 "Điều đó biến hắn thành một bạo chúa muốn lật đổ tự nhiên và tạo nên một khu vườn toàn những con búp bê. ......Vấn đề ở đây là hắn có thừa sức mạnh để làm được điều đó."
 
@@ -196,6 +196,6 @@ Dẫu vậy, điều đó hoàn toàn chính xác. Bẫy Hủy Diệt vẫn tồ
 
 Yu IlHan lẩm bẩm bằng một giọng trầm thấp, nhưng vẫn phảng phất đôi chút mong đợi.
 
-"Có lẽ, thực sự sẽ sớm xảy ra...... một trận chiến ‘Harmageddon’ chăng."
+"Có lẽ, thực sự sẽ sớm xảy ra...... một trận chiến 'Harmageddon' chăng."
 
 [← Chương trước](Chapter_313.md) | [Chương tiếp theo →](Chapter_315.md)

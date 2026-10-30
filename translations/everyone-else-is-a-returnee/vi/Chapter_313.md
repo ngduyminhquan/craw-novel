@@ -78,7 +78,7 @@ Nếu tất cả mọi người đều trở nên giống Yu IlHan, đáng lẽ 
 
 "Ai đó giải thích tình hình cho cô MiRae nghe đi."
 
-"Không, không cần đâu. Tôi có thể hiểu được mọi chuyện nhờ vào một phần nhỏ ký lục của anh mà tôi nhìn thấy lúc đang trở thành thực thể cấp cao. Nơi này là Daréu đã trải qua biến đổi, và giờ đây Long tộc đang chiến đấu với lũ quái vật khác dưới sự thống suất của loài rồng...... chúng ta cũng cần phải giúp họ tiêu diệt đám quái vật đó, đúng chứ?"
+"Không, không cần đâu. Tôi có thể hiểu được mọi chuyện nhờ vào một phần nhỏ ký lục của anh mà tôi nhìn thấy lúc đang trở thành thực thể cấp cao. Nơi này là Daréu đã trải qua biến đổi, và giờ đây Long tộc đang chiến đấu với lũ quái vật khác dưới sự thống lĩnh của loài rồng...... chúng ta cũng cần phải giúp họ tiêu diệt đám quái vật đó, đúng chứ?"
 
 "......Cô nắm bắt vấn đề một cách hoàn hảo như vậy thì tốt quá rồi."
 
@@ -150,7 +150,7 @@ Kang HaJin thốt lên trong kinh ngạc rồi lập tức co rúm người lạ
 
 Thế nhưng, bọn chúng làm gì có tư cách trách cứ anh khi mà bản thân vẫn đang điên cuồng tấn công Long tộc ngay cả lúc buông ra những câu hỏi mang tính triết học như vậy! Liệu các phe phái khác có biết rằng phe phái thứ năm, Long Sào, là một hang ổ của những thực thể đáng sợ hay không? Không, liệu họ có bao giờ biết được chăng?
 
-[Các ngươi còn định phơi bày bộ dạng thảm hại trước mặt Cha đến bao giờ nữa hả? Còn muốn làm mất mặt trước các huynh đệ tỷ muội đến khi nào nữa! Hãy liều mạng chiến đấu đi!]
+[Các ngươi còn định phơi bày bộ dạng thảm hại trước mặt Cha đến bao giờ nữa hả? Còn muốn làm mất mặt trước huynh trưởng và tỷ tỷ đến khi nào nữa! Hãy liều mạng chiến đấu đi!]
 
 [Khừừừừừừừ! Hãy chứng minh tư cách của loài rồng đi! Giành lấy thắng lợi trước những kẻ đồ long và tái sinh thành rồng chân chính!]
 
