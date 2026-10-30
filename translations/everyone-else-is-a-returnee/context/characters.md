@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dakié | Dakie; sir Dakié; Dakié von Illastra; Dakié Von Illastra; Illastra | Dakié | Pháp sư cấp 4 bí ẩn từ thế giới khác mưu đồ kết nối chiều không gian tới Trái Đất | 55 |
 | Spiera | Spera | Spiera | Nữ thiên thần cấp cao Quân Đội Thiên Giới dùng thương ánh sáng, quyết đoán và lạnh lùng (Liera có lần gọi đùa là Spiemon); tính đến #241 tái ngộ IlHan tại Daréu, chúc phúc cho Liera và ẩn vào bóng của IlHan hỗ trợ tác chiến; tính đến #243 liều mình cầm chân Echjar rồi được IlHan dịch chuyển về Trái Đất; tính đến #244-#245 cùng Yu IlHan quyết chiến với Echjar tại Trái Đất và bị trọng thương, sau đó chứng kiến IlHan kết liễu Echjar; tính đến #246 chèo kéo IlHan gia nhập Quân Đội Thiên Giới bất thành, rồi bị IlHan bỏ lại Daréu một mình gánh việc giải trình về cái chết của Echjar; đã giải trừ khế ước Bạn Đồng Hành Thiên Thần với Yu IlHan và tử trận ở #253 sau trận quyết đấu sinh tử cùng anh | 62 |
 | Tamura |  | Tamura | Dị năng giả Nhật Bản chiến đấu tại Odawara, được Yu IlHan cứu khi bị Khỉ Ác Ma bắt | 70 |
-| Michael Smithson | Smithson; Michael | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
+| Michael Smithson | Smithson | Michael Smithson | Thủ lĩnh của clan Metal Knights đến từ Anh | 72 |
 | Carina Malatesta | Carina; Malatesta; Miss Malatesta | Carina Malatesta | Chủ clan Magia (Ý), quý cô quý tộc kiêu kỳ | 73 |
 | Takagaki Asuha |  | Takagaki Asuha | Nữ chủ clan của Clan Ma Long đến từ Nhật Bản | 82 |
 | Liera | Lieara; LIera; Lier | Liera | Tên mới của Lita sau khi thăng cấp lên chuyển chức lần 6 (lộ diện từ chương 91) | 91 |
@@ -98,6 +98,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lemiel | Ramiel | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
+| Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8 | 289 |
+| Raphael | Lord Raphael | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira | 289 |
 
 ## Chi tiết
 
@@ -844,3 +846,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 - Xuất hiện tính đến chương 286: Bị Yu IlHan dùng Bất Khả Họa Quỹ Đạo Thương chém đứt cánh tay trái và các cánh, phá vỡ kỹ năng Phản Kích; bị IlHan liếm máu vạch trần thân phận là kẻ phản bội ngầm chuẩn bị đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ; trong cơn hoảng loạn đã giải phóng mưa lôi điện toàn diện để ngăn Yu IlHan cướp mana thế giới.
 - Xuất hiện tính đến chương 287: Bị Yu IlHan dùng Phản Kích đảo ngược cơn mưa lôi điện và tước quyền thống trị thế giới; thừa nhận tôn sùng Chúa Tể Satan rồi tự đọa lạc thành Cánh Thứ 11 Của Ánh Sáng Rực Rỡ để phục hồi thể xác; bị Yu IlHan phóng hỏa thương kết hợp Tuyệt Đối Chuẩn Xác tiêu diệt tại chỗ dù đã dồn tàn lực giáng lời nguyền chí tử vào IlHan.
+
+### Michael
+- Giới tính, vai trò: Nam, Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, đại diện của Thượng Đế và là nhân vật số 2 chính thức của Quân Đội Thiên Giới.
+- Đặc điểm: Sở hữu thực lực tiệm cận chuyển chức 8, vượt trội hoàn toàn so với các đại thiên thần chuyển chức 7 thông thường và có thể trực tiếp đối đầu với Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ.
+- Xuất hiện tính đến chương 289: Được các thiên thần tại Wirepa nghi ngờ là người đang phóng hỏa thương thanh trừng nội gián; được Liera cảnh báo Yu IlHan phải lập tức tháo chạy nếu chạm trán vì khoảng cách sức mạnh quá lớn.
+
+### Raphael
+- Giới tính, vai trò: Đại thiên thần, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới với danh xưng Raphael Trị Liệu, thực thể cấp cao chuyển chức 7.
+- Xuất hiện tính đến chương 289: Bất ngờ giáng lâm xuống thế giới bậc cao Feira giữa lúc Yu IlHan đang tàn sát các thiên thần phản bội, khiến các thiên thần tại đây kinh ngạc thốt lên.

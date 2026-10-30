@@ -1775,3 +1775,9 @@ Liera bàng hoàng khi Yu IlHan tiết lộ Thượng Đế đã bỏ trốn kh�
 Yu IlHan nhận ra bản thân sắp chạm tới cảnh giới thực thể cấp cao sau khi thuần thục Ký Lục và Chúa Tể Thứ Nguyên, liền chia đội: anh truyền ký lục lộ trình cho Kang MiRae để pháo đài tiếp tục tuần tra ba phe còn lại dưới sự bảo hộ của Helièna.
 IlHan chỉ mang theo Liera và Yumir rồi dùng Dịch Chuyển (lên cấp 66) đến thế giới Wirepa đã qua Đại Tai Biến lần 6 để thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ theo ký lục của Lemiel.
 Cảnh kết thúc: Yu IlHan liên tiếp phóng hỏa thương kết hợp Tuyệt Đối Chuẩn Xác lấy mạng kẻ phản bội Mita (Lv 366) cùng hàng loạt nội gián khác, khiến các thiên thần tại Wirepa hoang mang tột độ nghi ngờ tứ Đại Thiên Thần đang đích thân hành hình.
+
+## 289
+Yu IlHan phong tỏa hoàn toàn thế giới Wirepa bằng Chúa Tể Thứ Nguyên (lên cấp 79), rồi dùng Tuyệt Đối Chuẩn Xác, Bất Khả Họa Quỹ Đạo Thương và Đại Đoạn Vũ Trụ Thương (lên cấp 93) quét sạch 40% thiên thần là nội gián ngụy trang máu trắng trước khi chúng kịp đọa lạc; các thiên thần còn lại hoang mang nghi ngờ Đại thiên thần Michael ra tay.
+Liera cảnh báo IlHan về thực lực tiệm cận chuyển chức 8 của Đại thiên thần ngọn lửa Michael (nhân vật số 2 của Quân Đội Thiên Giới); IlHan cùng Liera và Yumir tiếp tục dùng Ký Lục và Dịch Chuyển càn quét nội gián qua hơn 20 thế giới bậc cao khác, nâng Đọa Lạc lên cấp 68 và Dịch Chuyển lên cấp 84.
+Nhóm ba người đặt chân tới thế giới Feira sắp trải qua Đại Tai Biến lần 7 với hơn 1.000 kẻ phản bội cùng một kẻ chuyển chức 7; IlHan lập tức ra tay tàn sát để khiêu chiến đối thủ.
+Cảnh kết thúc: Giữa lúc Yu IlHan đang đồ sát lũ phản bội, Raphael Trị Liệu – một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới – bất ngờ giáng lâm xuống thế giới Feira khiến toàn bộ thiên thần nơi đây rúng động.

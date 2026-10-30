@@ -90,6 +90,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Eternal Flame | cô / cô bé / Ngọn Lửa Vĩnh Cửu / nó | 278 | Ngọn lửa sống của Yu IlHan thức tỉnh ý chí và giọng nói của một bé gái từ chương 278 |
 | Felaère | hắn / Felaère | 285 | Cánh Thứ 7 Của Ánh Sáng Rực Rỡ |
 | Lemiel | hắn / Lemiel / đại thiên thần Lemiel | 285 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới |
+| Michael | Michael / đại thiên thần Michael | 289 | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
+| Raphael | Raphael / đại thiên thần Raphael | 289 | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu) |
 
 ## Giữa các nhân vật
 

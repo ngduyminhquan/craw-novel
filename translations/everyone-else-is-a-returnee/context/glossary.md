@@ -778,4 +778,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Great Traitor |  | Kẻ Đại Phản Bội | danh hiệu | 287 | Danh hiệu của Satan do Lemiel tôn xưng |
 | Final God |  | Vị Thần Cuối Cùng | danh hiệu | 287 | Danh xưng của Satan do Lemiel tôn xưng |
 | Wirepa |  | Wirepa | địa danh | 288 | Thế giới bậc cao thuộc quyền quản lý của Quân Đội Thiên Giới, đã trải qua Đại Tai Biến lần thứ 6 |
+| Feira |  | Feira | địa danh | 289 | Thế giới bậc cao thuộc quyền quản lý của Quân Đội Thiên Giới sắp trải qua Đại Tai Biến lần 7 |
+| Great Lord of Black Wings |  | Đại Chúa Tể Đôi Cánh Đen | danh hiệu | 289 | Danh xưng tôn sùng các thiên thần sa ngã dùng để gọi Chúa Tể Satan |
+| Raphael of Healing |  | Raphael Trị Liệu | danh hiệu | 289 | Danh xưng của Raphael, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
 | four Great Archangels | Great Archangels | tứ Đại Thiên Thần | cấp bậc | 288 | Bốn vị đại thiên thần quyền lực tối cao lãnh đạo Quân Đội Thiên Giới |
