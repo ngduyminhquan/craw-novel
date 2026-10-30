@@ -1739,3 +1739,9 @@ Yu IlHan quyết định phải can thiệp vào các hoạt động của thự
 Kim YeSeul khéo léo đuổi mọi người ra ngoài để Helièna lập kết giới nói chuyện riêng với Yu IlHan, tiết lộ sự biến mất của các thiên thần là do lộ bản doanh Quân Đội Ánh Sáng Rực Rỡ và cuộc đại chiến tranh giành Trái Đất sắp bùng nổ.
 Helièna thú nhận ả từng bị thủ lĩnh Khu Vườn Hoàng Hôn lợi dụng để lan truyền lời tiên tri về Vị Thần Thứ Năm nhằm kích động các phe phái xâu xé Trái Đất, qua đó tạo điều kiện cho IlHan trưởng thành và trở thành Thần.
 Cảnh kết thúc: Bực bội tột cùng khi phát hiện bản thân và Trái Đất bị các thế giới tính toán sắp đặt từ trước khi sinh ra, Yu IlHan quyết định chống lại số phận bằng cách tập hợp mọi người chuẩn bị tuyên chiến và đi cướp đoạt các thế giới bậc cao.
+
+## 283
+Yu IlHan dồn hết nguyên liệu nâng cấp trang bị toàn quân, kiểm tra bảng chỉ số thấy bản thân đạt cấp 299 với chỉ số ngang ngửa thực thể chuyển chức 6 và thoáng hoang mang về nhân tính của mình, nhưng được Liera bày tỏ tình cảm chân thành xoa dịu.
+Kết giới giải trừ, ba chủ clan (Smithson, Carina, Asuha) kiên quyết xin gia nhập xuất chiến cùng Pháo Đài Bay; Yu IlHan tới Daréu điều động 1.000 tinh anh elf và Lang tộc chuyển chức 4 dưới quyền Mirfa, Jirl, Mirey, Paté và Erica lên Pháo Đài Hộ Vệ.
+Yu IlHan cùng Orochi chuẩn bị xong một vũ khí đặc biệt làm át chủ bài, sau đó hỏi ý kiến Helièna về điều kiện cướp đoạt thế giới bậc cao (xua đuổi mọi thực thể cấp cao và xóa sạch dấu vết của chúng).
+Cảnh kết thúc: Yu IlHan chọn mục tiêu đầu tiên là Khu Vườn Hoàng Hôn vì "dễ xơi nhất" và kích hoạt Dịch Chuyển đưa cả hai đại pháo đài biến mất, sẵn sàng gánh vác vai phản diện chống lại sự sắp đặt của các thế lực.

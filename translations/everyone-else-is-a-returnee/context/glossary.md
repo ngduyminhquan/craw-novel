@@ -144,7 +144,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Jeongneung |  | Jeongneung | địa danh | 13 | Khu vực lân cận núi Bukhansan ở Seoul |
 | Brown Big Bear |  | Gấu Lớn Nâu | quái vật | 14 | Quái vật gấu biến dị cấp 54 tại khu Jeongneung |
 | Critical Hit | Critical Hit Skill; Fatal; Fatally | Chí Mạng | kỹ năng | 14 | Kỹ năng tăng xác suất đánh trúng điểm yếu chí mạng; cũng là tiền tố dòng thuộc tính trang bị (Fatal/Fatally) tăng tỷ lệ chí mạng |
-| One hit for me, one hit for you! | One hit for you, one hit for me; One hit for him, one hit for you | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
+| One hit for me, one hit for you! | One hit for you, one hit for me; One hit for him, one hit for you; One hit for me; one hit for you | Một đòn cho ta, một đòn cho ngươi! | danh hiệu | 14 | Danh hiệu nhận được khi hạ gấu cấp 54, tăng 10% tỷ lệ chí mạng |
 | Giantification |  | Khổng Hóa | kỹ năng | 15 | Kỹ năng biến hình phóng to kích thước của Gấu Lớn Nâu |
 | Man in Black |  | Người Áo Đen | khác | 14 | Biệt danh mới quân đội gán cho IlHan sau khi hạ gấu cấp 54 tại Jeongneung |
 | 96Tiger platoon | 96Tiger Plato | Trung đội Mãnh Hổ 96 | tổ chức | 14 | Trung đội quân đội có mặt tại hiện trường gấu khổng lồ ở Jeongneung |
@@ -293,7 +293,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Mad Heaven's deathblow pile bunker |  | Súng Bắn Cọc Tất Sát Cuồng Thiên | vật phẩm | 43 | Vũ khí Súng Bắn Cọc tự hủy sau 1 phát bắn do Yu IlHan cải tạo, sức tấn công tầng 5 lên tới 6.200 |
 | Highland Troll Boss |  | Thủ Lĩnh Troll Cao Nguyên | quái vật | 44 | Quái vật trùm cấp 109 trong hầm ngục cao nguyên tại Grand Canyon |
 | Chasing Strike |  | Truy Kích | kỹ năng | 44 | Kỹ năng chiến đấu của Kang HaJin, sát thương gia tăng dựa theo đòn đánh trước đó lên mục tiêu |
-| Not two hits, nor three hits, but one hit |  | Không hai đòn, chẳng ba đòn, chỉ một đòn | danh hiệu | 44 | Danh hiệu nhận được khi hạ gục quái vật chuyển chức 3 trong một đòn, tăng 20% EXP và khả năng rơi ma thạch |
+| Not two hits, nor three hits, but one hit | Not two hits, nor three hits but one hit | Không hai đòn, chẳng ba đòn, chỉ một đòn | danh hiệu | 44 | Danh hiệu nhận được khi hạ gục quái vật chuyển chức 3 trong một đòn, tăng 20% EXP và khả năng rơi ma thạch |
 | Angel Sleeper Hold |  | Đòn Khóa Cổ Thiên Thần | kỹ năng | 44 | Đòn khóa đấu vật hài hước Erta dùng để trừng phạt Feyta |
 | Angel Cross Choke |  | Đòn Siết Cổ Chữ Thập Thiên Thần | kỹ năng | 44 | Đòn siết đấu vật hài hước Erta dùng để trừng phạt Feyta |
 | Transcendent Regeneration | Transcendent Regeneration skill | Siêu Việt Tái Sinh | kỹ năng | 45 | Kỹ năng tiến hóa từ Nghỉ Ngơi, độ khó tu luyện Hạng EX, hồi phục chấn thương tức thì |
@@ -742,7 +742,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Chief Gatekeeper | Chief Gatekeepers | Đại Thủ Môn Nhân | cấp bậc | 250 | Chức vụ chỉ huy cấp cao trong Khu Vườn Hoàng Hôn, tương đương Tiểu Đoàn Trưởng của các phe phái khác (như Kelatuke) |
 | Spear of Untraceable Trajectory Overlap |  | Bất Khả Họa Quỹ Đạo Thương Trùng Điệp | kỹ năng | 250 | Kỹ thuật lĩnh ngộ khi kết liễu Echjar, xếp chồng toàn bộ đòn đánh của Bất Khả Họa Quỹ Đạo Thương vào làm một đòn duy nhất |
 | Wing of Brilliant Light | wing of Brilliant Light | Cánh Của Ánh Sáng Rực Rỡ | cấp bậc | 250 | Chức danh chỉ huy cấp cao (tương đương Tiểu Đoàn Trưởng) của Quân Đội Ánh Sáng Rực Rỡ, được đánh số từ Cánh Thứ 1 đến Cánh Thứ 11 |
-| Unshakable Heart |  | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |
+| Unshakable Heart | Unshakeable heart; Unshakeable Heart | Tâm Bất Động | kỹ năng | 251 | Kỹ năng phòng ngự tâm trí cấp cao nhất (Lv Max) thức tỉnh khi Yu IlHan đối mặt toàn lực mê hoặc của Nữ Hoàng Succubus Helièna |
 | Ruler | the Ruler; our mighty Ruler | Kẻ Thống Trị | cấp bậc | 252 | Lãnh đạo tối cao của một phe phái thực thể cấp cao (như Quân Đội Ma Hủy Diệt) |
 | The Fifth | Fifth; the Fifth | Kẻ Thứ Năm | khác | 252 | Chỉ thực thể thứ năm được tiên tri sẽ sáng lập phe phái thực thể cấp cao thứ năm |
 | fifth God | fifth god; the fifth God; the fifth god; Fifth God | Vị Thần Thứ Năm | khác | 253 | Lời tiên tri về người sáng lập phe phái thực thể cấp cao thứ năm |

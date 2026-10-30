@@ -287,7 +287,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 280 |  | Chapter_280 - Why Only Me_ – 7.txt | Why Only Me_ – 7 | reviewed |  |
 | 281 |  | Chapter_281 - Why Only Me_ – 8.txt | Why Only Me_ – 8 | reviewed |  |
 | 282 |  | Chapter_282 - I Will Prepare – 1.txt | I Will Prepare – 1 | done |  |
-| 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | todo |  |
+| 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | done |  |
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | todo |  |
 | 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | todo |  |
 | 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | todo |  |
@@ -983,3 +983,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#279] Bỏ qua cảnh báo false positive 'God' ở chương 279 đoạn 73 → Đồng ý bỏ qua vì [Rank – God] dịch là [Phẩm cấp – Thần] theo glossary.md. (orchestrator)
 - [#282] Tên kỹ năng của chức nghiệp phụ Du Hành Giả Thứ Nguyên trong raw viết là "Dimensional Ruler" thay vì "Ruler of Dimensions" như ở #219 — Tạm chọn: coi là cách viết khác và dịch là 'Chúa Tể Thứ Nguyên' (đã thêm vào Alias của Ruler of Dimensions trong glossary.md). Phương án khác: dịch sát thành 'Kẻ Thống Trị Thứ Nguyên'. → Chốt dịch là "Chúa Tể Thứ Nguyên" và gộp "Dimensional Ruler" vào Alias của "Ruler of Dimensions" trong glossary.md (orchestrator)
 - [#282] Cụm từ "wanted to make you a God" / "make him a God" ở đoạn 77 và 80 khi nói về mục đích của thủ lĩnh Khu Vườn Hoàng Hôn — Tạm chọn: dịch là 'Thượng Đế' (nhất quán với cách gọi IlHan ở #274 và mục God trong glossary). Phương án khác: dịch là 'vị Thần' (khớp với danh xưng Vị Thần Thứ Năm). → Giữ nguyên cách dịch "Thượng Đế" (liên kết với âm mưu của Quân Đội Thiên Giới ở chương #236 và khớp mục God trong glossary.md) (orchestrator)
+- [#283] Đoạn 13 raw ghi cấp kỹ năng Đại Đoạn Vũ Trụ Thương là 'level 85' trong khi bảng trạng thái ở đoạn 8 ghi 'Lv86': tạm dịch bám sát raw là 'cấp 85', giữ nguyên theo raw hay đồng bộ thành cấp 86? → Giữ nguyên "cấp 85" bám sát raw theo nguyên tắc 3 và để không lệch kiểm tra số của qa_check.py (orchestrator)
