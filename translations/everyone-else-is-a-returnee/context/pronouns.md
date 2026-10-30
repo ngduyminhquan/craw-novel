@@ -521,3 +521,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kim YeSeul | Gabriel | tôi / em | ông / anh | 322 | Kim YeSeul trút giận lên chồng Gabriel |
 | Gabriel | Liera | ta | con | 322 | Gabriel xưng hô thân mật với con dâu Liera |
 | Liera | Gabriel | con / tôi | ngài Gabriel / bố | 322 | Liera bối rối khi biết đại thiên thần Gabriel là bố chồng |
+| Uriel | Yu IlHan | tôi | Chúa Tể | 323 | Sau khi tái sinh thành rồng cấp 8 thuộc Long Sào |
+| Kim YeSeul | Uriel | tôi | cô / cô Uriel | 323 | Đối thoại gay gắt khi Uriel gia nhập Long Sào |
+| Uriel | Kim YeSeul | tôi | cô | 323 | Uriel đối thoại với mẹ của Yu IlHan |

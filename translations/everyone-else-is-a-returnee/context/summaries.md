@@ -1969,3 +1969,10 @@ Trở về Daréu sau khi sáp nhập Heishia, Yu IlHan đoàn tụ với Yumir 
 Gabriel bị Kim YeSeul bạt tai trừng phạt dữ dội vì tội bỏ rơi gia đình; trong khi đó, Uriel ngỏ ý muốn gia nhập Long Sào và giải thích tình hình các phe phái, thôi thúc Yu IlHan lên kế hoạch chủ động tấn công Thiên giới để cướp kim loại cấp cao chế tạo Bẫy Phục Hồi.
 Kang MiRae hoàn tất việc di tản toàn bộ nhân loại Trái Đất sang Daréu; Yu IlHan kích hoạt kỹ năng Tuyên Cáo phát đi thông cáo hài hước trấn an người dân trên toàn thế giới Daréu.
 Cảnh kết thúc: Giữa lúc Gabriel van xin con trai cứu mạng trước cơn thịnh nộ của vợ tại Lâu Đài Hộ Vệ, 23 sinh thể Legna cấp trên 500 bất ngờ xé toạc kết giới xâm nhập Daréu; Yu IlHan mỉm cười đón nhận nguồn kim loại mới và thách thức Thượng Đế Thiên giới hãy điều quân đông gấp ba ngàn lần tới đây.
+
+## 323
+Yu IlHan kích hoạt Chúa Tể Thứ Nguyên đóng cổng Daréu, dùng Bẫy Phục Hồi kết hợp Siêu Việt Quỹ Đạo tiêu diệt gọn 23 sinh thể Legna chỉ trong chớp mắt, đạt cấp độ 536; trấn an Kang MiRae và Na YuNa chuẩn bị bước vào cuộc chiến tận thế Harmageddon.
+Yu IlHan ném xác Legna cùng Uriel vào Cái Nôi Kỳ Tích; Uriel hấp thụ toàn bộ mana và sức mạnh cướp từ Thượng Đế để phá vỡ bình cảnh tái sinh thành rồng cấp 8 (cấp độ 600) với 4 cặp cánh rồng, chia sẻ ký lục giúp Yu IlHan tăng vọt lên cấp độ 554.
+Gabriel rũ bỏ nhân dạng Yu YongHan và thân phận đại thiên thần, lộ diện là thủ lĩnh Khu Vườn Hoàng Hôn dưới hình dáng một thanh niên khôi ngô tóc xanh lam, cùng Kim YeSeul dịch chuyển đi tập hợp toàn bộ thế lực; Yu IlHan trao tạo tác lông vũ phẩm cấp Thần cho Paté chỉ huy nhóm elf về bảo vệ Trái Đất, giao Erica, Flemir cùng Ruby, First bảo vệ Daréu.
+Cảnh kết thúc: Yu IlHan phát động chiến dịch "Chiến Dịch Cuối Cùng", dẫn theo Liera, Erta, Helièna, Uriel và quân đoàn rồng bước lên Pháo Đài Hộ Vệ kích hoạt Dịch Chuyển tiến thẳng vào Thiên giới để cướp bóc harkanium, fecinom và el hazra.
+

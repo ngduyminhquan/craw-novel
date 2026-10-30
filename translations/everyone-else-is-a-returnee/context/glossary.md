@@ -813,3 +813,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | God of Heaven |  | Thượng Đế Thiên giới | khác | 320 | Cách gọi chỉ kẻ đứng đầu Thiên giới tự xưng là Thượng Đế, kẻ sáng tạo ra lũ Legna |
 | The Sims | Sims | The Sims | khác | 322 | Tựa game mô phỏng cuộc sống nổi tiếng của hãng Maxis/EA |
 | Guardian castle |  | Lâu Đài Hộ Vệ | vật phẩm | 322 | Tòa lâu đài trung tâm căn cứ của Yu IlHan tại Daréu, nơi gia đình và thuộc hạ cư ngụ |
+| Archlegna | Archlegnae | Archlegna | quái vật | 323 | Sinh thể thiên thần nhân tạo kháng mana cấp cao hơn Legna do Thượng Đế Thiên giới tạo ra |
+| Final Operation |  | Chiến Dịch Cuối Cùng | khác | 323 | Mật danh chiến dịch quy mô toàn diện chống lại các thế lực thực thể cấp cao do Yu IlHan khởi xướng |
+| Emille Bell | Emille bell; The Emille bell; The Emille Bell | Chuông Emille | khác | 323 | Quả chuông đồng thần thoại nổi tiếng của Hàn Quốc gắn liền với truyền thuyết ném đứa trẻ vào vạc đồng đúc chuông |
