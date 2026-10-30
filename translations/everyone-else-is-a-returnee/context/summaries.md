@@ -2100,4 +2100,12 @@ Sau màn tra hỏi hài hước khiến đồng đội nghi ngờ ảo tưởng 
 Thay vì tiếp tục thói quen giết chóc kẻ địch để diệt trừ hậu họa như trước kia, Yu IlHan quyết định tha mạng cho Lazière để tự mình bẻ gãy kịch bản và xóa bỏ các tương lai tiêu cực.
 Cảnh kết thúc: Trước ánh mắt ngỡ ngàng của Lazière, Yu IlHan rút ra một khối lập phương nhỏ từ lồng ngực và giới thiệu đó chính là Bẫy Phục Hồi.
 
+## 344
+Yu IlHan cắm Bẫy Phục Hồi phiên bản thế giới chính vào Minh Giới, lan tỏa tác động tới mọi thế giới bậc cao lẫn bậc thấp; anh quyết định đổi hướng dùng Dịch Chuyển dẫn quân tiến thẳng tới Thiên giới thay vì Elo Katra.
+Tại Elo Katra, Michael dù bị trúng kịch độc vẫn giải phóng sức mạnh tiêu diệt Tiểu Đoàn Trưởng Telzaider; sau đó bị Tiểu Đoàn Trưởng Zenusva cười nhạo việc ánh sáng chỉ là một phần của ngọn lửa và không thể tiêu diệt được nó.
+Lời khiêu khích gợi nhớ đến Yu IlHan giúp Michael giác ngộ bản chất Kẻ Siêu Việt toàn vẹn, rũ bỏ sự do dự quá khứ và giải phóng thứ ánh sáng tuyệt đối thiêu rụi hoàn toàn Zenusva cùng các thiên thần tháp tùng.
+Hồ Sơ Akashic thông báo Michael đã vượt qua mọi ghi chép để thức tỉnh thành Thần Ánh Sáng; trong men say quyền lực, hắn ngạo nghễ gọi tên Greed khiêu chiến.
+Cảnh kết thúc: Từ góc hỗn loạn của Elo Katra, Greed cất giọng đáp lại rằng gã đã chờ đợi Michael suốt bấy lâu nay.
+
+
 

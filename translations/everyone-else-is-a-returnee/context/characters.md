@@ -78,14 +78,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elynard |  | Elynard | Thực thể cấp cao Lv 302 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát đầu tiên trong doanh trại | 238 |
 | Kelotuke |  | Kelotuke | Thực thể cấp cao Lv 313 thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát | 238 |
 | Galayton |  | Galayton | Thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt tại Daréu, bị Yu IlHan ám sát khiến đồng bọn phát hiện doanh trại bị đột kích | 238 |
-| Zenusva |  | Zenusva | Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt, cự điểu khổng lồ bằng ma hỏa mana | 247 |
+| Zenusva |  | Zenusva | Tiểu Đoàn Trưởng Tiểu Đoàn 8 thuộc Quân Đội Ma Hủy Diệt, cự điểu khổng lồ bằng ma hỏa mana; tử trận ở #344 dưới ánh sáng tuyệt đối của Michael | 247 |
 | Melohinne |  | Melohinne | Tiểu Đoàn Trưởng Tiểu Đoàn 10 thuộc Quân Đội Ma Hủy Diệt, nữ ma tộc cao 20m da trắng như băng | 247 |
 | Helièna | Heli; Heliena | Helièna | Tiểu Đoàn Trưởng Tiểu Đoàn 3 thuộc Quân Đội Ma Hủy Diệt, Nữ Hoàng Succubus có 3 cặp cánh dơi; bị Yu IlHan đâm xuyên tim kết liễu ở #253, đến #262 được hồi sinh thể xác và trở thành thuộc hạ của Yu IlHan | 247 |
 | Lisona |  | Lisona | Nữ thực thể cấp cao chuyển chức 6 thuộc Khu Vườn Hoàng Hôn tại Daréu, nửa thân trên là phụ nữ nửa thân dưới là rắn | 250 |
 | Natière | Nati | Natière | Nữ thực thể cấp cao chuyển chức 7, Cánh Thứ 8 Của Ánh Sáng Rực Rỡ (Quân Đội Ánh Sáng Rực Rỡ); bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
 | Kelatuke |  | Kelatuke | Đại Thủ Môn Nhân của Khu Vườn Hoàng Hôn, cá mập khổng lồ chuyển chức 7 bọc giáp kim loại dày; bị mị lực của Helièna thao túng dẫn đến bỏ mạng tại Daréu ở #253 | 250 |
 | Belkatoo |  | Belkatoo | Tiểu Đoàn Trưởng Tiểu Đoàn 6 thuộc Quân Đội Ma Hủy Diệt | 256 |
-| Telzaider | 4th Battalion Commander Telzaider | Telzaider | Tiểu Đoàn Trưởng Tiểu Đoàn 4 thuộc Quân Đội Ma Hủy Diệt | 256 |
+| Telzaider | 4th Battalion Commander Telzaider | Telzaider | Tiểu Đoàn Trưởng Tiểu Đoàn 4 thuộc Quân Đội Ma Hủy Diệt; tử trận ở #344 dưới ánh sáng của Michael | 256 |
 | Hillutonne | 2nd Battalion Commander, Hillutonne; Hilluttone | Hillutonne | Tiểu Đoàn Trưởng Tiểu Đoàn 2 thuộc Quân Đội Ma Hủy Diệt | 256 |
 | Keduta |  | Keduta | Thiên thần chuyển chức 5 thuộc Quân Đội Thiên Giới tại Lanpas, người đầu tiên tìm đến Kang MiRae | 260 |
 | Titaera |  | Titaera | Nữ thiên thần chuyển chức 6 Quân Đội Thiên Giới có hai cặp cánh, bạn thân của Liera được cử đến đàm phán với Yu IlHan | 261 |
@@ -99,7 +99,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Satan | Lord Satan | Satan | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ, Đại Kẻ Phản Bội, Vị Thần Cuối Cùng được Lemiel tôn sùng và đi theo (#287) | 287 |
 | Mita |  | Mita | Thiên thần chuyển chức 5 (Lv 366) của Quân Đội Thiên Giới tại Wirepa, kẻ phản bội bí mật phục vụ cho Quân Đội Ánh Sáng Rực Rỡ, bị Yu IlHan phóng thương tiêu diệt | 288 |
 | Ruby |  | Ruby | Con rồng đỏ sơ sinh Lv 280, sau khi nuốt trọn thịt Echjar thăng lên Lv 294, được Yu IlHan đặt tên và phong làm thủ lĩnh bầy rồng tại Daréu; tính đến #307 lộ rõ là rồng cái có chất giọng của bé gái, gọi Yumir là huynh trưởng; đến #329 tiến hóa thành thực thể cấp cao chuyển chức 5 qua Cái Nôi Kỳ Tích, có hình dạng bé gái tóc đỏ mắt đỏ | 302 |
-| Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8 | 289 |
+| Michael | Lord Michael | Michael | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần và là nhân vật số 2 chính thức của Quân Đội Thiên Giới, đại diện của Thượng Đế với thực lực tiệm cận chuyển chức 8; ở #344 giác ngộ bản chất Kẻ Siêu Việt và thức tỉnh thành Thần Ánh Sáng vượt qua Hồ Sơ Akashic | 289 |
 | Raphael | Lord Raphael; Lord Rapahel | Raphael | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới (Raphael Trị Liệu), thực thể chuyển chức 7 xuất hiện tại Feira; tử trận ở #298 dưới ngọn thương của Yu IlHan | 289 |
 | Daiel |  | Daiel | Thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới tại Feira, ứng viên đại thiên thần nhưng thực chất là kẻ phản bội phục vụ Quân Đội Ánh Sáng Rực Rỡ; bị Yu IlHan tiêu diệt ở #294 | 293 |
 | Gabriel |  | Gabriel | Một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới, sở hữu khả năng tiên tri | 293 |

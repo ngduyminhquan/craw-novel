@@ -835,3 +835,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | foreshadow master |  | bậc thầy phục bút | khác | 341 | Danh xưng tự phong của Yu IlHan khi anh tạo ra và đập tan các phục bút, phá hủy âm mưu của Thượng Đế trước thềm trận chiến cuối |
 | godfather |  | cha đỡ đầu | khác | 341 | Người nhận làm cha tinh thần bảo trợ cho con của Michael Smithson và Carina Malatesta |
 | Sole God |  | Vị Thần Duy Nhất | khác | 342 | Tên arc từ chương 342 đến 349 |
+| God of Light | god of light | Thần Ánh Sáng | khác | 344 | Khái niệm vị thần của ánh sáng mà Michael thức tỉnh khi vượt qua Hồ Sơ Akashic |

@@ -560,3 +560,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yu IlHan | Yuni | ta / tôi | con / Yuni | 342 | Yu IlHan đối thoại với con gái đỡ đầu Yuni |
 | Lazière | Yu IlHan | tôi | ngài / Yu IlHan | 343 | Lazière đối thoại nhã nhặn với Yu IlHan tại Minh Giới |
 | Yu IlHan | Lazière | tôi | cô / Lazière | 343 | Yu IlHan đối thoại và khống chế Lazière tại Minh Giới |
+| Telzaider | Michael | ta / bọn ta | Michael / ngươi | 344 | Telzaider khiêu khích và câu giờ trong trận chiến với Michael |
+| Michael | Telzaider | ta | ngươi / các ngươi | 344 | Michael khinh miệt và tiêu diệt Telzaider |
+| Zenusva | Michael | ta | Michael / ngươi | 344 | Zenusva khiêu khích và cười nhạo Michael |
+| Michael | Zenusva | ta | ngươi | 344 | Michael đối đáp và thiêu rụi Zenusva |
+| Michael | Greed | ta | Greed / ngươi | 344 | Michael khiêu chiến Greed sau khi thức tỉnh thành Thần Ánh Sáng |
+| Greed | Michael | ta | ngươi | 344 | Greed đáp lời khiêu chiến của Michael |
