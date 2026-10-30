@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:52:54Z",
+  "generatedAt": "2026-10-30T12:59:22Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1973,6 +1973,12 @@
           "title": "Chương 331: Harmageddon – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_331.md",
           "sha": "c7bac54a02ab2a48b2af1bc167a760d959b437e3"
+        },
+        {
+          "number": 332,
+          "title": "Chương 332: Harmageddon – 6",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_332.md",
+          "sha": "26c8854eafa8a87107df339622f607953ec2c079"
         }
       ]
     },

@@ -393,6 +393,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 312: Trong không gian hư vô tâm thức, thẳng thừng từ chối lời chiêu dụ của kẻ tự xưng là Thượng Đế muốn biến cô thành Eva bên cạnh Adam (Yu IlHan) để hủy diệt và làm lại thế giới; tự mình lĩnh ngộ bản chất mana từ không gian xung quanh mà không cần kỹ năng, tạo nên kỳ tích chưa từng có trong Hồ Sơ Akashic; đánh tan ý niệm của Thượng Đế và từ chối thăng hoa một mình để trở về hội ngộ cùng Yu IlHan.
 - Trạng thái tính đến chương 313: Chấp nhận lời mời của Yu IlHan gia nhập Long Sào, bước vào Cái Nôi Kỳ Tích tiếp nhận máu của IlHan để tái sinh thành rồng chuyển chức 6 với hai cặp cánh; thấu hiểu cục diện Daréu qua ký lục của IlHan; giữ IlHan lại nói chuyện riêng và thú nhận việc vừa gặp Thượng Đế.
 - Trạng thái tính đến chương 329: Đã tiến hóa thành rồng chuyển chức 6, thi triển Ma pháp không gian mở liên tiếp hàng trăm cánh cổng tới các thế giới bậc cao phục vụ kế hoạch Đại Dung Hợp của Yu IlHan.
+- Trạng thái tính đến chương 332: Đạt tới chuyển chức 7 trong đại chiến Harmageddon; dưới tác động buff từ Tuyên Cáo của Yu IlHan và sự chúc phúc của Na YuNa, lĩnh ngộ ma pháp cực hạn ngoài Hồ Sơ Akashic 'Quỹ Đạo Ngân Hà', mở ra 6.891 cánh cổng bán vĩnh cửu trói chặt toàn bộ các thế giới bậc cao bí mật của quân địch vào Daréu.
 
 ### Fred
 - Giới tính, vai trò: Nam, người ngoại quốc tóc nâu, cận vệ kiêm lái xe bọc thép đi cùng Kang MiRae.
@@ -461,6 +462,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 220–222: Kề vai sát cánh cùng Na YuNa và Giáo hoàng trong cuộc chiến bảo vệ thánh địa; sẵn sàng hy sinh thân mình làm lá chắn cho Thánh nữ; sững sờ trước sức mạnh quét sạch chiến trường của Pháo Đài Bay và IlHan; giải thích cho Giáo hoàng về mối quan hệ giữa IlHan và YuNa; ngỡ ngàng khi phát hiện IlHan và Liera là người yêu, song cảnh báo IlHan rằng Na YuNa rất cứng đầu và sẽ không dễ dàng bỏ cuộc; đi ngủ sau một tuần cầm cự kiệt sức.
 - Trạng thái tính đến chương 226: Cùng Na YuNa bước lên Pháo Đài Bay trở về Trái Đất; tự ti và chua chát trước sự vô dụng của bản thân so với Yu IlHan, song nhận ra suy nghĩ hiếu thắng hay vương vấn tình cảm với Na YuNa đều là vô nghĩa; đứng bảo vệ Na YuNa khi cô hỗ trợ IlHan triển khai thánh địa trên Pháo Đài Bay.
 - Trạng thái tính đến chương 313: Đạt Lv 270 nhưng vẫn là người duy nhất trong nhóm chưa đủ điều kiện gia nhập Long Sào (yêu cầu Lv 300); bị Na YuNa trêu là kẻ cô độc; càu nhàu khi được Yu IlHan nhắc mọi người nhường điểm kinh nghiệm và lập tức co rúm người lại trước những cái lườm của hội phụ nữ.
+- Trạng thái tính đến chương 332: Đạt tới chuyển chức 5 trong trận chiến bảo vệ Daréu nhưng hoàn toàn choáng váng và hét toáng lên khi thấy Kang MiRae mở ra hàng ngàn cánh cổng đối đầu với hàng trăm ngàn thực thể cấp cao.
 
 ### YuNa
 - Giới tính, vai trò: Nữ dị năng giả người Hàn tham gia đội tiêu diệt đầu nguồn Hiện Tượng Tràn tại sân bay Los Angeles.

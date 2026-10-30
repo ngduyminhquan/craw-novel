@@ -336,7 +336,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | reviewed |  |
 | 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | done |  |
 | 331 | 329 | Chapter_331 - Chapter 329_ Harmageddon – 5.txt | Harmageddon – 5 | done |  |
-| 332 | 330 | Chapter_332 - Chapter 330_ Harmageddon – 6.txt | Harmageddon – 6 | todo |  |
+| 332 | 330 | Chapter_332 - Chapter 330_ Harmageddon – 6.txt | Harmageddon – 6 | done |  |
 | 333 | 331 | Chapter_333 - Chapter 331_ Harmageddon – 7.txt | Harmageddon – 7 | todo |  |
 | 334 | 332 | Chapter_334 - Chapter 332_ Harmageddon – 8.txt | Harmageddon – 8 | todo |  |
 | 335 | 333 | Chapter_335 - Chapter 333_ Harmageddon – 9.txt | Harmageddon – 9 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1057,3 +1058,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#330] Tên thế giới chính 'Crevasse Garden' của Khu Vườn Hoàng Hôn: tạm dùng 'Khu Vườn Khe Nứt' (theo nghĩa khe nứt thời không và tương tự Model Garden -> Khu Vườn Mô Hình). Phương án khác: giữ nguyên 'Crevasse Garden' hoặc 'Khu Vườn Vực Nứt'. → Chốt 'Khu Vườn Khe Nứt' (orchestrator)
 - [#330] Kỹ năng ma pháp thời không mới 'Break' của Kim YeSeul: tạm dùng 'Phá Vỡ' (ngắn gọn, chuẩn Hán Việt). Phương án khác: 'Phá Diệt' hoặc 'Đoạn Tuyệt'. → Chốt 'Phá Vỡ' (orchestrator)
 - [#331] Cụm "still restrained by league" ở đoạn 58 khi Siferai chế giễu Michael — Tạm chọn: dịch "league" là "đẳng cấp" ("vẫn còn bị trói buộc bởi đẳng cấp") khớp với ngữ cảnh cấp bậc thực thể và chương 329 (nguyên tác Hàn '격'), thay vì "liên minh". → Chấp nhận dịch 'league' là 'đẳng cấp' ('vẫn còn bị trói buộc bởi đẳng cấp') khớp ngữ cảnh Michael câu trước coi thường cấp 7 (orchestrator)
+- [#332] Tên chiêu thức "Final Buster" do Yu IlHan tự kỷ đặt tên theo phong cách anime bị Kang MiRae chê — Tạm chọn: giữ nguyên "Final Buster" (và "Final Busterrrrrrrrr!") để giữ chất hài hước otaku; Phương án khác: dịch Hán Việt "Chung Cực Bộc Phá" theo rules.md. → Chấp nhận giữ nguyên 'Final Buster' (và 'Final Busterrrrrrrrr!') để giữ chất hài chuunibyou/anime (orchestrator)
+- [#332] Danh xưng "Liberator" các vị thần được ghi chép gọi Yu IlHan khi được giải thoát khỏi sự trói buộc của hồ sơ — Tạm chọn: "Đấng Giải Thoát"; Phương án khác: "Kẻ Giải Phóng" / "Đấng Giải Phóng". → Chốt 'Đấng Giải Thoát' (orchestrator)
+- [#332] Tên kỹ năng ma pháp không gian cực hạn mới "Galactic Trajectory" của Kang MiRae — Tạm chọn: "Quỹ Đạo Ngân Hà"; Phương án khác: "Ngân Hà Quỹ Đạo". → Chốt 'Quỹ Đạo Ngân Hà' (orchestrator)

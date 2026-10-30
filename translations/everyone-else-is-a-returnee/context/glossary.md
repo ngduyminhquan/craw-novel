@@ -825,3 +825,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Doom Flare |  | Diệt Thế Bộc Viêm | kỹ năng | 328 | Đại ma pháp hệ hỏa cấp 7 của Limaère thuộc Quân Đội Ánh Sáng Rực Rỡ |
 | Crevasse Garden |  | Khu Vườn Khe Nứt | địa danh | 330 | Thế giới chính của Khu Vườn Hoàng Hôn nơi thời không ngưng trệ |
 | Break |  | Phá Vỡ | kỹ năng | 330 | Ma pháp thời không mới thức tỉnh của Kim YeSeul dùng thao túng thời không để phá hủy nhân quả |
+| recorded god | recorded gods; Recorded gods | thần được ghi chép | khác | 105 | Những tồn tại siêu việt đã vượt qua giới hạn ghi chép của Hồ Sơ Akashic nhưng bị Thượng Đế giam cầm trong các thế giới ẩn giấu |
+| Galactic Trajectory | Galactic trajectory | Quỹ Đạo Ngân Hà | kỹ năng | 332 | Ma pháp không gian cấp độ cực hạn mà Hồ Sơ Akashic không thể ghi chép do Kang MiRae lĩnh ngộ dưới sự hỗ trợ từ Tuyên Cáo của Yu IlHan |
+| Final Buster | Final Busterrrrrrrrr | Final Buster | kỹ năng | 332 | Giữ nguyên tên tiếng Anh do đây là tên chiêu thức tự chế theo phong cách anime do Yu IlHan tự đặt, không phải kỹ năng chính thức từ Hồ Sơ Akashic |
+| Liberator |  | Đấng Giải Thoát | danh hiệu | 332 | Danh xưng các vị thần được ghi chép gọi Yu IlHan sau khi ông dùng lửa hủy diệt thế giới giam cầm họ, giúp họ giải thoát khỏi sự trói buộc |

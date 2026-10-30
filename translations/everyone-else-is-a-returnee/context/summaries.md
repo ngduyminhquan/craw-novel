@@ -2027,5 +2027,12 @@ Tiểu Đoàn Trưởng Tiểu Đoàn 10 Melohinne nghênh chiến Michael để
 Tiểu Đoàn Trưởng Tiểu Đoàn 5 Boomer’ol cùng các chỉ huy còn sống (Telzaider, Belkatoo, Zenusva) hợp lực tập kích; trong lúc hỗn chiến, Tiểu Đoàn Trưởng Tiểu Đoàn 9 Siferai dùng máu chứa kịch độc lao vào ôm Michael phát nổ, hạ độc làm suy yếu thể xác Michael.
 Cảnh kết thúc: Michael trúng kịch độc nhổ ra ngụm máu độc, bộc phát cơn thịnh nộ tột cùng và thề sẽ đem đại chiến Harmageddon hủy diệt toàn bộ đối thủ.
 
+## 332
+Sau khi dung hợp hơn hai ngàn thế giới, Daréu bước vào Đại Tai Biến lần thứ 8 chỉ sau kỷ lục 10 giờ đồng hồ; bầy rồng cùng Long Quân liên tục tiến hóa thành rồng thực thụ chuyển chức 5 qua Cái Nôi Kỳ Tích; lượng mana khổng lồ bùng nổ đe dọa quá tải thế giới.
+Yu IlHan kích hoạt Tuyên Cáo kết hợp với ma pháp không gian của Kang MiRae giúp cô chạm tới chuyển chức 7 và lĩnh ngộ kỹ năng cực hạn ngoài Hồ Sơ Akashic 'Quỹ Đạo Ngân Hà', mở ra 6.891 cánh cổng bán vĩnh cửu trói chặt toàn bộ các thế giới bậc cao bí mật của địch vào Daréu.
+Yu IlHan gom toàn bộ mana lửa cuồng bạo của Daréu tung đòn 'Final Buster' ném thẳng vào các cánh cổng, quét sạch hàng trăm ngàn thực thể cấp cao và dẹp yên Đại Tai Biến lần thứ 8; các vị thần được ghi chép xưng tụng Yu IlHan là Đấng Giải Thoát và vị Thần mới trước khi giải thoát khỏi ghi chép.
+Cảnh kết thúc: Bầu trời Daréu quang đãng trở lại trong tiếng hò reo ăn mừng của thuộc hạ; Yu IlHan ngỡ ngàng nhận ra chỉ có mình anh nghe thấy lời truyền tụng của các vị thần được ghi chép trong khi Mystic kêu ca về cơn đau đầu sắp tới do dung hợp hàng ngàn thế giới.
+
+
 
 
