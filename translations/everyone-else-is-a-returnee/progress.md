@@ -358,7 +358,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 351 |  | Chapter_351 - Extra  1_ Graduating Lonership, Entering Marriage.txt | Extra  1_ Graduating Lonership, Entering Marriage | reviewed |  |
 | 352 |  | Chapter_352 - Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected.txt | Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected | reviewed |  |
 | 353 |  | Chapter_353 - Extra  3_ Demigod Eleven.txt | Extra  3_ Demigod Eleven | reviewed |  |
-| 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | todo |  |
+| 354 |  | Chapter_354 - Extra  4_ I am the Destroyer of All Foreshadows.txt | Extra  4_ I am the Destroyer of All Foreshadows | done |  |
 | 355 |  | Chapter_355 - Afterword (END).txt | Afterword (END) | todo |  |
 | 356 | 354 | Chapter_356 - Chapter 354_ Apocrypha (1).txt | Apocrypha (1) | todo |  |
 | 357 | 355 | Chapter_357 - Chapter 355_ Apocrypha (2).txt | Apocrypha (2) | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -1089,3 +1088,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#353] Tiêu đề chương 'Extra 3: Demigod Eleven' — Tạm dùng: 'Ngoại truyện 3 – Bán Thần Eleven' (giữ nguyên chất parody anime Inazuma Eleven). Phương án khác: 'Ngoại truyện 3 – Đội hình 11 Bán Thần'. → Chốt giữ 'Ngoại truyện 3 – Bán Thần Eleven' (giữ nét parody Inazuma Eleven). (orchestrator)
 - [#353] Thuật ngữ 'Godspoon' (chơi chữ văn hóa ngậm thìa vàng/thìa đất/thìa rồng của Hàn Quốc chỉ con của Thần) — Tạm dùng: 'thìa thần'. Phương án khác: 'thìa của Thần' hoặc 'ngậm thìa thần'. → Chốt 'thìa thần' (nhất quán với 'thìa đất' và 'thìa rồng' ở rules.md). (orchestrator)
 - [#351-352] Danh xưng cho Yu IlHan khi raw gọi là 'God' ở các chương ngoại truyện → Cho phép dùng linh hoạt 'Thần / Vị Thần / Vị Thần Duy Nhất' hoặc 'Thượng Đế' tùy ngữ cảnh câu văn. (orchestrator)
+- [#354] Tiêu đề chương "Extra 4: I am the Destroyer of All Foreshadows" và từ "foreshadow" — Tạm chọn: "Ngoại truyện 4 – Ta là kẻ hủy diệt mọi phục bút" (thống nhất với 'bậc thầy phục bút' ở #341). Phương án khác: "Ngoại truyện 4 – Ta là kẻ hủy diệt mọi điềm báo". → Chốt 'Ngoại truyện 4 – Ta là kẻ hủy diệt mọi phục bút' (nhất quán với 'bậc thầy phục bút'). (orchestrator)
+- [#354] Tạo tác phẩm cấp Vĩnh Cửu "Realiscope" — Tạm chọn: "Kính Hiện Thực" (theo quy tắc dịch Hán Việt ngắn gọn). Phương án khác: "Kính Thực Hóa", "Kính Chiếu Thực", hoặc giữ nguyên "Realiscope". → Chốt 'Kính Hiện Thực'. (orchestrator)

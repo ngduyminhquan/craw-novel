@@ -2164,3 +2164,9 @@ Yuni tuyên bố muốn cưới cha đỡ đầu Yu IlHan nếu thắng khiến 
 Yumir lộ diện với tư cách trọng tài đạt tới chuyển chức lần 9, dùng uy áp tuyệt đối buộc các bên tuân thủ luật thi đấu nghiêm cấm biến hình và chỉ cho phép dùng kỹ năng/thần chú nếu qua mặt được mình.
 Cảnh kết thúc: Yu Arang cười rạng rỡ chào anh cả Yumir rồi tan biến vào hư không trước khung thành, khẳng định năng lực che giấu tuyệt đỉnh của Yu IlHan đã được truyền thừa hoàn hảo sang thế hệ kế tiếp.
 
+## 354
+Yu IlHan chế tạo tạo tác phẩm cấp Vĩnh Cửu Kính Hiện Thực cho phép quan sát và lôi những thực thể vượt ngoài Hồ Sơ Akashic trở về hiện thực, nhằm đưa linh hồn cựu Thượng Đế Thiên giới cho các cựu thần linh xử lý dứt điểm.
+Sau khi dỗ dành Helièna, Liera và nhận lời chúc phúc ngọt ngào từ Na YuNa, Yu IlHan tiến ra không gian vũ trụ - nơi Kang MiRae, Erta và Yumir (chỉ huy Quân Đoàn Rồng gồm gần 8.000 chân long) sẵn sàng hỗ trợ thao túng không gian rồi rút lui an toàn.
+Spiera mang hình dạng chân long trắng nắm giữ ngọn thương phong ấn linh hồn tàn niệm cựu Thượng Đế, dùng ngọn thương uy hiếp cầu hôn Yu IlHan với ước mơ trở thành người nội trợ dịu dàng và sinh ra kẻ mạnh tiếp theo.
+Cảnh kết thúc: Yu IlHan ghé mắt vào Kính Hiện Thực nhìn thấy cảnh giới vượt ngoài hồ sơ, hào hứng cùng mọi người chuẩn bị giải quyết sạch sẽ mảnh phục bút cuối cùng.
+

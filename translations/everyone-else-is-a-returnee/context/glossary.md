@@ -843,3 +843,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Lepina |  | Lepina | địa danh | 352 | Thế giới từng trải qua Đại Tai Biến lần 3, bị kéo về Trái Đất qua Bẫy Phục Hồi |
 | Lepina Empire |  | Đế quốc Lepina | tổ chức | 352 | Đế quốc tại thế giới Lepina; con gái duy nhất của hoàng đế là hôn thê của Kang HaJin |
 | Godspoon |  | Thìa thần | khác | 353 | Sinh ra ngậm thìa của Thần, đẳng cấp tối thượng hơn cả thìa vàng hay thìa rồng |
+| Realiscope |  | Kính Hiện Thực | vật phẩm | 354 | Tạo tác phẩm cấp Vĩnh Cửu do Yu IlHan chế tạo giúp quan sát những nơi vượt ngoài hồ sơ và kéo đối tượng vào hiện thực |
+| true dragon |  | chân long | chủng tộc | 323 | Rồng thực thụ đã hoàn toàn thức tỉnh huyết mạch rồng |
