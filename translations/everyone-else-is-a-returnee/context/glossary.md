@@ -794,3 +794,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Transcendent Trajectory |  | Siêu Việt Quỹ Đạo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Thần Lực, Bất Khả Họa Quỹ Đạo Thương, Đại Đoạn Vũ Trụ Thương, Giải Phẫu, Khai Quật và Tuyệt Đối Chuẩn Xác |
 | Lord of Dragon's Nest | Lord of Dragon’s Nest | Chúa Tể Long Sào | danh hiệu | 297 | Danh hiệu và vị thế của Yu IlHan khi trở thành người đứng đầu thế lực thực thể cấp cao Long Sào |
 | Lady Helièna | Lady Heli | tiểu thư Helièna | khác | 266 | Cách thuộc hạ Quân Đội Ma Hủy Diệt tôn xưng Helièna |
+| Typhen |  | Typhen | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
+| Elyde |  | Elyde | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |
+| Terodua |  | Terodua | địa danh | 300 | Thế giới bậc thấp chịu sự cai trị của Yu IlHan, dung hợp vào Daréu |

@@ -304,7 +304,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 297 | 295 | Chapter_297 - Chapter 295_ I Will Achieve – 5.txt | I Will Achieve – 5 | reviewed |  |
 | 298 | 296 | Chapter_298 - Chapter 296_ I Will Achieve – 6.txt | I Will Achieve – 6 | reviewed |  |
 | 299 | 297 | Chapter_299 - Chapter 297_ I Will Achieve – 7.txt | I Will Achieve – 7 | reviewed |  |
-| 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | todo |  |
+| 300 | 298 | Chapter_300 - Chapter 298_ I Will Achieve – 8.txt | I Will Achieve – 8 | done |  |
 | 301 | 299 | Chapter_301 - Chapter 299_ I Will Achieve – 9.txt | I Will Achieve – 9 | todo |  |
 | 302 | 300 | Chapter_302 - Chapter 300_ I Am Your Father – 1.txt | I Am Your Father – 1 | todo |  |
 | 303 | 301 | Chapter_303 - Chapter 301_ I Am Your Father – 2.txt | I Am Your Father – 2 | todo |  |
@@ -1003,3 +1003,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#298] Dịch "the LORD" (Michael và Raphael gọi Thượng Đế) — Tạm chọn: "Thượng Đế" / "Đấng Thượng Đế duy nhất"; "O Father" (lời cầu nguyện của Raphael) — Tạm chọn: "Hỡi Đức Cha". Phương án khác: "Đức Chúa" / "Chúa Trời", "Hỡi Đức Chúa Cha". → Đồng ý giữ "Thượng Đế" / "Đấng Thượng Đế duy nhất" cho "the LORD" / "the only LORD" (nhất quán với #293 và #295) và "Hỡi Đức Cha" cho "O Father". (orchestrator)
 - [#299] Tên thủ lĩnh Quân Đội Ma Hủy Diệt "Greed" — Tạm chọn: giữ nguyên tên riêng Latin "Greed" theo quy tắc tên riêng quái vật/thực thể cấp cao (như Satan, Echjar). Phương án khác: dịch nghĩa thành "Tham Lam". → Đồng ý giữ nguyên tên riêng "Greed" theo quy tắc tên riêng phương Tây/thực thể cấp cao trong rules.md (tương tự Satan, Echjar). (orchestrator)
 - [#299] Xưng hô giữa Yu IlHan và Greed — Tạm dùng: Greed xưng "ta" gọi "ngươi", Yu IlHan xưng "tôi" gọi "ông" (phù hợp giọng điệu điềm đạm như đàn ông trung niên của Greed và tính cách cà khịa thong thả của IlHan). Phương án khác: Yu IlHan xưng "ta" gọi "ngươi". → Đồng ý giữ Greed xưng "ta" - gọi "ngươi", Yu IlHan xưng "tôi" - gọi "ông / Greed" (khớp giọng người đàn ông trung niên điềm đạm trong raw). (orchestrator)
+- [#300] Câu ví von đại chúng 'fused like power rangers' ở đoạn 95: tạm dịch thoát ý là 'hợp thể như năm anh em siêu nhân' cho hài hước và gần gũi với độc giả Việt Nam; đề xuất giữ nguyên cách này hay đổi sang để nguyên 'Power Rangers'? → Giữ cách dịch thoát ý 'hợp thể như năm anh em siêu nhân' cho tự nhiên và hài hước. (orchestrator)

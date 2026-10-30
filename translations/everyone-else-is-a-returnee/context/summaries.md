@@ -1825,6 +1825,13 @@ Tiến vào tòa lâu đài khổng lồ được tạo nên từ ma pháp bẻ 
 Greed tiết lộ từng dẫn thế giới xông lên Thiên giới nhưng nhận ra Thượng Đế đã chết và không có gì cho hắn nuốt chửng, đồng thời các thế giới đang ngày càng lụi tàn dẫn đến nguy cơ hắn không còn gì để ăn.
 Cảnh kết thúc: Greed mỉm cười quái dị tuyên bố thế giới cần một vị Thượng Đế mới, một Kẻ Sáng Tạo mới để tái tạo lại tất cả, và hắn tin rằng Yu IlHan chính là người sẽ trở thành vị Thượng Đế đó.
 
+## 300
+Greed đề xuất liên minh cùng Yu IlHan chia đôi các thế giới, quét sạch Quân Đội Ánh Sáng Rực Rỡ, Khu Vườn Hoàng Hôn và xóa sổ Thiên giới, biến Trái Đất thành Thế Giới Thứ 1 để IlHan làm Thượng Đế mới; nhận thấy chênh lệch đẳng cấp nhưng giữ vững nguyên tắc kẻ cô độc, Yu IlHan thẳng thừng từ chối rồi cùng Yumir rút lui an toàn, đồng thời kỹ năng Phản Kích tăng lên cấp 69 trước áp lực khổng lồ từ lâu đài của Greed.
+Để tránh làm Trái Đất đột ngột thăng cấp thành thế giới bậc cao ngoài tầm kiểm soát, Yu IlHan cùng Yumir Dịch Chuyển tới Daréu — thế giới bậc cao vốn đã nằm dưới sự thống trị của anh.
+Vừa đặt chân tới Daréu, Đại Tai Biến lần thứ 6 lập tức giáng xuống; quyền năng Chúa Tể Long Sào tự động kích hoạt, dung hợp hàng loạt thế giới bậc thấp dưới quyền cai trị của Yu IlHan (Guundia, Typhen, Elyde, Terodua...) vào Daréu khiến thế giới bành trướng với tốc độ không tưởng; IlHan kịp thời hủy bỏ lệnh dung hợp của Trái Đất để bảo toàn nhân loại.
+Cảnh kết thúc: Đứng trước một thế giới khổng lồ mới sinh sôi quái vật cùng mana cuộn trào thuộc về riêng mình, Yu IlHan hoảng hốt hối hả cùng con trai đi tìm kiếm và bảo vệ tộc elf cùng Lang tộc.
+
+
 
 
 
