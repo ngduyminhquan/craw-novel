@@ -1862,6 +1862,12 @@ Nhờ đó dòng mana được giải phóng: Erta nén toàn bộ mana của nh
 Khi chín sinh vật tương tự bất ngờ qua cổng không gian tiếp viện chặn đứng lối thoát, Kang MiRae dùng Vương Miện Trí Tuệ cùng dược phẩm kích phát mana, tạo hàng trăm cánh cổng không gian siêu nhỏ xé nát toàn bộ chín kẻ địch rồi kiệt sức ngất lịm.
 Cảnh kết thúc: Sau chiến thắng kỳ tích, kết giới phong tỏa biến mất và giọng nói của Yu IlHan kịp thời vang lên qua thiết bị liên lạc thông báo Daréu đã an toàn, Liera bàng hoàng nhìn MiRae ngất xỉu chuẩn bị báo cáo tình hình.
 
+## 306
+Cả nhóm bình an trở về Daréu bằng kỹ năng Dịch Chuyển của Yu IlHan và kể lại trận chiến khốc liệt cùng sinh vật bí ẩn; Yu IlHan kiểm tra tiêu bản xác kẻ địch nhưng chưa thể xác định chúng có phải sinh vật sống hay không dù nắm giữ kỹ năng Ký Lục.
+Mọi người kinh ngạc trước cảnh tượng Daréu hoàn toàn đổi khác và lâu đài phong cách châu Âu do Yu IlHan xây dựng bằng kỹ năng Tuyên Cáo; sau màn trêu đùa của Na YuNa và Liera, cả đoàn vào lâu đài nghỉ ngơi, còn Kang MiRae cạn kiệt mana được HaJin cõng vào trong.
+Yu IlHan an ủi mẹ Kim YeSeul, giải thích việc các thế giới bậc thấp quy phục anh đã dung nhập vào Daréu và hé lộ tham vọng tương lai sẽ dùng Ý Chí Hộ Vệ cùng ma pháp trận cổ xưa để dung hợp cả Trái Đất vào Daréu.
+Cảnh kết thúc: Trong lúc trò chuyện cùng Helièna, bầy rồng trở về sau chuyến đi săn đầu tiên với sự dẫn đầu của rồng đỏ Ruby thăng lên cấp 296, cung kính cất tiếng gọi Yu IlHan là "Cha" trước sự ngỡ ngàng của Helièna.
+
 
 
 

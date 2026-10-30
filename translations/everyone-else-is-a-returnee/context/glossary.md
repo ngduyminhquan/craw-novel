@@ -307,7 +307,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Hell Tower |  | Tháp Địa Ngục | địa danh | 48 | Thế giới khác nơi Kang HaJin từng chuyển sinh và chiến đấu suốt 10 năm |
 | Michael Jackson |  | Michael Jackson | khác | 48 | Ca sĩ huyền thoại người Mỹ (tham chiếu văn hóa đại chúng) |
 | Moonwalk |  | Moonwalk | khác | 48 | Điệu nhảy trượt lùi kinh điển của Michael Jackson |
-| Daréu | Dareu | Daréu | địa danh | 50 | Thế Giới Bị Bỏ Rơi quê hương của Reta Kar'iha và tộc Elf |
+| Daréu | Dareu; Daeru | Daréu | địa danh | 50 | Thế Giới Bị Bỏ Rơi quê hương của Reta Kar'iha và tộc Elf |
 | Elf | elf | Elf | chủng tộc | 50 | Được phép giữ nguyên: Chủng tộc thông tuệ trong thần thoại kỳ ảo phương Tây |
 | Army of Heaven | Heaven's Army; Heavens Army | Quân Đội Thiên Giới | tổ chức | 50 | Lực lượng quân đội của Thiên giới |
 | Atlatl |  | Atlatl | vật phẩm | 51 | Dụng cụ phóng lao cổ đại dùng đòn bẩy vung ném lao đi |
