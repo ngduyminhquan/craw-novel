@@ -14,7 +14,7 @@ Ngọn Lửa Vĩnh Cửu đã kinh qua vô số nguyên liệu, hấp thụ lư�
 
 Yu IlHan ngẩng đầu lên. Thu vào tầm mắt anh là những khúc xương khổng lồ tưởng chừng như choán hết toàn bộ kết giới. Vì cả hai mang đặc tính khác biệt, anh không định hợp kim hóa chúng để tạo nên một bộ giáp hội tụ ưu điểm của cả hai.
 
-"Đầu tiên sẽ là nội giáp. Mình sẽ tạo một lớp giáp mỏng bằng xương của Kelatuke cùng Hỏa Tâm."
+"Đầu tiên sẽ là nội giáp. Tôi sẽ tạo một lớp giáp mỏng bằng xương của Kelatuke cùng Hỏa Tâm."
 
 [Vậy đây sẽ là phần hỏa.]
 

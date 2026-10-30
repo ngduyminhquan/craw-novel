@@ -26,7 +26,7 @@ Ngọn lửa bị nén chặt đọng lại nơi mũi thương mờ ảo đến 
 
 [Ta còn cảm nhận được cả năng lượng của loài rồng nữa.]
 
-"Đây là Liệt Hỏa được cường hóa bởi Long Huyết, cộng thêm ngọn lửa của Orochi, những ngọn lửa màu tím, cùng với Ngọn Lửa Vĩnh Cửu hợp thành đấy."
+"Đây là Liệt Hỏa được cường hóa bởi Long Huyết, cộng thêm ngọn lửa của Orochi, Hỏa Tím, cùng với Ngọn Lửa Vĩnh Cửu hợp thành đấy."
 
 [Nếu thêm cả Hỏa Tâm mà chủ nhân đang sở hữu vào thứ này, ta nghĩ người có thể cường hóa nó lên thêm một bậc nữa đấy.]
 
@@ -68,7 +68,7 @@ Nấu nướng cũng trở nên nhanh hơn khi anh đã quen tay. Yu IlHan chỉ
 
 "...Trời ạ."
 
-"Khécc, ngon quá đi mất!"
+"Áaaa, ngon quá đi mất!"
 
 Kang MiRae và Na YuNa từng cảm thấy ngượng ngùng, thế nhưng cảm giác ấy tan biến sạch sành sanh sau khi họ nếm thử thịt cá mập, rồi cả hai liền chú tâm vào việc thưởng thức món ăn. Những người khác cũng chẳng khác là bao.
 

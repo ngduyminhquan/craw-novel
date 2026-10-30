@@ -6,7 +6,7 @@ Yu IlHan mỉm cười hài lòng dõi theo các chủ clan đang chiến đấu
 
 [Kwhooooooooooooooh!]
 
-"Trơn tru á!? Cậu nghĩ thế này mà là TRƠN TRU Á!? Đúng rồi, ngay lúc này đây! Bọn tôi đang 'trơn tru' đi đời nhà ma đấy!"
+"Trơn tru á!? Anh nghĩ thế này mà là TRƠN TRU Á!? Đúng rồi, ngay lúc này đây! Bọn tôi đang 'trơn tru' đi đời nhà ma đấy!"
 
 Michael Smithson rơi vào tuyệt vọng. Hắn cảm thấy những xúc tu đang quất liên hồi vào khiên chắn của mình có thể đâm xuyên qua hắn cùng cái thứ mỏng manh ấy bất cứ lúc nào. Yu IlHan nghiêng đầu gọi Na YuNa.
 
@@ -118,9 +118,9 @@ Cứ mỗi giây lại có ba đến bốn loại độc xuất hiện rồi bi�
 
 Suốt chiều dài lịch sử của vũ trụ, chắc chắn chưa từng có nơi nào chứng kiến nhiều loại độc được tạo ra rồi tiêu hủy cùng một chỗ đến thế. Không, ngay từ đầu, làm gì có tiền lệ một kẻ nào lại tàn sát nhiều thực thể cấp cao mang độc trong cơ thể đến mức này!
 
-"Em đến xem IlHan đang làm gì mà... sao lại thấy cả một góc địa ngục thế này ở Pháo Đài Bay?"
+"Tôi đến xem IlHan đang làm gì mà... sao lại thấy cả một góc địa ngục thế này ở Pháo Đài Bay?"
 
-"Liera, anh biết em muốn xem, nhưng giờ anh đang bận lắm, em đi đấu tập với mấy người khác đi xem nào."
+"Liera, tôi biết cô muốn xem, nhưng giờ tôi đang bận lắm, cô đi đấu tập với mấy người khác đi xem nào."
 
 Hàng vạn vò độc dược đủ màu sắc sôi sùng sục cạnh nhau trông thật kinh hoàng, việc Liera bước lại gần anh có thể nói là đòi hỏi lòng dũng cảm đáng kể. Thậm chí đến cả cô cũng chẳng dám tiến lại gần hơn một khoảng cách nhất định.
 
@@ -130,7 +130,7 @@ Hàng vạn vò độc dược đủ màu sắc sôi sùng sục cạnh nhau tr�
 
 "Thế mà bảo là chuyện nhỏ à!?"
 
-"Anh ngăn lại được, không sao đâu."
+"Tôi ngăn lại được, không sao đâu."
 
 Quái vật sinh ra từ mana vốn dĩ rất phổ biến; do đó, những sinh vật chào đời trong độc dược mana nồng độ cao cũng chẳng phải chuyện hiếm hoi gì. Yu IlHan khuấy đều vò thuốc, dập tắt mầm sống một cách tàn nhẫn không chút lưu tình, rồi múc một muôi đầy uống cạn.
 
@@ -142,9 +142,9 @@ Khi Yu IlHan không nhịn nổi mà há miệng ra, một tiếng ợ màu xanh
 
 "Hức."
 
-"Anh chấm món này 10/10 điểm chết chóc."
+"Tôi chấm món này 10/10 điểm chết chóc."
 
-"...Anh có sao không đấy?"
+"...Cậu có sao không đấy?"
 
 "Ờ, dĩ nhiên là khôn—."
 
@@ -154,15 +154,15 @@ Khi Yu IlHan không nhịn nổi mà há miệng ra, một tiếng ợ màu xanh
 
 "Hả."
 
-"Sao thế anh?"
+"Sao thế?"
 
 Yu IlHan im lặng nhìn chiếc muôi trong tay rồi nhún vai. Dù khá bất ngờ, nhưng ngẫm lại thì đây cũng chẳng phải lần đầu xảy ra chuyện quái đản như thế. Dù sao thì khả năng điều chế độc dược của anh cũng đã tăng lên, khả năng khống chế thuộc tính thủy và hỏa cũng được cường hóa. Thế nên đây là chuyện tốt!
 
 Liera cảm nhận được sự thay đổi nơi anh liền bối rối hỏi.
 
-"IlHan, em cảm thấy hình như anh vừa mạnh lên thì phải...?"
+"IlHan, tôi cảm thấy hình như cậu vừa mạnh lên thì phải...?"
 
-"Anh mà nói ra thì em sẽ ức chế lắm đấy, nên thôi anh giữ bí mật."
+"Tôi mà nói ra thì cô sẽ ức chế lắm đấy, nên thôi tôi giữ bí mật."
 
 "...?"
 
