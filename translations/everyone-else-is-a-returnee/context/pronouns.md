@@ -109,6 +109,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Siferai | Siferai / gã / gã khổng lồ | 331 | Tiểu Đoàn Trưởng Tiểu Đoàn 9 thuộc Quân Đội Ma Hủy Diệt |
 | Carina Smithson | cô / Carina Smithson / Carina | 342 | Tên sau khi kết hôn của Carina Malatesta |
 | Yuni | cô bé / Yuni / con bé | 342 | Con gái rồng của Michael Smithson và Carina Malatesta |
+| Lucifer | hắn / Lucifer | 346 | Tên gọi của Satan khi còn là đại thiên thần mạnh nhất mưu tính lật đổ Thượng Đế |
+| Luciel | Luciel | 346 | Tên ban đầu Thượng Đế đặt cho Satan trước khi đổi thành Lucifer |
 
 ## Giữa các nhân vật
 
@@ -568,3 +570,14 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Greed | Michael | ta | ngươi | 344 | Greed đáp lời khiêu chiến của Michael |
 | Michael | God | con | Cha / Thượng Đế | 345 | Michael bàng hoàng nhận ra Greed chính là cựu Thượng Đế Thiên giới |
 | God | Michael | ta | con / con trai của ta | 345 | Cựu Thượng Đế Thiên giới trong thân xác Greed đáp lại Michael sau khi nuốt chửng ánh sáng |
+| Gabriel | Lucifer | tôi / ta | Lucifer / cậu | 346 | Gabriel bàn bạc với Lucifer về việc lật đổ Thượng Đế |
+| Lucifer | Gabriel | ta | Gabriel / ngươi | 346 | Lucifer đàm luận với Gabriel |
+| Michael | Gabriel | tôi | cậu / Gabriel | 346 | Michael chất vấn và tranh luận với Gabriel |
+| Gabriel | Michael | tôi | cậu / Michael | 346 | Gabriel thuyết phục Michael tham gia kế hoạch |
+| Uriel | Gabriel | em | anh / Gabriel | 346 | Uriel nũng nịu trêu đùa và ủng hộ Gabriel |
+| Gabriel | Uriel | tôi / anh | Uriel / em | 346 | Gabriel trò chuyện với Uriel |
+| Raphael | Uriel | tôi | Uriel / cô | 346 | Raphael xiêu lòng trước nụ cười của Uriel |
+| Michael | Lucifer | ta / tôi | Lucifer / ngươi | 346 | Michael nói chuyện với Lucifer |
+| Lucifer | Michael | ta | Michael / ngươi | 346 | Lucifer phân công nhiệm vụ cho Michael |
+| Michael | God | con | Cha / Chúa Tể | 346 | Michael đối thoại và phục tùng Thượng Đế trong quá khứ |
+| God | Michael | ta | Michael / con / con trai đáng yêu của ta | 346 | Thượng Đế giao việc và khuyên bảo Michael trong quá khứ |

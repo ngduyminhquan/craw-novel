@@ -2111,3 +2111,10 @@ Michael tiến vào lâu đài kỳ dị tại Elo Katra và đối đầu trự
 Tòa lâu đài nổ tung và Greed lộ diện thân xác cự thú khổng lồ lấp đầy thế giới; Michael tự tin hóa thân thành mặt trời rực rỡ dốc toàn lực thiêu đốt cơ thể Greed hòng biến gã thành hư vô trong thời kỳ Harmageddon.
 Khi đạt tới đỉnh điểm, toàn bộ ánh sáng của Michael bất ngờ bị hút sạch như rơi vào hố đen bởi sức mạnh nuốt chửng của đối phương; Greed lộ diện chân tướng là một người đàn ông bao bọc trong chính ánh sáng của Michael.
 Cảnh kết thúc: Michael bàng hoàng thốt lên "Cha" trong sự phủ nhận, và Greed — tức cựu Thượng Đế Thiên giới — nở nụ cười tà ác xác nhận danh tính của mình.
+
+
+## 346
+Hồi ức thuở xa xưa hé lộ biến cố phân rẽ Thiên giới: Gabriel nhìn thấu toan tính hủy diệt vạn vật để tái tạo thế giới của Thượng Đế và cùng Uriel, Raphael thuyết phục Lucifer và Michael liên thủ mưu sát Thượng Đế.
+Trận chiến chỉ thành công một nửa khi Lucifer phá vỡ phạm vi khống chế, Michael tước đoạt chia sẻ sức mạnh của Thượng Đế cho năm người nhưng để Thượng Đế trốn thoát; sau đó Lucifer lập Quân Đội Ánh Sáng Rực Rỡ (đổi tên thành Satan), Michael nắm quyền tứ Đại Thiên Thần che giấu sự thật, kéo theo sự ra đời của Quân Đội Ma Hủy Diệt và Khu Vườn Hoàng Hôn.
+Trở lại hiện tại tại Elo Katra, Michael bàng hoàng khi biết Greed sở hữu năng lực tước đoạt bẩm sinh giống hệt mình là do sự trói buộc cấm chế từ Thượng Đế khiến sức mạnh của Michael tự phân tách chảy ngược về Ngài sau vụ phản nghịch năm xưa.
+Cảnh kết thúc: Thượng Đế trong thân xác Greed nở nụ cười nhân từ nhưng tỏa ma lực áp chế toàn diện Michael, đanh thép tuyên bố hắn phải bị trừng phạt như một đứa con phạm sai lầm.
