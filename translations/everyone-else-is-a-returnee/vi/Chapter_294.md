@@ -98,7 +98,7 @@ Yu IlHan hỏi vị Raphael đang sững sờ.
 
 Những kẻ mà Yu IlHan chĩa mũi thương về phía đó dĩ nhiên là những kẻ phản bội còn sống sót. Raphael lắc đầu với vẻ mặt gượng gạo.
 
-[......Không, chúng ta sẽ xử lý chúng. Xử tử lũ phản bội là sứ mệnh của Quân Đội Thiên Giới chúng ta, nên xin hãy để chuyện đó cho chúng ta.]
+[......Không, bọn ta sẽ xử lý chúng. Xử tử lũ phản bội là sứ mệnh của Quân Đội Thiên Giới bọn ta, nên xin hãy để chuyện đó cho bọn ta.]
 
 "Tùy các ông."
 
@@ -134,23 +134,23 @@ Chuyện các thế lực cướp đoạt thế giới của nhau vốn là đi�
 
 "Liệu các ông có tin nếu tôi tiết lộ lý do không?"
 
-[Không, hẳn là chúng ta sẽ không tin rồi.]
+[Không, hẳn là bọn ta sẽ không tin rồi.]
 
 Raphael mỉm cười nói. Khi Yu IlHan khịt mũi trước câu trả lời ấy, ngài ấy bèn thốt ra những lời mà Yu IlHan phần nào đã đoán trước được.
 
-[Ta đề nghị một liên minh. Bất kể động cơ hành động của ngươi là gì, chúng ta cũng đang hết sức cấp bách trong việc xử tử lũ phản bội. Ta sẽ dẫn đường cho ngươi đến bất kỳ thế giới nào dưới trướng Quân Đội Thiên Giới, vậy nên hãy đi cùng ta.]
+[Ta đề nghị một liên minh. Bất kể động cơ hành động của ngươi là gì, bọn ta cũng đang hết sức cấp bách trong việc xử tử lũ phản bội. Ta sẽ dẫn đường cho ngươi đến bất kỳ thế giới nào dưới trướng Quân Đội Thiên Giới, vậy nên hãy đi cùng ta.]
 
 [Ngài Raphael!]
 
 [Chuyện này không thể nào!]
 
-[Tất cả hãy trật tự. Hẳn các ngươi đều đã thấy năng lực nhận diện và tiêu diệt lũ phản bội của người này rồi, đúng chứ? Lúc này chúng ta cần sự giúp đỡ của cậu ấy. Xin đừng coi cậu ấy như một con người đơn thuần, và đừng vô lễ với cậu ấy.]
+[Tất cả hãy trật tự. Hẳn các ngươi đều đã thấy năng lực nhận diện và tiêu diệt lũ phản bội của người này rồi, đúng chứ? Lúc này chúng ta cần sự giúp đỡ của người đó. Xin đừng coi người đó như một con người đơn thuần, và đừng vô lễ với người đó.]
 
 Khi ngài ấy ra lệnh cho các thiên thần bằng một giọng lạnh lùng, tất cả họ đều miễn cưỡng gật đầu rồi lùi lại phía sau. Yu IlHan đáp lời Raphael sau khi tò mò quan sát họ trong giây lát.
 
 "Theo những gì tôi biết, lúc này phe các ông hẳn cũng đang bận rộn lắm. Một trong tứ Đại Thiên Thần như ông mà lại có thời gian đồng hành cùng tôi thế này sao?"
 
-[Chính vì chúng ta đang bận rộn nên việc xử tử lũ phản bội mới quan trọng.]
+[Chính vì bọn ta đang bận rộn nên việc xử tử lũ phản bội mới quan trọng.]
 
 Ánh mắt Raphael lóe lên vẻ bí ẩn.
 
@@ -164,7 +164,7 @@ Dù sao thì anh cũng đã dự định sẽ sớm quét sạch lũ phản bộ
 
 "Được thôi, vậy cứ làm thế đi."
 
-[Ta rất vui vì chúng ta đã thỏa thuận nhanh chóng. Xin hãy chiếu cố ta. Ồ, và cả chú rồng nhỏ cùng Liera nữa, cũng xin nhờ cậy vào các ngươi.]
+[Ta rất vui vì chúng ta đã thỏa thuận nhanh chóng. Rất mong được hợp tác. Ồ, và cả chú rồng nhỏ cùng Liera nữa, cũng trông cậy vào các ngươi cả đấy.]
 
 Raphael chủ động đưa tay ra bắt trước. Yu IlHan nắm lấy bàn tay ngài ấy không chút do dự. Yumir khịt mũi còn Liera thì suýt chút nữa hét toáng lên, nhưng anh phớt lờ họ.
 
@@ -202,6 +202,6 @@ Yu IlHan nhìn lại bàn tay vừa bắt tay với Raphael rồi khẽ cười.
 
 ‘Mảnh ghép cuối cùng cần thiết để trở thành một thực thể cấp cao, và trở thành Kẻ Thứ Năm.’
 
-Rốt cuộc ai sẽ nuốt chửng kẻ còn lại đây? Yu IlHan nhếch mép cười khẩy theo một điệu bộ tà ác hơn nhiều so với nụ cười mà Raphael từng nở rộ, rồi lao mình vào cánh cổng.
+Rốt cuộc ai sẽ nuốt chửng kẻ còn lại đây? Yu IlHan nhếch mép cười khẩy theo một điệu bộ tà ác hơn nhiều so với nụ cười của Raphael vừa rồi, rồi lao mình vào cánh cổng.
 
 [← Chương trước](Chapter_293.md) | [Chương tiếp theo →](Chapter_295.md)

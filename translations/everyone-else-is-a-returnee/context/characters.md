@@ -883,3 +883,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 3 Của Ánh Sáng Rực Rỡ.
 - Xuất hiện tính đến chương 296: Cùng Satière tuân lệnh Anafière đứng ra chặn đường Tiểu Đoàn Trưởng Keshein của Quân Đội Ma Hủy Diệt để bảo vệ Yu IlHan theo mật lệnh của Satan.
 
+### Keshein
+- Giới tính, vai trò: Nam/quái vật, Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt.
+- Xuất hiện tính đến chương 296: Xuất hiện qua ma pháp dịch chuyển bằng máu ở chương 295 theo lệnh Chúa tể để lấy mạng Yu IlHan; bị Crissière và Satière chặn đường ở chương 296.
+

@@ -8,7 +8,7 @@ Michael thoáng chốc hoảng loạn. Ngài ấy nhận ra phong ấn mà mình
 
 [......Cái gì?]
 
-Kẻ lên tiếng đáp lại chính là Raphael. Đó là ma pháp mà ngài ấy đã mất rất nhiều thời gian để bí mật chuẩn bị, và trên thực tế, hình bóng của Yu IlHan vừa rồi đã thực sự lộ diện trước mắt bàn dân thiên hạ như thế. Nhưng cái gì cơ? Hắn vốn đã biết ngay từ đầu ư? Vậy thì tại sao ban nãy hắn lại bị ma pháp đó tác động?
+Người lên tiếng đáp lại chính là Raphael. Đó là ma pháp mà ngài ấy đã mất rất nhiều thời gian để bí mật chuẩn bị, và trên thực tế, hình bóng của Yu IlHan vừa rồi đã thực sự lộ diện trước mắt bàn dân thiên hạ như thế. Nhưng cái gì cơ? Hắn vốn đã biết ngay từ đầu ư? Vậy thì tại sao ban nãy hắn lại bị ma pháp đó tác động?
 
 "Các người."
 
@@ -54,7 +54,7 @@ Trên thực tế, Raphael chậc lưỡi ngay khoảnh khắc nghe thấy lời
 
 [Raphael, cơ thể ngươi thế nào rồi?]
 
-[Ta không sao.]
+[Tôi không sao.]
 
 Michael cũng nhìn ngài ấy với ánh mắt thoáng chút căng thẳng. Có lẽ ngài ấy đã cảm nhận được điều gì đó sau khi chứng kiến 'ngọn lửa' đầy tự hào của mình hoàn toàn vô tác dụng trước Yu IlHan.
 
@@ -74,9 +74,9 @@ Cánh Thứ 2 Của Ánh Sáng Rực Rỡ, Anafière cất giọng với vẻ kh
 
 [Để giết Yu IlHan sao?]
 
-[Nói chính xác hơn thì là để ngăn các ngươi bảo vệ Yu IlHan. Nếu các ngươi không can thiệp ngăn cản chúng ta thì chúng ta chỉ biết cảm kích mà thôi...... thấy thế nào?]
+[Nói chính xác hơn thì là để ngăn các ngươi bảo vệ Yu IlHan. Nếu các ngươi không can thiệp ngăn cản bọn ta thì bọn ta chỉ biết cảm kích mà thôi...... thấy thế nào?]
 
-[......Dù chúng ta cũng ngán ngẩm trước những hành động của Yu IlHan, nhưng hắn chẳng là gì so với tư tưởng và hành vi của các ngươi. Các ngươi bắt tay với Quân Đội Ma Hủy Diệt ư? Dù các ngươi vốn là 'những hạt giống Thiên giới' đầy kiêu hãnh sao?]
+[......Dù bọn ta cũng ngán ngẩm trước những hành động của Yu IlHan, nhưng hắn chẳng là gì so với tư tưởng và hành vi của các ngươi. Các ngươi bắt tay với Quân Đội Ma Hủy Diệt ư? Dù các ngươi vốn là 'những hạt giống Thiên giới' đầy kiêu hãnh sao?]
 
 Michael nhún vai rồi gật đầu.
 
@@ -100,7 +100,7 @@ Vào lúc đó, một ý nghĩ chợt lóe lên trong đầu Yu IlHan.
 
 Yu IlHan cảm thấy kỳ quặc vì không hiểu sao lúc này trông mình cứ như nhân vật chính của cuốn tiểu thuyết lãng mạn nào đó, liền thảng thốt hét lên. Đương nhiên, Anafière chỉ cảm thấy chuyện này thật bi thảm.
 
-[Thật không ngờ chúng ta lại phải...... nghiến răng, bảo vệ hắn!]
+[Thật không ngờ chúng ta lại phải...... cắn răng mà bảo vệ hắn!]
 
 [Thưa Ngài Anafière, chúng ta thực sự phải bảo vệ thứ đó sao? Chẳng lẽ đến giờ này suy nghĩ của Chúa Tể Satan vẫn chưa thay đổi ư?]
 
@@ -176,7 +176,7 @@ Toàn bộ các thiên thần và ma binh Hủy Diệt đều lao về phía anh
 
 [Trong tất cả......? Ý ngươi muốn bảo rằng hắn vĩ đại và vượt trội hơn cả thủ lĩnh của chính các ngươi sao?]
 
-[Chúa Tể đã phán như thế, và chúng ta chỉ tuyệt đối tin tưởng vào lời của ngài!]
+[Chúa Tể đã phán như thế, và bọn ta chỉ tuyệt đối tin tưởng vào lời của ngài!]
 
 Lời tiên tri từ kẻ thống trị Khu Vườn Hoàng Hôn. Lời tiên tri từng được tất cả mọi người biết đến thông qua Helièna, và cũng chính là điều khiến ai nấy đều phải đề phòng. Michael nghiến răng gầm lên.
 
@@ -214,7 +214,7 @@ Một dòng chữ đơn độc hiện lên trên võng mạc của Yu IlHan.
 
 Thủ Lĩnh. Thủ Lĩnh là một chức nghiệp phụ vô cùng phổ biến thuộc sở hữu của những người có tố chất hòa hợp người khác và dẫn dắt họ. Một chức nghiệp phụ mang lại điểm thưởng khi tổ đội, đồng thời hiệu quả cũng được khuếch đại khi người đó thống lĩnh càng nhiều nhân lực. Đó là chức nghiệp phụ mà hầu như tất cả các chủ clan đều sở hữu.
 
-Và giờ đây, thứ đó đã xuất hiện như một lựa chọn có thể chọn trong danh sách. Chẳng cần phải bàn cãi về lý do. Đó là bởi vì lối chơi tổ đội vốn chẳng hề phù hợp với một người như Yu IlHan. Nếu anh không tạo ra một hạm đội sau khi trở thành Du Hành Giả Thứ Nguyên, thì sẽ chẳng bao giờ có ngày Thủ Lĩnh xuất hiện như một trong những chức nghiệp phụ khả dụng.
+Và giờ đây, thứ đó đã xuất hiện như một mục khả dụng trong danh sách. Chẳng cần phải bàn cãi về lý do. Đó là bởi vì lối chơi tổ đội vốn chẳng hề phù hợp với một người như Yu IlHan. Nếu anh không tạo ra một hạm đội sau khi trở thành Du Hành Giả Thứ Nguyên, thì sẽ chẳng bao giờ có ngày Thủ Lĩnh xuất hiện như một trong những chức nghiệp phụ khả dụng.
 
 "Ngay cả bản thân mình cũng thấy mình đúng là một gã bướng bỉnh."
 

@@ -42,7 +42,7 @@ Luồng mana tuân theo mệnh lệnh của Raphael đều quay trở về vị 
 
 Yu IlHan bày ra vẻ mặt như một đứa trẻ vừa phát hiện ra gói bánh quy rỗng tuếch. Raphael thấy điều đó thật phi lý. Trong suốt hai tuần qua, họ đã đi qua hơn 500 thế giới, và Yu IlHan đã tiêu diệt hơn mười nghìn kẻ phản bội. Chẳng ai có thể đồ sát nhiều thực thể cấp cao đến nhường ấy trong một khoảng thời gian ngắn như vậy, thế mà hắn còn bất mãn cái gì chứ!
 
-[Đây là thế giới cuối cùng trong số rất nhiều thế giới thuộc quyền quản hạt của chúng ta rồi. Dẫu cho Thiên giới có rộng lớn đến đâu, số lượng các thế giới bậc cao rốt cuộc cũng chỉ có hạn mà thôi.]
+[Đây là thế giới cuối cùng trong số rất nhiều thế giới thuộc quyền quản hạt của bọn ta rồi. Dẫu cho Thiên giới có rộng lớn đến đâu, số lượng các thế giới bậc cao rốt cuộc cũng chỉ có hạn mà thôi.]
 
 "Vậy thì liên minh kết thúc tại đây sao? Làm việc cùng ông khá vui đấy."
 
@@ -54,7 +54,7 @@ Yu IlHan bày ra vẻ mặt như một đứa trẻ vừa phát hiện ra gói b
 
 "Các ông đang tập trung tiêu diệt Quân Đội Ánh Sáng Rực Rỡ, đúng chứ?"
 
-[Quả đúng như vậy. Đó cũng là lý do vì sao chúng ta phải củng cố lại nền móng của mình. Nhưng sẽ ra sao nếu có những kẻ phản bội nằm trong số những kẻ đang tham chiến? Và sẽ ra sao nếu thiên thần đó lại là một kẻ chuyển chức 7?]
+[Quả đúng như vậy. Đó cũng là lý do vì sao bọn ta phải củng cố lại nền móng của mình. Nhưng sẽ ra sao nếu có những kẻ phản bội nằm trong số những kẻ đang tham chiến? Và sẽ ra sao nếu thiên thần đó lại là một kẻ chuyển chức 7?]
 
 "Mọi chuyện sẽ trở nên tồi tệ khủng khiếp sao?"
 
@@ -110,7 +110,7 @@ Bầu trời quá đỗi cao rộng. Vùng đất thì trải dài bát ngát v�
 
 "Rốt cuộc đã có bao nhiêu thực thể cấp cao tập hợp ở đây thế này......?"
 
-[Kể từ khi người đồng hành của ngươi, Kang MiRae, mở ra cánh cổng kết nối với Minh Giới, chúng ta đã thu thập được rất nhiều thông tin về những thế giới dưới sự thống trị của Quân Đội Ánh Sáng Rực Rỡ. Thế giới này là thế giới lớn nhất trong số những nơi chúng ta có thể tìm ra. Một thế giới đã trải qua trọn vẹn 7 lần Đại Tai Biến cũng như vài lần tiến hóa. Đây cũng là thế giới kết nối trực tiếp với Minh Giới.]
+[Kể từ khi người đồng hành của ngươi, Kang MiRae, mở ra cánh cổng kết nối với Minh Giới, bọn ta đã thu thập được rất nhiều thông tin về những thế giới dưới sự thống trị của Quân Đội Ánh Sáng Rực Rỡ. Thế giới này là thế giới lớn nhất trong số những nơi bọn ta có thể tìm ra. Một thế giới đã trải qua trọn vẹn 7 lần Đại Tai Biến cũng như vài lần tiến hóa. Đây cũng là thế giới kết nối trực tiếp với Minh Giới.]
 
 "Lý do các ông không trực tiếp tiến vào Minh Giới là......."
 
@@ -196,7 +196,7 @@ Những Đại Thiên Thần chưa từng một lần lộ diện trong Cuộc c
 
 Không chỉ có thế, một vài thực thể cấp cao thuộc Quân Đội Ma Hủy Diệt dường như đột ngột phát nổ, trước khi một con quái vật đen tuyền hiện ra từ vũng máu vừa hình thành, rồi lập tức phóng đại kích thước. Yu IlHan nhận ra đó là một loại ma pháp dịch chuyển sử dụng máu làm chất xúc tác.
 
-[Vậy là cuối cùng khoảnh khắc ta hằng mong đợi cũng đã tới....... Lãnh Chúa đã ban cho ta một mệnh lệnh. Ta đến đây chỉ duy nhất để lấy mạng ‘hắn’.]
+[Vậy là cuối cùng khoảnh khắc ta hằng mong đợi cũng đã tới....... Chúa tể đã ban cho ta một mệnh lệnh. Ta đến đây chỉ duy nhất để lấy mạng 'hắn'.]
 
 [Tiểu Đoàn Trưởng Tiểu Đoàn 1 thuộc Quân Đội Ma Hủy Diệt, Keshein...... chết tiệt.]
 
@@ -206,7 +206,7 @@ Yu IlHan chờ đợi đề phòng trường hợp một Đại Thủ Môn Nhân
 
 [Nằm mơ đi, Michael. Chẳng cần đến sức mạnh của ngài Lazière thì ngươi cũng sẽ bị kết liễu dễ dàng thôi. Ngươi đang toan tính điều gì mà lại bỏ mặc Thiên giới trống trải đến nhường ấy?]
 
-[Hiện tại, Thiên giới đang ở trạng thái thanh sạch nhất kể từ ngày Satan ra đời. Dẫu ngươi có thể sẽ ngạc nhiên, nhưng Thiên giới lúc này vô cùng an toàn. Chúng ta đã có được một trợ thủ đắc lực phi thường.]
+[Hiện tại, Thiên giới đang ở trạng thái thanh sạch nhất kể từ ngày Satan ra đời. Dẫu ngươi có thể sẽ ngạc nhiên, nhưng Thiên giới lúc này vô cùng an toàn. Bọn ta đã có được một trợ thủ đắc lực phi thường.]
 
 [.......]
 
@@ -214,7 +214,7 @@ Anafière nhận ra người trợ thủ này ám chỉ ai. Hắn khẽ cắn m�
 
 [Yu IlHan...... hắn ta đã quy thuận phe các ngươi sao?]
 
-[Sao lại là phe chúng ta? Chúng ta đang trong mối quan hệ hợp tác. Thế nên, các ngươi nên oán hận Yu IlHan nhiều hơn là chúng ta chứ. Chẳng phải sao?]
+[Sao lại là phe của bọn ta? Bọn ta chỉ đang trong mối quan hệ hợp tác. Thế nên, các ngươi nên oán hận Yu IlHan nhiều hơn là oán hận bọn ta chứ. Chẳng phải sao?]
 
 [Khéck......!]
 
