@@ -2,7 +2,7 @@
 
 Heishia, nơi Yu IlHan đã lâu không ghé lại, vẫn còn là một thế giới bậc thấp. Sau lần dọn dẹp trước của anh, tình cảnh của những người sống tại đây đã có phần khá hơn đôi chút, và họ vẫn đang kiên cường chống chọi với những đàn quái vật hung bạo. Và điều đáng kinh ngạc nhất chính là.......
 
-"......Thế giới này có thể quy phục dưới quyền ta bất cứ lúc nào. Sao lại thành ra nông nỗi này cơ chứ?"
+"......Thế giới này có thể quy phục dưới quyền tôi bất cứ lúc nào. Sao lại thành ra nông nỗi này cơ chứ?"
 
 [Ta nghe nói ngươi từng hiển linh kỳ tích ở thế giới này. Toàn bộ thế giới Heishia lúc này đều tôn sùng ngươi như một vị Thần. Nếu giờ ngươi lộ diện, e là hiện tượng đó sẽ bị kích hoạt ngay đấy.]
 
@@ -36,7 +36,7 @@ Lời cằn nhằn bâng quơ của anh lại nhận về một câu trả lời
 
 "Xem ra những lời cô vừa nói cũng chẳng phải là hoàn toàn hoang đường khó tin."
 
-[Thời điểm đó tất cả chúng ta đều đồng lòng một thể. Nhưng chuyện gì đã xảy ra cơ chứ? Tâm niệm chung ấy đã vỡ vụn thành từng mảnh. Michael mong muốn duy trì sự thống trị thuở trước của Thượng Đế, trong khi Raphael lại muốn Michael thay thế Thượng Đế...... Ta không thể trơ mắt đứng nhìn khi họ dấn bước trên con đường ấy dù biết rõ nó sai trái.......]
+[Thời điểm đó tất cả bọn ta đều đồng lòng một thể. Nhưng chuyện gì đã xảy ra cơ chứ? Tâm niệm chung ấy đã vỡ vụn thành từng mảnh. Michael mong muốn duy trì sự thống trị thuở trước của Thượng Đế, trong khi Raphael lại muốn Michael thay thế Thượng Đế...... Ta không thể trơ mắt đứng nhìn khi họ dấn bước trên con đường ấy dù biết rõ nó sai trái.......]
 
 "Còn Gabriel thì không thể chấp nhận chuyện đó?"
 
@@ -140,7 +140,7 @@ Vẫn còn hơn là phải chết – một câu nói mà anh không tài nào p
 
 Sợ rằng mình có thể đẩy con trai vào tội đại bất hiếu (đổi lại bằng chính mạng sống của mình), Yu YongHan lập tức ngậm chặt miệng. Yu IlHan thở dài thêm một hơi rồi lấy một chiếc Bẫy Phục Hồi ra đưa cho ông xem.
 
-[Ồồ, thứ này chính là.......]
+[Ồ ô, thứ này chính là.......]
 
 "Bản lĩnh của con trai bố đấy."
 
@@ -158,7 +158,7 @@ Gabriel, hay Yu YongHan, dường như ngập ngừng trong thoáng chốc, trư
 
 [Để xem nào...... là thế này. Bố cần phải khẳng định lại sự thật này trước khi bắt đầu. Đó là Thượng Đế của Quân Đội Thiên Giới không phải là Đấng sáng tạo. 'Thượng Đế' theo đúng nghĩa chân chính nhất vốn dĩ không hề tồn tại.]
 
-Yu IlHan chợt nhớ lại thông điệp của vị thần tình yêu năm xưa. Thông điệp ấy đã khẳng định chắc nịch rằng Thượng Đế không hề tồn tại. Vậy điều đó có nghĩa là Thượng Đế, thực sự, chưa từng tồn tại.
+Yu IlHan chợt nhớ lại thông điệp của vị Thần Tình Yêu năm xưa. Thông điệp ấy đã khẳng định chắc nịch rằng Thượng Đế không hề tồn tại. Vậy điều đó có nghĩa là Thượng Đế, thực sự, chưa từng tồn tại.
 
 "Ý bố là chẳng một ai biết Kẻ Sáng Tạo là ai, hay nói đúng hơn, liệu người đó có thực sự tồn tại hay không, phải không ạ?"
 

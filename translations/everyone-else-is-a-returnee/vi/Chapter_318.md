@@ -10,7 +10,7 @@ Bởi Đại Tai Biến lần thứ 6 diễn ra vô cùng dữ dội, phần l�
 
 Trước kia, khi Hiện Tượng Tràn xảy ra trên Trái Đất và Yamata no Orochi tấn công vùng Kantou của Nhật Bản, đó từng là một trong những hiểm họa nguy hiểm nhất mà anh phải dè chừng, nhưng lúc này khi Yu IlHan cùng phần lớn các đồng đội của anh đều đã trở thành thực thể cấp cao, Hiện Tượng Tràn chẳng còn là điều gì to tát.
 
-Chỉ là việc thu gom số harkanium bị hấp thụ rồi biến dị bên trong lũ quái vật Tràn có hơi phiền toái một chút! Đương nhiên, nhiệm vụ tiêu diệt quái vật ở Daréu vẫn đang diễn ra nên chẳng mấy chốc họ sẽ quay lại thôi.
+Chỉ là việc thu gom số Harkanium bị hấp thụ rồi biến dị bên trong lũ quái vật Tràn có hơi phiền toái một chút! Đương nhiên, nhiệm vụ tiêu diệt quái vật ở Daréu vẫn đang diễn ra nên chẳng mấy chốc họ sẽ quay lại thôi.
 
 "Daréu thực sự đã trở nên to lớn quá rồi. Haizz, giá mà tôi có thể đi rà soát kỹ lưỡng mọi ngóc ngách rồi dọn sạch tất cả bọn chúng thì tốt biết mấy......"
 
@@ -132,7 +132,7 @@ Lũ quái vật đang giao chiến với bầy rồng và Long tộc lập tức
 
 "Chủ nhân đúng là tệ thật đấy."
 
-"Oa, tôi biết sức mạnh của chúng rồi nhưng thế này quả thực...... dù là cấp 250 hay cấp 270 thì tất cả cũng đều bị hút vào hết."
+"Oa, ta biết sức mạnh của chúng rồi nhưng thế này quả thực...... dù là cấp 250 hay cấp 270 thì tất cả cũng đều bị hút vào hết."
 
 "Ngay cả thực thể cấp cao tôi còn giam giữ được, nói gì đến lũ chuyển chức 4."
 

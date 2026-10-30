@@ -58,7 +58,7 @@ Không chỉ vậy, tương lai sẽ không còn bất kỳ Hiện Tượng Trà
 
 "Không phải ngài nên liên lạc và thuyết phục bọn họ sao? Trước khi họ cố làm điều gì xấu ấy."
 
-"Cô nói gì thế? Rút cuộc thì họ cũng chỉ là những kẻ làm công ăn lương, đến nước này thì chẳng có lựa chọn nào khác ngoài việc tuân theo mệnh lệnh. Nói cho họ biết thì thay đổi được gì chứ? Cô biết đấy, xưa nay có ai gào thét 'kinh doanh cách mạng' mà thành công đâu?"
+"Cô nói gì thế? Rốt cuộc thì họ cũng chỉ là những kẻ làm công ăn lương, đến nước này thì chẳng có lựa chọn nào khác ngoài việc tuân theo mệnh lệnh. Nói cho họ biết thì thay đổi được gì chứ? Cô biết đấy, xưa nay có ai gào thét 'kinh doanh cách mạng' mà thành công đâu?"
 
 Vấn đề căn bản hơn là anh có thể sẽ tạo cớ cho Thiên giới nếu tiếp xúc với họ nhiều hơn mức cần thiết.
 

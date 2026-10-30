@@ -8,7 +8,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lita | Rita | Lita | Thiên thần sơ cấp chăm sóc IlHan trong 1000 năm Trái Đất đóng băng | 1 |
 | Erta |  | Erta | Thiên thần được phái xuống hỗ trợ IlHan thích ứng mana sau khi Trái Đất mở khóa | 6 |
 | Kim YeSeul | YeSeul | Kim YeSeul | Mẹ của Yu IlHan | 6 |
-| Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan | 6 |
+| Yu YongHan | Yun YongHan | Yu YongHan | Cha của Yu IlHan; lộ diện là Đại Thiên Thần Gabriel kiêm thủ lĩnh Khu Vườn Hoàng Hôn từ chương 320 | 6 |
 | Empress | Hulk; Hulk mask; the Empress | Empress | Nữ sinh viên mang mặt nạ Hulk, dùng lôi thuật, có năng lực áp đảo | 7 |
 | Kang MiRae | Kang Mirae; MiRae | Kang MiRae | Tên thật của Empress (lộ diện từ chương 22) | 22 |
 | Han YeoRang |  | Han YeoRang | Nữ sĩ quan quân đội Hàn Quốc (thiếu úy từ ch9, thăng trung úy lực lượng Trấn Áp từ ch71, thăng đại tá từ ch269) | 9 |
