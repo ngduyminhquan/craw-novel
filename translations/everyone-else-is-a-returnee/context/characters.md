@@ -111,6 +111,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Greed |  | Greed | Thủ lĩnh tối cao của Quân Đội Ma Hủy Diệt, Kẻ Siêu Việt mang bản tính tham lam vô tận tự trói mình trong lâu đài ở Elo Katra | 299 |
 | Zeàr |  | Zeàr | Thiên thần sa ngã chuyển chức 6 thuộc Quân Đội Ánh Sáng Rực Rỡ, người canh giữ thế giới bậc cao Fièta; bị Liera hạ sát ở #303 | 303 |
 | First |  | First | Sinh vật Long tộc (dực long hệ hỏa Lv 290) đầu tiên quy phục Yu IlHan tại Daréu, được ban tên và tái sinh thành rồng thực thụ qua Cái Nôi Kỳ Tích | 309 |
+| Lay |  | Lay | Tên gọi ngắn gọn do Yu IlHan đặt cho Ngọn Lửa Vĩnh Cửu từ chương 315 | 315 |
 
 ## Chi tiết
 
@@ -853,6 +854,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ (ý chí linh hồn mang giọng nói bé gái), ngọn lửa sống bất diệt của Yu IlHan.
 - Tính cách / Cách nói chuyện: Ngây thơ, trong sáng, tràn đầy nhiệt huyết và tuyệt đối trung thành với Yu IlHan; xưng "em", gọi Yu IlHan là "chủ nhân".
 - Xuất hiện tính đến chương 278: Thức tỉnh ý chí sau khi nuốt vô số ghi chép và tiến hóa nhiều lần; cùng Yu IlHan nung chảy xương Kelatuke, Hỏa Tâm và Hỏa Ngục Long Thân để tạo nên nội giáp Hỏa Hồn; dọn vào ngụ trong bộ giáp mới và mừng rỡ nhảy múa giữa không trung.
+- Xuất hiện tính đến chương 315: Được Yu IlHan đặt tên gọi ngắn gọn là Lay; hỗ trợ nung chảy và phân giải các mảnh xác Legna, sau đó bùng cháy trong Cái Nôi Kỳ Tích biến đổi thành lò luyện để hỗ trợ IlHan chế tạo Bẫy Phục Hồi.
 
 
 

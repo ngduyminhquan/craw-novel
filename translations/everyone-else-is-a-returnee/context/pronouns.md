@@ -88,6 +88,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Satière | hắn / Satière | 265 | Chỉ huy chuyển chức 7 Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ |
 | Will of the Guardian | nó / Ý Chí Hộ Vệ / golem hồ nước | 272 | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn |
 | Eternal Flame | cô / cô bé / Ngọn Lửa Vĩnh Cửu / nó | 278 | Ngọn lửa sống của Yu IlHan thức tỉnh ý chí và giọng nói của một bé gái từ chương 278 |
+| Lay | cô / cô bé / Lay | 315 | Tên gọi ngắn gọn của Ngọn Lửa Vĩnh Cửu do Yu IlHan đặt từ chương 315 |
 | Felaère | hắn / Felaère | 285 | Cánh Thứ 7 Của Ánh Sáng Rực Rỡ |
 | Lemiel | hắn / Lemiel / đại thiên thần Lemiel | 285 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới |
 | Michael | Michael / đại thiên thần Michael | 289 | Đại thiên thần ngọn lửa, một trong tứ Đại Thiên Thần của Quân Đội Thiên Giới |
@@ -507,3 +508,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | YuNa | Liera | em | chị / chị Liera | 311 | Na YuNa lấy lòng và nói chuyện với Liera |
 | God | Kang MiRae | ta | con / ngươi | 312 | Thượng Đế tiếp cận và chiêu dụ Kang MiRae qua ghi chép của thiên thần kỳ dị |
 | Kang MiRae | God | tôi | ngươi / ông | 312 | Kang MiRae thẳng thừng từ chối và mắng Thượng Đế |
+| Yu IlHan | Lay | ta | em / Lay | 315 | Yu IlHan gọi Ngọn Lửa Vĩnh Cửu bằng tên ngắn gọn Lay |
+| Lay | Yu IlHan | em | chủ nhân | 315 | Lay đối thoại với Yu IlHan |

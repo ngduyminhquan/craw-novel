@@ -319,7 +319,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 312 | 310 | Chapter_312 - Chapter 310_ You Are The Same As Me – 2.txt | You Are The Same As Me – 2 | reviewed |  |
 | 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | reviewed |  |
 | 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | reviewed |  |
-| 315 | 313 | Chapter_315 - Chapter 313_ You Are The Same As Me – 5.txt | You Are The Same As Me – 5 | todo |  |
+| 315 | 313 | Chapter_315 - Chapter 313_ You Are The Same As Me – 5.txt | You Are The Same As Me – 5 | done |  |
 | 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | todo |  |
 | 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | todo |  |
 | 318 | 316 | Chapter_318 - Chapter 316_ You Are The Same As Me – 8.txt | You Are The Same As Me – 8 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -1026,3 +1027,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#312] Tên cặp đôi khởi thủy trong Kinh Thánh "Adam and Eve" — Tạm dùng: "Adam và Eva" theo tên gọi phổ biến trong tiếng Việt. Phương án khác: "Adam và Eve". → Chốt dịch 'Adam and Eve' là 'Adam và Eva' theo cách gọi quen thuộc trong tiếng Việt. (orchestrator)
 - [#313] Biệt danh trêu chọc "DoubleBrain" Orochi dành cho Mystic — Tạm chọn: "Song Não". Phương án khác: "Hai Não". → Giữ cách dịch 'Song Não' cho biệt danh 'DoubleBrain'. (orchestrator)
 - [#314] Thuật ngữ 'Harmageddon' (raw: a 'Harmageddon', bản EN dùng dạng tiếng Hy Lạp của Armageddon) — Tạm dùng: 'Harmageddon' (đặt trong ngoặc nháy đơn). Đề xuất: giữ nguyên 'Harmageddon' hoặc dùng 'Đại Chiến Harmageddon'. → Chốt giữ nguyên 'Harmageddon' trong glossary.md (đồng bộ với tên arc Harmageddon ở các chương sau). (orchestrator)
+- [#315] Tên vật phẩm "Traps of Restoration" — Tạm chọn: "Bẫy Phục Hồi" (đối xứng với "Bẫy Hủy Diệt" / Trap of Destruction). Phương án khác: "Bẫy Khôi Phục", "Bẫy Tái Thiết". Đề xuất: giữ "Bẫy Phục Hồi". → Giữ Bẫy Phục Hồi (đối xứng với Bẫy Hủy Diệt / Trap of Destruction). (orchestrator)
+- [#315] Tên riêng chủng sinh thể golem "Legna" (viết ngược từ Angel) — Tạm giữ nguyên tên riêng Latin "Legna" theo rules.md. Phương án khác: Việt hóa ngược chữ Thiên Thần ("Nầht Neiht" - khó đọc, không phù hợp). Đề xuất: giữ nguyên "Legna". → Giữ nguyên Legna theo quy tắc giữ tên riêng Latin trong rules.md. (orchestrator)
+- [#315] Tên gọi ngắn gọn "Lay" Yu IlHan đặt cho Eternal Flame — Tạm giữ nguyên tên riêng Latin "Lay" theo rules.md. Đề xuất: giữ nguyên "Lay". → Giữ nguyên Lay theo quy tắc giữ tên riêng Latin trong rules.md. (orchestrator)

@@ -1916,16 +1916,8 @@ Bác bỏ ý định bắt tay liên minh với Satan hay các thế lực khác
 IlHan phát hiện vật liệu cấu thành sinh thể golem chính là hợp kim Harkanium, Fecinom và El Hazra — ba loại khoáng thạch dùng chế tạo Bẫy Hủy Diệt của Quân Đội Thiên Giới.
 Cảnh kết thúc: Yu IlHan suy đoán Thượng Đế có thể kích hoạt cộng hưởng biến toàn bộ Bẫy Hủy Diệt rải rác khắp vạn giới thành các golem kháng mana bằng cách hiến tế quái vật trong hầm ngục, và trầm ngâm dự cảm về một trận đại chiến Harmageddon sắp sửa nổ ra.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 315
+Yu IlHan phân tích và khôi phục hoàn chỉnh cấu trúc các mảnh tàn tích Legna (tên viết ngược của Angel) do Thượng Đế chế tạo, đưa kỹ năng Tuyên Cáo tăng vọt lên cấp 52; anh suy luận tên Thượng Đế này chỉ là trùm giả và nhận ra lũ golem này hoạt động bằng cách thiêu đốt linh hồn.
+Từ chối đi theo con đường tà đạo kìm hãm mana của Thượng Đế, Yu IlHan cho Ngọn Lửa Vĩnh Cửu (được anh đặt tên ngắn gọn là Lay) thiêu rụi và phân giải Legna thành khoáng thạch thô; sau 32 giờ duy trì Hiển Hiện, anh bàn giao chiến trường dọn dẹp cho Long tộc cùng nhóm Liera, Helièna và Erta.
+IlHan thông báo sẽ chế tạo "Bẫy Phục Hồi" để đối trọng với Bẫy Hủy Diệt của Thượng Đế, đồng thời hứa tạo thân xác mới để khích lệ tinh thần làm việc của Mystic.
+Cảnh kết thúc: Yu IlHan biến đổi Cái Nôi Kỳ Tích thành lò luyện khổng lồ, dùng máu kết hợp ba kỹ năng Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma đúc kim loại lỏng El Hazra thành cây búa khổng lồ nện xuống lò rèn, chính thức khởi đầu công cuộc kiến tạo Bẫy Phục Hồi định hình lại vận mệnh vạn giới.
