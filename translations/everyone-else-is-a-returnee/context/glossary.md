@@ -808,3 +808,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Harmageddon | harmageddon | Harmageddon | khác | 314 | Trận đại chiến tận thế theo điển tích Kinh Thánh |
 | Legna | Legnae | Legna | quái vật | 315 | Sinh thể thiên thần nhân tạo kháng mana do Thượng Đế chế tạo; tên viết ngược từ Angel; xuất hiện từ chương 314 dưới dạng golem |
 | Trap of Restoration | Traps of Restoration | Bẫy Phục Hồi | vật phẩm | 315 | Loại bẫy ma pháp mới do Yu IlHan nghiên cứu chế tạo từ Cái Nôi Kỳ Tích để đối trọng với Bẫy Hủy Diệt |
+| Perfect Trap of Restoration |  | Bẫy Phục Hồi Hoàn Hảo | vật phẩm | 316 | Phiên bản Bẫy Phục Hồi phẩm cấp Thần do Yu IlHan chế tạo bằng toàn bộ sức mạnh để áp chế mana và đối trọng Bẫy Hủy Diệt |

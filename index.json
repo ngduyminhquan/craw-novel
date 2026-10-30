@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T10:02:30Z",
+  "generatedAt": "2026-10-30T10:07:51Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1877,6 +1877,12 @@
           "title": "Chương 315: Ngươi Cũng Giống Như Ta – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_315.md",
           "sha": "3603b21d21426553cb0c34dabd769c69fc79ed8c"
+        },
+        {
+          "number": 316,
+          "title": "Chương 316: Ngươi Cũng Giống Như Ta – 6",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_316.md",
+          "sha": "d6f15d3e695b037be623604074e7ff3e8d23205f"
         }
       ]
     },

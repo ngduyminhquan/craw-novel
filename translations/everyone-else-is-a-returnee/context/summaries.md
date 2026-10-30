@@ -1921,3 +1921,11 @@ Yu IlHan phân tích và khôi phục hoàn chỉnh cấu trúc các mảnh tàn
 Từ chối đi theo con đường tà đạo kìm hãm mana của Thượng Đế, Yu IlHan cho Ngọn Lửa Vĩnh Cửu (được anh đặt tên ngắn gọn là Lay) thiêu rụi và phân giải Legna thành khoáng thạch thô; sau 32 giờ duy trì Hiển Hiện, anh bàn giao chiến trường dọn dẹp cho Long tộc cùng nhóm Liera, Helièna và Erta.
 IlHan thông báo sẽ chế tạo "Bẫy Phục Hồi" để đối trọng với Bẫy Hủy Diệt của Thượng Đế, đồng thời hứa tạo thân xác mới để khích lệ tinh thần làm việc của Mystic.
 Cảnh kết thúc: Yu IlHan biến đổi Cái Nôi Kỳ Tích thành lò luyện khổng lồ, dùng máu kết hợp ba kỹ năng Rèn Đúc, Chế Tác Mana và Linh Hồn Phụ Ma đúc kim loại lỏng El Hazra thành cây búa khổng lồ nện xuống lò rèn, chính thức khởi đầu công cuộc kiến tạo Bẫy Phục Hồi định hình lại vận mệnh vạn giới.
+
+## 316
+Yu IlHan vận dụng kỹ năng Tuyên Cáo và Ngọn Lửa Vĩnh Cửu chế tạo thành công "Bẫy Phục Hồi Hoàn Hảo" phẩm cấp Thần nhằm khống chế, thao túng quái vật và mana, vô hiệu hóa âm mưu của Thượng Đế đối với các Bẫy Hủy Diệt.
+IlHan gieo mầm linh hồn vào bẫy và kết nối toàn bộ hệ thống điều khiển trung tâm vào ý thức của Mystic thông qua Pháo Đài Bay và Pháo Đài Hộ Vệ; anh tiếp tục dùng Tuyên Cáo nhân bản hàng ngàn chiếc bẫy khiến Mystic choáng váng vì quá tải.
+IlHan giải thích Bẫy Phục Hồi sẽ tự hấp thụ mana xung quanh để sinh sôi và bao trùm các Bẫy Hủy Diệt khác, nên mỗi thế giới chỉ cần cắm một chiếc là đủ.
+Để Mystic có đủ năng lực xử lý mạng lưới ý thức khổng lồ, Yu IlHan bắt tay vào tạo thân xác mới cho cô nàng bằng Cái Nôi Kỳ Tích; dù Mystic lo sợ bị biến thành quái vật vì nguyên liệu gồm toàn búa El Hazra cùng thi thể nam đại thiên thần và thiên thần sa ngã (đặc biệt là ma thạch cấp 7 của Lemiel và xác Daiel), IlHan hứa sẽ tạo cho cô một thân xác xinh đẹp, hoàn hảo.
+Cảnh kết thúc: Yu IlHan kích hoạt kỹ năng Sáng Tạo, chính thức khai sinh một tạo tác phẩm cấp Vĩnh Cửu mới trước tiếng hét thất thanh lẫn mong đợi của Mystic.
+

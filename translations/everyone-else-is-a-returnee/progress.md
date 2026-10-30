@@ -320,7 +320,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 313 | 311 | Chapter_313 - Chapter 311_ You Are The Same As Me – 3.txt | You Are The Same As Me – 3 | reviewed |  |
 | 314 | 312 | Chapter_314 - Chapter 312_ You Are The Same As Me – 4.txt | You Are The Same As Me – 4 | reviewed |  |
 | 315 | 313 | Chapter_315 - Chapter 313_ You Are The Same As Me – 5.txt | You Are The Same As Me – 5 | done |  |
-| 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | todo |  |
+| 316 | 314 | Chapter_316 - Chapter 314_ You Are The Same As Me – 6.txt | You Are The Same As Me – 6 | done |  |
 | 317 | 315 | Chapter_317 - Chapter 315_ You Are The Same As Me – 7.txt | You Are The Same As Me – 7 | todo |  |
 | 318 | 316 | Chapter_318 - Chapter 316_ You Are The Same As Me – 8.txt | You Are The Same As Me – 8 | todo |  |
 | 319 | 317 | Chapter_319 - Chapter 317_ I’m One That Closes The Curtain – 1.txt | I’m One That Closes The Curtain – 1 | todo |  |
@@ -367,6 +367,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -1030,3 +1031,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#315] Tên vật phẩm "Traps of Restoration" — Tạm chọn: "Bẫy Phục Hồi" (đối xứng với "Bẫy Hủy Diệt" / Trap of Destruction). Phương án khác: "Bẫy Khôi Phục", "Bẫy Tái Thiết". Đề xuất: giữ "Bẫy Phục Hồi". → Giữ Bẫy Phục Hồi (đối xứng với Bẫy Hủy Diệt / Trap of Destruction). (orchestrator)
 - [#315] Tên riêng chủng sinh thể golem "Legna" (viết ngược từ Angel) — Tạm giữ nguyên tên riêng Latin "Legna" theo rules.md. Phương án khác: Việt hóa ngược chữ Thiên Thần ("Nầht Neiht" - khó đọc, không phù hợp). Đề xuất: giữ nguyên "Legna". → Giữ nguyên Legna theo quy tắc giữ tên riêng Latin trong rules.md. (orchestrator)
 - [#315] Tên gọi ngắn gọn "Lay" Yu IlHan đặt cho Eternal Flame — Tạm giữ nguyên tên riêng Latin "Lay" theo rules.md. Đề xuất: giữ nguyên "Lay". → Giữ nguyên Lay theo quy tắc giữ tên riêng Latin trong rules.md. (orchestrator)
+- [#316] Tên đại thiên thần phản bội "Ramiel" (chương 316) là cách viết khác của "Lemiel" (#285, sở hữu lôi điện và Phản Kích) — Tạm chọn: dịch là "Lemiel" theo Alias đã chốt trong characters.md. → Giữ Lemiel theo Alias đã chốt trong characters.md. (orchestrator)
