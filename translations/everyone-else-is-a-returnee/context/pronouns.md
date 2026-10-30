@@ -88,6 +88,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Satière | hắn / Satière | 265 | Chỉ huy chuyển chức 7 Quân Đội Ánh Sáng Rực Rỡ, Cánh Thứ 4 Của Ánh Sáng Rực Rỡ |
 | Will of the Guardian | nó / Ý Chí Hộ Vệ / golem hồ nước | 272 | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn |
 | Eternal Flame | cô / cô bé / Ngọn Lửa Vĩnh Cửu / nó | 278 | Ngọn lửa sống của Yu IlHan thức tỉnh ý chí và giọng nói của một bé gái từ chương 278 |
+| Felaère | hắn / Felaère | 285 | Cánh Thứ 7 Của Ánh Sáng Rực Rỡ |
+| Lemiel | hắn / Lemiel / đại thiên thần Lemiel | 285 | Đại thiên thần chuyển chức 7 Quân Đội Thiên Giới |
 
 ## Giữa các nhân vật
 
@@ -432,4 +434,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Carina Malatesta | Erta | tôi | Erta | 280 | Carina Malatesta được Erta huấn luyện |
 | Echjar | Orochi | ta | ngươi | 281 | Echjar mỉa mai và coi thường Orochi |
 | Orochi | Echjar | ta | ngươi | 281 | Hai tàn niệm trong thân xác và trang bị mới của Yu IlHan |
-
+| Melohinne | Felaère | ta | ngươi / lũ quạ | 285 | Melohinne giao chiến với Felaère |
+| Felaère | Melohinne | ta / Felaère này | ngươi | 285 | Felaère giao chiến với Melohinne |
+| Lemiel | Yu IlHan | ta | ngươi | 285 | Lemiel đối đầu với Yu IlHan |
+| Yu IlHan | Lemiel | tôi | ông / đại thiên thần / ngươi | 285 | Yu IlHan đối đầu và thách thức Lemiel |
+| Lemiel | Liera | ta | các ngươi / các cô | 285 | Lemiel chất vấn các cựu thiên thần |
+| Liera | Lemiel | tôi | ông | 285 | Liera đáp trả Lemiel |
+| Lemiel | Erta | ta | các ngươi / các cô | 285 | Lemiel chất vấn các cựu thiên thần |
+| Erta | Lemiel | tôi | ông | 285 | Erta đáp trả Lemiel |
+| Helièna | Lemiel | ta | ngươi / tên đầu óc cơ bắp | 285 | Helièna nhận xét và cảnh báo về Lemiel |

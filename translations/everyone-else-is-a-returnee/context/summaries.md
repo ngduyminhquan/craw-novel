@@ -1751,3 +1751,8 @@ Yu IlHan chỉ huy hai đại pháo đài cùng hạm đội thực thể cấp 
 Khi hàng ngàn viện binh phe địch kéo tới qua cánh cổng không gian, Yu IlHan gom Thiên Nhãn bắn một đòn năng lượng siêu mật độ tiêu diệt sạch sẽ viện binh (gồm cả thủ môn nhân chuyển chức 6), qua đó nâng kỹ năng Ký Lục lên cấp 84 và Chúa Tể Thứ Nguyên lên cấp 64.
 Toàn quân nhanh chóng quét sạch tàn dư, giúp Yu IlHan giành được quyền thống trị thế giới Louisa dù vẫn còn thiếu một vài điều kiện để kiểm soát hoàn toàn.
 Cảnh kết thúc: Yu IlHan ra lệnh toàn quân lập tức vào đội hình hướng tới mục tiêu tiếp theo là Quân Đội Ma Hủy Diệt, rồi kích hoạt Dịch Chuyển mở màn cuộc chiến toàn diện giữa tiếng cười thích thú của Helièna.
+## 285
+Melohinne bàng hoàng nhận tin thế giới bí mật Tebeta của Quân Đội Ma Hủy Diệt bị Yu IlHan cướp quyền kiểm soát và làm hao hụt sức mạnh phe phái; trong khi đó, Felaère (Cánh Thứ 7 Của Ánh Sáng Rực Rỡ) cũng bị mất đột ngột mana do thế giới bị IlHan tước đoạt và bị Melohinne đánh gãy một nửa cánh.
+Cả 4 đại phe phái chấn động nhận ra một thực thể cấp thấp như Yu IlHan đang liên tục cướp các thế giới bậc cao để làm suy yếu đồng loạt tất cả các phe phái lớn cùng một lúc.
+Tại thế giới bậc cao thứ hai của Quân Đội Thiên Giới, Liera và Erta kiên quyết đứng về phía Yu IlHan và đối đầu với sự phủ nhận ngạo mạn của Đại thiên thần chuyển chức 7 Lemiel; Yu IlHan quyết định trực tiếp giao chiến với Lemiel để thu thập thêm ký lục về Thiên giới.
+Cảnh kết thúc: Yu IlHan cưỡi rồng Yumir, kích hoạt Hỏa Hồn Long Thân và ngưng tụ ngọn hỏa thương rồng, chính thức mở màn trận chiến kinh thiên động địa với Đại thiên thần Lemiel.

@@ -289,7 +289,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 282 |  | Chapter_282 - I Will Prepare – 1.txt | I Will Prepare – 1 | reviewed |  |
 | 283 |  | Chapter_283 - I Will Prepare – 2.txt | I Will Prepare – 2 | reviewed |  |
 | 284 |  | Chapter_284 - I Will Prepare – 3.txt | I Will Prepare – 3 | reviewed |  |
-| 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | todo |  |
+| 285 |  | Chapter_285 - I Will Prepare – 4.txt | I Will Prepare – 4 | done |  |
 | 286 |  | Chapter_286 - I Will Prepare – 5.txt | I Will Prepare – 5 | todo |  |
 | 287 |  | Chapter_287 - I Will Prepare – 6.txt | I Will Prepare – 6 | todo |  |
 | 288 |  | Chapter_288 - I Will Prepare – 7.txt | I Will Prepare – 7 | todo |  |
@@ -986,3 +986,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#283] Đoạn 13 raw ghi cấp kỹ năng Đại Đoạn Vũ Trụ Thương là 'level 85' trong khi bảng trạng thái ở đoạn 8 ghi 'Lv86': tạm dịch bám sát raw là 'cấp 85', giữ nguyên theo raw hay đồng bộ thành cấp 86? → Giữ nguyên "cấp 85" bám sát raw theo nguyên tắc 3 và để không lệch kiểm tra số của qa_check.py (orchestrator)
 - [#284] Thuật ngữ "Gatekeeper" (thành viên/lính đồn trú thuộc Khu Vườn Hoàng Hôn) — Tạm dùng: "Thủ Môn Nhân" (nhất quán với "Chief Gatekeeper" → "Đại Thủ Môn Nhân" từ #250). Đề xuất: chốt "Thủ Môn Nhân". → Chốt dịch là "Thủ Môn Nhân" (nhất quán với "Đại Thủ Môn Nhân" Chief Gatekeeper ở chương #250) (orchestrator)
 - [#284] Đoạn 102 thông báo hệ thống ghi 'Kỹ năng Chúa Tể Thứ Nguyên đã đạt cấp độ 64' trong khi bảng chỉ số chương 283 ghi 'Lv 69': lỗi không nhất quán chỉ số trong raw EN → Giữ nguyên "cấp độ 64" bám sát raw theo nguyên tắc 3 (orchestrator)
+- [#285] Sentry (chức vụ của Felaère) — Tạm chọn: 'Lính Canh'. Phương án khác: 'Thủ Hộ Giả', 'Vệ Binh'. Tạm dùng trong bản dịch: 'Lính Canh'. → Chốt 'Lính Canh' — dịch nghĩa tự nhiên, sát với chức năng canh gác cổng/thế giới bậc cao trong raw. (orchestrator)
+- [#285] Ice Giantess (chủng tộc của Melohinne) — Tạm chọn: 'Nữ Khổng Lồ Băng'. Phương án khác: 'Băng Nữ Khổng Lồ', 'Nữ Cự Nhân Băng'. Tạm dùng trong bản dịch: 'Nữ Khổng Lồ Băng'. → Chốt 'Nữ Khổng Lồ Băng' — nhất quán với cách dịch dòng tộc Giant (Khổng Lồ) trong glossary. (orchestrator)

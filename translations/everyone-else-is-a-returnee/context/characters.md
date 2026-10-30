@@ -94,6 +94,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ruler of the Army of Brilliant Light | Leader of the Army of Brilliant Light | Kẻ Thống Trị Quân Đội Ánh Sáng Rực Rỡ | Lãnh tụ tối cao của Quân Đội Ánh Sáng Rực Rỡ, ngự trị tại Minh Giới; sở hữu giọng nói tuyệt mỹ và uy áp có thể phong tỏa ánh sáng và mana của toàn bộ thế giới khi thức tỉnh | 267 |
 | Will of the Guardian |  | Ý Chí Hộ Vệ | Golem hồ nước phẩm cấp Bán Thần hình thành từ tàn niệm Ý Chí Hỗn Loạn sau khi quy phục Yu IlHan, đảm nhận triển khai ma pháp trận bảo vệ Trái Đất | 272 |
 | Eternal Flame |  | Ngọn Lửa Vĩnh Cửu | Ngọn lửa sống của Yu IlHan nhận từ Nhiệm Vụ Thiên Giới ở chương 16; qua nhiều lần tiến hóa đã thức tỉnh ý chí và có giọng nói như bé gái từ chương 278 | 16 |
+| Felaère | Fela | Felaère | Thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh canh giữ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ; sở hữu 3 cặp cánh đen tuyền; giao chiến với Melohinne ở #285 | 285 |
+| Lemiel |  | Lemiel | Đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới; tính tình ngạo mạn, sử dụng lôi điện; đối đầu với Yu IlHan ở #285 | 285 |
 
 ## Chi tiết
 
@@ -826,3 +828,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ (ý chí linh hồn mang giọng nói bé gái), ngọn lửa sống bất diệt của Yu IlHan.
 - Tính cách / Cách nói chuyện: Ngây thơ, trong sáng, tràn đầy nhiệt huyết và tuyệt đối trung thành với Yu IlHan; xưng "em", gọi Yu IlHan là "chủ nhân".
 - Xuất hiện tính đến chương 278: Thức tỉnh ý chí sau khi nuốt vô số ghi chép và tiến hóa nhiều lần; cùng Yu IlHan nung chảy xương Kelatuke, Hỏa Tâm và Hỏa Ngục Long Thân để tạo nên nội giáp Hỏa Hồn; dọn vào ngụ trong bộ giáp mới và mừng rỡ nhảy múa giữa không trung.
+
+
+### Felaère
+- Giới tính, vai trò: Nam, thiên thần sa ngã chuyển chức 7, Cánh Thứ 7 Của Ánh Sáng Rực Rỡ kiêm Lính Canh bảo vệ thế giới bậc cao của Quân Đội Ánh Sáng Rực Rỡ.
+- Ngoại hình / Đặc điểm: Sở hữu 3 cặp cánh đen tuyền (6 cánh); dùng ma pháp ngưng tụ đầu cánh phóng ra như thương; kiêu hãnh với bộ lông quạ đen của mình.
+- Xuất hiện tính đến chương 285: Giao chiến với Nữ Khổng Lồ Băng Melohinne của Quân Đội Ma Hủy Diệt; bị mất mana đột ngột do thế giới bị Yu IlHan đoạt quyền kiểm soát dẫn đến gãy một nửa cánh.
+
+### Lemiel
+- Giới tính, vai trò: Nam, đại thiên thần chuyển chức 7 thuộc Quân Đội Thiên Giới, chấn thủ thế giới bậc cao thứ hai của Thiên giới bị Yu IlHan đột kích.
+- Ngoại hình / Đặc điểm: Toàn thân phát ra lôi điện kinh hoàng; tôn sùng duy nhất Thượng Đế và căm ghét dị giáo, phủ nhận sự tồn tại của Kẻ Thứ Năm; bị Helièna gọi là kẻ đầu óc cơ bắp (musclehead).
+- Xuất hiện tính đến chương 285: Phẫn nộ vì Liera và Erta đứng về phía Kẻ Thứ Năm Yu IlHan; vận chuyển lôi điện toàn bộ thế giới để giao chiến sinh tử với Yu IlHan cưỡi Yumir.

@@ -772,3 +772,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Ice demon |  | Ác Ma Băng | quái vật | 280 | Quái vật ác ma hệ băng được Erta triệu hồi làm đối thủ huấn luyện |
 | Gatekeeper | Gatekeepers; gatekeepers; gatekeeper | Thủ Môn Nhân | cấp bậc | 250 | Thành viên/lính gác thuộc thế lực Khu Vườn Hoàng Hôn |
 | Louisa |  | Louisa | địa danh | 284 | Thế giới bậc cao do Khu Vườn Hoàng Hôn thống trị |
+| Tebeta |  | Tebeta | địa danh | 285 | Thế giới bậc cao chưa từng bị lộ của Quân Đội Ma Hủy Diệt bị Yu IlHan cướp đoạt |
+| Sentry |  | Lính Canh | chức nghiệp | 285 | Danh xưng hoặc chức vụ bảo hộ/chấn thủ một thế giới bậc cao của Cánh Của Ánh Sáng Rực Rỡ |
+| Ice Giantess |  | Nữ Khổng Lồ Băng | quái vật | 285 | Chủng tộc ma tộc khổng lồ hệ băng của Melohinne |
