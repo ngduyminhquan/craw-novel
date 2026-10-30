@@ -1995,3 +1995,10 @@ Bức Tường Hỗn Loạn ngăn cách Thiên giới và Elo Katra rung chuyể
 Tại Daréu, Yu IlHan dùng Cái Nôi Kỳ Tích tái sinh hàng loạt cựu thiên thần thành rồng thực thụ để củng cố Quân Đoàn Rồng chuẩn bị cho Harmageddon.
 Cảnh kết thúc: Gabriel khẩn cấp liên lạc báo tin hành tung bị bại lộ khi lũ Legna bất ngờ bắt tay với thiên thần sa ngã và Satan cùng tiến đánh Khu Vườn Hoàng Hôn, khiến Yu IlHan kinh ngạc trước liên minh khó tin này.
 
+## 327
+Yu IlHan liên lạc với Gabriel nắm được tình hình Quân Đội Thiên Giới giao tranh với Quân Đội Ma Hủy Diệt, trong khi Satan cùng Thượng Đế và Quân Đội Ánh Sáng Rực Rỡ tập kích Khu Vườn Hoàng Hôn; Gabriel có thể làm chậm thời gian cầm cự tối đa hai ngày và tiết lộ vị trí thế giới chính nơi thời không ngưng trệ.
+Nhận ra toàn bộ các thế lực lớn đều đã dốc kiệt binh lực bỏ trống sào huyệt, Yu IlHan quyết định phát động chiến dịch "hôi của nhà trống" quy mô chưa từng có đánh úp 23.000 thế giới cấp cao của địch.
+Yu IlHan liên kết Pháo Đài Hộ Vệ và Pháo Đài Bay mở rộng thánh địa bao trùm Daréu; anh giao nhiệm vụ cho Na YuNa chúc phúc cường hóa và Kang MiRae vận dụng ma pháp không gian mở đồng loạt 50 cổng mỗi lượt kết nối tới hàng ngàn thế giới cấp cao trong 40 giờ.
+Yu IlHan thi triển Hiển Hiện bao phủ Daréu, phát biểu động viên toàn quân trước giờ xuất trận, chuẩn bị hỏa thương khổng lồ và tập trung cho việc dung hợp.
+Cảnh kết thúc: Kang MiRae kích hoạt ma pháp không gian mở ra một trăm cánh cổng đầu tiên giữa không trung; Yu IlHan mở mắt hô vang lệnh khai chiến hướng về phía các thực thể cấp cao.
+

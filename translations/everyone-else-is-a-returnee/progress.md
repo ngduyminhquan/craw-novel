@@ -331,7 +331,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 324 | 322 | Chapter_324 - Chapter 322_ I’m One That Closes The Curtain – 6.txt | I’m One That Closes The Curtain – 6 | reviewed |  |
 | 325 | 323 | Chapter_325 - Chapter 323_ I’m One That Closes The Curtain – 7.txt | I’m One That Closes The Curtain – 7 | reviewed |  |
 | 326 | 324 | Chapter_326 - Chapter 324_ I’m One That Closes The Curtain – 8.txt | I’m One That Closes The Curtain – 8 | reviewed |  |
-| 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | todo |  |
+| 327 | 325 | Chapter_327 - Chapter 325_ Harmageddon – 1.txt | Harmageddon – 1 | done |  |
 | 328 | 326 | Chapter_328 - Chapter 326_ Harmageddon – 2.txt | Harmageddon – 2 | todo |  |
 | 329 | 327 | Chapter_329 - Chapter 327_ Harmageddon – 3.txt | Harmageddon – 3 | todo |  |
 | 330 | 328 | Chapter_330 - Chapter 328_ Harmageddon – 4.txt | Harmageddon – 4 | todo |  |
@@ -367,7 +367,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 360 | 358 | Chapter_360 - Chapter 358_ Apocrypha (5).txt | Apocrypha (5) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -1047,3 +1046,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#326] Thuật ngữ 'ending credits' trong lời đùa của Yu IlHan ở đoạn 89 ("put you guys up on the ending credits") — Tạm chọn: dịch là 'danh đề cuối phim'. Phương án khác: 'phần credit cuối phim'. → Giữ danh đề cuối phim. (orchestrator)
 - [#325 đoạn 15] Dịch cụm minor being trong màn đối đáp giữa Michael và Yu IlHan → Thống nhất dùng sinh linh hạ đẳng ở cả đoạn 9 và đoạn 15 để giữ sự đối chiếu mỉa mai. (orchestrator)
 - [#326 định dạng] Dấu ngoặc kép lời thoại trong chương 326 → Chuyển toàn bộ dấu ngoặc kép cong sang ngoặc kép thẳng theo đúng rules.md. (orchestrator)
+- [#327] Tiêu đề chương và tên arc 'Harmageddon' — Tạm dùng: giữ nguyên 'Harmageddon – 1' theo glossary.md (đã chốt ở #314); nếu user muốn thuần Việt có thể đổi thành 'Đại Chiến Tận Thế – 1'. → Giữ nguyên Harmageddon – N theo glossary.md đã chốt từ #314. (orchestrator)

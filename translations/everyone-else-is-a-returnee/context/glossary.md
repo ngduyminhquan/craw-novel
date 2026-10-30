@@ -818,3 +818,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Emille Bell | Emille bell; The Emille bell; The Emille Bell | Chuông Emille | khác | 323 | Quả chuông đồng thần thoại nổi tiếng của Hàn Quốc gắn liền với truyền thuyết ném đứa trẻ vào vạc đồng đúc chuông |
 | Godspear |  | Thần Thương | vật phẩm | 325 | Ngọn thương tối thượng Yu IlHan ngưng tụ từ vạn ngàn ký lục, kết hợp sức mạnh của Thần Rèn Đúc và Thần Lửa vượt qua mọi giới hạn ngôn từ và phẩm cấp |
 | Brightest-shining Star | brightest, shining, star; Brightest-shining star | Ngôi Sao Sáng Nhất | danh hiệu | 325 | Danh xưng tôn vinh Yu IlHan, vị Kẻ Thứ Năm tỏa sáng rực rỡ hơn bất kỳ ai |
+| Dimensional magic | dimensional magic | Ma pháp không gian | kỹ năng | 327 | Ma pháp thao túng không gian và thứ nguyên của Kang MiRae |

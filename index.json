@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:03:38Z",
+  "generatedAt": "2026-10-30T12:11:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1943,6 +1943,12 @@
           "title": "Chương 326: Ta Là Kẻ Hạ Màn – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_326.md",
           "sha": "9286f4ee6fccce8a839e351374592c7bdb34f73d"
+        },
+        {
+          "number": 327,
+          "title": "Chương 327: Harmageddon – 1",
+          "path": "translations/everyone-else-is-a-returnee/vi/Chapter_327.md",
+          "sha": "3a4b4efb9ceea51059012470e744638598f95d85"
         }
       ]
     },

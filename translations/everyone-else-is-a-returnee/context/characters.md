@@ -45,7 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Phiria |  | Phiria | Nữ elf đạo tặc Lv 83 theo Yu IlHan về Trái Đất | 103 |
 | dragon-child |  | Đứa trẻ rồng | Bé trai rồng mắt vàng tóc đen nở từ quả trứng của Lecidna sau khi được IlHan truyền mana (từ chương 107 được đặt tên là Yumir) | 106 |
 | Yumir | Mir; Mir-nim; Imperial Prince | Yumir | Bé trai rồng con của Yu IlHan (trước đó là Đứa trẻ rồng), nở từ quả trứng của Lecidna | 107 |
-| Flemir |  | Flemir | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, thực thể chuyển chức 4 | 113 |
+| Flemir | Felmir | Flemir | Thủ lĩnh Hộ Vệ Hoàng Gia của Lang tộc ở thế giới Kiroa, thực thể chuyển chức 4 | 113 |
 | Ikedka |  | Ikedka | Thủ lĩnh Lang tộc chuyển chức 4 thuộc Quân Đội Ma Hủy Diệt, đối thủ của Flemir tại Kiroa | 114 |
 | Quesad | Red demon wolf Quesad; Blood Fenrir Quesad | Quesad | Thủ lĩnh Lang tộc chuyển chức 4 cấp 233 thuộc Quân Đội Ma Hủy Diệt tại Kiroa | 115 |
 | Kiana |  | Kiana | Nữ chiến binh Lang tộc chuyển chức 4 trung thành bảo vệ hoàng tộc Kiroa | 115 |
