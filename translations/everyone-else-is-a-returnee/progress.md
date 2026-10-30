@@ -352,9 +352,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 345 | 343 | Chapter_345 - Chapter 343_ Sole God – 4.txt | Sole God – 4 | reviewed |  |
 | 346 | 344 | Chapter_346 - Chapter 344_ Sole God – 5.txt | Sole God – 5 | reviewed |  |
 | 347 | 345 | Chapter_347 - Chapter 345_ Sole God – 6.txt | Sole God – 6 | reviewed |  |
-| 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | done |  |
-| 349 | 347 | Chapter_349 - Chapter 347_ Sole God – 8.txt | Sole God – 8 | done |  |
-| 350 | 348 | Chapter_350 - Chapter 348_ Epilogue.txt | Epilogue | done |  |
+| 348 | 346 | Chapter_348 - Chapter 346_ Sole God – 7.txt | Sole God – 7 | reviewed |  |
+| 349 | 347 | Chapter_349 - Chapter 347_ Sole God – 8.txt | Sole God – 8 | reviewed |  |
+| 350 | 348 | Chapter_350 - Chapter 348_ Epilogue.txt | Epilogue | reviewed |  |
 | 351 |  | Chapter_351 - Extra  1_ Graduating Lonership, Entering Marriage.txt | Extra  1_ Graduating Lonership, Entering Marriage | todo |  |
 | 352 |  | Chapter_352 - Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected.txt | Extra  2_ – My Subordinate Love Comedy is Wrong as I Expected | todo |  |
 | 353 |  | Chapter_353 - Extra  3_ Demigod Eleven.txt | Extra  3_ Demigod Eleven | todo |  |
@@ -1083,3 +1083,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#348 đoạn 96] Chi tiết tác giả ám chỉ Thám tử lừng danh Conan kèm T/N ("...high school boy trapped in a little kid’s body... (T/N: Conan probably)") — Tạm chọn: lược bỏ T/N theo rules.md và dịch thoát ý tự nhiên ("Bằng vẻ mặt sắc sảo và láu lỉnh như cậu thám tử học sinh cấp ba bị mắc kẹt trong cơ thể một đứa trẻ vào năm phút cuối của một tập phim anime, anh hỏi Satan."); Phương án khác: dịch sát giữ nguyên "học sinh cấp ba bị mắc kẹt trong cơ thể đứa trẻ" mà không thêm chữ "thám tử". → Chấp nhận lược bỏ T/N theo rules.md và dịch thoát ý tự nhiên như bản dịch hiện tại. (orchestrator)
 - [#350] Tiêu đề chương 'Epilogue' — Tạm chọn: 'Vĩ thanh' (khớp với 'Mở đầu' ở chương 1 và 'phần vĩ thanh' ở các chương 339, 341). Phương án khác: 'Đoạn kết', 'Hậu truyện'. → Chốt 'Vĩ thanh'. (orchestrator)
 - [#350] Thuật ngữ 'Great Expulsion' (sự kiện toàn bộ nhân loại Trái Đất bị Thượng Đế chuyển dời sang các thế giới khác) — Tạm chọn: 'Đại Trục Xuất'. Phương án khác: 'Đại Di Dân', 'Cuộc Trục Xuất Lớn'. → Chốt 'Đại Trục Xuất' (tương ứng cấu trúc 'Đại Cát Tuyệt'). (orchestrator)
+- [#348-349] Đồng bộ toàn bộ dấu ngoặc kép của chương 348 và 349 từ ngoặc kép cong sang ngoặc kép thẳng theo quy chuẩn rules.md → Chấp nhận đổi toàn bộ ngoặc kép cong sang ngoặc kép thẳng ở chương 348 và 349. (orchestrator)

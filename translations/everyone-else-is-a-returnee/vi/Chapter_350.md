@@ -58,7 +58,7 @@ Thượng Đế quằn quại vùng vẫy khi không thể nào chịu nổi th�
 
 "Tốt lắm. Tốc độ hút nhanh hơn rồi. Khoan đã, có nên khiêu khích ông ta thêm chút nữa không nhỉ?"
 
-"Yu IlHan, nó sẽ nổ thậtttttt sự đấýyyyy!"
+"Yu IlHan, nó sẽ nổ thậtttttt sự đấyyyyy!"
 
 [.......]
 
