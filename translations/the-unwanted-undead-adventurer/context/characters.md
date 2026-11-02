@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 61: Nhận đơn ủy thác chỉ định thu thập Hoa Long Huyết định kỳ của Isaac Hart thay mặt gia tộc Latuule với thù lao kếch xù; ngạc nhiên vì 10 năm ở Maalt chưa từng nghe danh gia tộc Latuule nhưng quyết định nhận ủy thác và tin tưởng Isaac không bận tâm đến ngoại hình Undead của mình.
+- Trạng thái tính đến chương 66: Bị nhốt và suýt chết trước đòn tấn công của con Golem ma cụ trong tầng hầm nhà Latuule, chặt đứt một tay Golem và định dùng át chủ bài Ma Lực trước khi được Laura giải cứu; tiếp tục đi sâu vào hầm chọn thưởng.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -208,3 +208,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lễ độ, tao nhã chuẩn mực quý tộc, xưng "tôi", gọi Rentt là "ngài" (xem Rentt như khách quý và đối tác làm việc).
 - Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; người đưa ra ủy thác hái Hoa Long Huyết định kỳ cho Rentt.
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
+- Trạng thái tính đến chương 66: Kịp thời can thiệp ngắt hoạt động của con Golem tự lắp ráp từ ma cụ trong kho để cứu Rentt; giải thích về nguồn gốc ma cụ mê cung và huy động gia nhân dùng ma cụ thu dọn hiện trường; tiếp tục cùng Rentt chọn ma cụ.

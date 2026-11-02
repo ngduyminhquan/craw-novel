@@ -127,3 +127,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Cursed Artifacts | Cursed Artifact | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |
 | Teleportation |  | Dịch chuyển tức thời | kỹ năng | 63 | Ma pháp không gian đặc biệt dịch chuyển tức thời qua khoảng cách (転移) |
 | airship | airships; Airship; Airships | phi thuyền | vật phẩm | 65 | Phương tiện bay lượn khổng lồ di chuyển qua các vùng đất, vận hành bằng hơi nước hoặc ma pháp (飛空艇) |
+| Golem | Golems | Golem | quái vật | 66 | Người máy ma thuật / rối ma pháp tạo ra từ đất đá, kim loại hoặc ma cụ (ゴーレム) |
+| Canon Douramage |  | Canon Douramage | vật phẩm | 66 | Cỗ pháo ma thuật tầm xa gắn trên người Golem (Canon de la mage) |
+| Fuyuj Douramage |  | Fuyuj Douramage | vật phẩm | 66 | Súng trường ma thuật nòng nhỏ gắn trên người Golem (Fusil de la mage) |
+| Bal |  | Bal | vật phẩm | 66 | Đạn ma pháp cường hóa bắn ra từ pháo hoặc súng ma thuật (Balle) |

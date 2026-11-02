@@ -385,3 +385,9 @@ Trước những món đồ kỳ lạ lẫn lộn giữa bảo vật và phế l
 Laura hướng dẫn Rentt dùng thử và tiết lộ đây là bản nguyên mẫu từ mê cung cổ xưa, sở hữu công năng đặc biệt cho phép người điều khiển tạm thời chuyển dịch ý thức lên phi thuyền để quan sát từ trên không.
 Nhận thấy tiềm năng trinh sát vô giá nhưng bị hạn chế bởi thời lượng bay ngắn do tiêu hao nhiều Ma Lực, Rentt tạm gác lại lựa chọn và cùng Laura, Isaac tiếp tục tham quan gian hầm.
 
+## 66
+Rentt vô tình chạm tay vào một viên Ma Tinh cạn kiệt, kích hoạt và bị nhốt cùng một con Golem khổng lồ bên trong màn chắn ma pháp; con Golem này tự lắp ráp từ các ma cụ trong hầm và trang bị tận răng súng pháo ma thuật nguy hiểm.
+Không thể phá hủy màn chắn, Rentt chật vật né tránh những đòn tấn công cuồng bạo và chặt đứt một cánh tay của Golem, nhưng sớm bị dồn vào chân tường trong lúc Laura và Isaac cuống cuồng đi tìm công tắc ngắt khẩn cấp.
+Ngay khoảnh khắc Rentt định giải phóng át chủ bài Ma Lực để tử chiến, Laura kịp thời tìm ra cơ chế và ra lệnh dừng con Golem, khiến nó sụp đổ thành đống phế liệu.
+Sau khi nghe Laura giải thích về nguồn gốc ma cụ độc nhất vô nhị từ mê cung và chứng kiến đám gia nhân dùng ma cụ dọn dẹp hiện trường đổ nát, Rentt quyết định tiếp tục hành trình chọn phần thưởng cùng Laura và Isaac.
+
