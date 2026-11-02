@@ -25,3 +25,10 @@ Rentt nhận thấy việc tiêu diệt quái Khô Lâu và hấp thụ ánh sá
 Anh di chuyển đến khu vực sinh sống của Slime trong Mê Cung Nguyệt Ảnh, hồi tưởng lại quá khứ mười năm chật vật với biệt danh "Đồng Cấp Ngàn Năm" vì kẹt ở Hạ Đồng Cấp và phải thám hiểm đơn độc.
 Chạm trán một con Slime mới tái sinh trong trẻo hiếm gặp, Rentt né tránh đòn phun axit Acid Blitz và bất ngờ chém chết nó chỉ bằng một nhát kiếm nhờ may mắn trúng lõi.
 Anh nhanh chóng dùng bình thu hoạch chất dịch quý giá của Slime (thường dùng làm mỹ phẩm cao cấp) và quyết tâm tiến hóa thành Ngạ Quỷ để có thể đàng hoàng về thị trấn tìm gặp một người quen giúp đỡ.
+
+
+## 5
+Tiêu diệt thêm nhiều quái vật và Slime, Rentt nhận thấy sức mạnh vượt qua thời còn sống và kích hoạt Tiến Hóa Bản Thể thành Ngạ Quỷ (Ghoul), mọc ra lớp da thịt khô cằn bao bọc khung xương.
+Nhận thấy việc tiến hóa mở ra hy vọng tiếp tục mạnh lên để trở thành dạng Undead cao cấp như Ma Cà Rồng nhằm đàng hoàng trở lại Maalt, Rentt thử phát âm và bắt đầu phát ra được những âm thanh ngọng nghịu, gián đoạn.
+Nghe thấy tiếng kim loại va chạm từ xa báo hiệu có mạo hiểm giả con người đang giao tranh với quái vật, nỗi cô đơn thôi thúc Rentt vượt qua sự ngần ngại về ngoại hình thây ma gớm ghiếc của mình.
+Rentt lặng lẽ lần theo âm thanh đến khúc ngoặt hành lang và tận mắt nhìn thấy một mạo hiểm giả khác đang rút kiếm chiến đấu.
