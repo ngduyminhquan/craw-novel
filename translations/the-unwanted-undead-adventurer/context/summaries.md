@@ -355,3 +355,9 @@ Alize ký xác nhận hoàn tất ủy thác thu thập Hoa Long Huyết với t
 Trở về nhà ăn tối cùng Lorraine, Rentt thuật lại câu chuyện và nhờ cô kèm cặp ma thuật cho Alize trong lúc rảnh rỗi, nhưng vô tình buột miệng miêu tả bạn thân có phần tiêu cực.
 Bị Lorraine trêu chọc và dọa dùng gậy phép cùng ma đạo thư ếm bùa vì tội vô tâm với thiếu nữ, Rentt hoảng hốt dồn dập tung ra một tràng tâng bốc hoa mỹ ngợi ca nhan sắc và trí tuệ của cô như nữ thần.
 Trước màn khen ngợi lả lơi bất ngờ của Rentt, Lorraine vừa ngượng ngùng vừa thở phào nhẹ nhõm khi biết anh không phải kẻ háo sắc; cô lui vào bếp múc thêm thức ăn trong lúc đỏ ửng mặt và tai vì thẹn thùng.
+
+## 61
+Hôm sau ghé Hội kiểm tra xác Tarasque, Rentt được Sheila hớt hải kéo vào phòng tiếp khách cơ mật để hỏi về mối quan hệ giữa anh và gia tộc Latuule.
+Sheila đưa cho Rentt xem đơn ủy thác do Isaac Hart gửi tới với thù lao kếch xù, chỉ định đích danh anh định kỳ hàng tuần hái Hoa Long Huyết từ Đầm Lầy Tarasque.
+Sheila giải thích gia tộc Latuule là thế lực lâu đời gắn liền với kinh tế Maalt và có quan hệ với Tử tước Lottnel, khiến Hội luôn phải nhún nhường, đồng thời cảnh báo anh không thể từ chối nếu còn muốn sống ở thị trấn.
+Dù ngạc nhiên vì suốt 10 năm hành nghề chưa từng nghe danh gia tộc bí ẩn này, Rentt vẫn quyết định nhận ủy thác và trấn an Sheila rằng Isaac không hề bận tâm về ngoại hình hay thân phận Undead của anh.

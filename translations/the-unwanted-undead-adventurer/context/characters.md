@@ -29,6 +29,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dario Costa | Dario; Mister Dario | Dario Costa | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt | #58 |
 | Unbert Abeiyu | Unbert | Unbert Abeiyu | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt | #59 |
 | Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
+| Viscount Lottnel | Lottnel | Tử tước Lottnel | Quý tộc cai quản thị trấn Maalt và các vùng phụ cận | #61 |
 
 ## Chi tiết
 
@@ -37,7 +38,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 57: Hoàn thành thu thập Hoa Long Huyết tại Đầm Lầy Tarasque, nhận quà Nước Thánh Lobelia từ Isaac và đi xe ngựa trở về Maalt an toàn; được Sheila đánh giá thực lực ngang Ngân Cấp; dấy lên nỗi sợ mất đi sức mạnh nếu sau này trở lại làm người; chuẩn bị vào phòng mổ xẻ kín ở phía sau Hội để xử lý xác Tarasque.
+- Trạng thái tính đến chương 61: Nhận đơn ủy thác chỉ định thu thập Hoa Long Huyết định kỳ của Isaac Hart thay mặt gia tộc Latuule với thù lao kếch xù; ngạc nhiên vì 10 năm ở Maalt chưa từng nghe danh gia tộc Latuule nhưng quyết định nhận ủy thác và tin tưởng Isaac không bận tâm đến ngoại hình Undead của mình.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -68,7 +69,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
-- Trạng thái tính đến chương 57: Tiếp đón Rentt trở về an toàn từ Đầm Lầy Tarasque, kinh ngạc trước tốc độ hoàn thành ủy thác và khen ngợi thực lực của anh đã ngang ngửa Ngân Cấp; sắp xếp dẫn Rentt vào phòng mổ xẻ kín đáo ở phía sau Hội để xử lý xác Tarasque.
+- Trạng thái tính đến chương 61: Hốt hoảng kéo Rentt vào phòng tiếp khách cơ mật để cảnh báo về tầm ảnh hưởng của gia tộc Latuule và áp lực của Hội đối với ủy thác định kỳ do Isaac Hart gửi tới; lo lắng cho bí mật thân phận quái vật của Rentt nhưng hứa sẽ dốc toàn lực giúp đỡ anh.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
@@ -194,3 +195,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách, nghề nghiệp: Dược sư (herbalist) kiêm thầy thuốc (doctor) mở tiệm thuốc riêng; giàu lòng nhân ái, thường xuyên chữa bệnh và tự bỏ tiền túi lo thuốc men cho người nghèo và cô nhi viện; rất tự tin vào vốn hiểu biết thảo dược của mình.
 - Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt; cảm kích trước hành động tặng thêm Hoa Long Huyết của Rentt và hứa sẵn lòng giúp đỡ anh bất cứ khi nào cần.
 - Xuất hiện từ: #59.
+
+### Viscount Lottnel
+- Giới tính, tuổi/vẻ ngoài: Nam, quý tộc cai quản Maalt và các vùng phụ cận.
+- Quan hệ: Người thống trị Maalt, có tin đồn là có mối quan hệ sâu sắc với gia tộc Latuule.
+- Xuất hiện từ: #61 (được nhắc tên).
