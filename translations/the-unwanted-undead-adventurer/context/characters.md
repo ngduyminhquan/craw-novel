@@ -4,9 +4,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Rentt Faina | Rentt; Rend; Ventt | Rentt Faina | Nhân vật chính, mạo hiểm giả Hạ Đồng Cấp, biến thành Undead | #1 |
+| Rentt Faina | Rentt; Rend; Ventt; Mister Rentt | Rentt Faina | Nhân vật chính, mạo hiểm giả Hạ Đồng Cấp, biến thành Undead | #1 |
 | Rina Rupaage | Rina | Rina Rupaage | Nữ mạo hiểm giả Thiết Cấp mới vào nghề, con gái hiệp sĩ | #6 |
-| Lorraine Vivie | Lorraine | Lorraine Vivie | Nữ học giả ma thuật kiêm mạo hiểm giả, bạn thân 10 năm của Rentt | #13 |
+| Lorraine Vivie | Lorraine | Lorraine Vivie | Nữ học giả ma thuật kiêm mạo hiểm giả, bạn thân 10 năm của Rentt | #12 |
 | Sheila Ibarss | Sheila | Sheila Ibarss | Tiếp tân viên Hội mạo hiểm giả Maalt, người phụ trách Rentt 5 năm | #9 |
 | Luka |  | Luka | Vợ thợ rèn Clope, tiếp khách và thẩm định vũ khí tiệm Ba Chĩa | #15 |
 | Clope |  | Clope | Thợ rèn chính kiêm chủ tiệm rèn Ba Chĩa | #15 |

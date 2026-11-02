@@ -69,4 +69,10 @@ Rina ân hận tạ lỗi và bất chấp nỗi sợ, cô nắm lấy tay Rentt
 Tại cổng phía tây Maalt, người lính gác nghi ngờ giọng nói và chiếc mặt nạ của Rentt, nhưng Rina khéo léo bịa chuyện anh bị quái vật cắn nát mặt và dính lời nguyền mặt nạ.
 Sau khi người lính tự tay thử kéo mặt nạ không được và thông cảm cho hoàn cảnh nghèo khó của mạo hiểm giả cấp thấp, cả hai thuận lợi qua cổng vào Maalt.
 
+## 12
+Rentt và Rina thuận lợi tiến vào thị trấn Maalt; Rentt dứt khoát chia tay và chạy trốn để tránh làm liên lụy đến tương lai của Rina dù trong lòng áy náy.
+Nhận thức được việc không thể tự đến Hội Mạo Hiểm Giả với diện mạo hiện tại, Rentt cần một cộng sự là con người đáng tin cậy và có thể giữ kín bí mật.
+Anh tìm đến căn nhà quen thuộc ngập đầy sách vở bừa bộn của người bạn thân nhất ở Maalt để xin tá túc và nhờ giúp đỡ.
+Rentt đánh thức cô bạn học giả ma thuật (Lorraine) đang ngủ vùi, khiến cô hoảng hốt trước chiếc mặt nạ, rồi tháo găng tay để lộ bàn tay Ngạ Quỷ khô khốc và bắt đầu giải thích tình hình.
+
 

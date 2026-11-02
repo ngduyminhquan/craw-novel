@@ -23,8 +23,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | * | tôi | các bạn / mọi người | 1 | Xưng hô chung khi giao tiếp |
 | Rentt Faina | Rina Rupaage | tôi | cô / Rina | 7 | Tiền bối đối với hậu bối |
 | Rina Rupaage | Rentt Faina | tôi | anh Rentt / tiền bối Rentt | 7 | Biết ơn ân nhân cứu mạng (raw: Mister Rentt) |
-| Rentt Faina | Lorraine Vivie | tôi | cô / Lorraine | 13 | Bạn thân 10 năm, nói chuyện bình đẳng |
-| Lorraine Vivie | Rentt Faina | tôi | anh / Rentt | 13 | Bạn thân 10 năm, tự nhiên, thân thiết |
+| Rentt Faina | Lorraine Vivie | tôi | cô / Lorraine | 12 | Bạn thân 10 năm, nói chuyện bình đẳng |
+| Lorraine Vivie | Rentt Faina | tôi | anh / Rentt | 12 | Bạn thân 10 năm, tự nhiên, thân thiết |
 | Rentt Faina | Sheila Ibarss | tôi | cô Sheila | 9 | Giao tiếp lịch sự với nhân viên hội phụ trách mình |
 | Sheila Ibarss | Rentt Faina | tôi | anh Rentt | 9 | Tôn trọng và quý mến mạo hiểm giả kỳ cựu |
 | Rina Rupaage | Sheila Ibarss | tôi | chị / cô | 9 | Tân binh lễ phép với tiếp tân viên Hội |
