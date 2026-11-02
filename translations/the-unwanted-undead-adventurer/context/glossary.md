@@ -45,7 +45,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity |  | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
 | Giant Skeleton | the Giant Skeleton | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
-| Soldier Skeleton | Soldier Skeletons | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
+| Soldier Skeleton | Soldier Skeletons; Skeleton Soldier; Skeleton Soldiers | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
 | Poison Slime | Poison Slimes | Slime Độc | quái vật | 18 | Phân loài Slime chứa độc tính |
 | Foteia Borivaas |  | Foteia Borivaas | kỹ năng | 2 | Ma pháp hỏa cầu cơ bản (câu chú giữ nguyên) |
 | Gie Vieros |  | Gie Vieros | kỹ năng | 2 | Ma pháp thổ tiễn cơ bản (câu chú giữ nguyên) |
@@ -64,3 +64,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Sanitarium |  | Viện Trị Liệu | địa danh | 19 | Cơ sở chữa trị, dưỡng thương cho mạo hiểm giả và người dân (療養院/治療院) |
 | Red Wyvern Pavilion |  | Quán Phi Long Đỏ | tổ chức | 20 | Quán ăn của vợ chồng Loris và Isabel ở Maalt (赤き竜亭/赤き飛竜亭) |
 | divine magic |  | ma pháp thần thánh | kỹ năng | 21 | Ma pháp sử dụng Thần Lực để trị liệu vết thương |
+| Thrall | Thralls; the Thralls | Thi Quỷ | quái vật | 22 | Undead dạng người tiến hóa từ Ngạ Quỷ, vốn là thuộc hạ do Ma Cà Rồng tạo ra (屍鬼) |
+| Lesser Vampire | Lesser Vampires | Hạ Cấp Ma Cà Rồng | quái vật | 22 | Ma Cà Rồng bậc thấp, đứng trên Thi Quỷ (下級吸血鬼) |
+| Skeleton Knight | Skeleton Knights | Khô Lâu Kỵ Sĩ | quái vật | 22 | Phân loài Khô Lâu cấp cao trang bị vũ khí và giáp kỵ sĩ |
+| Puchi Suri | Puchi Suris | Puchi Suri | quái vật | 22 | Quái vật dạng chuột nhỏ dễ bắt, có khả năng biến đổi theo môi trường để tiến hóa (プチスリ) |

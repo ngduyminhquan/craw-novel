@@ -128,8 +128,8 @@ Dù đau đớn, Lorraine cắn răng chịu đựng để không gây ồn ào 
 Khi tỉnh lại trên sofa, Rentt lấy lại lý trí, vô cùng ân hận và dùng Thần Lực chữa lành hoàn toàn vết cắn trên vai Lorraine để tránh để lại sẹo.
 Lorraine kinh ngạc trước công hiệu kỳ diệu của Thần Lực, nhưng sau đó hoảng hốt chỉ ra rằng chiếc mặt nạ của Rentt đang bắt đầu rơi ra.
 
-
-
-
-
+## 22
+Soi gương, Rentt nhận thấy chiếc mặt nạ có thể tự biến đổi hình dạng theo suy nghĩ (như một vật phẩm có tri giác nhưng vẫn không thể tháo ra), cơ thể xuất hiện nhiều mảng da thịt lành lặn và giọng nói trở nên trơn tru hơn.
+Lorraine nhận định Rentt vừa trải qua một đợt Tiến Hóa Bản Thể mới nhờ ăn thịt và uống máu của cô, biến đổi từ Ngạ Quỷ thành Thi Quỷ (Thrall) – loài Undead cấp dưới của Ma Cà Rồng.
+Lorraine đưa ra giả thuyết rằng Tiến Hóa Bản Thể thúc đẩy quái vật tiến hóa theo hình mẫu mà chúng khao khát (như Rentt mong muốn trở lại làm người hay thí nghiệm chuột Puchi Suri thích nghi môi trường), nhưng phải tiến triển từng bậc tương tự cấp bậc mạo hiểm giả thay vì nhảy cóc lên Ma Cà Rồng ngay.
 

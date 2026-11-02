@@ -20,7 +20,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 21: Bị bản năng Ngạ Quỷ bùng phát chi phối cắn rách vai Lorraine; sau khi được Lorraine dùng ma pháp trấn áp và tỉnh lại, Rentt đã dùng Thần Lực chữa lành vết thương cho cô; chiếc mặt nạ của anh bắt đầu có dấu hiệu rơi ra.
+- Trạng thái tính đến chương 22: Tiến hóa từ Ngạ Quỷ (Ghoul) thành Thi Quỷ (Thrall) sau khi hút máu Lorraine; cơ thể mọc thêm nhiều mảng da thịt lành lặn, giọng nói trơn tru hơn; mặt nạ có thể biến đổi hình dạng theo ý nghĩ (che kín mặt, nửa trên, nửa dưới) nhưng vẫn không tháo ra được.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -34,7 +34,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 21: Bị Rentt tấn công cắn rách vai nhưng cắn răng chịu đựng không kêu la để giữ bí mật cho bạn, sau đó dùng ma pháp hỏa cầu và bùa ngủ khống chế anh; được Rentt dùng Thần Lực chữa lành vết thương không để lại tì vết; kinh ngạc phát hiện mặt nạ của Rentt đang rơi ra.
+- Trạng thái tính đến chương 22: Được Rentt dùng Thần Lực chữa lành vết thương không để lại tì vết; kiểm tra diện mạo mới của Rentt và nhận định anh đã tiến hóa thành Thi Quỷ; đưa ra giả thuyết về Tiến Hóa Bản Thể có định hướng khao khát dựa trên thí nghiệm loài Puchi Suri.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.

@@ -26,7 +26,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | reviewed |  |
 | 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | reviewed |  |
 | 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | reviewed |  |
-| 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | todo |  |
+| 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | done |  |
 | 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | todo |  |
 | 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | todo |  |
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -401,3 +402,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#21] Dịch tiêu đề arc 'Proof of Inhumanity' — tạm chọn 'Minh Chứng Phi Nhân Tính' (phương án khác: 'Bằng Chứng Phi Nhân Tính', 'Minh Chứng Cho Sự Phi Nhân', 'Minh Chứng Của Kẻ Phi Nhân'). → Chốt 'Bằng Chứng Không Còn Là Người' (manager sửa: 'phi nhân tính' trong tiếng Việt nghĩa là tàn ác, vô nhân đạo, trái ý raw là bằng chứng Rentt không còn là người) thống nhất cho toàn bộ tiêu đề chương thuộc Tập 1 Chương 5. (orchestrator)
 - [#21] Dịch thành ngữ/lời đùa của Lorraine 'damaged goods' khi nhắc đến vết sẹo ở vai — tạm chọn 'hàng có tì vết' (phương án khác: 'gái mang tì vết', 'hàng lỗi'). → Chốt 'hàng có tì vết' hợp giọng bông đùa của Lorraine. (orchestrator)
 - [#21] Dịch thuật ngữ 'divine magic' — tạm chọn 'ma pháp thần thánh' (phương án khác: 'thần thánh ma pháp'). → Chốt 'ma pháp thần thánh'. (orchestrator)
+- [#22] Dịch quái vật 'Thrall' (nấc tiến hóa sau Ngạ Quỷ, do Ma Cà Rồng tạo ra, gốc Nhật 屍鬼) — tạm chọn 'Thi Quỷ' (phương án khác: 'Quyến Tộc Ma Cà Rồng', 'Nô Bộc Ma Cà Rồng', 'Ma Nô', 'Thrall'). → Chốt 'Thi Quỷ'. (orchestrator) (orchestrator)
+- [#22] Dịch quái vật 'Lesser Vampire' — tạm chọn 'Hạ Cấp Ma Cà Rồng' (phương án khác: 'Ma Cà Rồng Cấp Thấp', 'Tiểu Ma Cà Rồng', 'Hạ Vị Ma Cà Rồng'). → Chốt 'Hạ Cấp Ma Cà Rồng'. (orchestrator) (orchestrator)
+- [#22] Dịch cụm 'sentient tool' (vật phẩm/ma cụ có ý chí tự chọn chủ nhân) — tạm chọn 'vật phẩm có tri giác' (phương án khác: 'dụng cụ có ý thức', 'ma cụ có tri giác'). → Chốt 'vật phẩm có tri giác' (cụm miêu tả chung). (orchestrator) (orchestrator)
