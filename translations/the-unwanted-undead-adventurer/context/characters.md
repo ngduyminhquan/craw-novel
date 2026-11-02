@@ -84,6 +84,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 128: Kể cho Sheila và Lorraine nghe về thỏa thuận với Wolf; được cả Sheila lẫn Lorraine chia sẻ máu cho bữa ăn; trêu Lorraine về đề xuất kết hôn của Wolf; cùng Lorraine đi chợ mua nhu yếu phẩm chuẩn bị về quê và tình cờ tái ngộ Rina Rupaage tại quầy ma cụ phế phẩm sau khi đổi mặt nạ đầu lâu.
 - Trạng thái tính đến chương 129: Trò chuyện cùng Rina, biết cô đã lập tổ đội cùng Raiz Dunner và Laura Satii; nhờ mạng lưới chuột của Edel bám theo và trực tiếp gặp Idoles Rogue để chuyển lời hẹn gặp của Rina; được Idoles gửi lại lời hẹn sau một tháng do phải về vương đô; mang lời nhắn đến Hội lưu lại cho Rina.
 - Trạng thái tính đến chương 131: Cùng Lorraine di chuyển trên cỗ xe rùa khổng lồ về quê nhà Làng Hathara; dùng Thần Lực thanh tẩy đống tro tàn Zombie sau ma pháp của Lorraine khiến cỏ non đâm chồi; tiếp xúc và xác minh tấm thẻ mạo hiểm giả Kim Cấp của nữ mạo hiểm giả tộc Elf Alhildis.
+- Trạng thái tính đến chương 133: Cùng Lorraine nếm thử món đặc sản dị thường Solest và Gettamba tại thị trấn dọc đường; bộc bạch với Lorraine về lòng kiêu hãnh của mạo hiểm giả Đồng Cấp muốn đứng ngang hàng với cô; cùng Lorraine về tới Làng Hathara an toàn.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -122,6 +123,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 122: Giải thích vai trò của phần tay cầm và số lượng Ma Tinh trên vật dẫn; hướng dẫn Rentt và Alize nắn thẳng đường dẫn ma lực trong đũa phép; tiết lộ ký ức thời học việc từng ném đũa phép vào mặt thầy giáo cũ.
 - Trạng thái tính đến chương 123: Tiết lộ sở hữu mảnh đất rộng lớn ở ngoại vi Maalt dùng làm bãi thử ma thuật mạo hiểm; chia sẻ góc nhìn phê phán thói quen phụ thuộc đũa phép của giới ma pháp sư Đế Quốc Rermutt và lý do bản thân không có tiếng nói tại quê nhà.
 - Trạng thái tính đến chương 131: Thi triển ma pháp phong hỏa Paloom Igni Su Turbo tiêu diệt đàn Zombie quanh khu cắm trại; thu thập Ma Tinh của Zombie để nghiên cứu Tử Linh Thuật hỗ trợ tìm hiểu bản thể Undead của Rentt; tiếp xúc với nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis.
+- Trạng thái tính đến chương 133: Thích thú thưởng thức hai món ăn quái vật Solest và Gettamba học từ sách nấu ăn ma vật; đề nghị cho Rentt vay tiền không lấy lãi nhưng bị anh từ chối vì lòng tự trọng; cùng Rentt kiệt sức sau chặng đường xóc nảy về tới Làng Hathara và háo hức muốn điều tra ngôi đền cổ ban phước.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.

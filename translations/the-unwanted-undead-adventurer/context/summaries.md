@@ -780,5 +780,12 @@ Nhận ra Rentt là người sử dụng Thần Lực nhưng không có đức t
 Hilde hé lộ lượng Thần Lực khổng lồ áp đảo, xác nhận tính chuẩn xác của cuốn sách thần thuật mượn từ Laura, gửi lại thông tin liên lạc ở vương đô rồi cáo từ trước bình minh.
 Rentt và Lorraine đàm đạo về kinh nghiệm uyên bác của Hilde, cân nhắc ghé thăm vương đô khi có dịp, rồi cùng nhau đánh thức đoàn xe để tiếp tục hành trình về quê.
 
+## 133
+Đoàn xe rùa tiếp tục hành trình đến một thị trấn vùng xa; tại quán trọ, Lorraine và các hành khách hào hứng thưởng thức đặc sản dị thường gồm món trứng ếch mùa đông Solest và bọ ngựa Curtis Mant chiên giòn Gettamba, trong khi Rentt ban đầu kinh hãi nhưng khi nếm thử lại thấy ngon miệng bất ngờ.
+Sang ngày thứ ba, hai cha con hành khách xuống xe và gửi tặng đồng xu đồng cảm ơn nhóm Rentt đã bảo vệ, sau đó đôi vợ chồng già cũng được Rentt và Lorraine cõng vào tận nơi đến ở vùng hẻo lánh.
+Trên chặng đường núi gập ghềnh còn lại chỉ có hai người và bác tài, Rentt tâm sự với Lorraine về thời nghèo khó của mạo hiểm giả Đồng Cấp và lòng kiêu hãnh muốn đứng ngang hàng với cô.
+Sau nhiều ngày di chuyển gian truân, cỗ xe rùa cuối cùng cũng đưa Rentt và Lorraine nhìn thấy hàng rào gỗ bảo hộ ma thuật của Làng Hathara thấp thoáng bên dòng sông.
+
+
 
 

@@ -137,7 +137,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | reviewed |  |
 | 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | reviewed |  |
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | reviewed |  |
-| 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | todo |  |
+| 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | done |  |
 | 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | todo |  |
 | 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | todo |  |
 | 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | todo |  |
@@ -675,3 +675,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#132] Biệt danh / tên gọi tắt 'Hilde' và 'Hildi' của Alhildis — tạm thêm dòng riêng trong characters.md (EN: 'Hilde', Alias: 'Hildi', VI: 'Hilde') để khớp với các đoạn thoại và tự sự trong raw (phương án khác: đưa 'Hilde; Hildi' vào cột Alias của Alhildis). Tạm dùng trong bản dịch: 'Hilde'. → Giữ dòng riêng cho 'Hilde' (Alias: 'Hildi', VI: 'Hilde') trong characters.md (orchestrator)
 - [#132] Dịch chủng loại 'plant spirit' — tạm chọn 'tinh linh thực vật' và thêm vào glossary.md (phương án khác: 'tinh linh cây cỏ', 'thực vật tinh linh'). Tạm dùng trong bản dịch: 'tinh linh thực vật'. → Giữ 'tinh linh thực vật' (orchestrator)
 - [#130-132] Dịch cụm từ 'tortoise carriage' → Giữ nguyên 'xe rùa' / 'cỗ xe rùa' như hiện tại (song hành với 'xe rồng' cho 'dragon carriage') (orchestrator)
+- [#133] Tên hai món ăn đặc sản 'solest' và 'gettamba' — tạm giữ nguyên danh xưng riêng 'Solest' và 'Gettamba' (phương án khác: thuần Việt hóa theo mô tả như 'món canh trứng ếch', 'món bọ ngựa non chiên giòn') → Giữ nguyên danh xưng riêng 'Solest' và 'Gettamba' (orchestrator)
