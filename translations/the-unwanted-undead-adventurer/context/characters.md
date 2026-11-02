@@ -23,7 +23,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 26: Đến Hội Mạo Hiểm Giả đăng ký danh tính mạo hiểm giả mới Rentt Vivie (nhận họ của Lorraine) và nhận ủy thác săn Orc; sau đó quay lại khu vực chưa khai phá ở Mê Cung Nguyệt Ảnh khám phá ma pháp trận thứ hai và tìm thấy căn phòng ẩn có bộ hài cốt; chạm trán nữ ma pháp sư tóc trắng mắt xanh sở hữu ma pháp áp đảo, được tha mạng và tặng áo chùng đen cùng ma cụ Bản Đồ Akasha để đổi lấy lời hứa giữ bí mật về căn phòng; bị dịch chuyển về lối vào mê cung và quay về Maalt.
+- Trạng thái tính đến chương 27: Cùng Lorraine thử nghiệm ma cụ Bản Đồ Akasha (phát hiện tính năng vẽ bản đồ và theo dõi tên mạo hiểm giả ở khu vực đã khám phá hết); nhận tiền bán Ma Tinh từ Lorraine giúp tài chính ổn định sau khi đặt cọc rèn kiếm; quay lại ngõ cụt ở Mê Cung Nguyệt Ảnh thì lối vào bí mật đã biến thành bức tường đá phẳng lì; củng cố quyết tâm tiếp tục thăng cấp trở thành mạo hiểm giả Mithril Cấp.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -47,7 +47,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 24: Dành trọn ngày tiến hành các thí nghiệm thể chất lên Rentt (chụp ảnh bằng Tinh Thể Ghi Hình, thử độc, kiểm tra tiêu hóa thuốc và thức ăn); trích máu của mình bỏ vào lọ ếm ma pháp bảo quản tặng Rentt để giúp anh kiềm chế cơn khát máu của Thi Quỷ; chỉ ra Rentt quá nổi tiếng và được Hội đánh giá cao nên không thể dùng danh tính cũ nếu xuất hiện trong hình hài dị thường; đề xuất Rentt đổi họ để đăng ký danh tính mạo hiểm giả mới.
+- Trạng thái tính đến chương 27: Cùng Rentt kiểm tra ma cụ Bản Đồ Akasha, phát hiện ma cụ chỉ đáp ứng ma lực của Rentt và có khả năng phòng thủ ma pháp/vật lý cực cao như giáp trụ; bán giúp Ma Tinh từ mê cung giúp Rentt có tiền chi tiêu; cảnh báo Rentt về sự nguy hiểm khôn lường của người phụ nữ tóc trắng.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.

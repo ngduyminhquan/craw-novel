@@ -31,7 +31,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | reviewed |  |
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | done |  |
 | 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | done |  |
-| 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | todo |  |
+| 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | done |  |
 | 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | todo |  |
 | 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | todo |  |
 | 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | todo |  |
@@ -411,3 +411,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#25] Dịch danh tính mới của Rentt 'Rentt Vivie' — tạm chọn giữ nguyên 'Rentt Vivie' (mượn họ của Lorraine Vivie theo quy tắc tên phương Tây). Tạm dùng trong bản dịch: 'Rentt Vivie'. → Chốt giữ nguyên 'Rentt Vivie'. (orchestrator) (orchestrator)
 - [#26] Dịch thuật ngữ/ma cụ 'Map of Akasha' (アカシャの地図) — tạm chọn 'Bản Đồ Akasha' theo quy tắc viết hoa ma cụ/vật phẩm (phương án khác: 'Bản đồ Akasha', 'Bản Đồ Akashic'). → Chốt 'Bản Đồ Akasha'. (orchestrator) (orchestrator)
 - [#26] Xưng hô giữa Rentt và người phụ nữ bí ẩn tóc trắng (nữ ma pháp sư bí ẩn trong căn phòng ẩn) — người phụ nữ xưng 'ta' gọi 'ngươi' (phù hợp phong thái thực thể cổ xưa hùng mạnh, đối đãi với kẻ đột nhập như trộm/trẻ con); Rentt xưng 'tôi' gọi 'cô' (thận trọng, dè dặt trước kẻ nắm sinh sát của mình). → Chốt người phụ nữ xưng 'ta' - gọi 'ngươi', Rentt xưng 'tôi' - gọi 'cô'. (orchestrator) (orchestrator)
+- [#27] Dịch cấp bậc 'lower Silver-class' — tạm chọn 'Hạ Ngân Cấp' (nhất quán với Hạ Đồng Cấp; phương án khác: 'Ngân Cấp sơ kỳ', 'Ngân Cấp bậc thấp'). → Chốt 'Hạ Ngân Cấp' (nhất quán với Hạ Đồng Cấp). (orchestrator) (orchestrator)

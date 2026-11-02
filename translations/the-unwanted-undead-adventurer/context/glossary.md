@@ -21,6 +21,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
 | upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
 | Silver-class |  | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級) |
+| lower Silver-class |  | Hạ Ngân Cấp | cấp bậc | 27 | Phân bậc thấp trong Ngân Cấp |
 | Gold-class |  | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class | Platinum | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
 | Mithril-class |  | Mithril Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả truyền kỳ đỉnh cao (ミスリル級) |

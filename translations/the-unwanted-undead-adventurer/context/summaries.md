@@ -155,3 +155,9 @@ Rentt quay lại khu vực chưa khai phá ở Mê Cung Nguyệt Ảnh để kh�
 Trong lúc tìm kiếm, Rentt bất ngờ bị một người phụ nữ tóc trắng mắt xanh mặc áo chùng đen xuất hiện từ phía sau chất vấn và dùng ma pháp hỏa diễm cực mạnh tấn công vì ngỡ anh là kẻ trộm xâm nhập chốn thiêng liêng.
 Sau khi đòn đánh đốt cháy áo chùng làm lộ thân thể Thi Quỷ của Rentt và nghe lời trần tình của anh, người phụ nữ nhận ra hiểu lầm, thu hồi sát ý, xin lỗi và tặng Rentt chiếc áo chùng đen của mình cùng ma cụ Bản Đồ Akasha có khả năng tự động vẽ bản đồ mê cung để đổi lấy lời hứa không tiết lộ căn phòng cho Hội; sau đó cô dùng ma pháp dịch chuyển tiễn anh ra lối vào mê cung, để Rentt mang theo đầy nỗi băn khoăn quay về Maalt.
 
+## 27
+Rentt trở về nhà Lorraine và cùng cô kiểm tra ma cụ Bản Đồ Akasha do người phụ nữ tóc trắng trao tặng; hai người phát hiện ma cụ chỉ nhận diện ma lực của Rentt, có khả năng định vị kèm tên những người đang thám hiểm ở các tầng/mê cung mà Rentt đã khám phá trọn vẹn, đồng thời sở hữu độ bền cùng khả năng kháng ma pháp vượt trội như một trang bị phòng hộ.
+Lorraine bán giúp số Ma Tinh nhặt được ở khu vực chưa khai phá giúp Rentt có nguồn tiền ổn định sau khi đã đặt cọc cho Clope; Rentt bày tỏ ý định lách chữ nghĩa lời hứa để quay lại khu vực chưa khai phá tìm hiểu danh tính người phụ nữ bí ẩn dù Lorraine cảnh báo về sự nguy hiểm.
+Ngày hôm sau Rentt quay lại ngõ cụt ở Mê Cung Nguyệt Ảnh thì lối vào ma pháp trận bí mật đã biến thành bức tường đá phẳng mịn không còn dấu vết; mất hết manh mối, Rentt siết chặt quyết tâm tiếp tục thăng hạng để một ngày nào đó trở thành mạo hiểm giả Mithril Cấp và đứng ngang hàng với Rồng cùng người phụ nữ ấy.
+
+
