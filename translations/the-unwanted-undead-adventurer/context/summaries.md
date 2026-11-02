@@ -731,3 +731,10 @@ Sharl Stheno mang ra chiếc túi ma thuật sờn cũ nhưng có phẩm cấp c
 Để xóa bỏ khúc mắc cũ sau vụ việc với Nive Maris và đầu tư cho mạo hiểm giả có tiềm năng chạm tới Mithril Cấp, Sharl đồng ý bán lỗ chiếc túi cho Rentt với giá 1.800 đồng vàng (18 đồng bạch kim).
 Hoàn tất giao dịch mua túi ma thuật, Rentt quyết tâm đến Hội Mạo Hiểm Giả để đàm phán với Hội Trưởng Maalt nhằm hợp nhất hai danh tính "Rentt Faina" và "Rentt Vivie" trước khi lên đường về quê nhà Hathara.
 
+## 125
+Rentt đến Hội Mạo Hiểm Giả vào giờ muộn và nhờ Sheila dẫn vào gặp Hội Trưởng Maalt để giải quyết vấn đề đăng ký hai danh tính.
+Tại văn phòng, Rentt đối diện với Hội Trưởng Wolf Hermann — cựu mạo hiểm giả vạm vỡ mang vết sẹo lớn ở mắt trái do đích thân Tổng Hội Trưởng Yaaran bổ nhiệm.
+Wolf vạch trần ngay việc Rentt Vivie và Rentt Faina là cùng một người nhờ phong cách chiến đấu, nơi ở và kết quả bài thi thăng hạng Đồng Cấp; đồng thời bày tỏ sự tiếc nuối khi Rentt mất tích vì từng muốn tuyển mộ anh làm nhân viên giảm tỷ lệ tử vong cho hội.
+Wolf đề nghị ký khế ước ràng buộc ma pháp bảo mật bí mật và hứa sẽ biệt đãi, giải quyết êm thấm vụ đăng ký hai lần nếu Rentt kể rõ lý do che giấu thân phận.
+Sau khi Wolf chia sẻ bí mật rằng bản thân từng ôm ấp giấc mơ vươn tới Mithril Cấp thời còn làm mạo hiểm giả, Rentt tìm thấy sự đồng cảm sâu sắc và quyết định đặt trọn niềm tin vào vị Hội Trưởng.
+

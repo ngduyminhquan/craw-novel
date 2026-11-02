@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T21:00:47Z",
+  "generatedAt": "2026-11-02T21:07:44Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2897,6 +2897,12 @@
           "title": "Chương 124: Tập 5 Chương 2 - Chế Tạo Vật Dẫn (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_124.md",
           "sha": "5a1bd8e191fed761b35294b3220bf9345a98973f"
+        },
+        {
+          "number": 125,
+          "title": "Chương 125: Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_125.md",
+          "sha": "59f9a1168ec250f6054a051841a9ea043d9f649d"
         }
       ]
     },

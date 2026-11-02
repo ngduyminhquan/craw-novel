@@ -40,6 +40,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zant Currin | Zant Currin / vị thân chủ / người đàn ông | 87 | Cư dân thị trấn Maalt, thân chủ ủy thác dọn dẹp nhà cửa |
 | Sharl Stheno | Sharl / người đàn ông / vị thương nhân | 103 | Chủ Thương hội Stheno |
 | Nive Maris | Nive / cô gái / cô | 104 | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng |
+| Wolf Hermann | Wolf / Hội Trưởng Wolf / ông / người đàn ông | 125 | Hội Trưởng Hội Mạo Hiểm Giả Maalt |
 
 ## Giữa các nhân vật
 
@@ -157,3 +158,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Clope | tôi | anh | 117 | Học giả kiêm mạo hiểm giả quen biết trao đổi với thợ rèn |
 | Clope | Alize | chú | nhóc / cháu | 117 | Thợ rèn xưng hô thân mật, ấm áp với cô bé đệ tử của khách quen |
 | Alize | Clope | cháu | chú | 117 | Đứa trẻ mồ côi lễ phép chào hỏi người thợ rèn quen của Rentt |
+| Rentt Faina | Wolf Hermann | tôi | Hội Trưởng / Hội Trưởng Wolf | 125 | Giao tiếp lịch sự, thẳng thắn với Hội Trưởng |
+| Wolf Hermann | Rentt Faina | tôi | cậu / Rentt / Rentt Faina | 125 | Cựu mạo hiểm giả thẳng thắn, đồng cảm với Rentt |
+| Sheila Ibarss | Wolf Hermann | tôi | Hội Trưởng | 125 | Nhân viên Hội báo cáo cấp trên |
+| Wolf Hermann | Sheila Ibarss | tôi | cô / Sheila | 125 | Hội Trưởng nói chuyện với nhân viên |

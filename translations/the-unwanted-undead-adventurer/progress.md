@@ -129,7 +129,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | reviewed |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | reviewed |  |
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | done |  |
-| 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | todo |  |
+| 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | done |  |
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | todo |  |
 | 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | todo |  |
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | todo |  |
@@ -635,3 +635,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#123] Xác nhận chuẩn hóa 'tinh linh hệ thực vật' ở đoạn 77 → Chốt sửa đoạn 77 thành 'thần tinh linh hệ thực vật' để nhất quán với đoạn 76 trước đó. (orchestrator)
 - [#124] Thuật ngữ món ăn mới 'chocolate': tạm dùng 'sô-cô-la' (phương án khác: 'socola' hoặc giữ nguyên 'chocolate'). → Chốt dùng 'sô-cô-la'. (orchestrator)
 - [#124] Từ 'saint' khi nói về Myullias (đoạn 17, 45): tạm dịch là 'Thánh Nữ' / 'thánh nữ' theo đúng thân phận nữ tư tế của Myullias (phương án khác: 'Thánh Giả' theo mục Saint trong glossary). → Chốt dịch là 'Thánh Nữ' / 'thánh nữ' theo đúng giới tính và danh xưng của Myullias Raiza. (orchestrator)
+- [#125] Dịch tiêu đề arc/chương 'Vol 5 Chapter 3 - Existence and Status (1)' — tạm chọn 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (1)' (phù hợp nội dung bàn về tình trạng đăng ký và việc còn tồn tại của Rentt; phương án khác: 'Tập 5 Chương 3 - Tồn Tại và Thân Phận (1)', 'Tập 5 Chương 3 - Sự Tồn Tại và Địa Vị (1)'). Tạm dùng trong bản dịch: 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (1)'. → Chốt dùng 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (1)'. (orchestrator)
+- [#125] Xưng hô giữa Rentt và Hội Trưởng Wolf Hermann — tạm chọn Wolf xưng 'tôi' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'Hội Trưởng / ông' (phù hợp phong cách cựu mạo hiểm giả thẳng thắn, đồng cảm giấc mơ Mithril Cấp; phương án khác: Wolf xưng 'ta' gọi 'cậu / ngươi', Rentt xưng 'tôi' gọi 'ngài'). Tạm dùng trong bản dịch: Wolf (tôi - cậu), Rentt (tôi - Hội Trưởng / ông). → Chốt Wolf xưng 'tôi' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'Hội Trưởng / ông' (lịch sự, đúng chất cựu mạo hiểm giả). (orchestrator)
+- [#125] Dịch chức danh 'grand guildmaster' của Vương Quốc Yaaran — tạm chọn 'Tổng Hội Trưởng' theo chuẩn Hán Việt cho chức vị đứng đầu toàn hệ thống hội (phương án khác: 'Đại Hội Trưởng'). Tạm dùng trong bản dịch: 'Tổng Hội Trưởng'. → Chốt dùng 'Tổng Hội Trưởng'. (orchestrator)

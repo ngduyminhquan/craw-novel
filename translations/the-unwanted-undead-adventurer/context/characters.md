@@ -51,6 +51,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Adone | Adone the Courtesan | Adone | Kỹ nữ trong lịch sử sở hữu Mị Nhãn mê hoặc quốc vương khiến vương quốc sụp đổ | #113 |
 | Conra |  | Conra | Pháp sư thời xưa không có năng khiếu vẽ vời, triệu hồi nhầm rồng lửa trong một nghi lễ | #121 |
 | Saint Myullias |  | Thánh Nữ Myullias | Cách gọi kèm danh hiệu của Myullias Raiza | #117 |
+| Wolf Hermann | Wolf; Guildmaster Wolf; Hermann | Wolf Hermann | Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả | #125 |
 
 ## Chi tiết
 
@@ -75,6 +76,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 122: Thể hiện sự khéo tay dị thường khi dùng Ma Lực tạc hai bức tượng gỗ sống động của Lorraine và Alize; hoàn thành xuất sắc việc gọt đũa phép, nắn thẳng đường dẫn ma lực và bắt đầu định hình đầu đũa phép kết hợp với Ma Tinh Terra Drake.
 - Trạng thái tính đến chương 123: Hoàn thành đũa phép với phần đầu chạm khắc hình con rồng nuốt viên Ma Tinh Terra Drake cực kỳ tinh xảo bằng thao túng Ma Lực thuần túy; bộc lộ thiên phú dị thường với hỏa ma pháp khi thử nghiệm câu chú Aliumage bùng lên ngọn lửa dữ dội vượt xa thủy ma pháp Mah.
 - Trạng thái tính đến chương 124: Mua được chiếc túi ma thuật đặc biệt có khả năng biến đổi hình dáng (trị giá 2.000–2.500 đồng vàng) từ Sharl Stheno với giá ưu đãi 18 đồng bạch kim (1.800 đồng vàng); tiến đến Hội Mạo Hiểm Giả để đàm phán với Hội Trưởng Maalt nhằm hợp nhất hai danh tính Rentt Faina và Rentt Vivie.
+- Trạng thái tính đến chương 125: Đến gặp Hội Trưởng Wolf Hermann tại Hội Mạo Hiểm Giả Maalt; được Wolf vạch trần thân phận Rentt Faina và thấu hiểu ước mơ chung về việc vươn tới Mithril Cấp; đồng ý tin tưởng và chuẩn bị giãi bày hoàn cảnh dưới sự bảo đảm của khế ước ràng buộc ma pháp.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -381,3 +383,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, thân phận: Nam, pháp sư thời xưa trong giai thoại được giới ma pháp sư lưu truyền.
 - Đặc điểm: Rất có tài hùng biện thuyết phục nên được phong làm Pháp Sư Cung Đình, nhưng hoàn toàn mù tịt về hội họa; trong một nghi lễ quốc gia, do vẽ sai ma pháp trận bắn pháo hoa mà lại sở hữu Ma Lực quá mức kinh người, ông đã triệu hồi nhầm một con rồng lửa thiêu rụi cả một vùng đất.
 - Xuất hiện từ: #121 (được Lorraine nhắc tên).
+
+### Wolf Hermann
+- Giới tính, tuổi/vẻ ngoài: Nam, cựu mạo hiểm giả trung niên vóc người to lớn vạm vỡ, mặc trang phục rộng thùng thình, cánh tay cuồn cuộn cơ bắp ngang ngửa những mạo hiểm giả phong trần nhất; có vết sẹo lớn chạy dọc chính giữa mắt trái, mắt phải sắc bén quắc thước như một chiến binh.
+- Tính cách: Thẳng thắn, bộc trực, ghét lãng phí thời gian nhưng thấu tình đạt lý và rất quan tâm đến cấp dưới; mang ước mơ vươn tới Mithril Cấp thời còn làm mạo hiểm giả và đồng cảm sâu sắc với Rentt.
+- Thân phận, chức nghiệp: Hội Trưởng Hội Mạo Hiểm Giả chi nhánh thị trấn Maalt; từng là mạo hiểm giả cựu binh nhưng phải giải nghệ vì chấn thương mắt; được Tổng Hội Trưởng Yaaran đặc cách bổ nhiệm làm Hội Trưởng Maalt.
+- Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie".
+- Xuất hiện từ: #125.
