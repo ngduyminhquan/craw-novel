@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T14:52:23Z",
+  "generatedAt": "2026-11-02T14:58:31Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2639,6 +2639,12 @@
           "title": "Chương 81: Phần kết Tập 3",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_081.md",
           "sha": "1da644580fe59177486a904d00f1f1636bd56d5c"
+        },
+        {
+          "number": 82,
+          "title": "Chương 82: Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_082.md",
+          "sha": "c7c81195f0c957020d7fecdb41be697b883f2c07"
         }
       ]
     },

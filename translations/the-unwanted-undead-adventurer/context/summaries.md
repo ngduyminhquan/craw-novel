@@ -480,5 +480,11 @@ Giáo Hội Lobelia, một thế lực tôn giáo hùng mạnh ở các vương 
 Khác với sự cuồng tín tuyệt đối của các tư tế cùng giáo hội, Myullias âm thầm hoài nghi về giáo lý cùng sự tồn tại duy nhất của Nữ Thần Lobelia nên bị cấp trên nghi ngờ có suy nghĩ dị giáo và đặt dưới sự giám sát.
 Trên cỗ xe ngựa tiến vào Maalt, tư tế giám sát Gilly lạnh lùng cảnh báo và nhắc nhở Myullias phải cẩn trọng lời ăn tiếng nói để tránh chịu kết cục bi thảm như dũng giả Fourostoroa trong ngụ ngôn xưa.
 
+## 82
+Sheila cầu cứu Rentt và Lorraine vì chủ tịch công đoàn nhân viên Hội lúc say rượu đã lỡ hứa trao giải thưởng quá đắt đỏ cho cuộc thi sắc đẹp thường niên, khiến ngân sách đứng trước nguy cơ cạn kiệt; cô nhờ Lorraine tham gia để đoạt giải nhằm thu hồi phần thưởng về lại cho Hội.
+Lorraine nhận lời kèm điều kiện bí mật bắt Rentt cùng giả gái tham gia; Rentt bị nẹp áo định hình corset và trang điểm công phu, bước ra sân khấu dưới tên giả Adeline Fran / Ren Ireed trong tiếng trêu chọc của Lorraine.
+Lorraine giành giải nhất và Rentt cũng lọt vào vòng chung kết mà không bị ai phát hiện thân phận; trên đường về, Rentt dứt khoát từ chối lời rủ rê tiếp tục giả gái của Lorraine và cầu nguyện không bao giờ phải trải qua tình cảnh này thêm lần nào nữa.
+
+
 
 

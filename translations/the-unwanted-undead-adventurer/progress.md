@@ -86,7 +86,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | reviewed |  |
 | 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | reviewed |  |
 | 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | reviewed |  |
-| 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | todo |  |
+| 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | done |  |
 | 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | todo |  |
 | 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | todo |  |
 | 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | todo |  |
@@ -525,3 +525,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#81] Dịch tiêu đề chương 'Vol 3 Epilogue' — tạm chọn 'Phần kết Tập 3' (nhất quán với 'Mở đầu Tập 1' ở chương 1; phương án khác: 'Đoạn kết Tập 3', 'Lời bạt Tập 3'). Tạm dùng trong bản dịch: 'Phần kết Tập 3'. → Chốt 'Phần kết Tập 3' (đồng bộ với Mở đầu Tập 1 và Phần kết Tập 2) (orchestrator)
 - [#81] Xưng hô giữa Thánh Nữ Myullias Raiza và tư tế giám sát Gilly — tạm chọn Myullias xưng 'tôi' gọi 'anh', Gilly xưng 'tôi' gọi 'cô' (phù hợp quan hệ cùng giáo hội giữa Thánh Nữ trẻ có tư tưởng tự do và tư tế giám sát lạnh lùng; phương án khác: Myullias gọi 'cậu', Gilly gọi 'Thánh Nữ'). Tạm dùng trong bản dịch: tôi - anh / tôi - cô. → Chốt Myullias xưng 'tôi' gọi 'anh', Gilly xưng 'tôi' gọi 'cô' (orchestrator)
 - [#81] Dịch các tên riêng và địa danh mới 'Holy Kingdom of Ars' ('Thánh Vương Quốc Ars'), 'Goddess Lobelia' ('Nữ Thần Lobelia'), 'Vansurt / Wind God' ('Vansurt / Phong Thần'), 'Fourostoroa' ('Fourostoroa') — tạm chọn dịch nghĩa chuẩn Hán Việt cho thần linh/quốc gia và giữ nguyên tên riêng theo rules.md (phương án khác: 'Thánh Quốc Ars', 'Thần Gió Vansurt'). Tạm dùng trong bản dịch: Thánh Vương Quốc Ars, Nữ Thần Lobelia, Phong Thần Vansurt, Fourostoroa. → Chốt 'Thánh Vương Quốc Ars', 'Nữ Thần Lobelia', 'Phong Thần', 'Vansurt', 'Fourostoroa' (orchestrator)
+- [#82] Dịch tiêu đề "Vol 3 Bonus - Rentt and the Beauty Contest" — tạm chọn "Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp" (đồng bộ format với #28). → Chốt 'Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp' (đồng bộ với Ngoại truyện Tập 1 và 2) (orchestrator)
+- [#82] Xưng hô Sheila gọi Lorraine — raw dùng "Miss Lorraine", tạm chọn "cô Lorraine" (thay vì "cô Vivie" ở #40) vì quan hệ đã thân thiết hƢn. → Chốt 'cô Lorraine' sát theo raw (orchestrator)

@@ -33,6 +33,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Laura Latuule |  | Laura Latuule | Đương chủ gia tộc Latuule, cô bé quý tộc sở hữu bộ sưu tập ma cụ đồ sộ | #62 |
 | Myullias Raiza | Myullias | Myullias Raiza | Nữ Thánh Nữ của Giáo Hội Lobelia mang năng lực trị liệu và thanh tẩy | #81 |
 | Gilly |  | Gilly | Tư tế giám sát thuộc Giáo Hội Lobelia đi cùng Myullias | #81 |
+| Adeline Fran |  | Adeline Fran | Tên giả Lorraine nghĩ ra cho Rentt trong cuộc thi sắc đẹp | #82 |
+| Ren Ireed |  | Ren Ireed | Tên giả Rentt dùng khi được gọi tên trong cuộc thi sắc đẹp | #82 |
+| Rennie |  | Rennie | Biệt danh trêu chọc Lorraine gọi Rentt khi giả gái | #82 |
+| Ren-Ren |  | Ren-Ren | Biệt danh trêu chọc Lorraine gọi Rentt khi giả gái | #82 |
 
 ## Chi tiết
 
