@@ -20,7 +20,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | reviewed |  |
 | 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | reviewed |  |
 | 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | reviewed |  |
-| 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | todo |  |
+| 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | done |  |
 | 17 |  | Chapter_017 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2) | todo |  |
 | 18 |  | Chapter_018 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3) | todo |  |
 | 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -387,3 +386,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#15] Dịch thuật ngữ 'thrice-blessed' — tạm chọn 'Tam Chúc Phúc' (phương án khác: 'Tam Trùng Phúc', 'Người Mang Tam Chúc Phúc'). → Chốt Tam Chúc Phúc (Thrice-blessed) ngắn gọn theo quy tắc Hán Việt. (orchestrator)
 - [#15] Xưng hô giữa vợ chồng thợ rèn Clope và Luka — tạm chọn Luka xưng em gọi anh, Clope xưng anh gọi em (hai người là vợ chồng kiêm bạn thanh mai trúc mã). → Chốt Luka xưng em gọi anh, Clope xưng anh gọi em. (orchestrator)
 - [#15] Xưng hô Clope và Rentt — Clope xưng tôi gọi cậu (thân thiện, bộc trực), Rentt xưng tôi gọi anh (lịch sự, khiêm nhường). → Chốt Clope xưng tôi gọi cậu, Rentt xưng tôi gọi anh. (orchestrator)
+- [#16] Dịch cụm 'Troublesome Restrictions' trong tiêu đề arc — tạm chọn 'Những Ràng Buộc Phiền Phức' (phương án khác: 'Những Ràng Buộc Rắc Rối', 'Những Giới Hạn Phiền Toái'). → Chốt 'Những Ràng Buộc Phiền Phức' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 1 Chương 4. (orchestrator)
+- [#16] Xưng hô giữa Rentt và người đàn ông trung niên chủ quán ăn — tạm chọn Rentt gọi người đàn ông là 'ông' xưng 'tôi', người đàn ông gọi Rentt là 'cậu' xưng 'tôi' (phương án khác: Rentt gọi 'anh'). → Chốt Rentt gọi ông xưng tôi, người đàn ông trung niên gọi cậu xưng tôi. (orchestrator)

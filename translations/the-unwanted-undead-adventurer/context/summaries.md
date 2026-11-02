@@ -93,4 +93,10 @@ Rentt tiết lộ bản thân là người mang Tam Chúc Phúc (dùng cả Ma L
 Vào xưởng rèn gặp chủ tiệm Clope, Rentt kiên nhẫn ngồi ngắm người thợ rèn say mê đập búa; sau đó Clope đồng ý nhận đơn đặt hàng đặc biệt và hai bên chốt thỏa thuận bằng một cái bắt tay.
 Đoạn kết chuyển sang góc nhìn của Luka: vợ chồng Luka và Clope đã sớm nhận ra vị khách trùm kín mặt nạ chính là Rentt nhờ những manh mối cố tình để lại; dù đau lòng và lo lắng trước biến cố của anh, cả hai quyết định tôn trọng bí mật của Rentt và toàn tâm dốc sức rèn kiếm cho anh.
 
+## 16
+Rentt mượn kiếm tạm từ tiệm Ba Chĩa và quay lại Mê Cung Nguyệt Ảnh để khảo sát, lập bản đồ khu vực chưa từng khám phá nơi anh chạm trán Rồng.
+Trên đường đi, anh tiện tay cứu một người đàn ông trung niên (chủ quán ăn nợ nần ngập đầu, liều mình làm mạo hiểm giả kiếm 50 đồng vàng) khỏi Slime.
+Nhận thấy người đàn ông bám theo gây vướng víu nhưng bản thân lại không tiện lộ diện nhận thưởng khám phá khu vực mới, Rentt quyết định nhường phát hiện này cho ông ta báo cáo với Hội để lấy tiền trả nợ.
+Để níu giữ tính người và chống lại nỗi bất an đánh mất bản ngã kể từ khi biến thành Ngạ Quỷ, Rentt nhận người đàn ông làm phụ tá xách đồ và cả hai cùng tiến về phía căn phòng của Rồng.
+
 
