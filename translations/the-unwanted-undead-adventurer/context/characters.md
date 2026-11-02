@@ -318,6 +318,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lịch sự, nhã nhặn, chuẩn mực thương nhân, xưng "tôi", gọi Rentt là "ngài Rentt" (Sir Rentt).
 - Quan hệ: Đứng ra làm trung gian thu xếp cuộc gặp giữa Rentt và vị khách mua xác Tarasque.
 - Xuất hiện từ: #103.
+- Trạng thái tính đến chương 106: Dù bị Nive mượn uy thế Giáo Hội Lobelia gây sức ép, vẫn tìm đủ lý do trì hoãn để che chở cho Rentt; kiên quyết có mặt tại phòng gặp mặt đối diện nguy hiểm nhằm bảo vệ thân chủ; được Rentt đánh giá cao về lòng tự trọng và tinh thần trách nhiệm của một thương nhân chân chính.
 
 ### Nive Maris
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc 20–25 tuổi, tóc màu xám tro, đôi mắt đỏ rực sáng lấp lánh khó đoán định biểu cảm hay ý đồ; vóc dáng xinh đẹp hút hồn.
@@ -325,4 +326,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp đến từ láng giềng, tiệm cận Bạch Kim Cấp nhất về thực lực; được phong tước vị Nữ Chuẩn Nam tước (Baronetess) nhờ chiến công tiêu diệt một con Trung Cấp Ma Cà Rồng cùng bầy đàn của nó trong thành phố lớn; chuyên săn Ma Cà Rồng bằng phương pháp/kỹ thuật phát hiện đặc thù dựa trên Thần Lực.
 - Cách nói chuyện: Tự nhiên, suồng sã, xởi lởi, tự xưng "tôi", gọi Rentt là "ngài Rentt" (Mister Rentt), gọi Sharl là "ngài Sharl" (Mister Sharl), gọi Myullias là "Tiểu thư Myullias" (Lady Myullias).
 - Xuất hiện từ: #104.
-- Trạng thái tính đến chương 105: Sử dụng Thánh Hỏa kiểm tra Sharl và Rentt, kết luận cả hai không phải Ma Cà Rồng; không hề nhận ra Rentt thực chất là Undead.
+- Trạng thái tính đến chương 106: Tuyên bố Rentt và Sharl trong sạch sau bài kiểm tra Thánh Hỏa; thừa nhận mượn thế lực Giáo Hội Lobelia gây sức ép để gặp Rentt vì nghi ngờ anh là Ma Cà Rồng; chuẩn bị đưa ra thỉnh cầu tìm kiếm mạo hiểm giả có năng lực.

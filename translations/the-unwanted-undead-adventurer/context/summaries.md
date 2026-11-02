@@ -618,14 +618,9 @@ Sau khi xong với Sharl, Nive tiếp tục nhắm tới Rentt; bất chấp Ren
 Rentt hoảng hốt lo sợ lộ thân phận quái vật nhưng kinh ngạc nhận ra ngọn lửa không hề nóng mà chỉ như cù nhẹ, thậm chí còn kích thích Thần Lực trong anh trở nên sôi nổi, khoan khoái như ngâm bồn nước nóng.
 Ngọn lửa lụi tàn, Nive dõng dạc tuyên bố Rentt hoàn toàn không phải Ma Cà Rồng; Rentt vừa mừng rỡ vì thoát nạn vừa thầm bất lực trước sự nhầm lẫn trớ trêu này.
 
-
-
-
-
-
-
-
-
-
-
+## 106
+Myullias giải thích Thánh Hỏa chỉ người có Thần Lực mới thấy nên hành vi né tránh của Rentt trông như đang tự múa may trong mắt Sharl; Nive tuyên bố cả hai không phải Ma Cà Rồng và giải tỏa mọi nghi ngờ.
+Myullias và Nive hé lộ lý do cuộc gặp: Nive mượn uy thế của Giáo Hội Lobelia để gây sức ép, nhưng Sharl đã tìm mọi cách che chở cho thân chủ và chấp nhận đối mặt hiểm nguy có mặt tại phòng để bảo vệ Rentt.
+Nhận ra sự tử tế và lòng tự trọng nghề nghiệp đáng quý của Sharl, Rentt bỏ qua mọi bất bình và thầm cảm kích vị thương nhân.
+Chương kết thúc khi Rentt thẳng thắn gặng hỏi lý do Nive nghi ngờ mình là Ma Cà Rồng, và Nive chuẩn bị tiết lộ mục đích thực sự cùng một lời thỉnh cầu dành riêng cho anh.
 
