@@ -34,7 +34,7 @@ Có lẽ là do quá tự tin vào năng lực của bản thân. Hoặc cũng c
 
 Cuối cùng, một cánh cổng đôi đồ sộ hiện ra trước mắt tôi.
 
-Chà, giờ thì... ta nên làm gì tiếp theo đây?
+Chà, giờ thì... mình nên làm gì tiếp theo đây?
 
 Hay đúng hơn thì ngay từ đầu mình nên làm gì? Cánh cổng này rõ ràng là lối vào một phòng thủ lĩnh. Liệu cứ thế bước vào trong có ổn không?
 
@@ -64,7 +64,7 @@ Những chuyện bất thường và kỳ quặc thỉnh thoảng vẫn xảy đ
 
 Thế nên... tôi cho rằng như vậy là ổn. Tôi không sai; tôi không hề liều lĩnh.
 
-Tôi dùng lực đẩy mạnh cánh cổng và lặng lẽ dõi nhìn khi chúng mở toang ra cùng một tiếng ầm trầm đục.
+Tôi dùng lực đẩy mạnh cánh cổng và lặng lẽ dõi nhìn khi hai cánh cửa mở toang ra cùng một tiếng ầm trầm đục.
 
 À. Có vẻ như rốt cuộc đây vẫn là một phòng thủ lĩnh bình thường.
 
@@ -86,7 +86,7 @@ Rồi tôi liếc nhìn về phía cánh cửa. Cánh cửa tuyệt nhiên khôn
 
 Với suy nghĩ đó trong đầu, tôi có thể phỏng đoán một cách hợp lý rằng đây không phải là loại phòng thủ lĩnh không thể trốn thoát. Dĩ nhiên vẫn có khả năng cánh cửa được chế tạo từ một loại vật liệu đặc biệt nào đó, khiến nó trở nên khó phá hủy trong tình huống ấy. Thế nhưng, trông nó chẳng khác là bao so với những bức tường đá xung quanh.
 
-Có lẽ việc nghĩ tới đường rút lui ngay trước khi trận chiến bắt đầu nghe có vẻ hơi ngớ ngẩn, nhưng đây cũng là một chiến thuật quan trọng cần phải cân nhắc. Nếu những yếu tố nắm trong tay là như vậy, thì... được thôi.
+Có lẽ việc nghĩ tới đường rút lui ngay trước khi trận chiến bắt đầu nghe có vẻ hơi ngớ ngẩn, nhưng đây cũng là một chiến thuật quan trọng cần phải cân nhắc. Nếu tình hình trước mắt đã rõ ràng như vậy, thì... được thôi.
 
 Tập trung tinh thần, tôi chậm rãi bước vào trong phòng. Cánh cửa không hề có dấu hiệu khép lại ngay cả khi tôi đã tiến gần tới khu vực trung tâm căn phòng. Đúng như dự liệu của tôi, việc đào thoát khỏi cuộc chạm trán này là hoàn toàn khả thi.
 
@@ -120,7 +120,7 @@ Nói chính xác thì đây là ma pháp nguyên tố. So với ma thuật mà l
 
 Thêm vào đó, còn có những cách khác để tận dụng ma pháp nguyên tố một cách đầy lợi thế, và một trong số đó chính là điều tôi vừa được chứng kiến.
 
-Đó là khả năng biến môi trường xung quanh thành vũ khí. Chẳng hạn, nếu ma pháp nguyên tố thổ được sử dụng ở một nơi dồi dào đất đá, việc thu thập và trích xuất chúng từ môi trường xung quanh sẽ vô cùng đơn giản. Lượng ma pháp cần thiết để thực hiện điều này cũng sẽ giảm bớt, và người ta có thể gia tăng sức tàn phá của phép thuật, hoặc thậm chí là cường hóa ma pháp của bản thân. Đây chính xác là những gì con Terra Drake trước mắt tôi đã làm. Nó đã gom góp đất đá từ xung quanh, rồi dùng chúng để tạo nên một tấm khiên chống đỡ các đòn tấn công của tôi.
+Đó là khả năng biến môi trường xung quanh thành vũ khí. Chẳng hạn, nếu ma pháp nguyên tố thổ được sử dụng ở một nơi dồi dào đất đá, việc thu thập và trích xuất chúng từ môi trường xung quanh sẽ vô cùng đơn giản. Lượng Ma Lực cần thiết để thực hiện điều này cũng sẽ giảm bớt, và người ta có thể gia tăng sức tàn phá của phép thuật, hoặc thậm chí là cường hóa ma pháp của bản thân. Đây chính xác là những gì con Terra Drake trước mắt tôi đã làm. Nó đã gom góp đất đá từ xung quanh, rồi dùng chúng để tạo nên một tấm khiên chống đỡ các đòn tấn công của tôi.
 
 Xét theo đặc điểm địa hình quanh tôi, hoàn toàn có thể mặc định rằng những tảng đá mà nó đang sử dụng có chứa các mạch Ma Thiết với hàm lượng cao. Những tảng đá này, đến lượt mình, lại được ma pháp của Terra Drake gia cố thêm và tạo thành một lớp phòng thủ đáng gờm.
 
@@ -146,7 +146,7 @@ Mình phải tránh bị trúng thêm một đòn nữa...
 
 Nếu lại né sang bên cạnh một lần nữa, tôi sẽ chỉ đơn giản là dính thêm một cú quất đuôi nữa mà thôi. Trong trường hợp đó thì...
 
-Tôi giữ nguyên tư thế bất động, để mặc cho con Drake tiếp tục lao tới. Tôi đang nhắm vào một thời khắc chuẩn xác, với một bàn chân đạp lên vách tường, ngay trước khi nó húc trúng tôi.
+Tôi giữ nguyên tư thế bất động, để mặc cho con Drake tiếp tục lao tới. Tôi đang nhắm vào một thời khắc chuẩn xác, đặt một chân tựa lên vách tường, ngay trước khi nó húc trúng tôi.
 
 Mục tiêu của tôi là phần lưng của con Terra Drake.
 
@@ -160,7 +160,7 @@ Làm ơn... hãy thành công đi.
 
 Chậm rãi nhưng chắc chắn, những hạt cát của khoảng thời gian đông kết vẫn cứ tiếp tục trôi đi.
 
-Cái đầu của con Terra Drake giờ đã tới đủ gần... Tôi chậm rãi vươn chân ra, nhắm vào bề mặt của nó. Con quái vật vẫn chưa hề nhận ra.
+Cái đầu của con Terra Drake giờ đã tới đủ gần... Tôi chậm rãi vươn chân ra, nhắm vào đỉnh đầu nó. Con quái vật vẫn chưa hề nhận ra.
 
 Con Drake húc sầm vào nơi tôi vừa đứng cách đó vài khoảnh khắc, hất tung một đám bụi mù mịt, che khuất tầm nhìn của nó.
 

@@ -60,6 +60,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 91: Phối hợp cùng Edel tiêu diệt ba con Orc Binh; nhận biết dấu hiệu bất thường khi quái vật tầng sâu xuất hiện ở tầng nông và lưu tâm báo cho Sheila về nguy cơ quái triều; tiến xuống tầng ba (biển cây) thu thập nguyên liệu Ent Jyulapus và đối mặt đàn khỉ Kesem Kofu.
 - Trạng thái tính đến chương 92: Phối hợp cùng Edel tiêu diệt đàn khỉ Kesem Kofu ở tầng ba Mê Cung Tân Nguyệt; dùng Ma Lực hạ gục một con Ent Jyulapus (bảo toàn nguyên vẹn thân gỗ) thu hoạch nguyên liệu làm đũa phép cho Alize và bản thân.
 - Trạng thái tính đến chương 96: Khám phá ra khả năng tự hồi phục nhanh chóng trước các vết thương chém nhẹ ngoài da nhờ đặc tính của Ma Cà Rồng nhưng có giới hạn và tiêu tốn thể lực; chứng kiến ảo ảnh kỳ bí về một cô bé 5-6 tuổi và một Khô Lâu có tri giác mang hình xăm phát sáng trên hộp sọ tại tầng 4 Mê Cung Tân Nguyệt.
+- Trạng thái tính đến chương 99: Đơn thương độc mã tiêu diệt Terra Drake tại phòng thủ lĩnh tầng bốn Mê Cung Tân Nguyệt bằng Ma Khí Dung Hợp Thuật; khai thác quặng Ma Thiết tại khu mỏ cổ đại; tận mắt chứng kiến con Rồng Đất khổng lồ dài 50 mét đang say ngủ và thoát nạn nhờ che giấu khí tức; trở về an toàn và thu xếp nguyên liệu nhờ Clope rèn vũ khí cho Alize.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

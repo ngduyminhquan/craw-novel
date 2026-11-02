@@ -26,7 +26,7 @@ Dù không phải đang đối diện với một ngọn núi, tôi vẫn nhận
 
 Đó là một cái hố khổng lồ dưới lòng đất; một hố sụt dạng hang động sâu hoắm. Không gian này vô cùng rộng lớn, trải dài ít nhất cả cây số về mỗi hướng chính. Trần hang cũng cao vời vợi.
 
-Dẫu xung quanh tối tăm và tầm nhìn rất kém, tôi vẫn có thể khẳng định chắc chắn rằng nơi này khác hẳn với những đường hầm mà tôi đã đi qua từ trước đến giờ. Thêm vào đó, có rất nhiều trang thiết bị—có lẽ là ma cụ—nằm vương vãi khắp nơi. Nơi này gợi cho tôi nhớ đến một khu mỏ. Thậm chí còn có cả đường ray cùng những chiếc xe goòng chở quặng nằm rải rác. Xét trên mọi phương diện, đây dường như là một không gian do nhân tạo tạo nên.
+Dẫu xung quanh tối tăm và tầm nhìn rất kém, tôi vẫn có thể khẳng định chắc chắn rằng nơi này khác hẳn với những đường hầm mà tôi đã đi qua từ trước đến giờ. Thêm vào đó, có rất nhiều trang thiết bị—có lẽ là ma cụ—nằm vương vãi khắp nơi. Nơi này gợi cho tôi nhớ đến một khu mỏ. Thậm chí còn có cả đường ray cùng những chiếc xe goòng chở quặng nằm rải rác. Xét trên mọi phương diện, đây dường như là một không gian do bàn tay con người tạo nên.
 
 Thế nhưng, đây lại là một địa điểm nằm bên trong mê cung. Con người gần như không thể nào tự dưng tạo ra một khu mỏ ở nơi này, thế nên hoàn toàn có cơ sở để suy đoán rằng đây cũng là thứ được tạo tác bởi cơ chế bí ẩn của mê cung.
 
@@ -126,7 +126,7 @@ Tôi cảm thấy một làn sóng kinh hoàng ập đến bao trùm lấy mình
 
 Tôi không thể để con quái vật phát hiện ra mình, nhận biết được sự hiện diện của tôi. Theo bản năng, tôi cảm thấy một thôi thúc mãnh liệt; tôi phải rời khỏi nơi này càng sớm càng tốt.
 
-Chẳng hiểu vì sao trong suốt hành trình tiến xuống tầng 4, tôi đã luôn cảm thấy mình có thể tiếp tục tiến bước. Miễn là tôi thận trọng trong từng bước đi, tôi sẽ không phải đối mặt với bất kỳ hiểm nguy chí mạng nào.
+Chẳng hiểu vì sao trong suốt hành trình tiến xuống tầng bốn, tôi đã luôn cảm thấy mình có thể tiếp tục tiến bước. Miễn là tôi thận trọng trong từng bước đi, tôi sẽ không phải đối mặt với bất kỳ hiểm nguy chí mạng nào.
 
 Trước chuyến hành trình, tôi đã đọc kỹ tài liệu về các chủng loại quái vật cùng sức mạnh của chúng, các loại bẫy rập và đủ mọi hiểm nguy khác hiện diện ở nơi đây. Phỏng đoán rằng mình có thể tiếp tục dấn bước chẳng qua chỉ là một sự tự trấn an nội tâm mà thôi.
 
@@ -178,7 +178,7 @@ Quả không hổ danh là Rồng Đất.
 
 Tất cả những gì tôi có thể làm là đứng chôn chân tại đó, hết sức cẩn trọng để không phát ra bất kỳ âm thanh nào trong lúc làm mọi cách để che giấu sự hiện diện của mình.
 
-Một cơn mưa nhỏ gồm đất đá và mảnh vụn bắn tung tóe từ hành động đào bới của con Rồng. Về phần mình, tôi phải né tránh, dựng ma pháp Khiên Chắn... Có quá nhiều việc tôi phải làm. Đống đất đá bắn ra đó thậm chí còn chẳng phải một dạng tấn công, mà chỉ đơn thuần là tác động phụ từ chuyển động dưới lòng đất của con Rồng Đất mà thôi. Thế nhưng, mỗi một mảnh đá riêng lẻ lại mang uy lực chẳng kém gì những ngọn giáo đá của con Terra Drake... Nó thực sự quá đỗi kinh hoàng.
+Một cơn mưa nhỏ gồm đất đá và mảnh vụn bắn tung tóe từ hành động đào bới của con Rồng. Về phần mình, tôi phải né tránh, dựng ma pháp Khiên Chắn... Có quá nhiều việc tôi phải làm. Đống đất đá bắn ra đó thậm chí còn chẳng phải một dạng tấn công, mà chỉ đơn thuần là tác động phụ từ chuyển động dưới lòng đất của con Rồng Đất mà thôi. Thế nhưng, mỗi một mảnh đá riêng lẻ lại mang uy lực chẳng kém gì những ngọn thổ thương của con Terra Drake... Nó thực sự quá đỗi kinh hoàng.
 
 Chắc chắn một mạo hiểm giả Mithril Cấp sẽ có thể trực diện giao chiến với một thứ như vậy. Tôi bỗng nhận thức sâu sắc rằng bản thân còn cách mục tiêu của mình xa đến nhường nào.
 
@@ -196,11 +196,11 @@ Nếu đây là cách con quái thú này luôn di chuyển xung quanh, thì đ�
 
 Nếu tôi không phải là một Undead, và không có một tâm thế khác biệt so với phần lớn con người, có lẽ tôi đã chỉ biết đứng chết trân tại chỗ, không thể nhúc nhích, hoặc thậm chí sợ đến mức tè cả ra quần rồi. Nỗi khiếp sợ tột cùng mà tôi cảm nhận được chính là như vậy đấy.
 
-Tôi vẫn có thể cảm nhận được áp lực của con Rồng Đất, tựa như những mũi kim sắc nhọn châm chích trên da thịt, dù giờ đây nó đã ở cách một khoảng khá xa. Nếu ma lực của con Rồng Đất ví như một hồ nước, thì lượng ma lực dự trữ của tôi chẳng qua chỉ là một chén nước nhỏ nhoi.
+Tôi vẫn có thể cảm nhận được áp lực của con Rồng Đất, tựa như những mũi kim sắc nhọn châm chích trên da thịt, dù giờ đây nó đã ở cách một khoảng khá xa. Nếu Ma Lực của con Rồng Đất ví như một hồ nước, thì lượng Ma Lực dự trữ của tôi chẳng qua chỉ là một chén nước nhỏ nhoi.
 
 Xét kích thước khổng lồ của nó... ngay cả khi tôi có vung kiếm nhắm vào nó, liệu những đòn tấn công của tôi có khác gì những que tăm chọc vào nó không? Liệu nó có cảm thấy chút gì không? Tôi không tin mình có thể làm nó bị thương, hay thực sự làm được bất cứ điều gì tổn hại đến nó.
 
-Một mạo hiểm giả có thể giữ được bình tĩnh trước một cuộc chạm trán như vậy... Ít nhất họ cũng phải thuộc Bạch Kim Cấp. Mà chẳng có lấy một ai trong số những cá nhân ấy lại cắm chốt ở tầng 4 này cả.
+Một mạo hiểm giả có thể giữ được bình tĩnh trước một cuộc chạm trán như vậy... Ít nhất họ cũng phải thuộc Bạch Kim Cấp. Mà chẳng có lấy một ai trong số những cá nhân ấy lại cắm chốt ở tầng bốn này cả.
 
 ...Phù.
 

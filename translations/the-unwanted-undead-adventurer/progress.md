@@ -101,9 +101,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | reviewed |  |
 | 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | reviewed |  |
 | 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | reviewed |  |
-| 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | done |  |
-| 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | done |  |
-| 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | done |  |
+| 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | reviewed |  |
+| 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | reviewed |  |
+| 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | reviewed |  |
 | 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | todo |  |
 | 101 |  | Chapter_101 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8) | todo |  |
 | 102 |  | Chapter_102 - Vol 4 Chapter 3 - The Stheno Trading Company (1).txt | Vol 4 Chapter 3 - The Stheno Trading Company (1) | todo |  |
@@ -574,3 +574,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#99] Dịch danh xưng và tên nhân vật truyền thuyết 'Good King Felt' / 'Good King' — tạm chọn 'Hiền Vương Felt' / 'Hiền Vương' (chuẩn danh xưng tôn quý cho vị minh quân nhân từ trong truyền thuyết; phương án khác: 'Vua Felt Nhân Từ', 'Minh Vương Felt'). Tạm dùng trong bản dịch: 'Hiền Vương Felt' / 'Hiền Vương'. → Giữ 'Hiền Vương Felt' / 'Hiền Vương' (善王フェルト). (orchestrator)
 - [#99] Dịch tên quốc gia và cơ sở giáo dục 'Empire of Rermutt' / 'Rermutt First University' (alma mater của Lorraine) — tạm chọn 'Đế Quốc Rermutt' và 'Đệ Nhất Đại Học Rermutt' (chuẩn phong cách phương Tây; phương án khác: 'Đại Học Số Một Rermutt', 'Đại Học Đệ Nhất Rermutt'). Tạm dùng trong bản dịch: 'Đế Quốc Rermutt' và 'Đệ Nhất Đại Học Rermutt'. → Giữ 'Đế Quốc Rermutt' và 'Đệ Nhất Đại Học Rermutt'. (orchestrator)
 - [#99] Cảnh báo QA 'Iron-class' và 'familiar' — tạm giữ nguyên 'Ma Thiết' và tính từ 'quen thuộc' trong bản dịch, do alias 'Iron' của 'Iron-class' và từ đa nghĩa 'familiar' trong glossary.md bắt nhầm ngữ cảnh. → Chấp nhận cảnh báo báo nhầm ở 'Mana Iron' và tính từ 'familiar'. (orchestrator)
+- [#98-99] Dịch 'hot wine' và cách viết số thứ tự tầng mê cung trong văn xuôi → Không thêm danh từ chung 'hot wine' vào glossary nhưng đồng bộ dịch là 'rượu vang nóng' ở #98-#99; chuẩn hóa viết chữ 'tầng bốn' trong văn xuôi. (orchestrator)

@@ -8,7 +8,7 @@ Tôi giữ lại Ma Tinh cùng những nguyên liệu khó phân hủy, bao gồ
 
 Clope có những tính khí lập dị mà tôi đã quá quen thuộc. Nếu người được rèn vũ khí không có mặt tại đó, chắc chắn tôi sẽ bị gã tra hỏi tới tấp cho xem.
 
-"Đến nước này thì có là tôi cũng sẵn sàng tin vào chuyện bị ám rồi đấy. Trước hết thì con Rồng Đất làm cái quái gì ở nơi đó cơ chứ? Chẳng có lấy một mẩu tin nào cả! Phía Hội không hề có tin tức gì hết. Chưa kể đó mới chỉ là tầng bốn thôi đấy. Bộ không thấy kỳ quặc sao?" Tôi vừa nói vừa tu ừng ực chỗ rượu nóng Lorraine đã hâm cho mình. Trông tôi lúc này chẳng khác nào đang cằn nhằn xả bực dọc như một gã mạo hiểm giả say xỉn ngoài quán rượu.
+"Đến nước này thì có là tôi cũng sẵn sàng tin vào chuyện bị ám rồi đấy. Trước hết thì con Rồng Đất làm cái quái gì ở nơi đó cơ chứ? Chẳng có lấy một mẩu tin nào cả! Phía Hội không hề có tin tức gì hết. Chưa kể đó mới chỉ là tầng bốn thôi đấy. Bộ không thấy kỳ quặc sao?" Tôi vừa nói vừa tu ừng ực chỗ rượu vang nóng Lorraine đã hâm cho mình. Trông tôi lúc này chẳng khác nào đang cằn nhằn xả bực dọc như một gã mạo hiểm giả say xỉn ngoài quán rượu.
 
 Thật lòng mà nói, tôi cũng chẳng say đến mức ấy. Việc con Rồng Đất xuất hiện vốn không dính dáng gì đến Lorraine. Tôi hoàn toàn không có ý định cằn nhằn với cô ấy, nhưng trong lòng tôi lúc này chỉ muốn trút hết nỗi bất mãn và phẫn nộ lên một thứ gì đó mà thôi. Tôi buộc phải xả ra như vậy.
 
@@ -40,7 +40,7 @@ Chẳng lẽ Lorraine đã từng xuống tầng bốn rồi sao? Nghe giọng �
 
 "Cô biết nơi đó à...? Chuyện này đã khiến tôi băn khoăn suốt nãy giờ... Nơi đó là do mê cung tự tạo ra để trông như vậy sao, Lorraine?"
 
-"...Không hẳn thế đâu, Rentt. Công trình đó là do bàn tay con người tạo nên... dẫu rằng đã từ rất lâu về trước rồi. Giống hệt như cách anh mạo hiểm xuống hố để khai quật quặng, những người khác trước kia cũng từng làm điều tương tự. Nơi đó từng là nơi khai thác Ma Thiết đấy. Cái hố đó rất có thể là một khu mỏ được xây dựng có chủ đích, Rentt à. Có lẽ niên đại của nó phải lùi về vài thế kỷ trước, nếu không muốn nói là cả hàng ngàn năm."
+"...Không hẳn thế đâu, Rentt. Công trình đó là do bàn tay con người tạo nên... dẫu rằng đã từ rất lâu về trước rồi. Giống hệt như cách anh mạo hiểm xuống hố để khai quật quặng, những người khác trước kia cũng từng làm điều tương tự. Ma Thiết từng được khai thác ở đó đấy. Cái hố đó rất có thể là một khu mỏ được xây dựng có chủ đích, Rentt à. Có lẽ niên đại của nó phải lùi về vài thế kỷ trước, nếu không muốn nói là cả hàng ngàn năm."
 
 Quy mô của cuộc trò chuyện đã tăng lên đáng kể. Nếu công trình đó đã tồn tại từ lâu đến mức ấy... chẳng lẽ vào thời đó Maalt thậm chí còn chưa hề hiện diện? Mê cung này cổ xưa đến thế cơ à?
 
@@ -56,7 +56,7 @@ Lorraine nói có lý. Nhưng nếu quả thật là như vậy...
 
 "Thực ra là cả hai."
 
-Tôi khó mà tin nổi rằng các mạo hiểm giả lại không nẫng luôn những công cụ đó mang đi, xét đến việc chúng là những dụng cụ có giá trị. Còn về bản thân các công cụ ấy, việc chúng tiếp tục vận hành trong khi không còn ai truyền ma lực vào nữa cũng thật kỳ lạ. Dù ma cụ có được chế tác tinh xảo đến đâu, thì việc nó tiếp tục hoạt động vô thời hạn gần như là điều bất khả, trừ phi rơi vào một vài ngoại lệ hết sức đặc thù.
+Tôi khó mà tin nổi rằng các mạo hiểm giả lại không nẫng luôn những công cụ đó mang đi, xét đến việc chúng là những dụng cụ có giá trị. Còn về bản thân các công cụ ấy, việc chúng tiếp tục vận hành trong khi không còn ai truyền Ma Lực vào nữa cũng thật kỳ lạ. Dù ma cụ có được chế tác tinh xảo đến đâu, thì việc nó tiếp tục hoạt động vô thời hạn gần như là điều bất khả, trừ phi rơi vào một vài ngoại lệ hết sức đặc thù.
 
 Lorraine gật đầu, rồi điềm tĩnh đáp: "Thực tế thì, Rentt à, câu trả lời cho cả hai câu hỏi đó đều là một. Những ma cụ ấy đơn giản là đã bị mê cung nuốt chửng; một giả định hợp lý, đúng chứ? Do đó, bất kỳ ai cố mang một công cụ như vậy trở về đều sẽ thấy điều đó là bất khả thi, và những công cụ này sẽ tiếp tục vận hành đến vĩnh hằng. Tuy đây không phải cơ chế mà tôi hiểu tường tận, đúng vậy, nhưng... sự thật nó là như thế đấy, Rentt à. Chẳng có cách nào thay đổi được đâu."
 
@@ -90,7 +90,7 @@ Như thể đã đoán trước được sự kinh ngạc của tôi, Lorraine v
 
 "Ý cô là sao?"
 
-"Anh thấy đấy, Rentt, người dân ở vương quốc này, bất kể là Hội Mạo Hiểm Giả hay thị dân Maalt... tất cả bọn họ chỉ đơn thuần cho rằng cơ sở khai thác ở tầng bốn là một dị tượng do mê cung tạo ra. Nhưng đương nhiên là họ sẽ nghĩ theo lối đó rồi. Giả thuyết về việc các ma cụ nhân tạo do bàn tay con người lắp đặt bị mê cung hấp thụ và vận hành vĩnh viễn... Tôi dám chắc khó mà là một giả thuyết được số đông chấp nhận. Anh có tin vào nó không, Rentt?"
+"Anh thấy đấy, Rentt, người dân ở vương quốc này, bất kể là Hội Mạo Hiểm Giả hay thị dân Maalt... tất cả bọn họ chỉ đơn thuần cho rằng cơ sở khai thác ở tầng bốn là một dị tượng do mê cung tạo ra. Nhưng đương nhiên là họ sẽ nghĩ theo lối đó rồi. Giả thuyết về việc các ma cụ do bàn tay con người lắp đặt bị mê cung hấp thụ và vận hành vĩnh viễn... Tôi dám chắc khó mà là một giả thuyết được số đông chấp nhận. Anh có tin vào nó không, Rentt?"
 
 Tôi khẽ khịt mũi trước câu hỏi của Lorraine. Đương nhiên là tôi tin rồi. Lorraine còn cần phải hỏi một câu như thế nữa sao?
 
@@ -138,13 +138,13 @@ Không hề hay biết về những dòng độc thoại nội tâm của tôi, 
 
 Lorraine dường như hơi khựng lại trước câu hỏi của tôi, nhưng rốt cuộc cô vẫn gật đầu.
 
-"Đó là một trong những lý do lớn nhất, phải. Có lẽ có thể nói rằng tôi chỉ đơn thuần tìm kiếm một chút thanh thản... Nhưng thôi, bỏ qua chuyện đó đi. Trước kia ở đế quốc, tôi từng sống một cuộc đời hoàn toàn khác so với hiện tại đấy. Tôi từng là một phần tử tinh hoa trong giới học thuật. Nếu thật sự có hứng thú, tôi hoàn toàn có thể dễ dàng nhắm tới chiếc ghế hiệu trưởng của Đệ Nhất Đại Học Rermutt."
+"Đó là một trong những lý do lớn nhất, phải. Có lẽ có thể nói rằng tôi chỉ đơn thuần tìm kiếm một chút thanh thản... Nhưng thôi, bỏ qua chuyện đó đi. Trước kia ở đế quốc, tôi từng sống một cuộc đời hoàn toàn khác so với hiện tại đấy. Tôi từng là một học giả tinh hoa trong giới học thuật. Nếu thật sự có hứng thú, tôi hoàn toàn có thể dễ dàng nhắm tới chiếc ghế hiệu trưởng của Đệ Nhất Đại Học Rermutt."
 
 Tôi nghiêng đầu trước cái danh từ lạ lẫm ấy. Quả là một cụm từ dài dòng khó nuốt đối với một gã quê mùa như tôi.
 
 "...Cái... Đệ Nhất Đại Học Rermutt đó là gì vậy?"
 
-"À. Có thể coi đó là trường cũ của tôi. Một lâu đài tri thức, và là một trong những nơi danh giá nhất của đế quốc. Thế nhưng, bất kỳ ai cũng có thể theo học miễn là họ nỗ lực chăm chỉ. Nhìn từ góc độ đó thì cũng không quá ghê gớm, phải... Ghế hiệu trưởng là vị trí được khao khát nhất trong giới học thuật của đế quốc—chà, hoặc chí ít cũng là một trong số đó. Tôi cũng chẳng phải ngoại lệ. Tôi từng cố gắng giành lấy chính chiếc ghế đó cho mình. Đã có rất nhiều chuyện xảy ra, và tôi cũng từng gặt hái được không ít thành tựu. Tuy nhiên... lại có khá nhiều kẻ ngáng đường tôi, đương nhiên là nhằm mục đích cản trở các nghiên cứu của tôi rồi. Tôi đã vạch ra một vài sự thật, đúng vậy, theo những cách mà bất kỳ ai cũng có thể hiểu được. Thế nhưng, những kẻ đó lại đem hết sức bình sinh ra để phủ nhận mọi điều tôi nói.
+"À. Có thể coi đó là trường cũ của tôi. Một lâu đài tri thức, và là một trong những nơi danh giá nhất của đế quốc. Thế nhưng, bất kỳ ai cũng có thể theo học miễn là họ nỗ lực chăm chỉ. Nhìn từ góc độ đó thì cũng không quá ghê gớm, đúng không... Ghế hiệu trưởng là vị trí được khao khát nhất trong giới học thuật của đế quốc—chà, hoặc chí ít cũng là một trong số đó. Tôi cũng chẳng phải ngoại lệ. Tôi từng cố gắng giành lấy chính chiếc ghế đó cho mình. Đã có rất nhiều chuyện xảy ra, và tôi cũng từng gặt hái được không ít thành tựu. Tuy nhiên... lại có khá nhiều kẻ ngáng đường tôi, đương nhiên là nhằm mục đích cản trở các nghiên cứu của tôi rồi. Tôi đã vạch ra một vài sự thật, đúng vậy, theo những cách mà bất kỳ ai cũng có thể hiểu được. Thế nhưng, những kẻ đó lại đem hết sức bình sinh ra để phủ nhận mọi điều tôi nói.
 
 "Anh có hiểu không, Rentt? Giả sử như trước mặt anh có một quả cam. Tôi khẳng định nó là quả cam, đúng chứ? Nhưng rồi lại có kẻ nhảy vào bảo rằng đó là quả táo. Chẳng bao lâu sau, một kẻ khác lại khẳng định nó là một ổ bánh mì... và những kẻ phản bác cứ thế nhân lên không ngừng. Chẳng mấy chốc, tôi sẽ bị coi là kẻ sai trái dưới góc nhìn của dư luận công chúng. Dẫu vậy, bất kể tôi có nhìn nhận thế nào đi chăng nữa, vật thể trước mặt tôi cũng chẳng thể là thứ gì khác ngoài một quả cam. Nghĩ về tất cả những chuyện này thôi cũng đủ khiến người ta phát điên rồi."
 
