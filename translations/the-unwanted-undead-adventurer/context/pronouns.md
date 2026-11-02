@@ -41,8 +41,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sharl Stheno | Sharl / người đàn ông / vị thương nhân | 103 | Chủ Thương hội Stheno |
 | Nive Maris | Nive / cô gái / cô | 104 | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng |
 | Wolf Hermann | Wolf / Hội Trưởng Wolf / ông / người đàn ông | 125 | Hội Trưởng Hội Mạo Hiểm Giả Maalt |
-| Alhildis | Alhildis / cô bé Elf / đứa trẻ | 131 | Nữ mạo hiểm giả Kim Cấp tộc Elf |
-| Hilde | Hilde / cô bé Elf / đứa trẻ | 132 | Tên gọi thân mật của Alhildis |
+| Alhildis | Alhildis / cô bé Elf / đứa trẻ | 131 | Nữ mạo hiểm giả Kim Cấp tộc Elf (tránh gọi là "cô" trong lời dẫn chuyện để không nhầm với Lorraine) |
+| Hilde | Hilde / cô bé Elf / đứa trẻ | 132 | Tên gọi thân mật của Alhildis (tránh gọi là "cô" trong lời dẫn chuyện để không nhầm với Lorraine) |
 
 ## Giữa các nhân vật
 
@@ -173,5 +173,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hilde | * | ta | các ngươi / các người | 132 | Bậc tiền bối tộc Elf nói chuyện với giọng điệu cổ kính |
 | Hilde | Lorraine Vivie | ta | ngươi / cô / Lorraine | 132 | Tiền bối mạo hiểm giả Kim Cấp nói chuyện với Lorraine |
 | Hilde | Rentt Faina | ta | ngươi / cậu / Rentt | 132 | Tiền bối mạo hiểm giả Kim Cấp nói chuyện với Rentt |
-| Lorraine Vivie | Hilde | tôi / chúng tôi | cô / Hilde | 132 | Giao tiếp bình đẳng, tôn trọng giữa các mạo hiểm giả |
-| Rentt Faina | Hilde | tôi | cô / Hilde | 132 | Mạo hiểm giả Đồng Cấp nói chuyện với mạo hiểm giả Kim Cấp |
+| Lorraine Vivie | Hilde | tôi / chúng tôi | cô / Hilde | 132 | Giao tiếp bình đẳng, tôn trọng giữa các mạo hiểm giả; gọi ngôi thứ ba: cô ấy / Hilde |
+| Rentt Faina | Hilde | tôi | cô / Hilde | 132 | Mạo hiểm giả Đồng Cấp nói chuyện với mạo hiểm giả Kim Cấp; gọi ngôi thứ ba: cô ấy / Hilde |

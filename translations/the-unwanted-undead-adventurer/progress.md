@@ -134,9 +134,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | reviewed |  |
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | reviewed |  |
 | 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | reviewed |  |
-| 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | done |  |
-| 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | done |  |
-| 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | done |  |
+| 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | reviewed |  |
+| 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | reviewed |  |
+| 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | reviewed |  |
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | todo |  |
 | 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | todo |  |
 | 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | todo |  |
@@ -674,3 +674,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#132] Dịch địa danh 'village of Toraka' / 'Toraka' — tạm chọn 'Làng Toraka' và thêm vào glossary.md (phương án khác: 'làng Toraka', giữ nguyên 'Toraka'). Tạm dùng trong bản dịch: 'Làng Toraka'. → Giữ 'Làng Toraka' (orchestrator)
 - [#132] Biệt danh / tên gọi tắt 'Hilde' và 'Hildi' của Alhildis — tạm thêm dòng riêng trong characters.md (EN: 'Hilde', Alias: 'Hildi', VI: 'Hilde') để khớp với các đoạn thoại và tự sự trong raw (phương án khác: đưa 'Hilde; Hildi' vào cột Alias của Alhildis). Tạm dùng trong bản dịch: 'Hilde'. → Giữ dòng riêng cho 'Hilde' (Alias: 'Hildi', VI: 'Hilde') trong characters.md (orchestrator)
 - [#132] Dịch chủng loại 'plant spirit' — tạm chọn 'tinh linh thực vật' và thêm vào glossary.md (phương án khác: 'tinh linh cây cỏ', 'thực vật tinh linh'). Tạm dùng trong bản dịch: 'tinh linh thực vật'. → Giữ 'tinh linh thực vật' (orchestrator)
+- [#130-132] Dịch cụm từ 'tortoise carriage' → Giữ nguyên 'xe rùa' / 'cỗ xe rùa' như hiện tại (song hành với 'xe rồng' cho 'dragon carriage') (orchestrator)

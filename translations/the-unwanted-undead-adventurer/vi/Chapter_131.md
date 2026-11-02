@@ -1,8 +1,8 @@
 # Chương 131: Tập 5 Chương 4 - Chuyến Hành Trình (2)
 
-Lorraine và tôi chăm chú quan sát những cái xác thối rữa biết đi. Chúng khoác trên mình những bộ quần áo rách rưới, tay cầm giáo tre và cuốc cào. Lũ quái vật này được gọi là Zombie, một phân loài khác thuộc chủng Undead. Chúng khác với tôi ở chỗ tôi là Ma Cà Rồng và cần năng lượng từ máu để tồn tại, trong khi Zombie lại không bị ràng buộc bởi giới hạn ấy. Bù lại, có lẽ vì thế mà Zombie thường khá giòn và yếu ớt.
+Lorraine và tôi chăm chú quan sát những cái xác thối rữa biết đi. Chúng khoác trên mình những bộ quần áo rách rưới, tay cầm giáo tre và cuốc cào. Lũ quái vật này được gọi là Zombie, một phân loài khác thuộc chủng Undead. Chúng khác với tôi ở chỗ tôi là Ma Cà Rồng và cần năng lượng từ máu để tồn tại, trong khi Zombie lại không bị ràng buộc bởi giới hạn ấy. Bù lại, có lẽ vì thế mà Zombie thường dễ gãy vụn và yếu ớt.
 
-Dẫu vậy, chúng vẫn là mối đe dọa lớn đối với những người bình thường. Giới học giả cho rằng các sinh vật sống luôn tự hạn chế cấu trúc cơ thể để tránh gây áp lực quá mức, ngăn bản thân bộc phát toàn bộ sức mạnh, nhưng Zombie thì vốn đã chết rồi. Cơ thể chúng có thể cử động và vặn vẹo theo những cách không tưởng. Đầu chúng có thể xoay tít một vòng tròn, còn tay chân thì vung vẩy quái đản như thể không hề có khớp xương. Những đặc tính dị thường ấy đôi khi còn biến chúng thành nỗi phiền toái đáng ngạc nhiên đối với các mạo hiểm giả.
+Dẫu vậy, chúng vẫn là mối đe dọa lớn đối với những người bình thường. Giới học giả cho rằng về mặt cấu trúc, các sinh vật sống luôn tự kìm hãm để không bộc phát toàn bộ sức mạnh nhằm tránh gây áp lực quá lớn lên cơ thể, nhưng Zombie thì vốn đã chết rồi. Cơ thể chúng có thể cử động và vặn vẹo theo những cách không tưởng. Đầu chúng có thể xoay tít một vòng tròn, còn tay chân thì vung vẩy quái đản như thể không hề có khớp xương. Những đặc tính dị thường ấy đôi khi còn biến chúng thành nỗi phiền toái đáng ngạc nhiên đối với các mạo hiểm giả.
 
 Tuy nhiên, lý do lớn nhất khiến người ta phải tránh xa chúng chính là mùi hôi thối nồng nặc cùng thân xác bẩn thỉu. Chúng thường mang theo mầm bệnh trên người. Sẽ chẳng sao nếu chúng cứ lang thang vô định đằng xa, nhưng chúng tôi không thể để chúng bén mảng lại gần khu hạ trại. Cần phải tiêu diệt chúng ngay lập tức. Cả Lorraine và tôi đều nhanh chóng đi đến cùng một kết luận. Vấn đề còn lại chỉ là nên hạ gục chúng bằng cách nào.
 
@@ -40,7 +40,7 @@ Thay vào đó, họ cứ mặc kệ xác chết ở lại. Đây là một hàn
 
 Khi quái vật bị thiêu thành tro như trường hợp này, đôi lúc việc thanh tẩy là không cần thiết. Nếu chúng bị cơn lốc thổi bay tán loạn, tà khí và chướng khí sẽ bị phân tán đủ mỏng để không gây nguy hại. Nó có thể khiến người qua đường hơi khó chịu một chút hoặc làm chậm sự phát triển của cây cỏ, nhưng cũng chỉ đến thế mà thôi. Dù vẫn chẳng hay ho gì, song mức độ đó vẫn có thể chấp nhận được.
 
-Nhưng Lorraine là một mạo hiểm giả biết nghĩ, nên cô luôn mang theo Nước Thánh bên mình và hẳn sẽ dùng đến nếu không có tôi ở đây. Khổ nỗi tôi lại đang có mặt, thành thử cô chẳng cần phải tốn kém nữa. Nước Thánh rất đắt đỏ, nên tiết kiệm được chừng nào hay chừng nấy. Ngược lại, Thần Lực mà tôi tiêu hao rồi cũng sẽ tự hồi phục theo thời gian. Điều đó cho thấy những người sử dụng Thần Lực hữu dụng đến mức nào.
+Nhưng Lorraine là một mạo hiểm giả biết nghĩ, nên cô luôn mang theo Nước Thánh bên mình và hẳn sẽ dùng đến nếu không có tôi ở đây. Cơ mà tôi lại đang có mặt ở đây, thành thử cô chẳng cần phải tốn kém nữa. Nước Thánh rất đắt đỏ, nên tiết kiệm được chừng nào hay chừng nấy. Ngược lại, Thần Lực mà tôi tiêu hao rồi cũng sẽ tự hồi phục theo thời gian. Điều đó cho thấy những người sử dụng Thần Lực hữu dụng đến mức nào.
 
 "Vậy thì để tôi làm cho," tôi nói. Tôi đưa hai tay về phía đống tro tàn cùng Ma Tinh rồi bắt đầu rót Thần Lực vào đó. Cả thanh tẩy lẫn trị liệu đều là những việc mà tôi có thể thực hiện theo bản năng, và đó là một điểm rất tuyệt vời của Thần Lực. Phương pháp bài bản có lẽ sẽ mang lại hiệu quả cao hơn, nhưng để học được điều đó, tôi sẽ phải gia nhập một tổ chức tôn giáo nào đó. Bằng không, tôi sẽ phải nhờ cậy một người sử dụng Thần Lực tự do chỉ dạy. Những người như thế tuy hiếm hoi nhưng không phải là không có.
 
@@ -96,7 +96,7 @@ Cô ấy không thể nào đúng được. "Làm sao một đứa trẻ bình t
 
 Điều đó có nghĩa lũ quái vật này chính là mục tiêu của cô bé vì một lý do nào đó. "Rốt cuộc lũ Zombie đó từ đâu ra vậy?" tôi tò mò cất tiếng hỏi.
 
-"À, chừng bốn thập kỷ trước quanh đây từng có một ngôi làng, nơi dân làng từng sinh sống. Zombie không cần thức ăn để duy trì sinh mạng, bởi thế chúng sẽ tồn tại mãi cho tới khi bị tiêu diệt hoàn toàn. Tuy nhiên, suốt ngần ấy năm chẳng có lấy một bóng người nào đặt chân tới vùng đất này, thành thử lũ Zombie cứ ở lì trong trạng thái ngủ đông suốt bấy lâu nay."
+"À, chừng bốn thập kỷ trước quanh đây từng có một ngôi làng, nơi dân làng từng sinh sống. Zombie không cần thức ăn để duy trì sinh mạng, bởi thế chúng sẽ tồn tại mãi cho tới khi bị tiêu diệt hoàn toàn. Tuy nhiên, suốt ngần ấy năm chẳng có lấy một bóng người nào đặt chân tới vùng đất này, thành thử lũ Zombie cứ chìm trong trạng thái ngủ đông suốt bấy lâu nay."
 
 Mặc dù Zombie không cần thức ăn, điều đó cũng khiến chúng trở nên chậm chạp và thụ động. Nếu không có ai ở xung quanh để tấn công, chúng sẽ ngưng trệ mọi hoạt động. Đó được gọi là trạng thái ngủ đông. Hẳn là đã có thứ gì đó đánh thức chúng dậy, mà nhiều khả năng chính là đứa trẻ này khi cô bé bước vào tàn tích của ngôi làng.
 
@@ -136,7 +136,7 @@ Chúng tôi vẫn còn dè chừng, nhưng Alhildis đã hào phóng ném tấm 
 
 Đến nước này thì chẳng có lý do gì để cho rằng đó là đồ giả mạo nữa, nhưng cũng có một số tên đạo tặc chuyên làm giả thẻ mạo hiểm giả để ngụy trang. Sau tất cả những gì đã chứng kiến ở cô bé từ nãy tới giờ, khả năng đó trong trường hợp này dường như khó lòng xảy ra, song tôi vẫn cẩn thận xem xét tấm thẻ để đảm bảo an toàn.
 
-Cả Lorraine và tôi đều cảm thấy chúng tôi đã quá đa nghi với Alhildis, điều mà đáng lẽ chúng tôi sẽ không làm nếu không phải vì vẻ bề ngoài của cô bé. Chúng tôi tỉ mỉ kiểm tra tấm thẻ cho đến khi xác định nó hoàn toàn hợp lệ rồi ném trả lại cho cô.
+Cả Lorraine và tôi đều cảm thấy chúng tôi đã quá đa nghi với Alhildis, điều mà đáng lẽ chúng tôi sẽ không làm nếu không phải vì vẻ bề ngoài của cô bé. Chúng tôi tỉ mỉ kiểm tra tấm thẻ cho đến khi xác định nó hoàn toàn hợp lệ rồi ném trả lại cho cô bé.
 
 "Xin lỗi vì chúng tôi đã nghi ngờ cô," Lorraine nói. "Nhưng cô cũng phải thông cảm cho tâm trạng của chúng tôi chứ. Quanh vùng này hiếm khi nào thấy người thuộc tộc Elf xuất hiện lắm."
 

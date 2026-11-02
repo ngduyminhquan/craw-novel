@@ -26,7 +26,7 @@ Lorraine gật đầu và quyết định không gặng hỏi thêm về tuổi 
 
 Tùy thuộc vào câu trả lời của Hilde, chúng tôi hoàn toàn có thể rơi vào một cuộc đụng độ, nhưng sau cuộc trò chuyện hòa nhã vừa rồi, tôi hy vọng mọi chuyện sẽ không đi đến nước đó. Hơn nữa, dù trông cô bé như thể đang bông đùa, nhưng chắc chắn cô phải rất lợi hại. Những kẻ mang phong thái như vậy trong giới mạo hiểm giả lúc nào cũng mạnh đến mức điên rồ. Cô bé là Kim Cấp, đồng nghĩa với việc thực lực ngang ngửa Nive, nếu không muốn nói là vượt trội hơn. Người tộc Elf lại sống đủ lâu để tinh thông vô số kỹ năng, chưa kể họ còn sở hữu tinh linh ma pháp đặc thù của chủng tộc mình. Tôi không hề muốn chọc giận cô bé chút nào. Lorraine dò hỏi mục đích của cô nhằm đảm bảo an toàn cho chúng tôi, và tôi cũng có chung suy nghĩ ấy. Tôi không rõ liệu Hilde có đoán ra toan tính của chúng tôi hay không, nhưng cô đã đáp lại bằng một giọng điệu hết sức chân thành.
 
-"À, phải rồi. Chuyện dài dòng lắm, nhưng nói ngắn gọn thì ta là mạo hiểm giả đến từ vương đô. Ta nhận ủy thác khôi phục Làng Toraka bằng cách tiễu trừ lũ Undead cư ngụ tại đây. Nhiệm vụ vừa mới xong xuôi khi ta đánh bại con trùm của chúng, nhưng vì số lượng Zombie quá đông nên có một vài con đã chạy trốn về hướng này. Ta thành thật xin lỗi nhé," cô nói.
+"À, phải rồi. Chuyện dài dòng lắm, nhưng nói ngắn gọn thì ta là mạo hiểm giả đến từ vương đô. Ta nhận ủy thác khôi phục Làng Toraka bằng cách tiễu trừ lũ Undead cư ngụ tại đây. Nhiệm vụ vừa mới xong xuôi khi ta đánh bại con trùm của chúng, nhưng vì số lượng Zombie quá đông nên có một vài con đã chạy trốn về hướng này. Ta thành thật xin lỗi nhé," Hilde nói.
 
 Toraka là tên một ngôi làng từng bị hủy diệt tại vùng này từ nhiều năm về trước. Tôi từng nghe người lớn ở quê nhà kể về nó. Lorraine dường như cũng suy đoán ra điều tương tự qua cuộc trò chuyện của chúng tôi. Hilde có nhắc chuyện ngôi làng sụp đổ vào bốn mươi năm trước, một con số cụ thể đến mức tôi tin rằng cô bé đang nói thật. Xung quanh đây chẳng có thứ gì khác, thành thử tôi không tài nào nghĩ ra lý do nào khác để cô có mặt ở chốn này.
 
@@ -34,7 +34,7 @@ Toraka là tên một ngôi làng từng bị hủy diệt tại vùng này từ
 
 "Tôi cũng không bận tâm đâu," Lorraine tiếp lời. "Mấy con đó cũng chẳng có gì to tát."
 
-Với những người đang say giấc trong cỗ xe thì có lẽ đó lại là chuyện hệ trọng đấy. Tuy nhiên, dẫu cho Lorraine và tôi không có mặt ở đó, lão phu xe hẳn cũng đủ sức xoay xở với chúng. Có thể lão sẽ bị thương, và lão cũng chẳng thể thanh tẩy đống xác chết, nhưng đó là những rủi ro mà người ta buộc phải chấp nhận khi dấn thân trên đường trường.
+Với những người đang say giấc trong cỗ xe thì có lẽ đó lại là chuyện hệ trọng đấy. Tuy nhiên, dẫu cho Lorraine và tôi không có mặt ở đó, ông lão đánh xe hẳn cũng đủ sức xoay xở với chúng. Có thể ông sẽ bị thương, và ông cũng chẳng thể thanh tẩy đống xác chết, nhưng đó là những rủi ro mà người ta buộc phải chấp nhận khi dấn thân trên đường trường.
 
 "Nhưng ngoài lũ Zombie tầm thường này ra thì còn ma vật nào khác không? Cô vừa nhắc đến con trùm nào đó thì phải," Lorraine hỏi.
 
@@ -124,15 +124,15 @@ Thần thuật hoàn toàn không giống ma pháp, thành thử tôi chẳng bi
 
 ◆◇◆◇◆
 
-"Xong rồi đấy. Thần Lực của cậu đã được che giấu kỹ đến mức ta cũng chẳng nhận ra nổi. Những người sử dụng Thần Lực bậc trung sẽ không có cửa phát hiện ra đâu," Hilde nói, lưng quay về phía bầu trời nhuộm sắc cam.
+"Xong rồi đấy. Thần Lực của cậu đã được che giấu kỹ đến mức ta cũng chẳng nhận ra nổi. Những người sử dụng Thần Lực bậc trung sẽ chẳng tài nào phát hiện ra được đâu," Hilde nói, lưng quay về phía bầu trời nhuộm sắc cam.
 
 Tôi đã dành cả đêm để học những điều căn bản của thần thuật và đưa chúng vào thực hành cho đến khi thuần thục được thứ gì đó trông có vẻ chuẩn xác. Tôi đã có thể kiểm soát và che giấu Thần Lực của mình, nhưng tôi vẫn tự hỏi liệu đây có thực sự là những kiến thức cơ bản hay không vì nó chẳng hề dễ dàng chút nào. Dẫu vậy, tôi cần thứ này để tránh rước lấy rắc rối về sau, nên cũng chẳng thể cằn nhằn gì được.
 
 "Lúc nào tôi cũng phải duy trì trạng thái này sao?" tôi lẩm bẩm.
 
-"Một khi đã quen rồi thì dễ ợt ấy mà. Cho đến lúc đó thì cứ coi như đang luyện tập không ngừng nghỉ đi. Sớm nhất thì chỉ sau một tuần, nó sẽ tự nhiên như hơi thở thôi. Nhìn này," Hilde nói rồi bộc phát Thần Lực của mình.
+"Một khi đã quen rồi thì mọi chuyện sẽ rất đỗi dễ dàng thôi. Cho đến lúc đó thì cứ coi như đang luyện tập không ngừng nghỉ đi. Sớm nhất thì chỉ sau một tuần, nó sẽ tự nhiên như hơi thở thôi. Nhìn này," Hilde nói rồi bộc phát Thần Lực của mình.
 
-Cô bé đã che giấu Thần Lực của mình suốt từ nãy đến giờ, nên mãi tới lúc này tôi mới biết chính xác cô sở hữu bao nhiêu. Giờ đây khi tận mắt chứng kiến cô giải phóng nó, luồng năng lượng ấy lớn hơn của tôi gấp hàng chục lần, nếu không muốn nói là hàng trăm lần. Thậm chí có thể còn nhiều hơn thế nữa. Nive cũng tương tự như vậy, nhưng cảnh tượng này đã đập tan tành mọi sự tự tin mà tôi gom góp được kể từ dạo ấy. Nếu cô bé có thể che giấu toàn bộ lượng Thần Lực khủng khiếp này, thì những lời cô tự nhận mình là người sử dụng Thần Lực hùng mạnh quả nhiên là thật. Dẫu vậy, tôi cũng chỉ mới bắt đầu chập chững bước chân vào thế giới thần thuật, nên thật khó để khẳng định chắc chắn bất cứ điều gì.
+Cô bé đã che giấu Thần Lực của mình suốt từ nãy đến giờ, nên mãi tới lúc này tôi mới biết chính xác cô bé sở hữu bao nhiêu. Giờ đây khi tận mắt chứng kiến cô bé giải phóng nó, luồng năng lượng ấy lớn hơn của tôi gấp hàng chục lần, nếu không muốn nói là hàng trăm lần. Thậm chí có thể còn nhiều hơn thế nữa. Nive cũng tương tự như vậy, nhưng cảnh tượng này đã đập tan tành mọi sự tự tin mà tôi gom góp được kể từ dạo ấy. Nếu cô bé có thể che giấu toàn bộ lượng Thần Lực khủng khiếp này, thì những lời cô bé tự nhận mình là người sử dụng Thần Lực hùng mạnh quả nhiên là thật. Dẫu vậy, tôi cũng chỉ mới bắt đầu chập chững bước chân vào thế giới thần thuật, nên thật khó để khẳng định chắc chắn bất cứ điều gì.
 
 "Cô sở hữu nhiều Thần Lực hơn tôi quá đỗi, thành thử tôi chẳng biết liệu mình có thể noi gương cô được không nữa." Tôi bộc bạch cảm nghĩ thật lòng của mình.
 
@@ -164,4 +164,4 @@ Với trường hợp của tôi, đơn giản là tôi khó lòng nhận đư�
 
 "Được rồi. Giờ chúng ta đánh thức mọi người dậy nhé? Đã đến lúc chúng ta phải khởi hành rồi," tôi đề nghị.
 
-Chúng tôi đi một lượt đánh thức các hành khách cùng lão phu xe. Chúng tôi phải lên đường ngay khi mặt trời vừa ló rạng nếu muốn đi được xa. Lý tưởng nhất là chúng tôi sẽ không phải hạ trại hai đêm liên tiếp.
+Chúng tôi đi một lượt đánh thức các hành khách cùng người đánh xe. Chúng tôi phải lên đường ngay khi mặt trời vừa ló rạng nếu muốn đi được xa. Lý tưởng nhất là chúng tôi sẽ không phải hạ trại hai đêm liên tiếp.
