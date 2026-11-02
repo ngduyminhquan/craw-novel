@@ -199,3 +199,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Baronetess |  | Nữ Chuẩn Nam tước | danh hiệu | 104 | Tước vị quý tộc được ban cho Nive Maris |
 | Vampire hunter |  | Thợ Săn Ma Cà Rồng | danh hiệu | 104 | Danh hiệu/biệt danh của Nive Maris chuyên săn ma cà rồng |
 | Holy Fire | holy fire; Holy fire | Thánh Hỏa | kỹ năng | 105 | Ngọn lửa thần thánh ngưng tụ từ Thần Lực do người có Thần Lực dồi dào và thuần thục phóng ra (聖火) |
+| Ruguella |  | Ruguella | địa danh | 107 | Thị trấn ở phía tây, nơi phát hiện chuỗi vụ mạo hiểm giả mới mất tích |
+| Oradoras |  | Oradoras | địa danh | 107 | Thị trấn nằm về phía đông của Ruguella, nơi ghi nhận các vụ mất tích tiếp theo |

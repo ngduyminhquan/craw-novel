@@ -624,3 +624,10 @@ Myullias và Nive hé lộ lý do cuộc gặp: Nive mượn uy thế của Giá
 Nhận ra sự tử tế và lòng tự trọng nghề nghiệp đáng quý của Sharl, Rentt bỏ qua mọi bất bình và thầm cảm kích vị thương nhân.
 Chương kết thúc khi Rentt thẳng thắn gặng hỏi lý do Nive nghi ngờ mình là Ma Cà Rồng, và Nive chuẩn bị tiết lộ mục đích thực sự cùng một lời thỉnh cầu dành riêng cho anh.
 
+## 107
+Nive mở bản đồ giải thích chuỗi vụ mạo hiểm giả mới mất tích trải dài từ thị trấn Ruguella qua Oradoras và khoảng 30 thị trấn về hướng đông tới tận Maalt; cô khẳng định đây là tác phẩm của Ma Cà Rồng dựa trên việc phát hiện Thi Quỷ mang trang bị của người mất tích mà Hội giấu kín.
+Nive tin rằng con Ma Cà Rồng đầu sỏ vẫn đang lẩn trốn tại Maalt và giải thích lý do nghi ngờ Rentt vì các chiến tích phi thường (hạ Tarasque một mình, thăng Đồng Cấp thần tốc) cùng thói quen sinh hoạt lén lút trong đêm, che giấu diện mạo.
+Sau khi giải tỏa hiểu lầm, Nive bồi thường bằng cách mua nguyên liệu Tarasque giá cao và trao cho Rentt một mảnh giấy chứa mã số liên lạc của Hội Mạo Hiểm Giả, quả quyết theo trực giác rằng sau này anh chắc chắn sẽ cần liên lạc với cô.
+Rentt nhận mảnh giấy với linh cảm chẳng lành và dự định nhờ Lorraine kiểm tra ma thuật bên trong, kết thúc cuộc gặp gỡ đầy căng thẳng với Thợ Săn Ma Cà Rồng.
+
+
