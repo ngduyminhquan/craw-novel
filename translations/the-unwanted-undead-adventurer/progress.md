@@ -89,7 +89,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | reviewed |  |
 | 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | reviewed |  |
 | 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | reviewed |  |
-| 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | todo |  |
+| 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | done |  |
 | 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | todo |  |
 | 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | todo |  |
 | 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -533,3 +532,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#84] Dịch tiêu đề chương 'Vol 3 Bonus - A Continued Dream' — tạm chọn 'Ngoại truyện Tập 3 - Giấc Mơ Nối Dài' (đồng bộ format với #82, #83; phương án khác: 'Ngoại truyện Tập 3 - Một Giấc Mơ Tiếp Diễn'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 3 - Giấc Mơ Nối Dài'. → Chốt 'Ngoại truyện Tập 3 - Giấc Mơ Nối Dài' (orchestrator)
 - [#84] Xưng hô giữa Rentt Faina và thiếu nữ bạn thuở nhỏ Rin — tạm chọn Rentt xưng 'tôi' gọi 'em / Rin', Rin xưng 'em' gọi 'anh / anh Rentt' (phù hợp quan hệ anh em bạn bè thuở nhỏ chênh lệch tuổi tác và Rentt là người nhận ủy thác; phương án khác: xưng hô ngang hàng 'tôi - cậu' hoặc 'tớ - cậu'). Tạm dùng trong bản dịch: tôi - em / em - anh Rentt. → Chốt Rentt xưng 'tôi' gọi 'em / Rin', Rin xưng 'em' gọi 'anh / anh Rentt' (orchestrator)
 - [#84] Dịch tên loài hoa hư cấu 'Tetona' / 'Tetona flower' — tạm chọn 'hoa Tetona' (giữ nguyên tên riêng Tetona theo rules.md kết hợp danh từ hoa; phương án khác: giữ nguyên 'Tetona'). Tạm dùng trong bản dịch: 'hoa Tetona'. → Chốt 'hoa Tetona' (orchestrator)
+- [#85] Dịch tiêu đề chương 'Vol 3 Bonus - The Race' — tạm chọn 'Ngoại truyện Tập 3 - Cuộc Đua' (đồng bộ format với #82, #83, #84; phương án khác: 'Ngoại truyện Tập 3 - Cuộc Đua Chuột', 'Ngoại truyện Tập 3 - Trường Đua'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 3 - Cuộc Đua'. → Giữ 'Ngoại truyện Tập 3 - Cuộc Đua' đồng bộ format với #82-#84. (orchestrator)
+- [#85] Xưng hô giữa Rentt Faina và mạo hiểm giả Đồng Cấp Aidi — tạm chọn Aidi xưng 'tôi' gọi 'cậu / người anh em', Rentt xưng 'tôi' gọi 'anh' (phù hợp quan hệ mạo hiểm giả trung niên nói chuyện dân dã với mạo hiểm giả trẻ; phương án khác: Aidi gọi 'chú em', Rentt gọi 'ông anh / chú'). Tạm dùng trong bản dịch: Aidi (tôi - cậu / người anh em), Rentt (tôi - anh). → Giữ Aidi (tôi - cậu / người anh em), Rentt (tôi - anh). (orchestrator)
+- [#85] Dịch hoạt động/thuật ngữ 'Puchi Suri Racing' / 'Puchi Suri racing' — tạm chọn 'đua chuột Puchi Suri' (phù hợp ngữ cảnh cuộc đua quái vật dạng chuột; phương án khác: 'đua Puchi Suri', 'Giải đua Puchi Suri'). Tạm dùng trong bản dịch: 'đua chuột Puchi Suri'. → Giữ 'đua chuột Puchi Suri' như đã ghi trong glossary.md. (orchestrator)
+- [#85] Dịch tên riêng chú chuột vô địch 'Jacks Tiger' — tạm giữ nguyên 'Jacks Tiger' theo quy tắc tên riêng phương Tây trong rules.md (phương án khác: 'Hổ Của Jack'). Tạm dùng trong bản dịch: 'Jacks Tiger'. → Giữ nguyên tên riêng 'Jacks Tiger' theo rules.md. (orchestrator)

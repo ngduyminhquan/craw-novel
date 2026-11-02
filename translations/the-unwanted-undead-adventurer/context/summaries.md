@@ -497,7 +497,8 @@ Thời còn là mạo hiểm giả Đồng Cấp, Rentt liều mình leo lên v�
 Khi Rentt mang hoa trở về thì Ran vừa trút hơi thở cuối cùng trong sự tiếc nuối tột cùng của Rentt; dẫu vậy, Rin vẫn kiên cường ký nhận hoàn thành ủy thác và quyết tâm tiếp tục giấc mơ mở tiệm hoa của hai chị em.
 Cảm phục nghị lực của Rin, Rentt hứa sẽ hái thêm hoa quý hiếm như Hoa Long Huyết một khi vươn lên thành mạo hiểm giả Mithril Cấp, và cả hai cùng lập lời hẹn thi đua xem ai sẽ hoàn thành ước mơ của mình trước.
 
-
-
-
+## 85
+Rentt dắt theo Edel đi dạo trên phố thì bị Aidi, một mạo hiểm giả Đồng Cấp mê cá cược, kéo đến một trường đua chuột Puchi Suri mới dựng bên ngoài tường thành Maalt do lũ chuột quanh vùng bỗng trở nên thuần tính và thông minh hơn nhờ ảnh hưởng từ Edel.
+Bị Aidi nài nỉ và thấy Edel cũng hào hứng muốn thử sức, Rentt đăng ký cho Edel tham gia cuộc đua; dù không cần rút Ma Lực từ Rentt, Edel vẫn thể hiện tốc độ đáng nể bám đuổi sát sao và vượt qua đương kim vô địch Jacks Tiger ở khúc cua cuối cùng để cán đích đầu tiên.
+Chiến thắng ngoạn mục giúp Aidi trúng cược lớn còn Edel kiếm được tiền thưởng để tự mua thức ăn yêu thích và mua rượu ngon cho Rentt cùng Lorraine; Rentt vừa ngỡ ngàng trước thú vui mới lạ đang len lỏi vào Maalt, vừa thầm hài lòng vì có được một chú chuột quyến thuộc biết tự kiếm tiền nuôi thân.
 

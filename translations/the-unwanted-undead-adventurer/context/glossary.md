@@ -157,3 +157,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Wind God | the Wind God | Phong Thần | danh hiệu | 81 | Danh hiệu thần linh của Vansurt trong các tôn giáo khác (風神) |
 | Fourostoroa |  | Fourostoroa | khác | 81 | Nhân vật anh hùng trảm ác long trong truyện ngụ ngôn cổ xưa |
 | Tetona | Tetona flower; Tetona flowers | hoa Tetona | vật phẩm | 84 | Loài hoa nhỏ tuyệt đẹp chỉ mọc trên vách đá cheo leo hiểm trở (テトナの花) |
+| Puchi Suri Racing | Puchi Suri racing | đua chuột Puchi Suri | khác | 85 | Trò giải trí cá cược đua quái vật Puchi Suri mới xuất hiện ở Maalt |

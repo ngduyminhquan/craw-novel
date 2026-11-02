@@ -39,6 +39,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ren-Ren |  | Ren-Ren | Biệt danh trêu chọc Lorraine gọi Rentt khi giả gái | #82 |
 | Rin |  | Rin | Bạn thuở nhỏ của Rentt, thiếu nữ song sinh cùng Ran, có ước mơ mở tiệm hoa | #84 |
 | Ran |  | Ran | Bạn thuở nhỏ của Rentt, thiếu nữ song sinh cùng Rin, mắc bệnh nan y qua đời | #84 |
+| Aidi |  | Aidi | Mạo hiểm giả Đồng Cấp trung niên say mê cá cược đua chuột Puchi Suri | #85 |
+| Jacks Tiger |  | Jacks Tiger | Chuột Puchi Suri số 1, đương kim vô địch giải đua chuột Puchi Suri | #85 |
 
 ## Chi tiết
 
@@ -262,3 +264,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Bạn thuở nhỏ từng chơi cùng Rentt; chị em song sinh với Rin; mắc bệnh hiểm nghèo không qua khỏi.
 - Xuất hiện từ: #84.
 - Trạng thái tính đến chương 84: Mắc bệnh nan y cơ thể suy kiệt dần và qua đời trên giường bệnh ngay trước khi Rentt kịp mang hoa Tetona về tới; để lại lời xin lỗi Rin và Rentt vì phải ra đi trước.
+
+### Aidi
+- Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả trung niên, trang bị và vũ khí bình thường.
+- Tính cách, nghề nghiệp: Mạo hiểm giả Đồng Cấp; say mê cá cược đua chuột Puchi Suri tới mức xao nhãng việc nhận ủy thác, chỉ làm mức tối thiểu để không bị xóa tên khỏi Hội; nói nhiều, thích kể chuyện phiếm.
+- Cách nói chuyện: Dân dã, bộc trực, hào sảng, xưng "tôi", gọi Rentt là "cậu / người anh em".
+- Quan hệ: Đồng nghiệp mạo hiểm giả tình cờ bắt gặp Rentt mang theo Edel và kéo anh tham gia trường đua.
+- Xuất hiện từ: #85.
+
+### Jacks Tiger
+- Giới tính, chủng tộc: Chuột Puchi Suri.
+- Đặc điểm: Thí sinh số 1, đương kim vô địch ("vua đua chuột Puchi Suri"), tốc độ ôm cua cực nhanh.
+- Xuất hiện từ: #85.

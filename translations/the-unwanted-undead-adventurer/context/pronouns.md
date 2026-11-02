@@ -34,6 +34,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gilly | Gilly / gã / người đàn ông / vị tư tế | 81 | Tư tế giám sát của Giáo Hội Lobelia |
 | Rin | Rin / cô bé | 84 | Bạn thuở nhỏ của Rentt |
 | Ran | Ran / cô bé | 84 | Bạn thuở nhỏ của Rentt, mắc bệnh nan y qua đời |
+| Aidi | Aidi / người đàn ông | 85 | Mạo hiểm giả Đồng Cấp trung niên mê cá cược |
 
 ## Giữa các nhân vật
 
@@ -126,3 +127,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gilly | Myullias Raiza | tôi | cô | 81 | Tư tế giám sát nhắc nhở Thánh Nữ |
 | Rentt Faina | Rin | tôi | em / Rin | 84 | Bạn thuở nhỏ (Rentt lớn hơn), nhận ủy thác hái hoa Tetona |
 | Rin | Rentt Faina | em | anh / anh Rentt | 84 | Bạn thuở nhỏ, nhờ Rentt hái hoa Tetona cho người chị em sinh đôi |
+| Rentt Faina | Aidi | tôi | anh | 85 | Mạo hiểm giả nói chuyện xã giao với đồng nghiệp trung niên |
+| Aidi | Rentt Faina | tôi | cậu | 85 | Mạo hiểm giả trung niên xưng hô dân dã, thân thiện với mạo hiểm giả trẻ |
