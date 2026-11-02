@@ -4,7 +4,7 @@
 
 Đó là lời Lorraine thốt ra sau khi nghe tôi thuật lại chi tiết về chuyến phiêu lưu gần nhất của mình. Cô nhìn tôi với vẻ mặt nửa phần khó tin, nửa phần ngán ngẩm.
 
-"Đâu phải là... tôi muốn... mấy chuyện kỳ quái... cứ liên tục xảy đến... với mình đâu."
+Đâu phải là... tôi muốn... mấy chuyện kỳ quái... cứ liên tục xảy đến... với mình đâu.
 
 Dù rất muốn buông lời phân bua như thế với Lorraine, nhưng chính tôi lại là kẻ đã mò về nơi từng chạm trán Rồng, rồi còn hăm hở tiến sâu vào khu vực chưa ai biết tới của mê cung. Cho dù tôi không còn cảm nhận được sự hiện diện của Rồng ở đó nữa, thì việc thò đầu vào một nơi như vậy rõ ràng chẳng khôn ngoan chút nào—thế nên tôi đành nuốt ngược những lời định nói vào trong. Xét trên mọi phương diện, Lorraine nói chẳng sai chút nào.
 
@@ -20,9 +20,9 @@ Ngược lại, Lorraine lại sở hữu vốn kiến thức học giả uyên 
 
 "...Cô đã tìm ra... chi tiết cách sử dụng... tấm bản đồ này... chưa?"
 
-Dù người phụ nữ kia chỉ đơn giản đưa tấm bản đồ cho tôi rồi bảo truyền ma lực vào đó, nhưng tôi hầu như chẳng biết thêm gì về cơ chế hoạt động của nó, hay liệu nó còn có công dụng nào khác nữa không.
+Dù người phụ nữ kia chỉ đơn giản đưa tấm bản đồ cho tôi rồi bảo truyền Ma Lực vào đó, nhưng tôi hầu như chẳng biết thêm gì về cơ chế hoạt động của nó, hay liệu nó còn có công dụng nào khác nữa không.
 
-"Tôi có thử kiểm tra rồi, nhưng dường như tự tôi không thể sử dụng tấm bản đồ này được. Người ta bảo anh truyền ma lực vào thì nó sẽ tự vẽ, đúng chứ? Nhưng xem ra nó đòi hỏi đích danh ma lực của anh, vì ma lực của riêng tôi hoàn toàn vô tác dụng. Đây, anh thử xem."
+"Tôi có thử kiểm tra rồi, nhưng dường như tự tôi không thể sử dụng tấm bản đồ này được. Người ta bảo anh truyền Ma Lực vào thì nó sẽ tự vẽ, đúng chứ? Nhưng xem ra nó đòi hỏi đích danh Ma Lực của anh, vì Ma Lực của riêng tôi hoàn toàn vô tác dụng. Đây, anh thử xem."
 
 Dứt lời, Lorraine thuận tay đưa tấm bản đồ cho tôi—và quả nhiên, những đường nét quen thuộc phác họa chi tiết các lối đi cùng những tầng của Mê Cung Nguyệt Ảnh bắt đầu hiện lên trên bề mặt của nó.
 
@@ -36,11 +36,11 @@ Nhìn kỹ hơn, một chấm đen có thể thấy rõ trên bề mặt bản �
 
 Thực bụng mà nói, ngay cả khi chưa biết tới những chức năng phụ này của tấm bản đồ thì tôi đã thấy mình vớ được một món hời lớn—nhưng đổi lại, tôi suýt chút nữa đã mất mạng dưới ma pháp của người phụ nữ ấy. Cân nhắc những yếu tố đó, tôi cho rằng cuộc trao đổi này cũng coi như đôi bên huề vốn.
 
-Lorraine và tôi tiếp tục tiến hành đủ loại thử nghiệm trên tấm bản đồ, rồi rốt cuộc phát hiện ra rằng khu vực được hiển thị trên đó có thể thay đổi tùy theo ý nghĩ của tôi—miễn là tôi vẫn đang truyền ma lực vào nó. Chẳng hạn, tôi có thể dễ dàng điều khiển tấm bản đồ vẽ một khu vực khác, chuyển phần hiển thị từ các hành lang của Mê Cung Nguyệt Ảnh sang một địa điểm khác theo ý muốn.
+Lorraine và tôi tiếp tục tiến hành đủ loại thử nghiệm trên tấm bản đồ, rồi rốt cuộc phát hiện ra rằng khu vực được hiển thị trên đó có thể thay đổi tùy theo ý nghĩ của tôi—miễn là tôi vẫn đang truyền Ma Lực vào nó. Chẳng hạn, tôi có thể dễ dàng điều khiển tấm bản đồ vẽ một khu vực khác, chuyển phần hiển thị từ các hành lang của Mê Cung Nguyệt Ảnh sang một địa điểm khác theo ý muốn.
 
 Ngoài ra, khả năng hiển thị tên của các mạo hiểm giả khác trên bản đồ chỉ hoạt động nếu người nắm giữ đã khám phá toàn bộ mê cung tương ứng. Dẫu tôi đã hoàn tất việc lập bản đồ Mê Cung Nguyệt Ảnh trong suốt sự nghiệp dài đằng đẵng của mình, nhưng với Mê Cung Tân Nguyệt thì tôi hầu như chưa khám phá được bao nhiêu.
 
-Khi thử để tấm bản đồ chuyển tiêu điểm sang mê cung sau, tôi nhận ra chỉ những khu vực tôi từng đặt chân tới trước đây mới được vẽ lên. Thêm vào đó, chức năng theo dõi mạo hiểm giả hoàn toàn không hoạt động. Điều này được chứng minh khi Lorraine và tôi cùng nhau chăm chú nhìn vào tấm bản đồ suốt một khoảng thời gian khá lâu—vậy mà chẳng có lấy một chấm đen nào xuất hiện trên bề mặt của nó. Nếu phải đoán, thì đơn giản là tôi vẫn chưa lập bản đồ mê cung này đủ nhiều để kích hoạt chức năng ấy.
+Khi thử để tấm bản đồ chuyển tiêu điểm sang mê cung thứ hai, tôi nhận ra chỉ những khu vực tôi từng đặt chân tới trước đây mới được vẽ lên. Thêm vào đó, chức năng theo dõi mạo hiểm giả hoàn toàn không hoạt động. Điều này được chứng minh khi Lorraine và tôi cùng nhau chăm chú nhìn vào tấm bản đồ suốt một khoảng thời gian khá lâu—vậy mà chẳng có lấy một chấm đen nào xuất hiện trên bề mặt của nó. Nếu phải đoán, thì đơn giản là tôi vẫn chưa lập bản đồ mê cung này đủ nhiều để kích hoạt chức năng ấy.
 
 Nói một cách chặt chẽ thì đó không hẳn chỉ là phỏng đoán, bởi chức năng theo dõi vẫn hoạt động ở tầng một của Mê Cung Tân Nguyệt, nơi tôi đã hoàn tất việc lập bản đồ từ trước đó một thời gian. Căn cứ vào thực tế này, rõ ràng các tầng khác cũng cần một mức độ khám phá tương tự trước khi chức năng theo dõi tương ứng có thể bắt đầu vận hành.
 

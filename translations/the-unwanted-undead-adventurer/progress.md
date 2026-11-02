@@ -29,9 +29,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | reviewed |  |
 | 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | reviewed |  |
 | 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | reviewed |  |
-| 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | done |  |
-| 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | done |  |
-| 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | done |  |
+| 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | reviewed |  |
+| 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | reviewed |  |
+| 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | reviewed |  |
 | 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | todo |  |
 | 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | todo |  |
 | 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | todo |  |

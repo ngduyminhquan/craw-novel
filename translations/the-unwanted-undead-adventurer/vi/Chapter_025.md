@@ -48,7 +48,7 @@ Lý do rất đơn giản, bởi việc một người đăng ký hai lần ch�
 
 Dù tôi vẫn mang theo thẻ mạo hiểm giả cũ bên mình, chỉ việc giữ nó không thể giúp tôi miễn trừ khỏi các quy tắc, hay tránh khỏi việc bị tra hỏi về diện mạo kỳ dị này. Do đó, đề xuất của Lorraine là một lối đi vòng qua vấn đề ấy—một phương pháp có phần khác người, nhưng trong trường hợp của tôi lại vô cùng hiệu quả.
 
-Về cơ bản, nếu "Rentt Faina" xuất hiện trong tình trạng này, ăn mặc kỳ quặc thế này, chắc chắn tôi sẽ bị tra hỏi gặng hỏi đủ điều. Thế nhưng, nếu tôi xuất hiện với tư cách một người khác, khả năng bị dò xét về diện mạo lại trở nên cực kỳ thấp.
+Về cơ bản, nếu "Rentt Faina" xuất hiện trong tình trạng này, ăn mặc kỳ quặc thế này, chắc chắn tôi sẽ bị tra hỏi đủ điều. Thế nhưng, nếu tôi xuất hiện với tư cách một người khác, khả năng bị dò xét về diện mạo lại trở nên cực kỳ thấp.
 
 Nói thẳng ra thì chẳng ai có thể phủ nhận vẻ ngoài của tôi trông rất kỳ lạ. Nhưng sự kỳ lạ này vốn là chuyện thường thấy ở giới mạo hiểm giả nói chung—và dù một mạo hiểm giả trùm áo choàng đeo mặt nạ có bị xem là lập dị, hầu hết mọi người cũng chỉ nhìn chằm chằm vào tôi thêm vài giây rồi lại quay về với việc riêng của mình.
 
@@ -168,7 +168,7 @@ Cân nhắc giữa hai lựa chọn, tôi nhanh chóng quyết định chọn nh
 
 Mang theo những suy tính ấy trong đầu, tôi bước tới trước bảng ủy thác, chọn lấy một tờ nhiệm vụ có vẻ hoàn toàn nằm trong tầm khả năng hiện tại của mình. Đọc lướt qua một lượt, tôi gật đầu rồi cầm tờ ủy thác bước về phía quầy của Sheila.
 
-"A, anh Rentt.
+"A, anh Rentt."
 
 "Anh đã chọn được nhiệm vụ muốn nhận rồi sao?"
 

@@ -98,13 +98,13 @@ Tôi đưa ra câu trả lời cho người phụ nữ:
 
 "Trông ngươi có vẻ bối rối nhỉ. Nhưng ừ, đương nhiên rồi. Ta hiểu mà. Ta hiểu, nhưng... có một số chuyện ta tuyệt đối không thể tha thứ. Ta không hề muốn làm vấy bẩn nơi này... Nhưng vì lẽ đó, e là ta buộc phải xóa sổ ngươi thôi—chẳng còn cách nào khác cả."
 
-Dứt lời, người phụ nữ khẽ giơ tay lên, chĩa thẳng về phía tôi. Tôi còn chưa hiểu cô ấy định làm gì thì ngay khoảnh khắc đó, gần như tức thì, tôi nhận thấy một lượng ma lực khủng khiếp đang ngưng tụ trong lòng bàn tay cô ấy. Theo bản năng, tôi dồn toàn bộ khả năng của mình vào các ma pháp và kỹ năng phòng ngự. Với một lớp khiên chắn Ma Lực, việc cường hóa cơ thể bằng Khí Lực, cùng việc truyền Thần Lực vào lưỡi kiếm, chắc chắn tôi sẽ có thể chống đỡ được bất kỳ đòn tấn công nào.
+Dứt lời, người phụ nữ khẽ giơ tay lên, chĩa thẳng về phía tôi. Tôi còn chưa hiểu cô ấy định làm gì thì ngay khoảnh khắc đó, gần như tức thì, tôi nhận thấy một lượng Ma Lực khủng khiếp đang ngưng tụ trong lòng bàn tay cô ấy. Theo bản năng, tôi dồn toàn bộ khả năng của mình vào các ma pháp và kỹ năng phòng ngự. Với một lớp khiên chắn Ma Lực, việc cường hóa cơ thể bằng Khí Lực, cùng việc truyền Thần Lực vào lưỡi kiếm, chắc chắn tôi sẽ có thể chống đỡ được bất kỳ đòn tấn công nào.
 
-Dĩ nhiên là tôi đã có toàn ý né tránh toàn bộ đòn đánh nếu có thể. Thế nhưng đòn tấn công của người phụ nữ lại nhanh hơn, chuẩn xác hơn rất nhiều.
+Dĩ nhiên là tôi hoàn toàn có ý định né tránh toàn bộ đòn đánh nếu có thể. Thế nhưng đòn tấn công của người phụ nữ lại nhanh hơn, chuẩn xác hơn rất nhiều.
 
 Những ngọn lửa mãnh liệt phóng ra từ lòng bàn tay cô ấy, đập thẳng vào người tôi. Cảm giác hệt như hơi thở của Rồng khi uy lực giáng xuống thân thể tôi như một phát đạn đại bác—đó là sức mạnh từ cú va chạm của nó. Nó nặng nề hơn, uy lực hơn đòn đánh của một con Khô Lâu Khổng Lồ đơn thuần rất nhiều.
 
-Tôi bị đánh bay đi, va sầm vào bức tường gần đó. Tôi cảm thấy một cơn đau nhói thốc lên sau lưng. Dù mừng vì đã chặn được một đòn tấn công, nhưng trận chiến còn lâu mới kết thúc. Tôi có thể lập tức cảm nhận được thứ ma lực cùng loại lại đang tụ lại trong lòng bàn tay người phụ nữ một lần nữa—chính cái chết đang được cô đọng thành một quả cầu lửa cách tôi không xa.
+Tôi bị đánh bay đi, va sầm vào bức tường gần đó. Tôi cảm thấy một cơn đau nhói thốc lên sau lưng. Dù mừng vì đã chặn được một đòn tấn công, nhưng trận chiến còn lâu mới kết thúc. Tôi có thể lập tức cảm nhận được thứ Ma Lực cùng loại lại đang tụ lại trong lòng bàn tay người phụ nữ một lần nữa—chính cái chết đang được cô đọng thành một quả cầu lửa cách tôi không xa.
 
 Trong lúc tôi chật vật gượng dậy, người phụ nữ chầm chậm tiến lại gần, lòng bàn tay giơ lên tràn ngập sát ý. Tôi tuyệt đối không có cách nào chống đỡ nổi đòn đánh tiếp theo.
 
@@ -114,7 +114,7 @@ Dẫu vậy, tôi không thể bỏ cuộc, và tôi bắt đầu chuẩn bị d
 
 Cơ thể tôi sao? Có chuyện gì với nó chứ?
 
-Dù được bảo vệ bởi một luồng Ma Lực và Khí Lực, chiếc áo chùng của tôi vẫn bị quả cầu lửa trước đó đốt cháy. Phần lớn y phục của tôi giờ đã cháy thành than, để lộ ra những mảng da thịt thối rữa như xác chết trên cơ thể Thi Quỷ của tôi. Dù nhìn từ góc độ nào đi nữa, tôi khó lòng trông giống con người với những mẩu thịt thối rữa và thỉnh thoảng khô quắt trên cơ thể. Người phụ nữ dường như rất kinh ngạc trước điều này.
+Dù được bảo vệ bởi một luồng Ma Lực và Khí Lực, chiếc áo chùng của tôi vẫn bị quả cầu lửa trước đó đốt cháy. Phần lớn y phục của tôi giờ đã cháy thành than, để lộ ra những mảng da thịt thối rữa như xác chết trên cơ thể Thi Quỷ của tôi. Dù nhìn từ góc độ nào đi nữa, tôi khó lòng trông giống con người với những mẩu thịt chỗ thối rữa, chỗ khô quắt trên cơ thể. Người phụ nữ dường như rất kinh ngạc trước điều này.
 
 Nhưng điều đó là đương nhiên; chỉ có quái vật mới mang hình hài như thế này.
 
@@ -122,7 +122,7 @@ Nhưng điều đó là đương nhiên; chỉ có quái vật mới mang hình 
 
 Tôi chẳng hề ảo tưởng về tình thế lúc này. Đơn giản là tôi không thể nào thoát khỏi người phụ nữ này được. Số phận tôi đã định là phải chết trong căn phòng này, thế nên tôi thà nói ra những điều mình muốn nói. Đây rất có thể là lần cuối cùng tôi còn có cơ hội nói ra chúng.
 
-Thế nhưng, người phụ nữ dường như chẳng hề tức giận trước những lời của tôi. Thay vào đó, cô ấy hạ tay xuống, những tàn tích ma lực dần tan biến khỏi lòng bàn tay.
+Thế nhưng, người phụ nữ dường như chẳng hề tức giận trước những lời của tôi. Thay vào đó, cô ấy hạ tay xuống, những tàn tích Ma Lực dần tan biến khỏi lòng bàn tay.
 
 "...Nhưng phải rồi. Đương nhiên... Ta hiểu rồi. Có vẻ như ta đã lầm—chỉ là một sự hiểu lầm. Ta thành thật xin lỗi."
 
@@ -168,7 +168,7 @@ Nhưng dĩ nhiên, đó là giả định những gì người phụ nữ nói l
 
 Tôi gật đầu trước câu hỏi của người phụ nữ. Nếu tấm bản đồ hoạt động đúng như lời người phụ nữ khẳng định, việc sở hữu nó chắc chắn sẽ giúp chuyến thám hiểm mê cung của tôi dễ dàng hơn rất nhiều. Tôi cho rằng lắng nghe yêu cầu của cô ấy cũng có giá trị nhất định, dẫu tôi vẫn còn hoài nghi về toàn bộ chuyện này.
 
-"Vậy thì, hãy truyền ma lực của ngươi vào tấm da dê đi..."
+"Vậy thì, hãy truyền Ma Lực của ngươi vào tấm da dê đi..."
 
 Tôi làm theo lời cô ấy bảo, và—
 
