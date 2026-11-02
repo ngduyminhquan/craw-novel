@@ -24,7 +24,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 17 |  | Chapter_017 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2) | reviewed |  |
 | 18 |  | Chapter_018 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3) | reviewed |  |
 | 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | done |  |
-| 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | todo |  |
+| 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | done |  |
 | 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | todo |  |
 | 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | todo |  |
 | 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -395,3 +396,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#19] Dịch danh hiệu 'Saint' / 'Saints' — tạm chọn 'Thánh Giả' (phương án khác: 'Thánh Nhân', 'Vị Thánh'). Tạm dùng trong bản dịch: 'Thánh Giả'. → Chốt 'Thánh Giả' (Saint) theo quy tắc Hán Việt. (orchestrator)
 - [#19] Dịch địa danh/cơ sở y tế 'Sanitarium' — tạm chọn 'Viện Trị Liệu' (phương án khác: 'Nhà Điều Dưỡng', 'Trị Liệu Viện'). Tạm dùng trong bản dịch: 'Viện Trị Liệu'. → Chốt 'Viện Trị Liệu' (Sanitarium). (orchestrator)
 - [#19] Dịch tiếng gọi của người đàn ông với Rentt 'Boss...!' — tạm chọn 'ông chủ...!' (phương án khác: 'đại ca...!', 'đại ân nhân...!'). Tạm dùng trong bản dịch: 'ông chủ...!'. → Chốt 'ông chủ...!' hợp quan hệ thuê mướn và tính cách nhân vật. (orchestrator)
+- [#20] Dịch tên quán ăn 'Red Wyvern Pavilion' — tạm chọn 'Quán Phi Long Đỏ' (phương án khác: 'Quán Ăn Phi Long Đỏ', 'Quán Rồng Đỏ'). Tạm dùng trong bản dịch: 'Quán Phi Long Đỏ'. → Chốt 'Quán Phi Long Đỏ'. (orchestrator)
+- [#20] Xưng hô giữa vợ chồng Loris Cariello và Isabel — tạm chọn Loris xưng 'anh' gọi 'em/Isabel', Isabel xưng 'em' gọi 'mình/anh' (phương án khác: xưng 'tôi' - gọi 'anh/cô'). Tạm dùng trong bản dịch: anh - em/Isabel, em - mình/anh. → Chốt Loris xưng anh gọi em/Isabel, Isabel xưng em gọi mình/anh. (orchestrator)
+- [#20] Xưng hô giữa Isabel và Rentt — tạm chọn Isabel gọi Rentt là 'cậu' xưng 'tôi', Rentt gọi Isabel là 'cô' xưng 'tôi' (phương án khác: Isabel gọi Rentt là 'ngài', Rentt gọi 'chị'). Tạm dùng trong bản dịch: Isabel gọi 'cậu' xưng 'tôi', Rentt gọi 'cô' xưng 'tôi'. → Chốt Isabel gọi cậu xưng tôi, Rentt gọi cô xưng tôi. (orchestrator)

@@ -117,6 +117,12 @@ Khi người đàn ông tỉnh lại, Rentt cho ông ta xem viên Ma Tinh cỡ l
 Đổi lại, Rentt yêu cầu người đàn ông làm chân chạy việc kiêm người đại diện đi mua đồ và vào Hội thay mình (viện cớ bàn tay khô quắt và giọng nói biến dạng là do di chứng từ một con quái vật cũ).
 Thấy người đàn ông áy náy vì giao kèo quá hời, Rentt bổ sung thêm điều kiện được ăn uống miễn phí trọn đời tại quán ăn sau khi trả hết nợ; người đàn ông bật khóc vì biết ơn và cảm tạ Rentt như một vị ân nhân/ông chủ.
 
+## 20
+Rentt cùng người đàn ông dùng ma pháp trận trở lại căn phòng ban đầu rồi an toàn rời Mê Cung Nguyệt Ảnh quay về thị trấn Maalt.
+Về tới Maalt, người đàn ông dẫn Rentt tới quán ăn của mình là Quán Phi Long Đỏ và gặp vợ là Isabel; sau khi hiểu rõ sự tình và thấy cánh tay khô quắt của Rentt, Isabel xúc động cảm tạ và đồng thuận với thỏa thuận của hai người.
+Trước khi rời đi, người đàn ông tự giới thiệu tên mình là Loris Cariello và hứa giữ kín bí mật sau khi được Rentt thổ lộ tên thật; Rentt tạm biệt gia đình Loris và hòa vào đường phố Maalt.
+
+
 
 
 

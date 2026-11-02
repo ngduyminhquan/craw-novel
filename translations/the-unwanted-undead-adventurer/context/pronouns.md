@@ -13,6 +13,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Lorraine / cô | 13 | Bạn thân lâu năm kiêm học giả |
 | Luka | Luka / người phụ nữ | 15 | Người tiếp khách tiệm rèn Ba Chĩa |
 | Clope | Clope / gã | 15 | Thợ rèn tiệm Ba Chĩa |
+| Loris Cariello | Loris / người đàn ông | 16 | Chủ quán ăn Phi Long Đỏ (tiết lộ tên ở #20) |
+| Isabel | Isabel / người phụ nữ | 20 | Vợ của Loris Cariello |
 
 ## Giữa các nhân vật
 
@@ -35,3 +37,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Clope | Rentt Faina | tôi | cậu | 15 | Thợ rèn xưng hô bộc trực, thân thiện với khách |
 | Luka | Clope | em | anh | 15 | Vợ chồng kiêm bạn thanh mai trúc mã |
 | Clope | Luka | anh | em | 15 | Vợ chồng kiêm bạn thanh mai trúc mã |
+| Rentt Faina | Loris Cariello | tôi | ông / Loris | 16 | Cứu mạng và thuê làm người đại diện (biết tên ở #20) |
+| Loris Cariello | Rentt Faina | tôi | cậu / ông chủ | 16 | Xem Rentt là ân nhân và ông chủ |
+| Loris Cariello | Isabel | anh | em / Isabel | 20 | Vợ chồng |
+| Isabel | Loris Cariello | em | anh / mình | 20 | Vợ chồng |
+| Rentt Faina | Isabel | tôi | cô | 20 | Khách và vợ của người giúp việc |
+| Isabel | Rentt Faina | tôi | cậu | 20 | Biết ơn ân nhân cứu mạng chồng mình |

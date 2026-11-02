@@ -10,6 +10,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Sheila Ibarss | Sheila | Sheila Ibarss | Tiếp tân viên Hội mạo hiểm giả Maalt, người phụ trách Rentt 5 năm | #9 |
 | Luka |  | Luka | Vợ thợ rèn Clope, tiếp khách và thẩm định vũ khí tiệm Ba Chĩa | #15 |
 | Clope |  | Clope | Thợ rèn chính kiêm chủ tiệm rèn Ba Chĩa | #15 |
+| Loris Cariello | Loris | Loris Cariello | Chủ quán ăn Phi Long Đỏ, được Rentt cứu ở Mê Cung Nguyệt Ảnh, nhận làm người đại diện cho Rentt | #16 |
+| Isabel |  | Isabel | Vợ của Loris, cùng chồng điều hành quán ăn Phi Long Đỏ | #20 |
 
 ## Chi tiết
 
@@ -18,7 +20,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 19: Tiêu diệt Khô Lâu Khổng Lồ, hấp thu nguồn năng lượng gia tăng cả 3 loại năng lượng; vận dụng Thần Lực sơ cứu chữa lành xương gãy cho người đàn ông, tặng viên Ma Tinh lớn và thỏa thuận để ông ta làm người đại diện/chân chạy việc mua đồ cho mình, đổi lại được ăn uống miễn phí trọn đời tại quán ăn sau khi ông ta trả hết nợ.
+- Trạng thái tính đến chương 20: Tiêu diệt Khô Lâu Khổng Lồ, cùng Loris quay về Maalt an toàn; ghé thăm Quán Phi Long Đỏ, được Isabel thấu hiểu và chấp thuận thỏa thuận; tiết lộ tên thật cho Loris và được ông ta hứa giữ kín bí mật.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -54,3 +56,17 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Bộc trực, dân dã, ngắn gọn, thẳng thắn.
 - Quan hệ: Chồng kiêm bạn thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
 - Trạng thái tính đến chương 15: Đảm nhận chế tác thanh kiếm đặc biệt cho Rentt, ngầm nhận ra người bạn cũ dưới lớp mặt nạ và tôn trọng nguyện vọng giữ kín của anh.
+
+### Loris Cariello
+- Giới tính, tuổi/vẻ ngoài: Nam, trung niên, dáng người bình thường của một đầu bếp kiêm chủ quán ăn.
+- Tính cách: Thật thà, biết ơn, có phần vụng về, nhẹ dạ cả tin nên từng bị lừa nợ ngập đầu, nhưng rất yêu thương vợ và có tinh thần trách nhiệm.
+- Cách nói chuyện: Dân dã, bộc trực, tôn kính và gọi Rentt là "ông chủ" (Boss).
+- Quan hệ: Người được Rentt cứu mạng ở Mê Cung Nguyệt Ảnh; được Rentt tặng Ma Tinh trả nợ và nhận làm người đại diện/chân chạy việc; chồng của Isabel.
+- Trạng thái tính đến chương 20: Trở về an toàn cùng Rentt, dẫn Rentt về quán Phi Long Đỏ gặp vợ mình, chính thức biết tên Rentt và hứa giữ kín bí mật.
+
+### Isabel
+- Giới tính, tuổi/vẻ ngoài: Nữ, trẻ trung, tóc nâu hổ phách chải ngược ra sau, vóc dáng thanh mảnh, toát lên vẻ đáng tin cậy và chăm chỉ, là một mỹ nhân xinh đẹp và quyến rũ.
+- Tính cách: Tháo vát, chu đáo, hiểu chuyện, biết nghĩ cho người khác, rất lo lắng và yêu thương chồng nhưng không ngần ngại chấn chỉnh tính bốc đồng của Loris.
+- Cách nói chuyện: Lịch sự, nhã nhặn, chân thành; với chồng thì vừa yêu thương vừa nghiêm khắc răn đe.
+- Quan hệ: Vợ của Loris Cariello; vô cùng biết ơn Rentt vì đã cứu mạng chồng mình.
+- Trạng thái tính đến chương 20: Gặp gỡ Rentt tại quán Phi Long Đỏ, sau thoáng e ngại trước cánh tay khô quắt của Rentt đã thấu hiểu hoàn cảnh và chấp nhận thỏa thuận cùng Ma Tinh của anh với một cái bắt tay chân thành.
