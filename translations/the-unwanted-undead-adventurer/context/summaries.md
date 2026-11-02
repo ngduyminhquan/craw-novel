@@ -228,3 +228,9 @@ Sheila đưa Rentt vào phòng kín của nhân viên Hội để đối chất 
 Sheila bất ngờ tiết lộ cô chưa từng báo cáo sự việc lên Hội vì chỉ muốn giúp đỡ anh, đồng thời giải thích nội tình về tham vọng đổi đời/tìm chồng của các nữ nhân viên qua việc thăng chuyển lên thủ đô.
 Để chứng minh sự chân thành và xóa tan hoài nghi của Rentt, Sheila rút ra một bản khế ước ràng buộc ma pháp trên giấy da cừu sẵn sàng ký tên bảo mật, đồng thời tiết lộ nhân viên giám sát nhóm Rentt chính là em trai cô – người sắp chuyển công tác lên thủ đô – và hứa sẽ lo liệu chuyện cậu ấy giữ kín bí mật.
 
+## 40
+Rentt chấp thuận ký bản khế ước ràng buộc ma pháp với các điều khoản bảo mật nghiêm ngặt sau khi Sheila tự nguyện đưa ra hình phạt từ chức và trở thành nô lệ nếu vi phạm.
+Hạ mũ trùm và điều chỉnh mặt nạ để lộ khuôn mặt mục rữa của Thi Quỷ, Rentt kể toàn bộ sự thật về cái chết trong Mê Cung Nguyệt Ảnh và quá trình Tiến Hóa Bản Thể từ Khô Lâu lên Thi Quỷ.
+Trước lời đề nghị hủy khế ước để tránh liên lụy của Rentt, Sheila kiên quyết giữ vững niềm tin vào nhân phẩm tốt đẹp của anh và nắm chặt tay cam kết hết lòng hỗ trợ anh trong Hội.
+Rentt đưa Sheila về nhà Lorraine để cùng trao đổi tình hình, ngỡ ngàng khi thấy căn nhà vừa được dọn dẹp lại bừa bộn một cách bất thường.
+

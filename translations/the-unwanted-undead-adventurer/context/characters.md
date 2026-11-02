@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 39: Bị Sheila đối chất riêng về việc đăng ký hai lần; giữ thế phòng thủ và yêu cầu bảo đảm an toàn bằng khế ước ràng buộc ma pháp trước khi tiết lộ uẩn khúc.
+- Trạng thái tính đến chương 40: Ký khế ước ràng buộc ma pháp bảo mật danh tính với Sheila và tiết lộ thân phận Undead (dạng Thi Quỷ) cùng câu chuyện tái sinh/tiến hóa; cùng Sheila về nhà Lorraine và phát hiện căn nhà bừa bộn bất thường dù vừa mới được dọn dẹp.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -58,7 +58,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
-- Trạng thái tính đến chương 39: Nhận ra Rentt Faina qua danh tính mới Rentt Vivie; đưa anh vào phòng riêng đối chất nhưng khẳng định không báo cáo lên Hội, sẵn sàng ký khế ước ma pháp để giúp anh giữ kín bí mật; tiết lộ em trai mình là nhân viên giám sát bí mật kỳ thi thăng hạng sắp chuyển công tác lên thủ đô Yaaran vào tuần tới.
+- Trạng thái tính đến chương 40: Chính thức ký khế ước ràng buộc ma pháp bảo mật danh tính cho Rentt với điều khoản chịu phạt từ chức và làm nô lệ nếu vi phạm; tận mắt nhìn thấy diện mạo Undead nửa mục rữa của Rentt và nghe toàn bộ sự thật về cái chết cùng Tiến Hóa Bản Thể trong Mê Cung Nguyệt Ảnh; kiên quyết tin tưởng vào nhân phẩm tốt đẹp của Rentt và cùng anh đến nhà Lorraine để phối hợp hỗ trợ.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
