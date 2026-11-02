@@ -31,6 +31,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
 | Viscount Lottnel | Lottnel | Tử tước Lottnel | Quý tộc cai quản thị trấn Maalt và các vùng phụ cận | #61 |
 | Laura Latuule |  | Laura Latuule | Đương chủ gia tộc Latuule, cô bé quý tộc sở hữu bộ sưu tập ma cụ đồ sộ | #62 |
+| Myullias Raiza | Myullias | Myullias Raiza | Nữ Thánh Nữ của Giáo Hội Lobelia mang năng lực trị liệu và thanh tẩy | #81 |
+| Gilly |  | Gilly | Tư tế giám sát thuộc Giáo Hội Lobelia đi cùng Myullias | #81 |
 
 ## Chi tiết
 
@@ -224,3 +226,18 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; người đưa ra ủy thác hái Hoa Long Huyết định kỳ cho Rentt.
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
 - Trạng thái tính đến chương 68: Tại phòng tiếp khách, thấu hiểu niềm đam mê sưu tầm của Rentt và đồng ý tặng luôn mô hình phi thuyền nhỏ làm phần thưởng kèm theo bên cạnh thù lao hợp đồng ban đầu; tiết lộ bản thân mắc Bệnh Tích Tụ Chướng Khí giai đoạn cuối nên cần dùng Long Hoa Huyết định kỳ; bắt tay giao kết ủy thác định kỳ với Rentt và cho phép anh tiếp tục gọi thẳng tên mình.
+
+### Myullias Raiza
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.
+- Tính cách, nghề nghiệp: Thánh Nữ (priestess-saint) của Giáo Hội Lobelia; không chút kiêu ngạo, điềm tĩnh làm tròn bổn phận; mang tư tưởng hoài nghi kín đáo về giáo lý của Giáo Hội Lobelia nên bị cấp trên nghi ngờ là có suy nghĩ dị giáo và đặt dưới sự giám sát.
+- Năng lực: Chuyên về trị liệu và thanh tẩy, có khả năng bao phủ ánh sáng trị liệu thanh tẩy cả thị trấn Maalt nhưng sẽ kiệt sức sau đó.
+- Cách nói chuyện: Tự nhiên, thẳng thắn, pha chút hóm hỉnh và bất cần khi nói chuyện với người giám sát.
+- Xuất hiện từ: #81.
+- Trạng thái tính đến chương 81: Được Giáo Hội Lobelia điều đến thị trấn biên ải Maalt để phô diễn năng lực trị liệu, thanh tẩy và thuyết giáo nhằm mở rộng tầm ảnh hưởng của giáo hội; ngồi cùng xe ngựa với tư tế giám sát Gilly.
+
+### Gilly
+- Giới tính, tuổi/vẻ ngoài: Nam, thanh niên trẻ tuổi, ánh mắt sắc bén, thần thái và động tác lạnh lùng như sát thủ hơn là tư tế; mang theo một vũ khí có lưỡi sắc bén giắt bên hông.
+- Tính cách, chức nghiệp: Tư tế giám sát (supervisory priest) của Giáo Hội Lobelia; cứng nhắc, nghiêm nghị, hành xử lạnh lùng vô cảm nhưng sâu xa vẫn có chút lo lắng cho sự an toàn của Myullias.
+- Cách nói chuyện: Nghiêm túc, cứng nhắc, giữ khoảng cách, xưng "tôi", gọi Myullias là "cô".
+- Xuất hiện từ: #81.
+- Trạng thái tính đến chương 81: Nhận lệnh từ tổng đàn Giáo Hội Lobelia ngồi cùng xe ngựa để giám sát Myullias trên đường đến Maalt, nhắc nhở cô giữ gìn lời ăn tiếng nói tránh để lộ tư tưởng bất kính với giáo hội.

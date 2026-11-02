@@ -475,5 +475,10 @@ Dù e ngại thân phận quái vật có thể bị bại lộ trước ngườ
 Dario trấn an Rentt rằng thương nhân đấu giá là người quen lâu năm từ Thương hội Stheno danh tiếng tại Maalt, và hứa sẽ sớm liên lạc sắp xếp lịch hẹn cụ thể.
 Trước khi rời đi, Rentt nhận một khoản tiền khá hời từ việc Dario đã giúp tiêu thụ các phần nguyên liệu phụ khác của Tarasque và được Dario hết lời khen ngợi kỹ thuật săn bắt bảo toàn xác quái vật.
 
+## 81
+Giáo Hội Lobelia, một thế lực tôn giáo hùng mạnh ở các vương quốc phía tây, cử Thánh Nữ Myullias Raiza đến thị trấn biên ải Maalt nhằm phô diễn năng lực trị liệu, thanh tẩy và thuyết giáo mở rộng tầm ảnh hưởng nhân lúc quái vật gia tăng.
+Khác với sự cuồng tín tuyệt đối của các tư tế cùng giáo hội, Myullias âm thầm hoài nghi về giáo lý cùng sự tồn tại duy nhất của Nữ Thần Lobelia nên bị cấp trên nghi ngờ có suy nghĩ dị giáo và đặt dưới sự giám sát.
+Trên cỗ xe ngựa tiến vào Maalt, tư tế giám sát Gilly lạnh lùng cảnh báo và nhắc nhở Myullias phải cẩn trọng lời ăn tiếng nói để tránh chịu kết cục bi thảm như dũng giả Fourostoroa trong ngụ ngôn xưa.
+
 
 

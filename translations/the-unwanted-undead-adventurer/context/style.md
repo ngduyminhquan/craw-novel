@@ -37,3 +37,4 @@
 - (1–5) Rentt bị rồng ăn thịt, thức tỉnh thành Khô Lâu rồi tiến hóa thành Ngạ Quỷ. Giọng kể mang đậm tính độc thoại phân tích logic, chấp nhận thực tế nhanh chóng, kiên trì không bỏ cuộc dù biến thành Undead.
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
+- (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.

@@ -30,6 +30,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Unbert Abeiyu | Unbert / người đàn ông | 59 | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt |
 | Norman Hanel | Norman / bác sĩ Norman / anh / người đàn ông | 59 | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt |
 | Laura Latuule | Laura / cô bé / thiếu nữ | 62 | Đương chủ gia tộc Latuule |
+| Myullias Raiza | Myullias / cô gái / cô | 81 | Thánh Nữ của Giáo Hội Lobelia |
+| Gilly | Gilly / gã / người đàn ông / vị tư tế | 81 | Tư tế giám sát của Giáo Hội Lobelia |
 
 ## Giữa các nhân vật
 
@@ -118,3 +120,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alize | Unbert Abeiyu | em | thầy Unbert / thầy trị liệu Unbert | 74 | Trẻ mồ côi gọi thầy trị liệu quen biết |
 | Alize | Norman Hanel | em | bác sĩ Norman / dược sư Norman | 74 | Trẻ mồ côi gọi dược sư quen biết |
 | Lorraine Vivie | Norman Hanel | tôi | anh / các anh | 75 | Học giả trao đổi lịch sự với dược sư |
+| Myullias Raiza | Gilly | tôi | anh | 81 | Thánh Nữ nói chuyện với tư tế giám sát đi cùng |
+| Gilly | Myullias Raiza | tôi | cô | 81 | Tư tế giám sát nhắc nhở Thánh Nữ |
