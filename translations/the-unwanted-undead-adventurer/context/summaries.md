@@ -234,3 +234,11 @@ Hạ mũ trùm và điều chỉnh mặt nạ để lộ khuôn mặt mục rữ
 Trước lời đề nghị hủy khế ước để tránh liên lụy của Rentt, Sheila kiên quyết giữ vững niềm tin vào nhân phẩm tốt đẹp của anh và nắm chặt tay cam kết hết lòng hỗ trợ anh trong Hội.
 Rentt đưa Sheila về nhà Lorraine để cùng trao đổi tình hình, ngỡ ngàng khi thấy căn nhà vừa được dọn dẹp lại bừa bộn một cách bất thường.
 
+## 41
+Lorraine dùng giọng điệu đanh thép và biểu cảm sát khí lạnh lùng như khi đối mặt quái vật để thử thách dũng khí và quyết tâm của Sheila trước khi chấp nhận cô vào bí mật.
+Vượt qua nỗi khiếp đảm tột cùng, Sheila kiên định khẳng định bản thân đã hiểu rõ sự thật; Lorraine hài lòng dịu giọng lại và mời cả ba cùng dùng bữa tối.
+Rentt trổ tài nấu nướng học được từ người dược sư ở quê nhà để chiêu đãi hai người, trong khi bản thân dùng một giọt máu từ lọ của Lorraine để nạp dinh dưỡng dưới dạng Thi Quỷ.
+Cả ba cùng phân tích các điều khoản của bản khế ước ràng buộc ma pháp; Lorraine xác nhận khế ước cơ bản ổn thỏa, đồng thời chỉ ra cách tháo gỡ nếu Sheila rơi vào kịch bản xấu nhất là bị ma pháp thao túng tâm trí.
+Khi Lorraine nhấn mạnh vai trò trọng yếu của Sheila trong việc giữ bí mật để Rentt tiếp tục làm mạo hiểm giả, Sheila ngập ngừng cảnh báo rằng dạo gần đây Rentt đang gây quá nhiều sự chú ý ở Maalt.
+
+

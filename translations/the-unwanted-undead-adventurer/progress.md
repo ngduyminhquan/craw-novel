@@ -45,7 +45,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | reviewed |  |
 | 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | reviewed |  |
 | 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | done |  |
-| 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | todo |  |
+| 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | done |  |
 | 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | todo |  |
 | 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | todo |  |
 | 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -439,3 +438,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#39] Dịch thuật ngữ/ma cụ 'magically binding contract' — tạm chọn 'khế ước ràng buộc ma pháp' (phương án khác: 'khế ước ma pháp ràng buộc', 'hợp đồng ma pháp'). Tạm dùng trong bản dịch: 'khế ước ràng buộc ma pháp'. → Chốt 'khế ước ràng buộc ma pháp'. (orchestrator)
 - [#38] Xưng hô của Raiz Dunner và Laura Satii với Sheila Ibarss → Chốt Raiz và Laura xưng 'tôi' gọi Sheila là 'chị / cô' (nhất quán với Rina Rupaage). (orchestrator)
 - [#40] Xưng hô Sheila gọi Lorraine ('Miss Vivie' ở đoạn 70) — tạm chọn Sheila gọi 'cô Vivie' xưng 'tôi' (phương án khác: 'tiểu thư Vivie'). Tạm dùng trong bản dịch: Sheila gọi 'cô Vivie' xưng 'tôi'. → Giữ 'cô Vivie', xưng 'tôi' (chuẩn lịch sự giữa tiếp tân Hội và mạo hiểm giả/học giả) (orchestrator)
+- [#41] Dịch cụm 'magical timekeeping device' (đoạn 1) — tạm chọn 'thiết bị đo thời gian ma pháp' (phương án khác: 'đồng hồ ma pháp', 'dụng cụ tính giờ ma thuật'). Tạm dùng trong bản dịch: 'thiết bị đo thời gian ma pháp'. → Giữ 'thiết bị đo thời gian ma pháp' (sát nghĩa với 'magical timekeeping device' trong raw) (orchestrator)

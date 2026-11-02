@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 40: Ký khế ước ràng buộc ma pháp bảo mật danh tính với Sheila và tiết lộ thân phận Undead (dạng Thi Quỷ) cùng câu chuyện tái sinh/tiến hóa; cùng Sheila về nhà Lorraine và phát hiện căn nhà bừa bộn bất thường dù vừa mới được dọn dẹp.
+- Trạng thái tính đến chương 41: Nấu bữa tối đãi Lorraine và Sheila, nạp dinh dưỡng bằng một giọt máu từ lọ của Lorraine; cùng Lorraine và Sheila phân tích các điều khoản và kịch bản xấu nhất trong bản khế ước ma pháp; bất ngờ khi nghe Sheila cảnh báo dạo gần đây mình đang gây quá nhiều sự chú ý.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -51,14 +51,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 27: Cùng Rentt kiểm tra ma cụ Bản Đồ Akasha, phát hiện ma cụ chỉ đáp ứng ma lực của Rentt và có khả năng phòng thủ ma pháp/vật lý cực cao như giáp trụ; bán giúp Ma Tinh từ mê cung giúp Rentt có tiền chi tiêu; cảnh báo Rentt về sự nguy hiểm khôn lường của người phụ nữ tóc trắng.
+- Trạng thái tính đến chương 41: Dùng vẻ mặt sát khí lạnh lùng thử thách quyết tâm của Sheila trước khi chấp nhận cô vào liên minh giữ bí mật cho Rentt; rà soát bản khế ước ràng buộc ma pháp, chỉ ra cách hủy bỏ đơn phương nếu Sheila bị ma pháp thao túng tâm trí; nhướn mày ngạc nhiên khi nghe Sheila nói Rentt đang gây quá nhiều sự chú ý.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
-- Trạng thái tính đến chương 40: Chính thức ký khế ước ràng buộc ma pháp bảo mật danh tính cho Rentt với điều khoản chịu phạt từ chức và làm nô lệ nếu vi phạm; tận mắt nhìn thấy diện mạo Undead nửa mục rữa của Rentt và nghe toàn bộ sự thật về cái chết cùng Tiến Hóa Bản Thể trong Mê Cung Nguyệt Ảnh; kiên quyết tin tưởng vào nhân phẩm tốt đẹp của Rentt và cùng anh đến nhà Lorraine để phối hợp hỗ trợ.
+- Trạng thái tính đến chương 41: Vượt qua phép thử áp lực tột cùng của Lorraine bằng quyết tâm kiên định; chứng kiến Rentt nấu ăn và nạp dinh dưỡng bằng một giọt máu của Lorraine; đưa bản khế ước ma pháp cho Lorraine kiểm tra lỗ hổng; cảnh báo Rentt đang trở nên quá nổi bật ở Maalt.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
