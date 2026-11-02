@@ -238,3 +238,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Grand Goblin | grand goblins | Đại Goblin | quái vật | 126 | Phân loài Goblin tiến hóa bậc cao |
 | Monster Cooking: How to Make Low-Quality Parts Taste Good | Monster Cooking | Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon | vật phẩm | 128 | Cuốn sách dạy nấu ăn từ thịt ma vật Lorraine mua ở chợ |
 | Lady Luck |  | Nữ Thần May Mắn | danh hiệu | 129 | Nhân cách hóa của sự may mắn (運命の女神) |
+| Zombie | zombies; Zombies; zombie | Zombie | quái vật | 130 | Quái vật xác sống vô tri cử động được (ゾンビ) |
+| Killer Mantis | killer mantis; killer mantises; Killer Mantises | bọ ngựa sát thủ | quái vật | 130 | Chủng quái vật dạng bọ ngựa ăn thịt |
+| Curtis Mant | curtis mants; curtis mant; Curtis Mants | Curtis Mant | quái vật | 130 | Phân loài bọ ngựa sát thủ, thịt có thể chế biến thành món ăn |
+| Dragon carriage | dragon carriages; dragon carriage; Dragon carriages | xe rồng | vật phẩm | 130 | Cỗ xe kéo bằng sinh vật Á Long có hình dáng tương tự ngựa |

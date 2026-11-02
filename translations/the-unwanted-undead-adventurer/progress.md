@@ -134,7 +134,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | reviewed |  |
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | reviewed |  |
 | 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | reviewed |  |
-| 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | todo |  |
+| 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | done |  |
 | 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | todo |  |
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | todo |  |
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | todo |  |
@@ -666,3 +666,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#127] Xác nhận sửa lỗi lặp từ đoạn 1, chính tả đoạn 79 và bỏ từ ghép thừa đoạn 85 → Chốt sửa đoạn 1, 79, 85; giữ nguyên đoạn 80. (orchestrator)
 - [#128] Xác nhận sửa câu dẫn thoại đoạn 22, 58, 64, lặp từ đoạn 25 và đại từ đoạn 60 → Chốt sửa các đoạn 22, 25, 58, 60, 64; giữ nguyên đoạn 18. (orchestrator)
 - [#129] Xác nhận sửa cách gọi ước lệ 'nàng Rina' (đoạn 27, 43, 71) và từ 'diện kiến' (đoạn 53) → Chốt sửa 'nàng Rina' thành 'cô bé Rina', 'diện kiến' thành 'gặp mặt', cập nhật rules.md và pronouns.md. (orchestrator)
+- [#130] Dịch tiêu đề arc/chương 'Vol 5 Chapter 4 - The Journey (1)': tạm chọn 'Tập 5 Chương 4 - Chuyến Hành Trình (1)' (phương án khác: 'Tập 5 Chương 4 - Hành Trình (1)'). Tạm dùng trong bản dịch: 'Tập 5 Chương 4 - Chuyến Hành Trình (1)'. → Giữ 'Tập 5 Chương 4 - Chuyến Hành Trình (1)' (orchestrator)
+- [#130] Dịch tên quái vật 'Zombie' (đoạn 58): tạm giữ nguyên 'Zombie' theo tiền lệ quái vật fantasy (Slime, Wight, Goblin) và chương 50 (phương án khác: 'Xác Sống'). Tạm dùng trong bản dịch: 'Zombie'. → Giữ nguyên 'Zombie' theo tiền lệ quái vật fantasy và chương 50 (orchestrator)
+- [#130] Dịch quái vật 'Curtis Mant' (đoạn 18): tạm chọn giữ nguyên 'Curtis Mant' theo rules.md cho tên quái vật fantasy (phương án khác: 'bọ ngựa Curtis'). Tạm dùng trong bản dịch: 'Curtis Mant'. → Giữ nguyên 'Curtis Mant' theo rules.md cho tên quái vật fantasy (orchestrator)

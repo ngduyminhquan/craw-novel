@@ -762,4 +762,10 @@ Rentt tiết lộ việc đã gặp anh trai cô là kỵ sĩ Idoles Rogue đang
 Cùng Lorraine mang chồng sách mua ở chợ về nhà, Rentt nhanh chóng biến đổi mặt nạ đầu lâu và nhờ mạng lưới chuột Puchi Suri của Edel dẫn đường tìm đến gặp Idoles.
 Rentt viện cớ cổ họng từng bị thương để giải thích giọng nói khôi phục, rồi chuyển lời hẹn của Rina; Idoles cho biết sắp phải về vương đô nên gửi lại lời hẹn sau một tháng, sau đó Rentt đến Hội Mạo Hiểm Giả lưu lại tin nhắn cho Rina.
 
+## 130
+Rentt và Lorraine chuẩn bị hành trang lên đường về quê nhà Làng Hathara; hai người tới bến xe Maalt và bắt cỗ xe rùa khổng lồ đi về hướng đông do một lão phu xe cầm lái.
+Trên xe có sáu hành khách gồm nhóm Rentt, hai cha con người đàn ông trung niên và đôi vợ chồng già; cỗ xe tuy khởi động chậm nhưng tăng tốc di chuyển khá nhanh.
+Chiều muộn, đoàn xe dừng chân hạ trại giữa vùng hoang vu cách xa thị trấn; Lorraine thu tiền các hành khách rồi cùng Rentt dùng thực phẩm trong túi ma thuật và ma pháp tiện ích nấu bữa tối thịnh soạn cho cả đoàn.
+Đêm xuống, các hành khách nam và Lorraine thay phiên nhau đứng gác quái vật; trong lúc Rentt và Lorraine trò chuyện bên đống lửa trại, cả hai phát hiện bầy Zombie bước ra từ bóng tối cánh rừng phía sau.
+
 
