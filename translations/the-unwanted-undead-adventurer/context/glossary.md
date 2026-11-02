@@ -188,3 +188,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Good King Felt | Good King | Hiền Vương Felt | khác | 99 | Vị vua trong truyền thuyết dẫn dắt thần dân xây dựng thành phố trong lòng mê cung |
 | Empire of Rermutt | Rermutt; Remrutt; the Empire of Rermutt | Đế Quốc Rermutt | địa danh | 99 | Đế quốc rộng lớn nằm ở phía tây, quê hương của Lorraine Vivie (レルムット帝国) |
 | Rermutt First University | Rermutt’s First University | Đệ Nhất Đại Học Rermutt | tổ chức | 99 | Viện đại học danh tiếng hàng đầu của Đế Quốc Rermutt, trường cũ của Lorraine Vivie |
+| Blacksmith’s Guild | Blacksmith's Guild; Blacksmiths Guild | Hội Thợ Rèn | tổ chức | 100 | Hiệp hội quản lý các thợ rèn và sản xuất vũ khí kim loại |
+| Flood | Floods; flood; floods | Lũ Tràn | khác | 91 | Hiện tượng quái vật trong mê cung bùng phát tràn ra bên ngoài (quái triều / monster flood) |

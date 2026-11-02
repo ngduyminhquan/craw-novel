@@ -104,7 +104,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | reviewed |  |
 | 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | reviewed |  |
 | 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | reviewed |  |
-| 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | todo |  |
+| 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | done |  |
 | 101 |  | Chapter_101 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8) | todo |  |
 | 102 |  | Chapter_102 - Vol 4 Chapter 3 - The Stheno Trading Company (1).txt | Vol 4 Chapter 3 - The Stheno Trading Company (1) | todo |  |
 | 103 |  | Chapter_103 - Vol 4 Chapter 3 - The Stheno Trading Company (2).txt | Vol 4 Chapter 3 - The Stheno Trading Company (2) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -575,3 +574,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#99] Dịch tên quốc gia và cơ sở giáo dục 'Empire of Rermutt' / 'Rermutt First University' (alma mater của Lorraine) — tạm chọn 'Đế Quốc Rermutt' và 'Đệ Nhất Đại Học Rermutt' (chuẩn phong cách phương Tây; phương án khác: 'Đại Học Số Một Rermutt', 'Đại Học Đệ Nhất Rermutt'). Tạm dùng trong bản dịch: 'Đế Quốc Rermutt' và 'Đệ Nhất Đại Học Rermutt'. → Giữ 'Đế Quốc Rermutt' và 'Đệ Nhất Đại Học Rermutt'. (orchestrator)
 - [#99] Cảnh báo QA 'Iron-class' và 'familiar' — tạm giữ nguyên 'Ma Thiết' và tính từ 'quen thuộc' trong bản dịch, do alias 'Iron' của 'Iron-class' và từ đa nghĩa 'familiar' trong glossary.md bắt nhầm ngữ cảnh. → Chấp nhận cảnh báo báo nhầm ở 'Mana Iron' và tính từ 'familiar'. (orchestrator)
 - [#98-99] Dịch 'hot wine' và cách viết số thứ tự tầng mê cung trong văn xuôi → Không thêm danh từ chung 'hot wine' vào glossary nhưng đồng bộ dịch là 'rượu vang nóng' ở #98-#99; chuẩn hóa viết chữ 'tầng bốn' trong văn xuôi. (orchestrator)
+- [#100] Cảnh báo QA do Alias 'Guild' của Adventurer’s Guild và 'Iron' của Iron-class: đề xuất xoá hai alias từ đơn chung này trong glossary.md vì gây báo nhầm khi gặp 'Blacksmith’s Guild' (Hội Thợ Rèn) và 'Mana Iron' (Ma Thiết); tạm giữ nguyên glossary và bản dịch dịch chuẩn theo ngữ cảnh. → Chấp nhận cảnh báo báo nhầm ở 'Blacksmith’s Guild' và 'Mana Iron'; giữ nguyên bản dịch 'Hội Thợ Rèn', 'Lũ Tràn' và giữ nguyên alias trong glossary.md. (orchestrator)

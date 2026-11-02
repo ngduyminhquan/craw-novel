@@ -582,6 +582,13 @@ Vừa thưởng thức bữa tối do Lorraine nấu, Rentt vừa bức xúc k�
 Trong men say, Lorraine hiếm hoi bộc bạch quá khứ tại Đế Quốc Rermutt: từng là học giả tinh hoa nhắm tới chức hiệu trưởng Đệ Nhất Đại Học Rermutt nhưng bị đồng nghiệp đố kỵ, ngáng đường và phủ nhận nghiên cứu nên cô quyết định rời đi để tìm kiếm sự thanh thản.
 Rentt đồng cảm sâu sắc với Lorraine, thầm thấy may mắn vì cô đã chuyển tới Maalt và tự nhủ điều quan trọng nhất là tận hưởng trọn vẹn những ngày tháng tốt đẹp trước mắt.
 
+## 100
+Sáng hôm sau, trong lúc chuẩn bị tới Thương hội Stheno bàn về việc bán đấu giá nguyên liệu Tarasque, Rentt cùng Lorraine thảo luận về việc cơ thể Undead của anh bắt đầu ngủ được đôi chút sau các lần Tiến Hóa Bản Thể.
+Rentt bày các nguyên liệu lên bàn nhờ Lorraine thẩm định và nhờ tinh luyện Ma Thiết: Lorraine nhận diện Ma Tinh lấy từ tầng hai là của Orc Binh, cảnh báo dấu hiệu nguy cơ Lũ Tràn (quái triều) sắp xảy ra.
+Kiểm tra quặng Ma Thiết, Lorraine phát hiện một phần quặng bị biến đổi bởi Ma Lực của Rồng Đất chuyển sang sắc vàng, trở thành quặng ma thuật quý giá có thể rèn ra ma kiếm hoặc ma giáp tự phát động ma pháp hệ thổ mà không tốn Ma Lực.
+Dù rất hứng thú muốn rèn ma kiếm trong tương lai, Rentt đồng tình chưa nên trang bị thứ quá tầm cho Alize vì lý do rèn luyện và bản thân anh cũng chưa đủ tiền chi trả phí rèn đúc; kết chương, Lorraine xem qua các mẫu gỗ Ent Jyulapus (bạch dương, linh sam, gỗ mun) để chuẩn bị chế tạo đũa phép.
+
+
 
 
 
