@@ -170,3 +170,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Orc King | Orc Kings | Vua Orc | quái vật | 91 | Quái vật cấp vua thống trị toàn bộ loài Orc trong lãnh địa |
 | Jyulapus Ent | Jyulapus Ents | Ent Jyulapus | quái vật | 91 | Quái vật dạng cây gỗ thuộc tính mộc ở tầng 3 Mê Cung Tân Nguyệt |
 | Kesem Kofu |  | Kesem Kofu | quái vật | 91 | Quái vật dạng khỉ nhanh nhẹn xảo quyệt sống trên tán cây tầng 3 Mê Cung Tân Nguyệt |
+| Ent | Ents | Ent | quái vật | 92 | Chủng quái vật dạng cây gỗ / người cây nói chung |

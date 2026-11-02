@@ -535,3 +535,9 @@ Sau khi phân tách xác quái lấy Ma Tinh và thịt, Rentt nhận thấy d�
 Rentt xác định mục tiêu tiếp theo là thu thập nguyên liệu gỗ từ Ent Jyulapus cùng Ma Tinh tầng sâu để Lorraine dạy Alize tự chế tạo đũa phép.
 Tiến xuống tầng 3 với địa hình biển cây rậm rạp tăm tối, Rentt và Edel bị đàn quái vật dạng khỉ Kesem Kofu xảo quyệt trên tán cây bao vây và phục kích bất ngờ.
 
+## 92
+Bị đàn quái vật Kesem Kofu hơn bốn mươi con bao vây và phục kích từ trên tán cây tầng 3, Rentt chật vật né tránh thì Edel bất ngờ vận Ma Lực leo vút lên thân cây tấn công, đánh rơi từng con quái xuống đất cho Rentt kết liễu và mổ xẻ thu hoạch Ma Tinh.
+Rentt tiếp tục tìm kiếm Ent Jyulapus để lấy nguyên liệu gỗ làm đũa phép cho Alize và mình theo lời dặn của Lorraine (kết hợp Ma Tinh khác loài để tối ưu hóa phát lực).
+Do không có ma cụ nhìn thấu Ma Lực và Ent Jyulapus ngụy trang hòa lẫn hoàn hảo vào cây cối, Rentt dùng hạ sách chém bừa vào các bụi rậm và dụ được một con Ent Jyulapus phản công dữ dội bằng cành nhọn và dây leo quất như roi.
+Phát hiện chân thân của Ent Jyulapus là thể tinh linh vô định hình cư ngụ trong hốc rỗng thân cây, Rentt tránh phá hủy thân gỗ để giữ nguyên liệu bán lấy tiền, thay vào đó anh đâm kiếm vào hốc mắt rồi phóng Ma Lực tiêu diệt tinh linh và thành công thu hoạch nguyên liệu.
+
