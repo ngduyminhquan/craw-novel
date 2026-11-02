@@ -806,3 +806,11 @@ Lorraine tận tình giải thích những góc khuất gian truân của nghề
 Để giữ thể diện cho bạn, Lorraine ca ngợi Rentt và chiếu ảo ảnh Tarasque, giải thích về loài Á Long kịch độc ở Đầm Lầy Tarasque; hai cô bé bồi hồi kể lại kỷ niệm thời thơ ấu khi Rentt liều mình đẫm máu vào rừng sâu cứu đứa trẻ bị lạc giữa lúc người lớn trong làng đi diệt Goblin.
 Cảnh kết thúc khi Lorraine triệu hồi ảo ảnh của Rentt đứng trước Tarasque, chuẩn bị tái hiện lại trận chiến săn quái vật cho Riri và Fahri hào hứng chiêm ngưỡng.
 
+## 137
+Lorraine dùng ma pháp ảo ảnh tái hiện trận chiến hào nhoáng giữa Rentt và Tarasque (lược bỏ Edel, Thần Lực và Dung Hợp Thuật để giấu bí mật) khiến Riri và Fahri vô cùng kinh ngạc và ngưỡng mộ.
+Rentt trở về nhà sau chuyến đi dạo và bất ngờ trước ánh mắt thán phục cùng sự hiểu lầm của hai cô bạn thuở nhỏ rằng anh là anh hùng và mọi người ở thành phố Maalt đều có khả năng kháng độc.
+Riri và Fahri chào tạm biệt để đi phụ giúp chuẩn bị cho tiệc tối; khi chỉ còn lại hai người, Rentt cằn nhằn về việc Lorraine tô vẽ câu chuyện quá mức và thắc mắc về năng lực ma pháp ảo ảnh vượt trội của cô.
+Lorraine khuyên Rentt nên tự tin hơn vào năng lực bản thân thay vì tự ti trước những nhân vật dị biệt như Laura hay Nive, rồi chiếu lại đoạn ảo ảnh cho Rentt xem.
+Chương kết thúc khi Rentt hoảng hốt phát hiện Lorraine dự định chiếu lại màn ảo ảnh phóng đại này cho toàn thể dân làng chiêm ngưỡng trong bữa tiệc chào mừng tối nay.
+
+

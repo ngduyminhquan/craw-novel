@@ -44,7 +44,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ancient Dragon | | Rồng Cổ Đại | quái vật | 2 | Rồng trưởng thành sau nhiều năm |
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
-| Divinity |  | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
+| Divinity | divinity | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
 | Giant Skeleton | the Giant Skeleton; Giant Skeletons | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
 | Soldier Skeleton | Soldier Skeletons; Skeleton Soldier; Skeleton Soldiers | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
 | Poison Slime | Poison Slimes | Slime Độc | quái vật | 18 | Phân loài Slime chứa độc tính |
@@ -88,7 +88,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Orichalcum |  | Orichalcum | vật phẩm | 43 | Kim loại huyền thoại cực kỳ quý hiếm trong fantasy (オリハルコン) |
 | Mithril |  | Mithril | vật phẩm | 44 | Kim loại ma thuật quý hiếm (ミスリル) |
 | Mana-spirit Fusion Arts | Mana-spirit Fusion Art | Ma Khí Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp đồng thời Ma Lực và Khí Lực (魔気融合術) |
-| Fusion Art | Fusion Arts; Fusion-Arts | Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp các nguồn năng lượng khác nhau (融合術) |
+| Fusion Art | Fusion Arts; Fusion-Arts; fusion arts | Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp các nguồn năng lượng khác nhau (融合術) |
 | Todds Village |  | Làng Todds | địa danh | 45 | Ngôi làng nhỏ ở phía đông Maalt gần Hồ Ruiess |
 | Ruiess Lake |  | Hồ Ruiess | địa danh | 45 | Hồ nước nhỏ gần Làng Todds |
 | Lord of the Lake | Lord | Chúa Tể Hồ | quái vật | 45 | Sinh vật ngụ dưới đáy Hồ Ruiess được dân làng Todds dâng tế vật (湖の主) |
@@ -256,4 +256,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Nameless Festival |  | Lễ Hội Vô Danh | khác | 134 | Lễ hội truyền thống cổ xưa của Làng Hathara dành cho các cặp đôi bên bờ hồ |
 | Grand Fum Wyvern | grand fum wyvern; Grand Fum Wyverns; grand fum wyverns | Phi Long Grand Fum | quái vật | 135 | Loài Phi Long khổng lồ dài 10m sống gần đỉnh núi (グランドファムワイバーン) |
 | Zeva Wyvern | zeva wyverns; Zeva Wyverns; zeva wyvern | Phi Long Zeva | quái vật | 135 | Phân loài Phi Long bay yếu nhất trong các loài Á Long (ゼヴァワイバーン) |
-| Projection magic | projection magic; projection spell; projection spells | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |
+| Projection magic | projection magic; projection spell; projection spells; Illusion magic; illusion magic | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |

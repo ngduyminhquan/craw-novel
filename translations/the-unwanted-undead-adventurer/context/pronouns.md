@@ -205,3 +205,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Fahri | Lorraine Vivie | em | chị / chị Lorraine | 135 | Thiếu nữ trong làng nói chuyện với người quen của Rentt |
 | Riri | Fahri | tớ / mình | cậu / Fahri | 135 | Bạn thân cùng tuổi cùng làng |
 | Fahri | Riri | tớ / mình | cậu / Riri | 135 | Bạn thân cùng tuổi cùng làng |
+| Rentt Faina | Riri | tôi | em / Riri | 137 | Bạn thuở nhỏ lớn hơn 7 tuổi nói chuyện với cô em gái trong làng |
+| Riri | Rentt Faina | em | anh / anh Rentt | 137 | Thiếu nữ trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn |
+| Rentt Faina | Fahri | tôi | em / Fahri | 137 | Bạn thuở nhỏ lớn hơn 7 tuổi nói chuyện với cô em gái trong làng |
+| Fahri | Rentt Faina | em | anh / anh Ren | 137 | Thiếu nữ trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn, dùng tên gọi thân mật Ren |
