@@ -41,6 +41,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sharl Stheno | Sharl / người đàn ông / vị thương nhân | 103 | Chủ Thương hội Stheno |
 | Nive Maris | Nive / cô gái / cô | 104 | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng |
 | Wolf Hermann | Wolf / Hội Trưởng Wolf / ông / người đàn ông | 125 | Hội Trưởng Hội Mạo Hiểm Giả Maalt |
+| Alhildis | Alhildis / cô bé Elf / đứa trẻ | 131 | Nữ mạo hiểm giả Kim Cấp tộc Elf |
 
 ## Giữa các nhân vật
 
@@ -163,3 +164,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Wolf Hermann | tôi | Wolf / Hội Trưởng | 126 | Wolf bảo nói chuyện bình đẳng như mạo hiểm giả, không cần khách sáo |
 | Sheila Ibarss | Wolf Hermann | tôi | Hội Trưởng | 125 | Nhân viên Hội báo cáo cấp trên |
 | Wolf Hermann | Sheila Ibarss | tôi | cô / Sheila | 125 | Hội Trưởng nói chuyện với nhân viên |
+| Alhildis | * | ta | các ngươi / các người | 131 | Bậc tiền bối tộc Elf nói chuyện với giọng điệu cổ kính |
+| Alhildis | Lorraine Vivie | ta | ngươi / cô | 131 | Tiền bối mạo hiểm giả Kim Cấp nói chuyện với Lorraine |
+| Alhildis | Rentt Faina | ta | ngươi / cậu | 131 | Tiền bối mạo hiểm giả Kim Cấp nói chuyện với Rentt |
+| Lorraine Vivie | Alhildis | tôi / chúng tôi | cô | 131 | Giao tiếp lịch sự, thận trọng trước mạo hiểm giả Kim Cấp tộc Elf |
+| Rentt Faina | Alhildis | tôi | cô | 131 | Mạo hiểm giả Đồng Cấp thận trọng giao tiếp với mạo hiểm giả Kim Cấp |

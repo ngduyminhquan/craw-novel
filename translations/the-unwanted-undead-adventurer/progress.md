@@ -135,7 +135,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | reviewed |  |
 | 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | reviewed |  |
 | 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | done |  |
-| 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | todo |  |
+| 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | done |  |
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | todo |  |
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | todo |  |
 | 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | todo |  |
@@ -669,3 +669,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#130] Dịch tiêu đề arc/chương 'Vol 5 Chapter 4 - The Journey (1)': tạm chọn 'Tập 5 Chương 4 - Chuyến Hành Trình (1)' (phương án khác: 'Tập 5 Chương 4 - Hành Trình (1)'). Tạm dùng trong bản dịch: 'Tập 5 Chương 4 - Chuyến Hành Trình (1)'. → Giữ 'Tập 5 Chương 4 - Chuyến Hành Trình (1)' (orchestrator)
 - [#130] Dịch tên quái vật 'Zombie' (đoạn 58): tạm giữ nguyên 'Zombie' theo tiền lệ quái vật fantasy (Slime, Wight, Goblin) và chương 50 (phương án khác: 'Xác Sống'). Tạm dùng trong bản dịch: 'Zombie'. → Giữ nguyên 'Zombie' theo tiền lệ quái vật fantasy và chương 50 (orchestrator)
 - [#130] Dịch quái vật 'Curtis Mant' (đoạn 18): tạm chọn giữ nguyên 'Curtis Mant' theo rules.md cho tên quái vật fantasy (phương án khác: 'bọ ngựa Curtis'). Tạm dùng trong bản dịch: 'Curtis Mant'. → Giữ nguyên 'Curtis Mant' theo rules.md cho tên quái vật fantasy (orchestrator)
+- [#131] Dịch 'necromancy' — tạm chọn 'Tử Linh Thuật' (phương án khác: 'Thuật Chiêu Hồn', 'Chiêu Hồn Thuật') → Giữ 'Tử Linh Thuật' (orchestrator)
+- [#131] Xưng hô của Alhildis — cô bé Elf Kim Cấp phong thái bà lão nói giọng cổ xưa: tạm chọn Alhildis tự xưng 'ta', gọi người khác là 'ngươi / các ngươi', Lorraine và Rentt xưng 'tôi / chúng tôi' gọi 'cô' (phương án khác: Rentt/Lorraine gọi 'bà' hoặc 'tiền bối') → Giữ Alhildis tự xưng 'ta', gọi người khác là 'ngươi / các ngươi'; Lorraine và Rentt xưng 'tôi / chúng tôi' gọi 'cô' (orchestrator)

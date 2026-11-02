@@ -242,3 +242,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Killer Mantis | killer mantis; killer mantises; Killer Mantises | bọ ngựa sát thủ | quái vật | 130 | Chủng quái vật dạng bọ ngựa ăn thịt |
 | Curtis Mant | curtis mants; curtis mant; Curtis Mants | Curtis Mant | quái vật | 130 | Phân loài bọ ngựa sát thủ, thịt có thể chế biến thành món ăn |
 | Dragon carriage | dragon carriages; dragon carriage; Dragon carriages | xe rồng | vật phẩm | 130 | Cỗ xe kéo bằng sinh vật Á Long có hình dáng tương tự ngựa |
+| Paloom Igni Su Turbo |  | Paloom Igni Su Turbo | kỹ năng | 131 | Thần chú kết hợp phong hỏa tạo lốc xoáy rực lửa thiêu rụi xung quanh của Lorraine (câu chú giữ nguyên) |
+| necromancy |  | Tử Linh Thuật | kỹ năng | 131 | Thuật ma pháp cổ xưa đã thất truyền liên quan đến điều khiển xác sống và linh hồn người chết (死霊魔術) |
+| divine arts | divine art | thần thuật | kỹ năng | 131 | Nghệ thuật vận dụng Thần Lực để trị liệu và thanh tẩy tà khí (神術) |

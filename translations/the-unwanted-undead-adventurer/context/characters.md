@@ -52,6 +52,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Conra |  | Conra | Pháp sư thời xưa không có năng khiếu vẽ vời, triệu hồi nhầm rồng lửa trong một nghi lễ | #121 |
 | Saint Myullias |  | Thánh Nữ Myullias | Cách gọi kèm danh hiệu của Myullias Raiza | #117 |
 | Wolf Hermann | Wolf; Guildmaster Wolf; Hermann | Wolf Hermann | Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả | #125 |
+| Alhildis |  | Alhildis | Nữ mạo hiểm giả Kim Cấp chủng tộc Elf, bậc thầy Thần Thuật mang ngoại hình bé gái nhưng tính cách bà lão | #131 |
 
 ## Chi tiết
 
@@ -81,6 +82,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 127: Chia sẻ việc Nive dùng Thánh Hỏa kiểm tra bản thân vô tội; giao nộp tập hồ sơ sai phạm của Hội Maalt do Edel và cánh tình báo thu thập; đồng ý gia nhập làm nhân viên Hội Mạo Hiểm Giả để hợp thức hóa việc đăng ký hai lần và hưởng các đặc quyền thông tin, mua sắm ưu đãi; để Wolf thử dùng sức kéo chiếc mặt nạ nguyền rủa nhưng không lay chuyển; đàm phán thành công và chuẩn bị nhận thẻ nhân viên.
 - Trạng thái tính đến chương 128: Kể cho Sheila và Lorraine nghe về thỏa thuận với Wolf; được cả Sheila lẫn Lorraine chia sẻ máu cho bữa ăn; trêu Lorraine về đề xuất kết hôn của Wolf; cùng Lorraine đi chợ mua nhu yếu phẩm chuẩn bị về quê và tình cờ tái ngộ Rina Rupaage tại quầy ma cụ phế phẩm sau khi đổi mặt nạ đầu lâu.
 - Trạng thái tính đến chương 129: Trò chuyện cùng Rina, biết cô đã lập tổ đội cùng Raiz Dunner và Laura Satii; nhờ mạng lưới chuột của Edel bám theo và trực tiếp gặp Idoles Rogue để chuyển lời hẹn gặp của Rina; được Idoles gửi lại lời hẹn sau một tháng do phải về vương đô; mang lời nhắn đến Hội lưu lại cho Rina.
+- Trạng thái tính đến chương 131: Cùng Lorraine di chuyển trên cỗ xe rùa khổng lồ về quê nhà Làng Hathara; dùng Thần Lực thanh tẩy đống tro tàn Zombie sau ma pháp của Lorraine khiến cỏ non đâm chồi; tiếp xúc và xác minh tấm thẻ mạo hiểm giả Kim Cấp của nữ mạo hiểm giả tộc Elf Alhildis.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -118,6 +120,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 120: Dùng bảng ma cụ mở lớp hướng dẫn Rentt cùng Alize kỹ thuật chế tạo đũa phép bằng thuật giả kim; thị phạm quy trình vẽ ma pháp trận bằng mực chuyên dụng lên bảng đồng, truyền Ma Lực cho Ma Tinh Orc Binh hấp thụ ma pháp trận và dùng Ma Lực gọt đẽo gỗ Ent Bụi Cây; giới thiệu khái niệm ma pháp trận xếp tầng ba chiều.
 - Trạng thái tính đến chương 122: Giải thích vai trò của phần tay cầm và số lượng Ma Tinh trên vật dẫn; hướng dẫn Rentt và Alize nắn thẳng đường dẫn ma lực trong đũa phép; tiết lộ ký ức thời học việc từng ném đũa phép vào mặt thầy giáo cũ.
 - Trạng thái tính đến chương 123: Tiết lộ sở hữu mảnh đất rộng lớn ở ngoại vi Maalt dùng làm bãi thử ma thuật mạo hiểm; chia sẻ góc nhìn phê phán thói quen phụ thuộc đũa phép của giới ma pháp sư Đế Quốc Rermutt và lý do bản thân không có tiếng nói tại quê nhà.
+- Trạng thái tính đến chương 131: Thi triển ma pháp phong hỏa Paloom Igni Su Turbo tiêu diệt đàn Zombie quanh khu cắm trại; thu thập Ma Tinh của Zombie để nghiên cứu Tử Linh Thuật hỗ trợ tìm hiểu bản thể Undead của Rentt; tiếp xúc với nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -400,3 +403,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 126: Có nét chữ rất đẹp và nắn nót do phải xử lý nhiều công văn giấy tờ gửi lên vương đô; từng là mạo hiểm giả độc hành săn quái ở Mê Cung Nguyệt Ảnh; ký khế ước ma pháp bảo mật với Rentt và lắng nghe toàn bộ câu chuyện về việc Rentt biến thành Undead (Khô Lâu -> Ngạ Quỷ -> Ma Cà Rồng); hoàn toàn tin tưởng nhân phẩm Rentt không hại người; bàng hoàng khi biết Nive Maris phán định Rentt không phải Ma Cà Rồng.
 - Trạng thái tính đến chương 127: Đau đầu trước thông tin có một con Ma Cà Rồng khác ở Maalt và Nive Maris đang lùng sục; nhận tập tài liệu sai phạm của Hội từ Rentt để nghiên cứu; gợi ý các phương án xử lý đăng ký hai lần và đặc cách tuyển mộ Rentt làm nhân viên Hội với khối lượng công việc tối thiểu; thử dùng sức giật chiếc mặt nạ nguyền rủa của Rentt nhưng bất thành và quyết định sẽ điều tra nguồn gốc nguyền cụ lọt vào thị trấn.
 - Xuất hiện từ: #125.
+
+### Alhildis
+- Giới tính, tuổi/vẻ ngoài: Nữ, chủng tộc Elf. Vóc dáng cô bé chừng 10 tuổi với đôi tai nhọn xinh xắn, mắt màu xanh da trời, tóc vàng cắt kiểu bob dài chấm vai, nhưng phong thái và giọng điệu toát lên vẻ một bà lão sống lâu năm.
+- Tính cách: Lão luyện, cẩn trọng, khắt khe nhưng biết điều; thích dùng lối nói cổ xưa (archaic), tự xưng "ta", gọi người khác là "ngươi / các ngươi"; tự hào về thân phận Kim Cấp, chủ động lùng diệt quái vật và thanh tẩy tàn dư tà khí để bảo vệ người đi đường.
+- Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp, bậc thầy về Thần Thuật (sử dụng Thần Lực).
+- Cách nói chuyện: Dùng từ ngữ cổ kính thời xưa, trầm tĩnh nhưng khi phát hiện nghi vấn thì dồn dập chất vấn.
+- Quan hệ: Mạo hiểm giả Kim Cấp tình cờ chạm trán Rentt và Lorraine tại khu rừng trên đường về quê.
+- Xuất hiện từ: #131.

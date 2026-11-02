@@ -768,4 +768,11 @@ Trên xe có sáu hành khách gồm nhóm Rentt, hai cha con người đàn ôn
 Chiều muộn, đoàn xe dừng chân hạ trại giữa vùng hoang vu cách xa thị trấn; Lorraine thu tiền các hành khách rồi cùng Rentt dùng thực phẩm trong túi ma thuật và ma pháp tiện ích nấu bữa tối thịnh soạn cho cả đoàn.
 Đêm xuống, các hành khách nam và Lorraine thay phiên nhau đứng gác quái vật; trong lúc Rentt và Lorraine trò chuyện bên đống lửa trại, cả hai phát hiện bầy Zombie bước ra từ bóng tối cánh rừng phía sau.
 
+## 131
+Lorraine dùng ma pháp phong hỏa kết hợp Paloom Igni Su Turbo tạo lốc xoáy rực lửa thiêu rụi bầy Zombie bao vây khu hạ trại; Rentt sau đó dùng Thần Lực thanh tẩy đống tro tàn và Ma Tinh khiến cỏ non đâm chồi, còn Lorraine thu thập Ma Tinh để nghiên cứu Tử Linh Thuật hỗ trợ anh.
+Một cô bé lạ mặt bước ra từ cánh rừng với giọng điệu cổ xưa, tiết lộ lũ Zombie vốn là dân của một ngôi làng hoang phế đã ngủ đông suốt 40 năm qua và chính cô đã tiêu diệt, chôn cất số còn lại.
+Nhận thấy tro tàn tỏa ra Thần Lực khác thường, cô bé áp sát chất vấn rồi rút thẻ mạo hiểm giả Kim Cấp tự giới thiệu mình là Alhildis.
+Rentt và Lorraine kiểm tra tấm thẻ thật rồi nhận ra cô bé thực chất là một thành viên tộc Elf hiếm gặp, mang vóc dáng trẻ thơ nhưng phong thái như một bà lão sống lâu năm.
+
+
 
