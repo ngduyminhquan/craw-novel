@@ -44,7 +44,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity |  | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
-| Giant Skeleton | the Giant Skeleton | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
+| Giant Skeleton | the Giant Skeleton; Giant Skeletons | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
 | Soldier Skeleton | Soldier Skeletons; Skeleton Soldier; Skeleton Soldiers | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
 | Poison Slime | Poison Slimes | Slime Độc | quái vật | 18 | Phân loài Slime chứa độc tính |
 | Foteia Borivaas |  | Foteia Borivaas | kỹ năng | 2 | Ma pháp hỏa cầu cơ bản (câu chú giữ nguyên) |
@@ -69,3 +69,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Skeleton Knight | Skeleton Knights | Khô Lâu Kỵ Sĩ | quái vật | 22 | Phân loài Khô Lâu cấp cao trang bị vũ khí và giáp kỵ sĩ |
 | Puchi Suri | Puchi Suris | Puchi Suri | quái vật | 22 | Quái vật dạng chuột nhỏ dễ bắt, có khả năng biến đổi theo môi trường để tiến hóa (プチスリ) |
 | Recording Crystal | Recording Crystals | Tinh Thể Ghi Hình | vật phẩm | 23 | Tinh thể ma thuật dùng để chụp lại hoặc lưu trữ hình ảnh (記録水晶) |
+| First Knightly Order | First Knights; the First Knightly Order | Đệ Nhất Kỵ Sĩ Đoàn | tổ chức | 24 | Kỵ sĩ đoàn tinh nhuệ bậc nhất của Vương Quốc Yaaran (第一騎士団) |

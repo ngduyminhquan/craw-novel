@@ -138,3 +138,9 @@ Lorraine giải thích cơ chế kích hoạt Tiến Hóa Bản Thể đòi hỏ
 Các thí nghiệm cho thấy Rentt có thể ăn thức ăn bình thường, tiếp nhận thuốc hồi phục và miễn nhiễm hầu hết độc tố; cơn thèm thịt giảm nhưng cơn khát máu người (nhất là phụ nữ trẻ) lại tăng cao, được Lorraine chu cấp một lọ máu có ếm ma pháp bảo quản để kiềm chế cơn khát.
 Rentt đặt mục tiêu tiến hóa thành hình thái giống người hơn và chuẩn bị tiếp tục thám hiểm mê cung; nhận thấy thanh kiếm mượn từ tiệm Ba Chĩa đã mòn vẹt hư hại nặng, anh chuẩn bị tinh thần bị mắng rồi cất bước đi tìm Clope.
 
+## 24
+Rentt mang thanh kiếm hỏng đến tiệm Ba Chĩa và giải thích với Clope về việc đụng độ Khô Lâu Khổng Lồ ở khu vực chưa khai phá; Clope tin tưởng, đồng ý cho anh mượn tạm một thanh kiếm khác tốt hơn trong lúc chờ rèn xong kiếm đặt.
+Rời tiệm, Rentt vô tình va phải Idoles Rogue, một kỵ sĩ đĩnh đạc thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran đang xin nghỉ phép đến Maalt tìm kiếm em gái trốn nhà đi làm mạo hiểm giả tên là Rina Rogue; Rentt nhận ra người anh ta tìm chính là Rina Rupaage nhưng tạm thời giấu kín để bảo vệ bí mật của cô bé.
+Trở về nhà Lorraine, Rentt vừa nấu ăn vừa nhấm nháp một lượng nhỏ máu của cô và bày tỏ ý định chuyển sang thám hiểm Mê Cung Tân Nguyệt cũng như đích thân đến Hội nhận ủy thác dài hạn.
+Lorraine phản đối vì Rentt tuy yếu nhưng lại là mạo hiểm giả kỳ cựu được Hội đánh giá rất cao (thậm chí sẵn sàng tuyển dụng làm nhân viên), nếu lộ diện trong bộ dạng kỳ lạ sẽ gây nghi ngờ và náo động; cô bất ngờ đề xuất Rentt hãy đăng ký lại tại Hội dưới một cái họ mới.
+

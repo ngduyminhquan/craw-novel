@@ -28,7 +28,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | reviewed |  |
 | 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | done |  |
 | 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | done |  |
-| 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | todo |  |
+| 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | done |  |
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | todo |  |
 | 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | todo |  |
 | 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | todo |  |
@@ -350,6 +350,10 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
+
+
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -407,3 +411,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#22] Dịch quái vật 'Lesser Vampire' — tạm chọn 'Hạ Cấp Ma Cà Rồng' (phương án khác: 'Ma Cà Rồng Cấp Thấp', 'Tiểu Ma Cà Rồng', 'Hạ Vị Ma Cà Rồng'). → Chốt 'Hạ Cấp Ma Cà Rồng'. (orchestrator) (orchestrator)
 - [#22] Dịch cụm 'sentient tool' (vật phẩm/ma cụ có ý chí tự chọn chủ nhân) — tạm chọn 'vật phẩm có tri giác' (phương án khác: 'dụng cụ có ý thức', 'ma cụ có tri giác'). → Chốt 'vật phẩm có tri giác' (cụm miêu tả chung). (orchestrator) (orchestrator)
 - [#23] Dịch vật phẩm 'Recording Crystal' (ma cụ dùng để chụp hình/lưu trữ ảnh) — tạm chọn 'Tinh Thể Ghi Hình' (phương án khác: 'Pha Lê Ghi Hình', 'Tinh Thể Lưu Trữ', 'Tinh Thể Ký Lục'). Tạm dùng trong bản dịch: 'Tinh Thể Ghi Hình'. → Chốt 'Tinh Thể Ghi Hình'. (orchestrator) (orchestrator)
+- [#24] Dịch tổ chức 'First Knightly Order' / 'First Knights' — tạm chọn 'Đệ Nhất Kỵ Sĩ Đoàn' (phương án khác: 'Kỵ Sĩ Đoàn Đệ Nhất', 'Đoàn Kỵ Sĩ Thứ Nhất'). → Chốt 'Đệ Nhất Kỵ Sĩ Đoàn'. (orchestrator) (orchestrator)
+- [#24] Xưng hô giữa Rentt và kỵ sĩ Idoles Rogue — tạm chọn đôi bên xưng 'tôi' - gọi 'ngài' (Rentt khách sáo tôn trọng kỵ sĩ quý tộc của Đệ Nhất Kỵ Sĩ Đoàn, Idoles nói năng lịch thiệp chuẩn mực quý tộc; phương án khác: Rentt xưng 'tôi' gọi 'ngài', Idoles xưng 'tôi' gọi 'anh/cậu'). → Chốt đôi bên xưng 'tôi' - gọi 'ngài'. (orchestrator) (orchestrator)

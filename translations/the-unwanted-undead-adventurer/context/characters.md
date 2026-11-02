@@ -12,6 +12,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Clope |  | Clope | Thợ rèn chính kiêm chủ tiệm rèn Ba Chĩa | #15 |
 | Loris Cariello | Loris | Loris Cariello | Chủ quán ăn Phi Long Đỏ, được Rentt cứu ở Mê Cung Nguyệt Ảnh, nhận làm người đại diện cho Rentt | #16 |
 | Isabel |  | Isabel | Vợ của Loris, cùng chồng điều hành quán ăn Phi Long Đỏ | #20 |
+| Idoles Rogue | Idoles | Idoles Rogue | Kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran, anh trai của Rina | #24 |
+| Rina Rogue |  | Rina Rogue | Tên thật của Rina Rupaage, tiểu thư gia tộc hiệp sĩ Rogue | #24 |
 
 ## Chi tiết
 
@@ -27,7 +29,17 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Chân thành, lương thiện, dũng cảm nhưng còn non nớt kinh nghiệm. Trọng danh dự gia đình hiệp sĩ, giữ lời hứa và mang ơn sâu sắc với Rentt.
 - Cách nói chuyện: Lễ phép, tôn kính, hoạt bát nhưng hơi rụt rè trước vẻ ngoài quái dị của Rentt lúc đầu.
 - Quan hệ: Được Rentt cứu thoát khỏi nanh vuốt Khô Lâu, xem Rentt là tiền bối đáng kính (Mister Rentt).
-- Trạng thái tính đến chương 15: An toàn trở về Maalt, mua giúp Rentt áo choàng và mặt nạ.
+- Trạng thái tính đến chương 24: Được tiết lộ tên thật là Rina Rogue, xuất thân từ gia đình hiệp sĩ/quý tộc danh giá, bỏ nhà đi làm mạo hiểm giả; có anh trai là Idoles Rogue thuộc Đệ Nhất Kỵ Sĩ Đoàn đang đến Maalt tìm kiếm.
+
+### Rina Rogue
+- Xem Rina Rupaage (tên thật của Rina Rupaage).
+
+### Idoles Rogue
+- Giới tính, tuổi/vẻ ngoài: Nam, hiệp sĩ trẻ tóc vàng mắt xanh lam như ngọc bích, mặc giáp trắng bạc sáng bóng, ngoại hình đĩnh đạc như bước ra từ truyện cổ tích.
+- Tính cách: Lịch thiệp, chính trực, đàng hoàng, phép tắc gia giáo nghiêm cẩn; mang vẻ u buồn, cô độc khi lo lắng tìm kiếm em gái trốn nhà.
+- Cách nói chuyện: Lễ độ, nhã nhặn, tôn trọng người khác, xưng "tôi" gọi "ngài".
+- Quan hệ: Anh trai của Rina Rogue (Rina Rupaage); kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran.
+- Trạng thái tính đến chương 24: Xin nghỉ phép tạm thời đến Maalt tìm kiếm em gái Rina; vô tình va phải Rentt ngoài cửa tiệm Ba Chĩa và nhờ anh để mắt giúp.
 
 ### Lorraine Vivie
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Rentt (khoảng 24–25 tuổi), xinh đẹp, quyến rũ tự nhiên nhưng tính tình luộm thuộm, thường mặc áo choàng pháp sư nhàu nhĩ, tóc tai bù xù vì mải mê nghiên cứu.

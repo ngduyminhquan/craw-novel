@@ -15,6 +15,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Clope | Clope / gã | 15 | Thợ rèn tiệm Ba Chĩa |
 | Loris Cariello | Loris / người đàn ông | 16 | Chủ quán ăn Phi Long Đỏ (tiết lộ tên ở #20) |
 | Isabel | Isabel / người phụ nữ | 20 | Vợ của Loris Cariello |
+| Idoles Rogue | Idoles / kỵ sĩ / người đàn ông | 24 | Kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn, anh trai Rina |
 
 ## Giữa các nhân vật
 
@@ -43,3 +44,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Isabel | Loris Cariello | em | anh / mình | 20 | Vợ chồng |
 | Rentt Faina | Isabel | tôi | cô | 20 | Khách và vợ của người giúp việc |
 | Isabel | Rentt Faina | tôi | cậu | 20 | Biết ơn ân nhân cứu mạng chồng mình |
+| Rentt Faina | Idoles Rogue | tôi | ngài | 24 | Khách sáo, tôn trọng kỵ sĩ quý tộc của Đệ Nhất Kỵ Sĩ Đoàn |
+| Idoles Rogue | Rentt Faina | tôi | ngài | 24 | Lịch thiệp, chuẩn mực quý tộc khi hỏi thăm mạo hiểm giả |
