@@ -35,9 +35,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | reviewed |  |
 | 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | reviewed |  |
 | 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | reviewed |  |
-| 31 |  | Chapter_031 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2) | done |  |
-| 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | done |  |
-| 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | done |  |
+| 31 |  | Chapter_031 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2) | reviewed |  |
+| 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | reviewed |  |
+| 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | reviewed |  |
 | 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | todo |  |
 | 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | todo |  |
 | 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | todo |  |
@@ -422,3 +422,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#33] Xưng hô giữa Rentt Vivie và cặp đồng đội mới Raiz Dunner / Laura Satii — tạm chọn Raiz gọi Rentt là 'Rentt' xưng 'tôi', Laura gọi Rentt là 'anh Vivie' (Mister Vivie) xưng 'tôi', Rentt gọi Raiz là 'cậu/Raiz', gọi Laura là 'cô/Laura', gọi chung là 'hai người' xưng 'tôi'. → Chốt Raiz gọi Rentt là 'Rentt' xưng 'tôi', Laura gọi Rentt là 'anh Vivie' xưng 'tôi', Rentt gọi Raiz là 'cậu / Raiz', gọi Laura là 'cô / Laura', gọi chung là 'hai người' xưng 'tôi'. (orchestrator)
 - [#33] Dịch thuật ngữ kỳ thi 'practical assessment' — tạm chọn 'bài kiểm tra thực hành' (phương án khác: 'sát hạch thực hành', 'phần thi thực hành'). → Chốt 'bài kiểm tra thực hành' (nhất quán với 'bài kiểm tra thăng hạng'). (orchestrator)
 - [#33] Dịch cụm 'swordsman-cleric pair' khi Rentt nhớ lại cặp đôi Raiz - Laura — tạm chọn 'cặp đôi kiếm sĩ và giáo sĩ' bám sát chữ 'cleric' của raw (dù đoạn sau Laura nhận mình là mage biết dùng healing magic; phương án khác: 'cặp đôi kiếm sĩ và trị liệu sư'). → Chốt 'cặp đôi kiếm sĩ và giáo sĩ'. (orchestrator)
+- [#31] Đoạn 53: cụm xử lý xác quái vật của hội → Đổi 'dịch vụ giải xẻ / phòng giải xẻ' thành 'dịch vụ xẻ thịt / phòng xẻ thịt'. (orchestrator)

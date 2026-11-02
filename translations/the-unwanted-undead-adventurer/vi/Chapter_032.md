@@ -1,12 +1,12 @@
 # Chương 32: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (3)
 
-“...Khặc! A-Anh...” là thanh âm chào đón tôi khi tôi vừa bước chân vào nơi ở của Lorraine. Lorraine, người vốn đang nhấp trà trước khi tôi bước vào, có vẻ kinh ngạc đến mức phun sạch chỗ trà ra ngoài, khiến làn nước trà lơ lửng giữa không trung như một màn sương mỏng. Nhìn kỹ hơn, cô dường như đang còng lưng trên một tập tài liệu—những tài liệu mang tên đăng ký của tôi ở hội. Cụ thể là cái tên “Rentt Vivie”.
+"...Khặc! A-Anh..." là thanh âm chào đón tôi khi tôi vừa bước chân vào nơi ở của Lorraine. Lorraine, người vốn đang nhấp trà trước khi tôi bước vào, có vẻ kinh ngạc đến mức phun sạch chỗ trà ra ngoài, khiến làn nước trà lơ lửng giữa không trung như một màn sương mỏng. Nhìn kỹ hơn, cô dường như đang còng lưng trên một tập tài liệu—những tài liệu mang tên đăng ký của tôi ở hội. Cụ thể là cái tên "Rentt Vivie".
 
-“Cô... Ổn chứ?” tôi hỏi, quỳ rạp người xuống với chiếc giẻ lau để dọn sạch vũng nước màu trà trên sàn. Dẫu vậy, Lorraine trông chẳng có vẻ gì là ổn cho lắm, khi cô đang ôm đầu bằng cả hai tay, vẻ mặt lộ rõ sự ngán ngẩm tột cùng.
+"Cô... Ổn chứ?" tôi hỏi, quỳ rạp người xuống với chiếc giẻ lau để dọn sạch vũng nước màu trà trên sàn. Dẫu vậy, Lorraine trông chẳng có vẻ gì là ổn cho lắm, khi cô đang ôm đầu bằng cả hai tay, vẻ mặt lộ rõ sự ngán ngẩm tột cùng.
 
-“...Ở một góc độ nào đó thì tôi muốn nói là, không, tôi chắc chắn chẳng ổn chút nào. Thế nên mới dẫn tới chuyện này... Tại sao anh lại đăng ký bằng cái tên như vậy chứ? Anh không mảy may nghĩ rằng việc dùng họ của tôi sẽ kỳ quặc lắm sao, xét đến mối quan hệ giữa chúng ta bấy lâu nay?”
+"...Ở một góc độ nào đó thì tôi muốn nói là, không, tôi chắc chắn chẳng ổn chút nào. Thế nên mới dẫn tới chuyện này... Tại sao anh lại đăng ký bằng cái tên như vậy chứ? Anh không mảy may nghĩ rằng việc dùng họ của tôi sẽ kỳ quặc lắm sao, xét đến mối quan hệ giữa chúng ta bấy lâu nay?"
 
-Đúng như Lorraine nói. Dù những lời cô nói đều có lý, song việc tôi ở đây nhìn chung vẫn còn những vấn đề khác, những vấn đề vốn đã nhen nhóm từ lâu kể từ lúc tôi bất ngờ xuất hiện và liên tục lui tới nơi ở của Lorraine sau đó. Việc tôi khăng khăng dùng cái tên “Rentt” quả thực khiến mọi chuyện thêm phần rắc rối; tôi hoàn toàn có thể dùng một cái tên khác, nhưng sự tình lại chẳng đơn giản như vậy.
+Đúng như Lorraine nói. Dù những lời cô nói đều có lý, song việc tôi ở đây nhìn chung vẫn còn những vấn đề khác, những vấn đề vốn đã nhen nhóm từ lâu kể từ lúc tôi bất ngờ xuất hiện và liên tục lui tới nơi ở của Lorraine sau đó. Việc tôi khăng khăng dùng cái tên "Rentt" quả thực khiến mọi chuyện thêm phần rắc rối; tôi hoàn toàn có thể dùng một cái tên khác, nhưng sự tình lại chẳng đơn giản như vậy.
 
 Nếu dùng một cái tên khác, có lẽ tôi sẽ không bị nghi ngờ nhiều trong hoàn cảnh này. Tuy nhiên, tin đồn về một gã đàn ông kỳ lạ thường xuyên lui tới nhà của Lorraine sẽ sớm lan truyền, và tôi không hề muốn điều đó xảy ra. Dù sao thì Lorraine cũng là một phụ nữ đã đến tuổi cập kê. Chuyện như thế sẽ gây ảnh hưởng vô cùng tai hại đến danh tiếng của cô. Đây chính là lý do tôi chọn mang họ của cô và tự nhận mình là một người họ hàng xa.
 
@@ -14,13 +14,13 @@ Cân nhắc mọi điều đó, cộng thêm việc tên gọi của tôi vốn 
 
 Khi tôi kết thúc lời giải thích, nét mặt của Lorraine dần giãn ra. Ánh nhìn hoài nghi trước đó của cô nhanh chóng tan biến, rốt cuộc được thay thế bằng vẻ thấu hiểu.
 
-“...Họ hàng... Anh bảo là họ hàng sao... Hừm... Tôi cho là chuyện đó cũng có phần đáng tin đấy, ừm...”
+"...Họ hàng... Anh bảo là họ hàng sao... Hừm... Tôi cho là chuyện đó cũng có phần đáng tin đấy, ừm..."
 
-“Cô thấy... Đấy?”
+"Cô thấy... Đấy?"
 
-“...Chà, dẫu vậy. Anh đâu cần phải nhọc công bận tâm đến hoàn cảnh của tôi như thế chứ? Tôi thực sự chẳng bận lòng đâu.
+"...Chà, dẫu vậy. Anh đâu cần phải nhọc công bận tâm đến hoàn cảnh của tôi như thế chứ? Tôi thực sự chẳng bận lòng đâu."
 
-“Ngay từ đầu, việc tôi là một phụ nữ kiêm học giả ở chốn thôn quê hẻo lánh này đã mang lại cho tôi một danh tiếng đầy tai tiếng rồi; chí ít thì người ta chắc chắn coi tôi là kẻ lập dị.”
+"Ngay từ đầu, việc tôi là một phụ nữ kiêm học giả ở chốn thôn quê hẻo lánh này đã mang lại cho tôi không ít điều tiếng rồi; chí ít thì người ta chắc chắn coi tôi là kẻ lập dị."
 
 Đúng như lời Lorraine nói, một nữ học giả ở thị trấn biên ải Maalt xa xôi hẻo lánh quả thực là một điều kỳ lạ tại Vương Quốc Yaaran.
 
@@ -42,9 +42,9 @@ Tất cả những điểm đó khiến nghề mạo hiểm giả trở thành m
 
 Dẫu vậy trong thực tế, Lorraine được rất nhiều người ở hội tin tưởng, và các danh hiệu của cô hoàn toàn không phải chỉ để trưng cho đẹp.
 
-“Tôi không thể... Cứ thế. Làm phiền mãi được. Tôi vốn đã... Gây cho cô không ít... Rắc rối rồi, Lorraine. Tôi không muốn... Trở thành... Gánh nặng thêm nữa.”
+"Tôi không thể... Cứ thế. Làm phiền mãi được. Tôi vốn đã... Gây cho cô không ít... Rắc rối rồi, Lorraine. Tôi không muốn... Trở thành... Gánh nặng thêm nữa."
 
-“Rồi, rồi. Đúng là phong cách nói chuyện của anh. Anh không cần phải lo lắng thái quá về những chuyện như thế đâu. Trước hết, tôi mắc nợ anh theo nhiều cách lắm đấy. Chẳng phải anh vẫn nấu ăn và dọn dẹp sao? Anh làm tất cả những việc đó và còn nhiều hơn thế nữa, đúng không? Nói đúng hơn thì, giờ chúng ta phải ngang hàng nhau mới đúng—chà, tôi cho là mình vẫn mang ơn anh, xét đến tất cả những gì anh đã làm cho tôi trong quá khứ...” Lorraine mỉm cười nói.
+"Rồi, rồi. Đúng là phong cách nói chuyện của anh. Anh không cần phải lo lắng thái quá về những chuyện như thế đâu. Trước hết, tôi mắc nợ anh theo nhiều cách lắm đấy. Chẳng phải anh vẫn nấu ăn và dọn dẹp sao? Anh làm tất cả những việc đó và còn nhiều hơn thế nữa, đúng không? Nói đúng hơn thì, giờ chúng ta phải ngang hàng nhau mới đúng—chà, tôi cho là mình vẫn mang ơn anh, xét đến tất cả những gì anh đã làm cho tôi trong quá khứ..." Lorraine mỉm cười nói.
 
 Tôi thấy những lời ấy thật ấm lòng; quả thực, đó là những lời tử tế dành cho một kẻ như tôi. Nhưng hiện thực lại hoàn toàn khác; nói đúng hơn thì, tôi mới chính là người mang ơn Lorraine.
 
@@ -54,13 +54,13 @@ Trong hoàn cảnh bình thường, người ta sẽ khiếp sợ tôi—chí í
 
 Tôi thực sự biết ơn từ tận đáy lòng. Và đó là lý do tôi cất lời:
 
-“Điều đó... Không... Đúng đâu. Tôi chỉ có thể... Giữ được nhân tính lúc này... Là nhờ sự giúp đỡ của cô, Lorraine...”
+"Điều đó... Không... Đúng đâu. Tôi chỉ có thể... Giữ được nhân tính lúc này... Là nhờ sự giúp đỡ của cô, Lorraine..."
 
-“Rentt này... Chà, nếu chỉ có bấy nhiêu thôi thì tôi sẽ vui vẻ chấp nhận hiện tại. Nếu những diễn biến mới nhất là đáng tin, thì chẳng phải anh là họ hàng của tôi sao? Giữa những người trong gia đình và thân thích thì đâu cần đến mấy thủ tục khách sáo đó chứ.”
+"Rentt này... Chà, nếu chỉ có bấy nhiêu thôi thì tôi sẽ vui vẻ chấp nhận hiện tại. Nếu những diễn biến mới nhất là đáng tin, thì chẳng phải anh là họ hàng của tôi sao? Giữa những người trong gia đình và thân thích thì đâu cần đến mấy thủ tục khách sáo đó chứ."
 
 Không ngờ Lorraine lại nhanh chóng tận dụng thân phận bịa đặt của tôi để biến thành lợi thế cho mình—quả là một người phụ nữ đáng nể, như mọi khi.
 
-“Vậy thì... Tôi cho là mình sẽ... Vui vẻ tiếp tục đón nhận... Sự giúp đỡ của cô,” tôi vừa nói vừa gật đầu.
+"Vậy thì... Tôi cho là mình sẽ... Vui vẻ tiếp tục đón nhận... Sự giúp đỡ của cô," tôi vừa nói vừa gật đầu.
 
 ◆◇◆◇◆
 
@@ -76,7 +76,7 @@ Dĩ nhiên, bài thi có độ khó nhất định. Song đối với một kẻ
 
 Vấn đề nằm ở phần thi thực hành; phần thi cụ thể này thường khác nhau tùy theo từng thí sinh.
 
-Thông thường, một ủy thác cấp Đồng Cấp sẽ được giao cho mạo hiểm giả liên quan để thử thách bản lĩnh của họ, nhưng dĩ nhiên điều này không có gì là chắc chắn. Bản chất của nhiệm vụ cần làm hoàn toàn phụ thuộc vào ý thích nhất thời của hội trưởng.
+Thông thường, một ủy thác hạng Đồng Cấp sẽ được giao cho mạo hiểm giả liên quan để thử thách bản lĩnh của họ, nhưng dĩ nhiên điều này không có gì là chắc chắn. Bản chất của nhiệm vụ cần làm hoàn toàn phụ thuộc vào ý thích nhất thời của Hội Trưởng.
 
 Phần này của bài thi không phải thay đổi chỉ để cho có sự đa dạng. Nhiều khả năng đó là để ngăn chặn gian lận và các hành vi không mong muốn khác. Dẫu nói vậy, ai nấy đều biết rằng một số cá nhân đặc biệt tài năng sẽ tìm cách này hay cách khác để vén bức màn bí mật đó. Bản thân hành động ấy thường được coi là một thước đo đánh giá kỹ năng của họ, và họ thường không bị khiển trách quá nặng nề.
 
@@ -86,11 +86,11 @@ Tôi không khỏi tự hỏi những thử thách nào đang đón đợi mình
 
 ◆◇◆◇◆
 
-“Tôi đến... Để tham gia. Bài kiểm tra thăng hạng...”
+"Tôi đến... Để tham gia. Bài kiểm tra thăng hạng..."
 
-Đến hội mạo hiểm giả đúng giờ, tôi lập tức tiến thẳng về phía Sheila, dứt khoát tuyên bố mục đích của mình. Về phần Sheila, cô hiểu ngay tôi đến đây để làm gì.
+Đến Hội Mạo Hiểm Giả đúng giờ, tôi lập tức tiến thẳng về phía Sheila, dứt khoát tuyên bố mục đích của mình. Về phần Sheila, cô hiểu ngay tôi đến đây để làm gì.
 
-“A, vâng, anh Rentt. Anh đến đúng giờ quá! Tôi thật sự rất cảm kích,” cô mỉm cười nói.
+"A, vâng, anh Rentt. Anh đến đúng giờ quá! Tôi thật sự rất cảm kích," cô mỉm cười nói.
 
 Có lẽ việc Sheila cảm kích vì sự đúng giờ của tôi là một điều kỳ lạ. Song xét đến việc nhiều mạo hiểm giả có khái niệm thời gian rất đỗi đặc thù, tâm tư của cô lại chẳng hề khó hiểu chút nào.
 
@@ -108,9 +108,9 @@ Trong khi đồng hồ cùng những thứ tương tự được lắp đặt t�
 
 ![](images/ch032-01.webp)
 
-“Dĩ... Nhiên rồi. Phần thi... Viết... Sẽ diễn ra trước chứ?”
+"Dĩ... Nhiên rồi. Phần thi... Viết... Sẽ diễn ra trước chứ?"
 
-“Vâng, quả đúng là như vậy. Thế nhưng... Anh có chắc về chuyện này không? Vẫn còn những cơ hội tham gia bài thi vào ngày mai hoặc ngày kia mà. Anh hoàn toàn không nhất thiết phải thi ngay hôm nay đâu. Ít nhất thì anh đã nghĩ đến việc dành chút thời gian nghỉ ngơi và ôn tập cho bài thi chưa? Tôi khuyên anh nên làm vậy đấy...”
+"Vâng, quả đúng là như vậy. Thế nhưng... Anh có chắc về chuyện này không? Vẫn còn những cơ hội tham gia bài thi vào ngày mai hoặc ngày kia mà. Anh hoàn toàn không nhất thiết phải thi ngay hôm nay đâu. Ít nhất thì anh đã nghĩ đến việc dành chút thời gian nghỉ ngơi và ôn tập cho bài thi chưa? Tôi khuyên anh nên làm vậy đấy..."
 
 Tôi thấu hiểu nỗi lo lắng của Sheila; cô chỉ vừa mới thông báo về quyền tham gia bài thi cho tôi vào ngày hôm trước, và hẳn là không ngờ tôi lại có mặt để thi ngay ngày hôm sau. Có lẽ điều đó cũng có phần hợp lý, bởi quả thực rất hiếm ai lại đăng ký thi vào lượt kế tiếp ngay tức khắc sau khi được thông báo về tư cách dự thi.
 
@@ -122,11 +122,11 @@ Thế nhưng tôi vốn đã từng tham gia bài thi này trong kiếp sống t
 
 Thêm vào đó, các bài thi không được tổ chức hằng ngày, mà thường diễn ra theo định kỳ hằng tháng. Nếu cứ giậm chân tại chỗ và tiếp tục trôi dạt như một mạo hiểm giả Thiết Cấp, tôi sẽ chẳng bao giờ hoàn thành được ước mơ của mình. Đó là lý do tôi phải hành động ngay khi cơ hội mở ra trước mắt.
 
-Với những suy nghĩ ấy trong đầu, tôi đáp lại Sheila: “Không có... Vấn đề gì đâu. Tôi nên... Đi đâu đây?”
+Với những suy nghĩ ấy trong đầu, tôi đáp lại Sheila: "Không có... Vấn đề gì đâu. Tôi nên... Đi đâu đây?"
 
 Nếu trí nhớ không lầm, bài thi được tổ chức trên tầng hai của hội, trong một căn phòng họp nào đó. Dù đã biết câu trả lời cho thắc mắc của mình, tôi vẫn cứ phải hỏi.
 
-“Bài thi sẽ được tổ chức tại phòng họp trên tầng hai. Mời anh đi lối này...” Sheila nói, bước ra khỏi quầy tiếp tân để dẫn tôi đến địa điểm liên quan.
+"Bài thi sẽ được tổ chức tại phòng họp trên tầng hai. Mời anh đi lối này..." Sheila nói, bước ra khỏi quầy tiếp tân để dẫn tôi đến địa điểm liên quan.
 
 Vừa bước vào phòng, ánh mắt của một vài mạo hiểm giả Thiết Cấp liếc nhìn tôi, trước khi lập tức quay lại với đủ loại giấy tờ trên tay họ. Từng tờ giấy dường như được lấp đầy bằng những ghi chép và chữ viết tay chen chúc. Vài mạo hiểm giả vừa làm vậy vừa lẩm bẩm trong miệng, như thể đang tụng niệm những câu thần chú cổ xưa.
 
@@ -146,15 +146,15 @@ Tuy nhiên, cũng đáng lưu ý rằng với hơn một nửa số mạo hiểm
 
 Sau khi tôi an tọa tại chỗ ngồi của mình, Sheila, người đã rời khỏi phòng sau khi dẫn tôi tới đây, quay trở lại với một tập giấy thô và những chiếc bút lông ngỗng trên tay.
 
-“Vậy thì, chúng ta hãy bắt đầu bài thi. Tôi tin là tất cả các bạn đều biết chữ và có thể viết lách, nên tôi sẽ không giải thích dài dòng không cần thiết. Tuy nhiên... như một lời nhắc nhở, tập giấy này chứa các câu hỏi mà các thí sinh phải trả lời. Các thí sinh sẽ viết câu trả lời của mình lên tờ phiếu trả lời này, bằng những chiếc bút lông ngỗng được phát. Bài thi sẽ chính thức kết thúc khi cát ở ngăn trên của chiếc đồng hồ cát này chảy hết. Có ai có câu hỏi gì không?”
+"Vậy thì, chúng ta hãy bắt đầu bài thi. Tôi tin là tất cả các bạn đều biết chữ và có thể viết lách, nên tôi sẽ không giải thích dài dòng không cần thiết. Tuy nhiên... như một lời nhắc nhở, tập giấy này chứa các câu hỏi mà các thí sinh phải trả lời. Các thí sinh sẽ viết câu trả lời của mình lên tờ phiếu trả lời này, bằng những chiếc bút lông ngỗng được phát. Bài thi sẽ chính thức kết thúc khi cát ở ngăn trên của chiếc đồng hồ cát này chảy hết. Có ai có câu hỏi gì không?"
 
 Tôi cho rằng những gì Sheila nói hoàn toàn có lý: tất cả các thí sinh có mặt quả thực đều biết viết. Ngay cả tôi cũng từng dùng bút lông ngỗng trước đây rồi.
 
 Đúng như dự đoán, không có câu hỏi nào từ những mạo hiểm giả tụ họp trong phòng.
 
-“Vậy thì bây giờ tôi sẽ phát đề thi và phiếu trả lời, cũng như bút lông ngỗng. Tôi cũng sẽ thu lại những tờ tài liệu ôn tập mà hội đã cho các bạn mượn.
+"Vậy thì bây giờ tôi sẽ phát đề thi và phiếu trả lời, cũng như bút lông ngỗng. Tôi cũng sẽ thu lại những tờ tài liệu ôn tập mà hội đã cho các bạn mượn."
 
-“Đề thi và phiếu trả lời chỉ in một mặt, và sẽ được đặt úp xuống bàn của các bạn. Xin vui lòng chỉ lật lại khi tôi ra hiệu.”
+"Đề thi và phiếu trả lời chỉ in một mặt, và sẽ được đặt úp xuống bàn của các bạn. Xin vui lòng chỉ lật lại khi tôi ra hiệu."
 
 Nói đoạn, Sheila bắt đầu đi một vòng, vừa đi vừa phân phát bút và giấy tương ứng.
 
@@ -162,6 +162,6 @@ Một bầu không khí căng thẳng tĩnh lặng kỳ lạ ngập tràn căn p
 
 Bằng một động tác nhanh nhẹn khéo léo, Sheila dốc ngược chiếc đồng hồ cát lớn lại, rồi nhẹ nhàng đặt nó xuống bàn làm việc của mình.
 
-“...Các bạn có thể bắt đầu.”
+"...Các bạn có thể bắt đầu."
 
 Và bài thi cứ thế bắt đầu.

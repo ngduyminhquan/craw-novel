@@ -6,7 +6,7 @@ Trông chúng chậm chạp và ngu ngơ đến mức người ta sẽ ngỡ r�
 
 Giờ đây tôi đang đối mặt với chính loài quái vật đó; thế nhưng...
 
-Con Orc trước mắt tôi chẳng hề lững thững bước đi một cách nhàn tản. Trái lại, nó đang lao về phía tôi với tư thế vững vàng, nhằm nhanh chóng thu hẹp khoảng cách giữa đôi bên. Chỉ một ánh nhìn cũng đủ để tôi nhận ra cơ bắp cuồn cuộn nơi tứ chi và ánh mắt hung tợn không kém trong đôi mắt nó. Rõ ràng là chỉ một đòn duy nhất cũng có thể dễ dàng đoạt mạng một người đàn ông trưởng thành.
+Con Orc trước mắt tôi chẳng hề lững thững bước đi một cách nhàn tản. Trái lại, nó đang lao về phía tôi với tư thế vững vàng, nhằm nhanh chóng thu hẹp khoảng cách giữa đôi bên. Chỉ một ánh nhìn cũng đủ để tôi nhận ra cơ bắp cuồn cuộn nơi tứ chi và ánh nhìn hung tợn không kém trong mắt nó. Rõ ràng là chỉ một đòn duy nhất cũng có thể dễ dàng đoạt mạng một người đàn ông trưởng thành.
 
 Dù con Orc này không cầm kiếm hay giáo trên tay, nó lại nắm một cây gậy thô ráp tựa khúc côn; có lẽ được nhặt từ một cành cây nào đó trong những khu rừng xung quanh. Chẳng khó để hình dung uy lực mà thứ vũ khí như thế sẽ giáng xuống cơ thể con người, bởi có lẽ chỉ một cú vung là đủ để hạ gục một mạo hiểm giả.
 
@@ -36,7 +36,7 @@ Né tránh cú quét ngang của con Orc, tôi vận khởi nguồn dự trữ M
 
 Tự niệm ma pháp Khiên Chắn lên bản thân phòng khi kế hoạch xảy ra sơ suất, tôi chuyển hóa Khí Lực thành thể lực. Tôi hiểu rõ rằng mình phải tung ra một đòn tất sát chỉ bằng một nhát chém duy nhất.
 
-Một con Orc bình thường như thế này không được trang bị giáp kim loại hay bất kỳ loại khiên chắn nào. Nếu phải nhận xét, hơn một nửa số Orc thông thường cũng chẳng có chút dự trữ Ma Lực hay Khí Lực nào. Dẫu vậy, con Orc cụ thể này đã cảm nhận được khí tức đang biến đổi của tôi, nó giơ cao cây gậy và trừng trừng nhìn tôi bằng đôi mắt ti hí. Trước khi tôi kịp hoàn tất các bùa chú cường hóa, con Orc dộng mạnh chân xuống đất, lao thẳng về phía tôi với cây gậy giương cao mà chẳng hề đắn đo suy nghĩ.
+Một con Orc bình thường như thế này không được trang bị giáp kim loại hay bất kỳ loại khiên chắn nào. Nếu phải nhận xét, hơn một nửa số Orc thông thường cũng chẳng có chút dự trữ Ma Lực hay Khí Lực nào. Dẫu vậy, riêng con Orc này đã cảm nhận được khí tức đang biến đổi của tôi, nó giơ cao cây gậy và trừng trừng nhìn tôi bằng đôi mắt ti hí. Trước khi tôi kịp hoàn tất các bùa chú cường hóa, con Orc dộng mạnh chân xuống đất, lao thẳng về phía tôi với cây gậy giương cao mà chẳng hề đắn đo suy nghĩ.
 
 Người ta gần như có thể cảm nhận được áp lực đe dọa; cảnh tượng một con Orc lao hết tốc lực về phía mình quả thực là điều đáng kinh sợ, và có lẽ là cảnh tượng khiến nhiều người phải bỏ chạy. Thế nhưng những mạo hiểm giả quay đầu tháo chạy trước một con Orc đang lao tới cuối cùng sẽ bị nó đuổi kịp, và mất mạng trong quá trình đó.
 
@@ -104,9 +104,9 @@ Sau khi lấy đi những phần thường dùng đó, tôi xẻ thêm vài ph�
 
 Đó là một chuyến thu hoạch bội thu; ít nhất thì lượng thịt này cũng sẽ bán được một món tiền kha khá. Nhờ đã pha lóc cái xác một cách bài bản, tôi sẽ có thể bán nó cho một người bán thịt để kiếm một khoản hời. Trên thực tế, nếu bằng cách nào đó tôi giao nộp nhiều hơn số lượng được yêu cầu, tôi thậm chí còn có thể ăn hoặc bán phần còn lại. Do tính chất của ủy thác, tôi không nhất thiết phải giao nộp một bộ phận cụ thể nào của Orc vì họ chỉ yêu cầu một số phần thịt nhất định từ các cái xác. Thu thập nhiều hơn yêu cầu của ủy thác cũng chẳng hề hấn gì, bởi làm thế thì thịt sẽ không bị lãng phí.
 
-Dẫu vậy, cũng đáng lưu ý rằng hội có cung cấp dịch vụ giải xẻ, bên cạnh việc sở hữu một phòng giải xẻ chuyên dụng. Nếu có thể, tôi đã muốn vận chuyển nguyên cả cái xác về, nhưng tôi e rằng mình khó lòng làm được gì trước giới hạn kích thước của chiếc túi thắt lưng.
+Dẫu vậy, cũng đáng lưu ý rằng hội có cung cấp dịch vụ xẻ thịt, bên cạnh việc sở hữu một phòng xẻ thịt chuyên dụng. Nếu có thể, tôi đã muốn vận chuyển nguyên cả cái xác về, nhưng tôi e rằng mình khó lòng làm được gì trước giới hạn kích thước của chiếc túi thắt lưng.
 
-Thu hoạch xong xuôi, tôi để mặc xác con Orc tại nơi nó nằm; rồi nó cũng sẽ tan biến sau một khoảng thời gian, như một bí ẩn chưa có lời giải khác của mê cung. Có lẽ nó làm mồi cho những con quái vật khác trong Mê Cung, hoặc đơn giản là bị kết cấu nơi đây hấp thụ—dù thế nào đi nữa, một trong hai cách tự nhiên đó sẽ xử lý nó. Vì vậy, việc tôi cứ để nguyên cái xác như thế cũng chẳng hại gì. Nói đúng hơn thì, nó sẽ được tận dụng hữu ích làm phân bón hoặc thức ăn cho bất cứ thứ gì đến sau.
+Thu hoạch xong xuôi, tôi để mặc xác con Orc tại nơi nó nằm; rồi nó cũng sẽ tan biến sau một khoảng thời gian, như một bí ẩn chưa có lời giải khác của mê cung. Có lẽ nó làm mồi cho những con quái vật khác trong mê cung, hoặc đơn giản là bị kết cấu nơi đây hấp thụ—dù thế nào đi nữa, một trong hai cách tự nhiên đó sẽ xử lý nó. Vì vậy, việc tôi cứ để nguyên cái xác như thế cũng chẳng hại gì. Nói đúng hơn thì, nó sẽ được tận dụng hữu ích làm phân bón hoặc thức ăn cho bất cứ thứ gì đến sau.
 
 Khả năng một cái xác tươi thu hút quái vật vào lúc này cũng chỉ là quy luật tất yếu của cuộc sống; chẳng thể làm được gì nhiều trước trật tự tự nhiên của vạn vật.
 
