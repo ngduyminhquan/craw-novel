@@ -813,4 +813,11 @@ Riri và Fahri chào tạm biệt để đi phụ giúp chuẩn bị cho tiệc 
 Lorraine khuyên Rentt nên tự tin hơn vào năng lực bản thân thay vì tự ti trước những nhân vật dị biệt như Laura hay Nive, rồi chiếu lại đoạn ảo ảnh cho Rentt xem.
 Chương kết thúc khi Rentt hoảng hốt phát hiện Lorraine dự định chiếu lại màn ảo ảnh phóng đại này cho toàn thể dân làng chiêm ngưỡng trong bữa tiệc chào mừng tối nay.
 
+## 138
+Tại bữa tiệc chào mừng ở quảng trường làng Hathara, Rentt phát quà lưu niệm từ Maalt cho các cô gái và trêu đùa về chốn phong lưu với đám thanh niên; khi Lorraine xuất hiện khiến đám trai làng đỏ mặt bỏ chạy, Rentt ngượng ngùng lảng tránh giải thích rồi chuồn mất.
+Lorraine uống rượu mạnh của làng mà không say, hỏi han Riri và Fahri mới biết Rentt thấy cô xinh đẹp; khi cô thắc mắc về sự ngô nghê trong tình cảm của Rentt, hai cô bé hé lộ về một bi kịch đau buồn trong quá khứ khiến anh chưa bao giờ vượt qua được, nhưng Lorraine tế nhị dừng cuộc nói chuyện để chờ nghe chính miệng Rentt chia sẻ.
+Sau khi nhờ trưởng làng Ingo thông báo trấn an dân chúng, Lorraine biểu diễn ma pháp ảo ảnh tái hiện màn diệt quái của Rentt được tô vẽ thêm 30% khiến toàn thể dân làng trầm trồ thán phục.
+Không thấy Rentt đâu sau màn biểu diễn, Lorraine đi tìm và được trưởng làng Ingo chỉ dẫn đến ngôi nhà thờ cổ độc lập ở rìa làng.
+Chương kết thúc khi Lorraine tìm thấy Rentt đang lặng lẽ ngồi một mình trước phần mộ của cha mẹ ruột ở khu nghĩa trang phía sau nhà thờ.
+
 

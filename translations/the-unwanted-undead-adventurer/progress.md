@@ -142,7 +142,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | reviewed |  |
 | 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | done |  |
 | 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | done |  |
-| 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | todo |  |
+| 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | done |  |
 | 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | todo |  |
 | 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | todo |  |
 | 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | todo |  |
@@ -685,3 +685,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#135] Cách gọi thân mật 'Ren' mà Fahri dùng cho Rentt Faina (đoạn 14, 40, 44) — tạm chọn dịch là 'anh Ren' (phương án khác: chuẩn hóa thành 'anh Rentt'). Tạm dùng trong bản dịch: 'anh Ren'. → Giữ 'anh Ren' (orchestrator)
 - [#136] Danh xưng của 'Gharb' (medicine woman) và 'Hadeed the hunter' — tạm dịch là 'bà lão làm thuốc Gharb' và 'thợ săn Hadeed' (phương án khác: 'dược sư Gharb', 'thầy thuốc Gharb'). → Giữ 'bà lão làm thuốc Gharb' và 'thợ săn Hadeed' (đồng nhất với chương 134) (orchestrator)
 - [#137] Xưng hô giữa Rentt và hai cô bạn thuở nhỏ Riri / Fahri: Rentt xưng 'tôi', gọi 'hai em / Riri / Fahri'; Riri xưng 'em', gọi 'anh Rentt'; Fahri xưng 'em', gọi 'anh Ren' (phương án khác: Rentt xưng 'anh' gọi 'em'). Tạm dùng trong bản dịch: Rentt (tôi - em / Riri / Fahri), Riri (em - anh Rentt), Fahri (em - anh Ren). → Giữ Rentt xưng 'tôi' gọi 'em / Riri / Fahri', Riri xưng 'em' gọi 'anh Rentt', Fahri xưng 'em' gọi 'anh Ren' (nhất quán với cách Rentt xưng hô với Rina) (orchestrator)
+- [#138] Dịch 'the Lobelians' (khi đặt cạnh 'Church of the Eastern Sky') — tạm chọn 'Giáo Hội Lobelia' (phương án khác: 'phái Lobelia', 'tín đồ Lobelia'). → Giữ 'Giáo Hội Lobelia' (tương ứng với 'Giáo Hội Đông Thiên' khi so sánh các giáo phái) (orchestrator)

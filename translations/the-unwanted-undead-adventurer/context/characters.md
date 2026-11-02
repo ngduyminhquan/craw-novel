@@ -96,6 +96,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 133: Cùng Lorraine nếm thử món đặc sản dị thường Solest và Gettamba tại thị trấn dọc đường; bộc bạch với Lorraine về lòng kiêu hãnh của mạo hiểm giả Đồng Cấp muốn đứng ngang hàng với cô; cùng Lorraine về tới Làng Hathara an toàn.
 - Trạng thái tính đến chương 134: Trở về quê nhà Làng Hathara cùng Lorraine; bị dân làng và cha mẹ nuôi (trưởng làng Ingo Faina và bà Gilda) lầm tưởng đã lấy Lorraine làm vợ; tiết lộ thân phận con nuôi mồ côi cha mẹ ruột từ năm 5 tuổi do ma vật sát hại; nhận ra đôi mắt Undead vẫn có tuyến lệ và xúc động ra ngoài đi dạo để kìm nước mắt.
 - Trạng thái tính đến chương 135: Động cơ làm mạo hiểm giả xuất phát từ việc cha mẹ ruột bị ma vật sát hại năm 5 tuổi; khao khát ngăn chặn bi kịch tương tự cho người khác giải thích cho hành động tích cực bảo hộ tân binh ở Maalt; nhận ra cơ thể Undead vẫn có tuyến lệ và có thể khóc; được hai cô bạn thuở nhỏ Riri và Fahri thầm mến từ bé nhưng Rentt chỉ xem như em gái.
+- Trạng thái tính đến chương 138: Tham gia bữa tiệc chào mừng tại quảng trường làng Hathara; ngượng ngùng né tránh khi Lorraine hỏi về việc đám thanh niên đỏ mặt trước nhan sắc của cô; lén rời bữa tiệc sau màn biểu diễn ma pháp ảo ảnh để đến khu nghĩa trang phía sau ngôi nhà thờ cổ viếng mộ cha mẹ ruột.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -135,6 +136,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 123: Tiết lộ sở hữu mảnh đất rộng lớn ở ngoại vi Maalt dùng làm bãi thử ma thuật mạo hiểm; chia sẻ góc nhìn phê phán thói quen phụ thuộc đũa phép của giới ma pháp sư Đế Quốc Rermutt và lý do bản thân không có tiếng nói tại quê nhà.
 - Trạng thái tính đến chương 131: Thi triển ma pháp phong hỏa Paloom Igni Su Turbo tiêu diệt đàn Zombie quanh khu cắm trại; thu thập Ma Tinh của Zombie để nghiên cứu Tử Linh Thuật hỗ trợ tìm hiểu bản thể Undead của Rentt; tiếp xúc với nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis.
 - Trạng thái tính đến chương 133: Thích thú thưởng thức hai món ăn quái vật Solest và Gettamba học từ sách nấu ăn ma vật; đề nghị cho Rentt vay tiền không lấy lãi nhưng bị anh từ chối vì lòng tự trọng; cùng Rentt kiệt sức sau chặng đường xóc nảy về tới Làng Hathara và háo hức muốn điều tra ngôi đền cổ ban phước.
+- Trạng thái tính đến chương 138: Thể hiện tửu lượng đáng nể khi uống bốn cốc rượu mạnh nhất làng Hathara mà vẫn hoàn toàn tỉnh táo; phát hiện Rentt thấy mình xinh đẹp nhưng ngô nghê về tình cảm do một bi kịch quá khứ; tôn trọng quy tắc bất thành văn của mạo hiểm giả nên không đào sâu quá khứ của Rentt qua lời kể của người khác; biểu diễn ma pháp ảo ảnh trận chiến của Rentt trước toàn thể dân làng; tìm đến khu nghĩa trang sau nhà thờ cổ và bắt gặp Rentt đang ngồi trước mộ cha mẹ ruột.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
