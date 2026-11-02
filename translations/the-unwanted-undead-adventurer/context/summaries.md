@@ -253,6 +253,12 @@ Ra sân sau thử kiếm trên các hình nhân gỗ, Rentt thấy kỹ năng c�
 Khi thử nghiệm Thần Lực, các mảnh gỗ vỡ bất ngờ đâm chồi nảy lộc do Thần Lực của anh bắt nguồn từ ngôi miếu cổ tinh linh thực vật; Clope thích thú xin giữ các mầm cây quý để thỏa mãn sở thích làm vườn.
 Cả hai trao đổi về khả năng kết hợp các nguồn năng lượng; Clope cảnh báo sự nguy hiểm khôn lường nếu kết hợp cả ba và khuyên Rentt nên bắt đầu thử Ma Khí Dung Hợp Thuật trên thanh kiếm cũ trước.
 
+## 44
+Rentt thử nghiệm Ma Khí Dung Hợp Thuật trên thanh kiếm cũ, tạo ra một vụ nổ kinh hoàng phá hủy hình nhân gỗ và khiến bản thân kiệt sức.
+Tiếp tục mạo hiểm truyền thêm Thần Lực cùng lúc với Ma Lực và Khí Lực, Rentt suýt bị phản phệ nổ tung nhưng kịp chém xuống hình nhân, khiến hình nhân bị nén nghiền thành một khối cầu gỗ nhỏ và thanh kiếm vỡ vụn thành sắt vụn.
+Clope cảnh báo sự nguy hiểm và khuyên anh chỉ nên dùng Dung Hợp Thuật giữa Ma Lực và Khí Lực; cả hai thử nghiệm dao ném bọc năng lượng nhưng thất bại vì luồng khí tan biến khi rời tay.
+Rentt đúc kết con át chủ bài uy lực cao chỉ dùng khi ngặt nghèo, nhận thức rõ chi phí tốn kém (chỉ vũ khí bằng Mithril hoặc Orichalcum mới chịu tải nổi) và kiên trì rèn luyện từng bước.
+
 
 
 

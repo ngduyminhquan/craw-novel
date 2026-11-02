@@ -48,7 +48,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | reviewed |  |
 | 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | reviewed |  |
 | 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | done |  |
-| 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | todo |  |
+| 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | done |  |
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | todo |  |
 | 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | todo |  |
 | 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -444,3 +443,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#43] Thuật ngữ "Mana-spirit Fusion Arts" / "Fusion Art" — tạm chọn "Ma Khí Dung Hợp Thuật" / "Dung Hợp Thuật" (theo quy tắc Hán Việt kỹ năng trong rules.md; phương án khác: "Thuật Dung Hợp Ma-Khí"). Tạm dùng trong bản dịch: "Ma Khí Dung Hợp Thuật" / "Dung Hợp Thuật". → Giữ 'Ma Khí Dung Hợp Thuật' / 'Dung Hợp Thuật' (chuẩn Hán Việt kỹ năng theo rules.md) (orchestrator)
 - [#43] Chức nghiệp "paladins" lần đầu xuất hiện — tạm chọn "Thánh Kỵ Sĩ" (theo chuẩn fantasy Hán Việt chức nghiệp; phương án khác: "Hiệp Sĩ Thánh Điện"). Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Giữ 'Thánh Kỵ Sĩ' (chuẩn thuật ngữ chức nghiệp fantasy Hán Việt) (orchestrator)
 - [#43] Tiêu đề arc "A New Weapon And Newfound Strength" — tạm chọn "Vũ Khí Mới Và Sức Mạnh Mới" (phương án khác: "Vũ Khí Mới Cùng Sức Mạnh Mới Tìm Thấy"). Tạm dùng trong bản dịch: "Vũ Khí Mới Và Sức Mạnh Mới". → Giữ 'Vũ Khí Mới Và Sức Mạnh Mới' (tự nhiên, gọn gàng) (orchestrator)
+- [#44] Dịch thuật ngữ kim loại 'Mithril' xuất hiện độc lập — tạm chọn giữ nguyên 'Mithril' theo quy tắc tên riêng/khoáng thạch giả tưởng tương tự Orichalcum (phương án khác: 'Bí Ngân'). Tạm dùng trong bản dịch: 'Mithril'. → Giữ nguyên 'Mithril' (nhất quán với Orichalcum và hệ thống cấp bậc Mithril) (orchestrator)
+- [#44] Xử lý câu so sánh đảo ngược trong raw EN ở đoạn 6 ("The force and scale of the explosion was nothing compared to the spirit-induced explosion I demonstrated earlier") — bối cảnh Ma Khí Dung Hợp Thuật có uy lực nổ vượt trội so với chỉ dùng Khí Lực khiến Clope hoảng hốt, tạm dịch thuận nghĩa ngữ cảnh thành "Vụ nổ do Khí Lực tôi biểu diễn lúc trước hoàn toàn không thể sánh được với uy lực và quy mô của vụ nổ lần này" (phương án khác: dịch sát chữ EN khiến đòn dung hợp lại yếu hơn đòn đơn). Tạm dùng trong bản dịch: dịch thuận nghĩa ngữ cảnh. → Giữ bản dịch thuận theo mạch ngữ cảnh (vụ nổ Dung Hợp Thuật mạnh vượt trội so với vụ nổ Khí Lực trước đó) (orchestrator)
