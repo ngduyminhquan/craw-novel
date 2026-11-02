@@ -247,5 +247,12 @@ Thay vì lo sợ bị đổ oan, Rentt lại cảm thấy phấn khởi một c�
 Cả ba thống nhất đối sách: Rentt tạm dừng thám hiểm mê cung một thời gian để lắng xuống các nghi kỵ, chuyển sang làm các công việc vặt bên ngoài, đồng thời cân nhắc tìm đồng đội biết rõ bí mật yểm trợ khi quay lại mê cung để đề phòng Tiến Hóa Bản Thể bột phát.
 Nhân dịp tạm hoãn thám hiểm mê cung, Rentt quyết định ghé tiệm rèn Ba Chĩa để kiểm tra vũ khí mới đặt rèn từ người thợ rèn Clope.
 
+## 43
+Rentt ghé tiệm rèn Ba Chĩa nhận thanh kiếm mới được Clope chế tác đặc biệt để có thể chịu tải cả ba nguồn năng lượng (Ma Lực, Khí Lực, Thần Lực).
+Ra sân sau thử kiếm trên các hình nhân gỗ, Rentt thấy kỹ năng của mình tiến bộ vượt bậc so với thời còn sống: chém ngọt hình nhân khi truyền Ma Lực và kích nổ nát vụn bia mục tiêu bằng Khí Lực.
+Khi thử nghiệm Thần Lực, các mảnh gỗ vỡ bất ngờ đâm chồi nảy lộc do Thần Lực của anh bắt nguồn từ ngôi miếu cổ tinh linh thực vật; Clope thích thú xin giữ các mầm cây quý để thỏa mãn sở thích làm vườn.
+Cả hai trao đổi về khả năng kết hợp các nguồn năng lượng; Clope cảnh báo sự nguy hiểm khôn lường nếu kết hợp cả ba và khuyên Rentt nên bắt đầu thử Ma Khí Dung Hợp Thuật trên thanh kiếm cũ trước.
+
+
 
 

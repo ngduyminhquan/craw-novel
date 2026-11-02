@@ -28,7 +28,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 42: Cùng Lorraine và Sheila phân tích các lý do khiến mình gây chú ý và bị đố kỵ; cảm thấy phấn khởi lạ lùng khi lần đầu có người ghen tị với thành tựu của mình; thống nhất tạm hoãn thám hiểm mê cung để lắng dịu nghi ngờ, chuyển sang nhận việc vặt ngoài thị trấn và ghé tiệm rèn Ba Chĩa lấy vũ khí mới từ Clope.
+- Trạng thái tính đến chương 43: Nhận thanh kiếm mới chế tác riêng cho người sở hữu Tam Chúc Phúc từ Clope; thử nghiệm thành công Ma Lực và Khí Lực; phát hiện Thần Lực của mình mang đặc tính tinh linh thực vật khiến bia gỗ đâm chồi nảy lộc do từng sửa miếu cổ; cân nhắc luyện tập Ma Khí Dung Hợp Thuật vì thể chất Undead không sợ chấn thương chí mạng.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -73,7 +73,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Cần cù, say mê nghề rèn, khi rèn vũ khí thì tập trung cao độ như rơi vào trạng thái xuất thần; vẻ ngoài và lời ăn tiếng nói thô ráp bộc trực như đe dọa nhưng bản chất rất hiền lành, chu đáo và biết nghĩ cho khách hàng.
 - Cách nói chuyện: Bộc trực, dân dã, ngắn gọn, thẳng thắn.
 - Quan hệ: Chồng kiêm bạn thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
-- Trạng thái tính đến chương 24: Đảm nhận chế tác thanh kiếm đặc biệt cho Rentt, ngầm nhận ra người bạn cũ dưới lớp mặt nạ và tôn trọng nguyện vọng giữ kín của anh; nhận lại thanh kiếm mượn bị mòn vẹt do Rentt truyền Thần Lực khi đánh Khô Lâu Khổng Lồ ở khu vực chưa khai phá và bảo Luka lấy một thanh kiếm mượn tạm khác tốt hơn cho Rentt dùng trong lúc chờ rèn xong kiếm đặt.
+- Trạng thái tính đến chương 43: Chế tác thành công thanh kiếm đặc biệt chịu tải cả ba nguồn năng lượng cho Rentt; có sở thích làm vườn kín đáo, hào hứng xin Rentt giữ lại các mầm cây thần thánh nảy mầm từ bia mục tiêu; cảnh báo Rentt về sự nguy hiểm khi dẫn truyền đồng thời ba nguồn năng lượng và khuyên anh nên thử Ma Khí Dung Hợp Thuật với kiếm cũ trước.
 
 ### Loris Cariello
 - Giới tính, tuổi/vẻ ngoài: Nam, trung niên, dáng người bình thường của một đầu bếp kiêm chủ quán ăn.

@@ -47,7 +47,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | reviewed |  |
 | 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | reviewed |  |
 | 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | reviewed |  |
-| 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | todo |  |
+| 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | done |  |
 | 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | todo |  |
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | todo |  |
 | 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -440,3 +441,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#40] Xưng hô Sheila gọi Lorraine ('Miss Vivie' ở đoạn 70) — tạm chọn Sheila gọi 'cô Vivie' xưng 'tôi' (phương án khác: 'tiểu thư Vivie'). Tạm dùng trong bản dịch: Sheila gọi 'cô Vivie' xưng 'tôi'. → Giữ 'cô Vivie', xưng 'tôi' (chuẩn lịch sự giữa tiếp tân Hội và mạo hiểm giả/học giả) (orchestrator)
 - [#41] Dịch cụm 'magical timekeeping device' (đoạn 1) — tạm chọn 'thiết bị đo thời gian ma pháp' (phương án khác: 'đồng hồ ma pháp', 'dụng cụ tính giờ ma thuật'). Tạm dùng trong bản dịch: 'thiết bị đo thời gian ma pháp'. → Giữ 'thiết bị đo thời gian ma pháp' (sát nghĩa với 'magical timekeeping device' trong raw) (orchestrator)
 - [#42] Tên nhân vật mới 'Augurey' — tạm giữ nguyên 'Augurey' theo quy tắc tên riêng phương Tây trong rules.md, người kể gọi là 'Augurey / gã / anh ta' (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Augurey'. → Giữ nguyên 'Augurey' theo quy tắc tên riêng phương Tây trong rules.md, người kể gọi 'Augurey / gã / anh ta' (orchestrator)
+- [#43] Thuật ngữ "Mana-spirit Fusion Arts" / "Fusion Art" — tạm chọn "Ma Khí Dung Hợp Thuật" / "Dung Hợp Thuật" (theo quy tắc Hán Việt kỹ năng trong rules.md; phương án khác: "Thuật Dung Hợp Ma-Khí"). Tạm dùng trong bản dịch: "Ma Khí Dung Hợp Thuật" / "Dung Hợp Thuật". → Giữ 'Ma Khí Dung Hợp Thuật' / 'Dung Hợp Thuật' (chuẩn Hán Việt kỹ năng theo rules.md) (orchestrator)
+- [#43] Chức nghiệp "paladins" lần đầu xuất hiện — tạm chọn "Thánh Kỵ Sĩ" (theo chuẩn fantasy Hán Việt chức nghiệp; phương án khác: "Hiệp Sĩ Thánh Điện"). Tạm dùng trong bản dịch: "Thánh Kỵ Sĩ". → Giữ 'Thánh Kỵ Sĩ' (chuẩn thuật ngữ chức nghiệp fantasy Hán Việt) (orchestrator)
+- [#43] Tiêu đề arc "A New Weapon And Newfound Strength" — tạm chọn "Vũ Khí Mới Và Sức Mạnh Mới" (phương án khác: "Vũ Khí Mới Cùng Sức Mạnh Mới Tìm Thấy"). Tạm dùng trong bản dịch: "Vũ Khí Mới Và Sức Mạnh Mới". → Giữ 'Vũ Khí Mới Và Sức Mạnh Mới' (tự nhiên, gọn gàng) (orchestrator)
