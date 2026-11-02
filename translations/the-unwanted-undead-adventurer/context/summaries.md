@@ -744,4 +744,10 @@ Rentt dùng dao găm rạch tay phô diễn khả năng tự lành vết thươn
 Rentt giải thích quá trình Tiến Hóa Bản Thể từ Khô Lâu lên Ngạ Quỷ rồi Ma Cà Rồng; Wolf lo ngại về các vụ mạo hiểm giả mất tích nhưng lập tức tin tưởng nhân phẩm Rentt, và biết Lorraine chia sẻ máu cho anh.
 Khi Wolf băn khoăn về lượng máu tiêu thụ, Rentt tiết lộ anh chỉ cần vài giọt mỗi ngày, vẫn ăn uống như người thường, và Nive Maris đã phán định anh không phải Ma Cà Rồng khiến Wolf bàng hoàng ôm đầu.
 
+## 127
+Rentt kể lại việc Nive Maris dùng Thánh Hỏa kiểm tra và khẳng định anh không phải Ma Cà Rồng, đồng thời chia sẻ kế hoạch tạm lánh khỏi Maalt về quê nhà Làng Hathara để tránh né Nive.
+Rentt giao nộp tập hồ sơ sai phạm của Hội Maalt do Edel và cánh tình báo thu thập; Wolf đánh giá cao sự chuẩn bị kỹ lưỡng của Rentt, cất giữ tài liệu và gợi ý nhiều phương án xử lý việc đăng ký hai lần.
+Wolf đề xuất Rentt gia nhập làm nhân viên Hội Mạo Hiểm Giả để hợp thức hóa hai danh tính, được hưởng mạng lưới thông tin, mua sắm giảm giá và tự do phiêu lưu thăng hạng Mithril Cấp với khối lượng công việc tối thiểu.
+Sau khi Rentt đồng ý, Wolf gặng hỏi về chiếc mặt nạ không thể tháo rời và thử dùng sức kéo mạnh nhưng không lay chuyển; ông nghi ngờ nguồn gốc nguyền cụ lọt vào thị trấn và Rentt rời đi trong sự êm đẹp.
+
 

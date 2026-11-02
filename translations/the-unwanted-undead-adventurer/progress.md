@@ -131,7 +131,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | reviewed |  |
 | 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | reviewed |  |
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | reviewed |  |
-| 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | todo |  |
+| 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | done |  |
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | todo |  |
 | 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | todo |  |
 | 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -647,3 +646,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#125] Xác nhận sửa 'từ gốc rễ vấn đề kia kìa' ở đoạn 43 → Chốt sửa thành 'Đâu chỉ có thế, tôi còn cả đống bằng chứng khác nữa kia kìa' và thêm quy tắc thành ngữ vào rules.md. (orchestrator)
 - [#125] Xác nhận chuẩn hóa viết thường chữ 'tôi' trong câu dẫn thoại ở đoạn 47 và 49 → Chốt viết thường 'tôi hỏi' sau câu thoại. (orchestrator)
 - [#126] Xác nhận sửa 'đôi mắt chột' thành 'con mắt của ông' ở đoạn 24 → Chốt sửa thành 'con mắt của ông' đúng đặc điểm ngoại hình của Wolf. (orchestrator)
+- [#127] Dịch tiêu đề arc/chương 'Vol 5 Chapter 3 - Existence and Status (3)': tạm chọn 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (3)' (đồng bộ với #125 và #126; phương án khác: 'Tập 5 Chương 3 - Tồn Tại và Thân Phận (3)', 'Tập 5 Chương 3 - Sự Tồn Tại và Địa Vị (3)'). Tạm dùng trong bản dịch: 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (3)'. → Chốt dùng 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (3)'. (orchestrator)
+- [#127] Từ 'saint' khi nói về Myullias đi cùng Nive (đoạn 9): raw viết 'a saint from the Church of Lobelia', tạm dịch là 'Thánh Nữ của Giáo Hội Lobelia' theo đúng thân phận nữ tư tế của Myullias Raiza (đồng bộ với #104, #124; phương án khác: 'Thánh Giả' theo mục Saint trong glossary). Tạm dùng trong bản dịch: 'Thánh Nữ'. → Chốt dùng 'Thánh Nữ' theo đúng thân phận của Myullias Raiza. (orchestrator)
+- [#127] Cảnh báo QA 'Pulling': raw đoạn 85 ("pulling it off you") và đoạn 88 ("pulled and shook it") là động từ thường chỉ việc Wolf giật mạnh chiếc mặt nạ của Rentt, không phải thuật ngữ lóng mạo hiểm giả 'dụ quái' (Pulling); giữ nguyên cách dịch động từ thường trong ngữ cảnh. → Chốt giữ nguyên dịch động từ thường vì 'pulling' ở đây là giật mặt nạ, không phải thuật ngữ dụ quái. (orchestrator)
