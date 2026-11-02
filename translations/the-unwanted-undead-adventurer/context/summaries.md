@@ -343,3 +343,9 @@ Rentt nhờ Sheila bố trí phòng mổ xẻ kín đáo ở phía sau để ti�
 Dario giải thích mai Tarasque nguyên vẹn cực kỳ hiếm vì các mạo hiểm giả thường buộc phải dùng ma pháp hoặc xạ kích tầm xa phá vỡ mai do sợ hơi thở độc; Rentt quyết định ủy thác cho Dario phân tách xác và đem bán đấu giá chiếc mai giúp mình để tránh phải trực tiếp gặp khách mua lộ thân phận.
 Bàn giao số thực vật đầm lầy thu hoạch được cho Sheila để định giá sau, Rentt rời Hội mang Hoa Long Huyết tới Cô Nhi Viện Thứ Hai Maalt giao cho Alize và Sơ Lillian.
 Vừa đến nơi, chiếc vòng gõ cửa từng được dán tạm bằng dịch Slime lại long ra trên tay khiến Rentt bối rối và bị Alize cùng đám trẻ đi chợ về bắt quả tang tại trận.
+
+## 59
+Alize ngạc nhiên trước đóa Hoa Long Huyết tươi nguyên vẹn do Rentt mang về và vội vã đi mời thầy trị liệu Unbert Abeiyu cùng dược sư Norman Hanel đến thẩm định để chuẩn bị bào chế thuốc.
+Trong lúc chờ đợi, Rentt theo chân Edel xuống căn hầm cô nhi viện và phát hiện chú chuột quyến thuộc đã dùng Ma Lực cùng Khí Lực của anh để cường hóa đám chuột đàn em, đồng thời thiết lập một mạng lưới gián điệp chuột bao phủ khắp thị trấn Maalt.
+Unbert và Norman đến nơi, hết lời kinh ngạc trước đóa hoa được bảo quản hoàn hảo; nghe Norman tiếc nuối vì thiếu hoa để chế thuốc cứu thêm người nghèo, Rentt quyết định tặng miễn phí thêm bốn cành hoa nữa cho anh.
+Cảm kích trước tấm lòng thiện nguyện và độ hào phóng của Rentt, Bác sĩ Norman bày tỏ lòng biết ơn sâu sắc và hứa sẽ tận lực hỗ trợ anh bằng kiến thức y dược bất cứ khi nào cần.

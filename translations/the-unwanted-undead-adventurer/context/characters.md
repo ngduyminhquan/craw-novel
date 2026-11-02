@@ -27,6 +27,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Edel |  | Edel | Chuột Puchi Suri quyến thuộc của Rentt, được Lorraine đặt tên | #52 |
 | Isaac Hart | Isaac | Isaac Hart | Quản gia của một nhân vật quyền thế bí ẩn, đến Đầm Lầy Tarasque tìm Hoa Long Huyết | #56 |
 | Dario Costa | Dario; Mister Dario | Dario Costa | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt | #58 |
+| Unbert Abeiyu | Unbert | Unbert Abeiyu | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt | #59 |
+| Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
 
 ## Chi tiết
 
@@ -180,3 +182,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Dân dã, bộc trực, thoải mái với người quen, xưng "chú" gọi "cháu / cô bé / Sheila" với tiếp tân Sheila; xưng "tôi" gọi "cậu" với mạo hiểm giả Rentt.
 - Quan hệ: Chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả Maalt; quen biết và thân thiết với tiếp tân viên Sheila Ibarss; từng gặp Rentt trước khi chết nhưng không nhận ra anh sau lớp mặt nạ.
 - Trạng thái tính đến chương 58: Kiểm tra xác con Tarasque nguyên vẹn do Rentt mang về, hết lời khen ngợi mai và nọc độc không tì vết; nhận lời xử lý và nhận ủy thác đem bán đấu giá chiếc mai Tarasque với giá tốt nhất cho Rentt.
+
+### Unbert Abeiyu
+- Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông trung niên, dáng người gầy gò cao kều.
+- Tính cách, nghề nghiệp: Thầy trị liệu (healer) quen biết với Cô Nhi Viện Thứ Hai Maalt; nhiệt tình giúp đỡ Sơ Lillian tìm người điều chế thuốc.
+- Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt.
+- Xuất hiện từ: #59 (được nhắc đến từ #50).
+
+### Norman Hanel
+- Giới tính, tuổi/vẻ ngoài: Nam, trạc cuối đôi mươi (gần 30 tuổi), dáng người đẫy đà, nét mặt thân thiện dễ gần.
+- Tính cách, nghề nghiệp: Dược sư (herbalist) kiêm thầy thuốc (doctor) mở tiệm thuốc riêng; giàu lòng nhân ái, thường xuyên chữa bệnh và tự bỏ tiền túi lo thuốc men cho người nghèo và cô nhi viện; rất tự tin vào vốn hiểu biết thảo dược của mình.
+- Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt; cảm kích trước hành động tặng thêm Hoa Long Huyết của Rentt và hứa sẵn lòng giúp đỡ anh bất cứ khi nào cần.
+- Xuất hiện từ: #59.
