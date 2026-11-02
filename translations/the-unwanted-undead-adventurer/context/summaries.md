@@ -546,4 +546,11 @@ Rina Rupaage hồi tưởng lại quá khứ: vì khao khát trở thành kỵ s
 Sau khi vấp phải thực tế phũ phàng nơi hoàng đô và chuyển tới Maalt, cuộc gặp gỡ định mệnh với Rentt (dưới hình hài Ngạ Quỷ) đã cứu mạng và thay đổi hoàn toàn tư duy của Rina qua những kinh nghiệm thực tế và lời khuyên sinh tồn quý báu.
 Khắc sâu lời chỉ dạy của Rentt, Rina tích cực tham gia tập huấn của Hội, kiên trì tích lũy kinh nghiệm qua các ủy thác đơn lẻ và cuối cùng đồng ý gia nhập một tổ đội gồm hai mạo hiểm giả Đồng Cấp (một kiếm sĩ và một ma pháp sư kiêm thầy trị liệu).
 
+## 94
+Sau khi thu hoạch thêm gỗ từ các biến thể Ent Jyulapus (gỗ mun, linh sam) và chạm trán một con Ent phun axit nguy hiểm, Rentt quyết định dừng săn Ent và đi tới khoảng đất trống có cầu thang dẫn xuống tầng 4.
+Nhằm kiếm thêm Ma Tinh phẩm chất tốt cho vũ khí của Alize và tránh rủi ro vật dẫn ma pháp phát nổ, Rentt quyết định tiêu diệt bầy năm con Sói Rừng đang chặn lối cầu thang bằng cách dùng thịt Orc bọc lá Hoonoki Maalt làm mồi nhử phân tâm.
+Rentt chém đứt đầu con sói đầu đàn nhưng suýt trúng đòn phản kích bất ngờ bằng lưỡi đao gió từ cái đầu đứt lìa, sau đó dễ dàng quét sạch ba con sói còn lại khi đội hình bầy đàn của chúng tan vỡ.
+Thu hoạch da lông, răng nanh và Ma Tinh xong xuôi, Rentt chôn cất xác quái và nhờ Edel dùng phong ma pháp thổi bay mùi máu tươi để tránh tụ quái ở lối đi, rồi tự nhắc nhở bản thân cảnh giác trước khi bước xuống tầng 4.
+
+
 

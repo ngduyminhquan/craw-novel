@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T16:37:28Z",
+  "generatedAt": "2026-11-02T16:45:04Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2711,6 +2711,12 @@
           "title": "Chương 93: Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_093.md",
           "sha": "3b658b4e11f3fcb6a1378862471ca95b800a4505"
+        },
+        {
+          "number": 94,
+          "title": "Chương 94: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_094.md",
+          "sha": "c2f6f851e984f8f76fa548e476a7f3d73a1a35f4"
         }
       ]
     },

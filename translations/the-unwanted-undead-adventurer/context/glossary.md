@@ -77,7 +77,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Forest Orc | Forest Orcs | Orc Rừng | quái vật | 30 | Phân loài Orc sinh sống theo bầy đàn trong rừng |
 | Labyrinth Orc | Labyrinth Orcs | Orc Mê Cung | quái vật | 30 | Phân loài Orc sinh sống đơn độc trong mê cung |
 | Shield | Shield spell | Khiên Chắn | kỹ năng | 26 | Ma pháp phòng ngự tạo ra lớp khiên ma lực bảo vệ bản thân (シールド) |
-| Maalt-Hoonoki |  | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |
+| Maalt-Hoonoki | Maalt Hoonoki | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |
 | Grand Slime | Grand Slimes | Đại Slime | quái vật | 36 | Phân loài Slime khổng lồ thường làm quái vật thủ lĩnh các tầng nông hoặc quái thường tầng sâu |
 | Grand Prox | Grand! Prox!! | GRAND! PROX!! | kỹ năng | 36 | Ma pháp hỏa hệ cấp cao của Laura Satii (câu chú giữ nguyên) |
 | Breeze |  | Breeze | kỹ năng | 37 | Ma pháp phong hệ cơ bản tạo luồng gió nhẹ của Laura Satii (câu chú giữ nguyên) |
@@ -171,3 +171,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Jyulapus Ent | Jyulapus Ents | Ent Jyulapus | quái vật | 91 | Quái vật dạng cây gỗ thuộc tính mộc ở tầng 3 Mê Cung Tân Nguyệt |
 | Kesem Kofu |  | Kesem Kofu | quái vật | 91 | Quái vật dạng khỉ nhanh nhẹn xảo quyệt sống trên tán cây tầng 3 Mê Cung Tân Nguyệt |
 | Ent | Ents | Ent | quái vật | 92 | Chủng quái vật dạng cây gỗ / người cây nói chung |
+| Forest Wolf | Forest Wolves | Sói Rừng | quái vật | 94 | Phân loài quái vật sói sống theo bầy đàn trong rừng và tầng 3 Mê Cung Tân Nguyệt |
