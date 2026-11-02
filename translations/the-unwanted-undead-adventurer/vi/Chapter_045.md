@@ -30,7 +30,7 @@ Thời còn sống tôi khá thành thạo mấy công việc vặt này và kh�
 
 Dù thoạt đầu khi mới nhìn thấy, Loris nghĩ làn da của tôi chỉ là một loại đạo cụ hóa trang nào đó, nhưng ông đã nhanh chóng hiểu ra đó là thật chỉ sau một lần chạm vào, rồi vội vã rụt tay lại. Tôi giải thích rằng đó là do một lời nguyền rủa bất hạnh, và theo những gì tôi biết thì Loris đã chấp nhận lời giải thích ấy. Tôi không nghĩ Loris từng thoáng nảy ra ý nghĩ tôi là một con quái vật biết nói.
 
-Nếu sau này tôi có tiến hóa, tất cả những gì tôi cần nói với ông là lời nguyền của tôi đã được một vị nữ tư tế Thánh Giả đi ngang qua hóa giải, thế là xong xuôi mọi chuyện.
+Nếu sau này tôi có tiến hóa, tất cả những gì tôi cần nói với ông là lời nguyền của tôi đã được một vị Thánh Nữ đi ngang qua hóa giải, thế là xong xuôi mọi chuyện.
 
 Những suy nghĩ ấy cứ thế ùa vào tâm trí tôi khi tôi đứng ngắm nhìn các bảng tiếp nhận yêu cầu trong đại sảnh của Hội. Có đủ loại công việc vặt, từ yêu cầu tìm bạn đấu tập cho đến việc hỗ trợ vận chuyển đồ đạc nặng nề đơn giản.
 

@@ -142,9 +142,9 @@ Trên thực tế, tôi sửa chữa ngôi miếu vào thời gian rảnh rỗi 
 
 "...Phải."
 
-"Thế thì chúng ta có thể phỏng đoán rằng có một loài tinh linh thực vật nào đó từng ngụ trong ngôi miếu ấy... hoặc đại loại vậy. Đó hẳn là lý do Thần Lực cùng luồng khí của cậu lại mang lại hiệu ứng như thế này. Còn nhớ vị nữ tư tế Thánh Giả từng đến Maalt thuở xưa không? Người ta đồn cô ấy được một vị thần trị liệu ban phước, chữa lành bệnh nhẹ cho người ta chỉ bằng một cái chạm tay. Của cậu... nếu tôi phải nói thì chắc là phiên bản thực vật đấy."
+"Thế thì chúng ta có thể phỏng đoán rằng có một loài tinh linh thực vật nào đó từng ngụ trong ngôi miếu ấy... hoặc đại loại vậy. Đó hẳn là lý do Thần Lực cùng luồng khí của cậu lại mang lại hiệu ứng như thế này. Còn nhớ vị Thánh Nữ từng đến Maalt thuở xưa không? Người ta đồn cô ấy được một vị thần trị liệu ban phước, chữa lành bệnh nhẹ cho người ta chỉ bằng một cái chạm tay. Của cậu... nếu tôi phải nói thì chắc là phiên bản thực vật đấy."
 
-Lời giải thích của Clope nghe khá có lý. Dù tôi quả thực nhớ mang máng từng nhìn thấy bóng dáng vị nữ tư tế Thánh Giả từ đằng xa vào một thời gian dài trước đây, nhưng hôm đó người tôi không được khỏe cho lắm, nên cũng chẳng nhớ rõ sự việc lúc ấy.
+Lời giải thích của Clope nghe khá có lý. Dù tôi quả thực nhớ mang máng từng nhìn thấy bóng dáng vị Thánh Nữ từ đằng xa vào một thời gian dài trước đây, nhưng hôm đó người tôi không được khỏe cho lắm, nên cũng chẳng nhớ rõ sự việc lúc ấy.
 
 Nếu phải diễn đạt thành lời, thì độ mạnh yếu trong Thần Lực của một người tỷ lệ thuận trực tiếp với sức mạnh của hữu thể đã ban tặng nó. Tôi nhớ mình từng đọc một đoạn như vậy trong một cuốn sách của Lorraine.
 

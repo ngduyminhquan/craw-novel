@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T09:57:17Z",
+  "generatedAt": "2026-11-02T09:59:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2218,7 +2218,7 @@
           "number": 11,
           "title": "Chương 11: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_011.md",
-          "sha": "57755aad1bb73868b4fbe149392cccc31fa9c1a2"
+          "sha": "c146d38ba854503ccf591ee677b8e661541baae0"
         },
         {
           "number": 12,
@@ -2410,7 +2410,7 @@
           "number": 43,
           "title": "Chương 43: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_043.md",
-          "sha": "16d1a077621cac44ea1bf3566780f49a4e3ebaa3"
+          "sha": "a4f7174d174f7043f25d450013f95a0b8080444d"
         },
         {
           "number": 44,
@@ -2422,7 +2422,7 @@
           "number": 45,
           "title": "Chương 45: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_045.md",
-          "sha": "31e6a6fbebb3fc7848a5f3ac8c11f41282cb0a5d"
+          "sha": "67c55d7efeda51d1025131c2d3280b0d0ad050a6"
         },
         {
           "number": 46,
