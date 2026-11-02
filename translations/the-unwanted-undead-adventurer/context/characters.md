@@ -459,12 +459,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc nâu buộc hai bên, đôi mắt tinh anh mạnh dạn, giọng nói dõng dạc trong trẻo.
 - Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ; tò mò về cuộc sống và mạo hiểm giả ở Maalt.
 - Kỹ năng & Trạng thái tính đến chương 136: Sở hữu Khí Lực, đang học kỹ thuật từ thợ săn Hadeed (dùng dao găm chém súc gỗ trong rừng, bắn tên cực xa); tò mò về nghề mạo hiểm giả.
+- Trạng thái tính đến chương 138: Phụ giúp nấu nướng cho tiệc chào mừng tại quảng trường làng; thuyết phục Lorraine biểu diễn ma pháp ảo ảnh cho dân làng xem và cùng Fahri dìu Lorraine vì tưởng cô say rượu.
 - Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
 
 ### Fahri
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc màu lam đen ngắn chấm tai, đôi mắt mơ màng ngái ngủ dịu dàng, giọng ngọt ngào êm dịu, tính tình vô tư, bộc trực.
 - Quan hệ: Được Rentt xem như em gái nhỏ; hay gọi Rentt là Ren; tò mò về Lorraine và thành phố Maalt.
 - Kỹ năng & Trạng thái tính đến chương 136: Có Ma Lực, đang học làm thuốc từ bà lão Gharb và chuẩn bị được dạy thêm thuật giả kim; nắm vững kiến thức thu hái và bảo quản thảo dược.
+- Trạng thái tính đến chương 138: Phụ giúp nấu nướng cho tiệc chào mừng tại quảng trường làng; thuyết phục Lorraine biểu diễn ma pháp ảo ảnh cho dân làng xem và cùng Riri dìu Lorraine vì tưởng cô say rượu.
 - Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
 
 ### Ren

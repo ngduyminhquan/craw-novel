@@ -42,7 +42,7 @@ Sau một hồi đi dạo quanh làng để trấn tĩnh lại, tôi quay trở 
 
 Fahri điềm tĩnh tiếp lời, "Anh Ren, anh hạ gục cái thứ điên rồ đó dễ như bỡn vậy. Mạo hiểm giả đỉnh thật đấy."
 
-Hai em nhìn tôi với nụ cười rạng rỡ trên môi. Gương mặt ửng hồng cho thấy họ đang phấn khích vì điều gì đó, nhưng tôi không tài nào đoán ra được là chuyện gì. Nhìn cách họ ngắm mình, tôi có thể lờ mờ đoán được cảm xúc của họ, nhưng tôi không biết nguyên cớ từ đâu mà ra.
+Hai em nhìn tôi với nụ cười rạng rỡ trên môi. Gương mặt ửng hồng cho thấy cả hai đang phấn khích vì điều gì đó, nhưng tôi không tài nào đoán ra được là chuyện gì. Nhìn cách hai em ngắm mình, tôi có thể lờ mờ đoán được cảm xúc của họ, nhưng tôi không biết nguyên cớ từ đâu mà ra.
 
 Đúng lúc ấy, tôi thấy Lorraine đang ngồi trên một khúc gỗ phía sau hai cô bé. Cô trông có vẻ đầy vẻ tự đắc, nhưng có lẽ đó chỉ là do tôi tưởng tượng. Dù vậy, tôi đã quen với cách Lorraine biểu lộ cảm xúc suốt một thập kỷ qua, và nếu tôi nghĩ cô đang có cảm xúc gì đó thì hầu như tôi đều đúng. Nhưng một lần nữa, tôi lại chẳng hiểu lý do vì sao.
 
@@ -112,7 +112,7 @@ Khi cô ấy nói theo cách đó, có lẽ cô đã đúng. Cách đây chưa l
 
 Sau tất cả những chuyện xảy ra gần đây, tôi bắt đầu đánh mất dần sự tự tin của mình. Tôi liên tục chạm trán những con người đầy bí ẩn như Laura và Nive, và điều đó khiến tôi cảm thấy mình chẳng là ai đặc biệt cả. Cứ như thể họ sinh ra đã mang sẵn hào quang độc nhất vô nhị, thứ gì đó khiến họ trở nên phi thường, còn tôi lại chẳng biết làm cách nào để có được điều đó cho riêng mình.
 
-Dù vậy, tạm không bàn tới Laura, tôi không hề muốn trở nên giống như Nive. Cô ta đúng là độc nhất vô nhị thật, nhưng lại đến mức phi nhân tính đến cực đoan. Cách cô ta suy nghĩ và hành xử hoàn toàn không có chỗ đứng trong xã hội. Bất chấp điều đó, cô ta có rất nhiều mối quan hệ và có tầm ảnh hưởng trong một tổ chức tôn giáo, nên cô ta luồn lách trong xã hội một cách tài tình đến kỳ lạ. Bất luận thế nào, cô ta là một trường hợp đặc biệt, và tôi không hề có ý định đi theo bước chân của cô ta.
+Dù vậy, tạm không bàn tới Laura, tôi không hề muốn trở nên giống như Nive. Cô ấy đúng là độc nhất vô nhị thật, nhưng lại đến mức phi nhân tính đến cực đoan. Cách cô ấy suy nghĩ và hành xử hoàn toàn không có chỗ đứng trong xã hội. Bất chấp điều đó, Nive có rất nhiều mối quan hệ và có tầm ảnh hưởng trong một tổ chức tôn giáo, nên cô ấy luồn lách trong xã hội một cách tài tình đến kỳ lạ. Bất luận thế nào, cô ấy là một trường hợp đặc biệt, và tôi không hề có ý định đi theo bước chân của cô ấy.
 
 "Tôi sẽ cố gắng tự tin hơn một chút. Dù sao thì, Lorraine này, cô chiếu lại đúng cái ảo ảnh vừa cho hai đứa xem đi. Tôi muốn biết chính xác nó là gì để phòng khi lát nữa hai đứa có hỏi tới."
 
@@ -138,4 +138,4 @@ Tất cả những gì tôi có thể làm là hỏi rốt cuộc người đàn
 
 "Tất nhiên rồi. Mọi người đã nhờ tôi mà," Lorraine thích thú đáp.
 
-Tôi vốn đã mệt mỏi rã rời, vậy mà giờ đây tôi phải dành cả phần còn lại của ngày hôm nay để vắt óc suy nghĩ xem làm cách nào để tại bữa tiệc tối nay cho dân làng thấy con người thực sự của tôi ra sao. Tôi chẳng bao giờ tìm ra được câu trả lời.
+Tôi vốn đã mệt mỏi rã rời, vậy mà giờ đây tôi phải dành cả phần còn lại của ngày hôm nay để vắt óc suy nghĩ xem làm cách nào để thể hiện con người thực sự của mình cho dân làng thấy trong bữa tiệc tối nay. Tôi chẳng bao giờ tìm ra được câu trả lời.

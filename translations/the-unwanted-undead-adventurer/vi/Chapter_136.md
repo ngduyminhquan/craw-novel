@@ -76,7 +76,7 @@ Lorraine e rằng lời giải thích của mình có phần hơi trừu tượn
 
 "Đúng là như thế," Lorraine thừa nhận, dẫu cô cũng khẽ lắc đầu.
 
-"Nhưng trên thực tế, việc này khó khăn đều có lý do cả. Trước hết, em thực sự phải nắm rõ đặc tính của những loài cây đó thì mới mong tìm ra chúng. Nếu không, em rất dễ lang thang trong rừng suốt cả ngày trời mà chẳng thu được gì. Chuyện đó hay xảy ra với đám lính mới lắm. Thậm chí đôi khi họ còn nhận nhầm cả ủy thác. Dù sự lười biếng của hội cũng phải chịu một phần trách nhiệm cho chuyện đó. Tất nhiên, những loài cây em có thể tìm thấy sẽ thay đổi tùy theo mùa. Đôi khi, những yêu cầu thu thập loại cây không mọc vào mùa hiện tại vẫn bị để sót trên bảng ủy thác. Nếu nhận một trong những công việc đó mà không nhận ra điều này, về sau em có thể sẽ phải nộp tiền phạt."
+"Nhưng trên thực tế, việc này khó khăn đều có lý do cả. Trước hết, em thực sự phải nắm rõ đặc tính của những loài cây đó thì mới mong tìm ra chúng. Nếu không, em rất dễ lang thang trong rừng suốt cả ngày trời mà chẳng thu được gì. Chuyện đó hay xảy ra với đám lính mới lắm. Thậm chí đôi khi họ còn nhận nhầm cả ủy thác. Dù sự lười biếng của Hội cũng phải chịu một phần trách nhiệm cho chuyện đó. Tất nhiên, những loài cây em có thể tìm thấy sẽ thay đổi tùy theo mùa. Đôi khi, những yêu cầu thu thập loại cây không mọc vào mùa hiện tại vẫn bị để sót trên bảng ủy thác. Nếu nhận một trong những công việc đó mà không nhận ra điều này, về sau em có thể sẽ phải nộp tiền phạt."
 
 Về lý do tại sao những ủy thác này vẫn nằm lại trên bảng thì có rất nhiều. Một phần là ác ý, dùng làm cách thức để thu tiền phạt từ những mạo hiểm giả mới vào nghề còn non nớt thiếu hiểu biết. Hội ở Maalt đủ rộng lượng để thường sẽ gỡ những thông báo này xuống khi đến hạn, nhưng hầu hết các hội đều phó mặc việc lựa chọn ủy thác cho mạo hiểm giả, nên bản thân họ phải tự biết cân nhắc. Ngay cả ở Maalt cũng có những dịp các ủy thác trái mùa vẫn được niêm yết. Nếu có ai đó vì lý do nào đó mà cần những loài cây không có trong mùa đó, họ có thể đăng một ủy thác với mức thù lao cao hơn đáng kể so với mức trung bình. Trong những trường hợp như vậy, Maalt sẽ giữ lại ủy thác, và bản chất của yêu cầu sẽ trở nên rõ ràng sau khi trao đổi với nhân viên của hội. Tuy nhiên, đám lính mới lại cứ đinh ninh rằng đó là những việc đơn giản với phần thưởng cao bất thường và nghĩ rằng mình vớ được món hời. Kết cục là họ phải bấm bụng nộp tiền phạt. Để tránh điều này, mạo hiểm giả cần phải có cả kiến thức lẫn kinh nghiệm.
 
@@ -84,7 +84,7 @@ Về lý do tại sao những ủy thác này vẫn nằm lại trên bảng th�
 
 "Chẳng phải mình chỉ cần nhổ lên hay đào ra rồi mang về thị trấn là xong sao ạ?" Riri hỏi.
 
-"Không hẳn thế đâu," Lorraine lắc đầu nói. "Cây cỏ là sinh vật sống và phải được giao nộp trong tình trạng an toàn nếu muốn hội tiếp nhận. Em có thể sẽ phải nai lưng cả ngày chỉ để rồi cuối cùng chẳng kiếm nổi một đồng xu nào."
+"Không hẳn thế đâu," Lorraine lắc đầu nói. "Cây cỏ là sinh vật sống và phải được giao nộp trong tình trạng an toàn nếu muốn Hội tiếp nhận. Em có thể sẽ phải nai lưng cả ngày chỉ để rồi cuối cùng chẳng kiếm nổi một đồng xu nào."
 
 "À, tùy vào mục đích sử dụng của cây mà cách thu hái cũng khác nhau nữa. Chuyện đó thì em biết," Fahri quả quyết. Trong khi Riri dường như không hiểu, Fahri đã được học về thảo dược từ bà lão làm thuốc.
 

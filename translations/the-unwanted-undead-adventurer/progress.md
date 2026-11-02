@@ -140,9 +140,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | reviewed |  |
 | 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | reviewed |  |
 | 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | reviewed |  |
-| 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | done |  |
-| 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | done |  |
-| 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | done |  |
+| 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | reviewed |  |
+| 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | reviewed |  |
+| 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | reviewed |  |
 | 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | todo |  |
 | 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | todo |  |
 | 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | todo |  |

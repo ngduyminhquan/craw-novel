@@ -112,7 +112,7 @@ Lorraine nghĩ mình nên đi cùng hai cô bé, nhưng họ đã nhìn vào chi
 
 Khi cô bắt đầu bước tới địa điểm đó, Riri và Fahri liền đi kèm hai bên để đỡ cô.
 
-"Có chuyện gì thế? Tôi rất cảm kích khi được hai cô nương xinh đẹp vây quanh thế này, nhưng tại sao vậy?" Lorraine trêu đùa.
+"Có chuyện gì thế? Tôi rất cảm kích khi được hai cô gái xinh đẹp vây quanh thế này, nhưng tại sao vậy?" Lorraine trêu đùa.
 
 "Dạ, bọn em lo là chị có thể bị say ạ," Riri ngượng ngùng nói.
 
