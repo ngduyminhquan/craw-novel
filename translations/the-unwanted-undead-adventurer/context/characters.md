@@ -64,6 +64,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 96: Khám phá ra khả năng tự hồi phục nhanh chóng trước các vết thương chém nhẹ ngoài da nhờ đặc tính của Ma Cà Rồng nhưng có giới hạn và tiêu tốn thể lực; chứng kiến ảo ảnh kỳ bí về một cô bé 5-6 tuổi và một Khô Lâu có tri giác mang hình xăm phát sáng trên hộp sọ tại tầng 4 Mê Cung Tân Nguyệt.
 - Trạng thái tính đến chương 99: Đơn thương độc mã tiêu diệt Terra Drake tại phòng thủ lĩnh tầng bốn Mê Cung Tân Nguyệt bằng Ma Khí Dung Hợp Thuật; khai thác quặng Ma Thiết tại khu mỏ cổ đại; tận mắt chứng kiến con Rồng Đất khổng lồ dài 50 mét đang say ngủ và thoát nạn nhờ che giấu khí tức; trở về an toàn và thu xếp nguyên liệu nhờ Clope rèn vũ khí cho Alize.
 - Trạng thái tính đến chương 102: Mang danh tính Rentt Vivie đến trụ sở Thương hội Stheno tại Maalt để gặp gỡ khách mua xác Tarasque; được nhân viên dẫn lên phòng tiếp khách tầng năm bằng thang máy ma cụ.
+- Trạng thái tính đến chương 111: Nhận 20 đồng bạch kim thanh toán xác Tarasque từ Nive; chia sẻ ước mơ đạt Mithril Cấp và quá khứ tu sửa ngôi đền cổ ở quê nhà được ban Thần Lực; cùng Lorraine Vivie dự định làm một chuyến về thăm quê nhà.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -92,6 +93,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 74: Cùng Rentt đến Cô Nhi Viện Thứ Hai Maalt, chính thức nhận Alize làm đệ tử ma thuật đầu tiên và bắt đầu gợi mở với Sơ Lillian về thiên phú ma thuật của cô bé.
 - Trạng thái tính đến chương 78: Mở lớp giảng dạy ma thuật vỡ lòng cho Alize và Rentt; trực tiếp truyền dẫn Ma Lực khai mở cảm nhận năng lượng cho Alize; chỉ dẫn ba phương thức niệm chú (đầy đủ, rút gọn, vô niệm).
 - Trạng thái tính đến chương 99: Đích thân nấu bữa tối thịnh soạn cho Rentt sau khi anh trở về an toàn từ tầng 4 Mê Cung Tân Nguyệt; giải thích hiện tượng mê cung nuốt chửng công trình nhân tạo; hiếm hoi tâm sự về quá khứ từng là học giả tinh hoa tranh chức hiệu trưởng Đệ Nhất Đại Học Rermutt tại quê nhà nhưng bị giới học thuật chèn ép, đố kỵ nên đã rời bỏ Đế Quốc Rermutt tới Maalt.
+- Trạng thái tính đến chương 111: Phân tích giả thuyết Rentt không phải Ma Cà Rồng thuần túy mà là biến thể Undead nhờ kháng tính Thần Lực; đề xuất cùng Rentt làm một chuyến về thăm quê nhà để tìm hiểu về ngôi đền cổ.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.

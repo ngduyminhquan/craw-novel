@@ -113,9 +113,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 106 |  | Chapter_106 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2) | reviewed |  |
 | 107 |  | Chapter_107 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3) | reviewed |  |
 | 108 |  | Chapter_108 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4) | reviewed |  |
-| 109 |  | Chapter_109 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5) | done |  |
-| 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | done |  |
-| 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | done |  |
+| 109 |  | Chapter_109 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5) | reviewed |  |
+| 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | reviewed |  |
+| 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | reviewed |  |
 | 112 |  | Chapter_112 - Vol 4 Side Story - The Princess-Saint of Healing (1).txt | Vol 4 Side Story - The Princess-Saint of Healing (1) | todo |  |
 | 113 |  | Chapter_113 - Vol 4 Side Story - The Princess-Saint of Healing (2).txt | Vol 4 Side Story - The Princess-Saint of Healing (2) | todo |  |
 | 114 |  | Chapter_114 - Vol 4 Side Story - The Princess-Saint of Healing (3).txt | Vol 4 Side Story - The Princess-Saint of Healing (3) | todo |  |

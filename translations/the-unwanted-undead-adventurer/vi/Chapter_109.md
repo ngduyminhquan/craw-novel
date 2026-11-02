@@ -32,9 +32,9 @@ Tôi chẳng hề nói đùa chút nào—tôi vẫn còn nhớ như in cái ng�
 
 Giữa lúc tôi còn đang đắn đo về chuyện ấy, Nive liền phá vỡ bầu không khí im lặng bằng một lời đề nghị.
 
-"Túi ma thuật với ba lô chứa đồ quả thật vô cùng quan trọng đối với một mạo hiểm giả, đúng là vậy... Vậy thì, ngài Rentt! Tôi có một đề xuất rất tiện cho ngài đây. Bất kể ngài có ấn tượng thế nào về tôi đi chăng nữa, tôi vẫn có thể giúp ích được rất nhiều đấy, ngài thấy không? Cứ nói cho tôi biết ngài đang tìm kiếm loại túi kích cỡ ra sao, rồi tôi sẽ bắn tin tới các mối quen của mình. Như thế thì ngài sẽ sớm có được chiếc túi mình cần thôi, tôi nghĩ vậy đấy."
+"Túi ma thuật với các loại bao túi chứa đồ quả thật vô cùng quan trọng đối với một mạo hiểm giả, đúng là vậy... Vậy thì, ngài Rentt! Tôi có một đề xuất rất tiện cho ngài đây. Bất kể ngài có ấn tượng thế nào về tôi đi chăng nữa, tôi vẫn có thể giúp ích được rất nhiều đấy, ngài thấy không? Cứ nói cho tôi biết ngài đang tìm kiếm loại túi kích cỡ ra sao, rồi tôi sẽ bắn tin tới các mối quen của mình. Như thế thì ngài sẽ sớm có được chiếc túi mình cần thôi, tôi nghĩ vậy đấy."
 
-Hừm... Lời đề nghị không tồi chút nào. Túi ma thuật và những vật phẩm tương tự vốn hiếm đến lạ lùng. Chà, một thứ cỡ như chiếc ba lô hiện tại của tôi thì còn có thể thu xếp xoay xở dễ dàng, chứ một chiếc đủ lớn để chứa trọn cả một con Tarasque thì...
+Hừm... Lời đề nghị không tồi chút nào. Túi ma thuật và những vật phẩm tương tự vốn hiếm đến lạ lùng. Chà, một thứ cỡ như chiếc túi hiện tại của tôi thì còn có thể thu xếp xoay xở dễ dàng, chứ một chiếc đủ lớn để chứa trọn cả một con Tarasque thì...
 
 Ngay cả chiếc túi có giá 1.800 đồng vàng dạo trước bản thân nó cũng đã là một món đồ cực kỳ hiếm thấy rồi. Ở một thị trấn như Maalt, quá trình tìm mua có khi phải mất tới nửa năm chăng? Không, khéo khi mất trọn cả một năm ròng rã ấy chứ. Túi ma thuật xuất hiện trong mê cung vô cùng hiếm hoi, dù chúng có thể được chế tác bởi những người thợ thủ công chuyên về ma cụ, song số lượng thợ làm được lại quá đỗi ít ỏi, còn phương pháp chế tạo thì lại bị các hiệp hội chế tác trên khắp đại lục che giấu kỹ càng.
 
@@ -86,7 +86,7 @@ Tôi nơm nớp lắng nghe tiếp, tự hỏi rốt cuộc cô ta còn có th�
 
 "Nếu ngài phát hiện ra Ma Cà Rồng thì hãy báo tin ngay nhé, được không? Đó là điều tôi muốn nói, nhưng bản thân ngài cũng khá cừ đấy chứ, ngài Rentt. Ngài được Thần Lực ban phước, nên có lẽ ngài tự tay hạ gục lũ quái vật ấy còn nhanh hơn nhiều. Trong trường hợp đó thì tôi sẽ tạm gác lại lời thỉnh cầu kia của mình vậy," Nive nói.
 
-Tôi cứ ngỡ cô ta sắp sửa lên lớp cho tôi một bài diễn thuyết về việc mọi con Ma Cà Rồng đều là con mồi của riêng một mình cô, nhưng có vẻ như sự tình không phải vậy.
+Tôi cứ ngỡ cô ta sắp sửa lên lớp cho tôi một bài diễn thuyết về việc mọi con Ma Cà Rồng đều là con mồi của riêng một mình cô ta, nhưng có vẻ như sự tình không phải vậy.
 
 Tôi đâm ra tò mò.
 

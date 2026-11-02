@@ -22,7 +22,7 @@ Dẫu lần này tôi bình an vô sự, nhưng người phụ nữ tên Nive �
 
 Tôi gật đầu đáp lời. "Thật sự đúng như cô nói... Nhưng Nive sở hữu một bí thuật dùng để phát hiện Ma Cà Rồng, hoặc ít ra cô ta tự nhận là vậy. Thứ đó hoàn toàn chẳng có chút tác dụng nào lên tôi cả. Có lẽ lần này tôi gặp may."
 
-"À, phải rồi. Là Thánh Hỏa mà anh vừa nhắc tới đó hả? Hồi ở quê nhà, tôi từng thấy một người thi triển kỹ thuật này rồi. Vào thời điểm ấy, nó được xem là một bí thuật vô cùng hiếm hoi và được các giáo hội ra sức canh giữ cẩn mật. Vì thế, nói một cách nhẹ nhàng nhất thì mọi thông tin chi tiết về nó đều mờ mịt, nhưng khi bắt tay vào tìm hiểu thì tôi thấy nó hết sức thú vị. Ngặt nỗi, dù tôi có gặng hỏi thì chẳng một ai chịu hé răng nửa lời. Vốn dĩ nghe đâu những kẻ không nhận được ân sủng của Thần Lực sẽ không tài nào nhìn thấy ngọn lửa ấy, đúng chứ? Điều đó có nghĩa là người thi triển ở quê tôi đã cố tình biến đổi để ngọn lửa hiện rõ ra... Hừm. Hồi đó tôi từng thỉnh cầu họ biểu diễn cho tôi xem để nắm rõ hơn cơ chế vận hành bên dưới của nó, nhưng thấy không, họ chẳng thèm hợp tác chút nào.
+"À, phải rồi. Là Thánh Hỏa mà anh vừa nhắc tới đó hả? Hồi ở quê nhà, tôi từng thấy một người thi triển kỹ thuật này rồi. Vào thời điểm ấy, nó được xem là một bí thuật vô cùng hiếm hoi và được các giáo hội ra sức canh giữ cẩn mật. Vì thế, nói một cách nhẹ nhàng nhất thì mọi thông tin chi tiết về nó đều mờ mịt, nhưng khi bắt tay vào tìm hiểu thì tôi thấy nó hết sức thú vị. Ngặt nỗi, dù tôi có gặng hỏi thì chẳng một ai chịu hé răng nửa lời. Vốn dĩ nghe đâu những kẻ không nhận được ân sủng của Thần Lực sẽ không tài nào nhìn thấy ngọn lửa ấy, đúng chứ? Điều đó có nghĩa là người thi triển ở quê tôi đã cố tình biến đổi để ngọn lửa hiện rõ ra... Hừm. Hồi đó tôi từng thỉnh cầu họ biểu diễn cho tôi xem để nắm rõ hơn cơ chế vận hành bên dưới của nó, nhưng thấy không, họ chẳng thèm hợp tác chút nào."
 
 "Còn một chuyện nữa, Rentt... Bí thuật dò tìm ấy không có chút tác dụng nào lên anh sao? Dù cho anh quả thực là một dạng Ma Cà Rồng nào đó, đúng không?"
 
@@ -64,7 +64,7 @@ Trong số những người bạn thời tôi còn sống, hiếm ai biết rằ
 
 Dù nhìn nhận theo cách nào thì đó cũng quả là một sự miêu tả hết sức chuẩn xác...
 
-"Đúng vậy. Ngôi đền đó vốn khá xập xệ... Thậm chí nó gần như đã bị cây cối trong rừng nuốt trọn. Phần lớn dân làng ở quê tôi thậm chí còn chẳng biết đến sự tồn tại của nó. Tôi thấy hơi tiếc nuối... nên đã bằng cách nào đó phát quang bụi rậm xung quanh, dọn dẹp sạch sẽ rồi tu sửa lại bất kỳ chỗ nào bị hư hại. Việc ấy ngốn của tôi kha khá thời gian, nhưng chuyện xảy ra từ trước khi tôi trở thành mạo hiểm giả cơ. Hồi đó tôi có thừa thãi thời gian rảnh rỗi."
+"Đúng vậy. Ngôi đền đó vốn khá xập xệ... Thậm chí nó gần như đã bị cây cối trong rừng nuốt trọn. Phần lớn dân làng ở quê tôi thậm chí còn chẳng biết đến sự tồn tại của nó. Tôi thấy hơi tiếc nuối... nên đã tự tìm cách phát quang bụi rậm xung quanh, dọn dẹp sạch sẽ rồi tu sửa lại bất kỳ chỗ nào bị hư hại. Việc ấy ngốn của tôi kha khá thời gian, nhưng chuyện xảy ra từ trước khi tôi trở thành mạo hiểm giả cơ. Hồi đó tôi có thừa thãi thời gian rảnh rỗi."
 
 "Anh nói nghe đơn giản ghê, Rentt. Cứ như thể sửa một ngôi đền chỉ là chuyện nhỏ vậy. Bất kể anh nói thế nào thì việc đó cũng đòi hỏi không ít kỹ năng đấy, đúng không?"
 
@@ -74,7 +74,7 @@ Dù nhìn nhận theo cách nào thì đó cũng quả là một sự miêu tả
 
 "Tôi thì không nghĩ vậy đâu. Dù sao đi nữa, giờ đây tôi đã hoàn toàn đủ năng lực để nhắm tới đỉnh cao rồi. Có khi trong trường hợp của tôi, các vị thần thực ra lại tương đối nhân từ ấy chứ."
 
-"Anh quá đỗi lạc quan rồi, Rentt à. Nhưng than ôi, đó quả thực là một trong những điểm tốt của anh. Mà anh bảo đó là một ngôi đền, đúng chứ? Ngôi đền ấy được dựng lên để thờ phụng vị thần nào vậy?"
+"Anh quá đỗi lạc quan rồi, Rentt à. Nhưng ngặt nỗi, đó quả thực là một trong những điểm tốt của anh. Mà anh bảo đó là một ngôi đền, đúng chứ? Ngôi đền ấy được dựng lên để thờ phụng vị thần nào vậy?"
 
 "À thì..." Tôi không thực sự có câu trả lời cụ thể. "Tôi chịu thôi. Dù sao thì đó cũng là một ngôi đền chẳng ai thèm viếng thăm mà. Có lẽ các trưởng lão trong làng sẽ biết đôi điều về nó..."
 

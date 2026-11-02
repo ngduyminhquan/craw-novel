@@ -50,7 +50,7 @@ Nive gần như lập tức nhìn thấu câu trả lời lấp liếm của tô
 
 "Về chuyện đó... Theo những gì tôi nghe từ một người bạn hồi ấy, tôi bị xem là một đứa trẻ khá lập dị. Nhưng tôi đã hòa giải với những người từng bắt nạt mình từ lâu lắm rồi. Ít nhất thì khi tôi trở về quê nhà, chúng tôi vẫn nói chuyện hòa thuận với nhau."
 
-"Quả thực hiếm thấy đấy," Sharl góp lời bằng nhận xét của riêng mình. "Phần lớn thời gian, nếu một đứa trẻ từng là nạn nhân bị bắt nạt trở về quê hương sau khi đã trở thành mạo hiểm giả, chuyến đi ấy chủ yếu là để trả thù. Như tôi chẳng hạn, tôi nhất định sẽ cho chúng vài quả đấm thích đáng. Ngài chưa từng nghĩ đến việc làm những điều như vậy sao, ngài Rentt?"
+"Quả thực hiếm thấy đấy," Sharl góp lời bằng nhận xét của riêng mình. "Thường thì, nếu một đứa trẻ từng là nạn nhân bị bắt nạt trở về quê hương sau khi đã trở thành mạo hiểm giả, chuyến đi ấy chủ yếu là để trả thù. Như tôi chẳng hạn, tôi nhất định sẽ cho chúng vài quả đấm thích đáng. Ngài chưa từng nghĩ đến việc làm những điều như vậy sao, ngài Rentt?"
 
 Tôi trầm ngâm suy nghĩ một lát trước khi đưa ra câu trả lời.
 
@@ -76,7 +76,7 @@ Thế nhưng Nive ở đây thì...
 
 "Dù sao thì ngài cũng là mạo hiểm giả đã một mình tiêu diệt cả một con Tarasque," Myullias đưa ra nhận xét tiếp theo. "Tôi sẽ chẳng hề ngạc nhiên nếu một ngày nào đó điều ấy thực sự xảy ra đâu."
 
-"Nếu ngài thực sự đạt được tới cảnh giới đó, ngài Rentt," Sharl xen vào, "xin hãy ủng hộ cho cửa tiệm nhỏ mọn của chúng tôi nhé. Khi ấy chúng tôi tha hồ mà bán giá trên trời rồi!"
+"Nếu ngài thực sự đạt được tới cấp bậc đó, ngài Rentt," Sharl xen vào, "xin hãy ủng hộ cho cửa tiệm nhỏ bé của chúng tôi nhé. Khi ấy chúng tôi tha hồ mà bán giá trên trời rồi!"
 
 Ông ta nói câu này nhiều khả năng chỉ là nửa đùa nửa thật, bởi thông thường một khi đã đạt tới Mithril Cấp, người ta sẽ được các cửa tiệm mời chào sử dụng hàng hóa của họ, bất kể là trang bị hay công cụ. Đây hoàn toàn chẳng phải là một hành động xuất phát từ lòng vị tha gì, vì những món công cụ được một mạo hiểm giả Mithril Cấp sử dụng thường bán rất chạy. Sự lui tới bảo trợ của họ đổi lại sẽ mang đến mối làm ăn khổng lồ cho cửa tiệm. Về mặt thực tế, các cửa hàng đang lợi dụng mạo hiểm giả Mithril Cấp ở một chừng mực nhất định.
 
@@ -194,7 +194,7 @@ Dù sao đi nữa, giờ đây tôi đã nắm rõ hơn về tình hình, liền
 
 "Tôi hiểu rồi. Trong trường hợp đó, nếu có bao giờ bắt gặp một con Ma Cà Rồng như vậy, tôi nhất định sẽ liên lạc với cô."
 
-Nói đoạn, tôi chìa tay ra. Một cái bắt tay để giữ thể diện.
+Nói đoạn, tôi chìa tay ra. Một cái bắt tay mang tính hình thức.
 
 Có lẽ đó là một cử chỉ thân thiện đôi chút, hoặc chỉ đơn thuần là thứ để giải tỏa những bất đồng giữa chúng tôi, sau tất cả những gì đã xảy ra.
 
