@@ -296,6 +296,13 @@ Rentt nhận lời tìm hoa tại Đầm Lầy Tarasque đầy nguy hiểm vào 
 Xuống căn hầm chứa đồ để xử lý quái vật giúp viện, Rentt dùng dao giải phẫu chém gục một con Puchi Suri ngoại cỡ nhưng bị nó bật dậy cắn trúng tay đấm chặn của anh.
 Máu Thi Quỷ của Rentt ngấm vào khiến con Puchi Suri biến đổi thành quyến thuộc lông đen phục tùng mệnh lệnh; anh lấp liếm với Alize là dùng thuật thuần hóa quái vật và để nó lại làm lính gác hầm.
 
+## 51
+Rentt để Alize trực tiếp tiêu diệt một con Puchi Suri nhỏ dưới hầm lấy Ma Tinh làm tiền tiêu vặt; anh thử nghiệm năng lực của quyến thuộc mới và phát hiện nó có thể dùng ánh mắt áp chế, điều khiển bầy chuột nhỏ canh giữ căn hầm.
+Đem con chuột quyến thuộc về nhà, Rentt giải thích về ủy thác Đầm Lầy Tarasque khiến Lorraine lo lắng; Lorraine đồng ý cho nuôi con chuột để lấy mẫu máu phục vụ nghiên cứu và bị nó cắn nhẹ vào tay hút máu.
+Đêm đến, Rentt thức trắng đọc sách vì cơ thể Thi Quỷ không cần ngủ trong khi con chuột ngủ say sưa; qua liên kết tâm trí, anh cảm nhận được cảm xúc cơ bản của nó.
+Sáng hôm sau, bị hấp dẫn bởi mùi thơm lạ từ bếp, Rentt ngạc nhiên thấy Lorraine dậy sớm tự tay dùng ma cụ nấu bữa sáng cho cả hai trước khi anh lên đường.
+
+
 
 
 

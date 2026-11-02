@@ -109,3 +109,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
 | monster tamer | monster tamers | người thuần hóa quái vật | chức nghiệp | 13 | Người sở hữu ma pháp chi phối tâm trí để thuần hóa và điều khiển quái vật (魔物使い) |
 | familiar | familiars | quyến thuộc | khác | 50 | Sinh vật bị chi phối hoặc tạo ra từ máu của Ma Cà Rồng/Thi Quỷ (眷属) |
+| Goblin General | Goblin Generals | Đại Tướng Goblin | quái vật | 51 | Phân loài Goblin cấp chỉ huy có khả năng thống lĩnh bầy đàn |
+| Goblin King | Goblin Kings | Vua Goblin | quái vật | 51 | Quái vật cấp vua thống trị bộ tộc Goblin |
