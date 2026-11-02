@@ -40,7 +40,7 @@ Có vẻ như mọi chuyện đúng như lời Rina nói. Về phần mình, cô
 
 Vậy... rốt cuộc chiếc mặt nạ không bị nguyền rủa sao?
 
-—Không. Tập trung sự chú ý vào chiếc mặt nạ đang dính chặt trên mặt, tôi cảm nhận được một dấu vết tà ác: mùi hôi thối đặc trưng không thể nhầm lẫn của ám năng lượng. Đây chắc chắn là một dạng nguyền rủa còn vương lại.
+—Không. Tập trung sự chú ý vào chiếc mặt nạ đang dính chặt trên mặt, tôi cảm nhận được một dấu vết tà ác: mùi hôi thối đặc trưng không thể nhầm lẫn của năng lượng hắc ám. Đây chắc chắn là một dạng nguyền rủa còn vương lại.
 
 Còn về lý do tại sao Rina không bị ảnh hưởng... ừ thì rất đơn giản: ngay từ đầu cô gái đâu có thử đeo chiếc mặt nạ lên mặt. Ngay cả bản thân tôi cũng chẳng thấy điều gì bất thường khi cầm nó trên tay. Nói chính xác thì đây là một lời nguyền chỉ phát huy tác dụng khi chiếc mặt nạ được áp lên mặt của nạn nhân.
 
@@ -82,7 +82,7 @@ Mệt lử sau những nỗ lực cùng cú sốc ban đầu trước chiếc m�
 
 "Tôi thực sự xin lỗi... Tôi không hề cố ý mua phải một món đồ bị nguyền rủa như thế..." Rina vội vã tạ lỗi.
 
-Có lẽ cô ấy đã suy diễn hành động và biểu cảm của tôi thành sự thất vọng chăng? Rina với đôi mắt ngấn lệ dường như cảm thấy vô cùng ân hận trước diễn biến trớ trêu này.
+Có lẽ cô ấy đã suy diễn hành động và cử chỉ của tôi thành sự thất vọng chăng? Rina với đôi mắt ngấn lệ dường như cảm thấy vô cùng ân hận trước diễn biến trớ trêu này.
 
 Nói thế nào đi nữa thì chuyện này cũng thật bất ngờ. Dù đúng là chiếc mặt nạ không thể tháo ra, tôi chẳng có lý do gì để trách cứ Rina vì những gì cô đã làm. Cô ấy chỉ tìm cho tôi một chiếc mặt nạ bằng tất cả lòng tốt của mình.
 
@@ -162,7 +162,7 @@ Chẳng lẽ cô không nghĩ đến hậu quả sao? Ít nhất tôi cũng ph�
 
 "...Điều đó... đúng thật. Nhưng như vậy... có ổn không? Lỡ... lỡ có chuyện gì x-xảy ra..."
 
-"Tới đâu hay tới đó thôi! ...Anh Rentt này, nếu không nhờ có anh thì tôi đã chết từ lâu rồi. Tôi cảm thấy bản thân liều mạng một lần vì anh cũng chẳng sao mà, phải không?" Rina thốt ra những lời này cứ như thể đó là điều hiển nhiên nhất trên đời.
+"Tới đâu hay tới đó thôi! ...Anh Rentt này, nếu không nhờ có anh thì giờ này tôi đã mất mạng rồi. Tôi cảm thấy bản thân liều mạng một lần vì anh cũng chẳng sao mà, phải không?" Rina thốt ra những lời này cứ như thể đó là điều hiển nhiên nhất trên đời.
 
 Dẫu vậy, nghe đến đó tôi chợt nhận ra Rina là một cô gái vô cùng chu đáo—thậm chí có phần quá mức. Dù thế nào đi nữa, tôi vẫn vô cùng cảm kích trước tấm lòng tốt của Rina.
 
@@ -192,7 +192,7 @@ Cô gái này quả thực bản lĩnh thật đấy...
 
 Nghĩ vậy, tôi nhanh chóng rảo bước theo sau Rina.
 
-"Một nữ và... một nam à? Ta đoán vậy? ...Xin cho xem thẻ thông hành." Dù có chút ngập ngừng, dường như người lính đã nhận diện tôi là đàn ông.
+"Một nữ và... một nam à? Ta nghĩ thế... Xin cho xem thẻ thông hành." Dù có chút ngập ngừng, dường như người lính đã nhận diện tôi là đàn ông.
 
 Hơn nữa, đó lại là một người lính tôi chưa từng thấy mặt bao giờ. Xem ra việc lựa chọn cánh cổng tôi hiếm khi qua lại rốt cuộc lại là một ý kiến hay. Nếu lính gác là người quen mặt tôi khi còn sống, chuyện đó sẽ chỉ dẫn đến đủ thứ câu hỏi bất tiện. Mặt khác, biết đâu chuyện quen biết lại có lợi cho tôi... Dù thế nào đi nữa, đây cũng là một vấn đề phức tạp.
 

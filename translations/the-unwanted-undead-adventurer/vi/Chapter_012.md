@@ -76,7 +76,7 @@ Chẳng còn cách nào khác, tôi gõ thêm một lần nữa. Lại chỉ có
 
 Nếu không mau chóng đánh thức chủ nhân ngôi nhà này dậy, những gì tôi nhìn thấy trước mắt ở tương lai sẽ chỉ là một chuỗi rắc rối triền miên. Dù chẳng cần thức ăn nước uống vì bản thân là Undead, nhưng tôi cũng chẳng có một nơi nào để trú ngụ an toàn. Nếu cứ lang thang quanh thị trấn trong bộ dạng này, chắc chắn lính gác Maalt sẽ tóm cổ tôi về thẩm vấn.
 
-Khi còn sống tôi có một chỗ ở trong ký túc xá mạo hiểm giả, nhưng giờ đây với trang phục thế này thì tôi chịu không thể quay về đó được. May mắn thay, tiền thuê ký túc xá được thanh toán vào đầu mỗi tháng. Căn phòng sẽ được dọn dẹp sạch sẽ và đem cho người khác thuê lại khi hợp đồng của tôi kết thúc. Cũng đáng nói thêm là các ký túc xá ở khắp mọi nơi thường làm điều tương tự khi một mạo hiểm giả bặt vô âm tín suốt thời gian dài, với giả định chung rằng họ, nói theo cách dễ nghe nhất, đã chết. Đó là lý do vì sao việc bỏ mặc phòng ký túc xá ở tình trạng hiện tại không gây ra quá nhiều vấn đề.
+Khi còn sống tôi có một chỗ ở trong ký túc xá mạo hiểm giả, nhưng giờ đây với trang phục thế này thì tôi chịu không thể quay về đó được. May mắn thay, tiền thuê ký túc xá được thanh toán vào đầu mỗi tháng. Căn phòng sẽ được dọn dẹp sạch sẽ và đem cho người khác thuê lại khi hợp đồng của tôi kết thúc. Cũng đáng nói thêm là các ký túc xá ở khắp mọi nơi thường làm điều tương tự khi một mạo hiểm giả bặt vô âm tín suốt thời gian dài, với giả định chung rằng họ, nói thẳng thừng ra là, đã chết. Đó là lý do vì sao việc bỏ mặc phòng ký túc xá ở tình trạng hiện tại không gây ra quá nhiều vấn đề.
 
 Nhắc đến vấn đề, giờ tôi lại quay về với việc trước mắt—làm sao vào được bên trong căn nhà này. Đó là lý do tôi thôi không gõ cửa nữa, thay vào đó đặt tay lên nắm đấm cửa và vặn mạnh một cái.
 
@@ -118,4 +118,4 @@ Bình thường ắt hẳn người ta sẽ vô cùng kinh hãi trước cảnh 
 
 "...Rốt cuộc đã xảy ra chuyện gì với anh thế?"
 
-Đột ngột đổi sang nét mặt nghiêm nghị, sự hào hứng khác thường của người bạn tôi trước những chuyện thế này lại mang đến cảm giác an lòng đến lạ. Hít một hơi thật sâu, tôi bắt đầu giãi bày toàn bộ mọi chuyện đã xảy ra cho đến tận lúc này.
+Thấy người bạn đột ngột đổi sang nét mặt nghiêm nghị, sự hào hứng khác thường của cô ấy trước những chuyện thế này lại mang đến cảm giác an lòng đến lạ. Hít một hơi thật sâu, tôi bắt đầu giãi bày toàn bộ mọi chuyện đã xảy ra cho đến tận lúc này.

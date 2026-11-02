@@ -64,7 +64,7 @@ Bên cạnh sự thoải mái, người ta cũng phải cân nhắc xem liệu m
 
 Rina rõ ràng đã thấy ổn khi bước lại gần tôi trong lúc tôi đội thử chiếc mũ trùm. Giờ đây cô đứng gần tôi hơn bao giờ hết, bất kể thực tế là chỉ vài phút trước thôi, cô còn lộ rõ vẻ khiếp sợ trước tôi.
 
-Dù cô vẫn đang cầm thanh kiếm, nhưng phần mũi kiếm "sẵn sàng hành động" đã không còn chĩa về phía tôi nữa.
+Dù cô vẫn đang cầm thanh kiếm, nhưng đầu mũi kiếm—phần gây sát thương—đã không còn chĩa về phía tôi nữa.
 
 Cô ấy đã quen với mình rồi sao?
 
@@ -78,7 +78,7 @@ Tôi tự hỏi liệu cô có thói quen nhanh chóng cảm thấy thoải mái
 
 Dường như cô đang đứng ở một khoảng cách đủ rõ ràng để phản ứng thích hợp nếu có bất trắc xảy ra. Trái ngược với ấn tượng ban đầu của tôi về cô, có vẻ Rina tương đối cẩn trọng. Dẫu vậy, tôi vẫn xem đây là một sự tiến triển vượt bậc—ít nhất đó là những gì tôi nghĩ khi tiếp tục quan sát các cử động của Rina.
 
-Dẫu người ta có thể bảo rằng cả chuỗi biến cố này, khởi đầu từ việc tôi bị Rồng ăn thịt rồi tái sinh thành Khô Lâu undead, là điều có phần bất hạnh, thì việc gặp được Rina có lẽ là điều may mắn nhất từng xảy đến với tôi cho đến tận lúc này.
+Dẫu người ta có thể bảo rằng cả chuỗi biến cố này, khởi đầu từ việc tôi bị Rồng ăn thịt rồi tái sinh thành Khô Lâu Undead, là điều có phần bất hạnh, thì việc gặp được Rina có lẽ là điều may mắn nhất từng xảy đến với tôi cho đến tận lúc này.
 
 Dù đúng là tôi đã cứu mạng cô, nhưng bình thường sẽ chẳng có con người nào có thể điềm nhiên nói chuyện với quái vật. Và ngay cả khi tôi chẳng rõ tương lai sẽ ra sao, thì việc Rina tiếp tục hợp tác với tôi là điều khiến tôi vô cùng cảm kích.
 
@@ -114,7 +114,7 @@ Nói vậy không có nghĩa là tôi chưa lường trước chuyện này, v�
 
 Dù nhìn nhận thế nào đi chăng nữa, đây đích thực là khuôn mặt của một xác chết.
 
-Tuy nhiên, điều duy nhất thực sự nổi bật là một chuỗi hình xăm phát sáng phức tạp trên mặt tôi, đang nhấp nháy trong một sắc xanh lam dịu nhẹ. Dù trông chúng thực sự khá đẹp mắt, những hình xăm ấy cũng tỏa ra một luồng khí tức bí ẩn, gần như không thể hiểu thấu. Tôi suy đoán rằng những hình xăm này có liên quan gì đó đến việc tôi biến thành một thành viên của xác sống.
+Tuy nhiên, điều duy nhất thực sự nổi bật là một chuỗi hình xăm phát sáng phức tạp trên mặt tôi, đang nhấp nháy trong một sắc xanh lam dịu nhẹ. Dù trông chúng thực sự khá đẹp mắt, những hình xăm ấy cũng tỏa ra một luồng khí tức bí ẩn, gần như không thể hiểu thấu. Tôi suy đoán rằng những hình xăm này có liên quan gì đó đến việc tôi biến thành một sinh vật thuộc về cõi xác sống.
 
 Thế nhưng gạt tất cả những điều đó sang một bên, không thể phủ nhận rằng tình hình lúc này hết sức cam go, và những nỗ lực cải trang của tôi gần như đã đổ sông đổ bể bởi những hình xăm phát sáng này. Nếu có gì thì chúng lại khiến tôi nổi bần bật chẳng khác nào gai nhọn chọc vào mắt.
 
@@ -146,7 +146,7 @@ Quan trọng hơn cả lúc này, vật phẩm mà Rina vừa lấy ra không g�
 
 Một lần nữa, đúng như những gì Rina nói.
 
-Cô gái này... quả thực không phải dạng vừa đâu. Dù tôi cảm thấy vùng mặt mình nóng ran lên, nhưng đáng tiếc thay chẳng có giọt nước mắt cảm kích nào ứa ra. Tôi đã cố hết sức để khóc, nhưng có lẽ Rina chẳng nhận thấy bất kỳ sự thay đổi nào nơi thần thái của tôi.
+Cô gái này... quả thực chẳng tầm thường chút nào. Dù tôi cảm thấy vùng mặt mình nóng ran lên, nhưng đáng tiếc thay chẳng có giọt nước mắt cảm kích nào ứa ra. Tôi đã cố hết sức để khóc, nhưng có lẽ Rina chẳng nhận thấy bất kỳ sự thay đổi nào nơi thần thái của tôi.
 
 Tiến lại gần chiếc mặt nạ mà Rina đã đặt trên mặt đất, tôi nhặt nó lên, chăm chú quan sát. Chiếc mặt nạ dường như có các lỗ khoét vừa vặn cho mắt và miệng, nên có vẻ tôi sẽ không gặp nhiều trở ngại trong việc nhìn hay thở. Dẫu vậy, liệu ở tình trạng hiện tại tôi có thở được hay không lại là một vấn đề hoàn toàn khác.
 
