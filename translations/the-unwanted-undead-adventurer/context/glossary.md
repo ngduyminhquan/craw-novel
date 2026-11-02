@@ -190,3 +190,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Rermutt First University | Rermutt’s First University | Đệ Nhất Đại Học Rermutt | tổ chức | 99 | Viện đại học danh tiếng hàng đầu của Đế Quốc Rermutt, trường cũ của Lorraine Vivie |
 | Blacksmith’s Guild | Blacksmith's Guild; Blacksmiths Guild | Hội Thợ Rèn | tổ chức | 100 | Hiệp hội quản lý các thợ rèn và sản xuất vũ khí kim loại |
 | Flood | Floods; flood; floods | Lũ Tràn | khác | 91 | Hiện tượng quái vật trong mê cung bùng phát tràn ra bên ngoài (quái triều / monster flood) |
+| alchemy |  | thuật giả kim | kỹ năng | 4 | Phương pháp thao túng vật chất và chế tạo ma cụ, thuốc, tinh luyện kim loại (錬金術) |
+| alchemist | alchemists | nhà giả kim | chức nghiệp | 4 | Người nghiên cứu và thực hành thuật giả kim (錬金術師) |
+| magical tool | magical tools; magic tool; magic tools | ma cụ | vật phẩm | 1 | Dụng cụ, công cụ ma thuật được tạo tác bằng thuật giả kim hoặc yểm ma lực (魔道具) |
+| wand | wands | đũa phép | vật phẩm | 100 | Dụng cụ dẫn ma pháp dạng que ngắn làm từ gỗ quái vật và Ma Tinh (杖/ワンド) |

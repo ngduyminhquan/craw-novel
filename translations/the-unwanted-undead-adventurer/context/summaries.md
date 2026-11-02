@@ -588,6 +588,13 @@ Rentt bày các nguyên liệu lên bàn nhờ Lorraine thẩm định và nhờ
 Kiểm tra quặng Ma Thiết, Lorraine phát hiện một phần quặng bị biến đổi bởi Ma Lực của Rồng Đất chuyển sang sắc vàng, trở thành quặng ma thuật quý giá có thể rèn ra ma kiếm hoặc ma giáp tự phát động ma pháp hệ thổ mà không tốn Ma Lực.
 Dù rất hứng thú muốn rèn ma kiếm trong tương lai, Rentt đồng tình chưa nên trang bị thứ quá tầm cho Alize vì lý do rèn luyện và bản thân anh cũng chưa đủ tiền chi trả phí rèn đúc; kết chương, Lorraine xem qua các mẫu gỗ Ent Jyulapus (bạch dương, linh sam, gỗ mun) để chuẩn bị chế tạo đũa phép.
 
+## 101
+Lorraine đánh giá các mẫu gỗ Ent Jyulapus: gỗ mun tuy bền nhưng nặng và khó chế tác, hợp với thể lực của Rentt hơn; còn gỗ bạch dương hoặc linh sam là thích hợp nhất cho vóc dáng của Alize.
+Về Ma Tinh làm đũa phép, Lorraine giải thích Alize sở hữu lượng Ma Lực dồi dào nên Ma Tinh cấp thấp (Goblin, Slime) dễ bị nứt toác gây nổ nguy hiểm, bắt buộc phải dùng Ma Tinh quái vật từ tầng ba trở xuống.
+Rentt kiên quyết từ chối nhận thù lao đi thu thập nguyên liệu từ Lorraine để tránh bòn rút lòng tốt của bạn thân; đổi lại, Lorraine dùng thuật giả kim tinh luyện thần tốc toàn bộ quặng Ma Thiết thường lẫn quặng nhiễm Ma Lực Rồng Đất thành các thỏi kim loại tím và vàng với độ tinh khiết cực cao.
+Trước sự kinh ngạc và áy náy của Rentt về công sức tinh luyện đắt giá, Lorraine xem việc được nghiên cứu thực thể Undead độc nhất vô nhị như anh là trải nghiệm vô giá vượt xa ngàn đồng vàng; cả hai thống nhất xem đây là cuộc trao đổi dịch vụ sòng phẳng.
+
+
 
 
 
