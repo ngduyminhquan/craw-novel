@@ -14,9 +14,9 @@ Lời tuyên bố thủ phạm đầy bất ngờ. Theo những gì tôi hiểu,
 
 Liệu Ma Cà Rồng có thực sự là nguyên nhân? Cho dù điều đó có là thật đi chăng nữa, tôi cũng tuyệt đối không phải hung thủ.
 
-"Tiểu thư Nive, như vậy chẳng phải là suy đoán quá võ đoán sao? Dù sao thì người ta cũng đâu tìm thấy xác chết mạo hiểm giả nào bị hút cạn máu. Sao cô lại đi đến kết luận như vậy?"
+"Tiểu thư Nive, như vậy chẳng phải là kết luận quá võ đoán sao? Dù sao thì người ta cũng đâu tìm thấy xác chết mạo hiểm giả nào bị hút cạn máu. Sao cô lại đi đến kết luận như vậy?"
 
-Một kết luận bất khả thi và khó tin, tôi toan nói vậy. Thế nhưng, Nive liền rút một tấm bản đồ từ chiếc túi ma pháp bên thắt lưng, rồi trải rộng nó lên chiếc bàn cạnh chúng tôi. Vô số mảnh thông tin được ghi chép rải rác khắp nơi trên tấm bản đồ.
+Một kết luận bất khả thi và khó tin, tôi toan nói vậy. Thế nhưng, Nive liền rút một tấm bản đồ từ chiếc túi ma thuật bên thắt lưng, rồi trải rộng nó lên chiếc bàn cạnh chúng tôi. Vô số mảnh thông tin được ghi chép rải rác khắp nơi trên tấm bản đồ.
 
 Khi quan sát kỹ hơn, tôi nhận ra mọi dòng ghi chú này đều liên quan tới Ma Cà Rồng. Chi tiết về năm, tháng, ngày chạm trán, các chủng loại Ma Cà Rồng, số lượng, liệu chúng đã bị tiêu diệt... hay vẫn còn sống. Vô số dòng ghi chú phủ kín bề mặt tấm da dê.
 
@@ -50,7 +50,7 @@ Nive đã sớm nhận ra tôi đã nắm bắt được quy luật ấy.
 
 "Đúng vậy..."
 
-"Nhưng dĩ nhiên, hẳn là ngài đang nghĩ chỉ bấy nhiêu thôi thì chưa đủ để khẳng định toàn bộ vụ việc là tác phẩm của Ma Cà Rồng. Ngay từ đầu, trong ba mươi vụ này, có tới mười một thị trấn và thành phố chọn cách không công bố hay để công chúng biết tới. Có lẽ nói vậy cũng chưa hẳn chuẩn xác... Mạo hiểm giả thì phải chết chứ, đúng không? Trong mê cung này nọ, nên việc họ biến mất đơn thuần được coi là chuyện như thế. Đích thân tôi đã xác minh tất cả các vụ mất tích này và có thể chứng thực tính xác thực của chúng. Nhìn vào tất cả những điều đó, tôi cảm thấy có điều gì bất thường. Trực giác mách bảo tôi rằng Ma Cà Rồng có nhúng tay vào. Tuyệt đối không thể nhầm lẫn được."
+"Nhưng dĩ nhiên, hẳn là ngài đang nghĩ chỉ bấy nhiêu thôi thì chưa đủ để khẳng định toàn bộ vụ việc là tác phẩm của Ma Cà Rồng. Ngay từ đầu, trong ba mươi vụ này, có tới mười một thị trấn và thành phố chọn cách không công bố hay để công chúng biết tới. Có lẽ nói vậy cũng chưa hẳn chuẩn xác... Mạo hiểm giả thì phải chết chứ, đúng không? Trong mê cung này nọ, nên việc họ biến mất đơn thuần được coi là chuyện như thế. Đích thân tôi đã xác minh tất cả các vụ mất tích này và có thể bảo đảm tính xác thực của chúng. Nhìn vào tất cả những điều đó, tôi cảm thấy có điều gì bất thường. Trực giác mách bảo tôi rằng Ma Cà Rồng có nhúng tay vào. Tuyệt đối không thể nhầm lẫn được."
 
 Chuyện đó... Tôi biết phải nghĩ sao về chuyện đó đây? Có lẽ những mạo hiểm giả ấy thực sự chỉ bỏ mạng trong mê cung mà thôi.
 
@@ -72,7 +72,7 @@ Những chi nhánh Hội bị ghét bỏ, những kẻ lạm dụng quyền lự
 
 Làm ơn hãy làm tròn bổn phận của mình đi chứ, hỡi các Hội Mạo Hiểm Giả trên khắp thế gian này...
 
-Nhưng theo những gì Nive vừa nói, Thi Quỷ được tạo ra từ các mạo hiểm giả mới đăng ký đã được nhiều người tận mắt chứng kiến. Nếu điều đó thực sự là sự thật...
+Nhưng theo những gì Nive vừa nói, Thi Quỷ được tạo ra từ các mạo hiểm giả mới đăng ký đã được nhiều người tận mắt chứng kiến. Nếu điều đó quả thực là sự thật...
 
 Nive vừa đi đi lại lại vừa tiếp tục nói.
 
@@ -84,9 +84,9 @@ Dù sao thì đó cũng là một con Ma Cà Rồng liên tục tiến về phí
 
 Nive gật đầu.
 
-"Đúng vậy, nhưng tôi không thể chắc chắn được. Dẫu thế, theo kinh nghiệm của tôi, một con Ma Cà Rồng đã săn lùng nhiều con người đến mức này sẽ không chịu dừng lại đâu. Không, nó không thể dừng lại được. Căn cứ vào các vụ mạo hiểm giả mới đăng ký mất tích một cách kỳ lạ, nó hẳn vẫn còn ở đây, tại thị trấn này. Nếu nó không còn ở đây, thì các vụ mất tích đáng lẽ phải bùng phát ở khắp mọi nơi rồi. Ý tôi là ở một nơi nào khác cơ.
+"Đúng vậy, nhưng tôi không thể chắc chắn được. Dẫu thế, theo kinh nghiệm của tôi, một con Ma Cà Rồng đã săn lùng nhiều con người đến mức này sẽ không chịu dừng lại đâu. Không, nó không thể dừng lại được. Căn cứ vào các vụ mạo hiểm giả mới đăng ký mất tích một cách kỳ lạ, nó hẳn vẫn còn ở đây, tại thị trấn này. Nếu nó không còn ở đây, thì các vụ mất tích đáng lẽ phải bùng phát ở khắp mọi nơi rồi. Ý tôi là ở một nơi nào khác cơ."
 
-Theo nguồn tin của tôi, những vụ việc như vậy vẫn chưa hề xảy ra ở các thị trấn lân cận, thế nên, chắc chắn nó vẫn đang ở đây."
+"Theo nguồn tin của tôi, những vụ việc như vậy vẫn chưa hề xảy ra ở các thị trấn lân cận, thế nên, chắc chắn nó vẫn đang ở đây."
 
 Có vẻ như Nive nắm trong tay khá nhiều nguồn tin. Còn về phương thức của cô ta, ừ thì... Tôi từng nghe nói mạo hiểm giả Kim Cấp có thể sử dụng một phần mạng lưới thông tin của Hội, nên chắc hẳn cũng tương tự như vậy. Hoặc có lẽ đó là mạng lưới riêng của Nive...
 
@@ -98,7 +98,7 @@ Tuy nhiên...
 
 Trông tôi kỳ quặc đến thế sao?
 
-"Tôi đến thị trấn này để truy lùng Ma Cà Rồng mà," Nive nhanh chóng đáp lại tôi. "Chà. Ngài biết đấy, người ở thị trấn này ai nấy đều có chút kỳ quặc, nhưng trong số đó, ngài thấy đấy, lại có một kẻ thực sự vô cùng kỳ quặc. Chẳng phải ai khác ngoài ngài đâu, ngài Rentt. Ngài mới tới thị trấn này gần đây, thăng lên Đồng Cấp chỉ trong một khoảng thời gian ngắn, lại còn một mình hạ gục cả một con Tarasque. Tôi nghĩ ngài hiểu tôi đang nói gì rồi chứ? Đúng là không phải bất khả thi, nhưng mạo hiểm giả mới mà làm được chuyện như thế á? Cực kỳ hiếm thấy. Tuy nhiên, nếu ngài là Ma Cà Rồng, thì những chiến tích đó tuyệt đối chẳng có gì là quá sức. Đã vậy, ngài chỉ hoạt động vào những khung giờ mà thị trấn, đường phố vắng bóng người. Một hành vi rất phổ biến ở ma cà rồng, đúng chứ? Chúng tránh tiếp xúc với con người và hiếm khi thò mặt ra ngoài vào ban ngày. Chiếc mặt nạ, tấm áo choàng, làn da tái nhợt của ngài... Cứ nghĩ tới việc chiếc mặt nạ của ngài có thể dùng để che giấu những chiếc nanh nhọn trong miệng mà xem... Thế nên. Càng quan sát ngài, tôi lại càng thấy ngài kỳ quặc... Nhưng xem ra tôi đã nhầm rồi, vậy nên tôi phải xin lỗi ngài thôi."
+"Tôi đến thị trấn này để truy lùng Ma Cà Rồng mà," Nive nhanh chóng đáp lại tôi. "Chà. Ngài biết đấy, người ở thị trấn này ai nấy đều có chút kỳ quặc, nhưng trong số đó, ngài thấy đấy, lại có một kẻ thực sự vô cùng kỳ quặc. Chẳng phải ai khác ngoài ngài đâu, ngài Rentt. Ngài mới tới thị trấn này gần đây, thăng lên Đồng Cấp chỉ trong một khoảng thời gian ngắn, lại còn một mình hạ gục cả một con Tarasque. Tôi nghĩ ngài hiểu tôi đang nói gì rồi chứ? Đúng là không phải bất khả thi, nhưng mạo hiểm giả mới mà làm được chuyện như thế á? Cực kỳ hiếm thấy. Tuy nhiên, nếu ngài là Ma Cà Rồng, thì những chiến tích đó tuyệt đối chẳng có gì là quá sức. Đã vậy, ngài chỉ hoạt động vào những khung giờ mà thị trấn, đường phố vắng bóng người. Một hành vi rất phổ biến ở Ma Cà Rồng, đúng chứ? Chúng tránh tiếp xúc với con người và hiếm khi thò mặt ra ngoài vào ban ngày. Chiếc mặt nạ, tấm áo choàng, làn da tái nhợt của ngài... Cứ nghĩ tới việc chiếc mặt nạ của ngài có thể dùng để che giấu những chiếc nanh nhọn trong miệng mà xem... Thế nên. Càng quan sát ngài, tôi lại càng thấy ngài kỳ quặc... Nhưng xem ra tôi đã nhầm rồi, vậy nên tôi phải xin lỗi ngài thôi."
 
 Chà, tôi hoàn toàn bị thuyết phục rồi. Nive nói đúng hết. Tất cả mọi điều! Cô ta thực sự đã bỏ công điều tra kỹ lưỡng và nhắm thẳng vào tôi. Giờ thì tôi đã hiểu vì sao cô ta lại mang danh hiệu Thợ Săn Ma Cà Rồng.
 

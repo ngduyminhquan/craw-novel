@@ -110,9 +110,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 103 |  | Chapter_103 - Vol 4 Chapter 3 - The Stheno Trading Company (2).txt | Vol 4 Chapter 3 - The Stheno Trading Company (2) | reviewed |  |
 | 104 |  | Chapter_104 - Vol 4 Chapter 3 - The Stheno Trading Company (3).txt | Vol 4 Chapter 3 - The Stheno Trading Company (3) | reviewed |  |
 | 105 |  | Chapter_105 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1) | reviewed |  |
-| 106 |  | Chapter_106 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2) | done |  |
-| 107 |  | Chapter_107 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3) | done |  |
-| 108 |  | Chapter_108 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4) | done |  |
+| 106 |  | Chapter_106 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2) | reviewed |  |
+| 107 |  | Chapter_107 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3) | reviewed |  |
+| 108 |  | Chapter_108 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4) | reviewed |  |
 | 109 |  | Chapter_109 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5) | todo |  |
 | 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | todo |  |
 | 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | todo |  |
@@ -592,3 +592,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#107] Dịch tiêu đề chương 'Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3)' — tạm chọn 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (3)' (đồng bộ format với #105 và #106; phương án khác: 'Chương đệm Tập 4 - Nữ Tư Tế Thánh Myullias Raiza (3)'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (3)'. → Giữ 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (3)' đồng bộ với #105-#106. (orchestrator)
 - [#108] Dịch 'Noxious Swamp-Bird' — tạm chọn 'Chim Đầm Lầy Độc' (phương án khác: 'Độc Điểu Đầm Lầy') → Giữ 'Chim Đầm Lầy Độc'. (orchestrator)
 - [#108] Dịch 'Tarasque’s Poison Gem' — tạm chọn 'Độc Ngọc Tarasque' (phương án khác: 'Ngọc Độc Tarasque') → Giữ 'Độc Ngọc Tarasque'. (orchestrator)
+- [#108] Dịch thành ngữ 'to say the least' → Sửa thành 'nói một cách nhẹ nhàng nhất thì' và thêm quy tắc vào rules.md. (orchestrator)

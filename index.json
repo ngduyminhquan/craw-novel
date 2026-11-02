@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T18:25:31Z",
+  "generatedAt": "2026-11-02T18:34:31Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2788,19 +2788,19 @@
           "number": 106,
           "title": "Chương 106: Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_106.md",
-          "sha": "af57b923b93a55610780a2cfa241c95694478402"
+          "sha": "12d5dd8947db2d8ea1b26bff575b9f57dd683c26"
         },
         {
           "number": 107,
           "title": "Chương 107: Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_107.md",
-          "sha": "3052e2c9e0e4f1b6a791b158cb28e86e8f31a76a"
+          "sha": "f6751316c88e9c87df602a42cfee12fdb5224453"
         },
         {
           "number": 108,
           "title": "Chương 108: Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_108.md",
-          "sha": "9cd7e5c0b5d9001feedb34ee1b1d0ffda427c1c4"
+          "sha": "837bd4bf2de0e9d2482b5f103f1805c0aa6eb682"
         }
       ]
     },

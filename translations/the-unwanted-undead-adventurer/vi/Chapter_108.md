@@ -8,7 +8,7 @@ Trong thoáng chốc, tôi không khỏi tự hỏi bản thân: chủ đề đ�
 
 Vụ mua bán này vốn kèm theo rất nhiều điều kiện và điều khoản bổ sung. Tôi tự hỏi không biết tất cả sẽ bán được bao nhiêu tiền.
 
-Dạo gần đây xuất hiện bao nhiêu thứ muốn có, khiến tôi thấy mình thèm tiền đến cồn cào. Tiền bạc thì chẳng bao giờ là thừa cả. Chẳng hạn như bộ trang bị có thể rèn từ số Ma Thiết nhuốm ma lực Rồng Đất, hay một chiếc túi ma thuật có dung tích lớn hơn cái tôi đang dùng hiện tại...
+Dạo gần đây xuất hiện bao nhiêu thứ muốn có, khiến tôi thấy mình thèm tiền đến cồn cào. Tiền bạc thì chẳng bao giờ là thừa cả. Chẳng hạn như bộ trang bị có thể rèn từ số Ma Thiết nhuốm Ma Lực Rồng Đất, hay một chiếc túi ma thuật có dung tích lớn hơn cái tôi đang dùng hiện tại...
 
 "Hóa ra cô thực sự muốn mua những món đó sao? Thật bất ngờ đấy."
 
@@ -24,7 +24,7 @@ Nhưng thứ độc đó lại chẳng hề có chút tác dụng nào đối v�
 
 Dẫu vậy, trạng thái hiện tại của tôi gần như vượt ra ngoài mọi hình thức phân loại. Rốt cuộc, Lorraine và tôi cũng chỉ có thể đưa ra kết luận hợp lý nhất dựa trên những dữ liệu mình nắm giữ. Đó là lý do ban đầu tôi được xếp vào một dạng Ma Cà Rồng. Có lẽ chúng tôi cũng chẳng còn cách nào khác để tiếp tục đào sâu nghiên cứu này...
 
-Trước hết, chúng tôi luôn có thể thỉnh cầu ơn huệ từ các vị thần linh, nhưng nói giảm nói tránh thì điều đó cũng vô cùng nan giải trên nhiều phương diện. Mang thân thể này mà bước chân vào bất kỳ thánh đường nào thì cũng cần phải có một lòng dũng cảm nhất định. Không phải là hiện giờ tôi có được sự dũng cảm đó, nhưng tôi cho rằng sớm muộn gì mình cũng phải đi một chuyến thôi...
+Trước hết, chúng tôi luôn có thể thỉnh cầu ơn huệ từ các vị thần linh, nhưng nói một cách nhẹ nhàng nhất thì điều đó cũng vô cùng nan giải trên nhiều phương diện. Mang thân thể này mà bước chân vào bất kỳ thánh đường nào thì cũng cần phải có một lòng dũng cảm nhất định. Không phải là hiện giờ tôi có được sự dũng cảm đó, nhưng tôi cho rằng sớm muộn gì mình cũng phải đi một chuyến thôi...
 
 Mà thôi, chuyện đó tạm gác lại. Giờ có muốn cũng chẳng làm được gì, vả lại đây cũng chẳng phải điều tôi nên bận tâm vào lúc này.
 
@@ -32,7 +32,7 @@ Quan trọng hơn là: giá trị của các bộ phận Tarasque.
 
 "Đối với một mạo hiểm giả như Tiểu thư Nive, chắc hẳn việc săn một hay hai con Tarasque cũng chẳng phải vấn đề gì to tát chứ."
 
-Số nguyên liệu đó đắt đỏ thật, nhưng ắt hẳn sẽ chẳng đáng là bao nếu một người sở hữu thực lực mạnh mẽ như Nive. Điều đó đổi lại có thể làm giảm giá trị nhìn nhận về số nguyên liệu, thế nên câu hỏi của tôi một phần cũng xuất phát từ nỗi lo lắng ấy.
+Số nguyên liệu đó đắt đỏ thật, nhưng ắt hẳn sẽ chẳng đáng là bao đối với một người sở hữu thực lực mạnh mẽ như Nive. Điều đó đổi lại có thể làm giảm giá trị nhìn nhận về số nguyên liệu, thế nên câu hỏi của tôi một phần cũng xuất phát từ nỗi lo lắng ấy.
 
 Thế nhưng Nive...
 
@@ -54,7 +54,7 @@ Dẫu vậy...
 
 Tôi đã cẩn thận không để lộ thêm bất kỳ manh mối nào ngoài mức cần thiết, nhưng chẳng hiểu sao Nive đã có thể nắm bắt được ngần ấy thứ. Myullias trông cũng có vẻ ngạc nhiên.
 
-"Thế nhưng nét mặt và phong thái của ngài đâu có mảy may biến chuyển gì đâu....."
+"Thế nhưng nét mặt và phong thái của ngài đâu có mảy may biến chuyển gì đâu..."
 
 Đó là phân tích tình hình của Myullias. Nhưng vô ích thôi. Nive đã moi được thông tin cô cần rồi... Tôi vẫn còn non nớt lắm.
 

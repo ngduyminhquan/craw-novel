@@ -49,3 +49,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#78) Thành ngữ "a walk in the park": dịch là "chuyện dạo chơi nhẹ nhàng", "chuyện dễ dàng" (tránh dịch thô từng chữ thành "đi dạo chơi ngoài công viên").
 - (#89) Cụm từ đệm "you see" trong độc thoại tự sự ngôi thứ nhất: dịch là "thực ra thì", "vốn dĩ" hoặc "nói cho cùng" (tránh dịch máy thành "anh thấy đấy").
 - (#102) Thành ngữ "stand out like a sore thumb": dịch là "đập ngay vào mắt", "lạc lõng/chướng mắt thấy rõ" (tránh dịch thô từng chữ thành "như một ngón tay cái sưng vù").
+- (#108) Thành ngữ "to say the least": dịch là "nói một cách nhẹ nhàng nhất thì" hoặc "ít nhất cũng phải nói là" (tránh dịch sai thành "nói giảm nói tránh").

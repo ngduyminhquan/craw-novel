@@ -14,7 +14,7 @@ Nói cách khác, tôi đoán chừng Sharl không thể nhìn thấy nó. Thậ
 
 Trong lúc tôi vẫn đang băn khoăn về những điều đó, Nive đã bận rộn giảng giải cặn kẽ cho Sharl nghe. Tiến lại gần tôi, Myullias khẽ nghiêng người, thì thầm nhỏ nhẹ bên tai tôi.
 
-"Thưa ngài Rentt. Thánh Hỏa là Thần Lực được ngưng tụ thành hình thái cụ thể. Những ai chưa từng được Thần Lực ban phước thì không thể nào cảm nhận được nó. Đương nhiên, người ta hoàn toàn có thể khiến Thần Lực hiển hiện rõ ràng, nhưng nếu không cố ý làm vậy thì mắt thường thường sẽ không thể nhìn thấy. Vì lẽ đó, trong mắt ngài Sharl, ngài chẳng khác nào đang tự dưng nhảy múa tại chỗ mà chẳng vì bất cứ lý do gì. Ít nhất thì cảnh tượng đập vào mắt ông ấy là như thế."
+"Thưa ngài Rentt. Thánh Hỏa là Thần Lực được ngưng tụ thành hình thái cụ thể. Những ai chưa từng được Thần Lực ban phước thì không thể nào cảm nhận được nó. Đương nhiên, người ta hoàn toàn có thể khiến Thần Lực hiển hiện rõ ràng, nhưng nếu không cố ý làm vậy thì mắt thường sẽ không thể nhìn thấy. Vì lẽ đó, trong mắt ngài Sharl, ngài chẳng khác nào đang tự dưng nhảy múa tại chỗ mà chẳng vì bất cứ lý do gì. Ít nhất thì cảnh tượng đập vào mắt ông ấy là như thế."
 
 Một sự miêu tả diễn biến tình huống thật đáng kinh ngạc. Đáng kinh ngạc ở cái đoạn bảo tôi tự dưng nhảy múa mà chẳng vì lý do gì ấy.
 
