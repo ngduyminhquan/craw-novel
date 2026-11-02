@@ -74,7 +74,7 @@ Nghĩ lại mà xem, đó quả thực là một điều hết sức đáng sợ
 
 Lorraine nhìn Alize với vẻ thoáng lo lắng. Cô buông hai tay Alize ra, làm gián đoạn dòng chảy Ma Lực. Hơi thở của Alize lập tức trở nên dồn dập đứt quãng, và cô bé nhanh chóng ngã quỵ xuống đầu gối.
 
-Đó không hẳn là cảm giác đau đớn, nhưng dứt khoát chẳng phải chuyện dễ như đi dạo chơi ngoài công viên. Để Ma Lực của người khác chảy qua cơ thể không đến mức gây mất mạng, song cũng chẳng phải điều gì tốt đẹp cho cam. Tiếp xúc trong thời gian dài có thể gây tổn hại tới cơ thể.
+Đó không hẳn là cảm giác đau đớn, nhưng dứt khoát chẳng phải chuyện dạo chơi nhẹ nhàng. Để Ma Lực của người khác chảy qua cơ thể không đến mức gây mất mạng, song cũng chẳng phải điều gì tốt đẹp cho cam. Tiếp xúc trong thời gian dài có thể gây tổn hại tới cơ thể.
 
 Vốn dĩ quá trình này phải mất nhiều ngày, được lặp đi lặp lại nhiều lần sau khi học trò đã nghỉ ngơi đầy đủ. Thế nhưng Alize lại có thể cảm nhận được Ma Lực trong cơ thể gần như ngay lập tức. Đúng như lời Lorraine nói, cô bé thực sự sở hữu thiên phú hơn người.
 
@@ -152,7 +152,7 @@ Những nỗ lực trước đó của Alize chẳng khác nào hai ba lượt c
 
 Người ta có thể cho rằng như thế là hơi quá mức đối với ngày học đầu tiên của con bé, nhưng có lẽ đây lại là điều tốt nhất. Những chế độ nghiêm ngặt nhất nên được áp dụng ngay từ thuở ban đầu. Thật không ngờ Alize lại chạm tới gần giới hạn thể chất của mình đến thế chỉ bằng việc học ma thuật... Cô bé chắc chắn sẽ trở thành một mạo hiểm giả xuất sắc trong tương lai.
 
-Dẫu các ma pháp sư thường có thể lực và sức bền kém hơn những người anh em đồng nghiệp mạo hiểm giả, song Alize sẽ phải sở hữu mức thể lực cao hơn hẳn một thị dân bình thường để có thể sinh tồn. Ngay cả Lorraine, người có nghề nghiệp chính là học giả và chỉ nhận ủy thác từ Hội khi có hứng, cũng là một kẻ đáng gờm. Chẳng hạn, cô ta sẽ chẳng bao giờ chịu thua mấy gã du côn vu vơ ngoài đường trong trò vật tay cả. Rốt cuộc thì các mạo hiểm giả luôn bị buộc phải thực hiện những công việc lao động chân tay và kỳ tích thể chất một cách thường xuyên, hoặc chí ít là dần dà cũng sẽ đủ khả năng làm được những việc ấy. Các phương thức dẫn tới điều này rất đa dạng. Có thể là qua rèn luyện khổ cực, hoặc có thể chỉ là nhờ nguồn sức mạnh hấp thụ từ chính những kẻ thù mà họ đã tiêu diệt.
+Dẫu các ma pháp sư thường có thể lực và sức bền kém hơn những người anh em đồng nghiệp mạo hiểm giả, song Alize sẽ phải sở hữu mức thể lực cao hơn hẳn một thị dân bình thường để có thể sinh tồn. Ngay cả Lorraine, người có nghề nghiệp chính là học giả và chỉ nhận ủy thác từ Hội khi có hứng, cũng là một nhân vật đáng gờm. Chẳng hạn, cô sẽ chẳng bao giờ chịu thua mấy gã du côn vu vơ ngoài đường trong trò vật tay cả. Rốt cuộc thì các mạo hiểm giả luôn bị buộc phải thực hiện những công việc lao động chân tay và kỳ tích thể chất một cách thường xuyên, hoặc chí ít là dần dà cũng sẽ đủ khả năng làm được những việc ấy. Các phương thức dẫn tới điều này rất đa dạng. Có thể là qua rèn luyện khổ cực, hoặc có thể chỉ là nhờ nguồn sức mạnh hấp thụ từ chính những kẻ thù mà họ đã tiêu diệt.
 
 "Em... hoàn toàn... ổn ạ. Cho tới khi em có thể làm được điều mà... anh Rentt... Điều mà anh Rentt... đã làm... em sẽ tiếp tục... cố gắng..."
 
@@ -162,7 +162,7 @@ Quả là một nghị lực đáng ngưỡng mộ đối với một đứa tr�
 
 Lorraine quay sang Alize, nỗi lo âu hiện rõ trong giọng nói của cô.
 
-"Tôi không phiền đâu, phải... nhưng em thực sự không nên gượng ép bản thân đâu, Alize à. Rõ ràng là Rentt đang khiêu khích em. Dẫu anh ta có vẻ như đang đùa giỡn, nhưng quá trình rèn luyện mà anh ta từng trải qua để làm được đúng điều đó lại chẳng khác nào địa ngục trần gian cả. Đó là cách anh ta khích lệ em đấy, Alize à, để bảo em hãy nỗ lực hết mình dẫu bản thân đã thấm mệt."
+"Tôi không phiền đâu, phải... nhưng em thực sự không nên gượng ép bản thân đâu, Alize à. Rõ ràng là Rentt đang khiêu khích em. Dẫu anh ấy có vẻ như đang đùa giỡn, nhưng quá trình rèn luyện mà anh ấy từng trải qua để làm được đúng điều đó lại chẳng khác nào địa ngục trần gian cả. Đó là cách anh ấy khích lệ em đấy, Alize à, để bảo em hãy nỗ lực hết mình dẫu bản thân đã thấm mệt."
 
 Thật là nói nhảm! Tôi đâu có ý định như thế...
 
@@ -200,7 +200,7 @@ Vấn đề nằm ở yêu cầu của Lorraine, cụ thể là câu thần chú
 
 Ma thuật là thứ càng trở nên mang tính bản năng khi người ta càng quen thuộc với nó. Những câu thần chú dài dần biến thành ngắn, rồi theo thời gian, một ma pháp quen thuộc thậm chí chẳng cần bất kỳ câu niệm chú nào nữa. Suốt khoảng một thập kỷ ròng, tôi đã thi triển ba ma pháp đơn giản này lặp đi lặp lại không biết bao nhiêu lần. Thành thử, tôi hầu như chẳng cần tới câu chú nào để gọi ra những ma pháp ấy thêm lần nữa. Đó là lý do vì sao tôi chỉ còn nhớ được đôi chút về những câu thần chú mình từng dùng thuở còn sống...
 
-Khoan đã... Chẳng lẽ Lorraine yêu cầu tôi làm việc này là vì cô ta thừa biết chuyện này sẽ xảy ra sao? Hự...
+Khoan đã... Chẳng lẽ Lorraine yêu cầu tôi làm việc này là vì cô thừa biết chuyện này sẽ xảy ra sao? Hự...
 
 "Hừm... À. 'Hỡi ngọn lửa. Hãy để Ma Lực của ta hóa thành nguồn nuôi dưỡng, và hiển hiện trước mắt ta... Ignite Aryumage.'"
 
@@ -228,7 +228,7 @@ Chẳng hề có chút ác ý nào trong lời nói của cô bé. Giữa Alize 
 
 Chà... nói thế cũng không hoàn toàn đúng. Rõ ràng là tôi trẻ con hơn rồi. Tôi thừa biết điều đó mà.
 
-Lorraine nhanh chóng tiếp lời câu chuyện. "Dĩ nhiên là em làm được rồi, Alize. Có rất nhiều mẹo và bí quyết cơ bản mà em có thể áp dụng... Đương nhiên hỏi Rentt thì tốt hơn nhiều. Dù sao đi nữa thì anh ta cũng là một tay kỳ cựu khi nói đến ma thuật cấp độ nhập môn."
+Lorraine nhanh chóng tiếp lời câu chuyện. "Dĩ nhiên là em làm được rồi, Alize. Có rất nhiều mẹo và bí quyết cơ bản mà em có thể áp dụng... Đương nhiên hỏi Rentt thì tốt hơn nhiều. Dù sao đi nữa thì anh ấy cũng là một tay kỳ cựu khi nói đến ma thuật cấp độ nhập môn."
 
 Độ thuần thục một loại ma thuật cụ thể sẽ ảnh hưởng trực tiếp tới tốc độ thi triển cùng uy lực của ma pháp ấy. Nhờ khổ luyện đúng ba ma pháp đó suốt hơn một thập kỷ, tôi có thể tự tin khẳng định độ thuần thục của mình đối với chúng thậm chí có thể sánh ngang với cả Lorraine.
 

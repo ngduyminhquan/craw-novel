@@ -43,3 +43,7 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#57) Thành ngữ "count one's chickens before they hatch": dịch là "tính chuyện chưa đâu vào đâu", "tính cua trong lỗ" (tránh dịch sai thành "chưa đỗ ông nghè đã đe hàng tổng").
 - (#34) Đơn vị tiền đồng ("bronze coin" / "bronze piece"): dịch là "đồng xu đồng" (tránh dịch lặp âm thành "đồng đồng").
 - (#64) Cụm từ "my past life" của Rentt: dịch là "thời còn sống" hoặc "quãng đời trước đây" (tránh dịch là "kiếp trước" gây nhầm sang chuyển sinh).
+- (#76) Thành ngữ "a means to an end": dịch là "cách thức/phương tiện để đạt mục đích" hoặc "cái cớ" theo ngữ cảnh (tránh dịch sai thành "biện pháp tạm thời").
+- (#77) Ngôi thứ ba khi Lorraine nói với Alize về Rentt: dùng "anh ấy" (thay vì "anh ta") để giữ sắc thái hòa nhã, đúng mối quan hệ thầy trò và đồng đội bảo hộ.
+- (#77) Độc thoại nội tâm tự trách mình của Rentt (dạng "what were you even doing?"): dùng "mày" hoặc "mình" (ví dụ "Rentt Faina ơi, rốt cuộc hồi đó mày đang làm cái trò gì vậy hả?"), không dùng "anh".
+- (#78) Thành ngữ "a walk in the park": dịch là "chuyện dạo chơi nhẹ nhàng", "chuyện dễ dàng" (tránh dịch thô từng chữ thành "đi dạo chơi ngoài công viên").

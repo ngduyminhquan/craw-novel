@@ -108,7 +108,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Swamp of Tarasque |  | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
 | monster tamer | monster tamers | người thuần hóa quái vật | chức nghiệp | 13 | Người sở hữu ma pháp chi phối tâm trí để thuần hóa và điều khiển quái vật (魔物使い) |
-| familiar | familiars | quyến thuộc | khác | 50 | Sinh vật bị chi phối hoặc tạo ra từ máu của Ma Cà Rồng/Thi Quỷ (眷属) |
+| familiar | familiars | quyến thuộc | khác | 50 | Sinh vật bị chi phối hoặc tạo ra từ máu của Ma Cà Rồng/Thi Quỷ (眷属). Từ đa nghĩa: khi dùng dạng tính từ ("familiar knocking sound", "familiar spell") dịch là "quen thuộc" |
 | Goblin General | Goblin Generals | Đại Tướng Goblin | quái vật | 51 | Phân loài Goblin cấp chỉ huy có khả năng thống lĩnh bầy đàn |
 | Goblin King | Goblin Kings | Vua Goblin | quái vật | 51 | Quái vật cấp vua thống trị bộ tộc Goblin |
 | Sea Snake | Sea Snakes | Rắn Biển | quái vật | 52 | Quái vật dạng rắn bơi trong vùng nước đầm lầy, mang nọc độc chết người |
@@ -148,3 +148,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Livelihood Magecraft |  | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
 | Magician of Beginnings |  | Pháp Sư Khởi Đầu | danh hiệu | 77 | Nhân vật huyền thoại đầu tiên tự phát hiện và vận dụng Ma Lực mà không cần trợ giúp (始まりの魔術師) |
 | Ignite Aryumage |  | Ignite Aryumage | kỹ năng | 78 | Thần chú thi triển ngọn lửa nhỏ của Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
+| cantrip | cantrips | ma pháp vặt | kỹ năng | 77 | Ma pháp sơ cấp yếu ớt của Ma Thuật Sinh Hoạt |

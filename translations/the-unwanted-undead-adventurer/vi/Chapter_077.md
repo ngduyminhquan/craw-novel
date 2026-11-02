@@ -4,13 +4,13 @@ Giờ đây tôi đã có thể thi triển ma thuật, có lẽ đã đạt t�
 
 Về phần mình, Lorraine nhanh chóng nhận tôi làm học trò, dù cô có bảo tôi phải đóng học phí gấp đôi.
 
-Gấp đôi cơ đấy! Đã vậy cô ta còn thốt ra câu đó mà chẳng hề do dự lấy nửa giây!
+Gấp đôi cơ đấy! Đã vậy cô còn thốt ra câu đó mà chẳng hề do dự lấy nửa giây!
 
 Ý của Lorraine chỉ là tôi phải trả phần tiền tương ứng của mình, chứ không hẳn là bắt tôi nộp gấp đôi mức giá thông thường. Xét việc cô dạy kèm cho cả tôi lẫn Alize thì mức phí này cũng chẳng đến nỗi vô lý. Chỉ là tôi từng tự hỏi liệu mình có xứng đáng được giảm giá chút đỉnh không, khi mà từ trước đến nay toàn bộ việc nhà trong cái gia đình này đều do một tay tôi gánh vác.
 
 Cơ mà một kẻ ăn nhờ ở đậu như tôi thì chắc cũng chẳng có tư cách nói mấy lời đó...
 
-Trước hết, xét một cách thực tế thì chỉ có hai con đường để theo học ma thuật: hoặc là bái một ma pháp sư nổi tiếng làm sư phụ, hoặc là ghi danh vào một học viện ma thuật. Cả hai lựa chọn ấy đều tiêu tốn tới hàng chục đồng tiền vàng—một con số chẳng hề nhỏ chút nào. So với mức ấy thì học phí của Lorraine lại rẻ đến mức như làm từ thiện—có khi còn hơi quá rẻ nữa là đằng khác.
+Trước hết, xét một cách thực tế thì chỉ có hai con đường để theo học ma thuật: hoặc là bái một ma pháp sư nổi tiếng làm sư phụ, hoặc là ghi danh vào một học viện ma thuật. Cả hai lựa chọn ấy đều tiêu tốn tới hàng chục đồng xu vàng—một con số chẳng hề nhỏ chút nào. So với mức ấy thì học phí của Lorraine lại rẻ đến mức như làm từ thiện—có khi còn hơi quá rẻ nữa là đằng khác.
 
 Dù sao đi nữa, tôi có thể tự tin khẳng định rằng Lorraine đã giảm giá kha khá cho chúng tôi rồi... Và thế là, tôi cùng Alize ngồi trước mặt Lorraine để lắng nghe bài giảng đầu tiên của cô. Tiện thể nhắc tới thì giáo trình này còn có hẳn một cái tên: "Bài Giảng Ma Thuật Đầu Tiên ~Giải Mã Ma Thuật! Đến Cả Goblin Cũng Hiểu Được~". Cái tựa đề ấy là do chính Lorraine tự nghĩ ra đấy.
 
@@ -72,7 +72,7 @@ Tôi chưa từng một lần đặt chân vào bất kỳ cơ sở giáo dục 
 
 Alize có vẻ không tin cho lắm. Lorraine bèn chen vào, vừa nói vừa gật đầu.
 
-"Em thấy đấy, Alize thân mến... Rentt là kiểu người việc gì làm được thì làm. Còn nếu việc gì anh ta không làm được, thì anh ta hoàn toàn bó tay với nó. Dĩ nhiên bây giờ anh ta khá có năng lực và thành thạo ở nhiều lĩnh vực... Nhưng dẫu vậy, anh ta vẫn có những mặt yếu kém của mình. Em hiểu chứ, Alize? Tất nhiên là mạo hiểm giả thường sẽ che giấu những điểm thiếu sót của mình khi hành nghề... Bản chất mọi chuyện vốn là như vậy mà."
+"Em thấy đấy, Alize thân mến... Rentt là kiểu người việc gì làm được thì làm. Còn nếu việc gì anh ấy không làm được, thì anh ấy hoàn toàn bó tay với nó. Dĩ nhiên bây giờ anh ấy khá có năng lực và thành thạo ở nhiều lĩnh vực... Nhưng dẫu vậy, anh ấy vẫn có những mặt yếu kém của mình. Em hiểu chứ, Alize? Tất nhiên là mạo hiểm giả thường sẽ che giấu những điểm thiếu sót của mình khi hành nghề... Bản chất mọi chuyện vốn là như vậy mà."
 
 Alize chậm rãi gật đầu, dường như vẫn còn chút hoài nghi. Quay sang phía Lorraine, Alize tiếp tục hỏi.
 
@@ -192,7 +192,7 @@ Nghĩ lại thì suốt ngần ấy năm qua tôi chưa từng nghe thấy bất
 
 Hoặc giả, có lẽ kẻ tồi tệ ở đây lại chính là tôi chăng...?
 
-Nghĩ lại những hành động của mình, quả thực tôi đã quá đỗi liều lĩnh: Rentt Faina ơi, rốt cuộc hồi đó anh đang làm cái trò gì vậy hả?
+Nghĩ lại những hành động của mình, quả thực tôi đã quá đỗi liều lĩnh: Rentt Faina ơi, rốt cuộc hồi đó mày đang làm cái trò gì vậy hả?
 
 Giờ đây tôi dĩ nhiên đã là một Undead, vậy mà tôi vẫn chẳng thể hiểu nổi hồi đó mình đang làm cái quái gì nữa.
 

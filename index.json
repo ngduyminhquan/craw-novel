@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T14:17:58Z",
+  "generatedAt": "2026-11-02T14:27:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2608,19 +2608,19 @@
           "number": 76,
           "title": "Chương 76: Tập 3 Chương 3 - Tiến Hóa Bản Thể Mới (7)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_076.md",
-          "sha": "1fe208f66bc59a723b6b4b30fefff8ad897f9a0c"
+          "sha": "a25bc6a8cccd749c7099d73d2f0e84e2e6e2a546"
         },
         {
           "number": 77,
           "title": "Chương 77: Tập 3 Chương 4 - Ma Thuật (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_077.md",
-          "sha": "857e9717dae19beb6aba48aea9f29e926ed50a19"
+          "sha": "94a61ad5b82b5c87439e34c787f66643638e0d45"
         },
         {
           "number": 78,
           "title": "Chương 78: Tập 3 Chương 4 - Ma Thuật (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_078.md",
-          "sha": "a483ba3a47afb31167e9e0f1d52927c9aa78d5d5"
+          "sha": "7b0d4a19d2d1aeba992682dba7ff75c28a3c3f05"
         }
       ]
     },

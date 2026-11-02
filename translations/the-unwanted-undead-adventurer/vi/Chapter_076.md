@@ -42,7 +42,7 @@ Vẻ bàng hoàng hiện rõ mồn một trên gương mặt Sơ Lillian. Như s
 
 Tôi liền đưa ra lời giải thích của riêng mình.
 
-"Chẳng qua chỉ là biện pháp tạm thời thôi, thưa Sơ Lillian. Trước hết, tôi cũng không biết liệu mình có thể vượt qua Đầm Lầy Tarasque mà lành lặn trở về hay không. Chúng tôi cảm thấy tốt nhất không nên khiến sơ hy vọng quá nhiều trước khi tôi bình an trở lại và phương thuốc được bào chế xong xuôi. Alize không muốn sơ phải bận lòng."
+"Chẳng qua đó chỉ là cái cớ để đạt được mục đích thôi, thưa Sơ Lillian. Trước hết, tôi cũng không biết liệu mình có thể vượt qua Đầm Lầy Tarasque mà lành lặn trở về hay không. Chúng tôi cảm thấy tốt nhất không nên khiến sơ hy vọng quá nhiều trước khi tôi bình an trở lại và phương thuốc được bào chế xong xuôi. Alize không muốn sơ phải bận lòng."
 
 Nói đúng hơn thì đó là lập luận của Alize chứ không hẳn là của tôi. Tôi cảm thấy không cần thiết phải kể lại những gì đã diễn ra trước khi mình nhận ủy thác. Đưa ra ủy thác ở Hội thì cũng tốt thôi, nhưng luôn có nguy cơ chẳng ai chịu ra tay giúp đỡ, và khả năng thất bại thường trực dẫu có mạo hiểm giả nhận lời. Alize đã nhận định rằng sẽ thật vô nghĩa nếu gieo hy vọng cho vị sơ nhân từ trước khi tìm ra giải pháp cụ thể, và giải pháp cụ thể ấy chính là tôi. Tôi đã nhận lời ủy thác của em, và theo đuổi nó cho tới tận cùng.
 
@@ -156,7 +156,7 @@ Lorraine nói không sai—chiếc phi thuyền có ý nghĩa rất lớn đối
 
 Chắc chắn là đổi chủ đề rồi, và chủ đề đang được nói đến không gì khác ngoài việc Alize trở thành mạo hiểm giả.
 
-"Tôi nghĩ chắc sẽ ổn thôi. Cứ thử xét đến việc lựa chọn nghề nghiệp của một đứa trẻ mồ côi vốn khá hạn hẹp xem. Nếu chăm chỉ và đủ thông minh, chúng có thể trở thành tu sĩ hoặc nữ tu tại một điện thờ nào đó. Tuy nhiên, phần lớn những đứa trẻ ở đây sẽ phải tự mình bươn chải kiếm việc làm. Alize vẫn còn nhỏ tuổi, nhưng con bé sẽ đến tuổi trưởng thành sau hai, hoặc có lẽ ba năm nữa, rồi em cũng sẽ rơi vào hoàn cảnh tương tự thôi. Chúng ta chỉ đơn thuần là đang đẩy nhanh tiến trình ấy lên."
+"Tôi nghĩ chắc sẽ ổn thôi. Cứ thử xét đến việc lựa chọn nghề nghiệp của một đứa trẻ mồ côi vốn khá hạn hẹp xem. Nếu chăm chỉ và đủ thông minh, chúng có thể trở thành tu sĩ hoặc nữ tu tại một điện thờ nào đó. Tuy nhiên, phần lớn những đứa trẻ ở đây sẽ phải tự mình bươn chải kiếm việc làm. Alize vẫn còn nhỏ tuổi, nhưng con bé sẽ đến tuổi trưởng thành sau hai, hoặc có lẽ ba năm nữa, rồi con bé cũng sẽ rơi vào hoàn cảnh tương tự thôi. Chúng ta chỉ đơn thuần là đang đẩy nhanh tiến trình ấy lên."
 
 Nét mặt Lorraine thoáng hiện vẻ xót xa, một phản ứng dễ hiểu trước thực tế phũ phàng đang chờ đón phần lớn những đứa trẻ mồ côi trước mắt chúng tôi.
 
@@ -192,7 +192,7 @@ Tôi liền tiếp lời ngay sau cô.
 
 Chẳng hiểu sao, tôi cảm thấy mình cần phải có được một lời xác nhận chắc chắn từ Alize thì mới có thể yên lòng.
 
-"Vậy thì, các học trò của tôi. Một câu hỏi hết sức cơ bản, một trong những nền tảng của ma thuật... Hai người có biết cần phải có thứ gì để dệt nên một phép thuật không?" Lorraine cất tiếng hỏi, tay cầm một thanh que chỉ bằng gỗ và thi thoảng lại gõ cộc cộc lên chiếc bảng lớn phẳng phiu gắn ở phía sau lưng cô.
+"Vậy thì, các học trò của tôi. Một câu hỏi hết sức cơ bản, một trong những nền tảng của ma thuật... Hai người có biết cần phải có thứ gì để đan dệt nên một ma pháp không?" Lorraine cất tiếng hỏi, tay cầm một thanh que chỉ bằng gỗ và thi thoảng lại gõ cộc cộc lên chiếc bảng lớn phẳng phiu gắn ở phía sau lưng cô.
 
 Đương nhiên lúc này chúng tôi đang ở trong phòng khách nhà Lorraine. Và khi nói "các học trò", Lorraine đang ám chỉ không ai khác ngoài bản thân tôi, Rentt Faina, cùng Alize đang ngồi ngay bên cạnh tôi.
 
