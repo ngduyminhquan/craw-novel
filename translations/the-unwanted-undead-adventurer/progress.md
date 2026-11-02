@@ -139,7 +139,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | reviewed |  |
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | done |  |
 | 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | done |  |
-| 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | todo |  |
+| 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | done |  |
 | 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | todo |  |
 | 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | todo |  |
 | 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | todo |  |
@@ -680,3 +680,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#134] Dịch tên vị thánh 'Saint Alto' và ngày lễ 'Saint Alto’s Day' — tạm chọn 'Thánh Alto' và 'Ngày Thánh Alto' (phương án khác: 'Lễ Thánh Alto', 'Thánh Giả Alto'). → Giữ 'Thánh Alto' và 'Ngày Thánh Alto' (orchestrator)
 - [#134] Dịch tên lễ hội truyền thống 'Nameless Festival' của Làng Hathara — tạm chọn 'Lễ Hội Vô Danh' (phương án khác: 'Ngày Hội Không Tên', 'Lễ Hội Không Tên'). → Giữ 'Lễ Hội Vô Danh' (orchestrator)
 - [#134] Xưng hô giữa Rentt và cha mẹ nuôi (Ingo Faina & Gilda Faina) — tạm chọn Rentt xưng 'con' gọi 'cha / mẹ', Ingo xưng 'ta' gọi 'con / Rentt', Gilda xưng 'mẹ' gọi 'con / Rentt' (phương án khác: Rentt xưng 'tôi' gọi 'ông / bà' hoặc 'bác'). → Giữ Rentt xưng 'con' gọi 'cha / mẹ', Ingo xưng 'cha / ta' gọi 'con / Rentt', Gilda xưng 'mẹ' gọi 'con / Rentt' (orchestrator)
+- [#135] Dịch tên loài quái vật 'grand fum wyvern' (đoạn 55, 56) — tạm chọn 'Phi Long Grand Fum' (giữ phiên âm 'Grand Fum' và dịch 'wyvern' thành 'Phi Long' theo glossary; phương án khác: 'Đại Phi Long Fum', 'Phi Long Khổng Lồ Fum'). Tạm dùng trong bản dịch: 'Phi Long Grand Fum'. → Giữ 'Phi Long Grand Fum' (orchestrator)
+- [#135] Dịch tên phân loài 'zeva wyverns' (đoạn 56) — tạm chọn 'Phi Long Zeva' (giữ phiên âm 'Zeva' và dịch 'wyvern' thành 'Phi Long'; phương án khác: 'phân loài Zeva', 'loài rồng Zeva'). Tạm dùng trong bản dịch: 'Phi Long Zeva'. → Giữ 'Phi Long Zeva' (orchestrator)
+- [#135] Cách gọi thân mật 'Ren' mà Fahri dùng cho Rentt Faina (đoạn 14, 40, 44) — tạm chọn dịch là 'anh Ren' (phương án khác: chuẩn hóa thành 'anh Rentt'). Tạm dùng trong bản dịch: 'anh Ren'. → Giữ 'anh Ren' (orchestrator)

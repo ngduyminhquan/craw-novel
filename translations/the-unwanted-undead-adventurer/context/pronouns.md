@@ -197,3 +197,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ingo Faina | Rentt Faina | cha / ta | con / Rentt | 134 | Cha nuôi kiêm Trưởng làng đón tiếp con nuôi trở về |
 | Ingo Faina | Lorraine Vivie | tôi / ta | cô / cháu | 134 | Trưởng làng tiếp đón khách của con nuôi |
 | Lorraine Vivie | Ingo Faina | tôi / cháu | bác / Trưởng Làng | 134 | Học giả chào hỏi cha nuôi của Rentt |
+| Lorraine Vivie | Riri | tôi | em / Riri / cô bé | 135 | Học giả nói chuyện với thiếu nữ trong làng |
+| Riri | Lorraine Vivie | em | chị / chị Lorraine | 135 | Thiếu nữ trong làng nói chuyện với người quen của Rentt |
+| Lorraine Vivie | Fahri | tôi | em / Fahri / cô bé | 135 | Học giả nói chuyện với thiếu nữ trong làng |
+| Fahri | Lorraine Vivie | em | chị / chị Lorraine | 135 | Thiếu nữ trong làng nói chuyện với người quen của Rentt |
+| Riri | Fahri | tớ / mình | cậu / Fahri | 135 | Bạn thân cùng tuổi cùng làng |
+| Fahri | Riri | tớ / mình | cậu / Riri | 135 | Bạn thân cùng tuổi cùng làng |

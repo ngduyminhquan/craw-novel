@@ -180,7 +180,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mana iron | mana iron; Mana Iron; mana-iron | Ma Thiết | vật phẩm | 96 | Loại kim loại chứa ma lực, cứng hơn sắt thường và dẫn ma lực tốt (魔鉄) |
 | Terra Drake | Terra Drakes; the Terra Drake | Terra Drake | quái vật | 97 | Phân loài Á Long thuộc tính thổ sống dưới lòng đất (地亜竜/テラ・ドレイク) |
 | Drake | the Drake | Drake | quái vật | 97 | Tên gọi tắt hoặc chủng quái vật Á Long nói chung (ドレイク) |
-| Lesser Dragon | Lesser Dragons | Á Long | quái vật | 97 | Chủng quái vật rồng bậc thấp / phân loài rồng (亜竜/下位竜族) |
+| Lesser Dragon | Lesser Dragons; Demidragon; demidragons; demidragon | Á Long | quái vật | 97 | Chủng quái vật rồng bậc thấp / phân loài rồng (亜竜/下位竜族) |
 | elemental magic | Elemental magic; Elemental Magic | ma pháp nguyên tố | kỹ năng | 97 | Ma pháp cổ xưa vận dụng hiện tượng tự nhiên trực quan (元素魔術/精霊魔法) |
 | Earth Dragon | Earth Dragons; the Earth Dragon | Rồng Đất | quái vật | 98 | Phân loài rồng khổng lồ thuộc tính thổ sống dưới lòng đất (地竜) |
 | Undead Sight |  | Thị Giác Undead | kỹ năng | 98 | Năng lực thị giác quan sát sinh vật sống trong bóng tối của Undead |
@@ -253,3 +253,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gettamba | gettamba | Gettamba | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ bọ ngựa non Curtis Mant chiên giòn |
 | Saint Alto |  | Thánh Alto | danh hiệu | 134 | Vị thánh trong Ngày Thánh Alto (Saint Alto's Day), ngày lễ tình nhân tặng kẹo mật ong |
 | Nameless Festival |  | Lễ Hội Vô Danh | khác | 134 | Lễ hội truyền thống cổ xưa của Làng Hathara dành cho các cặp đôi bên bờ hồ |
+| Grand Fum Wyvern | grand fum wyvern; Grand Fum Wyverns; grand fum wyverns | Phi Long Grand Fum | quái vật | 135 | Loài Phi Long khổng lồ dài 10 mét sống ở đỉnh núi tuyết (グランドファムワイバーン) |
+| Zeva Wyvern | zeva wyverns; Zeva Wyverns; zeva wyvern | Phi Long Zeva | quái vật | 135 | Phân loài Phi Long bay yếu nhất trong các loài Á Long (ゼヴァワイバーン) |
+| Projection magic | projection magic; projection spell; projection spells | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |

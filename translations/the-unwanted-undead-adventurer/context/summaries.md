@@ -793,6 +793,14 @@ Trên đường vào làng, Rentt giới thiệu với Lorraine về vườn th�
 Gặp lại cha mẹ nuôi, Rentt được hai người đón tiếp nồng hậu và lầm tưởng Lorraine là con dâu, trong khi Lorraine thản nhiên liệt kê danh sách các bóng hồng quen biết của anh ở Maalt trước khi cha mẹ đi báo tin tổ chức tiệc chào mừng.
 Ở lại riêng cùng Lorraine, Rentt xúc động tiết lộ bản thân là con nuôi mồ côi cha mẹ ruột từ năm 5 tuổi do ma vật tấn công; vì sợ bật khóc trước mặt cô nên anh nhờ Lorraine trông nhà rồi ra ngoài đi dạo để trấn tĩnh lại.
 
+## 135
+Ngồi lại một mình trong nhà trưởng làng, Lorraine suy ngẫm về tình cảm đặc biệt và sự gắn kết dựa dẫm của bản thân dành cho Rentt, đồng thời hiểu thêm về quá khứ mồ côi cùng tính cách chu đáo của anh qua những nỗ lực bảo bọc tân binh ở Maalt.
+Hai cô bạn thuở nhỏ của Rentt là Riri (tóc nâu buộc hai bên, năng động) và Fahri (tóc đen ngắn, ngái ngủ) ghé thăm tìm Rentt nhưng bắt gặp Lorraine; cả hai kinh ngạc trước vẻ quyến rũ của cô và tò mò hỏi han về cuộc sống thành phố lớn.
+Vì không muốn tùy tiện cho người lạ vào nhà lúc chủ đi vắng, Lorraine đồng ý ngồi trò chuyện cùng hai cô bé trên hàng ghế gỗ ngoài sân trước nhà.
+Lorraine khéo léo né tránh việc nhắc đến thứ hạng Đồng Cấp của Rentt để giữ thể diện cho bạn, thay vào đó ca ngợi uy tín và sự che chở của anh đối với các mạo hiểm giả tân binh.
+Để thỏa mãn sự tò mò của hai cô bé về ma vật mê cung, Lorraine dùng ma pháp ảo ảnh trình chiếu một Khô Lâu Khổng Lồ ba chiều sống động và trực tiếp chạm tay xuyên qua để chứng minh tính an toàn khiến Riri và Fahri thở phào nhẹ nhõm.
+
+
 
 
 

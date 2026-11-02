@@ -60,6 +60,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dol |  | Dol | Thanh niên thấp bé làng Hathara canh gác cổng làng | #134 |
 | Riri |  | Riri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 | Fahri |  | Fahri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
+| Ren |  | Ren | Tên gọi thân mật Fahri dùng để gọi Rentt Faina | #135 |
 
 ## Chi tiết
 
@@ -450,11 +451,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #134.
 
 ### Riri
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi.
-- Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ.
-- Xuất hiện từ: #134 (được nhắc tên).
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc nâu buộc hai bên, đôi mắt tinh anh mạnh dạn, giọng nói dõng dạc trong trẻo.
+- Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ; tò mò về cuộc sống và mạo hiểm giả ở Maalt.
+- Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
 
 ### Fahri
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi.
-- Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ.
-- Xuất hiện từ: #134 (được nhắc tên).
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc màu lam đen ngắn chấm tai, đôi mắt mơ màng ngái ngủ dịu dàng, giọng ngọt ngào êm dịu, tính tình vô tư, bộc trực.
+- Quan hệ: Được Rentt xem như em gái nhỏ; hay gọi Rentt là Ren; tò mò về Lorraine và thành phố Maalt.
+- Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
+
+### Ren
+- Xem Rentt Faina (cách gọi thân mật của Fahri).
