@@ -77,7 +77,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Forest Orc | Forest Orcs | Orc Rừng | quái vật | 30 | Phân loài Orc sinh sống theo bầy đàn trong rừng |
 | Labyrinth Orc | Labyrinth Orcs | Orc Mê Cung | quái vật | 30 | Phân loài Orc sinh sống đơn độc trong mê cung |
 | Shield | Shield spell | Khiên Chắn | kỹ năng | 26 | Ma pháp phòng ngự tạo ra lớp khiên ma lực bảo vệ bản thân (シールド) |
-| Maalt-Hoonoki | Maalt Hoonoki | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |
+| Maalt-Hoonoki | Maalt Hoonoki; Maaltan magnolia | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |
 | Grand Slime | Grand Slimes | Đại Slime | quái vật | 36 | Phân loài Slime khổng lồ thường làm quái vật thủ lĩnh các tầng nông hoặc quái thường tầng sâu |
 | Grand Prox | Grand! Prox!! | GRAND! PROX!! | kỹ năng | 36 | Ma pháp hỏa hệ cấp cao của Laura Satii (câu chú giữ nguyên) |
 | Breeze |  | Breeze | kỹ năng | 37 | Ma pháp phong hệ cơ bản tạo luồng gió nhẹ của Laura Satii (câu chú giữ nguyên) |
@@ -236,3 +236,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Hell |  | Địa Ngục | địa danh | 123 | Cõi địa ngục trong truyền thuyết nơi ác ma cư ngụ |
 | grand guildmaster | Grand Guildmaster | Tổng Hội Trưởng | chức nghiệp | 125 | Người đứng đầu toàn bộ Hội Mạo Hiểm Giả của Vương Quốc Yaaran (総ギルドマスター) |
 | Grand Goblin | grand goblins | Đại Goblin | quái vật | 126 | Phân loài Goblin tiến hóa bậc cao |
+| Monster Cooking: How to Make Low-Quality Parts Taste Good | Monster Cooking | Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon | vật phẩm | 128 | Cuốn sách dạy nấu ăn từ thịt ma vật Lorraine mua ở chợ |

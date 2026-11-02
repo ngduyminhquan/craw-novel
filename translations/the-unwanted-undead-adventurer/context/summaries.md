@@ -750,4 +750,10 @@ Rentt giao nộp tập hồ sơ sai phạm của Hội Maalt do Edel và cánh t
 Wolf đề xuất Rentt gia nhập làm nhân viên Hội Mạo Hiểm Giả để hợp thức hóa hai danh tính, được hưởng mạng lưới thông tin, mua sắm giảm giá và tự do phiêu lưu thăng hạng Mithril Cấp với khối lượng công việc tối thiểu.
 Sau khi Rentt đồng ý, Wolf gặng hỏi về chiếc mặt nạ không thể tháo rời và thử dùng sức kéo mạnh nhưng không lay chuyển; ông nghi ngờ nguồn gốc nguyền cụ lọt vào thị trấn và Rentt rời đi trong sự êm đẹp.
 
+## 128
+Rentt mời Sheila về nhà Lorraine ăn tối để thông báo kết quả làm việc với Hội Trưởng Wolf; Sheila chủ động chia sẻ máu hòa vào bữa ăn để đỡ đần cho Lorraine khiến Rentt cảm kích.
+Cả ba cùng thảo luận về giải pháp làm nhân viên Hội để hợp thức hóa hai danh tính; Sheila ngạc nhiên vì điều lệ cũ đã ngủ quên hàng thập kỷ nay được Wolf nhanh chóng vận dụng, củng cố nhận định của Lorraine rằng Hội Trưởng từ lâu đã mưu tính lôi kéo Rentt.
+Trước khi đi ngủ, Rentt kể lại việc Wolf từng đùa chuyện kết hôn với Lorraine để đổi họ khiến cô phun cả rượu vang, rồi một mình ngẫm nghĩ bồn chồn về chuyện hôn nhân.
+Hôm sau, Rentt và Lorraine đi chợ mua sắm chuẩn bị hành trang về quê; tại quầy ma cụ phế phẩm, Rentt tình cờ chạm tay vào cùng một món đồ với một cô gái tóc vàng và nhận ra đó chính là Rina Rupaage sau khi biến đổi mặt nạ đầu lâu.
+
 

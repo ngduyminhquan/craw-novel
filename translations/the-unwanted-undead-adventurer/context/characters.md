@@ -79,6 +79,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 125: Đến gặp Hội Trưởng Wolf Hermann tại Hội Mạo Hiểm Giả Maalt; được Wolf vạch trần thân phận Rentt Faina và thấu hiểu ước mơ chung về việc vươn tới Mithril Cấp; đồng ý tin tưởng và chuẩn bị giãi bày hoàn cảnh dưới sự bảo đảm của khế ước ràng buộc ma pháp.
 - Trạng thái tính đến chương 126: Ký khế ước ràng buộc ma pháp với Wolf Hermann; tự rạch tay phô diễn khả năng tái sinh vết thương tức thì; kể lại việc bị Rồng nuốt chửng tại Mê Cung Nguyệt Ảnh (giữ kín lối đi bí mật) và quá trình Tiến Hóa Bản Thể từ Khô Lâu đến Ma Cà Rồng; tiết lộ việc Lorraine chia sẻ máu và Nive Maris phán định anh không phải Ma Cà Rồng.
 - Trạng thái tính đến chương 127: Chia sẻ việc Nive dùng Thánh Hỏa kiểm tra bản thân vô tội; giao nộp tập hồ sơ sai phạm của Hội Maalt do Edel và cánh tình báo thu thập; đồng ý gia nhập làm nhân viên Hội Mạo Hiểm Giả để hợp thức hóa việc đăng ký hai lần và hưởng các đặc quyền thông tin, mua sắm ưu đãi; để Wolf thử dùng sức kéo chiếc mặt nạ nguyền rủa nhưng không lay chuyển; đàm phán thành công và chuẩn bị nhận thẻ nhân viên.
+- Trạng thái tính đến chương 128: Kể cho Sheila và Lorraine nghe về thỏa thuận với Wolf; được cả Sheila lẫn Lorraine chia sẻ máu cho bữa ăn; trêu Lorraine về đề xuất kết hôn của Wolf; cùng Lorraine đi chợ mua nhu yếu phẩm chuẩn bị về quê và tình cờ tái ngộ Rina Rupaage tại quầy ma cụ phế phẩm sau khi đổi mặt nạ đầu lâu.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -87,6 +88,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Được Rentt cứu thoát khỏi nanh vuốt Khô Lâu, xem Rentt là tiền bối đáng kính (Mister Rentt).
 - Trạng thái tính đến chương 24: Được tiết lộ tên thật là Rina Rogue, xuất thân từ gia đình hiệp sĩ/quý tộc danh giá, bỏ nhà đi làm mạo hiểm giả; có anh trai là Idoles Rogue thuộc Đệ Nhất Kỵ Sĩ Đoàn đang đến Maalt tìm kiếm.
 - Trạng thái tính đến chương 93: Tiết lộ việc trốn nhà đi do bị cha mẹ ép hôn; được anh trai Idoles Rogue bí mật dẫn đi trải nghiệm mặt tối xã hội và truyền dạy kiếm thuật; bẩm sinh sở hữu lượng Ma Lực và Khí Lực dồi dào; sau khi được Rentt chỉ dạy bí quyết sinh tồn đã nỗ lực tập huấn, tích lũy thực lực qua các ủy thác đơn và gia nhập một tổ đội gồm hai mạo hiểm giả Đồng Cấp.
+- Trạng thái tính đến chương 128: Tình cờ gặp lại Rentt tại quầy ma cụ phế phẩm ở chợ Maalt; suýt không nhận ra anh do chiếc mặt nạ mới, nhưng lập tức nhận ra tiền bối khi Rentt đổi mặt nạ về hình đầu lâu quen thuộc.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -121,6 +123,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
 - Trạng thái tính đến chương 61: Hốt hoảng kéo Rentt vào phòng tiếp khách cơ mật để cảnh báo về tầm ảnh hưởng của gia tộc Latuule và áp lực của Hội đối với ủy thác định kỳ do Isaac Hart gửi tới; lo lắng cho bí mật thân phận quái vật của Rentt nhưng hứa sẽ dốc toàn lực giúp đỡ anh.
 - Trạng thái tính đến chương 79: Gặp lại Rentt sau khi anh tiến hóa thành Hạ Cấp Ma Cà Rồng; ngỡ ngàng trước giọng nói trôi chảy cùng làn da nhẵn mịn phục hồi như xưa; đồng ý tiếp tục quản lý hồ sơ dưới danh tính Rentt Vivie; thông báo xác Tarasque chưa bán được và dẫn anh tới phòng mổ xẻ.
+- Trạng thái tính đến chương 128: Đến nhà Lorraine dùng bữa tối cùng Rentt; chủ động hiến máu của mình hòa vào thức ăn cho Rentt để san sẻ gánh nặng sức khỏe cho Lorraine; giải thích điều lệ nội bộ cũ về việc nhân viên Hội được giữ danh tính mạo hiểm giả để khảo sát thông tin.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
