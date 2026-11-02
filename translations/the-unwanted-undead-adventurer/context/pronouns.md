@@ -38,6 +38,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lady Emilstead | Phu nhân Emilstead / phu nhân / bà | 86 | Nữ quý tộc giàu có ở Maalt |
 | Sweetpea | Sweetpea / con chuột / chú chuột | 86 | Chuột Puchi Suri thú cưng của Phu nhân Emilstead |
 | Zant Currin | Zant Currin / vị thân chủ / người đàn ông | 87 | Cư dân thị trấn Maalt, thân chủ ủy thác dọn dẹp nhà cửa |
+| Sharl Stheno | Sharl / người đàn ông / vị thương nhân | 103 | Chủ Thương hội Stheno |
 
 ## Giữa các nhân vật
 
@@ -138,3 +139,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lady Emilstead | Lorraine Vivie | tôi | cô / các vị | 86 | Thân chủ tiếp đón học giả và mạo hiểm giả |
 | Rentt Faina | Zant Currin | tôi | ông | 87 | Mạo hiểm giả tiếp nhận ủy thác dọn dẹp nhà cửa |
 | Zant Currin | Rentt Faina | tôi | cậu / Rentt | 87 | Thân chủ hài lòng khen ngợi mạo hiểm giả hoàn thành xuất sắc công việc |
+| Rentt Faina | Sharl Stheno | tôi | ngài / ông | 103 | Mạo hiểm giả nói chuyện với chủ thương hội lớn |
+| Sharl Stheno | Rentt Faina | tôi | ngài Rentt | 103 | Chủ thương hội lớn lịch thiệp, tôn trọng mạo hiểm giả săn được Tarasque |

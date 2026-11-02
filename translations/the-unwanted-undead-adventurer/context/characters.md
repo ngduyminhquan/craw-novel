@@ -44,6 +44,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lady Emilstead | Emilstead | Phu nhân Emilstead | Nữ quý tộc giàu có ở Maalt, chủ nhân của chuột Sweetpea | #86 |
 | Sweetpea |  | Sweetpea | Chuột Puchi Suri thú cưng của Phu nhân Emilstead | #86 |
 | Zant Currin |  | Zant Currin | Cư dân thị trấn Maalt, thân chủ đưa ra ủy thác dọn dẹp nhà cửa | #87 |
+| Sharl Stheno | Sharl | Sharl Stheno | Người đứng đầu Thương hội Stheno tại thị trấn Maalt | #103 |
 
 ## Chi tiết
 
@@ -309,3 +310,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Hài lòng, niềm nở, xưng "tôi", gọi Rentt là "cậu / Rentt".
 - Quan hệ: Khách hàng thuê Rentt làm việc nhà dọn dẹp nơi ở.
 - Xuất hiện từ: #87.
+
+### Sharl Stheno
+- Giới tính, thân phận: Nam, người đứng đầu (chủ thương hội) Thương hội Stheno tại Maalt. Vóc dáng to lớn, bụng phệ, trang phục sặc sỡ đúng chất thương nhân giàu có.
+- Tính cách, đặc điểm: Khôn khéo, lịch thiệp, nhã nhặn, biết cách nhún nhường và bồi thường đúng lúc trước đối tác; rất nhạy bén trong việc thu thập tin tức và thăm dò lai lịch người khác.
+- Cách nói chuyện: Lịch sự, nhã nhặn, chuẩn mực thương nhân, xưng "tôi", gọi Rentt là "ngài Rentt" (Sir Rentt).
+- Quan hệ: Đứng ra làm trung gian thu xếp cuộc gặp giữa Rentt và vị khách mua xác Tarasque.
+- Xuất hiện từ: #103.

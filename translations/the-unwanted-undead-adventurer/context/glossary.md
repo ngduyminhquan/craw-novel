@@ -186,7 +186,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Undead Sight |  | Thị Giác Undead | kỹ năng | 98 | Năng lực thị giác quan sát sinh vật sống trong bóng tối của Undead |
 | Ogre | Ogres | Ogre | quái vật | 99 | Chủng quái vật khổng lồ hung tợn trong fantasy (オーガ) |
 | Good King Felt | Good King | Hiền Vương Felt | khác | 99 | Vị vua trong truyền thuyết dẫn dắt thần dân xây dựng thành phố trong lòng mê cung |
-| Empire of Rermutt | Rermutt; Remrutt; the Empire of Rermutt | Đế Quốc Rermutt | địa danh | 99 | Đế quốc rộng lớn nằm ở phía tây, quê hương của Lorraine Vivie (レルムット帝国) |
+| Empire of Rermutt | Rermutt; Remrutt; the Empire of Rermutt; Remrutt Empire; the Remrutt Empire | Đế Quốc Rermutt | địa danh | 99 | Đế quốc rộng lớn nằm ở phía tây, quê hương của Lorraine Vivie (レルムット帝国) |
 | Rermutt First University | Rermutt’s First University | Đệ Nhất Đại Học Rermutt | tổ chức | 99 | Viện đại học danh tiếng hàng đầu của Đế Quốc Rermutt, trường cũ của Lorraine Vivie |
 | Blacksmith’s Guild | Blacksmith's Guild; Blacksmiths Guild | Hội Thợ Rèn | tổ chức | 100 | Hiệp hội quản lý các thợ rèn và sản xuất vũ khí kim loại |
 | Flood | Floods; flood; floods | Lũ Tràn | khác | 91 | Hiện tượng quái vật trong mê cung bùng phát tràn ra bên ngoài (quái triều / monster flood) |
@@ -195,3 +195,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | magical tool | magical tools; magic tool; magic tools | ma cụ | vật phẩm | 1 | Dụng cụ, công cụ ma thuật được tạo tác bằng thuật giả kim hoặc yểm ma lực (魔道具) |
 | wand | wands | đũa phép | vật phẩm | 100 | Dụng cụ dẫn ma pháp dạng que ngắn làm từ gỗ quái vật và Ma Tinh (杖/ワンド) |
 | Witta Trading Company | the Witta Trading Company; Witta | Thương hội Witta | tổ chức | 102 | Thương hội lâu đời tại Maalt chuyên cung cấp nhu yếu phẩm cho mạo hiểm giả (ヴィッタ商会) |
+| Mechanical City of Aavan | Aavan | Thành Phố Cơ Giới Aavan | địa danh | 103 | Đô thị công nghiệp cơ khí và ma thuật thuộc Đế Quốc Rermutt (機械都市アーヴァン) |

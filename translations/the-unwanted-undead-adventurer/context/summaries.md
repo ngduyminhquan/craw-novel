@@ -600,6 +600,13 @@ Giữa dòng khách tấp nập, anh bối rối vì chiếc mặt nạ đầu l
 Để lấp liếm thắc mắc của nhân viên về lần ghé thăm trước, Rentt viện cớ từng muốn mua lá Hoonoki Maalt và được biết mặt hàng này chỉ có độc quyền tại Thương hội Witta.
 Được đưa lên phòng tiếp khách sang trọng trên tầng năm thưởng thức trà đen cùng bánh ngọt, Rentt bất ngờ nghe tiếng gõ cửa lớn vang lên và cẩn trọng mời người vào.
 
+## 103
+Người đứng đầu Thương hội Stheno—Sharl Stheno—xuất hiện, cúi đầu tạ lỗi vì cách mời đường đột và hứa hẹn nhiều ưu đãi, bồi thường cho Rentt Vivie vì đã mang tới xác Tarasque bán được giá cao gấp nhiều lần dự tính.
+Dù cảnh giác trước sự hào phóng bất thường, Rentt vẫn cởi mở trò chuyện và dò hỏi về những lời đồn đại chung quanh mình: người đời đồn anh là kẻ đáng sợ, hành tung vượt xa mạo hiểm giả Đồng Cấp thông thường, chiến đấu chuẩn xác và toát ra khí tức kiên định phi nhân loại.
+Trước câu hỏi dò của Sharl về nơi sinh ra, Rentt khéo léo dùng thông tin do Lorraine chuẩn bị từ trước để tự nhận mình là trẻ mồ côi lớn lên tại Thành Phố Cơ Giới Aavan thuộc Đế Quốc Rermutt.
+Chương kết thúc khi Sharl tỏ vẻ tin tưởng câu chuyện lai lịch và thông báo vị khách quan trọng hẹn gặp Rentt sắp sửa bước vào phòng.
+
+
 
 
 
