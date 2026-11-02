@@ -457,4 +457,11 @@ Trong giờ học, Rentt và Alize hăng hái tranh nhau trả lời về vai tr
 Alize lo lắng khi chưa thể tự cảm nhận Ma Lực; Lorraine phân tích các phương pháp khai mở gồm nhờ người truyền dẫn, hấp thu khi diệt quái, hay cách cực đoan là dùng thân mình hứng đòn ma thuật.
 Rentt kể lại trải nghiệm liều mạng thời trẻ từng dùng mặt hứng ma pháp Gie Vieros của Pháp Sư Goblin khiến Alize bàng hoàng cự tuyệt; Lorraine bắt đầu chuẩn bị truyền dẫn Ma Lực khai mở cho Alize.
 
+## 78
+Lorraine trực tiếp truyền dẫn Ma Lực qua tay giúp Alize cảm nhận và bước đầu lưu chuyển được luồng năng lượng như bùn lầy trong cơ thể dù phải kiệt sức thở dốc.
+Thấy Alize nản lòng trước chặng đường rèn luyện gian nan, Rentt biểu diễn tạo lửa và phóng nước từ hai bàn tay khiến cô bé hiểu nhầm là khiêu khích và quyết tâm vực dậy tiếp tục luyện tập.
+Trước sự nỗ lực kiên cường của Alize, Lorraine hướng dẫn về ba phương thức niệm chú và giao cho Rentt làm mẫu câu chú khai triển Ma Thuật Sinh Hoạt.
+Rentt thành công niệm câu chú Ignite Aryumage triệu hồi ngọn lửa nhỏ trên đầu ngón tay dù suýt quên lời; sau đó anh cùng Lorraine chỉ dẫn Alize cách tập trung Ma Lực và dùng trí tưởng tượng để chuẩn bị tự mình thi triển phép thuật đầu tiên.
+
+
 

@@ -82,7 +82,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | reviewed |  |
 | 76 |  | Chapter_076 - Vol 3 Chapter 3 - A New Existential Evolution (7).txt | Vol 3 Chapter 3 - A New Existential Evolution (7) | done |  |
 | 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | done |  |
-| 78 |  | Chapter_078 - Vol 3 Chapter 4 - Magecraft (2).txt | Vol 3 Chapter 4 - Magecraft (2) | todo |  |
+| 78 |  | Chapter_078 - Vol 3 Chapter 4 - Magecraft (2).txt | Vol 3 Chapter 4 - Magecraft (2) | done |  |
 | 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | todo |  |
 | 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | todo |  |
 | 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | todo |  |
@@ -519,3 +519,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#77] Dịch tên quái vật 'Goblin Mage' — tạm chọn 'Pháp Sư Goblin' (đồng bộ cấu trúc danh xưng với 'Cung Thủ Goblin', 'Đại Tướng Goblin'; phương án khác: 'Goblin Pháp Sư'). Tạm dùng trong bản dịch: 'Pháp Sư Goblin'. → Chốt 'Pháp Sư Goblin' (đồng bộ với Cung Thủ Goblin, Đại Tướng Goblin) (orchestrator)
 - [#77] Dịch thuật ngữ 'Livelihood Magecraft' — tạm chọn 'Ma Thuật Sinh Hoạt' (chuẩn Hán Việt ngắn gọn cho 生活魔術; phương án khác: 'Ma Thuật Đời Sống', 'Ma Thuật Tiện Ích'). Tạm dùng trong bản dịch: 'Ma Thuật Sinh Hoạt'. → Chốt 'Ma Thuật Sinh Hoạt' (chuẩn Hán Việt cho 生活魔術) (orchestrator)
 - [#77] Dịch danh xưng huyền thoại 'Magician of Beginnings' — tạm chọn 'Pháp Sư Khởi Đầu' (chuẩn xác cho 始まりの魔術師; phương án khác: 'Pháp Sư Khởi Nguyên', 'Ma Pháp Sư Khởi Đầu'). Tạm dùng trong bản dịch: 'Pháp Sư Khởi Đầu'. → Chốt 'Pháp Sư Khởi Đầu' (chuẩn cho 始まりの魔術師) (orchestrator)
+- [#78] Xử lý câu thần chú tạo lửa 'Ignite Aryumage' và từ 'grain' trong câu niệm ('Let my mana be as grain') — tạm chọn giữ nguyên tên chú 'Ignite Aryumage' theo rules.md và dịch 'grain' thoát nghĩa theo gốc tiếng Nhật (糧 - mồi/chất nuôi dưỡng) thành 'hóa thành nguồn nuôi dưỡng' (phương án khác: dịch 'hạt mầm' hoặc dịch sát chữ EN là 'hạt thóc'). Tạm dùng trong bản dịch: 'Hỡi ngọn lửa. Hãy để Ma Lực của ta hóa thành nguồn nuôi dưỡng, và hiển hiện trước mắt ta... Ignite Aryumage.' → Chốt giữ nguyên 'Ignite Aryumage' theo rules.md và dịch 'grain' thành 'nguồn nuôi dưỡng' (orchestrator)

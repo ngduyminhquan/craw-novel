@@ -147,3 +147,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Goblin Mage | Goblin Mages | Pháp Sư Goblin | quái vật | 77 | Phân loài Goblin có khả năng sử dụng ma thuật sơ cấp (ゴブリンメイジ) |
 | Livelihood Magecraft |  | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
 | Magician of Beginnings |  | Pháp Sư Khởi Đầu | danh hiệu | 77 | Nhân vật huyền thoại đầu tiên tự phát hiện và vận dụng Ma Lực mà không cần trợ giúp (始まりの魔術師) |
+| Ignite Aryumage |  | Ignite Aryumage | kỹ năng | 78 | Thần chú thi triển ngọn lửa nhỏ của Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
