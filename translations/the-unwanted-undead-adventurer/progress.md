@@ -101,7 +101,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | reviewed |  |
 | 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | reviewed |  |
 | 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | reviewed |  |
-| 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | todo |  |
+| 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | done |  |
 | 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | todo |  |
 | 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | todo |  |
 | 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | todo |  |
@@ -562,3 +562,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#96] Dịch kỹ năng 'Wind Blade' của Edel: tạm dùng 'Phong Đao' theo quy tắc Hán Việt trong rules.md (phương án khác: 'Lưỡi Đao Gió', 'Đao Gió'). → Giữ 'Phong Đao' theo quy tắc Hán Việt trong rules.md. (orchestrator)
 - [#96] Dịch chủng tộc 'Dwarf' / 'Dwarves': tạm dùng 'Người Lùn' (phương án khác: giữ nguyên 'Dwarf'). → Giữ 'Người Lùn'. (orchestrator)
 - [#96] Xưng hô giữa cô bé bí ẩn và Khô Lâu khoác áo choàng trong ảo ảnh → Tạm giữ nguyên 'ta - ngươi' vì chưa rõ danh tính và bối cảnh ảo ảnh cổ xưa, chờ lộ danh tính ở các chương sau. (orchestrator)
+- [#97] Dịch tên quái vật 'Terra Drake' và 'Drake' — tạm dùng 'Terra Drake' và 'Drake' theo quy tắc giữ nguyên tên quái vật fantasy tương tự Goblin, Orc, Lizardman (phương án khác: 'Địa Á Long' / 'Địa Long'). → Giữ nguyên 'Terra Drake' và 'Drake' theo quy tắc tên quái vật fantasy, giúp phân biệt rõ với 'Lesser Dragon' (Á Long). (orchestrator)
+- [#97] Dịch chủng rồng bậc thấp 'Lesser Dragon' — tạm dùng 'Á Long' theo chuẩn Hán Việt cho 亜竜 (phương án khác: 'Hạ Cấp Long', 'Rồng Bậc Thấp'). → Giữ 'Á Long'. (orchestrator)
+- [#97] Dịch thuật ngữ 'elemental magic' — tạm dùng 'ma pháp nguyên tố' (phương án khác: 'phép thuật nguyên tố', 'ma thuật nguyên tố'). → Giữ 'ma pháp nguyên tố'. (orchestrator)
+- [#97] Cảnh báo QA 'Iron-class' do cụm 'ironclad fact' — tạm giữ nguyên 'chân lý thép' trong bản dịch, đề xuất bỏ alias đơn từ 'Iron' khỏi mục 'Iron-class' trong glossary.md để tránh bắt nhầm. → Chấp nhận cảnh báo báo nhầm ở từ 'ironclad'; giữ nguyên alias 'Iron' của 'Iron-class' trong glossary.md để bắt các chỗ viết tắt cấp bậc. (orchestrator)

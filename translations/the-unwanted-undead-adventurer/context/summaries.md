@@ -564,6 +564,13 @@ Trên đường đi, Rentt chứng kiến ảo ảnh chập chờn kỳ bí củ
 Đi sâu vào trong, Rentt chạm trán một con Goblin Mỏ Quặng vạm vỡ cầm rìu hai tay; trong lúc giao tranh ác liệt, anh bị rìu chém sượt má và nhận ra vết thương nhẹ lập tức tự lành nhờ năng lực Ma Cà Rồng nhưng tiêu hao thể lực.
 Được Edel bất ngờ yểm trợ bằng ma pháp Phong Đao khiến con quái vật phân tâm quay lại, Rentt chớp thời cơ vung kiếm bổ vỡ sọ và chém đôi con Goblin Mỏ Quặng.
 
+## 97
+Mổ xẻ xác Goblin Mỏ Quặng thu được viên Ma Tinh chất lượng tốt cùng một chiếc tai phòng khi có ủy thác, Rentt tiếp tục tiến sâu vào các đường hầm tầng 4 và phát hiện cánh cổng dẫn vào phòng thủ lĩnh.
+Nhờ cơ thể Undead kháng độc tố từ chướng khí trong hầm và suy đoán căn phòng không thể bị khóa kín ở tầng nông, Rentt quyết định mở cửa bước vào và chạm trán một con Terra Drake (phân loài Á Long thuộc tính thổ) dài khoảng 4 mét.
+Con Terra Drake sử dụng ma pháp nguyên tố thổ tức thì tạo ra các tấm khiên đá gia cố bằng Ma Thiết quanh đầu và cổ để vô hiệu hóa đòn phủ đầu của Rentt, rồi dùng đuôi quất bay anh đập sầm vào vách đá.
+Dựa vào thân nhiệt nhìn trong làn bụi mù, Rentt bật tường nhảy lên đầu con quái vật chém vào cổ rồi trượt xuống chém toạc bụng dưới bằng Ma Khí Dung Hợp Thuật; sau khi né tránh loạt thổ thương phản kích điên cuồng, Rentt tung nhát chém quyết định chặt đứt đầu con Terra Drake.
+
+
 
 
 

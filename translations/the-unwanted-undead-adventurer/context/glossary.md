@@ -178,3 +178,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Dwarf | Dwarves | Người Lùn | chủng tộc | 96 | Chủng tộc người lùn tinh thông nghề rèn và chế tác |
 | Wind Blade |  | Phong Đao | kỹ năng | 96 | Ma pháp phong hệ bắn ra lưỡi đao gió |
 | Mana iron | mana iron; Mana Iron; mana-iron | Ma Thiết | vật phẩm | 96 | Loại kim loại chứa ma lực, cứng hơn sắt thường và dẫn ma lực tốt (魔鉄) |
+| Terra Drake | Terra Drakes; the Terra Drake | Terra Drake | quái vật | 97 | Phân loài Á Long thuộc tính thổ sống dưới lòng đất (地亜竜/テラ・ドレイク) |
+| Drake | the Drake | Drake | quái vật | 97 | Tên gọi tắt hoặc chủng quái vật Á Long nói chung (ドレイク) |
+| Lesser Dragon | Lesser Dragons | Á Long | quái vật | 97 | Chủng quái vật rồng bậc thấp / phân loài rồng (亜竜/下位竜族) |
+| elemental magic | Elemental magic; Elemental Magic | ma pháp nguyên tố | kỹ năng | 97 | Ma pháp cổ xưa vận dụng hiện tượng tự nhiên trực quan (元素魔術/精霊魔法) |
