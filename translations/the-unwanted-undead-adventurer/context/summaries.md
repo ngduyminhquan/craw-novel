@@ -774,5 +774,11 @@ Một cô bé lạ mặt bước ra từ cánh rừng với giọng điệu cổ
 Nhận thấy tro tàn tỏa ra Thần Lực khác thường, cô bé áp sát chất vấn rồi rút thẻ mạo hiểm giả Kim Cấp tự giới thiệu mình là Alhildis.
 Rentt và Lorraine kiểm tra tấm thẻ thật rồi nhận ra cô bé thực chất là một thành viên tộc Elf hiếm gặp, mang vóc dáng trẻ thơ nhưng phong thái như một bà lão sống lâu năm.
 
+## 132
+Alhildis đề nghị gọi tên tắt là Hilde, giải thích việc tiêu diệt Undead tại Làng Toraka bỏ hoang và chất vấn Rentt về việc thanh tẩy đống tro tàn.
+Nhận ra Rentt là người sử dụng Thần Lực nhưng không có đức tin, Hilde cảnh báo về nguy cơ bị các giáo hội tranh giành lôi kéo và đồng ý chỉ dạy cấp tốc kỹ thuật che giấu Thần Lực suốt đêm để đổi lấy số cỏ non mọc từ đống tro.
+Hilde hé lộ lượng Thần Lực khổng lồ áp đảo, xác nhận tính chuẩn xác của cuốn sách thần thuật mượn từ Laura, gửi lại thông tin liên lạc ở vương đô rồi cáo từ trước bình minh.
+Rentt và Lorraine đàm đạo về kinh nghiệm uyên bác của Hilde, cân nhắc ghé thăm vương đô khi có dịp, rồi cùng nhau đánh thức đoàn xe để tiếp tục hành trình về quê.
+
 
 

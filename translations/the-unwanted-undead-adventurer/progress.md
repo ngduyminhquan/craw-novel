@@ -136,7 +136,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | reviewed |  |
 | 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | done |  |
 | 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | done |  |
-| 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | todo |  |
+| 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | done |  |
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | todo |  |
 | 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | todo |  |
 | 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | todo |  |
@@ -671,3 +671,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#130] Dịch quái vật 'Curtis Mant' (đoạn 18): tạm chọn giữ nguyên 'Curtis Mant' theo rules.md cho tên quái vật fantasy (phương án khác: 'bọ ngựa Curtis'). Tạm dùng trong bản dịch: 'Curtis Mant'. → Giữ nguyên 'Curtis Mant' theo rules.md cho tên quái vật fantasy (orchestrator)
 - [#131] Dịch 'necromancy' — tạm chọn 'Tử Linh Thuật' (phương án khác: 'Thuật Chiêu Hồn', 'Chiêu Hồn Thuật') → Giữ 'Tử Linh Thuật' (orchestrator)
 - [#131] Xưng hô của Alhildis — cô bé Elf Kim Cấp phong thái bà lão nói giọng cổ xưa: tạm chọn Alhildis tự xưng 'ta', gọi người khác là 'ngươi / các ngươi', Lorraine và Rentt xưng 'tôi / chúng tôi' gọi 'cô' (phương án khác: Rentt/Lorraine gọi 'bà' hoặc 'tiền bối') → Giữ Alhildis tự xưng 'ta', gọi người khác là 'ngươi / các ngươi'; Lorraine và Rentt xưng 'tôi / chúng tôi' gọi 'cô' (orchestrator)
+- [#132] Dịch địa danh 'village of Toraka' / 'Toraka' — tạm chọn 'Làng Toraka' và thêm vào glossary.md (phương án khác: 'làng Toraka', giữ nguyên 'Toraka'). Tạm dùng trong bản dịch: 'Làng Toraka'. → Giữ 'Làng Toraka' (orchestrator)
+- [#132] Biệt danh / tên gọi tắt 'Hilde' và 'Hildi' của Alhildis — tạm thêm dòng riêng trong characters.md (EN: 'Hilde', Alias: 'Hildi', VI: 'Hilde') để khớp với các đoạn thoại và tự sự trong raw (phương án khác: đưa 'Hilde; Hildi' vào cột Alias của Alhildis). Tạm dùng trong bản dịch: 'Hilde'. → Giữ dòng riêng cho 'Hilde' (Alias: 'Hildi', VI: 'Hilde') trong characters.md (orchestrator)
+- [#132] Dịch chủng loại 'plant spirit' — tạm chọn 'tinh linh thực vật' và thêm vào glossary.md (phương án khác: 'tinh linh cây cỏ', 'thực vật tinh linh'). Tạm dùng trong bản dịch: 'tinh linh thực vật'. → Giữ 'tinh linh thực vật' (orchestrator)

@@ -53,6 +53,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Saint Myullias |  | Thánh Nữ Myullias | Cách gọi kèm danh hiệu của Myullias Raiza | #117 |
 | Wolf Hermann | Wolf; Guildmaster Wolf; Hermann | Wolf Hermann | Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả | #125 |
 | Alhildis |  | Alhildis | Nữ mạo hiểm giả Kim Cấp chủng tộc Elf, bậc thầy Thần Thuật mang ngoại hình bé gái nhưng tính cách bà lão | #131 |
+| Hilde | Hildi | Hilde | Tên gọi tắt / thân mật của Alhildis, mạo hiểm giả Kim Cấp tộc Elf | #132 |
 
 ## Chi tiết
 
@@ -410,4 +411,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp, bậc thầy về Thần Thuật (sử dụng Thần Lực).
 - Cách nói chuyện: Dùng từ ngữ cổ kính thời xưa, trầm tĩnh nhưng khi phát hiện nghi vấn thì dồn dập chất vấn.
 - Quan hệ: Mạo hiểm giả Kim Cấp tình cờ chạm trán Rentt và Lorraine tại khu rừng trên đường về quê.
+- Trạng thái tính đến chương 132: Đề nghị Rentt và Lorraine gọi bằng tên ngắn gọn là Hilde hoặc Hildi; tiết lộ nhiệm vụ thanh trừng Undead tại Làng Toraka; phát hiện Thần Lực trong người Rentt và cảnh báo anh về sự tranh giành của các tổ chức tôn giáo; nhận định Rentt được tinh linh thực vật ban phúc; đổi việc dạy cấp tốc kỹ thuật che giấu Thần Lực lấy đám cỏ non mọc trên tro tàn; xác thực độ chuẩn xác của cuốn sách thần thuật của Laura; để lại số đăng ký Hội cùng thông tin liên lạc tại vương đô rồi rời đi trước bình minh.
 - Xuất hiện từ: #131.
