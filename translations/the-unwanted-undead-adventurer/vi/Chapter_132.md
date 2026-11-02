@@ -38,7 +38,7 @@ Với những người đang say giấc trong cỗ xe thì có lẽ đó lại l
 
 "Nhưng ngoài lũ Zombie tầm thường này ra thì còn ma vật nào khác không? Cô vừa nhắc đến con trùm nào đó thì phải," Lorraine hỏi.
 
-"À, có đấy," Hilde trả lời. "Một con Zombie Binh, nhưng chỉ có đúng một con thôi. Ta nghĩ khi còn sống nó vốn là thợ săn trong làng. Ngươi biết đấy, lũ Undead vẫn giữ lại được những năng lực thời còn sống mà. Con đó bắn cung khá cừ, nhưng cũng chẳng phải mối đe dọa gì ghê gớm. Đó là toàn bộ những gì ta có thể chia sẻ. Còn hai ngươi thì sao?"
+"À, có đấy," Hilde trả lời. "Một con Lính Zombie, nhưng chỉ có đúng một con thôi. Ta nghĩ khi còn sống nó vốn là thợ săn trong làng. Ngươi biết đấy, lũ Undead vẫn giữ lại được những năng lực thời còn sống mà. Con đó bắn cung khá cừ, nhưng cũng chẳng phải mối đe dọa gì ghê gớm. Đó là toàn bộ những gì ta có thể chia sẻ. Còn hai ngươi thì sao?"
 
 "Chúng tôi không đi làm ủy thác hay gì cả," tôi nói. "Chỉ đang trên đường về quê của tôi thôi."
 

@@ -247,7 +247,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | divine arts | divine art | thần thuật | kỹ năng | 131 | Nghệ thuật vận dụng Thần Lực để trị liệu và thanh tẩy tà khí (神術) |
 | Toraka | village of Toraka | Làng Toraka | địa danh | 132 | Ngôi làng từng bị hủy diệt trong vùng cách đây 40 năm do thảm họa undead (トラカ村) |
 | plant spirit | plant spirits | tinh linh thực vật | chủng tộc | 132 | Tinh linh của loài thực vật cây cỏ (植物精霊) |
-| Zombie Soldier | zombie soldier; Zombie Soldiers; zombie soldiers | Zombie Binh | quái vật | 132 | Phân loài Zombie trang bị vũ khí, giữ lại kỹ năng chiến đấu thời còn sống |
+| Zombie Soldier | zombie soldier; Zombie Soldiers; zombie soldiers | Lính Zombie | quái vật | 132 | Phân loài Zombie trang bị vũ khí, giữ lại kỹ năng chiến đấu thời còn sống |
 | Winter Frog | winter frogs; winter frog; Winter frog | ếch mùa đông | quái vật | 133 | Loài ếch lớn sinh sống ở vùng hoang dã, trứng có thể chế biến thành món ăn |
 | Solest | solest | Solest | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ trứng ếch mùa đông |
 | Gettamba | gettamba | Gettamba | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ bọ ngựa non Curtis Mant chiên giòn |
