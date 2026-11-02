@@ -121,7 +121,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 114 |  | Chapter_114 - Vol 4 Side Story - The Princess-Saint of Healing (3).txt | Vol 4 Side Story - The Princess-Saint of Healing (3) | reviewed |  |
 | 115 |  | Chapter_115 - Vol 5 Chapter 1 - Off to Adventure (1).txt | Vol 5 Chapter 1 - Off to Adventure (1) | done |  |
 | 116 |  | Chapter_116 - Vol 5 Chapter 1 - Off to Adventure (2).txt | Vol 5 Chapter 1 - Off to Adventure (2) | done |  |
-| 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | todo |  |
+| 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | done |  |
 | 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | todo |  |
 | 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | todo |  |
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -611,3 +612,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#116] Dịch tên truyện cổ tích 'The Westbound Traveler' / 'Westbound Traveler' — tạm chọn 'Người Lữ Hành Hướng Tây' (phương án khác: 'Kẻ Lữ Hành Hướng Tây', 'Người Du Hành Về Tây'). Tạm dùng trong bản dịch: 'Người Lữ Hành Hướng Tây'. → Giữ 'Người Lữ Hành Hướng Tây' trong glossary.md (orchestrator)
 - [#116] Dịch danh xưng 'All-Knowing Sage' trong dị bản của Lorraine — tạm chọn 'Hiền Giả Toàn Tri' theo chuẩn Hán Việt fantasy (phương án khác: 'Đại Hiền Giả Toàn Tri', 'Hiền Giả Biết Tuốt'). Tạm dùng trong bản dịch: 'Hiền Giả Toàn Tri'. → Giữ 'Hiền Giả Toàn Tri' trong glossary.md theo chuẩn Hán Việt (orchestrator)
 - [#116] Dịch danh hiệu lập quốc 'King of Chefs' trong dị bản của Alize — tạm chọn 'Vua Đầu Bếp' (phương án khác: 'Vua Ẩm Thực', 'Đầu Bếp Vương'). Tạm dùng trong bản dịch: 'Vua Đầu Bếp'. → Giữ 'Vua Đầu Bếp' trong glossary.md (orchestrator)
+- [#117] Cụm 'Professor Lorraine' trong lời thoại của Alize (đoạn 9, 46, 71) — dùng 'cô Lorraine' theo vai vế thầy trò thân mật hay dùng học vị 'Học Sĩ Lorraine'? Tạm dùng trong bản dịch: 'cô Lorraine'. → Giữ 'cô Lorraine' theo pronouns.md cho lời thoại của Alize (orchestrator)
+- [#117] Danh hiệu 'Saint Myullias' (đoạn 61) — dùng 'Thánh Nữ Myullias' theo đặc tính nhân vật nữ của Myullias (nhất quán từ #81-#112) hay đổi sang danh xưng chung 'Thánh Giả'? Tạm dùng trong bản dịch: 'Thánh Nữ Myullias'. → Giữ 'Thánh Nữ Myullias' nhất quán với các chương trước (orchestrator)

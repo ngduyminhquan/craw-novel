@@ -683,6 +683,13 @@ Tại nhà nguyện, Alize đang kể câu chuyện cổ tích "Người Lữ H�
 Trong dị bản thực tế của Alize, người lữ hành là một đầu bếp vượt qua thử thách của quái vật mắt đỏ và người phụ nữ áo trắng chia làm bốn phân thân để lập quốc thành Vua Đầu Bếp.
 Rentt băn khoăn khi nhớ lại cái kết bi kịch trong dị bản do cha mẹ kể thời thơ ấu: vương quốc ẩm thực bị các nước láng giềng ghen tị tấn công, vị vua tuyệt vọng bỏ đi khiến đất nước lụi tàn và chìm vào quên lãng; cả hai đứng dậy chuẩn bị nói chuyện với Alize.
 
+## 117
+Rentt và Lorraine thông báo cho Alize về chuyến đi vắng khoảng hai tuần, đồng thời rủ cô bé cùng tới tiệm rèn để lấy số đo làm trang bị và chuẩn bị chế tác đũa phép từ gỗ Ent Jyulapus.
+Sau khi được Sơ Lillian cho phép, cả ba tới tiệm rèn Ba Chĩa; Luka ngỡ ngàng và bồi hồi khi thấy Rentt để lộ nửa khuôn mặt nhờ chiếc mặt nạ biến hình.
+Clope tò mò dùng hết sức kéo chiếc mặt nạ của Rentt nhưng hoàn toàn bất lực; cả nhóm thảo luận về việc chiếc mặt nạ bị nguyền rủa dính chặt không thể gỡ ra ngay cả khi thanh tẩy bằng Thần Lực.
+Được Rentt và Lorraine khích lệ, Alize bớt e dè và lễ phép chào hỏi Clope; người thợ rèn ấm áp xoa đầu cô bé rồi dẫn mọi người vào lò rèn xem xét nguyên liệu từ mê cung.
+
+
 
 
 

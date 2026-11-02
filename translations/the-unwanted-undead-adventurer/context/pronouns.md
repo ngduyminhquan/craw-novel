@@ -153,3 +153,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Myullias Raiza | Nive Maris | tôi | cô / Tiểu thư Nive | 104 | Thánh Nữ đi cùng mạo hiểm giả |
 | Isaac Hart | Rentt Faina | tôi | ngài / ngài Rentt | 114 | Quản gia gọi mạo hiểm giả (raw: Mister Rentt) |
 | Laura Latuule | Rentt Faina | tôi | ngài / ngài Rentt | 114 | Đương chủ gia tộc gọi mạo hiểm giả (raw: Mister Rentt) |
+| Clope | Lorraine Vivie | tôi | Lorraine / cô | 117 | Thợ rèn quen biết trao đổi với học giả kiêm mạo hiểm giả |
+| Lorraine Vivie | Clope | tôi | anh | 117 | Học giả kiêm mạo hiểm giả quen biết trao đổi với thợ rèn |
+| Clope | Alize | chú | nhóc / cháu | 117 | Thợ rèn xưng hô thân mật, ấm áp với cô bé đệ tử của khách quen |
+| Alize | Clope | cháu | chú | 117 | Đứa trẻ mồ côi lễ phép chào hỏi người thợ rèn quen của Rentt |
