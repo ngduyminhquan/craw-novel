@@ -349,3 +349,9 @@ Alize ngạc nhiên trước đóa Hoa Long Huyết tươi nguyên vẹn do Rent
 Trong lúc chờ đợi, Rentt theo chân Edel xuống căn hầm cô nhi viện và phát hiện chú chuột quyến thuộc đã dùng Ma Lực cùng Khí Lực của anh để cường hóa đám chuột đàn em, đồng thời thiết lập một mạng lưới gián điệp chuột bao phủ khắp thị trấn Maalt.
 Unbert và Norman đến nơi, hết lời kinh ngạc trước đóa hoa được bảo quản hoàn hảo; nghe Norman tiếc nuối vì thiếu hoa để chế thuốc cứu thêm người nghèo, Rentt quyết định tặng miễn phí thêm bốn cành hoa nữa cho anh.
 Cảm kích trước tấm lòng thiện nguyện và độ hào phóng của Rentt, Bác sĩ Norman bày tỏ lòng biết ơn sâu sắc và hứa sẽ tận lực hỗ trợ anh bằng kiến thức y dược bất cứ khi nào cần.
+
+## 60
+Alize ký xác nhận hoàn tất ủy thác thu thập Hoa Long Huyết với thù lao tượng trưng một đồng đồng; biết Alize vẫn nuôi ước mơ làm mạo hiểm giả để giúp đỡ mọi người, Rentt hứa sẽ đích thân chỉ dạy kiến thức cơ bản và cho cô bé vay tiền không lãi suất để Lorraine dạy ma thuật.
+Trở về nhà ăn tối cùng Lorraine, Rentt thuật lại câu chuyện và nhờ cô kèm cặp ma thuật cho Alize trong lúc rảnh rỗi, nhưng vô tình buột miệng miêu tả bạn thân có phần tiêu cực.
+Bị Lorraine trêu chọc và dọa dùng gậy phép cùng ma đạo thư ếm bùa vì tội vô tâm với thiếu nữ, Rentt hoảng hốt dồn dập tung ra một tràng tâng bốc hoa mỹ ngợi ca nhan sắc và trí tuệ của cô như nữ thần.
+Trước màn khen ngợi lả lơi bất ngờ của Rentt, Lorraine vừa ngượng ngùng vừa thở phào nhẹ nhõm khi biết anh không phải kẻ háo sắc; cô lui vào bếp múc thêm thức ăn trong lúc đỏ ửng mặt và tai vì thẹn thùng.

@@ -64,7 +64,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 57 |  | Chapter_057 - Vol 3 Chapter 1 - A Peculiar Man (2).txt | Vol 3 Chapter 1 - A Peculiar Man (2) | reviewed |  |
 | 58 |  | Chapter_058 - Vol 3 Chapter 1 - A Peculiar Man (3).txt | Vol 3 Chapter 1 - A Peculiar Man (3) | done |  |
 | 59 |  | Chapter_059 - Vol 3 Chapter 1 - A Peculiar Man (4).txt | Vol 3 Chapter 1 - A Peculiar Man (4) | done |  |
-| 60 |  | Chapter_060 - Vol 3 Chapter 1 - A Peculiar Man (5).txt | Vol 3 Chapter 1 - A Peculiar Man (5) | todo |  |
+| 60 |  | Chapter_060 - Vol 3 Chapter 1 - A Peculiar Man (5).txt | Vol 3 Chapter 1 - A Peculiar Man (5) | done |  |
 | 61 |  | Chapter_061 - Vol 3 Chapter 2 - And an Equally Peculiar Request (1).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (1) | todo |  |
 | 62 |  | Chapter_062 - Vol 3 Chapter 2 - And an Equally Peculiar Request (2).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (2) | todo |  |
 | 63 |  | Chapter_063 - Vol 3 Chapter 2 - And an Equally Peculiar Request (3).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (3) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -487,3 +488,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#59] Dịch danh xưng 'Doctor Norman' — tạm chọn 'Bác sĩ Norman' (phương án khác: 'Thầy thuốc Norman', 'Dược sư Norman'). Tạm dùng trong bản dịch: 'Bác sĩ Norman'. → Giữ 'Bác sĩ Norman' (tự nhiên, khớp với việc trực tiếp khám chữa bệnh cho bệnh nhân nghèo và cô nhi viện) (orchestrator)
 - [#59] Dịch chức nghiệp 'healer' và 'herbalist' — tạm chọn 'thầy trị liệu' (nhất quán với #50) và 'dược sư' (nhất quán với #41, #56) (phương án khác: 'trị liệu sư' / 'thầy thuốc thảo dược'). Tạm dùng trong bản dịch: 'thầy trị liệu' và 'dược sư'. → Giữ 'thầy trị liệu' và 'dược sư' (nhất quán với các chương trước) (orchestrator)
 - [#59] Xưng hô giữa Norman Hanel và Rentt Faina — tạm chọn Norman xưng 'tôi', gọi Rentt là 'anh / anh Rentt' (Norman cuối 20 tuổi, Rentt 25 tuổi), Rentt xưng 'tôi', gọi 'anh / các anh' (phương án khác: Norman gọi Rentt là 'cậu Rentt' hoặc 'ngài Rentt'). Tạm dùng trong bản dịch: 'tôi - anh / anh Rentt'. → Giữ Norman xưng 'tôi' gọi 'anh / anh Rentt', Rentt xưng 'tôi' gọi 'anh / các anh' (lịch sự, ngang hàng giữa thanh niên trạc tuổi nhau) (orchestrator)
+- [#60] Dịch thuật ngữ 'Magecraft' — tạm chọn 'ma thuật' (chuẩn Hán Việt ngắn gọn; phương án khác: 'ma pháp', 'phép thuật'). Tạm dùng trong bản dịch: 'ma thuật'. → Giữ 'ma thuật' (chuẩn Hán Việt cho 魔術, phân biệt với 'magic' là 'ma pháp') (orchestrator)

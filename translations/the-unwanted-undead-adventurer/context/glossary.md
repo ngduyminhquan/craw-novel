@@ -120,3 +120,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | dissection specialist | dissection specialists | chuyên gia mổ xẻ | chức nghiệp | 58 | Chuyên gia phân tách, xẻ thịt và xử lý xác quái vật tại Hội Mạo Hiểm Giả |
 | healer | healers | thầy trị liệu | chức nghiệp | 50 | Người hành nghề chữa trị, trị liệu bệnh tật vết thương |
 | herbalist | herbalists | dược sư | chức nghiệp | 41 | Người tinh thông cây thuốc, thu hái và bào chế thảo dược |
+| Magecraft |  | ma thuật | kỹ năng | 60 | Nghệ thuật sử dụng Ma Lực thi triển các phép thuật huyền bí (魔術) |
