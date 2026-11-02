@@ -53,7 +53,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | reviewed |  |
 | 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | reviewed |  |
 | 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | reviewed |  |
-| 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | todo |  |
+| 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | done |  |
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | todo |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | todo |  |
 | 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -459,3 +460,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#46-47] Cách gọi anh trai của Amiris — đổi toàn bộ từ 'Anh hai' sang 'Anh trai' (tránh phương ngữ Nam Bộ) (orchestrator)
 - [#46-47] Thuật ngữ 'traveling merchant' — chuẩn hóa thành 'thương nhân lữ hành' cho cả chương 46, 47 và thêm vào glossary.md (orchestrator)
 - [#48] Dịch thành ngữ 'negligible at best' (đoạn 26) — sửa từ 'nói giảm nói tránh' thành 'nói thẳng ra cũng chẳng đáng là bao' (orchestrator)
+- [#49] Tiền tố / chức xưng 'Sister' của Lillian Jeunne — tạm chọn 'Sơ Lillian' (phương án khác: 'Nữ tu Lillian', 'Tu nữ Lillian'). Tạm dùng trong bản dịch: 'Sơ Lillian'. → Giữ 'Sơ Lillian' (tự nhiên cho danh xưng Sister tại cô nhi viện) (orchestrator)
+- [#49] Dịch địa danh 'First Orphanage of Maalt' — tạm chọn 'Cô Nhi Viện Thứ Nhất Maalt' (nhất quán với 'Second Orphanage of Maalt'; phương án khác: 'Viện Mồ Côi Thứ Nhất Maalt'). Tạm dùng trong bản dịch: 'Cô Nhi Viện Thứ Nhất Maalt'. → Giữ 'Cô Nhi Viện Thứ Nhất Maalt' (nhất quán với 'Cô Nhi Viện Thứ Hai Maalt') (orchestrator)
+- [#49] Xưng hô giữa Alize và Sơ Lillian — tạm chọn Alize xưng 'con', gọi 'Sơ Lillian' (hoặc 'người' khi nhắc tới), Sơ Lillian xưng 'tôi / ta', gọi Alize là 'con' (phù hợp quan hệ nữ tu cưu mang trẻ mồ côi; phương án khác: Alize xưng 'em' / 'cháu'). Tạm dùng trong bản dịch: 'con - Sơ Lillian / sơ'. → Giữ Alize xưng 'con' gọi 'Sơ Lillian / sơ', Sơ Lillian xưng 'ta / tôi' gọi 'Alize / con' (orchestrator)

@@ -22,6 +22,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Augurey | Augurey / gã / anh ta | 42 | Mạo hiểm giả kỳ dị chuyên mặc đồ bảy sắc cầu vồng |
 | Ryuntus | Ryuntus / cậu thanh niên / cậu | 45 | Cậu thanh niên Làng Todds |
 | Amiris | Amiris / cô gái / thiếu nữ | 46 | Thiếu nữ Làng Todds, em gái Ryuntus |
+| Lillian | Lillian / Sơ Lillian / người phụ nữ | 49 | Nữ tu phụ trách Cô Nhi Viện Thứ Hai Maalt |
+| Alize | Alize / cô bé | 49 | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt |
 
 ## Giữa các nhân vật
 
@@ -75,3 +77,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Amiris | Rentt Faina | tôi / em | anh Rentt / anh | 46 | Ban đầu xưng tôi khi mới gặp, từ đêm trước lễ hội và sau khi được cứu chuyển sang xưng em gọi anh Rentt / anh |
 | Ryuntus | Amiris | anh | em / Amiris | 46 | Hai anh em ruột |
 | Amiris | Ryuntus | em | anh trai / anh | 46 | Hai anh em ruột |
+| Rentt Faina | Alize | tôi | em / cô bé / Alize | 48 | Mạo hiểm giả nói chuyện với cô bé mồ côi |
+| Alize | Rentt Faina | em | anh / anh Rentt | 48 | Cô bé mồ côi nói chuyện với mạo hiểm giả nhận ủy thác |
+| Rentt Faina | Lillian | tôi | Sơ Lillian | 49 | Mạo hiểm giả nói chuyện lịch sự với nữ tu phụ trách cô nhi viện |
+| Lillian | Rentt Faina | tôi | cậu / cậu Rentt | 49 | Nữ tu lớn tuổi nói chuyện biết ơn với mạo hiểm giả nhận ủy thác |
+| Alize | Lillian | con / em | Sơ Lillian / sơ | 49 | Trẻ mồ côi nói chuyện với nữ tu chăm sóc mình |
+| Lillian | Alize | ta / tôi | Alize / con | 49 | Nữ tu phụ trách nói chuyện với trẻ mồ côi |

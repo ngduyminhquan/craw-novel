@@ -284,6 +284,12 @@ Sheila tiếp cận giải thích về truyền thống ủy thác thiện nguy�
 Rentt tìm đến tòa nhà cô nhi viện xập xệ, lỡ tay giật gãy vòng gõ cửa rồi vội dùng chất dịch Slime gắn lại; anh gõ cửa công phu và được một cô bé khoảng 12 tuổi tóc ngắn, phong thái tao nhã ra mở cửa.
 Cô bé ban đầu ngỡ anh là kẻ đến đòi nợ và báo Lillian không có nhà, nhưng khi biết Rentt là mạo hiểm giả nhận ủy thác của viện thì niềm nở đón anh vào trong.
 
+## 49
+Được dẫn vào phòng tiếp khách của Cô Nhi Viện Thứ Hai Maalt, Rentt bị đám trẻ mồ côi hiếu kỳ vây quanh; cô bé tóc ngắn quay lại bưng trà liền nghiêm khắc xua các em ra ngoài để đảm bảo an toàn.
+Rentt khen ngợi sự cảnh giác của cô bé và cả hai giới thiệu tên: cô bé tên Alize (không có họ), ngạc nhiên khi thấy một mạo hiểm giả Đồng Cấp nhận ủy thác; Rentt hỏi lý do cô bé muốn tìm Hoa Long Huyết.
+Alize dẫn Rentt vào phòng gặp người phụ trách là Sơ Lillian Jeunne đang nằm bệnh; Sơ Lillian ngỡ Rentt đến nhận ủy thác dọn kho dưới hầm có quái vật và nhờ Alize hỗ trợ anh.
+Nhận ra sự sai lệch giữa hai ủy thác và thấy Sơ Lillian đang lâm bệnh nặng không thể vận dụng Thần Lực chiến đấu, Rentt tạm giữ im lặng; anh cùng Alize quay lại phòng tiếp khách để nghe em giải thích rõ sự tình.
+
 
 
 

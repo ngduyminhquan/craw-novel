@@ -103,3 +103,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Dragon-Flower Blood |  | Long Hoa Huyết | vật phẩm | 48 | Chất dịch màu đỏ chiết xuất từ Hoa Long Huyết dùng làm dược liệu (竜花血) |
 | Church of the Eastern Sky | Eastern Sky | Giáo Hội Đông Thiên | tổ chức | 48 | Tổ chức tôn giáo ôn hòa, thanh bần tại Yaaran, tôn thờ thiên sứ giáng trần ở phía đông (東天教会) |
 | Second Orphanage of Maalt | Second Orphanage; the Second Orphanage | Cô Nhi Viện Thứ Hai Maalt | địa danh | 48 | Cơ sở nuôi dưỡng trẻ mồ côi do Giáo Hội Đông Thiên điều hành tại Maalt |
+| First Orphanage of Maalt | First Orphanage; the First Orphanage | Cô Nhi Viện Thứ Nhất Maalt | địa danh | 49 | Cơ sở nuôi dưỡng trẻ mồ côi thứ nhất tại Maalt |

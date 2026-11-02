@@ -22,7 +22,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Augurey |  | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt | #42 |
 | Ryuntus |  | Ryuntus | Thanh niên Làng Todds, anh trai Amiris, lặn lội lên Maalt tìm mạo hiểm giả cứu em gái | #45 |
 | Amiris |  | Amiris | Thiếu nữ Làng Todds, em gái Ryuntus, người bị chọn làm tế vật cho Chúa Tể Hồ | #46 |
-| Lillian |  | Lillian | Người chăm sóc/phụ trách tại Cô Nhi Viện Thứ Hai Maalt (được nhắc tên) | #48 |
+| Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |
+| Alize |  | Alize | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt, người đưa ra ủy thác thu thập Hoa Long Huyết | #48 |
 
 ## Chi tiết
 
@@ -143,4 +144,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 47: Được Rentt cứu thoát khỏi nghi thức hiến tế giả mạo, vạch trần âm mưu bắt cóc tống tiền/bán nô lệ của nhóm thương nhân lữ hành; hôn lên mặt nạ của Rentt để cảm ơn trước khi anh lên xe ngựa về Maalt.
 
 ### Lillian
-- Vẻ ngoài, vai trò: Người chăm sóc/phụ trách tại Cô Nhi Viện Thứ Hai Maalt. Được cô bé ở cô nhi viện nhắc đến ở #48, thường ngày chăm lo chu đáo cho các trẻ mồ côi.
+- Giới tính, tuổi/vẻ ngoài: Nữ, khoảng ngoài 40 tuổi, vóc người hơi đẫy đà, là nữ tu (Sister) của Giáo Hội Đông Thiên phụ trách Cô Nhi Viện Thứ Hai Maalt. Tên đầy đủ là Lillian Jeunne.
+- Tính cách: Nhân hậu, yêu thương con trẻ, hết lòng chăm lo cho các trẻ mồ côi bất chấp cô nhi viện khó khăn về kinh phí; có tinh thần trách nhiệm cao.
+- Năng lực: Từng có khả năng chiến đấu và sử dụng Thần Lực để thanh tẩy quái vật trong không gian hẹp. Hiện đang suy yếu vì bệnh tật, không thể tự mình dọn dẹp hầm chứa đồ có quái vật.
+- Quan hệ: Người chăm sóc và được các em nhỏ ở cô nhi viện hết mực kính trọng, yêu quý; thân thiện và biết ơn mạo hiểm giả nhận ủy thác thiện nguyện.
+- Trạng thái tính đến chương 49: Đang nằm bệt trên giường bệnh do kiệt sức/đau ốm; ngỡ rằng ủy thác đăng lên Hội là nhờ dọn dẹp hầm chứa đồ của cô nhi viện và giao phó cho Alize hỗ trợ Rentt.
+
+### Alize
+- Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12 tuổi, tóc ngắn cắt tỉa gọn gàng, phong thái tao nhã dù sống trong cảnh nghèo khó tại cô nhi viện. Không có họ.
+- Tính cách: Thông minh, sắc sảo, chững chạc trước tuổi, ý thức sâu sắc về sự an toàn của những đứa trẻ khác trong viện trước người lạ và mạo hiểm giả; hết lòng vì cô nhi viện và lo lắng cho bệnh tình của Sơ Lillian.
+- Cách nói chuyện: Cố gắng nói năng trang trọng, lịch sự như người lớn khi đại diện cô nhi viện tiếp khách; khi được Rentt cho phép thì nói chuyện tự nhiên, hồn nhiên đúng lứa tuổi, xưng "em", gọi "anh Rentt" / "anh"; kính trọng gọi "Sơ Lillian" (Lady Lillian).
+- Quan hệ: Đứa trẻ lớn đảm nhận vai trò trợ tá ("cánh tay phải") của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; người bí mật đổi nội dung ủy thác thành tìm Hoa Long Huyết nhằm chữa bệnh cho Sơ Lillian.
+- Trạng thái tính đến chương 49: Đón Rentt vào cô nhi viện, xua đám trẻ hiếu kỳ ra ngoài vì sợ nguy hiểm; giới thiệu tên với Rentt và dẫn anh vào phòng gặp Sơ Lillian đang ốm; sau đó chuẩn bị giải thích lý do thực sự đằng sau yêu cầu tìm kiếm Hoa Long Huyết.
