@@ -519,3 +519,8 @@ Rentt nhận tiền bán xác Tarasque từ Hội Mạo Hiểm Giả nhưng số
 Ý thức được gánh nặng nợ nần và thói quen chi tiêu dựa vào những khoản lộc trời cho, Rentt tự chấn chỉnh bản thân và quyết định áp dụng phương pháp cơ bản nhất của mạo hiểm giả để tiết kiệm: tự mình đi thu thập nguyên liệu.
 Nhận thấy vũ khí của bản thân quá đặc thù khó tự kiếm nguyên liệu, nhưng vũ khí vỡ lòng của Alize chỉ cần nguyên liệu tiêu chuẩn để tránh sinh thói ỷ lại, Rentt quyết định dành buổi chiều tiến vào Mê Cung Tân Nguyệt gom nguyên liệu và quay về báo trước một tiếng với Lorraine.
 
+## 89
+Rentt trở về trao đổi với Lorraine về kế hoạch tham gia buổi đấu giá của Thương hội Stheno; Lorraine cảnh báo về nguy cơ bị bắt sống do giá trị khổng lồ của Hạ Cấp Ma Cà Rồng và sinh thái bầy đàn của chủng tộc Ma Cà Rồng (Trung Cấp Ma Cà Rồng có thể kích nổ thuộc hạ từ xa).
+Lorraine nhờ Rentt thu thập thêm quặng ma thuật và nguyên liệu để mở lớp dạy Alize cùng anh tự chế tạo vật dẫn ma pháp, đồng thời ủng hộ việc khôi phục truyền thống người thầy tặng vũ khí đầu tay cho đệ tử.
+Tiến vào tầng 1 Mê Cung Tân Nguyệt tìm nguyên liệu, Rentt dắt theo Edel để tìm đồ nhưng kinh ngạc chứng kiến chú chuột quyến thuộc tự mình tung cú tông xoay tít người với uy lực khủng khiếp, nghiền nát đầu Goblin và đánh tan xác lũ Slime mà không cần rút Ma Lực từ anh.
+

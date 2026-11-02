@@ -158,3 +158,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Fourostoroa |  | Fourostoroa | khác | 81 | Nhân vật anh hùng trảm ác long trong truyện ngụ ngôn cổ xưa |
 | Tetona | Tetona flower; Tetona flowers | hoa Tetona | vật phẩm | 84 | Loài hoa nhỏ tuyệt đẹp chỉ mọc trên vách đá cheo leo hiểm trở (テトナの花) |
 | Puchi Suri Racing | Puchi Suri racing | đua chuột Puchi Suri | khác | 85 | Trò giải trí cá cược đua quái vật Puchi Suri mới xuất hiện ở Maalt |
+| Middle Vampire | Middle Vampires | Trung Cấp Ma Cà Rồng | quái vật | 89 | Phân loài Ma Cà Rồng bậc trung, thường là thủ lĩnh chi phối Hạ Cấp Ma Cà Rồng (中級吸血鬼) |
+| Monster Research Institution |  | Viện Nghiên Cứu Quái Vật | tổ chức | 89 | Cơ quan nghiên cứu quái vật tại thủ đô của Vương Quốc Yaaran (魔物研究所) |
+| magical focus | magical foci | vật dẫn ma pháp | vật phẩm | 89 | Vật phẩm hỗ trợ pháp sư thi triển ma pháp và khuếch đại uy lực (gậy, trượng, quả cầu...) (焦点具/魔導具) |

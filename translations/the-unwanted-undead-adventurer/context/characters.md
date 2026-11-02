@@ -194,6 +194,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Háu ăn, kiêu ngạo, có ý thức tự chủ cao; thích được xem là cao quý thay vì mập mạp béo tròn; thích nghi nhanh nhưng không mấy trung thành, hay phản ứng lại khi Rentt định dùng làm mồi nhử.
 - Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định; có thể tự ý rút Thần Lực từ Rentt để bao bọc cơ thể trong màn ánh sáng, tự trị liệu và tông người tấn công mang Thần Lực.
 - Trạng thái tính đến chương 54: Cùng Rentt chiến đấu với Tarasque; luồn lách qua chân quái thú, tự ý rút Thần Lực của Rentt để tông thẳng vào vết thương hở trên cổ Tarasque, gợi mở cho Rentt điểm yếu kỵ Thần Lực của quái thú; bị quất bay được Rentt đỡ kịp và lập tức cằn nhằn qua tâm trí hối thúc Rentt phản công.
+- Trạng thái tính đến chương 89: Kích thước cơ thể tăng lên cỡ đầu Goblin; có thể tự chiến đấu tiêu diệt Goblin và Slime bằng các cú phóng mình tông người xoay tít tốc độ cao mà không cần Rentt chia sẻ Ma Lực.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
 
 ### Isaac Hart
