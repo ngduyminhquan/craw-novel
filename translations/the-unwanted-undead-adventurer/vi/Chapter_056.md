@@ -1,4 +1,4 @@
-# Chương 56: Tập 3 Chương 1 - Người đàn ông kỳ lạ (1)
+# Chương 56: Tập 3 Chương 1 - Người Đàn Ông Kỳ Lạ (1)
 
 ![](images/ch056-01.webp)
 
@@ -72,7 +72,7 @@ Tuy rằng Hoa Long Huyết có thể đem bào chế thành thuốc, nhưng Lon
 
 Đối với người bình thường, đây sẽ là một kỳ tích bất khả thi, đòi hỏi lượng tài nguyên khổng lồ và bao nỗi nhọc nhằn gian khổ. Trong khi ma cụ một khi đã mua và được bảo dưỡng đúng cách thì vẫn giữ nguyên hiệu lực cùng công năng, Nước Thánh lại là chuyện hoàn toàn khác. Xét việc một bình đơn lẻ đã tiêu tốn của người mua vài đồng tiền vàng, thì sự che chở mà nó mang lại trước hiểm họa đầm lầy là điều đã được chứng minh.
 
-Dù từ trước đến nay tôi chưa từng bận tâm suy nghĩ nhiều về chuyện này, sự độc quyền của các giáo hội đối với nguồn cung Nước Thánh dường như gần như là phi pháp.
+Dù từ trước đến nay tôi chưa từng bận tâm suy nghĩ nhiều về chuyện này, sự độc quyền của các giáo hội đối với nguồn cung Nước Thánh gần như có thể coi là phi pháp.
 
 Dù sao đi nữa, tôi chẳng có mảy may manh mối nào về cách bảo quản Long Hoa Huyết. Tuy tôi đã học được vô số ngón nghề và kỹ năng từ quãng thời gian ngắn làm chân học việc cho dược sư, điều người đàn ông đang hỏi rõ ràng đã vượt quá tầm hiểu biết của tôi. Ngay cả khi một phương pháp như vậy thực sự tồn tại, nhiều khả năng nó vẫn chưa được ai phát hiện ra.
 

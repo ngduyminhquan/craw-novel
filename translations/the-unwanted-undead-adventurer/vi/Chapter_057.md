@@ -1,4 +1,4 @@
-# Chương 57: Tập 3 Chương 1 - Người đàn ông kỳ lạ (2)
+# Chương 57: Tập 3 Chương 1 - Người Đàn Ông Kỳ Lạ (2)
 
 Dù tôi và Isaac đã có một cuộc trò chuyện khá dài, song Đầm Lầy Tarasque khó lòng là nơi thích hợp cho những màn đàm đạo dông dài như thế. Lúc này đôi bên đều đã biết đối phương sở hữu phương thức đáng tin cậy để chống lại chất độc của đầm lầy; bằng không chúng tôi chẳng đời nào nán lại trò chuyện. Ngay cả khi bản thân có khả năng miễn nhiễm với chất độc, điều tương tự cũng không áp dụng cho hành lý tư trang mang theo. Những trang bị tốt nhất cũng có thể bị ăn mòn nếu tiếp xúc với đầm lầy một cách không cần thiết. Tuy nhiên, dường như Isaac đã sớm nhận ra điều này trước khi tôi kịp lên tiếng bày tỏ nỗi bận tâm.
 
@@ -6,9 +6,9 @@ Dù tôi và Isaac đã có một cuộc trò chuyện khá dài, song Đầm L�
 
 Tôi cho rằng cả hai chúng tôi đều phải sớm lên đường.
 
-“...Được.” Tôi gật đầu đáp lại. “Về ủy thác... Tôi sẽ chờ liên lạc. Từ phía hội. Như vậy... Có ổn không?”
+“...Được.” Tôi gật đầu đáp lại. “Về ủy thác... Tôi sẽ chờ liên lạc. Từ phía Hội. Như vậy... Có ổn không?”
 
-“Vâng, như vậy ổn lắm. Chúng tôi sẽ chính thức đưa ra ủy thác cho ngài thông qua hội; nhờ họ thay mặt liên lạc với ngài là tốt nhất. Dẫu vậy... Tôi e rằng chẳng ai khác chịu nhận ủy thác này đâu—ngoại trừ ngài ra,” Isaac nói, một nụ cười gượng gạo thoáng nở trên gương mặt anh.
+“Vâng, như vậy ổn lắm. Chúng tôi sẽ chính thức đưa ra ủy thác cho ngài thông qua Hội; nhờ họ thay mặt liên lạc với ngài là tốt nhất. Dẫu vậy... Tôi e rằng chẳng ai khác chịu nhận ủy thác này đâu—ngoại trừ ngài ra,” Isaac nói, một nụ cười gượng gạo thoáng nở trên gương mặt anh ta.
 
 Điều đó quả không sai; người ta sẽ rất khó tìm được một mạo hiểm giả sẵn lòng đặt chân vào đầm lầy ngay từ đầu, huống chi là định kỳ lui tới chỉ để hái hoa. Một khoản thù lao hậu hĩnh có thể thôi thúc một mạo hiểm giả lão luyện dấn thân vào một chuyến đi đơn lẻ, song có những thứ ngay cả tiền bạc cũng chẳng dễ bề mua được.
 
@@ -16,7 +16,7 @@ Hiếm có mạo hiểm giả nào chịu để bản thân bị thuyết phục
 
 Tôi là một trường hợp ngoại lệ, hoàn toàn không bị ảnh hưởng bởi những tác động chung của đầm lầy. Lẽ dĩ nhiên chẳng cần nói cũng biết, những cá nhân như tôi quả thực vô cùng hiếm hoi.
 
-Tôi gật đầu, rồi khẽ vẫy tay chào tạm biệt Isaac. Vẫy tay đáp lại, Isaac có vẻ khá hài lòng với kết quả cuộc trò chuyện của chúng tôi. Anh cũng có vẻ đủ hứng khởi để ném một thứ gì đó về phía tôi.
+Tôi gật đầu, rồi khẽ vẫy tay chào tạm biệt Isaac. Vẫy tay đáp lại, Isaac có vẻ khá hài lòng với kết quả cuộc trò chuyện của chúng tôi. Anh ta cũng có vẻ đủ hứng khởi để ném một thứ gì đó về phía tôi.
 
 Tôi dùng tay còn lại đón lấy món đồ. “...Một lọ Nước... Thánh sao?”
 
@@ -50,7 +50,7 @@ Ngoài ra còn có thực tế là anh ta đã đơn độc dấn thân vào Đ�
 
 Sở hữu Thần Lực tích trữ trong người không phải điều gì đáng để làm ầm ĩ, cũng chẳng đáng phải che giấu, nhất là trước một người đã sớm nhận ra tôi đang vận dụng nó.
 
-Qua chuyện này, tôi có thể an tâm cho rằng Isaac sở hữu những giác quan nhạy bén, và vì lý do nào đó tôi cảm thấy mình có thể tin tưởng anh. Ít nhất là trong việc không bất cẩn làm lộ thông tin ra ngoài.
+Qua chuyện này, tôi có thể an tâm cho rằng Isaac sở hữu những giác quan nhạy bén, và vì lý do nào đó tôi cảm thấy mình có thể tin tưởng anh ta. Ít nhất là trong việc không bất cẩn làm lộ thông tin ra ngoài.
 
 Như thể đồng tình với nhận định của tôi, Isaac khẽ gật đầu. “Quả đúng như tôi suy đoán, thưa quý ngài. Vậy thì... việc tặng lọ Nước Thánh này có phải là một hành động thừa thãi chăng?”
 
@@ -120,13 +120,13 @@ Vui vẻ đồng ý, tôi bước lên xe. Đàn ngựa nhanh chóng cất bư�
 
 ◆◇◆◇◆
 
-Điều đầu tiên tôi làm khi quay trở lại Maalt là báo cáo kết quả cho hội—và thế là tôi hướng thẳng bước chân về phía Hội Mạo Hiểm Giả.
+Điều đầu tiên tôi làm khi quay trở lại Maalt là báo cáo kết quả cho Hội—và thế là tôi hướng thẳng bước chân về phía Hội Mạo Hiểm Giả.
 
 Dù tôi rất muốn đi ngay tới cô nhi viện để giao Hoa Long Huyết, song tôi vẫn còn một chuyện khác đòi hỏi sự chú ý tức thì: xác của con Tarasque mà tôi đã hạ sát.
 
 Tôi muốn chữa lành căn bệnh của Sơ Lillian càng sớm càng tốt, song sơ không gặp phải nguy cơ mất mạng ngay lập tức. Miễn là tôi giao nộp một số nguyên liệu cho dược sư địa phương rồi ngày mai đến lấy thuốc men điều trị liên quan, tôi cho rằng để sơ đợi thêm một ngày nữa cũng vẫn có thể chấp nhận được.
 
-Bước vào bên trong hội, tôi lập tức tiến về phía Sheila; như thường lệ, cô đang đứng sau quầy tiếp tân. Sheila hiểu rõ hoàn cảnh của tôi, và cô vẫn thường hỗ trợ tôi trong các công việc liên quan đến hội.
+Bước vào bên trong Hội, tôi lập tức tiến về phía Sheila; như thường lệ, cô đang đứng sau quầy tiếp tân. Sheila hiểu rõ hoàn cảnh của tôi, và cô vẫn thường hỗ trợ tôi trong các công việc liên quan đến Hội.
 
 “Ô, anh Rentt...! Hôm nay anh có việc gì cần tìm sao? Khoan đã... Đừng nói là—anh đã quay về từ đầm lầy rồi đấy ư?”
 
@@ -152,13 +152,13 @@ Tôi không hề ghê tởm những gì mình đã biến thành, song tôi cả
 
 Liệu tôi có thể chấp nhận sống chung với sự thật đó hay không?
 
-Tôi đã gặt hái được chút sức mạnh để đền đáp cho những nỗ lực của mình, nhưng liệu việc khôi phục tính người có khiến nó tan biến hay chăng? Nếu tôi thực sự quay trở lại làm con người bất lực trước kia của mình, mục tiêu trở thành một mạo hiểm giả Mithril Cấp gần như sẽ là điều bất khả thi. Liệu điều đó có bẻ gãy ý chí của tôi, hay thậm chí là bóp nghẹt chính bản ngã của tôi không?
+Tôi đã gặt hái được chút sức mạnh để đền đáp cho những nỗ lực của mình, nhưng liệu việc trở lại làm người có khiến nó tan biến hay chăng? Nếu tôi thực sự quay trở lại làm con người bất lực trước kia của mình, mục tiêu trở thành một mạo hiểm giả Mithril Cấp gần như sẽ là điều bất khả thi. Liệu điều đó có bẻ gãy ý chí của tôi, hay thậm chí là bóp nghẹt chính bản ngã của tôi không?
 
 Đó chính là điều tôi hằng lo sợ.
 
 Nhưng dĩ nhiên, tôi cho rằng mình vẫn sẽ kiên trì lầm lũi tiến bước về phía mục tiêu bất kể tương lai có xảy ra chuyện gì đi chăng nữa. Chẳng có cách nào để tôi dự đoán được mình sẽ cảm thấy ra sao nếu viễn cảnh giả định này thực sự xảy đến. Tôi cho rằng đây chính là nỗi sợ hãi điển hình trước những điều chưa biết.
 
-Dù sao đi nữa, chuyện chưa đỗ ông nghè đã đe hàng tổng cũng chẳng ích gì. Tôi tạm gác những suy nghĩ ấy lại, một lần nữa hướng sự chú ý về phía Sheila.
+Dù sao đi nữa, tính chuyện chưa đâu vào đâu cũng chẳng ích gì. Tôi tạm gác những suy nghĩ ấy lại, một lần nữa hướng sự chú ý về phía Sheila.
 
 “Nếu anh có thể tự mình ra vào Đầm Lầy Tarasque mà không hề mảy may thương tích, anh coi như đã tương đương Ngân Cấp về mặt thực lực rồi đấy, anh Rentt! Anh nhớ kỹ điều đó nhé!”
 
@@ -172,7 +172,7 @@ Ngay cả khi một ngày nào đó tôi có thể đánh mất nguồn sức m�
 
 Quả không hổ danh Sheila với năm năm bề dày kinh nghiệm, tôi thậm chí còn chưa cần phải giải thích điều mình mong muốn.
 
-“Phải.” Tôi gật đầu đáp lời. “Tuy nhiên, cần phải... Tiến hành xử lý. Một phòng mổ xẻ thông thường... Sẽ... Bất tiện. Cho công việc này.”
+“Phải.” Tôi gật đầu đáp lời. “Tuy nhiên, cần phải... Tiến hành xử lý. Một phòng xẻ thịt thông thường... Sẽ... Bất tiện. Cho công việc này.”
 
 “Tôi hiểu rồi. Chắc là anh đã tóm được thứ gì to lớn lắm đúng không? Chà, dù sao thì anh cũng đã thuê một chiếc túi dung tích khá lớn mà, anh Rentt.”
 
@@ -180,6 +180,6 @@ Quả không hổ danh Sheila với năm năm bề dày kinh nghiệm, tôi th�
 
 Nếu chỉ đơn thuần là vấn đề kích thước, tôi hoàn toàn có thể lôi xác nó ra ngay tại đây, nhưng xung quanh có những mạo hiểm giả khác đang ở trong tầm nghe thấy, và tôi không hề muốn bị bủa vây bởi những lời đề nghị hay yêu cầu kỳ quặc sau đó.
 
-Sheila gật đầu, thấu hiểu ý định của tôi. “Trong trường hợp đó... anh có thể sử dụng phòng mổ xẻ ở phía sau. Tôi sẽ dẫn anh tới đó.”
+Sheila gật đầu, thấu hiểu ý định của tôi. “Trong trường hợp đó... anh có thể sử dụng phòng xẻ thịt ở phía sau. Tôi sẽ dẫn anh tới đó.”
 
 Sheila tiến lại gần một đồng nghiệp để nhờ người đó thay vị trí của cô tại quầy, trước khi thu dọn vài tập tài liệu rồi cất bước rời đi. Tôi rảo bước theo sát ngay phía sau.

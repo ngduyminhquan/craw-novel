@@ -28,7 +28,7 @@ Tôi sẽ chẳng bao giờ làm chuyện như thế.
 
 Tôi căn bản là không thể nào làm chuyện như thế được.
 
-—Bởi tôi đang ngập trong nợ nần. Tệ hơn nữa, phần thưởng của cô nhi viện dành cho tôi khi thu thập một đóa Hoa Long Huyết chỉ vỏn vẹn đúng một đồng xu đồng hậu hĩnh. Tuy nhiên, bất chấp khoản nợ đè nặng, tôi vẫn bấm bụng tự bỏ tiền túi ra mua một món đồ rất đỗi đặc thù trước khi đặt chân tới đầm lầy: không gì khác ngoài một chiếc túi ma pháp.
+—Bởi tôi đang ngập trong nợ nần. Tệ hơn nữa, phần thưởng của cô nhi viện dành cho tôi khi thu thập một đóa Hoa Long Huyết chỉ vỏn vẹn đúng một đồng xu đồng hậu hĩnh. Tuy nhiên, bất chấp khoản nợ đè nặng, tôi vẫn bấm bụng tự bỏ tiền túi ra chi trả cho một món đồ rất đỗi đặc thù trước khi đặt chân tới đầm lầy: không gì khác ngoài một chiếc túi ma pháp.
 
 Bản thân tôi vốn đã sở hữu một chiếc túi như vậy, nhưng cái đó tương đối nhỏ, chứa vừa cái xác một con Orc là đã chật ních. Chẳng đời nào nó có thể nhét vừa thân xác của một quái thú khổng lồ như Tarasque.
 

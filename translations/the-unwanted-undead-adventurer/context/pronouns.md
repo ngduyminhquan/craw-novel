@@ -25,7 +25,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lillian | Lillian / Sơ Lillian / người phụ nữ | 49 | Nữ tu phụ trách Cô Nhi Viện Thứ Hai Maalt |
 | Alize | Alize / cô bé | 49 | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt |
 | Edel | Edel / con chuột / chú chuột | 52 | Chuột Puchi Suri quyến thuộc của Rentt |
-| Isaac Hart | Isaac / người đàn ông | 56 | Quản gia quý tộc thu thập Hoa Long Huyết tại Đầm Lầy Tarasque |
+| Isaac Hart | Isaac / người đàn ông / anh ta | 56 | Quản gia quý tộc thu thập Hoa Long Huyết tại Đầm Lầy Tarasque |
 
 ## Giữa các nhân vật
 
