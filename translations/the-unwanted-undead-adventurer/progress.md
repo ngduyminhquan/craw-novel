@@ -56,7 +56,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | reviewed |  |
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | reviewed |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | reviewed |  |
-| 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | todo |  |
+| 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | done |  |
 | 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | todo |  |
 | 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | todo |  |
 | 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | todo |  |
@@ -467,3 +467,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#50] Dịch thuật ngữ ma cà rồng 'familiar' — tạm chọn 'quyến thuộc' (chuẩn Hán Việt fantasy cho thuộc hạ tạo ra từ máu Vampire; phương án khác: 'thuộc hạ', 'linh thú quyến thuộc'). Tạm dùng trong bản dịch: 'quyến thuộc'. Đề xuất: chốt 'quyến thuộc' vào glossary.md. → Giữ 'quyến thuộc' (chuẩn Hán Việt fantasy cho 眷属) (orchestrator)
 - [#50] Dịch thuật ngữ 'Pass' trong kỹ thuật thuần hóa quái vật (đoạn 100) — tạm chọn 'truyền sang' (mô tả khoảnh khắc ý chí/ma pháp chi phối tâm trí quái vật; phương án khác: 'tương thông', 'truyền dẫn'). Tạm dùng trong bản dịch: 'truyền sang'. Đề xuất: giữ 'truyền sang' theo ngữ cảnh. → Giữ 'truyền sang' theo ngữ cảnh (orchestrator)
 - [#51] Dịch phân loài quái vật 'Goblin Generals' và 'Goblin Kings' — tạm chọn 'Đại Tướng Goblin' và 'Vua Goblin' (phương án khác: 'Tướng Goblin', 'Goblin Vương'). Tạm dùng trong bản dịch: 'Đại Tướng Goblin' và 'Vua Goblin'. → Giữ 'Đại Tướng Goblin' và 'Vua Goblin' theo quy tắc chủng tộc quái vật trong rules.md (orchestrator)
+- [#52] Tên riêng của chuột quyến thuộc 'Edel' do Lorraine đặt — tạm chọn giữ nguyên 'Edel' theo quy tắc tên riêng phương Tây trong rules.md (phương án khác: dịch nghĩa 'Cao Quý'). Tạm dùng trong bản dịch: 'Edel'. → Giữ nguyên 'Edel' theo quy tắc tên riêng trong rules.md (orchestrator)
+- [#52] Dịch loài quái vật 'Sea Snakes' ở Đầm Lầy Tarasque (đoạn 95) — tạm chọn 'Rắn Biển' (phương án khác: 'Thủy Xà'). Tạm dùng trong bản dịch: 'Rắn Biển'. → Giữ 'Rắn Biển' (nhất quán với 'Rắn Khổng Lồ') (orchestrator)

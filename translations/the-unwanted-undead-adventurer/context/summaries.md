@@ -302,6 +302,13 @@ Rentt để Alize trực tiếp tiêu diệt một con Puchi Suri nhỏ dưới 
 Đêm đến, Rentt thức trắng đọc sách vì cơ thể Thi Quỷ không cần ngủ trong khi con chuột ngủ say sưa; qua liên kết tâm trí, anh cảm nhận được cảm xúc cơ bản của nó.
 Sáng hôm sau, bị hấp dẫn bởi mùi thơm lạ từ bếp, Rentt ngạc nhiên thấy Lorraine dậy sớm tự tay dùng ma cụ nấu bữa sáng cho cả hai trước khi anh lên đường.
 
+## 52
+Lorraine nấu món hầm thịt Orc có nhỏ một giọt máu riêng cho Rentt làm bữa sáng chúc phúc trước chuyến đi; hai người trò chuyện về tập tục phụ nữ dùng máu nguyền rủa dân gian để trói buộc đàn ông.
+Lorraine đặt tên cho con chuột quyến thuộc Puchi Suri của Rentt là Edel (kẻ cao quý trong ngôn ngữ cổ) sau khi nó từ chối các tên Moppel và Fressa.
+Rentt mang theo Edel đi xe ngựa đến rìa Đầm Lầy Tarasque; người đánh xe tốt bụng cảnh báo mối hiểm nguy của đầm lầy và hẹn chuyến xe đón vào chiều tối.
+Nhờ cơ thể Thi Quỷ kháng độc kết hợp Thần Lực thanh tẩy, Rentt tự tin gạt bỏ phần lớn hiểm họa chướng khí, độc thủy và quái vật tẩm độc (Slime Độc, Goblin, Rắn Biển) để dấn bước vào sâu trong đầm lầy.
+
+
 
 
 

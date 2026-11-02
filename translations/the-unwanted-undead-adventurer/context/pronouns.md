@@ -24,6 +24,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Amiris | Amiris / cô gái / thiếu nữ | 46 | Thiếu nữ Làng Todds, em gái Ryuntus |
 | Lillian | Lillian / Sơ Lillian / người phụ nữ | 49 | Nữ tu phụ trách Cô Nhi Viện Thứ Hai Maalt |
 | Alize | Alize / cô bé | 49 | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt |
+| Edel | Edel / con chuột / chú chuột | 52 | Chuột Puchi Suri quyến thuộc của Rentt |
 
 ## Giữa các nhân vật
 

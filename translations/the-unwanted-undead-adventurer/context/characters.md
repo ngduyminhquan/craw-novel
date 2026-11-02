@@ -24,6 +24,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Amiris |  | Amiris | Thiếu nữ Làng Todds, em gái Ryuntus, người bị chọn làm tế vật cho Chúa Tể Hồ | #46 |
 | Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |
 | Alize |  | Alize | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt, người đưa ra ủy thác thu thập Hoa Long Huyết | #48 |
+| Edel |  | Edel | Chuột Puchi Suri quyến thuộc của Rentt, được Lorraine đặt tên | #52 |
 
 ## Chi tiết
 
@@ -156,3 +157,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Cố gắng nói năng trang trọng, lịch sự như người lớn khi đại diện cô nhi viện tiếp khách; khi được Rentt cho phép thì nói chuyện tự nhiên, hồn nhiên đúng lứa tuổi, xưng "em", gọi "anh Rentt" / "anh"; kính trọng gọi "Sơ Lillian" (Lady Lillian).
 - Quan hệ: Đứa trẻ lớn đảm nhận vai trò trợ tá ("cánh tay phải") của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; người bí mật đổi nội dung ủy thác thành tìm Hoa Long Huyết nhằm chữa bệnh cho Sơ Lillian.
 - Trạng thái tính đến chương 51: Cùng Rentt xuống căn hầm chứa đồ, tự tay hạ gục một con Puchi Suri nhỏ bằng dao tự vệ và được Rentt tặng viên Ma Tinh làm tiền tiêu vặt; chứng kiến con Puchi Suri ngoại cỡ quyến thuộc của Rentt áp chế bầy chuột nhỏ canh giữ căn hầm.
+
+### Edel
+- Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
+- Tính cách: Háu ăn, kiêu ngạo, có ý thức tự chủ cao; thích được xem là cao quý thay vì mập mạp béo tròn; thích nghi nhanh nhưng không mấy trung thành, hay phản ứng lại khi Rentt định dùng làm mồi nhử.
+- Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định.
+- Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
