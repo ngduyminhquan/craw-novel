@@ -211,4 +211,11 @@ Nhóm Rentt tiến vào phòng thủ lĩnh tầng một và đối đầu với 
 Laura hoàn tất câu niệm và tung ra ma pháp hỏa hệ uy lực Grand Prox thiêu rụi phần lớn thân thể con Slime, làm lộ ra chiếc lõi hạch; Raiz lấy lại dũng khí lao tới đâm nát chiếc lõi dứt điểm con trùm.
 Thay vì ăn mừng chiến thắng, Rentt rút các bình nón đưa cho Raiz và Laura cùng thu gom chất dịch Slime trong suốt quý giá đem bán chia tiền ăn mừng.
 
+## 37
+Sau khi hạ Đại Slime, một nhóm mạo hiểm giả nấp sẵn vượt lên trước nhưng lập tức dính bẫy khí gây mê ở cửa ra; Laura kịp thời dùng ma pháp Breeze thổi tản khói giúp nhóm Rentt an toàn, đồng thời Raiz học được bài học về sự cảnh giác.
+Cả nhóm tiến đến điểm chỉ định gặp nhân viên Hội Mạo Hiểm Giả, nhận phù hiệu chứng nhận thăng hạng Đồng Cấp cùng phần thưởng về nhất gồm thuốc hồi phục và bao da dụng cụ; mọi người nhận ra bẫy câu chữ của Hội rằng "chiến thắng" không đồng nghĩa với "thi đỗ" mà phải mang phù hiệu về Maalt an toàn.
+Trên đường trở về lối vào mê cung, Raiz cảnh giác phản xạ hạ gục ngay một tên tay sai do Hội cử tới phục kích; nhóm cẩn trọng hướng về trạm xe ngựa trở về Maalt.
+Trước sự tiến bộ và cẩn trọng của hai người đồng đội trẻ tuổi, Rentt mở lời khen ngợi khiến Raiz và Laura vừa ngượng ngùng vừa vui vẻ cười đùa.
+
+
 

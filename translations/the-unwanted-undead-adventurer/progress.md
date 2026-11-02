@@ -41,7 +41,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | reviewed |  |
 | 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | reviewed |  |
 | 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | reviewed |  |
-| 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | todo |  |
+| 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | done |  |
 | 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | todo |  |
 | 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | todo |  |
 | 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -432,3 +433,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#35] Dịch kỹ năng/chuyên môn 'information warfare' (đoạn 109) — tạm chọn 'chiến tranh thông tin' (phương án khác: 'tác chiến thông tin', 'thu thập tình báo'). → Chốt 'chiến tranh thông tin'. (orchestrator)
 - [#36] Dịch tên loài quái vật 'Grand Slime' — tạm chọn 'Đại Slime' (phương án khác: 'Grand Slime', 'Slime Khổng Lồ'). Tạm dùng trong bản dịch: 'Đại Slime'. → Chốt 'Đại Slime'. (orchestrator)
 - [#35] Xưng hô của Raiz Dunner với Rentt Faina → Cập nhật pronouns.md: Raiz gọi Rentt là 'anh / Rentt'. (orchestrator)
+- [#37] Xưng hô của Laura Satii với Rentt: raw chương 37 Laura bắt đầu gọi "Rentt" ("Did you know this would happen, Rentt?") thay vì "Mister Vivie" — tạm giữ nguyên "anh Vivie" theo pronouns.md; đề xuất đổi sang "anh Rentt" từ chương 37 trở đi nếu muốn thể hiện sự thân thiết sau khi lập tổ đội và vượt qua thử thách. → Giữ nguyên Laura gọi Rentt là 'anh Vivie' (hoặc 'anh' trong câu) vì ở chương 38 raw Laura vẫn gọi 'Mister Vivie'. (orchestrator)
