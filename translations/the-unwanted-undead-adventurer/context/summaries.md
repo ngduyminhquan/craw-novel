@@ -206,8 +206,9 @@ Nhóm ba người thuận lợi tiến đến trước cánh cửa đá dẫn v�
 Đúng lúc đó, một nhóm bốn thí sinh khác kéo đến và tên cầm đầu buông lời khiêu khích, quấy rối Laura nhưng lập tức bị lưỡi kiếm kề cổ của Rentt dọa cho khiếp vía; Rentt chủ động nhường nhóm này vào phòng thủ lĩnh trước nhằm giúp đồng đội thám thính quái vật.
 Nhóm bốn người nhanh chóng bị con quái vật thủ lĩnh hạ gục và được nhân viên Hội mặc đồ đen kịp thời can thiệp giải cứu; chứng kiến đối thủ thất bại thảm hại, Raiz và Laura lấy lại tự tin cùng tinh thần quyết tâm, sẵn sàng cùng Rentt bước vào phòng thủ lĩnh.
 
-
-
-
+## 36
+Nhóm Rentt tiến vào phòng thủ lĩnh tầng một và đối đầu với một con Đại Slime (Grand Slime) khổng lồ; Rentt và Raiz phối hợp câu giờ, né tránh đòn phun axit Acid Blitz và các chi cánh tay để đánh lạc hướng quái vật.
+Laura hoàn tất câu niệm và tung ra ma pháp hỏa hệ uy lực Grand Prox thiêu rụi phần lớn thân thể con Slime, làm lộ ra chiếc lõi hạch; Raiz lấy lại dũng khí lao tới đâm nát chiếc lõi dứt điểm con trùm.
+Thay vì ăn mừng chiến thắng, Rentt rút các bình nón đưa cho Raiz và Laura cùng thu gom chất dịch Slime trong suốt quý giá đem bán chia tiền ăn mừng.
 
 

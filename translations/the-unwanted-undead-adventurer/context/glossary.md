@@ -56,7 +56,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Thousand-year Bronze-class | The Thousand-year Bronze-class | Đồng Cấp Ngàn Năm | danh hiệu | 4 | Biệt danh trêu chọc của Rentt vì kẹt ở Hạ Đồng Cấp suốt 10 năm |
 | spirit art | spirit arts; Spirit Art; Spirit Arts | Khí Thuật | kỹ năng | 2 | Kỹ thuật vận dụng Khí Lực cường hóa cơ thể và đòn đánh |
 | Priest | priests; priest | tư tế | chức nghiệp | 2 | Người phục vụ giáo hội, sử dụng Thần Lực thanh tẩy và giải trừ nguyền rủa |
-| Great Professor |  | Đại Học Sĩ | danh hiệu | 13 | Học vị học thuật đỉnh cao tại viện giáo dục vương quốc (大博士) |
+| Great Professor | Great Scholar | Đại Học Sĩ | danh hiệu | 13 | Học vị học thuật đỉnh cao tại viện giáo dục vương quốc (大博士) |
 | Professor |  | Học Sĩ | danh hiệu | 13 | Học vị học thuật cao cấp tại viện giáo dục vương quốc (博士) |
 | Thrice-blessed | thrice-blessed | Tam Chúc Phúc | khác | 15 | Người có thể sử dụng đồng thời cả 3 nguồn năng lượng: Ma Lực, Khí Lực và Thần Lực (三重複/三重祝福) |
 | holy arts | holy art; Holy Art; Holy Arts | thánh thuật | kỹ năng | 15 | Kỹ thuật sử dụng Thần Lực của tư tế/người theo đạo |
@@ -78,3 +78,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Labyrinth Orc | Labyrinth Orcs | Orc Mê Cung | quái vật | 30 | Phân loài Orc sinh sống đơn độc trong mê cung |
 | Shield | Shield spell | Khiên Chắn | kỹ năng | 26 | Ma pháp phòng ngự tạo ra lớp khiên ma lực bảo vệ bản thân (シールド) |
 | Maalt-Hoonoki |  | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |
+| Grand Slime | Grand Slimes | Đại Slime | quái vật | 36 | Phân loài Slime khổng lồ thường làm quái vật thủ lĩnh các tầng nông hoặc quái thường tầng sâu |
+| Grand Prox | Grand! Prox!! | GRAND! PROX!! | kỹ năng | 36 | Ma pháp hỏa hệ cấp cao của Laura Satii (câu chú giữ nguyên) |

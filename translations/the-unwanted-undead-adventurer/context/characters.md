@@ -109,11 +109,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Năng nổ, bộc trực, tự tin, chủ động nhận vai trò trưởng nhóm nhưng biết cư xử lịch thiệp, biết cúi đầu chào hỏi đồng đội.
 - Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
 - Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
-- Trạng thái tính đến chương 35: Cùng Rentt và Laura vượt qua nhiều cạm bẫy tiến đến trước phòng thủ lĩnh tầng một; ban đầu chùn bước vì chưa từng vào phòng thủ lĩnh, nhưng sau khi xem nhóm thí sinh khác giao chiến và được Rentt khích lệ, cậu lấy lại dũng khí và quyết tâm xông vào khiêu chiến.
+- Trạng thái tính đến chương 36: Tự nhận vai trò tiên phong quấy nhiễu Slime để tích lũy kinh nghiệm thực chiến sau khi hổ thẹn vì từng khiếp sợ trước kích thước con trùm; cùng Rentt cầm chân con quái và đâm vỡ lõi hạch Đại Slime dứt điểm trận chiến; được Rentt hướng dẫn thu gom chất dịch Slime đem bán chia tiền.
 
 ### Laura Satii
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
 - Tính cách: Lễ phép, khiêm tốn, biết trước biết sau, hỗ trợ đồng đội chu đáo từ tuyến sau.
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
-- Trạng thái tính đến chương 35: Đi bọc hậu hỗ trợ ma pháp trong đội hình, nhanh nhạy nhận ra ẩn ý trong thể lệ thi của Hội theo lời gợi ý của Rentt; né tránh tên thí sinh khiêu khích và lấy lại sự tự tin để cùng Rentt và Raiz bước vào phòng thủ lĩnh.
+- Trạng thái tính đến chương 36: Được Rentt và Raiz yểm trợ câu giờ để hoàn tất bài niệm chú thi triển ma pháp hỏa hệ uy lực Grand Prox thiêu rụi Đại Slime; cùng Raiz thu gom chất dịch Slime theo hướng dẫn của Rentt.

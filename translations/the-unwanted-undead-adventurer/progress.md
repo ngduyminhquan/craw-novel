@@ -40,7 +40,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | reviewed |  |
 | 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | done |  |
 | 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | done |  |
-| 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | todo |  |
+| 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | done |  |
 | 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | todo |  |
 | 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | todo |  |
 | 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -431,3 +430,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#35] Xưng hô của tên trưởng nhóm thí sinh bất hảo với Rentt và Laura — tạm chọn tên này xưng 'tao / bọn tao' gọi 'mày / cái mặt xương xẩu kia' với Rentt, xưng 'bọn anh' gọi 'cô em' với Laura (phù hợp tính cách côn đồ khiêu khích và sàm sỡ tân binh; phương án khác: xưng 'ta / bọn ta' gọi 'ngươi'). → Chốt tên trưởng nhóm xưng 'tao / bọn tao' gọi 'mày / cái mặt xương xẩu kia' với Rentt, xưng 'bọn anh' gọi 'cô em' với Laura. (orchestrator)
 - [#35] Dịch biệt danh miệt thị 'skull face' (đoạn 75) của tên thí sinh bất hảo nhắm vào Rentt — tạm chọn 'cái mặt xương xẩu kia' (phương án khác: 'tên mặt xương', 'tên mặt đầu lâu'). → Chốt 'cái mặt xương xẩu kia'. (orchestrator)
 - [#35] Dịch kỹ năng/chuyên môn 'information warfare' (đoạn 109) — tạm chọn 'chiến tranh thông tin' (phương án khác: 'tác chiến thông tin', 'thu thập tình báo'). → Chốt 'chiến tranh thông tin'. (orchestrator)
+- [#36] Dịch tên loài quái vật 'Grand Slime' — tạm chọn 'Đại Slime' (phương án khác: 'Grand Slime', 'Slime Khổng Lồ'). Tạm dùng trong bản dịch: 'Đại Slime'. → Chốt 'Đại Slime'. (orchestrator)
