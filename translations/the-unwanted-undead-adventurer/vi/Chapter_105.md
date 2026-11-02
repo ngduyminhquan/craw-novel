@@ -8,7 +8,7 @@ Trong khi Ma Lực hoàn toàn vô hình trước mắt thường, thì Thần L
 
 Dù vậy, thứ tôi đang chứng kiến là một khối Thần Lực ngưng tụ với mật độ vô cùng đậm đặc. Trữ lượng của tôi chắc chắn đã cạn kiệt từ lâu nếu dám bắt chước làm một việc như thế.
 
-Dù Nive Maris mang tước vị Nữ Chuẩn Nam tước, song xét cho cùng thì cô vẫn là một mạo hiểm giả. Thật đáng kinh ngạc khi thấy một người sở hữu trữ lượng Thần Lực khổng lồ dường ấy lại bôn ba ngoài nơi hoang dã theo cách này. Trong hoàn cảnh bình thường, những cá nhân sở hữu lượng Thần Lực lớn đến vậy ắt hẳn từ lâu đã nhận được lời mời từ các đoàn thể tôn giáo hay các kỵ sĩ đoàn thánh chiến. Những tổ chức ấy sẽ tìm mọi cách chèo kéo để rước những nhân tài xuất chúng như thế vào hàng ngũ của họ.
+Dù Nive Maris mang tước vị Nữ Chuẩn Nam tước, song xét cho cùng thì cô vẫn là một mạo hiểm giả. Thật đáng kinh ngạc khi thấy một người sở hữu trữ lượng Thần Lực khổng lồ dường ấy lại bôn ba ngoài nơi hoang dã theo cách này. Trong hoàn cảnh bình thường, những cá nhân sở hữu lượng Thần Lực lớn đến vậy ắt hẳn từ lâu đã nhận được lời mời từ các đoàn thể tôn giáo hay các thánh kỵ sĩ đoàn. Những tổ chức ấy sẽ tìm mọi cách chèo kéo để rước những nhân tài xuất chúng như thế vào hàng ngũ của họ.
 
 Nghĩ đến điều đó, tôi đoán bản thân Nive có mưu tính riêng nào đó. Rất có thể là đi săn Ma Cà Rồng, xét theo tất cả những gì tôi đã quan sát được cho tới lúc này.
 

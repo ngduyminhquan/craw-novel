@@ -36,7 +36,7 @@ Nỗi bất bình của tôi bằng cách nào đó đã lọt vào mắt Nive. 
 
 Cô ta nói thế mà nghe được à! Bản thân Nive mới là kẻ dị thường nhất ở đây, vậy mà cô ta lại biến toàn bộ sự cố này thành lỗi của tôi.
 
-Phần lớn mạo hiểm giả được Thần Lực ban phước đều không đạt tới trình độ có thể vận dụng vào thực tế. Nếu sở hữu trữ lượng và kỹ năng cỡ đó, họ đã gia nhập hàng ngũ của kỵ sĩ đoàn thánh chiến nào đó từ lâu rồi. Theo những gì tôi hiểu, nơi ấy trả thù lao rất hậu hĩnh, và địa vị xã hội của bản thân cũng sẽ được nâng cao đáng kể.
+Phần lớn mạo hiểm giả được Thần Lực ban phước đều không đạt tới trình độ có thể vận dụng vào thực tế. Nếu sở hữu trữ lượng và kỹ năng cỡ đó, họ đã gia nhập hàng ngũ của thánh kỵ sĩ đoàn nào đó từ lâu rồi. Theo những gì tôi hiểu, nơi ấy trả thù lao rất hậu hĩnh, và địa vị xã hội của bản thân cũng sẽ được nâng cao đáng kể.
 
 Thế nhưng nếu tôi không sở hữu Thần Lực, và không nhận ra ngọn lửa của cô ta... thì liệu điều đó có đồng nghĩa với việc Nive đã dễ dàng phát hiện ra tôi ngay từ đầu, rồi bất thình lình cắm một chiếc cọc nhọn nào đó xuyên qua tim tôi không?
 
