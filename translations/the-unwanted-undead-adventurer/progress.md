@@ -126,7 +126,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | reviewed |  |
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | reviewed |  |
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | done |  |
-| 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | todo |  |
+| 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | done |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | todo |  |
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | todo |  |
 | 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | todo |  |
@@ -627,3 +627,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#121] Đồng nhất 'mine goblin' với 'Mina Goblin' (#96) — tạm chọn 'Goblin Mỏ Quặng' và thêm vào Alias của 'Mina Goblin' trong glossary.md (phương án khác: tách dòng riêng 'Goblin Hầm Mỏ'). Tạm dùng trong bản dịch: 'Goblin Mỏ Quặng'. → Chốt dùng 'Goblin Mỏ Quặng' (thêm alias 'mine goblin; Mine Goblin' vào mục 'Mina Goblin' trong glossary.md). (orchestrator)
 - [#121] Cách Alize gọi Lorraine khi thốt lên 'Professor Lorraine!' lúc làm thành công ma pháp trận (đoạn 52) — tạm chọn 'thưa Học Sĩ Lorraine!' theo bối cảnh giờ học và tương đồng chương 77 (phương án khác: 'cô Lorraine!'). Tạm dùng trong bản dịch: 'thưa Học Sĩ Lorraine!'. → Chốt Alize gọi 'thưa Học Sĩ Lorraine!' khi thưa gửi trong giờ học (đồng nhất với chương 77). (orchestrator)
 - [#121] Dịch quái vật 'fire dragon' trong giai thoại của Conra (đoạn 41) — tạm chọn 'rồng lửa' phù hợp lời kể chuyện (phương án khác: 'Hỏa Long'). Tạm dùng trong bản dịch: 'rồng lửa'. → Chốt dịch thường là 'rồng lửa' vì chỉ là từ miêu tả chung trong giai thoại, không viết hoa trong raw. (orchestrator)
+- [#122] Dịch cấp bậc 'Legendary-class' (trong 'Legendary-class artisan') — tạm chọn 'Truyền Thuyết Cấp' (đồng bộ với các cấp bậc -class khác: Thiết Cấp, Đồng Cấp, Bạch Kim Cấp, Mithril Cấp; phương án khác: 'cấp Truyền Thuyết', 'Huyền Thoại Cấp'). → Chốt dùng 'Truyền Thuyết Cấp' (đồng bộ với hệ thống hậu tố -class đã dùng trong truyện). (orchestrator)

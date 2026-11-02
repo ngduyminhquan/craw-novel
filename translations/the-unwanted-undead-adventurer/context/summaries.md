@@ -713,6 +713,13 @@ Lorraine hướng dẫn cách rót Ma Lực vào cọ vẽ mực; Alize lỡ tay
 Cả hai vẽ xong ma pháp trận lên bảng đồng và đặt Ma Tinh lên để hấp thụ; Alize thành công tạo ra ma pháp trận màu đen hoàn chỉnh và được Lorraine khen ngợi.
 Ma Tinh của Rentt lại biến đổi ma pháp trận thành màu vàng loang lổ xanh lục do ảnh hưởng từ Thần Lực và bản chất Undead; dù thoáng chạnh lòng vì sự khác thường của mình, Rentt nhanh chóng lấy lại tinh thần nhờ lời khen ngây thơ của Alize trước khi tiếp tục công đoạn hoàn thiện đũa phép.
 
+## 122
+Lorraine giải thích vai trò của phần tay cầm trong việc điều khiển và khuếch đại Ma Lực, đồng thời cho biết giới hạn đính Ma Tinh lên vật dẫn của thợ thủ công Truyền Thuyết Cấp và các nhà giả kim.
+Rentt và Alize dùng Ma Lực bóc tách và gọt đẽo gỗ Ent Bụi Cây thành đũa phép; trong lúc thực hành, Rentt ngẫu hứng tạc tượng gỗ Lorraine và Alize khiến Lorraine vừa kinh ngạc trước sự khéo tay dị thường của anh vừa tịch thu phạt.
+Lorraine hướng dẫn cách nắn thẳng các đường dẫn ma lực hỗn loạn bên trong đũa phép để tối ưu hóa lưu thông năng lượng, đồng thời chia sẻ kỷ niệm từng tức giận ném đũa phép vào mặt thầy giáo cũ ở quê nhà.
+Bước vào công đoạn cuối cùng, cả Rentt và Alize cùng rót Ma Lực đồng thời vào cả đũa phép và Ma Tinh; Rentt bắt đầu định hình đầu đũa phép bao quanh viên Ma Tinh của mình trong khi Lorraine quay sang hướng dẫn cho Alize.
+
+
 
 
 

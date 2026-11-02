@@ -230,3 +230,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | shrub ent | shrub ents; Shrub ent; Shrub ents | Ent Bụi Cây | quái vật | 120 | Phân loài Ent dạng cây bụi nhỏ, gỗ dùng làm vật liệu chế tạo đũa phép (低木エント) |
 | three-dimensional layered magic circle | three-dimensional layered magic circles; Three-dimensional layered magic circles; 3D layered magic circles | ma pháp trận xếp tầng ba chiều | kỹ năng | 120 | Ma pháp trận phức hợp nhiều lớp trong không gian ba chiều chứa lượng thông tin lớn (三次元積層魔法陣) |
 | multi-dimensional layered magic circle | multi-dimensional layered magic circles | ma pháp trận xếp tầng đa chiều | kỹ năng | 120 | Ma pháp trận phức hợp từ bốn chiều trở lên (多次元積層魔法陣) |
+| Legendary-class |  | Truyền Thuyết Cấp | cấp bậc | 122 | Cấp bậc huyền thoại/truyền thuyết (伝説級) |
