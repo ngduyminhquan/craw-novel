@@ -92,7 +92,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Edel | ta / tao | mày / Edel | 53 | Chủ nhân nói chuyện hoặc truyền ý nghĩ tới quyến thuộc |
 | Lorraine Vivie | Edel | tôi | mày / Edel | 52 | Đặt tên và dặn dò chú chuột quyến thuộc của Rentt |
 | Rentt Faina | Isaac Hart | tôi | anh / Isaac | 56 | Mạo hiểm giả nói chuyện với quản gia quý tộc |
-| Isaac Hart | Rentt Faina | tôi | ngài / quý ngài | 56 | Quản gia quý tộc xưng hô lịch thiệp, tôn trọng mạo hiểm giả |
+| Isaac Hart | Rentt Faina | tôi | ngài / quý ngài / ngài Vivie | 56 | Quản gia quý tộc xưng hô lịch thiệp, tôn trọng mạo hiểm giả (raw: Mister Vivie từ #69) |
 | Sheila Ibarss | Dario Costa | cháu | chú Dario | 58 | Tiếp tân viên trẻ tuổi lễ phép và thân thiết với chuyên gia mổ xẻ kỳ cựu |
 | Dario Costa | Sheila Ibarss | chú | cháu / cô bé / Sheila | 58 | Chuyên gia mổ xẻ kỳ cựu nói chuyện xuề xòa, thân mật với tiếp tân viên Hội |
 | Rentt Faina | Dario Costa | tôi | chú Dario | 58 | Mạo hiểm giả trẻ tuổi xưng hô lịch sự với chuyên gia mổ xẻ kỳ cựu |

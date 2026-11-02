@@ -403,3 +403,10 @@ Laura giải thích cô bé mắc Bệnh Tích Tụ Chướng Khí giai đoạn 
 Dù ngạc nhiên trước tầm ảnh hưởng đáng sợ của nhà Latuule khi Laura đoán ra anh từng hái hoa cho cô nhi viện, Rentt vẫn kiên định giữ nguyên tắc bảo mật và không tiết lộ danh tính Sơ Lillian.
 Hài lòng với các điều khoản và thù lao, Rentt đồng ý nhận ủy thác định kỳ; hai bên bắt tay giao kết hợp đồng và Laura cho phép Rentt tiếp tục gọi thẳng tên mình một cách thân mật.
 
+## 69
+Isaac hộ tống Rentt ra cổng qua mê cung hoa hồng bằng ma cụ điều khiển, đồng thời dặn cách thức liên lạc cho những lần giao Hoa Long Huyết kế tiếp; Rentt thu nhỏ mô hình phi thuyền mang về nhà an toàn.
+Hôm sau tại nhà Lorraine, Rentt thảo luận về bình máu Ma Cà Rồng và được biết Lorraine vừa thức đêm biên soạn 10 tập giáo trình ma thuật dự định truyền thụ cho Alize; cả hai tranh luận vui vẻ về con đường học giả hay mạo hiểm giả cho cô bé.
+Trước cảnh báo về mối hiểm họa chết người khi uống máu Ma Cà Rồng, Rentt lôi phi thuyền mô hình ra chơi để tạm gác nỗi sợ hãi, thậm chí vô tình chuyển dịch ý thức nhìn thấy góc nhạy cảm của Lorraine.
+Hiểu thấu khát khao chạm tới cảnh giới Mithril Cấp bất chấp hiểm nguy của Rentt, Lorraine cam kết sẽ hết lòng ủng hộ và lo liệu hậu sự nếu kịch bản tồi tệ xảy ra; Rentt dặn cô sẵn sàng dùng ma pháp thiêu rụi anh nếu hóa điên rồi dốc cạn bình máu vào họng.
+
+

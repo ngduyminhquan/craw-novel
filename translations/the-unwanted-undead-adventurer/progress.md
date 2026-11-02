@@ -73,7 +73,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 66 |  | Chapter_066 - Vol 3 Chapter 2 - And an Equally Peculiar Request (6).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (6) | reviewed |  |
 | 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | done |  |
 | 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | done |  |
-| 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | todo |  |
+| 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | done |  |
 | 70 |  | Chapter_070 - Vol 3 Chapter 3 - A New Existential Evolution (1).txt | Vol 3 Chapter 3 - A New Existential Evolution (1) | todo |  |
 | 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | todo |  |
 | 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | todo |  |
@@ -350,6 +350,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -506,3 +507,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#67] Dịch phân loài quái vật 'Matured Vampires' (đoạn 22) — tạm chọn 'Ma Cà Rồng Trưởng Thành' (phù hợp bậc tiến hóa kế tiếp của Hạ Cấp Ma Cà Rồng; phương án khác: 'Thượng Cấp Ma Cà Rồng', 'Ma Cà Rồng Cấp Cao'). Tạm dùng trong bản dịch: 'Ma Cà Rồng Trưởng Thành'. → Chốt 'Ma Cà Rồng Trưởng Thành' (khớp nguyên tác 成体吸血鬼 — bậc tiến hóa kế tiếp của Hạ Cấp Ma Cà Rồng). (orchestrator)
 - [#68] Dịch giai đoạn bệnh 'terminal stage' của Bệnh Tích Tụ Chướng Khí (đoạn 68) — tạm chọn 'giai đoạn cuối' (ngữ cảnh bệnh mạn tính nan y không thể chữa dứt điểm nhưng không chết ngay; phương án khác: 'giai đoạn mạn tính', 'giai đoạn thoái hóa'). Tạm dùng trong bản dịch: 'giai đoạn cuối'. → Chốt 'giai đoạn cuối' (cụm miêu tả chung cho 'terminal stage', giữ tự nhiên trong ngữ cảnh bệnh mạn tính không thể chữa dứt điểm). (orchestrator)
 - [#68] Dịch cụm 'rose-hedge maze' (đoạn 3, 11) — tạm chọn 'mê cung hàng rào hoa hồng' (nhất quán với các chương #62, #64; phương án khác: 'mê cung tường vi', 'mê cung hoa hồng'). Tạm dùng trong bản dịch: 'mê cung hàng rào hoa hồng'. → Chốt 'mê cung hàng rào hoa hồng' (nhất quán với các chương #62, #64; cụm miêu tả chung không cần thêm vào glossary). (orchestrator)
+- [#69] Danh xưng Isaac Hart gọi Rentt Faina 'Mister Vivie' (đoạn 24) — tạm chọn 'ngài Vivie' (phù hợp phong thái quản gia quý tộc lịch thiệp với mạo hiểm giả; phương án khác: 'ông Vivie', 'tiên sinh Vivie'). Tạm dùng trong bản dịch: 'ngài Vivie'. → Chốt 'ngài Vivie' (nhất quán với cách gọi 'ngài' của Isaac Hart từ #56 và Laura Latuule từ #62; đã cập nhật vào pronouns.md). (orchestrator)

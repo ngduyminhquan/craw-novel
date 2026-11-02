@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 66: Bị nhốt và suýt chết trước đòn tấn công của con Golem ma cụ trong tầng hầm nhà Latuule, chặt đứt một tay Golem và định dùng át chủ bài Ma Lực trước khi được Laura giải cứu; tiếp tục đi sâu vào hầm chọn thưởng.
+- Trạng thái tính đến chương 69: Nhận bình máu Ma Cà Rồng và mô hình phi thuyền nhỏ từ Laura, được Isaac hộ tống an toàn rời dinh thự Latuule; trở về nhà Lorraine, sau cuộc tâm sự và được Lorraine hết lòng thấu hiểu ủng hộ, Rentt dốc cạn bình máu Ma Cà Rồng vào miệng để tìm kiếm cơ hội Tiến Hóa Bản Thể.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -63,7 +63,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 52: Nấu món hầm thịt Orc nhỏ thêm giọt máu riêng cho Rentt làm bữa sáng chúc phúc; giải thích về hủ tục phụ nữ dùng máu nguyền rủa trói buộc đàn ông trong lễ hội xưa; đặt tên cho con chuột quyến thuộc của Rentt là Edel (kẻ cao quý trong cổ ngữ) sau khi nó từ chối các tên Moppel và Fressa; dặn dò Rentt cẩn thận trước khi anh lên đường tới Đầm Lầy Tarasque.
+- Trạng thái tính đến chương 69: Thức đêm biên soạn giáo trình ma thuật 10 tập để chuẩn bị dạy cho Alize; cảnh báo Rentt về sự nguy hiểm chết người của máu Ma Cà Rồng nhưng hết lòng thấu hiểu, ủng hộ ước mơ Mithril Cấp và hứa sẽ chăm sóc phần mộ cho Rentt nếu anh gặp bất trắc; sẵn sàng ma pháp theo lời dặn của Rentt khi anh uống cạn bình máu.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
