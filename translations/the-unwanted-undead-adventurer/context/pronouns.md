@@ -55,6 +55,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Melissa | Melissa / mẹ / người phụ nữ | 139 | Mẹ ruột của Rentt Faina |
 | Pravda | Pravda / bà / bà lão | 139 | Mẹ của Trưởng Làng Ingo, bà nuôi của Rentt |
 | Jinlin | Jinlin / cô bé | 139 | Con gái Trưởng Làng Ingo, bạn thanh mai trúc mã của Rentt |
+| Tilya | Tilya / nàng tiên / cô | 140 | Nàng tiên tí hon được Jinlin và Rentt cứu |
 
 ## Giữa các nhân vật
 
@@ -221,3 +222,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jinlin | Pravda | cháu | bà | 139 | Cháu gái nói chuyện với bà nội |
 | Pravda | Rentt Faina | bà | cháu / Rentt | 139 | Bà nuôi nói chuyện với cháu nuôi |
 | Rentt Faina | Pravda | cháu | bà / bà Pravda | 139 | Cháu nuôi nói chuyện với bà nuôi |
+| Jinlin | Tilya | tớ | cậu | 140 | Cô bé 5 tuổi hỏi han nàng tiên tí hon |
+| Tilya | Jinlin | tôi | cậu | 140 | Nàng tiên cảm ơn cô bé cứu mạng |
+| Rentt Faina | Tilya | tôi | cô / Tilya | 140 | Rentt nói chuyện với nàng tiên |

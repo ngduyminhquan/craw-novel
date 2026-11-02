@@ -827,4 +827,11 @@ Rentt hồi tưởng lại tuổi thơ nhút nhát, hiền lành, ngoại hình 
 Sau chuyến đi xe ngựa dài ngày, Jinlin bị say xe nên Rentt đưa cô bé ra chỗ thoáng đãng; Jinlin nằng nặc đòi Rentt dắt đi khám phá thị trấn bất chấp lời dặn của bà Pravda khiến Rentt phải chiều theo.
 Chương kết thúc với sự day dứt khôn nguôi của Rentt khi tự trách bản thân thời thơ ấu đã không kiên quyết ngăn cản Jinlin trước khi thảm kịch ập đến.
 
+## 140
+Rentt và Jinlin đi dạo quanh thị trấn buôn bán và tình cờ phát hiện nàng tiên Tilya cao chừng 15cm bị mắc áo trên ngọn cây cao kêu cứu; do người lớn xung quanh không có Ma Lực nên không thể nhìn thấy nàng tiên, Jinlin đã bất chấp nguy hiểm trèo lên cây giải cứu.
+Cành cây gãy lìa khiến Jinlin ôm nàng tiên rơi xuống, Rentt kịp thời lao tới lấy thân mình làm đệm đỡ giúp cả hai thoát nạn mà không bị thương nặng; nàng tiên Tilya cảm ơn, xưng danh và hứa sẽ đền ơn nếu tái ngộ rồi vội vã bay đi.
+Bà nội nuôi Pravda giận dữ xuất hiện giáo huấn hai đứa trẻ một trận nhớ đời vì tự tiện đi lạc và coi thường hiểm nguy nơi xứ lạ trước khi ôm chầm lấy chúng vì nhẹ nhõm.
+Tối hôm đó tại quán trọ, Jinlin bộc bạch ước mơ muốn trở thành mạo hiểm giả để chu du ngắm nhìn những cảnh tượng kỳ thú khắp thế giới thay vì gò bó làm trưởng làng; chương kết thúc khi Rentt trăn trở suy nghĩ về lời rủ rê của Jinlin rồi chìm vào giấc ngủ.
+
+
 

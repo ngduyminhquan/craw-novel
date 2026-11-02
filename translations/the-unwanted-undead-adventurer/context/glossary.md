@@ -259,3 +259,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Projection magic | projection magic; projection spell; projection spells; Illusion magic; illusion magic | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |
 | Gate of the Dead |  | Cổng Cõi Chết | khác | 139 | Cánh cổng nơi các linh hồn người chết đi qua sang thế giới bên kia (死者の門) |
 | necromancer | necromancers | pháp sư Tử Linh | chức nghiệp | 139 | Người sử dụng Tử Linh Thuật triệu hồi hoặc thao túng linh hồn người chết (死霊術士) |
+| fairy | fairies; Fairy; Fairies | nàng tiên | chủng tộc | 140 | Chủng sinh vật tí hon có cánh, chỉ người có ma lực mới nhìn thấy được một số phân loài (妖精) |

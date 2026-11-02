@@ -144,7 +144,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | reviewed |  |
 | 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | reviewed |  |
 | 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | done |  |
-| 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | todo |  |
+| 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | done |  |
 | 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | todo |  |
 | 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | todo |  |
 | 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -690,3 +691,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#139] Dịch thuật ngữ 'Gate of the Dead' — tạm chọn 'Cổng Cõi Chết' (phương án khác: 'Cổng Người Chết', 'Cổng Hoàng Tuyền', 'Cổng Vong Hồn'). Tạm dùng trong bản dịch: 'Cổng Cõi Chết'. → Giữ 'Cổng Cõi Chết' (orchestrator) (orchestrator)
 - [#139] Xưng hô giữa Rentt và bạn thuở nhỏ Jinlin lúc 5 tuổi — tạm chọn Rentt xưng 'tớ' gọi 'cậu / Jinlin', Jinlin xưng 'tớ' gọi 'cậu / Rentt' phù hợp trẻ con bằng tuổi chơi thân (phương án khác: xưng 'anh - em', xưng 'mình - cậu'). Tạm dùng trong bản dịch: Rentt (tớ - cậu / Jinlin), Jinlin (tớ - cậu / Rentt). → Giữ Rentt xưng 'tớ' gọi 'cậu / Jinlin', Jinlin xưng 'tớ' gọi 'cậu / Rentt' (phù hợp bạn đồng trang lứa lúc 5 tuổi) (orchestrator) (orchestrator)
 - [#139] Từ 'Papa' Rentt dùng để gọi cha nuôi Ingo khi ở trước mộ cha mẹ ruột — tạm giữ nguyên 'Papa' theo đúng phân tích của Lorraine về sự phân biệt giữa 'Papa' và 'Dad/cha' (phương án khác: dịch là 'cha nuôi' hoặc 'cha Ingo'). Tạm dùng trong bản dịch: 'Papa'. → Giữ nguyên 'Papa' để giữ nguyên sự phân biệt sắc thái giữa cách gọi cha nuôi ('Papa') và cha ruột ('cha' / 'Dad') mà Lorraine chỉ ra trong chương (orchestrator) (orchestrator)
+- [#140] Dịch chủng loài 'fairy' (và nàng tiên Tilya) — tạm chọn 'nàng tiên' cho phù hợp bối cảnh cổ tích tuổi thơ và phân biệt với 'tinh linh' (spirit) (phương án khác: 'tiểu tinh linh', 'tiên tộc'). Tạm dùng trong bản dịch: 'nàng tiên'. → Giữ 'nàng tiên' (phân biệt rõ với 'tinh linh' / spirit đã dùng trong truyện) (orchestrator)

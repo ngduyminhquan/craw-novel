@@ -67,6 +67,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Melissa |  | Melissa | Mẹ ruột của Rentt Faina, người phụ nữ xinh đẹp nổi tiếng trong làng | #139 |
 | Pravda |  | Pravda | Mẹ của Trưởng Làng Ingo Faina, bà nuôi của Rentt, chị em gái với bà lão Gharb | #139 |
 | Jinlin |  | Jinlin | Con gái Trưởng Làng Ingo Faina, bạn thanh mai trúc mã thuở nhỏ của Rentt | #139 |
+| Tilya |  | Tilya | Nàng tiên (fairy) cao khoảng 15cm có cánh chuồn chuồn, được Jinlin và Rentt cứu | #140 |
 
 ## Chi tiết
 
@@ -505,3 +506,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, con gái của Trưởng Làng Ingo Faina, bạn thanh mai trúc mã bằng tuổi của Rentt Faina (từng được hai bên gia đình hứa hôn từ nhỏ).
 - Đặc điểm: Tính cách hiếu động, nghịch ngợm, thích trèo cây, chơi đánh kiếm gỗ và luôn nhận làm mạo hiểm giả săn quái vật; thông minh, biết đọc viết từ nhỏ; bị say xe ngựa; qua đời trong chuyến đi buôn khi 5 tuổi.
 - Xuất hiện từ: #139 (qua lời kể của Rentt).
+
+### Tilya
+- Giới tính, vai trò: Nữ, nàng tiên (fairy) cao khoảng 15cm với trang phục sặc sỡ và đôi cánh như chuồn chuồn.
+- Đặc điểm: Bị mắc áo vào ngọn cành cây cao tại thị trấn buôn bán, được Jinlin trèo lên gỡ và Rentt đỡ rơi; hứa sẽ đền ơn nếu có dịp tái ngộ rồi vội vã bay đi; chỉ người sở hữu Ma Lực mới có thể nhìn thấy.
+- Xuất hiện từ: #140 (qua lời kể của Rentt).
