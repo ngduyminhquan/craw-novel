@@ -28,7 +28,7 @@ Hòa giữa dòng khách ở gần lối vào cửa hàng lúc này không ai kh
 
 Đa số những vị khách đeo mặt nạ ấy là nạn nhân của các vết bỏng hoặc vết sẹo, nên mặt nạ được dùng làm phương tiện che đi thương tật. Riêng từ những vị khách này, tôi có thể cảm nhận được những ánh nhìn phảng phất vẻ thương cảm. Trước đây tôi từng nghe nói rằng những người đeo mặt nạ đặc biệt lớn và cầu kỳ thường nhận được sự kính nể theo một cách kỳ lạ như thế.
 
-Dù vậy, những người đeo mặt nạ lộng lẫy thường cũng diện luôn một bộ trang phục xa hoa tương xứng. Còn một kẻ như tôi, mang chiếc mặt nạ cầu kỳ nhưng lại khoác chiếc áo choàng tương đối giản dị, thì trông lại càng lạc quẻ, nổi bật như một ngón tay cái sưng vù.
+Dù vậy, những người đeo mặt nạ lộng lẫy thường cũng diện luôn một bộ trang phục xa hoa tương xứng. Còn một kẻ như tôi, mang chiếc mặt nạ cầu kỳ nhưng lại khoác chiếc áo choàng tương đối giản dị, thì trông lại càng lạc quẻ, đập ngay vào mắt người khác.
 
 Nhưng tôi không thể cứ đứng trơ ra đây mà chẳng làm gì. Giờ tôi đã ở ngay lối vào trụ sở chính của Thương hội Stheno. Liệu tôi có nên cứ thế này mà bước vào không? Do tôi thường chỉ hoạt động vào đêm muộn hoặc sáng sớm—hay chí ít là vào những giờ ban chiều thưa người—nên việc đứng giữa đám đông chen chúc thế này quả là trải nghiệm mới mẻ với tôi. Dù có đôi chút hoài niệm, tôi vẫn thấy bản thân bồn chồn, tự hỏi liệu mình có nên thay đổi trang phục hay không. Có lẽ nơi này còn khiến tâm trí tôi xáo động sâu sắc hơn cả cuộc chạm trán với Rồng Đất...
 
@@ -40,7 +40,7 @@ Nghĩ vậy, tôi bước thẳng vào lối vào rồi đi qua cánh cửa.
 
 Một giọng nói cất lên chào tôi ngay khi tôi vừa đặt chân qua ngưỡng cửa. Ngay sau đó, một người đàn ông dong dỏng cao tiến lại gần tôi. Toát lên từ anh ta là vẻ chuyên nghiệp rõ rệt. Dù không chạy, nhưng từ nhịp bước chân của anh ta, tôi có thể nhận ra anh ta từng là một mạo hiểm giả.
 
-Quả không hổ danh là một cửa hàng kỳ hạm lớn... Đến cả nhân viên cũng không phải dạng vừa.
+Quả không hổ danh là một cửa hàng đầu bảng lớn... Đến cả nhân viên cũng không phải dạng vừa.
 
 Các cửa hàng bình dân thì khác, người ta có thể tùy ý ra vào thoải mái. Thú thật thì tôi thích những tiệm như thế hơn, nhưng nếu ai đó muốn tìm những món hàng đạt độ tinh xảo và phẩm chất nhất định, một cửa hàng tầm cỡ như nơi này đáng tin cậy hơn nhiều.
 
@@ -86,7 +86,7 @@ Thú thật thì lượng khách của họ lúc này đã quá đông rồi. Ch
 
 Cuối cùng, chúng tôi dừng lại trước một cánh cửa đôi bằng gỗ—mà lại còn là loại cửa trông tương đối đắt tiền nữa chứ.
 
-Chà, không chỉ đơn thuần là trông đắt tiền đâu. Bản thân cánh cửa đó có lẽ đáng giá cả một món tiền lớn. Chúng được chạm trổ những hoa văn chạm khắc tinh xảo, cầu kỳ, còn tay nắm cửa dường như được làm bằng bạc nguyên khối. Cánh cửa xa hoa đến mức này là vì đây là phòng tiếp khách, hay thương hội đơn giản là giàu có đến thế...?
+Chà, không chỉ đơn thuần là trông đắt tiền đâu. Bản thân cánh cửa đó có lẽ đáng giá cả một món tiền lớn. Chúng được chạm trổ những hoa văn tinh xảo, cầu kỳ, còn tay nắm cửa dường như được làm bằng bạc nguyên khối. Cánh cửa xa hoa đến mức này là vì đây là phòng tiếp khách, hay thương hội đơn giản là giàu có đến thế...?
 
 Dù nguyên do là gì đi nữa...
 
