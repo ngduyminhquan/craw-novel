@@ -97,7 +97,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | reviewed |  |
 | 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | done |  |
 | 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | done |  |
-| 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | todo |  |
+| 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | done |  |
 | 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | todo |  |
 | 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | todo |  |
 | 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -553,3 +554,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#91] Dịch tiếng kêu đau đớn của Orc 'Bugii!' (đoạn 21) — tạm chọn 'Éccc!' theo bảng cảm thán tiếng kêu quái dạng lợn (phương án khác: giữ nguyên 'Bugii!'). Tạm dùng trong bản dịch: 'Éccc!'. → Giữ 'Éccc!' cho tiếng kêu của Orc theo style.md. (orchestrator)
 - [#92] Dịch tên loài quái vật cây 'Ent' — tạm chọn giữ nguyên 'Ent' theo thông lệ fantasy tương tự Goblin, Orc, Golem (phương án khác: 'Người Cây', 'Mộc Tinh'). Tạm dùng trong bản dịch: 'Ent'. → Giữ nguyên 'Ent' đồng bộ với 'Ent Jyulapus' ở #91. (orchestrator)
 - [#92] Dịch từ 'spirit' / 'spirits' chỉ chân thân của Ent Jyulapus (đoạn 54, 55, 56, 57) — tạm chọn 'tinh linh' (thể tinh linh vô định hình / phi vật chất ký sinh trong cây) để phân biệt với 'Spirit' viết hoa là 'Khí Lực' (phương án khác: 'linh hồn', 'linh thể'). Tạm dùng trong bản dịch: 'tinh linh'. → Giữ 'tinh linh' để phân biệt với 'Spirit' (Khí Lực). (orchestrator)
+- [#93] Dịch tiêu đề chương 'Vol 4 Intermission - Rina Rupaage, Adventurer' — tạm chọn 'Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage' (đồng bộ phong cách với 'Mạo Hiểm Giả Rina' ở #6; phương án khác: 'Chương đệm Tập 4 - Rina Rupaage, Mạo Hiểm Giả', 'Giao khúc Tập 4 - Mạo Hiểm Giả Rina Rupaage'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage'. → Giữ 'Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage' đồng bộ với #6. (orchestrator)
+- [#93] Xử lý số trang sách in kẹt ở cuối raw đoạn 38 'Page|44' — tạm lược bỏ vì đây là rác định dạng bản in ebook tương tự như 'Page|7' ở #89 và 'Page|34' ở #92 (phương án khác: giữ nguyên 'Page|44'). Tạm dùng trong bản dịch: lược bỏ. → Chấp nhận lược bỏ watermark trang ebook 'Page|44'. (orchestrator)

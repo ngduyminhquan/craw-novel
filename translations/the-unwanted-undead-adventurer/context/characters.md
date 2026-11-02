@@ -66,6 +66,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lễ phép, tôn kính, hoạt bát nhưng hơi rụt rè trước vẻ ngoài quái dị của Rentt lúc đầu.
 - Quan hệ: Được Rentt cứu thoát khỏi nanh vuốt Khô Lâu, xem Rentt là tiền bối đáng kính (Mister Rentt).
 - Trạng thái tính đến chương 24: Được tiết lộ tên thật là Rina Rogue, xuất thân từ gia đình hiệp sĩ/quý tộc danh giá, bỏ nhà đi làm mạo hiểm giả; có anh trai là Idoles Rogue thuộc Đệ Nhất Kỵ Sĩ Đoàn đang đến Maalt tìm kiếm.
+- Trạng thái tính đến chương 93: Tiết lộ việc trốn nhà đi do bị cha mẹ ép hôn; được anh trai Idoles Rogue bí mật dẫn đi trải nghiệm mặt tối xã hội và truyền dạy kiếm thuật; bẩm sinh sở hữu lượng Ma Lực và Khí Lực dồi dào; sau khi được Rentt chỉ dạy bí quyết sinh tồn đã nỗ lực tập huấn, tích lũy thực lực qua các ủy thác đơn và gia nhập một tổ đội gồm hai mạo hiểm giả Đồng Cấp.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).

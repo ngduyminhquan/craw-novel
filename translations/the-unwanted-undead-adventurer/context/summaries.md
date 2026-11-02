@@ -541,3 +541,9 @@ Rentt tiếp tục tìm kiếm Ent Jyulapus để lấy nguyên liệu gỗ làm
 Do không có ma cụ nhìn thấu Ma Lực và Ent Jyulapus ngụy trang hòa lẫn hoàn hảo vào cây cối, Rentt dùng hạ sách chém bừa vào các bụi rậm và dụ được một con Ent Jyulapus phản công dữ dội bằng cành nhọn và dây leo quất như roi.
 Phát hiện chân thân của Ent Jyulapus là thể tinh linh vô định hình cư ngụ trong hốc rỗng thân cây, Rentt tránh phá hủy thân gỗ để giữ nguyên liệu bán lấy tiền, thay vào đó anh đâm kiếm vào hốc mắt rồi phóng Ma Lực tiêu diệt tinh linh và thành công thu hoạch nguyên liệu.
 
+## 93
+Rina Rupaage hồi tưởng lại quá khứ: vì khao khát trở thành kỵ sĩ giống anh trai Idoles Rogue và không chấp nhận sự sắp đặt hôn sự của cha mẹ, cô đã được anh trai bí mật đưa đi thâm nhập các góc tối xã hội để thấu hiểu thực tế, truyền dạy kiếm thuật và ủng hộ việc bỏ nhà đi làm mạo hiểm giả nhờ sở hữu lượng Ma Lực cùng Khí Lực dồi dào bẩm sinh.
+Sau khi vấp phải thực tế phũ phàng nơi hoàng đô và chuyển tới Maalt, cuộc gặp gỡ định mệnh với Rentt (dưới hình hài Ngạ Quỷ) đã cứu mạng và thay đổi hoàn toàn tư duy của Rina qua những kinh nghiệm thực tế và lời khuyên sinh tồn quý báu.
+Khắc sâu lời chỉ dạy của Rentt, Rina tích cực tham gia tập huấn của Hội, kiên trì tích lũy kinh nghiệm qua các ủy thác đơn lẻ và cuối cùng đồng ý gia nhập một tổ đội gồm hai mạo hiểm giả Đồng Cấp (một kiếm sĩ và một ma pháp sư kiêm thầy trị liệu).
+
+
