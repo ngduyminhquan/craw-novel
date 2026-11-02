@@ -397,3 +397,9 @@ Laura giải thích bình máu này được thu mua vì tính năng bảo quả
 Cảm nhận được khát khao từ bản năng và nhận định máu Ma Cà Rồng là điều kiện then chốt cho lần Tiến Hóa Bản Thể tiếp theo, Rentt quyết định lấy cớ mang về cho người quen nghiên cứu sinh học quái vật để chọn bình máu làm phần thưởng.
 Laura chấp thuận trao tặng chiếc bình; Rentt kiềm chế không uống máu ngay trước mặt quý tộc, nuốt tiếc nuối từ biệt chiếc phi thuyền nhỏ và theo chân Laura, Isaac bước lên cầu thang trở lại mặt đất.
 
+## 68
+Trở lại phòng tiếp khách, Rentt bày tỏ niềm tiếc nuối khôn nguôi về mô hình phi thuyền nhỏ; Laura thấu hiểu niềm đam mê sưu tầm và đồng ý tặng luôn chiếc phi thuyền làm phần thưởng kèm theo nếu Rentt nhận lời thực hiện ủy thác định kỳ.
+Laura giải thích cô bé mắc Bệnh Tích Tụ Chướng Khí giai đoạn cuối không thể chữa dứt điểm, cần dùng chiết xuất Hoa Long Huyết (Long Hoa Huyết) thường xuyên, và muốn thuê Rentt để giảm bớt gánh nặng nguy hiểm cho Isaac.
+Dù ngạc nhiên trước tầm ảnh hưởng đáng sợ của nhà Latuule khi Laura đoán ra anh từng hái hoa cho cô nhi viện, Rentt vẫn kiên định giữ nguyên tắc bảo mật và không tiết lộ danh tính Sơ Lillian.
+Hài lòng với các điều khoản và thù lao, Rentt đồng ý nhận ủy thác định kỳ; hai bên bắt tay giao kết hợp đồng và Laura cho phép Rentt tiếp tục gọi thẳng tên mình một cách thân mật.
+

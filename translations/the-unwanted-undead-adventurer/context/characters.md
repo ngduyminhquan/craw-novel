@@ -176,7 +176,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Lịch thiệp, mực thước, nhã nhặn, chuẩn mực phong thái quản gia quý tộc; biết điều, tôn trọng thực lực thực tế của đối phương hơn là cấp bậc mạo hiểm giả.
 - Cách nói chuyện: Trịnh trọng, lễ độ, nhã nhặn, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
 - Quan hệ: Quản gia phục vụ một nhân vật cao quý bí ẩn; gặp Rentt tại ốc đảo Đầm Lầy Tarasque khi đi hái Hoa Long Huyết cho chủ nhân và muốn thuê Rentt nhận ủy thác định kỳ.
-- Trạng thái tính đến chương 57: Bắt gặp Rentt tại ốc đảo; tặng Rentt một lọ Nước Thánh thượng phẩm của Giáo Hội Lobelia để tạo thiện cảm và hỗ trợ đường về an toàn; nhận ra Rentt có Thần Lực; hẹn sẽ gửi ủy thác chính thức thông qua Hội Mạo Hiểm Giả để thuê Rentt định kỳ hái hoa.
+- Trạng thái tính đến chương 68: Cùng Laura đón tiếp Rentt tại phòng tiếp khách; được tiết lộ là người hầu đắc lực bị quá tải công việc trông nom dinh thự kiêm thường xuyên vào Đầm Lầy Tarasque hái hoa, khiến Laura phải thuê Rentt làm thay để anh có thêm thời gian nghỉ ngơi.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
@@ -208,4 +208,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lễ độ, tao nhã chuẩn mực quý tộc, xưng "tôi", gọi Rentt là "ngài" (xem Rentt như khách quý và đối tác làm việc).
 - Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; người đưa ra ủy thác hái Hoa Long Huyết định kỳ cho Rentt.
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
-- Trạng thái tính đến chương 67: Giới thiệu bộ sưu tập nguyên liệu quái vật trong hầm và giải thích về tính năng chiếc bình ma cụ bảo quản máu Ma Cà Rồng; chấp thuận trao tặng bình máu làm phần thưởng khi Rentt lấy cớ giúp bạn nghiên cứu; cùng Isaac dẫn Rentt trở lại mặt đất.
+- Trạng thái tính đến chương 68: Tại phòng tiếp khách, thấu hiểu niềm đam mê sưu tầm của Rentt và đồng ý tặng luôn mô hình phi thuyền nhỏ làm phần thưởng kèm theo bên cạnh thù lao hợp đồng ban đầu; tiết lộ bản thân mắc Bệnh Tích Tụ Chướng Khí giai đoạn cuối nên cần dùng Long Hoa Huyết định kỳ; bắt tay giao kết ủy thác định kỳ với Rentt và cho phép anh tiếp tục gọi thẳng tên mình.
