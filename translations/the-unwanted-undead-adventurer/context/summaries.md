@@ -508,3 +508,9 @@ Tránh để ma thuật thông thường làm linh hồn thú cưng gào thét �
 Rời dinh thự, Lorraine tiết lộ chú chuột Sweetpea mới thực chất là thuộc hạ do Edel cài cắm vào làm nội gián thu thập tin tức giới thượng lưu, sau khi Lorraine hỗ trợ Edel vượt qua kết giới ma pháp quanh tòa nhà.
 Nhận ra Lorraine và Edel đã bí mật phối hợp từ trước, Rentt chỉ biết cạn lời trước mức độ bận rộn và sự chăm chỉ làm việc phi thường của chú chuột quyến thuộc.
 
+## 87
+Vào mùa xuân vài năm sau khi bắt đầu làm mạo hiểm giả, Rentt chọn ở lại thị trấn Maalt nhận các việc vặt như dọn dẹp nhà cửa và bắt gặp một tân binh mạo hiểm giả trẻ tuổi đang ấm ức tranh cãi tại quầy trả thưởng của Hội vì bị thân chủ trừ tiền do dọn dẹp còn sót bụi bẩn.
+Nhận ủy thác dọn dẹp từ thân chủ Zant Currin và thấy nữ tiếp tân viên ngầm nháy mắt nhờ giúp đỡ người mới, Rentt đồng ý dẫn cậu tân binh nằng nặc đòi đi cùng đến nơi làm việc để trực tiếp hướng dẫn các phương pháp lau chùi, cọ rửa việc nhà cơ bản.
+Nhờ cậu thanh niên chăm chỉ học hỏi và làm đúng theo chỉ dẫn của Rentt, nơi ở của thân chủ được dọn dẹp sạch bong kin kít khiến Zant Currin vô cùng hài lòng và hào phóng thưởng thêm tiền boa cho cả hai.
+Sau khi hoàn thành công việc, Rentt sòng phẳng chia đều tiền thưởng và chân thành khích lệ cậu thiếu niên vững bước trên con đường mạo hiểm giả; chính cậu tân binh ấy vài năm sau đã thăng lên Ngân Cấp trước cả Rentt rồi rời Maalt tiếp tục cuộc hành trình.
+

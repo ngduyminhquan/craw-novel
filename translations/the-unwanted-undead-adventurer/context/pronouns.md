@@ -37,6 +37,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Aidi | Aidi / người đàn ông | 85 | Mạo hiểm giả Đồng Cấp trung niên mê cá cược |
 | Lady Emilstead | Phu nhân Emilstead / phu nhân / bà | 86 | Nữ quý tộc giàu có ở Maalt |
 | Sweetpea | Sweetpea / con chuột / chú chuột | 86 | Chuột Puchi Suri thú cưng của Phu nhân Emilstead |
+| Zant Currin | Zant Currin / vị thân chủ / người đàn ông | 87 | Cư dân thị trấn Maalt, thân chủ ủy thác dọn dẹp nhà cửa |
 
 ## Giữa các nhân vật
 
@@ -135,3 +136,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lady Emilstead | Rentt Faina | tôi | ngài | 86 | Thân chủ quý tộc khẩn khoản cầu xin mạo hiểm giả thanh tẩy cho thú cưng |
 | Lorraine Vivie | Lady Emilstead | tôi | phu nhân | 86 | Học giả dẫn mạo hiểm giả đến nhận ủy thác |
 | Lady Emilstead | Lorraine Vivie | tôi | cô / các vị | 86 | Thân chủ tiếp đón học giả và mạo hiểm giả |
+| Rentt Faina | Zant Currin | tôi | ông | 87 | Mạo hiểm giả tiếp nhận ủy thác dọn dẹp nhà cửa |
+| Zant Currin | Rentt Faina | tôi | cậu / Rentt | 87 | Thân chủ hài lòng khen ngợi mạo hiểm giả hoàn thành xuất sắc công việc |

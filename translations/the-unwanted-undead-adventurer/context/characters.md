@@ -43,6 +43,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jacks Tiger |  | Jacks Tiger | Chuột Puchi Suri số 1, đương kim vô địch giải đua chuột Puchi Suri | #85 |
 | Lady Emilstead | Emilstead | Phu nhân Emilstead | Nữ quý tộc giàu có ở Maalt, chủ nhân của chuột Sweetpea | #86 |
 | Sweetpea |  | Sweetpea | Chuột Puchi Suri thú cưng của Phu nhân Emilstead | #86 |
+| Zant Currin |  | Zant Currin | Cư dân thị trấn Maalt, thân chủ đưa ra ủy thác dọn dẹp nhà cửa | #87 |
 
 ## Chi tiết
 
@@ -290,3 +291,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Chủng tộc: Quái vật Puchi Suri (phân loài biến dị hiền lành, ngoại hình đáng yêu).
 - Đặc điểm: Thú cưng được Phu nhân Emilstead nuôi nấng như người trong nhà; sau khi qua đời biến thành linh hồn vất vưởng được Rentt thanh tẩy siêu thoát bằng Thần Lực; tên này sau đó được đặt tiếp cho chú chuột Puchi Suri mới do Lorraine gợi ý nhận nuôi (vốn là thuộc hạ của Edel).
 - Xuất hiện từ: #86.
+
+### Zant Currin
+- Giới tính, thân phận: Nam, cư dân thị trấn Maalt.
+- Tính cách, đặc điểm: Thân chủ đưa ra ủy thác dọn dẹp nhà cửa vào mùa xuân; khá kỹ tính nhưng biết ghi nhận và hào phóng thưởng thêm tiền boa khi mạo hiểm giả làm sạch sẽ vượt mong đợi.
+- Cách nói chuyện: Hài lòng, niềm nở, xưng "tôi", gọi Rentt là "cậu / Rentt".
+- Quan hệ: Khách hàng thuê Rentt làm việc nhà dọn dẹp nơi ở.
+- Xuất hiện từ: #87.
