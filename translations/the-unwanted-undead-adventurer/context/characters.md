@@ -327,3 +327,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tự nhiên, suồng sã, xởi lởi, tự xưng "tôi", gọi Rentt là "ngài Rentt" (Mister Rentt), gọi Sharl là "ngài Sharl" (Mister Sharl), gọi Myullias là "Tiểu thư Myullias" (Lady Myullias).
 - Xuất hiện từ: #104.
 - Trạng thái tính đến chương 106: Tuyên bố Rentt và Sharl trong sạch sau bài kiểm tra Thánh Hỏa; thừa nhận mượn thế lực Giáo Hội Lobelia gây sức ép để gặp Rentt vì nghi ngờ anh là Ma Cà Rồng; chuẩn bị đưa ra thỉnh cầu tìm kiếm mạo hiểm giả có năng lực.
+- Trạng thái tính đến chương 108: Trả 2.000 đồng vàng (20 đồng bạch kim) để mua xác Tarasque và bồi thường cho Rentt; thán phục khả năng giữ bình tĩnh điềm đạm của Rentt trước số tiền khổng lồ; suy đoán Rentt lui tới Đầm Lầy Tarasque vì Hoa Long Huyết, Chim Đầm Lầy Độc hoặc Độc Ngọc Tarasque.

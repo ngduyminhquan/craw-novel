@@ -99,7 +99,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Kraken | Krakens | Kraken | quái vật | 47 | Quái vật dạng mực/bạch tuộc khổng lồ vốn chỉ sống ở biển sâu |
 | Orb | the Orb | Quả Cầu | vật phẩm | 47 | Khối cầu pha lê phát sáng gia truyền của Làng Todds dùng trong Lễ Hội Dâng Tế |
 | Sacrificial Escort | sacrificial escort | người áp giải tế vật | khác | 47 | Vai trò áp giải thiếu nữ hiến tế trong Lễ Hội Dâng Tế ở Làng Todds |
-| Dragon Blood Blossom | Dragon Blood Blossoms | Hoa Long Huyết | vật phẩm | 48 | Loài hoa quý hiếm cánh đỏ như máu có công dụng làm cảnh và bào chế thuốc (竜血花) |
+| Dragon Blood Blossom | Dragon Blood Blossoms; Dragon-Blood Blossoms | Hoa Long Huyết | vật phẩm | 48 | Loài hoa quý hiếm cánh đỏ như máu có công dụng làm cảnh và bào chế thuốc (竜血花) |
 | Dragon-Flower Blood |  | Long Hoa Huyết | vật phẩm | 48 | Chất dịch màu đỏ chiết xuất từ Hoa Long Huyết dùng làm dược liệu (竜花血) |
 | Church of the Eastern Sky | Eastern Sky; The Eastern Heaven Sect; Eastern Heaven Sect | Giáo Hội Đông Thiên | tổ chức | 48 | Tổ chức tôn giáo ôn hòa, thanh bần tại Yaaran, tôn thờ thiên sứ giáng trần ở phía đông (東天教会) |
 | Second Orphanage of Maalt | Second Orphanage; the Second Orphanage | Cô Nhi Viện Thứ Hai Maalt | địa danh | 48 | Cơ sở nuôi dưỡng trẻ mồ côi do Giáo Hội Đông Thiên điều hành tại Maalt |
@@ -201,3 +201,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Holy Fire | holy fire; Holy fire | Thánh Hỏa | kỹ năng | 105 | Ngọn lửa thần thánh ngưng tụ từ Thần Lực do người có Thần Lực dồi dào và thuần thục phóng ra (聖火) |
 | Ruguella |  | Ruguella | địa danh | 107 | Thị trấn ở phía tây, nơi phát hiện chuỗi vụ mạo hiểm giả mới mất tích |
 | Oradoras |  | Oradoras | địa danh | 107 | Thị trấn nằm về phía đông của Ruguella, nơi ghi nhận các vụ mất tích tiếp theo |
+| magical pouch | magical pouches; magic pouch; magic pouches | túi ma thuật | vật phẩm | 10 | Loại ma cụ có không gian bên trong mở rộng gấp nhiều lần để chứa đồ (魔導ポーチ) |
+| Noxious Swamp-Bird | the Noxious Swamp-Bird | Chim Đầm Lầy Độc | quái vật | 108 | Loài chim độc sinh sống tại Đầm Lầy Tarasque |
+| Poison Gem | Tarasque’s Poison Gem; the Tarasque’s Poison Gem | Độc Ngọc Tarasque | vật phẩm | 108 | Tinh thể kết tinh chất độc của Tarasque |

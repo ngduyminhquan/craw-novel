@@ -630,4 +630,10 @@ Nive tin rằng con Ma Cà Rồng đầu sỏ vẫn đang lẩn trốn tại Maa
 Sau khi giải tỏa hiểu lầm, Nive bồi thường bằng cách mua nguyên liệu Tarasque giá cao và trao cho Rentt một mảnh giấy chứa mã số liên lạc của Hội Mạo Hiểm Giả, quả quyết theo trực giác rằng sau này anh chắc chắn sẽ cần liên lạc với cô.
 Rentt nhận mảnh giấy với linh cảm chẳng lành và dự định nhờ Lorraine kiểm tra ma thuật bên trong, kết thúc cuộc gặp gỡ đầy căng thẳng với Thợ Săn Ma Cà Rồng.
 
+## 108
+Nive đề nghị mua toàn bộ nguyên liệu Tarasque (đặc biệt là tuyến độc dùng để khắc chế và làm tê liệt Ma Cà Rồng) và đoán trúng Rentt thường lui tới Đầm Lầy Tarasque để tìm Hoa Long Huyết, Chim Đầm Lầy Độc hoặc Độc Ngọc Tarasque.
+Sharl ước tính xác Tarasque hoàn chỉnh có thể bán đấu giá được 300 đến 400 đồng vàng, Nive quyết định trả gấp đôi giá thị trường là 800 đồng vàng kèm 100 đồng vàng bồi thường tổn thất tinh thần cho Rentt.
+Trước sự ngập ngừng im lặng đầy đắn đo của Rentt (vì sợ dây dưa nghiệp chướng và tính toán tiền mua túi ma thuật lớn hơn), Nive tưởng anh chê ít nên liên tục nâng giá lên 1.000 đồng vàng rồi chốt hạ 2.000 đồng vàng.
+Nive đặt 20 đồng bạch kim lên bàn khiến Myullias há hốc mồm kinh ngạc còn Sharl chỉ biết lắc đầu thở dài, trong khi Rentt cố gồng mình giữ vẻ mặt thản nhiên như không dù nội tâm choáng ngợp tột độ.
+
 
