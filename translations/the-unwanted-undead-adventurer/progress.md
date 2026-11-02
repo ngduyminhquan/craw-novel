@@ -27,7 +27,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | reviewed |  |
 | 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | reviewed |  |
 | 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | done |  |
-| 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | todo |  |
+| 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | done |  |
 | 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | todo |  |
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | todo |  |
 | 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | todo |  |
@@ -349,6 +349,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -405,3 +406,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#22] Dịch quái vật 'Thrall' (nấc tiến hóa sau Ngạ Quỷ, do Ma Cà Rồng tạo ra, gốc Nhật 屍鬼) — tạm chọn 'Thi Quỷ' (phương án khác: 'Quyến Tộc Ma Cà Rồng', 'Nô Bộc Ma Cà Rồng', 'Ma Nô', 'Thrall'). → Chốt 'Thi Quỷ'. (orchestrator) (orchestrator)
 - [#22] Dịch quái vật 'Lesser Vampire' — tạm chọn 'Hạ Cấp Ma Cà Rồng' (phương án khác: 'Ma Cà Rồng Cấp Thấp', 'Tiểu Ma Cà Rồng', 'Hạ Vị Ma Cà Rồng'). → Chốt 'Hạ Cấp Ma Cà Rồng'. (orchestrator) (orchestrator)
 - [#22] Dịch cụm 'sentient tool' (vật phẩm/ma cụ có ý chí tự chọn chủ nhân) — tạm chọn 'vật phẩm có tri giác' (phương án khác: 'dụng cụ có ý thức', 'ma cụ có tri giác'). → Chốt 'vật phẩm có tri giác' (cụm miêu tả chung). (orchestrator) (orchestrator)
+- [#23] Dịch vật phẩm 'Recording Crystal' (ma cụ dùng để chụp hình/lưu trữ ảnh) — tạm chọn 'Tinh Thể Ghi Hình' (phương án khác: 'Pha Lê Ghi Hình', 'Tinh Thể Lưu Trữ', 'Tinh Thể Ký Lục'). Tạm dùng trong bản dịch: 'Tinh Thể Ghi Hình'. → Chốt 'Tinh Thể Ghi Hình'. (orchestrator) (orchestrator)

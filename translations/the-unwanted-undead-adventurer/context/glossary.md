@@ -38,7 +38,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Slime | Slimes | Slime | quái vật | 1 | Quái vật chất nhầy cơ bản |
 | Goblin | Goblins | Goblin | quái vật | 1 | Quái vật yêu tinh nhỏ da xanh |
 | Wight |  | Wight | quái vật | 1 | Undead cấp cao hơn Ngạ Quỷ |
-| Vampire |  | Ma Cà Rồng | quái vật | 1 | Undead cấp cao gần như người sống |
+| Vampire | Vampires | Ma Cà Rồng | quái vật | 1 | Undead cấp cao gần như người sống |
 | Dragon | Dragons | Rồng | quái vật | 1 | Quái vật huyền thoại đỉnh cao |
 | Ancient Dragon | | Rồng Cổ Đại | quái vật | 2 | Rồng trưởng thành sau nhiều năm |
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
@@ -65,6 +65,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Red Wyvern Pavilion |  | Quán Phi Long Đỏ | tổ chức | 20 | Quán ăn của vợ chồng Loris và Isabel ở Maalt (赤き竜亭/赤き飛竜亭) |
 | divine magic |  | ma pháp thần thánh | kỹ năng | 21 | Ma pháp sử dụng Thần Lực để trị liệu vết thương |
 | Thrall | Thralls; the Thralls | Thi Quỷ | quái vật | 22 | Undead dạng người tiến hóa từ Ngạ Quỷ, vốn là thuộc hạ do Ma Cà Rồng tạo ra (屍鬼) |
-| Lesser Vampire | Lesser Vampires | Hạ Cấp Ma Cà Rồng | quái vật | 22 | Ma Cà Rồng bậc thấp, đứng trên Thi Quỷ (下級吸血鬼) |
+| Lesser Vampire | Lesser Vampires; Low-ranked Vampire; Low-ranked Vampires | Hạ Cấp Ma Cà Rồng | quái vật | 22 | Ma Cà Rồng bậc thấp, đứng trên Thi Quỷ (下級吸血鬼) |
 | Skeleton Knight | Skeleton Knights | Khô Lâu Kỵ Sĩ | quái vật | 22 | Phân loài Khô Lâu cấp cao trang bị vũ khí và giáp kỵ sĩ |
 | Puchi Suri | Puchi Suris | Puchi Suri | quái vật | 22 | Quái vật dạng chuột nhỏ dễ bắt, có khả năng biến đổi theo môi trường để tiến hóa (プチスリ) |
+| Recording Crystal | Recording Crystals | Tinh Thể Ghi Hình | vật phẩm | 23 | Tinh thể ma thuật dùng để chụp lại hoặc lưu trữ hình ảnh (記録水晶) |

@@ -133,3 +133,8 @@ Soi gương, Rentt nhận thấy chiếc mặt nạ có thể tự biến đổi
 Lorraine nhận định Rentt vừa trải qua một đợt Tiến Hóa Bản Thể mới nhờ ăn thịt và uống máu của cô, biến đổi từ Ngạ Quỷ thành Thi Quỷ (Thrall) – loài Undead cấp dưới của Ma Cà Rồng.
 Lorraine đưa ra giả thuyết rằng Tiến Hóa Bản Thể thúc đẩy quái vật tiến hóa theo hình mẫu mà chúng khao khát (như Rentt mong muốn trở lại làm người hay thí nghiệm chuột Puchi Suri thích nghi môi trường), nhưng phải tiến triển từng bậc tương tự cấp bậc mạo hiểm giả thay vì nhảy cóc lên Ma Cà Rồng ngay.
 
+## 23
+Lorraine giải thích cơ chế kích hoạt Tiến Hóa Bản Thể đòi hỏi những điều kiện đặc thù (như việc Rentt ăn thịt uống máu người) thay vì chỉ đơn thuần săn quái; ngày hôm sau, cô tiến hành một loạt thí nghiệm kiểm tra thể chất Thi Quỷ của Rentt.
+Các thí nghiệm cho thấy Rentt có thể ăn thức ăn bình thường, tiếp nhận thuốc hồi phục và miễn nhiễm hầu hết độc tố; cơn thèm thịt giảm nhưng cơn khát máu người (nhất là phụ nữ trẻ) lại tăng cao, được Lorraine chu cấp một lọ máu có ếm ma pháp bảo quản để kiềm chế cơn khát.
+Rentt đặt mục tiêu tiến hóa thành hình thái giống người hơn và chuẩn bị tiếp tục thám hiểm mê cung; nhận thấy thanh kiếm mượn từ tiệm Ba Chĩa đã mòn vẹt hư hại nặng, anh chuẩn bị tinh thần bị mắng rồi cất bước đi tìm Clope.
+
