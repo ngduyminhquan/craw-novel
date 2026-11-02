@@ -445,4 +445,10 @@ Sơ Lillian lo lắng về con đường ma thuật gian nan; Rentt kể lại v
 Thầy trị liệu Unbert và dược sư Norman bước vào phòng bệnh; Lorraine đề nghị cả nhóm cùng ở lại lắng nghe tình hình sức khỏe của Sơ Lillian.
 Unbert thẳng thắn chẩn đoán Sơ Lillian mắc Bệnh Tích Tụ Chướng Khí khiến sơ hoảng hốt lo tìm người tiếp quản cô nhi viện, nhưng anh lập tức trấn an rằng căn bệnh sẽ được chữa khỏi hoàn toàn nhờ phương thuốc mới bào chế.
 
+## 76
+Unbert và Norman trao hộp thuốc bào chế từ Hoa Long Huyết hoàn toàn miễn phí cho Sơ Lillian; sơ xúc động rơi lệ khi biết Rentt và Alize cùng lũ trẻ mồ côi đã bí mật bất chấp gian khó vì mình.
+Alize mang ghế vào phòng, mọi hiểu lầm được hóa giải trong nước mắt xúc động và lòng biết ơn; Sơ Lillian xem việc khỏi bệnh là phép màu của các Đại Thiên Sứ ghi nhận sự nỗ lực của mọi người.
+Trong khi Lillian và Alize bàn bạc riêng, Rentt cho đám trẻ mồ côi chơi phi thuyền mô hình ở nguyện đường và cùng Lorraine bàn về thực tế khó khăn trong tương lai của trẻ mồ côi.
+Sơ Lillian hồi phục nhanh chóng sau liều thuốc đầu và ưng thuận cho Alize theo học; trở về nhà, Lorraine bắt đầu giảng dạy bài học ma thuật vỡ lòng đầu tiên cho cả Alize lẫn Rentt.
+
 

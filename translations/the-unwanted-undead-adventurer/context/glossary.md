@@ -143,3 +143,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | scholar-magus |  | học giả ma thuật | chức nghiệp | 74 | Danh xưng học thuật kiêm ma thuật của Lorraine (魔術学者) |
 | Court Mage | Court Mages | Pháp Sư Cung Đình | chức nghiệp | 75 | Ma pháp sư phụng sự triều đình hoàng gia Yaaran (宮廷魔術師) |
 | Royal Court |  | Triều Đình Hoàng Gia | tổ chức | 75 | Triều đình của Vương Quốc Yaaran (王廷/宮廷) |
+| Great Angels |  | Đại Thiên Sứ | khác | 76 | Các đấng thiên sứ tối cao được tôn thờ trong Giáo Hội Đông Thiên (大天使) |

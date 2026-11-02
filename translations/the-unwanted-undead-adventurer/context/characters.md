@@ -158,6 +158,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Người chăm sóc và được các em nhỏ ở cô nhi viện hết mực kính trọng, yêu quý; thân thiện và biết ơn mạo hiểm giả nhận ủy thác thiện nguyện.
 - Trạng thái tính đến chương 50: Mắc Bệnh Tích Tụ Chướng Khí do sử dụng Thần Lực lâu năm, tính tình thanh bần kiên quyết không chịu bỏ tiền chữa trị; đang được Alize lén tìm cách chữa trị bằng Hoa Long Huyết.
 - Trạng thái tính đến chương 75: Biết được thiên phú ma thuật của Alize và tôn trọng ước mơ làm mạo hiểm giả của cô bé; được Unbert chẩn đoán chính thức mắc Bệnh Tích Tụ Chướng Khí và trấn an rằng bệnh sẽ được chữa khỏi.
+- Trạng thái tính đến chương 76: Nhận thuốc trị Bệnh Tích Tụ Chướng Khí miễn phí từ Unbert và Norman; xúc động rơi lệ khi biết Rentt và Alize cùng lũ trẻ đã bất chấp nguy hiểm vì mình; hồi phục phần nào Thần Lực sau liều đầu tiên và chấp thuận cho Alize theo học ma thuật lẫn mạo hiểm giả với Rentt và Lorraine.
 
 ### Alize
 - Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12 tuổi, tóc ngắn cắt tỉa gọn gàng, phong thái tao nhã dù sống trong cảnh nghèo khó tại cô nhi viện. Không có họ.
@@ -166,6 +167,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Đứa trẻ lớn đảm nhận vai trò trợ tá ("cánh tay phải") của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; người bí mật đổi nội dung ủy thác thành tìm Hoa Long Huyết nhằm chữa bệnh cho Sơ Lillian.
 - Trạng thái tính đến chương 51: Cùng Rentt xuống căn hầm chứa đồ, tự tay hạ gục một con Puchi Suri nhỏ bằng dao tự vệ và được Rentt tặng viên Ma Tinh làm tiền tiêu vặt; chứng kiến con Puchi Suri ngoại cỡ quyến thuộc của Rentt áp chế bầy chuột nhỏ canh giữ căn hầm.
 - Trạng thái tính đến chương 74: Chính thức trở thành đệ tử ma thuật đầu tiên của Lorraine Vivie sau khi bày tỏ khát khao mãnh liệt muốn làm mạo hiểm giả giúp đỡ người khác như Rentt; thông báo thuốc chữa bệnh cho Sơ Lillian đã chuẩn bị xong.
+- Trạng thái tính đến chương 76: Thú nhận với Sơ Lillian chuyện bí mật ủy thác cho Rentt đi Đầm Lầy Tarasque hái hoa; được Sơ Lillian thấu hiểu và ban phước ưng thuận cho theo học; cùng Rentt chính thức bước vào bài học ma thuật vỡ lòng đầu tiên do Lorraine giảng dạy.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
