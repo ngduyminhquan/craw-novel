@@ -320,6 +320,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #103.
 - Trạng thái tính đến chương 106: Dù bị Nive mượn uy thế Giáo Hội Lobelia gây sức ép, vẫn tìm đủ lý do trì hoãn để che chở cho Rentt; kiên quyết có mặt tại phòng gặp mặt đối diện nguy hiểm nhằm bảo vệ thân chủ; được Rentt đánh giá cao về lòng tự trọng và tinh thần trách nhiệm của một thương nhân chân chính.
 - Trạng thái tính đến chương 109: Đề nghị dùng mạng lưới thương nhân tìm mua túi ma thuật dung tích lớn giúp Rentt, thậm chí sẵn lòng giới thiệu anh sang đối thủ cạnh tranh Thương hội Witta nhằm giảm bớt cảm giác bất an khi hợp tác với Nive.
+- Trạng thái tính đến chương 110: Nửa đùa nửa thật mời Rentt khi đạt tới Mithril Cấp hãy bảo trợ cho cửa tiệm để tha hồ bán hàng giá cao; nêu quan điểm về việc các tôn giáo đều nhận công tiêu diệt Ma Cà Rồng Hoàng Hôn và có nhiều lăng mộ rải rác khắp nơi.
 
 ### Nive Maris
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc 20–25 tuổi, tóc màu xám tro, đôi mắt đỏ rực sáng lấp lánh khó đoán định biểu cảm hay ý đồ; vóc dáng xinh đẹp hút hồn.
@@ -330,3 +331,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 106: Tuyên bố Rentt và Sharl trong sạch sau bài kiểm tra Thánh Hỏa; thừa nhận mượn thế lực Giáo Hội Lobelia gây sức ép để gặp Rentt vì nghi ngờ anh là Ma Cà Rồng; chuẩn bị đưa ra thỉnh cầu tìm kiếm mạo hiểm giả có năng lực.
 - Trạng thái tính đến chương 108: Trả 2.000 đồng vàng (20 đồng bạch kim) để mua xác Tarasque và bồi thường cho Rentt; thán phục khả năng giữ bình tĩnh điềm đạm của Rentt trước số tiền khổng lồ; suy đoán Rentt lui tới Đầm Lầy Tarasque vì Hoa Long Huyết, Chim Đầm Lầy Độc hoặc Độc Ngọc Tarasque.
 - Trạng thái tính đến chương 109: Đề nghị dùng mạng lưới quan hệ tìm mua túi ma thuật dung tích lớn giúp Rentt; đưa ra thỉnh cầu nhờ Rentt liên lạc nếu gặp Ma Cà Rồng không thể đánh bại; tuyên bố việc săn Ma Cà Rồng chỉ là thú tiêu khiển giết thời gian lúc rảnh rỗi, và tiết lộ mục tiêu săn đuổi suốt bấy lâu nay chính là Ma Cà Rồng Hoàng Hôn.
+- Trạng thái tính đến chương 110: Khích lệ ước mơ trở thành mạo hiểm giả Mithril Cấp của Rentt; thừa nhận không rõ diện mạo Ma Cà Rồng Hoàng Hôn và giải thích nhờ Rentt vì chỉ cần gặp kẻ thù không thể đánh bại thì hãy báo cho cô đối đầu; vui vẻ bắt tay hòa giải hợp tác với Rentt.

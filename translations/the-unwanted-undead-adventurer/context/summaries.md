@@ -642,5 +642,11 @@ Nive đưa ra thỉnh cầu cuối cùng: nhờ Rentt liên lạc báo tin cho c
 Nhận món tiền khổng lồ và nhận thấy khó lòng né tránh một kẻ bám dai như Nive, Rentt chấp nhận lắng nghe và tò mò gặng hỏi lý do cô truy lùng một con quái vật duy nhất.
 Nive nở nụ cười bí hiểm và tiết lộ mục tiêu săn đuổi suốt bấy lâu nay của cô chính là tồn tại đứng ở đỉnh cao tột đỉnh của toàn bộ chủng loài: Ma Cà Rồng Hoàng Hôn.
 
+## 110
+Myullias bác bỏ sự tồn tại của Ma Cà Rồng Hoàng Hôn nhưng bị Nive phản bác; Rentt chia sẻ về tuổi thơ từng bị bắt nạt phải đóng vai con quái vật này và lần đầu bộc bạch ước mơ trở thành mạo hiểm giả Mithril Cấp, bất ngờ nhận được sự khích lệ chân thành từ cả ba người.
+Sharl và Nive tranh luận về việc các tôn giáo đều nhận công tiêu diệt Ma Cà Rồng Hoàng Hôn cùng sự tồn tại của vô số lăng mộ giả; Nive giải thích các bậc Ma Cà Rồng càng cao (từ Thượng Cấp trở lên) càng cần ít máu để duy trì sinh tồn nên hoàn toàn có thể giả chết và mai danh ẩn tích suốt nhiều thế kỷ.
+Trước lượng máu khổng lồ mà Hạ Cấp Ma Cà Rồng tiêu thụ (tương đương 10 bình hoa, khoảng 2 người/tháng), Rentt thầm băn khoăn về nhu cầu máu ít ỏi chỉ 3 giọt mỗi ngày của bản thân nhưng tạm gác lại suy tư.
+Nive thừa nhận không biết diện mạo của Ma Cà Rồng Hoàng Hôn và thỉnh cầu Rentt hễ gặp con Ma Cà Rồng nào không thể đánh bại thì hãy báo tin cho cô; Rentt chủ động bắt tay hòa giải và nhận lời, kết thúc cuộc gặp gỡ trong nụ cười dịu dàng hiếm thấy của Nive.
+
 
 

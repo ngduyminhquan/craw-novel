@@ -114,7 +114,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 107 |  | Chapter_107 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3) | reviewed |  |
 | 108 |  | Chapter_108 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4) | reviewed |  |
 | 109 |  | Chapter_109 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5) | done |  |
-| 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | todo |  |
+| 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | done |  |
 | 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | todo |  |
 | 112 |  | Chapter_112 - Vol 4 Side Story - The Princess-Saint of Healing (1).txt | Vol 4 Side Story - The Princess-Saint of Healing (1) | todo |  |
 | 113 |  | Chapter_113 - Vol 4 Side Story - The Princess-Saint of Healing (2).txt | Vol 4 Side Story - The Princess-Saint of Healing (2) | todo |  |
@@ -594,3 +594,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#108] Dịch 'Tarasque’s Poison Gem' — tạm chọn 'Độc Ngọc Tarasque' (phương án khác: 'Ngọc Độc Tarasque') → Giữ 'Độc Ngọc Tarasque'. (orchestrator)
 - [#108] Dịch thành ngữ 'to say the least' → Sửa thành 'nói một cách nhẹ nhàng nhất thì' và thêm quy tắc vào rules.md. (orchestrator)
 - [#109] Dịch tiêu đề chương 'Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5)' — tạm chọn 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (5)' (đồng bộ format với #105, #106, #107, #108; phương án khác: 'Chương đệm Tập 4 - Nữ Tư Tế Thánh Myullias Raiza (5)'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (5)'. → Giữ 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (5)' đồng bộ với #105-#108. (orchestrator)
+- [#110] Dịch tiêu đề chương 'Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6)' — tạm chọn 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (6)' (đồng bộ format với #105–#109; phương án khác: 'Chương đệm Tập 4 - Nữ Tư Tế Thánh Myullias Raiza (6)'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (6)'. → Giữ 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (6)' đồng bộ với #105-#109. (orchestrator)
