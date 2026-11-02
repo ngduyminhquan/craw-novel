@@ -184,3 +184,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | elemental magic | Elemental magic; Elemental Magic | ma pháp nguyên tố | kỹ năng | 97 | Ma pháp cổ xưa vận dụng hiện tượng tự nhiên trực quan (元素魔術/精霊魔法) |
 | Earth Dragon | Earth Dragons; the Earth Dragon | Rồng Đất | quái vật | 98 | Phân loài rồng khổng lồ thuộc tính thổ sống dưới lòng đất (地竜) |
 | Undead Sight |  | Thị Giác Undead | kỹ năng | 98 | Năng lực thị giác quan sát sinh vật sống trong bóng tối của Undead |
+| Ogre | Ogres | Ogre | quái vật | 99 | Chủng quái vật khổng lồ hung tợn trong fantasy (オーガ) |
+| Good King Felt | Good King | Hiền Vương Felt | khác | 99 | Vị vua trong truyền thuyết dẫn dắt thần dân xây dựng thành phố trong lòng mê cung |
+| Empire of Rermutt | Rermutt; Remrutt; the Empire of Rermutt | Đế Quốc Rermutt | địa danh | 99 | Đế quốc rộng lớn nằm ở phía tây, quê hương của Lorraine Vivie (レルムット帝国) |
+| Rermutt First University | Rermutt’s First University | Đệ Nhất Đại Học Rermutt | tổ chức | 99 | Viện đại học danh tiếng hàng đầu của Đế Quốc Rermutt, trường cũ của Lorraine Vivie |

@@ -576,6 +576,13 @@ Sau khi bật đèn và tiêu diệt hai con Goblin Mỏ Quặng bị thu hút t
 Tại điểm khai thác thứ ba, Rentt kinh hoàng phát hiện một con Rồng Đất khổng lồ dài 40-50 mét đang say ngủ ngay tại tầng đá móng bên dưới.
 Con quái vật bất ngờ thức giấc và mở mắt nhìn quanh rồi thong thả đào sâu vào lòng đá móng biến mất; thoát chết trong gang tấc, Rentt kiệt sức quyết định kết thúc chuyến thám hiểm để trở về nhà.
 
+## 99
+Rentt trở về nhà an toàn sau cuộc chạm trán Rồng Đất ở Mê Cung Tân Nguyệt, bán bớt nguyên liệu cho Hội và giữ lại Ma Thiết cùng Ma Tinh để chuẩn bị dắt Alize tới tiệm Ba Chĩa nhờ Clope rèn kiếm.
+Vừa thưởng thức bữa tối do Lorraine nấu, Rentt vừa bức xúc kể lại chuyện quái vật tầng sâu xuất hiện ở tầng bốn; Lorraine giải thích khu mỏ là công trình nhân tạo cổ xưa bị mê cung nuốt chửng và duy trì hoạt động vĩnh viễn, lấy dẫn chứng từ thành phố trong mê cung có thật của Hiền Vương Felt.
+Trong men say, Lorraine hiếm hoi bộc bạch quá khứ tại Đế Quốc Rermutt: từng là học giả tinh hoa nhắm tới chức hiệu trưởng Đệ Nhất Đại Học Rermutt nhưng bị đồng nghiệp đố kỵ, ngáng đường và phủ nhận nghiên cứu nên cô quyết định rời đi để tìm kiếm sự thanh thản.
+Rentt đồng cảm sâu sắc với Lorraine, thầm thấy may mắn vì cô đã chuyển tới Maalt và tự nhủ điều quan trọng nhất là tận hưởng trọn vẹn những ngày tháng tốt đẹp trước mắt.
+
+
 
 
 

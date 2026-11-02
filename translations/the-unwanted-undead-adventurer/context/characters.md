@@ -87,6 +87,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 69: Thức đêm biên soạn giáo trình ma thuật 10 tập để chuẩn bị dạy cho Alize; cảnh báo Rentt về sự nguy hiểm chết người của máu Ma Cà Rồng nhưng hết lòng thấu hiểu, ủng hộ ước mơ Mithril Cấp và hứa sẽ chăm sóc phần mộ cho Rentt nếu anh gặp bất trắc; sẵn sàng ma pháp theo lời dặn của Rentt khi anh uống cạn bình máu.
 - Trạng thái tính đến chương 74: Cùng Rentt đến Cô Nhi Viện Thứ Hai Maalt, chính thức nhận Alize làm đệ tử ma thuật đầu tiên và bắt đầu gợi mở với Sơ Lillian về thiên phú ma thuật của cô bé.
 - Trạng thái tính đến chương 78: Mở lớp giảng dạy ma thuật vỡ lòng cho Alize và Rentt; trực tiếp truyền dẫn Ma Lực khai mở cảm nhận năng lượng cho Alize; chỉ dẫn ba phương thức niệm chú (đầy đủ, rút gọn, vô niệm).
+- Trạng thái tính đến chương 99: Đích thân nấu bữa tối thịnh soạn cho Rentt sau khi anh trở về an toàn từ tầng 4 Mê Cung Tân Nguyệt; giải thích hiện tượng mê cung nuốt chửng công trình nhân tạo; hiếm hoi tâm sự về quá khứ từng là học giả tinh hoa tranh chức hiệu trưởng Đệ Nhất Đại Học Rermutt tại quê nhà nhưng bị giới học thuật chèn ép, đố kỵ nên đã rời bỏ Đế Quốc Rermutt tới Maalt.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
