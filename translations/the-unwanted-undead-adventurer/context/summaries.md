@@ -105,5 +105,12 @@ Bước vào căn phòng hang động rộng lớn, cả hai nhận thấy nơi 
 Rentt lần tìm và nhấn cơ quan ẩn, mở ra một lối đi bí mật; khi người đàn ông từ chối nhận vơ công lao, Rentt dứt khoát nhường toàn bộ phần thưởng thám hiểm khu vực mới cho ông ta.
 Bị cuốn hút bởi những điều bí ẩn phía sau cánh cửa vừa mở, Rentt cất bước tiến sâu vào bóng tối của lối đi bí mật.
 
+## 18
+Tiến qua cánh cửa bí mật, Rentt và người đàn ông chạm trán Slime Độc cùng Khô Lâu Binh trước khi bước vào một căn phòng có ma pháp trận dịch chuyển ẩn giấu; người đàn ông không nhìn thấy ma pháp trận nên vô tình bước vào và bị dịch chuyển đi mất.
+Không nỡ bỏ mặc mạng người, Rentt quyết định bước vào ma pháp trận đuổi theo và bị đưa tới một phòng thủ lĩnh tự phong tỏa lối ra, nơi người đàn ông đã bị đánh ngất nằm dưới chân một con Khô Lâu Khổng Lồ.
+Rentt lao vào cứu người nhưng đòn tấn công bằng Khí Thuật hoàn toàn bất lực trước bộ xương cứng cáp của con quái vật; anh kịp kéo người đàn ông vào góc an toàn rồi quay lại tái chiến.
+Trước nguy cơ cạn kiệt thể lực trước quái vật phòng thủ lĩnh, Rentt mạo hiểm truyền Thần Lực vào thanh kiếm mượn từ Clope; lưỡi kiếm được chúc phúc dễ dàng chém cụt chân và đập vỡ sọ con Khô Lâu Khổng Lồ.
+
+
 
 

@@ -44,6 +44,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity |  | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
+| Giant Skeleton | the Giant Skeleton | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
+| Soldier Skeleton | Soldier Skeletons | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
+| Poison Slime | Poison Slimes | Slime Độc | quái vật | 18 | Phân loài Slime chứa độc tính |
 | Foteia Borivaas |  | Foteia Borivaas | kỹ năng | 2 | Ma pháp hỏa cầu cơ bản (câu chú giữ nguyên) |
 | Gie Vieros |  | Gie Vieros | kỹ năng | 2 | Ma pháp thổ tiễn cơ bản (câu chú giữ nguyên) |
 | Re-popping |  | Tái Sinh Quái | hệ thống | 2 | Hiện tượng quái vật hồi sinh định kỳ trong mê cung |
