@@ -174,3 +174,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Forest Wolf | Forest Wolves | Sói Rừng | quái vật | 94 | Phân loài quái vật sói sống theo bầy đàn trong rừng và tầng 3 Mê Cung Tân Nguyệt |
 | Lizardman | Lizardmen | Lizardman | quái vật | 95 | Quái vật hình người mang vảy và đặc tính loài bò sát ở tầng 4 Mê Cung Tân Nguyệt (リザードマン) |
 | Wyvern-folk |  | Tộc Phi Long | chủng tộc | 95 | Chủng tộc thú nhân mang đặc điểm của Phi Long, là chủng tộc có tri thức chứ không phải quái vật (飛竜種/飛竜人) |
+| Mina Goblin | Mina Goblins; the Mina Goblin | Goblin Mỏ Quặng | quái vật | 96 | Phân loài Goblin sinh sống ở vùng núi mỏ, da màu nâu đất, biết đúc rèn vũ khí |
+| Dwarf | Dwarves | Người Lùn | chủng tộc | 96 | Chủng tộc người lùn tinh thông nghề rèn và chế tác |
+| Wind Blade |  | Phong Đao | kỹ năng | 96 | Ma pháp phong hệ bắn ra lưỡi đao gió |
+| Mana iron | mana iron; Mana Iron; mana-iron | Ma Thiết | vật phẩm | 96 | Loại kim loại chứa ma lực, cứng hơn sắt thường và dẫn ma lực tốt (魔鉄) |

@@ -558,5 +558,12 @@ Khi mải ngắm cảnh, anh bị màn nghênh đón cố định gồm ba con L
 Tận dụng địa hình hẹp và đòn đâm trực diện, Rentt hất văng con Lizardman đầu tiên khiến con thứ ba trượt chân rơi xuống vực thẳm vô tận; tiếp đó anh lách qua con cầm giáo để chém bay con cầm kiếm bị thương xuống vực.
 Dẫn dụ con Lizardman cầm giáo cuối cùng chạy lên nền đất vững chắc của ngọn núi bay, Rentt khéo léo né đòn đâm, chém trọng thương và chặt đầu kết liễu nó, thu hoạch nguyên liệu rồi tiếp tục tiến bước thám hiểm tầng 4.
 
+## 96
+Rentt tiến vào các đường hầm trong ngọn núi bay tầng 4 Mê Cung Tân Nguyệt để tìm Ma Thiết rèn kiếm cho Alize, nhưng sau khi dùng cuốc chim chịu tải ma lực đào thử một mạch quặng gần lối vào, anh nhận thấy chất lượng quá kém nên quyết định đi sâu hơn.
+Trên đường đi, Rentt chứng kiến ảo ảnh chập chờn kỳ bí của một cô bé khoảng 5-6 tuổi với phong thái người lớn đang gặng hỏi một Khô Lâu mặc áo choàng có hoa văn xanh phát sáng trên sọ và có tri giác, trước khi cả hai tan biến vào hư không.
+Đi sâu vào trong, Rentt chạm trán một con Goblin Mỏ Quặng vạm vỡ cầm rìu hai tay; trong lúc giao tranh ác liệt, anh bị rìu chém sượt má và nhận ra vết thương nhẹ lập tức tự lành nhờ năng lực Ma Cà Rồng nhưng tiêu hao thể lực.
+Được Edel bất ngờ yểm trợ bằng ma pháp Phong Đao khiến con quái vật phân tâm quay lại, Rentt chớp thời cơ vung kiếm bổ vỡ sọ và chém đôi con Goblin Mỏ Quặng.
+
+
 
 
