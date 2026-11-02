@@ -409,4 +409,10 @@ Hôm sau tại nhà Lorraine, Rentt thảo luận về bình máu Ma Cà Rồng 
 Trước cảnh báo về mối hiểm họa chết người khi uống máu Ma Cà Rồng, Rentt lôi phi thuyền mô hình ra chơi để tạm gác nỗi sợ hãi, thậm chí vô tình chuyển dịch ý thức nhìn thấy góc nhạy cảm của Lorraine.
 Hiểu thấu khát khao chạm tới cảnh giới Mithril Cấp bất chấp hiểm nguy của Rentt, Lorraine cam kết sẽ hết lòng ủng hộ và lo liệu hậu sự nếu kịch bản tồi tệ xảy ra; Rentt dặn cô sẵn sàng dùng ma pháp thiêu rụi anh nếu hóa điên rồi dốc cạn bình máu vào họng.
 
+## 70
+Sau khi uống cạn bình máu Ma Cà Rồng, Rentt trải qua cơn đau đớn buốt nhói dữ dội khi các cơ quan nội tạng và da thịt cấp tốc hình thành; nhờ tâm trí Undead điềm tĩnh cùng ý chí hướng tới Mithril Cấp, anh giữ vững được lý trí trước khi bất tỉnh trong vòng tay đỡ của Lorraine.
+Tỉnh lại trên giường vào ban đêm, Rentt nhận thấy cơ thể có nhiều biến đổi rõ rệt như cảm giác căng cứng tứ chi và lần đầu tiên cảm nhận được sức nặng của mí mắt sau chuỗi ngày làm Thi Quỷ.
+Bên cạnh giường, Lorraine đang đọc cuốn sách bách khoa về sinh thái Ma Cà Rồng; cô giải thích về các chủng loại Ma Cà Rồng gồm Thi Quỷ, Hạ Cấp, Thượng Cấp, Đại Ma Cà Rồng, cùng các trường hợp đặc thù như Ma Cà Rồng Cổ Đại, Công Chúa Ma Cà Rồng và truyền thuyết Ma Cà Rồng Hoàng Hôn.
+Lorraine mỉm cười chuẩn bị tiết lộ kết quả phân loại hình thái tiến hóa mới của Rentt sau khi tỉnh giấc.
+
 

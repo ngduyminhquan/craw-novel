@@ -132,3 +132,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Fuyuj Douramage |  | Fuyuj Douramage | vật phẩm | 66 | Súng trường ma thuật nòng nhỏ gắn trên người Golem (Fusil de la mage) |
 | Bal |  | Bal | vật phẩm | 66 | Đạn ma pháp cường hóa bắn ra từ pháo hoặc súng ma thuật (Balle) |
 | Matured Vampire | Matured Vampires | Ma Cà Rồng Trưởng Thành | quái vật | 67 | Phân loài Ma Cà Rồng tiến hóa cao hơn Hạ Cấp Ma Cà Rồng, khó phân biệt với người thường |
+| Greater Vampire | Greater Vampires | Thượng Cấp Ma Cà Rồng | quái vật | 70 | Phân loài Ma Cà Rồng bậc cao hơn Hạ Cấp Ma Cà Rồng (上級吸血鬼) |
+| Grand Vampire | Grand Vampires | Đại Ma Cà Rồng | quái vật | 70 | Phân loài Ma Cà Rồng tối thượng có bầy đàn quyến thuộc (大吸血鬼) |
+| Ancient Vampire | Ancient Vampires | Ma Cà Rồng Cổ Đại | quái vật | 70 | Ma Cà Rồng sống qua năm tháng dài đằng đẵng (古代吸血鬼) |
+| Vampire Princess | Vampire Princesses | Công Chúa Ma Cà Rồng | quái vật | 70 | Ma Cà Rồng nữ xuất hiện trong truyện cổ dân gian (吸血姫) |
+| Twilight Vampire | Twilight Vampires | Ma Cà Rồng Hoàng Hôn | quái vật | 70 | Ma Cà Rồng truyền thuyết trong thần thoại phương xa (黄昏の吸血鬼) |
