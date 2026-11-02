@@ -128,9 +128,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | reviewed |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | reviewed |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | reviewed |  |
-| 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | done |  |
-| 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | done |  |
-| 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | done |  |
+| 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | reviewed |  |
+| 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | reviewed |  |
+| 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | reviewed |  |
 | 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | todo |  |
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | todo |  |
 | 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | todo |  |
@@ -642,3 +642,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#126] Dịch tiêu đề chương 'Vol 5 Chapter 3 - Existence and Status (2)': tạm chọn 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (2)' (đồng bộ với #125; phương án khác: 'Tập 5 Chương 3 - Tồn Tại và Thân Phận (2)', 'Tập 5 Chương 3 - Sự Tồn Tại và Địa Vị (2)'). Tạm dùng trong bản dịch: 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (2)'. → Chốt dùng 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (2)'. (orchestrator)
 - [#126] Dịch phân loài quái vật 'grand goblins' (đoạn 67): tạm chọn 'Đại Goblin' (đồng bộ cấu trúc với 'Đại Slime' ở #36; phương án khác: 'Goblin Khổng Lồ', 'Goblin Lớn'). Tạm dùng trong bản dịch: 'Đại Goblin'. → Chốt dùng 'Đại Goblin' (đồng bộ với 'Đại Slime'). (orchestrator)
 - [#126] Đồng nhất 'Water Moon Dungeon' và 'New Moon Dungeon' (đoạn 33-36): tạm chọn dịch là 'Mê Cung Nguyệt Ảnh' và 'Mê Cung Tân Nguyệt', đồng thời bổ sung vào cột Alias của hai mê cung trong glossary.md (phương án khác: tách dòng riêng). Tạm dùng trong bản dịch: 'Mê Cung Nguyệt Ảnh' và 'Mê Cung Tân Nguyệt'. → Chốt đồng nhất thành 'Mê Cung Nguyệt Ảnh' và 'Mê Cung Tân Nguyệt', bổ sung vào cột Alias trong glossary.md. (orchestrator)
+- [#124] Xác nhận sửa 'ở bất cứ đâu' thành 'trong khoảng' ở đoạn 27 → Chốt sửa thành 'trong khoảng từ 2.000 đến 2.500 đồng vàng' và thêm quy tắc thành ngữ vào rules.md. (orchestrator)
+- [#124] Xác nhận sửa 'nếu tôi đề bạt' thành 'nếu tôi gợi ý' ở đoạn 3 → Chốt sửa thành 'nếu tôi gợi ý'. (orchestrator)
+- [#125] Xác nhận sửa 'từ gốc rễ vấn đề kia kìa' ở đoạn 43 → Chốt sửa thành 'Đâu chỉ có thế, tôi còn cả đống bằng chứng khác nữa kia kìa' và thêm quy tắc thành ngữ vào rules.md. (orchestrator)
+- [#125] Xác nhận chuẩn hóa viết thường chữ 'tôi' trong câu dẫn thoại ở đoạn 47 và 49 → Chốt viết thường 'tôi hỏi' sau câu thoại. (orchestrator)
+- [#126] Xác nhận sửa 'đôi mắt chột' thành 'con mắt của ông' ở đoạn 24 → Chốt sửa thành 'con mắt của ông' đúng đặc điểm ngoại hình của Wolf. (orchestrator)

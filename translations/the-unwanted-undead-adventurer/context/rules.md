@@ -54,3 +54,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#115) Tránh dịch máy đại từ phiếm chỉ "you" thành "bạn" trong độc thoại tự sự ngôi thứ nhất (ví dụ: "bạn có thể tìm thấy" → "có thể tìm thấy", "nơi bạn có thể thưởng thức" → "nơi người ta có thể thưởng thức", "bạn có thể hình dung" → "đủ hiểu / có thể hình dung", "hơn bạn tưởng" → "hơn người ta tưởng").
 - (#117) Thành ngữ "have one's fill" / "had my fill" trong ngữ cảnh chịu đựng đau đớn/phiền phức: dịch là "chịu đựng quá đủ", "phát ngấy" (tránh dịch sai thành "ngán ngẩm").
 - (#120) Không viết hoa tùy tiện danh từ chung (như "quả cầu" / "khối cầu" khi miêu tả cấu trúc ma pháp trận).
+- (#124) Cấu trúc diễn đạt ước lượng "anywhere from [X] to [Y]": dịch là "trong khoảng từ X đến Y" hoặc "tầm từ X đến Y" (tránh dịch thô từng chữ "anywhere" thành "ở bất cứ đâu").
+- (#125) Thành ngữ "more [X] where that came from": dịch là "còn nhiều [X] tương tự như thế", "đâu chỉ có thế, còn nhiều [X] nữa" (tránh dịch máy thành "từ gốc rễ vấn đề").

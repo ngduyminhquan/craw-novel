@@ -386,7 +386,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #121 (được Lorraine nhắc tên).
 
 ### Wolf Hermann
-- Giới tính, tuổi/vẻ ngoài: Nam, cựu mạo hiểm giả trung niên vóc người to lớn vạm vỡ, mặc trang phục rộng thùng thình, cánh tay cuồn cuộn cơ bắp ngang ngửa những mạo hiểm giả phong trần nhất; có vết sẹo lớn chạy dọc chính giữa mắt trái, mắt phải sắc bén quắc thước như một chiến binh.
+- Giới tính, tuổi/vẻ ngoài: Nam, cựu mạo hiểm giả trung niên vóc người to lớn vạm vỡ, mặc trang phục rộng thùng thình, cánh tay cuồn cuộn cơ bắp ngang ngửa những mạo hiểm giả phong trần nhất; có vết sẹo lớn chạy dọc chính giữa mắt trái (bị chột mắt trái, chỉ còn con mắt phải; khi miêu tả dùng con mắt / con mắt của ông / con mắt còn lại, tránh dùng "đôi mắt"), mắt phải sắc bén quắc thước như một chiến binh.
 - Tính cách: Thẳng thắn, bộc trực, ghét lãng phí thời gian nhưng thấu tình đạt lý và rất quan tâm đến cấp dưới; mang ước mơ vươn tới Mithril Cấp thời còn làm mạo hiểm giả và đồng cảm sâu sắc với Rentt.
 - Thân phận, chức nghiệp: Hội Trưởng Hội Mạo Hiểm Giả chi nhánh thị trấn Maalt; từng là mạo hiểm giả cựu binh nhưng phải giải nghệ vì chấn thương mắt; được Tổng Hội Trưởng Yaaran đặc cách bổ nhiệm làm Hội Trưởng Maalt.
 - Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie"; cho phép mạo hiểm giả nói chuyện tự nhiên không cần câu nệ khách sáo.

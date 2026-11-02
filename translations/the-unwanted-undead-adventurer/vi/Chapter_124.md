@@ -4,7 +4,7 @@ Hôm ấy, tôi nhận được tin nhắn từ Thương hội Stheno. Khi tôi 
 
 Túi ma thuật vốn là những vật phẩm hiếm có. Nếu người ta muốn tìm một chiếc có thể nhét vừa vài con Orc hay đại loại thế thì cũng chẳng quá khó khăn. Song thứ tôi nhờ vả Sharl, người đứng đầu Thương hội Stheno, lại là một chiếc túi có thể chứa trọn một con Tarasque. Những món đồ cỡ ấy hầu như chẳng mấy khi lưu thông trên thị trường, và hễ có chiếc nào vừa xuất hiện là lập tức được bán sạch ngay. Tôi thực sự mừng rỡ khi ông ấy còn cất công liên lạc với tôi về chuyện này.
 
-Khi tới Thương hội Stheno, người nhân viên từng dẫn đường cho tôi lần trước lại đưa tôi tới phòng tiếp khách như dạo nọ. Tôi lại một lần nữa đi thang máy lên lầu. Thứ này chưa bao giờ thôi khiến tôi thấy kỳ thú. Tôi tự hỏi liệu Lorraine có thể lắp một cái trong nhà cô ấy không, nhưng có lẽ một ngôi nhà bình thường chẳng cần đến thứ như thế này. Bản thân Thương hội Stheno ngay từ đầu đã phải vận dụng hết mọi mối quan hệ sẵn có mới kiếm được một chiếc, thành thử nếu có ai ngỏ ý muốn lắp trong nhà riêng thì nhiều khả năng sẽ bị khước từ. Lorraine có thể sẽ tự tay làm thử một chiếc nếu tôi đề bạt, song tôi cũng chẳng thiết tha đến mức ấy. Đáng tiếc thay, tôi đành phải từ bỏ ý nghĩ đó. Giấc mộng của tôi tan thành mây khói.
+Khi tới Thương hội Stheno, người nhân viên từng dẫn đường cho tôi lần trước lại đưa tôi tới phòng tiếp khách như dạo nọ. Tôi lại một lần nữa đi thang máy lên lầu. Thứ này chưa bao giờ thôi khiến tôi thấy kỳ thú. Tôi tự hỏi liệu Lorraine có thể lắp một cái trong nhà cô ấy không, nhưng có lẽ một ngôi nhà bình thường chẳng cần đến thứ như thế này. Bản thân Thương hội Stheno ngay từ đầu đã phải vận dụng hết mọi mối quan hệ sẵn có mới kiếm được một chiếc, thành thử nếu có ai ngỏ ý muốn lắp trong nhà riêng thì nhiều khả năng sẽ bị khước từ. Lorraine có thể sẽ tự tay làm thử một chiếc nếu tôi gợi ý, song tôi cũng chẳng thiết tha đến mức ấy. Đáng tiếc thay, tôi đành phải từ bỏ ý nghĩ đó. Giấc mộng của tôi tan thành mây khói.
 
 Sau khi bước ra khỏi thang máy, tôi thưởng thức chút trà cùng đồ ăn vặt trong phòng tiếp khách trong lúc chờ đợi. Lần này họ bày ra những tấm bảng nhỏ màu nâu. Thoạt nhìn, tôi còn chẳng nhận ra chúng là đồ ăn, cho tới khi người nhân viên cất tiếng.
 
@@ -52,7 +52,7 @@ Tôi sẽ chẳng lấy làm ngạc nhiên nếu Nive sở hữu vài kỹ năng
 
 "Nó không phải loại đó sao?" tôi lo lắng hỏi.
 
-"Không hẳn là vậy, nhưng điều đó không có nghĩa đây là chiếc túi kém chất lượng. Trái lại mới đúng. Loại này có giá dao động từ 2.000 đến 2.500 đồng vàng ở bất cứ đâu."
+"Không hẳn là vậy, nhưng điều đó không có nghĩa đây là chiếc túi kém chất lượng. Trái lại mới đúng. Loại này có giá dao động trong khoảng từ 2.000 đến 2.500 đồng vàng."
 
 Khoản chênh lệch đó nghe có vẻ lớn với tôi. Không phải là tôi chê một món hàng tốt hơn, nhưng nếu ông đoái hoài một chút đến túi tiền của tôi thì tốt biết mấy. 1.800 đồng vàng tương đương 18 đồng bạch kim, và con số đó vốn dĩ đã đắt đỏ lắm rồi. Tôi có thể chi trả tối đa 20 đồng bạch kim nhờ khoản tiền bồi thường nhận được từ Nive, chứ nhiều hơn thế thì tôi chịu chết.
 
@@ -70,7 +70,7 @@ Tôi nghiêng đầu. "Thế nghĩa là sao ạ?"
 
 Ông đáp lời một cách thẳng thắn, và tôi phải thừa nhận rằng có lẽ ông nói đúng. Vài người có thể sẽ muốn cắt đứt quan hệ với ông sau những gì đã diễn ra, nhưng tôi không thấy cần thiết phải đi xa đến mức ấy. Dù sao thì mọi chuyện cũng đều do lỗi của Nive cả. Và bất kỳ thương hội nào khác nhiều khả năng cũng sẽ chấp nhận yêu cầu của Nive theo cách tương tự. Sự hậu thuẫn dành cho Giáo Hội Lobelia vốn hùng mạnh đến nhường ấy, dẫu sự hậu thuẫn đó trông giống như thứ mà Nive đang tự mình kéo theo sau lưng hơn.
 
-"Đúng là vậy, tôi cho rằng phần lớn chúng ta có thể làm thế," tôi đáp. Tôi vẫn cảm thấy cảnh giác trước ông, nhưng nếu cắt đứt quan hệ, tôi sẽ mất đi nguồn thông tin. Điều đó sẽ chỉ khiến tôi thêm phần bực bội mà thôi.
+"Đúng là vậy, tôi cho rằng về cơ bản thì có thể coi là như thế," tôi đáp. Tôi vẫn cảm thấy cảnh giác trước ông, nhưng nếu cắt đứt quan hệ, tôi sẽ mất đi nguồn thông tin. Điều đó sẽ chỉ khiến tôi thêm phần bực bội mà thôi.
 
 "Phần lớn thôi sao? Tôi hiểu rồi, xem ra ngài vẫn chưa thật sự tin tưởng tôi. Vậy thì điều thứ hai, ngài có thể cười nếu muốn, nhưng với tư cách một thương nhân, tôi ngờ rằng ngài có thể mang lại chút giá trị cho tôi đấy," ông thừa nhận.
 

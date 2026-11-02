@@ -46,7 +46,7 @@ Tôi không đáp lời. Tôi chỉ cầm lấy con dao găm rồi xắn tay áo
 
 Wolf hoảng hốt đứng bật dậy, nhưng đã quá muộn. Tôi đã rạch một đường dài dọc cánh tay trái. Vết rạch để lại một vết thương sâu hoắm, và máu bắt đầu rỉ ra.
 
-"Cái quái gì thế này?" Wolf thốt lên khi nhìn vào cánh tay tôi, nhưng đôi mắt chột của ông nhanh chóng trợn tròn kinh ngạc. Ông vừa chứng kiến một điều bất khả. "Vết thương khép miệng rồi ư? Làm sao có thể? Tôi đâu thấy cậu dùng bất kỳ loại thuốc hay ma pháp nào đâu." Sử dụng Thần Lực, ma pháp hay thuốc mỡ đều có thể mang lại hiệu quả tương tự. Từ kinh nghiệm của mình, Wolf biết đây là một thứ hoàn toàn khác.
+"Cái quái gì thế này?" Wolf thốt lên khi nhìn vào cánh tay tôi, nhưng con mắt của ông nhanh chóng trợn tròn kinh ngạc. Ông vừa chứng kiến một điều bất khả. "Vết thương khép miệng rồi ư? Làm sao có thể? Tôi đâu thấy cậu dùng bất kỳ loại thuốc hay ma pháp nào đâu." Sử dụng Thần Lực, ma pháp hay thuốc mỡ đều có thể mang lại hiệu quả tương tự. Từ kinh nghiệm của mình, Wolf biết đây là một thứ hoàn toàn khác.
 
 "Đây chính là lý do tôi buộc phải che giấu thân phận của mình. Nếu tiếp tục sống dưới thân phận cũ, sau này chắc chắn sẽ dẫn tới hỗn loạn khôn lường," tôi nói.
 
@@ -90,7 +90,7 @@ Wolf ngẫm nghĩ về những điều tôi vừa nói. Cuối cùng, ông gãi 
 
 Rồng là loài sinh vật rất khó tìm thấy dù người ta có muốn hay không. Wolf nghĩ tôi đã nhìn nhầm một thứ khác thành Rồng, phải thừa nhận rằng khả năng ấy nghe chừng có lý hơn nhiều. Thế nhưng những con Rồng kiểu này ắt hẳn phải tồn tại ở một nơi nào đó. Trong suốt chiều dài lịch sử đã có đủ người chạm trán chúng và mô tả lại hình dáng cho giới họa sĩ, và những bức họa khắc họa loài sinh vật này đều rất rõ ràng, chuẩn xác. Tôi từng xem qua những tác phẩm hội họa như thế trong sách ở nhà Lorraine nhiều lần, và một trong số đó trông giống hệt con quái vật đã nuốt chửng tôi.
 
-Thế nhưng, điều khiến tôi tin chắc chắn nhất rằng đó là một con Rồng chính là sức mạnh áp đảo cùng những đặc tính độc nhất vô nhị của nó. Không một con người nào có thể đứng vững trước thứ quái vật dị hợm ấy. Ngay khoảnh khắc nhìn thấy nó, tôi đã biết chắc chắn điều đó là sự thật. Trước đây tôi từng vài lần chạm trán Á Long, chẳng hạn như Rồng Đất, nhưng ngần ấy chẳng là gì so với cảm giác bất lực hoàn toàn mà tôi cảm nhận trước sinh vật ở Mê Cung Nguyệt Ảnh. Chưa từng có thứ gì khác khiến tôi cảm thấy tuyệt vọng đến nhường ấy.
+Thế nhưng, điều khiến tôi tin chắc chắn nhất rằng đó là một con Rồng chính là sức mạnh áp đảo cùng những đặc tính độc nhất vô nhị của nó. Không một con người nào có thể đứng vững trước thứ quái vật dị hợm ấy. Ngay khoảnh khắc nhìn thấy nó, tôi đã biết chắc chắn điều đó là sự thật. Trước đây tôi từng vài lần chạm trán Á Long, chẳng hạn như Rồng Đất, nhưng ngần ấy chẳng là gì so với cảm giác bất lực hoàn toàn mà tôi trải qua trước sinh vật ở Mê Cung Nguyệt Ảnh. Chưa từng có thứ gì khác khiến tôi cảm thấy tuyệt vọng đến nhường ấy.
 
 "Tôi biết mình đang nói thật. Tôi từng lo đó là ảo giác, nhưng tôi đã nếm trải ảo giác từ trước rồi. Nếu bị dính ảo giác thì tôi sẽ nhận ra ngay."
 
