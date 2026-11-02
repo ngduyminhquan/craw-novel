@@ -98,9 +98,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | reviewed |  |
 | 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | reviewed |  |
 | 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | reviewed |  |
-| 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | done |  |
-| 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | done |  |
-| 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | done |  |
+| 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | reviewed |  |
+| 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | reviewed |  |
+| 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | reviewed |  |
 | 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | todo |  |
 | 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | todo |  |
 | 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | todo |  |
@@ -561,3 +561,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#96] Dịch 'mana iron' / 'Mana Iron' (kim loại ma thuật cứng hơn sắt thường, có tính dẫn ma lực): tạm dùng 'Ma Thiết' (phương án khác: 'sắt ma lực'). → Giữ 'Ma Thiết' theo quy tắc Hán Việt cho vật liệu ma thuật. (orchestrator)
 - [#96] Dịch kỹ năng 'Wind Blade' của Edel: tạm dùng 'Phong Đao' theo quy tắc Hán Việt trong rules.md (phương án khác: 'Lưỡi Đao Gió', 'Đao Gió'). → Giữ 'Phong Đao' theo quy tắc Hán Việt trong rules.md. (orchestrator)
 - [#96] Dịch chủng tộc 'Dwarf' / 'Dwarves': tạm dùng 'Người Lùn' (phương án khác: giữ nguyên 'Dwarf'). → Giữ 'Người Lùn'. (orchestrator)
+- [#96] Xưng hô giữa cô bé bí ẩn và Khô Lâu khoác áo choàng trong ảo ảnh → Tạm giữ nguyên 'ta - ngươi' vì chưa rõ danh tính và bối cảnh ảo ảnh cổ xưa, chờ lộ danh tính ở các chương sau. (orchestrator)

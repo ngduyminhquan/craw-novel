@@ -40,7 +40,7 @@ Tôi hy vọng là vậy.
 
 Một lúc sau, một tia sáng mờ nhạt lấp lánh phía sau vách đá lọt vào mắt tôi. Đó dường như là một mạch quặng nào đó—thứ quặng chứa Ma Thiết mà tôi đang tìm kiếm.
 
-Tôi đẩy nhanh tốc độ đào bới. Những bức tường màu tro xám trở nên cứng hơn thấy rõ khi tôi tiếp tục đào sâu vào trong, nhưng với sức mạnh phi phàm phi nhân loại hiện tại cùng lượng ma lực đang cuộn chảy trong huyết quản, mấy tầng đá hơi cứng một chút này khó lòng làm khó được tôi.
+Tôi đẩy nhanh tốc độ đào bới. Những bức tường màu tro xám trở nên cứng hơn thấy rõ khi tôi tiếp tục đào sâu vào trong, nhưng với sức mạnh phi phàm phi nhân loại hiện tại cùng lượng ma lực đang cuộn chảy trong huyết quản, mấy tầng đá hơi cứng một chút này khó lòng cản bước được tôi.
 
 Tôi đã có thể khai thác được phần quặng mình cần một cách dễ dàng đến đáng ngạc nhiên. Tuy nhiên...
 
@@ -184,7 +184,7 @@ Hay có lẽ tôi nên chiến đấu ở mức độ khó khăn đó, và biế
 
 Dù sao đi nữa, những suy nghĩ đó tốt hơn hết là nên để về nhà rồi hẵng bận tâm. Hiện tại, điều quan trọng hơn là phải xử lý con Goblin Mỏ Quặng trước mắt này đã.
 
-Nó đang cầm một cây rìu hai tay lớn trên tay, thứ vũ khí mà tôi sẽ thấy rất khó khống chế, chứ đừng nói đến chuyện vung vẩy chung quanh. Thế nhưng đối với con Goblin Mỏ Quặng, cây rìu này có lẽ chẳng nặng nề chút nào.
+Nó đang cầm một cây rìu hai tay to lớn, thứ vũ khí mà tôi sẽ thấy rất khó khống chế, chứ đừng nói đến chuyện vung vẩy chung quanh. Thế nhưng đối với con Goblin Mỏ Quặng, cây rìu này có lẽ chẳng nặng nề chút nào.
 
 Thứ vũ khí ấy trông thật thô thiển; nó không những nặng nề mà còn khó kiểm soát... Vậy mà con Goblin Mỏ Quặng dường như đã thuần thục nó từ lâu lắm rồi. Nó dùng mặt phẳng của lưỡi rìu để đỡ những nhát chém của tôi, biến món vũ khí hai tay của mình thành một chiếc khiên chắn tạm thời. Khi lưỡi kiếm của tôi bật ra khỏi bề mặt rìu, nó sẽ lập tức phản công ngay.
 

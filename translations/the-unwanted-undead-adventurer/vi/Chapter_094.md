@@ -98,7 +98,7 @@ Trận chiến vẫn chưa kết thúc, nhưng từ giờ trở đi mọi chuy�
 
 Vì sao tôi biết điều này ư? Bởi vì giờ đây đã có những khoảng hở trong quy luật tấn công của chúng. Thời điểm áp sát của chúng đã lệch nhịp thấy rõ. Trước đó các đòn phối hợp của chúng tương đối hoàn hảo, nên chuyển biến mới này khiến chúng trở nên dễ đối phó hơn đáng kể.
 
-Bầy Sói Rừng dường như kinh ngạc trước cái cách tôi nhắm vào những kẽ hở giữa các đợt tấn công của chúng, trông có vẻ chết lặng và không biết phải phản ứng ra sao. Để đáp lại, con sói đầu đàn—lúc này đã lộ rõ vẻ kích động—nghiến chặt nanh vuốt trước khi lao thẳng về phía tôi.
+Bầy Sói Rừng dường như kinh ngạc trước cái cách tôi nhắm vào những kẽ hở giữa các đợt tấn công của chúng, trông có vẻ chết lặng và không biết phải phản ứng ra sao. Để đáp lại, con sói đầu đàn—lúc này đã lộ rõ vẻ kích động—nghiến chặt hai hàm nanh trước khi lao thẳng về phía tôi.
 
 Ta có thể kết liễu chuyện này ngay lúc này.
 
@@ -124,7 +124,7 @@ Nó há to miệng. Kèm theo một tiếng vút vang dội, thứ trông như m
 
 Chết tiệt!
 
-Tôi hoảng hốt gập người về phía trước, cố gắng né tránh đòn tấn công. Lưỡi đao gió màu xanh sượt qua người tôi trong đường tơ kẽ tóc, suýt chút nữa đã sượt qua má tôi. Ngay sau đó, một âm thanh vang rền như sấm nổ vang lên từ phía sau lưng tôi—tiếng của thứ gì đó đang nứt toác và gãy vụn. Quay đầu lại, tôi chứng kiến một thân cây lớn đổ rạp sang một bên, rõ ràng là đã bị ma pháp kia chém đứt ngọt ngào.
+Tôi hoảng hốt gập người về phía trước, cố gắng né tránh đòn tấn công. Lưỡi đao gió màu xanh sượt qua người tôi trong đường tơ kẽ tóc, suýt chút nữa đã sượt qua má tôi. Ngay sau đó, một âm thanh vang rền như sấm nổ vang lên từ phía sau lưng tôi—tiếng của thứ gì đó đang nứt toác và gãy vụn. Quay đầu lại, tôi chứng kiến một thân cây lớn đổ rạp sang một bên, rõ ràng là đã bị ma pháp kia chém đứt ngọt xớt.
 
 Nó vẫn còn sống sao...?
 

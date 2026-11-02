@@ -122,7 +122,7 @@ Lúc này khi đã ở khoảng cách an toàn, tôi ngước nhìn lại kẻ t
 
 Con Lizardman giờ đây đã bị thương khá nặng. Liệu tôi có nên tung đòn kết liễu nó ngay trong đợt tấn công tiếp theo hay không? Tôi không chắc lắm.
 
-Trong lúc tôi còn đang cân nhắc, con Lizardman trước mặt tôi chậm rãi lùi lại, hoán đổi vị trí với người đồng đội nãy giờ vẫn đứng phía sau nó.
+Trong lúc tôi còn đang cân nhắc, con Lizardman trước mặt tôi chậm rãi lùi lại, hoán đổi vị trí với đồng loại nãy giờ vẫn đứng phía sau nó.
 
 À, phải rồi. Một nước đi hợp lý từ phía chúng.
 
@@ -152,7 +152,7 @@ Con Lizardman khựng lại, đối mặt với tôi rồi một lần nữa th�
 
 Mới chỉ cách đây vài khoảnh khắc thôi, tôi hẳn sẽ phải khiếp hãi trước viễn cảnh này. Cân nặng của nó kết hợp với tầm với của vũ khí càng làm nhân lên nỗi sợ rơi xuống vực thẳm trong tôi. Thế nhưng giờ đây khi đã đứng trên nền đất vững chãi, chẳng còn điều gì khiến tôi phải sợ hãi nữa.
 
-Tôi cũng lao thẳng về phía con quái vật, vờ như muốn đối đầu trực diện với cú húc của nó... chỉ để rồi lách người sang phải vào giây cuối cùng. Bằng một nhát chém ngang chuẩn xác, lưỡi kiếm của tôi ngập sâu vào thân mình nó. Gần như ngay lập tức, tôi bồi thêm một nhát chém vào chân nó, và con Lizardman thoáng lảo đảo chúi người về phía trước dưới uy lực của đòn đánh. Đây chính là khoảnh khắc tôi hằng chờ đợi: cổ họng nó giờ đây đã lộ ra. Truyền một lượng lớn Ma Lực vào vũ khí, tôi giáng mạnh thanh kiếm xuống cổ nó, nhấn lưỡi kiếm xuyên qua da, gân và xương. Dù lưỡi kiếm của tôi vấp phải lực cản không nhỏ, nhưng nó chẳng kéo dài lâu, và đầu con Lizardman nhanh chóng rơi xuống.
+Tôi cũng lao thẳng về phía con quái vật, vờ như muốn đối đầu trực diện với cú húc của nó... chỉ để rồi lách người sang phải vào giây cuối cùng. Bằng một nhát chém ngang chuẩn xác, lưỡi kiếm của tôi ngập sâu vào thân mình nó. Gần như ngay lập tức, tôi bồi thêm một nhát chém vào chân nó, và con Lizardman thoáng lảo đảo chúi người về phía trước dưới uy lực của đòn đánh. Đây chính là khoảnh khắc tôi hằng chờ đợi: phần cổ nó giờ đây đã lộ ra. Truyền một lượng lớn Ma Lực vào vũ khí, tôi giáng mạnh thanh kiếm xuống cổ nó, nhấn lưỡi kiếm xuyên qua da, gân và xương. Dù lưỡi kiếm của tôi vấp phải lực cản không nhỏ, nhưng nó chẳng kéo dài lâu, và đầu con Lizardman nhanh chóng rơi xuống.
 
 Đó là một diễn biến rất khác so với những lần chạm trán theo lối đánh rồi rút trước đây của tôi. Tôi đoán việc không có nhiều không gian để xoay xở quả là một thử thách đáng kể đối với mình. Lại thêm một lời nhắc nhở rằng tôi cần phải rèn luyện nhiều hơn trong những tình huống tương tự, ngõ hầu có thể phát huy tối đa thực lực của bản thân khi chiến đấu.
 
