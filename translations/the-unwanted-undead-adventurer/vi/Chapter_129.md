@@ -52,7 +52,7 @@ Sự trùng hợp có thể mang lại những cuộc tao ngộ ngoài dự tín
 
 "Hôm trước khi ghé qua tiệm rèn, tôi có tình cờ gặp một người đàn ông tên là Idoles Rogue. Ngài ấy bảo đang tìm kiếm một cô gái tên là Rina Rogue. Người đó có phải là cô không?"
 
-Anh ta tự nhận đang đi tìm em gái mình, vốn là một mạo hiểm giả, nhưng họ của cô ấy lại khác với nàng Rina mà tôi quen biết. Tôi từng ngỡ rằng anh ta đang tìm kiếm ai đó khác, song tôi lại không hề hay biết có nữ mạo hiểm giả nào khác tên Rina mới đến thị trấn dạo gần đây, mà tôi thì lại nắm rất rõ những chuyện xảy ra ở Maalt. Khả năng cao người anh ta muốn tìm chính là Rina này, và đúng như dự đoán, cái tên tôi vừa thốt ra khiến mắt cô mở to vì sửng sốt.
+Anh ta tự nhận đang đi tìm em gái mình, vốn là một mạo hiểm giả, nhưng họ của cô ấy lại khác với cô bé Rina mà tôi quen biết. Tôi từng ngỡ rằng anh ta đang tìm kiếm ai đó khác, song tôi lại không hề hay biết có nữ mạo hiểm giả nào khác tên Rina mới đến thị trấn dạo gần đây, mà tôi thì lại nắm rất rõ những chuyện xảy ra ở Maalt. Khả năng cao người anh ta muốn tìm chính là Rina này, và đúng như dự đoán, cái tên tôi vừa thốt ra khiến mắt cô mở to vì sửng sốt.
 
 "Đó đúng là anh trai tôi. Tôi không hề biết anh ấy lại đến đây tìm tôi đấy."
 
@@ -84,7 +84,7 @@ Những mạo hiểm giả ở vương đô hung bạo hơn nhiều so với nh�
 
 "Vậy lúc nào thì tiện cho cô? Tôi có thể chuyển lời giúp. Cô chẳng muốn phải tốn công đi tìm kiếm đâu, đúng chứ?"
 
-Việc đó chẳng phiền toái gì đối với tôi, tất cả là nhờ có Edel. Tôi chỉ cần giả vờ như tình cờ gặp ngài ấy rồi hỏi xem nàng Rina mà ngài ấy đang tìm kiếm có phải là người tôi quen hay không. Chắc chắn điều đó sẽ khiến ngài ấy vui mừng. Có thể diện mạo của tôi sẽ khiến ngài ấy sinh nghi, nhưng miễn là tôi không yêu cầu gặp mặt ở những nơi kỳ quái thì sẽ chẳng có vấn đề gì. Nếu tôi đề xuất chúng tôi gặp nhau trong một căn lều xập xệ bên ngoài thành phố, chuyện đó có thể khiến ngài ấy đề phòng, nhưng biết đâu lại đáng để thử một phen. Không, chắc là thôi đi.
+Việc đó chẳng phiền toái gì đối với tôi, tất cả là nhờ có Edel. Tôi chỉ cần giả vờ như tình cờ gặp anh ta rồi hỏi xem cô bé Rina mà anh ta đang tìm kiếm có phải là người tôi quen hay không. Chắc chắn điều đó sẽ khiến ngài ấy vui mừng. Có thể diện mạo của tôi sẽ khiến ngài ấy sinh nghi, nhưng miễn là tôi không yêu cầu gặp mặt ở những nơi kỳ quái thì sẽ chẳng có vấn đề gì. Nếu tôi đề xuất chúng tôi gặp nhau trong một căn lều xập xệ bên ngoài thành phố, chuyện đó có thể khiến ngài ấy đề phòng, nhưng biết đâu lại đáng để thử một phen. Không, chắc là thôi đi.
 
 "Thật sao ạ?" Rina hỏi lại trước lời đề nghị của tôi. "Được thôi, nếu việc đó không quá phiền toái cho anh." Rồi cô cho tôi biết khi nào cô rảnh rỗi.
 
@@ -104,7 +104,7 @@ Sau đó, tôi rời khỏi nhà.
 
 ◆◇◆◇◆
 
-Những gì tôi đã nói với Lorraine là tôi vừa gặp Rina ở khu chợ và đã hứa sẽ chuyển lời nhắn đến anh trai cô, thế nên tôi cần phải ra ngoài để gặp ngài ấy. Trước đây tôi từng giải thích cho Lorraine về chuyện tôi gặp Rina trong mê cung ra sao, thành thử cô ấy khá hứng thú muốn diện kiến cô bé, nhưng chuyện đó có thể để lại vào dịp khác. Rina trông có vẻ bận rộn với công việc mạo hiểm giả, nên tôi chẳng rõ việc mời cô ấy tới chơi bời có thích hợp hay không.
+Những gì tôi đã nói với Lorraine là tôi vừa gặp Rina ở khu chợ và đã hứa sẽ chuyển lời nhắn đến anh trai cô, thế nên tôi cần phải ra ngoài để gặp ngài ấy. Trước đây tôi từng giải thích cho Lorraine về chuyện tôi gặp Rina trong mê cung ra sao, thành thử cô ấy khá hứng thú muốn gặp mặt cô bé, nhưng chuyện đó có thể để lại vào dịp khác. Rina trông có vẻ bận rộn với công việc mạo hiểm giả, nên tôi chẳng rõ việc mời cô ấy tới chơi bời có thích hợp hay không.
 
 Thuộc hạ của Edel đang theo dõi Idoles. Chú chuột Edel dẫn đường phía trước, còn tôi rảo bước theo sau nó. Lần cuối gặp ngài ấy, mặt nạ của tôi che kín cả khuôn mặt, thế nên tôi lại biến đổi nó về hình dạng đó một lần nữa. Bất kỳ người qua đường nào nhìn vào cũng sẽ thấy một gã khả nghi đeo mặt nạ đầu lâu khoác áo choàng đang bám theo một con chuột Puchi Suri màu đen quý hiếm. Trông tôi lúc này có lẽ chẳng khác nào một gã tử thần mắc dịch bệnh. Trên thực tế, tôi thỉnh thoảng lại nghe thấy tiếng hít thở kinh ngạc từ những ai trông thấy Edel và tôi. Chí ít thì trông tôi vẫn giống người, nhưng đó vẫn là một điềm báo chẳng lành. Chẳng ai để tâm đến tôi khi tôi hạ mũ trùm đầu xuống và định hình lại mặt nạ, song việc nhìn thấy tôi thế này giữa ban ngày ban mặt hẳn sẽ khiến người ta khiếp vía. Ồ mà kệ đi, ngoài cách này ra thì Idoles làm sao nhận ra tôi được.
 
@@ -140,7 +140,7 @@ Idoles tiến lại gần tôi hơn. Trông ngài ấy như sắp sửa túm l�
 
 "Có lẽ vậy? Thế nghĩa là sao?"
 
-"Nàng Rina mà tôi quen biết bảo rằng họ của cô ấy là Rupaage."
+"Cô bé Rina mà tôi quen biết bảo rằng họ của cô ấy là Rupaage."
 
 "Tôi hiểu rồi, đó là một cái họ khác. Vậy là ngài vẫn chưa tìm thấy con bé sao? Điều gì đã thôi thúc ngài điều tra về cô ấy ngay từ đầu vậy?"
 

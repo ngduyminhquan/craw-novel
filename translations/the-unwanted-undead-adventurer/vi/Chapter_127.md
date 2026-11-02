@@ -1,6 +1,6 @@
 # Chương 127: Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (3)
 
-Sau một hồi im lặng hồi lâu, Wolf cất tiếng hỏi: "Vậy thì, rốt cuộc cậu là cái thứ gì cơ chứ?"
+Sau một khoảng im lặng hồi lâu, Wolf cất tiếng hỏi: "Vậy thì, rốt cuộc cậu là cái thứ gì cơ chứ?"
 
 Ông ngẫm nghĩ về những điều vừa nghe được, và đó là câu hỏi mà ông nghĩ ra. Quả thực, đó là câu hỏi hệ trọng nhất trong tất cả, song bản thân tôi lại chẳng biết câu trả lời.
 
@@ -156,7 +156,7 @@ Liệu điều đó có chân thành không? Tôi đoán là có, dựa vào v�
 
 "Đúng vậy. Chẳng ai muốn nhìn thấy mớ cơ bắp khô khốc, thối rữa lộ hết cả ra ngoài đâu," tôi đáp.
 
-Wolf mường tượng ra cảnh tượng đó rồi nhăn mặt nhó mũi. "Cũng có lý. Nhưng giờ cậu có thể là Ma Cà Rồng hoặc không, và trông ít nhiều cũng giống như vậy rồi, chẳng phải sao?"
+Wolf mường tượng ra cảnh tượng đó rồi nhăn mặt nhăn mũi. "Cũng có lý. Nhưng giờ cậu có thể là Ma Cà Rồng hoặc không, và trông ít nhiều cũng giống như vậy rồi, chẳng phải sao?"
 
 "Đúng thế." Tôi gật đầu, thừa hiểu ông đang muốn hướng tới điều gì. "Ông đang thắc mắc về chiếc mặt nạ của tôi chứ gì?"
 
@@ -168,7 +168,7 @@ Tôi lắc đầu. Không hẳn vì điều đó không đúng, song lý do lớ
 
 "Đúng phóc rồi đấy."
 
-Wolf bật dậy đứng phắt dậy. "Cậu có phiền nếu tôi thử kéo nó ra khỏi mặt cậu không?" ông hỏi.
+Wolf đứng phắt dậy. "Cậu có phiền nếu tôi thử kéo nó ra khỏi mặt cậu không?" ông hỏi.
 
 Tôi cảm thấy mình chẳng thể nào từ chối được, bèn gật đầu. Wolf túm lấy hai bên mép mặt nạ rồi dùng hết bình sinh ra sức giật mạnh. Tôi suýt chút nữa thì ngã nhào, nhưng chiếc mặt nạ không hề xê xích lấy một phân.
 

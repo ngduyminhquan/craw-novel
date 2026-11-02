@@ -42,13 +42,13 @@ Nghe chừng cơ chế này coi như đã chết từ lâu, vậy mà Wolf lại
 
 "Tôi đoán là ngay từ đầu Hội Trưởng đã mưu tính dùng điều đó để lung lạc anh rồi," Lorraine nói.
 
-"Chắc là vậy, nhưng hà cớ gì phải đi xa đến mức đó chứ?" Tôi trăn trở.
+"Chắc là vậy, nhưng hà cớ gì phải đi xa đến mức đó chứ?" tôi trăn trở.
 
 "Ông ta đã để mắt đến anh suốt một thời gian dài rồi. Tôi đồ rằng ông ta cũng cân nhắc cách lôi kéo anh gia nhập hội ngần ấy thời gian. Trong đó bao gồm cả việc tìm cách thuê anh trong khi anh vẫn làm mạo hiểm giả. Ông ta thực sự đánh giá rất cao anh đấy."
 
 Nói cách khác, đây là phương án ông đã trăn trở trong đầu kể từ khi tôi trở thành mạo hiểm giả Đồng Cấp. Dẫu vậy, tôi hồ nghi việc ông lại coi trọng tôi đến nhường ấy.
 
-"Nghe rất giống phong cách của ngài ấy. Ngài ấy suy nghĩ sâu xa về những chuyện này lắm. Nhìn vẻ ngoài thì dễ hiểu lầm, nhưng tôi nghe nói ngài ấy thông minh lắm đấy. Dù sao ngài ấy cũng là một người tốt," Sheila chen ngang, đưa ra lời minh chứng củng cố cho suy đoán của Lorraine.
+"Nghe rất giống phong cách của Hội Trưởng. Ông ấy suy nghĩ sâu xa về những chuyện này lắm. Nhìn vẻ ngoài thì dễ hiểu lầm, nhưng tôi nghe nói ông ấy thông minh lắm đấy. Dù sao ông ấy cũng là một người tốt," Sheila chen ngang, đưa ra lời minh chứng củng cố cho suy đoán của Lorraine.
 
 Nếu quả thực là vậy thì ông đã nắm trọn tôi trong lòng bàn tay. Song việc thao túng một kẻ như tôi hẳn chẳng có gì khó khăn, bởi tôi vốn có xu hướng tùy cơ ứng biến, nước chảy bèo trôi. Tôi quyết định không bận tâm về chuyện đó nữa. Dù sao chuyện này cũng chẳng gây hại gì cho tôi, và nếu có biến cố gì phát sinh, lúc ấy hãy tính tiếp.
 
@@ -114,11 +114,11 @@ Chỉ còn lại một mình để ngắm nghía ma cụ, tôi đưa tay về ph
 
 Người đứng cạnh tôi cất lời xin lỗi. Cô gái cũng định chộp lấy món đồ cùng lúc và chạm vào tay tôi. Cú va chạm chẳng làm tôi đau đớn chút nào nên tôi không để bụng, song tôi lại thấy kỳ quặc khi có ai đó cũng hứng thú với món đồ này. Dĩ nhiên là trừ bản thân tôi ra. Dẫu vậy, tôi giấu đi cảm xúc của mình và ngước lên trò chuyện cùng cô.
 
-"Không sao đâu, tôi..." Tôi bắt đầu mở lời, nhưng rồi thời gian như ngưng đọng lại.
+"Không sao đâu, tôi..." tôi bắt đầu mở lời, nhưng rồi thời gian như ngưng đọng lại.
 
 "Có chuyện gì sao ạ? Mặt tôi dính gì à?" cô hỏi.
 
-Câu trả lời là trên đó có mắt, mũi và miệng, song đó không phải điều khiến tôi sững sờ không thốt nên lời. Tôi từng gặp người phụ nữ này trước đây. Cô gái sở hữu mái tóc vàng óng và đôi mắt xanh biếc. Gương mặt khiến cô trông còn rất trẻ, nhưng hứa hẹn sẽ trổ mã thành một đại mỹ nhân trong vài năm tới. Diện mạo ấy có phần tương phản với bộ giáp da và thanh kiếm cô đang đeo bên mình. Tôi chưa từng ngờ rằng lại gặp cô ở nơi này.
+Câu trả lời là trên đó có mắt, mũi và miệng, song đó không phải điều khiến tôi sững sờ không thốt nên lời. Tôi từng gặp cô gái này trước đây. Cô sở hữu mái tóc vàng óng và đôi mắt xanh biếc. Gương mặt khiến cô trông còn rất trẻ, nhưng hứa hẹn sẽ trổ mã thành một đại mỹ nhân trong vài năm tới. Diện mạo ấy có phần tương phản với bộ giáp da và thanh kiếm cô đang đeo bên mình. Tôi chưa từng ngờ rằng lại gặp cô ở nơi này.
 
 "Không, chẳng có gì đâu. Cô có nhận ra tôi không?" tôi hỏi.
 
@@ -126,7 +126,7 @@ Câu trả lời là trên đó có mắt, mũi và miệng, song đó không ph
 
 Có vẻ như cô đã quên, nhưng rồi tôi chợt nhớ ra một chuyện. Chiếc mặt nạ của tôi trông đã khác so với lần cuối chúng tôi gặp mặt.
 
-"Xin lỗi nhé, thế này thì sao?" Tôi nói rồi biến đổi chiếc mặt nạ thành hình đầu lâu che kín toàn bộ khuôn mặt. Tôi cũng trùm mũ áo choàng lên đầu và bước đi lảo đảo đầy vẻ khả nghi. Đôi mắt cô mở to kinh ngạc.
+"Xin lỗi nhé, thế này thì sao?" tôi nói rồi biến đổi chiếc mặt nạ thành hình đầu lâu che kín toàn bộ khuôn mặt. Tôi cũng trùm mũ áo choàng lên đầu và bước đi lảo đảo đầy vẻ khả nghi. Đôi mắt cô mở to kinh ngạc.
 
 "Ôi, anh là anh Rentt phải không?!" cô hét lên. Tôi biến đổi mặt nạ trở lại như cũ, cởi mũ trùm đầu xuống và gật đầu.
 

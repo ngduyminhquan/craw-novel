@@ -131,9 +131,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | reviewed |  |
 | 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | reviewed |  |
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | reviewed |  |
-| 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | done |  |
-| 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | done |  |
-| 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | done |  |
+| 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | reviewed |  |
+| 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | reviewed |  |
+| 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | reviewed |  |
 | 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | todo |  |
 | 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | todo |  |
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | todo |  |
@@ -653,3 +653,16 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#128] Dịch tựa sách của Lorraine 'Monster Cooking: How to Make Low-Quality Parts Taste Good' — tạm dịch 'Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon' (phương án khác: 'Nấu Ăn Bằng Ma Vật: Cách Biến Bộ Phận Kém Chất Lượng Thành Món Ngon'). Tạm dùng trong bản dịch: 'Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon'. → Chốt dùng 'Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon'. (orchestrator)
 - [#128] Đồng nhất 'Maaltan magnolia leaves' với loài cây 'Maalt-Hoonoki' (#31) — tạm dịch 'lá cây Hoonoki Maalt' và thêm 'Maaltan magnolia' vào Alias trong glossary.md (phương án khác: dịch là 'lá mộc lan Maalt'). Tạm dùng trong bản dịch: 'lá cây Hoonoki Maalt'. → Chốt đồng nhất thành 'Hoonoki Maalt' và thêm 'Maaltan magnolia' vào Alias trong glossary.md. (orchestrator)
 - [#129] Raw chương 129 viết tên nữ ma pháp sư đồng đội của Raiz là 'Lola' / 'Lola Satii' thay vì 'Laura Satii' như ở chương 33 (tiếng Nhật gốc ローラ); tạm giữ thống nhất theo chương 33 là 'Laura' / 'Laura Satii' và bổ sung 'Lola; Lola Satii' vào Alias của Laura Satii trong characters.md (phương án khác: đổi tên nhân vật thành Lola Satii). → Chốt giữ thống nhất tên 'Laura Satii' theo chương 33 và bổ sung 'Lola; Lola Satii' vào Alias trong characters.md đúng quy tắc Tên riêng (rules.md). (orchestrator)
+- [#127] Xác nhận sửa "Sau một hồi im lặng hồi lâu" thành "Sau một khoảng im lặng hồi lâu" ở đoạn 1 → Chấp nhận. (orchestrator)
+- [#127] Xác nhận sửa lỗi chính tả "nhăn mặt nhó mũi" thành "nhăn mặt nhăn mũi" ở đoạn 79 → Chấp nhận. (orchestrator)
+- [#127] Xác nhận sửa "Đúng thế." Tôi gật đầu" thành "Đúng thế," tôi gật đầu" ở đoạn 80 → Bác (hành động độc lập). (orchestrator)
+- [#127] Xác nhận bỏ từ ghép thừa "bật dậy đứng phắt dậy" thành "đứng phắt dậy" ở đoạn 85 → Chấp nhận. (orchestrator)
+- [#128] Xác nhận chuẩn hóa viết thường chữ "tôi" trong câu dẫn thoại ở các đoạn 18, 22, 58, 64 → Chấp nhận ở đoạn 22, 58, 64; bác ở đoạn 18. (orchestrator)
+- [#128] Xác nhận sửa lặp từ "ngài ấy" (4 lần) trong lời thoại của Sheila ở đoạn 25 thành xen kẽ "Hội Trưởng" và "ông ấy" → Chấp nhận. (orchestrator)
+- [#128] Xác nhận sửa "người phụ nữ này" thành "cô gái này" ở đoạn 60 khi Rentt nhận ra Rina để nhất quán với pronouns.md → Chấp nhận. (orchestrator)
+- [#129] Xác nhận sửa cách gọi ước lệ "nàng Rina" thành "cô bé Rina" ở các đoạn 27, 43 và 71 → Chấp nhận. (orchestrator)
+- [#129] Xác nhận sửa từ dùng sai "muốn diện kiến cô bé" thành "muốn gặp mặt cô bé" ở đoạn 53 → Chấp nhận. (orchestrator)
+- [#129] Xác nhận sửa "Vâng, tôi nghĩ là vậy." Tôi gật đầu" thành "Vâng, tôi nghĩ là vậy," tôi gật đầu" ở đoạn 64 → Bác (hành động độc lập). (orchestrator)
+- [#127] Xác nhận sửa lỗi lặp từ đoạn 1, chính tả đoạn 79 và bỏ từ ghép thừa đoạn 85 → Chốt sửa đoạn 1, 79, 85; giữ nguyên đoạn 80. (orchestrator)
+- [#128] Xác nhận sửa câu dẫn thoại đoạn 22, 58, 64, lặp từ đoạn 25 và đại từ đoạn 60 → Chốt sửa các đoạn 22, 25, 58, 60, 64; giữ nguyên đoạn 18. (orchestrator)
+- [#129] Xác nhận sửa cách gọi ước lệ 'nàng Rina' (đoạn 27, 43, 71) và từ 'diện kiến' (đoạn 53) → Chốt sửa 'nàng Rina' thành 'cô bé Rina', 'diện kiến' thành 'gặp mặt', cập nhật rules.md và pronouns.md. (orchestrator)

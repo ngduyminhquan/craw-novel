@@ -15,7 +15,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Clope | Clope / gã | 15 | Thợ rèn tiệm Ba Chĩa |
 | Loris Cariello | Loris / người đàn ông | 16 | Chủ quán ăn Phi Long Đỏ (tiết lộ tên ở #20) |
 | Isabel | Isabel / người phụ nữ | 20 | Vợ của Loris Cariello |
-| Idoles Rogue | Idoles / kỵ sĩ / người đàn ông | 24 | Kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn, anh trai Rina |
+| Idoles Rogue | Idoles / kỵ sĩ / người đàn ông / anh ta | 24 | Kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn, anh trai Rina |
 | Zarid | Zarid / người đàn ông | 28 | Kiếm sĩ kỳ cựu Thượng Đồng Cấp |
 | Raiz Dunner | Raiz / cậu thiếu niên | 33 | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp |
 | Laura Satii | Laura / cô gái / thiếu nữ | 33 | Nữ mạo hiểm giả ma pháp sư Thiết Cấp |
