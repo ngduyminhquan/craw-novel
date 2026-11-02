@@ -94,7 +94,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | reviewed |  |
 | 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | done |  |
 | 89 |  | Chapter_089 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2) | done |  |
-| 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | todo |  |
+| 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | done |  |
 | 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | todo |  |
 | 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | todo |  |
 | 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | todo |  |
@@ -546,3 +546,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#89] Dịch phân loài quái vật 'Middle Vampire' (đoạn 38) — tạm chọn 'Trung Cấp Ma Cà Rồng' (đối xứng chuẩn xác với Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng; phương án khác: 'Ma Cà Rồng Trung Cấp', 'Ma Cà Rồng Bậc Trung'). Tạm dùng trong bản dịch: 'Trung Cấp Ma Cà Rồng'. → Giữ 'Trung Cấp Ma Cà Rồng' đồng bộ với 'Hạ Cấp Ma Cà Rồng'. (orchestrator)
 - [#89] Dịch tổ chức nghiên cứu 'Monster Research Institution' (đoạn 28) — tạm chọn 'Viện Nghiên Cứu Quái Vật' (chuẩn Hán Việt ngắn gọn cho 魔物研究所; phương án khác: 'Cơ Quan Nghiên Cứu Quái Vật', 'Học Viện Nghiên Cứu Ma Vật'). Tạm dùng trong bản dịch: 'Viện Nghiên Cứu Quái Vật'. → Giữ 'Viện Nghiên Cứu Quái Vật'. (orchestrator)
 - [#89] Dịch thuật ngữ dụng cụ ma thuật 'magical focus' / 'magical foci' (đoạn 48, 50, 53) — tạm chọn 'vật dẫn ma pháp' (chuẩn ngữ cảnh dụng cụ dẫn truyền ma lực fantasy; phương án khác: 'tiêu điểm ma pháp', 'pháp bảo dẫn ma lực'). Tạm dùng trong bản dịch: 'vật dẫn ma pháp'. → Giữ 'vật dẫn ma pháp'. (orchestrator)
+- [#90] Dịch phân loài quái vật 'Orc Soldiers' (đoạn 68) — tạm chọn 'Orc Binh' (đồng bộ với 'Khô Lâu Binh' ở #18; phương án khác: 'Binh Sĩ Orc', 'Chiến Binh Orc'). Tạm dùng trong bản dịch: 'Orc Binh'. → Giữ 'Orc Binh' đồng bộ với 'Khô Lâu Binh'. (orchestrator)
+- [#90] Dịch phân loài quái vật Puchi Suri hệ hỏa 'Fuu Suri' và 'Fire Puchi Suri' (đoạn 14) — tạm chọn giữ nguyên 'Fuu Suri' theo rules.md và dịch 'Puchi Suri Hỏa' (phương án khác: 'Puchi Suri Lửa'). Tạm dùng trong bản dịch: 'Fuu Suri', 'Puchi Suri Hỏa'. → Giữ 'Fuu Suri' và 'Puchi Suri Hỏa'. (orchestrator)
+- [#90] Dịch tên câu thần chú làm sạch 'Linpio' (đoạn 1, 5, 6, 7) — tạm chọn giữ nguyên 'Linpio' theo quy tắc thần chú ma pháp trong rules.md tương tự Foteia Borivaas, Gie Vieros, Ignite Aryumage. Tạm dùng trong bản dịch: 'Linpio'. → Giữ nguyên tên câu thần chú 'Linpio' theo rules.md. (orchestrator)

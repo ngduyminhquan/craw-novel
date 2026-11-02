@@ -161,3 +161,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Middle Vampire | Middle Vampires | Trung Cấp Ma Cà Rồng | quái vật | 89 | Phân loài Ma Cà Rồng bậc trung, thường là thủ lĩnh chi phối Hạ Cấp Ma Cà Rồng (中級吸血鬼) |
 | Monster Research Institution |  | Viện Nghiên Cứu Quái Vật | tổ chức | 89 | Cơ quan nghiên cứu quái vật tại thủ đô của Vương Quốc Yaaran (魔物研究所) |
 | magical focus | magical foci | vật dẫn ma pháp | vật phẩm | 89 | Vật phẩm hỗ trợ pháp sư thi triển ma pháp và khuếch đại uy lực (gậy, trượng, quả cầu...) (焦点具/魔導具) |
+| Linpio |  | Linpio | kỹ năng | 90 | Thần chú tẩy rửa, làm sạch vết bẩn thuộc Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
+| Fuu Suri |  | Fuu Suri | quái vật | 90 | Biến thể hệ hỏa của loài Puchi Suri (フウスリ) |
+| Fire Puchi Suri |  | Puchi Suri Hỏa | quái vật | 90 | Phân loài Puchi Suri thuộc tính hỏa, danh xưng phân loài của Fuu Suri |
+| Orc Soldier | Orc Soldiers | Orc Binh | quái vật | 90 | Phân loài Orc trang bị vũ khí và giáp kim loại (オークソルジャー) |

@@ -524,3 +524,8 @@ Rentt trở về trao đổi với Lorraine về kế hoạch tham gia buổi đ
 Lorraine nhờ Rentt thu thập thêm quặng ma thuật và nguyên liệu để mở lớp dạy Alize cùng anh tự chế tạo vật dẫn ma pháp, đồng thời ủng hộ việc khôi phục truyền thống người thầy tặng vũ khí đầu tay cho đệ tử.
 Tiến vào tầng 1 Mê Cung Tân Nguyệt tìm nguyên liệu, Rentt dắt theo Edel để tìm đồ nhưng kinh ngạc chứng kiến chú chuột quyến thuộc tự mình tung cú tông xoay tít người với uy lực khủng khiếp, nghiền nát đầu Goblin và đánh tan xác lũ Slime mà không cần rút Ma Lực từ anh.
 
+## 90
+Rentt dùng Ma Thuật Sinh Hoạt Linpio tẩy sạch máu me trên lông Edel; ngỡ ngàng khi thấy chú chuột thi triển ma pháp tấn công chém toạc xác Goblin và phát hiện Edel đã mọc thêm màng bay tựa sóc bay, bay lượn lơ lửng điêu luyện nhờ hưởng lợi từ việc Rentt tiến hóa thành Hạ Cấp Ma Cà Rồng.
+Đáp ứng mong muốn phô diễn thực lực lên Orc của Edel, Rentt dẫn nó xuống tầng 2 Mê Cung Tân Nguyệt và nhận thấy hiện tượng chênh lệch thời gian kỳ lạ giữa mê cung và thế giới bên ngoài (bên ngoài ban ngày thì trong tầng là buổi chiều tà).
+Trong lúc mải suy nghĩ về đặc tính bầy đàn của loài Orc và tự nhắc nhở cảnh giác, Rentt bỗng thấy đầu nhẹ bẫng vì Edel đã biến mất; lần theo liên kết đến bìa rừng, anh tá hỏa phát hiện chú chuột quyến thuộc đang bị ba con Orc Binh trang bị vũ khí và áo giáp kim loại bao vây.
+

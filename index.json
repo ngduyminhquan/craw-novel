@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:55:50Z",
+  "generatedAt": "2026-11-02T16:02:21Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2687,6 +2687,12 @@
           "title": "Chương 89: Tập 4 Chương 1 - Tiến Về Mê Cung Tân Nguyệt (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_089.md",
           "sha": "8fe898650a097e126cc696ced5bdcb9b55fa16bc"
+        },
+        {
+          "number": 90,
+          "title": "Chương 90: Tập 4 Chương 1 - Tiến Về Mê Cung Tân Nguyệt (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_090.md",
+          "sha": "22921bf4effa6b3677f732f12c030f6bf16ba1e5"
         }
       ]
     },
