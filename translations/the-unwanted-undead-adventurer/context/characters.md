@@ -98,6 +98,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 78: Mở lớp giảng dạy ma thuật vỡ lòng cho Alize và Rentt; trực tiếp truyền dẫn Ma Lực khai mở cảm nhận năng lượng cho Alize; chỉ dẫn ba phương thức niệm chú (đầy đủ, rút gọn, vô niệm).
 - Trạng thái tính đến chương 99: Đích thân nấu bữa tối thịnh soạn cho Rentt sau khi anh trở về an toàn từ tầng 4 Mê Cung Tân Nguyệt; giải thích hiện tượng mê cung nuốt chửng công trình nhân tạo; hiếm hoi tâm sự về quá khứ từng là học giả tinh hoa tranh chức hiệu trưởng Đệ Nhất Đại Học Rermutt tại quê nhà nhưng bị giới học thuật chèn ép, đố kỵ nên đã rời bỏ Đế Quốc Rermutt tới Maalt.
 - Trạng thái tính đến chương 111: Phân tích giả thuyết Rentt không phải Ma Cà Rồng thuần túy mà là biến thể Undead nhờ kháng tính Thần Lực; đề xuất cùng Rentt làm một chuyến về thăm quê nhà để tìm hiểu về ngôi đền cổ.
+- Trạng thái tính đến chương 115: Từng bí mật điều tra gia tộc Latuule qua tài liệu hội đồng thành phố Maalt (nhờ đổi lấy thuốc giả kim); phấn khích tột độ khi biết Laura Latuule sở hữu thư viện đồ sộ và cho phép cô ghé thăm đọc sách, quyết định sẽ đến dù vẫn giữ sự thận trọng.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -257,6 +258,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
 - Trạng thái tính đến chương 68: Tại phòng tiếp khách, thấu hiểu niềm đam mê sưu tầm của Rentt và đồng ý tặng luôn mô hình phi thuyền nhỏ làm phần thưởng kèm theo bên cạnh thù lao hợp đồng ban đầu; tiết lộ bản thân mắc Bệnh Tích Tụ Chướng Khí giai đoạn cuối nên cần dùng Long Hoa Huyết định kỳ; bắt tay giao kết ủy thác định kỳ với Rentt và cho phép anh tiếp tục gọi thẳng tên mình.
 - Trạng thái tính đến chương 114: Vui vẻ chấp thuận tạm hoãn ủy thác thu hái Hoa Long Huyết định kỳ để Rentt về quê hương Hathara; giải thích việc nhận biết vị thần bảo hộ sẽ gia tăng uy lực ân phước Thần Lực; hào phóng cho Rentt mượn những thư tịch ghi chép bí thuật Thần Lực từ bộ sưu tập của gia tộc Latuule.
+- Trạng thái tính đến chương 115: Cho Rentt mượn sách thư viện về ba chủ đề (Thần Lực, thần tinh linh, chuyện dân gian Hathara); ngỏ ý mời bạn anh là Lorraine Vivie đến thư viện đọc sách và trò chuyện bên tách trà.
 
 ### Myullias Raiza
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.

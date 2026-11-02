@@ -671,6 +671,13 @@ Rentt đến dinh thự gia tộc Latuule xin tạm hoãn ủy thác thu hái Ho
 Khi Rentt chia sẻ về chuyến đi tìm hiểu đền thờ cùng danh tính vị thần bảo hộ, Laura tiết lộ việc nhận biết thần bảo hộ sẽ giúp ân phước Thần Lực gia tăng uy lực.
 Laura hào phóng cho Rentt mượn những cuốn thư tịch cổ ghi chép bí thuật và phương pháp vận dụng Thần Lực từ bộ sưu tập của gia tộc Latuule để mang theo nghiên cứu.
 
+## 115
+Tại thư viện đồ sộ của gia tộc Latuule, Isaac chọn lọc cho Rentt các thư tịch theo ba nhóm: ứng dụng Thần Lực (thánh ma pháp, ma pháp thần thánh, thánh kiếm thuật), nguồn gốc thần tinh linh, và văn học dân gian vùng Hathara cùng Maalt.
+Laura hào phóng ngỏ lời mời Rentt có thể thoải mái dẫn bạn mình là Lorraine tới thư viện đọc sách bất cứ lúc nào để cùng thưởng trà trò chuyện.
+Rentt trở về gặp Lorraine trên đường tới cô nhi viện; cả hai trao đổi về sự bí ẩn của gia tộc Latuule khi họ tham gia hội đồng điều hành Maalt suốt một thế kỷ qua nhưng gần như không để lại dấu vết điều tra.
+Nghe tin về kho sách quý giá không thể tìm thấy ở các hiệu sách cùng lời mời của Laura, Lorraine vô cùng phấn khích và quyết định sẽ ghé thăm dinh thự Latuule dù vẫn giữ sự thận trọng trước gia tộc này.
+
+
 
 
 

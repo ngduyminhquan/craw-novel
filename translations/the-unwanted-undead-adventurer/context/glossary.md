@@ -210,3 +210,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Hathara | Hathara village; village of Hathara | Hathara | địa danh | 114 | Ngôi làng nông thôn hẻo lánh nơi quê hương của Rentt Faina (ハタラ村) |
 | Great Forest of Ramuze |  | Đại Ngàn Ramuze | địa danh | 114 | Vùng rừng bí ẩn hoang vu, cách biệt với nền văn minh |
 | Floating Ruins of Hohel | the Floating Ruins of Hohel | Tàn Tích Lơ Lửng Hohel | địa danh | 114 | Vùng phế tích bay bí ẩn, bị hạn chế ra vào nghiêm ngặt |
+| holy magic |  | thánh ma pháp | kỹ năng | 115 | Ma pháp hệ thần thánh sử dụng Thần Lực |
+| holy swordsmanship |  | thánh kiếm thuật | kỹ năng | 115 | Kiếm thuật vận dụng trang bị thần thánh làm chất xúc tác dẫn truyền Thần Lực |
+| divine spirit | divine spirits; Divine Spirit; Divine Spirits | thần tinh linh | khác | 115 | Thực thể thần thánh/tinh linh tối cao ban phát Thần Lực (神霊) |
