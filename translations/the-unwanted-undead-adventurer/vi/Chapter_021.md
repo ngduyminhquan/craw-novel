@@ -1,4 +1,4 @@
-# Chương 21: Tập 1 Chương 5 - Minh Chứng Phi Nhân Tính (1)
+# Chương 21: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (1)
 
 Nói thật lòng thì, tôi thấy cực kỳ tiếc nuối khi Loris lại có gia đình. Giả như ông ta bảo mình không có người thân, lại thêm việc chẳng hề mắc nợ, thì tức là ông ta đã nói dối tôi. Nếu rơi vào trường hợp đó, mọi chuyện kỳ thực lại hóa ra có lợi cho tôi—chí ít thì tôi đã nghĩ như vậy.
 
