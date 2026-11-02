@@ -218,6 +218,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jinlin | Rentt Faina | tớ | cậu / Rentt | 139 | Bạn thanh mai trúc mã thuở nhỏ bằng tuổi |
 | Melissa | Rentt Faina | mẹ | con / Rentt | 139 | Mẹ ruột nói chuyện với con trai 5 tuổi |
 | Rentt Faina | Melissa | con | mẹ | 139 | Con trai 5 tuổi nói chuyện với mẹ ruột |
+| Locusta | Rentt Faina | cha | con / Rentt | 139 | Cha ruột nói chuyện với con trai 5 tuổi |
+| Rentt Faina | Locusta | con | cha | 139 | Con trai 5 tuổi nói chuyện với cha ruột |
+| Locusta | Melissa | anh | em | 139 | Vợ chồng |
+| Melissa | Locusta | em | anh | 139 | Vợ chồng |
 | Pravda | Jinlin | bà | cháu / Jinlin | 139 | Bà nội dặn dò cháu gái |
 | Jinlin | Pravda | cháu | bà | 139 | Cháu gái nói chuyện với bà nội |
 | Pravda | Rentt Faina | bà | cháu / Rentt | 139 | Bà nuôi nói chuyện với cháu nuôi |

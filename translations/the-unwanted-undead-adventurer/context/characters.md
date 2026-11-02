@@ -499,12 +499,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Pravda
 - Giới tính, vai trò: Nữ, mẹ của Trưởng Làng Ingo Faina, tức bà nội nuôi của Rentt Faina; là chị/em gái của bà lão làm thuốc Gharb.
-- Đặc điểm: Dung mạo khá giống Gharb nhưng khuôn mặt thanh thoát và hiền hậu hơn nhiều; đại diện gia đình trưởng làng trong chuyến đi buôn sang làng bên; qua đời cùng chuyến đi khi Rentt 5 tuổi.
+- Đặc điểm: Dung mạo khá giống Gharb nhưng khuôn mặt thanh thoát và hiền hậu hơn nhiều; đại diện gia đình trưởng làng trong chuyến đi buôn sang làng bên; sở hữu Ma Lực và biết dùng ma thuật; qua đời do quái vật sói bạc tấn công khi Rentt 5 tuổi (bị vuốt sói đâm xuyên lưng khi cố cầm chân quái vật cứu hai đứa trẻ).
 - Xuất hiện từ: #139 (qua lời kể của Rentt).
 
 ### Jinlin
 - Giới tính, vai trò: Nữ, con gái của Trưởng Làng Ingo Faina, bạn thanh mai trúc mã bằng tuổi của Rentt Faina (từng được hai bên gia đình hứa hôn từ nhỏ).
-- Đặc điểm: Tính cách hiếu động, nghịch ngợm, thích trèo cây, chơi đánh kiếm gỗ và luôn nhận làm mạo hiểm giả săn quái vật; thông minh, biết đọc viết từ nhỏ; bị say xe ngựa; qua đời trong chuyến đi buôn khi 5 tuổi.
+- Đặc điểm: Tính cách hiếu động, nghịch ngợm, thích trèo cây, chơi đánh kiếm gỗ và luôn nhận làm mạo hiểm giả săn quái vật; thông minh, biết đọc viết từ nhỏ; bị say xe ngựa; qua đời do quái vật sói bạc tấn công khi 5 tuổi (lấy thân mình đỡ móng vuốt sói cứu mạng Rentt và trút hơi thở cuối cùng trong vòng tay anh).
 - Xuất hiện từ: #139 (qua lời kể của Rentt).
 
 ### Tilya

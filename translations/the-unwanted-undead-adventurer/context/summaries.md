@@ -833,5 +833,12 @@ Cành cây gãy lìa khiến Jinlin ôm nàng tiên rơi xuống, Rentt kịp th
 Bà nội nuôi Pravda giận dữ xuất hiện giáo huấn hai đứa trẻ một trận nhớ đời vì tự tiện đi lạc và coi thường hiểm nguy nơi xứ lạ trước khi ôm chầm lấy chúng vì nhẹ nhõm.
 Tối hôm đó tại quán trọ, Jinlin bộc bạch ước mơ muốn trở thành mạo hiểm giả để chu du ngắm nhìn những cảnh tượng kỳ thú khắp thế giới thay vì gò bó làm trưởng làng; chương kết thúc khi Rentt trăn trở suy nghĩ về lời rủ rê của Jinlin rồi chìm vào giấc ngủ.
 
+## 141
+Rentt tiếp tục hồi ức: sáng hôm sau đoàn xe khởi hành trở về Hathara; trên xe, Pravda cảnh báo hai đứa trẻ về sự nguy hiểm cùng tập tính tráo đổi trẻ con của loài tiên, rồi hai đứa trẻ thiếp đi do tác dụng phụ của thuốc chống say.
+Cỗ xe bất ngờ bị lật nhào dữ dội; Rentt và Jinlin chui ra khỏi đống đổ nát thì bàng hoàng chứng kiến một con sói bạc đồ sộ toát ra hắc khí tà ác tàn sát đoàn xe; bà Pravda dùng ma pháp chặn quái vật nhưng lập tức bị vuốt sói đâm xuyên lưng sát hại, bên cạnh là thi thể cha mẹ Rentt.
+Rentt kéo Jinlin tháo chạy thục mạng nhưng bị con sói đuổi kịp và dồn vào đường cùng; khi con sói vung trảo định kết liễu Rentt, Jinlin đã xô anh ra và lấy thân mình đỡ trọn đòn chí mạng, rồi trút hơi thở cuối cùng trong vòng tay anh sau lời trăn trối đau đớn.
+Quẫn trí và đau xót tột cùng, Rentt nhặt cành cây lao vào quyết tử với con sói và đâm xước nướu nó; chương kết thúc khi một âm thanh va chạm kim loại vang lên đỡ đòn cứu mạng anh trước hàm răng quái vật.
+
+
 
 
