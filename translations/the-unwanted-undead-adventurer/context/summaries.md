@@ -144,3 +144,9 @@ Rời tiệm, Rentt vô tình va phải Idoles Rogue, một kỵ sĩ đĩnh đ�
 Trở về nhà Lorraine, Rentt vừa nấu ăn vừa nhấm nháp một lượng nhỏ máu của cô và bày tỏ ý định chuyển sang thám hiểm Mê Cung Tân Nguyệt cũng như đích thân đến Hội nhận ủy thác dài hạn.
 Lorraine phản đối vì Rentt tuy yếu nhưng lại là mạo hiểm giả kỳ cựu được Hội đánh giá rất cao (thậm chí sẵn sàng tuyển dụng làm nhân viên), nếu lộ diện trong bộ dạng kỳ lạ sẽ gây nghi ngờ và náo động; cô bất ngờ đề xuất Rentt hãy đăng ký lại tại Hội dưới một cái họ mới.
 
+## 25
+Rentt bước vào Hội Mạo Hiểm Giả trong nỗi hoài niệm và bồi hồi; anh đăng ký lại danh tính mạo hiểm giả mới dưới cái tên Rentt Vivie và bịa ra câu chuyện là họ hàng đến sống cùng Lorraine để tránh bị dò xét.
+Tiếp tân viên Sheila Ibarss ngậm ngùi nhắc đến sự mất tích của mạo hiểm giả Rentt Faina mà cô từng phụ trách nhưng không mảy may nghi ngờ danh tính mới, đồng thời cấp cho anh thẻ mạo hiểm giả Thiết Cấp tân binh.
+Sau khi nhận thẻ và từ chối nghe giải thích điều lệ vì đã thuộc lòng từ kiếp trước, Rentt đến bảng thông báo và quyết định nhận ủy thác săn Orc lấy nguyên liệu thay vì làm việc vặt hay săn Goblin.
+Sheila lo lắng khuyên can vì Orc là đối thủ ngang tầm Thượng Đồng Cấp quá nguy hiểm đối với tân binh, nhưng Rentt quả quyết khẳng định thực lực và nhận ủy thác trong sự dặn dò cẩn trọng của cô.
+

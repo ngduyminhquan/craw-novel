@@ -14,6 +14,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Isabel |  | Isabel | Vợ của Loris, cùng chồng điều hành quán ăn Phi Long Đỏ | #20 |
 | Idoles Rogue | Idoles | Idoles Rogue | Kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran, anh trai của Rina | #24 |
 | Rina Rogue |  | Rina Rogue | Tên thật của Rina Rupaage, tiểu thư gia tộc hiệp sĩ Rogue | #24 |
+| Rentt Vivie |  | Rentt Vivie | Danh tính mạo hiểm giả mới của Rentt Faina, mượn họ của Lorraine | #25 |
 
 ## Chi tiết
 
@@ -22,7 +23,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 24: Thể chất Thi Quỷ có thể ăn thức ăn bình thường và tiếp nhận thuốc hồi phục, miễn nhiễm hầu hết độc tố; khứu giác nhạy bén phân biệt được tuổi tác, giới tính, hướng và tình trạng sức khỏe qua mùi máu người; được Lorraine trích máu và chu cấp một lọ máu bảo quản để kiềm chế cơn khát; trả lại thanh kiếm mượn bị mòn vẹt do truyền Thần Lực khi đánh Khô Lâu Khổng Lồ ở khu vực chưa khai phá và được Clope cho mượn tạm thanh kiếm khác tốt hơn trong lúc chờ rèn xong kiếm đặt; vô tình gặp Idoles Rogue đang tìm kiếm em gái Rina nhưng quyết định giữ bí mật giúp cô bé; được Lorraine chỉ ra rằng anh quá nổi tiếng và được Hội đánh giá cao nên không thể dùng danh tính cũ nếu xuất hiện trong hình hài dị thường, đồng thời đề xuất anh đổi họ để đăng ký danh tính mạo hiểm giả mới.
+- Trạng thái tính đến chương 25: Đến Hội Mạo Hiểm Giả đăng ký danh tính mạo hiểm giả mới là Rentt Vivie (nhận họ của Lorraine), bịa lý do là họ hàng đến sống cùng cô để tránh bị điều tra nguồn gốc; nhận lại thẻ mạo hiểm giả Thiết Cấp từ Sheila; quyết định nhận nhiệm vụ săn Orc lấy nguyên liệu tại mê cung.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -53,7 +54,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua.
-- Trạng thái tính đến chương 15: Lo lắng bồn chồn khi Rentt mất tích nhiều ngày chưa về báo cáo nhiệm vụ.
+- Trạng thái tính đến chương 25: Bùi ngùi khi thấy một tân binh trùng tên Rentt và chia sẻ về sự mất tích của mạo hiểm giả Rentt Faina mà cô từng phụ trách; tin vào lý do Rentt Vivie là họ hàng của Lorraine; cấp thẻ Thiết Cấp và lo lắng khuyên can khi Rentt Vivie vừa vào nghề đã nhận nhiệm vụ săn Orc.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
@@ -82,3 +83,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lịch sự, nhã nhặn, chân thành; với chồng thì vừa yêu thương vừa nghiêm khắc răn đe.
 - Quan hệ: Vợ của Loris Cariello; vô cùng biết ơn Rentt vì đã cứu mạng chồng mình.
 - Trạng thái tính đến chương 20: Gặp gỡ Rentt tại quán Phi Long Đỏ, sau thoáng e ngại trước cánh tay khô quắt của Rentt đã thấu hiểu hoàn cảnh và chấp nhận thỏa thuận cùng Ma Tinh của anh với một cái bắt tay chân thành.
+
+### Rentt Vivie
+- Xem Rentt Faina (danh tính giả đăng ký tại Hội mạo hiểm giả dưới họ của Lorraine Vivie).

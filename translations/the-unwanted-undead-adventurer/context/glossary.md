@@ -70,3 +70,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Puchi Suri | Puchi Suris | Puchi Suri | quái vật | 22 | Quái vật dạng chuột nhỏ dễ bắt, có khả năng biến đổi theo môi trường để tiến hóa (プチスリ) |
 | Recording Crystal | Recording Crystals | Tinh Thể Ghi Hình | vật phẩm | 23 | Tinh thể ma thuật dùng để chụp lại hoặc lưu trữ hình ảnh (記録水晶) |
 | First Knightly Order | First Knights; the First Knightly Order | Đệ Nhất Kỵ Sĩ Đoàn | tổ chức | 24 | Kỵ sĩ đoàn tinh nhuệ bậc nhất của Vương Quốc Yaaran (第一騎士団) |
+| Orc | Orcs | Orc | quái vật | 25 | Quái vật dạng lợn/người to lớn hung dữ |
