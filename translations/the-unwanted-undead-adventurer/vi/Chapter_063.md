@@ -2,11 +2,11 @@
 
 Khi cô bé đối diện bên kia bàn một lần nữa đưa tách trà lên môi, tôi không khỏi nhận ra cô bé đang chăm chú nhìn tôi, đôi mắt xanh biếc dán chặt vào gương mặt đeo mặt nạ của tôi.
 
-“Có... Chuyện gì sao?” Tôi cất tiếng hỏi.
+"Có... Chuyện gì sao?" Tôi cất tiếng hỏi.
 
-“À... Tôi xin thứ lỗi. Tôi chỉ tự hỏi với bộ dạng như vậy thì ngài sẽ dùng trà bằng cách nào thôi.”
+"À... Tôi xin thứ lỗi. Tôi chỉ tự hỏi với bộ dạng như vậy thì ngài sẽ dùng trà bằng cách nào thôi."
 
-“À... Chuyện đó à.”
+"À... Chuyện đó à."
 
 Hiển nhiên là chiếc mặt nạ của tôi chẳng thể nào tháo ra được, và chuyện cởi bỏ nó trong lúc ăn uống thậm chí còn chưa từng thoáng qua trong suy nghĩ của tôi. Vào thời điểm này, tôi vẫn đang đeo chiếc mặt nạ trên mặt, thành thử mới nhận phải ánh nhìn tò mò từ cô bé ngồi đối diện.
 
@@ -22,7 +22,7 @@ Bởi cơ thể tôi đang ở trong tình trạng người không ra người n
 
 Tựu trung lại, để lộ gương mặt cho cô bé thấy là một ý tồi. Trong trường hợp đó... Tôi nên bịa ra lý do gì cho phải đây?
 
-“Đó là một món ma cụ nào đó sao...?” Một câu hỏi cất lên từ chính cô bé, có lẽ là để phản ứng lại điều gì đó mà cô vừa chứng kiến.
+"Đó là một món ma cụ nào đó sao...?" Một câu hỏi cất lên từ chính cô bé, có lẽ là để phản ứng lại điều gì đó mà cô vừa chứng kiến.
 
 Nếu tôi đoán không lầm... Chiếc mặt nạ của tôi đã lại thay đổi hình dạng. Nhưng thay vì để lộ toàn bộ nửa dưới khuôn mặt, nó chỉ mở ra một khe hẹp nhỏ ngay chỗ miệng tôi — vừa khít hình dạng để tôi có thể uống trà.
 
@@ -30,31 +30,31 @@ Trong điều kiện bình thường, hình dạng này không thể duy trì qu
 
 Đưa tách lên khe hở trên mặt nạ, tôi nhấp từng ngụm, vừa uống vừa đáp lời cô bé.
 
-“Không hẳn là... Ma cụ. Đúng hơn là... Một món. Nguyền Cụ. Một người quen... Của tôi. Đã mua nó từ một thương nhân... Bán dạo ở Maalt.”
+"Không hẳn là... Ma cụ. Đúng hơn là... Một món. Nguyền Cụ. Một người quen... Của tôi. Đã mua nó từ một thương nhân... Bán dạo ở Maalt."
 
-Nghe tôi nói, đôi mắt cô bé mở to, gần như lấp lánh khi hào hứng đáp lời: “Maalt lại có những món đồ thú vị đến vậy sao...? Xin thứ lỗi cho sự đường đột của tôi, nhưng... Liệu có cách nào để tôi mua lại chiếc mặt nạ đó từ tay ngài không?”
+Nghe tôi nói, đôi mắt cô bé mở to, gần như lấp lánh khi hào hứng đáp lời: "Maalt lại có những món đồ thú vị đến vậy sao...? Xin thứ lỗi cho sự đường đột của tôi, nhưng... Liệu có cách nào để tôi mua lại chiếc mặt nạ đó từ tay ngài không?"
 
 Gia tộc Latuule nghe đâu có thói quen sưu tầm đủ mọi loại ma cụ. Nhìn thái độ của cô bé, dường như tin đồn đó quả thực có phần đúng.
 
 Dẫu không rõ địa vị xã hội chính xác của cô bé trong gia tộc Latuule, tôi có thể chắc chắn một điều: không giống như Isaac, người hầu hạ cho gia tộc, cô bé này không thể nghi ngờ gì nữa chính là một trong số ít những người được những kẻ như anh ta phụng sự.
 
-Tôi đoán cô bé có ý trả tiền để “mua lại từ tay tôi”, và đúng như dự đoán, cuộc trò chuyện liền rẽ theo hướng đó.
+Tôi đoán cô bé có ý trả tiền để "mua lại từ tay tôi", và đúng như dự đoán, cuộc trò chuyện liền rẽ theo hướng đó.
 
-“Nhưng tất nhiên rồi,” cô bé nói tiếp, “tôi sẽ đảm bảo ngài được đền bù thỏa đáng và hài lòng với cuộc trao đổi... Vậy, ngài thấy thế nào?” Giọng cô bé đầy vẻ háo hức.
+"Nhưng tất nhiên rồi," cô bé nói tiếp, "tôi sẽ đảm bảo ngài được đền bù thỏa đáng và hài lòng với cuộc trao đổi... Vậy, ngài thấy thế nào?" Giọng cô bé đầy vẻ háo hức.
 
 Thành thật mà nói, tôi cũng rất muốn trao chiếc mặt nạ cho cô bé. Khổ nỗi, đó lại là chuyện tôi chẳng thể làm vào thời điểm này. Dẫu có là một vật bị nguyền rủa đi chăng nữa, chiếc mặt nạ cũng đã trở thành một công cụ không thể thiếu trong cuộc sống thường nhật của tôi.
 
 Thêm vào đó, chiếc mặt nạ này còn bị nguyền để dính chặt không thể lay chuyển, và đó cũng là điều tôi định nói với cô bé. Chí ít thì tôi cũng cần một gương mặt có thể để cho người khác nhìn thấy trước khi tính đến chuyện tháo nó ra.
 
-Trên thực tế, bất chấp sở thích cá nhân của tôi ra sao, nó vẫn ngoan cố dính chặt vào mặt tôi, và sự thật rành rành là thế. Ngay cả khi tôi có thực lòng cố gắng gỡ nó ra, đó chắc chắn vẫn là một kỳ tích bất khả thi.
+Trên thực tế, bất chấp sở thích cá nhân của tôi ra sao, nó vẫn ngoan cố dính chặt vào mặt tôi, và sự thật rành rành là thế. Ngay cả khi tôi có thực lòng cố gắng gỡ nó ra, đó chắc chắn vẫn là một việc bất khả thi.
 
 Cảnh tượng bản thân ngập chìm trong một ngọn núi nhỏ những đồng xu vàng vụt lướt qua trước mắt tôi. Sự cám dỗ dường như đang chầm chậm kéo tôi rời xa thực tại, nhưng tôi dứt khoát lắc đầu, đè nén những dục vọng trần tục của mình xuống.
 
-“...Tôi xin lỗi. Chuyện này không phải... Vì tiền. Đơn giản là tôi... Không thể...”
+"...Tôi xin lỗi. Chuyện này không phải... Vì tiền. Đơn giản là tôi... Không thể..."
 
 Tôi đoán đó là một tông giọng khá thảm hại, hay ít nhất cũng đượm vẻ xót xa, bởi nét mặt hào hứng ban nãy của cô bé giờ đã chuyển sang vẻ thương hại.
 
-“À, không. Không sao đâu. Có vẻ như tôi đã khơi lại một vài... Ký ức chẳng mấy vui vẻ, lại còn khiếm nhã đem tiền ra đề nghị trao đổi với ngài. Tôi thật lòng xin lỗi...”
+"À, không. Không sao đâu. Có vẻ như tôi đã khơi lại một vài... Ký ức chẳng mấy vui vẻ, lại còn khiếm nhã đem tiền ra đề nghị trao đổi với ngài. Tôi thật lòng xin lỗi..."
 
 Ký ức chẳng mấy vui vẻ ư...? Không, không hề có chuyện đó. Chẳng có chút tâm tư hay kỷ niệm đặc biệt nào gắn liền với chiếc mặt nạ này cả. Thật sự mà nói, nó giống một cơn ác mộng hơn, một cơn ác mộng bỗng nhiên tự dán chặt vào mặt tôi và không bao giờ chịu buông ra. Ngay cả bây giờ, dù tôi đã dốc hết sức bình sinh, chiếc mặt nạ vẫn cứ bám riết lấy tôi.
 
@@ -62,7 +62,7 @@ Nếu phải diễn tả thành lời, thì nỗi tuyệt vọng tôi đang cả
 
 Nhìn phản ứng của cô bé, tôi cho rằng mình nên ngậm miệng lại thì khôn ngoan hơn, kẻo lại chuốc lấy sự khinh miệt từ cô... Dù tiền bạc quả thực là rất quan trọng.
 
-“Không... Tôi không. Để bụng đâu. Người ta không thể nào... Biết được. Những chuyện như vậy chỉ bằng cách... Nhìn vào. Một món đồ. Nói đúng hơn thì tôi... Thấy biết ơn. Vì cô bé đã... Nghĩ cho tôi. Nhiều đến thế.”
+"Không... Tôi không. Để bụng đâu. Người ta không thể nào... Biết được. Những chuyện như vậy chỉ bằng cách... Nhìn vào. Một món đồ. Nói đúng hơn thì tôi... Thấy biết ơn. Vì cô bé đã... Nghĩ cho tôi. Nhiều đến thế."
 
 Như tôi đã nói, từ bên ngoài, chẳng ai có thể nhận ra sự quyến luyến vật chất mãnh liệt của tôi đối với tiền bạc. Như vậy cũng tốt, vì trông tôi sẽ đứng đắn hơn theo cách này.
 
@@ -70,15 +70,15 @@ Than ôi, tôi đã trở thành một người lớn tồi tệ đến nhườn
 
 Nhìn vào đôi mắt trong veo, ngây thơ của cô bé...
 
-“Nếu ngài thực sự nghĩ như vậy thì tôi lấy làm cảm kích lắm. Nhân tiện, trà có vừa miệng ngài không?”
+"Nếu ngài thực sự nghĩ như vậy thì tôi lấy làm cảm kích lắm. Nhân tiện, trà có vừa miệng ngài không?"
 
 Một pha đổi chủ đề đầy bất ngờ và khéo léo.
 
 Trước lời gợi mở của cô bé, tôi chuyển sự chú ý sang tách trà trên tay mình. Chẳng hiểu vì sao, nó lại có vị... Thơm ngon. Ngon đến khó tin. Hương thơm của nó cũng thuộc một đẳng cấp hoàn toàn khác biệt. Đây rất có thể là tách trà ngon nhất mà tôi từng được nếm trong suốt cuộc đời mình.
 
-“Đây là chén trà... Ngon nhất. Tôi từng uống trong... Suốt cả đời mình,” tôi thành thật trả lời câu hỏi của cô bé. “Điều này cũng là nhờ vào... Tính chất ma thuật. Của chiếc ấm trà sao?”
+"Đây là chén trà... Ngon nhất. Tôi từng uống trong... Suốt cả đời mình," tôi thành thật trả lời câu hỏi của cô bé. "Điều này cũng là nhờ vào... Tính chất ma thuật. Của chiếc ấm trà sao?"
 
-“Tôi cho là vậy, đúng thế. Dẫu vậy, công lao ít thuộc về ma thuật của ấm trà hơn, mà phần nhiều là nhờ tay nghề và công sức chăm bẵm mà các gia đình nông dân đã đổ vào những cây chè ấy. Như tôi đã đề cập lúc trước, chiếc ấm này sở hữu năng lực ma thuật có thể tái hiện vô tận bất kỳ loại lá trà nào từng được bỏ vào trong nó. Nói cách khác... Ai đó đã bỏ những lá trà này vào từ nhiều năm trước, thậm chí có thể là vài thập kỷ trước. Trong số tất cả những vị trà khác nhau mà tôi từng nếm thử từ kho lưu trữ bên trong chiếc ấm này... Thì theo tôi, đây là loại thơm ngon nhất.”
+"Tôi cho là vậy, đúng thế. Dẫu vậy, công lao ít thuộc về ma thuật của ấm trà hơn, mà phần nhiều là nhờ tay nghề và công sức chăm bẵm mà các gia đình nông dân đã đổ vào những cây chè ấy. Như tôi đã đề cập lúc trước, chiếc ấm này sở hữu năng lực ma thuật có thể tái hiện vô tận bất kỳ loại lá trà nào từng được bỏ vào trong nó. Nói cách khác... Ai đó đã bỏ những lá trà này vào từ nhiều năm trước, thậm chí có thể là vài thập kỷ trước. Trong số tất cả những vị trà khác nhau mà tôi từng nếm thử từ kho lưu trữ bên trong chiếc ấm này... Thì theo tôi, đây là loại thơm ngon nhất."
 
 Đúng như lời cô bé nói, trà quả thực rất ngon. Có rất nhiều yếu tố ảnh hưởng đến chất lượng của lá trà, bao gồm địa hình và thời tiết, kể sơ sơ là vậy. Bởi lý do đó, lá trà thường có sự chênh lệch rất lớn về mặt phẩm chất. Người ta cũng không thể kỳ vọng một cách thực tế rằng sẽ được thưởng thức thứ trà có hương vị tương tự nhau quanh năm suốt tháng.
 
@@ -90,11 +90,11 @@ Nó rất có thể là chiếc ấm trà tối thượng.
 
 Dẫu có vài người thích tận hưởng dòng chảy hương vị đổi thay không ngừng theo năm tháng và hồi tưởng lại những vị trà cũ trong ký ức. Tuy nhiên, hoàn toàn hợp lý khi cho rằng hầu hết mọi người đều sẽ dễ dàng nhận ra giá trị của một chiếc ấm như vậy và khao khát có được nó.
 
-“Chính xác thì... Cô bé đã tìm mua. Một món đồ như vậy ở đâu thế?”
+"Chính xác thì... Cô bé đã tìm mua. Một món đồ như vậy ở đâu thế?"
 
-“Nếu tôi nhớ không lầm, nó được phát hiện trong một mê cung xa xôi từ gần hai thế kỷ trước. Một khoản tiền lớn đã được trả cho người mạo hiểm giả tìm thấy nó, và rồi nó thuộc quyền sở hữu của chúng tôi. Còn về số tiền... Tôi nhớ đâu đó khoảng 300 đồng xu bạch kim.”
+"Nếu tôi nhớ không lầm, nó được phát hiện trong một mê cung xa xôi từ gần hai thế kỷ trước. Một khoản tiền lớn đã được trả cho người mạo hiểm giả tìm thấy nó, và rồi nó thuộc quyền sở hữu của chúng tôi. Còn về số tiền... Tôi nhớ đâu đó khoảng 300 đồng xu bạch kim."
 
-“Đồng xu... Bạch kim...”
+"Đồng xu... Bạch kim..."
 
 Chỉ cần người ta không phung phí tiền bạc, một đồng xu bạch kim duy nhất đã là quá đủ để một người có thể sống một cuộc đời sung túc. Thật không ngờ người ta lại chi tới 300 đồng xu như thế...
 
@@ -104,29 +104,29 @@ Cuối cùng tôi cũng hiểu rằng nhà Latuule là một gia tộc nguy hi�
 
 Sau vài chủ đề trò chuyện tiếp theo, cuối cùng tôi cũng đứng dậy, cẩn thận không làm rơi hay va đổ bất cứ thứ gì.
 
-“Ôi, ngài đã đi rồi sao?” Cô bé hỏi.
+"Ôi, ngài đã đi rồi sao?" Cô bé hỏi.
 
-“Phải... Tôi phải đi rồi. Cuộc trò chuyện... Rất thú vị. Đây chỉ là... Một phỏng đoán. Nhưng tôi có cảm giác chẳng mấy chốc chúng ta... Sẽ gặp lại nhau, đúng không?”
+"Phải... Tôi phải đi rồi. Cuộc trò chuyện... Rất thú vị. Đây chỉ là... Một phỏng đoán. Nhưng tôi có cảm giác chẳng mấy chốc chúng ta... Sẽ gặp lại nhau, đúng không?"
 
-“Ồ?” Cô bé khẽ mỉm cười lấp lửng trước câu hỏi của tôi. “Ngài đã nhận ra rồi sao?”
+"Ồ?" Cô bé khẽ mỉm cười lấp lửng trước câu hỏi của tôi. "Ngài đã nhận ra rồi sao?"
 
 Nghe vậy, rõ ràng cô bé quả thực là một thành viên của gia tộc Latuule. Còn về vị trí xã hội của cô bé trong gia tộc... Tôi vẫn chưa có đủ thông tin trong tay.
 
-“...Vâng. Bằng cách này hay... Cách khác. Tôi sẽ xin phép hỏi... Tên cô bé. Khi chúng ta gặp lại.”
+"...Vâng. Bằng cách này hay... Cách khác. Tôi sẽ xin phép hỏi... Tên cô bé. Khi chúng ta gặp lại."
 
-“Vậy thì, chúc ngài đi đường cẩn thận... Lối ra của mê cung không còn xa nữa đâu, nhưng có lẽ tôi sẽ tặng ngài một gợi ý. Tốt nhất là ngài đừng nhìn lên mặt trời.”
+"Vậy thì, chúc ngài đi đường cẩn thận... Lối ra của mê cung không còn xa nữa đâu, nhưng có lẽ tôi sẽ tặng ngài một gợi ý. Tốt nhất là ngài đừng nhìn lên mặt trời."
 
-“Thật ra tôi... Đã nghe điều đó rồi. Từ người gác cổng.”
+"Thật ra tôi... Đã nghe điều đó rồi. Từ người gác cổng."
 
-“Ồ? Vậy có lẽ là thừa thãi rồi. Dẫu vậy, ngài hãy suy ngẫm đôi chút về những lời đó nhé.”
+"Ồ? Vậy có lẽ là thừa thãi rồi. Dẫu vậy, ngài hãy suy ngẫm đôi chút về những lời đó nhé."
 
-“Tôi hiểu rồi.”
+"Tôi hiểu rồi."
 
 Dứt lời, tôi bước một bước ra khỏi khoảng sân trống — và gần như ngay lập tức, một bức tường dây leo và lá cây mọc trồi lên từ chính nơi tôi vừa đứng vài giây trước, che khuất hoàn toàn cô bé cùng chiếc bàn trà khỏi tầm mắt tôi.
 
 Quan sát kỹ xung quanh, tôi nhận ra mọi ngả đường trước mắt đều tiếp tục đâm sâu vào mê cung. Dù nhìn nhận theo cách nào đi nữa, tôi chắc chắn sẽ bị lạc bất kể có chọn lối đi nào.
 
-“...Lối ra không... Còn xa nữa. Cô bé bảo thế. Điều đó có thật sự... Đúng không?” Tôi lẩm bẩm trong miệng khi bắt đầu dấn bước thám hiểm mê cung một lần nữa.
+"...Lối ra không... Còn xa nữa. Cô bé bảo thế. Điều đó có thật sự... Đúng không?" Tôi lẩm bẩm trong miệng khi bắt đầu dấn bước thám hiểm mê cung một lần nữa.
 
 Tôi chỉ muốn đi tới đích của mê cung càng nhanh càng tốt.
 
@@ -140,7 +140,7 @@ Vấn đề trước mắt vượt ngoài sự hiểu biết của tôi. Rồi c
 
 Có lẽ đã đến lúc cần thay đổi đôi chút, thành thử tôi ngẩng đầu lên, nhìn về phía mặt trời.
 
-“...Trông nó có vẻ. Vẫn như mọi... Khi.”
+"...Trông nó có vẻ. Vẫn như mọi... Khi."
 
 Chẳng có gì đặc biệt kỳ lạ về vị trí của mặt trời trên bầu trời... Hoặc chí ít là tôi đã nghĩ như vậy.
 
@@ -174,7 +174,7 @@ Tôi nên làm gì đây...?
 
 Tôi dừng bước, suy ngẫm về nan đề trước mắt. Đúng lúc này, từ khóe mắt, tôi nhìn thấy một hòn đá dưới chân mình. Đó là một hòn đá có kích thước khá lớn — có lẽ cỡ bằng nắm tay. Nhặt nó lên, tôi ném mạnh hòn đá vào khoảng không gian kỳ lạ dường như đang bị vặn xoắn trước mặt. Hòn đá liền biến mất ngay giữa quỹ đạo bay của nó, chẳng để lại lấy một dấu vết hay tiếng động nào.
 
-“...Không thể nào. Đây là... Dịch chuyển tức thời sao?”
+"...Không thể nào. Đây là... Dịch chuyển tức thời sao?"
 
 Dịch chuyển tức thời — nói một cách chính xác, đó là một loại ma pháp không gian đặc biệt vẫn chưa thể được tái tạo bởi bàn tay con người. Dẫu vậy... Nếu đây thực sự là một tạo tác không phải do nhân loại chế tác nên, thì khả năng ấy hoàn toàn có thể xảy ra.
 

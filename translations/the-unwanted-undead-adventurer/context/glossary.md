@@ -23,7 +23,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Silver-class |  | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級) |
 | lower Silver-class |  | Hạ Ngân Cấp | cấp bậc | 27 | Phân bậc thấp trong Ngân Cấp |
 | Gold-class |  | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
-| Platinum-class | Platinum | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
+| Platinum-class |  | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
 | Mithril-class | Mythril-class | Mithril Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả truyền kỳ đỉnh cao (ミスリル級) |
 | Labyrinth of the Moon’s Reflection | Moon’s Reflection | Mê Cung Nguyệt Ảnh | địa danh | 1 | Mê cung sơ cấp gần thị trấn Maalt (水月の迷宮) |
 | Labyrinth of the New Moon | New Moon | Mê Cung Tân Nguyệt | địa danh | 1 | Mê cung mới (新月の迷宮) |
