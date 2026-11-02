@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T08:21:04Z",
+  "generatedAt": "2026-11-02T08:26:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2381,6 +2381,12 @@
           "title": "Chương 38: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (9)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_038.md",
           "sha": "61f1d9eddad97a39487492d17b987a7327e541a8"
+        },
+        {
+          "number": 39,
+          "title": "Chương 39: Tập 2 Chương 2 - Khế Ước Bằng Ma Pháp (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_039.md",
+          "sha": "1b7719af8dd7037daa1e9fc940b34cf0ac556790"
         }
       ]
     },

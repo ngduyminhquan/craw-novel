@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 38: Cùng Raiz và Laura về tới Maalt an toàn, nộp phù hiệu cho Sheila và chính thức đỗ kỳ thi thăng hạng Đồng Cấp; chủ động cảm ơn và giải tán tổ đội trong hòa bình; sững sờ khi vừa bước ra khỏi Hội thì nghe Sheila từ phía sau cất tiếng gọi đích danh tên thật của anh.
+- Trạng thái tính đến chương 39: Bị Sheila đối chất riêng về việc đăng ký hai lần; giữ thế phòng thủ và yêu cầu bảo đảm an toàn bằng khế ước ràng buộc ma pháp trước khi tiết lộ uẩn khúc.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -58,7 +58,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua.
-- Trạng thái tính đến chương 25: Bùi ngùi khi thấy một tân binh trùng tên Rentt và chia sẻ về sự mất tích của mạo hiểm giả Rentt Faina mà cô từng phụ trách; tin vào lý do Rentt Vivie là họ hàng của Lorraine; cấp thẻ Thiết Cấp và lo lắng khuyên can khi Rentt Vivie vừa vào nghề đã nhận nhiệm vụ săn Orc.
+- Trạng thái tính đến chương 39: Nhận ra Rentt Faina qua danh tính mới Rentt Vivie; đưa anh vào phòng riêng đối chất nhưng khẳng định không báo cáo lên Hội, sẵn sàng ký khế ước ma pháp để giúp anh giữ kín bí mật; tiết lộ em trai mình là nhân viên giám sát kỳ thi thăng hạng sắp chuyển công tác lên thủ đô.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.

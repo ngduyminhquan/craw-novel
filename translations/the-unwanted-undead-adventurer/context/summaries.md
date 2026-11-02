@@ -223,6 +223,8 @@ Một giám sát viên bám sát nhóm từ đầu xuất hiện trao báo cáo 
 Trong lúc Sheila giải thích về thủ tục cấp đổi thẻ và các ma pháp chống làm giả phức tạp (dẫn chứng thẻ mẫu của nhân vật hư cấu "Guild Guildar"), Rentt suy ngẫm về cuộc sống Undead và viễn cảnh chạm tới Mithril Cấp sau khi hồi phục nhân tính qua Tiến Hóa Bản Thể.
 Rentt chủ động nói lời cảm ơn và đề nghị giải tán tổ đội; Raiz và Laura bày tỏ lòng biết ơn sâu sắc đối với sự chỉ bảo của anh, hẹn ngày tái ngộ; khi vừa bước ra khỏi Hội để về nhà Lorraine, Rentt sững sờ khi Sheila từ phía sau bất ngờ cất tiếng gọi tên thật của anh.
 
-
-
+## 39
+Sheila đưa Rentt vào phòng kín của nhân viên Hội để đối chất về việc anh đăng ký làm mạo hiểm giả tới hai lần; Rentt giữ thế phòng thủ, đe dọa sẽ rời khỏi Maalt và cấm cửa vĩnh viễn nếu Hội truy cứu.
+Sheila bất ngờ tiết lộ cô chưa từng báo cáo sự việc lên Hội vì chỉ muốn giúp đỡ anh, đồng thời giải thích nội tình về tham vọng đổi đời/tìm chồng của các nữ nhân viên qua việc thăng chuyển lên thủ đô.
+Để chứng minh sự chân thành và xóa tan hoài nghi của Rentt, Sheila rút ra một bản khế ước ràng buộc ma pháp trên giấy da cừu sẵn sàng ký tên bảo mật, đồng thời tiết lộ nhân viên giám sát nhóm Rentt chính là em trai cô – người sắp chuyển công tác lên thủ đô – và hứa sẽ lo liệu chuyện cậu ấy giữ kín bí mật.
 

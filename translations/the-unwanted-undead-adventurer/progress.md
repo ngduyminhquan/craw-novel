@@ -43,7 +43,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | reviewed |  |
 | 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | done |  |
 | 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | done |  |
-| 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | todo |  |
+| 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | done |  |
 | 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | todo |  |
 | 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | todo |  |
 | 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | todo |  |
@@ -434,3 +434,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#35] Xưng hô của Raiz Dunner với Rentt Faina → Cập nhật pronouns.md: Raiz gọi Rentt là 'anh / Rentt'. (orchestrator)
 - [#37] Xưng hô của Laura Satii với Rentt: raw chương 37 Laura bắt đầu gọi "Rentt" ("Did you know this would happen, Rentt?") thay vì "Mister Vivie" — tạm giữ nguyên "anh Vivie" theo pronouns.md; đề xuất đổi sang "anh Rentt" từ chương 37 trở đi nếu muốn thể hiện sự thân thiết sau khi lập tổ đội và vượt qua thử thách. → Giữ nguyên Laura gọi Rentt là 'anh Vivie' (hoặc 'anh' trong câu) vì ở chương 38 raw Laura vẫn gọi 'Mister Vivie'. (orchestrator)
 - [#38] Tên nhân vật hư cấu trên thẻ mạo hiểm giả mẫu 'Guild Guildar' — tạm chọn giữ nguyên 'Guild Guildar' theo quy tắc tên riêng phương Tây trong rules.md (phương án khác: 'Gild Guildar', hoặc Việt hóa). Tạm dùng trong bản dịch: 'Guild Guildar'. → Chốt giữ nguyên 'Guild Guildar'. (orchestrator)
+- [#39] Dịch tiêu đề arc 'Contract By Magic' — tạm chọn 'Khế Ước Bằng Ma Pháp' (phương án khác: 'Khế Ước Ma Pháp', 'Giao Kèo Bằng Ma Pháp'). Tạm dùng trong bản dịch: 'Khế Ước Bằng Ma Pháp'. → Chốt 'Khế Ước Bằng Ma Pháp' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 2 Chương 2. (orchestrator)
+- [#39] Dịch thuật ngữ/ma cụ 'magically binding contract' — tạm chọn 'khế ước ràng buộc ma pháp' (phương án khác: 'khế ước ma pháp ràng buộc', 'hợp đồng ma pháp'). Tạm dùng trong bản dịch: 'khế ước ràng buộc ma pháp'. → Chốt 'khế ước ràng buộc ma pháp'. (orchestrator)
