@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T17:10:03Z",
+  "generatedAt": "2026-11-02T17:14:23Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2735,6 +2735,12 @@
           "title": "Chương 97: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_097.md",
           "sha": "c25ad6896241e1eb88cc78a7896961eb0474f935"
+        },
+        {
+          "number": 98,
+          "title": "Chương 98: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (5)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_098.md",
+          "sha": "5338fdef24665aa4c9ed6e45646fc2b92d475708"
         }
       ]
     },

@@ -102,7 +102,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | reviewed |  |
 | 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | reviewed |  |
 | 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | done |  |
-| 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | todo |  |
+| 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | done |  |
 | 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | todo |  |
 | 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | todo |  |
 | 101 |  | Chapter_101 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8) | todo |  |
@@ -566,3 +566,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#97] Dịch chủng rồng bậc thấp 'Lesser Dragon' — tạm dùng 'Á Long' theo chuẩn Hán Việt cho 亜竜 (phương án khác: 'Hạ Cấp Long', 'Rồng Bậc Thấp'). → Giữ 'Á Long'. (orchestrator)
 - [#97] Dịch thuật ngữ 'elemental magic' — tạm dùng 'ma pháp nguyên tố' (phương án khác: 'phép thuật nguyên tố', 'ma thuật nguyên tố'). → Giữ 'ma pháp nguyên tố'. (orchestrator)
 - [#97] Cảnh báo QA 'Iron-class' do cụm 'ironclad fact' — tạm giữ nguyên 'chân lý thép' trong bản dịch, đề xuất bỏ alias đơn từ 'Iron' khỏi mục 'Iron-class' trong glossary.md để tránh bắt nhầm. → Chấp nhận cảnh báo báo nhầm ở từ 'ironclad'; giữ nguyên alias 'Iron' của 'Iron-class' trong glossary.md để bắt các chỗ viết tắt cấp bậc. (orchestrator)
+- [#98] Dịch tên loài quái vật rồng khổng lồ 'Earth Dragon' — tạm chọn 'Rồng Đất' (thuần Việt, nhất quán với 'Rồng' và 'Rồng Cổ Đại' trong glossary.md; phương án khác: 'Thổ Long', 'Địa Long'). Tạm dùng trong bản dịch: 'Rồng Đất'. → Giữ 'Rồng Đất' (nhất quán với 'Rồng' và 'Rồng Cổ Đại', phân biệt rõ với 'Terra Drake'). (orchestrator)
+- [#98] Dịch năng lực quan sát đặc thù 'Undead Sight' — tạm chọn 'Thị Giác Undead' (chuẩn xác cho năng lực quan sát nhận biết sinh vật sống trong bóng tối của Undead; phương án khác: 'Tầm Nhìn Undead', 'Thị Lực Undead'). Tạm dùng trong bản dịch: 'Thị Giác Undead'. → Giữ 'Thị Giác Undead'. (orchestrator)
+- [#98] Cảnh báo QA 'Iron-class' do từ 'Iron' trong 'Mana Iron' — tạm giữ nguyên 'Ma Thiết' trong bản dịch, cảnh báo do alias 'Iron' của 'Iron-class' trong glossary.md bắt nhầm. → Chấp nhận cảnh báo báo nhầm ở 'Mana Iron'. (orchestrator)
+- [#98] Cảnh báo QA 'familiar' do tính từ quen thuộc 'a familiar feeling' — tạm giữ nguyên 'cảm giác quen thuộc' trong bản dịch theo đúng ghi chú trong glossary.md. → Chấp nhận cảnh báo báo nhầm ở tính từ 'familiar feeling'. (orchestrator)

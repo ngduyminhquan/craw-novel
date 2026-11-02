@@ -182,3 +182,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Drake | the Drake | Drake | quái vật | 97 | Tên gọi tắt hoặc chủng quái vật Á Long nói chung (ドレイク) |
 | Lesser Dragon | Lesser Dragons | Á Long | quái vật | 97 | Chủng quái vật rồng bậc thấp / phân loài rồng (亜竜/下位竜族) |
 | elemental magic | Elemental magic; Elemental Magic | ma pháp nguyên tố | kỹ năng | 97 | Ma pháp cổ xưa vận dụng hiện tượng tự nhiên trực quan (元素魔術/精霊魔法) |
+| Earth Dragon | Earth Dragons; the Earth Dragon | Rồng Đất | quái vật | 98 | Phân loài rồng khổng lồ thuộc tính thổ sống dưới lòng đất (地竜) |
+| Undead Sight |  | Thị Giác Undead | kỹ năng | 98 | Năng lực thị giác quan sát sinh vật sống trong bóng tối của Undead |

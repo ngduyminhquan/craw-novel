@@ -570,6 +570,13 @@ Nhờ cơ thể Undead kháng độc tố từ chướng khí trong hầm và su
 Con Terra Drake sử dụng ma pháp nguyên tố thổ tức thì tạo ra các tấm khiên đá gia cố bằng Ma Thiết quanh đầu và cổ để vô hiệu hóa đòn phủ đầu của Rentt, rồi dùng đuôi quất bay anh đập sầm vào vách đá.
 Dựa vào thân nhiệt nhìn trong làn bụi mù, Rentt bật tường nhảy lên đầu con quái vật chém vào cổ rồi trượt xuống chém toạc bụng dưới bằng Ma Khí Dung Hợp Thuật; sau khi né tránh loạt thổ thương phản kích điên cuồng, Rentt tung nhát chém quyết định chặt đứt đầu con Terra Drake.
 
+## 98
+Rentt thu hoạch nguyên liệu từ xác Terra Drake rồi men theo vách đá dốc đứng tiến xuống một hố sụt khổng lồ có kết cấu như khu mỏ nhân tạo với xe goòng và công tắc ma pháp.
+Sau khi bật đèn và tiêu diệt hai con Goblin Mỏ Quặng bị thu hút tới, anh liên tục thăm dò các vách đá và đào được lượng lớn Ma Thiết phẩm chất cao vào túi ma thuật.
+Tại điểm khai thác thứ ba, Rentt kinh hoàng phát hiện một con Rồng Đất khổng lồ dài 40-50 mét đang say ngủ ngay tại tầng đá móng bên dưới.
+Con quái vật bất ngờ thức giấc và mở mắt nhìn quanh rồi thong thả đào sâu vào lòng đá móng biến mất; thoát chết trong gang tấc, Rentt kiệt sức quyết định kết thúc chuyến thám hiểm để trở về nhà.
+
+
 
 
 
