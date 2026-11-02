@@ -86,9 +86,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | reviewed |  |
 | 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | reviewed |  |
 | 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | reviewed |  |
-| 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | done |  |
-| 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | done |  |
-| 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | done |  |
+| 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | reviewed |  |
+| 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | reviewed |  |
+| 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | reviewed |  |
 | 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | todo |  |
 | 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | todo |  |
 | 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | todo |  |

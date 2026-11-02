@@ -14,7 +14,7 @@ Những đầu ngón tay tôi khẽ sượt qua mục tiêu, và với một cú
 
 "Tôi... tôi lấy được rồi đây. Hái mang về... cho em này," tôi, Rentt Faina, cất lời khi đắc thắng mở toang cánh cửa trước mắt.
 
-Thế nhưng, giọng tôi lập tức nghẹn lại. Trước mắt tôi là một cô bé đang ngồi trên ghế. Cô bé đang trông chừng một thiếu nữ khác dường như đang say ngủ bình yên trên giường.
+Thế nhưng, giọng tôi lập tức nghẹn lại. Trước mắt tôi là một cô bé đang ngồi trên ghế. Cô bé đang trông chừng một cô bé khác dường như đang say ngủ bình yên trên giường.
 
 Đúng vậy. Trông cô bé như đang ngủ rất thanh thản. Trông như thể là vậy... nhưng mà... Nhưng...
 
@@ -46,19 +46,19 @@ Tôi chẳng thể thốt nên lời nào khác. Quả thực tôi đã thất b
 
 Rin khẽ lắc đầu, một nụ cười nhạt thoáng nở trên gương mặt nhòe lệ.
 
-"Không đâu... không sao đâu anh. Anh đã cố hết sức rồi, anh Rentt. Ran muốn nhắn lại rằng... bạn ấy xin lỗi. Vì phải ra đi trước."
+"Không đâu... không sao đâu anh. Anh đã cố hết sức rồi, anh Rentt. Ran muốn nhắn lại rằng... Ran xin lỗi. Vì phải ra đi trước."
 
 "Nhưng mà..."
 
 "Không sao đâu anh Rentt. Đưa giấy tờ ủy thác cho em nào..."
 
-Rin đón lấy tờ đơn từ tay tôi, rồi ký một nét bút dứt khoát xác nhận ủy thác đã hoàn thành.
+Rin giật lấy tờ đơn từ tay tôi, rồi ký một nét bút dứt khoát xác nhận ủy thác đã hoàn thành.
 
 Tôi do dự. Sao tôi có thể nhận món thù lao này cơ chứ? Nhưng Rin chỉ ấn xấp giấy tờ lại vào tay tôi.
 
 "Tụi em rất biết ơn anh, nên xin anh hãy nhận lấy... Vả lại, anh cũng đã mang được hoa về cho tụi em rồi. Em sẽ dốc hết sức tìm cách. Để khiến chúng đơm hoa và sinh sôi. Rồi em sẽ gửi chúng đến thật nhiều nơi. Đó... vẫn là ước mơ của hai đứa em," Rin quả quyết.
 
-Quả là một cô bé kiên cường..
+Quả là một cô bé kiên cường...
 
 Vừa mất đi một người thân trong gia đình, vậy mà cô bé không hề chìm đắm trong tuyệt vọng—cô bé đã hướng ánh nhìn về phía trước. Những con người như em ấy thực sự rất hiếm hoi. Những lời cô bé thốt ra chẳng phải là lời của một đứa trẻ con, mà là của một người đã tôi rèn ý chí và hạ quyết tâm sắt đá.
 
@@ -78,7 +78,7 @@ Hơn ai hết, tôi hiểu thấu điều đó, và chính vì vậy tôi đã q
 
 Tôi chẳng biết liệu bản thân có bao giờ chạm tới được ngưỡng sức mạnh ấy hay không. Bằng cách nào đó, tôi có cảm giác mình đã chạm đến giới hạn rồi.
 
-Dẫu vậy, tôi vẫn sẽ làm những gì mình có thể. Rin, cô bé trước mắt tôi vừa mất đi người thân, vẫn chưa hề từ bỏ ước mơ của mình. Tôi cũng tuyệt đối không thể bỏ cuộc. Nhất là trước đôi mắt của em ấy.
+Dẫu vậy, tôi vẫn sẽ làm những gì mình có thể. Rin, cô bé trước mắt tôi vừa mất đi người thân, vẫn chưa hề từ bỏ ước mơ của mình. Tôi cũng tuyệt đối không thể bỏ cuộc. Nhất là ngay trước mắt em ấy.
 
 "Vậy thì... đây là một cuộc thi đấy nhé. Để xem ước mơ của ai sẽ thành hiện thực trước... Em sẽ không chịu thua đâu đấy, anh nghe rõ chưa?"
 

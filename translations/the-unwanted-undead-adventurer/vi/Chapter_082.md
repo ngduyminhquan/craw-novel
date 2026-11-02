@@ -4,7 +4,7 @@
 
 Giọng nói trong trẻo và rạng rỡ này không thuộc về ai khác ngoài Sheila, một nhân viên của Hội Mạo Hiểm Giả. Lúc này, Sheila đang nhìn thẳng vào người phụ nữ trước mặt mình—nói chính xác hơn là một người phụ nữ tuyệt sắc.
 
-Mái tóc vàng của cô buông lơi thành từng lọn sóng quyến rũ đến mê hồn, vẻ kiều diễm ấy đủ để thu hút bất kỳ ai đi ngang qua. Đôi mắt hạnh càng thêm phần sắc sảo nhờ lớp phấn mắt, khiến người phụ nữ toát lên vẻ cuốn hút khôn xiết. Chỉ một ánh nhìn cũng đủ khiến những người đàn ông phải xao xuyến, không ít kẻ sẵn sàng đắm chìm trong vẻ đẹp ấy bất cứ lúc nào.
+Mái tóc vàng của cô buông lơi thành từng lọn sóng quyến rũ đến mê hồn, vẻ kiều diễm ấy đủ để thu hút bất kỳ ai đi ngang qua. Đôi mắt hạnh càng thêm phần sắc sảo nhờ lớp phấn mắt, khiến người phụ nữ toát lên vẻ cuốn hút khôn xiết. Chỉ một ánh nhìn cũng đủ khiến những người đàn ông phải xao xuyến, không ít kẻ sẵn sàng đánh mất lý trí trước dục vọng bất cứ lúc nào.
 
 Ngay cả thân hình cô cũng hoàn hảo như tạc, một nét đẹp lý tưởng đến khó tin. Người phụ nữ sở hữu những đường nét chuẩn mực, được tôn lên một cách trọn vẹn nhất. Vòng eo, bờ hông, và gần như mọi thứ khác trên cơ thể cô đều đẹp tựa một kiệt tác nghệ thuật.
 
@@ -54,7 +54,7 @@ Liệu Sheila có chắc chắn mang lại chiến thắng cho công đoàn nhâ
 
 "DÙ SAO ĐI NỮA! Tôi có tham gia thì cũng chẳng thắng nổi đâu! Vâng! Tôi biết chứ! Nhưng... nếu cô Lorraine ra mặt... tôi cảm thấy chúng ta thật sự có thể xoay chuyển tình thế!" Cô nghiến răng, hai nắm tay siết chặt. Sheila không hề nói chơi chút nào.
 
-Tôi quay sang nhìn Lorraine, ánh mắt hai đứa chạm nhau. Cả hai dường như đều hiểu rằng đây là một lời thỉnh cầu rất khó từ chối. Nhưng rồi Lorraine bỗng thấy chuyện này thật buồn cười, một nụ cười mỉm khẽ thoáng hiện trên môi cô.
+Tôi quay sang nhìn Lorraine, ánh mắt hai chúng tôi chạm nhau. Cả hai dường như đều hiểu rằng đây là một lời thỉnh cầu rất khó từ chối. Nhưng rồi Lorraine bỗng thấy chuyện này thật buồn cười, một nụ cười mỉm khẽ thoáng hiện trên môi cô.
 
 "Nếu cô đã nói vậy thì, Sheila à, xem ra tôi cũng chẳng còn nhiều lựa chọn... Được thôi. Tôi đồng ý."
 
@@ -84,7 +84,7 @@ Chính là tôi, Rentt Faina, người đang đứng cùng Lorraine trong phòng
 
 Hiện tại tôi đang mặc trang phục nữ giới.
 
-Tay nghề hóa trang tuyệt nhiên chẳng hề qua loa chút nào. Đội ngũ trang điểm đã đảm bảo tôi trông không khác gì một người phụ nữ thực thụ, thậm chí còn tỉ mỉ nẹp áo định hình corset cho tôi. Họ bảo làm thế là để tôn lên những đường nét chuẩn mực—và tất nhiên, họ còn độn thêm một vài... phụ kiện nâng đỡ ở phần thân trên và thân dưới của tôi nữa.
+Tay nghề hóa trang tuyệt nhiên chẳng hề qua loa chút nào. Đội ngũ trang điểm đã đảm bảo tôi trông không khác gì một người phụ nữ thực thụ, thậm chí còn tỉ mỉ nẹp áo định hình corset cho tôi. Họ bảo làm thế là để tôn lên những đường nét chuẩn mực—và tất nhiên, họ còn độn thêm một vài... miếng độn ở phần ngực và mông của tôi nữa.
 
 Đó chính là điều kiện bí mật của Lorraine: cô ấy chỉ tham gia nếu tôi cũng làm điều tương tự.
 

@@ -2,7 +2,7 @@
 
 Mạo hiểm giả—danh xưng chung để chỉ những cá nhân kiếm sống bằng việc tiêu diệt quái vật.
 
-Một người bình thường khó lòng mường tượng nổi sức mạnh của họ. Họ đáng sợ và đáng gờm, nhưng theo cách mà những người dân thôn quê chúng tôi chẳng thể nào thực sự hiểu thấu. Dù là một kẻ như tôi cũng có những ký ức về mạo hiểm giả—nói đúng hơn là về hai người trong số họ...
+Một người bình thường khó lòng mường tượng nổi sức mạnh của họ. Họ đáng sợ và đáng gờm, nhưng theo cách mà những người dân thôn quê chúng tôi chẳng thể nào thực sự hiểu thấu. Ngay cả một đứa bé như tôi cũng có những ký ức về mạo hiểm giả—nói đúng hơn là về hai người trong số họ...
 
 Bởi lẽ chính hai mạo hiểm giả ấy đã từng cứu lấy ngôi làng của tôi.
 
@@ -76,7 +76,7 @@ Tôi, Rentt Faina, lắc đầu.
 
 Những chuyện như vậy thường xuyên xảy ra với các yêu cầu ủy thác mà mạo hiểm giả nhận lấy. Yêu cầu lần này được viết khéo nhằm thuê được sự trợ giúp từ những mạo hiểm giả có mức thù lao rẻ hơn—thế nhưng những kẻ kỳ cựu sẽ dễ dàng nhìn thấu lời dối trá ấy. Thực chất, cả tôi lẫn Lorraine đều đã nhận ra điều này từ trước, nhưng vẫn quyết định nhận lời ủy thác.
 
-Đó cũng là lý do chúng tôi đã dằn mặt trưởng làng đôi điều sau chuyến thám hiểm—rằng lần này chúng tôi sẽ bỏ qua cho việc ông ta che giấu bản chất thực sự của yêu cầu ủy thác và dùng mánh khóe thương lượng phi đạo đức, nhưng nếu còn dám làm chuyện tương tự thêm một lần nào nữa, mạo hiểm giả sẽ không bao giờ đặt chân tới ngôi làng của ông ta nữa.
+Đó cũng là lý do chúng tôi đã nói thẳng với trưởng làng đôi điều sau chuyến thám hiểm—rằng lần này chúng tôi sẽ bỏ qua cho việc ông ta che giấu bản chất thực sự của yêu cầu ủy thác và dùng mánh khóe thương lượng phi đạo đức, nhưng nếu còn dám làm chuyện tương tự thêm một lần nào nữa, mạo hiểm giả sẽ không bao giờ đặt chân tới ngôi làng của ông ta nữa.
 
 Dĩ nhiên đó chẳng phải một lời đe dọa, mà chỉ là lời cảnh báo. Đã có quá nhiều ngôi làng giở những trò tương tự, để rồi cuối cùng đều chuốc lấy kết cục bị hủy diệt.
 
@@ -90,6 +90,6 @@ Tôi gật đầu đáp lại. "Có lẽ vậy... Thật ra, chẳng phải vị
 
 Thế nhưng sự xuất hiện của quái vật ở những vùng quê hẻo lánh như vậy thường báo hiệu ngày tàn cho những khu định cư kiểu này. Đó mới là lý do thực sự khiến chúng tôi nhận lời ủy thác ngay từ đầu, và có lẽ tôi vẫn sẽ nhận những yêu cầu tương tự nếu bắt gặp chúng trong tương lai.
 
-Một nửa là làm việc thiện, hoặc thậm chí là chuyện bao đồng xía vào chuyện của người khác. Tôi cảm thấy thỉnh thoảng làm vậy cũng chẳng phải điều gì xấu.
+Một nửa là làm việc thiện, hoặc thậm chí là sự bao đồng tự chuốc lấy. Tôi cảm thấy thỉnh thoảng làm vậy cũng chẳng phải điều gì xấu.
 
 Dòng suy nghĩ của tôi cứ thế miên man trôi đi khi cỗ xe ngựa lọc cọc lăn bánh trở về thị trấn—mái nhà của chúng tôi, thị trấn biên ải Maalt.
