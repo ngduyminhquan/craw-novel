@@ -15,6 +15,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Idoles Rogue | Idoles | Idoles Rogue | Kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran, anh trai của Rina | #24 |
 | Rina Rogue |  | Rina Rogue | Tên thật của Rina Rupaage, tiểu thư gia tộc hiệp sĩ Rogue | #24 |
 | Rentt Vivie |  | Rentt Vivie | Danh tính mạo hiểm giả mới của Rentt Faina, mượn họ của Lorraine | #25 |
+| Zarid |  | Zarid | Kiếm sĩ kỳ cựu của Hội Mạo Hiểm Giả, mạo hiểm giả Thượng Đồng Cấp | #28 |
 
 ## Chi tiết
 
@@ -86,3 +87,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Rentt Vivie
 - Xem Rentt Faina (danh tính giả đăng ký tại Hội mạo hiểm giả dưới họ của Lorraine Vivie).
+
+### Zarid
+- Giới tính, tuổi/vẻ ngoài: Nam, khoảng 40–50 tuổi (hơn Lorraine vài chục tuổi), trên mặt có nhiều vết sẹo chiến đấu nhưng tứ chi vẫn lành lặn nguyên vẹn.
+- Tính cách: Thẳng thắn, bộc trực, thực tế, cẩn trọng (bị một số kẻ coi là nhát gan nhưng thực chất là biết tự lượng sức mình), thích trêu đùa nhưng biết quan tâm đến người khác.
+- Cách nói chuyện: Dân dã, bộc trực, thoải mái như bạn bè lâu năm.
+- Quan hệ: Tiền bối kiêm đồng nghiệp của Lorraine và Rentt, thỉnh thoảng lập tổ đội cùng Lorraine; hay cùng bạn bè cá cược xem Lorraine có cưới Rentt hay không.
+- Trạng thái tính đến chương 28: Ngồi uống rượu cùng Lorraine tại quán rượu ở Maalt; trò chuyện về chuyện hôn nhân của mạo hiểm giả và cùng cô chế giễu nhóm ba mạo hiểm giả côn đồ vừa xông vào quán.

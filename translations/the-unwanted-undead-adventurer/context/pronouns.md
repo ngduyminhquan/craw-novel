@@ -16,6 +16,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Loris Cariello | Loris / người đàn ông | 16 | Chủ quán ăn Phi Long Đỏ (tiết lộ tên ở #20) |
 | Isabel | Isabel / người phụ nữ | 20 | Vợ của Loris Cariello |
 | Idoles Rogue | Idoles / kỵ sĩ / người đàn ông | 24 | Kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn, anh trai Rina |
+| Zarid | Zarid / người đàn ông | 28 | Kiếm sĩ kỳ cựu Thượng Đồng Cấp |
 
 ## Giữa các nhân vật
 
@@ -46,3 +47,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Isabel | Rentt Faina | tôi | cậu | 20 | Biết ơn ân nhân cứu mạng chồng mình |
 | Rentt Faina | Idoles Rogue | tôi | ngài | 24 | Khách sáo, tôn trọng kỵ sĩ quý tộc của Đệ Nhất Kỵ Sĩ Đoàn |
 | Idoles Rogue | Rentt Faina | tôi | ngài | 24 | Lịch thiệp, chuẩn mực quý tộc khi hỏi thăm mạo hiểm giả |
+| Lorraine Vivie | Zarid | tôi | ông / Zarid | 28 | Bạn bè đồng nghiệp lâu năm |
+| Zarid | Lorraine Vivie | tôi | cô / Lorraine | 28 | Tiền bối lớn tuổi nói chuyện thoải mái với hậu bối |

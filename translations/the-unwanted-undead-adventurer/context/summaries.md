@@ -160,4 +160,11 @@ Rentt trở về nhà Lorraine và cùng cô kiểm tra ma cụ Bản Đồ Akas
 Lorraine bán giúp số Ma Tinh nhặt được ở khu vực chưa khai phá giúp Rentt có nguồn tiền ổn định sau khi đã đặt cọc cho Clope; Rentt bày tỏ ý định lách chữ nghĩa lời hứa để quay lại khu vực chưa khai phá tìm hiểu danh tính người phụ nữ bí ẩn dù Lorraine cảnh báo về sự nguy hiểm.
 Ngày hôm sau Rentt quay lại ngõ cụt ở Mê Cung Nguyệt Ảnh thì lối vào ma pháp trận bí mật đã biến thành bức tường đá phẳng mịn không còn dấu vết; mất hết manh mối, Rentt siết chặt quyết tâm tiếp tục thăng hạng để một ngày nào đó trở thành mạo hiểm giả Mithril Cấp và đứng ngang hàng với Rồng cùng người phụ nữ ấy.
 
+## 28
+Vào năm thứ sáu làm mạo hiểm giả (lúc 20 tuổi), Lorraine ngồi một mình tại quán rượu ở Maalt và gặp Zarid, một kiếm sĩ kỳ cựu Thượng Đồng Cấp sẹo đầy mặt nhưng dày dạn kinh nghiệm.
+Hai người vừa uống rượu vừa trò chuyện về cuộc sống mạo hiểm giả, vụ cá cược xem Lorraine có cưới Rentt không, cùng quan điểm thực tế về hôn nhân và tài chính cá nhân.
+Cuộc trò chuyện bị gián đoạn khi một nhóm ba mạo hiểm giả trẻ tuổi xông vào quán phô trương thanh thế; nghe thấy lời mỉa mai của Lorraine và Zarid, tên cầm đầu tiến đến gạ gẫm thô thiển.
+Bị Lorraine lạnh lùng từ chối, tên côn đồ đập bàn quát tháo đòi cô phải hầu hạ bọn chúng, trong khi Lorraine bình thản nắm chắc phương sách đối phó mà không hề sợ hãi.
+
+
 
