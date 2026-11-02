@@ -217,5 +217,12 @@ Cả nhóm tiến đến điểm chỉ định gặp nhân viên Hội Mạo Hi�
 Trên đường trở về lối vào mê cung, Raiz cảnh giác phản xạ hạ gục ngay một tên tay sai do Hội cử tới phục kích; nhóm cẩn trọng hướng về trạm xe ngựa trở về Maalt.
 Trước sự tiến bộ và cẩn trọng của hai người đồng đội trẻ tuổi, Rentt mở lời khen ngợi khiến Raiz và Laura vừa ngượng ngùng vừa vui vẻ cười đùa.
 
+## 38
+Nhóm Rentt duy trì cảnh giác trên chuyến xe ngựa trở về Maalt an toàn và vượt qua toán tay sai giả dạng trộm phù hiệu trước cửa Hội Mạo Hiểm Giả; cả ba nộp lại phù hiệu cho tiếp tân viên Sheila trong tiếng reo hò chúc mừng của các mạo hiểm giả.
+Một giám sát viên bám sát nhóm từ đầu xuất hiện trao báo cáo xác nhận nhân phẩm và công nhận cả ba chính thức đỗ kỳ thi thăng hạng Đồng Cấp; Raiz và Laura vỡ òa sung sướng khi ước mơ thoát ly làng quê thành hiện thực.
+Trong lúc Sheila giải thích về thủ tục cấp đổi thẻ và các ma pháp chống làm giả phức tạp (dẫn chứng thẻ mẫu của nhân vật hư cấu "Guild Guildar"), Rentt suy ngẫm về cuộc sống Undead và viễn cảnh chạm tới Mithril Cấp sau khi hồi phục nhân tính qua Tiến Hóa Bản Thể.
+Rentt chủ động nói lời cảm ơn và đề nghị giải tán tổ đội; Raiz và Laura bày tỏ lòng biết ơn sâu sắc đối với sự chỉ bảo của anh, hẹn ngày tái ngộ; khi vừa bước ra khỏi Hội để về nhà Lorraine, Rentt sững sờ khi Sheila từ phía sau bất ngờ cất tiếng gọi tên thật của anh.
+
+
 
 

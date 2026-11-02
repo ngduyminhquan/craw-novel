@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 37: Dẫn dắt nhóm vượt qua các cạm bẫy cuối cùng của Mê Cung Tân Nguyệt; nhắc Laura dùng ma pháp gió Breeze thổi bẫy khói mê; nhận phù hiệu Đồng Cấp và phần thưởng về nhất từ nhân viên Hội; khen ngợi sự trưởng thành của Raiz và Laura khi cả ba hướng về trạm xe ngựa về Maalt.
+- Trạng thái tính đến chương 38: Cùng Raiz và Laura về tới Maalt an toàn, nộp phù hiệu cho Sheila và chính thức đỗ kỳ thi thăng hạng Đồng Cấp; chủ động cảm ơn và giải tán tổ đội trong hòa bình; sững sờ khi vừa bước ra khỏi Hội thì nghe Sheila từ phía sau cất tiếng gọi đích danh tên thật của anh.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -109,11 +109,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Năng nổ, bộc trực, tự tin, chủ động nhận vai trò trưởng nhóm nhưng biết cư xử lịch thiệp, biết cúi đầu chào hỏi đồng đội.
 - Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
 - Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
-- Trạng thái tính đến chương 37: Rút ra bài học sâu sắc về sự giảo hoạt và cảnh giác trong nghề mạo hiểm giả sau khi chứng kiến nhóm khác dính bẫy khói mê; nhận phù hiệu thăng hạng Đồng Cấp cùng bao da dụng cụ và thuốc hồi phục; nhanh chóng phản xạ chém gục kẻ phục kích ở cửa mê cung và giữ vững cảnh giác trên đường trở về.
+- Trạng thái tính đến chương 38: Hoàn thành bài thi thăng hạng Đồng Cấp an toàn; xúc động bày tỏ lòng biết ơn đối với những lời dạy của Rentt khi chia tay tổ đội và hy vọng có dịp lập đội tái ngộ cùng anh.
 
 ### Laura Satii
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
 - Tính cách: Lễ phép, khiêm tốn, biết trước biết sau, hỗ trợ đồng đội chu đáo từ tuyến sau.
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
-- Trạng thái tính đến chương 37: Dùng ma pháp phong hệ Breeze thổi tản luồng khí gây mê cứu nhóm khỏi cạm bẫy ở phòng thủ lĩnh; nhanh trí nhận ra bẫy câu chữ "chiến thắng" chưa phải "thi đỗ" của Hội; cùng nhóm nhận phù hiệu và cẩn trọng trên đường đón xe ngựa về Maalt.
+- Trạng thái tính đến chương 38: Chính thức thăng hạng Đồng Cấp; tinh tế nhận ra chí hướng và mục tiêu riêng biệt của Rentt (anh Vivie) khi chia tay tổ đội, cảm ơn anh đã bảo bọc, tạo cơ hội cho cả hai trưởng thành và khẳng định anh mãi là đồng đội của nhóm.

@@ -81,3 +81,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Grand Slime | Grand Slimes | Đại Slime | quái vật | 36 | Phân loài Slime khổng lồ thường làm quái vật thủ lĩnh các tầng nông hoặc quái thường tầng sâu |
 | Grand Prox | Grand! Prox!! | GRAND! PROX!! | kỹ năng | 36 | Ma pháp hỏa hệ cấp cao của Laura Satii (câu chú giữ nguyên) |
 | Breeze |  | Breeze | kỹ năng | 37 | Ma pháp phong hệ cơ bản tạo luồng gió nhẹ của Laura Satii (câu chú giữ nguyên) |
+| Guild Guildar |  | Guild Guildar | khác | 38 | Tên nhân vật hư cấu dùng làm mẫu trên thẻ mạo hiểm giả của Hội |
