@@ -427,4 +427,10 @@ Theo gợi ý của Lorraine, Rentt rót Ma Lực vào cánh thì lơ lửng đ�
 Thử nghiệm kết hợp hai năng lượng, Rentt nhận ra Ma Lực chạy qua màng bay giúp lơ lửng, còn Khí Lực chạy qua xương đốt ngón giúp tạo lực đẩy tới trước như Ma Khí Dung Hợp Thuật, cho phép anh lượn như sóc bay mà không nổ tung.
 Cuối cùng, Rentt thử dẫn truyền Thần Lực vào cánh quái vật, khiến đôi cánh bất ngờ phát sáng rực rỡ trong sự kinh ngạc của cả Lorraine lẫn anh.
 
+## 73
+Khi truyền Thần Lực vào đôi cánh, Rentt phát hiện ánh sáng phát ra có khả năng thúc đẩy thảo dược lớn nhanh như thổi và trị lành vết cắt trên ngón tay Lorraine, hé lộ tiềm năng trị liệu diện rộng quý giá nhưng cũng tiềm ẩn rủi ro bị lôi vào các Ủy Thác Cưỡng Chế của Hội.
+Sau khi hoàn tất thử nghiệm bay kết hợp Thần Lực thành công mà không gây nổ Dung Hợp Thuật, Rentt hạ mặt nạ để lộ khuôn mặt đầy đủ da thịt nhẵn mịn cùng răng nanh tự động dài ra khi ngửi thấy mùi máu.
+Chứng kiến diện mạo phục hồi nét người xưa cũ, Lorraine xúc động chào mừng Rentt trở về; sau đó cô phân loại anh là một biến thể dị biệt tiệm cận Hạ Cấp Ma Cà Rồng vượt ngoài mọi hiểu biết thông thường.
+Chương khép lại với nỗi lo lắng của Rentt trước viễn cảnh những lần tiến hóa tương lai có thể biến anh thành quái vật nhiều sừng, nhiều tay mắt kỳ dị.
+
 

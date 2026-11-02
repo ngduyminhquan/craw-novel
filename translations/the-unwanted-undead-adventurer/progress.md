@@ -77,7 +77,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 70 |  | Chapter_070 - Vol 3 Chapter 3 - A New Existential Evolution (1).txt | Vol 3 Chapter 3 - A New Existential Evolution (1) | reviewed |  |
 | 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | reviewed |  |
 | 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | reviewed |  |
-| 73 |  | Chapter_073 - Vol 3 Chapter 3 - A New Existential Evolution (4).txt | Vol 3 Chapter 3 - A New Existential Evolution (4) | todo |  |
+| 73 |  | Chapter_073 - Vol 3 Chapter 3 - A New Existential Evolution (4).txt | Vol 3 Chapter 3 - A New Existential Evolution (4) | done |  |
 | 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | todo |  |
 | 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | todo |  |
 | 76 |  | Chapter_076 - Vol 3 Chapter 3 - A New Existential Evolution (7).txt | Vol 3 Chapter 3 - A New Existential Evolution (7) | todo |  |
@@ -348,8 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -511,3 +509,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#71] Dịch thuật ngữ 'flight membrane' / 'flight membranes' (飛膜) — tạm chọn 'màng bay' (phương án khác: 'cánh màng', 'màng cánh'). → Chốt 'màng bay' (thuật ngữ sinh học chính xác cho 'flight membrane' / 飛膜 của loài sóc bay và Puchi Suri). (orchestrator)
 - [#72] Dịch thuật ngữ giải phẫu cánh dơi 'phalanx bones' (đoạn 101) — tạm chọn 'xương đốt ngón' theo giải phẫu học cánh dơi (phương án khác: 'xương ngón tay', 'xương cánh'). Tạm dùng trong bản dịch: 'xương đốt ngón'. → Chốt 'xương đốt ngón' (thuật ngữ giải phẫu học chính xác cho xương cánh dơi; danh từ giải phẫu chung không cần thêm vào glossary). (orchestrator)
 - [#72] Thêm biến thể có gạch nối 'Fusion-Arts' vào Alias của 'Fusion Art' (Dung Hợp Thuật) trong glossary.md — tạm dùng trong bản dịch: 'Dung Hợp Thuật' (nhất quán với #43). → Chốt thêm 'Fusion-Arts' vào Alias của 'Fusion Art' ('Dung Hợp Thuật') trong glossary.md (nhất quán với #43). (orchestrator)
+- [#73] Dịch 'Compulsory Request' - tạm chọn 'Ủy Thác Cưỡng Chế' (phương án khác: 'Ủy Thác Bắt Buộc', 'Nhiệm Vụ Cưỡng Chế'). → Chốt 'Ủy Thác Cưỡng Chế' (khớp nguyên tác 強制依頼 và thuật ngữ 'ủy thác' xuyên suốt truyện). (orchestrator)
