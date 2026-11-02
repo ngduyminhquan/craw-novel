@@ -18,7 +18,7 @@ Cân nhắc điều đó, tôi bước lại gần người đàn ông để ki�
 
 Nhưng may cho ông ta, tôi lại đang có mặt ở đây. Tuy tôi không thể sử dụng bất kỳ ma pháp trị liệu định hướng nào, song trong cơ thể tôi lại sở hữu một lượng Thần Lực dự trữ.
 
-Dù ma pháp đòi hỏi phải học tập một cách bài bản, người dùng phải hiểu rõ nguyên lý logic đằng sau thì mới có thể thi triển bùa chú, nhưng Thần Lực lại không như vậy. Rất nhiều người vận dụng Thần Lực một cách hết sức tự nhiên, gần như thuần theo bản năng. Trên thực tế, đó chính là lý do vì sao ngay cả một kẻ hoàn toàn không phải tư tế như tôi lại có thể thanh tẩy nước sạch ngay sau khi nhận được chúc phúc. Vấn đề duy nhất là tôi không có ai chỉ dẫn, phần lớn đều phải tự mình mày mò thử nghiệm rồi rút kinh nghiệm.
+Dù ma pháp đòi hỏi phải học tập một cách bài bản, người dùng phải hiểu rõ nguyên lý logic đằng sau thì mới có thể thi triển bùa chú, nhưng Thần Lực lại không như vậy. Rất nhiều người vận dụng Thần Lực một cách hết sức tự nhiên, gần như thuần theo bản năng. Trên thực tế, đó chính là lý do vì sao ngay cả một kẻ hoàn toàn không phải tư tế như tôi lại có thể thanh tẩy nước ngay sau khi nhận được chúc phúc. Vấn đề duy nhất là tôi không có ai chỉ dẫn, phần lớn đều phải tự mình mày mò thử nghiệm rồi rút kinh nghiệm.
 
 Người đàn ông này quả thực quá đỗi may mắn; lượng Thần Lực tích trữ trong tôi chỉ có tăng lên sau khi tôi biến thành Ngạ Quỷ. Thêm vào đó, tôi còn cảm thấy bản thân dồi dào năng lượng hơn bao giờ hết nhờ luồng sức mạnh cuộn trào tràn vào cơ thể từ con Khô Lâu Khổng Lồ vừa bị tôi hạ gục.
 
@@ -164,6 +164,6 @@ Như thể không tin nổi vào tai mình, người đàn ông đưa một tay 
 
 "... Vậy... Đó là... Chuyện xấu... Sao?"
 
-"Tôi đâu có bảo là xấu...! ... Khặc! Cậu muốn ăn bao nhiêu tùy thích... Tôi... tôi sẽ làm việc cật lực... để quán của mình không bao giờ phải đóng cửa nữa...! Tôi sẽ làm việc hết sức mình như chưa từng được làm! Cảm ơn cậu nhiều lắm... ông chủ...!"
+"Tôi đâu có bảo là xấu...! ... Hự! Cậu muốn ăn bao nhiêu tùy thích... Tôi... tôi sẽ làm việc cật lực... để quán của mình không bao giờ phải đóng cửa nữa...! Tôi sẽ làm việc hết sức mình như chưa từng được làm! Cảm ơn cậu nhiều lắm... ông chủ...!"
 
 Dứt lời, một nụ cười cuối cùng cũng rạng rỡ trên khuôn mặt người đàn ông. Thế nhưng đôi mắt ông ta lại đỏ hoe, những giọt nước mắt lớn lăn dài trên gò má. Chứng kiến phản ứng ấy của ông ta, tôi không khỏi cảm thấy dường như mình vừa làm được một việc tốt lành.

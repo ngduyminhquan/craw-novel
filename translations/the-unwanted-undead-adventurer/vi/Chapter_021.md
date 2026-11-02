@@ -158,7 +158,7 @@ Nó chắc chắn sẽ là một phong vị thần thánh, thoát tục. Nhất 
 
 Tôi ngoạm lấy vai Lorraine một cách đói khát, dồn nhiều lực hơn bao giờ hết.
 
-Xoẹt
+Toạc
 
 "...A...?!"
 
@@ -308,7 +308,7 @@ Quan sát kỹ hơn, có những vết răng rõ rệt trên vai Lorraine, cùng
 
 Xác nhận bằng mắt rằng vết thương đã biến mất, Lorraine lấy bàn tay còn lại ấn nhẹ lên vai mình, như để kiểm tra xem có thương tổn nào ẩn dưới bề mặt hay không.
 
-"...Chẳng đau chút nào nữa rồi. Vận dụng Thần Lực để trị liệu vết thương sao, hừm... Quả nhiên đúng là danh bất hư truyền." Sau một thoáng ngập ngừng, Lorraine tiếp tục nói bằng giọng nhỏ hơn, "...Xem ra giờ tôi chẳng thể nói mình là 'hàng có tì vết' nữa rồi, nhỉ."
+"...Chẳng đau chút nào nữa rồi. Vận dụng Thần Lực để trị liệu vết thương sao, hừm... Quả nhiên đúng là lợi hại thật sự." Sau một thoáng ngập ngừng, Lorraine tiếp tục nói bằng giọng nhỏ hơn, "...Xem ra giờ tôi chẳng thể nói mình là 'hàng có tì vết' nữa rồi, nhỉ."
 
 Kỳ lạ thay, Lorraine có vẻ hơi thất vọng trước ý nghĩ đó. Hoang mang, tôi nhìn thẳng vào Lorraine, chỉ thấy cô chậm rãi lắc đầu.
 
@@ -316,4 +316,4 @@ Kỳ lạ thay, Lorraine có vẻ hơi thất vọng trước ý nghĩ đó. Hoa
 
 Dường như có điều gì đó bất thường trên khuôn mặt tôi. Như thể cuối cùng cũng tìm được lời để nói, Lorraine lại lên tiếng.
 
-"Này... Rentt. Mặt nạ của anh... Nó đang rơi ra đấy à...?" Lorraine nói, trố mắt nhìn vào mặt tôi với vẻ không thể tin nổi.
+"Này... Rentt. Mặt nạ của anh... Nó đang bong ra đấy à...?" Lorraine nói, trố mắt nhìn vào mặt tôi với vẻ không thể tin nổi.

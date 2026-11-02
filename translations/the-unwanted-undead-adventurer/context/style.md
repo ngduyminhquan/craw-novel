@@ -30,6 +30,7 @@
 | Vaaah / Vaaaaah | Oa / Oaaa | Tiếng rống gầm gừ khi Rentt tập phát âm |
 | Hey, now | Này này / Khoan đã | Tiếng nhắc nhở hoặc tự chấn chỉnh bản thân |
 | Huh / Ah | Hử / Ồ | Tiếng ngạc nhiên |
+| Rrrip | Toạc | Tiếng cắn xé da thịt hoặc vải vóc |
 
 ## Đặc điểm ghi nhận theo chương
 
