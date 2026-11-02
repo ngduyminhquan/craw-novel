@@ -111,6 +111,12 @@ Không nỡ bỏ mặc mạng người, Rentt quyết định bước vào ma ph
 Rentt lao vào cứu người nhưng đòn tấn công bằng Khí Thuật hoàn toàn bất lực trước bộ xương cứng cáp của con quái vật; anh kịp kéo người đàn ông vào góc an toàn rồi quay lại tái chiến.
 Trước nguy cơ cạn kiệt thể lực trước quái vật phòng thủ lĩnh, Rentt mạo hiểm truyền Thần Lực vào thanh kiếm mượn từ Clope; lưỡi kiếm được chúc phúc dễ dàng chém cụt chân và đập vỡ sọ con Khô Lâu Khổng Lồ.
 
+## 19
+Rentt hấp thụ nguồn sức mạnh dồi dào từ Khô Lâu Khổng Lồ, nhận thấy cả ba nguồn năng lượng (đặc biệt là Thần Lực) đều gia tăng mạnh mẽ; anh thử vận dụng Thần Lực sơ cứu chữa lành xương ức và bàn chân dập nát cho người đàn ông.
+Khi người đàn ông tỉnh lại, Rentt cho ông ta xem viên Ma Tinh cỡ lớn nhặt được từ tàn tích của quái vật (được phỏng đoán là Ma Tinh Kim Cấp) và đề nghị tặng lại cho ông ta để trang trải món nợ 50 đồng vàng.
+Đổi lại, Rentt yêu cầu người đàn ông làm chân chạy việc kiêm người đại diện đi mua đồ và vào Hội thay mình (viện cớ bàn tay khô quắt và giọng nói biến dạng là do di chứng từ một con quái vật cũ).
+Thấy người đàn ông áy náy vì giao kèo quá hời, Rentt bổ sung thêm điều kiện được ăn uống miễn phí trọn đời tại quán ăn sau khi trả hết nợ; người đàn ông bật khóc vì biết ơn và cảm tạ Rentt như một vị ân nhân/ông chủ.
+
 
 
 

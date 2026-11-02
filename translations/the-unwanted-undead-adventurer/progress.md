@@ -23,7 +23,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | reviewed |  |
 | 17 |  | Chapter_017 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2) | reviewed |  |
 | 18 |  | Chapter_018 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3) | reviewed |  |
-| 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | todo |  |
+| 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | done |  |
 | 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | todo |  |
 | 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | todo |  |
 | 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | todo |  |
@@ -392,3 +392,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#18] Dịch quái vật 'Soldier Skeleton' — tạm chọn 'Khô Lâu Binh' (phương án khác: 'Chiến Binh Khô Lâu', 'Khô Lâu Binh Sĩ'). → Chốt 'Khô Lâu Binh'. (orchestrator)
 - [#18] Dịch quái vật 'Poison Slime' — tạm chọn 'Slime Độc' (phương án khác: 'Độc Slime'). → Chốt 'Slime Độc'. (orchestrator)
 - [#18] Dịch thuật ngữ mê cung 'boss chamber' / 'boss room' — tạm chọn 'phòng thủ lĩnh' (phương án khác: 'phòng trùm', 'phòng boss'). → Chốt 'phòng thủ lĩnh' hợp giọng kể của Rentt. (orchestrator)
+- [#19] Dịch danh hiệu 'Saint' / 'Saints' — tạm chọn 'Thánh Giả' (phương án khác: 'Thánh Nhân', 'Vị Thánh'). Tạm dùng trong bản dịch: 'Thánh Giả'. → Chốt 'Thánh Giả' (Saint) theo quy tắc Hán Việt. (orchestrator)
+- [#19] Dịch địa danh/cơ sở y tế 'Sanitarium' — tạm chọn 'Viện Trị Liệu' (phương án khác: 'Nhà Điều Dưỡng', 'Trị Liệu Viện'). Tạm dùng trong bản dịch: 'Viện Trị Liệu'. → Chốt 'Viện Trị Liệu' (Sanitarium). (orchestrator)
+- [#19] Dịch tiếng gọi của người đàn ông với Rentt 'Boss...!' — tạm chọn 'ông chủ...!' (phương án khác: 'đại ca...!', 'đại ân nhân...!'). Tạm dùng trong bản dịch: 'ông chủ...!'. → Chốt 'ông chủ...!' hợp quan hệ thuê mướn và tính cách nhân vật. (orchestrator)

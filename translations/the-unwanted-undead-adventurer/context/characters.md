@@ -18,7 +18,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 18: Đuổi theo người đàn ông qua ma pháp trận dịch chuyển tới phòng thủ lĩnh tự phong tỏa trong khu vực chưa khai phá, vận dụng Thần Lực vào kiếm tiêu diệt Khô Lâu Khổng Lồ để cứu người.
+- Trạng thái tính đến chương 19: Tiêu diệt Khô Lâu Khổng Lồ, hấp thu nguồn năng lượng gia tăng cả 3 loại năng lượng; vận dụng Thần Lực sơ cứu chữa lành xương gãy cho người đàn ông, tặng viên Ma Tinh lớn và thỏa thuận để ông ta làm người đại diện/chân chạy việc mua đồ cho mình, đổi lại được ăn uống miễn phí trọn đời tại quán ăn sau khi ông ta trả hết nợ.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

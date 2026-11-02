@@ -60,3 +60,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Thrice-blessed | thrice-blessed | Tam Chúc Phúc | khác | 15 | Người có thể sử dụng đồng thời cả 3 nguồn năng lượng: Ma Lực, Khí Lực và Thần Lực (三重複/三重祝福) |
 | holy arts | holy art; Holy Art; Holy Arts | thánh thuật | kỹ năng | 15 | Kỹ thuật sử dụng Thần Lực của tư tế/người theo đạo |
 | boss chamber | boss chambers; boss room; boss rooms | phòng thủ lĩnh | địa danh | 18 | Căn phòng chứa quái vật thủ lĩnh trong mê cung |
+| Saint | Saints | Thánh Giả | danh hiệu | 19 | Người sở hữu Thần Lực dồi dào và khả năng trị liệu được giáo hội và dân chúng tôn sùng (聖者) |
+| Sanitarium |  | Viện Trị Liệu | địa danh | 19 | Cơ sở chữa trị, dưỡng thương cho mạo hiểm giả và người dân (療養院/治療院) |
