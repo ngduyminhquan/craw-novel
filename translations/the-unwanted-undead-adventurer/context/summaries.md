@@ -57,4 +57,10 @@ Trong khi đó tại Mê Cung Nguyệt Ảnh, Rentt dễ dàng chém giết Khô
 Rentt trăn trở về việc liệu quái vật có thể tiếp tục làm mạo hiểm giả hay không, và nhận ra tấm áo choàng sắp tới vẫn chưa đủ che giấu khuôn mặt cùng đôi tay Ngạ Quỷ khô khốc chằng chịt vệt đen của mình.
 Hạ quyết tâm tiếp tục săn quái để Tiến Hóa Bản Thể thành dạng Undead giống người hơn, Rentt bất chợt nghe thấy tiếng Rina gọi mình vọng lại từ đằng xa.
 
+## 10
+Rina quay lại mê cung và giao cho Rentt chiếc áo choàng đen cùng tiền thừa, kèm theo các món đồ chu đáo ngoài dự tính như giày, găng tay da và một chiếc gương soi.
+Rentt mặc thử trang bị che kín thân thể nhưng khi soi gương lại phát hiện khuôn mặt khô khốc của mình hằn sâu những hình xăm bí ẩn phát ra ánh sáng xanh lam không thể giấu dưới mũ trùm.
+Rina bất ngờ đưa ra một chiếc mặt nạ xương cỡ lớn mua thêm để giúp anh che kín khuôn mặt phát sáng nhằm đủ điều kiện qua cổng vào thị trấn Maalt.
+Cảm kích trước sự tinh tế của Rina, Rentt đeo thử chiếc mặt nạ xương thì nó đột ngột dính chặt vào khuôn mặt như một lớp da thứ hai và không thể gỡ ra được.
+
 

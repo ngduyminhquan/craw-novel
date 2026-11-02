@@ -14,7 +14,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | reviewed |  |
 | 8 |  | Chapter_008 - Vol 1 Chapter 2 - Rina the Adventurer (3).txt | Vol 1 Chapter 2 - Rina the Adventurer (3) | reviewed |  |
 | 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | reviewed |  |
-| 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | todo |  |
+| 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | done |  |
 | 11 |  | Chapter_011 - Vol 1 Chapter 2 - Rina the Adventurer (6).txt | Vol 1 Chapter 2 - Rina the Adventurer (6) | todo |  |
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | todo |  |
 | 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | todo |  |
@@ -348,12 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
-
-
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -380,3 +374,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#9] Đoạn 2 chương 9: Diễn đạt thời gian Sheila gắn bó với Rentt → Sửa thành "cô lại là người đã đồng hành cùng Rentt suốt chừng ấy năm" (orchestrator)
 - [#9] Xưng hô Rina Rupaage và Sheila Ibarss → Rina gọi Sheila là 'chị / cô', xưng 'tôi'; Sheila gọi Rina là 'cô / cô Rina', xưng 'tôi' (orchestrator)
 - [#8] Đưa 'spotter', 'rare named monster', 'rare monster' vào glossary.md → Bác bỏ, không đưa vào glossary do là danh từ chung / cụm miêu tả viết thường (orchestrator)
+- [#10] Lời thoại ngắt quãng khi Rentt tập nói ("I... P-practice...", "...C... Clothes...", "...Stu... Stuck...") — tạm dịch sang tiếng Việt ngắt quãng/lắp ("Tôi... l-luyện. Luyện tập...", "...Qu... Quần áo. Vừa vặn lắm...", "...D... Dính chặt. Không... tháo ra... được.") theo tiền lệ chương 9 (phương án khác: giữ nguyên tiếng Anh thô như chương 5 và 7). → Chốt dịch sang tiếng Việt ngắt quãng/nói lắp vì đây là lời thoại có nghĩa trực tiếp giữa các nhân vật (chỉ giữ phiên âm thô khi là âm thanh vô nghĩa lúc mới tập phát âm ở chương 5, 7) (orchestrator)
