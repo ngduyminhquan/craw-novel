@@ -44,7 +44,7 @@ Với một âm thanh tựa như kim loại va nhau chan chát, lưỡi kiếm c
 
 Ầm!
 
-Cùng một tiếng ầm ì trầm đục, con Tarasque tiếp tục lăn lộn, quét sạch vùng đầm lầy xung quanh theo từng vòng xoay của nó. Cuốn tung lên một màn khói khí độc và bùn lầy bay tứ tán, con Tarasque lùi lại nấp sau bức màn khói này như thể muốn che khuất tầm nhìn của tôi. Một đòn tấn công đầy tính uy hiếp, đủ sức hạ gục một người bình thường. Tiếc thay cho con thú, tôi lại chẳng mảy may bận tâm tới độc dược.
+Cùng một tiếng ầm ì trầm đục, con Tarasque tiếp tục lăn lộn, quét sạch vùng đầm lầy xung quanh theo từng vòng xoay của nó. Cuốn tung lên một màn khói khí độc và bùn lầy bay tứ tán, con Tarasque lùi lại nấp sau bức màn khói này như thể muốn che khuất tầm nhìn của tôi. Một đòn tấn công đầy tính uy hiếp, đủ sức hạ gục một người bình thường. Tiếc thay cho con thú, tôi lại chẳng mảy may bận tâm tới chất độc.
 
 Đó là một đòn đánh vừa mang tính phòng thủ lại vừa mang tính tấn công; đúng là một con quái thú gian xảo. Tuy nhiên, bùn độc đối với tôi cũng chỉ là bùn đất mà thôi. Thêm vào đó, tôi còn sở hữu thị lực vượt trội hơn hẳn người bình thường. Dẫu cho nỗ lực của con thú có làm cản trở tầm nhìn của tôi đôi chút, tôi vẫn có thể nhận ra hình dáng của nó đằng sau làn bùn và hơi độc đang dần lắng xuống.
 
@@ -168,7 +168,7 @@ Do môi trường sống của Tarasque, chúng rất ghét Nước Thánh, th�
 
 Nói thật thì, tôi cũng từng muốn làm điều tương tự và đã tự mua cho mình một ít Nước Thánh, nhưng đây lại là kết quả đáng buồn. Điều này không phải do bản thân thứ nước đó, mà xét về mọi mặt, có lẽ tôi đã vô tình mua phải Nước Thánh giả mất rồi. Tôi đã chi một khoản tiền kha khá để chuẩn bị cho chuyến đi này, thành thử lại bấm bụng tằn tiện ở một số món đồ dùng. Chẳng hạn như, tôi đã mua chai Nước Thánh này từ một cửa tiệm ven đường có phần mờ ám—quả thực không phải lựa chọn khôn ngoan cho lắm.
 
-Nước Thánh vốn chỉ có thể thỉnh được từ các Giáo Hội, và nó có giá rất đắt đỏ. Tôi không thực sự muốn đặt chân vào bên trong Giáo Hội, chí ít là với một thân thể như hiện tại. Đó là lý do vì sao tôi lại mua bình Nước Thánh tương đối rẻ hơn này từ một thương nhân ven đường...
+Nước Thánh vốn chỉ có thể mua được từ các nhà thờ, và nó có giá rất đắt đỏ. Tôi không thực sự muốn bước chân vào bên trong một nhà thờ, chí ít là với một thân thể như hiện tại. Đó là lý do vì sao tôi lại mua bình Nước Thánh tương đối rẻ hơn này từ một thương nhân ven đường...
 
 Tôi đồ rằng đúng là tiền nào của nấy. Một bài học nhớ đời.
 
@@ -188,7 +188,7 @@ Không quá khó để tôi hiểu được cảm giác của nó. Tôi đồ r�
 
 Dù sao thì, tôi cũng nên kết thúc công việc này thôi. Không giống như nhát chém nửa vời trước đó, giờ tôi sẽ tung ra một đòn kết liễu.
 
-Tôi tập trung khí tức Thần Lực, bao bọc nó quanh thanh kiếm của mình. Phản ứng với không khí độc hại xung quanh, vũ khí của tôi phát ra ánh sáng vàng xanh mờ ảo, làn sương tím vây quanh tôi nhanh chóng thoái lui. Với tầm nhìn xung quanh đã được cải thiện, tôi trông thấy một con đường thênh thang nhắm thẳng tới cổ con Tarasque.
+Tôi tập trung khí tức Thần Lực, bao bọc nó quanh thanh kiếm của mình. Phản ứng với không khí độc hại xung quanh, vũ khí của tôi phát ra ánh sáng vàng xanh mờ ảo, làn sương tím vây quanh tôi nhanh chóng thoái lui. Với tầm nhìn xung quanh đã được cải thiện, tôi trông thấy một đường tấn công thông suốt nhắm thẳng tới cổ con Tarasque.
 
 Tôi phóng mình lên—
 
@@ -196,4 +196,4 @@ Bằng một nhát chém duy nhất đầy quyết đoán, tôi giáng đòn và
 
 Con Tarasque ra sức giãy giụa dữ dội. Nó toan thoát khỏi lưỡi kiếm cháy rực lúc này đang trên đà tách rời cái đầu khỏi phần còn lại của cơ thể nó. Nhưng tôi đâu thể để chuyện đó xảy ra.
 
-Với một luồng sức mạnh bộc phát cuối cùng, tôi ấn mạnh lưỡi kiếm xuyên thấu qua cổ con quái thú, qua cả lớp vảy, thịt, xương cùng mọi thứ. Bằng một tiếng thịch trầm đục, chiếc đầu của con Tarasque rơi phịch xuống đất.
+Với một luồng sức mạnh bộc phát cuối cùng, tôi ấn mạnh lưỡi kiếm xuyên thấu qua cổ con quái thú, qua cả lớp vảy, thịt, xương cùng mọi thứ. Bằng một tiếng thịch trầm đục, cái đầu của con Tarasque rơi phịch xuống đất.

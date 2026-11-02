@@ -83,7 +83,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Breeze |  | Breeze | kỹ năng | 37 | Ma pháp phong hệ cơ bản tạo luồng gió nhẹ của Laura Satii (câu chú giữ nguyên) |
 | Guild Guildar |  | Guild Guildar | khác | 38 | Tên nhân vật hư cấu dùng làm mẫu trên thẻ mạo hiểm giả của Hội |
 | magically binding contract | magical contract; Magically binding contract | khế ước ràng buộc ma pháp | vật phẩm | 39 | Ma cụ dạng cuộn giấy da cừu ràng buộc các bên ký kết bằng ma thuật (魔術契約, thuật ngữ cố định) |
-| Church | the Church; church | Giáo Hội | tổ chức | 2 | Tổ chức tôn giáo phụng sự thần linh, quản lý các tư tế và Thánh Kỵ Sĩ |
+| Church | the Church | Giáo Hội | tổ chức | 2 | Tổ chức tôn giáo phụng sự thần linh, quản lý các tư tế và Thánh Kỵ Sĩ. Phân biệt: Church (viết hoa) = Giáo Hội (tổ chức); church (viết thường) = nhà thờ (công trình/địa điểm thờ tự) |
 | Paladin | paladins; Paladins | Thánh Kỵ Sĩ | chức nghiệp | 43 | Kỵ sĩ phụng sự Giáo Hội có khả năng truyền Thần Lực vào vũ khí (聖騎士) |
 | Orichalcum |  | Orichalcum | vật phẩm | 43 | Kim loại huyền thoại cực kỳ quý hiếm trong fantasy (オリハルコン) |
 | Mithril |  | Mithril | vật phẩm | 44 | Kim loại ma thuật quý hiếm (ミスリル) |

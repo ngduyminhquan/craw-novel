@@ -18,7 +18,7 @@ Một cái nhìn lướt nhanh quanh khu vực xung quanh đã xác nhận mối
 
 Tính cả thảy có chừng mười con. Tôi không khỏi thắc mắc rốt cuộc chúng chui ra từ đâu. Tay lăm lăm thanh kiếm tuốt trần, tôi lại đảo mắt quét nhanh một lượt khắp khu vực. Một âm thanh sột soạt rõ mồn một vang lên trong không khí—tiếng động phát ra từ ngay dưới chân tôi. Có lẽ là hang hốc, hoặc một mạng lưới hang ngầm và hốc đất chằng chịt trong khu vực này.
 
-Tôi tự hỏi làm sao lũ Goblin này có thể thở được dưới bùn lầy đầm lầy. Thắc mắc của tôi lập tức được giải đáp khi nhìn kỹ hơn vào con Goblin cầm cung, trên miệng nó đang ngậm một vật thể dài và hẹp tựa như que củi. Một loại ống thở để hô hấp khi bơi dưới đầm lầy chăng?
+Tôi tự hỏi làm sao lũ Goblin này có thể thở được dưới lớp bùn đầm lầy. Thắc mắc của tôi lập tức được giải đáp khi nhìn kỹ hơn vào con Goblin cầm cung, trên miệng nó đang ngậm một vật thể dài và hẹp tựa như que củi. Một loại ống thở để hô hấp khi bơi dưới đầm lầy chăng?
 
 Địa hình đầm lầy cũng đem lại lợi thế cho lũ Goblin; dẫu tôi có cảnh giác đến đâu đi nữa thì việc nhận ra ngay thứ gì đó đang ẩn nấp trong những lùm bụi xung quanh cũng là điều bất khả thi.
 
@@ -118,7 +118,7 @@ Kéo tâm trí trở lại với tình hình hiện tại, tôi nhận ra làn n
 
 Thế nhưng cảnh tượng đón chào tôi khi chìm xuống làn nước đầm lầy lại hoàn toàn khác biệt. Tôi không thể gọi đó là một cảnh tượng đẹp đẽ hay nên thơ, nhưng dưới đáy sâu quả thực có sinh vật sống. Những con quái vật hình dạng giống cá, mỗi con to cỡ một người trưởng thành, đang há toang hoác miệng lao về phía tôi. Lũ cá này không chỉ có một vài con, bởi tôi có thể đếm được chừng mười con ở ngay khu vực lân cận quanh mình.
 
-Tôi có lẽ sẽ không chết nếu bị lũ quái vật này rỉa thịt, và tôi thậm chí còn tự hỏi liệu bản thân có ăn được hay không nữa là. Miễn là tôi chịu đựng được, lũ quái vật này có lẽ sẽ bỏ đi sau một hồi. Thế nhưng, chút phần con người còn sót lại trong tôi dường như cảm thấy ghê tởm trước viễn cảnh bị lũ quái vật này ăn thịt.
+Tôi có lẽ sẽ không chết nếu bị lũ quái vật này rỉa thịt, và tôi thậm chí còn tự hỏi liệu thịt của mình có ăn được hay không nữa là. Miễn là tôi chịu đựng được, lũ quái vật này có lẽ sẽ bỏ đi sau một hồi. Thế nhưng, chút phần con người còn sót lại trong tôi dường như cảm thấy ghê tởm trước viễn cảnh bị lũ quái vật này ăn thịt.
 
 Rút thanh kiếm ra khỏi bao, tôi vào thế thủ sẵn sàng chiến đấu khi đối mặt với lũ cá quái dị đang lao tới. May mắn thay, chân tôi lúc này đã chạm vào nền đất cứng, và tôi có thể chiến đấu.
 
@@ -160,7 +160,7 @@ Tôi ướt như chuột lột, nước độc nhỏ tong tòng xuống nền đ
 
 Đảo mắt nhìn quanh quất tứ phía, ánh mắt tôi chạm phải một hình bóng quen thuộc: Edel, chính là con quyến thuộc đã bỏ mặc tôi chìm xuống nấm mồ dưới nước.
 
-"...Mày. Đang... làm cái trò gì thế hả?"
+"...Mày. Đang... Làm cái trò gì thế hả?"
 
 Mặt của Edel... nói đúng hơn là mõm của nó, trông phồng to một cách kỳ lạ. Tóm lấy nó một cách thô bạo, tôi dùng đôi tay đeo găng cạy miệng nó ra, chỉ để thấy đủ loại hạt được nhét đầy trong hai bên má.
 

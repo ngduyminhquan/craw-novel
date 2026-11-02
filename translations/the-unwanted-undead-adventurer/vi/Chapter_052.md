@@ -20,7 +20,7 @@ Tôi chẳng cần Lorraine phải nhắc nhở mới thấu hiểu được s�
 
 Dù mỗi tôn giáo lớn đều có góc nhìn riêng về Undead, song phần lớn họ đều xem Undead bằng con mắt ác cảm, như kẻ thù của thần linh, kẻ phản nghịch bầu trời, hay thậm chí còn tệ hại hơn thế nhiều. Dù sao đi nữa, tôi luôn có thể dám chắc một điều rằng hầu hết những tôn giáo này đều coi Undead là một tội ác chống lại tạo vật của Thần linh.
 
-"...Thế cô muốn... Tôi làm gì. Bước chân vào một giáo hội... Rồi dâng lên một lời cầu nguyện... Ở đó chắc?"
+"...Thế cô muốn... Tôi làm gì. Bước chân vào một nhà thờ... Rồi dâng lên một lời cầu nguyện... Ở đó chắc?"
 
 "Ồ, chẳng phải thế sẽ là báng bổ sao? Hoặc biết đâu anh thậm chí có thể gọi đó là sự hồi tâm chuyển ý... Nghĩ mà xem, một Undead lại tính dâng lời cầu nguyện lên Thần linh..."
 
@@ -80,7 +80,7 @@ Nghĩ lại thì việc ăn món hầm cụ thể này cho bữa sáng vốn man
 
 Dù bản thân cũng thấy ngạc nhiên vì mãi đến giờ mới nghĩ đến chuyện đó, nhưng tôi hoàn toàn đồng tình với Lorraine: quyến thuộc của tôi cần có một cái tên. Tôi từng không nghĩ điều đó là cần thiết vì chỉ đơn thuần coi nó như một dạng quái vật nuôi làm cảnh, chẳng kỳ vọng gì nhiều ở nó. Tôi không thể hình dung nổi việc cứ gọi nó là một con Puchi Suri mãi mãi, vì chuyện đó quả thực vô cùng bất tiện. Giờ chính là thời điểm thích hợp để giải quyết vấn đề này.
 
-"À thì... Nó mang. Màu đen. Ta có thể gọi nó là... Black."
+"À thì... Nó mang. Màu đen. Chúng ta có thể gọi nó là... Black."
 
 Đôi mày Lorraine chau lại trước khiếu đặt tên tồi tệ của tôi.
 
@@ -102,7 +102,7 @@ Tôi chẳng có cảm xúc mãnh liệt gì với cái tên đó, cũng không 
 
 "Kẻ... Cao quý."
 
-Về phương diện cá nhân, tôi cảm thấy quyến thuộc của mình giống một tên trùm du đãng hơn là một quý tộc; một kẻ độc tài hăm dọa hơn là một vị minh quân sùng đạo. Đánh hơi thấy suy nghĩ của tôi, quyến thuộc liền lấy chân đạp thình thịch vào vai tôi một cái, như thể đang phản đối phân tích của tôi về nhân cách của nó.
+Về phương diện cá nhân, tôi cảm thấy quyến thuộc của mình giống một tên trùm du đãng hơn là một quý tộc; một kẻ độc tài hăm dọa hơn là một vị minh quân sùng đạo. Đánh hơi thấy suy nghĩ của tôi, quyến thuộc liền lấy chân dậm thịch một cái vào vai tôi, như thể đang phản đối phân tích của tôi về nhân cách của nó.
 
 Tôi sai chắc?
 
@@ -144,7 +144,7 @@ Tuy nhiên lần này, tôi lại chẳng có được những lựa chọn như
 
 Người đánh xe có vẻ vẫn chưa thấy thuyết phục. Trái lại, bác ấy dường như còn bận lòng hơn.
 
-Khẽ nhún vai rồi buông một tiếng thở dài ngao ngán, người đàn ông tiếp tục. "Mấy cậu mạo hiểm giả các người ai nấy đều y như thế cả. Chà... Cậu tự chịu trách nhiệm cho mạng sống của mình đấy, nhưng đừng có làm gì liều mạng, nghe rõ chưa? Nếu tình hình trở nên tồi tệ... Cậu phải chạy biến về đây ngay lập tức đấy."
+Khẽ nhún vai rồi buông một tiếng thở dài ngao ngán, người đàn ông tiếp tục. "Cánh mạo hiểm giả các cậu ai nấy đều y như thế cả. Chà... Cậu tự chịu trách nhiệm cho mạng sống của mình đấy, nhưng đừng có làm gì liều mạng, nghe rõ chưa? Nếu tình hình trở nên tồi tệ... Cậu phải chạy biến về đây ngay lập tức đấy."
 
 Những lời nói ân cần, nhưng cũng thật hiếm hoi. Những người như bác ấy thường chẳng mấy khi quá bận tâm lo lắng cho hành khách của mình đến thế.
 
@@ -156,7 +156,7 @@ Người đánh xe vung roi lên, thúc đàn ngựa phi nước đại. Chẳng
 
 Những mạo hiểm giả dám thử sức với Đầm Lầy Tarasque quả thực vô cùng hiếm hoi. Xe ngựa chỉ dừng tại điểm đón này hai lần mỗi ngày: một chuyến vào ban ngày và một chuyến vào buổi chiều tối. Nếu một mạo hiểm giả lỡ chuyến xe ngựa, người đó sẽ phải qua đêm giữa chốn hoang dã. Tôi tự dặn lòng phải luôn để mắt đến thời gian kẻo rơi vào tình cảnh tương tự.
 
-Dứt lời, tôi rảo bước xuôi theo con đường mòn, ghi nhớ lời khuyên của người đánh xe tốt bụng.
+Nghĩ vậy, tôi rảo bước xuôi theo con đường mòn, ghi nhớ lời khuyên của người đánh xe tốt bụng.
 
 ◆◇◆◇◆
 

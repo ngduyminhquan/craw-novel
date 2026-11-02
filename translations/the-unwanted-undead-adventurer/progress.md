@@ -56,9 +56,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | reviewed |  |
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | reviewed |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | reviewed |  |
-| 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | done |  |
-| 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | done |  |
-| 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | done |  |
+| 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | reviewed |  |
+| 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | reviewed |  |
+| 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | reviewed |  |
 | 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | todo |  |
 | 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | todo |  |
 | 57 |  | Chapter_057 - Vol 3 Chapter 1 - A Peculiar Man (2).txt | Vol 3 Chapter 1 - A Peculiar Man (2) | todo |  |
