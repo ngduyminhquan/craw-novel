@@ -150,7 +150,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ignite Aryumage |  | Ignite Aryumage | kỹ năng | 78 | Thần chú thi triển ngọn lửa nhỏ của Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
 | cantrip | cantrips | ma pháp vặt | kỹ năng | 77 | Ma pháp sơ cấp yếu ớt của Ma Thuật Sinh Hoạt |
 | Master Dissectionist | Master Dissectionists | Chuyên gia Mổ Xẻ Trưởng | chức nghiệp | 80 | Chức vị chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả |
-| Stheno Trading Company | the Stheno Trading Company | Thương hội Stheno | tổ chức | 80 | Thương hội buôn bán và đấu giá lớn hàng đầu tại Maalt (ステンノ商会) |
+| Stheno Trading Company | the Stheno Trading Company; Stheno | Thương hội Stheno | tổ chức | 80 | Thương hội buôn bán và đấu giá lớn hàng đầu tại Maalt (ステンノ商会) |
 | Goddess Lobelia | the Goddess Lobelia; One True Goddess Lobelia | Nữ Thần Lobelia | khác | 81 | Nữ thần tối cao được Giáo Hội Lobelia tôn sùng là đấng sáng thế duy nhất (ロベリア女神) |
 | Holy Kingdom of Ars |  | Thánh Vương Quốc Ars | địa danh | 81 | Quốc gia tôn giáo lớn ở phía tây, nơi đặt tổng đàn Giáo Hội Lobelia (アルス聖王国) |
 | Vansurt |  | Vansurt | khác | 81 | Phong Thần được tôn thờ trong các tôn giáo khác |
@@ -194,3 +194,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | alchemist | alchemists | nhà giả kim | chức nghiệp | 4 | Người nghiên cứu và thực hành thuật giả kim (錬金術師) |
 | magical tool | magical tools; magic tool; magic tools | ma cụ | vật phẩm | 1 | Dụng cụ, công cụ ma thuật được tạo tác bằng thuật giả kim hoặc yểm ma lực (魔道具) |
 | wand | wands | đũa phép | vật phẩm | 100 | Dụng cụ dẫn ma pháp dạng que ngắn làm từ gỗ quái vật và Ma Tinh (杖/ワンド) |
+| Witta Trading Company | the Witta Trading Company; Witta | Thương hội Witta | tổ chức | 102 | Thương hội lâu đời tại Maalt chuyên cung cấp nhu yếu phẩm cho mạo hiểm giả (ヴィッタ商会) |

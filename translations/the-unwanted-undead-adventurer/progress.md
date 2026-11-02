@@ -106,7 +106,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 99 |  | Chapter_099 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (6) | reviewed |  |
 | 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | done |  |
 | 101 |  | Chapter_101 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8) | done |  |
-| 102 |  | Chapter_102 - Vol 4 Chapter 3 - The Stheno Trading Company (1).txt | Vol 4 Chapter 3 - The Stheno Trading Company (1) | todo |  |
+| 102 |  | Chapter_102 - Vol 4 Chapter 3 - The Stheno Trading Company (1).txt | Vol 4 Chapter 3 - The Stheno Trading Company (1) | done |  |
 | 103 |  | Chapter_103 - Vol 4 Chapter 3 - The Stheno Trading Company (2).txt | Vol 4 Chapter 3 - The Stheno Trading Company (2) | todo |  |
 | 104 |  | Chapter_104 - Vol 4 Chapter 3 - The Stheno Trading Company (3).txt | Vol 4 Chapter 3 - The Stheno Trading Company (3) | todo |  |
 | 105 |  | Chapter_105 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -577,3 +576,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#98-99] Dịch 'hot wine' và cách viết số thứ tự tầng mê cung trong văn xuôi → Không thêm danh từ chung 'hot wine' vào glossary nhưng đồng bộ dịch là 'rượu vang nóng' ở #98-#99; chuẩn hóa viết chữ 'tầng bốn' trong văn xuôi. (orchestrator)
 - [#100] Cảnh báo QA do Alias 'Guild' của Adventurer’s Guild và 'Iron' của Iron-class: đề xuất xoá hai alias từ đơn chung này trong glossary.md vì gây báo nhầm khi gặp 'Blacksmith’s Guild' (Hội Thợ Rèn) và 'Mana Iron' (Ma Thiết); tạm giữ nguyên glossary và bản dịch dịch chuẩn theo ngữ cảnh. → Chấp nhận cảnh báo báo nhầm ở 'Blacksmith’s Guild' và 'Mana Iron'; giữ nguyên bản dịch 'Hội Thợ Rèn', 'Lũ Tràn' và giữ nguyên alias trong glossary.md. (orchestrator)
 - [#101] Bỏ alias 'Iron' khỏi mục 'Iron-class' trong glossary.md vì là từ đơn chung gây cảnh báo giả ở mọi chương xuất hiện 'Mana Iron' — tạm chọn giữ nguyên bản dịch #101 và giữ alias cũ chờ duyệt. → Chấp nhận cảnh báo báo nhầm ở 'Mana Iron'; giữ nguyên bản dịch #101 và giữ nguyên alias trong glossary.md. (orchestrator)
+- [#102] Dịch tên tổ chức 'Witta Trading Company' / 'Witta' — tạm chọn 'Thương hội Witta' (thống nhất với Thương hội Stheno; phương án khác: 'Công ty Thương mại Witta', 'Thương đoàn Witta'). Tạm dùng trong bản dịch: 'Thương hội Witta'. → Giữ 'Thương hội Witta' (thống nhất với 'Thương hội Stheno'). (orchestrator)

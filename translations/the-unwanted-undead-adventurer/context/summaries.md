@@ -594,6 +594,13 @@ Về Ma Tinh làm đũa phép, Lorraine giải thích Alize sở hữu lượng 
 Rentt kiên quyết từ chối nhận thù lao đi thu thập nguyên liệu từ Lorraine để tránh bòn rút lòng tốt của bạn thân; đổi lại, Lorraine dùng thuật giả kim tinh luyện thần tốc toàn bộ quặng Ma Thiết thường lẫn quặng nhiễm Ma Lực Rồng Đất thành các thỏi kim loại tím và vàng với độ tinh khiết cực cao.
 Trước sự kinh ngạc và áy náy của Rentt về công sức tinh luyện đắt giá, Lorraine xem việc được nghiên cứu thực thể Undead độc nhất vô nhị như anh là trải nghiệm vô giá vượt xa ngàn đồng vàng; cả hai thống nhất xem đây là cuộc trao đổi dịch vụ sòng phẳng.
 
+## 102
+Nhận lời dặn dò của Lorraine về việc phải cẩn trọng giữ mình trước giới thương nhân, Rentt mang danh tính Rentt Vivie tới trụ sở chính bề thế cao năm tầng của Thương hội Stheno.
+Giữa dòng khách tấp nập, anh bối rối vì chiếc mặt nạ đầu lâu quá nổi bật, nhưng nhanh chóng được một nhân viên từng là mạo hiểm giả tiếp đón và dẫn lên thang máy—ma cụ tân tiến do nghệ nhân thủ đô chế tạo.
+Để lấp liếm thắc mắc của nhân viên về lần ghé thăm trước, Rentt viện cớ từng muốn mua lá Hoonoki Maalt và được biết mặt hàng này chỉ có độc quyền tại Thương hội Witta.
+Được đưa lên phòng tiếp khách sang trọng trên tầng năm thưởng thức trà đen cùng bánh ngọt, Rentt bất ngờ nghe tiếng gõ cửa lớn vang lên và cẩn trọng mời người vào.
+
+
 
 
 
