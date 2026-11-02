@@ -451,4 +451,10 @@ Alize mang ghế vào phòng, mọi hiểu lầm được hóa giải trong nư�
 Trong khi Lillian và Alize bàn bạc riêng, Rentt cho đám trẻ mồ côi chơi phi thuyền mô hình ở nguyện đường và cùng Lorraine bàn về thực tế khó khăn trong tương lai của trẻ mồ côi.
 Sơ Lillian hồi phục nhanh chóng sau liều thuốc đầu và ưng thuận cho Alize theo học; trở về nhà, Lorraine bắt đầu giảng dạy bài học ma thuật vỡ lòng đầu tiên cho cả Alize lẫn Rentt.
 
+## 77
+Lorraine mở lớp giảng dạy ma thuật vỡ lòng cho cả Alize lẫn Rentt, với giáo trình mang tựa đề hài hước và yêu cầu học trò gọi mình là "Học Sĩ".
+Trong giờ học, Rentt và Alize hăng hái tranh nhau trả lời về vai trò của Ma Lực cùng Ma Thuật Sinh Hoạt; Lorraine giải thích khéo léo về các trường hợp ngoại lệ làm tăng vọt dung lượng Ma Lực để che giấu bí mật của Rentt.
+Alize lo lắng khi chưa thể tự cảm nhận Ma Lực; Lorraine phân tích các phương pháp khai mở gồm nhờ người truyền dẫn, hấp thu khi diệt quái, hay cách cực đoan là dùng thân mình hứng đòn ma thuật.
+Rentt kể lại trải nghiệm liều mạng thời trẻ từng dùng mặt hứng ma pháp Gie Vieros của Pháp Sư Goblin khiến Alize bàng hoàng cự tuyệt; Lorraine bắt đầu chuẩn bị truyền dẫn Ma Lực khai mở cho Alize.
+
 

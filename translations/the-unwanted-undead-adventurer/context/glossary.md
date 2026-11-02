@@ -144,3 +144,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Court Mage | Court Mages | Pháp Sư Cung Đình | chức nghiệp | 75 | Ma pháp sư phụng sự triều đình hoàng gia Yaaran (宮廷魔術師) |
 | Royal Court |  | Triều Đình Hoàng Gia | tổ chức | 75 | Triều đình của Vương Quốc Yaaran (王廷/宮廷) |
 | Great Angels |  | Đại Thiên Sứ | khác | 76 | Các đấng thiên sứ tối cao được tôn thờ trong Giáo Hội Đông Thiên (大天使) |
+| Goblin Mage | Goblin Mages | Pháp Sư Goblin | quái vật | 77 | Phân loài Goblin có khả năng sử dụng ma thuật sơ cấp (ゴブリンメイジ) |
+| Livelihood Magecraft |  | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
+| Magician of Beginnings |  | Pháp Sư Khởi Đầu | danh hiệu | 77 | Nhân vật huyền thoại đầu tiên tự phát hiện và vận dụng Ma Lực mà không cần trợ giúp (始まりの魔術師) |

@@ -81,7 +81,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | reviewed |  |
 | 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | reviewed |  |
 | 76 |  | Chapter_076 - Vol 3 Chapter 3 - A New Existential Evolution (7).txt | Vol 3 Chapter 3 - A New Existential Evolution (7) | done |  |
-| 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | todo |  |
+| 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | done |  |
 | 78 |  | Chapter_078 - Vol 3 Chapter 4 - Magecraft (2).txt | Vol 3 Chapter 4 - Magecraft (2) | todo |  |
 | 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | todo |  |
 | 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -517,3 +516,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#75] Dịch chức nghiệp 'Court Mage' / 'Court Mages' (đoạn 19, 21) — tạm chọn 'Pháp Sư Cung Đình' (chuẩn Hán Việt ngắn gọn cho 宮廷魔術師; phương án khác: 'Pháp Sư Hoàng Gia', 'Ma Pháp Sư Cung Đình'). Tạm dùng trong bản dịch: 'Pháp Sư Cung Đình'. → Chốt 'Pháp Sư Cung Đình' (chuẩn Hán Việt ngắn gọn cho 宮廷魔術師 theo rules.md). (orchestrator)
 - [#75] Dịch tổ chức/thực thể 'Royal Court' (đoạn 21) — tạm chọn 'Triều Đình Hoàng Gia' (phương án khác: 'Hoàng Cung', 'Triều Đình'). Tạm dùng trong bản dịch: 'Triều Đình Hoàng Gia'. → Chốt 'Triều Đình Hoàng Gia' (bản dịch tự nhiên và chuẩn xác cho 'Royal Court'). (orchestrator)
 - [#76] Dịch thực thể tôn giáo 'Great Angels' (đoạn 54, 57) — tạm chọn 'Đại Thiên Sứ' (phù hợp giáo lý tôn thờ thiên sứ của Giáo Hội Đông Thiên; phương án khác: 'Thiên Sứ Vĩ Đại', 'Các Vị Đại Thiên Thần'). Tạm dùng trong bản dịch: 'Đại Thiên Sứ' (đã thêm vào glossary.md). → Chốt 'Đại Thiên Sứ' (đã có trong glossary.md) (orchestrator)
+- [#77] Dịch tên quái vật 'Goblin Mage' — tạm chọn 'Pháp Sư Goblin' (đồng bộ cấu trúc danh xưng với 'Cung Thủ Goblin', 'Đại Tướng Goblin'; phương án khác: 'Goblin Pháp Sư'). Tạm dùng trong bản dịch: 'Pháp Sư Goblin'. → Chốt 'Pháp Sư Goblin' (đồng bộ với Cung Thủ Goblin, Đại Tướng Goblin) (orchestrator)
+- [#77] Dịch thuật ngữ 'Livelihood Magecraft' — tạm chọn 'Ma Thuật Sinh Hoạt' (chuẩn Hán Việt ngắn gọn cho 生活魔術; phương án khác: 'Ma Thuật Đời Sống', 'Ma Thuật Tiện Ích'). Tạm dùng trong bản dịch: 'Ma Thuật Sinh Hoạt'. → Chốt 'Ma Thuật Sinh Hoạt' (chuẩn Hán Việt cho 生活魔術) (orchestrator)
+- [#77] Dịch danh xưng huyền thoại 'Magician of Beginnings' — tạm chọn 'Pháp Sư Khởi Đầu' (chuẩn xác cho 始まりの魔術師; phương án khác: 'Pháp Sư Khởi Nguyên', 'Ma Pháp Sư Khởi Đầu'). Tạm dùng trong bản dịch: 'Pháp Sư Khởi Đầu'. → Chốt 'Pháp Sư Khởi Đầu' (chuẩn cho 始まりの魔術師) (orchestrator)
