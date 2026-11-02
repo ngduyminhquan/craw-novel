@@ -17,7 +17,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | reviewed |  |
 | 11 |  | Chapter_011 - Vol 1 Chapter 2 - Rina the Adventurer (6).txt | Vol 1 Chapter 2 - Rina the Adventurer (6) | reviewed |  |
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | reviewed |  |
-| 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | todo |  |
+| 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | done |  |
 | 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | todo |  |
 | 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | todo |  |
 | 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | todo |  |
@@ -381,3 +381,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#10] Đoạn 33: Dịch "the 'business' end of its blade" → Sửa thành "nhưng đầu mũi kiếm—phần gây sát thương—đã không còn chĩa về phía tôi nữa" (orchestrator)
 - [#11] Đoạn 82: Mốc thời gian câu thoại của Rina "if it hadn't been for you, I would already be dead" → Sửa thành "nếu không nhờ có anh thì giờ này tôi đã mất mạng rồi" (orchestrator)
 - [#12] Đoạn 39: Dịch thành ngữ "for lack of a better word" → Sửa thành "với giả định chung rằng họ, nói thẳng thừng ra là, đã chết" (orchestrator)
+- [#13] Dịch danh hiệu học thuật 'Great Professor' và 'Professor' của Lorraine — tạm chọn 'Đại Học Sĩ' và 'Học Sĩ' (phương án khác: 'Đại Giáo Sư' và 'Giáo Sư'). → Chốt Đại Học Sĩ (Great Professor) và Học Sĩ (Professor) hợp bối cảnh trung cổ giả tưởng. (orchestrator)

@@ -75,4 +75,10 @@ Nhận thức được việc không thể tự đến Hội Mạo Hiểm Giả 
 Anh tìm đến căn nhà quen thuộc ngập đầy sách vở bừa bộn của người bạn thân nhất ở Maalt để xin tá túc và nhờ giúp đỡ.
 Rentt đánh thức cô bạn học giả ma thuật (Lorraine) đang ngủ vùi, khiến cô hoảng hốt trước chiếc mặt nạ, rồi tháo găng tay để lộ bàn tay Ngạ Quỷ khô khốc và bắt đầu giải thích tình hình.
 
+## 13
+Lorraine kiểm tra cơ thể Ngạ Quỷ của Rentt và tin vào lời kể của anh về vụ chạm trán Rồng, cả hai đồng ý tạm giấu chuyện này để tránh bị nghi ngờ hay bị treo thưởng săn đuổi.
+Lorraine nhận lời làm người đại diện nhận/trả nhiệm vụ và cho Rentt ở nhờ, đổi lại anh sẽ trở thành đối tượng hỗ trợ cô nghiên cứu hiện tượng Tiến Hóa Bản Thể.
+Chương hồi tưởng quá khứ của Lorraine: thiên tài đạt danh hiệu "Đại Học Sĩ" năm 14 tuổi, vì buồn chán nên bỏ trốn đến Maalt tìm thảo dược và vô tình nhận thẻ mạo hiểm giả Ngân Cấp do lỗ hổng quy chế.
+Tại Hội, một kiếm sĩ lực lưỡng kỳ lạ đã dúi tân binh Rentt Faina đi theo xách đồ cho Lorraine trong nhiệm vụ ở Rừng Azuul, mở đầu cho mối cơ duyên mười năm giữa hai người.
+
 

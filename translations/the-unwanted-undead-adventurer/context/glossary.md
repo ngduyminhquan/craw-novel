@@ -52,3 +52,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Thousand-year Bronze-class | The Thousand-year Bronze-class | Đồng Cấp Ngàn Năm | danh hiệu | 4 | Biệt danh trêu chọc của Rentt vì kẹt ở Hạ Đồng Cấp suốt 10 năm |
 | spirit art | spirit arts; Spirit Art; Spirit Arts | Khí Thuật | kỹ năng | 2 | Kỹ thuật vận dụng Khí Lực cường hóa cơ thể và đòn đánh |
 | Priest | priests; priest | tư tế | chức nghiệp | 2 | Người phục vụ giáo hội, sử dụng Thần Lực thanh tẩy và giải trừ nguyền rủa |
+| Great Professor |  | Đại Học Sĩ | danh hiệu | 13 | Học vị học thuật đỉnh cao tại viện giáo dục vương quốc (大博士) |
+| Professor |  | Học Sĩ | danh hiệu | 13 | Học vị học thuật cao cấp tại viện giáo dục vương quốc (博士) |
