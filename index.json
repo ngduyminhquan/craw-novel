@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T23:44:50Z",
+  "generatedAt": "2026-11-02T23:53:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2986,19 +2986,19 @@
           "number": 139,
           "title": "Chương 139: Tập 6 Chương 2 - Tiệc Chào Mừng Và Nguồn Gốc Của Rentt (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_139.md",
-          "sha": "f41f0362493081e18e0d24bfb6c93d93f2b92bab"
+          "sha": "88976d10d04d484c647c4f1991556bb4a41ec9eb"
         },
         {
           "number": 140,
           "title": "Chương 140: Tập 6 Chương 2 - Tiệc Chào Mừng Và Nguồn Gốc Của Rentt (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_140.md",
-          "sha": "142086629a6e522dffde204e2b47ed8b0c770d96"
+          "sha": "fab4a0159f78a737de2fee187d55d3e3308bad96"
         },
         {
           "number": 141,
           "title": "Chương 141: Tập 6 Chương 3 - Bi Kịch Và Nguồn Gốc (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_141.md",
-          "sha": "1cfe7f7aefe61489a260143da9823e680c2e8980"
+          "sha": "1109b10452a70c9b58e3b312fda89da0fce47f59"
         }
       ]
     },

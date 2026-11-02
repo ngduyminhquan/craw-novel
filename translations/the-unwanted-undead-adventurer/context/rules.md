@@ -57,3 +57,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#124) Cấu trúc diễn đạt ước lượng "anywhere from [X] to [Y]": dịch là "trong khoảng từ X đến Y" hoặc "tầm từ X đến Y" (tránh dịch thô từng chữ "anywhere" thành "ở bất cứ đâu").
 - (#125) Thành ngữ "more [X] where that came from": dịch là "còn nhiều [X] tương tự như thế", "đâu chỉ có thế, còn nhiều [X] nữa" (tránh dịch máy thành "từ gốc rễ vấn đề").
 - (#129) Tránh dùng cách gọi ước lệ kiểu cổ trang "nàng [Tên]" (như "nàng Rina") cho nhân vật nữ đời thường; tránh dùng từ lễ nghi sai thứ bậc như "diện kiến" khi nói về hậu bối (thay bằng "gặp mặt").
+- (#140) Pravda khi nói chuyện với Rentt và Jinlin (kể cả những lúc bực bội, la mắng nghiêm khắc) luôn xưng "bà", gọi "cháu / hai đứa / các cháu" — giữ nhất quán với pronouns.md, tránh chuyển sang xưng hô "ta" kiểu xa cách hoặc kiếm hiệp.

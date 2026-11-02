@@ -8,7 +8,7 @@
 
 Nhắc lại những chuyện từ quá khứ xa xôi khiến tâm trí tôi có chút mơ hồ, và dường như tôi cứ thế buột miệng nói mà chẳng hề suy nghĩ. Cảm giác như thể tôi đã mất đi ý thức và ngất lịm đi một lúc. Đó là những ký ức vui vẻ, nhưng chúng lại gắn liền với những ký ức đau thương, nên có lẽ tôi đã vô thức muốn để đầu óc mình lơ đễnh đi. Dẫu vậy, câu chuyện này đã khắc sâu vào tâm khảm tôi đến mức tôi có thể kể lại nó mà không cần phải đắn đo suy nghĩ.
 
-Câu chuyện này đang tiến dần tới hồi tan thương. Tôi vốn chẳng hề muốn nhớ lại.
+Câu chuyện này đang tiến dần tới hồi tang thương. Tôi vốn chẳng hề muốn nhớ lại.
 
 ◆◇◆◇◆
 
@@ -90,7 +90,7 @@ Chúng tôi cũng nhìn thấy Pravda đang cầm một cây trượng. Bà chí
 
 Pravda nhận ra chúng tôi và quay phắt lại. "Hai đứa?! Các cháu còn sống sao?! Chạy mau! Bà sẽ cầm chân con quái vật này―"
 
-Đó là những lời trăng trối cuối cùng của bà. Trước cả khi tôi kịp hiểu chuyện gì đang xảy ra, móng vuốt của con sói đã xuyên toạc ra sau lưng bà. Pravda hộc ra một búng máu, và ánh sáng dần vụt tắt trong đôi mắt bà. Rồi bà ngã xuống, trút hơi thở cuối cùng.
+Đó là những lời trăn trối cuối cùng của bà. Trước cả khi tôi kịp hiểu chuyện gì đang xảy ra, móng vuốt của con sói đã xuyên toạc ra sau lưng bà. Pravda hộc ra một búng máu, và ánh sáng dần vụt tắt trong đôi mắt bà. Rồi bà ngã xuống, trút hơi thở cuối cùng.
 
 Tôi từng nhìn thấy xác chết trước đây, nhưng đây là lần đầu tiên tôi tận mắt chứng kiến khoảnh khắc của cái chết. Tôi không thể nghĩ ngợi được gì trong giây lát. Nhưng rồi tôi sực nhớ ra rằng mình phải chạy. Tôi nắm chặt lấy tay Jinlin và cố chạy ra xa con sói hết mức có thể.
 
@@ -148,7 +148,7 @@ Cái chết ập đến quá đỗi nhanh chóng. Cơ thể Jinlin nhanh chóng 
 
 "Jinlin, Jinlin! Tại sao chứ?!" tôi gào khóc nức nở. Tôi chẳng còn thiết tha gì bất cứ điều gì nữa. Tôi thậm chí còn chẳng thể chuyển lời trăn trối của cô bé vì con sói quái vật đó vẫn còn đứng sừng sững ở đằng kia. Có thứ gì đó trong tôi vụn vỡ, và tôi nhặt lấy một cành cây lên để đối đầu với con sói. Thật là ngu xuẩn. Chẳng có cách nào để tôi có thể chiến thắng, và cơ hội sống sót của tôi thậm chí còn thấp hơn cả việc cố gắng tháo chạy. Nhưng nếu phải chết, tôi muốn chết trong tư thế chiến đấu.
 
-Con sói nhìn tôi đầy thích thú, rồi nó đứng thẳng dậy và đối diện với tôi như một dã thú đang đi săn mồi. Đó là lúc tôi nhận ra trước đó nó chỉ đang đùa giỡn. Cho đến tận bây giờ tôi vẫn không hiểu vì sao nó lại cảm thấy cần phải vào thế chiến đấu, nhưng có lẽ con sói cảm thấy làm vậy mới là đúng phép. Giờ ngẫm lại, con sói dường như cũng đã từng cảnh giác đề phòng Pravda. Dẫu vậy, muốn biết chắc thì chắc phải hỏi chính con quái vật đó mới được.
+Con sói nhìn tôi đầy thích thú, rồi nó đứng thẳng dậy và đối diện với tôi như một dã thú đang đi săn mồi. Đó là lúc tôi nhận ra trước đó nó chỉ đang đùa giỡn. Cho đến tận bây giờ tôi vẫn không hiểu vì sao nó lại cảm thấy cần phải vào thế chiến đấu, nhưng có lẽ con sói cảm thấy làm vậy mới là đúng phép. Giờ ngẫm lại, con sói dường như cũng đã từng cảnh giác đề phòng Pravda. Dẫu vậy, muốn biết chắc thì phải hỏi chính con quái vật đó mới được.
 
 Tôi vung vẩy cành cây trên tay. Tư thế của tôi tệ hại khôn cùng, và tôi chỉ có thể chạy với tốc độ lạch bạch chậm chạp. Đây chẳng phải là cách để chiến đấu với một con quái vật. Nhưng điều đó chẳng còn quan trọng nữa. Tôi lao vào đâu phải để đánh nhau, mà đúng hơn là đang tìm đến cái chết. Tôi không biết con sói có nhận ra điều đó hay không, nhưng trông nó có vẻ khoái chí khi há toang cái miệng rộng hoác và tiến lại gần tôi. Trông nó như thể sắp sửa cắn đứt đôi người tôi ra, nhưng tôi chẳng hề sợ hãi.
 

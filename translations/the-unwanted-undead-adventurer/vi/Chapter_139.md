@@ -30,7 +30,7 @@ Có lẽ đó là lý do Ingo không hề nhắc đến việc nơi đây là m�
 
 "Linh hồn sao? Chuyện đó khó đấy. Người ta nói rằng hầu hết các linh hồn đều đi qua Cổng Cõi Chết mà không vương vấn lại thế gian này. Chẳng có cách nào để triệu hồi họ trở về, trừ khi là một pháp sư Tử Linh. Nhưng ngay cả trong những trường hợp đó, người ta vẫn không rõ liệu thứ được gọi lên có thực sự là linh hồn hay không."
 
-"Thì ra vậy, tôi cũng biết điều đó mà. Tôi cũng chẳng nghiêm túc đến thế đâu. Không sao cả," Rentt phân trần, nhưng trông anh có vẻ hơi hụt hẫng. Có lẽ anh đã kỳ vọng nhiều hơn những gì mình chịu thừa nhận.
+"À thì, tôi cũng biết điều đó mà. Tôi cũng chẳng nghiêm túc đến thế đâu. Không sao cả," Rentt phân trần, nhưng trông anh có vẻ hơi hụt hẫng. Có lẽ anh đã kỳ vọng nhiều hơn những gì mình chịu thừa nhận.
 
 "Xin lỗi vì gợi lại chuyện này, nhưng chẳng phải cha mẹ anh bị ma vật sát hại sao?" Lorraine hỏi, cảm thấy thật kỳ lạ nếu không đề cập đến chuyện đó khi họ đang ngồi bên phần mộ của hai người. Anh không nhất thiết phải chia sẻ nếu không muốn. Còn nếu anh không muốn nói, Lorraine tin chắc anh sẽ chủ động đổi chủ đề.
 
@@ -102,7 +102,7 @@ Theo những gì tôi nhớ, tính cách của tôi khá nữ tính. Tôi không
 
 Pravda nghiêng đầu. "Bà nghĩ hai đứa đổi vai cho nhau thì đúng hơn đấy," bà lẩm bẩm.
 
-Nghĩ lại thì bà nói đúng thật. Dẫu vậy, chúng tôi đều chơi những vai mình muốn, nên chẳng ai phàn nàn gì—ngoại trừ Jal và Dol, hai kẻ chẳng làm được gì ngoài việc cằn nhằn. Hai cậu ta luôn thua trò oẳn tù tì và chẳng có quyền lựa chọn. Chiêu ra của họ cực kỳ dễ đoán, nên Jinlin lúc nào cũng thắng. Cô bé là một đứa trẻ thông minh đến lạ kỳ. Còn về phần tôi, tôi cứ làm theo lời Jinlin dặn, nên lúc nào tôi cũng thắng theo. Coi như chúng tôi đã ngấm ngầm thông đồng chống lại họ, nhưng vui phết.
+Nghĩ lại thì bà nói đúng thật. Dẫu vậy, chúng tôi đều chơi những vai mình muốn, nên chẳng ai phàn nàn gì—ngoại trừ Jal và Dol, hai kẻ chẳng làm được gì ngoài việc cằn nhằn. Hai cậu ta luôn thua trò oẳn tù tì và chẳng có quyền lựa chọn. Chiêu ra của họ cực kỳ dễ đoán, nên Jinlin lúc nào cũng thắng. Cô bé là một đứa trẻ thông minh đến lạ kỳ. Còn về phần tôi, tôi cứ làm theo lời Jinlin dặn, nên lúc nào tôi cũng thắng theo. Coi như chúng tôi đã ngấm ngầm thông đồng chống lại họ, nhưng cũng rất vui.
 
 "Jinlin, ma vật có thể dễ bị đánh bại khi cháu chơi trò đóng giả, nhưng ma vật thật sự thì đáng sợ lắm đấy," Pravda răn dạy. "Nếu chúng ta bị tấn công trong chuyến đi này, hãy hứa với bà là cháu sẽ bỏ chạy nhé."
 
@@ -122,7 +122,7 @@ Một lúc sau, bà nhìn chằm chằm vào tôi. "Bà chẳng thấy vậy ch�
 
 ◆◇◆◇◆
 
-Kể từ khoảnh khắc khởi hành vào sáng hôm đó, cỗ xe ngựa di chuyển không ngừng nghỉ cho đến khi chúng tôi tới đích. Jinlin, mặt mày tái mét và trông khá ốm yếu vì say xe, hỏi tôi liệu chúng tôi đã đến nơi chưa. Bất chấp mọi lời khoe khoang khoác lác lúc trước, cô bé lại có những điểm yếu không ai ngờ tới nhất. Tôi cũng chưa bao giờ đi xe ngựa trước đây, nhưng tôi lại vượt qua chuyến đi dài một cách hoàn toàn êm đẹp. Ngay cả bây giờ, tôi vẫn có thể đọc sách trên xe ngựa mà không hề bị say xe. Tính cách của hai đứa gợi ý rằng chúng tôi sẽ có phản ứng trái ngược nhau, nhưng cơ thể con người đúng là khó mà thấu hiểu hết được.
+Kể từ khoảnh khắc khởi hành vào sáng hôm đó, cỗ xe ngựa di chuyển không ngừng nghỉ cho đến khi chúng tôi tới đích. Jinlin, mặt mày tái mét và trông khá ốm yếu vì say xe, hỏi tôi liệu chúng tôi đã đến nơi chưa. Bất chấp mọi lời khoe khoang khoác lác lúc trước, cô bé lại có những điểm yếu không ai ngờ tới nhất. Tôi cũng chưa bao giờ đi xe ngựa trước đây, nhưng tôi lại vượt qua chuyến đi dài một cách hoàn toàn êm đẹp. Ngay cả bây giờ, tôi vẫn có thể đọc sách trên xe ngựa mà không hề bị say xe. Cứ ngỡ với tính cách của hai đứa thì phản ứng sẽ phải trái ngược nhau mới phải, nhưng cơ thể con người đúng là khó mà thấu hiểu hết được.
 
 "Ừ, đến nơi rồi Jinlin. Cậu có sao không? Nếu khó chịu thì cứ nôn ra đi," tôi nói.
 

@@ -143,9 +143,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | reviewed |  |
 | 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | reviewed |  |
 | 138 |  | Chapter_138 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (1) | reviewed |  |
-| 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | done |  |
-| 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | done |  |
-| 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | done |  |
+| 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | reviewed |  |
+| 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | reviewed |  |
+| 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | reviewed |  |
 | 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | todo |  |
 | 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | todo |  |
 | 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | todo |  |

@@ -68,7 +68,7 @@ Tiếng cành cây răng rắc nghe rợn cả người. Tôi cứ ngỡ nó s�
 
 Cô bé đưa tay về phía nàng tiên. "Nào, tớ cứu cậu đây," Jinlin thì thầm. Trông cô bé chẳng mảy may sợ ngã chút nào, nói đúng hơn là dường như còn có phần phấn khích. Việc giải cứu nàng tiên này mang lại cho cô bé cảm giác đầy kích thích.
 
-Nàng tiên nhìn thấy bàn tay cô bé nhưng có vẻ hơi e dè khiếp sợ. Có lẽ cô ấy sợ bị bóp nát chăng. Nếu bạn chỉ mang kích thước của một nàng tiên thì một đứa trẻ loài người cũng chẳng khác nào một người khổng lồ. Jinlin dường như nhận ra điều này nên đã đổi cách, bò thêm một đoạn nữa dọc theo cành cây. Cô bé từ từ gỡ nàng tiên ra, nhưng đúng lúc đó...
+Nàng tiên nhìn thấy bàn tay cô bé nhưng có vẻ hơi e dè khiếp sợ. Có lẽ cô ấy sợ bị bóp nát chăng. Với một sinh vật chỉ mang kích thước của một nàng tiên, một đứa trẻ loài người cũng chẳng khác nào kẻ khổng lồ. Jinlin dường như nhận ra điều này nên đã đổi cách, bò thêm một đoạn nữa dọc theo cành cây. Cô bé từ từ gỡ nàng tiên ra, nhưng đúng lúc đó...
 
 Rắc một tiếng, cành cây gãy lìa.
 
@@ -130,7 +130,7 @@ Jinlin phồng má giận dỗi. "Tớ còn muốn nói chuyện thêm với cô
 
 "Không, tớ chỉ... ôi, sao cũng được. Dù sao thì tụi mình cũng phải quay về rồi."
 
-"Ồ? Đến giờ quay về rồi cơ đấy à?" Giọng một người phụ nữ cất lên. "Vậy là ta không cần phải lôi cổ hai đứa về nữa rồi nhỉ?"
+"Ồ? Đến giờ quay về rồi cơ đấy à?" Giọng một người phụ nữ cất lên. "Vậy là bà không cần phải lôi cổ hai đứa về nữa rồi nhỉ?"
 
 Giọng nói hơi khàn, rõ ràng là của một bà lão, nhưng nó lại toát ra một áp lực khác thường. Hai đứa đều biết thừa đó là ai, nhưng lại sợ hãi không dám quay đầu lại để xác nhận. Tuy nhiên, rốt cuộc thì chúng tôi vẫn phải làm điều đó.
 
@@ -138,7 +138,7 @@ Sau khi Jinlin và tôi nhìn nhau một cái, hai đứa chầm chậm ngoái n
 
 "Bà nội..." Jinlin lí nhí trong tuyệt vọng.
 
-Đó chính là Pravda, và trông bà đang giận tím mặt. "Hai cái đứa này!" Bà quát lớn, khiến hai đứa tôi giật bắn mình đứng thẳng tắp. "Hai đứa chẳng biết đường sá ở đây! Tự tiện chạy đi lung tung làm cái trò gì thế hả?! Người lớn phải nhắc bao nhiêu lần nữa hai đứa mới hiểu là bên ngoài làng nguy hiểm đến mức nào hả?! Đâu phải chỉ có mỗi trên đường đi; mối nguy rình rập ở khắp mọi nơi! Hai đứa có thể bị bắt cóc đấy! Lại còn có những kẻ điên cuồng giết người để mua vui nữa! Ta dẫn hai đứa theo chỉ vì nghĩ rằng hai đứa hiểu chuyện hơn lũ trẻ bình thường, vậy mà hai đứa lại phụ lòng tin của ta! Đã hiểu chưa hả?!"
+Đó chính là Pravda, và trông bà đang giận tím mặt. "Hai cái đứa này!" Bà quát lớn, khiến hai đứa tôi giật bắn mình đứng thẳng tắp. "Hai đứa chẳng biết đường sá ở đây! Tự tiện chạy đi lung tung làm cái trò gì thế hả?! Người lớn phải nhắc bao nhiêu lần nữa hai đứa mới hiểu là bên ngoài làng nguy hiểm đến mức nào hả?! Đâu phải chỉ có mỗi trên đường đi; mối nguy rình rập ở khắp mọi nơi! Hai đứa có thể bị bắt cóc đấy! Lại còn có những kẻ điên cuồng giết người để mua vui nữa! Bà dẫn hai đứa theo chỉ vì nghĩ rằng hai đứa hiểu chuyện hơn lũ trẻ bình thường, vậy mà hai đứa lại phụ lòng tin của bà! Đã hiểu chưa hả?!"
 
 Sau đó, bà tiếp tục mắng mỏ hai đứa tôi một hồi lâu.
 
