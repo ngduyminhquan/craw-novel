@@ -72,6 +72,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 114: Quyết định trở về quê nhà Làng Hathara cùng Lorraine để điều tra ngôi đền cổ và danh tính vị thần bảo hộ ban Thần Lực; quyết định dùng lại danh tính Rentt Faina cho chuyến đi; được Laura Latuule đồng ý tạm hoãn ủy thác hái Hoa Long Huyết và cho mượn các thư tịch cổ nghiên cứu bí thuật Thần Lực của gia tộc Latuule.
 - Trạng thái tính đến chương 120: Tiết lộ thời thơ ấu tại Làng Hathara từng được trưởng làng và một bà lão thầy thuốc dạy chữ cùng học vấn căn bản, đủ nền tảng để tự đọc sách mượn từ Lorraine suốt 10 năm qua; cùng Alize tham gia khóa học thực hành chế tạo đũa phép bằng thuật giả kim do Lorraine chỉ dẫn.
 - Trạng thái tính đến chương 122: Thể hiện sự khéo tay dị thường khi dùng Ma Lực tạc hai bức tượng gỗ sống động của Lorraine và Alize; hoàn thành xuất sắc việc gọt đũa phép, nắn thẳng đường dẫn ma lực và bắt đầu định hình đầu đũa phép kết hợp với Ma Tinh Terra Drake.
+- Trạng thái tính đến chương 123: Hoàn thành đũa phép với phần đầu chạm khắc hình con rồng nuốt viên Ma Tinh Terra Drake cực kỳ tinh xảo bằng thao túng Ma Lực thuần túy; bộc lộ thiên phú dị thường với hỏa ma pháp khi thử nghiệm câu chú Aliumage bùng lên ngọn lửa dữ dội vượt xa thủy ma pháp Mah.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -105,6 +106,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 118: Cùng Rentt và Alize đến xưởng rèn của Clope; ngỏ ý xin Clope 2 cây chứa Thần Lực để nghiên cứu thuật giả kim và chế tạo trang bị thanh tẩy.
 - Trạng thái tính đến chương 120: Dùng bảng ma cụ mở lớp hướng dẫn Rentt cùng Alize kỹ thuật chế tạo đũa phép bằng thuật giả kim; thị phạm quy trình vẽ ma pháp trận bằng mực chuyên dụng lên bảng đồng, truyền Ma Lực cho Ma Tinh Orc Binh hấp thụ ma pháp trận và dùng Ma Lực gọt đẽo gỗ Ent Bụi Cây; giới thiệu khái niệm ma pháp trận xếp tầng ba chiều.
 - Trạng thái tính đến chương 122: Giải thích vai trò của phần tay cầm và số lượng Ma Tinh trên vật dẫn; hướng dẫn Rentt và Alize nắn thẳng đường dẫn ma lực trong đũa phép; tiết lộ ký ức thời học việc từng ném đũa phép vào mặt thầy giáo cũ.
+- Trạng thái tính đến chương 123: Tiết lộ sở hữu mảnh đất rộng lớn ở ngoại vi Maalt dùng làm bãi thử ma thuật mạo hiểm; chia sẻ góc nhìn phê phán thói quen phụ thuộc đũa phép của giới ma pháp sư Đế Quốc Rermutt và lý do bản thân không có tiếng nói tại quê nhà.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -215,6 +217,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 119: Đến tiệm rèn Ba Chĩa thử vũ khí; được Lorraine thị phạm ma pháp mở rộng lưỡi dao găm thành kiếm; quyết định chọn dao găm làm vũ khí chính kết hợp học kiếm thuật căn bản từ Rentt và ma thuật từ Lorraine.
 - Trạng thái tính đến chương 120: Cùng Rentt học kỹ thuật chế tạo đũa phép bằng thuật giả kim dưới sự hướng dẫn của Lorraine; choáng ngợp trước cấu trúc ma pháp trận xếp tầng ba chiều bên trong cây đũa phép cao cấp của Lorraine; được Lorraine trấn an và khích lệ trước khi tự tay thực hành.
 - Trạng thái tính đến chương 122: Hoàn thành việc gọt đũa phép, nắn thẳng các đường dẫn ma lực dưới sự chỉ dẫn của Lorraine; choáng ngợp trước tài nghệ tạc tượng gỗ và đũa phép tinh xảo của Rentt; bắt đầu bước cuối nạp Ma Lực vào Ma Tinh và đũa phép.
+- Trạng thái tính đến chương 123: Hoàn thành cây đũa phép đầu tay; thi triển thành công câu chú Aliumage tạo ra ngọn lửa to như đuốc nhờ lượng Ma Lực dồi dào; được Lorraine chỉ bảo về nguy cơ phụ thuộc vào đũa phép.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.

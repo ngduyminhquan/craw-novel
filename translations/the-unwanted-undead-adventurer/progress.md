@@ -127,7 +127,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | reviewed |  |
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | done |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | done |  |
-| 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | todo |  |
+| 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | done |  |
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | todo |  |
 | 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | todo |  |
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | todo |  |
@@ -628,3 +628,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#121] Cách Alize gọi Lorraine khi thốt lên 'Professor Lorraine!' lúc làm thành công ma pháp trận (đoạn 52) — tạm chọn 'thưa Học Sĩ Lorraine!' theo bối cảnh giờ học và tương đồng chương 77 (phương án khác: 'cô Lorraine!'). Tạm dùng trong bản dịch: 'thưa Học Sĩ Lorraine!'. → Chốt Alize gọi 'thưa Học Sĩ Lorraine!' khi thưa gửi trong giờ học (đồng nhất với chương 77). (orchestrator)
 - [#121] Dịch quái vật 'fire dragon' trong giai thoại của Conra (đoạn 41) — tạm chọn 'rồng lửa' phù hợp lời kể chuyện (phương án khác: 'Hỏa Long'). Tạm dùng trong bản dịch: 'rồng lửa'. → Chốt dịch thường là 'rồng lửa' vì chỉ là từ miêu tả chung trong giai thoại, không viết hoa trong raw. (orchestrator)
 - [#122] Dịch cấp bậc 'Legendary-class' (trong 'Legendary-class artisan') — tạm chọn 'Truyền Thuyết Cấp' (đồng bộ với các cấp bậc -class khác: Thiết Cấp, Đồng Cấp, Bạch Kim Cấp, Mithril Cấp; phương án khác: 'cấp Truyền Thuyết', 'Huyền Thoại Cấp'). → Chốt dùng 'Truyền Thuyết Cấp' (đồng bộ với hệ thống hậu tố -class đã dùng trong truyện). (orchestrator)
+- [#123] Thần chú ma thuật sinh hoạt hệ hỏa 'Aliumage' là biến thể phiên âm của 'Aryumage' (#78) do raw đổi translator — tạm giữ nguyên 'Aliumage' theo raw để khớp câu xướng niệm (đề xuất: giữ 'Aliumage' hoặc chuẩn hóa về 'Aryumage'). → Chốt giữ nguyên 'Aliumage' theo đúng quy tắc giữ nguyên phiên âm tên câu thần chú trong raw (rules.md). (orchestrator)
+- [#123] 'Lelmudan Empire' trong raw chỉ quê hương của Lorraine — tạm dịch 'Đế Quốc Rermutt' và thêm vào Alias của 'Empire of Rermutt' (#99) vì cùng tên gốc tiếng Nhật レルムット. → Chốt đồng nhất thành 'Đế Quốc Rermutt' và thêm 'Lelmudan Empire; Lelmudan' vào Alias của 'Empire of Rermutt' trong glossary.md. (orchestrator)

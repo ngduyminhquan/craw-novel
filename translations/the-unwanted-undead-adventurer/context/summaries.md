@@ -719,15 +719,9 @@ Rentt và Alize dùng Ma Lực bóc tách và gọt đẽo gỗ Ent Bụi Cây t
 Lorraine hướng dẫn cách nắn thẳng các đường dẫn ma lực hỗn loạn bên trong đũa phép để tối ưu hóa lưu thông năng lượng, đồng thời chia sẻ kỷ niệm từng tức giận ném đũa phép vào mặt thầy giáo cũ ở quê nhà.
 Bước vào công đoạn cuối cùng, cả Rentt và Alize cùng rót Ma Lực đồng thời vào cả đũa phép và Ma Tinh; Rentt bắt đầu định hình đầu đũa phép bao quanh viên Ma Tinh của mình trong khi Lorraine quay sang hướng dẫn cho Alize.
 
-
-
-
-
-
-
-
-
-
-
-
+## 123
+Cả Alize và Rentt hoàn thành chế tạo đũa phép; Lorraine cùng Alize kinh ngạc trước đầu đũa phép của Rentt được chạm khắc tinh xảo hình con rồng nuốt viên Ma Tinh Terra Drake chỉ bằng thao túng Ma Lực thuần túy.
+Cả ba di chuyển ra bãi đất trống ở ngoại vi thị trấn thuộc sở hữu của Lorraine để thử nghiệm uy lực đũa phép; Alize thi triển phép tạo lửa Aliumage bùng lên ngọn lửa lớn như đuốc nhờ Ma Lực dồi dào, đồng thời Lorraine giảng giải về cái bẫy phụ thuộc đũa phép của ma pháp sư Đế Quốc Rermutt.
+Rentt thử nghiệm phép Aliumage khiến ngọn lửa bùng cháy dữ dội ngoài sức tưởng tượng; Lorraine ngạc nhiên và bảo anh thi triển tiếp phép tạo nước Mah nhưng khối nước ngưng tụ lại chỉ ở mức bình thường.
+Nhận thấy Rentt sở hữu thiên phú dị thường với hỏa ma pháp dù từng được thần tinh linh thực vật ban phước, Lorraine quyết định dừng buổi thử nghiệm hôm nay để đảm bảo an toàn vì Rentt chưa hiểu hết cơ thể Undead của mình.
 

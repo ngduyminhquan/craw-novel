@@ -186,7 +186,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Undead Sight |  | Thị Giác Undead | kỹ năng | 98 | Năng lực thị giác quan sát sinh vật sống trong bóng tối của Undead |
 | Ogre | Ogres | Ogre | quái vật | 99 | Chủng quái vật khổng lồ hung tợn trong fantasy (オーガ) |
 | Good King Felt | Good King | Hiền Vương Felt | khác | 99 | Vị vua trong truyền thuyết dẫn dắt thần dân xây dựng thành phố trong lòng mê cung |
-| Empire of Rermutt | Rermutt; Remrutt; the Empire of Rermutt; Remrutt Empire; the Remrutt Empire | Đế Quốc Rermutt | địa danh | 99 | Đế quốc rộng lớn nằm ở phía tây, quê hương của Lorraine Vivie (レルムット帝国) |
+| Empire of Rermutt | Rermutt; Remrutt; the Empire of Rermutt; Remrutt Empire; the Remrutt Empire; Lelmudan Empire; Lelmudan | Đế Quốc Rermutt | địa danh | 99 | Đế quốc rộng lớn nằm ở phía tây, quê hương của Lorraine Vivie (レルムット帝国) |
 | Rermutt First University | Rermutt’s First University | Đệ Nhất Đại Học Rermutt | tổ chức | 99 | Viện đại học danh tiếng hàng đầu của Đế Quốc Rermutt, trường cũ của Lorraine Vivie |
 | Blacksmith’s Guild | Blacksmith's Guild; Blacksmiths Guild | Hội Thợ Rèn | tổ chức | 100 | Hiệp hội quản lý các thợ rèn và sản xuất vũ khí kim loại |
 | Flood | Floods; flood; floods | Lũ Tràn | khác | 91 | Hiện tượng quái vật trong mê cung bùng phát tràn ra bên ngoài (quái triều / monster flood) |
@@ -231,3 +231,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | three-dimensional layered magic circle | three-dimensional layered magic circles; Three-dimensional layered magic circles; 3D layered magic circles | ma pháp trận xếp tầng ba chiều | kỹ năng | 120 | Ma pháp trận phức hợp nhiều lớp trong không gian ba chiều chứa lượng thông tin lớn (三次元積層魔法陣) |
 | multi-dimensional layered magic circle | multi-dimensional layered magic circles | ma pháp trận xếp tầng đa chiều | kỹ năng | 120 | Ma pháp trận phức hợp từ bốn chiều trở lên (多次元積層魔法陣) |
 | Legendary-class |  | Truyền Thuyết Cấp | cấp bậc | 122 | Cấp bậc huyền thoại/truyền thuyết (伝説級) |
+| Aliumage |  | Aliumage | kỹ năng | 123 | Phép tạo lửa thuộc Ma Thuật Sinh Hoạt (biến thể của Aryumage, câu chú giữ nguyên) |
+| Mah |  | Mah | kỹ năng | 123 | Phép tạo nước thuộc Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
+| Hell |  | Địa Ngục | địa danh | 123 | Cõi địa ngục trong truyền thuyết nơi ác ma cư ngụ |
