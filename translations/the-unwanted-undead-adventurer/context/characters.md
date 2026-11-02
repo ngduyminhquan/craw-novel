@@ -109,11 +109,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Năng nổ, bộc trực, tự tin, chủ động nhận vai trò trưởng nhóm nhưng biết cư xử lịch thiệp, biết cúi đầu chào hỏi đồng đội.
 - Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
 - Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
-- Trạng thái tính đến chương 34: Cùng Rentt và Laura phối hợp chiến đấu vượt qua tầng một Mê Cung Tân Nguyệt; dùng kỹ năng kiếm thuật hạ Khô Lâu và phối hợp cùng ma pháp của Laura đánh bại tên kiếm sĩ mạo hiểm giả phục kích.
+- Trạng thái tính đến chương 35: Cùng Rentt và Laura vượt qua nhiều cạm bẫy tiến đến trước phòng thủ lĩnh tầng một; ban đầu chùn bước vì chưa từng vào phòng thủ lĩnh, nhưng sau khi xem nhóm thí sinh khác giao chiến và được Rentt khích lệ, cậu lấy lại dũng khí và quyết tâm xông vào khiêu chiến.
 
 ### Laura Satii
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
 - Tính cách: Lễ phép, khiêm tốn, biết trước biết sau, hỗ trợ đồng đội chu đáo từ tuyến sau.
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
-- Trạng thái tính đến chương 34: Đi bọc hậu hỗ trợ ma pháp trong đội hình; cùng Rentt và Raiz vượt qua đàn Khô Lâu và phối hợp ma pháp đạn đất đá cùng kiếm thuật của Raiz đánh gục tên kiếm sĩ địch phục kích.
+- Trạng thái tính đến chương 35: Đi bọc hậu hỗ trợ ma pháp trong đội hình, nhanh nhạy nhận ra ẩn ý trong thể lệ thi của Hội theo lời gợi ý của Rentt; né tránh tên thí sinh khiêu khích và lấy lại sự tự tin để cùng Rentt và Raiz bước vào phòng thủ lĩnh.

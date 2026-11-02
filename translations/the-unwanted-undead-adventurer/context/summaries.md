@@ -200,6 +200,13 @@ Tiến vào tầng một, nhóm ba người duy trì đội hình phối hợp t
 Phát hiện có kẻ mai phục phía sau khúc quanh, Rentt tự tin xung phong đi trước thăm dò nhờ ưu thế cơ thể Thi Quỷ khó chết và gạt phăng nhát kiếm bất ngờ của kẻ địch.
 Với thể chất Undead vượt trội, Rentt lập tức áp sát hạ gục tên cung thủ và ma pháp sư yểm trợ rồi trói gác lại; Raiz và Laura phối hợp kiếm thuật cùng ma pháp đạn đất đá đánh bại tên kiếm sĩ thủ lĩnh trong sự quan sát của Rentt và một sự hiện diện bí ẩn từ bóng tối mê cung.
 
+## 35
+Sau khi Raiz và Laura đánh bại tên kiếm sĩ mai phục, Rentt giải thích về cạm bẫy câu chữ của Hội nhằm kích động các thí sinh bất hảo loại trừ nhau, rồi nhắc nhở người áo đen bí ẩn đang quan sát trong bóng tối nhanh chóng giải cứu ba kẻ thất bại.
+Nhóm ba người thuận lợi tiến đến trước cánh cửa đá dẫn vào phòng thủ lĩnh tầng một Mê Cung Tân Nguyệt; trước sự bất an của Raiz khi chưa từng vượt qua phòng thủ lĩnh, Rentt đề nghị cậu quan sát thực chiến để bớt căng thẳng.
+Đúng lúc đó, một nhóm bốn thí sinh khác kéo đến và tên cầm đầu buông lời khiêu khích, quấy rối Laura nhưng lập tức bị lưỡi kiếm kề cổ của Rentt dọa cho khiếp vía; Rentt chủ động nhường nhóm này vào phòng thủ lĩnh trước nhằm giúp đồng đội thám thính quái vật.
+Nhóm bốn người nhanh chóng bị con quái vật thủ lĩnh hạ gục và được nhân viên Hội mặc đồ đen kịp thời can thiệp giải cứu; chứng kiến đối thủ thất bại thảm hại, Raiz và Laura lấy lại tự tin cùng tinh thần quyết tâm, sẵn sàng cùng Rentt bước vào phòng thủ lĩnh.
+
+
 
 
 

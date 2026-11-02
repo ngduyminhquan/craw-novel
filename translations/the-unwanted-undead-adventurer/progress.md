@@ -39,7 +39,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | reviewed |  |
 | 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | reviewed |  |
 | 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | done |  |
-| 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | todo |  |
+| 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | done |  |
 | 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | todo |  |
 | 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | todo |  |
 | 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -427,3 +428,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#34] Dịch tiếng thét xung trận của kẻ phục kích "WRAAAAAAAAAHHH!!" (đoạn 92) — tạm dịch "OÁAAAAAAAA!!" theo quy tắc Việt hóa từ cảm thán trong style.md (phương án khác: giữ nguyên "WRAAAAAAAAAHHH!!" hoặc "OAAAAAAA!!"). → Chốt 'OÁAAAAAAAA!!'. (orchestrator)
 - [#34] Dịch đơn vị tiền tệ "five bronze coins" (đoạn 12, 15) — tạm chọn "năm đồng đồng" (phương án khác: "năm đồng tiền đồng"). → Chốt 'năm đồng đồng'. (orchestrator)
 - [#34] Xưng hô của gã thương nhân bán bản đồ áo chùng đen — tạm chọn gã xưng "ta" gọi "ngươi" (với Rentt) và "hai nhóc tì đằng kia" (với Raiz và Laura); Rentt xưng "tôi" gọi "ông". → Chốt gã thương nhân xưng 'ta' gọi 'ngươi' (với Rentt) và 'hai nhóc tì đằng kia' (với Raiz và Laura), Rentt xưng 'tôi' gọi 'ông'. (orchestrator)
+- [#35] Xưng hô của tên trưởng nhóm thí sinh bất hảo với Rentt và Laura — tạm chọn tên này xưng 'tao / bọn tao' gọi 'mày / cái mặt xương xẩu kia' với Rentt, xưng 'bọn anh' gọi 'cô em' với Laura (phù hợp tính cách côn đồ khiêu khích và sàm sỡ tân binh; phương án khác: xưng 'ta / bọn ta' gọi 'ngươi'). → Chốt tên trưởng nhóm xưng 'tao / bọn tao' gọi 'mày / cái mặt xương xẩu kia' với Rentt, xưng 'bọn anh' gọi 'cô em' với Laura. (orchestrator)
+- [#35] Dịch biệt danh miệt thị 'skull face' (đoạn 75) của tên thí sinh bất hảo nhắm vào Rentt — tạm chọn 'cái mặt xương xẩu kia' (phương án khác: 'tên mặt xương', 'tên mặt đầu lâu'). → Chốt 'cái mặt xương xẩu kia'. (orchestrator)
+- [#35] Dịch kỹ năng/chuyên môn 'information warfare' (đoạn 109) — tạm chọn 'chiến tranh thông tin' (phương án khác: 'tác chiến thông tin', 'thu thập tình báo'). → Chốt 'chiến tranh thông tin'. (orchestrator)
