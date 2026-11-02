@@ -57,7 +57,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | reviewed |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | reviewed |  |
 | 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | done |  |
-| 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | todo |  |
+| 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | done |  |
 | 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | todo |  |
 | 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | todo |  |
 | 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | todo |  |
@@ -469,3 +469,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#51] Dịch phân loài quái vật 'Goblin Generals' và 'Goblin Kings' — tạm chọn 'Đại Tướng Goblin' và 'Vua Goblin' (phương án khác: 'Tướng Goblin', 'Goblin Vương'). Tạm dùng trong bản dịch: 'Đại Tướng Goblin' và 'Vua Goblin'. → Giữ 'Đại Tướng Goblin' và 'Vua Goblin' theo quy tắc chủng tộc quái vật trong rules.md (orchestrator)
 - [#52] Tên riêng của chuột quyến thuộc 'Edel' do Lorraine đặt — tạm chọn giữ nguyên 'Edel' theo quy tắc tên riêng phương Tây trong rules.md (phương án khác: dịch nghĩa 'Cao Quý'). Tạm dùng trong bản dịch: 'Edel'. → Giữ nguyên 'Edel' theo quy tắc tên riêng trong rules.md (orchestrator)
 - [#52] Dịch loài quái vật 'Sea Snakes' ở Đầm Lầy Tarasque (đoạn 95) — tạm chọn 'Rắn Biển' (phương án khác: 'Thủy Xà'). Tạm dùng trong bản dịch: 'Rắn Biển'. → Giữ 'Rắn Biển' (nhất quán với 'Rắn Khổng Lồ') (orchestrator)
+- [#53] Dịch phân loài quái vật 'Goblin Archers' (đoạn 29) — tạm chọn 'Cung Thủ Goblin' (phù hợp với quy ước fantasy Hán Việt trong rules.md; phương án khác: 'Xạ Thủ Goblin'). Tạm dùng trong bản dịch: 'Cung Thủ Goblin'. → Giữ 'Cung Thủ Goblin' (nhất quán với Đại Tướng Goblin, Vua Goblin) (orchestrator)
+- [#53] Xử lý câu raw bị cụt ở đoạn 117 ('then die in the next five') — tạm dịch bổ sung từ chỉ thời gian theo ngữ cảnh thành 'rồi bỏ mạng chỉ trong vòng năm giây sau đó' (phương án khác: giữ nguyên cụt 'rồi bỏ mạng chỉ trong vòng năm...'). Tạm dùng trong bản dịch: 'rồi bỏ mạng chỉ trong vòng năm giây sau đó'. → Giữ 'rồi bỏ mạng chỉ trong vòng năm giây sau đó' theo mạch ngữ cảnh (orchestrator)
+- [#53] Xưng hô của Rentt Faina với chuột quyến thuộc Edel trong thoại và suy nghĩ — tạm chọn Rentt xưng 'ta / tao' gọi 'mày / Edel' (phù hợp quan hệ chủ nhân và quyến thuộc háu ăn kiêu ngạo; phương án khác: xưng 'tôi' gọi 'cậu / Edel'). Tạm dùng trong bản dịch: xưng 'ta / tao', gọi 'mày'. → Giữ Rentt xưng 'ta / tao', gọi 'mày / Edel' hợp quan hệ chủ nhân với chuột quyến thuộc (orchestrator)

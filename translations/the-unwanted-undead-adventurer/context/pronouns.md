@@ -84,3 +84,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lillian | Rentt Faina | tôi | cậu / cậu Rentt | 49 | Nữ tu lớn tuổi nói chuyện biết ơn với mạo hiểm giả nhận ủy thác |
 | Alize | Lillian | con / em | Sơ Lillian / sơ | 49 | Trẻ mồ côi nói chuyện với nữ tu chăm sóc mình |
 | Lillian | Alize | ta / tôi | Alize / con | 49 | Nữ tu phụ trách nói chuyện với trẻ mồ côi |
+| Rentt Faina | Edel | ta / tao | mày / Edel | 53 | Chủ nhân nói chuyện hoặc truyền ý nghĩ tới quyến thuộc |

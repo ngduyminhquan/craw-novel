@@ -33,7 +33,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 51: Nhận nuôi con Puchi Suri quyến thuộc tại nhà Lorraine để phục vụ nghiên cứu và kiểm tra khả năng chỉ huy quái vật cấp thấp; chuẩn bị lên đường tới Đầm Lầy Tarasque tìm Hoa Long Huyết sau khi được Lorraine nấu bữa sáng.
+- Trạng thái tính đến chương 53: Cùng Edel tiến vào Đầm Lầy Tarasque tìm Hoa Long Huyết; tiêu diệt bầy Cung Thủ Goblin mai phục; phát hiện cơ thể Thi Quỷ không cần hô hấp khi rơi xuống nước và dùng Thần Lực thoát khỏi bầy quái ngư khổng lồ dưới đáy đầm lầy.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -162,4 +162,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
 - Tính cách: Háu ăn, kiêu ngạo, có ý thức tự chủ cao; thích được xem là cao quý thay vì mập mạp béo tròn; thích nghi nhanh nhưng không mấy trung thành, hay phản ứng lại khi Rentt định dùng làm mồi nhử.
 - Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định.
+- Trạng thái tính đến chương 53: Cùng Rentt tiến vào Đầm Lầy Tarasque; giúp Rentt điểm mặt vị trí Cung Thủ Goblin mai phục nhưng sau đó nhanh chân bỏ rơi chủ nhân khi cầu gỗ sập để đi nhặt hạt nhét đầy má ăn vụng.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).

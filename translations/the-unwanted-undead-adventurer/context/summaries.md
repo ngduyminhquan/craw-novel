@@ -308,6 +308,13 @@ Lorraine đặt tên cho con chuột quyến thuộc Puchi Suri của Rentt là 
 Rentt mang theo Edel đi xe ngựa đến rìa Đầm Lầy Tarasque; người đánh xe tốt bụng cảnh báo mối hiểm nguy của đầm lầy và hẹn chuyến xe đón vào chiều tối.
 Nhờ cơ thể Thi Quỷ kháng độc kết hợp Thần Lực thanh tẩy, Rentt tự tin gạt bỏ phần lớn hiểm họa chướng khí, độc thủy và quái vật tẩm độc (Slime Độc, Goblin, Rắn Biển) để dấn bước vào sâu trong đầm lầy.
 
+## 53
+Vừa tiến vào Đầm Lầy Tarasque, Rentt và Edel bị một đàn Cung Thủ Goblin mai phục từ dưới bùn; nhờ Edel báo vị trí và vận Khí Lực bước trên bùn, Rentt dễ dàng tiêu diệt toàn bộ mười con và mổ lấy Ma Tinh.
+Đang băng qua một cây cầu gỗ bắc qua đầm lầy độc, cây cầu mục nát đổ sập khiến Rentt rơi tõm xuống nước trong khi Edel nhanh chân nhảy thoát lên bờ.
+Dưới đáy đầm lầy độc, Rentt phát hiện cơ thể Thi Quỷ không cần hô hấp và bị một bầy quái ngư khổng lồ tấn công dữ dội cắn vào chân; anh vận Thần Lực tăng tốc chém gục quái vật trước khi bị một con quẫy đuôi hất văng lên bờ đối diện.
+Lên bờ an toàn với chiếc áo choàng ma pháp kỳ diệu vẫn khô ráo, Rentt bắt quả tang chú chuột quyến thuộc Edel thản nhiên nhồi đầy hạt vào má kiếm ăn thay vì lo cứu chủ nhân.
+
+
 
 
 
