@@ -529,3 +529,9 @@ Rentt dùng Ma Thuật Sinh Hoạt Linpio tẩy sạch máu me trên lông Edel;
 Đáp ứng mong muốn phô diễn thực lực lên Orc của Edel, Rentt dẫn nó xuống tầng 2 Mê Cung Tân Nguyệt và nhận thấy hiện tượng chênh lệch thời gian kỳ lạ giữa mê cung và thế giới bên ngoài (bên ngoài ban ngày thì trong tầng là buổi chiều tà).
 Trong lúc mải suy nghĩ về đặc tính bầy đàn của loài Orc và tự nhắc nhở cảnh giác, Rentt bỗng thấy đầu nhẹ bẫng vì Edel đã biến mất; lần theo liên kết đến bìa rừng, anh tá hỏa phát hiện chú chuột quyến thuộc đang bị ba con Orc Binh trang bị vũ khí và áo giáp kim loại bao vây.
 
+## 91
+Rentt phối hợp cùng Edel tiêu diệt ba con Orc Binh trang bị vũ khí kim loại; Edel tự mình dùng ma pháp chém đầu một con Orc Binh khiến Rentt kinh ngạc trước sức mạnh phi thường của chú chuột quyến thuộc.
+Sau khi phân tách xác quái lấy Ma Tinh và thịt, Rentt nhận thấy dấu hiệu bất thường khi quái vật tầng sâu xuất hiện ở tầng nông và tự nhắc nhở bản thân báo cho Sheila ở Hội Mạo Hiểm Giả đề phòng nguy cơ quái triều.
+Rentt xác định mục tiêu tiếp theo là thu thập nguyên liệu gỗ từ Ent Jyulapus cùng Ma Tinh tầng sâu để Lorraine dạy Alize tự chế tạo đũa phép.
+Tiến xuống tầng 3 với địa hình biển cây rậm rạp tăm tối, Rentt và Edel bị đàn quái vật dạng khỉ Kesem Kofu xảo quyệt trên tán cây bao vây và phục kích bất ngờ.
+

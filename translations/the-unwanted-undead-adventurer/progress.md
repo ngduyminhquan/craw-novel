@@ -95,7 +95,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | reviewed |  |
 | 89 |  | Chapter_089 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2) | reviewed |  |
 | 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | reviewed |  |
-| 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | todo |  |
+| 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | done |  |
 | 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | todo |  |
 | 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | todo |  |
 | 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -549,3 +550,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#90] Dịch phân loài quái vật 'Orc Soldiers' (đoạn 68) — tạm chọn 'Orc Binh' (đồng bộ với 'Khô Lâu Binh' ở #18; phương án khác: 'Binh Sĩ Orc', 'Chiến Binh Orc'). Tạm dùng trong bản dịch: 'Orc Binh'. → Giữ 'Orc Binh' đồng bộ với 'Khô Lâu Binh'. (orchestrator)
 - [#90] Dịch phân loài quái vật Puchi Suri hệ hỏa 'Fuu Suri' và 'Fire Puchi Suri' (đoạn 14) — tạm chọn giữ nguyên 'Fuu Suri' theo rules.md và dịch 'Puchi Suri Hỏa' (phương án khác: 'Puchi Suri Lửa'). Tạm dùng trong bản dịch: 'Fuu Suri', 'Puchi Suri Hỏa'. → Giữ 'Fuu Suri' và 'Puchi Suri Hỏa'. (orchestrator)
 - [#90] Dịch tên câu thần chú làm sạch 'Linpio' (đoạn 1, 5, 6, 7) — tạm chọn giữ nguyên 'Linpio' theo quy tắc thần chú ma pháp trong rules.md tương tự Foteia Borivaas, Gie Vieros, Ignite Aryumage. Tạm dùng trong bản dịch: 'Linpio'. → Giữ nguyên tên câu thần chú 'Linpio' theo rules.md. (orchestrator)
+- [#91] Dịch tên quái vật 'Jyulapus Ent' — tạm chọn 'Ent Jyulapus' theo ngữ pháp tiếng Việt loài quái đứng trước (phương án khác: giữ nguyên 'Jyulapus Ent'). Tạm dùng trong bản dịch: 'Ent Jyulapus'. → Giữ 'Ent Jyulapus' đồng bộ cấu trúc tên phân loài quái vật trong glossary.md. (orchestrator)
+- [#91] Dịch tiếng kêu đau đớn của Orc 'Bugii!' (đoạn 21) — tạm chọn 'Éccc!' theo bảng cảm thán tiếng kêu quái dạng lợn (phương án khác: giữ nguyên 'Bugii!'). Tạm dùng trong bản dịch: 'Éccc!'. → Giữ 'Éccc!' cho tiếng kêu của Orc theo style.md. (orchestrator)

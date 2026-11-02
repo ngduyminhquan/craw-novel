@@ -57,6 +57,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 79: Quyết định tiếp tục dùng danh tính Rentt Vivie để tránh bị điều tra về chiếc mặt nạ không tháo được cùng năng lực thể chất bất thường; chuẩn bị dạy kiếm thuật và dẫn Alize vào mê cung rèn luyện; tài chính cạn kiệt, hy vọng nhận tiền bán xác Tarasque bất thành khi Sheila thông báo xác chưa bán được.
 - Trạng thái tính đến chương 80: Nhận lời gặp mặt trực tiếp vị khách giàu có bí ẩn mua xác Tarasque thông qua Thương hội Stheno để mở rộng quan hệ hướng tới mục tiêu Mithril Cấp; nhận tiền thanh toán các nguyên liệu phụ khác của Tarasque từ Dario.
 - Trạng thái tính đến chương 90: Học thêm Ma Thuật Sinh Hoạt Linpio tẩy rửa vết bẩn; tự lùng sục Mê Cung Tân Nguyệt thu thập nguyên liệu làm vũ khí tặng Alize; thỏa thuận cấn trừ học phí dạy kèm của Lorraine; kiểm soát giới hạn dòng Ma Lực truyền sang Edel; nhận diện hiện tượng chênh lệch thời gian ở tầng hai Mê Cung Tân Nguyệt.
+- Trạng thái tính đến chương 91: Phối hợp cùng Edel tiêu diệt ba con Orc Binh; nhận biết dấu hiệu bất thường khi quái vật tầng sâu xuất hiện ở tầng nông và lưu tâm báo cho Sheila về nguy cơ quái triều; tiến xuống tầng ba (biển cây) thu thập nguyên liệu Ent Jyulapus và đối mặt đàn khỉ Kesem Kofu.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -197,6 +198,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 54: Cùng Rentt chiến đấu với Tarasque; luồn lách qua chân quái thú, tự ý rút Thần Lực của Rentt để tông thẳng vào vết thương hở trên cổ Tarasque, gợi mở cho Rentt điểm yếu kỵ Thần Lực của quái thú; bị quất bay được Rentt đỡ kịp và lập tức cằn nhằn qua tâm trí hối thúc Rentt phản công.
 - Trạng thái tính đến chương 89: Kích thước cơ thể tăng lên cỡ đầu Goblin; có thể tự chiến đấu tiêu diệt Goblin và Slime bằng các cú phóng mình tông người xoay tít tốc độ cao mà không cần Rentt chia sẻ Ma Lực.
 - Trạng thái tính đến chương 90: Biến đổi thể chất sau khi Rentt tiến hóa thành Hạ Cấp Ma Cà Rồng: mọc thêm màng bay ở bụng dưới giúp bay lượn và lơ lửng tĩnh lặng; có khả năng thi triển ma pháp tấn công tạo ra vết chém chém toạc xác quái vật; tự ý tách đoàn ở tầng 2 Mê Cung Tân Nguyệt và bị ba con Orc Binh vây quanh.
+- Trạng thái tính đến chương 91: Dùng cú húc thân người gạt ngã Orc Binh và dùng ma pháp chém lìa đầu một con Orc Binh; giao tiếp tâm trí khen ngợi Rentt ("Làm tốt lắm"); cùng Rentt xuống tầng ba đối mặt đàn Kesem Kofu.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
 
 ### Isaac Hart

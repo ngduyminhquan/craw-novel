@@ -166,3 +166,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Fire Puchi Suri |  | Puchi Suri Hỏa | quái vật | 90 | Phân loài Puchi Suri thuộc tính hỏa, danh xưng phân loài của Fuu Suri |
 | Orc Soldier | Orc Soldiers | Orc Binh | quái vật | 90 | Phân loài Orc trang bị vũ khí và giáp kim loại (オークソルジャー) |
 | Eyes of Charming |  | Mị Nhãn | kỹ năng | 90 | Kỹ năng mị hoặc tâm trí thông qua ánh mắt của Ma Cà Rồng |
+| Orc General | Orc Generals | Đại Tướng Orc | quái vật | 91 | Phân loài Orc cấp chỉ huy cao cấp, vũ trang mạnh mẽ |
+| Orc King | Orc Kings | Vua Orc | quái vật | 91 | Quái vật cấp vua thống trị toàn bộ loài Orc trong lãnh địa |
+| Jyulapus Ent | Jyulapus Ents | Ent Jyulapus | quái vật | 91 | Quái vật dạng cây gỗ thuộc tính mộc ở tầng 3 Mê Cung Tân Nguyệt |
+| Kesem Kofu |  | Kesem Kofu | quái vật | 91 | Quái vật dạng khỉ nhanh nhẹn xảo quyệt sống trên tán cây tầng 3 Mê Cung Tân Nguyệt |

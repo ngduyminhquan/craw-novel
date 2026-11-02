@@ -31,6 +31,8 @@
 | Hey, now | Này này / Khoan đã | Tiếng nhắc nhở hoặc tự chấn chỉnh bản thân |
 | Huh / Ah | Hử / Ồ | Tiếng ngạc nhiên |
 | Rrrip | Toạc | Tiếng cắn xé da thịt hoặc vải vóc |
+| Bugii | Éccc | Tiếng kêu la đau đớn của loài Orc (#91) |
+| Kii kii | Khẹc khẹc | Tiếng kêu của quái vật dạng khỉ Kesem Kofu (#91) |
 
 ## Đặc điểm ghi nhận theo chương
 
