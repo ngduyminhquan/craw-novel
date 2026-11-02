@@ -325,3 +325,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp đến từ láng giềng, tiệm cận Bạch Kim Cấp nhất về thực lực; được phong tước vị Nữ Chuẩn Nam tước (Baronetess) nhờ chiến công tiêu diệt một con Trung Cấp Ma Cà Rồng cùng bầy đàn của nó trong thành phố lớn; chuyên săn Ma Cà Rồng bằng phương pháp/kỹ thuật phát hiện đặc thù dựa trên Thần Lực.
 - Cách nói chuyện: Tự nhiên, suồng sã, xởi lởi, tự xưng "tôi", gọi Rentt là "ngài Rentt" (Mister Rentt), gọi Sharl là "ngài Sharl" (Mister Sharl), gọi Myullias là "Tiểu thư Myullias" (Lady Myullias).
 - Xuất hiện từ: #104.
+- Trạng thái tính đến chương 105: Sử dụng Thánh Hỏa kiểm tra Sharl và Rentt, kết luận cả hai không phải Ma Cà Rồng; không hề nhận ra Rentt thực chất là Undead.

@@ -612,6 +612,13 @@ Rentt hoảng hốt khi nhận ra Nive là thiên địch chuyên săn lùng ma 
 Nive giải thích cô mượn Myullias đi cùng để phòng ngừa bị hạ độc và thanh tẩy môi trường, đồng thời thao thao bất tuyệt chào mời người bình thường thử nghiệm năng lực phát hiện ma cà rồng miễn phí của mình.
 Bị Rentt từ chối vì sợ lộ thân phận quái vật, Nive quay sang thuyết phục Sharl Stheno nhận ban phước để quảng bá việc làm ăn; chương khép lại khi Sharl quỳ gối chuẩn bị đón nhận luồng Thần Lực kiểm tra từ Nive.
 
+## 105
+Nive thi triển Thánh Hỏa (ngọn lửa ngưng tụ từ Thần Lực) phủ lên người Sharl để kiểm tra và xác nhận ông không phải Ma Cà Rồng; Myullias giải thích đây là bí thuật hiếm thấy chỉ vài người trong các tổ chức tôn giáo luyện được.
+Sau khi xong với Sharl, Nive tiếp tục nhắm tới Rentt; bất chấp Rentt đưa ra nhiều lý do thoái thác (sợ quái vật không dám lại gần, sợ lửa), Nive vẫn bất ngờ phóng các dải Thánh Hỏa bao trùm toàn thân anh.
+Rentt hoảng hốt lo sợ lộ thân phận quái vật nhưng kinh ngạc nhận ra ngọn lửa không hề nóng mà chỉ như cù nhẹ, thậm chí còn kích thích Thần Lực trong anh trở nên sôi nổi, khoan khoái như ngâm bồn nước nóng.
+Ngọn lửa lụi tàn, Nive dõng dạc tuyên bố Rentt hoàn toàn không phải Ma Cà Rồng; Rentt vừa mừng rỡ vì thoát nạn vừa thầm bất lực trước sự nhầm lẫn trớ trêu này.
+
+
 
 
 

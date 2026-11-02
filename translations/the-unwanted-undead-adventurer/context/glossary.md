@@ -196,5 +196,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | wand | wands | đũa phép | vật phẩm | 100 | Dụng cụ dẫn ma pháp dạng que ngắn làm từ gỗ quái vật và Ma Tinh (杖/ワンド) |
 | Witta Trading Company | the Witta Trading Company; Witta | Thương hội Witta | tổ chức | 102 | Thương hội lâu đời tại Maalt chuyên cung cấp nhu yếu phẩm cho mạo hiểm giả (ヴィッタ商会) |
 | Mechanical City of Aavan | Aavan | Thành Phố Cơ Giới Aavan | địa danh | 103 | Đô thị công nghiệp cơ khí và ma thuật thuộc Đế Quốc Rermutt (機械都市アーヴァン) |
-| Baronetess |  | Nữ Chuẩn Nam tước | danh hiệu | Tước vị quý tộc được ban cho Nive Maris | 104 |
-| Vampire hunter |  | Thợ Săn Ma Cà Rồng | danh hiệu | Danh hiệu/biệt danh của Nive Maris chuyên săn ma cà rồng | 104 |
+| Baronetess |  | Nữ Chuẩn Nam tước | danh hiệu | 104 | Tước vị quý tộc được ban cho Nive Maris |
+| Vampire hunter |  | Thợ Săn Ma Cà Rồng | danh hiệu | 104 | Danh hiệu/biệt danh của Nive Maris chuyên săn ma cà rồng |
+| Holy Fire | holy fire; Holy fire | Thánh Hỏa | kỹ năng | 105 | Ngọn lửa thần thánh ngưng tụ từ Thần Lực do người có Thần Lực dồi dào và thuần thục phóng ra (聖火) |
