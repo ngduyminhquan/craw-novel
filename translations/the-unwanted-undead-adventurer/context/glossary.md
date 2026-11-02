@@ -237,3 +237,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | grand guildmaster | Grand Guildmaster | Tổng Hội Trưởng | chức nghiệp | 125 | Người đứng đầu toàn bộ Hội Mạo Hiểm Giả của Vương Quốc Yaaran (総ギルドマスター) |
 | Grand Goblin | grand goblins | Đại Goblin | quái vật | 126 | Phân loài Goblin tiến hóa bậc cao |
 | Monster Cooking: How to Make Low-Quality Parts Taste Good | Monster Cooking | Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon | vật phẩm | 128 | Cuốn sách dạy nấu ăn từ thịt ma vật Lorraine mua ở chợ |
+| Lady Luck |  | Nữ Thần May Mắn | danh hiệu | 129 | Nhân cách hóa của sự may mắn (運命の女神) |

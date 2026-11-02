@@ -18,7 +18,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Zarid |  | Zarid | Kiếm sĩ kỳ cựu của Hội Mạo Hiểm Giả, mạo hiểm giả Thượng Đồng Cấp | #28 |
 | Yuris |  | Yuris | Tân binh mạo hiểm giả từng tham gia lớp hướng dẫn của Rentt ở Hội | #29 |
 | Raiz Dunner | Raiz | Raiz Dunner | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp tóc đỏ, đồng đội thi thực hành thăng hạng của Rentt | #33 |
-| Laura Satii |  | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
+| Laura Satii | Lola; Lola Satii | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
 | Augurey |  | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt | #42 |
 | Ryuntus |  | Ryuntus | Thanh niên Làng Todds, anh trai Amiris, lặn lội lên Maalt tìm mạo hiểm giả cứu em gái | #45 |
 | Amiris |  | Amiris | Thiếu nữ Làng Todds, em gái Ryuntus, người bị chọn làm tế vật cho Chúa Tể Hồ | #46 |
@@ -80,6 +80,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 126: Ký khế ước ràng buộc ma pháp với Wolf Hermann; tự rạch tay phô diễn khả năng tái sinh vết thương tức thì; kể lại việc bị Rồng nuốt chửng tại Mê Cung Nguyệt Ảnh (giữ kín lối đi bí mật) và quá trình Tiến Hóa Bản Thể từ Khô Lâu đến Ma Cà Rồng; tiết lộ việc Lorraine chia sẻ máu và Nive Maris phán định anh không phải Ma Cà Rồng.
 - Trạng thái tính đến chương 127: Chia sẻ việc Nive dùng Thánh Hỏa kiểm tra bản thân vô tội; giao nộp tập hồ sơ sai phạm của Hội Maalt do Edel và cánh tình báo thu thập; đồng ý gia nhập làm nhân viên Hội Mạo Hiểm Giả để hợp thức hóa việc đăng ký hai lần và hưởng các đặc quyền thông tin, mua sắm ưu đãi; để Wolf thử dùng sức kéo chiếc mặt nạ nguyền rủa nhưng không lay chuyển; đàm phán thành công và chuẩn bị nhận thẻ nhân viên.
 - Trạng thái tính đến chương 128: Kể cho Sheila và Lorraine nghe về thỏa thuận với Wolf; được cả Sheila lẫn Lorraine chia sẻ máu cho bữa ăn; trêu Lorraine về đề xuất kết hôn của Wolf; cùng Lorraine đi chợ mua nhu yếu phẩm chuẩn bị về quê và tình cờ tái ngộ Rina Rupaage tại quầy ma cụ phế phẩm sau khi đổi mặt nạ đầu lâu.
+- Trạng thái tính đến chương 129: Trò chuyện cùng Rina, biết cô đã lập tổ đội cùng Raiz Dunner và Laura Satii; nhờ mạng lưới chuột của Edel bám theo và trực tiếp gặp Idoles Rogue để chuyển lời hẹn gặp của Rina; được Idoles gửi lại lời hẹn sau một tháng do phải về vương đô; mang lời nhắn đến Hội lưu lại cho Rina.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -89,6 +90,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 24: Được tiết lộ tên thật là Rina Rogue, xuất thân từ gia đình hiệp sĩ/quý tộc danh giá, bỏ nhà đi làm mạo hiểm giả; có anh trai là Idoles Rogue thuộc Đệ Nhất Kỵ Sĩ Đoàn đang đến Maalt tìm kiếm.
 - Trạng thái tính đến chương 93: Tiết lộ việc trốn nhà đi do bị cha mẹ ép hôn; được anh trai Idoles Rogue bí mật dẫn đi trải nghiệm mặt tối xã hội và truyền dạy kiếm thuật; bẩm sinh sở hữu lượng Ma Lực và Khí Lực dồi dào; sau khi được Rentt chỉ dạy bí quyết sinh tồn đã nỗ lực tập huấn, tích lũy thực lực qua các ủy thác đơn và gia nhập một tổ đội gồm hai mạo hiểm giả Đồng Cấp.
 - Trạng thái tính đến chương 128: Tình cờ gặp lại Rentt tại quầy ma cụ phế phẩm ở chợ Maalt; suýt không nhận ra anh do chiếc mặt nạ mới, nhưng lập tức nhận ra tiền bối khi Rentt đổi mặt nạ về hình đầu lâu quen thuộc.
+- Trạng thái tính đến chương 129: Gặp lại Rentt, cho biết cô đã lập tổ đội mới cùng kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii; đồng ý để Rentt chuyển lời hẹn gặp đến anh trai Idoles Rogue.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -99,6 +101,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lễ độ, nhã nhặn, tôn trọng người khác, xưng "tôi" gọi "ngài".
 - Quan hệ: Anh trai của Rina Rogue (Rina Rupaage); kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran.
 - Trạng thái tính đến chương 24: Xin nghỉ phép tạm thời đến Maalt tìm kiếm em gái Rina; vô tình va phải Rentt ngoài cửa tiệm Ba Chĩa và nhờ anh để mắt giúp.
+- Trạng thái tính đến chương 129: Gặp lại Rentt trong hình dạng mặt nạ đầu lâu; nhận lời nhắn từ Rina và gửi lại lời hẹn gặp sau một tháng do chuẩn bị phải trở về vương đô một thời gian.
 
 ### Lorraine Vivie
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Rentt (khoảng 24–25 tuổi), xinh đẹp, quyến rũ tự nhiên nhưng tính tình luộm thuộm, thường mặc áo choàng pháp sư nhàu nhĩ, tóc tai bù xù vì mải mê nghiên cứu.

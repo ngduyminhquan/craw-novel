@@ -133,7 +133,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | reviewed |  |
 | 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | done |  |
 | 128 |  | Chapter_128 - Vol 5 Chapter 3 - Existence and Status (4).txt | Vol 5 Chapter 3 - Existence and Status (4) | done |  |
-| 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | todo |  |
+| 129 |  | Chapter_129 - Vol 5 Chapter 3 - Existence and Status (5).txt | Vol 5 Chapter 3 - Existence and Status (5) | done |  |
 | 130 |  | Chapter_130 - Vol 5 Chapter 4 - The Journey (1).txt | Vol 5 Chapter 4 - The Journey (1) | todo |  |
 | 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | todo |  |
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -653,3 +652,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#128] Dịch tiêu đề chương 'Vol 5 Chapter 3 - Existence and Status (4)' — tạm chọn 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (4)' (đồng bộ với #125-#127; phương án khác: 'Tập 5 Chương 3 - Tồn Tại và Thân Phận (4)', 'Tập 5 Chương 3 - Sự Tồn Tại và Địa Vị (4)'). Tạm dùng trong bản dịch: 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (4)'. → Chốt dùng 'Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (4)'. (orchestrator)
 - [#128] Dịch tựa sách của Lorraine 'Monster Cooking: How to Make Low-Quality Parts Taste Good' — tạm dịch 'Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon' (phương án khác: 'Nấu Ăn Bằng Ma Vật: Cách Biến Bộ Phận Kém Chất Lượng Thành Món Ngon'). Tạm dùng trong bản dịch: 'Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon'. → Chốt dùng 'Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon'. (orchestrator)
 - [#128] Đồng nhất 'Maaltan magnolia leaves' với loài cây 'Maalt-Hoonoki' (#31) — tạm dịch 'lá cây Hoonoki Maalt' và thêm 'Maaltan magnolia' vào Alias trong glossary.md (phương án khác: dịch là 'lá mộc lan Maalt'). Tạm dùng trong bản dịch: 'lá cây Hoonoki Maalt'. → Chốt đồng nhất thành 'Hoonoki Maalt' và thêm 'Maaltan magnolia' vào Alias trong glossary.md. (orchestrator)
+- [#129] Raw chương 129 viết tên nữ ma pháp sư đồng đội của Raiz là 'Lola' / 'Lola Satii' thay vì 'Laura Satii' như ở chương 33 (tiếng Nhật gốc ローラ); tạm giữ thống nhất theo chương 33 là 'Laura' / 'Laura Satii' và bổ sung 'Lola; Lola Satii' vào Alias của Laura Satii trong characters.md (phương án khác: đổi tên nhân vật thành Lola Satii). → Chốt giữ thống nhất tên 'Laura Satii' theo chương 33 và bổ sung 'Lola; Lola Satii' vào Alias trong characters.md đúng quy tắc Tên riêng (rules.md). (orchestrator)

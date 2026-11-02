@@ -756,4 +756,10 @@ Cả ba cùng thảo luận về giải pháp làm nhân viên Hội để hợp
 Trước khi đi ngủ, Rentt kể lại việc Wolf từng đùa chuyện kết hôn với Lorraine để đổi họ khiến cô phun cả rượu vang, rồi một mình ngẫm nghĩ bồn chồn về chuyện hôn nhân.
 Hôm sau, Rentt và Lorraine đi chợ mua sắm chuẩn bị hành trang về quê; tại quầy ma cụ phế phẩm, Rentt tình cờ chạm tay vào cùng một món đồ với một cô gái tóc vàng và nhận ra đó chính là Rina Rupaage sau khi biến đổi mặt nạ đầu lâu.
 
+## 129
+Rina vui mừng gặp lại Rentt và hào hứng chia sẻ việc vừa gia nhập tổ đội mới cùng kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii, những người từng cùng Rentt thi thăng hạng Đồng Cấp.
+Rentt tiết lộ việc đã gặp anh trai cô là kỵ sĩ Idoles Rogue đang lặn lội tìm em gái; Rina tâm sự lý do trốn nhà theo gợi ý của anh để phiêu lưu và nhờ Rentt chuyển lời hẹn gặp.
+Cùng Lorraine mang chồng sách mua ở chợ về nhà, Rentt nhanh chóng biến đổi mặt nạ đầu lâu và nhờ mạng lưới chuột Puchi Suri của Edel dẫn đường tìm đến gặp Idoles.
+Rentt viện cớ cổ họng từng bị thương để giải thích giọng nói khôi phục, rồi chuyển lời hẹn của Rina; Idoles cho biết sắp phải về vương đô nên gửi lại lời hẹn sau một tháng, sau đó Rentt đến Hội Mạo Hiểm Giả lưu lại tin nhắn cho Rina.
+
 
