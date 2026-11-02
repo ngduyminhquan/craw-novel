@@ -213,3 +213,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | holy magic |  | thánh ma pháp | kỹ năng | 115 | Ma pháp hệ thần thánh sử dụng Thần Lực |
 | holy swordsmanship |  | thánh kiếm thuật | kỹ năng | 115 | Kiếm thuật vận dụng trang bị thần thánh làm chất xúc tác dẫn truyền Thần Lực |
 | divine spirit | divine spirits; Divine Spirit; Divine Spirits | thần tinh linh | khác | 115 | Thực thể thần thánh/tinh linh tối cao ban phát Thần Lực (神霊) |
+| Westbound Traveler | The Westbound Traveler | Người Lữ Hành Hướng Tây | khác | 116 | Truyện cổ tích dân gian nổi tiếng khắp Yaaran về một lữ khách đi về phía tây |
+| All-Knowing Sage | the All-Knowing Sage | Hiền Giả Toàn Tri | danh hiệu | 116 | Nhân vật hiền giả nắm giữ mọi tri thức trong dị bản Người Lữ Hành Hướng Tây của Lorraine |
+| King of Chefs | the King of Chefs | Vua Đầu Bếp | danh hiệu | 116 | Danh xưng vị vua lập quốc bằng tài nấu nướng trong dị bản Người Lữ Hành Hướng Tây của Alize |

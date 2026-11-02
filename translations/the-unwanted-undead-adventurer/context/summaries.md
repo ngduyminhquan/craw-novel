@@ -677,6 +677,13 @@ Laura hào phóng ngỏ lời mời Rentt có thể thoải mái dẫn bạn mì
 Rentt trở về gặp Lorraine trên đường tới cô nhi viện; cả hai trao đổi về sự bí ẩn của gia tộc Latuule khi họ tham gia hội đồng điều hành Maalt suốt một thế kỷ qua nhưng gần như không để lại dấu vết điều tra.
 Nghe tin về kho sách quý giá không thể tìm thấy ở các hiệu sách cùng lời mời của Laura, Lorraine vô cùng phấn khích và quyết định sẽ ghé thăm dinh thự Latuule dù vẫn giữ sự thận trọng trước gia tộc này.
 
+## 116
+Lorraine và Rentt đến Cô Nhi Viện Thứ Hai Maalt, sơ ý làm gãy chiếc vòng gõ cửa vốn đã hỏng và được một bé gái mồ côi mở cửa dẫn vào nhà nguyện.
+Tại nhà nguyện, Alize đang kể câu chuyện cổ tích "Người Lữ Hành Hướng Tây" cho lũ trẻ mồ côi; Rentt và Lorraine lắng nghe và thảo luận về các dị bản khác nhau phản ánh tính cách và xuất thân của mỗi người.
+Trong dị bản thực tế của Alize, người lữ hành là một đầu bếp vượt qua thử thách của quái vật mắt đỏ và người phụ nữ áo trắng chia làm bốn phân thân để lập quốc thành Vua Đầu Bếp.
+Rentt băn khoăn khi nhớ lại cái kết bi kịch trong dị bản do cha mẹ kể thời thơ ấu: vương quốc ẩm thực bị các nước láng giềng ghen tị tấn công, vị vua tuyệt vọng bỏ đi khiến đất nước lụi tàn và chìm vào quên lãng; cả hai đứng dậy chuẩn bị nói chuyện với Alize.
+
+
 
 
 
