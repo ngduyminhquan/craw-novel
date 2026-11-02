@@ -84,7 +84,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | reviewed |  |
 | 78 |  | Chapter_078 - Vol 3 Chapter 4 - Magecraft (2).txt | Vol 3 Chapter 4 - Magecraft (2) | reviewed |  |
 | 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | done |  |
-| 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | todo |  |
+| 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | done |  |
 | 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | todo |  |
 | 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | todo |  |
 | 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | todo |  |
@@ -520,3 +520,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#77] Dịch thuật ngữ 'Livelihood Magecraft' — tạm chọn 'Ma Thuật Sinh Hoạt' (chuẩn Hán Việt ngắn gọn cho 生活魔術; phương án khác: 'Ma Thuật Đời Sống', 'Ma Thuật Tiện Ích'). Tạm dùng trong bản dịch: 'Ma Thuật Sinh Hoạt'. → Chốt 'Ma Thuật Sinh Hoạt' (chuẩn Hán Việt cho 生活魔術) (orchestrator)
 - [#77] Dịch danh xưng huyền thoại 'Magician of Beginnings' — tạm chọn 'Pháp Sư Khởi Đầu' (chuẩn xác cho 始まりの魔術師; phương án khác: 'Pháp Sư Khởi Nguyên', 'Ma Pháp Sư Khởi Đầu'). Tạm dùng trong bản dịch: 'Pháp Sư Khởi Đầu'. → Chốt 'Pháp Sư Khởi Đầu' (chuẩn cho 始まりの魔術師) (orchestrator)
 - [#78] Xử lý câu thần chú tạo lửa 'Ignite Aryumage' và từ 'grain' trong câu niệm ('Let my mana be as grain') — tạm chọn giữ nguyên tên chú 'Ignite Aryumage' theo rules.md và dịch 'grain' thoát nghĩa theo gốc tiếng Nhật (糧 - mồi/chất nuôi dưỡng) thành 'hóa thành nguồn nuôi dưỡng' (phương án khác: dịch 'hạt mầm' hoặc dịch sát chữ EN là 'hạt thóc'). Tạm dùng trong bản dịch: 'Hỡi ngọn lửa. Hãy để Ma Lực của ta hóa thành nguồn nuôi dưỡng, và hiển hiện trước mắt ta... Ignite Aryumage.' → Chốt giữ nguyên 'Ignite Aryumage' theo rules.md và dịch 'grain' thành 'nguồn nuôi dưỡng' (orchestrator)
+- [#80] Dịch chức danh 'Master Dissectionist' của Dario Costa — tạm chọn 'Chuyên gia Mổ Xẻ Trưởng' (chuẩn Hán Việt ngắn gọn theo rules.md; phương án khác: 'Bậc Thầy Mổ Xẻ', 'Chuyên gia mổ xẻ đứng đầu'). Tạm dùng trong bản dịch: 'Chuyên gia Mổ Xẻ Trưởng'. → Chốt 'Chuyên gia Mổ Xẻ Trưởng' (đồng bộ với chuyên gia mổ xẻ của Dario Costa) (orchestrator)
+- [#80] Dịch tên tổ chức 'Stheno Trading Company' / 'the Stheno Trading Company' — tạm chọn 'Thương hội Stheno' (phù hợp phong cách kỳ ảo; phương án khác: 'Công ty Thương mại Stheno', 'Thương đoàn Stheno'). Tạm dùng trong bản dịch: 'Thương hội Stheno'. → Chốt 'Thương hội Stheno' (phù hợp bối cảnh kỳ ảo) (orchestrator)

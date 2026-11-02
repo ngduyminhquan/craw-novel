@@ -149,3 +149,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Magician of Beginnings |  | Pháp Sư Khởi Đầu | danh hiệu | 77 | Nhân vật huyền thoại đầu tiên tự phát hiện và vận dụng Ma Lực mà không cần trợ giúp (始まりの魔術師) |
 | Ignite Aryumage |  | Ignite Aryumage | kỹ năng | 78 | Thần chú thi triển ngọn lửa nhỏ của Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
 | cantrip | cantrips | ma pháp vặt | kỹ năng | 77 | Ma pháp sơ cấp yếu ớt của Ma Thuật Sinh Hoạt |
+| Master Dissectionist | Master Dissectionists | Chuyên gia Mổ Xẻ Trưởng | chức nghiệp | 80 | Chức vị chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả |
+| Stheno Trading Company | the Stheno Trading Company | Thương hội Stheno | tổ chức | 80 | Thương hội buôn bán và đấu giá lớn hàng đầu tại Maalt (ステンノ商会) |

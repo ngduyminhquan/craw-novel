@@ -469,5 +469,11 @@ Kết thúc buổi học ma thuật, Rentt và Lorraine bàn bạc về việc h
 Nhận thấy cần mua sắm vũ khí tươm tất cho Alize trong khi bản thân đang cạn kiệt tài chính vì mua túi ma pháp dung lượng lớn và hộp đựng phi thuyền mô hình, Rentt hào hứng đến Hội Mạo Hiểm Giả với hy vọng nhận tiền bán xác Tarasque.
 Tại Hội, Sheila kinh ngạc trước giọng nói trôi chảy cùng làn da mịn màng phục hồi sau tiến hóa của Rentt; cả hai thống nhất tiếp tục dùng danh tính Rentt Vivie để tránh rắc rối; tuy nhiên hy vọng làm giàu của Rentt sụp đổ khi Sheila thông báo xác Tarasque vẫn chưa bán được và dẫn anh tới phòng mổ xẻ để bàn bạc.
 
+## 80
+Tại văn phòng mổ xẻ, Dario giải thích xác Tarasque chưa bán được vì quá hoàn hảo, khiến thương nhân đấu giá muốn mang bán thẳng cho một khách hàng giàu có bí ẩn với giá gấp đôi kèm điều kiện muốn gặp mặt mạo hiểm giả đã hạ sát quái thú.
+Dù e ngại thân phận quái vật có thể bị bại lộ trước người quyền thế, Rentt vẫn quyết định đồng ý gặp mặt vì mục tiêu vươn lên mạo hiểm giả Mithril Cấp và mở rộng quan hệ với tầng lớp thượng lưu.
+Dario trấn an Rentt rằng thương nhân đấu giá là người quen lâu năm từ Thương hội Stheno danh tiếng tại Maalt, và hứa sẽ sớm liên lạc sắp xếp lịch hẹn cụ thể.
+Trước khi rời đi, Rentt nhận một khoản tiền khá hời từ việc Dario đã giúp tiêu thụ các phần nguyên liệu phụ khác của Tarasque và được Dario hết lời khen ngợi kỹ thuật săn bắt bảo toàn xác quái vật.
+
 
 

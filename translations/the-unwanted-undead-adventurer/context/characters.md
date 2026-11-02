@@ -42,6 +42,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 73: Đã hoàn tất thử nghiệm đôi cánh: rót Thần Lực phát ra luồng bạch quang dịu dàng có khả năng thúc đẩy thảo dược lớn nhanh như thổi và trị lành vết thương diện rộng; bay lượn kết hợp Thần Lực an toàn không gây nổ Dung Hợp Thuật; da thịt toàn bộ khuôn mặt phục hồi nhẵn mịn như người sống, răng nanh dài ra khi ngửi thấy mùi máu; được Lorraine xác định là một biến thể dị biệt tiệm cận Hạ Cấp Ma Cà Rồng.
 - Trạng thái tính đến chương 78: Cùng Lorraine mở lớp dạy ma thuật cơ bản cho Alize; đóng vai trò làm mẫu biểu diễn Ma Thuật Sinh Hoạt (tạo lửa, phóng nước từ hai bàn tay); dù Ma Lực tăng vọt sau Tiến Hóa Bản Thể nhưng kiến thức lý thuyết ma thuật vẫn còn thiếu sót và đang được Lorraine kèm cặp; biểu diễn thành công câu chú Ignite Aryumage.
 - Trạng thái tính đến chương 79: Quyết định tiếp tục dùng danh tính Rentt Vivie để tránh bị điều tra về chiếc mặt nạ không tháo được cùng năng lực thể chất bất thường; chuẩn bị dạy kiếm thuật và dẫn Alize vào mê cung rèn luyện; tài chính cạn kiệt, hy vọng nhận tiền bán xác Tarasque bất thành khi Sheila thông báo xác chưa bán được.
+- Trạng thái tính đến chương 80: Nhận lời gặp mặt trực tiếp vị khách giàu có bí ẩn mua xác Tarasque thông qua Thương hội Stheno để mở rộng quan hệ hướng tới mục tiêu Mithril Cấp; nhận tiền thanh toán các nguyên liệu phụ khác của Tarasque từ Dario.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -195,6 +196,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Dân dã, bộc trực, thoải mái với người quen, xưng "chú" gọi "cháu / cô bé / Sheila" với tiếp tân Sheila; xưng "tôi" gọi "cậu" với mạo hiểm giả Rentt.
 - Quan hệ: Chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả Maalt; quen biết và thân thiết với tiếp tân viên Sheila Ibarss; từng gặp Rentt trước khi chết nhưng không nhận ra anh sau lớp mặt nạ.
 - Trạng thái tính đến chương 58: Kiểm tra xác con Tarasque nguyên vẹn do Rentt mang về, hết lời khen ngợi mai và nọc độc không tì vết; nhận lời xử lý và nhận ủy thác đem bán đấu giá chiếc mai Tarasque với giá tốt nhất cho Rentt.
+- Trạng thái tính đến chương 80: Đàm phán với thương nhân đấu giá của Thương hội Stheno, dàn xếp cuộc gặp giữa khách mua mai Tarasque với Rentt; thanh toán tiền bán các nguyên liệu phụ khác của Tarasque cho Rentt.
 
 ### Unbert Abeiyu
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông trung niên, dáng người gầy gò cao kều.
