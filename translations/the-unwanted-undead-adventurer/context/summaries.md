@@ -514,3 +514,8 @@ Nhận ủy thác dọn dẹp từ thân chủ Zant Currin và thấy nữ tiế
 Nhờ cậu thanh niên chăm chỉ học hỏi và làm đúng theo chỉ dẫn của Rentt, nơi ở của thân chủ được dọn dẹp sạch bong kin kít khiến Zant Currin vô cùng hài lòng và hào phóng thưởng thêm tiền boa cho cả hai.
 Sau khi hoàn thành công việc, Rentt sòng phẳng chia đều tiền thưởng và chân thành khích lệ cậu thiếu niên vững bước trên con đường mạo hiểm giả; chính cậu tân binh ấy vài năm sau đã thăng lên Ngân Cấp trước cả Rentt rồi rời Maalt tiếp tục cuộc hành trình.
 
+## 88
+Rentt nhận tiền bán xác Tarasque từ Hội Mạo Hiểm Giả nhưng số tiền không đủ để vừa mua sắm trang bị, vũ khí cho Alize, trả học phí cho Lorraine, vừa đặt may y phục may đo riêng chống chọi mê cung và có khe hở cho đôi cánh của mình.
+Ý thức được gánh nặng nợ nần và thói quen chi tiêu dựa vào những khoản lộc trời cho, Rentt tự chấn chỉnh bản thân và quyết định áp dụng phương pháp cơ bản nhất của mạo hiểm giả để tiết kiệm: tự mình đi thu thập nguyên liệu.
+Nhận thấy vũ khí của bản thân quá đặc thù khó tự kiếm nguyên liệu, nhưng vũ khí vỡ lòng của Alize chỉ cần nguyên liệu tiêu chuẩn để tránh sinh thói ỷ lại, Rentt quyết định dành buổi chiều tiến vào Mê Cung Tân Nguyệt gom nguyên liệu và quay về báo trước một tiếng với Lorraine.
+
