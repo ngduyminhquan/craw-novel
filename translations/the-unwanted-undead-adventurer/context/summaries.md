@@ -122,6 +122,13 @@ Rentt cùng người đàn ông dùng ma pháp trận trở lại căn phòng ba
 Về tới Maalt, người đàn ông dẫn Rentt tới quán ăn của mình là Quán Phi Long Đỏ và gặp vợ là Isabel; sau khi hiểu rõ sự tình và thấy cánh tay khô quắt của Rentt, Isabel xúc động cảm tạ và đồng thuận với thỏa thuận của hai người.
 Trước khi rời đi, người đàn ông tự giới thiệu tên mình là Loris Cariello và hứa giữ kín bí mật sau khi được Rentt thổ lộ tên thật; Rentt tạm biệt gia đình Loris và hòa vào đường phố Maalt.
 
+## 21
+Bản năng Ngạ Quỷ trỗi dậy khiến Rentt thèm khát máu và thịt người; khi trở về nhà Lorraine, anh mất kiểm soát và cắn xé vai cô bạn thân.
+Dù đau đớn, Lorraine cắn răng chịu đựng để không gây ồn ào và kịp dùng ma pháp hỏa cầu nén đánh văng Rentt rồi thi triển phép gây ngủ để trấn áp anh.
+Khi tỉnh lại trên sofa, Rentt lấy lại lý trí, vô cùng ân hận và dùng Thần Lực chữa lành hoàn toàn vết cắn trên vai Lorraine để tránh để lại sẹo.
+Lorraine kinh ngạc trước công hiệu kỳ diệu của Thần Lực, nhưng sau đó hoảng hốt chỉ ra rằng chiếc mặt nạ của Rentt đang bắt đầu rơi ra.
+
+
 
 
 

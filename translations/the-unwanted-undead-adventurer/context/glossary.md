@@ -63,3 +63,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Saint | Saints | Thánh Giả | danh hiệu | 19 | Người sở hữu Thần Lực dồi dào và khả năng trị liệu được giáo hội và dân chúng tôn sùng (聖者) |
 | Sanitarium |  | Viện Trị Liệu | địa danh | 19 | Cơ sở chữa trị, dưỡng thương cho mạo hiểm giả và người dân (療養院/治療院) |
 | Red Wyvern Pavilion |  | Quán Phi Long Đỏ | tổ chức | 20 | Quán ăn của vợ chồng Loris và Isabel ở Maalt (赤き竜亭/赤き飛竜亭) |
+| divine magic |  | ma pháp thần thánh | kỹ năng | 21 | Ma pháp sử dụng Thần Lực để trị liệu vết thương |

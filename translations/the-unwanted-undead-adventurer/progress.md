@@ -25,7 +25,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 18 |  | Chapter_018 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3) | reviewed |  |
 | 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | done |  |
 | 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | done |  |
-| 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | todo |  |
+| 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | done |  |
 | 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | todo |  |
 | 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | todo |  |
 | 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -399,3 +398,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#20] Dịch tên quán ăn 'Red Wyvern Pavilion' — tạm chọn 'Quán Phi Long Đỏ' (phương án khác: 'Quán Ăn Phi Long Đỏ', 'Quán Rồng Đỏ'). Tạm dùng trong bản dịch: 'Quán Phi Long Đỏ'. → Chốt 'Quán Phi Long Đỏ'. (orchestrator)
 - [#20] Xưng hô giữa vợ chồng Loris Cariello và Isabel — tạm chọn Loris xưng 'anh' gọi 'em/Isabel', Isabel xưng 'em' gọi 'mình/anh' (phương án khác: xưng 'tôi' - gọi 'anh/cô'). Tạm dùng trong bản dịch: anh - em/Isabel, em - mình/anh. → Chốt Loris xưng anh gọi em/Isabel, Isabel xưng em gọi mình/anh. (orchestrator)
 - [#20] Xưng hô giữa Isabel và Rentt — tạm chọn Isabel gọi Rentt là 'cậu' xưng 'tôi', Rentt gọi Isabel là 'cô' xưng 'tôi' (phương án khác: Isabel gọi Rentt là 'ngài', Rentt gọi 'chị'). Tạm dùng trong bản dịch: Isabel gọi 'cậu' xưng 'tôi', Rentt gọi 'cô' xưng 'tôi'. → Chốt Isabel gọi cậu xưng tôi, Rentt gọi cô xưng tôi. (orchestrator)
+- [#21] Dịch tiêu đề arc 'Proof of Inhumanity' — tạm chọn 'Minh Chứng Phi Nhân Tính' (phương án khác: 'Bằng Chứng Phi Nhân Tính', 'Minh Chứng Cho Sự Phi Nhân', 'Minh Chứng Của Kẻ Phi Nhân'). → Chốt 'Minh Chứng Phi Nhân Tính' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 1 Chương 5. (orchestrator)
+- [#21] Dịch thành ngữ/lời đùa của Lorraine 'damaged goods' khi nhắc đến vết sẹo ở vai — tạm chọn 'hàng có tì vết' (phương án khác: 'gái mang tì vết', 'hàng lỗi'). → Chốt 'hàng có tì vết' hợp giọng bông đùa của Lorraine. (orchestrator)
+- [#21] Dịch thuật ngữ 'divine magic' — tạm chọn 'ma pháp thần thánh' (phương án khác: 'thần thánh ma pháp'). → Chốt 'ma pháp thần thánh'. (orchestrator)
