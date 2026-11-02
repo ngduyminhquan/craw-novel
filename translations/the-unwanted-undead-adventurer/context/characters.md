@@ -207,6 +207,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 76: Thú nhận với Sơ Lillian chuyện bí mật ủy thác cho Rentt đi Đầm Lầy Tarasque hái hoa; được Sơ Lillian thấu hiểu và ban phước ưng thuận cho theo học; cùng Rentt chính thức bước vào bài học ma thuật vỡ lòng đầu tiên do Lorraine giảng dạy.
 - Trạng thái tính đến chương 78: Chính thức bước vào bài học ma thuật đầu tiên; được Lorraine truyền dẫn Ma Lực và bước đầu cảm nhận được dòng chảy năng lượng trong cơ thể dù kiệt sức; lấy lại quyết tâm rèn luyện sau màn thị phạm của Rentt và chuẩn bị học cách niệm chú.
 - Trạng thái tính đến chương 79: Niệm câu chú Ignite Aryumage và thành công tạo ra ngọn lửa nhỏ đầu tiên trên đầu ngón tay dù còn hao hụt Ma Lực; vô cùng thán phục trước màn biểu diễn ma thuật của Lorraine; kiên định với ước mơ làm mạo hiểm giả và chuẩn bị theo học kiếm thuật cơ bản từ Rentt.
+- Trạng thái tính đến chương 119: Đến tiệm rèn Ba Chĩa thử vũ khí; được Lorraine thị phạm ma pháp mở rộng lưỡi dao găm thành kiếm; quyết định chọn dao găm làm vũ khí chính kết hợp học kiếm thuật căn bản từ Rentt và ma thuật từ Lorraine.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.

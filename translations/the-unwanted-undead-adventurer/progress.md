@@ -123,7 +123,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 116 |  | Chapter_116 - Vol 5 Chapter 1 - Off to Adventure (2).txt | Vol 5 Chapter 1 - Off to Adventure (2) | reviewed |  |
 | 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | reviewed |  |
 | 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | done |  |
-| 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | todo |  |
+| 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | done |  |
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | todo |  |
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | todo |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | todo |  |
@@ -617,3 +617,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#117] Dịch thuật ngữ 'magic catalyst' / 'catalyst' — Đồng bộ với 'magical focus' (#89): 'magic catalyst' dịch là 'vật dẫn ma pháp' (thêm vào Alias của 'magical focus'), 'catalyst' dịch là 'vật dẫn ma pháp' hoặc gọi tắt 'vật dẫn'. (orchestrator)
 - [#118] Dịch 'Holy Tree' và 'Land of the Venerable Holy Tree' — tạm chọn 'Thánh Thụ' và 'Vùng Đất Cổ Thánh Thụ' (phương án khác: 'Cây Thần Thánh' / 'Xứ Sở Cổ Thánh Thụ', 'Thần Thụ'). → Giữ 'Thánh Thụ', 'Cổ Thánh Thụ' và 'Vùng Đất Cổ Thánh Thụ' trong glossary.md (orchestrator)
 - [#118] Dịch 'Blacksmithing Deity' và 'Furnace Deity' — tạm chọn 'Thần Nghề Rèn' và 'Thần Lò Lửa' (phương án khác: 'Đoàn Dã Thần' / 'Hỏa Lô Thần', 'Thần Lò Nung'). → Giữ 'Thần Nghề Rèn' và 'Thần Lò Lửa' trong glossary.md (orchestrator)
+- [#119] Dịch 'chakram' — tạm chọn 'phi luân' (vũ khí ném dạng đĩa tròn; phương án khác: 'luân xa', giữ nguyên 'chakram'). → Giữ 'phi luân' trong glossary.md (orchestrator)
+- [#119] Đồng nhất 'life magic' với 'Livelihood Magecraft' — tạm chọn 'Ma Thuật Sinh Hoạt' (thêm vào Alias của Livelihood Magecraft; phương án khác: 'ma thuật đời sống'). → Đồng nhất 'life magic' với 'Livelihood Magecraft' ('Ma Thuật Sinh Hoạt', nguyên tác 生活魔術) và thêm vào Alias (orchestrator)

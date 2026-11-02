@@ -145,7 +145,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Royal Court |  | Triều Đình Hoàng Gia | tổ chức | 75 | Triều đình của Vương Quốc Yaaran (王廷/宮廷) |
 | Great Angels |  | Đại Thiên Sứ | khác | 76 | Các đấng thiên sứ tối cao được tôn thờ trong Giáo Hội Đông Thiên (大天使) |
 | Goblin Mage | Goblin Mages | Pháp Sư Goblin | quái vật | 77 | Phân loài Goblin có khả năng sử dụng ma thuật sơ cấp (ゴブリンメイジ) |
-| Livelihood Magecraft |  | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
+| Livelihood Magecraft | life magic | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
 | Magician of Beginnings |  | Pháp Sư Khởi Đầu | danh hiệu | 77 | Nhân vật huyền thoại đầu tiên tự phát hiện và vận dụng Ma Lực mà không cần trợ giúp (始まりの魔術師) |
 | Ignite Aryumage |  | Ignite Aryumage | kỹ năng | 78 | Thần chú thi triển ngọn lửa nhỏ của Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
 | cantrip | cantrips | ma pháp vặt | kỹ năng | 77 | Ma pháp sơ cấp yếu ớt của Ma Thuật Sinh Hoạt |
@@ -225,3 +225,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | High Elf | high elf; high elves; High elves | High Elf | chủng tộc | 118 | Chủng tộc elf thượng cấp cai trị Vùng Đất Cổ Thánh Thụ |
 | Elf | elves; elf | Elf | chủng tộc | 43 | Chủng tộc tiên tộc sống trong rừng, giỏi ma pháp tinh linh và cung tên |
 | spirit magic |  | tinh linh ma pháp | kỹ năng | 118 | Ma pháp mượn sức mạnh của các tinh linh (精霊魔法) |
+| chakram | chakrams | phi luân | vật phẩm | 119 | Vũ khí ném hình đĩa tròn bằng kim loại |

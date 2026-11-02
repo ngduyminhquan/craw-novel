@@ -695,6 +695,13 @@ Cả nhóm bàn luận về Thánh Thụ tại Vùng Đất Cổ Thánh Thụ c�
 Clope đem chậu cây ra cho mọi người xem; Lorraine và Clope hào hứng lên kế hoạch sử dụng gỗ của những cái cây này để làm vật liệu giả kim và rèn đúc trang bị chứa Thần Lực.
 Clope đồng ý chia cho Lorraine hai trong số năm cây đang có; cả nhóm thống nhất Rentt sẽ can thiệp trồng vào rừng nếu Clope định chặt làm củi đốt, rồi quay lại thảo luận về trang bị cho Alize.
 
+## 119
+Clope mang ra nhiều loại vũ khí để Alize thử và lựa chọn; sau khi loại bỏ các vũ khí tầm xa và đại kiếm quá nặng, Alize phân vân giữa dao găm và kiếm.
+Lorraine thi triển ma pháp kéo dài lưỡi dao găm trong suốt thành chiều dài một thanh kiếm và chém đứt đôi khúc gỗ để thị phạm cho Alize thấy khả năng kết hợp giữa dao găm và ma thuật.
+Alize quyết định chọn dao găm và cam kết sẽ nỗ lực học tập cả kiếm thuật lẫn ma thuật; Rentt và Lorraine hứa sẽ đào tạo cô bé thành mạo hiểm giả, ma pháp sư kiêm học giả thực thụ.
+Rentt đặt Clope rèn cả dao găm lẫn kiếm cho Alize bằng Ma Thiết thường để cô bé rèn luyện thói quen căn bản; đồng thời nhờ Clope thử dùng Ma Thiết đượm ma lực rồng kết hợp với gỗ cây Thần Lực để rèn một thanh kiếm mới và hứa sẽ tìm cách xoay xở máu Ma Cà Rồng cùng Ma Tinh phù hợp.
+
+
 
 
 
