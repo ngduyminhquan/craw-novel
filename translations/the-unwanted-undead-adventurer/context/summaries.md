@@ -648,5 +648,11 @@ Sharl và Nive tranh luận về việc các tôn giáo đều nhận công tiê
 Trước lượng máu khổng lồ mà Hạ Cấp Ma Cà Rồng tiêu thụ (tương đương 10 bình hoa, khoảng 2 người/tháng), Rentt thầm băn khoăn về nhu cầu máu ít ỏi chỉ 3 giọt mỗi ngày của bản thân nhưng tạm gác lại suy tư.
 Nive thừa nhận không biết diện mạo của Ma Cà Rồng Hoàng Hôn và thỉnh cầu Rentt hễ gặp con Ma Cà Rồng nào không thể đánh bại thì hãy báo tin cho cô; Rentt chủ động bắt tay hòa giải và nhận lời, kết thúc cuộc gặp gỡ trong nụ cười dịu dàng hiếm thấy của Nive.
 
+## 111
+Rentt an toàn trở về dinh thự của Lorraine sau cuộc gặp gỡ đầy sóng gió tại Thương hội Stheno và kể lại việc ngọn Thánh Hỏa phát hiện Ma Cà Rồng của Nive Maris hoàn toàn vô hiệu đối với mình.
+Lorraine và Rentt cùng phân tích bản chất chủng loài hiện tại của Rentt: liệu anh có thực sự là Ma Cà Rồng hay chỉ là một sinh vật dị biệt dạng Undead, và khả năng lượng Thần Lực dồi dào anh sở hữu chính là thứ tạo ra kháng tính triệt tiêu Thánh Hỏa.
+Rentt hồi tưởng lại nguồn gốc Thần Lực từ thời thiếu niên khi anh dọn dẹp và tu bổ một ngôi đền cổ hoang phế vô danh trong rừng ở quê nhà; Lorraine bất ngờ đề xuất cả hai cùng làm một chuyến về thăm ngôi làng quê hương của Rentt.
+
+
 
 
