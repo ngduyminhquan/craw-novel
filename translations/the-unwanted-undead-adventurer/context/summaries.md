@@ -332,15 +332,8 @@ Người đàn ông tự giới thiệu là Isaac Hart, quản gia phụng sự 
 Khi Isaac dò hỏi cách bảo quản Long Hoa Huyết tươi, Rentt viện cớ không biết vì nếu biết đã giải nghệ làm dược sư, nhưng ngỏ ý sẵn lòng giúp đỡ việc khác trong khả năng.
 Bất ngờ nhưng không hề coi nhẹ danh tính mạo hiểm giả Đồng Cấp Rentt Vivie, Isaac ngỏ ý muốn lập hợp đồng chính thức qua Hội Mạo Hiểm Giả để thuê Rentt định kỳ vào đầm lầy thu thập hoa cho chủ nhân.
 
-
-
-
-
-
-
-
-
-
-
-
-
+## 57
+Isaac tặng Rentt một lọ Nước Thánh phẩm cấp thượng hạng của Giáo Hội Lobelia để hỗ trợ đường về và tạo thiện cảm cho hợp đồng thu thập hoa sau này; Rentt ngầm thừa nhận mình dùng được Thần Lực trước trực giác nhạy bén của Isaac.
+Rời đầm lầy an toàn trong sự sợ hãi bỏ chạy của bầy Cung Thủ Goblin, Rentt đón chuyến xe ngựa chiều trở về thị trấn Maalt sau màn đối đáp khôi hài tự nhận là mạo hiểm giả Mithril Cấp với người đánh xe.
+Trở lại Hội Mạo Hiểm Giả, Rentt được Sheila hết lời khen ngợi và đánh giá thực lực hiện tại đã tương đương Ngân Cấp, làm dấy lên trong anh nỗi lo sợ mất đi sức mạnh nếu sau này trở lại làm người.
+Rentt nhờ Sheila bố trí phòng mổ xẻ kín đáo ở phía sau để tiến hành xử lý xác con Tarasque khổng lồ trước sự chú ý của các mạo hiểm giả khác.

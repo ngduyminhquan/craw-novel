@@ -24,7 +24,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | lower Silver-class |  | Hạ Ngân Cấp | cấp bậc | 27 | Phân bậc thấp trong Ngân Cấp |
 | Gold-class |  | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class | Platinum | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
-| Mithril-class |  | Mithril Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả truyền kỳ đỉnh cao (ミスリル級) |
+| Mithril-class | Mythril-class | Mithril Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả truyền kỳ đỉnh cao (ミスリル級) |
 | Labyrinth of the Moon’s Reflection | Moon’s Reflection | Mê Cung Nguyệt Ảnh | địa danh | 1 | Mê cung sơ cấp gần thị trấn Maalt (水月の迷宮) |
 | Labyrinth of the New Moon | New Moon | Mê Cung Tân Nguyệt | địa danh | 1 | Mê cung mới (新月の迷宮) |
 | Maalt |  | Maalt | địa danh | 1 | Thị trấn biên ải nơi Rentt sinh sống và hành nghề |
@@ -116,3 +116,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Holy Water | holy water | Nước Thánh | vật phẩm | 54 | Nước được ban phước từ Giáo Hội hoặc Thần Lực dùng để xua đuổi quái vật (聖水) |
 | Swamp Goblin | Swamp Goblins | Goblin Đầm Lầy | quái vật | 55 | Phân loài Goblin sinh sống tại vùng đầm lầy độc |
 | White Dragon Blossom | White Dragon Blossoms | Hoa Bạch Long | vật phẩm | 55 | Biến thể hoa màu trắng thuần làm cảnh, không có dược tính nở khi trồng nhân tạo (白竜花) |
+| Church of Lobelia | the Church of Lobelia; Lobelia | Giáo Hội Lobelia | tổ chức | 57 | Giáo hội có thế lực lớn ở các vương quốc phía tây, có nhà thờ nhỏ tại Maalt và nổi tiếng với Nước Thánh phẩm cấp cao (ロベリア教会) |

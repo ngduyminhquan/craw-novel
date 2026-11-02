@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T11:05:42Z",
+  "generatedAt": "2026-11-02T11:11:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2489,6 +2489,12 @@
           "title": "Chương 56: Tập 3 Chương 1 - Người đàn ông kỳ lạ (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_056.md",
           "sha": "61a5133a12718f8c2e168de2a62e41d903a2f6d7"
+        },
+        {
+          "number": 57,
+          "title": "Chương 57: Tập 3 Chương 1 - Người đàn ông kỳ lạ (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_057.md",
+          "sha": "65363348d801289c459110fa16334693d39ed7a3"
         }
       ]
     },
