@@ -81,4 +81,10 @@ Lorraine nhận lời làm người đại diện nhận/trả nhiệm vụ và 
 Chương hồi tưởng quá khứ của Lorraine: thiên tài đạt danh hiệu "Đại Học Sĩ" năm 14 tuổi, vì buồn chán nên bỏ trốn đến Maalt tìm thảo dược và vô tình nhận thẻ mạo hiểm giả Ngân Cấp do lỗ hổng quy chế.
 Tại Hội, một kiếm sĩ lực lưỡng kỳ lạ đã dúi tân binh Rentt Faina đi theo xách đồ cho Lorraine trong nhiệm vụ ở Rừng Azuul, mở đầu cho mối cơ duyên mười năm giữa hai người.
 
+## 14
+Hồi tưởng tiếp tục: Lorraine vào Rừng Azuul nhưng lúng túng vì thiếu kỹ năng sinh tồn và hoảng loạn trước quái vật; Rentt kịp thời chỉ dẫn cô dùng ma pháp hỏa cầu Foteia Borivaas diệt quái và dạy cô cách hái thảo dược.
+Trở về an toàn, Lorraine biết sự thật rằng Rentt và người kiếm sĩ đã vờ để anh xách đồ nhằm đi theo bảo vệ mình; cô quyết định gắn bó với Maalt, mua nhà định cư và được Rentt chăm sóc việc nhà suốt 10 năm để đổi lấy các bài học học thuật.
+Sau những ngày bồn chồn lo sợ khi Rentt mất tích, Lorraine giả vờ ngủ say đón anh trở về; ở hiện tại, Rentt được Lorraine giúp bán Ma Tinh và chất dịch Slime nên có một khoản tiền khá lớn.
+Vì thanh kiếm cũ đã sứt mẻ sau nhiều lần vận dụng đồng thời ba loại năng lượng, Rentt quyết định tạm hoãn mua giáp (để tránh lộ thân thể Ngạ Quỷ) và tìm đến một tiệm rèn quen thuộc để mua vũ khí mới.
+
 

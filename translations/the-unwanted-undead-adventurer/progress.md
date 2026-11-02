@@ -18,7 +18,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 11 |  | Chapter_011 - Vol 1 Chapter 2 - Rina the Adventurer (6).txt | Vol 1 Chapter 2 - Rina the Adventurer (6) | reviewed |  |
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | reviewed |  |
 | 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | done |  |
-| 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | todo |  |
+| 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | done |  |
 | 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | todo |  |
 | 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | todo |  |
 | 17 |  | Chapter_017 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2) | todo |  |
@@ -382,3 +382,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#11] Đoạn 82: Mốc thời gian câu thoại của Rina "if it hadn't been for you, I would already be dead" → Sửa thành "nếu không nhờ có anh thì giờ này tôi đã mất mạng rồi" (orchestrator)
 - [#12] Đoạn 39: Dịch thành ngữ "for lack of a better word" → Sửa thành "với giả định chung rằng họ, nói thẳng thừng ra là, đã chết" (orchestrator)
 - [#13] Dịch danh hiệu học thuật 'Great Professor' và 'Professor' của Lorraine — tạm chọn 'Đại Học Sĩ' và 'Học Sĩ' (phương án khác: 'Đại Giáo Sư' và 'Giáo Sư'). → Chốt Đại Học Sĩ (Great Professor) và Học Sĩ (Professor) hợp bối cảnh trung cổ giả tưởng. (orchestrator)
+- [#14] Dịch cụm tri thức luận 'known unknowns' và 'unknown unknowns' của Lorraine — tạm dịch 'những điều đã biết là mình chưa biết' và 'những điều chưa biết là mình chưa biết' (phương án khác: 'những điều chưa biết có thể biết' và 'những điều chưa biết không thể lường trước', hoặc 'điều chưa biết khả tri' và 'điều chưa biết bất khả tri'). → Giữ nguyên cách dịch 'những điều đã biết là mình chưa biết' và 'những điều chưa biết là mình chưa biết' (chuẩn xác và dễ hiểu). (orchestrator)

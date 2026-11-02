@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T02:56:25Z",
+  "generatedAt": "2026-11-02T03:01:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2231,6 +2231,12 @@
           "title": "Chương 13: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_013.md",
           "sha": "8ea3ad459402544f75468ae3b2f68d3fab3aac92"
+        },
+        {
+          "number": 14,
+          "title": "Chương 14: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_014.md",
+          "sha": "758856a688730a36c714b431e9ba7732256bfc30"
         }
       ]
     },
