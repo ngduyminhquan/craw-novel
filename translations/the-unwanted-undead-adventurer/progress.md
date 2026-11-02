@@ -58,7 +58,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | reviewed |  |
 | 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | done |  |
 | 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | done |  |
-| 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | todo |  |
+| 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | done |  |
 | 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | todo |  |
 | 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | todo |  |
 | 57 |  | Chapter_057 - Vol 3 Chapter 1 - A Peculiar Man (2).txt | Vol 3 Chapter 1 - A Peculiar Man (2) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -472,3 +473,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#53] Dịch phân loài quái vật 'Goblin Archers' (đoạn 29) — tạm chọn 'Cung Thủ Goblin' (phù hợp với quy ước fantasy Hán Việt trong rules.md; phương án khác: 'Xạ Thủ Goblin'). Tạm dùng trong bản dịch: 'Cung Thủ Goblin'. → Giữ 'Cung Thủ Goblin' (nhất quán với Đại Tướng Goblin, Vua Goblin) (orchestrator)
 - [#53] Xử lý câu raw bị cụt ở đoạn 117 ('then die in the next five') — tạm dịch bổ sung từ chỉ thời gian theo ngữ cảnh thành 'rồi bỏ mạng chỉ trong vòng năm giây sau đó' (phương án khác: giữ nguyên cụt 'rồi bỏ mạng chỉ trong vòng năm...'). Tạm dùng trong bản dịch: 'rồi bỏ mạng chỉ trong vòng năm giây sau đó'. → Giữ 'rồi bỏ mạng chỉ trong vòng năm giây sau đó' theo mạch ngữ cảnh (orchestrator)
 - [#53] Xưng hô của Rentt Faina với chuột quyến thuộc Edel trong thoại và suy nghĩ — tạm chọn Rentt xưng 'ta / tao' gọi 'mày / Edel' (phù hợp quan hệ chủ nhân và quyến thuộc háu ăn kiêu ngạo; phương án khác: xưng 'tôi' gọi 'cậu / Edel'). Tạm dùng trong bản dịch: xưng 'ta / tao', gọi 'mày'. → Giữ Rentt xưng 'ta / tao', gọi 'mày / Edel' hợp quan hệ chủ nhân với chuột quyến thuộc (orchestrator)
+- [#54] Dịch thuật ngữ 'Holy Water' (và 'holy water') — tạm chọn 'Nước Thánh' (phương án khác: 'Thánh Thủy'). Tạm dùng trong bản dịch: 'Nước Thánh'. → Giữ 'Nước Thánh' (orchestrator)
+- [#54] Xử lý câu raw bị ngắt lửng ở cuối đoạn 97 ('This was an interesting') — tạm dịch thuận nghĩa tự nhiên thành 'Thật là một cảm giác kỳ lạ—' (phương án khác: 'Thật là một trải nghiệm thú vị—', hoặc dịch cụt 'Đây quả thực là một điều thú...'). Tạm dùng trong bản dịch: 'Thật là một cảm giác kỳ lạ—'. → Giữ 'Thật là một cảm giác kỳ lạ—' theo mạch ngữ cảnh (orchestrator)

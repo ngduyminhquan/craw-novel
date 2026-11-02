@@ -161,6 +161,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
 - Tính cách: Háu ăn, kiêu ngạo, có ý thức tự chủ cao; thích được xem là cao quý thay vì mập mạp béo tròn; thích nghi nhanh nhưng không mấy trung thành, hay phản ứng lại khi Rentt định dùng làm mồi nhử.
-- Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định.
-- Trạng thái tính đến chương 53: Cùng Rentt tiến vào Đầm Lầy Tarasque; giúp Rentt điểm mặt vị trí Cung Thủ Goblin mai phục nhưng sau đó nhanh chân bỏ rơi chủ nhân khi cầu gỗ sập để đi nhặt hạt nhét đầy má ăn vụng.
+- Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định; có thể tự ý rút Thần Lực từ Rentt để bao bọc cơ thể trong màn ánh sáng, tự trị liệu và tông người tấn công mang Thần Lực.
+- Trạng thái tính đến chương 54: Cùng Rentt chiến đấu với Tarasque; luồn lách qua chân quái thú, tự ý rút Thần Lực của Rentt để tông thẳng vào vết thương hở trên cổ Tarasque, gợi mở cho Rentt điểm yếu kỵ Thần Lực của quái thú; bị quất bay được Rentt đỡ kịp và lập tức cằn nhằn qua tâm trí hối thúc Rentt phản công.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).

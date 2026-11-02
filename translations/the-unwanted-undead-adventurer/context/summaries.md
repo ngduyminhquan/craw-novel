@@ -314,6 +314,13 @@ Vừa tiến vào Đầm Lầy Tarasque, Rentt và Edel bị một đàn Cung Th
 Dưới đáy đầm lầy độc, Rentt phát hiện cơ thể Thi Quỷ không cần hô hấp và bị một bầy quái ngư khổng lồ tấn công dữ dội cắn vào chân; anh vận Thần Lực tăng tốc chém gục quái vật trước khi bị một con quẫy đuôi hất văng lên bờ đối diện.
 Lên bờ an toàn với chiếc áo choàng ma pháp kỳ diệu vẫn khô ráo, Rentt bắt quả tang chú chuột quyến thuộc Edel thản nhiên nhồi đầy hạt vào má kiếm ăn thay vì lo cứu chủ nhân.
 
+## 54
+Rentt chạm trán một con Tarasque bọc giáp mai kiên cố giữa đầm lầy; sau khi nhát chém kết hợp Ma Khí Dung Hợp Thuật không thể xuyên thủng lớp vảy cổ và khiến quái thú càng thêm cảnh giác, anh rơi vào bế tắc chiến thuật.
+Chuột quyến thuộc Edel bất ngờ hút cạn Thần Lực của Rentt rồi lao mình tông thẳng vào vết thương hở trên cổ Tarasque khiến nó đau đớn dữ dội; bị chiếc cổ quất văng lên không trung, Edel được Rentt bay người đỡ kịp.
+Nhận ra Tarasque cực kỳ kỵ Thần Lực (lý do chúng sợ Nước Thánh của Giáo Hội mà Rentt từng mua hớ phải hàng giả ven đường), Rentt truyền Thần Lực phát ánh sáng vàng xanh bao bọc lưỡi kiếm.
+Lợi dụng thể chất Thi Quỷ kháng độc, Rentt lao thẳng qua màn sương khói độc của Tarasque và tung nhát chém dứt khoát trảm thủ con quái thú.
+
+
 
 
 

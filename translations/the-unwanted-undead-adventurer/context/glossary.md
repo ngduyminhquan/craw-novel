@@ -113,3 +113,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Goblin King | Goblin Kings | Vua Goblin | quái vật | 51 | Quái vật cấp vua thống trị bộ tộc Goblin |
 | Sea Snake | Sea Snakes | Rắn Biển | quái vật | 52 | Quái vật dạng rắn bơi trong vùng nước đầm lầy, mang nọc độc chết người |
 | Goblin Archer | Goblin Archers | Cung Thủ Goblin | quái vật | 53 | Phân loài Goblin trang bị cung tên tấn công tầm xa |
+| Holy Water | holy water | Nước Thánh | vật phẩm | 54 | Nước được ban phước từ Giáo Hội hoặc Thần Lực dùng để xua đuổi quái vật (聖水) |
