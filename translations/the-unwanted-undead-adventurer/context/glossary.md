@@ -74,3 +74,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Orc | Orcs | Orc | quái vật | 25 | Quái vật dạng lợn/người to lớn hung dữ |
 | Map of Akasha |  | Bản Đồ Akasha | vật phẩm | 26 | Ma cụ tự động vẽ bản đồ mê cung người sở hữu từng đặt chân tới (アカシャの地図) |
 | Pulling | pulling | dụ quái | khác | 29 | Tiếng lóng mạo hiểm giả chỉ hành động dẫn quái vật về phía người khác rồi bỏ chạy |
+| Forest Orc | Forest Orcs | Orc Rừng | quái vật | 30 | Phân loài Orc sinh sống theo bầy đàn trong rừng |
+| Labyrinth Orc | Labyrinth Orcs | Orc Mê Cung | quái vật | 30 | Phân loài Orc sinh sống đơn độc trong mê cung |

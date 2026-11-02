@@ -172,5 +172,10 @@ Rentt bước vào bàn giải thích rằng bộ ba đó đã năm lần cố t
 Vài ngày sau, Lorraine và Zarid bắt gặp cả ba tên côn đồ đang quỳ gối tạ lỗi mọi mạo hiểm giả trước lối vào Mê Cung Tân Nguyệt; Zarid kể lại rằng Rentt đã dùng mạng lưới quan hệ sâu rộng khiến cả thị trấn Maalt đồng loạt tẩy chay, từ chối phòng trọ, không bán thức ăn và ép bọn chúng phải suy sụp rồi đến xin lỗi Rentt trong êm đẹp.
 Chứng kiến sức ảnh hưởng và cách trừng phạt không đổ máu nhưng đầy uy lực của bạn mình, Lorraine thầm công nhận Rentt thực sự là một người đàn ông đáng sợ.
 
+## 30
+Rentt bắt đầu thực hiện ủy thác săn Orc bằng cách tiến vào Mê Cung Tân Nguyệt thay vì đi săn ở các khu rừng quanh Maalt để tránh đối đầu với đàn Orc Rừng có tổ chức.
+Bị nhiều mạo hiểm giả chú ý vì đi thám hiểm độc hành, anh thử sức ở các tầng nông và chạm trán các nhóm Khô Lâu và Slime; dù bị bao vây trong các hành lang rộng, anh kiên trì phòng thủ và tiết kiệm Ma Lực lẫn Khí Lực, đồng thời nhận thấy chiếc áo chùng có khả năng kháng đòn Acid Blitz tuyệt vời.
+Sau khi thu thập Ma Tinh vào chiếc túi thắt lưng không gian ếm ma pháp, Rentt bước xuống tầng tiếp theo và ngỡ ngàng trước cảnh tượng một không gian ma thuật rộng lớn tựa như đồng cỏ và cánh rừng ngập tràn ánh nắng ngay giữa lòng mê cung.
+
 
 
