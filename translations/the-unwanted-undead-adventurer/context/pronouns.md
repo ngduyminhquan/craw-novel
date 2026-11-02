@@ -35,6 +35,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rin | Rin / cô bé | 84 | Bạn thuở nhỏ của Rentt |
 | Ran | Ran / cô bé | 84 | Bạn thuở nhỏ của Rentt, mắc bệnh nan y qua đời |
 | Aidi | Aidi / người đàn ông | 85 | Mạo hiểm giả Đồng Cấp trung niên mê cá cược |
+| Lady Emilstead | Phu nhân Emilstead / phu nhân / bà | 86 | Nữ quý tộc giàu có ở Maalt |
+| Sweetpea | Sweetpea / con chuột / chú chuột | 86 | Chuột Puchi Suri thú cưng của Phu nhân Emilstead |
 
 ## Giữa các nhân vật
 
@@ -129,3 +131,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rin | Rentt Faina | em | anh / anh Rentt | 84 | Bạn thuở nhỏ, nhờ Rentt hái hoa Tetona cho người chị em sinh đôi |
 | Rentt Faina | Aidi | tôi | anh | 85 | Mạo hiểm giả nói chuyện xã giao với đồng nghiệp trung niên |
 | Aidi | Rentt Faina | tôi | cậu | 85 | Mạo hiểm giả trung niên xưng hô dân dã, thân thiện với mạo hiểm giả trẻ |
+| Rentt Faina | Lady Emilstead | tôi | phu nhân / bà | 86 | Mạo hiểm giả tiếp nhận ủy thác thanh tẩy linh hồn thú cưng |
+| Lady Emilstead | Rentt Faina | tôi | ngài | 86 | Thân chủ quý tộc khẩn khoản cầu xin mạo hiểm giả thanh tẩy cho thú cưng |
+| Lorraine Vivie | Lady Emilstead | tôi | phu nhân | 86 | Học giả dẫn mạo hiểm giả đến nhận ủy thác |
+| Lady Emilstead | Lorraine Vivie | tôi | cô / các vị | 86 | Thân chủ tiếp đón học giả và mạo hiểm giả |

@@ -502,3 +502,9 @@ Rentt dắt theo Edel đi dạo trên phố thì bị Aidi, một mạo hiểm g
 Bị Aidi nài nỉ và thấy Edel cũng hào hứng muốn thử sức, Rentt đăng ký cho Edel tham gia cuộc đua; dù không cần rút Ma Lực từ Rentt, Edel vẫn thể hiện tốc độ đáng nể bám đuổi sát sao và vượt qua đương kim vô địch Jacks Tiger ở khúc cua cuối cùng để cán đích đầu tiên.
 Chiến thắng ngoạn mục giúp Aidi trúng cược lớn còn Edel kiếm được tiền thưởng để tự mua thức ăn yêu thích và mua rượu ngon cho Rentt cùng Lorraine; Rentt vừa ngỡ ngàng trước thú vui mới lạ đang len lỏi vào Maalt, vừa thầm hài lòng vì có được một chú chuột quyến thuộc biết tự kiếm tiền nuôi thân.
 
+## 86
+Lorraine nhờ Rentt cùng nhận ủy thác thanh tẩy tại dinh thự bề thế của Phu nhân Emilstead – một nữ quý tộc giàu có thương tiếc chú chuột Puchi Suri biến dị thú cưng tên Sweetpea vừa qua đời và hiện về thành hồn ma.
+Tránh để ma thuật thông thường làm linh hồn thú cưng gào thét đau đớn, Rentt dùng Thần Lực giúp Sweetpea siêu thoát thanh thản lên thiên đàng, khiến Phu nhân Emilstead xúc động rơi nước mắt; Lorraine lập tức gợi ý bà nhận nuôi một chú chuột Puchi Suri mới và bà đặt tên nó tiếp tục là Sweetpea.
+Rời dinh thự, Lorraine tiết lộ chú chuột Sweetpea mới thực chất là thuộc hạ do Edel cài cắm vào làm nội gián thu thập tin tức giới thượng lưu, sau khi Lorraine hỗ trợ Edel vượt qua kết giới ma pháp quanh tòa nhà.
+Nhận ra Lorraine và Edel đã bí mật phối hợp từ trước, Rentt chỉ biết cạn lời trước mức độ bận rộn và sự chăm chỉ làm việc phi thường của chú chuột quyến thuộc.
+

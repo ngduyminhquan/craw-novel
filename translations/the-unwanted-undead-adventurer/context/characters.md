@@ -41,6 +41,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ran |  | Ran | Bạn thuở nhỏ của Rentt, thiếu nữ song sinh cùng Rin, mắc bệnh nan y qua đời | #84 |
 | Aidi |  | Aidi | Mạo hiểm giả Đồng Cấp trung niên say mê cá cược đua chuột Puchi Suri | #85 |
 | Jacks Tiger |  | Jacks Tiger | Chuột Puchi Suri số 1, đương kim vô địch giải đua chuột Puchi Suri | #85 |
+| Lady Emilstead | Emilstead | Phu nhân Emilstead | Nữ quý tộc giàu có ở Maalt, chủ nhân của chuột Sweetpea | #86 |
+| Sweetpea |  | Sweetpea | Chuột Puchi Suri thú cưng của Phu nhân Emilstead | #86 |
 
 ## Chi tiết
 
@@ -276,3 +278,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, chủng tộc: Chuột Puchi Suri.
 - Đặc điểm: Thí sinh số 1, đương kim vô địch ("vua đua chuột Puchi Suri"), tốc độ ôm cua cực nhanh.
 - Xuất hiện từ: #85.
+
+### Lady Emilstead
+- Giới tính, thân phận: Nữ, phu nhân quý tộc giàu có sở hữu dinh thự lớn tại thị trấn Maalt.
+- Tính cách: Giàu tình cảm, yêu thương thú cưng hết lòng, coi quái vật thú cưng như người thân trong gia đình; xúc động, dễ rơi nước mắt nhưng rất mực chân thành và hào phóng.
+- Cách nói chuyện: Quý phái, khẩn thiết khi cầu xin cứu giúp linh hồn thú cưng; xưng "tôi", gọi Rentt là "ngài".
+- Quan hệ: Khách hàng thuê Rentt và Lorraine thanh tẩy cho linh hồn chuột cưng đã khuất.
+- Xuất hiện từ: #86.
+
+### Sweetpea
+- Chủng tộc: Quái vật Puchi Suri (phân loài biến dị hiền lành, ngoại hình đáng yêu).
+- Đặc điểm: Thú cưng được Phu nhân Emilstead nuôi nấng như người trong nhà; sau khi qua đời biến thành linh hồn vất vưởng được Rentt thanh tẩy siêu thoát bằng Thần Lực; tên này sau đó được đặt tiếp cho chú chuột Puchi Suri mới do Lorraine gợi ý nhận nuôi (vốn là thuộc hạ của Edel).
+- Xuất hiện từ: #86.
