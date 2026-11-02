@@ -150,3 +150,8 @@ Tiếp tân viên Sheila Ibarss ngậm ngùi nhắc đến sự mất tích củ
 Sau khi nhận thẻ và từ chối nghe giải thích điều lệ vì đã thuộc lòng từ kiếp trước, Rentt đến bảng thông báo và quyết định nhận ủy thác săn Orc lấy nguyên liệu thay vì làm việc vặt hay săn Goblin.
 Sheila lo lắng khuyên can vì Orc là đối thủ ngang tầm Thượng Đồng Cấp quá nguy hiểm đối với tân binh, nhưng Rentt quả quyết khẳng định thực lực và nhận ủy thác trong sự dặn dò cẩn trọng của cô.
 
+## 26
+Rentt quay lại khu vực chưa khai phá ở Mê Cung Nguyệt Ảnh để khám phá ma pháp trận thứ hai cạnh phòng thủ lĩnh Khô Lâu Khổng Lồ; ma pháp trận dịch chuyển anh tới một căn phòng đổ nát dường như từng có người sinh sống nhiều năm trước, nơi có một bộ hài cốt an nghỉ trên giường cùng nhiều sách cổ.
+Trong lúc tìm kiếm, Rentt bất ngờ bị một người phụ nữ tóc trắng mắt xanh mặc áo chùng đen xuất hiện từ phía sau chất vấn và dùng ma pháp hỏa diễm cực mạnh tấn công vì ngỡ anh là kẻ trộm xâm nhập chốn thiêng liêng.
+Sau khi đòn đánh đốt cháy áo chùng làm lộ thân thể Thi Quỷ của Rentt và nghe lời trần tình của anh, người phụ nữ nhận ra hiểu lầm, thu hồi sát ý, xin lỗi và tặng Rentt chiếc áo chùng đen của mình cùng ma cụ Bản Đồ Akasha có khả năng tự động vẽ bản đồ mê cung để đổi lấy lời hứa không tiết lộ căn phòng cho Hội; sau đó cô dùng ma pháp dịch chuyển tiễn anh ra lối vào mê cung, để Rentt mang theo đầy nỗi băn khoăn quay về Maalt.
+

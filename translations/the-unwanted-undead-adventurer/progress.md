@@ -30,7 +30,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | reviewed |  |
 | 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | reviewed |  |
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | done |  |
-| 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | todo |  |
+| 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | done |  |
 | 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | todo |  |
 | 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | todo |  |
 | 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | todo |  |
@@ -348,13 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
-
-
-
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -416,3 +409,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#24] Xưng hô giữa Rentt và kỵ sĩ Idoles Rogue — tạm chọn đôi bên xưng 'tôi' - gọi 'ngài' (Rentt khách sáo tôn trọng kỵ sĩ quý tộc của Đệ Nhất Kỵ Sĩ Đoàn, Idoles nói năng lịch thiệp chuẩn mực quý tộc; phương án khác: Rentt xưng 'tôi' gọi 'ngài', Idoles xưng 'tôi' gọi 'anh/cậu'). → Chốt đôi bên xưng 'tôi' - gọi 'ngài'. (orchestrator) (orchestrator)
 - [#25] Dịch quái vật 'Orc' / 'Orcs' — tạm chọn 'Orc' (phương án khác: 'Quỷ lợn', 'Dã nhân Orc'). Tạm dùng trong bản dịch: 'Orc'. → Chốt 'Orc' (nhất quán với Goblin, Slime, Wight). (orchestrator) (orchestrator)
 - [#25] Dịch danh tính mới của Rentt 'Rentt Vivie' — tạm chọn giữ nguyên 'Rentt Vivie' (mượn họ của Lorraine Vivie theo quy tắc tên phương Tây). Tạm dùng trong bản dịch: 'Rentt Vivie'. → Chốt giữ nguyên 'Rentt Vivie'. (orchestrator) (orchestrator)
+- [#26] Dịch thuật ngữ/ma cụ 'Map of Akasha' (アカシャの地図) — tạm chọn 'Bản Đồ Akasha' theo quy tắc viết hoa ma cụ/vật phẩm (phương án khác: 'Bản đồ Akasha', 'Bản Đồ Akashic'). → Chốt 'Bản Đồ Akasha'. (orchestrator) (orchestrator)
+- [#26] Xưng hô giữa Rentt và người phụ nữ bí ẩn tóc trắng (nữ ma pháp sư bí ẩn trong căn phòng ẩn) — người phụ nữ xưng 'ta' gọi 'ngươi' (phù hợp phong thái thực thể cổ xưa hùng mạnh, đối đãi với kẻ đột nhập như trộm/trẻ con); Rentt xưng 'tôi' gọi 'cô' (thận trọng, dè dặt trước kẻ nắm sinh sát của mình). → Chốt người phụ nữ xưng 'ta' - gọi 'ngươi', Rentt xưng 'tôi' - gọi 'cô'. (orchestrator) (orchestrator)
