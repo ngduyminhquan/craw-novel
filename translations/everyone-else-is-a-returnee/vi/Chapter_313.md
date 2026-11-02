@@ -38,13 +38,13 @@ Giọng nói của Yu IlHan vang lên từ bên ngoài. Khoảnh khắc máu c�
 
 "A, aaaaaa."
 
-Những ký lục của cô đang lật giở sang trang mới. Chuyển hóa từ một con người thành một sinh thể rồng. Cô đang tiến hóa, tiếp nhận một thể xác và linh hồn có mức độ tương thích cao hơn với mana. Nhờ đã lĩnh ngộ được bản chất của mana, mức độ tăng trưởng thông qua quá trình biến đổi này cũng vượt trội hơn hẳn.
+Những ghi chép của cô đang lật giở sang trang mới. Chuyển hóa từ một con người thành một sinh thể rồng. Cô đang tiến hóa, tiếp nhận một thể xác và linh hồn có mức độ tương thích cao hơn với mana. Nhờ đã lĩnh ngộ được bản chất của mana, mức độ tăng trưởng thông qua quá trình biến đổi này cũng vượt trội hơn hẳn.
 
 "Kinh ngạc thật đấy...... hóa ra cũng có thể diễn ra theo cách này sao."
 
 "Đúng vậy, ta không ngờ cô tiểu thư đó lại có thể biến đổi nhiều đến mức này."
 
-Chỉ có Yu IlHan và Helièna mới có thể nhìn thấu chuẩn xác tình trạng hiện tại của Kang MiRae từ bên ngoài. Đáng lẽ với lượng ký lục của mình, Kang MiRae chưa thể đạt tới chuyển chức 6, nhưng nhờ vào những thành tựu mà cô đạt được trước khi thức tỉnh, điều đó đang thực sự xảy ra. Ngay lúc này, Kang MiRae đang trở thành một thực thể chuyển chức 6!
+Chỉ có Yu IlHan và Helièna mới có thể nhìn thấu chuẩn xác tình trạng hiện tại của Kang MiRae từ bên ngoài. Đáng lẽ với lượng ghi chép của mình, Kang MiRae chưa thể đạt tới chuyển chức 6, nhưng nhờ vào những thành tựu mà cô đạt được trước khi thức tỉnh, điều đó đang thực sự xảy ra. Ngay lúc này, Kang MiRae đang trở thành một thực thể chuyển chức 6!
 
 "Chậc, tớ cứ tưởng mình đã vượt qua cậu ấy rồi chứ."
 
@@ -78,7 +78,7 @@ Nếu tất cả mọi người đều trở nên giống Yu IlHan, đáng lẽ 
 
 "Ai đó giải thích tình hình cho cô MiRae nghe đi."
 
-"Không, không cần đâu. Tôi có thể hiểu được mọi chuyện nhờ vào một phần nhỏ ký lục của anh mà tôi nhìn thấy lúc đang trở thành thực thể cấp cao. Nơi này là Daréu đã trải qua biến đổi, và giờ đây Long tộc đang chiến đấu với lũ quái vật khác dưới sự thống lĩnh của loài rồng...... chúng ta cũng cần phải giúp họ tiêu diệt đám quái vật đó, đúng chứ?"
+"Không, không cần đâu. Tôi có thể hiểu được mọi chuyện nhờ vào một phần nhỏ ghi chép của anh mà tôi nhìn thấy lúc đang trở thành thực thể cấp cao. Nơi này là Daréu đã trải qua biến đổi, và giờ đây Long tộc đang chiến đấu với lũ quái vật khác dưới sự thống lĩnh của loài rồng...... chúng ta cũng cần phải giúp họ tiêu diệt đám quái vật đó, đúng chứ?"
 
 "......Cô nắm bắt vấn đề một cách hoàn hảo như vậy thì tốt quá rồi."
 
@@ -108,11 +108,11 @@ Dĩ nhiên, nếu là cô trước đây thì điều này hoàn toàn bất kh�
 
 [Cái tên Orochi nhà ngươiiiiii!]
 
-Orochi, kẻ giờ đây mang hình dáng của một thiếu niên nhân loại tóc đen và trông chẳng mấy khác biệt so với những người khác, không ngừng trêu chọc Mystic. Nhờ những ký lục từ trước đến nay được Hồ Sơ Akashic công nhận, Orochi bên trong thân xác Echjar cũng có thể tái sinh thành chuyển chức 6.
+Orochi, kẻ giờ đây mang hình dáng của một thiếu niên nhân loại tóc đen và trông chẳng mấy khác biệt so với những người khác, không ngừng trêu chọc Mystic. Nhờ những ghi chép từ trước đến nay được Hồ Sơ Akashic công nhận, Orochi bên trong thân xác Echjar cũng có thể tái sinh thành chuyển chức 6.
 
 Nhờ cả linh hồn lẫn thể xác đều được tái sinh thành một con rồng hoàn hảo, năng lực của gã đang tăng tiến từng phút từng giây. Nếu không có gì bất trắc xảy ra, có lẽ gã sẽ đạt đến chuyển chức 7 cùng lúc với Liera hoặc chỉ chậm hơn cô một chút.
 
-Xét đến việc ngay cả sau vô số năm tháng, mỗi phe phái khác cũng chỉ có khoảng mười thực thể chuyển chức 7, thì những kẻ tề tựu nơi đây đều là những tồn tại quái vật. Điều này chứng minh cho con đường mà Yu IlHan đã đi. Tất cả những người đồng hành cùng anh cho đến khi những ký lục của anh tích lũy nên đều đã tập hợp về nơi này.
+Xét đến việc ngay cả sau vô số năm tháng, mỗi phe phái khác cũng chỉ có khoảng mười thực thể chuyển chức 7, thì những kẻ tề tựu nơi đây đều là những tồn tại quái vật. Điều này chứng minh cho con đường mà Yu IlHan đã đi. Tất cả những người đồng hành cùng anh cho đến khi những ghi chép của anh tích lũy nên đều đã tập hợp về nơi này.
 
 [Hiiik, phùuu. Ngươi chỉ có thể trêu chọc tôi được một lúc này thôi.]
 

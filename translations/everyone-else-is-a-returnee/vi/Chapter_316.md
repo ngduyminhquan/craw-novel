@@ -48,7 +48,7 @@ Vật liệu thiếu hụt được bổ sung từ lò luyện, trong khi phần
 
 [Phẩm cấp – Thần]
 
-[Tạo tác do Yu IlHan, Chúa Tể Long Sào dốc toàn bộ sức mạnh tạo ra. Nó sẽ thu hút và kiểm soát sự suy yếu, cường hóa và cả quá trình sinh sản của mọi chủng loại quái vật trong ký lục của anh, đồng thời sở hữu quyền năng thống trị mana mạnh mẽ. Nó sẽ không bị thôn tính bởi bất cứ thứ gì ngoại trừ sức mạnh của Yu IlHan. Bản thân nó đã là một tạo tác hoàn hảo, nhưng đây chỉ mới là một phần của một chỉnh thể lớn hơn.]
+[Tạo tác do Yu IlHan, Chúa Tể Long Sào dốc toàn bộ sức mạnh tạo ra. Nó sẽ thu hút và kiểm soát sự suy yếu, cường hóa và cả quá trình sinh sản của mọi chủng loại quái vật trong ghi chép của anh, đồng thời sở hữu quyền năng thống trị mana mạnh mẽ. Nó sẽ không bị thôn tính bởi bất cứ thứ gì ngoại trừ sức mạnh của Yu IlHan. Bản thân nó đã là một tạo tác hoàn hảo, nhưng đây chỉ mới là một phần của một chỉnh thể lớn hơn.]
 
 Echjar không kìm được tiếng cảm thán.
 

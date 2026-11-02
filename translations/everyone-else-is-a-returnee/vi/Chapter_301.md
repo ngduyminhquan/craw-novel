@@ -54,7 +54,7 @@ Anh thực lòng nghĩ rằng mình đã may mắn về nhiều mặt.
 
 Tại mọi địa điểm ngoại trừ vùng cao nguyên nơi tộc elf và Lang tộc đang trú ngụ cùng nơi Yu IlHan đang điên cuồng vung tay, thế giới đang biến đổi với tốc độ chóng mặt.
 
-Quái vật chẳng thể chịu nổi nồng độ mana áp đảo nên lão hóa với tốc độ cực nhanh rồi chết một cách tự nhiên, và chẳng bao lâu sau, một con quái vật mới lại trỗi dậy lấy những ký lục đó làm nền tảng, rồi lại tiếp tục bỏ mạng! Không chỉ quái vật mà cả thiên nhiên cũng diễn ra y như vậy.
+Quái vật chẳng thể chịu nổi nồng độ mana áp đảo nên lão hóa với tốc độ cực nhanh rồi chết một cách tự nhiên, và chẳng bao lâu sau, một con quái vật mới lại trỗi dậy lấy những ghi chép đó làm nền tảng, rồi lại tiếp tục bỏ mạng! Không chỉ quái vật mà cả thiên nhiên cũng diễn ra y như vậy.
 
 "Đẹp quá......"
 
@@ -80,7 +80,7 @@ Ngay cả khi Yumir đang giải thích cho mọi người qua thiết bị liê
 
 Kỹ năng Tuyên Cáo là kỹ năng sinh ra từ sự dung hợp giữa kỹ năng Ký Lục và kỹ năng Thống Trị. Đó cũng là kỹ năng chứng minh cho vị thế thủ lĩnh của một phe phái thực thể cấp cao của anh.
 
-Còn lúc này, Yu IlHan đang điều khiển ma pháp trận kiểm soát thế giới và hấp thụ toàn bộ những ký lục đang được khuếch đại, vậy nên anh thực sự đang sử dụng kỹ năng Ký Lục và kỹ năng Thống Trị cùng một lúc, dĩ nhiên kỹ năng dung hợp của chúng cũng sẽ tăng cấp theo!
+Còn lúc này, Yu IlHan đang điều khiển ma pháp trận kiểm soát thế giới và hấp thụ toàn bộ những ghi chép đang được khuếch đại, vậy nên anh thực sự đang sử dụng kỹ năng Ký Lục và kỹ năng Thống Trị cùng một lúc, dĩ nhiên kỹ năng dung hợp của chúng cũng sẽ tăng cấp theo!
 
 "......Được rồi. Thử xem nào."
 
@@ -90,7 +90,7 @@ Thế nhưng, Yu IlHan lại sở hữu kỹ năng 'Hiển Hiện', và có th�
 
 Không chỉ có thế. Danh hiệu 'Kẻ Vượt Trội' đã khiến Yu IlHan trở nên vô cùng tự do, trên thực tế là quá đỗi tự do khi anh trở thành một thực thể cấp cao. Nó khiến bất kỳ ai cũng phải e sợ Yu IlHan.
 
-'Dù nghĩ thế nào thì cũng thấy quá bá đạo. Mọi ký lục và năng lực của mình khớp vào nhau một cách hoàn hảo đến thế cơ chứ.'
+'Dù nghĩ thế nào thì cũng thấy quá bá đạo. Mọi ghi chép và năng lực của mình khớp vào nhau một cách hoàn hảo đến thế cơ chứ.'
 
 Vốn dĩ, thủ lĩnh của mỗi phe phái sẽ nhận được sự gia tăng sức mạnh kinh người khi ở trong thế giới dưới sự thống trị của mình, đồng thời áp đặt hình phạt suy giảm lên mọi kẻ xâm nhập vào thế giới đó.
 
@@ -168,7 +168,7 @@ Yu IlHan thành thật trả lời Yumir, người đang nheo mắt nhìn anh. T
 
 Hơn nữa, dẫu cho Yu IlHan đã kiểm soát mọi thứ bằng kỹ năng Tuyên Cáo thì không phải mọi sự vật tại Daréu đều tươi đẹp và bình yên.
 
-Nhờ vào ký lục của Yu IlHan, những hồ kịch độc đã xuất hiện ở một số nơi trên Daréu, trong khi địa ngục rực lửa có thể thấy được ở những khe nứt sâu thẳm, cùng với một cơn bão tử thần tạo thành từ bụi kim loại sinh ra một từ trường đặc biệt xoay tròn, nghiền nát theo đúng nghĩa đen mọi thứ trên đường đi của nó!
+Nhờ vào ghi chép của Yu IlHan, những hồ kịch độc đã xuất hiện ở một số nơi trên Daréu, trong khi địa ngục rực lửa có thể thấy được ở những khe nứt sâu thẳm, cùng với một cơn bão tử thần tạo thành từ bụi kim loại sinh ra một từ trường đặc biệt xoay tròn, nghiền nát theo đúng nghĩa đen mọi thứ trên đường đi của nó!
 
 "Chà, một thực thể chuyển chức 4 mà trúng phải đòn đó thì chết chắc trong chớp mắt."
 
@@ -184,7 +184,7 @@ Khoan đã.
 
 Rồng ư?
 
-"Hở, nếu Daréu đang tiếp nhận ký lục của riêng mình, và xét đến việc Long tộc vốn dĩ sinh ra từ Daréu..."
+"Hở, nếu Daréu đang tiếp nhận ghi chép của riêng mình, và xét đến việc Long tộc vốn dĩ sinh ra từ Daréu..."
 
 Xét đến việc những con quái vật đang lặp đi lặp lại vòng lặp sinh tử và tiến hóa...
 

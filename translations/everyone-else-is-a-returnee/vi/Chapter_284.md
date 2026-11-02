@@ -192,7 +192,7 @@ Bọn chúng hoàn toàn bất lực trước cảnh tượng toàn bộ viện 
 
 [Đoạt lấy sức mạnh của thế giới và thậm chí còn tiêu diệt cả các thành viên của nó trong quá trình đó. Đó quả là một chiến thuật xâm lăng hoàn hảo....]
 
-Những kẻ cấu thành nên Khu Vườn Hoàng Hôn sở hữu những ký lục đa dạng hơn các phe phái khác, điều này đã giúp ích rất nhiều cho sự tăng trưởng của kỹ năng Ký Lục của anh.
+Những kẻ cấu thành nên Khu Vườn Hoàng Hôn sở hữu những ghi chép đa dạng hơn các phe phái khác, điều này đã giúp ích rất nhiều cho sự tăng trưởng của kỹ năng Ký Lục của anh.
 
 Nhận định rằng bản thân đã thu hoạch được mọi thứ có thể từ thế giới này, Yu IlHan liền phất tay. Tấm gương khổng lồ tách ra thành một ngàn (lẻ bốn) tấm gương, tỏa đi khắp thế giới, và các thủ môn nhân do quá mải mê tập trung vào nó nên đã phản ứng chậm một nhịp.
 

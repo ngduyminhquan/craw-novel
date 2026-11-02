@@ -88,7 +88,7 @@ Sự trừng phạt tuyệt đối mà cả thực thể chuyển chức 5 lẫn
 
 [Bạn nhận được kinh nghiệm.]
 
-[Bạn nhận được ký lục.]
+[Bạn nhận được ghi chép.]
 
 [Đang thu thập linh hồn của chúng.]
 
@@ -170,17 +170,17 @@ Các luồng mana bùng nổ mất kiểm soát ở khắp mọi nơi. Những v
 
 "Ôi...... chết tiệt."
 
-Yu IlHan thốt lên. Anh đang bận rộn điều chỉnh thế giới, thế nhưng mana và ký lục của anh lại đang cộng hưởng với linh hồn cùng thể xác, tạo nên một sự biến đổi từ sâu bên trong.
+Yu IlHan thốt lên. Anh đang bận rộn điều chỉnh thế giới, thế nhưng mana và ghi chép của anh lại đang cộng hưởng với linh hồn cùng thể xác, tạo nên một sự biến đổi từ sâu bên trong.
 
-Tuy nhiên, chuyện đó cũng là lẽ tự nhiên. Sự tiến hóa của một thế giới đồng nghĩa với sự mở rộng của các ký lục, và sẽ mang lại một sự thức tỉnh cho người làm chủ nó!
+Tuy nhiên, chuyện đó cũng là lẽ tự nhiên. Sự tiến hóa của một thế giới đồng nghĩa với sự mở rộng của các ghi chép, và sẽ mang lại một sự thức tỉnh cho người làm chủ nó!
 
 Trước đây, anh cứ ngỡ chỉ có tiêu diệt quái vật mới nhận được kinh nghiệm để thăng cấp, nhưng hóa ra đó hoặc là sai lầm của anh, hoặc là lời dối trá mà ai đó cố tình tung ra! Mày lừa tao đau thật đấy, hỡi thế giới!
 
 [Toàn bộ chỉ số đều tăng. Ma pháp tăng thêm 500 điểm.]
 
-Khi dung hợp các thế giới, ký lục của Yu IlHan không có nhiều biến chuyển, nhưng Đại Tai Biến lần thứ 7 và việc dung hợp hai trăm thế giới đã giáng một đòn nặng nề. Ký lục của Yu IlHan đồng bộ với Daréu và kéo anh lên một vị thế cao hơn!
+Khi dung hợp các thế giới, ghi chép của Yu IlHan không có nhiều biến chuyển, nhưng Đại Tai Biến lần thứ 7 và việc dung hợp hai trăm thế giới đã giáng một đòn nặng nề. Ghi chép của Yu IlHan đồng bộ với Daréu và kéo anh lên một vị thế cao hơn!
 
-[Chuyển hóa toàn bộ ký lục từ trước đến nay vào tiến trình trưởng thành. Bạn sở hữu sức chịu đựng để trải qua nỗi đau đi kèm với sự biến đổi. Bắt đầu tiến hành tiến hóa thể xác.]
+[Chuyển hóa toàn bộ ghi chép từ trước đến nay vào tiến trình trưởng thành. Bạn sở hữu sức chịu đựng để trải qua nỗi đau đi kèm với sự biến đổi. Bắt đầu tiến hành tiến hóa thể xác.]
 
 "Hựựựựự, tôi không có! Tôi làm gì có sức chịu đựng đó!"
 
@@ -226,7 +226,7 @@ Một đôi cánh mới mọc ra sau lưng anh khi anh bình thản đáp lại 
 
 Chúng cũng giống như Hiệu Triệu Diệt Vong, nhưng nếu đôi cánh đầu tiên rực cháy trong lửa đỏ, thì đôi cánh thứ hai lại phản chiếu hoàn hảo và mang ánh kim loại! Cả hai đôi cánh đều thể hiện rõ nét những đặc trưng của Yu IlHan.
 
-Nếu như Daréu tiếp nhận toàn bộ các nguồn mana cùng ký lục từ bên ngoài rồi nén chúng lại vào bên trong, thì Yu IlHan lại thể hiện sự trưởng thành từ những ký lục được nén bên trong ra ngoài cơ thể. Cả hai đều trở nên mạnh mẽ hơn, nhưng phương thức phát triển của họ lại hoàn toàn trái ngược nhau.
+Nếu như Daréu tiếp nhận toàn bộ các nguồn mana cùng ghi chép từ bên ngoài rồi nén chúng lại vào bên trong, thì Yu IlHan lại thể hiện sự trưởng thành từ những ghi chép được nén bên trong ra ngoài cơ thể. Cả hai đều trở nên mạnh mẽ hơn, nhưng phương thức phát triển của họ lại hoàn toàn trái ngược nhau.
 
 Đây có lẽ vẫn chưa phải là điểm kết thúc. Chừng nào Daréu còn tiếp tục phát triển hơn nữa, Yu IlHan cũng sẽ tiếp tục trưởng thành. Và khoảnh khắc Trái Đất, cội nguồn bản thể của anh, được kết hợp vào.......
 

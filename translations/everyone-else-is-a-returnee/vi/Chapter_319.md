@@ -70,7 +70,7 @@ Một vấn đề còn lớn hơn nữa là kẻ tự xưng Thượng Đế có 
 
 "Chủ nhân, xong rồi. Chúng ta sang thế giới tiếp theo thôi!"
 
-Kỳ lạ thay, Mystic càng kiểm soát nhiều Bẫy Phục Hồi thì cô nàng lại càng trở nên tràn đầy sinh lực. Điều đó có lẽ là nhờ vào những ký lục được thu thập thông qua các Bẫy Phục Hồi. Nhận ra điều ấy, sắc mặt Orochi trở nên tái nhợt.
+Kỳ lạ thay, Mystic càng kiểm soát nhiều Bẫy Phục Hồi thì cô nàng lại càng trở nên tràn đầy sinh lực. Điều đó có lẽ là nhờ vào những ghi chép được thu thập thông qua các Bẫy Phục Hồi. Nhận ra điều ấy, sắc mặt Orochi trở nên tái nhợt.
 
 "Cứ cái đà này chẳng phải ta sẽ bị vượt mặt sao?"
 
@@ -182,9 +182,9 @@ Sao những lời của cô ta nghe hệt như một cái cớ vậy? Yu IlHan c
 
 "Thế nhưng, để cô đi cùng trong khi tôi còn chẳng rõ có thứ quái dị nào đang ẩn nấp trong số các người cũng khiến tôi thấy bận lòng đấy."
 
-[Ta là một trong tứ Đại Thiên Thần. Ta không làm rò rỉ thông tin và ký lục như những thiên thần khác đâu. Ít nhất là trước các chuyển chức 7 khác.]
+[Ta là một trong tứ Đại Thiên Thần. Ta không làm rò rỉ thông tin và ghi chép như những thiên thần khác đâu. Ít nhất là trước các chuyển chức 7 khác.]
 
-Điều này chứng minh phán đoán của Yu IlHan. Thượng Đế đã phân chia những ký lục quan trọng của mình cho tứ Đại Thiên Thần. Nếu không, bọn họ không thể ngạo mạn tới mức tuyên bố bản thân sẽ không để lại bất kỳ ký lục nào phía sau.
+Điều này chứng minh phán đoán của Yu IlHan. Thượng Đế đã phân chia những ghi chép quan trọng của mình cho tứ Đại Thiên Thần. Nếu không, bọn họ không thể ngạo mạn tới mức tuyên bố bản thân sẽ không để lại bất kỳ ghi chép nào phía sau.
 
 "Biết thế tôi đã phân tích tàn tích của Raphael trước rồi."
 

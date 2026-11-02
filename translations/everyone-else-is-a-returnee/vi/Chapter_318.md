@@ -40,7 +40,7 @@ Hấp thụ mana cùng vật chất xung quanh, các Bẫy Hủy Diệt bị lu�
 
 "Tôi không tập trung được nên im lặng đi!"
 
-Trái ngược với lời cô nói, quá trình nuốt chửng diễn ra vô cùng suôn sẻ. Toàn bộ Bẫy Hủy Diệt rải rác quanh Daréu đều đang tiến hóa! Từ Bẫy Hủy Diệt thành Bẫy Phục Hồi — một trật tự mới đang được kiến tạo sau khi phủ nhận toàn bộ ký lục từ trước đến nay, và phát triển theo đúng ý đồ của Yu IlHan!
+Trái ngược với lời cô nói, quá trình nuốt chửng diễn ra vô cùng suôn sẻ. Toàn bộ Bẫy Hủy Diệt rải rác quanh Daréu đều đang tiến hóa! Từ Bẫy Hủy Diệt thành Bẫy Phục Hồi — một trật tự mới đang được kiến tạo sau khi phủ nhận toàn bộ ghi chép từ trước đến nay, và phát triển theo đúng ý đồ của Yu IlHan!
 
 Đương nhiên, quá trình đó đã hút và tiêu hao một lượng mana khổng lồ tại Daréu, nhưng việc này sẽ chỉ làm chậm lại tốc độ sinh sôi của lũ quái vật nên hoàn toàn không phải là chuyện xấu.
 
@@ -62,7 +62,7 @@ Nhờ những hành động quy mô lớn của Mystic, ngay cả các kỹ năn
 
 'Vậy nếu các thành viên của Long Sào tiêu diệt kẻ thù......'
 
-Nhắm mắt lại và phân tích ký lục của chính mình, anh tìm ra câu trả lời khá nhanh chóng. Không chỉ ký lục của kẻ thù, anh phát hiện ra mình còn nhận được một chút điểm kinh nghiệm. Bởi bầy rồng thuộc về Long Sào lúc này đang chiến đấu với vô số quái vật, ký lục của anh vẫn liên tục tích lũy dù bản thân chẳng phải làm gì nhiều.
+Nhắm mắt lại và phân tích ghi chép của chính mình, anh tìm ra câu trả lời khá nhanh chóng. Không chỉ ghi chép của kẻ thù, anh phát hiện ra mình còn nhận được một chút điểm kinh nghiệm. Bởi bầy rồng thuộc về Long Sào lúc này đang chiến đấu với vô số quái vật, ghi chép của anh vẫn liên tục tích lũy dù bản thân chẳng phải làm gì nhiều.
 
 'Thì ra đây là lý do tại sao thủ lĩnh của mỗi phe phái lại ở một đẳng cấp hoàn toàn khác biệt so với các thành viên;'
 
@@ -76,7 +76,7 @@ Vậy thì làm sao Michael lại có thể sở hữu sức mạnh ngang ngửa
 
 Không, nhìn vào cung cách hung hăng thường ngày của Michael, hắn không giống kiểu người sẽ nói dối về chuyện đó. Chẳng phải Yu IlHan tha mạng cho Michael chính là để kiềm chế Satan sao?
 
-'Có thể xảy ra nếu Thượng Đế giao lại toàn bộ ký lục cùng quyền năng của ngài cho hắn nắm giữ.'
+'Có thể xảy ra nếu Thượng Đế giao lại toàn bộ ghi chép cùng quyền năng của ngài cho hắn nắm giữ.'
 
 Nhưng hắn lại quá yếu để điều đó là sự thật. Dù Michael có bất lợi trước Yu IlHan về mặt thuộc tính đến đâu chăng nữa, hắn cũng không thể bị Yu IlHan đánh bại dễ dàng như thế. Vậy thì chỉ còn lại một câu trả lời duy nhất.
 
@@ -84,9 +84,9 @@ Phân chia.
 
 'Nếu nghĩ kỹ lại, dù đã bị mình tiêu diệt, Raphael cũng mạnh một cách phi lý. Hắn sở hữu năng lực trị liệu vượt xa các thực thể chuyển chức 7 khác tới cả vạn dặm. Nếu tình thế không nghiêng hẳn về phía mình, có lẽ mình đã bỏ lỡ cơ hội kết liễu hắn rồi.'
 
-Trong trường hợp đó, rất có khả năng sức mạnh và ký lục của Thượng Đế đã được phân chia cho tứ Đại Thiên Thần của Thiên giới — Michael, Raphael, Gabriel và Uriel. Trong số họ, Raphael đã chết còn Michael thì có thể bị áp chế bất cứ lúc nào, nên những kẻ còn lại có tiềm năng trở thành mối đe dọa chính là Gabriel và Uriel.
+Trong trường hợp đó, rất có khả năng sức mạnh và ghi chép của Thượng Đế đã được phân chia cho tứ Đại Thiên Thần của Thiên giới — Michael, Raphael, Gabriel và Uriel. Trong số họ, Raphael đã chết còn Michael thì có thể bị áp chế bất cứ lúc nào, nên những kẻ còn lại có tiềm năng trở thành mối đe dọa chính là Gabriel và Uriel.
 
-'Tạm gác Uriel sang một bên vì mình chẳng có chút ký lục nào về kẻ đó, nhưng chuyện Gabriel sở hữu năng lực tiên tri cứ khiến mình canh cánh trong lòng. Tiên tri, thấu thị sao...... không thể nào như thế được, chắc chắn không thể nào có khả năng đó, nhưng nó vẫn làm mình bận tâm.'
+'Tạm gác Uriel sang một bên vì mình chẳng có chút ghi chép nào về kẻ đó, nhưng chuyện Gabriel sở hữu năng lực tiên tri cứ khiến mình canh cánh trong lòng. Tiên tri, thấu thị sao...... không thể nào như thế được, chắc chắn không thể nào có khả năng đó, nhưng nó vẫn làm mình bận tâm.'
 
 Từ một khoảnh khắc nào đó, một mối hoài nghi gần như chắc chắn đã nhen nhóm trong lòng Yu IlHan. Nó quá đỗi phi lý để trở thành sự thật, nhưng trực giác lại không ngừng cảnh báo anh mỗi khi anh cố gạt bỏ nó hoàn toàn. Vậy nên giải pháp sẽ là ngừng suy nghĩ về nó cho đến khi anh thực sự kiểm chứng được...... nhưng nếu mọi chuyện dễ dàng như thế thì anh đã chẳng phải bận tâm về những điều này rồi.
 

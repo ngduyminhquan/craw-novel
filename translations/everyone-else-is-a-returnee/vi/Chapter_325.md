@@ -2,7 +2,7 @@
 
 Về mặt thuộc tính, Michael vốn đã thua kém Yu IlHan, dù ngay cả trước khi trở thành Kẻ Siêu Việt, hắn đã sở hữu đủ sức mạnh để đối đầu trực diện với thủ lĩnh của các thế lực khác. Thế nhưng, hắn lại chẳng thể làm gì trước Yu IlHan, nên khoảnh khắc nhận ra điều đó, hắn không còn lựa chọn nào khác ngoài việc rút lui. Hơn nữa, hắn biết rõ Yu IlHan đã cố tình tha mạng cho mình, vậy nên làm sao hắn có thể không cảm thấy bị sỉ nhục cơ chứ!
 
-Hắn nghiến răng căm phẫn, và rốt cuộc đã trở thành một Kẻ Siêu Việt nhờ vào những ký lục gián tiếp nhận được trong lúc giao chiến với Yu IlHan. Hắn chuyển hóa toàn bộ sức mạnh nhận được từ Thượng Đế thành của riêng mình, tự mình khai phá con đường tiến vào cảnh giới cao hơn và thoát khỏi thân phận thiên thần, hệt như những gì Satan từng làm năm xưa!
+Hắn nghiến răng căm phẫn, và rốt cuộc đã trở thành một Kẻ Siêu Việt nhờ vào những ghi chép gián tiếp nhận được trong lúc giao chiến với Yu IlHan. Hắn chuyển hóa toàn bộ sức mạnh nhận được từ Thượng Đế thành của riêng mình, tự mình khai phá con đường tiến vào cảnh giới cao hơn và thoát khỏi thân phận thiên thần, hệt như những gì Satan từng làm năm xưa!
 
 [Thế nhưng, làm sao có thể......!]
 
@@ -46,7 +46,7 @@ Yu IlHan mỉm cười di chuyển. Michael vừa tạo ra những chiếc vòng
 
 Từ bỏ ý định đối đầu bằng sức mạnh thuộc tính thuần túy hay ma pháp diện rộng, hắn quyết định cô đọng ma lực lại sao? Đây là lựa chọn khôn ngoan nhất mà hắn có thể đưa ra vào lúc này. Cơn thịnh nộ không thể kiềm chế cùng nỗi nhục nhã của hắn đã bị cơn đau cuốn phăng, và lý trí xứng tầm với vị thế của một Kẻ Siêu Việt rốt cuộc cũng đã quay trở lại.
 
-[Phải, ngươi quả thực rất đáng kinh ngạc. Ngươi đã áp đảo toàn bộ những kỹ nghệ mà người khác phải tích lũy trong cả thiên niên kỷ chỉ trong vỏn vẹn một ngàn năm ngắn ngủi, rồi thăng hoa lên cảnh giới vĩ đại bằng cách tham lam nuốt trọn ký lục của bọn họ. Sau khi nhìn vào ngươi, rốt cuộc ta cũng đã nhận ra sự thiếu sót trong sức mạnh của chính mình. Nhờ có ngươi, ta rốt cuộc cũng đã có thể chạm tới cảnh giới của Kẻ Siêu Việt, cảnh giới của Thượng Đế.]
+[Phải, ngươi quả thực rất đáng kinh ngạc. Ngươi đã áp đảo toàn bộ những kỹ nghệ mà người khác phải tích lũy trong cả thiên niên kỷ chỉ trong vỏn vẹn một ngàn năm ngắn ngủi, rồi thăng hoa lên cảnh giới vĩ đại bằng cách tham lam nuốt trọn ghi chép của bọn họ. Sau khi nhìn vào ngươi, rốt cuộc ta cũng đã nhận ra sự thiếu sót trong sức mạnh của chính mình. Nhờ có ngươi, ta rốt cuộc cũng đã có thể chạm tới cảnh giới của Kẻ Siêu Việt, cảnh giới của Thượng Đế.]
 
 "Nếu ngươi cứ khen ta nhiều đến thế, ta sẽ thấy...... ngượng ngùng đấy!"
 
@@ -66,7 +66,7 @@ Yu IlHan đã nói trúng tim đen của hắn! Michael cứng đờ người v�
 
 Luồng ma lực áp đảo lần lượt ngưng tụ thành ánh sáng và hỏa diễm va chạm dữ dội vào nhau, làm bắn ra những tia lửa chói lòa tại mỗi điểm tiếp xúc. Michael, với tư cách là kẻ thống trị ánh sáng, thậm chí còn sử dụng cả những tia lửa đó làm phương tiện tấn công, nhưng Yu IlHan đã cản phá chúng mà chẳng hề tốn nhiều công sức. Những mánh khóe vặt vãnh như thế thậm chí còn chẳng thể để lại một vết xước trên Hỏa Hồn Long Thân.
 
-[Nếu ngươi sử dụng ký lục của mình làm vũ khí, thì ta cũng thế. Ta đã trở thành kẻ thống trị duy nhất của Thiên giới. Vạn vật đều tôn sùng ta. Sao ngươi không thử dùng ngọn lửa oai phong lẫm liệt của mình để bẻ gãy ánh sáng của ta xem? Khoảnh khắc nó không thể khuất phục ánh sáng nữa cũng chính là lúc ngươi phải chịu thảm bại.]
+[Nếu ngươi sử dụng ghi chép của mình làm vũ khí, thì ta cũng thế. Ta đã trở thành kẻ thống trị duy nhất của Thiên giới. Vạn vật đều tôn sùng ta. Sao ngươi không thử dùng ngọn lửa oai phong lẫm liệt của mình để bẻ gãy ánh sáng của ta xem? Khoảnh khắc nó không thể khuất phục ánh sáng nữa cũng chính là lúc ngươi phải chịu thảm bại.]
 
 "Chà, để xem sao nhé? Thật thế không đấy?"
 
@@ -112,11 +112,11 @@ Sau một đợt giao tranh ngắn, Yu IlHan tung cú đá vào người Michael
 
 [Cái, ngươi.......]
 
-Giới hạn về số lượng dòng thuộc tính hay sự xung đột ma lực đã không còn tồn tại đối với anh nữa. Mọi thứ trong ký lục của Yu IlHan tụ hội lại làm một và thăng hoa vào trong ngọn giáo. Bên trong lãnh địa của Hiển Hiện, Yu IlHan nắm giữ tầm ảnh hưởng tuyệt đối, và anh đã sử dụng kỹ năng Tuyên Cáo để khơi dậy Sáng Tạo bằng chính mana của mình!
+Giới hạn về số lượng dòng thuộc tính hay sự xung đột ma lực đã không còn tồn tại đối với anh nữa. Mọi thứ trong ghi chép của Yu IlHan tụ hội lại làm một và thăng hoa vào trong ngọn giáo. Bên trong lãnh địa của Hiển Hiện, Yu IlHan nắm giữ tầm ảnh hưởng tuyệt đối, và anh đã sử dụng kỹ năng Tuyên Cáo để khơi dậy Sáng Tạo bằng chính mana của mình!
 
 [Sáng Tạo đang kích hoạt.]
 
-[Một cảnh giới Sáng Tạo mới được khai phá thông qua việc kết hợp các ký lục.]
+[Một cảnh giới Sáng Tạo mới được khai phá thông qua việc kết hợp các ghi chép.]
 
 Thần? Vĩnh Cửu? Chúng chỉ là những phẩm cấp đã từng tồn tại cho đến tận lúc này mà thôi. Giờ đây, ngọn giáo đang được kiến tạo bên trong bàn tay của Yu IlHan đã vượt xa khỏi cảnh giới có thể miêu tả bằng ngôn từ.
 
@@ -126,7 +126,7 @@ Thần? Vĩnh Cửu? Chúng chỉ là những phẩm cấp đã từng tồn t�
 
 [Kiến tạo một kỳ tích.]
 
-Các đặc tính và hình thái đều đánh mất đi ý nghĩa trước số lượng ký lục bao la khôn cùng, và nó không thể được gọi bằng bất kỳ cái tên nào, nhưng nếu để ban cho nó một cái tên thích hợp, nó sẽ chỉ có thể được gọi là ‘Thần Thương’.
+Các đặc tính và hình thái đều đánh mất đi ý nghĩa trước số lượng ghi chép bao la khôn cùng, và nó không thể được gọi bằng bất kỳ cái tên nào, nhưng nếu để ban cho nó một cái tên thích hợp, nó sẽ chỉ có thể được gọi là ‘Thần Thương’.
 
 [N, ngươi...... thứ đó là......!]
 
@@ -190,7 +190,7 @@ Ngọn giáo của Yu IlHan một lần nữa chặn đứng các đòn tấn c�
 
 [‘Ngài’ Leciel á? Không, hắn là kẻ phản bội! Một kẻ đào tẩu đã ruồng bỏ Thiên giới để chọn lũ bò sát tầm thường!]
 
-Sự biến đổi của Leciel không mất quá nhiều thời gian. Yu IlHan vốn đã rất tinh thông việc bảo tồn sức mạnh và ký lục của các thế lực khác kể từ thời điểm hồi sinh Helièna, vậy nên giờ đây khi đã trở thành Chúa Tể Long Sào, năng lực đó lại càng được khuếch đại mạnh mẽ hơn nữa.
+Sự biến đổi của Leciel không mất quá nhiều thời gian. Yu IlHan vốn đã rất tinh thông việc bảo tồn sức mạnh và ghi chép của các thế lực khác kể từ thời điểm hồi sinh Helièna, vậy nên giờ đây khi đã trở thành Chúa Tể Long Sào, năng lực đó lại càng được khuếch đại mạnh mẽ hơn nữa.
 
 Cái Nôi Kỳ Tích nứt toác ra, và Leciel bước ra từ bên trong đã trở thành một con rồng hoàn chỉnh với ba cặp cánh, trên thực tế hắn còn sở hữu sức mạnh cường đại hơn trước đây.
 

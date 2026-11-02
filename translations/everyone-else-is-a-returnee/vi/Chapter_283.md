@@ -190,7 +190,7 @@ Không chỉ vậy, anh còn phải chĩa mũi thương vào cả những kẻ c
 
 "Nếu các người đã muốn ta nhảy múa trên sân khấu do chính các người dựng nên."
 
-Yu IlHan kích hoạt Dịch Chuyển. Số lượng thực thể cấp cao mà Yu IlHan từng chạm trán cho tới nay quả thực là 'vô số', và việc tạo ra các cánh cổng dẫn tới những thế giới bậc cao mà họ từng cư ngụ dựa trên các ký lục thu thập được từ họ là điều quá đỗi dễ dàng.
+Yu IlHan kích hoạt Dịch Chuyển. Số lượng thực thể cấp cao mà Yu IlHan từng chạm trán cho tới nay quả thực là 'vô số', và việc tạo ra các cánh cổng dẫn tới những thế giới bậc cao mà họ từng cư ngụ dựa trên các ghi chép thu thập được từ họ là điều quá đỗi dễ dàng.
 
 "Ta sẽ vui lòng nhận lấy vai phản diện."
 

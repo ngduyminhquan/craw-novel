@@ -62,7 +62,7 @@ Na YuNa hốt hoảng hét lên, nhưng Helièna chỉ nhún vai.
 
 Đôi mắt Helièna ánh lên vẻ huyền bí.
 
-[Lý do chàng bảo chúng ta thu thập thật nhiều ký lục, và lý do chàng tự dấn thân vào những nơi nguy hiểm nhất, tất cả đều là vì sự thức tỉnh của chàng — chàng sẽ trở thành một thực thể cấp cao trọn vẹn, hoàn mỹ, một thủ lĩnh phe phái...... Đến lúc đó, chúng ta sẽ chẳng còn phải e sợ thủ lĩnh của các phe phái khác nữa.]
+[Lý do chàng bảo chúng ta thu thập thật nhiều ghi chép, và lý do chàng tự dấn thân vào những nơi nguy hiểm nhất, tất cả đều là vì sự thức tỉnh của chàng — chàng sẽ trở thành một thực thể cấp cao trọn vẹn, hoàn mỹ, một thủ lĩnh phe phái...... Đến lúc đó, chúng ta sẽ chẳng còn phải e sợ thủ lĩnh của các phe phái khác nữa.]
 
 "Đến lúc đó mọi thứ thực sự sẽ đổi khác saooo~?"
 
@@ -150,7 +150,7 @@ Liera, Helièna và Orochi bước qua kết giới. Ngay cả trước một co
 
 Vị trí đội hình hết sức hoàn hảo. Phía sau họ là Kim YeSeul, Kang MiRae và Erta đang chuẩn bị ma pháp. Mục tiêu của họ là tìm ra điểm yếu và kiềm chế hành động của nó thay vì gây sát thương. Sinh vật tựa thiên thần với đôi cánh và vòng hào quang vặn xoắn dường như cũng nhận thấy luồng khí tức tỏa ra từ họ.
 
-[Nâng mức năng lực dự kiến của những kẻ dị thường. Đang tải thêm ký lục từ Hồ Sơ.]
+[Nâng mức năng lực dự kiến của những kẻ dị thường. Đang tải thêm ghi chép từ Hồ Sơ.]
 
 Nó vẫn lảm nhảm mấy lời vô nghĩa. Thế nhưng, có một điều chắc chắn. Lũ côn đồ đột ngột nhảy xổ ra từ hư không rồi lải nhải về kẻ dị thường này nọ trong tiểu thuyết hay phim ảnh thường nắm chắc phần mười là kẻ chủ mưu giật dây mọi chuyện phía sau!
 

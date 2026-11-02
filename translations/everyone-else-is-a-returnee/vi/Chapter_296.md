@@ -4,7 +4,7 @@
 
 Michael thoáng chốc hoảng loạn. Ngài ấy nhận ra phong ấn mà mình đã khắc lên nhằm truy dấu Yu IlHan đã hoàn toàn biến mất. Thấy cảnh đó, Yu IlHan chỉ bật cười.
 
-"Chẳng lẽ các ông lại nghĩ tôi không hề hay biết gì sao? Thứ các ông đã lợi dụng trong quá trình tạo ra phong ấn là ngọn lửa và ký lục. Mà tôi thì đều vượt trội hơn các ông ở cả hai phương diện đó rồi."
+"Chẳng lẽ các ông lại nghĩ tôi không hề hay biết gì sao? Thứ các ông đã lợi dụng trong quá trình tạo ra phong ấn là ngọn lửa và ghi chép. Mà tôi thì đều vượt trội hơn các ông ở cả hai phương diện đó rồi."
 
 [......Cái gì?]
 
@@ -66,7 +66,7 @@ Michael cũng nhìn ngài ấy với ánh mắt thoáng chút căng thẳng. Có
 
 Yu IlHan không khỏi thán phục khi thấy Raphael vẫn tương đối bình yên vô sự dù chỉ mới một thoáng trước trông ngài ấy như thể sắp chết đến nơi.
 
-Thế nhưng, bấy nhiêu đó là đã đủ. Nội tạng, xương cốt, máu thịt, dòng máu trắng muốt cùng những chiếc lông vũ trắng bám trên ngọn hỏa thương đã cho phép anh thu được mọi ký lục cần thiết từ ngài ấy.
+Thế nhưng, bấy nhiêu đó là đã đủ. Nội tạng, xương cốt, máu thịt, dòng máu trắng muốt cùng những chiếc lông vũ trắng bám trên ngọn hỏa thương đã cho phép anh thu được mọi ghi chép cần thiết từ ngài ấy.
 
 [......Michael, đừng nói là lý do ngươi đến đây là.]
 
@@ -132,7 +132,7 @@ Dù bản thân không muốn đồng tình với bọn chúng, nhưng ngay cả
 
 [Bạn đã hội đủ tư cách.]
 
-[Toàn bộ ký lục của bạn quy tụ. Bạn được ghi chép mới trong thế giới độc nhất này.]
+[Toàn bộ ghi chép của bạn quy tụ. Bạn được ghi chép mới trong thế giới độc nhất này.]
 
 "Này."
 
@@ -156,7 +156,7 @@ Cái Nôi Kỳ Tích bộc phát bành trướng kích thước rồi bao bọc 
 
 [Mọi chúc phúc từ các vị thần bạn từng nhận đều bị hủy bỏ. Giờ đây bạn có quyền thống trị trực tiếp đối với các thuộc tính đó.]
 
-[Hiệu quả của danh hiệu 'Kẻ Vượt Trội' được thêm vào các ký lục. Bạn không còn bị ràng buộc bởi bất kỳ điều gì nữa.]
+[Hiệu quả của danh hiệu 'Kẻ Vượt Trội' được thêm vào các ghi chép. Bạn không còn bị ràng buộc bởi bất kỳ điều gì nữa.]
 
 Ngọn Lửa Vĩnh Cửu chỉ vui sướng hòa hợp ý thức cùng chủ nhân của mình, nhưng Echjar vẫn không thể tin nổi dù bản thân đang nằm ngay tại trung tâm của tất cả những điều này.
 
@@ -192,7 +192,7 @@ Ngọn hỏa thương do Michael phóng ra đã bị Anafière chặn đứng. V
 
 Chiến trường có hỗn loạn đến mức nào đi chăng nữa thì Yu IlHan cũng chẳng mảy may bận tâm. Điều quan trọng đối với anh vào lúc này chỉ có bản thân mình mà thôi.
 
-Mọi thứ anh đã ghi nhớ và khắc ghi kể từ khoảnh khắc chào đời, sức mạnh của các thực thể cấp cao, và mảnh vỡ Thượng Đế mà cuối cùng anh cũng đoạt được từ Raphael! Những ký lục cùng cội nguồn sức mạnh thống trị và tiến hóa các thế giới mà anh đã thu thập được từ vô số thế giới bậc cao!
+Mọi thứ anh đã ghi nhớ và khắc ghi kể từ khoảnh khắc chào đời, sức mạnh của các thực thể cấp cao, và mảnh vỡ Thượng Đế mà cuối cùng anh cũng đoạt được từ Raphael! Những ghi chép cùng cội nguồn sức mạnh thống trị và tiến hóa các thế giới mà anh đã thu thập được từ vô số thế giới bậc cao!
 
 Một dòng chữ đơn độc hiện lên trên võng mạc của Yu IlHan.
 

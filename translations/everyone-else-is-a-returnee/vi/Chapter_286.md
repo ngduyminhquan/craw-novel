@@ -172,7 +172,7 @@ Yu IlHan nở một nụ cười lạnh lùng rồi hỏi ngược lại.
 
 [...Ngươi dám khinh thường ta ư!]
 
-Giọng hắn run rẩy. Tuy nhiên, Yu IlHan đã nắm chắc trong tay sự thật. Anh đã liếm máu thiên thần và hấp thụ những ký lục. Việc thay đổi ký lục của chính mình để sẵn sàng đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ bất cứ lúc nào. Nói cách khác, là một kẻ phản bội.
+Giọng hắn run rẩy. Tuy nhiên, Yu IlHan đã nắm chắc trong tay sự thật. Anh đã liếm máu thiên thần và hấp thụ những ghi chép. Việc thay đổi ghi chép của chính mình để sẵn sàng đào tẩu sang Quân Đội Ánh Sáng Rực Rỡ bất cứ lúc nào. Nói cách khác, là một kẻ phản bội.
 
 Và hắn chắc chắn là một 'kẻ phản bội'. Có lẽ kẻ mà anh đang đối đầu là một nhân vật cộm cán trong phe phản bội từng hành động chống lại anh và các thiên thần của anh.
 

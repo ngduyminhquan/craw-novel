@@ -42,7 +42,7 @@ Chẳng đời nào bọn chúng đều thốt ra những lời thoại khác nh
 
 Bởi vì họ đã giao chiến với quá nhiều thực thể cấp cao, nên lũ rồng, long tộc, hay Long Quân do Yumir dẫn dắt liên tục sản sinh ra những con rồng thực thụ chuyển chức 5, và điều này rốt cuộc cũng trở thành một chuyện chẳng mấy bất ngờ.
 
-Kẻ nhận được sự chú ý của Yu IlHan chỉ có First, sau trường hợp của Ruby. Còn lại anh chẳng buồn bận tâm. Cái Nôi Kỳ Tích lúc này đã hấp thụ quá nhiều ký lục và thực hiện nghi thức vô số lần đến mức nó có thể tiến hóa các thực thể cấp thấp thành thực thể cấp cao mà chẳng cần phải hiện hình vật chất!
+Kẻ nhận được sự chú ý của Yu IlHan chỉ có First, sau trường hợp của Ruby. Còn lại anh chẳng buồn bận tâm. Cái Nôi Kỳ Tích lúc này đã hấp thụ quá nhiều ghi chép và thực hiện nghi thức vô số lần đến mức nó có thể tiến hóa các thực thể cấp thấp thành thực thể cấp cao mà chẳng cần phải hiện hình vật chất!
 
 [Phụ thân, con nữa!]
 
@@ -86,7 +86,7 @@ Mọi biến chuyển đều đang diễn ra đồng thời, nên việc anh mi�
 
 Lẽ dĩ nhiên, Kang MiRae cũng đã đạt tới chuyển chức 7 trong trận chiến này. Dù sao đi nữa, tất cả đều nhờ có cô mà những người khác mới có thể chiến đấu theo cách này!
 
-Lúc này, lượng kinh nghiệm và ký lục mà cô thu được chỉ đứng thứ hai sau thủ lĩnh Yu IlHan. Đương nhiên, số lượng cánh cổng cô có thể thao túng cũng tăng lên theo cấp số nhân, và đẳng cấp sức mạnh của cô hoàn toàn không thể đem ra so sánh với chính mình của ngày hôm qua.
+Lúc này, lượng kinh nghiệm và ghi chép mà cô thu được chỉ đứng thứ hai sau thủ lĩnh Yu IlHan. Đương nhiên, số lượng cánh cổng cô có thể thao túng cũng tăng lên theo cấp số nhân, và đẳng cấp sức mạnh của cô hoàn toàn không thể đem ra so sánh với chính mình của ngày hôm qua.
 
 "Mở càng nhiều càng tốt! [Ngươi sẽ có thể làm được nhiều hơn những gì ngươi tưởng tượng!] [Ngươi sẽ thay mặt ta thi triển sức mạnh của ta!]"
 
@@ -188,7 +188,7 @@ Yu IlHan, người đã gom toàn bộ lượng mana tràn trề của Daréu, �
 
 Cả thế giới nhuốm một màu trắng xóa, và tất cả mọi người đều nhắm nghiền mắt lại. Một lượng mana kinh thiên động địa rung chuyển dữ dội và khuấy đảo tâm trí của họ.
 
-Ký lục trở nên hỗn loạn, các thế giới rung chuyển, và mana bị tiêu hao sạch trơn. Thứ từng tồn tại thì tiêu vong, thứ chưa từng tồn tại lại được sinh ra; những gì từng được ghi chép đều bị xóa bỏ, trong khi các ký lục mới lại được tạo thành.
+Ghi chép trở nên hỗn loạn, các thế giới rung chuyển, và mana bị tiêu hao sạch trơn. Thứ từng tồn tại thì tiêu vong, thứ chưa từng tồn tại lại được sinh ra; những gì từng được ghi chép đều bị xóa bỏ, trong khi các ghi chép mới lại được tạo thành.
 
 [Khààààààààààààààààààààààààààààààààààààààààààààààààààk!]
 

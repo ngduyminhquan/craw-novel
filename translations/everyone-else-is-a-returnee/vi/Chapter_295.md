@@ -226,7 +226,7 @@ Ngọn lửa bùng lên từ cơ thể ngài ấy. Cùng lúc đó, một ngọn
 
 Yu IlHan biết rất rõ tại sao điều này lại xảy ra.
 
-Hỏa Tâm, thứ được sử dụng trong việc tạo ra Hỏa Hồn. Vật phẩm đó chứa đựng những ký lục từ khi nó còn nằm bên trong ngân khố của Quân Đội Thiên Giới, và Raphael đã bí mật kích động những ký lục ấy trong lúc hành động cùng Yu IlHan để thi triển một ma pháp.
+Hỏa Tâm, thứ được sử dụng trong việc tạo ra Hỏa Hồn. Vật phẩm đó chứa đựng những ghi chép từ khi nó còn nằm bên trong ngân khố của Quân Đội Thiên Giới, và Raphael đã bí mật kích động những ghi chép ấy trong lúc hành động cùng Yu IlHan để thi triển một ma pháp.
 
 Và Michael đã kích hoạt ma pháp đó. Đó là một ma pháp hoàn hảo được tạo ra chỉ duy nhất nhằm vô hiệu hóa thuật ẩn thân của Yu IlHan!
 

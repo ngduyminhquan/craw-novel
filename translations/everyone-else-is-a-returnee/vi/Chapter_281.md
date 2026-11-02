@@ -190,7 +190,7 @@ Yu IlHan nhìn xuống Trái Đất đang chậm rãi xoay vần cùng những b
 
 Sau đó, nhóm người du hành qua vô số thế giới khác nhau. Những thế giới nơi mọi người sống trong bình yên; những thế giới nơi ai nấy đều liều mạng chiến đấu theo cách riêng của mình; những thế giới nơi chiến tranh đã lùi vào dĩ vãng; những thế giới nơi họ tìm ra phương thức giao tiếp với quái vật; những thế giới tận thế; những thế giới đang hấp hối; và những thế giới đã chết hẳn.
 
-Kỹ năng Ký Lục của Yu IlHan tham lam tìm kiếm và hút cạn những ký lục mới, đồng thời vô số người cũng được Yu IlHan cứu thoát. Thêm nhiều "con thiêu thân" mong muốn bảo vệ Trái Đất gia nhập, nhưng những kẻ mà anh bắt gặp thường xuyên nhất lại chẳng phải họ.
+Kỹ năng Ký Lục của Yu IlHan tham lam tìm kiếm và hút cạn những ghi chép mới, đồng thời vô số người cũng được Yu IlHan cứu thoát. Thêm nhiều "con thiêu thân" mong muốn bảo vệ Trái Đất gia nhập, nhưng những kẻ mà anh bắt gặp thường xuyên nhất lại chẳng phải họ.
 
 "Xin hãy đưa chúng tôi theo cùng với!"
 
@@ -264,6 +264,6 @@ Cuộc chiến ở Bức Tường Hỗn Loạn vừa mới diễn ra cách đây
 
 Thời gian thấm thoát thoi đưa. Yu IlHan cùng các đồng đội đã trải qua thêm khoảng mười đợt đặc huấn nữa bên trong kết giới của Đồng Hồ Cát Vĩnh Hằng. Dẫu vậy, Yu IlHan vẫn chưa thể chạm tới cảnh giới của thực thể cấp cao. Anh vẫn còn thiếu một yếu tố mang tính quyết định.
 
-Rốt cuộc, Yu IlHan đi đến kết luận rằng anh cần phải thu thập thêm ký lục của các thực thể cấp cao.
+Rốt cuộc, Yu IlHan đi đến kết luận rằng anh cần phải thu thập thêm ghi chép của các thực thể cấp cao.
 
 [← Chương trước](Chapter_280.md) | [Chương tiếp theo →](Chapter_282.md)

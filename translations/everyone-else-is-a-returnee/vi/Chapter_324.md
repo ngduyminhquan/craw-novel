@@ -14,7 +14,7 @@ Cùng với kỹ năng Tuyên Cáo, kỹ năng Hiển Hiện được kích ho�
 
 "Tôi đã cải biên lại rồi nên không sao đâu."
 
-Yu IlHan không còn là một thực thể cấp thấp nữa. Anh là chủ nhân của thế giới bao la mang tên Daréu, và cũng là chúa tể của muôn loài rồng! Ký lục của anh sâu không thấy đáy và bao la khôn cùng, đương nhiên trữ lượng mana anh sở hữu cũng ở một chiều không gian hoàn toàn khác so với trước đây. Khi luồng mana như thế chiếm lấy một phần Thiên giới, điều gì sẽ xảy ra? Mọi sinh linh, nghĩa là toàn bộ thiên thần của Thiên giới, đều nhận ra sự hiện diện của anh.
+Yu IlHan không còn là một thực thể cấp thấp nữa. Anh là chủ nhân của thế giới bao la mang tên Daréu, và cũng là chúa tể của muôn loài rồng! Ghi chép của anh sâu không thấy đáy và bao la khôn cùng, đương nhiên trữ lượng mana anh sở hữu cũng ở một chiều không gian hoàn toàn khác so với trước đây. Khi luồng mana như thế chiếm lấy một phần Thiên giới, điều gì sẽ xảy ra? Mọi sinh linh, nghĩa là toàn bộ thiên thần của Thiên giới, đều nhận ra sự hiện diện của anh.
 
 [Chuyện này, thật vô lý......!]
 
@@ -32,7 +32,7 @@ Yu IlHan hét lên đầy thỏa mãn khi nhìn thấy các thiên thần đang 
 
 Những lời lẽ nhẹ tênh như thế chẳng phải thứ mà bất kỳ ai có thể ngờ tới từ thủ lĩnh của cả một tổ chức. Nhưng,
 
-[Chiêu mộ thành viên mới gia nhập Long Sào! Chỉ cần ký lục của các ngươi còn nguyên vẹn, dẫu có đọa lạc hoàn toàn thành thực thể cấp thấp cũng chẳng sao cả! Từ một thiên thần hóa thành một con rồng, cơ hội được tái sinh thành phiên bản ngầu lòi hơn của chính mình! Cơ hội không có nhiều và thời gian cũng chẳng còn bao lâu, hãy nhanh tay giành lấy tấm vé cho mình khi số lượng vẫn còn!]
+[Chiêu mộ thành viên mới gia nhập Long Sào! Chỉ cần ghi chép của các ngươi còn nguyên vẹn, dẫu có đọa lạc hoàn toàn thành thực thể cấp thấp cũng chẳng sao cả! Từ một thiên thần hóa thành một con rồng, cơ hội được tái sinh thành phiên bản ngầu lòi hơn của chính mình! Cơ hội không có nhiều và thời gian cũng chẳng còn bao lâu, hãy nhanh tay giành lấy tấm vé cho mình khi số lượng vẫn còn!]
 
 [Cái gì......?]
 
@@ -228,7 +228,7 @@ Michael phóng thích một luồng sáng chói lòa đến hoa mắt. Đúng nh
 
 Mọi người đều nhận ra. Đó không chỉ đơn thuần là ma lực thuần khiết. Đó là hiện tượng xảy ra khi một sinh mệnh bước chân vào một cảnh giới mới.
 
-Michael lúc này từ một kẻ hành quyết làm việc cho ngài đã chạm tới vị thế của Thượng Đế. Hắn tiếp nhận sức mạnh của Thượng Đế, hấp thụ toàn bộ ký lục cần thiết để thăng cấp và bước chân vào cảnh giới của các thực thể tối cao!
+Michael lúc này từ một kẻ hành quyết làm việc cho ngài đã chạm tới vị thế của Thượng Đế. Hắn tiếp nhận sức mạnh của Thượng Đế, hấp thụ toàn bộ ghi chép cần thiết để thăng cấp và bước chân vào cảnh giới của các thực thể tối cao!
 
 [Thượng Đế mà các ngươi hằng mong muốn đang ở ngay đây. Các ngươi không cần phải hoài nghi, cũng không phải lo sợ. Các ngươi hãy đi theo ta!]
 

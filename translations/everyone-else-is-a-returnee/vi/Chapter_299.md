@@ -152,7 +152,7 @@ Siêu Việt Quỹ Đạo không chỉ áp dụng cho những nhát đâm chém 
 
 [Bạn đã nhận được điểm kinh nghiệm.]
 
-[Bạn đã nhận được ký lục của Hillutonne Lv 571.]
+[Bạn đã nhận được ghi chép của Hillutonne Lv 571.]
 
 [Bạn đã đạt cấp độ 533. Tăng 5 Sức mạnh, 3 Nhanh nhẹn, 2 Thể lực, 5 Ma pháp.]
 

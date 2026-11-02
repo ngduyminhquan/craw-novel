@@ -166,7 +166,7 @@ Giọng nói của Yu IlHan truyền vào tai tất cả mọi người. Liera, 
 
 Thánh địa được kích hoạt. Chịu sự tác động của Yu IlHan, thánh địa lập tức lan rộng khắp lĩnh vực kỹ năng Hiển Hiện của Yu IlHan, và ở ngay trung tâm của tất cả, Na YuNa cắn chặt môi trong đau đớn. Kang MiRae mở mắt và giơ hai tay lên.
 
-Lấy cô làm trung tâm, một lượng mana khổng lồ gợn sóng lan tỏa. Yu IlHan đã truyền cho cô ký lục về những thế giới đó. Việc còn lại là mở các cánh cổng kết nối tới những thế giới ấy.
+Lấy cô làm trung tâm, một lượng mana khổng lồ gợn sóng lan tỏa. Yu IlHan đã truyền cho cô ghi chép về những thế giới đó. Việc còn lại là mở các cánh cổng kết nối tới những thế giới ấy.
 
 [Tôi hứa. Nếu còn sống sót, tất cả mọi người sẽ đạt được sự trưởng thành vượt bậc. Có lẽ tất cả mọi người ở đây đều có thể trở thành thực thể cấp cao. Tới lúc đó... chúng ta nhất định sẽ chiến thắng.]
 

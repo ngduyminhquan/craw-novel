@@ -10,7 +10,7 @@
 
 "Dĩ nhiên rồi. Kẻ đập tan mọi phục bút và tái tạo chúng thành cái mới. Chính là ta."
 
-Dù nghe có vẻ khá ngầu, nhưng thực chất anh chỉ sở hữu một năng lực sáng tạo quái đản mà thôi. Yu IlHan thu thập các ký lục từ tàn tích của 'Legna' vốn đang tự phân hủy theo thiết lập từ trước của Thượng Đế, rồi lặp lại quá trình đó khoảng ba bốn lần, cuối cùng kích hoạt năng lực sáng tạo để ngăn chặn sự sụp đổ và khôi phục nó lại nguyên vẹn. Thật là một năng lực quỷ dị!
+Dù nghe có vẻ khá ngầu, nhưng thực chất anh chỉ sở hữu một năng lực sáng tạo quái đản mà thôi. Yu IlHan thu thập các ghi chép từ tàn tích của 'Legna' vốn đang tự phân hủy theo thiết lập từ trước của Thượng Đế, rồi lặp lại quá trình đó khoảng ba bốn lần, cuối cùng kích hoạt năng lực sáng tạo để ngăn chặn sự sụp đổ và khôi phục nó lại nguyên vẹn. Thật là một năng lực quỷ dị!
 
 Số lượng sinh thể thiên thần kỳ dị phải hy sinh trong quá trình đó là năm con. Sau đó, toàn bộ những phần tàn tích còn lại đều trải qua quá trình phân tích, tháo dỡ và tái tạo để trở lại nguyên vẹn như ban đầu. Đương nhiên, kỹ năng Tuyên Cáo (kỹ năng này tăng cấp vì nó là phiên bản cấp cao hơn của kỹ năng Ký Lục) đã tăng trưởng vượt bậc cho đến khi chững lại ở cấp 52.
 
@@ -164,7 +164,7 @@ Vậy thì, phương pháp duy nhất còn lại là thay đổi hoàn toàn c�
 
 "Cái Nôi Kỳ Tích."
 
-Một khối trụ màu đỏ khổng lồ xuất hiện giữa không trung. Cái Nôi Kỳ Tích đã phát triển nhờ những ký lục thu được trong quá trình tiến hóa các bạn đồng hành cùng những thuộc hạ khác của Yu IlHan thành thực thể cấp cao, đồng thời biến đổi hình dạng đôi chút theo ý muốn của Yu IlHan, và sau vài phút biến đổi, nó đã biến thành một lò luyện khổng lồ.
+Một khối trụ màu đỏ khổng lồ xuất hiện giữa không trung. Cái Nôi Kỳ Tích đã phát triển nhờ những ghi chép thu được trong quá trình tiến hóa các bạn đồng hành cùng những thuộc hạ khác của Yu IlHan thành thực thể cấp cao, đồng thời biến đổi hình dạng đôi chút theo ý muốn của Yu IlHan, và sau vài phút biến đổi, nó đã biến thành một lò luyện khổng lồ.
 
 "Lay."
 

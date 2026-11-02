@@ -44,7 +44,7 @@ Tuy nhiên, đây cũng là sơ suất của chính anh. Giờ còn biết bới
 
 "IlHan, ý cậu là cậu sẽ đánh lạc hướng bọn họ trong lúc Kang MiRae kích hoạt ma pháp sao?"
 
-"Không sao đâu. Tôi đã nắm giữ phần lớn các ký lục của bọn chúng rồi. Nếu chỉ đến cấp độ chuyển chức 6 thì tôi vẫn sẽ an toàn."
+"Không sao đâu. Tôi đã nắm giữ phần lớn các ghi chép của bọn chúng rồi. Nếu chỉ đến cấp độ chuyển chức 6 thì tôi vẫn sẽ an toàn."
 
 "Ngầu... ngầu quá đi mất."
 

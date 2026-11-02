@@ -10,9 +10,9 @@ Cảm thấy vô cùng bất an sau khi nhìn thấy Helièna đang dính chặt
 
 "Ồ."
 
-Điều này có lẽ cũng là lẽ tự nhiên. Phải rồi, hiện tại Yu IlHan mang thuộc tính gắn liền sâu sắc với loài rồng, nhưng trước đây, anh từng thu thập vô số ký lục với tư cách là một kẻ diệt rồng. Anh vẫn còn nhớ như in cảnh tượng mình đã tàn sát một ngàn con rồng khi lần đầu tiên đặt chân đến Daréu.
+Điều này có lẽ cũng là lẽ tự nhiên. Phải rồi, hiện tại Yu IlHan mang thuộc tính gắn liền sâu sắc với loài rồng, nhưng trước đây, anh từng thu thập vô số ghi chép với tư cách là một kẻ diệt rồng. Anh vẫn còn nhớ như in cảnh tượng mình đã tàn sát một ngàn con rồng khi lần đầu tiên đặt chân đến Daréu.
 
-Daréu đã tiến hóa dựa trên toàn bộ ký lục của anh làm nền tảng, vậy nên đương nhiên những quái vật mang thuộc tính diệt rồng sẽ tự nhiên sinh ra tại nơi này. Nếu đến mức ngay cả loài rồng cũng cảm nhận được nguy cơ, điều đó có nghĩa là trong số chúng cũng có cả những cá thể cấp độ cao.
+Daréu đã tiến hóa dựa trên toàn bộ ghi chép của anh làm nền tảng, vậy nên đương nhiên những quái vật mang thuộc tính diệt rồng sẽ tự nhiên sinh ra tại nơi này. Nếu đến mức ngay cả loài rồng cũng cảm nhận được nguy cơ, điều đó có nghĩa là trong số chúng cũng có cả những cá thể cấp độ cao.
 
 "Vậy thì các con sẽ càng trưởng thành hơn nữa nếu vượt qua được chúng."
 
@@ -88,7 +88,7 @@ Tầm nhìn của anh mở rộng hơn, và tiêu chuẩn của anh cũng trở 
 
 "Nhưng chuyện này có chút đáng lo ngại. Đây là một sự thay đổi mà ngay cả Tâm Bất Động tôi cũng không thể ngăn cản. Liệu đây có thực sự là một diễn biến tự nhiên? Đây có thực sự là những gì tôi đang nghĩ không?"
 
-[Nhưng chẳng phải từ trước đến nay chàng vẫn luôn thay đổi như thế sao? Chồng chất hết ký lục này đến ký lục khác, rồi tái tạo lại bản thân giữa dòng chảy ký lục cuộn trào. Đó chỉ là sự lặp lại của quá trình ấy mà thôi. Nếu chàng muốn phủ nhận điều đó, chẳng phải chàng cũng phải phủ nhận chính mình ngay từ khoảnh khắc sau khi chào đời sao?]
+[Nhưng chẳng phải từ trước đến nay chàng vẫn luôn thay đổi như thế sao? Chồng chất hết ghi chép này đến ghi chép khác, rồi tái tạo lại bản thân giữa dòng chảy ghi chép cuộn trào. Đó chỉ là sự lặp lại của quá trình ấy mà thôi. Nếu chàng muốn phủ nhận điều đó, chẳng phải chàng cũng phải phủ nhận chính mình ngay từ khoảnh khắc sau khi chào đời sao?]
 
 Yu IlHan ngậm miệng lại. Dù thỉnh thoảng anh vẫn quên mất điều này, nhưng Helièna là một sinh vật đã sống qua hàng vạn năm. Giống như lúc này, đôi khi ả khiến Yu IlHan phải kinh ngạc trước những lời lẽ của mình. Anh ngoan ngoãn gật đầu thừa nhận.
 

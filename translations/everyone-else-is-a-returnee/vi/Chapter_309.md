@@ -44,7 +44,7 @@ Vì vậy, đây chính là kỹ năng hoàn hảo cho những tình huống nh�
 
 Chẳng hề có bất kỳ dấu hiệu báo trước nào, một chiếc thùng khổng lồ đột ngột xuất hiện giữa không trung. Đó chính là tạo tác Cái Nôi Kỳ Tích, thứ từng hỗ trợ anh trong quá trình thăng hoa bước vào cảnh giới thực thể cấp cao.
 
-Chiếc thùng đã trở thành một tạo tác phẩm cấp Thần sau khi hấp thụ vô số ký lục cùng nguyên liệu, và khi Yu IlHan trở thành thực thể cấp cao, nó cũng đã biến đổi cùng anh để trở thành một thứ còn vượt trên cả cấp bậc đó.
+Chiếc thùng đã trở thành một tạo tác phẩm cấp Thần sau khi hấp thụ vô số ghi chép cùng nguyên liệu, và khi Yu IlHan trở thành thực thể cấp cao, nó cũng đã biến đổi cùng anh để trở thành một thứ còn vượt trên cả cấp bậc đó.
 
 [Đó là...... một lượng long lực thật khổng lồ.]
 
@@ -84,11 +84,11 @@ Anh nháy mắt về phía lũ sinh vật Long tộc vẫn còn đang bán tín 
 
 [Aaaaaaah.]
 
-Đúng lúc đó, tiếng rên rỉ của First vang lên. Tiếng rên ấy một nửa đến từ nỗi đau đớn khi thể xác bị biến đổi, nửa còn lại đến từ niềm hân hoan khi các ký lục của nó đang phát triển từ tận gốc rễ. Thế nhưng, Yu IlHan hiểu rõ đây mới chỉ là khởi đầu.
+Đúng lúc đó, tiếng rên rỉ của First vang lên. Tiếng rên ấy một nửa đến từ nỗi đau đớn khi thể xác bị biến đổi, nửa còn lại đến từ niềm hân hoan khi các ghi chép của nó đang phát triển từ tận gốc rễ. Thế nhưng, Yu IlHan hiểu rõ đây mới chỉ là khởi đầu.
 
 [Khặc, khặc! Đau quá! Đau quá......! Tuyệt lắm nhưng mà đau quá!]
 
-"Ngươi thấy đau hơn là điều khó tránh, bởi cả tư cách, ký lục, mana lẫn cấp độ của ngươi đều còn thiếu thốn. Muốn trở thành rồng theo đúng nghĩa chân chính, ngươi sẽ phải tăng ít nhất 10 cấp nữa."
+"Ngươi thấy đau hơn là điều khó tránh, bởi cả tư cách, ghi chép, mana lẫn cấp độ của ngươi đều còn thiếu thốn. Muốn trở thành rồng theo đúng nghĩa chân chính, ngươi sẽ phải tăng ít nhất 10 cấp nữa."
 
 [Hự, khừừừ, haaaaaaaah!]
 
@@ -142,7 +142,7 @@ Lũ quái vật tận mắt chứng kiến First thực sự chuyển hóa thàn
 
 "Các ngươi không nghĩ mọi chuyện lại dễ dàng như thế chứ? Ta chẳng biết liệu trong số các ngươi có bao nhiêu kẻ sở hữu tư cách như First đâu."
 
-Đương nhiên, toàn bộ những lời đó đều là bốc phét. Với sức mạnh mà Yu IlHan nắm giữ tại Daréu, việc biến các sinh vật Long tộc thành rồng không phải nhiệm vụ quá đỗi khó khăn. Dĩ nhiên, do phải tiêu hao sức mạnh ký lục bản thân nắm giữ, anh không thể làm điều đó vô hạn lần, nhưng nếu những kẻ trở thành rồng tích lũy thêm các ký lục mới dưới trướng anh, thì xét về tổng thể đây là một món hời chứ chẳng hề thua lỗ.
+Đương nhiên, toàn bộ những lời đó đều là bốc phét. Với sức mạnh mà Yu IlHan nắm giữ tại Daréu, việc biến các sinh vật Long tộc thành rồng không phải nhiệm vụ quá đỗi khó khăn. Dĩ nhiên, do phải tiêu hao sức mạnh ghi chép bản thân nắm giữ, anh không thể làm điều đó vô hạn lần, nhưng nếu những kẻ trở thành rồng tích lũy thêm các ghi chép mới dưới trướng anh, thì xét về tổng thể đây là một món hời chứ chẳng hề thua lỗ.
 
 "Vấn đề là chỉ những kẻ trưởng thành đến cùng mới có tư cách trở thành rồng."
 

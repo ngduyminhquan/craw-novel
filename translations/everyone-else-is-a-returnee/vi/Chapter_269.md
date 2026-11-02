@@ -32,7 +32,7 @@ Nếu là bất kỳ ai khác nghe thấy, hẳn họ sẽ nghĩ Yu IlHan đang 
 
 "Đằng nào thì chuyện này cũng không tốn nhiều thời gian. Sau này sẽ còn nhiều người gia nhập với chúng ta hơn nữa."
 
-Chỉ cần nắm giữ ký lục về thế giới đó, anh chẳng gặp bất kỳ khó khăn nào khi sử dụng kỹ năng Dịch Chuyển. Điều quan trọng hơn là thuyết phục những người ở thế giới đó.
+Chỉ cần nắm giữ ghi chép về thế giới đó, anh chẳng gặp bất kỳ khó khăn nào khi sử dụng kỹ năng Dịch Chuyển. Điều quan trọng hơn là thuyết phục những người ở thế giới đó.
 
 Về phương diện này, Trấn Áp quả là một tổ chức đáng nể. Tất cả các thành viên Trấn Áp mà anh gom lại từ 13 thế giới, ngoại trừ những người đã hy sinh, đều bày tỏ ý định đi theo anh ngay cả khi anh đã giải thích tình cảnh địa ngục ở Trái Đất cho họ!
 
@@ -52,7 +52,7 @@ Vấn đề lại phát sinh ngay tại đó.
 
 "Có chuyện gì vậy?"
 
-Yun DaeHan, người đang chứng kiến Yu IlHan tiếp xúc với ký lục của thế giới — một cảnh tượng vốn dĩ đã khó tin — liền phản ứng đầy nhạy cảm. Chẳng lẽ Han YeoRang đã chết? Trong lúc lo thắt ruột, ông hoàn toàn câm nín khi nghe câu trả lời của Yu IlHan.
+Yun DaeHan, người đang chứng kiến Yu IlHan tiếp xúc với ghi chép của thế giới — một cảnh tượng vốn dĩ đã khó tin — liền phản ứng đầy nhạy cảm. Chẳng lẽ Han YeoRang đã chết? Trong lúc lo thắt ruột, ông hoàn toàn câm nín khi nghe câu trả lời của Yu IlHan.
 
 "Nhân loại nơi này gần như đã tuyệt diệt rồi."
 

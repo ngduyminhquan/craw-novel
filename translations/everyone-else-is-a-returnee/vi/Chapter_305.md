@@ -40,7 +40,7 @@ Helièna thốt ra những lời chịu thua với Mystic đang quát tháo mìn
 
 Ngay khi Liera vừa định bảo Helièna đừng quá gượng ép bản thân, cô liền hứng chịu vết thương chí mạng từ chùm tia sáng của một kẻ địch. Nếu duy trì sóng dao động ở công suất tối đa, cô đã có thể bẻ cong quỹ đạo của nó, nhưng mana của cô đâu phải vô hạn.
 
-Orochi cũng đã trở lại tiền tuyến sau khi thu hồi hai mảnh xương nhờ kẻ địch đầu tiên bỏ mạng, nhưng tất cả những gì hắn có thể làm chỉ là kiềm chân một con. Và điều này chỉ khả thi vì hắn đã hạ sát một con và thu được một phần ký lục của nó.
+Orochi cũng đã trở lại tiền tuyến sau khi thu hồi hai mảnh xương nhờ kẻ địch đầu tiên bỏ mạng, nhưng tất cả những gì hắn có thể làm chỉ là kiềm chân một con. Và điều này chỉ khả thi vì hắn đã hạ sát một con và thu được một phần ghi chép của nó.
 
 Paté, người sở hữu năng lực thao túng undead thực thể cấp cao, đang bảo vệ những người khác, nhưng cậu không ở trong tình trạng có thể tấn công. Vì vậy, nếu Helièna không làm gì đó, cả nhóm sẽ rơi vào nguy cơ bị quét sạch.
 

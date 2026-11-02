@@ -1,6 +1,6 @@
 # Chương 294: Tôi Sẽ Đạt Được – 2
 
-Dòng máu màu tro đặc quánh bắn tung tóe vào không trung. Đây chính là khoảnh khắc Daiel quyết định tấn công Raphael, và thay đổi ký lục của chính mình khi tuân theo mệnh lệnh của Satan.
+Dòng máu màu tro đặc quánh bắn tung tóe vào không trung. Đây chính là khoảnh khắc Daiel quyết định tấn công Raphael, và thay đổi ghi chép của chính mình khi tuân theo mệnh lệnh của Satan.
 
 Sự chi viện từ thế giới mà hắn có thể nhận được với tư cách là một thành viên của Quân Đội Thiên Giới đã bị cắt đứt hoàn toàn, và khoảnh khắc bản ngã ô uế của hắn lộ diện cũng chính là thời điểm Yu IlHan quyết định ra tay.
 
@@ -74,7 +74,7 @@ Và thế là chấm dứt.
 
 [Bạn đã nhận được điểm kinh nghiệm.]
 
-[Bạn đã nhận được ký lục của Daiel Lv 537.]
+[Bạn đã nhận được ghi chép của Daiel Lv 537.]
 
 [Kỹ năng Ký Lục đã đạt cấp 93.]
 

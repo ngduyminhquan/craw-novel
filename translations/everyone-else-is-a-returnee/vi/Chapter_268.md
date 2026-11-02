@@ -154,7 +154,7 @@ Quân Đội Thiên Giới, Quân Đội Ánh Sáng Rực Rỡ, Quân Đội Ma 
 
 "Vâng, nhưng con thấy hơi buồn một chút vì cảm giác như mình đang dần trở nên chai sạn trước cái chết."
 
-Yu IlHan lập tức kích hoạt Dịch Chuyển. Điểm đến của anh là thế giới Midora, nơi Đại tá Yun DaeHan cùng 39 cấp dưới đang cư ngụ. Đây là thế giới lần đầu tiên anh tìm kiếm, nhưng vì đã từng tiếp xúc với đại tá vài lần, nên việc tìm ra và ghi lại ký lục về nơi đó không mấy khó khăn.
+Yu IlHan lập tức kích hoạt Dịch Chuyển. Điểm đến của anh là thế giới Midora, nơi Đại tá Yun DaeHan cùng 39 cấp dưới đang cư ngụ. Đây là thế giới lần đầu tiên anh tìm kiếm, nhưng vì đã từng tiếp xúc với đại tá vài lần, nên việc tìm ra và thu thập ghi chép về nơi đó không mấy khó khăn.
 
 "Thế giới này là lần 2... Không, lần 3 sao?" Nhìn nồng độ mana trong không khí, Yu IlHan ước lượng rằng mình đã tới Midora thành công. Vì đã từng trải qua vô số thế giới, ngần này đối với anh lúc này chẳng là gì cả.
 

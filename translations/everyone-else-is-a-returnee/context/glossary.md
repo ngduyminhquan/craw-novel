@@ -41,7 +41,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 - Guardian Angel — danh từ chung (trong raw viết thường `guardian angels`), đã xoá ở lần dọn glossary chương 115–129 (#129)
 - Magic warrior — cụm danh từ chung viết thường (`magic warrior`) trong lời thoại, không phải tên chức nghiệp hệ thống (#132)
 - demonic beast — cụm danh từ chung viết thường chỉ ma thú, đã xoá và bác khi dịch/review chương 135 (#135)
-- record — danh từ chung đa nghĩa (ghi chép / kỷ lục), đã bác khi review chương 136–138 (#137)
+- record — danh từ chung đa nghĩa (ghi chép / kỷ lục), đã bác khi review chương 136–138 (#137). Quy ước: danh từ chung "record(s)" (ghi chép trong Hồ Sơ Akashic, ghi chép của thế giới/thực thể) luôn dịch "ghi chép", KHÔNG dùng "ký lục" viết thường; "Ký Lục" viết hoa chỉ dành cho tên kỹ năng Record
 - Battle start — câu hiệu lệnh thông thường của trọng tài, không phải thuật ngữ cố định (#146)
 - Interspatial storage — cụm danh từ chung chỉ kho chứa không gian (trong raw viết thường `interspatial storage`), không phải tên kỹ năng hệ thống (#175)
 - settled mercenary system — cụm danh từ chung viết thường trong lời thoại chỉ chế độ lính đánh thuê định cư, không phải thuật ngữ hệ thống cố định (#176)
@@ -790,7 +790,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Leader |  | Thủ Lĩnh | chức nghiệp | 296 | Chức nghiệp phụ giúp dẫn dắt, tăng cường hiệu quả khi tổ đội hoặc thống lĩnh nhiều người |
 | Dragon's Nest | Dragon’s Nest | Long Sào | tổ chức | 296 | Thế lực thực thể cấp cao thứ năm do Yu IlHan sáng lập |
 | 5th Wing | 5th Wing of Brilliant Light | Cánh Thứ 5 Của Ánh Sáng Rực Rỡ | cấp bậc | 297 | Thực thể cấp cao chuyển chức 7 thuộc Quân Đội Ánh Sáng Rực Rỡ bị Keshein nuốt chửng |
-| Declaration |  | Tuyên Cáo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Ký Lục và Thống Trị, cho phép tạo ký lục vượt trên ký lục trong lĩnh vực và hiện thực hóa ký lục chưa từng tồn tại |
+| Declaration |  | Tuyên Cáo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Ký Lục và Thống Trị, cho phép tạo ghi chép vượt trên ghi chép trong lĩnh vực và hiện thực hóa ghi chép chưa từng tồn tại |
 | Manifestation |  | Hiển Hiện | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Đọa Lạc, Long Huyết và Cộng Hưởng Long Nhân, gia tăng năng lực của vạn vật trong lĩnh vực và thi triển uy lực hủy diệt diện rộng |
 | Transcendent Trajectory | Transcendent trajectory | Siêu Việt Quỹ Đạo | kỹ năng | 297 | Kỹ năng dung hợp và tiến hóa từ Thần Lực, Bất Khả Họa Quỹ Đạo Thương, Đại Đoạn Vũ Trụ Thương, Giải Phẫu, Khai Quật và Tuyệt Đối Chuẩn Xác |
 | Lord of Dragon's Nest | Lord of Dragon’s Nest | Chúa Tể Long Sào | danh hiệu | 297 | Danh hiệu và vị thế của Yu IlHan khi trở thành người đứng đầu thế lực thực thể cấp cao Long Sào |
@@ -815,7 +815,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | Archlegna | Archlegnae | Archlegna | quái vật | 323 | Sinh thể thiên thần nhân tạo kháng mana cấp cao hơn Legna do Thượng Đế Thiên giới tạo ra |
 | Final Operation |  | Chiến Dịch Cuối Cùng | khác | 323 | Mật danh chiến dịch quy mô toàn diện chống lại các thế lực thực thể cấp cao do Yu IlHan khởi xướng |
 | Emille Bell | Emille bell; The Emille bell; The Emille Bell | Chuông Emille | khác | 323 | Quả chuông đồng thần thoại nổi tiếng của Hàn Quốc gắn liền với truyền thuyết ném đứa trẻ vào vạc đồng đúc chuông |
-| Godspear |  | Thần Thương | vật phẩm | 325 | Ngọn thương tối thượng Yu IlHan ngưng tụ từ vạn ngàn ký lục, kết hợp sức mạnh của Thần Rèn Đúc và Thần Lửa vượt qua mọi giới hạn ngôn từ và phẩm cấp |
+| Godspear |  | Thần Thương | vật phẩm | 325 | Ngọn thương tối thượng Yu IlHan ngưng tụ từ vạn ngàn ghi chép, kết hợp sức mạnh của Thần Rèn Đúc và Thần Lửa vượt qua mọi giới hạn ngôn từ và phẩm cấp |
 | Brightest-shining Star | brightest, shining, star; Brightest-shining star | Ngôi Sao Sáng Nhất | danh hiệu | 325 | Danh xưng tôn vinh Yu IlHan, vị Kẻ Thứ Năm tỏa sáng rực rỡ hơn bất kỳ ai |
 | Dimensional magic | dimensional magic | Ma pháp không gian | kỹ năng | 327 | Ma pháp thao túng không gian và thứ nguyên của Kang MiRae |
 | Great Fusion |  | Đại Dung Hợp | khác | 328 | Hiện tượng dung hợp quy mô lớn nhiều thế giới thứ nguyên vào một thế giới duy nhất |

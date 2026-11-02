@@ -12,7 +12,7 @@ Khi Yu IlHan quay người lại, con quái vật cười khúc khích.
 
 "Vụ đó tôi chỉ truyền một nửa linh hồn của cô ta vào..."
 
-[Phải. Ngươi vẫn còn thiếu sót. Đẳng cấp của ngươi, mana của ngươi, ký lục của ngươi, tất thảy mọi thứ. Dĩ nhiên, bấy nhiêu đó cũng đã quá đủ để làm kinh động tất cả bọn ta rồi.]
+[Phải. Ngươi vẫn còn thiếu sót. Đẳng cấp của ngươi, mana của ngươi, ghi chép của ngươi, tất thảy mọi thứ. Dĩ nhiên, bấy nhiêu đó cũng đã quá đủ để làm kinh động tất cả bọn ta rồi.]
 
 Gã nhận thức được điều đó thì tốt. Như trước đây, Yu IlHan vẫn chưa có năng lực tạo ra sinh mệnh từ cõi hư vô. Thế nhưng, con quái vật lại tiếp tục cất lời.
 
@@ -156,9 +156,9 @@ Về mặt này, Daréu vốn đã là một thế giới bậc cao, đồng th�
 
 Dĩ nhiên, thế giới ấy đã lập tức biến đổi chóng mặt ngay khoảnh khắc Yu IlHan vừa đặt chân tới.
 
-[Bạn đã thu thập toàn bộ ký lục của thế giới này, và đã nhận được sự phục tùng của toàn bộ cư dân nơi đây. Thế giới, Daréu, đã được xác lập làm lãnh thổ của Long Sào.]
+[Bạn đã thu thập toàn bộ ghi chép của thế giới này, và đã nhận được sự phục tùng của toàn bộ cư dân nơi đây. Thế giới, Daréu, đã được xác lập làm lãnh thổ của Long Sào.]
 
-[Tiếp nhận ký lục của bạn, Đại Tai Biến lần thứ 6 giáng xuống Daréu.]
+[Tiếp nhận ghi chép của bạn, Đại Tai Biến lần thứ 6 giáng xuống Daréu.]
 
 "Ái chà, ở đây cũng có một rắc rối nho nhỏ rồi."
 

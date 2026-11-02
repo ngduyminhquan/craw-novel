@@ -4,7 +4,7 @@
 
 [Nhưng ngay cả khi họ không trốn, chúng ta có cần phải ngăn cản không? Những kẻ đang bỏ mạng rốt cuộc cũng chỉ toàn là bọn phản bội.]
 
-[Làm sao ngươi dám chắc chắn những kẻ chết đi chỉ toàn là kẻ phản bội? Lỡ như chúng sở hữu ma pháp có thể biến đổi ký lục ngay khoảnh khắc cận kề cái chết thì sao....]
+[Làm sao ngươi dám chắc chắn những kẻ chết đi chỉ toàn là kẻ phản bội? Lỡ như chúng sở hữu ma pháp có thể biến đổi ghi chép ngay khoảnh khắc cận kề cái chết thì sao....]
 
 [Điều đó thậm chí còn vô lý hơn. Nếu một thực thể hùng mạnh nhường ấy là kẻ thù của chúng ta, thì chúng ta cũng chẳng thể làm gì được họ đâu.]
 
@@ -28,7 +28,7 @@ Dòng máu trắng văng tung tóe giữa không trung. Đó chính là bằng c
 
 "Không đâu, bọn chúng đều đang nói dối đấy."
 
-Máu của kẻ phản bội chuyển sang màu xám là lẽ thường tình. Tuy nhiên, nếu quả thực đơn giản như vậy, chẳng lẽ mọi kẻ phản bội lại không bị phát giác từ lâu rồi sao? Chẳng hạn như khi một ai đó bị thương trong lúc làm nhiệm vụ chẳng hạn. Quân Đội Ánh Sáng Rực Rỡ cùng lũ phản bội đâu có ngu ngốc đến thế. Bọn chúng đều có thể thi triển ma pháp để ngụy trang ký lục của mình.
+Máu của kẻ phản bội chuyển sang màu xám là lẽ thường tình. Tuy nhiên, nếu quả thực đơn giản như vậy, chẳng lẽ mọi kẻ phản bội lại không bị phát giác từ lâu rồi sao? Chẳng hạn như khi một ai đó bị thương trong lúc làm nhiệm vụ chẳng hạn. Quân Đội Ánh Sáng Rực Rỡ cùng lũ phản bội đâu có ngu ngốc đến thế. Bọn chúng đều có thể thi triển ma pháp để ngụy trang ghi chép của mình.
 
 "Lũ này dám to gan giở trò qua mặt mình sao?"
 
@@ -36,11 +36,11 @@ Máu của kẻ phản bội chuyển sang màu xám là lẽ thường tình. T
 
 Đầu của một kẻ phản bội vừa mới tự hào phô trương dòng máu trắng bỗng chốc nổ tung, và máu xám bắn tung tóe. Cảnh tượng ấy khiến toàn bộ thiên thần nơi thế giới này hoàn toàn chết lặng.
 
-[Chẳng lẽ các thiên thần... thực sự đang bị nhắm tới sao? Và ký lục của họ biến đổi ngay khoảnh khắc chết đi?]
+[Chẳng lẽ các thiên thần... thực sự đang bị nhắm tới sao? Và ghi chép của họ biến đổi ngay khoảnh khắc chết đi?]
 
 [Chuyện đó nghe thật vô lý, nhưng vừa rồi rõ ràng....]
 
-Sự nghi ngờ bắt đầu lan rộng trong hàng ngũ các thiên thần. Dĩ nhiên, những ai không phải kẻ phản bội sẽ chẳng bao giờ tưởng tượng nổi đối phương lại dùng ma pháp để che giấu ký lục, thế nên việc họ hoảng loạn cũng là điều dễ hiểu. Dẫu vậy, sắc mặt Liera lúc này trông chẳng dễ chịu chút nào.
+Sự nghi ngờ bắt đầu lan rộng trong hàng ngũ các thiên thần. Dĩ nhiên, những ai không phải kẻ phản bội sẽ chẳng bao giờ tưởng tượng nổi đối phương lại dùng ma pháp để che giấu ghi chép, thế nên việc họ hoảng loạn cũng là điều dễ hiểu. Dẫu vậy, sắc mặt Liera lúc này trông chẳng dễ chịu chút nào.
 
 "IlHan, cứ đà này thì...."
 

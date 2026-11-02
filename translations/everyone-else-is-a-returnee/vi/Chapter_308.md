@@ -68,7 +68,7 @@ Ngẫm lại thì khi ấy, loài rồng cũng áp đặt ách thống trị lê
 
 Yu IlHan của ngày đó cứ ngỡ mọi sinh vật Long tộc khi lên chuyển chức 4 đều sẽ tiến hóa thành rồng, nhưng nghĩ lại lúc này, điều đó hoàn toàn là điều nhảm nhí vô căn cứ.
 
-Anh nhận ra mình đã ngộ nhận từ bao giờ? Mỉa mai thay, chính là khoảnh khắc anh trở thành chúa tể của muôn loài rồng. Chỉ sau khi nắm giữ năng lực thống trị loài rồng và các ký lục của bản thân đào sâu thêm, anh mới vỡ lẽ Orochi không phải rồng mà chỉ là một sinh vật Long tộc. Việc Orochi không thể thích nghi nhanh chóng với thân xác của Echjar có lẽ cũng chịu ảnh hưởng từ sự thật này.
+Anh nhận ra mình đã ngộ nhận từ bao giờ? Mỉa mai thay, chính là khoảnh khắc anh trở thành chúa tể của muôn loài rồng. Chỉ sau khi nắm giữ năng lực thống trị loài rồng và các ghi chép của bản thân đào sâu thêm, anh mới vỡ lẽ Orochi không phải rồng mà chỉ là một sinh vật Long tộc. Việc Orochi không thể thích nghi nhanh chóng với thân xác của Echjar có lẽ cũng chịu ảnh hưởng từ sự thật này.
 
 Như vậy, theo lẽ thường, loài rồng từng sống ở Daréu hẳn đã tàn sát vô số sinh vật Long tộc vì e sợ bất kỳ cá thể Long tộc chuyển chức 4 nào cũng sẽ đe dọa ngôi vương của chúng trong tương lai. Đoạn, chúng biến những kẻ còn sót lại thành thuộc hạ dưới trướng. Bi kịch biết bao!
 
@@ -106,7 +106,7 @@ Lời lẽ của Yu IlHan chẳng có lấy nửa phần vòng vo xoa dịu. Đ�
 
 [Vậy thì...... Nếu đã thế!]
 
-Nó bùng phát khí tức. Ngọn lửa bốc lên trên đôi cánh dơi đỏ rực của nó trông có nét tương đồng với Hiệu Triệu Diệt Vong của Yu IlHan. Có lẽ ngay cả năng lực của chúng cũng tương tự nhau. Dù sao thì ký lục về Hiệu Triệu Diệt Vong cũng đã được dùng vào quá trình tiến hóa của thế giới này.
+Nó bùng phát khí tức. Ngọn lửa bốc lên trên đôi cánh dơi đỏ rực của nó trông có nét tương đồng với Hiệu Triệu Diệt Vong của Yu IlHan. Có lẽ ngay cả năng lực của chúng cũng tương tự nhau. Dù sao thì ghi chép về Hiệu Triệu Diệt Vong cũng đã được dùng vào quá trình tiến hóa của thế giới này.
 
 [Thế thì chúng ta chỉ còn cách giết chết ngươi!]
 
@@ -126,7 +126,7 @@ Yu IlHan khẽ mỉm cười khi nghe thấy giọng nói đầy hoài nghi củ
 
 [Kỹ năng Hiển Hiện kích hoạt. Tuyên cáo lãnh thổ thống trị của bạn.]
 
-Thế giới Daréu đã tìm được kẻ thống trị cho mình, rồi tiến hóa nhờ vào Yu IlHan cùng những ký lục của anh. Lần đầu tiên kỹ năng Hiển Hiện được thi triển tại chính nơi này. Một Yu IlHan vốn dĩ đã hoàn mỹ nay lại càng đẩy uy quyền tối cao của mình lên tột đỉnh, nhuộm đỏ rực cả thế giới.
+Thế giới Daréu đã tìm được kẻ thống trị cho mình, rồi tiến hóa nhờ vào Yu IlHan cùng những ghi chép của anh. Lần đầu tiên kỹ năng Hiển Hiện được thi triển tại chính nơi này. Một Yu IlHan vốn dĩ đã hoàn mỹ nay lại càng đẩy uy quyền tối cao của mình lên tột đỉnh, nhuộm đỏ rực cả thế giới.
 
 [Hự!?]
 

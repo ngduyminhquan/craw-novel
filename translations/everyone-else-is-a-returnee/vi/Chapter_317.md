@@ -126,7 +126,7 @@ Orochi gọi những ngọn lửa tím của mình ra và thử điều khiển 
 
 Mọi kẻ dưới trướng Yu IlHan có tư cách trở thành thực thể cấp cao đều được tái sinh thành rồng thông qua cùng một quá trình, nhưng không phải ai cũng có tốc độ tăng trưởng ngang nhau.
 
-Hiệu suất khác biệt tùy thuộc vào mức độ họ đồng bộ tốt đến đâu với những ký lục của Yu IlHan được truyền tải qua Cái Nôi Kỳ Tích. Liera, người yêu anh đến mức nhận được cả lời chúc phúc từ một vị Thần, sở hữu hiệu suất cao nhất, trong khi Yumir, đứa trẻ chạm tới cảnh giới thực thể cấp cao cùng lúc với anh, cũng bám đuổi sát nút ngay phía sau.
+Hiệu suất khác biệt tùy thuộc vào mức độ họ đồng bộ tốt đến đâu với những ghi chép của Yu IlHan được truyền tải qua Cái Nôi Kỳ Tích. Liera, người yêu anh đến mức nhận được cả lời chúc phúc từ một vị Thần, sở hữu hiệu suất cao nhất, trong khi Yumir, đứa trẻ chạm tới cảnh giới thực thể cấp cao cùng lúc với anh, cũng bám đuổi sát nút ngay phía sau.
 
 Và đứng ngay sau hai người họ chính là Orochi, kẻ đang đứng sững sờ kinh ngạc trước gương.
 

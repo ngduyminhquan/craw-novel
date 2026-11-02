@@ -118,7 +118,7 @@ Một triệu con rồng đồng thanh gầm vang. Yu IlHan gật đầu rồi l
 
 "Đây là bữa ăn đầu tiên của các ngươi. Ăn xong sẽ phải vận động thể lực đấy, nên liệu mà tự tranh phần cho mình đi."
 
-Dù chỉ mới ra đời vỏn vẹn hai mươi phút, bầy rồng đã có thể hiểu rằng 'vận động thể lực' của Yu IlHan không phải bài tập thể dục bình thường. Vì là những thực thể được tạo ra từ ký lục của Yu IlHan, chúng có thể thấu hiểu một cách hoàn hảo những lời nói vu vơ, vô lý của anh!
+Dù chỉ mới ra đời vỏn vẹn hai mươi phút, bầy rồng đã có thể hiểu rằng 'vận động thể lực' của Yu IlHan không phải bài tập thể dục bình thường. Vì là những thực thể được tạo ra từ ghi chép của Yu IlHan, chúng có thể thấu hiểu một cách hoàn hảo những lời nói vu vơ, vô lý của anh!
 
 [Nói cách khác, kể từ bây giờ......]
 

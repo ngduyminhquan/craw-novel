@@ -148,7 +148,7 @@ Trong lúc Liera đang ngập ngừng do dự, thì cứ như thể đã hóa th
 
 "Hiiik!?"
 
-Nếu thứ đó quả thực được tạo ra từ những ký lục của Orochi mà nó vừa mới hấp thu, cô sẽ mất mạng ngay khoảnh khắc bị đánh trúng! Theo bản năng, Liera bay vọt lên cao để né tránh. Một tiếng nổ ầm vang lên từ phía sau trước khi Mystic hét lớn.
+Nếu thứ đó quả thực được tạo ra từ những ghi chép của Orochi mà nó vừa mới hấp thu, cô sẽ mất mạng ngay khoảnh khắc bị đánh trúng! Theo bản năng, Liera bay vọt lên cao để né tránh. Một tiếng nổ ầm vang lên từ phía sau trước khi Mystic hét lớn.
 
 [Này! Tôi đang bị dính đạn lạc đấy nhé!]
 

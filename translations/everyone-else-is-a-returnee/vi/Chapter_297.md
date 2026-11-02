@@ -124,7 +124,7 @@ Anh chỉ đơn thuần tập trung để biến bản thân trở nên mạnh m
 
 [Toàn bộ chức nghiệp chính và chức nghiệp phụ biến mất trong khi các năng lực vẫn được giữ nguyên vẹn.]
 
-[Các kỹ năng Ký Lục và Thống Trị dung hợp và tiến hóa. Bạn đã nhận được kỹ năng Tuyên Cáo. Giờ đây bạn có thể tạo ra một ký lục vượt trên các ký lục bên trong lĩnh vực của mình, cũng như hiện thực hóa những ký lục chưa từng tồn tại. Quá trình này sẽ tiêu hao một lượng lớn mana.]
+[Các kỹ năng Ký Lục và Thống Trị dung hợp và tiến hóa. Bạn đã nhận được kỹ năng Tuyên Cáo. Giờ đây bạn có thể tạo ra một ghi chép vượt trên các ghi chép bên trong lĩnh vực của mình, cũng như hiện thực hóa những ghi chép chưa từng tồn tại. Quá trình này sẽ tiêu hao một lượng lớn mana.]
 
 [Các kỹ năng Đọa Lạc, Long Huyết, Cộng Hưởng Long Nhân dung hợp và tiến hóa. Bạn đã nhận được kỹ năng Hiển Hiện. Bạn có thể gia tăng năng lực của vạn vật dưới lĩnh vực của mình. Bạn có thể triển khai những năng lực mang tính hủy diệt mạnh mẽ hơn trên quy mô rộng lớn hơn khi kỹ năng này thăng cấp.]
 

@@ -1732,10 +1732,10 @@ Cảnh kết thúc: Orochi xin Yu IlHan biến thân xác rồng thành dạng n
 Kết giới một năm rưỡi tan biến, ba chủ clan nhận trang bị phẩm cấp Truyền Thuyết từ Yu IlHan rồi trở về vị trí để thích nghi với ma pháp làm chậm; Orochi càu nhàu vì chưa điều khiển trơn tru thân xác rồng mới của Echjar, trong khi Echjar bị phụ ma vào Nhân Long Thân lên tiếng giễu cợt.
 Yu IlHan chia hai đội tiếp tục hành trình: nhóm Kang MiRae, Na YuNa, Liera và phần lớn thuộc hạ lên Pháo Đài Bay; còn anh cùng mẹ Kim YeSeul, Helièna và Orochi điều khiển Pháo Đài Hộ Vệ dùng kỹ năng Dịch Chuyển đi cứu hộ tàn dư các thế giới khác.
 Trải qua hàng chục thế giới tàn lụi, Yu IlHan bất đắc dĩ tiếp nhận vô số người tị nạn cùng tàn dư tộc elf đưa về Trái Đất phồn vinh ngoài dự tính, đồng thời phát hiện dấu hiệu bất thường khi các thiên thần Quân Đội Thiên Giới hoàn toàn biến mất ở khắp các thế giới.
-Cảnh kết thúc: Trải qua thêm khoảng mười đợt đặc huấn trong kết giới của Đồng Hồ Cát Vĩnh Hằng mà vẫn chưa thể chạm tới cảnh giới thực thể cấp cao, Yu IlHan kết luận anh phải thu thập thêm ký lục của các thực thể cấp cao.
+Cảnh kết thúc: Trải qua thêm khoảng mười đợt đặc huấn trong kết giới của Đồng Hồ Cát Vĩnh Hằng mà vẫn chưa thể chạm tới cảnh giới thực thể cấp cao, Yu IlHan kết luận anh phải thu thập thêm ghi chép của các thực thể cấp cao.
 
 ## 282
-Yu IlHan quyết định phải can thiệp vào các hoạt động của thực thể cấp cao và nhắm tới các phân bộ thế giới bậc cao để thu thập thêm ký lục nhằm đột phá cảnh giới thực thể cấp cao.
+Yu IlHan quyết định phải can thiệp vào các hoạt động của thực thể cấp cao và nhắm tới các phân bộ thế giới bậc cao để thu thập thêm ghi chép nhằm đột phá cảnh giới thực thể cấp cao.
 Kim YeSeul khéo léo đuổi mọi người ra ngoài để Helièna lập kết giới nói chuyện riêng với Yu IlHan, tiết lộ sự biến mất của các thiên thần là do lộ bản doanh Quân Đội Ánh Sáng Rực Rỡ và cuộc đại chiến tranh giành Trái Đất sắp bùng nổ.
 Helièna thú nhận ả từng bị thủ lĩnh Khu Vườn Hoàng Hôn lợi dụng để lan truyền lời tiên tri về Vị Thần Thứ Năm nhằm kích động các phe phái xâu xé Trái Đất, qua đó tạo điều kiện cho IlHan trưởng thành và trở thành Thần.
 Cảnh kết thúc: Bực bội tột cùng khi phát hiện bản thân và Trái Đất bị các thế giới tính toán sắp đặt từ trước khi sinh ra, Yu IlHan quyết định chống lại số phận bằng cách tập hợp mọi người chuẩn bị tuyên chiến và đi cướp đoạt các thế giới bậc cao.
@@ -1754,7 +1754,7 @@ Cảnh kết thúc: Yu IlHan ra lệnh toàn quân lập tức vào đội hình
 ## 285
 Melohinne bàng hoàng nhận tin thế giới bí mật Tebeta của Quân Đội Ma Hủy Diệt bị Yu IlHan cướp quyền kiểm soát và làm hao hụt sức mạnh phe phái; trong khi đó, Felaère (Cánh Thứ 7 Của Ánh Sáng Rực Rỡ) cũng bị mất đột ngột mana do thế giới bị IlHan tước đoạt và bị Melohinne đánh gãy một nửa cánh.
 Cả 4 đại phe phái chấn động nhận ra một thực thể cấp thấp như Yu IlHan đang liên tục cướp các thế giới bậc cao để làm suy yếu đồng loạt tất cả các phe phái lớn cùng một lúc.
-Tại thế giới bậc cao thứ hai của Quân Đội Thiên Giới, Liera và Erta kiên quyết đứng về phía Yu IlHan và đối đầu với sự phủ nhận ngạo mạn của Đại thiên thần chuyển chức 7 Lemiel; Yu IlHan quyết định trực tiếp giao chiến với Lemiel để thu thập thêm ký lục về Thiên giới.
+Tại thế giới bậc cao thứ hai của Quân Đội Thiên Giới, Liera và Erta kiên quyết đứng về phía Yu IlHan và đối đầu với sự phủ nhận ngạo mạn của Đại thiên thần chuyển chức 7 Lemiel; Yu IlHan quyết định trực tiếp giao chiến với Lemiel để thu thập thêm ghi chép về Thiên giới.
 Cảnh kết thúc: Yu IlHan cưỡi rồng Yumir, kích hoạt Hỏa Hồn Long Thân và ngưng tụ ngọn hỏa thương rồng, chính thức mở màn trận chiến kinh thiên động địa với Đại thiên thần Lemiel.
 
 
@@ -1767,13 +1767,13 @@ Cảnh kết thúc: Lemiel điên cuồng giáng mưa lôi điện nhuộm xanh 
 ## 287
 Yu IlHan chính thức học được kỹ năng chủ động Phản Kích, kết hợp cùng Yumir, Echjar và Ngọn Lửa Vĩnh Cửu đảo ngược cơn mưa lôi điện của Lemiel thành hỏa diễm đỏ rực và cưỡng chế tước đoạt quyền thống trị thế giới, nâng Chúa Tể Thứ Nguyên lên cấp 73.
 Bị dồn vào đường cùng và bị chặn đứng đường trốn chạy qua thứ nguyên, Lemiel thừa nhận tôn sùng Kẻ Đại Phản Bội kiêm Vị Thần Cuối Cùng là Chúa Tể Satan, rồi tự đọa lạc thành Cánh Thứ 11 Của Ánh Sáng Rực Rỡ để phục hồi thể xác.
-Yu IlHan bình thản dùng Đọa Lạc trói chặt Lemiel và phóng hỏa thương kích hoạt Tuyệt Đối Chuẩn Xác nhất kích tất sát; trước khi chết, Lemiel dồn tàn lực giáng lời nguyền chí tử vào IlHan nhưng hoàn toàn bị cơ thể IlHan vô hiệu hóa; IlHan thu được ký lục Lemiel Lv 548, nâng Ký Lục lên cấp 89 và Chúa Tể Thứ Nguyên lên cấp 77.
-Cảnh kết thúc: Sau khi dọn dẹp chiến trường và đọc ký lục của Lemiel, Yu IlHan cay đắng hé lộ với Liera và mọi người rằng Thượng Đế đã bỏ trốn khỏi Thiên giới, báo trước tình hình hỗn loạn khủng khiếp sắp tới.
+Yu IlHan bình thản dùng Đọa Lạc trói chặt Lemiel và phóng hỏa thương kích hoạt Tuyệt Đối Chuẩn Xác nhất kích tất sát; trước khi chết, Lemiel dồn tàn lực giáng lời nguyền chí tử vào IlHan nhưng hoàn toàn bị cơ thể IlHan vô hiệu hóa; IlHan thu được ghi chép Lemiel Lv 548, nâng Ký Lục lên cấp 89 và Chúa Tể Thứ Nguyên lên cấp 77.
+Cảnh kết thúc: Sau khi dọn dẹp chiến trường và đọc ghi chép của Lemiel, Yu IlHan cay đắng hé lộ với Liera và mọi người rằng Thượng Đế đã bỏ trốn khỏi Thiên giới, báo trước tình hình hỗn loạn khủng khiếp sắp tới.
 
 ## 288
 Liera bàng hoàng khi Yu IlHan tiết lộ Thượng Đế đã bỏ trốn khỏi Thiên giới từ trước khi Quân Đội Ánh Sáng Rực Rỡ được thành lập, nhưng được Helièna trấn an rằng không ai kiểm soát được vận mệnh của anh.
-Yu IlHan nhận ra bản thân sắp chạm tới cảnh giới thực thể cấp cao sau khi thuần thục Ký Lục và Chúa Tể Thứ Nguyên, liền chia đội: anh truyền ký lục lộ trình cho Kang MiRae để pháo đài tiếp tục tuần tra ba phe còn lại dưới sự bảo hộ của Helièna.
-IlHan chỉ mang theo Liera và Yumir rồi dùng Dịch Chuyển (lên cấp 66) đến thế giới Wirepa đã qua Đại Tai Biến lần 6 để thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ theo ký lục của Lemiel.
+Yu IlHan nhận ra bản thân sắp chạm tới cảnh giới thực thể cấp cao sau khi thuần thục Ký Lục và Chúa Tể Thứ Nguyên, liền chia đội: anh truyền ghi chép lộ trình cho Kang MiRae để pháo đài tiếp tục tuần tra ba phe còn lại dưới sự bảo hộ của Helièna.
+IlHan chỉ mang theo Liera và Yumir rồi dùng Dịch Chuyển (lên cấp 66) đến thế giới Wirepa đã qua Đại Tai Biến lần 6 để thanh trừng nội gián của Quân Đội Ánh Sáng Rực Rỡ theo ghi chép của Lemiel.
 Cảnh kết thúc: Yu IlHan liên tiếp phóng hỏa thương kết hợp Tuyệt Đối Chuẩn Xác lấy mạng kẻ phản bội Mita (Lv 366) cùng hàng loạt nội gián khác, khiến các thiên thần tại Wirepa hoang mang tột độ nghi ngờ tứ Đại Thiên Thần đang đích thân hành hình.
 
 ## 289
@@ -1789,7 +1789,7 @@ Cảnh kết thúc: Lợi dụng lúc Raphael đang bận tiêu diệt nhóm ph�
 
 
 ## 294
-Yu IlHan hạ sát Daiel ngay khi hắn bắt đầu chuyển hóa thành thiên thần sa ngã; anh dùng Đọa Lạc (lên cấp 72) trói chặt, vô hiệu hóa tạo tác cứu mạng và thi triển Đại Đoạn Vũ Trụ Thương kết liễu Daiel (Lv 537), thu về ký lục và nâng Ký Lục lên cấp 93.
+Yu IlHan hạ sát Daiel ngay khi hắn bắt đầu chuyển hóa thành thiên thần sa ngã; anh dùng Đọa Lạc (lên cấp 72) trói chặt, vô hiệu hóa tạo tác cứu mạng và thi triển Đại Đoạn Vũ Trụ Thương kết liễu Daiel (Lv 537), thu về ghi chép và nâng Ký Lục lên cấp 93.
 Chứng kiến năng lực bộc phát của IlHan, Đại thiên thần Raphael chấn động nhưng nhanh chóng lấy lại bình tĩnh cùng các thiên thần xử lý nốt tàn dư phản bội đã mất hết nhuệ khí.
 Raphael chủ động đề nghị liên minh cùng Yu IlHan để truy quét toàn bộ nội gián trước khi cuộc chiến cuối cùng bùng nổ; IlHan chấp thuận với điều kiện anh sẽ là người trực tiếp kết liễu lũ phản bội.
 Cảnh kết thúc: Cùng Raphael, Yumir và Liera bước qua cánh cổng tiến tới các thế giới tiếp theo của Thiên giới, IlHan mỉm cười khi Ký Lục đạt cấp 95 sau cái bắt tay với Raphael, nhận ra ngài ấy chính là mảnh ghép cuối cùng để anh chạm tới cảnh giới Kẻ Thứ Năm.
@@ -1798,10 +1798,10 @@ Cảnh kết thúc: Cùng Raphael, Yumir và Liera bước qua cánh cổng ti�
 Yu IlHan cùng Raphael quét sạch hơn mười nghìn thiên thần phản bội (bao gồm Vera) qua hơn 500 thế giới bậc cao trong suốt 2 tuần, nâng Ký Lục lên cấp 98 và Đại Đoạn Vũ Trụ Thương lên cấp 99.
 Dùng Dịch Chuyển gửi Liera về nơi an toàn, Yu IlHan cùng Yumir theo Raphael tiến vào một thế giới khổng lồ từng qua 7 lần Đại Tai Biến kết nối trực tiếp với Minh Giới; nơi đây đang diễn ra đại hỗn chiến giữa cả bốn thế lực, và IlHan tiếp tục ẩn thân hạ sát 1.500 thực thể cấp cao.
 Chiến trường đột ngột biến động dữ dội khi Anafière (Cánh Thứ 2 Của Ánh Sáng Rực Rỡ) cùng Satière xuất hiện, tiếp đó là Đại thiên thần Michael và Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt) cũng giáng lâm.
-Cảnh kết thúc: Michael kích hoạt ma pháp do Raphael bí mật chuẩn bị từ ký lục của Hỏa Tâm nhằm giải trừ hoàn toàn thuật ẩn thân của Yu IlHan, phơi bày cái bẫy câu kết giữa Thiên giới và Quân Đội Ma Hủy Diệt hòng trừ khử anh; Yu IlHan bình thản cho phép Ngọn Lửa Vĩnh Cửu xóa bỏ ma pháp, sẵn sàng cho bước nhảy vọt vĩ đại.
+Cảnh kết thúc: Michael kích hoạt ma pháp do Raphael bí mật chuẩn bị từ ghi chép của Hỏa Tâm nhằm giải trừ hoàn toàn thuật ẩn thân của Yu IlHan, phơi bày cái bẫy câu kết giữa Thiên giới và Quân Đội Ma Hủy Diệt hòng trừ khử anh; Yu IlHan bình thản cho phép Ngọn Lửa Vĩnh Cửu xóa bỏ ma pháp, sẵn sàng cho bước nhảy vọt vĩ đại.
 
 ## 296
-Yu IlHan dùng Nhân Long Thân tạo ảo ảnh đánh lừa toàn bộ chiến trường, rồi cùng Yumir tung đòn chí mạng đâm xuyên bụng và xé toạc hai cặp cánh của Raphael để thu thập mảnh vỡ ký lục Thượng Đế còn thiếu; Michael phơi bày việc Thiên giới chấp nhận hạ mình bắt tay với Quân Đội Ma Hủy Diệt để diệt trừ IlHan, trong khi phe Quân Đội Ánh Sáng Rực Rỡ dưới sự chỉ huy của Anafière, Crissière và Satière lại liều mình bảo vệ anh theo lệnh của Satan.
+Yu IlHan dùng Nhân Long Thân tạo ảo ảnh đánh lừa toàn bộ chiến trường, rồi cùng Yumir tung đòn chí mạng đâm xuyên bụng và xé toạc hai cặp cánh của Raphael để thu thập mảnh vỡ ghi chép Thượng Đế còn thiếu; Michael phơi bày việc Thiên giới chấp nhận hạ mình bắt tay với Quân Đội Ma Hủy Diệt để diệt trừ IlHan, trong khi phe Quân Đội Ánh Sáng Rực Rỡ dưới sự chỉ huy của Anafière, Crissière và Satière lại liều mình bảo vệ anh theo lệnh của Satan.
 Thuần thục kỹ năng Ký Lục và hội đủ tư cách trở thành thực thể cấp cao, Yu IlHan triệu hồi Cái Nôi Kỳ Tích bao bọc bản thân cùng Yumir, khuếch đại năng lượng rồng và hỏa diễm, xóa bỏ toàn bộ danh hiệu cũ cùng chúc phúc từ thần linh để tự mình trực tiếp thống trị các thuộc tính đó.
 Các thủ môn nhân của Khu Vườn Hoàng Hôn hân hoan chứng kiến sự ra đời của Kẻ Thứ Năm theo lời tiên tri; mọi đòn tấn công liều mạng từ Michael, thiên thần và Quân Đội Ma Hủy Diệt đều bị các thiên thần sa ngã cản bước hoặc bị ma pháp cộng hưởng của IlHan hấp thụ.
 Cảnh kết thúc: Trước danh sách chức nghiệp phụ thay thế cho Bạn Đồng Hành Thiên Thần, Yu IlHan được Yumir cổ vũ đã quyết định chọn chức nghiệp phụ "Thủ Lĩnh", qua đó đáp ứng trọn vẹn mọi điều kiện và khai sinh ra thế lực thực thể cấp cao thứ năm: Long Sào.
@@ -1814,7 +1814,7 @@ Cảnh kết thúc: Mọi hỏa diễm của Michael hoàn toàn bị vô hiệu
 
 ## 298
 Yu IlHan tước đoạt tạo tác cấp Thần của Đại thiên thần Michael rồi cắm vào Hỏa Hồn Long Thân để sao chép đặc tính (gây vết thương không thể chữa lành và hút máu hồi phục); anh kết hợp cùng Yumir thi triển Siêu Việt Quỹ Đạo (lên cấp 9) chém Michael trọng thương phun máu trắng khiến ma pháp trị liệu của Raphael hoàn toàn vô hiệu.
-Raphael cùng Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt) đồng thời đánh lén trước sau nhưng bị Siêu Việt Quỹ Đạo của IlHan chém gục cả hai cùng một lúc; IlHan kết liễu Raphael, thu thập ký lục của Keshein (Lv 588) và Raphael (Lv 585), thăng liền lên cấp 530 đồng thời nâng Siêu Việt Quỹ Đạo lên cấp 13 và Tuyên Cáo lên cấp 19.
+Raphael cùng Keshein (Tiểu Đoàn Trưởng Tiểu Đoàn 1 Quân Đội Ma Hủy Diệt) đồng thời đánh lén trước sau nhưng bị Siêu Việt Quỹ Đạo của IlHan chém gục cả hai cùng một lúc; IlHan kết liễu Raphael, thu thập ghi chép của Keshein (Lv 588) và Raphael (Lv 585), thăng liền lên cấp 530 đồng thời nâng Siêu Việt Quỹ Đạo lên cấp 13 và Tuyên Cáo lên cấp 19.
 Chứng kiến hai nhân vật cấp cao bỏ mạng chớp nhoáng, các thực thể cấp cao hoảng loạn tháo chạy, Khu Vườn Hoàng Hôn cùng Quân Đội Ánh Sáng Rực Rỡ rút lui, Michael tuyệt vọng dẫn tàn quân thiên thần rút về Thiên giới sau khi buông lời đe dọa về sự trừng phạt của Thượng Đế.
 Cảnh kết thúc: Tàn quân Quân Đội Ma Hủy Diệt bất ngờ chuyển lời mời của thủ lĩnh chúng rủ "Kẻ Thứ Năm" tới sào huyệt Elo Katra chơi; Yu IlHan hào hứng nhận lời với khao khát xem thử nơi đó có những tạo tác nào.
 
@@ -1834,8 +1834,8 @@ Cảnh kết thúc: Đứng trước một thế giới khổng lồ mới sinh 
 ## 301
 Yu IlHan kích hoạt ma pháp trận cổ đại nâng vùng cao nguyên lên cao để bảo vệ an toàn cho tộc elf và Lang tộc trước biến động kinh thiên động địa của Đại Tai Biến lần thứ 6 tại Daréu; sự bành trướng vượt không gian của ma pháp trận giúp anh vững tâm điều phối thế giới.
 Tận dụng sự tự do tuyệt đối từ danh hiệu Kẻ Vượt Trội kết hợp kỹ năng Hiển Hiện và Du Hành Giả Thứ Nguyên, anh liên hoàn thi triển kỹ năng Tuyên Cáo (tăng vọt lên cấp 39) để phân tách đất liền và biển cả, trói buộc lượng mana bùng nổ vào ma pháp trận và vật chất thế giới như một đấng sáng thế thực thụ, khiến tộc elf sùng bái tột độ.
-Ký lục của Yu IlHan in sâu vào lòng Daréu tạo nên các hồ độc, hỏa ngục và bão bụi kim loại chết chóc mang đặc trưng của riêng anh; nhận thấy bản thân có tiềm năng dung hợp hai thế giới bậc cao nhờ năng lực Sáng Tạo nhưng anh tạm gác lại vì quá hao tổn tâm lực.
-Cảnh kết thúc: Trước vòng lặp sinh tử và tiến hóa dồn dập của quái vật trên thế giới mới ngập tràn ký lục của Yu IlHan, Yumir mơ màng cảm nhận được những con rồng mới đầu tiên đang bắt đầu được tái sinh tại Daréu.
+Ghi chép của Yu IlHan in sâu vào lòng Daréu tạo nên các hồ độc, hỏa ngục và bão bụi kim loại chết chóc mang đặc trưng của riêng anh; nhận thấy bản thân có tiềm năng dung hợp hai thế giới bậc cao nhờ năng lực Sáng Tạo nhưng anh tạm gác lại vì quá hao tổn tâm lực.
+Cảnh kết thúc: Trước vòng lặp sinh tử và tiến hóa dồn dập của quái vật trên thế giới mới ngập tràn ghi chép của Yu IlHan, Yumir mơ màng cảm nhận được những con rồng mới đầu tiên đang bắt đầu được tái sinh tại Daréu.
 
 ## 302
 Khoảng một triệu con rồng sơ sinh cấp 200 trở lên (có con đạt tới cấp 280) đồng loạt nở rộ khắp Daréu và tụ hội về tôn sùng Yu IlHan là Đấng Sáng Tạo và Cha của chúng; Echjar cũng xúc động gác lại thù hận, tha thiết gửi gắm tâm nguyện nhờ IlHan dẫn dắt bầy rồng thế hệ mới.
@@ -1852,7 +1852,7 @@ Cảnh kết thúc: Bất chấp mị lực tuyệt đối của Helièna, sinh 
 
 ## 304
 Helièna bị trọng thương vùng bụng phải rút về sau cho Na YuNa trị thương; Liera dốc toàn lực dùng sóng xung kích từ ngọn thương kiềm tỏa kẻ địch, trong khi ma pháp của nhóm Erta, Kang MiRae và Kim YeSeul hoàn toàn bất lực trước khả năng kháng ma lực quái dị của nó.
-Orochi tận dụng cơ thể rồng chuyển chức 7 biến đổi cánh tay thành khẩu đại bác bắn ngọn cốt thương Súng Bắn Cọc giáng đòn chí mạng xuyên thủng vòng hào quang của kẻ địch; tuy nhiên nó lập tức phân tích ký lục và tái hiện Súng Bắn Cọc bắn trả, buộc Mystic phải thu nạp đòn đánh vào kết giới chôn xuống đất.
+Orochi tận dụng cơ thể rồng chuyển chức 7 biến đổi cánh tay thành khẩu đại bác bắn ngọn cốt thương Súng Bắn Cọc giáng đòn chí mạng xuyên thủng vòng hào quang của kẻ địch; tuy nhiên nó lập tức phân tích ghi chép và tái hiện Súng Bắn Cọc bắn trả, buộc Mystic phải thu nạp đòn đánh vào kết giới chôn xuống đất.
 Bị tổn hại, kẻ địch đình chỉ hồi phục và tạo ra ba vòng hào quang xoay tít truy kích dữ dội nghiền nát lớp giáp Kelatuke; lợi dụng lúc nó mất tập trung, Orochi ẩn thân bắn ngọn cốt thương dự trữ thứ hai nghiền nát nó từ đỉnh đầu tới hạ bộ, kết liễu thành công sinh vật bí ẩn.
 Cảnh kết thúc: Vừa hạ gục kẻ địch và nhận được điểm kinh nghiệm ẩn danh (Lv??? ??????) giống ngón nghề của Yu IlHan, cả nhóm bàng hoàng khi ba sinh vật bí ẩn tương tự đồng loạt xuất hiện giương tay tuyên bố loại trừ.
 
@@ -1869,7 +1869,7 @@ Yu IlHan an ủi mẹ Kim YeSeul, giải thích việc các thế giới bậc t
 Cảnh kết thúc: Trong lúc trò chuyện cùng Helièna, bầy rồng trở về sau chuyến đi săn đầu tiên với sự dẫn đầu của rồng đỏ Ruby thăng lên cấp 296, cung kính cất tiếng gọi Yu IlHan là "Cha" trước sự ngỡ ngàng của Helièna.
 
 ## 307
-Ruby báo cáo việc các quái vật diệt rồng sinh ra tại Daréu do hấp thụ ký lục của Yu IlHan; Yu IlHan cử Yumir dẫn đầu bầy rồng đi săn, Yumir phô diễn thân thể chuyển chức 6 hoàng kim và phong thái thủ lĩnh khiến Ruby (lộ diện là rồng cái) cùng bầy rồng vô cùng ngưỡng mộ.
+Ruby báo cáo việc các quái vật diệt rồng sinh ra tại Daréu do hấp thụ ghi chép của Yu IlHan; Yu IlHan cử Yumir dẫn đầu bầy rồng đi săn, Yumir phô diễn thân thể chuyển chức 6 hoàng kim và phong thái thủ lĩnh khiến Ruby (lộ diện là rồng cái) cùng bầy rồng vô cùng ngưỡng mộ.
 Trong lúc kiểm tra tiến độ xây dựng và kế hoạch biến toàn bộ Daréu thành pháo đài khổng lồ, Yu IlHan trò chuyện với Helièna về những chuyển biến trong tâm tính và tầm nhìn kể từ khi trở thành thủ lĩnh Long Sào; Helièna an ủi và khuyên anh đón nhận bản thân.
 Yu IlHan bay lượn trên không quan sát thế giới bằng đôi cánh Hiệu Triệu Diệt Vong tiến hóa từ Hỏa Hồn Long Thân; chứng kiến Yumir huấn luyện bầy rồng săn quái vật diệt rồng thành công, anh an tâm chuyển hướng.
 Cảnh kết thúc: Cảm nhận được sự sợ hãi xen lẫn quy phục của các sinh vật Long tộc khác sinh ra trên Daréu, Yu IlHan quyết định thu nạp toàn bộ Long tộc dưới trướng Long Sào và cất tiếng gọi quy tụ chúng trong vòng mười giây.
@@ -1895,7 +1895,7 @@ Cảnh kết thúc: Yu IlHan tái kích hoạt các ống trụ gom mana khổng
 ## 311
 Yu IlHan dựng kết giới lửa bảo vệ mọi người và hai pháo đài bay, biến nơi đây thành khu vực an toàn để cả nhóm vừa ăn bắp rang vừa theo dõi bầy rồng kịch chiến; anh kể lại toàn bộ hành trình tiêu diệt Raphael, Keshein, gặp gỡ Greed và trở thành thủ lĩnh thế lực Long Sào.
 Mọi người thay nhau trêu chọc và an ủi việc Yu IlHan tới tận lúc đó mới nhận được chức nghiệp Thủ Lĩnh khiến anh dở khóc dở cười; trước thắc mắc của Helièna về cái tên Long Sào có vẻ bài trừ các chủng tộc khác, anh giải thích Long Sào không chỉ là nơi loài rồng tụ hội mà còn là nơi khai sinh ra loài rồng.
-Yu IlHan đưa Cái Nôi Kỳ Tích ra và nhỏ giọt máu của mình để tái tạo cơ thể cho Liera; nhờ đó, khoảng trống ký lục sau thời gian dài mất tư cách thiên thần được lấp đầy hoàn hảo.
+Yu IlHan đưa Cái Nôi Kỳ Tích ra và nhỏ giọt máu của mình để tái tạo cơ thể cho Liera; nhờ đó, khoảng trống ghi chép sau thời gian dài mất tư cách thiên thần được lấp đầy hoàn hảo.
 Cảnh kết thúc: Liera phá vỡ vỏ trứng bước ra với hai cặp cánh rồng màu đỏ rực rỡ và khôi phục đẳng cấp chuyển chức 6 trong sự kinh ngạc tột cùng của Helièna; Yu IlHan cười bảo Helièna chuẩn bị đến lượt khôi phục đẳng cấp chuyển chức 7 hoàn hảo.
 
 ## 312
@@ -1911,8 +1911,8 @@ Yu IlHan nhận định cục diện đã ổn định nên yên tâm để đ�
 Cảnh kết thúc: Kang MiRae giữ Yu IlHan lại để nói chuyện riêng và bất ngờ thú nhận cô vừa gặp Thượng Đế khiến anh ngỡ ngàng.
 
 ## 314
-Kang MiRae kể lại việc gặp gỡ Thượng Đế; Yu IlHan kiểm tra và gỡ bỏ ngòi nổ ma pháp mà Thượng Đế lén cài vào ký lục của cô, nhận thấy Thượng Đế dù có tư tưởng trẻ con nhưng thủ đoạn che giấu ma pháp cực kỳ cao tay.
-Bác bỏ ý định bắt tay liên minh với Satan hay các thế lực khác, Yu IlHan cùng Ngọn Lửa Vĩnh Cửu dùng kỹ năng Hiển Hiện nung chảy sinh thể thiên thần kháng mana (dạng golem) để phân tích cấu trúc ký lục, giúp kỹ năng Tuyên Cáo đạt cấp 31.
+Kang MiRae kể lại việc gặp gỡ Thượng Đế; Yu IlHan kiểm tra và gỡ bỏ ngòi nổ ma pháp mà Thượng Đế lén cài vào ghi chép của cô, nhận thấy Thượng Đế dù có tư tưởng trẻ con nhưng thủ đoạn che giấu ma pháp cực kỳ cao tay.
+Bác bỏ ý định bắt tay liên minh với Satan hay các thế lực khác, Yu IlHan cùng Ngọn Lửa Vĩnh Cửu dùng kỹ năng Hiển Hiện nung chảy sinh thể thiên thần kháng mana (dạng golem) để phân tích cấu trúc ghi chép, giúp kỹ năng Tuyên Cáo đạt cấp 31.
 IlHan phát hiện vật liệu cấu thành sinh thể golem chính là hợp kim Harkanium, Fecinom và El Hazra — ba loại khoáng thạch dùng chế tạo Bẫy Hủy Diệt của Quân Đội Thiên Giới.
 Cảnh kết thúc: Yu IlHan suy đoán Thượng Đế có thể kích hoạt cộng hưởng biến toàn bộ Bẫy Hủy Diệt rải rác khắp vạn giới thành các golem kháng mana bằng cách hiến tế quái vật trong hầm ngục, và trầm ngâm dự cảm về một trận đại chiến Harmageddon sắp sửa nổ ra.
 
@@ -1937,14 +1937,14 @@ Cảnh kết thúc: Thu gom toàn bộ Bẫy Phục Hồi vào túi đồ, Yu Il
 
 ## 318
 Yu IlHan rải các Bẫy Phục Hồi đầu tiên xuống Daréu; Mystic vận dụng năng lực khống chế mana chuyển hóa toàn bộ Bẫy Hủy Diệt trên đại lục thành Bẫy Phục Hồi, tự động hút giam toàn bộ quái vật vào hầm ngục và giúp các kỹ năng của IlHan thăng cấp mạnh mẽ.
-Nhận thấy kinh nghiệm và ký lục liên tục tăng lên nhờ cấp dưới chiến đấu, IlHan phân tích và suy đoán Thượng Đế đã phân chia sức mạnh cùng ký lục cho tứ Đại Thiên Thần (Michael, Raphael, Gabriel, Uriel), đồng thời hoài nghi năng lực tiên tri của Gabriel.
+Nhận thấy kinh nghiệm và ghi chép liên tục tăng lên nhờ cấp dưới chiến đấu, IlHan phân tích và suy đoán Thượng Đế đã phân chia sức mạnh cùng ghi chép cho tứ Đại Thiên Thần (Michael, Raphael, Gabriel, Uriel), đồng thời hoài nghi năng lực tiên tri của Gabriel.
 Thực hiện lời hứa sau khi quái vật bị dọn dẹp, IlHan cho 16 thực thể cấp cao của Long Sào mỗi người chọn một cá thể Long tộc ưu tú để biến chúng thành rồng thực thụ, khiến toàn thể Long tộc phấn khích sục sôi ý chí chiến đấu.
 IlHan giao Pháo Đài Hộ Vệ cho Kang MiRae đưa người dân Trái Đất sang Daréu lánh nạn, đồng thời dặn dò toàn quân đề phòng quân đoàn Legna xâm lược.
 Cảnh kết thúc: Yu IlHan cùng Mystic và Orochi bước lên pháo đài bay, mang theo 6.938 chiếc Bẫy Phục Hồi xuất phát đến các thế giới khác để gieo rắc trật tự mới.
 
 ## 319
 Yu IlHan cùng Mystic và Orochi đi rải Bẫy Phục Hồi khắp hàng chục ngàn thế giới bậc thấp chưa dung hợp với Daréu; cơ chế bẫy tự sinh sôi xuyên thứ nguyên và tự hủy nếu bị can thiệp khiến các thiên thần canh giữ hoàn toàn bất lực.
-Nhờ hấp thụ ký lục từ mạng lưới Bẫy Phục Hồi, năng lực của Mystic ngày càng thăng tiến vượt bậc khiến Orochi ghen tị sốt ruột.
+Nhờ hấp thụ ghi chép từ mạng lưới Bẫy Phục Hồi, năng lực của Mystic ngày càng thăng tiến vượt bậc khiến Orochi ghen tị sốt ruột.
 Tại thế giới thứ 32.918, nữ đại thiên thần Uriel (một trong tứ Đại Thiên Thần mang thánh hỏa) bất ngờ giăng lửa tìm kiếm Yu IlHan theo lời chỉ dẫn của Gabriel.
 Sau khi dùng kỹ năng Chúa Tể Thứ Nguyên khóa cổng thế giới và lộ diện, IlHan chấp thuận đề nghị đồng hành của Uriel để cô quan sát hành động của anh và tránh xung đột với Quân Đội Thiên Giới.
 Cảnh kết thúc: Yu IlHan kích hoạt Dịch Chuyển đưa Mystic, Orochi và Uriel tiến tới thế giới Heishia để khép lại màn diễn của các thế giới bậc thấp.
@@ -1972,14 +1972,14 @@ Cảnh kết thúc: Giữa lúc Gabriel van xin con trai cứu mạng trước c
 
 ## 323
 Yu IlHan kích hoạt Chúa Tể Thứ Nguyên đóng cổng Daréu, dùng Bẫy Phục Hồi kết hợp Siêu Việt Quỹ Đạo tiêu diệt gọn 23 sinh thể Legna chỉ trong chớp mắt, đạt cấp độ 536; trấn an Kang MiRae và Na YuNa chuẩn bị bước vào cuộc chiến tận thế Harmageddon.
-Yu IlHan ném xác Legna cùng Uriel vào Cái Nôi Kỳ Tích; Uriel hấp thụ toàn bộ mana và sức mạnh cướp từ Thượng Đế để phá vỡ bình cảnh tái sinh thành rồng cấp 8 (cấp độ 600) với 4 cặp cánh rồng, chia sẻ ký lục giúp Yu IlHan tăng vọt lên cấp độ 554.
+Yu IlHan ném xác Legna cùng Uriel vào Cái Nôi Kỳ Tích; Uriel hấp thụ toàn bộ mana và sức mạnh cướp từ Thượng Đế để phá vỡ bình cảnh tái sinh thành rồng cấp 8 (cấp độ 600) với 4 cặp cánh rồng, chia sẻ ghi chép giúp Yu IlHan tăng vọt lên cấp độ 554.
 Gabriel rũ bỏ nhân dạng Yu YongHan và thân phận đại thiên thần, lộ diện là thủ lĩnh Khu Vườn Hoàng Hôn dưới hình dáng một thanh niên khôi ngô tóc xanh lam, cùng Kim YeSeul dịch chuyển đi tập hợp toàn bộ thế lực; Yu IlHan trao tạo tác lông vũ phẩm cấp Thần cho Paté chỉ huy nhóm elf về bảo vệ Trái Đất, giao Erica, Flemir cùng Ruby, First bảo vệ Daréu.
 Cảnh kết thúc: Yu IlHan phát động chiến dịch "Chiến Dịch Cuối Cùng", dẫn theo Liera, Erta, Helièna, Uriel và quân đoàn rồng bước lên Pháo Đài Hộ Vệ kích hoạt Dịch Chuyển tiến thẳng vào Thiên giới để cướp bóc harkanium, fecinom và el hazra.
 
 ## 324
 Yu IlHan giáng lâm Thiên giới, đồng thời thi triển Tuyên Cáo và Hiển Hiện kết hợp hỏa diễm của Ngọn Lửa Vĩnh Cửu và Echjar để bành trướng lãnh địa, rồi tự trói buộc bằng Tuyên Cáo "không thể nói dối" để công khai vạch trần việc Thượng Đế đã ruồng bỏ Quân Đội Thiên Giới.
 Uriel xuất hiện với thân phận cựu Đại Thiên Thần nay đã tái sinh thành rồng cấp 8 mang 4 cặp cánh rồng, trưng ra thi thể quái vật Legna thuyết phục các thiên thần từ bỏ Thiên giới gia nhập Long Sào khiến hàng ngũ thiên thần dao động dữ dội.
-Đại thiên thần Michael xuất hiện cắt ngang, tuyên bố muốn vượt lên trên Thượng Đế để bảo vệ thế giới hiện tại; Michael hấp thụ sức mạnh của Thượng Đế và toàn bộ ký lục cần thiết, thăng hoa ngọn lửa thành ánh sáng và mọc ra 5 cánh ánh sáng, chính thức chạm tới cảnh giới Kẻ Siêu Việt và tự xưng là Thượng Đế mới.
+Đại thiên thần Michael xuất hiện cắt ngang, tuyên bố muốn vượt lên trên Thượng Đế để bảo vệ thế giới hiện tại; Michael hấp thụ sức mạnh của Thượng Đế và toàn bộ ghi chép cần thiết, thăng hoa ngọn lửa thành ánh sáng và mọc ra 5 cánh ánh sáng, chính thức chạm tới cảnh giới Kẻ Siêu Việt và tự xưng là Thượng Đế mới.
 Yu IlHan hoàn toàn bình thản trước sự thăng cấp của Michael, thong thả tạo giáo lửa nghênh chiến giáo ánh sáng của đối phương.
 Cảnh kết thúc: Yu IlHan và Michael vung thương lao vào trận quyết chiến đỉnh cao giữa hai Kẻ Siêu Việt trên bầu trời Thiên giới.
 

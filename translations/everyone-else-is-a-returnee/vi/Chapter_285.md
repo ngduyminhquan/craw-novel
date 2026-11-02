@@ -152,9 +152,9 @@ Nhận ra điều anh đang nghĩ, Helièna lộ vẻ mặt chết lặng. Yu Il
 
 Cho dù Quân Đội Ma Hủy Diệt có đam mê hủy diệt và đau đớn đến mức nào đi chăng nữa, bọn chúng cũng chẳng bao giờ làm cái việc mà Yu IlHan sắp sửa làm vào lúc này, vậy mà anh lại làm nó một cách vô cùng thản nhiên. Anh chuẩn bị đối đầu trực diện với một thực thể chuyển chức 7 trong khi bản thân vẫn chỉ là một thực thể cấp thấp!
 
-"Tôi đang thiếu ký lục về Quân Đội Thiên Giới. Chà, dạo này tôi đã né tránh đụng độ với bọn họ để nể mặt Erta và Liera, thế nên chuyện đó cũng là dễ hiểu... nhưng tôi không muốn trì hoãn nó thêm nữa."
+"Tôi đang thiếu ghi chép về Quân Đội Thiên Giới. Chà, dạo này tôi đã né tránh đụng độ với bọn họ để nể mặt Erta và Liera, thế nên chuyện đó cũng là dễ hiểu... nhưng tôi không muốn trì hoãn nó thêm nữa."
 
-Chiến đấu chỉ vì cần thêm ký lục ư? Anh mò tới tận nơi này tìm kiếm một thực thể chuyển chức 7 chỉ vì mỗi lý do đó thôi sao?
+Chiến đấu chỉ vì cần thêm ghi chép ư? Anh mò tới tận nơi này tìm kiếm một thực thể chuyển chức 7 chỉ vì mỗi lý do đó thôi sao?
 
 Helièna cười khúc khích sau khi nhận ra Yu IlHan đang nói thật lòng. Lúc này ả đang ở vào khoảnh khắc hạnh phúc ngập tràn nhất. Người đàn ông mà ả nắm giữ quả đúng là tuyệt vời nhất trần đời!
 

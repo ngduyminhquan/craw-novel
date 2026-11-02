@@ -148,11 +148,11 @@ Toàn bộ lượng mana hắn sở hữu đều nghịch chuyển, rơi vào tr
 
 "Dù tôi vẫn tin lời Yu IlHan, nhưng nghĩ đến việc chuyện như thế này thực sự diễn ra... Rốt cuộc chuyện gì đang xảy ra bên trong Quân Đội Thiên Giới vậy?"
 
-"Á, chẳng phải sẽ rất tệ khi anh phải thu thập ký lục của một thiên thần nhưng hắn lại đọa lạc thành thiên thần sa ngã sao~!?"
+"Á, chẳng phải sẽ rất tệ khi anh phải thu thập ghi chép của một thiên thần nhưng hắn lại đọa lạc thành thiên thần sa ngã sao~!?"
 
 Trong khi Liera và Erta đang vô cùng nghiêm trọng, Na YuNa lại lo lắng về một chuyện hơi khác người một chút! Tuy nhiên, Yu IlHan khẽ lắc đầu, phủ nhận lời cô.
 
-"Thực ra như thế này lại càng tốt hơn. Tôi đã có thể ghi lại khoảnh khắc hắn biến thành thiên thần sa ngã, vậy nên giờ tôi thậm chí có thể đảo ngược ký lục của thiên thần sa ngã thành ký lục của thiên thần. Có thể coi đây là món hàng Mua Một Tặng Một cho nhiều sản phẩm cùng lúc."
+"Thực ra như thế này lại càng tốt hơn. Tôi đã có thể ghi lại khoảnh khắc hắn biến thành thiên thần sa ngã, vậy nên giờ tôi thậm chí có thể đảo ngược ghi chép của thiên thần sa ngã thành ghi chép của thiên thần. Có thể coi đây là món hàng Mua Một Tặng Một cho nhiều sản phẩm cùng lúc."
 
 "Oa!"
 
@@ -198,7 +198,7 @@ Và đó là những lời cuối cùng của hắn. Đầu hắn rũ gục xu�
 
 [Bạn đã nhận được kinh nghiệm.]
 
-[Bạn đã nhận được ký lục của Lemiel Lv 548.]
+[Bạn đã nhận được ghi chép của Lemiel Lv 548.]
 
 [Kỹ năng Ký Lục đã đạt cấp độ 89.]
 
@@ -228,7 +228,7 @@ Yu IlHan thản nhiên thu hồi thi thể của Lemiel mà không nghĩ ngợi 
 
 "Dù sao thì dường như mọi chuyện đã trở nên phiền phức rồi đấy."
 
-Lướt qua những ký lục vừa thu được từ Lemiel, Yu IlHan gãi đầu. Anh vốn đã nghĩ rằng Quân Đội Thiên Giới không còn ở trạng thái bình thường kể từ khoảnh khắc phát hiện Lemiel là kẻ phản bội, nhưng anh không ngờ mọi chuyện lại tồi tệ đến mức này. Càng thấu hiểu những ký lục của Lemiel, anh lại càng thở dài ngán ngẩm.
+Lướt qua những ghi chép vừa thu được từ Lemiel, Yu IlHan gãi đầu. Anh vốn đã nghĩ rằng Quân Đội Thiên Giới không còn ở trạng thái bình thường kể từ khoảnh khắc phát hiện Lemiel là kẻ phản bội, nhưng anh không ngờ mọi chuyện lại tồi tệ đến mức này. Càng thấu hiểu những ghi chép của Lemiel, anh lại càng thở dài ngán ngẩm.
 
 "Có vẻ như mọi thứ đang diễn ra đúng theo tốc độ trưởng thành của mình. Cứ để tôi tóm được kẻ đứng sau chuyện này xem, tôi sẽ…"
 

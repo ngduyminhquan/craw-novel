@@ -40,7 +40,7 @@ Yu IlHan đặt tay lên đầu Kang MiRae. Anh đã để mặc cô nếu khôn
 
 "Mối liên kết......?"
 
-"Không phải cô nói hắn đã liên lạc với cô thông qua ký lục của cô sao? Đó là mánh khóe mà chỉ những kẻ tinh thông kỹ năng Ký Lục mới làm được. Lý do thủ lĩnh của mỗi thế lực có thể phát huy sức ảnh hưởng tuyệt đối là bởi họ có thể tự do đọc ký lục của một sinh mệnh và thao túng chúng theo ý muốn......."
+"Không phải cô nói hắn đã liên lạc với cô thông qua ghi chép của cô sao? Đó là mánh khóe mà chỉ những kẻ tinh thông kỹ năng Ký Lục mới làm được. Lý do thủ lĩnh của mỗi thế lực có thể phát huy sức ảnh hưởng tuyệt đối là bởi họ có thể tự do đọc ghi chép của một sinh mệnh và thao túng chúng theo ý muốn......."
 
 "......?"
 
@@ -138,7 +138,7 @@ Nhiệt độ của Ngọn Lửa Vĩnh Cửu dâng cao. Nó không ngừng tăng
 
 Nguồn năng lượng còn sót lại bên trong cơ thể kia chống cự, nhưng làm sao nó có thể chịu đựng nổi sức mạnh của Yu IlHan khi anh là thủ lĩnh của Long Sào và đang thi triển kỹ năng Hiển Hiện ngay tại thế giới do chính mình cai trị cơ chứ.
 
-Cuối cùng nó cũng bắt đầu tan chảy. Yu IlHan chia sẻ giác quan với Ngọn Lửa Vĩnh Cửu để ghi lại cấu trúc cùng những ký lục lộ ra trong lúc nó bị nung chảy. Đầu anh đau nhức và mana trở nên hỗn loạn, nhưng đó mới chỉ là khởi đầu.
+Cuối cùng nó cũng bắt đầu tan chảy. Yu IlHan chia sẻ giác quan với Ngọn Lửa Vĩnh Cửu để ghi lại cấu trúc cùng những ghi chép lộ ra trong lúc nó bị nung chảy. Đầu anh đau nhức và mana trở nên hỗn loạn, nhưng đó mới chỉ là khởi đầu.
 
 Những thông tin thuộc về một lĩnh vực chưa từng chạm tới bất kỳ loại thông tin nào anh từng gặp trước đây đang ồ ạt tràn vào tâm trí anh.
 
@@ -148,7 +148,7 @@ Những thông tin thuộc về một lĩnh vực chưa từng chạm tới bấ
 
 "Ừ, ta nghĩ ta cũng hiểu rồi. Rốt cuộc nung chảy nó là câu trả lời chính xác. Dù việc tổng hợp được thực hiện thông qua ma pháp, và công thức ma pháp đã bị phá vỡ ngay khoảnh khắc nó tan chảy nên không thể đảo ngược quy trình chế tạo được......."
 
-[Công dụng đó hẳn là nhằm ngăn chặn những kẻ thống trị khác đọc ký lục từ nó, đúng không?]
+[Công dụng đó hẳn là nhằm ngăn chặn những kẻ thống trị khác đọc ghi chép từ nó, đúng không?]
 
 Yu IlHan gật đầu. Một khi đã làm như vậy, các thủ lĩnh khác sẽ không thể phân tích thành phần của nó chứ đừng nói đến cấu trúc. Ma pháp trận được thiết lập theo cách tự động phá hủy vật chủ thành những hạt cơ bản nhất ngay khi cảm nhận được ngoại lực cố gắng gây tổn hại đến cơ thể.
 

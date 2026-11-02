@@ -212,7 +212,7 @@ Sự tĩnh lặng bao trùm khắp chiến trường, dù chỉ là trong thoán
 
 Orochi gầm thét vang dội giữa muôn vàn ánh mắt đổ dồn về phía mình. Cùng lúc đó, một vầng sáng tím rực rỡ bao phủ trọn lấy thân thể hắn! Từ sâu bên trong, toàn bộ cơ thể hắn đang vặn xoắn lại và ngọn lửa tím bùng lên ngút trời.
 
-Toàn bộ những ký lục cấu thành nên Orochi tiến thêm một bước và dẫn dắt chính sinh mệnh hắn, đồng thời phủ lên người hắn một luồng khí tức trọng áp trong khi cô đọng nguồn mana của hắn lại.
+Toàn bộ những ghi chép cấu thành nên Orochi tiến thêm một bước và dẫn dắt chính sinh mệnh hắn, đồng thời phủ lên người hắn một luồng khí tức trọng áp trong khi cô đọng nguồn mana của hắn lại.
 
 "Oa, đừng nói là......."
 

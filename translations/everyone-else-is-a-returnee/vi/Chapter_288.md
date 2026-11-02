@@ -68,7 +68,7 @@ Như thể hiểu được những gì anh đang suy nghĩ, Liera nhìn anh bằ
 
 "Chà, tôi cũng cần phải suy tính lại đã."
 
-Yu IlHan nhíu mày. Thế nhưng, ngay từ khoảnh khắc giết chết Lemiel và hấp thụ ký lục của hắn, những việc anh cần làm tiếp theo gần như đã được định đoạt.
+Yu IlHan nhíu mày. Thế nhưng, ngay từ khoảnh khắc giết chết Lemiel và hấp thụ ghi chép của hắn, những việc anh cần làm tiếp theo gần như đã được định đoạt.
 
 "Tôi sẽ phải tạm hoãn việc tấn công Quân Đội Thiên Giới lại một thời gian. Có vẻ như trước hết tôi cần phải giải quyết dứt điểm vấn đề liên quan đến Quân Đội Ánh Sáng Rực Rỡ đã."
 
@@ -144,7 +144,7 @@ Anh nói với cô bằng giọng nghiêm túc trong khi nắm lấy tay cô. Đ
 
 "Thật là... Á."
 
-Yu IlHan vừa đáp lại nửa đùa nửa thật bằng trọn tấm lòng vừa truyền ký lục sang cho cô. Việc truyền ký lục cho người khác cũng nghiễm nhiên là một phần sức mạnh đến từ kỹ năng Ký Lục đã trưởng thành. Kang MiRae không khỏi giật mình trước những ký lục mới được khắc sâu vào tâm trí, nhưng cô vẫn nghiến chặt răng tiếp nhận toàn bộ.
+Yu IlHan vừa đáp lại nửa đùa nửa thật bằng trọn tấm lòng vừa truyền ghi chép sang cho cô. Việc truyền ghi chép cho người khác cũng nghiễm nhiên là một phần sức mạnh đến từ kỹ năng Ký Lục đã trưởng thành. Kang MiRae không khỏi giật mình trước những ghi chép mới được khắc sâu vào tâm trí, nhưng cô vẫn nghiến chặt răng tiếp nhận toàn bộ.
 
 "...Phù."
 
@@ -152,7 +152,7 @@ Yu IlHan vừa đáp lại nửa đùa nửa thật bằng trọn tấm lòng v�
 
 "Rồi. Đầu tôi hơi nhức một chút, nhưng... giờ thì xong rồi."
 
-Những ký lục này không phải ai cũng có thể tiếp nhận được. Cô tiếp nhận được chúng có lẽ là nhờ bản thân vốn đã sử dụng được ma pháp thứ nguyên. Lẽ dĩ nhiên, chiếc vương miện phẩm cấp Thần đội trên đầu cô hẳn cũng đã đóng một vai trò vô cùng lớn.
+Những ghi chép này không phải ai cũng có thể tiếp nhận được. Cô tiếp nhận được chúng có lẽ là nhờ bản thân vốn đã sử dụng được ma pháp thứ nguyên. Lẽ dĩ nhiên, chiếc vương miện phẩm cấp Thần đội trên đầu cô hẳn cũng đã đóng một vai trò vô cùng lớn.
 
 "Tốt rồi, cảm ơn cô."
 
@@ -206,7 +206,7 @@ Yu IlHan cốc một cái vào trán Liera khi cô nàng đang trêu chọc nh�
 
 "Con biết rồi, mẹ."
 
-Anh khẽ vẫy tay chào mọi người rồi không chút do dự kích hoạt kỹ năng Dịch Chuyển. Anh lần theo dấu vết của những kẻ phản bội được ghi lại trong ký lục của Lemiel.
+Anh khẽ vẫy tay chào mọi người rồi không chút do dự kích hoạt kỹ năng Dịch Chuyển. Anh lần theo dấu vết của những kẻ phản bội có trong ghi chép của Lemiel.
 
 [Kỹ năng Dịch Chuyển đã đạt cấp độ 66.]
 
@@ -222,7 +222,7 @@ Yu IlHan tạo ra một ngọn hỏa thương trong tay rồi phóng đi không 
 
 [Bạn đã nhận được kinh nghiệm.]
 
-[Bạn đã nhận được ký lục của Mita Lv 366.]
+[Bạn đã nhận được ghi chép của Mita Lv 366.]
 
 "Tốt lắm. Đã xong một tên."
 

@@ -18,7 +18,7 @@ Tuy nhiên, câu trả lời của Yu IlHan lại hết sức đơn giản.
 
 "Thì cách ăn nói của chúng cứng nhắc như vậy nên việc mọi người nghĩ chúng là người máy hay đại loại thế cũng chẳng có gì lạ, nhưng đó là vì chúng chưa được ban cho cái tôi hoàn chỉnh, chứ không đồng nghĩa với việc chúng không có quá trình trao đổi chất. Nghĩa là hiện tại tôi vẫn chưa thể đưa ra kết luận chắc chắn được."
 
-Yu IlHan là bậc thầy của kỹ năng Ký Lục. Đến nước này, ngay cả khi chạm trán những thứ chưa từng được ghi nhận, anh vẫn có thể nhìn ra những ký lục tương đồng giữa chúng với các tồn tại khác đã được ghi chép. Thế nhưng, sau khi quan sát những thứ này, Yu IlHan lại chẳng thể rút ra được bất kỳ kết luận nào. Dù là chúng có phải sinh vật sống hay không, đến từ nơi đâu, hay nếu thực sự không phải sinh vật sống thì chúng đã được tạo ra bằng cách nào!
+Yu IlHan là bậc thầy của kỹ năng Ký Lục. Đến nước này, ngay cả khi chạm trán những thứ chưa từng được ghi nhận, anh vẫn có thể nhìn ra những ghi chép tương đồng giữa chúng với các tồn tại khác đã được ghi chép. Thế nhưng, sau khi quan sát những thứ này, Yu IlHan lại chẳng thể rút ra được bất kỳ kết luận nào. Dù là chúng có phải sinh vật sống hay không, đến từ nơi đâu, hay nếu thực sự không phải sinh vật sống thì chúng đã được tạo ra bằng cách nào!
 
 "Tôi thực sự rất muốn bắt tay vào phân tích những thứ này ngay, nhưng mà......."
 

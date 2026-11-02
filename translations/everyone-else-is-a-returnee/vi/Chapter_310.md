@@ -26,7 +26,7 @@ Yu IlHan buông một câu trả lời dửng dưng với Liera, người đang 
 
 Phần thực sự đáng sợ của Đại Tai Biến chính là lũ quái vật được sinh ra dưới tác động của mana tiến hóa. Daréu vốn đã tràn ngập những quái vật kinh hoàng khi trải qua Đại Tai Biến lần 5, huống chi lúc này nó đã bước qua lần thứ 6!
 
-May mắn thay, Yu IlHan có thể thu nạp bầy rồng và Long tộc dưới trướng mình, nhưng trừ khi Yu IlHan trở thành trùm của Quân Đội Ma Hủy Diệt hay đại loại thế, bằng không việc ép toàn bộ quái vật quy phục là điều bất khả thi. Đặc biệt là lũ quái vật diệt rồng, dù cho chúng được tạo ra dựa trên chính những ký lục của anh!
+May mắn thay, Yu IlHan có thể thu nạp bầy rồng và Long tộc dưới trướng mình, nhưng trừ khi Yu IlHan trở thành trùm của Quân Đội Ma Hủy Diệt hay đại loại thế, bằng không việc ép toàn bộ quái vật quy phục là điều bất khả thi. Đặc biệt là lũ quái vật diệt rồng, dù cho chúng được tạo ra dựa trên chính những ghi chép của anh!
 
 "Dĩ nhiên cách tốt nhất là nhốt chúng vào các Bẫy Hủy Diệt, nhưng gom toàn bộ quái vật trên thế giới này tống vào hầm ngục lúc này là điều bất khả thi. Hơn nữa, nhờ Daréu dung hợp với hàng chục thế giới khác, diện tích đất liền cũng tăng lên một cách chóng mặt. Vì thế cho nên......."
 
@@ -114,7 +114,7 @@ Lũ quái vật không thể cưỡng lại luồng khí tức này nên đành 
 
 Khoảnh khắc cánh tay Yu IlHan vung mạnh xuống theo phương thẳng đứng, ma pháp trận cổ xưa của tộc elf liền được kích hoạt.
 
-Không, thứ đó không thể gọi là ma pháp trận cổ xưa của tộc elf được nữa. Nó đã được Yu IlHan cải tiến không ngừng, và trong suốt Đại Tai Biến, lượng ký lục nó tích lũy được đã đạt tới mức không tưởng! Yu IlHan quyết định gọi quách nó là tấm thảm.
+Không, thứ đó không thể gọi là ma pháp trận cổ xưa của tộc elf được nữa. Nó đã được Yu IlHan cải tiến không ngừng, và trong suốt Đại Tai Biến, lượng ghi chép nó tích lũy được đã đạt tới mức không tưởng! Yu IlHan quyết định gọi quách nó là tấm thảm.
 
 "Nghe thì kỳ quặc mà đúng đấy, nhưng không được gọi thế!"
 
@@ -160,7 +160,7 @@ Dù đó là một quái vật cấp hơn 250, gác lại chuyện Yu IlHan hạ
 
 "Chị chỉ thấy uổng phí bao năm tháng cuộc đời mình đã sống thôi......."
 
-Không chỉ nhóm Yu IlHan, mà ngay cả lũ quái vật cũng bàng hoàng trước đòn tấn công vượt ngoài tầm nhận thức ấy mà chết sững tại chỗ, trong khi những kẻ thừa hưởng ký lục của Yu IlHan nào phải kẻ ngốc mà bỏ lỡ thời cơ này. Yumir dẫn đầu tất cả cùng xung phong.
+Không chỉ nhóm Yu IlHan, mà ngay cả lũ quái vật cũng bàng hoàng trước đòn tấn công vượt ngoài tầm nhận thức ấy mà chết sững tại chỗ, trong khi những kẻ thừa hưởng ghi chép của Yu IlHan nào phải kẻ ngốc mà bỏ lỡ thời cơ này. Yumir dẫn đầu tất cả cùng xung phong.
 
 [Đẩy lùi chúng! Đẩy lùi chúng mạnh mẽ hơn nữa! Chiến đấu là phải dựa vào sĩ khí. Tựa như ngọn gió tiếp thêm sức cho lửa đỏ, hãy nhanh hơn và sắc bén hơn nữa!]
 

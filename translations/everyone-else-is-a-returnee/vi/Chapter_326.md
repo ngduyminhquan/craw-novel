@@ -8,9 +8,9 @@ Cuối cùng họ cũng nhận ra. Yu IlHan ở một đẳng cấp hoàn toàn 
 
 Yu IlHan mỉm cười. Trong quá trình trở thành Chúa Tể Long Sào, phong thái của Yu IlHan đã toát lên một cảm giác áp đảo đầy bí ẩn, thế nhưng nụ cười bông đùa của anh lại tỏa ra một sức hút kỳ lạ. Dĩ nhiên là khi đối diện với anh, Michael lại cảm thấy có phần ủ rũ chán chường!
 
-[Ngươi đang làm lung lay tất cả. Ngươi đã phớt lờ quy tắc lẫn luật pháp, và giờ đây ngươi lại đang phớt lờ chính trật tự của sinh mệnh, thậm chí cả những ký lục không thể vượt qua.]
+[Ngươi đang làm lung lay tất cả. Ngươi đã phớt lờ quy tắc lẫn luật pháp, và giờ đây ngươi lại đang phớt lờ chính trật tự của sinh mệnh, thậm chí cả những ghi chép không thể vượt qua.]
 
-"Ai đã đặt ra những quy tắc, luật pháp và trật tự đó chứ? Đó là ký lục của ai cơ? ...... Đâu phải của ngươi, đúng không?"
+"Ai đã đặt ra những quy tắc, luật pháp và trật tự đó chứ? Đó là ghi chép của ai cơ? ...... Đâu phải của ngươi, đúng không?"
 
 [Ngươi, Yu IlHan......]
 

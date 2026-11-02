@@ -42,7 +42,7 @@ Nếu là Yu IlHan của trước kia khi còn là một thực thể cấp th�
 
 "Ồ, đây quả là một ngọn thương lộng lẫy. Nó khắc lên kẻ địch vết thương không thể chữa lành, và những vết thương do nó gây ra sẽ không bao giờ ngừng chảy máu...... còn kẻ được công nhận là chủ nhân của món vũ khí này có thể tự hồi phục bằng cách làm tổn thương kẻ khác. Đối với một thiên thần thì chẳng phải đây là một thứ vũ khí quá đỗi tàn độc sao?"
 
-Yu IlHan vung vẩy ngọn thương vài lần để đọc các ký lục từ nó, rồi không chút do dự cắm phập nó vào Hỏa Hồn Long Thân. Chẳng lẽ anh đang định tự làm hại chính mình?
+Yu IlHan vung vẩy ngọn thương vài lần để đọc các ghi chép từ nó, rồi không chút do dự cắm phập nó vào Hỏa Hồn Long Thân. Chẳng lẽ anh đang định tự làm hại chính mình?
 
 Michael bàng hoàng trước cảnh tượng đó, nhưng ngay khoảnh khắc tiếp theo ngài ấy đã câm nín. Tạo tác cấp Thần bị hút gọn vào bộ giáp như thể bị ném xuống một mặt ao đang gợn sóng lan tỏa.
 
@@ -144,7 +144,7 @@ Dù chỉ có một đòn duy nhất quét ngang qua không trung, nhưng lại 
 
 [Bạn đã nhận được điểm kinh nghiệm.]
 
-[Bạn đã nhận được ký lục của Keshein Lv 588.]
+[Bạn đã nhận được ghi chép của Keshein Lv 588.]
 
 [Bạn đã đạt cấp độ 525. Tăng 10 Sức mạnh, 5 Nhanh nhẹn, 5 Thể lực, 10 Ma pháp.]
 
@@ -158,7 +158,7 @@ Yu IlHan thậm chí chẳng thèm lắng nghe những lời trăng trối của
 
 [Bạn đã nhận được điểm kinh nghiệm.]
 
-[Bạn đã nhận được ký lục của Raphael Lv 585.]
+[Bạn đã nhận được ghi chép của Raphael Lv 585.]
 
 [Bạn đã đạt cấp độ 530. Tăng 8 Sức mạnh, 7 Nhanh nhẹn, 5 Thể lực, 5 Ma pháp.]
 
