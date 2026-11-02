@@ -36,7 +36,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | reviewed |  |
 | 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | reviewed |  |
 | 31 |  | Chapter_031 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2) | done |  |
-| 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | todo |  |
+| 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | done |  |
 | 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | todo |  |
 | 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | todo |  |
 | 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | todo |  |
@@ -347,7 +347,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 ## Cần user xác nhận
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -418,3 +417,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#30] Phân loài Orc: 'Forest Orc' tạm chọn 'Orc Rừng', 'Labyrinth Orc' tạm chọn 'Orc Mê Cung' (phương án khác: coi là cách gọi mô tả thông thường, dịch 'Orc sống trong rừng' / 'Orc trong mê cung'). → Chốt 'Orc Rừng' và 'Orc Mê Cung'. (orchestrator) (orchestrator)
 - [#31] Dịch tên loài cây 'Maalt-Hoonoki' (lá to bảo quản thịt, gốc マールトホオノキ) — tạm chọn 'Hoonoki Maalt' (phương án khác: 'cây Hoonoki Maalt', 'mộc lan Maalt'). → Chốt 'Hoonoki Maalt'. (orchestrator)
 - [#31] Dịch ma pháp phòng ngự 'Shield' / 'Shield spell' — tạm chọn 'Khiên Chắn' (phương án khác: 'Khiên Ma Lực', 'Khiên Ma Pháp'). → Chốt 'Khiên Chắn'. (orchestrator)
+- [#32] Dịch cụm 'rank advancement test' / 'ranking test' — tạm chọn 'bài kiểm tra thăng hạng' (phương án khác: 'kỳ thi thăng cấp', 'bài thi nâng bậc'). → Chốt 'bài kiểm tra thăng hạng'. (orchestrator)
+- [#32] Xưng hô của Sheila Ibarss với tập thể thí sinh trong phòng thi — tạm chọn Sheila xưng 'tôi' gọi 'các bạn' (phương án khác: gọi 'mọi người'). → Chốt Sheila xưng 'tôi' gọi 'các bạn / mọi người'. (orchestrator)

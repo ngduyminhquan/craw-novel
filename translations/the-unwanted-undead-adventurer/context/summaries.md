@@ -183,5 +183,11 @@ Anh tiếp tục săn đủ thêm hai con Orc nữa theo yêu cầu ủy thác, 
 Trên đường về, Rentt chọn lối đi khác để vẽ thêm Bản Đồ Akasha nhưng nhận thấy quy mô quá rộng lớn của Mê Cung Tân Nguyệt gây khó khăn cho việc lập bản đồ hoàn chỉnh.
 Nghe tiếng động, Rentt lặng lẽ quan sát một cặp đôi mạo hiểm giả thiếu niên phối hợp kiếm thuật và ma pháp hỏa cầu đánh bại Slime cùng Goblin; sau khi thấy họ tự xoay xở tốt, anh yên tâm rời khỏi mê cung trong niềm vui vì không bị ai nghi ngờ hay dò xét.
 
+## 32
+Rentt trở về nhà Lorraine và giải thích lý do mượn họ của cô để đăng ký tên "Rentt Vivie" nhằm tránh những tin đồn bất lợi ảnh hưởng đến danh dự của Lorraine; hai người vui vẻ chấp nhận thân phận họ hàng xa và chia sẻ về các thành quả thám hiểm cũng như cơ thể Thi Quỷ mới.
+Nhờ chiến tích săn thành công ba con Orc và trở về lành lặn, Rentt được Hội thông báo đủ điều kiện tham gia bài kiểm tra thăng hạng lên Đồng Cấp; anh quyết định thi ngay ngày hôm sau thay vì dành thời gian ôn tập như các tân binh khác nhờ kiến thức vững vàng từ kiếp trước.
+Đến Hội Mạo Hiểm Giả đúng giờ dưới sự hướng dẫn của Sheila, Rentt bước vào phòng thi viết trên tầng hai cùng vài mạo hiểm giả Thiết Cấp khác; Sheila phát đề thi, phiếu trả lời, bút lông ngỗng và dốc ngược chiếc đồng hồ cát lớn để chính thức bắt đầu bài thi.
+
+
 
 

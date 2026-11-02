@@ -51,3 +51,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zarid | Lorraine Vivie | tôi | cô / Lorraine | 28 | Tiền bối lớn tuổi nói chuyện thoải mái với hậu bối |
 | Rentt Faina | Zarid | tôi | anh / Zarid | 29 | Đồng nghiệp mạo hiểm giả lâu năm (Rentt 25 tuổi, Zarid 40-50 tuổi) |
 | Zarid | Rentt Faina | tôi | cậu / Rentt | 29 | Tiền bối lớn tuổi nói chuyện thân thiện với hậu bối |
+| Sheila Ibarss | * | tôi | các bạn / mọi người | 32 | Tiếp tân viên Hội hướng dẫn và giám thị kỳ thi thăng hạng |
