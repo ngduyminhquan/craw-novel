@@ -653,6 +653,12 @@ Rentt an toàn trở về dinh thự của Lorraine sau cuộc gặp gỡ đầy
 Lorraine và Rentt cùng phân tích bản chất chủng loài hiện tại của Rentt: liệu anh có thực sự là Ma Cà Rồng hay chỉ là một sinh vật dị biệt dạng Undead, và khả năng lượng Thần Lực dồi dào anh sở hữu chính là thứ tạo ra kháng tính triệt tiêu Thánh Hỏa.
 Rentt hồi tưởng lại nguồn gốc Thần Lực từ thời thiếu niên khi anh dọn dẹp và tu bổ một ngôi đền cổ hoang phế vô danh trong rừng ở quê nhà; Lorraine bất ngờ đề xuất cả hai cùng làm một chuyến về thăm ngôi làng quê hương của Rentt.
 
+## 112
+Myullias Raiza quan sát sự thờ ơ của thị dân Maalt đối với nguyện đường Lobelia khi họ chỉ ghé mua Nước Thánh và xà phòng; cô cùng tư tế giám sát Gilly phân tích chiến lược mở rộng tầm ảnh hưởng của Giáo Hội Lobelia nhắm vào giới quý tộc và thương nhân đối trọng với Giáo Hội Đông Thiên.
+Gilly nhận một phong thư truyền đạt mệnh lệnh trực tiếp từ Đại Giáo Phụ yêu cầu Myullias đi cùng Mạo hiểm giả Kim Cấp Nive Maris tới gặp một mạo hiểm giả để tham gia chuỗi đàm phán.
+Khi giải thích về danh hiệu Thợ Săn Ma Cà Rồng của Nive, Gilly bất ngờ để lộ vẻ hào hứng hiếm thấy và thừa nhận ước mơ thời thơ ấu từng muốn làm mạo hiểm giả trước khi bước vào con đường tu đạo khiến Myullias ngạc nhiên trêu chọc.
+Dù bối rối trước việc một mạo hiểm giả Kim Cấp có thể tác động lên giới thượng tầng của giáo hội để điều động Thánh Nữ, Myullias vẫn phải chấp hành mệnh lệnh và chuẩn bị tinh thần gặp mặt Nive Maris vào ngày hôm sau.
+
 
 
 

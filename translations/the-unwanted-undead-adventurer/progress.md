@@ -116,7 +116,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 109 |  | Chapter_109 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5) | reviewed |  |
 | 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | reviewed |  |
 | 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | reviewed |  |
-| 112 |  | Chapter_112 - Vol 4 Side Story - The Princess-Saint of Healing (1).txt | Vol 4 Side Story - The Princess-Saint of Healing (1) | todo |  |
+| 112 |  | Chapter_112 - Vol 4 Side Story - The Princess-Saint of Healing (1).txt | Vol 4 Side Story - The Princess-Saint of Healing (1) | done |  |
 | 113 |  | Chapter_113 - Vol 4 Side Story - The Princess-Saint of Healing (2).txt | Vol 4 Side Story - The Princess-Saint of Healing (2) | todo |  |
 | 114 |  | Chapter_114 - Vol 4 Side Story - The Princess-Saint of Healing (3).txt | Vol 4 Side Story - The Princess-Saint of Healing (3) | todo |  |
 | 115 |  | Chapter_115 - Vol 5 Chapter 1 - Off to Adventure (1).txt | Vol 5 Chapter 1 - Off to Adventure (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -596,3 +597,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#109] Dịch tiêu đề chương 'Vol 4 Intermission - Myullias Raiza, Priestess-Saint (5)' — tạm chọn 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (5)' (đồng bộ format với #105, #106, #107, #108; phương án khác: 'Chương đệm Tập 4 - Nữ Tư Tế Thánh Myullias Raiza (5)'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (5)'. → Giữ 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (5)' đồng bộ với #105-#108. (orchestrator)
 - [#110] Dịch tiêu đề chương 'Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6)' — tạm chọn 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (6)' (đồng bộ format với #105–#109; phương án khác: 'Chương đệm Tập 4 - Nữ Tư Tế Thánh Myullias Raiza (6)'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (6)'. → Giữ 'Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (6)' đồng bộ với #105-#109. (orchestrator)
 - [#111] Dịch tiêu đề chương 'Vol 4 Epilogue' — tạm chọn 'Phần kết Tập 4' (đồng bộ với #81 'Phần kết Tập 3'; phương án khác: 'Hậu truyện Tập 4', 'Vĩ thanh Tập 4'). Tạm dùng trong bản dịch: 'Phần kết Tập 4'. → Giữ 'Phần kết Tập 4' đồng bộ với #81. (orchestrator)
+- [#112] Dịch địa danh 'Holy Empire of Ars' trong raw chương 112: Raw chương 81 dùng 'Holy Kingdom of Ars' (Thánh Vương Quốc Ars theo nguyên tác Nhật アルス聖王国), chương 112 lại viết 'Holy Empire of Ars' (Đế Quốc thay vì Vương Quốc); tạm dùng trong bản dịch: 'Thánh Vương Quốc Ars' (đồng bộ với chương 81 và nguyên tác) và đã thêm 'Holy Empire of Ars' vào Alias trong glossary.md (phương án khác: đổi thành 'Thánh Đế Quốc Ars'). → Giữ 'Thánh Vương Quốc Ars' đồng bộ với chương 81 (nguyên tác アルス聖王国) và thêm 'Holy Empire of Ars' vào Alias trong glossary.md (orchestrator)
+- [#112] Dịch tiêu đề chương 'Vol 4 Side Story - The Princess-Saint of Healing (1)': tạm chọn 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)' (đồng bộ format 'Ngoại truyện' với các bonus/side story trước và khớp danh hiệu Thánh Nữ của Myullias Raiza trong nguyên tác 治癒の聖女; phương án khác: 'Ngoại truyện Tập 4 - Công Chúa Thánh Nữ Trị Liệu (1)'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)'. → Dùng 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)', đồng bộ danh hiệu Thánh Nữ của Myullias Raiza và định dạng tiêu đề ngoại truyện (orchestrator)

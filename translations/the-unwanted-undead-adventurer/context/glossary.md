@@ -152,7 +152,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Master Dissectionist | Master Dissectionists | Chuyên gia Mổ Xẻ Trưởng | chức nghiệp | 80 | Chức vị chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả |
 | Stheno Trading Company | the Stheno Trading Company; Stheno | Thương hội Stheno | tổ chức | 80 | Thương hội buôn bán và đấu giá lớn hàng đầu tại Maalt (ステンノ商会) |
 | Goddess Lobelia | the Goddess Lobelia; One True Goddess Lobelia | Nữ Thần Lobelia | khác | 81 | Nữ thần tối cao được Giáo Hội Lobelia tôn sùng là đấng sáng thế duy nhất (ロベリア女神) |
-| Holy Kingdom of Ars |  | Thánh Vương Quốc Ars | địa danh | 81 | Quốc gia tôn giáo lớn ở phía tây, nơi đặt tổng đàn Giáo Hội Lobelia (アルス聖王国) |
+| Holy Kingdom of Ars | Holy Empire of Ars | Thánh Vương Quốc Ars | địa danh | 81 | Quốc gia tôn giáo lớn ở phía tây, nơi đặt tổng đàn Giáo Hội Lobelia (アルス聖王国) |
 | Vansurt |  | Vansurt | khác | 81 | Phong Thần được tôn thờ trong các tôn giáo khác |
 | Wind God | the Wind God | Phong Thần | danh hiệu | 81 | Danh hiệu thần linh của Vansurt trong các tôn giáo khác (風神) |
 | Fourostoroa |  | Fourostoroa | khác | 81 | Nhân vật anh hùng trảm ác long trong truyện ngụ ngôn cổ xưa |
@@ -204,3 +204,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | magical pouch | magical pouches; magic pouch; magic pouches | túi ma thuật | vật phẩm | 10 | Loại ma cụ có không gian bên trong mở rộng gấp nhiều lần để chứa đồ (魔導ポーチ) |
 | Noxious Swamp-Bird | the Noxious Swamp-Bird | Chim Đầm Lầy Độc | quái vật | 108 | Loài chim độc sinh sống tại Đầm Lầy Tarasque |
 | Poison Gem | Tarasque’s Poison Gem; the Tarasque’s Poison Gem | Độc Ngọc Tarasque | vật phẩm | 108 | Tinh thể kết tinh chất độc của Tarasque |
+| Great Church-Father |  | Đại Giáo Phụ | chức nghiệp | 112 | Người đứng đầu tối cao của Giáo Hội Lobelia (大教父) |
