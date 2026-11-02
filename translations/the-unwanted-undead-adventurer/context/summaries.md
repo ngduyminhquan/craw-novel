@@ -552,5 +552,11 @@ Nhằm kiếm thêm Ma Tinh phẩm chất tốt cho vũ khí của Alize và tr�
 Rentt chém đứt đầu con sói đầu đàn nhưng suýt trúng đòn phản kích bất ngờ bằng lưỡi đao gió từ cái đầu đứt lìa, sau đó dễ dàng quét sạch ba con sói còn lại khi đội hình bầy đàn của chúng tan vỡ.
 Thu hoạch da lông, răng nanh và Ma Tinh xong xuôi, Rentt chôn cất xác quái và nhờ Edel dùng phong ma pháp thổi bay mùi máu tươi để tránh tụ quái ở lối đi, rồi tự nhắc nhở bản thân cảnh giác trước khi bước xuống tầng 4.
 
+## 95
+Bước xuống tầng 4 Mê Cung Tân Nguyệt, Rentt ngỡ ngàng trước cảnh tượng ngọn núi đá khổng lồ lơ lửng giữa khoảng không vô tận không thấy đáy, chỉ nối với lối cầu thang bằng một con đường đá hẹp độc đạo.
+Khi mải ngắm cảnh, anh bị màn nghênh đón cố định gồm ba con Lizardman cầm kiếm, giáo và đao cong phục kích lao tới; do Edel đang kiệt sức nằm nghỉ và bản thân thiếu ma pháp tầm xa, Rentt buộc phải chọn phương án nghênh chiến trực diện.
+Tận dụng địa hình hẹp và đòn đâm trực diện, Rentt hất văng con Lizardman đầu tiên khiến con thứ ba trượt chân rơi xuống vực thẳm vô tận; tiếp đó anh lách qua con cầm giáo để chém bay con cầm kiếm bị thương xuống vực.
+Dẫn dụ con Lizardman cầm giáo cuối cùng chạy lên nền đất vững chắc của ngọn núi bay, Rentt khéo léo né đòn đâm, chém trọng thương và chặt đầu kết liễu nó, thu hoạch nguyên liệu rồi tiếp tục tiến bước thám hiểm tầng 4.
+
 
 

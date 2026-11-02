@@ -99,7 +99,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | reviewed |  |
 | 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | reviewed |  |
 | 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | done |  |
-| 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | todo |  |
+| 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | done |  |
 | 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | todo |  |
 | 97 |  | Chapter_097 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (4) | todo |  |
 | 98 |  | Chapter_098 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (5) | todo |  |
@@ -348,8 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -558,3 +556,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#93] Dịch tiêu đề chương 'Vol 4 Intermission - Rina Rupaage, Adventurer' — tạm chọn 'Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage' (đồng bộ phong cách với 'Mạo Hiểm Giả Rina' ở #6; phương án khác: 'Chương đệm Tập 4 - Rina Rupaage, Mạo Hiểm Giả', 'Giao khúc Tập 4 - Mạo Hiểm Giả Rina Rupaage'). Tạm dùng trong bản dịch: 'Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage'. → Giữ 'Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage' đồng bộ với #6. (orchestrator)
 - [#93] Xử lý số trang sách in kẹt ở cuối raw đoạn 38 'Page|44' — tạm lược bỏ vì đây là rác định dạng bản in ebook tương tự như 'Page|7' ở #89 và 'Page|34' ở #92 (phương án khác: giữ nguyên 'Page|44'). Tạm dùng trong bản dịch: lược bỏ. → Chấp nhận lược bỏ watermark trang ebook 'Page|44'. (orchestrator)
 - [#94] Dịch tiêu đề arc/chương 'Vol 4 Chapter 2 - Materials for My Disciple’s Weapon' và quái vật mới 'Forest Wolf' — tạm chọn tiêu đề 'Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (1)' và 'Sói Rừng' (phương án khác: 'Nguyên Liệu Cho Vũ Khí Của Đệ Tử', 'Ma Sói Rừng'). → Giữ 'Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử' và 'Sói Rừng' (Forest Wolf). (orchestrator)
+- [#95] Dịch tên quái vật 'Lizardman' / 'Lizardmen' và chủng tộc 'Wyvern-folk' — tạm chọn giữ nguyên 'Lizardman' (nhất quán với Orc, Goblin, Slime, Golem) và dịch 'Wyvern-folk' thành 'Tộc Phi Long' (nhất quán với 'Quán Phi Long Đỏ' ở #20; phương án khác: dịch 'Người Thằn Lằn' / 'Tộc Wyvern'). Tạm dùng trong bản dịch: 'Lizardman' và 'Tộc Phi Long'. → Giữ nguyên 'Lizardman' (quái vật) và dịch 'Wyvern-folk' thành 'Tộc Phi Long' (nhất quán với Orc, Goblin và Quán Phi Long Đỏ). (orchestrator)

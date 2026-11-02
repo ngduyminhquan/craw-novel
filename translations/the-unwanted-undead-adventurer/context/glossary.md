@@ -172,3 +172,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Kesem Kofu |  | Kesem Kofu | quái vật | 91 | Quái vật dạng khỉ nhanh nhẹn xảo quyệt sống trên tán cây tầng 3 Mê Cung Tân Nguyệt |
 | Ent | Ents | Ent | quái vật | 92 | Chủng quái vật dạng cây gỗ / người cây nói chung |
 | Forest Wolf | Forest Wolves | Sói Rừng | quái vật | 94 | Phân loài quái vật sói sống theo bầy đàn trong rừng và tầng 3 Mê Cung Tân Nguyệt |
+| Lizardman | Lizardmen | Lizardman | quái vật | 95 | Quái vật hình người mang vảy và đặc tính loài bò sát ở tầng 4 Mê Cung Tân Nguyệt (リザードマン) |
+| Wyvern-folk |  | Tộc Phi Long | chủng tộc | 95 | Chủng tộc thú nhân mang đặc điểm của Phi Long, là chủng tộc có tri thức chứ không phải quái vật (飛竜種/飛竜人) |
