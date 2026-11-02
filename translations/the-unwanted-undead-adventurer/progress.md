@@ -71,9 +71,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 64 |  | Chapter_064 - Vol 3 Chapter 2 - And an Equally Peculiar Request (4).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (4) | reviewed |  |
 | 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | reviewed |  |
 | 66 |  | Chapter_066 - Vol 3 Chapter 2 - And an Equally Peculiar Request (6).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (6) | reviewed |  |
-| 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | done |  |
-| 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | done |  |
-| 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | done |  |
+| 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | reviewed |  |
+| 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | reviewed |  |
+| 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | reviewed |  |
 | 70 |  | Chapter_070 - Vol 3 Chapter 3 - A New Existential Evolution (1).txt | Vol 3 Chapter 3 - A New Existential Evolution (1) | todo |  |
 | 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | todo |  |
 | 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | todo |  |
