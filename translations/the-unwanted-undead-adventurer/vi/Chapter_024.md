@@ -134,7 +134,7 @@ Tôi chẳng hề có ý khẳng định Rina có bất kỳ điểm nào giốn
 
 Bản thân tôi cũng có những nhiệm vụ cần phải làm. Giả như Rina có bao giờ tự đẩy mình vào tình cảnh hiểm nghèo, tất cả những gì tôi cần làm chỉ là chìa tay giúp đỡ cô bé vào lúc ấy mà thôi.
 
-Sự hiện diện của một kỵ sĩ ở thị trấn này đã đủ khiến anh ta nổi bật như một ngọn đèn giữa đêm tối—Idoles, dĩ nhiên, dường như chẳng hề nhận ra điều đó.
+Sự hiện diện của một kỵ sĩ ở thị trấn này đã đủ khiến anh ta nổi bần bật một cách lạc lõng—Idoles, dĩ nhiên, dường như chẳng hề nhận ra điều đó.
 
 Tạm gác lại những suy nghĩ về chuyện này, tôi thong thả cất bước quay về. Trước mắt, tôi đồ rằng mình nên trở lại tư dinh của Lorraine.
 

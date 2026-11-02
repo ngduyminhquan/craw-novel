@@ -82,7 +82,7 @@ Tôi không tài nào tin nổi một Lorraine đang hăng máu đến mức ấ
 
 "Anh coi tôi là hạng người nào vậy? Ngay cả tôi thi thoảng cũng phải có chút biết điều chứ."
 
-Đó là điều tôi chưa bao giờ ngờ tới ở Lorraine. Việc cô biết nghĩ cho người khác đúng là "thi thoảng" thật—tôi đã định bụng vặn lại một câu, nhưng rốt cuộc quyết định hôm nay thôi không nói nữa.
+Đó là điều tôi chưa bao giờ ngờ tới ở Lorraine. Việc cô biết nghĩ cho người khác đúng là 'thi thoảng' thật—tôi đã định bụng vặn lại một câu, nhưng rốt cuộc quyết định hôm nay thôi không nói nữa.
 
 ◆◇◆◇◆
 

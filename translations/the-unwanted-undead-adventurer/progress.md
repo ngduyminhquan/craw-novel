@@ -26,9 +26,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 19 |  | Chapter_019 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (4) | reviewed |  |
 | 20 |  | Chapter_020 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (5) | reviewed |  |
 | 21 |  | Chapter_021 - Vol 1 Chapter 5 - Proof of Inhumanity (1).txt | Vol 1 Chapter 5 - Proof of Inhumanity (1) | reviewed |  |
-| 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | done |  |
-| 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | done |  |
-| 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | done |  |
+| 22 |  | Chapter_022 - Vol 1 Chapter 5 - Proof of Inhumanity (2).txt | Vol 1 Chapter 5 - Proof of Inhumanity (2) | reviewed |  |
+| 23 |  | Chapter_023 - Vol 1 Chapter 5 - Proof of Inhumanity (3).txt | Vol 1 Chapter 5 - Proof of Inhumanity (3) | reviewed |  |
+| 24 |  | Chapter_024 - Vol 1 Chapter 5 - Proof of Inhumanity (4).txt | Vol 1 Chapter 5 - Proof of Inhumanity (4) | reviewed |  |
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | todo |  |
 | 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | todo |  |
 | 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | todo |  |

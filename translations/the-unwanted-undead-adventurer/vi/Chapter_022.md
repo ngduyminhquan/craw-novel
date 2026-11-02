@@ -48,7 +48,7 @@ Một vật phẩm có tri giác...
 
 Vật phẩm có tri giác quả thực rất hiếm. Đó là thuật ngữ thường được liên hệ với ma kiếm và những thứ tương tự. Những món đồ này thường có ý chí của riêng mình, và người ta đồn rằng chúng có thể tự lựa chọn chủ nhân. Chúng thường được tìm thấy sâu trong lòng mê cung, và được cho là nền kỹ thuật hiện đại của con người không thể nào tái tạo lại được. Có thể nói chúng vừa hiếm hoi, vừa lừng danh (hoặc tai tiếng) cùng một lúc.
 
-Tôi nêu giả thuyết đó với Lorraine. Có lẽ chiếc mặt nạ của tôi cũng là một tạo tác tương tự. Dẫu vậy, cũng có một thực tế là chiếc mặt nạ này được Rina mua với giá chỉ vài đồng đồng. Dù có giải thích thế nào đi chăng nữa, mức giá đó quả thực là quá rẻ đối với một vật phẩm có tri giác.
+Tôi nêu giả thuyết đó với Lorraine. Có lẽ chiếc mặt nạ của tôi cũng là một tạo tác tương tự. Dẫu vậy, cũng có một thực tế là chiếc mặt nạ này được Rina mua với giá chỉ vài đồng tiền đồng. Dù có giải thích thế nào đi chăng nữa, mức giá đó quả thực là quá rẻ đối với một vật phẩm có tri giác.
 
 Sau một hồi suy nghĩ, Lorraine đưa ra câu trả lời. "Anh cũng phải tính đến chuyện nó bị nguyền rủa nữa chứ. Chủ nhân lúc đó có thể chỉ định một mức giá rẻ như vậy để nhanh chóng tống khứ nó đi thôi. Chúng ta cũng nên cân nhắc xem liệu chiếc mặt nạ có khả năng thao túng suy nghĩ của người đeo ở một chừng mực nào đó hay không..."
 
@@ -84,7 +84,7 @@ Dù nó có thể biến thành những hình dạng khác sáng tạo hơn, nh�
 
 "...Vậy là anh có thể tự do định hình nó, nhưng lại không thể tháo ra. Kỳ lạ thật đấy... Cơ mà thế này lại có lợi cho anh đấy chứ? Mặt anh trông vẫn còn khá giống một Undead mà," Lorraine vừa nói vừa gật đầu, vẻ mặt có vẻ hài lòng.
 
-Đúng như lời cô ấy nói, nhân tính của tôi chắc chắn sẽ bị nghi ngờ nếu có ai đó nhìn kỹ vào nửa dưới khuôn mặt—dẫu ngay từ đầu tôi vốn đâu còn là con người nữa. Thân thể tôi không may cũng ở vào tình trạng tương tự. Nếu để lộ diện mạo của mình, một người thị dân bình thường chắc chắn sẽ thắc mắc làm sao tôi thậm chí còn có thể cử động được, đơn giản là vì những vết tì vết trên da tôi không chỉ là vết thương thông thường—vài khúc xương vẫn còn lộ rõ bên dưới lớp thịt khô khốc. Lại còn vấn đề về máu nữa—hay đúng hơn là sự thiếu vắng của nó. Những vết thương của tôi không hề chảy máu.
+Đúng như lời cô ấy nói, nhân tính của tôi chắc chắn sẽ bị nghi ngờ nếu có ai đó nhìn kỹ vào nửa dưới khuôn mặt—dẫu ngay từ đầu tôi vốn đâu còn là con người nữa. Thân thể tôi không may cũng ở vào tình trạng tương tự. Nếu để lộ diện mạo của mình, một người thị dân bình thường chắc chắn sẽ thắc mắc làm sao tôi thậm chí còn có thể cử động được, đơn giản là vì những tì vết trên da tôi không chỉ là vết thương thông thường—vài khúc xương vẫn còn lộ rõ bên dưới lớp thịt khô khốc. Lại còn vấn đề về máu nữa—hay đúng hơn là sự thiếu vắng của nó. Những vết thương của tôi không hề chảy máu.
 
 Tuy nhiên, sau khi cân nhắc tất cả những điều đó, tôi vẫn thích hình hài này hơn nhiều—ít nhất là hơn hình hài trước đây. Thoạt nhìn lướt qua thì trông tôi vẫn là một con người. Tôi đồ rằng đó là vị trí hiện tại của mình trên thang đo ấy.
 

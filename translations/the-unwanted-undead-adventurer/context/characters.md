@@ -22,7 +22,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 23: Thể chất Thi Quỷ có thể ăn thức ăn bình thường và tiếp nhận thuốc hồi phục, miễn nhiễm hầu hết độc tố; khứu giác nhạy bén phân biệt được tuổi tác, giới tính, hướng và tình trạng sức khỏe qua mùi máu người; được Lorraine trích máu và chu cấp một lọ máu bảo quản để kiềm chế cơn khát; quyết định đặt mục tiêu tiến hóa thành hình thái giống người và quay lại tiệm Ba Chĩa sửa thanh kiếm mượn đã hỏng.
+- Trạng thái tính đến chương 24: Thể chất Thi Quỷ có thể ăn thức ăn bình thường và tiếp nhận thuốc hồi phục, miễn nhiễm hầu hết độc tố; khứu giác nhạy bén phân biệt được tuổi tác, giới tính, hướng và tình trạng sức khỏe qua mùi máu người; được Lorraine trích máu và chu cấp một lọ máu bảo quản để kiềm chế cơn khát; trả lại thanh kiếm mượn bị mòn vẹt do truyền Thần Lực khi đánh Khô Lâu Khổng Lồ ở khu vực chưa khai phá và được Clope cho mượn tạm thanh kiếm khác tốt hơn trong lúc chờ rèn xong kiếm đặt; vô tình gặp Idoles Rogue đang tìm kiếm em gái Rina nhưng quyết định giữ bí mật giúp cô bé; được Lorraine chỉ ra rằng anh quá nổi tiếng và được Hội đánh giá cao nên không thể dùng danh tính cũ nếu xuất hiện trong hình hài dị thường, đồng thời đề xuất anh đổi họ để đăng ký danh tính mạo hiểm giả mới.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -46,7 +46,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 23: Dành trọn ngày tiến hành các thí nghiệm thể chất lên Rentt (chụp ảnh bằng Tinh Thể Ghi Hình, thử độc, kiểm tra tiêu hóa thuốc và thức ăn); trích máu của mình bỏ vào lọ ếm ma pháp bảo quản tặng Rentt để giúp anh kiềm chế cơn khát máu của Thi Quỷ; khuyến khích anh đặt mục tiêu tâm trí tiến hóa thành hình thái giống người.
+- Trạng thái tính đến chương 24: Dành trọn ngày tiến hành các thí nghiệm thể chất lên Rentt (chụp ảnh bằng Tinh Thể Ghi Hình, thử độc, kiểm tra tiêu hóa thuốc và thức ăn); trích máu của mình bỏ vào lọ ếm ma pháp bảo quản tặng Rentt để giúp anh kiềm chế cơn khát máu của Thi Quỷ; chỉ ra Rentt quá nổi tiếng và được Hội đánh giá cao nên không thể dùng danh tính cũ nếu xuất hiện trong hình hài dị thường; đề xuất Rentt đổi họ để đăng ký danh tính mạo hiểm giả mới.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -60,14 +60,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tinh tế, sắc sảo, kín tiếng, có mắt nhìn vũ khí và thấu hiểu khách hàng sâu sắc; giàu tình cảm và quan tâm chân thành đến Rentt.
 - Cách nói chuyện: Nhã nhặn, chuyên nghiệp, khéo léo với khách; dịu dàng, thân thiết với chồng.
 - Quan hệ: Vợ kiêm bạn thanh mai trúc mã của Clope; người tiếp đón và sớm nhận ra Rentt sau lớp mặt nạ tại tiệm Ba Chĩa.
-- Trạng thái tính đến chương 15: Tiếp nhận đơn rèn thanh kiếm đặc biệt dẫn truyền cả 3 loại năng lượng từ Rentt; cùng Clope ngầm giữ kín bí mật về thân phận của anh.
+- Trạng thái tính đến chương 24: Tiếp nhận đơn rèn thanh kiếm đặc biệt dẫn truyền cả 3 loại năng lượng từ Rentt; cùng Clope ngầm giữ kín bí mật về thân phận của anh; lấy một thanh kiếm mượn tạm khác tốt hơn cho Rentt dùng theo lời dặn của Clope trong lúc chờ rèn xong kiếm đặt.
 
 ### Clope
 - Giới tính, tuổi/vẻ ngoài: Nam, khoảng ngoài 40 tuổi, cơ bắp cuồn cuộn nhưng dáng người có phần mảnh khảnh; gương mặt dạn dày sương gió như chiến binh kỳ cựu.
 - Tính cách: Cần cù, say mê nghề rèn, khi rèn vũ khí thì tập trung cao độ như rơi vào trạng thái xuất thần; vẻ ngoài và lời ăn tiếng nói thô ráp bộc trực như đe dọa nhưng bản chất rất hiền lành, chu đáo và biết nghĩ cho khách hàng.
 - Cách nói chuyện: Bộc trực, dân dã, ngắn gọn, thẳng thắn.
 - Quan hệ: Chồng kiêm bạn thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
-- Trạng thái tính đến chương 15: Đảm nhận chế tác thanh kiếm đặc biệt cho Rentt, ngầm nhận ra người bạn cũ dưới lớp mặt nạ và tôn trọng nguyện vọng giữ kín của anh.
+- Trạng thái tính đến chương 24: Đảm nhận chế tác thanh kiếm đặc biệt cho Rentt, ngầm nhận ra người bạn cũ dưới lớp mặt nạ và tôn trọng nguyện vọng giữ kín của anh; nhận lại thanh kiếm mượn bị mòn vẹt do Rentt truyền Thần Lực khi đánh Khô Lâu Khổng Lồ ở khu vực chưa khai phá và bảo Luka lấy một thanh kiếm mượn tạm khác tốt hơn cho Rentt dùng trong lúc chờ rèn xong kiếm đặt.
 
 ### Loris Cariello
 - Giới tính, tuổi/vẻ ngoài: Nam, trung niên, dáng người bình thường của một đầu bếp kiêm chủ quán ăn.
