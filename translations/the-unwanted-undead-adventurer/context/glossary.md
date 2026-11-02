@@ -76,3 +76,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Pulling | pulling | dụ quái | khác | 29 | Tiếng lóng mạo hiểm giả chỉ hành động dẫn quái vật về phía người khác rồi bỏ chạy |
 | Forest Orc | Forest Orcs | Orc Rừng | quái vật | 30 | Phân loài Orc sinh sống theo bầy đàn trong rừng |
 | Labyrinth Orc | Labyrinth Orcs | Orc Mê Cung | quái vật | 30 | Phân loài Orc sinh sống đơn độc trong mê cung |
+| Shield | Shield spell | Khiên Chắn | kỹ năng | 26 | Ma pháp phòng ngự tạo ra lớp khiên ma lực bảo vệ bản thân (シールド) |
+| Maalt-Hoonoki |  | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |

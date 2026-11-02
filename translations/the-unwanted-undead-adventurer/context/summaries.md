@@ -177,5 +177,11 @@ Rentt bắt đầu thực hiện ủy thác săn Orc bằng cách tiến vào M�
 Bị nhiều mạo hiểm giả chú ý vì đi thám hiểm độc hành, anh thử sức ở các tầng nông và chạm trán các nhóm Khô Lâu và Slime; dù bị bao vây trong các hành lang rộng, anh kiên trì phòng thủ và tiết kiệm Ma Lực lẫn Khí Lực, đồng thời nhận thấy chiếc áo chùng có khả năng kháng đòn Acid Blitz tuyệt vời.
 Sau khi thu thập Ma Tinh vào chiếc túi thắt lưng không gian ếm ma pháp, Rentt bước xuống tầng tiếp theo và ngỡ ngàng trước cảnh tượng một không gian ma thuật rộng lớn tựa như đồng cỏ và cánh rừng ngập tràn ánh nắng ngay giữa lòng mê cung.
 
+## 31
+Rentt đối đầu và hạ gục một con Orc bằng giác quan chiến đấu nhạy bén cùng ma pháp Khiên Chắn kết hợp Khí Lực, rồi tháo máu và pha lóc các phần thịt ngon cùng nội tạng bọc vào lá cây Hoonoki Maalt.
+Anh tiếp tục săn đủ thêm hai con Orc nữa theo yêu cầu ủy thác, cảm nhận sinh mệnh lực hấp thụ từ chúng giúp cơ thể mạnh mẽ hơn, rồi bắt đầu quay trở lại cầu thang dẫn lên tầng trên.
+Trên đường về, Rentt chọn lối đi khác để vẽ thêm Bản Đồ Akasha nhưng nhận thấy quy mô quá rộng lớn của Mê Cung Tân Nguyệt gây khó khăn cho việc lập bản đồ hoàn chỉnh.
+Nghe tiếng động, Rentt lặng lẽ quan sát một cặp đôi mạo hiểm giả thiếu niên phối hợp kiếm thuật và ma pháp hỏa cầu đánh bại Slime cùng Goblin; sau khi thấy họ tự xoay xở tốt, anh yên tâm rời khỏi mê cung trong niềm vui vì không bị ai nghi ngờ hay dò xét.
+
 
 
