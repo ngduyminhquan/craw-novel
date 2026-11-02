@@ -57,7 +57,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sheila Ibarss | Raiz Dunner | tôi | thí sinh Raiz / cậu | 33 | Tiếp tân viên Hội gọi thí sinh |
 | Sheila Ibarss | Laura Satii | tôi | thí sinh Laura / cô | 33 | Tiếp tân viên Hội gọi thí sinh |
 | Rentt Faina | Raiz Dunner | tôi | cậu / Raiz | 33 | Tiền bối dạn dày kinh nghiệm nói chuyện bình đẳng với tân binh |
-| Raiz Dunner | Rentt Faina | tôi | Rentt | 33 | Trưởng nhóm tân binh bộc trực gọi đồng đội cùng hạng |
+| Raiz Dunner | Rentt Faina | tôi | anh / Rentt | 33 | Trưởng nhóm tân binh bộc trực gọi đồng đội cùng hạng |
 | Rentt Faina | Laura Satii | tôi | cô / Laura | 33 | Giao tiếp nhã nhặn với nữ đồng đội |
 | Laura Satii | Rentt Faina | tôi | anh Vivie | 33 | Lễ phép với mạo hiểm giả mang họ Vivie (raw: Mister Vivie) |
 | Raiz Dunner | Laura Satii | tôi | Laura | 33 | Cặp đôi mạo hiểm giả thân quen |

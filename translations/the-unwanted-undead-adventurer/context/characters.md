@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 33: Hoàn thành xuất sắc bài thi viết thăng hạng Đồng Cấp với điểm số tuyệt đối; được Sheila ghép đội cùng Raiz Dunner và Laura Satii tham gia phần thi thực hành chạy đua tới điểm chỉ định trong Mê Cung Tân Nguyệt; kịp thời phát hiện tấm bản đồ Hội cấp đã lỗi thời 15 năm và dẫn cả nhóm đi mua bản đồ mới từ một gã bán rong mặc áo chùng khả nghi.
+- Trạng thái tính đến chương 36: Mua bản đồ chuẩn từ gã áo chùng bí ẩn; dẫn dắt nhóm vượt qua đợt phục kích của nhóm thí sinh được Hội ngầm thuê; nhường nhóm thí sinh kiêu ngạo vào phòng thủ lĩnh trước để quan sát trinh sát; phối hợp cùng Raiz và Laura tiêu diệt Đại Slime và chia bình thu gom chất dịch Slime.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

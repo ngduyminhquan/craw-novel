@@ -22,13 +22,13 @@ Có lẽ hành vi này sẽ bị xem là kỳ quặc đối với một kẻ đ�
 
 Nói đoạn, gã đàn ông rút từ sâu trong tà áo chùng ra thứ dường như là một cuộn giấy thô ráp. Tuy nhiên, tôi đời nào chịu chấp nhận mức giá đó.
 
-"...Tôi chỉ muốn một tấm bản đồ... Của tầng một. Ngoài ra... Giá đó quá... Quá đắt cho một tấm bản đồ. Hãy... Thỏa thuận công bằng. Tôi sẽ trả... Năm đồng đồng. Một mức giá... Hợp lý, đúng chứ?"
+"...Tôi chỉ muốn một tấm bản đồ... Của tầng một. Ngoài ra... Giá đó quá... Quá đắt cho một tấm bản đồ. Hãy... Thỏa thuận công bằng. Tôi sẽ trả... Năm đồng xu đồng. Một mức giá... Hợp lý, đúng chứ?"
 
 Gã có vẻ ngạc nhiên trước lời ngắt lời của tôi, nhưng liền lập tức rút ra một cuộn giấy khác từ trong áo chùng rồi đưa cho tôi.
 
-"...Hô. Ra là vậy, rốt cuộc thì ngươi hẳn sẽ vượt qua vòng tuyển chọn thôi... Hai nhóc tì đằng kia. Hãy nghe lời người đàn ông này nếu còn biết điều gì tốt cho mình...
+"...Hô. Ra là vậy, rốt cuộc thì ngươi hẳn sẽ vượt qua vòng tuyển chọn thôi... Hai nhóc tì đằng kia. Hãy nghe lời người đàn ông này nếu còn biết điều gì tốt cho mình..."
 
-"Hì. Vậy thì năm đồng đồng nhé."
+"Hì. Vậy thì năm đồng xu đồng nhé."
 
 Và thế là tôi một tay đưa tiền cho gã, tay kia đón lấy tấm bản đồ. Gần như ngay lập tức, gã đàn ông mặc áo chùng biến mất ngay trước mắt chúng tôi, cứ như thể gã chưa từng tồn tại ở đó ngay từ đầu.
 
@@ -84,7 +84,7 @@ Thế nhưng, cả hai người họ dường như đã gần chạm tới giớ
 
 "Đừng... bận tâm. Ý tôi là... chắc tôi không nên nói thế. Thấm mệt thật rồi đấy... Mà trước hết, cái khu vực này của Tân Nguyệt từ trước tới nay lúc nào cũng đông quái vật thế này sao?!"
 
-Nhận xét của Raiz hoàn toàn có cơ sở, bởi quả thực khu vực này có nhiều quái vật hơn bình thường. Mặc dù Mê Cung là nơi sinh sống của một lượng quái vật đáng kể, nhưng mật độ tập trung của chúng ở khu vực này lại hết sức bất thường.
+Nhận xét của Raiz hoàn toàn có cơ sở, bởi quả thực khu vực này có nhiều quái vật hơn bình thường. Mặc dù mê cung là nơi sinh sống của một lượng quái vật đáng kể, nhưng mật độ tập trung của chúng ở khu vực này lại hết sức bất thường.
 
 Nếu phải đoán thì đây lại là một nỗ lực nữa của hội—nhân viên của hội hẳn đã bỏ không ít công sức để dẫn dụ quái vật đến địa điểm này. Rốt cuộc thì việc chứng minh năng lực chiến đấu và thể lực của bản thân cũng là một phần yêu cầu để trở thành mạo hiểm giả Đồng Cấp.
 

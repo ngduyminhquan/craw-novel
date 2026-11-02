@@ -116,6 +116,6 @@ Mê cung rồi sẽ sớm thu hồi lại cư dân đã gục ngã của nó the
 
 Họ có lẽ đang mong đợi một màn ăn mừng nào đó, bởi cả Raiz lẫn Laura đều ngây người nhìn tôi với vẻ mặt ngơ ngác, sững sờ trước những lời tôi vừa nói.
 
-"... Ngay cả khi chúng ta... Chia nhau. Thì phần cho mỗi người... Vẫn còn rất nhiều. Chúng ta sẽ chia... Tiền thưởng. Rồi tự thưởng cho mình... Một bữa ăn ngon."
+"...Ngay cả khi chúng ta... Chia nhau. Thì phần cho mỗi người... Vẫn còn rất nhiều. Chúng ta sẽ chia... Tiền thưởng. Rồi tự thưởng cho mình... Một bữa ăn ngon."
 
 Cả hai, lúc này đã hoàn toàn bị thuyết phục rằng cái đống bầy nhầy vô hồn trước mắt đáng giá cả một gia tài, liền vội vã quỳ xuống, cầm những chiếc bình tôi đưa để thu gom chất dịch của con Slime. Tôi cho rằng sự ngây thơ của họ khiến họ trở nên đáng yêu theo một cách rất riêng.

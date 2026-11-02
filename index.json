@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T07:56:04Z",
+  "generatedAt": "2026-11-02T08:09:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2356,7 +2356,7 @@
           "number": 34,
           "title": "Chương 34: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_034.md",
-          "sha": "4c55eb410b105d01ae31e384bc8e92f8bbecd049"
+          "sha": "11b1d27b0f2dd8f01e219f1914378feac7f837f1"
         },
         {
           "number": 35,
@@ -2368,7 +2368,7 @@
           "number": 36,
           "title": "Chương 36: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (7)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_036.md",
-          "sha": "abaa7334748ebbce4bd7cac3978fe38c9363c9bc"
+          "sha": "1fafd6b90f4048d0eb8b1051862ee6932a7fc0fa"
         }
       ]
     },
