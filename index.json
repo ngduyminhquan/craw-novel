@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T11:24:06Z",
+  "generatedAt": "2026-11-02T11:32:15Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2495,6 +2495,12 @@
           "title": "Chương 57: Tập 3 Chương 1 - Người Đàn Ông Kỳ Lạ (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_057.md",
           "sha": "bd4f125e42ec5df2143f82bb701dc41fca19ed8b"
+        },
+        {
+          "number": 58,
+          "title": "Chương 58: Tập 3 Chương 1 - Người Đàn Ông Kỳ Lạ (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_058.md",
+          "sha": "e930383d46c6d7b21b8bae97e0dae5d1eda4886e"
         }
       ]
     },

@@ -117,3 +117,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Swamp Goblin | Swamp Goblins | Goblin Đầm Lầy | quái vật | 55 | Phân loài Goblin sinh sống tại vùng đầm lầy độc |
 | White Dragon Blossom | White Dragon Blossoms | Hoa Bạch Long | vật phẩm | 55 | Biến thể hoa màu trắng thuần làm cảnh, không có dược tính nở khi trồng nhân tạo (白竜花) |
 | Church of Lobelia | the Church of Lobelia; Lobelia | Giáo Hội Lobelia | tổ chức | 57 | Giáo hội có thế lực lớn ở các vương quốc phía tây, có nhà thờ nhỏ tại Maalt và nổi tiếng với Nước Thánh phẩm cấp cao (ロベリア教会) |
+| dissection specialist | dissection specialists | chuyên gia mổ xẻ | chức nghiệp | 58 | Chuyên gia phân tách, xẻ thịt và xử lý xác quái vật tại Hội Mạo Hiểm Giả |

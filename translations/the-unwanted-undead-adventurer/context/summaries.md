@@ -337,3 +337,9 @@ Isaac tặng Rentt một lọ Nước Thánh phẩm cấp thượng hạng của
 Rời đầm lầy an toàn trong sự sợ hãi bỏ chạy của bầy Cung Thủ Goblin, Rentt đón chuyến xe ngựa chiều trở về thị trấn Maalt sau màn đối đáp khôi hài tự nhận là mạo hiểm giả Mithril Cấp với người đánh xe.
 Trở lại Hội Mạo Hiểm Giả, Rentt được Sheila hết lời khen ngợi và đánh giá thực lực hiện tại đã tương đương Ngân Cấp, làm dấy lên trong anh nỗi lo sợ mất đi sức mạnh nếu sau này trở lại làm người.
 Rentt nhờ Sheila bố trí phòng mổ xẻ kín đáo ở phía sau để tiến hành xử lý xác con Tarasque khổng lồ trước sự chú ý của các mạo hiểm giả khác.
+
+## 58
+Được Sheila dẫn vào xưởng mổ xẻ phía sau Hội, Rentt gặp Dario Costa – chuyên gia mổ xẻ đứng đầu của Hội; Dario ban đầu hoài nghi nhưng lập tức kinh ngạc khi thấy xác con Tarasque khổng lồ nguyên vẹn không một vết trầy xước trên mai và các tuyến độc còn nguyên.
+Dario giải thích mai Tarasque nguyên vẹn cực kỳ hiếm vì các mạo hiểm giả thường buộc phải dùng ma pháp hoặc xạ kích tầm xa phá vỡ mai do sợ hơi thở độc; Rentt quyết định ủy thác cho Dario phân tách xác và đem bán đấu giá chiếc mai giúp mình để tránh phải trực tiếp gặp khách mua lộ thân phận.
+Bàn giao số thực vật đầm lầy thu hoạch được cho Sheila để định giá sau, Rentt rời Hội mang Hoa Long Huyết tới Cô Nhi Viện Thứ Hai Maalt giao cho Alize và Sơ Lillian.
+Vừa đến nơi, chiếc vòng gõ cửa từng được dán tạm bằng dịch Slime lại long ra trên tay khiến Rentt bối rối và bị Alize cùng đám trẻ đi chợ về bắt quả tang tại trận.

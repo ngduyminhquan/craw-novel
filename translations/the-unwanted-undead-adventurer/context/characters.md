@@ -26,6 +26,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Alize |  | Alize | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt, người đưa ra ủy thác thu thập Hoa Long Huyết | #48 |
 | Edel |  | Edel | Chuột Puchi Suri quyến thuộc của Rentt, được Lorraine đặt tên | #52 |
 | Isaac Hart | Isaac | Isaac Hart | Quản gia của một nhân vật quyền thế bí ẩn, đến Đầm Lầy Tarasque tìm Hoa Long Huyết | #56 |
+| Dario Costa | Dario; Mister Dario | Dario Costa | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt | #58 |
 
 ## Chi tiết
 
@@ -172,3 +173,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trịnh trọng, lễ độ, nhã nhặn, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
 - Quan hệ: Quản gia phục vụ một nhân vật cao quý bí ẩn; gặp Rentt tại ốc đảo Đầm Lầy Tarasque khi đi hái Hoa Long Huyết cho chủ nhân và muốn thuê Rentt nhận ủy thác định kỳ.
 - Trạng thái tính đến chương 57: Bắt gặp Rentt tại ốc đảo; tặng Rentt một lọ Nước Thánh thượng phẩm của Giáo Hội Lobelia để tạo thiện cảm và hỗ trợ đường về an toàn; nhận ra Rentt có Thần Lực; hẹn sẽ gửi ủy thác chính thức thông qua Hội Mạo Hiểm Giả để thuê Rentt định kỳ hái hoa.
+
+### Dario Costa
+- Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
+- Tính cách: Thẳng thắn, bộc trực, hào sảng, xưng hô dân dã; rất mê thịt Orc và cực kỳ sành sỏi về kỹ thuật phân tách xác quái vật.
+- Cách nói chuyện: Dân dã, bộc trực, thoải mái với người quen, xưng "chú" gọi "cháu / cô bé / Sheila" với tiếp tân Sheila; xưng "tôi" gọi "cậu" với mạo hiểm giả Rentt.
+- Quan hệ: Chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả Maalt; quen biết và thân thiết với tiếp tân viên Sheila Ibarss; từng gặp Rentt trước khi chết nhưng không nhận ra anh sau lớp mặt nạ.
+- Trạng thái tính đến chương 58: Kiểm tra xác con Tarasque nguyên vẹn do Rentt mang về, hết lời khen ngợi mai và nọc độc không tì vết; nhận lời xử lý và nhận ủy thác đem bán đấu giá chiếc mai Tarasque với giá tốt nhất cho Rentt.

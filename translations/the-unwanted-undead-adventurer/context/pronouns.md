@@ -26,6 +26,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alize | Alize / cô bé | 49 | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt |
 | Edel | Edel / con chuột / chú chuột | 52 | Chuột Puchi Suri quyến thuộc của Rentt |
 | Isaac Hart | Isaac / người đàn ông / anh ta | 56 | Quản gia quý tộc thu thập Hoa Long Huyết tại Đầm Lầy Tarasque |
+| Dario Costa | Dario / người đàn ông | 58 | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt |
 
 ## Giữa các nhân vật
 
@@ -89,3 +90,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Edel | tôi | mày / Edel | 52 | Đặt tên và dặn dò chú chuột quyến thuộc của Rentt |
 | Rentt Faina | Isaac Hart | tôi | anh / Isaac | 56 | Mạo hiểm giả nói chuyện với quản gia quý tộc |
 | Isaac Hart | Rentt Faina | tôi | ngài / quý ngài | 56 | Quản gia quý tộc xưng hô lịch thiệp, tôn trọng mạo hiểm giả |
+| Sheila Ibarss | Dario Costa | cháu | chú Dario | 58 | Tiếp tân viên trẻ tuổi lễ phép và thân thiết với chuyên gia mổ xẻ kỳ cựu |
+| Dario Costa | Sheila Ibarss | chú | cháu / cô bé / Sheila | 58 | Chuyên gia mổ xẻ kỳ cựu nói chuyện xuề xòa, thân mật với tiếp tân viên Hội |
+| Rentt Faina | Dario Costa | tôi | chú Dario | 58 | Mạo hiểm giả trẻ tuổi xưng hô lịch sự với chuyên gia mổ xẻ kỳ cựu |
+| Dario Costa | Rentt Faina | tôi | cậu | 58 | Chuyên gia mổ xẻ nói chuyện bộc trực với mạo hiểm giả mang chiến lợi phẩm tới |
