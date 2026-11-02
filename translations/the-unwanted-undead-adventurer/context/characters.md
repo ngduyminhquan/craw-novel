@@ -93,6 +93,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 131: Cùng Lorraine di chuyển trên cỗ xe rùa khổng lồ về quê nhà Làng Hathara; dùng Thần Lực thanh tẩy đống tro tàn Zombie sau ma pháp của Lorraine khiến cỏ non đâm chồi; tiếp xúc và xác minh tấm thẻ mạo hiểm giả Kim Cấp của nữ mạo hiểm giả tộc Elf Alhildis.
 - Trạng thái tính đến chương 133: Cùng Lorraine nếm thử món đặc sản dị thường Solest và Gettamba tại thị trấn dọc đường; bộc bạch với Lorraine về lòng kiêu hãnh của mạo hiểm giả Đồng Cấp muốn đứng ngang hàng với cô; cùng Lorraine về tới Làng Hathara an toàn.
 - Trạng thái tính đến chương 134: Trở về quê nhà Làng Hathara cùng Lorraine; bị dân làng và cha mẹ nuôi (trưởng làng Ingo Faina và bà Gilda) lầm tưởng đã lấy Lorraine làm vợ; tiết lộ thân phận con nuôi mồ côi cha mẹ ruột từ năm 5 tuổi do ma vật sát hại; nhận ra đôi mắt Undead vẫn có tuyến lệ và xúc động ra ngoài đi dạo để kìm nước mắt.
+- Trạng thái tính đến chương 135: Động cơ làm mạo hiểm giả xuất phát từ việc cha mẹ ruột bị ma vật sát hại năm 5 tuổi; khao khát ngăn chặn bi kịch tương tự cho người khác giải thích cho hành động tích cực bảo hộ tân binh ở Maalt; nhận ra cơ thể Undead vẫn có tuyến lệ và có thể khóc; được hai cô bạn thuở nhỏ Riri và Fahri thầm mến từ bé nhưng Rentt chỉ xem như em gái.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -428,14 +429,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nam, trung niên, trưởng làng Hathara, cha nuôi của Rentt Faina.
 - Tính cách: Điềm đạm, nồng hậu, quan tâm chăm lo cho con cái và dân làng.
 - Cách nói chuyện: Thân tình, ấm áp của người cha đối với con trai đi xa trở về.
-- Quan hệ: Cha nuôi của Rentt Faina, chồng của Gilda Faina.
+- Quan hệ: Cha nuôi của Rentt Faina (nhận nuôi Rentt từ năm 5 tuổi sau khi cha mẹ ruột anh qua đời do ma vật tấn công, #134), chồng của Gilda Faina.
 - Xuất hiện từ: #134.
 
 ### Gilda Faina
 - Giới tính, tuổi/vẻ ngoài: Nữ, trung niên, vóc dáng thanh mảnh, dung mạo xinh đẹp dù đã lộ dấu vết thời gian; mẹ nuôi của Rentt Faina.
 - Tính cách: Tình cảm, dịu dàng, khéo léo trong cách nói chuyện tế nhị nhưng rất nhạy bén.
 - Cách nói chuyện: Ân cần, tha thiết của người mẹ thương con.
-- Quan hệ: Mẹ nuôi của Rentt Faina, vợ của trưởng làng Ingo Faina.
+- Quan hệ: Mẹ nuôi của Rentt Faina (nhận nuôi Rentt từ năm 5 tuổi sau khi cha mẹ ruột anh qua đời do ma vật tấn công, #134), vợ của trưởng làng Ingo Faina.
 - Xuất hiện từ: #134.
 
 ### Jal

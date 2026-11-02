@@ -34,7 +34,7 @@ Bát canh bốc khói nghi ngút chứa những quả trứng núng nính đư�
 
 Ngồi cạnh tôi, Lorraine gắp đầy thức ăn vào đĩa rồi thưởng thức ngon lành như bao món ăn bình thường khác. "Sao thế, Rentt, anh không ăn à? Chà, có khi không có máu thì với anh chẳng thấy ngon miệng đâu nhỉ," cô nói, nhưng đủ tinh tế để hạ giọng thì thầm ở vế sau.
 
-Vấn đề không phải nằm ở chỗ đó. Đơn giản là tôi không thể nào nuốt nổi vẻ ngoài của món ăn này. Ở Hathara chưa từng có thứ ẩm thực dã man đến mức lộ liễu nhường này. Dù vậy, quanh vùng Hathara hầu như không có ếch mùa đông hay Curtis Mant, nên có lẽ đó cũng là một phần lý do. Dân cư quanh vùng này ăn thịt lũ quái vật ấy một phần là để hạn chế số lượng của chúng khi còn nhỏ, nhưng ở nơi vốn dĩ không có bóng dáng chúng từ đầu thì việc ấy hoàn toàn không cần thiết.
+Vấn đề không phải nằm ở chỗ đó. Đơn giản là tôi không thể nào nuốt nổi vẻ ngoài của món ăn này. Ở Hathara chưa từng có thứ ẩm thực mông muội đến mức lộ liễu nhường này. Dù vậy, quanh vùng Hathara hầu như không có ếch mùa đông hay Curtis Mant, nên có lẽ đó cũng là một phần lý do. Dân cư quanh vùng này ăn thịt lũ quái vật ấy một phần là để hạn chế số lượng của chúng khi còn nhỏ, nhưng ở nơi vốn dĩ không có bóng dáng chúng từ đầu thì việc ấy hoàn toàn không cần thiết.
 
 "Không, không phải chuyện đó. Tôi sẽ ăn mà, thề đấy," tôi khăng khăng đáp, trong lòng khóc thầm khi gắp một nhúm trứng ếch ít ỏi bỏ vào đĩa mình. Chúng săn chắc, và tôi có thể thấy những con nòng nọc khổng lồ bên trong vẫn đang ngọ nguậy. Cảm thấy đôi chút cắn rứt vì cướp đi sinh mạng của chúng, tôi đưa vào miệng rồi chạm đầu lưỡi vào lớp màng nhầy keo đặc. Nó mang lại một cảm giác kỳ lạ, mềm mại nhưng thấm đượm nước dùng ninh hầm tạo nên hương vị thơm ngon. Tôi lấy hết can đảm để ăn tiếp, cắn ngập răng vào một con nòng nọc. Vị ngon thanh tao lan tỏa khắp khoang miệng, trái ngược hoàn toàn với vẻ ngoài buồn nôn của chúng. Vị ngọt dịu nhẹ hòa quyện cùng phần nước hầm đậm đà. Nếu món này mà trông bình thường như những món khác thì khéo tôi ăn hoài không biết chán.
 
@@ -104,7 +104,7 @@ Nếu xuất hiện thứ gì đó quá mạnh mẽ thì họ buộc phải nh�
 
 "Tôi cũng không rõ nữa. Ngày trước tôi cứ ngỡ chuyện đó là bình thường, nhưng giờ ngẫm lại thì thấy đúng là có phần kỳ quặc thật. Thuốc của bà thầy thuốc hiệu nghiệm khác thường, còn đám thợ săn dường như cũng mạnh mẽ vượt xa mức người ta có thể tưởng tượng."
 
-"Còn có cả ngôi đền bí ẩn nơi anh được ban phước nữa. Tôi từng lấy cớ nói với Hilde rằng mình đi cùng anh vì tò mò, nhưng nghe qua thì đúng là thú vị thật đấy. Tôi nóng lòng muốn điều tra xem sao rồi," Lorraine hào hứng nói.
+"Còn có cả ngôi đền bí ẩn nơi anh được ban phước nữa. Tôi từng lấy cớ tò mò để nói với Hilde rằng mình đi cùng anh, nhưng nghe qua thì đúng là thú vị thật đấy. Tôi nóng lòng muốn điều tra xem sao rồi," Lorraine hào hứng nói.
 
 Tôi chẳng bận tâm chuyện đó, nhưng đối với tôi, nơi đây chỉ là một ngôi làng bình thường. Tôi không thể hình dung nổi cô sẽ tìm thấy được điều gì ngoài ngôi đền kia, nhưng chuyện đó cứ để tới nơi rồi hẵng nghĩ. Với suy nghĩ ấy trong đầu, chúng tôi kiên nhẫn đợi cỗ xe tiến vào trong làng.
 

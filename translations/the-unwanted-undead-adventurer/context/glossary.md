@@ -252,7 +252,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Solest | solest | Solest | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ trứng ếch mùa đông |
 | Gettamba | gettamba | Gettamba | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ bọ ngựa non Curtis Mant chiên giòn |
 | Saint Alto |  | Thánh Alto | danh hiệu | 134 | Vị thánh trong Ngày Thánh Alto (Saint Alto's Day), ngày lễ tình nhân tặng kẹo mật ong |
+| Saint Alto’s Day | Saint Alto's Day; Saint Alto's; Saint Alto’s | Ngày Thánh Alto | khác | 134 | Ngày lễ tình nhân tặng kẹo mật ong cho người mình thích (thường tổ chức khắp thế giới) |
 | Nameless Festival |  | Lễ Hội Vô Danh | khác | 134 | Lễ hội truyền thống cổ xưa của Làng Hathara dành cho các cặp đôi bên bờ hồ |
-| Grand Fum Wyvern | grand fum wyvern; Grand Fum Wyverns; grand fum wyverns | Phi Long Grand Fum | quái vật | 135 | Loài Phi Long khổng lồ dài 10 mét sống ở đỉnh núi tuyết (グランドファムワイバーン) |
+| Grand Fum Wyvern | grand fum wyvern; Grand Fum Wyverns; grand fum wyverns | Phi Long Grand Fum | quái vật | 135 | Loài Phi Long khổng lồ dài 10m sống gần đỉnh núi (グランドファムワイバーン) |
 | Zeva Wyvern | zeva wyverns; Zeva Wyverns; zeva wyvern | Phi Long Zeva | quái vật | 135 | Phân loài Phi Long bay yếu nhất trong các loài Á Long (ゼヴァワイバーン) |
 | Projection magic | projection magic; projection spell; projection spells | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |

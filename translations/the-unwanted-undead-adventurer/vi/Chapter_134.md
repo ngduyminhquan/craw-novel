@@ -114,7 +114,7 @@ Tôi gõ cửa, và cánh cửa từ từ hé mở. Một người phụ nữ tr
 
 "Rentt, mừng con đã trở về. Mẹ đã lo cho con biết bao nhiêu. Khi Hội báo tin con mất tích, mẹ cứ ngỡ con sẽ chẳng bao giờ quay về nữa. Tạ ơn trời đất là mẹ đã lầm," bà nghẹn ngào thốt lên.
 
-Hội Mạo Hiểm Giả vốn chẳng tử tế đến mức cất công báo tin về tận quê nhà khi một mạo hiểm giả mất tích, nhưng hẳn là Hội Trưởng Wolf đã đích thân thu xếp chuyện này. Giờ ông ấy đã biết tôi còn sống, nhưng chắc hẳn vẫn chưa kịp liên lạc báo tin về đây. Dẫu có những phương thức liên lạc bằng sinh vật bay lượn, người ta cũng chẳng đời nào dùng chúng cho một ngôi làng hẻo lánh nơi vùng sâu vùng xa thế này. Xe ngựa là lựa chọn duy nhất. Có khi cỗ xe đưa chúng tôi đến đây cũng đang chở theo một lá thư như vậy. Song tôi chẳng rõ việc báo tin tôi còn sống xét về mặt kỹ thuật liệu có hoàn toàn chuẩn xác hay không, và có lẽ bản thân Wolf cũng chưa chắc chắn, nên ai mà biết được ông ấy đã nghĩ đến chuyện gửi thư hay chưa.
+Hội Mạo Hiểm Giả vốn chẳng tử tế đến mức cất công báo tin về tận quê nhà khi một mạo hiểm giả mất tích, nhưng hẳn là Hội Trưởng Wolf đã đích thân thu xếp chuyện này. Giờ ông ấy đã biết tôi còn sống, nhưng chắc hẳn vẫn chưa kịp liên lạc báo tin về đây. Dẫu có những phương thức liên lạc bằng sinh vật bay lượn, người ta cũng chẳng đời nào dùng chúng cho một ngôi làng hẻo lánh nơi vùng sâu vùng xa thế này. Xe ngựa là lựa chọn duy nhất. Có khi cỗ xe đưa chúng tôi đến đây cũng đang chở theo một lá thư như vậy. Song tôi chẳng rõ việc báo tin tôi còn sống xét theo đúng nghĩa liệu có hoàn toàn chuẩn xác hay không, và có lẽ bản thân Wolf cũng chưa chắc chắn, nên ai mà biết được ông ấy đã nghĩ đến chuyện gửi thư hay chưa.
 
 "Chuyện cũng phức tạp lắm ạ, nhưng như mẹ thấy đấy, con vẫn hoàn toàn khỏe mạnh. Mà mẹ này, cha đâu rồi ạ?"
 
@@ -152,7 +152,7 @@ Cách cô liệt kê vanh vách từng người nghe thật đầy ác ý. Chỉ
 
 Tuy nhiên, về phần Lorraine, việc tôi sống chung dưới một mái nhà với cô khiến tôi khó lòng biện bạch trước cách nhìn nhận của dân làng về mối quan hệ giữa hai chúng tôi. Nhưng ở Maalt, đầy rẫy mạo hiểm giả khác giới sống chung trong một ngôi nhà đấy thôi. Chuyện đó đâu có gì to tát lắm. Chắc vậy. Có lẽ chỉ mỗi mình tôi nghĩ thế. Dù thế nào đi nữa, Lorraine, Ingo và Gilda cũng chẳng cho tôi lấy một cơ hội để giãi bày những điều này.
 
-"Ôi dào, con nó quen biết ngần ấy phụ nữ cơ à? Thế thì xem ra mẹ đã lo bò trắng răng rồi. Mẹ nói thật đấy chứ chẳng đùa đâu, mẹ từng nghĩ thằng bé sẽ chẳng bao giờ chịu lấy vợ cơ."
+"Ôi dào, nó quen biết ngần ấy phụ nữ cơ à? Thế thì xem ra bác đã lo bò trắng răng rồi. Bác nói thật đấy chứ chẳng đùa đâu, bác từng nghĩ thằng bé sẽ chẳng bao giờ chịu lấy vợ cơ."
 
 "Thật vậy sao ạ? Cháu biết anh ấy giao tiếp xã hội hơi vụng về, nhưng chắc chắn là có không ít phụ nữ chủ động tiếp cận anh ấy. Cháu cũng không thấy anh ấy thuộc tuýp người cố chấp từ chối tất cả đâu."
 
@@ -194,7 +194,7 @@ Kể từ ngày biến thành Undead, tôi đã đinh ninh cơ thể mình chẳ
 
 "Đó là lý do anh muốn trở thành mạo hiểm giả sao?"
 
-"Ừ, phần lớn là vì thế. Nhưng đó cũng không phải lý do duy nhất. Dù sao thì, khi tôi thổ lộ với cha mẹ nuôi về ước muốn của mình, hai người họ đã hết lòng ủng hộ. Thực ra thì, xin lỗi cô nhé Lorraine, nhưng tôi cũng phải ra ngoài một lát. Cô phiền ngồi đợi ở nhà này một lúc được không? Tôi biết ngồi lại trong nhà người khác thế này chắc chẳng thoải mái gì cho cam."
+"Ừ, phần lớn là vì thế. Nhưng đó cũng không phải lý do duy nhất. Dù sao thì, khi tôi thổ lộ với cha mẹ nuôi về ước muốn của mình, hai người họ đã hết lòng ủng hộ. Thực ra thì, xin lỗi cô nhé Lorraine, nhưng tôi cũng phải ra ngoài một lát. Cô có phiền ngồi đợi ở nhà này một lúc được không? Tôi biết ngồi lại trong nhà người khác thế này chắc chẳng thoải mái gì cho cam."
 
 "Hử? Ồ, anh không thấy phiền thì tôi cũng chẳng bận tâm đâu. Anh muốn tôi trông coi nhà của gia đình anh à?"
 
