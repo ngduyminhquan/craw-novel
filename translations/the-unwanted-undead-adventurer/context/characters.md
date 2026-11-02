@@ -41,6 +41,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
 - Trạng thái tính đến chương 73: Đã hoàn tất thử nghiệm đôi cánh: rót Thần Lực phát ra luồng bạch quang dịu dàng có khả năng thúc đẩy thảo dược lớn nhanh như thổi và trị lành vết thương diện rộng; bay lượn kết hợp Thần Lực an toàn không gây nổ Dung Hợp Thuật; da thịt toàn bộ khuôn mặt phục hồi nhẵn mịn như người sống, răng nanh dài ra khi ngửi thấy mùi máu; được Lorraine xác định là một biến thể dị biệt tiệm cận Hạ Cấp Ma Cà Rồng.
 - Trạng thái tính đến chương 78: Cùng Lorraine mở lớp dạy ma thuật cơ bản cho Alize; đóng vai trò làm mẫu biểu diễn Ma Thuật Sinh Hoạt (tạo lửa, phóng nước từ hai bàn tay); dù Ma Lực tăng vọt sau Tiến Hóa Bản Thể nhưng kiến thức lý thuyết ma thuật vẫn còn thiếu sót và đang được Lorraine kèm cặp; biểu diễn thành công câu chú Ignite Aryumage.
+- Trạng thái tính đến chương 79: Quyết định tiếp tục dùng danh tính Rentt Vivie để tránh bị điều tra về chiếc mặt nạ không tháo được cùng năng lực thể chất bất thường; chuẩn bị dạy kiếm thuật và dẫn Alize vào mê cung rèn luyện; tài chính cạn kiệt, hy vọng nhận tiền bán xác Tarasque bất thành khi Sheila thông báo xác chưa bán được.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -74,6 +75,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
 - Trạng thái tính đến chương 61: Hốt hoảng kéo Rentt vào phòng tiếp khách cơ mật để cảnh báo về tầm ảnh hưởng của gia tộc Latuule và áp lực của Hội đối với ủy thác định kỳ do Isaac Hart gửi tới; lo lắng cho bí mật thân phận quái vật của Rentt nhưng hứa sẽ dốc toàn lực giúp đỡ anh.
+- Trạng thái tính đến chương 79: Gặp lại Rentt sau khi anh tiến hóa thành Hạ Cấp Ma Cà Rồng; ngỡ ngàng trước giọng nói trôi chảy cùng làn da nhẵn mịn phục hồi như xưa; đồng ý tiếp tục quản lý hồ sơ dưới danh tính Rentt Vivie; thông báo xác Tarasque chưa bán được và dẫn anh tới phòng mổ xẻ.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
@@ -171,6 +173,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 74: Chính thức trở thành đệ tử ma thuật đầu tiên của Lorraine Vivie sau khi bày tỏ khát khao mãnh liệt muốn làm mạo hiểm giả giúp đỡ người khác như Rentt; thông báo thuốc chữa bệnh cho Sơ Lillian đã chuẩn bị xong.
 - Trạng thái tính đến chương 76: Thú nhận với Sơ Lillian chuyện bí mật ủy thác cho Rentt đi Đầm Lầy Tarasque hái hoa; được Sơ Lillian thấu hiểu và ban phước ưng thuận cho theo học; cùng Rentt chính thức bước vào bài học ma thuật vỡ lòng đầu tiên do Lorraine giảng dạy.
 - Trạng thái tính đến chương 78: Chính thức bước vào bài học ma thuật đầu tiên; được Lorraine truyền dẫn Ma Lực và bước đầu cảm nhận được dòng chảy năng lượng trong cơ thể dù kiệt sức; lấy lại quyết tâm rèn luyện sau màn thị phạm của Rentt và chuẩn bị học cách niệm chú.
+- Trạng thái tính đến chương 79: Niệm câu chú Ignite Aryumage và thành công tạo ra ngọn lửa nhỏ đầu tiên trên đầu ngón tay dù còn hao hụt Ma Lực; vô cùng thán phục trước màn biểu diễn ma thuật của Lorraine; kiên định với ước mơ làm mạo hiểm giả và chuẩn bị theo học kiếm thuật cơ bản từ Rentt.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.

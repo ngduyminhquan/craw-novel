@@ -463,5 +463,11 @@ Thấy Alize nản lòng trước chặng đường rèn luyện gian nan, Rentt
 Trước sự nỗ lực kiên cường của Alize, Lorraine hướng dẫn về ba phương thức niệm chú và giao cho Rentt làm mẫu câu chú khai triển Ma Thuật Sinh Hoạt.
 Rentt thành công niệm câu chú Ignite Aryumage triệu hồi ngọn lửa nhỏ trên đầu ngón tay dù suýt quên lời; sau đó anh cùng Lorraine chỉ dẫn Alize cách tập trung Ma Lực và dùng trí tưởng tượng để chuẩn bị tự mình thi triển phép thuật đầu tiên.
 
+## 79
+Alize niệm chú Ignite Aryumage và thành công tạo ra ngọn lửa đầu tiên trên đầu ngón tay dù còn đôi chút hao hụt Ma Lực; Lorraine sau đó trổ tài biểu diễn điều khiển lửa, nước thành muông thú và đất đá thành lâu đài khiến Alize vô cùng thán phục.
+Kết thúc buổi học ma thuật, Rentt và Lorraine bàn bạc về việc huấn luyện kỹ năng mạo hiểm giả cơ bản và kiếm thuật cho Alize vào ngày hôm sau; Lorraine xin đi cùng để vừa bảo hộ vừa tiện quan sát thực chiến nhằm đánh giá sự thay đổi thể chất của Rentt.
+Nhận thấy cần mua sắm vũ khí tươm tất cho Alize trong khi bản thân đang cạn kiệt tài chính vì mua túi ma pháp dung lượng lớn và hộp đựng phi thuyền mô hình, Rentt hào hứng đến Hội Mạo Hiểm Giả với hy vọng nhận tiền bán xác Tarasque.
+Tại Hội, Sheila kinh ngạc trước giọng nói trôi chảy cùng làn da mịn màng phục hồi sau tiến hóa của Rentt; cả hai thống nhất tiếp tục dùng danh tính Rentt Vivie để tránh rắc rối; tuy nhiên hy vọng làm giàu của Rentt sụp đổ khi Sheila thông báo xác Tarasque vẫn chưa bán được và dẫn anh tới phòng mổ xẻ để bàn bạc.
+
 
 
