@@ -95,9 +95,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | reviewed |  |
 | 89 |  | Chapter_089 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2) | reviewed |  |
 | 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | reviewed |  |
-| 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | done |  |
-| 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | done |  |
-| 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | done |  |
+| 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | reviewed |  |
+| 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | reviewed |  |
+| 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | reviewed |  |
 | 94 |  | Chapter_094 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (1) | todo |  |
 | 95 |  | Chapter_095 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (2) | todo |  |
 | 96 |  | Chapter_096 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (3) | todo |  |

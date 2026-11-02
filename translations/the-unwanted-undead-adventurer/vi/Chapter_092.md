@@ -20,7 +20,7 @@ Tôi vẫn còn đang đau đầu với vấn đề đó thì bất thình lình
 
 “Chít!!!”
 
-Kèm theo tiếng kêu quen thuộc, Edel vận Ma Lực vào hai chi trước khi phóng vút lên một thân cây gần đó với tốc độ kinh hoàng, móng vuốt cắm phập vào lớp vỏ cây. Ai mà ngờ nó lại có thể làm được điều như thế cơ chứ... Tôi thực sự ngỡ ngàng, bởi lẽ đó là kỳ tích mà bản thân tôi không tài nào sao chép được. Cho dù tôi có cố dẫn truyền Ma Lực vào đôi chân, việc bước đi thẳng đứng lên thân cây theo kiểu đó cũng vô cùng khó khăn. Nếu phải đoán, có lẽ Edel đã cường hóa móng vuốt của nó, tạo thêm lực ma sát để đạt được tốc độ như vậy. Còn nếu tôi mà thử làm trò tương tự, một cái cây mảnh khảnh rất có thể sẽ gãy gục chỉ sau vài bước chân của tôi. Edel làm được điều đó hoàn toàn là nhờ vóc dáng nhỏ bé của nó.
+Kèm theo tiếng kêu quen thuộc, Edel vận Ma Lực vào hai chi rồi phóng vút lên một thân cây gần đó với tốc độ kinh hoàng, móng vuốt cắm phập vào lớp vỏ cây. Ai mà ngờ nó lại có thể làm được điều như thế cơ chứ... Tôi thực sự ngỡ ngàng, bởi lẽ đó là kỳ tích mà bản thân tôi không tài nào sao chép được. Cho dù tôi có cố dẫn truyền Ma Lực vào đôi chân, việc bước đi thẳng đứng lên thân cây theo kiểu đó cũng vô cùng khó khăn. Nếu phải đoán, có lẽ Edel đã cường hóa móng vuốt của nó, tạo thêm lực ma sát để đạt được tốc độ như vậy. Còn nếu tôi mà thử làm trò tương tự, một cái cây mảnh khảnh rất có thể sẽ gãy gục chỉ sau vài bước chân của tôi. Edel làm được điều đó hoàn toàn là nhờ vóc dáng nhỏ bé của nó.
 
 Chẳng thể làm gì hơn, tôi tiếp tục né tránh những đợt tấn công từ bầy Kesem Kofu dưới mặt đất, đồng thời đều đặn vung kiếm chém đứt bất kỳ sợi dây leo nào lọt vào tầm mắt theo cách buồn tẻ nhất trần đời.
 
@@ -120,7 +120,7 @@ Dẫu vậy, tôi đã có sẵn kế hoạch trong đầu. Cắm sâu lưỡi k
 
 “GIGGGIIIAAAYAAA!!!”
 
-Một tiếng thét the thé gào thét phát ra từ cái miệng hở đầy vẻ ghê rợn của Ent Jyulapus. Khi tiếng rên la lịm dần, một làn chất màu đen mỏng manh tỏa ra từ thân xác con Ent, tựa như một vệt khói, trước khi tan biến vào không khí và biến mất hoàn toàn. Cùng với đó, luồng ánh sáng trong mắt và miệng con Ent cũng từ từ lụi tàn. Khi sự căng cứng biến mất khỏi các cành nhánh và dây leo, con quái vật đổ gục xuống, thân xác nó rơi bịch xuống mặt đất.
+Một tiếng rít the thé ghê rợn rú lên từ cái miệng hở của Ent Jyulapus. Khi tiếng rên la lịm dần, một làn chất màu đen mỏng manh tỏa ra từ thân xác con Ent, tựa như một vệt khói, trước khi tan biến vào không khí và biến mất hoàn toàn. Cùng với đó, luồng ánh sáng trong mắt và miệng con Ent cũng từ từ lụi tàn. Khi sự căng cứng biến mất khỏi các cành nhánh và dây leo, con quái vật đổ gục xuống, thân xác nó rơi bịch xuống mặt đất.
 
 Tôi đồ rằng nó đã bị tiêu diệt.
 

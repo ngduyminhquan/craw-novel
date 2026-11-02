@@ -46,7 +46,7 @@ Sau khi cân nhắc kỹ lưỡng chuyện đó và bàn bạc với anh trai v�
 
 Một nét mặt mơ hồ, mâu thuẫn thoáng hiện trên gương mặt anh trai khi cô bày tỏ quyết định của mình. Dù vậy, anh không hề phản đối mà trái lại còn dang tay ủng hộ, tôn trọng sự lựa chọn của chính Rina. Mặc dù anh có dặn dò Rina phải thỉnh thoảng liên lạc lại với anh, bởi lẽ dù cô có đi xa đến đâu đi chăng nữa thì gia đình cô cũng không thể tự nhiên biến mất được.
 
-Vài ngày sau khi quyết định được đưa ra, Rina thay sang bộ thường phục mà anh trai đã chuẩn bị sẵn cho cô, trang bị vũ khí cùng áo giáp rẻ tiền, và với số lộ phí đủ dùng trong vài tuần, cuối cùng cô cũng rời khỏi mái nhà của mình. Rồi sau đó, bằng chính đôi chân của mình, Rina cất bước tìm đến Hội Mạo Hiểm Giả và đăng ký trở thành một mạo hiểm giả.
+Vài ngày sau khi quyết định được đưa ra, Rina thay sang bộ thường phục mà anh trai đã chuẩn bị sẵn cho cô, trang bị vũ khí cùng áo giáp rẻ tiền, và với số lộ phí đủ dùng trong vài tuần, cuối cùng cô cũng rời khỏi nhà. Rồi sau đó, bằng chính đôi chân của mình, Rina cất bước tìm đến Hội Mạo Hiểm Giả và đăng ký trở thành một mạo hiểm giả.
 
 ◆◇◆◇◆
 

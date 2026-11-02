@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T16:30:05Z",
+  "generatedAt": "2026-11-02T16:37:28Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2698,19 +2698,19 @@
           "number": 91,
           "title": "Chương 91: Tập 4 Chương 1 - Tiến Về Mê Cung Tân Nguyệt (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_091.md",
-          "sha": "1230d75ce79ac8235bfa8ded7170186b88f53da9"
+          "sha": "6003578aacfeb5d6bf9e8279b79146fea5cd39e1"
         },
         {
           "number": 92,
           "title": "Chương 92: Tập 4 Chương 1 - Tiến Về Mê Cung Tân Nguyệt (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_092.md",
-          "sha": "90c59bf37e6f8c9484a59cc41d45b308395a7055"
+          "sha": "8054f194766c298d282fb6e0a721f91cded90f15"
         },
         {
           "number": 93,
           "title": "Chương 93: Chương đệm Tập 4 - Mạo Hiểm Giả Rina Rupaage",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_093.md",
-          "sha": "8cd34fe6212544e6e2e009430586150b25116062"
+          "sha": "3b658b4e11f3fcb6a1378862471ca95b800a4505"
         }
       ]
     },
