@@ -20,9 +20,9 @@ Rốt cuộc mình đã bỏ ra bao nhiêu thời gian trong cái mê cung đó 
 
 "Ra vậy, ngài đã nhận ra rồi sao. Phải chăng diễn xuất của tôi vẫn chưa đủ đạt nhỉ?"
 
-"...Không. Ổn lắm rồi. Nói đúng hơn thì... Nếu là tôi... Của trước đây. Tôi chắc chắn đã... Mắc bẫy."
+"...Không. Ổn lắm rồi. Thực ra... Nếu là tôi... Của trước đây. Tôi chắc chắn đã... Mắc bẫy."
 
-Tôi đâu thể nói thẳng ra rằng mình đã biến thành một Thi Quỷ. Lý do duy nhất giúp tôi nhận ra vùng không gian vặn xoắn ấy là nhờ các giác quan được cường hóa vượt trội, bao gồm khả năng nhận thức không gian, khứu giác nhạy bén hơn và thị lực tinh tường hơn hẳn. Thành thử, tôi không thể khẳng định chắc nịch rằng kinh nghiệm kiếp trước đã giúp tôi phát hiện ra đứt gãy không gian đó, dù tôi cũng chẳng thể phủ nhận hoàn toàn vai trò của nó.
+Tôi đâu thể nói thẳng ra rằng mình đã biến thành một Thi Quỷ. Lý do duy nhất giúp tôi nhận ra vùng không gian vặn xoắn ấy là nhờ các giác quan được cường hóa vượt trội, bao gồm khả năng nhận thức không gian, khứu giác nhạy bén hơn và thị lực tinh tường hơn hẳn. Thành thử, tôi không thể khẳng định chắc nịch rằng kinh nghiệm thời còn sống đã giúp tôi phát hiện ra đứt gãy không gian đó, dù tôi cũng chẳng thể phủ nhận hoàn toàn vai trò của nó.
 
 Cô bé khẽ lắc đầu trước những lời tôi nói. "Ngài của trước đây sao?"
 
@@ -46,7 +46,7 @@ Cô bé tỏ vẻ dở khóc dở cười trước lời tuyên bố của tôi.
 
 ◆◇◆◇◆
 
-Tôi không thể cứ thế bạ đâu nói bấy về loại ma cụ mà mình mong muốn. Gia tộc Latuule, với lịch sử dày công sưu tầm các món công cụ qua nhiều thế hệ, chắc chắn sẽ chỉ giữ lại những món tinh hoa nhất. Bất kể lựa chọn của tôi là gì, món ma cụ tôi chọn ắt hẳn sẽ bán được một món tiền khổng lồ. Tôi có lẽ sẽ nhận bất kỳ món đồ nào được trao... Nhưng nếu được trao quyền tự chọn một vật phẩm cụ thể—
+Tôi không thể cứ thế bạ đâu nói bấy về loại ma cụ mà mình mong muốn. Gia tộc Latuule, với lịch sử dày công sưu tầm ma cụ qua nhiều thế hệ, chắc chắn sẽ chỉ giữ lại những món tinh hoa nhất. Bất kể lựa chọn của tôi là gì, món ma cụ tôi chọn ắt hẳn sẽ bán được một món tiền khổng lồ. Tôi có lẽ sẽ nhận bất kỳ món đồ nào được trao... Nhưng nếu được trao quyền tự chọn một vật phẩm cụ thể—
 
 "...Dù sao thì. Có lẽ nào tôi được phép xem qua... Những món đồ cô bé định trao tặng không?"
 

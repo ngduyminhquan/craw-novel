@@ -68,9 +68,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 61 |  | Chapter_061 - Vol 3 Chapter 2 - And an Equally Peculiar Request (1).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (1) | reviewed |  |
 | 62 |  | Chapter_062 - Vol 3 Chapter 2 - And an Equally Peculiar Request (2).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (2) | reviewed |  |
 | 63 |  | Chapter_063 - Vol 3 Chapter 2 - And an Equally Peculiar Request (3).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (3) | reviewed |  |
-| 64 |  | Chapter_064 - Vol 3 Chapter 2 - And an Equally Peculiar Request (4).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (4) | done |  |
-| 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | done |  |
-| 66 |  | Chapter_066 - Vol 3 Chapter 2 - And an Equally Peculiar Request (6).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (6) | done |  |
+| 64 |  | Chapter_064 - Vol 3 Chapter 2 - And an Equally Peculiar Request (4).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (4) | reviewed |  |
+| 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | reviewed |  |
+| 66 |  | Chapter_066 - Vol 3 Chapter 2 - And an Equally Peculiar Request (6).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (6) | reviewed |  |
 | 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | todo |  |
 | 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | todo |  |
 | 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | todo |  |
