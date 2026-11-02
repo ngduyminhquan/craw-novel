@@ -786,6 +786,14 @@ Sang ngày thứ ba, hai cha con hành khách xuống xe và gửi tặng đồn
 Trên chặng đường núi gập ghềnh còn lại chỉ có hai người và bác tài, Rentt tâm sự với Lorraine về thời nghèo khó của mạo hiểm giả Đồng Cấp và lòng kiêu hãnh muốn đứng ngang hàng với cô.
 Sau nhiều ngày di chuyển gian truân, cỗ xe rùa cuối cùng cũng đưa Rentt và Lorraine nhìn thấy hàng rào gỗ bảo hộ ma thuật của Làng Hathara thấp thoáng bên dòng sông.
 
+## 134
+Rentt cùng Lorraine về tới Làng Hathara và gặp hai thanh niên canh cổng Jal và Dol; cả hai nhận ra Rentt nhưng hiểu lầm tai hại rằng Lorraine là vợ mới cưới của anh khiến Dol vội chạy đi báo cho trưởng làng.
+Jal nhắc lại chuyện hai cô bạn thuở nhỏ Riri và Fahri từng nhiều lần bày tỏ tình cảm với Rentt thời thơ ấu (tặng kẹo Ngày Thánh Alto, rủ ra bờ hồ Lễ Hội Vô Danh), khiến Jal mừng thầm vì đám trai làng nay đã có cơ hội.
+Trên đường vào làng, Rentt giới thiệu với Lorraine về vườn thảo dược, nghề làm thuốc của bà lão họ hàng và đưa cô đến nhà trưởng làng Ingo Faina cùng vợ là Gilda Faina.
+Gặp lại cha mẹ nuôi, Rentt được hai người đón tiếp nồng hậu và lầm tưởng Lorraine là con dâu, trong khi Lorraine thản nhiên liệt kê danh sách các bóng hồng quen biết của anh ở Maalt trước khi cha mẹ đi báo tin tổ chức tiệc chào mừng.
+Ở lại riêng cùng Lorraine, Rentt xúc động tiết lộ bản thân là con nuôi mồ côi cha mẹ ruột từ năm 5 tuổi do ma vật tấn công; vì sợ bật khóc trước mặt cô nên anh nhờ Lorraine trông nhà rồi ra ngoài đi dạo để trấn tĩnh lại.
+
+
 
 
 

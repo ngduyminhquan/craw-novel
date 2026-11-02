@@ -43,6 +43,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Wolf Hermann | Wolf / Hội Trưởng Wolf / ông / người đàn ông | 125 | Hội Trưởng Hội Mạo Hiểm Giả Maalt |
 | Alhildis | Alhildis / cô bé Elf / đứa trẻ | 131 | Nữ mạo hiểm giả Kim Cấp tộc Elf (tránh gọi là "cô" trong lời dẫn chuyện để không nhầm với Lorraine) |
 | Hilde | Hilde / cô bé Elf / đứa trẻ | 132 | Tên gọi thân mật của Alhildis (tránh gọi là "cô" trong lời dẫn chuyện để không nhầm với Lorraine) |
+| Ingo Faina | Ingo / cha / ông ấy / Trưởng Làng Ingo | 134 | Cha nuôi của Rentt, trưởng làng Hathara |
+| Gilda Faina | Gilda / mẹ / bà ấy | 134 | Mẹ nuôi của Rentt, vợ trưởng làng Ingo |
+| Jal | Jal / cậu thanh niên / gã | 134 | Thanh niên gầy gò làng Hathara canh cổng |
+| Dol | Dol / cậu thanh niên | 134 | Thanh niên thấp bé làng Hathara canh cổng |
+| Riri | Riri / cô bé | 134 | Bạn thuở nhỏ của Rentt kém 7 tuổi |
+| Fahri | Fahri / cô bé | 134 | Bạn thuở nhỏ của Rentt kém 7 tuổi |
 
 ## Giữa các nhân vật
 
@@ -175,3 +181,19 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hilde | Rentt Faina | ta | ngươi / cậu / Rentt | 132 | Tiền bối mạo hiểm giả Kim Cấp nói chuyện với Rentt |
 | Lorraine Vivie | Hilde | tôi / chúng tôi | cô / Hilde | 132 | Giao tiếp bình đẳng, tôn trọng giữa các mạo hiểm giả; gọi ngôi thứ ba: cô ấy / Hilde |
 | Rentt Faina | Hilde | tôi | cô / Hilde | 132 | Mạo hiểm giả Đồng Cấp nói chuyện với mạo hiểm giả Kim Cấp; gọi ngôi thứ ba: cô ấy / Hilde |
+| Rentt Faina | Jal | tôi | cậu / Jal | 134 | Bạn cùng làng quen biết từ nhỏ |
+| Jal | Rentt Faina | tôi | cậu / Rentt | 134 | Bạn cùng làng quen biết từ nhỏ |
+| Rentt Faina | Dol | tôi | cậu / Dol | 134 | Bạn cùng làng quen biết từ nhỏ |
+| Dol | Rentt Faina | tôi | cậu / Rentt | 134 | Bạn cùng làng quen biết từ nhỏ |
+| Lorraine Vivie | Jal | tôi | cậu / Jal | 134 | Giới thiệu bản thân và hỏi thăm thủ tục vào làng |
+| Jal | Lorraine Vivie | tôi | cô | 134 | Đáp lại người đi cùng Rentt |
+| Lorraine Vivie | Dol | tôi | cậu / Dol | 134 | Chào hỏi người canh cổng làng |
+| Dol | Lorraine Vivie | tôi | cô | 134 | Chào hỏi người đi cùng Rentt |
+| Rentt Faina | Gilda Faina | con | mẹ | 134 | Con nuôi chào mẹ nuôi |
+| Gilda Faina | Rentt Faina | mẹ | con / Rentt | 134 | Mẹ nuôi mừng rỡ đón con nuôi trở về |
+| Lorraine Vivie | Gilda Faina | tôi / cháu | bác / phu nhân Gilda | 134 | Giới thiệu bản thân và trò chuyện lễ phép với mẹ nuôi của Rentt |
+| Gilda Faina | Lorraine Vivie | tôi / bác | cô / cô Lorraine / cháu | 134 | Tiếp đón người phụ nữ con nuôi dẫn về nhà |
+| Rentt Faina | Ingo Faina | con | cha | 134 | Con nuôi nói chuyện với cha nuôi |
+| Ingo Faina | Rentt Faina | cha / ta | con / Rentt | 134 | Cha nuôi kiêm Trưởng làng đón tiếp con nuôi trở về |
+| Ingo Faina | Lorraine Vivie | tôi / ta | cô / cháu | 134 | Trưởng làng tiếp đón khách của con nuôi |
+| Lorraine Vivie | Ingo Faina | tôi / cháu | bác / Trưởng Làng | 134 | Học giả chào hỏi cha nuôi của Rentt |

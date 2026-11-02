@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T22:29:34Z",
+  "generatedAt": "2026-11-02T22:37:27Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2951,6 +2951,12 @@
           "title": "Chương 133: Tập 5 Chương 4 - Chuyến Hành Trình (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_133.md",
           "sha": "8d8e642d758f40e234a5f7911acecb2a148c1c4d"
+        },
+        {
+          "number": 134,
+          "title": "Chương 134: Tập 6 Chương 1 - Quê Nhà Hathara Của Tôi (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_134.md",
+          "sha": "11f0077e540b82d34278852a4a0f0a586c01d182"
         }
       ]
     },

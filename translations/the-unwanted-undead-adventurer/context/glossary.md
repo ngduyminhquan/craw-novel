@@ -251,3 +251,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Winter Frog | winter frogs; winter frog; Winter frog | ếch mùa đông | quái vật | 133 | Loài ếch lớn sinh sống ở vùng hoang dã, trứng có thể chế biến thành món ăn |
 | Solest | solest | Solest | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ trứng ếch mùa đông |
 | Gettamba | gettamba | Gettamba | vật phẩm | 133 | Món ăn đặc sản địa phương làm từ bọ ngựa non Curtis Mant chiên giòn |
+| Saint Alto |  | Thánh Alto | danh hiệu | 134 | Vị thánh trong Ngày Thánh Alto (Saint Alto's Day), ngày lễ tình nhân tặng kẹo mật ong |
+| Nameless Festival |  | Lễ Hội Vô Danh | khác | 134 | Lễ hội truyền thống cổ xưa của Làng Hathara dành cho các cặp đôi bên bờ hồ |

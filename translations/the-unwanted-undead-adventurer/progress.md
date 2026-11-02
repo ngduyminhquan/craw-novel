@@ -138,7 +138,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 131 |  | Chapter_131 - Vol 5 Chapter 4 - The Journey (2).txt | Vol 5 Chapter 4 - The Journey (2) | reviewed |  |
 | 132 |  | Chapter_132 - Vol 5 Chapter 4 - The Journey (3).txt | Vol 5 Chapter 4 - The Journey (3) | reviewed |  |
 | 133 |  | Chapter_133 - Vol 5 Chapter 4 - The Journey (4).txt | Vol 5 Chapter 4 - The Journey (4) | done |  |
-| 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | todo |  |
+| 134 |  | Chapter_134 - Vol 6 Chapter 1 - My Hometown of Hathara (1).txt | Vol 6 Chapter 1 - My Hometown of Hathara (1) | done |  |
 | 135 |  | Chapter_135 - Vol 6 Chapter 1 - My Hometown of Hathara (2).txt | Vol 6 Chapter 1 - My Hometown of Hathara (2) | todo |  |
 | 136 |  | Chapter_136 - Vol 6 Chapter 1 - My Hometown of Hathara (3).txt | Vol 6 Chapter 1 - My Hometown of Hathara (3) | todo |  |
 | 137 |  | Chapter_137 - Vol 6 Chapter 1 - My Hometown of Hathara (4).txt | Vol 6 Chapter 1 - My Hometown of Hathara (4) | todo |  |
@@ -676,3 +676,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#132] Dịch chủng loại 'plant spirit' — tạm chọn 'tinh linh thực vật' và thêm vào glossary.md (phương án khác: 'tinh linh cây cỏ', 'thực vật tinh linh'). Tạm dùng trong bản dịch: 'tinh linh thực vật'. → Giữ 'tinh linh thực vật' (orchestrator)
 - [#130-132] Dịch cụm từ 'tortoise carriage' → Giữ nguyên 'xe rùa' / 'cỗ xe rùa' như hiện tại (song hành với 'xe rồng' cho 'dragon carriage') (orchestrator)
 - [#133] Tên hai món ăn đặc sản 'solest' và 'gettamba' — tạm giữ nguyên danh xưng riêng 'Solest' và 'Gettamba' (phương án khác: thuần Việt hóa theo mô tả như 'món canh trứng ếch', 'món bọ ngựa non chiên giòn') → Giữ nguyên danh xưng riêng 'Solest' và 'Gettamba' (orchestrator)
+- [#134] Dịch tiêu đề arc/chương 'Vol 6 Chapter 1 - My Hometown of Hathara (1)' — tạm chọn 'Tập 6 Chương 1 - Quê Nhà Hathara Của Tôi (1)' (phương án khác: 'Tập 6 Chương 1 - Quê Hương Hathara Của Tôi (1)', 'Tập 6 Chương 1 - Quê Nhà Hathara (1)'). → Giữ 'Tập 6 Chương 1 - Quê Nhà Hathara Của Tôi (1)' (orchestrator)
+- [#134] Dịch tên vị thánh 'Saint Alto' và ngày lễ 'Saint Alto’s Day' — tạm chọn 'Thánh Alto' và 'Ngày Thánh Alto' (phương án khác: 'Lễ Thánh Alto', 'Thánh Giả Alto'). → Giữ 'Thánh Alto' và 'Ngày Thánh Alto' (orchestrator)
+- [#134] Dịch tên lễ hội truyền thống 'Nameless Festival' của Làng Hathara — tạm chọn 'Lễ Hội Vô Danh' (phương án khác: 'Ngày Hội Không Tên', 'Lễ Hội Không Tên'). → Giữ 'Lễ Hội Vô Danh' (orchestrator)
+- [#134] Xưng hô giữa Rentt và cha mẹ nuôi (Ingo Faina & Gilda Faina) — tạm chọn Rentt xưng 'con' gọi 'cha / mẹ', Ingo xưng 'ta' gọi 'con / Rentt', Gilda xưng 'mẹ' gọi 'con / Rentt' (phương án khác: Rentt xưng 'tôi' gọi 'ông / bà' hoặc 'bác'). → Giữ Rentt xưng 'con' gọi 'cha / mẹ', Ingo xưng 'cha / ta' gọi 'con / Rentt', Gilda xưng 'mẹ' gọi 'con / Rentt' (orchestrator)

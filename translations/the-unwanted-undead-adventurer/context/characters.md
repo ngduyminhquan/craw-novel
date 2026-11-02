@@ -54,6 +54,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Wolf Hermann | Wolf; Guildmaster Wolf; Hermann | Wolf Hermann | Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả | #125 |
 | Alhildis |  | Alhildis | Nữ mạo hiểm giả Kim Cấp chủng tộc Elf, bậc thầy Thần Thuật mang ngoại hình bé gái nhưng tính cách bà lão | #131 |
 | Hilde | Hildi | Hilde | Tên gọi tắt / thân mật của Alhildis, mạo hiểm giả Kim Cấp tộc Elf | #132 |
+| Ingo Faina | Ingo | Ingo Faina | Trưởng làng Hathara, cha nuôi của Rentt Faina | #134 |
+| Gilda Faina | Gilda | Gilda Faina | Vợ trưởng làng Ingo Faina, mẹ nuôi của Rentt Faina | #134 |
+| Jal |  | Jal | Thanh niên gầy gò làng Hathara canh gác cổng làng | #134 |
+| Dol |  | Dol | Thanh niên thấp bé làng Hathara canh gác cổng làng | #134 |
+| Riri |  | Riri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
+| Fahri |  | Fahri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 
 ## Chi tiết
 
@@ -85,6 +91,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 129: Trò chuyện cùng Rina, biết cô đã lập tổ đội cùng Raiz Dunner và Laura Satii; nhờ mạng lưới chuột của Edel bám theo và trực tiếp gặp Idoles Rogue để chuyển lời hẹn gặp của Rina; được Idoles gửi lại lời hẹn sau một tháng do phải về vương đô; mang lời nhắn đến Hội lưu lại cho Rina.
 - Trạng thái tính đến chương 131: Cùng Lorraine di chuyển trên cỗ xe rùa khổng lồ về quê nhà Làng Hathara; dùng Thần Lực thanh tẩy đống tro tàn Zombie sau ma pháp của Lorraine khiến cỏ non đâm chồi; tiếp xúc và xác minh tấm thẻ mạo hiểm giả Kim Cấp của nữ mạo hiểm giả tộc Elf Alhildis.
 - Trạng thái tính đến chương 133: Cùng Lorraine nếm thử món đặc sản dị thường Solest và Gettamba tại thị trấn dọc đường; bộc bạch với Lorraine về lòng kiêu hãnh của mạo hiểm giả Đồng Cấp muốn đứng ngang hàng với cô; cùng Lorraine về tới Làng Hathara an toàn.
+- Trạng thái tính đến chương 134: Trở về quê nhà Làng Hathara cùng Lorraine; bị dân làng và cha mẹ nuôi (trưởng làng Ingo Faina và bà Gilda) lầm tưởng đã lấy Lorraine làm vợ; tiết lộ thân phận con nuôi mồ côi cha mẹ ruột từ năm 5 tuổi do ma vật sát hại; nhận ra đôi mắt Undead vẫn có tuyến lệ và xúc động ra ngoài đi dạo để kìm nước mắt.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -415,3 +422,39 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Mạo hiểm giả Kim Cấp tình cờ chạm trán Rentt và Lorraine tại khu rừng trên đường về quê.
 - Trạng thái tính đến chương 132: Đề nghị Rentt và Lorraine gọi bằng tên ngắn gọn là Hilde hoặc Hildi; tiết lộ nhiệm vụ thanh trừng Undead tại Làng Toraka; phát hiện Thần Lực trong người Rentt và cảnh báo anh về sự tranh giành của các tổ chức tôn giáo; nhận định Rentt được tinh linh thực vật ban phúc; đổi việc dạy cấp tốc kỹ thuật che giấu Thần Lực lấy đám cỏ non mọc trên tro tàn; xác thực độ chuẩn xác của cuốn sách thần thuật của Laura; để lại số đăng ký Hội cùng thông tin liên lạc tại vương đô rồi rời đi trước bình minh.
 - Xuất hiện từ: #131.
+
+### Ingo Faina
+- Giới tính, tuổi/vẻ ngoài: Nam, trung niên, trưởng làng Hathara, cha nuôi của Rentt Faina.
+- Tính cách: Điềm đạm, nồng hậu, quan tâm chăm lo cho con cái và dân làng.
+- Cách nói chuyện: Thân tình, ấm áp của người cha đối với con trai đi xa trở về.
+- Quan hệ: Cha nuôi của Rentt Faina, chồng của Gilda Faina.
+- Xuất hiện từ: #134.
+
+### Gilda Faina
+- Giới tính, tuổi/vẻ ngoài: Nữ, trung niên, vóc dáng thanh mảnh, dung mạo xinh đẹp dù đã lộ dấu vết thời gian; mẹ nuôi của Rentt Faina.
+- Tính cách: Tình cảm, dịu dàng, khéo léo trong cách nói chuyện tế nhị nhưng rất nhạy bén.
+- Cách nói chuyện: Ân cần, tha thiết của người mẹ thương con.
+- Quan hệ: Mẹ nuôi của Rentt Faina, vợ của trưởng làng Ingo Faina.
+- Xuất hiện từ: #134.
+
+### Jal
+- Giới tính, tuổi/vẻ ngoài: Nam thanh niên gầy gò của Làng Hathara, làm nhiệm vụ gác cổng làng.
+- Tính cách: Nhanh nhảu, thích hóng hớt, nói nhiều, thẳng tính.
+- Quan hệ: Người quen cùng làng với Rentt Faina.
+- Xuất hiện từ: #134.
+
+### Dol
+- Giới tính, tuổi/vẻ ngoài: Nam thanh niên vóc dáng thấp bé của Làng Hathara, cùng Jal gác cổng làng.
+- Tính cách: Lăng xăng, nhiệt tình, chạy nhanh.
+- Quan hệ: Người quen cùng làng với Rentt Faina.
+- Xuất hiện từ: #134.
+
+### Riri
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi.
+- Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ.
+- Xuất hiện từ: #134 (được nhắc tên).
+
+### Fahri
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi.
+- Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ.
+- Xuất hiện từ: #134 (được nhắc tên).
