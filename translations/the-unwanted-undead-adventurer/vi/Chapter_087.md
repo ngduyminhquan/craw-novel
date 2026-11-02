@@ -94,7 +94,7 @@ Cậu nhóc dường như không tài nào hiểu nổi tại sao sự việc l�
 
 "Cậu có biết tại sao mọi chuyện lại thành ra như vậy không?"
 
-"Biết chứ... Tay nghề của tôi... vẫn chưa tốt lắm..."
+"Vâng... Tay nghề của tôi... vẫn chưa tốt lắm..."
 
 Dọn dẹp là một công việc đơn giản, nhưng lại có rất nhiều phương pháp để thực hiện. Làm thế nào để lau chùi các bề mặt cụ thể, nên cọ rửa hay chà lau, làm sao để đánh bay ngay cả những vết bẩn cứng đầu nhất... Tất cả đều là những kiến thức cơ bản về dọn dẹp và việc nhà. Cậu nhóc không có những kiến thức như vậy, và vì thế đã làm ra một kết quả không vừa lòng khách. Đó là lý do tại sao tiền thưởng của cậu ta bị trừ bớt.
 

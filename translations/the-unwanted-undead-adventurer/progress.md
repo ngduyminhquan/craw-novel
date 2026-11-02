@@ -89,9 +89,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | reviewed |  |
 | 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | reviewed |  |
 | 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | reviewed |  |
-| 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | done |  |
-| 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | done |  |
-| 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | done |  |
+| 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | reviewed |  |
+| 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | reviewed |  |
+| 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | reviewed |  |
 | 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | todo |  |
 | 89 |  | Chapter_089 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2) | todo |  |
 | 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | todo |  |

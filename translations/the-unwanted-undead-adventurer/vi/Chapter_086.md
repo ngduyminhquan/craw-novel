@@ -106,9 +106,9 @@ Tôi thấu hiểu nỗi lòng của phu nhân sâu sắc. Đó là lý do tôi 
 
 "Xin phu nhân cứ giao việc này cho tôi... Tôi sẽ dốc hết sức mình để linh hồn Sweetpea được thanh thản."
 
-Nói đoạn, tôi làm đúng như những gì đã hứa, tiễn đưa linh hồn chú chuột về cõi thiên đàng. Phu nhân Emilstead siết chặt tay tôi thật mạnh, nước mắt lăn dài trên má, rồi ngỏ ý sẽ lại tìm đến dịch vụ của tôi nếu sau này có bất cứ việc gì cần đến. Xem chừng tôi vừa có được một mối khách hàng béo bở.
+Nói đoạn, tôi làm đúng như những gì đã hứa, tiễn đưa linh hồn chú chuột về cõi thiên đàng. Phu nhân Emilstead siết chặt tay tôi thật mạnh, nước mắt lăn dài trên má, rồi ngỏ ý sẽ lại tìm đến dịch vụ của tôi nếu sau này có bất cứ việc gì cần đến. Xem chừng tôi vừa có được một mối khách hàng tuyệt vời.
 
-Ngay sau đó, Lorraine liền dâng lên trước mặt người phụ nữ vài chú chuột Puchi Suri, như một lời gợi ý bà nên nhận nuôi một bé khác để khỏa lấp khoảng trống trong lòng.
+Ngay sau đó, Lorraine liền mang ra trước mặt người phụ nữ vài chú chuột Puchi Suri, như một lời gợi ý bà nên nhận nuôi một bé khác để khỏa lấp khoảng trống trong lòng.
 
 Dù có người có thể cho rằng hành động của Lorraine là vô tâm thiếu tế nhị, nhưng phong thái và cách ăn nói của cô lại toát lên rằng Lorraine thực tâm quan tâm đến người phụ nữ đang đau buồn này. Về phần mình, Phu nhân Emilstead cảm kích khôn cùng, rồi cuối cùng đã chọn lấy một bé Puchi Suri trong số những con chuột mà Lorraine mang tới. Đoạn, bà quyết định đặt tên cho nó là... Sweetpea...
 
