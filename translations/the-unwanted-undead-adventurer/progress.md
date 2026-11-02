@@ -75,7 +75,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | reviewed |  |
 | 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | reviewed |  |
 | 70 |  | Chapter_070 - Vol 3 Chapter 3 - A New Existential Evolution (1).txt | Vol 3 Chapter 3 - A New Existential Evolution (1) | done |  |
-| 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | todo |  |
+| 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | done |  |
 | 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | todo |  |
 | 73 |  | Chapter_073 - Vol 3 Chapter 3 - A New Existential Evolution (4).txt | Vol 3 Chapter 3 - A New Existential Evolution (4) | todo |  |
 | 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -506,3 +507,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#68] Dịch cụm 'rose-hedge maze' (đoạn 3, 11) — tạm chọn 'mê cung hàng rào hoa hồng' (nhất quán với các chương #62, #64; phương án khác: 'mê cung tường vi', 'mê cung hoa hồng'). Tạm dùng trong bản dịch: 'mê cung hàng rào hoa hồng'. → Chốt 'mê cung hàng rào hoa hồng' (nhất quán với các chương #62, #64; cụm miêu tả chung không cần thêm vào glossary). (orchestrator)
 - [#69] Danh xưng Isaac Hart gọi Rentt Faina 'Mister Vivie' (đoạn 24) — tạm chọn 'ngài Vivie' (phù hợp phong thái quản gia quý tộc lịch thiệp với mạo hiểm giả; phương án khác: 'ông Vivie', 'tiên sinh Vivie'). Tạm dùng trong bản dịch: 'ngài Vivie'. → Chốt 'ngài Vivie' (nhất quán với cách gọi 'ngài' của Isaac Hart từ #56 và Laura Latuule từ #62; đã cập nhật vào pronouns.md). (orchestrator)
 - [#70] Dịch các phân loài Ma Cà Rồng trong bách khoa thư của Lorraine: 'Greater Vampire' ('Thượng Cấp Ma Cà Rồng'), 'Grand Vampire' ('Đại Ma Cà Rồng'), 'Ancient Vampire' ('Ma Cà Rồng Cổ Đại'), 'Vampire Princess' ('Công Chúa Ma Cà Rồng'), 'Twilight Vampire' ('Ma Cà Rồng Hoàng Hôn') — phương án khác: 'Ma Cà Rồng Cấp Cao' / 'Tối Thượng Cấp Ma Cà Rồng' / 'Ma Cà Rồng Thượng Cổ' / 'Huyết Cơ' / 'Ma Cà Rồng Ánh Hoàng Hôn'. Tạm dùng trong bản dịch: Thượng Cấp Ma Cà Rồng, Đại Ma Cà Rồng, Ma Cà Rồng Cổ Đại, Công Chúa Ma Cà Rồng, Ma Cà Rồng Hoàng Hôn. → Chốt các bản dịch 'Thượng Cấp Ma Cà Rồng', 'Đại Ma Cà Rồng', 'Ma Cà Rồng Cổ Đại', 'Công Chúa Ma Cà Rồng', 'Ma Cà Rồng Hoàng Hôn' (đối xứng chuẩn xác với Hạ Cấp Ma Cà Rồng, Đại Slime, Rồng Cổ Đại trong glossary.md). (orchestrator)
+- [#71] Dịch thuật ngữ 'flight membrane' / 'flight membranes' (飛膜) — tạm chọn 'màng bay' (phương án khác: 'cánh màng', 'màng cánh'). → Chốt 'màng bay' (thuật ngữ sinh học chính xác cho 'flight membrane' / 飛膜 của loài sóc bay và Puchi Suri). (orchestrator)

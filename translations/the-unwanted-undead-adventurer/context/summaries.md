@@ -415,4 +415,10 @@ Tỉnh lại trên giường vào ban đêm, Rentt nhận thấy cơ thể có n
 Bên cạnh giường, Lorraine đang đọc cuốn sách bách khoa về sinh thái Ma Cà Rồng; cô giải thích về các chủng loại Ma Cà Rồng gồm Thi Quỷ, Hạ Cấp, Thượng Cấp, Đại Ma Cà Rồng, cùng các trường hợp đặc thù như Ma Cà Rồng Cổ Đại, Công Chúa Ma Cà Rồng và truyền thuyết Ma Cà Rồng Hoàng Hôn.
 Lorraine mỉm cười chuẩn bị tiết lộ kết quả phân loại hình thái tiến hóa mới của Rentt sau khi tỉnh giấc.
 
+## 71
+Rentt cởi bỏ găng tay, áo choàng và mặt nạ để soi gương; anh nhận thấy da thịt đã tái sinh nhẵn mịn như mới sinh, không còn lỗ thủng hay vết sẹo cũ nào thời còn sống ngoại trừ việc sắc da vẫn tái nhợt.
+Lorraine chỉ ra một biến đổi kinh ngạc: sau lưng Rentt đã mọc ra một đôi cánh màng nhỏ đối xứng tựa như cánh dơi.
+Cả hai thử nghiệm và phát hiện đôi cánh có thể cử động theo ý thức lẫn phản xạ tự động của tiềm thức (như khi bị Lorraine thọc lét hay né tránh bàn tay cô).
+Để tránh gây kinh hoàng cho cư dân Maalt khi mặc quần áo che chắn, Rentt tập trung ý nghĩ và thành công thu gọn đôi cánh ẩn vào trong cơ thể; tuy nhiên, khi Lorraine bất ngờ dọa làm giật mình, đôi cánh lại lập tức bung xòe hết cỡ.
+
 
