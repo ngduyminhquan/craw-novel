@@ -114,3 +114,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lillian | Norman Hanel | tôi | Norman | 75 | Nữ tu lớn tuổi nói chuyện với dược sư quen biết |
 | Lorraine Vivie | Unbert Abeiyu | tôi | anh / các anh | 75 | Học giả trao đổi lịch sự với thầy trị liệu |
 | Unbert Abeiyu | Lorraine Vivie | tôi | cô / hai vị | 75 | Thầy trị liệu trao đổi lịch sự với học giả |
+| Norman Hanel | Lillian | tôi | Sơ Lillian | 75 | Dược sư kính trọng nữ tu phụ trách cô nhi viện |
+| Alize | Unbert Abeiyu | em | thầy Unbert / thầy trị liệu Unbert | 74 | Trẻ mồ côi gọi thầy trị liệu quen biết |
+| Alize | Norman Hanel | em | bác sĩ Norman / dược sư Norman | 74 | Trẻ mồ côi gọi dược sư quen biết |
+| Lorraine Vivie | Norman Hanel | tôi | anh / các anh | 75 | Học giả trao đổi lịch sự với dược sư |

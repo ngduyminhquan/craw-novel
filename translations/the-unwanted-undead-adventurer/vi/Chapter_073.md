@@ -146,7 +146,7 @@ Bản thân Lorraine cũng chẳng hề xa lạ gì với những thói quen nh�
 
 "Tôi thực sự không thể nào hiểu nổi khái niệm về một Undead khỏe mạnh đâu, Lorraine à..."
 
-"Hừm. Tôi đồ rằng anh nói cũng có lý, Rentt à. Một mặt, anh đã chết, nhưng mặt khác, anh lại là Undead. Tồn tại trong cõi chết chẳng phải là trạng thái sức khỏe tốt nhất rồi sao...? Nhưng thôi bới lông tìm chữ thế là đủ rồi. Anh quả thực có răng nanh đấy. Chắc chắn là của một Ma Cà Rồng—ít nhất thì tôi nghĩ vậy..."
+"Hừm. Tôi đồ rằng anh nói cũng có lý, Rentt à. Một mặt, anh đã chết, nhưng mặt khác, anh lại là Undead. Tồn tại trong cõi chết chẳng phải là trạng thái sức khỏe tốt nhất rồi sao...? Nhưng thôi bắt bẻ câu chữ thế là đủ rồi. Anh quả thực có răng nanh đấy. Chắc chắn là của một Ma Cà Rồng—ít nhất thì tôi nghĩ vậy..."
 
 Lorraine đưa hai tay lên má tôi, rồi nhanh chóng bắt đầu nắn bóp thô bạo—đẩy, kéo, ấn—rõ ràng là đang cố nhìn cho kỹ hơn.
 
@@ -196,7 +196,7 @@ Một nhận định mơ hồ đến khác thường, nếu xét theo tính các
 
 Có lẽ vẻ bất mãn đã lộ rõ trên mặt tôi, bởi lẽ Lorraine cau mày đáp lại, rồi cộc lốc tiếp tục lời giải thích của mình.
 
-"Anh còn muốn tôi làm thế nào nữa đây, Rentt? Tôi chưa từng nghe nói về bất kỳ loại Ma Cà Rồng nào có cánh cả. Anh kỳ vọng quá nhiều vào một học giả nơi thị trấn biên ải hẻo lánh như tôi rồi đấy. Thêm vào đó... anh đã quá khác biệt so với phần lớn quái vật. Cơ thể anh rất đặc biệt, và anh... không giống ai. Do bản chất độc nhất vô nhị của mình, anh sẽ không vừa vặn với bất kỳ bảng phân loại định sẵn hay các biến thể và phân loài đã từng được ghi nhận nào đâu. Đó sẽ là quan sát chính xác nhất. Hết mức thì tôi chỉ có thể nói anh là một sự tồn tại tiệm cận với một dạng Hạ Cấp Ma Cà Rồng nhất định, nhưng nhắc lại lần nữa, đó là tất cả những gì tôi có thể nhận định một cách khách quan."
+"Anh còn muốn tôi làm thế nào nữa đây, Rentt? Tôi chưa từng nghe nói về bất kỳ loại Ma Cà Rồng nào có cánh cả. Anh kỳ vọng quá nhiều vào một học giả nơi thị trấn biên ải hẻo lánh như tôi rồi đấy. Thêm vào đó... anh đã quá khác biệt so với phần lớn quái vật. Cơ thể anh rất đặc biệt, và anh... không giống ai. Do bản chất độc nhất vô nhị của mình, anh sẽ không thể xếp vừa vào bất kỳ bảng phân loại định sẵn hay các biến thể và phân loài đã từng được ghi nhận nào đâu. Đó sẽ là quan sát chính xác nhất. Hết mức thì tôi chỉ có thể nói anh là một sự tồn tại tiệm cận với một dạng Hạ Cấp Ma Cà Rồng nhất định, nhưng nhắc lại lần nữa, đó là tất cả những gì tôi có thể nhận định một cách khách quan."
 
 "Vậy chẳng phải cuộc thảo luận kết thúc ở đó nếu cô diễn đạt theo cách ấy sao, Lorraine?"
 
