@@ -19,3 +19,9 @@ Rentt đối đầu với con Khô Lâu hoang dã trong Mê Cung Nguyệt Ảnh,
 Sau pha va chạm khiến kiếm cắm vào hốc mắt kẻ địch, Rentt vận dụng Khí Lực bọc lấy cơ thể để gia tăng sức mạnh, đập nát hộp sọ khiến đối thủ vỡ vụn.
 Hấp thụ luồng sáng sinh mệnh bốc lên từ hài cốt kẻ thù (cùng việc nhặt viên Ma Tinh), Rentt cảm thấy cơ thể khỏe hơn và các nguồn năng lượng Ma Lực, Khí Lực, Thần Lực tăng nhẹ.
 Nhận ra Tiến Hóa Bản Thể cần thời gian và tích lũy qua nhiều trận chiến chứ không thể thành Ngạ Quỷ ngay lập tức, Rentt tiếp tục lên đường săn tìm quái vật khác.
+
+## 4
+Rentt nhận thấy việc tiêu diệt quái Khô Lâu và hấp thụ ánh sáng sinh mệnh giúp cơ thể cùng các năng lực Ma Lực, Khí Lực, Thần Lực mạnh mẽ hơn rõ rệt.
+Anh di chuyển đến khu vực sinh sống của Slime trong Mê Cung Nguyệt Ảnh, hồi tưởng lại quá khứ mười năm chật vật với biệt danh "Đồng Cấp Ngàn Năm" vì kẹt ở Hạ Đồng Cấp và phải thám hiểm đơn độc.
+Chạm trán một con Slime mới tái sinh trong trẻo hiếm gặp, Rentt né tránh đòn phun axit Acid Blitz và bất ngờ chém chết nó chỉ bằng một nhát kiếm nhờ may mắn trúng lõi.
+Anh nhanh chóng dùng bình thu hoạch chất dịch quý giá của Slime (thường dùng làm mỹ phẩm cao cấp) và quyết tâm tiến hóa thành Ngạ Quỷ để có thể đàng hoàng về thị trấn tìm gặp một người quen giúp đỡ.

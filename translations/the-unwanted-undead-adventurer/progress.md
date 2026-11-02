@@ -8,7 +8,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 1 |  | Chapter_001 - Vol 1 Prologue.txt | Vol 1 Prologue | reviewed |  |
 | 2 |  | Chapter_002 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (1).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (1) | reviewed |  |
 | 3 |  | Chapter_003 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2) | reviewed |  |
-| 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | todo |  |
+| 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | done |  |
 | 5 |  | Chapter_005 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4) | todo |  |
 | 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | todo |  |
 | 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -360,3 +361,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#3] Dịch 'magic crystal' (vật phẩm quái vật rơi ra) — tạm chọn 'Ma Tinh' (phương án khác: 'tinh thể ma thuật', 'ma thạch', 'đá ma thuật'). → Chốt Ma Tinh (orchestrator)
 - [#2] Tách 'Ancient Dragon' thành mục độc lập 'Rồng Cổ Đại' trong glossary thay vì Alias của Dragon → Chấp nhận tách mục riêng 'Ancient Dragon → Rồng Cổ Đại' (orchestrator)
 - [#1] Đưa 'demon king' vào glossary → Không đưa vào glossary, chỉ là danh từ chung trong ví von (orchestrator)
+- [#4] Dịch danh hiệu 'Thousand-year Bronze-class' — tạm chọn 'Đồng Cấp Ngàn Năm' (phương án khác: 'Đồng Cấp Vạn Niên'). → Chốt 'Đồng Cấp Ngàn Năm' (sát nghĩa Thousand-year / Thiên Niên và tự nhiên cho biệt danh trêu chọc) (orchestrator)

@@ -18,6 +18,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Iron-class | Iron | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
 | Bronze-class |  | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級) |
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
+| middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
+| upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
 | Silver-class |  | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級) |
 | Gold-class |  | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class | Platinum | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
@@ -46,3 +48,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Re-popping |  | Tái Sinh Quái | hệ thống | 2 | Hiện tượng quái vật hồi sinh định kỳ trong mê cung |
 | Acid Blitz |  | Acid Blitz | kỹ năng | 4 | Đòn phun dung dịch axit của Slime (giữ nguyên tên đòn) |
 | Magic crystal | Magic crystals; magic crystal; magic crystals | Ma Tinh | vật phẩm | 3 | Tinh thể ma thuật rơi ra từ quái vật (魔石/魔晶石) |
+| Thousand-year Bronze-class | The Thousand-year Bronze-class | Đồng Cấp Ngàn Năm | danh hiệu | 4 | Biệt danh trêu chọc của Rentt vì kẹt ở Hạ Đồng Cấp suốt 10 năm |
+| spirit art | spirit arts; Spirit Art; Spirit Arts | Khí Thuật | kỹ năng | 2 | Kỹ thuật vận dụng Khí Lực cường hóa cơ thể và đòn đánh |
