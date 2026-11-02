@@ -2,7 +2,7 @@
 
 Cuối cùng, chúng tôi quyết định chọn một thanh kiếm cùng một thanh dao găm cho Alize. Chúng tôi báo với Clope và Luka rằng mình sẽ rời khỏi Maalt một thời gian, để họ có đủ thời gian hoàn thiện các món vũ khí. Dù sao thì Alize cũng chẳng thể dùng đến chúng cho tới khi tôi và Lorraine trở về từ Hathara. Dẫu vậy, chúng tôi vẫn còn thời gian để huấn luyện đôi chút trước khi lên đường, nhưng chuyện đó thì Alize có thể mượn kiếm và dao găm của một trong hai chúng tôi. Hẳn là chúng tôi có sẵn vài món trang bị cũ đã qua sử dụng, tuy chẳng thích hợp để chiến đấu với quái vật nhưng dùng để luyện tập thì hoàn toàn ổn thỏa. Tạm thời như thế cũng là đủ tốt rồi.
 
-Tôi cũng có hỏi ý kiến Clope về áo giáp, nhưng anh bảo Alize mặc giáp da hoặc áo choàng thì sẽ thích hợp hơn. Vì dao găm cùng ma thuật sẽ là phương thức chiến đấu chủ lực của cô bé sau này, nên một thứ gì đó nhẹ nhàng hơn sẽ là lựa chọn tối ưu. Clope giới thiệu chúng tôi đến một tiệm giáp khác, song vì trời cũng chẳng còn sớm nên chúng tôi quyết định sẽ ghé vào dịp khác. Vẫn còn những việc khác cần phải lo liệu.
+Tôi cũng có hỏi ý kiến Clope về áo giáp, nhưng gã bảo Alize mặc giáp da hoặc áo choàng thì sẽ thích hợp hơn. Vì dao găm cùng ma thuật sẽ là phương thức chiến đấu chủ lực của cô bé sau này, nên một thứ gì đó nhẹ nhàng hơn sẽ là lựa chọn tối ưu. Clope giới thiệu chúng tôi đến một tiệm giáp khác, song vì trời cũng chẳng còn sớm nên chúng tôi quyết định sẽ ghé vào dịp khác. Vẫn còn những việc khác cần phải lo liệu.
 
 "Giờ là lúc chế tạo vật dẫn ma pháp rồi đây. Hai người đã sẵn sàng chưa?" Lorraine hỏi.
 
@@ -74,7 +74,7 @@ Không hề đâu. Riêng việc này thôi cũng phải tốn một khoảng th
 
 Alize gật đầu rồi lại chăm chú nhìn vào viên Ma Tinh thêm lần nữa. "Có nhiều ma pháp trận quá, chúng lồng ghép vào nhau trông cứ như một khối hình cầu vậy ạ," cô bé nhận xét trong lúc trao cây đũa phép cho tôi.
 
-Tôi vốn đã biết bên trong có những gì, nhưng nhân cơ hội này tôi cũng ngắm nhìn một lượt. Những ma pháp trận phức tạp hơn rất nhiều so với thứ Lorraine vừa tạo ra được nén chặt bên trong. Và tất cả chúng đều liên kết với nhau để tạo thành các Quả Cầu, tổng cộng có ba quả tất cả. Mỗi Quả Cầu đều giữ khoảng cách đủ xa với những quả khác để không chạm vào nhau, và chúng cùng xoay tròn theo các hướng khác biệt. Cảnh tượng ấy hệt như đang ngắm nhìn một chiếc đồng hồ cát, đầy mê hoặc đến mức tôi có thể dán mắt vào đó mãi không thôi.
+Tôi vốn đã biết bên trong có những gì, nhưng nhân cơ hội này tôi cũng ngắm nhìn một lượt. Những ma pháp trận phức tạp hơn rất nhiều so với thứ Lorraine vừa tạo ra được nén chặt bên trong. Và tất cả chúng đều liên kết với nhau để tạo thành các quả cầu, tổng cộng có ba quả tất cả. Mỗi quả cầu đều giữ khoảng cách đủ xa với những quả khác để không chạm vào nhau, và chúng cùng xoay tròn theo các hướng khác biệt. Cảnh tượng ấy hệt như đang ngắm nhìn một chiếc đồng hồ cát, đầy mê hoặc đến mức tôi có thể dán mắt vào đó mãi không thôi.
 
 "Những thứ này được gọi là ma pháp trận xếp tầng ba chiều. Bằng cách cấu trúc các ma pháp trận theo không gian ba chiều, người ta có thể ghi thêm nhiều thông tin vào bên trong. Ma pháp trận chứa đựng thông tin trong từng hoa văn và ký tự riêng biệt, và việc ghép nối chúng sao cho hiệu quả nhất là cả một thử thách. Tất nhiên, các hình khối ba chiều có thể lưu trữ được nhiều thông tin hơn rất nhiều. Nếu em muốn phức tạp hơn nữa, thì còn có cả ma pháp trận xếp tầng đa chiều, vốn là dạng bốn chiều... Ồ."
 
@@ -88,7 +88,7 @@ Alize lắc đầu. "Dạ không đâu ạ, ít nhất thì em cũng cảm nhậ
 
 Còn về việc cụ thể tôi đã học được bao nhiêu, một thường dân có thể xem tôi là người khá hiểu biết. Nhưng đối với một người như Lorraine, tôi chẳng thể làm gì hơn ngoài việc trò chuyện tiếp lời cô. Tôi quả thực nắm giữ một lượng lớn kiến thức liên quan tới mạo hiểm giả xoay quanh thành phố này, nhưng học thuật thì nằm ngoài lĩnh vực chuyên môn của tôi. Hồi còn ở quê nhà Hathara, trưởng làng cùng một bà lão thầy thuốc đã dạy cho tôi chút học vấn căn bản, chừng đó đủ để tôi tự mình đọc sách của Lorraine, nhưng cũng chẳng có gì đặc biệt to tát.
 
-Lorraine lại không nghĩ vậy. "Rentt khá cừ đấy chứ. Làm thế nào mà một người như anh ta lại được nuôi dạy ở một ngôi làng hẻo lánh nơi đồng không mông quạnh quả là một điều bí ẩn," cô buông lời khen ngợi tôi.
+Lorraine lại không nghĩ vậy. "Rentt khá cừ đấy chứ. Làm thế nào mà một người như anh ấy lại được nuôi dạy ở một ngôi làng hẻo lánh nơi đồng không mông quạnh quả là một điều bí ẩn," cô buông lời khen ngợi tôi.
 
 Đó là điều bí ẩn đối với cô vì tôi rất hiếm khi nhắc đến xuất thân hay quê hương của mình. Tôi chỉ tình cờ kể bâng quơ đôi lời về những lời chỉ dạy của bà lão thầy thuốc và trưởng làng, nhưng cũng chỉ dừng lại ở đó. Lorraine cũng chưa bao giờ cố dò la tọc mạch. Giới mạo hiểm giả thường có những quá khứ mà họ thà giữ kín trong lòng. Nếu một người đã chọn không bàn về quá khứ của mình, thì người khác cũng không nên gặng hỏi.
 
@@ -102,7 +102,7 @@ Lorraine lùi lại một bước. "Phải rồi. Tôi nhớ là mình đã dừ
 
 "Phương pháp dễ dàng và được biết đến rộng rãi hơn là định hình đũa phép bằng ma thuật. Chẳng hạn như em có thể làm thế này," cô nói rồi bắt đầu rót Ma Lực vào khúc gỗ Ent Bụi Cây. Cô quan sát cho đến khi nó chứa đủ Ma Lực, rồi vận dụng Ma Lực để tách một phần gỗ ra và làm cho nó lơ lửng trên không trung. Nó có chiều dài của một cây đũa phép thông thường, khoảng chừng ba mươi centimet. Cô tiếp tục thao túng Ma Lực để gọt giũa phần gỗ đó từng chút một. Ma Lực bao bọc lấy khúc gỗ như một đường xoắn ốc, dần dà định hình nó thành một cây đũa phép. Cấu trúc của nó được sắp đặt sao cho lớp vỏ cây tạo thành bề mặt bên ngoài của đũa phép, và hình dáng thon nhỏ ở một đầu rồi to dần khi về phía đầu còn lại. Đây hoàn toàn có thể gọi là tác phẩm của một người thợ lành nghề.
 
-"Giờ tới phần khó khăn nhất đây. Viên Ma Tinh và thân đũa phép phải được kết hợp lại với nhau. Thôi thì cứ làm thử xem sao." Lorraine một tay rót Ma Lực vào viên Ma Tinh, tay kia rót vào cây đũa phép, khiến cả hai lơ lửng rồi tiến lại gần nhau. Những tia lửa màu xanh nhạt bắn ra từ đầu đũa phép, và khi viên Ma Tinh tới gần, nó liền khóa chặt vào phần gỗ. Một khi đã hoàn toàn gắn kết, phần gỗ quanh đầu đũa phép dịch chuyển rồi ôm trọn lấy viên tinh thể.
+"Giờ tới phần khó khăn nhất đây. Viên Ma Tinh và thân đũa phép phải được kết hợp lại với nhau. Bắt đầu đây nào." Lorraine một tay rót Ma Lực vào viên Ma Tinh, tay kia rót vào cây đũa phép, khiến cả hai lơ lửng rồi tiến lại gần nhau. Những tia lửa màu xanh nhạt bắn ra từ đầu đũa phép, và khi viên Ma Tinh tới gần, nó liền khóa chặt vào phần gỗ. Một khi đã hoàn toàn gắn kết, phần gỗ quanh đầu đũa phép dịch chuyển rồi ôm trọn lấy viên tinh thể.
 
 Khi Lorraine cầm cây đũa phép lên, ánh sáng tỏa ra từ nó cùng viên Ma Tinh dần tan biến. "Chà, các bước thực hiện là như vậy đấy. Thành phẩm trông cũng tạm ổn đấy chứ nhỉ," cô lẩm bẩm rồi ngắm nghía cây đũa phép từ nhiều góc độ.
 

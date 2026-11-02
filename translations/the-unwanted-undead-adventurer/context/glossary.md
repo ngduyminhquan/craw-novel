@@ -219,7 +219,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Blacksmithing Deity | the Blacksmithing Deity | Thần Nghề Rèn | khác | 118 | Thần linh bảo hộ nghề rèn trong tín ngưỡng thợ rèn (鍛冶神) |
 | Furnace Deity | the Furnace Deity | Thần Lò Lửa | khác | 118 | Thần linh cai quản lò nung trong lò rèn, tương truyền là nữ thần hay ghen (炉神) |
 | Hamdan Mine |  | Mỏ Hamdan | địa danh | 118 | Mỏ quặng cũ cách Maalt khoảng 2 ngày đường, nay đã bị bỏ hoang |
-| Holy Tree |  | Thánh Thụ | vật phẩm | 118 | Cây thần thánh tỏa Thần Lực được người elf bảo hộ (聖樹) |
+| Holy Tree | sacred tree; sacred trees | Thánh Thụ | vật phẩm | 118 | Cây thần thánh tỏa Thần Lực được người elf bảo hộ (聖樹) |
 | Land of the Venerable Holy Tree |  | Vùng Đất Cổ Thánh Thụ | địa danh | 118 | Xứ sở của tộc elf và High Elf nơi bảo hộ Cổ Thánh Thụ |
 | Venerable Holy Tree |  | Cổ Thánh Thụ | khác | 118 | Cổ thụ thần thánh ngự trị nơi sâu thẳm của xứ sở người elf |
 | High Elf | high elf; high elves; High elves | High Elf | chủng tộc | 118 | Chủng tộc elf thượng cấp cai trị Vùng Đất Cổ Thánh Thụ |

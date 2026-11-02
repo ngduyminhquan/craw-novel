@@ -14,7 +14,7 @@ Gã đoán Mê Cung Tân Nguyệt là hoàn toàn chính xác, còn Mỏ Hamdan 
 
 "Tầng bốn? Một mình cậu trước giờ cùng lắm chỉ xuống được tầm tầng hai là cùng. Chà, đây mới chính là điều khiến nghề rèn trở nên thú vị đến thế," gã mỉm cười nói. Gã có vẻ thực lòng mừng cho bước tiến của tôi. Thực ra điều đó chẳng phải nhờ sự tiến bộ của bản thân cho lắm mà chủ yếu là do tôi đã biến thành quái vật, nhưng tôi chẳng việc gì phải nhắc đến chuyện đó. Làm vậy chỉ tổ khiến mọi chuyện thêm rắc rối.
 
-Sau khi đã lấy hết số Ma Thiết thông thường ra, tôi lấy khối kim loại đượm ma lực rồng ra ngoài. Clope tròn mắt kinh ngạc.
+Sau khi đã lấy hết số Ma Thiết thông thường ra, tôi lấy khối kim loại đượm Ma Lực rồng ra ngoài. Clope tròn mắt kinh ngạc.
 
 "Kia là đồng thau à? Khoan đã, thực ra thì... Rentt, đây có phải thứ tôi đang nghĩ không?"
 
@@ -38,9 +38,9 @@ Clope ngẫm nghĩ về câu hỏi. "Khó mà biết chắc được. Người t
 
 Nghe thì đúng là khó khăn thật, nhưng Clope đâu hề hay biết tôi có thể kiếm máu Ma Cà Rồng dễ dàng đến mức nào. Tôi chỉ việc dùng máu của chính mình là xong. Liệu hiện tại tôi có còn là một Ma Cà Rồng hay không thì đã trở nên có phần mập mờ, nên có thể cách này sẽ không hiệu nghiệm, nhưng ít nhất cũng rất đáng để thử một phen.
 
-Vậy là chỉ còn lại Ma Tinh và lá Thánh Thụ. Ngay cả trong trường hợp xấu nhất, tôi vẫn có thể tích cóp đủ tiền để mua Ma Tinh. Còn về thần thụ, tôi cần phải có thêm thông tin.
+Vậy là chỉ còn lại Ma Tinh và lá Thánh Thụ. Ngay cả trong trường hợp xấu nhất, tôi vẫn có thể tích cóp đủ tiền để mua Ma Tinh. Còn về thánh thụ, tôi cần phải có thêm thông tin.
 
-"Ý anh nói Thánh Thụ là cái cây ở Vùng Đất Cổ Thánh Thụ sao?" Tôi hỏi Clope.
+"Ý anh nói Thánh Thụ là cái cây ở Vùng Đất Cổ Thánh Thụ sao?" tôi hỏi Clope.
 
 "Ừ, đất nước của tộc High Elf đấy. Chúc cậu may mắn kiếm được chúng nhé."
 
@@ -94,7 +94,7 @@ Những nguyên liệu chứa Thần Lực vốn rất khó kiếm. Nhiều lo�
 
 "Nước Thánh được điều chế bằng bí thuật của Giáo Hội. Sử dụng Thần Lực từ thứ đó cho bất kỳ mục đích nào khác ngoài công năng định sẵn đều không hề dễ dàng."
 
-Lorraine cũng làm vẻ mặt tương tự Clope. "Những vật phẩm do các Thánh Giả tạo ra cũng y như vậy. Họ rất cẩn trọng trước những vụ rò rỉ xoay quanh chuyện đó."
+Lorraine cũng làm vẻ mặt tương tự Clope. "Những vật phẩm do các Thánh Giả tạo ra cũng y như vậy. Họ rất cẩn trọng trong việc để rò rỉ bí mật xoay quanh chuyện đó."
 
 Nếu có thể tận dụng lượng Thần Lực đó cho bất kỳ mục đích nào, thì việc bán những vật phẩm ấy có lẽ sẽ chẳng mang lại điều gì tốt đẹp cho tổ chức tôn giáo của họ. Lượng Thần Lực đó vốn dĩ chỉ có thể do các Thánh Giả tạo ra, nên tôi không nghĩ việc đó tạo ra nhiều khác biệt, song có lẽ mọi chuyện không hề đơn giản như vậy. Chẳng hạn, một người như Lorraine có thể khám phá ra cơ chế của Thần Lực đó và học được cách sản xuất hàng loạt các vật phẩm thanh tẩy và trị liệu mà không cần đến Thánh Giả. Chuyện đó sẽ không dễ dàng đến thế, nhưng cũng không phải là bất khả thi. Dù sao thì các vật phẩm trị liệu và thanh tẩy thỉnh thoảng vẫn xuất hiện trong mê cung. Những món hàng nhái kém hiệu quả hơn của các vật phẩm đó cũng được sản xuất và bày bán tại các cửa tiệm bán ma cụ thông thường. Những phiên bản hiệu quả hơn đòi hỏi nguyên liệu quý hiếm để chế tạo, nên chúng chưa thể thay thế cho các Thánh Giả, nhưng một ngày nào đó thì hoàn toàn có thể. Đó hẳn là lý do tại sao họ phải giữ kín phương thức chế tạo những vật phẩm này.
 

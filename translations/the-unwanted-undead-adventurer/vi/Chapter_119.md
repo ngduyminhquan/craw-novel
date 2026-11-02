@@ -6,7 +6,7 @@
 
 Một người chưa từng mua vũ khí bao giờ cảm thấy bối rối cũng là điều dễ hiểu. Hồi mới chập chững bước vào nghề, tôi học cách chiến đấu từ một thợ săn. Vũ khí chủ lực của tôi là cung và dao găm, rất giống một người đi săn, thành thử tôi chẳng bao giờ phải đắn đo về chuyện đó. Tới khi tôi quyết định trở thành một mạo hiểm giả, tôi đã dày dạn kinh nghiệm dùng dao găm và tự mày mò học cách dùng kiếm. Hồi ấy tôi đã nắm vững hầu hết các kỹ năng căn bản. Nói cách khác, dù tốt hay xấu thì tôi chưa bao giờ phải đứng trước một lựa chọn nào cả.
 
-Về sau, tôi nhờ một mạo hiểm giả thỉnh thoảng ghé qua thị trấn làm hộ vệ cho thương nhân lưu động chỉ dạy cho mình các kỹ thuật kiếm thuật phổ biến để trau dồi thêm. Theo tôi nhớ thì khi tôi đã chiến đấu khá vững, người dạy tôi cũng trở nên hào hứng hơn hẳn. Thế nhưng vào một ngày nọ, anh ta không còn đến thị trấn nữa, mà thay vào đó là một người khác. Liệu anh ta đã bỏ mạng trong một nhiệm vụ hay đã rời sang vùng đất khác, tôi cũng chẳng rõ. Anh ta không phải mạo hiểm giả của Maalt, nên việc cố gắng dò la tin tức ở thị trấn là điều vô vọng. Nếu tôi tới kiểm tra tại trụ sở chi nhánh của Hội ở một thành phố lớn hơn, may ra tôi có thể xác định được tung tích của anh ta, nhưng việc đó có lẽ sẽ tốn không ít thời gian. Huống hồ, người mạo hiểm giả ấy lúc đó từng bảo: "Có duyên thì gặp lại, không duyên thì thôi." Anh ta là một người kỳ lạ và sống chẳng có đích đến nào, nhưng giờ đây tôi đã hiểu được cảm xúc của anh ta. Đó chính là lý do chủ yếu khiến tôi không nghĩ thêm đến chuyện đi tìm anh ta nữa.
+Về sau, tôi nhờ một mạo hiểm giả thỉnh thoảng ghé qua thị trấn làm hộ vệ cho thương nhân lưu động chỉ dạy cho mình các kỹ pháp kiếm thuật phổ biến để trau dồi thêm. Theo tôi nhớ thì khi tôi đã chiến đấu khá vững, người dạy tôi cũng trở nên hào hứng hơn hẳn. Thế nhưng vào một ngày nọ, anh ta không còn đến thị trấn nữa, mà thay vào đó là một người khác. Liệu anh ta đã bỏ mạng trong một nhiệm vụ hay đã rời sang vùng đất khác, tôi cũng chẳng rõ. Anh ta không phải mạo hiểm giả của Maalt, nên việc cố gắng dò la tin tức ở thị trấn là điều vô vọng. Nếu tôi tới kiểm tra tại trụ sở chi nhánh của Hội ở một thành phố lớn hơn, may ra tôi có thể xác định được tung tích của anh ta, nhưng việc đó có lẽ sẽ tốn không ít thời gian. Huống hồ, người mạo hiểm giả ấy lúc đó từng bảo: "Có duyên thì gặp lại, không duyên thì thôi." Anh ta là một người kỳ lạ và sống chẳng có đích đến nào, nhưng giờ đây tôi đã hiểu được cảm xúc của anh ta. Đó chính là lý do chủ yếu khiến tôi không nghĩ thêm đến chuyện đi tìm anh ta nữa.
 
 Dù sao đi nữa, hoàn cảnh của Alize không bị bó hẹp như vậy, song sự tự do lựa chọn lại khiến mọi chuyện trở nên khó khăn hơn. Những lúc thế này, người ta rất cần đến lời khuyên của một người thầy.
 
@@ -42,7 +42,7 @@ Clope liền lên tiếng đỡ lời. "Thôi nào, việc gì phải trêu ch�
 
 Dù vậy, tôi chẳng hề nghĩ mình tài giỏi đến thế. Rốt cuộc tôi vẫn chỉ là một mạo hiểm giả Đồng Cấp, nhưng nghe những lời ấy tôi cũng thấy rất vui.
 
-"Anh khen thế thì hơi quá lời rồi. Tôi cũng tạm được thôi, nên em đừng kỳ vọng quá nhiều nhé. Tôi nghĩ mình có thể giúp em trở thành một mạo hiểm giả có năng lực, nhưng chuyện em có thể vươn lên thành mạo hiểm giả hạng nhất hay không sẽ phụ thuộc vào nỗ lực và tài năng của em. Đừng quên điều đó đấy," tôi căn dặn Alize.
+"Anh Clope khen thế thì hơi quá lời rồi. Tôi cũng tạm được thôi, nên em đừng kỳ vọng quá nhiều nhé. Tôi nghĩ mình có thể giúp em trở thành một mạo hiểm giả có năng lực, nhưng chuyện em có thể vươn lên thành mạo hiểm giả hạng nhất hay không sẽ phụ thuộc vào nỗ lực và tài năng của em. Đừng quên điều đó đấy," tôi căn dặn Alize.
 
 "Vâng ạ. Anh đừng lo, em hiểu mà," cô bé mau mắn đáp lời.
 
@@ -112,7 +112,7 @@ Clope nhanh chóng hiểu ra ý định của tôi. "Phải rồi, con bé cũng
 
 "Ý tôi chính là như vậy. Với lại thành thạo kiếm cũng sẽ mở rộng thêm kỹ năng của em ấy nữa." Kiếm là vũ khí tiêu chuẩn của phần lớn mạo hiểm giả. Biết cách sử dụng nó thì chẳng thiệt đi đâu được.
 
-"Thế thì tôi sẽ rèn cả hai. Mà cậu muốn tôi dùng loại Ma Thiết nào?" Ý gã là chọn giữa Ma Thiết thông thường và loại thấm đượm ma lực rồng.
+"Thế thì tôi sẽ rèn cả hai. Mà cậu muốn tôi dùng loại Ma Thiết nào?" Ý gã là chọn giữa Ma Thiết thông thường và loại thấm đượm Ma Lực rồng.
 
 Đây là một quyết định hiển nhiên. "Xin anh cứ dùng Ma Thiết bình thường."
 
@@ -120,7 +120,7 @@ Clope nhanh chóng hiểu ra ý định của tôi. "Phải rồi, con bé cũng
 
 "Nếu Alize mới bắt đầu mà đã dùng thứ gì đó quá dị biệt, em ấy sẽ hình thành những thói quen kỳ quặc mất. Tôi phải tính đến chuyện đó."
 
-"Ồ, tôi hiểu rồi. Được thôi. Thế còn thỏi Ma Thiết này thì cậu tính sao?" Clope hỏi rồi nhìn thỏi sắt thấm đượm ma lực rồng.
+"Ồ, tôi hiểu rồi. Được thôi. Thế còn thỏi Ma Thiết này thì cậu tính sao?" Clope hỏi rồi nhìn thỏi Ma Thiết thấm đượm Ma Lực rồng.
 
 "Chừng đó thì anh rèn được bao nhiêu? Một con dao găm, hay được gì nữa?"
 

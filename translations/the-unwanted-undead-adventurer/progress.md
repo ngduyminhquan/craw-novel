@@ -122,9 +122,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 115 |  | Chapter_115 - Vol 5 Chapter 1 - Off to Adventure (1).txt | Vol 5 Chapter 1 - Off to Adventure (1) | reviewed |  |
 | 116 |  | Chapter_116 - Vol 5 Chapter 1 - Off to Adventure (2).txt | Vol 5 Chapter 1 - Off to Adventure (2) | reviewed |  |
 | 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | reviewed |  |
-| 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | done |  |
-| 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | done |  |
-| 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | done |  |
+| 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | reviewed |  |
+| 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | reviewed |  |
+| 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | reviewed |  |
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | todo |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | todo |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | todo |  |
@@ -623,3 +623,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#120] Thuật ngữ 'shrub ent' (phân loài Ent dạng bụi rậm/cây bụi làm đũa phép) — tạm dịch 'Ent Bụi Cây' (phương án khác: 'Ent Bụi Rậm', 'Ent Cây Bụi'). → Giữ 'Ent Bụi Cây' trong glossary.md (orchestrator)
 - [#120] Thuật ngữ 'three-dimensional layered magic circle' / 'multi-dimensional layered magic circle' — tạm dịch 'ma pháp trận xếp tầng ba chiều' / 'ma pháp trận xếp tầng đa chiều' (phương án khác: 'ma pháp trận phân tầng ba chiều / đa chiều'). → Giữ 'ma pháp trận xếp tầng ba chiều' và 'ma pháp trận xếp tầng đa chiều' trong glossary.md (orchestrator)
 - [#120] Tiêu đề chương 'Making a Catalyst (1)' — tạm dịch 'Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)' (rút gọn từ 'vật dẫn ma pháp' theo glossary; phương án khác: 'Chế Tạo Vật Dẫn Ma Pháp (1)'). → Dùng 'Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)' cho tiêu đề arc này (orchestrator)
+- [#118] Chuẩn hóa thuật ngữ 'sacred trees' ở đoạn 20 → Dịch là 'thánh thụ' và thêm 'sacred tree; sacred trees' vào Alias của 'Holy Tree' trong glossary.md (orchestrator)
+- [#120] Xưng hô khi Lorraine nói với Alize về Rentt (đoạn 45) → Sửa 'anh ta' thành 'anh ấy' theo đúng quy tắc #77 trong rules.md (orchestrator)
