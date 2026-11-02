@@ -32,9 +32,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 25 |  | Chapter_025 - Vol 1 Chapter 5 - Proof of Inhumanity (5).txt | Vol 1 Chapter 5 - Proof of Inhumanity (5) | reviewed |  |
 | 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | reviewed |  |
 | 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | reviewed |  |
-| 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | done |  |
-| 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | done |  |
-| 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | done |  |
+| 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | reviewed |  |
+| 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | reviewed |  |
+| 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | reviewed |  |
 | 31 |  | Chapter_031 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2) | todo |  |
 | 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | todo |  |
 | 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | todo |  |

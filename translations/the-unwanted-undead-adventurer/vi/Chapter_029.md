@@ -1,8 +1,8 @@
 # Chương 29: Ngoại truyện Tập 1 - Ngày Rentt Nổi Giận ~Năm Thứ Sáu Làm Mạo Hiểm Giả của Lorraine~ (2)
 
-Dù đôi khi ý nghĩ trở thành một người bình thường cũng thoáng qua tâm trí tôi, nhưng những dòng chảy ma lực đang cuộn trào bên trong lại có toan tính khác về tương lai của tôi.
+Dù đôi khi ý nghĩ trở thành một người bình thường cũng thoáng qua tâm trí tôi, nhưng những dòng chảy Ma Lực đang cuộn trào bên trong lại có toan tính khác về tương lai của tôi.
 
-Cẩn thận che giấu ý đồ của mình, tôi bắt đầu ngưng tụ ma lực trong cơ thể, chậm rãi dệt nó thành một câu ma pháp. Trong khi đám côn đồ chẳng hề mảy may nghi ngờ, thì Zarid đã nhận ra và hốt hoảng giơ một tay lên.
+Cẩn thận che giấu ý đồ của mình, tôi bắt đầu ngưng tụ Ma Lực trong cơ thể, chậm rãi dệt nó thành một câu ma pháp. Trong khi đám côn đồ chẳng hề mảy may nghi ngờ, thì Zarid đã nhận ra và hốt hoảng giơ một tay lên.
 
 "N-Này... Ba đứa kia..." Tôi cho rằng Zarid vẫn còn quá nhân từ. Lời cảnh báo ấy thực sự nhiều hơn những gì loại người này đáng được nhận.
 
@@ -10,7 +10,7 @@ Thế nhưng đúng lúc đó, một vị khách mới bước vào quán rượ
 
 "...Ồ?"
 
-Ma lực cuộn trào bên trong tôi... rồi đột ngột ngưng lại. Tôi tạm gác lại ý định tung ma pháp vào đám đàn ông nọ—ít nhất là vào lúc này.
+Ma Lực cuộn trào bên trong tôi... rồi đột ngột ngưng lại. Tôi tạm gác lại ý định tung ma pháp vào đám đàn ông nọ—ít nhất là vào lúc này.
 
 Chẳng lẽ tôi đã tha thứ cho bọn chúng? Dĩ nhiên là không; chuyện đó hoàn toàn nằm ngoài dự tính. Lý do duy nhất khiến tôi dừng tay chỉ là vì tôi nghĩ mình không còn vai diễn nào trong màn kịch này nữa, phần lớn xuất phát từ việc một luồng sát khí chết chóc đang tỏa ra ngùn ngụt từ vị khách vừa bước vào quán rượu.
 
@@ -172,7 +172,7 @@ Dĩ nhiên, tôi chẳng có lựa chọn nào khác ngoài việc nhờ ông gi
 
 "...Tôi đoán tất cả đều là nhờ công của Rentt. Chắc hẳn anh ấy đã báo cho chủ nhà trọ biết về hành vi của bọn chúng."
 
-"Đại khái là vậy. Nhưng khoan đã, vẫn còn nữa cơ! Nghe đâu bọn chúng đã thử ghé qua các khu nhà trọ khác, nhưng đều bị từ chối thẳng thừng.
+"Đại khái là vậy. Nhưng khoan đã, vẫn còn nữa cơ! Nghe đâu bọn chúng đã thử ghé qua các khu nhà trọ khác, nhưng đều bị từ chối thẳng thừng."
 
 "Nhưng chuyện còn ly kỳ hơn thế: mấy tên ngốc cố mua đồ ăn, nhưng chẳng một cửa tiệm nào thèm bán cho chúng. Ngay cả các tiệm rèn cũng từ chối bảo dưỡng vũ khí của bọn chúng; và dĩ nhiên, bất kỳ ai trên phố cũng ném cho chúng những ánh nhìn lạnh như băng. Đó là những gì bọn chúng phải nếm trải suốt ba ngày qua đấy."
 
@@ -182,9 +182,9 @@ Dĩ nhiên, tôi chẳng có lựa chọn nào khác ngoài việc nhờ ông gi
 
 "Chẳng phải quá rõ ràng là bọn chúng đang bị cố tình chèn ép sao...?"
 
-"Tôi đoán là có—dù sao thì chuyện đó cũng kéo dài một hồi mà. Thế là bọn chúng tìm đến lính gác để khiếu nại... Chỉ để nhận lại câu trả lời từ chính những người lính gác thành đó rằng bọn chúng cũng từng phạm phải tội trạng tương tự. Thực tế là bất kỳ ai bọn chúng nói chuyện cũng đều đem những việc xấu xa của chúng ra chỉ trích—và chuỗi ngày đó cứ thế tiếp diễn suốt mấy hôm vừa qua. Tôi đồ rằng bọn chúng sắp suy sụp đến nơi rồi.
+"Tôi đoán là có—dù sao thì chuyện đó cũng kéo dài một hồi mà. Thế là bọn chúng tìm đến lính gác để khiếu nại... Chỉ để nhận lại câu trả lời từ chính những người lính gác thành đó rằng bọn chúng cũng từng phạm phải tội trạng tương tự. Thực tế là bất kỳ ai bọn chúng nói chuyện cũng đều đem những việc xấu xa của chúng ra chỉ trích—và chuỗi ngày đó cứ thế tiếp diễn suốt mấy hôm vừa qua. Tôi đồ rằng bọn chúng sắp suy sụp đến nơi rồi."
 
-"Dĩ nhiên bọn chúng không đến mức đần độn tới nỗi không biết—ngay từ đầu bọn chúng đã thấy rõ ai là người giật dây đằng sau rồi. Nói cho chính xác thì Rentt đã cố ý để bọn chúng biết anh chính là người đứng sau việc này—và đó là lý do vì sao cuối cùng bọn chúng phải tìm đến gặp Rentt để tạ lỗi cho những hành vi sai trái của mình."
+"Dĩ nhiên bọn chúng không đến mức đần độn tới nỗi không biết—ngay từ đầu bọn chúng đã thấy rõ ai là người giật dây đằng sau rồi. Nói cho chính xác thì Rentt đã cố ý để bọn chúng biết cậu ta chính là người đứng sau việc này—và đó là lý do vì sao cuối cùng bọn chúng phải tìm đến gặp Rentt để tạ lỗi cho những hành vi sai trái của mình."
 
 "Và... đây chính là kết quả sao? Sự ăn năn hối lỗi của bọn chúng, tôi đoán thế?"
 

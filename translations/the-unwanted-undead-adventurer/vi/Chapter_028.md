@@ -8,7 +8,7 @@ Dù được coi là một tay kỳ cựu, ông cũng chỉ là mạo hiểm gi�
 
 Trong khi phần lớn mạo hiểm giả đều bỏ mạng, hoặc phổ biến hơn là mất đi một hai chi trên cơ thể, thì Zarid chỉ mang vài vết sẹo trên mặt—việc tay chân ông vẫn còn lành lặn nguyên vẹn chính là minh chứng rõ ràng nhất cho thực lực của ông.
 
-Tuy nhiên, đối với một số kẻ, sự thận trọng của Zarid lại bị coi là nhát gan, và chúng chế giễu việc ông thiếu đi những "chuyến phiêu lưu" mạo hiểm này nọ. Nhưng những kẻ đó chẳng hề khôn ngoan trong cách đánh giá của mình. Suy cho cùng, lòng dũng cảm đâu phải là sự liều mạng mù quáng hay một chuỗi những canh bạc không hề toan tính. Những kẻ nghĩ như vậy chắc chắn còn ngu ngốc hơn bất kỳ điều gì Zarid có thể phạm phải.
+Tuy nhiên, đối với một số kẻ, sự thận trọng của Zarid lại bị coi là nhát gan, và chúng chế giễu việc ông thiếu đi những "chuyến phiêu lưu" mạo hiểm này nọ. Nhưng những kẻ đó chẳng hề khôn ngoan trong cách đánh giá của mình. Suy cho cùng, lòng dũng cảm đâu phải là sự liều mạng mù quáng hay một chuỗi những canh bạc không hề toan tính. Những kẻ nghĩ như vậy chắc chắn còn ngu ngốc hơn Zarid gấp bội.
 
 Lẽ dĩ nhiên Zarid vốn dĩ chẳng phải kẻ ngu ngốc; ông chỉ bộc trực mà thôi, điều đó là sự thật. So với Rentt, người thường bị bảo là không có tài năng, và tiếng tăm thiếu động lực của bản thân tôi, thì Zarid là một mạo hiểm giả tương đối cừ khôi, nếu không muốn nói là chân thành và thẳng thắn. Đó là lý do tôi không phiền khi thỉnh thoảng lập tổ đội cùng ông, bởi tôi hiểu ông đủ rõ.
 
@@ -30,7 +30,7 @@ Nói cho rõ thì tôi sẽ không bao giờ dễ dãi chấp nhận bừa một
 
 "Ha! Nếu chỉ đứng nhìn mà nên chuyện thì đến tôi cũng lấy được vợ rồi!"
 
-Lời vặn lại nhanh như chớp của Zarid nhắc tôi nhớ về sự thật rằng ông vẫn còn độc thân. Đây có lẽ là chuyện đương nhiên, bởi lối sống như vậy sẽ rất khó để chu cấp với cấp bậc mạo hiểm giả hiện tại của ông. Đối với một mạo hiểm giả Thượng Đồng Cấp, bản thân nghề mạo hiểm chắc chắn đem lại nhiều tiền hơn những công việc bình thường ở Maalt. Trái lại, họ không hẳn phải làm việc đến kiệt sức để sinh tồn. Câu hỏi lớn hơn là liệu họ có còn sống nổi để nhìn thấy ngày mai hay không.
+Lời vặn lại nhanh như chớp của Zarid nhắc tôi nhớ về sự thật rằng ông vẫn còn độc thân. Đây có lẽ là chuyện đương nhiên, bởi lối sống như vậy sẽ rất khó để chu cấp với cấp bậc mạo hiểm giả hiện tại của ông. Đối với một mạo hiểm giả Thượng Đồng Cấp, bản thân nghề mạo hiểm chắc chắn đem lại nhiều tiền hơn những công việc bình thường ở Maalt. Nói đúng hơn thì, họ không hẳn phải làm việc đến kiệt sức để sinh tồn. Câu hỏi lớn hơn là liệu họ có còn sống nổi để nhìn thấy ngày mai hay không.
 
 Hẹn hò có lẽ sẽ chẳng phải vấn đề gì quá to tát, nhưng hôn nhân lại là một chuyện hoàn toàn khác. Nếu người bạn đời của mạo hiểm giả không phải là một mạo hiểm giả, người đó sẽ phải chuẩn bị sẵn tinh thần cho sự thật rằng người mình yêu có thể sẽ không bao giờ trở về mỗi khi bước chân ra khỏi cổng thành Maalt.
 
@@ -90,6 +90,6 @@ Dẫu vậy, tôi hiểu ý đồ của chúng, và bản thân tôi có thừa 
 
 Thế nhưng, tên mạo hiểm giả côn đồ đó lại đấm mạnh nắm tay xuống bàn để đáp lại.
 
-"Rốt cuộc cô nghĩ bọn tao là ai hả con ranh kia? Mày bị ngu à? Mày phải hầu hạ bọn tao, chứ không phải cái bao tải phế vật vô tích sự này!" gã nói, rõ ràng đã nổi cơn lôi đình trước lời lẽ của tôi.
+"Rốt cuộc mày nghĩ bọn tao là ai hả con ranh kia? Mày bị ngu à? Mày phải hầu hạ bọn tao, chứ không phải cái bao tải phế vật vô tích sự này!" gã nói, rõ ràng đã nổi cơn lôi đình trước lời lẽ của tôi.
 
 Trong tình huống này, một người phụ nữ bình thường bị quấy rối hẳn đã hét lên sợ hãi, cầu cứu một người tốt bụng hay hiệp sĩ qua đường nào đó. Tiếc thay, tôi hoàn toàn không phải hạng người bình thường hay tầm thường.

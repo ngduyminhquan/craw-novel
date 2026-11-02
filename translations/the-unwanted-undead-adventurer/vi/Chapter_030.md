@@ -102,7 +102,7 @@ Thật sự... không thể tin nổi. Mình thật sự đang ở trong một c
 
 Cảnh tượng đập vào mắt tôi choáng ngợp đến mức khiến tôi nhất thời không thốt nên lời. Những tia nắng ấm áp xuyên qua không trung, rải xuống những bình nguyên trập trùng phủ đầy cỏ mềm. Phía xa xa, tôi có thể lờ mờ nhận ra bóng dáng của một cánh rừng.
 
-Dù trước kia tôi từng được các mạo hiểm giả kỳ cựu khác dẫn tới tầng này, tôi vẫn không khỏi bị ngợp trước cảm giác choáng ngợp khi ngắm nhìn khung cảnh xanh ngát trải ra trước mắt. Không ngờ bên trong một mê cung lại có thể chứa đựng một không gian như thế này... Nói đúng hơn thì, khu vực này chẳng khác nào những đồng cỏ và cánh rừng ở bên trên.
+Dù trước kia tôi từng được các mạo hiểm giả kỳ cựu khác dẫn tới tầng này, tôi vẫn không khỏi ngỡ ngàng và choáng ngợp khi ngắm nhìn khung cảnh xanh ngát trải ra trước mắt. Không ngờ bên trong một mê cung lại có thể chứa đựng một không gian như thế này... Nói đúng hơn thì, khu vực này chẳng khác nào những đồng cỏ và cánh rừng ở bên trên.
 
 Chẳng ai biết ai hay thứ gì đã tạo nên những mê cung này, và ngay cả cho đến tận ngày nay, vô vàn câu hỏi vẫn còn bỏ ngỏ. Thế nhưng, người ta không thể phủ nhận sự dị thường cùng nét tráng lệ của cảnh tượng hiển hiện trước mắt.
 
@@ -128,4 +128,4 @@ Dẫu vậy, ngay cả khi cân nhắc tất cả những điểm đó, mê cung
 
 Mọi thứ đều đến từ mê cung: vật liệu chế tạo vũ khí, giáp trụ, dược phẩm, và thậm chí cả nhu cầu cơ bản nhất là thực phẩm.
 
-Lấy ví dụ như một loài quái vật dạng người mang hình thù giống lợn: loài Orc khiêm tốn. Trong số rất nhiều loại nguyên liệu thực phẩm thu thập được từ mê cung, thịt Orc là thứ được đánh giá cao nhất; quả thực, đó là một cái tên đồng nghĩa với món ăn hảo hạng.
+Lấy ví dụ như một loài quái vật dạng người mang hình thù giống lợn: loài Orc bình dị. Trong số rất nhiều loại nguyên liệu thực phẩm thu thập được từ mê cung, thịt Orc là thứ được đánh giá cao nhất; quả thực, đó là một cái tên đồng nghĩa với món ăn hảo hạng.

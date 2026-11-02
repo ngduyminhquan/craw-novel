@@ -25,7 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 27: Cùng Lorraine thử nghiệm ma cụ Bản Đồ Akasha (phát hiện tính năng vẽ bản đồ và theo dõi tên mạo hiểm giả ở khu vực đã khám phá hết); nhận tiền bán Ma Tinh từ Lorraine giúp tài chính ổn định sau khi đặt cọc rèn kiếm; quay lại ngõ cụt ở Mê Cung Nguyệt Ảnh thì lối vào bí mật đã biến thành bức tường đá phẳng lì; củng cố quyết tâm tiếp tục thăng cấp trở thành mạo hiểm giả Mithril Cấp.
+- Trạng thái tính đến chương 30: Tiến vào Mê Cung Tân Nguyệt thực hiện ủy thác săn Orc; kiên trì chiến đấu tiết kiệm Ma Lực và Khí Lực ở tầng nông; kiểm chứng độ bền của áo chùng đen trước Acid Blitz của Slime; khám phá tầng mê cung chứa cảnh quan bình nguyên và rừng rậm tráng lệ ngập ánh mặt trời.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -94,7 +94,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thẳng thắn, bộc trực, thực tế, cẩn trọng (bị một số kẻ coi là nhát gan nhưng thực chất là biết tự lượng sức mình), thích trêu đùa nhưng biết quan tâm đến người khác.
 - Cách nói chuyện: Dân dã, bộc trực, thoải mái như bạn bè lâu năm.
 - Quan hệ: Tiền bối kiêm đồng nghiệp của Lorraine và Rentt, thỉnh thoảng lập tổ đội cùng Lorraine; hay cùng bạn bè cá cược xem Lorraine có cưới Rentt hay không.
-- Trạng thái tính đến chương 28: Ngồi uống rượu cùng Lorraine tại quán rượu ở Maalt; trò chuyện về chuyện hôn nhân của mạo hiểm giả và cùng cô chế giễu nhóm ba mạo hiểm giả côn đồ vừa xông vào quán.
+- Trạng thái tính đến chương 29: Ngồi uống rượu cùng Lorraine tại quán rượu Maalt, chứng kiến cơn thịnh nộ hiếm thấy của Rentt và cách Rentt dùng mạng lưới quan hệ cô lập ba tên côn đồ dụ quái khắp thị trấn; khuyên Rentt nương tay và thấu hiểu sự đáng sợ của người bạn trẻ tuổi.
 
 ### Yuris
 - Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả tân binh.
