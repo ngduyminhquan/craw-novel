@@ -66,7 +66,7 @@ Chuyện giá mua đứt tại các buổi đấu giá được ấn định ở
 
 Dario vẫn đang quan sát tôi từ phía bên kia bàn, có lẽ đoán được tôi đang nghĩ gì nên chú tiếp tục lên tiếng.
 
-"Vị khách này của cậu có mắt nhìn người đấy. Từng tới đây một lần rồi. Nhìn con Tarasque cậu mang về mà xúc động... Thực sự xúc động trước chất lượng của nó. Còn nói câu gì đó đại loại như... 'Một con Tarasque bị chém đứt đầu hoàn hảo. Không hề có thêm vết thương nào khác. Gần như hoàn mỹ, gần như thế. Nhiều mạo hiểm giả có thể săn lùng Tarasque... nhưng hạ sát nó mà vẫn bảo toàn nguyên vẹn chất lượng nguyên liệu! Hiếm mạo hiểm giả nào làm được điều đó. Ta muốn biết nhiều hơn về con người này. Nhiều hơn nữa.' ...đó đại khái là những gì người ta nói."
+"Vị khách này của cậu có con mắt tinh đời đấy. Từng tới đây một lần rồi. Nhìn con Tarasque cậu mang về mà xúc động... Thực sự xúc động trước chất lượng của nó. Còn nói câu gì đó đại loại như... 'Một con Tarasque bị chém đứt đầu hoàn hảo. Không hề có thêm vết thương nào khác. Gần như hoàn mỹ, gần như thế. Nhiều mạo hiểm giả có thể săn lùng Tarasque... nhưng hạ sát nó mà vẫn bảo toàn nguyên vẹn chất lượng nguyên liệu! Hiếm mạo hiểm giả nào làm được điều đó. Ta muốn biết nhiều hơn về con người này. Nhiều hơn nữa.' ...đó đại khái là những gì người ta nói."
 
 Cảm giác cứ như thể tôi đang được rót cả đống lời khen ngợi lên đầu vậy...
 
@@ -154,7 +154,7 @@ Dario chậm rãi gật đầu đáp lại, trước khi bất chợt ngồi th�
 
 "Đây là... À, phải rồi. Đống nguyên liệu khác mà tôi đã gửi lại chỗ chú, tôi đoán vậy."
 
-Tôi đọc lướt qua nội dung trên các biên lai. Ghi trong cuốn sổ là các mục nguyên liệu khác mà tôi đã để lại cho Dario, cũng như các vật liệu và dụng cụ cần thiết cho quá trình mổ xẻ. Những nguyên liệu cùng phụ phẩm không đem bán đấu giá đã được tẩu tán qua các kênh khác, và giá trị thu về cuối cùng được ghi lại trên những tờ giấy mà tôi đang lật xem lúc này.
+Tôi đọc lướt qua nội dung trên các biên lai. Ghi trong cuốn sổ là các mục nguyên liệu khác mà tôi đã để lại cho Dario, cũng như các vật liệu và dụng cụ cần thiết cho quá trình mổ xẻ. Những nguyên liệu cùng phụ phẩm không đem bán đấu giá đã được tiêu thụ qua các kênh khác, và giá trị thu về cuối cùng được ghi lại trên những tờ giấy mà tôi đang lật xem lúc này.
 
 Thoáng nhìn qua là tôi có thể nhận ra mình đã kiếm được một món tiền khá hời từ việc bán chúng, và tôi vô cùng biết ơn trước kết quả như vậy.
 
@@ -172,4 +172,4 @@ Tôi cho rằng những nỗ lực của mình rốt cuộc đã được đền
 
 Tôi khẽ gật đầu. "Vâng, rất thỏa đáng."
 
-Đáp lại, Dario bày một dãy tiền xu lên bàn làm việc, và tôi nhanh chóng quét tất cả chúng vào ví tiền của mình... hay chiếc túi nhỏ, tôi đồ là vậy. Công việc làm ăn đã hoàn tất, tôi quay người, bỏ lại xưởng mổ xẻ ở phía sau lưng.
+Đáp lại, Dario bày một dãy tiền xu lên bàn làm việc, và tôi nhanh chóng gom tất cả chúng vào ví tiền của mình... hay chiếc túi nhỏ, tôi đồ là vậy. Công việc làm ăn đã hoàn tất, tôi quay người, bỏ lại xưởng mổ xẻ ở phía sau lưng.

@@ -83,9 +83,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 76 |  | Chapter_076 - Vol 3 Chapter 3 - A New Existential Evolution (7).txt | Vol 3 Chapter 3 - A New Existential Evolution (7) | reviewed |  |
 | 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | reviewed |  |
 | 78 |  | Chapter_078 - Vol 3 Chapter 4 - Magecraft (2).txt | Vol 3 Chapter 4 - Magecraft (2) | reviewed |  |
-| 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | done |  |
-| 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | done |  |
-| 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | done |  |
+| 79 |  | Chapter_079 - Vol 3 Chapter 4 - Magecraft (3).txt | Vol 3 Chapter 4 - Magecraft (3) | reviewed |  |
+| 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | reviewed |  |
+| 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | reviewed |  |
 | 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | todo |  |
 | 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | todo |  |
 | 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | todo |  |

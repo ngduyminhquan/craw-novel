@@ -6,7 +6,7 @@ Alize khẽ gật đầu với Lorraine trước khi dồn hết sự tập trun
 
 "Cô bé làm thế nào rồi?"
 
-"Hừm... Theo tôi thấy thì khá tốt đấy. Không nhanh đến mức kinh tởm như cái cách anh vận chuyển Ma Lực vòng quanh cơ thể lúc trước đâu, Rentt, nhưng dù sao đây vẫn là tiến bộ đáng khen cho ngày đầu tiên. Việc con bé có thể làm được ngần này đã là quá đỗi tuyệt vời rồi." Lorraine thông thái gật đầu.
+"Hừm... Theo tôi thấy thì khá tốt đấy. Không nhanh đến mức kinh tởm như cái cách anh vận chuyển Ma Lực vòng quanh cơ thể lúc trước đâu, Rentt, nhưng dù sao đây vẫn là tiến bộ đáng khen cho ngày đầu tiên. Việc con bé có thể làm được ngần này đã là quá đỗi tuyệt vời rồi." Lorraine gật đầu vẻ thông thái.
 
 "Được rồi. Giờ là lúc thực hành ma thuật sơ cấp, Alize. Em hãy thử hình dung lại những gì em vừa thấy Rentt làm lúc nãy. Hãy mường tượng ra khung cảnh đó trong tâm trí, rồi niệm câu thần chú. Chính là câu này đây."
 
@@ -92,7 +92,7 @@ Lorraine và tôi vẫy tay tiễn cô bé, cho tới khi bóng dáng đứa tr�
 
 Dẫu cho Lorraine có phần nhiệt tình thái quá trong việc cổ xúy con đường học giả ma thuật, song chính Alize đã nói rằng cô bé muốn làm một mạo hiểm giả. Mục tiêu đó đâu thể đơn giản gạt phắt đi như vậy được. Tôi thậm chí đã xác nhận lại điều này với Alize khi cô bé bước ra khỏi cửa, rằng em sẽ học những điều căn bản của nghề mạo hiểm giả trong buổi học tiếp theo. Khi ấy, cô bé đã quay sang tôi, háo hức gật đầu với một nụ cười hồn nhiên. Kể cả lúc này, Alize vẫn kiên định với khát vọng trở thành một mạo hiểm giả.
 
-Con bé còn có thể làm gì khác được nữa chứ? Em ấy sẽ trở thành một mạo hiểm giả, đúng không? Nhất định phải là mạo hiểm giả rồi.
+Con bé còn có thể làm gì khác được nữa chứ? Cô bé sẽ trở thành một mạo hiểm giả, đúng không? Nhất định phải là mạo hiểm giả rồi.
 
 Đúng vậy... Phải như thế.
 
@@ -110,7 +110,7 @@ Nhưng dẫu vậy, việc chúng tôi cãi cọ vì những tiểu tiết này 
 
 Lorraine xem chừng đã tạm gác lại những lời trêu đùa của mình—trong lúc này. Tôi không trả lời ngay tắp lự, mà khựng lại để suy nghĩ.
 
-"Trước hết... tôi nên dạy cho con bé kiếm thuật cơ bản. Sau đó, tôi sẽ dẫn em vào rừng, hoặc có lẽ là tới các mê cung... và dạy em những điều căn bản: nguyên liệu, quy tắc của giới mạo hiểm giả... tất cả những thứ đó."
+"Trước hết... tôi nên dạy cho con bé kiếm thuật cơ bản. Sau đó, tôi sẽ dẫn con bé vào rừng, hoặc có lẽ là tới các mê cung... và dạy con bé những điều căn bản: nguyên liệu, quy tắc của giới mạo hiểm giả... tất cả những thứ đó."
 
 Một thoáng hoài niệm lướt qua nét mặt của Lorraine.
 
@@ -200,7 +200,7 @@ Có lẽ tôi chỉ may mắn nên mọi sự mới diễn ra êm đẹp như v�
 
 Sheila dường như thấu hiểu chuỗi suy nghĩ không cất thành lời của tôi.
 
-"Tôi hiểu rồi. 'Ngay cả khi thực sự trở nên giống anh thì tôi sẽ làm được gì cơ chứ?' vốn là điều mà tôi muốn hỏi, nhưng... làm vậy thì thật không phải phép.
+"Tôi hiểu rồi. 'Ngay cả khi thực sự trở nên giống anh thì tôi sẽ làm được gì cơ chứ?' vốn là điều mà tôi muốn hỏi, nhưng... làm vậy thì thật không phải phép."
 
 "A, phải rồi," Sheila tiếp tục. "Vì giờ đây anh trông ít nhiều đã giống như bản thân thời còn là con người, anh muốn làm gì với hồ sơ cũ của mình? Anh có thể tiếp tục hoạt động với tư cách Rentt Faina... Hay anh muốn tiếp tục với thân phận Rentt Vivie...?"
 

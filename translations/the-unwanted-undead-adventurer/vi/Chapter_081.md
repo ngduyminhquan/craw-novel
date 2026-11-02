@@ -94,7 +94,7 @@ Myullias thoáng ngạc nhiên trước chút dịu dàng ít ỏi mà cô cảm
 
 "Lời lẽ của cô quá đỗi trắng trợn. Tôi đang vô cùng lo lắng rằng một ngày nào đó cô sẽ chịu chung số phận như Fourostoroa."
 
-Fourostoroa là tên của một anh hùng đã trảm sát một con đại ác long từ thuở xa xưa. Con Rồng từng reo rắc tai ương cho bách tính, và Fourostoroa đã nhanh chóng trừ khử nó. Ngặt nỗi gã lại uống quá chén trong bữa tiệc ăn mừng ngay đêm đó, để rồi làm bẽ mặt quốc vương trước toàn thể thần dân — và ngay trước mắt nhà vua. Vì tội bất kính ấy, Fourostoroa đã bị xử tử. Đó là một câu chuyện về một người anh hùng dại dột.
+Fourostoroa là tên của một anh hùng đã trảm sát một con đại ác long từ thuở xa xưa. Con Rồng từng gieo rắc tai ương cho bách tính, và Fourostoroa đã nhanh chóng trừ khử nó. Ngặt nỗi gã lại uống quá chén trong bữa tiệc ăn mừng ngay đêm đó, để rồi làm bẽ mặt quốc vương trước toàn thể thần dân — và ngay trước mắt nhà vua. Vì tội bất kính ấy, Fourostoroa đã bị xử tử. Đó là một câu chuyện về một người anh hùng dại dột.
 
 Đó là một câu chuyện ngụ ngôn cổ xưa đại loại thế, dẫu người ta khó lòng khẳng định liệu gã có thực sự tồn tại hay không.
 
