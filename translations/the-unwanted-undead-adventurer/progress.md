@@ -13,7 +13,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | reviewed |  |
 | 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | done |  |
 | 8 |  | Chapter_008 - Vol 1 Chapter 2 - Rina the Adventurer (3).txt | Vol 1 Chapter 2 - Rina the Adventurer (3) | done |  |
-| 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | todo |  |
+| 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | done |  |
 | 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | todo |  |
 | 11 |  | Chapter_011 - Vol 1 Chapter 2 - Rina the Adventurer (6).txt | Vol 1 Chapter 2 - Rina the Adventurer (6) | todo |  |
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | todo |  |
@@ -352,6 +352,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -373,3 +375,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#8] Dịch danh xưng miệt thị 'capital dropouts' — tạm dịch 'những kẻ bị vương đô đào thải' (phương án khác: 'những kẻ rớt lại từ thủ đô', 'kẻ đào thoát khỏi vương đô'). → Chốt 'những kẻ bị vương đô đào thải' (sát nghĩa và hợp ngữ cảnh mạo hiểm giả không trụ nổi ở vương đô) (orchestrator)
 - [#8] Dịch vai trò 'spotter' của Hội Mạo Hiểm Giả (Rentt đảm nhiệm) — tạm dịch 'người quan sát tìm kiếm tài năng' (phương án khác: 'người săn tài năng', 'người tuyển mộ tân binh'). → Chốt 'người quan sát tìm kiếm tài năng' (đúng bản chất công việc quan sát tân binh cho Hội) (orchestrator)
 - [#8] Dịch phân loại 'rare named monsters' và 'rare monsters' — tạm dịch 'quái vật hiếm có tên' và 'quái vật hiếm' (phương án khác: 'Quái vật có tên hiếm', 'quái vật hiếm có định danh'). → Chốt 'quái vật hiếm có tên' và 'quái vật hiếm' (orchestrator)
+- [#9] Dịch câu tưởng tượng ngọng nghịu của Rentt khi làm Ngạ Quỷ đến Hội 'Ay... Adven... Turer. Rev... Revis... Ter... Me!' — tạm dịch 'T... Mạo... Hiểm giả. Đăng... Đăng... Ký... Cho... Tôi!' để người đọc cảm nhận trọn vẹn tình huống hài hước kinh dị (phương án khác: giữ nguyên thô tiếng Anh 'Ay... Adven... Turer. Rev... Revis... Ter... Me!' theo tiền lệ #5/#7). → Chốt dịch sang tiếng Việt ngọng/lắp ('T... Mạo... Hiểm giả. Đăng... Đăng... Ký... Cho... Tôi!') vì đây là câu có nghĩa trọn vẹn làm điểm nhấn hài hước, không có câu giải thích lại phía sau (orchestrator)
+- [#9] Dịch chức danh 'Guild Master' (adventurer's guild master) — tạm chọn 'Hội Trưởng' theo chuẩn Hán Việt chức nghiệp trong rules.md và thêm vào glossary (phương án khác: 'Chủ Hội', 'Hội Trưởng Hội Mạo Hiểm Giả'). → Chốt 'Hội Trưởng' theo chuẩn chức danh Hán Việt trong rules.md (orchestrator)

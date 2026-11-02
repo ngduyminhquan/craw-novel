@@ -51,3 +51,10 @@ Do thiếu kinh nghiệm thực chiến và quá tự tin sau vài thắng lợi
 Một con Ngạ Quỷ đặc thù mang hoa văn phát sáng xanh lam (Rentt) bất ngờ gầm lên lao ra chém đôi Khô Lâu cứu mạng cô, rồi cất tiếng xin nhờ cô mua giúp quần áo.
 Nhận lời và vội vã chạy về Maalt, Rina quyết tâm phải báo đáp ân nhân cứu mạng xứng đáng với danh dự con gái hiệp sĩ, bất chấp lẽ thường không ai tin quái vật.
 
+## 9
+Tại Hội Mạo Hiểm Giả Maalt, tiếp tân viên Sheila Ibarss lo lắng trước sự vắng mặt bất thường của Rentt, người đóng vai trò tối quan trọng trong việc chỉ dẫn và bảo bọc các tân binh mạo hiểm giả; đúng lúc đó, Rina tìm đến gặp cô.
+Trong khi đó tại Mê Cung Nguyệt Ảnh, Rentt dễ dàng chém giết Khô Lâu và cảm nhận rõ rệt thể chất cùng ba nguồn năng lượng (Ma Lực, Khí Lực, Thần Lực) gia tăng vượt trội so với thời còn sống.
+Rentt trăn trở về việc liệu quái vật có thể tiếp tục làm mạo hiểm giả hay không, và nhận ra tấm áo choàng sắp tới vẫn chưa đủ che giấu khuôn mặt cùng đôi tay Ngạ Quỷ khô khốc chằng chịt vệt đen của mình.
+Hạ quyết tâm tiếp tục săn quái để Tiến Hóa Bản Thể thành dạng Undead giống người hơn, Rentt bất chợt nghe thấy tiếng Rina gọi mình vọng lại từ đằng xa.
+
+

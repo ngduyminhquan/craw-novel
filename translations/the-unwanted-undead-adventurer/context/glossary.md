@@ -31,6 +31,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Azuul Forest |  | Rừng Azuul | địa danh | 1 | Khu rừng gần Maalt |
 | Three-Pronged Harpoon |  | Ba Chĩa | tổ chức | 15 | Tiệm rèn vũ khí của vợ chồng Clope và Luka (三叉の銛亭) |
 | Adventurer’s Guild | Guild | Hội Mạo Hiểm Giả | tổ chức | 1 | Tổ chức quản lý và cấp phép cho mạo hiểm giả |
+| Guild Master | guild master; Guild master | Hội Trưởng | chức nghiệp | 9 | Người đứng đầu chi nhánh Hội mạo hiểm giả |
 | Skeleton | Skeletons | Khô Lâu | quái vật | 1 | Quái vật xương khô Undead cấp thấp |
 | Ghoul | Ghouls | Ngạ Quỷ | quái vật | 1 | Quái vật Undead ăn xác có da thịt |
 | Undead | undead | Undead | chủng tộc | 2 | Quái vật xác sống/bất tử (Khô Lâu, Ngạ Quỷ...) |
