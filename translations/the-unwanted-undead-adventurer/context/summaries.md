@@ -194,6 +194,13 @@ Anh bước vào bài kiểm tra thực hành với thể thức tổ đội ch�
 Sau màn làm quen ngắn gọn và trao đổi năng lực cơ bản, cả nhóm cùng đi xe ngựa đến lối vào mê cung trong sự cảnh giác cao độ của Rentt trước các mưu mẹo của Hội.
 Phát hiện tấm bản đồ Hội cấp đã vẽ từ 15 năm trước và có nguy cơ sai lệch địa hình mê cung, Rentt thuyết phục cả nhóm mua bản đồ mới và dẫn hai người tiến về phía một gã thương nhân mặc áo chùng đen đầy vẻ khả nghi.
 
+## 34
+Rentt mặc cả thành công mua bản đồ tầng một Mê Cung Tân Nguyệt chuẩn xác với giá năm đồng đồng từ gã thương nhân áo chùng đen bí ẩn, giúp cả nhóm nhận ra các lối đi sập và cạm bẫy để tránh bị lạc.
+Tiến vào tầng một, nhóm ba người duy trì đội hình phối hợp tiêu diệt vô số Khô Lâu cản đường; Rentt nhận ra mật độ quái vật dày đặc bất thường là do Hội cố tình dùng hương liệu dẫn dụ để thử thách thí sinh.
+Phát hiện có kẻ mai phục phía sau khúc quanh, Rentt tự tin xung phong đi trước thăm dò nhờ ưu thế cơ thể Thi Quỷ khó chết và gạt phăng nhát kiếm bất ngờ của kẻ địch.
+Với thể chất Undead vượt trội, Rentt lập tức áp sát hạ gục tên cung thủ và ma pháp sư yểm trợ rồi trói gác lại; Raiz và Laura phối hợp kiếm thuật cùng ma pháp đạn đất đá đánh bại tên kiếm sĩ thủ lĩnh trong sự quan sát của Rentt và một sự hiện diện bí ẩn từ bóng tối mê cung.
+
+
 
 
 

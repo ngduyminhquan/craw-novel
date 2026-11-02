@@ -38,7 +38,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 31 |  | Chapter_031 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2) | reviewed |  |
 | 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | reviewed |  |
 | 33 |  | Chapter_033 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (4) | reviewed |  |
-| 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | todo |  |
+| 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | done |  |
 | 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | todo |  |
 | 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | todo |  |
 | 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | todo |  |
@@ -347,6 +347,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 ## Cần user xác nhận
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -423,3 +424,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#33] Dịch thuật ngữ kỳ thi 'practical assessment' — tạm chọn 'bài kiểm tra thực hành' (phương án khác: 'sát hạch thực hành', 'phần thi thực hành'). → Chốt 'bài kiểm tra thực hành' (nhất quán với 'bài kiểm tra thăng hạng'). (orchestrator)
 - [#33] Dịch cụm 'swordsman-cleric pair' khi Rentt nhớ lại cặp đôi Raiz - Laura — tạm chọn 'cặp đôi kiếm sĩ và giáo sĩ' bám sát chữ 'cleric' của raw (dù đoạn sau Laura nhận mình là mage biết dùng healing magic; phương án khác: 'cặp đôi kiếm sĩ và trị liệu sư'). → Chốt 'cặp đôi kiếm sĩ và giáo sĩ'. (orchestrator)
 - [#31] Đoạn 53: cụm xử lý xác quái vật của hội → Đổi 'dịch vụ giải xẻ / phòng giải xẻ' thành 'dịch vụ xẻ thịt / phòng xẻ thịt'. (orchestrator)
+- [#34] Dịch tiếng thét xung trận của kẻ phục kích "WRAAAAAAAAAHHH!!" (đoạn 92) — tạm dịch "OÁAAAAAAAA!!" theo quy tắc Việt hóa từ cảm thán trong style.md (phương án khác: giữ nguyên "WRAAAAAAAAAHHH!!" hoặc "OAAAAAAA!!"). → Chốt 'OÁAAAAAAAA!!'. (orchestrator)
+- [#34] Dịch đơn vị tiền tệ "five bronze coins" (đoạn 12, 15) — tạm chọn "năm đồng đồng" (phương án khác: "năm đồng tiền đồng"). → Chốt 'năm đồng đồng'. (orchestrator)
+- [#34] Xưng hô của gã thương nhân bán bản đồ áo chùng đen — tạm chọn gã xưng "ta" gọi "ngươi" (với Rentt) và "hai nhóc tì đằng kia" (với Raiz và Laura); Rentt xưng "tôi" gọi "ông". → Chốt gã thương nhân xưng 'ta' gọi 'ngươi' (với Rentt) và 'hai nhóc tì đằng kia' (với Raiz và Laura), Rentt xưng 'tôi' gọi 'ông'. (orchestrator)

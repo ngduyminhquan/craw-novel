@@ -109,11 +109,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Năng nổ, bộc trực, tự tin, chủ động nhận vai trò trưởng nhóm nhưng biết cư xử lịch thiệp, biết cúi đầu chào hỏi đồng đội.
 - Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
 - Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
-- Trạng thái tính đến chương 33: Từng xuất hiện ở Mê Cung Tân Nguyệt cùng Laura đánh Goblin và Slime (#31); thi đỗ phần thi viết và được Sheila xếp chung đội với Rentt cho bài kiểm tra thực hành tới điểm chỉ định trong mê cung.
+- Trạng thái tính đến chương 34: Cùng Rentt và Laura phối hợp chiến đấu vượt qua tầng một Mê Cung Tân Nguyệt; dùng kỹ năng kiếm thuật hạ Khô Lâu và phối hợp cùng ma pháp của Laura đánh bại tên kiếm sĩ mạo hiểm giả phục kích.
 
 ### Laura Satii
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
 - Tính cách: Lễ phép, khiêm tốn, biết trước biết sau, hỗ trợ đồng đội chu đáo từ tuyến sau.
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
-- Trạng thái tính đến chương 33: Đỗ phần thi viết thăng hạng; phối hợp cùng Rentt và Raiz chuẩn bị tiến vào Mê Cung Tân Nguyệt sau khi Rentt đề xuất mua bản đồ mới.
+- Trạng thái tính đến chương 34: Đi bọc hậu hỗ trợ ma pháp trong đội hình; cùng Rentt và Raiz vượt qua đàn Khô Lâu và phối hợp ma pháp đạn đất đá cùng kiếm thuật của Raiz đánh gục tên kiếm sĩ địch phục kích.
