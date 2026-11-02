@@ -122,7 +122,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 115 |  | Chapter_115 - Vol 5 Chapter 1 - Off to Adventure (1).txt | Vol 5 Chapter 1 - Off to Adventure (1) | reviewed |  |
 | 116 |  | Chapter_116 - Vol 5 Chapter 1 - Off to Adventure (2).txt | Vol 5 Chapter 1 - Off to Adventure (2) | reviewed |  |
 | 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | reviewed |  |
-| 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | todo |  |
+| 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | done |  |
 | 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | todo |  |
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | todo |  |
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -616,3 +615,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#117] Danh hiệu 'Saint Myullias' (đoạn 61) — dùng 'Thánh Nữ Myullias' theo đặc tính nhân vật nữ của Myullias (nhất quán từ #81-#112) hay đổi sang danh xưng chung 'Thánh Giả'? Tạm dùng trong bản dịch: 'Thánh Nữ Myullias'. → Giữ 'Thánh Nữ Myullias' nhất quán với các chương trước (orchestrator)
 - [#115] Dịch thuật ngữ 'mana stones' (đoạn 64) — Chuẩn hóa thành 'Ma Tinh' theo glossary.md và thêm 'mana stone; mana stones' vào Alias của dòng 'Magic crystal'. (orchestrator)
 - [#117] Dịch thuật ngữ 'magic catalyst' / 'catalyst' — Đồng bộ với 'magical focus' (#89): 'magic catalyst' dịch là 'vật dẫn ma pháp' (thêm vào Alias của 'magical focus'), 'catalyst' dịch là 'vật dẫn ma pháp' hoặc gọi tắt 'vật dẫn'. (orchestrator)
+- [#118] Dịch 'Holy Tree' và 'Land of the Venerable Holy Tree' — tạm chọn 'Thánh Thụ' và 'Vùng Đất Cổ Thánh Thụ' (phương án khác: 'Cây Thần Thánh' / 'Xứ Sở Cổ Thánh Thụ', 'Thần Thụ'). → Giữ 'Thánh Thụ', 'Cổ Thánh Thụ' và 'Vùng Đất Cổ Thánh Thụ' trong glossary.md (orchestrator)
+- [#118] Dịch 'Blacksmithing Deity' và 'Furnace Deity' — tạm chọn 'Thần Nghề Rèn' và 'Thần Lò Lửa' (phương án khác: 'Đoàn Dã Thần' / 'Hỏa Lô Thần', 'Thần Lò Nung'). → Giữ 'Thần Nghề Rèn' và 'Thần Lò Lửa' trong glossary.md (orchestrator)

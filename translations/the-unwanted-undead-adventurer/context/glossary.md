@@ -216,3 +216,12 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Westbound Traveler | The Westbound Traveler | Người Lữ Hành Hướng Tây | khác | 116 | Truyện cổ tích dân gian nổi tiếng khắp Yaaran về một lữ khách đi về phía tây |
 | All-Knowing Sage | the All-Knowing Sage | Hiền Giả Toàn Tri | danh hiệu | 116 | Nhân vật hiền giả nắm giữ mọi tri thức trong dị bản Người Lữ Hành Hướng Tây của Lorraine |
 | King of Chefs | the King of Chefs | Vua Đầu Bếp | danh hiệu | 116 | Danh xưng vị vua lập quốc bằng tài nấu nướng trong dị bản Người Lữ Hành Hướng Tây của Alize |
+| Blacksmithing Deity | the Blacksmithing Deity | Thần Nghề Rèn | khác | 118 | Thần linh bảo hộ nghề rèn trong tín ngưỡng thợ rèn (鍛冶神) |
+| Furnace Deity | the Furnace Deity | Thần Lò Lửa | khác | 118 | Thần linh cai quản lò nung trong lò rèn, tương truyền là nữ thần hay ghen (炉神) |
+| Hamdan Mine |  | Mỏ Hamdan | địa danh | 118 | Mỏ quặng cũ cách Maalt khoảng 2 ngày đường, nay đã bị bỏ hoang |
+| Holy Tree |  | Thánh Thụ | vật phẩm | 118 | Cây thần thánh tỏa Thần Lực được người elf bảo hộ (聖樹) |
+| Land of the Venerable Holy Tree |  | Vùng Đất Cổ Thánh Thụ | địa danh | 118 | Xứ sở của tộc elf và High Elf nơi bảo hộ Cổ Thánh Thụ |
+| Venerable Holy Tree |  | Cổ Thánh Thụ | khác | 118 | Cổ thụ thần thánh ngự trị nơi sâu thẳm của xứ sở người elf |
+| High Elf | high elf; high elves; High elves | High Elf | chủng tộc | 118 | Chủng tộc elf thượng cấp cai trị Vùng Đất Cổ Thánh Thụ |
+| Elf | elves; elf | Elf | chủng tộc | 43 | Chủng tộc tiên tộc sống trong rừng, giỏi ma pháp tinh linh và cung tên |
+| spirit magic |  | tinh linh ma pháp | kỹ năng | 118 | Ma pháp mượn sức mạnh của các tinh linh (精霊魔法) |

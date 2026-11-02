@@ -689,6 +689,13 @@ Sau khi được Sơ Lillian cho phép, cả ba tới tiệm rèn Ba Chĩa; Luka
 Clope tò mò dùng hết sức kéo chiếc mặt nạ của Rentt nhưng hoàn toàn bất lực; cả nhóm thảo luận về việc chiếc mặt nạ bị nguyền rủa dính chặt không thể gỡ ra ngay cả khi thanh tẩy bằng Thần Lực.
 Được Rentt và Lorraine khích lệ, Alize bớt e dè và lễ phép chào hỏi Clope; người thợ rèn ấm áp xoa đầu cô bé rồi dẫn mọi người vào lò rèn xem xét nguyên liệu từ mê cung.
 
+## 118
+Rentt mang số Ma Thiết và khối Ma Thiết đượm ma lực Rồng Đất thu được từ tầng bốn Mê Cung Tân Nguyệt giao cho Clope; Clope định giá thỏi Ma Thiết rồng có thể lên tới một đồng xu bạch kim và cho biết cần có Ma Tinh quái vật Bạch Kim Cấp, lá Thánh Thụ và máu Ma Cà Rồng để chế tác trang bị đặc biệt.
+Cả nhóm bàn luận về Thánh Thụ tại Vùng Đất Cổ Thánh Thụ của tộc High Elf và cái cây thần bí nảy mầm từ hình nhân gỗ do kiếm chứa Thần Lực của Rentt chém trước đây.
+Clope đem chậu cây ra cho mọi người xem; Lorraine và Clope hào hứng lên kế hoạch sử dụng gỗ của những cái cây này để làm vật liệu giả kim và rèn đúc trang bị chứa Thần Lực.
+Clope đồng ý chia cho Lorraine hai trong số năm cây đang có; cả nhóm thống nhất Rentt sẽ can thiệp trồng vào rừng nếu Clope định chặt làm củi đốt, rồi quay lại thảo luận về trang bị cho Alize.
+
+
 
 
 
