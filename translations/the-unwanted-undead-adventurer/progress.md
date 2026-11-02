@@ -59,7 +59,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | reviewed |  |
 | 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | reviewed |  |
 | 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | reviewed |  |
-| 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | todo |  |
+| 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | done |  |
 | 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | todo |  |
 | 57 |  | Chapter_057 - Vol 3 Chapter 1 - A Peculiar Man (2).txt | Vol 3 Chapter 1 - A Peculiar Man (2) | todo |  |
 | 58 |  | Chapter_058 - Vol 3 Chapter 1 - A Peculiar Man (3).txt | Vol 3 Chapter 1 - A Peculiar Man (3) | todo |  |
@@ -349,6 +349,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -475,3 +476,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#53] Xưng hô của Rentt Faina với chuột quyến thuộc Edel trong thoại và suy nghĩ — tạm chọn Rentt xưng 'ta / tao' gọi 'mày / Edel' (phù hợp quan hệ chủ nhân và quyến thuộc háu ăn kiêu ngạo; phương án khác: xưng 'tôi' gọi 'cậu / Edel'). Tạm dùng trong bản dịch: xưng 'ta / tao', gọi 'mày'. → Giữ Rentt xưng 'ta / tao', gọi 'mày / Edel' hợp quan hệ chủ nhân với chuột quyến thuộc (orchestrator)
 - [#54] Dịch thuật ngữ 'Holy Water' (và 'holy water') — tạm chọn 'Nước Thánh' (phương án khác: 'Thánh Thủy'). Tạm dùng trong bản dịch: 'Nước Thánh'. → Giữ 'Nước Thánh' (orchestrator)
 - [#54] Xử lý câu raw bị ngắt lửng ở cuối đoạn 97 ('This was an interesting') — tạm dịch thuận nghĩa tự nhiên thành 'Thật là một cảm giác kỳ lạ—' (phương án khác: 'Thật là một trải nghiệm thú vị—', hoặc dịch cụt 'Đây quả thực là một điều thú...'). Tạm dùng trong bản dịch: 'Thật là một cảm giác kỳ lạ—'. → Giữ 'Thật là một cảm giác kỳ lạ—' theo mạch ngữ cảnh (orchestrator)
+- [#55] Dịch phân loài quái vật 'Swamp Goblin' — tạm chọn 'Goblin Đầm Lầy' (nhất quán với Orc Rừng, Orc Mê Cung; phương án khác: 'Goblin Vùng Đầm Lầy'). Tạm dùng trong bản dịch: 'Goblin Đầm Lầy'. → Giữ 'Goblin Đầm Lầy' (nhất quán với Orc Rừng, Orc Mê Cung) (orchestrator)
+- [#55] Dịch thuật ngữ loài hoa 'White Dragon Blossoms' — tạm chọn 'Hoa Bạch Long' (tương ứng với 'Hoa Long Huyết'; phương án khác: 'Bạch Long Hoa'). Tạm dùng trong bản dịch: 'Hoa Bạch Long'. → Giữ 'Hoa Bạch Long' (nhất quán với 'Hoa Long Huyết') (orchestrator)
+- [#55] Xử lý câu raw bị ngắt lửng ở đoạn 39 ('Thinking about it, I realized this was more or less the status quo in') — tạm dịch bổ sung theo ngữ cảnh thành 'Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...' (phương án khác: 'ở nơi này...'). Tạm dùng trong bản dịch: 'Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...'. → Giữ 'Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...' theo mạch ngữ cảnh (orchestrator)

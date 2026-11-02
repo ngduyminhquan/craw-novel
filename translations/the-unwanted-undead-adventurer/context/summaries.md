@@ -320,6 +320,12 @@ Chuột quyến thuộc Edel bất ngờ hút cạn Thần Lực của Rentt r�
 Nhận ra Tarasque cực kỳ kỵ Thần Lực (lý do chúng sợ Nước Thánh của Giáo Hội mà Rentt từng mua hớ phải hàng giả ven đường), Rentt truyền Thần Lực phát ánh sáng vàng xanh bao bọc lưỡi kiếm.
 Lợi dụng thể chất Thi Quỷ kháng độc, Rentt lao thẳng qua màn sương khói độc của Tarasque và tung nhát chém dứt khoát trảm thủ con quái thú.
 
+## 55
+Hạ sát Tarasque, Rentt dùng chiếc túi ma pháp dung lượng lớn thuê từ Hội Mạo Hiểm Giả để thu trọn toàn bộ xác cùng đầu quái thú nhằm bán gỡ nợ; anh ném đá xua đuổi bầy Goblin Đầm Lầy định hôi của và chứng kiến con quái ngư nuốt chửng đám yêu tinh tháo chạy.
+Bao bọc cơ thể trong luồng khí tức Thần Lực để xua đuổi các quái thú đầm lầy, Rentt tiến sâu vào trung tâm và ngỡ ngàng trước cảnh tượng tuyệt mỹ của một hồ nước trong vắt cùng ốc đảo thiên đường bao bọc bởi muôn loài và bạt ngàn Hoa Long Huyết.
+Rentt cẩn thận đào nhổ trọn gốc rễ mười cành Hoa Long Huyết cất vào túi ma pháp, lưu ý về đặc tính tự vệ gây tê của cánh hoa và sự tồn tại của loài Hoa Bạch Long vô dược tính khi trồng nhân tạo.
+Hoàn tất thu hoạch và chuẩn bị trở về Maalt giao hoa cho Alize cứu chữa Sơ Lillian, Rentt bất ngờ phát hiện một bóng người đằng xa nghi là mạo hiểm giả và lập tức rút kiếm cảnh giác phòng thủ.
+
 
 
 

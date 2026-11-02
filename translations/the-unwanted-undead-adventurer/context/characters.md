@@ -33,7 +33,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 54: Đụng độ và chiến đấu kịch liệt với Tarasque; nhận ra quái thú kỵ Thần Lực sau khi Edel tự ý rút Thần Lực của anh lao vào tấn công vết thương hở; truyền Thần Lực vào kiếm biến vảy quái thú tan chảy và chém bay đầu Tarasque.
+- Trạng thái tính đến chương 55: Dùng túi ma pháp dung lượng lớn thu trọn xác Tarasque để bán gỡ nợ; tiến vào trung tâm Đầm Lầy Tarasque thu hoạch thành công mười gốc Hoa Long Huyết; trên đường rút lui thì chạm trán một bóng người nghi là mạo hiểm giả và rút kiếm cảnh giác.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

@@ -114,3 +114,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Sea Snake | Sea Snakes | Rắn Biển | quái vật | 52 | Quái vật dạng rắn bơi trong vùng nước đầm lầy, mang nọc độc chết người |
 | Goblin Archer | Goblin Archers | Cung Thủ Goblin | quái vật | 53 | Phân loài Goblin trang bị cung tên tấn công tầm xa |
 | Holy Water | holy water | Nước Thánh | vật phẩm | 54 | Nước được ban phước từ Giáo Hội hoặc Thần Lực dùng để xua đuổi quái vật (聖水) |
+| Swamp Goblin | Swamp Goblins | Goblin Đầm Lầy | quái vật | 55 | Phân loài Goblin sinh sống tại vùng đầm lầy độc |
+| White Dragon Blossom | White Dragon Blossoms | Hoa Bạch Long | vật phẩm | 55 | Biến thể hoa màu trắng thuần làm cảnh, không có dược tính nở khi trồng nhân tạo (白竜花) |
