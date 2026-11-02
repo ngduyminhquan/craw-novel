@@ -636,4 +636,11 @@ Sharl ước tính xác Tarasque hoàn chỉnh có thể bán đấu giá đư�
 Trước sự ngập ngừng im lặng đầy đắn đo của Rentt (vì sợ dây dưa nghiệp chướng và tính toán tiền mua túi ma thuật lớn hơn), Nive tưởng anh chê ít nên liên tục nâng giá lên 1.000 đồng vàng rồi chốt hạ 2.000 đồng vàng.
 Nive đặt 20 đồng bạch kim lên bàn khiến Myullias há hốc mồm kinh ngạc còn Sharl chỉ biết lắc đầu thở dài, trong khi Rentt cố gồng mình giữ vẻ mặt thản nhiên như không dù nội tâm choáng ngợp tột độ.
 
+## 109
+Rentt giải thích lý do ngập ngừng vì muốn dùng 20 đồng bạch kim để tìm mua túi ma thuật dung tích lớn; Nive và Sharl tranh nhau đề nghị hỗ trợ tìm nguồn hàng thông qua mạng lưới quan hệ riêng, thậm chí Sharl sẵn lòng giới thiệu sang đối thủ cạnh tranh là Thương hội Witta.
+Nive đưa ra thỉnh cầu cuối cùng: nhờ Rentt liên lạc báo tin cho cô nếu anh đụng phải con Ma Cà Rồng mà bản thân không thể đánh bại; Nive bất ngờ tuyên bố việc săn Ma Cà Rồng thực chất chỉ là thú tiêu khiển giết thời gian lúc rảnh rỗi.
+Nhận món tiền khổng lồ và nhận thấy khó lòng né tránh một kẻ bám dai như Nive, Rentt chấp nhận lắng nghe và tò mò gặng hỏi lý do cô truy lùng một con quái vật duy nhất.
+Nive nở nụ cười bí hiểm và tiết lộ mục tiêu săn đuổi suốt bấy lâu nay của cô chính là tồn tại đứng ở đỉnh cao tột đỉnh của toàn bộ chủng loài: Ma Cà Rồng Hoàng Hôn.
+
+
 
