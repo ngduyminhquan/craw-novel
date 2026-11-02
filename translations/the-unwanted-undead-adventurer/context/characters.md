@@ -37,6 +37,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ren Ireed |  | Ren Ireed | Tên giả Rentt dùng khi được gọi tên trong cuộc thi sắc đẹp | #82 |
 | Rennie |  | Rennie | Biệt danh trêu chọc Lorraine gọi Rentt khi giả gái | #82 |
 | Ren-Ren |  | Ren-Ren | Biệt danh trêu chọc Lorraine gọi Rentt khi giả gái | #82 |
+| Rin |  | Rin | Bạn thuở nhỏ của Rentt, thiếu nữ song sinh cùng Ran, có ước mơ mở tiệm hoa | #84 |
+| Ran |  | Ran | Bạn thuở nhỏ của Rentt, thiếu nữ song sinh cùng Rin, mắc bệnh nan y qua đời | #84 |
 
 ## Chi tiết
 
@@ -245,3 +247,18 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Nghiêm túc, cứng nhắc, giữ khoảng cách, xưng "tôi", gọi Myullias là "cô".
 - Xuất hiện từ: #81.
 - Trạng thái tính đến chương 81: Nhận lệnh từ tổng đàn Giáo Hội Lobelia ngồi cùng xe ngựa để giám sát Myullias trên đường đến Maalt, nhắc nhở cô giữ gìn lời ăn tiếng nói tránh để lộ tư tưởng bất kính với giáo hội.
+
+### Rin
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, là chị em song sinh với Ran, ngoại hình giống hệt Ran.
+- Tính cách: Mạnh mẽ, kiên cường, giàu nghị lực; dù vừa mất đi người chị em sinh đôi nhưng không gục ngã trước bi thương mà kiên định hướng về phía trước để tiếp tục giấc mơ chung.
+- Cách nói chuyện: Dịu dàng, chân thành, xưng "em", gọi Rentt là "anh / anh Rentt".
+- Quan hệ: Bạn thuở nhỏ từng chơi cùng Rentt; chị em song sinh với Ran; người thuê Rentt đi hái hoa Tetona trên vách đá.
+- Xuất hiện từ: #84.
+- Trạng thái tính đến chương 84: Nhận bông hoa Tetona do Rentt mang về sau khi Ran vừa qua đời; hoàn tất thủ tục ủy thác cho Rentt và quyết tâm nghiên cứu cách nhân giống hoa Tetona để mở tiệm hoa, thực hiện tiếp giấc mơ dang dở của hai chị em.
+
+### Ran
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, là chị em song sinh với Rin, ngoại hình giống hệt Rin; vẻ ngoài thanh thản như đang ngủ khi qua đời trên giường bệnh.
+- Tính cách: Hiền lành, yêu hoa cỏ, có cùng ước mơ mở tiệm hoa với Rin.
+- Quan hệ: Bạn thuở nhỏ từng chơi cùng Rentt; chị em song sinh với Rin; mắc bệnh hiểm nghèo không qua khỏi.
+- Xuất hiện từ: #84.
+- Trạng thái tính đến chương 84: Mắc bệnh nan y cơ thể suy kiệt dần và qua đời trên giường bệnh ngay trước khi Rentt kịp mang hoa Tetona về tới; để lại lời xin lỗi Rin và Rentt vì phải ra đi trước.

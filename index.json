@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:01:38Z",
+  "generatedAt": "2026-11-02T15:06:32Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2651,6 +2651,12 @@
           "title": "Chương 83: Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_083.md",
           "sha": "98f6665a1719e846b1089a64d18ca82da622fa15"
+        },
+        {
+          "number": 84,
+          "title": "Chương 84: Ngoại truyện Tập 3 - Giấc Mơ Nối Dài",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_084.md",
+          "sha": "3e8be844afbd1bc822fea0619f97d44b5ed10d05"
         }
       ]
     },

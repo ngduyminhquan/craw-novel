@@ -88,7 +88,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | reviewed |  |
 | 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | done |  |
 | 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | done |  |
-| 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | todo |  |
+| 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | done |  |
 | 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | todo |  |
 | 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | todo |  |
 | 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -529,3 +530,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#82] Xưng hô Sheila gọi Lorraine — raw dùng "Miss Lorraine", tạm chọn "cô Lorraine" (thay vì "cô Vivie" ở #40) vì quan hệ đã thân thiết hƢn. → Chốt 'cô Lorraine' sát theo raw (orchestrator)
 - [#83] Dịch tiêu đề chương 'Vol 3 Bonus - An Adventurer’s Worth' — tạm chọn 'Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả' (đồng bộ format với #82; phương án khác: 'Ngoại truyện Tập 3 - Giá Trị Của Mạo Hiểm Giả'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả'. → Chốt 'Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả' (orchestrator)
 - [#83] Xưng hô giữa Lorraine Vivie và đứa trẻ dân làng — tạm chọn Lorraine xưng 'bọn ta / ta', gọi 'cháu / nhóc con', đứa trẻ xưng 'cháu', gọi 'hai người' (phù hợp người lớn mạo hiểm giả nói chuyện với đứa bé lạ ở nông thôn; phương án khác: Lorraine xưng 'cô' hoặc 'chị'). Tạm dùng trong bản dịch: bọn ta/ta - cháu/nhóc con. → Chốt Lorraine xưng 'bọn ta / ta', gọi 'cháu / nhóc con', đứa trẻ xưng 'cháu', gọi 'hai người' (orchestrator)
+- [#84] Dịch tiêu đề chương 'Vol 3 Bonus - A Continued Dream' — tạm chọn 'Ngoại truyện Tập 3 - Giấc Mơ Nối Dài' (đồng bộ format với #82, #83; phương án khác: 'Ngoại truyện Tập 3 - Một Giấc Mơ Tiếp Diễn'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 3 - Giấc Mơ Nối Dài'. → Chốt 'Ngoại truyện Tập 3 - Giấc Mơ Nối Dài' (orchestrator)
+- [#84] Xưng hô giữa Rentt Faina và thiếu nữ bạn thuở nhỏ Rin — tạm chọn Rentt xưng 'tôi' gọi 'em / Rin', Rin xưng 'em' gọi 'anh / anh Rentt' (phù hợp quan hệ anh em bạn bè thuở nhỏ chênh lệch tuổi tác và Rentt là người nhận ủy thác; phương án khác: xưng hô ngang hàng 'tôi - cậu' hoặc 'tớ - cậu'). Tạm dùng trong bản dịch: tôi - em / em - anh Rentt. → Chốt Rentt xưng 'tôi' gọi 'em / Rin', Rin xưng 'em' gọi 'anh / anh Rentt' (orchestrator)
+- [#84] Dịch tên loài hoa hư cấu 'Tetona' / 'Tetona flower' — tạm chọn 'hoa Tetona' (giữ nguyên tên riêng Tetona theo rules.md kết hợp danh từ hoa; phương án khác: giữ nguyên 'Tetona'). Tạm dùng trong bản dịch: 'hoa Tetona'. → Chốt 'hoa Tetona' (orchestrator)

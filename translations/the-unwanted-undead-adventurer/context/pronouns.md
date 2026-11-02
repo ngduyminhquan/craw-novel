@@ -32,6 +32,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Laura Latuule | Laura / cô bé / thiếu nữ | 62 | Đương chủ gia tộc Latuule |
 | Myullias Raiza | Myullias / cô gái / cô | 81 | Thánh Nữ của Giáo Hội Lobelia |
 | Gilly | Gilly / gã / người đàn ông / vị tư tế | 81 | Tư tế giám sát của Giáo Hội Lobelia |
+| Rin | Rin / cô bé | 84 | Bạn thuở nhỏ của Rentt |
+| Ran | Ran / cô bé | 84 | Bạn thuở nhỏ của Rentt, mắc bệnh nan y qua đời |
 
 ## Giữa các nhân vật
 
@@ -122,3 +124,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Norman Hanel | tôi | anh / các anh | 75 | Học giả trao đổi lịch sự với dược sư |
 | Myullias Raiza | Gilly | tôi | anh | 81 | Thánh Nữ nói chuyện với tư tế giám sát đi cùng |
 | Gilly | Myullias Raiza | tôi | cô | 81 | Tư tế giám sát nhắc nhở Thánh Nữ |
+| Rentt Faina | Rin | tôi | em / Rin | 84 | Bạn thuở nhỏ (Rentt lớn hơn), nhận ủy thác hái hoa Tetona |
+| Rin | Rentt Faina | em | anh / anh Rentt | 84 | Bạn thuở nhỏ, nhờ Rentt hái hoa Tetona cho người chị em sinh đôi |

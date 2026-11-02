@@ -491,6 +491,12 @@ Rentt Faina cùng Lorraine Vivie nhận lời ủy thác, nhiệt tình giải t
 Dù trưởng làng cảm kích thưởng thêm và mở tiệc thết đãi, trên đường về Rentt tiết lộ rằng trưởng làng vốn khai gian số lượng quái vật để ép giá thuê rẻ hơn; Rentt và Lorraine đã cảnh cáo trưởng làng không được tái phạm để tránh mang họa diệt vong cho làng.
 Hiểu được sự non nớt của tân trưởng làng và nguy cơ diệt vong của các làng quê hẻo lánh trước quái vật, Rentt chấp nhận coi chuyến đi như một lần làm việc thiện nửa vời kiêm chuyện bao đồng nhưng cần thiết, rồi cả hai thong thả trở về Maalt.
 
+## 84
+Thời còn là mạo hiểm giả Đồng Cấp, Rentt liều mình leo lên vách đá cheo leo hiểm trở để hái một đóa hoa Tetona theo ủy thác của cô bé Rin, bạn thuở nhỏ.
+Ủy thác nhằm thỏa ước nguyện cho Ran, người chị em song sinh của Rin mắc bệnh nan y sắp qua đời, được nhìn thấy loài hoa mà cả hai hằng mơ ước nhân giống để mở tiệm hoa.
+Khi Rentt mang hoa trở về thì Ran vừa trút hơi thở cuối cùng trong sự tiếc nuối tột cùng của Rentt; dẫu vậy, Rin vẫn kiên cường ký nhận hoàn thành ủy thác và quyết tâm tiếp tục giấc mơ mở tiệm hoa của hai chị em.
+Cảm phục nghị lực của Rin, Rentt hứa sẽ hái thêm hoa quý hiếm như Hoa Long Huyết một khi vươn lên thành mạo hiểm giả Mithril Cấp, và cả hai cùng lập lời hẹn thi đua xem ai sẽ hoàn thành ước mơ của mình trước.
+
 
 
 
