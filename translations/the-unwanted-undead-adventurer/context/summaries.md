@@ -32,3 +32,9 @@ Tiêu diệt thêm nhiều quái vật và Slime, Rentt nhận thấy sức mạ
 Nhận thấy việc tiến hóa mở ra hy vọng tiếp tục mạnh lên để trở thành dạng Undead cao cấp như Ma Cà Rồng nhằm đàng hoàng trở lại Maalt, Rentt thử phát âm và bắt đầu phát ra được những âm thanh ngọng nghịu, gián đoạn.
 Nghe thấy tiếng kim loại va chạm từ xa báo hiệu có mạo hiểm giả con người đang giao tranh với quái vật, nỗi cô đơn thôi thúc Rentt vượt qua sự ngần ngại về ngoại hình thây ma gớm ghiếc của mình.
 Rentt lặng lẽ lần theo âm thanh đến khúc ngoặt hành lang và tận mắt nhìn thấy một mạo hiểm giả khác đang rút kiếm chiến đấu.
+
+## 6
+Rentt chứng kiến một nữ mạo hiểm giả Thiết Cấp tân binh đang chật vật giao chiến với Khô Lâu và bị dồn vào chân tường, đối mặt với nguy cơ mất mạng.
+Ý thức trách nhiệm của một mạo hiểm giả tiền bối thôi thúc Rentt vượt qua ngần ngại, anh lao ra gầm rống đánh lạc hướng kẻ địch, rồi vận Khí Lực vào kiếm chém đôi con Khô Lâu trong chớp mắt.
+Ngỡ ngàng trước sức mạnh thể chất vượt trội của dạng Ngạ Quỷ, Rentt nhận ra mục tiêu tiến hóa thành Ma Cà Rồng ngày càng khả thi.
+Bừng tỉnh sau dòng suy nghĩ, Rentt nhìn lại thì thấy nữ mạo hiểm giả đang run rẩy giương kiếm chĩa về phía mình trong nỗi kinh hoàng tột độ.
