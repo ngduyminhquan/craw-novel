@@ -241,4 +241,11 @@ Rentt trổ tài nấu nướng học được từ người dược sư ở qu�
 Cả ba cùng phân tích các điều khoản của bản khế ước ràng buộc ma pháp; Lorraine xác nhận khế ước cơ bản ổn thỏa, đồng thời chỉ ra cách tháo gỡ nếu Sheila rơi vào kịch bản xấu nhất là bị ma pháp thao túng tâm trí.
 Khi Lorraine nhấn mạnh vai trò trọng yếu của Sheila trong việc giữ bí mật để Rentt tiếp tục làm mạo hiểm giả, Sheila ngập ngừng cảnh báo rằng dạo gần đây Rentt đang gây quá nhiều sự chú ý ở Maalt.
 
+## 42
+Sheila giải thích lý do Rentt bị chú ý: ngoại hình quái dị (nhắc đến mạo hiểm giả Augurey ăn mặc sặc sỡ đã lên thủ đô), việc hạ Orc và thăng hạng Đồng Cấp quá nhanh, cùng các vụ mạo hiểm giả tân binh mất tích bí ẩn không để lại thi thể hay thẻ mạo hiểm giả khiến anh bị nghi ngờ và đố kỵ.
+Thay vì lo sợ bị đổ oan, Rentt lại cảm thấy phấn khởi một cách kỳ lạ khi lần đầu tiên có người ghen tị với thành tựu của mình, khiến Lorraine phải lên tiếng nhắc nhở về nguy cơ bị đám đông kích động lôi ra xử tử.
+Cả ba thống nhất đối sách: Rentt tạm dừng thám hiểm mê cung một thời gian để lắng xuống các nghi kỵ, chuyển sang làm các công việc vặt bên ngoài, đồng thời cân nhắc tìm đồng đội biết rõ bí mật yểm trợ khi quay lại mê cung để đề phòng Tiến Hóa Bản Thể bột phát.
+Nhân dịp tạm hoãn thám hiểm mê cung, Rentt quyết định ghé tiệm rèn Ba Chĩa để kiểm tra vũ khí mới đặt rèn từ người thợ rèn Clope.
+
+
 

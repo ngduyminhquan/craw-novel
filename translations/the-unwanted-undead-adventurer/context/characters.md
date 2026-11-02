@@ -19,6 +19,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yuris |  | Yuris | Tân binh mạo hiểm giả từng tham gia lớp hướng dẫn của Rentt ở Hội | #29 |
 | Raiz Dunner | Raiz | Raiz Dunner | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp tóc đỏ, đồng đội thi thực hành thăng hạng của Rentt | #33 |
 | Laura Satii | Laura | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
+| Augurey |  | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt | #42 |
 
 ## Chi tiết
 
@@ -27,7 +28,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 41: Nấu bữa tối đãi Lorraine và Sheila, nạp dinh dưỡng bằng một giọt máu từ lọ của Lorraine; cùng Lorraine và Sheila phân tích các điều khoản và kịch bản xấu nhất trong bản khế ước ma pháp; bất ngờ khi nghe Sheila cảnh báo dạo gần đây mình đang gây quá nhiều sự chú ý.
+- Trạng thái tính đến chương 42: Cùng Lorraine và Sheila phân tích các lý do khiến mình gây chú ý và bị đố kỵ; cảm thấy phấn khởi lạ lùng khi lần đầu có người ghen tị với thành tựu của mình; thống nhất tạm hoãn thám hiểm mê cung để lắng dịu nghi ngờ, chuyển sang nhận việc vặt ngoài thị trấn và ghé tiệm rèn Ba Chĩa lấy vũ khí mới từ Clope.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -51,14 +52,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 41: Dùng vẻ mặt sát khí lạnh lùng thử thách quyết tâm của Sheila trước khi chấp nhận cô vào liên minh giữ bí mật cho Rentt; rà soát bản khế ước ràng buộc ma pháp, chỉ ra cách hủy bỏ đơn phương nếu Sheila bị ma pháp thao túng tâm trí; nhướn mày ngạc nhiên khi nghe Sheila nói Rentt đang gây quá nhiều sự chú ý.
+- Trạng thái tính đến chương 42: Nhắc đến mạo hiểm giả Augurey ăn mặc sặc sỡ đã lên thủ đô; tổng kết các lý do khiến Rentt dễ bị chĩa mũi dùi trong các vụ tân binh mất tích và nhắc nhở anh về nguy cơ bị đám đông lôi ra xử tử; thống nhất giải pháp Rentt tạm dừng vào mê cung.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
 - Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
-- Trạng thái tính đến chương 41: Vượt qua phép thử áp lực tột cùng của Lorraine bằng quyết tâm kiên định; chứng kiến Rentt nấu ăn và nạp dinh dưỡng bằng một giọt máu của Lorraine; đưa bản khế ước ma pháp cho Lorraine kiểm tra lỗ hổng; cảnh báo Rentt đang trở nên quá nổi bật ở Maalt.
+- Trạng thái tính đến chương 42: Giải thích cho Rentt và Lorraine về các vụ mạo hiểm giả tân binh mất tích bí ẩn không để lại thi thể hay thẻ bài; cảnh báo Rentt về những lời đồn vô căn cứ và sự đố kỵ từ các mạo hiểm giả khác; khẳng định Hội luôn bảo bọc mạo hiểm giả mang lại lợi ích.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
@@ -117,3 +118,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
 - Trạng thái tính đến chương 38: Chính thức thăng hạng Đồng Cấp; tinh tế nhận ra chí hướng và mục tiêu riêng biệt của Rentt (anh Vivie) khi chia tay tổ đội, cảm ơn anh đã bảo bọc, tạo cơ hội cho cả hai trưởng thành và khẳng định anh mãi là đồng đội của nhóm.
+
+### Augurey
+- Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả thực lực nhưng có phong cách lập dị, chuyên mặc trang phục sặc sỡ bảy sắc cầu vồng và đội một chiếc mũ lớn gắn lông vũ.
+- Tính cách: Phóng túng, tự do tự tại, kỹ năng tác chiến đáng nể dù ngoại hình ngổ ngáo bốc đồng.
+- Quan hệ: Người quen tác chiến đơn độc của Rentt; từng lập tổ đội ứng biến tức thời và thường xuyên tán gẫu trong quán rượu cùng Rentt.
+- Trạng thái tính đến chương 42: Đã rời Maalt lên thủ đô Yaaran một thời gian trước với lý do "nghe thấy tiếng gọi của cơn gió"; sự vắng mặt của anh khiến Hội Mạo Hiểm Giả Maalt trở nên yên ắng hơn.

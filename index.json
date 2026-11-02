@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T08:47:15Z",
+  "generatedAt": "2026-11-02T08:52:18Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2399,6 +2399,12 @@
           "title": "Chương 41: Tập 2 Chương 2 - Khế Ước Bằng Ma Pháp (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_041.md",
           "sha": "3817f73882776ee82f0efe419b93285e53dc1a02"
+        },
+        {
+          "number": 42,
+          "title": "Chương 42: Tập 2 Chương 2 - Khế Ước Bằng Ma Pháp (4)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_042.md",
+          "sha": "7773c508dbb826a27f929a7f1f60a80d9b901349"
         }
       ]
     },

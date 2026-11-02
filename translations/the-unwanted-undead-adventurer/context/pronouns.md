@@ -19,6 +19,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zarid | Zarid / người đàn ông | 28 | Kiếm sĩ kỳ cựu Thượng Đồng Cấp |
 | Raiz Dunner | Raiz / cậu thiếu niên | 33 | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp |
 | Laura Satii | Laura / cô gái / thiếu nữ | 33 | Nữ mạo hiểm giả ma pháp sư Thiết Cấp |
+| Augurey | Augurey / gã / anh ta | 42 | Mạo hiểm giả kỳ dị chuyên mặc đồ bảy sắc cầu vồng |
 
 ## Giữa các nhân vật
 
