@@ -46,7 +46,7 @@ Càng ngẫm nghĩ, gánh nặng trong lòng tôi dường như càng trĩu xu�
 
 Cả hai người họ đều tinh thông bản lĩnh và sở hữu trữ lượng Thần Lực khổng lồ. Dẫu có gom một trăm người như tôi lại thì cũng chẳng hy vọng bắt kịp được họ. Họ thực sự là vị tư tế và Thánh Nữ xuất chúng bậc nhất thế hệ chúng tôi.
 
-Nếu giáo hội thực sự muốn bành trướng tầm ảnh hưởng nơi vùng biên ải, thì đáng lẽ người ở cấp độ như họ mới là người được phái đi. Dẫu bản thân tôi cũng là một Thánh Nữ, nhưng thứ bậc của tôi lại có phần thấp kém. Khá lắm thì tôi cũng chỉ đứng ở rìa ngoài trong hàng ngũ của giáo hội mà thôi. Phái một kẻ như tôi tới đây thì tác dụng đem lại, nói ví von, chẳng khác nào một giọt nước ném vào lòng đại dương.
+Nếu giáo hội thực sự muốn bành trướng tầm ảnh hưởng nơi vùng biên ải, thì đáng lẽ người ở cấp độ như họ mới là người được phái đi. Dẫu bản thân tôi cũng là một Thánh Nữ, nhưng thứ bậc của tôi lại có phần thấp kém. Khá lắm thì tôi cũng chỉ đứng ở rìa ngoài trong hàng ngũ của giáo hội mà thôi. Phái một kẻ như tôi tới đây thì tác dụng đem lại, nói ví von, chẳng khác nào một giọt nước rơi vào lòng đại dương.
 
 Tôi chẳng rõ liệu Gilly có hiểu thấu những gì đang lướt qua trong tâm trí mình hay không.
 
@@ -140,7 +140,7 @@ Dường như nhiệm vụ lần này của tôi cũng là thứ gì đó tươn
 
 Gilly, cứ như thể đọc thấu suy nghĩ của tôi, tiếp tục lên tiếng.
 
-"Tôi không rõ. Tuy nhiên, đây là mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ. Có thể an tâm suy đoán rằng Nive Maris có khả năng gây ảnh hưởng lên tầng lớp thượng tầng của giáo hội bằng cách này hay cách khác. Nếu không, một mệnh lệnh như thế là chuyện gần như bất khả thi."
+"Tôi không rõ. Tuy nhiên, đây là mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ. Hoàn toàn có cơ sở để suy đoán rằng Nive Maris có khả năng gây ảnh hưởng lên tầng lớp thượng tầng của giáo hội bằng cách này hay cách khác. Nếu không, một mệnh lệnh như thế là chuyện gần như bất khả thi."
 
 "Cô ta thực sự nổi tiếng đến thế sao? Làm thế nào một mạo hiểm giả chỉ ở Kim Cấp lại có được quyền lực như vậy chứ...?"
 

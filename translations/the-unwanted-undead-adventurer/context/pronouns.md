@@ -109,7 +109,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dario Costa | Rentt Faina | tôi | cậu | 58 | Chuyên gia mổ xẻ nói chuyện bộc trực với mạo hiểm giả mang chiến lợi phẩm tới |
 | Rentt Faina | Norman Hanel | tôi | anh / các anh | 59 | Mạo hiểm giả nói chuyện với dược sư tốt bụng |
 | Norman Hanel | Rentt Faina | tôi | anh / anh Rentt | 59 | Dược sư trò chuyện và biết ơn mạo hiểm giả tặng hoa |
-| Rentt Faina | Laura Latuule | tôi | cô bé / Laura | 62 | Mạo hiểm giả nói chuyện với đương chủ quý tộc nhỏ tuổi |
+| Rentt Faina | Laura Latuule | tôi | cô bé / Laura | 62 | Mạo hiểm giả nói chuyện với đương chủ quý tộc nhỏ tuổi; luôn gọi "cô bé / Laura", không xen kẽ gọi "cô" |
 | Laura Latuule | Rentt Faina | tôi | ngài / ngài Vivie | 62 | Đương chủ quý tộc nói chuyện lịch thiệp với mạo hiểm giả |
 | Laura Latuule | Isaac Hart | tôi | anh / Isaac | 66 | Nữ chủ nhân gia tộc Latuule giao tiếp với quản gia |
 | Isaac Hart | Laura Latuule | tôi | tiểu thư | 66 | Quản gia giao tiếp cung kính với nữ chủ nhân |

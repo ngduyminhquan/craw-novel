@@ -98,7 +98,7 @@ Tôi đã nghĩ như thế, nhưng Nive vẫn chưa hề buông lỏng cảnh gi
 
 Thế nhưng, tại sao chứ...? Tôi chẳng thể nào hiểu nổi.
 
-Tôi từng nghe nói bản thân Nive cũng là một người sử dụng Thần Lực. Nếu quả thực là như vậy, lẽ ra cô ấy phải cảm nhận được phản ứng ban nãy rồi chứ... Dẫu thế, Nive vẫn tiếp tục đối đãi với Rentt như thể anh ta là một Ma Cà Rồng, dồn dập chất vấn anh ta bằng vô số câu hỏi, trước khi cưỡng chế chẩn đoán anh ta bằng một ứng dụng Thần Lực cấp cao: Thánh Hỏa.
+Tôi từng nghe nói bản thân Nive cũng là một người sử dụng Thần Lực. Nếu quả thực là như vậy, lẽ ra cô ấy phải cảm nhận được phản ứng ban nãy rồi chứ... Dẫu thế, Nive vẫn tiếp tục đối đãi với Rentt như thể anh ta là một Ma Cà Rồng, dồn dập chất vấn anh ta bằng vô số câu hỏi, trước khi cưỡng ép kiểm tra anh ta bằng một ứng dụng Thần Lực cấp cao: Thánh Hỏa.
 
 Trên đường tới đây, Nive từng nói với tôi rằng cô ấy chỉ là tay mơ trong việc ứng dụng Thần Lực. Thật không ngờ cô ấy lại có thể thi triển được cả Thánh Hỏa cơ đấy... Tôi đã vô cùng kinh ngạc. Tôi đồ rằng đây chính là lý do vì sao cô ấy lại nổi danh là một Thợ Săn Ma Cà Rồng cừ khôi.
 
@@ -126,7 +126,7 @@ Liệu Nive có thực lòng với những gì mình nói hay không? Tôi thự
 
 Trong chốc lát, tôi giữ im lặng, không thốt ra lời nào. Nive liền tiếp tục.
 
-"Chà, tôi đoán chuyện đích thân cất công lặn lội điều tra cũng rất quan trọng, nhỉ? Còn về vụ việc lần này... chúng ta có thể kết luận rằng Rentt không phải là Ma Cà Rồng và khép lại ở đó được rồi, phải không? Nhưng điều này đâu có nghĩa là con Ma Cà Rồng đã cắm rễ trong thị trấn này biến mất. Tôi sẽ tiếp tục truy lùng. Ngày mai cô cũng sẽ giúp tôi một tay chứ, Tiểu thư Myullias?" Nive khẽ mỉm cười khi hỏi tôi.
+"Chà, tôi đoán chuyện đích thân cất công lặn lội điều tra cũng rất quan trọng, nhỉ? Còn về vụ việc lần này... chúng ta có thể kết luận rằng Rentt không phải là Ma Cà Rồng và khép lại ở đó được rồi, phải không? Nhưng điều này đâu có nghĩa là con Ma Cà Rồng đã cắm rễ trong thị trấn này đã biến mất. Tôi sẽ tiếp tục truy lùng. Ngày mai cô cũng sẽ giúp tôi một tay chứ, Tiểu thư Myullias?" Nive khẽ mỉm cười khi hỏi tôi.
 
 Liệu tôi sẽ còn phải tiếp tục giúp đỡ con người này sao? Cả từ nay về sau nữa ư...? Tôi cứ ngỡ nhiệm vụ của mình sẽ kết thúc sau khi tháp tùng cô ấy tới sự kiện lần này chứ...
 

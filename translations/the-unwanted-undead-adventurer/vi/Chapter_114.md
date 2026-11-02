@@ -44,7 +44,7 @@ Cách nghĩ của chúng tôi đơn giản là quá khác nhau. Có lẽ ngay t�
 
 "Và còn cả chuyện Nive Maris hiện đang ở Maalt nữa. Giữ chút khoảng cách giữa anh và cô ta cũng đâu phải chuyện xấu, đúng chứ?"
 
-Đó là một điểm mà tôi hoàn toàn đồng tình. Rất có thể Nive đến đây là để truy lùng một con Ma Cà Rồng nào đó không phải tôi, và cô ấy chắc chắn sẽ tiếp tục cuộc tìm kiếm của mình. Điều đó, đổi lại, có thể khiến thân phận của tôi bị lộ tẩy.
+Đó là một điểm mà tôi hoàn toàn đồng tình. Rất có thể Nive đến đây là để truy lùng một con Ma Cà Rồng nào đó không phải tôi, và cô ấy chắc chắn sẽ tiếp tục cuộc tìm kiếm của mình. Điều đó, kéo theo hệ quả là có thể khiến thân phận của tôi bị lộ tẩy.
 
 Tôi từng bị ngập trong Thánh Hỏa mà vẫn bình an vô sự, chứng tỏ tôi không phải Ma Cà Rồng. Chừng đó thì không sao, nhưng Nive có vẻ chẳng phải tuýp người chịu buông lỏng cảnh giác hoàn toàn chỉ vì bấy nhiêu. Chừng nào tôi còn ở lại thị trấn này, chắc chắn sẽ có lúc tôi chạm mặt cô ấy.
 
@@ -72,7 +72,7 @@ Dù vẫn luôn thường trực nỗi lo rằng mình có thể vô tình làm 
 
 Còn chuyện tôi đăng ký hai lần ở hội... Nếu hội thực sự muốn soi mói bắt bẻ, thì phải, đó sẽ là một hành vi vi phạm quy tắc. Dù vậy, hình phạt nếu có rất có thể cũng chẳng đến mức nghiêm trọng. Hình phạt nặng nề nhất mà hội đưa ra là khai trừ tên của mạo hiểm giả khỏi hàng ngũ, kèm theo lệnh cấm vĩnh viễn tại mọi chi nhánh của hội trên khắp đại lục. Những hình phạt như thế chỉ được áp dụng khi một mạo hiểm giả gây tổn hại to lớn cho hội, phạm tội diệt chủng hoặc các trọng tội khác, hay âm mưu chống lại vương quốc hoặc đất nước của mình. So với những thứ đó, hình phạt cho việc đăng ký hai lần là quá nhẹ. Trong trường hợp xấu nhất, đó cũng chỉ là một khoản tiền phạt vài đồng tiền vàng mà thôi.
 
-Nghĩ lại thì, cũng có không ít kẻ từng đăng ký hai lần. Trái lại, rất có thể hội sẽ chỉ đơn giản là nhắm mắt làm ngơ cho sai phạm của tôi. Đa phần mạo hiểm giả đều là những người mang quá khứ phức tạp, với một số cá nhân không thể tiết lộ bất kỳ chi tiết nào về cuộc đời trước đây của họ. Vài người thì đơn giản là không muốn hành nghề dưới cái tên mình từng dùng nữa. Xét đến mọi yếu tố này, chuyện đăng ký hai lần cũng chẳng phải hiếm hoi gì.
+Nghĩ lại thì, cũng có không ít kẻ từng đăng ký hai lần. Nói đúng hơn thì, rất có thể hội sẽ chỉ đơn giản là nhắm mắt làm ngơ cho sai phạm của tôi. Đa phần mạo hiểm giả đều là những người mang quá khứ phức tạp, với một số cá nhân không thể tiết lộ bất kỳ chi tiết nào về cuộc đời trước đây của họ. Vài người thì đơn giản là không muốn hành nghề dưới cái tên mình từng dùng nữa. Xét đến mọi yếu tố này, chuyện đăng ký hai lần cũng chẳng phải hiếm hoi gì.
 
 Hội đương nhiên biết rõ tất cả những điều này, chỉ là họ chọn cách giữ im lặng trong hầu hết các trường hợp mà thôi. Kết quả là, tôi khó lòng tưởng tượng nổi mình lại bị xử lý nặng tay vì chuyện đó.
 
@@ -90,7 +90,7 @@ Người vừa cất tiếng gọi tôi chẳng phải ai khác ngoài người 
 
 "Tôi có vài chuyện cần bàn bạc liên quan đến ủy thác. Anh có thể vui lòng gọi Isaac giúp tôi được không?"
 
-"Tất nhiên rồi ạ... Hửm? Ngài Rentt... Hôm nay trông ngài nói chuyện trôi chảy hơn nhiều thì phải," người đàn ông vừa nói vừa gật đầu, tay hí hoáy thao tác một thứ ma cụ nào đó vừa rút ra từ trong túi.
+"Tất nhiên rồi ạ... Hửm? Ngài Rentt... Hôm nay nghe ngài nói chuyện trôi chảy hơn hẳn thì phải," người đàn ông vừa nói vừa gật đầu, tay hí hoáy thao tác một thứ ma cụ nào đó vừa rút ra từ trong túi.
 
 Tôi gật đầu đáp lại. "Phải. Trước đây tôi bị thương nên không thể nói năng rõ ràng được. Nhưng như anh nghe thấy đấy, giờ tôi đã bình phục rồi."
 
@@ -134,7 +134,7 @@ Laura dứt lời.
 
 Cô bé nói có lý. Ngay từ đầu, chính trong những hoàn cảnh đó mà tôi mới được thuê để đảm nhận ủy thác này. Nhưng Laura hẳn là có thể tìm đâu đó một mạo hiểm giả Kim Cấp đáp ứng được nhu cầu của mình. Việc cô bé không làm thế mà lại chọn tôi cho công việc này quả thực là điều đáng để tôi mang ơn.
 
-"Tôi rất cảm kích sự thông cảm thấu hiểu của cô bé. Tôi sẽ lập tức liên lạc với cô ngay khi trở về. Nhân tiện, có lẽ tôi chỉ đang tọc mạch thôi, nhưng trong lúc tôi vắng mặt thì cô sẽ làm thế nào...?"
+"Tôi rất cảm kích sự thông cảm thấu hiểu của cô bé. Tôi sẽ lập tức liên lạc với cô bé ngay khi trở về. Nhân tiện, có lẽ tôi chỉ đang tọc mạch thôi, nhưng trong lúc tôi vắng mặt thì cô bé sẽ làm thế nào...?"
 
 "Tôi sẽ giao lại việc đó cho Isaac, y như trước đây thôi. Vì thế, tôi sẽ rất cảm kích nếu ngài có thể trở về trong thời gian sớm nhất... Dĩ nhiên, ngài không cần phải vì tôi mà đẩy nhanh chuyến hành trình đâu. Nghĩ lại thì, ngài định đi đâu thế? Hừm... Không. Nếu ngài không muốn nhắc tới, tôi cũng không có ý định ép ngài phải nói cho tôi biết đâu," Laura nói, chợt nhận ra điểm đến của tôi vẫn chưa được tiết lộ.
 
@@ -166,7 +166,7 @@ Laura thản nhiên gật đầu trước lời bộc bạch này, chẳng hề 
 
 "Điều đó có thật không? Tôi chỉ là một kẻ nghiệp dư thuần túy khi nói đến việc vận dụng Thần Lực. Tôi hoàn toàn chẳng biết nhiều nhặn gì về những chi tiết phức tạp, sâu xa hơn."
 
-"Phần lớn mọi người đều nắm bắt được cách vận dụng Thần Lực cơ bản ngay khoảnh khắc họ được ban phước. Trong số những người được ban phước Thần Lực, hơn một nửa sẽ dừng lại ở mức độ tinh thông đó. Dẫu vậy, nó vẫn là một trong ba nguồn sức mạnh vĩ đại, sánh cùng Ma Lực và Khí Lực. Vì lẽ đó, việc sử dụng Thần Lực đúng cách quả thực có cả một bề dày lịch sử phía sau, kèm theo rất nhiều bí thuật để vận dụng nó, mà hầu hết đều được giữ kín như bí mật tuyệt mật bởi vô số giáo hội và các tổ chức tôn giáo trên khắp đại lục."
+"Phần lớn mọi người đều nắm bắt được cách vận dụng Thần Lực cơ bản ngay khoảnh khắc họ được ban phước. Trong số những người được ban phước Thần Lực, hơn một nửa sẽ dừng lại ở mức độ tinh thông đó. Dẫu vậy, nó vẫn là một trong ba nguồn sức mạnh vĩ đại, sánh cùng Ma Lực và Khí Lực. Vì lẽ đó, việc sử dụng Thần Lực đúng cách quả thực có cả một bề dày lịch sử phía sau, kèm theo rất nhiều bí thuật để vận dụng nó, mà hầu hết đều được vô số giáo hội và các tổ chức tôn giáo trên khắp đại lục giữ làm bí mật riêng."
 
 Điều đó có vẻ đúng. Tôi hoàn toàn chẳng biết làm cách nào để tái hiện lại ngọn Thánh Hỏa mà mình vừa được chứng kiến gần đây. Ngay cả khi người ta không đi đến những ứng dụng cực đoan như thế, Thần Lực có lẽ vẫn còn nhiều công dụng khác ngoài việc cường hóa trang bị, cường hóa cơ thể, hay trị liệu và thanh tẩy cơ bản.
 
