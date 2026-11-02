@@ -69,6 +69,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 102: Mang danh tính Rentt Vivie đến trụ sở Thương hội Stheno tại Maalt để gặp gỡ khách mua xác Tarasque; được nhân viên dẫn lên phòng tiếp khách tầng năm bằng thang máy ma cụ.
 - Trạng thái tính đến chương 111: Nhận 20 đồng bạch kim thanh toán xác Tarasque từ Nive; chia sẻ ước mơ đạt Mithril Cấp và quá khứ tu sửa ngôi đền cổ ở quê nhà được ban Thần Lực; cùng Lorraine Vivie dự định làm một chuyến về thăm quê nhà.
 - Trạng thái tính đến chương 114: Quyết định trở về quê nhà Làng Hathara cùng Lorraine để điều tra ngôi đền cổ và danh tính vị thần bảo hộ ban Thần Lực; quyết định dùng lại danh tính Rentt Faina cho chuyến đi; được Laura Latuule đồng ý tạm hoãn ủy thác hái Hoa Long Huyết và cho mượn các thư tịch cổ nghiên cứu bí thuật Thần Lực của gia tộc Latuule.
+- Trạng thái tính đến chương 120: Tiết lộ thời thơ ấu tại Làng Hathara từng được trưởng làng và một bà lão thầy thuốc dạy chữ cùng học vấn căn bản, đủ nền tảng để tự đọc sách mượn từ Lorraine suốt 10 năm qua; cùng Alize tham gia khóa học thực hành chế tạo đũa phép bằng thuật giả kim do Lorraine chỉ dẫn.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -100,6 +101,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 111: Phân tích giả thuyết Rentt không phải Ma Cà Rồng thuần túy mà là biến thể Undead nhờ kháng tính Thần Lực; đề xuất cùng Rentt làm một chuyến về thăm quê nhà để tìm hiểu về ngôi đền cổ.
 - Trạng thái tính đến chương 115: Từng bí mật điều tra gia tộc Latuule qua tài liệu hội đồng thành phố Maalt (nhờ đổi lấy thuốc giả kim); phấn khích tột độ khi biết Laura Latuule sở hữu thư viện đồ sộ và cho phép cô ghé thăm đọc sách, quyết định sẽ đến dù vẫn giữ sự thận trọng.
 - Trạng thái tính đến chương 118: Cùng Rentt và Alize đến xưởng rèn của Clope; ngỏ ý xin Clope 2 cây chứa Thần Lực để nghiên cứu thuật giả kim và chế tạo trang bị thanh tẩy.
+- Trạng thái tính đến chương 120: Dùng bảng ma cụ mở lớp hướng dẫn Rentt cùng Alize kỹ thuật chế tạo đũa phép bằng thuật giả kim; thị phạm quy trình vẽ ma pháp trận bằng mực chuyên dụng lên bảng đồng, truyền Ma Lực cho Ma Tinh Orc Binh hấp thụ ma pháp trận và dùng Ma Lực gọt đẽo gỗ Ent Bụi Cây; giới thiệu khái niệm ma pháp trận xếp tầng ba chiều.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -208,6 +210,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 78: Chính thức bước vào bài học ma thuật đầu tiên; được Lorraine truyền dẫn Ma Lực và bước đầu cảm nhận được dòng chảy năng lượng trong cơ thể dù kiệt sức; lấy lại quyết tâm rèn luyện sau màn thị phạm của Rentt và chuẩn bị học cách niệm chú.
 - Trạng thái tính đến chương 79: Niệm câu chú Ignite Aryumage và thành công tạo ra ngọn lửa nhỏ đầu tiên trên đầu ngón tay dù còn hao hụt Ma Lực; vô cùng thán phục trước màn biểu diễn ma thuật của Lorraine; kiên định với ước mơ làm mạo hiểm giả và chuẩn bị theo học kiếm thuật cơ bản từ Rentt.
 - Trạng thái tính đến chương 119: Đến tiệm rèn Ba Chĩa thử vũ khí; được Lorraine thị phạm ma pháp mở rộng lưỡi dao găm thành kiếm; quyết định chọn dao găm làm vũ khí chính kết hợp học kiếm thuật căn bản từ Rentt và ma thuật từ Lorraine.
+- Trạng thái tính đến chương 120: Cùng Rentt học kỹ thuật chế tạo đũa phép bằng thuật giả kim dưới sự hướng dẫn của Lorraine; choáng ngợp trước cấu trúc ma pháp trận xếp tầng ba chiều bên trong cây đũa phép cao cấp của Lorraine; được Lorraine trấn an và khích lệ trước khi tự tay thực hành.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.

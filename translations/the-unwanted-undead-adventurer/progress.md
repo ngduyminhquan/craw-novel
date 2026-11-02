@@ -124,7 +124,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | reviewed |  |
 | 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | done |  |
 | 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | done |  |
-| 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | todo |  |
+| 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | done |  |
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | todo |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | todo |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -619,3 +620,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#118] Dịch 'Blacksmithing Deity' và 'Furnace Deity' — tạm chọn 'Thần Nghề Rèn' và 'Thần Lò Lửa' (phương án khác: 'Đoàn Dã Thần' / 'Hỏa Lô Thần', 'Thần Lò Nung'). → Giữ 'Thần Nghề Rèn' và 'Thần Lò Lửa' trong glossary.md (orchestrator)
 - [#119] Dịch 'chakram' — tạm chọn 'phi luân' (vũ khí ném dạng đĩa tròn; phương án khác: 'luân xa', giữ nguyên 'chakram'). → Giữ 'phi luân' trong glossary.md (orchestrator)
 - [#119] Đồng nhất 'life magic' với 'Livelihood Magecraft' — tạm chọn 'Ma Thuật Sinh Hoạt' (thêm vào Alias của Livelihood Magecraft; phương án khác: 'ma thuật đời sống'). → Đồng nhất 'life magic' với 'Livelihood Magecraft' ('Ma Thuật Sinh Hoạt', nguyên tác 生活魔術) và thêm vào Alias (orchestrator)
+- [#120] Thuật ngữ 'shrub ent' (phân loài Ent dạng bụi rậm/cây bụi làm đũa phép) — tạm dịch 'Ent Bụi Cây' (phương án khác: 'Ent Bụi Rậm', 'Ent Cây Bụi'). → Giữ 'Ent Bụi Cây' trong glossary.md (orchestrator)
+- [#120] Thuật ngữ 'three-dimensional layered magic circle' / 'multi-dimensional layered magic circle' — tạm dịch 'ma pháp trận xếp tầng ba chiều' / 'ma pháp trận xếp tầng đa chiều' (phương án khác: 'ma pháp trận phân tầng ba chiều / đa chiều'). → Giữ 'ma pháp trận xếp tầng ba chiều' và 'ma pháp trận xếp tầng đa chiều' trong glossary.md (orchestrator)
+- [#120] Tiêu đề chương 'Making a Catalyst (1)' — tạm dịch 'Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)' (rút gọn từ 'vật dẫn ma pháp' theo glossary; phương án khác: 'Chế Tạo Vật Dẫn Ma Pháp (1)'). → Dùng 'Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)' cho tiêu đề arc này (orchestrator)

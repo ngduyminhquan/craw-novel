@@ -701,6 +701,13 @@ Lorraine thi triển ma pháp kéo dài lưỡi dao găm trong suốt thành chi
 Alize quyết định chọn dao găm và cam kết sẽ nỗ lực học tập cả kiếm thuật lẫn ma thuật; Rentt và Lorraine hứa sẽ đào tạo cô bé thành mạo hiểm giả, ma pháp sư kiêm học giả thực thụ.
 Rentt đặt Clope rèn cả dao găm lẫn kiếm cho Alize bằng Ma Thiết thường để cô bé rèn luyện thói quen căn bản; đồng thời nhờ Clope thử dùng Ma Thiết đượm ma lực rồng kết hợp với gỗ cây Thần Lực để rèn một thanh kiếm mới và hứa sẽ tìm cách xoay xở máu Ma Cà Rồng cùng Ma Tinh phù hợp.
 
+## 120
+Sau khi đặt Clope rèn kiếm và dao găm cho Alize trước chuyến đi Hathara, Rentt cùng Lorraine dẫn cô bé về phòng khách để bắt đầu tiết học chế tạo đũa phép bằng thuật giả kim.
+Lorraine thị phạm quy trình chế tạo đũa phép cơ bản: vẽ ma pháp trận bằng mực chuyên dụng lên bảng đồng, truyền Ma Lực cho Ma Tinh của Orc Binh hấp thụ ma pháp trận, dùng Ma Lực gọt giũa gỗ Ent Bụi Cây thành thân đũa và gắn kết Ma Tinh vào đầu đũa.
+Alize choáng ngợp trước cây đũa phép cao cấp chứa ma pháp trận xếp tầng ba chiều của Lorraine; Rentt bộc bạch về sở thích đọc sách mượn từ Lorraine và nền tảng học vấn thời thơ ấu tại quê nhà Hathara.
+Lorraine trấn an và khích lệ Alize về tính căn bản của thuật giả kim, sau đó yêu cầu Alize và Rentt tự chọn nguyên liệu từ đống chiến lợi phẩm để bắt đầu tự tay thực hành.
+
+
 
 
 

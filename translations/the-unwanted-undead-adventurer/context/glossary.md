@@ -226,3 +226,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Elf | elves; elf | Elf | chủng tộc | 43 | Chủng tộc tiên tộc sống trong rừng, giỏi ma pháp tinh linh và cung tên |
 | spirit magic |  | tinh linh ma pháp | kỹ năng | 118 | Ma pháp mượn sức mạnh của các tinh linh (精霊魔法) |
 | chakram | chakrams | phi luân | vật phẩm | 119 | Vũ khí ném hình đĩa tròn bằng kim loại |
+| magic circle | magic circles; Magic circle; Magic circles | ma pháp trận | kỹ năng | 18 | Vòng tròn ma thuật vẽ bằng đường nét và hoa văn để vận hành ma pháp (魔法陣) |
+| shrub ent | shrub ents; Shrub ent; Shrub ents | Ent Bụi Cây | quái vật | 120 | Phân loài Ent dạng cây bụi nhỏ, gỗ dùng làm vật liệu chế tạo đũa phép (低木エント) |
+| three-dimensional layered magic circle | three-dimensional layered magic circles; Three-dimensional layered magic circles; 3D layered magic circles | ma pháp trận xếp tầng ba chiều | kỹ năng | 120 | Ma pháp trận phức hợp nhiều lớp trong không gian ba chiều chứa lượng thông tin lớn (三次元積層魔法陣) |
+| multi-dimensional layered magic circle | multi-dimensional layered magic circles | ma pháp trận xếp tầng đa chiều | kỹ năng | 120 | Ma pháp trận phức hợp từ bốn chiều trở lên (多次元積層魔法陣) |
