@@ -326,6 +326,13 @@ Bao bọc cơ thể trong luồng khí tức Thần Lực để xua đuổi các
 Rentt cẩn thận đào nhổ trọn gốc rễ mười cành Hoa Long Huyết cất vào túi ma pháp, lưu ý về đặc tính tự vệ gây tê của cánh hoa và sự tồn tại của loài Hoa Bạch Long vô dược tính khi trồng nhân tạo.
 Hoàn tất thu hoạch và chuẩn bị trở về Maalt giao hoa cho Alize cứu chữa Sơ Lillian, Rentt bất ngờ phát hiện một bóng người đằng xa nghi là mạo hiểm giả và lập tức rút kiếm cảnh giác phòng thủ.
 
+## 56
+Đối mặt với người đàn ông lạ mặt tại ốc đảo Đầm Lầy Tarasque, Rentt nhận thấy đối phương không mang ác ý và được trang bị chu đáo với ma cụ kháng độc, Nước Thánh cùng bản đồ chi tiết.
+Người đàn ông tự giới thiệu là Isaac Hart, quản gia phụng sự cho một nhân vật tôn quý bí ẩn cần dùng Hoa Long Huyết tươi ép định kỳ để bồi bổ sức khỏe.
+Khi Isaac dò hỏi cách bảo quản Long Hoa Huyết tươi, Rentt viện cớ không biết vì nếu biết đã giải nghệ làm dược sư, nhưng ngỏ ý sẵn lòng giúp đỡ việc khác trong khả năng.
+Bất ngờ nhưng không hề coi nhẹ danh tính mạo hiểm giả Đồng Cấp Rentt Vivie, Isaac ngỏ ý muốn lập hợp đồng chính thức qua Hội Mạo Hiểm Giả để thuê Rentt định kỳ vào đầm lầy thu thập hoa cho chủ nhân.
+
+
 
 
 

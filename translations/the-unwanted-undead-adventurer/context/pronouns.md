@@ -25,6 +25,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lillian | Lillian / Sơ Lillian / người phụ nữ | 49 | Nữ tu phụ trách Cô Nhi Viện Thứ Hai Maalt |
 | Alize | Alize / cô bé | 49 | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt |
 | Edel | Edel / con chuột / chú chuột | 52 | Chuột Puchi Suri quyến thuộc của Rentt |
+| Isaac Hart | Isaac / người đàn ông | 56 | Quản gia quý tộc thu thập Hoa Long Huyết tại Đầm Lầy Tarasque |
 
 ## Giữa các nhân vật
 
@@ -86,3 +87,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lillian | Alize | ta / tôi | Alize / con | 49 | Nữ tu phụ trách nói chuyện với trẻ mồ côi |
 | Rentt Faina | Edel | ta / tao | mày / Edel | 53 | Chủ nhân nói chuyện hoặc truyền ý nghĩ tới quyến thuộc |
 | Lorraine Vivie | Edel | tôi | mày / Edel | 52 | Đặt tên và dặn dò chú chuột quyến thuộc của Rentt |
+| Rentt Faina | Isaac Hart | tôi | anh / Isaac | 56 | Mạo hiểm giả nói chuyện với quản gia quý tộc |
+| Isaac Hart | Rentt Faina | tôi | ngài / quý ngài | 56 | Quản gia quý tộc xưng hô lịch thiệp, tôn trọng mạo hiểm giả |

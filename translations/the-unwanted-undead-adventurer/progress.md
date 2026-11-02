@@ -60,7 +60,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | reviewed |  |
 | 54 |  | Chapter_054 - Vol 2 Chapter 4 - Dragon Blood Blossom (7).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (7) | reviewed |  |
 | 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | done |  |
-| 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | todo |  |
+| 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | done |  |
 | 57 |  | Chapter_057 - Vol 3 Chapter 1 - A Peculiar Man (2).txt | Vol 3 Chapter 1 - A Peculiar Man (2) | todo |  |
 | 58 |  | Chapter_058 - Vol 3 Chapter 1 - A Peculiar Man (3).txt | Vol 3 Chapter 1 - A Peculiar Man (3) | todo |  |
 | 59 |  | Chapter_059 - Vol 3 Chapter 1 - A Peculiar Man (4).txt | Vol 3 Chapter 1 - A Peculiar Man (4) | todo |  |
@@ -350,6 +350,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -479,3 +480,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#55] Dịch phân loài quái vật 'Swamp Goblin' — tạm chọn 'Goblin Đầm Lầy' (nhất quán với Orc Rừng, Orc Mê Cung; phương án khác: 'Goblin Vùng Đầm Lầy'). Tạm dùng trong bản dịch: 'Goblin Đầm Lầy'. → Giữ 'Goblin Đầm Lầy' (nhất quán với Orc Rừng, Orc Mê Cung) (orchestrator)
 - [#55] Dịch thuật ngữ loài hoa 'White Dragon Blossoms' — tạm chọn 'Hoa Bạch Long' (tương ứng với 'Hoa Long Huyết'; phương án khác: 'Bạch Long Hoa'). Tạm dùng trong bản dịch: 'Hoa Bạch Long'. → Giữ 'Hoa Bạch Long' (nhất quán với 'Hoa Long Huyết') (orchestrator)
 - [#55] Xử lý câu raw bị ngắt lửng ở đoạn 39 ('Thinking about it, I realized this was more or less the status quo in') — tạm dịch bổ sung theo ngữ cảnh thành 'Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...' (phương án khác: 'ở nơi này...'). Tạm dùng trong bản dịch: 'Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...'. → Giữ 'Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...' theo mạch ngữ cảnh (orchestrator)
+- [#56] Dịch tiêu đề arc 'A Peculiar Man' — tạm chọn 'Người đàn ông kỳ lạ' (phương án khác: 'Kẻ kỳ lạ', 'Người đàn ông kỳ quặc'). Tạm dùng trong bản dịch: 'Người đàn ông kỳ lạ'. → Chốt 'Người Đàn Ông Kỳ Lạ' (viết hoa chữ cái đầu mỗi từ nhất quán với tiêu đề các chương trước) (orchestrator)
+- [#56] Xưng hô giữa Rentt Faina và Isaac Hart — tạm chọn Isaac xưng 'tôi' gọi Rentt là 'ngài / quý ngài' (quản gia quý tộc mực thước; raw: kind sir, good sir), Rentt xưng 'tôi' gọi Isaac là 'anh / Isaac' (phương án khác: Rentt gọi 'ngài'). Tạm dùng trong bản dịch: Isaac gọi Rentt là 'ngài / quý ngài', Rentt gọi Isaac là 'anh / Isaac'. → Giữ Isaac xưng 'tôi' gọi Rentt là 'ngài / quý ngài', Rentt xưng 'tôi' gọi Isaac là 'anh / Isaac' (orchestrator)

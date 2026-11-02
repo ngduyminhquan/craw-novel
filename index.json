@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T11:00:56Z",
+  "generatedAt": "2026-11-02T11:05:42Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2483,6 +2483,12 @@
           "title": "Chương 55: Tập 2 Chương 4 - Hoa Long Huyết (8)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_055.md",
           "sha": "3a83836f5e65133a0029fbda7a6fd9cd104359b8"
+        },
+        {
+          "number": 56,
+          "title": "Chương 56: Tập 3 Chương 1 - Người đàn ông kỳ lạ (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_056.md",
+          "sha": "61a5133a12718f8c2e168de2a62e41d903a2f6d7"
         }
       ]
     },

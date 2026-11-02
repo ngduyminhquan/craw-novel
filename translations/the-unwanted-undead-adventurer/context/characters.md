@@ -25,6 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |
 | Alize |  | Alize | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt, người đưa ra ủy thác thu thập Hoa Long Huyết | #48 |
 | Edel |  | Edel | Chuột Puchi Suri quyến thuộc của Rentt, được Lorraine đặt tên | #52 |
+| Isaac Hart | Isaac | Isaac Hart | Quản gia của một nhân vật quyền thế bí ẩn, đến Đầm Lầy Tarasque tìm Hoa Long Huyết | #56 |
 
 ## Chi tiết
 
@@ -164,3 +165,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định; có thể tự ý rút Thần Lực từ Rentt để bao bọc cơ thể trong màn ánh sáng, tự trị liệu và tông người tấn công mang Thần Lực.
 - Trạng thái tính đến chương 54: Cùng Rentt chiến đấu với Tarasque; luồn lách qua chân quái thú, tự ý rút Thần Lực của Rentt để tông thẳng vào vết thương hở trên cổ Tarasque, gợi mở cho Rentt điểm yếu kỵ Thần Lực của quái thú; bị quất bay được Rentt đỡ kịp và lập tức cằn nhằn qua tâm trí hối thúc Rentt phản công.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
+
+### Isaac Hart
+- Giới tính, tuổi/vẻ ngoài: Nam, vẻ ngoài xinh đẹp, quý phái như quý tộc. Da trắng bợt như chưa từng chạm nắng, mái tóc bạc dài buông xõa, nét mặt phảng phất vẻ lạnh lùng và ánh mắt dường như vô cảm. Trang bị kiếm liễu (rapier) bên hông và khiên kim loại nhẹ tinh xảo trên tay.
+- Tính cách: Lịch thiệp, mực thước, nhã nhặn, chuẩn mực phong thái quản gia quý tộc; biết điều, tôn trọng thực lực thực tế của đối phương hơn là cấp bậc mạo hiểm giả.
+- Cách nói chuyện: Trịnh trọng, lễ độ, nhã nhặn, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
+- Quan hệ: Quản gia phục vụ một nhân vật cao quý bí ẩn; gặp Rentt tại ốc đảo Đầm Lầy Tarasque khi đi hái Hoa Long Huyết cho chủ nhân và muốn thuê Rentt nhận ủy thác định kỳ.
+- Trạng thái tính đến chương 56: Bắt gặp Rentt tại ốc đảo; ấn tượng trước việc Rentt lành lặn bước vào đầm lầy; ngỏ ý muốn lập hợp đồng chính thức qua Hội Mạo Hiểm Giả để thuê Rentt định kỳ hái Hoa Long Huyết cho chủ nhân.
