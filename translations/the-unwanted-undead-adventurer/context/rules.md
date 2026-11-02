@@ -35,3 +35,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#2) Ba nguồn năng lượng của cơ thể: Mana → Ma Lực, Spirit → Khí Lực (sinh mệnh lực), Divinity → Thần Lực (thần thánh lực).
 - (#2) Hiện tượng tiến hóa của quái vật: Existential Evolution → Tiến Hóa Bản Thể.
 - (#1) Mê cung chính: Labyrinth of the Moon’s Reflection → Mê Cung Nguyệt Ảnh (gốc Nhật là Thủy Nguyệt chi Mê Cung).
+- (#4) Danh từ chung "potion" / "healing potion": dịch là "thuốc" / "thuốc hồi phục" (không dịch nhầm thành "độc dược").

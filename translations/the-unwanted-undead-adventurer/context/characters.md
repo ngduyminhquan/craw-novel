@@ -4,8 +4,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Rentt Faina | Rentt; Rend; Ventt | Rentt Faina | Nhân vật chính, mạo hiểm giả Hạ Đồng cấp, biến thành Undead | #1 |
-| Rina Rupaage | Rina | Rina Rupaage | Nữ mạo hiểm giả Thiết cấp mới vào nghề, con gái hiệp sĩ | #6 |
+| Rentt Faina | Rentt; Rend; Ventt | Rentt Faina | Nhân vật chính, mạo hiểm giả Hạ Đồng Cấp, biến thành Undead | #1 |
+| Rina Rupaage | Rina | Rina Rupaage | Nữ mạo hiểm giả Thiết Cấp mới vào nghề, con gái hiệp sĩ | #6 |
 | Lorraine Vivie | Lorraine | Lorraine Vivie | Nữ học giả ma thuật kiêm mạo hiểm giả, bạn thân 10 năm của Rentt | #13 |
 | Sheila Ibarss | Sheila | Sheila Ibarss | Tiếp tân viên Hội mạo hiểm giả Maalt, người phụ trách Rentt 5 năm | #9 |
 | Luka |  | Luka | Vợ thợ rèn Clope, tiếp khách và thẩm định vũ khí tiệm Ba Chĩa | #15 |
@@ -14,7 +14,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ## Chi tiết
 
 ### Rentt Faina
-- Giới tính, tuổi/vẻ ngoài: Nam, 25 tuổi. Ban đầu là thanh niên bình thường với trang bị cũ kỹ của mạo hiểm giả Đồng cấp. Sau khi bị rồng nuốt chửng, biến thành Khô Lâu (Skeleton), rồi tiến hóa thành Ngạ Quỷ (Ghoul) da thịt khô khốc, phải trùm áo choàng kín và đeo mặt nạ xương/mặt nạ gỗ che mặt.
+- Giới tính, tuổi/vẻ ngoài: Nam, 25 tuổi. Ban đầu là thanh niên bình thường với trang bị cũ kỹ của mạo hiểm giả Đồng Cấp. Sau khi bị rồng nuốt chửng, biến thành Khô Lâu (Skeleton), rồi tiến hóa thành Ngạ Quỷ (Ghoul) da thịt khô khốc, phải trùm áo choàng kín và đeo mặt nạ xương/mặt nạ gỗ che mặt.
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.

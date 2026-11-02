@@ -2,7 +2,7 @@
 
 Đúng như dự đoán, giả thuyết của tôi hoàn toàn chính xác—tôi mạnh lên một chút sau mỗi kẻ địch bị tiêu diệt. Sau trận chiến mở màn đó, tôi đã chạm trán và nhanh chóng hạ gục thêm vài con Khô Lâu khác. Mỗi lần như vậy, luồng sáng kỳ lạ kia lại bốc lên từ cơ thể chúng rồi dung nhập vào người tôi.
 
-Với mỗi luồng sáng hấp thụ được, tôi cảm thấy mình mạnh hơn và nhanh nhẹn hơn. Đó không đơn thuần chỉ là ảo giác tâm lý; cử động của tôi đã trở nên nhanh và chuẩn xác hơn rõ rệt. Ngay cả những đòn tấn công bằng Khí Thuật của tôi cũng được gia tăng uy lực. Nếu như trong lần đụng độ đầu tiên, tôi đã phải chật vật mãi mới đẩy được lưỡi kiếm xuyên qua hộp sọ đối thủ, thì giờ đây chỉ cần dồn toàn lực, tôi đã có thể đánh bay các khớp xương của kẻ địch và đập nát chúng trong chớp mắt.
+Với mỗi luồng sáng hấp thụ được, tôi cảm thấy mình mạnh hơn và nhanh nhẹn hơn. Đó không đơn thuần chỉ là ảo giác tâm lý; cử động của tôi đã trở nên nhanh và mạnh mẽ hơn rõ rệt. Ngay cả những đòn tấn công bằng Khí Thuật của tôi cũng được gia tăng uy lực. Nếu như trong lần đụng độ đầu tiên, tôi đã phải chật vật mãi mới đẩy được lưỡi kiếm xuyên qua hộp sọ đối thủ, thì giờ đây chỉ cần dồn toàn lực, tôi đã có thể đánh bay các khớp xương của kẻ địch và đập nát chúng trong chớp mắt.
 
 Có lẽ đã đến lúc tôi nên chuyển sang săn những con mồi lớn hơn, chẳng hạn như Slime. Chắc chắn tôi đã đủ mạnh để chí ít có thể nghĩ tới điều đó.
 
@@ -32,13 +32,13 @@ Sau khi thám hiểm các mê cung suốt một thời gian dài dằng dặc, n
 
 Bởi thế, tôi nhận định rằng không có mạo hiểm giả nào thường lui tới mê cung này vào khoảng thời gian này. Dù sao thì đây cũng chẳng phải mê cung duy nhất quanh thị trấn Maalt. Gần đây vẫn còn một mê cung khác lớn hơn, hình như được gọi là Mê Cung Tân Nguyệt.
 
-Nhiều phần của mê cung đó vẫn chưa được khám phá, với vô số khu vực và tầng lầu mới chỉ được vẽ bản đồ một phần. Hệ quả là phần lớn mạo hiểm giả ở Maalt đều đổ dồn về Mê Cung Tân Nguyệt. Những ai chọn lui tới Mê Cung Nguyệt Ảnh thay vào đó hoặc là những kẻ cố chấp, hoặc là những mạo hiểm giả đơn độc không thể tìm được tổ đội để tiến sâu vào tầng đáy của Mê Cung Tân Nguyệt.
+Nhiều phần của mê cung đó vẫn chưa được khám phá, với vô số khu vực và tầng mê cung mới chỉ được vẽ bản đồ một phần. Hệ quả là phần lớn mạo hiểm giả ở Maalt đều đổ dồn về Mê Cung Tân Nguyệt. Những ai chọn lui tới Mê Cung Nguyệt Ảnh thay vào đó hoặc là những kẻ cố chấp, hoặc là những mạo hiểm giả đơn độc không thể tìm được tổ đội để tiến sâu vào tầng đáy của Mê Cung Tân Nguyệt.
 
 Nói cho rõ thì tôi thuộc về nhóm thứ hai. Dù ban đầu tôi cũng muốn khám phá Mê Cung Tân Nguyệt, nhưng nơi đó lại đầy rẫy vô số quái vật, bao gồm cả những loài chuyên tấn công mạo hiểm giả theo bầy đàn. Một mạo hiểm giả Hạ Đồng Cấp lang thang một mình vào mê cung đó chẳng khác nào tự tìm đường chết. Trừ những lần được mời vào phút chót để lấp chỗ trống trong tổ đội của ai đó, tôi vẫn thích săn bắn ở Mê Cung Nguyệt Ảnh hơn nhiều.
 
 Nghĩ lại thì đó quả là một cuộc đời tương đối cô độc.
 
-Có rất nhiều lý do giải thích cho việc tôi thám hiểm một mình, nhưng lý do chính yếu lại rất đơn giản: chẳng mạo hiểm giả nào muốn chung đội với tôi. Xét cho cùng, tôi đã mắc kẹt ở chức vị Hạ Đồng Cấp ngót nghét mười năm. Ngay cả những mạo hiểm giả kém tài nhất cũng sẽ vươn lên cấp độ Trung Đồng Cấp hay Thượng Đồng Cấp trong khoảng thời gian dài dằng dặc dường ấy.
+Có rất nhiều lý do giải thích cho việc tôi thám hiểm một mình, nhưng lý do chính yếu lại rất đơn giản: chẳng mạo hiểm giả nào muốn chung đội với tôi. Xét cho cùng, tôi đã mắc kẹt ở cấp bậc Hạ Đồng Cấp ngót nghét mười năm. Ngay cả những mạo hiểm giả kém tài nhất cũng sẽ vươn lên cấp độ Trung Đồng Cấp hay Thượng Đồng Cấp trong khoảng thời gian dài dằng dặc dường ấy.
 
 —Nhưng rõ ràng điều đó lại không đúng với tôi.
 
@@ -64,13 +64,13 @@ Trong trường hợp của mình, tôi chẳng mấy bận tâm, bởi tôi đ�
 
 Kéo tâm trí quay về từ một dòng suy nghĩ miên man khác, tôi một lần nữa nhận thức được độ trong trẻo hiếm thấy của con Slime trước mắt. Dù hiện tại tôi là một Khô Lâu, và có thể còn đáng sợ hơn đối với người bình thường trong một số tình huống (chí ít là đáng sợ hơn một con Slime đang tiêu hóa dở bữa ăn của nó), nhưng cảm xúc của tôi vẫn vẹn nguyên là của con người.
 
-Tôi chẳng muốn ai nghĩ rằng mình tìm thấy bất kỳ niềm vui thích nào từ việc tiêu diệt một con Slime chứa đầy xác chết. Nhưng con Slime cụ thể này lại rất sạch, vô cùng sạch sẽ là đằng khác. Chất dịch của một con Slime mới tái sinh như thế này đáng giá một món tiền khá hời. Nếu người ta có thể tìm cách thu thập chất dịch của nó vào một vật chứa nào đó, nó có thể được bán cho Hội Mạo Hiểm Giả hoặc một giả kim thuật sư như một loại nguyên liệu quan trọng và quý hiếm. Ngay cả chất dịch của một con Slime không thuần khiết cũng có thể đun sôi và pha trộn với nhiều loại dược liệu để chế tạo độc dược hồi phục cơ bản, nên nó tuyệt nhiên không phải thứ nguyên liệu tồi tệ. Tuy nhiên, chất dịch của một con Slime thuần khiết và sạch sẽ lại có nhiều công dụng hơn hẳn, và do đó có thể bán được với giá cao hơn rất nhiều.
+Tôi chẳng muốn ai nghĩ rằng mình tìm thấy bất kỳ niềm vui thích nào từ việc tiêu diệt một con Slime chứa đầy xác chết. Nhưng con Slime cụ thể này lại rất sạch, vô cùng sạch sẽ là đằng khác. Chất dịch của một con Slime mới tái sinh như thế này đáng giá một món tiền khá hời. Nếu người ta có thể tìm cách thu thập chất dịch của nó vào một vật chứa nào đó, nó có thể được bán cho Hội Mạo Hiểm Giả hoặc một giả kim thuật sư như một loại nguyên liệu quan trọng và quý hiếm. Ngay cả chất dịch của một con Slime không thuần khiết cũng có thể đun sôi và pha trộn với nhiều loại dược liệu để chế tạo thuốc hồi phục cơ bản, nên nó tuyệt nhiên không phải thứ nguyên liệu tồi tệ. Tuy nhiên, chất dịch của một con Slime thuần khiết và sạch sẽ lại có nhiều công dụng hơn hẳn, và do đó có thể bán được với giá cao hơn rất nhiều.
 
 Dù giờ đây đã là một Khô Lâu, chiếc thắt lưng đựng dụng cụ tôi đeo khi còn sống vẫn còn gắn bên hông tôi. Trong chiếc thắt lưng đó có một bình chứa mà tôi đã chuẩn bị sẵn cho tình huống này, và tôi nhanh chóng quyết định rằng đó sẽ là hướng hành động mình sẽ làm sau khi đánh bại con Slime.
 
 Chầm chậm, và với những cử động trông hết sức đáng ngờ, tôi bắt đầu áp sát con Slime. Khi tôi làm vậy, con Slime như thể nhận ra tôi, nó run rẩy dữ dội rồi bắn ra thứ trông giống như một khối nước về hướng tôi.
 
-Đoán trước được đòn tấn công của nó, tôi né gọn sang một bên. Khối nước mà tôi vừa tránh được lập tức rơi xuống mặt đất, ngay lập tức bắt đầu ăn mòn đất đá. Chẳng mất bao lâu để một làn khói mỏng bốc lên từ mảng đất xấu số đó.
+Đoán trước được đòn tấn công của nó, tôi né gọn sang một bên. Khối nước mà tôi vừa tránh được lập tức rơi xuống mặt đất rồi bắt đầu ăn mòn đất đá. Chẳng mất bao lâu để một làn khói mỏng bốc lên từ mảng đất xấu số đó.
 
 Đây là một trong những đòn tấn công đặc trưng của Slime—Acid Blitz. Đúng như tên gọi của nó, Slime sản sinh ra một chất mang tính axit bên trong cơ thể, rồi bắn nó ra như một đòn tấn công tầm xa dạng đạn pháo. Bất cứ thứ gì bất hạnh trúng phải đòn tấn công đó đều sẽ bị hòa tan.
 
@@ -104,7 +104,7 @@ Quan trọng hơn, đó là chuyện về dịch thạch của Slime—loại ng
 
 Rút chiếc bình chứa từ thắt lưng dụng cụ ra, tôi cắm miệng bình vào cơ thể con Slime đang hấp hối, rót đầy ắp chất lỏng. Dù khi còn sống Slime bắn ra chất dịch axit cực mạnh như đòn Acid Blitz, nhưng kỳ lạ thay khi chết nó lại chẳng mang chút tính axit nào. Trên thực tế, những mạo hiểm giả có thói quen thọc tay vào xác Slime nhận thấy tay họ thường trở nên sạch sẽ và tươi tắn hơn. Nhân tiện nhắc tới chuyện đó, dịch cơ thể của Slime thường được dùng trong mỹ phẩm của phụ nữ. Quả thật, chất dịch Slime sạch thường được sử dụng cho chính mục đích này, bởi nó dường như sở hữu một số đặc tính dược liệu nhờ vào thành phần độc đáo của mình.
 
-Trong khi một loại nguyên liệu quý hiếm như vậy hoàn toàn có thể dễ dàng dùng để điều chế các cấp bậc độc dược hồi phục cao hơn, phần lớn chúng rốt cuộc lại được dùng làm mỹ phẩm. Tôi chợt nghĩ rằng khát khao mưu cầu cái đẹp của phái nữ dường như là một nỗ lực vô tận.
+Trong khi một loại nguyên liệu quý hiếm như vậy hoàn toàn có thể dễ dàng dùng để điều chế các loại thuốc hồi phục cao cấp hơn, phần lớn chúng rốt cuộc lại được dùng làm mỹ phẩm. Tôi chợt nghĩ rằng khát khao mưu cầu cái đẹp của phái nữ dường như là một nỗ lực vô tận.
 
 Liệu có thực sự cần thiết phải làm mỹ phẩm từ các bộ phận của quái vật đến thế không...?
 

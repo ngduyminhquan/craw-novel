@@ -32,7 +32,7 @@ Sau một thoáng, hiện tượng ấy dừng lại. Để cho chắc ăn, tôi
 
 Đúng như dự đoán, da thịt đã bám chặt vào các chi của tôi—những chi thể mà cho tới tận vừa rồi vẫn chỉ là những que xương trắng toát.
 
-Thế nhưng, lớp thịt này còn cách rất xa so với hình dáng của tôi hồi còn làm người. Trước hết, trông nó chẳng khác nào những mảng màu nâu mỏng tanh, khô khốc căng tràn trên những khúc xương trắng trước kia. Đã vậy, lớp thịt mới có này cũng chẳng che chắn khung xương cho kín kẽ—những mẩu xương trắng vẫn lốm đốm lộ ra dưới lớp màng nâu bao phủ.
+Thế nhưng, lớp thịt này còn cách rất xa so với hình dáng của tôi hồi còn làm người. Trước hết, trông nó chẳng khác nào những mảng màu nâu mỏng tanh, khô khốc bọc căng trên những khúc xương trắng trước kia. Đã vậy, lớp thịt mới có này cũng chẳng che chắn khung xương cho kín kẽ—những mẩu xương trắng vẫn lốm đốm lộ ra dưới lớp màng nâu bao phủ.
 
 Tôi cảm thấy mình như một đống xương bị dán bừa bãi vài miếng thịt lên trên. Nếu tôi mò lên khỏi mê cung trong hình hài này, lũ sói, chó và những loài tương tự chắc chắn sẽ coi tôi như một món ăn vặt ngon lành. Có khi tôi bị ăn thịt mất.
 
@@ -80,11 +80,11 @@ Tính đến nay, tôi mới chỉ sống hơn một ngày trong mê cung này. 
 
 Từ trước đến giờ, tôi luôn tiến vào mê cung vào ban ngày và trở về Maalt vào buổi tối để ăn uống. Thế rồi chưa kịp hiểu chuyện gì, tôi đã biến thành một con Khô Lâu, và chẳng thể nhìn thấy chút hy vọng le lói nào cho tương lai của mình. Cứ như thế, tôi miệt mài hạ sát quái vật trong mê cung—có lẽ việc tôi khao khát hơi ấm đồng loại cũng là lẽ tự nhiên mà thôi.
 
-Tôi muốn nói chuyện với một ai đó, bất kỳ ai cũng được. Nếu có một mạo hiểm giả ở đây, thì cứ thế mà làm thôi.
+Tôi muốn nói chuyện với một ai đó, bất kỳ ai cũng được. Nếu ở đây có một mạo hiểm giả, thì gặp mạo hiểm giả cũng chẳng sao.
 
 Dẫu vậy, tôi nhanh chóng lấy lại bình tĩnh sau cơn phấn khích. Do vẻ ngoài của mình, việc cố gắng bắt chuyện với một con người sẽ là một thử thách vô cùng cam go.
 
-Dù tôi không còn là một đống xương biết đi, nhưng Ngạ Quỷ thì vẫn cứ là... Ngạ Quỷ. Nếu tôi tiếp cận một mạo hiểm giả bằng cái thân xác khô cằn như thây ma này, họ chắc chắn sẽ hoảng hốt và rút kiếm thủ thế ngay lập tức; chuyện trò chuyện sẽ là thứ cuối cùng họ nghĩ tới.
+Dù tôi không còn là một đống xương biết đi, nhưng Ngạ Quỷ thì vẫn cứ là... Ngạ Quỷ. Nếu tôi tiếp cận một mạo hiểm giả bằng cái thân xác khô cằn như thây ma này, họ chắc chắn sẽ hoảng hốt và rút kiếm thủ thế ngay lập tức; việc trò chuyện sẽ là thứ cuối cùng họ nghĩ tới.
 
 Mặc dù kết quả của cuộc chạm trán có thể sẽ khác đôi chút nếu tôi là một chủng tộc quái vật có tri giác và trí tuệ, nhưng hiện tại tôi chỉ là một con Ngạ Quỷ. Triển vọng của tôi ở phương diện đó hết sức ảm đạm. Vì thế, tôi chọn cách lùi xa khỏi nguồn phát ra âm thanh và ẩn nấp, để không phải giáp mặt với mạo hiểm giả kia.
 

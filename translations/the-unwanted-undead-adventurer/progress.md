@@ -8,9 +8,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 1 |  | Chapter_001 - Vol 1 Prologue.txt | Vol 1 Prologue | reviewed |  |
 | 2 |  | Chapter_002 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (1).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (1) | reviewed |  |
 | 3 |  | Chapter_003 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (2) | reviewed |  |
-| 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | done |  |
-| 5 |  | Chapter_005 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4) | done |  |
-| 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | done |  |
+| 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | reviewed |  |
+| 5 |  | Chapter_005 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4) | reviewed |  |
+| 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | reviewed |  |
 | 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | todo |  |
 | 8 |  | Chapter_008 - Vol 1 Chapter 2 - Rina the Adventurer (3).txt | Vol 1 Chapter 2 - Rina the Adventurer (3) | todo |  |
 | 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | todo |  |

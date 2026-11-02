@@ -10,9 +10,9 @@ Có lẽ cũng nên nói thêm rằng tôi rất quen mặt các mạo hiểm gi
 
 Dù các mạo hiểm giả Thiết Cấp một ngày nào đó sẽ vượt qua tôi và chẳng qua chỉ được xem là những đối thủ cạnh tranh tiềm tàng, tôi vẫn luôn chủ động nhớ mặt và làm quen với họ—đơn giản vì đó là cách để tôi ngăn chặn dòng mạo hiểm giả bất tận chực chờ đem sự thiếu tài năng của tôi ra làm trò cười. Tôi luôn chú ý kết thân với họ ngay tại chỗ, đồng thời ghi nhớ địa vị xã hội cùng các mối quan hệ của họ trước khi đường ai nấy đi.
 
-Thật thú vị là dẫu hoàn toàn không có tài năng làm mạo hiểm giả, bù lại tôi được trời phú cho một trí nhớ tốt và sự khôn lanh từng trải, cho phép tôi dễ dàng đi trước một bước trước bất kỳ mạo hiểm giả Thiết Cấp nào có ý đồ mờ ám. Nhờ đó, sự khôn khéo của tôi thậm chí còn được các mạo hiểm giả cấp cao hơn ở Maalt biết đến, và hầu như chẳng ai thèm kiếm chuyện với tôi. Điều này có lẽ một phần cũng nhờ Maalt chủ yếu là nơi tụ hội của những mạo hiểm giả có nhân phẩm tốt.
+Thật thú vị là dẫu hoàn toàn không có tài năng làm mạo hiểm giả, bù lại tôi được trời phú cho một trí nhớ tốt và sự khôn lanh từng trải, cho phép tôi dễ dàng đi trước một bước đối với bất kỳ mạo hiểm giả Thiết Cấp nào có ý đồ mờ ám. Nhờ đó, sự khôn khéo của tôi thậm chí còn được các mạo hiểm giả cấp cao hơn ở Maalt biết đến, và hầu như chẳng ai thèm kiếm chuyện với tôi. Điều này có lẽ một phần cũng nhờ Maalt chủ yếu là nơi tụ hội của những mạo hiểm giả có nhân phẩm tốt.
 
-Ngoài ra, tôi cũng luôn chú ý uốn nắn đạo đức cho những mạo hiểm giả có tính khí xấu ngay từ khi họ mới vào nghề. Việc này mang lại hiệu quả lâu dài, dần dà tạo hiệu ứng lan tỏa giúp cải thiện nhân cách chung của giới mạo hiểm giả tại Maalt. Đó là một trong những lý do khiến Hội Mạo Hiểm Giả suốt bấy lâu nay chưa từng yêu cầu tôi gác kiếm, dù tôi đã dậm chân tại chỗ ở một trong những cấp bậc mạo hiểm giả thấp nhất gần cả thập kỷ.
+Ngoài ra, tôi cũng luôn chú ý uốn nắn đạo đức cho những mạo hiểm giả có tính khí xấu ngay từ khi họ mới vào nghề. Việc này mang lại hiệu quả lâu dài, dần dà tạo hiệu ứng lan tỏa giúp cải thiện nhân cách chung của giới mạo hiểm giả tại Maalt. Đó là một trong những lý do khiến Hội Mạo Hiểm Giả suốt bấy lâu nay chưa từng yêu cầu tôi gác kiếm, dù tôi đã giậm chân tại chỗ ở một trong những cấp bậc mạo hiểm giả thấp nhất gần cả thập kỷ.
 
 Nói một cách đơn giản, tôi khá giỏi mưu mẹo—tất nhiên là theo hướng tích cực.
 
@@ -40,7 +40,7 @@ Lưng cô gái giờ đã áp sát vào bức tường, và có vẻ như cô ch
 
 Tôi khẽ lắc đầu. Đây là cái bẫy thường gặp của những mạo hiểm giả không chịu quan sát kỹ môi trường xung quanh. Một nữ kiếm sĩ ở trình độ như cô rất cần không gian để di chuyển và vung kiếm. Nói cách khác, số phận của nữ mạo hiểm giả đã được định đoạt ngay khoảnh khắc cô bất cẩn tự dồn mình vào đường cùng.
 
-Như nhận ra điều này, con Khô Lâu đang giao chiến với cô liền tiến lên, háo hức giơ hai cánh tay xương xẩu ra hiệu chuẩn bị đánh cô bằng đôi tay trần.
+Như nhận ra điều này, con Khô Lâu đang giao chiến với cô liền tiến lên, háo hức giơ hai cánh tay xương xẩu làm bộ chực giáng đòn bằng đôi tay trần.
 
 Dù Khô Lâu không có vũ khí, nhưng xét cho cùng, nó vẫn là một con quái vật thực thụ. Nếu cú đánh đó trúng vào một mạo hiểm giả không có nhiều khả năng phòng ngự, người đó chắc chắn sẽ ngất xỉu. Thậm chí nếu đòn đánh trúng vào điểm hiểm, họ có thể bỏ mạng ngay lập tức. Khỏi phải nói, một người bình thường chẳng thể nào mong chịu đựng nổi một đòn như vậy.
 
@@ -60,7 +60,7 @@ Dẫu thể xác giờ đây là một con quái vật, trái tim tôi vẫn là
 
 Để đánh lạc hướng con Khô Lâu khỏi con mồi của nó, tôi lao ra khỏi góc khuất, gầm lên dữ dội hết mức có thể. Tôi không dám chắc liệu kế hoạch của mình có thành công hay không, bởi ngay từ đầu đây vốn là một canh bạc năm ăn năm thua, chủ yếu do hiện tại tôi là một Ngạ Quỷ.
 
-Không phải là chuyên gia về tập tính của quái vật, tôi chẳng rõ một con quái vật sẽ chú ý đến mức nào trước tiếng ồn lớn do một con khác tạo ra. Dẫu vậy, những quái vật tôi từng chiến đấu cho tới nay dường như đều nhận định tôi là kẻ thù, bởi chúng lập tức vào thế chiến đấu ngay khi vừa nhìn thấy tôi. Có lẽ có điều gì đó ở tôi khiến tôi khác biệt với lũ quái vật khác, và chính chúng cũng nhận thấy điều đó. Đó là lý do tôi làm vậy—nếu có gì xảy ra, kế hoạch của tôi hẳn phải có tỷ lệ thành công khá cao.
+Không phải là chuyên gia về tập tính của quái vật, tôi chẳng rõ một con quái vật sẽ chú ý đến mức nào trước tiếng ồn lớn do một con khác tạo ra. Dẫu vậy, những quái vật tôi từng chiến đấu cho tới nay dường như đều nhận định tôi là kẻ thù, bởi chúng lập tức vào thế chiến đấu ngay khi vừa nhìn thấy tôi. Có lẽ có điều gì đó ở tôi khiến tôi khác biệt với lũ quái vật khác, và chính chúng cũng nhận thấy điều đó. Đó là lý do tôi làm vậy—dù sao đi nữa, kế hoạch của tôi hẳn phải có tỷ lệ thành công khá cao.
 
 Chẳng mất nhiều thời gian để tôi nhận ra canh bạc của mình đã thắng lớn. Khựng lại giữa chừng đòn tấn công, con Khô Lâu quay phắt lại đối mặt với tôi, rồi lao vụt về phía tôi.
 
