@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T09:40:46Z",
+  "generatedAt": "2026-11-02T09:46:16Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2435,6 +2435,12 @@
           "title": "Chương 47: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_047.md",
           "sha": "1fcdf20354a432f02adcc150a2be6ed6ceaec74a"
+        },
+        {
+          "number": 48,
+          "title": "Chương 48: Tập 2 Chương 4 - Hoa Long Huyết (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_048.md",
+          "sha": "2ebd5e523843dcb90b916dd99fe8a9df6547b17b"
         }
       ]
     },

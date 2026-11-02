@@ -52,7 +52,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | reviewed |  |
 | 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | done |  |
 | 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | done |  |
-| 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | todo |  |
+| 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | done |  |
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | todo |  |
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | todo |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | todo |  |
@@ -348,8 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -455,3 +453,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#47] Dịch ma cụ gia truyền 'the Orb' của Làng Todds — tạm chọn 'Quả Cầu' (phương án khác: 'Ngọc Cầu', 'Khối Cầu Pha Lê'). Tạm dùng trong bản dịch: 'Quả Cầu'. → Giữ 'Quả Cầu' (chuẩn xác và tự nhiên) (orchestrator)
 - [#47] Xưng hô của Amiris với Rentt Faina — pronouns.md ghi Amiris xưng 'tôi' ở #46, nhưng từ nửa sau #46 và #47 Amiris xưng 'em' gọi 'anh / anh Rentt' khi được Rentt an ủi và cứu sống (nhỏ hơn Rentt gần 10 tuổi). Tạm dùng trong bản dịch: em - anh / anh Rentt. Đề xuất: chốt Amiris xưng 'em', gọi 'anh / anh Rentt' từ #47. → Chốt Amiris xưng 'em', gọi 'anh / anh Rentt' từ nửa sau #46 và #47 khi đã thân thiết và được cứu mạng (orchestrator)
 - [#47] Dịch vai trò 'Sacrificial Escort' trong Lễ Hội Dâng Tế — tạm chọn 'người áp giải tế vật' (phương án khác: 'người áp giải vật tế', 'lính áp giải'). Tạm dùng trong bản dịch: 'người áp giải tế vật'. → Giữ 'người áp giải tế vật' (sát nghĩa với vai trò trong Lễ Hội Dâng Tế) (orchestrator)
+- [#48] Dịch 'Dragon Blood Blossom' — tạm chọn 'Hoa Long Huyết' (phương án khác: 'Long Huyết Hoa'). → Giữ 'Hoa Long Huyết' (tự nhiên, phân biệt rõ với dịch tiết 'Long Hoa Huyết') (orchestrator)
+- [#48] Dịch 'Church of the Eastern Sky' — tạm chọn 'Giáo Hội Đông Thiên' (phương án khác: 'Giáo Hội Bầu Trời Phía Đông'). → Giữ 'Giáo Hội Đông Thiên' (chuẩn Hán Việt tôn giáo trang trọng) (orchestrator)
+- [#48] Dịch 'Second Orphanage of Maalt' — tạm chọn 'Cô Nhi Viện Thứ Hai Maalt' (phương án khác: 'Viện Mồ Côi Thứ Hai Maalt', 'Cô Nhi Viện Số 2 Maalt'). → Giữ 'Cô Nhi Viện Thứ Hai Maalt' (theo quy tắc địa danh và tổ chức trong rules.md) (orchestrator)

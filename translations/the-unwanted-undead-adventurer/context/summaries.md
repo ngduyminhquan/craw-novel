@@ -278,6 +278,12 @@ Rentt nhanh chóng khống chế toàn bộ băng nhóm, vạch trần chân tư
 Dân làng Todds mở hội ăn mừng và bầu không khí hân hoan trở lại; Rentt từ chối nhận công để tránh bị nghi ngờ thân phận rồi lên xe ngựa về Maalt sau khi được Amiris tặng một nụ hôn lên mặt nạ để cảm ơn.
 Trở về Maalt dùng bữa tối, Rentt bị Lorraine trêu chọc chuyện "hớp hồn thiếu nữ", anh điềm tĩnh chấp nhận thân phận Undead lang bạt và hy vọng hai anh em sẽ có một cuộc đời bình yên.
 
+## 48
+Rentt đến Hội Mạo Hiểm Giả tìm kiếm ủy thác thích hợp và chú ý đến một yêu cầu có thù lao chỉ vỏn vẹn một đồng đồng: thu thập đóa Hoa Long Huyết (loài hoa quý hiếm mang truyền thuyết tình yêu bi thương giữa thiếu nữ và Rồng).
+Sheila tiếp cận giải thích về truyền thống ủy thác thiện nguyện 1 đồng đồng của Hội và tiết lộ người gửi là các đứa trẻ tại Cô Nhi Viện Thứ Hai Maalt do Giáo Hội Đông Thiên quản lý; Rentt quyết định nhận ủy thác.
+Rentt tìm đến tòa nhà cô nhi viện xập xệ, lỡ tay giật gãy vòng gõ cửa rồi vội dùng chất dịch Slime gắn lại; anh gõ cửa công phu và được một cô bé khoảng 12 tuổi tóc ngắn, phong thái tao nhã ra mở cửa.
+Cô bé ban đầu ngỡ anh là kẻ đến đòi nợ và báo Lillian không có nhà, nhưng khi biết Rentt là mạo hiểm giả nhận ủy thác của viện thì niềm nở đón anh vào trong.
+
 
 
 
