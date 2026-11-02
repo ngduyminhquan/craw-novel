@@ -116,7 +116,7 @@ Bất chấp mọi sức mạnh và lợi thế mà trạng thái hiện tại m
 
 Nhưng hiển nhiên rồi, cái màn bắt người ta quỳ gối như với Sharl gần như là bất khả thi đối với người đi đường bình thường. Dẫu ở trong hoàn cảnh này, tôi vẫn cảm thấy tin chắc rằng Nive luôn có những phương thức khác để phóng ra ngọn lửa của mình.
 
-Tôi thoáng tự hỏi rốt cuộc mình đang làm cái trò gì vậy, lại đi cảm thán và suy nghĩ vẫn vơ trong một tình huống sinh tử như thế này. Tôi đang bốc cháy, bốc cháy ngùn ngụt. Những ngọn lửa trắng bập bùng liếm láp từng tấc thịt da trên cơ thể tôi. Toàn thân tôi lúc này đã bị bao trùm bởi ngọn lửa ấy, y hệt như những gì tôi vừa chứng kiến với Sharl ít phút trước.
+Tôi thoáng tự hỏi rốt cuộc mình đang làm cái trò gì vậy, lại đi cảm thán và suy nghĩ vẩn vơ trong một tình huống sinh tử như thế này. Tôi đang bốc cháy, bốc cháy ngùn ngụt. Những ngọn lửa trắng bập bùng liếm láp từng tấc thịt da trên cơ thể tôi. Toàn thân tôi lúc này đã bị bao trùm bởi ngọn lửa ấy, y hệt như những gì tôi vừa chứng kiến với Sharl ít phút trước.
 
 Liệu Nive có phát hiện ra tôi là một Ma Cà Rồng dựa vào năng lực này của cô không? Nhiều người chắc chắn sẽ gặp rắc rối lớn nếu sự thật đó bị phơi bày...
 

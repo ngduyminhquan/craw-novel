@@ -107,9 +107,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 100 |  | Chapter_100 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (7) | reviewed |  |
 | 101 |  | Chapter_101 - Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8).txt | Vol 4 Chapter 2 - Materials for My Disciple’s Weapon (8) | reviewed |  |
 | 102 |  | Chapter_102 - Vol 4 Chapter 3 - The Stheno Trading Company (1).txt | Vol 4 Chapter 3 - The Stheno Trading Company (1) | reviewed |  |
-| 103 |  | Chapter_103 - Vol 4 Chapter 3 - The Stheno Trading Company (2).txt | Vol 4 Chapter 3 - The Stheno Trading Company (2) | done |  |
-| 104 |  | Chapter_104 - Vol 4 Chapter 3 - The Stheno Trading Company (3).txt | Vol 4 Chapter 3 - The Stheno Trading Company (3) | done |  |
-| 105 |  | Chapter_105 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1) | done |  |
+| 103 |  | Chapter_103 - Vol 4 Chapter 3 - The Stheno Trading Company (2).txt | Vol 4 Chapter 3 - The Stheno Trading Company (2) | reviewed |  |
+| 104 |  | Chapter_104 - Vol 4 Chapter 3 - The Stheno Trading Company (3).txt | Vol 4 Chapter 3 - The Stheno Trading Company (3) | reviewed |  |
+| 105 |  | Chapter_105 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (1) | reviewed |  |
 | 106 |  | Chapter_106 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (2) | todo |  |
 | 107 |  | Chapter_107 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (3) | todo |  |
 | 108 |  | Chapter_108 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (4) | todo |  |

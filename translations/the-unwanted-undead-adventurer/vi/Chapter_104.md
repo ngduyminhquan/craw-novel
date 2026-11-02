@@ -164,7 +164,7 @@ Dù Nive đã phủ nhận, nhưng những lời bình phẩm của cô rõ ràn
 
 Nghĩ lại thì Giáo Hội Đông Thiên sống qua ngày chỉ bằng những mẩu bánh vụn và sự thanh đạm... Chà, giáo hội đó cũng có những người sử dụng Thần Lực hùng mạnh, bằng chứng cho thấy con người không phải lúc nào cũng có khuynh hướng thiên về điều ác.
 
-"Thử sao, Tiểu thư Nive? Ngài nói vậy chứ... chuyện đó thực sự khá đáng sợ đấy," tôi rụt rè nói.
+"Thử sao, Tiểu thư Nive? Cô nói vậy chứ... chuyện đó thực sự khá đáng sợ đấy," tôi rụt rè nói.
 
 Hàm ý đằng sau lời tôi nói rất đỗi đơn giản: Không đời nào! Đó là một ý tồi! Tôi sẽ rơi vào thế kẹt mất! Thế nhưng Nive dường như không hiểu điều này.
 
