@@ -87,7 +87,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 80 |  | Chapter_080 - Vol 3 Chapter 4 - Magecraft (4).txt | Vol 3 Chapter 4 - Magecraft (4) | reviewed |  |
 | 81 |  | Chapter_081 - Vol 3 Epilogue.txt | Vol 3 Epilogue | reviewed |  |
 | 82 |  | Chapter_082 - Vol 3 Bonus - Rentt and the Beauty Contest.txt | Vol 3 Bonus - Rentt and the Beauty Contest | done |  |
-| 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | todo |  |
+| 83 |  | Chapter_083 - Vol 3 Bonus - An Adventurer’s Worth.txt | Vol 3 Bonus - An Adventurer’s Worth | done |  |
 | 84 |  | Chapter_084 - Vol 3 Bonus - A Continued Dream.txt | Vol 3 Bonus - A Continued Dream | todo |  |
 | 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | todo |  |
 | 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | todo |  |
@@ -527,3 +527,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#81] Dịch các tên riêng và địa danh mới 'Holy Kingdom of Ars' ('Thánh Vương Quốc Ars'), 'Goddess Lobelia' ('Nữ Thần Lobelia'), 'Vansurt / Wind God' ('Vansurt / Phong Thần'), 'Fourostoroa' ('Fourostoroa') — tạm chọn dịch nghĩa chuẩn Hán Việt cho thần linh/quốc gia và giữ nguyên tên riêng theo rules.md (phương án khác: 'Thánh Quốc Ars', 'Thần Gió Vansurt'). Tạm dùng trong bản dịch: Thánh Vương Quốc Ars, Nữ Thần Lobelia, Phong Thần Vansurt, Fourostoroa. → Chốt 'Thánh Vương Quốc Ars', 'Nữ Thần Lobelia', 'Phong Thần', 'Vansurt', 'Fourostoroa' (orchestrator)
 - [#82] Dịch tiêu đề "Vol 3 Bonus - Rentt and the Beauty Contest" — tạm chọn "Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp" (đồng bộ format với #28). → Chốt 'Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp' (đồng bộ với Ngoại truyện Tập 1 và 2) (orchestrator)
 - [#82] Xưng hô Sheila gọi Lorraine — raw dùng "Miss Lorraine", tạm chọn "cô Lorraine" (thay vì "cô Vivie" ở #40) vì quan hệ đã thân thiết hƢn. → Chốt 'cô Lorraine' sát theo raw (orchestrator)
+- [#83] Dịch tiêu đề chương 'Vol 3 Bonus - An Adventurer’s Worth' — tạm chọn 'Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả' (đồng bộ format với #82; phương án khác: 'Ngoại truyện Tập 3 - Giá Trị Của Mạo Hiểm Giả'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả'. → Chốt 'Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả' (orchestrator)
+- [#83] Xưng hô giữa Lorraine Vivie và đứa trẻ dân làng — tạm chọn Lorraine xưng 'bọn ta / ta', gọi 'cháu / nhóc con', đứa trẻ xưng 'cháu', gọi 'hai người' (phù hợp người lớn mạo hiểm giả nói chuyện với đứa bé lạ ở nông thôn; phương án khác: Lorraine xưng 'cô' hoặc 'chị'). Tạm dùng trong bản dịch: bọn ta/ta - cháu/nhóc con. → Chốt Lorraine xưng 'bọn ta / ta', gọi 'cháu / nhóc con', đứa trẻ xưng 'cháu', gọi 'hai người' (orchestrator)

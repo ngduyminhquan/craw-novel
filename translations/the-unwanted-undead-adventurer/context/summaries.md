@@ -485,6 +485,13 @@ Sheila cầu cứu Rentt và Lorraine vì chủ tịch công đoàn nhân viên 
 Lorraine nhận lời kèm điều kiện bí mật bắt Rentt cùng giả gái tham gia; Rentt bị nẹp áo định hình corset và trang điểm công phu, bước ra sân khấu dưới tên giả Adeline Fran / Ren Ireed trong tiếng trêu chọc của Lorraine.
 Lorraine giành giải nhất và Rentt cũng lọt vào vòng chung kết mà không bị ai phát hiện thân phận; trên đường về, Rentt dứt khoát từ chối lời rủ rê tiếp tục giả gái của Lorraine và cầu nguyện không bao giờ phải trải qua tình cảnh này thêm lần nào nữa.
 
+## 83
+Một đứa trẻ tại một ngôi làng hẻo lánh hồi tưởng lại mùa xuân năm xưa khi bầy Goblin nhắm vào kho lương thực khiến dân làng lâm nguy, và trưởng làng phải lên thành phố thuê mạo hiểm giả tới ứng cứu.
+Rentt Faina cùng Lorraine Vivie nhận lời ủy thác, nhiệt tình giải thích dấu vết cho đứa trẻ rồi nhanh chóng tiến vào rừng tiêu diệt trọn ổ 20 con Goblin chỉ trong chưa đầy mười phút, cứu nguy cho cả ngôi làng.
+Dù trưởng làng cảm kích thưởng thêm và mở tiệc thết đãi, trên đường về Rentt tiết lộ rằng trưởng làng vốn khai gian số lượng quái vật để ép giá thuê rẻ hơn; Rentt và Lorraine đã cảnh cáo trưởng làng không được tái phạm để tránh mang họa diệt vong cho làng.
+Hiểu được sự non nớt của tân trưởng làng và nguy cơ diệt vong của các làng quê hẻo lánh trước quái vật, Rentt chấp nhận coi chuyến đi như một lần làm việc thiện nửa vời kiêm chuyện bao đồng nhưng cần thiết, rồi cả hai thong thả trở về Maalt.
+
+
 
 
 
