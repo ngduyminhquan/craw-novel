@@ -27,5 +27,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Rentt Faina | tôi | anh / Rentt | 13 | Bạn thân 10 năm, tự nhiên, thân thiết |
 | Rentt Faina | Sheila Ibarss | tôi | cô Sheila | 9 | Giao tiếp lịch sự với nhân viên hội phụ trách mình |
 | Sheila Ibarss | Rentt Faina | tôi | anh Rentt | 9 | Tôn trọng và quý mến mạo hiểm giả kỳ cựu |
+| Rina Rupaage | Sheila Ibarss | tôi | chị / cô | 9 | Tân binh lễ phép với tiếp tân viên Hội |
+| Sheila Ibarss | Rina Rupaage | tôi | cô / cô Rina | 9 | Nhân viên Hội giao tiếp chuẩn mực với mạo hiểm giả |
 | Rentt Faina | Luka | tôi | bà chủ / cô | 15 | Khách hàng giao tiếp lịch sự |
 | Luka | Rentt Faina | tôi | quý khách | 15 | Tiếp đón khách hàng chuyên nghiệp, tôn trọng |

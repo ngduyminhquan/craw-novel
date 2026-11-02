@@ -52,7 +52,7 @@ Dù Rina chưa từng chạm trán nhiều quái vật trong sự nghiệp mạo
 
 Có một vài chủng loại quái vật đặc thù khác nhau, bao gồm "quái vật hiếm có tên" và "quái vật hiếm". Đúng như tên gọi, chúng quả thực cực kỳ hiếm hoi và thông thường hoàn toàn không xuất hiện trong mê cung. Chúng cũng sở hữu những đặc điểm độc nhất vô nhị. Tệ hơn nữa, trong hầu hết các trường hợp, những quái vật như vậy mạnh hơn rất nhiều so với đồng loại thông thường của chúng. Nếu không chuẩn bị đầy đủ, người ta rất dễ phải bỏ mạng.
 
-Do đó, con Ngạ Quỷ xuất hiện trước mặt Rina dường như mang những đặc điểm mà hầu hết quái vật đặc thù đều sở hữu. Trong khi các đặc điểm diện mạo của nó đã nói lên điều đó, thì bầu khí tràng tỏa ra từ thực thể của nó lại là một dấu hiệu còn rõ ràng hơn.
+Do đó, con Ngạ Quỷ xuất hiện trước mặt Rina dường như mang những đặc điểm mà hầu hết quái vật đặc thù đều sở hữu. Trong khi các đặc điểm diện mạo của nó đã nói lên điều đó, thì luồng khí tức tỏa ra từ cơ thể nó lại là một dấu hiệu còn rõ ràng hơn.
 
 Nguy to rồi...
 

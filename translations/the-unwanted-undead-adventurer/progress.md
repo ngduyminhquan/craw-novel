@@ -11,9 +11,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | reviewed |  |
 | 5 |  | Chapter_005 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4) | reviewed |  |
 | 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | reviewed |  |
-| 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | done |  |
-| 8 |  | Chapter_008 - Vol 1 Chapter 2 - Rina the Adventurer (3).txt | Vol 1 Chapter 2 - Rina the Adventurer (3) | done |  |
-| 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | done |  |
+| 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | reviewed |  |
+| 8 |  | Chapter_008 - Vol 1 Chapter 2 - Rina the Adventurer (3).txt | Vol 1 Chapter 2 - Rina the Adventurer (3) | reviewed |  |
+| 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | reviewed |  |
 | 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | todo |  |
 | 11 |  | Chapter_011 - Vol 1 Chapter 2 - Rina the Adventurer (6).txt | Vol 1 Chapter 2 - Rina the Adventurer (6) | todo |  |
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | todo |  |
@@ -377,3 +377,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#8] Dịch phân loại 'rare named monsters' và 'rare monsters' — tạm dịch 'quái vật hiếm có tên' và 'quái vật hiếm' (phương án khác: 'Quái vật có tên hiếm', 'quái vật hiếm có định danh'). → Chốt 'quái vật hiếm có tên' và 'quái vật hiếm' (orchestrator)
 - [#9] Dịch câu tưởng tượng ngọng nghịu của Rentt khi làm Ngạ Quỷ đến Hội 'Ay... Adven... Turer. Rev... Revis... Ter... Me!' — tạm dịch 'T... Mạo... Hiểm giả. Đăng... Đăng... Ký... Cho... Tôi!' để người đọc cảm nhận trọn vẹn tình huống hài hước kinh dị (phương án khác: giữ nguyên thô tiếng Anh 'Ay... Adven... Turer. Rev... Revis... Ter... Me!' theo tiền lệ #5/#7). → Chốt dịch sang tiếng Việt ngọng/lắp ('T... Mạo... Hiểm giả. Đăng... Đăng... Ký... Cho... Tôi!') vì đây là câu có nghĩa trọn vẹn làm điểm nhấn hài hước, không có câu giải thích lại phía sau (orchestrator)
 - [#9] Dịch chức danh 'Guild Master' (adventurer's guild master) — tạm chọn 'Hội Trưởng' theo chuẩn Hán Việt chức nghiệp trong rules.md và thêm vào glossary (phương án khác: 'Chủ Hội', 'Hội Trưởng Hội Mạo Hiểm Giả'). → Chốt 'Hội Trưởng' theo chuẩn chức danh Hán Việt trong rules.md (orchestrator)
+- [#9] Đoạn 2 chương 9: Diễn đạt thời gian Sheila gắn bó với Rentt → Sửa thành "cô lại là người đã đồng hành cùng Rentt suốt chừng ấy năm" (orchestrator)
+- [#9] Xưng hô Rina Rupaage và Sheila Ibarss → Rina gọi Sheila là 'chị / cô', xưng 'tôi'; Sheila gọi Rina là 'cô / cô Rina', xưng 'tôi' (orchestrator)
+- [#8] Đưa 'spotter', 'rare named monster', 'rare monster' vào glossary.md → Bác bỏ, không đưa vào glossary do là danh từ chung / cụm miêu tả viết thường (orchestrator)

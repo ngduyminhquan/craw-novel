@@ -2,7 +2,7 @@
 
 Rentt Faina đã không trở về. Sheila Ibarss, một nhân viên của Hội Mạo Hiểm Giả Maalt, cảm thấy điều này hết sức bất thường.
 
-Dù Sheila mới làm việc tại hội được năm năm và vẫn là một hậu bối so với các đồng nghiệp của mình, cô đã quen biết Rentt từ rất lâu trước đó. Rentt chính là mạo hiểm giả đầu tiên cô gặp khi mới bắt đầu làm việc tại hội. Dù khi ấy Rentt còn trẻ hơn bây giờ, một mạo hiểm giả tuổi vừa đôi mươi, anh đã có thâm niên năm năm trong nghề; dẫu vậy, anh vẫn chỉ là một mạo hiểm giả Hạ Đồng Cấp. Có thể thấy rõ mồn một rằng Rentt không hẳn là người sinh ra để làm công việc này.
+Dù Sheila mới chỉ làm việc ở hội được năm năm và vẫn là hậu bối so với các đồng nghiệp, cô lại là người đã đồng hành cùng Rentt suốt chừng ấy năm. Rentt chính là mạo hiểm giả đầu tiên cô gặp khi mới bắt đầu làm việc tại hội. Dù khi ấy Rentt còn trẻ hơn bây giờ, một mạo hiểm giả tuổi vừa đôi mươi, anh đã có thâm niên năm năm trong nghề; dẫu vậy, anh vẫn chỉ là một mạo hiểm giả Hạ Đồng Cấp. Có thể thấy rõ mồn một rằng Rentt không hẳn là người sinh ra để làm công việc này.
 
 Đa số mạo hiểm giả không đáp ứng được yêu cầu đều bằng lòng từ bỏ nghiệp mạo hiểm chỉ sau vài năm. Họ sẽ trở về quê nhà hoặc tìm kiếm kế sinh nhai khác sau khi nhận ra mình hoàn toàn thiếu thốn tài năng lẫn thiên phú để làm mạo hiểm giả. Dù nghe có vẻ như vậy, đó chẳng phải là chuyện đáng xấu hổ, và có một số lượng không nhỏ mạo hiểm giả đã đưa ra lựa chọn như thế.
 
@@ -44,7 +44,7 @@ Nhưng Rentt không khao khát trở thành một nhân vật như thế vì dan
 
 Vì việc mạo hiểm và chiến đấu đơn độc là cách nhanh nhất để rèn giũa thực lực bản thân, Rentt đã làm đúng như vậy. Các mạo hiểm giả khác, đổi lại, đều tránh lập đội với Rentt ngoại trừ những tình huống khẩn cấp. Những mạo hiểm giả khác ở Maalt làm điều này là vì nghĩ cho Rentt, bởi họ biết rõ giấc mơ của anh. Dẫu điều đó có vẻ bất khả thi đến mức nào, họ cũng chẳng muốn coi thường hành trình theo đuổi sức mạnh của Rentt—ngay cả khi sự thật đã rõ rành rành trước mắt mọi người.
 
-Rentt, nếu dùng từ ngữ chính xác hơn thì, rất yếu. Vì thế, các mạo hiểm giả địa phương khác đều hiểu rằng sớm muộn gì thần chết cũng sẽ gõ cửa nhà anh. Nhưng Sheila cùng các mạo hiểm giả khác lại nghĩ rằng khả năng này tương đối thấp. Dẫu vậy, cuối cùng họ vẫn để mặc Rentt làm theo ý mình, không hé răng nửa lời khi anh tiếp tục hành trình đơn độc ấy.
+Nói một cách trần trụi thì, Rentt rất yếu. Vì thế, các mạo hiểm giả địa phương khác đều hiểu rằng sớm muộn gì thần chết cũng sẽ gõ cửa nhà anh. Nhưng Sheila cùng các mạo hiểm giả khác lại nghĩ rằng khả năng này tương đối thấp. Dẫu vậy, cuối cùng họ vẫn để mặc Rentt làm theo ý mình, không hé răng nửa lời khi anh tiếp tục hành trình đơn độc ấy.
 
 Dù Rentt là một mạo hiểm giả Đồng Cấp và chỉ sở hữu sức mạnh của một Đồng Cấp, nhưng kiến thức cùng kinh nghiệm mạo hiểm của anh thừa sức sánh ngang với những tay cựu binh dày dạn sương gió. Ngay cả khi chẳng may phải đối mặt với kẻ địch nguy hiểm, anh chắc chắn vẫn sẽ giữ được bình tĩnh và đưa ra những quyết định chuẩn xác—chí ít, đó là những gì các mạo hiểm giả khác ở Maalt nghĩ về Rentt.
 
@@ -62,7 +62,7 @@ Rentt Faina—
 
 Xin anh, hãy bình an vô sự—đó là những lời cầu nguyện thầm lặng không ai nghe thấy của Sheila khi cô tiếp tục công việc thường nhật tại hội.
 
-“Dạ...”
+"Dạ..."
 
 Tiếng gọi của một cô gái trẻ kéo Sheila ra khỏi dòng suy nghĩ miên man. Ngẩng đầu lên, cô nhận ra chủ nhân của giọng nói quả thực là một thiếu nữ—và lại là một người trông khá quen mặt.
 
@@ -98,15 +98,15 @@ Liệu quái vật có thể làm mạo hiểm giả được không?
 
 Cùng với đó, một câu hỏi khác lại trỗi dậy từ sâu thẳm tâm trí tôi. Có lẽ là được—đó là câu trả lời tôi tự đưa ra cho mình, như thể đó là một dạng thường thức hiển nhiên.
 
-Thế nhưng, hiện thực lại chẳng chiều lòng người. Tôi suy ngẫm thêm về tình huống này. Chẳng hạn, nếu một ngày nọ có một con Ngạ Quỷ bỗng nhiên xuất hiện tại Hội Mạo Hiểm Giả, rồi thong dong tiến lại quầy tiếp tân, chìa bàn tay thối rữa một nửa ra trong khi cất lên giọng nói the thé nửa gầm gừ...
+Thế nhưng, hiện thực lại chẳng chiều lòng người. Tôi suy ngẫm thêm về tình huống này. Chẳng hạn, nếu một ngày nọ có một con Ngạ Quỷ bỗng nhiên xuất hiện tại Hội Mạo Hiểm Giả, rồi thong dong tiến lại quầy tiếp tân, chìa bàn tay thối rữa một nửa ra trong khi cất lên giọng nói khàn đặc nửa gầm gừ...
 
-“T... Mạo... Hiểm giả. Đăng... Đăng... Ký... Cho... Tôi!”
+"T... Mạo... Hiểm giả. Đăng... Đăng... Ký... Cho... Tôi!"
 
 Cảnh tượng đó chẳng khác nào bước ra từ một câu chuyện kinh dị.
 
 Cô tiếp tân chắc chắn sẽ cự tuyệt. Thêm vào đó, cô ấy sẽ lập tức bấm nút báo động khẩn cấp dưới gầm bàn, tức tốc triệu tập các mạo hiểm giả hùng mạnh quanh khu vực, hoặc thậm chí là đích thân Hội Trưởng. Và cứ như thế, con Ngạ Quỷ sẽ bị tiêu diệt—mọi chuyện coi như chấm dứt.
 
-Dẫu nói là vậy, nhưng... tôi chưa từng mảy may nghĩ đến việc mình có thể không thể tiếp tục làm mạo hiểm giả nữa—chí ít là cho đến tận lúc này.
+Dẫu nói là vậy, nhưng... tôi chưa từng mảy may nghĩ đến việc mình sẽ không thể tiếp tục làm mạo hiểm giả nữa—chí ít là cho đến tận lúc này.
 
 Tôi nghĩ mình nên ngừng suy nghĩ vẩn vơ. Quan trọng hơn, tôi phải tính xem mình sẽ tiếp tục sống thế nào từ nay về sau, bởi tôi vẫn còn một giấc mơ cần hoàn thành: trở thành mạo hiểm giả Mithril Cấp.
 
@@ -124,7 +124,7 @@ Trên thực tế, màu da của tôi dường như còn trở nên tệ hại h
 
 Không. Đó chỉ là ảo tưởng hão huyền.
 
-Tôi, Rentt Faina, không hẳn nổi danh nhờ năng lực mạo hiểm xuất chúng—nhưng khuôn mặt tôi lại là thứ được nhiều người biết đến, bất chấp danh tiếng “Đồng Cấp Ngàn Năm” của mình. Tôi nổi tiếng, hay đúng hơn là tai tiếng, vì thói lì lợm không chịu bỏ cuộc trong mọi nỗ lực, và kết quả là tôi được khắp cả thị trấn Maalt nhẵn mặt.
+Tôi, Rentt Faina, không hẳn nổi danh nhờ năng lực mạo hiểm xuất chúng—nhưng khuôn mặt tôi lại là thứ được nhiều người biết đến, bất chấp danh tiếng "Đồng Cấp Ngàn Năm" của mình. Tôi nổi tiếng, hay đúng hơn là tai tiếng, vì thói lì lợm không chịu bỏ cuộc trong mọi nỗ lực, và kết quả là tôi được khắp cả thị trấn Maalt nhẵn mặt.
 
 Nói cách khác, hơn một nửa số người ở Hội Mạo Hiểm Giả Maalt đều biết rõ diện mạo của tôi khi còn sống. Nếu tôi đột ngột xuất hiện với đôi tay trong tình trạng này, chắc chắn tôi sẽ bị tra hỏi vô số điều.
 
@@ -144,6 +144,6 @@ Vấn đề duy nhất ở đây là diện mạo của tôi. Nếu tôi có th�
 
 Một giọng nói quen thuộc chẳng mấy chốc đã kéo tôi ra khỏi vô vàn nỗi lo toan và trăn trở ấy.
 
-“...Rentt! ...Anh Rentt! Anh có ở đó không? Đâu đó quanh đây chăng?!”
+"...Rentt! ...Anh Rentt! Anh có ở đó không? Đâu đó quanh đây chăng?!"
 
 Giọng nói đó không thuộc về ai khác ngoài Rina Rupaage, cô gái mà tôi đã nhờ đi mua quần áo giúp mình.
