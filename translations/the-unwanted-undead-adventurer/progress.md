@@ -125,9 +125,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | reviewed |  |
 | 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | reviewed |  |
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | reviewed |  |
-| 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | done |  |
-| 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | done |  |
-| 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | done |  |
+| 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | reviewed |  |
+| 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | reviewed |  |
+| 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | reviewed |  |
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | todo |  |
 | 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | todo |  |
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | todo |  |
@@ -630,3 +630,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#122] Dịch cấp bậc 'Legendary-class' (trong 'Legendary-class artisan') — tạm chọn 'Truyền Thuyết Cấp' (đồng bộ với các cấp bậc -class khác: Thiết Cấp, Đồng Cấp, Bạch Kim Cấp, Mithril Cấp; phương án khác: 'cấp Truyền Thuyết', 'Huyền Thoại Cấp'). → Chốt dùng 'Truyền Thuyết Cấp' (đồng bộ với hệ thống hậu tố -class đã dùng trong truyện). (orchestrator)
 - [#123] Thần chú ma thuật sinh hoạt hệ hỏa 'Aliumage' là biến thể phiên âm của 'Aryumage' (#78) do raw đổi translator — tạm giữ nguyên 'Aliumage' theo raw để khớp câu xướng niệm (đề xuất: giữ 'Aliumage' hoặc chuẩn hóa về 'Aryumage'). → Chốt giữ nguyên 'Aliumage' theo đúng quy tắc giữ nguyên phiên âm tên câu thần chú trong raw (rules.md). (orchestrator)
 - [#123] 'Lelmudan Empire' trong raw chỉ quê hương của Lorraine — tạm dịch 'Đế Quốc Rermutt' và thêm vào Alias của 'Empire of Rermutt' (#99) vì cùng tên gốc tiếng Nhật レルムット. → Chốt đồng nhất thành 'Đế Quốc Rermutt' và thêm 'Lelmudan Empire; Lelmudan' vào Alias của 'Empire of Rermutt' trong glossary.md. (orchestrator)
+- [#122] Xác nhận sửa 'anh ta' thành 'anh ấy' ở lời thoại của Lorraine (đoạn 57) → Chốt sửa thành 'anh ấy' theo quy tắc cứng (#77) trong rules.md. (orchestrator)
+- [#123] Xác nhận di chuyển vị trí dòng ảnh ch123-01.webp lên trước đoạn 9 → Chốt chuyển dòng ảnh lên giữa đoạn 8 và đoạn 9 đúng nguyên tác raw. (orchestrator)
+- [#123] Xác nhận chuẩn hóa 'tinh linh hệ thực vật' ở đoạn 77 → Chốt sửa đoạn 77 thành 'thần tinh linh hệ thực vật' để nhất quán với đoạn 76 trước đó. (orchestrator)

@@ -66,11 +66,11 @@ Tôi thấy hơi bực bội vì bao nhiêu công sức mình đã bỏ ra, như
 
 Lorraine bật cười. "Chà, câu hỏi hay đấy. Tôi chỉ đùa chút thôi," cô đáp.
 
-"Phần đó rất quan trọng. Khi thị phạm tôi đã làm mọi thứ cùng một lúc, nhưng việc gắn kết Ma Tinh với đũa phép thực ra gồm nhiều bước. Lát nữa hai người mới làm đến phần đó. Trước hết, hai người cần phải dẫn một đường ma lực xuyên suốt cây đũa phép."
+"Phần đó rất quan trọng. Khi thị phạm tôi đã làm mọi thứ cùng một lúc, nhưng việc gắn kết Ma Tinh với đũa phép thực ra gồm nhiều bước. Lát nữa hai người mới làm đến phần đó. Trước hết, hai người cần phải dẫn một đường Ma Lực xuyên suốt cây đũa phép."
 
 "Thế nghĩa là sao ạ?" Alize hỏi.
 
-"Đúng như câu chữ của nó thôi. Em tạo ra một con đường để Ma Lực chạy qua đũa phép. Ma Lực thực ra vẫn có thể chạy qua dù không làm thế, nhưng cách này sẽ giúp nó lưu thông hiệu quả hơn nhiều. Việc này bao gồm việc hợp nhất vô số những đường dẫn ma lực quanh co vốn đã tồn tại trong đũa phép thành một lối đi lớn và thẳng thớm duy nhất."
+"Đúng như câu chữ của nó thôi. Em tạo ra một con đường để Ma Lực chạy qua đũa phép. Ma Lực thực ra vẫn có thể chạy qua dù không làm thế, nhưng cách này sẽ giúp nó lưu thông hiệu quả hơn nhiều. Việc này bao gồm việc hợp nhất vô số những đường dẫn Ma Lực quanh co vốn đã tồn tại trong đũa phép thành một lối đi lớn và thẳng thớm duy nhất."
 
 Tôi hiểu phần lớn những gì cô đang nói, nhưng tôi chẳng biết phải làm việc đó như thế nào. Alize hẳn cũng cảm thấy tương tự vì trông cô bé có vẻ bối rối.
 
@@ -80,7 +80,7 @@ Tôi hiểu phần lớn những gì cô đang nói, nhưng tôi chẳng biết 
 
 Tôi và Alize làm theo lời dặn. Tôi cảm nhận được Ma Lực phân tách khi nó đi lên qua thân đũa phép. Giống như dòng nước chảy qua vô số nhánh rẽ, nó di chuyển theo các hướng khác biệt. Tôi đã hiểu ý Lorraine khi bảo cách này kém hiệu quả. Alize dường như cũng hiểu ra điều đó.
 
-"Đây là những đường dẫn ma lực phải không cô?" cô bé hỏi Lorraine.
+"Đây là những đường dẫn Ma Lực phải không cô?" cô bé hỏi Lorraine.
 
 "Đúng vậy, nhưng như em hẳn đã nhận thấy, việc chỉ đơn thuần tạo hình nguyên liệu thành đũa phép đã khiến các đường dẫn bị kéo giãn và uốn cong một cách hỗn loạn. Nếu làm ra một cây đũa phép như thế này thì nó cũng chẳng hơn một khúc củi là bao. Chúng ta tránh điều đó bằng cách gom những đường dẫn lộn xộn ấy lại và nắn thẳng chúng ra. Việc này được thực hiện tương tự như cách em tạo hình đũa phép, bằng cách để Ma Lực chảy từ đầu này sang đầu kia của đũa phép trong khi em gom các đường dẫn lại với nhau. Em có làm được không?"
 
@@ -106,13 +106,13 @@ Mặt khác, sau lời động viên ấy, tôi lại thắc mắc một điều
 
 "Nổi trận lôi đình. Đáng sợ đến mức tôi chẳng muốn nhớ lại chút nào," cô thì thầm vào tai tôi. Rồi cô khẽ rùng mình.
 
-Tôi tự hỏi người thầy thế nào mới có thể khiến Lorraine nói ra những lời như vậy, nhưng cũng giống như tôi, Lorraine chẳng mấy khi nhắc đến quá khứ của mình trước khi tới Maalt. Tôi quyết định không gặng hỏi thêm nữa. Sau đó, tôi và Alize đã hoàn thành việc định hình các đường dẫn ma lực của mình.
+Tôi tự hỏi người thầy thế nào mới có thể khiến Lorraine nói ra những lời như vậy, nhưng cũng giống như tôi, Lorraine chẳng mấy khi nhắc đến quá khứ của mình trước khi tới Maalt. Tôi quyết định không gặng hỏi thêm nữa. Sau đó, tôi và Alize đã hoàn thành việc định hình các đường dẫn Ma Lực của mình.
 
 "Được rồi, tốt lắm," Lorraine nói sau khi truyền Ma Lực qua đũa phép của hai chúng tôi để kiểm tra. "Cả hai đều làm rất tốt cho lần đầu tiên. Alize, em đã nắn thẳng các đường dẫn đúng như hướng dẫn, còn Rentt, lúc nào anh cũng khéo léo đến phát ngán trong mấy việc tỉ mỉ thế này. Chẳng có chỗ nào để chê trách được cả."
 
 "Cho em xem đũa phép của anh Rentt với ạ!" Alize tò mò đòi xem. Cô bé mượn cây đũa phép của tôi rồi truyền Ma Lực qua nó. "Oa, cái gì thế này? Chẳng giống của em chút nào cả," cô bé thốt lên với vẻ kinh ngạc tột độ.
 
-"Ừ thì em thấy thế thật, nhưng đừng để chuyện đó làm em nản lòng nhé," Lorraine cất lời để cổ vũ cô bé. "Nhìn mấy bức tượng gỗ anh ta vừa tạc là em phải hiểu Rentt khéo tay một cách dị thường rồi. Ngay cả tôi cũng chẳng làm được như vậy đâu. Đến cả việc định hình các đường dẫn tỉ mỉ đến mức này cũng là cả một thử thách rồi."
+"Ừ thì em thấy thế thật, nhưng đừng để chuyện đó làm em nản lòng nhé," Lorraine cất lời để cổ vũ cô bé. "Nhìn mấy bức tượng gỗ anh ấy vừa tạc là em phải hiểu Rentt khéo tay một cách dị thường rồi. Ngay cả tôi cũng chẳng làm được như vậy đâu. Đến cả việc định hình các đường dẫn tỉ mỉ đến mức này cũng là cả một thử thách rồi."
 
 "Đối với cô mà cũng khó sao, thưa Học Sĩ Lorraine?" Alize sửng sốt hỏi.
 

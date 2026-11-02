@@ -6,7 +6,7 @@ Alize chọn khúc gỗ từ một con Ent Bụi Cây bạch dương cùng viên
 
 "Viên này trông đẹp hơn nên em muốn lấy viên này ạ," cô bé nói rồi nhặt viên Ma Tinh của Goblin Mỏ Quặng lên. Nó có màu xanh lam tuyệt đẹp và bắt mắt, nhưng phẩm chất chỉ ở mức trung bình. Trái lại, Ma Tinh của Terra Drake có màu đỏ tươi và thuộc hàng chất lượng cao. Nó chẳng thể nào sánh được với Ma Tinh của Tarasque, nhưng trong số những thứ hiện có thì của Terra Drake là tốt nhất.
 
-Lorraine dường như đọc thấu được suy nghĩ của tôi. "Chúng ta đâu phải đang chế tạo cây đũa phép tối thượng ở đây. Đây là cây đầu tiên của con bé, cứ để em ấy làm thứ mình thích đi. Làm vậy thì tỷ lệ thành công sẽ cao hơn. Chẳng việc gì phải ép con bé dùng thứ tốt hơn cả," Lorraine nói.
+Lorraine dường như đọc thấu được suy nghĩ của tôi. "Chúng ta đâu phải đang chế tạo cây đũa phép tối thượng ở đây. Đây là cây đầu tiên của con bé, cứ để con bé làm thứ mình thích đi. Làm vậy thì tỷ lệ thành công sẽ cao hơn. Chẳng việc gì phải ép con bé dùng thứ tốt hơn cả," Lorraine nói.
 
 Nếu vậy thì tôi cho là thế cũng ổn. Dù sao thì Ma Tinh của Terra Drake cũng là thứ tôi ưng ý nhất trong đống này, và tôi cũng thích khúc gỗ mun nữa.
 
@@ -54,7 +54,7 @@ Sau đó, Lorraine thi triển Linpio lên người cô bé rồi mang lọ mự
 
 Tôi đã thành công truyền Ma Lực vào cọ vẽ ngay từ lần thử đầu tiên, nhưng với Alize thì đó là cả một sự chật vật. Dù vậy, cô bé đã làm chuẩn xác chỉ sau khoảng một giờ đồng hồ. Tài năng của em thật đáng ghen tị. Hồi trước tôi phải mất nhiều thời gian hơn thế nhiều mới học được kỹ năng này. Ma Lực bên trong cơ thể thì khá dễ thao túng một khi người ta đã nhận thức được nó, nhưng giải phóng nó ra ngoài cơ thể lại đòi hỏi những cảm nhận rất khác biệt. Tôi xoay xở nắm bắt được việc đó sau khoảng một tuần, còn lâu mới nhanh bằng Alize.
 
-"Vậy thì chúng ta chuyển sang bước vẽ ma pháp trận nhé. Mọi người phải duy trì Ma Lực trong cọ vẽ, nên việc này đòi hỏi sự tập trung nhất định đấy. Chúc hai người may mắn," Lorraine nói.
+"Vậy thì chúng ta chuyển sang bước vẽ ma pháp trận nhé. Hai người phải duy trì Ma Lực trong cọ vẽ, nên việc này đòi hỏi sự tập trung nhất định đấy. Chúc hai người may mắn," Lorraine nói.
 
 Tôi và Alize bắt tay vào việc. Duy trì Ma Lực trong cọ đối với tôi tự nhiên như hơi thở, nên tôi chẳng cần phải tập trung cao độ đến thế, nhưng Alize thì đang phải gắng hết sức mình. Cô bé có thể làm được, nhưng sự chật vật ấy cho thấy em vẫn còn nhiều điều phải học hỏi. Nếu em đạt đến trình độ của tôi chỉ trong một ngày, chắc tôi chẳng còn mặt mũi nào mà nhìn ai nữa. Dẫu vậy, nếu điều đó thực sự xảy ra thì cũng chỉ chứng tỏ thiên phú của Alize phi thường đến mức nào, nên tôi cũng chẳng thể phàn nàn gì được.
 
@@ -108,7 +108,7 @@ Tôi làm theo chỉ dẫn của Lorraine và đặt viên Ma Tinh lên tấm b�
 
 Cô chuyển chủ đề sang tôi. "Vậy còn của anh thì sao?"
 
-"À thì, ừm..." Tôi ấp úng. Tôi chẳng muốn thừa nhận mình đang cảm thấy xấu hổ, nhưng đúng là như vậy thật. Dẫu tôi dám thề rằng mình đã làm đúng theo lời chỉ dẫn của Lorraine.
+"À thì, ừm..." tôi ấp úng. Tôi chẳng muốn thừa nhận mình đang cảm thấy xấu hổ, nhưng đúng là như vậy thật. Dẫu tôi dám thề rằng mình đã làm đúng theo lời chỉ dẫn của Lorraine.
 
 Thấy điệu bộ kỳ quặc của tôi, Lorraine cau mày lại. "Rentt, anh bị làm sao thế?" cô vừa hỏi vừa bước lại gần, giật lấy viên tinh thể của tôi, giơ lên quá đầu rồi nhìn chăm chú vào bên trong.
 

@@ -2,7 +2,7 @@
 
 "Được rồi, xong rồi đấy. Làm tốt lắm, Alize," nghe thấy Lorraine bảo, tôi liền quay sang nhìn. Alize đang nắm chặt cây đũa phép đã hoàn thiện của mình. Viên Ma Tinh đã được gắn cố định vào vị trí, và lúc này tôi có thể cảm nhận được luồng Ma Lực ổn định tỏa ra từ một ma cụ.
 
-"Vậy là đây là đũa phép của em rồi," Alize nói rồi hân hoan nhìn chằm chằm vào thanh gỗ. Nhìn vầng trán lấm tấm mồ hôi cùng tiếng thở dốc nặng nhọc của cô bé, có vẻ như em đã thấm mệt.
+"Vậy đây là đũa phép của em rồi," Alize nói rồi hân hoan nhìn chằm chằm vào thanh gỗ. Nhìn vầng trán lấm tấm mồ hôi cùng tiếng thở dốc nặng nhọc của cô bé, có vẻ như em đã thấm mệt.
 
 "Giờ em có thể thử dùng nó để niệm phép rồi đấy. Cả anh nữa, Rentt. Xong chưa vậy?" Lorraine nói rồi quay sang nhìn tôi. Đôi mắt cô chợt mở to vì kinh ngạc.
 
@@ -16,9 +16,9 @@ Thấy tò mò, Alize bèn nhô người ra từ phía sau Lorraine rồi ngó n
 
 "Oa, cái gì thế này? Chi tiết quá chừng luôn," cô bé thốt lên đầy sửng sốt.
 
-Lorraine cầm cây đũa phép của tôi lên và ngắm nghía dưới nhiều góc độ khác nhau. "Con rồng đang ngậm viên Ma Tinh trong miệng này. Đây là một bức điêu khắc rồng chi tiết đến khó tin đấy. Những hoa văn trang trí kiểu này bình thường chẳng thể nào làm ra chỉ bằng mỗi việc thao túng Ma Lực đâu, anh biết không," Lorraine chỉ ra.
-
 ![](images/ch123-01.webp)
+
+Lorraine cầm cây đũa phép của tôi lên và ngắm nghía dưới nhiều góc độ khác nhau. "Con rồng đang ngậm viên Ma Tinh trong miệng này. Đây là một bức điêu khắc rồng chi tiết đến khó tin đấy. Những hoa văn trang trí kiểu này bình thường chẳng thể nào làm ra chỉ bằng mỗi việc thao túng Ma Lực đâu, anh biết không," Lorraine chỉ ra.
 
 Cụ thể thì, đây chính là con rồng đã nuốt chửng tôi. Vào thời khắc ấy, tôi cứ ngỡ đời mình thế là chấm hết, thế nên diện mạo của nó đã hằn sâu vào tâm trí đến mức vừa nghĩ đến là nó lập tức hiện lên đầu tiên. Thú thật thì, tôi cũng thấy việc này có phần hơi quái gở. Lorraine dường như cũng đồng tình, bởi cô nhìn tôi như thể tôi bị mất trí khi lại chọn khắc họa đúng cái sinh vật đã xơi tái mình. Nhưng đó không phải là chuyện chúng tôi có thể bàn luận khi có mặt Alize ở đây, vậy nên tôi bèn hỏi sang một điều khác đang thắc mắc.
 
@@ -56,7 +56,7 @@ Dù cô đã trấn an như vậy, tôi vẫn chẳng thể hình dung nổi vi�
 
 "Hả?" tôi buột miệng thốt lên. Đó là một câu trả lời ngoài dự liệu, nhưng nó giải thích lý do vì sao Lorraine lại chẳng hề bận tâm. Nếu đây là đất của cô, thì chúng tôi muốn làm gì trên đó cũng được. Trừ phi chúng tôi mở ra cánh cổng dẫn tới Địa Ngục và thả hàng đàn ác ma ùa qua tấn công thành phố. Chuyện đó hẳn sẽ là một rắc rối tày đình, nhưng tôi không nghĩ mọi sự lại nghiêm trọng đến mức ấy. Dù các ma pháp sư trong truyền thuyết và truyện cổ tích thường hay phạm phải những sai lầm kiểu đó, bản thân tôi thậm chí còn chẳng biết làm thế nào để mở nổi một cánh cổng như vậy cơ.
 
-"Tôi có vài thí nghiệm không tiện làm ở nhà, anh thấy đấy. Đó là lý do tôi mua mảnh đất này cách đây một thời gian. Chỗ này cách trung tâm thị trấn đủ xa nên dù rộng rãi nhưng giá cũng không quá đắt," Lorraine giải thích.
+"Tôi có vài thí nghiệm không tiện làm ở nhà, anh biết đấy. Đó là lý do tôi mua mảnh đất này cách đây một thời gian. Chỗ này cách trung tâm thị trấn đủ xa nên dù rộng rãi nhưng giá cũng không quá đắt," Lorraine giải thích.
 
 Bất chấp những gì cô nói, mảnh đất này vẫn quá đỗi rộng lớn để có thể mua được với giá rẻ. Dẫu vậy, tôi biết Lorraine rất giàu. Cô luôn có một nguồn tài chính bí ẩn nào đó. Mua một căn nhà với cô còn chẳng phải chuyện to tát gì, thành thử điều này cũng không đến mức khiến tôi quá đỗi kinh ngạc.
 
@@ -154,7 +154,7 @@ Mah có thể tạo ra một lượng nước tương đương một chiếc c�
 
 Một số người đặc biệt xuất sắc ở những nguyên tố ma thuật nhất định. Phần lớn con người đều có thể sử dụng mọi ma pháp như nhau, nhưng có những cá nhân lại thiên hẳn về một vài hệ cụ thể. Có rất nhiều giả thuyết lý giải cho điều này. Chẳng hạn như nếu sinh ra gần một ngọn núi lửa, người ta có thể trở nên thuần thục hơn với hỏa ma pháp. Sự ban phước từ một thần tinh linh cũng có thể mang lại năng lực chuyên biệt về các ma pháp thuộc nguyên tố của vị tinh linh đó.
 
-Tôi từng được một tinh linh hệ thực vật ban phước, thế nên nói đúng hơn thì, tôi cảm thấy mình phải kém cỏi với lửa mới phải. Nhưng có lẽ mọi chuyện lại chẳng vận hành theo cách tôi nghĩ. Thật kỳ lạ, song hẳn là Lorraine cho rằng tôi nên xác định xem sở trường thực sự của mình nằm ở đâu.
+Tôi từng được một thần tinh linh hệ thực vật ban phước, thế nên nói đúng hơn thì, tôi cảm thấy mình phải kém cỏi với lửa mới phải. Nhưng có lẽ mọi chuyện lại chẳng vận hành theo cách tôi nghĩ. Thật kỳ lạ, song hẳn là Lorraine cho rằng tôi nên xác định xem sở trường thực sự của mình nằm ở đâu.
 
 Tôi quyết định thử nghiệm câu chú Mah. Alize và Lorraine lại lùi về phía sau một lần nữa để đề phòng. Tôi không dám chắc liệu có cần thiết phải làm vậy hay không, nhưng sau những gì đã xảy ra với ma pháp vừa rồi, tôi chẳng thể nào trách họ được.
 
