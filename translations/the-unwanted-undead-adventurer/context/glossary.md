@@ -92,3 +92,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Todds Village |  | Làng Todds | địa danh | 45 | Ngôi làng nhỏ ở phía đông Maalt gần Hồ Ruiess |
 | Ruiess Lake |  | Hồ Ruiess | địa danh | 45 | Hồ nước nhỏ gần Làng Todds |
 | Lord of the Lake | Lord | Chúa Tể Hồ | quái vật | 45 | Sinh vật ngụ dưới đáy Hồ Ruiess được dân làng Todds dâng tế vật (湖の主) |
+| priestess-saint | priestess-saints; Priestess-Saint | nữ tư tế Thánh Giả | chức nghiệp | 43 | Nữ tư tế sở hữu Thần Lực dồi dào được tôn làm Thánh Giả (聖女/聖者) |

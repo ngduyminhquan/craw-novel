@@ -28,7 +28,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 43: Nhận thanh kiếm mới chế tác riêng cho người sở hữu Tam Chúc Phúc từ Clope; thử nghiệm thành công Ma Lực và Khí Lực; phát hiện Thần Lực của mình mang đặc tính tinh linh thực vật khiến bia gỗ đâm chồi nảy lộc do từng sửa miếu cổ; cân nhắc luyện tập Ma Khí Dung Hợp Thuật vì thể chất Undead không sợ chấn thương chí mạng.
+- Trạng thái tính đến chương 45: Nhận kiếm mới từ Clope và thử nghiệm thành công Ma Khí Dung Hợp Thuật cùng đòn nén 3 năng lượng ở #44 (làm vỡ vụn kiếm cũ, xác định là át chủ bài ngặt nghèo); phát hiện Thần Lực mang đặc tính tinh linh thực vật; tiếp nhận ủy thác khẩn cấp tại Làng Todds ven Hồ Ruiess (Chúa Tể Hồ bắt đầu ăn thịt tế vật) ở #45.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

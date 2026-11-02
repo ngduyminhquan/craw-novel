@@ -2,7 +2,7 @@
 
 Thanh kiếm mà Clope đưa cho tôi chính là món vũ khí tôi từng sử dụng cho đến tận bây giờ: thanh kiếm có khả năng dẫn truyền cả Khí Lực lẫn ma pháp. Nếu tôi truyền cả Thần Lực vào đó nữa thì nó rất có thể sẽ vỡ tan tành, vậy nên tôi bày tỏ mối băn khoăn của mình với Clope.
 
-"À, nếu cậu đang hỏi về giá cả thì nó không quá đắt đâu. Xét tới số tiền cậu đã trả cho thanh kiếm mới... tôi cứ tính thanh này vào chi phí phát sinh là được."
+"À, nếu cậu đang hỏi về giá cả thì nó không quá đắt đâu. Xét tới số tiền cậu đã trả cho thanh kiếm mới... tôi cứ tự bù thanh này vào chi phí tổn hao là được."
 
 Không muốn từ chối một lời đề nghị hào phóng như vậy, tôi cầm lấy thanh kiếm cũ của mình rồi đưa lại thanh kiếm mới rèn cho Clope. Việc tôi cần làm là dẫn truyền cả ma pháp lẫn Khí Lực vào món vũ khí này—chính là Ma Khí Dung Hợp Thuật mà chúng tôi vừa nhắc tới.
 
@@ -80,7 +80,7 @@ Cẩn trọng bước lại gần tôi, Clope nhìn chằm chằm vào khối c�
 
 "Vậy tôi phải làm sao nếu... đòn đó không có tác dụng... với mục tiêu?"
 
-Dù những bài thử nghiệm vừa rồi mang lại cảm giác như những thành tựu đáng kể, nhưng rốt cuộc tôi cũng chỉ mới chém vào một hình nhân gỗ vô tri. Ngoại trừ bài thử nghiệm cuối cùng này, kết quả từ những nhát vung kiếm trước đó của tôi hoàn toàn có thể được tái hiện dễ dàng bởi một mạo hiểm giả cấp bậc Ngân Cấp. Tôi đồ rằng mình khó lòng gọi những kỹ thuật phổ thông như thế là con át chủ bài được.
+Dù những bài thử nghiệm vừa rồi mang lại cảm giác như những thành tựu đáng kể, nhưng rốt cuộc tôi cũng chỉ mới chém vào một hình nhân gỗ vô tri. Ngoại trừ bài thử nghiệm cuối cùng này, kết quả từ những nhát vung kiếm trước đó của tôi hoàn toàn có thể được tái hiện dễ dàng bởi một mạo hiểm giả Ngân Cấp. Tôi đồ rằng mình khó lòng gọi những kỹ thuật phổ thông như thế là con át chủ bài được.
 
 "Tôi hiểu điều cậu đang muốn nói... nhưng cậu đã bao giờ nghĩ xem thanh kiếm của mình sẽ ra sao sau khi tung ra một đòn như thế chưa?" Clope nhìn tôi với vẻ mặt ngán ngẩm, lập tức vặn lại. Gã giơ chiếc chuôi kiếm tàn tạ của món vũ khí mà tôi vừa cầm cách đây ít phút lên.
 

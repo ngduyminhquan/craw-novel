@@ -22,7 +22,7 @@ Thật dễ hiểu tại sao những kẻ buôn nô lệ và bọn bắt cóc l�
 
 Thật ngây thơ nếu nghĩ kẻ thù duy nhất của mạo hiểm giả chỉ là quái vật—hiện thực tàn khốc hơn thế nhiều. Đây chính là lý do các kỳ thi thăng hạng lại vô cùng nghiêm ngặt, một phần mục đích là để loại bỏ những phần tử bất hảo như vậy.
 
-Tuy nhiên, việc buôn bán nô lệ bị cấm tại Vương Quốc Yaaran, nên các vụ bắt cóc và những sự việc tương tự diễn ra ở quy mô nhỏ hơn nhiều. Tôi không thể nghi ngờ việc nó vẫn diễn ra trên vùng đất này, và dù không có nguồn tin cụ thể nào, ít nhất tôi có thể nói rằng những chuyện như vậy là rất hiếm.
+Tuy nhiên, việc buôn bán nô lệ bị cấm tại Vương Quốc Yaaran, nên các vụ bắt cóc và những sự việc tương tự diễn ra ở quy mô nhỏ hơn nhiều. Tôi chẳng hề nghi ngờ chuyện nó vẫn diễn ra trên vùng đất này, và dù không có nguồn tin cụ thể nào, ít nhất tôi có thể nói rằng những chuyện như vậy là rất hiếm.
 
 Đây chính là lý do tại sao hàng loạt vụ mất tích gần đây lại khiến Hội phải đề cao cảnh giác. Xét đến vẻ ngoài kỳ quái của mình, tôi cho rằng người ta rất dễ chĩa mũi dùi về phía tôi. Thậm chí có kẻ còn liều lĩnh quả quyết rằng tôi đứng sau mọi chuyện, đó là lý do tôi phải tránh xa mê cung, thay vào đó chuyển sự chú ý sang các yêu cầu làm việc vặt khác nhau.
 
@@ -30,13 +30,13 @@ Thời còn sống tôi khá thành thạo mấy công việc vặt này và kh�
 
 Dù thoạt đầu khi mới nhìn thấy, Loris nghĩ làn da của tôi chỉ là một loại đạo cụ hóa trang nào đó, nhưng ông đã nhanh chóng hiểu ra đó là thật chỉ sau một lần chạm vào, rồi vội vã rụt tay lại. Tôi giải thích rằng đó là do một lời nguyền rủa bất hạnh, và theo những gì tôi biết thì Loris đã chấp nhận lời giải thích ấy. Tôi không nghĩ Loris từng thoáng nảy ra ý nghĩ tôi là một con quái vật biết nói.
 
-Nếu sau này tôi có tiến hóa, tất cả những gì tôi cần nói với ông là lời nguyền của tôi đã được một vị nữ tư tế kiêm Thánh Giả đi ngang qua hóa giải, thế là xong xuôi mọi chuyện.
+Nếu sau này tôi có tiến hóa, tất cả những gì tôi cần nói với ông là lời nguyền của tôi đã được một vị nữ tư tế Thánh Giả đi ngang qua hóa giải, thế là xong xuôi mọi chuyện.
 
 Những suy nghĩ ấy cứ thế ùa vào tâm trí tôi khi tôi đứng ngắm nhìn các bảng tiếp nhận yêu cầu trong đại sảnh của Hội. Có đủ loại công việc vặt, từ yêu cầu tìm bạn đấu tập cho đến việc hỗ trợ vận chuyển đồ đạc nặng nề đơn giản.
 
 Khi tôi tiếp tục dán mắt vào các bảng danh sách, một vài mảnh đối thoại gần đó lọt vào tai tôi.
 
-"Ta đã bảo không rồi mà, bạn hiền. Ngươi đi làm phiền kẻ khác được không? Chẳng ai thèm đến cái xó xỉnh quê mùa hẻo lánh như thế đâu!"
+"Tao đã bảo không rồi mà, bạn hiền. Mày đi làm phiền kẻ khác được không? Chẳng ai thèm đến cái xó xỉnh quê mùa hẻo lánh như thế đâu!"
 
 "N-Nhưng mà...! Tôi cầu xin anh đấy! Làm ơn, làm ơn đi, anh phải giúp tôi!"
 
@@ -64,7 +64,7 @@ Thành thật mà nói, tôi cảm thấy mình buộc phải can thiệp. Dù m
 
 "...Chẳng phải đã quá rõ ràng... qua vẻ ngoài của tôi rồi sao? Tôi là một... mạo hiểm giả."
 
-"Hà. Ra là thế à? Thế vị mạo hiểm giả cao quý đây có việc quái gì với ta nào?"
+"Hà. Ra là thế à? Thế vị mạo hiểm giả cao quý đây có việc quái gì với tao nào?"
 
 "...Tôi sẽ rất cảm kích... nếu anh nhường cậu thanh niên này... lại cho tôi."
 
@@ -72,7 +72,7 @@ Thành thật mà nói, tôi cảm thấy mình buộc phải can thiệp. Dù m
 
 Nhìn tôi trừng trừng với vẻ mặt ngơ ngác, gã mạo hiểm giả dường như còn ngạc nhiên hơn nữa khi tôi đặt một đồng bạc vào lòng bàn tay gã, vừa ghé sát người vừa nói. "...Tôi nghĩ rằng anh... sẽ có hứng để... đồng ý đấy."
 
-Nghe những lời tôi nói, một nụ cười méo mó nở ra trên khuôn mặt gã mạo hiểm giả. "Ồ, thật sao? Thế thì tốt quá rồi. Ta sẽ dùng chỗ này để làm một chầu rượu ngon, nên ngươi muốn làm gì nó thì tùy!"
+Nghe những lời tôi nói, một nụ cười méo mó nở ra trên khuôn mặt gã mạo hiểm giả. "Ồ, thật sao? Thế thì tốt quá rồi. Tao sẽ dùng chỗ này để làm một chầu rượu ngon, nên mày muốn làm gì nó thì tùy!"
 
 Nói đoạn, gã quay người rồi bước thẳng ra khỏi cửa Hội.
 
@@ -112,7 +112,7 @@ Nói rồi, tôi lại sải bước nhanh lần nữa, cậu thanh niên bám s
 
 Quán ăn chúng tôi hướng tới không đâu khác chính là Quán Phi Long Đỏ, do Loris, một cựu mạo hiểm giả số phận hẩm hiu và có lẽ giờ đây đã giải nghệ, điều hành. Việc tôi ghé thăm quán của ông vào một thời điểm sớm thế này trong ngày là rất hiếm, và hầu hết các chủ quán khác thậm chí chẳng buồn che giấu sự ghê tởm vô thức của họ khi một kẻ như tôi bước qua ngưỡng cửa nhà họ. Về phần Loris, ông vô cùng biết ơn sự giúp đỡ của tôi và luôn dang rộng vòng tay chào đón. Chính vào những lúc như thế này, bản thân tôi cũng cảm thấy một lòng biết ơn sâu sắc trước lòng hiếu khách của Loris.
 
-Để đáp lại, thỉnh thoảng tôi đãi bữa tối cho tất cả các thực khách có mặt trong những lần ghé thăm, điều này đã thu hút thêm nhiều khách hàng tới quán của Loris. Đó là một sự sắp xếp đôi bên cùng có lợi. Dạo này tôi hoàn toàn có khả năng chi trả ngần ấy tiền, bởi tôi không còn phải gom góp từng đồng xu đồng một để trang trải qua ngày nữa.
+Để đáp lại, thỉnh thoảng tôi đãi bữa tối cho tất cả các thực khách có mặt trong những lần ghé thăm, điều này đã thu hút thêm nhiều khách hàng tới quán của Loris. Đó là một sự sắp xếp đôi bên cùng có lợi. Dạo này tôi hoàn toàn có khả năng chi trả ngần ấy tiền, bởi tôi không còn phải gom góp từng đồng tiền đồng một để trang trải qua ngày nữa.
 
 "Ngài... Ngài sẽ thực sự giúp tôi chứ...?" cậu thanh niên ngồi đối diện tôi hỏi, vẻ mặt có chút thấp thỏm lo âu.
 
@@ -150,7 +150,7 @@ Cậu ta có lẽ cũng ngạc nhiên hệt như tôi khi thấy tôi có thể 
 
 "Tôi... nghĩ vậy. Nếu tôi nhớ không lầm... thì ngôi làng đó có tổ chức một... lễ hội kỳ lạ nào đó. Tôi đã... nghe nói. Tới chừng đó. Luôn muốn đến đó... ít nhất một lần."
 
-Nếu trí nhớ không phản bội tôi, lễ hội đó bao gồm việc dân làng địa phương thả những chiếc thuyền gỗ nhỏ trôi dạt trên Hồ Ruiess. Sau đó, một thiếu nữ có thiên phú ma pháp và nhan sắc nổi bật sẽ được chọn ra từ dân trong làng, rồi được dâng lên cho Chúa Tể Hồ. Tuy nhiên, việc dâng tế hoàn toàn không phải là một sự hiến tế tính mạng thực sự. Truyền thuyết địa phương kể rằng một trinh nữ từng được dâng lên cho Chúa Tể Hồ vào thời cổ đại để bảo vệ ngôi làng khỏi một thảm họa. Kể từ đó dân làng chỉ đơn thuần duy trì tập tục này.
+Nếu trí nhớ không phản bội tôi, lễ hội đó bao gồm việc dân làng địa phương thả những chiếc thuyền gỗ nhỏ trôi trên Hồ Ruiess. Sau đó, một thiếu nữ có thiên phú ma pháp và nhan sắc nổi bật sẽ được chọn ra từ dân trong làng, rồi được dâng lên cho Chúa Tể Hồ. Tuy nhiên, việc dâng tế hoàn toàn không phải là một sự hiến tế tính mạng thực sự. Truyền thuyết địa phương kể rằng một trinh nữ từng được dâng lên cho Chúa Tể Hồ vào thời cổ đại để bảo vệ ngôi làng khỏi một thảm họa. Kể từ đó dân làng chỉ đơn thuần duy trì tập tục này.
 
 Nếu phải đoán, thì vị Chúa Tể được nhắc tới này có lẽ là một loại quái vật nào đó. Rốt cuộc thì không phải mọi quái vật đều thù địch với con người. Trên thực tế, có một số quái vật cùng chung sống hòa bình với con người ở chừng mực nào đó. Con quái vật sống dưới đáy sâu Hồ Ruiess có lẽ là một con quái vật như vậy, tôi thầm nghĩ.
 

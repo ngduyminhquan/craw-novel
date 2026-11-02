@@ -20,7 +20,7 @@ Tuy nhiên, Clope chỉ xua tay gạt phắt lời tôi nói, ngẫm nghĩ một
 
 "À phải rồi... Làm ra được là một chuyện, nhưng đây là một lưỡi kiếm đặc biệt. Không phải ai cũng dùng được nó đâu, nên tôi muốn cậu thử qua một chút. Nếu có điểm nào chưa vừa ý thì bọn tôi có thể chỉnh sửa lại. Dù sao thì đây cũng là kiếm do chính tay tôi làm ra, và tôi đã dồn hết tâm huyết vào nó... Nhưng một món vũ khí dành cho người sở hữu Tam Chúc Phúc thực sự là một thứ hoàn toàn khác biệt. Chẳng thể biết trước điều gì sẽ xảy ra đâu," Clope nói, mắt nhìn thẳng vào tôi.
 
-Clope nói có lý. Dù những mạo hiểm giả có khả năng sử dụng cả Ma Lực lẫn Khí Lực quả thực có tồn tại, nhưng những người có thể vận dụng cả ba loại năng lực bao gồm cả Thần Lực lại cực kỳ hiếm thấy. Ngay cả việc sử dụng thành thục cả ba loại một cách đồng đều và thực tế trong chiến đấu thực tế cũng gần như là điều chưa từng nghe thấy. Một yêu cầu mang tính chất như thế này sẽ là thách thức đối với bất kỳ thợ rèn nào, kể cả những người tay nghề lão luyện nhất. Việc Clope yêu cầu tôi thử nghiệm vũ khí là hoàn toàn tự nhiên. Sẽ thật đáng ngạc nhiên nếu gã không làm vậy.
+Clope nói có lý. Dù những mạo hiểm giả có khả năng sử dụng cả Ma Lực lẫn Khí Lực quả thực có tồn tại, nhưng những người có thể vận dụng cả ba loại năng lực bao gồm cả Thần Lực lại cực kỳ hiếm thấy. Ngay cả việc sử dụng thành thục cả ba loại một cách đồng đều và hữu dụng trong thực chiến cũng gần như là điều chưa từng nghe thấy. Một yêu cầu mang tính chất như thế này sẽ là thách thức đối với bất kỳ thợ rèn nào, kể cả những người tay nghề lão luyện nhất. Việc Clope yêu cầu tôi thử nghiệm vũ khí là hoàn toàn tự nhiên. Sẽ thật đáng ngạc nhiên nếu gã không làm vậy.
 
 Tôi gật đầu ngắn gọn tán thành.
 
@@ -48,7 +48,7 @@ Dù sao đi nữa, xúc giác và lực cầm nắm đồ vật của tôi đang
 
 "Tôi hiểu rồi. Chà, bia mục tiêu nào cũng được nhỉ? Tôi sẽ đẩy một hình nhân gỗ ra đây, đợi tôi một lát."
 
-Một lát sau, Clope quay lại cùng một loại hình nhân gỗ, dựng nó lên ở giữa sân. Có rất nhiều loại bia mục tiêu, thậm chí có cả loại khoác giáp tre. Một hình nhân gỗ trơn không bọc giáp là một lựa chọn cơ bản nhưng mộc mạc. Nếu trên tay tôi là một món vũ khí huyền thoại làm từ Mithril và Orichalcum, có lẽ một thứ gì đó sang xịn hơn mới xứng tầm—chẳng hạn như một hình nhân khoác giáp kim loại kèm phụ kiện. Tuy nhiên, món vũ khí tôi đặt rèn không phải thứ tầm cỡ như vậy, nên tôi cho rằng một hình nhân gỗ là quá ổn rồi.
+Một lát sau, Clope quay lại cùng một loại hình nhân gỗ, dựng nó lên ở giữa sân. Có rất nhiều loại bia mục tiêu, thậm chí có cả loại khoác giáp tre. Một hình nhân gỗ trơn không bọc giáp là một lựa chọn cơ bản nhưng mộc mạc. Nếu trên tay tôi là một món vũ khí huyền thoại làm từ Mithril và Orichalcum, có lẽ một thứ gì đó cao cấp hơn mới xứng tầm—chẳng hạn như một hình nhân khoác giáp kim loại kèm phụ kiện. Tuy nhiên, món vũ khí tôi đặt rèn không phải thứ tầm cỡ như vậy, nên tôi cho rằng một hình nhân gỗ là quá ổn rồi.
 
 Dù đây là một đơn đặt hàng đặc biệt, nó vẫn là một món vũ khí thông thường ở hầu hết các khía cạnh khác. Nếu tôi cố chém xuyên kim loại bằng thanh kiếm này quá nhiều lần, chắc chắn tôi sẽ làm mẻ lưỡi của nó. Dẫu vậy, điều đó chưa tính đến chuyện thanh kiếm đặc thù này có thể được phù phép cường hóa bằng Ma Lực hoặc Khí Lực. Khi ấy tôi sẽ chẳng phải bận tâm về việc làm hư hại lưỡi kiếm, dù ngay từ đầu tôi cũng chẳng có ý định làm hỏng nó trên một hình nhân tập luyện.
 
@@ -92,11 +92,11 @@ Thu hồi luồng khí Ma Lực, tôi hít một hơi thật sâu trước khi c
 
 Về mặt lý thuyết, những lợi ích của Khí Lực có phần tương tự như Ma Lực và ma thuật, chẳng hạn như lưỡi kiếm được truyền Khí Lực sẽ giữ được độ sắc bén và bền bỉ ngay cả khi sử dụng trong thời gian dài. Tuy nhiên, người ta có thể quan sát thấy những hiện tượng khác nếu vận dụng Khí Lực theo những cách thức nhất định.
 
-Một lần nữa, tôi nâng kiếm lên, chém thẳng xuống hình nhân. Ngay khi lưỡi kiếm bắt đầu tách rời hình nhân gỗ, tôi liền giải phóng luồng khí Khí Lực trong vũ khí của mình. Kèm theo một tiếng rít xé toạc chói tai, nó lập tức nổ tung, trút xuống một cơn mưa dăm gỗ khắp sân sau của Clope.
+Một lần nữa, tôi nâng kiếm lên, chém thẳng xuống hình nhân. Ngay khi lưỡi kiếm bắt đầu tách rời hình nhân gỗ, tôi liền giải phóng luồng Khí Lực trong vũ khí của mình. Kèm theo một tiếng rít xé toạc chói tai, nó lập tức nổ tung, trút xuống một cơn mưa dăm gỗ khắp sân sau của Clope.
 
 Đây là một trong vô số ứng dụng của Khí Lực: kích nổ mục tiêu có kiểm soát một khi lưỡi kiếm xuyên thấu da thịt nó. Ở vài phương diện, người ta có thể nói rằng Khí Lực mang tính hủy diệt cao hơn so với những ứng dụng phổ biến của Ma Lực.
 
-Hai cách vận dụng này tương phản rõ rệt với nhau; trong khi những người sử dụng ma pháp chuộng dùng các bùa chú cường hóa nguyên tố lên lưỡi kiếm để nhắm vào điểm yếu của quái vật, thì những người dùng Khí Lực lại đơn thuần phá hủy mục tiêu bằng sức mạnh man rợ. Đây có thể coi là những phương pháp khác nhau để giải quyết một vấn đề, mỗi cách đều có công năng phù hợp riêng.
+Hai cách vận dụng này tương phản rõ rệt với nhau; trong khi những người sử dụng ma pháp chuộng dùng các bùa chú cường hóa nguyên tố lên lưỡi kiếm để nhắm vào điểm yếu của quái vật, thì những người dùng Khí Lực lại đơn thuần phá hủy mục tiêu bằng sức mạnh thuần túy. Đây có thể coi là những phương pháp khác nhau để giải quyết một vấn đề, mỗi cách đều có công năng phù hợp riêng.
 
 Cá nhân tôi thích đối phó với kẻ địch thuộc loài Slime bằng Khí Lực hơn, trong khi Goblin, Orc và những kẻ tương tự lại dễ dàng bị hạ gục bằng ma pháp. Sau cùng thì điều đó phụ thuộc vào sở thích của từng người.
 
@@ -168,7 +168,7 @@ Thật không ngờ một người với khuôn mặt như gã lại có một s
 
 Chuẩn bị xong xuôi hình nhân, Clope tiến lại gần tôi, đưa một bàn tay rảnh rỗi ra hiệu về phía nó.
 
-"Chà, thế này là đủ rồi chứ nhỉ? Bọn mình thu dọn sớm thôi chứ?"
+"Chà, thế này là đủ rồi chứ nhỉ? Dọn dẹp được rồi chứ nhỉ?"
 
 Tôi đứng lặng một thoáng, suy ngẫm về câu hỏi của Clope. Vẫn còn một điều cuối cùng mà tôi chưa thử nghiệm.
 

@@ -47,9 +47,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | reviewed |  |
 | 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | reviewed |  |
 | 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | reviewed |  |
-| 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | done |  |
-| 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | done |  |
-| 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | done |  |
+| 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | reviewed |  |
+| 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | reviewed |  |
+| 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | reviewed |  |
 | 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | todo |  |
 | 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | todo |  |
 | 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | todo |  |
