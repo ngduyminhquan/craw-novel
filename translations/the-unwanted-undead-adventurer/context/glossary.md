@@ -131,3 +131,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Canon Douramage |  | Canon Douramage | vật phẩm | 66 | Cỗ pháo ma thuật tầm xa gắn trên người Golem (Canon de la mage) |
 | Fuyuj Douramage |  | Fuyuj Douramage | vật phẩm | 66 | Súng trường ma thuật nòng nhỏ gắn trên người Golem (Fusil de la mage) |
 | Bal |  | Bal | vật phẩm | 66 | Đạn ma pháp cường hóa bắn ra từ pháo hoặc súng ma thuật (Balle) |
+| Matured Vampire | Matured Vampires | Ma Cà Rồng Trưởng Thành | quái vật | 67 | Phân loài Ma Cà Rồng tiến hóa cao hơn Hạ Cấp Ma Cà Rồng, khó phân biệt với người thường |

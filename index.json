@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T12:40:57Z",
+  "generatedAt": "2026-11-02T12:49:24Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2549,6 +2549,12 @@
           "title": "Chương 66: Tập 3 Chương 2 - Và Một Ủy Thác Kỳ Lạ Không Kém (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_066.md",
           "sha": "3aa18655c892b58716c524ed517db7a7b3e68bb6"
+        },
+        {
+          "number": 67,
+          "title": "Chương 67: Tập 3 Chương 2 - Và Một Ủy Thác Kỳ Lạ Không Kém (7)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_067.md",
+          "sha": "61f9af1ae863ba429bdadf6b7658f0e7eadb3d2c"
         }
       ]
     },

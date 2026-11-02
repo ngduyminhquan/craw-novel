@@ -71,7 +71,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 64 |  | Chapter_064 - Vol 3 Chapter 2 - And an Equally Peculiar Request (4).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (4) | reviewed |  |
 | 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | reviewed |  |
 | 66 |  | Chapter_066 - Vol 3 Chapter 2 - And an Equally Peculiar Request (6).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (6) | reviewed |  |
-| 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | todo |  |
+| 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | done |  |
 | 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | todo |  |
 | 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | todo |  |
 | 70 |  | Chapter_070 - Vol 3 Chapter 3 - A New Existential Evolution (1).txt | Vol 3 Chapter 3 - A New Existential Evolution (1) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -501,3 +502,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#66] Dịch tên quái vật / thực thể ma thuật 'Golem' — tạm chọn giữ nguyên 'Golem' theo quy tắc tên chủng tộc quái vật trong rules.md và thông lệ fantasy (phương án khác: 'Người đá Golem', 'Rối ma thuật Golem'). Tạm dùng trong bản dịch: 'Golem'. → Giữ nguyên 'Golem' (nhất quán với Goblin, Slime, Orc, Kraken) (orchestrator)
 - [#66] Dịch tên các vũ khí ma thuật 'Canon Douramage', 'Fuyuj Douramage', 'Bal' (pháo, súng trường và đạn ma pháp gắn trên Golem) — tạm chọn giữ nguyên tên riêng theo rules.md kết hợp giải nghĩa khi xuất hiện (phương án khác: dịch thành 'pháo ma thuật Douramage', 'súng trường ma thuật Fuyuj Douramage', 'đạn ma pháp Bal'). Tạm dùng trong bản dịch: 'Canon Douramage', 'Fuyuj Douramage', 'Bal'. → Giữ nguyên phiên âm 'Canon Douramage', 'Fuyuj Douramage', 'Bal' theo rules.md (orchestrator)
 - [#66] Xưng hô giữa Laura Latuule và Isaac Hart — lần đầu hai nhân vật đối thoại trực tiếp, tạm chọn Laura xưng 'tôi', gọi 'Isaac / anh', Isaac xưng 'tôi', gọi 'tiểu thư' (phương án khác: Laura xưng 'ta' gọi 'ngươi' / Isaac xưng 'thần'). Tạm dùng trong bản dịch: Laura gọi 'Isaac / anh' xưng 'tôi', Isaac xưng 'tôi' gọi 'tiểu thư'. → Giữ Laura xưng 'tôi' gọi 'Isaac / anh', Isaac xưng 'tôi' gọi 'tiểu thư' (phù hợp phong thái nhã nhặn của nữ gia chủ và quản gia) (orchestrator)
+- [#67] Dịch phân loài quái vật 'Matured Vampires' (đoạn 22) — tạm chọn 'Ma Cà Rồng Trưởng Thành' (phù hợp bậc tiến hóa kế tiếp của Hạ Cấp Ma Cà Rồng; phương án khác: 'Thượng Cấp Ma Cà Rồng', 'Ma Cà Rồng Cấp Cao'). Tạm dùng trong bản dịch: 'Ma Cà Rồng Trưởng Thành'. → Chốt 'Ma Cà Rồng Trưởng Thành' (khớp nguyên tác 成体吸血鬼 — bậc tiến hóa kế tiếp của Hạ Cấp Ma Cà Rồng). (orchestrator)

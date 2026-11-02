@@ -208,4 +208,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lễ độ, tao nhã chuẩn mực quý tộc, xưng "tôi", gọi Rentt là "ngài" (xem Rentt như khách quý và đối tác làm việc).
 - Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; người đưa ra ủy thác hái Hoa Long Huyết định kỳ cho Rentt.
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
-- Trạng thái tính đến chương 66: Kịp thời can thiệp ngắt hoạt động của con Golem tự lắp ráp từ ma cụ trong kho để cứu Rentt; giải thích về nguồn gốc ma cụ mê cung và huy động gia nhân dùng ma cụ thu dọn hiện trường; tiếp tục cùng Rentt chọn ma cụ.
+- Trạng thái tính đến chương 67: Giới thiệu bộ sưu tập nguyên liệu quái vật trong hầm và giải thích về tính năng chiếc bình ma cụ bảo quản máu Ma Cà Rồng; chấp thuận trao tặng bình máu làm phần thưởng khi Rentt lấy cớ giúp bạn nghiên cứu; cùng Isaac dẫn Rentt trở lại mặt đất.

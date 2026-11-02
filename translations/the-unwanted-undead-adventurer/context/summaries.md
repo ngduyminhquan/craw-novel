@@ -391,3 +391,9 @@ Không thể phá hủy màn chắn, Rentt chật vật né tránh những đòn
 Ngay khoảnh khắc Rentt định giải phóng át chủ bài Ma Lực để tử chiến, Laura kịp thời tìm ra cơ chế và ra lệnh dừng con Golem, khiến nó sụp đổ thành đống phế liệu.
 Sau khi nghe Laura giải thích về nguồn gốc ma cụ độc nhất vô nhị từ mê cung và chứng kiến đám gia nhân dùng ma cụ dọn dẹp hiện trường đổ nát, Rentt quyết định tiếp tục hành trình chọn phần thưởng cùng Laura và Isaac.
 
+## 67
+Sau khi xem xét vô số ma cụ và phân vân giữa chiếc phi thuyền mô hình với ma cụ biến đổi giọng nói, Rentt bị thu hút bởi góc chứa nguyên liệu quái vật quý giá và phát hiện một bình pha lê ma cụ phong ấn máu Ma Cà Rồng.
+Laura giải thích bình máu này được thu mua vì tính năng bảo quản và kể về những lời đồn cùng bi kịch của kẻ ngây thơ uống máu Ma Cà Rồng hòng cầu bất tử, khiến Rentt trăn trở về nỗi đau cô độc khi phải chứng kiến Lorraine và Sheila qua đời nếu anh sống mãi mãi.
+Cảm nhận được khát khao từ bản năng và nhận định máu Ma Cà Rồng là điều kiện then chốt cho lần Tiến Hóa Bản Thể tiếp theo, Rentt quyết định lấy cớ mang về cho người quen nghiên cứu sinh học quái vật để chọn bình máu làm phần thưởng.
+Laura chấp thuận trao tặng chiếc bình; Rentt kiềm chế không uống máu ngay trước mặt quý tộc, nuốt tiếc nuối từ biệt chiếc phi thuyền nhỏ và theo chân Laura, Isaac bước lên cầu thang trở lại mặt đất.
+
