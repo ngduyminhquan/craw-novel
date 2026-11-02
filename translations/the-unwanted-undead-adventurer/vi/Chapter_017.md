@@ -10,7 +10,7 @@ Dẫu nói là vậy, tấm bản đồ người đàn ông đang cầm trên ta
 
 Chính vì thế, có vẻ như tấm bản đồ ông ta đang cầm chỉ rõ rằng hướng đi hiện tại của tôi dẫn vào ngõ cụt. Tất nhiên ngay cả tôi cũng biết thừa điều đó, đơn giản là vì bản thân tôi cũng đang cầm trên tay một tấm bản đồ y hệt.
 
-Tuy nhiên, giữa hai tấm bản đồ lại có sự khác biệt—nói cụ thể hơn thì bản đồ của tôi chứa đầy những ghi chú và ký hiệu đủ loại. Thậm chí tôi có thể đánh bạo mà nói rằng tấm bản đồ của mình đã biến chất thành một thứ hoàn toàn khác. Dù sao thì mười năm kinh nghiệm của tôi đâu phải chỉ để trưng cho đẹp. Nói đúng hơn thì, tôi có lẽ đang nắm giữ tấm bản đồ Mê Cung Nguyệt Ảnh chi tiết nhất trên toàn thị trấn Maalt. Dẫu tôi có thể bán tấm bản đồ này để lấy một món tiền khá hời, nhưng tôi hoàn toàn có ý định độc quyền nguồn thông tin này—tôi không định cứ thế đem dạy nó cho bất kỳ ai và mọi người.
+Tuy nhiên, giữa hai tấm bản đồ lại có sự khác biệt—nói cụ thể hơn thì bản đồ của tôi chứa đầy những ghi chú và ký hiệu đủ loại. Thậm chí tôi có thể đánh bạo mà nói rằng tấm bản đồ của mình đã biến chất thành một thứ hoàn toàn khác. Dù sao thì mười năm kinh nghiệm của tôi đâu phải chỉ để trưng cho đẹp. Nói đúng hơn thì, tôi có lẽ đang nắm giữ tấm bản đồ Mê Cung Nguyệt Ảnh chi tiết nhất trên toàn thị trấn Maalt. Dẫu tôi có thể bán tấm bản đồ này để lấy một món tiền khá hời, nhưng tôi hoàn toàn có ý định độc quyền nguồn thông tin này—tôi không định cứ thế đem chỉ dẫn cho bất kỳ ai.
 
 Chính trên tấm bản đồ này, tôi đã đánh dấu một lối đi mới chưa từng được khám phá cách đây chỉ vài ngày. Dĩ nhiên, đó chính là khu vực mà con Rồng đã xuất hiện.
 

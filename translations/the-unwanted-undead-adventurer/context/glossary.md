@@ -59,3 +59,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Professor |  | Học Sĩ | danh hiệu | 13 | Học vị học thuật cao cấp tại viện giáo dục vương quốc (博士) |
 | Thrice-blessed | thrice-blessed | Tam Chúc Phúc | khác | 15 | Người có thể sử dụng đồng thời cả 3 nguồn năng lượng: Ma Lực, Khí Lực và Thần Lực (三重複/三重祝福) |
 | holy arts | holy art; Holy Art; Holy Arts | thánh thuật | kỹ năng | 15 | Kỹ thuật sử dụng Thần Lực của tư tế/người theo đạo |
+| boss chamber | boss chambers; boss room; boss rooms | phòng thủ lĩnh | địa danh | 18 | Căn phòng chứa quái vật thủ lĩnh trong mê cung |

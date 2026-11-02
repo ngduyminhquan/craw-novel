@@ -8,7 +8,7 @@ Một ngày sau khi đặt rèn kiếm ở tiệm Ba Chĩa, tôi đã lại lên
 
 Tôi phải lập bản đồ khu vực chưa từng được khám phá, nơi lần đầu tiên tôi tận mắt nhìn thấy con Rồng. Ngay cả khi hiện diện của con Rồng lúc này đã biến mất từ lâu, chí ít tôi cũng phải đi khảo sát khu vực xung quanh. Chỉ báo cáo đơn thuần lên Hội sẽ là không đủ—chưa biết chừng họ còn chẳng thèm tin tôi. Do đó, tôi quyết định đích thân đến tận nơi—đó là phán đoán tình hình của tôi.
 
-Về phần vũ khí, Clope đã cho tôi mượn tạm một thanh kiếm để tôi có thứ dùng trong lúc chờ tác phẩm đặc chế của mình. Anh còn bảo sẽ không tính tiền mượn. Thanh kiếm này tuy có thể dẫn truyền ma pháp và Khí Thuật, nhưng rõ ràng lại không tương thích với Thần Lực. Dẫu vậy, xét trên mọi phương diện, đây vẫn là một thanh kiếm có chất lượng khá ổn. Nói đúng hơn thì nó còn tốt hơn nhiều so với thứ vũ khí tôi từng sử dụng từ trước đến nay. Thêm vào đó, việc tương thích với ma pháp và Khí Thuật đồng nghĩa với việc tôi có thể thoải mái sử dụng các kỹ thuật liên quan mà không cần phải gượng ép ép chúng qua lưỡi kiếm. Thật là một bước cải thiện đáng kể cho chất lượng cuộc sống.
+Về phần vũ khí, Clope đã cho tôi mượn tạm một thanh kiếm để tôi có thứ dùng trong lúc chờ tác phẩm đặc chế của mình. Anh còn bảo sẽ không tính tiền mượn. Thanh kiếm này tuy có thể dẫn truyền ma pháp và Khí Thuật, nhưng rõ ràng lại không tương thích với Thần Lực. Dẫu vậy, xét trên mọi phương diện, đây vẫn là một thanh kiếm có chất lượng khá ổn. Nói đúng hơn thì nó còn tốt hơn nhiều so với thứ vũ khí tôi từng sử dụng từ trước đến nay. Thêm vào đó, việc tương thích với ma pháp và Khí Thuật đồng nghĩa với việc tôi có thể thoải mái sử dụng các kỹ thuật liên quan mà không cần phải gượng ép chúng qua lưỡi kiếm. Thật là một bước cải thiện đáng kể cho chất lượng cuộc sống.
 
 Dù sao thì tôi cũng là sinh vật—hay có lẽ nên nói là một mạo hiểm giả—sống theo thói quen. Sau khi đã đặt làm vũ khí mới và giải quyết xong xuôi những việc vặt còn lại, việc duy nhất tôi phải làm lúc này là: thám hiểm mê cung.
 
@@ -122,6 +122,6 @@ Nếu cuối cùng tôi đánh mất đi bản ngã của mình, mọi thứ s�
 
 Với những suy nghĩ đó trong đầu, tôi cất bước hướng về nơi lần cuối mình chạm trán con Rồng. Đi sát ngay sau lưng tôi là người khuân vác hành lý mới, trên mặt lộ rõ vẻ thấp thỏm lo âu. Liệu ngày xưa tôi có từng mang biểu cảm tương tự như thế trên khuôn mặt mình hay không?
 
-Vì lý do này hay lý do khác, những ký ức ấy giờ đây dường như đã quá đỗi xa xôi—dù có cố gắng đến mấy tôi cũng không thể tài nào nhớ lại được. Nghĩ lại thì, thời gian trôi qua thực ra chưa bao lâu, vậy mà tôi lại đang quên đi quá nhiều điều.
+Vì lý do này hay lý do khác, những ký ức ấy giờ đây dường như đã quá đỗi xa xôi—dù có cố gắng đến mấy tôi cũng không tài nào nhớ lại được. Nghĩ lại thì, thời gian trôi qua thực ra chưa bao lâu, vậy mà tôi lại đang quên đi quá nhiều điều.
 
 Nhưng đây là cảm giác mà tôi vẫn còn nhận biết được—cảm giác về một tai họa sắp sửa giáng xuống.

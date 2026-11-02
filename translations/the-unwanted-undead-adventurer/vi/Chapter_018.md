@@ -6,7 +6,7 @@ Dù sức mạnh của lũ quái vật cư ngụ nơi đây có tăng lên đôi
 
 Đoạn đường này hóa ra ngắn hơn hẳn lối đi trước đó, và chúng tôi nhanh chóng đặt chân đến một khoảng không gian mở khác. Dù có phần lo lắng về việc con Rồng có thể tái xuất hiện, tôi vẫn cẩn trọng tiến bước từng chút một, nhưng xem ra nỗi lo của tôi hơi thừa.
 
-Căn phòng dù không hẳn là trống rỗng, nhưng sâu bên trong dường như chẳng có bất cứ thứ gì—ngoại trừ một thứ đập vào mắt. Ngay chính giữa phòng là thứ trông như một ma pháp trận, được tạo thành từ nhiều đường nét và hoa văn khắc chìm xuống mặt đất. Lại thêm một cảnh tượng hiếm gặp—nhưng dẫu vậy, chúng vẫn đủ phổ biến để giới mạo hiểm giả biết đến sự tồn tại của mình.
+Căn phòng dù không hẳn là trống rỗng, nhưng sâu bên trong dường như chẳng có bất cứ thứ gì—ngoại trừ một thứ đập vào mắt. Ngay chính giữa phòng là thứ trông như một ma pháp trận, được tạo thành từ nhiều đường nét và hoa văn khắc chìm xuống mặt đất. Lại thêm một cảnh tượng hiếm gặp—nhưng dẫu vậy, chúng vẫn đủ phổ biến để giới mạo hiểm giả biết đến sự tồn tại của chúng.
 
 Những ma pháp trận kiểu này thường đóng vai trò như công cụ dịch chuyển, và chúng hay xuất hiện ở những tầng sâu của mê cung. Một tổ đội thông thường sẽ không thể tiến xa hơn trừ khi tìm ra cách kích hoạt ma pháp trận đó. Nói đúng hơn thì, rất có khả năng ma pháp trận nơi này cũng là một cơ chế như vậy, dẫu đây là lần đầu tiên tôi được tận mắt chứng kiến ngoài đời thực.
 
@@ -90,7 +90,7 @@ Tôi phải cứu ông ta. Thế nhưng, có một chướng ngại vật to l�
 
 Đó chẳng phải thứ gì khác ngoài một con Khô Lâu. Chính xác hơn, đó là một con Khô Lâu Khổng Lồ, kẻ sở hữu sức mạnh vượt trội hơn hẳn so với những đồng loại nhỏ bé của mình. Tiếng cười lách cách vang vọng đầy vẻ đe dọa khắp căn phòng, kèm theo những chấn động rung chuyển mặt đất mỗi khi nó bước chân về phía trước. Thật khó tin nổi nó chỉ được tạo nên từ xương trắng khi mỗi bước đi đều khiến mặt đất dưới chân rung chuyển dữ dội.
 
-Người ta thường sẽ chọn cách tháo chạy khi bắt gặp thứ này trong mê cung. Khô Lâu Khổng Lồ không chỉ đơn thuần là một biến thể to xác hơn của Khô Lâu thông thường. Dẫu cấu thành từ xương, nó từng hấp thu sức mạnh của Người Khổng Lồ vào một thời điểm nào đó trong đời, và mạnh hơn ít nhất hai đến ba lần so với những người anh em thông thường của mình. Tệ hơn nữa, sức mạnh thể chất của nó cũng tăng lên tương ứng, và chỉ một cú đập duy nhất chắc chắn cũng đủ hất văng bất kỳ ai bay xa.
+Người ta thường sẽ chọn cách tháo chạy khi bắt gặp thứ này trong mê cung. Khô Lâu Khổng Lồ không chỉ đơn thuần là một biến thể to xác hơn của Khô Lâu thông thường. Dẫu cấu thành từ xương, nó từng hấp thu sức mạnh của Người Khổng Lồ vào một thời điểm nào đó trong đời, và mạnh hơn ít nhất hai đến ba lần so với đồng loại thông thường của nó. Tệ hơn nữa, sức mạnh thể chất của nó cũng tăng lên tương ứng, và chỉ một cú đập duy nhất chắc chắn cũng đủ hất văng bất kỳ ai bay xa.
 
 Mình sẽ phải giao chiến với... thứ đó sao?
 
@@ -112,7 +112,7 @@ Nói tóm lại, tôi nhận thức rõ rằng mình đang đứng giữa một 
 
 Củng cố quyết tâm và rút kiếm ra, tôi chầm chậm tiến lại gần con Khô Lâu Khổng Lồ. May mắn dường như đang đứng về phía tôi, bởi sự xuất hiện của tôi đã thu hút sự chú ý của con Khô Lâu rời khỏi nạn nhân trước đó của nó. Người đàn ông bất hạnh lúc này đã gần như bất tỉnh, không còn khơi gợi được sự hứng thú của con Khô Lâu nữa. Tôi phải nhanh chóng kết thúc trận chiến này rồi xử lý vết thương cho ông ta—
 
-Nghĩ đoạn, tôi đạp mạnh chân xuống đất, lao thẳng về phía con quái vật khổng lồ. Với một tốc độ bộc phát mà khi còn sống tôi hiếm khi nào trải nghiệm được, tôi phóng mình về phía trước, gần như ngay lập tức áp sát chân con Khô Lâu Khổng Lồ. Vung kiếm lên, tôi chém phập lưỡi kiếm xuống người con quái vật không một chút do dự.
+Nghĩ đoạn, tôi đạp mạnh chân xuống đất, lao thẳng về phía con quái vật khổng lồ. Với một tốc độ bộc phát mà khi còn sống tôi hiếm khi nào trải nghiệm được, tôi phóng mình về phía trước, gần như ngay lập tức áp sát chân con Khô Lâu Khổng Lồ. Vung kiếm lên, tôi giáng mạnh lưỡi kiếm xuống người con quái vật không một chút do dự.
 
 Thế nhưng—
 
@@ -138,7 +138,7 @@ Khắc ghi tất cả những điều đó trong đầu, có vẻ như tình c�
 
 Dẫu tôi không phải là tư tế hay mạo hiểm giả thần thánh phụng sự giáo hội, tôi vẫn sở hữu một lượng Thần Lực tích tụ trong cơ thể. Dù con Khô Lâu Khổng Lồ quả thực là một kẻ địch to lớn, nhưng nó vẫn là một quái vật Undead, và điều đó đương nhiên khiến nó dễ bị tổn thương trước sức mạnh thanh tẩy của thần thánh.
 
-Có người sẽ thắc mắc tại sao ngay từ đầu trận tôi không tung luôn con át chủ bài của mình ra; thực ra tôi có lý do riêng. Thứ nhất, tôi hầu như chưa từng vận dụng Thần Lực vào thực chiến, và tôi chẳng rõ hiệu quả của nó ra sao. Thêm vào đó, vấn đề càng trở nên nan giải hơn bởi đặc tính của vũ khí—thanh kiếm mượn tạm từ chỗ Clope này, dẫu được chế tác vô cùng tinh xảo, lại không phải thứ được tạo ra để dẫn truyền Thần Lực. Vì lẽ đó, tôi không dám chắc lưỡi kiếm liệu có thể chịu đựng tốt đến đâu nếu tôi ép một lượng lớn Thần Lực chạy qua lưỡi kiếm của nó.
+Có người sẽ thắc mắc tại sao ngay từ đầu trận tôi không tung luôn con át chủ bài của mình ra; thực ra tôi có lý do riêng. Thứ nhất, tôi hầu như chưa từng vận dụng Thần Lực vào thực chiến, và tôi chẳng rõ hiệu quả của nó ra sao. Thêm vào đó, vấn đề càng trở nên nan giải hơn bởi đặc tính của vũ khí—thanh kiếm mượn tạm từ chỗ Clope này, dẫu được chế tác vô cùng tinh xảo, lại không phải thứ được tạo ra để dẫn truyền Thần Lực. Vì lẽ đó, tôi không dám chắc thanh kiếm liệu có thể chịu đựng tốt đến đâu nếu tôi ép một lượng lớn Thần Lực chạy qua lưỡi kiếm của nó.
 
 Thế nhưng trước tình thế này tôi chẳng có nhiều lựa chọn—nếu không hành động ngay lúc này và tại đây, cả tính mạng của người đàn ông lẫn của tôi chắc chắn sẽ bị tước đoạt. Chừng nào vẫn còn việc có thể làm, tôi tự thấy mình có bổn phận phải thử; đó chính là ý nghĩa của việc làm một mạo hiểm giả.
 
