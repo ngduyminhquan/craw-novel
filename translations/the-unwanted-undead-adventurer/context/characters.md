@@ -17,6 +17,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Rentt Vivie |  | Rentt Vivie | Danh tính mạo hiểm giả mới của Rentt Faina, mượn họ của Lorraine | #25 |
 | Zarid |  | Zarid | Kiếm sĩ kỳ cựu của Hội Mạo Hiểm Giả, mạo hiểm giả Thượng Đồng Cấp | #28 |
 | Yuris |  | Yuris | Tân binh mạo hiểm giả từng tham gia lớp hướng dẫn của Rentt ở Hội | #29 |
+| Raiz Dunner | Raiz | Raiz Dunner | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp tóc đỏ, đồng đội thi thực hành thăng hạng của Rentt | #33 |
+| Laura Satii | Laura | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
 
 ## Chi tiết
 
@@ -101,3 +103,17 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Cẩn trọng, biết trước biết sau, tôn trọng và tin tưởng tiền bối Rentt.
 - Quan hệ: Từng tham gia lớp hướng dẫn mạo hiểm giả tân binh của Rentt ở Hội mạo hiểm giả; có một tổ đội riêng.
 - Trạng thái tính đến chương 29: Phát hiện nhóm ba kẻ côn đồ có ý đồ dụ quái sang nhóm mình nên báo trước cho Rentt; được Rentt đi cùng bảo vệ an toàn khi bị lùa cả đàn Goblin.
+
+### Raiz Dunner
+- Giới tính, tuổi/vẻ ngoài: Nam, thiếu niên thấp người, mái tóc đỏ cắt ngắn và ánh mắt tràn đầy nhiệt huyết; trang bị kiếm sĩ.
+- Tính cách: Năng nổ, bộc trực, tự tin, chủ động nhận vai trò trưởng nhóm nhưng biết cư xử lịch thiệp, biết cúi đầu chào hỏi đồng đội.
+- Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
+- Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
+- Trạng thái tính đến chương 33: Từng xuất hiện ở Mê Cung Tân Nguyệt cùng Laura đánh Goblin và Slime (#31); thi đỗ phần thi viết và được Sheila xếp chung đội với Rentt cho bài kiểm tra thực hành tới điểm chỉ định trong mê cung.
+
+### Laura Satii
+- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
+- Tính cách: Lễ phép, khiêm tốn, biết trước biết sau, hỗ trợ đồng đội chu đáo từ tuyến sau.
+- Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
+- Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
+- Trạng thái tính đến chương 33: Đỗ phần thi viết thăng hạng; phối hợp cùng Rentt và Raiz chuẩn bị tiến vào Mê Cung Tân Nguyệt sau khi Rentt đề xuất mua bản đồ mới.

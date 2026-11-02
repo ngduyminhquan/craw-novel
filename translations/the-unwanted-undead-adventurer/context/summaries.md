@@ -188,6 +188,12 @@ Rentt trở về nhà Lorraine và giải thích lý do mượn họ của cô �
 Nhờ chiến tích săn thành công ba con Orc và trở về lành lặn, Rentt được Hội thông báo đủ điều kiện tham gia bài kiểm tra thăng hạng lên Đồng Cấp; anh quyết định thi ngay ngày hôm sau thay vì dành thời gian ôn tập như các tân binh khác nhờ kiến thức vững vàng từ kiếp trước.
 Đến Hội Mạo Hiểm Giả đúng giờ dưới sự hướng dẫn của Sheila, Rentt bước vào phòng thi viết trên tầng hai cùng vài mạo hiểm giả Thiết Cấp khác; Sheila phát đề thi, phiếu trả lời, bút lông ngỗng và dốc ngược chiếc đồng hồ cát lớn để chính thức bắt đầu bài thi.
 
+## 33
+Nhờ kiến thức tích lũy suốt mười năm làm mạo hiểm giả, Rentt hoàn thành xuất sắc bài thi viết thăng hạng Đồng Cấp với điểm số tuyệt đối trong sự khen ngợi của Sheila.
+Anh bước vào bài kiểm tra thực hành với thể thức tổ đội chạy đua tới một điểm chỉ định trong Mê Cung Tân Nguyệt trước hoàng hôn, và được ghép đội cùng hai mạo hiểm giả Thiết Cấp trẻ tuổi: kiếm sĩ Raiz Dunner và nữ ma pháp sư Laura Satii.
+Sau màn làm quen ngắn gọn và trao đổi năng lực cơ bản, cả nhóm cùng đi xe ngựa đến lối vào mê cung trong sự cảnh giác cao độ của Rentt trước các mưu mẹo của Hội.
+Phát hiện tấm bản đồ Hội cấp đã vẽ từ 15 năm trước và có nguy cơ sai lệch địa hình mê cung, Rentt thuyết phục cả nhóm mua bản đồ mới và dẫn hai người tiến về phía một gã thương nhân mặc áo chùng đen đầy vẻ khả nghi.
+
 
 
 
