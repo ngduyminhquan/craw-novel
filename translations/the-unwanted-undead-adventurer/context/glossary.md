@@ -125,3 +125,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Divine Tools | Divine Tool | Thần Cụ | vật phẩm | 62 | Phân loại ma cụ mang sức mạnh thần thánh hoặc tạo tác của thần linh (神具) |
 | Curiosities |  | Kỳ Cụ | vật phẩm | 62 | Phân loại ma cụ mang công năng kỳ lạ, độc nhất vô nhị (奇具/奇品) |
 | Cursed Artifacts | Cursed Artifact | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |
+| Teleportation |  | Dịch chuyển tức thời | kỹ năng | 63 | Ma pháp không gian đặc biệt dịch chuyển tức thời qua khoảng cách (転移) |

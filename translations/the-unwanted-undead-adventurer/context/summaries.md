@@ -367,3 +367,10 @@ Rentt tới dinh thự ngoại ô của gia tộc Latuule để bàn chi tiết 
 Qua cuộc trò chuyện với người gác cổng, Rentt biết mê cung là sản phẩm của một món ma cụ do các đời gia chủ Latuule sưu tầm, và bản thân người gác cổng từng vượt mê cung thành công để xin vào làm việc tại đây.
 Lạc lối giữa mê cung vô tận và không thể định hướng theo mặt trời, Rentt bất ngờ bước vào một khoảng sân bừng sáng ngập tràn hoa hồng nở rộ.
 Tại đây, anh gặp một cô bé quý tộc da trắng muốt mặc váy đen viền đăng ten đang tao nhã thưởng trà; cô bé mời anh ngồi lại dùng trà từ một chiếc ấm ma cụ tự pha trà vô cùng quý giá và đắt đỏ.
+
+## 63
+Chiếc mặt nạ tự hé mở một khe nhỏ giúp Rentt uống trà; trước sự hào hứng gạ mua lại mặt nạ của cô bé quý tộc, anh đành tiếc nuối từ chối vì món Nguyền Cụ này dính chặt vào mặt và là thứ duy nhất che giấu thân phận Thi Quỷ của mình.
+Cô bé tiết lộ chiếc ấm ma cụ tối thượng có khả năng tái hiện vô tận mọi loại lá trà từng được pha bên trong, được gia tộc Latuule mua lại từ một mạo hiểm giả gần hai thế kỷ trước với giá 300 đồng xu bạch kim, cho thấy tiềm lực tài chính đáng sợ của gia tộc này.
+Trước khi Rentt rời đi, cô bé tặng anh lời khuyên không nên nhìn vào mặt trời; sau khi dứt bước, bức tường cây lập tức mọc lên che kín bàn trà khiến anh lại tiếp tục lạc lối.
+Nhận thấy vị trí mặt trời đột ngột nhảy vọt và con đường bị bẻ cong, Rentt thử ném đá và phát hiện mê cung được kết nối bởi các vùng không gian vặn xoắn dùng ma pháp Dịch Chuyển Tức Thời; dù Bản Đồ Akasha bị vô hiệu hóa, anh quyết tâm vẽ lại lộ trình trong tâm trí để vượt qua trò đùa tinh quái của cô bé.
+
