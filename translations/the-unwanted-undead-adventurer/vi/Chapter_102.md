@@ -40,7 +40,7 @@ Nghĩ vậy, tôi bước thẳng vào lối vào rồi đi qua cánh cửa.
 
 Một giọng nói cất lên chào tôi ngay khi tôi vừa đặt chân qua ngưỡng cửa. Ngay sau đó, một người đàn ông dong dỏng cao tiến lại gần tôi. Toát lên từ anh ta là vẻ chuyên nghiệp rõ rệt. Dù không chạy, nhưng từ nhịp bước chân của anh ta, tôi có thể nhận ra anh ta từng là một mạo hiểm giả.
 
-Quả không hổ danh là một cửa hàng đầu bảng lớn... Đến cả nhân viên cũng không phải dạng vừa.
+Quả không hổ danh là cửa hàng chính quy mô lớn... Đến cả nhân viên cũng không phải dạng vừa.
 
 Các cửa hàng bình dân thì khác, người ta có thể tùy ý ra vào thoải mái. Thú thật thì tôi thích những tiệm như thế hơn, nhưng nếu ai đó muốn tìm những món hàng đạt độ tinh xảo và phẩm chất nhất định, một cửa hàng tầm cỡ như nơi này đáng tin cậy hơn nhiều.
 
