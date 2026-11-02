@@ -99,4 +99,11 @@ Trên đường đi, anh tiện tay cứu một người đàn ông trung niên 
 Nhận thấy người đàn ông bám theo gây vướng víu nhưng bản thân lại không tiện lộ diện nhận thưởng khám phá khu vực mới, Rentt quyết định nhường phát hiện này cho ông ta báo cáo với Hội để lấy tiền trả nợ.
 Để níu giữ tính người và chống lại nỗi bất an đánh mất bản ngã kể từ khi biến thành Ngạ Quỷ, Rentt nhận người đàn ông làm phụ tá xách đồ và cả hai cùng tiến về phía căn phòng của Rồng.
 
+## 17
+Rentt dẫn người đàn ông bám theo tiến vào lối đi bị đánh dấu là ngõ cụt trên bản đồ, nơi anh từng chạm trán Rồng; trên đường đi anh vừa cảnh giác vừa chỉ dẫn cho người đàn ông kiến thức sinh tồn cơ bản trong mê cung.
+Bước vào căn phòng hang động rộng lớn, cả hai nhận thấy nơi này hoàn toàn trống rỗng và con Rồng đã biến mất không còn tăm tích; người đàn ông sau đó tinh mắt phát hiện một khe hở có gió lùa trên vách đá.
+Rentt lần tìm và nhấn cơ quan ẩn, mở ra một lối đi bí mật; khi người đàn ông từ chối nhận vơ công lao, Rentt dứt khoát nhường toàn bộ phần thưởng thám hiểm khu vực mới cho ông ta.
+Bị cuốn hút bởi những điều bí ẩn phía sau cánh cửa vừa mở, Rentt cất bước tiến sâu vào bóng tối của lối đi bí mật.
+
+
 
