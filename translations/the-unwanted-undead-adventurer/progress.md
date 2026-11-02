@@ -51,7 +51,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | reviewed |  |
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | reviewed |  |
 | 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | done |  |
-| 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | todo |  |
+| 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | done |  |
 | 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | todo |  |
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | todo |  |
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | todo |  |
@@ -349,6 +349,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -450,3 +451,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#45] Dịch địa danh "Todds Village" — tạm chọn "Làng Todds" (phương án khác: "Làng Todd"). Tạm dùng trong bản dịch: "Làng Todds". → Giữ 'Làng Todds' (theo quy tắc địa danh trong rules.md) (orchestrator)
 - [#46] Dịch tên loài quái vật 'Kelpie' (quái vật dạng ngựa có vảy sống dưới nước) — tạm chọn giữ nguyên 'Kelpie' theo thông lệ chủng tộc quái vật (phương án khác: 'ngựa nước Kelpie', 'quái ngựa nước'). Tạm dùng trong bản dịch: 'Kelpie'. → Giữ nguyên 'Kelpie' (quái vật thần thoại đặc thù theo quy tắc chủng tộc trong rules.md) (orchestrator)
 - [#46] Dịch tên tập tục/nghi thức 'Festival of Offering' — tạm chọn 'Lễ Hội Dâng Tế' (phương án khác: 'Lễ Dâng Tế', 'Lễ Hội Hiến Tế'). Tạm dùng trong bản dịch: 'Lễ Hội Dâng Tế'. → Giữ 'Lễ Hội Dâng Tế' (chuẩn xác và tự nhiên) (orchestrator)
+- [#47] Dịch tên loài quái vật 'Kraken' — tạm chọn giữ nguyên 'Kraken' theo quy ước tên chủng tộc quái vật trong rules.md (phương án khác: 'quái mực Kraken', 'quái vật Kraken'). Tạm dùng trong bản dịch: 'Kraken'. → Giữ nguyên 'Kraken' (quái vật biển sâu đặc thù theo quy tắc chủng tộc trong rules.md) (orchestrator)
+- [#47] Dịch ma cụ gia truyền 'the Orb' của Làng Todds — tạm chọn 'Quả Cầu' (phương án khác: 'Ngọc Cầu', 'Khối Cầu Pha Lê'). Tạm dùng trong bản dịch: 'Quả Cầu'. → Giữ 'Quả Cầu' (chuẩn xác và tự nhiên) (orchestrator)
+- [#47] Xưng hô của Amiris với Rentt Faina — pronouns.md ghi Amiris xưng 'tôi' ở #46, nhưng từ nửa sau #46 và #47 Amiris xưng 'em' gọi 'anh / anh Rentt' khi được Rentt an ủi và cứu sống (nhỏ hơn Rentt gần 10 tuổi). Tạm dùng trong bản dịch: em - anh / anh Rentt. Đề xuất: chốt Amiris xưng 'em', gọi 'anh / anh Rentt' từ #47. → Chốt Amiris xưng 'em', gọi 'anh / anh Rentt' từ nửa sau #46 và #47 khi đã thân thiết và được cứu mạng (orchestrator)
+- [#47] Dịch vai trò 'Sacrificial Escort' trong Lễ Hội Dâng Tế — tạm chọn 'người áp giải tế vật' (phương án khác: 'người áp giải vật tế', 'lính áp giải'). Tạm dùng trong bản dịch: 'người áp giải tế vật'. → Giữ 'người áp giải tế vật' (sát nghĩa với vai trò trong Lễ Hội Dâng Tế) (orchestrator)

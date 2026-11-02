@@ -271,6 +271,14 @@ Tới làng, Rentt gặp Amiris (em gái Ryuntus, người bị chọn dâng t�
 Nửa đêm, Rentt bắt gặp Amiris đang khóc một mình và khuyên nhủ cô không được bỏ cuộc, thắp lên hy vọng giúp cô đồng ý cùng chiến đấu để giành lấy sự sống.
 Sáng hôm sau, Amiris cởi mở dẫn Rentt đi dạo quanh làng trước ngày lễ; Rentt quan sát thấy bầu không khí nặng nề của dân làng cùng sự xuất hiện của những người ngoài làng như gã thương nhân buôn vải có vóc dáng vạm vỡ bất thường.
 
+## 47
+Trong Lễ Hội Dâng Tế, Rentt cùng Ryuntus cải trang thành người áp giải đưa Amiris ra giữa Hồ Ruiess; một con quái vật ngỡ là Kraken bất ngờ xuất hiện và tấn công đoàn thuyền bằng cầu lửa.
+Nhờ đôi ủng bước trên nước mượn từ Lorraine, Rentt lướt trên mặt hồ ném Amiris sang thuyền an toàn rồi vung kiếm chém tan quái vật, làm lộ ra ảo ảnh bằng vải cùng con thuyền gỗ chở đám người phàm.
+Rentt nhanh chóng khống chế toàn bộ băng nhóm, vạch trần chân tướng gã thương nhân buôn vải cấu kết cùng ma pháp sư dàn dựng trò quái vật bắt cóc thiếu nữ bán làm nô lệ và giải cứu an toàn các nạn nhân bị giam dưới khoang thuyền.
+Dân làng Todds mở hội ăn mừng và bầu không khí hân hoan trở lại; Rentt từ chối nhận công để tránh bị nghi ngờ thân phận rồi lên xe ngựa về Maalt sau khi được Amiris tặng một nụ hôn lên mặt nạ để cảm ơn.
+Trở về Maalt dùng bữa tối, Rentt bị Lorraine trêu chọc chuyện "hớp hồn thiếu nữ", anh điềm tĩnh chấp nhận thân phận Undead lang bạt và hy vọng hai anh em sẽ có một cuộc đời bình yên.
+
+
 
 
 
