@@ -17,9 +17,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | reviewed |  |
 | 11 |  | Chapter_011 - Vol 1 Chapter 2 - Rina the Adventurer (6).txt | Vol 1 Chapter 2 - Rina the Adventurer (6) | reviewed |  |
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | reviewed |  |
-| 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | done |  |
-| 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | done |  |
-| 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | done |  |
+| 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | reviewed |  |
+| 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | reviewed |  |
+| 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | reviewed |  |
 | 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | todo |  |
 | 17 |  | Chapter_017 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2) | todo |  |
 | 18 |  | Chapter_018 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3) | todo |  |

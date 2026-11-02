@@ -170,7 +170,7 @@ Nhưng rồi...
 
 "Này, Luka. Sao thế? Mặt em trông lạ lắm đấy."
 
-Clope, chồng tôi, đồng thời là người thợ rèn của cửa tiệm này—tiệm của chúng tôi. Với nụ cười thô mộc quen thuộc, anh cất tiếng gọi tôi từ phía sau sau khi cuối cùng cũng bước ra khỏi xưởng rèn.
+Clope, chồng tôi, đồng thời là người thợ rèn của cửa tiệm này—tiệm của chúng tôi. Với nụ cười thô mộc quen thuộc, anh cất tiếng gọi tôi từ phía sau khi cuối cùng cũng bước ra khỏi xưởng rèn.
 
 Quay người lại, tôi không kìm được mà cất lời với anh: "...Anh biết rồi, phải không? Anh biết người đó là ai mà..."
 
@@ -186,7 +186,7 @@ Clope dường như gật đầu trước những lời của tôi—những l�
 
 Tôi chực trào nước mắt trước những lời ấy; phản ứng đó có lẽ đủ để kéo Clope ra khỏi tâm trạng vô tâm thường ngày. Anh xua xua tay có phần hơi quá đà như thể muốn xua tan đi ý nghĩ ấy.
 
-Tôi nhìn chằm chằm vào Clope—tôi muốn nghe ý kiến nghiêm túc của anh chứ không phải mấy trò đùa cợt cợt nhả.
+Tôi nhìn chằm chằm vào Clope—tôi muốn nghe ý kiến nghiêm túc của anh chứ không phải mấy trò đùa cợt nhả.
 
 "...Thì, em thấy đấy, biết đâu cậu ta không muốn làm phiền chúng ta? Anh không rõ tại sao cậu ta lại mặc áo choàng với đeo mặt nạ như thế, nhưng... Biết đâu cậu ta bị dính lời nguyền hay đại loại vậy? Em biết đấy, mạo hiểm giả thỉnh thoảng vẫn gặp phải mấy chuyện như thế mà."
 
@@ -196,7 +196,7 @@ Tôi nhìn chằm chằm vào Clope—tôi muốn nghe ý kiến nghiêm túc c�
 
 "Cái gì mà 'đại loại thế' chứ! Anh chưa nói điều gì kiểu như vậy với cậu ấy đấy chứ?!"
 
-"...Chưa mà," Clope vội vàng đáp lời khi cảm nhận được áp lực cùng sự đau lòng ngày một dâng cao trong từng lời tôi nói. "Anh đâu có rảnh đi nói nhảm với người ta. Nhưng tính cậu ta vốn thế mà, em thấy đấy. Cậu ta xưa nay vẫn luôn như vậy. ...Chắc không sao đâu. Chúng ta biết cậu ta vẫn còn sống, nên hiện giờ cứ để cậu ta làm những gì mình muốn. Rồi cậu ta sẽ kể cho chúng ta nghe khi tới lúc thôi... Cậu ta cũng đã để lại đủ manh mối về thân phận của mình rồi còn gì. Anh không dám chắc chắn hoàn toàn, nhưng có lẽ lúc này cậu ta chỉ có thể làm đến chừng đó thôi.... Dù sao thì cậu ta vẫn ghé tiệm chúng ta đấy thôi. Y hệt như trước đây vậy."
+"...Chưa mà," Clope vội vàng đáp lời khi cảm nhận được áp lực cùng sự đau lòng ngày một dâng cao trong từng lời tôi nói. "Anh đâu có rảnh đi nói nhảm với người ta. Nhưng tính cậu ta vốn thế mà, em thấy đấy. Cậu ta xưa nay vẫn luôn như vậy. ...Chắc không sao đâu. Chúng ta biết cậu ta vẫn còn sống, nên hiện giờ cứ để cậu ta làm những gì mình muốn. Rồi cậu ta sẽ kể cho chúng ta nghe khi tới lúc thôi... Cậu ta cũng đã để lại đủ manh mối về thân phận của mình rồi còn gì. Anh không dám chắc chắn hoàn toàn, nhưng có lẽ lúc này cậu ta chỉ có thể làm đến chừng đó thôi... Dù sao thì cậu ta vẫn ghé tiệm chúng ta đấy thôi. Y hệt như trước đây vậy."
 
 Lời của Clope nghe rất có lý. Một người mang Tam Chúc Phúc lại có thể tự do ra vào nhà của Lorraine—
 

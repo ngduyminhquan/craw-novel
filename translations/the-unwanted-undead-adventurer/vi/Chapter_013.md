@@ -6,7 +6,7 @@
 
 Cởi chiếc áo choàng của tôi ra, cô nheo mắt cẩn thận quan sát từng tấc da thịt khô khốc trên cơ thể tôi. Cô làm điều đó với niềm nhiệt huyết cháy bỏng của một học giả kiêm mạo hiểm giả, bởi cô chính là người bạn cũ của tôi, Lorraine Vivie.
 
-Cô vẫn mặc chiếc áo choàng nhàu nhĩ và luộm thuộm quen thuộc mà mình luôn khoác lên người. Mái tóc buông xõa tùy ý lượn sóng xõa dài qua vai. Dù trông như thể chẳng hề bận tâm đến vẻ ngoài của mình, nhưng từ cô lại toát ra một sức hút kỳ lạ theo cách rất riêng.
+Cô vẫn mặc chiếc áo choàng nhàu nhĩ và luộm thuộm quen thuộc mà mình luôn khoác lên người. Mái tóc lượn sóng buông xõa dài qua vai một cách tùy ý. Dù trông như thể chẳng hề bận tâm đến vẻ ngoài của mình, nhưng từ cô lại toát ra một sức hút kỳ lạ theo cách rất riêng.
 
 Tôi quen biết cô ấy đã từ rất lâu—đâu đó khoảng mười năm kể từ khi tôi đặt chân đến Maalt. Dẫu đã biết nhau cả một thập kỷ, nhưng chúng tôi chỉ mới thân thiết hơn trong thời gian gần đây—kiến thức uyên bác của cô luôn vô cùng hữu dụng và giúp ích cho tôi về nhiều mặt. Chính vì vậy, tôi chẳng thể nghĩ ra ai thích hợp hơn Lorraine để cùng thảo luận về tình cảnh hiện tại của mình.
 
@@ -36,7 +36,7 @@ Lorraine dường như cũng đồng tình, cô gật đầu trước kết lu�
 
 Nói thật thì Lorraine tỏ ra thoải mái đến lạ lùng bên cạnh tôi, dù lúc này tôi đã là một thành viên của giống loài xác sống. Điều này có lẽ bắt nguồn từ tính cách của cô—cô khá gan dạ theo cách riêng của mình. Trong suốt quãng thời gian quen biết cô, Lorraine chưa bao giờ là kiểu người thích săm soi những tiểu tiết, dẫu việc tôi biến thành Ngạ Quỷ có phải là tiểu tiết hay không thì vẫn còn phải xem lại đã.
 
-Lý do thứ hai có lẽ còn quan trọng hơn: cô ấy là một học giả. Chính xác hơn là một học giả nghiên cứu về quái vật và ma pháp. Nếu có điều gì xảy ra, cô sẽ càng tò mò hơn về việc làm thế nào mà một người sống bằng xương bằng thịt lại có thể biến thành bộ dạng này, rồi sẽ vùi đầu vào công việc để tìm kiếm câu trả lời cho những thắc mắc của mình. Những khoảng lặng trầm tư kéo dài của cô trong lúc chúng tôi trò chuyện có lẽ cũng là để nghiền ngẫm chính những câu hỏi đó.
+Lý do thứ hai có lẽ còn quan trọng hơn: cô ấy là một học giả. Chính xác hơn là một học giả nghiên cứu về quái vật và ma pháp. Nói đúng hơn thì cô lại càng tò mò hơn về việc làm thế nào mà một người sống bằng xương bằng thịt lại có thể biến thành bộ dạng này, rồi sẽ vùi đầu vào công việc để tìm kiếm câu trả lời cho những thắc mắc của mình. Những khoảng lặng trầm tư kéo dài của cô trong lúc chúng tôi trò chuyện có lẽ cũng là để nghiền ngẫm chính những câu hỏi đó.
 
 "Nhưng mà này, càng nhìn anh tôi lại càng thấy anh giống hệt một Undead thực thụ đấy, Rentt à. Dù chẳng muốn hỏi điều này đâu, nhưng... anh có thực sự là Rentt mà tôi từng biết không? Lỡ như anh là một ai đó—hoặc một thứ gì đó tương tự, nhưng lại không hoàn toàn là cùng một người thì sao...?"
 

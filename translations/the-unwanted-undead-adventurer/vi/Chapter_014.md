@@ -88,7 +88,7 @@ Thật may mắn, người cô trò chuyện cùng lại là Rentt. Dẫu Lorrai
 
 Mười năm rốt cuộc cũng trôi qua. Về phần mình, Lorraine rất hài lòng với cuộc sống ấy. Cô cảm thấy mãn nguyện, và thầm ước nó có thể tiếp diễn mãi mãi—hoặc ít nhất là cho tới khi cô nhắm mắt xuôi tay.
 
-Nếu Rentt muốn tiếp tục làm mạo hiểm giả, điều đó hoàn toàn ổn. Cô hài lòng với việc chỉ dõi theo và đứng bên cạnh cậu. Trên thực tế, Lorraine thấy rất ổn với việc miệt mài nghiên cứu như mọi khi, trong khi có Rentt ở bên cạnh. Cô yêu thích những bữa ăn hai người đôi khi cùng chia sẻ trong lúc trò chuyện về những chuyện đời thường vụn vặt—cô chẳng hề có chút mảy may nghi ngờ hay hoài nghi nào rằng những chuỗi ngày ấy sẽ không tiếp diễn mãi mãi.
+Nếu Rentt muốn tiếp tục làm mạo hiểm giả, điều đó hoàn toàn ổn. Cô hài lòng với việc chỉ dõi theo và đứng bên cạnh cậu. Trên thực tế, Lorraine thấy rất ổn với việc miệt mài nghiên cứu như mọi khi, trong khi có Rentt ở bên cạnh. Cô yêu thích những bữa ăn hai người đôi khi cùng chia sẻ trong lúc trò chuyện về những chuyện đời thường vụn vặt—cô chưa từng mảy may thoáng nghĩ rằng những chuỗi ngày ấy rồi sẽ có lúc không thể tiếp diễn mãi mãi.
 
 Thế nhưng một ngày nọ, Rentt Faina biến mất.
 
@@ -124,7 +124,7 @@ Kể từ dạo đó, Lorraine thay mặt tôi lui tới Hội Mạo Hiểm Gi�
 
 Rốt cuộc, chính Lorraine đã mua lại lọ chất dịch Slime từ tôi—với một khoản tiền khá hời. Dù đó là một loại nguyên liệu tương đối có giá trị đối với Hội, nhưng không hề có quy định nào bắt buộc tôi phải bán chiến lợi phẩm của mình cho ai. Việc đó hoàn toàn tùy thuộc vào quyết định của từng mạo hiểm giả.
 
-Vốn dĩ Lorraine khá am tường giả kim thuật, cô thường tự điều chế các loại thuốc và dược phẩm cho riêng mình. Đổi lại, cô cần đủ loại nguyên liệu để nghiên cứu chế tác, và tình cờ là tôi lại mang theo một trong những nguyên liệu ấy—một nguyên liệu đắt đỏ, tôi xin nói thêm—mà Lorraine đã trả một mức giá rất sòng phẳng. Trên thực tế, việc mua trực tiếp từ nguồn thu hoạch còn giúp tiết kiệm chi phí cho Lorraine, người vốn thường phải mua lại nó với mức giá đắt đỏ từ Hội Mạo Hiểm Giả.
+Vốn dĩ Lorraine khá am tường giả kim thuật, cô thường tự điều chế các loại thuốc và dược phẩm cho riêng mình. Để làm được vậy, cô cần đủ loại nguyên liệu để nghiên cứu chế tác, và tình cờ là tôi lại mang theo một trong những nguyên liệu ấy—một nguyên liệu đắt đỏ, tôi xin nói thêm—mà Lorraine đã trả một mức giá rất sòng phẳng. Trên thực tế, việc mua trực tiếp từ nguồn thu hoạch còn giúp tiết kiệm chi phí cho Lorraine, người vốn thường phải mua lại nó với mức giá đắt đỏ từ Hội Mạo Hiểm Giả.
 
 Nhưng gác chuyện đó sang một bên, có lẽ cũng đáng nhắc tới việc tôi hiện đang rảo bước trên các con phố của thị trấn Maalt. Dẫu tôi thực sự muốn đắm mình trong bầu không khí của thị trấn sau một khoảng thời gian ngỡ như đằng đẵng, tôi không hẳn là bước ra đường đi dạo mà chẳng có mục đích gì.
 

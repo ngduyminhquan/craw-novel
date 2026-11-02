@@ -55,3 +55,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Great Professor |  | Đại Học Sĩ | danh hiệu | 13 | Học vị học thuật đỉnh cao tại viện giáo dục vương quốc (大博士) |
 | Professor |  | Học Sĩ | danh hiệu | 13 | Học vị học thuật cao cấp tại viện giáo dục vương quốc (博士) |
 | Thrice-blessed | thrice-blessed | Tam Chúc Phúc | khác | 15 | Người có thể sử dụng đồng thời cả 3 nguồn năng lượng: Ma Lực, Khí Lực và Thần Lực (三重複/三重祝福) |
+| holy arts | holy art; Holy Art; Holy Arts | thánh thuật | kỹ năng | 15 | Kỹ thuật sử dụng Thần Lực của tư tế/người theo đạo |
