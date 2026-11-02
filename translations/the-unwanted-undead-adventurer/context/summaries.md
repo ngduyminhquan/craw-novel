@@ -265,6 +265,13 @@ Tại Hội, Rentt dùng một đồng bạc can thiệp giải vây cho một c
 Rentt đưa cậu thanh niên đến Quán Phi Long Đỏ của Loris để lắng nghe chi tiết ủy thác, biết được cậu đến từ Làng Todds bên Hồ Ruiess – nơi có tập tục dâng tế một thiếu nữ xinh đẹp cho Chúa Tể Hồ (một quái vật dưới đáy hồ) để bảo vệ làng.
 Cậu thanh niên tiết lộ biến cố nguy cấp khiến cậu phải lặn lội lên Maalt tìm người cứu giúp: dạo gần đây, Chúa Tể Hồ đã bắt đầu ăn thịt các tế vật thay vì chỉ nhận nghi thức tượng trưng như trước.
 
+## 46
+Rentt cùng Ryuntus đi xe ngựa về Làng Todds và tìm hiểu thêm về biến cố: Chúa Tể Hồ sai thuộc hạ Kelpie đến đánh dấu cửa nhà các cô gái bị chọn làm vật hiến tế mỗi mười ngày.
+Tới làng, Rentt gặp Amiris (em gái Ryuntus, người bị chọn dâng tế); Amiris ban đầu nghi ngờ Rentt là kẻ lừa đảo và kiên quyết chấp nhận số phận để bảo vệ làng, nhưng Ryuntus đã vạch kế hoạch cho Rentt đóng giả một trong các lính áp giải đeo mặt nạ để lên thuyền bảo vệ cô.
+Nửa đêm, Rentt bắt gặp Amiris đang khóc một mình và khuyên nhủ cô không được bỏ cuộc, thắp lên hy vọng giúp cô đồng ý cùng chiến đấu để giành lấy sự sống.
+Sáng hôm sau, Amiris cởi mở dẫn Rentt đi dạo quanh làng trước ngày lễ; Rentt quan sát thấy bầu không khí nặng nề của dân làng cùng sự xuất hiện của những người ngoài làng như gã thương nhân buôn vải có vóc dáng vạm vỡ bất thường.
+
+
 
 
 

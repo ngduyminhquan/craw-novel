@@ -50,7 +50,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | reviewed |  |
 | 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | reviewed |  |
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | reviewed |  |
-| 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | todo |  |
+| 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | done |  |
 | 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | todo |  |
 | 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | todo |  |
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -447,3 +448,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#44] Xử lý câu so sánh đảo ngược trong raw EN ở đoạn 6 ("The force and scale of the explosion was nothing compared to the spirit-induced explosion I demonstrated earlier") — bối cảnh Ma Khí Dung Hợp Thuật có uy lực nổ vượt trội so với chỉ dùng Khí Lực khiến Clope hoảng hốt, tạm dịch thuận nghĩa ngữ cảnh thành "Vụ nổ do Khí Lực tôi biểu diễn lúc trước hoàn toàn không thể sánh được với uy lực và quy mô của vụ nổ lần này" (phương án khác: dịch sát chữ EN khiến đòn dung hợp lại yếu hơn đòn đơn). Tạm dùng trong bản dịch: dịch thuận nghĩa ngữ cảnh. → Giữ bản dịch thuận theo mạch ngữ cảnh (vụ nổ Dung Hợp Thuật mạnh vượt trội so với vụ nổ Khí Lực trước đó) (orchestrator)
 - [#45] Dịch thuật ngữ/danh xưng "Lord of the Lake" (và gọi tắt "Lord") — tạm chọn "Chúa Tể Hồ" / "Chúa Tể" (phương án khác: "Thần Hồ", "Chủ Nhân Hồ", "Chúa Hồ"). Tạm dùng trong bản dịch: "Chúa Tể Hồ" / "Chúa Tể". → Giữ 'Chúa Tể Hồ' / 'Chúa Tể' (chuẩn danh xưng quái vật đứng đầu vùng hồ) (orchestrator)
 - [#45] Dịch địa danh "Todds Village" — tạm chọn "Làng Todds" (phương án khác: "Làng Todd"). Tạm dùng trong bản dịch: "Làng Todds". → Giữ 'Làng Todds' (theo quy tắc địa danh trong rules.md) (orchestrator)
+- [#46] Dịch tên loài quái vật 'Kelpie' (quái vật dạng ngựa có vảy sống dưới nước) — tạm chọn giữ nguyên 'Kelpie' theo thông lệ chủng tộc quái vật (phương án khác: 'ngựa nước Kelpie', 'quái ngựa nước'). Tạm dùng trong bản dịch: 'Kelpie'. → Giữ nguyên 'Kelpie' (quái vật thần thoại đặc thù theo quy tắc chủng tộc trong rules.md) (orchestrator)
+- [#46] Dịch tên tập tục/nghi thức 'Festival of Offering' — tạm chọn 'Lễ Hội Dâng Tế' (phương án khác: 'Lễ Dâng Tế', 'Lễ Hội Hiến Tế'). Tạm dùng trong bản dịch: 'Lễ Hội Dâng Tế'. → Giữ 'Lễ Hội Dâng Tế' (chuẩn xác và tự nhiên) (orchestrator)

@@ -20,6 +20,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Raiz Dunner | Raiz / cậu thiếu niên | 33 | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp |
 | Laura Satii | Laura / cô gái / thiếu nữ | 33 | Nữ mạo hiểm giả ma pháp sư Thiết Cấp |
 | Augurey | Augurey / gã / anh ta | 42 | Mạo hiểm giả kỳ dị chuyên mặc đồ bảy sắc cầu vồng |
+| Ryuntus | Ryuntus / cậu thanh niên / cậu | 45 | Cậu thanh niên Làng Todds |
+| Amiris | Amiris / cô gái / thiếu nữ | 46 | Thiếu nữ Làng Todds, em gái Ryuntus |
 
 ## Giữa các nhân vật
 
@@ -67,3 +69,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Laura Satii | Sheila Ibarss | tôi | chị / cô | 38 | Tân binh lễ phép với nhân viên tiếp tân Hội |
 | Sheila Ibarss | Lorraine Vivie | tôi | cô Vivie | 40 | Tiếp tân viên Hội xưng hô lịch sự với học giả danh tiếng |
 | Lorraine Vivie | Sheila Ibarss | tôi | cô | 40 | Học giả tiếp đón tiếp tân viên Hội đến nhà |
+| Rentt Faina | Ryuntus | tôi | cậu | 45 | Nhận ủy thác và trao đổi với người thuê |
+| Ryuntus | Rentt Faina | tôi | anh Rentt / ngài | 45 | Người thuê tôn trọng và nhờ cậy mạo hiểm giả |
+| Rentt Faina | Amiris | tôi | cô / cô bé | 46 | Mạo hiểm giả nói chuyện với thiếu nữ được bảo vệ |
+| Amiris | Rentt Faina | tôi | anh Rentt | 46 | Thiếu nữ được Rentt động viên và bảo vệ |
+| Ryuntus | Amiris | anh | em / Amiris | 46 | Hai anh em ruột |
+| Amiris | Ryuntus | em | anh | 46 | Hai anh em ruột |
