@@ -38,3 +38,10 @@ Rentt chứng kiến một nữ mạo hiểm giả Thiết Cấp tân binh đang
 Ý thức trách nhiệm của một mạo hiểm giả tiền bối thôi thúc Rentt vượt qua ngần ngại, anh lao ra gầm rống đánh lạc hướng kẻ địch, rồi vận Khí Lực vào kiếm chém đôi con Khô Lâu trong chớp mắt.
 Ngỡ ngàng trước sức mạnh thể chất vượt trội của dạng Ngạ Quỷ, Rentt nhận ra mục tiêu tiến hóa thành Ma Cà Rồng ngày càng khả thi.
 Bừng tỉnh sau dòng suy nghĩ, Rentt nhìn lại thì thấy nữ mạo hiểm giả đang run rẩy giương kiếm chĩa về phía mình trong nỗi kinh hoàng tột độ.
+
+## 7
+Rentt kiên trì dùng giọng nói ngọng nghịu giải thích mình là mạo hiểm giả tên Rentt và đã chết, giúp nữ mạo hiểm giả tân binh Rina bình tâm lại và nhận ra anh chính là ân nhân cứu mạng.
+Để có thể quay về Maalt mà không bị coi là quái vật nguy hiểm, Rentt đưa túi tiền tích cóp nhiều năm nhờ Rina mua giúp một bộ quần áo/áo choàng che thân và cho phép cô giữ lại số tiền thừa.
+Cảm kích trước nghĩa cử của tiền bối, Rina xưng danh con gái hiệp sĩ và thề sẽ báo đáp trọn vẹn ân huệ này rồi cẩn trọng rời đi.
+Tin tưởng vào nhân phẩm của Rina nhưng vẫn lường trước rủi ro bị phản bội, Rentt tiếp tục tuần tra săn quái trong Mê Cung Nguyệt Ảnh để nâng cao thực lực.
+

@@ -11,7 +11,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 4 |  | Chapter_004 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (3) | reviewed |  |
 | 5 |  | Chapter_005 - Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4).txt | Vol 1 Chapter 1 - A Grasp of the Situation and Existential Evolution (4) | reviewed |  |
 | 6 |  | Chapter_006 - Vol 1 Chapter 2 - Rina the Adventurer (1).txt | Vol 1 Chapter 2 - Rina the Adventurer (1) | reviewed |  |
-| 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | todo |  |
+| 7 |  | Chapter_007 - Vol 1 Chapter 2 - Rina the Adventurer (2).txt | Vol 1 Chapter 2 - Rina the Adventurer (2) | done |  |
 | 8 |  | Chapter_008 - Vol 1 Chapter 2 - Rina the Adventurer (3).txt | Vol 1 Chapter 2 - Rina the Adventurer (3) | todo |  |
 | 9 |  | Chapter_009 - Vol 1 Chapter 2 - Rina the Adventurer (4).txt | Vol 1 Chapter 2 - Rina the Adventurer (4) | todo |  |
 | 10 |  | Chapter_010 - Vol 1 Chapter 2 - Rina the Adventurer (5).txt | Vol 1 Chapter 2 - Rina the Adventurer (5) | todo |  |
@@ -349,6 +349,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -365,3 +367,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#5] Phát âm ngọng nghịu khi Rentt tập nói: tạm giữ nguyên ngữ âm méo dạng phiên âm ('HE... HEEH... VVO...') theo raw và quy ước style.md (phương án khác: phỏng âm tiếng Việt kiểu 'X... XI... CH... XI... A... O...'). → Giữ nguyên ngữ âm méo dạng phiên âm theo raw và đúng quy ước đã chốt trong style.md (dòng 15) (orchestrator)
 - [#6] Dịch tiêu đề arc 'Rina the Adventurer' — tạm chọn 'Mạo Hiểm Giả Rina' (phương án khác: 'Nữ Mạo Hiểm Giả Rina'). → Chốt 'Mạo Hiểm Giả Rina' (sát nghĩa nguyên tác) (orchestrator)
 - [#6] Dịch tiếng gầm của Rentt 'GAAAAAAH!!!' — tạm dịch '...GÀOOOOO!!!' theo quy tắc Việt hóa từ cảm thán của style.md (phương án khác: giữ nguyên '...GAAAAAAH!!!'). → Chốt '...GÀOOOOO!!!' theo quy tắc Việt hóa tiếng kêu/gầm trong style.md (orchestrator)
+- [#7] Phiên âm lời thoại ngọng nghịu ban đầu của Rentt ('Ge... Gellow...', 'Veeassee... Vis... Visten...') — tạm giữ nguyên phiên âm dạng thô của raw theo style.md và tiền lệ #5 (phương án khác: phỏng âm tiếng Việt 'X-Xin c-chào...', 'L-Làm ơn... L-Lắng nghe...'). → Giữ nguyên phiên âm dạng thô của raw theo đúng quy ước trong style.md (dòng 15) và tiền lệ chương 5 (orchestrator)
+- [#7] Cụm từ 'daughter of knights' trong lời tự giới thiệu của Rina — tạm dịch 'con gái của hiệp sĩ' theo characters.md (phương án khác: 'nữ nhi nhà hiệp sĩ', 'hậu duệ hiệp sĩ'). → Chốt 'con gái của hiệp sĩ' (nhất quán với characters.md và văn phong hiện đại, tránh từ Hán Việt tiên hiệp như 'nữ nhi') (orchestrator)
