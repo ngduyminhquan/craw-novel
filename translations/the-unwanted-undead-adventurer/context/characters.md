@@ -157,6 +157,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Năng lực: Từng có khả năng chiến đấu và sử dụng Thần Lực để thanh tẩy quái vật trong không gian hẹp. Hiện đang suy yếu vì bệnh tật, không thể tự mình dọn dẹp hầm chứa đồ có quái vật.
 - Quan hệ: Người chăm sóc và được các em nhỏ ở cô nhi viện hết mực kính trọng, yêu quý; thân thiện và biết ơn mạo hiểm giả nhận ủy thác thiện nguyện.
 - Trạng thái tính đến chương 50: Mắc Bệnh Tích Tụ Chướng Khí do sử dụng Thần Lực lâu năm, tính tình thanh bần kiên quyết không chịu bỏ tiền chữa trị; đang được Alize lén tìm cách chữa trị bằng Hoa Long Huyết.
+- Trạng thái tính đến chương 75: Biết được thiên phú ma thuật của Alize và tôn trọng ước mơ làm mạo hiểm giả của cô bé; được Unbert chẩn đoán chính thức mắc Bệnh Tích Tụ Chướng Khí và trấn an rằng bệnh sẽ được chữa khỏi.
 
 ### Alize
 - Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12 tuổi, tóc ngắn cắt tỉa gọn gàng, phong thái tao nhã dù sống trong cảnh nghèo khó tại cô nhi viện. Không có họ.
@@ -192,12 +193,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách, nghề nghiệp: Thầy trị liệu (healer) quen biết với Cô Nhi Viện Thứ Hai Maalt; nhiệt tình giúp đỡ Sơ Lillian tìm người điều chế thuốc.
 - Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt.
 - Xuất hiện từ: #59 (được nhắc đến từ #50).
+- Trạng thái tính đến chương 75: Cùng Norman mang thuốc đến cô nhi viện và trực tiếp chẩn đoán Bệnh Tích Tụ Chướng Khí cho Sơ Lillian, đồng thời trấn an rằng bệnh sẽ được chữa khỏi.
 
 ### Norman Hanel
 - Giới tính, tuổi/vẻ ngoài: Nam, trạc cuối đôi mươi (gần 30 tuổi), dáng người đẫy đà, nét mặt thân thiện dễ gần.
 - Tính cách, nghề nghiệp: Dược sư (herbalist) kiêm thầy thuốc (doctor) mở tiệm thuốc riêng; giàu lòng nhân ái, thường xuyên chữa bệnh và tự bỏ tiền túi lo thuốc men cho người nghèo và cô nhi viện; rất tự tin vào vốn hiểu biết thảo dược của mình.
 - Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt; cảm kích trước hành động tặng thêm Hoa Long Huyết của Rentt và hứa sẵn lòng giúp đỡ anh bất cứ khi nào cần.
 - Xuất hiện từ: #59.
+- Trạng thái tính đến chương 75: Cùng Unbert mang thuốc đã bào chế từ Hoa Long Huyết đến cô nhi viện để chữa bệnh cho Sơ Lillian.
 
 ### Viscount Lottnel
 - Giới tính, tuổi/vẻ ngoài: Nam, quý tộc cai quản Maalt và các vùng phụ cận.

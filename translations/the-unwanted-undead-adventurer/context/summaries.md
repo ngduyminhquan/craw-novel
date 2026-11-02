@@ -439,4 +439,10 @@ Alize vui mừng đón tiếp và thông báo thuốc chữa bệnh cho Sơ Lill
 Trong phòng tiếp khách, Lorraine chính thức nhận Alize làm đệ tử ma thuật đầu tiên sau khi thử thách quyết tâm của cô bé, khiến Rentt dở khóc dở cười vì Alize vốn muốn làm mạo hiểm giả.
 Cả ba cùng vào phòng thăm Sơ Lillian; khi nghe tiếng đám trẻ báo tin thầy trị liệu Unbert và bác sĩ Norman mang thuốc tới, Alize xin phép ra mở cửa, tạo cơ hội cho Lorraine bắt đầu đề cập với Sơ Lillian về thiên phú ma thuật của cô bé.
 
+## 75
+Lorraine tiết lộ với Sơ Lillian về thiên phú ma thuật vượt trội của Alize, khẳng định cô bé có tiềm năng phấn đấu trở thành Pháp Sư Cung Đình nếu chịu khó rèn luyện.
+Sơ Lillian lo lắng về con đường ma thuật gian nan; Rentt kể lại việc Alize tự tay đánh bại Puchi Suri và ước mơ làm mạo hiểm giả, khiến Sơ Lillian xúc động và tôn trọng nguyện vọng của cô bé.
+Thầy trị liệu Unbert và dược sư Norman bước vào phòng bệnh; Lorraine đề nghị cả nhóm cùng ở lại lắng nghe tình hình sức khỏe của Sơ Lillian.
+Unbert thẳng thắn chẩn đoán Sơ Lillian mắc Bệnh Tích Tụ Chướng Khí khiến sơ hoảng hốt lo tìm người tiếp quản cô nhi viện, nhưng anh lập tức trấn an rằng căn bệnh sẽ được chữa khỏi hoàn toàn nhờ phương thuốc mới bào chế.
+
 

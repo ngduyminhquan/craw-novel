@@ -107,3 +107,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alize | Lorraine Vivie | em | cô Lorraine / cô | 74 | Đệ tử mồ côi nói chuyện với sư phụ ma thuật / học giả danh tiếng |
 | Lorraine Vivie | Lillian | tôi | Sơ Lillian | 74 | Học giả trao đổi lịch sự với nữ tu phụ trách cô nhi viện |
 | Lillian | Lorraine Vivie | tôi | cô / cô Lorraine | 74 | Nữ tu lớn tuổi tiếp chuyện học giả danh tiếng |
+| Rentt Faina | Unbert Abeiyu | tôi | anh / các anh | 59 | Mạo hiểm giả nói chuyện với thầy trị liệu |
+| Unbert Abeiyu | Rentt Faina | tôi | anh / anh Rentt / hai vị | 59 | Thầy trị liệu trò chuyện lịch sự với mạo hiểm giả |
+| Lillian | Unbert Abeiyu | tôi | Unbert | 75 | Nữ tu lớn tuổi nói chuyện với thầy trị liệu quen biết |
+| Unbert Abeiyu | Lillian | tôi | Sơ Lillian | 75 | Thầy trị liệu kính trọng nữ tu phụ trách cô nhi viện (raw: Lady Lillian) |
+| Lillian | Norman Hanel | tôi | Norman | 75 | Nữ tu lớn tuổi nói chuyện với dược sư quen biết |
+| Lorraine Vivie | Unbert Abeiyu | tôi | anh / các anh | 75 | Học giả trao đổi lịch sự với thầy trị liệu |
+| Unbert Abeiyu | Lorraine Vivie | tôi | cô / hai vị | 75 | Thầy trị liệu trao đổi lịch sự với học giả |

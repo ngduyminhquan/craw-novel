@@ -79,7 +79,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | reviewed |  |
 | 73 |  | Chapter_073 - Vol 3 Chapter 3 - A New Existential Evolution (4).txt | Vol 3 Chapter 3 - A New Existential Evolution (4) | done |  |
 | 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | done |  |
-| 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | todo |  |
+| 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | done |  |
 | 76 |  | Chapter_076 - Vol 3 Chapter 3 - A New Existential Evolution (7).txt | Vol 3 Chapter 3 - A New Existential Evolution (7) | todo |  |
 | 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | todo |  |
 | 78 |  | Chapter_078 - Vol 3 Chapter 4 - Magecraft (2).txt | Vol 3 Chapter 4 - Magecraft (2) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -514,3 +513,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#74] Dịch danh xưng 'scholar-magus' của Lorraine Vivie (đoạn 91, 99, 183) — tạm chọn 'học giả ma thuật' (khớp với 魔術学者 và vai trò của Lorraine trong context; phương án khác: 'học giả kiêm pháp sư', 'pháp sư học giả'). Tạm dùng trong bản dịch: 'học giả ma thuật'. → Chốt 'học giả ma thuật' (khớp 魔術学者 và thuật ngữ 'Magecraft' → 'ma thuật' trong glossary.md). (orchestrator)
 - [#74] Xưng hô giữa Lorraine Vivie và Alize (đoạn 61, 65, 77, 91, 207, 213) — tạm chọn Lorraine xưng 'tôi', gọi 'em / Alize'; Alize xưng 'em', gọi 'cô Lorraine / cô' (phù hợp quan hệ học giả/gia sư nhận đệ tử mồ côi nhỏ tuổi; phương án khác: Alize gọi 'chị Lorraine' hoặc 'sư phụ Lorraine'). Tạm dùng trong bản dịch: Lorraine (tôi - em / Alize), Alize (em - cô Lorraine / cô). → Chốt Lorraine xưng 'tôi', gọi 'em / Alize'; Alize xưng 'em', gọi 'cô Lorraine / cô' (phù hợp quan hệ học giả nhận cô bé mồ côi làm học trò). (orchestrator)
 - [#74] Xưng hô giữa Lorraine Vivie và Sơ Lillian (đoạn 183, 185, 211, 219) — tạm chọn Lorraine xưng 'tôi', gọi 'Sơ Lillian'; Lillian xưng 'tôi', gọi 'cô / cô Lorraine' (giao tiếp nhã nhặn, tôn trọng giữa nữ học giả và nữ tu lớn tuổi; phương án khác: Lillian gọi 'cô Vivie'). Tạm dùng trong bản dịch: Lorraine (tôi - Sơ Lillian), Lillian (tôi - cô / cô Lorraine). → Chốt Lorraine xưng 'tôi', gọi 'Sơ Lillian'; Lillian xưng 'tôi', gọi 'cô / cô Lorraine' (giao tiếp lịch sự giữa nữ học giả và nữ tu phụ trách cô nhi viện). (orchestrator)
+- [#75] Dịch chức nghiệp 'Court Mage' / 'Court Mages' (đoạn 19, 21) — tạm chọn 'Pháp Sư Cung Đình' (chuẩn Hán Việt ngắn gọn cho 宮廷魔術師; phương án khác: 'Pháp Sư Hoàng Gia', 'Ma Pháp Sư Cung Đình'). Tạm dùng trong bản dịch: 'Pháp Sư Cung Đình'. → Chốt 'Pháp Sư Cung Đình' (chuẩn Hán Việt ngắn gọn cho 宮廷魔術師 theo rules.md). (orchestrator)
+- [#75] Dịch tổ chức/thực thể 'Royal Court' (đoạn 21) — tạm chọn 'Triều Đình Hoàng Gia' (phương án khác: 'Hoàng Cung', 'Triều Đình'). Tạm dùng trong bản dịch: 'Triều Đình Hoàng Gia'. → Chốt 'Triều Đình Hoàng Gia' (bản dịch tự nhiên và chuẩn xác cho 'Royal Court'). (orchestrator)
