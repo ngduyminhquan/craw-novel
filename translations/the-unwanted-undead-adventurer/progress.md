@@ -19,7 +19,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 12 |  | Chapter_012 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (1) | reviewed |  |
 | 13 |  | Chapter_013 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (2) | done |  |
 | 14 |  | Chapter_014 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (3) | done |  |
-| 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | todo |  |
+| 15 |  | Chapter_015 - Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4).txt | Vol 1 Chapter 3 - A Certain Undead’s Town Infiltration (4) | done |  |
 | 16 |  | Chapter_016 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (1) | todo |  |
 | 17 |  | Chapter_017 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (2) | todo |  |
 | 18 |  | Chapter_018 - Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3).txt | Vol 1 Chapter 4 - The Labyrinth of the Moon’s Reflection and Troublesome Restrictions (3) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -383,3 +384,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#12] Đoạn 39: Dịch thành ngữ "for lack of a better word" → Sửa thành "với giả định chung rằng họ, nói thẳng thừng ra là, đã chết" (orchestrator)
 - [#13] Dịch danh hiệu học thuật 'Great Professor' và 'Professor' của Lorraine — tạm chọn 'Đại Học Sĩ' và 'Học Sĩ' (phương án khác: 'Đại Giáo Sư' và 'Giáo Sư'). → Chốt Đại Học Sĩ (Great Professor) và Học Sĩ (Professor) hợp bối cảnh trung cổ giả tưởng. (orchestrator)
 - [#14] Dịch cụm tri thức luận 'known unknowns' và 'unknown unknowns' của Lorraine — tạm dịch 'những điều đã biết là mình chưa biết' và 'những điều chưa biết là mình chưa biết' (phương án khác: 'những điều chưa biết có thể biết' và 'những điều chưa biết không thể lường trước', hoặc 'điều chưa biết khả tri' và 'điều chưa biết bất khả tri'). → Giữ nguyên cách dịch 'những điều đã biết là mình chưa biết' và 'những điều chưa biết là mình chưa biết' (chuẩn xác và dễ hiểu). (orchestrator)
+- [#15] Dịch thuật ngữ 'thrice-blessed' — tạm chọn 'Tam Chúc Phúc' (phương án khác: 'Tam Trùng Phúc', 'Người Mang Tam Chúc Phúc'). → Chốt Tam Chúc Phúc (Thrice-blessed) ngắn gọn theo quy tắc Hán Việt. (orchestrator)
+- [#15] Xưng hô giữa vợ chồng thợ rèn Clope và Luka — tạm chọn Luka xưng em gọi anh, Clope xưng anh gọi em (hai người là vợ chồng kiêm bạn thanh mai trúc mã). → Chốt Luka xưng em gọi anh, Clope xưng anh gọi em. (orchestrator)
+- [#15] Xưng hô Clope và Rentt — Clope xưng tôi gọi cậu (thân thiện, bộc trực), Rentt xưng tôi gọi anh (lịch sự, khiêm nhường). → Chốt Clope xưng tôi gọi cậu, Rentt xưng tôi gọi anh. (orchestrator)

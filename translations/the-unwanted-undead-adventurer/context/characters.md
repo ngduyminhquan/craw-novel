@@ -42,15 +42,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 15: Lo lắng bồn chồn khi Rentt mất tích nhiều ngày chưa về báo cáo nhiệm vụ.
 
 ### Luka
-- Giới tính, tuổi/vẻ ngoài: Nữ, xinh đẹp quý phái, tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
-- Tính cách: Tinh tế, sắc sảo, kín tiếng, có mắt nhìn vũ khí và thấu hiểu khách hàng sâu sắc.
-- Cách nói chuyện: Nhã nhặn, chuyên nghiệp, khéo léo.
-- Quan hệ: Vợ của Clope, tiếp đón Rentt tại tiệm thợ rèn Ba Chĩa.
-- Trạng thái tính đến chương 15: Tiếp nhận đơn rèn thanh kiếm đặc biệt dẫn truyền cả 3 loại năng lượng từ Rentt.
+- Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
+- Tính cách: Tinh tế, sắc sảo, kín tiếng, có mắt nhìn vũ khí và thấu hiểu khách hàng sâu sắc; giàu tình cảm và quan tâm chân thành đến Rentt.
+- Cách nói chuyện: Nhã nhặn, chuyên nghiệp, khéo léo với khách; dịu dàng, thân thiết với chồng.
+- Quan hệ: Vợ kiêm bạn thanh mai trúc mã của Clope; người tiếp đón và sớm nhận ra Rentt sau lớp mặt nạ tại tiệm Ba Chĩa.
+- Trạng thái tính đến chương 15: Tiếp nhận đơn rèn thanh kiếm đặc biệt dẫn truyền cả 3 loại năng lượng từ Rentt; cùng Clope ngầm giữ kín bí mật về thân phận của anh.
 
 ### Clope
-- Giới tính, tuổi/vẻ ngoài: Nam, thợ rèn lực lưỡng, thô mộc.
-- Tính cách: Cần cù, đam mê rèn kiếm chất lượng cao, ít nói.
-- Cách nói chuyện: Bộc trực, dân thợ rèn.
-- Quan hệ: Chồng Luka, chủ xưởng rèn Ba Chĩa.
-- Trạng thái tính đến chương 15: Đảm nhận chế tác thanh kiếm đặc biệt cho Rentt.
+- Giới tính, tuổi/vẻ ngoài: Nam, khoảng ngoài 40 tuổi, cơ bắp cuồn cuộn nhưng dáng người có phần mảnh khảnh; gương mặt dạn dày sương gió như chiến binh kỳ cựu.
+- Tính cách: Cần cù, say mê nghề rèn, khi rèn vũ khí thì tập trung cao độ như rơi vào trạng thái xuất thần; vẻ ngoài và lời ăn tiếng nói thô ráp bộc trực như đe dọa nhưng bản chất rất hiền lành, chu đáo và biết nghĩ cho khách hàng.
+- Cách nói chuyện: Bộc trực, dân dã, ngắn gọn, thẳng thắn.
+- Quan hệ: Chồng kiêm bạn thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
+- Trạng thái tính đến chương 15: Đảm nhận chế tác thanh kiếm đặc biệt cho Rentt, ngầm nhận ra người bạn cũ dưới lớp mặt nạ và tôn trọng nguyện vọng giữ kín của anh.

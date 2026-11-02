@@ -87,4 +87,10 @@ Trở về an toàn, Lorraine biết sự thật rằng Rentt và người kiế
 Sau những ngày bồn chồn lo sợ khi Rentt mất tích, Lorraine giả vờ ngủ say đón anh trở về; ở hiện tại, Rentt được Lorraine giúp bán Ma Tinh và chất dịch Slime nên có một khoản tiền khá lớn.
 Vì thanh kiếm cũ đã sứt mẻ sau nhiều lần vận dụng đồng thời ba loại năng lượng, Rentt quyết định tạm hoãn mua giáp (để tránh lộ thân thể Ngạ Quỷ) và tìm đến một tiệm rèn quen thuộc để mua vũ khí mới.
 
+## 15
+Rentt mang thanh kiếm hỏng đến tiệm rèn quen thuộc Ba Chĩa và được người tiếp khách là Luka đón tiếp; cô nhanh chóng nhận ra kiếm bị hỏng nặng do truyền tải ma pháp và Khí Thuật.
+Rentt tiết lộ bản thân là người mang Tam Chúc Phúc (dùng cả Ma Lực, Khí Lực, Thần Lực) và chi trả toàn bộ số tiền mang theo để đặt rèn một thanh kiếm đặc chế chịu tải được cả ba loại năng lượng, đồng thời để lại liên hệ qua Học sĩ Lorraine.
+Vào xưởng rèn gặp chủ tiệm Clope, Rentt kiên nhẫn ngồi ngắm người thợ rèn say mê đập búa; sau đó Clope đồng ý nhận đơn đặt hàng đặc biệt và hai bên chốt thỏa thuận bằng một cái bắt tay.
+Đoạn kết chuyển sang góc nhìn của Luka: vợ chồng Luka và Clope đã sớm nhận ra vị khách trùm kín mặt nạ chính là Rentt nhờ những manh mối cố tình để lại; dù đau lòng và lo lắng trước biến cố của anh, cả hai quyết định tôn trọng bí mật của Rentt và toàn tâm dốc sức rèn kiếm cho anh.
+
 
