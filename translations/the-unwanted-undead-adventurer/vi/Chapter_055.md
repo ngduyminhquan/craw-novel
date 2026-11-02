@@ -78,7 +78,7 @@ Thế rồi, chẳng hề có điềm báo trước, con quái ngư từng hất
 
 Đúng là quy luật sinh tồn chốn hoang dã...
 
-Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở cái đầm lầy này...
+Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở vùng đất này.
 
 Rõ ràng là sững sờ trước những gì vừa diễn ra ngay trước mắt, con Goblin đơn độc đứng chôn chân, nom có vẻ hoàn toàn mất phương hướng. Đăm đăm nhìn vào bóng lưng nó, tôi không khỏi tự hỏi liệu nó có cảm thấy một nỗi tuyệt vọng ngập tràn hay không. Liệu nó có cảm thấy xót thương cho sự mất mát của những người bạn, bất kể việc chính chúng vừa mới bỏ mặc nó cho số phận chỉ vài khoảnh khắc trước đó?
 

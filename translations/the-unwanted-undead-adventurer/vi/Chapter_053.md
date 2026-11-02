@@ -114,7 +114,7 @@ Hiển nhiên là tôi sẽ phải độc thân cả đời, nhưng tôi vẫn c
 
 Chà, vốn dĩ ngay từ đầu tôi cũng chẳng có ý định kết hôn, nên chuyện đó cũng chẳng quan trọng. Thế nhưng, việc thi thoảng tôi vẫn thoáng qua những suy nghĩ như vậy có lẽ đồng nghĩa với việc tôi vẫn chưa hoàn toàn từ bỏ ý nghĩ đó.
 
-Kéo tâm trí trở lại với tình hình hiện tại, tôi nhận ra làn nước kịch độc của đầm lầy dường như là nơi bất khả thi cho phần lớn sinh vật sống tồn tại. Bởi lẽ hầu hết các sinh vật sống một khi chìm xuống đầm lầy sẽ lập tức tím tái đi rồi bỏ mạng chỉ trong vòng năm giây sau đó.
+Kéo tâm trí trở lại với tình hình hiện tại, tôi nhận ra làn nước kịch độc của đầm lầy dường như là nơi bất khả thi cho phần lớn sinh vật sống tồn tại. Bởi lẽ hầu hết các sinh vật sống một khi chìm xuống đầm lầy sẽ lập tức tím tái đi rồi bỏ mạng chỉ trong khoảng năm phút sau đó.
 
 Thế nhưng cảnh tượng đón chào tôi khi chìm xuống làn nước đầm lầy lại hoàn toàn khác biệt. Tôi không thể gọi đó là một cảnh tượng đẹp đẽ hay nên thơ, nhưng dưới đáy sâu quả thực có sinh vật sống. Những con quái vật hình dạng giống cá, mỗi con to cỡ một người trưởng thành, đang há toang hoác miệng lao về phía tôi. Lũ cá này không chỉ có một vài con, bởi tôi có thể đếm được chừng mười con ở ngay khu vực lân cận quanh mình.
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T11:20:30Z",
+  "generatedAt": "2026-11-02T11:24:06Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2398,7 +2398,7 @@
           "number": 41,
           "title": "Chương 41: Tập 2 Chương 2 - Khế Ước Bằng Ma Pháp (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_041.md",
-          "sha": "fde5cc7443000e637201954926c49d6ad011be66"
+          "sha": "9844bdc0cb36f6beae65657f42431f8aa1612639"
         },
         {
           "number": 42,
@@ -2470,19 +2470,19 @@
           "number": 53,
           "title": "Chương 53: Tập 2 Chương 4 - Hoa Long Huyết (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_053.md",
-          "sha": "46f80968bb562c0f37fa8b66bc95f96feba956c8"
+          "sha": "abcdf66920466a92ef36d5355c2c4418b05d6230"
         },
         {
           "number": 54,
           "title": "Chương 54: Tập 2 Chương 4 - Hoa Long Huyết (7)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_054.md",
-          "sha": "6ef3a9a3223115fc73f3cc2238532c169b904cad"
+          "sha": "dae3d14d4a81e0a41fd7ea7aba2798bc957aaf7e"
         },
         {
           "number": 55,
           "title": "Chương 55: Tập 2 Chương 4 - Hoa Long Huyết (8)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_055.md",
-          "sha": "6db4743718f5f4d53bfed2c2790037ea8db907ce"
+          "sha": "3a606deab6095db9b0223773c893584d6ca18058"
         },
         {
           "number": 56,

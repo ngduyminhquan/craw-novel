@@ -14,7 +14,7 @@ Câu hỏi thoạt nghe bình thường của Lorraine lại đi kèm với mộ
 
 "...Vâng. Tôi nghe anh Rentt nói rằng anh ấy đã biến thành... một con quái vật. Và rằng anh ấy không tấn công con người..." Sheila đáp lời, giọng cô nhỏ nhẹ và đôi lúc hơi run rẩy. Tôi cảm nhận được muôn vàn cảm xúc đan xen đằng sau những lời lẽ giản đơn ấy. Còn rốt cuộc chúng là gì... thì tôi hoàn toàn chịu chết.
 
-Lorraine như lập tức nắm bắt được tình hình, bèn khẽ hừ mũi một tiếng.
+Lorraine như lập tức nắm bắt được tình hình, bèn hừ mũi bật cười.
 
 "Hừm! Chỉ có bấy nhiêu thôi sao? Thế mà cô lại dám theo chân Rentt về tận nhà như thế này ư? Cô không thấy nguy hiểm chút nào à?" Lorraine nghiêng người tới trước, cất tiếng hỏi.
 

@@ -192,7 +192,7 @@ Tôi tập trung khí tức Thần Lực, bao bọc nó quanh thanh kiếm của
 
 Tôi phóng mình lên—
 
-Bằng một nhát chém duy nhất đầy quyết đoán, tôi giáng đòn vào chiếc cổ vốn đã mang thương tích của con Tarasque. Dưới ánh sáng từ khí tức Thần Lực của tôi, những chiếc vảy của con quái thú tan chảy và biến dạng. Không giống như những nỗ lực hạ sát quái thú bằng Ma Khí Dung Hợp Thuật, lưỡi kiếm được truyền Thần Lực của tôi cắt ngọt qua da thịt Tarasque mà không phát ra một tiếng động. Sự kháng cự từ lớp thịt mềm của nó chẳng khác nào những quái vật hạ cấp mà tôi từng chạm trán. Thật là một cảm giác kỳ lạ—
+Bằng một nhát chém duy nhất đầy quyết đoán, tôi giáng đòn vào chiếc cổ vốn đã mang thương tích của con Tarasque. Dưới ánh sáng từ khí tức Thần Lực của tôi, những chiếc vảy của con quái thú tan chảy và biến dạng. Không giống như những nỗ lực hạ sát quái thú bằng Ma Khí Dung Hợp Thuật, lưỡi kiếm được truyền Thần Lực của tôi cắt ngọt qua da thịt Tarasque mà không phát ra một tiếng động. Sự kháng cự từ lớp thịt mềm của nó chẳng khác nào những quái vật hạ cấp mà tôi từng chạm trán. Đây quả là một phát hiện thú vị...
 
 Con Tarasque ra sức giãy giụa dữ dội. Nó toan thoát khỏi lưỡi kiếm cháy rực lúc này đang trên đà tách rời cái đầu khỏi phần còn lại của cơ thể nó. Nhưng tôi đâu thể để chuyện đó xảy ra.
 
