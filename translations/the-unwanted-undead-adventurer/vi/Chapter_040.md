@@ -24,7 +24,7 @@ Không, không không không. Thế này thì quá đáng lắm rồi. Làm sao 
 
 Dù muốn lên tiếng phản đối, nhưng bản khế ước đã được viết ra mất rồi. Chúng tôi sẽ phải mua một tấm giấy da khác để định ra các điều khoản mới và đem đốt bỏ tấm này.
 
-Chí ít thì đó là những gì tôi muốn nói, nhưng tôi đâu có mù quáng trước ánh mắt kiên định của Sheila. Đây là cái giá mà cô ấy sẵn sàng đánh đổi chỉ để nghe những gì tôi sắp nói, và dường như Sheila đã hạ quyết tâm cho việc này từ rất lâu rồi. Xem ra tôi không còn quyền lên tiếng nữa.
+Chí ít thì đó là những gì tôi muốn nói, nhưng chẳng phải tôi không nhìn thấy ánh mắt kiên định của Sheila. Đây là cái giá mà cô ấy sẵn sàng đánh đổi chỉ để nghe những gì tôi sắp nói, và dường như Sheila đã hạ quyết tâm cho việc này từ rất lâu rồi. Xem ra tôi không còn quyền lên tiếng nữa.
 
 Việc cô kéo tôi vào căn phòng này và kiên nhẫn đứng đây chờ đợi giữa những lần tôi ngập ngừng do dự mãi không thôi, rồi lại thêm bản khế ước này nữa... Cứ đà này thì tôi chẳng có cách nào từ chối cô ấy được.
 
@@ -54,7 +54,7 @@ Dù trên đầu tôi không hẳn là có một cái lỗ, nhưng da thịt tr�
 
 "Cái...?! Ch-Chuyện này... Đây là..." Rướn đầu tới trước trong sự lẫn lộn giữa bối rối và sợ hãi, Sheila chậm rãi bước vòng quanh tôi, ngó nghiêng nhìn tôi từ nhiều góc độ.
 
-Đứng trước mặt tôi thêm một lần nữa, tôi thay đổi hình dạng chiếc mặt nạ để Sheila thấy được toàn bộ khuôn mặt mình. Nếu phải nói thì đây chính là điểm gây tác động mạnh nhất về mặt thị giác trên cơ thể tôi, bởi nửa dưới khuôn mặt chẳng còn gì ngoài hàm răng, phần nướu đã mục rữa một nửa và xương quai hàm bằng cách nào đó vẫn còn nguyên vẹn.
+Khi cô ấy lại đứng trước mặt tôi, tôi thay đổi hình dạng chiếc mặt nạ để Sheila thấy được toàn bộ khuôn mặt mình. Nếu phải nói thì đây chính là điểm gây tác động mạnh nhất về mặt thị giác trên cơ thể tôi, bởi nửa dưới khuôn mặt chẳng còn gì ngoài hàm răng, phần nướu đã mục rữa một nửa và xương quai hàm bằng cách nào đó vẫn còn nguyên vẹn.
 
 Lorraine, vốn là một học giả quái vật, đã quá quen với những cảnh tượng kiểu này nên chẳng có vẻ gì là ngạc nhiên cho lắm. Ngược lại, Sheila dường như không thể tiếp nhận cảnh tượng trước mắt một cách dễ dàng. Sắc mặt cô giờ đây tái mét, hai đầu gối run rẩy khi cô ngồi bệt xuống đất, không còn đủ sức để đứng vững nữa.
 

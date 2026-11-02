@@ -24,7 +24,7 @@ Tương tự như tôi, vấn đề duy nhất của Augurey chính là vẻ ngo
 
 Chuyện quái vật bám theo Augurey khắp mọi nơi gã đặt chân tới, dù là ngoài rừng rậm hay bên trong mê cung, vốn là điều ai ai cũng biết. Thành thử cả gã lẫn tôi chủ yếu đều là mạo hiểm giả tác chiến đơn độc, đơn giản vì chẳng ai mặn mà lập đội với một kẻ có khả năng dụ quái bu lại chỉ bằng việc đứng yên một chỗ. So với gã, vẻ ngoài của tôi trông còn bình thường chán—hay nói đúng hơn là kín đáo hơn nhiều.
 
-Nghĩ lại thì, gã lại lặn lội lên tận thủ đô cơ đấy...
+Không ngờ gã lại lặn lội lên tận thủ đô cơ đấy...
 
 Giới mạo hiểm giả vốn nổi tiếng là cơ động khi xét đến địa bàn hoạt động, nên những cuộc chia tay hay ly biệt luôn chực chờ ập đến bất cứ lúc nào. Dù vậy, tôi vẫn không khỏi cảm thấy có chút chạnh lòng trước sự rời đi của Augurey. Nếu phải nói thì chúng tôi từng là những người bạn cùng chung cảnh ngộ tác chiến đơn độc, nhưng tôi đồ rằng ở chốn này chuyện thường là như thế.
 
@@ -94,7 +94,7 @@ Trong các cánh rừng, đồi núi và những nơi khác bên ngoài thị tr
 
 Thế nhưng tôi cũng chẳng thiết tha gì chuyện bị đổ oan cho một sự vụ bí ẩn nào đó chỉ vì những mạo hiểm giả khác ghen tị với bước tiến của mình.
 
-Cân nhắc mọi yếu tố kể trên, rốt cuộc chúng tôi đi đến thống nhất rằng tôi sẽ nằm im bất động trong một thời gian ngắn. Nếu sau đó tình hình vẫn không chuyển biến, tôi sẽ quay trở lại với các hoạt động trước đây của mình.
+Cân nhắc mọi yếu tố kể trên, rốt cuộc chúng tôi đi đến thống nhất rằng tôi sẽ tạm thời án binh bất động trong một thời gian ngắn. Nếu sau đó tình hình vẫn không chuyển biến, tôi sẽ quay trở lại với các hoạt động trước đây của mình.
 
 Trong trường hợp tôi quay lại thám hiểm, cả nhóm quyết định rằng tôi nên có một đồng đội đi cùng vì sự an toàn. Tuy nhiên, cũng hoàn toàn có khả năng tôi sẽ trải qua Tiến Hóa Bản Thể trong lúc chiến đấu với quái vật bên trong mê cung. Tiến Hóa Bản Thể không phải là thứ tôi có thể kiểm soát; bản chất bột phát tự nhiên của nó đồng nghĩa với việc bất kỳ thành viên tổ đội nào đi cùng tôi đều phải biết rõ về tình cảnh của tôi. Điều này đã thu hẹp đáng kể danh sách ứng viên khả dĩ.
 

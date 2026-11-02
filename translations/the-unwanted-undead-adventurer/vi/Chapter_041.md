@@ -52,7 +52,7 @@ Sheila không còn cách nào khác ngoài việc hiểu ra rằng Lorraine sẽ
 
 Thế nhưng, ánh mắt của Lorraine lại nói lên một điều khác.
 
-Đối với Lorraine, đây sẽ chẳng qua chỉ là một hành vi thanh lý đơn thuần. Cô có thể dễ dàng phóng hỏa thiêu rụi vô số vật thể thành tro bụi, dù là con người hay bất kỳ thứ gì khác. Ngay cả Sheila cũng hiểu rằng Lorraine thừa khả năng xóa sổ sự tồn tại của một sinh linh khác mà chẳng mảy may do dự. Dù sao thì Lorraine cũng là một mạo hiểm giả, hơn nữa còn là một Ngân Cấp dạn dày kinh nghiệm. Phải trả lời thật cẩn trọng; đó rất có thể là ý nghĩ duy nhất lướt qua tâm trí Sheila lúc này.
+Đối với Lorraine, đây sẽ chẳng qua chỉ là một hành vi dọn dẹp đơn thuần. Cô có thể dễ dàng phóng hỏa thiêu rụi vô số mục tiêu thành tro bụi, dù là con người hay bất kỳ thứ gì khác. Ngay cả Sheila cũng hiểu rằng Lorraine thừa khả năng xóa sổ sự tồn tại của một sinh linh khác mà chẳng mảy may do dự. Dù sao thì Lorraine cũng là một mạo hiểm giả, hơn nữa còn là một Ngân Cấp dạn dày kinh nghiệm. Phải trả lời thật cẩn trọng; đó rất có thể là ý nghĩ duy nhất lướt qua tâm trí Sheila lúc này.
 
 Lấy hết can đảm thêm một lần nữa, đôi môi Sheila khẽ hé mở.
 
@@ -124,7 +124,7 @@ Tính cách và năng lực của Lorraine đã đóng góp rất lớn cho mụ
 
 Chẳng mất bao lâu để Lorraine cuộn tờ giấy da lại thêm một lần nữa, rõ ràng là đã sẵn sàng đưa ra lời phán định của mình.
 
-"...Thoạt nhìn thì, tôi cho là không có vấn đề gì quá lộ liễu. Đương nhiên là có cả tá điểm tôi có thể săm soi bới lông tìm vết. Gạt chuyện đó sang một bên, bản này nhìn chung khá ổn thỏa, miễn sao bản thân Sheila không hé răng về cái gọi là bí mật của Rentt cho bất kỳ bên ngoài nào. Vấn đề chính cần cân nhắc ở đây sẽ là tình huống cô bị một loại ma pháp xâm lấn nào đó khống chế trái với ý muốn... Trong trường hợp ấy, tôi e là cô sẽ phải từ bỏ cuộc sống hiện tại mà trở thành nô lệ của Rentt."
+"...Thoạt nhìn thì, tôi cho là không có vấn đề gì quá lộ liễu. Đương nhiên là có cả tá điểm tôi có thể săm soi bới lông tìm vết. Gạt chuyện đó sang một bên, bản này nhìn chung khá ổn thỏa, miễn sao bản thân Sheila không hé răng về cái gọi là bí mật của Rentt cho bất kỳ ai bên ngoài. Vấn đề chính cần cân nhắc ở đây sẽ là tình huống cô bị một loại ma pháp xâm lấn nào đó khống chế trái với ý muốn... Trong trường hợp ấy, tôi e là cô sẽ phải từ bỏ cuộc sống hiện tại mà trở thành nô lệ của Rentt."
 
 "Chẳng lẽ không... Thể làm gì đối với... Cái điều khoản đó của khế ước sao...?"
 

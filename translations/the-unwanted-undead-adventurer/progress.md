@@ -44,9 +44,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | reviewed |  |
 | 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | reviewed |  |
 | 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | reviewed |  |
-| 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | done |  |
-| 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | done |  |
-| 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | done |  |
+| 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | reviewed |  |
+| 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | reviewed |  |
+| 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | reviewed |  |
 | 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | todo |  |
 | 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | todo |  |
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | todo |  |
