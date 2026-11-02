@@ -64,6 +64,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
 - Trạng thái tính đến chương 69: Thức đêm biên soạn giáo trình ma thuật 10 tập để chuẩn bị dạy cho Alize; cảnh báo Rentt về sự nguy hiểm chết người của máu Ma Cà Rồng nhưng hết lòng thấu hiểu, ủng hộ ước mơ Mithril Cấp và hứa sẽ chăm sóc phần mộ cho Rentt nếu anh gặp bất trắc; sẵn sàng ma pháp theo lời dặn của Rentt khi anh uống cạn bình máu.
+- Trạng thái tính đến chương 74: Cùng Rentt đến Cô Nhi Viện Thứ Hai Maalt, chính thức nhận Alize làm đệ tử ma thuật đầu tiên và bắt đầu gợi mở với Sơ Lillian về thiên phú ma thuật của cô bé.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -163,6 +164,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Cố gắng nói năng trang trọng, lịch sự như người lớn khi đại diện cô nhi viện tiếp khách; khi được Rentt cho phép thì nói chuyện tự nhiên, hồn nhiên đúng lứa tuổi, xưng "em", gọi "anh Rentt" / "anh"; kính trọng gọi "Sơ Lillian" (Lady Lillian).
 - Quan hệ: Đứa trẻ lớn đảm nhận vai trò trợ tá ("cánh tay phải") của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; người bí mật đổi nội dung ủy thác thành tìm Hoa Long Huyết nhằm chữa bệnh cho Sơ Lillian.
 - Trạng thái tính đến chương 51: Cùng Rentt xuống căn hầm chứa đồ, tự tay hạ gục một con Puchi Suri nhỏ bằng dao tự vệ và được Rentt tặng viên Ma Tinh làm tiền tiêu vặt; chứng kiến con Puchi Suri ngoại cỡ quyến thuộc của Rentt áp chế bầy chuột nhỏ canh giữ căn hầm.
+- Trạng thái tính đến chương 74: Chính thức trở thành đệ tử ma thuật đầu tiên của Lorraine Vivie sau khi bày tỏ khát khao mãnh liệt muốn làm mạo hiểm giả giúp đỡ người khác như Rentt; thông báo thuốc chữa bệnh cho Sơ Lillian đã chuẩn bị xong.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.

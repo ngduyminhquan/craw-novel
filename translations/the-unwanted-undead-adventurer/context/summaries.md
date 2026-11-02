@@ -433,4 +433,10 @@ Sau khi hoàn tất thử nghiệm bay kết hợp Thần Lực thành công mà
 Chứng kiến diện mạo phục hồi nét người xưa cũ, Lorraine xúc động chào mừng Rentt trở về; sau đó cô phân loại anh là một biến thể dị biệt tiệm cận Hạ Cấp Ma Cà Rồng vượt ngoài mọi hiểu biết thông thường.
 Chương khép lại với nỗi lo lắng của Rentt trước viễn cảnh những lần tiến hóa tương lai có thể biến anh thành quái vật nhiều sừng, nhiều tay mắt kỳ dị.
 
+## 74
+Rentt cùng Lorraine mang theo bộ điều khiển phi thuyền mô hình tới Cô Nhi Viện Thứ Hai Maalt; trên đường đi Rentt tiếp tục nạp Ma Lực vào ma tinh, và Lorraine vô tình làm gãy chiếc vòng gõ cửa vốn đã nứt từ trước do Rentt.
+Alize vui mừng đón tiếp và thông báo thuốc chữa bệnh cho Sơ Lillian đã được bào chế xong từ đóa Hoa Long Huyết.
+Trong phòng tiếp khách, Lorraine chính thức nhận Alize làm đệ tử ma thuật đầu tiên sau khi thử thách quyết tâm của cô bé, khiến Rentt dở khóc dở cười vì Alize vốn muốn làm mạo hiểm giả.
+Cả ba cùng vào phòng thăm Sơ Lillian; khi nghe tiếng đám trẻ báo tin thầy trị liệu Unbert và bác sĩ Norman mang thuốc tới, Alize xin phép ra mở cửa, tạo cơ hội cho Lorraine bắt đầu đề cập với Sơ Lillian về thiên phú ma thuật của cô bé.
+
 

@@ -78,7 +78,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | reviewed |  |
 | 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | reviewed |  |
 | 73 |  | Chapter_073 - Vol 3 Chapter 3 - A New Existential Evolution (4).txt | Vol 3 Chapter 3 - A New Existential Evolution (4) | done |  |
-| 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | todo |  |
+| 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | done |  |
 | 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | todo |  |
 | 76 |  | Chapter_076 - Vol 3 Chapter 3 - A New Existential Evolution (7).txt | Vol 3 Chapter 3 - A New Existential Evolution (7) | todo |  |
 | 77 |  | Chapter_077 - Vol 3 Chapter 4 - Magecraft (1).txt | Vol 3 Chapter 4 - Magecraft (1) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -510,3 +511,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#72] Dịch thuật ngữ giải phẫu cánh dơi 'phalanx bones' (đoạn 101) — tạm chọn 'xương đốt ngón' theo giải phẫu học cánh dơi (phương án khác: 'xương ngón tay', 'xương cánh'). Tạm dùng trong bản dịch: 'xương đốt ngón'. → Chốt 'xương đốt ngón' (thuật ngữ giải phẫu học chính xác cho xương cánh dơi; danh từ giải phẫu chung không cần thêm vào glossary). (orchestrator)
 - [#72] Thêm biến thể có gạch nối 'Fusion-Arts' vào Alias của 'Fusion Art' (Dung Hợp Thuật) trong glossary.md — tạm dùng trong bản dịch: 'Dung Hợp Thuật' (nhất quán với #43). → Chốt thêm 'Fusion-Arts' vào Alias của 'Fusion Art' ('Dung Hợp Thuật') trong glossary.md (nhất quán với #43). (orchestrator)
 - [#73] Dịch 'Compulsory Request' - tạm chọn 'Ủy Thác Cưỡng Chế' (phương án khác: 'Ủy Thác Bắt Buộc', 'Nhiệm Vụ Cưỡng Chế'). → Chốt 'Ủy Thác Cưỡng Chế' (khớp nguyên tác 強制依頼 và thuật ngữ 'ủy thác' xuyên suốt truyện). (orchestrator)
+- [#74] Dịch danh xưng 'scholar-magus' của Lorraine Vivie (đoạn 91, 99, 183) — tạm chọn 'học giả ma thuật' (khớp với 魔術学者 và vai trò của Lorraine trong context; phương án khác: 'học giả kiêm pháp sư', 'pháp sư học giả'). Tạm dùng trong bản dịch: 'học giả ma thuật'. → Chốt 'học giả ma thuật' (khớp 魔術学者 và thuật ngữ 'Magecraft' → 'ma thuật' trong glossary.md). (orchestrator)
+- [#74] Xưng hô giữa Lorraine Vivie và Alize (đoạn 61, 65, 77, 91, 207, 213) — tạm chọn Lorraine xưng 'tôi', gọi 'em / Alize'; Alize xưng 'em', gọi 'cô Lorraine / cô' (phù hợp quan hệ học giả/gia sư nhận đệ tử mồ côi nhỏ tuổi; phương án khác: Alize gọi 'chị Lorraine' hoặc 'sư phụ Lorraine'). Tạm dùng trong bản dịch: Lorraine (tôi - em / Alize), Alize (em - cô Lorraine / cô). → Chốt Lorraine xưng 'tôi', gọi 'em / Alize'; Alize xưng 'em', gọi 'cô Lorraine / cô' (phù hợp quan hệ học giả nhận cô bé mồ côi làm học trò). (orchestrator)
+- [#74] Xưng hô giữa Lorraine Vivie và Sơ Lillian (đoạn 183, 185, 211, 219) — tạm chọn Lorraine xưng 'tôi', gọi 'Sơ Lillian'; Lillian xưng 'tôi', gọi 'cô / cô Lorraine' (giao tiếp nhã nhặn, tôn trọng giữa nữ học giả và nữ tu lớn tuổi; phương án khác: Lillian gọi 'cô Vivie'). Tạm dùng trong bản dịch: Lorraine (tôi - Sơ Lillian), Lillian (tôi - cô / cô Lorraine). → Chốt Lorraine xưng 'tôi', gọi 'Sơ Lillian'; Lillian xưng 'tôi', gọi 'cô / cô Lorraine' (giao tiếp lịch sự giữa nữ học giả và nữ tu phụ trách cô nhi viện). (orchestrator)
