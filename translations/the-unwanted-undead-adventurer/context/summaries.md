@@ -63,4 +63,10 @@ Rentt mặc thử trang bị che kín thân thể nhưng khi soi gương lại p
 Rina bất ngờ đưa ra một chiếc mặt nạ xương cỡ lớn mua thêm để giúp anh che kín khuôn mặt phát sáng nhằm đủ điều kiện qua cổng vào thị trấn Maalt.
 Cảm kích trước sự tinh tế của Rina, Rentt đeo thử chiếc mặt nạ xương thì nó đột ngột dính chặt vào khuôn mặt như một lớp da thứ hai và không thể gỡ ra được.
 
+## 11
+Rentt và Rina phát hiện chiếc mặt nạ kim loại mua với giá ba đồng xu đồng thực chất bị nguyền rủa; Rentt thử dùng Thần Lực thanh tẩy nhưng cạn kiệt năng lượng nên chưa thể tháo ra.
+Rina ân hận tạ lỗi và bất chấp nỗi sợ, cô nắm lấy tay Rentt, kiên quyết đi cùng để đứng ra bảo đảm giúp anh qua mắt lính gác cổng thị trấn Maalt.
+Tại cổng phía tây Maalt, người lính gác nghi ngờ giọng nói và chiếc mặt nạ của Rentt, nhưng Rina khéo léo bịa chuyện anh bị quái vật cắn nát mặt và dính lời nguyền mặt nạ.
+Sau khi người lính tự tay thử kéo mặt nạ không được và thông cảm cho hoàn cảnh nghèo khó của mạo hiểm giả cấp thấp, cả hai thuận lợi qua cổng vào Maalt.
+
 
