@@ -165,7 +165,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Fuu Suri |  | Fuu Suri | quái vật | 90 | Biến thể hệ hỏa của loài Puchi Suri (フウスリ) |
 | Fire Puchi Suri |  | Puchi Suri Hỏa | quái vật | 90 | Phân loài Puchi Suri thuộc tính hỏa, danh xưng phân loài của Fuu Suri |
 | Orc Soldier | Orc Soldiers | Orc Binh | quái vật | 90 | Phân loài Orc trang bị vũ khí và giáp kim loại (オークソルジャー) |
-| Eyes of Charming |  | Mị Nhãn | kỹ năng | 90 | Kỹ năng mị hoặc tâm trí thông qua ánh mắt của Ma Cà Rồng |
+| Eyes of Charming | mystic eyes of charm; mystic eyes | Mị Nhãn | kỹ năng | 90 | Kỹ năng mị hoặc tâm trí thông qua ánh mắt của Ma Cà Rồng (魅了の魔眼) |
 | Orc General | Orc Generals | Đại Tướng Orc | quái vật | 91 | Phân loài Orc cấp chỉ huy cao cấp, vũ trang mạnh mẽ |
 | Orc King | Orc Kings | Vua Orc | quái vật | 91 | Quái vật cấp vua thống trị toàn bộ loài Orc trong lãnh địa |
 | Jyulapus Ent | Jyulapus Ents | Ent Jyulapus | quái vật | 91 | Quái vật dạng cây gỗ thuộc tính mộc ở tầng 3 Mê Cung Tân Nguyệt |
@@ -205,3 +205,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Noxious Swamp-Bird | the Noxious Swamp-Bird | Chim Đầm Lầy Độc | quái vật | 108 | Loài chim độc sinh sống tại Đầm Lầy Tarasque |
 | Poison Gem | Tarasque’s Poison Gem; the Tarasque’s Poison Gem | Độc Ngọc Tarasque | vật phẩm | 108 | Tinh thể kết tinh chất độc của Tarasque |
 | Great Church-Father |  | Đại Giáo Phụ | chức nghiệp | 112 | Người đứng đầu tối cao của Giáo Hội Lobelia (大教父) |
+| Order of Inquisitor-Eradicators |  | Giáo Đoàn Thẩm Phán Tiệt Trừ | tổ chức | 113 | Lực lượng chuyên săn sát và thanh trừng quái vật ẩn nấp trong xã hội loài người của Giáo Hội Lobelia |
+| Loup Garou | Loup Garous | Người Sói | chủng tộc | 113 | Loài quái vật đội lốt người sói trà trộn trong xã hội nhân loại |

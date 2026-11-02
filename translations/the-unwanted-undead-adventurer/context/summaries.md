@@ -659,6 +659,13 @@ Gilly nhận một phong thư truyền đạt mệnh lệnh trực tiếp từ �
 Khi giải thích về danh hiệu Thợ Săn Ma Cà Rồng của Nive, Gilly bất ngờ để lộ vẻ hào hứng hiếm thấy và thừa nhận ước mơ thời thơ ấu từng muốn làm mạo hiểm giả trước khi bước vào con đường tu đạo khiến Myullias ngạc nhiên trêu chọc.
 Dù bối rối trước việc một mạo hiểm giả Kim Cấp có thể tác động lên giới thượng tầng của giáo hội để điều động Thánh Nữ, Myullias vẫn phải chấp hành mệnh lệnh và chuẩn bị tinh thần gặp mặt Nive Maris vào ngày hôm sau.
 
+## 113
+Nive Maris xuất hiện và tiết lộ mục đích thực sự của cuộc gặp là nhờ Thần Lực thanh tẩy của Myullias hỗ trợ điều tra xem mạo hiểm giả Rentt có phải Ma Cà Rồng hay không; Myullias chấp thuận vì đây cũng là trọng trách diệt trừ quái vật tương tự Giáo Đoàn Thẩm Phán Tiệt Trừ.
+Trước khi vào Thương hội Stheno, Nive cảnh báo về Mị Nhãn mê hoặc của Ma Cà Rồng có thể thao túng tâm trí đối phương như tiền lệ trong lịch sử của Kỹ nữ Adone.
+Trong buổi gặp gỡ, Myullias cảm nhận được Thần Lực bên trong Rentt và tin chắc anh vô tội, kinh ngạc khi Nive thi triển được Thánh Hỏa cấp cao; Rentt bình an vượt qua thử thách và nhận lời thỉnh cầu thêm của Nive vì bản tính nhân hậu mềm lòng.
+Rời khỏi thương hội, Nive thừa nhận dù trực giác mách bảo nhưng vẫn chấp nhận kết quả, đồng thời rủ Myullias tiếp tục hỗ trợ truy lùng Ma Cà Rồng vào ngày hôm sau; Myullias ngán ngẩm nhận ra chỉ thị từ Đại Giáo Phụ yêu cầu đáp ứng tối đa nhu cầu của Nive, báo hiệu chuỗi ngày vất vả sắp tới.
+
+
 
 
 

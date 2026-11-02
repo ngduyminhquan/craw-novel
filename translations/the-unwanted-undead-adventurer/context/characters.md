@@ -48,6 +48,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Nive Maris | Nive | Nive Maris | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng mang tước vị Nữ Chuẩn Nam tước | #104 |
 | Aaruz | Sir Aaruz | Aaruz | Tư tế xuất chúng của Giáo Hội Lobelia | #112 |
 | Millia | Lady Millia | Millia | Thánh Nữ xuất chúng của Giáo Hội Lobelia | #112 |
+| Adone | Adone the Courtesan | Adone | Kỹ nữ trong lịch sử sở hữu Mị Nhãn mê hoặc quốc vương khiến vương quốc sụp đổ | #113 |
 
 ## Chi tiết
 
@@ -263,6 +264,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #81.
 - Trạng thái tính đến chương 81: Được Giáo Hội Lobelia điều đến thị trấn biên ải Maalt để phô diễn năng lực trị liệu, thanh tẩy và thuyết giáo nhằm mở rộng tầm ảnh hưởng của giáo hội; ngồi cùng xe ngựa với tư tế giám sát Gilly.
 - Trạng thái tính đến chương 112: Quan sát thực trạng ngôi nguyện đường nhỏ của Giáo Hội Lobelia ở Maalt chỉ được dân bản địa ghé mua Nước Thánh và xà phòng; phân tích chiến lược bành trướng giáo hội đối trọng với Giáo Hội Đông Thiên; nhận mệnh lệnh trực tiếp từ Đại Giáo Phụ yêu cầu đi cùng Mạo hiểm giả Kim Cấp Nive Maris tới đàm phán với một mạo hiểm giả; ngạc nhiên và thích thú khi biết quá khứ của Gilly từng mơ làm mạo hiểm giả.
+- Trạng thái tính đến chương 113: Cùng Nive tới Thương hội Stheno đàm phán với Rentt; dùng Thần Lực thanh tẩy và phát hiện phản ứng Thần Lực trong người Rentt nên tin chắc anh không phải Ma Cà Rồng; ngán ngẩm trước mệnh lệnh của Đại Giáo Phụ yêu cầu đáp ứng tối đa nhu cầu của Nive, chuẩn bị tiếp tục hỗ trợ Nive truy lùng Ma Cà Rồng vào ngày hôm sau.
 
 ### Gilly
 - Giới tính, tuổi/vẻ ngoài: Nam, thanh niên trẻ tuổi, ánh mắt sắc bén, thần thái và động tác lạnh lùng như sát thủ hơn là tư tế; mang theo một vũ khí có lưỡi sắc bén giắt bên hông.
@@ -338,6 +340,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 108: Trả 2.000 đồng vàng (20 đồng bạch kim) để mua xác Tarasque và bồi thường cho Rentt; thán phục khả năng giữ bình tĩnh điềm đạm của Rentt trước số tiền khổng lồ; suy đoán Rentt lui tới Đầm Lầy Tarasque vì Hoa Long Huyết, Chim Đầm Lầy Độc hoặc Độc Ngọc Tarasque.
 - Trạng thái tính đến chương 109: Đề nghị dùng mạng lưới quan hệ tìm mua túi ma thuật dung tích lớn giúp Rentt; đưa ra thỉnh cầu nhờ Rentt liên lạc nếu gặp Ma Cà Rồng không thể đánh bại; tuyên bố việc săn Ma Cà Rồng chỉ là thú tiêu khiển giết thời gian lúc rảnh rỗi, và tiết lộ mục tiêu săn đuổi suốt bấy lâu nay chính là Ma Cà Rồng Hoàng Hôn.
 - Trạng thái tính đến chương 110: Khích lệ ước mơ trở thành mạo hiểm giả Mithril Cấp của Rentt; thừa nhận không rõ diện mạo Ma Cà Rồng Hoàng Hôn và giải thích nhờ Rentt vì chỉ cần gặp kẻ thù không thể đánh bại thì hãy báo cho cô đối đầu; vui vẻ bắt tay hòa giải hợp tác với Rentt.
+- Trạng thái tính đến chương 113: Gặp Myullias và tiết lộ mục đích thực sự nhờ hỗ trợ Thần Lực thanh tẩy đề phòng Rentt là Ma Cà Rồng; cảnh báo Myullias về Mị Nhãn; sau bài kiểm tra Thánh Hỏa thừa nhận dù trực giác mách bảo nhưng vẫn chấp nhận Rentt vô tội, tiếp tục rủ Myullias đi săn Ma Cà Rồng vào ngày hôm sau.
 
 ### Aaruz
 - Giới tính, thân phận: Nam, tư tế kiệt xuất hàng đầu của Giáo Hội Lobelia.
@@ -348,3 +351,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, thân phận: Nữ, Thánh Nữ kiệt xuất hàng đầu của Giáo Hội Lobelia.
 - Đặc điểm: Tài năng vượt trội, sở hữu lượng Thần Lực dồi dào phi thường, cùng với Aaruz là nhân vật xuất chúng bậc nhất thế hệ đương thời của Giáo Hội Lobelia; vô cùng bận rộn với các trọng trách tôn giáo.
 - Xuất hiện từ: #112 (được nhắc tên).
+
+### Adone
+- Giới tính, thân phận: Nữ, kỹ nữ nổi danh trong lịch sử.
+- Đặc điểm: Sinh ra đã bẩm sinh sở hữu Mị Nhãn, dùng ánh mắt quyến rũ mê hoặc một vị quốc vương khiến cả vương quốc rơi vào cảnh lầm than, chiến loạn và cuối cùng đi đến diệt vong.
+- Xuất hiện từ: #113 (được nhắc tên).

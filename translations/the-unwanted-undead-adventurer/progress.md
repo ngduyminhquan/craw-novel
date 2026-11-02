@@ -117,7 +117,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 110 |  | Chapter_110 - Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6).txt | Vol 4 Intermission - Myullias Raiza, Priestess-Saint (6) | reviewed |  |
 | 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | reviewed |  |
 | 112 |  | Chapter_112 - Vol 4 Side Story - The Princess-Saint of Healing (1).txt | Vol 4 Side Story - The Princess-Saint of Healing (1) | done |  |
-| 113 |  | Chapter_113 - Vol 4 Side Story - The Princess-Saint of Healing (2).txt | Vol 4 Side Story - The Princess-Saint of Healing (2) | todo |  |
+| 113 |  | Chapter_113 - Vol 4 Side Story - The Princess-Saint of Healing (2).txt | Vol 4 Side Story - The Princess-Saint of Healing (2) | done |  |
 | 114 |  | Chapter_114 - Vol 4 Side Story - The Princess-Saint of Healing (3).txt | Vol 4 Side Story - The Princess-Saint of Healing (3) | todo |  |
 | 115 |  | Chapter_115 - Vol 5 Chapter 1 - Off to Adventure (1).txt | Vol 5 Chapter 1 - Off to Adventure (1) | todo |  |
 | 116 |  | Chapter_116 - Vol 5 Chapter 1 - Off to Adventure (2).txt | Vol 5 Chapter 1 - Off to Adventure (2) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -599,3 +600,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#111] Dịch tiêu đề chương 'Vol 4 Epilogue' — tạm chọn 'Phần kết Tập 4' (đồng bộ với #81 'Phần kết Tập 3'; phương án khác: 'Hậu truyện Tập 4', 'Vĩ thanh Tập 4'). Tạm dùng trong bản dịch: 'Phần kết Tập 4'. → Giữ 'Phần kết Tập 4' đồng bộ với #81. (orchestrator)
 - [#112] Dịch địa danh 'Holy Empire of Ars' trong raw chương 112: Raw chương 81 dùng 'Holy Kingdom of Ars' (Thánh Vương Quốc Ars theo nguyên tác Nhật アルス聖王国), chương 112 lại viết 'Holy Empire of Ars' (Đế Quốc thay vì Vương Quốc); tạm dùng trong bản dịch: 'Thánh Vương Quốc Ars' (đồng bộ với chương 81 và nguyên tác) và đã thêm 'Holy Empire of Ars' vào Alias trong glossary.md (phương án khác: đổi thành 'Thánh Đế Quốc Ars'). → Giữ 'Thánh Vương Quốc Ars' đồng bộ với chương 81 (nguyên tác アルス聖王国) và thêm 'Holy Empire of Ars' vào Alias trong glossary.md (orchestrator)
 - [#112] Dịch tiêu đề chương 'Vol 4 Side Story - The Princess-Saint of Healing (1)': tạm chọn 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)' (đồng bộ format 'Ngoại truyện' với các bonus/side story trước và khớp danh hiệu Thánh Nữ của Myullias Raiza trong nguyên tác 治癒の聖女; phương án khác: 'Ngoại truyện Tập 4 - Công Chúa Thánh Nữ Trị Liệu (1)'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)'. → Dùng 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)', đồng bộ danh hiệu Thánh Nữ của Myullias Raiza và định dạng tiêu đề ngoại truyện (orchestrator)
+- [#113] Dịch tiêu đề chương 'Vol 4 Side Story - The Princess-Saint of Healing (2)': tạm chọn 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (2)' (đồng bộ format với #112; phương án khác: 'Ngoại truyện Tập 4 - Công Chúa Thánh Nữ Trị Liệu (2)'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (2)'. → Dùng 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (2)', đồng bộ với chương 112 (orchestrator)
+- [#113] Dịch tên tổ chức 'Order of Inquisitor-Eradicators' của Giáo Hội Lobelia: tạm chọn 'Giáo Đoàn Thẩm Phán Tiệt Trừ' (chuẩn Hán Việt cho tổ chức giáo hội trừ khử quái vật; phương án khác: 'Đoàn Thẩm Phán Tiệt Trừ', 'Kỵ Sĩ Đoàn Thẩm Phán Tiệt Trừ'). Tạm dùng trong bản dịch: 'Giáo Đoàn Thẩm Phán Tiệt Trừ'. → Giữ 'Giáo Đoàn Thẩm Phán Tiệt Trừ', chuẩn Hán Việt theo rules.md (orchestrator)
+- [#113] Dịch chủng tộc quái vật 'Loup Garou' / 'Loup Garous': tạm chọn 'Người Sói' (thuần Việt, chỉ quái vật sói đội lốt người; phương án khác: 'Ma Sói', giữ nguyên 'Loup Garou'). Tạm dùng trong bản dịch: 'Người Sói'. → Giữ 'Người Sói' trong glossary.md (orchestrator)
+- [#113] Cảnh báo QA 'familiar' do xuất hiện tính từ 'familiar with': tạm giữ nguyên 'quen thuộc với những chuyện này hơn' vì đây là tính từ tiếng Anh thông thường, không phải thuật ngữ danh từ 'quyến thuộc' trong glossary.md. → Bỏ qua cảnh báo dương tính giả của QA vì 'familiar with' là tính từ thông thường ('quen thuộc') (orchestrator)
