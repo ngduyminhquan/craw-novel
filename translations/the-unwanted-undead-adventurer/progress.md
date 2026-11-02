@@ -62,9 +62,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 55 |  | Chapter_055 - Vol 2 Chapter 4 - Dragon Blood Blossom (8).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (8) | reviewed |  |
 | 56 |  | Chapter_056 - Vol 3 Chapter 1 - A Peculiar Man (1).txt | Vol 3 Chapter 1 - A Peculiar Man (1) | reviewed |  |
 | 57 |  | Chapter_057 - Vol 3 Chapter 1 - A Peculiar Man (2).txt | Vol 3 Chapter 1 - A Peculiar Man (2) | reviewed |  |
-| 58 |  | Chapter_058 - Vol 3 Chapter 1 - A Peculiar Man (3).txt | Vol 3 Chapter 1 - A Peculiar Man (3) | done |  |
-| 59 |  | Chapter_059 - Vol 3 Chapter 1 - A Peculiar Man (4).txt | Vol 3 Chapter 1 - A Peculiar Man (4) | done |  |
-| 60 |  | Chapter_060 - Vol 3 Chapter 1 - A Peculiar Man (5).txt | Vol 3 Chapter 1 - A Peculiar Man (5) | done |  |
+| 58 |  | Chapter_058 - Vol 3 Chapter 1 - A Peculiar Man (3).txt | Vol 3 Chapter 1 - A Peculiar Man (3) | reviewed |  |
+| 59 |  | Chapter_059 - Vol 3 Chapter 1 - A Peculiar Man (4).txt | Vol 3 Chapter 1 - A Peculiar Man (4) | reviewed |  |
+| 60 |  | Chapter_060 - Vol 3 Chapter 1 - A Peculiar Man (5).txt | Vol 3 Chapter 1 - A Peculiar Man (5) | reviewed |  |
 | 61 |  | Chapter_061 - Vol 3 Chapter 2 - And an Equally Peculiar Request (1).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (1) | todo |  |
 | 62 |  | Chapter_062 - Vol 3 Chapter 2 - And an Equally Peculiar Request (2).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (2) | todo |  |
 | 63 |  | Chapter_063 - Vol 3 Chapter 2 - And an Equally Peculiar Request (3).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (3) | todo |  |

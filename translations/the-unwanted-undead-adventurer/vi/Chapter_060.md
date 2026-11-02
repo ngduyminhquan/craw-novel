@@ -8,11 +8,11 @@ Với một nét bút lông dứt khoát, mọi việc đã xong xuôi, và ủy
 
 Đây là một ủy thác khó nhằn hơn rất nhiều so với những công việc thường ngày của tôi, và việc hoàn thành nó để lại một cảm xúc sâu lắng, có phần bồi hồi trong lòng tôi.
 
-Nhưng dĩ nhiên rồi... phần thưởng của tôi chỉ vỏn vẹn một đồng đồng.
+Nhưng dĩ nhiên rồi... phần thưởng của tôi chỉ vỏn vẹn một đồng xu đồng.
 
 "...Ừ. Cảm ơn em, Alize," tôi vừa nói vừa cuộn lại tập tài liệu đã ký trên bàn.
 
-"Không đâu... người phải nói câu đó là em mới đúng, anh Rentt. Thực tình thì... đưa ra ủy thác là một chuyện, chứ em gần như đã từ bỏ hy vọng rồi! Ai lại đi hái Hoa Long Huyết chỉ vì một đồng đồng cơ chứ? Thế nhưng... anh Rentt, anh đã nhận nó, và anh thực sự đã mang nó trở về! Em chẳng biết cảm ơn anh bao nhiêu cho đủ... Cảm ơn anh, thực sự cảm ơn anh rất nhiều... Nếu có bất cứ chuyện gì, bất cứ điều gì cần giúp, anh Rentt cứ nói với bọn em nhé. Em và lũ trẻ sẽ làm mọi thứ có thể để giúp anh... À mà, chắc là anh cũng chẳng cần đến sự giúp đỡ của bọn em đâu nhỉ."
+"Không đâu... người phải nói câu đó là em mới đúng, anh Rentt. Thực tình thì... đưa ra ủy thác là một chuyện, chứ em gần như đã từ bỏ hy vọng rồi! Ai lại đi hái Hoa Long Huyết chỉ vì một đồng xu đồng cơ chứ? Thế nhưng... anh Rentt, anh đã nhận nó, và anh thực sự đã mang nó trở về! Em chẳng biết cảm ơn anh bao nhiêu cho đủ... Cảm ơn anh, thực sự cảm ơn anh rất nhiều... Nếu có bất cứ chuyện gì, bất cứ điều gì cần giúp, anh Rentt cứ nói với bọn em nhé. Em và lũ trẻ sẽ làm mọi thứ có thể để giúp anh... À mà, chắc là anh cũng chẳng cần đến sự giúp đỡ của bọn em đâu nhỉ."
 
 "Đến cả tôi... Thỉnh thoảng. Cũng cần giúp đỡ chứ. Khi lúc đó đến... Tôi sẽ nhờ cậy... Vào em. Tùy theo tình hình. Với lại... Cũng có vài người khác. Ý tôi là ngoài tôi ra... Từng có ý định. Nhận ủy thác này đấy. Chỉ là... Nó hơi quá khó. Đối với phần lớn mọi người thôi."
 
@@ -92,7 +92,7 @@ Tuy nhiên, Alize dường như hơi choáng ngợp trước những lời tôi 
 
 "Nhưng... em chẳng có đồng nào cả..."
 
-Nhưng dĩ nhiên là cô bé không có rồi. Alize là một đứa trẻ mồ côi, và tất cả những gì cô bé có thể gom góp cho ủy thác đầy nguy hiểm mà tôi vừa hoàn thành chỉ là một đồng đồng duy nhất. Làm sao cô bé có thể dư dả tiền bạc cho được.
+Nhưng dĩ nhiên là cô bé không có rồi. Alize là một đứa trẻ mồ côi, và tất cả những gì cô bé có thể gom góp cho ủy thác đầy nguy hiểm mà tôi vừa hoàn thành chỉ là một đồng xu đồng duy nhất. Làm sao cô bé có thể dư dả tiền bạc cho được.
 
 Tệ hơn nữa, phần lớn các pháp sư chịu đứng ra dạy nghề thường đòi mức thù lao rất cắt cổ. Trái lại, Lorraine sẽ chẳng đòi hỏi chút tiền công nào đâu, nên tiền bạc không phải là vấn đề.
 
@@ -230,7 +230,7 @@ Lorraine vén tóc sang một bên, để lộ ra đôi tai với đường nét
 
 "Má mình đỏ lên rồi... Đỏ nhiều lắm. Có lẽ do mình uống hơi nhiều rượu quá chăng..."
 
-Cả hai người họ đã cùng nhau chia sẻ chút rượu vang sau bữa ăn tối. Dù khả năng Lorraine tự đưa ra cho bản thân là không thể phủ nhận, nhưng điều đáng nói là từ trước đến nay tửu lượng của Lorraine vốn cực kỳ cao, và chưa bao giờ cô bị đỏ mặt chỉ vì men rượu.
+Cả hai người họ đã cùng nhâm nhi chút rượu vang sau bữa ăn tối. Dù khả năng Lorraine tự đưa ra cho bản thân là không thể phủ nhận, nhưng điều đáng nói là từ trước đến nay tửu lượng của Lorraine vốn cực kỳ cao, và chưa bao giờ cô bị đỏ mặt chỉ vì men rượu.
 
 Tai cô cũng đỏ ửng cả lên.
 

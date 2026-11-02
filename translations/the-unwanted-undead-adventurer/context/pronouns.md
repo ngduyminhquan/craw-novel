@@ -26,7 +26,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alize | Alize / cô bé | 49 | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt |
 | Edel | Edel / con chuột / chú chuột | 52 | Chuột Puchi Suri quyến thuộc của Rentt |
 | Isaac Hart | Isaac / người đàn ông / anh ta | 56 | Quản gia quý tộc thu thập Hoa Long Huyết tại Đầm Lầy Tarasque |
-| Dario Costa | Dario / người đàn ông | 58 | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt |
+| Dario Costa | Dario / người đàn ông / chú / chú ấy | 58 | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt |
 | Unbert Abeiyu | Unbert / người đàn ông | 59 | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt |
 | Norman Hanel | Norman / bác sĩ Norman / anh / người đàn ông | 59 | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt |
 
