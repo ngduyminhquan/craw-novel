@@ -800,8 +800,9 @@ Vì không muốn tùy tiện cho người lạ vào nhà lúc chủ đi vắng,
 Lorraine khéo léo né tránh việc nhắc đến thứ hạng Đồng Cấp của Rentt để giữ thể diện cho bạn, thay vào đó ca ngợi uy tín và sự che chở của anh đối với các mạo hiểm giả tân binh.
 Để thỏa mãn sự tò mò của hai cô bé về ma vật mê cung, Lorraine dùng ma pháp ảo ảnh trình chiếu một Khô Lâu Khổng Lồ ba chiều sống động và trực tiếp chạm tay xuyên qua để chứng minh tính an toàn khiến Riri và Fahri thở phào nhẹ nhõm.
 
-
-
-
-
+## 136
+Riri và Fahri thích thú chạm vào ảo ảnh Khô Lâu Khổng Lồ; qua cuộc trò chuyện, Lorraine phát hiện bà lão làm thuốc Gharb biết thuật giả kim và đang kèm cặp Fahri (sở hữu Ma Lực), trong khi thợ săn Hadeed đang dạy Riri kỹ thuật Khí Lực.
+Lorraine tận tình giải thích những góc khuất gian truân của nghề mạo hiểm giả, từ việc nắm bắt đặc tính thảo dược, cạm bẫy phạt tiền của các ủy thác trái mùa, cho đến kỹ thuật thu hái chuẩn xác mà cô từng được chính Rentt chỉ dẫn trong quá khứ.
+Để giữ thể diện cho bạn, Lorraine ca ngợi Rentt và chiếu ảo ảnh Tarasque, giải thích về loài Á Long kịch độc ở Đầm Lầy Tarasque; hai cô bé bồi hồi kể lại kỷ niệm thời thơ ấu khi Rentt liều mình đẫm máu vào rừng sâu cứu đứa trẻ bị lạc giữa lúc người lớn trong làng đi diệt Goblin.
+Cảnh kết thúc khi Lorraine triệu hồi ảo ảnh của Rentt đứng trước Tarasque, chuẩn bị tái hiện lại trận chiến săn quái vật cho Riri và Fahri hào hứng chiêm ngưỡng.
 

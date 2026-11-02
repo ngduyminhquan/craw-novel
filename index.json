@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T22:54:12Z",
+  "generatedAt": "2026-11-02T23:00:46Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2963,6 +2963,12 @@
           "title": "Chương 135: Tập 6 Chương 1 - Quê Nhà Hathara Của Tôi (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_135.md",
           "sha": "4199a5089225059919f3ef1f395ecb96a99013fd"
+        },
+        {
+          "number": 136,
+          "title": "Chương 136: Tập 6 Chương 1 - Quê Nhà Hathara Của Tôi (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_136.md",
+          "sha": "11716eed35cf7400f54e894f2ffac64bd9cbfda5"
         }
       ]
     },

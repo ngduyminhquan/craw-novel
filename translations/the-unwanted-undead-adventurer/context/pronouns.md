@@ -49,6 +49,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dol | Dol / cậu thanh niên | 134 | Thanh niên thấp bé làng Hathara canh cổng |
 | Riri | Riri / cô bé | 134 | Bạn thuở nhỏ của Rentt kém 7 tuổi |
 | Fahri | Fahri / cô bé | 134 | Bạn thuở nhỏ của Rentt kém 7 tuổi |
+| Gharb | Gharb / bà lão làm thuốc / bà lão | 136 | Bà lão làm thuốc tại làng Hathara biết thuật giả kim |
+| Hadeed | Hadeed / người thợ săn | 136 | Thợ săn tại làng Hathara dạy Riri |
 
 ## Giữa các nhân vật
 

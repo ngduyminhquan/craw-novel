@@ -61,6 +61,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Riri |  | Riri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 | Fahri |  | Fahri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 | Ren |  | Ren | Tên gọi thân mật Fahri dùng để gọi Rentt Faina | #135 |
+| Gharb |  | Gharb | Bà lão làm thuốc tại làng Hathara, biết ma thuật và thuật giả kim | #136 |
+| Hadeed |  | Hadeed | Thợ săn tại làng Hathara, người dạy Riri kỹ năng Khí Lực | #136 |
 
 ## Chi tiết
 
@@ -454,12 +456,24 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Riri
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc nâu buộc hai bên, đôi mắt tinh anh mạnh dạn, giọng nói dõng dạc trong trẻo.
 - Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ; tò mò về cuộc sống và mạo hiểm giả ở Maalt.
+- Kỹ năng & Trạng thái tính đến chương 136: Sở hữu Khí Lực, đang học kỹ thuật từ thợ săn Hadeed (dùng dao găm chém súc gỗ trong rừng, bắn tên cực xa); tò mò về nghề mạo hiểm giả.
 - Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
 
 ### Fahri
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc màu lam đen ngắn chấm tai, đôi mắt mơ màng ngái ngủ dịu dàng, giọng ngọt ngào êm dịu, tính tình vô tư, bộc trực.
 - Quan hệ: Được Rentt xem như em gái nhỏ; hay gọi Rentt là Ren; tò mò về Lorraine và thành phố Maalt.
+- Kỹ năng & Trạng thái tính đến chương 136: Có Ma Lực, đang học làm thuốc từ bà lão Gharb và chuẩn bị được dạy thêm thuật giả kim; nắm vững kiến thức thu hái và bảo quản thảo dược.
 - Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
 
 ### Ren
 - Xem Rentt Faina (cách gọi thân mật của Fahri).
+
+### Gharb
+- Giới tính, vai trò: Nữ, bà lão làm thuốc (dược sư) tại Làng Hathara, họ hàng của Rentt Faina.
+- Đặc điểm: Từng dạy Rentt kiến thức thảo dược thời thơ ấu; sở hữu Ma Lực, có thể sử dụng ma thuật và thuật giả kim nhưng giữ bí mật với dân làng; hiện đang kiên nhẫn chỉ bảo Fahri nghề làm thuốc và chuẩn bị truyền dạy thuật giả kim.
+- Xuất hiện từ: #134 (được nhắc đến là bà lão họ hàng làm thuốc), #136 (tiết lộ tên và thuật giả kim).
+
+### Hadeed
+- Giới tính, vai trò: Nam, thợ săn tại Làng Hathara.
+- Đặc điểm: Người sử dụng Khí Lực (spirit user); đang chỉ bảo và truyền dạy kỹ năng Khí Lực cho Riri (kỹ thuật chặt gỗ bằng dao găm, bắn cung tầm xa).
+- Xuất hiện từ: #136 (được Fahri nhắc tên).
