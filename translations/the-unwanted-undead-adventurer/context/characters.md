@@ -21,7 +21,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 15: Tiến hóa thành Ghoul (Ngạ Quỷ), bí mật quay về Maalt, được Lorraine che chở và bắt đầu tích lũy trang bị mới để tiếp tục thám hiểm mê cung.
 
 ### Rina Rupaage
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ khoảng 15–16 tuổi, tóc dài, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
+- Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
 - Tính cách: Chân thành, lương thiện, dũng cảm nhưng còn non nớt kinh nghiệm. Trọng danh dự gia đình hiệp sĩ, giữ lời hứa và mang ơn sâu sắc với Rentt.
 - Cách nói chuyện: Lễ phép, tôn kính, hoạt bát nhưng hơi rụt rè trước vẻ ngoài quái dị của Rentt lúc đầu.
 - Quan hệ: Được Rentt cứu thoát khỏi nanh vuốt Khô Lâu, xem Rentt là tiền bối đáng kính (Mister Rentt).

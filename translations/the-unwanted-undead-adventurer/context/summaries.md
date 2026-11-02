@@ -45,3 +45,9 @@ Rentt kiên trì dùng giọng nói ngọng nghịu giải thích mình là mạ
 Cảm kích trước nghĩa cử của tiền bối, Rina xưng danh con gái hiệp sĩ và thề sẽ báo đáp trọn vẹn ân huệ này rồi cẩn trọng rời đi.
 Tin tưởng vào nhân phẩm của Rina nhưng vẫn lường trước rủi ro bị phản bội, Rentt tiếp tục tuần tra săn quái trong Mê Cung Nguyệt Ảnh để nâng cao thực lực.
 
+## 8
+Góc nhìn của Rina Rupaage: thiếu nữ 17 tuổi rời vương đô đến Maalt vì hoàn cảnh riêng, nhưng do là nữ tân binh trang bị nghèo nàn nên bị từ chối lập đội và phải đơn độc vào Mê Cung Nguyệt Ảnh.
+Do thiếu kinh nghiệm thực chiến và quá tự tin sau vài thắng lợi ban đầu, Rina bị dồn vào chân tường và suýt mất mạng dưới tay một con Khô Lâu.
+Một con Ngạ Quỷ đặc thù mang hoa văn phát sáng xanh lam (Rentt) bất ngờ gầm lên lao ra chém đôi Khô Lâu cứu mạng cô, rồi cất tiếng xin nhờ cô mua giúp quần áo.
+Nhận lời và vội vã chạy về Maalt, Rina quyết tâm phải báo đáp ân nhân cứu mạng xứng đáng với danh dự con gái hiệp sĩ, bất chấp lẽ thường không ai tin quái vật.
+
