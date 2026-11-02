@@ -165,3 +165,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Fuu Suri |  | Fuu Suri | quái vật | 90 | Biến thể hệ hỏa của loài Puchi Suri (フウスリ) |
 | Fire Puchi Suri |  | Puchi Suri Hỏa | quái vật | 90 | Phân loài Puchi Suri thuộc tính hỏa, danh xưng phân loài của Fuu Suri |
 | Orc Soldier | Orc Soldiers | Orc Binh | quái vật | 90 | Phân loài Orc trang bị vũ khí và giáp kim loại (オークソルジャー) |
+| Eyes of Charming |  | Mị Nhãn | kỹ năng | 90 | Kỹ năng mị hoặc tâm trí thông qua ánh mắt của Ma Cà Rồng |

@@ -56,6 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 78: Cùng Lorraine mở lớp dạy ma thuật cơ bản cho Alize; đóng vai trò làm mẫu biểu diễn Ma Thuật Sinh Hoạt (tạo lửa, phóng nước từ hai bàn tay); dù Ma Lực tăng vọt sau Tiến Hóa Bản Thể nhưng kiến thức lý thuyết ma thuật vẫn còn thiếu sót và đang được Lorraine kèm cặp; biểu diễn thành công câu chú Ignite Aryumage.
 - Trạng thái tính đến chương 79: Quyết định tiếp tục dùng danh tính Rentt Vivie để tránh bị điều tra về chiếc mặt nạ không tháo được cùng năng lực thể chất bất thường; chuẩn bị dạy kiếm thuật và dẫn Alize vào mê cung rèn luyện; tài chính cạn kiệt, hy vọng nhận tiền bán xác Tarasque bất thành khi Sheila thông báo xác chưa bán được.
 - Trạng thái tính đến chương 80: Nhận lời gặp mặt trực tiếp vị khách giàu có bí ẩn mua xác Tarasque thông qua Thương hội Stheno để mở rộng quan hệ hướng tới mục tiêu Mithril Cấp; nhận tiền thanh toán các nguyên liệu phụ khác của Tarasque từ Dario.
+- Trạng thái tính đến chương 90: Học thêm Ma Thuật Sinh Hoạt Linpio tẩy rửa vết bẩn; tự lùng sục Mê Cung Tân Nguyệt thu thập nguyên liệu làm vũ khí tặng Alize; thỏa thuận cấn trừ học phí dạy kèm của Lorraine; kiểm soát giới hạn dòng Ma Lực truyền sang Edel; nhận diện hiện tượng chênh lệch thời gian ở tầng hai Mê Cung Tân Nguyệt.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

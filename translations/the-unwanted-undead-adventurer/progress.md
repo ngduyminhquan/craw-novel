@@ -92,9 +92,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 85 |  | Chapter_085 - Vol 3 Bonus - The Race.txt | Vol 3 Bonus - The Race | reviewed |  |
 | 86 |  | Chapter_086 - Vol 3 Bonus - Of Ghosts and Pets.txt | Vol 3 Bonus - Of Ghosts and Pets | reviewed |  |
 | 87 |  | Chapter_087 - Vol 3 Bonus - Rentt, Housekeeper.txt | Vol 3 Bonus - Rentt, Housekeeper | reviewed |  |
-| 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | done |  |
-| 89 |  | Chapter_089 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2) | done |  |
-| 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | done |  |
+| 88 |  | Chapter_088 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (1) | reviewed |  |
+| 89 |  | Chapter_089 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (2) | reviewed |  |
+| 90 |  | Chapter_090 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (3) | reviewed |  |
 | 91 |  | Chapter_091 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (4) | todo |  |
 | 92 |  | Chapter_092 - Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5).txt | Vol 4 Chapter 1 - To the Labyrinth of the New Moon (5) | todo |  |
 | 93 |  | Chapter_093 - Vol 4 Intermission - Rina Rupaage, Adventurer.txt | Vol 4 Intermission - Rina Rupaage, Adventurer | todo |  |

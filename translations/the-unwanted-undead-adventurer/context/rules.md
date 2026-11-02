@@ -47,3 +47,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#77) Ngôi thứ ba khi Lorraine nói với Alize về Rentt: dùng "anh ấy" (thay vì "anh ta") để giữ sắc thái hòa nhã, đúng mối quan hệ thầy trò và đồng đội bảo hộ.
 - (#77) Độc thoại nội tâm tự trách mình của Rentt (dạng "what were you even doing?"): dùng "mày" hoặc "mình" (ví dụ "Rentt Faina ơi, rốt cuộc hồi đó mày đang làm cái trò gì vậy hả?"), không dùng "anh".
 - (#78) Thành ngữ "a walk in the park": dịch là "chuyện dạo chơi nhẹ nhàng", "chuyện dễ dàng" (tránh dịch thô từng chữ thành "đi dạo chơi ngoài công viên").
+- (#89) Cụm từ đệm "you see" trong độc thoại tự sự ngôi thứ nhất: dịch là "thực ra thì", "vốn dĩ" hoặc "nói cho cùng" (tránh dịch máy thành "anh thấy đấy").
