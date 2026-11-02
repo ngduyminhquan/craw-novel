@@ -128,7 +128,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | reviewed |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | reviewed |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | reviewed |  |
-| 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | todo |  |
+| 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | done |  |
 | 125 |  | Chapter_125 - Vol 5 Chapter 3 - Existence and Status (1).txt | Vol 5 Chapter 3 - Existence and Status (1) | todo |  |
 | 126 |  | Chapter_126 - Vol 5 Chapter 3 - Existence and Status (2).txt | Vol 5 Chapter 3 - Existence and Status (2) | todo |  |
 | 127 |  | Chapter_127 - Vol 5 Chapter 3 - Existence and Status (3).txt | Vol 5 Chapter 3 - Existence and Status (3) | todo |  |
@@ -633,3 +633,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#122] Xác nhận sửa 'anh ta' thành 'anh ấy' ở lời thoại của Lorraine (đoạn 57) → Chốt sửa thành 'anh ấy' theo quy tắc cứng (#77) trong rules.md. (orchestrator)
 - [#123] Xác nhận di chuyển vị trí dòng ảnh ch123-01.webp lên trước đoạn 9 → Chốt chuyển dòng ảnh lên giữa đoạn 8 và đoạn 9 đúng nguyên tác raw. (orchestrator)
 - [#123] Xác nhận chuẩn hóa 'tinh linh hệ thực vật' ở đoạn 77 → Chốt sửa đoạn 77 thành 'thần tinh linh hệ thực vật' để nhất quán với đoạn 76 trước đó. (orchestrator)
+- [#124] Thuật ngữ món ăn mới 'chocolate': tạm dùng 'sô-cô-la' (phương án khác: 'socola' hoặc giữ nguyên 'chocolate'). → Chốt dùng 'sô-cô-la'. (orchestrator)
+- [#124] Từ 'saint' khi nói về Myullias (đoạn 17, 45): tạm dịch là 'Thánh Nữ' / 'thánh nữ' theo đúng thân phận nữ tư tế của Myullias (phương án khác: 'Thánh Giả' theo mục Saint trong glossary). → Chốt dịch là 'Thánh Nữ' / 'thánh nữ' theo đúng giới tính và danh xưng của Myullias Raiza. (orchestrator)

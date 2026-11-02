@@ -50,6 +50,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Millia | Lady Millia | Millia | Thánh Nữ xuất chúng của Giáo Hội Lobelia | #112 |
 | Adone | Adone the Courtesan | Adone | Kỹ nữ trong lịch sử sở hữu Mị Nhãn mê hoặc quốc vương khiến vương quốc sụp đổ | #113 |
 | Conra |  | Conra | Pháp sư thời xưa không có năng khiếu vẽ vời, triệu hồi nhầm rồng lửa trong một nghi lễ | #121 |
+| Saint Myullias |  | Thánh Nữ Myullias | Cách gọi kèm danh hiệu của Myullias Raiza | #117 |
 
 ## Chi tiết
 
@@ -73,6 +74,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 120: Tiết lộ thời thơ ấu tại Làng Hathara từng được trưởng làng và một bà lão thầy thuốc dạy chữ cùng học vấn căn bản, đủ nền tảng để tự đọc sách mượn từ Lorraine suốt 10 năm qua; cùng Alize tham gia khóa học thực hành chế tạo đũa phép bằng thuật giả kim do Lorraine chỉ dẫn.
 - Trạng thái tính đến chương 122: Thể hiện sự khéo tay dị thường khi dùng Ma Lực tạc hai bức tượng gỗ sống động của Lorraine và Alize; hoàn thành xuất sắc việc gọt đũa phép, nắn thẳng đường dẫn ma lực và bắt đầu định hình đầu đũa phép kết hợp với Ma Tinh Terra Drake.
 - Trạng thái tính đến chương 123: Hoàn thành đũa phép với phần đầu chạm khắc hình con rồng nuốt viên Ma Tinh Terra Drake cực kỳ tinh xảo bằng thao túng Ma Lực thuần túy; bộc lộ thiên phú dị thường với hỏa ma pháp khi thử nghiệm câu chú Aliumage bùng lên ngọn lửa dữ dội vượt xa thủy ma pháp Mah.
+- Trạng thái tính đến chương 124: Mua được chiếc túi ma thuật đặc biệt có khả năng biến đổi hình dáng (trị giá 2.000–2.500 đồng vàng) từ Sharl Stheno với giá ưu đãi 18 đồng bạch kim (1.800 đồng vàng); tiến đến Hội Mạo Hiểm Giả để đàm phán với Hội Trưởng Maalt nhằm hợp nhất hai danh tính Rentt Faina và Rentt Vivie.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -346,6 +348,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 106: Dù bị Nive mượn uy thế Giáo Hội Lobelia gây sức ép, vẫn tìm đủ lý do trì hoãn để che chở cho Rentt; kiên quyết có mặt tại phòng gặp mặt đối diện nguy hiểm nhằm bảo vệ thân chủ; được Rentt đánh giá cao về lòng tự trọng và tinh thần trách nhiệm của một thương nhân chân chính.
 - Trạng thái tính đến chương 109: Đề nghị dùng mạng lưới thương nhân tìm mua túi ma thuật dung tích lớn giúp Rentt, thậm chí sẵn lòng giới thiệu anh sang đối thủ cạnh tranh Thương hội Witta nhằm giảm bớt cảm giác bất an khi hợp tác với Nive.
 - Trạng thái tính đến chương 110: Nửa đùa nửa thật mời Rentt khi đạt tới Mithril Cấp hãy bảo trợ cho cửa tiệm để tha hồ bán hàng giá cao; nêu quan điểm về việc các tôn giáo đều nhận công tiêu diệt Ma Cà Rồng Hoàng Hôn và có nhiều lăng mộ rải rác khắp nơi.
+- Trạng thái tính đến chương 124: Tiết lộ xuất thân khởi nghiệp từ một tiệm tạp hóa nhỏ của cha trước khi tự lực phát triển thành thương hội lớn; quyết định bán lỗ chiếc túi ma thuật biến đổi hình dáng (2.000–2.500 đồng vàng) cho Rentt với giá 1.800 đồng vàng như một khoản đầu tư dài hạn vào mạo hiểm giả Mithril Cấp tương lai và xóa bỏ mọi khúc mắc cũ.
 
 ### Nive Maris
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc 20–25 tuổi, tóc màu xám tro, đôi mắt đỏ rực sáng lấp lánh khó đoán định biểu cảm hay ý đồ; vóc dáng xinh đẹp hút hồn.

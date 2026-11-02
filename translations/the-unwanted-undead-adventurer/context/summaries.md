@@ -725,3 +725,9 @@ Cả ba di chuyển ra bãi đất trống ở ngoại vi thị trấn thuộc s
 Rentt thử nghiệm phép Aliumage khiến ngọn lửa bùng cháy dữ dội ngoài sức tưởng tượng; Lorraine ngạc nhiên và bảo anh thi triển tiếp phép tạo nước Mah nhưng khối nước ngưng tụ lại chỉ ở mức bình thường.
 Nhận thấy Rentt sở hữu thiên phú dị thường với hỏa ma pháp dù từng được thần tinh linh thực vật ban phước, Lorraine quyết định dừng buổi thử nghiệm hôm nay để đảm bảo an toàn vì Rentt chưa hiểu hết cơ thể Undead của mình.
 
+## 124
+Rentt nhận được tin nhắn từ Thương hội Stheno báo đã tìm được túi ma thuật dung tích lớn và đến phòng tiếp khách, thưởng thức món sô-cô-la mới lạ thịnh hành ở phương Tây trong lúc chờ đợi.
+Sharl Stheno mang ra chiếc túi ma thuật sờn cũ nhưng có phẩm cấp cao hơn dự kiến (trị giá 2.000–2.500 đồng vàng) với khả năng đặc biệt là biến đổi hình dạng (túi da, ba lô, hộp).
+Để xóa bỏ khúc mắc cũ sau vụ việc với Nive Maris và đầu tư cho mạo hiểm giả có tiềm năng chạm tới Mithril Cấp, Sharl đồng ý bán lỗ chiếc túi cho Rentt với giá 1.800 đồng vàng (18 đồng bạch kim).
+Hoàn tất giao dịch mua túi ma thuật, Rentt quyết tâm đến Hội Mạo Hiểm Giả để đàm phán với Hội Trưởng Maalt nhằm hợp nhất hai danh tính "Rentt Faina" và "Rentt Vivie" trước khi lên đường về quê nhà Hathara.
+
