@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T19:19:03Z",
+  "generatedAt": "2026-11-02T19:25:13Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2831,6 +2831,12 @@
           "title": "Chương 113: Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_113.md",
           "sha": "a5ef13d6d56998e03ffc847008a407e48fbcef05"
+        },
+        {
+          "number": 114,
+          "title": "Chương 114: Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_114.md",
+          "sha": "25b8d170d6581af2f1c2fa408a59cbae1ac9fcd5"
         }
       ]
     },

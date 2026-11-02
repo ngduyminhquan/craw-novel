@@ -118,7 +118,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 111 |  | Chapter_111 - Vol 4 Epilogue.txt | Vol 4 Epilogue | reviewed |  |
 | 112 |  | Chapter_112 - Vol 4 Side Story - The Princess-Saint of Healing (1).txt | Vol 4 Side Story - The Princess-Saint of Healing (1) | done |  |
 | 113 |  | Chapter_113 - Vol 4 Side Story - The Princess-Saint of Healing (2).txt | Vol 4 Side Story - The Princess-Saint of Healing (2) | done |  |
-| 114 |  | Chapter_114 - Vol 4 Side Story - The Princess-Saint of Healing (3).txt | Vol 4 Side Story - The Princess-Saint of Healing (3) | todo |  |
+| 114 |  | Chapter_114 - Vol 4 Side Story - The Princess-Saint of Healing (3).txt | Vol 4 Side Story - The Princess-Saint of Healing (3) | done |  |
 | 115 |  | Chapter_115 - Vol 5 Chapter 1 - Off to Adventure (1).txt | Vol 5 Chapter 1 - Off to Adventure (1) | todo |  |
 | 116 |  | Chapter_116 - Vol 5 Chapter 1 - Off to Adventure (2).txt | Vol 5 Chapter 1 - Off to Adventure (2) | todo |  |
 | 117 |  | Chapter_117 - Vol 5 Chapter 1 - Off to Adventure (3).txt | Vol 5 Chapter 1 - Off to Adventure (3) | todo |  |
@@ -346,8 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -604,3 +602,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#113] Dịch tên tổ chức 'Order of Inquisitor-Eradicators' của Giáo Hội Lobelia: tạm chọn 'Giáo Đoàn Thẩm Phán Tiệt Trừ' (chuẩn Hán Việt cho tổ chức giáo hội trừ khử quái vật; phương án khác: 'Đoàn Thẩm Phán Tiệt Trừ', 'Kỵ Sĩ Đoàn Thẩm Phán Tiệt Trừ'). Tạm dùng trong bản dịch: 'Giáo Đoàn Thẩm Phán Tiệt Trừ'. → Giữ 'Giáo Đoàn Thẩm Phán Tiệt Trừ', chuẩn Hán Việt theo rules.md (orchestrator)
 - [#113] Dịch chủng tộc quái vật 'Loup Garou' / 'Loup Garous': tạm chọn 'Người Sói' (thuần Việt, chỉ quái vật sói đội lốt người; phương án khác: 'Ma Sói', giữ nguyên 'Loup Garou'). Tạm dùng trong bản dịch: 'Người Sói'. → Giữ 'Người Sói' trong glossary.md (orchestrator)
 - [#113] Cảnh báo QA 'familiar' do xuất hiện tính từ 'familiar with': tạm giữ nguyên 'quen thuộc với những chuyện này hơn' vì đây là tính từ tiếng Anh thông thường, không phải thuật ngữ danh từ 'quyến thuộc' trong glossary.md. → Bỏ qua cảnh báo dương tính giả của QA vì 'familiar with' là tính từ thông thường ('quen thuộc') (orchestrator)
+- [#114] Dịch tiêu đề chương 'Vol 4 Side Story - The Princess-Saint of Healing (3)' — tạm chọn 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (3)' (đồng bộ với #112 và #113; phương án khác: 'Ngoại truyện Tập 4 - Công Chúa Thánh Nữ Trị Liệu (3)'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (3)'. → Dùng 'Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (3)', đồng bộ với chương 112 và 113 (orchestrator)
+- [#114] Dịch địa danh bí ẩn 'Great Forest of Ramuze' và 'the Floating Ruins of Hohel' — tạm chọn 'Đại Ngàn Ramuze' và 'Tàn Tích Lơ Lửng Hohel' (chuẩn văn phong fantasy; phương án khác: 'Đại Rừng Ramuze', 'Di Tích Phù Không Hohel'). Tạm dùng trong bản dịch: 'Đại Ngàn Ramuze' và 'Tàn Tích Lơ Lửng Hohel'. → Giữ 'Đại Ngàn Ramuze' và 'Tàn Tích Lơ Lửng Hohel' trong glossary.md (orchestrator)
+- [#114] Xưng hô khi Laura Latuule và Isaac Hart gọi Rentt là 'Mister Rentt' (thay vì 'Mister Vivie' ở các chương trước) — tạm chọn xưng 'tôi', gọi 'ngài / ngài Rentt' (tôn trọng mạo hiểm giả, giữ đúng tên trong raw; phương án khác: đổi thành 'ngài Vivie' cho khớp danh tính mạo hiểm giả đăng ký). Tạm dùng trong bản dịch: 'ngài / ngài Rentt'. → Giữ 'ngài / ngài Rentt' theo đúng cách gọi trong raw chương 114 (orchestrator)

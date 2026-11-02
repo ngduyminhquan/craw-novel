@@ -30,7 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Unbert Abeiyu | Unbert | Unbert Abeiyu | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt | #59 |
 | Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
 | Viscount Lottnel | Lottnel | Tử tước Lottnel | Quý tộc cai quản thị trấn Maalt và các vùng phụ cận | #61 |
-| Laura Latuule |  | Laura Latuule | Đương chủ gia tộc Latuule, cô bé quý tộc sở hữu bộ sưu tập ma cụ đồ sộ | #62 |
+| Laura Latuule | Laura | Laura Latuule | Đương chủ gia tộc Latuule, cô bé quý tộc sở hữu bộ sưu tập ma cụ đồ sộ | #62 |
 | Myullias Raiza | Myullias; Lady Myullias | Myullias Raiza | Nữ Thánh Nữ của Giáo Hội Lobelia mang năng lực trị liệu và thanh tẩy | #81 |
 | Gilly |  | Gilly | Tư tế giám sát thuộc Giáo Hội Lobelia đi cùng Myullias | #81 |
 | Adeline Fran |  | Adeline Fran | Tên giả Lorraine nghĩ ra cho Rentt trong cuộc thi sắc đẹp | #82 |
@@ -68,6 +68,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 99: Đơn thương độc mã tiêu diệt Terra Drake tại phòng thủ lĩnh tầng bốn Mê Cung Tân Nguyệt bằng Ma Khí Dung Hợp Thuật; khai thác quặng Ma Thiết tại khu mỏ cổ đại; tận mắt chứng kiến con Rồng Đất khổng lồ dài 50 mét đang say ngủ và thoát nạn nhờ che giấu khí tức; trở về an toàn và thu xếp nguyên liệu nhờ Clope rèn vũ khí cho Alize.
 - Trạng thái tính đến chương 102: Mang danh tính Rentt Vivie đến trụ sở Thương hội Stheno tại Maalt để gặp gỡ khách mua xác Tarasque; được nhân viên dẫn lên phòng tiếp khách tầng năm bằng thang máy ma cụ.
 - Trạng thái tính đến chương 111: Nhận 20 đồng bạch kim thanh toán xác Tarasque từ Nive; chia sẻ ước mơ đạt Mithril Cấp và quá khứ tu sửa ngôi đền cổ ở quê nhà được ban Thần Lực; cùng Lorraine Vivie dự định làm một chuyến về thăm quê nhà.
+- Trạng thái tính đến chương 114: Quyết định trở về quê nhà Làng Hathara cùng Lorraine để điều tra ngôi đền cổ và danh tính vị thần bảo hộ ban Thần Lực; quyết định dùng lại danh tính Rentt Faina cho chuyến đi; được Laura Latuule đồng ý tạm hoãn ủy thác hái Hoa Long Huyết và cho mượn các thư tịch cổ nghiên cứu bí thuật Thần Lực của gia tộc Latuule.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -255,6 +256,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; người đưa ra ủy thác hái Hoa Long Huyết định kỳ cho Rentt.
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
 - Trạng thái tính đến chương 68: Tại phòng tiếp khách, thấu hiểu niềm đam mê sưu tầm của Rentt và đồng ý tặng luôn mô hình phi thuyền nhỏ làm phần thưởng kèm theo bên cạnh thù lao hợp đồng ban đầu; tiết lộ bản thân mắc Bệnh Tích Tụ Chướng Khí giai đoạn cuối nên cần dùng Long Hoa Huyết định kỳ; bắt tay giao kết ủy thác định kỳ với Rentt và cho phép anh tiếp tục gọi thẳng tên mình.
+- Trạng thái tính đến chương 114: Vui vẻ chấp thuận tạm hoãn ủy thác thu hái Hoa Long Huyết định kỳ để Rentt về quê hương Hathara; giải thích việc nhận biết vị thần bảo hộ sẽ gia tăng uy lực ân phước Thần Lực; hào phóng cho Rentt mượn những thư tịch ghi chép bí thuật Thần Lực từ bộ sưu tập của gia tộc Latuule.
 
 ### Myullias Raiza
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.

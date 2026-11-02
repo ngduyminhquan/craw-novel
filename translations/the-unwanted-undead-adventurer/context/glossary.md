@@ -207,3 +207,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Great Church-Father |  | Đại Giáo Phụ | chức nghiệp | 112 | Người đứng đầu tối cao của Giáo Hội Lobelia (大教父) |
 | Order of Inquisitor-Eradicators |  | Giáo Đoàn Thẩm Phán Tiệt Trừ | tổ chức | 113 | Lực lượng chuyên săn sát và thanh trừng quái vật ẩn nấp trong xã hội loài người của Giáo Hội Lobelia |
 | Loup Garou | Loup Garous | Người Sói | chủng tộc | 113 | Loài quái vật đội lốt người sói trà trộn trong xã hội nhân loại |
+| Hathara | Hathara village; village of Hathara | Hathara | địa danh | 114 | Ngôi làng nông thôn hẻo lánh nơi quê hương của Rentt Faina (ハタラ村) |
+| Great Forest of Ramuze |  | Đại Ngàn Ramuze | địa danh | 114 | Vùng rừng bí ẩn hoang vu, cách biệt với nền văn minh |
+| Floating Ruins of Hohel | the Floating Ruins of Hohel | Tàn Tích Lơ Lửng Hohel | địa danh | 114 | Vùng phế tích bay bí ẩn, bị hạn chế ra vào nghiêm ngặt |

@@ -151,3 +151,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sharl Stheno | Myullias Raiza | tôi | Tiểu thư Myullias | 104 | Chủ thương hội tôn kính chào hỏi Thánh Nữ |
 | Nive Maris | Myullias Raiza | tôi | Tiểu thư Myullias | 104 | Mạo hiểm giả đi cùng Thánh Nữ hỗ trợ |
 | Myullias Raiza | Nive Maris | tôi | cô / Tiểu thư Nive | 104 | Thánh Nữ đi cùng mạo hiểm giả |
+| Isaac Hart | Rentt Faina | tôi | ngài / ngài Rentt | 114 | Quản gia gọi mạo hiểm giả (raw: Mister Rentt) |
+| Laura Latuule | Rentt Faina | tôi | ngài / ngài Rentt | 114 | Đương chủ gia tộc gọi mạo hiểm giả (raw: Mister Rentt) |

@@ -665,6 +665,12 @@ Trước khi vào Thương hội Stheno, Nive cảnh báo về Mị Nhãn mê ho
 Trong buổi gặp gỡ, Myullias cảm nhận được Thần Lực bên trong Rentt và tin chắc anh vô tội, kinh ngạc khi Nive thi triển được Thánh Hỏa cấp cao; Rentt bình an vượt qua thử thách và nhận lời thỉnh cầu thêm của Nive vì bản tính nhân hậu mềm lòng.
 Rời khỏi thương hội, Nive thừa nhận dù trực giác mách bảo nhưng vẫn chấp nhận kết quả, đồng thời rủ Myullias tiếp tục hỗ trợ truy lùng Ma Cà Rồng vào ngày hôm sau; Myullias ngán ngẩm nhận ra chỉ thị từ Đại Giáo Phụ yêu cầu đáp ứng tối đa nhu cầu của Nive, báo hiệu chuỗi ngày vất vả sắp tới.
 
+## 114
+Lorraine thuyết phục Rentt làm một chuyến trở về làng quê Hathara để điều tra ngôi đền cổ nhằm làm rõ nguồn gốc Thần Lực, đồng thời giữ khoảng cách né tránh sự truy lùng của Nive Maris tại Maalt; Rentt quyết định sử dụng lại danh tính Rentt Faina cho chuyến đi này.
+Rentt đến dinh thự gia tộc Latuule xin tạm hoãn ủy thác thu hái Hoa Long Huyết; Laura Latuule vui vẻ chấp thuận và bảo lưu công việc để anh tiếp tục đảm nhận sau khi trở về.
+Khi Rentt chia sẻ về chuyến đi tìm hiểu đền thờ cùng danh tính vị thần bảo hộ, Laura tiết lộ việc nhận biết thần bảo hộ sẽ giúp ân phước Thần Lực gia tăng uy lực.
+Laura hào phóng cho Rentt mượn những cuốn thư tịch cổ ghi chép bí thuật và phương pháp vận dụng Thần Lực từ bộ sưu tập của gia tộc Latuule để mang theo nghiên cứu.
+
 
 
 
