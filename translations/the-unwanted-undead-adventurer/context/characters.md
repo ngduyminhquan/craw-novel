@@ -45,6 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Sweetpea |  | Sweetpea | Chuột Puchi Suri thú cưng của Phu nhân Emilstead | #86 |
 | Zant Currin |  | Zant Currin | Cư dân thị trấn Maalt, thân chủ đưa ra ủy thác dọn dẹp nhà cửa | #87 |
 | Sharl Stheno | Sharl | Sharl Stheno | Người đứng đầu Thương hội Stheno tại thị trấn Maalt | #103 |
+| Nive Maris | Nive | Nive Maris | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng mang tước vị Nữ Chuẩn Nam tước | #104 |
 
 ## Chi tiết
 
@@ -317,3 +318,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lịch sự, nhã nhặn, chuẩn mực thương nhân, xưng "tôi", gọi Rentt là "ngài Rentt" (Sir Rentt).
 - Quan hệ: Đứng ra làm trung gian thu xếp cuộc gặp giữa Rentt và vị khách mua xác Tarasque.
 - Xuất hiện từ: #103.
+
+### Nive Maris
+- Giới tính, tuổi/vẻ ngoài: Nữ, trạc 20–25 tuổi, tóc màu xám tro, đôi mắt đỏ rực sáng lấp lánh khó đoán định biểu cảm hay ý đồ; vóc dáng xinh đẹp hút hồn.
+- Tính cách: Hoạt bát, cởi mở, suồng sã, thích nói nhiều và không câu nệ lễ nghi quý tộc; tuy nhiên bên dưới vẻ ngoài tưng tửng là một Thợ Săn Ma Cà Rồng đáng sợ, ánh mắt sắc lẹm thấu tâm can khi nhắc tới quái vật.
+- Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp đến từ láng giềng, tiệm cận Bạch Kim Cấp nhất về thực lực; được phong tước vị Nữ Chuẩn Nam tước (Baronetess) nhờ chiến công tiêu diệt một con Trung Cấp Ma Cà Rồng cùng bầy đàn của nó trong thành phố lớn; chuyên săn Ma Cà Rồng bằng phương pháp/kỹ thuật phát hiện đặc thù dựa trên Thần Lực.
+- Cách nói chuyện: Tự nhiên, suồng sã, xởi lởi, tự xưng "tôi", gọi Rentt là "ngài Rentt" (Mister Rentt), gọi Sharl là "ngài Sharl" (Mister Sharl), gọi Myullias là "Tiểu thư Myullias" (Lady Myullias).
+- Xuất hiện từ: #104.

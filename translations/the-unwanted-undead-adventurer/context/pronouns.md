@@ -39,6 +39,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sweetpea | Sweetpea / con chuột / chú chuột | 86 | Chuột Puchi Suri thú cưng của Phu nhân Emilstead |
 | Zant Currin | Zant Currin / vị thân chủ / người đàn ông | 87 | Cư dân thị trấn Maalt, thân chủ ủy thác dọn dẹp nhà cửa |
 | Sharl Stheno | Sharl / người đàn ông / vị thương nhân | 103 | Chủ Thương hội Stheno |
+| Nive Maris | Nive / cô gái / cô | 104 | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng |
 
 ## Giữa các nhân vật
 
@@ -141,3 +142,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zant Currin | Rentt Faina | tôi | cậu / Rentt | 87 | Thân chủ hài lòng khen ngợi mạo hiểm giả hoàn thành xuất sắc công việc |
 | Rentt Faina | Sharl Stheno | tôi | ngài / ông | 103 | Mạo hiểm giả nói chuyện với chủ thương hội lớn |
 | Sharl Stheno | Rentt Faina | tôi | ngài Rentt | 103 | Chủ thương hội lớn lịch thiệp, tôn trọng mạo hiểm giả săn được Tarasque |
+| Rentt Faina | Nive Maris | tôi | Tiểu thư Nive / cô | 104 | Mạo hiểm giả Đồng Cấp nói chuyện lịch sự với mạo hiểm giả Kim Cấp |
+| Nive Maris | Rentt Faina | tôi | ngài Rentt | 104 | Mạo hiểm giả Kim Cấp nói chuyện thân thiện, xởi lởi với mạo hiểm giả săn được Tarasque |
+| Rentt Faina | Myullias Raiza | tôi | cô / Tiểu thư Myullias | 104 | Mạo hiểm giả nói chuyện với Thánh Nữ Giáo Hội Lobelia |
+| Myullias Raiza | Rentt Faina | tôi | ngài | 104 | Thánh Nữ lịch sự, nhã nhặn giao tiếp với mạo hiểm giả |
+| Sharl Stheno | Nive Maris | tôi | Tiểu thư Nive | 104 | Chủ thương hội tôn trọng mạo hiểm giả Kim Cấp kiêm Nữ Chuẩn Nam tước |
+| Nive Maris | Sharl Stheno | tôi | ngài Sharl | 104 | Mạo hiểm giả Kim Cấp xưng hô tự nhiên, chào mời chủ thương hội |
+| Sharl Stheno | Myullias Raiza | tôi | Tiểu thư Myullias | 104 | Chủ thương hội tôn kính chào hỏi Thánh Nữ |
+| Nive Maris | Myullias Raiza | tôi | Tiểu thư Myullias | 104 | Mạo hiểm giả đi cùng Thánh Nữ hỗ trợ |
+| Myullias Raiza | Nive Maris | tôi | cô / Tiểu thư Nive | 104 | Thánh Nữ đi cùng mạo hiểm giả |

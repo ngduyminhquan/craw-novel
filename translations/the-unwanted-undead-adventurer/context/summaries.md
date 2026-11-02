@@ -606,6 +606,12 @@ Dù cảnh giác trước sự hào phóng bất thường, Rentt vẫn cởi m�
 Trước câu hỏi dò của Sharl về nơi sinh ra, Rentt khéo léo dùng thông tin do Lorraine chuẩn bị từ trước để tự nhận mình là trẻ mồ côi lớn lên tại Thành Phố Cơ Giới Aavan thuộc Đế Quốc Rermutt.
 Chương kết thúc khi Sharl tỏ vẻ tin tưởng câu chuyện lai lịch và thông báo vị khách quan trọng hẹn gặp Rentt sắp sửa bước vào phòng.
 
+## 104
+Hai vị khách bước vào phòng: mạo hiểm giả Kim Cấp kiêm Thợ Săn Ma Cà Rồng Nive Maris và Thánh Nữ Giáo Hội Lobelia Myullias Raiza.
+Rentt hoảng hốt khi nhận ra Nive là thiên địch chuyên săn lùng ma cà rồng bằng phương pháp luận đặc thù dựa trên Thần Lực; cùng lúc đó, Myullias bất ngờ phóng Thần Lực khiến năng lượng trong người Rentt cộng hưởng và bị cô gặng hỏi về nguồn gốc Thần Lực.
+Nive giải thích cô mượn Myullias đi cùng để phòng ngừa bị hạ độc và thanh tẩy môi trường, đồng thời thao thao bất tuyệt chào mời người bình thường thử nghiệm năng lực phát hiện ma cà rồng miễn phí của mình.
+Bị Rentt từ chối vì sợ lộ thân phận quái vật, Nive quay sang thuyết phục Sharl Stheno nhận ban phước để quảng bá việc làm ăn; chương khép lại khi Sharl quỳ gối chuẩn bị đón nhận luồng Thần Lực kiểm tra từ Nive.
+
 
 
 

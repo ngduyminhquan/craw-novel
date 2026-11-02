@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T17:56:44Z",
+  "generatedAt": "2026-11-02T18:02:39Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2771,6 +2771,12 @@
           "title": "Chương 103: Tập 4 Chương 3 - Thương Hội Stheno (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_103.md",
           "sha": "d11e7534656b5532b383446d4c81efe1cf896d34"
+        },
+        {
+          "number": 104,
+          "title": "Chương 104: Tập 4 Chương 3 - Thương Hội Stheno (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_104.md",
+          "sha": "07fce14f6efb7588cd8a23e3b552c080d697eb46"
         }
       ]
     },
