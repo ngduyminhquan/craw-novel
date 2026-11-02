@@ -69,7 +69,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 62 |  | Chapter_062 - Vol 3 Chapter 2 - And an Equally Peculiar Request (2).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (2) | reviewed |  |
 | 63 |  | Chapter_063 - Vol 3 Chapter 2 - And an Equally Peculiar Request (3).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (3) | reviewed |  |
 | 64 |  | Chapter_064 - Vol 3 Chapter 2 - And an Equally Peculiar Request (4).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (4) | done |  |
-| 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | todo |  |
+| 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | done |  |
 | 66 |  | Chapter_066 - Vol 3 Chapter 2 - And an Equally Peculiar Request (6).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (6) | todo |  |
 | 67 |  | Chapter_067 - Vol 3 Chapter 2 - And an Equally Peculiar Request (7).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (7) | todo |  |
 | 68 |  | Chapter_068 - Vol 3 Chapter 2 - And an Equally Peculiar Request (8).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (8) | todo |  |
@@ -348,8 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -499,3 +497,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#63] Xưng hô giữa Rentt Faina và cô bé quý tộc gia tộc Latuule (chưa lộ danh tính) — tạm chọn cô bé xưng 'tôi' gọi Rentt là 'ngài' (chuẩn mực quý tộc lịch thiệp), Rentt xưng 'tôi' gọi cô bé là 'cô bé' (nhã nhặn, tôn trọng đối phương nhưng giữ khoảng cách tuổi tác; phương án khác: Rentt gọi 'tiểu thư' hoặc 'ngài'). Tạm dùng trong bản dịch: tôi - ngài / tôi - cô bé. → Giữ cô bé xưng 'tôi' gọi Rentt là 'ngài', Rentt xưng 'tôi' gọi 'cô bé' (orchestrator)
 - [#64] Trùng tên gọi ngắn 'Laura' giữa Laura Latuule (#64) và Laura Satii (#33) — Laura Satii đang có alias 'Laura' nên prepare.py nhận diện 16 lần 'Laura' trong #64 là Laura Satii dù không xuất hiện. Đề xuất: bỏ alias 'Laura' khỏi Laura Satii để tránh nhận nhầm; hiện tại giữ nguyên theo quy tắc không ghi đè và đã thêm dòng riêng cho Laura Latuule vào characters.md và pronouns.md. Tạm dùng trong bản dịch: người kể gọi 'Laura' / 'cô bé', Rentt gọi 'cô bé' / 'Laura', Laura xưng 'tôi' gọi Rentt là 'ngài'. → Chốt bỏ alias 'Laura' khỏi dòng Laura Satii trong characters.md để tránh nhận nhầm; giữ xưng hô Laura Latuule (tôi - ngài) và Rentt (tôi - cô bé / Laura) (orchestrator)
 - [#64] Dịch danh xưng 'current head of the Latuule family' của Laura Latuule — tạm chọn 'đương chủ hiện tại của gia tộc Latuule' (phương án khác: 'gia chủ hiện tại của gia tộc Latuule', 'người đứng đầu hiện tại của gia tộc Latuule'). Tạm dùng trong bản dịch: 'đương chủ hiện tại của gia tộc Latuule'. → Giữ 'đương chủ hiện tại của gia tộc Latuule' (orchestrator)
+- [#65] Dịch thuật ngữ phương tiện 'airship' — tạm chọn 'phi thuyền' (phù hợp phong cách fantasy/steampunk; phương án khác: 'khí thuyền', 'tàu bay'). Tạm dùng trong bản dịch: 'phi thuyền'. → Giữ 'phi thuyền' (chuẩn thuật ngữ phương tiện bay fantasy cho 飛行船) (orchestrator)

@@ -379,3 +379,9 @@ Rentt vượt qua mê cung hoa hồng lúc hoàng hôn và gặp lại cô bé q
 Nghe Rentt giới thiệu là mạo hiểm giả Đồng Cấp nhận hái Hoa Long Huyết chỉ với thù lao tượng trưng một đồng xu đồng cho cô nhi viện, Laura xúc động trước tấm lòng nhân hậu của mạo hiểm giả.
 Theo thỏa thuận thưởng cho người vượt mê cung, Laura và Isaac dẫn Rentt xuống tầng hầm bảo quản ma cụ tối tân của dinh thự; sau khi Laura dùng cơ chế vô hình mở cánh cửa khóa ma pháp, cả hai cùng bước vào bóng tối vô định phía sau cánh cửa.
 
+## 65
+Laura thắp sáng căn phòng tầng hầm, để lộ kho tàng ma cụ khổng lồ được phân loại tỉ mỉ và cho phép Rentt chọn một món tùy thích làm phần thưởng.
+Trước những món đồ kỳ lạ lẫn lộn giữa bảo vật và phế liệu, Rentt bị thu hút bởi một mô hình phi thuyền nhỏ có khả năng bay lượn bằng Ma Tinh và hơi nước.
+Laura hướng dẫn Rentt dùng thử và tiết lộ đây là bản nguyên mẫu từ mê cung cổ xưa, sở hữu công năng đặc biệt cho phép người điều khiển tạm thời chuyển dịch ý thức lên phi thuyền để quan sát từ trên không.
+Nhận thấy tiềm năng trinh sát vô giá nhưng bị hạn chế bởi thời lượng bay ngắn do tiêu hao nhiều Ma Lực, Rentt tạm gác lại lựa chọn và cùng Laura, Isaac tiếp tục tham quan gian hầm.
+

@@ -126,3 +126,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Curiosities |  | Kỳ Cụ | vật phẩm | 62 | Phân loại ma cụ mang công năng kỳ lạ, độc nhất vô nhị (奇具/奇品) |
 | Cursed Artifacts | Cursed Artifact | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |
 | Teleportation |  | Dịch chuyển tức thời | kỹ năng | 63 | Ma pháp không gian đặc biệt dịch chuyển tức thời qua khoảng cách (転移) |
+| airship | airships; Airship; Airships | phi thuyền | vật phẩm | 65 | Phương tiện bay lượn khổng lồ di chuyển qua các vùng đất, vận hành bằng hơi nước hoặc ma pháp (飛空艇) |
