@@ -820,4 +820,11 @@ Sau khi nhờ trưởng làng Ingo thông báo trấn an dân chúng, Lorraine b
 Không thấy Rentt đâu sau màn biểu diễn, Lorraine đi tìm và được trưởng làng Ingo chỉ dẫn đến ngôi nhà thờ cổ độc lập ở rìa làng.
 Chương kết thúc khi Lorraine tìm thấy Rentt đang lặng lẽ ngồi một mình trước phần mộ của cha mẹ ruột ở khu nghĩa trang phía sau nhà thờ.
 
+## 139
+Lorraine tìm thấy Rentt tại khu nghĩa trang sau nhà thờ cổ và cùng anh dâng lời cầu nguyện trước phần mộ của cha mẹ ruột (Locusta và Melissa).
+Rentt bộc bạch về quá khứ năm 5 tuổi cùng cha mẹ ruột, bà nội nuôi Pravda (chị em ruột của bà lão làm thuốc Gharb) và bạn thanh mai trúc mã Jinlin (con gái duy nhất của Trưởng Làng Ingo) lên đường đi buôn bán nông sản đặc sản sang làng lân cận.
+Rentt hồi tưởng lại tuổi thơ nhút nhát, hiền lành, ngoại hình nữ tính của bản thân trái ngược hẳn với cô bé Jinlin hiếu động, nghịch ngợm nhưng sớm phải gánh vác áp lực học tập để kế thừa vị trí lãnh đạo làng.
+Sau chuyến đi xe ngựa dài ngày, Jinlin bị say xe nên Rentt đưa cô bé ra chỗ thoáng đãng; Jinlin nằng nặc đòi Rentt dắt đi khám phá thị trấn bất chấp lời dặn của bà Pravda khiến Rentt phải chiều theo.
+Chương kết thúc với sự day dứt khôn nguôi của Rentt khi tự trách bản thân thời thơ ấu đã không kiên quyết ngăn cản Jinlin trước khi thảm kịch ập đến.
+
 

@@ -51,6 +51,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Fahri | Fahri / cô bé | 134 | Bạn thuở nhỏ của Rentt kém 7 tuổi |
 | Gharb | Gharb / bà lão làm thuốc / bà lão | 136 | Bà lão làm thuốc tại làng Hathara biết thuật giả kim |
 | Hadeed | Hadeed / người thợ săn | 136 | Thợ săn tại làng Hathara dạy Riri |
+| Locusta | Locusta / cha / người đàn ông | 139 | Cha ruột của Rentt Faina |
+| Melissa | Melissa / mẹ / người phụ nữ | 139 | Mẹ ruột của Rentt Faina |
+| Pravda | Pravda / bà / bà lão | 139 | Mẹ của Trưởng Làng Ingo, bà nuôi của Rentt |
+| Jinlin | Jinlin / cô bé | 139 | Con gái Trưởng Làng Ingo, bạn thanh mai trúc mã của Rentt |
 
 ## Giữa các nhân vật
 
@@ -209,3 +213,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Riri | Rentt Faina | em | anh / anh Rentt | 137 | Thiếu nữ trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn |
 | Rentt Faina | Fahri | tôi | em / Fahri | 137 | Bạn thuở nhỏ lớn hơn 7 tuổi nói chuyện với cô em gái trong làng |
 | Fahri | Rentt Faina | em | anh / anh Ren | 137 | Thiếu nữ trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn, dùng tên gọi thân mật Ren |
+| Rentt Faina | Jinlin | tớ | cậu / Jinlin | 139 | Bạn thanh mai trúc mã thuở nhỏ bằng tuổi |
+| Jinlin | Rentt Faina | tớ | cậu / Rentt | 139 | Bạn thanh mai trúc mã thuở nhỏ bằng tuổi |
+| Melissa | Rentt Faina | mẹ | con / Rentt | 139 | Mẹ ruột nói chuyện với con trai 5 tuổi |
+| Rentt Faina | Melissa | con | mẹ | 139 | Con trai 5 tuổi nói chuyện với mẹ ruột |
+| Pravda | Jinlin | bà | cháu / Jinlin | 139 | Bà nội dặn dò cháu gái |
+| Jinlin | Pravda | cháu | bà | 139 | Cháu gái nói chuyện với bà nội |
+| Pravda | Rentt Faina | bà | cháu / Rentt | 139 | Bà nuôi nói chuyện với cháu nuôi |
+| Rentt Faina | Pravda | cháu | bà / bà Pravda | 139 | Cháu nuôi nói chuyện với bà nuôi |

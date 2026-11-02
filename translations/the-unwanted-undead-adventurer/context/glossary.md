@@ -257,3 +257,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Grand Fum Wyvern | grand fum wyvern; Grand Fum Wyverns; grand fum wyverns | Phi Long Grand Fum | quái vật | 135 | Loài Phi Long khổng lồ dài 10m sống gần đỉnh núi (グランドファムワイバーン) |
 | Zeva Wyvern | zeva wyverns; Zeva Wyverns; zeva wyvern | Phi Long Zeva | quái vật | 135 | Phân loài Phi Long bay yếu nhất trong các loài Á Long (ゼヴァワイバーン) |
 | Projection magic | projection magic; projection spell; projection spells; Illusion magic; illusion magic | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |
+| Gate of the Dead |  | Cổng Cõi Chết | khác | 139 | Cánh cổng nơi các linh hồn người chết đi qua sang thế giới bên kia (死者の門) |
+| necromancer | necromancers | pháp sư Tử Linh | chức nghiệp | 139 | Người sử dụng Tử Linh Thuật triệu hồi hoặc thao túng linh hồn người chết (死霊術士) |

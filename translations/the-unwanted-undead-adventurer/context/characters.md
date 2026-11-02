@@ -63,6 +63,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ren |  | Ren | Tên gọi thân mật Fahri dùng để gọi Rentt Faina | #135 |
 | Gharb |  | Gharb | Bà lão làm thuốc tại làng Hathara, biết ma thuật và thuật giả kim | #136 |
 | Hadeed |  | Hadeed | Thợ săn tại làng Hathara, người dạy Riri kỹ năng Khí Lực | #136 |
+| Locusta |  | Locusta | Cha ruột của Rentt Faina, từng là lữ khách trước khi định cư ở Làng Hathara | #139 |
+| Melissa |  | Melissa | Mẹ ruột của Rentt Faina, người phụ nữ xinh đẹp nổi tiếng trong làng | #139 |
+| Pravda |  | Pravda | Mẹ của Trưởng Làng Ingo Faina, bà nuôi của Rentt, chị em gái với bà lão Gharb | #139 |
+| Jinlin |  | Jinlin | Con gái Trưởng Làng Ingo Faina, bạn thanh mai trúc mã thuở nhỏ của Rentt | #139 |
 
 ## Chi tiết
 
@@ -481,3 +485,23 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thợ săn tại Làng Hathara.
 - Đặc điểm: Người sử dụng Khí Lực (spirit user); đang chỉ bảo và truyền dạy kỹ năng Khí Lực cho Riri (kỹ thuật chặt gỗ bằng dao găm, bắn cung tầm xa).
 - Xuất hiện từ: #136 (được Fahri nhắc tên).
+
+### Locusta
+- Giới tính, vai trò: Nam, cha ruột của Rentt Faina.
+- Đặc điểm: Vẻ ngoài phong trần, vạm vỡ, từng ngao du nhiều nơi trước khi định cư tại Làng Hathara; am hiểu giá trị hàng hóa và đối ngoại của làng; qua đời do quái vật tấn công trong chuyến đi buôn khi Rentt 5 tuổi. Rentt thừa hưởng ánh mắt của ông.
+- Xuất hiện từ: #139 (qua lời kể của Rentt).
+
+### Melissa
+- Giới tính, vai trò: Nữ, mẹ ruột của Rentt Faina.
+- Đặc điểm: Người phụ nữ xinh đẹp, dịu dàng và rất được mọi người yêu mến; qua đời do quái vật tấn công khi Rentt 5 tuổi. Rentt thừa hưởng vóc dáng từ bà.
+- Xuất hiện từ: #139 (qua lời kể của Rentt).
+
+### Pravda
+- Giới tính, vai trò: Nữ, mẹ của Trưởng Làng Ingo Faina, tức bà nội nuôi của Rentt Faina; là chị/em gái của bà lão làm thuốc Gharb.
+- Đặc điểm: Dung mạo khá giống Gharb nhưng khuôn mặt thanh thoát và hiền hậu hơn nhiều; đại diện gia đình trưởng làng trong chuyến đi buôn sang làng bên; qua đời cùng chuyến đi khi Rentt 5 tuổi.
+- Xuất hiện từ: #139 (qua lời kể của Rentt).
+
+### Jinlin
+- Giới tính, vai trò: Nữ, con gái của Trưởng Làng Ingo Faina, bạn thanh mai trúc mã bằng tuổi của Rentt Faina (từng được hai bên gia đình hứa hôn từ nhỏ).
+- Đặc điểm: Tính cách hiếu động, nghịch ngợm, thích trèo cây, chơi đánh kiếm gỗ và luôn nhận làm mạo hiểm giả săn quái vật; thông minh, biết đọc viết từ nhỏ; bị say xe ngựa; qua đời trong chuyến đi buôn khi 5 tuổi.
+- Xuất hiện từ: #139 (qua lời kể của Rentt).
