@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T10:18:18Z",
+  "generatedAt": "2026-11-02T10:27:45Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2446,19 +2446,19 @@
           "number": 49,
           "title": "Chương 49: Tập 2 Chương 4 - Hoa Long Huyết (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_049.md",
-          "sha": "c0970bc666064a943b1c83804b2d4da8e97cea67"
+          "sha": "e9dd4db468b44f30054032a5c7bff68267e6b6f7"
         },
         {
           "number": 50,
           "title": "Chương 50: Tập 2 Chương 4 - Hoa Long Huyết (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_050.md",
-          "sha": "0d10e3c38b1a5211cd180469d426b88733476eb7"
+          "sha": "2809846060e2b0f93110e16285d0629780571c48"
         },
         {
           "number": 51,
           "title": "Chương 51: Tập 2 Chương 4 - Hoa Long Huyết (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_051.md",
-          "sha": "54d45e8c4ba330d6c94a4cfe9c980deec694a5c9"
+          "sha": "c76ee7abd20db5b606ab8a6f3a934c395bad0dcd"
         }
       ]
     },

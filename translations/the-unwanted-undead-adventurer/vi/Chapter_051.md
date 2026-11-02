@@ -24,7 +24,7 @@ Lại thêm một câu hỏi nữa cho quyến thuộc, thế là tôi truyền 
 
 "Ban đầu... Ta muốn mày... Canh giữ căn hầm này. Nhưng liệu ta có thể giao việc đó... Cho lũ nhỏ này thay thế được không?"
 
-Dán chặt đôi mắt đỏ hoe vào tôi, con Puchi Suri nhìn thẳng phía trước, rồi truyền đến cho tôi một ý nghĩ có vẻ như lại là một lời khẳng định nữa.
+Dán chặt đôi mắt đỏ rực vào tôi, con Puchi Suri nhìn thẳng phía trước, rồi truyền đến cho tôi một ý nghĩ có vẻ như lại là một lời khẳng định nữa.
 
 ![](images/ch051-01.webp)
 
@@ -104,7 +104,7 @@ Một ngày mới rạng rỡ buông xuống Maalt. Mặt trời chầm chậm n
 
 Chuyện này buồn chán khủng khiếp. Tất cả những gì tôi có thể làm để giết thời gian là nhìn ra ngoài cửa sổ, hoặc thắp đèn lên và đọc sách. Điều này cho phép tôi hoạt động suốt ngày đêm khi đang thực hiện ủy thác, dẫu một mạo hiểm giả không cần nghỉ ngơi chắc chắn sẽ khiến người khác sinh nghi. Mạo hiểm giả vốn chẳng phải cái nghề mà người ta có thể giải quyết ngay tức khắc mọi nhiệm vụ của mình; dù là mạo hiểm giả dày dạn kinh nghiệm đến đâu, việc thiếu nghỉ ngơi cũng có thể dẫn tới những biến chứng nghiêm trọng. Vì lẽ đó, tôi chẳng có lựa chọn nào khác ngoài việc phải nghỉ ngơi.
 
-Tuy nhiên, nhờ vào xu hướng sinh hoạt về đêm mới hình thành, tôi đã trở nên giống một học giả hơn trước, và tình trạng này đã kéo dài suốt khoảng một tháng nay. Kiến thức của tôi chẳng thấm vào đâu so với Lorraine, dẫu tất cả những gì tôi cần làm để có câu trả lời chỉ là cất tiếng hỏi. Một lợi ích vô cùng tiện lợi, nếu không muốn nói là gì khác.
+Tuy nhiên, nhờ vào xu hướng sinh hoạt về đêm mới hình thành, tôi đã trở nên giống một học giả hơn trước, và tình trạng này đã kéo dài suốt khoảng một tháng nay. Kiến thức của tôi chẳng thấm vào đâu so với Lorraine, dẫu tất cả những gì tôi cần làm để có câu trả lời chỉ là cất tiếng hỏi. Một đặc ân vô cùng tiện lợi, nếu không muốn nói là gì khác.
 
 Mặt khác, con Puchi Suri mà tôi mang về từ cô nhi viện lại cần một lượng giấc ngủ kha khá. Nó hiện đang ngáy khò khò nằm ngửa bụng, nằm xoài ra trên chiếc bàn làm việc nơi tôi đang đọc sách.
 
@@ -132,11 +132,11 @@ Hiện tại, tôi quyết định cứ để mặc quyến thuộc của mình 
 
 Đập vào mắt tôi là một cảnh tượng kỳ lạ khi bước chân vào gian bếp.
 
-"Tôi gần như... Nghĩ rằng. Hôm nay... Trời sắp đổ tuyết rồi đấy," tôi nói, bật cười thích thú trước cảnh tượng ấy.
+"Tôi suýt nữa thì... Nghĩ rằng. Hôm nay... Trời sắp có tuyết rơi rồi đấy," tôi nói, bật cười thích thú trước cảnh tượng ấy.
 
 "Đừng có ngớ ngẩn thế, Rentt. Ngay cả tôi cũng có thể nấu nướng nếu tôi dồn tâm trí vào đấy chứ."
 
-Câu trả lời đó không đến từ ai khác ngoài Lorraine, người chẳng hiểu vì lý do gì lại quyết định trổ tài nấu bữa sáng. Vô số ma cụ ma thuật và thuật giả kim hiện diện trong gian bếp, và Lorraine thao tác từng món bằng một đôi tay thuần thục.
+Câu trả lời đó không đến từ ai khác ngoài Lorraine, người chẳng hiểu vì lý do gì lại quyết định trổ tài nấu bữa sáng. Vô số dụng cụ ma thuật và giả kim thuật hiện diện trong gian bếp, và Lorraine thao tác từng món bằng một đôi tay thuần thục.
 
 Bình thường vào giờ này thì Lorraine còn đang ngủ say như chết, nhưng đúng như cô nói, việc cô có khả năng nấu nướng tàm tạm cũng chẳng phải chuyện gì kỳ quái. Lẽ dĩ nhiên tôi có thể nhận công trạng về chuyện đó, vì tôi chính là người đầu tiên dạy cô cách nấu nướng.
 

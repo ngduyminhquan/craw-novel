@@ -39,3 +39,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#12) Thành ngữ "for (the) lack of a better word": dịch là "nói một cách trần trụi thì" hoặc "nói thẳng thừng ra là" (tránh dịch ngược nghĩa thành "nói theo cách dễ nghe nhất").
 - (#13) Thành ngữ "if anything": dịch là "nói đúng hơn thì", "trái lại" (tránh dịch nhầm thành "nếu có điều gì xảy ra").
 - (#14) Cấu trúc phủ định kép: cẩn thận khi chuyển ngữ sang tiếng Việt tránh đảo ngược nghĩa câu văn (ví dụ "did not have the slightest suspicion that these days would not continue indefinitely" dịch thành "chưa từng mảy may thoáng nghĩ rằng những chuỗi ngày ấy rồi sẽ có lúc không thể tiếp diễn mãi mãi").
+- (#49) Thành ngữ "at best": dịch là "xét một cách nhẹ nhàng nhất thì", "có nhìn nhận tích cực nhất thì" hoặc "khá lắm thì cũng" (tránh dịch sai thành "nói giảm nói tránh" như ở chương 48 và 49).

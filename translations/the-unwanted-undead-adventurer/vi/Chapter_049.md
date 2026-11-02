@@ -42,7 +42,7 @@ Kèm theo một tràng quát mắng đầy uy lực và tiếng khóc ré inh �
 
 "Em... ý em là... em hết sức xin lỗi ạ, em không hề có ý bảo anh là kẻ xấu..." Cô bé hơi lắp bắp nói. Giọng điệu của em nghe vô cùng gượng gạo.
 
-Em ấy đang sợ phản ứng của mình sao?
+Em ấy đang sợ phản ứng của tôi sao?
 
 "...Không. Thật ra, tôi lại thấy... an lòng hơn. Mấy đứa trẻ đó tiếp cận tôi... mà chẳng mảy may nghi ngờ. Nói đúng hơn thì, tôi đã... khá lo lắng. Tôi bắt đầu tự hỏi... liệu có phải chưa từng có ai... nói cho chúng biết điều gì. Về mạo hiểm giả hay không."
 
@@ -52,7 +52,7 @@ Lời của cô bé hoàn toàn xác đáng. Dù cách em lớn tiếng quát th
 
 Chỉ là tình cờ mạo hiểm giả có mặt tại cơ sở này hôm nay lại là tôi, chứ không phải một tên bặm trợn hung bạo nào đó từ quán rượu địa phương. Dẫu vậy, điều đó cũng chẳng làm thay đổi được một sự thật rằng mạo hiểm giả vốn dĩ là những kẻ tiềm ẩn nhiều hiểm họa.
 
-Dẫu nói thế, một mạo hiểm giả chấp nhận ủy thác của cô nhi viện với mức thù lao vỏn vẹn một đồng đồng thì dù thế nào đi nữa hẳn cũng chẳng phải kẻ bạo lực, nhưng cẩn tắc vô ưu bao giờ cũng là điều khôn ngoan hơn. Cảnh giác trước những kẻ kỳ quặc và lập dị—cụ thể là đám mạo hiểm giả cùng đồng bọn—vốn là lẽ thường tình của những kẻ yếu thế và khốn cùng.
+Dẫu nói thế, một mạo hiểm giả chấp nhận ủy thác của cô nhi viện với mức thù lao vỏn vẹn một đồng tiền đồng thì dù thế nào đi nữa hẳn cũng chẳng phải kẻ bạo lực, nhưng cẩn tắc vô ưu bao giờ cũng là điều khôn ngoan hơn. Cảnh giác trước những kẻ kỳ quặc và lập dị—cụ thể là đám mạo hiểm giả cùng đồng bọn—vốn là lẽ thường tình của những kẻ yếu thế và khốn cùng.
 
 Hiểu được ý tôi qua những lời vừa rồi, cô bé khẽ cúi đầu. "Em thực sự xin lỗi ạ... Lũ trẻ đó chẳng bao giờ chịu nghe lời, dẫu em có dặn là không được chõ mũi vào những nơi nguy hiểm. Chúng lúc nào cũng gây rắc rối. Bình thường thì chúng ngoan lắm, nhưng chỉ cần rời mắt một cái là..."
 
@@ -90,7 +90,7 @@ Câu trả lời của cô bé lại một lần nữa cắt ngang dòng suy ngh
 
 Dẫu cô bé đã hết sức giữ kẽ từ nãy đến giờ, nhưng dường như em đã quên mất giọng điệu gượng gạo khi nói về bản thân. Em nói năng lưu loát đối với một đứa trẻ, song cung cách ăn nói đó tuyệt nhiên chẳng thể xem là hoàn hảo.
 
-Dù vậy, nỗ lực của em thật đáng khen, nếu không muốn nói là hơi nhầm đối tượng, bởi xưng hô với một kẻ như tôi theo cách trang trọng như thế thì nói giảm nói tránh cũng là quá đỗi kỳ cục.
+Dù vậy, nỗ lực của em thật đáng khen, nếu không muốn nói là hơi nhầm đối tượng, bởi xưng hô với một kẻ như tôi theo cách trang trọng như thế thì xét một cách nhẹ nhàng nhất cũng là quá đỗi kỳ quặc.
 
 "Trông em có vẻ... đang nói năng ngập ngừng. Tôi không... bận tâm đâu. Cứ nói chuyện... tự nhiên đi."
 

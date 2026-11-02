@@ -20,7 +20,7 @@ Chỉ với chừng ấy lời, phần lớn bản chất ủy thác của Alize
 
 Alize bật cười trước lời tôi nói, em chĩa ngón tay về phía tôi. "Những người giống như anh nhiều hơn anh tưởng đấy! Họ bảo rằng nếu là vì Sơ Lillian thì họ sẽ không lấy một đồng nào cả. Dù sao thì, họ cũng đã nói như thế đấy ạ."
 
-Tôi nghĩ điều đó cũng dễ hiểu thôi, bởi sơ là một thành viên của Giáo Hội Đông Thiên, lại còn là một nữ tu chăm sóc cả một cô nhi viện. Chắc chắn đã có không ít người từng được bàn tay nhân từ của sơ cứu giúp, hay thậm chí nhờ vào năng lực Thần Lực vượt trội của sơ trước những hoàn cảnh ngặt nghèo. Khi còn khỏe mạnh, sơ hoàn toàn có đủ khả năng chiến đấu với quái vật.
+Tôi nghĩ điều đó cũng dễ hiểu thôi, bởi sơ là một thành viên của Giáo Hội Đông Thiên, lại còn là một nữ tu chăm sóc cả một cô nhi viện. Chắc chắn đã có không ít người từng được bàn tay nhân từ của sơ cứu giúp, hay thậm chí nhờ vào Thần Lực vượt trội của sơ trước những hoàn cảnh ngặt nghèo. Khi còn khỏe mạnh, sơ hoàn toàn có đủ khả năng chiến đấu với quái vật.
 
 "Dạ... Vậy nên, lý do là thế đấy ạ. Trừ phi có một Thánh Nữ hay đại tư tế ghé qua, bằng không chúng em sẽ cần đến thuốc để chữa trị cho Sơ Lillian. Thật ra, cách đây ít lâu từng có một Thánh Nữ ghé thăm nơi này, nhưng lúc đó Sơ Lillian vẫn còn rất khỏe mạnh..."
 
@@ -114,7 +114,7 @@ Luồng không khí mát lạnh của căn hầm mang lại cho tôi chút cảm
 
 "Dạ? Ở đâu? Ở đâu cơ ạ?" Alize ngó nghiêng đầu hết bên này sang bên khác, cất tiếng hỏi.
 
-Trên tay em lăm lăm một con dao nhỏ, có lẽ dùng để tự vệ. Cẩn tắc vô áy náy; dù sao chúng tôi cũng đang đối phó với quái vật, cho dù chúng có yếu ớt đến đâu đi nữa.
+Trên tay em lăm lăm một con dao nhỏ, có lẽ dùng để tự vệ. Cẩn tắc vô ưu; dù sao chúng tôi cũng đang đối phó với quái vật, cho dù chúng có yếu ớt đến đâu đi nữa.
 
 Tôi chỉ tay về phía góc tối của căn phòng. "Đằng kia... Em có thấy không? Nó đang ngồi ngay... góc đó. Cái vật thể... tròn tròn ấy."
 

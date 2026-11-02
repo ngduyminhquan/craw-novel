@@ -56,7 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp và sinh thái quái vật.
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng điệu bạn bè thân tình 10 năm với Rentt.
 - Quan hệ: Bạn chí cốt của Rentt. Người duy nhất ở Maalt Rentt tìm đến đầu tiên để thổ lộ việc mình biến thành Undead.
-- Trạng thái tính đến chương 42: Nhắc đến mạo hiểm giả Augurey ăn mặc sặc sỡ đã lên thủ đô; tổng kết các lý do khiến Rentt dễ bị chĩa mũi dùi trong các vụ tân binh mất tích và nhắc nhở anh về nguy cơ bị đám đông lôi ra xử tử; thống nhất giải pháp Rentt tạm dừng vào mê cung.
+- Trạng thái tính đến chương 51: Đồng ý cho Rentt nuôi con chuột Puchi Suri quyến thuộc tại nhà để lấy mẫu máu/lông nghiên cứu và bị nó cắn nhẹ vào tay hút máu; sáng hôm sau tự tay dậy sớm dùng dụng cụ ma thuật và giả kim thuật nấu bữa sáng cho Rentt trước khi anh lên đường tới Đầm Lầy Tarasque tìm Hoa Long Huyết.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -155,4 +155,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thông minh, sắc sảo, chững chạc trước tuổi, ý thức sâu sắc về sự an toàn của những đứa trẻ khác trong viện trước người lạ và mạo hiểm giả; hết lòng vì cô nhi viện và lo lắng cho bệnh tình của Sơ Lillian.
 - Cách nói chuyện: Cố gắng nói năng trang trọng, lịch sự như người lớn khi đại diện cô nhi viện tiếp khách; khi được Rentt cho phép thì nói chuyện tự nhiên, hồn nhiên đúng lứa tuổi, xưng "em", gọi "anh Rentt" / "anh"; kính trọng gọi "Sơ Lillian" (Lady Lillian).
 - Quan hệ: Đứa trẻ lớn đảm nhận vai trò trợ tá ("cánh tay phải") của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; người bí mật đổi nội dung ủy thác thành tìm Hoa Long Huyết nhằm chữa bệnh cho Sơ Lillian.
-- Trạng thái tính đến chương 50: Giải thích ngọn ngành bệnh tình của Sơ Lillian cho Rentt và nhờ anh tìm Hoa Long Huyết tại Đầm Lầy Tarasque; bộc lộ ước mơ làm mạo hiểm giả và sở hữu chút Ma Lực; dẫn Rentt xuống hầm diệt Puchi Suri và chứng kiến anh thu phục nó làm lính gác hầm.
+- Trạng thái tính đến chương 51: Cùng Rentt xuống căn hầm chứa đồ, tự tay hạ gục một con Puchi Suri nhỏ bằng dao tự vệ và được Rentt tặng viên Ma Tinh làm tiền tiêu vặt; chứng kiến con Puchi Suri ngoại cỡ quyến thuộc của Rentt áp chế bầy chuột nhỏ canh giữ căn hầm.
