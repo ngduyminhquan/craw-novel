@@ -77,6 +77,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 123: Hoàn thành đũa phép với phần đầu chạm khắc hình con rồng nuốt viên Ma Tinh Terra Drake cực kỳ tinh xảo bằng thao túng Ma Lực thuần túy; bộc lộ thiên phú dị thường với hỏa ma pháp khi thử nghiệm câu chú Aliumage bùng lên ngọn lửa dữ dội vượt xa thủy ma pháp Mah.
 - Trạng thái tính đến chương 124: Mua được chiếc túi ma thuật đặc biệt có khả năng biến đổi hình dáng (trị giá 2.000–2.500 đồng vàng) từ Sharl Stheno với giá ưu đãi 18 đồng bạch kim (1.800 đồng vàng); tiến đến Hội Mạo Hiểm Giả để đàm phán với Hội Trưởng Maalt nhằm hợp nhất hai danh tính Rentt Faina và Rentt Vivie.
 - Trạng thái tính đến chương 125: Đến gặp Hội Trưởng Wolf Hermann tại Hội Mạo Hiểm Giả Maalt; được Wolf vạch trần thân phận Rentt Faina và thấu hiểu ước mơ chung về việc vươn tới Mithril Cấp; đồng ý tin tưởng và chuẩn bị giãi bày hoàn cảnh dưới sự bảo đảm của khế ước ràng buộc ma pháp.
+- Trạng thái tính đến chương 126: Ký khế ước ràng buộc ma pháp với Wolf Hermann; tự rạch tay phô diễn khả năng tái sinh vết thương tức thì; kể lại việc bị Rồng nuốt chửng tại Mê Cung Nguyệt Ảnh (giữ kín lối đi bí mật) và quá trình Tiến Hóa Bản Thể từ Khô Lâu đến Ma Cà Rồng; tiết lộ việc Lorraine chia sẻ máu và Nive Maris phán định anh không phải Ma Cà Rồng.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -388,5 +389,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nam, cựu mạo hiểm giả trung niên vóc người to lớn vạm vỡ, mặc trang phục rộng thùng thình, cánh tay cuồn cuộn cơ bắp ngang ngửa những mạo hiểm giả phong trần nhất; có vết sẹo lớn chạy dọc chính giữa mắt trái, mắt phải sắc bén quắc thước như một chiến binh.
 - Tính cách: Thẳng thắn, bộc trực, ghét lãng phí thời gian nhưng thấu tình đạt lý và rất quan tâm đến cấp dưới; mang ước mơ vươn tới Mithril Cấp thời còn làm mạo hiểm giả và đồng cảm sâu sắc với Rentt.
 - Thân phận, chức nghiệp: Hội Trưởng Hội Mạo Hiểm Giả chi nhánh thị trấn Maalt; từng là mạo hiểm giả cựu binh nhưng phải giải nghệ vì chấn thương mắt; được Tổng Hội Trưởng Yaaran đặc cách bổ nhiệm làm Hội Trưởng Maalt.
-- Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie".
+- Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie"; cho phép mạo hiểm giả nói chuyện tự nhiên không cần câu nệ khách sáo.
+- Trạng thái tính đến chương 126: Có nét chữ rất đẹp và nắn nót do phải xử lý nhiều công văn giấy tờ gửi lên vương đô; từng là mạo hiểm giả độc hành săn quái ở Mê Cung Nguyệt Ảnh; ký khế ước ma pháp bảo mật với Rentt và lắng nghe toàn bộ câu chuyện về việc Rentt biến thành Undead (Khô Lâu -> Ngạ Quỷ -> Ma Cà Rồng); hoàn toàn tin tưởng nhân phẩm Rentt không hại người; bàng hoàng khi biết Nive Maris phán định Rentt không phải Ma Cà Rồng.
 - Xuất hiện từ: #125.

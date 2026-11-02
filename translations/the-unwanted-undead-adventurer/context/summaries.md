@@ -738,3 +738,10 @@ Wolf vạch trần ngay việc Rentt Vivie và Rentt Faina là cùng một ngư�
 Wolf đề nghị ký khế ước ràng buộc ma pháp bảo mật bí mật và hứa sẽ biệt đãi, giải quyết êm thấm vụ đăng ký hai lần nếu Rentt kể rõ lý do che giấu thân phận.
 Sau khi Wolf chia sẻ bí mật rằng bản thân từng ôm ấp giấc mơ vươn tới Mithril Cấp thời còn làm mạo hiểm giả, Rentt tìm thấy sự đồng cảm sâu sắc và quyết định đặt trọn niềm tin vào vị Hội Trưởng.
 
+## 126
+Rentt và Wolf thống nhất điều khoản và ký khế ước ràng buộc ma pháp bảo mật; Wolf bảo Rentt cứ nói chuyện tự nhiên như mạo hiểm giả với nhau thay vì giữ kẽ khách sáo.
+Rentt dùng dao găm rạch tay phô diễn khả năng tự lành vết thương tức thì để chứng minh bản thân là Undead, sau đó kể lại việc bị Rồng nuốt chửng trong Mê Cung Nguyệt Ảnh (giữ kín lối đi bí mật) và khẳng định không phải ảo giác nhờ sự rèn luyện độc dược từ bà thầy thuốc ở quê nhà.
+Rentt giải thích quá trình Tiến Hóa Bản Thể từ Khô Lâu lên Ngạ Quỷ rồi Ma Cà Rồng; Wolf lo ngại về các vụ mạo hiểm giả mất tích nhưng lập tức tin tưởng nhân phẩm Rentt, và biết Lorraine chia sẻ máu cho anh.
+Khi Wolf băn khoăn về lượng máu tiêu thụ, Rentt tiết lộ anh chỉ cần vài giọt mỗi ngày, vẫn ăn uống như người thường, và Nive Maris đã phán định anh không phải Ma Cà Rồng khiến Wolf bàng hoàng ôm đầu.
+
+

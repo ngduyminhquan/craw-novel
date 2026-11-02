@@ -160,5 +160,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alize | Clope | cháu | chú | 117 | Đứa trẻ mồ côi lễ phép chào hỏi người thợ rèn quen của Rentt |
 | Rentt Faina | Wolf Hermann | tôi | Hội Trưởng / Hội Trưởng Wolf | 125 | Giao tiếp lịch sự, thẳng thắn với Hội Trưởng |
 | Wolf Hermann | Rentt Faina | tôi | cậu / Rentt / Rentt Faina | 125 | Cựu mạo hiểm giả thẳng thắn, đồng cảm với Rentt |
+| Rentt Faina | Wolf Hermann | tôi | Wolf / Hội Trưởng | 126 | Wolf bảo nói chuyện bình đẳng như mạo hiểm giả, không cần khách sáo |
 | Sheila Ibarss | Wolf Hermann | tôi | Hội Trưởng | 125 | Nhân viên Hội báo cáo cấp trên |
 | Wolf Hermann | Sheila Ibarss | tôi | cô / Sheila | 125 | Hội Trưởng nói chuyện với nhân viên |

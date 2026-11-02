@@ -25,8 +25,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gold-class |  | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class |  | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
 | Mithril-class | Mythril-class | Mithril Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả truyền kỳ đỉnh cao (ミスリル級) |
-| Labyrinth of the Moon’s Reflection | Moon’s Reflection | Mê Cung Nguyệt Ảnh | địa danh | 1 | Mê cung sơ cấp gần thị trấn Maalt (水月の迷宮) |
-| Labyrinth of the New Moon | New Moon | Mê Cung Tân Nguyệt | địa danh | 1 | Mê cung mới (新月の迷宮) |
+| Labyrinth of the Moon’s Reflection | Moon’s Reflection; Water Moon Dungeon | Mê Cung Nguyệt Ảnh | địa danh | 1 | Mê cung sơ cấp gần thị trấn Maalt (水月の迷宮) |
+| Labyrinth of the New Moon | New Moon; New Moon Dungeon | Mê Cung Tân Nguyệt | địa danh | 1 | Mê cung mới (新月の迷宮) |
 | Maalt |  | Maalt | địa danh | 1 | Thị trấn biên ải nơi Rentt sinh sống và hành nghề |
 | Kingdom of Yaaran | Yaaran | Vương Quốc Yaaran | địa danh | 1 | Vương quốc nơi có thị trấn Maalt |
 | Azuul Forest |  | Rừng Azuul | địa danh | 1 | Khu rừng gần Maalt |
@@ -235,3 +235,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mah |  | Mah | kỹ năng | 123 | Phép tạo nước thuộc Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
 | Hell |  | Địa Ngục | địa danh | 123 | Cõi địa ngục trong truyền thuyết nơi ác ma cư ngụ |
 | grand guildmaster | Grand Guildmaster | Tổng Hội Trưởng | chức nghiệp | 125 | Người đứng đầu toàn bộ Hội Mạo Hiểm Giả của Vương Quốc Yaaran (総ギルドマスター) |
+| Grand Goblin | grand goblins | Đại Goblin | quái vật | 126 | Phân loài Goblin tiến hóa bậc cao |
