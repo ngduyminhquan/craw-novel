@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T13:22:37Z",
+  "generatedAt": "2026-11-02T13:30:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2572,19 +2572,19 @@
           "number": 70,
           "title": "Chương 70: Tập 3 Chương 3 - Tiến Hóa Bản Thể Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_070.md",
-          "sha": "65d12a55ef7b7d6432b0d1a8c7b46bec0dc80609"
+          "sha": "18bb0ba26538cb2d105eba0a7954a6b8d2ded3ac"
         },
         {
           "number": 71,
           "title": "Chương 71: Tập 3 Chương 3 - Tiến Hóa Bản Thể Mới (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_071.md",
-          "sha": "20a4605c506790808e26aee09df80cd6b46383eb"
+          "sha": "cdb01b4e96b37001c8aa4d5dcf82624b2a3d5d22"
         },
         {
           "number": 72,
           "title": "Chương 72: Tập 3 Chương 3 - Tiến Hóa Bản Thể Mới (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_072.md",
-          "sha": "cb255450a9409700c22aebec3724f81942289955"
+          "sha": "b7abf6edaf789c23772ebf7289fa4195a15f3b5d"
         }
       ]
     },

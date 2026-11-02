@@ -106,7 +106,7 @@ Bên ngoài trời đã tối, vậy nên xét việc tôi gục xuống vào kh
 
 Trước câu hỏi của tôi, Lorraine gấp cuốn sách lại cái phịch, rồi đưa ra câu trả lời trong khi những ngón tay cô lướt qua bìa sách.
 
-"Một cuốn sách miêu tả tập tính sinh thái của Ma Cà Rồng—thực ra thì hơi giống một cuốn bách khoa toàn thư. Các mục ghi chép chi tiết về nhiều chủng loại Ma Cà Rồng khác nhau, nhưng tôi đoán ngay cả anh cũng biết những điểm khác biệt phổ biến giữa chúng. Thi Quỷ, Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng, và Đại Ma Cà Rồng... Chi tiết về tất cả bọn họ. Dĩ nhiên, khi sức mạnh của chúng gia tăng, một số phân loài Ma Cà Rồng bắt đầu vượt ra ngoài mọi nỗ lực phân loại. Các phân loại kể trên hoàn toàn chưa phải là tất cả—chẳng hạn như những Ma Cà Rồng sống qua quãng thời gian dài đặc biệt được gọi là Ma Cà Rồng Cổ Đại, và chúng ta còn có những nàng Công Chúa Ma Cà Rồng kinh điển thường xuất hiện trong truyện cổ dân gian và những câu chuyện tương tự. Như anh thấy đấy, anh sẽ không thể áp dụng các phân loại bên trên cho hai ví dụ vừa rồi được đâu."
+"Một cuốn sách miêu tả tập tính sinh thái của Ma Cà Rồng—thực ra thì hơi giống một cuốn bách khoa toàn thư. Các mục ghi chép chi tiết về nhiều chủng loại Ma Cà Rồng khác nhau, nhưng tôi đoán ngay cả anh cũng biết những điểm khác biệt phổ biến giữa chúng. Thi Quỷ, Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng, và Đại Ma Cà Rồng... Chi tiết về tất cả chúng. Dĩ nhiên, khi sức mạnh của chúng gia tăng, một số phân loài Ma Cà Rồng bắt đầu vượt ra ngoài mọi nỗ lực phân loại. Các phân loại kể trên hoàn toàn chưa phải là tất cả—chẳng hạn như những Ma Cà Rồng sống qua quãng thời gian dài đặc biệt được gọi là Ma Cà Rồng Cổ Đại, và chúng ta còn có những nàng Công Chúa Ma Cà Rồng kinh điển thường xuất hiện trong truyện cổ dân gian và những câu chuyện tương tự. Như anh thấy đấy, anh sẽ không thể áp dụng các phân loại bên trên cho hai ví dụ vừa rồi được đâu."
 
 "Tôi chưa từng nghe nói có ai từng chạm trán một trong hai loại Ma Cà Rồng đó cả. Vậy nên có lẽ chúng chẳng qua chỉ là truyện cổ dân gian mà thôi. Ngay cả khi chúng ta xét đến năng lực của một Đại Ma Cà Rồng, thì đám quyến thuộc và các thành viên trong huyết tộc của nó khá lắm thì cũng chỉ tạo thành quy mô một ngôi làng là cùng. Dĩ nhiên, sẽ nảy sinh vấn đề nếu bằng cách nào đó chúng trà trộn vào một thị trấn và thiết lập nên một xã hội Ma Cà Rồng của riêng mình bên trong đó. Mặt khác, đây cũng chỉ là lời đồn mà tôi từng nghe thôi, nhưng... truyền thuyết ở một đất nước xa xôi nọ có kể về một Ma Cà Rồng Hoàng Hôn, kẻ bằng cách nào đó đã soán đoạt toàn bộ vương quốc về tay mình. Thứ đó, theo tôi thấy, đích thị là một truyền thuyết, và không gì hơn."
 
@@ -124,6 +124,6 @@ Tôi chẳng còn lựa chọn nào khác ngoài việc gật đầu đồng tì
 
 "Là...?"
 
-À... Để chúc mừng tôi vì lần Tiến Hóa Bản Thể này, tôi đoán thế.
+À... Là lời chúc mừng tôi vì lần Tiến Hóa Bản Thể này đây mà.
 
 Một nụ cười mờ nhạt đọng lại trên môi cô khi cô thốt ra những lời đó.

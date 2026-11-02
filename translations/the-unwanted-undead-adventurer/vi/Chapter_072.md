@@ -140,7 +140,7 @@ Học được những câu chú đang nói tới hoàn toàn chẳng dễ dàng
 
 Nhưng Lorraine, mặt khác... Cô dường như chẳng gặp mấy trở ngại. Dù một ngày nào đó cô có thôi làm học giả, chắc chắn cô vẫn có thể dễ dàng kiếm sống trong nhiều lĩnh vực khác nhau và đa dạng hơn.
 
-Tương lai của tôi, nếu so sánh, lại có phần ảm đạm hơn. Tôi sẽ làm gì nếu một ngày nào đó giã từ nghiệp mạo hiểm giả? Trở thành nhân viên của Hội mạo hiểm giả chăng? Nếu trí nhớ không nhầm thì Sheila từng nói điều gì đó tương tự. Nhưng dĩ nhiên là tôi chẳng hề có ý định quay trở lại.
+Tương lai của tôi, nếu so sánh, lại có phần ảm đạm hơn. Tôi sẽ làm gì nếu một ngày nào đó giã từ nghiệp mạo hiểm giả? Trở thành nhân viên của Hội mạo hiểm giả chăng? Nếu trí nhớ không nhầm thì Sheila từng nói điều gì đó tương tự. Nhưng dĩ nhiên là tôi chẳng hề có ý định giải nghệ rồi.
 
 "Thế là xong phần bức tường nhé. Giờ thì, nếu tôi đoán không lầm... lúc nãy là anh đã rót Khí Lực vào đôi cánh của mình, đúng chứ?"
 
@@ -180,7 +180,7 @@ Có vẻ như rất khó để tiến hành thêm bất kỳ cuộc thử nghi�
 
 Vận dụng cả hai nguồn lực lượng sẽ có phần khó khăn xét từ góc độ kỹ thuật, nhưng tôi có thể làm được điều tương tự nhờ Ma Khí Dung Hợp Thuật của mình. Dĩ nhiên, một người được rèn luyện kỹ năng theo cách bài bản chính thống hơn có lẽ sẽ xem phương pháp của tôi là kỳ quặc. Tuy nhiên về mặt cá nhân, tôi đã quen với những ứng dụng chắp vá tùy tiện của mình, nên việc rót cả Khí Lực lẫn Ma Lực vào cánh cùng một lúc là hoàn toàn khả thi đối với tôi.
 
-Tôi cũng có những mối lo ngại, chẳng hạn như lại bất ngờ lao vút đi theo hướng ngẫu nhiên nào đó. Tác động của Ma Khí Dung Hợp Thuật xét một cách nhẹ nhàng nhất cũng rất đáng lo ngại, đặc biệt là khi một đòn tấn công bằng kiếm kiểu đó khiến nội tạng của mục tiêu phát nổ dữ dội vào bên trong... Theo lẽ đó, tôi rất mong đôi cánh của mình không làm điều tương tự.
+Tôi cũng có những mối lo ngại, chẳng hạn như lại bất ngờ lao vút đi theo hướng ngẫu nhiên nào đó. Tác động của Ma Khí Dung Hợp Thuật nói giảm nói tránh thì cũng rất đáng lo ngại, đặc biệt là khi một đòn tấn công bằng kiếm kiểu đó khiến nội tạng của mục tiêu phát nổ dữ dội vào bên trong... Theo lẽ đó, tôi rất mong đôi cánh của mình không làm điều tương tự.
 
 Mình phải hết sức cẩn thận mới được...
 
@@ -190,7 +190,7 @@ Không, quá tuyệt luôn ấy chứ! Mình đang bay rồi!
 
 Ít nhất thì tôi cảm thấy như mình đang bay. Trên thực tế, tôi vẫn chỉ đang lơ lửng cách mặt đất một đoạn ngắn. Dẫu vậy, sự phấn khích tôi cảm nhận được là hoàn toàn chân thực.
 
-Với một luồng Khí Lực bộc phát mạnh mẽ, tôi có thể bay lên những độ cao đáng kể, rồi từ từ lượn xuống từ những độ cao đó. Nói một cách nghiêm ngặt thì tôi đang lượn nhiều hơn là đang bay. Thế rồi, một sự thấu hiểu đột ngột ùa đến trong tâm trí tôi.
+Với một luồng Khí Lực bộc phát mạnh mẽ, tôi có thể bay lên những độ cao đáng kể, rồi từ từ lượn xuống từ những độ cao đó. Nói đúng ra thì tôi đang lượn nhiều hơn là đang bay. Thế rồi, một sự thấu hiểu đột ngột ùa đến trong tâm trí tôi.
 
 Mình tiến hóa rồi! Tiến Hóa Bản Thể đã khiến mình tiến hóa thành một con sóc bay!!!
 

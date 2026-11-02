@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 70: Uống cạn bình máu Ma Cà Rồng, thành công vượt qua cơn đau đớn dữ dội của quá trình Tiến Hóa Bản Thể mà không bị mất lý trí; tỉnh lại trên giường với các cơ quan nội tạng, da thịt và mí mắt đã được tái tạo, nghe Lorraine giảng giải về các chủng loại Ma Cà Rồng và chờ đón đánh giá về hình thái mới của mình.
+- Trạng thái tính đến chương 72: Da thịt và nội tạng tái sinh hoàn chỉnh không còn lỗ thủng hay sẹo cũ thời còn sống; mọc ra đôi cánh màng nhỏ sau lưng (tựa cánh dơi) có thể co rút ẩn vào trong thân thể theo ý muốn, khi rót Ma Lực thì lơ lửng, rót Khí Lực thì tạo lực đẩy lướt đi như sóc bay, và phát sáng khi dẫn truyền Thần Lực.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
