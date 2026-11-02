@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T18:29:46Z",
+  "generatedAt": "2026-11-02T01:42:23Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -1588,7 +1588,7 @@
           "number": 264,
           "title": "Chương 264: Dù Tôi Đi Đâu – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_264.md",
-          "sha": "a9f9c35fd394abd855903c2192778f9428b5323d"
+          "sha": "fb2f14b875587d8e75820ccd779211c10dd12c4e"
         },
         {
           "number": 265,
@@ -1612,13 +1612,13 @@
           "number": 268,
           "title": "Chương 268: Nếu Muốn Theo Tôi – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_268.md",
-          "sha": "0aff1ea64dc84738cb4e7817b8e84fdf74bbc421"
+          "sha": "8e09fa334474c284264bab493031af719f94ef4b"
         },
         {
           "number": 269,
           "title": "Chương 269: Nếu Muốn Theo Tôi – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_269.md",
-          "sha": "7797c8444a1956a590898cf788d710a448613e54"
+          "sha": "40a7ae427a2e95df24fcb276cc84c93d34d7f983"
         },
         {
           "number": 270,
@@ -1690,7 +1690,7 @@
           "number": 281,
           "title": "Chương 281: Tại Sao Chỉ Có Mình Tôi? – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_281.md",
-          "sha": "4582533480182e3730ab27582fd7468c31e82573"
+          "sha": "9462b6ab131180270bc1b54b1067125f65c6174a"
         },
         {
           "number": 282,
@@ -1702,43 +1702,43 @@
           "number": 283,
           "title": "Chương 283: Tôi Sẽ Chuẩn Bị – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_283.md",
-          "sha": "431618af3d05188560dc0339250bc084a354bd7c"
+          "sha": "c05f5d7e4398018a7752f2e47cec86b20a79ff09"
         },
         {
           "number": 284,
           "title": "Chương 284: Tôi Sẽ Chuẩn Bị – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_284.md",
-          "sha": "a978507b609a04149b792d3ed95e759f9a2a4615"
+          "sha": "104e817d89a5a7ccf6497d0f1ce695a6c6c7e351"
         },
         {
           "number": 285,
           "title": "Chương 285: Tôi Sẽ Chuẩn Bị – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_285.md",
-          "sha": "b421ebe611e905c1846ab8aeaa739f95392b6d04"
+          "sha": "28480a08cb8491258b35d83dc220ef29cdaf9732"
         },
         {
           "number": 286,
           "title": "Chương 286: Tôi Sẽ Chuẩn Bị – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_286.md",
-          "sha": "8da0dcca0fb3aa8ecdcba7821de9be4491b80a6f"
+          "sha": "c387ba35ba16a110dbecf8ed317531a13cc79156"
         },
         {
           "number": 287,
           "title": "Chương 287: Tôi Sẽ Chuẩn Bị – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_287.md",
-          "sha": "bfefd4b85fc80e3ea432f71f88309af8ef35a477"
+          "sha": "11faff980e82686372cd5351f3691468ce75ef38"
         },
         {
           "number": 288,
           "title": "Chương 288: Tôi Sẽ Chuẩn Bị – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_288.md",
-          "sha": "0fb6f8e655f3a44fdf0dc6abc61716715f9de44e"
+          "sha": "d8e6eded0ec6dc1cec81630d1c20caff3f68882a"
         },
         {
           "number": 289,
           "title": "Chương 289: Tôi Sẽ Chuẩn Bị – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_289.md",
-          "sha": "025d6185cb990ccd63458c135d3c603872c50219"
+          "sha": "b5685aaf1a3b30a4897cfe5e775a859eaed81440"
         },
         {
           "number": 293,
@@ -1750,109 +1750,109 @@
           "number": 294,
           "title": "Chương 294: Tôi Sẽ Đạt Được – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_294.md",
-          "sha": "f78c30c4e29cfc1487e97fd0fdbd9a906c9dfce8"
+          "sha": "477bc183497e90b8e0ce9db1c6bd0a1eba5bf57b"
         },
         {
           "number": 295,
           "title": "Chương 295: Tôi Sẽ Đạt Được – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_295.md",
-          "sha": "1063a0957fcb6e063162a9dfc88da29c724c8e5f"
+          "sha": "6dfe3aea4fddc843aad13fb67cf238c1b53a1bac"
         },
         {
           "number": 296,
           "title": "Chương 296: Tôi Sẽ Đạt Được – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_296.md",
-          "sha": "99a99e2a7df97ada8393012c131ac199405e2b94"
+          "sha": "7e96712ed59157ad752bf3ee67c2dad55749f8a1"
         },
         {
           "number": 297,
           "title": "Chương 297: Tôi Sẽ Đạt Được – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_297.md",
-          "sha": "048af57ad4b3cf7c44bc6335843eac24cfe96949"
+          "sha": "49b92bfe223659e17d5f65a42741b791186ae9c6"
         },
         {
           "number": 298,
           "title": "Chương 298: Tôi Sẽ Đạt Được – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_298.md",
-          "sha": "7d697e6359eaa1fbe801c45469258326f419b06c"
+          "sha": "cf886d4068bb8785d6f8d487a7a45930a6d05770"
         },
         {
           "number": 299,
           "title": "Chương 299: Tôi Sẽ Đạt Được – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_299.md",
-          "sha": "1feb39881ea05ae03c1feb378935bc51f5b6dfce"
+          "sha": "f2249923a8bc71683a2513109f457b1e4fd844e1"
         },
         {
           "number": 300,
           "title": "Chương 300: Tôi Sẽ Đạt Được – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_300.md",
-          "sha": "0131f5642278425b21714f033e2aa46df5e8cfe3"
+          "sha": "4975d8e7ff00c392d7ca15ccbf174d869fd69bbc"
         },
         {
           "number": 301,
           "title": "Chương 301: Tôi Sẽ Đạt Được – 9",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_301.md",
-          "sha": "c1f9089a514dadcd60c1f7bff9b5cd9e80b2fada"
+          "sha": "6e52eb3fe23c3858c977423bec544dfcd0db0cd7"
         },
         {
           "number": 302,
           "title": "Chương 302: Ta Là Cha Ngươi – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_302.md",
-          "sha": "0efcdf1ab940920582ed3eaf0c3f362d028fe864"
+          "sha": "8d84eb338658f6034026767bd4d49b6e07d724ec"
         },
         {
           "number": 303,
           "title": "Chương 303: Ta Là Cha Ngươi – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_303.md",
-          "sha": "d656c0501da2a3ee6f98b6308c9922d92252c089"
+          "sha": "08a17c3e164c294369b42b40944be0b4ed9acd61"
         },
         {
           "number": 304,
           "title": "Chương 304: Ta Là Cha Ngươi – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_304.md",
-          "sha": "4e279b445d2535c59e681a7231916e173b4c66a0"
+          "sha": "d036678f6eab6d0e2ccdc92a921f810bc3f6a1a1"
         },
         {
           "number": 305,
           "title": "Chương 305: Ta Là Cha Ngươi – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_305.md",
-          "sha": "4a7d08d8502c369ee7bc12ceea89842876951eff"
+          "sha": "d86840c4094ed22aaaa1bb99b93eafd18f8e3a63"
         },
         {
           "number": 306,
           "title": "Chương 306: Ta Là Cha Ngươi – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_306.md",
-          "sha": "757f8ab88d367816515fae943dd533e375835441"
+          "sha": "a9f11640c54f593c0c8a49b756bbbc24cff830e0"
         },
         {
           "number": 307,
           "title": "Chương 307: Ta Là Cha Ngươi – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_307.md",
-          "sha": "021f66b037c89fe24b0370d58636ebf33fdb1528"
+          "sha": "f22985734d1af64bbd61be9e159365dcfb7a5543"
         },
         {
           "number": 308,
           "title": "Chương 308: Ta Là Cha Ngươi – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_308.md",
-          "sha": "38377fa31bb009f937606ee9b49fbca2d4177a9e"
+          "sha": "9cc415b38c9af87b98d05d8a2e9c6ee2bfffc481"
         },
         {
           "number": 309,
           "title": "Chương 309: Ta Là Cha Ngươi – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_309.md",
-          "sha": "26fb6c50a64f2d10e4242e23ab17881bb0c62808"
+          "sha": "fe1590b6eca95eb4d374e9dc598eb2ac012c6dbc"
         },
         {
           "number": 310,
           "title": "Chương 310: Ta Là Cha Ngươi – 9",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_310.md",
-          "sha": "e33a98d7f44ac5fd7d46602dbf29f88180277b63"
+          "sha": "b972d2c9af71f6ca638130886713f429cb03ec17"
         },
         {
           "number": 311,
           "title": "Chương 311: Ngươi Cũng Giống Như Ta – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_311.md",
-          "sha": "740ae99ffdfc1bb3f6f45c2d70f107d6a0e72347"
+          "sha": "93b6bd1a5c2c2817655c59774afbc117fc775bc0"
         },
         {
           "number": 312,
@@ -1864,43 +1864,43 @@
           "number": 313,
           "title": "Chương 313: Ngươi Cũng Giống Như Ta – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_313.md",
-          "sha": "a84819b2efdd8bb63a977931c973b6d7f61066d6"
+          "sha": "8f82bbc12d5bebc0c56db615ef1b36012b77d16b"
         },
         {
           "number": 314,
           "title": "Chương 314: Ngươi Cũng Giống Như Ta – 4",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_314.md",
-          "sha": "91438da0b1cbafd41e7cb481d3f4a7c944654eb8"
+          "sha": "636b645db4e581c1baa92817ae76e1a78ea3cd51"
         },
         {
           "number": 315,
           "title": "Chương 315: Ngươi Cũng Giống Như Ta – 5",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_315.md",
-          "sha": "2d325b943eacc2802a9ef50349d0eda157600fac"
+          "sha": "a8c32afb3cde1e34d4cebfd03cb3e53ad5655ead"
         },
         {
           "number": 316,
           "title": "Chương 316: Ngươi Cũng Giống Như Ta – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_316.md",
-          "sha": "142a8b0ad3e918e1d81dfe82c8d3fa0add7c9936"
+          "sha": "57f2c1e51feb85c4221785c28b6254f4c9a1b80e"
         },
         {
           "number": 317,
           "title": "Chương 317: Ngươi Cũng Giống Như Ta – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_317.md",
-          "sha": "0f942140ce27e61261c8621998b1b24d16b4acb8"
+          "sha": "7983a8ff2fb0fbe8aa4e9cbdd197f590de8552d2"
         },
         {
           "number": 318,
           "title": "Chương 318: Ngươi Cũng Giống Như Ta – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_318.md",
-          "sha": "ba51c192779ba4689ad128bad04c3095a7de24f9"
+          "sha": "f93846fff77c030dc71c49ab96c3e3b4122160c0"
         },
         {
           "number": 319,
           "title": "Chương 319: Ta Là Kẻ Hạ Màn – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_319.md",
-          "sha": "a6756aa54b95a29ae05ee1cacdf88f3e059e1bcd"
+          "sha": "14184a1ba5ec8c39966f0a0127fc339dce9167b3"
         },
         {
           "number": 320,
@@ -1930,37 +1930,37 @@
           "number": 324,
           "title": "Chương 324: Ta Là Kẻ Hạ Màn – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_324.md",
-          "sha": "07b11bde5ef56e70c83dd048ba4508b63890104a"
+          "sha": "0d40296415352531485fbebff2f770331340aacf"
         },
         {
           "number": 325,
           "title": "Chương 325: Ta Là Kẻ Hạ Màn – 7",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_325.md",
-          "sha": "a99aa7af5bf3653de5fde691697a196a78ab8ce4"
+          "sha": "52ad68b2c4df5549ef3350e41ec99fa4bf9110e1"
         },
         {
           "number": 326,
           "title": "Chương 326: Ta Là Kẻ Hạ Màn – 8",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_326.md",
-          "sha": "9286f4ee6fccce8a839e351374592c7bdb34f73d"
+          "sha": "07ccf0d050353865a597c8c9c03c22be99df82bf"
         },
         {
           "number": 327,
           "title": "Chương 327: Harmageddon – 1",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_327.md",
-          "sha": "b7d70bd2de7ef59a856de3107bea60b0bc63b395"
+          "sha": "489a44f5fc71e9acdfb5cc455854f3f3ba8c3957"
         },
         {
           "number": 328,
           "title": "Chương 328: Harmageddon – 2",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_328.md",
-          "sha": "b6dc2508a462bc7a7124a387378c2a7d036b2ca0"
+          "sha": "be3c977163156992dabbc827fee1f75c6fc1e0cc"
         },
         {
           "number": 329,
           "title": "Chương 329: Harmageddon – 3",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_329.md",
-          "sha": "cb02ce9a87ea90585ff40ee3d7eb3786fa8d5a0d"
+          "sha": "986973b8ab91a7f9974791f819d03f7b85b4513c"
         },
         {
           "number": 330,
@@ -1978,7 +1978,7 @@
           "number": 332,
           "title": "Chương 332: Harmageddon – 6",
           "path": "translations/everyone-else-is-a-returnee/vi/Chapter_332.md",
-          "sha": "3c8d13459ad40ad17ae96da21abef02df872e7e6"
+          "sha": "6e46de17a47f62f672f52f9e79e3b321654b2007"
         },
         {
           "number": 333,
