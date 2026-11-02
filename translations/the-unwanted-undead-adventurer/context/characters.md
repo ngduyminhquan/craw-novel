@@ -49,6 +49,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Aaruz | Sir Aaruz | Aaruz | Tư tế xuất chúng của Giáo Hội Lobelia | #112 |
 | Millia | Lady Millia | Millia | Thánh Nữ xuất chúng của Giáo Hội Lobelia | #112 |
 | Adone | Adone the Courtesan | Adone | Kỹ nữ trong lịch sử sở hữu Mị Nhãn mê hoặc quốc vương khiến vương quốc sụp đổ | #113 |
+| Conra |  | Conra | Pháp sư thời xưa không có năng khiếu vẽ vời, triệu hồi nhầm rồng lửa trong một nghi lễ | #121 |
 
 ## Chi tiết
 
@@ -366,3 +367,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, thân phận: Nữ, kỹ nữ nổi danh trong lịch sử.
 - Đặc điểm: Sinh ra đã bẩm sinh sở hữu Mị Nhãn, dùng ánh mắt quyến rũ mê hoặc một vị quốc vương khiến cả vương quốc rơi vào cảnh lầm than, chiến loạn và cuối cùng đi đến diệt vong.
 - Xuất hiện từ: #113 (được nhắc tên).
+
+### Conra
+- Giới tính, thân phận: Nam, pháp sư thời xưa trong giai thoại được giới ma pháp sư lưu truyền.
+- Đặc điểm: Rất có tài hùng biện thuyết phục nên được phong làm Pháp Sư Cung Đình, nhưng hoàn toàn mù tịt về hội họa; trong một nghi lễ quốc gia, do vẽ sai ma pháp trận bắn pháo hoa mà lại sở hữu Ma Lực quá mức kinh người, ông đã triệu hồi nhầm một con rồng lửa thiêu rụi cả một vùng đất.
+- Xuất hiện từ: #121 (được Lorraine nhắc tên).

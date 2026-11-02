@@ -114,7 +114,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Laura Latuule | Isaac Hart | tôi | anh / Isaac | 66 | Nữ chủ nhân gia tộc Latuule giao tiếp với quản gia |
 | Isaac Hart | Laura Latuule | tôi | tiểu thư | 66 | Quản gia giao tiếp cung kính với nữ chủ nhân |
 | Lorraine Vivie | Alize | tôi | em / Alize | 74 | Học giả kiêm sư phụ ma thuật nhận đệ tử |
-| Alize | Lorraine Vivie | em | cô Lorraine / cô | 74 | Đệ tử mồ côi nói chuyện với sư phụ ma thuật / học giả danh tiếng |
+| Alize | Lorraine Vivie | em | cô Lorraine / cô / Học Sĩ Lorraine | 74 | Đệ tử mồ côi nói chuyện với sư phụ ma thuật / học giả danh tiếng |
 | Lorraine Vivie | Lillian | tôi | Sơ Lillian | 74 | Học giả trao đổi lịch sự với nữ tu phụ trách cô nhi viện |
 | Lillian | Lorraine Vivie | tôi | cô / cô Lorraine | 74 | Nữ tu lớn tuổi tiếp chuyện học giả danh tiếng |
 | Rentt Faina | Unbert Abeiyu | tôi | anh / các anh | 59 | Mạo hiểm giả nói chuyện với thầy trị liệu |

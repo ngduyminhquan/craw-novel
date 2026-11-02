@@ -125,7 +125,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 118 |  | Chapter_118 - Vol 5 Chapter 1 - Off to Adventure (4).txt | Vol 5 Chapter 1 - Off to Adventure (4) | reviewed |  |
 | 119 |  | Chapter_119 - Vol 5 Chapter 1 - Off to Adventure (5).txt | Vol 5 Chapter 1 - Off to Adventure (5) | reviewed |  |
 | 120 |  | Chapter_120 - Vol 5 Chapter 2 - Making a Catalyst (1).txt | Vol 5 Chapter 2 - Making a Catalyst (1) | reviewed |  |
-| 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | todo |  |
+| 121 |  | Chapter_121 - Vol 5 Chapter 2 - Making a Catalyst (2).txt | Vol 5 Chapter 2 - Making a Catalyst (2) | done |  |
 | 122 |  | Chapter_122 - Vol 5 Chapter 2 - Making a Catalyst (3).txt | Vol 5 Chapter 2 - Making a Catalyst (3) | todo |  |
 | 123 |  | Chapter_123 - Vol 5 Chapter 2 - Making a Catalyst (4).txt | Vol 5 Chapter 2 - Making a Catalyst (4) | todo |  |
 | 124 |  | Chapter_124 - Vol 5 Chapter 2 - Making a Catalyst (5).txt | Vol 5 Chapter 2 - Making a Catalyst (5) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -625,3 +624,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#120] Tiêu đề chương 'Making a Catalyst (1)' — tạm dịch 'Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)' (rút gọn từ 'vật dẫn ma pháp' theo glossary; phương án khác: 'Chế Tạo Vật Dẫn Ma Pháp (1)'). → Dùng 'Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)' cho tiêu đề arc này (orchestrator)
 - [#118] Chuẩn hóa thuật ngữ 'sacred trees' ở đoạn 20 → Dịch là 'thánh thụ' và thêm 'sacred tree; sacred trees' vào Alias của 'Holy Tree' trong glossary.md (orchestrator)
 - [#120] Xưng hô khi Lorraine nói với Alize về Rentt (đoạn 45) → Sửa 'anh ta' thành 'anh ấy' theo đúng quy tắc #77 trong rules.md (orchestrator)
+- [#121] Đồng nhất 'mine goblin' với 'Mina Goblin' (#96) — tạm chọn 'Goblin Mỏ Quặng' và thêm vào Alias của 'Mina Goblin' trong glossary.md (phương án khác: tách dòng riêng 'Goblin Hầm Mỏ'). Tạm dùng trong bản dịch: 'Goblin Mỏ Quặng'. → Chốt dùng 'Goblin Mỏ Quặng' (thêm alias 'mine goblin; Mine Goblin' vào mục 'Mina Goblin' trong glossary.md). (orchestrator)
+- [#121] Cách Alize gọi Lorraine khi thốt lên 'Professor Lorraine!' lúc làm thành công ma pháp trận (đoạn 52) — tạm chọn 'thưa Học Sĩ Lorraine!' theo bối cảnh giờ học và tương đồng chương 77 (phương án khác: 'cô Lorraine!'). Tạm dùng trong bản dịch: 'thưa Học Sĩ Lorraine!'. → Chốt Alize gọi 'thưa Học Sĩ Lorraine!' khi thưa gửi trong giờ học (đồng nhất với chương 77). (orchestrator)
+- [#121] Dịch quái vật 'fire dragon' trong giai thoại của Conra (đoạn 41) — tạm chọn 'rồng lửa' phù hợp lời kể chuyện (phương án khác: 'Hỏa Long'). Tạm dùng trong bản dịch: 'rồng lửa'. → Chốt dịch thường là 'rồng lửa' vì chỉ là từ miêu tả chung trong giai thoại, không viết hoa trong raw. (orchestrator)

@@ -707,6 +707,13 @@ Lorraine thị phạm quy trình chế tạo đũa phép cơ bản: vẽ ma phá
 Alize choáng ngợp trước cây đũa phép cao cấp chứa ma pháp trận xếp tầng ba chiều của Lorraine; Rentt bộc bạch về sở thích đọc sách mượn từ Lorraine và nền tảng học vấn thời thơ ấu tại quê nhà Hathara.
 Lorraine trấn an và khích lệ Alize về tính căn bản của thuật giả kim, sau đó yêu cầu Alize và Rentt tự chọn nguyên liệu từ đống chiến lợi phẩm để bắt đầu tự tay thực hành.
 
+## 121
+Alize chọn gỗ Ent Bụi Cây bạch dương cùng Ma Tinh của Goblin Mỏ Quặng, còn Rentt chọn Ma Tinh của Terra Drake và gỗ mun để chuẩn bị chế tạo đũa phép.
+Lorraine hướng dẫn cách rót Ma Lực vào cọ vẽ mực; Alize lỡ tay làm mực bắn tung tóe nhưng nhanh chóng học được cách kiểm soát Ma Lực sau một giờ, đồng thời Lorraine kể giai thoại về Pháp Sư Cung Đình Conra vẽ sai ma pháp trận triệu hồi nhầm rồng lửa để nhắc nhở cẩn thận.
+Cả hai vẽ xong ma pháp trận lên bảng đồng và đặt Ma Tinh lên để hấp thụ; Alize thành công tạo ra ma pháp trận màu đen hoàn chỉnh và được Lorraine khen ngợi.
+Ma Tinh của Rentt lại biến đổi ma pháp trận thành màu vàng loang lổ xanh lục do ảnh hưởng từ Thần Lực và bản chất Undead; dù thoáng chạnh lòng vì sự khác thường của mình, Rentt nhanh chóng lấy lại tinh thần nhờ lời khen ngây thơ của Alize trước khi tiếp tục công đoạn hoàn thiện đũa phép.
+
+
 
 
 
