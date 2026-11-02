@@ -54,7 +54,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | reviewed |  |
 | 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | reviewed |  |
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | done |  |
-| 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | todo |  |
+| 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | done |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | todo |  |
 | 52 |  | Chapter_052 - Vol 2 Chapter 4 - Dragon Blood Blossom (5).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (5) | todo |  |
 | 53 |  | Chapter_053 - Vol 2 Chapter 4 - Dragon Blood Blossom (6).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (6) | todo |  |
@@ -348,7 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -463,3 +462,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#49] Tiền tố / chức xưng 'Sister' của Lillian Jeunne — tạm chọn 'Sơ Lillian' (phương án khác: 'Nữ tu Lillian', 'Tu nữ Lillian'). Tạm dùng trong bản dịch: 'Sơ Lillian'. → Giữ 'Sơ Lillian' (tự nhiên cho danh xưng Sister tại cô nhi viện) (orchestrator)
 - [#49] Dịch địa danh 'First Orphanage of Maalt' — tạm chọn 'Cô Nhi Viện Thứ Nhất Maalt' (nhất quán với 'Second Orphanage of Maalt'; phương án khác: 'Viện Mồ Côi Thứ Nhất Maalt'). Tạm dùng trong bản dịch: 'Cô Nhi Viện Thứ Nhất Maalt'. → Giữ 'Cô Nhi Viện Thứ Nhất Maalt' (nhất quán với 'Cô Nhi Viện Thứ Hai Maalt') (orchestrator)
 - [#49] Xưng hô giữa Alize và Sơ Lillian — tạm chọn Alize xưng 'con', gọi 'Sơ Lillian' (hoặc 'người' khi nhắc tới), Sơ Lillian xưng 'tôi / ta', gọi Alize là 'con' (phù hợp quan hệ nữ tu cưu mang trẻ mồ côi; phương án khác: Alize xưng 'em' / 'cháu'). Tạm dùng trong bản dịch: 'con - Sơ Lillian / sơ'. → Giữ Alize xưng 'con' gọi 'Sơ Lillian / sơ', Sơ Lillian xưng 'ta / tôi' gọi 'Alize / con' (orchestrator)
+- [#50] Dịch tên căn bệnh 'Accumulative Miasma Disease' (và 'Accumulated Miasma') — tạm chọn 'Bệnh Tích Tụ Chướng Khí' (phương án khác: 'Chứng Bệnh Tích Tụ Chướng Khí', 'Bệnh Chướng Khí Tích Tụ'). Tạm dùng trong bản dịch: 'Bệnh Tích Tụ Chướng Khí'. Đề xuất: chốt 'Bệnh Tích Tụ Chướng Khí' vào glossary.md. → Giữ 'Bệnh Tích Tụ Chướng Khí' (orchestrator)
+- [#50] Dịch tên quái vật 'Tarasque' và địa danh 'Swamp of Tarasque' — tạm chọn giữ nguyên 'Tarasque' và dịch 'Đầm Lầy Tarasque' theo quy tắc chủng tộc/địa danh trong rules.md (phương án khác: 'quái vật Tarasque', 'Đầm Lầy Quái Tarasque'). Tạm dùng trong bản dịch: 'Tarasque' và 'Đầm Lầy Tarasque'. Đề xuất: chốt 'Tarasque' và 'Đầm Lầy Tarasque' vào glossary.md. → Giữ 'Tarasque' và 'Đầm Lầy Tarasque' theo quy tắc chủng tộc và địa danh trong rules.md (orchestrator)
+- [#50] Dịch thuật ngữ ma cà rồng 'familiar' — tạm chọn 'quyến thuộc' (chuẩn Hán Việt fantasy cho thuộc hạ tạo ra từ máu Vampire; phương án khác: 'thuộc hạ', 'linh thú quyến thuộc'). Tạm dùng trong bản dịch: 'quyến thuộc'. Đề xuất: chốt 'quyến thuộc' vào glossary.md. → Giữ 'quyến thuộc' (chuẩn Hán Việt fantasy cho 眷属) (orchestrator)
+- [#50] Dịch thuật ngữ 'Pass' trong kỹ thuật thuần hóa quái vật (đoạn 100) — tạm chọn 'truyền sang' (mô tả khoảnh khắc ý chí/ma pháp chi phối tâm trí quái vật; phương án khác: 'tương thông', 'truyền dẫn'). Tạm dùng trong bản dịch: 'truyền sang'. Đề xuất: giữ 'truyền sang' theo ngữ cảnh. → Giữ 'truyền sang' theo ngữ cảnh (orchestrator)

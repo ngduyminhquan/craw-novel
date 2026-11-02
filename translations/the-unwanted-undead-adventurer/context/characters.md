@@ -32,7 +32,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu đức hy sinh và lòng trắc ẩn. Không oán trời trách đất, rất chăm chỉ luyện tập suốt 10 năm dù tài năng có hạn. Luôn nhiệt tình chỉ bảo tân binh mạo hiểm giả, được toàn bộ thị trấn Maalt kính nể vì đạo đức và kinh nghiệm dày dạn.
 - Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Sau khi biến thành Ghoul, giọng nói ban đầu bị khàn đặc ngọng nghịu ("V... Ves... Rentt..."), dần dần phục hồi nhờ khổ luyện phát âm.
 - Quan hệ với nhân vật khác: Bạn thân và đối tác nghiên cứu với Lorraine; ân nhân cứu mạng và tiền bối của Rina; được nhân viên hội Sheila hết lòng tôn trọng và chăm lo; khách quen của vợ chồng tiệm rèn Clope - Luka.
-- Trạng thái tính đến chương 48: Giải quyết xong vụ việc ở Làng Todds, giải cứu an toàn Amiris và các thiếu nữ bị bắt cóc; trở về Maalt và nhận ủy thác thiện nguyện 1 đồng đồng thu thập Hoa Long Huyết từ Cô Nhi Viện Thứ Hai Maalt do Giáo Hội Đông Thiên điều hành; đích thân tới cô nhi viện khảo sát và được một cô bé tóc ngắn tiếp đón.
+- Trạng thái tính đến chương 50: Nhận lời đi tìm Hoa Long Huyết tại Đầm Lầy Tarasque cho Cô Nhi Viện Thứ Hai Maalt; hứa sẽ hướng dẫn Alize trở thành mạo hiểm giả trong tương lai; phát hiện máu Thi Quỷ của mình có khả năng biến quái vật (Puchi Suri) thành quyến thuộc phục tùng mệnh lệnh.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -148,11 +148,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Nhân hậu, yêu thương con trẻ, hết lòng chăm lo cho các trẻ mồ côi bất chấp cô nhi viện khó khăn về kinh phí; có tinh thần trách nhiệm cao.
 - Năng lực: Từng có khả năng chiến đấu và sử dụng Thần Lực để thanh tẩy quái vật trong không gian hẹp. Hiện đang suy yếu vì bệnh tật, không thể tự mình dọn dẹp hầm chứa đồ có quái vật.
 - Quan hệ: Người chăm sóc và được các em nhỏ ở cô nhi viện hết mực kính trọng, yêu quý; thân thiện và biết ơn mạo hiểm giả nhận ủy thác thiện nguyện.
-- Trạng thái tính đến chương 49: Đang nằm bệt trên giường bệnh do kiệt sức/đau ốm; ngỡ rằng ủy thác đăng lên Hội là nhờ dọn dẹp hầm chứa đồ của cô nhi viện và giao phó cho Alize hỗ trợ Rentt.
+- Trạng thái tính đến chương 50: Mắc Bệnh Tích Tụ Chướng Khí do sử dụng Thần Lực lâu năm, tính tình thanh bần kiên quyết không chịu bỏ tiền chữa trị; đang được Alize lén tìm cách chữa trị bằng Hoa Long Huyết.
 
 ### Alize
 - Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12 tuổi, tóc ngắn cắt tỉa gọn gàng, phong thái tao nhã dù sống trong cảnh nghèo khó tại cô nhi viện. Không có họ.
 - Tính cách: Thông minh, sắc sảo, chững chạc trước tuổi, ý thức sâu sắc về sự an toàn của những đứa trẻ khác trong viện trước người lạ và mạo hiểm giả; hết lòng vì cô nhi viện và lo lắng cho bệnh tình của Sơ Lillian.
 - Cách nói chuyện: Cố gắng nói năng trang trọng, lịch sự như người lớn khi đại diện cô nhi viện tiếp khách; khi được Rentt cho phép thì nói chuyện tự nhiên, hồn nhiên đúng lứa tuổi, xưng "em", gọi "anh Rentt" / "anh"; kính trọng gọi "Sơ Lillian" (Lady Lillian).
 - Quan hệ: Đứa trẻ lớn đảm nhận vai trò trợ tá ("cánh tay phải") của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; người bí mật đổi nội dung ủy thác thành tìm Hoa Long Huyết nhằm chữa bệnh cho Sơ Lillian.
-- Trạng thái tính đến chương 49: Đón Rentt vào cô nhi viện, xua đám trẻ hiếu kỳ ra ngoài vì sợ nguy hiểm; giới thiệu tên với Rentt và dẫn anh vào phòng gặp Sơ Lillian đang ốm; sau đó chuẩn bị giải thích lý do thực sự đằng sau yêu cầu tìm kiếm Hoa Long Huyết.
+- Trạng thái tính đến chương 50: Giải thích ngọn ngành bệnh tình của Sơ Lillian cho Rentt và nhờ anh tìm Hoa Long Huyết tại Đầm Lầy Tarasque; bộc lộ ước mơ làm mạo hiểm giả và sở hữu chút Ma Lực; dẫn Rentt xuống hầm diệt Puchi Suri và chứng kiến anh thu phục nó làm lính gác hầm.

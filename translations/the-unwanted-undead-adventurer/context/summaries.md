@@ -290,6 +290,13 @@ Rentt khen ngợi sự cảnh giác của cô bé và cả hai giới thiệu t�
 Alize dẫn Rentt vào phòng gặp người phụ trách là Sơ Lillian Jeunne đang nằm bệnh; Sơ Lillian ngỡ Rentt đến nhận ủy thác dọn kho dưới hầm có quái vật và nhờ Alize hỗ trợ anh.
 Nhận ra sự sai lệch giữa hai ủy thác và thấy Sơ Lillian đang lâm bệnh nặng không thể vận dụng Thần Lực chiến đấu, Rentt tạm giữ im lặng; anh cùng Alize quay lại phòng tiếp khách để nghe em giải thích rõ sự tình.
 
+## 50
+Alize giải thích Sơ Lillian mắc Bệnh Tích Tụ Chướng Khí do dùng Thần Lực lâu năm và cần Hoa Long Huyết để bào chế thuốc giải; vì sơ thanh bần sợ tốn kém nên em phải lén đăng ủy thác.
+Rentt nhận lời tìm hoa tại Đầm Lầy Tarasque đầy nguy hiểm vào ngày mai; nghe Alize tâm sự ước mơ làm mạo hiểm giả nhờ sở hữu chút Ma Lực, Rentt hứa sẽ chỉ dẫn em trong tương lai.
+Xuống căn hầm chứa đồ để xử lý quái vật giúp viện, Rentt dùng dao giải phẫu chém gục một con Puchi Suri ngoại cỡ nhưng bị nó bật dậy cắn trúng tay đấm chặn của anh.
+Máu Thi Quỷ của Rentt ngấm vào khiến con Puchi Suri biến đổi thành quyến thuộc lông đen phục tùng mệnh lệnh; anh lấp liếm với Alize là dùng thuật thuần hóa quái vật và để nó lại làm lính gác hầm.
+
+
 
 
 
