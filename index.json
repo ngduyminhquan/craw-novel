@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T04:57:37Z",
+  "generatedAt": "2026-11-02T05:02:38Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2321,6 +2321,12 @@
           "title": "Chương 28: Ngoại truyện Tập 1 - Ngày Rentt Nổi Giận ~Năm Thứ Sáu Làm Mạo Hiểm Giả của Lorraine~ (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_028.md",
           "sha": "5df70ad84c36480d16a51f12d3f4cd0f1bb89d1e"
+        },
+        {
+          "number": 29,
+          "title": "Chương 29: Ngoại truyện Tập 1 - Ngày Rentt Nổi Giận ~Năm Thứ Sáu Làm Mạo Hiểm Giả của Lorraine~ (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_029.md",
+          "sha": "754e5d823fe3ca80e4d641ce6dcf9ca9cb357f11"
         }
       ]
     },

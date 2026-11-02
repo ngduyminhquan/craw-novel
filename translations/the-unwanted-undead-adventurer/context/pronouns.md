@@ -49,3 +49,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Idoles Rogue | Rentt Faina | tôi | ngài | 24 | Lịch thiệp, chuẩn mực quý tộc khi hỏi thăm mạo hiểm giả |
 | Lorraine Vivie | Zarid | tôi | ông / Zarid | 28 | Bạn bè đồng nghiệp lâu năm |
 | Zarid | Lorraine Vivie | tôi | cô / Lorraine | 28 | Tiền bối lớn tuổi nói chuyện thoải mái với hậu bối |
+| Rentt Faina | Zarid | tôi | anh / Zarid | 29 | Đồng nghiệp mạo hiểm giả lâu năm (Rentt 25 tuổi, Zarid 40-50 tuổi) |
+| Zarid | Rentt Faina | tôi | cậu / Rentt | 29 | Tiền bối lớn tuổi nói chuyện thân thiện với hậu bối |

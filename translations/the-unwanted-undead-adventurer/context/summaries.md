@@ -166,5 +166,11 @@ Hai người vừa uống rượu vừa trò chuyện về cuộc sống mạo h
 Cuộc trò chuyện bị gián đoạn khi một nhóm ba mạo hiểm giả trẻ tuổi xông vào quán phô trương thanh thế; nghe thấy lời mỉa mai của Lorraine và Zarid, tên cầm đầu tiến đến gạ gẫm thô thiển.
 Bị Lorraine lạnh lùng từ chối, tên côn đồ đập bàn quát tháo đòi cô phải hầu hạ bọn chúng, trong khi Lorraine bình thản nắm chắc phương sách đối phó mà không hề sợ hãi.
 
+## 29
+Khi Lorraine chuẩn bị niệm ma pháp trừng trị ba tên côn đồ thì Rentt bất ngờ xuất hiện ở cửa quán rượu với luồng sát khí ngùn ngụt khiến đám côn đồ khiếp sợ co giò bỏ chạy; Zarid nhận định Rentt đã thực sự nổi giận.
+Rentt bước vào bàn giải thích rằng bộ ba đó đã năm lần cố tình dụ cả tá Goblin về phía các tân binh (nhóm của Yuris) trong Mê Cung Tân Nguyệt; anh từ chối đề xuất dùng bạo lực của Zarid mà quyết định tự mình giải quyết theo cách riêng không đổ máu.
+Vài ngày sau, Lorraine và Zarid bắt gặp cả ba tên côn đồ đang quỳ gối tạ lỗi mọi mạo hiểm giả trước lối vào Mê Cung Tân Nguyệt; Zarid kể lại rằng Rentt đã dùng mạng lưới quan hệ sâu rộng khiến cả thị trấn Maalt đồng loạt tẩy chay, từ chối phòng trọ, không bán thức ăn và ép bọn chúng phải suy sụp rồi đến xin lỗi Rentt trong êm đẹp.
+Chứng kiến sức ảnh hưởng và cách trừng phạt không đổ máu nhưng đầy uy lực của bạn mình, Lorraine thầm công nhận Rentt thực sự là một người đàn ông đáng sợ.
+
 
 

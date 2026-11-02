@@ -16,6 +16,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Rina Rogue |  | Rina Rogue | Tên thật của Rina Rupaage, tiểu thư gia tộc hiệp sĩ Rogue | #24 |
 | Rentt Vivie |  | Rentt Vivie | Danh tính mạo hiểm giả mới của Rentt Faina, mượn họ của Lorraine | #25 |
 | Zarid |  | Zarid | Kiếm sĩ kỳ cựu của Hội Mạo Hiểm Giả, mạo hiểm giả Thượng Đồng Cấp | #28 |
+| Yuris |  | Yuris | Tân binh mạo hiểm giả từng tham gia lớp hướng dẫn của Rentt ở Hội | #29 |
 
 ## Chi tiết
 
@@ -94,3 +95,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Dân dã, bộc trực, thoải mái như bạn bè lâu năm.
 - Quan hệ: Tiền bối kiêm đồng nghiệp của Lorraine và Rentt, thỉnh thoảng lập tổ đội cùng Lorraine; hay cùng bạn bè cá cược xem Lorraine có cưới Rentt hay không.
 - Trạng thái tính đến chương 28: Ngồi uống rượu cùng Lorraine tại quán rượu ở Maalt; trò chuyện về chuyện hôn nhân của mạo hiểm giả và cùng cô chế giễu nhóm ba mạo hiểm giả côn đồ vừa xông vào quán.
+
+### Yuris
+- Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả tân binh.
+- Tính cách: Cẩn trọng, biết trước biết sau, tôn trọng và tin tưởng tiền bối Rentt.
+- Quan hệ: Từng tham gia lớp hướng dẫn mạo hiểm giả tân binh của Rentt ở Hội mạo hiểm giả; có một tổ đội riêng.
+- Trạng thái tính đến chương 29: Phát hiện nhóm ba kẻ côn đồ có ý đồ dụ quái sang nhóm mình nên báo trước cho Rentt; được Rentt đi cùng bảo vệ an toàn khi bị lùa cả đàn Goblin.

@@ -33,7 +33,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 26 |  | Chapter_026 - Vol 1 Chapter 5 - Proof of Inhumanity (6).txt | Vol 1 Chapter 5 - Proof of Inhumanity (6) | reviewed |  |
 | 27 |  | Chapter_027 - Vol 1 Chapter 5 - Proof of Inhumanity (7).txt | Vol 1 Chapter 5 - Proof of Inhumanity (7) | reviewed |  |
 | 28 |  | Chapter_028 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (1) | done |  |
-| 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | todo |  |
+| 29 |  | Chapter_029 - Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2).txt | Vol 1 Side Story - The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~ (2) | done |  |
 | 30 |  | Chapter_030 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (1) | todo |  |
 | 31 |  | Chapter_031 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (2) | todo |  |
 | 32 |  | Chapter_032 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (3) | todo |  |
@@ -348,6 +348,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -414,3 +415,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#27] Dịch cấp bậc 'lower Silver-class' — tạm chọn 'Hạ Ngân Cấp' (nhất quán với Hạ Đồng Cấp; phương án khác: 'Ngân Cấp sơ kỳ', 'Ngân Cấp bậc thấp'). → Chốt 'Hạ Ngân Cấp' (nhất quán với Hạ Đồng Cấp). (orchestrator) (orchestrator)
 - [#28] Dịch tiêu đề arc 'The Day When Rentt Snapped ~Adventurer Lorraine’s Sixth Year~' — tạm chọn 'Ngày Rentt Nổi Giận ~Năm Thứ Sáu Làm Mạo Hiểm Giả của Lorraine~' (phương án khác: 'Ngày Rentt Nổi Đóa', 'Ngày Rentt Mất Bình Tĩnh'). → Chốt 'Ngày Rentt Nổi Giận ~Năm Thứ Sáu Làm Mạo Hiểm Giả của Lorraine~'. (orchestrator) (orchestrator)
 - [#28] Xưng hô giữa Lorraine Vivie và Zarid — tạm chọn Lorraine xưng 'tôi' gọi 'ông / Zarid', Zarid xưng 'tôi' gọi 'cô / Lorraine' (Zarid hơn Lorraine vài chục tuổi, là bạn nhậu và đồng nghiệp mạo hiểm giả lâu năm; phương án khác: Lorraine gọi Zarid là 'anh'). → Chốt Lorraine xưng 'tôi' gọi 'ông / Zarid', Zarid xưng 'tôi' gọi 'cô / Lorraine'. (orchestrator) (orchestrator)
+- [#29] Xưng hô giữa Rentt và Zarid: tạm chọn Zarid gọi Rentt là 'cậu / Rentt' xưng 'tôi', Rentt gọi Zarid là 'anh / Zarid' xưng 'tôi' (Zarid hơn Rentt nhiều tuổi, là tiền bối kỳ cựu Thượng Đồng Cấp nhưng nói chuyện suồng sã, thân thiết; phương án khác: Rentt gọi Zarid là 'ông'). → Chốt Zarid xưng 'tôi' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'anh / Zarid'. (orchestrator) (orchestrator)

@@ -73,3 +73,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | First Knightly Order | First Knights; the First Knightly Order | Đệ Nhất Kỵ Sĩ Đoàn | tổ chức | 24 | Kỵ sĩ đoàn tinh nhuệ bậc nhất của Vương Quốc Yaaran (第一騎士団) |
 | Orc | Orcs | Orc | quái vật | 25 | Quái vật dạng lợn/người to lớn hung dữ |
 | Map of Akasha |  | Bản Đồ Akasha | vật phẩm | 26 | Ma cụ tự động vẽ bản đồ mê cung người sở hữu từng đặt chân tới (アカシャの地図) |
+| Pulling | pulling | dụ quái | khác | 29 | Tiếng lóng mạo hiểm giả chỉ hành động dẫn quái vật về phía người khác rồi bỏ chạy |
