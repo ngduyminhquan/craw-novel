@@ -18,7 +18,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Zarid |  | Zarid | Kiếm sĩ kỳ cựu của Hội Mạo Hiểm Giả, mạo hiểm giả Thượng Đồng Cấp | #28 |
 | Yuris |  | Yuris | Tân binh mạo hiểm giả từng tham gia lớp hướng dẫn của Rentt ở Hội | #29 |
 | Raiz Dunner | Raiz | Raiz Dunner | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp tóc đỏ, đồng đội thi thực hành thăng hạng của Rentt | #33 |
-| Laura Satii | Laura | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
+| Laura Satii |  | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
 | Augurey |  | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt | #42 |
 | Ryuntus |  | Ryuntus | Thanh niên Làng Todds, anh trai Amiris, lặn lội lên Maalt tìm mạo hiểm giả cứu em gái | #45 |
 | Amiris |  | Amiris | Thiếu nữ Làng Todds, em gái Ryuntus, người bị chọn làm tế vật cho Chúa Tể Hồ | #46 |
@@ -30,6 +30,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Unbert Abeiyu | Unbert | Unbert Abeiyu | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt | #59 |
 | Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
 | Viscount Lottnel | Lottnel | Tử tước Lottnel | Quý tộc cai quản thị trấn Maalt và các vùng phụ cận | #61 |
+| Laura Latuule |  | Laura Latuule | Đương chủ gia tộc Latuule, cô bé quý tộc sở hữu bộ sưu tập ma cụ đồ sộ | #62 |
 
 ## Chi tiết
 
@@ -200,3 +201,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nam, quý tộc cai quản Maalt và các vùng phụ cận.
 - Quan hệ: Người thống trị Maalt, có tin đồn là có mối quan hệ sâu sắc với gia tộc Latuule.
 - Xuất hiện từ: #61 (được nhắc tên).
+
+### Laura Latuule
+- Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12–13 tuổi, làn da trắng muốt, mái tóc màu vàng nhạt (hoặc sáng màu), đôi mắt xanh biếc; thường mặc váy ren đen trang nhã đắt tiền.
+- Tính cách: Thông minh, tinh quái, thích trêu chọc người khác nhưng không có ác ý; hào phóng, lịch thiệp và chững chạc vượt xa lứa tuổi trong vai trò gia chủ.
+- Cách nói chuyện: Lễ độ, tao nhã chuẩn mực quý tộc, xưng "tôi", gọi Rentt là "ngài" (xem Rentt như khách quý và đối tác làm việc).
+- Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; người đưa ra ủy thác hái Hoa Long Huyết định kỳ cho Rentt.
+- Xuất hiện từ: #62 (chính thức xưng tên ở #64).

@@ -29,6 +29,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dario Costa | Dario / người đàn ông / chú / chú ấy | 58 | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt |
 | Unbert Abeiyu | Unbert / người đàn ông | 59 | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt |
 | Norman Hanel | Norman / bác sĩ Norman / anh / người đàn ông | 59 | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt |
+| Laura Latuule | Laura / cô bé / thiếu nữ | 62 | Đương chủ gia tộc Latuule |
 
 ## Giữa các nhân vật
 
@@ -98,3 +99,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dario Costa | Rentt Faina | tôi | cậu | 58 | Chuyên gia mổ xẻ nói chuyện bộc trực với mạo hiểm giả mang chiến lợi phẩm tới |
 | Rentt Faina | Norman Hanel | tôi | anh / các anh | 59 | Mạo hiểm giả nói chuyện với dược sư tốt bụng |
 | Norman Hanel | Rentt Faina | tôi | anh / anh Rentt | 59 | Dược sư trò chuyện và biết ơn mạo hiểm giả tặng hoa |
+| Rentt Faina | Laura Latuule | tôi | cô bé / Laura | 62 | Mạo hiểm giả nói chuyện với đương chủ quý tộc nhỏ tuổi |
+| Laura Latuule | Rentt Faina | tôi | ngài | 62 | Đương chủ quý tộc nói chuyện lịch thiệp với mạo hiểm giả |

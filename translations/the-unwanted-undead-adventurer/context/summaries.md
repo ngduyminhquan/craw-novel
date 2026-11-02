@@ -374,3 +374,8 @@ Cô bé tiết lộ chiếc ấm ma cụ tối thượng có khả năng tái hi
 Trước khi Rentt rời đi, cô bé tặng anh lời khuyên không nên nhìn vào mặt trời; sau khi dứt bước, bức tường cây lập tức mọc lên che kín bàn trà khiến anh lại tiếp tục lạc lối.
 Nhận thấy vị trí mặt trời đột ngột nhảy vọt và con đường bị bẻ cong, Rentt thử ném đá và phát hiện mê cung được kết nối bởi các vùng không gian vặn xoắn dùng ma pháp Dịch Chuyển Tức Thời; dù Bản Đồ Akasha bị vô hiệu hóa, anh quyết tâm vẽ lại lộ trình trong tâm trí để vượt qua trò đùa tinh quái của cô bé.
 
+## 64
+Rentt vượt qua mê cung hoa hồng lúc hoàng hôn và gặp lại cô bé quý tộc cùng Isaac bên đài phun nước; cô bé bất ngờ tự giới thiệu mình là Laura Latuule – đương chủ hiện tại của gia tộc Latuule.
+Nghe Rentt giới thiệu là mạo hiểm giả Đồng Cấp nhận hái Hoa Long Huyết chỉ với thù lao tượng trưng một đồng xu đồng cho cô nhi viện, Laura xúc động trước tấm lòng nhân hậu của mạo hiểm giả.
+Theo thỏa thuận thưởng cho người vượt mê cung, Laura và Isaac dẫn Rentt xuống tầng hầm bảo quản ma cụ tối tân của dinh thự; sau khi Laura dùng cơ chế vô hình mở cánh cửa khóa ma pháp, cả hai cùng bước vào bóng tối vô định phía sau cánh cửa.
+
