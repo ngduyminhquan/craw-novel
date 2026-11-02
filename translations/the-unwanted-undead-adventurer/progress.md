@@ -50,9 +50,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 43 |  | Chapter_043 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (1) | reviewed |  |
 | 44 |  | Chapter_044 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (2) | reviewed |  |
 | 45 |  | Chapter_045 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (3) | reviewed |  |
-| 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | done |  |
-| 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | done |  |
-| 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | done |  |
+| 46 |  | Chapter_046 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (4) | reviewed |  |
+| 47 |  | Chapter_047 - Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5).txt | Vol 2 Chapter 3 - A New Weapon And Newfound Strength (5) | reviewed |  |
+| 48 |  | Chapter_048 - Vol 2 Chapter 4 - Dragon Blood Blossom (1).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (1) | reviewed |  |
 | 49 |  | Chapter_049 - Vol 2 Chapter 4 - Dragon Blood Blossom (2).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (2) | todo |  |
 | 50 |  | Chapter_050 - Vol 2 Chapter 4 - Dragon Blood Blossom (3).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (3) | todo |  |
 | 51 |  | Chapter_051 - Vol 2 Chapter 4 - Dragon Blood Blossom (4).txt | Vol 2 Chapter 4 - Dragon Blood Blossom (4) | todo |  |
@@ -456,3 +456,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#48] Dịch 'Dragon Blood Blossom' — tạm chọn 'Hoa Long Huyết' (phương án khác: 'Long Huyết Hoa'). → Giữ 'Hoa Long Huyết' (tự nhiên, phân biệt rõ với dịch tiết 'Long Hoa Huyết') (orchestrator)
 - [#48] Dịch 'Church of the Eastern Sky' — tạm chọn 'Giáo Hội Đông Thiên' (phương án khác: 'Giáo Hội Bầu Trời Phía Đông'). → Giữ 'Giáo Hội Đông Thiên' (chuẩn Hán Việt tôn giáo trang trọng) (orchestrator)
 - [#48] Dịch 'Second Orphanage of Maalt' — tạm chọn 'Cô Nhi Viện Thứ Hai Maalt' (phương án khác: 'Viện Mồ Côi Thứ Hai Maalt', 'Cô Nhi Viện Số 2 Maalt'). → Giữ 'Cô Nhi Viện Thứ Hai Maalt' (theo quy tắc địa danh và tổ chức trong rules.md) (orchestrator)
+- [#46-47] Cách gọi anh trai của Amiris — đổi toàn bộ từ 'Anh hai' sang 'Anh trai' (tránh phương ngữ Nam Bộ) (orchestrator)
+- [#46-47] Thuật ngữ 'traveling merchant' — chuẩn hóa thành 'thương nhân lữ hành' cho cả chương 46, 47 và thêm vào glossary.md (orchestrator)
+- [#48] Dịch thành ngữ 'negligible at best' (đoạn 26) — sửa từ 'nói giảm nói tránh' thành 'nói thẳng ra cũng chẳng đáng là bao' (orchestrator)

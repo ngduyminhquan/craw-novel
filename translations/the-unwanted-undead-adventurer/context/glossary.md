@@ -95,9 +95,10 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | priestess-saint | priestess-saints; Priestess-Saint | nữ tư tế Thánh Giả | chức nghiệp | 43 | Nữ tư tế sở hữu Thần Lực dồi dào được tôn làm Thánh Giả (聖女/聖者) |
 | Kelpie | Kelpies | Kelpie | quái vật | 46 | Quái vật dạng ngựa có vảy sống dưới hồ nước ngọt (ケルピー) |
 | Festival of Offering | sacrificial festival | Lễ Hội Dâng Tế | khác | 46 | Tập tục dâng thiếu nữ cho Chúa Tể Hồ ở Làng Todds (奉納祭) |
+| traveling merchant | traveling merchants | thương nhân lữ hành | chức nghiệp | 46 | Thương nhân buôn bán lưu động qua các làng quê |
 | Kraken | Krakens | Kraken | quái vật | 47 | Quái vật dạng mực/bạch tuộc khổng lồ vốn chỉ sống ở biển sâu |
 | Orb | the Orb | Quả Cầu | vật phẩm | 47 | Khối cầu pha lê phát sáng gia truyền của Làng Todds dùng trong Lễ Hội Dâng Tế |
-| Sacrificial Escort | sacrificial escort; escorts | người áp giải tế vật | khác | 47 | Vai trò áp giải thiếu nữ hiến tế trong Lễ Hội Dâng Tế ở Làng Todds |
+| Sacrificial Escort | sacrificial escort | người áp giải tế vật | khác | 47 | Vai trò áp giải thiếu nữ hiến tế trong Lễ Hội Dâng Tế ở Làng Todds |
 | Dragon Blood Blossom | Dragon Blood Blossoms | Hoa Long Huyết | vật phẩm | 48 | Loài hoa quý hiếm cánh đỏ như máu có công dụng làm cảnh và bào chế thuốc (竜血花) |
 | Dragon-Flower Blood |  | Long Hoa Huyết | vật phẩm | 48 | Chất dịch màu đỏ chiết xuất từ Hoa Long Huyết dùng làm dược liệu (竜花血) |
 | Church of the Eastern Sky | Eastern Sky | Giáo Hội Đông Thiên | tổ chức | 48 | Tổ chức tôn giáo ôn hòa, thanh bần tại Yaaran, tôn thờ thiên sứ giáng trần ở phía đông (東天教会) |

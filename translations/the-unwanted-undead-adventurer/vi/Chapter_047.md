@@ -14,7 +14,7 @@ Cô sẽ lên thuyền cùng những người áp giải của mình, trước k
 
 "Chuyện này xem chừng vẫn hơi mạo hiểm... Liệu chúng ta có bị phát hiện không anh?" Ryuntus, một trong những người áp giải, lên tiếng.
 
-"Chẳng ai dám chắc đâu anh hai... Dù sao thì trong lễ hội người ta cũng chỉ dồn mắt vào trinh nữ hiến tế thôi... Chắc là ổn cả thôi mà," Amiris, nhân vật chính của lễ hiến tế, nói.
+"Chẳng ai dám chắc đâu anh trai... Dù sao thì trong lễ hội người ta cũng chỉ dồn mắt vào trinh nữ hiến tế thôi... Chắc là ổn cả thôi mà," Amiris, nhân vật chính của lễ hiến tế, nói.
 
 "...Hai người... thoải mái hơn. Tôi tưởng... đấy," tôi nói với hai anh em họ.
 
@@ -56,7 +56,7 @@ Ngay khi Ryuntus định trả lời câu hỏi của tôi, mặt hồ phẳng l
 
 "Có thứ gì đó đang tới...!"
 
-Hốt hoảng, Ryuntus ngồi thụp xuống lòng thuyền. "...Khoan đã... Anh... anh đang đùa đấy à...?" cậu thì thào trong hơi thở, trừng mắt nhìn con quái vật sừng sững trước mặt.
+Hốt hoảng, Ryuntus ngồi thụp xuống lòng thuyền. "...Khoan đã... Đùa... đùa nhau đấy à...?" cậu thì thào trong hơi thở, trừng mắt nhìn con quái vật sừng sững trước mặt.
 
 Nhưng tôi hiểu tại sao cậu lại thốt ra lời ấy. Chúa Tể Hồ xuất hiện trước mắt chúng tôi không phải thứ gì khác ngoài một con Kraken—chính là loài Kraken mà trong điều kiện bình thường chỉ có thể sinh sống ở những vùng biển khơi rộng lớn.
 
@@ -84,7 +84,7 @@ Tuy nhiên, tôi chẳng buồn quay đầu lại. Thay vào đó, tôi rút ki�
 
 Người ta có thể thắc mắc tại sao tôi lại đứng được trên mặt nước. Xem nào, tôi từng nhờ Lorraine chế tạo một món ma cụ như vậy trước khi lên đường tới đây. Thế nhưng hóa ra cô ấy vốn đã có sẵn một món đồ phù hợp cho mục đích này từ lâu rồi.
 
-Lorraine, người vốn có hứng thú với lễ hội, từng muốn đi cùng tôi, nhưng cô không thể đi được vì phải tổng hợp một số tài liệu cho khách hàng. Tuy nhiên, khi nghe nói điểm đến lần này của tôi là một vùng hồ nước, Lorraine chỉ đơn thuần đưa món ma cụ tương ứng cho tôi, thế là xong. Quả không hổ danh là Lorraine—có bạn bè là thuật giả kim quả thực vô cùng tuyệt vời.
+Lorraine, người vốn có hứng thú với lễ hội, từng muốn đi cùng tôi, nhưng cô không thể đi được vì phải tổng hợp một số tài liệu cho khách hàng. Tuy nhiên, khi nghe nói điểm đến lần này của tôi là một vùng hồ nước, Lorraine chỉ đơn thuần đưa món ma cụ tương ứng cho tôi, thế là xong. Quả không hổ danh là Lorraine—có bạn bè là nhà giả kim quả thực vô cùng tuyệt vời.
 
 "Anh Rentt! Đừng làm điều gì điên rồ! Nếu... nếu không thể thì em sẽ bỏ cuộc và chấp nhận làm vật hiến tế, nên là...!"
 
@@ -140,7 +140,7 @@ Kỹ năng của chúng còn kém xa lắm. Dễ dàng né tránh những đòn 
 
 "Đây chính là... những kẻ. Đã liên tục... đưa ra những yêu cầu vô lý. Với ngôi làng. Ngoài ra, Amiris... người đàn ông này trông có quen... với cô không?" tôi hỏi, chỉ tay về phía một trong những kẻ vừa bị khuất phục.
 
-Cuối cùng cũng nhận ra, Amiris thảng thốt kêu lên. "G-Gã thương nhân du mục!"
+Cuối cùng cũng nhận ra, Amiris thảng thốt kêu lên. "G-Gã thương nhân lữ hành!"
 
 "Đúng là như vậy."
 
@@ -150,9 +150,9 @@ Ryuntus và Amiris đứng trừng mắt nhìn tôi, không thể tin nổi vào
 
 "Trả lời... cô ấy đi."
 
-Chậm rãi, và có phần miễn cưỡng, gã thương nhân du mục bắt đầu mở miệng khai.
+Chậm rãi, và có phần miễn cưỡng, gã thương nhân lữ hành bắt đầu mở miệng khai.
 
-Theo lời gã, đám thương nhân này đã đánh hơi được tin tức về lễ hội, và chẳng mấy chốc quyết định kiếm chác từ nó. Phương thức của chúng rất đơn giản: chúng sẽ giả dạng làm Chúa Tể Hồ và bắt cóc bất kỳ vật tế nào được dâng lên, trước khi đem bán cô gái làm nô lệ hoặc hàng hóa. Để phục vụ mục đích này, bọn chúng có một ma pháp sư hợp tác cùng, cũng như một thương nhân quen thuộc với các tuyến đường buôn bán nô lệ ngầm. Dù ban đầu bọn họ chỉ là một thương nhân du mục cùng lính hộ tống, nhưng họ đã bị lòng tham làm mờ mắt, và quyết định bóc lột người dân ngôi làng này.
+Theo lời gã, đám thương nhân này đã đánh hơi được tin tức về lễ hội, và chẳng mấy chốc quyết định kiếm chác từ nó. Phương thức của chúng rất đơn giản: chúng sẽ giả dạng làm Chúa Tể Hồ và bắt cóc bất kỳ vật tế nào được dâng lên, trước khi đem bán cô gái làm nô lệ hoặc hàng hóa. Để phục vụ mục đích này, bọn chúng có một ma pháp sư hợp tác cùng, cũng như một thương nhân quen thuộc với các tuyến đường buôn bán nô lệ ngầm. Dù ban đầu bọn họ chỉ là một thương nhân lữ hành cùng lính hộ tống, nhưng họ đã bị lòng tham làm mờ mắt, và quyết định bóc lột người dân ngôi làng này.
 
 Bản thân con thuyền chỉ là một chiếc thuyền đánh cá đơn giản mượn từ một ngôi làng khác bên hồ.
 
@@ -170,7 +170,7 @@ Gã thương nhân thành thật trả lời câu hỏi của Ryuntus: có vẻ 
 
 "Anh Rentt... Anh đã biết chuyện này... ngay từ đầu rồi sao?" Amiris hỏi.
 
-"À thì... Chuyện này đáng ngờ... ở một chừng mực nào đó. Theo kinh nghiệm... của bản thân tôi. Chúa Tể thực sự của một vùng... chẳng bao giờ lại đột nhiên... trở nên ngỗ ngược hay... vô lý như thế cả. Hơn nữa... khi chúng ta đi ngang qua... gã thương nhân du mục này... ở trong làng. Tôi đã ngửi thấy... mùi. Của máu."
+"À thì... Chuyện này đáng ngờ... ở một chừng mực nào đó. Theo kinh nghiệm... của bản thân tôi. Chúa Tể thực sự của một vùng... chẳng bao giờ lại đột nhiên... trở nên ngỗ ngược hay... vô lý như thế cả. Hơn nữa... khi chúng ta đi ngang qua... gã thương nhân lữ hành này... ở trong làng. Tôi đã ngửi thấy... mùi. Của máu."
 
 Điều này hoàn toàn phù hợp với sự thật rằng tôi là một Undead sống dựa vào máu—dù tôi chẳng thể nào giải thích điều đó cho Ryuntus và Amiris nghe được.
 
@@ -184,7 +184,7 @@ Câu trả lời của hai anh em gần như đồng thanh.
 
 ◆◇◆◇◆
 
-Cảm thấy lời giải thích của gã thương nhân đã thỏa đáng, chúng tôi dong buồm trở về Làng Todds, để rồi được chào đón bằng một sự náo động lớn đúng như dự đoán. Amiris, người ngỡ như đã bị đem đi hiến tế, vẫn còn sống sót. Cùng với cô là những thiếu nữ bị bắt cóc, và đám thương nhân du mục bị trói chặt từ đầu đến chân.
+Cảm thấy lời giải thích của gã thương nhân đã thỏa đáng, chúng tôi dong buồm trở về Làng Todds, để rồi được chào đón bằng một sự náo động lớn đúng như dự đoán. Amiris, người ngỡ như đã bị đem đi hiến tế, vẫn còn sống sót. Cùng với cô là những thiếu nữ bị bắt cóc, và đám thương nhân lữ hành bị trói chặt từ đầu đến chân.
 
 Sau khi giải thích rằng chúng tôi đã vạch trần chân tướng đằng sau những vụ việc gần đây, dân làng hết lời cảm ơn tôi, và thậm chí còn đề nghị báo cáo vụ việc lên hội để những nỗ lực của tôi được ghi nhận.
 

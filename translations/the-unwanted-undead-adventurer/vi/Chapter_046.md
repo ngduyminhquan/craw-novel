@@ -18,7 +18,7 @@ Thế thì chuyến đi này của tôi hẳn trông rất kỳ quặc. Cớ sao
 
 "Vâng... Nếu ngài có thể cứu Amiris, em gái tôi... thì tôi sẵn lòng làm bất cứ điều gì. Dù ngài không thể hứa trước điều đó, tôi vẫn vô cùng biết ơn vì ngài đã sẵn lòng thử..."
 
-Đúng như lời cậu ta nói, cậu chỉ muốn cứu em gái mình, chứ không phải muốn tôi làm một anh hùng đi trảm yêu trừ quái.
+Đúng như lời cậu ta nói, cậu chỉ muốn cứu em gái mình, chứ không phải muốn tôi làm người hùng đi săn diệt quái vật.
 
 Phải rồi... Nếu tôi nhớ không lầm thì cậu thanh niên tên là Ryuntus, và như cậu đã nói, em gái cậu tên là Amiris.
 
@@ -48,7 +48,7 @@ Dù không muốn nghi ngờ vị khách hàng tiềm năng của mình, tôi v�
 
 Tôi cũng bước xuống ngay sau đó, đập vào mắt là một khung cảnh nên thơ. Tôi đoán nơi này nằm đâu đó gần Làng Todds.
 
-"Anh hai!"
+"Anh trai!"
 
 Một cô gái trẻ lao thẳng vào vòng tay Ryuntus ngay khi chân cậu vừa chạm đất. Nhìn vẻ ngoài, tôi đoán cô bé còn khá trẻ, chừng mười lăm hay mười sáu tuổi. Nhìn kỹ hơn, cô bé quả là một thiếu nữ rất xinh đẹp, với đôi mắt ánh lên sắc xanh ngọc bích tựa sapphire. Đúng chuẩn một tế vật tiềm năng, nếu những lời Ryuntus nói là đáng tin.
 
@@ -78,15 +78,15 @@ Thế nhưng Amiris dường như chẳng hề bị ấn tượng mảy may. Gi�
 
 Khổ nỗi, những biện pháp phòng bị ấy hoàn toàn vô ích trước thính giác nhạy bén mà tôi có được kể từ khi tiến hóa thành Thi Quỷ. Tôi đứng yên tại chỗ và bình thản lắng nghe.
 
-"Anh hai, anh lại bị người ta lừa nữa rồi đúng không?! Em đã bảo anh bao nhiêu lần rồi là đừng có dính líu đến mấy kẻ trông kỳ dị ở thành phố mà!"
+"Anh trai, anh lại bị người ta lừa nữa rồi đúng không?! Em đã bảo anh bao nhiêu lần rồi là đừng có dính líu đến mấy kẻ trông kỳ dị ở thành phố mà!"
 
 "N-Nhưng... anh Rentt là người tốt lắm! Anh ấy đã giúp anh thoát khỏi một tình huống rắc rối trên thành phố, và anh ấy thậm chí còn đề nghị giúp đỡ giải quyết chuyện đang xảy ra nữa..."
 
-"Toàn là lừa gạt thôi, anh hai... Làm sao anh có đủ tiền thuê một mạo hiểm giả Đồng Cấp cơ chứ? Anh biết nhà mình nghèo thế nào mà! Tại sao một mạo hiểm giả Đồng Cấp lại chịu lặn lội tới tận ngoài này chỉ vì một yêu cầu vu vơ?"
+"Toàn là lừa gạt thôi, anh trai... Làm sao anh có đủ tiền thuê một mạo hiểm giả Đồng Cấp cơ chứ? Anh biết nhà mình nghèo thế nào mà! Tại sao một mạo hiểm giả Đồng Cấp lại chịu lặn lội tới tận ngoài này chỉ vì một yêu cầu vu vơ?"
 
 "Em nghe anh nói đã... Đây không phải là ủy thác do Hội Mạo Hiểm Giả niêm yết lên bảng đâu. Anh đích thân nhờ anh ấy đi cùng anh về đây đấy..."
 
-"Anh lại bị người ta dắt mũi rồi... Haizz. Giờ mà đuổi thẳng thừng thì người ta có thể nổi giận mất... Anh tự rước họa vào thân rồi đấy! Thôi được rồi, để em xử lý việc này cho, anh hai. Anh chỉ việc làm theo lời em thôi. Haizz... Em không tài nào yên tâm nổi về anh! Mai này em không còn nữa thì anh biết phải làm sao đây...?"
+"Anh lại bị người ta dắt mũi rồi... Haizz. Giờ mà đuổi thẳng thừng thì người ta có thể nổi giận mất... Anh tự rước họa vào thân rồi đấy! Thôi được rồi, để em xử lý việc này cho, anh trai. Anh chỉ việc làm theo lời em thôi. Haizz... Em không tài nào yên tâm nổi về anh! Mai này em không còn nữa thì anh biết phải làm sao đây...?"
 
 Thật là một cuộc trò chuyện chẳng mấy dễ chịu gì cho cam. Tôi không có ý định lừa gạt ai, cũng chẳng việc gì phải vơ vét từng đồng tiền cắc của khách hàng, nên xét theo tính cách của Ryuntus thì cũng không khó hiểu tại sao người khác lại đưa ra giả định như vậy. Nhưng dù sao đi nữa, đó vẫn là những lời cáo buộc khá nặng nề.
 
@@ -198,7 +198,7 @@ Quay người lại, đập vào mắt tôi là bóng dáng của Amiris.
 
 "...Tôi thấy cô đã... đổi giọng rồi đấy. Khá nhiều là đằng khác."
 
-Amiris thở dài đáp lại. "Giờ còn vờ vĩnh cũng chẳng để làm gì nữa, đúng không ạ? Sáng nay anh hai vui lắm. Anh đã nói gì đó để động viên anh ấy, phải không? Hệt như những lời anh đã nói với em vậy. Nhà cửa cũng chẳng có dấu vết bị lục lọi... nên em đoán anh không định lừa gạt hay trộm cắp gì của chúng em cả."
+Amiris thở dài đáp lại. "Giờ còn vờ vĩnh cũng chẳng để làm gì nữa, đúng không ạ? Sáng nay anh trai vui lắm. Anh đã nói gì đó để động viên anh ấy, phải không? Hệt như những lời anh đã nói với em vậy. Nhà cửa cũng chẳng có dấu vết bị lục lọi... nên em đoán anh không định lừa gạt hay trộm cắp gì của chúng em cả."
 
 Đúng như dự đoán, nét mặt của Ryuntus quá đỗi dễ đọc. Tôi chẳng hề có ý định lục soát nhà họ để tìm của cải giá trị, nên nghĩ đến việc Amiris từng nghi ngờ tôi đến mức này... Quả thật có chút chạnh lòng. Nhưng ngẫm lại thì mạo hiểm giả vốn thường bị người đời nhìn nhận như vậy.
 
@@ -230,7 +230,7 @@ Một kiểu thương nhân buôn vải, những xấp vải được xếp ngay
 
 "Thế sao...?"
 
-Thỉnh thoảng người ta vẫn nghe kể về những thương nhân tốt bụng như vậy ở các làng quê. Không hẳn các thương nhân đều là những bậc Thánh Giả; đôi khi đó chỉ là mối quan hệ cộng sinh. Để đổi lấy hàng hóa của ông ta, dân làng sẽ bán nông sản thu hoạch được cho thương nhân với mức giá rẻ hơn. Theo nghĩa đó, tôi cho là đôi bên cùng có lợi.
+Thỉnh thoảng người ta vẫn nghe kể về những thương nhân tốt bụng như vậy ở các làng quê. Không hẳn các thương nhân đều là những bậc thánh thiện làm phúc; đôi khi đó chỉ là mối quan hệ cộng sinh. Để đổi lấy hàng hóa của ông ta, dân làng sẽ bán nông sản thu hoạch được cho thương nhân với mức giá rẻ hơn. Theo nghĩa đó, tôi cho là đôi bên cùng có lợi.
 
 Amiris tiếp tục dẫn tôi đi quanh làng. Theo lời cô bé, bầu không khí trong làng trước đây chẳng hề ảm đạm đến mức này. Nơi đây chỉ trở nên như vậy sau khi một người dân bị đem đi dâng tế đã mất mạng trong một buổi lễ vốn dĩ vô hại. Qua những gì được nghe kể, dân làng rất tha thiết muốn chấm dứt hủ tục này, nhưng họ sợ bị lũ Kelpie hay chính bản thân Chúa Tể Hồ trả thù. Những gì họ có thể làm khi ấy chỉ là tiếp tục duy trì cái gọi là truyền thống ấy mà thôi.
 

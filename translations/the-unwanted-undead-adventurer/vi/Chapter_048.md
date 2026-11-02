@@ -10,7 +10,7 @@ Tôi tiếp tục tìm kiếm...
 
 "Có một cái ngay đây..."
 
-Ánh mắt tôi dừng lại ở một ủy thác cụ thể. Nó chẳng có gì đáng chú ý bởi phần thưởng khi hoàn thành ủy thác chỉ vỏn vẹn một đồng đồng. Chẳng trách nó cứ bị bỏ xó trên bảng như vậy; người ta thậm chí còn kiếm được nhiều tiền hơn chỉ nhờ tiêu diệt một con Goblin.
+Ánh mắt tôi dừng lại ở một ủy thác cụ thể. Nó chẳng có gì đáng chú ý bởi phần thưởng khi hoàn thành ủy thác chỉ vỏn vẹn một đồng tiền đồng. Chẳng trách nó cứ bị bỏ xó trên bảng như vậy; người ta thậm chí còn kiếm được nhiều tiền hơn chỉ nhờ tiêu diệt một con Goblin.
 
 Nhưng chính xác thì ủy thác này đòi hỏi điều gì?
 
@@ -24,9 +24,9 @@ Tôi chỉ ghé qua Hội vào những khung giờ vắng vẻ, nên lúc này t
 
 "Lý do tại sao... ủy thác này. Vẫn còn nằm lại ở đây... không phải vì vấn đề... thù lao, đúng không cô Sheila? Mà thiên về... chi tiết của ủy thác hơn."
 
-"Vâng. Thoạt nhìn thì một đồng đồng không nhiều nhặn gì, nhưng nhìn vào người ủy thác thì điều đó hoàn toàn hợp lý. Dù sao đó cũng là truyền thống của Hội."
+"Vâng. Thoạt nhìn thì một đồng tiền đồng không nhiều nhặn gì, nhưng nhìn vào người ủy thác thì điều đó hoàn toàn hợp lý. Dù sao đó cũng là truyền thống của Hội."
 
-Truyền thống này là việc đưa ra một đồng đồng duy nhất làm phần thưởng. Đây là điều thường được thực hiện bởi những cá nhân cần sự giúp đỡ của mạo hiểm giả nhưng không đủ khả năng chi trả một khoản tiền lớn làm thù lao. Tôi cho rằng người ta có thể gọi việc này khá tương đồng với công việc tình nguyện. Những ủy thác như thế này vốn phổ biến kể từ ngày Hội mới thành lập, và các tân binh mạo hiểm giả thường được những tiền bối đi trước truyền đạt lại về truyền thống ấy.
+Truyền thống này là việc đưa ra một đồng tiền đồng duy nhất làm phần thưởng. Đây là điều thường được thực hiện bởi những cá nhân cần sự giúp đỡ của mạo hiểm giả nhưng không đủ khả năng chi trả một khoản tiền lớn làm thù lao. Tôi cho rằng người ta có thể gọi việc này khá tương đồng với công việc tình nguyện. Những ủy thác như thế này vốn phổ biến kể từ ngày Hội mới thành lập, và các tân binh mạo hiểm giả thường được những tiền bối đi trước truyền đạt lại về truyền thống ấy.
 
 Khẽ hắng giọng, Sheila nói tiếp.
 
@@ -50,7 +50,7 @@ Dẫu vậy, Sheila có nhắc đến việc đã có không ít mạo hiểm gi
 
 "NGƯỜI ỦY THÁC: CÁC TRẺ MỒ CÔI THUỘC CÔ NHI VIỆN THỨ HAI MAALT"
 
-Bất chấp bản chất của nó, tờ giấy không hề được viết ra để khơi gợi lòng thương hại theo bất kỳ cách nào. Chi tiết ủy thác được trình bày nắn nót, rõ ràng và trang trọng. Và dù phần thưởng cho công việc này nói giảm nói tránh cũng chỉ là con số không đáng kể, thì việc ủy thác có xứng đáng với thời gian bỏ ra hay không hoàn toàn tùy thuộc vào quyết định của người mạo hiểm giả.
+Bất chấp bản chất của nó, tờ giấy không hề được viết ra để khơi gợi lòng thương hại theo bất kỳ cách nào. Chi tiết ủy thác được trình bày nắn nót, rõ ràng và trang trọng. Và dù phần thưởng cho công việc này nói thẳng ra cũng chẳng đáng là bao, thì việc ủy thác có xứng đáng với thời gian bỏ ra hay không hoàn toàn tùy thuộc vào quyết định của người mạo hiểm giả.
 
 "Anh sẽ làm gì đây...?" Sheila mỉm cười nhẹ hỏi. Với tính cách của Sheila, hẳn cô đã sớm đoán được câu trả lời của tôi.
 
@@ -62,7 +62,7 @@ Cô Nhi Viện Thứ Hai Maalt—
 
 Dù Maalt về cơ bản là một thị trấn biên ải, nơi đây lại được ưu ái nhờ sự hiện diện của hai mê cung ở vùng lân cận, và kết quả là thị trấn sở hữu một lượng dân số khá đông đúc. Nhìn chung, Maalt là một thị trấn tương đối phát triển. Nơi đây có khá nhiều công trình công cộng—ít nhất là tương xứng với quy mô dân số của Maalt. Cô nhi viện mà tôi đang hướng tới chính là một trong những công trình như thế.
 
-Tùy theo từng khu vực và vương quốc, các cô nhi viện được vận hành bởi nhiều tổ chức khác nhau. Cơ sở cụ thể này ở Maalt do một nhóm tu sĩ và nữ tu thuộc Giáo Hội Đông Thiên quản lý. Giáo hội này tin rằng một thiên sứ từng từ bầu trời hạ phàm xuống phần lãnh thổ phía đông của Yaaran, và vị thiên sứ ấy được cho là đã tạo ra nhiều phép màu nhân ái. Đổi lại, Giáo Hội xem thiên sứ như sự giáng thế của Thần linh, từ đó trở thành đối tượng tôn thờ của họ. Đúng như những hoạt động thực tế thể hiện, họ là một tổ chức tương đối hòa bình, không tiến hành truyền đạo một cách hung hăng, cũng chẳng đòi hỏi các khoản quyên góp từ đại chúng.
+Tùy theo từng khu vực và vương quốc, các cô nhi viện được vận hành bởi nhiều tổ chức khác nhau. Cơ sở cụ thể này ở Maalt do một nhóm tu sĩ và nữ tu thuộc Giáo Hội Đông Thiên quản lý. Giáo hội này tin rằng một thiên sứ từng từ trên trời giáng trần xuống phần lãnh thổ phía đông của Yaaran, và vị thiên sứ ấy được cho là đã tạo ra nhiều phép màu nhân ái. Đổi lại, Giáo Hội xem thiên sứ như sự giáng thế của Thần linh, từ đó trở thành đối tượng tôn thờ của họ. Đúng như những hoạt động thực tế thể hiện, họ là một tổ chức tương đối hòa bình, không tiến hành truyền đạo một cách hung hăng, cũng chẳng đòi hỏi các khoản quyên góp từ đại chúng.
 
 Tuy vậy, họ lại nghèo khó hơn nhiều so với các tổ chức cùng tính chất. Các tín đồ của Đông Thiên nổi tiếng bởi lối sống thanh đạm và thiện chí cao quý, đồng thời được kính trọng trên khắp Vương Quốc Yaaran. Dù thế, hiện tượng này cũng chỉ giới hạn trong phạm vi Yaaran. Do tổ chức chưa từng mở rộng quy mô ra bên ngoài, tên tuổi của họ dường như hiếm khi được nhắc tới bên ngoài lãnh thổ này.
 

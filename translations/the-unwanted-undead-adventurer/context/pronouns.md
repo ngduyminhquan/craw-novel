@@ -72,7 +72,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Ryuntus | tôi | cậu | 45 | Nhận ủy thác và trao đổi với người thuê |
 | Ryuntus | Rentt Faina | tôi | anh Rentt / ngài | 45 | Người thuê tôn trọng và nhờ cậy mạo hiểm giả |
 | Rentt Faina | Amiris | tôi | cô / cô bé | 46 | Mạo hiểm giả nói chuyện với thiếu nữ được bảo vệ |
-| Amiris | Rentt Faina | tôi | anh Rentt | 46 | Thiếu nữ được Rentt động viên và bảo vệ |
-| Amiris | Rentt Faina | em | anh Rentt / anh | 47 | Trở nên thân thiết, biết ơn sau khi được Rentt động viên và cứu mạng |
+| Amiris | Rentt Faina | tôi / em | anh Rentt / anh | 46 | Ban đầu xưng tôi khi mới gặp, từ đêm trước lễ hội và sau khi được cứu chuyển sang xưng em gọi anh Rentt / anh |
 | Ryuntus | Amiris | anh | em / Amiris | 46 | Hai anh em ruột |
-| Amiris | Ryuntus | em | anh | 46 | Hai anh em ruột |
+| Amiris | Ryuntus | em | anh trai / anh | 46 | Hai anh em ruột |

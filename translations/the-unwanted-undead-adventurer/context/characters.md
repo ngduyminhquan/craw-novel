@@ -133,14 +133,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Chân thành, yêu thương em gái sâu sắc, có phần cả tin, chất phác nhưng không kém phần quyết tâm khi dám lặn lội lên Maalt tìm người cứu em.
 - Cách nói chuyện: Lễ phép, thành khẩn, gọi "anh Rentt" (hoặc "ngài").
 - Quan hệ: Anh trai của Amiris; người thuê Rentt bảo vệ em gái khỏi hủ tục dâng tế của Làng Todds.
-- Trạng thái tính đến chương 47: Cùng Rentt và Amiris lên thuyền ra giữa hồ, chứng kiến Rentt chém tan quái vật ảo ảnh và khống chế băng nhóm bắt cóc cứu sống em gái cùng các thiếu nữ trong làng; tiễn Rentt lên xe ngựa về Maalt và hứa sẽ lên thăm anh.
+- Trạng thái tính đến chương 47: Cùng Rentt và Amiris lên thuyền ra giữa hồ, chứng kiến Rentt chém tan quái vật ảo ảnh và khống chế băng nhóm thương nhân lữ hành bắt cóc tống tiền/bán nô lệ, cứu sống em gái cùng các thiếu nữ trong làng; tiễn Rentt lên xe ngựa về Maalt và hứa sẽ lên thăm anh.
 
 ### Amiris
 - Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 15–16 tuổi, xinh đẹp nổi bật với đôi mắt xanh ngọc bích (sapphire) long lanh.
 - Tính cách: Sắc sảo, thực tế, hiểu chuyện, bên ngoài tỏ ra bướng bỉnh và chấp nhận số phận nhưng sâu thẳm rất sợ hãi cái chết; hết mực lo lắng cho người anh trai cả tin; giàu lòng biết ơn và tình cảm.
 - Cách nói chuyện: Ban đầu khách sáo, sắc lạnh đề phòng; sau khi được Rentt thấu hiểu, động viên và cứu sống thì trở nên chân thành, bộc trực, xưng "em" với anh trai và Rentt, gọi "anh Rentt".
 - Quan hệ: Em gái của Ryuntus; người được chọn làm vật hiến tế tiếp theo cho Chúa Tể Hồ; được Rentt đồng ý bảo vệ và cứu sống.
-- Trạng thái tính đến chương 47: Được Rentt cứu thoát khỏi nghi thức hiến tế giả mạo, vạch trần âm mưu của gã thương nhân buôn vải; hôn lên mặt nạ của Rentt để cảm ơn trước khi anh lên xe ngựa về Maalt.
+- Trạng thái tính đến chương 47: Được Rentt cứu thoát khỏi nghi thức hiến tế giả mạo, vạch trần âm mưu bắt cóc tống tiền/bán nô lệ của nhóm thương nhân lữ hành; hôn lên mặt nạ của Rentt để cảm ơn trước khi anh lên xe ngựa về Maalt.
 
 ### Lillian
 - Vẻ ngoài, vai trò: Người chăm sóc/phụ trách tại Cô Nhi Viện Thứ Hai Maalt. Được cô bé ở cô nhi viện nhắc đến ở #48, thường ngày chăm lo chu đáo cho các trẻ mồ côi.
