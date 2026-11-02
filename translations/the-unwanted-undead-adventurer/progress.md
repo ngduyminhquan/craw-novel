@@ -66,7 +66,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 59 |  | Chapter_059 - Vol 3 Chapter 1 - A Peculiar Man (4).txt | Vol 3 Chapter 1 - A Peculiar Man (4) | reviewed |  |
 | 60 |  | Chapter_060 - Vol 3 Chapter 1 - A Peculiar Man (5).txt | Vol 3 Chapter 1 - A Peculiar Man (5) | reviewed |  |
 | 61 |  | Chapter_061 - Vol 3 Chapter 2 - And an Equally Peculiar Request (1).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (1) | done |  |
-| 62 |  | Chapter_062 - Vol 3 Chapter 2 - And an Equally Peculiar Request (2).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (2) | todo |  |
+| 62 |  | Chapter_062 - Vol 3 Chapter 2 - And an Equally Peculiar Request (2).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (2) | done |  |
 | 63 |  | Chapter_063 - Vol 3 Chapter 2 - And an Equally Peculiar Request (3).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (3) | todo |  |
 | 64 |  | Chapter_064 - Vol 3 Chapter 2 - And an Equally Peculiar Request (4).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (4) | todo |  |
 | 65 |  | Chapter_065 - Vol 3 Chapter 2 - And an Equally Peculiar Request (5).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (5) | todo |  |
@@ -348,12 +348,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
-
-
-
-
-
-
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -497,3 +491,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#61] Dịch tiêu đề arc 'And an Equally Peculiar Request' — tạm chọn 'Và Một Ủy Thác Kỳ Lạ Không Kém' (nhất quán với arc trước 'A Peculiar Man' → 'Người Đàn Ông Kỳ Lạ', và phù hợp bối cảnh nhận ủy thác tại Hội; phương án khác: 'Và Một Yêu Cầu Kỳ Lạ Không Kém'). Tạm dùng trong bản dịch: 'Và Một Ủy Thác Kỳ Lạ Không Kém'. → Chốt 'Và Một Ủy Thác Kỳ Lạ Không Kém' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 3 Chương 2 (orchestrator)
 - [#61] Dịch tên gia tộc 'Latuule Family' / 'the Latuules' — tạm chọn 'Gia tộc Latuule' (giữ nguyên tên riêng Latuule theo rules.md; phương án khác: 'Nhà Latuule'). Tạm dùng trong bản dịch: 'Gia tộc Latuule'. → Giữ 'Gia tộc Latuule' (orchestrator)
 - [#61] Dịch tên nhân vật/tước hiệu 'Viscount Lottnel' — tạm chọn 'Tử tước Lottnel' (giữ nguyên tên riêng Lottnel theo rules.md, tước hiệu Viscount dịch thành Tử tước; phương án khác: giữ nguyên 'Viscount Lottnel'). Tạm dùng trong bản dịch: 'Tử tước Lottnel'. → Giữ 'Tử tước Lottnel' (orchestrator)
+- [#62] Dịch 3 phân loại ma cụ 'Divine Tools', 'Curiosities', 'Cursed Artifacts' — tạm chọn 'Thần Cụ', 'Kỳ Cụ', 'Nguyền Cụ' (phương án khác: 'Thần Cụ', 'Kỳ Vật', 'Nguyền Cụ' hoặc 'Ma Cụ Bị Nguyền'). → Giữ 'Thần Cụ', 'Kỳ Cụ', 'Nguyền Cụ' (chuẩn Hán Việt ngắn gọn, đồng bộ hậu tố 'Cụ' với 'ma cụ') (orchestrator)

@@ -122,3 +122,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | herbalist | herbalists | dược sư | chức nghiệp | 41 | Người tinh thông cây thuốc, thu hái và bào chế thảo dược |
 | Magecraft |  | ma thuật | kỹ năng | 60 | Nghệ thuật sử dụng Ma Lực thi triển các phép thuật huyền bí (魔術) |
 | Latuule Family | the Latuule Family; the Latuules; Latuules; Latuule | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
+| Divine Tools | Divine Tool | Thần Cụ | vật phẩm | 62 | Phân loại ma cụ mang sức mạnh thần thánh hoặc tạo tác của thần linh (神具) |
+| Curiosities |  | Kỳ Cụ | vật phẩm | 62 | Phân loại ma cụ mang công năng kỳ lạ, độc nhất vô nhị (奇具/奇品) |
+| Cursed Artifacts | Cursed Artifact | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |

@@ -361,3 +361,9 @@ Hôm sau ghé Hội kiểm tra xác Tarasque, Rentt được Sheila hớt hải 
 Sheila đưa cho Rentt xem đơn ủy thác do Isaac Hart gửi tới với thù lao kếch xù, chỉ định đích danh anh định kỳ hàng tuần hái Hoa Long Huyết từ Đầm Lầy Tarasque.
 Sheila giải thích gia tộc Latuule là thế lực lâu đời gắn liền với kinh tế Maalt và có quan hệ với Tử tước Lottnel, khiến Hội luôn phải nhún nhường, đồng thời cảnh báo anh không thể từ chối nếu còn muốn sống ở thị trấn.
 Dù ngạc nhiên vì suốt 10 năm hành nghề chưa từng nghe danh gia tộc bí ẩn này, Rentt vẫn quyết định nhận ủy thác và trấn an Sheila rằng Isaac không hề bận tâm về ngoại hình hay thân phận Undead của anh.
+
+## 62
+Rentt tới dinh thự ngoại ô của gia tộc Latuule để bàn chi tiết ủy thác với Isaac, nhưng phải vượt qua khu vườn mê cung hàng rào hoa hồng khổng lồ có khả năng tự biến đổi lối đi.
+Qua cuộc trò chuyện với người gác cổng, Rentt biết mê cung là sản phẩm của một món ma cụ do các đời gia chủ Latuule sưu tầm, và bản thân người gác cổng từng vượt mê cung thành công để xin vào làm việc tại đây.
+Lạc lối giữa mê cung vô tận và không thể định hướng theo mặt trời, Rentt bất ngờ bước vào một khoảng sân bừng sáng ngập tràn hoa hồng nở rộ.
+Tại đây, anh gặp một cô bé quý tộc da trắng muốt mặc váy đen viền đăng ten đang tao nhã thưởng trà; cô bé mời anh ngồi lại dùng trà từ một chiếc ấm ma cụ tự pha trà vô cùng quý giá và đắt đỏ.
