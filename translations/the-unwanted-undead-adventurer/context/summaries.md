@@ -421,4 +421,10 @@ Lorraine chỉ ra một biến đổi kinh ngạc: sau lưng Rentt đã mọc ra
 Cả hai thử nghiệm và phát hiện đôi cánh có thể cử động theo ý thức lẫn phản xạ tự động của tiềm thức (như khi bị Lorraine thọc lét hay né tránh bàn tay cô).
 Để tránh gây kinh hoàng cho cư dân Maalt khi mặc quần áo che chắn, Rentt tập trung ý nghĩ và thành công thu gọn đôi cánh ẩn vào trong cơ thể; tuy nhiên, khi Lorraine bất ngờ dọa làm giật mình, đôi cánh lại lập tức bung xòe hết cỡ.
 
+## 72
+Thấy đôi cánh dễ bung ra khi giật mình, Lorraine dặn Rentt cẩn thận khi ở Maalt; Rentt thử đập cánh bay lượn nhưng chỉ quạt ra gió nhẹ vì cánh quá nhỏ so với thân người.
+Theo gợi ý của Lorraine, Rentt rót Ma Lực vào cánh thì lơ lửng được cách mặt đất một đoạn ngắn; khi dồn hết Khí Lực, anh phóng vọt tới trước đâm sầm đầu vào tường nhà khiến Lorraine phải dùng ma pháp sửa lại.
+Thử nghiệm kết hợp hai năng lượng, Rentt nhận ra Ma Lực chạy qua màng bay giúp lơ lửng, còn Khí Lực chạy qua xương đốt ngón giúp tạo lực đẩy tới trước như Ma Khí Dung Hợp Thuật, cho phép anh lượn như sóc bay mà không nổ tung.
+Cuối cùng, Rentt thử dẫn truyền Thần Lực vào cánh quái vật, khiến đôi cánh bất ngờ phát sáng rực rỡ trong sự kinh ngạc của cả Lorraine lẫn anh.
+
 

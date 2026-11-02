@@ -88,7 +88,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Orichalcum |  | Orichalcum | vật phẩm | 43 | Kim loại huyền thoại cực kỳ quý hiếm trong fantasy (オリハルコン) |
 | Mithril |  | Mithril | vật phẩm | 44 | Kim loại ma thuật quý hiếm (ミスリル) |
 | Mana-spirit Fusion Arts | Mana-spirit Fusion Art | Ma Khí Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp đồng thời Ma Lực và Khí Lực (魔気融合術) |
-| Fusion Art | Fusion Arts | Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp các nguồn năng lượng khác nhau (融合術) |
+| Fusion Art | Fusion Arts; Fusion-Arts | Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp các nguồn năng lượng khác nhau (融合術) |
 | Todds Village |  | Làng Todds | địa danh | 45 | Ngôi làng nhỏ ở phía đông Maalt gần Hồ Ruiess |
 | Ruiess Lake |  | Hồ Ruiess | địa danh | 45 | Hồ nước nhỏ gần Làng Todds |
 | Lord of the Lake | Lord | Chúa Tể Hồ | quái vật | 45 | Sinh vật ngụ dưới đáy Hồ Ruiess được dân làng Todds dâng tế vật (湖の主) |

@@ -76,7 +76,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 69 |  | Chapter_069 - Vol 3 Chapter 2 - And an Equally Peculiar Request (9).txt | Vol 3 Chapter 2 - And an Equally Peculiar Request (9) | reviewed |  |
 | 70 |  | Chapter_070 - Vol 3 Chapter 3 - A New Existential Evolution (1).txt | Vol 3 Chapter 3 - A New Existential Evolution (1) | done |  |
 | 71 |  | Chapter_071 - Vol 3 Chapter 3 - A New Existential Evolution (2).txt | Vol 3 Chapter 3 - A New Existential Evolution (2) | done |  |
-| 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | todo |  |
+| 72 |  | Chapter_072 - Vol 3 Chapter 3 - A New Existential Evolution (3).txt | Vol 3 Chapter 3 - A New Existential Evolution (3) | done |  |
 | 73 |  | Chapter_073 - Vol 3 Chapter 3 - A New Existential Evolution (4).txt | Vol 3 Chapter 3 - A New Existential Evolution (4) | todo |  |
 | 74 |  | Chapter_074 - Vol 3 Chapter 3 - A New Existential Evolution (5).txt | Vol 3 Chapter 3 - A New Existential Evolution (5) | todo |  |
 | 75 |  | Chapter_075 - Vol 3 Chapter 3 - A New Existential Evolution (6).txt | Vol 3 Chapter 3 - A New Existential Evolution (6) | todo |  |
@@ -349,6 +349,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
@@ -508,3 +509,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#69] Danh xưng Isaac Hart gọi Rentt Faina 'Mister Vivie' (đoạn 24) — tạm chọn 'ngài Vivie' (phù hợp phong thái quản gia quý tộc lịch thiệp với mạo hiểm giả; phương án khác: 'ông Vivie', 'tiên sinh Vivie'). Tạm dùng trong bản dịch: 'ngài Vivie'. → Chốt 'ngài Vivie' (nhất quán với cách gọi 'ngài' của Isaac Hart từ #56 và Laura Latuule từ #62; đã cập nhật vào pronouns.md). (orchestrator)
 - [#70] Dịch các phân loài Ma Cà Rồng trong bách khoa thư của Lorraine: 'Greater Vampire' ('Thượng Cấp Ma Cà Rồng'), 'Grand Vampire' ('Đại Ma Cà Rồng'), 'Ancient Vampire' ('Ma Cà Rồng Cổ Đại'), 'Vampire Princess' ('Công Chúa Ma Cà Rồng'), 'Twilight Vampire' ('Ma Cà Rồng Hoàng Hôn') — phương án khác: 'Ma Cà Rồng Cấp Cao' / 'Tối Thượng Cấp Ma Cà Rồng' / 'Ma Cà Rồng Thượng Cổ' / 'Huyết Cơ' / 'Ma Cà Rồng Ánh Hoàng Hôn'. Tạm dùng trong bản dịch: Thượng Cấp Ma Cà Rồng, Đại Ma Cà Rồng, Ma Cà Rồng Cổ Đại, Công Chúa Ma Cà Rồng, Ma Cà Rồng Hoàng Hôn. → Chốt các bản dịch 'Thượng Cấp Ma Cà Rồng', 'Đại Ma Cà Rồng', 'Ma Cà Rồng Cổ Đại', 'Công Chúa Ma Cà Rồng', 'Ma Cà Rồng Hoàng Hôn' (đối xứng chuẩn xác với Hạ Cấp Ma Cà Rồng, Đại Slime, Rồng Cổ Đại trong glossary.md). (orchestrator)
 - [#71] Dịch thuật ngữ 'flight membrane' / 'flight membranes' (飛膜) — tạm chọn 'màng bay' (phương án khác: 'cánh màng', 'màng cánh'). → Chốt 'màng bay' (thuật ngữ sinh học chính xác cho 'flight membrane' / 飛膜 của loài sóc bay và Puchi Suri). (orchestrator)
+- [#72] Dịch thuật ngữ giải phẫu cánh dơi 'phalanx bones' (đoạn 101) — tạm chọn 'xương đốt ngón' theo giải phẫu học cánh dơi (phương án khác: 'xương ngón tay', 'xương cánh'). Tạm dùng trong bản dịch: 'xương đốt ngón'. → Chốt 'xương đốt ngón' (thuật ngữ giải phẫu học chính xác cho xương cánh dơi; danh từ giải phẫu chung không cần thêm vào glossary). (orchestrator)
+- [#72] Thêm biến thể có gạch nối 'Fusion-Arts' vào Alias của 'Fusion Art' (Dung Hợp Thuật) trong glossary.md — tạm dùng trong bản dịch: 'Dung Hợp Thuật' (nhất quán với #43). → Chốt thêm 'Fusion-Arts' vào Alias của 'Fusion Art' ('Dung Hợp Thuật') trong glossary.md (nhất quán với #43). (orchestrator)
