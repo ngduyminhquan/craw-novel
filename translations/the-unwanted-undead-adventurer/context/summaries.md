@@ -259,6 +259,13 @@ Tiếp tục mạo hiểm truyền thêm Thần Lực cùng lúc với Ma Lực 
 Clope cảnh báo sự nguy hiểm và khuyên anh chỉ nên dùng Dung Hợp Thuật giữa Ma Lực và Khí Lực; cả hai thử nghiệm dao ném bọc năng lượng nhưng thất bại vì luồng khí tan biến khi rời tay.
 Rentt đúc kết con át chủ bài uy lực cao chỉ dùng khi ngặt nghèo, nhận thức rõ chi phí tốn kém (chỉ vũ khí bằng Mithril hoặc Orichalcum mới chịu tải nổi) và kiên trì rèn luyện từng bước.
 
+## 45
+Rentt thanh toán tiền nhận kiếm mới từ tiệm Ba Chĩa rồi đến Hội Mạo Hiểm Giả tìm việc vặt để tránh gây chú ý ở mê cung; anh suy ngẫm về chế độ nô lệ, nạn bắt cóc mạo hiểm giả và hy vọng Tiến Hóa Bản Thể để sớm trở lại hình dạng con người.
+Tại Hội, Rentt dùng một đồng bạc can thiệp giải vây cho một cậu thanh niên đang bị một gã mạo hiểm giả kỳ cựu đe dọa bạo lực vì dai dẳng cầu xin nhận một yêu cầu nguy hiểm ở vùng quê hẻo lánh.
+Rentt đưa cậu thanh niên đến Quán Phi Long Đỏ của Loris để lắng nghe chi tiết ủy thác, biết được cậu đến từ Làng Todds bên Hồ Ruiess – nơi có tập tục dâng tế một thiếu nữ xinh đẹp cho Chúa Tể Hồ (một quái vật dưới đáy hồ) để bảo vệ làng.
+Cậu thanh niên tiết lộ biến cố nguy cấp khiến cậu phải lặn lội lên Maalt tìm người cứu giúp: dạo gần đây, Chúa Tể Hồ đã bắt đầu ăn thịt các tế vật thay vì chỉ nhận nghi thức tượng trưng như trước.
+
+
 
 
 
