@@ -41,9 +41,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 34 |  | Chapter_034 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (5) | reviewed |  |
 | 35 |  | Chapter_035 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (6) | reviewed |  |
 | 36 |  | Chapter_036 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (7) | reviewed |  |
-| 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | done |  |
-| 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | done |  |
-| 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | done |  |
+| 37 |  | Chapter_037 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (8) | reviewed |  |
+| 38 |  | Chapter_038 - Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9).txt | Vol 2 Chapter 1 - The Labyrinth Of The New Moon (9) | reviewed |  |
+| 39 |  | Chapter_039 - Vol 2 Chapter 2 - Contract By Magic (1).txt | Vol 2 Chapter 2 - Contract By Magic (1) | reviewed |  |
 | 40 |  | Chapter_040 - Vol 2 Chapter 2 - Contract By Magic (2).txt | Vol 2 Chapter 2 - Contract By Magic (2) | todo |  |
 | 41 |  | Chapter_041 - Vol 2 Chapter 2 - Contract By Magic (3).txt | Vol 2 Chapter 2 - Contract By Magic (3) | todo |  |
 | 42 |  | Chapter_042 - Vol 2 Chapter 2 - Contract By Magic (4).txt | Vol 2 Chapter 2 - Contract By Magic (4) | todo |  |
@@ -436,3 +436,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#38] Tên nhân vật hư cấu trên thẻ mạo hiểm giả mẫu 'Guild Guildar' — tạm chọn giữ nguyên 'Guild Guildar' theo quy tắc tên riêng phương Tây trong rules.md (phương án khác: 'Gild Guildar', hoặc Việt hóa). Tạm dùng trong bản dịch: 'Guild Guildar'. → Chốt giữ nguyên 'Guild Guildar'. (orchestrator)
 - [#39] Dịch tiêu đề arc 'Contract By Magic' — tạm chọn 'Khế Ước Bằng Ma Pháp' (phương án khác: 'Khế Ước Ma Pháp', 'Giao Kèo Bằng Ma Pháp'). Tạm dùng trong bản dịch: 'Khế Ước Bằng Ma Pháp'. → Chốt 'Khế Ước Bằng Ma Pháp' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 2 Chương 2. (orchestrator)
 - [#39] Dịch thuật ngữ/ma cụ 'magically binding contract' — tạm chọn 'khế ước ràng buộc ma pháp' (phương án khác: 'khế ước ma pháp ràng buộc', 'hợp đồng ma pháp'). Tạm dùng trong bản dịch: 'khế ước ràng buộc ma pháp'. → Chốt 'khế ước ràng buộc ma pháp'. (orchestrator)
+- [#38] Xưng hô của Raiz Dunner và Laura Satii với Sheila Ibarss → Chốt Raiz và Laura xưng 'tôi' gọi Sheila là 'chị / cô' (nhất quán với Rina Rupaage). (orchestrator)

@@ -1,6 +1,6 @@
 # Chương 38: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (9)
 
-Sau tương tác đó, nhóm chúng tôi thận trọng nhưng vững vàng tiến bước. Rốt cuộc, chuyến trở về Maalt của chúng tôi diễn ra vô cùng suôn sẻ. Bác phu xe, cũng chính là người đã chở chúng tôi tới đây, mỉm cười trấn an rằng chuyến đi sẽ tương đối êm thấm sau khi thoáng liếc nhìn chiếc mặt nạ của tôi. Đúng như lời đã hứa, bác đưa chúng tôi trở về Maalt an toàn. Dù quanh chúng tôi ở Maalt có những kẻ hành tung khả nghi, nhưng hành động và cử chỉ của chúng tôi cho thấy cả nhóm vẫn luôn hết sức cảnh giác. Hiểu được điều đó, những kẻ kia nhanh chóng tản đi, để lại con đường thông thoáng dẫn về Hội.
+Sau cuộc trò chuyện đó, nhóm chúng tôi thận trọng nhưng vững vàng tiến bước. Rốt cuộc, chuyến trở về Maalt của chúng tôi diễn ra vô cùng suôn sẻ. Bác phu xe, cũng chính là người đã chở chúng tôi tới đây, mỉm cười trấn an rằng chuyến đi sẽ tương đối êm thấm sau khi thoáng liếc nhìn chiếc mặt nạ của tôi. Đúng như lời đã hứa, bác đưa chúng tôi trở về Maalt an toàn. Dù quanh chúng tôi ở Maalt có những kẻ hành tung khả nghi, nhưng hành động và cử chỉ của chúng tôi cho thấy cả nhóm vẫn luôn hết sức cảnh giác. Hiểu được điều đó, những kẻ kia nhanh chóng tản đi, để lại con đường thông thoáng dẫn về Hội.
 
 Những kẻ ấy cũng là do Hội thuê tới. Chúng được giao nhiệm vụ đánh cắp phù hiệu của những mạo hiểm giả dại dột buông lỏng cảnh giác ngay khi vừa đặt chân về Maalt. Khác với đồng nghiệp của chúng trong mê cung, chúng chỉ nhận lệnh trộm cắp chứ không tấn công tổng lực; ít nhất thì ngay cả Hội cũng có chút nhân từ đối với những thí sinh đã đi được tới tận bước này.
 
@@ -106,7 +106,7 @@ Cuộc trò chuyện có lẽ sẽ diễn ra theo chiều hướng như thế đ
 
 ...Chuyện đó có gì xấu xa lắm đâu cơ chứ?
 
-Có lẽ đó không phải là hình ảnh đẹp đẽ nhất... Nhưng cũng chẳng hẳn là sai trái theo bất kỳ cách nào. Không như hầu hết các loài undead khác, tôi đâu có lồng lộn chạy khắp nơi khủng bố thị dân. Hãy nhìn bà lão đằng kia xem—liệu bà ấy có bận tâm việc tôi là một Thi Quỷ thủng lỗ chỗ hay một bao tải xương biết đi không? Không. Sẽ chẳng có ai bận tâm chút nào cả.
+Có lẽ đó không phải là hình ảnh đẹp đẽ nhất... Nhưng cũng chẳng hẳn là sai trái theo bất kỳ cách nào. Không như hầu hết các loài Undead khác, tôi đâu có lồng lộn chạy khắp nơi khủng bố thị dân. Hãy nhìn bà lão đằng kia xem—liệu bà ấy có bận tâm việc tôi là một Thi Quỷ thủng lỗ chỗ hay một bao tải xương biết đi không? Không. Sẽ chẳng có ai bận tâm chút nào cả.
 
 Tuy nhiên, nói một cách thực tế thì, tất cả những điều đó sẽ chấm dứt ngay khoảnh khắc ai đó hét toáng lên và gọi lính gác tới. Khi ấy tôi sẽ phải ngậm ngùi nói lời vĩnh biệt thế giới tàn nhẫn này.
 
@@ -138,7 +138,7 @@ Sheila tiếp tục bài diễn giải của mình.
 
 "Thẻ định danh mạo hiểm giả từ Đồng Cấp trở lên thường được yểm các ma pháp nhất định nhằm chống làm giả, vì vậy sẽ mất khoảng một đến hai ngày để các bạn nhận được giấy tờ cập nhật của mình. Mọi thứ sẽ sẵn sàng vào ngày mốt, nhưng hiện tại, các bạn có thể tiếp tục sử dụng thẻ định danh hiện có. Và đừng lo lắng, bất kể thế nào thì trong thời gian này các bạn vẫn có thể nhận các yêu cầu của Đồng Cấp."
 
-Các ma pháp chống làm giả đang nói tới không hẳn giúp nhận diện chủ sở hữu tấm thẻ cho bằng việc chúng được dùng để răn đe những kẻ lừa đảo mạo danh mạo hiểm giả, đánh cắp thẻ rồi viết tên mình lên đó. Nhưng tất nhiên, những ma pháp này không phải là bất khả xâm phạm. Nếu một ma pháp sư lành nghề hoặc người có trình độ tương đương quyết tâm thực hiện, việc làm giả và chỉnh sửa trái phép thẻ định danh do Hội cấp là hoàn toàn khả thi. Đây là một phần lý do tại sao có rất nhiều kẻ khả nghi với lai lịch mập mờ lại nằm trong danh sách của Hội. Điều này dẫn tới việc Hội bị coi là một tổ chức có đạo đức đáng ngờ.
+Các ma pháp chống làm giả đang nói tới không nhằm mục đích nhận diện chủ nhân tấm thẻ nhiều bằng việc răn đe những kẻ lừa đảo mạo danh mạo hiểm giả, đánh cắp thẻ rồi viết tên mình lên đó. Nhưng tất nhiên, những ma pháp này không phải là bất khả xâm phạm. Nếu một ma pháp sư lành nghề hoặc người có trình độ tương đương quyết tâm thực hiện, việc làm giả và chỉnh sửa trái phép thẻ định danh do Hội cấp là hoàn toàn khả thi. Đây là một phần lý do tại sao có rất nhiều kẻ khả nghi với lai lịch mập mờ lại nằm trong danh sách của Hội. Điều này dẫn tới việc Hội bị coi là một tổ chức có đạo đức đáng ngờ.
 
 Giờ đây, những phép thuật chống làm giả này càng trở nên phức tạp hơn theo từng cấp bậc mạo hiểm giả. Chẳng hạn, tấm thẻ định danh Ngân Cấp của Lorraine, sau khi được chính chủ nhân xem xét kỹ lưỡng, đã bị coi là có thể làm giả được, miễn là người ta có đủ thời gian và tiền bạc để thực hiện. Người đó cũng phải có đủ kiến thức về các kỹ thuật liên quan. Đó là những gì Lorraine đã nhận định về chủ đề này. Điều tương tự cũng áp dụng cho thẻ Kim Cấp và Bạch Kim Cấp.
 

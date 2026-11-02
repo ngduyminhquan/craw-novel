@@ -2,7 +2,7 @@
 
 Trong lúc chúng tôi bận rộn thu gom phần còn lại của con Đại Slime vừa bị hạ gục, một nhóm mạo hiểm giả đã đi ngang qua chỗ chúng tôi. Tôi đoán chừng họ đã nấp trong bóng tối suốt khoảng thời gian qua, toan tính đi qua phòng thủ lĩnh mà không tốn chút công sức nào sau khi một nhóm khác đánh bại con quái vật bên trong.
 
-Một sự lựa chọn khôn ngoan. Rồi một ngày nào đó họ sẽ trở thành những mạo hiểm giả giỏi giang, bởi lẽ mạo hiểm giả nhất định phải sở hữu một sự giảo hoạt nhất định.
+Một sự lựa chọn khôn ngoan. Rồi một ngày nào đó họ sẽ trở thành những mạo hiểm giả giỏi giang, bởi lẽ mạo hiểm giả cần phải sở hữu một sự giảo hoạt nhất định.
 
 Thế nhưng, Raiz lại ném về phía những mạo hiểm giả ấy một ánh nhìn vô cùng khó chịu. Có lẽ cậu muốn lên lớp họ về sự bất công trước tình cảnh này cùng những điều chướng tai gai mắt khác; trái lại, Laura chỉ mỉm cười, vỗ nhẹ vào vai Raiz vài cái.
 
@@ -54,7 +54,7 @@ Người ta có thể tranh cãi rằng hành động này thật vô nhân đ�
 
 "Hự, vậy thì phải bảo tôi trước chứ..." Raiz càu nhàu.
 
-"...Nếu cậu có thể... Tự mình suy nghĩ. Tự mình rút ra... Kết luận... Thì cậu đã trưởng thành thành... Một mạo hiểm giả cừ hơn rồi đấy. Chà... Trong trường hợp của cậu, Raiz à... Cậu có... Laura rồi. Nên có lẽ như thế... Cũng ổn."
+"...Nếu cậu có thể... Tự mình suy nghĩ. Tự mình rút ra... Kết luận... Thì cậu đã trưởng thành... Thành một mạo hiểm giả cừ hơn rồi đấy. Chà... Trong trường hợp của cậu, Raiz à... Cậu có... Laura rồi. Nên có lẽ như thế... Cũng ổn."
 
 Tuy tôi không muốn Raiz đột nhiên đánh mất sự ngây thơ và trở thành một kẻ cay nghiệt hoài nghi, nhưng rõ ràng tính cách đơn thuần của Raiz rồi sẽ có ngày trở thành chướng ngại cho sự phát triển của cả hai. May mắn cho cậu, Laura dường như thấu hiểu những bài học của tôi khá tốt. Cô đã nắm bắt được khái niệm về việc phải luôn hoài nghi người khác, dù đó có là mạo hiểm giả hay không.
 
@@ -84,7 +84,7 @@ Nếu phải nhận xét, thì đó quả là một sự trưởng thành đáng
 
 "Mừng các bạn đã đến nơi! Tất cả các bạn đều tới đây vì bài thi thăng hạng Đồng Cấp, phải không? Xin chúc mừng! Các bạn là nhóm đầu tiên tới được đây đấy," người đàn ông, rõ ràng là một nhân viên của Hội Mạo Hiểm Giả, lên tiếng.
 
-Tôi quan sát anh ta nhưng không tìm thấy bất kỳ điểm bất thường nào; vẻ mặt của anh ta trông cũng chẳng hề giả tạo. Để cho chắc chắn, tôi yêu cầu xem giấy tờ chứng nhận do Hội cấp của anh ta. Sau khi xác nhận đó là hàng thật, tôi thở phào nhẹ nhõm, thầm nghĩ bài kiểm tra thế là đã kết thúc. Với điều này, sẽ không còn cạm bẫy nào nữa, và tất cả chúng tôi cuối cùng cũng có thể thở phào trút bỏ gánh nặng.
+Tôi quan sát anh ta nhưng không tìm thấy bất kỳ điểm bất thường nào; vẻ mặt của anh ta trông cũng chẳng hề giả tạo. Để cho chắc chắn, tôi yêu cầu xem giấy tờ chứng nhận do Hội cấp của anh ta. Sau khi xác nhận đó là hàng thật, tôi trút một tiếng thở dài nhẹ nhõm, thầm nghĩ bài kiểm tra thế là đã kết thúc. Với điều này, sẽ không còn cạm bẫy nào nữa, và tất cả chúng tôi cuối cùng cũng có thể thở phào trút bỏ gánh nặng.
 
 Nhìn thấy phản ứng của tôi, người nhân viên bật cười: "Haha! Cảnh giác ghê nhỉ? Tôi đoán các bạn cũng phát mệt với mấy trò này rồi... Nhưng đúng vậy, đây chính là điểm chỉ định."
 
@@ -92,7 +92,7 @@ Nhìn thấy phản ứng của tôi, người nhân viên bật cười: "Haha!
 
 "À thì... trên lý thuyết là vậy. Dù tôi không dám chắc bọn tôi có còn ngón đòn nào giấu trong tay áo nữa hay không đâu nhé... Dù sao đi nữa, đây là những chiếc phù hiệu chứng nhận các bạn đã tới được địa điểm này. Một chiếc cho cậu... cho cô... và cho cậu. Tổng cộng ba chiếc cho cả ba người. Hãy nộp cái này cho tiếp tân viên của Hội khi quay về Maalt, và cả ba bạn sẽ chính thức được thăng lên Đồng Cấp."
 
-Vừa đếm số phù hiệu, người nhân viên vừa trao chúng cho chúng tôi. Chúng là những vật nhỏ bằng kim loại, không lớn hơn ngón tay út. Điều này có lẽ cũng là dụng ý có chủ đích, bởi đó là thứ rất dễ đánh rơi, và chúng tôi sẽ phải bảo vệ nó bằng cả mạng sống... hoặc chí ít là cất giữ nó hết sức cẩn thận.
+Vừa đếm số phù hiệu, người nhân viên vừa trao chúng cho chúng tôi. Chúng là những vật nhỏ bằng kim loại, không lớn hơn ngón tay út. Điều này có lẽ cũng là có chủ đích, bởi đó là thứ rất dễ đánh rơi, và chúng tôi sẽ phải bảo vệ nó bằng cả mạng sống... hoặc chí ít là cất giữ nó hết sức cẩn thận.
 
 Dù phía Hội từng tiện miệng đề cập rằng nhóm đầu tiên tới được điểm này sẽ "chiến thắng", nhưng họ lại chẳng hề nói năng gì về việc thi đỗ; lại thêm một trò chơi chữ rắc rối nữa từ phía họ. Cách hiểu đúng đắn ở đây chính là phải mang những chiếc phù hiệu này trở về an toàn nộp cho Hội ở Maalt.
 
@@ -118,7 +118,7 @@ Nhiều cái bẫy được giăng ra có thể dễ dàng né tránh chừng n�
 
 Dù sao đi nữa, bài thi này là một cột mốc quan trọng trong cuộc đời của bất kỳ mạo hiểm giả nào. Sau cùng thì, họ sẽ rời đi với một sự thấu hiểu sâu sắc hơn về những gì cần thiết cho sự nghiệp mạo hiểm của mình kể từ nay về sau.
 
-"Tôi thấy các bạn đã hiểu hết cả rồi đấy! Đúng như bạn nói. Nhưng tất cả các bạn đều đã trải qua rất nhiều khó khăn để tới được điểm này. Nói một cách chặt chẽ thì tất cả các bạn đã làm đủ để thi đỗ rồi. Thứ tự các nhóm tới được điểm này cũng chẳng quan trọng hơn việc nộp một ủy thác hoàn thành trước thời hạn. Đó là một trong những điều căn bản tuyệt đối của nghề mạo hiểm giả. Trừ chuyện đó ra thì mọi thứ đều được phép. Chà... hầu như mọi thứ."
+"Tôi thấy các bạn đã hiểu hết cả rồi đấy! Đúng như các bạn nói. Nhưng tất cả các bạn đều đã trải qua rất nhiều khó khăn để tới được điểm này. Nói một cách chặt chẽ thì tất cả các bạn đã làm đủ để thi đỗ rồi. Thứ tự các nhóm tới được điểm này cũng chẳng quan trọng hơn việc nộp một ủy thác hoàn thành trước thời hạn. Đó là một trong những điều căn bản tuyệt đối của nghề mạo hiểm giả. Trừ chuyện đó ra thì mọi thứ đều được phép. Chà... hầu như mọi thứ."
 
 Về cơ bản, ngay cả khi chúng tôi tới đây vào giây phút chót, chúng tôi vẫn đủ điều kiện đỗ. Bài thi có nhiều điểm gây khó chịu, điều đó tôi có thể khẳng định, nhưng xét đến tận cùng thì nó vẫn là một việc tương đối đơn giản.
 
@@ -158,7 +158,7 @@ Nếu họ lơ là cảnh giác và không theo dõi sát sao người phu xe, r
 
 Họ, đúng như dự đoán, ngán ngẩm đến cùng cực. Dù tôi hiểu cảm giác của họ, nhưng đây chính xác là mục đích mà bài thi được thiết kế ra. Để đánh giá chính xác tiềm năng của một cá nhân, họ sẽ phải vượt qua rất, rất nhiều thử thách.
 
-Dẫu nói vậy, tôi không nghĩ rằng Hội còn giăng thêm bẫy rập hay mai phục nào chờ sẵn nữa. Đã đi xa tới mức này, cơ hội chúng tôi thất bại gần như bằng không.
+Dẫu nói vậy, tôi không nghĩ rằng Hội còn giăng thêm bẫy rập hay mai phục nào chờ sẵn nữa. Đã đi xa tới mức này, khả năng chúng tôi thất bại gần như bằng không.
 
 Thế nhưng dĩ nhiên rồi... đó chính là điều mà Hội muốn người ta nghĩ tới. Tôi quyết tâm không lơ là cảnh giác.
 

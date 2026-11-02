@@ -62,3 +62,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Laura Satii | Rentt Faina | tôi | anh Vivie | 33 | Lễ phép với mạo hiểm giả mang họ Vivie (raw: Mister Vivie) |
 | Raiz Dunner | Laura Satii | tôi | Laura | 33 | Cặp đôi mạo hiểm giả thân quen |
 | Laura Satii | Raiz Dunner | tôi | Raiz | 33 | Cặp đôi mạo hiểm giả thân quen |
+| Raiz Dunner | Sheila Ibarss | tôi | chị / cô | 38 | Tân binh lễ phép với nhân viên tiếp tân Hội |
+| Laura Satii | Sheila Ibarss | tôi | chị / cô | 38 | Tân binh lễ phép với nhân viên tiếp tân Hội |

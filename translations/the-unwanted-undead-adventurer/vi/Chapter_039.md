@@ -86,7 +86,7 @@ Nhưng trường hợp của Sheila lại là một chuyện hoàn toàn khác. 
 
 Tôi gật đầu với Sheila, chờ đợi câu trả lời từ cô. Về phần Sheila, cô nhắm mắt lại, dường như chìm vào suy tư trong một khoảng thời gian khá lâu. Cuối cùng khi mở mắt ra, cô nhìn thẳng vào tôi rồi thốt lên một điều khiến tôi hoàn toàn trở tay không kịp.
 
-"Anh Rentt... nói thật lòng thì tôi vẫn chưa báo cáo những gì anh làm lên Hội đâu. Tôi vốn không thể dám chắc người đó chính là anh. Tuy nhiên, tôi đã đem mối băn khoăn của mình ra trao đổi với người nhân viên bám theo tổ đội của các anh hôm nay, nên cậu ấy biết được suy nghĩ của tôi về chuyện này. Dù sao đi nữa, về chuyện anh đăng ký tới hai lần hay đại loại thế—tôi không hề có ý định hé răng nửa lời, cho nên..."
+"Anh Rentt... nói thật lòng thì tôi vẫn chưa báo cáo những gì anh làm lên Hội đâu. Tôi vốn không dám chắc người đó chính là anh. Tuy nhiên, tôi đã đem mối băn khoăn của mình ra trao đổi với người nhân viên bám theo tổ đội của các anh hôm nay, nên cậu ấy biết được suy nghĩ của tôi về chuyện này. Dù sao đi nữa, về chuyện anh đăng ký tới hai lần hay đại loại thế—tôi không hề có ý định hé răng nửa lời, cho nên..."
 
 ...Một diễn biến nằm ngoài mọi dự liệu.
 
@@ -142,9 +142,9 @@ Sheila đâu thể đảo ngược lại cuộc trò chuyện đã qua. Dường
 
 "...Thực ra thì, người nhân viên đó chính là em trai tôi. Đó là lý do vì sao tôi mới có thể dễ dàng tâm sự chuyện này với cậu ấy như vậy... Nhưng dẫu tôi có bảo cậu ấy phải giữ kín thì cũng chẳng có gì đảm bảo chắc chắn. Nếu buộc phải làm, tôi cũng có thể dễ dàng đem bản khế ước này tới cho cậu ấy. Cậu ấy chỉ việc ký thêm tên mình vào đó, mà ngay cả khi cậu ấy từ chối thì tôi cũng có cách của riêng mình..."
 
-Tôi quả thực nhớ mang máng Sheila từng nhắc đến em trai mình từ cách đây rất lâu rồi. Nghĩ đến chuyện cả hai chị em họ rốt cuộc đều làm việc trong Hội Mạo Hiểm Giả; tôi cảm thấy có đôi chút bất ngờ.
+Tôi quả thực nhớ mang máng Sheila từng nhắc đến em trai mình từ cách đây rất lâu rồi. Nghĩ đến chuyện cả hai chị em họ rốt cuộc đều làm việc trong Hội Mạo Hiểm Giả, tôi cảm thấy có đôi chút bất ngờ.
 
-Tuy nhiên, việc tôi không hay biết về chuyện này cũng chẳng có gì kỳ lạ. Theo quy định, những nhân viên Hội được cử đi làm nhiệm vụ trinh sát quái vật và số lượng cá thể của chúng, cùng với các thành viên làm những công việc bí mật hơn như giám sát các kỳ thi thăng hạng, thường không bao giờ lộ mặt. Việc cậu ta xuất hiện trước mặt chúng tôi tại quầy tiếp tân có lẽ là xuất phát từ sự hiếu kỳ, bởi cậu ta không khỏi tò mò xem rốt cuộc tên mạo hiểm giả kỳ quặc mà chị gái mình đem lòng quý mến là người như thế nào. Chí ít thì đó cũng là suy đoán có cơ sở của tôi. Bằng không thì cậu ta thuộc tuýp người thích tâng bốc chị gái mình lên tận mây xanh. Dù sao thì việc nghĩ như thế về một người mình thậm chí còn chẳng quen biết có lẽ cũng chẳng hay ho gì cho lắm...
+Tuy nhiên, việc tôi không hay biết về chuyện này cũng chẳng có gì kỳ lạ. Theo quy định, những nhân viên Hội được cử đi làm nhiệm vụ trinh sát quái vật và số lượng cá thể của chúng, cùng với các thành viên làm những công việc bí mật hơn như giám sát các kỳ thi thăng hạng, thường không bao giờ lộ mặt. Việc cậu ta xuất hiện trước mặt chúng tôi tại quầy tiếp tân có lẽ là xuất phát từ sự hiếu kỳ, bởi cậu ta không khỏi tò mò xem rốt cuộc tên mạo hiểm giả kỳ quặc mà chị gái mình đem lòng quý mến là người như thế nào. Chí ít thì đó cũng là suy đoán có cơ sở của tôi. Bằng không thì cậu ta thuộc tuýp người thích thần tượng hóa chị gái mình. Dù sao thì việc nghĩ như thế về một người mình thậm chí còn chẳng quen biết có lẽ cũng chẳng hay ho gì cho lắm...
 
 Thế nhưng, câu nói tiếp theo của Sheila đã dập tắt ngay giả định đó: "Em trai tôi sẽ chuyển công tác lên thủ đô vào tuần tới. Không như tôi, cậu ấy đi theo con đường thăng tiến của giới tinh hoa, và đây là công việc cuối cùng của cậu ấy ở Maalt. Có lẽ sẽ chẳng còn cơ hội nào khác để cậu ấy gặp anh nữa, vậy nên cậu ấy mới muốn tận mắt diện kiến anh. Cậu ấy không muốn phải lo lắng vô cớ ấy mà."
 

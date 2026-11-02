@@ -57,8 +57,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
 - Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
-- Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua.
-- Trạng thái tính đến chương 39: Nhận ra Rentt Faina qua danh tính mới Rentt Vivie; đưa anh vào phòng riêng đối chất nhưng khẳng định không báo cáo lên Hội, sẵn sàng ký khế ước ma pháp để giúp anh giữ kín bí mật; tiết lộ em trai mình là nhân viên giám sát kỳ thi thăng hạng sắp chuyển công tác lên thủ đô.
+- Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
+- Trạng thái tính đến chương 39: Nhận ra Rentt Faina qua danh tính mới Rentt Vivie; đưa anh vào phòng riêng đối chất nhưng khẳng định không báo cáo lên Hội, sẵn sàng ký khế ước ma pháp để giúp anh giữ kín bí mật; tiết lộ em trai mình là nhân viên giám sát bí mật kỳ thi thăng hạng sắp chuyển công tác lên thủ đô Yaaran vào tuần tới.
 
 ### Luka
 - Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
