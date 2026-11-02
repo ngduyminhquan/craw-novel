@@ -64,7 +64,7 @@ Lời đáp của cô rất có lý. Chỉ riêng những câu chuyện cổ tí
 
 Lorraine ngẫm nghĩ về câu hỏi. "Chà, Alize là con gái mà. Người lữ hành chắc hẳn sẽ lên đường đi tìm bạn gái thôi. Anh cũng biết kiểu đó rồi đấy."
 
-Và để làm được điều đó, anh ta sẽ phải vượt qua muôn vàn thử thách xuyên suốt chuyến hành trình. Người lữ hành hầu hết đều là nam trong phần lớn các câu chuyện, nhưng vài dị bản táo bạo hơn cũng thay đổi cả yếu tố ấy. Vì lẽ đó, những câu chuyện mà người lữ hành muốn gặp nửa kia của mình có thể diễn biến theo hai hướng: hoặc là một lữ khách nam phải bươn chải vì bạn gái, hoặc một lữ khách nữ làm điều tương tự vì bạn trai. Cả hai đều là những mô típ quen thuộc rất được lòng các cô bé gái. Tuy nhiên, các bé trai lại chẳng mấy mặn mà với những dị bản kiểu này. Tình yêu có vẻ là thứ quá đỗi xa lạ với chúng ở độ tuổi đó. Về mặt này thì con gái trưởng thành sớm hơn. Người ta có thể nhận thấy sự khác biệt trong quá trình lớn lên của các bé trai và bé gái thông qua chính những câu chuyện kể ấy.
+Và để làm được điều đó, anh ta sẽ phải vượt qua muôn vàn thử thách xuyên suốt chuyến hành trình. Người lữ hành hầu hết đều là nam trong phần lớn các câu chuyện, nhưng vài dị bản táo bạo hơn cũng thay đổi cả yếu tố ấy. Vì lẽ đó, những câu chuyện mà người lữ hành muốn gặp nửa kia của mình có thể diễn biến theo hai hướng: hoặc là một lữ khách nam phải bươn chải vì bạn gái, hoặc một lữ khách nữ làm điều tương tự vì bạn trai. Cả hai đều là những mô típ quen thuộc rất được lòng các bé gái. Tuy nhiên, các bé trai lại chẳng mấy mặn mà với những dị bản kiểu này. Tình yêu có vẻ là thứ quá đỗi xa lạ với chúng ở độ tuổi đó. Về mặt này thì con gái trưởng thành sớm hơn. Người ta có thể nhận thấy sự khác biệt trong quá trình lớn lên của các bé trai và bé gái thông qua chính những câu chuyện kể ấy.
 
 "Nhưng Alize trông chẳng giống kiểu người quá mê đắm chuyện tình yêu cho lắm," tôi ngẫm nghĩ.
 
@@ -94,7 +94,7 @@ Câu hỏi này sẽ định đoạt hướng đi của toàn bộ câu chuyện
 
 Alize đáp lại thắc mắc của cậu bé: "Bởi vì chú ấy là một đầu bếp. Thế nên chú ấy mới đi về phía tây để tìm kiếm những nguyên liệu và công thức nấu ăn mới. Các vùng đất ở phương tây có nền văn hóa phát triển vượt bậc lắm đấy."
 
-Anh ta bị thúc đẩy bởi thèm ăn hơn là sắc dục. Nghe có đôi chút hụt hẫng, nhưng dự đoán của tôi xem ra đã trúng phóc. Tính thực tế của con bé đã khiến em ấy chọn đồ ăn thay vì tình yêu.
+Anh ta bị thúc đẩy bởi thèm ăn hơn là sắc dục. Nghe có đôi chút hụt hẫng, nhưng dự đoán của tôi xem ra đã trúng phóc. Tính thực tế đã khiến em ấy chọn đồ ăn thay vì tình yêu.
 
 "Chắc lần này tôi thua rồi. Dù đây chẳng phải là một cuộc thi thố gì," Lorraine nhận xét, nhưng trông cô có vẻ bực bội. Ngược lại, tôi nở một nụ cười đắc thắng về phía cô. Lorraine nghiến răng ken két.
 
@@ -156,7 +156,7 @@ Hài lòng, người phụ nữ cất lời với người đàn ông: "Hóa ra 
 
 Khi nàng vung tay áo lên, toàn thân người đàn ông phát ra ánh sáng lấp lánh. Cơ thể chàng cảm thấy nhẹ nhõm hơn hẳn. Giờ đây chàng nghĩ mình có thể dễ dàng đi tới phương tây.
 
-Người phụ nữ nói tiếp: "Ta sẽ đi theo hầu hạ chàng," nàng cất lời rồi nhắm mắt lại. Trong khoảnh khắc tiếp theo mà người đàn ông kịp nhận ra, nàng đã phân tách thành bốn người phụ nữ. Người thứ nhất mang một nụ cười u ám. Người thứ hai mang một nụ cười thanh thản. Người thứ ba là một cô bé gái, và nụ cười của nàng hoàn toàn phù hợp với lứa tuổi của mình. Người thứ tư mang một nụ cười toát lên vẻ quyến rũ mê hồn.
+Người phụ nữ nói tiếp: "Ta sẽ đi theo hầu hạ chàng," nàng cất lời rồi nhắm mắt lại. Trong khoảnh khắc tiếp theo mà người đàn ông kịp nhận ra, nàng đã phân tách thành bốn người phụ nữ. Người thứ nhất mang một nụ cười u ám. Người thứ hai mang một nụ cười thanh thản. Người thứ ba là một cô bé gái, và nụ cười của em hoàn toàn phù hợp với lứa tuổi của mình. Người thứ tư mang một nụ cười toát lên vẻ quyến rũ mê hồn.
 
 Bốn người phụ nữ đồng thanh cất tiếng: "Cô bé này sẽ đi cùng chàng. Chúng ta cầu chúc chuyến hành trình của chàng sẽ thành công tốt đẹp." Nói đoạn, ba người phụ nữ lớn tuổi hơn để lại cô bé nhỏ tuổi nhất rồi biến mất về một nơi nào đó không ai hay biết.
 
@@ -198,6 +198,6 @@ Chính sức mạnh của người đàn ông đã gầy dựng nên đất nư�
 
 "Anh vừa lầm bầm gì đấy à?" Lorraine hỏi.
 
-"Không, có gì đâu. Dù sao thì, chúng ta lại nói chuyện với Alize đi."
+"Không, có gì đâu. Dù sao thì, chúng ta qua nói chuyện với Alize đi."
 
 Hai chúng tôi đứng dậy rồi rảo bước về phía cô bé.

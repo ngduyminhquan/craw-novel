@@ -44,7 +44,7 @@ Một vương quốc ẩm thực sao? Đương nhiên là chẳng có nơi nào 
 
 "Để làm gì thế ạ?" Alize hỏi ngược lại tôi.
 
-"Tôi muốn làm cho em một bộ trang bị. Tôi đã thu thập xong nguyên liệu rồi, nhưng em cần phải đến tiệm rèn để lấy số đo. Tôi cũng dự định nhờ thợ rèn làm một vật dẫn ma thuật nữa. Nếu em muốn thì chúng ta cũng có thể làm việc đó trong hôm nay luôn."
+"Tôi muốn làm cho em một bộ trang bị. Tôi đã thu thập xong nguyên liệu rồi, nhưng em cần phải đến tiệm rèn để lấy số đo. Tôi cũng dự định nhờ thợ rèn làm một vật dẫn ma pháp nữa. Nếu em muốn thì chúng ta cũng có thể làm việc đó trong hôm nay luôn."
 
 Dẫu vậy, tôi không nghĩ cô bé sẽ nhận lời ngay tắp lự trước lời mời đường đột này. Tất cả những gì tôi muốn chỉ là báo cho em biết hôm nay sẽ không có buổi học nào, và hỏi xem hôm nào em sẽ rảnh rỗi. Tiện nhất thì đúng là giải quyết xong xuôi ngay lập tức, nhưng như thế thì hơi đòi hỏi quá. Bản thân Alize cũng bận rộn với những công việc riêng của mình.
 
@@ -108,9 +108,9 @@ Sau khi anh ấy nhắc tới, tôi mới nhận ra rằng nhiều khả năng m
 
 Háo hức trước lời thách thức, Clope xắn tay áo lên. "Gì cơ? Được thôi, nếu cậu đã khăng khăng như thế," anh ấy nói rồi bước lại gần, đặt hai tay vào hai bên chiếc mặt nạ.
 
-Clope dùng hết sức bình sinh giật mạnh, nhưng nó không hề suy chuyển lấy một li. Tất cả những gì anh ấy làm được chỉ là kéo căng da mặt và làm tôi đau điếng. Cũng như hầu hết thợ rèn, Clope sở hữu đôi cánh tay rất khỏe khoắn. Việc tạo ra những trang bị có thể trụ vững qua bao chuyến phiêu lưu đòi hỏi một thể lực đáng nể. Thoạt nhìn Clope có vẻ gầy gò, nhưng thực chất lại cơ bắp và dẻo dai. Và người đàn ông đó đang ra sức giật một vật dính chặt vào mặt tôi, thế nên bạn có thể hình dung ra nỗi đau đớn ấy rồi đấy. Song tôi là một dạng Ma Cà Rồng, nên khả năng chịu đựng và hồi phục của tôi rất cao. Nếu không thì da mặt tôi đã bị lột sạch từ lâu rồi. Trong một khoảnh khắc, tôi thấy mừng vì mình đã biến thành quái vật, nhưng sau khi suy xét một cách lý trí, đó cũng chính là lý do duy nhất khiến tôi phải đeo chiếc mặt nạ này.
+Clope dùng hết sức bình sinh giật mạnh, nhưng nó không hề suy chuyển lấy một li. Tất cả những gì anh ấy làm được chỉ là kéo căng da mặt và làm tôi đau điếng. Cũng như hầu hết thợ rèn, Clope sở hữu đôi cánh tay rất khỏe khoắn. Việc tạo ra những trang bị có thể trụ vững qua bao chuyến phiêu lưu đòi hỏi một thể lực đáng nể. Thoạt nhìn Clope có vẻ gầy gò, nhưng thực chất lại cơ bắp và dẻo dai. Và người đàn ông đó đang ra sức giật một vật dính chặt vào mặt tôi, đủ hiểu nỗi đau đớn ấy khủng khiếp đến nhường nào. Song tôi là một dạng Ma Cà Rồng, nên khả năng chịu đựng và hồi phục của tôi rất cao. Nếu không thì da mặt tôi đã bị lột sạch từ lâu rồi. Trong một khoảnh khắc, tôi thấy mừng vì mình đã biến thành quái vật, nhưng sau khi suy xét một cách lý trí, đó cũng chính là lý do duy nhất khiến tôi phải đeo chiếc mặt nạ này.
 
-"Tôi nghĩ thế là đủ rồi đấy," tôi bảo Clope sau khi đã thấy ngán ngẩm.
+"Tôi nghĩ thế là đủ rồi đấy," tôi bảo Clope khi đã chịu đau quá đủ.
 
 "Hả? Ồ," anh ấy thở dài rồi buông tay khỏi mặt tôi. "Nhưng mà chết tiệt thật, nó dính chặt kinh khủng. Cái quái gì với chiếc mặt nạ đó thế hả?"
 
@@ -136,7 +136,7 @@ Anh ấy có vẻ trầm ngâm trước câu trả lời của cô. "Vậy sao? 
 
 Alize đã nép mình trốn đi bởi vẻ ngoài có phần dữ dằn của Clope. Anh ấy tuy gầy gò nhưng ánh mắt lại vô cùng sắc lạnh. Một khi đã dán mắt vào thứ gì, anh ấy sẽ không bao giờ rời mắt đi chỗ khác. Những bé gái trạc tuổi ấy hẳn sẽ thấy anh ấy rất đáng sợ.
 
-"Alize, không sao đâu. Chú ấy tốt bụng hơn vẻ bề ngoài nhiều. Vả lại, nếu Rentt không làm em sợ thì việc gì phải sợ một người đàn ông bình thường này chứ? Chẳng phải ngớ ngẩn lắm sao?" Lorraine vừa chỉ ra vừa đẩy Alize về phía trước. Nếu phải chọn xem giữa một kẻ vận áo choàng đen đeo mặt nạ đầu lâu với một gã bặm trợn to mồm ai đáng sợ hơn, thì có lẽ việc đó sẽ khó khăn hơn bạn tưởng đấy. Hai người họ gợi lên những nỗi sợ hãi hoàn toàn khác nhau. Mà chuyện đó cũng chẳng quan trọng.
+"Alize, không sao đâu. Chú ấy tốt bụng hơn vẻ bề ngoài nhiều. Vả lại, nếu Rentt không làm em sợ thì việc gì phải sợ một người đàn ông bình thường này chứ? Chẳng phải ngớ ngẩn lắm sao?" Lorraine vừa chỉ ra vừa đẩy Alize về phía trước. Nếu phải chọn xem giữa một kẻ vận áo choàng đen đeo mặt nạ đầu lâu với một gã bặm trợn to mồm ai đáng sợ hơn, thì có lẽ việc đó sẽ khó khăn hơn người ta tưởng đấy. Hai người họ gợi lên những nỗi sợ hãi hoàn toàn khác nhau. Mà chuyện đó cũng chẳng quan trọng.
 
 "Alize, đây là Clope, người thợ rèn đã giúp đỡ tôi từ trước cả khi tôi trở thành mạo hiểm giả. Như Lorraine đã nói đấy, anh ấy không đáng sợ như vẻ bề ngoài đâu. Anh ấy sẽ là người làm trang bị cho em," tôi bảo Alize.
 
@@ -152,4 +152,4 @@ Người ta từng bảo tôi có một khuôn mặt búng ra sữa. Tôi tự h
 
 "Phải rồi, còn về nguyên liệu thì tôi đã nhặt được một ít trong mê cung. Anh có thể xem qua chỗ đó trước được không?" tôi xen vào.
 
-Clope nhướng mày: "Vậy sao? Dạo này cậu thực sự có thể tiến vào những mê cung đó rồi à? Làm tôi ấn tượng rồi đấy. Được rồi, mọi người đi theo tôi nào. Tôi sẽ dẫn các bạn ra lò rèn," Clope nói rồi rảo bước đi. Chúng tôi nối gót theo sau anh ấy.
+Clope nhướng mày: "Vậy sao? Dạo này cậu thực sự có thể tiến vào những mê cung đó rồi à? Làm tôi ấn tượng rồi đấy. Được rồi, mọi người đi theo tôi nào. Tôi sẽ dẫn mọi người ra lò rèn," Clope nói rồi rảo bước đi. Chúng tôi nối gót theo sau anh ấy.

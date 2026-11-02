@@ -52,7 +52,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gie Vieros |  | Gie Vieros | kỹ năng | 2 | Ma pháp thổ tiễn cơ bản (câu chú giữ nguyên) |
 | Re-popping |  | Tái Sinh Quái | hệ thống | 2 | Hiện tượng quái vật hồi sinh định kỳ trong mê cung |
 | Acid Blitz |  | Acid Blitz | kỹ năng | 4 | Đòn phun dung dịch axit của Slime (giữ nguyên tên đòn) |
-| Magic crystal | Magic crystals; magic crystal; magic crystals | Ma Tinh | vật phẩm | 3 | Tinh thể ma thuật rơi ra từ quái vật (魔石/魔晶石) |
+| Magic crystal | Magic crystals; magic crystal; magic crystals; mana stone; mana stones | Ma Tinh | vật phẩm | 3 | Tinh thể ma thuật rơi ra từ quái vật (魔石/魔晶石) |
 | Thousand-year Bronze-class | The Thousand-year Bronze-class | Đồng Cấp Ngàn Năm | danh hiệu | 4 | Biệt danh trêu chọc của Rentt vì kẹt ở Hạ Đồng Cấp suốt 10 năm |
 | spirit art | spirit arts; Spirit Art; Spirit Arts | Khí Thuật | kỹ năng | 2 | Kỹ thuật vận dụng Khí Lực cường hóa cơ thể và đòn đánh |
 | Priest | priests; priest | tư tế | chức nghiệp | 2 | Người phục vụ giáo hội, sử dụng Thần Lực thanh tẩy và giải trừ nguyền rủa |
@@ -160,7 +160,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Puchi Suri Racing | Puchi Suri racing | đua chuột Puchi Suri | khác | 85 | Trò giải trí cá cược đua quái vật Puchi Suri mới xuất hiện ở Maalt |
 | Middle Vampire | Middle Vampires | Trung Cấp Ma Cà Rồng | quái vật | 89 | Phân loài Ma Cà Rồng bậc trung, thường là thủ lĩnh chi phối Hạ Cấp Ma Cà Rồng (中級吸血鬼) |
 | Monster Research Institution |  | Viện Nghiên Cứu Quái Vật | tổ chức | 89 | Cơ quan nghiên cứu quái vật tại thủ đô của Vương Quốc Yaaran (魔物研究所) |
-| magical focus | magical foci | vật dẫn ma pháp | vật phẩm | 89 | Vật phẩm hỗ trợ pháp sư thi triển ma pháp và khuếch đại uy lực (gậy, trượng, quả cầu...) (焦点具/魔導具) |
+| magical focus | magical foci; magic catalyst; magic catalysts | vật dẫn ma pháp | vật phẩm | 89 | Vật phẩm hỗ trợ pháp sư thi triển ma pháp và khuếch đại uy lực (gậy, trượng, quả cầu...) (焦点具/魔導具); catalyst đứng riêng có thể dịch là vật dẫn ma pháp hoặc gọi tắt là vật dẫn |
 | Linpio |  | Linpio | kỹ năng | 90 | Thần chú tẩy rửa, làm sạch vết bẩn thuộc Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
 | Fuu Suri |  | Fuu Suri | quái vật | 90 | Biến thể hệ hỏa của loài Puchi Suri (フウスリ) |
 | Fire Puchi Suri |  | Puchi Suri Hỏa | quái vật | 90 | Phân loài Puchi Suri thuộc tính hỏa, danh xưng phân loài của Fuu Suri |

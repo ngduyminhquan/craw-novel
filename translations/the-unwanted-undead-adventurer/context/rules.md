@@ -51,3 +51,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#102) Thành ngữ "stand out like a sore thumb": dịch là "đập ngay vào mắt", "lạc lõng/chướng mắt thấy rõ" (tránh dịch thô từng chữ thành "như một ngón tay cái sưng vù").
 - (#108) Thành ngữ "to say the least": dịch là "nói một cách nhẹ nhàng nhất thì" hoặc "ít nhất cũng phải nói là" (tránh dịch sai thành "nói giảm nói tránh").
 - (#114) Cụm từ liên kết "in turn": dịch là "đến lượt mình", "kéo theo đó", "kéo theo hệ quả là" theo ngữ cảnh liên đới hành động (tránh dịch máy thành "đổi lại" gây nhầm lẫn sang sự trao đổi/thỏa hiệp).
+- (#115) Tránh dịch máy đại từ phiếm chỉ "you" thành "bạn" trong độc thoại tự sự ngôi thứ nhất (ví dụ: "bạn có thể tìm thấy" → "có thể tìm thấy", "nơi bạn có thể thưởng thức" → "nơi người ta có thể thưởng thức", "bạn có thể hình dung" → "đủ hiểu / có thể hình dung", "hơn bạn tưởng" → "hơn người ta tưởng").
+- (#117) Thành ngữ "have one's fill" / "had my fill" trong ngữ cảnh chịu đựng đau đớn/phiền phức: dịch là "chịu đựng quá đủ", "phát ngấy" (tránh dịch sai thành "ngán ngẩm").

@@ -80,7 +80,7 @@ Thư viện chứa đầy những đầu sách mà tôi chưa từng thấy bao 
 
 "Cô bé không phiền chứ? Lorraine có thể dành cả ngày ở đây đấy. Cô ấy thậm chí có khi còn chẳng chịu về nữa là."
 
-Lorraine vẫn có nhận thức thông thường và biết phép tắc xã giao, nhưng mỗi khi nhìn thấy một cuốn sách khiến mình hứng thú, vài chiếc ốc vít trong đầu cô ấy có thể sẽ bị lỏng ra. Tuy nhiên, nếu biết tôi nói câu đó, cô ấy có thể sẽ làm ầm lên và khăng khăng rằng mình đâu có tệ đến mức ấy.
+Lorraine vẫn có nhận thức thông thường và biết phép tắc xã giao, nhưng mỗi khi nhìn thấy một cuốn sách khiến mình hứng thú, đầu óc cô ấy rất dễ bị chập mạch. Tuy nhiên, nếu biết tôi nói câu đó, cô ấy có thể sẽ làm ầm lên và khăng khăng rằng mình đâu có tệ đến mức ấy.
 
 Lời cảnh báo của tôi chẳng hề làm Laura bận tâm. "Không sao đâu. Cô ấy có thể đến và đi tùy thích. Tôi cũng đang muốn có một người bạn để trò chuyện bên tách trà đây," cô bé nói.
 
@@ -104,7 +104,7 @@ Bản thân tôi cũng từng thử điều tra về họ, nhưng chẳng thu đ
 
 Càng ngẫm nghĩ về điều đó, tôi càng thấy gia tộc này kỳ lạ. Nhưng tôi lại thấy họ tốt bụng một cách khác thường. Như vậy bộ chưa đủ sao? Chưa ư? Dĩ nhiên là chưa rồi. Thế nhưng tôi không hề cảm thấy cần phải cảnh giác khi ở bên họ. Những trải nghiệm của tôi cho tới nay đều là những thỏa thuận có lợi, những món quà thú vị, và thậm chí cả sự hỗ trợ tìm kiếm thông tin cho công việc cá nhân của riêng tôi. Họ đối đãi với tôi không có gì ngoài lòng tốt.
 
-Đôi khi tôi tự hỏi liệu họ có động cơ thầm kín nào không. Thú thật thì hẳn là phải có rồi. Tôi đã nỗ lực hết sức mình, nhưng tôi vẫn chỉ là một mạo hiểm giả Đồng Cấp thấp kém. Những năng lực quái vật cùng khả năng thao túng Ma Lực, Khí Lực và Thần Lực cùng một lúc biến tôi thành một mẫu vật hiếm có, nhưng xét về sức mạnh thuần túy, có nhìn nhận tích cực nhất thì tôi cũng chỉ miễn cưỡng vượt qua mức của một Ngân Cấp mà thôi. Ngoài kia chẳng hề thiếu những mạo hiểm giả như tôi. Gia tộc này đâu cần phải lãng phí thời gian vào một kẻ như tôi.
+Đôi khi tôi tự hỏi liệu họ có động cơ thầm kín nào không. Thú thật thì hẳn là phải có rồi. Tôi đã nỗ lực hết sức mình, nhưng tôi vẫn chỉ là một mạo hiểm giả Đồng Cấp thấp kém. Những năng lực quái vật cùng khả năng thao túng Ma Lực, Khí Lực và Thần Lực cùng một lúc biến tôi thành một mẫu vật hiếm có, nhưng xét về sức mạnh thuần túy, có nhìn nhận tích cực nhất thì tôi cũng chỉ miễn cưỡng vượt qua mức của một Ngân Cấp mà thôi. Những mạo hiểm giả có thực lực cỡ đó ngoài kia chẳng hề thiếu. Gia tộc này đâu cần phải lãng phí thời gian vào một kẻ như tôi.
 
 Phán đoán duy nhất của tôi là họ có cùng mục tiêu với Nive và muốn bắt giữ một Ma Cà Rồng. Nhưng nếu đúng là thế, họ hẳn đã ra tay từ lâu rồi. Dù chưa từng tận mắt chứng kiến thực lực của Isaac, nhưng một con người có thể một mình giải quyết chuyện ở Đầm Lầy Tarasque chắc chắn phải rất tài giỏi. Nếu đôi bên từng giao chiến, tôi buộc phải cho rằng mình sẽ thua. Và khi biết được quy mô khối tài sản của gia tộc Latuule, Isaac không thể nào là người duy nhất chiến đấu cho họ. Họ có thể giam cầm tôi mà chẳng tốn mấy công sức.
 
@@ -134,7 +134,7 @@ Các cuộc họp hội đồng do lãnh chúa địa phương chủ trì và c�
 
 Nói cách khác, đó là một sự trao đổi. Thuốc do Lorraine bào chế bằng thuật giả kim có hiệu quả cực kỳ cao. Chắc hẳn cô ấy đã được một người quen biết rõ điều đó ngỏ lời nhờ vả.
 
-Lorraine sở hữu kỹ nghệ dồi dào, nhưng cô ấy chỉ bán những món hàng thông thường nhất cho các hiệu thuốc và hội mạo hiểm giả ở Maalt. Cách duy nhất để có được thuốc đặc chế từ cô ấy là thương lượng, nhưng cô ấy luôn đặt việc nghiên cứu lên hàng đầu. Lorraine thường xuyên từ chối các lời yêu cầu; chỉ vào những dịp như thế này cô ấy mới chấp thuận.
+Lorraine sở hữu kỹ nghệ dồi dào, nhưng cô ấy chỉ bán những món hàng thông thường nhất cho các hiệu thuốc và Hội Mạo Hiểm Giả ở Maalt. Cách duy nhất để có được thuốc đặc chế từ cô ấy là thương lượng, nhưng cô ấy luôn đặt việc nghiên cứu lên hàng đầu. Lorraine thường xuyên từ chối các lời yêu cầu; chỉ vào những dịp như thế này cô ấy mới chấp thuận.
 
 "Ngón nghề của cô đôi khi quả thực rất tiện lợi đấy. Đáng ra tôi nên học thuật giả kim mới phải." Nếu vậy thì biết đâu hồi còn là một mạo hiểm giả Đồng Cấp bình thường, tôi đã không đến mức nghèo túng như thế. Ngay lúc đó thì suy nghĩ ấy nghe rất có lý, nhưng Lorraine lại lắc đầu.
 
@@ -142,7 +142,7 @@ Lorraine sở hữu kỹ nghệ dồi dào, nhưng cô ấy chỉ bán những m
 
 Chà, hồi đó tôi thừa biết điều ấy rồi. Đó là lý do vì sao tôi chưa từng học nó, dẫu có quen biết một nhà giả kim bậc thầy.
 
-Thuật giả kim không hẳn là bất khả thi nếu thiếu Ma Lực, nhưng nếu muốn kiếm lời từ nó thì bạn cần phải có một lượng nhất định. Bạn có thể dùng ma thạch để bổ sung Ma Lực cho mình mỗi lần làm, nhưng chi phí và thời gian đầu tư sẽ ngày càng đắt đỏ. Nếu phải đến mức ấy thì đi săn quái vật và giao hàng còn hiệu quả hơn.
+Thuật giả kim không hẳn là bất khả thi nếu thiếu Ma Lực, nhưng nếu muốn kiếm lời từ nó thì cần phải có một lượng nhất định. Người ta có thể dùng Ma Tinh để bổ sung Ma Lực cho mình mỗi lần làm, nhưng chi phí và thời gian đầu tư sẽ ngày càng đắt đỏ. Nếu phải đến mức ấy thì đi săn quái vật và giao hàng còn hiệu quả hơn.
 
 "Vậy rốt cuộc tại sao Laura lại mời tôi?"
 
