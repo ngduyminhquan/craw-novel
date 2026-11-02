@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T23:53:29Z",
+  "generatedAt": "2026-11-02T23:58:35Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2999,6 +2999,12 @@
           "title": "Chương 141: Tập 6 Chương 3 - Bi Kịch Và Nguồn Gốc (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_141.md",
           "sha": "1109b10452a70c9b58e3b312fda89da0fce47f59"
+        },
+        {
+          "number": 142,
+          "title": "Chương 142: Tập 6 Chương 3 - Bi Kịch Và Nguồn Gốc (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_142.md",
+          "sha": "f832cd54b3093d1f86ea1acea32ad966c34ce984"
         }
       ]
     },

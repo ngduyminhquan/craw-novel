@@ -68,6 +68,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Pravda |  | Pravda | Mẹ của Trưởng Làng Ingo Faina, bà nuôi của Rentt, chị em gái với bà lão Gharb | #139 |
 | Jinlin |  | Jinlin | Con gái Trưởng Làng Ingo Faina, bạn thanh mai trúc mã thuở nhỏ của Rentt | #139 |
 | Tilya |  | Tilya | Nàng tiên (fairy) cao khoảng 15cm có cánh chuồn chuồn, được Jinlin và Rentt cứu | #140 |
+| Wilfried Rucker | Wilfried | Wilfried Rucker | Mạo hiểm giả Mithril Cấp cứu mạng Rentt năm 5 tuổi, người truyền cảm hứng cho ước mơ của Rentt | #142 |
+| Azel Goth | Azel | Azel Goth | Thương nhân lữ hành kiêm mạo hiểm giả đi cùng Wilfried, dự định lập Thương hội Goth | #142 |
 
 ## Chi tiết
 
@@ -511,3 +513,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, nàng tiên (fairy) cao khoảng 15cm với trang phục sặc sỡ và đôi cánh như chuồn chuồn.
 - Đặc điểm: Bị mắc áo vào ngọn cành cây cao tại thị trấn buôn bán, được Jinlin trèo lên gỡ và Rentt đỡ rơi; hứa sẽ đền ơn nếu có dịp tái ngộ rồi vội vã bay đi; chỉ người sở hữu Ma Lực mới có thể nhìn thấy.
 - Xuất hiện từ: #140 (qua lời kể của Rentt).
+
+### Wilfried Rucker
+- Giới tính, vai trò: Nam, mạo hiểm giả Mithril Cấp.
+- Đặc điểm: Sử dụng thanh đại kiếm to bản khổng lồ; tốt bụng, đĩnh đạc, thấu hiểu tâm lý trẻ thơ; kịp thời giải cứu Rentt trước vuốt sói bạc hung hãn năm Rentt 5 tuổi; ở lại Hathara giúp an táng và khuyên nhủ, định hướng học tập cho Rentt; là hình mẫu lý tưởng thôi thúc Rentt đặt mục tiêu trở thành mạo hiểm giả Mithril Cấp.
+- Xuất hiện từ: #142 (qua hồi ức của Rentt).
+
+### Azel Goth
+- Giới tính, vai trò: Nam, thương nhân lữ hành kiêm mạo hiểm giả bán thời gian.
+- Đặc điểm: Ngoại hình tuấn tú, tóc dài, phong thái thanh lịch như quý tộc hoặc tư tế; là người đánh cỗ xe ngựa đồng hành cùng Wilfried; nhiệt tình dùng vải vóc đắt tiền bọc thi thể người thân Rentt mang về Hathara; ấp ủ ước mơ thành lập Thương hội Goth.
+- Xuất hiện từ: #142 (qua hồi ức của Rentt).

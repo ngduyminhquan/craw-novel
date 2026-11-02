@@ -146,7 +146,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | reviewed |  |
 | 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | reviewed |  |
 | 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | reviewed |  |
-| 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | todo |  |
+| 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | done |  |
 | 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | todo |  |
 | 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | todo |  |
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -692,3 +693,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#139] Từ 'Papa' Rentt dùng để gọi cha nuôi Ingo khi ở trước mộ cha mẹ ruột — tạm giữ nguyên 'Papa' theo đúng phân tích của Lorraine về sự phân biệt giữa 'Papa' và 'Dad/cha' (phương án khác: dịch là 'cha nuôi' hoặc 'cha Ingo'). Tạm dùng trong bản dịch: 'Papa'. → Giữ nguyên 'Papa' để giữ nguyên sự phân biệt sắc thái giữa cách gọi cha nuôi ('Papa') và cha ruột ('cha' / 'Dad') mà Lorraine chỉ ra trong chương (orchestrator) (orchestrator)
 - [#140] Dịch chủng loài 'fairy' (và nàng tiên Tilya) — tạm chọn 'nàng tiên' cho phù hợp bối cảnh cổ tích tuổi thơ và phân biệt với 'tinh linh' (spirit) (phương án khác: 'tiểu tinh linh', 'tiên tộc'). Tạm dùng trong bản dịch: 'nàng tiên'. → Giữ 'nàng tiên' (phân biệt rõ với 'tinh linh' / spirit đã dùng trong truyện) (orchestrator)
 - [#141] Dịch 'changeling' (sinh vật tráo đổi trong truyền thuyết fairy) — tạm chọn 'đứa trẻ thế thân' (phương án khác: 'đứa trẻ tráo đổi', 'con tráo'). → Giữ 'đứa trẻ thế thân' (orchestrator)
+- [#142] Xưng hô của Wilfried Rucker (mạo hiểm giả người lớn) và Azel Goth (thương nhân trẻ tuổi) với Rentt (5 tuổi): tạm dùng Wilfried xưng 'chú' - gọi 'cháu/Rentt', Rentt xưng 'cháu' - gọi 'chú'; Azel xưng 'anh' - gọi 'em/Rentt', Rentt xưng 'em' - gọi 'anh' (phương án khác: Wilfried xưng 'ta' - gọi 'nhóc/cháu'; Azel xưng 'tôi' - gọi 'cậu/nhóc'). → Giữ Wilfried xưng 'chú' gọi 'cháu / nhóc / Rentt' (Rentt xưng 'cháu' gọi 'chú') và Azel xưng 'anh' gọi 'em / Rentt' (Rentt xưng 'em' gọi 'anh') (orchestrator)

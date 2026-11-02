@@ -56,6 +56,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pravda | Pravda / bà / bà lão | 139 | Mẹ của Trưởng Làng Ingo, bà nuôi của Rentt |
 | Jinlin | Jinlin / cô bé | 139 | Con gái Trưởng Làng Ingo, bạn thanh mai trúc mã của Rentt |
 | Tilya | Tilya / nàng tiên / cô | 140 | Nàng tiên tí hon được Jinlin và Rentt cứu |
+| Wilfried Rucker | Wilfried / người đàn ông | 142 | Mạo hiểm giả Mithril Cấp cứu mạng Rentt năm 5 tuổi |
+| Azel Goth | Azel / chàng trai trẻ / người đánh xe | 142 | Thương nhân lữ hành đi cùng Wilfried |
 
 ## Giữa các nhân vật
 
@@ -229,3 +231,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jinlin | Tilya | tớ | cậu | 140 | Cô bé 5 tuổi hỏi han nàng tiên tí hon |
 | Tilya | Jinlin | tôi | cậu | 140 | Nàng tiên cảm ơn cô bé cứu mạng |
 | Rentt Faina | Tilya | tôi | cô / Tilya | 140 | Rentt nói chuyện với nàng tiên |
+| Wilfried Rucker | Rentt Faina | chú | cháu / nhóc / Rentt | 142 | Mạo hiểm giả người lớn cứu mạng và an ủi đứa bé 5 tuổi |
+| Rentt Faina | Wilfried Rucker | cháu | chú / chú Wilfried | 142 | Đứa trẻ 5 tuổi nói chuyện với mạo hiểm giả cứu mạng mình |
+| Azel Goth | Rentt Faina | anh | em / Rentt | 142 | Chàng trai trẻ thương nhân nói chuyện thân mật với đứa trẻ 5 tuổi |
+| Rentt Faina | Azel Goth | em | anh / anh Azel | 142 | Đứa trẻ 5 tuổi nói chuyện với người đánh xe trẻ tuổi |
+| Wilfried Rucker | Azel Goth | tôi | cậu / Azel | 142 | Bạn đồng hành mạo hiểm giả nói chuyện với thương nhân lữ hành |
+| Azel Goth | Wilfried Rucker | tôi | anh / Wilfried | 142 | Thương nhân lữ hành nói chuyện với mạo hiểm giả thuê xe |

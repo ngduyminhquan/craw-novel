@@ -839,6 +839,13 @@ Cỗ xe bất ngờ bị lật nhào dữ dội; Rentt và Jinlin chui ra khỏi
 Rentt kéo Jinlin tháo chạy thục mạng nhưng bị con sói đuổi kịp và dồn vào đường cùng; khi con sói vung trảo định kết liễu Rentt, Jinlin đã xô anh ra và lấy thân mình đỡ trọn đòn chí mạng, rồi trút hơi thở cuối cùng trong vòng tay anh sau lời trăn trối đau đớn.
 Quẫn trí và đau xót tột cùng, Rentt nhặt cành cây lao vào quyết tử với con sói và đâm xước nướu nó; chương kết thúc khi một âm thanh va chạm kim loại vang lên đỡ đòn cứu mạng anh trước hàm răng quái vật.
 
+## 142
+Wilfried Rucker – một mạo hiểm giả Mithril Cấp dùng đại kiếm – kịp thời can thiệp và chém trọng thương con sói bạc hắc ám khiến nó phải quay đầu tháo chạy.
+Wilfried dịu dàng an ủi đứa trẻ Rentt đang quẫn trí, rồi cùng người bạn đồng hành là thương nhân lữ hành Azel Goth bọc thi thể cha mẹ Rentt, bà Pravda và Jinlin chở về làng Hathara an táng.
+Sau tang lễ và khi được vợ chồng trưởng làng Ingo chính thức nhận nuôi, Rentt tìm gặp Wilfried xin lời khuyên làm mạo hiểm giả để hoàn thành ước mơ của Jinlin; Wilfried chân thành chỉ dẫn anh các kiến thức nền tảng cần chuẩn bị trong 10 năm tới (đọc viết, số học, thảo dược, kỹ năng săn bắn và sinh tồn).
+Wilfried và Azel từ biệt làng (Azel ấp ủ ước mơ thành lập Thương hội Goth); Rentt thề quyết tâm trở thành mạo hiểm giả Mithril Cấp và bắt đầu chuỗi ngày kiên trì tầm sư học đạo khắp làng Hathara.
+
+
 
 
 

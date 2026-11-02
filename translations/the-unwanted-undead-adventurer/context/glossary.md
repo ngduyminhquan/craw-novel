@@ -262,3 +262,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | fairy | fairies; Fairy; Fairies | nàng tiên | chủng tộc | 140 | Chủng sinh vật tí hon có cánh, chỉ người có ma lực mới nhìn thấy được một số phân loài (妖精) |
 | saria flower | saria flowers; Saria flower; Saria flowers | hoa saria | vật phẩm | 141 | Loài hoa theo mùa ở Hathara chỉ nở dưới ánh trăng tròn |
 | changeling | changelings | đứa trẻ thế thân | chủng tộc | 141 | Sinh vật/đứa trẻ nàng tiên bỏ lại tráo đổi với trẻ con loài người (取り替え子) |
+| broadsword | broadswords | đại kiếm | vật phẩm | 142 | Kiếm bản to, kích thước đồ sộ |
+| Alga | village of Alga | Làng Alga | địa danh | 142 | Ngôi làng lân cận Làng Hathara |
+| Mul | village of Mul | Làng Mul | địa danh | 142 | Ngôi làng lân cận Làng Hathara |
+| Goth Company | the Goth Company | Thương hội Goth | khác | 142 | Thương hội do thương nhân Azel Goth dự định thành lập (ゴス商会) |
