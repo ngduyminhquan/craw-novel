@@ -1071,3 +1071,10 @@ Một học giả quen biết của Lorraine gây ra sự cố rò rỉ khí ngu
 Đến nơi, Rentt tiến vào tòa nhà và phát hiện các quái vật bị biến đổi là những con Slime mô phỏng hình dạng và chuyển động của Goblin và Orc một cách chuẩn xác; nhận thấy chúng không quá mạnh nhưng tiềm ẩn nguy cơ sinh sôi ngoài tự nhiên, Rentt bọc Khí Lực lên kiếm phá hủy toàn bộ lõi của chúng.
 Gặp lại nữ học giả bên ngoài thông báo hoàn thành nhiệm vụ, Rentt lỡ lời ngỏ ý sẵn sàng giúp nếu có sự cố tương tự khiến cô ta hào hứng đòi làm nghiên cứu về cơ thể anh; Rentt hoảng hốt cắm đầu chạy thục mạng về nhà Lorraine, ngán ngẩm nhận ra người này cũng có máu nghiên cứu điên cuồng chẳng kém gì cô bạn thân.
 
+## 182
+Hội Trưởng Wolf Hermann nhờ Rentt tham gia lùng sục thị trấn Maalt để truy tìm Thi Quỷ và Ma Cà Rồng gây náo loạn, đồng thời tin tưởng tuyệt đối vào nhân cách của anh bất chấp thân phận Undead; Rentt xin hành động độc lập và lập tức chạy đến Cô Nhi Viện Thứ Hai Maalt.
+Tại đây, anh hội ngộ Alize và Sơ Lillian đang vũ trang phòng thủ; sau khi khuyên Lillian ở lại bảo vệ lũ trẻ mồ côi thay vì dùng Thần Lực ra ngoài tìm quái vật cải trang, Rentt xuống tầng hầm tìm quyến thuộc Edel.
+Rentt rót Ma Lực cùng Khí Lực đánh thức Edel đang ngất xỉu và nhận được hình ảnh thần giao cách cảm từ một chú chuột thuộc hạ bị sát hại, qua đó nhận diện được kẻ thủ ác là con Ma Cà Rồng anh từng lướt qua ở Mê Cung Tân Nguyệt trong vụ các tân binh mất tích.
+Được Edel báo tin bầy chuột đã nắm bắt vị trí đám Thi Quỷ quấy nhiễu khắp thị trấn, Rentt quyết định ưu tiên đi săn Thi Quỷ trước và bố trí đàn chuột tay chân của Edel bảo vệ cô nhi viện, khiến Lillian thán phục ngỡ anh là người thuần hóa quái vật tài ba.
+
+
