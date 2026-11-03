@@ -18,7 +18,7 @@ Dù sao thì tôi cũng đã kiểm tra xong cơ thể và quyết định tìm 
 
 Tôi cúi xuống nhìn và thấy Edel đang đứng bằng hai chân sau, ngước lên nhìn tôi. Tôi thoáng nghĩ có khi nào nhóc cũng tiến hóa rồi chăng, nhưng xem chừng chẳng có gì thay đổi nhiều ở nó cả. Hay có lẽ chỉ là ngoại hình của nó không đổi thôi? Nhưng theo những gì tôi thấy thì nhóc vẫn chỉ là một con Puchi Suri to lớn như thường lệ.
 
-Khi tôi tự hỏi vì sao nó lại đứng đây đợi mình, nó liền trả lời rằng nó vừa đi thám thính dinh thự Latuule và mới quay trở lại. Hóa ra chẳng phải vì nó chu đáo muốn tránh làm tôi thức giấc gì cho cam. Tôi không để bụng, nhưng tôi nghĩ bụng Edel hoàn toàn có thể thám thính dinh thự Latuule vào bất kỳ lúc nào khác mà.
+Khi tôi tự hỏi vì sao nó lại đứng đây đợi mình, nó liền trả lời rằng nó vừa đi thám thính dinh thự Latuule và mới quay trở lại. Hóa ra chẳng phải vì nó chu đáo muốn tránh làm tôi thức giấc gì cho cam. Tôi không để bụng, nhưng tự nghĩ rằng Edel hoàn toàn có thể thám thính dinh thự Latuule vào bất kỳ lúc nào khác mà.
 
 Rồi Edel nói với tôi rằng bình thường thì việc đột nhập vào dinh thự này là bất khả thi. Nó đã cố tìm đường vượt qua mê cung hàng rào, hoặc tìm cách đào hầm chui qua bên dưới, nhưng dù làm cách nào thì cũng đều bị chặn đứng bên ngoài. Trước đây tôi từng thắc mắc vì sao một kẻ giàu có ở một thị trấn nhỏ lại sở hữu một hệ thống phòng thủ đáng kinh ngạc đến mức này, nhưng giờ tôi đã biết Laura và Isaac đều là Thượng Cấp Ma Cà Rồng. Thiết lập nên thứ như vậy đối với họ là chuyện quá đỗi dễ dàng.
 

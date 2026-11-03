@@ -80,7 +80,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Tita Well | Tita / cậu thiếu niên / cậu | 184 | Mạo hiểm giả Thiết Cấp bị biến thành Thi Quỷ |
 | Shumini | Shumini / gã / người đàn ông / anh ta | 187 | Kẻ bí ẩn giật dây nhóm Ma Cà Rồng gây rối ở Mê Cung Tân Nguyệt và Maalt |
 | Adela | Adela / Cha Adela / người đàn ông / anh ta | 198 | Tư tế Giáo Hội Giả Kim tại Maalt |
-| Fazira | Fazira / người đàn ông / anh ta | 198 | Mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir |
+| Fazira | Fazira / người đàn ông / anh ta / ông / ông ấy | 198 | Mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir |
 | Mimir | Mimir / cô bé | 198 | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira |
 
 ## Giữa các nhân vật

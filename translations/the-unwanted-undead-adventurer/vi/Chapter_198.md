@@ -10,7 +10,7 @@ Tôi rảo bước đến nơi cư dân thị trấn Maalt tập kết rác th�
 
 "Ồ, mọi người vất vả rồi. Hôm nay gom được nhiều đồ ghê. A, Rentt," một vị tư tế cất tiếng khi vừa bước tới.
 
-Anh ta là Adela, một tư tế của Giáo Hội Giả Kim đến để thu gom các nguyên liệu kim loại này. Giáo Hội Giả Kim tin rằng bản thân các kỹ thuật giả kim là thần thánh và xứng đáng được tôn thờ. Họ có đôi chút kỳ lạ. Vị thần của họ là Dayla, Thần Giả Kim. Phần lớn tín đồ của họ là người bình thường, giống như bao tôn giáo khác, nhưng các tư tế của họ lại là những nhà giả kim cao cấp. Đó là lý do họ chuộng việc quyên góp nguyên liệu hơn là tiền bạc. Lorraine không phải tín đồ của tôn giáo này, nhưng cùng là nhà giả kim, thỉnh thoảng cô cũng đem cho họ những thứ mình không cần dùng đến. Nhưng người thường xuyên mang đồ đến bãi tập kết này lại là tôi, nên tôi quen mặt Adela hơn cả cô. Adela là một nhà giả kim khá có tài, nhưng tôi vẫn chưa từng tận mắt chứng kiến anh ta trổ tài năng lực của mình.
+Anh ta là Adela, một tư tế của Giáo Hội Giả Kim đến để thu gom các nguyên liệu kim loại này. Giáo Hội Giả Kim tin rằng bản thân các kỹ thuật giả kim là thần thánh và xứng đáng được tôn thờ. Họ có đôi chút kỳ lạ. Vị thần của họ là Dayla, Thần Giả Kim. Phần lớn tín đồ của họ là người bình thường, giống như bao tôn giáo khác, nhưng các tư tế của họ lại là những nhà giả kim cao cấp. Đó là lý do họ chuộng việc quyên góp nguyên liệu hơn là tiền bạc. Lorraine không phải tín đồ của tôn giáo này, nhưng cùng là nhà giả kim, thỉnh thoảng cô cũng đem cho họ những thứ mình không cần dùng đến. Nhưng người thường xuyên mang đồ đến bãi tập kết này lại là tôi, nên tôi quen mặt Adela hơn cả cô. Adela là một nhà giả kim khá có tài, nhưng tôi vẫn chưa từng tận mắt chứng kiến anh ta thể hiện tài năng của mình.
 
 "Chào Cha Adela," tôi cất tiếng rồi cúi đầu chào.
 
@@ -96,7 +96,7 @@ Một hôm nọ, có tiếng gõ cửa nhà Lorraine và ai đó lớn tiếng g
 
 "Bố của em ấy ạ. Em ấy kể hai bố con cùng đến Maalt, nhưng đột nhiên bị lạc mất bố," Alize giải thích.
 
-"Anh hiểu rồi. Anh sẽ giúp."
+"Tôi hiểu rồi. Tôi sẽ giúp."
 
 "Oa, cảm ơn anh! Chị đã bảo với em rồi mà, Mimir? Anh Rentt sẽ tìm bố cho em mà."
 
@@ -118,7 +118,7 @@ Tôi để hai cô bé vào trong nhà Lorraine để hỏi han Mimir. Sau đó 
 
 ◆◇◆◇◆
 
-"Alize, anh đến rồi đây," hai tiếng sau, tôi cất tiếng khi ghé qua cô nhi viện.
+"Alize, tôi đến rồi đây," hai tiếng sau, tôi cất tiếng khi ghé qua cô nhi viện.
 
 "A, anh Rentt! Mimir ơi, anh Rentt đến rồi này!"
 
@@ -136,7 +136,7 @@ Bố của Mimir là một mạo hiểm giả Ngân Cấp từ Vistelya tới, v
 
 "Ôi, em cũng không biết nữa." Mimir có vẻ không muốn làm phiền cô nhi viện thêm nữa.
 
-"Không sao đâu mà! Dạo này cô nhi viện bọn chị đâu có thiếu đồ ăn nữa! Thỉnh thoảng Sơ Lillian còn đi săn ma vật nữa cơ!" Alize hào hứng nói.
+"Không sao đâu mà! Dạo này cô nhi viện bọn chị đâu có thiếu đồ ăn nữa! Thỉnh thoảng Sơ Lillian còn đi săn quái vật nữa cơ!" Alize hào hứng nói.
 
 Tôi biết căn bệnh của bà ấy đã được chữa khỏi, nhưng chưa bao giờ nghĩ bà lại khỏe khoắn đến mức ấy. Mà thôi, bà ấy sở hữu Thần Lực, nên nếu muốn thì bà hoàn toàn có thể đảm đương công việc của một mạo hiểm giả bình thường.
 
@@ -154,9 +154,9 @@ Màn đêm buông xuống, đã đến lúc các mạo hiểm giả trở về h
 
 "Có chuyện gì xảy ra thế?" tôi hỏi Lorraine.
 
-"Ừ. Một con ma vật đặc thù xuất hiện và hóa đá một thành viên trong tổ đội của chúng tôi. Các phép chữa trị thông thường hay Thần Lực đều không thể giải trừ được cho anh ta, nên chúng tôi phải quay về tìm nguyên liệu điều chế thuốc. Giờ chúng tôi cần phải phối trộn chúng lại với nhau."
+"Ừ. Một con quái vật đặc thù xuất hiện và hóa đá một thành viên trong tổ đội của chúng tôi. Các phép chữa trị thông thường hay Thần Lực đều không thể giải trừ được cho anh ta, nên chúng tôi phải quay về tìm nguyên liệu điều chế thuốc. Giờ chúng tôi cần phải phối trộn chúng lại với nhau."
 
-Hóa đá có thể do hơi thở ma vật, ma pháp hoặc lời nguyền gây ra, nhưng thông thường hóa giải chuyện đó tương đối dễ dàng. Tình huống này chắc hẳn là một ngoại lệ. Dẫu bọn họ đang hoảng loạn, Lorraine lại không hề nói rằng việc chữa trị là bất khả thi, nên chắc chắn trong đầu cô đã có sẵn phương án.
+Hóa đá có thể do hơi thở quái vật, ma pháp hoặc lời nguyền gây ra, nhưng thông thường hóa giải chuyện đó tương đối dễ dàng. Tình huống này chắc hẳn là một ngoại lệ. Dẫu bọn họ đang hoảng loạn, Lorraine lại không hề nói rằng việc chữa trị là bất khả thi, nên chắc chắn trong đầu cô đã có sẵn phương án.
 
 "Tôi hiểu rồi, vậy để tôi phụ một tay," tôi nói. "Chắc chắn tôi sẽ giúp ích được chút gì đó."
 
@@ -180,7 +180,7 @@ Chúng tôi thống nhất ý kiến rồi cùng nhau tới nhà thờ. Cha Adel
 
 "Hai người cứ tự nhiên dùng đi," anh ta nói. "Mà mạo hiểm giả gặp nạn là Fazira phải không? Anh ta đã được đưa đến Viện Trị Liệu của chúng tôi rồi."
 
-"Tôi biết anh ta được đưa tới Viện Trị Liệu, nhưng không ngờ nơi đó lại do các người quản lý," Lorraine nói. "Vậy thì tiện quá rồi."
+"Tôi biết anh ta được đưa tới Viện Trị Liệu, nhưng không ngờ nơi đó lại do bên giáo hội của anh quản lý," Lorraine nói. "Vậy thì tiện quá rồi."
 
 Adela cung cấp nguyên liệu, và Lorraine bắt tay ngay vào những bước cuối cùng để điều chế thuốc.
 
