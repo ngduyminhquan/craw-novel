@@ -1043,3 +1043,9 @@ Rentt và Lorraine xung phong dẫn đường cho bá tước đến Rừng Cổ
 Tại Rừng Cổ Đại Rasta, nhóm mạo hiểm giả chạm trán một con Ent Cổ Đại khổng lồ; Rentt áp sát làm mồi nhử quấy rối, Lorraine phô diễn kỹ năng kiểm soát ma pháp lửa đỉnh cao thiêu rụi cành gai mà không làm cháy lá dược liệu rồi dùng ma pháp dây leo trói chặt quái vật mở đường; Hayden chớp thời cơ đâm kiếm xuyên qua điểm yếu ở trán kết liễu con quái vật.
 Sau khi thu hoạch lượng lớn lá Ent Cổ Đại, Bá tước Robista nhận ra ý đồ của Viroget là muốn ông dập tắt nguy cơ dịch bệnh bùng phát, bày tỏ lòng biết ơn sâu sắc và bắt tay Lorraine cùng Rentt trước khi rời Maalt trở về vương đô.
 Trở về nhà ăn tối, Lorraine cảnh báo Rentt vì anh suýt để lộ năng lực Undead khi chiến đấu bên cạnh mạo hiểm giả Kim Cấp như Hayden; một tháng sau, Bá tước Robista gửi thư báo tin dịch bệnh tại lãnh địa đã bị dập tắt hoàn toàn nhờ phương thuốc được sản xuất hàng loạt, kèm thư cảm tạ từ tiểu thư Elaine, và Rentt cùng Lorraine nâng ly ăn mừng.
+
+## 177
+Rentt nhận ủy thác kỳ lạ từ Dylas, một thợ thủ công đến từ thị trấn Kikal, để bảo vệ một con Sói Pha Lê mẹ cùng ba con non mới sinh khỏi hai mạo hiểm giả đang lăm le săn trộm.
+Lần theo mùi máu, Rentt tiếp cận hai mạo hiểm giả Đồng Cấp bị thương; bằng sự khéo léo và cảnh báo thật lòng về sự nguy hiểm khi đàn sói có sói đực bảo vệ, anh thuyết phục họ tự nguyện từ bỏ ý định và quay về thị trấn an toàn.
+Sau khi hai người rời đi, Rentt nhận ra Dylas đeo mặt dây chuyền pha lê xanh lục quý hiếm của Sói Pha Lê mang thai và biết được Dylas từng nuôi nấng con sói từ nhỏ như một người bạn.
+Kết thúc ủy thác trong hòa bình, Rentt rủ Dylas cùng về thị trấn kiểm tra tình hình hai mạo hiểm giả và để Dylas đãi chầu rượu chuộc lỗi vì đã ngáng đường làm ăn của họ.

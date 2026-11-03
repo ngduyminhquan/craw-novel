@@ -94,6 +94,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Curt |  | Curt | Tên giả Bá tước Robista tự xưng ở quán rượu Maalt | #173 |
 | Hayden War | Hayden | Hayden War | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista | #173 |
 | Elaine | Lady Elaine | Elaine | Con gái của Bá tước Robista, mắc chứng bệnh lạ đốm tím sẫm | #174 |
+| Dylas |  | Dylas | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt | #177 |
 
 ## Chi tiết
 
@@ -630,4 +631,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Mắc chứng bệnh nan y kỳ lạ khoảng một tháng nay, trên mặt và khắp cơ thể xuất hiện các đốm tím sẫm như vết mực; sức khỏe suy giảm dần dần, dù thỉnh thoảng vẫn đủ sức đi dạo trong vườn; là động lực khiến Bá tước Robista đích thân bí mật tới Maalt tìm kiếm dược liệu theo lời sấm truyền.
 - Trạng thái tính đến chương 176: Được chữa khỏi bệnh hoàn toàn nhờ phương thuốc bào chế từ lá Ent Cổ Đại kết hợp thảo dược Maalt; gửi thư cảm tạ đến Rentt và Lorraine.
 - Xuất hiện từ: #174.
+
+### Dylas
+- Giới tính, vai trò: Nam, thợ thủ công (artisan) đến từ thị trấn Kikal, thân chủ của Rentt Faina.
+- Đặc điểm: Thân thiện, tôn trọng sinh mệnh và động vật; từng nhặt và nuôi dưỡng một con Sói Pha Lê cái bị thương ở ngoại vi thị trấn từ nhỏ; xem con sói như bạn bè thay vì thú thuần hóa; được con sói tặng một viên pha lê màu xanh lục lúc nó mang thai và đeo làm mặt dây chuyền.
+- Trạng thái tính đến chương 177: Đến khu rừng bảo vệ Sói Pha Lê mẹ và bầy con mới sinh; tình cờ nghe được hai mạo hiểm giả bàn kế hoạch săn trộm sói con nên thuê Rentt ngăn cản; cùng Rentt khuyên giải hai mạo hiểm giả rút lui trong hòa bình, sau đó mời Rentt và hai mạo hiểm giả kia đi uống rượu.
+- Xuất hiện từ: #177.
 

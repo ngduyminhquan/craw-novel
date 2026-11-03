@@ -74,6 +74,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Count Curtis Nal Robista | Bá tước Curtis Nal Robista / Bá tước Robista / ông / ông ấy | 173 | Quý tộc đại lãnh chủ quyền thế gần vương đô Yaaran |
 | Hayden War | Hayden / Hayden War / anh / anh ấy | 173 | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista |
 | Elaine | Elaine / tiểu thư Elaine / cô bé | 174 | Con gái của Bá tước Curtis Nal Robista |
+| Dylas | Dylas / người thợ thủ công / anh ta | 177 | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt |
 
 ## Giữa các nhân vật
 
@@ -306,3 +307,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Count Curtis Nal Robista | Viroget | tôi | ngài | 175 | Tín đồ nói chuyện tôn kính với thần linh / thần tinh linh |
 | Lorraine Vivie | Hayden War | tôi | anh / Hayden | 176 | Hai mạo hiểm giả cấp cao trao đổi chiến thuật phối hợp |
 | Hayden War | Lorraine Vivie | tôi | cô / Lorraine | 176 | Mạo hiểm giả Kim Cấp nói chuyện nể phục với nữ học giả ma thuật Ngân Cấp |
+| Rentt Faina | Dylas | tôi | anh / Dylas | 177 | Thân chủ và mạo hiểm giả nhận ủy thác, trò chuyện thân mật |
+| Dylas | Rentt Faina | tôi | cậu / Rentt | 177 | Thân chủ giao tiếp cởi mở, thân thiện với mạo hiểm giả |

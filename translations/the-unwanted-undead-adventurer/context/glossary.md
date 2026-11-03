@@ -340,3 +340,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | magic eyes | magic eye | ma nhãn | khác | 176 | Đôi mắt ma thuật nhìn thấy dòng chảy ma lực hoặc năng lực ma thuật ẩn giấu |
 | Mandragora | mandragora | Mandragora | quái vật | 176 | Quái vật thực vật hình người nổi tiếng với tiếng thét chói tai |
 | Chiweb | village of Chiweb | Chiweb | địa danh | 175 | Ngôi làng không xa Maalt nơi căn bệnh do côn trùng ma vật thường xuất hiện |
+| crystal wolf | crystal wolves; Crystal wolf; Crystal wolves | Sói Pha Lê | quái vật | 177 | Quái vật dạng sói khổng lồ phủ đầy tinh thể pha lê lấp lánh (クリスタルウルフ) |
+| Kikal |  | Kikal | địa danh | 177 | Thị trấn quê hương của thợ thủ công Dylas |
