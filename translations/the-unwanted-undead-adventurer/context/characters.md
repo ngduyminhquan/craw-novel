@@ -97,6 +97,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dylas |  | Dylas | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt | #177 |
 | Liesse |  | Liesse | Nữ diễn viên chính của đoàn kịch lưu động đến Maalt | #179 |
 | Rota |  | Rota | Người phụ nữ trung niên xuất thân từ gia đình bình thường ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế | #180 |
+| Tita Well | Tita | Tita Well | Mạo hiểm giả Thiết Cấp trẻ tuổi ở Maalt, bị biến thành Thi Quỷ và bị Wolf hạ sát | #184 |
 
 ## Chi tiết
 

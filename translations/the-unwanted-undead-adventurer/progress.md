@@ -188,7 +188,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | reviewed |  |
 | 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | reviewed |  |
 | 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | reviewed |  |
-| 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | todo |  |
+| 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | done |  |
 | 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | todo |  |
 | 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | todo |  |
 | 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -771,3 +772,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#182] Ký tự số ' 4' ở cuối đoạn 26 của raw ('...fair share of battles. 4') ngay trước ảnh ch182-09 — tạm lược bỏ vì là mốc neo ảnh minh họa từ bản raw epub (phương án khác: giữ nguyên số '4' ở cuối đoạn). Tạm dùng trong bản dịch: lược bỏ số '4'. → Chốt lược bỏ số '4' (mốc neo ảnh epub) (orchestrator)
 - [#183] Dịch 'saint' khi chỉ Myullias Raiza — tạm chọn 'Thánh Nữ' (nhất quán với danh hiệu nữ và tiền lệ trong characters.md; phương án khác: dùng 'Thánh Giả' theo mục Saint trong glossary). → Chốt 'Thánh Nữ' khi chỉ Myullias Raiza (nhất quán với characters.md) (orchestrator)
 - [#183] Xưng hô Nive Maris và Rentt Faina từ #183 — Nive bảo cứ gọi thẳng tên như đồng nghiệp mạo hiểm giả; tạm chốt Rentt xưng 'tôi' gọi 'Nive / cô', Nive xưng 'tôi' gọi 'Rentt / cậu Rentt' (phương án khác: giữ cách gọi khách sáo 'Tiểu thư Nive' và 'ngài Rentt' ở #104). → Chốt Rentt (tôi - Nive / cô), Nive (tôi - Rentt / cậu Rentt) từ #183 (orchestrator)
+- [#184] Tiêu đề arc/chương 'The State of Maalt (3)' — tạm chọn 'Tập 8 Chương 1 - Tình Hình Maalt (3)' đồng bộ với #182 và #183 (phương án khác: 'Tập 8 Chương 1 - Tình Trạng Của Maalt (3)', 'Tập 8 Chương 1 - Cục Diện Maalt (3)'). Tạm dùng trong bản dịch: 'Tập 8 Chương 1 - Tình Hình Maalt (3)'. → Chốt 'Tập 8 Chương 1 - Tình Hình Maalt (3)' (orchestrator)
+- [#184] Xưng hô giữa người đàn ông bí ẩn ở Mê Cung Tân Nguyệt và nhóm trẻ em điều khiển Thi Quỷ — tạm chọn người đàn ông xưng 'ta' gọi 'các ngươi', lũ trẻ gọi 'ngài' xưng 'ạ' (phương án khác: người đàn ông xưng 'ta' gọi 'các con / các cháu'). Tạm dùng trong bản dịch: người đàn ông (ta - các ngươi), lũ trẻ (ngài - con / ạ). → Chốt người đàn ông (ta - các ngươi), lũ trẻ (con - ngài / ạ) (orchestrator)

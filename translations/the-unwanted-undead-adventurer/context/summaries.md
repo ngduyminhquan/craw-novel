@@ -1083,5 +1083,11 @@ Khi con quái vật định bỏ chạy tấn công đám đông, mạo hiểm g
 Rentt chém đứt tay còn Nive dùng móng vuốt chém rụng đầu rồi niệm chú thiêu rụi con quái vật thành tro bụi và cát; Nive hào phóng tặng viên Ma Tinh Thi Quỷ đắt giá cho Rentt làm tiền thù lao.
 Thánh Nữ Myullias Raiza của Giáo Hội Lobelia đuổi kịp tới nơi chất vấn việc Nive tự ý chạy đi; nhân lúc Nive buông lời châm chọc Thánh Nữ và rủ mình lập đội, Rentt vội vã lấy cớ đi lùng Thi Quỷ khác để chuồn khỏi thị phi.
 
+## 184
+Rentt tiếp tục săn lùng và tiêu diệt Thi Quỷ khắp Maalt dưới sự chỉ đường của Edel, đồng thời chứng kiến các mạo hiểm giả và Thánh Giả dùng Nước Thánh cùng thần thuật tham gia thanh tẩy quái vật.
+Tại Mê Cung Tân Nguyệt, con Ma Cà Rồng bí ẩn đang ép một nhóm trẻ em thiền định thao túng mạng lưới Thi Quỷ nhằm dụ mục tiêu của hắn lộ diện, bất chấp sự kiệt sức và thổ huyết của lũ trẻ.
+Rentt suy ngẫm về bi kịch mất đi nhân tính và bản chất bị thay thế nhân cách của Undead sau khi chết, cũng như lòng trắc ẩn của những người sống khi không nỡ chối bỏ người thân biến thành xác sống.
+Tại một góc phố, Hội Trưởng Wolf Hermann cùng các mạo hiểm giả bao vây Tita Well — một tân binh Thiết Cấp bị biến thành Thi Quỷ nhưng vẫn vô thức nhắc về gia đình và ước mơ thăng hạng; trước sự khóc lóc van xin của nữ đồng đội Tita, Wolf nén đau thương vung đại kiếm kết liễu và dùng Nước Thánh hóa tro cậu thiếu niên để bảo vệ thị trấn.
+
 
 

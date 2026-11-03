@@ -77,6 +77,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dylas | Dylas / người thợ thủ công / anh ta | 177 | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt |
 | Liesse | Liesse / cô / nữ diễn viên | 179 | Nữ diễn viên chính của đoàn kịch lưu động |
 | Rota | Rota / người phụ nữ / chị ấy | 180 | Cư dân trung niên ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế |
+| Tita Well | Tita / cậu thiếu niên / cậu | 184 | Mạo hiểm giả Thiết Cấp bị biến thành Thi Quỷ |
 
 ## Giữa các nhân vật
 
@@ -317,3 +318,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Nive Maris | Rentt Faina | tôi | Rentt / cậu Rentt | 183 | Mạo hiểm giả Kim Cấp gọi thẳng tên Rentt, rủ hợp tác tác chiến |
 | Nive Maris | Myullias Raiza | tôi | Thánh Nữ Myullias / cô | 183 | Mạo hiểm giả Kim Cấp châm chọc Thánh Nữ đi cùng |
 | Myullias Raiza | Nive Maris | tôi | Nive / cô | 183 | Thánh Nữ gọi thẳng tên mạo hiểm giả Kim Cấp đi cùng |
+| Wolf Hermann | Tita Well | tôi | cậu | 184 | Hội Trưởng gặng hỏi mạo hiểm giả bị biến thành Thi Quỷ |
+| Tita Well | Wolf Hermann | tôi | ngài | 184 | Thi Quỷ trả lời theo bản năng còn sót lại |
