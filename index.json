@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T10:06:08Z",
+  "generatedAt": "2026-11-03T10:15:24Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3365,6 +3365,12 @@
           "title": "Chương 202: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_202.md",
           "sha": "e0679e715e852e367a77ec02efd658ea69455fb9"
+        },
+        {
+          "number": 203,
+          "title": "Chương 203: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_203.md",
+          "sha": "0eecd97fb6c8e7d864af2a7a84f8b7241a30941d"
         }
       ]
     },

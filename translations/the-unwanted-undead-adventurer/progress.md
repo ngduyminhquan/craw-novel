@@ -207,7 +207,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 200 |  | Chapter_200 - Vol 9 Chapter 1 - Evaluating Abilities (2).txt | Vol 9 Chapter 1 - Evaluating Abilities (2) | reviewed |  |
 | 201 |  | Chapter_201 - Vol 9 Chapter 1 - Evaluating Abilities (3).txt | Vol 9 Chapter 1 - Evaluating Abilities (3) | reviewed |  |
 | 202 |  | Chapter_202 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1) | done |  |
-| 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | todo |  |
+| 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | done |  |
 | 204 |  | Chapter_204 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3) | todo |  |
 | 205 |  | Chapter_205 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4) | todo |  |
 | 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -811,3 +810,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#200] Dịch 'Imperial Knights' — tạm chọn 'Kỵ Sĩ Đế Quốc' (phương án khác: 'Đế Quốc Kỵ Sĩ') → Chốt 'Kỵ Sĩ Đế Quốc' theo đúng trật tự từ Hán Việt tự nhiên (đối xứng với 'kỵ sĩ Yaaran' trong cùng câu thoại và 'Kỵ Sĩ Phản Nghịch' trong glossary.md). (orchestrator)
 - [#201] Dịch 'dragon-folk' thành 'Long Tộc' và 'vampire-dragon-folk' thành 'Ma Cà Rồng Long Tộc' (phương án khác: 'Long Nhân', 'Thú Nhân Rồng'); dịch 'avians' thành 'điểu nhân' — tạm chọn 'Long Tộc', 'Ma Cà Rồng Long Tộc', 'điểu nhân'. → Chốt 'dragon-folk' -> 'Long Tộc', 'vampire-dragon-folk' -> 'Ma Cà Rồng Long Tộc' và 'avians' -> 'điểu nhân' theo đúng quy tắc Hán Việt ngắn gọn và đồng bộ với các chủng tộc thú nhân trong glossary.md. (orchestrator)
 - [#202] Dịch tiêu đề arc/chương 'Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1)' — tạm chọn 'Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)' (phương án khác: 'Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Sự Xác Nhận (1)'). Tạm dùng trong bản dịch: 'Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)'. → Chốt 'Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)' để ngắn gọn và đồng bộ phong cách đặt tên chương với 'Giải Thích và Giải Quyết' ở Tập 8 Chương 4. (orchestrator)
+- [#203] Dịch 'The Tower' (tổ chức nghiên cứu ma thuật tại vương đô) — tạm chọn 'Tòa Tháp' (phương án khác: 'Ma Pháp Tháp', 'Tháp'); 'Kohm Clinic' — tạm chọn 'Phòng Khám Kohm' (phương án khác: 'Bệnh Xá Kohm'). → Chốt 'The Tower' -> 'Tòa Tháp' (sánh đôi tự nhiên với 'The Academy' -> 'Học Viện') và 'Kohm Clinic' -> 'Phòng Khám Kohm'. (orchestrator)

@@ -1198,4 +1198,10 @@ Trên đường đi, Rentt phát hiện cư dân Maalt không hề nhớ việc 
 Đến Hội, cả nhóm chứng kiến cảnh tượng bận rộn ngập đầu của các nhân viên và gặp tiếp tân viên Sheila đang phờ phạc vì công việc thu mua Ma Tinh cùng trả thưởng.
 Được Sheila hướng dẫn, nhóm vào văn phòng Hội Trưởng Wolf; Rentt khẳng định Lorraine và Rina đều nắm rõ bí mật của anh để họ cùng ở lại, sau đó giao nộp viên Ma Tinh phẩm cấp tương đương Bạch Kim Cấp của Shumini làm bằng chứng hoàn thành tiêu diệt quái vật.
 
+## 203
+Wolf thông báo tình hình Maalt sau khi Shumini bị tiêu diệt: đám Thi Quỷ trở nên đần độn và bị quét sạch, lũ quái vật biến mất, thành phố dần phục hồi nhờ cứu trợ của lãnh chúa, các giáo hội và Hội Mạo Hiểm Giả.
+Cả nhóm trao đổi về mê cung mới dưới lòng đất; Wolf dự đoán Maalt sắp đón lượng lớn mạo hiểm giả, học giả từ Học Viện và ma pháp sư từ Tòa Tháp ở vương đô tới khảo sát, đồng thời dặn sẽ nhờ Rentt hỗ trợ nếu xảy ra sự cố.
+Rina hỏi thăm tình hình hai đồng đội Raiz và Laura, được Wolf cho biết họ đang hồi sức tại Phòng Khám Kohm.
+Đến trước phòng khám, nhóm Rentt bất ngờ bị Nive Maris dùng Thánh Hỏa kiểm tra Ma Cà Rồng từ xa khiến Rina bốc cháy ngọn lửa lam trắng nhưng không hề hấn gì; Nive tiết lộ đến đây để kiểm tra các nạn nhân xem có bị biến thành Thi Quỷ hay không trong khi Myullias đang trị liệu và thuyết giảng tại Giáo Hội Lobelia.
+
 
