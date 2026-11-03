@@ -1004,3 +1004,8 @@ Laura Latuule tiếp một cậu bé tộc Ma Cà Rồng trốn khỏi làng lê
 Isaac và Laura nghi ngờ cậu bé không dính líu đến các vụ mạo hiểm giả mất tích gần đây và suy đoán có thể còn kẻ khác cùng tộc ở Maalt.
 Tại rừng Hathara, Capitan tiếc nuối vì không thể dạy Rentt Thần Ma Khí Dung Hợp Thuật do bản thân không có Ma Lực hay Thần Lực; hai người đàm đạo về cơ duyên nhận ân phước thần linh cùng nguồn gốc Ma Lực của dân làng Hathara.
 Capitan nhận dạy Rentt kỹ năng Khí Lực nâng cao từng dùng trong trận đấu và khẳng định với nền tảng 10 năm cùng lượng Khí Lực tăng vọt hiện tại, Rentt hoàn toàn có thể nắm bắt chỉ trong vài tuần hoặc vài ngày.
+
+## 170
+Capitan thị phạm kỹ thuật cụ thể hóa Khí Lực thành thực thể (giáp Khí Lực cản phá dao găm, phóng lưỡi đao Khí Lực vô hình từ cành cây chém đứt đôi lá rơi) và phân tích sự khác biệt giữa cảm nhận trực giác của Khí Lực với cấu trúc lý thuyết khắt khe của ma thuật.
+Rentt bắt đầu khổ luyện nhưng chỉ tạo được lớp giáp Khí Lực vụng về quanh lòng bàn tay như chiếc găng tay giòn tan, liên tục bị Capitan dùng cành cây gõ vỡ vụn; Capitan tiết lộ bí thuật Hathara hy sinh tuổi thọ ép Khí Lực cực hạn nhưng Rentt từ chối thử nghiệm vì chưa rõ bản chất sinh mệnh Undead của mình.
+Cả hai trở về nhà Trưởng Làng Ingo Faina quây quần bên bữa tiệc thịnh soạn gồm các món ăn truyền thống Hathara do Riri, Fahri cùng Lorraine dưới sự chỉ dẫn của Gharb và Gilda chung tay nấu nướng trước khi trở về Maalt.

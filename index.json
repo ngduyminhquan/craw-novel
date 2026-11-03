@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T04:15:36Z",
+  "generatedAt": "2026-11-03T04:20:54Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3167,6 +3167,12 @@
           "title": "Chương 169: Tập 7 Chương 5 - Laura, Đương Chủ Gia Tộc Latuule (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_169.md",
           "sha": "5844a9fd8036767f704e5cdecf874ac3fb4b94a1"
+        },
+        {
+          "number": 170,
+          "title": "Chương 170: Tập 7 Chương 5 - Laura, Đương Chủ Gia Tộc Latuule (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_170.md",
+          "sha": "40ced8ecf5aee7ee061f4e4c673a4dafeb87ec60"
         }
       ]
     },

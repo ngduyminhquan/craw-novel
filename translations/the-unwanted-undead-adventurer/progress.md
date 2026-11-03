@@ -174,7 +174,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | reviewed |  |
 | 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | reviewed |  |
 | 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | done |  |
-| 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | todo |  |
+| 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | done |  |
 | 171 |  | Chapter_171 - Vol 7 Chapter 6 - Puchi Suri (1).txt | Vol 7 Chapter 6 - Puchi Suri (1) | todo |  |
 | 172 |  | Chapter_172 - Vol 7 Chapter 6 - Puchi Suri (2).txt | Vol 7 Chapter 6 - Puchi Suri (2) | todo |  |
 | 173 |  | Chapter_173 - Vol 7 Side Story - Noble’s Trust (1).txt | Vol 7 Side Story - Noble’s Trust (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -746,3 +747,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#168] Dịch tiêu đề arc/chương 'Vol 7 Chapter 4 - Vampires of Days Past (2)': tạm chọn 'Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (2)' (đồng bộ với #167; phương án khác: 'Tập 7 Chương 4 - Ma Cà Rồng Thuở Xưa (2)'). Tạm dùng trong bản dịch: 'Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (2)'. → Chốt "Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (2)" đồng bộ với chương 167. (orchestrator)
 - [#168] Dịch kỹ thuật 'divinity-mana-spirit fusion' (đoạn 52, 55) — tạm chọn 'Thần Ma Khí Dung Hợp Thuật' (đồng bộ với 'Ma Khí Dung Hợp Thuật' cho mana-spirit fusion; phương án khác: 'Thần Ma Khí Dung Hợp'). Tạm dùng trong bản dịch: 'Thần Ma Khí Dung Hợp Thuật'. → Chốt "Thần Ma Khí Dung Hợp Thuật" đồng bộ với "Ma Khí Dung Hợp Thuật" (mana-spirit fusion). (orchestrator)
 - [#169] Đại từ xưng hô Laura Latuule - cậu bé Ma Cà Rồng chưa rõ tên (tạm dùng Laura xưng "tôi" gọi "cậu", cậu bé xưng "tôi" gọi "cô"); "A demon is here in search of you" tạm dịch là "Một ác ma đang ở đây để lùng sục cậu" (chỉ Nive Maris qua góc nhìn của tộc ma cà rồng). → Chốt Laura xưng "tôi" gọi "cậu", cậu bé xưng "tôi" gọi "cô"; giữ cách dịch "Một ác ma đang ở đây để lùng sục cậu đấy" cho "A demon is here in search of you". (orchestrator)
+- [#170] Đoạn 45: câu cảm thán "Hell no, I value my life" của Capitan có từ "Hell" (QA cảnh báo thiếu thuật ngữ "Địa Ngục"), tạm dịch thoát nghĩa thành "Dại gì chứ, chú còn tiếc mạng lắm" thay vì dịch thô từ Hell thành Địa Ngục. → Chốt dịch thoát nghĩa thành "Dại gì chứ, chú còn tiếc mạng lắm" vì "Hell no" là khẩu ngữ cảm thán, không phải danh từ riêng "Địa Ngục". (orchestrator)
