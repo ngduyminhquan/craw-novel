@@ -105,6 +105,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Adela | Father Adela | Adela | Tư tế thuộc Giáo Hội Giả Kim tại Maalt, từng là mạo hiểm giả trong tổ đội của Fazira | #198 |
 | Fazira |  | Fazira | Mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir, đồng đội cũ của Adela | #198 |
 | Mimir |  | Mimir | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira | #198 |
+| Noel Kruege | Noel | Noel Kruege | Thiếu niên quý tộc, học viên Học Viện kiêu ngạo | #210 |
+| Elise Georges | Elise | Elise Georges | Thiếu nữ quý tộc, học viên Học Viện nghiêm túc, bạn của Rina | #210 |
 
 ## Chi tiết
 
@@ -677,4 +679,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, cô bé khoảng 10 tuổi đến từ Vistelya, con gái của Fazira.
 - Đặc điểm: Đi cùng bố đến Maalt rồi bị lạc, được Alize đưa đến nhờ Rentt giúp đỡ; ngoan ngoãn, biết điều, không muốn làm phiền cô nhi viện quá nhiều; vui mừng khi bố được cứu thoát khỏi tình trạng hóa đá.
 - Xuất hiện từ: #198.
+
+### Noel Kruege
+- Giới tính, vai trò: Nam, thiếu niên quý tộc khoảng 10 tuổi, học viên của Học Viện từ vương đô đến Maalt.
+- Đặc điểm: Tính tình kiêu căng, ngạo mạn, khoác đồng phục Học Viện đắt tiền; vừa đến bến xe ngựa Maalt đã gây sự với một thương nhân thuộc Hội Thương Nhân Ariana vì áo bị va quẹt.
+- Xuất hiện từ: #210.
+
+### Elise Georges
+- Giới tính, vai trò: Nữ, thiếu nữ quý tộc, học viên của Học Viện, bạn thân của Rina Rupaage.
+- Đặc điểm: Nghiêm túc, đĩnh đạc, coi trọng danh dự và uy tín của Học Viện; đeo trang sức ma pháp tinh xảo (hoa tai cường hóa ma lực, vòng tay tăng phòng ngự ma thuật); từng bảo vệ Rina khi Rina bị các học viên quý tộc khác chế giễu ở vương đô; ngay khi thấy Noel gây rối ở Maalt đã xông ra can ngăn và mắng mỏ cậu ta.
+- Xuất hiện từ: #210.
 

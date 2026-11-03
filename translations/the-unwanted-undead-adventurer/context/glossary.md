@@ -380,3 +380,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | mana blade | mana blades; Mana blade; Mana blades | Ma Lực Kiếm | vật phẩm | 206 | Loại ma kiếm đặc biệt mạnh mẽ, thường là vật phẩm mê cung cấp cao hoặc cổ vật (魔力剣) |
 | demon lord | demon lords; Demon Lord; Demon Lords | Ma Vương | danh hiệu | 207 | Ma Vương trong thần thoại/truyền thuyết fantasy (魔王) |
 | dryad | dryads; Dryad; Dryads | Dryad | quái vật | 207 | Tinh linh cây cối/thực vật trong thần thoại (ドライアド) |
+| Ariana Maritime Republic |  | Cộng Hòa Hàng Hải Ariana | địa danh | 210 | Quốc gia ven biển thịnh vượng nhờ mậu dịch đường biển |
+| Ariana Merchant’s Guild | Ariana Merchant's Guild; Ariana Merchant | Hội Thương Nhân Ariana | tổ chức | 210 | Hiệp hội thương nhân quyền lực và nguy hiểm của Cộng Hòa Hàng Hải Ariana |

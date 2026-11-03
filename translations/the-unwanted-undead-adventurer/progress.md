@@ -214,7 +214,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | reviewed |  |
 | 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | done |  |
 | 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | done |  |
-| 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | todo |  |
+| 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | done |  |
 | 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | todo |  |
 | 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | todo |  |
 | 213 |  | Chapter_213 - Vol 9 Chapter 5 - A Request from the Guild (1).txt | Vol 9 Chapter 5 - A Request from the Guild (1) | todo |  |
@@ -820,3 +820,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#205] Xưng hô Rina Rupaage ↔ Nive Maris: Rina gọi Nive là 'chị / chị Nive', luôn xưng 'tôi' với tiền bối → Chấp nhận, cập nhật dòng Rina Rupaage -> Nive Maris trong pronouns.md thành 'chị / chị Nive / cô / Nive'. (orchestrator)
 - [#209] Dịch tiêu đề arc/chương 'Vol 9 Chapter 4 - The Tower and the Academy (1)' — tạm chọn 'Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)' theo thuật ngữ Tòa Tháp và Học Viện đã có trong glossary.md (phương án khác: 'Tập 9 Chương 4 - Tháp và Học Viện (1)'). Tạm dùng trong bản dịch: 'Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)'. → Giữ 'Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)' theo thuật ngữ Tòa Tháp và Học Viện đã chốt trong glossary.md. (orchestrator)
 - [#209] Dịch cụm từ 'precision magic items' (đoạn 76) — tạm chọn 'ma cụ tinh vi' (phương án khác: 'ma cụ chính xác', 'ma cụ tinh xảo'). Tạm dùng trong bản dịch: 'ma cụ tinh vi'. → Giữ 'ma cụ tinh vi' vì tự nhiên và đúng ngữ cảnh thiết bị ma thuật nhạy cảm với rung chấn khi vận chuyển. (orchestrator)
+- [#210] Dịch tên quốc gia 'Ariana Maritime Republic' — tạm chọn 'Cộng Hòa Hàng Hải Ariana' (phương án khác: 'Cộng Hòa Hải Dương Ariana'). Tạm dùng trong bản dịch: 'Cộng Hòa Hàng Hải Ariana'. → Giữ 'Cộng Hòa Hàng Hải Ariana' theo đúng nghĩa Maritime Republic. (orchestrator)
+- [#210] Dịch tên tổ chức 'Ariana Merchant’s Guild' — tạm chọn 'Hội Thương Nhân Ariana' (phương án khác: 'Hiệp Hội Thương Nhân Ariana'). Tạm dùng trong bản dịch: 'Hội Thương Nhân Ariana'. → Giữ 'Hội Thương Nhân Ariana' để đồng bộ cấu trúc với 'Hội Mạo Hiểm Giả' trong glossary.md. (orchestrator)
+- [#210] Xưng hô hai học viên Học Viện Noel Kruege ↔ Elise Georges — tạm chọn cả hai xưng 'tôi', Noel gọi Elise là 'cô / Elise Georges', Elise gọi Noel là 'cậu / Noel / Noel Kruege' (bạn cùng học viện cãi vã; phương án khác: 'tôi - cậu'). Tạm dùng trong bản dịch: 'tôi - cô / cậu'. → Giữ cả hai xưng 'tôi', Noel gọi Elise là 'cô / Elise Georges', Elise gọi Noel là 'cậu / Noel / Noel Kruege'. (orchestrator)

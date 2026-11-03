@@ -82,6 +82,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Adela | Adela / Cha Adela / người đàn ông / anh ta | 198 | Tư tế Giáo Hội Giả Kim tại Maalt |
 | Fazira | Fazira / người đàn ông / anh ta / ông / ông ấy | 198 | Mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir |
 | Mimir | Mimir / cô bé | 198 | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira |
+| Noel Kruege | Noel / cậu bé / cậu thiếu niên | 210 | Thiếu niên học viên Học Viện kiêu ngạo |
+| Elise Georges | Elise / cô bé / cô gái / thiếu nữ | 210 | Thiếu nữ học viên Học Viện nghiêm túc, bạn của Rina |
 
 ## Giữa các nhân vật
 
@@ -381,4 +383,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Raiz Dunner | Nive Maris | tôi | chị / Nive | 204 | Nam tân binh kinh ngạc trước tuổi trẻ và thực lực của mạo hiểm giả Kim Cấp |
 | Nive Maris | Laura Satii | tôi | cô / Laura / hai bạn | 204 | Mạo hiểm giả Kim Cấp chào hỏi thân mật với nữ tân binh |
 | Laura Satii | Nive Maris | tôi | chị / Nive | 204 | Nữ tân binh ngưỡng mộ và tự ti trước nhan sắc mạo hiểm giả Kim Cấp |
+| Noel Kruege | Elise Georges | tôi | cô / Elise Georges | 210 | Cùng là học viên Học Viện, Noel khó chịu khi bị Elise can thiệp |
+| Elise Georges | Noel Kruege | tôi | cậu / Noel / Noel Kruege | 210 | Cùng là học viên Học Viện, Elise nghiêm khắc chấn chỉnh tính kiêu ngạo của Noel |
 

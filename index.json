@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T11:21:25Z",
+  "generatedAt": "2026-11-03T11:29:13Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3407,6 +3407,12 @@
           "title": "Chương 209: Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_209.md",
           "sha": "a799c191a87c1f4f8940ddcb8d50cc5b8335e9f4"
+        },
+        {
+          "number": 210,
+          "title": "Chương 210: Tập 9 Chương 4 - Tòa Tháp và Học Viện (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_210.md",
+          "sha": "4c8dde4da2be4600d11c7d564a0805a6c412ed7c"
         }
       ]
     },

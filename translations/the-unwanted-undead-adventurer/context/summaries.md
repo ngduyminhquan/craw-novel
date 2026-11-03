@@ -1240,5 +1240,12 @@ Rina kể lại kỷ niệm khó chịu với đám học viên Học Viện ki�
 Rentt và nhóm bạn gặp Nive cùng Thánh Nữ Myullias Raiza; Myullias nhận lệnh từ Đại Giáo Phụ phải đi theo giám sát Nive; Rentt từ chối lời mời cùng bôn ba săn Ma Cà Rồng của Nive.
 Đoàn xe ngựa bề thế chở người của Học Viện từ vương đô chính thức tiến vào bến xe Maalt, mở đầu cho làn sóng khảo sát mới; Nive buông lời cảnh báo về những rắc rối sắp ập đến.
 
+## 210
+Nive và Myullias lên xe ngựa rời Maalt; Rentt chỉ bảo cho Rina những điều căn bản để undead hòa nhập vào xã hội (không đi đêm, chăm chào hỏi láng giềng) trong khi Rina chăm chú ghi chép vào cuốn sổ tay ma cụ do Lorraine chế tạo.
+Tại bến xe ngựa bỗng xảy ra tranh cãi khi Noel Kruege, một thiếu niên học viên Học Viện kiêu ngạo, bắt đền một thương nhân trung niên vì lỡ va quẹt làm hỏng bộ đồng phục ma cụ trị giá 50 đồng vàng; Elise Georges (bạn của Rina) chen vào đám đông quát mắng chấn chỉnh Noel.
+Lorraine phát hiện người thương nhân đeo đoản kiếm mang biểu tượng của Cộng Hòa Hàng Hải Ariana và Hội Thương Nhân Ariana – một thế lực khét tiếng nguy hiểm sẵn sàng thuê lính đánh thuê và sát thủ để trục lợi.
+Nhận ra sự nguy hiểm nếu để hai học viên Học Viện đắc tội với Hội Thương Nhân Ariana, nhóm Rentt chuẩn bị ra tay can thiệp giải vây theo nguyện vọng của Rina.
+
+
 
 
