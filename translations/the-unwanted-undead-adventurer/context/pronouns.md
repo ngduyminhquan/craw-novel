@@ -425,5 +425,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Augurey | Jia Regina Yaaran | tôi | Điện Hạ / người | 228 | Mạo hiểm giả nói chuyện cung kính, khéo léo với Nhị Công Chúa |
 | Jia Regina Yaaran | Augurey | tôi | anh / cậu | 228 | Nhị Công Chúa nói chuyện hòa nhã với mạo hiểm giả |
 | Rentt Faina | Jia Regina Yaaran | tôi | Điện Hạ / người | 228 | Mạo hiểm giả yết kiến và thưa gửi cung kính với Nhị Công Chúa |
-| Jia Regina Yaaran | Rentt Faina | tôi | anh | 228 | Nhị Công Chúa giao tiếp hòa nhã với mạo hiểm giả |
+| Jia Regina Yaaran | Rentt Faina | tôi | anh / anh Vivie | 228 | Nhị Công Chúa giao tiếp hòa nhã với mạo hiểm giả |
 

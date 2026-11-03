@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T15:17:10Z",
+  "generatedAt": "2026-11-03T15:28:18Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3526,19 +3526,19 @@
           "number": 229,
           "title": "Chương 229: Tập 10 Chương 2 - Tiến Vào Hoàng Cung (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_229.md",
-          "sha": "d7b739a8243225a9e409d7217f6be8059e3ea8e8"
+          "sha": "662f15e88f8f585e492e84bc61b4e29cc66d206f"
         },
         {
           "number": 230,
           "title": "Chương 230: Tập 10 Chương 2 - Tiến Vào Hoàng Cung (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_230.md",
-          "sha": "4b8bd654c0b2bd806d0939918f1a60a09839ba6a"
+          "sha": "c0fbebf06f90e3ed0013c08eb4da6d3cebf7ca9a"
         },
         {
           "number": 231,
           "title": "Chương 231: Tập 10 Chương 3 - Công Việc Cùng Augurey (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_231.md",
-          "sha": "cf99c369cc33ad37efff551b5659f9376a2a3367"
+          "sha": "f757721bab0a4494458e1506da350432efc37d72"
         }
       ]
     },

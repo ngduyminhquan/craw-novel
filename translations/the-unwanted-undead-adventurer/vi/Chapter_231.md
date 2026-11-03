@@ -92,7 +92,7 @@ Nét mặt của người tiếp tân rạng rỡ hẳn lên. Tôi đoán cô �
 
 "Tôi sẽ tiến hành đăng ký tổ đội tạm thời cho các vị ngay đây ạ," cô nói. "Chỉ cần các vị điền vào các thông tin cần thiết, tôi có thể bắt đầu thủ tục lập tức. Ngoài ra, các vị cứ việc để Tổng Hội Trưởng phải chờ đợi cũng chẳng sao đâu ạ. Dù có trễ hẹn vài ngày đi chăng nữa thì đó cũng là lỗi của ngài ấy vì đã tự ý bỏ đi lang thang. Xin các vị cứ yên tâm, một khi ngài ấy trở về, chúng tôi nhất định sẽ giữ chân ngài ấy thật chặt."
 
-Chúng tôi đang nói về cấp trên của cô ấy đấy, nhưng nếu là một người ngoài không nắm rõ ngọn ngành câu chuyện mà bước vào cuộc trò chuyện này, ắt hẳn bạn sẽ nghĩ chúng tôi đang bàn tán về một tên tội phạm nào đó cũng nên. Thói quen thường xuyên bỏ đi lang thang đúng là lỗi của Tổng Hội Trưởng thật, nhưng mà...
+Chúng tôi đang nói về cấp trên của cô ấy đấy, nhưng nếu là một người ngoài không nắm rõ ngọn ngành câu chuyện mà bước vào cuộc trò chuyện này, ắt hẳn người ta sẽ nghĩ chúng tôi đang bàn tán về một tên tội phạm nào đó cũng nên. Thói quen thường xuyên bỏ đi lang thang đúng là lỗi của Tổng Hội Trưởng thật, nhưng mà...
 
 Dẫu vậy, dù đã được cho phép trì hoãn, tôi vẫn dự định sẽ quay lại đúng lịch hẹn. Nếu dây dưa quá lâu, rất có thể tôi sẽ lại bị lôi kéo vào thêm nhiều rắc rối liên quan tới hoàng cung. Đó là điều mà tôi muốn tránh bằng mọi giá.
 
@@ -128,7 +128,7 @@ Augurey gật đầu rồi đưa các tờ phiếu yêu cầu ủy thác cho cô
 
 Tôi hiểu người tiếp tân chỉ đơn thuần lo lắng cho chúng tôi, nhưng chúng tôi đã bàn bạc trước về việc nên nhận những ủy thác nào, và dựa trên nội dung yêu cầu thì chúng hoàn toàn nằm trong khả năng hoàn thành của chúng tôi.
 
-Augurey sẽ không đời nào đề xuất nhận những công việc mà chúng tôi không thể đảm đương nổi. Trên bảng nhiệm vụ còn có vài ủy thác khác bị bỏ mặc đến mức hóa thạch, nhưng tất cả chúng rõ ràng đều là điều bất khả thi đối với một mạo hiểm giả bình thường. Có ủy thác yêu cầu nước mắt của Rồng Lửa, trong khi ủy thác khác lại đòi hỏi quặng sắt từ hang ổ của Kraken. Chúng thuộc dạng công việc mà ngay cả các mạo hiểm giả Kim Cấp hay Bạch Kim Cấp cũng phải e dè chùn bước.
+Augurey sẽ không đời nào đề xuất nhận những công việc mà chúng tôi không thể đảm đương nổi. Trên bảng nhiệm vụ còn có vài ủy thác khác bị bỏ mặc đến mức hóa thạch, nhưng tất cả chúng rõ ràng đều là điều bất khả thi đối với một mạo hiểm giả bình thường. Có ủy thác yêu cầu nước mắt của Rồng Lửa, trong khi ủy thác khác lại đòi hỏi quặng khoáng từ hang ổ của Kraken. Chúng thuộc dạng công việc mà ngay cả các mạo hiểm giả Kim Cấp hay Bạch Kim Cấp cũng phải e dè chùn bước.
 
 Các mạo hiểm giả Mithril Cấp có lẽ đủ sức xử lý chúng, nhưng ở vương đô lại chẳng có người nào như vậy. Phần lớn mạo hiểm giả Mithril Cấp thường có xu hướng phiêu bạt từ vùng đất này sang vùng đất khác thay vì lưu lại một địa điểm cố định. Vào thời điểm hiện tại, chỉ có hai người là nắm rõ được vị trí chính xác. Một người đang ở Đế Quốc Rermutt và người kia ở Thánh Vương Quốc Ars. Chẳng một ai biết những người còn lại đang ở đâu. Hoặc ít nhất, đó là những gì được công bố chính thức. Rất có khả năng họ đã được một quốc gia nào đó thuê riêng và giấu kín khỏi tầm mắt công chúng, nhưng đó không phải là thứ mà những mạo hiểm giả bình thường như chúng tôi có cách nào xác thực được.
 
@@ -140,13 +140,13 @@ Các mạo hiểm giả Mithril Cấp có lẽ đủ sức xử lý chúng, như
 
 Augurey đã cân nhắc kỹ lưỡng các rủi ro khi lựa chọn những công việc này. Tất nhiên, việc không bị phạt không đồng nghĩa với việc chúng tôi nhận ủy thác với tâm thế chấp nhận thất bại, nhưng việc một công việc không áp dụng hình phạt nào cho mạo hiểm giả trong trường hợp không thành công dẫu sao cũng luôn là một điều dễ chịu.
 
-Về bản chất, Hội tiếp nhận tất cả mọi người, thế nên những ràng buộc về tỷ lệ thành công cũng không đến mức quá khắt khe. Mạo hiểm giả sẽ không bị trục xuất chỉ vì thất bại quá nhiều công việc. Một phần là do sự thật nghiệt ngã rằng bất cứ ai thất bại đến mức đó nhiều khả năng đã bỏ mạng trước khi chạm tới ngưỡng bị trục xuất rồi, nhưng cũng có một thực tế là không có điều khoản nghiêm ngặt nào gắn liền với tỷ lệ thành công. Dẫu vậy, tôi từng nghe nói rằng bạn có thể bị mang tiếng xấu nếu thất bại quá thường xuyên. Điều đó sẽ gây bất lợi cho cơ hội của bạn trong các kỳ thi thăng hạng, và phía Hội cũng sẽ không chủ động thông báo cho bạn mỗi khi có những ủy thác béo bở xuất hiện.
+Về bản chất, Hội tiếp nhận tất cả mọi người, thế nên những ràng buộc về tỷ lệ thành công cũng không đến mức quá khắt khe. Mạo hiểm giả sẽ không bị trục xuất chỉ vì thất bại quá nhiều công việc. Một phần là do sự thật nghiệt ngã rằng bất cứ ai thất bại đến mức đó nhiều khả năng đã bỏ mạng trước khi chạm tới ngưỡng bị trục xuất rồi, nhưng cũng có một thực tế là không có điều khoản nghiêm ngặt nào gắn liền với tỷ lệ thành công. Dẫu vậy, tôi từng nghe nói rằng mạo hiểm giả có thể bị mang tiếng xấu nếu thất bại quá thường xuyên. Điều đó sẽ gây bất lợi cho cơ hội trong các kỳ thi thăng hạng, và phía Hội cũng sẽ không chủ động thông báo mỗi khi có những ủy thác béo bở xuất hiện.
 
 Các công việc không chỉ giới hạn ở những ủy thác được dán công khai trên bảng thông báo. Hội sẽ giữ lại những công việc cụ thể cho các mạo hiểm giả nhất định, đó là lý do vì sao những mạo hiểm giả biết rõ điều gì đem lại lợi ích thiết thân cho mình luôn đặc biệt chú ý tới tỷ lệ thành công. Về cơ bản, ý của người tiếp tân là việc thất bại ở bất kỳ công việc nào trong số này cũng sẽ không bị tính vào tỷ lệ thành công ảnh hưởng đến danh tiếng của chúng tôi với Hội.
 
-Những loại công việc áp dụng điều đó tuy hiếm nhưng quả thực vẫn tồn tại. Chúng thường là những ủy thác nằm đó đóng bụi từ lâu hoặc mang tính thử thách cao đến mức thất bại dường như là điều không thể tránh khỏi. Điều đó không có nghĩa là bạn sẽ không nhận được sự ghi nhận xứng đáng khi hoàn thành chúng, nhưng phần lớn mọi người sẽ chẳng thèm đoái hoài tới vì chúng hoặc là một sự lãng phí thời gian, hoặc là một sự phí hoài mạng sống.
+Những loại công việc áp dụng điều đó tuy hiếm nhưng quả thực vẫn tồn tại. Chúng thường là những ủy thác nằm đó đóng bụi từ lâu hoặc mang tính thử thách cao đến mức thất bại dường như là điều không thể tránh khỏi. Điều đó không có nghĩa là người ta sẽ không nhận được sự ghi nhận xứng đáng khi hoàn thành chúng, nhưng phần lớn mọi người sẽ chẳng thèm đoái hoài tới vì chúng hoặc là một sự lãng phí thời gian, hoặc là một sự phí hoài mạng sống.
 
-Còn về những công việc chúng tôi vừa tiếp nhận, chúng thuộc loại có thể sẽ chỉ khiến bạn lãng phí rất nhiều thời gian mà thôi.
+Còn về những công việc chúng tôi vừa tiếp nhận, chúng thuộc loại có thể sẽ chỉ khiến người ta lãng phí rất nhiều thời gian mà thôi.
 
 "Tôi hiểu rồi. Trong trường hợp đó thì tôi không còn gì để nói thêm nữa." Người tiếp tân hoàn tất việc xử lý giấy tờ của chúng tôi. "Xong rồi đấy ạ. Mọi thủ tục đã hoàn tất. Xin các vị hãy cẩn thận, và chúc các vị gặp nhiều may mắn."
 

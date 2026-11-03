@@ -46,7 +46,7 @@ Với vài người thì có lẽ tôi lựa lời vẫn chưa đủ khéo léo,
 
 "Chuyến đi đó sao?" Tôi nghiêng đầu hỏi.
 
-"Chuyến đi mà cả ba người các anh đã tới cứu chúng tôi đấy," công chúa đáp lời.
+"Chuyến đi mà cả ba người các anh chị đã tới cứu chúng tôi đấy," công chúa đáp lời.
 
 À, quả thực chỉ có thể miêu tả sự biến đó theo cách ấy. Giờ tôi mới nhớ ra rằng hồi đó chúng tôi chưa từng gặng hỏi xem công chúa cùng đoàn tùy tùng của cô bé đang đi đâu. Chẳng phải là chúng tôi đã bàn bạc trước với nhau, mà cả ba chúng tôi đều ngầm hiểu rằng tốt nhất không nên bị lôi kéo vào thêm bất cứ rắc rối phức tạp nào. Tôi đoán chính cái khát khao muốn tránh xa những phiền phức không đáng có ấy là thứ phân định rõ ràng chúng tôi là những kẻ thường dân.
 
@@ -60,7 +60,7 @@ Vào thời điểm đó, Nauss và những người khác đã kiệt quệ t�
 
 "Không, chắc chắn là không phải," công chúa quả quyết. "Tộc Elf có thể hơi bài ngoại một chút, nhưng về bản chất, họ là những người vô cùng yêu chuộng hòa bình. Điều đó không loại trừ việc họ cầm vũ khí khi hoàn cảnh bắt buộc, nhưng họ quá văn minh để có thể đột ngột tấn công hoàng tộc của một vương quốc khác."
 
-Chà, tôi đoán điều đó cũng đúng. Nếu họ làm chuyện như vậy, khả dĩ nhất thì cũng nổ ra một cuộc chiến tranh giữa hai quốc gia. Dù Yaaran có phần hẻo lánh hơn, vương quốc vẫn có thể huy động một đội quân tương đối hùng hậu. Ngay cả tộc Elf cũng chẳng đời nào khơi mào một cuộc chiến chống lại vương quốc một cách tùy tiện.
+Chà, tôi đoán điều đó cũng đúng. Nếu họ làm chuyện như vậy, kịch bản khả quan nhất thì cũng nổ ra một cuộc chiến tranh giữa hai quốc gia. Dù Yaaran có phần hẻo lánh hơn, vương quốc vẫn có thể huy động một đội quân tương đối hùng hậu. Ngay cả tộc Elf cũng chẳng đời nào khơi mào một cuộc chiến chống lại vương quốc một cách tùy tiện.
 
 "Vậy thì tại sao lại như thế ạ?" tôi gợi mở.
 
