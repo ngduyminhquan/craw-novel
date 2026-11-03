@@ -63,6 +63,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Capitan | Capitan / người đàn ông vạm vỡ / chú ấy / ông ấy | 146 | Trưởng nhóm thợ săn Làng Hathara, thầy dạy Rentt |
 | Doras | Doras / cậu bé / cậu thiếu niên / cậu ấy | 151 | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi |
 | Jid Dalger | Jid / ông lão / người thợ săn | 152 | Thợ săn lão luyện làng Shigaon, cha của Razzie |
+| Rudol | Rudol / người đàn ông / người thợ săn | 153 | Thợ săn địa phương tại Làng Wega |
 
 ## Giữa các nhân vật
 
@@ -260,3 +261,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Doras | Rentt Faina | em | anh / anh Rentt | 151 | Cậu bé trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn |
 | Rentt Faina | Jid Dalger | tôi | ông / ông Jid | 152 | Mạo hiểm giả nhận việc giao thư và hỗ trợ người lớn tuổi |
 | Jid Dalger | Rentt Faina | ta | cậu / Rentt | 152 | Thợ săn lão luyện nói chuyện thân tình, hào sảng với chàng mạo hiểm giả trẻ tuổi |
+| Rentt Faina | Rudol | tôi | anh / Rudol | 153 | Mạo hiểm giả nói chuyện với thợ săn địa phương |
+| Rudol | Rentt Faina | tôi | cậu / người anh em / Rentt | 153 | Thợ săn địa phương ban đầu vờ say thách đấu, sau bộc bạch thật lòng |

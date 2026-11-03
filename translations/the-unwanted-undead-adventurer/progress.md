@@ -157,7 +157,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | reviewed |  |
 | 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | done |  |
 | 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | done |  |
-| 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | todo |  |
+| 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | done |  |
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | todo |  |
 | 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | todo |  |
 | 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | todo |  |
@@ -346,8 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -720,3 +718,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#152] Tiêu đề ngoại truyện 'Vol 6 Bonus - One Day' — tạm chọn 'Ngoại truyện Tập 6 - Một Ngày' (đồng bộ format với #150, #151; phương án khác: 'Ngoại truyện Tập 6 - Một Ngày Thường', 'Ngoại truyện Tập 6 - Một Ngày Nào Đó'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 6 - Một Ngày'. → Chốt 'Ngoại truyện Tập 6 - Một Ngày' (orchestrator)
 - [#152] Xưng hô giữa Rentt Faina và thợ săn lão luyện Jid Dalger — tạm chọn Rentt xưng 'tôi' gọi 'ông / ông Jid', Jid xưng 'ta' gọi 'cậu / Rentt' (phương án khác: Rentt xưng 'cháu', Jid xưng 'tôi'). Tạm dùng trong bản dịch: Rentt (tôi - ông / ông Jid), Jid (ta - cậu / Rentt). → Chốt Rentt (tôi - ông / ông Jid), Jid (ta - cậu / Rentt) (orchestrator)
 - [#152] Dịch tên loài quái vật 'aurum rabbit' và 'gran bear' — tạm chọn 'thỏ Aurum' và 'gấu Gran' (phương án khác: 'Aurum Rabbit' và 'Gran Bear', 'thỏ aurum' và 'gấu gran'). Tạm dùng trong bản dịch: 'thỏ Aurum' và 'gấu Gran'. → Chốt 'thỏ Aurum' và 'gấu Gran' (orchestrator)
+- [#153] Tiêu đề ngoại truyện 'Vol 6 Bonus - Gambling' — tạm chọn 'Ngoại truyện Tập 6 - Cờ Bạc' (đồng bộ format với #150-#152; phương án khác: 'Ngoại truyện Tập 6 - Đánh Bạc', 'Ngoại truyện Tập 6 - Trò Đỏ Đen'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 6 - Cờ Bạc'. → Chốt 'Ngoại truyện Tập 6 - Cờ Bạc' (orchestrator)
+- [#153] Xưng hô giữa Rentt Faina và thợ săn Rudol — tạm chọn Rentt xưng 'tôi' gọi 'anh / Rudol', Rudol xưng 'tôi' gọi 'cậu / người anh em / Rentt' (phương án khác: Rentt gọi 'ông anh', Rudol xưng 'ta' gọi 'cậu / ngươi'). Tạm dùng trong bản dịch: Rentt (tôi - anh / Rudol), Rudol (tôi - cậu / người anh em / Rentt). → Chốt Rentt (tôi - anh / Rudol), Rudol (tôi - cậu / người anh em / Rentt) (orchestrator)
+- [#153] Dịch cụm biệt danh quái vật 'lord of the forest' (đoạn 3, 13, 15) — tạm chọn dịch thường 'chúa tể khu rừng' theo ngữ cảnh dân làng gọi một con Goblin to xác (phương án khác: viết hoa 'Chúa Tể Khu Rừng' hoặc 'chủ nhân khu rừng'). Tạm dùng trong bản dịch: 'chúa tể khu rừng'. → Chốt viết thường 'chúa tể khu rừng' theo ngữ cảnh dân làng gọi (orchestrator)

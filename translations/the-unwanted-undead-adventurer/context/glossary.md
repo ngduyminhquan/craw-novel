@@ -291,3 +291,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Shigaon | village of Shigaon | Làng Shigaon | địa danh | 152 | Ngôi làng quê hương của thợ săn Jid Dalger |
 | aurum rabbit | aurum rabbits; Aurum rabbit; Aurum rabbits | thỏ Aurum | quái vật | 152 | Quái vật dạng thỏ cực kỳ quý hiếm, thịt được xem là cao lương mỹ vị (オーラムラビット) |
 | gran bear | gran bears; Gran bear; Gran bears | gấu Gran | quái vật | 152 | Phân loài quái vật dạng gấu hung dữ hay lai vãng gõ cửa nhà Jid Dalger (グランベア) |
+| Wega | village of Wega | Làng Wega | địa danh | 153 | Ngôi làng cách Maalt không xa |

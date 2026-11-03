@@ -78,6 +78,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jid Dalger | Jid | Jid Dalger | Thợ săn lão luyện làng Shigaon, cha của Razzie Dalger, người săn thỏ Aurum | #152 |
 | Razzie Dalger | Razzie | Razzie Dalger | Con trai duy nhất của Jid Dalger, chủ doanh nghiệp quy mô vừa ở Maalt | #152 |
 | Dat | Dat Dalger | Dat | Con trai của Razzie Dalger, cháu nội của Jid Dalger, chú rể trong đám cưới | #152 |
+| Rudol | Rudal | Rudol | Thợ săn địa phương tại Làng Wega | #153 |
 
 ## Chi tiết
 
@@ -573,3 +574,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, con trai của Razzie Dalger, cháu nội của Jid Dalger.
 - Đặc điểm: Người thừa kế doanh nghiệp quy mô vừa của cha; nhân vật chú rể tổ chức tiệc cưới tự chọn buffet độc đáo tại Maalt với món chính là thịt thỏ Aurum do ông nội săn tặng.
 - Xuất hiện từ: #152.
+
+### Rudol
+- Giới tính, vai trò: Nam, thợ săn địa phương tại Làng Wega.
+- Đặc điểm: Thợ săn chuyên săn quái vật nhỏ không bõ thuê mạo hiểm giả; sở hữu lực tay khỏe từng thắng cả một số mạo hiểm giả; người hiểu rõ giới hạn của bản thân và dân làng nên đã khuyên trưởng làng thuê mạo hiểm giả diệt con Goblin to lớn; sẵn sàng giả say kiếm chuyện thách đấu vật tay với Rentt để chịu thua nhằm giúp dân làng hiểu rõ thực lực của mạo hiểm giả và không coi thường nguy hiểm.
+- Xuất hiện từ: #153.

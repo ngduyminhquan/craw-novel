@@ -903,3 +903,8 @@ Rentt nhận ủy thác giao thư mời đám cưới từ người con trai Raz
 Dù từng bất hòa vì con trai không chịu nối nghiệp săn bắn, Jid vẫn nhận lời tham dự và nhờ Rentt dẫn đi chọn trang phục cưới tại thị trấn để không làm cháu nội mất mặt.
 Tại lễ cưới của Dat (cháu nội Jid), món chính gây chấn động toàn bộ quan khách là thịt thỏ Aurum – loài quái vật cực kỳ quý hiếm do đích thân Jid săn bắt; Rentt cũng được tặng nguyên một con thỏ mang về.
 Rentt mang thỏ về nhà nấu ăn cùng Lorraine; khi Lorraine tấm tắc khen ngợi và tiếc nuối khó lòng ăn lại món này trong mười năm tới, Rentt trêu rằng có cách kiếm nhanh hơn vì Jid đã hứa sẽ săn tặng một con nữa nếu Rentt làm đám cưới.
+
+## 153
+Rentt và Lorraine đến Làng Wega nhận ủy thác tiêu diệt một con Goblin to lớn hai mét cầm đại kiếm chuyên quấy phá hoa màu và gia súc; sau khi hoàn thành nhiệm vụ trong ngày, cả hai cùng dân làng ăn mừng tại quán rượu duy nhất của làng.
+Tại quán rượu, thợ săn địa phương Rudol giả vờ say rượu kiếm chuyện thách đấu vật tay với Rentt; khi vào trận, Rudol bộc bạch thật lòng rằng anh cố tình tạo màn kịch chịu thua để dân làng thấy rõ sự vượt trội của mạo hiểm giả, tránh tâm lý chủ quan coi thường nguy hiểm về sau.
+Rentt dùng sức mạnh quái vật áp đảo bẻ gãy bàn thắng cuộc rồi dùng Thần Lực chữa lành vết bầm cho Rudol; trên đường về, Lorraine khoe túi tiền thắng cược từ đám đông đặt cửa cho Rudol và tinh nghịch rủ Rentt lặp lại chiêu này ở các làng khác để kiếm bộn tiền.
