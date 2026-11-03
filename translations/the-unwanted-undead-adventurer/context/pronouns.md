@@ -326,3 +326,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Nive Maris | Lorraine Vivie | tôi | cô / Lorraine | 187 | Mạo hiểm giả Kim Cấp chào hỏi làm quen đồng đội |
 | Lorraine Vivie | Myullias Raiza | tôi | cô / Myullias | 187 | Học giả ban đầu dè dặt, sau trò chuyện thoải mái theo đề nghị của Thánh Nữ |
 | Myullias Raiza | Lorraine Vivie | tôi | cô / Lorraine | 187 | Thánh Nữ chủ động đề nghị nói chuyện tự nhiên, bình đẳng |
+| Nive Maris | Wugong | ta | ngươi / các ngươi | 188 | Thợ Săn Ma Cà Rồng nói chuyện với quái vật / Ma Cà Rồng |
+| Wugong | Nive Maris | ta / tôi | ngươi / mụ | 188 | Ma Cà Rồng thiếu niên đối đầu với Thợ Săn Ma Cà Rồng |
+| Nive Maris | Jiziu | ta | ngươi / các ngươi | 188 | Thợ Săn Ma Cà Rồng nói chuyện với quái vật / Ma Cà Rồng |
+| Jiziu | Nive Maris | ta / tôi | ngươi / mụ | 188 | Ma Cà Rồng thiếu nữ đối đầu với Thợ Săn Ma Cà Rồng |
+| Wugong | Jiziu | anh / tôi | em / Jiziu | 188 | Hai thiếu niên Ma Cà Rồng quan hệ anh em nương tựa nhau |
+| Jiziu | Wugong | em | anh Wugong / anh | 188 | Hai thiếu niên Ma Cà Rồng quan hệ anh em nương tựa nhau |

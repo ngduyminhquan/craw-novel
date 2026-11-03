@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T06:54:29Z",
+  "generatedAt": "2026-11-03T07:01:48Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3275,6 +3275,12 @@
           "title": "Chương 187: Tập 8 Chương 2 - Nơi Ma Cà Rồng Hiện Diện (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_187.md",
           "sha": "3e9374808ceb7e55bbef135cfdea7bb65d2f45c6"
+        },
+        {
+          "number": 188,
+          "title": "Chương 188: Tập 8 Chương 2 - Nơi Ma Cà Rồng Hiện Diện (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_188.md",
+          "sha": "4d5569f4dbfdaeb19f2f53ac03f982ef9256abf6"
         }
       ]
     },

@@ -1108,6 +1108,13 @@ Tiến vào mê cung, Nive dũng mãnh dùng vuốt sắt xé xác quái vật m
 Đến một căn phòng lớn, cả nhóm phát hiện các nạn nhân bị bắt giữ bao gồm Raiz Dunner và Laura Satii đang bị trói, cùng một nhóm người đứng bất động sắp biến đổi hoàn toàn thành Thi Quỷ.
 Trước quyết tâm thanh trừng Thi Quỷ của Nive, hai thiếu niên Ma Cà Rồng bất ngờ xuất hiện từ phía sâu mê cung, để lộ việc hành động bắt cóc và thao túng Thi Quỷ là theo chỉ thị của nhân vật bí ẩn tên Shumini.
 
+## 188
+Rentt và Lorraine giải cứu, hóa giải ma pháp trói buộc cho nhóm mạo hiểm giả tân thủ bị bắt cóc gồm Raiz Dunner và Laura Satii.
+Nive một mình giao chiến áp đảo hai thiếu niên Ma Cà Rồng Wugong và Jiziu; dù bọn chúng thi triển dị năng Phân Liệt và Huyết Binh để liên tục tái tạo, Nive liên tục chém giết ép chúng vượt quá giới hạn hồi sinh khiến cơ thể tan thành cát bụi.
+Thương cảm cho những nạn nhân bị ép biến đổi bán Thi Quỷ, Nive nhường việc thanh tẩy cho Myullias và Rentt giải thoát linh hồn họ trong thanh thản; tại đống tro tàn, một cây non chứa Thần Lực mọc lên và được Nive xin giữ lại, đồng thời cô tiết lộ từng liều mạng đột nhập xứ sở High Elf trộm cành Thánh Thụ.
+Tổ đội mạo hiểm giả tinh nhuệ Maalt tới tiếp ứng nhận nhiệm vụ áp giải các nạn nhân về thị trấn, trong khi nhóm Rentt và Nive tiếp tục tiến sâu vào Mê Cung Tân Nguyệt truy quét kẻ chủ mưu.
+
+
 
 
 

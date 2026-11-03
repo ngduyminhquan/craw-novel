@@ -99,6 +99,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Rota |  | Rota | Người phụ nữ trung niên xuất thân từ gia đình bình thường ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế | #180 |
 | Tita Well | Tita | Tita Well | Mạo hiểm giả Thiết Cấp trẻ tuổi ở Maalt, bị biến thành Thi Quỷ và bị Wolf hạ sát | #184 |
 | Shumini | Mr. Shumini | Shumini | Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi | #187 |
+| Wugong |  | Wugong | Thiếu niên Ma Cà Rồng phục tùng Shumini, sử dụng Phân Liệt và Huyết Binh | #188 |
+| Jiziu |  | Jiziu | Thiếu nữ Ma Cà Rồng phục tùng Shumini, sử dụng Phân Liệt và Huyết Binh | #188 |
 
 ## Chi tiết
 
@@ -671,4 +673,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt.
 - Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự.
 - Xuất hiện từ: #187.
+
+### Wugong
+- Giới tính, vai trò: Nam, thiếu niên Ma Cà Rồng phục tùng Shumini, kẻ bắt cóc các mạo hiểm giả tại Mê Cung Tân Nguyệt.
+- Đặc điểm: Được ban cho sức mạnh sử dụng Phân Liệt và Huyết Binh (7 thanh đoản kiếm đỏ); ngoan cố tin vào lời hứa của Shumini về một đất nước riêng cho Ma Cà Rồng; bị Nive chém chết nhiều lần đến khi cạn kiệt khả năng tái tạo và tan thành cát bụi.
+- Xuất hiện từ: #188.
+
+### Jiziu
+- Giới tính, vai trò: Nữ, thiếu nữ Ma Cà Rồng đi cùng Wugong phục tùng Shumini.
+- Đặc điểm: Sử dụng lưỡi hái đỏ và năng lực Phân Liệt biến thành đàn dơi đen; ngây thơ tin vào viễn cảnh sống hạnh phúc do Shumini vẽ ra; bị Nive hạ sát sau khi năng lực tự phục hồi cạn kiệt.
+- Xuất hiện từ: #188.
 
