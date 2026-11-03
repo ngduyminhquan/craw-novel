@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:22:03Z",
+  "generatedAt": "2026-11-03T14:30:12Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3509,6 +3509,12 @@
           "title": "Chương 226: Tập 10 Chương 2 - Tiến Vào Hoàng Cung (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_226.md",
           "sha": "8537f3ee604dd4e081715db449dcf273562ed181"
+        },
+        {
+          "number": 227,
+          "title": "Chương 227: Tập 10 Chương 2 - Tiến Vào Hoàng Cung (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_227.md",
+          "sha": "f99c2b162c0639a65b8bc484d4d6d69d07a15ef9"
         }
       ]
     },

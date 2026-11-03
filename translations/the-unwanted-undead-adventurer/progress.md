@@ -231,7 +231,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 224 |  | Chapter_224 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4) | reviewed |  |
 | 225 |  | Chapter_225 - Vol 10 Side Story - Meanwhile, Back in Maalt.txt | Vol 10 Side Story - Meanwhile, Back in Maalt | reviewed |  |
 | 226 |  | Chapter_226 - Vol 10 Chapter 2 - To the Palace (1).txt | Vol 10 Chapter 2 - To the Palace (1) | done |  |
-| 227 |  | Chapter_227 - Vol 10 Chapter 2 - To the Palace (2).txt | Vol 10 Chapter 2 - To the Palace (2) | todo |  |
+| 227 |  | Chapter_227 - Vol 10 Chapter 2 - To the Palace (2).txt | Vol 10 Chapter 2 - To the Palace (2) | done |  |
 | 228 |  | Chapter_228 - Vol 10 Chapter 2 - To the Palace (3).txt | Vol 10 Chapter 2 - To the Palace (3) | todo |  |
 | 229 |  | Chapter_229 - Vol 10 Chapter 2 - To the Palace (4).txt | Vol 10 Chapter 2 - To the Palace (4) | todo |  |
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | todo |  |
@@ -856,3 +856,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#224] Cụm từ 'accumulative malice disease' trong raw là cách diễn đạt khác của 'Accumulative Miasma Disease' (#50): tạm dùng 'Bệnh Tích Tụ Chướng Khí' để nhất quán với glossary; đề xuất giữ nguyên. → Giữ 'Bệnh Tích Tụ Chướng Khí' để nhất quán với 'Accumulative Miasma Disease' (#50) trong glossary. (orchestrator)
 - [#225] Xưng hô Alize - Isaac Hart: hiện tạm chọn Alize xưng 'em', gọi 'anh Isaac' (do Rina gọi 'anh Isaac', Alize gọi Rentt là 'anh Rentt' dù chênh tuổi, và ngoại hình Isaac trẻ trung); Isaac xưng 'tôi', gọi 'cô Alize / em'. Đề xuất phương án khác: Alize xưng 'cháu', gọi 'chú Isaac' (phù hợp lứa tuổi đứa trẻ mồ côi ~12 tuổi với quản gia quý tộc) → chờ user/orchestrator quyết định. → Giữ Alize xưng 'em' - gọi 'anh / anh Isaac', Isaac xưng 'tôi' - gọi 'cô Alize / em / Alize' để nhất quán với cách Alize xưng 'em' với Rentt/Lorraine/Rina và ngoại hình trẻ trung, lịch thiệp của Isaac. (orchestrator)
 - [#226] Dịch tên quán trọ 'Falcon’s Rest Inn' (gốc Nhật: 鷹の羽休め亭) — tạm chọn 'Quán Trọ Falcon's Rest' (phương án khác: 'Quán Trọ Chim Cắt Dừng Cánh', 'Quán Trọ Chim Cắt Nghỉ Chân'). → Giữ 'Quán Trọ Falcon's Rest' theo glossary.md và rules.md. (orchestrator)
+- [#227] Dịch chức vị 'viceroy' của Duke Lukas Bader (đoạn 36) — tạm chọn 'Quan Nhiếp Chính' theo bối cảnh triều đình Yaaran (phương án khác: 'Tổng Đốc', 'Nhiếp Chính Quan'). Tạm dùng trong bản dịch: 'Quan Nhiếp Chính'. → Giữ 'Quan Nhiếp Chính' phù hợp với bối cảnh triều đình Vương Quốc Yaaran. (orchestrator)
+- [#227] Dịch tước vị 'Marquess of Ancro' (đoạn 19) — tạm chọn 'Hầu tước xứ Ancro' (phương án khác: 'Hầu tước Ancro'). Tạm dùng trong bản dịch: 'Hầu tước xứ Ancro'. → Giữ 'Hầu tước xứ Ancro' (có thể dùng 'Hầu tước Ancro' khi gọi tắt). (orchestrator)

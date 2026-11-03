@@ -418,4 +418,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elza | Rentt Faina | tôi | cậu / cậu Rentt / hai vị | 223 | Nữ Tu Viện Trưởng tiếp chuyện mạo hiểm giả đi cùng |
 | Isaac Hart | Alize | tôi | cô Alize / em / Alize | 225 | Quản gia quý tộc hướng dẫn ma pháp cho cô bé mồ côi |
 | Alize | Isaac Hart | em | anh / anh Isaac | 225 | Đứa trẻ mồ côi nói chuyện với quản gia quý tộc hướng dẫn ma pháp |
+| Augurey | Nauss Ancro | tôi | ngài / ngài Ancro | 227 | Mạo hiểm giả nói chuyện với Đội trưởng Cận Vệ Hoàng Gia kiêm Hầu tước Ancro (raw: Lord Ancro, m'lord) |
+| Nauss Ancro | Augurey | tôi | cậu / Augurey | 227 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện thân thiện với mạo hiểm giả quen biết |
 

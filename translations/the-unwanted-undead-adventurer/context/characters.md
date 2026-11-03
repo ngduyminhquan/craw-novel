@@ -115,6 +115,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jean Seebeck |  | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran | #221 |
 | Elza | Abbess Elza; Mother Elza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
 | Elza Olgado |  | Elza Olgado | Tên đầy đủ của Nữ Tu Viện Trưởng Elza | #223 |
+| Marquess of Ancro | Marquess Ancro | Hầu tước xứ Ancro | Tước vị quý tộc của Nauss Ancro, người đứng đầu Gia tộc Ancro | #227 |
+| Lukas Bader | Duke Lukas Bader | Lukas Bader | Công tước kiêm Quan Nhiếp Chính của Vương Quốc Yaaran | #227 |
+| Marcel Viesel | Marquess Marcel Viesel | Marcel Viesel | Hầu tước, người đứng đầu phe cánh Đệ Nhất Hoàng Tử tại Vương Quốc Yaaran | #227 |
+| Gisel Georgiou | Countess Gisel Georgiou | Gisel Georgiou | Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran | #227 |
 
 ## Chi tiết
 
@@ -736,6 +740,21 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
 - Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả). Từng là bạn bè quen biết Lillian từ thời trẻ tại Tu Viện Ephas; luôn cảm thấy áy náy vì Lillian phải rời đi do xung đột nội bộ Giáo Hội (#224).
 - Xuất hiện từ: #222.
+
+### Lukas Bader
+- Giới tính, vai trò: Nam, Công tước kiêm Quan Nhiếp Chính (viceroy) của Vương Quốc Yaaran.
+- Đặc điểm: Đại quý tộc có uy thế chính trị hàng đầu vương quốc (#227).
+- Xuất hiện từ: #227 (được nhắc đến).
+
+### Marcel Viesel
+- Giới tính, vai trò: Nam, Hầu tước, người đứng đầu phe cánh Đệ Nhất Hoàng Tử tại Vương Quốc Yaaran.
+- Đặc điểm: Đại quý tộc có tầm ảnh hưởng lớn trong triều đình (#227).
+- Xuất hiện từ: #227 (được nhắc đến).
+
+### Gisel Georgiou
+- Giới tính, vai trò: Nữ, Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran.
+- Đặc điểm: Nữ quý tộc có tên tuổi và tầm ảnh hưởng trong triều đình (#227).
+- Xuất hiện từ: #227 (được nhắc đến).
 
 
 

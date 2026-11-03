@@ -417,3 +417,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Falcon’s Rest Inn | Falcon's Rest Inn; Falcon’s Rest; Falcon's Rest | Quán Trọ Falcon's Rest | địa danh | 226 | Quán trọ nơi Augurey lưu trú tại vương đô Vistelya (鷹の羽休め亭) |
 | goblin rider | goblin riders | kỵ sĩ Goblin | quái vật | 226 | Goblin biết thuần hóa và cưỡi quái vật (ゴブリンライダー) |
 | servile monster | servile monsters | quái vật phục tùng | quái vật | 226 | Quái vật được người thuần hóa quái vật huấn luyện tuân theo mệnh lệnh (従魔) |
+| House Ancro | the House Ancro; the Ancro family | Gia tộc Ancro | tổ chức | 227 | Gia tộc quý tộc của Hầu tước Nauss Ancro tại Vương Quốc Yaaran (アンクロ家) |
+| Ascension Exam | Ascension Exams | kỳ thi thăng hạng | khác | 227 | Kỳ thi sát hạch thăng cấp bậc mạo hiểm giả nói chung (昇格試験) |

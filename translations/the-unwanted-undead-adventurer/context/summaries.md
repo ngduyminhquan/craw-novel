@@ -1337,5 +1337,12 @@ Rentt tạ lỗi và kể lại tóm tắt các biến cố ở Maalt cùng vi�
 Augurey lo ngại thiết bị dò tìm của hoàng cung sẽ phát hiện cơ thể Undead của Rentt; Lorraine khẳng định đã kiểm nghiệm các khí cụ đó và đang tiến hành kiểm chứng thực tế.
 Chú chuột Puchi Suri quyến thuộc do Rentt cho Lorraine mượn gõ cửa sổ phòng trọ; Rentt giao tiếp bằng tâm trí và xác nhận chú chuột đã lẻn trót lọt vào tận tẩm điện của nhà vua mà không hề bị thiết bị dò tìm phát hiện.
 
+## 227
+Nhóm Rentt, Lorraine và Augurey cùng tới cổng hoàng cung; sau khi Rentt xuất trình tấm huy chương mang gia huy cá nhân của Nauss Ancro, người lính gác nhận ra xuất thân quý tộc của Hầu tước xứ Ancro và dẫn cả ba vào phòng khách.
+Nauss Ancro nồng nhiệt tới đón tiếp; Augurey khéo léo nói chuyện và thăm dò ý định cáo lui nhưng Nauss kiên quyết mời cả ba ở lại diện kiến Nhị Công Chúa Jia Regina Yaaran để bày tỏ lòng cảm tạ trọn vẹn.
+Nauss tự hào chia sẻ về các tầng ma cụ phòng hộ tối tân của hoàng cung (khiến Rentt thầm tự trào về sự thiếu sót của thiết bị dò tìm quái vật đối với cơ thể Undead của mình).
+Nauss dẫn nhóm tới trước cửa phòng của Công Chúa Jia; chứng kiến phong thái điềm tĩnh của hai người bạn Ngân Cấp, Rentt tự nhủ sẽ sớm làm nhiều ủy thác để dự thi thăng hạng lên Ngân Cấp; công chúa cất tiếng mời vào và cả nhóm bước qua cánh cửa.
+
+
 
 
