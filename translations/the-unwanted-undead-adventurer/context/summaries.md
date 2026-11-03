@@ -1204,4 +1204,11 @@ Cả nhóm trao đổi về mê cung mới dưới lòng đất; Wolf dự đoá
 Rina hỏi thăm tình hình hai đồng đội Raiz và Laura, được Wolf cho biết họ đang hồi sức tại Phòng Khám Kohm.
 Đến trước phòng khám, nhóm Rentt bất ngờ bị Nive Maris dùng Thánh Hỏa kiểm tra Ma Cà Rồng từ xa khiến Rina bốc cháy ngọn lửa lam trắng nhưng không hề hấn gì; Nive tiết lộ đến đây để kiểm tra các nạn nhân xem có bị biến thành Thi Quỷ hay không trong khi Myullias đang trị liệu và thuyết giảng tại Giáo Hội Lobelia.
 
+## 204
+Nive dập tắt Thánh Hỏa trên người Rina và thừa nhận vừa kiểm tra xem cô có bị biến thành ma cà rồng hay không; Nive phóng thử Thánh Hỏa vào người Rentt để chứng minh cơ chế phân biệt ma cà rồng bằng Thần Lực.
+Nhóm Rentt vào Phòng Khám Kohm, Rina mừng rỡ đoàn tụ với hai đồng đội Raiz và Laura đang dưỡng sức; Rina giới thiệu Rentt và Lorraine là những người đã cứu mạng mình.
+Lorraine tự giới thiệu là học giả ma pháp sư kiêm mạo hiểm giả Ngân Cấp khiến Raiz hết lời sùng bái và hỏi xin bí quyết thăng hạng.
+Nive bước vào chào hỏi và tiết lộ bản thân là mạo hiểm giả Kim Cấp, khiến Raiz kinh ngạc trước tuổi đời trẻ trung của cô và thắc mắc về kinh nghiệm săn ma cà rồng.
+
+
 

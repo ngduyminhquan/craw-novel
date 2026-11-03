@@ -367,3 +367,18 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rina Rupaage | Lorraine Vivie | tôi | chị / chị Lorraine | 199 | Nữ mạo hiểm giả hậu bối nói chuyện với nữ học giả |
 | Wolf Hermann | Rina Rupaage | tôi | cô bé / cô | 202 | Hội Trưởng dặn dò nữ mạo hiểm giả tân binh |
 | Rina Rupaage | Wolf Hermann | tôi | ngài / Hội Trưởng / Hội Trưởng Wolf | 202 | Nữ mạo hiểm giả tân binh lễ phép với Hội Trưởng |
+| Nive Maris | Rina Rupaage | tôi | cô Rina | 204 | Mạo hiểm giả Kim Cấp nói chuyện xởi lởi với nữ tân binh (raw: Miss Rina) |
+| Rina Rupaage | Nive Maris | tôi | cô / Nive | 204 | Nữ tân binh bối rối khi tiếp chuyện mạo hiểm giả Kim Cấp |
+| Rina Rupaage | Raiz Dunner | mình / tôi | cậu / Raiz | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
+| Raiz Dunner | Rina Rupaage | tụi mình / tôi | cậu / Rina | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
+| Rina Rupaage | Laura Satii | mình / tôi | cậu / Laura | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
+| Laura Satii | Rina Rupaage | mình / bọn mình / tôi | cậu / Rina | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
+| Lorraine Vivie | Raiz Dunner | tôi | cậu / Raiz / hai bạn | 204 | Nữ học giả Ngân Cấp nói chuyện hòa nhã với nam tân binh |
+| Raiz Dunner | Lorraine Vivie | tôi | chị / Lorraine | 204 | Nam tân binh sùng bái, tôn trọng nữ mạo hiểm giả Ngân Cấp |
+| Lorraine Vivie | Laura Satii | tôi | cô / Laura / hai bạn | 204 | Nữ học giả Ngân Cấp nói chuyện hòa nhã với nữ tân binh |
+| Laura Satii | Lorraine Vivie | tôi | chị / Lorraine | 204 | Nữ tân binh ma pháp sư ngưỡng mộ nữ mạo hiểm giả Ngân Cấp |
+| Nive Maris | Raiz Dunner | tôi | cậu / Raiz / hai bạn | 204 | Mạo hiểm giả Kim Cấp chào hỏi thân mật với nam tân binh |
+| Raiz Dunner | Nive Maris | tôi | chị / Nive | 204 | Nam tân binh kinh ngạc trước tuổi trẻ và thực lực của mạo hiểm giả Kim Cấp |
+| Nive Maris | Laura Satii | tôi | cô / Laura / hai bạn | 204 | Mạo hiểm giả Kim Cấp chào hỏi thân mật với nữ tân binh |
+| Laura Satii | Nive Maris | tôi | chị / Nive | 204 | Nữ tân binh ngưỡng mộ và tự ti trước nhan sắc mạo hiểm giả Kim Cấp |
+
