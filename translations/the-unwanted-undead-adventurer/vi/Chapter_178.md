@@ -54,9 +54,9 @@ Phần miêu tả ghi rằng đó là một buổi ủy thác mô phỏng dành 
 
 ◆◇◆◇◆
 
-Bản thân ủy thác thì đủ đỗi đơn giản, nhưng một trong những nhân viên mới lại tỏ ra sửng sốt khi nhìn thấy tôi.
+Bản thân ủy thác thì vốn khá đơn giản, nhưng một trong những nhân viên mới lại tỏ ra sửng sốt khi nhìn thấy tôi.
 
-"Hở? Anh là vị tiền bối nhân viên đã giảng giải cho em về các điều lệ hôm nọ," cô thốt lên. Đó chính là cô gái tôi từng nói chuyện trước đây.
+"Hở? Anh là vị tiền bối nhân viên vừa giảng giải cho em về các điều lệ lúc nãy," cô thốt lên. Đó chính là cô gái tôi từng nói chuyện trước đây.
 
 "Tôi có bảo mình làm việc cho Hội bao giờ đâu. Tôi là mạo hiểm giả mà," tôi uể oải đáp lời.
 
@@ -66,8 +66,8 @@ Bản thân ủy thác thì đủ đỗi đơn giản, nhưng một trong nhữn
 
 Cô gái lộ vẻ ngạc nhiên. "Chà, em chưa từng nghĩ mình sẽ được nghe câu đó đấy. Phần lớn mọi người toàn bảo trông em chẳng có vẻ gì là nghiêm túc cả."
 
-"Không có nhiều nhân viên cất công tìm hiểu điều lệ cặn kẽ đến mức như cô đâu. Theo cách nhìn của tôi thì cô thuộc tuýp người tuy tính tình có vẻ tưng tửng nhưng việc gì giao cũng làm đâu ra đấy."
+"Không có nhiều nhân viên cất công tìm hiểu điều lệ cặn kẽ đến mức như cô đâu. Theo cách nhìn của tôi thì cô thuộc tuýp người bề ngoài có vẻ xuề xòa tùy hứng nhưng việc gì giao cũng làm đâu ra đấy."
 
-"Tự dưng giờ em thấy tràn trề động lực ghê luôn á! Chúng ta đi làm cho xong nhanh ủy thác này thôi nào," cô mỉm cười nói. Đoạn cô giơ nắm đấm lên không trung tỏ vẻ quyết tâm.
+"Tự dưng giờ em thấy tràn trề động lực hẳn lên! Chúng ta đi làm cho xong nhanh ủy thác này thôi nào," cô mỉm cười nói. Đoạn cô giơ nắm đấm lên không trung tỏ vẻ quyết tâm.
 
 "Tôi lại thấy tính cách của cô hợp làm mạo hiểm giả hơn đấy. Thôi thì cứ cố hết sức nhé, và nhớ cẩn thận đừng để bị thương," tôi đáp lại rồi bắt đầu cất bước đi.

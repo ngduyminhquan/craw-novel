@@ -54,7 +54,7 @@ Về phần địa điểm, tôi đã bàn bạc với Lorraine. Tôi hỏi xem 
 
 Lorraine đã đứng đợi tôi ở đó. "Anh diễn xuất cừ ra phết đấy chứ, Rentt," cô cười nói.
 
-"Mấy diễn viên này còn tàn nhẫn hơn cả lũ quái vật nữa. À, không hẳn vậy, nhưng họ thực sự là một đoàn kịch cừ khôi. Tôi diễn xuất hơi quá đà, nhưng tất cả họ đều rất tài năng, nên tôi đoán mọi chuyện mới suôn sẻ được như thế." Ngay cả khi tôi nói hớ hoặc đọc vấp lời thoại, họ liền nhanh trí ứng biến đổi câu thoại của mình để làm cho có vẻ như tôi chẳng hề mắc lỗi gì. Thật ra ai vào vai của tôi cũng được thôi. Chỉ là tôi tình cờ có ngoại hình quá đỗi phù hợp với vai diễn mà thôi.
+"Mấy diễn viên này còn ghê gớm hơn cả lũ quái vật nữa. À, không hẳn vậy, nhưng họ thực sự là một đoàn kịch cừ khôi. Tôi diễn xuất hơi quá đà, nhưng tất cả họ đều rất tài năng, nên tôi đoán mọi chuyện mới suôn sẻ được như thế." Ngay cả khi tôi nói hớ hoặc đọc vấp lời thoại, họ liền nhanh trí ứng biến đổi câu thoại của mình để làm cho có vẻ như tôi chẳng hề mắc lỗi gì. Thật ra ai vào vai của tôi cũng được cả. Chỉ là tôi tình cờ có ngoại hình quá đỗi phù hợp với vai diễn mà thôi.
 
 "Họ quả thực là một đoàn kịch tốt," Lorraine đồng tình. "Tôi thậm chí còn đang tính giới thiệu họ với một người quen của mình ở Đế Quốc đây."
 

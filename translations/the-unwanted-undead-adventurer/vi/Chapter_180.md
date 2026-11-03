@@ -54,7 +54,7 @@ Lorraine truyền một chút Ma Lực vào khối lập phương. Nó đang đ�
 
 Khối lập phương không có vẻ gì là nguy hiểm, nhưng những hạt ánh sáng lấp lánh bắt đầu bay lơ lửng ra từ nó. Rồi chúng tụ lại thành một hình ảnh giữa không trung. Giờ thì tôi cũng đã biết khối lập phương này là thứ gì.
 
-"Ma cụ này dùng để tạo hình ảnh chiếu, phải không? Loại này khá hiếm, nhưng không phải là không thể kiếm được. Dù vậy tôi chưa từng thấy cái nào hình khối lập phương thế này bao giờ. Cả kích cỡ này nữa. Chúng thường trông như những viên tinh thể cơ mà."
+"Ma cụ này dùng để trình chiếu hình ảnh, phải không? Loại này khá hiếm, nhưng không phải là không thể kiếm được. Dù vậy tôi chưa từng thấy cái nào hình khối lập phương thế này bao giờ. Cả kích cỡ này nữa. Chúng thường trông như những viên tinh thể cơ mà."
 
 "Phải, ở Maalt chúng thường có hình dạng như thế. Còn ở Đế Quốc, chúng thường có hình khối lập phương. Tuy nhiên, những cái nhỏ cỡ này chỉ được tìm thấy ở tầng khá sâu trong mê cung thôi. Ông của Rota hẳn phải là một mạo hiểm giả cừ khôi."
 
@@ -78,4 +78,4 @@ Chị mỉm cười rồi lắc đầu. "Cảm ơn cậu, nhưng tôi sẽ giữ
 
 Tôi không nghĩ đến mức đó, nhưng nếu để đám họ hàng của chị dọn dẹp thì có khi chuyện ấy cũng xảy ra thật.
 
-"Không có gì đâu ạ," tôi nói.
+"Không có gì đâu," tôi nói.

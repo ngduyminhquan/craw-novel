@@ -182,9 +182,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 175 |  | Chapter_175 - Vol 7 Side Story - Noble’s Trust (3).txt | Vol 7 Side Story - Noble’s Trust (3) | reviewed |  |
 | 176 |  | Chapter_176 - Vol 7 Side Story - Noble’s Trust (4).txt | Vol 7 Side Story - Noble’s Trust (4) | reviewed |  |
 | 177 |  | Chapter_177 - Vol 7 Bonus - A Strange Request.txt | Vol 7 Bonus - A Strange Request | reviewed |  |
-| 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | done |  |
-| 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | done |  |
-| 180 |  | Chapter_180 - Vol 7 Bonus - Heirloom Management.txt | Vol 7 Bonus - Heirloom Management | done |  |
+| 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | reviewed |  |
+| 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | reviewed |  |
+| 180 |  | Chapter_180 - Vol 7 Bonus - Heirloom Management.txt | Vol 7 Bonus - Heirloom Management | reviewed |  |
 | 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | todo |  |
 | 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | todo |  |
 | 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | todo |  |
