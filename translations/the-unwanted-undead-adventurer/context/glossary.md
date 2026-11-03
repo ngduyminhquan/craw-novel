@@ -145,7 +145,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Royal Court |  | Triều Đình Hoàng Gia | tổ chức | 75 | Triều đình của Vương Quốc Yaaran (王廷/宮廷) |
 | Great Angels |  | Đại Thiên Sứ | khác | 76 | Các đấng thiên sứ tối cao được tôn thờ trong Giáo Hội Đông Thiên (大天使) |
 | Goblin Mage | Goblin Mages | Pháp Sư Goblin | quái vật | 77 | Phân loài Goblin có khả năng sử dụng ma thuật sơ cấp (ゴブリンメイジ) |
-| Livelihood Magecraft | life magic | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
+| Livelihood Magecraft | life magic; life spell; life spells | Ma Thuật Sinh Hoạt | kỹ năng | 77 | Các ma pháp vặt yếu ớt phục vụ đời sống sinh hoạt hàng ngày (生活魔術) |
 | Magician of Beginnings |  | Pháp Sư Khởi Đầu | danh hiệu | 77 | Nhân vật huyền thoại đầu tiên tự phát hiện và vận dụng Ma Lực mà không cần trợ giúp (始まりの魔術師) |
 | Ignite Aryumage |  | Ignite Aryumage | kỹ năng | 78 | Thần chú thi triển ngọn lửa nhỏ của Ma Thuật Sinh Hoạt (câu chú giữ nguyên) |
 | cantrip | cantrips | ma pháp vặt | kỹ năng | 77 | Ma pháp sơ cấp yếu ớt của Ma Thuật Sinh Hoạt |
@@ -269,3 +269,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | gadol ze’ev | gadol ze'ev; Gadol ze'ev | Gadol Ze'ev | quái vật | 143 | Quái vật dạng sói khổng lồ Lorraine phỏng đoán |
 | garm | Garm | Garm | quái vật | 143 | Quái vật dạng sói Lorraine phỏng đoán |
 | mawiang | Mawiang | Mawiang | quái vật | 143 | Quái vật dạng sói Lorraine phỏng đoán |
+| God of Plants |  | Thần Thực Vật | danh hiệu | 144 | Danh hiệu thần linh của Viroget cai quản thực vật, mùa màng và thịnh vượng |
+| puppet master | puppet masters | người điều khiển rối | chức nghiệp | 144 | Người biểu diễn hoặc mạo hiểm giả điều khiển rối ma pháp cử động |
+| puppet mastery |  | thuật điều khiển rối | kỹ năng | 144 | Kỹ thuật và ma thuật chế tạo, điều khiển rối cử động |

@@ -851,6 +851,12 @@ Bà lão làm thuốc Gharb xuất hiện giục cả hai trở lại bữa ti�
 Khi Rentt hỏi về ngôi đền cổ bỏ hoang phía tây làng (nơi anh từng tu sửa và nhận được Thần Lực, dùng để bảo quản kho lương thực dự trữ của làng), nét mặt Gharb thoáng sa sầm lại; bà khuyên anh ngày mai hãy tự tới xem và hẹn anh ghé qua nhà bà nói chuyện sau chuyến thăm đền.
 Chương kết thúc khi cả hai trở lại đống lửa trại; Lorraine diễn lại ma pháp ảo ảnh trận chiến Tarasque khiến dân làng trầm trồ vây quanh tra hỏi Rentt, còn Riri nung nấu quyết tâm rèn luyện để bắt kịp sức mạnh của anh.
 
+## 144
+Hôm sau, Rentt cùng Lorraine tới khu vực bỏ hoang phía tây làng Hathara và tìm thấy ngôi đền nhỏ tàn tạ mà Rentt từng tháo rời tu sửa năm xưa; cả hai cùng nhau nhổ cỏ dại, lau dọn bùn đất và phạt dây leo bám quanh đền.
+Khi cả hai quỳ xuống chắp tay cầu nguyện dâng lời cảm tạ, một giọng nói bất mãn vang lên; Rentt phát hiện bức tượng gỗ Lorraine (tạc từ gỗ Ent Bụi Cây) giấu dưới lớp áo của Lorraine đang tự mình cử động và cất tiếng nói.
+Bức tượng tự xưng là một phân thân thần tinh linh của Thần Thực Vật Viroget – vị thần cai quản thực vật, mùa màng và chiến tranh; do ngự xa bản thể và ít tín đồ nên sức mạnh suy giảm, đành mượn vật liệu chứa Ma Lực của bức tượng để hiện hình giao tiếp.
+Thần tinh linh tuyên bố Rentt và Lorraine là hai tín đồ duy nhất của mình, rồi bay lượn niệm chú ban phước Thần Lực lên người Lorraine; chương kết thúc khi Lorraine bàng hoàng phát sáng Thần Lực dưới ánh mắt tò mò đầy tính khoa học.
+
 
 
 

@@ -58,6 +58,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Tilya | Tilya / nàng tiên / cô | 140 | Nàng tiên tí hon được Jinlin và Rentt cứu |
 | Wilfried Rucker | Wilfried / người đàn ông | 142 | Mạo hiểm giả Mithril Cấp cứu mạng Rentt năm 5 tuổi |
 | Azel Goth | Azel / chàng trai trẻ / người đánh xe | 142 | Thương nhân lữ hành đi cùng Wilfried |
+| Viroget | thần tinh linh / tinh linh / Viroget | 144 | Phân thân thần tinh linh trú ngụ trong tượng gỗ |
 
 ## Giữa các nhân vật
 
@@ -241,3 +242,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gharb | Rentt Faina | ta | cháu / Rentt | 143 | Bà cô kiêm người dạy nghề thuốc nói chuyện với cháu họ |
 | Lorraine Vivie | Gharb | tôi / cháu | bà / bà Gharb | 143 | Học giả trẻ nói chuyện với bà lão cao tuổi kiêm ma pháp sư ẩn dật |
 | Gharb | Lorraine Vivie | ta | cô / cô bé / cháu / Lorraine | 143 | Bà lão cao tuổi nói chuyện với học giả trẻ đi cùng cháu mình |
+| Viroget | Rentt Faina | ta | ngươi | 144 | Thần tinh linh nói chuyện với tín đồ tu sửa đền |
+| Rentt Faina | Viroget | tôi | ngươi | 144 | Mạo hiểm giả nói chuyện với thần tinh linh |
+| Viroget | Lorraine Vivie | ta | ngươi / các ngươi | 144 | Thần tinh linh nói chuyện với học giả |
+| Lorraine Vivie | Viroget | tôi / chúng tôi | ngươi | 144 | Học giả ma thuật nói chuyện với thần tinh linh |
