@@ -4,7 +4,7 @@
 
 Trong khu rừng lờ mờ tối, nấp mình giữa những bụi cây thấp, vị thân chủ hiện tại của tôi ghé sát lại và thì thầm. Anh ta là một người thợ thủ công tên là Dylas, đến từ thị trấn Kikal.
 
-Tôi nhìn về phía trước xem tình hình thế nào. "Ừm, có vẻ như lúc này chưa có vấn đề gì. Cơ mà đúng là một ủy thác kỳ lạ thật đấy. Tôi biết sói con của Sói Pha Lê hẳn là rất dễ thương, nhưng dẫu sao chúng vẫn là quái vật. Mà thôi, tôi đoán chỉ cần tiếp cận một cách thận trọng thì chắc cũng ổn thôi."
+Tôi nhìn về phía trước xem tình hình thế nào. "Ừm, có vẻ như lúc này chưa có vấn đề gì. Cơ mà đúng là một ủy thác kỳ lạ thật đấy. Tôi biết Sói Pha Lê con hẳn là rất dễ thương, nhưng dẫu sao chúng vẫn là quái vật. Mà thôi, tôi đoán chỉ cần tiếp cận một cách thận trọng thì chắc cũng ổn thôi."
 
 Thứ đập vào mắt tôi là một con quái vật. Bên trong thân cây cổ thụ rỗng ruột là một con sói to lớn hơn cả một người đàn ông trưởng thành. Những tinh thể pha lê bán trong suốt phủ khắp cơ thể nó lấp lánh như ngọc quý, toát lên một vẻ đẹp đầy huyền bí. Con quái vật này được gọi là Sói Pha Lê.
 
@@ -28,7 +28,7 @@ Chúng tôi lần theo mùi máu cho đến khi tìm thấy hai mạo hiểm gi�
 
 Tôi nghĩ có lẽ chúng tôi có thể khuyên họ rời đi mà không cần phải động tay động chân, nên tôi bước ra khỏi chỗ ẩn nấp.
 
-"Ngươi là ai?!" một trong hai người cất tiếng hỏi.
+"Ai đấy?!" một trong hai người cất tiếng hỏi.
 
 "Bình tĩnh nào, tôi cũng là mạo hiểm giả. Nhìn này, tôi là Đồng Cấp."
 

@@ -96,10 +96,10 @@ Viroget là Thần Thực Vật và mùa màng trù phú. Ngành nghề kinh doa
 
 Hayden gật đầu: "Tôi cũng thế."
 
-"Vậy thì công việc của chúng ta vẫn chưa kết thúc rồi," Rentt nói. "Chúng tôi sẽ phải chỉ đường cho hai người đến đó. Liệu ngày mai chúng ta có thể lên đường đến Rừng Cổ Đại Rasta không? Đến lúc đó tôi sẽ chuẩn bị sẵn ngựa."
+"Vậy thì công việc của chúng ta vẫn chưa kết thúc rồi," Rentt nói. "Chúng tôi sẽ phải dẫn đường cho hai người đến đó. Liệu ngày mai chúng ta có thể lên đường đến Rừng Cổ Đại Rasta không? Đến lúc đó tôi sẽ chuẩn bị sẵn ngựa."
 
 Bá tước gần như rơi nước mắt khi nghe những lời đó. Họ không nhất thiết phải làm vậy. Đúng là ông cần người dẫn đường, nhưng chuyện này đã vượt quá xa phạm vi công việc ban đầu của họ. Nó cũng sẽ rất nguy hiểm. Ent Cổ Đại là một mối đe dọa đáng gờm. Vậy mà họ vẫn hoàn toàn sẵn lòng giúp đỡ.
 
-"Tôi sẽ hậu tạ hai người thật xứng đáng. Ngoài ra, hai người không cần phải làm bất cứ điều gì quá mạo hiểm vì tôi đâu. Nhưng nếu hai người sẵn lòng chỉ đường cho chúng tôi, thì xin cảm ơn hai người rất nhiều."
+"Tôi sẽ hậu tạ hai người thật xứng đáng. Ngoài ra, hai người không cần phải làm bất cứ điều gì quá mạo hiểm vì tôi đâu. Nhưng nếu hai người sẵn lòng dẫn đường cho chúng tôi, thì xin cảm ơn hai người rất nhiều."
 
 Cảm thấy thỉnh cầu này không mấy tương xứng với thể diện của một quý tộc có địa vị như mình, bá tước cúi đầu thật sâu. Hai mạo hiểm giả khẽ gật đầu, còn Hayden vỗ nhẹ lên vai bá tước.

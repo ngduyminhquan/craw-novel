@@ -22,7 +22,7 @@ Ba mạo hiểm giả chẳng cần vạch ra kế hoạch cụ thể nào trư�
 
 Bá tước tự hỏi làm sao họ có thể giành chiến thắng, nhưng những mạo hiểm giả mà ông thuê đều vô cùng dũng cảm. Kẻ khác có thể đã bị những cánh tay uy lực của con ent dọa cho khiếp vía, song Hayden lại lao thẳng xuống bên dưới chúng và cắm phập thanh đại kiếm vào thân cây.
 
-"Mục tiêu to tổ bố thế này thì trượt làm sao được!" anh bật cười nói, nhưng ngay sau đó, những cành cây nhọn hoắt như gai nhím bất ngờ đâm tua tủa ra từ vết chém, suýt chút nữa đã xiên thủng người anh.
+"Mục tiêu to tổ bố thế này thì trượt làm sao được!" anh bật cười nói, nhưng ngay sau đó, những cành cây nhọn hoắt như gai nhím bất ngờ đâm tua tủa ra từ vết đâm, suýt chút nữa đã xiên thủng người anh.
 
 "Nguy hiểm thật đấy. Xem ra không thể cứ thế chặt phăng nó là xong chuyện rồi."
 
@@ -170,10 +170,10 @@ Dấu sáp niêm phong trên phong thư trông quả thực rất quen mắt. Đ
 
 "Chưa chắc đâu. Ngài ấy cũng viết rằng tỷ lệ lây nhiễm vẫn chưa hề thuyên giảm. Trận chiến chắc chắn mới chỉ bắt đầu mà thôi. Bản chất của dịch bệnh vốn là như thế. Nhưng Bá tước Robista là người đứng đầu lãnh địa đó, và ngài ấy biết phương pháp đúng đắn để chống lại căn bệnh, nên tôi tin chắc rốt cuộc ngài ấy sẽ dập tắt được nó thôi."
 
-"Phải rồi. Chúng ta có nên viết thư hồi âm không? Mình có thể nhắn ngài ấy cứ liên lạc với chúng ta nếu cần săn thêm con Ent Cổ Đại nào khác."
+"Phải rồi. Chúng ta có nên viết thư hồi âm không? Chúng ta có thể nhắn ngài ấy cứ liên lạc với chúng ta nếu cần săn thêm con Ent Cổ Đại nào khác."
 
 "Ồ, ý kiến hay đấy. Cứ làm vậy đi. Dù rằng có lẽ chúng ta sẽ lại cần đến sự giúp đỡ của Hayden."
 
 "Nếu có thể lại kề vai sát cánh chiến đấu cùng nhau thì vui đấy. Dẫu vậy, mong là sẽ không cần thiết phải làm thế."
 
-Trong lúc chúng tôi trò chuyện cùng nhau, Lorraine đã viết xong bức thư và gửi đi. Hai tuần sau, chúng tôi nhận được một bức thư khác từ Bá tước Robista thông báo rằng dịch bệnh do loài bọ ma vật gây ra đã được dập tắt. Chúng tôi cũng nhận được một bức thư cảm ơn từ con gái của ngài ấy. Ngày hôm đó, Lorraine và tôi đã cùng nhau ăn mừng bằng một chút rượu ngon.
+Trong lúc chúng tôi trò chuyện cùng nhau, Lorraine đã viết xong bức thư và gửi đi. Hai tuần sau, chúng tôi nhận được một bức thư khác từ Bá tước Robista thông báo rằng dịch bệnh do loài bọ quái vật gây ra đã được dập tắt. Chúng tôi cũng nhận được một bức thư cảm ơn từ con gái của ngài ấy. Ngày hôm đó, Lorraine và tôi đã cùng nhau ăn mừng bằng một chút rượu ngon.
