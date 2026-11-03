@@ -363,3 +363,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Adela | Fazira | tôi | anh / Fazira | 198 | Đồng đội cũ nói chuyện với mạo hiểm giả từng ruồng bỏ mình |
 | Fazira | Mimir | bố | con / Mimir | 198 | Bố nói chuyện với con gái |
 | Mimir | Fazira | con | bố | 198 | Con gái nói chuyện với bố |
+| Lorraine Vivie | Rina Rupaage | tôi | cô / Rina | 199 | Nữ học giả nói chuyện với nữ mạo hiểm giả hậu bối |
+| Rina Rupaage | Lorraine Vivie | tôi | chị / chị Lorraine | 199 | Nữ mạo hiểm giả hậu bối nói chuyện với nữ học giả |

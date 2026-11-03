@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T09:29:24Z",
+  "generatedAt": "2026-11-03T09:36:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3341,6 +3341,12 @@
           "title": "Chương 198: Ngoại truyện Tập 8 - Báo Thù Và Tiềm Thức",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_198.md",
           "sha": "0ec419311ee141c250b1f5f5bb81923689cc722b"
+        },
+        {
+          "number": 199,
+          "title": "Chương 199: Tập 9 Chương 1 - Đánh Giá Năng Lực (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_199.md",
+          "sha": "cbed18e8d02fe286b9166602a3f1038eac86028e"
         }
       ]
     },

@@ -1173,6 +1173,13 @@ Alize đưa một bé gái 10 tuổi tên Mimir bị lạc bố đến nhờ Ren
 Đêm xuống, Fazira bị ma vật đặc thù hóa đá và được đưa tới Viện Trị Liệu của Giáo Hội Giả Kim; do thiếu dược liệu, Rentt và Lorraine đến xin lại nguyên liệu từ Cha Adela rồi kịp thời điều chế thuốc cứu sống Fazira.
 Thấy Cha Adela có biểu hiện bất thường, Rentt bám theo và can thiệp kịp lúc khi Adela rút dao định ám sát Fazira trên giường bệnh; sau khi nghe Adela kể lại mối hận bị Fazira trục xuất khỏi tổ đội thời còn non trẻ, Rentt thức tỉnh mâu thuẫn nội tâm của Adela (đã tận tâm sơ chế nguyên liệu cứu người), khiến Adela rơi lệ từ bỏ ý định báo thù và được Fazira chân thành nhận lỗi, hóa giải hiềm khích cũ.
 
+## 199
+Rentt, Rina, Lorraine và Isaac ra khoảng sân trước mê cung cây bụi nhân tạo tại dinh thự Latuule để kiểm tra năng lực thể chất và ma lực sau khi tiến hóa.
+Cả Rentt và Rina đều dễ dàng bóp nát đá bằng tay trần; khi thử ma pháp tạo lửa Aliumage thuộc Ma Thuật Sinh Hoạt, lượng ma lực tăng vọt của Rentt phóng ra cột lửa khổng lồ suýt thiêu rụi cả mê cung cây bụi khiến ai nấy kinh ngạc.
+Nhận thấy bản thân sở hữu lượng ma lực tương đương 150 người gộp lại và sức mạnh ngang tầm mạo hiểm giả Kim Cấp, Rentt cùng Lorraine thảo luận về việc anh và Rina là những dị biệt ngoại lệ.
+Rina tỏ ra bình thản khi biến thành Ma Cà Rồng; Isaac giải thích rằng con người khi hóa Ma Cà Rồng thường trở nên điềm tĩnh và lý trí hơn, đồng thời chia sẻ về tập tính kết đôi của Ma Cà Rồng hiện đại.
+Chương kết thúc với hồi ức của Rentt về những lời đồn Dampir (con lai giữa Ma Cà Rồng và con người) ở các vùng quê, vốn thường chỉ là người sở hữu ma nhãn hoặc lượng ma lực quá lớn mà anh từng điều tra kiếm tiền tiêu vặt.
+
 
 
 

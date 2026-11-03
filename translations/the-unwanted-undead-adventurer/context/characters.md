@@ -134,6 +134,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 195: Theo hướng dẫn của Laura, cắn cổ hút và truyền máu biến Rina thành quyến thuộc Ma Cà Rồng của riêng mình để giải thoát cô khỏi sự khống chế của Shumini; bị Laura ép uống máu của cô bé trước khi cô hấp thụ Lõi Mê Cung, dẫn tới việc kích hoạt Tiến Hóa Bản Thể mới và ngất lịm đi trong tay Lorraine.
 - Trạng thái tính đến chương 196: Tỉnh lại tại dinh thự gia tộc Latuule sau khi hoàn tất Tiến Hóa Bản Thể (nhờ máu của Laura); cơ thể nhẹ nhõm và dẻo dai hơn, sức mạnh thể chất gia tăng đáng kể đến mức vô tình bóp nát quả đấm cửa gỗ quý giá nhưng chưa kiểm chứng được toàn diện năng lực mới.
 - Trạng thái tính đến chương 197: Được Isaac giải thích bản thân không hề phát ra khí tức Ma Cà Rồng thông thường mà có thể là phân loài gần gũi, khuyên nên thỉnh cầu Thần Giám Định và tự mình du hành khắp nơi tìm hiểu các truyền thuyết đền thờ cổ xưa; cùng Lorraine và Rina chuẩn bị ra vườn dinh thự Latuule để Isaac kiểm tra thực lực và chỉ dạy kỹ năng Ma Cà Rồng.
+- Trạng thái tính đến chương 199: Kiểm tra thể lực và ma lực tại sân dinh thự Latuule; dễ dàng bóp nát đá bằng tay trần; lượng Ma Lực tăng vọt gấp khoảng 150 lần thời còn sống, đạt tầm mạo hiểm giả Kim Cấp, khiến câu chú Aliumage bùng phát thành cột lửa khổng lồ suýt thiêu rụi mê cung cây bụi.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -147,6 +148,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 195: Bị Shumini bắt cóc và biến thành Hạ Cấp Ma Cà Rồng để dung hợp bàn tay trái với Lõi Mê Cung nhằm thao túng mê cung Maalt; sau đó được Rentt cắn cổ truyền máu thu nạp làm quyến thuộc để giải thoát khỏi ý chí của Shumini, và được Laura giải phóng khỏi Lõi Mê Cung.
 - Trạng thái tính đến chương 196: Tỉnh lại bình an tại dinh thự gia tộc Latuule trong trang phục quý phái và được Isaac tiếp đãi chu đáo; dù đã biết mình biến thành Ma Cà Rồng và thỉnh thoảng thấy con người như thức ăn nhưng vẫn giữ được tâm lý tích cực, vui mừng nhảy vào lòng Rentt khi gặp lại.
 - Trạng thái tính đến chương 197: Bất ngờ khi nghe Isaac cho biết cô cũng không phát ra khí tức Ma Cà Rồng bình thường (nhờ nhận máu từ Rentt); ngây thơ thú nhận thấy con người trông ngon mắt và được Rentt tự nhủ phải căn dặn cẩn thận.
+- Trạng thái tính đến chương 199: Dễ dàng bóp nát đá bằng tay trần, được Isaac nhận định sức mạnh tương đương Hạ Cấp Ma Cà Rồng; trở nên thân thiết, thoải mái với Lorraine (được xem như em gái kiêm chuột bạch); tỏ ra bình thản trước thân phận Ma Cà Rồng và cảm thấy cảm xúc phẳng lặng hơn trước.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).

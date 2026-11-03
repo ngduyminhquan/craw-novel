@@ -368,3 +368,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Church of Alchemy |  | Giáo Hội Giả Kim | tổ chức | 198 | Tổ chức tôn giáo tôn sùng thuật giả kim, thờ phụng Thần Giả Kim Dayla |
 | Dayla |  | Dayla | khác | 198 | Vị thần bảo hộ thuật giả kim, đối tượng thờ phụng của Giáo Hội Giả Kim |
 | God of Alchemy |  | Thần Giả Kim | danh hiệu | 198 | Danh xưng thần thánh của Dayla, vị thần được Giáo Hội Giả Kim tôn thờ |
+| Dampir | dampir; dampirs; dhampir; dhampirs | Dampir | chủng tộc | 199 | Con lai giữa Ma Cà Rồng và con người (ダンピール) |
