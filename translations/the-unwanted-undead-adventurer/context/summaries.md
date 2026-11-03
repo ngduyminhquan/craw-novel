@@ -1137,3 +1137,10 @@ Họ tới Hội Mạo Hiểm Giả báo cáo cho Hội Trưởng Wolf Hermann; 
 Trên đường quay lại, nhóm Rentt kinh hoàng chứng kiến cư dân Maalt bị biến dị thành quái vật; Rentt buộc phải xuống tay hạ sát một con quái vật để cứu một thai phụ và rơi vào tâm trạng tự vấn về nhân tính của bản thân.
 Tới ngôi nhà chứa lối vào đường hầm ngầm, cả ba bất ngờ gặp Laura Latuule; cô bé thi triển dị năng kỳ lạ giúp chia sẻ thị giác của một chú chim trên không, đồng thời nhắc tới việc Rentt cũng dùng cách tương tự với chuột quyến thuộc khiến anh sững sờ.
 
+## 193
+Qua thị giác của chim trên cao, Rentt và cả nhóm nhận ra Maalt đang bị bao phủ bởi một ma pháp trận cổ đại khổng lồ; Laura giải thích Shumini đã hy sinh bản thân kích hoạt ma pháp biến Maalt thành một mê cung mới, khiến thị dân bị biến thành quái vật và tạo kết giới cô lập thị trấn (ngay cả Nive Maris ở bên ngoài cũng không thể phá vỡ để vào trong).
+Laura cho biết ma pháp này không thể hóa giải chỉ bằng cách giết kẻ thi triển, mà phải tiêu diệt kẻ đang nắm quyền là Shumini để chạm vào Lõi Mê Cung và chiếm đoạt quyền kiểm soát nhằm ngăn mê cung bành trướng.
+Laura quyết định cùng nhóm Rentt, Lorraine và Isaac tiến xuống đường cống ngầm; nơi này đã bị ma pháp mê cung biến đổi thành cấu trúc sống ngoằn ngoèo với những mạch máu đập thoi thóp và xuất hiện lũ Lizardman trang bị đồ sắt.
+Sau khi Rentt, Isaac và Lorraine phối hợp tiêu diệt hai con quái vật, Laura phô diễn thực lực đáng sợ khi dùng dị năng không gian nén bẹp con Lizardman còn lại thành một khối cầu nhỏ tí hon rơi xuống sàn.
+Cả nhóm tiến đến trước cánh cửa phòng Chủ Nhân Mê Cung lộng lẫy; Isaac bày tỏ mong muốn tự tay kết liễu Shumini nhưng dặn mọi người không cần nương tay vì anh, rồi cả nhóm sẵn sàng mở cửa bước vào trận chiến.
+

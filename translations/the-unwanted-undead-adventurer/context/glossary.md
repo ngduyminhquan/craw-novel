@@ -356,3 +356,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Great Sovereign |  | Đại Quân Chủ | danh hiệu | 191 | Lãnh tụ tối cao phe Ma Cà Rồng mà Shumini phụng sự |
 | Sovereign | Sovereigns | Quân Chủ | danh hiệu | 191 | Danh xưng chỉ bậc quân chủ/thống trị phe Ma Cà Rồng |
 | Knight of Rebellion | Knights of Rebellion | Kỵ Sĩ Phản Nghịch | chức nghiệp | 191 | Danh xưng chức vụ của Shumini phụng sự Đại Quân Chủ trong phe Ma Cà Rồng |
+| dungeon core | dungeon cores; Dungeon core; Dungeon cores | Lõi Mê Cung | hệ thống | 193 | Cốt lõi chi phối sự vận hành và bành trướng của mê cung (ダンジョン核/ダンジョンコア) |
+| dungeon master | dungeon masters; Dungeon Master; Dungeon Masters; dungeon’s ruler | Chủ Nhân Mê Cung | danh hiệu | 193 | Thực thể nắm quyền kiểm soát Lõi Mê Cung (ダンジョンマスター) |
+| floor master | floor masters; Floor Master; Floor Masters | Thống Lĩnh Tầng | quái vật | 193 | Quái vật thủ lĩnh cai quản một tầng trong mê cung (フロアマスター/階層主) |
+| stone spear | stone spears; Stone Spear; Stone Spears | Thạch Thương | kỹ năng | 193 | Ma pháp thổ hệ phóng ra các ngọn giáo bằng đá |
