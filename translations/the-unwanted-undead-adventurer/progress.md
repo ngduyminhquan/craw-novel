@@ -222,7 +222,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 215 |  | Chapter_215 - Vol 9 Chapter 5 - A Request from the Guild (3).txt | Vol 9 Chapter 5 - A Request from the Guild (3) | reviewed |  |
 | 216 |  | Chapter_216 - Vol 9 Chapter 5 - A Request from the Guild (4).txt | Vol 9 Chapter 5 - A Request from the Guild (4) | reviewed |  |
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | done |  |
-| 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | todo |  |
+| 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | done |  |
 | 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | todo |  |
 | 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | todo |  |
 | 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -840,3 +839,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#216] Dịch sinh vật bò sát kéo xe 'creeping lizard' — tạm chọn 'Thằn Lằn Bò Trườn' và thêm vào glossary.md (phương án khác: 'Thằn Lằn Trườn', 'Thằn Lằn Bò'). Tạm dùng trong bản dịch: 'Thằn Lằn Bò Trườn'. → Dùng 'Thằn Lằn Bò Trườn' (orchestrator)
 - [#216] Dịch địa danh 'Ancient City' — tạm chọn 'Thành Phố Cổ Đại' và thêm vào glossary.md (phương án khác: viết thường 'thành phố cổ đại'). Tạm dùng trong bản dịch: 'Thành Phố Cổ Đại'. → Dùng 'Thành Phố Cổ Đại' (orchestrator)
 - [#217] Dịch tiêu đề chương 'Vol 9 Bonus - A Day in the Life of Lorraine Vivie' — tạm chọn 'Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie' (đồng bộ format với #152 'Ngoại truyện Tập 6 - Một Ngày' và loạt ngoại truyện Tập 7; phương án khác: 'Ngoại truyện Tập 9 - Một Ngày Trong Đời Lorraine Vivie'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie'. → Dùng 'Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie' (orchestrator)
+- [#218] Tiêu đề 'The Much Admired Isaac' — tạm dịch 'Isaac Được Ngưỡng Mộ' (phương án khác: 'Isaac Rất Được Ngưỡng Mộ', 'Isaac Được Mọi Người Ngưỡng Mộ'). → Dùng 'Isaac Được Ngưỡng Mộ' (orchestrator)
+- [#218] Xưng hô Frahe và Rentt — tạm chọn Frahe xưng 'tôi' - gọi 'anh / Rentt', Rentt xưng 'tôi' - gọi 'thiếu gia / Frahe' (phương án khác: Frahe xưng 'ta'). → Dùng Frahe xưng 'tôi' - gọi 'anh / Rentt', Rentt xưng 'tôi' - gọi 'thiếu gia / Frahe' (orchestrator)

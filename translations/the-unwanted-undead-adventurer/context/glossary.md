@@ -396,3 +396,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | creeping lizard | creeping lizards | Thằn Lằn Bò Trườn | quái vật | 216 | Loài bò sát khổng lồ dùng làm thú kéo xe, bơi lặn được dưới nước và kéo cả thuyền buồm (匍匐蜥蜴) |
 | Ancient City | the Ancient City; ancient city | Thành Phố Cổ Đại | địa danh | 216 | Tàn tích đô thị cổ xưa thời Vương Quốc Cổ Đại dưới lòng đất nối với ma pháp trận dịch chuyển |
 | Mimic | mimic; mimics; Mimics | Mimic | quái vật | 217 | Quái vật chuyên giả dạng hình người để hút cạn sinh lực con mồi (ミミック) |
+| Muze Family | the Muze Family; the Muzes; Muzes; Muze | Gia tộc Muze | tổ chức | 218 | Một trong những gia tộc lớn đầy quyền thế có chân trong hội đồng thị trấn Maalt (ミューズ家) |

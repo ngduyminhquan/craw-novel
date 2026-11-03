@@ -88,6 +88,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pierpaolo Blanca | Pierpaolo / cậu thanh niên / cậu thiếu niên | 212 | Học viên Học Viện, bạn thân của Noel Kruege |
 | Jad | Jad / thằng bé / đứa trẻ | 217 | Học sinh lớp học tư thục ở Maalt, tính tình hấp tấp hay gây rắc rối |
 | Gerge | Gerge / cậu bé / thằng bé | 217 | Học sinh lớp học tư thục ở Maalt, bạn học của Jad |
+| Frahe | Frahe / cậu bé / đứa trẻ | 218 | Thiếu gia nhỏ tuổi của gia tộc Muze |
 
 ## Giữa các nhân vật
 
@@ -407,4 +408,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jad | Lorraine Vivie | em | cô Lorraine / cô | 217 | Học sinh thưa gửi với cô giáo tình nguyện |
 | Lorraine Vivie | Gerge | tôi | em / Gerge | 217 | Nữ học giả dặn dò học trò |
 | Gerge | Lorraine Vivie | em | cô Lorraine / cô | 217 | Học sinh thưa gửi với cô giáo tình nguyện |
+| Rentt Faina | Frahe | tôi | thiếu gia / Frahe | 218 | Mạo hiểm giả nói chuyện với thiếu gia nhỏ tuổi của gia tộc Muze |
+| Frahe | Rentt Faina | tôi | anh / Rentt | 218 | Thiếu gia nhỏ tuổi của gia tộc Muze nói chuyện với Rentt |
 

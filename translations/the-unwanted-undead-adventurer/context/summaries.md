@@ -1285,5 +1285,12 @@ Lorraine đi theo Gerge tới hiện trường, dặn cậu bé ở lại và đ
 Lorraine tìm thấy Jad đang bất tỉnh và phát hiện thủ phạm là một con quái vật Mimic giả dạng cô bé mặc đồ trắng đang định ăn thịt cậu bé; cô dùng ma pháp hỏa Foteia Borivaas tiêu diệt Mimic, thu thập Ma Tinh rồi cõng Jad trở về lớp học.
 Tại lớp học, Rentt (do Gerge gọi tới) đã có mặt trông nom lũ trẻ giúp cô; sau khi cho Jad uống thuốc hồi phục và trêu đùa vài câu với Rentt, Lorraine tự nhủ sẽ giáo huấn Jad và luôn nhắc nhở lũ trẻ về mối hiểm họa rình rập quanh Maalt.
 
+## 218
+Tình cờ chạm mặt Isaac giữa lòng Maalt khi đang trên đường đi mua thức ăn, Rentt đành nhận lời giúp đỡ người thầy Ma Cà Rồng của mình trông chừng cậu bé Frahe (thiếu gia mười tuổi của gia tộc Muze danh giá) trong lúc Isaac bận việc với gia chủ.
+Trước sự tự ti của Frahe khi luôn so sánh bản thân với hình mẫu hoàn hảo của Isaac tại hội đồng thị trấn Maalt, Rentt chân thành khuyên cậu bé không nên gắng gượng bắt chước một kẻ vượt xa con người bình thường như Isaac mà hãy tìm ra con đường gánh vác vị trí gia chủ phù hợp nhất với bản thân.
+Được Rentt khai sáng khúc mắc, Frahe vui vẻ chơi đùa tiếp; sau đó Isaac cảm ơn Rentt và cả hai cùng bật cười khi thảo luận về ranh giới giữa dũng cảm và thiếu suy nghĩ.
+Về đến nhà muộn, Rentt xoa dịu cơn giận vì bữa tối bị hoãn của Lorraine bằng các nguyên liệu đắt tiền được gia tộc Muze cảm ơn, khiến cô hào hứng khuyến khích anh thi thoảng nên nhận lời giúp đỡ Isaac.
+
+
 
 
