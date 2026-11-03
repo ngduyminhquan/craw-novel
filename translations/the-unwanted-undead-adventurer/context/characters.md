@@ -130,6 +130,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 194: Cùng Isaac, Lorraine và Laura chiến đấu với quái vật cá sấu khổng lồ Shumini; dùng kiếm dồn Ma Lực chém thủng sọ quái vật và dựng Khiên Chắn kết hợp Khí Lực sống sót sau ma pháp diện rộng Địa Ngục Hỏa; hỗ trợ kìm chân và cùng cả nhóm thiêu rụi thân xác phân rã của quái vật sau khi Laura kích nổ nó, rồi cất bước tiến sâu hơn vào mê cung tìm kiếm Lõi Mê Cung.
 - Trạng thái tính đến chương 195: Theo hướng dẫn của Laura, cắn cổ hút và truyền máu biến Rina thành quyến thuộc Ma Cà Rồng của riêng mình để giải thoát cô khỏi sự khống chế của Shumini; bị Laura ép uống máu của cô bé trước khi cô hấp thụ Lõi Mê Cung, dẫn tới việc kích hoạt Tiến Hóa Bản Thể mới và ngất lịm đi trong tay Lorraine.
 - Trạng thái tính đến chương 196: Tỉnh lại tại dinh thự gia tộc Latuule sau khi hoàn tất Tiến Hóa Bản Thể (nhờ máu của Laura); cơ thể nhẹ nhõm và dẻo dai hơn, sức mạnh thể chất gia tăng đáng kể đến mức vô tình bóp nát quả đấm cửa gỗ quý giá nhưng chưa kiểm chứng được toàn diện năng lực mới.
+- Trạng thái tính đến chương 197: Được Isaac giải thích bản thân không hề phát ra khí tức Ma Cà Rồng thông thường mà có thể là phân loài gần gũi, khuyên nên thỉnh cầu Thần Giám Định và tự mình du hành khắp nơi tìm hiểu các truyền thuyết đền thờ cổ xưa; cùng Lorraine và Rina chuẩn bị ra vườn dinh thự Latuule để Isaac kiểm tra thực lực và chỉ dạy kỹ năng Ma Cà Rồng.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -142,6 +143,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 129: Gặp lại Rentt, cho biết cô đã lập tổ đội mới cùng kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii; đồng ý để Rentt chuyển lời hẹn gặp đến anh trai Idoles Rogue.
 - Trạng thái tính đến chương 195: Bị Shumini bắt cóc và biến thành Hạ Cấp Ma Cà Rồng để dung hợp bàn tay trái với Lõi Mê Cung nhằm thao túng mê cung Maalt; sau đó được Rentt cắn cổ truyền máu thu nạp làm quyến thuộc để giải thoát khỏi ý chí của Shumini, và được Laura giải phóng khỏi Lõi Mê Cung.
 - Trạng thái tính đến chương 196: Tỉnh lại bình an tại dinh thự gia tộc Latuule trong trang phục quý phái và được Isaac tiếp đãi chu đáo; dù đã biết mình biến thành Ma Cà Rồng và thỉnh thoảng thấy con người như thức ăn nhưng vẫn giữ được tâm lý tích cực, vui mừng nhảy vào lòng Rentt khi gặp lại.
+- Trạng thái tính đến chương 197: Bất ngờ khi nghe Isaac cho biết cô cũng không phát ra khí tức Ma Cà Rồng bình thường (nhờ nhận máu từ Rentt); ngây thơ thú nhận thấy con người trông ngon mắt và được Rentt tự nhủ phải căn dặn cẩn thận.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -354,6 +356,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 193: Giải thích cho nhóm Rentt về việc Maalt đang bị ma pháp trận cổ đại biến thành mê cung và cách hóa giải bằng cách đánh bại Shumini để đoạt quyền kiểm soát Lõi Mê Cung; đồng hành cùng nhóm Rentt xuống cống ngầm và phô diễn thực lực áp đảo khi dùng dị năng không gian nén bẹp một con Lizardman thành khối cầu nhỏ tí hon.
 - Trạng thái tính đến chương 194: Phô diễn dị năng quả cầu đen kích nổ xé toạc thân xác quái vật cá sấu khổng lồ Shumini thành muôn mảnh thịt vụn để cả nhóm thiêu rụi, rồi cùng nhóm tiến sâu vào tìm Lõi Mê Cung.
 - Trạng thái tính đến chương 195: Thừa nhận bản thân cùng Isaac là Ma Cà Rồng; hướng dẫn Rentt cắn cổ truyền máu thu nhận Rina làm quyến thuộc; ép Rentt uống máu của mình rồi tự thân chạm vào hấp thụ Lõi Mê Cung thứ tư giải cứu Maalt và Rina, sau đó rơi vào giấc ngủ sâu do vượt quá giới hạn chịu đựng; dặn Rentt đi tìm hiểu các truyền thuyết đền thờ cổ.
+- Trạng thái tính đến chương 197: Đang ngủ sâu để hấp thụ Lõi Mê Cung (dự kiến mất từ vài tháng đến vài năm); Isaac tiết lộ nhiều năm qua Laura đã dùng máu Hoa Long Huyết nguyên chất để kìm hãm sức mạnh Ma Cà Rồng khiến thực lực suy giảm, nhưng từ khi gặp Rentt đã dùng ít đi và đang dần hồi phục.
 
 ### Myullias Raiza
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.

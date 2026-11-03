@@ -1162,5 +1162,11 @@ Bắt gặp Edel vừa đi thám thính khu dinh thự về, Rentt theo chú chu
 Bước vào phòng khách lộng lẫy, Rentt gặp lại Rina trong trang phục quý phái đang được Isaac tiếp đãi trà bánh; Rina vui mừng nhảy bổ vào lòng Rentt và chia sẻ rằng cô vẫn ổn dù thỉnh thoảng thấy con người trông ngon mắt như đồ ăn.
 Isaac chào đón Rentt, xác nhận đã giải thích rõ việc cô bé đã biến thành Ma Cà Rồng cho Rina biết, đồng thời cho hay Lorraine đang mải mê vùi mình trong thư viện đồ sộ của gia tộc Latuule.
 
+## 197
+Isaac giải thích cho Rentt biết Laura vẫn đang chìm trong giấc ngủ để hấp thụ Lõi Mê Cung (có thể mất hàng tháng hoặc hàng năm) do suy yếu vì dùng máu Hoa Long Huyết nguyên chất kìm hãm sức mạnh suốt nhiều năm, đồng thời khuyên Rentt nên tự mình du hành điều tra các đền thờ và di tích thay vì nghe theo những diễn giải cũ.
+Isaac tiết lộ Rentt và Rina không phát ra khí tức Ma Cà Rồng thông thường mà có thể là phân loài gần gũi, khuyên anh thỉnh cầu Thần Giám Định để biết chính xác chủng tộc và đề nghị chỉ dạy kỹ năng Ma Cà Rồng cho Rentt.
+Rentt, Isaac và Rina tiến vào thư viện dinh thự Latuule gặp Lorraine; sau khi Lorraine trầm trồ trước quy mô sách cổ quý hiếm, cô hào hứng nhận lời cùng cả nhóm ra vườn để quan sát Isaac kiểm tra thực lực và truyền dạy kỹ năng Ma Cà Rồng.
+
+
 
 

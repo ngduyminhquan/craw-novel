@@ -9,6 +9,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 
 - Normal — từ miêu tả chung (#1)
 - Dragon blood — chất lỏng miêu tả chung (#1)
+- Dragon Flower Blood — miêu tả dịch chiết hoa rồng (#197)
+- Solo Bronze-class — cụm miêu tả mạo hiểm giả Đồng Cấp độc hành (#197)
 
 ## Bảng thuật ngữ
 
@@ -273,7 +275,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | God of Plants |  | Thần Thực Vật | danh hiệu | 144 | Danh hiệu thần linh của Viroget cai quản thực vật, mùa màng và thịnh vượng |
 | puppet master | puppet masters | người điều khiển rối | chức nghiệp | 144 | Người biểu diễn hoặc mạo hiểm giả điều khiển rối ma pháp cử động |
 | puppet mastery |  | thuật điều khiển rối | kỹ năng | 144 | Kỹ thuật và ma thuật chế tạo, điều khiển rối cử động |
-| God of Appraisal |  | Thần Giám Định | danh hiệu | 145 | Thần linh cai quản giá trị và sự đánh giá vật phẩm, được giới thương nhân và quý tộc tôn sùng |
+| God of Appraisal | Goddess of Appraisal | Thần Giám Định | danh hiệu | 145 | Thần linh cai quản giá trị và sự đánh giá vật phẩm, được giới thương nhân và quý tộc tôn sùng |
 | gadol akavish | Gadol Akavish; Gadol akavish | Gadol Akavish | quái vật | 146 | Quái vật nhện khổng lồ sinh sống trong khu rừng phía bắc Làng Hathara (ガドル・アカヴィシュ) |
 | teleportation circle | teleportation circles; Teleportation circle; Teleportation circles | ma pháp trận dịch chuyển | kỹ năng | 18 | Ma pháp trận dùng để di chuyển tức thời giữa các vị trí trong mê cung (転移魔法陣) |
 | Grim Reaper | the Grim Reaper; grim reaper | Tử Thần | khác | 147 | Hiện thân của cái chết trong truyền thuyết, dẫn lối linh hồn sang thế giới bên kia |

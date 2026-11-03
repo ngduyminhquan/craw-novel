@@ -201,7 +201,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | reviewed |  |
 | 195 |  | Chapter_195 - Vol 8 Chapter 4 - Explanation and Resolution (3).txt | Vol 8 Chapter 4 - Explanation and Resolution (3) | reviewed |  |
 | 196 |  | Chapter_196 - Vol 8 Chapter 4 - Explanation and Resolution (4).txt | Vol 8 Chapter 4 - Explanation and Resolution (4) | done |  |
-| 197 |  | Chapter_197 - Vol 8 Chapter 4 - Explanation and Resolution (5).txt | Vol 8 Chapter 4 - Explanation and Resolution (5) | todo |  |
+| 197 |  | Chapter_197 - Vol 8 Chapter 4 - Explanation and Resolution (5).txt | Vol 8 Chapter 4 - Explanation and Resolution (5) | done |  |
 | 198 |  | Chapter_198 - Vol 8 Side Story - Vengeance and the Subconscious.txt | Vol 8 Side Story - Vengeance and the Subconscious | todo |  |
 | 199 |  | Chapter_199 - Vol 9 Chapter 1 - Evaluating Abilities (1).txt | Vol 9 Chapter 1 - Evaluating Abilities (1) | todo |  |
 | 200 |  | Chapter_200 - Vol 9 Chapter 1 - Evaluating Abilities (2).txt | Vol 9 Chapter 1 - Evaluating Abilities (2) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -800,3 +801,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#195] Dịch 'servant' trong quan hệ Ma Cà Rồng và Lõi Mê Cung: tạm chọn 'quyến thuộc' (khớp với bản chất kenzoku và quan hệ chủ nhân - quyến thuộc giữa Rentt và Edel; phương án khác: 'thuộc hạ', 'tôi tớ'). Tạm dùng trong bản dịch: 'quyến thuộc'. → Giữ 'quyến thuộc' (đồng bộ với khái niệm quyến thuộc liên kết bằng máu của Ma Cà Rồng như Edel). (orchestrator)
 - [#195] Dịch câu tự giễu 'The blood sommelier wasn’t on the job today' (đoạn 57): tạm dịch 'Chuyên gia nếm rượu máu hôm nay không làm việc rồi' (phương án khác: 'Chuyên gia nếm máu hôm nay nghỉ việc rồi'). Tạm dùng trong bản dịch: 'Chuyên gia nếm rượu máu hôm nay không làm việc rồi'. → Giữ 'Chuyên gia nếm rượu máu hôm nay không làm việc rồi' (giữ trọn hình ảnh ẩn dụ sommelier tự giễu hài hước của Rentt). (orchestrator)
 - [#196] Xưng hô Isaac gọi Rentt khi chào hỏi ('Good morning, Rentt') — tạm dùng 'ngài Rentt' theo phong thái quản gia lịch thiệp của gia tộc Latuule trong pronouns.md (phương án khác: 'cậu Rentt' / 'Rentt'). → Giữ 'ngài Rentt' theo đúng thiết lập đã chốt từ #114 trong pronouns.md (Isaac luôn giữ phong thái quản gia lịch thiệp). (orchestrator)
+- [#197] Dịch 'Goddess of Appraisal' — raw dùng 'Goddess' và đại từ 'she', trước đây ở #145 dùng 'God of Appraisal' -> 'Thần Giám Định'; tạm dùng 'Thần Giám Định' (đồng bộ với glossary hiện tại, phương án khác: 'Nữ Thần Giám Định'). → Giữ 'Thần Giám Định' (và thêm Alias 'Goddess of Appraisal' vào mục 'God of Appraisal' trong glossary.md) để đồng bộ với #145. (orchestrator)

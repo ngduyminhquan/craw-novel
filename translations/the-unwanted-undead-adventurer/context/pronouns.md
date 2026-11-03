@@ -346,3 +346,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Laura Latuule | tôi | Laura / cô bé | 195 | Nữ học giả nói chuyện với đương chủ quý tộc nhỏ tuổi |
 | Isaac Hart | Lorraine Vivie | tôi | cô Lorraine / tiểu thư Lorraine | 196 | Quản gia quý tộc nói về / với nữ học giả |
 | Lorraine Vivie | Isaac Hart | tôi | anh / Isaac | 196 | Nữ học giả nói chuyện với quản gia gia tộc Latuule |
+| Isaac Hart | Rina Rupaage | tôi | cô / cô Rina | 197 | Quản gia quý tộc nói chuyện với nữ mạo hiểm giả |
+| Rina Rupaage | Isaac Hart | tôi | anh / anh Isaac | 197 | Nữ mạo hiểm giả nói chuyện với quản gia quý tộc |
