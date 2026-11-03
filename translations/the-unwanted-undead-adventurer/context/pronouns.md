@@ -59,6 +59,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Wilfried Rucker | Wilfried / người đàn ông | 142 | Mạo hiểm giả Mithril Cấp cứu mạng Rentt năm 5 tuổi |
 | Azel Goth | Azel / chàng trai trẻ / người đánh xe | 142 | Thương nhân lữ hành đi cùng Wilfried |
 | Viroget | thần tinh linh / tinh linh / Viroget | 144 | Phân thân thần tinh linh trú ngụ trong tượng gỗ |
+| Viro | thần tinh linh / tinh linh / Viro | 145 | Tên gọi tắt của phân thân thần tinh linh Viroget |
 
 ## Giữa các nhân vật
 

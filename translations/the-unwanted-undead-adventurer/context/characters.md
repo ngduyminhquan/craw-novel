@@ -72,6 +72,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Wilfried Rucker | Wilfried | Wilfried Rucker | Mạo hiểm giả Mithril Cấp cứu mạng Rentt năm 5 tuổi, người truyền cảm hứng cho ước mơ của Rentt | #142 |
 | Azel Goth | Azel | Azel Goth | Thương nhân lữ hành kiêm mạo hiểm giả đi cùng Wilfried, dự định lập Thương hội Goth | #142 |
 | Viroget |  | Viroget | Thần Thực Vật; phân thân thần tinh linh trú ngụ trong tượng gỗ Lorraine | #144 |
+| Viro |  | Viro | Tên gọi tắt của phân thân thần tinh linh Viroget | #145 |
 
 ## Chi tiết
 
@@ -533,3 +534,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Thần linh / Thần tinh linh (divine spirit) cai quản thực vật, mùa màng, sự thịnh vượng và chiến tranh.
 - Đặc điểm: Là thần linh ngự tại ngôi đền hoang phế phía tây làng Hathara; bản thể thật sự ngự tại ngôi đền chính ở nơi khác. Một phân thân thần tinh linh của Viroget đã nương náu tại bức tượng gỗ tạc Lorraine (do Rentt đẽo từ gỗ Ent Bụi Cây có ma lực), có thể cử động và cất tiếng nói; tính cách khá xuề xòa, dễ tính, hay phàn nàn nhẹ nhàng vì có quá ít tín đồ; đã ban phước Thần Lực cho Rentt và Lorraine.
 - Xuất hiện từ: #144.
+
+### Viro
+- Giới tính, vai trò: Thần tinh linh (divine spirit).
+- Đặc điểm: Tên gọi tắt của phân thân thần tinh linh Viroget trú ngụ trong bức tượng gỗ tạc Lorraine; tính cách xuề xòa, thích rượu, tan biến thành cát sau khi cạn năng lượng duy trì thể xác. Xem thêm Viroget.
+- Xuất hiện từ: #145.
