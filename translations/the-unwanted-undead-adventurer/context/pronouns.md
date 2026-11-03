@@ -399,4 +399,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Adelina Moska | Noel Kruege | tôi | trò / Noel / Noel Kruege | 212 | Học Sĩ nghiêm khắc chấn chỉnh học viên |
 | Noel Kruege | Pierpaolo Blanca | tôi | cậu / Pierpaolo | 212 | Bạn học cùng phòng thân thiết |
 | Pierpaolo Blanca | Noel Kruege | tôi | cậu / Noel / bạn hiền / người anh em | 212 | Bạn học cùng phòng tính tình sảng khoái phóng khoáng |
+| Rina Rupaage | Alize | tôi / chị | em / Alize | 215 | Nữ mạo hiểm giả nhận hướng dẫn / cùng luyện tập với cô bé mồ côi |
+| Alize | Rina Rupaage | em | chị / chị Rina | 215 | Đứa trẻ mồ côi nói chuyện với nữ mạo hiểm giả nhận hướng dẫn mình |
 

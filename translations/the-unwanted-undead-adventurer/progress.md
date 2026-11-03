@@ -219,7 +219,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | reviewed |  |
 | 213 |  | Chapter_213 - Vol 9 Chapter 5 - A Request from the Guild (1).txt | Vol 9 Chapter 5 - A Request from the Guild (1) | reviewed |  |
 | 214 |  | Chapter_214 - Vol 9 Chapter 5 - A Request from the Guild (2).txt | Vol 9 Chapter 5 - A Request from the Guild (2) | done |  |
-| 215 |  | Chapter_215 - Vol 9 Chapter 5 - A Request from the Guild (3).txt | Vol 9 Chapter 5 - A Request from the Guild (3) | todo |  |
+| 215 |  | Chapter_215 - Vol 9 Chapter 5 - A Request from the Guild (3).txt | Vol 9 Chapter 5 - A Request from the Guild (3) | done |  |
 | 216 |  | Chapter_216 - Vol 9 Chapter 5 - A Request from the Guild (4).txt | Vol 9 Chapter 5 - A Request from the Guild (4) | todo |  |
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | todo |  |
 | 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -835,3 +834,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#213] Dịch tên gọi sự cố 'Great Maaltesian Riot' và 'Maaltesian Dungeon Affair' — tạm chọn 'Đại Bạo Động Maalt' và 'Biến Cố Mê Cung Maalt' (phương án khác: 'Cuộc Bạo Động Lớn Maalt', 'Sự Kiện Mê Cung Maalt'). Tạm dùng trong bản dịch: 'Đại Bạo Động Maalt' và 'Biến Cố Mê Cung Maalt'. → Giữ 'Đại Bạo Động Maalt' và 'Biến Cố Mê Cung Maalt' vì trang trọng và phù hợp với tên gọi sự kiện lịch sử. (orchestrator)
 - [#214] Dịch chức danh 'Imperial grand guildmaster' — tạm chọn 'Tổng Hội Trưởng Đế Quốc' và thêm vào glossary.md (phương án khác: 'Tổng Hội Trưởng của Đế Quốc'). Tạm dùng trong bản dịch: 'Tổng Hội Trưởng Đế Quốc'. → Dùng 'Tổng Hội Trưởng Đế Quốc' (orchestrator)
 - [#214] Dịch từ 'protégé' khi Rina muốn có học trò/đệ tử theo mình — tạm chọn 'đệ tử ruột' (phương án khác: 'người thừa kế', 'đệ tử chân truyền', 'học trò'). Tạm dùng trong bản dịch: 'đệ tử ruột'. → Dùng 'đệ tử ruột' (từ thông thường, không cần đưa vào glossary) (orchestrator)
+- [#215] Dịch địa danh 'Great Cathedral' của Giáo Hội Đông Thiên tại vương đô — tạm chọn 'Đại Thánh Đường' (phương án khác: 'Đại Giáo Đường'). Tạm dùng trong bản dịch: 'Đại Thánh Đường'. → Dùng 'Đại Thánh Đường' (orchestrator)
+- [#215] Xưng hô giữa Rina Rupaage và Alize — tạm chọn Rina xưng 'tôi / chị', gọi 'em / Alize'; Alize xưng 'em', gọi 'chị / chị Rina' (phương án khác: 'tôi - em / cô bé'). Tạm dùng trong bản dịch: 'chị / tôi - em' và 'em - chị'. → Dùng Rina xưng 'tôi / chị', gọi 'em / Alize'; Alize xưng 'em', gọi 'chị / chị Rina' (orchestrator)

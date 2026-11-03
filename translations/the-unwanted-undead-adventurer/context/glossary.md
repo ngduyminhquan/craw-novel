@@ -392,3 +392,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Great Maaltesian Riot |  | Đại Bạo Động Maalt | khác | 213 | Tên gọi đùa của vụ hỗn loạn mê cung gần đây ở Maalt |
 | Maaltesian Dungeon Affair |  | Biến Cố Mê Cung Maalt | khác | 213 | Tên gọi khác của vụ hỗn loạn mê cung gần đây ở Maalt |
 | Imperial grand guildmaster | Imperial Grand Guildmaster | Tổng Hội Trưởng Đế Quốc | chức nghiệp | 214 | Người đứng đầu toàn bộ Hội Mạo Hiểm Giả của Đế Quốc Rermutt |
+| Great Cathedral | the Great Cathedral | Đại Thánh Đường | địa danh | 215 | Cơ sở chính của Giáo Hội Đông Thiên tại vương đô Vistelya |

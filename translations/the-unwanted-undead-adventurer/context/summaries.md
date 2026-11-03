@@ -1267,3 +1267,9 @@ Trước lời đe dọa nửa đùa nửa thật của Wolf về việc bắt a
 Trở về nhà thu dọn hành lý, Rentt bàn luận với Lorraine về những điểm khả nghi và lý do khiên cưỡng trong ủy thác của Wolf; Rentt cũng dự định nhân chuyến đi này thực hiện lời hứa diện kiến Công Chúa Jia tại hoàng cung vương đô và rủ Lorraine đi cùng.
 Để thu xếp hậu phương khi cả hai vắng nhà, Rentt dự tính nhờ Ma Cà Rồng Isaac trông nom Rina, đồng thời gợi ý để Rina nhận bé Alize làm đệ tử ruột (mentor/protégé) truyền dạy kỹ năng nhằm thỏa mãn mong muốn có người học việc như khi cô bé đi thám hiểm Mê Cung Nguyệt Ảnh cùng chuột Edel.
 Lorraine đồng ý đồng hành cùng Rentt tới vương đô bằng xe ngựa, với phương án dự phòng dùng ma pháp trận dịch chuyển tức thời về Maalt nếu xảy ra tình huống khẩn cấp.
+
+## 215
+Rentt, Lorraine dẫn Rina đến Cô Nhi Viện Thứ Hai Maalt để giới thiệu với Alize và thu xếp để Rina cùng luyện tập với Alize trong hai tuần hai người vắng nhà; sau cuộc nói chuyện riêng giữa hai cô bé, Alize vui vẻ đồng ý.
+Trong lúc chờ đợi, Sơ Lillian nhờ chuyển giúp một bức thư tới Đại Thánh Đường của Giáo Hội Đông Thiên tại vương đô; Lorraine vui vẻ nhận ủy thác cá nhân này.
+Chia tay Alize tại cổng cô nhi viện, Rentt dặn dò Rina ưu tiên an toàn và nhờ cậy Isaac khi cần; trên đường ra bến xe ngựa, Rina hào hứng đưa cho Rentt và Lorraine cuốn sổ tay tự vẽ bản đồ cùng danh sách đặc sản vương đô mà cô đã thức khuya chuẩn bị.
+
