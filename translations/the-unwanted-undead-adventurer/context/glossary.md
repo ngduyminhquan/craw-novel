@@ -311,3 +311,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | kazuki grass |  | cỏ kazuki | vật phẩm | 159 | Loài thực vật có rễ nghiền mịn dùng pha chế thức uống arouzal |
 | loa |  | hạt loa | vật phẩm | 159 | Hạt phơi khô rang chín dùng chiết xuất chất lỏng pha chế thức uống arouzal |
 | Ra'al Slime | ra'al slimes; Ra'al Slimes; ra'al slime; Ra'al slime | Slime Ra'al | quái vật | 161 | Phân loài Slime mang độc tính |
+| holy energy | holy energies | thánh khí | hệ thống | 162 | Năng lượng thanh khiết thần thánh cảm nhận được khi thần linh hiện diện hoặc ban phước |
+| holy ground |  | thánh địa | địa danh | 162 | Vùng đất hoặc nơi chốn được thần linh chứng giám hoặc ngự trị, ngập tràn thánh khí |
+| divine sword | divine swords | thần kiếm | vật phẩm | 162 | Kiếm thần thánh trong truyền thuyết do thần linh chế tác hoặc ban phước |
+| Vampire Ear |  | Tai Ma Cà Rồng | kỹ năng | 162 | Cách Rentt tự gọi thính lực cường hóa nhờ cơ thể ma cà rồng của mình |

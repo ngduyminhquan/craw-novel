@@ -68,6 +68,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Myurin | Myurin / cô / cô gái | 154 | Nhân viên tiệm tạp hóa ở Maalt |
 | Nauss Ancro | Nauss / người đàn ông / vị kỵ sĩ | 157 | Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran |
 | Jia Regina Yaaran | Jia / công chúa / cô bé / thiếu nữ | 157 | Nhị Công Chúa của Vương Quốc Yaaran |
+| Josee Meyer | Josee / cô / vị nữ tư tế / cô gái | 162 | Người đứng đầu đền thờ Nữ Thần Khế Ước Hozei |
 
 ## Giữa các nhân vật
 
@@ -282,3 +283,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Nauss Ancro | tôi | ngài / ngài Nauss | 158 | Học giả cải trang nói chuyện lịch thiệp với Đội trưởng Cận Vệ Hoàng Gia |
 | Nauss Ancro | Lorraine Vivie | tôi | cô / tiểu thư | 158 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện với nữ ma pháp sư cứu viện |
 | Augurey | Lorraine Vivie | tôi | cô / Lorraine | 160 | Augurey biết thân phận thật của Lorraine và xưng hô tự nhiên |
+| Rentt Faina | Josee Meyer | tôi | cô / vị tư tế | 162 | Mạo hiểm giả nói chuyện với người đứng đầu đền thờ |
+| Josee Meyer | Rentt Faina | tôi | anh / các vị | 162 | Người đứng đầu đền thờ nói chuyện với người lập khế ước |
+| Lorraine Vivie | Josee Meyer | tôi | cô | 162 | Học giả nói chuyện với người đứng đầu đền thờ |
+| Josee Meyer | Lorraine Vivie | tôi | cô / các vị | 162 | Người đứng đầu đền thờ nói chuyện với người lập khế ước |

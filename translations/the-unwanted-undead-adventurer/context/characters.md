@@ -87,6 +87,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Nauss Ancro | Nauss; Sir Nauss | Nauss Ancro | Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran | #157 |
 | Jia Regina Yaaran | Jia; Princess Jia | Jia Regina Yaaran | Nhị Công Chúa của Vương Quốc Yaaran | #157 |
 | Hozei |  | Hozei | Nữ Thần Khế Ước được thờ phụng tại vương đô Vistelya | #159 |
+| Josee Meyer | Josee | Josee Meyer | Người đứng đầu đền thờ Hozei tại vương đô Vistelya, Thánh Giả trẻ tuổi | #162 |
 
 ## Chi tiết
 
@@ -581,3 +582,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận, vai trò: Nữ Thần Khế Ước (God of Contracts) được thờ phụng tại vương đô Vistelya.
 - Đặc điểm: Bức tượng khổng lồ tại ngôi đền miêu tả bà tay cầm quyền trượng thực thi công lý, tay kia cầm cán cân đảm bảo sự công bằng, tóc dài, trang phục rộng thụng, ánh mắt kiên định không khoan nhượng trước bất kỳ sự bất công nào; tính cách nghiêm khắc bậc nhất trong số các thần linh; khế ước mang sự ban phước của bà do các Thánh Giả tạo ra bằng Thần Lực có khả năng ước thúc hành vi của người ký kết.
 - Xuất hiện từ: #159.
+
+### Josee Meyer
+- Giới tính, vai trò: Nữ, trạc giữa độ tuổi 20, người đứng đầu đền thờ Nữ Thần Khế Ước Hozei tại vương đô Vistelya, Thánh Giả trẻ tuổi.
+- Đặc điểm: Mặc áo chùng thụng trùm kín đầu, giọng nói có phần phi giới tính khi đội mũ trùm; khi lộ diện là một cô gái trẻ trạc tuổi Rentt và Lorraine; đôi lúc hơi lơ đãng ngơ ngác khi bối rối, nhưng phong thái đón tiếp và hướng dẫn lại chỉn chu, rành mạch; rất nhạy cảm với thánh khí và Thần Lực; tôn trọng tuyệt đối tính bảo mật của khế ước và thân phận khách hàng; trao thẻ thông hành đặc biệt để nhóm Rentt có thể liên hệ thẳng với người đứng đầu mọi đền thờ Hozei nếu bản khế ước gặp vấn đề.
+- Xuất hiện từ: #162.

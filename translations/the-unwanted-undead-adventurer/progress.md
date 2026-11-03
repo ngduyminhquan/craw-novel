@@ -166,7 +166,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | reviewed |  |
 | 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | done |  |
 | 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | done |  |
-| 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | todo |  |
+| 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | done |  |
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | todo |  |
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | todo |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -734,3 +733,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#159] Tên thức uống 'arouzal' và nguyên liệu 'kazuki grass', 'loa' — tạm chọn giữ nguyên 'arouzal', dịch 'cỏ kazuki' và 'hạt loa' (phương án khác: 'đậu loa'). → Chốt arouzal, cỏ kazuki và hạt loa (orchestrator)
 - [#160] Cụm từ "human spirit" ở đoạn 42: tạm dịch là "nhân tính con người" theo ngữ cảnh Rentt giữ được bản tính con người dù thân xác là ma vật (phương án khác: "tinh thần con người"; không dùng thuật ngữ "Khí Lực"). → Giữ "nhân tính con người" theo ngữ cảnh thông thường (tâm tính con người), không phải thuật ngữ Khí Lực. (orchestrator)
 - [#161] Dịch 'ra'al slimes' — tạm chọn 'Slime Ra'al' (phân loài Slime mang độc tính, phương án khác: 'Slime Độc Ra'al', 'Slime Raal') → Chốt "Slime Ra'al" (nhất quán với cấu trúc tên phân loài như Phi Long Zeva, Phi Long Grand Fum). (orchestrator)
+- [#162] Dịch 'holy energy' — tạm chọn 'thánh khí' (phương án khác: 'thánh năng', 'năng lượng thánh') → Chốt "thánh khí" để phân biệt với Divinity (Thần Lực). (orchestrator)
+- [#162] Dịch 'Vampire Ear' — tạm chọn 'Tai Ma Cà Rồng' (phương án khác: 'Đôi Tai Ma Cà Rồng') → Chốt "Tai Ma Cà Rồng" theo đúng cách gọi tự đặt ngắn gọn của Rentt. (orchestrator)

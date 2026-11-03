@@ -956,3 +956,9 @@ Rentt từ chối lời đề nghị hiến máu của Augurey, sau đó giải 
 Rentt làm rõ mục tiêu hiện tại là tìm cách trở lại làm người và khéo léo né tránh việc tiết lộ bí mật ma pháp trận dịch chuyển kết nối với làng quê để tránh vi phạm các ràng buộc vô thức của khế ước ma pháp.
 Lorraine soạn thảo các điều khoản khế ước lên giấy nháp; sau khi Rentt và Augurey lần lượt ký tên vào tấm giấy da đặc biệt, bản khế ước bất ngờ phát sáng rực rỡ và ảo ảnh Nữ Thần Hozei xuất hiện ban phước rồi tan biến vào hư không.
 Toàn bộ chữ viết trên bản khế ước biến mất chỉ còn lại chữ ký mờ ảo; cả ba kinh ngạc trước dị tượng thần thánh chưa từng thấy và Lorraine đề nghị rung chuông gọi vị tư tế vào.
+
+## 162
+Vị tư tế bước vào căn phòng ngập tràn thánh khí và vô tình làm tuột mũ trùm để lộ danh tính là nữ tư tế trẻ Josee Meyer - người đứng đầu đền thờ Hozei; cô xác nhận bản khế ước được chính Nữ Thần Hozei đích thân ban phước và trao cho Rentt tấm thẻ đặc quyền liên hệ.
+Nhóm rời đền thờ, chia sẻ sự an tâm về hiệu lực bảo mật tuyệt đối của khế ước ma pháp; Augurey trao mẩu giấy ghi địa chỉ nhà trọ để tiện liên lạc rồi chia tay Rentt và Lorraine.
+Rentt và Lorraine đổi lại trang phục bình thường rồi vội vã đến điểm hẹn gặp lại bà lão Gharb và chú Capitan; Gharb bất ngờ tuyên bố trao toàn quyền quyết định các ma pháp trận dịch chuyển cho hai người và tiết lộ chúng hoàn toàn có thể bị phá hủy bằng tay người nếu gặp nguy cơ bại lộ.
+Trên đường ra cổng thành rời vương đô, Rentt dùng "Tai Ma Cà Rồng" vô tình chứng kiến Augurey tốt bụng đem tặng số thiến thảo hỏa tinh linh còn thừa cho một bé gái nghèo để chữa bệnh cho mẹ mà không lấy tiền.
