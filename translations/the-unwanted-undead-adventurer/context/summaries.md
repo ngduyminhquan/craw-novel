@@ -879,3 +879,9 @@ Nhóm Rentt chiêm ngưỡng thành phố ngầm tráng lệ rực sáng đèn m
 Gharb và Capitan hé lộ gốc tích Làng Hathara từng kế thừa các chức vị triều đình cổ (đại ma pháp sư, kỵ sĩ đoàn trưởng, quốc vương, tể tướng, tư pháp quan, tư tế), tất cả đều sở hữu kỹ năng ma thuật và Khí Lực thượng thừa được lưu truyền từ xưa.
 Gharb kể lại cuộc xung đột nội bộ đẫm máu trong quá khứ khi phe tể tướng muốn phơi bày thành phố ngầm để biến Hathara thành đô thị giàu có, dẫn đến trận chiến sinh tử khiến ba người phe tể tướng thiệt mạng còn phe giữ bí mật bị trọng thương.
 Nhận thấy Đế Quốc Rermutt chuẩn bị dốc quốc lực cử các đoàn thám hiểm tới khám phá thành phố tàn tích, Gharb tuyên bố đã đến lúc chấm dứt việc giữ bí mật thủ cựu và quyết định giao lại thành phố này cho Rentt cùng Lorraine trông coi.
+
+## 149
+Gharb và Capitan cưỡi Shahor Melechnamer chở Rentt và Lorraine đi quan sát thành phố ngầm; Lorraine nhận ra vô số hốc đá trên vách tường đều chứa các ma pháp trận dịch chuyển cổ xưa kết nối khắp đại lục.
+Capitan và Gharb thị phạm dùng cặp đá đỏ-xanh gia truyền để tạo lập ma pháp trận dịch chuyển mới, rồi trao lại các cặp đá này cho Rentt và Lorraine để tiện đi lại giữa Maalt và thành phố ngầm.
+Gharb dẫn cả nhóm bước qua một ma pháp trận dịch chuyển dẫn tới căn phòng bí mật trong đường cống ngầm cổ; sau khi niệm mật ngữ "Rehesteel" ngụy trang lối ra, cả nhóm bước ra ngoài và sững sờ nhận ra tòa lâu đài nguy nga của vương đô Vistelya.
+Gharb và Capitan rút thẻ mạo hiểm giả Đồng Cấp mang tên giả từ chi nhánh xa và hẹn tách ra dạo chơi mua sắm; Lorraine cũng đưa ra hàng loạt thẻ căn cước giả của Đế Quốc, mở đường cho cả nhóm đường hoàng tiến vào cổng thành Vistelya.

@@ -150,6 +150,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 131: Thi triển ma pháp phong hỏa Paloom Igni Su Turbo tiêu diệt đàn Zombie quanh khu cắm trại; thu thập Ma Tinh của Zombie để nghiên cứu Tử Linh Thuật hỗ trợ tìm hiểu bản thể Undead của Rentt; tiếp xúc với nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis.
 - Trạng thái tính đến chương 133: Thích thú thưởng thức hai món ăn quái vật Solest và Gettamba học từ sách nấu ăn ma vật; đề nghị cho Rentt vay tiền không lấy lãi nhưng bị anh từ chối vì lòng tự trọng; cùng Rentt kiệt sức sau chặng đường xóc nảy về tới Làng Hathara và háo hức muốn điều tra ngôi đền cổ ban phước.
 - Trạng thái tính đến chương 138: Thể hiện tửu lượng đáng nể khi uống bốn cốc rượu mạnh nhất làng Hathara mà vẫn hoàn toàn tỉnh táo; phát hiện Rentt thấy mình xinh đẹp nhưng ngô nghê về tình cảm do một bi kịch quá khứ; tôn trọng quy tắc bất thành văn của mạo hiểm giả nên không đào sâu quá khứ của Rentt qua lời kể của người khác; biểu diễn ma pháp ảo ảnh trận chiến của Rentt trước toàn thể dân làng; tìm đến khu nghĩa trang sau nhà thờ cổ và bắt gặp Rentt đang ngồi trước mộ cha mẹ ruột.
+- Trạng thái tính đến chương 149: Nhận ra vô số ma pháp trận dịch chuyển cổ đại rải rác quanh thành phố ngầm; nhận các cặp đá tạo ma pháp trận dịch chuyển từ Capitan và Gharb; cùng Rentt dịch chuyển tới căn phòng bí mật trong đường cống ngầm cổ ở ngoại vi vương đô Vistelya; sở hữu nhiều thẻ căn cước giả từ Đế Quốc để tự do ra vào các thành phố lớn.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -487,7 +488,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Gharb
 - Giới tính, vai trò: Nữ, bà lão làm thuốc (dược sư) tại Làng Hathara, họ hàng của Rentt Faina.
-- Đặc điểm: Từng dạy Rentt kiến thức thảo dược thời thơ ấu; sở hữu Ma Lực, có thể sử dụng ma thuật và thuật giả kim nhưng giữ bí mật với dân làng; hiện đang kiên nhẫn chỉ bảo Fahri nghề làm thuốc và chuẩn bị truyền dạy thuật giả kim; nắm giữ chức vị đại ma pháp sư cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại; quyết định bàn giao việc trông coi thành phố ngầm cổ đại cho Rentt và Lorraine (tính đến chương 148).
+- Đặc điểm: Từng dạy Rentt kiến thức thảo dược thời thơ ấu; sở hữu Ma Lực, có thể sử dụng ma thuật và thuật giả kim nhưng giữ bí mật với dân làng; hiện đang kiên nhẫn chỉ bảo Fahri nghề làm thuốc và chuẩn bị truyền dạy thuật giả kim; nắm giữ chức vị đại ma pháp sư cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại; quyết định bàn giao việc trông coi thành phố ngầm cổ đại cho Rentt và Lorraine (tính đến chương 148); cùng Capitan trao các cặp đá tạo ma pháp trận dịch chuyển gia truyền cho Rentt và Lorraine, dẫn cả nhóm dịch chuyển tới căn phòng bí mật trong cống ngầm ngoại vi vương đô Vistelya; sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa (tính đến chương 149).
 - Xuất hiện từ: #134 (được nhắc đến là bà lão họ hàng làm thuốc), #136 (tiết lộ tên và thuật giả kim).
 
 ### Gharb Faina
@@ -545,5 +546,5 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Capitan
 - Giới tính, vai trò: Nam, trưởng nhóm thợ săn Làng Hathara, một trong những người thầy thuở nhỏ của Rentt.
-- Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara; nắm giữ chức vị kỵ sĩ đoàn trưởng cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại (tính đến chương 148).
+- Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara; nắm giữ chức vị kỵ sĩ đoàn trưởng cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại (tính đến chương 148); thị phạm và trao viên đá tạo ma pháp trận dịch chuyển cho Rentt và Lorraine, sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa để tự do ra vào vương đô Vistelya (tính đến chương 149).
 - Xuất hiện từ: #146.

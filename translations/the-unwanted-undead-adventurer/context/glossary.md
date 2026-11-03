@@ -284,3 +284,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | knight captain | the knight captain; Knight Captain | kỵ sĩ đoàn trưởng | chức nghiệp | 148 | Chức vụ cổ xưa của trưởng nhóm thợ săn Làng Hathara (騎士団長) |
 | minister of justice | the minister of justice; Minister of Justice | tư pháp quan | chức nghiệp | 148 | Chức vụ phụ trách tư pháp trong chính quyền cổ xưa của Làng Hathara (司法官) |
 | chancellor | the chancellor; Chancellor | tể tướng | chức nghiệp | 148 | Chức vụ phụ trách triều chính trong chính quyền cổ xưa của Làng Hathara (宰相) |
+| Empire | the Empire; the empire | Đế Quốc | địa danh | 149 | Đế Quốc lân bang hùng mạnh (Đế Quốc Rermutt) nơi Lorraine từng sinh sống và học tập |
+| Vistelya |  | Vistelya | địa danh | 149 | Vương đô của Vương Quốc Yaaran (ヴィステリア) |
+| Rehesteel |  | Rehesteel | kỹ năng | 149 | Mật ngữ ma pháp kích hoạt cơ quan ngụy trang che giấu lối ra cống ngầm tại Vistelya (giữ nguyên theo rules.md) |
+| Hatharan | Hatharans | người Hathara | chủng tộc | 149 | Người dân mang huyết thống Làng Hathara |
