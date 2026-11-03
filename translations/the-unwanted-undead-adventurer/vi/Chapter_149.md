@@ -184,4 +184,4 @@ Có lẽ đúng là như vậy. Đằng nào thì đáng lẽ ra tôi cũng đan
 
 "Tôi á? Tôi có cách riêng của mình. Chẳng có gì to tát đâu, nhưng nhìn này," Lorraine bảo rồi cho tôi xem vài tấm thẻ căn cước khác nhau đến từ Đế Quốc. Trên đó đều mang những cái tên khác nhau. Chúng rõ ràng đều là đồ giả. Một trong số đó có tên thật của cô, nhưng tôi ngờ rằng cô chẳng định dùng tới nó đâu. Thỉnh thoảng cô vẫn làm những trò như thế này, khiến tôi tự hỏi rốt cuộc Lorraine được đối đãi ra sao ở Đế Quốc, nhưng giờ hỏi chuyện đó cũng chẳng để làm gì. Huống hồ, cô vẫn là chính cô, và chẳng điều gì có thể thay đổi được sự thật ấy. Thế là ổn rồi.
 
-"Thôi thì cháu đoán là chẳng có vấn đề gì nữa rồi. Đi thôi nào," tôi nói, rồi chúng tôi tiến bước về phía cổng thành Vistelya.
+"Thôi thì tôi đoán là chẳng có vấn đề gì nữa rồi. Đi thôi nào," tôi nói, rồi chúng tôi tiến bước về phía cổng thành Vistelya.

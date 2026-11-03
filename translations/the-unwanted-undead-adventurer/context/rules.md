@@ -61,3 +61,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#145) Cụm từ "for the most part": dịch là "nhìn chung", "thông thường", "phần lớn trường hợp" (tránh dịch máy thành "phần lớn thời gian").
 - (#146) Thành ngữ "at a loss for words": dịch là "lúng túng chẳng biết nói gì", "ngượng ngùng cạn lời" (tránh dịch sai lệch thành "bực dọc đến chẳng thốt nên lời").
 - (#146) Cấu trúc đối đáp "mind if I..." / "I'd definitely mind" trong hội thoại đời thường: chuyển ngữ tự nhiên theo ngữ cảnh can ngăn / từ chối khéo thay vì dịch thô chữ "phiền" (ví dụ: "cháu can chú đấy ạ!").
+- (#150) Cấu trúc "doubt [something]": dịch là "cho rằng... khó lòng / không nghĩ là..." (tránh dịch ngược nghĩa thành "ngờ rằng...").
+- (#150) Từ "cackle / cackling": dịch là "cười the thé / cười man rợ / cười rợn người" (tránh dịch là "cười khúc khích").

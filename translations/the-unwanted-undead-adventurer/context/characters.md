@@ -110,6 +110,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 138: Tham gia bữa tiệc chào mừng tại quảng trường làng Hathara; ngượng ngùng né tránh khi Lorraine hỏi về việc đám thanh niên đỏ mặt trước nhan sắc của cô; lén rời bữa tiệc sau màn biểu diễn ma pháp ảo ảnh để đến khu nghĩa trang phía sau ngôi nhà thờ cổ viếng mộ cha mẹ ruột.
 
 - Trạng thái tính đến chương 148: Mang dòng máu hậu duệ của Vương Quốc Cổ Đại (chìa khóa kích hoạt ma pháp trận dịch chuyển cổ đại và thuần hóa Shahor Melechnamer); được bà lão Gharb giao lại quyền trông coi và quản lý Thành Phố Mê Cung Của Hiền Vương Felt tại tầng 60 Mê Cung Côn Trùng Cổ.
+- Trạng thái tính đến chương 149: Được Gharb và Capitan trao tặng các cặp đá ma pháp đỏ-xanh gia truyền để tự do tạo lập ma pháp trận dịch chuyển kết nối giữa Maalt và thành phố ngầm; cùng nhóm dịch chuyển tới đường cống ngầm bí mật và lần đầu tiên đặt chân tới vương đô Vistelya của Vương Quốc Yaaran.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.

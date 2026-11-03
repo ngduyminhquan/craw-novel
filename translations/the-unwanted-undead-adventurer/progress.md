@@ -152,9 +152,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | reviewed |  |
 | 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | reviewed |  |
 | 147 |  | Chapter_147 - Vol 6 Chapter 4 - The Secret of Hathara (2).txt | Vol 6 Chapter 4 - The Secret of Hathara (2) | reviewed |  |
-| 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | done |  |
-| 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | done |  |
-| 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | done |  |
+| 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | reviewed |  |
+| 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | reviewed |  |
+| 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | reviewed |  |
 | 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | todo |  |
 | 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | todo |  |
 | 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | todo |  |
