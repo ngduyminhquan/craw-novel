@@ -116,7 +116,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elza | Abbess Elza; Mother Elza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
 | Elza Olgado |  | Elza Olgado | Tên đầy đủ của Nữ Tu Viện Trưởng Elza | #223 |
 | Marquess of Ancro | Marquess Ancro | Hầu tước xứ Ancro | Tước vị quý tộc của Nauss Ancro, người đứng đầu Gia tộc Ancro | #227 |
-| Lukas Bader | Duke Lukas Bader | Lukas Bader | Công tước kiêm Quan Nhiếp Chính của Vương Quốc Yaaran | #227 |
+| Lukas Bader | Duke Lukas Bader | Lukas Bader | Công tước kiêm Phó Vương của Vương Quốc Yaaran | #227 |
 | Marcel Viesel | Marquess Marcel Viesel | Marcel Viesel | Hầu tước, người đứng đầu phe cánh Đệ Nhất Hoàng Tử tại Vương Quốc Yaaran | #227 |
 | Gisel Georgiou | Countess Gisel Georgiou | Gisel Georgiou | Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran | #227 |
 | Karsten Reshon Yaaran | Karsten | Karsten Reshon Yaaran | Quốc vương đương nhiệm của Vương Quốc Yaaran | #228 |
@@ -746,7 +746,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #222.
 
 ### Lukas Bader
-- Giới tính, vai trò: Nam, Công tước kiêm Quan Nhiếp Chính (viceroy) của Vương Quốc Yaaran.
+- Giới tính, vai trò: Nam, Công tước kiêm Phó Vương (viceroy) của Vương Quốc Yaaran.
 - Đặc điểm: Đại quý tộc có uy thế chính trị hàng đầu vương quốc (#227).
 - Xuất hiện từ: #227 (được nhắc đến).
 
