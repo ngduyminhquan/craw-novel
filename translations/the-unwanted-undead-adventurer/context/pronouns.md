@@ -69,6 +69,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Nauss Ancro | Nauss / người đàn ông / vị kỵ sĩ | 157 | Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran |
 | Jia Regina Yaaran | Jia / công chúa / cô bé / thiếu nữ | 157 | Nhị Công Chúa của Vương Quốc Yaaran |
 | Josee Meyer | Josee / cô / vị nữ tư tế / cô gái | 162 | Người đứng đầu đền thờ Nữ Thần Khế Ước Hozei |
+| Cami | Cami / vợ của Capitan / người vợ | 165 | Vợ của Capitan ở Làng Hathara |
 
 ## Giữa các nhân vật
 

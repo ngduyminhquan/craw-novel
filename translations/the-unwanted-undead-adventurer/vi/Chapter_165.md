@@ -40,7 +40,7 @@ Capitan và tôi nhìn Gharb, cả hai đều ngờ vực không biết mắt b�
 
 "Ra vậy. Đam mê mãnh liệt thật đấy. Làm tôi nhớ lại hồi mới gặp Cami ghê."
 
-"Kìa, chú lại nói nhảm gì thế?" tôi vội hỏi trước khi chú ấy kịp cao hứng kể lể chuyện xưa. "Đấu thôi nào chú."
+"Kìa, chú lại lái sang chuyện gì thế?" tôi vội hỏi trước khi chú ấy kịp cao hứng kể lể chuyện xưa. "Đấu thôi nào chú."
 
 "Chú đang giữa lúc hồi tưởng ngọt ngào mà. Cháu đâu cần phải ngắt lời chú như thế."
 
@@ -60,7 +60,7 @@ Tôi hét lên và lao về phía Capitan nhằm ra đòn phủ đầu, nhưng v
 
 Cấp độ kỹ năng đó chỉ có thể đạt được qua quá trình rèn luyện đối đầu với ma vật dạng người. Chúng không chỉ có hình dáng giống con người, mà tầm nhìn thị giác cũng tương tự như vậy. Tôi biết rõ điều đó, bởi bản thân tôi cũng là một kẻ như thế. Kỹ thuật này của Capitan được thiết kế xoay quanh việc giấu vũ khí khỏi những đôi mắt như vậy. Dĩ nhiên, điều này không thể tôi luyện trong một sớm một chiều. Chú ấy phải có khả năng phán đoán chuyển động và đường nhìn của đối thủ, dù là trong ý thức hay trong tiềm thức, và có thể thi triển bất cứ khi nào muốn.
 
-Nhưng bất chấp tất cả những điều đó, tôi vẫn nắm được vị trí của con dao săn và có thể dõi theo quỹ đạo chuyển động của nó. Chuyện này chẳng liên quan gì đến việc tôi có tài năng đặc biệt hay gì cả. Đơn thuần chỉ là năng lực ma cà rồng đã mang lại cho tôi ưu thế này. Mắt Ma Cà Rồng quả nhiên không phải dạng vừa. Nhưng việc liệu tôi có thể thực sự phản ứng lại các đòn tấn công của Capitan hay không lại là một câu hỏi hoàn toàn khác.
+Nhưng bất chấp tất cả những điều đó, tôi vẫn nắm được vị trí của con dao săn và có thể dõi theo quỹ đạo chuyển động của nó. Chuyện này chẳng liên quan gì đến việc tôi có tài năng đặc biệt hay gì cả. Đơn thuần chỉ là năng lực ma cà rồng đã mang lại cho tôi ưu thế này. Mắt Ma Cà Rồng quả nhiên không phải tầm thường. Nhưng việc liệu tôi có thể thực sự phản ứng lại các đòn tấn công của Capitan hay không lại là một câu hỏi hoàn toàn khác.
 
 Đòn tấn công rốt cuộc cũng chạm tới tôi, và với một tiếng keng chói tai, tôi bằng cách nào đó đã dùng kiếm gạt phăng con dao săn của Capitan. Tôi thấy đòn đánh lao tới đủ rõ, nhưng vẫn chỉ vừa kịp chặn đứng nó trong đường tơ kẽ tóc. Thật khó để đoán trước những chuyển động và ước lượng cự ly vũ khí của chú ấy. Chú cũng nắm rõ mọi thói quen chiến đấu của tôi, và đòn tấn công này có lẽ nhằm mục đích khai thác triệt để những thói quen ấy. Đây là một kèo đấu đặc biệt bất lợi đối với tôi, nhưng dẫu sao thì tôi cũng đã tránh được đòn đánh này.
 
@@ -72,7 +72,7 @@ Capitan bật cười rồi nhảy vút lên không trung phía trên đầu tô
 
 Nhưng ngay trước khi thanh kiếm của tôi kịp đâm xuyên qua bụng, Capitan bằng cách nào đó đã né được đòn tấn công bằng một chuyển động song song với mặt đất đầy bất thường. Mũi kiếm của tôi chỉ đâm vào khoảng không vô định. Tôi nheo mắt cố nhìn xem chuyện gì vừa xảy ra và nhận thấy thứ gì đó lấp lánh theo hướng Capitan vừa di chuyển. Đó có lẽ là một loại dây sợi nào đó.
 
-Tôi nhớ lại rằng vì công việc của mình, Capitan thường sử dụng một loại dây bền chắc làm từ các bộ phận ma vật. Nó có thể dùng để sửa chữa nông cụ hoặc treo con mồi lên. Rất có khả năng chú ấy đã dùng thứ dây đó. Nó đủ dẻo dai để sức nặng của chú không làm đứt được. Tuy nhiên, tôi chưa từng thấy chú sử dụng nó theo cách này bao giờ. Hẳn là chú ấy đã phát triển năng lực này trong khoảng thời gian tôi vắng nhà. Tôi thực sự khâm phục. Tôi nhìn quanh và không nhận thấy điều gì khác thường, nhưng sau khi chứng kiến cảnh tượng này, hoàn toàn có cơ sở để đoán rằng quanh đây vẫn còn những cạm bẫy khác. Chú chính là người từng dạy tôi rằng chỉ cần chiến thắng thì dùng thủ đoạn nào cũng được, và giờ chú đang áp dụng triệt để điều đó vào thực tế. Nhưng tôi sẽ biết ơn lắm nếu chú nương tay đôi chút với đồ đệ của mình.
+Tôi nhớ lại rằng vì công việc của mình, Capitan thường sử dụng một loại dây bền chắc làm từ các bộ phận ma vật. Nó có thể dùng để sửa chữa công cụ hoặc treo con mồi lên. Rất có khả năng chú ấy đã dùng thứ dây đó. Nó đủ dẻo dai để sức nặng của chú không làm đứt được. Tuy nhiên, tôi chưa từng thấy chú sử dụng nó theo cách này bao giờ. Hẳn là chú ấy đã phát triển năng lực này trong khoảng thời gian tôi vắng nhà. Tôi thực sự khâm phục. Tôi nhìn quanh và không nhận thấy điều gì khác thường, nhưng sau khi chứng kiến cảnh tượng này, hoàn toàn có cơ sở để đoán rằng quanh đây vẫn còn những cạm bẫy khác. Chú chính là người từng dạy tôi rằng chỉ cần chiến thắng thì dùng thủ đoạn nào cũng được, và giờ chú đang áp dụng triệt để điều đó vào thực tế. Nhưng tôi sẽ biết ơn lắm nếu chú nương tay đôi chút với đồ đệ của mình.
 
 Tôi hét lên hết cỡ và đuổi theo Capitan. Giờ đây tôi hạ quyết tâm sẽ dốc hết mọi thứ mình có. Bằng cách vận dụng các năng lực ma vật và sức mạnh từ Khí Lực, tôi bắt kịp Capitan chỉ trong chớp mắt. Chú ấy trông có vẻ hơi bất ngờ, nhưng khóe môi cũng thoáng mỉm cười, như thể muốn nói rằng giờ thì cuộc chơi mới thực sự trở nên thú vị.
 
@@ -98,7 +98,7 @@ Capitan vốn đã sử dụng Khí Lực trên con dao săn của mình như m�
 
 Thế nhưng Capitan lại thích nghi với tình huống một cách êm thấm đến kinh ngạc. Tôi ngỡ mình sẽ làm chú ấy rối trí thêm đôi chút, nhưng chú lại vượt xa mọi kỳ vọng của tôi. Dù sao đi nữa, ý định chuyển từ Ma Lực sang Khí Lực của tôi không phải để làm chú bối rối. Nếu làm được vậy thì tốt, nhưng đó cũng chỉ là món hời thêm vào mà thôi. Điều quan trọng là phải kiểm chứng xem liệu nguồn năng lượng Khí Lực này có thể gây tổn thương cho chú hay không.
 
-Capitan đã xoay xở phản ứng lại thanh kiếm của tôi, nhưng điều đó làm rối nhịp của chú đôi chút. Tôi coi đó là cơ hội để lao bổ về phía chú. Tôi đoán chú sẽ có thể phản đòn nếu tôi chém bổ từ trên xuống, nên tôi chỉ đâm thẳng để chú có càng ít cơ hội phản ứng càng tốt. Nhưng Capitan gần như biết trước đòn đánh đang tới, trông chú đầy tự tin. Chú dùng sống dao của con dao săn chặn đứng cú đâm của tôi.
+Capitan đã xoay xở phản ứng lại thanh kiếm của tôi, nhưng điều đó làm rối nhịp của chú đôi chút. Tôi coi đó là cơ hội để lao bổ về phía chú. Tôi đoán chú sẽ có thể phản đòn nếu tôi chém bổ từ trên xuống, nên tôi chỉ đâm thẳng để chú có càng ít cơ hội phản ứng càng tốt. Nhưng Capitan gần như biết trước đòn đánh đang tới, trông chú đầy tự tin. Chú dùng bản dao của con dao săn chặn đứng cú đâm của tôi.
 
 ![](images/ch165-01.webp)
 
