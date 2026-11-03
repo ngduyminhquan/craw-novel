@@ -73,6 +73,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 
 | Count Curtis Nal Robista | Bá tước Curtis Nal Robista / Bá tước Robista / ông / ông ấy | 173 | Quý tộc đại lãnh chủ quyền thế gần vương đô Yaaran |
 | Hayden War | Hayden / Hayden War / anh / anh ấy | 173 | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista |
+| Elaine | Elaine / tiểu thư Elaine / cô bé | 174 | Con gái của Bá tước Curtis Nal Robista |
 
 ## Giữa các nhân vật
 

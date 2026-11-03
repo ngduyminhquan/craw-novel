@@ -178,7 +178,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 171 |  | Chapter_171 - Vol 7 Chapter 6 - Puchi Suri (1).txt | Vol 7 Chapter 6 - Puchi Suri (1) | reviewed |  |
 | 172 |  | Chapter_172 - Vol 7 Chapter 6 - Puchi Suri (2).txt | Vol 7 Chapter 6 - Puchi Suri (2) | done |  |
 | 173 |  | Chapter_173 - Vol 7 Side Story - Noble’s Trust (1).txt | Vol 7 Side Story - Noble’s Trust (1) | done |  |
-| 174 |  | Chapter_174 - Vol 7 Side Story - Noble’s Trust (2).txt | Vol 7 Side Story - Noble’s Trust (2) | todo |  |
+| 174 |  | Chapter_174 - Vol 7 Side Story - Noble’s Trust (2).txt | Vol 7 Side Story - Noble’s Trust (2) | done |  |
 | 175 |  | Chapter_175 - Vol 7 Side Story - Noble’s Trust (3).txt | Vol 7 Side Story - Noble’s Trust (3) | todo |  |
 | 176 |  | Chapter_176 - Vol 7 Side Story - Noble’s Trust (4).txt | Vol 7 Side Story - Noble’s Trust (4) | todo |  |
 | 177 |  | Chapter_177 - Vol 7 Bonus - A Strange Request.txt | Vol 7 Bonus - A Strange Request | todo |  |
@@ -751,3 +751,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#172] Dịch tên loài quái vật Á Long 'Lindblum' ('comet demidragon') — tạm chọn giữ nguyên 'Lindblum' (tương tự Tarasque, Drake, Golem; 'comet demidragon' dịch là 'Á Long sao chổi'; phương án khác: 'Rồng Lindblum', 'Lindwurm'). Tạm dùng trong bản dịch: 'Lindblum'. → Chốt giữ nguyên 'Lindblum' theo tiền lệ tên quái vật phương Tây (Tarasque, Drake) và dịch 'comet demidragon' là 'Á Long sao chổi'. (orchestrator)
 - [#173] Dịch tiêu đề 'Vol 7 Side Story - Noble’s Trust (1)': tạm chọn 'Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (1)' (đồng bộ format 'Ngoại truyện Tập X' với các chương ngoại truyện trước; phương án khác: 'Ngoại truyện Tập 7 - Sự Tin Tưởng Của Quý Tộc (1)'). Tạm dùng: 'Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (1)'. → Chốt 'Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (1)' đồng bộ format với các chương ngoại truyện trước. (orchestrator)
 - [#173] Tên quý tộc cai quản Maalt: raw ghi 'Viscount Lautner', context chương 61 ghi 'Viscount Lottnel' (Tử tước Lottnel): tạm chọn giữ 'Tử tước Lottnel' theo context cũ và thêm 'Viscount Lautner' vào Alias (phương án khác: đổi sang 'Tử tước Lautner'). Tạm dùng: 'Tử tước Lottnel'. → Chốt giữ 'Tử tước Lottnel' theo context đã chốt ở chương 61 và đưa 'Viscount Lautner' vào cột Alias theo đúng rules.md. (orchestrator)
+- [#174] Dịch chức nghiệp 'magic medic' (đoạn 22) — tạm chọn 'y sĩ ma thuật' (phương án khác: 'trị liệu sư ma thuật', 'bác sĩ ma thuật'). Tạm dùng trong bản dịch: 'y sĩ ma thuật'. → Chốt 'y sĩ ma thuật' để phân biệt với 'thầy trị liệu' (healer) và 'dược sư' (apothecary/pharmacist). (orchestrator)

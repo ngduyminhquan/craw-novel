@@ -1027,3 +1027,8 @@ Trên cỗ xe ngựa tiến vào Maalt, Bá tước đại lãnh chủ Curtis Na
 Tại một quán rượu náo nhiệt ở Maalt, một vụ ẩu đả bất ngờ hất văng người lên bàn của bá tước; Hayden và Rentt (đang đeo mặt nạ) phối hợp giải quyết nhanh gọn sự việc.
 Nhận thấy đối phương là quý tộc đi vi hành, Rentt khéo léo biến sai sót thành cơ hội làm ăn, đề nghị nhận làm người dẫn đường thu thập dược liệu và ma dược tại địa phương với sự hỗ trợ của Lorraine.
 Được Hayden ra hiệu ngầm bảo đảm Rentt đáng tin cậy, Bá tước Robista quyết định dùng tên giả "Curt" để thuê Rentt và hai bên vui vẻ bắt tay hẹn ngày mốt bắt đầu chuyến đi.
+
+## 174
+Rentt về nhà kể lại cuộc gặp gỡ với Curt (Bá tước Robista) và Hayden cho Lorraine; cô đồng ý tham gia hỗ trợ khảo sát dược liệu, đồng thời chỉ ra điểm đáng ngờ khi một đại quý tộc vi hành đến thị trấn hẻo lánh Maalt chỉ với một hộ vệ; Rentt thừa nhận nhưng muốn giúp đỡ vì cảm thấy họ thực sự đang gặp khó khăn.
+Trong khi đó, chuyển cảnh hé lộ bi kịch của Bá tước Robista: con gái ông là Elaine mắc chứng bệnh nan y kỳ lạ khoảng một tháng nay với những đốm tím sẫm như vết mực lan rộng khắp cơ thể mà mọi danh y vương đô đều bó tay.
+Bá tước giật mình tỉnh giấc sau cơn ác mộng tái hiện cảnh tượng con gái lâm bệnh và tâm sự cùng Hayden; ông tiết lộ nguyên nhân bí mật chuyến đi Maalt là theo lời sấm truyền từ một con búp bê cử động trên bàn thờ nhà nguyện chỉ dẫn ông tìm nguyên liệu thuốc tại Maalt trước khi hết thời gian, và cả hai đặt hy vọng vào Rentt.

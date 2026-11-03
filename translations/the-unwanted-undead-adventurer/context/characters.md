@@ -93,6 +93,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Count Robista | Robista | Bá tước Robista | Quý tộc đại lãnh chủ quyền thế gần vương đô Yaaran (cách gọi tước hiệu) | #173 |
 | Curt |  | Curt | Tên giả Bá tước Robista tự xưng ở quán rượu Maalt | #173 |
 | Hayden War | Hayden | Hayden War | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista | #173 |
+| Elaine | Lady Elaine | Elaine | Con gái của Bá tước Robista, mắc chứng bệnh lạ đốm tím sẫm | #174 |
 
 ## Chi tiết
 
@@ -620,13 +621,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Dáng vẻ phong trần, tính tình xởi lởi, bộc trực, thích tự do tự tại; chiến lực cực mạnh (một mình tiêu diệt quái vật và sơn tặc bảo vệ xe ngựa), ứng biến nhanh nhạy; từng đến Maalt nhiều lần; rất thân thiện và tôn trọng Bá tước Robista như bạn bè nhưng vẫn giữ chừng mực hộ vệ; nhanh chóng nhận ra thực lực và sự đáng tin cậy của Rentt ở quán rượu.
 - Xuất hiện từ: #173.
 
-### Count Curtis Nal Robista
-- Giới tính, vai trò: Nam, đứng tuổi (an older gentleman), Bá tước quyền thế bậc nhất Vương Quốc Yaaran, đại lãnh chủ sở hữu vùng đất trù phú gần vương đô.
-- Đặc điểm: Thân thiện, nhã nhặn, cởi mở, không phân biệt giai cấp hay trịch thượng; rất quan tâm đến ngành dược liệu vốn là nguồn thu nhập chính của lãnh địa; đến Maalt bí mật khảo sát thảo dược; thích trải nghiệm những điều mới lạ và đánh giá cao năng lực cùng sự khéo léo của mạo hiểm giả; tự xưng tên giả là "Curt" khi ở quán rượu.
-- Xuất hiện từ: #173.
-
-### Hayden War
-- Giới tính, vai trò: Nam, mạo hiểm giả Kim Cấp (Gold-class) hoạt động chủ yếu ở vương đô, được Bá tước Robista thuê làm hộ vệ kiêm cố vấn.
-- Đặc điểm: Dáng vẻ phong trần, tính tình xởi lởi, bộc trực, thích tự do tự tại; chiến lực cực mạnh (một mình tiêu diệt quái vật và sơn tặc bảo vệ xe ngựa), ứng biến nhanh nhạy; từng đến Maalt nhiều lần; rất thân thiện và tôn trọng Bá tước Robista như bạn bè nhưng vẫn giữ chừng mực hộ vệ; nhanh chóng nhận ra thực lực và sự đáng tin cậy của Rentt ở quán rượu.
-- Xuất hiện từ: #173.
+### Elaine
+- Giới tính, vai trò: Nữ, con gái của Bá tước Curtis Nal Robista (Bá tước Robista).
+- Đặc điểm: Mắc chứng bệnh nan y kỳ lạ khoảng một tháng nay, trên mặt và khắp cơ thể xuất hiện các đốm tím sẫm như vết mực; sức khỏe suy giảm dần dần, dù thỉnh thoảng vẫn đủ sức đi dạo trong vườn; là động lực khiến Bá tước Robista đích thân bí mật tới Maalt tìm kiếm dược liệu theo lời sấm truyền.
+- Xuất hiện từ: #174.
 

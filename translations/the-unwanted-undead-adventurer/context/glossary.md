@@ -334,3 +334,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | divinity-mana-spirit fusion | Divinity-mana-spirit fusion | Thần Ma Khí Dung Hợp Thuật | kỹ năng | 168 | Kỹ thuật dung hợp đồng thời cả ba nguồn năng lượng Thần Lực, Ma Lực và Khí Lực |
 | evil god | evil gods | tà thần | khác | 169 | Thần linh tà ác đối nghịch với thiện thần, ban phát năng lượng thần lực tương tự thiện thần |
 | magic medicine |  | ma dược | vật phẩm | 173 | Dược phẩm đặc biệt chế tạo bằng ma thuật hoặc chứa ma lực |
+| magic medic |  | y sĩ ma thuật | chức nghiệp | 174 | Người chữa bệnh bằng kiến thức y dược kết hợp ma thuật |
