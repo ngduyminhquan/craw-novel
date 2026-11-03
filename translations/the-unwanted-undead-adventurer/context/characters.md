@@ -129,6 +129,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 193: Cùng Laura, Lorraine và Isaac quan sát toàn cảnh ma pháp trận bao phủ Maalt; biết được việc Shumini kích hoạt ma pháp cổ đại biến Maalt thành mê cung và phải chiếm quyền kiểm soát Lõi Mê Cung; cùng cả nhóm tiến xuống cống ngầm tiêu diệt bầy Lizardman và chuẩn bị bước vào phòng Chủ Nhân Mê Cung đối đầu sinh tử với Shumini.
 - Trạng thái tính đến chương 194: Cùng Isaac, Lorraine và Laura chiến đấu với quái vật cá sấu khổng lồ Shumini; dùng kiếm dồn Ma Lực chém thủng sọ quái vật và dựng Khiên Chắn kết hợp Khí Lực sống sót sau ma pháp diện rộng Địa Ngục Hỏa; hỗ trợ kìm chân và cùng cả nhóm thiêu rụi thân xác phân rã của quái vật sau khi Laura kích nổ nó, rồi cất bước tiến sâu hơn vào mê cung tìm kiếm Lõi Mê Cung.
 - Trạng thái tính đến chương 195: Theo hướng dẫn của Laura, cắn cổ hút và truyền máu biến Rina thành quyến thuộc Ma Cà Rồng của riêng mình để giải thoát cô khỏi sự khống chế của Shumini; bị Laura ép uống máu của cô bé trước khi cô hấp thụ Lõi Mê Cung, dẫn tới việc kích hoạt Tiến Hóa Bản Thể mới và ngất lịm đi trong tay Lorraine.
+- Trạng thái tính đến chương 196: Tỉnh lại tại dinh thự gia tộc Latuule sau khi hoàn tất Tiến Hóa Bản Thể (nhờ máu của Laura); cơ thể nhẹ nhõm và dẻo dai hơn, sức mạnh thể chất gia tăng đáng kể đến mức vô tình bóp nát quả đấm cửa gỗ quý giá nhưng chưa kiểm chứng được toàn diện năng lực mới.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -140,6 +141,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 128: Tình cờ gặp lại Rentt tại quầy ma cụ phế phẩm ở chợ Maalt; suýt không nhận ra anh do chiếc mặt nạ mới, nhưng lập tức nhận ra tiền bối khi Rentt đổi mặt nạ về hình đầu lâu quen thuộc.
 - Trạng thái tính đến chương 129: Gặp lại Rentt, cho biết cô đã lập tổ đội mới cùng kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii; đồng ý để Rentt chuyển lời hẹn gặp đến anh trai Idoles Rogue.
 - Trạng thái tính đến chương 195: Bị Shumini bắt cóc và biến thành Hạ Cấp Ma Cà Rồng để dung hợp bàn tay trái với Lõi Mê Cung nhằm thao túng mê cung Maalt; sau đó được Rentt cắn cổ truyền máu thu nạp làm quyến thuộc để giải thoát khỏi ý chí của Shumini, và được Laura giải phóng khỏi Lõi Mê Cung.
+- Trạng thái tính đến chương 196: Tỉnh lại bình an tại dinh thự gia tộc Latuule trong trang phục quý phái và được Isaac tiếp đãi chu đáo; dù đã biết mình biến thành Ma Cà Rồng và thỉnh thoảng thấy con người như thức ăn nhưng vẫn giữ được tâm lý tích cực, vui mừng nhảy vào lòng Rentt khi gặp lại.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).

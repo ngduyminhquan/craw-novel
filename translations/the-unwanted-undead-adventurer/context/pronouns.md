@@ -344,3 +344,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Wolf Hermann | Isaac Hart | tôi | anh | 192 | Hội Trưởng tiếp nhận và xem quản gia như thành viên tạm thời của Hội |
 | Laura Latuule | Lorraine Vivie | tôi | Lorraine / cô | 195 | Đương chủ gia tộc kiêm Ma Cà Rồng dặn dò nữ học giả |
 | Lorraine Vivie | Laura Latuule | tôi | Laura / cô bé | 195 | Nữ học giả nói chuyện với đương chủ quý tộc nhỏ tuổi |
+| Isaac Hart | Lorraine Vivie | tôi | cô Lorraine / tiểu thư Lorraine | 196 | Quản gia quý tộc nói về / với nữ học giả |
+| Lorraine Vivie | Isaac Hart | tôi | anh / Isaac | 196 | Nữ học giả nói chuyện với quản gia gia tộc Latuule |

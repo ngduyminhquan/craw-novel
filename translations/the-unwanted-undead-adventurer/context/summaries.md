@@ -1156,4 +1156,11 @@ Tiến qua cánh cửa xanh lam, nhóm Rentt phát hiện Lõi Mê Cung là mộ
 Nhận thấy Lõi Mê Cung đã dung hợp vào thân xác Rina, Laura ép Rentt uống máu của mình rồi tự tay chạm vào hấp thụ Lõi Mê Cung vào cơ thể, cứu thoát Rina và ngăn chặn toàn bộ thị trấn Maalt biến thành mê cung.
 Trước khi chìm vào giấc ngủ vì vượt quá giới hạn chịu đựng (nắm giữ bốn Lõi Mê Cung), Laura dặn Rentt tìm hiểu các đền thờ cổ để hướng tới thăng hạng Mithril Cấp và tìm lại nhân tính; ngay sau đó, Rentt bất ngờ khởi phát Tiến Hóa Bản Thể do máu của Laura rồi ngất lịm đi.
 
+## 196
+Rentt tỉnh lại trong một phòng ngủ sang trọng tại dinh thự của gia tộc Latuule và nhận thấy cơ thể nhẹ nhõm hơn hẳn, nhưng chưa thể kiểm chứng chính xác giới hạn sức mạnh mới sau khi Tiến Hóa Bản Thể.
+Bắt gặp Edel vừa đi thám thính khu dinh thự về, Rentt theo chú chuột đi tìm Isaac; trên đường đi, vì chưa kiểm soát được sức mạnh mới nên Rentt vô tình bóp nát vụn quả đấm cửa gỗ quý giá nhưng được các gia nhân xử lý thay thế tức thì trong lịch thiệp.
+Bước vào phòng khách lộng lẫy, Rentt gặp lại Rina trong trang phục quý phái đang được Isaac tiếp đãi trà bánh; Rina vui mừng nhảy bổ vào lòng Rentt và chia sẻ rằng cô vẫn ổn dù thỉnh thoảng thấy con người trông ngon mắt như đồ ăn.
+Isaac chào đón Rentt, xác nhận đã giải thích rõ việc cô bé đã biến thành Ma Cà Rồng cho Rina biết, đồng thời cho hay Lorraine đang mải mê vùi mình trong thư viện đồ sộ của gia tộc Latuule.
+
+
 

@@ -200,7 +200,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 193 |  | Chapter_193 - Vol 8 Chapter 4 - Explanation and Resolution (1).txt | Vol 8 Chapter 4 - Explanation and Resolution (1) | reviewed |  |
 | 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | reviewed |  |
 | 195 |  | Chapter_195 - Vol 8 Chapter 4 - Explanation and Resolution (3).txt | Vol 8 Chapter 4 - Explanation and Resolution (3) | reviewed |  |
-| 196 |  | Chapter_196 - Vol 8 Chapter 4 - Explanation and Resolution (4).txt | Vol 8 Chapter 4 - Explanation and Resolution (4) | todo |  |
+| 196 |  | Chapter_196 - Vol 8 Chapter 4 - Explanation and Resolution (4).txt | Vol 8 Chapter 4 - Explanation and Resolution (4) | done |  |
 | 197 |  | Chapter_197 - Vol 8 Chapter 4 - Explanation and Resolution (5).txt | Vol 8 Chapter 4 - Explanation and Resolution (5) | todo |  |
 | 198 |  | Chapter_198 - Vol 8 Side Story - Vengeance and the Subconscious.txt | Vol 8 Side Story - Vengeance and the Subconscious | todo |  |
 | 199 |  | Chapter_199 - Vol 9 Chapter 1 - Evaluating Abilities (1).txt | Vol 9 Chapter 1 - Evaluating Abilities (1) | todo |  |
@@ -799,3 +799,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#194] Dịch ma pháp 'ice spears' của Lorraine — tạm chọn 'Băng Thương' (phương án khác: 'ngọn giáo băng') tương tự 'Thạch Thương' (#193). → Giữ 'Băng Thương' (đồng bộ với 'stone spears → Thạch Thương' ở chương 193). (orchestrator)
 - [#195] Dịch 'servant' trong quan hệ Ma Cà Rồng và Lõi Mê Cung: tạm chọn 'quyến thuộc' (khớp với bản chất kenzoku và quan hệ chủ nhân - quyến thuộc giữa Rentt và Edel; phương án khác: 'thuộc hạ', 'tôi tớ'). Tạm dùng trong bản dịch: 'quyến thuộc'. → Giữ 'quyến thuộc' (đồng bộ với khái niệm quyến thuộc liên kết bằng máu của Ma Cà Rồng như Edel). (orchestrator)
 - [#195] Dịch câu tự giễu 'The blood sommelier wasn’t on the job today' (đoạn 57): tạm dịch 'Chuyên gia nếm rượu máu hôm nay không làm việc rồi' (phương án khác: 'Chuyên gia nếm máu hôm nay nghỉ việc rồi'). Tạm dùng trong bản dịch: 'Chuyên gia nếm rượu máu hôm nay không làm việc rồi'. → Giữ 'Chuyên gia nếm rượu máu hôm nay không làm việc rồi' (giữ trọn hình ảnh ẩn dụ sommelier tự giễu hài hước của Rentt). (orchestrator)
+- [#196] Xưng hô Isaac gọi Rentt khi chào hỏi ('Good morning, Rentt') — tạm dùng 'ngài Rentt' theo phong thái quản gia lịch thiệp của gia tộc Latuule trong pronouns.md (phương án khác: 'cậu Rentt' / 'Rentt'). → Giữ 'ngài Rentt' theo đúng thiết lập đã chốt từ #114 trong pronouns.md (Isaac luôn giữ phong thái quản gia lịch thiệp). (orchestrator)
