@@ -197,9 +197,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | reviewed |  |
 | 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | reviewed |  |
 | 192 |  | Chapter_192 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2) | reviewed |  |
-| 193 |  | Chapter_193 - Vol 8 Chapter 4 - Explanation and Resolution (1).txt | Vol 8 Chapter 4 - Explanation and Resolution (1) | done |  |
-| 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | done |  |
-| 195 |  | Chapter_195 - Vol 8 Chapter 4 - Explanation and Resolution (3).txt | Vol 8 Chapter 4 - Explanation and Resolution (3) | done |  |
+| 193 |  | Chapter_193 - Vol 8 Chapter 4 - Explanation and Resolution (1).txt | Vol 8 Chapter 4 - Explanation and Resolution (1) | reviewed |  |
+| 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | reviewed |  |
+| 195 |  | Chapter_195 - Vol 8 Chapter 4 - Explanation and Resolution (3).txt | Vol 8 Chapter 4 - Explanation and Resolution (3) | reviewed |  |
 | 196 |  | Chapter_196 - Vol 8 Chapter 4 - Explanation and Resolution (4).txt | Vol 8 Chapter 4 - Explanation and Resolution (4) | todo |  |
 | 197 |  | Chapter_197 - Vol 8 Chapter 4 - Explanation and Resolution (5).txt | Vol 8 Chapter 4 - Explanation and Resolution (5) | todo |  |
 | 198 |  | Chapter_198 - Vol 8 Side Story - Vengeance and the Subconscious.txt | Vol 8 Side Story - Vengeance and the Subconscious | todo |  |

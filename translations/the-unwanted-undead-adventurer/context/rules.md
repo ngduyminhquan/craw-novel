@@ -77,3 +77,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#189) Từ "convenient" khi nói về người đa năng, giải quyết được nhiều việc: dịch là "có [ai] đúng là tiện thật / hữu dụng / đa năng", tránh dịch máy thành "tiện dụng" (vốn chỉ dùng cho đồ vật).
 - (#192) Tên quái vật cơ bản (Goblin, Slime, Khô Lâu): luôn viết hoa theo đúng glossary.md, tránh viết thường "goblin" lẫn lộn.
 - (#192) Cụm từ đệm "you know" cuối câu thoại an ủi/giải thích: dịch là "... mà / ... đấy thôi", tránh dịch thô thành "bạn biết đấy / anh biết đấy / ngài biết đấy".
+- (#195) Cụm từ "magic trick": dịch là "màn ảo thuật" hoặc "trò ảo thuật" (tránh lặp từ dịch máy thành "ảo thuật ma thuật").

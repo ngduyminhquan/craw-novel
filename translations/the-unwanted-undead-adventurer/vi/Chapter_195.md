@@ -26,7 +26,7 @@ Nếu Rina không chấp nhận tôi và nhìn nhận mọi chuyện một cách
 
 "Đúng vậy," Laura căng thẳng trả lời. "Đó chắc chắn là Lõi Mê Cung. Nhưng nói một cách chính xác hơn thì nhiều khả năng cả Rina lẫn quả cầu đều đang đóng vai trò là Lõi Mê Cung."
 
-"Vậy Rina sẽ ra sao? Cô ấy có thể cứu được không?"
+"Vậy Rina sẽ ra sao? Liệu có cứu được cô ấy không?"
 
 "Trước tiên, tôi phải kiểm tra xem Rina có còn là con người hay không đã."
 
@@ -40,7 +40,7 @@ Nghe vậy tôi thở phào nhẹ nhõm vô cùng. Tôi không biết Laura rố
 
 Laura tiến lại gần Rina rồi chạm vào cô ấy. Rina khẽ cựa quậy. Cô gái đang lơ lửng giữa không trung nên chuyển động trông có phần kỳ dị. Lẽ dĩ nhiên, Laura không để Rina tuột khỏi tay mình mà nắm chặt lấy cánh tay cô ấy. Đoạn, Laura dùng móng tay rạch một vết lên cánh tay Rina. Cô bé nhìn vết máu, đôi mắt chợt lóe lên sắc đỏ trong thoáng chốc. "Ấy chết," cô bé thì thầm, và đôi mắt lại trở về màu xanh da trời. Laura nhìn vết cắt thêm vài giây, rồi vết thương biến mất. Tốc độ hồi phục đó chậm hơn so với tôi hay Isaac, nhưng chẳng một con người bình thường nào có thể tái tạo nhanh đến mức ấy.
 
-"Quả nhiên là vậy. Hắn đã biến Rina thành quyến thuộc của mình," Laura nói.
+"Quả nhiên là vậy. Gã đã biến Rina thành quyến thuộc của mình," Laura nói.
 
 "Vậy Rina là một Thi Quỷ sao?" tôi hỏi. Khi Ma Cà Rồng tạo ra quyến thuộc, thường thì đó sẽ là Thi Quỷ. Về sau chúng có thể tiến hóa thành Hạ Cấp Ma Cà Rồng, nhưng Hạ Cấp Ma Cà Rồng được cho là không thể tạo ra ngay từ đầu.
 
@@ -130,7 +130,7 @@ Tôi nghiêng đầu quay sang nhìn Laura. Đột nhiên cô bé cào rách c�
 
 "Tôi xin lỗi, nhưng thời gian gấp rút quá rồi. Tôi buộc phải hơi thô bạo một chút," cô bé nói rồi rút cánh tay ra khỏi tôi.
 
-Lẽ dĩ nhiên, vết thương của cô bé lập tức lành lại ngay tức khắc. Khả năng tái tạo của cô bé còn nhanh hơn cả tôi hay Isaac. Cảnh tượng ấy trông chẳng khác nào một màn ảo thuật ma thuật. Tôi biết chúng tôi không còn thời gian vì thị trấn đang biến đổi thành một mê cung, nhưng tôi không hiểu tại sao Laura lại làm như vậy.
+Lẽ dĩ nhiên, vết thương của cô bé lập tức lành lại ngay tức khắc. Khả năng tái tạo của cô bé còn nhanh hơn cả tôi hay Isaac. Cảnh tượng ấy trông chẳng khác nào một màn ảo thuật. Tôi biết chúng tôi không còn thời gian vì thị trấn đang biến đổi thành một mê cung, nhưng tôi không hiểu tại sao Laura lại làm như vậy.
 
 Laura bước tới chỗ Rina, cầm lấy cánh tay trái của cô ấy và chạm vào Lõi Mê Cung.
 
@@ -142,7 +142,7 @@ Cuối cùng, cô bé nhìn sang Isaac. "Đây đã là lần thứ tư rồi. T
 
 Dứt lời, Laura lại đưa mắt nhìn Lõi Mê Cung trên người Rina. Nó phát ra một luồng sáng u ám rồi lập tức bao bọc lấy Rina. Dường như nó không hề nhúc nhích dịch chuyển, nhưng Laura đã dần dần hấp thụ nó vào cơ thể mình. Khi toàn bộ ánh sáng đã được hút trọn vào lồng ngực Laura, Lõi Mê Cung liền biến mất. Rina không còn lơ lửng nữa và ngã xuống sàn. Dù không hiểu tường tận từng chi tiết, nhưng tôi đoán Lõi Mê Cung đã được chuyển giao sang Laura.
 
-Trông Laura như sắp sửa ngã quỵ, tôi liền định chạy tới đỡ lấy cô bé, nhưng Isaac đã lao tới với tốc độ nhanh hơn tôi nhiều và giữ chặt lấy vai cùng eo của cô bé để đứng vững.
+Trông Laura như sắp sửa ngã quỵ, tôi liền định chạy tới đỡ lấy cô bé, nhưng Isaac đã lao tới với tốc độ nhanh hơn tôi nhiều và đỡ chặt lấy vai cùng eo giữ cho cô bé đứng vững.
 
 Thán phục trước phản xạ đó, Lorraine và tôi tiến lại gần Laura cùng Rina. Rina vẫn còn thở, và tôi cảm nhận được sợi dây liên kết với cô ấy rõ ràng hơn trước. Có lẽ bấy lâu nay Rina vẫn luôn có ý thức, nhưng vì lý do nào đó mà Lõi Mê Cung đã ngăn chặn sợi dây liên kết này.
 

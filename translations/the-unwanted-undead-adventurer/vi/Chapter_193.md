@@ -102,7 +102,7 @@ Nghĩ lại thì, Lorraine và Nive cũng đều rất mạnh. Cảm giác như 
 
 Lorraine nhún vai. "Được chứ, thế vẫn tốt hơn nhiều so với việc trong nhóm toàn mấy gã đàn ông hôi hám."
 
-Tôi đâu nghĩ hai đứa tôi lại hôi hám đến mức ấy. Isaac là một người đàn ông khá điển trai. Còn tôi thì có thể bị coi là kẻ đáng ngờ, nhưng chưa đến nỗi "hôi hám". Chà, dù sao cô ấy cũng chỉ đang nói đùa thôi.
+Tôi đâu nghĩ hai người bọn tôi lại hôi hám đến mức ấy. Isaac là một người đàn ông khá điển trai. Còn tôi thì có thể bị coi là kẻ đáng ngờ, nhưng chưa đến nỗi "hôi hám". Chà, dù sao cô ấy cũng chỉ đang nói đùa thôi.
 
 "Cảm ơn mọi người đã cho tôi đi cùng," Laura nói rồi nhún gối chào. Cử chỉ ấy vừa đáng yêu lại vừa tao nhã, nhưng đáng lẽ cô bé lại mạnh hơn cả tôi lẫn Isaac rất nhiều. Tôi phải học cách không trông mặt mà bắt hình dong mới được. Cô bé cũng chẳng mang theo vũ khí nào, nhưng hỏi về chuyện đó thì có vẻ thất lễ quá.
 
@@ -112,9 +112,9 @@ Tôi quyết định sẽ hỏi chi tiết sau, chỉ để lại một câu h�
 
 "Nhân tiện thì, Lõi Mê Cung trông như thế nào vậy?" tôi hỏi. Chúng tôi sẽ chẳng thể nào kiểm soát hay phá hủy nó nếu không biết hình dáng của nó ra sao. Dù rằng chúng tôi vốn không được phép phá hủy nó.
 
-Laura lộ vẻ mặt như thể cô bé suýt quên mất chuyện đó. "Có rất nhiều loại, nhưng chúng thường mang hình dạng những Quả Cầu màu đen. Cũng có những loại hiếm hơn, nhưng nhìn vào ma pháp trận này thì nó sẽ chẳng phải thứ gì quá đặc biệt đâu. Ngài không cần lo lắng về chuyện đó, và nếu nó có là thứ gì đó khó nhận biết hơn thì chỉ cần nhìn thấy là tôi sẽ nhận ra ngay thôi."
+Laura lộ vẻ mặt như thể cô bé suýt quên mất chuyện đó. "Có rất nhiều loại, nhưng chúng thường mang hình dạng những quả cầu màu đen. Cũng có những loại hiếm hơn, nhưng nhìn vào ma pháp trận này thì nó sẽ chẳng phải thứ gì quá đặc biệt đâu. Ngài không cần lo lắng về chuyện đó, và nếu nó có là thứ gì đó khó nhận biết hơn thì chỉ cần nhìn thấy là tôi sẽ nhận ra ngay thôi."
 
-Ít nhất thì một Quả Cầu đen nghe có vẻ không phải thứ tôi sẽ vô tình đập vỡ. Tôi không rõ liệu có phải do cơ thể mới của mình hay không, nhưng dạo gần đây tôi thường xuyên nảy sinh những xung động muốn phá hủy đồ đạc. Tôi quyết định sẽ dành những xung động ấy cho Shumini.
+Ít nhất thì một quả cầu đen nghe có vẻ không phải thứ tôi sẽ vô tình đập vỡ. Tôi không rõ liệu có phải do cơ thể mới của mình hay không, nhưng dạo gần đây tôi thường xuyên nảy sinh những xung động muốn phá hủy đồ đạc. Tôi quyết định sẽ dành những xung động ấy cho Shumini.
 
 "Vậy chúng ta đi chứ?" tôi hỏi. Những người còn lại trong nhóm cùng gật đầu, và chúng tôi bước vào trong ngôi nhà. Tôi cảm thấy cả đội có phần thiếu tổ chức, nhưng điều đó cũng là dễ hiểu.
 
