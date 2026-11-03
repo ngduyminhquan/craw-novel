@@ -64,6 +64,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Doras | Doras / cậu bé / cậu thiếu niên / cậu ấy | 151 | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi |
 | Jid Dalger | Jid / ông lão / người thợ săn | 152 | Thợ săn lão luyện làng Shigaon, cha của Razzie |
 | Rudol | Rudol / người đàn ông / người thợ săn | 153 | Thợ săn địa phương tại Làng Wega |
+| Eiras | Eiras / người đàn ông / anh ta | 154 | Mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt |
+| Myurin | Myurin / cô / cô gái | 154 | Nhân viên tiệm tạp hóa ở Maalt |
 
 ## Giữa các nhân vật
 
@@ -263,3 +265,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jid Dalger | Rentt Faina | ta | cậu / Rentt | 152 | Thợ săn lão luyện nói chuyện thân tình, hào sảng với chàng mạo hiểm giả trẻ tuổi |
 | Rentt Faina | Rudol | tôi | anh / Rudol | 153 | Mạo hiểm giả nói chuyện với thợ săn địa phương |
 | Rudol | Rentt Faina | tôi | cậu / người anh em / Rentt | 153 | Thợ săn địa phương ban đầu vờ say thách đấu, sau bộc bạch thật lòng |
+| Rentt Faina | Eiras | tôi | anh / Eiras | 154 | Mạo hiểm giả quen biết ở Maalt |
+| Eiras | Rentt Faina | tôi | cậu / Rentt | 154 | Mạo hiểm giả kỳ cựu nói chuyện với đồng nghiệp trẻ hơn |

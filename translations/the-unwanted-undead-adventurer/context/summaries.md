@@ -908,3 +908,9 @@ Rentt mang thỏ về nhà nấu ăn cùng Lorraine; khi Lorraine tấm tắc kh
 Rentt và Lorraine đến Làng Wega nhận ủy thác tiêu diệt một con Goblin to lớn hai mét cầm đại kiếm chuyên quấy phá hoa màu và gia súc; sau khi hoàn thành nhiệm vụ trong ngày, cả hai cùng dân làng ăn mừng tại quán rượu duy nhất của làng.
 Tại quán rượu, thợ săn địa phương Rudol giả vờ say rượu kiếm chuyện thách đấu vật tay với Rentt; khi vào trận, Rudol bộc bạch thật lòng rằng anh cố tình tạo màn kịch chịu thua để dân làng thấy rõ sự vượt trội của mạo hiểm giả, tránh tâm lý chủ quan coi thường nguy hiểm về sau.
 Rentt dùng sức mạnh quái vật áp đảo bẻ gãy bàn thắng cuộc rồi dùng Thần Lực chữa lành vết bầm cho Rudol; trên đường về, Lorraine khoe túi tiền thắng cược từ đám đông đặt cửa cho Rudol và tinh nghịch rủ Rentt lặp lại chiêu này ở các làng khác để kiếm bộn tiền.
+
+## 154
+Tại một quán rượu ở Maalt, Rentt bắt gặp mạo hiểm giả Ngân Cấp Eiras đang say mèm vì ngậm ngùi chia tay người yêu là Myurin để cô có thể lấy một người đàn ông giàu có nhằm có tiền chữa bệnh nan y (bệnh fiel) cho em trai.
+Biết chuyện, Rentt và Lorraine đã nhờ quan hệ ở Đế Quốc tìm kiếm cỏ luan quý hiếm, kết hợp nhựa nguyệt thụ cùng các loại ma dược để tự tay điều chế thuốc đặc trị bệnh fiel mang tới trao cho Eiras.
+Nhận được thuốc cứu em trai Myurin, Eiras mừng rỡ chạy đi tìm người yêu để hàn gắn và nhanh chóng tổ chức một hôn lễ linh đình với sự hiện diện của người em trai đã khỏi bệnh.
+Đứng ngắm cô dâu chú rể tại đám cưới, Rentt và Lorraine vui vẻ trêu đùa nhau về trang phục cưới tương lai của hai người (áo choàng phù thủy và giáp đen nguyền rủa) rồi cùng thầm chúc phúc cho cặp đôi mới cưới.

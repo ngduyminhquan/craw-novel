@@ -79,6 +79,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Razzie Dalger | Razzie | Razzie Dalger | Con trai duy nhất của Jid Dalger, chủ doanh nghiệp quy mô vừa ở Maalt | #152 |
 | Dat | Dat Dalger | Dat | Con trai của Razzie Dalger, cháu nội của Jid Dalger, chú rể trong đám cưới | #152 |
 | Rudol | Rudal | Rudol | Thợ săn địa phương tại Làng Wega | #153 |
+| Eiras |  | Eiras | Mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt, người yêu và sau đó là chồng của Myurin | #154 |
+| Myurin |  | Myurin | Nhân viên tiệm tạp hóa ở Maalt, người yêu và sau đó là vợ của Eiras | #154 |
 
 ## Chi tiết
 
@@ -541,3 +543,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thợ săn địa phương tại Làng Wega.
 - Đặc điểm: Thợ săn chuyên săn quái vật nhỏ không bõ thuê mạo hiểm giả; sở hữu lực tay khỏe từng thắng cả một số mạo hiểm giả; người hiểu rõ giới hạn của bản thân và dân làng nên đã khuyên trưởng làng thuê mạo hiểm giả diệt con Goblin to lớn; sẵn sàng giả say kiếm chuyện thách đấu vật tay với Rentt để chịu thua nhằm giúp dân làng hiểu rõ thực lực của mạo hiểm giả và không coi thường nguy hiểm.
 - Xuất hiện từ: #153.
+
+### Eiras
+- Giới tính, vai trò: Nam, khoảng ba mươi lăm tuổi, mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt.
+- Đặc điểm: Thân hình vạm vỡ, dày dạn kinh nghiệm thực chiến; tính tình bộc trực, chung thủy, hết lòng yêu Myurin; vì không muốn cản trở cơ hội chữa bệnh cho em trai Myurin nên từng ngậm ngùi nói lời chia tay và mượn rượu giải sầu; sau khi được Rentt và Lorraine tặng thuốc hiếm đã lập tức chạy đi tìm Myurin và tổ chức đám cưới trọn vẹn.
+- Xuất hiện từ: #154.
+
+### Myurin
+- Giới tính, vai trò: Nữ, nhân viên tiệm tạp hóa ở Maalt, người yêu và sau đó là vợ của Eiras.
+- Đặc điểm: Xinh đẹp, đoan trang, tháo vát; có em trai không may mắc chứng bệnh nan y (bệnh fiel); từng đau lòng khi Eiras đòi chia tay; sau khi em trai được chữa khỏi nhờ thuốc của Rentt và Lorraine, cô và Eiras đã nên duyên vợ chồng trong trang phục lộng lẫy.
+- Xuất hiện từ: #154.

@@ -20,7 +20,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
 | upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
-| Silver-class |  | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級) |
+| Silver-class | Silver-rank | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級) |
 | lower Silver-class |  | Hạ Ngân Cấp | cấp bậc | 27 | Phân bậc thấp trong Ngân Cấp |
 | Gold-class |  | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class |  | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
@@ -292,3 +292,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | aurum rabbit | aurum rabbits; Aurum rabbit; Aurum rabbits | thỏ Aurum | quái vật | 152 | Quái vật dạng thỏ cực kỳ quý hiếm, thịt được xem là cao lương mỹ vị (オーラムラビット) |
 | gran bear | gran bears; Gran bear; Gran bears | gấu Gran | quái vật | 152 | Phân loài quái vật dạng gấu hung dữ hay lai vãng gõ cửa nhà Jid Dalger (グランベア) |
 | Wega | village of Wega | Làng Wega | địa danh | 153 | Ngôi làng cách Maalt không xa |
+| fiel disease |  | bệnh fiel | khác | 154 | Chứng bệnh kỳ lạ nan y đe dọa tính mạng em trai Myurin |
+| luan grass |  | cỏ luan | vật phẩm | 154 | Loại thảo dược quý hiếm từ Đế Quốc dùng điều chế thuốc trị bệnh fiel |
+| moontree sap |  | nhựa nguyệt thụ | vật phẩm | 154 | Chất dịch từ cây nguyệt thụ dùng làm dung môi điều chế thuốc trị bệnh fiel |
