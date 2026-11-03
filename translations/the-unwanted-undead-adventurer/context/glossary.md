@@ -378,3 +378,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | The Tower | Tower | Tòa Tháp | tổ chức | 203 | Tổ chức nghiên cứu ma thuật của các ma pháp sư tại vương đô Yaaran (魔術師の塔) |
 | Kohm Clinic | Kohm | Phòng Khám Kohm | địa danh | 203 | Phòng khám y tế do Hội Mạo Hiểm Giả bảo trợ tại Maalt (コーム診療所) |
 | mana blade | mana blades; Mana blade; Mana blades | Ma Lực Kiếm | vật phẩm | 206 | Loại ma kiếm đặc biệt mạnh mẽ, thường là vật phẩm mê cung cấp cao hoặc cổ vật (魔力剣) |
+| demon lord | demon lords; Demon Lord; Demon Lords | Ma Vương | danh hiệu | 207 | Ma Vương trong thần thoại/truyền thuyết fantasy (魔王) |
+| dryad | dryads; Dryad; Dryads | Dryad | quái vật | 207 | Tinh linh cây cối/thực vật trong thần thoại (ドライアド) |

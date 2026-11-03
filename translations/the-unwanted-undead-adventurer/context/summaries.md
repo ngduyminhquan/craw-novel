@@ -1222,3 +1222,10 @@ Isaac giải thích điểm yếu chí mạng của Ma Cà Rồng trước Thầ
 Isaac thị phạm kỹ năng Phân Liệt (Division) bằng cách phân tách toàn thân thành đàn dơi rồi hợp thể lại, sau đó hướng dẫn phương pháp Phân Liệt một phần từ đầu ngón tay thông qua luyện tập hình dung.
 Vì sức mạnh của Rentt còn thiếu ổn định (từng tạo cột lửa khổng lồ từ ma pháp mồi lửa), Isaac quyết định để Rina thực hành trước; Rina nhắm mắt tập trung kích hoạt Phân Liệt từ đầu ngón tay.
 
+## 207
+Rina thực hiện thành công Phân Liệt một phần từ đầu ngón tay tạo thành một con mèo bóng mờ đen tuyền nhưng kiệt sức; Isaac phân liệt ngón tay thành dơi thật để làm mẫu và hướng dẫn cô thu hồi phân thân trở lại bình thường.
+Isaac dặn Rina cần tiếp tục luyện tập để quen dần việc phân nhánh ý thức, đồng thời dự đoán cô có triển vọng tinh thông Phân Liệt toàn thân.
+Cả nhóm trao đổi về tương lai bán Ma Cà Rồng của Rina; Isaac động viên rằng cuộc sống ma cà rồng bất lão không tệ nhưng phải đối mặt với nỗi chán chường thời thế, và khuyên cô nên tự mình đưa ra lựa chọn.
+Đến lượt Rentt thực hành Phân Liệt, do nghe Lorraine gợi ý về việc hình dung thực vật nên ngón tay anh biến thành cành cây; không dừng lại ở đó, trí tưởng tượng bay bổng khiến cánh tay còn lại của Rentt phóng ra bóng thỏ và chim chóc tạo thành một tập hợp sinh thái kỳ quặc trước sự sững sờ của mọi người.
+
+
