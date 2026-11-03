@@ -193,7 +193,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | reviewed |  |
 | 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | done |  |
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | done |  |
-| 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | todo |  |
+| 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | done |  |
 | 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | todo |  |
 | 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | todo |  |
 | 192 |  | Chapter_192 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -781,3 +780,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#188] Dịch dị năng của Ma Cà Rồng 'Division' (phân tách thành đàn dơi rồi hồi phục nguyên vẹn) — tạm chọn 'Phân Liệt' theo Hán Việt (分裂) (phương án khác: 'Phân Thân', 'Chia Tách'). Tạm dùng trong bản dịch: 'Phân Liệt'. → Giữ 'Phân Liệt' (Hán Việt ngắn gọn theo rules.md, đúng bản chất phân tách cơ thể thành đàn dơi). (orchestrator)
 - [#188] Dịch dị năng/vũ khí máu của Ma Cà Rồng 'San Arms' — tạm chọn 'Huyết Binh' (San = sang/sanguis chỉ máu, arms = binh khí) (phương án khác: 'Huyết Khí', 'San Arms'). Tạm dùng trong bản dịch: 'Huyết Binh'. → Giữ 'Huyết Binh' (Hán Việt ngắn gọn theo rules.md, đúng bản chất vũ khí đỏ tạo từ máu của Ma Cà Rồng). (orchestrator)
 - [#188] Dịch khái niệm tôn giáo 'Heaven' (đoạn 36, 38) — tạm chọn 'Thiên Đường' đối lập với 'Địa Ngục' (Hell ở #123) (phương án khác: 'Thiên Giới'). Tạm dùng trong bản dịch: 'Thiên Đường'. → Giữ 'Thiên Đường' (đối xứng với 'Hell → Địa Ngục' đã chốt ở #123). (orchestrator)
+- [#189] Xưng hô Lorraine Vivie <-> Wolf Hermann: tạm dùng Lorraine xưng "tôi", gọi "ông / Hội Trưởng Wolf"; Wolf xưng "tôi", gọi "cô / Lorraine" (phù hợp quan hệ học giả/mạo hiểm giả trao đổi công việc với Hội Trưởng; phương án khác: Lorraine xưng "cháu" gọi "bác"). Tạm dùng: Lorraine xưng "tôi", gọi "ông / Hội Trưởng Wolf". → Giữ Lorraine xưng 'tôi' gọi 'ông / Hội Trưởng Wolf' và Wolf xưng 'tôi' gọi 'cô / Lorraine' (nhất quán với cách Rentt và Nive giao tiếp công việc với Hội Trưởng Wolf). (orchestrator)

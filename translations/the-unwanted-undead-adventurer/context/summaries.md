@@ -1114,6 +1114,12 @@ Nive một mình giao chiến áp đảo hai thiếu niên Ma Cà Rồng Wugong 
 Thương cảm cho những nạn nhân bị ép biến đổi bán Thi Quỷ, Nive nhường việc thanh tẩy cho Myullias và Rentt giải thoát linh hồn họ trong thanh thản; tại đống tro tàn, một cây non chứa Thần Lực mọc lên và được Nive xin giữ lại, đồng thời cô tiết lộ từng liều mạng đột nhập xứ sở High Elf trộm cành Thánh Thụ.
 Tổ đội mạo hiểm giả tinh nhuệ Maalt tới tiếp ứng nhận nhiệm vụ áp giải các nạn nhân về thị trấn, trong khi nhóm Rentt và Nive tiếp tục tiến sâu vào Mê Cung Tân Nguyệt truy quét kẻ chủ mưu.
 
+## 189
+Nhóm Rentt, Lorraine và Nive tiếp tục tiến sâu vào Mê Cung Tân Nguyệt và phát hiện thêm một căn phòng chứa đàn Thi Quỷ cùng một thiếu niên Ma Cà Rồng; Rentt và Lorraine phối hợp tiêu diệt sạch lũ Thi Quỷ trong khi Nive áp đảo con Ma Cà Rồng.
+Bị dồn vào chân tường, tên Ma Cà Rồng rút kiếm liễu đỏ kích hoạt Huyết Binh (San Arms) biến thành quái vật khổng lồ tương tự Ogre với sức mạnh ngang hàng Thượng Cấp Ma Cà Rồng để cầm chân Nive; Nive yêu cầu Rentt và Lorraine tức tốc quay về thị trấn Maalt tiêu diệt tên đầu sỏ Shumini.
+Về tới Maalt, Rentt bế Lorraine chạy vội tới quảng trường trung tâm đang ngập trong cảnh đổ nát và la liệt mạo hiểm giả trọng thương; Rentt dùng thần thuật cầm máu cho Hội Trưởng Wolf Hermann và nhận lệnh tiếp tục truy đuổi tên Ma Cà Rồng đầu sỏ.
+
+
 
 
 

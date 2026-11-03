@@ -332,3 +332,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jiziu | Nive Maris | ta / tôi | ngươi / mụ | 188 | Ma Cà Rồng thiếu nữ đối đầu với Thợ Săn Ma Cà Rồng |
 | Wugong | Jiziu | anh / tôi | em / Jiziu | 188 | Hai thiếu niên Ma Cà Rồng quan hệ anh em nương tựa nhau |
 | Jiziu | Wugong | em | anh Wugong / anh | 188 | Hai thiếu niên Ma Cà Rồng quan hệ anh em nương tựa nhau |
+| Lorraine Vivie | Wolf Hermann | tôi | Hội Trưởng Wolf / ông | 189 | Học giả trao đổi nhanh tình hình chiến sự khẩn cấp với Hội Trưởng |
+| Wolf Hermann | Lorraine Vivie | tôi | cô / Lorraine | 189 | Hội Trưởng trao đổi tình hình với học giả kiêm mạo hiểm giả |
