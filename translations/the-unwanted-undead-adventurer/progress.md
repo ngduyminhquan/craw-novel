@@ -152,7 +152,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | reviewed |  |
 | 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | reviewed |  |
 | 147 |  | Chapter_147 - Vol 6 Chapter 4 - The Secret of Hathara (2).txt | Vol 6 Chapter 4 - The Secret of Hathara (2) | reviewed |  |
-| 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | todo |  |
+| 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | done |  |
 | 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | todo |  |
 | 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | todo |  |
 | 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | todo |  |
@@ -707,3 +707,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#147] Dịch tên quái vật 'shahor melechnamer' (đoạn 52, 59, 62): tạm chọn 'Shahor Melechnamer' (giữ nguyên danh xưng riêng theo tiền lệ 'Gadol Akavish' ở #146 và 'Gadol Ze'ev' ở #143; phương án khác: 'Hắc Hổ Vương Melechnamer', 'Hắc Hổ Shahor Melechnamer'). Tạm dùng trong bản dịch: 'Shahor Melechnamer'. → Giữ 'Shahor Melechnamer' (đồng bộ với 'Gadol Ze'ev' ở #143 và 'Gadol Akavish' ở #146) (orchestrator)
 - [#147] Dịch 'teleportation circle' (đoạn 15, 17, 21, 23, 24, 26, 30, 31, 33, 37, 39, 62): tạm chọn 'ma pháp trận dịch chuyển' theo tiền lệ ở #18 và #26 (phương án khác: 'ma pháp trận dịch chuyển tức thời', 'trận pháp dịch chuyển'). Tạm dùng trong bản dịch: 'ma pháp trận dịch chuyển'. → Giữ 'ma pháp trận dịch chuyển' (đồng bộ với #18 và #26) (orchestrator)
 - [#146] Xưng hô gộp chung của Lorraine với Rentt ở đoạn 60 ('Hai đứa mình' hay 'Hai chúng ta') → Chuẩn hóa thành 'Hai chúng ta' để giữ phong thái học giả điềm đạm (orchestrator)
+- [#148] Dịch 'Old Insect Dungeon' (đoạn 15) — tạm chọn 'Mê Cung Côn Trùng Cổ' (phương án khác: 'Mê Cung Côn Trùng Cổ Đại'). Tạm dùng: 'Mê Cung Côn Trùng Cổ'. → Chốt 'Mê Cung Côn Trùng Cổ' (orchestrator)
+- [#148] Dịch các chức vụ cổ của Làng Hathara ('chief magician' → 'đại ma pháp sư', 'knight captain' → 'kỵ sĩ đoàn trưởng', 'chancellor' → 'tể tướng', 'minister of justice' → 'tư pháp quan') — phương án khác cho minister of justice: 'bộ trưởng tư pháp', 'thượng thư tư pháp'. Tạm dùng: 'đại ma pháp sư', 'kỵ sĩ đoàn trưởng', 'tể tướng', 'tư pháp quan'. → Chốt 'chief magician' → 'đại ma pháp sư', 'knight captain' → 'kỵ sĩ đoàn trưởng', 'chancellor' → 'tể tướng', 'minister of justice' → 'tư pháp quan' (orchestrator)
+- [#148] Dịch 'Ancient Kingdom' — tạm chọn 'Vương Quốc Cổ Đại' (phương án khác: 'Cổ Đại Vương Quốc'). Tạm dùng: 'Vương Quốc Cổ Đại'. → Chốt 'Vương Quốc Cổ Đại' (orchestrator)

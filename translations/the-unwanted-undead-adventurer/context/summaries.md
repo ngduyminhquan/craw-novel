@@ -874,11 +874,8 @@ Gharb và Capitan dẫn Rentt và Lorraine tới một pháo đài bằng đá c
 Gharb và Capitan kích hoạt ma pháp trận dịch chuyển cả nhóm tới một hang động ẩm ướt tăm tối; khi tiến gần tới lối ra của hang, cả nhóm bất ngờ chạm trán Shahor Melechnamer – quái vật dạng hổ khổng lồ cao 5m thân đầy vằn đen cực mạnh (ngang tầm quái vật cần mạo hiểm giả Bạch Kim hoặc Mithril Cấp thảo phạt).
 Con thú tỏ ra ngoan ngoãn như mèo nhà và nũng nịu cọ đầu vào người Rentt; Gharb tiết lộ nó bị thu hút bởi dòng máu của người Hathara và khẳng định đây vẫn chưa phải bí mật thực sự; chương kết thúc khi cả nhóm bước ra khỏi hang và Rentt sững sờ nhận ra trước mắt là một thành phố ngầm.
 
-
-
-
-
-
-
-
-
+## 148
+Nhóm Rentt chiêm ngưỡng thành phố ngầm tráng lệ rực sáng đèn ma pháp; Lorraine nhận ra đây là Thành Phố Mê Cung Của Hiền Vương Felt ở tầng 60 của Mê Cung Côn Trùng Cổ thuộc Đế Quốc Rermutt, còn Gharb xác nhận cư dân Hathara (gồm Rentt) đều là hậu duệ mang dòng máu cổ đại có thể kích hoạt ma pháp trận dịch chuyển và thuần hóa Shahor Melechnamer.
+Gharb và Capitan hé lộ gốc tích Làng Hathara từng kế thừa các chức vị triều đình cổ (đại ma pháp sư, kỵ sĩ đoàn trưởng, quốc vương, tể tướng, tư pháp quan, tư tế), tất cả đều sở hữu kỹ năng ma thuật và Khí Lực thượng thừa được lưu truyền từ xưa.
+Gharb kể lại cuộc xung đột nội bộ đẫm máu trong quá khứ khi phe tể tướng muốn phơi bày thành phố ngầm để biến Hathara thành đô thị giàu có, dẫn đến trận chiến sinh tử khiến ba người phe tể tướng thiệt mạng còn phe giữ bí mật bị trọng thương.
+Nhận thấy Đế Quốc Rermutt chuẩn bị dốc quốc lực cử các đoàn thám hiểm tới khám phá thành phố tàn tích, Gharb tuyên bố đã đến lúc chấm dứt việc giữ bí mật thủ cựu và quyết định giao lại thành phố này cho Rentt cùng Lorraine trông coi.
