@@ -20,7 +20,7 @@ Lorraine đã gặp ông ấy trong bữa tiệc tối qua. Cô kể với tôi 
 
 "Sao Capitan lại ở đây thế ạ?" Tôi nghiêng đầu hỏi.
 
-Trong khi tôi gọi Gharb là Sư phụ thì với Capitan, tôi chỉ gọi thẳng tên ông. Từ rất lâu trước đây, hồi ông dạy tôi tất cả những kỹ năng ấy, tôi từng gọi ông là Sư phụ nhưng ông bảo danh xưng đó không hợp với mình chút nào. Có lẽ ở một chừng mực nào đó ông thực sự nghĩ vậy, song đôi khi trông ông chỉ như đang ngượng ngùng mà thôi. Thỉnh thoảng tôi vẫn cứ gọi ông là Sư phụ. Điều đó làm ông phấn khởi, nhưng rồi lại khiến ông bực dọc đến chẳng thốt nên lời. Dẫu vậy, về cơ bản ông là một người hiền lành.
+Trong khi tôi gọi Gharb là Sư phụ thì với Capitan, tôi chỉ gọi thẳng tên ông. Từ rất lâu trước đây, hồi ông dạy tôi tất cả những kỹ năng ấy, tôi từng gọi ông là Sư phụ nhưng ông bảo danh xưng đó không hợp với mình chút nào. Có lẽ ở một chừng mực nào đó ông thực sự nghĩ vậy, song đôi khi trông ông chỉ như đang ngượng ngùng mà thôi. Thỉnh thoảng tôi vẫn cứ gọi ông là Sư phụ. Điều đó làm ông phấn khởi, nhưng đồng thời cũng khiến ông lúng túng chẳng biết nói gì. Dẫu vậy, về cơ bản ông là một người hiền lành.
 
 Tuy nhiên, tôi vẫn không hiểu vì sao ông lại có mặt ở đây. Thật là kỳ quặc.
 
@@ -90,9 +90,9 @@ Tôi không thể làm ngơ trước câu hỏi từ một trong những ngườ
 
 "Hử, thế chú bắn thử một mũi tên vào xem sao nhé?" Capitan thích thú hỏi.
 
-Tôi vội vàng lắc đầu quầy quậy. "Dạ có chứ, chắc chắn là phiền lắm đấy ạ! Capitan bắn khéo lại xuyên thủng thật ấy chứ!"
+Tôi vội vàng lắc đầu quầy quậy. "Dạ thôi, cháu can chú đấy ạ! Capitan bắn khéo lại xuyên thủng thật ấy chứ!"
 
-Tôi nói vậy không đơn thuần chỉ để nịnh bợ ông. Khi ông nghiêm túc bắn một mũi tên, nó luôn luôn xuyên thủng mục tiêu. Bản thân cây cung không hề quá đỗi mạnh mẽ, thế nên uy lực đó hoàn toàn nhờ vào sức mạnh của Khí Lực. Việc rót Khí Lực vào kiếm, giáo và những vũ khí cầm tay khác đòi hỏi một quá trình luyện tập không nhỏ, nhưng đó là một mục tiêu khả thi. Tuy nhiên, làm điều tương tự với một thứ vũ khí rời khỏi tiếp xúc với cơ thể lại là chuyện vô cùng gian nan. Vậy mà Capitan lại có thể làm được. Mũi tên của ông thậm chí còn có thể bắn vỡ cả những tảng đá lớn. Dù đang khoác chiếc áo choàng này, cũng chẳng có gì bảo đảm rằng tôi sẽ toàn mạng. Có lẽ sẽ không sao đâu, nhưng việc đó không đáng để tôi phải liều mạng thử nghiệm.
+Tôi nói vậy không đơn thuần chỉ để nịnh bợ ông. Khi ông nghiêm túc bắn một mũi tên, nó luôn luôn xuyên thủng mục tiêu. Bản thân cây cung không hề quá đỗi mạnh mẽ, thế nên uy lực đó hoàn toàn nhờ vào sức mạnh của Khí Lực. Việc rót Khí Lực vào kiếm, giáo và những vũ khí cầm tay khác đòi hỏi một quá trình luyện tập không nhỏ, nhưng đó là một mục tiêu khả thi. Tuy nhiên, làm điều tương tự với thứ vũ khí không còn tiếp xúc trực tiếp với cơ thể lại là chuyện vô cùng gian nan. Vậy mà Capitan lại có thể làm được. Mũi tên của ông thậm chí còn có thể bắn vỡ cả những tảng đá lớn. Dù đang khoác chiếc áo choàng này, cũng chẳng có gì bảo đảm rằng tôi sẽ toàn mạng. Có lẽ sẽ không sao đâu, nhưng việc đó không đáng để tôi phải liều mạng thử nghiệm.
 
 Capitan trông có vẻ thất vọng trước lời từ chối của tôi. "Thế thì thôi vậy. Dù sao thì lát nữa tỉ thí một trận nhé. Chú muốn xem cháu làm được những gì rồi."
 
@@ -120,7 +120,7 @@ Capitan vung con dao săn chặt đứt phăng đầu một con Goblin. Ba con G
 
 ![](images/ch146-01.webp)
 
-"Hai đứa mình mới là mạo hiểm giả ở đây cơ mà, vậy mà chúng ta thậm chí còn chẳng có cơ hội để ra tay làm việc nữa," một lúc sau, khi trận chiến đã ngã ngũ, Lorraine lẩm bẩm than thở. Xung quanh chúng tôi là la liệt xác quái vật.
+"Hai chúng ta mới là mạo hiểm giả ở đây cơ mà, vậy mà chúng ta thậm chí còn chẳng có cơ hội để ra tay làm việc nữa," một lúc sau, khi trận chiến đã ngã ngũ, Lorraine lẩm bẩm than thở. Xung quanh chúng tôi là la liệt xác quái vật.
 
 Từ khi còn bé, tôi đã luôn được căn dặn không được bén mảng tới khu rừng phía bắc, và quả nhiên nơi đây nguy hiểm y như những lời cảnh báo bấy lâu nay. Rất hiếm có khu rừng nào lại lúc nhúc nhiều quái vật đến thế, trừ phi xảy ra một đợt bùng phát hay quái triều. Trên thế giới này có vô số vùng lãnh địa khác thường bị coi là chốn nguy hiểm, và những nơi đó có lẽ cũng sẽ mang lại cảm giác khác lạ nếu tôi đặt chân vào, nhưng tôi chưa bao giờ ngờ rằng lại có một nơi như thế này nằm ngay gần quê hương mình.
 

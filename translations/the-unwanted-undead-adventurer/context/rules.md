@@ -58,3 +58,6 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#125) Thành ngữ "more [X] where that came from": dịch là "còn nhiều [X] tương tự như thế", "đâu chỉ có thế, còn nhiều [X] nữa" (tránh dịch máy thành "từ gốc rễ vấn đề").
 - (#129) Tránh dùng cách gọi ước lệ kiểu cổ trang "nàng [Tên]" (như "nàng Rina") cho nhân vật nữ đời thường; tránh dùng từ lễ nghi sai thứ bậc như "diện kiến" khi nói về hậu bối (thay bằng "gặp mặt").
 - (#140) Pravda khi nói chuyện với Rentt và Jinlin (kể cả những lúc bực bội, la mắng nghiêm khắc) luôn xưng "bà", gọi "cháu / hai đứa / các cháu" — giữ nhất quán với pronouns.md, tránh chuyển sang xưng hô "ta" kiểu xa cách hoặc kiếm hiệp.
+- (#145) Cụm từ "for the most part": dịch là "nhìn chung", "thông thường", "phần lớn trường hợp" (tránh dịch máy thành "phần lớn thời gian").
+- (#146) Thành ngữ "at a loss for words": dịch là "lúng túng chẳng biết nói gì", "ngượng ngùng cạn lời" (tránh dịch sai lệch thành "bực dọc đến chẳng thốt nên lời").
+- (#146) Cấu trúc đối đáp "mind if I..." / "I'd definitely mind" trong hội thoại đời thường: chuyển ngữ tự nhiên theo ngữ cảnh can ngăn / từ chối khéo thay vì dịch thô chữ "phiền" (ví dụ: "cháu can chú đấy ạ!").

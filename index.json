@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T00:37:43Z",
+  "generatedAt": "2026-11-03T00:44:27Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3022,19 +3022,19 @@
           "number": 145,
           "title": "Chương 145: Tập 6 Chương 3 - Bi Kịch Và Nguồn Gốc (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_145.md",
-          "sha": "64b078249369e5c43d82689bc09cfd4bd2c36b41"
+          "sha": "092f2047e4791944405af6d98174a6cb84899e8e"
         },
         {
           "number": 146,
           "title": "Chương 146: Tập 6 Chương 4 - Bí Mật Của Hathara (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_146.md",
-          "sha": "64df94eb19c67d5399c6d816f39c93aa72482e81"
+          "sha": "1fbd161cfdc875c3ea60296868a0ebb0b7e21acd"
         },
         {
           "number": 147,
           "title": "Chương 147: Tập 6 Chương 4 - Bí Mật Của Hathara (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_147.md",
-          "sha": "0b5efb42814957d889cac9f7165d169a38511e44"
+          "sha": "4dd0f4fd9d737dc6a374a9ad7914fd12c09938b2"
         }
       ]
     },
