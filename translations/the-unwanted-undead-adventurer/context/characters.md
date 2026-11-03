@@ -107,6 +107,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mimir |  | Mimir | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira | #198 |
 | Noel Kruege | Noel | Noel Kruege | Thiếu niên quý tộc, học viên Học Viện kiêu ngạo | #210 |
 | Elise Georges | Elise | Elise Georges | Thiếu nữ quý tộc, học viên Học Viện nghiêm túc, bạn của Rina | #210 |
+| Adelina Moska | Adelina | Adelina Moska | Học Sĩ của Học Viện, người dẫn đoàn học viên khảo sát mê cung Maalt | #212 |
+| Pierpaolo Blanca | Pierpaolo; Blanca | Pierpaolo Blanca | Học viên Học Viện, bạn cùng phòng và bạn thân của Noel Kruege | #212 |
 
 ## Chi tiết
 
@@ -689,4 +691,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thiếu nữ quý tộc, học viên của Học Viện, bạn thân của Rina Rupaage.
 - Đặc điểm: Nghiêm túc, đĩnh đạc, coi trọng danh dự và uy tín của Học Viện; đeo trang sức ma pháp tinh xảo (hoa tai cường hóa ma lực, vòng tay tăng phòng ngự ma thuật); từng bảo vệ Rina khi Rina bị các học viên quý tộc khác chế giễu ở vương đô; luôn đứng thứ hai bám sát Noel về thành tích học tập; sẵn sàng nhận sai khi hiểu lầm và rất khao khát học hỏi, hào hứng muốn nghiên cứu Nguyền Cụ (#211).
 - Xuất hiện từ: #210.
+
+### Adelina Moska
+- Giới tính, vai trò: Nữ, Học Sĩ của Học Viện tại vương đô Yaaran, người phụ trách dẫn đoàn học viên tới Maalt khảo sát mê cung mới.
+- Đặc điểm: Đường nét gương mặt nghiêm nghị, thần thái lạnh như băng; là một trong những ma pháp sư xuất chúng nhất trong ban giảng dạy Học Viện; tính tình nguyên tắc nhưng thấu tình đạt lý, nhắc nhở học viên đặt an toàn tính mạng lên trên hết thay vì đơn thương độc mã đối đầu kẻ khả nghi (#212).
+- Xuất hiện từ: #212.
+
+### Pierpaolo Blanca
+- Giới tính, vai trò: Nam, học viên Học Viện đến từ vương đô Yaaran, bạn cùng phòng và bạn thân duy nhất của Noel Kruege.
+- Đặc điểm: Dáng người cao gầy, cử chỉ điệu bộ phô trương, tính tình bộc trực, phóng khoáng đến mức suồng sã; là con trai cả của gia tộc Tử tước Blanca giàu có kinh doanh thương nghiệp; thành tích học tập thuộc nhóm xuất sắc ở Học Viện; nhạy bén nắm bắt thông tin và tin đồn (#212).
+- Xuất hiện từ: #212.
 

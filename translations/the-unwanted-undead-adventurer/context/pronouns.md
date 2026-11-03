@@ -84,6 +84,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mimir | Mimir / cô bé | 198 | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira |
 | Noel Kruege | Noel / cậu bé / cậu thiếu niên | 210 | Thiếu niên học viên Học Viện kiêu ngạo |
 | Elise Georges | Elise / cô bé / cô gái / thiếu nữ | 210 | Thiếu nữ học viên Học Viện nghiêm túc, bạn của Rina |
+| Adelina Moska | Adelina / Học Sĩ Adelina / người phụ nữ | 212 | Học Sĩ Học Viện dẫn đoàn khảo sát mê cung |
+| Pierpaolo Blanca | Pierpaolo / cậu thanh niên / cậu thiếu niên | 212 | Học viên Học Viện, bạn thân của Noel Kruege |
 
 ## Giữa các nhân vật
 
@@ -393,4 +395,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elise Georges | Rina Rupaage | mình / tôi | cậu / Rina | 211 | Bạn bè cùng lớp cũ thời ở vương đô |
 | Rentt Faina | Elise Georges | tôi | cô / Elise | 211 | Mạo hiểm giả nói chuyện với bạn của Rina |
 | Elise Georges | Rentt Faina | tôi | anh / anh Rentt | 211 | Bạn của Rina nói chuyện với ân nhân / tiền bối của Rina |
+| Noel Kruege | Adelina Moska | em | Học Sĩ Adelina / Học Sĩ | 212 | Học viên trả lời câu hỏi của người phụ trách đoàn |
+| Adelina Moska | Noel Kruege | tôi | trò / Noel / Noel Kruege | 212 | Học Sĩ nghiêm khắc chấn chỉnh học viên |
+| Noel Kruege | Pierpaolo Blanca | tôi | cậu / Pierpaolo | 212 | Bạn học cùng phòng thân thiết |
+| Pierpaolo Blanca | Noel Kruege | tôi | cậu / Noel / bạn hiền / người anh em | 212 | Bạn học cùng phòng tính tình sảng khoái phóng khoáng |
 

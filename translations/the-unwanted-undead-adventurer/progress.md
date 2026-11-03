@@ -216,7 +216,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | reviewed |  |
 | 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | reviewed |  |
 | 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | done |  |
-| 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | todo |  |
+| 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | done |  |
 | 213 |  | Chapter_213 - Vol 9 Chapter 5 - A Request from the Guild (1).txt | Vol 9 Chapter 5 - A Request from the Guild (1) | todo |  |
 | 214 |  | Chapter_214 - Vol 9 Chapter 5 - A Request from the Guild (2).txt | Vol 9 Chapter 5 - A Request from the Guild (2) | todo |  |
 | 215 |  | Chapter_215 - Vol 9 Chapter 5 - A Request from the Guild (3).txt | Vol 9 Chapter 5 - A Request from the Guild (3) | todo |  |
@@ -827,3 +827,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#211] Dịch các tên gọi dân gian của Nguyền Cụ ('cursed goods', 'demon's tools', 'shadow objects') — tạm chọn 'nguyền phẩm', 'yêu cụ', 'ảnh phẩm'. → Giữ 'nguyền phẩm', 'yêu cụ', 'ảnh phẩm' theo cấu trúc Hán Việt đồng bộ với Nguyền Cụ / Ma Cụ / Thần Cụ. (orchestrator)
 - [#211] Xưng hô Elise Georges và Rina Rupaage (bạn học cũ ở vương đô) — tạm chọn xưng 'mình / tôi', gọi 'cậu / [Tên]'. → Giữ xưng 'mình / tôi', gọi 'cậu / [Tên]' đồng bộ với cách Rina xưng hô với bạn đồng trang lứa. (orchestrator)
 - [#211] Xưng hô Elise Georges và Lorraine Vivie — tạm chọn Elise xưng 'tôi', gọi 'chị / chị Lorraine' (lúc đầu chưa quen gọi 'cô'); Lorraine xưng 'tôi', gọi 'cô / Elise'. → Giữ Elise xưng 'tôi', gọi 'chị / chị Lorraine / cô' và Lorraine xưng 'tôi', gọi 'cô / Elise' đồng bộ với cặp Rina - Lorraine. (orchestrator)
+- [#212] Xưng hô Adelina Moska và Noel Kruege: tạm chọn Adelina xưng 'tôi' gọi 'trò / Noel', Noel xưng 'em' gọi 'Học Sĩ Adelina / Học Sĩ' (phương án khác: Adelina gọi 'cậu / em', Noel xưng 'tôi'). → Giữ Adelina xưng 'tôi' gọi 'trò / Noel', Noel xưng 'em' gọi 'Học Sĩ Adelina / Học Sĩ' đúng quan hệ Học Sĩ và học viên tại Học Viện. (orchestrator)
+- [#212] Thuật ngữ 'valedictorian' và 'salutatorian' tại Học Viện: tạm chọn 'thủ khoa' và 'á khoa' (phương án khác: 'học viên đứng đầu' và 'học viên đứng thứ hai'). → Giữ 'thủ khoa' và 'á khoa' vì ngắn gọn và chuẩn xác trong ngữ cảnh học thuật. (orchestrator)
+- [#212] Xưng hô Noel Kruege và Pierpaolo Blanca: tạm chọn xưng 'tôi' - gọi 'cậu / Noel / Pierpaolo / bạn hiền / người anh em' (phương án khác: 'mình' - 'cậu'). → Giữ xưng 'tôi' - gọi 'cậu / Noel / Pierpaolo / bạn hiền / người anh em' phù hợp với hai nam học viên Học Viện. (orchestrator)
