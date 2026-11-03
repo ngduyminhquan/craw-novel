@@ -73,6 +73,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Azel Goth | Azel | Azel Goth | Thương nhân lữ hành kiêm mạo hiểm giả đi cùng Wilfried, dự định lập Thương hội Goth | #142 |
 | Viroget |  | Viroget | Thần Thực Vật; phân thân thần tinh linh trú ngụ trong tượng gỗ Lorraine | #144 |
 | Viro |  | Viro | Tên gọi tắt của phân thân thần tinh linh Viroget | #145 |
+| Capitan |  | Capitan | Trưởng nhóm thợ săn Làng Hathara, một trong những người thầy dạy Rentt săn bắn, sinh tồn và Khí Lực | #146 |
 
 ## Chi tiết
 
@@ -539,3 +540,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Thần tinh linh (divine spirit).
 - Đặc điểm: Tên gọi tắt của phân thân thần tinh linh Viroget trú ngụ trong bức tượng gỗ tạc Lorraine; tính cách xuề xòa, thích rượu, tan biến thành cát sau khi cạn năng lượng duy trì thể xác. Xem thêm Viroget.
 - Xuất hiện từ: #145.
+
+### Capitan
+- Giới tính, vai trò: Nam, trưởng nhóm thợ săn Làng Hathara, một trong những người thầy thuở nhỏ của Rentt.
+- Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara.
+- Xuất hiện từ: #146.

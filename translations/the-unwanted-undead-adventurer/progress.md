@@ -150,7 +150,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | reviewed |  |
 | 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | reviewed |  |
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | done |  |
-| 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | todo |  |
+| 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | done |  |
 | 147 |  | Chapter_147 - Vol 6 Chapter 4 - The Secret of Hathara (2).txt | Vol 6 Chapter 4 - The Secret of Hathara (2) | todo |  |
 | 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | todo |  |
 | 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -701,3 +702,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#145] Dịch danh hiệu 'God of Appraisal' (đoạn 43, 87) — tạm chọn 'Thần Giám Định' theo chuẩn danh hiệu thần linh (đồng bộ với Thần Thực Vật, Thần Nghề Rèn; phương án khác: 'Thần Thẩm Định'). Tạm dùng trong bản dịch: 'Thần Giám Định'. → Giữ 'Thần Giám Định' (đồng bộ với 'Thần Thực Vật', 'Thần Nghề Rèn') (orchestrator)
 - [#145] Tên gọi tắt của thần tinh linh Viroget ('call me Viro or Get') và cách Rentt gọi ('Viro aside', 'Viro did show himself') — tạm thêm dòng riêng cho 'Viro' trong characters.md và pronouns.md (phương án khác: đưa 'Viro' vào Alias của Viroget). Tạm dùng trong bản dịch: 'Viro'. → Giữ dòng riêng cho 'Viro' trong characters.md và pronouns.md (đồng bộ với tiền lệ 'Hilde' ở #132 và 'Ren' ở #135) (orchestrator)
 - [#145] Dịch cụm 'holy item' (đoạn 37, 43, 89) chỉ chiếc mặt nạ không tháo được — tạm chọn 'vật phẩm thần thánh' (phương án khác: 'thánh vật', 'thánh di vật'). Tạm dùng trong bản dịch: 'vật phẩm thần thánh'. → Giữ 'vật phẩm thần thánh' (orchestrator)
+- [#146] Xưng hô Rentt và Capitan: tạm chọn Capitan xưng 'chú', gọi 'cháu / Rentt'; Rentt gọi 'Capitan' (thỉnh thoảng trêu 'Sư phụ'), xưng 'cháu' theo quan hệ thầy trò làng quê (phương án khác: Capitan xưng 'ta' gọi 'cậu/nhóc', Rentt xưng 'tôi'). → Giữ Capitan xưng 'chú' gọi 'cháu / Rentt', Rentt xưng 'cháu' gọi 'Capitan' (hoặc 'sư phụ' khi trêu) (orchestrator)
+- [#146] Tên quái vật 'gadol akavish': tạm chọn 'Gadol Akavish' theo tiền lệ 'Gadol Ze'ev' ở #143 (phương án khác: dịch nghĩa 'Đại Nhện Akavish'). → Giữ 'Gadol Akavish' (đồng bộ với 'Gadol Ze'ev' ở #143) (orchestrator)

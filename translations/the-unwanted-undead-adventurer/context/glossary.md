@@ -273,3 +273,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | puppet master | puppet masters | người điều khiển rối | chức nghiệp | 144 | Người biểu diễn hoặc mạo hiểm giả điều khiển rối ma pháp cử động |
 | puppet mastery |  | thuật điều khiển rối | kỹ năng | 144 | Kỹ thuật và ma thuật chế tạo, điều khiển rối cử động |
 | God of Appraisal |  | Thần Giám Định | danh hiệu | 145 | Thần linh cai quản giá trị và sự đánh giá vật phẩm, được giới thương nhân và quý tộc tôn sùng |
+| gadol akavish | Gadol Akavish; Gadol akavish | Gadol Akavish | quái vật | 146 | Quái vật nhện khổng lồ sinh sống trong khu rừng phía bắc Làng Hathara (ガドル・アカヴィシュ) |

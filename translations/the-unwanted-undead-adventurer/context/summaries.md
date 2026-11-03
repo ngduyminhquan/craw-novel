@@ -863,6 +863,13 @@ Thần tinh linh phát hiện lượng Thần Lực của Rentt lớn gấp tră
 Hết năng lượng duy trì, thần tinh linh cho biết có thể gọi mình là Viro rồi hóa thành hơi nước tan biến khiến bức tượng gỗ vỡ vụn thành cát; Rentt hứa với Lorraine sẽ tìm vật liệu chứa nhiều Ma Lực hơn để tạc lại vật chứa mới.
 Do ngôi đền chính của Thần Giám Định nằm ở ngoại quốc, cả hai thống nhất gác lại chuyến đi sau khi hoàn tất các ủy thác ở Maalt; chương kết thúc khi màn đêm buông xuống và cả hai cùng nhau hướng về nhà bà lão Gharb.
 
+## 146
+Rentt và Lorraine đến nhà Gharb và gặp Capitan – trưởng nhóm thợ săn Hathara kiêm người thầy dạy Rentt kỹ năng săn bắn, sinh tồn và Khí Lực; Gharb và Capitan tiết lộ rằng họ cùng trưởng làng Ingo nắm giữ một bí mật lớn của Làng Hathara và hẹn sáng hôm sau dẫn cả hai đi xem.
+Sáng hôm sau, Capitan trêu đùa muốn bắn thử mũi tên truyền Khí Lực vào áo choàng của Rentt nhưng Rentt từ chối, Capitan hẹn sẽ tỉ thí sau đó; Gharb và Capitan trang bị đầy đủ dẫn nhóm tiến thẳng vào vùng cấm địa: khu rừng phía bắc Hathara.
+Vừa vào rừng, Capitan vung dao săn hạ gục bầy Goblin, còn Gharb bộc lộ khả năng chiến đấu cận chiến như một ma kiếm sĩ/chiến pháp sư: thoăn thoắt né đòn và phóng lưỡi dao gió chặt đứt chân quái vật nhện khổng lồ Gadol Akavish.
+Trước thắc mắc của Rentt về việc vì sao một ngôi làng có thể tồn tại bình yên ngay sát bầy quái vật đông đúc và hung dữ, Gharb quả quyết chúng sẽ không bao giờ bén mảng tới Hathara rồi tiếp tục dẫn nhóm tiến sâu vào lòng khu rừng.
+
+
 
 
 

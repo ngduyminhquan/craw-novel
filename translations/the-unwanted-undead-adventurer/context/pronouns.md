@@ -60,6 +60,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Azel Goth | Azel / chàng trai trẻ / người đánh xe | 142 | Thương nhân lữ hành đi cùng Wilfried |
 | Viroget | thần tinh linh / tinh linh / Viroget | 144 | Phân thân thần tinh linh trú ngụ trong tượng gỗ |
 | Viro | thần tinh linh / tinh linh / Viro | 145 | Tên gọi tắt của phân thân thần tinh linh Viroget |
+| Capitan | Capitan / người đàn ông vạm vỡ / chú ấy / ông ấy | 146 | Trưởng nhóm thợ săn Làng Hathara, thầy dạy Rentt |
 
 ## Giữa các nhân vật
 
@@ -247,3 +248,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Viroget | tôi | ngươi | 144 | Mạo hiểm giả nói chuyện với thần tinh linh |
 | Viroget | Lorraine Vivie | ta | ngươi / các ngươi | 144 | Thần tinh linh nói chuyện với học giả |
 | Lorraine Vivie | Viroget | tôi / chúng tôi | ngươi | 144 | Học giả ma thuật nói chuyện với thần tinh linh |
+| Rentt Faina | Capitan | cháu | Capitan / sư phụ | 146 | Học trò nói chuyện với thầy dạy săn bắn; gọi thẳng tên theo thói quen cũ, thỉnh thoảng trêu gọi sư phụ |
+| Capitan | Rentt Faina | chú | cháu / Rentt | 146 | Thầy dạy săn bắn nói chuyện với học trò cũ |
+| Capitan | Lorraine Vivie | tôi | cô / Lorraine / tiểu thư | 146 | Trưởng thợ săn làng nói chuyện với học giả đi cùng Rentt |
+| Lorraine Vivie | Capitan | tôi | Capitan / ông | 146 | Học giả nói chuyện với trưởng thợ săn làng |
+| Gharb | Capitan | tôi | Capitan | 146 | Hai người cùng thế hệ lớn tuổi gánh vác việc làng |
+| Capitan | Gharb | tôi | bà lão / Gharb | 146 | Hai người cùng thế hệ lớn tuổi gánh vác việc làng |
