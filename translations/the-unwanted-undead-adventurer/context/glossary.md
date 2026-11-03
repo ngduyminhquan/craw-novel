@@ -409,3 +409,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mother |  | Mẹ | khác | 222 | Danh xưng tôn kính của giáo hội dành cho nữ viện trưởng (như Mother Elza) |
 | seal blessing |  | chúc phúc phong ấn | kỹ năng | 223 | Phép phong ấn thư từ/vật phẩm bằng Thần Lực của giáo sĩ cấp cao |
 | Her Highness | Highness; his Highness; His Highness | Điện Hạ | danh hiệu | 221 | Tôn xưng dành cho thành viên hoàng gia như hoàng tử, công chúa (殿下) |
+| chanted magic |  | ma pháp ngâm xướng | kỹ năng | 225 | Ma pháp thi triển bằng cách đọc trọn vẹn câu chú bài bản |
+| quickened magic | quickened spell | ma pháp rút ngắn | kỹ năng | 225 | Ma pháp thi triển bằng câu chú đã được rút ngắn |
+| silent magic |  | ma pháp vô ngôn | kỹ năng | 225 | Ma pháp thi triển không cần đọc câu chú |
+| earth magic |  | ma pháp thổ hệ | kỹ năng | 225 | Ma pháp thuộc tính thổ, điều khiển đất đá |
+| offensive magic |  | ma pháp tấn công | kỹ năng | 225 | Ma pháp dùng để gây sát thương và công kích đối phương |

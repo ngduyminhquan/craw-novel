@@ -135,6 +135,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Được Rentt cứu khỏi Khô Lâu, xem anh là tiền bối đáng kính (Mister Rentt); từ #195 là quyến thuộc Ma Cà Rồng của Rentt. Tên thật Rina Rogue (#24), con gia đình hiệp sĩ/quý tộc, bỏ nhà đi vì bị ép hôn; anh trai là Idoles Rogue (Đệ Nhất Kỵ Sĩ Đoàn), từng bí mật dạy cô kiếm thuật. Tổ đội: kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii (#129).
 - Năng lực (tính đến chương 204): Bẩm sinh dồi dào Ma Lực và Khí Lực; sau khi thành Ma Cà Rồng có sức mạnh tầm Hạ Cấp Ma Cà Rồng (bóp nát đá); rút được Ma Lực và Thần Lực từ Rentt (chưa rút được Khí Lực); dùng được Aliumage, Ma Lực tầm ma pháp sư trung cấp; dung nạp Thần Lực nên không bị Thánh Hỏa ảnh hưởng; không phát ra khí tức Ma Cà Rồng thông thường.
 - Trạng thái tính đến chương 204: Bị Shumini bắt khi đi tìm Raiz và Laura Satii mất tích, bị biến thành Hạ Cấp Ma Cà Rồng để dung hợp với Lõi Mê Cung; được Rentt thu làm quyến thuộc và Laura giải phóng (#195). Đã báo cáo với Hội theo kịch bản "được giải cứu sau khi bị bắt", qua được Thánh Hỏa của Nive, đoàn tụ với Raiz và Laura Satii tại Phòng Khám Kohm; giữ kín thân phận Ma Cà Rồng.
+- Trạng thái tính đến chương 225: Cùng Alize đến dinh thự Gia tộc Latuule theo dặn dò của Lorraine; đã thuần thục ma pháp ngâm xướng và bước đầu thi triển thành công ma pháp rút ngắn Gie Vieros (thổ tiễn) dưới sự hướng dẫn của Isaac.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -267,6 +268,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trang trọng như người lớn khi đại diện cô nhi viện; khi được Rentt cho phép thì hồn nhiên đúng tuổi, xưng "em", gọi "anh Rentt" / "anh"; gọi "Sơ Lillian" (Lady Lillian).
 - Quan hệ: "Cánh tay phải" của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; từng bí mật đổi ủy thác thành tìm Hoa Long Huyết chữa bệnh cho Sơ Lillian. Đệ tử ma thuật đầu tiên của Lorraine (#74), học kiếm thuật căn bản từ Rentt; muốn làm mạo hiểm giả giúp người như Rentt.
 - Trạng thái tính đến chương 123: Đã tạo được lửa bằng Ignite Aryumage (#79); chọn dao găm làm vũ khí chính (#119); tự chế cây đũa phép đầu tay và thi triển Aliumage ra ngọn lửa to như đuốc nhờ Ma Lực dồi dào; được Lorraine dặn tránh phụ thuộc đũa phép.
+- Trạng thái tính đến chương 225: Cùng Rina đến dinh thự Gia tộc Latuule luyện tập ma pháp tấn công theo dặn dò của Lorraine; hoàn toàn không nhận ra thân phận Ma Cà Rồng của Isaac và người hầu; được Isaac giải thích về ba cấp độ ma pháp và khuyên tập trung hoàn thiện ma pháp ngâm xướng cơ bản.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
@@ -286,6 +288,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Quản gia của Laura Latuule (khẳng định Laura mạnh hơn mình nhiều); gặp Rentt ở Đầm Lầy Tarasque khi hái Hoa Long Huyết. Quá khứ là "Kỵ Sĩ Phản Nghịch" mang kiếm bạc khắc kỳ lân đâm xuyên rồng, có vụ cá cược liên quan tới việc giết Laura; bạn chiến đấu cũ của Shumini; từng đụng độ Long Tộc.
 - Năng lực: Ma pháp Hỏa Bão; Huyết Binh (hút máu biến kiếm liễu thành đại kiếm đỏ thẫm).
 - Trạng thái tính đến chương 201: Đối đầu rồi tự tay kết liễu Shumini (#190–194); chăm Laura khi cô ngủ sâu; giải thích tiến hóa của Rentt, đặt tên tạm "Ma Cà Rồng Long Tộc", khuyên anh giấu đôi cánh và thỉnh cầu Thần Giám Định; cùng nhóm thống nhất kịch bản báo cáo Hội để giữ bí mật cho Laura.
+- Trạng thái tính đến chương 225: Nhận lời Lorraine hướng dẫn Rina và Alize luyện ma pháp tấn công tại dinh thự Latuule; cho phép hai cô bé vào thẳng không cần qua mê cung hàng rào cây; chỉ điểm Rina luyện ma pháp rút ngắn và khuyên Alize nắm vững căn bản ma pháp ngâm xướng.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.

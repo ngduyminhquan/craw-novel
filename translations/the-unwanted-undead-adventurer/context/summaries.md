@@ -1326,5 +1326,10 @@ Rentt và Lorraine quyên góp cho tu viện rồi rời đi, bàn kế hoạch 
 Rentt kiểm tra lại tấm huân chương nhận diện của Nauss Ancro; Lorraine tiết lộ đã mượn một chú chuột Puchi Suri thuộc hạ của Edel, giao ma cụ ngụy trang của Gia tộc Latuule cho nó lẻn vào khu quý tộc trước để kiểm tra lưới dò tìm của hoàng cung nhằm đổi lấy việc lắp ma cụ điều nhiệt ở tầng hầm cô nhi viện.
 Cả hai quyết định tới quán trọ của Augurey để rủ anh cùng vào hoàng cung.
 
+## 225
+Trong lúc Rentt và Lorraine ở vương đô, hai đệ tử Rina và Alize tới dinh thự Gia tộc Latuule nhờ Isaac hướng dẫn luyện tập ma pháp tấn công theo dặn dò của Lorraine; cả hai được vào thẳng mà không phải vượt qua mê cung hàng rào cây.
+Alize hoàn toàn không nhận ra thân phận Ma Cà Rồng và Undead của Isaac cùng người hầu trong dinh thự; Rina luyện thành công ma pháp rút ngắn Gie Vieros bắn trúng bia.
+Isaac giải thích cho Alize về ba cấp độ ma pháp (ngâm xướng, rút ngắn, vô ngôn) cùng tầm quan trọng của việc rèn luyện nền tảng ngâm xướng vững chắc như bài bản kiếm thuật, liên hệ tới cách tự học đặc thù của Rentt; Isaac tiếp tục trông chừng và hướng dẫn hai cô bé luyện tập.
+
 
 

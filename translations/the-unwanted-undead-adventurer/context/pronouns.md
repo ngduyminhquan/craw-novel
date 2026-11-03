@@ -416,4 +416,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elza | Lorraine Vivie | tôi | cô / cô Lorraine | 223 | Nữ Tu Viện Trưởng tiếp chuyện mạo hiểm giả giao thư |
 | Rentt Faina | Elza | tôi | Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 223 | Mạo hiểm giả chào hỏi lịch sự với Nữ Tu Viện Trưởng |
 | Elza | Rentt Faina | tôi | cậu / cậu Rentt / hai vị | 223 | Nữ Tu Viện Trưởng tiếp chuyện mạo hiểm giả đi cùng |
+| Isaac Hart | Alize | tôi | cô Alize / em / Alize | 225 | Quản gia quý tộc hướng dẫn ma pháp cho cô bé mồ côi |
+| Alize | Isaac Hart | em | anh / anh Isaac | 225 | Đứa trẻ mồ côi nói chuyện với quản gia quý tộc hướng dẫn ma pháp |
 
