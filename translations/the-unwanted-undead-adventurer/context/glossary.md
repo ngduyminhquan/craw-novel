@@ -360,3 +360,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | dungeon master | dungeon masters; Dungeon Master; Dungeon Masters; dungeon’s ruler | Chủ Nhân Mê Cung | danh hiệu | 193 | Thực thể nắm quyền kiểm soát Lõi Mê Cung (ダンジョンマスター) |
 | floor master | floor masters; Floor Master; Floor Masters | Thống Lĩnh Tầng | quái vật | 193 | Quái vật thủ lĩnh cai quản một tầng trong mê cung (フロアマスター/階層主) |
 | stone spear | stone spears; Stone Spear; Stone Spears | Thạch Thương | kỹ năng | 193 | Ma pháp thổ hệ phóng ra các ngọn giáo bằng đá |
+| Barrack Ceara |  | Barrack Ceara | kỹ năng | 194 | Ma pháp lôi hệ cấp cao tạo lốc xoáy sấm sét của Lorraine (tên ma pháp giữ nguyên) |
+| Hell’s Flame | Hell's Flame | Địa Ngục Hỏa | kỹ năng | 194 | Ma pháp hỏa hệ cấp cao thiêu đốt toàn diện do Shumini thi triển (地獄の業火) |
+| ice spear | ice spears | Băng Thương | kỹ năng | 194 | Ma pháp băng hệ phóng ra các ngọn giáo băng |

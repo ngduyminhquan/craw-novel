@@ -1144,3 +1144,9 @@ Laura quyết định cùng nhóm Rentt, Lorraine và Isaac tiến xuống đư�
 Sau khi Rentt, Isaac và Lorraine phối hợp tiêu diệt hai con quái vật, Laura phô diễn thực lực đáng sợ khi dùng dị năng không gian nén bẹp con Lizardman còn lại thành một khối cầu nhỏ tí hon rơi xuống sàn.
 Cả nhóm tiến đến trước cánh cửa phòng Chủ Nhân Mê Cung lộng lẫy; Isaac bày tỏ mong muốn tự tay kết liễu Shumini nhưng dặn mọi người không cần nương tay vì anh, rồi cả nhóm sẵn sàng mở cửa bước vào trận chiến.
 
+## 194
+Nhóm Rentt, Lorraine, Isaac và Laura bước vào phòng Chủ Nhân Mê Cung đối đầu với quái vật cá sấu khổng lồ mang khuôn mặt Shumini nơi bụng; quái vật phô diễn sức mạnh đáng sợ với tia nhiệt như laser, ma pháp diện rộng hủy diệt Địa Ngục Hỏa cùng tốc độ kinh hoàng khi hạ bốn chân.
+Isaac, Rentt và Lorraine phối hợp kìm chân, dùng ma pháp sấm sét Barrack Ceara và Băng Thương đóng băng phong tỏa cử động của quái vật; Laura thi triển dị năng quả cầu đen kích nổ xé toạc thân xác quái vật thành nhiều mảnh thịt vụn văng khắp phòng.
+Phát hiện các phần thịt vụn đang trượt trên sàn để tái tạo hợp nhất, cả nhóm nhanh chóng phóng hỏa thiêu rụi các mảnh thịt; Isaac tiến đến phần bụng mang khuôn mặt còn ý thức của người bạn cũ Shumini và tự tay vung đại kiếm chém đôi gã để giải thoát.
+Khuôn mặt Shumini cùng toàn bộ thân xác quái vật hoàn toàn hóa thành tro tàn; Isaac lấy lại bình tĩnh và cả nhóm tiếp tục cất bước tiến sâu hơn vào mê cung để tìm kiếm Lõi Mê Cung.
+

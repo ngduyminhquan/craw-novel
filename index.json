@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T07:57:06Z",
+  "generatedAt": "2026-11-03T08:04:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3311,6 +3311,12 @@
           "title": "Chương 193: Tập 8 Chương 4 - Giải Thích và Giải Quyết (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_193.md",
           "sha": "ad323d0c9afe83f5fe58d29c725a3a6e15a75641"
+        },
+        {
+          "number": 194,
+          "title": "Chương 194: Tập 8 Chương 4 - Giải Thích và Giải Quyết (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_194.md",
+          "sha": "3bc4b2b9346f0e3d39b3be9497afaf8c3fcd3825"
         }
       ]
     },

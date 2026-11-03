@@ -198,7 +198,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | reviewed |  |
 | 192 |  | Chapter_192 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2) | reviewed |  |
 | 193 |  | Chapter_193 - Vol 8 Chapter 4 - Explanation and Resolution (1).txt | Vol 8 Chapter 4 - Explanation and Resolution (1) | done |  |
-| 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | todo |  |
+| 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | done |  |
 | 195 |  | Chapter_195 - Vol 8 Chapter 4 - Explanation and Resolution (3).txt | Vol 8 Chapter 4 - Explanation and Resolution (3) | todo |  |
 | 196 |  | Chapter_196 - Vol 8 Chapter 4 - Explanation and Resolution (4).txt | Vol 8 Chapter 4 - Explanation and Resolution (4) | todo |  |
 | 197 |  | Chapter_197 - Vol 8 Chapter 4 - Explanation and Resolution (5).txt | Vol 8 Chapter 4 - Explanation and Resolution (5) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -795,3 +796,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#193] Dịch danh xưng 'dungeon master': tạm chọn 'Chủ Nhân Mê Cung' (phương án khác: 'Chúa Tể Mê Cung', 'Dungeon Master'). Tạm dùng trong bản dịch: 'Chủ Nhân Mê Cung'. → Giữ 'Chủ Nhân Mê Cung' (đồng bộ với 'Lõi Mê Cung' và tiền lệ dịch 'dungeon → mê cung'). (orchestrator)
 - [#193] Dịch quái vật/chức danh 'floor master': tạm chọn 'Thống Lĩnh Tầng' (phân biệt với thủ lĩnh/boss thông thường; phương án khác: 'Chủ Tầng', 'Thủ Lĩnh Tầng'). Tạm dùng trong bản dịch: 'Thống Lĩnh Tầng'. → Giữ 'Thống Lĩnh Tầng' (Hán Việt ngắn gọn theo rules.md, phân biệt rõ với Chủ Nhân Mê Cung). (orchestrator)
 - [#193] Dịch kỹ năng ma pháp thổ hệ 'stone spears' (đoạn 64): tạm chọn 'Thạch Thương' theo quy tắc Hán Việt trong rules.md (phương án khác: 'Giáo Đá', 'Thổ Thương'). Tạm dùng trong bản dịch: 'Thạch Thương'. → Giữ 'Thạch Thương' (Hán Việt ngắn gọn theo rules.md). (orchestrator)
+- [#194] Dịch ma pháp 'Hell’s Flame' của Shumini — tạm chọn 'Địa Ngục Hỏa' (phương án khác: 'Ngọn Lửa Địa Ngục', 'Hỏa Ngục'). → Giữ 'Địa Ngục Hỏa' (tên kỹ năng ma pháp Hán Việt ngắn gọn theo rules.md). (orchestrator)
+- [#194] Dịch ma pháp 'ice spears' của Lorraine — tạm chọn 'Băng Thương' (phương án khác: 'ngọn giáo băng') tương tự 'Thạch Thương' (#193). → Giữ 'Băng Thương' (đồng bộ với 'stone spears → Thạch Thương' ở chương 193). (orchestrator)
