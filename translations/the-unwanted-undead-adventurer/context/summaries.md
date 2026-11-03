@@ -962,3 +962,9 @@ Vị tư tế bước vào căn phòng ngập tràn thánh khí và vô tình l�
 Nhóm rời đền thờ, chia sẻ sự an tâm về hiệu lực bảo mật tuyệt đối của khế ước ma pháp; Augurey trao mẩu giấy ghi địa chỉ nhà trọ để tiện liên lạc rồi chia tay Rentt và Lorraine.
 Rentt và Lorraine đổi lại trang phục bình thường rồi vội vã đến điểm hẹn gặp lại bà lão Gharb và chú Capitan; Gharb bất ngờ tuyên bố trao toàn quyền quyết định các ma pháp trận dịch chuyển cho hai người và tiết lộ chúng hoàn toàn có thể bị phá hủy bằng tay người nếu gặp nguy cơ bại lộ.
 Trên đường ra cổng thành rời vương đô, Rentt dùng "Tai Ma Cà Rồng" vô tình chứng kiến Augurey tốt bụng đem tặng số thiến thảo hỏa tinh linh còn thừa cho một bé gái nghèo để chữa bệnh cho mẹ mà không lấy tiền.
+
+## 163
+Nhóm bốn người Rentt, Lorraine, Gharb và Capitan qua cổng thành Vistelya rồi dịch chuyển quay trở lại thành phố tàn tích cổ đại ở tầng 60 Mê Cung Côn Trùng Cổ; Rentt lấy Bản Đồ Akasha ra kiểm tra và Capitan đòi so tài võ nghệ sau khi trêu đùa muốn giành tấm bản đồ.
+Bản Đồ Akasha bất ngờ hiển thị chính xác tên điểm đến của các ma pháp trận dẫn về pháo đài Hathara và cống ngầm Vistelya; Lorraine và Gharb đưa ra giả thuyết tấm bản đồ có thể đang kết nối và trích xuất thông tin trực tiếp từ Bản Ghi Akashic huyền thoại.
+Cả nhóm kiểm chứng cơ chế hoạt động của Bản Đồ Akasha qua các ma pháp trận dịch chuyển khác (dẫn đến Albasa thuộc Vương Quốc Lina và Đảo Daris thuộc Cộng Hòa Thorn); tấm bản đồ chỉ hiện thông tin chi tiết đầy đủ khi người sở hữu đã thực sự bước qua ma pháp trận.
+Lorraine và Gharb phân tích cơ chế ma thuật khi ma pháp trận dịch chuyển bị đất đá lát đè hoặc bị thảm trải che phủ; nhóm nhận ra nguy cơ có thể bị dịch chuyển bất ngờ vào những nơi nguy hiểm như phòng ngai vàng của một vương quốc nào đó.

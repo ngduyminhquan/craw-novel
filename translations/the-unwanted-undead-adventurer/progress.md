@@ -167,7 +167,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | reviewed |  |
 | 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | reviewed |  |
 | 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | reviewed |  |
-| 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | todo |  |
+| 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | done |  |
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | todo |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | todo |  |
 | 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | todo |  |
@@ -735,3 +735,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#161] Dịch 'ra'al slimes' — tạm chọn 'Slime Ra'al' (phân loài Slime mang độc tính, phương án khác: 'Slime Độc Ra'al', 'Slime Raal') → Chốt "Slime Ra'al" (nhất quán với cấu trúc tên phân loài như Phi Long Zeva, Phi Long Grand Fum). (orchestrator)
 - [#162] Dịch 'holy energy' — tạm chọn 'thánh khí' (phương án khác: 'thánh năng', 'năng lượng thánh') → Chốt "thánh khí" để phân biệt với Divinity (Thần Lực). (orchestrator)
 - [#162] Dịch 'Vampire Ear' — tạm chọn 'Tai Ma Cà Rồng' (phương án khác: 'Đôi Tai Ma Cà Rồng') → Chốt "Tai Ma Cà Rồng" theo đúng cách gọi tự đặt ngắn gọn của Rentt. (orchestrator)
+- [#163] Tiêu đề arc/chương 'Numerous Secrets (1)': tạm chọn 'Vô Số Bí Mật (1)' (phương án khác: 'Muôn Vàn Bí Mật (1)', 'Những Bí Mật Trùng Trùng (1)'). → Chốt "Vô Số Bí Mật (1)". (orchestrator)
+- [#163] Dịch thuật ngữ 'Akashic records': tạm chọn 'Bản Ghi Akashic' (phương án khác: 'Tàng Thư Akasha', 'Hồ Sơ Akashic'). → Chốt "Bản Ghi Akashic". (orchestrator)
+- [#163] Dịch tên vũ khí 'Dragonslayer', 'Giantslayer', 'Godslayer', 'Theoretical Dragonslayer': tạm chọn 'Đồ Long', 'Đồ Cự Nhân', 'Đồ Thần', 'Đồ Long Trên Lý Thuyết' (phương án khác: 'Trảm Long', 'Trảm Cự Nhân', 'Trảm Thần'). → Chốt "Đồ Long", "Đồ Cự Nhân", "Đồ Thần", "Đồ Long Trên Lý Thuyết" theo quy tắc Hán Việt ngắn gọn trong rules.md. (orchestrator)

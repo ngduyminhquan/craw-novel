@@ -315,3 +315,12 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | holy ground |  | thánh địa | địa danh | 162 | Vùng đất hoặc nơi chốn được thần linh chứng giám hoặc ngự trị, ngập tràn thánh khí |
 | divine sword | divine swords | thần kiếm | vật phẩm | 162 | Kiếm thần thánh trong truyền thuyết do thần linh chế tác hoặc ban phước |
 | Vampire Ear |  | Tai Ma Cà Rồng | kỹ năng | 162 | Cách Rentt tự gọi thính lực cường hóa nhờ cơ thể ma cà rồng của mình |
+| Akashic records | the Akashic records | Bản Ghi Akashic | khác | 163 | Khái niệm nơi lưu trữ toàn bộ ký lục/tri thức của mọi hiện tượng tồn tại trong vũ trụ (アカシックレコード) |
+| Dragonslayer |  | Đồ Long | vật phẩm | 163 | Tên gọi phổ biến đặt cho kiếm diệt rồng |
+| Giantslayer |  | Đồ Cự Nhân | vật phẩm | 163 | Tên gọi phổ biến đặt cho vũ khí diệt người khổng lồ |
+| Godslayer |  | Đồ Thần | vật phẩm | 163 | Tên gọi phổ biến đặt cho vũ khí diệt thần |
+| Theoretical Dragonslayer |  | Đồ Long Trên Lý Thuyết | vật phẩm | 163 | Tên gọi châm biếm cho kiếm mang danh Đồ Long nhưng chưa từng hạ rồng |
+| Kingdom of Lina |  | Vương Quốc Lina | địa danh | 163 | Vương quốc nơi có thành phố Albasa |
+| Albasa |  | Albasa | địa danh | 163 | Thành phố thuộc Vương Quốc Lina có ma pháp trận dịch chuyển |
+| Republic of Thorn |  | Cộng Hòa Thorn | địa danh | 163 | Quốc đảo phía nam gồm hàng ngàn hòn đảo, ngành vận tải biển rất phát triển |
+| Daris’s Island | Daris's Island | Đảo Daris | địa danh | 163 | Hòn đảo thuộc Cộng Hòa Thorn có ma pháp trận dịch chuyển |
