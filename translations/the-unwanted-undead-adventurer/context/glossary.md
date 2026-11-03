@@ -274,3 +274,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | puppet mastery |  | thuật điều khiển rối | kỹ năng | 144 | Kỹ thuật và ma thuật chế tạo, điều khiển rối cử động |
 | God of Appraisal |  | Thần Giám Định | danh hiệu | 145 | Thần linh cai quản giá trị và sự đánh giá vật phẩm, được giới thương nhân và quý tộc tôn sùng |
 | gadol akavish | Gadol Akavish; Gadol akavish | Gadol Akavish | quái vật | 146 | Quái vật nhện khổng lồ sinh sống trong khu rừng phía bắc Làng Hathara (ガドル・アカヴィシュ) |
+| teleportation circle | teleportation circles; Teleportation circle; Teleportation circles | ma pháp trận dịch chuyển | kỹ năng | 18 | Ma pháp trận dùng để di chuyển tức thời giữa các vị trí trong mê cung (転移魔法陣) |
+| Grim Reaper | the Grim Reaper; grim reaper | Tử Thần | khác | 147 | Hiện thân của cái chết trong truyền thuyết, dẫn lối linh hồn sang thế giới bên kia |
+| Shahor Melechnamer | shahor melechnamer; Shahor melechnamer; shahor melechnamers | Shahor Melechnamer | quái vật | 147 | Quái vật dạng hổ khổng lồ thân đầy vằn đen cực mạnh sinh sống gần tàn tích bí mật của Làng Hathara (シャホル・メレクナメル) |

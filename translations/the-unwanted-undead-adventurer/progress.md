@@ -151,7 +151,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | reviewed |  |
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | done |  |
 | 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | done |  |
-| 147 |  | Chapter_147 - Vol 6 Chapter 4 - The Secret of Hathara (2).txt | Vol 6 Chapter 4 - The Secret of Hathara (2) | todo |  |
+| 147 |  | Chapter_147 - Vol 6 Chapter 4 - The Secret of Hathara (2).txt | Vol 6 Chapter 4 - The Secret of Hathara (2) | done |  |
 | 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | todo |  |
 | 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | todo |  |
 | 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -704,3 +703,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#145] Dịch cụm 'holy item' (đoạn 37, 43, 89) chỉ chiếc mặt nạ không tháo được — tạm chọn 'vật phẩm thần thánh' (phương án khác: 'thánh vật', 'thánh di vật'). Tạm dùng trong bản dịch: 'vật phẩm thần thánh'. → Giữ 'vật phẩm thần thánh' (orchestrator)
 - [#146] Xưng hô Rentt và Capitan: tạm chọn Capitan xưng 'chú', gọi 'cháu / Rentt'; Rentt gọi 'Capitan' (thỉnh thoảng trêu 'Sư phụ'), xưng 'cháu' theo quan hệ thầy trò làng quê (phương án khác: Capitan xưng 'ta' gọi 'cậu/nhóc', Rentt xưng 'tôi'). → Giữ Capitan xưng 'chú' gọi 'cháu / Rentt', Rentt xưng 'cháu' gọi 'Capitan' (hoặc 'sư phụ' khi trêu) (orchestrator)
 - [#146] Tên quái vật 'gadol akavish': tạm chọn 'Gadol Akavish' theo tiền lệ 'Gadol Ze'ev' ở #143 (phương án khác: dịch nghĩa 'Đại Nhện Akavish'). → Giữ 'Gadol Akavish' (đồng bộ với 'Gadol Ze'ev' ở #143) (orchestrator)
+- [#147] Dịch tên quái vật 'shahor melechnamer' (đoạn 52, 59, 62): tạm chọn 'Shahor Melechnamer' (giữ nguyên danh xưng riêng theo tiền lệ 'Gadol Akavish' ở #146 và 'Gadol Ze'ev' ở #143; phương án khác: 'Hắc Hổ Vương Melechnamer', 'Hắc Hổ Shahor Melechnamer'). Tạm dùng trong bản dịch: 'Shahor Melechnamer'. → Giữ 'Shahor Melechnamer' (đồng bộ với 'Gadol Ze'ev' ở #143 và 'Gadol Akavish' ở #146) (orchestrator)
+- [#147] Dịch 'teleportation circle' (đoạn 15, 17, 21, 23, 24, 26, 30, 31, 33, 37, 39, 62): tạm chọn 'ma pháp trận dịch chuyển' theo tiền lệ ở #18 và #26 (phương án khác: 'ma pháp trận dịch chuyển tức thời', 'trận pháp dịch chuyển'). Tạm dùng trong bản dịch: 'ma pháp trận dịch chuyển'. → Giữ 'ma pháp trận dịch chuyển' (đồng bộ với #18 và #26) (orchestrator)

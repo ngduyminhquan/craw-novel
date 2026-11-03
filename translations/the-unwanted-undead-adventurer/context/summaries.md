@@ -869,6 +869,12 @@ Sáng hôm sau, Capitan trêu đùa muốn bắn thử mũi tên truyền Khí L
 Vừa vào rừng, Capitan vung dao săn hạ gục bầy Goblin, còn Gharb bộc lộ khả năng chiến đấu cận chiến như một ma kiếm sĩ/chiến pháp sư: thoăn thoắt né đòn và phóng lưỡi dao gió chặt đứt chân quái vật nhện khổng lồ Gadol Akavish.
 Trước thắc mắc của Rentt về việc vì sao một ngôi làng có thể tồn tại bình yên ngay sát bầy quái vật đông đúc và hung dữ, Gharb quả quyết chúng sẽ không bao giờ bén mảng tới Hathara rồi tiếp tục dẫn nhóm tiến sâu vào lòng khu rừng.
 
+## 147
+Gharb và Capitan dẫn Rentt và Lorraine tới một pháo đài bằng đá cổ kính phủ đầy rêu phong sâu trong rừng; tại căn phòng cạnh ngai vị, Lorraine và Rentt kinh ngạc phát hiện một ma pháp trận dịch chuyển khổng lồ đang hoạt động – thứ vốn chỉ xuất hiện trong mê cung chứ con người không thể tự tạo ra.
+Gharb và Capitan kích hoạt ma pháp trận dịch chuyển cả nhóm tới một hang động ẩm ướt tăm tối; khi tiến gần tới lối ra của hang, cả nhóm bất ngờ chạm trán Shahor Melechnamer – quái vật dạng hổ khổng lồ cao 5m thân đầy vằn đen cực mạnh (ngang tầm quái vật cần mạo hiểm giả Bạch Kim hoặc Mithril Cấp thảo phạt).
+Con thú tỏ ra ngoan ngoãn như mèo nhà và nũng nịu cọ đầu vào người Rentt; Gharb tiết lộ nó bị thu hút bởi dòng máu của người Hathara và khẳng định đây vẫn chưa phải bí mật thực sự; chương kết thúc khi cả nhóm bước ra khỏi hang và Rentt sững sờ nhận ra trước mắt là một thành phố ngầm.
+
+
 
 
 
