@@ -98,7 +98,7 @@ Người đứng sau lưng ông, dĩ nhiên, chính là Nive Maris, Thợ Săn M
 
 Nghe thì có vẻ cô ấy chưa nghe thấy điều gì có thể gây rắc rối, nhưng tôi không thể chắc chắn liệu cô có đang nói dối hay không. Có thể cô đang giả ngây giả ngô, song tôi chẳng có cách nào đoán định được. Trông cô chắc chắn như thể đang cố làm ra vẻ dễ thương, hệt như một đứa trẻ vừa nhìn thấy món đồ chơi và không thể chờ đợi thêm để được chơi nó. Ý đồ của một đứa trẻ có thể hiện rõ mồn một trên mặt, nhưng tôi lại chẳng thể hình dung nổi trong đầu Nive đang toan tính điều gì.
 
-"Chà, hội nào cũng có cách của riêng mình. Cơ mà phần lớn là bọn tôi cứ tung mạo hiểm giả vào xử lý cho đến khi có kết quả thôi," Wolf nói, thở phào nhẹ nhõm vì đã không làm lộ bí mật của tôi. Và trong trường hợp này thì đó cũng không hoàn toàn là lời nói dối, nếu bạn chỉ việc thay thế mạo hiểm giả bằng lũ chuột.
+"Chà, hội nào cũng có cách của riêng mình. Cơ mà phần lớn là bọn tôi cứ tung mạo hiểm giả vào xử lý cho đến khi có kết quả thôi," Wolf nói, thở phào nhẹ nhõm vì đã không làm lộ bí mật của tôi. Và trong trường hợp này thì đó cũng không hoàn toàn là lời nói dối, nếu chỉ việc thay thế mạo hiểm giả bằng lũ chuột.
 
 "Ra vậy, và các ông tình cờ tìm ra bằng cách đó đấy à?" Nive đáp lại.
 
@@ -142,4 +142,4 @@ Sự hào hứng chân thành của Nive thật đáng sợ. Tôi suýt nữa c�
 
 Tôi nhìn nụ cười toe toét của Nive, thầm nhớ lại mình ghét việc phải cộng tác với cô ta đến nhường nào, nhưng giờ thì chẳng còn đường lui nữa rồi. May thay, sẽ có một người khác ở bên cạnh để mắt tới cô. Tôi nhìn ra sau lưng Wolf và thấy Myullias đang chạy thục mạng về phía chúng tôi.
 
-"Tôi đã phải nhắc cô bao nhiêu lần rồi hả; đừng có hơi một tí là lại tự tiện chạy mất hút như thế chứ!" cô vừa thở hổn hển vừa quát to. Hành động đó chẳng ra dáng một Thánh Nữ chút nào.
+"Tôi đã phải nhắc cô bao nhiêu lần rồi hả, đừng có hơi một tí là lại tự tiện chạy mất hút như thế chứ!" cô vừa thở hổn hển vừa quát to. Hành động đó chẳng ra dáng một Thánh Nữ chút nào.

@@ -188,9 +188,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | reviewed |  |
 | 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | reviewed |  |
 | 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | reviewed |  |
-| 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | done |  |
-| 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | done |  |
-| 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | done |  |
+| 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | reviewed |  |
+| 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | reviewed |  |
+| 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | reviewed |  |
 | 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | todo |  |
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | todo |  |
 | 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | todo |  |
