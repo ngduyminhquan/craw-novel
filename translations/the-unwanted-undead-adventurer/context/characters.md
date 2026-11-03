@@ -128,6 +128,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 192: Cùng Lorraine và Isaac tới Hội báo cáo cho Wolf Hermann và nhận lệnh đi tiêu diệt quái vật Shumini dưới cống ngầm; chứng kiến cư dân Maalt biến dị thành quái vật và buộc phải hạ sát một con quái vật để cứu một thai phụ, dẫn tới nỗi dằn vặt tự vấn về nhân tính; gặp Laura Latuule bên ngoài lối vào cống ngầm, được cô bé chia sẻ thị giác loài chim trên bầu trời và sững sờ khi cô nhắc tới việc anh mượn thị giác của chuột quyến thuộc.
 - Trạng thái tính đến chương 193: Cùng Laura, Lorraine và Isaac quan sát toàn cảnh ma pháp trận bao phủ Maalt; biết được việc Shumini kích hoạt ma pháp cổ đại biến Maalt thành mê cung và phải chiếm quyền kiểm soát Lõi Mê Cung; cùng cả nhóm tiến xuống cống ngầm tiêu diệt bầy Lizardman và chuẩn bị bước vào phòng Chủ Nhân Mê Cung đối đầu sinh tử với Shumini.
 - Trạng thái tính đến chương 194: Cùng Isaac, Lorraine và Laura chiến đấu với quái vật cá sấu khổng lồ Shumini; dùng kiếm dồn Ma Lực chém thủng sọ quái vật và dựng Khiên Chắn kết hợp Khí Lực sống sót sau ma pháp diện rộng Địa Ngục Hỏa; hỗ trợ kìm chân và cùng cả nhóm thiêu rụi thân xác phân rã của quái vật sau khi Laura kích nổ nó, rồi cất bước tiến sâu hơn vào mê cung tìm kiếm Lõi Mê Cung.
+- Trạng thái tính đến chương 195: Theo hướng dẫn của Laura, cắn cổ hút và truyền máu biến Rina thành quyến thuộc Ma Cà Rồng của riêng mình để giải thoát cô khỏi sự khống chế của Shumini; bị Laura ép uống máu của cô bé trước khi cô hấp thụ Lõi Mê Cung, dẫn tới việc kích hoạt Tiến Hóa Bản Thể mới và ngất lịm đi trong tay Lorraine.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -138,6 +139,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 93: Tiết lộ việc trốn nhà đi do bị cha mẹ ép hôn; được anh trai Idoles Rogue bí mật dẫn đi trải nghiệm mặt tối xã hội và truyền dạy kiếm thuật; bẩm sinh sở hữu lượng Ma Lực và Khí Lực dồi dào; sau khi được Rentt chỉ dạy bí quyết sinh tồn đã nỗ lực tập huấn, tích lũy thực lực qua các ủy thác đơn và gia nhập một tổ đội gồm hai mạo hiểm giả Đồng Cấp.
 - Trạng thái tính đến chương 128: Tình cờ gặp lại Rentt tại quầy ma cụ phế phẩm ở chợ Maalt; suýt không nhận ra anh do chiếc mặt nạ mới, nhưng lập tức nhận ra tiền bối khi Rentt đổi mặt nạ về hình đầu lâu quen thuộc.
 - Trạng thái tính đến chương 129: Gặp lại Rentt, cho biết cô đã lập tổ đội mới cùng kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii; đồng ý để Rentt chuyển lời hẹn gặp đến anh trai Idoles Rogue.
+- Trạng thái tính đến chương 195: Bị Shumini bắt cóc và biến thành Hạ Cấp Ma Cà Rồng để dung hợp bàn tay trái với Lõi Mê Cung nhằm thao túng mê cung Maalt; sau đó được Rentt cắn cổ truyền máu thu nạp làm quyến thuộc để giải thoát khỏi ý chí của Shumini, và được Laura giải phóng khỏi Lõi Mê Cung.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -305,6 +307,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 192: Cùng nhóm Rentt tới Hội Mạo Hiểm Giả báo cáo và được Hội Trưởng Wolf tạm thời xem như hội viên để nhận nhiệm vụ tiêu diệt Shumini; an ủi, khẳng định tính chính nghĩa của Rentt sau khi anh hạ sát cư dân biến dị bảo vệ một thai phụ; nhanh chóng đặt tay lên tay chủ nhân Laura khi cô xuất hiện.
 - Trạng thái tính đến chương 193: Cùng Laura và nhóm Rentt xuống cống ngầm; khẳng định Laura mạnh hơn mình rất nhiều; trước khi vào phòng Chủ Nhân Mê Cung đối đầu Shumini, Isaac bày tỏ mong muốn tự tay tiễn gã xuống mồ nhưng dặn mọi người không cần nương tay để nhường đòn kết liễu cho mình.
 - Trạng thái tính đến chương 194: Cùng Rentt, Lorraine và Laura phối hợp chiến đấu tiêu diệt quái vật cá sấu khổng lồ Shumini; bị ma pháp diện rộng Địa Ngục Hỏa thiêu rụi thành xác than nhưng nhanh chóng tự tái tạo hoàn nguyên; tự tay vung đại kiếm chém đôi khuôn mặt Shumini để tiễn đưa bạn cũ trong thanh thản, rồi cùng nhóm tiếp tục tiến sâu vào tìm Lõi Mê Cung.
+- Trạng thái tính đến chương 195: Được xác nhận là Ma Cà Rồng; lao tới đỡ lấy Laura khi cô bé kiệt sức ngất đi sau khi hấp thụ Lõi Mê Cung thứ tư; giải thích cho Rentt và Lorraine về giới hạn của Laura và báo cho Rentt biết anh đang bắt đầu Tiến Hóa Bản Thể.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
@@ -347,6 +350,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 169: Tiếp đón một cậu bé tộc Ma Cà Rồng trốn khỏi làng lên Maalt; trao thuốc Hoa Long Huyết giúp kiềm chế cơn khát, cảnh báo về Nive Maris và mời cậu tạm trú tại dinh thự; nhận định cậu bé không liên quan đến các vụ mạo hiểm giả mất tích gần đây.
 - Trạng thái tính đến chương 192: Xuất hiện bên ngoài ngôi nhà dẫn xuống cống ngầm trong bộ váy đen giữa lúc Maalt ngập trong quái vật; dùng dị năng bí ẩn (không phải Ma Lực, Khí Lực hay Thần Lực) kết nối và chia sẻ tầm nhìn của loài chim trên bầu trời bao quát toàn thị trấn cho nhóm Rentt, đồng thời tiết lộ bản thân biết việc Rentt có thể mượn thị giác của chuột quyến thuộc.
 - Trạng thái tính đến chương 193: Giải thích cho nhóm Rentt về việc Maalt đang bị ma pháp trận cổ đại biến thành mê cung và cách hóa giải bằng cách đánh bại Shumini để đoạt quyền kiểm soát Lõi Mê Cung; đồng hành cùng nhóm Rentt xuống cống ngầm và phô diễn thực lực áp đảo khi dùng dị năng không gian nén bẹp một con Lizardman thành khối cầu nhỏ tí hon.
+- Trạng thái tính đến chương 194: Phô diễn dị năng quả cầu đen kích nổ xé toạc thân xác quái vật cá sấu khổng lồ Shumini thành muôn mảnh thịt vụn để cả nhóm thiêu rụi, rồi cùng nhóm tiến sâu vào tìm Lõi Mê Cung.
+- Trạng thái tính đến chương 195: Thừa nhận bản thân cùng Isaac là Ma Cà Rồng; hướng dẫn Rentt cắn cổ truyền máu thu nhận Rina làm quyến thuộc; ép Rentt uống máu của mình rồi tự thân chạm vào hấp thụ Lõi Mê Cung thứ tư giải cứu Maalt và Rina, sau đó rơi vào giấc ngủ sâu do vượt quá giới hạn chịu đựng; dặn Rentt đi tìm hiểu các truyền thuyết đền thờ cổ.
 
 ### Myullias Raiza
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.

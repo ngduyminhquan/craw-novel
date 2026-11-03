@@ -1150,3 +1150,10 @@ Isaac, Rentt và Lorraine phối hợp kìm chân, dùng ma pháp sấm sét Bar
 Phát hiện các phần thịt vụn đang trượt trên sàn để tái tạo hợp nhất, cả nhóm nhanh chóng phóng hỏa thiêu rụi các mảnh thịt; Isaac tiến đến phần bụng mang khuôn mặt còn ý thức của người bạn cũ Shumini và tự tay vung đại kiếm chém đôi gã để giải thoát.
 Khuôn mặt Shumini cùng toàn bộ thân xác quái vật hoàn toàn hóa thành tro tàn; Isaac lấy lại bình tĩnh và cả nhóm tiếp tục cất bước tiến sâu hơn vào mê cung để tìm kiếm Lõi Mê Cung.
 
+## 195
+Tiến qua cánh cửa xanh lam, nhóm Rentt phát hiện Lõi Mê Cung là một quả cầu đen dung hợp sâu trong tay trái của Rina Rupaage, người đã bị Shumini biến thành Hạ Cấp Ma Cà Rồng quyến thuộc để thao túng mê cung mà không vướng hạn chế của Chủ Nhân Mê Cung.
+Để giải thoát Rina khỏi mệnh lệnh của Shumini, Laura thừa nhận bản thân cùng Isaac đều là Ma Cà Rồng và chỉ dẫn Rentt cắn cổ truyền máu để biến Rina thành quyến thuộc của riêng anh.
+Nhận thấy Lõi Mê Cung đã dung hợp vào thân xác Rina, Laura ép Rentt uống máu của mình rồi tự tay chạm vào hấp thụ Lõi Mê Cung vào cơ thể, cứu thoát Rina và ngăn chặn toàn bộ thị trấn Maalt biến thành mê cung.
+Trước khi chìm vào giấc ngủ vì vượt quá giới hạn chịu đựng (nắm giữ bốn Lõi Mê Cung), Laura dặn Rentt tìm hiểu các đền thờ cổ để hướng tới thăng hạng Mithril Cấp và tìm lại nhân tính; ngay sau đó, Rentt bất ngờ khởi phát Tiến Hóa Bản Thể do máu của Laura rồi ngất lịm đi.
+
+

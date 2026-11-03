@@ -342,3 +342,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Shumini | tôi | ngươi / gã / Shumini | 191 | Rentt đối đáp với Ma Cà Rồng đầu sỏ bạo loạn |
 | Shumini | Rentt Faina | ta | ngươi / con người | 191 | Ma Cà Rồng kiêu ngạo coi thường con người |
 | Wolf Hermann | Isaac Hart | tôi | anh | 192 | Hội Trưởng tiếp nhận và xem quản gia như thành viên tạm thời của Hội |
+| Laura Latuule | Lorraine Vivie | tôi | Lorraine / cô | 195 | Đương chủ gia tộc kiêm Ma Cà Rồng dặn dò nữ học giả |
+| Lorraine Vivie | Laura Latuule | tôi | Laura / cô bé | 195 | Nữ học giả nói chuyện với đương chủ quý tộc nhỏ tuổi |
