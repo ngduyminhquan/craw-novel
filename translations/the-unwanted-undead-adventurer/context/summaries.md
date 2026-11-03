@@ -1349,6 +1349,13 @@ Rentt tự xưng là mạo hiểm giả Đồng Cấp Rentt Vivie và giải th�
 Công Chúa Jia bất ngờ cúi đầu khẩn thiết cầu xin cả ba giúp đỡ; Augurey khéo léo gặng hỏi, và Jia tiết lộ bí mật triều đình rằng Quốc vương đương nhiệm Karsten Reshon Yaaran đang lâm trọng bệnh sắp qua đời.
 Jia nhắc tới hai bảo vật truyền ngôi là vương miện (Người Lùn chế tác) và quyền trượng (món quà từ High Elf ở Vùng Đất Cổ Thánh Thụ); Lorraine lập tức gặng hỏi về mối liên hệ giữa quyền trượng và bệnh tình của nhà vua.
 
+## 229
+Công Chúa Jia giải thích quyền năng áp chế uế khí và ngăn chặn Undead sinh sôi khắp Yaaran của cây quyền trượng truyền quốc; tuy nhiên bảo vật này đã bị nứt vỡ do dùng quá độ, liên tục bòn rút sinh mệnh lực của Quốc vương Karsten khiến người suy kiệt.
+Vì không thể đem quyền trượng rời vương quốc để sửa, Jia đã đích thân tới Vùng Đất Cổ Thánh Thụ thỉnh cầu các High Elf chế tác cây mới; Nauss tiết lộ nghi vấn các vụ tập kích đoàn hộ tống trên đường về do Đệ Nhất Hoàng Tử Joachim và Đệ Nhất Công Chúa Nadia chủ mưu nhằm loại trừ người thừa kế tiềm năng.
+Jia cho biết các High Elf đồng ý chế tác với điều kiện tự chọn nguyên liệu, và truyền đạt lại lời sấm truyền từ Thánh Thụ: "Một con người sẽ tìm đến, kẻ đó có mối liên hệ với người sở hữu Thánh Cụ. Hãy mang kẻ sở hữu Thánh Cụ đến trước cái cây."
+Augurey và Lorraine lập tức hướng mắt về phía chiếc mặt nạ Thần Lực của Rentt.
+
+
 
 
 

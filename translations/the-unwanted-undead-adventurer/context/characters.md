@@ -120,6 +120,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Marcel Viesel | Marquess Marcel Viesel | Marcel Viesel | Hầu tước, người đứng đầu phe cánh Đệ Nhất Hoàng Tử tại Vương Quốc Yaaran | #227 |
 | Gisel Georgiou | Countess Gisel Georgiou | Gisel Georgiou | Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran | #227 |
 | Karsten Reshon Yaaran | Karsten | Karsten Reshon Yaaran | Quốc vương đương nhiệm của Vương Quốc Yaaran | #228 |
+| Joachim Princeps Yaaran | Joachim | Joachim Princeps Yaaran | Đệ Nhất Hoàng Tử của Vương Quốc Yaaran | #229 |
+| Nadia Regina Yaaran | Nadia | Nadia Regina Yaaran | Đệ Nhất Công Chúa của Vương Quốc Yaaran | #229 |
 
 ## Chi tiết
 
@@ -761,6 +763,17 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, 65 tuổi, Quốc vương đương nhiệm của Vương Quốc Yaaran.
 - Đặc điểm: Vốn dĩ khỏe mạnh và nhiệt thành gánh vác việc triều chính, từng được kỳ vọng sẽ trị vì thêm 10 năm, nhưng gần đây sức khỏe suy sụp nghiêm trọng đe dọa tính mạng (#228).
 - Xuất hiện từ: #228 (được nhắc đến).
+
+### Joachim Princeps Yaaran
+- Giới tính, vai trò: Nam, Đệ Nhất Hoàng Tử của Vương Quốc Yaaran.
+- Đặc điểm: Con trưởng của Quốc vương Karsten, anh ruột của Công Chúa Jia; đứng đầu phe phái tranh đoạt quyền kế vị ngai vàng (#229).
+- Xuất hiện từ: #229 (được nhắc đến).
+
+### Nadia Regina Yaaran
+- Giới tính, vai trò: Nữ, Đệ Nhất Công Chúa của Vương Quốc Yaaran.
+- Đặc điểm: Con gái lớn của Quốc vương Karsten, chị ruột của Công Chúa Jia; đứng đầu phe phái tranh đoạt quyền kế vị ngai vàng (#229).
+- Xuất hiện từ: #229 (được nhắc đến).
+
 
 
 
