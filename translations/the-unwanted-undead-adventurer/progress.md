@@ -183,7 +183,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 176 |  | Chapter_176 - Vol 7 Side Story - Noble’s Trust (4).txt | Vol 7 Side Story - Noble’s Trust (4) | reviewed |  |
 | 177 |  | Chapter_177 - Vol 7 Bonus - A Strange Request.txt | Vol 7 Bonus - A Strange Request | reviewed |  |
 | 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | done |  |
-| 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | todo |  |
+| 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | done |  |
 | 180 |  | Chapter_180 - Vol 7 Bonus - Heirloom Management.txt | Vol 7 Bonus - Heirloom Management | todo |  |
 | 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | todo |  |
 | 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -761,3 +762,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#177] Dịch tiêu đề 'Vol 7 Bonus - A Strange Request' — tạm chọn 'Ngoại truyện Tập 7 - Một Ủy Thác Kỳ Lạ' (đồng bộ format với các bonus trước; phương án khác: 'Ngoại truyện Tập 7 - Một Yêu Cầu Kỳ Quặc'). Tạm dùng: 'Ngoại truyện Tập 7 - Một Ủy Thác Kỳ Lạ'. → Chốt 'Ngoại truyện Tập 7 - Một Ủy Thác Kỳ Lạ' đồng bộ format với các chương ngoại truyện trước. (orchestrator)
 - [#177] Dịch tên loài quái vật 'crystal wolf' — tạm chọn 'Sói Pha Lê' (đồng bộ cấu trúc với Sói Rừng, Sói Đá; phương án khác: 'Sói Tinh Thể', 'Thủy Tinh Lang'). Tạm dùng trong bản dịch: 'Sói Pha Lê'. → Chốt 'Sói Pha Lê' đồng bộ cấu trúc với Sói Rừng, Sói Đá trong glossary.md. (orchestrator)
 - [#177] Xưng hô giữa Rentt Faina và thợ thủ công Dylas — tạm chọn Rentt xưng 'tôi' gọi 'anh / Dylas', Dylas xưng 'tôi' gọi 'cậu / Rentt' (thân chủ và mạo hiểm giả nhận việc trò chuyện cởi mở; phương án khác: Rentt gọi 'ông', Dylas gọi 'anh'). Tạm dùng: Rentt (tôi - anh / Dylas), Dylas (tôi - cậu / Rentt). → Chốt Rentt xưng 'tôi' gọi 'anh / Dylas', Dylas xưng 'tôi' gọi 'cậu / Rentt' (đồng bộ với cặp Rentt - thợ rèn Clope). (orchestrator)
+- [#179] Dịch tiêu đề 'Vol 7 Bonus - Troupe Member Rentt' — tạm chọn 'Ngoại truyện Tập 7 - Thành Viên Đoàn Kịch Rentt' (đồng bộ format với các bonus trước; phương án khác: 'Ngoại truyện Tập 7 - Diễn Viên Đoàn Kịch Rentt', 'Ngoại truyện Tập 7 - Thành Viên Gánh Kịch Rentt'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 7 - Thành Viên Đoàn Kịch Rentt'. → Chốt 'Ngoại truyện Tập 7 - Thành Viên Đoàn Kịch Rentt' (orchestrator)
+- [#179] Dịch kỹ năng/loại ma thuật 'dark magic' — tạm chọn 'hắc ma pháp' (đồng bộ với tiền lệ 'hắc ma thuật' ở #10 và các loại ma pháp khác trong glossary; phương án khác: 'ma pháp bóng tối'). Tạm dùng trong bản dịch: 'hắc ma pháp'. → Chốt 'hắc ma pháp' (orchestrator)

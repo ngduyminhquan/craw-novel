@@ -75,6 +75,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hayden War | Hayden / Hayden War / anh / anh ấy | 173 | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista |
 | Elaine | Elaine / tiểu thư Elaine / cô bé | 174 | Con gái của Bá tước Curtis Nal Robista |
 | Dylas | Dylas / người thợ thủ công / anh ta | 177 | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt |
+| Liesse | Liesse / cô / nữ diễn viên | 179 | Nữ diễn viên chính của đoàn kịch lưu động |
 
 ## Giữa các nhân vật
 

@@ -95,6 +95,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Hayden War | Hayden | Hayden War | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista | #173 |
 | Elaine | Lady Elaine | Elaine | Con gái của Bá tước Robista, mắc chứng bệnh lạ đốm tím sẫm | #174 |
 | Dylas |  | Dylas | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt | #177 |
+| Liesse |  | Liesse | Nữ diễn viên chính của đoàn kịch lưu động đến Maalt | #179 |
 
 ## Chi tiết
 
@@ -642,4 +643,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Thân thiện, tôn trọng sinh mệnh và động vật; từng nhặt và nuôi dưỡng một con Sói Pha Lê cái bị thương ở ngoại vi thị trấn từ nhỏ; xem con sói như bạn bè thay vì thú thuần hóa; được con sói tặng một viên pha lê màu xanh lục lúc nó mang thai và đeo làm mặt dây chuyền.
 - Trạng thái tính đến chương 177: Đến khu rừng bảo vệ Sói Pha Lê mẹ và bầy con mới sinh; tình cờ nghe được hai mạo hiểm giả bàn kế hoạch săn trộm sói con nên thuê Rentt ngăn cản; cùng Rentt khuyên giải hai mạo hiểm giả rút lui trong hòa bình, sau đó mời Rentt và hai mạo hiểm giả kia đi uống rượu.
 - Xuất hiện từ: #177.
+
+### Liesse
+- Giới tính, vai trò: Nữ, nữ diễn viên chính (leading actress) của đoàn kịch lưu động đến thị trấn Maalt.
+- Đặc điểm: Gương mặt kiều diễm rất hợp với sân khấu kịch, cử chỉ điệu bộ tao nhã và cuốn hút; tính cách thẳng thắn, bực bội vì chủ nhà hát ở Maalt hủy lịch diễn vào phút chót; thủ vai người phụ nữ bị ma pháp sư bắt cóc làm tế phẩm trong vở kịch.
+- Xuất hiện từ: #179.
 

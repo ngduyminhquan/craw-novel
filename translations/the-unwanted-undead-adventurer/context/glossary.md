@@ -342,3 +342,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Chiweb | village of Chiweb | Chiweb | địa danh | 175 | Ngôi làng không xa Maalt nơi căn bệnh do côn trùng ma vật thường xuất hiện |
 | crystal wolf | crystal wolves; Crystal wolf; Crystal wolves | Sói Pha Lê | quái vật | 177 | Quái vật dạng sói khổng lồ phủ đầy tinh thể pha lê lấp lánh (クリスタルウルフ) |
 | Kikal |  | Kikal | địa danh | 177 | Thị trấn quê hương của thợ thủ công Dylas |
+| dark magic |  | hắc ma pháp | kỹ năng | 179 | Loại ma pháp thuộc tính bóng tối, tà thuật |

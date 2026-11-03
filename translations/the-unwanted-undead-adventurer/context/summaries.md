@@ -1054,3 +1054,8 @@ Kết thúc ủy thác trong hòa bình, Rentt rủ Dylas cùng về thị trấ
 Tại Hội Mạo Hiểm Giả, ủy thác Rentt định nhận bị trùng do sơ suất niêm yết của nhân viên; trong lúc chờ đợi, anh đọc tập sách điều lệ và giải đáp cặn kẽ các thắc mắc về quy định bồi thường cho một nữ nhân viên mới rất trẻ khiến cô bé ngưỡng mộ nhầm anh là tiền bối kỳ cựu của Hội.
 Cô tiếp tân thông báo ủy thác cũ đã có người nhận và đề xuất Rentt nhận ủy thác mô phỏng hộ tống nhân viên mới lấy kinh nghiệm thực tế nhờ sự tín nhiệm từ Sheila Ibarss và Hội Trưởng Wolf Hermann.
 Nhận lời ủy thác, Rentt hội ngộ cô bé nhân viên mới nọ trong sự sửng sốt của cô khi biết anh là mạo hiểm giả chứ không phải nhân viên Hội; sau vài lời động viên cô bé giàu nhiệt huyết, Rentt bắt đầu cất bước đồng hành cùng nhóm nhân viên mới.
+
+## 179
+Rentt tình cờ gặp một đoàn kịch lưu động bị chủ nhà hát ở Maalt hủy lịch diễn đột ngột; nữ diễn viên chính Liesse và các thành viên đang bế tắc tìm nơi biểu diễn.
+Ông trưởng đoàn kịch ngỏ lời nhờ Rentt đóng thế vai ma pháp sư phản diện dùng hắc ma pháp do diễn viên cũ ngã bệnh, và Rentt mượn mảnh đất ngoại ô của Lorraine làm sân khấu đồng thời nhờ cô dùng ma pháp ảo ảnh tạo phông nền.
+Vở kịch thành công rực rỡ suốt bốn ngày công chiếu, hút hết khán giả của nhà hát địa phương; kết thúc buổi diễn, Rentt cùng Lorraine vui vẻ trò chuyện sau cánh gà và Lorraine dự định giới thiệu đoàn kịch tài năng này với người quen ở Đế Quốc.
