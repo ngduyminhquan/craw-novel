@@ -885,3 +885,9 @@ Gharb và Capitan cưỡi Shahor Melechnamer chở Rentt và Lorraine đi quan s
 Capitan và Gharb thị phạm dùng cặp đá đỏ-xanh gia truyền để tạo lập ma pháp trận dịch chuyển mới, rồi trao lại các cặp đá này cho Rentt và Lorraine để tiện đi lại giữa Maalt và thành phố ngầm.
 Gharb dẫn cả nhóm bước qua một ma pháp trận dịch chuyển dẫn tới căn phòng bí mật trong đường cống ngầm cổ; sau khi niệm mật ngữ "Rehesteel" ngụy trang lối ra, cả nhóm bước ra ngoài và sững sờ nhận ra tòa lâu đài nguy nga của vương đô Vistelya.
 Gharb và Capitan rút thẻ mạo hiểm giả Đồng Cấp mang tên giả từ chi nhánh xa và hẹn tách ra dạo chơi mua sắm; Lorraine cũng đưa ra hàng loạt thẻ căn cước giả của Đế Quốc, mở đường cho cả nhóm đường hoàng tiến vào cổng thành Vistelya.
+
+## 150
+Rentt và Lorraine nhận ủy thác tìm kiếm người chồng mất tích của một phụ nữ giàu có tại Maalt; lần theo mật thất và bản đồ tại dinh thự, cả hai tìm đến một túp lều gỗ sâu trong rừng.
+Dưới hầm ngầm, họ phát hiện người chồng đã tự biến mình thành Thi Quỷ nhờ máu Ma Cà Rồng và khống chế một Ngạ Quỷ (vốn là chồng của người phụ nữ trẻ đang bị ăn thịt) để trả thù việc vợ ngoại tình; Rentt và Lorraine tiêu diệt lũ quái vật rồi chôn cất các nạn nhân.
+Khi nhận thù lao, người vợ để lộ âm mưu thâm độc: bà ta cố tình dàn cảnh ngoại tình để khiến chồng phát điên tự tay sát hại con gái riêng của chính ông nhằm chiếm đoạt trọn vẹn gia sản; dù phẫn uất, Rentt và Lorraine đành bất lực ra về do không có chứng cứ pháp lý.
+Vài ngày sau, Rentt hay tin dinh thự đã bị phóng hỏa thiêu rụi khiến người vợ thiệt mạng; lần theo sợi dây chuyền cháy đen và hài cốt tại hiện trường, Rentt suy đoán cô gái trẻ bị sát hại dường như đã thức tỉnh thành Undead, đào mồ chui lên thiêu rụi dinh thự để báo thù.
