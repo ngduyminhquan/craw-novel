@@ -88,7 +88,7 @@ Lorraine nghiêng đầu. "Đây là lần đầu tiên tôi nghe về chuyện 
 
 Nghe qua thì chuyện đó cũng có những mặt bất lợi, nhưng máu người vốn khá khó kiếm. Do còn có những thợ săn Ma Cà Rồng, tôi chắc rằng có không ít trường hợp dẫu đã cẩn trọng săn mồi nhưng vẫn chuốc lấy thất bại.
 
-"Vậy tôi cũng có thể làm thế sao?" Tôi hỏi Isaac.
+"Vậy tôi cũng có thể làm thế sao?" tôi hỏi Isaac.
 
 "Tôi không thể khẳng định chắc chắn theo hướng nào. Tuy nhiên, vì ngài có thể hấp thụ máu và thu nạp quyến thuộc như một Ma Cà Rồng, quyến thuộc của ngài có lẽ cũng sẽ cần đến máu. Edel, chú chuột Puchi Suri kia cũng vậy, đúng chứ? Từ trước đến nay ngài đã xử lý chuyện đó ra sao?"
 
@@ -98,13 +98,13 @@ Sau khi tôi giải thích điều đó với Isaac, anh đáp: "Có vẻ như n
 
 Khoan đã, anh ta vừa nói gì cơ? Tôi không hề hay biết ư?
 
-"Thế nghĩa là sao?" Tôi hỏi.
+"Thế nghĩa là sao?" tôi hỏi.
 
 "Nếu chủ nhân không thiết lập bất kỳ giới hạn nào, quyến thuộc có thể tùy ý rút lấy máu và Ma Lực từ họ."
 
 Isaac đang ám chỉ rằng Edel có thể cũng đang làm điều tương tự. Giờ anh ta nhắc tới, tôi mới nhớ ra một vài trường hợp. Đã có những lúc Edel tự tiện rút lấy Ma Lực, Khí Lực, hoặc Thần Lực của tôi mà không hề xin phép. Chắc hẳn với máu cũng y như thế. Tôi là cái gì chứ, kho tiếp tế à? Nhưng nếu Edel làm được điều đó...
 
-"Cô cũng có thể làm được như thế không?" Tôi hỏi Rina.
+"Cô cũng có thể làm được như thế không?" tôi hỏi Rina.
 
 Rina từng là con người, còn Edel là một con Puchi Suri, nhưng cả hai đều là quyến thuộc. Có lẽ hoàn toàn có thể an tâm cho rằng Rina cũng làm được như vậy. Hay đúng hơn thì, đây chính là điều tôi muốn hỏi ngay từ đầu.
 
@@ -160,7 +160,7 @@ Isaac dường như thấu hiểu điều đó mà không cần tôi phải nói
 
 Dẫu cho Isaac bài xích cảm giác của Thần Lực, Rina lại có vẻ hoàn toàn bình yên vô sự. Có lẽ cô cũng không phải là một Ma Cà Rồng điển hình.
 
-"Cô có thể thao túng Thần Lực không?" Tôi hỏi cô. "Chẳng hạn như, cô có thể dùng nó để thanh tẩy hay trị liệu, hoặc truyền nó vào vũ khí và giáp trụ của mình không?"
+"Cô có thể thao túng Thần Lực không?" tôi hỏi cô. "Chẳng hạn như, cô có thể dùng nó để thanh tẩy hay trị liệu, hoặc truyền nó vào vũ khí và giáp trụ của mình không?"
 
 Thần Lực khác với Ma Lực. Người ta có thể sử dụng nó theo trực giác ngay cả khi không hiểu rõ cấu tạo hay cơ chế vận hành của nó. Tuy nhiên, Rina đã vay mượn Thần Lực của tôi chứ không phải sử dụng nguồn năng lượng của chính mình. Đối với phần lớn mọi người, Thần Lực hoặc là sức mạnh bẩm sinh từ khi chào đời, hoặc là sự ban phước trực tiếp từ một tinh linh hay thần linh. Dù vậy, vì Edel dùng được nó, khả năng cao là Rina cũng có thể.
 
@@ -188,7 +188,7 @@ Isaac gật đầu.
 
 Chúng tôi đã xác định được rằng Rina có thể rút Ma Lực và Thần Lực từ tôi để sử dụng, nhưng hiển nhiên là cô không thể làm điều tương tự với Khí Lực.
 
-"Không có cách nào để cô rút chút Khí Lực nào từ tôi sao?" Tôi hỏi cô.
+"Không có cách nào để cô rút chút Khí Lực nào từ tôi sao?" tôi hỏi cô.
 
 Rina nhíu mày và cố thử thêm vài lần, nhưng chẳng có chuyện gì xảy ra cả.
 

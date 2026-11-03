@@ -58,7 +58,7 @@ Trên đời này chẳng thiếu những kẻ phi thường, và bóp nát đá
 
 "Xem ra năng lực thể chất của cô cũng tăng lên rồi đấy," tôi nhận xét.
 
-Isaac gật đầu: "Tôi cho rằng cô Rina có thể sánh ngang với một Hạ Cấp Ma Cà Rồng. Ngạ Quỷ thường còn mạnh hơn thế, nhưng cô ấy vẫn khỏe hơn nhiều so với một người bình thường. Hai vị cảm thấy ma lực của mình thế nào rồi?"
+Isaac gật đầu: "Tôi cho rằng cô Rina có thể sánh ngang với một Hạ Cấp Ma Cà Rồng. Ngạ Quỷ thường còn mạnh hơn thế, nhưng cô ấy vẫn khỏe hơn nhiều so với một người bình thường. Hai vị cảm thấy Ma Lực của mình thế nào rồi?"
 
 Isaac hướng câu hỏi đó về phía cả hai chúng tôi, nên Rina và tôi quyết định thử một vài ma pháp. Tuy nhiên, Rina lại không biết nhiều ma pháp cho lắm, nên tôi quyết định làm trước.
 
@@ -74,13 +74,13 @@ Tôi có chút lo lắng rằng ngọn lửa có thể bén vào mê cung cây b
 
 Khi ngọn lửa đã lụi bớt, cả ba người họ tiến lại gần. Rina trố tròn mắt nói: "Tôi không dùng được phép thuật nào mạnh đến mức ấy đâu! Anh biết rõ điều đó mà, đúng không?"
 
-"Hình như cô đang hiểu lầm một chuyện rồi," Lorraine giải thích. "Đó là Aliumage, một ma pháp cơ bản thuộc Ma Thuật Sinh Hoạt. Chỉ cần có đủ ma lực để kích hoạt ma pháp thì bất kỳ ai cũng có thể sử dụng được. Chẳng có lý do gì cô lại không thi triển được nó đâu, Rina."
+"Hình như cô đang hiểu lầm một chuyện rồi," Lorraine giải thích. "Đó là Aliumage, một ma pháp cơ bản thuộc Ma Thuật Sinh Hoạt. Chỉ cần có đủ Ma Lực để kích hoạt ma pháp thì bất kỳ ai cũng có thể sử dụng được. Chẳng có lý do gì cô lại không thi triển được nó đâu, Rina."
 
 Có vẻ như trong lúc tôi ngủ say, Rina và Lorraine đã có khối thời gian để làm quen với nhau. Hai người trông khá thoải mái khi ở cạnh nhau. Rõ ràng là Lorraine cảm thấy mình vừa có thêm một cô em gái kiêm chuột bạch thí nghiệm, còn Rina thì cảm thấy mình vừa có thêm một người chị gái kiêm một miếng mồi ngon lành. Nghe thì có vẻ khá rợn người đấy, nhưng nếu cả hai đều thấy ổn thì chắc cũng chẳng sao.
 
 Trong lúc tôi còn đang suy ngẫm về chuyện đó, Rina sững sờ nhìn sang Lorraine: "Khoan đã, đó là Ma Thuật Sinh Hoạt sao ạ? Ý tôi là, đúng là anh ấy đã niệm câu chú đó thật, nhưng Ma Thuật Sinh Hoạt mà lại có uy lực mạnh đến mức thiêu rụi cả một căn nhà như thế sao?"
 
-"Các ma pháp thuộc Ma Thuật Sinh Hoạt chỉ có hiệu quả rất hạn chế, nhưng chúng cũng không đòi hỏi nhiều ma lực. Chúng chỉ hữu ích cho những việc lặt vặt đời thường trong nhà mà thôi. Mà thật ra thì thuật ngữ đó chỉ là một cách gọi thiếu chính xác trong khẩu ngữ thông thường. Giới học thuật có một cái tên chuyên môn hơn cho chúng, nhưng vì chỉ có các học giả mới dùng đến nên giờ chúng ta tạm gác nó sang một bên đã. Dù thế nào đi nữa, theo định nghĩa đó thì ma pháp vừa rồi của Rentt vừa là Ma Thuật Sinh Hoạt mà lại không hẳn là Ma Thuật Sinh Hoạt."
+"Các ma pháp thuộc Ma Thuật Sinh Hoạt chỉ có hiệu quả rất hạn chế, nhưng chúng cũng không đòi hỏi nhiều Ma Lực. Chúng chỉ hữu ích cho những việc lặt vặt đời thường trong nhà mà thôi. Mà thật ra thì thuật ngữ đó chỉ là một cách gọi thiếu chính xác trong khẩu ngữ thông thường. Giới học thuật có một cái tên chuyên môn hơn cho chúng, nhưng vì chỉ có các học giả mới dùng đến nên giờ chúng ta tạm gác nó sang một bên đã. Dù thế nào đi nữa, theo định nghĩa đó thì ma pháp vừa rồi của Rentt vừa là Ma Thuật Sinh Hoạt mà lại không hẳn là Ma Thuật Sinh Hoạt."
 
 "Quả đúng như tôi nghĩ," tôi lẩm bẩm.
 
@@ -90,9 +90,9 @@ Tôi chỉ nói đùa về cái chuyện mồi ngon với chuột bạch thôi m
 
 ◆◇◆◇◆
 
-Tôi có thể nhận thấy ma lực của mình đã gia tăng đáng kể. Dẫu vậy, trên đời vẫn còn khối người sở hữu lượng ma lực vượt xa tôi. Nhưng so với thời còn sống, hiện tại tôi có sức mạnh tương đương khoảng một trăm năm mươi Rentt gộp lại. À thì, đó cũng chỉ là ước đoán của tôi thôi.
+Tôi có thể nhận thấy Ma Lực của mình đã gia tăng đáng kể. Dẫu vậy, trên đời vẫn còn khối người sở hữu lượng Ma Lực vượt xa tôi. Nhưng so với thời còn sống, hiện tại tôi có sức mạnh tương đương khoảng một trăm năm mươi Rentt gộp lại. À thì, đó cũng chỉ là ước đoán của tôi thôi.
 
-Xét về cấp bậc, tôi có lẽ ngang ngửa với một mạo hiểm giả Kim Cấp hạng xoàng. Tuy nhiên, tôi vẫn chưa quá giỏi về ma thuật, nên tôi dám chắc mình sẽ thua một ma pháp sư Đồng Cấp trong một trận thực chiến. Miễn là tính đến tổng thể năng lực toàn diện, tôi thấy thế cũng ổn rồi.
+Xét về cấp bậc, tôi có lẽ ngang ngửa với một mạo hiểm giả Kim Cấp bậc trung. Tuy nhiên, tôi vẫn chưa quá giỏi về ma thuật, nên tôi dám chắc mình sẽ thua một ma pháp sư Đồng Cấp trong một trận thực chiến. Miễn là tính đến tổng thể năng lực toàn diện, tôi thấy thế cũng ổn rồi.
 
 "Rina, cô không cần phải so sánh mình với Rentt đâu," Lorraine nói. "Anh ấy kỳ quặc đủ đường rồi. Cô không thể xếp anh ấy vào tập mẫu được, vì là một ngoại lệ dị biệt nên anh ấy sẽ làm sai lệch giá trị trung bình mất."
 
@@ -126,6 +126,6 @@ Lorraine suy nghĩ một lát rồi gật đầu: "Điều đó hoàn toàn có 
 
 Điều đó có nghĩa là Ma Cà Rồng có thể sinh con đẻ cái với những Ma Cà Rồng khác. Tôi chẳng biết chút gì về việc Ma Cà Rồng tạo ra bạn đời, nhưng thi thoảng tôi vẫn nghe phong phanh những tin đồn về kiểu 'trò tiêu khiển' ấy. Phần lớn trường hợp, những lời đồn đại về những đứa trẻ mang nửa dòng máu ma cà rồng, nửa dòng máu con người—Dampir—đều là điều dối trá trắng trợn hoặc chỉ là một sự hiểu lầm.
 
-Tại các ngôi làng hẻo lánh, đôi khi có những người bị dán nhãn nhầm là Dampir rồi bị xa lánh vì điều đó. Thế nhưng, kết quả gần như luôn cho thấy họ thực chất không phải là Dampir, mà chỉ là những người sở hữu ma nhãn đặc biệt mà bản thân không thể kiểm soát, hoặc những người có lượng ma lực quá lớn và đang vô thức bộc phát ma thuật ra xung quanh mình. Những Dampir thực thụ có lẽ cũng hiếm hoi chẳng khác nào mạo hiểm giả Mithril Cấp. Tôi chưa từng tận mắt nhìn thấy một ai như vậy. Nhưng trên đời vốn cũng có vô số ma vật mà tôi chưa từng tận mắt chứng kiến.
+Tại các ngôi làng hẻo lánh, đôi khi có những người bị dán nhãn nhầm là Dampir rồi bị xa lánh vì điều đó. Thế nhưng, kết quả gần như luôn cho thấy họ thực chất không phải là Dampir, mà chỉ là những người sở hữu ma nhãn đặc biệt mà bản thân không thể kiểm soát, hoặc những người có lượng Ma Lực quá lớn và đang vô thức bộc phát ma thuật ra xung quanh mình. Những Dampir thực thụ có lẽ cũng hiếm hoi chẳng khác nào mạo hiểm giả Mithril Cấp. Tôi chưa từng tận mắt nhìn thấy một ai như vậy. Nhưng trên đời vốn cũng có vô số ma vật mà tôi chưa từng tận mắt chứng kiến.
 
-Những tin báo về Dampir giả mạo này thường thu hút rất nhiều sự chú ý, nên tôi hay cất công lặn lội đi điều tra chúng để kiếm chút tiền tiêu vặt. Tôi thường tìm thấy thứ gì đó hữu ích như một người sở hữu ma nhãn hay một người mang lượng ma lực dồi dào. Tôi chẳng hề muốn làm những chuyện ghê rợn như dùng họ làm vật hiến tế hay cấy ghép ma nhãn của họ vào cơ thể mình. Tôi làm vậy là vì thông tin đó rất hữu ích cho các ma pháp sư đang tìm kiếm đồ đệ, hoặc các kỵ sĩ đoàn và quân đội đang săn lùng tân binh đầy triển vọng. Rốt cuộc thì cũng chỉ có rất ít người thực sự sở hữu những năng lực đặc biệt đó.
+Những tin báo về Dampir giả mạo này thường thu hút rất nhiều sự chú ý, nên tôi hay cất công lặn lội đi điều tra chúng để kiếm chút tiền tiêu vặt. Tôi thường tìm thấy thứ gì đó hữu ích như một người sở hữu ma nhãn hay một người mang lượng Ma Lực dồi dào. Tôi chẳng hề muốn làm những chuyện ghê rợn như dùng họ làm vật hiến tế hay cấy ghép ma nhãn của họ vào cơ thể mình. Tôi làm vậy là vì thông tin đó rất hữu ích cho các ma pháp sư đang tìm kiếm đồ đệ, hoặc các kỵ sĩ đoàn và quân đội đang săn lùng tân binh đầy triển vọng. Rốt cuộc thì cũng chỉ có rất ít người thực sự sở hữu những năng lực đặc biệt đó.

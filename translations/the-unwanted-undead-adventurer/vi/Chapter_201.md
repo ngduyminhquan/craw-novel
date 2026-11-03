@@ -32,7 +32,7 @@ Tôi biết Long Tộc có tồn tại, nhưng tôi chưa từng chạm trán ch
 
 So với các chủng tộc khác, con người sở hữu ngoại hình khá bình thường, không có bất kỳ đặc điểm nhận dạng thực sự nổi bật nào, nhưng họ lại có khả năng thích nghi cực kỳ cao và có thể sinh sống ở bất cứ nơi đâu mình muốn. Điều đó kết hợp với khả năng sinh sản nhiều con cháu chính là một trong những thế mạnh của họ với tư cách là một chủng tộc. Các chủng tộc khác thường rất kén chọn nơi cư trú, hoặc họ cần những môi trường đặc biệt để sinh tồn, nên họ không thể phân bố rộng khắp thế giới một cách dễ dàng như con người.
 
-Một ví dụ điển hình cho điều này chính là loài elf. Họ gặp rất nhiều khó khăn khi sống ngoài các vùng rừng rậm. Họ sẽ không mắc phải chứng "hội chứng cai rừng" hay thứ gì tương tự rồi chết lăn ra vì nó, nhưng họ sẽ rơi vào trạng thái trầm cảm u uất khi rời xa cánh rừng quá lâu. Tình trạng đó có thể bào mòn dần ý chí sinh tồn của họ. Nghe đâu về lâu về dài, họ thậm chí còn có thể mất mạng vì chuyện đó. Vẫn có những cá thể elf chẳng hề bận tâm đến việc phải xa rời rừng rậm, nhưng họ chỉ chiếm một thiểu số ít ỏi.
+Một ví dụ điển hình cho điều này chính là loài elf. Họ gặp rất nhiều khó khăn khi sống ngoài các vùng rừng rậm. Họ sẽ không mắc phải "hội chứng cai rừng" hay thứ gì tương tự rồi chết lăn ra vì nó, nhưng họ sẽ rơi vào trạng thái trầm cảm u uất khi rời xa cánh rừng quá lâu. Tình trạng đó có thể bào mòn dần ý chí sinh tồn của họ. Nghe đâu về lâu về dài, họ thậm chí còn có thể mất mạng vì chuyện đó. Vẫn có những cá thể elf chẳng hề bận tâm đến việc phải xa rời rừng rậm, nhưng họ chỉ chiếm một thiểu số ít ỏi.
 
 Đó là lý do vì sao tôi chưa từng gặp bất kỳ ai thuộc Long Tộc, dẫu rằng nếu tôi nhớ không lầm thì vốn dĩ họ cũng cực kỳ hiếm thấy rồi.
 

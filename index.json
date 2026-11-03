@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T09:49:27Z",
+  "generatedAt": "2026-11-03T10:00:02Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3346,19 +3346,19 @@
           "number": 199,
           "title": "Chương 199: Tập 9 Chương 1 - Đánh Giá Năng Lực (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_199.md",
-          "sha": "cbed18e8d02fe286b9166602a3f1038eac86028e"
+          "sha": "9c6f144d7a2cae62a8024e84614619a148eb746c"
         },
         {
           "number": 200,
           "title": "Chương 200: Tập 9 Chương 1 - Đánh Giá Năng Lực (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_200.md",
-          "sha": "cace60a2273813778fa432dbbc5aa39b1e22d284"
+          "sha": "ff71891f7a18cbc958c01274483e2d5b69f96f05"
         },
         {
           "number": 201,
           "title": "Chương 201: Tập 9 Chương 1 - Đánh Giá Năng Lực (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_201.md",
-          "sha": "df8f6d84ab6e1b0837fbe89050967c39c75be33d"
+          "sha": "9e84481b3261c146767484cb8bb952866b2557b2"
         }
       ]
     },

@@ -150,6 +150,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 196: Tỉnh lại bình an tại dinh thự gia tộc Latuule trong trang phục quý phái và được Isaac tiếp đãi chu đáo; dù đã biết mình biến thành Ma Cà Rồng và thỉnh thoảng thấy con người như thức ăn nhưng vẫn giữ được tâm lý tích cực, vui mừng nhảy vào lòng Rentt khi gặp lại.
 - Trạng thái tính đến chương 197: Bất ngờ khi nghe Isaac cho biết cô cũng không phát ra khí tức Ma Cà Rồng bình thường (nhờ nhận máu từ Rentt); ngây thơ thú nhận thấy con người trông ngon mắt và được Rentt tự nhủ phải căn dặn cẩn thận.
 - Trạng thái tính đến chương 199: Dễ dàng bóp nát đá bằng tay trần, được Isaac nhận định sức mạnh tương đương Hạ Cấp Ma Cà Rồng; trở nên thân thiết, thoải mái với Lorraine (được xem như em gái kiêm chuột bạch); tỏ ra bình thản trước thân phận Ma Cà Rồng và cảm thấy cảm xúc phẳng lặng hơn trước.
+- Trạng thái tính đến chương 200: Dưới sự hướng dẫn của chú chuột Edel, Rina học được cách rút Ma Lực và Thần Lực từ Rentt; thi triển thành công câu chú Aliumage tạo ngọn lửa nhỏ, được Isaac nhận định lượng Ma Lực tương đương ma pháp sư trung cấp của nhân loại; có thể dùng Thần Lực nuôi dưỡng cỏ dại mà không bị khó chịu; thất bại khi thử rút Khí Lực do chưa từng qua rèn luyện.
 - Trạng thái tính đến chương 201: Tiết lộ nguyên nhân bị Shumini bắt giữ là do đi tìm hai đồng đội Raiz và Laura Satii mất tích; thống nhất sẽ báo cáo với Hội theo kịch bản được giải cứu sau khi bị bắt để che giấu thân phận Ma Cà Rồng.
 
 ### Rina Rogue
