@@ -12,7 +12,7 @@ Wolf bắt đầu giải thích những gì đã diễn ra sau khi chúng tôi �
 
 "Cô ta đang lùng sục tiêu diệt nốt những con Thi Quỷ còn sót lại. Việc cô ta tự giác làm mà không cần ai nhờ vả thì tốt thật đấy, nhưng tâm trạng cô ta có vẻ hơi khó ở. Đại loại như chuyện chẳng có con Ma Cà Rồng nào cả."
 
-Dù Thi Quỷ về bản chất cũng là một dạng ma cà rồng, nhưng Nive hẳn là đang ám chỉ từ Hạ Cấp Ma Cà Rồng trở lên. Cụ thể hơn, ý cô ta là đẳng cấp như Shumini trở lên. Cô ta từng bảo mình có khứu giác đặc biệt nhạy bén với những chuyện như vậy, nên chắc hẳn đã cảm nhận theo bản năng rằng Shumini không còn nữa. Hơn nữa, thành phố cũng không còn bầu không khí căng thẳng từng bao trùm khi Shumini hiện diện.
+Dù Thi Quỷ về bản chất cũng là một dạng Ma Cà Rồng, nhưng Nive hẳn là đang ám chỉ từ Hạ Cấp Ma Cà Rồng trở lên. Cụ thể hơn, ý cô ta là đẳng cấp như Shumini trở lên. Cô ta từng bảo mình có khứu giác đặc biệt nhạy bén với những chuyện như vậy, nên chắc hẳn đã cảm nhận theo bản năng rằng Shumini không còn nữa. Hơn nữa, thành phố cũng không còn bầu không khí căng thẳng từng bao trùm khi Shumini hiện diện.
 
 Tôi có cảm giác cô ta sẽ đổ lỗi cho mình nếu tôi tình cờ đụng độ cô ta. Tôi thực lòng hy vọng mình sẽ không chạm mặt cô ta.
 
@@ -52,7 +52,7 @@ Có vẻ sự ngập ngừng của Lorraine tạm thời không khiến Wolf n�
 
 Tại sao một mê cung mới lại làm tăng khối lượng công việc của hội? Trước hết, sẽ có một làn sóng mạo hiểm giả mới đổ xô tới. Dù các mê cung luôn sản sinh ra nguyên liệu mới, nhưng số lượng chúng có thể tạo ra cũng có giới hạn. Nếu có quá nhiều mạo hiểm giả cùng hoạt động trong một khu vực, mê cung có thể cạn kiệt tài nguyên để họ thu thập. Dù vậy, chuyện một mê cung cạn sạch quái vật thì gần như chưa từng nghe thấy bao giờ.
 
-Tuy nhiên, điều đó lại không đúng với các loại kho báu rải rác khắp mê cung. Chúng vốn chẳng hề dễ tìm, và càng có nhiều mạo hiểm giả trong một mê cung thì cơ hội tìm thấy bất cứ thứ gì của bạn lại càng thấp đi. Mạo hiểm giả nhìn chung kiếm miếng ăn qua ngày bằng cách săn quái vật rồi đem bán Ma Tinh cùng các loại nguyên liệu thô của chúng, nhưng chính những mạo hiểm giả ấy cũng luôn mơ về việc đổi đời nhờ tìm thấy một món ma cụ hiếm rồi bán ra thị trường. Chuyện bắt gặp một món đồ có giá trị đủ để sống an nhàn cả đời là cực kỳ hiếm thấy, nhưng chỉ riêng niềm hy vọng đổi vận đã là một trong những động lực chính của giới mạo hiểm giả. Hiển nhiên, cơ hội khám phá ra những kho báu như vậy sẽ sụt giảm khi từng đoàn mạo hiểm giả ồ ạt kéo vào một mê cung.
+Tuy nhiên, điều đó lại không đúng với các loại kho báu rải rác khắp mê cung. Chúng vốn chẳng hề dễ tìm, và càng có nhiều mạo hiểm giả trong một mê cung thì cơ hội tìm thấy bất cứ thứ gì của người ta lại càng thấp đi. Mạo hiểm giả nhìn chung kiếm miếng ăn qua ngày bằng cách săn quái vật rồi đem bán Ma Tinh cùng các loại nguyên liệu thô của chúng, nhưng chính những mạo hiểm giả ấy cũng luôn mơ về việc đổi đời nhờ tìm thấy một món ma cụ hiếm rồi bán ra thị trường. Chuyện bắt gặp một món đồ có giá trị đủ để sống an nhàn cả đời là cực kỳ hiếm thấy, nhưng chỉ riêng niềm hy vọng đổi vận đã là một trong những động lực chính của giới mạo hiểm giả. Hiển nhiên, cơ hội khám phá ra những kho báu như vậy sẽ sụt giảm khi từng đoàn mạo hiểm giả ồ ạt kéo vào một mê cung.
 
 Chưa kể, sẽ cực kỳ bực bội nếu một kẻ mới đến bỗng nhiên vớ bẫm ở một mê cung mà mình đã dày công lùng sục suốt bao lâu nay. Để ngăn chặn những chuyện như vậy xảy ra, hội thường âm thầm điều chỉnh số lượng mạo hiểm giả ở bất kỳ mê cung nào. Nhưng vì giờ đây Maalt đã có thêm một mê cung khác, thành phố hoàn toàn có thể tiếp nhận một lượng lớn mạo hiểm giả đổ về. Hội vẫn chưa nắm rõ quy mô của nó, nhưng tùy theo kích thước, có lẽ sẽ có vài trăm mạo hiểm giả chuyển tới thành phố này sinh sống.
 
@@ -76,7 +76,7 @@ Mặt khác, Tòa Tháp lại là một tổ chức nghiên cứu dành cho các
 
 Wolf nhíu mày rồi cau mặt. "Tôi cũng hy vọng thế. Nhưng nếu có chuyện gì xảy ra thật, tôi sẽ trông cậy cả vào cậu đấy."
 
-Lời nhận xét của ông khiến sống lưng tôi chạy dọc một luồng ớn lạnh kinh hãi. Những người có mối liên hệ với Học Viện hoặc Tòa Tháp hoặc là có thế lực, hoặc là quen biết với những kẻ quyền cao chức trọng. Tôi thà không dính dáng gì đến họ thì hơn. Dù vậy, đôi khi chuyện đó là không thể tránh khỏi. Nhìn chung quý tộc Yaaran khá điềm tĩnh, và miễn là bạn làm việc qua các kênh chính thống, họ có lẽ sẽ không làm điều gì quá hà khắc với bạn đâu. Họ chẳng có gì đáng lo ngại cả. Hoặc ít nhất là tôi hy vọng thế.
+Lời nhận xét của ông khiến sống lưng tôi chạy dọc một luồng ớn lạnh kinh hãi. Những người có mối liên hệ với Học Viện hoặc Tòa Tháp hoặc là có thế lực, hoặc là quen biết với những kẻ quyền cao chức trọng. Tôi thà không dính dáng gì đến họ thì hơn. Dù vậy, đôi khi chuyện đó là không thể tránh khỏi. Nhìn chung quý tộc Yaaran khá điềm tĩnh, và miễn là người ta làm việc qua các kênh chính thống, họ có lẽ sẽ không làm điều gì quá hà khắc đâu. Họ chẳng có gì đáng lo ngại cả. Hoặc ít nhất là tôi hy vọng thế.
 
 "Về phần mình, tôi hy vọng ông sẽ không cần đến tôi," tôi nói thêm.
 
@@ -98,7 +98,7 @@ Khi Rina gật đầu, Wolf đáp: "Những người được tìm thấy ở M�
 
 Chúng tôi quyết định hướng về phía Phòng Khám Kohm. Khi tìm thấy Raiz và Laura trong mê cung, tôi không có cảm giác họ bị thương nặng, nhưng họ đã suy kiệt nghiêm trọng. Dù ma thuật trị liệu và Thần Lực có thể chữa lành vết thương, chúng lại không thể giải quyết cơn đói hay sự kiệt sức. Cách duy nhất để hồi phục khỏi những tình trạng đó là ăn uống và nghỉ ngơi.
 
-Bất kể bạn có nhận được bao nhiêu phép trị liệu đi chăng nữa, nếu cơ thể đã chạm tới giới hạn thì bạn vẫn sẽ chết. Hoặc ít nhất, đó là một khả năng hoàn toàn có thể xảy ra. Đó là lý do vì sao việc dùng ma pháp trị liệu cho một người sắp chết vì tuổi già là hoàn toàn vô dụng. Vì không nắm rõ chi tiết về tình trạng của họ, chúng tôi vẫn rất lo lắng cho Raiz và Laura.
+Bất kể một người có nhận được bao nhiêu phép trị liệu đi chăng nữa, nếu cơ thể đã chạm tới giới hạn thì người đó vẫn sẽ chết. Hoặc ít nhất, đó là một khả năng hoàn toàn có thể xảy ra. Đó là lý do vì sao việc dùng ma pháp trị liệu cho một người sắp chết vì tuổi già là hoàn toàn vô dụng. Vì không nắm rõ chi tiết về tình trạng của họ, chúng tôi vẫn rất lo lắng cho Raiz và Laura.
 
 "Chính là chỗ này, phải không ạ?" Rina hỏi.
 
@@ -134,9 +134,9 @@ Tôi hiểu những gì cô ta đang nói, nhưng tôi vẫn cảm thấy bực 
 
 Nive chẳng có lấy một vết thương nào trên người, vậy cô ta đến một phòng khám chữa bệnh để làm gì chứ? Còn về Myullias, tôi luôn đinh ninh rằng hai người họ lúc nào cũng đi liền như một cặp.
 
-"Dù nói thế nào đi nữa, Tiểu thư Myullias vẫn là một thánh nữ mà," Nive nói. "Hiện tại cô ấy đang ở Giáo Hội Lobelia tại đây, thuyết giảng nhằm xoa dịu những người bị ảnh hưởng bởi sự cố vừa rồi. Hơn nữa, vì về danh nghĩa là một thánh nữ, cô ấy đang làm tròn bổn phận của mình, trị liệu rồi thanh tẩy các kiểu. Tôi e là trời sắp có mưa rào bất chợt cũng nên."
+"Dù nói thế nào đi nữa, Tiểu thư Myullias vẫn là một Thánh Nữ mà," Nive nói. "Hiện tại cô ấy đang ở Giáo Hội Lobelia tại đây, thuyết giảng nhằm xoa dịu những người bị ảnh hưởng bởi sự cố vừa rồi. Hơn nữa, vì về danh nghĩa là một Thánh Nữ, cô ấy đang làm tròn bổn phận của mình, trị liệu rồi thanh tẩy các kiểu. Tôi e là trời sắp có mưa rào bất chợt cũng nên."
 
-Nive cố tình chêm vào những lời châm chọc chua cay như "về danh nghĩa là một thánh nữ" cùng câu cà khịa về cơn mưa — kiểu chuyện chắc chắn sẽ chọc điên Myullias nếu cô ấy có mặt ở đây — nhưng tôi phải thừa nhận rằng cô ta nói chẳng sai chút nào. Bản thân tôi chưa từng thực sự thấy Myullias hành xử giống một thánh nữ cho lắm. Dù vậy, tôi đồ rằng cô ấy sẽ nổi trận lôi đình với tôi nếu tôi dám thốt ra điều đó trước mặt cô ấy.
+Nive cố tình chêm vào những lời châm chọc chua cay như "về danh nghĩa là một Thánh Nữ" cùng câu cà khịa về cơn mưa — kiểu chuyện chắc chắn sẽ chọc điên Myullias nếu cô ấy có mặt ở đây — nhưng tôi phải thừa nhận rằng cô ta nói chẳng sai chút nào. Bản thân tôi chưa từng thực sự thấy Myullias hành xử giống một Thánh Nữ cho lắm. Dù vậy, tôi đồ rằng cô ấy sẽ nổi trận lôi đình với tôi nếu tôi dám thốt ra điều đó trước mặt cô ấy.
 
 "Vậy, rốt cuộc tại sao cô lại ở đây?" tôi hỏi lại. "Cô vẫn chưa giải thích chuyện đó đâu."
 

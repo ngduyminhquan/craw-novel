@@ -152,6 +152,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 199: Dễ dàng bóp nát đá bằng tay trần, được Isaac nhận định sức mạnh tương đương Hạ Cấp Ma Cà Rồng; trở nên thân thiết, thoải mái với Lorraine (được xem như em gái kiêm chuột bạch); tỏ ra bình thản trước thân phận Ma Cà Rồng và cảm thấy cảm xúc phẳng lặng hơn trước.
 - Trạng thái tính đến chương 200: Dưới sự hướng dẫn của chú chuột Edel, Rina học được cách rút Ma Lực và Thần Lực từ Rentt; thi triển thành công câu chú Aliumage tạo ngọn lửa nhỏ, được Isaac nhận định lượng Ma Lực tương đương ma pháp sư trung cấp của nhân loại; có thể dùng Thần Lực nuôi dưỡng cỏ dại mà không bị khó chịu; thất bại khi thử rút Khí Lực do chưa từng qua rèn luyện.
 - Trạng thái tính đến chương 201: Tiết lộ nguyên nhân bị Shumini bắt giữ là do đi tìm hai đồng đội Raiz và Laura Satii mất tích; thống nhất sẽ báo cáo với Hội theo kịch bản được giải cứu sau khi bị bắt để che giấu thân phận Ma Cà Rồng.
+- Trạng thái tính đến chương 204: Đến Hội cùng Rentt và Lorraine báo cáo tình hình; không hề bị ảnh hưởng bởi Thánh Hỏa của Nive Maris do sở hữu thể chất đặc thù dung nạp Thần Lực; đoàn tụ với hai đồng đội Raiz và Laura tại Phòng Khám Kohm; che giấu bí mật được Rentt cứu và việc bản thân biến thành Ma Cà Rồng.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -240,6 +241,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
 - Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
 - Trạng thái tính đến chương 38: Hoàn thành bài thi thăng hạng Đồng Cấp an toàn; xúc động bày tỏ lòng biết ơn đối với những lời dạy của Rentt khi chia tay tổ đội và hy vọng có dịp lập đội tái ngộ cùng anh.
+- Trạng thái tính đến chương 204: Bị Ma Cà Rồng bắt cóc giam giữ ở Mê Cung Tân Nguyệt và được nhóm Rentt giải cứu đưa về Phòng Khám Kohm tĩnh dưỡng; đoàn tụ với Rina; ngỡ ngàng và sùng bái khi biết Lorraine là mạo hiểm giả Ngân Cấp kiêm học giả ma pháp sư và Nive Maris là mạo hiểm giả Kim Cấp còn rất trẻ.
 
 ### Laura Satii
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
@@ -247,6 +249,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
 - Trạng thái tính đến chương 38: Chính thức thăng hạng Đồng Cấp; tinh tế nhận ra chí hướng và mục tiêu riêng biệt của Rentt (anh Vivie) khi chia tay tổ đội, cảm ơn anh đã bảo bọc, tạo cơ hội cho cả hai trưởng thành và khẳng định anh mãi là đồng đội của nhóm.
+- Trạng thái tính đến chương 204: Bị Ma Cà Rồng bắt cóc giam giữ ở Mê Cung Tân Nguyệt và được nhóm Rentt giải cứu đưa về Phòng Khám Kohm tĩnh dưỡng; đoàn tụ với Rina; ngỡ ngàng và sùng bái khi biết Lorraine là mạo hiểm giả Ngân Cấp kiêm học giả ma pháp sư và Nive Maris là mạo hiểm giả Kim Cấp còn rất trẻ.
 - Lưu ý: Raw từ tập 8 đổi sang viết thành Lola, bản dịch tiếng Việt luôn dùng tên đã chốt là Laura / Laura Satii.
 
 ### Augurey

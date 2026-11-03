@@ -1,6 +1,6 @@
 # Chương 202: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)
 
-Vì Isaac đã đồng ý sẽ dạy cho chúng tôi thêm các kỹ năng ma cà rồng, chúng tôi quyết định chuyện đó có thể gác lại cho đến sau khi tới báo cáo với Hội. Nếu chúng tôi chần chừ quá lâu, chắc chắn Wolf sẽ đứng ngồi không yên.
+Vì Isaac đã đồng ý sẽ dạy cho chúng tôi thêm các kỹ năng Ma Cà Rồng, chúng tôi quyết định chuyện đó có thể gác lại cho đến sau khi tới báo cáo với Hội. Nếu chúng tôi chần chừ quá lâu, chắc chắn Wolf sẽ đứng ngồi không yên.
 
 Maalt vốn đã quay trở lại nhịp sống thường nhật, nên có lẽ đây không hẳn là một nhiệm vụ cấp bách, nhưng tôi vẫn muốn giải quyết nó càng sớm càng tốt. Chúng tôi cũng đã rà soát trước những sơ hở có thể xuất hiện trong câu chuyện của mình, nên chắc sẽ ổn thỏa cả thôi. Về phần Isaac, chúng tôi quyết định anh ta sẽ không đi cùng. Nive hẳn vẫn còn ở đó, và cô ta sở hữu một tài năng đáng kinh ngạc trong việc vạch mặt Ma Cà Rồng. Giây phút cô ta chạm trán Isaac, cô ta sẽ chào đón anh ta bằng Thánh Hỏa ngay tắp lự.
 
@@ -84,7 +84,7 @@ Dù chỉ còn lại con mắt bên phải, ánh nhìn của ông vẫn sắc s�
 
 Bàn làm việc của Wolf chất đống giấy tờ cao đến mức tôi thấy thực sự ấn tượng trước độ cao ngất ngưởng của chúng. Tôi đồ rằng toàn bộ chỗ đó đều cần chữ ký trực tiếp của Hội Trưởng. Chính vào khoảnh khắc ấy, tôi đã tự thề rằng bản thân sẽ không bao giờ trở thành một Hội Trưởng đâu.
 
-"Vâng. Ông có rảnh một lát không?" tôi hỏi. "Tôi tới để báo cáo đây. Nhưng trông ông có vẻ khá bận rộn đấy nhỉ."
+"Ừ. Ông có rảnh một lát không?" tôi hỏi. "Tôi tới để báo cáo đây. Nhưng trông ông có vẻ khá bận rộn đấy nhỉ."
 
 Tin tức của chúng tôi không quá khẩn cấp, và nếu ông ấy muốn chúng tôi quay lại sau thì cũng chẳng thành vấn đề. Dường như không có bất kỳ mối đe dọa cận kề nào đối với thành phố, nên bản báo cáo của tôi có chậm trễ đôi chút cũng chẳng gây ra thiệt hại gì.
 
@@ -92,7 +92,7 @@ Chẳng một chút do dự, Wolf nói: "Không, đống này để sau cũng đ
 
 Con mắt phải của ông hướng về phía Lorraine và Rina. Không phải ông ấy muốn đuổi họ ra ngoài, mà là ông muốn chắc chắn rằng liệu có ổn không nếu họ lắng nghe một cuộc trò chuyện mà bí mật của tôi có thể bị bại lộ. Tôi dám chắc ông ấy đoán tôi đã giải thích phần nào cho Lorraine, nhưng có lẽ ông ấy nghĩ tôi chưa kể cho Rina nghe toàn bộ câu chuyện.
 
-Tôi lắc đầu. "Không, ổn cả thôi ạ. Cả hai người họ đều biết rồi."
+Tôi lắc đầu. "Không, ổn cả thôi. Cả hai người họ đều biết rồi."
 
 Tôi nhấn mạnh từ cuối cùng, và con mắt độc nhất của Wolf mở to đầy ngạc nhiên. "Nếu vậy thì họ cứ tự nhiên ở lại. Đảm bảo đóng chặt cửa lại nhé, cô bé," ông nói với Rina vì cô là người bước vào sau cùng.
 
@@ -102,7 +102,7 @@ Cánh cửa vẫn còn khép hờ, nên Rina vội vã đóng chặt cửa lại
 
 Wolf đi thẳng vào vấn đề chính. "Vậy tôi có thể cho rằng con quái vật cậu nhắc tới trong lúc hỗn loạn đó đã chết rồi chứ?"
 
-"Vâng. Chúng tôi đã xử lý hắn ta rồi. Bằng chứng đây ạ."
+"Phải đấy. Chúng tôi đã xử lý hắn ta rồi. Bằng chứng đây."
 
 Tôi lấy ra một viên Ma Tinh. Shumini đã gần như hóa thành tro bụi hoàn toàn, nhưng viên đá này nằm lại bên trong đống tro tàn đó. Vì Isaac từng thân thiết với Shumini nên tôi đã ngỏ ý đưa nó cho anh ta, nhưng anh ta ấn lại nó vào tay tôi và bảo rằng tôi sẽ cần nó làm bằng chứng, đồng thời anh ta cũng không phiền nếu sau đó tôi quyết định đem bán nó đi. Shumini đối với anh ta gần giống như một kẻ bám đuôi, nên có lẽ anh ta chẳng thiết tha gì việc giữ lại bất kỳ kỷ vật nào của hắn. Hoặc có khi tôi lại nghĩ ngợi quá nhiều rồi.
 

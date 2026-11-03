@@ -206,9 +206,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 199 |  | Chapter_199 - Vol 9 Chapter 1 - Evaluating Abilities (1).txt | Vol 9 Chapter 1 - Evaluating Abilities (1) | reviewed |  |
 | 200 |  | Chapter_200 - Vol 9 Chapter 1 - Evaluating Abilities (2).txt | Vol 9 Chapter 1 - Evaluating Abilities (2) | reviewed |  |
 | 201 |  | Chapter_201 - Vol 9 Chapter 1 - Evaluating Abilities (3).txt | Vol 9 Chapter 1 - Evaluating Abilities (3) | reviewed |  |
-| 202 |  | Chapter_202 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1) | done |  |
-| 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | done |  |
-| 204 |  | Chapter_204 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3) | done |  |
+| 202 |  | Chapter_202 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1) | reviewed |  |
+| 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | reviewed |  |
+| 204 |  | Chapter_204 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3) | reviewed |  |
 | 205 |  | Chapter_205 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4) | todo |  |
 | 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | todo |  |
 | 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | todo |  |
