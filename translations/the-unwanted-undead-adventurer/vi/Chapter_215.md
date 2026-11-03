@@ -46,7 +46,7 @@ Alize khẽ cười khúc khích rồi nói, "Em là Alize. Em là một trong n
 
 À, hóa ra Lorraine giới thiệu ngắn gọn như vậy là để Rina và Alize có thể tự miêu tả bản thân bằng lời lẽ của chính mình.
 
-"Về cơ bản thì cả hai cô bé đều là học trò của chúng tôi," Lorraine giải thích sau khi họ giới thiệu xong. "Còn về việc ai là tiền bối thì chuyện đó hơi rắc rối một chút."
+"Về cơ bản thì cả hai đứa đều là học trò của chúng tôi," Lorraine giải thích sau khi họ giới thiệu xong. "Còn về việc ai là tiền bối thì chuyện đó hơi rắc rối một chút."
 
 Lorraine nói có lý. Nếu xét theo thời gian theo học thì Alize sẽ là đàn chị trong hai người. Nhưng nếu xét theo thực lực ai giỏi hơn thì đó lại là Rina. Ngoài ra, Rina lớn tuổi hơn và tham gia sâu hơn vào các công việc của chúng tôi.
 
@@ -124,7 +124,7 @@ Tôi đã sẵn sàng nhận việc, nhưng tôi nghĩ mình vẫn nên hỏi ý
 
 "Cơ sở chính của Giáo Hội Đông Thiên nằm ở vương đô. Đại Thánh Đường cũng không cách Hội quá xa, nên chắc không phiền phức lắm đâu. Cho dù có mất trọn một ngày để chuyển bức thư đi chăng nữa, yêu cầu của Wolf cũng chẳng khẩn cấp đến mức ấy."
 
-"Ừ, cô nói phải. Ngay cả tính cả thời gian đi lại, lịch trình của chúng ta vẫn có dư ra một hoặc hai ngày đề phòng gặp rắc rối. Không thành vấn đề đâu."
+"Ừ, cô nói phải. Ngay cả khi tính thời gian đi lại, lịch trình của chúng ta vẫn có dư ra một hoặc hai ngày đề phòng gặp rắc rối. Không thành vấn đề đâu."
 
 "Vả lại vì tôi không dính dáng gì đến công việc của Hội, tôi hoàn toàn có thể tự mình đi chuyển thư. Nhìn chung thì không có gì phải bận tâm nhiều."
 
@@ -156,7 +156,7 @@ Tôi nhìn sang Lorraine, rồi cả hai đứng dậy khỏi băng ghế nhà n
 
 Cả hai cùng gật đầu.
 
-"Vâng ạ!" Rina reo lên cùng nụ cười rạng rỡ. "Chúng tôi đã quyết định sẽ cùng nhau nỗ lực luyện tập rồi ạ!"
+"Vâng ạ!" Rina reo lên cùng nụ cười rạng rỡ. "Chị em tôi đã quyết định sẽ cùng nhau nỗ lực luyện tập rồi ạ!"
 
 Tôi cứ nghĩ Rina sẽ chỉ dạy cho Alize chứ không phải luyện tập cùng cô bé, nhưng về mặt lý thuyết thì Alize vẫn sẽ được học hỏi. Thêm vào đó, từ trước đến nay Rina luôn luyện tập chăm chỉ, và cô ấy đã miệt mài rèn giũa các bài học mà Lorraine cùng tôi đã truyền dạy, nên cô ấy hoàn toàn đủ năng lực để đảm đương nhiệm vụ.
 

@@ -54,11 +54,11 @@ Chúng tôi trao đổi qua vài thủ tục hành chính nhỏ nhặt rồi tô
 
 Cánh cửa văn phòng Hội Trưởng đóng lại bằng một tiếng cạch. Wolf thở phào nhẹ nhõm. Sau đó, ông cẩn thận kiểm tra để chắc chắn rằng sự hiện diện của Rentt đã hoàn toàn biến mất ở phía sau cánh cửa.
 
-"Phù. Vừa rồi ta lo sốt vó, nhưng bằng cách nào đó đã trót lọt đùn đẩy được cho cậu ta. Cậu ta có thể rất sắc sảo, nên ta cứ sợ cậu ta sẽ nhận ra vào lúc nào đó. Nhưng xem chừng cậu ta đã diễn giải mọi chuyện theo chiều hướng tốt đẹp nhất có thể. Cảm tạ các vị thần."
+"Phù. Vừa rồi mình lo sốt vó, nhưng bằng cách nào đó đã trót lọt đùn đẩy được cho cậu ấy. Cậu ấy có thể rất sắc sảo, nên mình cứ sợ cậu ấy sẽ nhận ra vào lúc nào đó. Nhưng xem chừng cậu ấy đã diễn giải mọi chuyện theo chiều hướng tốt đẹp nhất có thể. Cảm tạ các vị thần."
 
 Những lời của Wolf nghe thật đáng ngại khi ông tự lẩm bẩm một mình.
 
-"Chúc may mắn nhé, Rentt. Dù có thừa thãi thời gian đi nữa thì ta cũng chẳng muốn đi đâu."
+"Chúc may mắn nhé, Rentt. Dù có thừa thãi thời gian đi nữa thì tôi cũng chẳng muốn đi đâu."
 
 Wolf đặt chồng giấy tờ mà ông đang ôm lên mặt bàn rồi tiếp tục công việc của mình.
 
@@ -96,7 +96,7 @@ Lorraine có lẽ nói đúng. Nhưng người ta cần phải nương tựa l�
 
 Tổng Hội Trưởng đứng trên mọi mạo hiểm giả trong vương quốc. Có lẽ sẽ hợp lý hơn nếu dùng cả mạo hiểm giả Bạch Kim Cấp hoặc Mithril Cấp làm hộ vệ. Thế nhưng mạo hiểm giả ở thứ hạng đó lại vô cùng hiếm hoi và quý giá, đến mức thật khó để định đoạt xem giữa họ và Tổng Hội Trưởng thì ai quan trọng hơn.
 
-Trong khi nhiều Hội Trưởng từng là cựu mạo hiểm giả giống như Wolf, họ xét cho cùng cũng chỉ là những người đứng đầu bộ máy hành chính của Hội. Rất hiếm khi họ là những anh hùng hay nhân vật kiệt xuất. Hơn nữa, nhiều mạo hiểm giả Bạch Kim Cấp và Mithril Cấp lại... lập dị. Họ chưa chắc đã chịu nghe theo mệnh lệnh từ Hội Trưởng, và Hội Trưởng cũng chẳng có cách nào ép họ phải nghe theo. Nive Maris hiện vẫn là mạo hiểm giả Kim Cấp, nhưng rồi cô ấy cũng sẽ đạt tới Bạch Kim Cấp. Những mạo hiểm giả Bạch Kim Cấp và Mithril Cấp chính là kiểu người như thế đấy.
+Trong khi nhiều Hội Trưởng từng là cựu mạo hiểm giả giống như Wolf, họ xét cho cùng cũng chỉ là những người đứng đầu bộ máy hành chính của Hội. Rất hiếm khi họ là những anh hùng hay nhân vật kiệt xuất. Hơn nữa, nhiều mạo hiểm giả Bạch Kim Cấp và Mithril Cấp lại... lập dị. Họ chưa chắc đã chịu nghe theo mệnh lệnh từ Tổng Hội Trưởng, và Tổng Hội Trưởng cũng chẳng có cách nào ép họ phải nghe theo. Nive Maris hiện vẫn là mạo hiểm giả Kim Cấp, nhưng rồi cô ấy cũng sẽ đạt tới Bạch Kim Cấp. Những mạo hiểm giả Bạch Kim Cấp và Mithril Cấp chính là kiểu người như thế đấy.
 
 Khoan đã, rốt cuộc thì có điều gì ở mạo hiểm giả Mithril Cấp khiến tôi ngưỡng mộ đến vậy? Tôi không khỏi băn khoăn. Từng có những con người tuyệt vời, đáng khâm phục thuộc Mithril Cấp. Phải rồi, đó chính là những con người mà tôi luôn muốn noi theo. Đúng là thế.
 
@@ -140,7 +140,7 @@ Dù Rina không hẳn là Ma Cà Rồng, cô bé cũng đã rất gần với ch
 
 Khoan đã, nghe cứ như thể tôi là một phần của một tổ chức tà ác nào đó vậy. Xét theo bản chất thì Laura và Isaac đúng là quái vật, nhưng trong thâm tâm họ lại không hề độc ác. Họ có nét giống như một ông lão từng là mối hiểm họa cho xã hội, nhưng nay đã trở thành một công dân gương mẫu của cộng đồng. Đại loại là thế. Isaac từng liên minh với Shumini, nên anh ta từng là mối nguy hại lớn hơn nhiều so với một gã thanh niên gia nhập một băng đảng ất ơ nào đó, nhưng cũng tương tự nhau cả thôi, đúng chứ?
 
-Dù sao đi nữa, Laura và Isaac giờ đây không còn cái thói tùy tiện tấn công người khác vô cớ. Tuy nhiên, nếu có lý do thì họ vẫn tấn công người ta. Dù sao họ cũng là Ma Cà Rồng, nên đôi khi chuyện đó là điều không thể tránh khỏi. Nhưng rõ ràng là họ không cần quá nhiều máu, và trong thị trấn cũng chẳng hề xảy ra hàng loạt vụ mất tích liên tiếp nào. Suốt nhiều năm qua cũng từng có vài vụ việc xảy ra, chẳng hạn như những vụ mất tích liên quan đến Shumini, thế nhưng Isaac và Laura đã ở đây suốt mấy thập kỷ, thậm chí cả mấy thế kỷ rồi, nên họ không hề dính líu đến bất kỳ vụ nào trong số đó. Chúng tôi hoàn toàn an tâm khi gửi gắm Rina cho họ chăm sóc.
+Dù sao đi nữa, Laura và Isaac giờ đây không còn làm cái việc tùy tiện tấn công người khác vô cớ nữa. Tuy nhiên, nếu có lý do thì họ vẫn tấn công người ta. Dù sao họ cũng là Ma Cà Rồng, nên đôi khi chuyện đó là điều không thể tránh khỏi. Nhưng rõ ràng là họ không cần quá nhiều máu, và trong thị trấn cũng chẳng hề xảy ra hàng loạt vụ mất tích liên tiếp nào. Suốt nhiều năm qua cũng từng có vài vụ việc xảy ra, chẳng hạn như những vụ mất tích liên quan đến Shumini, thế nhưng Isaac và Laura đã ở đây suốt mấy thập kỷ, thậm chí cả mấy thế kỷ rồi, nên họ không hề dính líu đến bất kỳ vụ nào trong số đó. Chúng tôi hoàn toàn an tâm khi gửi gắm Rina cho họ chăm sóc.
 
 "Với Rina thì thế là ổn rồi, nhưng còn Alize thì sao?" Lorraine hỏi.
 

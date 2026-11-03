@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T12:34:13Z",
+  "generatedAt": "2026-11-03T12:44:26Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3436,19 +3436,19 @@
           "number": 214,
           "title": "Chương 214: Tập 9 Chương 5 - Một Ủy Thác từ Hội (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_214.md",
-          "sha": "d89d73415461ccc0c59e77a5f05558ce99ae2636"
+          "sha": "f1b8f56bc75d1d9eb14f7d4413a8d9182ace4374"
         },
         {
           "number": 215,
           "title": "Chương 215: Tập 9 Chương 5 - Một Ủy Thác từ Hội (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_215.md",
-          "sha": "9e855b1dba568753094b38bedb3dbb1d4fb1df72"
+          "sha": "fa2ee4b35390819f62432a073259ed3275c6e11a"
         },
         {
           "number": 216,
           "title": "Chương 216: Tập 9 Chương 5 - Một Ủy Thác từ Hội (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_216.md",
-          "sha": "261124b4131ed1f392feff9863dd53e40e1530d3"
+          "sha": "d567a4b3918e98b02e0dcac368fed0be7253f065"
         }
       ]
     },

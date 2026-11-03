@@ -4,7 +4,7 @@
 
 Rina siết chặt tay thành nắm đấm. "Nhưng ở vương đô có biết bao nhiêu là nơi vui vẻ mà! Đi ngắm một chút thì có hại gì đâu chứ!" cô quả quyết tuyên bố.
 
-So với Maalt, Vistelya là một đại đô thị khổng lồ. Dù Maalt là một thành phố tương đối lớn, nhưng nó vẫn chỉ nằm ở vùng biên viễn của đất nước. Nơi đây sao có thể sánh được với Vistelya, vương đô của Vương Quốc Yaaran. Ngay cả thang máy, thứ mà Maalt chỉ có đếm trên đầu ngón tay, lại là cảnh tượng thường thấy ở vương đô. Tôi tin chắc Tòa Tháp và Học Viện đều có thang máy, và chúng cũng được lắp đặt tại vô số tòa nhà rải rác khắp thành phố.
+So với Maalt, Vistelya là một đại đô thị khổng lồ. Dù Maalt là một thành phố tương đối lớn, nhưng nó vẫn chỉ nằm ở vùng biên viễn của đất nước. Nơi đây sao có thể sánh được với Vistelya, vương đô của Vương Quốc Yaaran. Ngay cả thang máy, thứ mà Maalt chỉ đếm trên đầu ngón tay, lại là cảnh tượng thường thấy ở vương đô. Tôi tin chắc Tòa Tháp và Học Viện đều có thang máy, và chúng cũng được lắp đặt tại vô số tòa nhà rải rác khắp thành phố.
 
 Khoan đã, liệu trong trụ sở chính của Hội có thang máy không nhỉ? Tôi từng đến đó một lần trước đây, nhưng vì hồi ấy đang vội nên tôi mới chỉ nhìn thấy tầng một. Dù sao đó cũng là một tòa nhà thực sự to lớn, nên chắc hẳn cũng có một cái. Cơ mà tôi đâu có đến vương đô để đi ngắm nghía mấy cái thang máy. Chẳng qua là chúng cực kỳ hiếm gặp ở Maalt, nhưng lại quá đỗi phổ biến ở vương đô mà thôi.
 
@@ -18,7 +18,7 @@ Rina thực sự không hề có ý định từ bỏ chuyện này. Vì lớn l
 
 Khi tôi hỏi Rina điều đó, cô nghiêng đầu và ngơ ngác nhìn tôi. Biểu cảm của cô như muốn nói rằng câu hỏi của tôi đã khiến cô trở tay không kịp, và ý nghĩ đó chưa từng thoáng qua trong đầu cô.
 
-"Có thể cô bé cảm thấy như vậy sâu trong tiềm thức," Lorraine xen vào, "nhưng cô bé không thực sự nhận ra đâu. Rina đôi khi hơi ngây ngô lơ đãng, và cô ấy không phải kiểu người hay vướng bận suy nghĩ sâu xa về điều gì."
+"Có thể cô bé cảm thấy như vậy sâu trong tiềm thức," Lorraine xen vào, "nhưng cô bé không thực sự nhận ra đâu. Rina đôi khi hơi ngây ngô lơ đãng, và cô bé không phải kiểu người hay vướng bận suy nghĩ sâu xa về điều gì."
 
 Rina vốn dĩ đã như vậy kể từ ngày đầu chúng tôi gặp nhau. Một người bình thường khi chạm trán một Undead biết nói ắt sẽ thấy cái chết cận kề và hoặc là bỏ chạy, hoặc là dốc toàn lực tiêu diệt nó. Họ sẽ chẳng đời nào nghĩ rằng nói chuyện với nó lại an toàn.
 
@@ -62,7 +62,7 @@ Wolf đưa cho tôi một chiếc túi da đựng cả xấp giấy tờ bên tr
 
 Không phải là do tôi ngại phiền phức đâu. Chắc là vậy đấy.
 
-"Ừ, cứ làm thế đi. Đích thân tôi xử lý thì làm sao mà sai sót được. Ngoài ra, đây là cỗ xe ngựa hai người sẽ đi lần này. Trông được đấy chứ?"
+"Ừ, cứ làm thế đi. Đích thân tôi xử lý thì làm sao mà sai sót được. Ngoài ra, đây là cỗ xe hai người sẽ đi lần này. Trông được đấy chứ?"
 
 Wolf chỉ tay về phía một cỗ xe được nối với một loài bò sát khổng lồ có tên gọi là Thằn Lằn Bò Trườn. Nó trông tương tự như một con tắc kè hay một con sa giông, nhưng kích thước to lớn hơn nhiều. Tôi đoán con này trông giống sa giông hơn. Chúng không những chạy cực kỳ nhanh mà còn có khả năng lặn dưới nước trong thời gian dài. Khi nguy cấp, chúng thậm chí có thể kéo cả tàu thuyền, khiến chúng trở thành loài động vật kéo xe vô cùng đa năng và giá trị. Do vẻ ngoài của mình, chúng không mấy được lòng phái nữ, nhưng lại được sử dụng rộng rãi trong ngành vận tải. Việc thuê được một cỗ xe do loài này kéo ắt hẳn phải tốn một khoản tiền bạc và công sức không hề nhỏ.
 
@@ -108,19 +108,19 @@ Người đánh xe của chúng tôi, gã Hạ Cấp Ma Cà Rồng, quay ngườ
 
 "Hai hành khách, hử?"
 
-Một lát sau, đúng như lời gã Hạ Cấp Ma Cà Rồng nói, người lính gác kéo tấm rèm che cỗ xe lên rồi nhìn vào trong. Lorraine và tôi nở một nụ cười mơ hồ về phía anh ta. Nụ cười của tôi chẳng có chút tác dụng nào, nhưng nụ cười của Lorraine dường như lại có ảnh hưởng nhất định lên người lính gác. Anh ta thả lỏng đôi chút.
+Một lát sau, đúng như lời gã Hạ Cấp Ma Cà Rồng nói, người lính gác kéo tấm rèm che cỗ xe lên rồi nhìn vào trong. Lorraine và tôi mỉm cười gượng gạo về phía anh ta. Nụ cười của tôi chẳng có chút tác dụng nào, nhưng nụ cười của Lorraine dường như lại có ảnh hưởng nhất định lên người lính gác. Anh ta thả lỏng đôi chút.
 
 Không phải anh ta trúng tiếng sét ái tình với cô hay bị nhan sắc của cô làm cho choáng ngợp gì đâu. Hành khách ngồi trên xe ngựa thường kiệt sức sau một chuyến đi dài, và hầu hết chẳng buồn mỉm cười. Nhiều người trông vô hồn, thậm chí cau có ủ rũ. Cũng có kẻ mỉm cười với lính gác, nhưng đa phần đều là thương nhân hay những người tương tự, những kẻ muốn tránh sự nghi ngờ của lính gác.
 
 Rất hiếm khi một phụ nữ trẻ tuổi không phải dân buôn bán như Lorraine lại mỉm cười với họ. Phụ nữ trẻ thường sợ lính gác—theo nhiều cách khác nhau. Dẫu cư dân sống ở vương đô có thể nhìn họ với chút tôn trọng, nhưng một cô gái trẻ từ ngoài thành tới thăm sẵn lòng mỉm cười với một người lính gác quả là của hiếm.
 
-"Còn ngươi, người đeo mặt nạ kia?"
+"Còn anh, người đeo mặt nạ kia?"
 
 Anh ta vẫn không hề lơ là cảnh giác với tôi. Tôi biết trông mình rất khả nghi, thế nên tôi cần phải giải thích tình cảnh của mình.
 
 Tôi chìa thẻ mạo hiểm giả cho người lính gác và đáp: "Mặt tôi bị một vết thương nghiêm trọng. Tôi hiện đang tiết kiệm tiền để chữa trị nó."
 
-Nét mặt người lính gác dịu lại, nhưng anh ta vẫn nói: "Dù vậy ngươi có phiền cho ta xem mặt một chút không? Chỉ một thoáng thôi." Giọng anh ta thoáng chút áy náy.
+Nét mặt người lính gác dịu lại, nhưng anh ta vẫn nói: "Dù vậy anh có phiền cho tôi xem mặt một chút không? Chỉ một thoáng thôi." Giọng anh ta thoáng chút áy náy.
 
 "Tôi không tháo nó ra được. Tôi nghĩ nó bị nguyền rủa rồi."
 
@@ -128,11 +128,11 @@ Nét mặt người lính gác dịu lại, nhưng anh ta vẫn nói: "Dù vậy
 
 Người lính gác nhìn tôi đầy hoài nghi, vậy nên tôi ghé sát về phía anh ta và bảo anh ta cứ việc dùng hết sức kéo thử. Dù vẻ mặt đầy bối rối, anh ta vẫn đồng ý làm theo. Anh ta kéo hết sức bình sinh, rồi chấp nhận lời giải thích của tôi và thừa nhận rằng quả thực chẳng còn cách nào khác.
 
-"Chà, ta vẫn muốn nhìn thấy mặt ngươi hơn, nhưng có vẻ thẻ mạo hiểm giả của ngươi là thật. Thôi thì coi như được đi. Giờ thì, điều gì đưa các ngươi tới vương đô?"
+"Chà, tôi vẫn muốn nhìn thấy mặt anh hơn, nhưng có vẻ thẻ mạo hiểm giả của anh là thật. Thôi thì coi như được đi. Giờ thì, điều gì đưa các vị tới vương đô?"
 
 "Chúng tôi đến đây để báo cáo với Tổng Hội Trưởng thay mặt cho Hội Mạo Hiểm Giả Maalt. Lát nữa tôi sẽ đến trụ sở chính của Hội, nên các anh có thể đối chiếu lại với bên đó."
 
-Trụ sở chính của Hội hẳn là rất có uy tín ở nơi này, bởi người lính gác nói: "Ta hiểu rồi. Được thôi, lát nữa ta sẽ đối chiếu với họ. Nhưng nói trước cho rõ đấy nhé. Nếu hóa ra ngươi dám nói dối ta, kết cục của ngươi sẽ thảm khốc lắm đấy. Ngươi hiểu chưa?"
+Trụ sở chính của Hội hẳn là rất có uy tín ở nơi này, bởi người lính gác nói: "Tôi hiểu rồi. Được thôi, lát nữa tôi sẽ đối chiếu với họ. Nhưng nói trước cho rõ đấy nhé. Nếu hóa ra anh dám nói dối tôi, kết cục của anh sẽ thảm khốc lắm đấy. Anh hiểu chưa?"
 
 Giọng điệu anh ta thoáng vẻ đe dọa, và có lẽ tôi nên tỏ ra co rúm sợ sệt một chút mới phải, nhưng vì bản thân chẳng hề nói dối dù chỉ nửa lời, tôi gật đầu không chút do dự.
 

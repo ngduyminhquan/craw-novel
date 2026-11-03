@@ -80,3 +80,6 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#195) Cụm từ "magic trick": dịch là "màn ảo thuật" hoặc "trò ảo thuật" (tránh lặp từ dịch máy thành "ảo thuật ma thuật").
 - (#204) Luôn viết hoa danh từ chủng tộc/quái vật Ma Cà Rồng và danh hiệu Thợ Săn Ma Cà Rồng trong mọi văn cảnh theo đúng glossary.md.
 - (#209) Rina Rupaage khi nói chuyện với tiền bối mạo hiểm giả hoặc đồng đội lớn tuổi hơn (Rentt, Lorraine, Nive...) luôn tự xưng "tôi", gọi "anh Rentt", "chị Lorraine", "chị Nive", không tự xưng "em" — nhất quán với pronouns.md.
+- (#216) Cụm từ "smiled vaguely": dịch là "mỉm cười gượng gạo / cười gượng xã giao", tránh dịch máy thô từng chữ thành "nở nụ cười mơ hồ".
+- (#216) Từ "carriage": trong thế giới truyện có nhiều cỗ xe do quái vật hoặc thú bò sát (như Thằn Lằn Bò Trườn) kéo, dịch là "cỗ xe / xe kéo" thay vì tự động dịch thành "cỗ xe ngựa" khi văn cảnh không phải do ngựa kéo.
+- (#216) Lính gác cổng thành (kể cả vương đô hay các thị trấn): luôn xưng hô chuẩn mực "tôi - anh/chị/cậu/các vị" theo văn phong fantasy đời thường, tuyệt đối không dùng "ta - ngươi" kiểu kiếm hiệp/tiên hiệp.
