@@ -986,3 +986,9 @@ Rentt lần lượt vận dụng Thần Lực và Ma Khí Dung Hợp Thuật đ�
 Rentt tận dụng lực đẩy cực đại từ đôi cánh kết hợp dao găm dung hợp cả ba nguồn năng lượng (Ma Lực, Khí Lực, Thần Lực) lao thẳng vào Capitan; đòn va chạm khiến dao săn của Capitan và dao găm của Rentt cùng phát nổ tan tành.
 Cả hai kết thúc trận đấu bằng cú đấm đôi đồng thời khiến đôi bên cùng kiệt sức ngã quỵ và chấp nhận kết quả hòa; Capitan hết lời khen ngợi và công nhận Rentt đã thực sự mạnh lên vượt bậc, xóa tan nỗi mặc cảm mười năm của anh.
 Khi trận đấu khép lại, Capitan bắt đầu gặng hỏi Rentt về nguồn gốc đôi cánh cùng những cử động phi nhân loại của anh; Rentt nhận ra Capitan đã lờ mờ đoán được bí mật thể chất ma vật của mình.
+
+## 167
+Gharb nhận ra bản chất Ma Lực của Rentt đã thay đổi dị thường qua nhiều thập kỷ tôi luyện cảm nhận ma lực; trước sự gặng hỏi của Gharb và Capitan, Rentt quyết định thú nhận toàn bộ sự thật về thân thể ma vật, đôi mắt đỏ, đôi cánh và việc bản thân là một Hạ Cấp Ma Cà Rồng nhưng vẫn dùng được Thần Lực.
+Lorraine giải thích Rentt có nhiều điểm khác biệt với chủng loài thông thường; Gharb nhận định Ma Lực của Rentt không hề u tối, nhớp nháp như Ma Cà Rồng thường thấy và hồi tưởng về thời xưa khi Ma Cà Rồng còn tự do đồng hành cùng các thương đoàn cho đến khi Giáo Hội Lobelia dưới trướng Đại Giáo Phụ tiến hành săn quét gắt gao 40 năm trước.
+Gharb và Rentt bàn luận về lòng đố kỵ của con người trước sự trường sinh bất lão của Ma Cà Rồng hay Lich, cùng mối hiểm họa khi theo đuổi tri thức tối thượng như Bản Ghi Akashic.
+Rentt kể lại ngọn ngành việc bản thân bị Rồng ăn thịt trong mê cung rồi tiến hóa từ Khô Lâu thành Ma Cà Rồng; Gharb và Capitan dễ dàng chấp nhận nhưng không khỏi kinh ngạc trước sự tồn tại có thật của Rồng trong truyền thuyết, rồi Gharb hỏi Rentt về dự định tương lai.

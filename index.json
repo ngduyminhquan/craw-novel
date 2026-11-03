@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T03:48:07Z",
+  "generatedAt": "2026-11-03T03:53:42Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3149,6 +3149,12 @@
           "title": "Chương 166: Tập 7 Chương 3 - Vô Số Bí Mật (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_166.md",
           "sha": "99dff5cc98299116b2d252e20ef02086e69abace"
+        },
+        {
+          "number": 167,
+          "title": "Chương 167: Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_167.md",
+          "sha": "ab5f5aeab68667c66f0269b71b9137661e86a1c4"
         }
       ]
     },

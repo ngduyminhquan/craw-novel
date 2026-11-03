@@ -171,7 +171,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | reviewed |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | reviewed |  |
 | 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | done |  |
-| 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | todo |  |
+| 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | done |  |
 | 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | todo |  |
 | 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | todo |  |
 | 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -742,3 +741,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#164] Dịch kỹ năng chiến đấu 'jujutsu' của Capitan (đoạn 63) — tạm chọn 'Nhu thuật' theo Hán Việt (柔術) và thêm vào glossary.md (phương án khác: 'thuật nhu đạo', 'thuật cận chiến'). → Chốt "Nhu thuật" (柔術). (orchestrator)
 - [#166] Dịch chủng tộc 'Winged folk' (đoạn 65) — tạm chọn 'Tộc Có Cánh' theo tiền lệ Wyvern-folk → Tộc Phi Long (phương án khác: 'Dực Nhân tộc', 'Tộc Dực Nhân', 'người có cánh'). Tạm dùng trong bản dịch: 'Tộc Có Cánh'. → Chốt "Tộc Có Cánh" nhất quán với tiền lệ Wyvern-folk → Tộc Phi Long. (orchestrator)
 - [#166] Dịch đòn đánh 'cross-counter' (đoạn 39) — tạm giữ 'cú cross-counter' theo thuật ngữ võ thuật quen thuộc (phương án khác: 'đòn đánh chéo', 'đòn phản công đối diện'). Tạm dùng trong bản dịch: 'cú cross-counter'. → Tạm giữ "cú cross-counter" theo thuật ngữ võ thuật quen thuộc; sẽ rà soát lại ở vòng review 166-168. (orchestrator)
+- [#167] Dịch tiêu đề arc/chương 'Vol 7 Chapter 4 - Vampires of Days Past (1)': tạm chọn 'Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (1)' (phương án khác: 'Tập 7 Chương 4 - Ma Cà Rồng Thuở Xưa (1)', 'Tập 7 Chương 4 - Những Ma Cà Rồng Thuở Trước (1)'). Tạm dùng trong bản dịch: 'Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (1)'. → Chốt "Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (1)". (orchestrator)
+- [#167] Dịch tên quái vật 'lich' (đoạn 32, 35, 44): tạm giữ nguyên 'Lich' theo tiền lệ quái vật fantasy phương Tây (Wight, Zombie, Slime) và thêm vào glossary.md (phương án khác: dịch nghĩa Hán Việt 'Vu Yêu'). Tạm dùng trong bản dịch: 'Lich'. → Chốt "Lich" nhất quán với các chủng undead phương Tây khác trong glossary (Ghoul, Wight, Zombie). (orchestrator)

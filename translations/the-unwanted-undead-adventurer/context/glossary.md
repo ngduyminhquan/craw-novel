@@ -204,7 +204,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | magical pouch | magical pouches; magic pouch; magic pouches; magic bag; magic bags; Magic bag; Magic bags | túi ma thuật | vật phẩm | 10 | Loại ma cụ có không gian bên trong mở rộng gấp nhiều lần để chứa đồ (魔導ポーチ) |
 | Noxious Swamp-Bird | the Noxious Swamp-Bird | Chim Đầm Lầy Độc | quái vật | 108 | Loài chim độc sinh sống tại Đầm Lầy Tarasque |
 | Poison Gem | Tarasque’s Poison Gem; the Tarasque’s Poison Gem | Độc Ngọc Tarasque | vật phẩm | 108 | Tinh thể kết tinh chất độc của Tarasque |
-| Great Church-Father |  | Đại Giáo Phụ | chức nghiệp | 112 | Người đứng đầu tối cao của Giáo Hội Lobelia (大教父) |
+| Great Church-Father | Great Church Father | Đại Giáo Phụ | chức nghiệp | 112 | Người đứng đầu tối cao của Giáo Hội Lobelia (大教父) |
 | Order of Inquisitor-Eradicators |  | Giáo Đoàn Thẩm Phán Tiệt Trừ | tổ chức | 113 | Lực lượng chuyên săn sát và thanh trừng quái vật ẩn nấp trong xã hội loài người của Giáo Hội Lobelia |
 | Loup Garou | Loup Garous | Người Sói | chủng tộc | 113 | Loài quái vật đội lốt người sói trà trộn trong xã hội nhân loại |
 | Hathara | Hathara village; village of Hathara | Hathara | địa danh | 114 | Ngôi làng nông thôn hẻo lánh nơi quê hương của Rentt Faina (ハタラ村) |
@@ -328,3 +328,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Vampire Eye | Vampire Eyes; vampire eyes | Mắt Ma Cà Rồng | kỹ năng | 165 | Cách Rentt gọi thị lực cường hóa nhận diện sinh mệnh nhờ thể chất ma cà rồng |
 | beastfolk |  | thú nhân | chủng tộc | 53 | Chủng tộc mang đặc điểm thú có tri thức chứ không phải quái vật (獣人) |
 | Winged folk | winged folk | Tộc Có Cánh | chủng tộc | 166 | Chủng tộc thú nhân mang đôi cánh sau lưng (翼人種) |
+| Lich | lich; liches; Liches | Lich | quái vật | 167 | Undead dạng pháp sư xương khô sở hữu sự bất tử thông qua nghi thức ma pháp (リッチ) |
