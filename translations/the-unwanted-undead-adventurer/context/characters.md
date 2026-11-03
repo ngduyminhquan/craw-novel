@@ -228,6 +228,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
 - Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
 - Trạng thái tính đến chương 38: Chính thức thăng hạng Đồng Cấp; tinh tế nhận ra chí hướng và mục tiêu riêng biệt của Rentt (anh Vivie) khi chia tay tổ đội, cảm ơn anh đã bảo bọc, tạo cơ hội cho cả hai trưởng thành và khẳng định anh mãi là đồng đội của nhóm.
+- Lưu ý: Raw từ tập 8 đổi sang viết thành Lola, bản dịch tiếng Việt luôn dùng tên đã chốt là Laura / Laura Satii.
 
 ### Augurey
 - Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả thực lực nhưng có phong cách lập dị, chuyên mặc trang phục sặc sỡ bảy sắc cầu vồng và đội một chiếc mũ lớn gắn lông vũ.

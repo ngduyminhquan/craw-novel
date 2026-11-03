@@ -191,9 +191,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | reviewed |  |
 | 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | reviewed |  |
 | 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | reviewed |  |
-| 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | done |  |
-| 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | done |  |
-| 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | done |  |
+| 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | reviewed |  |
+| 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | reviewed |  |
+| 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | reviewed |  |
 | 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | todo |  |
 | 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | todo |  |
 | 192 |  | Chapter_192 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2) | todo |  |
@@ -781,3 +781,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#188] Dịch dị năng/vũ khí máu của Ma Cà Rồng 'San Arms' — tạm chọn 'Huyết Binh' (San = sang/sanguis chỉ máu, arms = binh khí) (phương án khác: 'Huyết Khí', 'San Arms'). Tạm dùng trong bản dịch: 'Huyết Binh'. → Giữ 'Huyết Binh' (Hán Việt ngắn gọn theo rules.md, đúng bản chất vũ khí đỏ tạo từ máu của Ma Cà Rồng). (orchestrator)
 - [#188] Dịch khái niệm tôn giáo 'Heaven' (đoạn 36, 38) — tạm chọn 'Thiên Đường' đối lập với 'Địa Ngục' (Hell ở #123) (phương án khác: 'Thiên Giới'). Tạm dùng trong bản dịch: 'Thiên Đường'. → Giữ 'Thiên Đường' (đối xứng với 'Hell → Địa Ngục' đã chốt ở #123). (orchestrator)
 - [#189] Xưng hô Lorraine Vivie <-> Wolf Hermann: tạm dùng Lorraine xưng "tôi", gọi "ông / Hội Trưởng Wolf"; Wolf xưng "tôi", gọi "cô / Lorraine" (phù hợp quan hệ học giả/mạo hiểm giả trao đổi công việc với Hội Trưởng; phương án khác: Lorraine xưng "cháu" gọi "bác"). Tạm dùng: Lorraine xưng "tôi", gọi "ông / Hội Trưởng Wolf". → Giữ Lorraine xưng 'tôi' gọi 'ông / Hội Trưởng Wolf' và Wolf xưng 'tôi' gọi 'cô / Lorraine' (nhất quán với cách Rentt và Nive giao tiếp công việc với Hội Trưởng Wolf). (orchestrator)
+- [#187-188] Thống nhất chuẩn hóa tên gọi Laura Satii: Trong raw từ tập 8 đổi cách viết từ Laura sang Lola → Giữ thống nhất tên tiếng Việt là Laura / Laura Satii theo rules.md và characters.md, sửa toàn bộ chữ Lola ở chương 187 và 188 thành Laura. (orchestrator)

@@ -73,3 +73,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#179) Từ "brutal" khi miêu tả sự khắt khe / dữ dội / ghê gớm của nghệ thuật biểu diễn hoặc diễn xuất: dịch là "ghê gớm", "khắc nghiệt", tránh dịch là "tàn nhẫn" (mang nghĩa độc ác, vô nhân đạo).
 - (#180) Cụm từ "projection magic item": dịch là "ma cụ trình chiếu hình ảnh" hoặc "ma cụ tạo ảnh chiếu", tránh ghép thừa chữ thành "tạo hình ảnh chiếu".
 - (#183) Thành ngữ "That was a close one": dịch là "Suýt nữa thì nguy" hoặc "Nguy hiểm trong gang tấc" (tránh dùng "suýt soát" vì "suýt soát" chỉ dùng để chỉ số lượng/mức độ xấp xỉ).
+- (#188) Thành ngữ "feel like a sack of bricks": dịch là "nặng trịch như đeo chì / nặng như đeo đá", tránh dịch thô từng chữ thành "nặng như một bao gạch".
+- (#189) Từ "convenient" khi nói về người đa năng, giải quyết được nhiều việc: dịch là "có [ai] đúng là tiện thật / hữu dụng / đa năng", tránh dịch máy thành "tiện dụng" (vốn chỉ dùng cho đồ vật).

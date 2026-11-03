@@ -12,25 +12,25 @@ Hai con Ma Cà Rồng trẻ tuổi trừng tròn mắt hét lên, nhưng Nive ch
 
 Việc cô không buồn lắng nghe là cách tiếp cận hoàn toàn chính xác đối với quái vật dạng người. Không hẳn đúng trong mọi trường hợp, nhưng việc chúng có thể nói tiếng người khiến đa số bọn chúng đều cực kỳ lão luyện trong việc thao túng cảm xúc. Lắng nghe những lời biện bạch hay hoàn cảnh của chúng khó tránh khỏi việc nảy sinh lòng trắc ẩn, và đã có vô số con người phải bỏ mạng chỉ vì lơ là cảnh giác sau khi nghe những lời van nài như thế. Dĩ nhiên, không phải lúc nào quái vật cũng nói dối hay lừa gạt, nhưng chúng tôi đã biết về rất nhiều nạn nhân, và những người đang trong quá trình biến thành Thi Quỷ ở đây chính là bằng chứng xác thực. Chẳng có lý do gì để nương tay hay tra hỏi. Về phần mình, cá nhân tôi cũng muốn nghe thêm về chuyện hai đứa bọn chúng vừa bàn luận lúc nãy, nhưng tôi không dám chắc liệu Nive có chịu nghĩ lại chuyện giết chết lũ Ma Cà Rồng đang ở ngay trước mắt hay không. Dù sao thì chúng tôi cũng có nhiệm vụ phải làm.
 
-Trước hết, chúng tôi phải giải cứu các mạo hiểm giả tân thủ. Tính cả Raiz và Lola thì tổng cộng chỉ có sáu người. Nive trông rất tự tin rằng cô có thể tự mình xử lý hai con Ma Cà Rồng này, nên có lẽ cô chẳng cần trợ giúp. Chưa kể, cô là mạo hiểm giả Kim Cấp, thậm chí còn tiệm cận Bạch Kim Cấp hơn bất kỳ ai khác. Việc Lorraine và tôi có thể giúp ích được bao nhiêu vẫn còn là một dấu hỏi lớn.
+Trước hết, chúng tôi phải giải cứu các mạo hiểm giả tân thủ. Tính cả Raiz và Laura thì tổng cộng chỉ có sáu người. Nive trông rất tự tin rằng cô có thể tự mình xử lý hai con Ma Cà Rồng này, nên có lẽ cô chẳng cần trợ giúp. Chưa kể, cô là mạo hiểm giả Kim Cấp, thậm chí còn tiệm cận Bạch Kim Cấp hơn bất kỳ ai khác. Việc Lorraine và tôi có thể giúp ích được bao nhiêu vẫn còn là một dấu hỏi lớn.
 
 Thế nên chúng tôi có thể cứ để mặc cô tự mình xử lý công việc này, nhưng làm vậy cũng tiềm ẩn vài rắc rối. Nive đã cung cấp cho chúng tôi rất nhiều thông tin, và cô cũng là một mạo hiểm giả tài năng, nhưng ở một vài phương diện nào đó thì cô lại có vẻ khá bí ẩn. Cô luôn tạo cho tôi cảm giác ấy ngay từ lần đầu tiên tôi gặp cô. Rất dễ cảm thấy cô có thể sẽ làm ra điều gì đó tàn độc, vậy nên Wolf cũng chẳng đời nào phái một mình cô đi.
 
 Hoặc có lẽ tôi chỉ đang nhìn nhận cô qua lăng kính định kiến của riêng mình. Nói một cách khách quan thì cô đang một mình chiến đấu đánh đuổi quái vật thay cho chúng tôi, và chúng tôi cũng kiếm được rất nhiều tiền từ cô. Nghĩ lại thì cô đã làm rất nhiều điều cho chúng tôi. Tôi gần như cảm thấy chí ít mình cũng nên mời cô một bữa tối hay thứ gì đó tương tự. Mặc dù tôi cũng linh cảm rằng làm thế sẽ chỉ chuốc thêm rắc rối cho bản thân mà thôi.
 
-"Này, Raiz, Lola! Hai người còn sống không đấy?!" tôi vừa hỏi vừa lay vai Raiz. Đôi mắt họ trống rỗng, và rất khó để biết liệu họ có còn tỉnh táo hay không.
+"Này, Raiz, Laura! Hai người còn sống không đấy?!" tôi vừa hỏi vừa lay vai Raiz. Đôi mắt họ trống rỗng, và rất khó để biết liệu họ có còn tỉnh táo hay không.
 
 "Ư... đây là đâu? Anh là ai?" Raiz đáp lại. Ánh sáng của sự sống đã dần quay trở lại trong mắt cậu thiếu niên.
 
 "May quá. Tôi đây, Rentt này. Chúng ta từng cùng tham gia kỳ thi đấy. Cậu nhớ chứ?"
 
-"Rentt? Anh Rentt?! Sao anh lại ở đây? Khoan đã, chuyện đó tính sau, Lola đâu rồi?"
+"Rentt? Anh Rentt?! Sao anh lại ở đây? Khoan đã, chuyện đó tính sau, Laura đâu rồi?"
 
 "Ở ngay đây. Trông có vẻ cô ấy đang bất tỉnh, nhưng không sao đâu. Cô ấy vẫn còn sống," tôi vừa nói vừa rót chút Thần Lực để chữa trị cho cô.
 
 "Ơ, hả? Mình đang ở đâu thế này?" cô khẽ hỏi khi đôi mắt mở ra.
 
-"Lola?!" Raiz thốt lên và toan đứng dậy. "Ái ui!" Cậu ngã nhào xuống.
+"Laura?!" Raiz thốt lên và toan đứng dậy. "Ái ui!" Cậu ngã nhào xuống.
 
 Nhìn qua thì chân cậu đã bị thương, có lẽ là từ lúc họ bị tấn công ban đầu. Thêm vào đó, cậu còn bị làm suy yếu bằng thủ đoạn nào đó và bị tước đi khả năng vận động đến mức chẳng thể nhúc nhích nổi. Tôi không nhìn rõ cấu trúc của phép thuật đã được sử dụng, nhưng đó có thể là một phép trói buộc. Chúng đã cố làm cho thật kỹ lưỡng, nhưng vết thương ở chân cậu không nghiêm trọng. Tôi có thể dễ dàng chữa lành nó. Dù muốn tiết kiệm Thần Lực càng nhiều càng tốt, nhưng cứu giúp các mạo hiểm giả là ưu tiên hàng đầu.
 
@@ -40,13 +40,13 @@ Nhìn qua thì chân cậu đã bị thương, có lẽ là từ lúc họ bị 
 
 "Tất nhiên rồi," Raiz nói.
 
-"Anh vẫn nhớ sao?" Lola hỏi.
+"Anh vẫn nhớ sao?" Laura hỏi.
 
 Trông họ có vẻ rất vui, nhưng đương nhiên là tôi phải nhớ rồi. Tôi không dám nói suốt mười năm qua mình chưa từng được mời vào một tổ đội nào, nhưng chuyện đó quả thực hiếm khi xảy ra. Và trong số những lời mời tôi nhận được, chẳng phải vì họ quá yêu quý tôi mà chủ yếu là họ muốn một kẻ việc gì cũng biết làm một chút. Số người thực lòng muốn tôi trở thành cộng sự chỉ đếm trên đầu ngón tay. Tôi chỉ có thể nhớ tới Lorraine, Augurey, và họa hoằn lắm là một vài người khác nữa.
 
 "Thôi, tạm gác chuyện đó lại đã," tôi nói. "Chuẩn bị rời khỏi đây đi. Hai người có đứng dậy được không?" Cả hai đều đang dần lấy lại sự tỉnh táo.
 
-"Được, tôi đứng dậy được rồi," Raiz nói. "Mới một giây trước người tôi còn nặng như một bao gạch, thế mà giờ lại thấy ổn rồi. Rốt cuộc là thế nào vậy?"
+"Được, tôi đứng dậy được rồi," Raiz nói. "Mới một giây trước người tôi còn nặng trịch như đeo chì, thế mà giờ lại thấy ổn rồi. Rốt cuộc là thế nào vậy?"
 
 Tôi chẳng làm gì ngoài việc dùng Thần Lực chữa trị cho cậu, nhưng có lẽ rốt cuộc trên người cậu quả thực đã trúng một loại phép thuật nào đó. Những phép trói buộc có thể tạo cảm giác như bị tê liệt vĩnh viễn, nhưng nhiều phép trong số đó sẽ tan biến ngay khi tiếp xúc với Thần Lực. Hẳn đó là lý do họ cảm thấy cơ thể nhẹ nhõm hơn.
 

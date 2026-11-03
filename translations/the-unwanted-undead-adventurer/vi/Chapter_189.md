@@ -80,7 +80,7 @@ Chúng tôi chạy ra khỏi căn phòng lớn và men theo hành lang.
 
 "Ồ, các ngươi không đi đâu được đâu," con Ma Cà Rồng dạng Ogre gầm lên. Hắn đã áp sát ngay cạnh chúng tôi trong nháy mắt.
 
-"Chúng nó đi được đấy chứ!" Nive hét lên. Cô xuất hiện ngay sau con Ma Cà Rồng dạng Ogre, dùng móng vuốt đánh bật hắn trở lại căn phòng trước khi hắn kịp chạm vào chúng tôi.
+"Hai người họ đi được đấy chứ!" Nive hét lên. Cô xuất hiện ngay sau con Ma Cà Rồng dạng Ogre, dùng móng vuốt đánh bật hắn trở lại căn phòng trước khi hắn kịp chạm vào chúng tôi.
 
 "Đi mau!"
 
@@ -124,7 +124,7 @@ Cảnh tượng hỗn loạn như địa ngục trần gian. Quảng trường t
 
 Ông vẫn đứng vững, nhưng khắp người chằng chịt vết thương. Máu chảy ròng ròng từ da thịt ông. Tôi không thể phung phí quá nhiều Thần Lực, nhưng ít nhất tôi cũng cầm máu cho ông bằng thần thuật của mình.
 
-"Cậu quả là tiện dụng thật đấy," Wolf tròn mắt nói. Ông gần như đã hồi phục phần nào.
+"Có cậu đúng là tiện thật đấy," Wolf tròn mắt nói. Ông gần như đã hồi phục phần nào.
 
 Đây có lẽ là lần đầu tiên ông thấy tôi sử dụng Thần Lực. Dù vậy, ông chỉ hơi kinh ngạc đôi chút, có lẽ vì bất cứ điều gì tôi làm giờ đây cũng chẳng thể khiến ông ngạc nhiên được nữa. Dù sao thì chuyện này cũng bình thường hơn nhiều so với việc một kẻ biến thành quái vật.
 

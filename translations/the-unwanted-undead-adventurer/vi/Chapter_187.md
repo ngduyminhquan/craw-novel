@@ -34,7 +34,7 @@ Lorraine nhướn mày trước thái độ ủ rũ của Myullias. Chắc hẳn
 
 "Nếu cô đã nói vậy thì được thôi," Lorraine nói. "Nhưng lần tới khi tôi quay lại Đế Quốc, tốt nhất là tôi không bị truy bức vì tội xúc phạm Myullias Raiza đấy nhé."
 
-"Tôi biết mấy vị dị giáo thẩm vấn quan có thể ghê gớm thế nào mà," Myullias mỉm cười đáp lại. "Dĩ nhiên chuyện đó sẽ không xảy ra đâu. Dù sao thì tôi cũng đã quyết định xem quãng thời gian ở đây như một kỳ nghỉ dưỡng rồi, nên tôi muốn được tận hưởng cho thoải mái."
+"Tôi biết mấy vị thẩm vấn quan dị giáo có thể ghê gớm thế nào mà," Myullias mỉm cười đáp lại. "Dĩ nhiên chuyện đó sẽ không xảy ra đâu. Dù sao thì tôi cũng đã quyết định xem quãng thời gian ở đây như một kỳ nghỉ dưỡng rồi, nên tôi muốn được tận hưởng cho thoải mái."
 
 Đó chẳng giống những lời một Thánh Nữ sẽ thốt ra chút nào, nhưng Lorraine có vẻ đã tin. Cô đưa tay ra ngỏ ý bắt tay với Myullias.
 
@@ -100,7 +100,7 @@ Chắc chắn không phải do cô tưởng tượng đâu. Có lẽ Nive đã �
 
 Đó là một căn phòng rộng lớn, nơi có chừng mười người đang đứng bất động như những bức tượng gỗ. Chếch sang một bên, còn có vài người trông tiều tụy ốm yếu đang bị trói ngồi dưới sàn đất. Hai người trong số họ chính là những mạo hiểm giả từng đồng hành cùng tôi trong kỳ thi thăng hạng Đồng Cấp.
 
-"Raiz, Lola, tại sao lại thế này?"
+"Raiz, Laura, tại sao lại thế này?"
 
 ◆◇◆◇◆
 

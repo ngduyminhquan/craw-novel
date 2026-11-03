@@ -334,3 +334,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jiziu | Wugong | em | anh Wugong / anh | 188 | Hai thiếu niên Ma Cà Rồng quan hệ anh em nương tựa nhau |
 | Lorraine Vivie | Wolf Hermann | tôi | Hội Trưởng Wolf / ông | 189 | Học giả trao đổi nhanh tình hình chiến sự khẩn cấp với Hội Trưởng |
 | Wolf Hermann | Lorraine Vivie | tôi | cô / Lorraine | 189 | Hội Trưởng trao đổi tình hình với học giả kiêm mạo hiểm giả |
+| Myullias Raiza | Rentt Faina | tôi | anh / Rentt | 188 | Thánh Nữ nói chuyện thân thiện, bình đẳng khi phối hợp thanh tẩy |
+| Rentt Faina | Myullias Raiza | tôi | cô | 188 | Mạo hiểm giả nói chuyện tự nhiên, bình đẳng với Thánh Nữ |
