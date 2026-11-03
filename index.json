@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:03:18Z",
+  "generatedAt": "2026-11-03T13:11:13Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3454,19 +3454,19 @@
           "number": 217,
           "title": "Chương 217: Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_217.md",
-          "sha": "70ec049663c69de135634fa52aa1c09be966a1fd"
+          "sha": "c9bf21e87c6d272125e875662d6bced7b06db2ae"
         },
         {
           "number": 218,
           "title": "Chương 218: Ngoại truyện Tập 9 - Isaac Được Ngưỡng Mộ",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_218.md",
-          "sha": "421339572192b13005ea6c0cdc906f2a3498226d"
+          "sha": "16b0d1d46994b1cd37032a26d39c40570e4c6dac"
         },
         {
           "number": 219,
           "title": "Chương 219: Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_219.md",
-          "sha": "0b894bd59e1ec2932d38c47db295f3b6d5415b88"
+          "sha": "0111635a1b868fce2d53d403ff0cf9d6355531d6"
         }
       ]
     },

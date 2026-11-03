@@ -83,3 +83,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#216) Cụm từ "smiled vaguely": dịch là "mỉm cười gượng gạo / cười gượng xã giao", tránh dịch máy thô từng chữ thành "nở nụ cười mơ hồ".
 - (#216) Từ "carriage": trong thế giới truyện có nhiều cỗ xe do quái vật hoặc thú bò sát (như Thằn Lằn Bò Trườn) kéo, dịch là "cỗ xe / xe kéo" thay vì tự động dịch thành "cỗ xe ngựa" khi văn cảnh không phải do ngựa kéo.
 - (#216) Lính gác cổng thành (kể cả vương đô hay các thị trấn): luôn xưng hô chuẩn mực "tôi - anh/chị/cậu/các vị" theo văn phong fantasy đời thường, tuyệt đối không dùng "ta - ngươi" kiểu kiếm hiệp/tiên hiệp.
+- (#219) Cụm từ "last will and testament": dịch là "bản di chúc" hoặc "di chúc thừa kế", tránh dịch thô tách rời hai từ đồng nghĩa pháp lý thành "bản di chúc và thư để lại".

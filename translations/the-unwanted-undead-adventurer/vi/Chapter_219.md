@@ -16,7 +16,7 @@ Dõi theo ánh mắt của Wolf, tôi thấy một chiếc bàn cũ kỹ đã s�
 
 Wolf nói thêm: "Nghe đâu chiếc bàn này được làm từ năm mươi năm trước."
 
-"Gì cơ ạ?"
+"Sao cơ?"
 
 "Như tôi đã nói đấy, nó có tuổi đời năm mươi năm rồi. Người thợ mộc làm ra nó khi ấy đang ở độ tuổi đôi mươi."
 
@@ -70,7 +70,7 @@ Sau đó chúng tôi theo chân người phụ nữ bước vào trong nhà.
 
 ◆◇◆◇◆
 
-"Ta không phải người thợ đó," ông lão nói với vẻ mặt ủ rũ, hạ giọng phủ nhận lời đề nghị.
+"Ta không phải người thợ đó," ông lão nói với vẻ mặt ủ rũ, hạ giọng phủ nhận điều đó.
 
 Nữ quý tộc quay sang nhìn chúng tôi như muốn nói: "Thấy chưa, tôi đã bảo chuyện sẽ thành ra thế này mà."
 
@@ -106,7 +106,7 @@ Khi ông lão kể xong câu chuyện của mình, nữ quý tộc liền hỏi:
 
 Ông lão dịch chuyển các phần nhô ra khác nhau ở mặt dưới chiếc bàn, và mặt bàn liền mở toang ra như vỏ sò, để lộ hai phong bì thư bên trong. Một chiếc đề tên người nhận là ông lão, trong khi chiếc còn lại...
 
-"Bản di chúc và thư để lại. Hóa ra tiểu thư đến đây là vì thứ đó sao?" ông lão đoán.
+"Bản di chúc. Hóa ra tiểu thư đến đây là vì thứ đó sao?" ông lão đoán.
 
 "Vâng, đúng vậy. Việc của tôi ở đây coi như đã xong. Tôi xin giao lại chiếc bàn này cho ông chăm sóc."
 
