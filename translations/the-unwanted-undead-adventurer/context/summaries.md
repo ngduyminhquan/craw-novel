@@ -920,3 +920,9 @@ Rentt và Lorraine làm thủ tục tiến vào cổng thành vương đô Viste
 Cả hai rẽ vào hẻm vắng để cải trang: Lorraine dùng ma pháp nhuộm áo choàng của Rentt sang màu tím hoa văn thời thượng của hoàng đô Đế Quốc, đồng thời tự làm mới phong cách (uốn tóc, trang điểm đậm, đeo kính) vô cùng quý phái và quyến rũ khiến Rentt trầm trồ ngỡ ngàng.
 Sau khi thu hút sự chú ý của mọi người trên phố, cả hai tiến vào trụ sở Hội Mạo Hiểm Giả nguy nga tráng lệ tại vương đô và dạo xem quầy bar, khu mổ xẻ cũng như quầy thẩm định.
 Tại bảng thông báo, cả hai chú ý tới ủy thác hái thảo dược bị bỏ quên suốt ba ngày (điều sẽ không xảy ra ở Maalt nhờ các buổi hướng dẫn của Rentt); đúng lúc đó, Augurey Ars – mạo hiểm giả Ngân Cấp kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng quen biết từ Maalt – bất ngờ tiến tới bắt chuyện.
+
+## 156
+Trước sự gặng hỏi của Augurey Ars, Rentt và Lorraine lấy tên giả là Purple và Olga rồi giả làm đôi vợ chồng mới cưới từ Đế Quốc sang vương đô hưởng tuần trăng mật; Augurey không nhận ra hai người nhưng nài nỉ nhờ họ hỗ trợ thu hái thảo dược theo ủy thác cá nhân để lấy nguyên liệu làm thuốc nhuộm cho Tiệm thời trang Michel.
+Nhớ lại những ân tình chỉ điểm săn bắn của Augurey hồi ở Maalt, Rentt nhận lời giúp đỡ; Lorraine nhân dịp này bắt Rentt hứa sẽ chiêu đãi cô một bữa tối thịnh soạn đủ món tại Nhà hàng All Flevne đắt đỏ nhất Maalt.
+Cả ba cùng tiến vào khu rừng tương đối an toàn bên ngoài vương đô; trước sự lúng túng mù tịt của Augurey, Rentt chỉ dẫn tận tình cách phân biệt thiến thảo hỏa tinh linh với các loài hoa vàng lục tương tự để tránh việc ủy thác bị bỏ xó trong tương lai.
+Sau khi thu hái đủ số lượng thiến thảo hỏa tinh linh cho mẻ thuốc nhuộm đỏ rực, cả ba người cùng nhau chuẩn bị quay về vương đô.

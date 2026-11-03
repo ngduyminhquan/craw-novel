@@ -160,7 +160,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | reviewed |  |
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | done |  |
 | 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | done |  |
-| 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | todo |  |
+| 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | done |  |
 | 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | todo |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | todo |  |
 | 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -725,3 +726,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#154] Tiêu đề "Unsolicited Help" tạm dịch là "Lòng Tốt Thừa Thãi" (phương án khác: "Sự Giúp Đỡ Thừa Thãi"); các danh từ riêng mới gồm "cỏ luan" (luan grass), "bệnh fiel" (fiel disease) và "nhựa nguyệt thụ" (moontree sap) đã tạm dùng theo phiên âm kết hợp từ Hán Việt. → Chốt tiêu đề Lòng Tốt Thừa Thãi và các thuật ngữ bệnh fiel, cỏ luan, nhựa nguyệt thụ (orchestrator)
 - [#155] Dịch 'bewitching magic' và 'transformation magic' — tạm chọn 'ma pháp huyễn hoặc' và 'ma pháp biến hình' (phương án khác: 'ma pháp mị hoặc' / 'ma pháp biến hóa'). → Chốt ma pháp huyễn hoặc và ma pháp biến hình (orchestrator)
 - [#155] Tiêu đề 'Vistelya, The Capital (1)' — tạm chọn 'Vương Đô Vistelya (1)' thống nhất với danh xưng vương đô Vistelya trong context (phương án khác: 'Vistelya, Thủ Đô (1)'). → Chốt Vương Đô Vistelya (1) (orchestrator)
+- [#156] Dịch thảo dược 'fire spirit madder' — tạm chọn 'thiến thảo hỏa tinh linh' (loài thiến thảo dùng nhuộm đỏ, gắn với hỏa tinh linh; phương án khác: 'cỏ thiến thảo hỏa tinh', 'thiến thảo tinh linh lửa'). Tạm dùng trong bản dịch: 'thiến thảo hỏa tinh linh'. → Chốt thiến thảo hỏa tinh linh (orchestrator)
+- [#156] Dịch tên tiệm 'Michel’s Boutique' và nhà hàng 'All Flevne' — tạm chọn 'Tiệm thời trang Michel' và 'Nhà hàng All Flevne' (phương án khác: 'Tiệm may Michel', 'Quán All Flevne'). Tạm dùng trong bản dịch: 'Tiệm thời trang Michel' và 'Nhà hàng All Flevne'. → Chốt Tiệm thời trang Michel và Nhà hàng All Flevne (orchestrator)

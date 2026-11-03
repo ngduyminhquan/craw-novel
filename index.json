@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T02:06:00Z",
+  "generatedAt": "2026-11-03T02:12:20Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3083,6 +3083,12 @@
           "title": "Chương 155: Tập 7 Chương 1 - Vương Đô Vistelya (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_155.md",
           "sha": "73145ebfbd1d91df22f9053800cc6b992f4c6ffe"
+        },
+        {
+          "number": 156,
+          "title": "Chương 156: Tập 7 Chương 1 - Vương Đô Vistelya (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_156.md",
+          "sha": "eeb2f94f413cfa8592f009b57309e656fb25306c"
         }
       ]
     },

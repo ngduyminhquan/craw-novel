@@ -298,3 +298,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Yanga |  | Yanga | địa danh | 155 | Ngôi làng nông thôn nhỏ ngoại vi vương đô Vistelya |
 | bewitching magic |  | ma pháp huyễn hoặc | kỹ năng | 155 | Ma pháp thay đổi ngoại hình hoặc trang phục (幻惑魔術) |
 | transformation magic |  | ma pháp biến hình | kỹ năng | 155 | Ma pháp biến đổi hoàn toàn hình dạng hoặc vóc dáng (変身魔術) |
+| Michel’s Boutique | Michel's Boutique | Tiệm thời trang Michel | tổ chức | 156 | Tiệm thời trang tại vương đô Vistelya nơi Augurey đặt may trang phục |
+| All Flevne |  | Nhà hàng All Flevne | tổ chức | 156 | Nhà hàng sang trọng và đắt đỏ bậc nhất nằm trên trục phố chính ở Maalt |
+| fire spirit madder |  | thiến thảo hỏa tinh linh | vật phẩm | 156 | Thảo dược mọc trong rừng ven vương đô Vistelya, rễ khô cho ra màu nhuộm đỏ tươi |

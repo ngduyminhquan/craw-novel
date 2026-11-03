@@ -269,3 +269,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Eiras | Rentt Faina | tôi | cậu / Rentt | 154 | Mạo hiểm giả kỳ cựu nói chuyện với đồng nghiệp trẻ hơn |
 | Rentt Faina | Augurey | tôi | anh | 155 | Rentt cải trang nói chuyện với mạo hiểm giả quen cũ |
 | Augurey | Rentt Faina | tôi | hai người / hai vị / cậu | 155 | Augurey bắt chuyện với nhóm Rentt ở bảng ủy thác tại vương đô |
+| Lorraine Vivie | Augurey | tôi | anh | 156 | Lorraine cải trang (Olga) nói chuyện với Augurey |
+| Augurey | Lorraine Vivie | tôi | cô / Olga / hai người | 156 | Augurey nói chuyện với Olga (Lorraine cải trang) |

@@ -82,6 +82,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Eiras |  | Eiras | Mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt, người yêu và sau đó là chồng của Myurin | #154 |
 | Myurin |  | Myurin | Nhân viên tiệm tạp hóa ở Maalt, người yêu và sau đó là vợ của Eiras | #154 |
 | Augurey Ars |  | Augurey Ars | Tên đầy đủ của Augurey, mạo hiểm giả Ngân Cấp kỳ dị ăn mặc sặc sỡ | #155 |
+| Purple |  | Purple | Tên giả Rentt tự xưng với Augurey tại vương đô Vistelya | #156 |
+| Olga |  | Olga | Tên giả Lorraine tự xưng với Augurey tại vương đô Vistelya | #156 |
 
 ## Chi tiết
 
@@ -197,6 +199,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Người quen tác chiến đơn độc của Rentt; từng lập tổ đội ứng biến tức thời và thường xuyên tán gẫu trong quán rượu cùng Rentt.
 - Trạng thái tính đến chương 42: Đã rời Maalt lên thủ đô Yaaran một thời gian trước với lý do "nghe thấy tiếng gọi của cơn gió"; sự vắng mặt của anh khiến Hội Mạo Hiểm Giả Maalt trở nên yên ắng hơn.
 - Trạng thái tính đến chương 155: Tiết lộ tên đầy đủ là Augurey Ars, mang cấp bậc Ngân Cấp, đang hoạt động tại vương đô Vistelya; mũ gắn một chiếc lông công, chuôi kiếm chạm khắc sặc sỡ lóa mắt; tình cờ bắt gặp và bắt chuyện với Rentt cùng Lorraine (cả hai đang cải trang) trước bảng thông báo ủy thác tại trụ sở Hội Mạo Hiểm Giả.
+- Trạng thái tính đến chương 156: Không nhận ra Rentt và Lorraine qua lớp cải trang và tin hai người là cặp vợ chồng mới cưới Purple và Olga; nài nỉ nhờ họ hỗ trợ theo ủy thác cá nhân để tìm thiến thảo hỏa tinh linh làm thuốc nhuộm đỏ cho trang phục mới đặt may tại Tiệm thời trang Michel; được Rentt chỉ dẫn tường tận cách phân biệt loài thảo dược này.
 
 ### Ryuntus
 - Giới tính, tuổi/vẻ ngoài: Nam, trạc ngoài đôi mươi, thanh niên chất phác sống ở Làng Todds ven Hồ Ruiess.
