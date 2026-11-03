@@ -48,7 +48,7 @@ Nữ Tu Viện Trưởng Elza cúi đầu thật sâu khi bước vào phòng. L
 
 "Cảm ơn lời giới thiệu nhã nhặn của ngài. Tên tôi là Lorraine Vivie, một mạo hiểm giả Ngân Cấp, còn đây là người đồng hành của tôi, Rentt Vivie."
 
-Lorraine là người tiếp nhận ủy thác này, nên cô là người đứng ra trả lời Nữ Tu Viện Trưởng. Nói một cách dễ hiểu thì tôi chỉ đi theo cùng mà thôi. Dù vậy, tôi đã đồng hành cùng Lorraine suốt chặng đường từ Maalt, nên tôi thấy mình có tư cách hiện diện ở đây. Hơn nữa, xét từ góc độ của Lillian, cũng khó lòng nói rằng sơ ấy chỉ nhờ cậy một mình Lorraine, mà đúng hơn là sơ ấy đã phó thác bức thư cho cả hai chúng tôi.
+Lorraine là người tiếp nhận ủy thác này, nên cô là người đứng ra trả lời Nữ Tu Viện Trưởng. Có thể nói là tôi chỉ đi theo cùng mà thôi. Dù vậy, tôi đã đồng hành cùng Lorraine suốt chặng đường từ Maalt, nên tôi thấy mình có tư cách hiện diện ở đây. Hơn nữa, xét từ góc độ của Lillian, cũng khó lòng nói rằng sơ ấy chỉ nhờ cậy một mình Lorraine, mà đúng hơn là sơ ấy đã phó thác bức thư cho cả hai chúng tôi.
 
 Khi biết chúng tôi mang cùng họ, Elza nhìn qua nhìn lại giữa hai chúng tôi. Lorraine nhận ra điều Nữ Tu Viện Trưởng muốn hỏi, nhưng cô gạt sang một bên và tiếp tục câu chuyện. Chẳng cần phải thanh minh làm gì bởi có vô vàn lý do khiến chúng tôi mang cùng họ, dẫu là do chúng tôi đã kết hôn hay là người cùng một gia tộc. Elza cũng để mặc cho thắc mắc ấy trôi qua mà không gặng hỏi thêm rồi hướng sự chú ý trở lại Lorraine.
 

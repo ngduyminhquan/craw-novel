@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:01:22Z",
+  "generatedAt": "2026-11-03T14:12:47Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3490,19 +3490,19 @@
           "number": 223,
           "title": "Chương 223: Tập 10 Chương 1 - Vương Đô và Giáo Hội Đông Thiên (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_223.md",
-          "sha": "2fbeb6c1eed64decb7ff50e9cd5bf745b863c958"
+          "sha": "b67d258d9cb0b399632b8d0ab4aa5318fc4c7785"
         },
         {
           "number": 224,
           "title": "Chương 224: Tập 10 Chương 1 - Vương Đô và Giáo Hội Đông Thiên (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_224.md",
-          "sha": "baadeea6531abd13ba945d1165fb1904a5067eb9"
+          "sha": "ed665adf943948afd75a32b8e07c717ec906fc37"
         },
         {
           "number": 225,
           "title": "Chương 225: Ngoại truyện Tập 10 - Trong Lúc Đó, Tại Maalt",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_225.md",
-          "sha": "8c966b6b0a9a46439ac7d3988ed4476cc7a30a9f"
+          "sha": "8c7ec2132c469da56b8e94503d5a43deaf3c6c5a"
         }
       ]
     },

@@ -42,11 +42,11 @@ Alize gật đầu, lời miêu tả đó gợi lại đôi điều trong trí n
 
 "Nhắc mới nhớ, anh Rentt điều khiển Ma Lực giỏi lắm, nhưng Học Sĩ Lorraine lại bảo chuyện đó có điểm gì đó quái dị."
 
-"Hừm. Tôi hiểu ý cô ấy rồi. Rentt giống như một chiến binh tự học mà tôi vừa đề cập vậy. Dẫu thế, Rentt có dự định học lại từ những điều cơ bản nhất, nên vừa giữ được những lợi thế từ phong cách tự học của mình, anh ấy cũng sẽ đạt được sự ổn định nhờ việc nắm vững chúng. Anh ấy hiểu rõ giá trị của việc thuần thục những nền tảng cơ bản."
+"He he. Tôi hiểu ý cô ấy rồi. Rentt giống như một chiến binh tự học mà tôi vừa đề cập vậy. Dẫu thế, Rentt có dự định học lại từ những điều cơ bản nhất, nên vừa giữ được những lợi thế từ phong cách tự học của mình, anh ấy cũng sẽ đạt được sự ổn định nhờ việc nắm vững chúng. Anh ấy hiểu rõ giá trị của việc thuần thục những nền tảng cơ bản."
 
 "Đúng thế thật ạ. Anh ấy cũng đang học cùng với em từ Học Sĩ Lorraine mà."
 
-"Giờ thì, đối với ma pháp mà cô Rina vừa sử dụng, cô ấy vốn đã thuần thục ma pháp ngâm xướng rồi. Cô ấy đang thử sức với ma pháp rút ngắn như một phần nỗ lực bước sang giai đoạn tiếp theo trong quá trình huấn luyện. Vì cô ấy có vẻ thấy ma pháp thổ hệ đặc biệt khó khăn, nên Gie Vieros cũng rất hữu ích để luyện tập loại ma pháp đó. Còn với em, cô Alize, em vẫn còn nhiều thời gian. Cứ từ từ và trước hết hãy tập trung hoàn thiện ma pháp ngâm xướng của mình đã. Tôi sẽ ở đây để đảm bảo hai cô không học phải những thói xấu từ quá trình luyện tập, nên đừng lo lắng về việc phạm sai lầm trong lúc rèn luyện nhé."
+"Giờ thì, đối với ma pháp mà cô Rina vừa sử dụng, cô ấy vốn đã thuần thục ma pháp ngâm xướng rồi. Cô ấy đang thử sức với ma pháp rút ngắn như một phần nỗ lực bước sang giai đoạn tiếp theo trong quá trình huấn luyện. Vì cô ấy có vẻ thấy ma pháp thổ hệ đặc biệt khó khăn, nên Gie Vieros cũng rất hữu ích để luyện tập loại ma pháp đó. Còn với em, cô Alize, em vẫn còn nhiều thời gian. Cứ từ từ và trước hết hãy tập trung hoàn thiện ma pháp ngâm xướng của mình đã. Tôi sẽ ở đây để đảm bảo hai người không học phải những thói xấu từ quá trình luyện tập, nên đừng lo lắng về việc phạm sai lầm trong lúc rèn luyện nhé."
 
 "Vâng ạ!"
 

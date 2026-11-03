@@ -412,7 +412,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gerge | Lorraine Vivie | em | cô Lorraine / cô | 217 | Học sinh thưa gửi với cô giáo tình nguyện |
 | Rentt Faina | Frahe | tôi | thiếu gia / Frahe | 218 | Mạo hiểm giả nói chuyện với thiếu gia nhỏ tuổi của gia tộc Muze |
 | Frahe | Rentt Faina | tôi | anh / Rentt | 218 | Thiếu gia nhỏ tuổi của gia tộc Muze nói chuyện với Rentt |
-| Lorraine Vivie | Elza | tôi | Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 223 | Học giả giao tiếp lịch sự, trang trọng với Nữ Tu Viện Trưởng |
+| Lorraine Vivie | Elza | tôi | ngài / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza / Mẹ Bề Trên Elza | 223 | Học giả giao tiếp lịch sự, trang trọng với Nữ Tu Viện Trưởng |
 | Elza | Lorraine Vivie | tôi | cô / cô Lorraine | 223 | Nữ Tu Viện Trưởng tiếp chuyện mạo hiểm giả giao thư |
 | Rentt Faina | Elza | tôi | Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 223 | Mạo hiểm giả chào hỏi lịch sự với Nữ Tu Viện Trưởng |
 | Elza | Rentt Faina | tôi | cậu / cậu Rentt / hai vị | 223 | Nữ Tu Viện Trưởng tiếp chuyện mạo hiểm giả đi cùng |

@@ -2,7 +2,7 @@
 
 Sơ Lillian đã mất khả năng sử dụng Thần Lực ư? Điều đầu tiên xuất hiện trong đầu tôi là chuyện sơ ấy từng mắc Bệnh Tích Tụ Chướng Khí, nhưng khi nghĩ kỹ lại những sự tình hồi đó, chính bản thân Sơ Lillian cũng chỉ biết mình mắc bệnh khi được chữa trị mà thôi. Thật kỳ lạ nếu Nữ Tu Viện Trưởng Elza, người đã lâu không nhận được tin tức từ Sơ Lillian và suốt thời gian qua luôn ở vương đô, lại biết về chuyện ấy.
 
-Dù vậy, có lẽ cũng chẳng lạ đến thế nếu Elza thu thập thông tin bằng một cách nào đó mà bản thân Sơ Lillian không hề hay biết. Tuy nhiên, lời lẽ của Elza dường như không mang hàm ý đó. Thay vào đó, sơ ấy dường như đang ngụ ý rằng Sơ Lillian đã mất khả năng sử dụng Thần Lực từ trước khi mắc phải Bệnh Tích Tụ Chướng Khí. Điều đó sẽ giải thích lý do tại sao một Thánh Giả như Sơ Lillian, người sở hữu năng lực sử dụng Thần Lực quý giá, lại được bổ nhiệm làm người phụ trách một cô nhi viện ở Maalt, một nơi hẻo lánh bậc nhất trong số những vùng đất hẻo lánh.
+Dù vậy, có lẽ cũng chẳng lạ đến thế nếu Elza thu thập thông tin bằng một cách nào đó mà bản thân Sơ Lillian không hề hay biết. Tuy nhiên, lời lẽ của Elza dường như không mang hàm ý đó. Thay vào đó, cô ấy dường như đang ngụ ý rằng Sơ Lillian đã mất khả năng sử dụng Thần Lực từ trước khi mắc phải Bệnh Tích Tụ Chướng Khí. Điều đó sẽ giải thích lý do tại sao một Thánh Giả như Sơ Lillian, người sở hữu năng lực sử dụng Thần Lực quý giá, lại được bổ nhiệm làm người phụ trách một cô nhi viện ở Maalt, một nơi hẻo lánh bậc nhất trong số những vùng đất hẻo lánh.
 
 "Tôi không rõ liệu hai vị có biết chuyện này không," Elza tiếp tục, "nhưng Lillian từng là một nữ tu ở Tu Viện Ephas này cho đến khoảng mười năm trước. Ban đầu cô ấy trở thành nữ tu năm mười lăm tuổi, và ngay ở độ tuổi đó, cô ấy đã sở hữu thiên phú Thần Lực vô cùng mạnh mẽ. Cô ấy từng được xem là một Thánh Giả đầy triển vọng, người sẽ gánh vác tương lai của Giáo Hội trên vai."
 
@@ -16,7 +16,7 @@ Trái ngược với những suy nghĩ vẩn vơ trong đầu tôi, cuộc trò 
 
 "Hoàn toàn không phải vậy đâu ạ," Elza đáp lời. "Tôi nghe nói Maalt là một trong những vùng biên ải phồn thịnh hơn cả. Đặc biệt là dạo gần đây, nơi đó được xem như một vùng đất đầy hứa hẹn với sự xuất hiện của một mê cung mới. Rất nhiều người đang nói rằng trong tương lai, nơi ấy sẽ không còn bị coi là biên ải hay chốn xa xôi hẻo lánh nữa."
 
-Elza buông lời ngợi khen Maalt với vẻ tự tin của một người xuất thân từ đô thị lớn. Tôi suýt nữa thì không kìm được nước mắt; những lời lẽ dịu dàng và khéo léo của sơ ấy như một liều thuốc xoa dịu lòng tự tôn mong manh của một kẻ quê mùa trong tôi. Ngay khoảnh khắc ấy, tôi tự nhủ rằng mình sẽ vui vẻ nhận bất cứ ủy thác nào mà Nữ Tu Viện Trưởng Elza giao phó.
+Elza buông lời ngợi khen Maalt với vẻ tự tin của một người xuất thân từ đô thị lớn. Tôi suýt nữa thì không kìm được nước mắt; những lời lẽ dịu dàng và khéo léo của cô ấy như một liều thuốc xoa dịu lòng tự tôn mong manh của một kẻ quê mùa trong tôi. Ngay khoảnh khắc ấy, tôi tự nhủ rằng mình sẽ vui vẻ nhận bất cứ ủy thác nào mà Nữ Tu Viện Trưởng Elza giao phó.
 
 Đùa vui thế thôi, chứ tôi tin chắc dự đoán của Elza là hoàn toàn chính xác. Ngay lúc này đây, chúng tôi đã thấy Tòa Tháp và Học Viện lảng vảng quanh thị trấn. Tôi không biết những phát hiện trong mê cung rốt cuộc sẽ hữu ích đến mức nào, nhưng các cuộc quan sát sẽ được tiến hành trong dài hạn. Không chỉ có vậy, một mê cung mới sinh ra là phát hiện vô cùng hiếm thấy. Nó đòi hỏi một dự án nghiên cứu quy mô lớn cần đến việc xây dựng các trung tâm nghiên cứu tiên tiến cùng các cơ sở học thuật ngay tại thành phố. Chẳng khó để hình dung mạo hiểm giả và nhân công sẽ đổ xô về thành phố trong tiến trình ấy.
 
@@ -26,7 +26,7 @@ Hiện tại đã có những dấu hiệu manh nha cho chuyện đó. Vụ cãi
 
 ![](images/ch224-01.webp)
 
-"Đúng như lời Mẹ Elza đã nói, việc Maalt đang ngày càng trở nên phồn thịnh là sự thật," Lorraine tiếp lời. "Tuy nhiên, điều đó có lẽ không đúng vào thời điểm Sơ Lillian được cử tới đó."
+"Đúng như lời Mẹ Bề Trên Elza đã nói, việc Maalt đang ngày càng trở nên phồn thịnh là sự thật," Lorraine tiếp lời. "Tuy nhiên, điều đó có lẽ không đúng vào thời điểm Sơ Lillian được cử tới đó."
 
 Elza gật đầu đồng tình. "Vâng, đúng là như vậy."
 
@@ -42,13 +42,13 @@ Elza nói tiếp: "Đó là lý do tại sao tôi luôn cảm thấy có lỗi v
 
 Cuộc trò chuyện đã rẽ sang một hướng bất ngờ. Mong muốn viết thư hồi đáp cho một bức thư vừa nhận được là lẽ tự nhiên, đặc biệt nếu đó là từ một người quen đã lâu không có tin tức. Có vẻ như Sơ Lillian và Elza không chỉ đơn thuần là người quen hay cấp trên cấp dưới trong Giáo Hội, mà còn là bạn bè, thế nên việc Elza muốn gửi thư trả lời cho Sơ Lillian lại càng dễ hiểu hơn.
 
-Điều đó dấy lên một thắc mắc. Liệu Sơ Lillian và Elza có trạc tuổi nhau không? Sơ Lillian là một phụ nữ trung niên đẫy đà trông chừng như ngoài bốn mươi, nhưng Elza lại nói chuyện như thể đã quen biết Sơ Lillian từ thuở còn là thiếu nữ trăng tròn. Tôi cố kìm nén thôi thúc muốn hỏi Elza: "Sơ bao nhiêu tuổi rồi ạ?", bởi tôi thừa biết thứ duy nhất đang đón đợi một câu hỏi như thế chính là sự đau đớn.
+Điều đó dấy lên một thắc mắc. Liệu Sơ Lillian và Elza có trạc tuổi nhau không? Sơ Lillian là một phụ nữ trung niên đẫy đà trông chừng như ngoài bốn mươi, nhưng Elza lại nói chuyện như thể đã quen biết Sơ Lillian từ thuở còn là thiếu nữ trăng tròn. Tôi cố kìm nén thôi thúc muốn hỏi Elza: "Ngài bao nhiêu tuổi rồi ạ?", bởi tôi thừa biết thứ duy nhất đang đón đợi một câu hỏi như thế chính là sự đau đớn.
 
 Tôi đã chứng kiến chuyện đó xảy ra quá nhiều lần với những người bạn mạo hiểm giả trót đặt câu hỏi tương tự với các nữ mạo hiểm giả kỳ cựu ở quán rượu. Câu trả lời họ nhận được là một hoặc hai cú đấm, rồi kết thúc bằng việc nếm trọn một họng đầy đất để nhắm cùng cốc bia. Sau khi thấy cảnh tượng ấy vài lần, tôi đã rút ra bài học đắt giá là chớ dại hỏi tuổi phụ nữ. Nói thế không có nghĩa là điều đó hoàn toàn ngăn được tôi hỏi, ngay cả lúc này đây. Có lẽ tôi cần rèn luyện tính kỷ luật nhiều hơn nữa.
 
 Dù sao thì việc mang thư hồi đáp về... Xét việc đằng nào chúng tôi cũng sẽ quay lại Maalt, chuyện đó chẳng thành vấn đề. Chắc hẳn Lorraine cũng đồng tình, bởi cô đã liếc nhìn tôi để thăm dò trước khi đáp lời Elza.
 
-"Nếu vậy thì chúng tôi không có vấn đề gì khi nhận ủy thác của sơ. Tôi dự định sẽ ở lại vương đô một thời gian, đồng nghĩa với việc bức thư gửi cho Sơ Lillian sẽ chỉ được chuyển đi khi tôi quay trở về. Nếu sơ thấy như vậy là chấp nhận được..."
+"Nếu vậy thì chúng tôi không có vấn đề gì khi nhận ủy thác của ngài. Tôi dự định sẽ ở lại vương đô một thời gian, đồng nghĩa với việc bức thư gửi cho Sơ Lillian sẽ chỉ được chuyển đi khi tôi quay trở về. Nếu ngài thấy như vậy là chấp nhận được..."
 
 "Vâng. Đây không phải chuyện khẩn cấp, nên như vậy là hoàn toàn ổn ạ. Vậy thì tôi sẽ liên lạc với hai vị qua Hội một khi hoàn thành bức thư. Chân thành cảm ơn hai vị đã nhận công việc này."
 
@@ -80,7 +80,7 @@ Tấm huân chương mà Lorraine nhắc tới là thứ đã được Nauss Anc
 
 "Sao nghe giọng anh có vẻ chẳng chắc chắn thế?" Lorraine gặng hỏi, vẻ mặt thoáng chút lo lắng.
 
-Ý tôi là, tôi biết mình đã cất nó vào đó, nhưng luôn có khả năng là tôi chỉ đơn giản là đã quên mất. Dẫu vậy, tôi chắc chắn mình đã cất nó vào đó—ít nhất thì cũng khá chắc là vậy. Ngay cả khi tôi còn đang bồn chồn lo lắng, tôi đã cảm nhận được sức nặng đầm tay của kim loại trong lòng bàn tay, và một làn sóng nhẹ nhõm lập tức trào dâng trong lòng tôi. Tôi rút tay ra khỏi túi, và tấm huân chương đã ở đó, nằm gọn trong lòng bàn tay tôi.
+Ý tôi là, tôi biết mình đã cất nó vào đó, nhưng luôn có khả năng là tôi chỉ đơn giản là đã quên mất. Dẫu vậy, tôi chắc chắn mình đã cất nó vào đó—ít nhất thì cũng khá chắc là vậy. Ngay cả khi tôi còn đang bồn chồn lo lắng, tôi đã cảm nhận được sức nặng đầm tay của kim loại nơi đầu ngón tay, và một làn sóng nhẹ nhõm lập tức trào dâng trong lòng tôi. Tôi rút tay ra khỏi túi, và tấm huân chương đã ở đó, nằm gọn trong lòng bàn tay tôi.
 
 "Aha!"
 
