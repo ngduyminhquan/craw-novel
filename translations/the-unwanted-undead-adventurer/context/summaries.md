@@ -1312,6 +1312,6 @@ Cả hai quyết định chọn việc đơn giản nhất là chuyển thư tr�
 Rentt và Lorraine tới nhà thờ Giáo Hội Đông Thiên tại vương đô Vistelya; trên đường đi, cả hai chứng kiến Giáo Hội Lobelia đang ráo riết truyền giáo tranh giành tín đồ.
 Bước vào đại thánh đường uy nghiêm nhưng giản dị, Rentt thử nghiệm và nhận thấy cơ thể Undead sở hữu Thần Lực của mình hoàn toàn không bị thánh đường bài xích.
 Cả hai trao đổi về phẩm trật tôn giáo và biết được người nhận thư của Sơ Lillian là Nữ Tu Viện Trưởng Elza (Mother Elza) thuộc Tu Viện Ephas, một nhân vật có phẩm trật rất cao tương đương hồng y/giám mục.
-Lorraine nhờ một nữ tu chuyển lời muốn trao tận tay bức thư; vừa nghe tên Sơ Lillian gửi cho Mẹ Elza, nữ tu vô cùng kinh ngạc và vội vàng đi báo, đồng thời cử một tu sinh tập sự dẫn đường đưa cả hai tới phòng tiếp khách.
+Lorraine nhờ một nữ tu chuyển lời muốn trao tận tay bức thư; vừa nghe tên Sơ Lillian gửi cho Mẹ Bề Trên Elza, nữ tu vô cùng kinh ngạc và vội vàng đi báo, đồng thời cử một tu sinh tập sự dẫn đường đưa cả hai tới phòng tiếp khách.
 
 

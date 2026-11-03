@@ -729,7 +729,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Elza
 - Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran.
-- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt.
+- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt.
 - Xuất hiện từ: #222.
 
 

@@ -398,7 +398,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mimic | mimic; mimics; Mimics | Mimic | quái vật | 217 | Quái vật chuyên giả dạng hình người để hút cạn sinh lực con mồi (ミミック) |
 | Muze Family | the Muze Family; the Muzes; Muzes; Muze | Gia tộc Muze | tổ chức | 218 | Một trong những gia tộc lớn đầy quyền thế có chân trong hội đồng thị trấn Maalt (ミューズ家) |
 | Angel of the East |  | Thiên Sứ Phương Đông | khác | 222 | Vị thiên sứ được tôn thờ trong Giáo Hội Đông Thiên (東天の天使 / 東方天使) |
-| Archimandrite |  | Đại Tăng Viện Trưởng | chức nghiệp | 222 | Phẩm trật cao nhất trong hệ thống giáo phẩm của Giáo Hội Đông Thiên |
+| Archimandrite |  | Tổng Viện Trưởng | chức nghiệp | 222 | Phẩm trật cao nhất trong hệ thống giáo phẩm của Giáo Hội Đông Thiên |
 | Archabbot |  | Đại Tu Viện Trưởng | chức nghiệp | 222 | Người đứng đầu tu viện tối cao, phẩm trật tương đương Đại Giáo Phụ hay Giáo Hoàng |
 | abbot | abbots | Tu Viện Trưởng | chức nghiệp | 222 | Phẩm trật cao cấp của Giáo Hội Đông Thiên, tương đương giám mục hoặc hồng y |
 | Abbess | abbess | Nữ Tu Viện Trưởng | chức nghiệp | 222 | Phẩm trật của người phụ trách tu viện nữ hoặc nữ tu cấp cao trong Giáo Hội Đông Thiên |

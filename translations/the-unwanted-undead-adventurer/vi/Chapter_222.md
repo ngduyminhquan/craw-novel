@@ -66,7 +66,7 @@ Khi tôi đổi chủ đề, Lorraine lấy bức thư từ trong túi ra. Bức
 
 "Vậy là sơ ấy gửi cho một người có địa vị khá cao đấy nhỉ."
 
-Trong Giáo Hội Đông Thiên, Đại Tăng Viện Trưởng là phẩm trật cao nhất, tiếp theo là Tu Viện Trưởng, Phó Tu Viện Trưởng, Kinh Sĩ, vân vân—tổng cộng có mười phẩm trật. Giữa các phẩm trật còn có những phân cấp chi tiết hơn, nhưng đó là hệ thống thứ bậc cơ bản. Người tương đương với Đại Giáo Phụ trong Giáo Hội Lobelia, hay nói cách khác là giáo hoàng hoặc giáo trưởng trong các tín ngưỡng khác, chính là Đại Tu Viện Trưởng, vì vậy một Tu Viện Trưởng trong Giáo Hội Đông Thiên về cơ bản tương đương với hồng y hoặc giám mục. Một Tu Viện Trưởng thậm chí một ngày nào đó có thể thăng lên làm Đại Tăng Viện Trưởng.
+Trong Giáo Hội Đông Thiên, Tổng Viện Trưởng là phẩm trật cao nhất, tiếp theo là Tu Viện Trưởng, Phó Tu Viện Trưởng, Kinh Sĩ, vân vân—tổng cộng có mười phẩm trật. Giữa các phẩm trật còn có những phân cấp chi tiết hơn, nhưng đó là hệ thống thứ bậc cơ bản. Người tương đương với Đại Giáo Phụ trong Giáo Hội Lobelia, hay nói cách khác là giáo hoàng hoặc giáo trưởng trong các tín ngưỡng khác, chính là Đại Tu Viện Trưởng, vì vậy một Tu Viện Trưởng trong Giáo Hội Đông Thiên về cơ bản tương đương với hồng y hoặc giám mục. Một Tu Viện Trưởng thậm chí một ngày nào đó có thể thăng lên làm Tổng Viện Trưởng.
 
 Lillian lại trực tiếp trao đổi thư từ với một người mang phẩm trật cỡ đó, vậy phải chăng địa vị của sơ ấy còn cao hơn tôi tưởng? Sơ trước giờ luôn chỉ tự giới thiệu mình là một giáo sĩ và chưa từng nói cho chúng tôi biết phẩm trật chính xác của mình. Thông thường, một người phụ trách nhà thờ tại một thành phố tầm cỡ Maalt khá lắm thì cũng chỉ là Kinh Sĩ. Tôi cho rằng đây là chuyện mình sẽ phải hỏi Sơ Lillian vào một lúc nào đó.
 
@@ -98,7 +98,7 @@ Hơn nữa, theo những gì tôi quan sát được từ các tu sĩ đi ngang 
 
 Lorraine chỉ đơn thuần miêu tả nhiệm vụ ủy thác của mình, nhưng đôi mắt người nữ tu mở to đầy kinh ngạc khi nghe thấy cái tên ấy.
 
-"T-Thư của Sơ Lillian gửi cho Mẹ Elza ư?! T-Tôi hiểu rồi. Tôi sẽ đi mời Nữ Tu Viện Trưởng ngay lập tức! Xin hai vị vui lòng chờ ở phòng tiếp khách— Này em! Dẫn hai vị này tới phòng tiếp khách mau!"
+"T-Thư của Sơ Lillian gửi cho Mẹ Bề Trên Elza ư?! T-Tôi hiểu rồi. Tôi sẽ đi mời Nữ Tu Viện Trưởng ngay lập tức! Xin hai vị vui lòng chờ ở phòng tiếp khách— Này em! Dẫn hai vị này tới phòng tiếp khách mau!"
 
 Người nữ tu lúc này đã hoàn toàn sốt sắng, liền chặn một cô gái trẻ trông như tu sinh tập sự lại và đưa ra chỉ thị trước khi vội vã rời đi.
 
