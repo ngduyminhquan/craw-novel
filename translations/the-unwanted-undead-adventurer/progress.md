@@ -204,7 +204,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 197 |  | Chapter_197 - Vol 8 Chapter 4 - Explanation and Resolution (5).txt | Vol 8 Chapter 4 - Explanation and Resolution (5) | reviewed |  |
 | 198 |  | Chapter_198 - Vol 8 Side Story - Vengeance and the Subconscious.txt | Vol 8 Side Story - Vengeance and the Subconscious | reviewed |  |
 | 199 |  | Chapter_199 - Vol 9 Chapter 1 - Evaluating Abilities (1).txt | Vol 9 Chapter 1 - Evaluating Abilities (1) | done |  |
-| 200 |  | Chapter_200 - Vol 9 Chapter 1 - Evaluating Abilities (2).txt | Vol 9 Chapter 1 - Evaluating Abilities (2) | todo |  |
+| 200 |  | Chapter_200 - Vol 9 Chapter 1 - Evaluating Abilities (2).txt | Vol 9 Chapter 1 - Evaluating Abilities (2) | done |  |
 | 201 |  | Chapter_201 - Vol 9 Chapter 1 - Evaluating Abilities (3).txt | Vol 9 Chapter 1 - Evaluating Abilities (3) | todo |  |
 | 202 |  | Chapter_202 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1) | todo |  |
 | 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | todo |  |
@@ -807,3 +807,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#198] Xưng hô của Rentt khi đối thoại với trẻ nhỏ/hậu bối (Alize, Mimir) → Giữ nguyên thiết lập trong pronouns.md (Rentt xưng 'tôi', gọi 'em / cô bé / Alize / Mimir') và sửa đoạn 49, 60 của chương 198 từ 'anh' thành 'tôi' để đồng bộ với toàn bộ chương 198 và các chương trước. (orchestrator)
 - [#199] Thuật ngữ 'dampir' (chủng tộc con lai giữa Ma Cà Rồng và người): tạm dịch 'Dampir' để tránh lặp từ với 'half-vampire, half-human children' (phương án khác: 'Bán Ma Cà Rồng'). → Chốt giữ nguyên 'Dampir' (tương tự Elf, Goblin, Slime, Tarasque) để tránh lặp chữ trong câu giải thích 'nửa dòng máu ma cà rồng, nửa dòng máu con người—Dampir'. (orchestrator)
 - [#199] Xưng hô giữa Lorraine Vivie và Rina Rupaage: tạm chọn Lorraine xưng 'tôi', gọi 'cô / Rina'; Rina xưng 'tôi', gọi 'chị / chị Lorraine' (phương án khác: Lorraine xưng 'chị', gọi 'em / Rina'; Rina xưng 'em'). → Chốt Lorraine xưng 'tôi', gọi 'cô / Rina'; Rina xưng 'tôi', gọi 'chị / chị Lorraine' (đồng bộ với cách Rentt gọi Rina là 'tôi - cô / Rina' và Rina gọi Rentt là 'tôi - anh Rentt'). (orchestrator)
+- [#200] Dịch 'Imperial Knights' — tạm chọn 'Kỵ Sĩ Đế Quốc' (phương án khác: 'Đế Quốc Kỵ Sĩ') → Chốt 'Kỵ Sĩ Đế Quốc' theo đúng trật tự từ Hán Việt tự nhiên (đối xứng với 'kỵ sĩ Yaaran' trong cùng câu thoại và 'Kỵ Sĩ Phản Nghịch' trong glossary.md). (orchestrator)

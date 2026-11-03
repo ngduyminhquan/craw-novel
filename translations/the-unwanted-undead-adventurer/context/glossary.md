@@ -72,7 +72,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Skeleton Knight | Skeleton Knights | Khô Lâu Kỵ Sĩ | quái vật | 22 | Phân loài Khô Lâu cấp cao trang bị vũ khí và giáp kỵ sĩ |
 | Puchi Suri | Puchi Suris | Puchi Suri | quái vật | 22 | Quái vật dạng chuột nhỏ dễ bắt, có khả năng biến đổi theo môi trường để tiến hóa (プチスリ) |
 | Recording Crystal | Recording Crystals | Tinh Thể Ghi Hình | vật phẩm | 23 | Tinh thể ma thuật dùng để chụp lại hoặc lưu trữ hình ảnh (記録水晶) |
-| First Knightly Order | First Knights; the First Knightly Order | Đệ Nhất Kỵ Sĩ Đoàn | tổ chức | 24 | Kỵ sĩ đoàn tinh nhuệ bậc nhất của Vương Quốc Yaaran (第一騎士団) |
+| First Knightly Order | First Knights; the First Knightly Order; First Brigade | Đệ Nhất Kỵ Sĩ Đoàn | tổ chức | 24 | Kỵ sĩ đoàn tinh nhuệ bậc nhất của Vương Quốc Yaaran (第一騎士団) |
 | Orc | Orcs | Orc | quái vật | 25 | Quái vật dạng lợn/người to lớn hung dữ |
 | Map of Akasha |  | Bản Đồ Akasha | vật phẩm | 26 | Ma cụ tự động vẽ bản đồ mê cung người sở hữu từng đặt chân tới (アカシャの地図) |
 | Pulling | pulling | dụ quái | khác | 29 | Tiếng lóng mạo hiểm giả chỉ hành động dẫn quái vật về phía người khác rồi bỏ chạy |
@@ -369,3 +369,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Dayla |  | Dayla | khác | 198 | Vị thần bảo hộ thuật giả kim, đối tượng thờ phụng của Giáo Hội Giả Kim |
 | God of Alchemy |  | Thần Giả Kim | danh hiệu | 198 | Danh xưng thần thánh của Dayla, vị thần được Giáo Hội Giả Kim tôn thờ |
 | Dampir | dampir; dampirs; dhampir; dhampirs | Dampir | chủng tộc | 199 | Con lai giữa Ma Cà Rồng và con người (ダンピール) |
+| Imperial Knight | Imperial Knights; imperial knight; imperial knights | Kỵ Sĩ Đế Quốc | chức nghiệp | 200 | Kỵ sĩ phụng sự Đế Quốc Rermutt (帝国騎士) |

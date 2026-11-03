@@ -1180,6 +1180,13 @@ Nhận thấy bản thân sở hữu lượng ma lực tương đương 150 ngư
 Rina tỏ ra bình thản khi biến thành Ma Cà Rồng; Isaac giải thích rằng con người khi hóa Ma Cà Rồng thường trở nên điềm tĩnh và lý trí hơn, đồng thời chia sẻ về tập tính kết đôi của Ma Cà Rồng hiện đại.
 Chương kết thúc với hồi ức của Rentt về những lời đồn Dampir (con lai giữa Ma Cà Rồng và con người) ở các vùng quê, vốn thường chỉ là người sở hữu ma nhãn hoặc lượng ma lực quá lớn mà anh từng điều tra kiếm tiền tiêu vặt.
 
+## 200
+Rina thử nghiệm thi triển ma pháp tạo lửa Aliumage và tạo ra ngọn lửa nhỏ bình thường, được Isaac nhận định lượng Ma Lực tương đương một ma pháp sư trung cấp của nhân loại.
+Isaac giải thích về mối liên kết giữa chủ nhân và quyến thuộc Ma Cà Rồng: chủ nhân có thể cưỡng chế đoạt hoặc chia sẻ máu và Ma Lực cho quyến thuộc, đồng thời quyến thuộc cũng có thể tự do rút máu cùng năng lượng từ chủ nhân nếu không bị hạn chế.
+Dưới sự hướng dẫn của chú chuột Edel, Rina học được cách rút Ma Lực và Thần Lực từ Rentt để nuôi dưỡng đám cỏ dại trong sân mà không hề bị tổn thương hay khó chịu trước Thần Lực như Isaac.
+Rentt thử thanh tẩy khiến đám cỏ dại mọc cao vọt ngậm Thần Lực và được Isaac giữ lại cho sở thích sưu tập ma cụ của Laura; Rina thử rút Khí Lực từ Rentt nhưng thất bại do chưa từng qua rèn luyện, và Rentt dự định sẽ chỉ dạy thêm cho cô.
+
+
 
 
 
