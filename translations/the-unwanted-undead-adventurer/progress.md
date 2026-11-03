@@ -223,7 +223,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 216 |  | Chapter_216 - Vol 9 Chapter 5 - A Request from the Guild (4).txt | Vol 9 Chapter 5 - A Request from the Guild (4) | reviewed |  |
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | done |  |
 | 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | done |  |
-| 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | todo |  |
+| 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | done |  |
 | 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | todo |  |
 | 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | todo |  |
 | 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | todo |  |
@@ -346,6 +346,8 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
+
 
 
 ## Đã quyết
@@ -841,3 +843,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#217] Dịch tiêu đề chương 'Vol 9 Bonus - A Day in the Life of Lorraine Vivie' — tạm chọn 'Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie' (đồng bộ format với #152 'Ngoại truyện Tập 6 - Một Ngày' và loạt ngoại truyện Tập 7; phương án khác: 'Ngoại truyện Tập 9 - Một Ngày Trong Đời Lorraine Vivie'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie'. → Dùng 'Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie' (orchestrator)
 - [#218] Tiêu đề 'The Much Admired Isaac' — tạm dịch 'Isaac Được Ngưỡng Mộ' (phương án khác: 'Isaac Rất Được Ngưỡng Mộ', 'Isaac Được Mọi Người Ngưỡng Mộ'). → Dùng 'Isaac Được Ngưỡng Mộ' (orchestrator)
 - [#218] Xưng hô Frahe và Rentt — tạm chọn Frahe xưng 'tôi' - gọi 'anh / Rentt', Rentt xưng 'tôi' - gọi 'thiếu gia / Frahe' (phương án khác: Frahe xưng 'ta'). → Dùng Frahe xưng 'tôi' - gọi 'anh / Rentt', Rentt xưng 'tôi' - gọi 'thiếu gia / Frahe' (orchestrator)
+- [#219] Tiêu đề chương 'Vol 9 Bonus - The Princess’s Table' — tạm chọn 'Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa' đồng bộ với #217 và #218 (phương án khác: 'Ngoại truyện Tập 9 - Chiếc Bàn Của Nàng Công Chúa'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa'. → Dùng 'Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa' (orchestrator)
+- [#219] Dịch cụm từ 'a faintly Machiavellian air' miêu tả phong thái nữ quý tộc (công chúa) — tạm chọn 'phảng phất chút khí chất mưu lược sắc sảo kiểu Machiavelli' để giữ nguyên phong vị văn học (phương án khác: 'phảng phất chút vẻ toan tính sắc sảo'). Tạm dùng trong bản dịch: 'phảng phất chút khí chất mưu lược sắc sảo kiểu Machiavelli'. → Tạm giữ ở bản dịch hiện tại, sẽ rà lại trong bước review 217-219 (orchestrator)
+- [#219] Xưng hô của nữ quý tộc (công chúa) và cách gọi của Rentt, Lorraine — tạm chọn nữ quý tộc xưng 'tôi', gọi 'anh / Rentt', 'Lorraine', gọi ông lão là 'ông'; Rentt và Lorraine gọi nữ quý tộc là 'tiểu thư' (m'lady dịch thành 'thưa tiểu thư'), xưng 'tôi' (phương án khác: gọi nữ quý tộc là 'công chúa', nữ quý tộc xưng 'ta'). Tạm dùng trong bản dịch: 'tôi' - 'tiểu thư'. → Dùng nữ quý tộc xưng 'tôi', Rentt và Lorraine xưng 'tôi' - gọi 'tiểu thư' (orchestrator)

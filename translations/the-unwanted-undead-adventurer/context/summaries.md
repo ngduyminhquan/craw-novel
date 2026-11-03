@@ -1291,6 +1291,8 @@ Trước sự tự ti của Frahe khi luôn so sánh bản thân với hình m�
 Được Rentt khai sáng khúc mắc, Frahe vui vẻ chơi đùa tiếp; sau đó Isaac cảm ơn Rentt và cả hai cùng bật cười khi thảo luận về ranh giới giữa dũng cảm và thiếu suy nghĩ.
 Về đến nhà muộn, Rentt xoa dịu cơn giận vì bữa tối bị hoãn của Lorraine bằng các nguyên liệu đắt tiền được gia tộc Muze cảm ơn, khiến cô hào hứng khuyến khích anh thi thoảng nên nhận lời giúp đỡ Isaac.
 
-
-
+## 219
+Rentt nhận một ủy thác cá nhân từ Hội Trưởng Wolf Hermann: tìm người thợ mộc đã đóng một chiếc bàn cũ từ năm mươi năm trước theo di nguyện của bà nội một nữ quý tộc (công chúa) trẻ tuổi để cô được quyền thừa kế sản nghiệp; Rentt rủ Lorraine cùng điều tra và tìm ra được nơi ở của người thợ già.
+Cùng thân chủ mang chiếc bàn đến tận nơi, trước sự chối từ của ông lão, vị công chúa giả vờ dọa dùng búa tạ đập vỡ bàn khiến ông lão phải thừa nhận mình chính là người làm ra nó để tặng người yêu thời trẻ nhưng bị gia đình ép chia cắt; ông lão chỉ cho cô cơ chế mở ngăn bí mật của chiếc bàn, bên trong chứa bản di chúc thừa kế và một bức thư gửi riêng cho ông.
+Lấy được di chúc, vị công chúa để lại chiếc bàn cùng bức thư cho ông lão đang xúc động rơi lệ rồi rời đi; trên đường về, Rentt nhận ra sự khéo léo đầy nhân hậu ẩn sau vẻ ngoài toan tính của cô khi không nỡ phá hủy chiếc bàn chứa kỷ niệm tình yêu của bà mình, khiến Lorraine và nữ quý tộc cùng mỉm cười trêu anh thiếu tế nhị.
 
