@@ -78,6 +78,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Liesse | Liesse / cô / nữ diễn viên | 179 | Nữ diễn viên chính của đoàn kịch lưu động |
 | Rota | Rota / người phụ nữ / chị ấy | 180 | Cư dân trung niên ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế |
 | Tita Well | Tita / cậu thiếu niên / cậu | 184 | Mạo hiểm giả Thiết Cấp bị biến thành Thi Quỷ |
+| Shumini | Shumini / gã / người đàn ông / anh ta | 187 | Kẻ bí ẩn giật dây nhóm Ma Cà Rồng gây rối ở Mê Cung Tân Nguyệt và Maalt |
 
 ## Giữa các nhân vật
 
@@ -336,3 +337,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Wolf Hermann | Lorraine Vivie | tôi | cô / Lorraine | 189 | Hội Trưởng trao đổi tình hình với học giả kiêm mạo hiểm giả |
 | Myullias Raiza | Rentt Faina | tôi | anh / Rentt | 188 | Thánh Nữ nói chuyện thân thiện, bình đẳng khi phối hợp thanh tẩy |
 | Rentt Faina | Myullias Raiza | tôi | cô | 188 | Mạo hiểm giả nói chuyện tự nhiên, bình đẳng với Thánh Nữ |
+| Isaac Hart | Shumini | tôi | cậu / Shumini | 190 | Hai người bạn chiến đấu cũ đối đầu nhau tại Maalt |
+| Shumini | Isaac Hart | tôi | cậu / Isaac | 190 | Hai người bạn chiến đấu cũ muốn lôi kéo Isaac quay lại |

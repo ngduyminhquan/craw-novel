@@ -350,5 +350,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | oni |  | oni | quái vật | 187 | Chủng tộc quái vật viễn đông tương tự ogre nhưng nhỏ hơn và thông minh hơn (鬼) |
 | Sleipnir |  | Sleipnir | quái vật | 187 | Thần mã tám chân trong thần thoại, loài ngựa sáu chân được cho là hậu duệ của Sleipnir |
 | Division |  | Phân Liệt | kỹ năng | 188 | Kỹ năng phân tách cơ thể thành đàn dơi rồi hợp thể lại nguyên vẹn của Trung Cấp/Thượng Cấp Ma Cà Rồng (分裂) |
-| San Arms |  | Huyết Binh | kỹ năng | 188 | Kỹ năng tạo vũ khí màu đỏ từ máu của Thượng Cấp Ma Cà Rồng (San Arms/サンアームズ) |
+| San Arms | San Arm | Huyết Binh | kỹ năng | 188 | Vũ khí màu đỏ tạo từ máu của Ma Cà Rồng (San Arms/サンアームズ) |
+| Fire Storm |  | Hỏa Bão | kỹ năng | 190 | Ma pháp hỏa hệ tạo bão lửa/cầu lửa thiêu đốt mục tiêu |
 | Heaven |  | Thiên Đường | địa danh | 188 | Cõi thiên đường theo quan niệm tôn giáo đối lập với Địa Ngục |

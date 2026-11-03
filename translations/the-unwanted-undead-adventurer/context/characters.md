@@ -296,7 +296,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trịnh trọng, lễ độ, nhã nhặn, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
 - Quan hệ: Quản gia phục vụ một nhân vật cao quý bí ẩn; gặp Rentt tại ốc đảo Đầm Lầy Tarasque khi đi hái Hoa Long Huyết cho chủ nhân và muốn thuê Rentt nhận ủy thác định kỳ.
 - Trạng thái tính đến chương 68: Cùng Laura đón tiếp Rentt tại phòng tiếp khách; được tiết lộ là người hầu đắc lực bị quá tải công việc trông nom dinh thự kiêm thường xuyên vào Đầm Lầy Tarasque hái hoa, khiến Laura phải thuê Rentt làm thay để anh có thêm thời gian nghỉ ngơi.
-- Trạng thái tính đến chương 186: Tiết lộ từng là một kỵ sĩ phản nghịch mang thanh kiếm bạc khắc hình kỳ lân đâm xuyên rồng; có vụ cá cược giết Laura Latuule bằng không phải từ bỏ mục tiêu của mình; sau khi nghe cậu bé Ma Cà Rồng Làng Hathara kể về kẻ thuộc phe "Đồng Minh" hỏi thăm tên mình, Isaac mang kiếm rời dinh thự tiến vào thị trấn Maalt để giải quyết dứt điểm mối quan hệ và vụ cá cược theo lời dặn của Laura.
+- Trạng thái tính đến chương 186: Tiết lộ từng là một kỵ sĩ phản nghịch mang thanh kiếm bạc khắc hình kỳ lân đâm xuyên rồng; có vụ cá cược giết Laura Latuule bằng không phải từ bỏ mục tiêu của mình; sau khi nghe cậu bé Ma Cà Rồng Làng Hathara kể về kẻ thuộc phe "Đồng Minh" hỏi thăm tên mình, Isaac mang kiếm rời dinh thự tiến vào thị trấn Maalt để giải quyết dứt điểm mối quan hệ và vụ cá cược theo lời dặn của Laura. Tính đến chương 190, đối đầu với bạn chiến đấu cũ Shumini trên nóc nhà ở rìa Maalt; dùng ma pháp Hỏa Bão giải nguy cho nhóm mạo hiểm giả; kích hoạt Huyết Binh hút máu biến kiếm liễu thành đại kiếm đỏ thẫm để giao chiến toàn lực bảo vệ thị trấn và vì Laura Latuule; dẫn Shumini tới địa điểm biệt lập để quyết đấu sinh tử.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
@@ -671,8 +671,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #180.
 
 ### Shumini
-- Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt.
-- Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự.
+- Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt và gây bạo loạn tại Maalt.
+- Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự. Tính đến chương 190, lộ diện là người bạn chiến đấu Ma Cà Rồng cũ của Isaac Hart thời thuộc phe "Đồng Minh"; tính tình cuồng sát, thích tiệc máu của con người và ưa thưởng thức sự tàn sát trong tĩnh lặng; sử dụng Huyết Binh dạng kiếm đỏ thẫm và ma pháp hủy diệt; tìm đến Maalt nhằm lôi kéo Isaac quay lại hoàn thành kế hoạch viển vông; khi bị Isaac từ chối đã quyết định dùng vũ lực khuất phục và đồng ý chuyển đến chiến trường biệt lập quyết đấu.
 - Xuất hiện từ: #187.
 
 ### Wugong

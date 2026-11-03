@@ -1119,6 +1119,12 @@ Nhóm Rentt, Lorraine và Nive tiếp tục tiến sâu vào Mê Cung Tân Nguy�
 Bị dồn vào chân tường, tên Ma Cà Rồng rút kiếm liễu đỏ kích hoạt Huyết Binh (San Arms) biến thành quái vật khổng lồ tương tự Ogre với sức mạnh ngang hàng Thượng Cấp Ma Cà Rồng để cầm chân Nive; Nive yêu cầu Rentt và Lorraine tức tốc quay về thị trấn Maalt tiêu diệt tên đầu sỏ Shumini.
 Về tới Maalt, Rentt bế Lorraine chạy vội tới quảng trường trung tâm đang ngập trong cảnh đổ nát và la liệt mạo hiểm giả trọng thương; Rentt dùng thần thuật cầm máu cho Hội Trưởng Wolf Hermann và nhận lệnh tiếp tục truy đuổi tên Ma Cà Rồng đầu sỏ.
 
+## 190
+Trên nóc một tòa nhà ở rìa ngoài Maalt, Isaac Hart đối mặt với người bạn chiến đấu Ma Cà Rồng cũ tên Shumini; Shumini lôi kéo Isaac quay lại phe "Đồng Minh" cùng thực hiện tham vọng tàn sát con người nhưng Isaac kiên quyết từ chối.
+Nhóm mạo hiểm giả dưới đất bắn tên và phóng ma pháp tấn công; khi Shumini toan tung đòn hủy diệt đám mạo hiểm giả, Isaac kịp thời dùng ma pháp Hỏa Bão hất chệch hướng ma pháp của gã vào tòa nhà đã sơ tán để cứu họ.
+Nhận thấy không thể thuyết phục được nhau, cả hai rút Huyết Binh (San Arms) giao chiến quyết liệt; Isaac siết chặt chuôi kiếm để vũ khí hút máu mình, biến thanh kiếm liễu bạc thành đại kiếm đỏ thẫm rồi dốc toàn lực áp đảo và ngăn cản Shumini gây hại thêm cho thị trấn.
+Trước sự bủa vây liên tục của đám mạo hiểm giả, Isaac đề nghị và Shumini đồng ý cùng di chuyển tới một chiến trường biệt lập khác để định đoạt sinh tử.
+
 
 
 

@@ -194,7 +194,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | reviewed |  |
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | reviewed |  |
 | 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | reviewed |  |
-| 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | todo |  |
+| 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | done |  |
 | 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | todo |  |
 | 192 |  | Chapter_192 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2) | todo |  |
 | 193 |  | Chapter_193 - Vol 8 Chapter 4 - Explanation and Resolution (1).txt | Vol 8 Chapter 4 - Explanation and Resolution (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -782,3 +783,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#188] Dịch khái niệm tôn giáo 'Heaven' (đoạn 36, 38) — tạm chọn 'Thiên Đường' đối lập với 'Địa Ngục' (Hell ở #123) (phương án khác: 'Thiên Giới'). Tạm dùng trong bản dịch: 'Thiên Đường'. → Giữ 'Thiên Đường' (đối xứng với 'Hell → Địa Ngục' đã chốt ở #123). (orchestrator)
 - [#189] Xưng hô Lorraine Vivie <-> Wolf Hermann: tạm dùng Lorraine xưng "tôi", gọi "ông / Hội Trưởng Wolf"; Wolf xưng "tôi", gọi "cô / Lorraine" (phù hợp quan hệ học giả/mạo hiểm giả trao đổi công việc với Hội Trưởng; phương án khác: Lorraine xưng "cháu" gọi "bác"). Tạm dùng: Lorraine xưng "tôi", gọi "ông / Hội Trưởng Wolf". → Giữ Lorraine xưng 'tôi' gọi 'ông / Hội Trưởng Wolf' và Wolf xưng 'tôi' gọi 'cô / Lorraine' (nhất quán với cách Rentt và Nive giao tiếp công việc với Hội Trưởng Wolf). (orchestrator)
 - [#187-188] Thống nhất chuẩn hóa tên gọi Laura Satii: Trong raw từ tập 8 đổi cách viết từ Laura sang Lola → Giữ thống nhất tên tiếng Việt là Laura / Laura Satii theo rules.md và characters.md, sửa toàn bộ chữ Lola ở chương 187 và 188 thành Laura. (orchestrator)
+- [#190] Tiêu đề 'Vol 8 Side Story 2 - Isaac Hart' — tạm chọn 'Ngoại truyện Tập 8 - Isaac Hart (2)' đồng bộ với #186 (phương án khác: 'Ngoại truyện 2 Tập 8 - Isaac Hart'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 8 - Isaac Hart (2)'. → Giữ 'Ngoại truyện Tập 8 - Isaac Hart (2)' đồng bộ với tiêu đề chương 186 ('Ngoại truyện Tập 8 - Isaac Hart (1)'). (orchestrator)
+- [#190] Dịch tên ma pháp 'Fire Storm' (đoạn 14) — tạm chọn 'Hỏa Bão' theo Hán Việt (phương án khác: 'Bão Lửa', 'Cuồng Lửa'). Tạm dùng trong bản dịch: 'Hỏa Bão'. → Giữ 'Hỏa Bão' (tên kỹ năng ma pháp Hán Việt ngắn gọn theo rules.md). (orchestrator)
+- [#190] Xưng hô bạn cũ Isaac Hart ↔ Shumini — tạm chọn cả hai xưng 'tôi' gọi 'cậu' (bạn chiến đấu cũ cùng thế hệ; phương án khác: 'tôi - anh' hoặc 'ta - ngươi'). Tạm dùng: cả hai xưng 'tôi' gọi 'cậu'. → Giữ cả hai xưng 'tôi' gọi 'cậu / Isaac / Shumini' (hai người bạn chiến đấu cũ cùng thế hệ gặp lại ở thế đối đầu nhưng vẫn nói chuyện như cố nhân). (orchestrator)

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T07:21:29Z",
+  "generatedAt": "2026-11-03T07:26:48Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3287,6 +3287,12 @@
           "title": "Chương 189: Tập 8 Chương 2 - Nơi Ma Cà Rồng Hiện Diện (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_189.md",
           "sha": "1e031323f991dd5ffb3dc6d2bf2055b7a0b46be7"
+        },
+        {
+          "number": 190,
+          "title": "Chương 190: Ngoại truyện Tập 8 - Isaac Hart (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_190.md",
+          "sha": "1182e36b9d95de006bcd648b5b617ff51fbeee38"
         }
       ]
     },
