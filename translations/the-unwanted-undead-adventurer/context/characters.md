@@ -96,6 +96,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elaine | Lady Elaine | Elaine | Con gái của Bá tước Robista, mắc chứng bệnh lạ đốm tím sẫm | #174 |
 | Dylas |  | Dylas | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt | #177 |
 | Liesse |  | Liesse | Nữ diễn viên chính của đoàn kịch lưu động đến Maalt | #179 |
+| Rota |  | Rota | Người phụ nữ trung niên xuất thân từ gia đình bình thường ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế | #180 |
 
 ## Chi tiết
 
@@ -648,4 +649,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, nữ diễn viên chính (leading actress) của đoàn kịch lưu động đến thị trấn Maalt.
 - Đặc điểm: Gương mặt kiều diễm rất hợp với sân khấu kịch, cử chỉ điệu bộ tao nhã và cuốn hút; tính cách thẳng thắn, bực bội vì chủ nhà hát ở Maalt hủy lịch diễn vào phút chót; thủ vai người phụ nữ bị ma pháp sư bắt cóc làm tế phẩm trong vở kịch.
 - Xuất hiện từ: #179.
+
+### Rota
+- Giới tính, vai trò: Nữ, người phụ nữ trung niên xuất thân từ một gia đình bình thường ở thị trấn Maalt.
+- Đặc điểm: Chân thành, cẩn trọng, biết điều, quý trọng kỷ niệm gia đình hơn tiền bạc; quen biết rộng rãi quanh Maalt bao gồm cả Lorraine Vivie; là cháu gái của một mạo hiểm giả quá cố.
+- Xuất hiện từ: #180.
 

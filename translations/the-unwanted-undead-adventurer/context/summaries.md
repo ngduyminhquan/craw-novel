@@ -1059,3 +1059,9 @@ Nhận lời ủy thác, Rentt hội ngộ cô bé nhân viên mới nọ trong 
 Rentt tình cờ gặp một đoàn kịch lưu động bị chủ nhà hát ở Maalt hủy lịch diễn đột ngột; nữ diễn viên chính Liesse và các thành viên đang bế tắc tìm nơi biểu diễn.
 Ông trưởng đoàn kịch ngỏ lời nhờ Rentt đóng thế vai ma pháp sư phản diện dùng hắc ma pháp do diễn viên cũ ngã bệnh, và Rentt mượn mảnh đất ngoại ô của Lorraine làm sân khấu đồng thời nhờ cô dùng ma pháp ảo ảnh tạo phông nền.
 Vở kịch thành công rực rỡ suốt bốn ngày công chiếu, hút hết khán giả của nhà hát địa phương; kết thúc buổi diễn, Rentt cùng Lorraine vui vẻ trò chuyện sau cánh gà và Lorraine dự định giới thiệu đoàn kịch tài năng này với người quen ở Đế Quốc.
+
+## 180
+Rentt nhận ủy thác dọn dẹp nhà cửa thừa kế và phân loại đồ đạc của một người ông quá cố từng là mạo hiểm giả từ thân chủ Rota; di chúc người ông cảnh báo có ma cụ nguy hiểm nhằm ngăn đám họ hàng dòm ngó tài sản.
+Trong lúc dọn dẹp, Rentt tình cờ phát hiện một khối ma cụ lập phương nhỏ cỡ lòng bàn tay kẹp giữa hai kệ sách và mang về nhờ học giả Lorraine Vivie giám định.
+Lorraine rót Ma Lực kích hoạt và nhận diện đây là ma cụ trình chiếu hình ảnh quý hiếm xuất xứ từ Đế Quốc chỉ có ở tầng sâu mê cung; ma cụ phóng ra luồng sáng tái hiện hình ảnh quá khứ ấm áp của người ông, cha mẹ và Rota lúc còn ẵm ngửa.
+Hôm sau Rentt mang ma cụ trả lại cho Rota; xúc động trước kỷ niệm gia đình vô giá, Rota kiên quyết giữ lại làm gia bảo không bao giờ bán và chân thành cảm ơn sự giúp đỡ tận tâm của Rentt.

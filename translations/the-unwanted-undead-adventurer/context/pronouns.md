@@ -76,6 +76,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elaine | Elaine / tiểu thư Elaine / cô bé | 174 | Con gái của Bá tước Curtis Nal Robista |
 | Dylas | Dylas / người thợ thủ công / anh ta | 177 | Thợ thủ công đến từ thị trấn Kikal, thân chủ của Rentt |
 | Liesse | Liesse / cô / nữ diễn viên | 179 | Nữ diễn viên chính của đoàn kịch lưu động |
+| Rota | Rota / người phụ nữ / chị ấy | 180 | Cư dân trung niên ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế |
 
 ## Giữa các nhân vật
 
@@ -310,3 +311,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hayden War | Lorraine Vivie | tôi | cô / Lorraine | 176 | Mạo hiểm giả Kim Cấp nói chuyện nể phục với nữ học giả ma thuật Ngân Cấp |
 | Rentt Faina | Dylas | tôi | anh / Dylas | 177 | Thân chủ và mạo hiểm giả nhận ủy thác, trò chuyện thân mật |
 | Dylas | Rentt Faina | tôi | cậu / Rentt | 177 | Thân chủ giao tiếp cởi mở, thân thiện với mạo hiểm giả |
+| Rentt Faina | Rota | tôi | chị / Rota | 180 | Mạo hiểm giả tiếp nhận ủy thác dọn dẹp nhà cửa thừa kế |
+| Rota | Rentt Faina | tôi | cậu / Rentt | 180 | Thân chủ trung niên nói chuyện thân thiện, áy náy với mạo hiểm giả |

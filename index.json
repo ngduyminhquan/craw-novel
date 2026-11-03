@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T05:37:26Z",
+  "generatedAt": "2026-11-03T05:42:15Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3227,6 +3227,12 @@
           "title": "Chương 179: Ngoại truyện Tập 7 - Thành Viên Đoàn Kịch Rentt",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_179.md",
           "sha": "cc94c69887ae5df54e3458c164e6ca5450a3a63a"
+        },
+        {
+          "number": 180,
+          "title": "Chương 180: Ngoại truyện Tập 7 - Quản Lý Gia Bảo",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_180.md",
+          "sha": "a04f8dc5bab7b8595e80bc1b61a314464105a270"
         }
       ]
     },
