@@ -344,3 +344,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Kikal |  | Kikal | địa danh | 177 | Thị trấn quê hương của thợ thủ công Dylas |
 | dark magic |  | hắc ma pháp | kỹ năng | 179 | Loại ma pháp thuộc tính bóng tối, tà thuật |
 | blood medicine | Blood medicine; Blood Medicine | huyết dược | vật phẩm | 185 | Thuốc đặc chế có thể ức chế ham muốn hút máu của Ma Cà Rồng (血液薬) |
+| Ally | Allies; an Ally; the Ally | Đồng Minh | tổ chức | 186 | Tổ chức hoặc thành viên thuộc phe Ma Cà Rồng chủ trương công khai sự tồn tại và đòi quyền bình đẳng như con người |

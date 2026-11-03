@@ -292,6 +292,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trịnh trọng, lễ độ, nhã nhặn, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
 - Quan hệ: Quản gia phục vụ một nhân vật cao quý bí ẩn; gặp Rentt tại ốc đảo Đầm Lầy Tarasque khi đi hái Hoa Long Huyết cho chủ nhân và muốn thuê Rentt nhận ủy thác định kỳ.
 - Trạng thái tính đến chương 68: Cùng Laura đón tiếp Rentt tại phòng tiếp khách; được tiết lộ là người hầu đắc lực bị quá tải công việc trông nom dinh thự kiêm thường xuyên vào Đầm Lầy Tarasque hái hoa, khiến Laura phải thuê Rentt làm thay để anh có thêm thời gian nghỉ ngơi.
+- Trạng thái tính đến chương 186: Tiết lộ từng là một kỵ sĩ phản nghịch mang thanh kiếm bạc khắc hình kỳ lân đâm xuyên rồng; có vụ cá cược giết Laura Latuule bằng không phải từ bỏ mục tiêu của mình; sau khi nghe cậu bé Ma Cà Rồng Làng Hathara kể về kẻ thuộc phe "Đồng Minh" hỏi thăm tên mình, Isaac mang kiếm rời dinh thự tiến vào thị trấn Maalt để giải quyết dứt điểm mối quan hệ và vụ cá cược theo lời dặn của Laura.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.

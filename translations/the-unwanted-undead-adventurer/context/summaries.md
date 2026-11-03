@@ -1095,5 +1095,12 @@ Wolf chia sẻ thông tin khoảng 50–100 Thi Quỷ rải đều khắp Maalt;
 Wolf quyết định lập đội đột kích gồm Rentt và Lorraine; mạo hiểm giả Kim Cấp Nive Maris bất ngờ xuất hiện xin nhập bọn và nhận định kẻ địch có thể đang dùng huyết dược do một tổ chức Ma Cà Rồng lớn cung cấp.
 Trong lúc Nive hào hứng trước viễn cảnh mở đại hội săn Ma Cà Rồng khiến Rentt ngán ngẩm, Thánh Nữ Myullias Raiza hớt hải chạy tới vừa thở vừa quát tháo Nive vì thói quen tự ý chạy biến đi mất.
 
+## 186
+Isaac Hart hồi tưởng về vụ cá cược với tiểu thư Laura Latuule trong quá khứ khi anh còn là một kỵ sĩ phản nghịch: nếu không thể giết được cô bé thì phải từ bỏ mục tiêu của mình.
+Tại căn phòng trong dinh thự Latuule, Isaac lấy lại thanh kiếm bạc khắc hình kỳ lân đâm xuyên rồng; anh nhớ lại việc cậu bé Ma Cà Rồng từ Làng Hathara kể rằng có người thuộc phe "Đồng Minh" mời cậu đến Maalt và dò hỏi về cái tên Isaac Hart.
+Nhận ra người quen cũ đang tìm mình và đoán được thân phận kẻ đó, Isaac quyết định mang kiếm rời dinh thự để đối diện với quá khứ.
+Tại cổng trước, Laura dặn dò anh không được mong chờ người khác định đoạt vụ cá cược thay mình và phải sống sót trở về tự tay kết thúc nó; xúc động trước lời dặn của nữ chủ nhân, Isaac cất bước tiến vào thị trấn Maalt.
+
+
 
 

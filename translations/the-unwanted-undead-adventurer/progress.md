@@ -190,7 +190,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | reviewed |  |
 | 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | done |  |
 | 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | done |  |
-| 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | todo |  |
+| 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | done |  |
 | 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | todo |  |
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | todo |  |
 | 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | todo |  |
@@ -775,3 +775,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#184] Xưng hô giữa người đàn ông bí ẩn ở Mê Cung Tân Nguyệt và nhóm trẻ em điều khiển Thi Quỷ — tạm chọn người đàn ông xưng 'ta' gọi 'các ngươi', lũ trẻ gọi 'ngài' xưng 'ạ' (phương án khác: người đàn ông xưng 'ta' gọi 'các con / các cháu'). Tạm dùng trong bản dịch: người đàn ông (ta - các ngươi), lũ trẻ (ngài - con / ạ). → Chốt người đàn ông (ta - các ngươi), lũ trẻ (con - ngài / ạ) (orchestrator)
 - [#185] Dịch thuật ngữ 'blood medicine' (loại thuốc đặc chế ức chế cơn khát máu của ma cà rồng) — tạm chọn 'huyết dược' (phương án khác: 'thuốc máu'). → Chốt 'huyết dược' (đồng bộ với 'ma dược' ở #173) (orchestrator)
 - [#185] Xưng hô Wolf Hermann ↔ Nive Maris — tạm chọn Wolf xưng 'tôi' gọi 'cô'; Nive xưng 'tôi' gọi 'ông / Hội Trưởng' (phương án khác: Nive xưng 'em' hoặc 'tôi' gọi 'ngài Hội Trưởng'). → Chốt Wolf (tôi - cô), Nive (tôi - ông / Hội Trưởng) (orchestrator)
+- [#186] Dịch tiêu đề chương 'Vol 8 Side Story 1 - Isaac Hart' — tạm chọn 'Ngoại truyện Tập 8 - Isaac Hart (1)' (đồng bộ cấu trúc 'Ngoại truyện Tập X - <Tên> (Y)' với các tập trước như #28, #112, #173; phương án khác: 'Ngoại truyện 1 Tập 8 - Isaac Hart'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 8 - Isaac Hart (1)'. → Chốt 'Ngoại truyện Tập 8 - Isaac Hart (1)' (orchestrator)
+- [#186] Dịch thuật ngữ/danh xưng 'Ally' (phe nhóm Ma Cà Rồng chủ trương công khai sự tồn tại và đòi quyền bình đẳng) — tạm chọn 'Đồng Minh' (phương án khác: 'Đồng Chí', 'Đồng Loại'). Tạm dùng trong bản dịch: 'Đồng Minh'. → Chốt 'Đồng Minh' (orchestrator)
