@@ -185,9 +185,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | reviewed |  |
 | 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | reviewed |  |
 | 180 |  | Chapter_180 - Vol 7 Bonus - Heirloom Management.txt | Vol 7 Bonus - Heirloom Management | reviewed |  |
-| 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | done |  |
-| 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | done |  |
-| 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | done |  |
+| 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | reviewed |  |
+| 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | reviewed |  |
+| 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | reviewed |  |
 | 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | todo |  |
 | 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | todo |  |
 | 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | todo |  |

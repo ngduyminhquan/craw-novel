@@ -72,3 +72,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#168) Tránh dịch thô thành ngữ "deadly serious" thành "nghiêm túc đến chết người" (chuyển ngữ tự nhiên thành "nghiêm túc đến tột độ / vô cùng nghiêm túc"); phân biệt rõ từ "novice" (kẻ mới nhập môn / người mới học) với "vague" (mơ hồ), tránh dịch nhầm "as a novice" thành "kẻ mơ hồ".
 - (#179) Từ "brutal" khi miêu tả sự khắt khe / dữ dội / ghê gớm của nghệ thuật biểu diễn hoặc diễn xuất: dịch là "ghê gớm", "khắc nghiệt", tránh dịch là "tàn nhẫn" (mang nghĩa độc ác, vô nhân đạo).
 - (#180) Cụm từ "projection magic item": dịch là "ma cụ trình chiếu hình ảnh" hoặc "ma cụ tạo ảnh chiếu", tránh ghép thừa chữ thành "tạo hình ảnh chiếu".
+- (#183) Thành ngữ "That was a close one": dịch là "Suýt nữa thì nguy" hoặc "Nguy hiểm trong gang tấc" (tránh dùng "suýt soát" vì "suýt soát" chỉ dùng để chỉ số lượng/mức độ xấp xỉ).

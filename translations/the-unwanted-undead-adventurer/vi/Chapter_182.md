@@ -124,7 +124,7 @@ Tôi vội vàng bước tới và đặt tay lên mình nhóc. Nhóc trông nh�
 
 Tôi nghĩ có lẽ sẽ an toàn nếu ép nhóc tỉnh dậy, nên tôi liền truyền Ma Lực và Khí Lực chảy vào cơ thể nhóc. Có vẻ như nhóc đang cạn kiệt cả hai thứ đó. Khoảng cách xa xôi trong chuyến đi của tôi có thể đã làm suy yếu nguồn cung cấp năng lượng mà tôi truyền cho nhóc. Tôi không thể biết chắc, nhưng tôi có thể hỏi khi nhóc tỉnh lại.
 
-"Chítt!" Edel kêu lên một tiếng rồi đột ngột mở mắt và bật dậy. Nhóc cảnh giác nhìn quanh quất cho tới khi nhìn thấy tôi mới an tâm thả lỏng. Hẳn phải có điều gì kỳ lạ đã xảy ra thì nhóc mới căng thẳng đến thế, nhưng tôi không rõ đó là chuyện gì.
+"Chít!" Edel kêu lên một tiếng rồi đột ngột mở mắt và bật dậy. Nhóc cảnh giác nhìn quanh quất cho tới khi nhìn thấy tôi mới an tâm thả lỏng. Hẳn phải có điều gì kỳ lạ đã xảy ra thì nhóc mới căng thẳng đến thế, nhưng tôi không rõ đó là chuyện gì.
 
 Edel đọc được suy nghĩ của tôi và truyền đạt lại những ý nghĩ của riêng mình qua các hình ảnh. Trong tâm trí, tôi có thể nhìn thấy sống động những gì nhóc từng chứng kiến. Những điều Edel có thể làm cứ ngày một nhiều thêm. Tôi không nhớ nhóc từng làm được điều này trước đây, nhưng tôi rất biết ơn vì sở hữu một quyến thuộc gương mẫu đến vậy.
 

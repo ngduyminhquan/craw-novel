@@ -114,7 +114,7 @@ Cách cô coi chúng chẳng khác nào loài côn trùng thật tồi tệ, nh�
 
 "Tôi hiểu rồi, thảo nào cô lại chạy biến đi như thế."
 
-"Phải đấy, gã ta đã ngụy trang thành một con người. Cực kỳ khó để phân biệt gã với người thật, nhưng Rentt đã tra hỏi khiến gã phải từ bỏ màn kịch của mình. Và khi gã định tấn công ai đó, tôi đã thử dùng thần thuật để thanh tẩy gã. Rốt cuộc thì gã đúng thật là một con Thi Quỷ. Suýt soát nguy hiểm thật đấy, đúng không hả Rentt?"
+"Phải đấy, gã ta đã ngụy trang thành một con người. Cực kỳ khó để phân biệt gã với người thật, nhưng Rentt đã tra hỏi khiến gã phải từ bỏ màn kịch của mình. Và khi gã định tấn công ai đó, tôi đã thử dùng thần thuật để thanh tẩy gã. Rốt cuộc thì gã đúng thật là một con Thi Quỷ. Suýt nữa thì nguy thật đấy, đúng không hả Rentt?"
 
 Hóa ra cô đã nghe lỏm cuộc trò chuyện của chúng tôi từ trước, nhưng tôi chẳng thể đoán nổi cô bắt đầu nghe từ lúc nào. Nếu cô quyết định dùng thần thuật vì thấy gã sắp sửa tấn công ai đó, thì tôi cho rằng hành động đó cũng chấp nhận được.
 
