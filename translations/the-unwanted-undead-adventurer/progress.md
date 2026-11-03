@@ -232,7 +232,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 225 |  | Chapter_225 - Vol 10 Side Story - Meanwhile, Back in Maalt.txt | Vol 10 Side Story - Meanwhile, Back in Maalt | reviewed |  |
 | 226 |  | Chapter_226 - Vol 10 Chapter 2 - To the Palace (1).txt | Vol 10 Chapter 2 - To the Palace (1) | done |  |
 | 227 |  | Chapter_227 - Vol 10 Chapter 2 - To the Palace (2).txt | Vol 10 Chapter 2 - To the Palace (2) | done |  |
-| 228 |  | Chapter_228 - Vol 10 Chapter 2 - To the Palace (3).txt | Vol 10 Chapter 2 - To the Palace (3) | todo |  |
+| 228 |  | Chapter_228 - Vol 10 Chapter 2 - To the Palace (3).txt | Vol 10 Chapter 2 - To the Palace (3) | done |  |
 | 229 |  | Chapter_229 - Vol 10 Chapter 2 - To the Palace (4).txt | Vol 10 Chapter 2 - To the Palace (4) | todo |  |
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | todo |  |
 | 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | todo |  |
@@ -858,3 +858,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#226] Dịch tên quán trọ 'Falcon’s Rest Inn' (gốc Nhật: 鷹の羽休め亭) — tạm chọn 'Quán Trọ Falcon's Rest' (phương án khác: 'Quán Trọ Chim Cắt Dừng Cánh', 'Quán Trọ Chim Cắt Nghỉ Chân'). → Giữ 'Quán Trọ Falcon's Rest' theo glossary.md và rules.md. (orchestrator)
 - [#227] Dịch chức vị 'viceroy' của Duke Lukas Bader (đoạn 36) — tạm chọn 'Quan Nhiếp Chính' theo bối cảnh triều đình Yaaran (phương án khác: 'Tổng Đốc', 'Nhiếp Chính Quan'). Tạm dùng trong bản dịch: 'Quan Nhiếp Chính'. → Giữ 'Quan Nhiếp Chính' phù hợp với bối cảnh triều đình Vương Quốc Yaaran. (orchestrator)
 - [#227] Dịch tước vị 'Marquess of Ancro' (đoạn 19) — tạm chọn 'Hầu tước xứ Ancro' (phương án khác: 'Hầu tước Ancro'). Tạm dùng trong bản dịch: 'Hầu tước xứ Ancro'. → Giữ 'Hầu tước xứ Ancro' (có thể dùng 'Hầu tước Ancro' khi gọi tắt). (orchestrator)
+- [#228] Dịch thuật ngữ 'holy item' (đoạn 54, 55, 59, 61, 73) — tạm chọn 'Thánh Cụ' đồng bộ cấu trúc Hán Việt với Thần Cụ và Nguyền Cụ trong glossary.md (phương án khác: 'thánh vật', 'thánh phẩm'). Tạm dùng trong bản dịch: 'Thánh Cụ'. → Giữ 'Thánh Cụ' để đồng bộ cấu trúc Hán Việt với Ma Cụ, Thần Cụ, Nguyền Cụ trong glossary.md. (orchestrator)
+- [#228] Dịch hai tín vật truyền ngôi 'crown of the kingdom' và 'scepter of the kingdom' (đoạn 89) — tạm dịch là danh từ chung 'vương miện của vương quốc' và 'quyền trượng của vương quốc' theo lối viết thường của raw (phương án khác: viết hoa trang trọng 'Vương Miện Vương Quốc' và 'Quyền Trượng Vương Quốc'). Tạm dùng trong bản dịch: 'vương miện của vương quốc' và 'quyền trượng của vương quốc'. → Giữ danh từ chung 'vương miện của vương quốc' và 'quyền trượng của vương quốc' đúng theo lối viết thường của raw. (orchestrator)

@@ -119,6 +119,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lukas Bader | Duke Lukas Bader | Lukas Bader | Công tước kiêm Quan Nhiếp Chính của Vương Quốc Yaaran | #227 |
 | Marcel Viesel | Marquess Marcel Viesel | Marcel Viesel | Hầu tước, người đứng đầu phe cánh Đệ Nhất Hoàng Tử tại Vương Quốc Yaaran | #227 |
 | Gisel Georgiou | Countess Gisel Georgiou | Gisel Georgiou | Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran | #227 |
+| Karsten Reshon Yaaran | Karsten | Karsten Reshon Yaaran | Quốc vương đương nhiệm của Vương Quốc Yaaran | #228 |
 
 ## Chi tiết
 
@@ -755,6 +756,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran.
 - Đặc điểm: Nữ quý tộc có tên tuổi và tầm ảnh hưởng trong triều đình (#227).
 - Xuất hiện từ: #227 (được nhắc đến).
+
+### Karsten Reshon Yaaran
+- Giới tính, vai trò: Nam, 65 tuổi, Quốc vương đương nhiệm của Vương Quốc Yaaran.
+- Đặc điểm: Vốn dĩ khỏe mạnh và nhiệt thành gánh vác việc triều chính, từng được kỳ vọng sẽ trị vì thêm 10 năm, nhưng gần đây sức khỏe suy sụp nghiêm trọng đe dọa tính mạng (#228).
+- Xuất hiện từ: #228 (được nhắc đến).
+
 
 
 

@@ -1343,6 +1343,13 @@ Nauss Ancro nồng nhiệt tới đón tiếp; Augurey khéo léo nói chuyện 
 Nauss tự hào chia sẻ về các tầng ma cụ phòng hộ tối tân của hoàng cung (khiến Rentt thầm tự trào về sự thiếu sót của thiết bị dò tìm quái vật đối với cơ thể Undead của mình).
 Nauss dẫn nhóm tới trước cửa phòng của Công Chúa Jia; chứng kiến phong thái điềm tĩnh của hai người bạn Ngân Cấp, Rentt tự nhủ sẽ sớm làm nhiều ủy thác để dự thi thăng hạng lên Ngân Cấp; công chúa cất tiếng mời vào và cả nhóm bước qua cánh cửa.
 
+## 228
+Nhóm Rentt, Lorraine và Augurey vào phòng diện kiến Nhị Công Chúa Jia Regina Yaaran; Lorraine và Augurey lần lượt tự giới thiệu thân phận một cách khéo léo và hòa nhã.
+Rentt tự xưng là mạo hiểm giả Đồng Cấp Rentt Vivie và giải thích về việc lập tổ đội tạm thời cũng như lý do đeo mặt nạ đầu lâu; anh phủ nhận mặt nạ là Nguyền Cụ và bộc lộ Thần Lực khiến Công Chúa Jia đặc biệt chú ý tới khái niệm "Thánh Cụ".
+Công Chúa Jia bất ngờ cúi đầu khẩn thiết cầu xin cả ba giúp đỡ; Augurey khéo léo gặng hỏi, và Jia tiết lộ bí mật triều đình rằng Quốc vương đương nhiệm Karsten Reshon Yaaran đang lâm trọng bệnh sắp qua đời.
+Jia nhắc tới hai bảo vật truyền ngôi là vương miện (Người Lùn chế tác) và quyền trượng (món quà từ High Elf ở Vùng Đất Cổ Thánh Thụ); Lorraine lập tức gặng hỏi về mối liên hệ giữa quyền trượng và bệnh tình của nhà vua.
+
+
 
 
 

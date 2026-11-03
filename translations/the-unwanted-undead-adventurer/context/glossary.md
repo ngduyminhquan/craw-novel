@@ -419,3 +419,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | servile monster | servile monsters | quái vật phục tùng | quái vật | 226 | Quái vật được người thuần hóa quái vật huấn luyện tuân theo mệnh lệnh (従魔) |
 | House Ancro | the House Ancro; the Ancro family | Gia tộc Ancro | tổ chức | 227 | Gia tộc quý tộc của Hầu tước Nauss Ancro tại Vương Quốc Yaaran (アンクロ家) |
 | Ascension Exam | Ascension Exams | kỳ thi thăng hạng | khác | 227 | Kỳ thi sát hạch thăng cấp bậc mạo hiểm giả nói chung (昇格試験) |
+| holy item | holy items | Thánh Cụ | vật phẩm | 228 | Phân loại ma cụ mang tính chất thần thánh, thanh khiết hoặc tạo tác của thánh thần/tinh linh (聖具) |

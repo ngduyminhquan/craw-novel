@@ -420,4 +420,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alize | Isaac Hart | em | anh / anh Isaac | 225 | Đứa trẻ mồ côi nói chuyện với quản gia quý tộc hướng dẫn ma pháp |
 | Augurey | Nauss Ancro | tôi | ngài / ngài Ancro | 227 | Mạo hiểm giả nói chuyện với Đội trưởng Cận Vệ Hoàng Gia kiêm Hầu tước Ancro (raw: Lord Ancro, m'lord) |
 | Nauss Ancro | Augurey | tôi | cậu / Augurey | 227 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện thân thiện với mạo hiểm giả quen biết |
+| Lorraine Vivie | Jia Regina Yaaran | tôi | Điện Hạ / người | 228 | Nữ học giả nói chuyện cung kính với Nhị Công Chúa |
+| Jia Regina Yaaran | Lorraine Vivie | tôi | cô / Tiểu thư Lorraine | 228 | Nhị Công Chúa nói chuyện hòa nhã với nữ học giả |
+| Augurey | Jia Regina Yaaran | tôi | Điện Hạ / người | 228 | Mạo hiểm giả nói chuyện cung kính, khéo léo với Nhị Công Chúa |
+| Jia Regina Yaaran | Augurey | tôi | anh / cậu | 228 | Nhị Công Chúa nói chuyện hòa nhã với mạo hiểm giả |
 
