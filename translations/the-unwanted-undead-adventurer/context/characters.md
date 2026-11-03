@@ -29,7 +29,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dario Costa | Dario; Mister Dario | Dario Costa | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt | #58 |
 | Unbert Abeiyu | Unbert | Unbert Abeiyu | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt | #59 |
 | Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
-| Viscount Lottnel | Lottnel | Tử tước Lottnel | Quý tộc cai quản thị trấn Maalt và các vùng phụ cận | #61 |
+| Viscount Lottnel | Lottnel; Viscount Lautner; Lautner | Tử tước Lottnel | Quý tộc cai quản thị trấn Maalt và các vùng phụ cận | #61 |
 | Laura Latuule | Laura | Laura Latuule | Đương chủ gia tộc Latuule, cô bé quý tộc sở hữu bộ sưu tập ma cụ đồ sộ | #62 |
 | Myullias Raiza | Myullias; Lady Myullias | Myullias Raiza | Nữ Thánh Nữ của Giáo Hội Lobelia mang năng lực trị liệu và thanh tẩy | #81 |
 | Gilly |  | Gilly | Tư tế giám sát thuộc Giáo Hội Lobelia đi cùng Myullias | #81 |
@@ -89,6 +89,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Hozei |  | Hozei | Nữ Thần Khế Ước được thờ phụng tại vương đô Vistelya | #159 |
 | Josee Meyer | Josee | Josee Meyer | Người đứng đầu đền thờ Hozei tại vương đô Vistelya, Thánh Giả trẻ tuổi | #162 |
 | Cami |  | Cami | Vợ của Capitan ở Làng Hathara | #165 |
+| Count Curtis Nal Robista | Curtis Nal Robista | Bá tước Curtis Nal Robista | Quý tộc đại lãnh chủ quyền thế gần vương đô Yaaran, sở hữu vùng đất trù phú | #173 |
+| Count Robista | Robista | Bá tước Robista | Quý tộc đại lãnh chủ quyền thế gần vương đô Yaaran (cách gọi tước hiệu) | #173 |
+| Curt |  | Curt | Tên giả Bá tước Robista tự xưng ở quán rượu Maalt | #173 |
+| Hayden War | Hayden | Hayden War | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista | #173 |
 
 ## Chi tiết
 
@@ -297,6 +301,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nam, quý tộc cai quản Maalt và các vùng phụ cận.
 - Quan hệ: Người thống trị Maalt, có tin đồn là có mối quan hệ sâu sắc với gia tộc Latuule.
 - Xuất hiện từ: #61 (được nhắc tên).
+- Trạng thái tính đến chương 173: Gia tộc cai quản vùng Maalt từ rất lâu đời nhưng ít tiếng tăm ở vương đô nên đứng ngoài các cuộc tranh giành quyền lực ở Yaaran; được Bá tước Robista nhận xét là người rất giản dị, chất phác; nhiệt tình đồng ý đón tiếp và xung phong dẫn đường cho Bá tước Robista khi tới Maalt.
+- Trạng thái tính đến chương 173: Gia tộc cai quản vùng Maalt từ rất lâu đời nhưng ít tiếng tăm ở vương đô nên đứng ngoài các cuộc tranh giành quyền lực ở Yaaran; được Bá tước Robista nhận xét là người rất giản dị, chất phác; nhiệt tình đồng ý đón tiếp và xung phong dẫn đường cho Bá tước Robista khi tới Maalt.
 
 ### Laura Latuule
 - Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12–13 tuổi, làn da trắng muốt, mái tóc màu vàng nhạt (hoặc sáng màu), đôi mắt xanh biếc; thường mặc váy ren đen trang nhã đắt tiền.
@@ -603,3 +609,24 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, vợ của Capitan ở Làng Hathara.
 - Đặc điểm: Thường được Capitan say rượu kể lại chuyện tình cảm thuở mới quen cho mọi người nghe; hiện tại đã có hai người con ở tuổi thiếu niên.
 - Xuất hiện từ: #165 (qua lời kể của Capitan và Rentt).
+
+### Count Curtis Nal Robista
+- Giới tính, vai trò: Nam, đứng tuổi (an older gentleman), Bá tước quyền thế bậc nhất Vương Quốc Yaaran, đại lãnh chủ sở hữu vùng đất trù phú gần vương đô.
+- Đặc điểm: Thân thiện, nhã nhặn, cởi mở, không phân biệt giai cấp hay trịch thượng; rất quan tâm đến ngành dược liệu vốn là nguồn thu nhập chính của lãnh địa; đến Maalt bí mật khảo sát thảo dược; thích trải nghiệm những điều mới lạ và đánh giá cao năng lực cùng sự khéo léo của mạo hiểm giả; tự xưng tên giả là "Curt" khi ở quán rượu.
+- Xuất hiện từ: #173.
+
+### Hayden War
+- Giới tính, vai trò: Nam, mạo hiểm giả Kim Cấp (Gold-class) hoạt động chủ yếu ở vương đô, được Bá tước Robista thuê làm hộ vệ kiêm cố vấn.
+- Đặc điểm: Dáng vẻ phong trần, tính tình xởi lởi, bộc trực, thích tự do tự tại; chiến lực cực mạnh (một mình tiêu diệt quái vật và sơn tặc bảo vệ xe ngựa), ứng biến nhanh nhạy; từng đến Maalt nhiều lần; rất thân thiện và tôn trọng Bá tước Robista như bạn bè nhưng vẫn giữ chừng mực hộ vệ; nhanh chóng nhận ra thực lực và sự đáng tin cậy của Rentt ở quán rượu.
+- Xuất hiện từ: #173.
+
+### Count Curtis Nal Robista
+- Giới tính, vai trò: Nam, đứng tuổi (an older gentleman), Bá tước quyền thế bậc nhất Vương Quốc Yaaran, đại lãnh chủ sở hữu vùng đất trù phú gần vương đô.
+- Đặc điểm: Thân thiện, nhã nhặn, cởi mở, không phân biệt giai cấp hay trịch thượng; rất quan tâm đến ngành dược liệu vốn là nguồn thu nhập chính của lãnh địa; đến Maalt bí mật khảo sát thảo dược; thích trải nghiệm những điều mới lạ và đánh giá cao năng lực cùng sự khéo léo của mạo hiểm giả; tự xưng tên giả là "Curt" khi ở quán rượu.
+- Xuất hiện từ: #173.
+
+### Hayden War
+- Giới tính, vai trò: Nam, mạo hiểm giả Kim Cấp (Gold-class) hoạt động chủ yếu ở vương đô, được Bá tước Robista thuê làm hộ vệ kiêm cố vấn.
+- Đặc điểm: Dáng vẻ phong trần, tính tình xởi lởi, bộc trực, thích tự do tự tại; chiến lực cực mạnh (một mình tiêu diệt quái vật và sơn tặc bảo vệ xe ngựa), ứng biến nhanh nhạy; từng đến Maalt nhiều lần; rất thân thiện và tôn trọng Bá tước Robista như bạn bè nhưng vẫn giữ chừng mực hộ vệ; nhanh chóng nhận ra thực lực và sự đáng tin cậy của Rentt ở quán rượu.
+- Xuất hiện từ: #173.
+

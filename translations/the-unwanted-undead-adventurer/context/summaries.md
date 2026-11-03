@@ -1021,3 +1021,9 @@ Nhờ ma pháp che chắn nhận thức của Lorraine và tốc độ bay phi t
 Tới nơi, cả hai bàng hoàng phát hiện Maalt chìm trong biển lửa; Lorraine chạy ra cổng chính hỗ trợ dập lửa, còn Rentt cảm nhận Edel vẫn còn sống và chạy tới Hội Mạo Hiểm Giả nắm bắt tình hình.
 Tại Hội, Hội Trưởng Wolf Hermann kéo Rentt vào phòng kín xác nhận anh không dính líu, rồi tiết lộ một nhóm Thi Quỷ ngụy trang bằng ma thuật đang phóng hỏa khắp thị trấn và rủ Rentt cùng tham gia truy quét.
 
+## 173
+Rentt nấu súp và cháo để lại cho Lorraine đang say nguội ở nhà rồi đến Hội Mạo Hiểm Giả, dự định không ra ngoài quá lâu.
+Trên cỗ xe ngựa tiến vào Maalt, Bá tước đại lãnh chủ Curtis Nal Robista cùng hộ vệ là mạo hiểm giả Kim Cấp Hayden War bàn về ngành dược liệu bùng nổ ở lãnh địa của bá tước và lý do ông nhờ Tử tước Lottnel cho khảo sát Maalt.
+Tại một quán rượu náo nhiệt ở Maalt, một vụ ẩu đả bất ngờ hất văng người lên bàn của bá tước; Hayden và Rentt (đang đeo mặt nạ) phối hợp giải quyết nhanh gọn sự việc.
+Nhận thấy đối phương là quý tộc đi vi hành, Rentt khéo léo biến sai sót thành cơ hội làm ăn, đề nghị nhận làm người dẫn đường thu thập dược liệu và ma dược tại địa phương với sự hỗ trợ của Lorraine.
+Được Hayden ra hiệu ngầm bảo đảm Rentt đáng tin cậy, Bá tước Robista quyết định dùng tên giả "Curt" để thuê Rentt và hai bên vui vẻ bắt tay hẹn ngày mốt bắt đầu chuyến đi.

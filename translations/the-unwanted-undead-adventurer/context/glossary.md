@@ -333,3 +333,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Lindblum | lindblum; Lindblums; lindblums | Lindblum | quái vật | 172 | Phân loài Á Long sao chổi có cánh lớn và tốc độ bay cực nhanh (リンドヴルム) |
 | divinity-mana-spirit fusion | Divinity-mana-spirit fusion | Thần Ma Khí Dung Hợp Thuật | kỹ năng | 168 | Kỹ thuật dung hợp đồng thời cả ba nguồn năng lượng Thần Lực, Ma Lực và Khí Lực |
 | evil god | evil gods | tà thần | khác | 169 | Thần linh tà ác đối nghịch với thiện thần, ban phát năng lượng thần lực tương tự thiện thần |
+| magic medicine |  | ma dược | vật phẩm | 173 | Dược phẩm đặc biệt chế tạo bằng ma thuật hoặc chứa ma lực |

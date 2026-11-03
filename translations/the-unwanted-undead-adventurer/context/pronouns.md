@@ -71,6 +71,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Josee Meyer | Josee / cô / vị nữ tư tế / cô gái | 162 | Người đứng đầu đền thờ Nữ Thần Khế Ước Hozei |
 | Cami | Cami / vợ của Capitan / người vợ | 165 | Vợ của Capitan ở Làng Hathara |
 
+| Count Curtis Nal Robista | Bá tước Curtis Nal Robista / Bá tước Robista / ông / ông ấy | 173 | Quý tộc đại lãnh chủ quyền thế gần vương đô Yaaran |
+| Hayden War | Hayden / Hayden War / anh / anh ấy | 173 | Mạo hiểm giả Kim Cấp đến từ vương đô, hộ vệ của Bá tước Robista |
+
 ## Giữa các nhân vật
 
 `A xưng` là A tự xưng khi nói với B; `A gọi B` là A gọi B bằng gì. Mỗi chiều một dòng. `B` = `*` nghĩa là A nói với mọi người nói chung.
@@ -290,3 +293,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Josee Meyer | Lorraine Vivie | tôi | cô / các vị | 162 | Người đứng đầu đền thờ nói chuyện với người lập khế ước |
 | Capitan | Ingo Faina | tôi | Ingo / anh / Trưởng Làng | 171 | Hai người gánh vác việc làng; Capitan nhờ cậy kỹ năng của Ingo |
 | Ingo Faina | Capitan | tôi | Capitan / anh | 171 | Hai người gánh vác việc làng |
+| Count Curtis Nal Robista | Hayden War | tôi | cậu / Hayden | 173 | Bá tước lớn tuổi nói chuyện thân thiện, coi như bạn bè với hộ vệ |
+| Hayden War | Count Curtis Nal Robista | tôi | ngài / Bá tước Robista / Curt | 173 | Mạo hiểm giả Kim Cấp nói chuyện suồng sã nhưng giữ phép tắc; gọi Curt khi ở quán rượu |
+| Rentt Faina | Hayden War | tôi | anh / Hayden | 173 | Hai mạo hiểm giả nói chuyện cởi mở, bình đẳng ở quán rượu |
+| Hayden War | Rentt Faina | tôi | anh / Rentt | 173 | Mạo hiểm giả Kim Cấp nói chuyện thoải mái với mạo hiểm giả địa phương |
+| Rentt Faina | Count Curtis Nal Robista | tôi | ngài / ông / Curt | 173 | Mạo hiểm giả nói chuyện lịch sự, tự nhiên với quý tộc giả danh khách bộ hành |
+| Count Curtis Nal Robista | Rentt Faina | tôi | cậu / Rentt | 173 | Quý tộc giả danh khách bộ hành nói chuyện hòa nhã với mạo hiểm giả nhận việc |
