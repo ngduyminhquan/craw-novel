@@ -1131,9 +1131,9 @@ Bị ba người bao vây và hay tin thuộc hạ ở Mê Cung Tân Nguyệt đ
 Thấy không thể lay chuyển Isaac, Shumini rút dao đen tự đâm vào ngực hiến tế bản thân; sau tiếng nổ lớn, gã biến dị thành quái vật khổng lồ hình dáng tương tự cá sấu mang khuôn mặt của chính mình ở bụng.
 Nhận định đối thủ quá nguy hiểm, Rentt, Lorraine và Isaac thống nhất tạm thời rút lui trong im lặng để báo cáo tình hình khẩn cấp cho Hội Mạo Hiểm Giả.
 
-
-
-
-
-
+## 192
+Rút khỏi đường hầm ngầm, nhóm Rentt hạ gục một vài con Goblin đi lạc rồi bàng hoàng chứng kiến quái vật cấp thấp như Goblin, Slime, Khô Lâu và Thi Quỷ đột ngột xuất hiện tràn lan khắp thị trấn Maalt.
+Họ tới Hội Mạo Hiểm Giả báo cáo cho Hội Trưởng Wolf Hermann; Wolf phái nhóm Rentt cùng Isaac (dưới danh nghĩa hội viên tạm thời) quay lại đường cống ngầm tiêu diệt quái vật Shumini.
+Trên đường quay lại, nhóm Rentt kinh hoàng chứng kiến cư dân Maalt bị biến dị thành quái vật; Rentt buộc phải xuống tay hạ sát một con quái vật để cứu một thai phụ và rơi vào tâm trạng tự vấn về nhân tính của bản thân.
+Tới ngôi nhà chứa lối vào đường hầm ngầm, cả ba bất ngờ gặp Laura Latuule; cô bé thi triển dị năng kỳ lạ giúp chia sẻ thị giác của một chú chim trên không, đồng thời nhắc tới việc Rentt cũng dùng cách tương tự với chuột quyến thuộc khiến anh sững sờ.
 

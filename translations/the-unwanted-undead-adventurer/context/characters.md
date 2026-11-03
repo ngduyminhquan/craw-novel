@@ -125,6 +125,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 179: Nhận lời giúp một đoàn kịch lưu động bị hủy lịch diễn đột ngột; mượn bãi đất ngoại ô của Lorraine làm sân khấu và nhờ cô dùng ma pháp ảo ảnh tạo phông nền; đóng thế vai ma pháp sư phản diện sử dụng hắc ma pháp suốt 4 ngày công chiếu thành công rực rỡ; Lorraine dự định giới thiệu đoàn kịch cho người quen ở Đế Quốc.
 - Trạng thái tính đến chương 180: Nhận ủy thác dọn dẹp nhà thừa kế từ thân chủ Rota; tìm thấy ma cụ lập phương quý hiếm kẹp giữa kệ sách và mang về nhờ Lorraine giám định; cùng Rota chứng kiến ma cụ phóng ra luồng sáng tái hiện hình ảnh gia đình quá khứ của người ông, cha mẹ và Rota thuở ẵm ngửa; vui mừng khi Rota quyết định giữ lại làm gia bảo thay vì bán đi.
 - Trạng thái tính đến chương 181: Nhận lời nhờ vả của Lorraine đến một cơ sở nghiên cứu tư nhân ở Maalt giải quyết sự cố rò rỉ khí độc hại; phát huy thể chất Undead miễn nhiễm khí độc và bọc Khí Lực lên kiếm tiêu diệt gọn bầy Slime mô phỏng hình dáng Goblin và Orc; hoảng hốt tháo chạy khi nữ học giả nọ hào hứng ngỏ ý muốn nghiên cứu cơ thể anh.
+- Trạng thái tính đến chương 192: Cùng Lorraine và Isaac tới Hội báo cáo cho Wolf Hermann và nhận lệnh đi tiêu diệt quái vật Shumini dưới cống ngầm; chứng kiến cư dân Maalt biến dị thành quái vật và buộc phải hạ sát một con quái vật để cứu một thai phụ, dẫn tới nỗi dằn vặt tự vấn về nhân tính; gặp Laura Latuule bên ngoài lối vào cống ngầm, được cô bé chia sẻ thị giác loài chim trên bầu trời và sững sờ khi cô nhắc tới việc anh mượn thị giác của chuột quyến thuộc.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -161,6 +162,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 179: Cho đoàn kịch lưu động mượn mảnh đất ngoại vi thị trấn làm sân khấu diễn kịch, dùng ma pháp ảo ảnh tạo phông nền sống động và trêu chọc khả năng diễn xuất của Rentt; dự định giới thiệu đoàn kịch cho người quen ở Đế Quốc.
 - Trạng thái tính đến chương 180: Giám định khối ma cụ lập phương Rentt mang về từ nhà ông của Rota; rót Ma Lực kích hoạt tính năng trình chiếu hình ảnh của ma cụ xuất xứ từ tầng sâu mê cung ở Đế Quốc.
 - Trạng thái tính đến chương 181: Được một người quen là học giả tại Maalt khóc lóc cầu cứu sau sự cố rò rỉ khí độc hại và quái vật biến đổi tại cơ sở nghiên cứu tư nhân; nhờ Rentt nhận việc vì biết rõ thể chất Undead của anh hoàn toàn miễn nhiễm với khí độc.
+- Trạng thái tính đến chương 192: Cùng Rentt và Isaac tới Hội Mạo Hiểm Giả báo cáo tình hình; tự trách bản thân đã chần chừ không kịp ra tay trước khiến Rentt phải hạ sát người dân biến dị thành quái vật; cùng Rentt và Isaac đặt tay lên tay Laura Latuule đón nhận liên kết thị giác loài chim.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -298,6 +300,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Quản gia phục vụ một nhân vật cao quý bí ẩn; gặp Rentt tại ốc đảo Đầm Lầy Tarasque khi đi hái Hoa Long Huyết cho chủ nhân và muốn thuê Rentt nhận ủy thác định kỳ.
 - Trạng thái tính đến chương 68: Cùng Laura đón tiếp Rentt tại phòng tiếp khách; được tiết lộ là người hầu đắc lực bị quá tải công việc trông nom dinh thự kiêm thường xuyên vào Đầm Lầy Tarasque hái hoa, khiến Laura phải thuê Rentt làm thay để anh có thêm thời gian nghỉ ngơi.
 - Trạng thái tính đến chương 186: Tiết lộ từng là một kỵ sĩ phản nghịch mang thanh kiếm bạc khắc hình kỳ lân đâm xuyên rồng; có vụ cá cược giết Laura Latuule bằng không phải từ bỏ mục tiêu của mình; sau khi nghe cậu bé Ma Cà Rồng Làng Hathara kể về kẻ thuộc phe "Đồng Minh" hỏi thăm tên mình, Isaac mang kiếm rời dinh thự tiến vào thị trấn Maalt để giải quyết dứt điểm mối quan hệ và vụ cá cược theo lời dặn của Laura. Tính đến chương 190, đối đầu với bạn chiến đấu cũ Shumini trên nóc nhà ở rìa Maalt; dùng ma pháp Hỏa Bão giải nguy cho nhóm mạo hiểm giả; kích hoạt Huyết Binh hút máu biến kiếm liễu thành đại kiếm đỏ thẫm để giao chiến toàn lực bảo vệ thị trấn và vì Laura Latuule; dẫn Shumini tới địa điểm biệt lập để quyết đấu sinh tử.
+- Trạng thái tính đến chương 192: Cùng nhóm Rentt tới Hội Mạo Hiểm Giả báo cáo và được Hội Trưởng Wolf tạm thời xem như hội viên để nhận nhiệm vụ tiêu diệt Shumini; an ủi, khẳng định tính chính nghĩa của Rentt sau khi anh hạ sát cư dân biến dị bảo vệ một thai phụ; nhanh chóng đặt tay lên tay chủ nhân Laura khi cô xuất hiện.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
@@ -338,6 +341,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 114: Vui vẻ chấp thuận tạm hoãn ủy thác thu hái Hoa Long Huyết định kỳ để Rentt về quê hương Hathara; giải thích việc nhận biết vị thần bảo hộ sẽ gia tăng uy lực ân phước Thần Lực; hào phóng cho Rentt mượn những thư tịch ghi chép bí thuật Thần Lực từ bộ sưu tập của gia tộc Latuule.
 - Trạng thái tính đến chương 115: Cho Rentt mượn sách thư viện về ba chủ đề (Thần Lực, thần tinh linh, chuyện dân gian Hathara); ngỏ ý mời bạn anh là Lorraine Vivie đến thư viện đọc sách và trò chuyện bên tách trà.
 - Trạng thái tính đến chương 169: Tiếp đón một cậu bé tộc Ma Cà Rồng trốn khỏi làng lên Maalt; trao thuốc Hoa Long Huyết giúp kiềm chế cơn khát, cảnh báo về Nive Maris và mời cậu tạm trú tại dinh thự; nhận định cậu bé không liên quan đến các vụ mạo hiểm giả mất tích gần đây.
+- Trạng thái tính đến chương 192: Xuất hiện bên ngoài ngôi nhà dẫn xuống cống ngầm trong bộ váy đen giữa lúc Maalt ngập trong quái vật; dùng dị năng bí ẩn (không phải Ma Lực, Khí Lực hay Thần Lực) kết nối và chia sẻ tầm nhìn của loài chim trên bầu trời bao quát toàn thị trấn cho nhóm Rentt, đồng thời tiết lộ bản thân biết việc Rentt có thể mượn thị giác của chuột quyến thuộc.
 
 ### Myullias Raiza
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.

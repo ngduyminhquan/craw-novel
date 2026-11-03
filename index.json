@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T07:33:31Z",
+  "generatedAt": "2026-11-03T07:39:44Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3299,6 +3299,12 @@
           "title": "Chương 191: Tập 8 Chương 3 - Ma Cà Rồng và Người Đàn Ông Tóc Bạc (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_191.md",
           "sha": "c50530da20fef902b076846ac19864a7b6cbdbf1"
+        },
+        {
+          "number": 192,
+          "title": "Chương 192: Tập 8 Chương 3 - Ma Cà Rồng và Người Đàn Ông Tóc Bạc (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_192.md",
+          "sha": "cdd8884a67a486c14080f0432d28d45321c33e78"
         }
       ]
     },
