@@ -1302,3 +1302,9 @@ Nửa đêm, vị chủ nhân lộ bản chất thật, lén lút lẻn vào ph�
 Rentt vạch trần lý do anh cất công đến đây là theo ủy thác của thân nhân những người mất tích quanh vùng, đồng thời tra hỏi số nạn nhân đã bị hại.
 Một màn đêm sâu thẳm lan tỏa nuốt chửng vị chủ nhân; trước khi bất tỉnh, nghe gã hỏi mình là thứ gì, Rentt chỉ đáp anh là một sinh vật cận kề bóng tối hơn cả gã.
 
+## 221
+Rentt và Lorraine đến quán trọ tại vương đô Vistelya khi màn đêm buông xuống, nhận chung một phòng hai giường và trò chuyện vui vẻ trước khi nghỉ ngơi.
+Sáng hôm sau, cả hai tới Hội Mạo Hiểm Giả Vistelya; Rentt vào quầy tiếp tân nộp tập tài liệu do Wolf gửi và được thông báo Tổng Hội Trưởng Jean Seebeck hiện đang đi vắng, hẹn năm ngày sau quay lại báo cáo trực tiếp.
+Có thêm năm ngày rảnh rỗi, Lorraine và Rentt thảo luận kế hoạch thực hiện các việc vặt: chuyển thư của Sơ Lillian tới Giáo Hội Đông Thiên, vào hoàng cung yết kiến Nhị Công Chúa Jia Regina Yaaran (cần tìm và rủ thêm Augurey), và mua quà cho Alize cùng Rina.
+Cả hai quyết định chọn việc đơn giản nhất là chuyển thư trước, rồi cùng rời sảnh Hội hướng về phía Giáo Hội Đông Thiên ở phía đông vương đô.
+

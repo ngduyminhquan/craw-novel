@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:15:17Z",
+  "generatedAt": "2026-11-03T13:22:54Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3473,6 +3473,12 @@
           "title": "Chương 220: Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_220.md",
           "sha": "4a3801a1886c2d8025f06c06eb216cbb4e10c3d3"
+        },
+        {
+          "number": 221,
+          "title": "Chương 221: Tập 10 Chương 1 - Vương Đô và Giáo Hội Đông Thiên (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_221.md",
+          "sha": "93bc41bac729093896a28cf4c93c446acb18a25e"
         }
       ]
     },

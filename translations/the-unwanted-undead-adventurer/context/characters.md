@@ -112,6 +112,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jad |  | Jad | Học sinh lớp học tư thục ở Maalt, tính tình hấp tấp hay gây rắc rối | #217 |
 | Gerge |  | Gerge | Học sinh lớp học tư thục ở Maalt, người chạy đi báo tin và tìm Lorraine | #217 |
 | Frahe |  | Frahe | Thiếu gia khoảng 10 tuổi thuộc gia tộc Muze ở Maalt, rất ngưỡng mộ Isaac | #218 |
+| Jean Seebeck |  | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran | #221 |
 
 ## Chi tiết
 
@@ -719,5 +720,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, cậu bé khoảng 10 tuổi, người thừa kế tương lai của gia tộc Muze ở Maalt.
 - Đặc điểm: Tính tình hiếu động, nhiều năng lượng nhưng cũng sớm có trăn trở về trách nhiệm gánh vác gia tộc tương lai; vô cùng ngưỡng mộ và xem Isaac là hình mẫu lý tưởng để noi theo (#218).
 - Xuất hiện từ: #218.
+
+### Jean Seebeck
+- Giới tính, vai trò: Nam, Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran tại vương đô Vistelya.
+- Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221).
+- Xuất hiện từ: #221.
 
 

@@ -225,7 +225,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | reviewed |  |
 | 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | reviewed |  |
 | 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | done |  |
-| 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | todo |  |
+| 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | done |  |
 | 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | todo |  |
 | 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | todo |  |
 | 224 |  | Chapter_224 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4) | todo |  |
@@ -346,9 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
-
-
 
 
 ## Đã quyết
@@ -850,3 +847,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#220] Dịch tiêu đề chương 'Vol 9 Bonus - The Manor During a Storm' — tạm chọn 'Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão' đồng bộ tiền tố với #217-#219 (phương án khác: 'Ngoại truyện Tập 9 - Dinh Thự Trong Giông Bão'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão'. → Dùng 'Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão' (orchestrator)
 - [#220] Xưng hô Rentt và chủ nhân dinh thự khi lộ mặt hung thủ — tạm chọn chủ nhân dinh thự xưng 'ta' gọi 'ngươi' (lúc đắc ý) và gọi 'ngươi' (lúc hoảng sợ); Rentt xưng 'tôi', gọi 'ông' theo phong thái điềm tĩnh (phương án khác: Rentt đổi sang gọi 'ngươi'). Tạm dùng trong bản dịch: Rentt xưng 'tôi', gọi 'ông'. → Dùng chủ nhân dinh thự xưng 'ta' - gọi 'ngươi' khi lộ mặt hung thủ, Rentt xưng 'tôi' - gọi 'ông' (orchestrator)
 - [#220] Đoạn 17 raw thiếu chủ ngữ ở 'said' (“This is where it ends for you,” said.) — tạm bổ sung chủ ngữ Rentt nói: '"Đến đây là chấm dứt với ông rồi," Rentt nói.' (phương án khác: 'anh nói'). Tạm dùng trong bản dịch: 'Rentt nói'. → Dùng 'Rentt nói' (orchestrator)
+- [#221] Dịch tên nhân vật mới 'Jean Seebeck' (Grand Guildmaster of Yaaran) — tạm giữ nguyên phiên âm phương Tây 'Jean Seebeck' và thêm vào characters.md theo rules.md (phương án khác: Jean Sebeck). Tạm dùng trong bản dịch: 'Jean Seebeck'. → Dùng 'Jean Seebeck' (orchestrator)
+- [#221] Dịch tước xưng 'Her Highness' trong việc cần làm ('visiting the palace for an audience with Her Highness') — tạm dịch là 'Điện Hạ' (chỉ Nhị Công Chúa Jia Regina Yaaran từng được cứu ở arc Vương Đô tập 7, đồng thời giải thích lý do cần rủ Augurey cùng vào hoàng cung). Tạm dùng trong bản dịch: 'Điện Hạ'. → Dùng 'Điện Hạ' (orchestrator)
+- [#221] Danh xưng kính cẩn 'Master Wolf' mà nữ tiếp tân Hội Vistelya gọi Wolf Hermann — tạm dịch là 'ngài Wolf' (thay vì thêm vào Alias của Wolf Hermann làm loãng context). Tạm dùng trong bản dịch: 'ngài Wolf'. → Dùng 'ngài Wolf' (orchestrator)
