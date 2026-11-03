@@ -19,7 +19,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yuris |  | Yuris | Tân binh mạo hiểm giả từng tham gia lớp hướng dẫn của Rentt ở Hội | #29 |
 | Raiz Dunner | Raiz | Raiz Dunner | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp tóc đỏ, đồng đội thi thực hành thăng hạng của Rentt | #33 |
 | Laura Satii | Lola; Lola Satii | Laura Satii | Thiếu nữ mạo hiểm giả ma pháp sư Thiết Cấp tóc nâu, đồng đội thi thực hành thăng hạng của Rentt | #33 |
-| Augurey |  | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt (tên thật: Augurey Ars, #155) | #42 |
+| Augurey | Mister Augurey | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt (tên thật: Augurey Ars, #155) | #42 |
 | Ryuntus |  | Ryuntus | Thanh niên Làng Todds, anh trai Amiris, lặn lội lên Maalt tìm mạo hiểm giả cứu em gái | #45 |
 | Amiris |  | Amiris | Thiếu nữ Làng Todds, em gái Ryuntus, người bị chọn làm tế vật cho Chúa Tể Hồ | #46 |
 | Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne; Sister Lillian Jean; Lillian Jean | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |

@@ -1331,5 +1331,11 @@ Trong lúc Rentt và Lorraine ở vương đô, hai đệ tử Rina và Alize t�
 Alize hoàn toàn không nhận ra thân phận Ma Cà Rồng và Undead của Isaac cùng người hầu trong dinh thự; Rina luyện thành công ma pháp rút ngắn Gie Vieros bắn trúng bia.
 Isaac giải thích cho Alize về ba cấp độ ma pháp (ngâm xướng, rút ngắn, vô ngôn) cùng tầm quan trọng của việc rèn luyện nền tảng ngâm xướng vững chắc như bài bản kiếm thuật, liên hệ tới cách tự học đặc thù của Rentt; Isaac tiếp tục trông chừng và hướng dẫn hai cô bé luyện tập.
 
+## 226
+Rentt và Lorraine tìm tới Quán Trọ Falcon's Rest tại vương đô để gặp mạo hiểm giả Ngân Cấp Augurey; Augurey vẫn ăn vận sặc sỡ bảy sắc cầu vồng và vui mừng đón tiếp vì sắp cạn sạch lý do thoái thác trước việc sứ giả hoàng cung liên tục tới thúc giục.
+Rentt tạ lỗi và kể lại tóm tắt các biến cố ở Maalt cùng việc được Ma Cà Rồng trợ giúp; để bù đắp việc Augurey phải chịu áp lực hối thúc từ hoàng gia, Rentt và Lorraine đồng ý nhận lời hỗ trợ anh thực hiện hàng loạt ủy thác tổ đội.
+Augurey lo ngại thiết bị dò tìm của hoàng cung sẽ phát hiện cơ thể Undead của Rentt; Lorraine khẳng định đã kiểm nghiệm các khí cụ đó và đang tiến hành kiểm chứng thực tế.
+Chú chuột Puchi Suri quyến thuộc do Rentt cho Lorraine mượn gõ cửa sổ phòng trọ; Rentt giao tiếp bằng tâm trí và xác nhận chú chuột đã lẻn trót lọt vào tận tẩm điện của nhà vua mà không hề bị thiết bị dò tìm phát hiện.
+
 
 

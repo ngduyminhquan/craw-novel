@@ -414,3 +414,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | silent magic |  | ma pháp vô ngôn | kỹ năng | 225 | Ma pháp thi triển không cần đọc câu chú |
 | earth magic |  | ma pháp thổ hệ | kỹ năng | 225 | Ma pháp thuộc tính thổ, điều khiển đất đá |
 | offensive magic |  | ma pháp tấn công | kỹ năng | 225 | Ma pháp dùng để gây sát thương và công kích đối phương |
+| Falcon’s Rest Inn | Falcon's Rest Inn; Falcon’s Rest; Falcon's Rest | Quán Trọ Falcon's Rest | địa danh | 226 | Quán trọ nơi Augurey lưu trú tại vương đô Vistelya (鷹の羽休め亭) |
+| goblin rider | goblin riders | kỵ sĩ Goblin | quái vật | 226 | Goblin biết thuần hóa và cưỡi quái vật (ゴブリンライダー) |
+| servile monster | servile monsters | quái vật phục tùng | quái vật | 226 | Quái vật được người thuần hóa quái vật huấn luyện tuân theo mệnh lệnh (従魔) |

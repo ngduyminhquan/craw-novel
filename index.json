@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T14:12:47Z",
+  "generatedAt": "2026-11-03T14:22:03Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3503,6 +3503,12 @@
           "title": "Chương 225: Ngoại truyện Tập 10 - Trong Lúc Đó, Tại Maalt",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_225.md",
           "sha": "8c7ec2132c469da56b8e94503d5a43deaf3c6c5a"
+        },
+        {
+          "number": 226,
+          "title": "Chương 226: Tập 10 Chương 2 - Tiến Vào Hoàng Cung (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_226.md",
+          "sha": "8537f3ee604dd4e081715db449dcf273562ed181"
         }
       ]
     },

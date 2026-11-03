@@ -90,3 +90,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#222) Xưng hô đối với Sơ Lillian: luôn dùng "Sơ Lillian / sơ ấy / sơ" trong cả đối thoại lẫn lời dẫn chuyện, tránh dùng "cô ấy" gây suồng sã và thiếu tự nhiên với nữ tu lớn tuổi.
 - (#224) Cụm từ "accumulative malice disease": raw dùng thay thế cho "Accumulative Miasma Disease", dịch thống nhất là "Bệnh Tích Tụ Chướng Khí" theo glossary.md (tránh dịch lệch thành "bệnh tích tụ ác ý").
 - (#224) Danh xưng giáo phẩm Abbess (Nữ Tu Viện Trưởng): là phẩm trật cao cấp tương đương Giám mục/Hồng y, giao tiếp trang trọng dùng "ngài / Nữ Tu Viện Trưởng / Mẹ Bề Trên", không gọi hạ cấp thành "sơ" (Sister); trong lời dẫn chuyện gọi "cô ấy / Nữ Tu Viện Trưởng Elza", tránh dùng "sơ ấy" gây nhầm lẫn với Sơ Lillian.
+- (#226) Tên quán trọ Falcon’s Rest Inn tại vương đô nơi Augurey lưu trú: dịch là "Quán Trọ Falcon's Rest" (nguyên tác 鷹の羽休め亭 - quán trọ chim ưng dừng cánh).
