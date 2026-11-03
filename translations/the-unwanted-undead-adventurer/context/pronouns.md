@@ -365,3 +365,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mimir | Fazira | con | bố | 198 | Con gái nói chuyện với bố |
 | Lorraine Vivie | Rina Rupaage | tôi | cô / Rina | 199 | Nữ học giả nói chuyện với nữ mạo hiểm giả hậu bối |
 | Rina Rupaage | Lorraine Vivie | tôi | chị / chị Lorraine | 199 | Nữ mạo hiểm giả hậu bối nói chuyện với nữ học giả |
+| Wolf Hermann | Rina Rupaage | tôi | cô bé / cô | 202 | Hội Trưởng dặn dò nữ mạo hiểm giả tân binh |
+| Rina Rupaage | Wolf Hermann | tôi | ngài / Hội Trưởng / Hội Trưởng Wolf | 202 | Nữ mạo hiểm giả tân binh lễ phép với Hội Trưởng |

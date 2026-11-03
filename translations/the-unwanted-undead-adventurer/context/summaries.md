@@ -1192,7 +1192,10 @@ Isaac tiết lộ về Long Tộc (chủng tộc thú nhân bậc cao dùng Khí
 Sau khi thử nghiệm xong, cả nhóm bàn bạc về tình hình mê cung dưới thành phố đã ngừng bành trướng nhờ Laura Latuule kiểm soát Lõi Mê Cung, cũng như việc giữ kín thân phận Chủ Nhân Mê Cung và Ma Cà Rồng của Laura trước Hội Mạo Hiểm Giả và Nive Maris.
 Nhóm thống nhất kịch bản báo cáo với Hội Trưởng Wolf: Rentt đã đánh bại Shumini khiến dị biến chấm dứt, còn Rina tình cờ được giải cứu sau khi bị bắt cóc; cả nhóm chuẩn bị cùng nhau đến Hội trình báo.
 
-
-
+## 202
+Rentt, Lorraine và Rina để Isaac ở lại dinh thự Latuule nhằm tránh chạm trán Nive Maris, rồi cùng nhau tiến về Hội Mạo Hiểm Giả để báo cáo tình hình.
+Trên đường đi, Rentt phát hiện cư dân Maalt không hề nhớ việc người thân hay đồng hương bị biến thành quái vật; Lorraine cho biết Isaac phỏng đoán Laura đã dùng quyền năng Chủ Nhân Mê Cung can thiệp chỉnh sửa nhẹ ký ức người dân để tránh bi kịch hoảng loạn.
+Đến Hội, cả nhóm chứng kiến cảnh tượng bận rộn ngập đầu của các nhân viên và gặp tiếp tân viên Sheila đang phờ phạc vì công việc thu mua Ma Tinh cùng trả thưởng.
+Được Sheila hướng dẫn, nhóm vào văn phòng Hội Trưởng Wolf; Rentt khẳng định Lorraine và Rina đều nắm rõ bí mật của anh để họ cùng ở lại, sau đó giao nộp viên Ma Tinh phẩm cấp tương đương Bạch Kim Cấp của Shumini làm bằng chứng hoàn thành tiêu diệt quái vật.
 
 

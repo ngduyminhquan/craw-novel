@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T10:00:02Z",
+  "generatedAt": "2026-11-03T10:06:08Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3359,6 +3359,12 @@
           "title": "Chương 201: Tập 9 Chương 1 - Đánh Giá Năng Lực (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_201.md",
           "sha": "9e84481b3261c146767484cb8bb952866b2557b2"
+        },
+        {
+          "number": 202,
+          "title": "Chương 202: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_202.md",
+          "sha": "e0679e715e852e367a77ec02efd658ea69455fb9"
         }
       ]
     },
