@@ -20,7 +20,7 @@ Nive vừa đưa ra vài lời khuyên thực sự thấu đáo. Tôi vốn đã
 
 Raiz và Laura dường như vô cùng xúc động trước những lời của Nive.
 
-"Em hiểu rồi. Vậy ra những gì anh Rentt nói là thật. Chúng ta hãy nỗ lực và tiếp tục cố gắng thôi, Laura."
+"Ra là vậy. Vậy ra những gì anh Rentt nói là thật. Chúng ta hãy nỗ lực và tiếp tục cố gắng thôi, Laura."
 
 "Ừm. Cậu đừng có gắng gượng quá sức đấy nhé."
 
@@ -124,7 +124,7 @@ Cô ta bắt đầu ghé sát lại gần hơn nữa. Cánh cửa phòng bệnh 
 
 Vẻ mặt của Lorraine thật khó mà diễn tả khi để mặc cho Rina lắc người mình.
 
-"Ổn, hay không ổn... tôi không nghĩ... mọi chuyện lại đúng như em nghĩ... đâu..."
+"Ổn, hay không ổn... tôi không nghĩ... mọi chuyện lại đúng như cô nghĩ... đâu..."
 
 "Vậy thì là gì chứ ạ?! Nam nữ kề sát nhau đến thế thì còn có thể làm gì được nữa cơ chứ?! Ngoại trừ, chị biết đấy, h-h-hô—"
 
@@ -144,7 +144,7 @@ Chẳng hiểu vì lý do gì, Rina lại có vẻ thất vọng, trong khi Lorr
 
 "Thôi nào, đừng làm khổ tôi thế chứ, Lorraine," tôi nài nỉ.
 
-Cô ấy châm chọc lại: "Ồ, nhưng vui mà. Rina am hiểu mấy chuyện này hơn tôi tưởng đấy. Em thất vọng sao?" cô hỏi Rina.
+Cô ấy châm chọc lại: "Ồ, nhưng vui mà. Rina am hiểu mấy chuyện này hơn tôi tưởng đấy. Cô thất vọng sao?" cô hỏi Rina.
 
 Rina đỏ mặt và lắp bắp: "K-K-Không có chuyện đó đâu ạ! Ưm, vậy hai người... không phải ở trong mối quan hệ kiểu đó sao ạ?"
 
@@ -156,13 +156,13 @@ Xét đến việc Rina vẫn tiếp tục gặng hỏi câu đó, cô bé thự
 
 "Cậu thật sự không biết đùa chút nào nhỉ, Rentt?" Nive lắc đầu nói. "Tôi dừng lại đây. Có quá nhiều người sẽ nổi giận với tôi nếu tôi còn lấn tới nữa. Cô Rina này, cô chỉ tình cờ bắt gặp đúng lúc tôi ghé sát lại gần cậu ấy thôi. Chẳng có gì khác ngoài chuyện đó đâu."
 
-"Ồ, em hiểu rồi..."
+"Ồ, ra là vậy..."
 
 Một lần nữa, tôi lại tự hỏi tại sao Rina trông thất vọng đến thế. Nếu tôi và Nive thực sự có mối quan hệ kiểu đó, những cảm xúc mâu thuẫn sẽ là vấn đề nhỏ nhặt nhất giữa chúng tôi. Đơn giản là chúng tôi quá đỗi khác biệt. Ít nhất thì đó là những gì tôi cảm thấy. Dù vậy, tôi chẳng thể nói rõ ràng cụ thể được. Cứ coi đó là trực giác của tôi đi.
 
 "Hơn nữa, nếu chúng tôi có mối quan hệ kiểu đó," Nive tiếp tục, "chúng tôi cũng chẳng làm chuyện ấy ở chốn thanh thiên bạch nhật đâu. Chúng tôi sẽ lén lút làm ở nơi riêng tư. Kể cả việc hôn nhau trước mặt cô Lorraine cũng là hơi quá giới hạn rồi."
 
-"Ồ, nghe cũng có lý ạ. Dù em nghe nói có vài người lại thích kiểu như thế," Rina trầm ngâm.
+"Ồ, nghe cũng có lý ạ. Dù tôi nghe nói có vài người lại thích kiểu như thế," Rina trầm ngâm.
 
 "Cô Rina, không phải là cô đang giả ngây giả ngô đấy chứ? Tôi bắt đầu nghi ngờ đúng là như thế rồi đấy."
 

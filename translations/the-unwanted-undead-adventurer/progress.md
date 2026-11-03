@@ -209,9 +209,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 202 |  | Chapter_202 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1) | reviewed |  |
 | 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | reviewed |  |
 | 204 |  | Chapter_204 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3) | reviewed |  |
-| 205 |  | Chapter_205 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4) | done |  |
-| 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | done |  |
-| 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | done |  |
+| 205 |  | Chapter_205 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4) | reviewed |  |
+| 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | reviewed |  |
+| 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | reviewed |  |
 | 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | todo |  |
 | 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | todo |  |
 | 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | todo |  |
@@ -816,3 +816,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#206] Thuật ngữ: "mana blade" (loại ma kiếm đặc biệt mạnh mẽ) tạm dịch là "Ma Lực Kiếm" để phân biệt với "ma kiếm" (magic sword). Đề xuất: giữ "Ma Lực Kiếm". → Giữ "Ma Lực Kiếm" để phân biệt với "Ma Kiếm" (magic sword), nhất quán với thuật ngữ "mana → ma lực" trong glossary.md. (orchestrator)
 - [#207] Dịch thuật ngữ 'demon lord' (đoạn 33) — tạm chọn 'Ma Vương' theo quy tắc Hán Việt ngắn gọn trong rules.md (phương án khác: 'Chúa Quỷ'). Tạm dùng trong bản dịch: 'Ma Vương'. → Giữ 'Ma Vương' theo quy tắc Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#207] Dịch quái vật / tinh linh thực vật 'dryad' (đoạn 55) — tạm giữ nguyên danh xưng quái vật thần thoại 'Dryad' theo tiền lệ Ent, Kelpie (phương án khác: 'Thụ Tinh', 'Mộc Tinh'). Tạm dùng trong bản dịch: 'Dryad'. → Giữ nguyên 'Dryad' theo tiền lệ Ent, Kelpie trong glossary.md. (orchestrator)
+- [#205] Xưng hô Nive Maris ↔ Rentt Faina: Nive gọi Rentt là 'cậu / Rentt / cậu Rentt', xưng 'tôi' → Chấp nhận, gộp bổ sung 'cậu' vào dòng Nive Maris -> Rentt Faina (chương 183) trong pronouns.md. (orchestrator)
+- [#205] Xưng hô Rina Rupaage ↔ Nive Maris: Rina gọi Nive là 'chị / chị Nive', luôn xưng 'tôi' với tiền bối → Chấp nhận, cập nhật dòng Rina Rupaage -> Nive Maris trong pronouns.md thành 'chị / chị Nive / cô / Nive'. (orchestrator)

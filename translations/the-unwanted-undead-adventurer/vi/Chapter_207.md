@@ -10,7 +10,7 @@ Rina đã thực hiện thành công Phân Liệt một phần, bước khởi �
 
 "Cô ấy ổn chứ?" tôi hỏi Isaac.
 
-"Mới đầu ai cũng như vậy cả thôi," anh trả lời. "Ngài chỉ cần làm nhiều lần rồi sẽ quen với cảm giác đó. Dù vậy, Phân Liệt của cô ấy khá khác thường."
+"Mới đầu ai cũng như vậy cả thôi," Isaac trả lời. "Chỉ cần làm nhiều lần rồi sẽ quen với cảm giác đó. Dù vậy, Phân Liệt của cô ấy khá khác thường."
 
 Isaac nhìn thứ vừa tách khỏi người Rina. Tôi và Lorraine cũng quay sang nhìn.
 
@@ -76,7 +76,7 @@ Tôi hiểu điều cô ấy muốn nói. Đâu phải Rina muốn trở thành 
 
 Sẽ là vấn đề nếu sau này Rina tìm ra cách để trở lại làm người. Chẳng có cách nào biết được liệu cô có giữ lại được những năng lực quái vật hiện tại hay không. Nhưng lúc này lo lắng về chuyện đó cũng vô ích. Có lẽ rồi sẽ đến ngày cô phải chọn lựa giữa sức mạnh hay chủng tộc của mình, nhưng nếu chuyện đó xảy ra, đó sẽ là quyết định của chính cô.
 
-"Sống như một Ma Cà Rồng cũng không đến nỗi tệ đâu," Isaac đáp lại. "Ngài sẽ không chết vì tuổi già. Tuy nhiên, có một nỗi chán chường khó tả khi bị bỏ lại phía sau lúc thời thế đổi thay, và việc nán lại ở một nơi duy nhất có thể gây ra nhiều rắc rối, nên tôi không dám chắc đây là một cuộc sống tuyệt vời. Câu trả lời cho những trăn trở đó không thể có trong một sớm một chiều, nên Rina sẽ phải tự mình giằng xé với chúng thôi."
+"Sống như một Ma Cà Rồng cũng không đến nỗi tệ đâu," Isaac đáp lại. "Người ta sẽ không chết vì tuổi già. Tuy nhiên, có một nỗi chán chường khó tả khi bị bỏ lại phía sau lúc thời thế đổi thay, và việc nán lại ở một nơi duy nhất có thể gây ra nhiều rắc rối, nên tôi không dám chắc đây là một cuộc sống tuyệt vời. Câu trả lời cho những trăn trở đó không thể có trong một sớm một chiều, nên Rina sẽ phải tự mình giằng xé với chúng thôi."
 
 Isaac ngập ngừng một lát rồi nói: "Giờ chúng ta hãy thử nghiệm Phân Liệt của ngài nhé, Rentt. Ngài đã sẵn sàng chưa?"
 
@@ -84,7 +84,7 @@ Tôi tự tin gật đầu. Tôi từng trải qua vô số tình huống quái 
 
 "Nếu ngài đã chuẩn bị tâm lý sẵn sàng rồi thì chúng ta bắt đầu thôi. Ngài cũng đã nghe cách làm khi tôi giải thích cho cô Rina rồi, giờ chỉ còn việc ngài tự mình thử nghiệm thôi. Ngài còn nhớ chứ?"
 
-Vâng, ngay cả một kẻ đãng trí như tôi thì vẫn nhớ được những gì mình vừa nghe mười phút trước. Trước tiên, tôi cần hình dung cơ thể mình như một tập hợp của các cá thể riêng biệt. Nếu tôi nhớ không lầm, tôi phải xem chúng như những thực thể độc lập, và rồi tôi sẽ có thể phân liệt. Để cho chắc, dù sao tôi cũng xác nhận lại các bước với Isaac.
+Phải rồi, ngay cả một kẻ đãng trí như tôi thì vẫn nhớ được những gì mình vừa nghe mười phút trước. Trước tiên, tôi cần hình dung cơ thể mình như một tập hợp của các cá thể riêng biệt. Nếu tôi nhớ không lầm, tôi phải xem chúng như những thực thể độc lập, và rồi tôi sẽ có thể phân liệt. Để cho chắc, dù sao tôi cũng xác nhận lại các bước với Isaac.
 
 "Vâng, hoàn toàn chính xác. Câu hỏi quan trọng là ngài hình dung bản thân mình sẽ phân liệt thành thứ gì. Vì ngài đã thấy đàn dơi của tôi và con mèo của cô Rina rồi, nên chuyện đó hẳn là đủ dễ dàng chứ ạ?"
 

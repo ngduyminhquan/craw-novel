@@ -58,7 +58,7 @@ Tôi cho rằng thế cũng chẳng sao. Tôi vốn đã biết tính cách củ
 
 "Có thứ này chẳng hạn." Isaac đột nhiên rút ra một thanh kiếm từ hư không.
 
-Anh ta chỉ vung tay một cái, nhưng mà... Rốt cuộc thứ đó từ đâu chui ra vậy? Đó là trò ảo thuật che mắt nào sao? Isaac là một nhà ảo thuật gia à? Không, đâu thể nào như thế được.
+Anh ta chỉ vung tay một cái, nhưng mà... Rốt cuộc thứ đó từ đâu chui ra vậy? Đó là trò ảo thuật che mắt nào sao? Isaac là một ảo thuật gia à? Không, đâu thể nào như thế được.
 
 Để nói cho rõ thì ảo thuật gia là những người có thể thực hiện những màn biểu diễn trông như ma thuật mà không cần dùng đến ma pháp. Họ thường làm được những việc mà ma pháp không làm nổi bằng chiêu trò nhanh tay này hay mẹo vặt khác. Một khi đã biết cơ chế đằng sau mánh khóe của họ thì mọi chuyện thường trở nên hụt hẫng. Nhưng vì xem rất giải trí nên có không ít ảo thuật gia đi lưu diễn khắp nơi như những nghệ sĩ giải trí.
 
@@ -134,6 +134,6 @@ Rina hào hứng gật đầu. "Vâng! Tôi sẽ cố gắng hết sức!"
 
 Trong giọng nói của cô ấy không hề có chút âu lo sợ hãi nào. Có vẻ như lá gan của cô ấy còn lớn hơn tôi nhiều. Nhưng điều đó vốn đã đúng kể từ ngày đầu tiên chúng tôi gặp nhau rồi. Hồi đó Rina cứ khăng khăng rằng tôi hoàn toàn có thể vào thành phố bất chấp vẻ ngoài gớm ghiếc của mình. Có lẽ làm vậy hơi liều lĩnh, nhưng đôi khi mạo hiểm giả lại cần thứ lòng dũng cảm như thế. Tất nhiên, quá liều lĩnh thì rất dễ toi mạng. Cơ mà xét đến việc giờ đây Rina rất khó bị giết chết, nên nhìn nhận tổng thể thì mọi chuyện hóa ra lại ổn cả.
 
-"Chúng ta thử xem sao nhé, cô Rina?" Isaac hỏi. Khi cô ấy gật đầu, anh hướng dẫn: "Hãy thử làm theo những gì tôi vừa giải thích lúc nãy. Trước tiên, hãy coi cơ thể của mình như một tập hợp của thứ gì đó khác. Sau đó, hãy hình dung đầu ngón tay của cô có thể tự chuyển động độc lập. Vì tiềm thức cũng tác động lên hình thái của cô, nên thứ xuất hiện từ đầu ngón tay có thể sẽ khác với những gì cô đã hình dung, nhưng đừng hoảng sợ, hãy cứ thử xem thực thể mới đó như một phần của chính mình."
+"Chúng ta thử xem sao nhé, cô Rina?" Isaac hỏi. Khi cô ấy gật đầu, Isaac hướng dẫn: "Hãy thử làm theo những gì tôi vừa giải thích lúc nãy. Trước tiên, hãy coi cơ thể của mình như một tập hợp của thứ gì đó khác. Sau đó, hãy hình dung đầu ngón tay của cô có thể tự chuyển động độc lập. Vì tiềm thức cũng tác động lên hình thái của cô, nên thứ xuất hiện từ đầu ngón tay có thể sẽ khác với những gì cô đã hình dung, nhưng đừng hoảng sợ, hãy cứ thử xem thực thể mới đó như một phần của chính mình."
 
 Rina hẳn đang thỏa sức chắp cánh cho trí tưởng tượng của mình khi lắng nghe Isaac dặn dò. Cô nhắm nghiền mắt lại và tập trung cao độ. Rồi chỉ vài khoảnh khắc sau, điều đó đã xảy ra.

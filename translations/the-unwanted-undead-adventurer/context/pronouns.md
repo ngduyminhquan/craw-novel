@@ -319,7 +319,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Rota | tôi | chị / Rota | 180 | Mạo hiểm giả tiếp nhận ủy thác dọn dẹp nhà cửa thừa kế |
 | Rota | Rentt Faina | tôi | cậu / Rentt | 180 | Thân chủ trung niên nói chuyện thân thiện, áy náy với mạo hiểm giả |
 | Rentt Faina | Nive Maris | tôi | Nive / cô | 183 | Nive bảo cứ gọi thẳng tên như đồng nghiệp mạo hiểm giả |
-| Nive Maris | Rentt Faina | tôi | Rentt / cậu Rentt | 183 | Mạo hiểm giả Kim Cấp gọi thẳng tên Rentt, rủ hợp tác tác chiến |
+| Nive Maris | Rentt Faina | tôi | cậu / Rentt / cậu Rentt | 183 | Mạo hiểm giả Kim Cấp gọi thẳng tên Rentt, rủ hợp tác tác chiến |
 | Nive Maris | Myullias Raiza | tôi | Thánh Nữ Myullias / cô | 183 | Mạo hiểm giả Kim Cấp châm chọc Thánh Nữ đi cùng |
 | Myullias Raiza | Nive Maris | tôi | Nive / cô | 183 | Thánh Nữ gọi thẳng tên mạo hiểm giả Kim Cấp đi cùng |
 | Wolf Hermann | Tita Well | tôi | cậu | 184 | Hội Trưởng gặng hỏi mạo hiểm giả bị biến thành Thi Quỷ |
@@ -368,7 +368,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Wolf Hermann | Rina Rupaage | tôi | cô bé / cô | 202 | Hội Trưởng dặn dò nữ mạo hiểm giả tân binh |
 | Rina Rupaage | Wolf Hermann | tôi | ngài / Hội Trưởng / Hội Trưởng Wolf | 202 | Nữ mạo hiểm giả tân binh lễ phép với Hội Trưởng |
 | Nive Maris | Rina Rupaage | tôi | cô Rina | 204 | Mạo hiểm giả Kim Cấp nói chuyện xởi lởi với nữ tân binh (raw: Miss Rina) |
-| Rina Rupaage | Nive Maris | tôi | cô / Nive | 204 | Nữ tân binh bối rối khi tiếp chuyện mạo hiểm giả Kim Cấp |
+| Rina Rupaage | Nive Maris | tôi | chị / chị Nive / cô / Nive | 204 | Nữ tân binh bối rối khi tiếp chuyện mạo hiểm giả Kim Cấp |
 | Rina Rupaage | Raiz Dunner | mình / tôi | cậu / Raiz | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
 | Raiz Dunner | Rina Rupaage | tụi mình / tôi | cậu / Rina | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
 | Rina Rupaage | Laura Satii | mình / tôi | cậu / Laura | 204 | Đồng đội cùng tổ đội tân binh thân thiết |
