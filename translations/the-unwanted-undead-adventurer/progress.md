@@ -230,9 +230,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | reviewed |  |
 | 224 |  | Chapter_224 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4) | reviewed |  |
 | 225 |  | Chapter_225 - Vol 10 Side Story - Meanwhile, Back in Maalt.txt | Vol 10 Side Story - Meanwhile, Back in Maalt | reviewed |  |
-| 226 |  | Chapter_226 - Vol 10 Chapter 2 - To the Palace (1).txt | Vol 10 Chapter 2 - To the Palace (1) | done |  |
-| 227 |  | Chapter_227 - Vol 10 Chapter 2 - To the Palace (2).txt | Vol 10 Chapter 2 - To the Palace (2) | done |  |
-| 228 |  | Chapter_228 - Vol 10 Chapter 2 - To the Palace (3).txt | Vol 10 Chapter 2 - To the Palace (3) | done |  |
+| 226 |  | Chapter_226 - Vol 10 Chapter 2 - To the Palace (1).txt | Vol 10 Chapter 2 - To the Palace (1) | reviewed |  |
+| 227 |  | Chapter_227 - Vol 10 Chapter 2 - To the Palace (2).txt | Vol 10 Chapter 2 - To the Palace (2) | reviewed |  |
+| 228 |  | Chapter_228 - Vol 10 Chapter 2 - To the Palace (3).txt | Vol 10 Chapter 2 - To the Palace (3) | reviewed |  |
 | 229 |  | Chapter_229 - Vol 10 Chapter 2 - To the Palace (4).txt | Vol 10 Chapter 2 - To the Palace (4) | todo |  |
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | todo |  |
 | 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | todo |  |

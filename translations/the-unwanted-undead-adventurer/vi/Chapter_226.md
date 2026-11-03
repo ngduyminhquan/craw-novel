@@ -90,7 +90,7 @@ Augurey sau đó quay sang Lorraine, hỏi như thể đó là điều hiển nh
 
 "Tôi cứ có cảm giác như mình vừa bị lột sạch túi ấy," tôi lẩm bẩm.
 
-"Chuyện nào ra chuyện nấy chứ. Hoàn toàn là hai chuyện khác nhau mà. Vấn đề nằm ở chỗ diện kiến hoàng cung kìa. Cho dù chúng ta có thể dễ dàng vào cổng nhờ tấm huân chương cậu được trao, liệu cậu có chắc là cái... ừm... cơ thể đặc biệt của cậu sẽ không sao chứ? Hoàng cung sở hữu vài thiết bị dò tìm lợi hại lắm đấy."
+"Chuyện nào ra chuyện nấy chứ. Hoàn toàn là hai chuyện khác nhau mà. Vấn đề nằm ở chỗ diện kiến hoàng cung kìa. Cho dù chúng ta có thể dễ dàng vào cổng nhờ tấm huy chương cậu được trao, liệu cậu có chắc là cái... ừm... cơ thể đặc biệt của cậu sẽ không sao chứ? Hoàng cung sở hữu vài thiết bị dò tìm lợi hại lắm đấy."
 
 Augurey cất giọng với vẻ thực sự lo lắng, nhưng chúng tôi đã giải quyết ổn thỏa vấn đề đó từ trước rồi.
 

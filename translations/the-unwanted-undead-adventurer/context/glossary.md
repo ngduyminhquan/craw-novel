@@ -93,7 +93,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Fusion Art | Fusion Arts; Fusion-Arts; fusion arts | Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp các nguồn năng lượng khác nhau (融合術) |
 | Todds Village |  | Làng Todds | địa danh | 45 | Ngôi làng nhỏ ở phía đông Maalt gần Hồ Ruiess |
 | Ruiess Lake |  | Hồ Ruiess | địa danh | 45 | Hồ nước nhỏ gần Làng Todds |
-| Lord of the Lake | Lord | Chúa Tể Hồ | quái vật | 45 | Sinh vật ngụ dưới đáy Hồ Ruiess được dân làng Todds dâng tế vật (湖の主) |
+| Lord of the Lake |  | Chúa Tể Hồ | quái vật | 45 | Sinh vật ngụ dưới đáy Hồ Ruiess được dân làng Todds dâng tế vật (湖の主) |
 | priestess-saint | priestess-saints; Priestess-Saint | Thánh Nữ | danh hiệu | 11 | Nữ tư tế sở hữu Thần Lực dồi dào được giáo hội tôn làm thánh (聖女). Phân biệt với Saint → Thánh Giả (聖者). Manager chốt, thay cho "nữ tư tế Thánh Giả" |
 | Kelpie | Kelpies | Kelpie | quái vật | 46 | Quái vật dạng ngựa có vảy sống dưới hồ nước ngọt (ケルピー) |
 | Festival of Offering | sacrificial festival | Lễ Hội Dâng Tế | khác | 46 | Tập tục dâng thiếu nữ cho Chúa Tể Hồ ở Làng Todds (奉納祭) |
@@ -414,7 +414,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | silent magic |  | ma pháp vô ngôn | kỹ năng | 225 | Ma pháp thi triển không cần đọc câu chú |
 | earth magic |  | ma pháp thổ hệ | kỹ năng | 225 | Ma pháp thuộc tính thổ, điều khiển đất đá |
 | offensive magic |  | ma pháp tấn công | kỹ năng | 225 | Ma pháp dùng để gây sát thương và công kích đối phương |
-| Falcon’s Rest Inn | Falcon's Rest Inn; Falcon’s Rest; Falcon's Rest | Quán Trọ Falcon's Rest | địa danh | 226 | Quán trọ nơi Augurey lưu trú tại vương đô Vistelya (鷹の羽休め亭) |
+| Falcon’s Rest Inn | Falcon’s Rest; Falcon's Rest | Quán Trọ Falcon's Rest | địa danh | 226 | Quán trọ nơi Augurey lưu trú tại vương đô Vistelya (鷹の羽休め亭) |
 | goblin rider | goblin riders | kỵ sĩ Goblin | quái vật | 226 | Goblin biết thuần hóa và cưỡi quái vật (ゴブリンライダー) |
 | servile monster | servile monsters | quái vật phục tùng | quái vật | 226 | Quái vật được người thuần hóa quái vật huấn luyện tuân theo mệnh lệnh (従魔) |
 | House Ancro | the House Ancro; the Ancro family | Gia tộc Ancro | tổ chức | 227 | Gia tộc quý tộc của Hầu tước Nauss Ancro tại Vương Quốc Yaaran (アンクロ家) |

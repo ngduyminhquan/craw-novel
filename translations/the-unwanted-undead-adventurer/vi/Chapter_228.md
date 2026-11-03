@@ -48,7 +48,7 @@ Bất chấp mọi nỗ lực của mình, tôi vẫn phải hứng chịu một
 
 "Xin phép để tôi giải thích rõ hơn, thưa Điện Hạ. Trước hết, về lý do tại sao một mạo hiểm giả Đồng Cấp như tôi lại lập tổ đội cùng hai mạo hiểm giả Ngân Cấp..."
 
-"Vâng?"
+"Ừ?"
 
 "Cả ba chúng tôi trước đây đều chủ yếu hoạt động tại thành phố Maalt. Hơn nữa, tôi quen biết Lorraine từ khi cả hai chúng tôi còn là những mạo hiểm giả mới vào nghề, và tôi gặp Augurey khi bản thân anh ấy cũng mới chỉ là Đồng Cấp. Vào thời điểm lần đầu chạm mặt, tất cả chúng tôi đều là bạn đồng cấp của nhau."
 
@@ -150,7 +150,7 @@ Augurey đã cố gắng xoa dịu bầu không khí căng thẳng bằng chút 
 
 Augurey khéo léo tiếp tục dẫn dắt cuộc trò chuyện. Anh ta nói đúng, và chính vào khoảng thời gian đó, cuộc hội thoại, hay đúng hơn là bầu không khí, đã rẽ sang một hướng bất thường.
 
-"Tôi e rằng đây sẽ là một câu chuyện tương đối dài. Liệu các bạn có sẵn lòng lắng nghe tôi kể lại không?" công chúa hỏi.
+"Tôi e rằng đây sẽ là một câu chuyện tương đối dài. Liệu các vị có sẵn lòng lắng nghe tôi kể lại không?" công chúa hỏi.
 
 Cả ba chúng tôi không chút chần chừ mà gật đầu ngay lập tức. Đằng nào chúng tôi cũng chẳng có sự lựa chọn nào khác, và việc không lắng nghe lúc này có thể sẽ chuốc lấy rắc rối về sau. Người ta có thể lập luận rằng lắng nghe mới là khởi đầu của rắc rối, nhưng một khi đã đứng ở chốn này, chúng tôi chẳng còn cách nào khác ngoài việc tìm hiểu xem rốt cuộc chuyện gì đang xảy ra.
 

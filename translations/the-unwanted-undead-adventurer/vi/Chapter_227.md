@@ -96,9 +96,9 @@ Nauss mỉm cười với Augurey rồi đáp: "Quả thực, cậu nói rất �
 
 Đúng là tôi không phải tội phạm, và tôi chẳng hề có ý định hãm hại bất kỳ ai trong hoàng cung. Tôi không biết họ còn thiết lập những biện pháp dò tìm nào khác, nhưng vì chúng không phản ứng với tôi, điều đó đồng nghĩa với việc Nauss đã nói đúng. Còn về phần dò tìm ma vật, chẳng hiểu vì lý do gì, nó chỉ đơn giản là không hề phản ứng với tôi.
 
-Đó là vấn đề lớn nhất, nhưng chúng tôi đâu thể mở miệng bảo rằng: "Này, tôi là ma vật đấy, thế mà thiết bị của các người lại chẳng có chút phản ứng nào. Các người nên đổi nhà cung cấp thiết bị đi thôi! Nếu chốt đơn ngay bây giờ, đại nhà giả kim Lorraine Vivie sẽ rất sẵn lòng cung cấp cho các người một bộ thiết bị ma pháp dò tìm ma vật được chế tạo theo nguyên lý hoàn toàn mới với giá chỉ năm đồng xu bạch kim! Chỉ năm đồng xu bạch kim thôi, quá hời đúng không nào! Và nếu các người mua ngay lúc này..."
+Đó là vấn đề lớn nhất, nhưng chúng tôi đâu thể mở miệng bảo rằng: "Này, tôi là ma vật đấy, thế mà thiết bị của các người lại chẳng có chút phản ứng nào. Các người nên đổi nhà cung cấp thiết bị đi thôi! Nếu đặt mua ngay bây giờ, đại nhà giả kim Lorraine Vivie sẽ rất sẵn lòng cung cấp cho các người một bộ thiết bị ma pháp dò tìm ma vật được chế tạo theo nguyên lý hoàn toàn mới với giá chỉ năm đồng xu bạch kim! Chỉ năm đồng xu bạch kim thôi, quá hời đúng không nào! Và nếu các người mua ngay lúc này..."
 
-Chúng tôi đâu phải mấy kẻ bán hàng rong chèo kéo khách ngoài phố. Ý tôi là, trước đây tôi từng vài lần mắc bẫy những chiêu trò chào hàng kiểu đó và rốt cuộc lại mua phải những thứ không cần thiết. Dù vậy, không có món nào là trò lừa đảo lớn cả. Nó giống như việc nhận ra "giá giảm giá" thực chất chỉ là giá thông thường, hay món đồ nhỏ hơn một chút so với bình thường—toàn là những chuyện cỏn con vụn vặt như thế.
+Chúng tôi đâu phải mấy kẻ bán hàng rong chèo kéo khách ngoài phố. Ý tôi là, trước đây tôi từng vài lần mắc bẫy những chiêu trò chào hàng kiểu đó và rốt cuộc lại mua phải những thứ không cần thiết. Dù vậy, không có món nào là trò lừa đảo lớn cả. Nó giống như việc nhận ra "giá khuyến mãi" thực chất chỉ là giá thông thường, hay món đồ nhỏ hơn một chút so với bình thường—toàn là những chuyện cỏn con vụn vặt như thế.
 
 "Rất đúng ạ. Giờ thì, thưa ngài Ancro, nếu được, hôm nay chúng tôi chỉ muốn bày tỏ lòng kính trọng với ngài rồi xin phép cáo lui thôi ạ," Augurey thản nhiên nói.
 
@@ -106,11 +106,11 @@ Về cơ bản anh ta đang hỏi xem liệu chúng tôi có thể rời đi đ�
 
 "Đâu thể như vậy được. Chúng tôi vẫn chưa kịp cảm tạ các vị đàng hoàng mà. Hơn nữa Điện Hạ vẫn hằng mong mỏi được gặp lại ba người. Bản thân tôi, Nauss Ancro, chắc chắn sẽ chẳng còn mặt mũi nào tiếp tục mang tước vị hầu tước nếu cứ thế để các vị rời đi."
 
-Chà, thế là tiêu tan hy vọng đó rồi. Dĩ nhiên, đây luôn là kết cục có khả năng xảy ra nhất, và Augurey cũng đâu có xin phép cáo lui với kỳ vọng rằng chúng tôi sẽ được cho đi, nhưng Augurey thực sự rất giỏi trong việc giăng ra những cái bẫy đối thoại kiểu này. Về cơ bản anh ta có thể gài bẫy khiến bạn đồng ý cho phép điều gì đó trước khi bạn kịp suy nghĩ thấu đáo. Dù vậy, rõ ràng chiêu đó chẳng thể phát huy tác dụng với một quý tộc vốn đã quen đối phó với những màn chơi chữ tinh vi như thế mỗi ngày. Chết tiệt thật. Chiêu đó hiệu quả đến thế với mấy gã mạo hiểm giả đơn thuần mà!
+Chà, thế là tiêu tan hy vọng đó rồi. Dĩ nhiên, đây luôn là kết cục có khả năng xảy ra nhất, và Augurey cũng đâu có xin phép cáo lui với kỳ vọng rằng chúng tôi sẽ được cho đi, nhưng Augurey thực sự rất giỏi trong việc giăng ra những cái bẫy đối thoại kiểu này. Về cơ bản anh ta có thể gài bẫy khiến người ta đồng ý cho phép điều gì đó trước khi kịp suy nghĩ thấu đáo. Dù vậy, rõ ràng chiêu đó chẳng thể phát huy tác dụng với một quý tộc vốn đã quen đối phó với những màn chơi chữ tinh vi như thế mỗi ngày. Chết tiệt thật. Chiêu đó hiệu quả đến thế với mấy gã mạo hiểm giả đơn thuần mà!
 
 "Ngài quá lời rồi ạ. Vậy tiếp theo chúng tôi sẽ được yết kiến Điện Hạ chứ ạ?" Augurey hỏi.
 
-"Đúng theo kế hoạch là vậy. Không cần phải căng thẳng đâu. Như tôi đã nói trước đây, Điện Hạ là một người phụ nữ thực tế và hòa nhã."
+"Đúng theo kế hoạch là vậy. Không cần phải căng thẳng đâu. Như tôi đã nói trước đây, Điện Hạ là một thiếu nữ hiểu chuyện và hòa nhã."
 
 Điều đó thể hiện rõ qua việc cô bé sẵn lòng cất công mời các mạo hiểm giả tới hoàng cung chỉ để cảm ơn họ. Chỉ là dưới góc nhìn của chúng tôi, việc có mặt ở đây hơi phiền phức một chút theo tiêu chuẩn của giới mạo hiểm giả. Dù vậy, đây chỉ đơn thuần là sự khác biệt về thế giới quan, và chúng tôi thực sự chẳng thể làm gì được về điều đó.
 
@@ -126,7 +126,7 @@ Họ đã quen với việc diện kiến hoàng tộc rồi sao? Giờ nghĩ l�
 
 Chà, không hẳn là điều đó khiến tôi bận tâm quá nhiều, nhưng tôi thực sự cần phải sớm lên Ngân Cấp mới được. Dạo gần đây vì có quá nhiều chuyện xảy ra nên tôi chưa thể nhận đủ số lượng ủy thác để đáp ứng điều kiện tiên quyết cho kỳ thi thăng hạng, nhưng tôi nghĩ khi nào có thời gian rảnh rỗi, mình nên nhận một loạt ủy thác để có thể nộp đơn đăng ký dự thi. Đúng khoảnh khắc ấy, tôi đã tự thề với lòng mình rằng mình sẽ làm như vậy.
 
-Tôi không chắc liệu thực lực của mình có đủ sức vượt qua kỳ thi hay không, nhưng nếu không thử sức thì tôi sẽ chẳng bao giờ biết được. Ý tôi là, hiện tại tôi đã có thể đối phó với ma vật cấp Ngân Cấp, và tùy tình huống, tôi thậm chí còn hạ gục được cả ma vật cấp Kim Cấp như Tarasque—vốn chỉ dành cho mạo hiểm giả từ Kim Cấp trở lên. Một phần là bởi việc đó đòi hỏi sự chuẩn bị đặc biệt để đối phó với nọc độc của nó, trong khi tôi lại tình cờ miễn nhiễm với các loại độc dược. Chính vì thế tôi mới nghĩ mình có lẽ đang ở tầm trình độ Ngân Cấp. Hoặc cũng có thể tôi chỉ mới đương cự được với ma vật Thượng Đồng Cấp mà thôi. Tôi chẳng hề tự tin tuyệt đối về điều đó.
+Tôi không chắc liệu thực lực của mình có đủ sức vượt qua kỳ thi hay không, nhưng nếu không thử sức thì tôi sẽ chẳng bao giờ biết được. Ý tôi là, hiện tại tôi đã có thể đối phó với ma vật Ngân Cấp, và tùy tình huống, tôi thậm chí còn hạ gục được cả ma vật Kim Cấp như Tarasque—vốn chỉ dành cho mạo hiểm giả từ Kim Cấp trở lên. Một phần là bởi việc đó đòi hỏi sự chuẩn bị đặc biệt để đối phó với nọc độc của nó, trong khi tôi lại tình cờ miễn nhiễm với các loại độc tố. Chính vì thế tôi mới nghĩ mình có lẽ đang ở tầm trình độ Ngân Cấp. Hoặc cũng có thể tôi chỉ mới đương cự được với ma vật Thượng Đồng Cấp mà thôi. Tôi chẳng hề tự tin tuyệt đối về điều đó.
 
 Trong lúc tôi đang tự nghi ngờ bản thân, có tiếng người đáp lại từ phía bên kia cánh cửa.
 
