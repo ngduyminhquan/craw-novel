@@ -103,6 +103,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 160: Tiết lộ thân phận Undead (Ma Cà Rồng) và biểu diễn khả năng tự hồi phục tự nhiên cho Augurey tại phòng cách âm đền thờ Hozei; được Augurey khen ngợi thực lực đã đủ vượt qua kỳ thi Ngân Cấp và đề nghị chia sẻ máu nếu cần.
 - Trạng thái tính đến chương 161: Giải thích cơ chế Tiến Hóa Bản Thể và mục tiêu trở lại làm người cho Augurey; ký bản khế ước ma pháp đặc biệt có Thần Lực của Hozei và chứng kiến dị tượng ảo ảnh Nữ Thần Hozei ban phước khiến chữ viết trên khế ước biến mất.
 - Trạng thái tính đến chương 168: Thú nhận toàn bộ sự thật về thân thể Ma Cà Rồng cho Capitan và Gharb; khẳng định mục tiêu Mithril Cấp và khát khao trở lại làm người không đổi; ở lại Làng Hathara để theo học Khí Lực từ Capitan.
+- Trạng thái tính đến chương 170: Khổ luyện cụ thể hóa Khí Lực cùng Capitan, bước đầu tạo được lớp giáp Khí Lực dạng găng tay bao quanh bàn tay; từ chối bí thuật đánh đổi tuổi thọ vì chưa rõ bản chất sinh mệnh Undead.
 - Trạng thái tính đến chương 171: Cảm nhận cơn đau đầu dữ dội và nhận ra mối liên kết với quyến thuộc Edel bị xé rách; lập tức cùng Lorraine chuẩn bị trở về Maalt khi biết Ingo sở hữu kỹ năng đặc biệt giúp rút ngắn chuyến đi còn nửa ngày.
 
 ### Rina Rupaage
@@ -306,6 +307,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 68: Tại phòng tiếp khách, thấu hiểu niềm đam mê sưu tầm của Rentt và đồng ý tặng luôn mô hình phi thuyền nhỏ làm phần thưởng kèm theo bên cạnh thù lao hợp đồng ban đầu; tiết lộ bản thân mắc Bệnh Tích Tụ Chướng Khí giai đoạn cuối nên cần dùng Long Hoa Huyết định kỳ; bắt tay giao kết ủy thác định kỳ với Rentt và cho phép anh tiếp tục gọi thẳng tên mình.
 - Trạng thái tính đến chương 114: Vui vẻ chấp thuận tạm hoãn ủy thác thu hái Hoa Long Huyết định kỳ để Rentt về quê hương Hathara; giải thích việc nhận biết vị thần bảo hộ sẽ gia tăng uy lực ân phước Thần Lực; hào phóng cho Rentt mượn những thư tịch ghi chép bí thuật Thần Lực từ bộ sưu tập của gia tộc Latuule.
 - Trạng thái tính đến chương 115: Cho Rentt mượn sách thư viện về ba chủ đề (Thần Lực, thần tinh linh, chuyện dân gian Hathara); ngỏ ý mời bạn anh là Lorraine Vivie đến thư viện đọc sách và trò chuyện bên tách trà.
+- Trạng thái tính đến chương 169: Tiếp đón một cậu bé tộc Ma Cà Rồng trốn khỏi làng lên Maalt; trao thuốc Hoa Long Huyết giúp kiềm chế cơn khát, cảnh báo về Nive Maris và mời cậu tạm trú tại dinh thự; nhận định cậu bé không liên quan đến các vụ mạo hiểm giả mất tích gần đây.
 
 ### Myullias Raiza
 - Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.
@@ -539,6 +541,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, trưởng nhóm thợ săn Làng Hathara, một trong những người thầy thuở nhỏ của Rentt.
 - Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara; nắm giữ chức vị kỵ sĩ đoàn trưởng cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại (tính đến chương 148); thị phạm và trao viên đá tạo ma pháp trận dịch chuyển cho Rentt và Lorraine, sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa để tự do ra vào vương đô Vistelya (tính đến chương 149); trong trận so tài đã chiến đấu đến kiệt sức và hòa nhau với Rentt, chính thức công nhận thực lực vượt bậc của anh và bắt đầu dò hỏi về đôi cánh cùng bí mật của học trò (tính đến chương 166).
 - Trạng thái tính đến chương 168: Đồng ý giữ kín bí mật thân phận Undead của Rentt và nhận lời truyền dạy các kỹ thuật vận dụng Khí Lực bí truyền để Rentt bảo vệ ma pháp trận dịch chuyển.
+- Trạng thái tính đến chương 170: Truyền dạy Rentt kỹ năng cụ thể hóa Khí Lực thành thực thể (tạo giáp Khí Lực, phóng lưỡi đao Khí Lực từ cành cây); tiết lộ bí thuật Hathara hy sinh tuổi thọ ép Khí Lực cực hạn nhưng khuyên Rentt không nên mạo hiểm.
 - Xuất hiện từ: #146.
 
 ### Doras

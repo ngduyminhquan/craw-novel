@@ -80,7 +80,7 @@ Và nó rất giòn. Cứ mỗi lần tôi thử làm, Capitan lại dùng cành
 
 "Nhưng ngay cả thế thì có vẻ cũng khó lòng dùng thường xuyên được ạ," tôi nói.
 
-"Đó là bởi cháu đang lãng phí quá nhiều năng lượng đấy. Chú bảo cháu làm cho lớp giáp mỏng hơn là vì nó sẽ tiết kiệm hao tổn hơn. Ồ, hình như lớp giáp chỗ kia có kẽ hở kìa," Capitan nói rồi thẳng tay nện một đòn bằng cành cây. Cứ phải sửa lại lớp giáp sau mỗi lần bị chú ấy phá vỡ quả là một cực hình. Sau đó, cuối cùng tôi cũng cạn kiệt Khí Lực và chẳng thể triển hiện thêm được thứ gì nữa. Tôi đã cố gắng hết sức có thể, nhưng chẳng cảm thấy chút Khí Lực nào dâng lên cả. "Xem ra hôm nay chúng ta phải dừng ở đây thôi. Nếu cháu đã cạn kiệt Khí Lực thì chẳng làm ăn gì được nữa. Chú đoán là cũng có những cách để ép thêm một ít ra đấy."
+"Đó là bởi cháu đang lãng phí quá nhiều năng lượng đấy. Chú bảo cháu làm cho lớp giáp mỏng hơn là vì nó sẽ tiết kiệm hao tổn hơn. Ồ, hình như lớp giáp chỗ kia có kẽ hở kìa," Capitan nói rồi thẳng tay nện một đòn bằng cành cây. Cứ phải sửa lại lớp giáp sau mỗi lần bị chú ấy phá vỡ quả là một cực hình. Sau đó, cuối cùng tôi cũng cạn kiệt Khí Lực và chẳng thể triển hiện thêm được thứ gì nữa. Tôi đã cố gắng hết sức có thể, nhưng chẳng cảm thấy chút Khí Lực nào dâng lên cả. "Xem ra hôm nay chúng ta phải dừng ở đây thôi. Nếu cháu đã cạn kiệt Khí Lực thì cũng chẳng làm thêm được gì nữa. Chú đoán là cũng có những cách để ép thêm một ít ra đấy."
 
 "Có cách ạ?"
 
@@ -88,7 +88,7 @@ Và nó rất giòn. Cứ mỗi lần tôi thử làm, Capitan lại dùng cành
 
 Thế nhưng tôi lắc đầu để bày tỏ sự không hào hứng của mình. "Thôi, cháu xin kiếu. Có thể cháu không có tuổi thọ, nhưng cũng có thể là có; cháu chẳng rõ nữa. Ngay từ đầu cháu còn chưa biết chính xác bản thân mình rốt cuộc là thứ gì nữa kia. Nếu cháu thử làm trò gì kỳ quặc như thế thì khéo hỏng bét cả người mất."
 
-Dẫu vậy, tôi có thể lập tức lành lại vết thương và không cần phải ngủ. Xét đến mọi đặc điểm dị thường của mình, việc nhận định tôi là một Undead và Ma Cà Rồng dường như là điều chắc chắn, nhưng tôi không thể dám chắc hoàn toàn. Nếu tôi thử nghiệm phương pháp đánh đổi tuổi thọ lấy Khí Lực này, biết đâu chừng nó lại có thể lấy mạng tôi không chừng.
+Dẫu vậy, tôi có thể lập tức lành lại vết thương và không cần phải ngủ. Xét đến mọi đặc điểm dị thường của mình, việc nhận định tôi là một Undead và Ma Cà Rồng dường như là điều hiển nhiên, nhưng tôi không thể dám chắc hoàn toàn. Nếu tôi thử nghiệm phương pháp đánh đổi tuổi thọ lấy Khí Lực này, biết đâu chừng nó lại có thể tước đi mạng sống của tôi.
 
 "Chú đã từng dùng phương pháp đó bao giờ chưa ạ?" tôi hỏi Capitan.
 
@@ -98,7 +98,7 @@ Dẫu vậy, tôi có thể lập tức lành lại vết thương và không c�
 
 "Nó chỉ có thể hữu dụng trong những tình thế ngặt nghèo mà thôi. Thứ đó được truyền lại như một con bài tẩy bí mật. Dẫu vậy thì chú chẳng thể nói cho cháu biết rốt cuộc đã có bao nhiêu người thực sự từng dùng kỹ năng này. Ở Hathara thật lòng chẳng có tình huống nào đòi hỏi ai đó phải dùng đến nó cả."
 
-Họ gánh vác trọng trách bảo vệ các ma pháp trận dịch chuyển, vì thế việc họ muốn truyền lại kỹ năng này phòng trường hợp có mối đe dọa khổng lồ nào đó xâm lược là điều hoàn toàn hợp lý. Nếu Capitan sở hữu một kỹ năng như thế này thì có lẽ Gharb cũng nắm giữ thứ gì đó điên rồ không kém mà Lorraine sắp sửa theo học. Nghĩ đến điều đó có phần hơi đáng sợ, nhưng có lẽ tôi chỉ đang lo bò trắng răng mà thôi.
+Họ gánh vác trọng trách bảo vệ các ma pháp trận dịch chuyển, vì thế việc họ muốn truyền lại kỹ năng này phòng trường hợp có mối đe dọa khổng lồ nào đó xâm lược là điều hoàn toàn hợp lý. Nếu Capitan sở hữu một kỹ năng như thế này thì có lẽ Gharb cũng nắm giữ thứ gì đó điên rồ không kém mà Lorraine sắp sửa theo học. Nghĩ đến điều đó có phần hơi đáng sợ, nhưng có lẽ tôi chỉ đang lo hão mà thôi.
 
 Capitan và tôi tiếp tục bàn luận về chuyện đó trong lúc chúng tôi quay trở về làng.
 

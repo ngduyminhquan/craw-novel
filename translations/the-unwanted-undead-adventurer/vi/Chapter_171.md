@@ -1,6 +1,6 @@
 # Chương 171: Tập 7 Chương 6 - Puchi Suri (1)
 
-Đối với con chuột này, đây là một thế giới của sự chọn lọc tự nhiên, nơi kẻ mạnh mới có quyền sinh tồn. Sinh ra với thân hình nhỏ bé, những sinh vật khổng lồ thường xuyên lợi dụng kích thước của đồng loại nó để chèn ép. Ngay cả khi may mắn tìm được một chỗ ngủ, nơi ấy cũng sẽ bị cướp mất. Thức ăn thì ít ỏi, còn nguồn nước lại vô cùng khó tiếp cận. Đó là cuộc sống của con chuột này kể từ khoảnh khắc nó cất tiếng khóc chào đời. Dẫu vậy, nó chưa từng từ bỏ những xúc cảm của mình. Có lẽ là do bản năng chăng. Thỉnh thoảng con chuột lại nghĩ như thế.
+Đối với con chuột này, đây là một thế giới của sự chọn lọc tự nhiên, nơi kẻ mạnh mới có quyền sinh tồn. Sinh ra với thân hình nhỏ bé, những sinh vật khổng lồ thường xuyên lợi dụng kích thước của đồng loại nó để chèn ép. Ngay cả khi may mắn tìm được một chỗ ngủ, nơi ấy cũng sẽ bị cướp mất. Thức ăn thì ít ỏi, còn nguồn nước lại vô cùng khó tiếp cận. Đó là cuộc sống của con chuột này kể từ khoảnh khắc nó chào đời. Dẫu vậy, nó chưa từng từ bỏ những xúc cảm của mình. Có lẽ là do bản năng chăng. Thỉnh thoảng con chuột lại nghĩ như thế.
 
 Nhờ sinh tồn trong một thế giới như Địa Ngục và chỉ biết dựa vào chính bản thân mình, nó đã lớn hơn và mạnh hơn những con chuột bình thường. Nhưng dĩ nhiên, nó vẫn chẳng hơn gì một con chuột. Có nằm mơ thì nó mới dám hy vọng cạnh tranh nổi với con người và những quái vật to lớn. Lục lọi trong màn đêm tăm tối để kiếm những mẩu thức ăn thừa cùng những chạn bếp không người canh giữ là tất cả những gì nó có thể làm để sinh tồn.
 
@@ -16,7 +16,7 @@ Puchi Suri có thể đạt tới tuổi trưởng thành chỉ trong vòng mộ
 
 Thế rồi một ngày nọ, khi bầy chuột đang làm tổ dưới lòng một tòa nhà của con người, một thực thể kỳ lạ từ trên cao đã giáng xuống chỗ chúng. Có hai con người, một người trong số đó là một thiếu nữ bình thường, nhưng người kia lại là một người đàn ông đeo mặt nạ khoác áo choàng, trông dường như vượt xa tầm một con người.
 
-Khi con chuột nhìn thấy cảnh tượng này, nó nghĩ đời mình thế là hết. Nó biết ngày này rồi cũng sẽ đến. Con chuột nghĩ người đàn ông này hẳn là một con người. Anh ta sở hữu những năng lực mạnh mẽ vượt trội so với bất kỳ người bình thường nào, nên một con chuột chẳng là cái đinh gỉ gì đối với anh ta. Một số mạo hiểm giả thậm chí có thể tiêu diệt quái vật khổng lồ một cách dễ dàng, vậy nên một con chuột tuyệt nhiên không có lấy một phần cơ hội.
+Khi con chuột nhìn thấy cảnh tượng này, nó nghĩ đời mình thế là hết. Nó biết ngày này rồi cũng sẽ đến. Con chuột nghĩ người đàn ông này hẳn là một con người. Anh ta sở hữu những năng lực mạnh mẽ vượt trội so với bất kỳ người bình thường nào, nên một con chuột chẳng là gì đối với anh ta. Một số mạo hiểm giả thậm chí có thể tiêu diệt quái vật khổng lồ một cách dễ dàng, vậy nên một con chuột tuyệt nhiên không có lấy một phần cơ hội.
 
 Dẫu vậy, con chuột không chấp nhận chịu trói mà không phản kháng. Sau tất cả, giờ đây nó không chỉ đơn thuần là một con chuột nữa. Nó đã có đàn em. Dù không làm được gì khác, nó cũng phải câu đủ thời gian cho chúng chạy trốn. Ngay cả khi phải trả giá bằng tính mạng, đó cũng là điều tối thiểu nó có thể làm. Con chuột chưa từng có ý định làm thủ lĩnh của bất kỳ ai, nhưng những kẻ đi theo vẫn tụ tập quanh nó, nên đây chính là lúc nó phải liều mạng. Đám đàn em toan xông lên chiến đấu trước cả con chuột, nhưng nó đã ra lệnh bằng thứ giọng mà chỉ loài chuột mới hiểu được, bảo chúng tạm thời đi ẩn nấp. Rồi nó phóng mình lao thẳng về phía mạo hiểm giả.
 
@@ -54,7 +54,7 @@ Gần đây Rentt tỏ ra hứng thú nhất với một người đồng nghi�
 
 Cuối cùng, Edel đã nhìn thấy một thứ qua đôi mắt của một tên đàn em. Vào một thời điểm nào đó, nó đã có được khả năng nhìn thấy những gì chúng thấy, ngay cả khi chúng đang ở một địa điểm cách biệt. Bằng cách sử dụng năng lực này, nó nhìn thấy một bóng người khả nghi đang tiến vào mê cung. Tên đàn em đã bám theo người này và bắt gặp một kẻ trùm áo choàng đang cắn một mạo hiểm giả đầm đìa máu me.
 
-"Ái chà, nhìn trộm là không ngoan đâu nhé," kẻ đó nói trước khi phóng ra một ngọn lửa từ bàn tay và làm mù con chuột. Edel đang quan sát từ một nơi khác, nhưng ngay cả nó cũng cảm nhận được uy lực của vụ nổ. Edel bị một cơn đau đầu như búa bổ ập đến rồi ngất lịm đi dưới tầng hầm của cô nhi viện.
+"Ái chà, nhìn trộm là không ngoan đâu nhé," kẻ đó nói trước khi phóng ra một ngọn lửa từ bàn tay và làm mù con chuột. Edel đang quan sát từ một nơi khác, nhưng ngay cả nó cũng cảm nhận được uy lực của vụ nổ. Một cơn đau đầu như búa bổ ập đến khiến Edel ngất lịm đi dưới tầng hầm của cô nhi viện.
 
 ![](images/ch171-01.webp)
 
@@ -128,13 +128,13 @@ Tôi cứ ngỡ cô chỉ xem Edel như một con thú cưng, nhưng hóa ra nó
 
 Chú Capitan rời mắt khỏi cô và nhìn về phía cha nuôi tôi, Trưởng Làng Ingo Faina. "Nhờ cả vào anh đấy nhé?" chú hỏi.
 
-Tôi chẳng thể tài nào hiểu nổi cha Ingo sẽ giúp được gì. Có lẽ nghĩ như vậy là hơi bất kính, nhưng tôi thực sự chẳng thể nghĩ ra được điều gì. Ông có đôi chút quyền lực trong làng nhờ cương vị trưởng làng, nhưng tôi không rõ ông còn có thể làm được gì khác nữa.
+Tôi chẳng tài nào hiểu nổi cha Ingo sẽ giúp được gì. Có lẽ nghĩ như vậy là hơi bất kính, nhưng tôi thực sự chẳng thể nghĩ ra được điều gì. Ông có đôi chút quyền lực trong làng nhờ cương vị trưởng làng, nhưng tôi không rõ ông còn có thể làm được gì khác nữa.
 
 Cha Ingo dường như đọc được suy nghĩ của tôi qua ánh mắt tôi nhìn ông. "Rentt này, cha cũng kế thừa một phần lịch sử của ngôi làng này chẳng kém gì Capitan và Gharb đâu," ông thất vọng nói khi thấy tôi nghi ngờ mình.
 
 Ông có vẻ hơi buồn lòng vì đứa con trai không dựa dẫm vào mình. Tôi cảm thấy phần nào có lỗi về chuyện đó. Không phải là tôi không tôn trọng ông, nhưng tôi không nghĩ ông có thể làm được gì để giúp đỡ trong tình huống này.
 
-Nhân tiện thì, chỉ có Ingo, chú Capitan, Lorraine, bà Gharb và tôi là có mặt ở đây. Mẹ Gilda đã ra ngoài tán gẫu với những người phụ nữ khác trong làng, còn Riri và Fahri thì đang luyện tập để trở thành thợ săn hoặc dược sư. Đáng lẽ chú Capitan và bà Gharb phải là người chỉ dạy họ, nhưng cấp dưới của chú Capitan đã tiếp quản thay chú, và việc huấn luyện dược sư thì có một số công đoạn chuẩn bị có thể tự làm một mình được. Điều đó đồng nghĩa với việc tất cả những ai có mặt ở đây đều đã biết về bí mật của ngôi làng, nên chúng tôi có thể bàn bạc về nó một cách thoải mái.
+Nhân tiện thì, chỉ có cha Ingo, chú Capitan, Lorraine, bà Gharb và tôi là có mặt ở đây. Mẹ Gilda đã ra ngoài tán gẫu với những người phụ nữ khác trong làng, còn Riri và Fahri thì đang luyện tập để trở thành thợ săn hoặc dược sư. Đáng lẽ chú Capitan và bà Gharb phải là người chỉ dạy họ, nhưng cấp dưới của chú Capitan đã tiếp quản thay chú, và việc huấn luyện dược sư thì có một số công đoạn chuẩn bị có thể tự làm một mình được. Điều đó đồng nghĩa với việc tất cả những ai có mặt ở đây đều đã biết về bí mật của ngôi làng, nên chúng tôi có thể bàn bạc về nó một cách thoải mái.
 
 "Cha đáng lẽ là quốc vương đúng không ạ? Nhưng điều đó đâu nhất thiết đồng nghĩa với việc cha kế thừa những năng lực đặc biệt như chú Capitan và bà Gharb đâu ạ," tôi nói.
 

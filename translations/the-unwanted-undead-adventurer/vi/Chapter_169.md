@@ -44,7 +44,7 @@ Cậu bé khựng lại một thoáng trước khi nói, "Tôi không muốn ch�
 
 "Cái quái gì thế này?" cậu bé hỏi.
 
-"Chúng tôi có cách để liên lạc với đồng tộc của cậu. Việc đó sẽ mất chút thời gian, nhưng chắc chắn là có hiệu quả, nên không cần phải lo lắng đâu. Vấn đề cụ thể là ngôi làng nào thì đúng là sẽ gây ra đôi chút phiền toái, nhưng nếu họ bị lạc mất một cậu bé ở độ tuổi của cậu, tôi dự đoán họ đã đang ráo riết tìm kiếm cậu khắp nơi rồi. Khả năng rất cao là họ sẽ sớm liên lạc với chúng tôi thôi."
+"Chúng tôi có cách để liên lạc với đồng tộc của cậu. Việc đó sẽ mất chút thời gian, nhưng chắc chắn là có hiệu quả, nên không cần phải lo lắng đâu. Vấn đề cụ thể là ngôi làng nào thì đúng là sẽ gây ra đôi chút phiền toái, nhưng nếu họ bị lạc mất một cậu bé ở độ tuổi của cậu, tôi dự đoán họ đang ráo riết tìm kiếm cậu khắp nơi rồi. Khả năng rất cao là họ sẽ sớm liên lạc với chúng tôi thôi."
 
 "Tôi từng nghe các trưởng lão kể về cô, nhưng tại sao cô lại biết nhiều về chúng tôi đến thế?"
 
@@ -76,7 +76,7 @@ Tôi tựa lưng vào ghế sofa và thở dài. Cuộc sống của tôi dạo 
 
 "Thần Ma Khí Dung Hợp Thuật hả? Chú không ngờ lại có những kỹ thuật như thế đấy. Ngay cả Ma Khí Dung Hợp Thuật chú còn chẳng dùng nổi, nên chú không thể dạy cháu bất cứ thứ gì tương tự đâu," Capitan nói, thoáng chút thất vọng.
 
-Thật không may, chuyện đó chẳng có cách nào thay đổi được. Ma Lực phần lớn là thứ vốn có từ khi sinh ra, còn việc có Thần Lực hay không lại hoàn toàn là vấn đề may rủi. Xuyên suốt lịch sử, nhiều tôn giáo hẳn sẽ cau mày khó chịu trước việc coi việc sở hữu Thần Lực đơn thuần chỉ là sự ngẫu nhiên, nhưng thực tế hiển nhiên là như vậy.
+Thật không may, chuyện đó chẳng có cách nào thay đổi được. Ma Lực phần lớn là thứ vốn có từ khi sinh ra, còn việc có Thần Lực hay không lại hoàn toàn là vấn đề may rủi. Xuyên suốt lịch sử, nhiều tôn giáo hẳn sẽ cau mày khó chịu trước quan niệm coi việc sở hữu Thần Lực đơn thuần chỉ là sự ngẫu nhiên, nhưng thực tế hiển nhiên là như vậy.
 
 Dẫu vậy, nói thế không có nghĩa là đức tin của một người chẳng hề liên quan gì đến chuyện đó. Thần linh đôi khi sẽ ban phước cho những người cầu nguyện đủ thành tâm hoặc tích cực làm việc thiện, từ đó ban cho họ khả năng tiếp cận Thần Lực. Ngay cả trong trường hợp của bản thân tôi, tôi cũng được ban phước nhờ việc tu sửa một ngôi đền.
 
@@ -90,11 +90,11 @@ Trong trường hợp của tôi, ban đầu lượng Ma Lực của tôi chỉ 
 
 "Làng mình quả là một ngôi làng kỳ lạ, nhưng cháu đoán không phải mọi thứ về làng đều bắt buộc phải kỳ lạ như thế," tôi nói.
 
-"Ý chú là, chỉ có ba người bọn chú là vẫn còn gánh vác những truyền thống xưa cũ đó. Nhưng thế cũng chẳng sao; Hathara quá nhỏ bé để gánh vác một bí mật to lớn đến mức ấy. Có khi quên phao nó đi lại tốt hơn cho chúng ta."
+"Ý chú là, chỉ có ba người bọn chú là vẫn còn gánh vác những truyền thống xưa cũ đó. Nhưng thế cũng chẳng sao; Hathara quá nhỏ bé để gánh vác một bí mật to lớn đến mức ấy. Có khi quên phắt nó đi lại tốt hơn cho chúng ta."
 
 "Cháu đoán là vậy ạ."
 
-Việc nắm rõ bí mật dường như là điều quan trọng để phòng khi có biến cố xảy ra, nhưng trong trường hợp một quốc gia thực sự can thiệp vào cuộc sống của họ, có lẽ Hathara cũng chẳng đủ tầm vóc để làm được bất cứ điều gì chống lại. Điều tối đa mà Gharb và Capitan có thể làm là đương đầu với một vài cá nhân tương đối mạnh mẽ. Nếu một mạo hiểm giả Mithril Cấp xuất hiện, ngay cả một đội quân cũng phải bất lực trong việc ngăn cản họ. Đối đầu với họ chẳng khác nào đối mặt với một thảm họa thiên nhiên. Không hẳn là buông xuôi phản kháng là ý hay, nhưng tôi có thể hiểu được lý do tại sao họ lại rơi vào trạng thái tâm lý đó.
+Việc nắm rõ bí mật dường như là điều quan trọng để phòng khi có biến cố xảy ra, nhưng trong trường hợp một quốc gia thực sự can thiệp vào cuộc sống của họ, có lẽ Hathara cũng chẳng đủ tầm vóc để làm được bất cứ điều gì chống lại. Điều tối đa mà Gharb và Capitan có thể làm là đương đầu với một vài cá nhân tương đối mạnh mẽ. Nếu một mạo hiểm giả Mithril Cấp xuất hiện, ngay cả một đội quân cũng phải bất lực trong việc ngăn cản họ. Đối đầu với họ chẳng khác nào đối mặt với một thảm họa thiên nhiên. Không hẳn buông xuôi phản kháng đã là ý hay, nhưng tôi có thể hiểu được lý do tại sao họ lại rơi vào trạng thái tâm lý đó.
 
 "Mà thôi, dù sao thì bọn chú cũng đã đưa ra quyết định liên quan đến chuyện đó rồi. Lúc này, điều chúng ta nên bàn tới là Khí Lực," Capitan nói.
 

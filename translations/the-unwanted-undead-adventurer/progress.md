@@ -173,9 +173,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | reviewed |  |
 | 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | reviewed |  |
 | 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | reviewed |  |
-| 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | done |  |
-| 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | done |  |
-| 171 |  | Chapter_171 - Vol 7 Chapter 6 - Puchi Suri (1).txt | Vol 7 Chapter 6 - Puchi Suri (1) | done |  |
+| 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | reviewed |  |
+| 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | reviewed |  |
+| 171 |  | Chapter_171 - Vol 7 Chapter 6 - Puchi Suri (1).txt | Vol 7 Chapter 6 - Puchi Suri (1) | reviewed |  |
 | 172 |  | Chapter_172 - Vol 7 Chapter 6 - Puchi Suri (2).txt | Vol 7 Chapter 6 - Puchi Suri (2) | todo |  |
 | 173 |  | Chapter_173 - Vol 7 Side Story - Noble’s Trust (1).txt | Vol 7 Side Story - Noble’s Trust (1) | todo |  |
 | 174 |  | Chapter_174 - Vol 7 Side Story - Noble’s Trust (2).txt | Vol 7 Side Story - Noble’s Trust (2) | todo |  |
