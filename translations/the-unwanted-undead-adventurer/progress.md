@@ -147,7 +147,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | reviewed |  |
 | 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | reviewed |  |
 | 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | done |  |
-| 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | todo |  |
+| 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | done |  |
 | 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | todo |  |
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | todo |  |
 | 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -694,3 +693,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#140] Dịch chủng loài 'fairy' (và nàng tiên Tilya) — tạm chọn 'nàng tiên' cho phù hợp bối cảnh cổ tích tuổi thơ và phân biệt với 'tinh linh' (spirit) (phương án khác: 'tiểu tinh linh', 'tiên tộc'). Tạm dùng trong bản dịch: 'nàng tiên'. → Giữ 'nàng tiên' (phân biệt rõ với 'tinh linh' / spirit đã dùng trong truyện) (orchestrator)
 - [#141] Dịch 'changeling' (sinh vật tráo đổi trong truyền thuyết fairy) — tạm chọn 'đứa trẻ thế thân' (phương án khác: 'đứa trẻ tráo đổi', 'con tráo'). → Giữ 'đứa trẻ thế thân' (orchestrator)
 - [#142] Xưng hô của Wilfried Rucker (mạo hiểm giả người lớn) và Azel Goth (thương nhân trẻ tuổi) với Rentt (5 tuổi): tạm dùng Wilfried xưng 'chú' - gọi 'cháu/Rentt', Rentt xưng 'cháu' - gọi 'chú'; Azel xưng 'anh' - gọi 'em/Rentt', Rentt xưng 'em' - gọi 'anh' (phương án khác: Wilfried xưng 'ta' - gọi 'nhóc/cháu'; Azel xưng 'tôi' - gọi 'cậu/nhóc'). → Giữ Wilfried xưng 'chú' gọi 'cháu / nhóc / Rentt' (Rentt xưng 'cháu' gọi 'chú') và Azel xưng 'anh' gọi 'em / Rentt' (Rentt xưng 'em' gọi 'anh') (orchestrator)
+- [#143] Cách Rentt gọi Gharb khi dùng từ 'Teacher' (đoạn 36, 51) — tạm dịch là 'sư phụ' (thể hiện sự tôn sư học nghề thuốc xưa, tránh nhầm thứ bậc 'bà cô'; phương án khác: 'cô', 'thầy'). Tạm dùng trong bản dịch: 'thưa sư phụ'. → Giữ 'sư phụ' / 'thưa sư phụ' (rõ vai trò truyền dạy nghề thuốc và tránh trùng với xưng hô 'cô' chỉ thứ bậc họ hàng) (orchestrator)
+- [#143] Dịch tên ba loài quái vật dạng sói Lorraine phỏng đoán ('gadol ze’ev', 'garm', 'mawiang' ở đoạn 12) — tạm chọn giữ nguyên danh xưng riêng 'Gadol Ze'ev', 'Garm', 'Mawiang' và thêm vào glossary.md (phương án khác: 'sói khổng lồ Gadol', 'chó săn Garm', 'Ma Vương Sói Mawiang'). Tạm dùng trong bản dịch: 'Gadol Ze'ev', 'Garm', 'Mawiang'. → Giữ nguyên danh xưng riêng 'Gadol Ze'ev', 'Garm', 'Mawiang' theo tiền lệ tên quái vật đặc thù (orchestrator)

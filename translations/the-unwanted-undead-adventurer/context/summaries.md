@@ -845,6 +845,13 @@ Wilfried dịu dàng an ủi đứa trẻ Rentt đang quẫn trí, rồi cùng n
 Sau tang lễ và khi được vợ chồng trưởng làng Ingo chính thức nhận nuôi, Rentt tìm gặp Wilfried xin lời khuyên làm mạo hiểm giả để hoàn thành ước mơ của Jinlin; Wilfried chân thành chỉ dẫn anh các kiến thức nền tảng cần chuẩn bị trong 10 năm tới (đọc viết, số học, thảo dược, kỹ năng săn bắn và sinh tồn).
 Wilfried và Azel từ biệt làng (Azel ấp ủ ước mơ thành lập Thương hội Goth); Rentt thề quyết tâm trở thành mạo hiểm giả Mithril Cấp và bắt đầu chuỗi ngày kiên trì tầm sư học đạo khắp làng Hathara.
 
+## 143
+Rentt kết thúc câu chuyện quá khứ với Lorraine, cùng cô trao đổi về con quái vật sói hắc ám bí ẩn, tung tích của Wilfried Rucker và Thương hội Goth của Azel; cả hai thống nhất sẽ vừa tìm cách biến trở lại thành người vừa tìm kiếm họ.
+Bà lão làm thuốc Gharb xuất hiện giục cả hai trở lại bữa tiệc; bà để lộ thân phận ma pháp sư lão luyện (tên thật Gharb Faina, bà cô họ của Rentt), cảm nhận được lượng Ma Lực tăng vọt của Rentt và nhận xét anh cùng Lorraine có tư duy nghiên cứu giống nhau đến kỳ lạ.
+Khi Rentt hỏi về ngôi đền cổ bỏ hoang phía tây làng (nơi anh từng tu sửa và nhận được Thần Lực, dùng để bảo quản kho lương thực dự trữ của làng), nét mặt Gharb thoáng sa sầm lại; bà khuyên anh ngày mai hãy tự tới xem và hẹn anh ghé qua nhà bà nói chuyện sau chuyến thăm đền.
+Chương kết thúc khi cả hai trở lại đống lửa trại; Lorraine diễn lại ma pháp ảo ảnh trận chiến Tarasque khiến dân làng trầm trồ vây quanh tra hỏi Rentt, còn Riri nung nấu quyết tâm rèn luyện để bắt kịp sức mạnh của anh.
+
+
 
 
 

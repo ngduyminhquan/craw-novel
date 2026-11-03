@@ -237,3 +237,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Azel Goth | em | anh / anh Azel | 142 | Đứa trẻ 5 tuổi nói chuyện với người đánh xe trẻ tuổi |
 | Wilfried Rucker | Azel Goth | tôi | cậu / Azel | 142 | Bạn đồng hành mạo hiểm giả nói chuyện với thương nhân lữ hành |
 | Azel Goth | Wilfried Rucker | tôi | anh / Wilfried | 142 | Thương nhân lữ hành nói chuyện với mạo hiểm giả thuê xe |
+| Rentt Faina | Gharb | cháu | bà / bà Gharb / sư phụ | 143 | Cháu họ nói chuyện với bà cô kiêm người dạy nghề thuốc |
+| Gharb | Rentt Faina | ta | cháu / Rentt | 143 | Bà cô kiêm người dạy nghề thuốc nói chuyện với cháu họ |
+| Lorraine Vivie | Gharb | tôi / cháu | bà / bà Gharb | 143 | Học giả trẻ nói chuyện với bà lão cao tuổi kiêm ma pháp sư ẩn dật |
+| Gharb | Lorraine Vivie | ta | cô / cô bé / cháu / Lorraine | 143 | Bà lão cao tuổi nói chuyện với học giả trẻ đi cùng cháu mình |

@@ -62,6 +62,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Fahri |  | Fahri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 | Ren |  | Ren | Tên gọi thân mật Fahri dùng để gọi Rentt Faina | #135 |
 | Gharb |  | Gharb | Bà lão làm thuốc tại làng Hathara, biết ma thuật và thuật giả kim | #136 |
+| Gharb Faina |  | Gharb Faina | Tên đầy đủ của bà lão làm thuốc Gharb, bà cô họ của Rentt | #143 |
 | Hadeed |  | Hadeed | Thợ săn tại làng Hathara, người dạy Riri kỹ năng Khí Lực | #136 |
 | Locusta |  | Locusta | Cha ruột của Rentt Faina, từng là lữ khách trước khi định cư ở Làng Hathara | #139 |
 | Melissa |  | Melissa | Mẹ ruột của Rentt Faina, người phụ nữ xinh đẹp nổi tiếng trong làng | #139 |
@@ -483,6 +484,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, bà lão làm thuốc (dược sư) tại Làng Hathara, họ hàng của Rentt Faina.
 - Đặc điểm: Từng dạy Rentt kiến thức thảo dược thời thơ ấu; sở hữu Ma Lực, có thể sử dụng ma thuật và thuật giả kim nhưng giữ bí mật với dân làng; hiện đang kiên nhẫn chỉ bảo Fahri nghề làm thuốc và chuẩn bị truyền dạy thuật giả kim.
 - Xuất hiện từ: #134 (được nhắc đến là bà lão họ hàng làm thuốc), #136 (tiết lộ tên và thuật giả kim).
+
+### Gharb Faina
+- Xem Gharb (tên đầy đủ của bà lão làm thuốc Gharb).
 
 ### Hadeed
 - Giới tính, vai trò: Nam, thợ săn tại Làng Hathara.

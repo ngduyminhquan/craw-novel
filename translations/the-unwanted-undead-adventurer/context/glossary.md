@@ -266,3 +266,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Alga | village of Alga | Làng Alga | địa danh | 142 | Ngôi làng lân cận Làng Hathara |
 | Mul | village of Mul | Làng Mul | địa danh | 142 | Ngôi làng lân cận Làng Hathara |
 | Goth Company | the Goth Company | Thương hội Goth | khác | 142 | Thương hội do thương nhân Azel Goth dự định thành lập (ゴス商会) |
+| gadol ze’ev | gadol ze'ev; Gadol ze'ev | Gadol Ze'ev | quái vật | 143 | Quái vật dạng sói khổng lồ Lorraine phỏng đoán |
+| garm | Garm | Garm | quái vật | 143 | Quái vật dạng sói Lorraine phỏng đoán |
+| mawiang | Mawiang | Mawiang | quái vật | 143 | Quái vật dạng sói Lorraine phỏng đoán |
