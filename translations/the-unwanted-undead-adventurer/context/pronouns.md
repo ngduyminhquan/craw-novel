@@ -320,3 +320,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Myullias Raiza | Nive Maris | tôi | Nive / cô | 183 | Thánh Nữ gọi thẳng tên mạo hiểm giả Kim Cấp đi cùng |
 | Wolf Hermann | Tita Well | tôi | cậu | 184 | Hội Trưởng gặng hỏi mạo hiểm giả bị biến thành Thi Quỷ |
 | Tita Well | Wolf Hermann | tôi | ngài | 184 | Thi Quỷ trả lời theo bản năng còn sót lại |
+| Wolf Hermann | Nive Maris | tôi | cô | 185 | Hội Trưởng trao đổi việc điều tra và lập đội tác chiến với mạo hiểm giả Kim Cấp |
+| Nive Maris | Wolf Hermann | tôi | ông / Hội Trưởng | 185 | Mạo hiểm giả Kim Cấp nói chuyện xởi lởi, tự nhiên với Hội Trưởng |

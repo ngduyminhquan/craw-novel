@@ -189,7 +189,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | reviewed |  |
 | 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | reviewed |  |
 | 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | done |  |
-| 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | todo |  |
+| 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | done |  |
 | 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | todo |  |
 | 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | todo |  |
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -774,3 +773,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#183] Xưng hô Nive Maris và Rentt Faina từ #183 — Nive bảo cứ gọi thẳng tên như đồng nghiệp mạo hiểm giả; tạm chốt Rentt xưng 'tôi' gọi 'Nive / cô', Nive xưng 'tôi' gọi 'Rentt / cậu Rentt' (phương án khác: giữ cách gọi khách sáo 'Tiểu thư Nive' và 'ngài Rentt' ở #104). → Chốt Rentt (tôi - Nive / cô), Nive (tôi - Rentt / cậu Rentt) từ #183 (orchestrator)
 - [#184] Tiêu đề arc/chương 'The State of Maalt (3)' — tạm chọn 'Tập 8 Chương 1 - Tình Hình Maalt (3)' đồng bộ với #182 và #183 (phương án khác: 'Tập 8 Chương 1 - Tình Trạng Của Maalt (3)', 'Tập 8 Chương 1 - Cục Diện Maalt (3)'). Tạm dùng trong bản dịch: 'Tập 8 Chương 1 - Tình Hình Maalt (3)'. → Chốt 'Tập 8 Chương 1 - Tình Hình Maalt (3)' (orchestrator)
 - [#184] Xưng hô giữa người đàn ông bí ẩn ở Mê Cung Tân Nguyệt và nhóm trẻ em điều khiển Thi Quỷ — tạm chọn người đàn ông xưng 'ta' gọi 'các ngươi', lũ trẻ gọi 'ngài' xưng 'ạ' (phương án khác: người đàn ông xưng 'ta' gọi 'các con / các cháu'). Tạm dùng trong bản dịch: người đàn ông (ta - các ngươi), lũ trẻ (ngài - con / ạ). → Chốt người đàn ông (ta - các ngươi), lũ trẻ (con - ngài / ạ) (orchestrator)
+- [#185] Dịch thuật ngữ 'blood medicine' (loại thuốc đặc chế ức chế cơn khát máu của ma cà rồng) — tạm chọn 'huyết dược' (phương án khác: 'thuốc máu'). → Chốt 'huyết dược' (đồng bộ với 'ma dược' ở #173) (orchestrator)
+- [#185] Xưng hô Wolf Hermann ↔ Nive Maris — tạm chọn Wolf xưng 'tôi' gọi 'cô'; Nive xưng 'tôi' gọi 'ông / Hội Trưởng' (phương án khác: Nive xưng 'em' hoặc 'tôi' gọi 'ngài Hội Trưởng'). → Chốt Wolf (tôi - cô), Nive (tôi - ông / Hội Trưởng) (orchestrator)

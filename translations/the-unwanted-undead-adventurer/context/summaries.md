@@ -1089,5 +1089,11 @@ Tại Mê Cung Tân Nguyệt, con Ma Cà Rồng bí ẩn đang ép một nhóm t
 Rentt suy ngẫm về bi kịch mất đi nhân tính và bản chất bị thay thế nhân cách của Undead sau khi chết, cũng như lòng trắc ẩn của những người sống khi không nỡ chối bỏ người thân biến thành xác sống.
 Tại một góc phố, Hội Trưởng Wolf Hermann cùng các mạo hiểm giả bao vây Tita Well — một tân binh Thiết Cấp bị biến thành Thi Quỷ nhưng vẫn vô thức nhắc về gia đình và ước mơ thăng hạng; trước sự khóc lóc van xin của nữ đồng đội Tita, Wolf nén đau thương vung đại kiếm kết liễu và dùng Nước Thánh hóa tro cậu thiếu niên để bảo vệ thị trấn.
 
+## 185
+Sau khi Tita Well bị tiêu diệt, Wolf kín đáo hỏi Rentt về khả năng cứu chữa Thi Quỷ; Rentt khẳng định mình có ý thức tỉnh táo khác hẳn bọn chúng và không biết cách biến Thi Quỷ trở lại thành người.
+Wolf chia sẻ thông tin khoảng 50–100 Thi Quỷ rải đều khắp Maalt; Rentt dựa vào cự ly liên lạc với quyến thuộc Edel và manh mối từng thấy Ma Cà Rồng cắn người để gợi ý sào huyệt kẻ địch nằm ở Mê Cung Tân Nguyệt.
+Wolf quyết định lập đội đột kích gồm Rentt và Lorraine; mạo hiểm giả Kim Cấp Nive Maris bất ngờ xuất hiện xin nhập bọn và nhận định kẻ địch có thể đang dùng huyết dược do một tổ chức Ma Cà Rồng lớn cung cấp.
+Trong lúc Nive hào hứng trước viễn cảnh mở đại hội săn Ma Cà Rồng khiến Rentt ngán ngẩm, Thánh Nữ Myullias Raiza hớt hải chạy tới vừa thở vừa quát tháo Nive vì thói quen tự ý chạy biến đi mất.
+
 
 

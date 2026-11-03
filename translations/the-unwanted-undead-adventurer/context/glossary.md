@@ -343,3 +343,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | crystal wolf | crystal wolves; Crystal wolf; Crystal wolves | Sói Pha Lê | quái vật | 177 | Quái vật dạng sói khổng lồ phủ đầy tinh thể pha lê lấp lánh (クリスタルウルフ) |
 | Kikal |  | Kikal | địa danh | 177 | Thị trấn quê hương của thợ thủ công Dylas |
 | dark magic |  | hắc ma pháp | kỹ năng | 179 | Loại ma pháp thuộc tính bóng tối, tà thuật |
+| blood medicine | Blood medicine; Blood Medicine | huyết dược | vật phẩm | 185 | Thuốc đặc chế có thể ức chế ham muốn hút máu của Ma Cà Rồng (血液薬) |
