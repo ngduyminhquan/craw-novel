@@ -1210,5 +1210,12 @@ Nhóm Rentt vào Phòng Khám Kohm, Rina mừng rỡ đoàn tụ với hai đồ
 Lorraine tự giới thiệu là học giả ma pháp sư kiêm mạo hiểm giả Ngân Cấp khiến Raiz hết lời sùng bái và hỏi xin bí quyết thăng hạng.
 Nive bước vào chào hỏi và tiết lộ bản thân là mạo hiểm giả Kim Cấp, khiến Raiz kinh ngạc trước tuổi đời trẻ trung của cô và thắc mắc về kinh nghiệm săn ma cà rồng.
 
+## 205
+Nive khuyên Raiz và Laura nên tích lũy kinh nghiệm vững chắc từng bước thay vì nóng vội, rồi dùng Thánh Hỏa kiểm tra và xác nhận cả hai đều an toàn, không bị biến thành Ma Cà Rồng hay Thi Quỷ.
+Bước ra ngoài hành lang để Rina trò chuyện riêng với đồng đội, Nive kể lại việc con Ma Cà Rồng ở Mê Cung Tân Nguyệt đã tự thiêu thành tro, đồng thời nhận định Maalt sẽ tạm thời yên ổn vì lũ Ma Cà Rồng có xu hướng né tránh nơi một Thượng Cấp Ma Cà Rồng như Shumini vừa bỏ mạng.
+Nive cho biết sẽ sớm rời khỏi Maalt trước khi người từ Học Viện và Tòa Tháp tràn tới; cô ghé sát mặt Rentt khẳng định vẫn luôn tin vào trực giác rằng anh là Ma Cà Rồng bất chấp mọi thử nghiệm.
+Bắt gặp cảnh hai người kề sát mặt nhau, Rina ngỡ ngàng chất vấn hiểu lầm khiến Lorraine và Nive hùa vào trêu chọc; sau màn bông đùa, Nive chào tạm biệt và thông báo ngày mai sẽ lên đường rời thị trấn.
+
+
 
 
