@@ -279,3 +279,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jia Regina Yaaran | Rentt Faina | tôi | các bạn / anh | 157 | Công chúa nói chuyện với ân nhân cứu mạng |
 | Nauss Ancro | Jia Regina Yaaran | tôi | Công Chúa | 157 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện với công chúa |
 | Jia Regina Yaaran | Nauss Ancro | tôi | ông / Nauss | 157 | Công chúa nói chuyện với cận vệ bảo hộ |
+| Lorraine Vivie | Nauss Ancro | tôi | ngài / ngài Nauss | 158 | Học giả cải trang nói chuyện lịch thiệp với Đội trưởng Cận Vệ Hoàng Gia |
+| Nauss Ancro | Lorraine Vivie | tôi | cô / tiểu thư | 158 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện với nữ ma pháp sư cứu viện |

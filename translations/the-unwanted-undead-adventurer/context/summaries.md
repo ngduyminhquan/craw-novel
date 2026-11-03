@@ -932,3 +932,9 @@ Trên đường cuốc bộ cùng Lorraine và Augurey trở về vương đô, 
 Lorraine dùng phong ma pháp mở đường để Rentt cùng Augurey xông vào tiêu diệt sạch lũ ma vật, giải cứu nhóm kỵ sĩ mặc giáp bạc bị thương nặng.
 Sau trận chiến, người đứng đầu nhóm kỵ sĩ tự giới thiệu là Nauss Ancro – Đội trưởng Cận Vệ Hoàng Gia Vương Quốc Yaaran, hộ tống Nhị Công Chúa Jia Regina Yaaran; Công Chúa ngỏ lời mời ân nhân tới vương cung để trọng thưởng.
 Lo ngại bị lộ thân phận giả, Rentt khéo léo viện cớ trang phục lòe loẹt không hợp lễ nghi và phải trả ủy thác để xin hoãn; Nauss cùng Công Chúa đồng ý và trao cho Rentt tấm huy chương ma thuật mang gia huy dòng họ để làm tín vật vào cung sau này.
+
+## 158
+Rentt và Augurey bàn cách từ chối khéo việc diện kiến vương cung để tránh gây chú ý; Lorraine chủ động dùng ma pháp thực vật triệu hồi dây leo khổng lồ nhấc bổng và dựng thẳng cỗ xe ngựa bị lật nhào của đoàn hộ tống.
+Công Chúa Jia Regina Yaaran huýt sáo gọi đôi kỳ lân trắng muốt kéo xe trở lại; nhận thấy các kỵ sĩ kiệt sức sau hai đợt tập kích liên tiếp, nhóm Rentt nhận lời hộ tống đoàn xe về tận gần cổng thành vương đô để tích lũy thêm ân huệ.
+Đến gần cổng thành, Rentt khéo léo từ chối lời hứa bẩm báo công lao lên Bệ Hạ của Nauss rồi cùng Lorraine và Augurey tách đoàn, xếp vào hàng thường dân để tránh bị lưu hồ sơ nhập thành.
+Sau khi qua cổng an toàn, Rentt hội ngộ cùng Lorraine trong khi Augurey tới Hội nộp ủy thác; hai người cùng nhau di chuyển tới điểm hẹn tại một cửa hàng theo chỉ dẫn của Augurey để bàn về phần thưởng.

@@ -303,3 +303,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | fire spirit madder |  | thiến thảo hỏa tinh linh | vật phẩm | 156 | Thảo dược mọc trong rừng ven vương đô Vistelya, rễ khô cho ra màu nhuộm đỏ tươi |
 | Royal Guard | the Royal Guard; Royal Guard’s | Cận Vệ Hoàng Gia | tổ chức | 157 | Lực lượng kỵ sĩ tinh nhuệ bảo vệ hoàng gia thuộc Vương Quốc Yaaran |
 | Rock Wolf | Rock Wolves; rock wolf; rock wolves | Sói Đá | quái vật | 157 | Phân loài quái vật sói kích thước vượt trội Sói Rừng, có lớp đá bao bọc cơ thể như áo giáp |
+| Unicorn | Unicorns; unicorn; unicorns | kỳ lân | quái vật | 67 | Quái vật dạng ngựa trắng có sừng trên trán, tốc độ và sức bền vượt xa ngựa thường, tính khí thất thường khó thuần dưỡng (ユニコーン) |
+| His Majesty | Majesty | Bệ Hạ | danh hiệu | 158 | Danh xưng tôn kính dành cho Quốc Vương Yaaran |
+| plant magic |  | ma pháp thực vật | kỹ năng | 158 | Ma pháp điều khiển hoặc tác động lên cây cỏ, thực vật (植物魔法) |
