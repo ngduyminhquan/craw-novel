@@ -1065,3 +1065,9 @@ Rentt nhận ủy thác dọn dẹp nhà cửa thừa kế và phân loại đ�
 Trong lúc dọn dẹp, Rentt tình cờ phát hiện một khối ma cụ lập phương nhỏ cỡ lòng bàn tay kẹp giữa hai kệ sách và mang về nhờ học giả Lorraine Vivie giám định.
 Lorraine rót Ma Lực kích hoạt và nhận diện đây là ma cụ trình chiếu hình ảnh quý hiếm xuất xứ từ Đế Quốc chỉ có ở tầng sâu mê cung; ma cụ phóng ra luồng sáng tái hiện hình ảnh quá khứ ấm áp của người ông, cha mẹ và Rota lúc còn ẵm ngửa.
 Hôm sau Rentt mang ma cụ trả lại cho Rota; xúc động trước kỷ niệm gia đình vô giá, Rota kiên quyết giữ lại làm gia bảo không bao giờ bán và chân thành cảm ơn sự giúp đỡ tận tâm của Rentt.
+
+## 181
+Một học giả quen biết của Lorraine gây ra sự cố rò rỉ khí nguy hiểm tại cơ sở nghiên cứu ở Maalt khiến quái vật bên trong nổi loạn; vì người thường không thể vào do khí độc hại, Lorraine nhờ Rentt (thể chất Undead miễn nhiễm khí độc) đến dọn dẹp.
+Đến nơi, Rentt tiến vào tòa nhà và phát hiện các quái vật bị biến đổi là những con Slime mô phỏng hình dạng và chuyển động của Goblin và Orc một cách chuẩn xác; nhận thấy chúng không quá mạnh nhưng tiềm ẩn nguy cơ sinh sôi ngoài tự nhiên, Rentt bọc Khí Lực lên kiếm phá hủy toàn bộ lõi của chúng.
+Gặp lại nữ học giả bên ngoài thông báo hoàn thành nhiệm vụ, Rentt lỡ lời ngỏ ý sẵn sàng giúp nếu có sự cố tương tự khiến cô ta hào hứng đòi làm nghiên cứu về cơ thể anh; Rentt hoảng hốt cắm đầu chạy thục mạng về nhà Lorraine, ngán ngẩm nhận ra người này cũng có máu nghiên cứu điên cuồng chẳng kém gì cô bạn thân.
+

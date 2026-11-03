@@ -119,6 +119,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 178: Được Sheila và Hội Trưởng Wolf Hermann tiến cử nhận ủy thác mô phỏng hộ tống nhân viên mới của Hội; giải đáp cặn kẽ điều lệ Hội cho một nữ nhân viên trẻ khiến cô bé nhầm là tiền bối lâu năm; động viên cô bé trước khi cùng cả nhóm lên đường.
 - Trạng thái tính đến chương 179: Nhận lời giúp một đoàn kịch lưu động bị hủy lịch diễn đột ngột; mượn bãi đất ngoại ô của Lorraine làm sân khấu và nhờ cô dùng ma pháp ảo ảnh tạo phông nền; đóng thế vai ma pháp sư phản diện sử dụng hắc ma pháp suốt 4 ngày công chiếu thành công rực rỡ; Lorraine dự định giới thiệu đoàn kịch cho người quen ở Đế Quốc.
 - Trạng thái tính đến chương 180: Nhận ủy thác dọn dẹp nhà thừa kế từ thân chủ Rota; tìm thấy ma cụ lập phương quý hiếm kẹp giữa kệ sách và mang về nhờ Lorraine giám định; cùng Rota chứng kiến ma cụ phóng ra luồng sáng tái hiện hình ảnh gia đình quá khứ của người ông, cha mẹ và Rota thuở ẵm ngửa; vui mừng khi Rota quyết định giữ lại làm gia bảo thay vì bán đi.
+- Trạng thái tính đến chương 181: Nhận lời nhờ vả của Lorraine đến một cơ sở nghiên cứu tư nhân ở Maalt giải quyết sự cố rò rỉ khí độc hại; phát huy thể chất Undead miễn nhiễm khí độc và bọc Khí Lực lên kiếm tiêu diệt gọn bầy Slime mô phỏng hình dáng Goblin và Orc; hoảng hốt tháo chạy khi nữ học giả nọ hào hứng ngỏ ý muốn nghiên cứu cơ thể anh.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -154,6 +155,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 176: Thể hiện kỹ năng kiểm soát ma pháp lửa đỉnh cao thiêu rụi cành gai mà không làm cháy lá dược liệu của Ent Cổ Đại; dùng ma pháp dây leo trói quái vật và ma nhãn phát hiện điểm yếu ở trán mở đường cho Hayden kết liễu; cảnh báo Rentt vì suýt để lộ năng lực Undead; cùng Rentt nâng ly ăn mừng khi nhận thư báo Elaine đã bình phục và dịch bệnh bị đẩy lùi.
 - Trạng thái tính đến chương 179: Cho đoàn kịch lưu động mượn mảnh đất ngoại vi thị trấn làm sân khấu diễn kịch, dùng ma pháp ảo ảnh tạo phông nền sống động và trêu chọc khả năng diễn xuất của Rentt; dự định giới thiệu đoàn kịch cho người quen ở Đế Quốc.
 - Trạng thái tính đến chương 180: Giám định khối ma cụ lập phương Rentt mang về từ nhà ông của Rota; rót Ma Lực kích hoạt tính năng trình chiếu hình ảnh của ma cụ xuất xứ từ tầng sâu mê cung ở Đế Quốc.
+- Trạng thái tính đến chương 181: Được một người quen là học giả tại Maalt khóc lóc cầu cứu sau sự cố rò rỉ khí độc hại và quái vật biến đổi tại cơ sở nghiên cứu tư nhân; nhờ Rentt nhận việc vì biết rõ thể chất Undead của anh hoàn toàn miễn nhiễm với khí độc.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.

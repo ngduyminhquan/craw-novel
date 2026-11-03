@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T05:50:45Z",
+  "generatedAt": "2026-11-03T05:56:28Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3233,6 +3233,12 @@
           "title": "Chương 180: Ngoại truyện Tập 7 - Quản Lý Gia Bảo",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_180.md",
           "sha": "c146192ac06efd26c68ef1465ec63620472dbbbb"
+        },
+        {
+          "number": 181,
+          "title": "Chương 181: Ngoại truyện Tập 7 - Bản Tính Của Nhà Nghiên Cứu",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_181.md",
+          "sha": "9070dd286f3e682756c110b4c236f99a417f8b1f"
         }
       ]
     },

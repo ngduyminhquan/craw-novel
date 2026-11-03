@@ -185,7 +185,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | reviewed |  |
 | 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | reviewed |  |
 | 180 |  | Chapter_180 - Vol 7 Bonus - Heirloom Management.txt | Vol 7 Bonus - Heirloom Management | reviewed |  |
-| 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | todo |  |
+| 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | done |  |
 | 182 |  | Chapter_182 - Vol 8 Chapter 1 - The State of Maalt (1).txt | Vol 8 Chapter 1 - The State of Maalt (1) | todo |  |
 | 183 |  | Chapter_183 - Vol 8 Chapter 1 - The State of Maalt (2).txt | Vol 8 Chapter 1 - The State of Maalt (2) | todo |  |
 | 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | todo |  |
@@ -346,8 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -767,3 +765,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#179] Dịch kỹ năng/loại ma thuật 'dark magic' — tạm chọn 'hắc ma pháp' (đồng bộ với tiền lệ 'hắc ma thuật' ở #10 và các loại ma pháp khác trong glossary; phương án khác: 'ma pháp bóng tối'). Tạm dùng trong bản dịch: 'hắc ma pháp'. → Chốt 'hắc ma pháp' (orchestrator)
 - [#180] Dịch tiêu đề 'Vol 7 Bonus - Heirloom Management' — tạm chọn 'Ngoại truyện Tập 7 - Quản Lý Gia Bảo' (đồng bộ format với #177-#179; phương án khác: 'Ngoại truyện Tập 7 - Quản Lý Di Vật', 'Ngoại truyện Tập 7 - Xử Lý Di Vật'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 7 - Quản Lý Gia Bảo'. → Chốt 'Ngoại truyện Tập 7 - Quản Lý Gia Bảo' (orchestrator)
 - [#180] Xưng hô giữa Rentt Faina và thân chủ trung niên Rota — tạm chọn Rota xưng 'tôi' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'chị / Rota' (phương án khác: Rentt xưng 'tôi / cháu' gọi 'cô / Rota'). Tạm dùng trong bản dịch: Rota (tôi - cậu / Rentt), Rentt (tôi - chị / Rota). → Chốt Rota (tôi - cậu / Rentt), Rentt (tôi - chị / Rota) (orchestrator)
+- [#181] Dịch tiêu đề 'Vol 7 Bonus - A Researcher’s Nature' — tạm chọn 'Ngoại truyện Tập 7 - Bản Tính Của Nhà Nghiên Cứu' (đồng bộ format với #177-#180; phương án khác: 'Ngoại truyện Tập 7 - Bản Tính Nhà Nghiên Cứu', 'Ngoại truyện Tập 7 - Bản Chất Của Nhà Nghiên Cứu'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 7 - Bản Tính Của Nhà Nghiên Cứu'. → Chốt 'Ngoại truyện Tập 7 - Bản Tính Của Nhà Nghiên Cứu' (orchestrator)
+- [#181] Xưng hô giữa Rentt Faina và nữ học giả / nhà nghiên cứu (người quen của Lorraine) — tạm chọn Rentt xưng 'tôi' gọi 'cô', nữ học giả xưng 'tôi' gọi 'anh' (phù hợp quan hệ xã giao lịch sự giữa mạo hiểm giả và học giả; phương án khác: Rentt gọi 'cô / người này', nữ học giả gọi 'cậu'). Tạm dùng trong bản dịch: Rentt (tôi - cô), nữ học giả (tôi - anh). → Chốt Rentt (tôi - cô), nữ học giả (tôi - anh) (orchestrator)
