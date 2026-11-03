@@ -10,11 +10,11 @@ Một lúc sau khi chúng tôi bắt đầu hướng về phía lối ra, có đ
 
 "Goblin ư? Sao nó lại ở đây?" Lorraine ngạc nhiên hỏi.
 
-Goblin có thể xuất hiện ở bất cứ đâu, nên có người sẽ bảo bắt gặp một con thì chẳng có gì đáng ngạc nhiên. Điều đó nhìn chung là đúng, nhưng chỉ áp dụng ở bên ngoài các thành phố. Lần duy nhất người ta nhìn thấy chúng bên trong thành phố là khi đó là những con goblin ôn hòa đến giao thương với con người. Quái vật thường bị cấm bén mảng tới các khu định cư của con người. Những con quái vật tí hon như Puchi Suri có thể luồn lách qua các kẽ hở, nhưng một con goblin đơn lẻ cũng đủ sức đả thương một người đàn ông trưởng thành, nên chúng luôn bị đề phòng cảnh giác. Các ma thuật sư chuyên trách sẽ giăng kết giới để báo động khi có kẻ xâm nhập, và khi ấy hiệp sĩ hoặc mạo hiểm giả sẽ được phái đi lùng sục chúng. Chính vì lẽ đó, việc chạm trán một con goblin ngay bên dưới Maalt quả là điều hết sức kỳ lạ.
+Goblin có thể xuất hiện ở bất cứ đâu, nên có người sẽ bảo bắt gặp một con thì chẳng có gì đáng ngạc nhiên. Điều đó nhìn chung là đúng, nhưng chỉ áp dụng ở bên ngoài các thành phố. Lần duy nhất người ta nhìn thấy chúng bên trong thành phố là khi đó là những con Goblin ôn hòa đến giao thương với con người. Quái vật thường bị cấm bén mảng tới các khu định cư của con người. Những con quái vật tí hon như Puchi Suri có thể luồn lách qua các kẽ hở, nhưng một con Goblin đơn lẻ cũng đủ sức đả thương một người đàn ông trưởng thành, nên chúng luôn bị đề phòng cảnh giác. Các ma thuật sư chuyên trách sẽ giăng kết giới để báo động khi có kẻ xâm nhập, và khi ấy hiệp sĩ hoặc mạo hiểm giả sẽ được phái đi lùng sục chúng. Chính vì lẽ đó, việc chạm trán một con Goblin ngay bên dưới Maalt quả là điều hết sức kỳ lạ.
 
-Dĩ nhiên, chúng tôi không thể cứ thế mặc kệ nó ở đây, nên cả nhóm đành phải nghênh chiến. Đi cùng nó còn có thêm hai con goblin nữa, nhưng ba người chúng tôi đời nào lại gặp khó khăn trước lũ goblin. Trận chiến diễn ra dễ dàng đúng như dự đoán. Goblin rất giỏi phối hợp tác chiến, và người ta vẫn bảo hạ gục từng con một là giải pháp lý tưởng nhất, thế nên chúng tôi đã làm đúng như vậy. Tất nhiên, mỗi người chúng tôi đều thừa sức tự mình xử lý một con goblin, nhưng sự xuất hiện của chúng ở nơi này quá đỗi bất thường và chúng có thể sở hữu những năng lực kỳ dị nào đó. Dẫu vậy, hóa ra chúng chỉ là lũ goblin bình thường.
+Dĩ nhiên, chúng tôi không thể cứ thế mặc kệ nó ở đây, nên cả nhóm đành phải nghênh chiến. Đi cùng nó còn có thêm hai con Goblin nữa, nhưng ba người chúng tôi đời nào lại gặp khó khăn trước lũ Goblin. Trận chiến diễn ra dễ dàng đúng như dự đoán. Goblin rất giỏi phối hợp tác chiến, và người ta vẫn bảo hạ gục từng con một là giải pháp lý tưởng nhất, thế nên chúng tôi đã làm đúng như vậy. Tất nhiên, mỗi người chúng tôi đều thừa sức tự mình xử lý một con Goblin, nhưng sự xuất hiện của chúng ở nơi này quá đỗi bất thường và chúng có thể sở hữu những năng lực kỳ dị nào đó. Dẫu vậy, hóa ra chúng chỉ là lũ Goblin bình thường.
 
-"Thế này là thế nào chứ? Tôi biết chúng ta đang ở dưới lòng đất, nhưng đây vẫn là Maalt mà. Lũ goblin làm cái quái gì ở đây cơ chứ?" Lorraine gặng hỏi lại, nhưng chẳng ai có câu trả lời.
+"Thế này là thế nào chứ? Tôi biết chúng ta đang ở dưới lòng đất, nhưng đây vẫn là Maalt mà. Lũ Goblin làm cái quái gì ở đây cơ chứ?" Lorraine gặng hỏi lại, nhưng chẳng ai có câu trả lời.
 
 "Có lẽ chuyện này có liên quan đến những gì Shumini đã làm," tôi suy đoán.
 
@@ -24,17 +24,17 @@ Lorraine và Isaac đều đồng ý. Chúng tôi vội vã chạy về phía l�
 
 ◆◇◆◇◆
 
-Khi bước ra khỏi ngôi nhà chứa lối vào đường hầm dưới lòng đất, chúng tôi thấy các mạo hiểm giả đang chiến đấu với quái vật khắp mọi ngóc ngách trong thị trấn. Có đủ loại quái vật, bao gồm cả goblin, Slime và Khô Lâu. Dẫu vậy, tôi không thấy con nào đặc biệt mạnh mẽ. Dường như chẳng ai gặp nguy hiểm tính mạng trước chúng, nên chúng tôi không cần phải nhảy vào can thiệp.
+Khi bước ra khỏi ngôi nhà chứa lối vào đường hầm dưới lòng đất, chúng tôi thấy các mạo hiểm giả đang chiến đấu với quái vật khắp mọi ngóc ngách trong thị trấn. Có đủ loại quái vật, bao gồm cả Goblin, Slime và Khô Lâu. Dẫu vậy, tôi không thấy con nào đặc biệt mạnh mẽ. Dường như chẳng ai gặp nguy hiểm tính mạng trước chúng, nên chúng tôi không cần phải nhảy vào can thiệp.
 
 "Chuyện gì đang xảy ra thế này?" Lorraine nói, vẻ mặt bàng hoàng trước tình cảnh của thị trấn.
 
-"Để tôi hỏi ai đó xem sao," Isaac đề xuất. Anh bước lại gần một người đàn ông đang đánh nhau với goblin và chém gục con quái vật chỉ bằng một đòn. "Rốt cuộc chuyện quái quỷ gì đang diễn ra ở đây vậy?"
+"Để tôi hỏi ai đó xem sao," Isaac đề xuất. Anh bước lại gần một người đàn ông đang đánh nhau với Goblin và chém gục con quái vật chỉ bằng một đòn. "Rốt cuộc chuyện quái quỷ gì đang diễn ra ở đây vậy?"
 
 Người đàn ông hơi sững sờ trước sự xuất hiện đường đột của Isaac, nhưng anh ta vẫn cất lời đáp. "À thì, chính tôi cũng chẳng rõ nữa, nhưng tự dưng quái vật từ đâu chui ra ồ ạt! Tất cả mạo hiểm giả đều đang đổ xô đi tiêu diệt chúng đấy!"
 
 "Chúng xuất hiện hoàn toàn không báo trước sao?"
 
-"Đúng thế đấy. Mấy người cũng ra tay giúp một tay đi. Có cả Thi Quỷ nữa đấy, cẩn thận nhé!" người đàn ông nói rồi chạy đi hạ gục một con quái vật khác.
+"Đúng thế đấy. Mấy người cũng giúp một tay đi. Có cả Thi Quỷ nữa đấy, cẩn thận nhé!" người đàn ông nói rồi chạy đi hạ gục một con quái vật khác.
 
 "Ngài có nghe thấy không?" Isaac hỏi.
 
@@ -54,7 +54,7 @@ Tôi thấy hơi chạnh lòng trước câu hỏi đó, nhưng tôi hiểu cả
 
 Chúng tôi giải thích tình hình cho Wolf. Cả nhóm giấu bớt một số chuyện đề phòng người khác nghe thấy, nhưng Wolf vẫn nắm được đại ý.
 
-"Ta vẫn chưa rõ chính xác chuyện gì đã xảy ra, nhưng khả năng cao đó chính là thứ đã kích hoạt mớ hỗn loạn này," ông nói. "Phải có ai đó đi tiêu diệt thứ quái quỷ đó." Ông nhìn chúng tôi với ánh mắt đầy kỳ vọng.
+"Tôi vẫn chưa rõ chính xác chuyện gì đã xảy ra, nhưng khả năng cao đó chính là thứ đã kích hoạt mớ hỗn loạn này," ông nói. "Phải có ai đó đi tiêu diệt thứ quái quỷ đó." Ông nhìn chúng tôi với ánh mắt đầy kỳ vọng.
 
 Wolf không nói thẳng thừng bảo chúng tôi phải đi, có lẽ vì ông cảm thấy mình đang bóc lột chúng tôi quá mức. Dẫu vậy, xét theo tình thế hiện tại thì mọi mạo hiểm giả đều đang phải làm việc quá sức. Chỉ cần nhìn quanh Hội một lượt là thấy rõ điều đó. Bản thân Wolf cũng bị thương nặng và vẫn đang làm việc sau khi chỉ vừa được sơ cứu qua loa. Chúng tôi không ở vào vị thế có thể từ chối, mà thực ra cũng chẳng hề có ý định chối từ.
 
@@ -62,13 +62,13 @@ Ngay cả Isaac cũng muốn đi. Anh không phải là thành viên của Hội
 
 "Được rồi, chúng tôi sẽ đi," tôi nói. "Isaac có thể đi cùng chứ?"
 
-"Được chứ, nghe chừng anh ta sẽ giúp được việc đấy. Ta không phản đối chuyện anh ta đi cùng. Vấn đề duy nhất là thù lao."
+"Được chứ, nghe chừng anh ta sẽ giúp được việc đấy. Tôi không phản đối chuyện anh ta đi cùng. Vấn đề duy nhất là thù lao."
 
 "Không cần thù lao đâu," Isaac nói. Có lẽ là vì bản thân anh có dính líu trực tiếp tới chuyện này, và cũng vì ngay từ đầu anh đã có thừa tiền bạc rồi.
 
 Thế nhưng Wolf lại chẳng hề hay biết gì về những điều đó. "Không, thế sao được," ông nói.
 
-"Một khi đã liều mạng thì phải được đền đáp xứng đáng. Ta sẽ xem anh như thành viên tạm thời của Hội và trả thù lao sau. Cứ để ta tính toán tiền công cho anh sau khi mọi chuyện lắng xuống. Giờ thì đi mau!"
+"Một khi đã liều mạng thì phải được đền đáp xứng đáng. Tôi sẽ xem anh như thành viên tạm thời của Hội và trả thù lao sau. Cứ để tôi tính toán tiền công cho anh sau khi mọi chuyện lắng xuống. Giờ thì đi mau!"
 
 Chúng tôi gật đầu rồi rời khỏi Hội.
 
@@ -100,7 +100,7 @@ Chúng tôi rời khỏi khu vực đó và chạy về phía lối vào đườ
 
 Nhưng tôi không đồng tình. Lorraine chẳng có lỗi gì trong chuyện này cả. Tôi là người phản ứng trước tiên, và tôi cũng ở gần con quái vật nhất. Lorraine đã khựng lại trong thoáng chốc, đó là phản ứng hoàn toàn bình thường của một con người, trong khi tôi thì lại chẳng hề khựng lại chút nào. Bất kể tôi cảm thấy thế nào về điều đó, tôi đoán rốt cuộc mình vẫn là một con quái vật. Tôi có phần thất vọng về bản thân.
 
-"Ngài Rentt, ngài là một mạo hiểm giả xuất sắc đấy," Isaac nói. "Ngài đã bảo vệ một người phụ nữ cùng đứa con sắp chào đời của cô ấy, ngài biết đấy."
+"Ngài Rentt, ngài là một mạo hiểm giả xuất sắc đấy," Isaac nói. "Ngài đã bảo vệ một người phụ nữ cùng đứa con sắp chào đời của cô ấy đấy thôi."
 
 Anh hoàn toàn có lý. Nếu tôi không làm gì cả, có lẽ họ đã mất mạng rồi. Nhưng tôi lại quá bận tâm đến việc mình còn giữ được nhân tính hay không. Như thế thật chẳng tốt chút nào.
 
@@ -114,7 +114,7 @@ Tất cả chúng tôi đều mang tâm trạng nặng nề, và nếu cứ gi�
 
 "Ai thế kia?" Lorraine hỏi.
 
-Khi chúng tôi bước ra khỏi ngôi nhà chứa lối vào đường hầm dưới lòng đất, chúng tôi thấy ai đó đang đứng bên ngoài. Cô ấy không phải là quái vật hay Thi Quỷ, mà là một cô bé mặc chiếc váy đen.
+Khi chúng tôi tới ngôi nhà chứa lối vào đường hầm dưới lòng đất, chúng tôi thấy ai đó đang đứng bên ngoài. Cô ấy không phải là quái vật hay Thi Quỷ, mà là một cô bé mặc chiếc váy đen.
 
 "Tiểu thư Laura," Isaac thì thầm.
 

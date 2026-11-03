@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T07:39:44Z",
+  "generatedAt": "2026-11-03T07:49:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3292,19 +3292,19 @@
           "number": 190,
           "title": "Chương 190: Ngoại truyện Tập 8 - Isaac Hart (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_190.md",
-          "sha": "1182e36b9d95de006bcd648b5b617ff51fbeee38"
+          "sha": "8dcf7c1da45a2f5a5891db9b863e6c5afaff0e7c"
         },
         {
           "number": 191,
           "title": "Chương 191: Tập 8 Chương 3 - Ma Cà Rồng và Người Đàn Ông Tóc Bạc (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_191.md",
-          "sha": "c50530da20fef902b076846ac19864a7b6cbdbf1"
+          "sha": "7aee203ebe1e487b2977044ff95dd39d383e5805"
         },
         {
           "number": 192,
           "title": "Chương 192: Tập 8 Chương 3 - Ma Cà Rồng và Người Đàn Ông Tóc Bạc (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_192.md",
-          "sha": "cdd8884a67a486c14080f0432d28d45321c33e78"
+          "sha": "dfdb1e6d830f1490f553e50a8d53b3ae2747952b"
         }
       ]
     },

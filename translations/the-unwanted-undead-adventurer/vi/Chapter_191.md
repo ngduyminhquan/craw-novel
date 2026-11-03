@@ -46,7 +46,7 @@ Lorraine phản công bằng ma pháp của chính cô. Bảy mũi giáo băng b
 
 "Isaac?!" tôi thảng thốt kêu lên khi nhận ra mái tóc màu bạc cùng những đường nét lạnh lùng của anh ta.
 
-Đó chính là Isaac Hart, người hầu của Gia tộc Latuule mà tôi từng gặp tại Đầm Lầy Tarasque. Tôi hoàn toàn không hiểu vì sao anh ta lại ở đây, nhưng anh ta chắc chắn rất mạnh mẽ. Con người bình thường đều phải e sợ vùng đầm lầy, nhưng anh ta có thể băng qua nó mà chẳng cần gì ngoài một bộ giáp nhẹ, cứ như thể chỉ đang đi dạo vậy.
+Đó chính là Isaac Hart, người hầu của gia tộc Latuule mà tôi từng gặp tại Đầm Lầy Tarasque. Tôi hoàn toàn không hiểu vì sao anh ta lại ở đây, nhưng anh ta chắc chắn rất mạnh mẽ. Con người bình thường đều phải e sợ vùng đầm lầy, nhưng anh ta có thể băng qua nó mà chẳng cần gì ngoài một bộ giáp nhẹ, cứ như thể chỉ đang đi dạo vậy.
 
 "Rentt," Isaac thì thào khi nhìn thấy khuôn mặt tôi. Tôi không thấy có vết thương nào. Có điều gì đó trong toàn bộ tình cảnh này dường như hơi bất thường.
 
@@ -60,7 +60,7 @@ Tình thế chuyển thành ba chọi một, và người đàn ông mặc áo c
 
 "Đó là cái giá phải trả khi cậu giày xéo thị trấn này, Shumini," Isaac nói.
 
-Nếu lời lũ Ma Cà Rồng kia đáng tin, thì Shumini chính là tên kẻ cầm đầu của chúng.
+Nếu lời lũ Ma Cà Rồng kia đáng tin, thì Shumini chính là tên của kẻ cầm đầu bọn chúng.
 
 "Ngươi là kẻ chủ mưu đứng sau toàn bộ mớ hỗn loạn này sao?" tôi hỏi.
 
@@ -78,7 +78,7 @@ Vẻ điềm tĩnh của Shumini biến mất và những đường gân bắt �
 
 "Ngươi đã giết bọn họ ư?" gã hỏi.
 
-Về mặt lý thuyết, việc có thể giết Undead hay phải gọi là tiêu diệt chúng còn tùy thuộc vào việc bạn hỏi ai, cũng như quan điểm tôn giáo và chuẩn mực đạo đức của họ là gì. Dưới góc nhìn của một Ma Cà Rồng, có vẻ như họ cảm thấy mình vẫn đang sống và có thể bị giết. Tôi có lẽ cũng sẽ cảm thấy như vậy nếu bản thân bị tiêu diệt, nên tôi thấu hiểu điều đó. Nhưng con người lại nghĩ khác.
+Về mặt lý thuyết, việc có thể giết Undead hay phải gọi là tiêu diệt chúng còn tùy thuộc vào việc hỏi ai, cũng như quan điểm tôn giáo và chuẩn mực đạo đức của họ là gì. Dưới góc nhìn của một Ma Cà Rồng, có vẻ như họ cảm thấy mình vẫn đang sống và có thể bị giết. Tôi có lẽ cũng sẽ cảm thấy như vậy nếu bản thân bị tiêu diệt, nên tôi thấu hiểu điều đó. Nhưng con người lại nghĩ khác.
 
 "Khi tiêu diệt Undead, chúng tôi không bảo là mình đã giết chúng," tôi khẳng định.
 
@@ -106,7 +106,7 @@ Nhưng có một điều dường như rõ ràng là Isaac đứng ở phe đố
 
 "Cậu đang nói cái gì thế?" Isaac nghiêng đầu hỏi.
 
-Tuy nhiên, Shumini đột ngột rút một con dao ra khỏi lớp áo chùng rồi giơ lên. Con dao đen tuyền từ chuôi đến lưỡi, và tôi cảm nhận được một luồng khí tức nồng đậm phát ra từ nó. Gã chĩa mũi dao không phải về phía chúng tôi, mà là về phía chính mình. "Ta sẽ bù đắp cho những gì mình còn thiếu bằng cách lấy chính mình làm vật tế! Vĩnh biệt, Isaac!" gã gào lên rồi đâm phập con dao vào ngực mình. Những vết nứt bắt đầu lan rộng khắp cơ thể gã, chia cắt làn da nhợt nhạt thành từng mảnh như những viên gạch lát. Ánh sáng xanh lam rực rỡ tỏa ra qua các khe nứt.
+Tuy nhiên, Shumini đột ngột rút một con dao ra khỏi lớp áo chùng rồi giơ lên. Con dao đen tuyền từ chuôi đến lưỡi, và tôi cảm nhận được một luồng khí tức nồng đậm phát ra từ nó. Gã chĩa mũi dao không phải về phía chúng tôi, mà là về phía chính mình. "Tôi sẽ bù đắp cho những gì mình còn thiếu bằng cách lấy chính mình làm vật tế! Vĩnh biệt, Isaac!" gã gào lên rồi đâm phập con dao vào ngực mình. Những vết nứt bắt đầu lan rộng khắp cơ thể gã, chia cắt làn da nhợt nhạt thành từng mảnh như những viên gạch lát. Ánh sáng xanh lam rực rỡ tỏa ra qua các khe nứt.
 
 "Shumini," Isaac lẩm bẩm, nhưng đây dường như không phải lúc để lo lắng cho gã.
 

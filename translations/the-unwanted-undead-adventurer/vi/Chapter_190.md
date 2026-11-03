@@ -38,7 +38,7 @@ Shumini trừng mắt nhìn đám mạo hiểm giả đang tới tấp phóng ma
 
 "Khi ấy tôi chẳng biết gì cả. Tôi không mong mình sẽ được tha thứ cho những việc đã làm, nhưng tôi không thể để chuyện đó tái diễn thêm lần nào nữa," tôi tuyên bố.
 
-Shumini lùi lại rồi khuỵu gối xuống như thể vừa mất thăng bằng. Gã bật cười. "Tôi hiểu rồi, ra là cậu đã thay đổi. Chắc chắn là có tên con người nào đó đã lừa gạt cậu. Tôi nói đúng chứ? Kẻ loài người xấc xược nào đang lừa dối cậu hả?! Tôi sẽ đi giết sạch chúng. Rồi cậu sẽ quay về, đúng chứ?!"
+Shumini lùi lại rồi khuỵu gối xuống như thể vừa mất thăng bằng. Gã bật cười. "Tôi hiểu rồi, ra là cậu đã thay đổi. Chắc chắn là có tên con người nào đó đã lừa gạt cậu. Tôi nói đúng chứ? Kẻ loài người xấc xược đang lừa dối cậu ở đâu?! Tôi sẽ đi giết hắn. Rồi cậu sẽ quay về, đúng chứ?!"
 
 Lúc này tôi nhận ra rằng gã sẽ chẳng đời nào chịu nghe khuyên bảo. Đã quá muộn rồi. Ngay từ đầu tôi đã biết lý tưởng của chúng tôi không còn chung đường nữa. Dẫu vậy, tôi vẫn ôm một tia hy vọng mong manh nhất. Suốt một thời gian dài, chúng tôi từng chia sẻ cùng chung mục tiêu và chu du bên nhau. Bất kể mọi thứ có đổi thay ra sao, tôi từng ngỡ có lẽ mình có thể khiến gã hiểu ra. Nhưng dĩ nhiên là tôi không thể. Tôi đã quên mất rằng gã sẽ chẳng đời nào dễ dàng từ bỏ khát vọng của mình như thế. Kẻ dao động là tôi, chứ không phải gã.
 
@@ -78,6 +78,6 @@ Những mũi tên cùng ma pháp từ dưới đất tới tấp lao về phía 
 
 Nếu gã từ chối, có lẽ tôi đã dùng vũ lực lôi gã sang nơi khác. Nhưng Shumini liếc nhìn đám mạo hiểm giả dưới mặt đất, thấy ngày càng có nhiều kẻ đang chạy dồn về phía tòa nhà, rồi gật đầu. "Được thôi."
 
-Gã ắt hẳn không muốn lũ côn trùng này cứ bò loanh quanh chích những mũi tên và ma pháp vào người mình. Shumini trước giờ luôn thích thưởng thức những sơn hào hải vị trong sự yên tĩnh. Bị quấy rầy luôn khiến gã nổi trận lôi đình. Điều đó gợi lại những ký ức ngọt ngào xưa cũ, nhưng tôi không muốn nghĩ về chuyện đó nữa.
+Gã ắt hẳn không muốn lũ côn trùng này cứ bò loanh quanh chích những mũi tên và ma pháp vào người mình. Shumini trước giờ luôn thích thưởng thức những món mỹ vị trong sự yên tĩnh. Bị quấy rầy luôn khiến gã nổi trận lôi đình. Điều đó gợi lại những ký ức ngọt ngào xưa cũ, nhưng tôi không muốn nghĩ về chuyện đó nữa.
 
 "Lối này. Đi theo tôi," tôi nói. Tôi từng muốn nói rằng nơi đó sẽ là nấm mồ của gã, nhưng rốt cuộc nó cũng có thể trở thành nấm mồ của chính tôi. Tôi cần phải dốc toàn lực cho trận chiến này.
