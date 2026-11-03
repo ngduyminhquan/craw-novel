@@ -1101,6 +1101,13 @@ Tại căn phòng trong dinh thự Latuule, Isaac lấy lại thanh kiếm bạc
 Nhận ra người quen cũ đang tìm mình và đoán được thân phận kẻ đó, Isaac quyết định mang kiếm rời dinh thự để đối diện với quá khứ.
 Tại cổng trước, Laura dặn dò anh không được mong chờ người khác định đoạt vụ cá cược thay mình và phải sống sót trở về tự tay kết thúc nó; xúc động trước lời dặn của nữ chủ nhân, Isaac cất bước tiến vào thị trấn Maalt.
 
+## 187
+Lorraine, Nive và Thánh Nữ Myullias chào hỏi làm quen nhau; Myullias chủ động khuyên Lorraine không cần giữ kẽ theo lễ nghi Đế Quốc mà cứ nói chuyện tự nhiên.
+Tại cổng thành Maalt, Wolf bố trí xe ngựa kéo bởi loài ngựa sáu chân hậu duệ của Sleipnir đưa nhóm bốn người cùng hai tổ đội tinh nhuệ khác cấp tốc tới Mê Cung Tân Nguyệt.
+Tiến vào mê cung, Nive dũng mãnh dùng vuốt sắt xé xác quái vật mở đường; Lorraine thi triển ma pháp cường hóa thể chất hỗ trợ Myullias bắt kịp tốc độ di chuyển của đội.
+Đến một căn phòng lớn, cả nhóm phát hiện các nạn nhân bị bắt giữ bao gồm Raiz Dunner và Laura Satii đang bị trói, cùng một nhóm người đứng bất động sắp biến đổi hoàn toàn thành Thi Quỷ.
+Trước quyết tâm thanh trừng Thi Quỷ của Nive, hai thiếu niên Ma Cà Rồng bất ngờ xuất hiện từ phía sâu mê cung, để lộ việc hành động bắt cóc và thao túng Thi Quỷ là theo chỉ thị của nhân vật bí ẩn tên Shumini.
+
 
 
 

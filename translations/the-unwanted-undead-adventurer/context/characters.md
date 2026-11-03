@@ -98,6 +98,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Liesse |  | Liesse | Nữ diễn viên chính của đoàn kịch lưu động đến Maalt | #179 |
 | Rota |  | Rota | Người phụ nữ trung niên xuất thân từ gia đình bình thường ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế | #180 |
 | Tita Well | Tita | Tita Well | Mạo hiểm giả Thiết Cấp trẻ tuổi ở Maalt, bị biến thành Thi Quỷ và bị Wolf hạ sát | #184 |
+| Shumini | Mr. Shumini | Shumini | Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi | #187 |
 
 ## Chi tiết
 
@@ -665,4 +666,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, người phụ nữ trung niên xuất thân từ một gia đình bình thường ở thị trấn Maalt.
 - Đặc điểm: Chân thành, cẩn trọng, biết điều, quý trọng kỷ niệm gia đình hơn tiền bạc; quen biết rộng rãi quanh Maalt bao gồm cả Lorraine Vivie; là cháu gái của một mạo hiểm giả quá cố.
 - Xuất hiện từ: #180.
+
+### Shumini
+- Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt.
+- Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự.
+- Xuất hiện từ: #187.
 

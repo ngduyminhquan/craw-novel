@@ -345,3 +345,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | dark magic |  | hắc ma pháp | kỹ năng | 179 | Loại ma pháp thuộc tính bóng tối, tà thuật |
 | blood medicine | Blood medicine; Blood Medicine | huyết dược | vật phẩm | 185 | Thuốc đặc chế có thể ức chế ham muốn hút máu của Ma Cà Rồng (血液薬) |
 | Ally | Allies; an Ally; the Ally | Đồng Minh | tổ chức | 186 | Tổ chức hoặc thành viên thuộc phe Ma Cà Rồng chủ trương công khai sự tồn tại và đòi quyền bình đẳng như con người |
+| Bronze-class Ascension Exam | Bronze-class Ascension Exams | kỳ thi thăng hạng Đồng Cấp | khác | 37 | Kỳ thi sát hạch thực hành thăng cấp từ Thiết Cấp lên Đồng Cấp (銅級昇格試験) |
+| hannya |  | hannya | quái vật | 187 | Nữ quái vật đến từ đảo quốc viễn đông, dùng để chỉ người phụ nữ cuồng nộ (般若) |
+| oni |  | oni | quái vật | 187 | Chủng tộc quái vật viễn đông tương tự ogre nhưng nhỏ hơn và thông minh hơn (鬼) |
+| Sleipnir |  | Sleipnir | quái vật | 187 | Thần mã tám chân trong thần thoại, loài ngựa sáu chân được cho là hậu duệ của Sleipnir |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T06:41:21Z",
+  "generatedAt": "2026-11-03T06:54:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3269,6 +3269,12 @@
           "title": "Chương 186: Ngoại truyện Tập 8 - Isaac Hart (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_186.md",
           "sha": "d7dabc422deada2da96154d27a6147d47507c869"
+        },
+        {
+          "number": 187,
+          "title": "Chương 187: Tập 8 Chương 2 - Nơi Ma Cà Rồng Hiện Diện (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_187.md",
+          "sha": "3e9374808ceb7e55bbef135cfdea7bb65d2f45c6"
         }
       ]
     },

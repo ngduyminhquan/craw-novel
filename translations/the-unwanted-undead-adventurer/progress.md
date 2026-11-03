@@ -191,7 +191,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 184 |  | Chapter_184 - Vol 8 Chapter 1 - The State of Maalt (3).txt | Vol 8 Chapter 1 - The State of Maalt (3) | reviewed |  |
 | 185 |  | Chapter_185 - Vol 8 Chapter 1 - The State of Maalt (4).txt | Vol 8 Chapter 1 - The State of Maalt (4) | reviewed |  |
 | 186 |  | Chapter_186 - Vol 8 Side Story 1 - Isaac Hart.txt | Vol 8 Side Story 1 - Isaac Hart | reviewed |  |
-| 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | todo |  |
+| 187 |  | Chapter_187 - Vol 8 Chapter 2 - Where the Vampire Was (1).txt | Vol 8 Chapter 2 - Where the Vampire Was (1) | done |  |
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | todo |  |
 | 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | todo |  |
 | 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | todo |  |
@@ -777,3 +777,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#185] Xưng hô Wolf Hermann ↔ Nive Maris — tạm chọn Wolf xưng 'tôi' gọi 'cô'; Nive xưng 'tôi' gọi 'ông / Hội Trưởng' (phương án khác: Nive xưng 'em' hoặc 'tôi' gọi 'ngài Hội Trưởng'). → Chốt Wolf (tôi - cô), Nive (tôi - ông / Hội Trưởng) (orchestrator)
 - [#186] Dịch tiêu đề chương 'Vol 8 Side Story 1 - Isaac Hart' — tạm chọn 'Ngoại truyện Tập 8 - Isaac Hart (1)' (đồng bộ cấu trúc 'Ngoại truyện Tập X - <Tên> (Y)' với các tập trước như #28, #112, #173; phương án khác: 'Ngoại truyện 1 Tập 8 - Isaac Hart'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 8 - Isaac Hart (1)'. → Chốt 'Ngoại truyện Tập 8 - Isaac Hart (1)' (orchestrator)
 - [#186] Dịch thuật ngữ/danh xưng 'Ally' (phe nhóm Ma Cà Rồng chủ trương công khai sự tồn tại và đòi quyền bình đẳng) — tạm chọn 'Đồng Minh' (phương án khác: 'Đồng Chí', 'Đồng Loại'). Tạm dùng trong bản dịch: 'Đồng Minh'. → Chốt 'Đồng Minh' (orchestrator)
+- [#187] Xưng hô hai thiếu niên Ma Cà Rồng (17-18 tuổi và 14-15 tuổi) — tạm chọn 'anh - em' (phương án khác: 'tôi - cô' hoặc 'cậu - tớ'); danh xưng 'Mr. Shumini' tạm dịch 'ngài Shumini'. → Giữ 'anh - em' cho cặp thiếu niên Ma Cà Rồng (nam 17-18 tuổi, nữ 14-15 tuổi, quan hệ đàn anh - đàn em nương tựa nhau) và dịch 'Mr. Shumini' là 'ngài Shumini' (bề trên ban sức mạnh). (orchestrator)

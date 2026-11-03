@@ -322,3 +322,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Tita Well | Wolf Hermann | tôi | ngài | 184 | Thi Quỷ trả lời theo bản năng còn sót lại |
 | Wolf Hermann | Nive Maris | tôi | cô | 185 | Hội Trưởng trao đổi việc điều tra và lập đội tác chiến với mạo hiểm giả Kim Cấp |
 | Nive Maris | Wolf Hermann | tôi | ông / Hội Trưởng | 185 | Mạo hiểm giả Kim Cấp nói chuyện xởi lởi, tự nhiên với Hội Trưởng |
+| Lorraine Vivie | Nive Maris | tôi | cô / Nive | 187 | Học giả giao tiếp tự nhiên như giữa các mạo hiểm giả |
+| Nive Maris | Lorraine Vivie | tôi | cô / Lorraine | 187 | Mạo hiểm giả Kim Cấp chào hỏi làm quen đồng đội |
+| Lorraine Vivie | Myullias Raiza | tôi | cô / Myullias | 187 | Học giả ban đầu dè dặt, sau trò chuyện thoải mái theo đề nghị của Thánh Nữ |
+| Myullias Raiza | Lorraine Vivie | tôi | cô / Lorraine | 187 | Thánh Nữ chủ động đề nghị nói chuyện tự nhiên, bình đẳng |
