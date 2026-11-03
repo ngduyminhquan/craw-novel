@@ -102,6 +102,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 149: Mang dòng máu hậu duệ Vương Quốc Cổ Đại; được Gharb giao quyền quản lý Thành Phố Mê Cung Của Hiền Vương Felt (tầng 60 Mê Cung Côn Trùng Cổ); nhận các cặp đá ma pháp đỏ-xanh để lập ma pháp trận dịch chuyển nối Maalt với thành phố ngầm; lần đầu tới vương đô Vistelya cùng Lorraine. Còn treo: hẹn gặp Rina/Idoles sau một tháng; ủy thác Hoa Long Huyết của Laura Latuule đang tạm hoãn.
 - Trạng thái tính đến chương 160: Tiết lộ thân phận Undead (Ma Cà Rồng) và biểu diễn khả năng tự hồi phục tự nhiên cho Augurey tại phòng cách âm đền thờ Hozei; được Augurey khen ngợi thực lực đã đủ vượt qua kỳ thi Ngân Cấp và đề nghị chia sẻ máu nếu cần.
 - Trạng thái tính đến chương 161: Giải thích cơ chế Tiến Hóa Bản Thể và mục tiêu trở lại làm người cho Augurey; ký bản khế ước ma pháp đặc biệt có Thần Lực của Hozei và chứng kiến dị tượng ảo ảnh Nữ Thần Hozei ban phước khiến chữ viết trên khế ước biến mất.
+- Trạng thái tính đến chương 168: Thú nhận toàn bộ sự thật về thân thể Ma Cà Rồng cho Capitan và Gharb; khẳng định mục tiêu Mithril Cấp và khát khao trở lại làm người không đổi; ở lại Làng Hathara để theo học Khí Lực từ Capitan.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -131,6 +132,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Bạn chí cốt của Rentt, người đầu tiên anh thổ lộ việc biến thành Undead; ủng hộ ước mơ Mithril Cấp, chia sẻ máu cho anh. Thầy dạy ma thuật của Alize (từ chương 74) và kèm lý thuyết cho Rentt.
 - Lý lịch: Xuất thân Đế Quốc Rermutt; từng là học giả tinh hoa tranh chức hiệu trưởng Đệ Nhất Đại Học Rermutt nhưng bị chèn ép nên bỏ tới Maalt; phê phán thói phụ thuộc đũa phép của giới ma pháp sư Đế Quốc. Có mảnh đất lớn ở ngoại vi Maalt làm bãi thử ma thuật; có nhiều thẻ căn cước giả của Đế Quốc.
 - Trạng thái tính đến chương 149: Cùng Rentt về Làng Hathara, điều tra ngôi đền cổ và thành phố ngầm; nhận đá tạo ma pháp trận dịch chuyển từ Capitan và Gharb; cùng Rentt dịch chuyển tới đường cống ngầm ngoại vi vương đô Vistelya. Được Laura Latuule mời ghé thư viện gia tộc Latuule. Đang nghiên cứu Tử Linh Thuật (Ma Tinh Zombie) để hiểu bản thể Undead của Rentt.
+- Trạng thái tính đến chương 168: Khẳng định biến cố của Rentt không hề ảnh hưởng đến mối quan hệ giữa hai người; tách ra cùng Gharb nghiên cứu ma thuật cổ truyền và giải mã tài liệu cổ ngữ của Làng Hathara.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -474,6 +476,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Gharb
 - Giới tính, vai trò: Nữ, bà lão làm thuốc (dược sư) tại Làng Hathara, họ hàng của Rentt Faina.
 - Đặc điểm: Từng dạy Rentt kiến thức thảo dược thời thơ ấu; sở hữu Ma Lực, có thể sử dụng ma thuật và thuật giả kim nhưng giữ bí mật với dân làng; hiện đang kiên nhẫn chỉ bảo Fahri nghề làm thuốc và chuẩn bị truyền dạy thuật giả kim; nắm giữ chức vị đại ma pháp sư cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại; quyết định bàn giao việc trông coi thành phố ngầm cổ đại cho Rentt và Lorraine (tính đến chương 148); cùng Capitan trao các cặp đá tạo ma pháp trận dịch chuyển gia truyền cho Rentt và Lorraine, dẫn cả nhóm dịch chuyển tới căn phòng bí mật trong cống ngầm ngoại vi vương đô Vistelya; sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa (tính đến chương 149).
+- Trạng thái tính đến chương 168: Thấu hiểu và chấp nhận việc Rentt biến thành Undead (Ma Cà Rồng) do bị Rồng ăn thịt; chia sẻ hiểu biết về lịch sử Ma Cà Rồng bị Giáo Hội Lobelia săn đuổi 40 năm trước; nhận lời truyền dạy ma thuật cổ truyền Hathara và giải mã tài liệu cổ ngữ cho Lorraine.
 - Xuất hiện từ: #134 (được nhắc đến là bà lão họ hàng làm thuốc), #136 (tiết lộ tên và thuật giả kim).
 
 ### Gharb Faina
@@ -532,6 +535,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Capitan
 - Giới tính, vai trò: Nam, trưởng nhóm thợ săn Làng Hathara, một trong những người thầy thuở nhỏ của Rentt.
 - Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara; nắm giữ chức vị kỵ sĩ đoàn trưởng cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại (tính đến chương 148); thị phạm và trao viên đá tạo ma pháp trận dịch chuyển cho Rentt và Lorraine, sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa để tự do ra vào vương đô Vistelya (tính đến chương 149); trong trận so tài đã chiến đấu đến kiệt sức và hòa nhau với Rentt, chính thức công nhận thực lực vượt bậc của anh và bắt đầu dò hỏi về đôi cánh cùng bí mật của học trò (tính đến chương 166).
+- Trạng thái tính đến chương 168: Đồng ý giữ kín bí mật thân phận Undead của Rentt và nhận lời truyền dạy các kỹ thuật vận dụng Khí Lực bí truyền để Rentt bảo vệ ma pháp trận dịch chuyển.
 - Xuất hiện từ: #146.
 
 ### Doras

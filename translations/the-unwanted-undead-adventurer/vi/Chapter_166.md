@@ -76,7 +76,7 @@ Khi con dao găm của tôi va vào con dao săn của Capitan, nó bắt đầu
 
 ◆◇◆◇◆
 
-Có thể gọi đó là một cú cross-counter, nhưng thực ra cũng chẳng có gì hoa mỹ đến thế. Capitan không còn đủ sức để tung ra bất kỳ đòn tấn công thực sự hiệu quả nào nữa. Rốt cuộc chúng tôi chỉ đánh trúng nhau cùng một lúc. Nắm đấm của cả hai nện thẳng vào má đối phương. Nắm đấm của tôi dĩ nhiên đánh thẳng vào da thịt chú, nhưng nắm đấm của chú lại nện vào chiếc mặt nạ của tôi. Chiếc mặt nạ không vỡ, nên trông bề ngoài cứ như thể nó đã chặn đứng hoàn toàn đòn đánh, nhưng chấn động trên thực tế đã xuyên qua mặt nạ nhờ luồng Khí Lực của chú.
+Có thể gọi đó là một cú phản đòn chéo tay, nhưng thực ra cũng chẳng có gì hoa mỹ đến thế. Capitan không còn đủ sức để tung ra bất kỳ đòn tấn công thực sự hiệu quả nào nữa. Rốt cuộc chúng tôi chỉ đánh trúng nhau cùng một lúc. Nắm đấm của cả hai nện thẳng vào má đối phương. Nắm đấm của tôi dĩ nhiên đánh thẳng vào da thịt chú, nhưng nắm đấm của chú lại nện vào chiếc mặt nạ của tôi. Chiếc mặt nạ không vỡ, nên trông bề ngoài cứ như thể nó đã chặn đứng hoàn toàn đòn đánh, nhưng chấn động trên thực tế đã xuyên qua mặt nạ nhờ luồng Khí Lực của chú.
 
 Chú có thể rót Khí Lực vào con dao săn của mình, thì chẳng có lý do gì chú không thể làm điều tương tự với nắm đấm. Việc sử dụng kỹ thuật này bằng vũ khí sẽ ít tiềm ẩn rủi ro hơn trong trường hợp người ta mất kiểm soát nguồn năng lượng, nên từ trước đến nay tôi chỉ mới làm điều đó với vũ khí, nhưng có lẽ tôi nên rèn luyện cách thực hiện bằng nắm đấm phòng cho những tình huống như thế này.
 
@@ -112,13 +112,13 @@ Dẫu vậy, lúc này cả hai chúng tôi đều đã mất đi một món vũ
 
 "Thực ra thì chú cũng chưa bao giờ phải chật vật đến thế này trước một đứa đệ tử của mình. Họa chăng chỉ có những mạo hiểm giả cấp cao hay lũ quái vật nơi vùng sâu hoang vu chưa ai khám phá mới chống trả được quyết liệt hơn. Nhưng nhìn cháu lúc này, chú tin chắc một ngày nào đó cháu sẽ đủ sức đối đầu với họ."
 
-Capitan rất mạnh, nhưng ngoài kia vẫn còn những thực thể mạnh hơn nữa. Vài mạo hiểm giả Bạch Kim Cấp và Mithril Cấp hùng mạnh đến mức họ gần như phi nhân loại. Những người như thế không thể tìm thấy ở bất cứ nơi đâu, nên hiếm khi người ta có cơ hội chạm trán họ. Capitan từng gặp vài người trước đây, nên có lẽ chú từng có dịp tận mắt chứng kiến họ chiến đấu. Bản thân tôi cũng từng thấy một người chiến đấu một lần, nhưng thật khó để tưởng tượng làm sao tôi có thể đạt đến đẳng cấp của người đó. Dù thế nào đi nữa, tôi cũng phải nỗ lực thử xem sao.
+Capitan rất mạnh, nhưng ngoài kia vẫn còn những thực thể mạnh hơn nữa. Vài mạo hiểm giả Bạch Kim Cấp và Mithril Cấp hùng mạnh đến mức họ gần như phi nhân loại. Những người như thế không phải ở đâu cũng có thể tìm thấy, nên hiếm khi người ta có cơ hội chạm trán họ. Capitan từng gặp vài người trước đây, nên có lẽ chú từng có dịp tận mắt chứng kiến họ chiến đấu. Bản thân tôi cũng từng thấy một người chiến đấu một lần, nhưng thật khó để tưởng tượng làm sao tôi có thể đạt đến đẳng cấp của người đó. Dù thế nào đi nữa, tôi cũng phải nỗ lực thử xem sao.
 
 "Chà, từ những gì chú thấy ở đây thì giờ cháu đã đủ mạnh rồi," Capitan tiếp tục. "Giờ chú có thể yên tâm để cháu tiếp tục chu du mạo hiểm. Mãi đến tận gần đây chú vẫn cứ ngỡ là cháu hết đường cứu vãn cơ đấy."
 
 "Ơ, thật thế ạ?"
 
-"Ừ, ý chú là chú biết cháu đã cố gắng hết sức có thể. Nhưng rốt cuộc thì mục tiêu của cháu đâu phải thứ ai cũng làm được. Chú từng nghĩ rồi cũng có ngày cháu phải bỏ cuộc, hoặc tệ hơn thế nữa. Chà, hóa ra là chú lo bò trắng răng rồi."
+"Ừ, ý chú là chú biết cháu đã cố gắng hết sức có thể. Nhưng rốt cuộc thì mục tiêu của cháu đâu phải thứ ai cũng làm được. Chú từng nghĩ rồi cũng có ngày cháu phải bỏ cuộc, hoặc tệ hơn thế nữa. Chà, hóa ra là chú lo hão rồi."
 
 Capitan quan tâm đến tôi nhiều hơn tôi tưởng. Tôi chỉ thỉnh thoảng mới trở về làng theo từng đợt, nhưng có lẽ vào những dịp đó trông diện mạo tôi chẳng được mấy khấm khá. Tôi đã cố gắng tỏ ra tương đối vui vẻ, nhưng chú biết tôi đủ lâu để có thể nhìn thấu màn kịch đó.
 

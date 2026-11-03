@@ -34,7 +34,7 @@ Ngay cả Gharb cũng chưa đoán ra tôi là loại ma vật nào cho đến t
 
 "Chắc bà cũng nhận thấy qua lời giải thích vừa rồi của Rentt, dù anh ấy có thể là Ma Cà Rồng, nhưng anh ấy lại khác với những Ma Cà Rồng thông thường ở khá nhiều điểm," Lorraine giải thích. "Rất khó để khẳng định chắc chắn liệu anh ấy có thực sự là Ma Cà Rồng hay không. Nhưng xét cho cùng thì cũng có rất nhiều chủng loại Ma Cà Rồng. Tôi đồ rằng anh ấy có thể là một phân loài mà chúng ta chưa từng biết tới, nhưng đó cũng là tất cả những gì tôi biết."
 
-"Ma Lực của nó đúng là có vẻ khác với Ma Cà Rồng thông thường. Ma Lực của bọn chúng có cảm giác nhớp nháp hơn. Người ta có thể cảm nhận được bóng tối bên trong chúng. Nhưng ta không hề cảm nhận thấy thứ gì như vậy ở Rentt," Gharb nói như thể một chuyên gia sành sỏi về Ma Lực.
+"Ma Lực của thằng bé đúng là có vẻ khác với Ma Cà Rồng thông thường. Ma Lực của bọn chúng có cảm giác nhớp nháp hơn. Người ta có thể cảm nhận được bóng tối bên trong chúng. Nhưng ta không hề cảm nhận thấy thứ gì như vậy ở Rentt," Gharb nói như thể một chuyên gia sành sỏi về Ma Lực.
 
 Tôi nhìn Lorraine để xem liệu cô có biết chút gì về điều đó không, nhưng cô chỉ cay đắng lắc đầu. Đây hẳn là một năng lực độc nhất vô nhị của riêng Gharb. Và nếu bà hiểu rõ về Ma Lực của Ma Cà Rồng đến mức có thể giám định được như thế, tôi chỉ đành cho rằng trước đây bà từng tiếp xúc cự ly gần với một cá thể rồi.
 
@@ -74,7 +74,7 @@ Gharb không hề chạm tới được Bản Ghi Akashic, cũng chẳng hay bi�
 
 "Hừm, vậy sao? Rốt cuộc làm thế nào mà cháu lại trở thành Ma Cà Rồng ngay từ đầu vậy, Rentt?" Gharb hỏi, đi thẳng vào câu hỏi then chốt. Capitan dường như cũng thấy hứng thú, nên tôi kể lại những gì đã diễn ra trong mê cung ngày hôm đó.
 
-"Chà, nói một cách đơn giản thì cháu bị một con Rồng bắt gặp trong mê cung ăn thịt. Đến khi kịp nhận thức được thì cháu đã là Undead rồi. Ban đầu cháu là một Khô Lâu, nhưng theo thời gian cháu đã tiến hóa và giờ cháu là một Ma Cà Rồng. Cháu biết chuyện này nghe thật nực cười, nhưng đó là sự thật."
+"Chà, nói một cách đơn giản thì cháu bị một con Rồng mà cháu bắt gặp trong mê cung ăn thịt. Đến khi kịp nhận thức được thì cháu đã là Undead rồi. Ban đầu cháu là một Khô Lâu, nhưng theo thời gian cháu đã tiến hóa và giờ cháu là một Ma Cà Rồng. Cháu biết chuyện này nghe thật nực cười, nhưng đó là sự thật."
 
 Nếu là tôi nghe chuyện này thì tôi cũng chẳng tin đâu, nhưng đúng như tôi dự đoán, cả Gharb và Capitan đều sẵn sàng chấp nhận lời giải thích của tôi. Nhìn phản ứng của họ, hẳn họ đã lường trước điều gì đó tương tự rồi. Họ không hề có lấy một chút bất an. Thứ duy nhất khiến họ kinh ngạc là việc tôi nhắc tới một con Rồng.
 

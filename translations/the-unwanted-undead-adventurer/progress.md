@@ -170,9 +170,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | reviewed |  |
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | reviewed |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | reviewed |  |
-| 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | done |  |
-| 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | done |  |
-| 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | done |  |
+| 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | reviewed |  |
+| 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | reviewed |  |
+| 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | reviewed |  |
 | 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | todo |  |
 | 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | todo |  |
 | 171 |  | Chapter_171 - Vol 7 Chapter 6 - Puchi Suri (1).txt | Vol 7 Chapter 6 - Puchi Suri (1) | todo |  |
