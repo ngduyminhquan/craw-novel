@@ -220,7 +220,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 213 |  | Chapter_213 - Vol 9 Chapter 5 - A Request from the Guild (1).txt | Vol 9 Chapter 5 - A Request from the Guild (1) | reviewed |  |
 | 214 |  | Chapter_214 - Vol 9 Chapter 5 - A Request from the Guild (2).txt | Vol 9 Chapter 5 - A Request from the Guild (2) | done |  |
 | 215 |  | Chapter_215 - Vol 9 Chapter 5 - A Request from the Guild (3).txt | Vol 9 Chapter 5 - A Request from the Guild (3) | done |  |
-| 216 |  | Chapter_216 - Vol 9 Chapter 5 - A Request from the Guild (4).txt | Vol 9 Chapter 5 - A Request from the Guild (4) | todo |  |
+| 216 |  | Chapter_216 - Vol 9 Chapter 5 - A Request from the Guild (4).txt | Vol 9 Chapter 5 - A Request from the Guild (4) | done |  |
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | todo |  |
 | 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | todo |  |
 | 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | todo |  |
@@ -836,3 +836,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#214] Dịch từ 'protégé' khi Rina muốn có học trò/đệ tử theo mình — tạm chọn 'đệ tử ruột' (phương án khác: 'người thừa kế', 'đệ tử chân truyền', 'học trò'). Tạm dùng trong bản dịch: 'đệ tử ruột'. → Dùng 'đệ tử ruột' (từ thông thường, không cần đưa vào glossary) (orchestrator)
 - [#215] Dịch địa danh 'Great Cathedral' của Giáo Hội Đông Thiên tại vương đô — tạm chọn 'Đại Thánh Đường' (phương án khác: 'Đại Giáo Đường'). Tạm dùng trong bản dịch: 'Đại Thánh Đường'. → Dùng 'Đại Thánh Đường' (orchestrator)
 - [#215] Xưng hô giữa Rina Rupaage và Alize — tạm chọn Rina xưng 'tôi / chị', gọi 'em / Alize'; Alize xưng 'em', gọi 'chị / chị Rina' (phương án khác: 'tôi - em / cô bé'). Tạm dùng trong bản dịch: 'chị / tôi - em' và 'em - chị'. → Dùng Rina xưng 'tôi / chị', gọi 'em / Alize'; Alize xưng 'em', gọi 'chị / chị Rina' (orchestrator)
+- [#216] Dịch sinh vật bò sát kéo xe 'creeping lizard' — tạm chọn 'Thằn Lằn Bò Trườn' và thêm vào glossary.md (phương án khác: 'Thằn Lằn Trườn', 'Thằn Lằn Bò'). Tạm dùng trong bản dịch: 'Thằn Lằn Bò Trườn'. → Dùng 'Thằn Lằn Bò Trườn' (orchestrator)
+- [#216] Dịch địa danh 'Ancient City' — tạm chọn 'Thành Phố Cổ Đại' và thêm vào glossary.md (phương án khác: viết thường 'thành phố cổ đại'). Tạm dùng trong bản dịch: 'Thành Phố Cổ Đại'. → Dùng 'Thành Phố Cổ Đại' (orchestrator)

@@ -1273,3 +1273,10 @@ Rentt, Lorraine dẫn Rina đến Cô Nhi Viện Thứ Hai Maalt để giới th
 Trong lúc chờ đợi, Sơ Lillian nhờ chuyển giúp một bức thư tới Đại Thánh Đường của Giáo Hội Đông Thiên tại vương đô; Lorraine vui vẻ nhận ủy thác cá nhân này.
 Chia tay Alize tại cổng cô nhi viện, Rentt dặn dò Rina ưu tiên an toàn và nhờ cậy Isaac khi cần; trên đường ra bến xe ngựa, Rina hào hứng đưa cho Rentt và Lorraine cuốn sổ tay tự vẽ bản đồ cùng danh sách đặc sản vương đô mà cô đã thức khuya chuẩn bị.
 
+## 216
+Trên đường ra bến xe, Rentt và Lorraine lắng nghe Rina nhiệt tình dặn dò mua đặc sản vương đô; Lorraine nhận thấy Rina vẫn vô thức nhớ nhà và hứa sẽ tranh thủ mua quà lưu niệm cho cô bé.
+Tại bến xe, Wolf đích thân bàn giao túi tài liệu biểu mẫu và bố trí cho cả hai một cỗ xe do loài bò sát Thằn Lằn Bò Trườn kéo để rút ngắn thời gian di chuyển tới vương đô.
+Sau năm ngày di chuyển tới cổng thành Vistelya, người đánh xe (vốn là một Hạ Cấp Ma Cà Rồng thuộc hạ của Laura và Isaac) dặn dò hai người cẩn trọng trước các kết giới ma pháp quanh khu quý tộc và hoàng cung, đồng thời trấn an về chiếc cúc áo ma cụ ngụy trang do gia tộc Latuule chu cấp.
+Nhờ Lorraine khéo léo mỉm cười và Rentt giải thích chiếc mặt nạ bị nguyền rủa không thể tháo rời, người lính gác cổng kiểm tra thẻ mạo hiểm giả rồi cho phép xe của hai người thuận lợi tiến vào vương đô.
+
+

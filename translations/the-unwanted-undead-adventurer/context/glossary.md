@@ -393,3 +393,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Maaltesian Dungeon Affair |  | Biến Cố Mê Cung Maalt | khác | 213 | Tên gọi khác của vụ hỗn loạn mê cung gần đây ở Maalt |
 | Imperial grand guildmaster | Imperial Grand Guildmaster | Tổng Hội Trưởng Đế Quốc | chức nghiệp | 214 | Người đứng đầu toàn bộ Hội Mạo Hiểm Giả của Đế Quốc Rermutt |
 | Great Cathedral | the Great Cathedral | Đại Thánh Đường | địa danh | 215 | Cơ sở chính của Giáo Hội Đông Thiên tại vương đô Vistelya |
+| creeping lizard | creeping lizards | Thằn Lằn Bò Trườn | quái vật | 216 | Loài bò sát khổng lồ dùng làm thú kéo xe, bơi lặn được dưới nước và kéo cả thuyền buồm (匍匐蜥蜴) |
+| Ancient City | the Ancient City; ancient city | Thành Phố Cổ Đại | địa danh | 216 | Tàn tích đô thị cổ xưa thời Vương Quốc Cổ Đại dưới lòng đất nối với ma pháp trận dịch chuyển |
