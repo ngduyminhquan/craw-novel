@@ -288,3 +288,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Josee Meyer | Rentt Faina | tôi | anh / các vị | 162 | Người đứng đầu đền thờ nói chuyện với người lập khế ước |
 | Lorraine Vivie | Josee Meyer | tôi | cô | 162 | Học giả nói chuyện với người đứng đầu đền thờ |
 | Josee Meyer | Lorraine Vivie | tôi | cô / các vị | 162 | Người đứng đầu đền thờ nói chuyện với người lập khế ước |
+| Capitan | Ingo Faina | tôi | Ingo / anh / Trưởng Làng | 171 | Hai người gánh vác việc làng; Capitan nhờ cậy kỹ năng của Ingo |
+| Ingo Faina | Capitan | tôi | Capitan / anh | 171 | Hai người gánh vác việc làng |

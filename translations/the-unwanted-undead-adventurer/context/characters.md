@@ -103,6 +103,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 160: Tiết lộ thân phận Undead (Ma Cà Rồng) và biểu diễn khả năng tự hồi phục tự nhiên cho Augurey tại phòng cách âm đền thờ Hozei; được Augurey khen ngợi thực lực đã đủ vượt qua kỳ thi Ngân Cấp và đề nghị chia sẻ máu nếu cần.
 - Trạng thái tính đến chương 161: Giải thích cơ chế Tiến Hóa Bản Thể và mục tiêu trở lại làm người cho Augurey; ký bản khế ước ma pháp đặc biệt có Thần Lực của Hozei và chứng kiến dị tượng ảo ảnh Nữ Thần Hozei ban phước khiến chữ viết trên khế ước biến mất.
 - Trạng thái tính đến chương 168: Thú nhận toàn bộ sự thật về thân thể Ma Cà Rồng cho Capitan và Gharb; khẳng định mục tiêu Mithril Cấp và khát khao trở lại làm người không đổi; ở lại Làng Hathara để theo học Khí Lực từ Capitan.
+- Trạng thái tính đến chương 171: Cảm nhận cơn đau đầu dữ dội và nhận ra mối liên kết với quyến thuộc Edel bị xé rách; lập tức cùng Lorraine chuẩn bị trở về Maalt khi biết Ingo sở hữu kỹ năng đặc biệt giúp rút ngắn chuyến đi còn nửa ngày.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -259,6 +260,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 89: Kích thước cơ thể tăng lên cỡ đầu Goblin; có thể tự chiến đấu tiêu diệt Goblin và Slime bằng các cú phóng mình tông người xoay tít tốc độ cao mà không cần Rentt chia sẻ Ma Lực.
 - Trạng thái tính đến chương 90: Biến đổi thể chất sau khi Rentt tiến hóa thành Hạ Cấp Ma Cà Rồng: mọc thêm màng bay ở bụng dưới giúp bay lượn và lơ lửng tĩnh lặng; có khả năng thi triển ma pháp tấn công tạo ra vết chém chém toạc xác quái vật; tự ý tách đoàn ở tầng 2 Mê Cung Tân Nguyệt và bị ba con Orc Binh vây quanh.
 - Trạng thái tính đến chương 91: Dùng cú húc thân người gạt ngã Orc Binh và dùng ma pháp chém lìa đầu một con Orc Binh; giao tiếp tâm trí khen ngợi Rentt ("Làm tốt lắm"); cùng Rentt xuống tầng ba đối mặt đàn Kesem Kofu.
+- Trạng thái tính đến chương 171: Tiết lộ đã nắm quyền kiểm soát khoảng 30% bầy chuột ở Maalt để xây dựng mạng lưới tình báo giúp Rentt; sở hữu khả năng chia sẻ thị giác với đàn em; phát hiện một kẻ trùm áo choàng hút máu mạo hiểm giả trong mê cung nhưng bị kẻ đó phóng lửa làm mù mắt và ngất lịm đi dưới hầm cô nhi viện khiến liên kết với Rentt bị đứt đoạn.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
 
 ### Isaac Hart
@@ -435,6 +437,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Điềm đạm, nồng hậu, quan tâm chăm lo cho con cái và dân làng.
 - Cách nói chuyện: Thân tình, ấm áp của người cha đối với con trai đi xa trở về.
 - Quan hệ: Cha nuôi của Rentt Faina (nhận nuôi Rentt từ năm 5 tuổi sau khi cha mẹ ruột anh qua đời do ma vật tấn công, #134), chồng của Gilda Faina.
+- Trạng thái tính đến chương 171: Mang dòng dõi kế thừa vị thế quốc vương của Vương Quốc Cổ Đại; dù không thể dùng Khí Lực hay ma thuật như Capitan và Gharb, nhưng sở hữu kỹ năng đặc biệt riêng giúp đưa nhóm Rentt về Maalt trong vòng nửa ngày.
 - Xuất hiện từ: #134.
 
 ### Gilda Faina

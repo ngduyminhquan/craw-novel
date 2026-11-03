@@ -1009,3 +1009,9 @@ Capitan nhận dạy Rentt kỹ năng Khí Lực nâng cao từng dùng trong tr
 Capitan thị phạm kỹ thuật cụ thể hóa Khí Lực thành thực thể (giáp Khí Lực cản phá dao găm, phóng lưỡi đao Khí Lực vô hình từ cành cây chém đứt đôi lá rơi) và phân tích sự khác biệt giữa cảm nhận trực giác của Khí Lực với cấu trúc lý thuyết khắt khe của ma thuật.
 Rentt bắt đầu khổ luyện nhưng chỉ tạo được lớp giáp Khí Lực vụng về quanh lòng bàn tay như chiếc găng tay giòn tan, liên tục bị Capitan dùng cành cây gõ vỡ vụn; Capitan tiết lộ bí thuật Hathara hy sinh tuổi thọ ép Khí Lực cực hạn nhưng Rentt từ chối thử nghiệm vì chưa rõ bản chất sinh mệnh Undead của mình.
 Cả hai trở về nhà Trưởng Làng Ingo Faina quây quần bên bữa tiệc thịnh soạn gồm các món ăn truyền thống Hathara do Riri, Fahri cùng Lorraine dưới sự chỉ dẫn của Gharb và Gilda chung tay nấu nướng trước khi trở về Maalt.
+
+## 171
+Hồi ức của Edel về những ngày tháng sinh tồn cơ cực, cuộc chạm trán định mệnh với Rentt dưới hầm cô nhi viện, quá trình trở thành quyến thuộc Ma Cà Rồng và việc mở rộng mạng lưới tình báo khắp Maalt; qua mắt đàn em, Edel phát hiện một kẻ trùm áo choàng khả nghi đang cắn hút máu mạo hiểm giả trong mê cung nhưng bị kẻ đó phóng lửa làm mù mắt và ngất lịm đi.
+Cơn đau đầu bất thường ập đến khiến Rentt nhận ra mối liên kết với quyến thuộc Edel bị xé rách; Capitan cho biết có cách quay về Maalt chỉ trong nửa ngày thay vì mất năm ngày đi xe ngựa và giục anh về làng.
+Tại nhà trưởng làng, Rentt và Lorraine lo lắng cho sự an toàn của Edel; Capitan nhờ cậy Ingo Faina, người thừa kế vị thế quốc vương cổ đại, và Ingo khẳng định sở hữu kỹ năng đặc biệt có thể giúp nhóm lập tức lên đường trở về Maalt.
+
