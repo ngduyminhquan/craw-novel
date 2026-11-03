@@ -288,3 +288,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Vistelya |  | Vistelya | địa danh | 149 | Vương đô của Vương Quốc Yaaran (ヴィステリア) |
 | Rehesteel |  | Rehesteel | kỹ năng | 149 | Mật ngữ ma pháp kích hoạt cơ quan ngụy trang che giấu lối ra cống ngầm tại Vistelya (giữ nguyên theo rules.md) |
 | Hatharan | Hatharans | người Hathara | chủng tộc | 149 | Người dân mang huyết thống Làng Hathara |
+| Shigaon | village of Shigaon | Làng Shigaon | địa danh | 152 | Ngôi làng quê hương của thợ săn Jid Dalger |
+| aurum rabbit | aurum rabbits; Aurum rabbit; Aurum rabbits | thỏ Aurum | quái vật | 152 | Quái vật dạng thỏ cực kỳ quý hiếm, thịt được xem là cao lương mỹ vị (オーラムラビット) |
+| gran bear | gran bears; Gran bear; Gran bears | gấu Gran | quái vật | 152 | Phân loài quái vật dạng gấu hung dữ hay lai vãng gõ cửa nhà Jid Dalger (グランベア) |

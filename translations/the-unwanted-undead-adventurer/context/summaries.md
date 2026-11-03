@@ -897,3 +897,9 @@ Vài tháng trước khi tròn 15 tuổi và rời Làng Hathara làm mạo hi�
 Doras ngập ngừng hỏi liệu có thể ngăn Rentt rời làng được không vì cậu bé thầm thích Riri (khi ấy mới 8 tuổi) và lo rằng Riri sẽ buồn bã cô đơn khi Rentt đi xa.
 Rentt phân tích và khuyên Doras rằng thay vì can ngăn anh, cậu bé nên ủng hộ bởi khi Rentt đi biệt tích nhiều năm, Riri sẽ dần hướng sự chú ý về người kề cận; Doras thông suốt, dặn Rentt thường xuyên về thăm nhà và hứa rèn giũa tay nghề làm đồ gỗ tặng anh.
 Chương kết thúc khi Rentt lên đường tới Maalt 3 tháng sau đó; dẫu anh chỉ có thể về thăm làng vài năm một lần và Doras vẫn chưa nên duyên cùng Riri, cậu bé vẫn kiên nhẫn đợi chờ ngày "câu" được trái tim cô.
+
+## 152
+Rentt nhận ủy thác giao thư mời đám cưới từ người con trai Razzie đến cho Jid Dalger – thợ săn cừ khôi nhất Làng Shigaon đang sống ẩn dật bên hồ nước trong rừng sâu.
+Dù từng bất hòa vì con trai không chịu nối nghiệp săn bắn, Jid vẫn nhận lời tham dự và nhờ Rentt dẫn đi chọn trang phục cưới tại thị trấn để không làm cháu nội mất mặt.
+Tại lễ cưới của Dat (cháu nội Jid), món chính gây chấn động toàn bộ quan khách là thịt thỏ Aurum – loài quái vật cực kỳ quý hiếm do đích thân Jid săn bắt; Rentt cũng được tặng nguyên một con thỏ mang về.
+Rentt mang thỏ về nhà nấu ăn cùng Lorraine; khi Lorraine tấm tắc khen ngợi và tiếc nuối khó lòng ăn lại món này trong mười năm tới, Rentt trêu rằng có cách kiếm nhanh hơn vì Jid đã hứa sẽ săn tặng một con nữa nếu Rentt làm đám cưới.

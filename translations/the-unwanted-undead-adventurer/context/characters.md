@@ -75,6 +75,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Viro |  | Viro | Tên gọi tắt của phân thân thần tinh linh Viroget | #145 |
 | Capitan |  | Capitan | Trưởng nhóm thợ săn Làng Hathara, một trong những người thầy dạy Rentt săn bắn, sinh tồn và Khí Lực | #146 |
 | Doras |  | Doras | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi, thầm thích Riri | #151 |
+| Jid Dalger | Jid | Jid Dalger | Thợ săn lão luyện làng Shigaon, cha của Razzie Dalger, người săn thỏ Aurum | #152 |
+| Razzie Dalger | Razzie | Razzie Dalger | Con trai duy nhất của Jid Dalger, chủ doanh nghiệp quy mô vừa ở Maalt | #152 |
+| Dat | Dat Dalger | Dat | Con trai của Razzie Dalger, cháu nội của Jid Dalger, chú rể trong đám cưới | #152 |
 
 ## Chi tiết
 
@@ -555,3 +558,18 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, thiếu niên Làng Hathara làm nghề thủ công mỹ nghệ bằng gỗ, bạn thuở nhỏ kém Rentt 3 tuổi.
 - Đặc điểm: Cha là nghệ nhân trong làng; tính tình trầm lặng, chăm chỉ tập trung vào công việc; thông minh, suy nghĩ chín chắn so với lứa tuổi 12; thầm thích Riri nhưng e thẹn, kiên nhẫn đợi chờ tình cảm đơm hoa kết trái.
 - Xuất hiện từ: #151.
+
+### Jid Dalger
+- Giới tính, vai trò: Nam, thợ săn lão luyện cừ khôi nhất của Làng Shigaon, cha của Razzie Dalger và ông nội của Dat.
+- Đặc điểm: Thân hình cao to, vạm vỡ như một võ sư dù đã lớn tuổi; sống ẩn dật một mình trong căn nhà gỗ bên hồ nước ven rừng rậm; tính tình bộc trực, cảnh giác nhưng hào sảng và tình cảm; từng bất hòa với con trai khi con rời làng không chịu nối nghiệp săn bắn; sở hữu tài nghệ săn bắn phi thường khi tự tay bắt cả đàn thỏ Aurum quý hiếm đãi tiệc cưới cháu nội và tặng một con cho Rentt; nhờ Rentt dẫn đi chọn trang phục cưới để bản thân không bị lạc lõng trong ngày vui của cháu.
+- Xuất hiện từ: #152.
+
+### Razzie Dalger
+- Giới tính, vai trò: Nam, khoảng 50 tuổi, con trai duy nhất của Jid Dalger, cha của Dat.
+- Đặc điểm: Rời làng lên Maalt lập nghiệp vì không muốn làm thợ săn, gầy dựng một doanh nghiệp quy mô vừa; từng bất hòa với cha và không mời cha dự đám cưới của mình, nhưng khi về già đã thấu hiểu nỗi lòng của cha và chủ động gửi thư qua Rentt mời Jid dự đám cưới con trai mình.
+- Xuất hiện từ: #152.
+
+### Dat
+- Giới tính, vai trò: Nam, con trai của Razzie Dalger, cháu nội của Jid Dalger.
+- Đặc điểm: Người thừa kế doanh nghiệp quy mô vừa của cha; nhân vật chú rể tổ chức tiệc cưới tự chọn buffet độc đáo tại Maalt với món chính là thịt thỏ Aurum do ông nội săn tặng.
+- Xuất hiện từ: #152.

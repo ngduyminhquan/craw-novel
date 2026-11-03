@@ -62,6 +62,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Viro | thần tinh linh / tinh linh / Viro | 145 | Tên gọi tắt của phân thân thần tinh linh Viroget |
 | Capitan | Capitan / người đàn ông vạm vỡ / chú ấy / ông ấy | 146 | Trưởng nhóm thợ săn Làng Hathara, thầy dạy Rentt |
 | Doras | Doras / cậu bé / cậu thiếu niên / cậu ấy | 151 | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi |
+| Jid Dalger | Jid / ông lão / người thợ săn | 152 | Thợ săn lão luyện làng Shigaon, cha của Razzie |
 
 ## Giữa các nhân vật
 
@@ -257,3 +258,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Capitan | Gharb | tôi | bà lão / Gharb | 146 | Hai người cùng thế hệ lớn tuổi gánh vác việc làng |
 | Rentt Faina | Doras | tôi | em / Doras | 151 | Bạn thuở nhỏ lớn hơn 3 tuổi nói chuyện với cậu em trong làng |
 | Doras | Rentt Faina | em | anh / anh Rentt | 151 | Cậu bé trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn |
+| Rentt Faina | Jid Dalger | tôi | ông / ông Jid | 152 | Mạo hiểm giả nhận việc giao thư và hỗ trợ người lớn tuổi |
+| Jid Dalger | Rentt Faina | ta | cậu / Rentt | 152 | Thợ săn lão luyện nói chuyện thân tình, hào sảng với chàng mạo hiểm giả trẻ tuổi |
