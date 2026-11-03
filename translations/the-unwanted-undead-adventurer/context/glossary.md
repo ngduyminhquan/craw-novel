@@ -395,3 +395,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Great Cathedral | the Great Cathedral | Đại Thánh Đường | địa danh | 215 | Cơ sở chính của Giáo Hội Đông Thiên tại vương đô Vistelya |
 | creeping lizard | creeping lizards | Thằn Lằn Bò Trườn | quái vật | 216 | Loài bò sát khổng lồ dùng làm thú kéo xe, bơi lặn được dưới nước và kéo cả thuyền buồm (匍匐蜥蜴) |
 | Ancient City | the Ancient City; ancient city | Thành Phố Cổ Đại | địa danh | 216 | Tàn tích đô thị cổ xưa thời Vương Quốc Cổ Đại dưới lòng đất nối với ma pháp trận dịch chuyển |
+| Mimic | mimic; mimics; Mimics | Mimic | quái vật | 217 | Quái vật chuyên giả dạng hình người để hút cạn sinh lực con mồi (ミミック) |

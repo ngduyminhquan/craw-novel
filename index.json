@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T12:44:26Z",
+  "generatedAt": "2026-11-03T12:50:22Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3449,6 +3449,12 @@
           "title": "Chương 216: Tập 9 Chương 5 - Một Ủy Thác từ Hội (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_216.md",
           "sha": "d567a4b3918e98b02e0dcac368fed0be7253f065"
+        },
+        {
+          "number": 217,
+          "title": "Chương 217: Ngoại truyện Tập 9 - Một Ngày Của Lorraine Vivie",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_217.md",
+          "sha": "70ec049663c69de135634fa52aa1c09be966a1fd"
         }
       ]
     },

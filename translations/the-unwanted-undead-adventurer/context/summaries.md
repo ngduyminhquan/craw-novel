@@ -1279,4 +1279,11 @@ Tại bến xe, Wolf đích thân bàn giao túi tài liệu biểu mẫu và b�
 Sau năm ngày di chuyển tới cổng thành Vistelya, người đánh xe (vốn là một Hạ Cấp Ma Cà Rồng thuộc hạ của Laura và Isaac) dặn dò hai người cẩn trọng trước các kết giới ma pháp quanh khu quý tộc và hoàng cung, đồng thời trấn an về chiếc cúc áo ma cụ ngụy trang do gia tộc Latuule chu cấp.
 Nhờ Lorraine khéo léo mỉm cười và Rentt giải thích chiếc mặt nạ bị nguyền rủa không thể tháo rời, người lính gác cổng kiểm tra thẻ mạo hiểm giả rồi cho phép xe của hai người thuận lợi tiến vào vương đô.
 
+## 217
+Lorraine Vivie tình nguyện dạy học tại một lớp học tư thục dành cho con em nông dân nghèo ở Maalt; giữa buổi học, cậu bé Gerge hốt hoảng chạy tới báo tin bạn học Jad bị rơi xuống lối vào cống ngầm mới phát hiện giữa đống đổ nát.
+Lorraine đi theo Gerge tới hiện trường, dặn cậu bé ở lại và đi tìm Rentt nếu cô không quay về, rồi một mình tiến sâu vào đường cống ngầm ngập tràn ma lực.
+Lorraine tìm thấy Jad đang bất tỉnh và phát hiện thủ phạm là một con quái vật Mimic giả dạng cô bé mặc đồ trắng đang định ăn thịt cậu bé; cô dùng ma pháp hỏa Foteia Borivaas tiêu diệt Mimic, thu thập Ma Tinh rồi cõng Jad trở về lớp học.
+Tại lớp học, Rentt (do Gerge gọi tới) đã có mặt trông nom lũ trẻ giúp cô; sau khi cho Jad uống thuốc hồi phục và trêu đùa vài câu với Rentt, Lorraine tự nhủ sẽ giáo huấn Jad và luôn nhắc nhở lũ trẻ về mối hiểm họa rình rập quanh Maalt.
+
+
 

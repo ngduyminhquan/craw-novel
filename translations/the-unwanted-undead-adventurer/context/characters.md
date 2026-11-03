@@ -109,6 +109,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elise Georges | Elise | Elise Georges | Thiếu nữ quý tộc, học viên Học Viện nghiêm túc, bạn của Rina | #210 |
 | Adelina Moska | Adelina | Adelina Moska | Học Sĩ của Học Viện, người dẫn đoàn học viên khảo sát mê cung Maalt | #212 |
 | Pierpaolo Blanca | Pierpaolo; Blanca | Pierpaolo Blanca | Học viên Học Viện, bạn cùng phòng và bạn thân của Noel Kruege | #212 |
+| Jad |  | Jad | Học sinh lớp học tư thục ở Maalt, tính tình hấp tấp hay gây rắc rối | #217 |
+| Gerge |  | Gerge | Học sinh lớp học tư thục ở Maalt, người chạy đi báo tin và tìm Lorraine | #217 |
 
 ## Chi tiết
 
@@ -701,4 +703,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, học viên Học Viện đến từ vương đô Yaaran, bạn cùng phòng và bạn thân duy nhất của Noel Kruege.
 - Đặc điểm: Dáng người cao gầy, cử chỉ điệu bộ phô trương, tính tình bộc trực, phóng khoáng đến mức suồng sã; là con trai cả của gia tộc Tử tước Blanca giàu có kinh doanh thương nghiệp; thành tích học tập thuộc nhóm xuất sắc ở Học Viện; nhạy bén nắm bắt thông tin và tin đồn (#212).
 - Xuất hiện từ: #212.
+
+### Jad
+- Giới tính, vai trò: Nam, học sinh lớp học tư thục ở Maalt nơi Lorraine tình nguyện dạy học.
+- Đặc điểm: Tính tình hấp tấp, hành động thiếu suy nghĩ và liên tục gây rắc rối; trót mò vào lối vào cống ngầm mới phát hiện và bị quái vật Mimic đánh ngất, may mắn được Lorraine cứu kịp thời (#217).
+- Xuất hiện từ: #217.
+
+### Gerge
+- Giới tính, vai trò: Nam, học sinh lớp học tư thục ở Maalt.
+- Đặc điểm: Bạn học của Jad; khi Jad rơi vào cống ngầm đã nhanh trí chạy đến lớp học báo cho Lorraine và dẫn đường tới lối vào bí mật, sau đó chạy đi tìm Rentt hỗ trợ (#217).
+- Xuất hiện từ: #217.
 

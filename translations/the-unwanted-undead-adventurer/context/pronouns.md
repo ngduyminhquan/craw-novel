@@ -86,6 +86,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elise Georges | Elise / cô bé / cô gái / thiếu nữ | 210 | Thiếu nữ học viên Học Viện nghiêm túc, bạn của Rina |
 | Adelina Moska | Adelina / Học Sĩ Adelina / người phụ nữ | 212 | Học Sĩ Học Viện dẫn đoàn khảo sát mê cung |
 | Pierpaolo Blanca | Pierpaolo / cậu thanh niên / cậu thiếu niên | 212 | Học viên Học Viện, bạn thân của Noel Kruege |
+| Jad | Jad / thằng bé / đứa trẻ | 217 | Học sinh lớp học tư thục ở Maalt, tính tình hấp tấp hay gây rắc rối |
+| Gerge | Gerge / cậu bé / thằng bé | 217 | Học sinh lớp học tư thục ở Maalt, bạn học của Jad |
 
 ## Giữa các nhân vật
 
@@ -401,4 +403,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pierpaolo Blanca | Noel Kruege | tôi | cậu / Noel / bạn hiền / người anh em | 212 | Bạn học cùng phòng tính tình sảng khoái phóng khoáng |
 | Rina Rupaage | Alize | tôi / chị | em / Alize | 215 | Nữ mạo hiểm giả nhận hướng dẫn / cùng luyện tập với cô bé mồ côi |
 | Alize | Rina Rupaage | em | chị / chị Rina | 215 | Đứa trẻ mồ côi nói chuyện với nữ mạo hiểm giả nhận hướng dẫn mình |
+| Lorraine Vivie | Jad | tôi | em / Jad | 217 | Nữ học giả tình nguyện dạy học giáo huấn học trò |
+| Jad | Lorraine Vivie | em | cô Lorraine / cô | 217 | Học sinh thưa gửi với cô giáo tình nguyện |
+| Lorraine Vivie | Gerge | tôi | em / Gerge | 217 | Nữ học giả dặn dò học trò |
+| Gerge | Lorraine Vivie | em | cô Lorraine / cô | 217 | Học sinh thưa gửi với cô giáo tình nguyện |
 
