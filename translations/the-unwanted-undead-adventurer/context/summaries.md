@@ -914,3 +914,9 @@ Tại một quán rượu ở Maalt, Rentt bắt gặp mạo hiểm giả Ngân 
 Biết chuyện, Rentt và Lorraine đã nhờ quan hệ ở Đế Quốc tìm kiếm cỏ luan quý hiếm, kết hợp nhựa nguyệt thụ cùng các loại ma dược để tự tay điều chế thuốc đặc trị bệnh fiel mang tới trao cho Eiras.
 Nhận được thuốc cứu em trai Myurin, Eiras mừng rỡ chạy đi tìm người yêu để hàn gắn và nhanh chóng tổ chức một hôn lễ linh đình với sự hiện diện của người em trai đã khỏi bệnh.
 Đứng ngắm cô dâu chú rể tại đám cưới, Rentt và Lorraine vui vẻ trêu đùa nhau về trang phục cưới tương lai của hai người (áo choàng phù thủy và giáp đen nguyền rủa) rồi cùng thầm chúc phúc cho cặp đôi mới cưới.
+
+## 155
+Rentt và Lorraine làm thủ tục tiến vào cổng thành vương đô Vistelya; chứng kiến sự lỏng lẻo của lính gác Yaaran trước người dân làng Yanga nhưng lại e dè trước giấy tờ tùy thân từ Đế Quốc của Lorraine.
+Cả hai rẽ vào hẻm vắng để cải trang: Lorraine dùng ma pháp nhuộm áo choàng của Rentt sang màu tím hoa văn thời thượng của hoàng đô Đế Quốc, đồng thời tự làm mới phong cách (uốn tóc, trang điểm đậm, đeo kính) vô cùng quý phái và quyến rũ khiến Rentt trầm trồ ngỡ ngàng.
+Sau khi thu hút sự chú ý của mọi người trên phố, cả hai tiến vào trụ sở Hội Mạo Hiểm Giả nguy nga tráng lệ tại vương đô và dạo xem quầy bar, khu mổ xẻ cũng như quầy thẩm định.
+Tại bảng thông báo, cả hai chú ý tới ủy thác hái thảo dược bị bỏ quên suốt ba ngày (điều sẽ không xảy ra ở Maalt nhờ các buổi hướng dẫn của Rentt); đúng lúc đó, Augurey Ars – mạo hiểm giả Ngân Cấp kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng quen biết từ Maalt – bất ngờ tiến tới bắt chuyện.

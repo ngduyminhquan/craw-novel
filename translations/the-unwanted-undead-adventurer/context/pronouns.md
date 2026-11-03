@@ -267,3 +267,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rudol | Rentt Faina | tôi | cậu / người anh em / Rentt | 153 | Thợ săn địa phương ban đầu vờ say thách đấu, sau bộc bạch thật lòng |
 | Rentt Faina | Eiras | tôi | anh / Eiras | 154 | Mạo hiểm giả quen biết ở Maalt |
 | Eiras | Rentt Faina | tôi | cậu / Rentt | 154 | Mạo hiểm giả kỳ cựu nói chuyện với đồng nghiệp trẻ hơn |
+| Rentt Faina | Augurey | tôi | anh | 155 | Rentt cải trang nói chuyện với mạo hiểm giả quen cũ |
+| Augurey | Rentt Faina | tôi | hai người / hai vị / cậu | 155 | Augurey bắt chuyện với nhóm Rentt ở bảng ủy thác tại vương đô |

@@ -295,3 +295,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | fiel disease |  | bệnh fiel | khác | 154 | Chứng bệnh kỳ lạ nan y đe dọa tính mạng em trai Myurin |
 | luan grass |  | cỏ luan | vật phẩm | 154 | Loại thảo dược quý hiếm từ Đế Quốc dùng điều chế thuốc trị bệnh fiel |
 | moontree sap |  | nhựa nguyệt thụ | vật phẩm | 154 | Chất dịch từ cây nguyệt thụ dùng làm dung môi điều chế thuốc trị bệnh fiel |
+| Yanga |  | Yanga | địa danh | 155 | Ngôi làng nông thôn nhỏ ngoại vi vương đô Vistelya |
+| bewitching magic |  | ma pháp huyễn hoặc | kỹ năng | 155 | Ma pháp thay đổi ngoại hình hoặc trang phục (幻惑魔術) |
+| transformation magic |  | ma pháp biến hình | kỹ năng | 155 | Ma pháp biến đổi hoàn toàn hình dạng hoặc vóc dáng (変身魔術) |

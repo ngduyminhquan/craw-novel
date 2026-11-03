@@ -159,7 +159,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | reviewed |  |
 | 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | reviewed |  |
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | done |  |
-| 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | todo |  |
+| 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | done |  |
 | 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | todo |  |
 | 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | todo |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -722,3 +723,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#153] Xưng hô giữa Rentt Faina và thợ săn Rudol — tạm chọn Rentt xưng 'tôi' gọi 'anh / Rudol', Rudol xưng 'tôi' gọi 'cậu / người anh em / Rentt' (phương án khác: Rentt gọi 'ông anh', Rudol xưng 'ta' gọi 'cậu / ngươi'). Tạm dùng trong bản dịch: Rentt (tôi - anh / Rudol), Rudol (tôi - cậu / người anh em / Rentt). → Chốt Rentt (tôi - anh / Rudol), Rudol (tôi - cậu / người anh em / Rentt) (orchestrator)
 - [#153] Dịch cụm biệt danh quái vật 'lord of the forest' (đoạn 3, 13, 15) — tạm chọn dịch thường 'chúa tể khu rừng' theo ngữ cảnh dân làng gọi một con Goblin to xác (phương án khác: viết hoa 'Chúa Tể Khu Rừng' hoặc 'chủ nhân khu rừng'). Tạm dùng trong bản dịch: 'chúa tể khu rừng'. → Chốt viết thường 'chúa tể khu rừng' theo ngữ cảnh dân làng gọi (orchestrator)
 - [#154] Tiêu đề "Unsolicited Help" tạm dịch là "Lòng Tốt Thừa Thãi" (phương án khác: "Sự Giúp Đỡ Thừa Thãi"); các danh từ riêng mới gồm "cỏ luan" (luan grass), "bệnh fiel" (fiel disease) và "nhựa nguyệt thụ" (moontree sap) đã tạm dùng theo phiên âm kết hợp từ Hán Việt. → Chốt tiêu đề Lòng Tốt Thừa Thãi và các thuật ngữ bệnh fiel, cỏ luan, nhựa nguyệt thụ (orchestrator)
+- [#155] Dịch 'bewitching magic' và 'transformation magic' — tạm chọn 'ma pháp huyễn hoặc' và 'ma pháp biến hình' (phương án khác: 'ma pháp mị hoặc' / 'ma pháp biến hóa'). → Chốt ma pháp huyễn hoặc và ma pháp biến hình (orchestrator)
+- [#155] Tiêu đề 'Vistelya, The Capital (1)' — tạm chọn 'Vương Đô Vistelya (1)' thống nhất với danh xưng vương đô Vistelya trong context (phương án khác: 'Vistelya, Thủ Đô (1)'). → Chốt Vương Đô Vistelya (1) (orchestrator)
