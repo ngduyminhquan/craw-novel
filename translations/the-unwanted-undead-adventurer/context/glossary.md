@@ -30,7 +30,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Labyrinth of the Moon’s Reflection | Moon’s Reflection; Water Moon Dungeon | Mê Cung Nguyệt Ảnh | địa danh | 1 | Mê cung sơ cấp gần thị trấn Maalt (水月の迷宮) |
 | Labyrinth of the New Moon | New Moon; New Moon Dungeon | Mê Cung Tân Nguyệt | địa danh | 1 | Mê cung mới (新月の迷宮) |
 | Maalt |  | Maalt | địa danh | 1 | Thị trấn biên ải nơi Rentt sinh sống và hành nghề |
-| Kingdom of Yaaran | Yaaran | Vương Quốc Yaaran | địa danh | 1 | Vương quốc nơi có thị trấn Maalt |
+| Kingdom of Yaaran | Yaaran; Yaaran Kingdom | Vương Quốc Yaaran | địa danh | 1 | Vương quốc nơi có thị trấn Maalt |
 | Azuul Forest |  | Rừng Azuul | địa danh | 1 | Khu rừng gần Maalt |
 | Three-Pronged Harpoon |  | Ba Chĩa | tổ chức | 15 | Tiệm rèn vũ khí của vợ chồng Clope và Luka (三叉の銛亭) |
 | Adventurer’s Guild | Guild | Hội Mạo Hiểm Giả | tổ chức | 1 | Tổ chức quản lý và cấp phép cho mạo hiểm giả |

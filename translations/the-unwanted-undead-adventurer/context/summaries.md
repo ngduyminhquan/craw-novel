@@ -1234,4 +1234,11 @@ Nửa sau quay lại góc nhìn của Rentt: Isaac giải thích phương pháp 
 Lorraine nhận xét Rentt giờ gần như bất tử nhờ kết hợp tái sinh và Phân Liệt, nhưng Isaac nghiêm túc cảnh báo nguy cơ tử vong lớn nhất của Ma Cà Rồng mới sinh là mất cảm giác nguy hiểm và ỷ lại vào năng lực, đặc biệt trước những kẻ dùng Thần Lực hoặc vũ khí tẩm Thần Lực.
 Isaac quyết định tạm dừng buổi dạy để Rentt và Rina rèn luyện cho thật nhuần nhuyễn Phân Liệt trước khi chuyển sang các kỹ thuật Ma Cà Rồng nâng cao khác.
 
+## 209
+Rentt, Lorraine và Rina ra bến xe ngựa Maalt để tiễn Nive Maris; bến xe chật kín người và xe cộ chở vật liệu tái thiết cũng như học giả khắp nơi đổ về tham quan mê cung mới xuất hiện.
+Rina kể lại kỷ niệm khó chịu với đám học viên Học Viện kiêu ngạo ở vương đô từng xoi mói bộ dạng rách rưới của cô, nhưng bạn cô là một học viên ưu tú đã đứng ra tranh biện thắng họ.
+Rentt và nhóm bạn gặp Nive cùng Thánh Nữ Myullias Raiza; Myullias nhận lệnh từ Đại Giáo Phụ phải đi theo giám sát Nive; Rentt từ chối lời mời cùng bôn ba săn Ma Cà Rồng của Nive.
+Đoàn xe ngựa bề thế chở người của Học Viện từ vương đô chính thức tiến vào bến xe Maalt, mở đầu cho làn sóng khảo sát mới; Nive buông lời cảnh báo về những rắc rối sắp ập đến.
+
+
 

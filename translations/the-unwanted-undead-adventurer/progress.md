@@ -213,7 +213,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | reviewed |  |
 | 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | reviewed |  |
 | 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | done |  |
-| 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | todo |  |
+| 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | done |  |
 | 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | todo |  |
 | 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | todo |  |
 | 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | todo |  |
@@ -818,3 +818,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#207] Dịch quái vật / tinh linh thực vật 'dryad' (đoạn 55) — tạm giữ nguyên danh xưng quái vật thần thoại 'Dryad' theo tiền lệ Ent, Kelpie (phương án khác: 'Thụ Tinh', 'Mộc Tinh'). Tạm dùng trong bản dịch: 'Dryad'. → Giữ nguyên 'Dryad' theo tiền lệ Ent, Kelpie trong glossary.md. (orchestrator)
 - [#205] Xưng hô Nive Maris ↔ Rentt Faina: Nive gọi Rentt là 'cậu / Rentt / cậu Rentt', xưng 'tôi' → Chấp nhận, gộp bổ sung 'cậu' vào dòng Nive Maris -> Rentt Faina (chương 183) trong pronouns.md. (orchestrator)
 - [#205] Xưng hô Rina Rupaage ↔ Nive Maris: Rina gọi Nive là 'chị / chị Nive', luôn xưng 'tôi' với tiền bối → Chấp nhận, cập nhật dòng Rina Rupaage -> Nive Maris trong pronouns.md thành 'chị / chị Nive / cô / Nive'. (orchestrator)
+- [#209] Dịch tiêu đề arc/chương 'Vol 9 Chapter 4 - The Tower and the Academy (1)' — tạm chọn 'Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)' theo thuật ngữ Tòa Tháp và Học Viện đã có trong glossary.md (phương án khác: 'Tập 9 Chương 4 - Tháp và Học Viện (1)'). Tạm dùng trong bản dịch: 'Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)'. → Giữ 'Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)' theo thuật ngữ Tòa Tháp và Học Viện đã chốt trong glossary.md. (orchestrator)
+- [#209] Dịch cụm từ 'precision magic items' (đoạn 76) — tạm chọn 'ma cụ tinh vi' (phương án khác: 'ma cụ chính xác', 'ma cụ tinh xảo'). Tạm dùng trong bản dịch: 'ma cụ tinh vi'. → Giữ 'ma cụ tinh vi' vì tự nhiên và đúng ngữ cảnh thiết bị ma thuật nhạy cảm với rung chấn khi vận chuyển. (orchestrator)

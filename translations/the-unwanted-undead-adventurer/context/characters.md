@@ -324,6 +324,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 112: Quan sát thực trạng ngôi nguyện đường nhỏ của Giáo Hội Lobelia ở Maalt chỉ được dân bản địa ghé mua Nước Thánh và xà phòng; phân tích chiến lược bành trướng giáo hội đối trọng với Giáo Hội Đông Thiên; nhận mệnh lệnh trực tiếp từ Đại Giáo Phụ yêu cầu đi cùng Mạo hiểm giả Kim Cấp Nive Maris tới đàm phán với một mạo hiểm giả; ngạc nhiên và thích thú khi biết quá khứ của Gilly từng mơ làm mạo hiểm giả.
 - Trạng thái tính đến chương 113: Cùng Nive tới Thương hội Stheno đàm phán với Rentt; dùng Thần Lực thanh tẩy và phát hiện phản ứng Thần Lực trong người Rentt nên tin chắc anh không phải Ma Cà Rồng; ngán ngẩm trước mệnh lệnh của Đại Giáo Phụ yêu cầu đáp ứng tối đa nhu cầu của Nive, chuẩn bị tiếp tục hỗ trợ Nive truy lùng Ma Cà Rồng vào ngày hôm sau.
 - Trạng thái tính đến chương 183: Vẫn đang đồng hành và đi cùng Nive Maris tại Maalt; hớt hải chạy theo Nive khi cô đột ngột lao đi săn Thi Quỷ ở quảng trường; tỏ vẻ bực bội trước những lời mỉa mai cay nghiệt của Nive nhưng nhanh chóng kìm nén; ngao ngán trước sở thích và độ thính mũi săn quái của Nive.
+- Trạng thái tính đến chương 209: Nhận mệnh lệnh từ Đại Giáo Phụ phải đi theo giám sát Nive Maris khi cô rời khỏi Maalt; cùng Nive có mặt tại bến xe ngựa Maalt chuẩn bị lên đường.
 
 ### Gilly
 - Giới tính, tuổi/vẻ ngoài: Nam, thanh niên trẻ tuổi, ánh mắt sắc bén, thần thái và động tác lạnh lùng như sát thủ hơn là tư tế; mang theo một vũ khí có lưỡi sắc bén giắt bên hông.
@@ -397,6 +398,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tự nhiên, xởi lởi, xưng "tôi"; gọi Sharl là "ngài Sharl", Myullias là "Tiểu thư Myullias" (hay châm chọc tư cách thánh nữ của cô). Gọi Rentt là "ngài Rentt" đến #182; từ #183 đề nghị gọi nhau bằng tên như đồng nghiệp (xem pronouns.md).
 - Xuất hiện từ: #104.
 - Trạng thái tính đến chương 183: Đã mua xác Tarasque của Rentt (20 đồng bạch kim); kiểm tra Rentt bằng Thánh Hỏa (#106, #113) và tuyên bố anh trong sạch; nhờ Rentt báo cho cô nếu gặp Ma Cà Rồng không đánh nổi; đề nghị giúp tìm túi ma thuật. Ở #183 diệt Thi Quỷ tại quảng trường Maalt, tặng Ma Tinh cho Rentt, ngỏ ý cùng anh lập đội săn Ma Cà Rồng.
+- Trạng thái tính đến chương 209: Rời khỏi Maalt cùng với sự tháp tùng giám sát của Thánh Nữ Myullias Raiza; trước khi đi rủ Rentt cùng đi săn Ma Cà Rồng nhưng bị anh từ chối; quan sát đoàn xe của Học Viện tiến vào Maalt và buông lời cảnh báo về rắc rối sắp tới.
 
 ### Aaruz
 - Giới tính, thân phận: Nam, tư tế kiệt xuất hàng đầu của Giáo Hội Lobelia.
