@@ -1261,3 +1261,9 @@ Ba ngày sau sự cố ở bến xe ngựa, Rentt ngứa ngáy muốn làm việ
 Tại sảnh Hội, mạo hiểm giả và người của Tòa Tháp tranh cãi nảy lửa nhưng nhanh chóng hòa giải; Sheila cho biết Hội Trưởng Wolf Hermann đang đau đầu vì lượng công việc quá tải khi phải điều phối nhân lực và giải quyết yêu cầu từ Tòa Tháp lẫn Học Viện.
 Bắt gặp Rentt, Wolf liền dùng danh nghĩa nhân viên Hội Rentt Vivie cùng sự van nài của toàn thể nhân viên để ép anh nhận việc hỗ trợ.
 Trong phòng làm việc, Wolf giải thích kinh tế Maalt đang khởi sắc nhờ các đoàn nghiên cứu trả thù lao cao nhưng nhân sự Hội lại thiếu hụt trầm trọng; ông giao cho Rentt một ủy thác đặc biệt: đích thân đi đón Tổng Hội Trưởng của Vương Quốc Yaaran sắp tới Maalt.
+
+## 214
+Trước lời đe dọa nửa đùa nửa thật của Wolf về việc bắt anh làm người kế nhiệm Hội Trưởng, Rentt vội vã nhận lời đi vương đô Vistelya đón Tổng Hội Trưởng; Wolf hứa chu cấp xe ngựa và thư giới thiệu nhưng sau lưng lại thở phào vì đã đùn đẩy thành công việc phiền phức này.
+Trở về nhà thu dọn hành lý, Rentt bàn luận với Lorraine về những điểm khả nghi và lý do khiên cưỡng trong ủy thác của Wolf; Rentt cũng dự định nhân chuyến đi này thực hiện lời hứa diện kiến Công Chúa Jia tại hoàng cung vương đô và rủ Lorraine đi cùng.
+Để thu xếp hậu phương khi cả hai vắng nhà, Rentt dự tính nhờ Ma Cà Rồng Isaac trông nom Rina, đồng thời gợi ý để Rina nhận bé Alize làm đệ tử ruột (mentor/protégé) truyền dạy kỹ năng nhằm thỏa mãn mong muốn có người học việc như khi cô bé đi thám hiểm Mê Cung Nguyệt Ảnh cùng chuột Edel.
+Lorraine đồng ý đồng hành cùng Rentt tới vương đô bằng xe ngựa, với phương án dự phòng dùng ma pháp trận dịch chuyển tức thời về Maalt nếu xảy ra tình huống khẩn cấp.

@@ -218,7 +218,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | reviewed |  |
 | 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | reviewed |  |
 | 213 |  | Chapter_213 - Vol 9 Chapter 5 - A Request from the Guild (1).txt | Vol 9 Chapter 5 - A Request from the Guild (1) | reviewed |  |
-| 214 |  | Chapter_214 - Vol 9 Chapter 5 - A Request from the Guild (2).txt | Vol 9 Chapter 5 - A Request from the Guild (2) | todo |  |
+| 214 |  | Chapter_214 - Vol 9 Chapter 5 - A Request from the Guild (2).txt | Vol 9 Chapter 5 - A Request from the Guild (2) | done |  |
 | 215 |  | Chapter_215 - Vol 9 Chapter 5 - A Request from the Guild (3).txt | Vol 9 Chapter 5 - A Request from the Guild (3) | todo |  |
 | 216 |  | Chapter_216 - Vol 9 Chapter 5 - A Request from the Guild (4).txt | Vol 9 Chapter 5 - A Request from the Guild (4) | todo |  |
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -832,3 +833,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#212] Xưng hô Noel Kruege và Pierpaolo Blanca: tạm chọn xưng 'tôi' - gọi 'cậu / Noel / Pierpaolo / bạn hiền / người anh em' (phương án khác: 'mình' - 'cậu'). → Giữ xưng 'tôi' - gọi 'cậu / Noel / Pierpaolo / bạn hiền / người anh em' phù hợp với hai nam học viên Học Viện. (orchestrator)
 - [#213] Dịch tiêu đề arc/chương 'Vol 9 Chapter 5 - A Request from the Guild (1)' — tạm chọn 'Tập 9 Chương 5 - Một Ủy Thác từ Hội (1)' theo nghĩa Request của Hội là Ủy thác (phương án khác: 'Tập 9 Chương 5 - Ủy Thác từ Hội (1)', 'Tập 9 Chương 5 - Yêu Cầu từ Hội (1)'). Tạm dùng trong bản dịch: 'Tập 9 Chương 5 - Một Ủy Thác từ Hội (1)'. → Giữ 'Tập 9 Chương 5 - Một Ủy Thác từ Hội (1)' đúng theo thuật ngữ Request (ủy thác) của Hội Mạo Hiểm Giả. (orchestrator)
 - [#213] Dịch tên gọi sự cố 'Great Maaltesian Riot' và 'Maaltesian Dungeon Affair' — tạm chọn 'Đại Bạo Động Maalt' và 'Biến Cố Mê Cung Maalt' (phương án khác: 'Cuộc Bạo Động Lớn Maalt', 'Sự Kiện Mê Cung Maalt'). Tạm dùng trong bản dịch: 'Đại Bạo Động Maalt' và 'Biến Cố Mê Cung Maalt'. → Giữ 'Đại Bạo Động Maalt' và 'Biến Cố Mê Cung Maalt' vì trang trọng và phù hợp với tên gọi sự kiện lịch sử. (orchestrator)
+- [#214] Dịch chức danh 'Imperial grand guildmaster' — tạm chọn 'Tổng Hội Trưởng Đế Quốc' và thêm vào glossary.md (phương án khác: 'Tổng Hội Trưởng của Đế Quốc'). Tạm dùng trong bản dịch: 'Tổng Hội Trưởng Đế Quốc'. → Dùng 'Tổng Hội Trưởng Đế Quốc' (orchestrator)
+- [#214] Dịch từ 'protégé' khi Rina muốn có học trò/đệ tử theo mình — tạm chọn 'đệ tử ruột' (phương án khác: 'người thừa kế', 'đệ tử chân truyền', 'học trò'). Tạm dùng trong bản dịch: 'đệ tử ruột'. → Dùng 'đệ tử ruột' (từ thông thường, không cần đưa vào glossary) (orchestrator)

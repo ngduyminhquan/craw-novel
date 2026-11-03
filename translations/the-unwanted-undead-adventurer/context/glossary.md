@@ -391,3 +391,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | salutatorian |  | á khoa | danh hiệu | 212 | Học viên đứng thứ hai khóa học tập tại Học Viện |
 | Great Maaltesian Riot |  | Đại Bạo Động Maalt | khác | 213 | Tên gọi đùa của vụ hỗn loạn mê cung gần đây ở Maalt |
 | Maaltesian Dungeon Affair |  | Biến Cố Mê Cung Maalt | khác | 213 | Tên gọi khác của vụ hỗn loạn mê cung gần đây ở Maalt |
+| Imperial grand guildmaster | Imperial Grand Guildmaster | Tổng Hội Trưởng Đế Quốc | chức nghiệp | 214 | Người đứng đầu toàn bộ Hội Mạo Hiểm Giả của Đế Quốc Rermutt |
