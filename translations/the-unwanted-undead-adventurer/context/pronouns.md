@@ -66,6 +66,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rudol | Rudol / người đàn ông / người thợ săn | 153 | Thợ săn địa phương tại Làng Wega |
 | Eiras | Eiras / người đàn ông / anh ta | 154 | Mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt |
 | Myurin | Myurin / cô / cô gái | 154 | Nhân viên tiệm tạp hóa ở Maalt |
+| Nauss Ancro | Nauss / người đàn ông / vị kỵ sĩ | 157 | Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran |
+| Jia Regina Yaaran | Jia / công chúa / cô bé / thiếu nữ | 157 | Nhị Công Chúa của Vương Quốc Yaaran |
 
 ## Giữa các nhân vật
 
@@ -271,3 +273,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Augurey | Rentt Faina | tôi | hai người / hai vị / cậu | 155 | Augurey bắt chuyện với nhóm Rentt ở bảng ủy thác tại vương đô |
 | Lorraine Vivie | Augurey | tôi | anh | 156 | Lorraine cải trang (Olga) nói chuyện với Augurey |
 | Augurey | Lorraine Vivie | tôi | cô / Olga / hai người | 156 | Augurey nói chuyện với Olga (Lorraine cải trang) |
+| Rentt Faina | Nauss Ancro | tôi | ngài / ngài Nauss | 157 | Mạo hiểm giả nói chuyện với đội trưởng Cận Vệ Hoàng Gia |
+| Nauss Ancro | Rentt Faina | tôi | cậu / các cậu / các vị | 157 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện với nhóm mạo hiểm giả cứu viện |
+| Rentt Faina | Jia Regina Yaaran | tôi | Công Chúa / người | 157 | Mạo hiểm giả nói chuyện với công chúa |
+| Jia Regina Yaaran | Rentt Faina | tôi | các bạn / anh | 157 | Công chúa nói chuyện với ân nhân cứu mạng |
+| Nauss Ancro | Jia Regina Yaaran | tôi | Công Chúa | 157 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện với công chúa |
+| Jia Regina Yaaran | Nauss Ancro | tôi | ông / Nauss | 157 | Công chúa nói chuyện với cận vệ bảo hộ |

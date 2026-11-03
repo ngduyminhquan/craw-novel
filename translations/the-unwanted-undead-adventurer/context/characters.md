@@ -84,6 +84,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Augurey Ars |  | Augurey Ars | Tên đầy đủ của Augurey, mạo hiểm giả Ngân Cấp kỳ dị ăn mặc sặc sỡ | #155 |
 | Purple |  | Purple | Tên giả Rentt tự xưng với Augurey tại vương đô Vistelya | #156 |
 | Olga |  | Olga | Tên giả Lorraine tự xưng với Augurey tại vương đô Vistelya | #156 |
+| Nauss Ancro | Nauss; Sir Nauss | Nauss Ancro | Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran | #157 |
+| Jia Regina Yaaran | Jia; Princess Jia | Jia Regina Yaaran | Nhị Công Chúa của Vương Quốc Yaaran | #157 |
 
 ## Chi tiết
 
@@ -558,3 +560,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, nhân viên tiệm tạp hóa ở Maalt, người yêu và sau đó là vợ của Eiras.
 - Đặc điểm: Xinh đẹp, đoan trang, tháo vát; có em trai không may mắc chứng bệnh nan y (bệnh fiel); từng đau lòng khi Eiras đòi chia tay; sau khi em trai được chữa khỏi nhờ thuốc của Rentt và Lorraine, cô và Eiras đã nên duyên vợ chồng trong trang phục lộng lẫy.
 - Xuất hiện từ: #154.
+
+### Nauss Ancro
+- Giới tính, vai trò: Nam, kỵ sĩ lớn tuổi, đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran.
+- Đặc điểm: Khoác giáp bạc có khắc gia huy hình kỳ lân đâm xuyên ma vật trên vai; kiếm thuật điêu luyện; tính tình thẳng thắn, cảnh giác nhưng biết ơn ân nhân cứu mạng; tận tụy bảo vệ Công Chúa Jia; trao huân chương gia huy chứa ma thuật để nhóm Rentt làm tín vật vào vương cung.
+- Xuất hiện từ: #157.
+
+### Jia Regina Yaaran
+- Giới tính, vai trò: Nữ, khoảng 15-16 tuổi, Nhị Công Chúa của Vương Quốc Yaaran.
+- Đặc điểm: Ngoại hình xinh xắn, quý phái trong bộ váy nhưng thể trạng có phần hơi ốm yếu; ánh mắt kiên định, tính cách nhân từ, biết nghĩ cho người khác và thấm nhuần giáo lý bác ái của Giáo Hội Đông Thiên; không kênh kiệu lạm quyền, luôn muốn đền đáp ân nhân cứu mạng và tôn trọng công việc của người dân.
+- Xuất hiện từ: #157.

@@ -161,7 +161,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | reviewed |  |
 | 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | reviewed |  |
 | 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | reviewed |  |
-| 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | todo |  |
+| 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | done |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | todo |  |
 | 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | todo |  |
 | 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -728,3 +729,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#155] Tiêu đề 'Vistelya, The Capital (1)' — tạm chọn 'Vương Đô Vistelya (1)' thống nhất với danh xưng vương đô Vistelya trong context (phương án khác: 'Vistelya, Thủ Đô (1)'). → Chốt Vương Đô Vistelya (1) (orchestrator)
 - [#156] Dịch thảo dược 'fire spirit madder' — tạm chọn 'thiến thảo hỏa tinh linh' (loài thiến thảo dùng nhuộm đỏ, gắn với hỏa tinh linh; phương án khác: 'cỏ thiến thảo hỏa tinh', 'thiến thảo tinh linh lửa'). Tạm dùng trong bản dịch: 'thiến thảo hỏa tinh linh'. → Chốt thiến thảo hỏa tinh linh (orchestrator)
 - [#156] Dịch tên tiệm 'Michel’s Boutique' và nhà hàng 'All Flevne' — tạm chọn 'Tiệm thời trang Michel' và 'Nhà hàng All Flevne' (phương án khác: 'Tiệm may Michel', 'Quán All Flevne'). Tạm dùng trong bản dịch: 'Tiệm thời trang Michel' và 'Nhà hàng All Flevne'. → Chốt Tiệm thời trang Michel và Nhà hàng All Flevne (orchestrator)
+- [#157] Tiêu đề arc/chương 'Vol 7 Chapter 2 - Backup (1)' — tạm chọn 'Tập 7 Chương 2 - Tiếp Viện (1)' phù hợp cảnh tác chiến tiếp ứng giải vây (phương án khác: 'Tập 7 Chương 2 - Hỗ Trợ (1)', 'Tập 7 Chương 2 - Viện Trợ (1)'). Tạm dùng trong bản dịch: 'Tập 7 Chương 2 - Tiếp Viện (1)'. → Chốt Tập 7 Chương 2 - Tiếp Viện (1) (orchestrator)
+- [#157] Xưng hô giữa Nauss Ancro (Đội trưởng Cận Vệ Hoàng Gia) và Công Chúa Jia Regina Yaaran — tạm chọn Nauss xưng 'tôi' gọi 'Công Chúa', Công Chúa xưng 'tôi' theo văn phong fantasy phương Tây hiện đại (phù hợp phong cách gần gũi con dân của hoàng gia Yaaran và đồng bộ với cặp Isaac Hart - Laura Latuule; phương án khác: Nauss xưng 'thần', Công Chúa xưng 'ta'). Tạm dùng trong bản dịch: Nauss (tôi - Công Chúa), Jia (tôi). → Chốt Nauss xưng tôi gọi Công Chúa, Jia xưng tôi (orchestrator)

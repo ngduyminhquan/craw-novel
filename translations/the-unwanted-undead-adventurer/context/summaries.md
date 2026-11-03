@@ -926,3 +926,9 @@ Trước sự gặng hỏi của Augurey Ars, Rentt và Lorraine lấy tên gi�
 Nhớ lại những ân tình chỉ điểm săn bắn của Augurey hồi ở Maalt, Rentt nhận lời giúp đỡ; Lorraine nhân dịp này bắt Rentt hứa sẽ chiêu đãi cô một bữa tối thịnh soạn đủ món tại Nhà hàng All Flevne đắt đỏ nhất Maalt.
 Cả ba cùng tiến vào khu rừng tương đối an toàn bên ngoài vương đô; trước sự lúng túng mù tịt của Augurey, Rentt chỉ dẫn tận tình cách phân biệt thiến thảo hỏa tinh linh với các loài hoa vàng lục tương tự để tránh việc ủy thác bị bỏ xó trong tương lai.
 Sau khi thu hái đủ số lượng thiến thảo hỏa tinh linh cho mẻ thuốc nhuộm đỏ rực, cả ba người cùng nhau chuẩn bị quay về vương đô.
+
+## 157
+Trên đường cuốc bộ cùng Lorraine và Augurey trở về vương đô, Rentt đánh hơi thấy mùi máu người và cùng cả nhóm chạy tới ứng cứu một cỗ xe ngựa đang bị bầy Sói Rừng cùng Sói Đá bao vây áp đảo.
+Lorraine dùng phong ma pháp mở đường để Rentt cùng Augurey xông vào tiêu diệt sạch lũ ma vật, giải cứu nhóm kỵ sĩ mặc giáp bạc bị thương nặng.
+Sau trận chiến, người đứng đầu nhóm kỵ sĩ tự giới thiệu là Nauss Ancro – Đội trưởng Cận Vệ Hoàng Gia Vương Quốc Yaaran, hộ tống Nhị Công Chúa Jia Regina Yaaran; Công Chúa ngỏ lời mời ân nhân tới vương cung để trọng thưởng.
+Lo ngại bị lộ thân phận giả, Rentt khéo léo viện cớ trang phục lòe loẹt không hợp lễ nghi và phải trả ủy thác để xin hoãn; Nauss cùng Công Chúa đồng ý và trao cho Rentt tấm huy chương ma thuật mang gia huy dòng họ để làm tín vật vào cung sau này.
