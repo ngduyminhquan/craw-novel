@@ -992,3 +992,9 @@ Gharb nhận ra bản chất Ma Lực của Rentt đã thay đổi dị thườn
 Lorraine giải thích Rentt có nhiều điểm khác biệt với chủng loài thông thường; Gharb nhận định Ma Lực của Rentt không hề u tối, nhớp nháp như Ma Cà Rồng thường thấy và hồi tưởng về thời xưa khi Ma Cà Rồng còn tự do đồng hành cùng các thương đoàn cho đến khi Giáo Hội Lobelia dưới trướng Đại Giáo Phụ tiến hành săn quét gắt gao 40 năm trước.
 Gharb và Rentt bàn luận về lòng đố kỵ của con người trước sự trường sinh bất lão của Ma Cà Rồng hay Lich, cùng mối hiểm họa khi theo đuổi tri thức tối thượng như Bản Ghi Akashic.
 Rentt kể lại ngọn ngành việc bản thân bị Rồng ăn thịt trong mê cung rồi tiến hóa từ Khô Lâu thành Ma Cà Rồng; Gharb và Capitan dễ dàng chấp nhận nhưng không khỏi kinh ngạc trước sự tồn tại có thật của Rồng trong truyền thuyết, rồi Gharb hỏi Rentt về dự định tương lai.
+
+## 168
+Rentt khẳng định mục tiêu trở thành mạo hiểm giả Mithril Cấp và tìm cách trở lại làm người không hề thay đổi; anh chia sẻ về số ít người đã biết bí mật của mình, trong khi Lorraine khẳng định biến cố của Rentt chẳng hề ảnh hưởng đến mối quan hệ giữa hai người.
+Gharb to nhỏ với Lorraine khiến Capitan kể lại trải nghiệm nhớ đời khi chõ mũi vào chuyện phụ nữ; Gharb đề xuất Rentt và Lorraine ở lại làng Hathara một thời gian để truyền dạy các kỹ năng bí truyền bảo vệ ma pháp trận dịch chuyển cùng tài liệu cổ ngữ về cổ thành.
+Nhóm quay về làng đổi vũ khí rồi trở lại rừng; Lorraine tách ra theo học ma thuật cổ xưa của Gharb, còn Capitan nhận lời kèm cặp các kỹ thuật vận dụng Khí Lực cho Rentt.
+Rentt biểu diễn Ma Khí Dung Hợp Thuật chém nổ thân cây để Capitan đánh giá thực lực, đồng thời giải thích về Thần Ma Khí Dung Hợp Thuật kết hợp cả ba nguồn năng lượng từng phá nát dao săn của Capitan.

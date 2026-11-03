@@ -329,3 +329,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | beastfolk |  | thú nhân | chủng tộc | 53 | Chủng tộc mang đặc điểm thú có tri thức chứ không phải quái vật (獣人) |
 | Winged folk | winged folk | Tộc Có Cánh | chủng tộc | 166 | Chủng tộc thú nhân mang đôi cánh sau lưng (翼人種) |
 | Lich | lich; liches; Liches | Lich | quái vật | 167 | Undead dạng pháp sư xương khô sở hữu sự bất tử thông qua nghi thức ma pháp (リッチ) |
+| divinity-mana-spirit fusion | Divinity-mana-spirit fusion | Thần Ma Khí Dung Hợp Thuật | kỹ năng | 168 | Kỹ thuật dung hợp đồng thời cả ba nguồn năng lượng Thần Lực, Ma Lực và Khí Lực |
