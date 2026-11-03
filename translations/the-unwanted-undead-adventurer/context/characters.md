@@ -86,6 +86,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Olga |  | Olga | Tên giả Lorraine tự xưng với Augurey tại vương đô Vistelya | #156 |
 | Nauss Ancro | Nauss; Sir Nauss | Nauss Ancro | Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran | #157 |
 | Jia Regina Yaaran | Jia; Princess Jia | Jia Regina Yaaran | Nhị Công Chúa của Vương Quốc Yaaran | #157 |
+| Hozei |  | Hozei | Nữ Thần Khế Ước được thờ phụng tại vương đô Vistelya | #159 |
 
 ## Chi tiết
 
@@ -202,6 +203,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 42: Đã rời Maalt lên thủ đô Yaaran một thời gian trước với lý do "nghe thấy tiếng gọi của cơn gió"; sự vắng mặt của anh khiến Hội Mạo Hiểm Giả Maalt trở nên yên ắng hơn.
 - Trạng thái tính đến chương 155: Tiết lộ tên đầy đủ là Augurey Ars, mang cấp bậc Ngân Cấp, đang hoạt động tại vương đô Vistelya; mũ gắn một chiếc lông công, chuôi kiếm chạm khắc sặc sỡ lóa mắt; tình cờ bắt gặp và bắt chuyện với Rentt cùng Lorraine (cả hai đang cải trang) trước bảng thông báo ủy thác tại trụ sở Hội Mạo Hiểm Giả.
 - Trạng thái tính đến chương 156: Không nhận ra Rentt và Lorraine qua lớp cải trang và tin hai người là cặp vợ chồng mới cưới Purple và Olga; nài nỉ nhờ họ hỗ trợ theo ủy thác cá nhân để tìm thiến thảo hỏa tinh linh làm thuốc nhuộm đỏ cho trang phục mới đặt may tại Tiệm thời trang Michel; được Rentt chỉ dẫn tường tận cách phân biệt loài thảo dược này.
+- Trạng thái tính đến chương 159: Đổi sang mặc trang phục màu tối giản dị để tránh gây chú ý; chia 3 đồng vàng tiền thù lao ủy thác cho Rentt và Lorraine tại một quán ăn nhỏ; dùng mẹo gọi tên "Rentt" và vạch trần thân phận cải trang của hai người nhờ nhận diện phong cách kiếm thuật bài bản của Rentt; chủ động dẫn cả nhóm đến Đền thờ Hozei để lập khế ước ràng buộc ma pháp có sự ban phước của Thần Khế Ước nhằm giữ kín bí mật.
 
 ### Ryuntus
 - Giới tính, tuổi/vẻ ngoài: Nam, trạc ngoài đôi mươi, thanh niên chất phác sống ở Làng Todds ven Hồ Ruiess.
@@ -570,3 +572,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, khoảng 15-16 tuổi, Nhị Công Chúa của Vương Quốc Yaaran.
 - Đặc điểm: Ngoại hình xinh xắn, quý phái trong bộ váy nhưng thể trạng có phần hơi ốm yếu; ánh mắt kiên định, tính cách nhân từ, biết nghĩ cho người khác và thấm nhuần giáo lý bác ái của Giáo Hội Đông Thiên; không kênh kiệu lạm quyền, luôn muốn đền đáp ân nhân cứu mạng và tôn trọng công việc của người dân.
 - Xuất hiện từ: #157.
+
+### Hozei
+- Thân phận, vai trò: Nữ Thần Khế Ước (God of Contracts) được thờ phụng tại vương đô Vistelya.
+- Đặc điểm: Bức tượng khổng lồ tại ngôi đền miêu tả bà tay cầm quyền trượng thực thi công lý, tay kia cầm cán cân đảm bảo sự công bằng, tóc dài, trang phục rộng thụng, ánh mắt kiên định không khoan nhượng trước bất kỳ sự bất công nào; tính cách nghiêm khắc bậc nhất trong số các thần linh; khế ước mang sự ban phước của bà do các Thánh Giả tạo ra bằng Thần Lực có khả năng ước thúc hành vi của người ký kết.
+- Xuất hiện từ: #159.

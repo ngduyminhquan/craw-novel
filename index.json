@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T02:30:14Z",
+  "generatedAt": "2026-11-03T02:37:12Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3101,6 +3101,12 @@
           "title": "Chương 158: Tập 7 Chương 2 - Tiếp Viện (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_158.md",
           "sha": "e3012e9625d8ea8549b97a6ad2e772df68145504"
+        },
+        {
+          "number": 159,
+          "title": "Chương 159: Tập 7 Chương 2 - Tiếp Viện (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_159.md",
+          "sha": "c9f4eae6a57800da95030581182707cdb4e672c2"
         }
       ]
     },

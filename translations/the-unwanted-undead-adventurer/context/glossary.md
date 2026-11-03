@@ -306,3 +306,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Unicorn | Unicorns; unicorn; unicorns | kỳ lân | quái vật | 67 | Quái vật dạng ngựa trắng có sừng trên trán, tốc độ và sức bền vượt xa ngựa thường, tính khí thất thường khó thuần dưỡng (ユニコーン) |
 | His Majesty | Majesty | Bệ Hạ | danh hiệu | 158 | Danh xưng tôn kính dành cho Quốc Vương Yaaran |
 | plant magic |  | ma pháp thực vật | kỹ năng | 158 | Ma pháp điều khiển hoặc tác động lên cây cỏ, thực vật (植物魔法) |
+| God of Contracts |  | Thần Khế Ước | danh hiệu | 159 | Danh hiệu thần linh của Hozei, vị thần cai quản khế ước và sự công bằng |
+| arouzal |  | arouzal | vật phẩm | 159 | Thức uống cao cấp có vị đắng chua đặc trưng rất được ưa chuộng tại Vương Quốc Yaaran |
+| kazuki grass |  | cỏ kazuki | vật phẩm | 159 | Loài thực vật có rễ nghiền mịn dùng pha chế thức uống arouzal |
+| loa |  | hạt loa | vật phẩm | 159 | Hạt phơi khô rang chín dùng chiết xuất chất lỏng pha chế thức uống arouzal |

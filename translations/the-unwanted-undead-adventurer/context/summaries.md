@@ -938,3 +938,9 @@ Rentt và Augurey bàn cách từ chối khéo việc diện kiến vương cung
 Công Chúa Jia Regina Yaaran huýt sáo gọi đôi kỳ lân trắng muốt kéo xe trở lại; nhận thấy các kỵ sĩ kiệt sức sau hai đợt tập kích liên tiếp, nhóm Rentt nhận lời hộ tống đoàn xe về tận gần cổng thành vương đô để tích lũy thêm ân huệ.
 Đến gần cổng thành, Rentt khéo léo từ chối lời hứa bẩm báo công lao lên Bệ Hạ của Nauss rồi cùng Lorraine và Augurey tách đoàn, xếp vào hàng thường dân để tránh bị lưu hồ sơ nhập thành.
 Sau khi qua cổng an toàn, Rentt hội ngộ cùng Lorraine trong khi Augurey tới Hội nộp ủy thác; hai người cùng nhau di chuyển tới điểm hẹn tại một cửa hàng theo chỉ dẫn của Augurey để bàn về phần thưởng.
+
+## 159
+Rentt và Lorraine đến điểm hẹn tại một quán nhỏ trong hẻm vắng thưởng thức thức uống arouzal; Augurey xuất hiện trong trang phục màu tối giản dị để tránh gây chú ý rồi chia trọn ba đồng vàng thù lao ủy thác cho hai người.
+Trong lúc tán gẫu sau bữa ăn, Augurey dùng mẹo gọi tên "Rentt" và vạch trần thân phận cải trang của Rentt nhờ nhận diện phong cách kiếm thuật bài bản; Lorraine cũng thừa nhận danh tính và Rentt giải thích họ chỉ đến vương đô tham quan mà không thể để lại hồ sơ.
+Hiểu được mối nguy hiểm liên đới nếu thông tin bị rò rỉ, Augurey đề xuất cả nhóm lập một khế ước ma pháp chất lượng cao để đảm bảo giữ bí mật tuyệt đối.
+Cả ba cùng đến ngôi đền đồ sộ thờ Nữ Thần Khế Ước Hozei; Rentt dâng cúng lễ vật và nhận từ vị tư tế một tấm giấy da chứa Thần Lực mang sự ban phước của Hozei trong căn phòng cách âm.

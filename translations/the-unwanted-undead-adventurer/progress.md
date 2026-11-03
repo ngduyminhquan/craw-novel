@@ -163,7 +163,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | reviewed |  |
 | 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | done |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | done |  |
-| 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | todo |  |
+| 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | done |  |
 | 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | todo |  |
 | 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | todo |  |
 | 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | todo |  |
@@ -729,3 +729,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#157] Tiêu đề arc/chương 'Vol 7 Chapter 2 - Backup (1)' — tạm chọn 'Tập 7 Chương 2 - Tiếp Viện (1)' phù hợp cảnh tác chiến tiếp ứng giải vây (phương án khác: 'Tập 7 Chương 2 - Hỗ Trợ (1)', 'Tập 7 Chương 2 - Viện Trợ (1)'). Tạm dùng trong bản dịch: 'Tập 7 Chương 2 - Tiếp Viện (1)'. → Chốt Tập 7 Chương 2 - Tiếp Viện (1) (orchestrator)
 - [#157] Xưng hô giữa Nauss Ancro (Đội trưởng Cận Vệ Hoàng Gia) và Công Chúa Jia Regina Yaaran — tạm chọn Nauss xưng 'tôi' gọi 'Công Chúa', Công Chúa xưng 'tôi' theo văn phong fantasy phương Tây hiện đại (phù hợp phong cách gần gũi con dân của hoàng gia Yaaran và đồng bộ với cặp Isaac Hart - Laura Latuule; phương án khác: Nauss xưng 'thần', Công Chúa xưng 'ta'). Tạm dùng trong bản dịch: Nauss (tôi - Công Chúa), Jia (tôi). → Chốt Nauss xưng tôi gọi Công Chúa, Jia xưng tôi (orchestrator)
 - [#158] Dịch 'unicorn' (thú kéo xe quý hiếm) — tạm chọn 'kỳ lân' (nhất quán với #67 và #157; phương án khác: giữ nguyên 'Unicorn', 'ngựa một sừng'). → Chốt kỳ lân (nhất quán với chương 67 và 157) (orchestrator)
+- [#159] Dịch danh hiệu 'God of Contracts' và nữ thần 'Hozei' — tạm chọn 'Thần Khế Ước' và 'Hozei' (phương án khác: 'Nữ Thần Khế Ước'). → Chốt Thần Khế Ước và Hozei (orchestrator)
+- [#159] Tên thức uống 'arouzal' và nguyên liệu 'kazuki grass', 'loa' — tạm chọn giữ nguyên 'arouzal', dịch 'cỏ kazuki' và 'hạt loa' (phương án khác: 'đậu loa'). → Chốt arouzal, cỏ kazuki và hạt loa (orchestrator)
