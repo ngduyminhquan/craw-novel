@@ -1049,3 +1049,8 @@ Rentt nhận ủy thác kỳ lạ từ Dylas, một thợ thủ công đến t�
 Lần theo mùi máu, Rentt tiếp cận hai mạo hiểm giả Đồng Cấp bị thương; bằng sự khéo léo và cảnh báo thật lòng về sự nguy hiểm khi đàn sói có sói đực bảo vệ, anh thuyết phục họ tự nguyện từ bỏ ý định và quay về thị trấn an toàn.
 Sau khi hai người rời đi, Rentt nhận ra Dylas đeo mặt dây chuyền pha lê xanh lục quý hiếm của Sói Pha Lê mang thai và biết được Dylas từng nuôi nấng con sói từ nhỏ như một người bạn.
 Kết thúc ủy thác trong hòa bình, Rentt rủ Dylas cùng về thị trấn kiểm tra tình hình hai mạo hiểm giả và để Dylas đãi chầu rượu chuộc lỗi vì đã ngáng đường làm ăn của họ.
+
+## 178
+Tại Hội Mạo Hiểm Giả, ủy thác Rentt định nhận bị trùng do sơ suất niêm yết của nhân viên; trong lúc chờ đợi, anh đọc tập sách điều lệ và giải đáp cặn kẽ các thắc mắc về quy định bồi thường cho một nữ nhân viên mới rất trẻ khiến cô bé ngưỡng mộ nhầm anh là tiền bối kỳ cựu của Hội.
+Cô tiếp tân thông báo ủy thác cũ đã có người nhận và đề xuất Rentt nhận ủy thác mô phỏng hộ tống nhân viên mới lấy kinh nghiệm thực tế nhờ sự tín nhiệm từ Sheila Ibarss và Hội Trưởng Wolf Hermann.
+Nhận lời ủy thác, Rentt hội ngộ cô bé nhân viên mới nọ trong sự sửng sốt của cô khi biết anh là mạo hiểm giả chứ không phải nhân viên Hội; sau vài lời động viên cô bé giàu nhiệt huyết, Rentt bắt đầu cất bước đồng hành cùng nhóm nhân viên mới.

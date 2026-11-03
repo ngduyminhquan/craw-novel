@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T05:26:39Z",
+  "generatedAt": "2026-11-03T05:32:55Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3215,6 +3215,12 @@
           "title": "Chương 177: Ngoại truyện Tập 7 - Một Ủy Thác Kỳ Lạ",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_177.md",
           "sha": "c84ec8ade5c56bd1fc33089c9c3e9a74b0356338"
+        },
+        {
+          "number": 178,
+          "title": "Chương 178: Ngoại truyện Tập 7 - Nhân Viên Kỳ Cựu Lại Là Mạo Hiểm Giả?",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_178.md",
+          "sha": "1da6d3c95a788a0b1aea5dd07596ff94def35aeb"
         }
       ]
     },

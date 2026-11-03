@@ -182,7 +182,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 175 |  | Chapter_175 - Vol 7 Side Story - Noble’s Trust (3).txt | Vol 7 Side Story - Noble’s Trust (3) | reviewed |  |
 | 176 |  | Chapter_176 - Vol 7 Side Story - Noble’s Trust (4).txt | Vol 7 Side Story - Noble’s Trust (4) | reviewed |  |
 | 177 |  | Chapter_177 - Vol 7 Bonus - A Strange Request.txt | Vol 7 Bonus - A Strange Request | reviewed |  |
-| 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | todo |  |
+| 178 |  | Chapter_178 - Vol 7 Bonus - The Senior Staff Member Is An Adventurer_.txt | Vol 7 Bonus - The Senior Staff Member Is An Adventurer_ | done |  |
 | 179 |  | Chapter_179 - Vol 7 Bonus - Troupe Member Rentt.txt | Vol 7 Bonus - Troupe Member Rentt | todo |  |
 | 180 |  | Chapter_180 - Vol 7 Bonus - Heirloom Management.txt | Vol 7 Bonus - Heirloom Management | todo |  |
 | 181 |  | Chapter_181 - Vol 7 Bonus - A Researcher’s Nature.txt | Vol 7 Bonus - A Researcher’s Nature | todo |  |
