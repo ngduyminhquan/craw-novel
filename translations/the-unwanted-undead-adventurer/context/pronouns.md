@@ -61,6 +61,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Viroget | thần tinh linh / tinh linh / Viroget | 144 | Phân thân thần tinh linh trú ngụ trong tượng gỗ |
 | Viro | thần tinh linh / tinh linh / Viro | 145 | Tên gọi tắt của phân thân thần tinh linh Viroget |
 | Capitan | Capitan / người đàn ông vạm vỡ / chú ấy / ông ấy | 146 | Trưởng nhóm thợ săn Làng Hathara, thầy dạy Rentt |
+| Doras | Doras / cậu bé / cậu thiếu niên / cậu ấy | 151 | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi |
 
 ## Giữa các nhân vật
 
@@ -254,3 +255,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Capitan | tôi | Capitan / ông | 146 | Học giả nói chuyện với trưởng thợ săn làng |
 | Gharb | Capitan | tôi | Capitan | 146 | Hai người cùng thế hệ lớn tuổi gánh vác việc làng |
 | Capitan | Gharb | tôi | bà lão / Gharb | 146 | Hai người cùng thế hệ lớn tuổi gánh vác việc làng |
+| Rentt Faina | Doras | tôi | em / Doras | 151 | Bạn thuở nhỏ lớn hơn 3 tuổi nói chuyện với cậu em trong làng |
+| Doras | Rentt Faina | em | anh / anh Rentt | 151 | Cậu bé trong làng nói chuyện với bạn thuở nhỏ lớn tuổi hơn |

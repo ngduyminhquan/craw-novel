@@ -155,7 +155,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | reviewed |  |
 | 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | reviewed |  |
 | 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | reviewed |  |
-| 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | todo |  |
+| 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | done |  |
 | 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | todo |  |
 | 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | todo |  |
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -713,3 +714,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#149] Dịch địa danh 'Vistelya' (vương đô của Yaaran) — giữ nguyên tên riêng phương Tây 'Vistelya' theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Vistelya'. → Chốt giữ nguyên 'Vistelya' theo rules.md (orchestrator)
 - [#149] Dịch mật ngữ ma pháp 'Rehesteel' (đoạn 70) — giữ nguyên 'Rehesteel' theo quy tắc câu chú ma pháp trong rules.md (phương án khác: dịch nghĩa). Tạm dùng trong bản dịch: 'Rehesteel'. → Chốt giữ nguyên 'Rehesteel' theo rules.md (orchestrator)
 - [#150] Tiêu đề 'Bad Conclusion' — tạm chọn 'Cái Kết Tồi Tệ' (phương án khác: 'Kết Cục Tồi Tệ'). → Chốt 'Cái Kết Tồi Tệ' (orchestrator)
+- [#151] Tiêu đề ngoại truyện 'Vol 6 Bonus - Leisurely Fishing' — tạm chọn 'Ngoại truyện Tập 6 - Thảnh Thơi Câu Cá' (phương án khác: 'Ngoại truyện Tập 6 - Buổi Câu Cá Thảnh Thơi', 'Ngoại truyện Tập 6 - Thong Thả Câu Cá'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 6 - Thảnh Thơi Câu Cá'. → Chốt 'Ngoại truyện Tập 6 - Thảnh Thơi Câu Cá' (orchestrator)
+- [#151] Xưng hô giữa Rentt và bạn thuở nhỏ Doras (kém 3 tuổi, xem như em trai) — tạm chọn Rentt xưng 'tôi' gọi 'em / Doras', Doras xưng 'em' gọi 'anh / anh Rentt' (phương án khác: Rentt xưng 'anh' gọi 'em / Doras'; xưng 'tôi - cậu'). Tạm dùng trong bản dịch: Rentt (tôi - em / Doras), Doras (em - anh / anh Rentt). → Chốt Rentt (tôi - em / Doras), Doras (em - anh / anh Rentt), nhất quán với Riri và Fahri (orchestrator)

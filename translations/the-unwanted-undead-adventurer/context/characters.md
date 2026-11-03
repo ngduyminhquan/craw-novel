@@ -74,6 +74,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Viroget |  | Viroget | Thần Thực Vật; phân thân thần tinh linh trú ngụ trong tượng gỗ Lorraine | #144 |
 | Viro |  | Viro | Tên gọi tắt của phân thân thần tinh linh Viroget | #145 |
 | Capitan |  | Capitan | Trưởng nhóm thợ săn Làng Hathara, một trong những người thầy dạy Rentt săn bắn, sinh tồn và Khí Lực | #146 |
+| Doras |  | Doras | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi, thầm thích Riri | #151 |
 
 ## Chi tiết
 
@@ -549,3 +550,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, trưởng nhóm thợ săn Làng Hathara, một trong những người thầy thuở nhỏ của Rentt.
 - Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara; nắm giữ chức vị kỵ sĩ đoàn trưởng cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại (tính đến chương 148); thị phạm và trao viên đá tạo ma pháp trận dịch chuyển cho Rentt và Lorraine, sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa để tự do ra vào vương đô Vistelya (tính đến chương 149).
 - Xuất hiện từ: #146.
+
+### Doras
+- Giới tính, vai trò: Nam, thiếu niên Làng Hathara làm nghề thủ công mỹ nghệ bằng gỗ, bạn thuở nhỏ kém Rentt 3 tuổi.
+- Đặc điểm: Cha là nghệ nhân trong làng; tính tình trầm lặng, chăm chỉ tập trung vào công việc; thông minh, suy nghĩ chín chắn so với lứa tuổi 12; thầm thích Riri nhưng e thẹn, kiên nhẫn đợi chờ tình cảm đơm hoa kết trái.
+- Xuất hiện từ: #151.

@@ -891,3 +891,9 @@ Rentt và Lorraine nhận ủy thác tìm kiếm người chồng mất tích c�
 Dưới hầm ngầm, họ phát hiện người chồng đã tự biến mình thành Thi Quỷ nhờ máu Ma Cà Rồng và khống chế một Ngạ Quỷ (vốn là chồng của người phụ nữ trẻ đang bị ăn thịt) để trả thù việc vợ ngoại tình; Rentt và Lorraine tiêu diệt lũ quái vật rồi chôn cất các nạn nhân.
 Khi nhận thù lao, người vợ để lộ âm mưu thâm độc: bà ta cố tình dàn cảnh ngoại tình để khiến chồng phát điên tự tay sát hại con gái riêng của chính ông nhằm chiếm đoạt trọn vẹn gia sản; dù phẫn uất, Rentt và Lorraine đành bất lực ra về do không có chứng cứ pháp lý.
 Vài ngày sau, Rentt hay tin dinh thự đã bị phóng hỏa thiêu rụi khiến người vợ thiệt mạng; lần theo sợi dây chuyền cháy đen và hài cốt tại hiện trường, Rentt suy đoán cô gái trẻ bị sát hại dường như đã thức tỉnh thành Undead, đào mồ chui lên thiêu rụi dinh thự để báo thù.
+
+## 151
+Vài tháng trước khi tròn 15 tuổi và rời Làng Hathara làm mạo hiểm giả, Rentt ngồi làm đồ thủ công mỹ nghệ bằng gỗ cùng Doras (bạn thuở nhỏ kém anh 3 tuổi, con trai một nghệ nhân trong làng) tại quảng trường trung tâm.
+Doras ngập ngừng hỏi liệu có thể ngăn Rentt rời làng được không vì cậu bé thầm thích Riri (khi ấy mới 8 tuổi) và lo rằng Riri sẽ buồn bã cô đơn khi Rentt đi xa.
+Rentt phân tích và khuyên Doras rằng thay vì can ngăn anh, cậu bé nên ủng hộ bởi khi Rentt đi biệt tích nhiều năm, Riri sẽ dần hướng sự chú ý về người kề cận; Doras thông suốt, dặn Rentt thường xuyên về thăm nhà và hứa rèn giũa tay nghề làm đồ gỗ tặng anh.
+Chương kết thúc khi Rentt lên đường tới Maalt 3 tháng sau đó; dẫu anh chỉ có thể về thăm làng vài năm một lần và Doras vẫn chưa nên duyên cùng Riri, cậu bé vẫn kiên nhẫn đợi chờ ngày "câu" được trái tim cô.
