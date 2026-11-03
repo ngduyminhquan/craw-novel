@@ -224,9 +224,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | reviewed |  |
 | 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | reviewed |  |
 | 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | reviewed |  |
-| 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | done |  |
-| 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | done |  |
-| 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | done |  |
+| 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | reviewed |  |
+| 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | reviewed |  |
+| 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | reviewed |  |
 | 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | todo |  |
 | 224 |  | Chapter_224 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4) | todo |  |
 | 225 |  | Chapter_225 - Vol 10 Side Story - Meanwhile, Back in Maalt.txt | Vol 10 Side Story - Meanwhile, Back in Maalt | todo |  |

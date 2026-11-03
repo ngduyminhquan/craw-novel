@@ -46,7 +46,7 @@ Sau khi người tiếp tân rời đi, Lorraine lẩm bẩm: "Họ chẳng bu�
 
 Giờ đây chỉ còn lại hai chúng tôi. Về phần Edel, tôi đã để chú chuột lại Maalt. Không phải tôi muốn gạt chú chuột ra rìa, mà là vì an ninh ở Vistelya thắt chặt hơn rất nhiều. Do chúng tôi sẽ đích thân tới vương cung, tôi nghĩ sẽ nảy sinh rắc rối nếu dẫn theo một ma vật thực thụ như Edel bên mình. Tôi có thể tự nhận mình là người thuần hóa quái vật, nhưng Vistelya là một đô thị quy củ chứ không như Maalt. Có rất nhiều người thuần hóa quái vật thực thụ tại vương đô, và nếu họ cất công nhìn kỹ hơn thì có khi tôi sẽ để lộ sơ hở.
 
-Nếu biết trước mình sẽ tới Vistelya thì tôi đã hỏi bố tôi ở Hathara nhiều hơn về việc thuần hóa quái vật, nhưng lần tới tôi hỏi cũng chẳng muộn. Hơn nữa, ông nuôi toàn những con ma vật kỳ dị trong chuồng thú của mình, và tôi cũng chẳng dám chắc liệu vốn hiểu biết của ông có giúp tôi trông giống một người thuần hóa bình thường hay không. Vậy nên xét trên mọi khía cạnh, tôi khá tin chắc rằng mình đã đưa ra quyết định đúng đắn khi để Edel ở nhà.
+Nếu biết trước mình sẽ tới Vistelya thì tôi đã hỏi cha tôi ở Hathara nhiều hơn về việc thuần hóa quái vật, nhưng lần tới tôi hỏi cũng chẳng muộn. Hơn nữa, ông nuôi toàn những con ma vật kỳ dị trong chuồng thú của mình, và tôi cũng chẳng dám chắc liệu vốn hiểu biết của ông có giúp tôi trông giống một người thuần hóa bình thường hay không. Vậy nên xét trên mọi khía cạnh, tôi khá tin chắc rằng mình đã đưa ra quyết định đúng đắn khi để Edel ở nhà.
 
 "Chắc trông hai chúng ta giống anh em ruột hoặc một cặp vợ chồng," tôi đáp.
 
@@ -76,7 +76,7 @@ Dù sao thì cũng đã đến lúc nghỉ ngơi sau một ngày và chuẩn b�
 
 Đã một thời gian trôi qua kể từ lần gần nhất tôi ghé thăm Hội của Vistelya, nhưng đúng như trong ký ức của tôi, Hội của Maalt hoàn toàn không thể sánh bằng. Bản thân tòa nhà được xây dựng kiên cố hơn và đủ rộng lớn để dung nạp lượng lớn mạo hiểm giả coi vương đô là nhà. Lần trước tới đây, tôi chưa kịp quan sát kỹ bên trong, nhưng lần này tôi đã nhìn thấy vài cánh cửa thang máy.
 
-Điều đó cũng hợp lý thôi. Tòa nhà cao tới năm tầng, và việc leo cầu thang bộ mỗi lần quả là một thử thách gian nan. Sẽ là một nhẽ nếu các tầng trên hiếm khi được sử dụng, nhưng tôi khá chắc rằng văn phòng hội trưởng nằm ở tầng trên cùng, và việc hàng ngày phải leo năm tầng cầu thang bộ sẽ là một cực hình không nhỏ.
+Điều đó cũng hợp lý thôi. Tòa nhà cao tới năm tầng, và việc leo cầu thang bộ mỗi lần quả là một thử thách gian nan. Sẽ là một nhẽ nếu các tầng trên hiếm khi được sử dụng, nhưng tôi khá chắc rằng văn phòng Tổng Hội Trưởng nằm ở tầng trên cùng, và việc hàng ngày phải leo năm tầng cầu thang bộ sẽ là một cực hình không nhỏ.
 
 "Tôi nghe bảo Tổng Hội Trưởng của Yaaran tuổi tác đã khá cao rồi đấy," Lorraine nói.
 
@@ -112,7 +112,7 @@ Nói chính xác thì đó là một căng-tin phục vụ đồ ăn nhẹ cùng
 
 ◆◇◆◇◆
 
-"Họ vắng mặt sao?" tôi nghiêng đầu thắc mắc hỏi người tiếp tân.
+"Ngài ấy đi vắng sao?" tôi nghiêng đầu thắc mắc hỏi người tiếp tân.
 
 Người phụ nữ sau quầy điềm tĩnh đáp: "Vâng. E là ngài Jean Seebeck hiện không có mặt ở đây. Tôi tin rằng ngài ấy sẽ trở lại trong vài ngày tới."
 
@@ -166,7 +166,7 @@ Tôi đang nhắc tới quán bar mà lần trước chúng tôi đã gặp Augu
 
 "Có khi đi hỏi quanh xem có ai nhìn thấy một mạo hiểm giả mặc trang phục kỳ dị không lại dễ tìm thấy anh ta hơn đấy."
 
-Lorraine nói đùa thế thôi, nhưng cô nói cũng có lý. Gu thời trang của Augurey khiến anh ta nổi bần bật giữa đám đông. Dẫu vậy, tôi thà để cách đó làm hạ sách cuối cùng.
+Lorraine nói đùa thế thôi, nhưng cô nói cũng có lý. Gu thời trang của Augurey khiến anh ta nổi bần bật giữa đám đông. Dẫu vậy, tôi thà để cách đó làm giải pháp cuối cùng.
 
 "Nếu không tìm thấy anh ta thì làm cách đó cũng được," tôi nói, "nhưng hiện tại sao chúng ta không hướng tới Giáo Hội Đông Thiên trước nhỉ. Nơi đó nằm ở phía đông vương đô, đúng không?"
 

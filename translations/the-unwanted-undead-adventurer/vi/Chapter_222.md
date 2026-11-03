@@ -36,7 +36,7 @@ Những chi tiết trang trí đều khắc họa các nhân vật và sự ki�
 
 "Tôi không có ý định theo một tín ngưỡng cụ thể nào, nhưng tôi luôn cảm thấy điều gì đó lắng đọng mỗi khi ở một nơi như thế này," Lorraine khẽ thở dài nói.
 
-Giáo Hội Lobelia có tầm ảnh hưởng rất lớn tại đế quốc, nhưng bản thân Lorraine lại không phải người sùng đạo. Tôi cho rằng điều cô muốn nói là nơi này khiến ngay cả một người như cô cũng muốn tin vào một đấng tối cao, dù chỉ trong một khoảnh khắc ngắn ngủi.
+Giáo Hội Lobelia có tầm ảnh hưởng rất lớn tại Đế Quốc, nhưng bản thân Lorraine lại không phải người sùng đạo. Tôi cho rằng điều cô muốn nói là nơi này khiến ngay cả một người như cô cũng muốn tin vào một đấng tối cao, dù chỉ trong một khoảnh khắc ngắn ngủi.
 
 ![](images/ch222-01.webp)
 
@@ -64,11 +64,11 @@ Khi tôi đổi chủ đề, Lorraine lấy bức thư từ trong túi ra. Bức
 
 "Sơ Lillian nhờ tôi giao bức thư này cho Nữ Tu Viện Trưởng Elza của Tu Viện Yaaran thuộc Giáo Hội Đông Thiên."
 
-"Vậy là cô ấy gửi cho một người có địa vị khá cao đấy nhỉ."
+"Vậy là sơ ấy gửi cho một người có địa vị khá cao đấy nhỉ."
 
 Trong Giáo Hội Đông Thiên, Đại Tăng Viện Trưởng là phẩm trật cao nhất, tiếp theo là Tu Viện Trưởng, Phó Tu Viện Trưởng, Kinh Sĩ, vân vân—tổng cộng có mười phẩm trật. Giữa các phẩm trật còn có những phân cấp chi tiết hơn, nhưng đó là hệ thống thứ bậc cơ bản. Người tương đương với Đại Giáo Phụ trong Giáo Hội Lobelia, hay nói cách khác là giáo hoàng hoặc giáo trưởng trong các tín ngưỡng khác, chính là Đại Tu Viện Trưởng, vì vậy một Tu Viện Trưởng trong Giáo Hội Đông Thiên về cơ bản tương đương với hồng y hoặc giám mục. Một Tu Viện Trưởng thậm chí một ngày nào đó có thể thăng lên làm Đại Tăng Viện Trưởng.
 
-Lillian lại trực tiếp trao đổi thư từ với một người mang phẩm trật cỡ đó, vậy phải chăng địa vị của cô ấy còn cao hơn tôi tưởng? Cô ấy trước giờ luôn chỉ tự giới thiệu mình là một giáo sĩ và chưa từng nói cho chúng tôi biết phẩm trật chính xác của mình. Thông thường, một người phụ trách nhà thờ tại một thành phố tầm cỡ Maalt khá lắm thì cũng chỉ là Kinh Sĩ. Tôi cho rằng đây là chuyện mình sẽ phải hỏi Lillian vào một lúc nào đó.
+Lillian lại trực tiếp trao đổi thư từ với một người mang phẩm trật cỡ đó, vậy phải chăng địa vị của sơ ấy còn cao hơn tôi tưởng? Sơ trước giờ luôn chỉ tự giới thiệu mình là một giáo sĩ và chưa từng nói cho chúng tôi biết phẩm trật chính xác của mình. Thông thường, một người phụ trách nhà thờ tại một thành phố tầm cỡ Maalt khá lắm thì cũng chỉ là Kinh Sĩ. Tôi cho rằng đây là chuyện mình sẽ phải hỏi Sơ Lillian vào một lúc nào đó.
 
 "Có lẽ điều đó chỉ đơn giản có nghĩa là Giáo Hội Đông Thiên không câu nệ tôn ti trật tự như Giáo Hội Lobelia thôi. Tôi từng nghe kể rằng nếu anh muốn gửi một bức thư tới Đại Giáo Phụ của Giáo Hội Lobelia, anh phải là người có phẩm hàm cao hoặc có chiến tích lẫy lừng thì ngài ấy mới thèm để mắt đến lời thỉnh cầu của anh."
 
@@ -76,7 +76,7 @@ Lillian lại trực tiếp trao đổi thư từ với một người mang ph�
 
 "Vậy là một đứa trẻ có dành dụm tiền tiêu vặt để trả cước bưu điện thì cũng vô ích nhỉ?" tôi nói.
 
-"À thì, chúng vẫn có thể gửi được chứ," Lorraine đáp, "nhưng những bức thư sẽ được cấp dưới của Đại Giáo Phụ đọc trước rồi phân loại. Rốt cuộc chỉ có một số ít lọt được tới bàn làm việc của Đại Giáo Phụ. Dẫu vậy, nhiều khả năng một bức thư từ một đứa trẻ như anh vừa miêu tả lại có cơ hội khá cao đấy. Nếu tin tức truyền ra rằng Đại Giáo Phụ đã đọc và hồi âm, điều đó sẽ rất có lợi cho danh tiếng của giáo hội. Tại đế quốc, nếu anh tới một nhà thờ ở vùng nông thôn, đôi khi anh sẽ thấy thư hồi đáp của Đại Giáo Phụ được lồng khung kính và treo trang trọng trên tường đấy."
+"À thì, chúng vẫn có thể gửi được chứ," Lorraine đáp, "nhưng những bức thư sẽ được cấp dưới của Đại Giáo Phụ đọc trước rồi phân loại. Rốt cuộc chỉ có một số ít lọt được tới bàn làm việc của Đại Giáo Phụ. Dẫu vậy, nhiều khả năng một bức thư từ một đứa trẻ như anh vừa miêu tả lại có cơ hội khá cao đấy. Nếu tin tức truyền ra rằng Đại Giáo Phụ đã đọc và hồi âm, điều đó sẽ rất có lợi cho danh tiếng của giáo hội. Tại Đế Quốc, nếu anh tới một nhà thờ ở vùng nông thôn, đôi khi anh sẽ thấy thư hồi đáp của Đại Giáo Phụ được lồng khung kính và treo trang trọng trên tường đấy."
 
 "Thực ra thì, chuyện đó cũng không hẳn là xấu... nhưng nghe cứ thấy có mùi toan tính sao ấy."
 
@@ -110,9 +110,9 @@ Tôi quay sang nhìn cô tu sinh tập sự vừa được giao làm người d�
 
 "Thứ lỗi vì câu hỏi đường đột, nhưng cô có biết về Nữ Tu Viện Trưởng Elza và Sơ Lillian không?" cô hỏi người thiếu nữ.
 
-"Vâng, em có biết Nữ Tu Viện Trưởng Elza ạ. Người phụ trách Tu Viện Ephas, tổng bộ của Giáo Hội Đông Thiên tại Yaaran. Nhưng xin thứ lỗi cho em, còn về Sơ Lillian... em e là mình không biết người đó. Người ấy đến từ đâu vậy ạ?"
+"Vâng, em có biết Nữ Tu Viện Trưởng Elza ạ. Người là người phụ trách Tu Viện Ephas, tổng bộ của Giáo Hội Đông Thiên tại Yaaran ạ. Nhưng xin thứ lỗi cho em, còn về Sơ Lillian... em e là mình không biết người đó. Người ấy đến từ đâu vậy ạ?"
 
-"Cô ấy là một nữ tu ở Maalt."
+"Sơ ấy là một nữ tu ở Maalt."
 
 "A, Maalt ạ. Ra là vậy. Làm một nữ tu ở một vùng đất gian nan như thế, hẳn người ấy phải là một nhân vật phi thường lắm, nhưng em e là mình không hề biết người đó. Xin thứ lỗi cho em. Em rất tiếc vì không thể giúp ích được gì."
 

@@ -84,3 +84,7 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#216) Từ "carriage": trong thế giới truyện có nhiều cỗ xe do quái vật hoặc thú bò sát (như Thằn Lằn Bò Trườn) kéo, dịch là "cỗ xe / xe kéo" thay vì tự động dịch thành "cỗ xe ngựa" khi văn cảnh không phải do ngựa kéo.
 - (#216) Lính gác cổng thành (kể cả vương đô hay các thị trấn): luôn xưng hô chuẩn mực "tôi - anh/chị/cậu/các vị" theo văn phong fantasy đời thường, tuyệt đối không dùng "ta - ngươi" kiểu kiếm hiệp/tiên hiệp.
 - (#219) Cụm từ "last will and testament": dịch là "bản di chúc" hoặc "di chúc thừa kế", tránh dịch thô tách rời hai từ đồng nghĩa pháp lý thành "bản di chúc và thư để lại".
+- (#221) Đại từ số ít "they": cẩn thận khi chuyển ngữ đại từ ngôi thứ ba trung tính số ít "they / them" chỉ một nhân vật cụ thể (như Jean Seebeck / Tổng Hội Trưởng) tránh dịch máy thành số nhiều "họ" (chuyển thành "ông ấy / ngài ấy / người đó").
+- (#221) Xưng hô đối với Ingo Faina: Rentt trong lời dẫn chuyện và đối thoại luôn gọi là "cha tôi" hoặc "cha", không dùng "bố tôi".
+- (#221) Cụm từ "last resort": dịch là "giải pháp cuối cùng" hoặc "hạ sách", tránh ghép thừa từ thành "hạ sách cuối cùng".
+- (#222) Xưng hô đối với Sơ Lillian: luôn dùng "Sơ Lillian / sơ ấy / sơ" trong cả đối thoại lẫn lời dẫn chuyện, tránh dùng "cô ấy" gây suồng sã và thiếu tự nhiên với nữ tu lớn tuổi.
