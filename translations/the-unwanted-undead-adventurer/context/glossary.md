@@ -64,7 +64,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | holy arts | holy art; Holy Art; Holy Arts | thánh thuật | kỹ năng | 15 | Kỹ thuật sử dụng Thần Lực của tư tế/người theo đạo |
 | boss chamber | boss chambers; boss room; boss rooms | phòng thủ lĩnh | địa danh | 18 | Căn phòng chứa quái vật thủ lĩnh trong mê cung |
 | Saint | Saints | Thánh Giả | danh hiệu | 19 | Người sở hữu Thần Lực dồi dào và khả năng trị liệu được giáo hội và dân chúng tôn sùng (聖者) |
-| Sanitarium |  | Viện Trị Liệu | địa danh | 19 | Cơ sở chữa trị, dưỡng thương cho mạo hiểm giả và người dân (療養院/治療院) |
+| Sanitarium | house of healing | Viện Trị Liệu | địa danh | 19 | Cơ sở chữa trị, dưỡng thương cho mạo hiểm giả và người dân (療養院/治療院) |
 | Red Wyvern Pavilion |  | Quán Phi Long Đỏ | tổ chức | 20 | Quán ăn của vợ chồng Loris và Isabel ở Maalt (赤き竜亭/赤き飛竜亭) |
 | divine magic |  | ma pháp thần thánh | kỹ năng | 21 | Ma pháp sử dụng Thần Lực để trị liệu vết thương |
 | Thrall | Thralls; the Thralls | Thi Quỷ | quái vật | 22 | Undead dạng người tiến hóa từ Ngạ Quỷ, vốn là thuộc hạ do Ma Cà Rồng tạo ra (屍鬼) |
@@ -365,3 +365,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Barrack Ceara |  | Barrack Ceara | kỹ năng | 194 | Ma pháp lôi hệ cấp cao tạo lốc xoáy sấm sét của Lorraine (tên ma pháp giữ nguyên) |
 | Hell’s Flame | Hell's Flame | Địa Ngục Hỏa | kỹ năng | 194 | Ma pháp hỏa hệ cấp cao thiêu đốt toàn diện do Shumini thi triển (地獄の業火) |
 | ice spear | ice spears | Băng Thương | kỹ năng | 194 | Ma pháp băng hệ phóng ra các ngọn giáo băng |
+| Church of Alchemy |  | Giáo Hội Giả Kim | tổ chức | 198 | Tổ chức tôn giáo tôn sùng thuật giả kim, thờ phụng Thần Giả Kim Dayla |
+| Dayla |  | Dayla | khác | 198 | Vị thần bảo hộ thuật giả kim, đối tượng thờ phụng của Giáo Hội Giả Kim |
+| God of Alchemy |  | Thần Giả Kim | danh hiệu | 198 | Danh xưng thần thánh của Dayla, vị thần được Giáo Hội Giả Kim tôn thờ |

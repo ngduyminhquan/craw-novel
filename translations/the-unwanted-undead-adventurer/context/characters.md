@@ -102,6 +102,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Shumini Essel |  | Shumini Essel | Tên đầy đủ của Shumini, Thượng Cấp Ma Cà Rồng kiêm Kỵ Sĩ Phản Nghịch | #191 |
 | Wugong |  | Wugong | Thiếu niên Ma Cà Rồng phục tùng Shumini, sử dụng Phân Liệt và Huyết Binh | #188 |
 | Jiziu |  | Jiziu | Thiếu nữ Ma Cà Rồng phục tùng Shumini, sử dụng Phân Liệt và Huyết Binh | #188 |
+| Adela | Father Adela | Adela | Tư tế thuộc Giáo Hội Giả Kim tại Maalt, từng là mạo hiểm giả trong tổ đội của Fazira | #198 |
+| Fazira |  | Fazira | Mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir, đồng đội cũ của Adela | #198 |
+| Mimir |  | Mimir | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira | #198 |
 
 ## Chi tiết
 
@@ -709,4 +712,19 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thiếu nữ Ma Cà Rồng đi cùng Wugong phục tùng Shumini.
 - Đặc điểm: Sử dụng lưỡi hái đỏ và năng lực Phân Liệt biến thành đàn dơi đen; ngây thơ tin vào viễn cảnh sống hạnh phúc do Shumini vẽ ra; bị Nive hạ sát sau khi năng lực tự phục hồi cạn kiệt.
 - Xuất hiện từ: #188.
+
+### Adela
+- Giới tính, vai trò: Nam, tư tế thuộc Giáo Hội Giả Kim tại Maalt, từng là mạo hiểm giả trong cùng tổ đội với Fazira.
+- Đặc điểm: Là nhà giả kim có thực lực khá tốt, nhã nhặn, phụ trách việc thu gom kim loại tái chế tại bãi phế liệu Maalt; từng bị Fazira trục xuất khỏi tổ đội thời còn là lính mới vì bị chê vô dụng; nuôi lòng hận thù nhưng trong tiềm thức vẫn là một tư tế tận tụy (chủ động cung cấp nguyên liệu cứu mạng Fazira); sau khi được Rentt thức tỉnh mâu thuẫn nội tâm, anh đã từ bỏ ý định báo thù và hòa giải với Fazira.
+- Xuất hiện từ: #198.
+
+### Fazira
+- Giới tính, vai trò: Nam, mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir.
+- Đặc điểm: Nhận ủy thác thu thập nguyên liệu cho quý tộc tại Mê Cung Tân Nguyệt và bị quái vật hóa đá; được Lorraine và Rentt điều chế thuốc cứu sống kịp thời; từng non trẻ trục xuất Adela khỏi tổ đội trong quá khứ nhưng đã thật lòng hối hận và nhận lỗi khi nghe thấy tâm sự của Adela.
+- Xuất hiện từ: #198.
+
+### Mimir
+- Giới tính, vai trò: Nữ, cô bé khoảng 10 tuổi đến từ Vistelya, con gái của Fazira.
+- Đặc điểm: Đi cùng bố đến Maalt rồi bị lạc, được Alize đưa đến nhờ Rentt giúp đỡ; ngoan ngoãn, biết điều, không muốn làm phiền cô nhi viện quá nhiều; vui mừng khi bố được cứu thoát khỏi tình trạng hóa đá.
+- Xuất hiện từ: #198.
 

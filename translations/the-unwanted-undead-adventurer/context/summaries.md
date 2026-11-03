@@ -1167,6 +1167,12 @@ Isaac giải thích cho Rentt biết Laura vẫn đang chìm trong giấc ngủ 
 Isaac tiết lộ Rentt và Rina không phát ra khí tức Ma Cà Rồng thông thường mà có thể là phân loài gần gũi, khuyên anh thỉnh cầu Thần Giám Định để biết chính xác chủng tộc và đề nghị chỉ dạy kỹ năng Ma Cà Rồng cho Rentt.
 Rentt, Isaac và Rina tiến vào thư viện dinh thự Latuule gặp Lorraine; sau khi Lorraine trầm trồ trước quy mô sách cổ quý hiếm, cô hào hứng nhận lời cùng cả nhóm ra vườn để quan sát Isaac kiểm tra thực lực và truyền dạy kỹ năng Ma Cà Rồng.
 
+## 198
+Rentt mang phế liệu kim loại tới bãi tập kết Maalt cho Cha Adela - một tư tế kiêm nhà giả kim tài năng của Giáo Hội Giả Kim (tôn giáo tôn thờ Thần Giả Kim Dayla); sau đó anh cùng Lorraine dùng bữa sáng nêm chút máu quen thuộc và trò chuyện về sự nghiệp của Adela.
+Alize đưa một bé gái 10 tuổi tên Mimir bị lạc bố đến nhờ Rentt giúp đỡ; nhờ mạng lưới thông tin của chuột Edel, Rentt xác định được bố cô bé là Fazira - một mạo hiểm giả Ngân Cấp từ Vistelya đang thám hiểm Mê Cung Tân Nguyệt và sắp xếp cho Mimir tạm chờ tại Cô Nhi Viện Thứ Hai Maalt.
+Đêm xuống, Fazira bị ma vật đặc thù hóa đá và được đưa tới Viện Trị Liệu của Giáo Hội Giả Kim; do thiếu dược liệu, Rentt và Lorraine đến xin lại nguyên liệu từ Cha Adela rồi kịp thời điều chế thuốc cứu sống Fazira.
+Thấy Cha Adela có biểu hiện bất thường, Rentt bám theo và can thiệp kịp lúc khi Adela rút dao định ám sát Fazira trên giường bệnh; sau khi nghe Adela kể lại mối hận bị Fazira trục xuất khỏi tổ đội thời còn non trẻ, Rentt thức tỉnh mâu thuẫn nội tâm của Adela (đã tận tâm sơ chế nguyên liệu cứu người), khiến Adela rơi lệ từ bỏ ý định báo thù và được Fazira chân thành nhận lỗi, hóa giải hiềm khích cũ.
+
 
 
 

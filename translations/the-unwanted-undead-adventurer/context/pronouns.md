@@ -79,6 +79,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rota | Rota / người phụ nữ / chị ấy | 180 | Cư dân trung niên ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế |
 | Tita Well | Tita / cậu thiếu niên / cậu | 184 | Mạo hiểm giả Thiết Cấp bị biến thành Thi Quỷ |
 | Shumini | Shumini / gã / người đàn ông / anh ta | 187 | Kẻ bí ẩn giật dây nhóm Ma Cà Rồng gây rối ở Mê Cung Tân Nguyệt và Maalt |
+| Adela | Adela / Cha Adela / người đàn ông / anh ta | 198 | Tư tế Giáo Hội Giả Kim tại Maalt |
+| Fazira | Fazira / người đàn ông / anh ta | 198 | Mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir |
+| Mimir | Mimir / cô bé | 198 | Cô bé 10 tuổi đến từ Vistelya, con gái của Fazira |
 
 ## Giữa các nhân vật
 
@@ -348,3 +351,15 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Isaac Hart | tôi | anh / Isaac | 196 | Nữ học giả nói chuyện với quản gia gia tộc Latuule |
 | Isaac Hart | Rina Rupaage | tôi | cô / cô Rina | 197 | Quản gia quý tộc nói chuyện với nữ mạo hiểm giả |
 | Rina Rupaage | Isaac Hart | tôi | anh / anh Isaac | 197 | Nữ mạo hiểm giả nói chuyện với quản gia quý tộc |
+| Rentt Faina | Adela | tôi | Cha Adela / anh | 198 | Mạo hiểm giả nói chuyện với tư tế Giáo Hội Giả Kim |
+| Adela | Rentt Faina | tôi | Rentt / cậu | 198 | Tư tế Giáo Hội Giả Kim nói chuyện với Rentt |
+| Rentt Faina | Mimir | tôi | em / Mimir | 198 | Mạo hiểm giả nói chuyện với cô bé đi lạc |
+| Mimir | Rentt Faina | em | anh Rentt / anh | 198 | Cô bé đi lạc nói chuyện với mạo hiểm giả giúp đỡ mình |
+| Alize | Mimir | chị | em / Mimir | 198 | Đồ đệ cô nhi viện nói chuyện với cô bé đi lạc nhỏ tuổi hơn |
+| Mimir | Alize | em | chị Alize / chị | 198 | Cô bé đi lạc nói chuyện với đồ đệ cô nhi viện lớn tuổi hơn |
+| Lorraine Vivie | Adela | tôi | Cha Adela | 198 | Nữ học giả nói chuyện với tư tế Giáo Hội Giả Kim |
+| Adela | Lorraine Vivie | tôi | cô Lorraine / cô | 198 | Tư tế Giáo Hội Giả Kim nói chuyện với nữ học giả |
+| Fazira | Adela | tôi | cậu / Adela | 198 | Mạo hiểm giả kỳ cựu nói chuyện với đồng đội cũ |
+| Adela | Fazira | tôi | anh / Fazira | 198 | Đồng đội cũ nói chuyện với mạo hiểm giả từng ruồng bỏ mình |
+| Fazira | Mimir | bố | con / Mimir | 198 | Bố nói chuyện với con gái |
+| Mimir | Fazira | con | bố | 198 | Con gái nói chuyện với bố |
