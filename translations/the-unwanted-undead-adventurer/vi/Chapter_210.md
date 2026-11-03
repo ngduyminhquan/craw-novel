@@ -36,7 +36,7 @@ Trường hợp của Nive là cô ấy đã mài giũa trực giác của mình
 
 "Tôi hiểu là chúng ta không được lơ là cảnh giác, nhưng cụ thể thì chúng ta nên làm gì bây giờ? Tôi chưa có chút kinh nghiệm nào về chuyện này, nên thật sự chẳng biết bắt đầu từ đâu cả," Rina nói với vẻ mặt băn khoăn.
 
-Điều đó cũng hợp lý thôi. Tôi đã làm undead một thời gian rồi, nên tôi nắm rõ những hành vi nào sẽ khiến người ta nghi ngờ. Còn Rina thì mới chỉ làm undead được vài ngày. Đó chính là những điều tôi cần phải chỉ bảo cho cô ấy. Mà chuyện đó cũng chẳng có gì quá phức tạp.
+Điều đó cũng hợp lý thôi. Tôi đã làm Undead một thời gian rồi, nên tôi nắm rõ những hành vi nào sẽ khiến người ta nghi ngờ. Còn Rina thì mới chỉ làm Undead được vài ngày. Đó chính là những điều tôi cần phải chỉ bảo cho cô ấy. Mà chuyện đó cũng chẳng có gì quá phức tạp.
 
 "Đầu tiên, đừng có đi lang thang vào giữa đêm," tôi căn dặn.
 
@@ -44,7 +44,7 @@ Tôi hy vọng điều này không cần nói cũng tự hiểu. Những kẻ nh
 
 "Vâng, đúng là hợp lý thật. Còn gì nữa không ạ?"
 
-"Để xem nào. Điều nữa là phải tỏ ra thân thiện hết mức có thể. Hầu hết mọi người đều nghĩ undead là những kẻ u ám, ủ rũ. Hãy nhớ chịu khó niềm nở chào hỏi mọi người vào mỗi buổi sáng."
+"Để xem nào. Điều nữa là phải tỏ ra thân thiện hết mức có thể. Hầu hết mọi người đều nghĩ Undead là những kẻ u ám, ủ rũ. Hãy nhớ chịu khó niềm nở chào hỏi mọi người vào mỗi buổi sáng."
 
 Tôi vẫn luôn làm như vậy kể từ khi chuyển đến sống ở nhà Lorraine. Dù vậy, tôi cũng chẳng qua lại quá sâu với ai; tôi chỉ cất lời chào bà con lối xóm nếu tình cờ chạm mặt họ lúc ra ngoài đốt rác hay làm việc vặt gì đó. Tôi cũng trò chuyện đôi câu với các bà cụ khi đi mua sắm ở khu chợ.
 
@@ -66,7 +66,7 @@ Quả thực trông chúng chẳng khác nào những lời răn dạy dành cho
 
 "Không, anh chẳng sai chút nào. Người dân quanh xóm đều nghĩ anh chỉ là một kẻ ăn bám dễ chịu đang sống ở nhà tôi thôi."
 
-Không bị ai nghi ngờ thì tốt thật đấy, nhưng mà... một kẻ ăn bám dễ chịu ư? Cách gọi đó có khi đang hủy hoại danh tiếng của loài undead mất thôi. Cơ mà tôi cũng chẳng bận tâm cho lắm.
+Không bị ai nghi ngờ thì tốt thật đấy, nhưng mà... một kẻ ăn bám dễ chịu ư? Cách gọi đó có khi đang hủy hoại danh tiếng của loài Undead mất thôi. Cơ mà tôi cũng chẳng bận tâm cho lắm.
 
 Đúng lúc tôi đang mải suy nghĩ điều đó, một tiếng quát tháo giận dữ bỗng vang vọng khắp bến xe ngựa.
 
@@ -88,7 +88,7 @@ Lorraine gật đầu. "Có vẻ là vậy. Thằng bé trông tầm chừng mư
 
 "Bộ đồng phục đẹp đấy chứ nhỉ?" tôi nhận xét. Một mặt, nó đơn giản là một bộ đồng phục được may đo khéo léo và trông đắt tiền, nhưng dưới góc nhìn của một mạo hiểm giả, bộ trang phục ấy cũng rất cừ.
 
-"Phải. Nó được làm từ len ma lực gia cố bằng thuật giả kim, đồng thời có vài ma pháp trận được thêu vào bằng chỉ lụa. Học viên của Học Viện thường phải đối mặt với muôn vàn mối nguy hại, chẳng hạn như luyện tập ma pháp hay làm thí nghiệm hóa học, nên một bộ trang phục đa năng là thích hợp nhất. Đó là một ma cụ được chế tác rất tuyệt mỹ."
+"Phải. Nó được làm từ len Ma Lực gia cố bằng thuật giả kim, đồng thời có vài ma pháp trận được thêu vào bằng chỉ lụa. Học viên của Học Viện thường phải đối mặt với muôn vàn mối nguy hại, chẳng hạn như luyện tập ma pháp hay làm thí nghiệm hóa học, nên một bộ trang phục đa năng là thích hợp nhất. Đó là một ma cụ được chế tác rất tuyệt mỹ."
 
 Tôi thầm thán phục khi thấy Lorraine có thể nhận ra từng ấy chi tiết dù chỉ đứng nhìn từ xa, nhưng dẫu sao thuật giả kim cũng là chuyên môn của cô ấy mà. Còn về phần mình, tôi chỉ mơ hồ cảm nhận được chút Ma Lực toát ra từ bộ đồ. Tôi không thể nhìn thấy dòng chảy ma thuật hay hiểu rõ cấu trúc của các ma pháp trận như Lorraine. Dẫu vậy, dẫu thiếu hụt kiến thức chuyên sâu nhưng tôi vẫn nhận ra được khối điều. Chẳng hạn như bộ đồng phục kia trông có vẻ chịu được các đòn ma pháp. Chất vải của nó nhiều khả năng cũng kháng cự được các đòn tấn công bằng vũ khí.
 
@@ -164,7 +164,7 @@ Rina bừng tỉnh khỏi cơn ngơ ngác, nhưng mắt cô vẫn dán chặt v�
 
 Dựa vào những gì họ nói với nhau từ nãy đến giờ, tôi đoán được tên cậu thiếu niên là Noel, còn cô gái là Elise.
 
-Bực bội, Noel nhìn sang Elise rồi xua tay như muốn đuổi cô đi. Mắt Elise nheo lại, trừng mắt nhìn cậu ta trừng trừng.
+Bực bội, Noel nhìn sang Elise rồi xua tay như muốn đuổi cô đi. Đôi mắt Elise nheo lại, cô nhìn cậu ta trừng trừng đầy giận dữ.
 
 "Cậu...!"
 
@@ -182,11 +182,11 @@ Nhưng nghĩ đi thì cũng phải nghĩ lại, những vụ ẩu đả giữa c
 
 Cứ theo lẽ đó mà xét, ngay cả khi Noel và Elise bắt đầu ném ma pháp ở đây, bản thân họ nhiều khả năng cũng chẳng gặp mấy rắc rối. Việc đó sẽ gây nguy hiểm cho những người đứng xem, nhưng Lorraine có thể dựng lên một kết giới ma thuật hay thứ gì đó tương tự. Thêm nữa, tôi cũng đã đảo mắt quan sát xem xung quanh có ma pháp sư nào khác không. Gần đó có vài mạo hiểm giả là ma pháp sư, nên chắc họ cũng sẽ ra tay can thiệp. Tôi không nghĩ tình hình này lại nguy hiểm đến mức như vậy.
 
-Thế nhưng Lorraine lại lắc đầu nói: "Mấy đứa trẻ của học viện thì một nhẽ. Nhưng anh hãy nhìn vào thứ bên hông tay thương nhân kia xem."
+Thế nhưng Lorraine lại lắc đầu nói: "Mấy đứa trẻ của Học Viện thì một nhẽ. Nhưng anh hãy nhìn vào thứ bên hông tay thương nhân kia xem."
 
 "Ồ, cái đó là của Cộng Hòa Hàng Hải Ariana. Hóa ra tay thương nhân đến từ nơi đó."
 
-Có một thanh đoản kiếm treo bên thắt lưng của người thương nhân. Đánh giá từ kích thước và thiết kế, nó không dùng để chiến đấu mà thiên về trưng diện nhiều hơn. Hai gia huy rõ mồn một được khắc trên chuôi kiếm. Tôi từng thấy một trong số đó trước đây rồi. Đó là huy hiệu của Cộng Hòa Hàng Hải Ariana. Họa tiết trên đó khắc họa hình ảnh một con rồng biển đang siết chặt một con bạch tuộc khổng lồ giữa lòng đại dương bao la.
+Có một thanh đoản kiếm treo bên thắt lưng của người thương nhân. Đánh giá từ kích thước và thiết kế, nó không dùng để chiến đấu mà thiên về trưng diện nhiều hơn. Hai chiếc huy hiệu rõ mồn một được khắc trên chuôi kiếm. Tôi từng thấy một trong số đó trước đây rồi. Đó là huy hiệu của Cộng Hòa Hàng Hải Ariana. Họa tiết trên đó khắc họa hình ảnh một con rồng biển đang siết chặt một con bạch tuộc khổng lồ giữa lòng đại dương bao la.
 
 Cộng Hòa Hàng Hải Ariana là một quốc gia ven biển thịnh vượng chủ yếu nhờ mậu dịch đường biển. Do đó, một lượng lớn cư dân nước này làm nghề thương nhân, và đó là lý do vì sao người ta có thể bắt gặp họ ở hầu khắp mọi quốc gia trên đại lục. Dẫu vậy, tôi không rõ tại sao chuyện đó lại trở thành vấn đề vào lúc này.
 

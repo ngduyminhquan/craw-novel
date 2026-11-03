@@ -32,11 +32,11 @@ Hơn nữa, ai khi mới bắt đầu cũng đều có phần non nớt, và xé
 
 "'Tệ hại' theo nghĩa nào cơ?" Lorraine hỏi Rina.
 
-"Hình như em từng kể với chị là em từng làm mạo hiểm giả ở vương đô rồi nhỉ. Em tình cờ đụng mặt cô bạn ấy trong lúc đang làm nhiệm vụ. Em đã cố hết sức để tránh mặt người quen, nhưng mà..."
+"Hình như tôi từng kể với chị là tôi từng làm mạo hiểm giả ở vương đô rồi nhỉ. Tôi tình cờ gặp cô bạn ấy trong lúc đang làm nhiệm vụ. Tôi đã cố hết sức để tránh mặt người quen, nhưng mà..."
 
 "Nếu cùng sống trong một thành phố, thì dù có cẩn thận đến mấy, sớm muộn gì cô cũng sẽ chạm mặt người quen thôi," Lorraine xen vào nhận xét.
 
-"Đúng thế ạ. Mọi chuyện sẽ chẳng đến nỗi tệ nếu chỉ dừng lại ở đó, nhưng lúc bấy giờ, trang bị của em đã tơi tả hết cả và trông em vô cùng rách rưới."
+"Đúng thế ạ. Mọi chuyện sẽ chẳng đến nỗi tệ nếu chỉ dừng lại ở đó, nhưng lúc bấy giờ, trang bị của tôi đã tơi tả hết cả và trông tôi vô cùng rách rưới."
 
 "Giống như hồi lần đầu tôi gặp cô à?" tôi hỏi. "Một mạo hiểm giả mới vào nghề thì chuyện đó gần như là khó tránh khỏi."
 
@@ -44,7 +44,7 @@ Khi lần đầu tiên gặp Rina, tôi thấy rõ ràng cô ấy rất chú ý 
 
 ◆◇◆◇◆
 
-"Em nghĩ điều đó cũng dễ hiểu thôi, nhưng khi bạn ấy nhìn thấy em, bạn ấy đã thực sự vô cùng lo lắng cho tình cảnh của em."
+"Tôi nghĩ điều đó cũng dễ hiểu thôi, nhưng khi bạn ấy nhìn thấy tôi, bạn ấy đã thực sự vô cùng lo lắng cho tình cảnh của tôi."
 
 Nếu đột nhiên bắt gặp một người bạn lang thang trong bộ dạng rách rưới, trong khi chỉ mới vài tháng trước cả hai còn cùng nhau lui tới những quán cà phê sang trọng và thưởng thức trà chiều, thì hiển nhiên người ta sẽ phải lo lắng. Dẫu vậy, điều đó đòi hỏi hai người phải thực sự là bạn bè của nhau kia đã. Nếu tôi tình cờ đụng phải một kẻ mình ghét cay ghét đắng trong bộ dạng thảm hại như thế, chắc tôi sẽ cười thầm trong bụng mất. Cảm giác hả hê trước nỗi bất hạnh của kẻ đó hẳn sẽ khoái trá vô cùng. Lẽ nào tôi lại là một kẻ tồi tệ đến thế sao? Chà, tính tôi vốn vậy rồi thì cũng chịu thôi. Vả lại, số người mà tôi ghét đến mức độ ấy trên đời này cũng chẳng có mấy ai.
 
@@ -62,13 +62,13 @@ Khi rơi vào hoàn cảnh đó, mạo hiểm giả—hoặc cựu mạo hiểm 
 
 Đó là lý do vì sao việc trở nên kiêu ngạo khi làm mạo hiểm giả lại là một hạ sách. Hội luôn cẩn thận nhắc nhở điều này với các mạo hiểm giả mới chân ướt chân ráo vào nghề, nhưng hầu hết bọn họ đều mải mê ăn mừng nên chẳng mấy ai thực sự để tâm lắng nghe. Dẫu sao thì ở Maalt tình hình cũng khá khẩm hơn đôi chút. Một số lượng đáng kể mạo hiểm giả của Hội cuối cùng vẫn giải nghệ và quay về quê nhà sinh sống. Cơ mà tôi lại nói lan man đi quá xa chủ đề rồi.
 
-"Em cũng định làm như thế đấy ạ," Rina giải thích, "nhưng bạn ấy lại hơi giống một bà mẹ hay lo chuyện bao đồng. Bạn ấy bắt đầu hỏi dồn dập những câu kiểu như: 'Cậu có ăn uống đàng hoàng không đấy?!', 'Có muốn tớ khâu vá lại quần áo rách cho cậu không?!' rồi 'Cậu đang trọ ở đâu thế?!'. Em chẳng thể nào dứt ra được."
+"Tôi cũng định làm như thế đấy ạ," Rina giải thích, "nhưng bạn ấy lại hơi giống một bà mẹ hay lo chuyện bao đồng. Bạn ấy bắt đầu hỏi dồn dập những câu kiểu như: 'Cậu có ăn uống đàng hoàng không đấy?!', 'Có muốn tớ khâu vá lại quần áo rách cho cậu không?!' rồi 'Cậu đang trọ ở đâu thế?!'. Tôi chẳng thể nào dứt ra được."
 
 Khi kể lại câu chuyện đó, khóe môi Rina khẽ cong lên thành một nụ cười mỉm. Hẳn là cô rất trân trọng sự quan tâm của người bạn ấy.
 
 Lorraine đáp lời: "Tôi hiểu rồi. Dù cô ấy hành xử giống mẹ cô hơn là bạn đồng trang lứa, nhưng đó quả thực là một người bạn tốt đấy."
 
-"Vâng ạ. Thế nên em mới cảm thấy vui vì đã tình cờ gặp lại bạn ấy, dù có hơi ngượng ngùng đôi chút. Nhưng khi hai đứa em đang mải nói chuyện, thì có vài học viên khác của Học Viện đi từ phía bên kia đường bước tới."
+"Vâng ạ. Thế nên tôi mới cảm thấy vui vì đã tình cờ gặp lại bạn ấy, dù có hơi ngượng ngùng đôi chút. Nhưng khi hai chúng tôi đang mải nói chuyện, thì có vài học viên khác của Học Viện đi từ phía bên kia đường bước tới."
 
 Rina khẽ thở dài khi kể tiếp những chuyện đã xảy ra sau đó.
 
@@ -78,7 +78,7 @@ Rina khẽ thở dài khi kể tiếp những chuyện đã xảy ra sau đó.
 
 Thật ức chế khi phải đối phó với những hạng người như thế, nhưng tôi chẳng còn cách nào khác ngoài việc chấp nhận sự tồn tại của họ. Cả bản thân họ lẫn những người xung quanh đều chẳng hề có chút nỗ lực nào để sửa đổi cái tính nết khó ưa ấy. Họa hoằn lắm mới có vài người nhận ra khuyết điểm của bản thân và cố gắng sống tốt hơn, nhưng số đó chắc chắn chỉ là thiểu số ít ỏi.
 
-"Vâng ạ," Rina thở dài đáp. "Bọn họ bắt đầu bàn tán xoi mói về vẻ ngoài của em, rồi vơ đũa cả nắm bạn em vào cùng một giuộc chỉ vì bạn ấy nói chuyện với em. Em thấy khâm phục vì họ có thể nói nhiều đến thế mà không biết mỏi mồm đấy."
+"Vâng ạ," Rina thở dài đáp. "Bọn họ bắt đầu bàn tán xoi mói về vẻ ngoài của tôi, rồi vơ đũa cả nắm bạn tôi vào cùng một giuộc chỉ vì bạn ấy nói chuyện với tôi. Tôi thấy khâm phục vì họ có thể nói nhiều đến thế mà không biết mỏi mồm đấy."
 
 "Đừng có đi khâm phục cái trò đấy chứ," tôi chêm vào một câu bông đùa.
 
@@ -88,7 +88,7 @@ Lời nhận xét của Lorraine nghe có phần kỳ quặc. Một phần trong
 
 "Cô không cãi lại câu nào à?" tôi hỏi, thầm nghĩ việc cứ đứng trơ ra đó chịu trận hẳn sẽ rất tổn hại tinh thần.
 
-Rina lắc đầu. "Làm vậy chỉ tổ tốn thời gian thôi ạ. Nhưng bạn của em lại có vài lời lẽ sắc sảo chĩa thẳng vào họ. Rốt cuộc, mấy học viên Học Viện kia thực sự đã thua liểng xiểng trong cuộc tranh cãi. Có vẻ như bạn em là một trong những học viên ưu tú nhất ở đó, và khi bạn ấy đem thành tích đó ra nói, bọn họ chẳng thể nào cãi lại được câu nào."
+Rina lắc đầu. "Làm vậy chỉ tổ tốn thời gian thôi ạ. Nhưng bạn của tôi lại có vài lời lẽ sắc sảo chĩa thẳng vào họ. Rốt cuộc, mấy học viên Học Viện kia thực sự đã thua liểng xiểng trong cuộc tranh cãi. Có vẻ như bạn tôi là một trong những học viên ưu tú nhất ở đó, và khi bạn ấy đem thành tích đó ra nói, bọn họ chẳng thể nào cãi lại được câu nào."
 
 "À. Vậy là kẻ có tinh thần học tập và làm việc nghiêm túc hơn rốt cuộc đã chiến thắng. Tuyệt vời thật đấy," Lorraine nhận xét.
 
@@ -126,7 +126,7 @@ Tôi nhìn sang bên cạnh và thấy Myullias Raiza, một Thánh Nữ của G
 
 Dạo gần đây, tất cả các tổ chức tôn giáo, bao gồm cả Giáo Hội Lobelia, đều vô cùng bận rộn. Các tư tế và giáo sĩ tất bật ngược xuôi khắp thành phố. Danh sách những việc họ phải làm dường như dài vô tận, chẳng hạn như an ủi, chữa trị và thuyết giảng cho cư dân Maalt. Tôi tin chắc Myullias vẫn còn bộn bề bao nhiêu công việc phải cáng đáng. Việc cô ấy có mặt ở đây hẳn đồng nghĩa với việc cô dành cho Nive một mức độ thiện cảm nhất định.
 
-Đúng lúc tôi đang thầm nghĩ như vậy, Myullias bỗng cất giọng the thé đầy gay gắt: "Trường hợp của tôi là tôi bắt buộc phải có mặt ở đây theo lệnh của Đại Giáo Phụ. Và tôi đâu có đến để nói lời từ biệt; tôi sẽ đi cùng cô!"
+Đúng lúc tôi đang thầm nghĩ như vậy, Myullias bỗng cất giọng gay gắt và hơi đanh lại: "Trường hợp của tôi là tôi bắt buộc phải có mặt ở đây theo lệnh của Đại Giáo Phụ. Và tôi đâu có đến để nói lời từ biệt; tôi sẽ đi cùng cô!"
 
 ![](images/ch209-01.webp)
 

@@ -382,3 +382,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | dryad | dryads; Dryad; Dryads | Dryad | quái vật | 207 | Tinh linh cây cối/thực vật trong thần thoại (ドライアド) |
 | Ariana Maritime Republic |  | Cộng Hòa Hàng Hải Ariana | địa danh | 210 | Quốc gia ven biển thịnh vượng nhờ mậu dịch đường biển |
 | Ariana Merchant’s Guild | Ariana Merchant's Guild; Ariana Merchant | Hội Thương Nhân Ariana | tổ chức | 210 | Hiệp hội thương nhân quyền lực và nguy hiểm của Cộng Hòa Hàng Hải Ariana |
+| mana wool |  | len Ma Lực | vật phẩm | 210 | Chất liệu dệt đồng phục Học Viện gia cố bằng thuật giả kim |
