@@ -48,7 +48,7 @@ Những người đàn ông còn lại dường như đang phải chật vật c
 
 "Xin hãy đợi một chút! Tôi không thể để các vị rời đi mà không nhận chút thù lao nào sau khi đã hết lòng tương trợ," người đàn ông đáp lời, đúng như tôi dự liệu.
 
-Lòng tốt của ông ta trong tình cảnh này chỉ tổ mang lại phiền toái, nhưng tôi đâu thể nói toạc ra như thế. Bất luận ra sao, tôi chỉ muốn rời khỏi nơi này càng sớm càng tốt. "Dạ thì, chúng tôi đang dở việc," tôi nói, cố làm ra vẻ mình chẳng còn lựa chọn nào khác.
+Lòng tốt của ông ta trong tình cảnh này chỉ tổ mang lại phiền toái, nhưng tôi đâu thể nói toạc ra như thế. Bất luận ra sao, tôi chỉ muốn rời khỏi nơi này càng sớm càng tốt. "À thì, chúng tôi đang dở việc," tôi nói, cố làm ra vẻ mình chẳng còn lựa chọn nào khác.
 
 "Nếu vậy thì có lẽ các vị có thể nhận thưởng vào một ngày khác," ông ta nài nỉ.
 

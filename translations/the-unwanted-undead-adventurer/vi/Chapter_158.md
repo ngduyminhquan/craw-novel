@@ -24,13 +24,13 @@ Tôi chẳng hiểu điều đó rốt cuộc có nghĩa là gì, nhưng miễn 
 
 "Vậy thì trông cậy vào cô đấy," tôi bảo.
 
-Lorraine tiến lại gần Nauss. "Thưa Ngài Nauss, tôi có thể đề nghị giúp nâng cỗ xe dậy được không?"
+Lorraine tiến lại gần Nauss. "Thưa ngài Nauss, tôi có thể đề nghị giúp nâng cỗ xe dậy được không?"
 
 "Không, không đâu, các vị đã cứu mạng chúng tôi rồi. Tôi không thể đòi hỏi nhiều hơn thế được. Việc này sẽ mất một lúc, nhưng chúng tôi vẫn kịp trở về vương đô trước khi mặt trời lặn thôi," Nauss quả quyết.
 
 Nhưng như thế thì chúng tôi sẽ chẳng kiếm được thêm ân huệ nào từ họ, nên Lorraine lại nài thêm.
 
-"Điều này có lẽ không thành vấn đề với những kỵ sĩ dũng mãnh và danh dự như các ngài, nhưng tôi không nghĩ ngài lại nỡ để nàng công chúa cành vàng lá ngọc phải chờ đợi ở một nơi đầy máu me này lâu đến thế. Tôi tin rằng dựng thẳng cỗ xe càng sớm càng tốt sẽ là điều có lợi nhất cho các ngài. Tôi tình cờ biết chút ma pháp, bao gồm cả một câu chú hoàn hảo cho những sự cố kiểu này. Nếu giao việc này cho tôi, tôi có thể giải quyết xong xuôi chỉ trong vài phút. Ngài chỉ cần gật đầu một tiếng thôi."
+"Điều này có lẽ không thành vấn đề với những kỵ sĩ dũng mãnh và trọng danh dự như các ngài, nhưng tôi không nghĩ ngài lại nỡ để nàng công chúa cành vàng lá ngọc phải chờ đợi ở một nơi đầy máu me này lâu đến thế. Tôi tin rằng dựng thẳng cỗ xe càng sớm càng tốt sẽ là điều có lợi nhất cho các ngài. Tôi tình cờ biết chút ma pháp, bao gồm cả một câu chú hoàn hảo cho những sự cố kiểu này. Nếu giao việc này cho tôi, tôi có thể giải quyết xong xuôi chỉ trong vài phút. Ngài chỉ cần gật đầu một tiếng thôi."
 
 Tôi thấy lời nịnh nọt của cô ấy có phần hơi quá đà, nhưng cô ấy thường kể cho tôi nghe về những nỗ lực phối hợp làm việc cùng các học giả khác ở Đế Quốc. Có lẽ đây là kỹ năng cô ấy học được từ quãng thời gian đó.
 
@@ -56,7 +56,7 @@ Tộc Elf vốn sở trường về các ma pháp thực vật kiểu này, như
 
 "Không cần phải khiêm tốn thế đâu. Chà, giờ xem ra chúng ta có thể quay về vương đô ngay rồi," Nauss nói.
 
-"Vậy thì để ta gọi chúng tới," Jia nói rồi huýt sáo một tiếng.
+"Vậy thì để tôi gọi chúng tới," Jia nói rồi huýt sáo một tiếng.
 
 Đúng lúc tôi đang tự hỏi cô bé định làm gì, tôi nghe thấy tiếng chân chạy dồn dập từ phía xa hướng về phía chúng tôi. Tôi nhìn sang xem là thứ gì thì thấy hai con kỳ lân trắng muốt. Đây có lẽ là những con thú dùng để kéo cỗ xe này. Chúng rất khó huấn luyện và tính khí cực kỳ thất thường, nên người ta không thường xuyên sử dụng chúng theo cách như với ngựa. Nhưng tốc độ và sức bền của chúng hoàn toàn áp đảo loài ngựa thông thường, nên những con kỳ lân đã thuần dưỡng được xem như báu vật.
 
@@ -82,7 +82,7 @@ Tôi đã bàn bạc trước quyết định này với Lorraine và Augurey. V
 
 ◆◇◆◇◆
 
-May mắn thay con đường dẫn tới vương đô vô cùng an toàn. Ngay từ đầu, việc bắt gặp nhiều ma vật đến thế trên đường công cộng vốn đã là chuyện hiếm có. Bất kể thứ gì tập kích họ đợt đầu có lẽ đã để lại mùi máu khiến lũ quái vật sói lần ra. Khi tiêu diệt ma vật trong rừng, người ta phải nhanh chóng đổi địa điểm nếu muốn tránh bị bao vây áp đảo. Có vẻ chẳng còn thứ gì mò ra đường lớn nữa, nhưng chừng đó ma vật thôi cũng đã là quá nhiều rồi. Tôi chắc chắn đã thấy thừa mứa sói cho cả ngày hôm nay rồi.
+May mắn thay con đường dẫn tới vương đô vô cùng an toàn. Ngay từ đầu, việc bắt gặp nhiều ma vật đến thế trên đường công cộng vốn đã là chuyện hiếm có. Bất kể thứ gì tập kích họ đợt đầu có lẽ đã để lại mùi máu khiến lũ quái vật sói lần ra. Khi tiêu diệt ma vật trong rừng, người ta phải nhanh chóng đổi địa điểm nếu muốn tránh bị bao vây áp đảo. Có vẻ chẳng còn thứ gì mò ra đường lớn nữa, nhưng chừng đó ma vật thôi cũng đã là quá nhiều rồi. Tôi chắc chắn đã thấy quá đủ sói cho cả ngày hôm nay rồi.
 
 "Đến đây thì họ an toàn rồi," tôi nói.
 
@@ -112,7 +112,7 @@ Tôi vốn nhát gan hết thuốc chữa lại còn biết rõ mình đang làm
 
 "Họ không nghi ngờ gì tôi cả, nên ổn rồi. Dù sao thì, Augurey đâu rồi?" Tôi hỏi. Đáng lẽ anh ta phải đợi chúng tôi, nhưng tôi chẳng thấy bóng dáng anh ta đâu cả.
 
-"Ồ, anh ta đến hội để báo cáo hoàn thành nhiệm vụ rồi. Anh ta muốn bàn với chúng ta về phần thưởng, nên bảo chúng ta chờ."
+"Ồ, anh ta đến Hội để báo cáo hoàn thành nhiệm vụ rồi. Anh ta muốn bàn với chúng ta về phần thưởng, nên bảo chúng ta chờ."
 
 "Anh ta muốn chúng ta đợi ở đây sao?" Tôi hỏi. Đứng tần ngần ở một chỗ suốt thời gian dài có thể khiến chúng tôi trở nên nổi bật, nên tôi muốn tránh điều đó.
 

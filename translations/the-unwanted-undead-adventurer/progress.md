@@ -161,9 +161,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | reviewed |  |
 | 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | reviewed |  |
 | 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | reviewed |  |
-| 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | done |  |
-| 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | done |  |
-| 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | done |  |
+| 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | reviewed |  |
+| 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | reviewed |  |
+| 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | reviewed |  |
 | 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | todo |  |
 | 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | todo |  |
 | 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | todo |  |

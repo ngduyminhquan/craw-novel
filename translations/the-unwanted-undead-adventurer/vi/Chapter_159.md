@@ -86,7 +86,7 @@ Tôi chẳng biết phải trả lời ra sao, nhưng vẫn phải lên tiếng 
 
 "Tôi cũng rất muốn nghe xem những lý do đó là gì. Nhưng mà, chà, gặng hỏi quá nhiều thông tin từ một mạo hiểm giả khác thì phạm quy mất rồi, tôi đoán vậy. Thế nên hai người muốn tôi giữ kín chuyện này, có đúng không?" Augurey hỏi, hiểu ngay ý mà chẳng cần chúng tôi phải giải thích dài dòng. Anh ta cũng từng tinh ý chu đáo tương tự khi chúng tôi chạm trán viên kỵ sĩ và công chúa, nên chuyện này cũng hoàn toàn hợp lý thôi.
 
-"Được thế thì chúng tôi đội ơn anh quá."
+"Được thế thì chúng tôi cảm kích lắm."
 
 "Hiểu rồi. Nếu hai người vẫn thấy bất an thì chúng ta có thể dùng một khế ước ràng buộc ma pháp," anh ta đề nghị, nhưng việc anh ta phát hiện ra vốn dĩ là lỗi do tôi.
 
@@ -100,7 +100,7 @@ Nói đoạn, chúng tôi cùng rảo bước đi tìm mua một bản khế ư�
 
 ◆◇◆◇◆
 
-Các loại khế ước ràng buộc ma pháp có chất lượng hết sức đa dạng cùng đủ mọi công dụng lẫn hiệu lực khác nhau. Công dụng cơ bản và phổ biến nhất của chúng là trừng phạt bất kỳ ai vi phạm khế ước. Tuy nhiên, ngay cả loại thông thường cũng có phẩm cấp chênh lệch nhau. Người ta thường có thể tìm mua chúng tại các hội mạo hiểm giả hoặc hội thương nghiệp, nhưng thứ mà Augurey gọi là 'loại tốt' thì lại có đôi chút khác biệt. Những loại đó không đơn thuần chỉ áp đặt hình phạt; chúng sở hữu quyền năng cưỡng chế tất cả những người ký kết phải tuân thủ nghiêm ngặt các điều khoản chừng nào khế ước còn tồn tại. Loại này có phần đặc biệt ngay cả trong toàn bộ giới khế ước ma pháp, và đối với những mảnh giấy, chúng có giá đắt đỏ đến khó tin. Chúng cực kỳ nguy hiểm nếu bị dùng vào mưu đồ xấu xa, thành thử các hội đoàn không hề bày bán và người ta chỉ có thể sử dụng chúng ở một số địa điểm nhất định.
+Các loại khế ước ràng buộc ma pháp có chất lượng hết sức đa dạng cùng đủ mọi công dụng lẫn hiệu lực khác nhau. Công dụng cơ bản và phổ biến nhất của chúng là trừng phạt bất kỳ ai vi phạm khế ước. Tuy nhiên, ngay cả loại thông thường cũng có phẩm cấp chênh lệch nhau. Người ta thường có thể tìm mua chúng tại các hội mạo hiểm giả hoặc hội thương nghiệp, nhưng thứ mà Augurey gọi là 'loại tốt' thì lại có đôi chút khác biệt. Những loại đó không đơn thuần chỉ áp đặt hình phạt; chúng sở hữu quyền năng cưỡng chế tất cả những người ký kết phải tuân thủ nghiêm ngặt các điều khoản chừng nào khế ước còn tồn tại. Loại này có phần đặc biệt ngay cả trong toàn bộ giới khế ước ma pháp, và dù xét cho cùng chỉ là những mảnh giấy, chúng lại có giá đắt đỏ đến khó tin. Chúng cực kỳ nguy hiểm nếu bị dùng vào mưu đồ xấu xa, thành thử các hội đoàn không hề bày bán và người ta chỉ có thể sử dụng chúng ở một số địa điểm nhất định.
 
 "Tới nơi rồi đây," Augurey nói khi chúng tôi dừng bước trước một tòa kiến trúc tráng lệ. "Đây là ngôi đền ở vùng này phụng thờ Hozei, Thần Khế Ước."
 
@@ -110,7 +110,7 @@ Nhưng dẫu sao thì, bất chấp quy mô khổng lồ của tòa nhà này, �
 
 "Xét việc anh chuyển từ Maalt lên đây thì anh nắm đường đi nước bước của thành phố này khá tường tận đấy chứ," tôi nói với Augurey khi chúng tôi bước vào trong đền.
 
-"Tôi ở đây cũng được một dạo khá lâu rồi mà," anh ta đáp lời. "Tôi đã đi rảo khắp nơi quanh thị trấn vì công việc này nọ, nên đến giờ thì tôi thuộc làu bản đồ trong đầu rồi. Cơ mà khoản ngõ hẻm ngóc ngách thì tôi không dám tự tin cho lắm."
+"Tôi ở đây cũng được một dạo khá lâu rồi mà," anh ta đáp lời. "Tôi đã đi rảo khắp nơi quanh thành phố vì công việc này nọ, nên đến giờ thì tôi thuộc làu bản đồ trong đầu rồi. Cơ mà khoản ngõ hẻm ngóc ngách thì tôi không dám tự tin cho lắm."
 
 Mạo hiểm giả đôi khi phải gặp mặt trực tiếp thân chủ cho một số ủy thác, chẳng hạn như tôi từng làm cho Laura. Trong những tình huống như vậy, việc nắm rõ đường sá trong thành phố là kiến thức thường thức giữa các mạo hiểm giả. Nhưng việc có bao nhiêu mạo hiểm giả thực sự nắm vững lại là một dấu hỏi. Ít nhất thì đám trẻ ở Maalt cũng làm được điều đó, nhờ vào các buổi thuyết giảng mà chúng tôi tổ chức cho mạo hiểm giả mới vào nghề. Augurey giờ đây có thể là một mạo hiểm giả ở vương đô, nhưng gốc gác của anh ta vốn dĩ là ở Maalt.
 
@@ -126,7 +126,7 @@ Ngôi đền tràn ngập bầu không khí thanh tịnh. Không chỉ mang lạ
 
 "Được chứ ạ. Chúng tôi có thể có một căn phòng riêng không?"
 
-"Được, ta sẽ dẫn các vị đến một căn phòng được yểm ma pháp cách âm. Mời đi lối này."
+"Được, tôi sẽ dẫn các vị đến một căn phòng được yểm ma pháp cách âm. Mời đi lối này."
 
 Vị tư tế dẫn chúng tôi đi ngang qua bức tượng Hozei khổng lồ rồi tiến vào một dãy hành lang san sát những cánh cửa. Mỗi cánh cửa chúng tôi đi qua đều treo một tấm biển đề chữ đỏ "Đang Dùng", hẳn là bên trong đã có người. Rốt cuộc, chúng tôi cũng đến trước một cánh cửa không treo biển.
 
@@ -136,4 +136,4 @@ Ba người chúng tôi bước vào phòng, vị tư tế cũng bước vào th
 
 "Xin dâng cúng vật này lên Hozei. Chúng tôi thành tâm cầu xin nhận được sự ban phước của Người," tôi nói rồi chìa chiếc túi ra. Vị tư tế cúi đầu cung kính đón lấy.
 
-"Vậy thì của các vị đây," ông nói rồi trao cho chúng tôi một mảnh giấy da cừu rõ ràng đang tỏa Thần Lực. Đây chính là bản khế ước ràng buộc ma pháp mà chúng tôi đang tìm kiếm. "Nó được sử dụng theo cùng một cách như bất kỳ bản khế ước ma pháp nào. Tuy nhiên điểm khác biệt là nó có khả năng ước thúc hành vi của các vị ở mức độ nhất định, nên xin hãy ghi nhớ điều đó. Giờ ta phải đi rồi. Nếu có điều gì chưa hiểu, xin hãy rung chiếc chuông này. Ta sẽ tới ngay." Ngay sau khi giải thích xong xuôi, ông liền rời khỏi phòng.
+"Vậy thì của các vị đây," ông nói rồi trao cho chúng tôi một mảnh giấy da cừu rõ ràng đang tỏa Thần Lực. Đây chính là bản khế ước ràng buộc ma pháp mà chúng tôi đang tìm kiếm. "Nó được sử dụng theo cùng một cách như bất kỳ bản khế ước ma pháp nào. Tuy nhiên điểm khác biệt là nó có khả năng ước thúc hành vi của các vị ở mức độ nhất định, nên xin hãy ghi nhớ điều đó. Giờ tôi phải đi rồi. Nếu có điều gì chưa hiểu, xin hãy rung chiếc chuông này. Tôi sẽ tới ngay." Ngay sau khi giải thích xong xuôi, ông liền rời khỏi phòng.
