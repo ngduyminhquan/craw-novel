@@ -425,3 +425,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Deneb Goblin King Tsunami |  | Thảm Họa Sóng Thần Vua Goblin Deneb | khác | 230 | Thảm họa hàng vạn quái vật dưới trướng Vua Goblin tràn vào thành phố Deneb (デネブのゴブリンキング津波) |
 | Ansallen |  | Ansallen | địa danh | 230 | Tên thành phố từng xảy ra vụ bạo loạn tà giáo triệu hồi quái vật (アンサレン) |
 | Deneb |  | Deneb | địa danh | 230 | Tên thành phố từng xảy ra thảm họa đàn Goblin quy mô lớn tràn vào (デネブ) |
+| Aqua Hathur | aqua hathur; Aqua Hathurs; aqua hathurs | Aqua Hathur | quái vật | 231 | Quái vật dạng mèo nước hoặc tinh linh nước sinh sống ở vùng hồ Petorama (水猫) |
+| Luteum Golem | luteum golems; luteum golem; Luteum Golems | Golem Luteum | quái vật | 231 | Phân loại Golem bùn/đất sét sinh sống ở vùng hồ (泥魔導人形) |
+| wyvern flax | Wyvern flax | lanh Phi Long | vật phẩm | 231 | Loại cây hoặc sợi lanh liên quan đến Phi Long mọc ở vùng hồ (ワイバーン麻) |
+| fire dragon | Fire dragon; fire dragons; Fire dragons | Rồng Lửa | quái vật | 231 | Phân loại rồng thuộc tính hỏa |

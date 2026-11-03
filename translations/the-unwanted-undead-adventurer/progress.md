@@ -235,7 +235,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 228 |  | Chapter_228 - Vol 10 Chapter 2 - To the Palace (3).txt | Vol 10 Chapter 2 - To the Palace (3) | reviewed |  |
 | 229 |  | Chapter_229 - Vol 10 Chapter 2 - To the Palace (4).txt | Vol 10 Chapter 2 - To the Palace (4) | done |  |
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | done |  |
-| 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | todo |  |
+| 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | done |  |
 | 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | todo |  |
 | 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | todo |  |
 | 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -864,3 +865,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#229] Dịch tước vị hoàng gia 'first prince' và 'first princess' (đoạn 38, 39) — tạm chọn 'Đệ Nhất Hoàng Tử' và 'Đệ Nhất Công Chúa' đồng bộ với tiền lệ phe cánh ở #227 (phương án khác: 'Đại Hoàng Tử' và 'Đại Công Chúa', 'Hoàng tử cả' và 'Công chúa cả'). Tạm dùng trong bản dịch: 'Đệ Nhất Hoàng Tử' và 'Đệ Nhất Công Chúa'. → Giữ 'Đệ Nhất Hoàng Tử' và 'Đệ Nhất Công Chúa' đồng bộ với #227 và characters.md. (orchestrator)
 - [#230] Dịch thuật ngữ 'Deneb Goblin King Tsunami' (thảm họa quái vật tràn vào thành phố Deneb) — tạm dùng 'Thảm Họa Sóng Thần Vua Goblin Deneb' (phương án khác: 'Cơn Sóng Thần Vua Goblin Deneb' / 'Đợt Triều Dâng Vua Goblin Deneb') → Giữ 'Thảm Họa Sóng Thần Vua Goblin Deneb' theo glossary.md. (orchestrator)
 - [#230] Danh xưng Công Chúa Jia gọi Rentt Vivie ('Mister Vivie') — tạm dùng 'ngài Vivie' (phương án khác: 'anh Vivie') → Giữ 'ngài Vivie' tương xứng với cách Công Chúa Jia gọi Lorraine là 'Tiểu thư Lorraine'. (orchestrator)
+- [#231] Dịch tiêu đề arc/chương 'Vol 10 Chapter 3 - The Job with Augurey (1)' — tạm chọn 'Tập 10 Chương 3 - Công Việc Cùng Augurey (1)' (phương án khác: 'Tập 10 Chương 3 - Nhiệm Vụ Cùng Augurey (1)'). Tạm dùng trong bản dịch: 'Tập 10 Chương 3 - Công Việc Cùng Augurey (1)'. → Giữ 'Tập 10 Chương 3 - Công Việc Cùng Augurey (1)'. (orchestrator)
+- [#231] Dịch tên quái vật mới 'aqua hathur' (nguyên tác 水猫 - quái vật dạng mèo nước/tinh linh nước vùng hồ) — tạm chọn giữ nguyên 'Aqua Hathur' theo tiền lệ quái vật fantasy phương Tây trong glossary (phương án khác: 'Thủy Miêu Aqua Hathur', 'Mèo Nước Aqua Hathur'). Tạm dùng trong bản dịch: 'Aqua Hathur'. → Giữ nguyên 'Aqua Hathur' theo tiền lệ quái vật thần thoại/Latin trong glossary.md. (orchestrator)
+- [#231] Dịch tên quái vật mới 'luteum golem' (nguyên tác 泥魔導人形 - golem bùn/đất sét) — tạm chọn 'Golem Luteum' theo trật tự danh từ - tính từ định danh quen thuộc (phương án khác: 'Luteum Golem', 'Golem Đất Sét'). Tạm dùng trong bản dịch: 'Golem Luteum'. → Giữ 'Golem Luteum' theo glossary.md. (orchestrator)
+- [#231] Dịch vật phẩm/nguyên liệu thực vật 'wyvern flax' (nguyên tác ワイバーン麻 - sợi lanh/cây lanh phi long) — tạm chọn 'lanh Phi Long' (phương án khác: 'cây lanh Phi Long', 'cỏ lanh Phi Long'). Tạm dùng trong bản dịch: 'lanh Phi Long'. → Giữ 'lanh Phi Long' đồng bộ với 'wyvern → Phi Long' trong glossary.md. (orchestrator)

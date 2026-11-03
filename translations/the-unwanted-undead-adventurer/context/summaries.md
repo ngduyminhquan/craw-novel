@@ -1361,6 +1361,12 @@ Sau khi bàn giao số thẻ hội và địa chỉ tại Maalt cho Nauss, cả 
 Rentt giải thích lý do phải giữ kín nhiệm vụ hộ tống Tổng Hội Trưởng; Augurey kể lại thói quen trốn việc chạy rong khắp phố khiến nhân viên Hội phải nháo nhào đi tìm của lão Jean.
 Lorraine nhắc lại ba chiến tích chỉ huy dẹp tan đại họa nổi tiếng của Jean Seebeck (Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, và vụ núi lửa Jarlis phun trào); Augurey xác nhận thực lực chỉ huy xuất chúng trong nghịch cảnh là lý do Hội kiên quyết giữ chân không cho lão già Jean giải nghệ.
 
+## 231
+Trong lúc chờ Tổng Hội Trưởng Jean Seebeck trở về vương đô (còn 4 ngày), Augurey rủ Rentt và Lorraine cùng lập tổ đội tạm thời nhận giải quyết các ủy thác tồn đọng lâu năm đòi hỏi kinh nghiệm đặc thù thay vì sức mạnh chiến đấu.
+Các ủy thác được chọn gồm bắt sống Aqua Hathur, thu thập đất sét từ Golem Luteum và thu hoạch lanh Phi Long; dù Rentt khiêm tốn đề xuất giảm tỷ lệ thù lao vì bản thân chỉ là Đồng Cấp, Augurey và Lorraine vẫn kiên quyết chia đều ba phần do đánh giá cao năng lực thực chiến và kiến thức sinh tồn vượt trội của anh.
+Cả ba tới trụ sở Hội Mạo Hiểm Giả tại vương đô; sau khi Rentt khéo léo trấn an cô tiếp tân đang bồn chồn lo lắng về việc Tổng Hội Trưởng trễ hẹn, nhóm hoàn tất thủ tục đăng ký tổ đội và chính thức nhận các ủy thác tồn đọng (không phạt khi thất bại) rồi xuất phát.
+
+
 
 
 
