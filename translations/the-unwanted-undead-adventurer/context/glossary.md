@@ -181,6 +181,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Terra Drake | Terra Drakes; the Terra Drake | Terra Drake | quái vật | 97 | Phân loài Á Long thuộc tính thổ sống dưới lòng đất (地亜竜/テラ・ドレイク) |
 | Drake | the Drake | Drake | quái vật | 97 | Tên gọi tắt hoặc chủng quái vật Á Long nói chung (ドレイク) |
 | Lesser Dragon | Lesser Dragons; Demidragon; demidragons; demidragon | Á Long | quái vật | 97 | Chủng quái vật rồng bậc thấp / phân loài rồng (亜竜/下位竜族) |
+| Wyvern | wyvern; Wyverns; wyverns | Phi Long | quái vật | 20 | Quái vật rồng bay có cánh hai chân (ワイバーン/飛竜) |
 | elemental magic | Elemental magic; Elemental Magic | ma pháp nguyên tố | kỹ năng | 97 | Ma pháp cổ xưa vận dụng hiện tượng tự nhiên trực quan (元素魔術/精霊魔法) |
 | Earth Dragon | Earth Dragons; the Earth Dragon | Rồng Đất | quái vật | 98 | Phân loài rồng khổng lồ thuộc tính thổ sống dưới lòng đất (地竜) |
 | Undead Sight |  | Thị Giác Undead | kỹ năng | 98 | Năng lực thị giác quan sát sinh vật sống trong bóng tối của Undead |
@@ -329,5 +330,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | beastfolk |  | thú nhân | chủng tộc | 53 | Chủng tộc mang đặc điểm thú có tri thức chứ không phải quái vật (獣人) |
 | Winged folk | winged folk | Tộc Có Cánh | chủng tộc | 166 | Chủng tộc thú nhân mang đôi cánh sau lưng (翼人種) |
 | Lich | lich; liches; Liches | Lich | quái vật | 167 | Undead dạng pháp sư xương khô sở hữu sự bất tử thông qua nghi thức ma pháp (リッチ) |
+| Lindblum | lindblum; Lindblums; lindblums | Lindblum | quái vật | 172 | Phân loài Á Long sao chổi có cánh lớn và tốc độ bay cực nhanh (リンドヴルム) |
 | divinity-mana-spirit fusion | Divinity-mana-spirit fusion | Thần Ma Khí Dung Hợp Thuật | kỹ năng | 168 | Kỹ thuật dung hợp đồng thời cả ba nguồn năng lượng Thần Lực, Ma Lực và Khí Lực |
 | evil god | evil gods | tà thần | khác | 169 | Thần linh tà ác đối nghịch với thiện thần, ban phát năng lượng thần lực tương tự thiện thần |

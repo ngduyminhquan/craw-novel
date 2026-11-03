@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T04:36:11Z",
+  "generatedAt": "2026-11-03T04:41:17Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3179,6 +3179,12 @@
           "title": "Chương 171: Tập 7 Chương 6 - Puchi Suri (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_171.md",
           "sha": "09be138d50e8742807d5730296bcfd3e39d5a4bd"
+        },
+        {
+          "number": 172,
+          "title": "Chương 172: Tập 7 Chương 6 - Puchi Suri (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_172.md",
+          "sha": "61bb34f7597fff9309d99ea4a7ef1f17e08621a2"
         }
       ]
     },

@@ -1015,3 +1015,9 @@ Hồi ức của Edel về những ngày tháng sinh tồn cơ cực, cuộc ch�
 Cơn đau đầu bất thường ập đến khiến Rentt nhận ra mối liên kết với quyến thuộc Edel bị xé rách; Capitan cho biết có cách quay về Maalt chỉ trong nửa ngày thay vì mất năm ngày đi xe ngựa và giục anh về làng.
 Tại nhà trưởng làng, Rentt và Lorraine lo lắng cho sự an toàn của Edel; Capitan nhờ cậy Ingo Faina, người thừa kế vị thế quốc vương cổ đại, và Ingo khẳng định sở hữu kỹ năng đặc biệt có thể giúp nhóm lập tức lên đường trở về Maalt.
 
+## 172
+Ingo dẫn Rentt và Lorraine vào rừng phía bắc, gọi ra một con Lindblum (Á Long sao chổi) nhờ năng lực thuần hóa quái vật kế thừa từ huyết thống quốc vương cổ đại.
+Nhờ ma pháp che chắn nhận thức của Lorraine và tốc độ bay phi thường của Lindblum, cả nhóm trở về Maalt chỉ trong nửa ngày; Ingo thả Rentt và Lorraine ở khu rừng ngoại vi rồi lập tức bay về làng.
+Tới nơi, cả hai bàng hoàng phát hiện Maalt chìm trong biển lửa; Lorraine chạy ra cổng chính hỗ trợ dập lửa, còn Rentt cảm nhận Edel vẫn còn sống và chạy tới Hội Mạo Hiểm Giả nắm bắt tình hình.
+Tại Hội, Hội Trưởng Wolf Hermann kéo Rentt vào phòng kín xác nhận anh không dính líu, rồi tiết lộ một nhóm Thi Quỷ ngụy trang bằng ma thuật đang phóng hỏa khắp thị trấn và rủ Rentt cùng tham gia truy quét.
+
