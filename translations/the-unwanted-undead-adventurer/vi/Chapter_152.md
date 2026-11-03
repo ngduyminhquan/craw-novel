@@ -74,7 +74,7 @@ Jid không chỉ cất công ăn diện chỉnh tề, mà ông còn kiếm đư�
 
 ◆◇◆◇◆
 
-"Món này ngon tuyệt cú mèo. Thỏ Aurum quả không hổ danh với danh tiếng của chúng," Lorraine vừa nói vừa ăn. May mà tôi đã nêm nếm gia vị chuẩn xác.
+"Món này ngon tuyệt trần. Thỏ Aurum quả thực danh bất hư truyền," Lorraine vừa nói vừa ăn. May mà tôi đã nêm nếm gia vị chuẩn xác.
 
 Trong lúc chúng tôi vừa ăn vừa trò chuyện, Lorraine bỗng lên tiếng, "Đáng tiếc là tôi không nghĩ chúng ta sẽ có cơ hội được thưởng thức món cao lương mỹ vị như thế này thêm lần nào nữa trong ít nhất mười năm tới đâu."
 

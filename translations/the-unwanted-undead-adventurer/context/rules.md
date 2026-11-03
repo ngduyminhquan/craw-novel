@@ -63,3 +63,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#146) Cấu trúc đối đáp "mind if I..." / "I'd definitely mind" trong hội thoại đời thường: chuyển ngữ tự nhiên theo ngữ cảnh can ngăn / từ chối khéo thay vì dịch thô chữ "phiền" (ví dụ: "cháu can chú đấy ạ!").
 - (#150) Cấu trúc "doubt [something]": dịch là "cho rằng... khó lòng / không nghĩ là..." (tránh dịch ngược nghĩa thành "ngờ rằng...").
 - (#150) Từ "cackle / cackling": dịch là "cười the thé / cười man rợ / cười rợn người" (tránh dịch là "cười khúc khích").
+- (#152) Thành ngữ "live up to one's reputation": dịch là "quả không hổ danh", "thực sự danh bất hư truyền" (tránh dịch lặp nghĩa thành "không hổ danh với danh tiếng").
+- (#152, #153) Tránh dùng tiếng lóng hiện đại/phương ngữ lệch tông fantasy phương Tây (như "ngon tuyệt cú mèo", "xạo ke") và tránh dịch máy "Yeah" thành "Vâng" trong đối thoại ngang hàng (dùng "Phải đấy", "Đúng vậy").

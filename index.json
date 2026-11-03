@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T01:26:55Z",
+  "generatedAt": "2026-11-03T01:34:04Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3058,19 +3058,19 @@
           "number": 151,
           "title": "Chương 151: Ngoại truyện Tập 6 - Thảnh Thơi Câu Cá",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_151.md",
-          "sha": "652cce509204c3050e249b4f412129c58771e916"
+          "sha": "211a6f15068c4ff4b35e04027875e84ebcf233b9"
         },
         {
           "number": 152,
           "title": "Chương 152: Ngoại truyện Tập 6 - Một Ngày",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_152.md",
-          "sha": "3849c804cfde92bc291413b80113b2603dfed494"
+          "sha": "edc1ff2cd8620d3a054eb9de305af0f148f5c9e3"
         },
         {
           "number": 153,
           "title": "Chương 153: Ngoại truyện Tập 6 - Cờ Bạc",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_153.md",
-          "sha": "41db49f3b9662da1c8e1beaecddc10e8e12fc34c"
+          "sha": "f807878f262e9e2bef8337e4a0227f5bf23d3890"
         }
       ]
     },

@@ -155,9 +155,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 148 |  | Chapter_148 - Vol 6 Chapter 4 - The Secret of Hathara (3).txt | Vol 6 Chapter 4 - The Secret of Hathara (3) | reviewed |  |
 | 149 |  | Chapter_149 - Vol 6 Chapter 4 - The Secret of Hathara (4).txt | Vol 6 Chapter 4 - The Secret of Hathara (4) | reviewed |  |
 | 150 |  | Chapter_150 - Vol 6 Bonus - Bad Conclusion.txt | Vol 6 Bonus - Bad Conclusion | reviewed |  |
-| 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | done |  |
-| 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | done |  |
-| 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | done |  |
+| 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | reviewed |  |
+| 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | reviewed |  |
+| 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | reviewed |  |
 | 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | todo |  |
 | 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | todo |  |
 | 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | todo |  |

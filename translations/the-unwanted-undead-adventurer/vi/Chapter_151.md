@@ -58,7 +58,7 @@ Tôi hiểu vì sao cậu ấy lại lo lắng cho Riri. Thậm chí, tôi dám 
 
 "Nhưng thứ tình cảm đó đâu có tồn tại mãi mãi được. Riri sẽ không giữ cảm xúc ấy với tôi được lâu đâu."
 
-Giờ thì dường như Doras đã hiểu ra vấn đề. Cậu ấy mới mười hai tuổi, nhưng đầu óc lại vận dụng khá tốt. Sau một thoáng suy ngẫm, cậu ấy cất lời: "Và nếu anh rời làng, cô bé sẽ càng mau quên anh hơn sao?"
+Giờ thì dường như Doras đã hiểu ra vấn đề. Cậu ấy mới mười hai tuổi, nhưng đầu óc lại khá nhanh nhạy. Sau một thoáng suy ngẫm, cậu ấy cất lời: "Và nếu anh rời làng, cô bé sẽ càng mau quên anh hơn sao?"
 
 "Đúng thế. Và thay vì thương nhớ một kẻ biền biệt nhiều năm trời, cô bé sẽ quan tâm hơn tới người ở ngay gần bên. Vì vậy, Doras à, thấy tôi rời đi đáng lẽ em phải mừng mới phải. Đúng không nào?"
 
@@ -66,10 +66,10 @@ Giờ thì dường như Doras đã hiểu ra vấn đề. Cậu ấy mới mư�
 
 "Em hiền quá đấy. Cứ như thế thì Riri chẳng bao giờ đổ em đâu."
 
-"Này, em đâu có cố―Ôi thôi bỏ đi, giấu giếm cũng chẳng ích gì. Nhưng chuyện gì đến sẽ đến thôi. Xem chừng anh chỉ mải mê mỗi chuyện làm mạo hiểm giả, nên em cứ thong thả ở đây vậy."
+"Kìa anh, em đâu có cố―Ôi thôi bỏ đi, giấu giếm cũng chẳng ích gì. Nhưng chuyện gì đến sẽ đến thôi. Xem chừng anh chỉ mải mê mỗi chuyện làm mạo hiểm giả, nên em cứ thong thả ở đây vậy."
 
 "Chúc em may mắn. Thôi được rồi, thi thoảng tôi sẽ về. Cứ ngóng chờ những câu chuyện tôi kể cùng những món quà tôi mang về đi nhé. Tôi thậm chí sẽ chọn cho em vài món quà thật tuyệt để đem tặng Riri nữa."
 
 "Được thế thì tốt quá. Em sẽ tiếp tục rèn giũa tay nghề cho đến khi làm ra được thứ gì đó hữu ích cho anh ở chốn thành thị."
 
-Ba tháng sau cuộc trò chuyện ấy, tôi rời làng đúng như dự định. Tôi chọn Maalt làm chốn nương thân của mình, và đúng như những gì đã nói với Doras, tôi trở về thăm làng thường xuyên nhất có thể. Thế nhưng những lần về thăm ấy lại cách xa nhau hơn dự tính, nên tôi chỉ có thể quay lại cứ hai hoặc ba năm một lần. Dù thời gian có trôi qua bao lâu, mối quan hệ giữa Riri và Doras dường như vẫn chẳng thể đơm hoa kết trái thành tình yêu. Dẫu vậy, cậu ấy vẫn kiên nhẫn đợi chờ. Riri chắc chắn vẫn rất được nhiều chàng trai săn đón, nhưng biết đâu sau cùng, một người như Doras mới là kẻ "câu" được trái tim cô bé.
+Ba tháng sau cuộc trò chuyện ấy, tôi rời làng đúng như dự định. Tôi chọn Maalt làm chốn nương thân của mình, và đúng như những gì đã nói với Doras, tôi trở về thăm làng thường xuyên nhất có thể. Thế nhưng những lần về thăm ấy lại cách xa nhau hơn dự tính, nên tôi chỉ có thể quay lại cứ hai hoặc ba năm một lần. Dù thời gian có trôi qua bao lâu, mối quan hệ giữa Riri và Doras dường như vẫn chẳng thể đơm hoa kết trái thành tình yêu. Dẫu vậy, cậu ấy vẫn kiên nhẫn đợi chờ. Riri chắc chắn vẫn được rất nhiều chàng trai săn đón, nhưng biết đâu sau cùng, một người như Doras mới là kẻ "câu" được trái tim cô bé.

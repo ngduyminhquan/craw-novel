@@ -28,7 +28,7 @@ Một người đàn ông khác đang ngồi uống rượu cùng chúng tôi gh
 
 "Anh ấy cùng những thợ săn khác đi trinh sát, và hóa ra nó lại quá mạnh so với sức họ. Thực ra chính Rudol là người đã đề xuất chúng tôi nhờ mạo hiểm giả giúp đỡ đấy. Do lo ngại chi phí, trưởng làng kỳ thực đã mong cánh thợ săn của làng có thể tự giải quyết, nhưng lần này thì không thể được rồi. Và hóa ra chúng tôi đã đưa ra quyết định đúng đắn. Tôi đã nhìn thấy cái xác của con Goblin đó rồi. Nó cao tới hai mét cơ mà nhỉ? Thậm chí nó còn cầm cả một thanh đại kiếm nữa chứ. Hạ gục con quái đó chắc chắn không hề đơn giản chút nào."
 
-"Vâng, một tổ đội mạo hiểm giả Đồng Cấp có thể hạ gục nó mà không gặp mấy khó khăn, nhưng tôi chắc là các thợ săn địa phương sẽ phải chật vật lắm đấy. Dù sao thì nếu mọi chuyện đúng là như thế, cớ sao anh ta lại cứ nhắm vào tôi gây sự thế này?" Tôi hỏi rồi quay lại nhìn Rudol.
+"Phải đấy, một tổ đội mạo hiểm giả Đồng Cấp có thể hạ gục nó mà không gặp mấy khó khăn, nhưng tôi chắc là các thợ săn địa phương sẽ phải chật vật lắm đấy. Dù sao thì nếu mọi chuyện đúng là như thế, cớ sao anh ta lại cứ nhắm vào tôi gây sự thế này?" Tôi hỏi rồi quay lại nhìn Rudol.
 
 Rudol đặt một tay lên vai tôi và bảo: "Tôi thách đấu cậu một trận."
 
