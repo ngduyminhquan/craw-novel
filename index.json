@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:11:13Z",
+  "generatedAt": "2026-11-03T13:15:17Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3467,6 +3467,12 @@
           "title": "Chương 219: Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_219.md",
           "sha": "0111635a1b868fce2d53d403ff0cf9d6355531d6"
+        },
+        {
+          "number": 220,
+          "title": "Chương 220: Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_220.md",
+          "sha": "4a3801a1886c2d8025f06c06eb216cbb4e10c3d3"
         }
       ]
     },

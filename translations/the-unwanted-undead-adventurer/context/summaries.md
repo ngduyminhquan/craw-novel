@@ -1296,3 +1296,9 @@ Rentt nhận một ủy thác cá nhân từ Hội Trưởng Wolf Hermann: tìm 
 Cùng thân chủ mang chiếc bàn đến tận nơi, trước sự chối từ của ông lão, vị công chúa giả vờ dọa dùng búa tạ đập vỡ bàn khiến ông lão phải thừa nhận mình chính là người làm ra nó để tặng người yêu thời trẻ nhưng bị gia đình ép chia cắt; ông lão chỉ cho cô cơ chế mở ngăn bí mật của chiếc bàn, bên trong chứa bản di chúc thừa kế và một bức thư gửi riêng cho ông.
 Lấy được di chúc, vị công chúa để lại chiếc bàn cùng bức thư cho ông lão đang xúc động rơi lệ rồi rời đi; trên đường về, Rentt nhận ra sự khéo léo đầy nhân hậu ẩn sau vẻ ngoài toan tính của cô khi không nỡ phá hủy chiếc bàn chứa kỷ niệm tình yêu của bà mình, khiến Lorraine và nữ quý tộc cùng mỉm cười trêu anh thiếu tế nhị.
 
+## 220
+Trong một đêm mưa bão, Rentt đội mũ trùm đầu xin tá túc tại một dinh thự hẻo lánh và được vị chủ nhân niềm nở đón tiếp, mời dùng súp nóng rồi lui về phòng khách nghỉ ngơi.
+Nửa đêm, vị chủ nhân lộ bản chất thật, lén lút lẻn vào phòng định cắn cổ tấn công con mồi thì bị Rentt tóm chặt lấy mặt khống chế.
+Rentt vạch trần lý do anh cất công đến đây là theo ủy thác của thân nhân những người mất tích quanh vùng, đồng thời tra hỏi số nạn nhân đã bị hại.
+Một màn đêm sâu thẳm lan tỏa nuốt chửng vị chủ nhân; trước khi bất tỉnh, nghe gã hỏi mình là thứ gì, Rentt chỉ đáp anh là một sinh vật cận kề bóng tối hơn cả gã.
+

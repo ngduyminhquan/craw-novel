@@ -224,7 +224,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 217 |  | Chapter_217 - Vol 9 Bonus - A Day in the Life of Lorraine Vivie.txt | Vol 9 Bonus - A Day in the Life of Lorraine Vivie | reviewed |  |
 | 218 |  | Chapter_218 - Vol 9 Bonus - The Much Admired Isaac.txt | Vol 9 Bonus - The Much Admired Isaac | reviewed |  |
 | 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | reviewed |  |
-| 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | todo |  |
+| 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | done |  |
 | 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | todo |  |
 | 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | todo |  |
 | 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -846,3 +847,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#219] Tiêu đề chương 'Vol 9 Bonus - The Princess’s Table' — tạm chọn 'Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa' đồng bộ với #217 và #218 (phương án khác: 'Ngoại truyện Tập 9 - Chiếc Bàn Của Nàng Công Chúa'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa'. → Dùng 'Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa' (orchestrator)
 - [#219] Dịch cụm từ 'a faintly Machiavellian air' miêu tả phong thái nữ quý tộc (công chúa) — tạm chọn 'phảng phất chút khí chất mưu lược sắc sảo kiểu Machiavelli' để giữ nguyên phong vị văn học (phương án khác: 'phảng phất chút vẻ toan tính sắc sảo'). Tạm dùng trong bản dịch: 'phảng phất chút khí chất mưu lược sắc sảo kiểu Machiavelli'. → Tạm giữ ở bản dịch hiện tại, sẽ rà lại trong bước review 217-219 (orchestrator)
 - [#219] Xưng hô của nữ quý tộc (công chúa) và cách gọi của Rentt, Lorraine — tạm chọn nữ quý tộc xưng 'tôi', gọi 'anh / Rentt', 'Lorraine', gọi ông lão là 'ông'; Rentt và Lorraine gọi nữ quý tộc là 'tiểu thư' (m'lady dịch thành 'thưa tiểu thư'), xưng 'tôi' (phương án khác: gọi nữ quý tộc là 'công chúa', nữ quý tộc xưng 'ta'). Tạm dùng trong bản dịch: 'tôi' - 'tiểu thư'. → Dùng nữ quý tộc xưng 'tôi', Rentt và Lorraine xưng 'tôi' - gọi 'tiểu thư' (orchestrator)
+- [#220] Dịch tiêu đề chương 'Vol 9 Bonus - The Manor During a Storm' — tạm chọn 'Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão' đồng bộ tiền tố với #217-#219 (phương án khác: 'Ngoại truyện Tập 9 - Dinh Thự Trong Giông Bão'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão'. → Dùng 'Ngoại truyện Tập 9 - Dinh Thự Trong Cơn Bão' (orchestrator)
+- [#220] Xưng hô Rentt và chủ nhân dinh thự khi lộ mặt hung thủ — tạm chọn chủ nhân dinh thự xưng 'ta' gọi 'ngươi' (lúc đắc ý) và gọi 'ngươi' (lúc hoảng sợ); Rentt xưng 'tôi', gọi 'ông' theo phong thái điềm tĩnh (phương án khác: Rentt đổi sang gọi 'ngươi'). Tạm dùng trong bản dịch: Rentt xưng 'tôi', gọi 'ông'. → Dùng chủ nhân dinh thự xưng 'ta' - gọi 'ngươi' khi lộ mặt hung thủ, Rentt xưng 'tôi' - gọi 'ông' (orchestrator)
+- [#220] Đoạn 17 raw thiếu chủ ngữ ở 'said' (“This is where it ends for you,” said.) — tạm bổ sung chủ ngữ Rentt nói: '"Đến đây là chấm dứt với ông rồi," Rentt nói.' (phương án khác: 'anh nói'). Tạm dùng trong bản dịch: 'Rentt nói'. → Dùng 'Rentt nói' (orchestrator)
