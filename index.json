@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T05:02:20Z",
+  "generatedAt": "2026-11-03T05:08:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3197,6 +3197,12 @@
           "title": "Chương 174: Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_174.md",
           "sha": "c066004d28958584f373fca76e83a3a20c315fd3"
+        },
+        {
+          "number": 175,
+          "title": "Chương 175: Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_175.md",
+          "sha": "35747439c7b21863e1df80df15887c750457f572"
         }
       ]
     },

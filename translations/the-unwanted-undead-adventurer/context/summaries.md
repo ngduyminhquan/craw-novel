@@ -1032,3 +1032,9 @@ Nhận thấy đối phương là quý tộc đi vi hành, Rentt khéo léo bi�
 Rentt về nhà kể lại cuộc gặp gỡ với Curt (Bá tước Robista) và Hayden cho Lorraine; cô đồng ý tham gia hỗ trợ khảo sát dược liệu, đồng thời chỉ ra điểm đáng ngờ khi một đại quý tộc vi hành đến thị trấn hẻo lánh Maalt chỉ với một hộ vệ; Rentt thừa nhận nhưng muốn giúp đỡ vì cảm thấy họ thực sự đang gặp khó khăn.
 Trong khi đó, chuyển cảnh hé lộ bi kịch của Bá tước Robista: con gái ông là Elaine mắc chứng bệnh nan y kỳ lạ khoảng một tháng nay với những đốm tím sẫm như vết mực lan rộng khắp cơ thể mà mọi danh y vương đô đều bó tay.
 Bá tước giật mình tỉnh giấc sau cơn ác mộng tái hiện cảnh tượng con gái lâm bệnh và tâm sự cùng Hayden; ông tiết lộ nguyên nhân bí mật chuyến đi Maalt là theo lời sấm truyền từ một con búp bê cử động trên bàn thờ nhà nguyện chỉ dẫn ông tìm nguyên liệu thuốc tại Maalt trước khi hết thời gian, và cả hai đặt hy vọng vào Rentt.
+
+## 175
+Bá tước Robista cùng Hayden gặp gỡ Rentt và Lorraine Vivie trước Hội Mạo Hiểm Giả; Lorraine giới thiệu bản thân là mạo hiểm giả Ngân Cấp kiêm y sĩ ma thuật và nhanh chóng chuyển sang cách nói chuyện tự nhiên theo đề nghị của "Curt".
+Cả nhóm đi khắp Maalt khảo sát các khu chợ và ngõ hẻm, thu mua được nhiều dược liệu quý hiếm; Lorraine tiết lộ căn bệnh của Elaine giống chứng bệnh do côn trùng ma vật ở Làng Chiweb và đã có phương thuốc trị liệu tại địa phương.
+Khi bá tước định kết thúc ủy thác, con búp bê mang theo bỗng cử động và hé lộ một phân thân thần tinh linh của Viroget đang trú ngụ bên trong; phân thân cảnh báo bệnh của Elaine nặng hơn người thường và chỉ dẫn cần lấy lá của Ent Cổ Đại tại Rừng Cổ Đại Rasta để tăng cường dược tính trước khi hóa thành tro bụi.
+Rentt và Lorraine xung phong dẫn đường cho bá tước đến Rừng Cổ Đại Rasta vào ngày mai; Bá tước Robista vô cùng cảm kích, cúi đầu tạ ơn và hứa sẽ hậu tạ xứng đáng cho hai mạo hiểm giả.

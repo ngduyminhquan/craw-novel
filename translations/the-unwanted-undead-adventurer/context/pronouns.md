@@ -300,3 +300,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hayden War | Rentt Faina | tôi | anh / Rentt | 173 | Mạo hiểm giả Kim Cấp nói chuyện thoải mái với mạo hiểm giả địa phương |
 | Rentt Faina | Count Curtis Nal Robista | tôi | ngài / ông / Curt | 173 | Mạo hiểm giả nói chuyện lịch sự, tự nhiên với quý tộc giả danh khách bộ hành |
 | Count Curtis Nal Robista | Rentt Faina | tôi | cậu / Rentt | 173 | Quý tộc giả danh khách bộ hành nói chuyện hòa nhã với mạo hiểm giả nhận việc |
+| Lorraine Vivie | Count Curtis Nal Robista | tôi | Bá tước / ngài / ông / Curt | 175 | Ban đầu xưng hô kính cẩn, sau đổi sang tự nhiên theo đề nghị của Curt |
+| Count Curtis Nal Robista | Lorraine Vivie | tôi | cô / Lorraine | 175 | Quý tộc giả danh nói chuyện lịch thiệp với nữ mạo hiểm giả kiêm y sĩ ma thuật |
+| Viroget | Count Curtis Nal Robista | ta | ngươi / con người | 175 | Phân thân thần tinh linh trong búp bê nói chuyện với tín đồ |
+| Count Curtis Nal Robista | Viroget | tôi | ngài | 175 | Tín đồ nói chuyện tôn kính với thần linh / thần tinh linh |

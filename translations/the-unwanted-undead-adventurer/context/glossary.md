@@ -335,3 +335,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | evil god | evil gods | tà thần | khác | 169 | Thần linh tà ác đối nghịch với thiện thần, ban phát năng lượng thần lực tương tự thiện thần |
 | magic medicine |  | ma dược | vật phẩm | 173 | Dược phẩm đặc biệt chế tạo bằng ma thuật hoặc chứa ma lực |
 | magic medic |  | y sĩ ma thuật | chức nghiệp | 174 | Người chữa bệnh bằng kiến thức y dược kết hợp ma thuật |
+| Ancient Woods of Rasta |  | Rừng Cổ Đại Rasta | địa danh | 175 | Khu rừng nằm cách Maalt hai ngày đường về phía đông bắc |
+| ancient ent | Ancient Ent; ancient ents; Ancient ents | Ent Cổ Đại | quái vật | 175 | Phân loài Ent cây gỗ cổ đại nguy hiểm sinh sống sâu trong Rừng Cổ Đại Rasta |
+| Chiweb | village of Chiweb | Chiweb | địa danh | 175 | Ngôi làng không xa Maalt nơi căn bệnh do côn trùng ma vật thường xuất hiện |
