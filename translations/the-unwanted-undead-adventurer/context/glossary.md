@@ -310,3 +310,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | arouzal |  | arouzal | vật phẩm | 159 | Thức uống cao cấp có vị đắng chua đặc trưng rất được ưa chuộng tại Vương Quốc Yaaran |
 | kazuki grass |  | cỏ kazuki | vật phẩm | 159 | Loài thực vật có rễ nghiền mịn dùng pha chế thức uống arouzal |
 | loa |  | hạt loa | vật phẩm | 159 | Hạt phơi khô rang chín dùng chiết xuất chất lỏng pha chế thức uống arouzal |
+| Ra'al Slime | ra'al slimes; Ra'al Slimes; ra'al slime; Ra'al slime | Slime Ra'al | quái vật | 161 | Phân loài Slime mang độc tính |

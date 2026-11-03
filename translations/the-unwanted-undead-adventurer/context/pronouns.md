@@ -281,3 +281,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jia Regina Yaaran | Nauss Ancro | tôi | ông / Nauss | 157 | Công chúa nói chuyện với cận vệ bảo hộ |
 | Lorraine Vivie | Nauss Ancro | tôi | ngài / ngài Nauss | 158 | Học giả cải trang nói chuyện lịch thiệp với Đội trưởng Cận Vệ Hoàng Gia |
 | Nauss Ancro | Lorraine Vivie | tôi | cô / tiểu thư | 158 | Đội trưởng Cận Vệ Hoàng Gia nói chuyện với nữ ma pháp sư cứu viện |
+| Augurey | Lorraine Vivie | tôi | cô / Lorraine | 160 | Augurey biết thân phận thật của Lorraine và xưng hô tự nhiên |

@@ -950,3 +950,9 @@ Trong căn phòng cách âm tại đền thờ Hozei, Lorraine đe dọa buộc 
 Augurey tiết lộ trước khi rời Maalt từng tìm được đoàn buôn và định rủ Rentt cùng lên vương đô nhưng Rentt mất tích; anh hết lời khen ngợi kiếm thuật cùng thực lực vượt bậc của Rentt đã đủ sức vượt qua kỳ thi Ngân Cấp.
 Rentt quyết định nói thẳng sự thật mình đã bị rồng nuốt chửng rồi biến thành Undead (từ Khô Lâu tiến hóa thành Ma Cà Rồng), đồng thời tự cào rách tay biểu diễn khả năng tự hồi phục vết thương tức thì trước mắt Augurey.
 Không hề tỏ ra sợ hãi hay ghê tởm, Augurey thấu hiểu và khẳng định vẫn luôn xem Rentt là bạn; anh tò mò hỏi về chuyện hút máu và thậm chí còn vui vẻ đề nghị sẵn lòng chia sẻ máu của mình cho Rentt nếu cần.
+
+## 161
+Rentt từ chối lời đề nghị hiến máu của Augurey, sau đó giải thích về quá trình Tiến Hóa Bản Thể từ Khô Lâu thành Ma Cà Rồng; câu chuyện tạm thời rẽ hướng khi Augurey hào hứng thổ lộ sở thích nuôi Slime làm thú cưng và những thí nghiệm chế tạo bình chứa bất thành thời còn ở Maalt.
+Rentt làm rõ mục tiêu hiện tại là tìm cách trở lại làm người và khéo léo né tránh việc tiết lộ bí mật ma pháp trận dịch chuyển kết nối với làng quê để tránh vi phạm các ràng buộc vô thức của khế ước ma pháp.
+Lorraine soạn thảo các điều khoản khế ước lên giấy nháp; sau khi Rentt và Augurey lần lượt ký tên vào tấm giấy da đặc biệt, bản khế ước bất ngờ phát sáng rực rỡ và ảo ảnh Nữ Thần Hozei xuất hiện ban phước rồi tan biến vào hư không.
+Toàn bộ chữ viết trên bản khế ước biến mất chỉ còn lại chữ ký mờ ảo; cả ba kinh ngạc trước dị tượng thần thánh chưa từng thấy và Lorraine đề nghị rung chuông gọi vị tư tế vào.
