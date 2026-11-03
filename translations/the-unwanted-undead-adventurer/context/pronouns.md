@@ -385,4 +385,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Laura Satii | Nive Maris | tôi | chị / Nive | 204 | Nữ tân binh ngưỡng mộ và tự ti trước nhan sắc mạo hiểm giả Kim Cấp |
 | Noel Kruege | Elise Georges | tôi | cô / Elise Georges | 210 | Cùng là học viên Học Viện, Noel khó chịu khi bị Elise can thiệp |
 | Elise Georges | Noel Kruege | tôi | cậu / Noel / Noel Kruege | 210 | Cùng là học viên Học Viện, Elise nghiêm khắc chấn chỉnh tính kiêu ngạo của Noel |
+| Lorraine Vivie | Noel Kruege | tôi | nhóc / cậu bé | 211 | Nữ học giả nói chuyện với thiếu niên học viên Học Viện kiêu ngạo |
+| Noel Kruege | Lorraine Vivie | tôi | cô | 211 | Thiếu niên học viên Học Viện nói chuyện với nữ học giả can thiệp |
+| Lorraine Vivie | Elise Georges | tôi | cô / Elise | 211 | Nữ học giả nói chuyện hòa nhã với thiếu nữ học viên Học Viện |
+| Elise Georges | Lorraine Vivie | tôi | chị / chị Lorraine / cô | 211 | Thiếu nữ học viên Học Viện nói chuyện với nữ học giả |
+| Rina Rupaage | Elise Georges | mình / tôi | cậu / Elise | 211 | Bạn bè cùng lớp cũ thời ở vương đô |
+| Elise Georges | Rina Rupaage | mình / tôi | cậu / Rina | 211 | Bạn bè cùng lớp cũ thời ở vương đô |
+| Rentt Faina | Elise Georges | tôi | cô / Elise | 211 | Mạo hiểm giả nói chuyện với bạn của Rina |
+| Elise Georges | Rentt Faina | tôi | anh / anh Rentt | 211 | Bạn của Rina nói chuyện với ân nhân / tiền bối của Rina |
 

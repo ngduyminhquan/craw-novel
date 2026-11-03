@@ -215,7 +215,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | reviewed |  |
 | 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | reviewed |  |
 | 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | reviewed |  |
-| 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | todo |  |
+| 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | done |  |
 | 212 |  | Chapter_212 - Vol 9 Side Story - Noel Kruege.txt | Vol 9 Side Story - Noel Kruege | todo |  |
 | 213 |  | Chapter_213 - Vol 9 Chapter 5 - A Request from the Guild (1).txt | Vol 9 Chapter 5 - A Request from the Guild (1) | todo |  |
 | 214 |  | Chapter_214 - Vol 9 Chapter 5 - A Request from the Guild (2).txt | Vol 9 Chapter 5 - A Request from the Guild (2) | todo |  |
@@ -823,3 +823,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#210] Dịch tên quốc gia 'Ariana Maritime Republic' — tạm chọn 'Cộng Hòa Hàng Hải Ariana' (phương án khác: 'Cộng Hòa Hải Dương Ariana'). Tạm dùng trong bản dịch: 'Cộng Hòa Hàng Hải Ariana'. → Giữ 'Cộng Hòa Hàng Hải Ariana' theo đúng nghĩa Maritime Republic. (orchestrator)
 - [#210] Dịch tên tổ chức 'Ariana Merchant’s Guild' — tạm chọn 'Hội Thương Nhân Ariana' (phương án khác: 'Hiệp Hội Thương Nhân Ariana'). Tạm dùng trong bản dịch: 'Hội Thương Nhân Ariana'. → Giữ 'Hội Thương Nhân Ariana' để đồng bộ cấu trúc với 'Hội Mạo Hiểm Giả' trong glossary.md. (orchestrator)
 - [#210] Xưng hô hai học viên Học Viện Noel Kruege ↔ Elise Georges — tạm chọn cả hai xưng 'tôi', Noel gọi Elise là 'cô / Elise Georges', Elise gọi Noel là 'cậu / Noel / Noel Kruege' (bạn cùng học viện cãi vã; phương án khác: 'tôi - cậu'). Tạm dùng trong bản dịch: 'tôi - cô / cậu'. → Giữ cả hai xưng 'tôi', Noel gọi Elise là 'cô / Elise Georges', Elise gọi Noel là 'cậu / Noel / Noel Kruege'. (orchestrator)
+- [#211] Dịch chức danh 'dean' của Học Viện — tạm chọn 'viện trưởng' (phương án khác: 'hiệu trưởng'). → Giữ 'viện trưởng' (phù hợp với tổ chức 'Học Viện'). (orchestrator)
+- [#211] Dịch các tên gọi dân gian của Nguyền Cụ ('cursed goods', 'demon's tools', 'shadow objects') — tạm chọn 'nguyền phẩm', 'yêu cụ', 'ảnh phẩm'. → Giữ 'nguyền phẩm', 'yêu cụ', 'ảnh phẩm' theo cấu trúc Hán Việt đồng bộ với Nguyền Cụ / Ma Cụ / Thần Cụ. (orchestrator)
+- [#211] Xưng hô Elise Georges và Rina Rupaage (bạn học cũ ở vương đô) — tạm chọn xưng 'mình / tôi', gọi 'cậu / [Tên]'. → Giữ xưng 'mình / tôi', gọi 'cậu / [Tên]' đồng bộ với cách Rina xưng hô với bạn đồng trang lứa. (orchestrator)
+- [#211] Xưng hô Elise Georges và Lorraine Vivie — tạm chọn Elise xưng 'tôi', gọi 'chị / chị Lorraine' (lúc đầu chưa quen gọi 'cô'); Lorraine xưng 'tôi', gọi 'cô / Elise'. → Giữ Elise xưng 'tôi', gọi 'chị / chị Lorraine / cô' và Lorraine xưng 'tôi', gọi 'cô / Elise' đồng bộ với cặp Rina - Lorraine. (orchestrator)

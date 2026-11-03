@@ -1246,6 +1246,12 @@ Tại bến xe ngựa bỗng xảy ra tranh cãi khi Noel Kruege, một thiếu 
 Lorraine phát hiện người thương nhân đeo đoản kiếm mang biểu tượng của Cộng Hòa Hàng Hải Ariana và Hội Thương Nhân Ariana – một thế lực khét tiếng nguy hiểm sẵn sàng thuê lính đánh thuê và sát thủ để trục lợi.
 Nhận ra sự nguy hiểm nếu để hai học viên Học Viện đắc tội với Hội Thương Nhân Ariana, nhóm Rentt chuẩn bị ra tay can thiệp giải vây theo nguyện vọng của Rina.
 
+## 211
+Lorraine can thiệp dưới danh nghĩa nhà giả kim, kiểm tra áo choàng và xác nhận Noel nói đúng, đồng thời thì thầm đe dọa gã thương nhân của Hội Thương Nhân Ariana khiến gã hoảng sợ chấp nhận bồi thường và rút lui; Noel nhận ra thực lực đáng gờm của Lorraine nên cũng rời đi.
+Rina gặp lại Elise Georges; cả nhóm cùng nhau tới quán cà phê trò chuyện; Elise ngạc nhiên khi biết Lorraine là ma pháp sư tài giỏi và chia sẻ về mối quan hệ cạnh tranh điểm số giữa mình với Noel ở Học Viện.
+Lorraine lấy ra một thanh đoản kiếm Nguyền Cụ lấy từ gã thương nhân (được bọc trong tấm vải thấm đượm Thần Lực) có khả năng phá vỡ lớp bảo vệ và làm nhiễu loạn dòng chảy Ma Lực trên áo choàng của Noel; Elise hào hứng muốn nghiên cứu nên Lorraine hẹn dịp cho cô bé chạm thử ở ngoài thị trấn.
+Sau khi chia tay Elise, Rentt và Lorraine trao đổi riêng về việc họ không bị ảnh hưởng khi chạm vào thanh đoản kiếm là nhờ phước lành Thần Lực từ đền thờ mà Rentt từng phục dựng.
+
 
 
 
