@@ -1077,4 +1077,11 @@ Tại đây, anh hội ngộ Alize và Sơ Lillian đang vũ trang phòng thủ;
 Rentt rót Ma Lực cùng Khí Lực đánh thức Edel đang ngất xỉu và nhận được hình ảnh thần giao cách cảm từ một chú chuột thuộc hạ bị sát hại, qua đó nhận diện được kẻ thủ ác là con Ma Cà Rồng anh từng lướt qua ở Mê Cung Tân Nguyệt trong vụ các tân binh mất tích.
 Được Edel báo tin bầy chuột đã nắm bắt vị trí đám Thi Quỷ quấy nhiễu khắp thị trấn, Rentt quyết định ưu tiên đi săn Thi Quỷ trước và bố trí đàn chuột tay chân của Edel bảo vệ cô nhi viện, khiến Lillian thán phục ngỡ anh là người thuần hóa quái vật tài ba.
 
+## 183
+Theo sự dẫn đường của Edel qua mạng lưới mắt chuột Puchi Suri khắp thị trấn, Rentt tìm đến quảng trường Maalt và đối chất vạch trần một con Thi Quỷ cải trang thành người tị nạn.
+Khi con quái vật định bỏ chạy tấn công đám đông, mạo hiểm giả Kim Cấp Nive Maris bất ngờ xuất hiện phóng ngọn lửa thần thuật thiêu đốt; Nive công khai vạch trần thân phận quái vật trước thị dân và rủ Rentt cùng phối hợp hạ sát con Thi Quỷ.
+Rentt chém đứt tay còn Nive dùng móng vuốt chém rụng đầu rồi niệm chú thiêu rụi con quái vật thành tro bụi và cát; Nive hào phóng tặng viên Ma Tinh Thi Quỷ đắt giá cho Rentt làm tiền thù lao.
+Thánh Nữ Myullias Raiza của Giáo Hội Lobelia đuổi kịp tới nơi chất vấn việc Nive tự ý chạy đi; nhân lúc Nive buông lời châm chọc Thánh Nữ và rủ mình lập đội, Rentt vội vã lấy cớ đi lùng Thi Quỷ khác để chuồn khỏi thị phi.
+
+
 

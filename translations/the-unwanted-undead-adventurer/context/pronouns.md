@@ -313,3 +313,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dylas | Rentt Faina | tôi | cậu / Rentt | 177 | Thân chủ giao tiếp cởi mở, thân thiện với mạo hiểm giả |
 | Rentt Faina | Rota | tôi | chị / Rota | 180 | Mạo hiểm giả tiếp nhận ủy thác dọn dẹp nhà cửa thừa kế |
 | Rota | Rentt Faina | tôi | cậu / Rentt | 180 | Thân chủ trung niên nói chuyện thân thiện, áy náy với mạo hiểm giả |
+| Rentt Faina | Nive Maris | tôi | Nive / cô | 183 | Nive bảo cứ gọi thẳng tên như đồng nghiệp mạo hiểm giả |
+| Nive Maris | Rentt Faina | tôi | Rentt / cậu Rentt | 183 | Mạo hiểm giả Kim Cấp gọi thẳng tên Rentt, rủ hợp tác tác chiến |
+| Nive Maris | Myullias Raiza | tôi | Thánh Nữ Myullias / cô | 183 | Mạo hiểm giả Kim Cấp châm chọc Thánh Nữ đi cùng |
+| Myullias Raiza | Nive Maris | tôi | Nive / cô | 183 | Thánh Nữ gọi thẳng tên mạo hiểm giả Kim Cấp đi cùng |

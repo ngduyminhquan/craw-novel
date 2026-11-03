@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T06:02:40Z",
+  "generatedAt": "2026-11-03T06:08:49Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3245,6 +3245,12 @@
           "title": "Chương 182: Tập 8 Chương 1 - Tình Hình Maalt (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_182.md",
           "sha": "2c5de206a56051a70f8b2a5f4001d8b19f36c7c7"
+        },
+        {
+          "number": 183,
+          "title": "Chương 183: Tập 8 Chương 1 - Tình Hình Maalt (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_183.md",
+          "sha": "650067e0a875dcd88525f721479f6c84129149b2"
         }
       ]
     },
