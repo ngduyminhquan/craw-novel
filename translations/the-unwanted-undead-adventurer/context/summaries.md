@@ -968,3 +968,9 @@ Nhóm bốn người Rentt, Lorraine, Gharb và Capitan qua cổng thành Vistel
 Bản Đồ Akasha bất ngờ hiển thị chính xác tên điểm đến của các ma pháp trận dẫn về pháo đài Hathara và cống ngầm Vistelya; Lorraine và Gharb đưa ra giả thuyết tấm bản đồ có thể đang kết nối và trích xuất thông tin trực tiếp từ Bản Ghi Akashic huyền thoại.
 Cả nhóm kiểm chứng cơ chế hoạt động của Bản Đồ Akasha qua các ma pháp trận dịch chuyển khác (dẫn đến Albasa thuộc Vương Quốc Lina và Đảo Daris thuộc Cộng Hòa Thorn); tấm bản đồ chỉ hiện thông tin chi tiết đầy đủ khi người sở hữu đã thực sự bước qua ma pháp trận.
 Lorraine và Gharb phân tích cơ chế ma thuật khi ma pháp trận dịch chuyển bị đất đá lát đè hoặc bị thảm trải che phủ; nhóm nhận ra nguy cơ có thể bị dịch chuyển bất ngờ vào những nơi nguy hiểm như phòng ngai vàng của một vương quốc nào đó.
+
+## 164
+Gharb chỉ cách dùng máu nhỏ lên đá để kiểm tra ma pháp trận dịch chuyển hai chiều; Rentt nảy ra ý định dùng bầy chuột thuộc hạ của Edel thám hiểm bí mật nhằm tránh rủi ro bị bại lộ.
+Capitan và Gharb nhận ra Rentt đang giấu giếm điều gì đó; thấu hiểu Rentt đã trải qua biến đổi căn bản và đau khổ, Gharb đề xuất Capitan đấu một trận với Rentt để tự mình cảm nhận sự thay đổi.
+Cả nhóm quyết định hoãn trận so tài sang sáng sớm hôm sau gần pháo đài rừng phía bắc để giữ bí mật và Capitan kịp về nhà với vợ; nhóm trở về nhà trưởng làng Ingo Faina và được ông trao toàn quyền sử dụng tàn tích.
+Rentt cùng Lorraine thảo luận về việc giữ bí mật kho báu trước dã tâm của Đế Quốc và thử nghiệm dùng máu làm chìa khóa; Rentt đánh giá cao sự nguy hiểm của Capitan với kỹ năng dao săn và Nhu thuật từ thời Vương Quốc Cổ Đại trước khi đi ngủ chuẩn bị cho trận đấu.

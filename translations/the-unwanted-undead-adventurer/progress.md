@@ -168,7 +168,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | reviewed |  |
 | 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | reviewed |  |
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | done |  |
-| 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | todo |  |
+| 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | done |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | todo |  |
 | 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | todo |  |
 | 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | todo |  |
@@ -738,3 +738,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#163] Tiêu đề arc/chương 'Numerous Secrets (1)': tạm chọn 'Vô Số Bí Mật (1)' (phương án khác: 'Muôn Vàn Bí Mật (1)', 'Những Bí Mật Trùng Trùng (1)'). → Chốt "Vô Số Bí Mật (1)". (orchestrator)
 - [#163] Dịch thuật ngữ 'Akashic records': tạm chọn 'Bản Ghi Akashic' (phương án khác: 'Tàng Thư Akasha', 'Hồ Sơ Akashic'). → Chốt "Bản Ghi Akashic". (orchestrator)
 - [#163] Dịch tên vũ khí 'Dragonslayer', 'Giantslayer', 'Godslayer', 'Theoretical Dragonslayer': tạm chọn 'Đồ Long', 'Đồ Cự Nhân', 'Đồ Thần', 'Đồ Long Trên Lý Thuyết' (phương án khác: 'Trảm Long', 'Trảm Cự Nhân', 'Trảm Thần'). → Chốt "Đồ Long", "Đồ Cự Nhân", "Đồ Thần", "Đồ Long Trên Lý Thuyết" theo quy tắc Hán Việt ngắn gọn trong rules.md. (orchestrator)
+- [#164] Dịch kỹ năng chiến đấu 'jujutsu' của Capitan (đoạn 63) — tạm chọn 'Nhu thuật' theo Hán Việt (柔術) và thêm vào glossary.md (phương án khác: 'thuật nhu đạo', 'thuật cận chiến'). → Chốt "Nhu thuật" (柔術). (orchestrator)
