@@ -16,7 +16,7 @@
 
 Dòng người nườm nượp đổ vào rồi lại túa ra khỏi cổng vương đô. Chuyện đó cũng là lẽ đương nhiên. Dẫu Vương Quốc Yaaran có nhỏ bé đến đâu thì đây vẫn là một quốc gia đàng hoàng; lượng khách vãng lai qua lại ắt hẳn không hề ít. Tuy nhiên, vì là một đất nước kém phát triển hơn, nên công tác an ninh nơi đây ở một vài phương diện vẫn còn khá lỏng lẻo.
 
-"Giấy tờ tùy thân của ông đâu?" Một người lính gác cổng cất tiếng hỏi người đàn ông đứng xếp hàng ngay phía trước chúng tôi. Quần áo của ông ta đã sờn rách, trên đầu đội một chiếc nón lá, trên tay ôm bọc rau củ gói trong mảnh vải. Trông ông ta chỉ có thể là người vừa từ một ngôi làng nhỏ nào đó tới.
+"Giấy tờ tùy thân của ông đâu?" Một người lính gác cổng cất tiếng hỏi người đàn ông đứng xếp hàng ngay phía trước chúng tôi. Quần áo của ông ta đã sờn rách, trên đầu đội một chiếc mũ rơm, trên tay ôm bọc rau củ gói trong mảnh vải. Trông ông ta chỉ có thể là người vừa từ một ngôi làng nhỏ nào đó tới.
 
 "Ờ, ơ, tui làm gì có mấy cái thứ đó," ông ta đáp, giọng địa phương đặc sệt và vô cùng khó nghe.
 
@@ -28,7 +28,7 @@ Tuy nhiên, người lính gác dường như đã quá quen với cảnh này. 
 
 "Anh nghĩ anh lính đó làm vậy có được không?" Lorraine hỏi. "Ông ta hoàn toàn có thể giấu đồ phi pháp bên trong đống rau củ đó mà." Cô đang đánh giá dựa trên góc nhìn của một công dân Đế Quốc.
 
-"Tôi cũng chịu. Chắc là ổn thôi. Nghe nói khi tiến vào khu quý tộc gần lâu đài, người ta mới tiến hành kiểm tra nghiêm ngặt hơn. Hơn nữa, lính gác còn có chó nghiệp vụ có lẽ sẽ đánh hơi được bất cứ thứ gì phi pháp," tôi vừa nhìn quanh vừa đáp, bản thân cũng chẳng dám chắc mình có đúng hay không. Thực ra các mạo hiểm giả tiền bối luôn bảo với tôi rằng an ninh ở vương đô lỏng lẻo ra sao. Xem chừng lời họ nói quả không sai.
+"Tôi cũng chịu. Chắc là ổn thôi. Nghe nói khi tiến vào khu quý tộc gần lâu đài, người ta mới tiến hành kiểm tra nghiêm ngặt hơn. Hơn nữa, lính gác còn có chó săn có lẽ sẽ đánh hơi được bất cứ thứ gì phi pháp," tôi vừa nhìn quanh vừa đáp, bản thân cũng chẳng dám chắc mình có đúng hay không. Thực ra các mạo hiểm giả tiền bối luôn bảo với tôi rằng an ninh ở vương đô lỏng lẻo ra sao. Xem chừng lời họ nói quả không sai.
 
 "Tôi thấy thật ấn tượng khi họ vẫn tồn tại được ngần ấy năm mà chưa bị quốc gia láng giềng nào xóa sổ đấy," Lorraine lẩm bẩm.
 

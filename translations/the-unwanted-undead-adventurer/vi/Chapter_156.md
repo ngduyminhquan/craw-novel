@@ -46,11 +46,11 @@ Tôi nghiêng đầu khó hiểu. "Anh đang nói cái quái gì thế?"
 
 "‘Tiệm thời trang Michel’ sao?"
 
-"Phải đấy. Tôi có đặt may quần áo mới ở chỗ họ, nhưng chất nhuộm thì hơi độc lạ một chút. Họ nhất định phải có loại thảo dược đó mới làm được! Thành thực mà nói, trước khi đặt may tôi cứ ngỡ là kiếm chúng khá dễ dàng, nào ngờ sau đó mới vỡ lẽ ra rằng ở thành phố này tìm được chúng lại khó khăn đến thế. Tôi phải thôi ngay cái thói quen mặc định chỗ nào cũng giống như ở Maalt đi mới được. Tôi có thể nhập từ nơi khác về, nhưng người ta bảo phải mất trọn cả tháng trời. Trong khi tôi lại muốn được khoác lên mình bộ cánh mới ngay trong tuần này cơ! Ấy thế mà chúng lại nằm ngoài tầm với! Tôi không thể nào chịu nổi nữa rồi!"
+"Phải đấy. Tôi có đặt may quần áo mới ở chỗ họ, nhưng thuốc nhuộm thì hơi độc lạ một chút. Họ nhất định phải có loại thảo dược đó mới làm được! Thành thực mà nói, trước khi đặt may tôi cứ ngỡ là kiếm chúng khá dễ dàng, nào ngờ sau đó mới vỡ lẽ ra rằng ở thành phố này tìm được chúng lại khó khăn đến thế. Tôi phải thôi ngay cái thói quen mặc định chỗ nào cũng giống như ở Maalt đi mới được. Tôi có thể nhập từ nơi khác về, nhưng người ta bảo phải mất trọn cả tháng trời. Trong khi tôi lại muốn được khoác lên mình bộ cánh mới ngay trong tuần này cơ! Ấy thế mà chúng lại nằm ngoài tầm với! Tôi không thể nào chịu nổi nữa rồi!"
 
 ◆◇◆◇◆
 
-Tôi tự hỏi cớ sao mình phải bận tâm giúp đỡ chứ. Dù nhìn nhận thế nào thì đây cũng hoàn toàn là vấn đề riêng của Augurey. Nếu một tháng sau là có được chất nhuộm thì anh ta cứ việc kiên nhẫn chờ đợi là xong.
+Tôi tự hỏi cớ sao mình phải bận tâm giúp đỡ chứ. Dù nhìn nhận thế nào thì đây cũng hoàn toàn là vấn đề riêng của Augurey. Nếu một tháng sau là có được thuốc nhuộm thì anh ta cứ việc kiên nhẫn chờ đợi là xong.
 
 "Chỉ có vậy thôi sao? Thế thì xin chào tạm biệt nhé," tôi nói rồi toan rời đi.
 
@@ -62,7 +62,7 @@ Tôi quyết định rằng thuyết phục anh ta từ bỏ ý định là lự
 
 Nhưng trái ngược với kỳ vọng của tôi, Augurey vẫn khăng khăng không chịu buông tha. "Cậu bảo có lý do riêng sao? Nghe cứ như thể bản thân việc nhận nhiệm vụ từ Hội đã là một vấn đề rồi vậy. Trong trường hợp đó, nếu coi đây đơn thuần là một ủy thác cá nhân từ tôi thì sao? Còn về chuyện tuần trăng mật, hai người sẽ được đặt chân tới những nơi mà chưa cặp đôi hưởng trăng mật nào từng bén mảng tới đấy!"
 
-"Anh dai như đỉa ấy," tôi nói. "Anh cần mấy cây thảo dược đó đến mức đấy sao? Sao không chịu khó chờ một tháng đi?"
+"Anh bám dai thật đấy," tôi nói. "Anh cần mấy cây thảo dược đó đến mức đấy sao? Sao không chịu khó chờ một tháng đi?"
 
 Augurey lắc đầu, van nài bằng giọng điệu hết sức nghiêm túc: "Tôi muốn có chúng càng sớm càng tốt. Xin cậu đấy. Tôi sẽ trả thêm cho cậu nhiều hơn cả mức thù lao ghi trên này. Sẽ chẳng mất nhiều thời gian đâu. Tôi biết chúng mọc trong một khu rừng cách đây không xa, nên chừng nào cậu còn phân biệt được các loại thảo dược thì chỉ mất vài tiếng đồng hồ là xong xuôi thôi."
 
@@ -120,7 +120,7 @@ Có vô số loài cây nhỏ trổ hoa màu vàng lục, và thoạt nhìn thì
 
 Tôi dạy anh ta không phải vì bản thân anh ta. Tôi làm vậy là để những ủy thác như thế này sẽ không còn bị bỏ xó trơ trọi ở vương đô nữa. Augurey tuy là một mạo hiểm giả đơn độc, nhưng lại tương đối giàu lòng trắc ẩn, thế nên nhiều khả năng anh ta sẽ truyền lại những kiến thức này cho các thế hệ sau.
 
-Nếu thiến thảo hỏa tinh linh được dùng để làm thuốc nhuộm, thì hẳn là anh ta muốn bộ quần áo của mình có màu đỏ. Thuốc nhuộm chiết xuất từ rễ phơi khô của loài cây này cho ra màu đỏ tươi. Nó đỏ rực như ráng chiều hoàng hôn vào những ngày sức mạnh của các hỏa tinh linh đặc biệt dâng cao, và đó cũng chính là nguồn gốc của cái tên ấy. Lúc này anh ta đang khoác trên người bộ đồ bảy sắc cầu vồng, nhưng thứ này xem chừng sẽ tạo nên một bộ quần áo mang sắc đỏ chói lòa lóa mắt. Nghe qua thôi tôi đã thấy chẳng mấy ưa mắt rồi, nhưng gu thẩm mỹ thì mỗi người một phách, chẳng thể nào đem ra tranh cãi được.
+Nếu thiến thảo hỏa tinh linh được dùng để làm thuốc nhuộm, thì hẳn là anh ta muốn bộ quần áo của mình có màu đỏ. Thuốc nhuộm chiết xuất từ rễ phơi khô của loài cây này cho ra màu đỏ tươi. Nó đỏ rực như ráng chiều hoàng hôn vào những ngày sức mạnh của các hỏa tinh linh đặc biệt dâng cao, và đó cũng chính là nguồn gốc của cái tên ấy. Lúc này anh ta đang khoác trên người bộ đồ bảy sắc cầu vồng, nhưng thứ này xem chừng sẽ tạo nên một bộ quần áo mang sắc đỏ chói lòa. Nghe qua thôi tôi đã thấy chẳng mấy ưa mắt rồi, nhưng gu thẩm mỹ thì mỗi người một phách, chẳng thể nào đem ra tranh cãi được.
 
 "Chúng ta quay về được chưa? Tôi nghĩ anh đã hái đủ rồi đấy," Lorraine cất tiếng.
 

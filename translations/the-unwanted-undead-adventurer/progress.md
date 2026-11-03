@@ -158,9 +158,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 151 |  | Chapter_151 - Vol 6 Bonus - Leisurely Fishing.txt | Vol 6 Bonus - Leisurely Fishing | reviewed |  |
 | 152 |  | Chapter_152 - Vol 6 Bonus - One Day.txt | Vol 6 Bonus - One Day | reviewed |  |
 | 153 |  | Chapter_153 - Vol 6 Bonus - Gambling.txt | Vol 6 Bonus - Gambling | reviewed |  |
-| 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | done |  |
-| 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | done |  |
-| 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | done |  |
+| 154 |  | Chapter_154 - Vol 6 Bonus - Unsolicited Help.txt | Vol 6 Bonus - Unsolicited Help | reviewed |  |
+| 155 |  | Chapter_155 - Vol 7 Chapter 1 - Vistelya, The Capital (1).txt | Vol 7 Chapter 1 - Vistelya, The Capital (1) | reviewed |  |
+| 156 |  | Chapter_156 - Vol 7 Chapter 1 - Vistelya, The Capital (2).txt | Vol 7 Chapter 1 - Vistelya, The Capital (2) | reviewed |  |
 | 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | todo |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | todo |  |
 | 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | todo |  |
