@@ -1249,14 +1249,15 @@ Nhận ra sự nguy hiểm nếu để hai học viên Học Viện đắc tội
 Lorraine can thiệp dưới danh nghĩa nhà giả kim, kiểm tra áo choàng và xác nhận Noel nói đúng, đồng thời thì thầm đe dọa gã thương nhân của Hội Thương Nhân Ariana khiến gã hoảng sợ chấp nhận bồi thường và rút lui; Noel nhận ra thực lực đáng gờm của Lorraine nên cũng rời đi.
 Rina gặp lại Elise Georges; cả nhóm cùng nhau tới quán cà phê trò chuyện; Elise ngạc nhiên khi biết Lorraine là ma pháp sư tài giỏi và chia sẻ về mối quan hệ cạnh tranh điểm số giữa mình với Noel ở Học Viện.
 Lorraine lấy ra một thanh đoản kiếm Nguyền Cụ lấy từ gã thương nhân (được bọc trong tấm vải thấm đượm Thần Lực) có khả năng phá vỡ lớp bảo vệ và làm nhiễu loạn dòng chảy Ma Lực trên áo choàng của Noel; Elise hào hứng muốn nghiên cứu nên Lorraine hẹn dịp cho cô bé chạm thử ở ngoài thị trấn.
-Sau khi chia tay Elise, Rentt và Lorraine trao đổi riêng về việc họ không bị ảnh hưởng khi chạm vào thanh đoản kiếm là nhờ phước lành Thần Lực từ đền thờ mà Rentt từng phục dựng.## 212
-Kể theo góc nhìn của Noel Kruege: sau vụ va chạm ở bến xe ngựa, Noel nhận ra mình thiếu kiềm chế nhưng kiên quyết không bỏ qua vì trực giác mách bảo gã thương nhân có điều mờ ám; khi Lorraine can thiệp giải quyết êm thấm, Noel khiếp sợ trước uy áp tương tự vị gia sư ma pháp sư Đế Quốc năm xưa nên vội vã rời đi.
-Noel đấu khẩu với đối thủ cạnh tranh thành tích Elise Georges rồi trở về quán trọ của Học Viện; tại đây cậu bị Học Sĩ Adelina Moska nhắc nhở phải ưu tiên an toàn tính mạng bản thân thay vì đơn độc đối đầu kẻ khả nghi, đồng thời dự định tìm cách cảm ơn nữ ma pháp sư đã giúp đỡ.
-Trở về phòng ngủ, Noel gặp bạn cùng phòng Pierpaolo Blanca (con trai cả gia tộc Tử tước Blanca kinh doanh thương nghiệp); cả hai trao đổi về kế hoạch thuê mạo hiểm giả dẫn đường cho chuyến khảo sát mê cung ngày mai và bàn luận về sự xuất hiện đầy bí ẩn của một ma pháp sư kiêm nhà giả kim tầm cỡ như Lorraine tại thị trấn Maalt.
-
-
+Sau khi chia tay Elise, Rentt và Lorraine trao đổi riêng về việc họ không bị ảnh hưởng khi chạm vào thanh đoản kiếm là nhờ phước lành Thần Lực từ đền thờ mà Rentt từng phục dựng.
 
 ## 212
 Kể theo góc nhìn của Noel Kruege: sau vụ va chạm ở bến xe ngựa, Noel nhận ra mình thiếu kiềm chế nhưng kiên quyết không bỏ qua vì trực giác mách bảo gã thương nhân có điều mờ ám; khi Lorraine can thiệp giải quyết êm thấm, Noel khiếp sợ trước uy áp tương tự vị gia sư ma pháp sư Đế Quốc năm xưa nên vội vã rời đi.
 Noel đấu khẩu với đối thủ cạnh tranh thành tích Elise Georges rồi trở về quán trọ của Học Viện; tại đây cậu bị Học Sĩ Adelina Moska nhắc nhở phải ưu tiên an toàn tính mạng bản thân thay vì đơn độc đối đầu kẻ khả nghi, đồng thời dự định tìm cách cảm ơn nữ ma pháp sư đã giúp đỡ.
 Trở về phòng ngủ, Noel gặp bạn cùng phòng Pierpaolo Blanca (con trai cả gia tộc Tử tước Blanca kinh doanh thương nghiệp); cả hai trao đổi về kế hoạch thuê mạo hiểm giả dẫn đường cho chuyến khảo sát mê cung ngày mai và bàn luận về sự xuất hiện đầy bí ẩn của một ma pháp sư kiêm nhà giả kim tầm cỡ như Lorraine tại thị trấn Maalt.
+
+## 213
+Ba ngày sau sự cố ở bến xe ngựa, Rentt ngứa ngáy muốn làm việc nên quyết định tới Hội Mạo Hiểm Giả xem xét tình hình giữa mạo hiểm giả và đoàn nghiên cứu của Tòa Tháp vừa tới Maalt.
+Tại sảnh Hội, mạo hiểm giả và người của Tòa Tháp tranh cãi nảy lửa nhưng nhanh chóng hòa giải; Sheila cho biết Hội Trưởng Wolf Hermann đang đau đầu vì lượng công việc quá tải khi phải điều phối nhân lực và giải quyết yêu cầu từ Tòa Tháp lẫn Học Viện.
+Bắt gặp Rentt, Wolf liền dùng danh nghĩa nhân viên Hội Rentt Vivie cùng sự van nài của toàn thể nhân viên để ép anh nhận việc hỗ trợ.
+Trong phòng làm việc, Wolf giải thích kinh tế Maalt đang khởi sắc nhờ các đoàn nghiên cứu trả thù lao cao nhưng nhân sự Hội lại thiếu hụt trầm trọng; ông giao cho Rentt một ủy thác đặc biệt: đích thân đi đón Tổng Hội Trưởng của Vương Quốc Yaaran sắp tới Maalt.

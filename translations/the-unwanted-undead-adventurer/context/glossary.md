@@ -389,3 +389,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | shadow objects | shadow object | ảnh phẩm | vật phẩm | 211 | Tên gọi khác trong dân gian của Nguyền Cụ (影品) |
 | valedictorian |  | thủ khoa | danh hiệu | 212 | Học viên đứng đầu khóa học tập tại Học Viện |
 | salutatorian |  | á khoa | danh hiệu | 212 | Học viên đứng thứ hai khóa học tập tại Học Viện |
+| Great Maaltesian Riot |  | Đại Bạo Động Maalt | khác | 213 | Tên gọi đùa của vụ hỗn loạn mê cung gần đây ở Maalt |
+| Maaltesian Dungeon Affair |  | Biến Cố Mê Cung Maalt | khác | 213 | Tên gọi khác của vụ hỗn loạn mê cung gần đây ở Maalt |
