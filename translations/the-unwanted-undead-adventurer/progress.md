@@ -146,9 +146,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 139 |  | Chapter_139 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (2) | reviewed |  |
 | 140 |  | Chapter_140 - Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3).txt | Vol 6 Chapter 2 - A Welcome Banquet and Rentt’s Origins (3) | reviewed |  |
 | 141 |  | Chapter_141 - Vol 6 Chapter 3 - Tragedy and Origins (1).txt | Vol 6 Chapter 3 - Tragedy and Origins (1) | reviewed |  |
-| 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | done |  |
-| 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | done |  |
-| 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | done |  |
+| 142 |  | Chapter_142 - Vol 6 Chapter 3 - Tragedy and Origins (2).txt | Vol 6 Chapter 3 - Tragedy and Origins (2) | reviewed |  |
+| 143 |  | Chapter_143 - Vol 6 Chapter 3 - Tragedy and Origins (3).txt | Vol 6 Chapter 3 - Tragedy and Origins (3) | reviewed |  |
+| 144 |  | Chapter_144 - Vol 6 Chapter 3 - Tragedy and Origins (4).txt | Vol 6 Chapter 3 - Tragedy and Origins (4) | reviewed |  |
 | 145 |  | Chapter_145 - Vol 6 Chapter 3 - Tragedy and Origins (5).txt | Vol 6 Chapter 3 - Tragedy and Origins (5) | todo |  |
 | 146 |  | Chapter_146 - Vol 6 Chapter 4 - The Secret of Hathara (1).txt | Vol 6 Chapter 4 - The Secret of Hathara (1) | todo |  |
 | 147 |  | Chapter_147 - Vol 6 Chapter 4 - The Secret of Hathara (2).txt | Vol 6 Chapter 4 - The Secret of Hathara (2) | todo |  |

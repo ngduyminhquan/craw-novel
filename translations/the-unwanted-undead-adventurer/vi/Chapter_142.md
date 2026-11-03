@@ -92,7 +92,7 @@ Sau khi tất cả đã được bọc trong vải và đưa lên cỗ xe, Wilfr
 
 "Anh hiểu rồi," Azel đáp. "Trời đã tối rồi, nên anh nghĩ mai chúng ta hẵng về làng của em. Em thấy thế nào?"
 
-Tôi đâu thể đòi hỏi gì hơn. Tôi có thể thử tự mình đi về nhà một mình, nhưng mang theo ngần ấy thi thể thì không thể, nên tôi đành phải nghe theo lời họ.
+Tôi đâu thể đòi hỏi gì hơn. Tôi có thể thử tự mình đi về nhà, nhưng mang theo ngần ấy thi thể thì không thể, nên tôi đành phải nghe theo lời họ.
 
 "Như vậy được rồi ạ. Em cảm ơn anh," tôi nói.
 
