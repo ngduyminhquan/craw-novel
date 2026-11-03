@@ -88,6 +88,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jia Regina Yaaran | Jia; Princess Jia | Jia Regina Yaaran | Nhị Công Chúa của Vương Quốc Yaaran | #157 |
 | Hozei |  | Hozei | Nữ Thần Khế Ước được thờ phụng tại vương đô Vistelya | #159 |
 | Josee Meyer | Josee | Josee Meyer | Người đứng đầu đền thờ Hozei tại vương đô Vistelya, Thánh Giả trẻ tuổi | #162 |
+| Cami |  | Cami | Vợ của Capitan ở Làng Hathara | #165 |
 
 ## Chi tiết
 
@@ -587,3 +588,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, trạc giữa độ tuổi 20, người đứng đầu đền thờ Nữ Thần Khế Ước Hozei tại vương đô Vistelya, Thánh Giả trẻ tuổi.
 - Đặc điểm: Mặc áo chùng thụng trùm kín đầu, giọng nói có phần phi giới tính khi đội mũ trùm; khi lộ diện là một cô gái trẻ trạc tuổi Rentt và Lorraine; đôi lúc hơi lơ đãng ngơ ngác khi bối rối, nhưng phong thái đón tiếp và hướng dẫn lại chỉn chu, rành mạch; rất nhạy cảm với thánh khí và Thần Lực; tôn trọng tuyệt đối tính bảo mật của khế ước và thân phận khách hàng; trao thẻ thông hành đặc biệt để nhóm Rentt có thể liên hệ thẳng với người đứng đầu mọi đền thờ Hozei nếu bản khế ước gặp vấn đề.
 - Xuất hiện từ: #162.
+
+### Cami
+- Giới tính, vai trò: Nữ, vợ của Capitan ở Làng Hathara.
+- Đặc điểm: Thường được Capitan say rượu kể lại chuyện tình cảm thuở mới quen cho mọi người nghe; hiện tại đã có hai người con ở tuổi thiếu niên.
+- Xuất hiện từ: #165 (qua lời kể của Capitan và Rentt).

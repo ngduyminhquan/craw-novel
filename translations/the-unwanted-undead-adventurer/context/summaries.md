@@ -974,3 +974,9 @@ Gharb chỉ cách dùng máu nhỏ lên đá để kiểm tra ma pháp trận d�
 Capitan và Gharb nhận ra Rentt đang giấu giếm điều gì đó; thấu hiểu Rentt đã trải qua biến đổi căn bản và đau khổ, Gharb đề xuất Capitan đấu một trận với Rentt để tự mình cảm nhận sự thay đổi.
 Cả nhóm quyết định hoãn trận so tài sang sáng sớm hôm sau gần pháo đài rừng phía bắc để giữ bí mật và Capitan kịp về nhà với vợ; nhóm trở về nhà trưởng làng Ingo Faina và được ông trao toàn quyền sử dụng tàn tích.
 Rentt cùng Lorraine thảo luận về việc giữ bí mật kho báu trước dã tâm của Đế Quốc và thử nghiệm dùng máu làm chìa khóa; Rentt đánh giá cao sự nguy hiểm của Capitan với kỹ năng dao săn và Nhu thuật từ thời Vương Quốc Cổ Đại trước khi đi ngủ chuẩn bị cho trận đấu.
+
+## 165
+Nhóm tiến vào khu rừng phía bắc gần pháo đài Hathara; Capitan và Rentt chuẩn bị trận so tài, Gharb nhường vai trò trọng tài cho Lorraine; Capitan trêu đùa hồi tưởng kỷ niệm gặp vợ (Cami) trước khi chính thức bắt đầu trận đấu.
+Capitan phô diễn lối đánh dao săn cầm ngược điêu luyện, phối hợp đòn tấn công kép dao - nắm đấm và dùng dây bền chắc làm từ bộ phận ma vật để đu mình né đòn trên không đầy biến ảo; Rentt dùng "Mắt Ma Cà Rồng" bắt kịp quỹ đạo vũ khí nhưng kiếm chém trúng thì Capitan vận Khí Lực ngưng tụ lên da cứng như kim loại hóa giải hoàn toàn.
+Rentt đổi sang truyền Khí Lực vào kiếm thay vì Ma Lực để phá nhịp của Capitan; khi Capitan dùng sống dao chặn cú đâm, Rentt dồn lượng lớn Khí Lực ra sau lưng tạo lực đẩy cực đại hất tung Capitan gãy cả thân cây.
+Capitan né được nhát chém bồi nhờ cảm nhận luồng gió di chuyển; bụi đất tan dần để lộ đôi cánh sau lưng Rentt khiến Capitan kinh ngạc tột độ.

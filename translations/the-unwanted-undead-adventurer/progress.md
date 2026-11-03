@@ -169,7 +169,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | reviewed |  |
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | done |  |
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | done |  |
-| 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | todo |  |
+| 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | done |  |
 | 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | todo |  |
 | 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | todo |  |
 | 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | todo |  |

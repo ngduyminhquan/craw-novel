@@ -325,3 +325,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Republic of Thorn |  | Cộng Hòa Thorn | địa danh | 163 | Quốc đảo phía nam gồm hàng ngàn hòn đảo, ngành vận tải biển rất phát triển |
 | Daris’s Island | Daris's Island | Đảo Daris | địa danh | 163 | Hòn đảo thuộc Cộng Hòa Thorn có ma pháp trận dịch chuyển |
 | jujutsu |  | Nhu thuật | kỹ năng | 164 | Thế võ cận chiến bắt nguồn từ Vương Quốc Cổ Đại (柔術) |
+| Vampire Eye | Vampire Eyes; vampire eyes | Mắt Ma Cà Rồng | kỹ năng | 165 | Cách Rentt gọi thị lực cường hóa nhận diện sinh mệnh nhờ thể chất ma cà rồng |
