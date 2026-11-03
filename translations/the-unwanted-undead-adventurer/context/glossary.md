@@ -330,3 +330,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Winged folk | winged folk | Tộc Có Cánh | chủng tộc | 166 | Chủng tộc thú nhân mang đôi cánh sau lưng (翼人種) |
 | Lich | lich; liches; Liches | Lich | quái vật | 167 | Undead dạng pháp sư xương khô sở hữu sự bất tử thông qua nghi thức ma pháp (リッチ) |
 | divinity-mana-spirit fusion | Divinity-mana-spirit fusion | Thần Ma Khí Dung Hợp Thuật | kỹ năng | 168 | Kỹ thuật dung hợp đồng thời cả ba nguồn năng lượng Thần Lực, Ma Lực và Khí Lực |
+| evil god | evil gods | tà thần | khác | 169 | Thần linh tà ác đối nghịch với thiện thần, ban phát năng lượng thần lực tương tự thiện thần |

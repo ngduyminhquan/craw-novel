@@ -998,3 +998,9 @@ Rentt khẳng định mục tiêu trở thành mạo hiểm giả Mithril Cấp 
 Gharb to nhỏ với Lorraine khiến Capitan kể lại trải nghiệm nhớ đời khi chõ mũi vào chuyện phụ nữ; Gharb đề xuất Rentt và Lorraine ở lại làng Hathara một thời gian để truyền dạy các kỹ năng bí truyền bảo vệ ma pháp trận dịch chuyển cùng tài liệu cổ ngữ về cổ thành.
 Nhóm quay về làng đổi vũ khí rồi trở lại rừng; Lorraine tách ra theo học ma thuật cổ xưa của Gharb, còn Capitan nhận lời kèm cặp các kỹ thuật vận dụng Khí Lực cho Rentt.
 Rentt biểu diễn Ma Khí Dung Hợp Thuật chém nổ thân cây để Capitan đánh giá thực lực, đồng thời giải thích về Thần Ma Khí Dung Hợp Thuật kết hợp cả ba nguồn năng lượng từng phá nát dao săn của Capitan.
+
+## 169
+Laura Latuule tiếp một cậu bé tộc Ma Cà Rồng trốn khỏi làng lên Maalt đòi chứng minh sự tồn tại; cô trao thuốc Hoa Long Huyết giúp kiềm chế cơn khát, cảnh báo về Nive Maris đang lùng sục và mời cậu tạm trú tại dinh thự.
+Isaac và Laura nghi ngờ cậu bé không dính líu đến các vụ mạo hiểm giả mất tích gần đây và suy đoán có thể còn kẻ khác cùng tộc ở Maalt.
+Tại rừng Hathara, Capitan tiếc nuối vì không thể dạy Rentt Thần Ma Khí Dung Hợp Thuật do bản thân không có Ma Lực hay Thần Lực; hai người đàm đạo về cơ duyên nhận ân phước thần linh cùng nguồn gốc Ma Lực của dân làng Hathara.
+Capitan nhận dạy Rentt kỹ năng Khí Lực nâng cao từng dùng trong trận đấu và khẳng định với nền tảng 10 năm cùng lượng Khí Lực tăng vọt hiện tại, Rentt hoàn toàn có thể nắm bắt chỉ trong vài tuần hoặc vài ngày.
