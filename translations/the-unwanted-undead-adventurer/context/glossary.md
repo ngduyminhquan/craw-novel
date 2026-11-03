@@ -329,7 +329,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Daris’s Island | Daris's Island | Đảo Daris | địa danh | 163 | Hòn đảo thuộc Cộng Hòa Thorn có ma pháp trận dịch chuyển |
 | jujutsu |  | Nhu thuật | kỹ năng | 164 | Thế võ cận chiến bắt nguồn từ Vương Quốc Cổ Đại (柔術) |
 | Vampire Eye | Vampire Eyes; vampire eyes | Mắt Ma Cà Rồng | kỹ năng | 165 | Cách Rentt gọi thị lực cường hóa nhận diện sinh mệnh nhờ thể chất ma cà rồng |
-| beastfolk |  | thú nhân | chủng tộc | 53 | Chủng tộc mang đặc điểm thú có tri thức chứ không phải quái vật (獣人) |
+| beastfolk | beast-folk; beastmen | thú nhân | chủng tộc | 53 | Chủng tộc mang đặc điểm thú có tri thức chứ không phải quái vật (獣人) |
 | Winged folk | winged folk | Tộc Có Cánh | chủng tộc | 166 | Chủng tộc thú nhân mang đôi cánh sau lưng (翼人種) |
 | Lich | lich; liches; Liches | Lich | quái vật | 167 | Undead dạng pháp sư xương khô sở hữu sự bất tử thông qua nghi thức ma pháp (リッチ) |
 | Lindblum | lindblum; Lindblums; lindblums | Lindblum | quái vật | 172 | Phân loài Á Long sao chổi có cánh lớn và tốc độ bay cực nhanh (リンドヴルム) |
@@ -370,3 +370,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | God of Alchemy |  | Thần Giả Kim | danh hiệu | 198 | Danh xưng thần thánh của Dayla, vị thần được Giáo Hội Giả Kim tôn thờ |
 | Dampir | dampir; dampirs; dhampir; dhampirs | Dampir | chủng tộc | 199 | Con lai giữa Ma Cà Rồng và con người (ダンピール) |
 | Imperial Knight | Imperial Knights; imperial knight; imperial knights | Kỵ Sĩ Đế Quốc | chức nghiệp | 200 | Kỵ sĩ phụng sự Đế Quốc Rermutt (帝国騎士) |
+| pseudo-vampire | pseudo-vampires | bán Ma Cà Rồng | chủng tộc | 200 | Dạng tồn tại chưa phải Ma Cà Rồng hoàn chỉnh (dạng chuyển tiếp/gần giống Ma Cà Rồng) |
+| avian | avians | điểu nhân | chủng tộc | 201 | Phân loài thú nhân mang đặc điểm loài chim (鳥人) |
+| dragon-folk | dragonfolk; dragon-person; vampire-dragon-folk | Long Tộc | chủng tộc | 201 | Chủng tộc thú nhân mang đặc điểm của rồng, cực kỳ hiếm gặp và tinh thông Khí Lực (竜人種) |

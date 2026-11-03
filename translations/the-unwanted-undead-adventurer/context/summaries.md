@@ -1186,6 +1186,12 @@ Isaac giải thích về mối liên kết giữa chủ nhân và quyến thuộ
 Dưới sự hướng dẫn của chú chuột Edel, Rina học được cách rút Ma Lực và Thần Lực từ Rentt để nuôi dưỡng đám cỏ dại trong sân mà không hề bị tổn thương hay khó chịu trước Thần Lực như Isaac.
 Rentt thử thanh tẩy khiến đám cỏ dại mọc cao vọt ngậm Thần Lực và được Isaac giữ lại cho sở thích sưu tập ma cụ của Laura; Rina thử rút Khí Lực từ Rentt nhưng thất bại do chưa từng qua rèn luyện, và Rentt dự định sẽ chỉ dạy thêm cho cô.
 
+## 201
+Lorraine đề nghị Rentt kiểm tra đôi cánh; khi bung ra, đôi cánh mọc lớn vượt quá chiều cao của anh, phủ vảy xanh xỉn và màng đỏ trông như cánh rồng khiến mọi người trầm trồ.
+Isaac tiết lộ về Long Tộc (chủng tộc thú nhân bậc cao dùng Khí Lực sở hữu cánh tương tự) và khuyên Rentt không nên tùy tiện lộ cánh hay tiếp cận họ vì lòng kiêu hãnh của họ; Rentt quyết định sẽ sớm tìm đến Thần Giám Định để làm rõ chủng tộc và chiếc mặt nạ của mình.
+Sau khi thử nghiệm xong, cả nhóm bàn bạc về tình hình mê cung dưới thành phố đã ngừng bành trướng nhờ Laura Latuule kiểm soát Lõi Mê Cung, cũng như việc giữ kín thân phận Chủ Nhân Mê Cung và Ma Cà Rồng của Laura trước Hội Mạo Hiểm Giả và Nive Maris.
+Nhóm thống nhất kịch bản báo cáo với Hội Trưởng Wolf: Rentt đã đánh bại Shumini khiến dị biến chấm dứt, còn Rina tình cờ được giải cứu sau khi bị bắt cóc; cả nhóm chuẩn bị cùng nhau đến Hội trình báo.
+
 
 
 

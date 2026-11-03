@@ -135,6 +135,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 196: Tỉnh lại tại dinh thự gia tộc Latuule sau khi hoàn tất Tiến Hóa Bản Thể (nhờ máu của Laura); cơ thể nhẹ nhõm và dẻo dai hơn, sức mạnh thể chất gia tăng đáng kể đến mức vô tình bóp nát quả đấm cửa gỗ quý giá nhưng chưa kiểm chứng được toàn diện năng lực mới.
 - Trạng thái tính đến chương 197: Được Isaac giải thích bản thân không hề phát ra khí tức Ma Cà Rồng thông thường mà có thể là phân loài gần gũi, khuyên nên thỉnh cầu Thần Giám Định và tự mình du hành khắp nơi tìm hiểu các truyền thuyết đền thờ cổ xưa; cùng Lorraine và Rina chuẩn bị ra vườn dinh thự Latuule để Isaac kiểm tra thực lực và chỉ dạy kỹ năng Ma Cà Rồng.
 - Trạng thái tính đến chương 199: Kiểm tra thể lực và ma lực tại sân dinh thự Latuule; dễ dàng bóp nát đá bằng tay trần; lượng Ma Lực tăng vọt gấp khoảng 150 lần thời còn sống, đạt tầm mạo hiểm giả Kim Cấp, khiến câu chú Aliumage bùng phát thành cột lửa khổng lồ suýt thiêu rụi mê cung cây bụi.
+- Trạng thái tính đến chương 201: Đôi cánh sau lưng biến đổi to lớn vượt quá chiều cao cơ thể, phủ vảy xanh xỉn và màng đỏ giống cánh rồng; được Isaac gán tên tạm thời là "Ma Cà Rồng Long Tộc"; cùng Lorraine, Isaac và Rina thống nhất kịch bản báo cáo cho Hội Trưởng Wolf về việc tiêu diệt Shumini và giải cứu Rina để che giấu việc Laura kiểm soát Lõi Mê Cung.
 
 ### Rina Rupaage
 - Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ rẻ tiền.
@@ -149,6 +150,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 196: Tỉnh lại bình an tại dinh thự gia tộc Latuule trong trang phục quý phái và được Isaac tiếp đãi chu đáo; dù đã biết mình biến thành Ma Cà Rồng và thỉnh thoảng thấy con người như thức ăn nhưng vẫn giữ được tâm lý tích cực, vui mừng nhảy vào lòng Rentt khi gặp lại.
 - Trạng thái tính đến chương 197: Bất ngờ khi nghe Isaac cho biết cô cũng không phát ra khí tức Ma Cà Rồng bình thường (nhờ nhận máu từ Rentt); ngây thơ thú nhận thấy con người trông ngon mắt và được Rentt tự nhủ phải căn dặn cẩn thận.
 - Trạng thái tính đến chương 199: Dễ dàng bóp nát đá bằng tay trần, được Isaac nhận định sức mạnh tương đương Hạ Cấp Ma Cà Rồng; trở nên thân thiết, thoải mái với Lorraine (được xem như em gái kiêm chuột bạch); tỏ ra bình thản trước thân phận Ma Cà Rồng và cảm thấy cảm xúc phẳng lặng hơn trước.
+- Trạng thái tính đến chương 201: Tiết lộ nguyên nhân bị Shumini bắt giữ là do đi tìm hai đồng đội Raiz và Laura Satii mất tích; thống nhất sẽ báo cáo với Hội theo kịch bản được giải cứu sau khi bị bắt để che giấu thân phận Ma Cà Rồng.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -317,6 +319,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 193: Cùng Laura và nhóm Rentt xuống cống ngầm; khẳng định Laura mạnh hơn mình rất nhiều; trước khi vào phòng Chủ Nhân Mê Cung đối đầu Shumini, Isaac bày tỏ mong muốn tự tay tiễn gã xuống mồ nhưng dặn mọi người không cần nương tay để nhường đòn kết liễu cho mình.
 - Trạng thái tính đến chương 194: Cùng Rentt, Lorraine và Laura phối hợp chiến đấu tiêu diệt quái vật cá sấu khổng lồ Shumini; bị ma pháp diện rộng Địa Ngục Hỏa thiêu rụi thành xác than nhưng nhanh chóng tự tái tạo hoàn nguyên; tự tay vung đại kiếm chém đôi khuôn mặt Shumini để tiễn đưa bạn cũ trong thanh thản, rồi cùng nhóm tiếp tục tiến sâu vào tìm Lõi Mê Cung.
 - Trạng thái tính đến chương 195: Được xác nhận là Ma Cà Rồng; lao tới đỡ lấy Laura khi cô bé kiệt sức ngất đi sau khi hấp thụ Lõi Mê Cung thứ tư; giải thích cho Rentt và Lorraine về giới hạn của Laura và báo cho Rentt biết anh đang bắt đầu Tiến Hóa Bản Thể.
+- Trạng thái tính đến chương 201: Tiết lộ từng chạm trán và đụng độ chiến đấu với Long Tộc trong quá khứ khi tranh chấp quyền sở hữu đồ vật; khuyên Rentt cẩn trọng che giấu đôi cánh rồng và gợi ý thỉnh cầu Thần Giám Định; cùng nhóm Rentt thống nhất kịch bản báo cáo với Hội Trưởng Wolf để giữ bí mật thân phận cho Laura Latuule.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.

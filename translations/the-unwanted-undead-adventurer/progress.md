@@ -205,7 +205,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 198 |  | Chapter_198 - Vol 8 Side Story - Vengeance and the Subconscious.txt | Vol 8 Side Story - Vengeance and the Subconscious | reviewed |  |
 | 199 |  | Chapter_199 - Vol 9 Chapter 1 - Evaluating Abilities (1).txt | Vol 9 Chapter 1 - Evaluating Abilities (1) | done |  |
 | 200 |  | Chapter_200 - Vol 9 Chapter 1 - Evaluating Abilities (2).txt | Vol 9 Chapter 1 - Evaluating Abilities (2) | done |  |
-| 201 |  | Chapter_201 - Vol 9 Chapter 1 - Evaluating Abilities (3).txt | Vol 9 Chapter 1 - Evaluating Abilities (3) | todo |  |
+| 201 |  | Chapter_201 - Vol 9 Chapter 1 - Evaluating Abilities (3).txt | Vol 9 Chapter 1 - Evaluating Abilities (3) | done |  |
 | 202 |  | Chapter_202 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (1) | todo |  |
 | 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | todo |  |
 | 204 |  | Chapter_204 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3) | todo |  |
@@ -808,3 +808,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#199] Thuật ngữ 'dampir' (chủng tộc con lai giữa Ma Cà Rồng và người): tạm dịch 'Dampir' để tránh lặp từ với 'half-vampire, half-human children' (phương án khác: 'Bán Ma Cà Rồng'). → Chốt giữ nguyên 'Dampir' (tương tự Elf, Goblin, Slime, Tarasque) để tránh lặp chữ trong câu giải thích 'nửa dòng máu ma cà rồng, nửa dòng máu con người—Dampir'. (orchestrator)
 - [#199] Xưng hô giữa Lorraine Vivie và Rina Rupaage: tạm chọn Lorraine xưng 'tôi', gọi 'cô / Rina'; Rina xưng 'tôi', gọi 'chị / chị Lorraine' (phương án khác: Lorraine xưng 'chị', gọi 'em / Rina'; Rina xưng 'em'). → Chốt Lorraine xưng 'tôi', gọi 'cô / Rina'; Rina xưng 'tôi', gọi 'chị / chị Lorraine' (đồng bộ với cách Rentt gọi Rina là 'tôi - cô / Rina' và Rina gọi Rentt là 'tôi - anh Rentt'). (orchestrator)
 - [#200] Dịch 'Imperial Knights' — tạm chọn 'Kỵ Sĩ Đế Quốc' (phương án khác: 'Đế Quốc Kỵ Sĩ') → Chốt 'Kỵ Sĩ Đế Quốc' theo đúng trật tự từ Hán Việt tự nhiên (đối xứng với 'kỵ sĩ Yaaran' trong cùng câu thoại và 'Kỵ Sĩ Phản Nghịch' trong glossary.md). (orchestrator)
+- [#201] Dịch 'dragon-folk' thành 'Long Tộc' và 'vampire-dragon-folk' thành 'Ma Cà Rồng Long Tộc' (phương án khác: 'Long Nhân', 'Thú Nhân Rồng'); dịch 'avians' thành 'điểu nhân' — tạm chọn 'Long Tộc', 'Ma Cà Rồng Long Tộc', 'điểu nhân'. → Chốt 'dragon-folk' -> 'Long Tộc', 'vampire-dragon-folk' -> 'Ma Cà Rồng Long Tộc' và 'avians' -> 'điểu nhân' theo đúng quy tắc Hán Việt ngắn gọn và đồng bộ với các chủng tộc thú nhân trong glossary.md. (orchestrator)
