@@ -226,7 +226,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 219 |  | Chapter_219 - Vol 9 Bonus - The Princess’s Table.txt | Vol 9 Bonus - The Princess’s Table | reviewed |  |
 | 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | done |  |
 | 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | done |  |
-| 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | todo |  |
+| 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | done |  |
 | 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | todo |  |
 | 224 |  | Chapter_224 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4) | todo |  |
 | 225 |  | Chapter_225 - Vol 10 Side Story - Meanwhile, Back in Maalt.txt | Vol 10 Side Story - Meanwhile, Back in Maalt | todo |  |
@@ -850,3 +850,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#221] Dịch tên nhân vật mới 'Jean Seebeck' (Grand Guildmaster of Yaaran) — tạm giữ nguyên phiên âm phương Tây 'Jean Seebeck' và thêm vào characters.md theo rules.md (phương án khác: Jean Sebeck). Tạm dùng trong bản dịch: 'Jean Seebeck'. → Dùng 'Jean Seebeck' (orchestrator)
 - [#221] Dịch tước xưng 'Her Highness' trong việc cần làm ('visiting the palace for an audience with Her Highness') — tạm dịch là 'Điện Hạ' (chỉ Nhị Công Chúa Jia Regina Yaaran từng được cứu ở arc Vương Đô tập 7, đồng thời giải thích lý do cần rủ Augurey cùng vào hoàng cung). Tạm dùng trong bản dịch: 'Điện Hạ'. → Dùng 'Điện Hạ' (orchestrator)
 - [#221] Danh xưng kính cẩn 'Master Wolf' mà nữ tiếp tân Hội Vistelya gọi Wolf Hermann — tạm dịch là 'ngài Wolf' (thay vì thêm vào Alias của Wolf Hermann làm loãng context). Tạm dùng trong bản dịch: 'ngài Wolf'. → Dùng 'ngài Wolf' (orchestrator)
+- [#222] Phẩm trật tôn giáo Giáo Hội Đông Thiên: 'Archimandrite' tạm dịch là 'Đại Tăng Viện Trưởng', 'abbot/Abbess' là 'Tu Viện Trưởng / Nữ Tu Viện Trưởng', 'Mother Elza' là 'Mẹ Elza' (phương án khác: 'Tổng Giám Viện Trưởng', 'Viện Mẫu Elza'). → Dùng 'Archimandrite' là 'Đại Tăng Viện Trưởng', 'abbot/Abbess' là 'Tu Viện Trưởng / Nữ Tu Viện Trưởng', 'Mother Elza' là 'Mẹ Elza' (orchestrator)

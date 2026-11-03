@@ -113,6 +113,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Gerge |  | Gerge | Học sinh lớp học tư thục ở Maalt, người chạy đi báo tin và tìm Lorraine | #217 |
 | Frahe |  | Frahe | Thiếu gia khoảng 10 tuổi thuộc gia tộc Muze ở Maalt, rất ngưỡng mộ Isaac | #218 |
 | Jean Seebeck |  | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran | #221 |
+| Elza | Abbess Elza; Mother Elza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
 
 ## Chi tiết
 
@@ -725,5 +726,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran tại vương đô Vistelya.
 - Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221).
 - Xuất hiện từ: #221.
+
+### Elza
+- Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran.
+- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt.
+- Xuất hiện từ: #222.
+
 
 

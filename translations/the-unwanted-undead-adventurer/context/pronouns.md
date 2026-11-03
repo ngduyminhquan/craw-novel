@@ -89,6 +89,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jad | Jad / thằng bé / đứa trẻ | 217 | Học sinh lớp học tư thục ở Maalt, tính tình hấp tấp hay gây rắc rối |
 | Gerge | Gerge / cậu bé / thằng bé | 217 | Học sinh lớp học tư thục ở Maalt, bạn học của Jad |
 | Frahe | Frahe / cậu bé / đứa trẻ | 218 | Thiếu gia nhỏ tuổi của gia tộc Muze |
+| Jean Seebeck | Jean Seebeck / Tổng Hội Trưởng Jean Seebeck / ông lão / ông | 221 | Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran |
+| Elza | Elza / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 222 | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas thuộc Giáo Hội Đông Thiên |
 
 ## Giữa các nhân vật
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T13:22:54Z",
+  "generatedAt": "2026-11-03T13:29:04Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3479,6 +3479,12 @@
           "title": "Chương 221: Tập 10 Chương 1 - Vương Đô và Giáo Hội Đông Thiên (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_221.md",
           "sha": "93bc41bac729093896a28cf4c93c446acb18a25e"
+        },
+        {
+          "number": 222,
+          "title": "Chương 222: Tập 10 Chương 1 - Vương Đô và Giáo Hội Đông Thiên (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_222.md",
+          "sha": "cba1add6de83cc4d82f050635a72c23320437a39"
         }
       ]
     },

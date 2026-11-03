@@ -397,3 +397,13 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ancient City | the Ancient City; ancient city | Thành Phố Cổ Đại | địa danh | 216 | Tàn tích đô thị cổ xưa thời Vương Quốc Cổ Đại dưới lòng đất nối với ma pháp trận dịch chuyển |
 | Mimic | mimic; mimics; Mimics | Mimic | quái vật | 217 | Quái vật chuyên giả dạng hình người để hút cạn sinh lực con mồi (ミミック) |
 | Muze Family | the Muze Family; the Muzes; Muzes; Muze | Gia tộc Muze | tổ chức | 218 | Một trong những gia tộc lớn đầy quyền thế có chân trong hội đồng thị trấn Maalt (ミューズ家) |
+| Angel of the East |  | Thiên Sứ Phương Đông | khác | 222 | Vị thiên sứ được tôn thờ trong Giáo Hội Đông Thiên (東天の天使 / 東方天使) |
+| Archimandrite |  | Đại Tăng Viện Trưởng | chức nghiệp | 222 | Phẩm trật cao nhất trong hệ thống giáo phẩm của Giáo Hội Đông Thiên |
+| Archabbot |  | Đại Tu Viện Trưởng | chức nghiệp | 222 | Người đứng đầu tu viện tối cao, phẩm trật tương đương Đại Giáo Phụ hay Giáo Hoàng |
+| abbot | abbots | Tu Viện Trưởng | chức nghiệp | 222 | Phẩm trật cao cấp của Giáo Hội Đông Thiên, tương đương giám mục hoặc hồng y |
+| Abbess | abbess | Nữ Tu Viện Trưởng | chức nghiệp | 222 | Phẩm trật của người phụ trách tu viện nữ hoặc nữ tu cấp cao trong Giáo Hội Đông Thiên |
+| prior | priors | Phó Tu Viện Trưởng | chức nghiệp | 222 | Phẩm trật giáo phẩm đứng dưới Tu Viện Trưởng trong Giáo Hội Đông Thiên |
+| canon | canons | Kinh Sĩ | chức nghiệp | 222 | Phẩm trật giáo chức trong hệ thống phẩm trật của Giáo Hội Đông Thiên |
+| Ephas Abbey |  | Tu Viện Ephas | địa danh | 222 | Tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran |
+| Yaaran Abbey | Yaaran Abbey of the Eastern Sky | Tu Viện Yaaran | địa danh | 222 | Tên gọi tu viện của Giáo Hội Đông Thiên tại Vương Quốc Yaaran |
+| Mother |  | Mẹ | khác | 222 | Danh xưng tôn kính của giáo hội dành cho nữ viện trưởng (như Mother Elza) |
