@@ -164,7 +164,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | reviewed |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | reviewed |  |
 | 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | reviewed |  |
-| 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | todo |  |
+| 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | done |  |
 | 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | todo |  |
 | 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | todo |  |
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -731,3 +732,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#158] Dịch 'unicorn' (thú kéo xe quý hiếm) — tạm chọn 'kỳ lân' (nhất quán với #67 và #157; phương án khác: giữ nguyên 'Unicorn', 'ngựa một sừng'). → Chốt kỳ lân (nhất quán với chương 67 và 157) (orchestrator)
 - [#159] Dịch danh hiệu 'God of Contracts' và nữ thần 'Hozei' — tạm chọn 'Thần Khế Ước' và 'Hozei' (phương án khác: 'Nữ Thần Khế Ước'). → Chốt Thần Khế Ước và Hozei (orchestrator)
 - [#159] Tên thức uống 'arouzal' và nguyên liệu 'kazuki grass', 'loa' — tạm chọn giữ nguyên 'arouzal', dịch 'cỏ kazuki' và 'hạt loa' (phương án khác: 'đậu loa'). → Chốt arouzal, cỏ kazuki và hạt loa (orchestrator)
+- [#160] Cụm từ "human spirit" ở đoạn 42: tạm dịch là "nhân tính con người" theo ngữ cảnh Rentt giữ được bản tính con người dù thân xác là ma vật (phương án khác: "tinh thần con người"; không dùng thuật ngữ "Khí Lực"). → Giữ "nhân tính con người" theo ngữ cảnh thông thường (tâm tính con người), không phải thuật ngữ Khí Lực. (orchestrator)

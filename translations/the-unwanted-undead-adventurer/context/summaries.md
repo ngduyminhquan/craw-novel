@@ -944,3 +944,9 @@ Rentt và Lorraine đến điểm hẹn tại một quán nhỏ trong hẻm vắ
 Trong lúc tán gẫu sau bữa ăn, Augurey dùng mẹo gọi tên "Rentt" và vạch trần thân phận cải trang của Rentt nhờ nhận diện phong cách kiếm thuật bài bản; Lorraine cũng thừa nhận danh tính và Rentt giải thích họ chỉ đến vương đô tham quan mà không thể để lại hồ sơ.
 Hiểu được mối nguy hiểm liên đới nếu thông tin bị rò rỉ, Augurey đề xuất cả nhóm lập một khế ước ma pháp chất lượng cao để đảm bảo giữ bí mật tuyệt đối.
 Cả ba cùng đến ngôi đền đồ sộ thờ Nữ Thần Khế Ước Hozei; Rentt dâng cúng lễ vật và nhận từ vị tư tế một tấm giấy da chứa Thần Lực mang sự ban phước của Hozei trong căn phòng cách âm.
+
+## 160
+Trong căn phòng cách âm tại đền thờ Hozei, Lorraine đe dọa buộc Augurey phải nghiêm túc ký khế ước ma pháp trước khi nghe toàn bộ bí mật, và cả hai thống nhất sẽ giấu kín chuyện ma pháp trận dịch chuyển kết nối với Gharb và Capitan.
+Augurey tiết lộ trước khi rời Maalt từng tìm được đoàn buôn và định rủ Rentt cùng lên vương đô nhưng Rentt mất tích; anh hết lời khen ngợi kiếm thuật cùng thực lực vượt bậc của Rentt đã đủ sức vượt qua kỳ thi Ngân Cấp.
+Rentt quyết định nói thẳng sự thật mình đã bị rồng nuốt chửng rồi biến thành Undead (từ Khô Lâu tiến hóa thành Ma Cà Rồng), đồng thời tự cào rách tay biểu diễn khả năng tự hồi phục vết thương tức thì trước mắt Augurey.
+Không hề tỏ ra sợ hãi hay ghê tởm, Augurey thấu hiểu và khẳng định vẫn luôn xem Rentt là bạn; anh tò mò hỏi về chuyện hút máu và thậm chí còn vui vẻ đề nghị sẵn lòng chia sẻ máu của mình cho Rentt nếu cần.
