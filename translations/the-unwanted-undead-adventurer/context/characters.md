@@ -259,6 +259,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Mắc Bệnh Tích Tụ Chướng Khí do sử dụng Thần Lực lâu năm, tính tình thanh bần kiên quyết không chịu bỏ tiền chữa trị; đang được Alize lén tìm cách chữa trị bằng Hoa Long Huyết.
 - Trạng thái tính đến chương 75: Biết được thiên phú ma thuật của Alize và tôn trọng ước mơ làm mạo hiểm giả của cô bé; được Unbert chẩn đoán chính thức mắc Bệnh Tích Tụ Chướng Khí và trấn an rằng bệnh sẽ được chữa khỏi.
 - Trạng thái tính đến chương 76: Đã uống liều thuốc Hoa Long Huyết đầu tiên do Norman và Unbert mang tới; cơ thể nhẹ nhõm, Thần Lực bước đầu hồi phục; xúc động trước tấm lòng của Rentt và đám trẻ; ban phước và ưng thuận cho Alize theo học ma thuật lẫn nghề mạo hiểm giả với Rentt và Lorraine.
+- Quá khứ (tính đến chương 224): Từng là nữ tu kiêm Thánh Giả đầy triển vọng của Tu Viện Ephas từ năm 15 tuổi, bị điều chuyển tới Maalt khoảng 10 năm trước do mâu thuẫn nội bộ trong Giáo Hội; sau đó chủ động cắt đứt liên lạc với Elza để tránh gây rắc rối cho bạn (#224).
 
 ### Alize
 - Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12 tuổi, tóc ngắn gọn gàng, phong thái tao nhã dù sống nghèo ở cô nhi viện. Không có họ.
@@ -730,7 +731,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Elza
 - Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
-- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả).
+- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả). Từng là bạn bè quen biết Lillian từ thời trẻ tại Tu Viện Ephas; luôn cảm thấy áy náy vì Lillian phải rời đi do xung đột nội bộ Giáo Hội (#224).
 - Xuất hiện từ: #222.
 
 

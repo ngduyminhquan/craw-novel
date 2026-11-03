@@ -1320,5 +1320,11 @@ Nữ Tu Viện Trưởng Elza Olgado xuất hiện với vẻ ngoài trẻ trung
 Elza ngâm xướng thánh chú của Giáo Hội Đông Thiên khiến bức thư phát ra ánh sáng Thần Lực cộng hưởng, hóa giải phong ấn chúc phúc bằng sáp thành tro bụi.
 Lorraine giải thích về cơ chế chúc phúc phong ấn của giáo sĩ cấp cao; Elza xác nhận và tiết lộ Sơ Lillian đã mất khả năng dùng Thần Lực từ nhiều năm trước, nên đây là lần đầu sau ngần ấy năm sơ mới lại gửi một bức thư phong ấn bằng Thần Lực như thế này.
 
+## 224
+Nữ Tu Viện Trưởng Elza tiết lộ Sơ Lillian từng là nữ tu kiêm Thánh Giả triển vọng tại Tu Viện Ephas mười năm trước, nhưng phải chuyển tới Maalt do mâu thuẫn nội bộ trong Giáo Hội; sơ nhờ nhóm Rentt nhận ủy thác chuyển thư hồi đáp khi quay về Maalt.
+Rentt và Lorraine quyên góp cho tu viện rồi rời đi, bàn kế hoạch mua quà lưu niệm cho mọi người (chờ trước khi về) và chuẩn bị yết kiến Điện Hạ Jia Regina Yaaran.
+Rentt kiểm tra lại tấm huân chương nhận diện của Nauss Ancro; Lorraine tiết lộ đã mượn một chú chuột Puchi Suri thuộc hạ của Edel, giao ma cụ ngụy trang của Gia tộc Latuule cho nó lẻn vào khu quý tộc trước để kiểm tra lưới dò tìm của hoàng cung nhằm đổi lấy việc lắp ma cụ điều nhiệt ở tầng hầm cô nhi viện.
+Cả hai quyết định tới quán trọ của Augurey để rủ anh cùng vào hoàng cung.
+
 
 

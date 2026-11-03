@@ -106,7 +106,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Church of the Eastern Sky | Eastern Sky; The Eastern Heaven Sect; Eastern Heaven Sect | Giáo Hội Đông Thiên | tổ chức | 48 | Tổ chức tôn giáo ôn hòa, thanh bần tại Yaaran, tôn thờ thiên sứ giáng trần ở phía đông (東天教会) |
 | Second Orphanage of Maalt | Second Orphanage; the Second Orphanage | Cô Nhi Viện Thứ Hai Maalt | địa danh | 48 | Cơ sở nuôi dưỡng trẻ mồ côi do Giáo Hội Đông Thiên điều hành tại Maalt |
 | First Orphanage of Maalt | First Orphanage; the First Orphanage | Cô Nhi Viện Thứ Nhất Maalt | địa danh | 49 | Cơ sở nuôi dưỡng trẻ mồ côi thứ nhất tại Maalt |
-| Accumulative Miasma Disease | Accumulated Miasma | Bệnh Tích Tụ Chướng Khí | khác | 50 | Chứng bệnh suy nhược do cơ thể tích tụ chướng khí mỗi khi vận dụng Thần Lực (蓄積瘴気病) |
+| Accumulative Miasma Disease | Accumulated Miasma; accumulative malice disease | Bệnh Tích Tụ Chướng Khí | khác | 50 | Chứng bệnh suy nhược do cơ thể tích tụ chướng khí mỗi khi vận dụng Thần Lực (蓄積瘴気病) |
 | Swamp of Tarasque | Tarasque Swamp | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
 | monster tamer | monster tamers | người thuần hóa quái vật | chức nghiệp | 13 | Người sở hữu ma pháp chi phối tâm trí để thuần hóa và điều khiển quái vật (魔物使い) |
@@ -123,7 +123,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | healer | healers | thầy trị liệu | chức nghiệp | 50 | Người hành nghề chữa trị, trị liệu bệnh tật vết thương |
 | herbalist | herbalists | dược sư | chức nghiệp | 41 | Người tinh thông cây thuốc, thu hái và bào chế thảo dược |
 | Magecraft |  | ma thuật | kỹ năng | 60 | Nghệ thuật sử dụng Ma Lực thi triển các phép thuật huyền bí (魔術) |
-| Latuule Family | the Latuule Family; the Latuules; Latuules; Latuule | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
+| Latuule Family | the Latuule Family; the Latuules; Latuules; Latuule; House Latuule | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
 | Divine Tools | Divine Tool; divine item; divine items | Thần Cụ | vật phẩm | 62 | Phân loại ma cụ mang sức mạnh thần thánh hoặc tạo tác của thần linh (神具) |
 | Curiosities |  | Kỳ Cụ | vật phẩm | 62 | Phân loại ma cụ mang công năng kỳ lạ, độc nhất vô nhị (奇具/奇品) |
 | Cursed Artifacts | Cursed Artifact; cursed item; cursed items | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |
@@ -304,7 +304,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Michel’s Boutique | Michel's Boutique | Tiệm thời trang Michel | tổ chức | 156 | Tiệm thời trang tại vương đô Vistelya nơi Augurey đặt may trang phục |
 | All Flevne |  | Nhà hàng All Flevne | tổ chức | 156 | Nhà hàng sang trọng và đắt đỏ bậc nhất nằm trên trục phố chính ở Maalt |
 | fire spirit madder |  | thiến thảo hỏa tinh linh | vật phẩm | 156 | Thảo dược mọc trong rừng ven vương đô Vistelya, rễ khô cho ra màu nhuộm đỏ tươi |
-| Royal Guard | the Royal Guard; Royal Guard’s | Cận Vệ Hoàng Gia | tổ chức | 157 | Lực lượng kỵ sĩ tinh nhuệ bảo vệ hoàng gia thuộc Vương Quốc Yaaran |
+| Royal Guard | the Royal Guard; Royal Guard’s; Yaaran Royal Guard | Cận Vệ Hoàng Gia | tổ chức | 157 | Lực lượng kỵ sĩ tinh nhuệ bảo vệ hoàng gia thuộc Vương Quốc Yaaran |
 | Rock Wolf | Rock Wolves; rock wolf; rock wolves | Sói Đá | quái vật | 157 | Phân loài quái vật sói kích thước vượt trội Sói Rừng, có lớp đá bao bọc cơ thể như áo giáp |
 | Unicorn | Unicorns; unicorn; unicorns | kỳ lân | quái vật | 67 | Quái vật dạng ngựa trắng có sừng trên trán, tốc độ và sức bền vượt xa ngựa thường, tính khí thất thường khó thuần dưỡng (ユニコーン) |
 | His Majesty | Majesty | Bệ Hạ | danh hiệu | 158 | Danh xưng tôn kính dành cho Quốc Vương Yaaran |
@@ -408,3 +408,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Yaaran Abbey | Yaaran Abbey of the Eastern Sky | Tu Viện Yaaran | địa danh | 222 | Tên gọi tu viện của Giáo Hội Đông Thiên tại Vương Quốc Yaaran |
 | Mother |  | Mẹ | khác | 222 | Danh xưng tôn kính của giáo hội dành cho nữ viện trưởng (như Mother Elza) |
 | seal blessing |  | chúc phúc phong ấn | kỹ năng | 223 | Phép phong ấn thư từ/vật phẩm bằng Thần Lực của giáo sĩ cấp cao |
+| Her Highness | Highness; his Highness; His Highness | Điện Hạ | danh hiệu | 221 | Tôn xưng dành cho thành viên hoàng gia như hoàng tử, công chúa (殿下) |

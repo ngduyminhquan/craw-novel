@@ -88,3 +88,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#221) Xưng hô đối với Ingo Faina: Rentt trong lời dẫn chuyện và đối thoại luôn gọi là "cha tôi" hoặc "cha", không dùng "bố tôi".
 - (#221) Cụm từ "last resort": dịch là "giải pháp cuối cùng" hoặc "hạ sách", tránh ghép thừa từ thành "hạ sách cuối cùng".
 - (#222) Xưng hô đối với Sơ Lillian: luôn dùng "Sơ Lillian / sơ ấy / sơ" trong cả đối thoại lẫn lời dẫn chuyện, tránh dùng "cô ấy" gây suồng sã và thiếu tự nhiên với nữ tu lớn tuổi.
+- (#224) Cụm từ "accumulative malice disease": raw dùng thay thế cho "Accumulative Miasma Disease", dịch thống nhất là "Bệnh Tích Tụ Chướng Khí" theo glossary.md (tránh dịch lệch thành "bệnh tích tụ ác ý").
