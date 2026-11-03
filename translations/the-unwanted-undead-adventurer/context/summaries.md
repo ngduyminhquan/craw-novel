@@ -1125,6 +1125,13 @@ Nhóm mạo hiểm giả dưới đất bắn tên và phóng ma pháp tấn cô
 Nhận thấy không thể thuyết phục được nhau, cả hai rút Huyết Binh (San Arms) giao chiến quyết liệt; Isaac siết chặt chuôi kiếm để vũ khí hút máu mình, biến thanh kiếm liễu bạc thành đại kiếm đỏ thẫm rồi dốc toàn lực áp đảo và ngăn cản Shumini gây hại thêm cho thị trấn.
 Trước sự bủa vây liên tục của đám mạo hiểm giả, Isaac đề nghị và Shumini đồng ý cùng di chuyển tới một chiến trường biệt lập khác để định đoạt sinh tử.
 
+## 191
+Theo sự dẫn đường của Edel, Rentt và Lorraine tiến vào cống ngầm bí mật và kịp thời dùng ma pháp can thiệp giải cứu Isaac Hart đang thất thế trước tên đầu sỏ Shumini.
+Bị ba người bao vây và hay tin thuộc hạ ở Mê Cung Tân Nguyệt đều đã bị tiêu diệt, Shumini tự xưng danh hiệu Kỵ Sĩ Phản Nghịch phụng sự Đại Quân Chủ, kiên định với mộng tưởng tạo ra thế giới chỉ dành riêng cho Ma Cà Rồng.
+Thấy không thể lay chuyển Isaac, Shumini rút dao đen tự đâm vào ngực hiến tế bản thân; sau tiếng nổ lớn, gã biến dị thành quái vật khổng lồ hình dáng tương tự cá sấu mang khuôn mặt của chính mình ở bụng.
+Nhận định đối thủ quá nguy hiểm, Rentt, Lorraine và Isaac thống nhất tạm thời rút lui trong im lặng để báo cáo tình hình khẩn cấp cho Hội Mạo Hiểm Giả.
+
+
 
 
 

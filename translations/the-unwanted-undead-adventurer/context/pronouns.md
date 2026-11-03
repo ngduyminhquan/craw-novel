@@ -339,3 +339,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Myullias Raiza | tôi | cô | 188 | Mạo hiểm giả nói chuyện tự nhiên, bình đẳng với Thánh Nữ |
 | Isaac Hart | Shumini | tôi | cậu / Shumini | 190 | Hai người bạn chiến đấu cũ đối đầu nhau tại Maalt |
 | Shumini | Isaac Hart | tôi | cậu / Isaac | 190 | Hai người bạn chiến đấu cũ muốn lôi kéo Isaac quay lại |
+| Rentt Faina | Shumini | tôi | ngươi / gã / Shumini | 191 | Rentt đối đáp với Ma Cà Rồng đầu sỏ bạo loạn |
+| Shumini | Rentt Faina | ta | ngươi / con người | 191 | Ma Cà Rồng kiêu ngạo coi thường con người |

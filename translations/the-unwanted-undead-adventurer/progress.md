@@ -195,7 +195,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 188 |  | Chapter_188 - Vol 8 Chapter 2 - Where the Vampire Was (2).txt | Vol 8 Chapter 2 - Where the Vampire Was (2) | reviewed |  |
 | 189 |  | Chapter_189 - Vol 8 Chapter 2 - Where the Vampire Was (3).txt | Vol 8 Chapter 2 - Where the Vampire Was (3) | reviewed |  |
 | 190 |  | Chapter_190 - Vol 8 Side Story 2 - Isaac Hart.txt | Vol 8 Side Story 2 - Isaac Hart | done |  |
-| 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | todo |  |
+| 191 |  | Chapter_191 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (1) | done |  |
 | 192 |  | Chapter_192 - Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2).txt | Vol 8 Chapter 3 - The Vampire and the Silver-Haired Man (2) | todo |  |
 | 193 |  | Chapter_193 - Vol 8 Chapter 4 - Explanation and Resolution (1).txt | Vol 8 Chapter 4 - Explanation and Resolution (1) | todo |  |
 | 194 |  | Chapter_194 - Vol 8 Chapter 4 - Explanation and Resolution (2).txt | Vol 8 Chapter 4 - Explanation and Resolution (2) | todo |  |
@@ -786,3 +786,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#190] Tiêu đề 'Vol 8 Side Story 2 - Isaac Hart' — tạm chọn 'Ngoại truyện Tập 8 - Isaac Hart (2)' đồng bộ với #186 (phương án khác: 'Ngoại truyện 2 Tập 8 - Isaac Hart'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 8 - Isaac Hart (2)'. → Giữ 'Ngoại truyện Tập 8 - Isaac Hart (2)' đồng bộ với tiêu đề chương 186 ('Ngoại truyện Tập 8 - Isaac Hart (1)'). (orchestrator)
 - [#190] Dịch tên ma pháp 'Fire Storm' (đoạn 14) — tạm chọn 'Hỏa Bão' theo Hán Việt (phương án khác: 'Bão Lửa', 'Cuồng Lửa'). Tạm dùng trong bản dịch: 'Hỏa Bão'. → Giữ 'Hỏa Bão' (tên kỹ năng ma pháp Hán Việt ngắn gọn theo rules.md). (orchestrator)
 - [#190] Xưng hô bạn cũ Isaac Hart ↔ Shumini — tạm chọn cả hai xưng 'tôi' gọi 'cậu' (bạn chiến đấu cũ cùng thế hệ; phương án khác: 'tôi - anh' hoặc 'ta - ngươi'). Tạm dùng: cả hai xưng 'tôi' gọi 'cậu'. → Giữ cả hai xưng 'tôi' gọi 'cậu / Isaac / Shumini' (hai người bạn chiến đấu cũ cùng thế hệ gặp lại ở thế đối đầu nhưng vẫn nói chuyện như cố nhân). (orchestrator)
+- [#191] Dịch danh hiệu 'Great Sovereign' — tạm chọn 'Đại Quân Chủ' (phương án khác: 'Đại Chúa Tể', 'Đại Thống Trị Giả'). → Giữ 'Đại Quân Chủ' (và 'Sovereign → Quân Chủ' theo Hán Việt trang trọng cho danh hiệu người đứng đầu tổ chức Ma Cà Rồng). (orchestrator)
+- [#191] Dịch chức xưng 'Knight of Rebellion' — tạm chọn 'Kỵ Sĩ Phản Nghịch' (phương án khác: 'Hiệp Sĩ Khởi Nghĩa', 'Kỵ Sĩ Tạo Phản'). → Giữ 'Kỵ Sĩ Phản Nghịch' (nhất quán với cách dịch 'kỵ sĩ phản nghịch' của Isaac Hart ở chương 186). (orchestrator)

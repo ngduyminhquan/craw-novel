@@ -105,7 +105,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Second Orphanage of Maalt | Second Orphanage; the Second Orphanage | Cô Nhi Viện Thứ Hai Maalt | địa danh | 48 | Cơ sở nuôi dưỡng trẻ mồ côi do Giáo Hội Đông Thiên điều hành tại Maalt |
 | First Orphanage of Maalt | First Orphanage; the First Orphanage | Cô Nhi Viện Thứ Nhất Maalt | địa danh | 49 | Cơ sở nuôi dưỡng trẻ mồ côi thứ nhất tại Maalt |
 | Accumulative Miasma Disease | Accumulated Miasma | Bệnh Tích Tụ Chướng Khí | khác | 50 | Chứng bệnh suy nhược do cơ thể tích tụ chướng khí mỗi khi vận dụng Thần Lực (蓄積瘴気病) |
-| Swamp of Tarasque |  | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
+| Swamp of Tarasque | Tarasque Swamp | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
 | monster tamer | monster tamers | người thuần hóa quái vật | chức nghiệp | 13 | Người sở hữu ma pháp chi phối tâm trí để thuần hóa và điều khiển quái vật (魔物使い) |
 | familiar | familiars | quyến thuộc | khác | 50 | Sinh vật bị chi phối hoặc tạo ra từ máu của Ma Cà Rồng/Thi Quỷ (眷属). Từ đa nghĩa: khi dùng dạng tính từ ("familiar knocking sound", "familiar spell") dịch là "quen thuộc" |
@@ -353,3 +353,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | San Arms | San Arm | Huyết Binh | kỹ năng | 188 | Vũ khí màu đỏ tạo từ máu của Ma Cà Rồng (San Arms/サンアームズ) |
 | Fire Storm |  | Hỏa Bão | kỹ năng | 190 | Ma pháp hỏa hệ tạo bão lửa/cầu lửa thiêu đốt mục tiêu |
 | Heaven |  | Thiên Đường | địa danh | 188 | Cõi thiên đường theo quan niệm tôn giáo đối lập với Địa Ngục |
+| Great Sovereign |  | Đại Quân Chủ | danh hiệu | 191 | Lãnh tụ tối cao phe Ma Cà Rồng mà Shumini phụng sự |
+| Sovereign | Sovereigns | Quân Chủ | danh hiệu | 191 | Danh xưng chỉ bậc quân chủ/thống trị phe Ma Cà Rồng |
+| Knight of Rebellion | Knights of Rebellion | Kỵ Sĩ Phản Nghịch | chức nghiệp | 191 | Danh xưng chức vụ của Shumini phụng sự Đại Quân Chủ trong phe Ma Cà Rồng |

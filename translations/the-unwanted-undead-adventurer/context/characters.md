@@ -98,7 +98,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Liesse |  | Liesse | Nữ diễn viên chính của đoàn kịch lưu động đến Maalt | #179 |
 | Rota |  | Rota | Người phụ nữ trung niên xuất thân từ gia đình bình thường ở Maalt, thân chủ ủy thác dọn dẹp nhà thừa kế | #180 |
 | Tita Well | Tita | Tita Well | Mạo hiểm giả Thiết Cấp trẻ tuổi ở Maalt, bị biến thành Thi Quỷ và bị Wolf hạ sát | #184 |
-| Shumini | Mr. Shumini | Shumini | Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi | #187 |
+| Shumini | Mr. Shumini | Shumini | Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi (tên thật: Shumini Essel, #191) | #187 |
+| Shumini Essel |  | Shumini Essel | Tên đầy đủ của Shumini, Thượng Cấp Ma Cà Rồng kiêm Kỵ Sĩ Phản Nghịch | #191 |
 | Wugong |  | Wugong | Thiếu niên Ma Cà Rồng phục tùng Shumini, sử dụng Phân Liệt và Huyết Binh | #188 |
 | Jiziu |  | Jiziu | Thiếu nữ Ma Cà Rồng phục tùng Shumini, sử dụng Phân Liệt và Huyết Binh | #188 |
 
@@ -671,9 +672,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #180.
 
 ### Shumini
-- Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt và gây bạo loạn tại Maalt.
-- Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự. Tính đến chương 190, lộ diện là người bạn chiến đấu Ma Cà Rồng cũ của Isaac Hart thời thuộc phe "Đồng Minh"; tính tình cuồng sát, thích tiệc máu của con người và ưa thưởng thức sự tàn sát trong tĩnh lặng; sử dụng Huyết Binh dạng kiếm đỏ thẫm và ma pháp hủy diệt; tìm đến Maalt nhằm lôi kéo Isaac quay lại hoàn thành kế hoạch viển vông; khi bị Isaac từ chối đã quyết định dùng vũ lực khuất phục và đồng ý chuyển đến chiến trường biệt lập quyết đấu.
+- Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt và gây bạo loạn tại Maalt (tên đầy đủ: Shumini Essel, #191).
+- Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự. Tính đến chương 190, lộ diện là người bạn chiến đấu Ma Cà Rồng cũ của Isaac Hart thời thuộc phe "Đồng Minh"; tính tình cuồng sát, thích tiệc máu của con người và ưa thưởng thức sự tàn sát trong tĩnh lặng; sử dụng Huyết Binh dạng kiếm đỏ thẫm và ma pháp hủy diệt; tìm đến Maalt nhằm lôi kéo Isaac quay lại hoàn thành kế hoạch viển vông; khi bị Isaac từ chối đã quyết định dùng vũ lực khuất phục và đồng ý chuyển đến chiến trường biệt lập quyết đấu. Tính đến chương 191, tự xưng danh hiệu Kỵ Sĩ Phản Nghịch phụng sự Đại Quân Chủ; khi biết các thuộc hạ ở Mê Cung Tân Nguyệt đã bị tiêu diệt và Isaac từ chối, gã dùng dao đen tự đâm ngực hiến tế bản thân biến thành quái vật cá sấu khổng lồ.
 - Xuất hiện từ: #187.
+
+### Shumini Essel
+- Giới tính, vai trò: Nam, Thượng Cấp Ma Cà Rồng kiêm Kỵ Sĩ Phản Nghịch phục tùng Đại Quân Chủ (tên đầy đủ của Shumini).
+- Đặc điểm: Xem chi tiết tại mục Shumini (#187).
+- Xuất hiện từ: #191.
 
 ### Wugong
 - Giới tính, vai trò: Nam, thiếu niên Ma Cà Rồng phục tùng Shumini, kẻ bắt cóc các mạo hiểm giả tại Mê Cung Tân Nguyệt.
