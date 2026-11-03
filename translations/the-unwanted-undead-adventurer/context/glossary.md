@@ -407,3 +407,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ephas Abbey |  | Tu Viện Ephas | địa danh | 222 | Tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran |
 | Yaaran Abbey | Yaaran Abbey of the Eastern Sky | Tu Viện Yaaran | địa danh | 222 | Tên gọi tu viện của Giáo Hội Đông Thiên tại Vương Quốc Yaaran |
 | Mother |  | Mẹ | khác | 222 | Danh xưng tôn kính của giáo hội dành cho nữ viện trưởng (như Mother Elza) |
+| seal blessing |  | chúc phúc phong ấn | kỹ năng | 223 | Phép phong ấn thư từ/vật phẩm bằng Thần Lực của giáo sĩ cấp cao |

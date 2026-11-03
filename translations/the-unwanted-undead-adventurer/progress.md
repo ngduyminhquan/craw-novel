@@ -227,7 +227,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 220 |  | Chapter_220 - Vol 9 Bonus - The Manor During a Storm.txt | Vol 9 Bonus - The Manor During a Storm | reviewed |  |
 | 221 |  | Chapter_221 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (1) | reviewed |  |
 | 222 |  | Chapter_222 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (2) | reviewed |  |
-| 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | todo |  |
+| 223 |  | Chapter_223 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (3) | done |  |
 | 224 |  | Chapter_224 - Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4).txt | Vol 10 Chapter 1 - The Royal Capital and the Church of the Eastern Sky (4) | todo |  |
 | 225 |  | Chapter_225 - Vol 10 Side Story - Meanwhile, Back in Maalt.txt | Vol 10 Side Story - Meanwhile, Back in Maalt | todo |  |
 | 226 |  | Chapter_226 - Vol 10 Chapter 2 - To the Palace (1).txt | Vol 10 Chapter 2 - To the Palace (1) | todo |  |
@@ -852,3 +852,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#221] Danh xưng kính cẩn 'Master Wolf' mà nữ tiếp tân Hội Vistelya gọi Wolf Hermann — tạm dịch là 'ngài Wolf' (thay vì thêm vào Alias của Wolf Hermann làm loãng context). Tạm dùng trong bản dịch: 'ngài Wolf'. → Dùng 'ngài Wolf' (orchestrator)
 - [#222] Phẩm trật tôn giáo Giáo Hội Đông Thiên: 'Archimandrite' tạm dịch là 'Đại Tăng Viện Trưởng', 'abbot/Abbess' là 'Tu Viện Trưởng / Nữ Tu Viện Trưởng', 'Mother Elza' là 'Mẹ Elza' (phương án khác: 'Tổng Giám Viện Trưởng', 'Viện Mẫu Elza'). → Dùng 'Archimandrite' là 'Đại Tăng Viện Trưởng', 'abbot/Abbess' là 'Tu Viện Trưởng / Nữ Tu Viện Trưởng', 'Mother Elza' là 'Mẹ Elza' (orchestrator)
 - [#222] Archimandrite / Mother Elza → manager sửa: Archimandrite → 'Tổng Viện Trưởng' (bỏ 'Đại Tăng Viện Trưởng' vì 'Tăng' là sư Phật giáo); Mother Elza → 'Mẹ Bề Trên Elza' (orchestrator)
+- [#223] Raw xuất hiện "Sister Lillian Jean", trong khi #49 và characters.md đã chốt tên đầy đủ là "Lillian Jeunne" (do raw đổi translator). Đã tạm dùng "Sơ Lillian Jeunne" trong bản dịch và thêm "Sister Lillian Jean; Lillian Jean" vào Alias. → Giữ "Lillian Jeunne" theo #49 và characters.md để nhất quán; giữ "Sister Lillian Jean; Lillian Jean" trong Alias. (orchestrator)

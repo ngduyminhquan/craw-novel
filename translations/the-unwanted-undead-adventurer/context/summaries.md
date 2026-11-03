@@ -1314,4 +1314,11 @@ Bước vào đại thánh đường uy nghiêm nhưng giản dị, Rentt thử 
 Cả hai trao đổi về phẩm trật tôn giáo và biết được người nhận thư của Sơ Lillian là Nữ Tu Viện Trưởng Elza (Mother Elza) thuộc Tu Viện Ephas, một nhân vật có phẩm trật rất cao tương đương hồng y/giám mục.
 Lorraine nhờ một nữ tu chuyển lời muốn trao tận tay bức thư; vừa nghe tên Sơ Lillian gửi cho Mẹ Bề Trên Elza, nữ tu vô cùng kinh ngạc và vội vàng đi báo, đồng thời cử một tu sinh tập sự dẫn đường đưa cả hai tới phòng tiếp khách.
 
+## 223
+Trong lúc chờ tại phòng tiếp khách của Tu Viện Ephas, Lorraine và Rentt thảo luận về việc Sơ Lillian vốn là một Thánh Giả sở hữu Thần Lực nhưng lại phụng sự ở vùng hẻo lánh Maalt.
+Nữ Tu Viện Trưởng Elza Olgado xuất hiện với vẻ ngoài trẻ trung ở độ tuổi đôi mươi, nhã nhặn chào hỏi và tiếp nhận bức thư do Lorraine trao tận tay.
+Elza ngâm xướng thánh chú của Giáo Hội Đông Thiên khiến bức thư phát ra ánh sáng Thần Lực cộng hưởng, hóa giải phong ấn chúc phúc bằng sáp thành tro bụi.
+Lorraine giải thích về cơ chế chúc phúc phong ấn của giáo sĩ cấp cao; Elza xác nhận và tiết lộ Sơ Lillian đã mất khả năng dùng Thần Lực từ nhiều năm trước, nên đây là lần đầu sau ngần ấy năm sơ mới lại gửi một bức thư phong ấn bằng Thần Lực như thế này.
+
+
 

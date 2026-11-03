@@ -22,7 +22,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Augurey |  | Augurey | Mạo hiểm giả kỳ dị ăn mặc sặc sỡ bảy sắc cầu vồng, người quen tác chiến đơn độc của Rentt (tên thật: Augurey Ars, #155) | #42 |
 | Ryuntus |  | Ryuntus | Thanh niên Làng Todds, anh trai Amiris, lặn lội lên Maalt tìm mạo hiểm giả cứu em gái | #45 |
 | Amiris |  | Amiris | Thiếu nữ Làng Todds, em gái Ryuntus, người bị chọn làm tế vật cho Chúa Tể Hồ | #46 |
-| Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |
+| Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne; Sister Lillian Jean; Lillian Jean | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |
 | Alize |  | Alize | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt, người đưa ra ủy thác thu thập Hoa Long Huyết | #48 |
 | Edel |  | Edel | Chuột Puchi Suri quyến thuộc của Rentt, được Lorraine đặt tên | #52 |
 | Isaac Hart | Isaac | Isaac Hart | Quản gia của một nhân vật quyền thế bí ẩn, đến Đầm Lầy Tarasque tìm Hoa Long Huyết | #56 |
@@ -114,6 +114,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Frahe |  | Frahe | Thiếu gia khoảng 10 tuổi thuộc gia tộc Muze ở Maalt, rất ngưỡng mộ Isaac | #218 |
 | Jean Seebeck |  | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran | #221 |
 | Elza | Abbess Elza; Mother Elza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
+| Elza Olgado |  | Elza Olgado | Tên đầy đủ của Nữ Tu Viện Trưởng Elza | #223 |
 
 ## Chi tiết
 
@@ -728,8 +729,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #221.
 
 ### Elza
-- Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran.
-- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt.
+- Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
+- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả).
 - Xuất hiện từ: #222.
 
 
