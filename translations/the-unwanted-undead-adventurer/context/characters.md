@@ -140,6 +140,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Lý lịch: Xuất thân Đế Quốc Rermutt; từng là học giả tinh hoa tranh chức hiệu trưởng Đệ Nhất Đại Học Rermutt nhưng bị chèn ép nên bỏ tới Maalt; phê phán thói phụ thuộc đũa phép của giới ma pháp sư Đế Quốc. Có mảnh đất lớn ở ngoại vi Maalt làm bãi thử ma thuật; có nhiều thẻ căn cước giả của Đế Quốc.
 - Trạng thái tính đến chương 149: Cùng Rentt về Làng Hathara, điều tra ngôi đền cổ và thành phố ngầm; nhận đá tạo ma pháp trận dịch chuyển từ Capitan và Gharb; cùng Rentt dịch chuyển tới đường cống ngầm ngoại vi vương đô Vistelya. Được Laura Latuule mời ghé thư viện gia tộc Latuule. Đang nghiên cứu Tử Linh Thuật (Ma Tinh Zombie) để hiểu bản thể Undead của Rentt.
 - Trạng thái tính đến chương 168: Khẳng định biến cố của Rentt không hề ảnh hưởng đến mối quan hệ giữa hai người; tách ra cùng Gharb nghiên cứu ma thuật cổ truyền và giải mã tài liệu cổ ngữ của Làng Hathara.
+- Trạng thái tính đến chương 172: Cùng Rentt cưỡi Lindblum về Maalt, thi triển ma pháp che chắn nhận thức suốt hành trình bay; tới nơi, nhận nhiệm vụ chạy ra cổng chính hỗ trợ dập lửa. Tính đến chương 173, say nguội nằm bẹp ở nhà sau một đêm uống rượu quá chén. Tính đến chương 174, đã tỉnh táo, đồng ý hỗ trợ Rentt làm ủy thác khảo sát thảo dược; tinh ý nhận ra điểm đáng ngờ khi một đại quý tộc vi hành tới thị trấn nhỏ Maalt; trêu chọc chiếc mặt nạ đầu lâu của Rentt.
 
 ### Sheila Ibarss
 - Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
@@ -430,6 +431,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie"; cho phép mạo hiểm giả nói chuyện tự nhiên không cần câu nệ khách sáo.
 - Trạng thái tính đến chương 126: Có nét chữ rất đẹp và nắn nót do phải xử lý nhiều công văn giấy tờ gửi lên vương đô; từng là mạo hiểm giả độc hành săn quái ở Mê Cung Nguyệt Ảnh; ký khế ước ma pháp bảo mật với Rentt và lắng nghe toàn bộ câu chuyện về việc Rentt biến thành Undead (Khô Lâu -> Ngạ Quỷ -> Ma Cà Rồng); hoàn toàn tin tưởng nhân phẩm Rentt không hại người; bàng hoàng khi biết Nive Maris phán định Rentt không phải Ma Cà Rồng.
 - Trạng thái tính đến chương 127: Đau đầu trước thông tin có một con Ma Cà Rồng khác ở Maalt và Nive Maris đang lùng sục; nhận tập tài liệu sai phạm của Hội từ Rentt để nghiên cứu; gợi ý các phương án xử lý đăng ký hai lần và đặc cách tuyển mộ Rentt làm nhân viên Hội với khối lượng công việc tối thiểu; thử dùng sức giật chiếc mặt nạ nguyền rủa của Rentt nhưng bất thành và quyết định sẽ điều tra nguồn gốc nguyền cụ lọt vào thị trấn.
+- Trạng thái tính đến chương 172: Trực tiếp xuống sảnh tầng một Hội Mạo Hiểm Giả Maalt chỉ huy khẩn cấp khi thị trấn bị phóng hỏa; kéo Rentt vào phòng riêng xác nhận anh không liên can, sau đó tiết lộ một nhóm Thi Quỷ ngụy trang bằng ma thuật đang phóng hỏa hoành hành khắp nơi và rủ Rentt cùng tham gia truy quét.
 - Xuất hiện từ: #125.
 
 ### Alhildis
@@ -614,11 +616,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Count Curtis Nal Robista
 - Giới tính, vai trò: Nam, đứng tuổi (an older gentleman), Bá tước quyền thế bậc nhất Vương Quốc Yaaran, đại lãnh chủ sở hữu vùng đất trù phú gần vương đô.
 - Đặc điểm: Thân thiện, nhã nhặn, cởi mở, không phân biệt giai cấp hay trịch thượng; rất quan tâm đến ngành dược liệu vốn là nguồn thu nhập chính của lãnh địa; đến Maalt bí mật khảo sát thảo dược; thích trải nghiệm những điều mới lạ và đánh giá cao năng lực cùng sự khéo léo của mạo hiểm giả; tự xưng tên giả là "Curt" khi ở quán rượu.
+- Trạng thái tính đến chương 173: Đại lãnh chủ giàu có gần vương đô, cùng hộ vệ Kim Cấp Hayden War tới Maalt với danh nghĩa khảo sát ngành dược liệu; tại quán rượu, chứng kiến sự nhanh trí và thực lực của Rentt nên đồng ý thuê anh dẫn đường với tên giả "Curt". Tính đến chương 174, tiết lộ nguyên nhân thật sự của chuyến đi bí mật: con gái Elaine mắc chứng bệnh nan y kỳ lạ với các đốm tím sẫm như vết mực lan khắp người; sau cơn ác mộng, tâm sự với Hayden về lời sấm truyền từ con búp bê cử động trên bàn thờ nhà nguyện chỉ dẫn tới Maalt tìm nguyên liệu thuốc, đặt trọn hy vọng vào chuyến khảo sát cùng Rentt.
 - Xuất hiện từ: #173.
 
 ### Hayden War
 - Giới tính, vai trò: Nam, mạo hiểm giả Kim Cấp (Gold-class) hoạt động chủ yếu ở vương đô, được Bá tước Robista thuê làm hộ vệ kiêm cố vấn.
 - Đặc điểm: Dáng vẻ phong trần, tính tình xởi lởi, bộc trực, thích tự do tự tại; chiến lực cực mạnh (một mình tiêu diệt quái vật và sơn tặc bảo vệ xe ngựa), ứng biến nhanh nhạy; từng đến Maalt nhiều lần; rất thân thiện và tôn trọng Bá tước Robista như bạn bè nhưng vẫn giữ chừng mực hộ vệ; nhanh chóng nhận ra thực lực và sự đáng tin cậy của Rentt ở quán rượu.
+- Trạng thái tính đến chương 173: Mạo hiểm giả Kim Cấp hộ vệ Bá tước Robista, một mình tiêu diệt ma vật và sơn tặc bảo vệ an toàn trên đường đi; tại quán rượu, nhanh chóng nhận ra bản lĩnh của Rentt và ra hiệu ngầm bảo đảm với bá tước để thuê Rentt. Tính đến chương 174, bảo dưỡng vũ khí bên cạnh giường của Bá tước Robista; lắng nghe và động viên bá tước sau cơn ác mộng về con gái Elaine; hoài nghi về lời sấm truyền nhưng hy vọng Rentt sẽ giúp tìm ra phương thuốc cứu sống tiểu thư.
 - Xuất hiện từ: #173.
 
 ### Elaine

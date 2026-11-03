@@ -8,7 +8,7 @@ Tôi kể lại tỉ mỉ những chuyện đã xảy ra hôm nay cho Lorraine n
 
 Tôi đã nói với họ rằng mình sẽ dắt Lorraine theo mà chưa hề hỏi trước ý kiến của cô, thành thử tôi có đôi chút lo lắng về lịch trình của cô ấy. Nhìn chung chúng tôi nắm được kế hoạch trong khoảng một tuần tới của nhau, nhưng cả hai cũng đều có xu hướng nảy ra những dự định mới vào phút chót. Chẳng hạn như việc tôi ra quán rượu rồi ôm về một công việc mới toanh vào hôm nay, hoặc việc Lorraine đùng đùng lên đường đến một vùng đất khác để thu thập nguyên liệu. Dù vậy, tôi cũng đã bảo với Curt và Hayden rằng sẽ hỏi trước ý kiến của cô, nên lỡ như cô bận việc thì đó cũng chẳng phải vấn đề gì to tát. Có thể họ sẽ bớt coi trọng tôi đi một chút nếu chuyện đó xảy ra, nhưng cũng chỉ đến thế mà thôi. Dù sao thì nghe qua có vẻ như chỉ mình tôi cũng đủ sức giúp đỡ họ rồi. Nhưng tôi vẫn muốn hoàn thành công việc một cách trọn vẹn nhất, nên tôi hy vọng có thể chuẩn bị sẵn sàng cho mọi tình huống có thể xảy ra.
 
-"Tôi không phiền giúp một tay đâu," Lorraine nói, "Dạo đó tôi cũng chẳng có kế hoạch đặc biệt nào cả."
+"Tôi không phiền giúp một tay đâu," Lorraine nói. "Dạo đó tôi cũng chẳng có kế hoạch đặc biệt nào cả."
 
 "Ồ, may quá. Cảm ơn cô nhé, Lorraine."
 
@@ -52,7 +52,7 @@ Nhưng nếu đúng như vậy, cớ sao Curt lại có vẻ hơi hoảng loạn
 
 "Tôi cũng muốn đeo một chiếc mặt nạ trông ưa nhìn hơn nếu có thể, nhưng hiềm một nỗi là cái mặt nạ này chẳng chịu tháo ra cho. Ít nhất thì tôi vẫn có thể thay đổi hình dạng của nó đôi chút."
 
-"Nhưng kiểu dáng cơ bản của nó vẫn cứ là một cái đầu lâu. Anh có thể biến nó thành một cái đầu lâu ngầu lòi hay một cái đầu lâu đáng sợ, nhưng lựa chọn duy nhất của anh vẫn chỉ quanh quẩn với đầu lâu mà thôi."
+"Nhưng kiểu dáng cơ bản của nó vẫn cứ là một cái đầu lâu. Anh có thể biến nó thành một cái đầu lâu trông thật ngầu hay một cái đầu lâu đáng sợ, nhưng lựa chọn duy nhất của anh vẫn chỉ quanh quẩn với đầu lâu mà thôi."
 
 "Đúng thế thật, nhưng kệ đi, thế cũng ổn rồi. Nó giúp xua bớt vài kẻ phiền toái, thành thử cũng coi như giữ cho tôi tránh khỏi rắc rối."
 
@@ -68,7 +68,7 @@ Trong một căn phòng ngủ rộng rãi, một thiếu nữ đang thở dốc 
 
 Cuối cùng, ông thở dài và nói với vẻ mặt nghiêm trọng: "Thật khó để thốt ra điều này, nhưng nếu tình hình không có gì thay đổi, rồi con gái ngài rốt cuộc cũng sẽ mất mạng vì căn bệnh này thôi, thưa Bá tước Robista."
 
-"Chẳng lẽ không còn cách nào sao?!" Robista thảng thốt kêu lên, "Một tháng trước con bé vẫn còn hoàn toàn khỏe mạnh cơ mà! Làm sao chuyện này lại xảy ra nhanh đến vậy được?"
+"Chẳng lẽ không còn cách nào sao?!" Robista thảng thốt kêu lên. "Một tháng trước con bé vẫn còn hoàn toàn khỏe mạnh cơ mà! Làm sao chuyện này lại xảy ra nhanh đến vậy được?"
 
 "Bệnh tật vốn là như thế. Bản thân ngài cũng am hiểu rất nhiều về y dược, lẽ ra tôi không cần phải nhắc ngài điều này."
 

@@ -12,7 +12,7 @@ Dù sao thì tôi cũng chẳng thấy có lý do gì để Ingo phải nói d�
 
 "Được rồi, chỗ này có vẻ ổn đấy," Ingo nói khi chúng tôi đột ngột dừng bước. Chúng tôi đang ở trong khu rừng phía bắc, nhưng đây là một khoảng đất trống trải thưa thớt cây cối. Trong rừng cũng có vài khoảng trống như thế này, nên chẳng có gì là khác thường cả, song tôi lại không hiểu nổi rốt cuộc chúng tôi có thể làm được gì ở một nơi như thế này. Thế nhưng ngay sau đó, Ingo đưa ngón tay lên miệng rồi huýt sáo một tiếng thật dài.
 
-"Bác ấy đang làm gì thế?" tôi hỏi Lorraine.
+"Cha đang làm gì thế?" tôi hỏi Lorraine.
 
 "Tôi từng nghĩ đến khả năng này, nhưng không ngờ lại làm được thật," cô nói như thể đã biết rõ chuyện gì đang diễn ra.
 
@@ -170,7 +170,7 @@ Khi chúng tôi bước chân vào Maalt, nơi đây là một cảnh tượng h
 
 "Chúng tôi cũng là mạo hiểm giả!" tôi nói. "Cô ấy là một ma pháp sư, và cô ấy có thể hỗ trợ dập lửa! Mau tóm tắt ngắn gọn tình hình cho chúng tôi biết đi!"
 
-Người mạo hiểm giả giờ nhìn chúng tôi bằng ánh mắt khác hẳn. "Hiện tại cả thành phố đều đang thiếu người giúp sức! Chỗ này chúng tôi vẫn đang gắng gượng xoay xở được, nên nếu các người muốn góp sức ở đâu đó thì hãy ra gần cổng chính ấy! Nếu nơi đó sụp đổ thì chẳng ai sơ tán được đâu! Mà tôi cũng nói luôn là lũ quái vật làm chuyện này đấy. Quái vật đã phóng hỏa khắp nơi!"
+Người mạo hiểm giả giờ nhìn chúng tôi bằng ánh mắt khác hẳn. "Hiện tại cả thành phố đều đang thiếu người giúp sức! Chỗ này chúng tôi vẫn đang gắng gượng xoay xở được, nên nếu hai người muốn góp sức ở đâu đó thì hãy ra gần cổng chính ấy! Nếu nơi đó sụp đổ thì chẳng ai sơ tán được đâu! Mà tôi cũng nói luôn là lũ quái vật làm chuyện này đấy. Quái vật đã phóng hỏa khắp nơi!"
 
 "Quái vật sao?"
 
@@ -192,15 +192,15 @@ Chúng tôi đi lên văn phòng của ông. Sau khi chắc chắn rằng không
 
 "Ý ông là sao cơ? Tôi chỉ vừa mới quay về thị trấn và nhìn thấy thảm cảnh này thôi! Mau nói cho tôi biết rốt cuộc có chuyện gì đang xảy ra đi!"
 
-Câu trả lời của tôi dường như khiến Wolf thở phào nhẹ nhõm. "Ừ, cũng phải thôi. Chà, phía Hội cũng chưa rõ ngọn ngành mọi chuyện ra sao, nhưng có ma cà rồng xuất hiện. Một nhóm Ma Cà Rồng đang hoành hành khắp thị trấn. Chúng đang phóng hỏa đốt phá nơi này."
+Câu trả lời của tôi dường như khiến Wolf thở phào nhẹ nhõm. "Ừ, cũng phải thôi. Chà, phía Hội cũng chưa rõ ngọn ngành mọi chuyện ra sao, nhưng có Ma Cà Rồng xuất hiện. Một nhóm Ma Cà Rồng đang hoành hành khắp thị trấn. Chúng đang phóng hỏa đốt phá nơi này."
 
-Tôi giật mình kinh ngạc khi nghe thấy điều đó. Rồi tôi hiểu ra câu hỏi của Wolf. Ông hỏi xem liệu tôi có dính líu hay không là vì bản thân tôi cũng là một con ma cà rồng. Dĩ nhiên là tôi không hề liên can, nhưng điều đó thì chỉ có mình tôi biết rõ. Dù sao thì ông vẫn tin tưởng tôi, và vì điều đó mà tôi thấy vô cùng biết ơn. Có lẽ tôi vẫn chưa hoàn toàn xóa tan được mọi mối nghi ngờ, nhưng miễn là ông sẵn lòng giải thích những gì mình biết, chuyện đó cũng chẳng thành vấn đề. Tôi cố ngầm bày tỏ sự trong sạch của mình trong lúc đặt ra vài câu hỏi.
+Tôi giật mình kinh ngạc khi nghe thấy điều đó. Rồi tôi hiểu ra câu hỏi của Wolf. Ông hỏi xem liệu tôi có dính líu hay không là vì bản thân tôi cũng là một con Ma Cà Rồng. Dĩ nhiên là tôi không hề liên can, nhưng điều đó thì chỉ có mình tôi biết rõ. Dù sao thì ông vẫn tin tưởng tôi, và vì điều đó mà tôi thấy vô cùng biết ơn. Có lẽ tôi vẫn chưa hoàn toàn xóa tan được mọi mối nghi ngờ, nhưng miễn là ông sẵn lòng giải thích những gì mình biết, chuyện đó cũng chẳng thành vấn đề. Tôi cố ngầm bày tỏ sự trong sạch của mình trong lúc đặt ra vài câu hỏi.
 
-"Vậy là ông đã phát hiện ra ma cà rồng trong thị trấn sao? Tôi chẳng quen biết con ma cà rồng nào cả."
+"Vậy là ông đã phát hiện ra Ma Cà Rồng trong thị trấn sao? Tôi chẳng quen biết con Ma Cà Rồng nào cả."
 
-"Chà, tôi cũng chẳng hình dung nổi cậu kiếm được lợi lộc gì từ chuyện này đâu. Tôi vốn biết rõ điều đó rồi. Dù sao đi nữa, những con ma cà rồng mà chúng tôi phát hiện đang phóng hỏa lại là lũ ma cà rồng cấp thấp nhất. Nói cách khác thì là Thi Quỷ. Cho đến giờ chúng tôi phát hiện khoảng mười con, nhưng với tốc độ hỏa hoạn bùng phát thế này, có khi phải lên tới hàng trăm con. Quái quỷ thật, rốt cuộc bấy lâu nay chúng trốn ở xó xỉnh nào chứ?"
+"Chà, tôi cũng chẳng hình dung nổi cậu kiếm được lợi lộc gì từ chuyện này đâu. Tôi vốn biết rõ điều đó rồi. Dù sao đi nữa, những con Ma Cà Rồng mà chúng tôi phát hiện đang phóng hỏa lại là lũ Ma Cà Rồng cấp thấp nhất. Nói cách khác thì là Thi Quỷ. Cho đến giờ chúng tôi phát hiện khoảng mười con, nhưng với tốc độ hỏa hoạn bùng phát thế này, có khi phải lên tới hàng trăm con. Quái quỷ thật, rốt cuộc bấy lâu nay chúng trốn ở xó xỉnh nào chứ?"
 
-Cho đến tận gần đây, bản thân tôi cũng từng là một Thi Quỷ, nhưng nhìn chung Thi Quỷ là những con người bị ma cà rồng hút máu và bị nhiễm một ít máu của ma cà rồng trong quá trình đó, dẫn đến việc bị biến dị. Trông chúng chẳng khác nào những con người tàn tạ, già nua. Chúng không hoàn toàn thối rữa như Ngạ Quỷ, nhưng như người ta có thể hình dung từ diện mạo trước kia của tôi, chúng chẳng khác gì những xác chết nếu đem so với một con người bình thường.
+Cho đến tận gần đây, bản thân tôi cũng từng là một Thi Quỷ, nhưng nhìn chung Thi Quỷ là những con người bị Ma Cà Rồng hút máu và bị nhiễm một ít máu của Ma Cà Rồng trong quá trình đó, dẫn đến việc bị biến dị. Trông chúng chẳng khác nào những con người tàn tạ, già nua. Chúng không hoàn toàn thối rữa như Ngạ Quỷ, nhưng như người ta có thể hình dung từ diện mạo trước kia của tôi, chúng chẳng khác gì những xác chết nếu đem so với một con người bình thường.
 
 "Lũ chúng nó đang phóng hỏa sao?"
 
@@ -212,4 +212,4 @@ Cho đến tận gần đây, bản thân tôi cũng từng là một Thi Quỷ,
 
 Đây chính là một minh chứng cho thấy ngay cả những quái vật yếu hơn cũng có thể sở hữu những lợi thế riêng. Lợi thế cho lũ Thi Quỷ, ý tôi là vậy. Còn đối với chúng tôi thì điều đó tồi tệ vô cùng.
 
-"Dù sao đi nữa, Hội đang dốc toàn lực để truy lùng lũ Thi Quỷ cùng bất kỳ con ma cà rồng nào nhiều khả năng đang tạo ra chúng. Cậu cũng nên tham gia cùng đi."
+"Dù sao đi nữa, Hội đang dốc toàn lực để truy lùng lũ Thi Quỷ cùng bất kỳ con Ma Cà Rồng nào nhiều khả năng đang tạo ra chúng. Cậu cũng nên tham gia cùng đi."

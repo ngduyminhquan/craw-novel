@@ -176,9 +176,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | reviewed |  |
 | 170 |  | Chapter_170 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (2) | reviewed |  |
 | 171 |  | Chapter_171 - Vol 7 Chapter 6 - Puchi Suri (1).txt | Vol 7 Chapter 6 - Puchi Suri (1) | reviewed |  |
-| 172 |  | Chapter_172 - Vol 7 Chapter 6 - Puchi Suri (2).txt | Vol 7 Chapter 6 - Puchi Suri (2) | done |  |
-| 173 |  | Chapter_173 - Vol 7 Side Story - Noble’s Trust (1).txt | Vol 7 Side Story - Noble’s Trust (1) | done |  |
-| 174 |  | Chapter_174 - Vol 7 Side Story - Noble’s Trust (2).txt | Vol 7 Side Story - Noble’s Trust (2) | done |  |
+| 172 |  | Chapter_172 - Vol 7 Chapter 6 - Puchi Suri (2).txt | Vol 7 Chapter 6 - Puchi Suri (2) | reviewed |  |
+| 173 |  | Chapter_173 - Vol 7 Side Story - Noble’s Trust (1).txt | Vol 7 Side Story - Noble’s Trust (1) | reviewed |  |
+| 174 |  | Chapter_174 - Vol 7 Side Story - Noble’s Trust (2).txt | Vol 7 Side Story - Noble’s Trust (2) | reviewed |  |
 | 175 |  | Chapter_175 - Vol 7 Side Story - Noble’s Trust (3).txt | Vol 7 Side Story - Noble’s Trust (3) | todo |  |
 | 176 |  | Chapter_176 - Vol 7 Side Story - Noble’s Trust (4).txt | Vol 7 Side Story - Noble’s Trust (4) | todo |  |
 | 177 |  | Chapter_177 - Vol 7 Bonus - A Strange Request.txt | Vol 7 Bonus - A Strange Request | todo |  |
