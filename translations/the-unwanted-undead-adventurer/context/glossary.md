@@ -384,7 +384,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ariana Merchant’s Guild | Ariana Merchant's Guild; Ariana Merchant | Hội Thương Nhân Ariana | tổ chức | 210 | Hiệp hội thương nhân quyền lực và nguy hiểm của Cộng Hòa Hàng Hải Ariana |
 | mana wool |  | len Ma Lực | vật phẩm | 210 | Chất liệu dệt đồng phục Học Viện gia cố bằng thuật giả kim |
 | dean | the dean; Dean | viện trưởng | chức nghiệp | 211 | Người đứng đầu điều hành Học Viện ở vương đô |
-| cursed goods |  | nguyền phẩm | vật phẩm | 211 | Tên gọi khác trong gian gian của Nguyền Cụ (呪品) |
+| cursed goods |  | nguyền phẩm | vật phẩm | 211 | Tên gọi khác trong dân gian của Nguyền Cụ (呪品) |
 | demon’s tools | demon's tools; demon’s tool; demon's tool | yêu cụ | vật phẩm | 211 | Tên gọi khác trong dân gian của Nguyền Cụ (妖具) |
 | shadow objects | shadow object | ảnh phẩm | vật phẩm | 211 | Tên gọi khác trong dân gian của Nguyền Cụ (影品) |
 | valedictorian |  | thủ khoa | danh hiệu | 212 | Học viên đứng đầu khóa học tập tại Học Viện |

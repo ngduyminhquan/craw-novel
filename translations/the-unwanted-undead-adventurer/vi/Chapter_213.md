@@ -22,7 +22,7 @@ Tôi cho là cô ấy nói đúng. Vì Hội coi toàn bộ sự cố đó như 
 
 Tôi cũng đã lo lắng về đúng điều đó và dự định ghé thăm Hội. Cả hai bên đều gồm những người trưởng thành, thế nên họ sẽ không tự dưng lao vào đánh nhau đâu. Nhưng trông mong rằng chẳng có xung đột nào xảy ra thì quả là đòi hỏi hơi quá, xét đến việc giới nghiên cứu và mạo hiểm giả khác biệt nhau đến nhường nào.
 
-Mạo hiểm giả nhìn chung là những kẻ thô lỗ, cộc cằn, tự mình vươn lên từng bậc thứ bậc bằng sự gan góc và sức mạnh thuần túy. Còn người của Tòa Tháp, dù tốt hay xấu, lại là những kẻ được chọn lọc vốn chẳng quen giao thiệp với xã hội bình thường cho lắm. Điều đó không đúng với tất cả mọi người, nhưng người ta thường vẫn rập khuôn theo những định kiến ấy. Tôi suýt nữa chẳng dám hình dung tình hình ở Hội lúc này đang ra sao.
+Mạo hiểm giả nhìn chung là những kẻ thô lỗ, cộc cằn, tự mình leo lên từng nấc thang thứ bậc bằng sự gan góc và sức mạnh thuần túy. Còn người của Tòa Tháp, dù tốt hay xấu, lại là những kẻ được chọn lọc vốn chẳng quen giao thiệp với xã hội bình thường cho lắm. Điều đó không đúng với tất cả mọi người, nhưng người ta thường vẫn rập khuôn theo những định kiến ấy. Tôi suýt nữa chẳng dám hình dung tình hình ở Hội lúc này đang ra sao.
 
 "Họ cũng chẳng đến mức quyết đấu sinh tử hay gì đâu. Thả lỏng đi nào. Mọi chuyện sẽ không tệ đến thế đâu," Lorraine cười khúc khích nói.
 
@@ -40,7 +40,7 @@ Sheila nhận ra tôi đã đến liền rảo bước đi tới.
 
 "Chẳng làm gì được đâu ạ. Từ lúc người của Tòa Tháp đến là tình trạng cứ thế này suốt. Những người đang gào thét đằng kia thì bên nào cũng có phần lỗi, nên rốt cuộc họ cũng sẽ bình tĩnh lại thôi."
 
-"Cô có chắc là chúng ta không cần can ngăn họ không?" tôi hỏi, dẫu rằng chuyện này vẫn chỉ dừng lại ở màn đấu khẩu bằng miệng.
+"Cô có chắc là chúng ta không cần can ngăn họ không?" tôi hỏi, dẫu rằng chuyện này vẫn chỉ dừng lại ở màn đấu khẩu.
 
 "Chắc là vậy..." Sheila nói mà chẳng mấy tin chắc.
 

@@ -40,7 +40,7 @@ Noel chẳng hề muốn nhớ lại cảm giác đó chút nào, nhưng trớ t
 
 ◆◇◆◇◆
 
-Diễn biến bất ngờ này rốt cuộc lại chuyển biến theo chiều hướng có lợi cho Noel. Người phụ nữ bất ngờ xuất hiện từ hư không chỉ sau một thoáng kiểm tra đã nhận ra vết hư hại trên áo choàng của cậu và ép gã thương nhân phải cúi đầu nhận tội. Cô đã dễ dàng hoàn thành mọi điều mà Noel hằng mong đạt được.
+Diễn biến bất ngờ này rốt cuộc lại chuyển biến theo chiều hướng có lợi cho Noel. Người phụ nữ chẳng biết từ đâu xuất hiện chỉ sau một thoáng kiểm tra đã nhận ra vết hư hại trên áo choàng của cậu và ép gã thương nhân phải cúi đầu nhận tội. Cô đã dễ dàng hoàn thành mọi điều mà Noel hằng mong đạt được.
 
 Noel từng ngỡ Maalt là một thị trấn biên cương lạc hậu và do đó sẽ thiếu vắng những nhân vật kiệt xuất, nhưng xem ra nhận định của cậu đã hoàn toàn sai lầm. Cậu có cả một danh sách câu hỏi muốn thỉnh giáo nữ ma pháp sư, song nhìn chung giới ma pháp sư vốn rất kín tiếng. Cậu ngờ rằng nếu mình gặng hỏi, cậu cũng chẳng thu thập được điều gì có giá trị ở một chốn thanh thiên bạch nhật đông người như thế này.
 
@@ -102,15 +102,15 @@ Khi cất bước về căn phòng được phân của mình, Noel cảm thấy
 
 Tiếng cạch mở cửa vang lên kéo theo lời chào đón khoa trương từ người bạn cùng lớp ở Học Viện của cậu, Pierpaolo Blanca. Cậu ta đã được xếp làm bạn cùng phòng với Noel trong chuyến đi thực tế lần này.
 
-Những ai chạm mặt Pierpaolo lần đầu đều thấy cậu ta là một gã thanh niên cao ngẳng kỳ quặc với thái độ phô trương suýt soát chạm ngưỡng xấc xược. Noel cũng từng nghĩ y hệt như vậy khi mới gặp cậu ta lần đầu, nhưng đến giờ, cậu đã sớm quen thuộc với những nét lập dị của Pierpaolo.
+Những ai chạm mặt Pierpaolo lần đầu đều thấy cậu ta là một gã thanh niên cao ngẳng kỳ quặc với thái độ phô trương gần như chạm ngưỡng xấc xược. Noel cũng từng nghĩ y hệt như vậy khi mới gặp cậu ta lần đầu, nhưng đến giờ, cậu đã sớm quen thuộc với những nét lập dị của Pierpaolo.
 
 Dẫu vẻ bề ngoài của Pierpaolo chẳng toát lên điều đó, cha cậu ta thực chất là một quý tộc mang tước vị đàng hoàng. Gia tộc Blanca, một gia tộc Tử tước, rất giàu có và hoạt động trong ngành buôn bán thương nghiệp. Pierpaolo là con trai cả, và tuy cậu ta không xuất sắc bằng Noel hay Elise, cậu ta vẫn là một trong những học viên ưu tú hơn tại Học Viện.
 
-Do xuất thân từ một gia tộc quý tộc, một ngày nào đó Pierpaolo sẽ kế thừa tước vị của gia đình. Noel thấy có phần kỳ cục khi một mai cậu ta sẽ trở thành một quý tộc đồng cấp với mình, song hầu hết giới quý tộc đều lập dị theo cách riêng. Giới quý tộc của Vương Quốc Yaaran nói riêng lại càng nổi tiếng là kỳ quái hơn so với những người đồng cấp ở nơi khác.
+Do xuất thân từ một gia tộc quý tộc, một ngày nào đó Pierpaolo sẽ kế thừa tước vị của gia đình. Noel thấy có phần kỳ cục khi một mai cậu ta sẽ trở thành một quý tộc ngang hàng với mình, song hầu hết giới quý tộc đều lập dị theo cách riêng. Giới quý tộc của Vương Quốc Yaaran nói riêng lại càng nổi tiếng là kỳ quái hơn so với các quý tộc ở nơi khác.
 
 Khẽ thở dài ngao ngán, Noel hỏi, "Thế nào rồi? Công việc của cậu tiến triển đến đâu rồi? Mọi chuyện có vẻ sẽ suôn sẻ chứ?"
 
-Pierpaolo gật đầu lia lịa. "Xem chừng là ổn thỏa cả thôi. Muốn những kẻ như chúng ta tiến vào mê cung, trước hết phải thuê được vài mạo hiểm giả đã. Bản thân chúng ta tuy dùng được ma pháp, nhưng thực lực và độ chuẩn xác chẳng thấm vào đâu so với những kẻ kiếm cơm manh áo hằng ngày bằng việc thám hiểm mê cung. Huống hồ chúng ta đến đây đâu phải để chiến đấu. Chúng ta phải làm mọi cách để tránh lãng phí sức lực chứ. Chẳng phải thế sao, người anh em?"
+Pierpaolo gật đầu lia lịa. "Xem chừng là ổn thỏa cả thôi. Muốn những kẻ như chúng ta tiến vào mê cung, trước hết phải thuê được vài mạo hiểm giả đã. Bản thân chúng ta tuy dùng được ma pháp, nhưng thực lực và độ chuẩn xác chẳng thấm vào đâu so với những kẻ kiếm miếng cơm manh áo hằng ngày bằng việc thám hiểm mê cung. Huống hồ chúng ta đến đây đâu phải để chiến đấu. Chúng ta phải làm mọi cách để tránh lãng phí sức lực chứ. Chẳng phải thế sao, người anh em?"
 
 "Phải. Việc này sẽ ảnh hưởng đến điểm số của chúng ta ở Học Viện. Tôi không thể để thua Elise được."
 
@@ -148,7 +148,7 @@ Chuyện đó là bất khả thi. Tình huống lúc ấy hoàn toàn là một
 
 "Ý cậu là... cô ta đến đây để khảo sát mê cung sao? Tôi muốn nói đến một tổ chức nào khác ngoài Tòa Tháp hay Học Viện ấy."
 
-"Tôi đoán vậy đấy," Pierpaolo gật đầu nói. "Thậm chí cô ta có thể đến từ một quốc gia khác cũng nên. Mà chuyện đó đâu chỉ giới hạn ở mỗi cô ta. Một mê cung mới xuất hiện có khi mười năm, thậm chí cả trăm năm mới có một lần. Chúng ta chẳng thể biết được những hạng người nào đang có mặt ở cái thị trấn này đâu. Tốt nhất là liệu hồn mà cẩn thận."
+"Tôi đoán vậy đấy," Pierpaolo gật đầu nói. "Thậm chí cô ta có thể đến từ một quốc gia khác cũng nên. Mà chuyện đó đâu chỉ giới hạn ở mỗi cô ta. Một mê cung mới xuất hiện có khi mười năm, thậm chí cả trăm năm mới có một lần. Chúng ta chẳng thể biết được những hạng người nào đang có mặt ở cái thị trấn này đâu. Tốt nhất là cậu nên cẩn thận giữ mình thì hơn."
 
 Ý của Pierpaolo chỉ là họ cần phải cẩn thận kẻo những kẻ khác đến khảo sát mê cung sẽ phỗng tay trên các phát hiện của họ. Và quan điểm của cậu ta hoàn toàn có lý. Dẫu vậy, vì Noel mang ơn nữ ma pháp sư nọ, cậu quyết định gạt phăng mối nghi ngờ bất công của Pierpaolo sang một bên.
 

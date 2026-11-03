@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T12:04:07Z",
+  "generatedAt": "2026-11-03T12:12:57Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3418,19 +3418,19 @@
           "number": 211,
           "title": "Chương 211: Tập 9 Chương 4 - Tòa Tháp và Học Viện (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_211.md",
-          "sha": "c5c30db02a4142a6927ac94136a701fc64f05ac6"
+          "sha": "79a1796aa854d077a218fb544e179b51b3a5cde3"
         },
         {
           "number": 212,
           "title": "Chương 212: Ngoại truyện Tập 9 - Noel Kruege",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_212.md",
-          "sha": "210001b8891d1aff5d223ac66cafc6b1eea6bf7f"
+          "sha": "260f01911cd9dfe3b9bf0d7f9b1f927962504d28"
         },
         {
           "number": 213,
           "title": "Chương 213: Tập 9 Chương 5 - Một Ủy Thác từ Hội (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_213.md",
-          "sha": "019edeeae574209e72113285f28fde8153371dd0"
+          "sha": "d22132fb21a512c3307518665e12ae5191351f83"
         }
       ]
     },

@@ -30,7 +30,7 @@ Lorraine dành vài giây quan sát áo choàng của Noel, rồi nói: "Đúng 
 
 Rina thì thầm hỏi tôi: "Khoan đã, cậu ta nói thật sao? Vậy là gã thương nhân thực sự đã làm hỏng áo choàng của cậu ta à?"
 
-"Vừa rồi Lorraine có nhắc rằng cô ấy để ý thấy điều gì đó. Chắc hẳn là cô ấy ám chỉ áo choàng của cậu nhóc kia rồi. Nhưng mà lạ thật, tôi lại chẳng nhận ra nó bị hỏng chỗ nào. Tôi vẫn cảm nhận được các hiệu ứng cường hóa vẫn đang hoạt động mà."
+"Vừa rồi Lorraine có nhắc rằng cô ấy để ý thấy điều gì đó. Chắc hẳn là cô ấy ám chỉ áo choàng của cậu nhóc kia rồi. Nhưng mà lạ thật, tôi lại chẳng nhận ra nó bị hỏng chỗ nào. Tôi vẫn cảm nhận được các hiệu ứng cường hóa đang hoạt động mà."
 
 Tôi không thể nhìn thấy Ma Lực như Lorraine, nhưng tôi có thể lờ mờ nhận biết khi nào một ma pháp được kích hoạt hay hiệu ứng của nó có thể là gì. Giác quan mách bảo tôi rằng trên áo choàng của cậu bé vẫn còn ma thuật. Dù vậy, nghĩ kỹ lại thì nó có phần yếu hơn áo choàng của cô bé kia một chút. Có lẽ thế chăng? Không, không phải yếu hơn...
 
@@ -94,7 +94,7 @@ Ma thuật không thể tái hiện lại hiệu ứng của Phân Liệt, nhưn
 
 Lorraine nghiêng đầu: "Không, đâu có đến mức đó. Tôi chủ yếu là một học giả thôi. Tôi chỉ luyện tập ma thuật vào những lúc rảnh rỗi."
 
-Tôi rất muốn hét lên bảo "Nói xạo!", nhưng đúng là cô ấy đặt vai trò học giả lên trước rồi mới tới ma pháp sư. Vấn đề nằm ở câu nói bảo bản thân không mạnh đến thế của cô. Ầy, tôi đoán là cô chỉ đang khiêm tốn mà thôi.
+Tôi rất muốn hét lên bảo "Nói dối!", nhưng đúng là cô ấy đặt vai trò học giả lên trước rồi mới tới ma pháp sư. Vấn đề nằm ở câu nói bảo bản thân không mạnh đến thế của cô. Ầy, tôi đoán là cô chỉ đang khiêm tốn mà thôi.
 
 Thực lòng mà nói, nhìn lướt qua một cái mà muốn biết một ma pháp sư mạnh đến mức nào thì chẳng dễ dàng chút nào. Nếu họ giải phóng Ma Lực và để nó tỏa ra ngoài như một luồng hào quang, tôi có thể cảm nhận được áp lực đáng gờm của họ, nhưng chẳng kẻ nào có thực lực lại đi làm chuyện lộ liễu đến vậy. Đúng là đôi khi một ma pháp sư có thể làm thế để dọa cho kẻ địch sợ hãi tháo chạy, nhưng phần lớn ma pháp sư đều luôn che giấu lượng Ma Lực tích trữ của bản thân. Lorraine lúc nào cũng che giấu Ma Lực của mình. Làm như vậy an toàn hơn cho cô ấy rất nhiều.
 
