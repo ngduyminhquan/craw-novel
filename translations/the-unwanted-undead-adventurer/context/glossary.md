@@ -420,3 +420,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | House Ancro | the House Ancro; the Ancro family | Gia tộc Ancro | tổ chức | 227 | Gia tộc quý tộc của Hầu tước Nauss Ancro tại Vương Quốc Yaaran (アンクロ家) |
 | Ascension Exam | Ascension Exams | kỳ thi thăng hạng | khác | 227 | Kỳ thi sát hạch thăng cấp bậc mạo hiểm giả nói chung (昇格試験) |
 | holy item | holy items | Thánh Cụ | vật phẩm | 228 | Phân loại ma cụ mang tính chất thần thánh, thanh khiết hoặc tạo tác của thánh thần/tinh linh (聖具) |
+| Mount Jarlis |  | Núi Jarlis | địa danh | 230 | Núi lửa nơi rồng đỏ từng làm tổ gây phun trào dung nham (ジャーリス山) |
+| Ansallen Riot |  | Bạo Loạn Ansallen | khác | 230 | Vụ bạo loạn tà giáo triệu hồi quái vật tại thành phố Ansallen (アンサレンの暴動) |
+| Deneb Goblin King Tsunami |  | Thảm Họa Sóng Thần Vua Goblin Deneb | khác | 230 | Thảm họa hàng vạn quái vật dưới trướng Vua Goblin tràn vào thành phố Deneb (デネブのゴブリンキング津波) |
+| Ansallen |  | Ansallen | địa danh | 230 | Tên thành phố từng xảy ra vụ bạo loạn tà giáo triệu hồi quái vật (アンサレン) |
+| Deneb |  | Deneb | địa danh | 230 | Tên thành phố từng xảy ra thảm họa đàn Goblin quy mô lớn tràn vào (デネブ) |

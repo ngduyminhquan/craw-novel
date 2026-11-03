@@ -1355,6 +1355,13 @@ Vì không thể đem quyền trượng rời vương quốc để sửa, Jia đ
 Jia cho biết các High Elf đồng ý chế tác với điều kiện tự chọn nguyên liệu, và truyền đạt lại lời sấm truyền từ Thánh Thụ: "Một con người sẽ tìm đến, kẻ đó có mối liên hệ với người sở hữu Thánh Cụ. Hãy mang kẻ sở hữu Thánh Cụ đến trước cái cây."
 Augurey và Lorraine lập tức hướng mắt về phía chiếc mặt nạ Thần Lực của Rentt.
 
+## 230
+Rentt, Lorraine và Augurey viện lý do chiếc mặt nạ đầu lâu chưa chắc là Thánh Cụ để thuyết phục Công Chúa Jia không vội vã đưa anh đến gặp Cổ Thánh Thụ nhằm tránh tổn hại quan hệ với tộc Elf; Jia đồng thuận nhưng yêu cầu lưu lại phương thức liên lạc.
+Sau khi bàn giao số thẻ hội và địa chỉ tại Maalt cho Nauss, cả nhóm kết thúc chuyến thăm hoàng cung và quay về quán trọ Falcon's Rest của Augurey để tạm nghỉ chờ Tổng Hội Trưởng Jean Seebeck trở lại vương đô.
+Rentt giải thích lý do phải giữ kín nhiệm vụ hộ tống Tổng Hội Trưởng; Augurey kể lại thói quen trốn việc chạy rong khắp phố khiến nhân viên Hội phải nháo nhào đi tìm của lão Jean.
+Lorraine nhắc lại ba chiến tích chỉ huy dẹp tan đại họa nổi tiếng của Jean Seebeck (Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, và vụ núi lửa Jarlis phun trào); Augurey xác nhận thực lực chỉ huy xuất chúng trong nghịch cảnh là lý do Hội kiên quyết giữ chân không cho lão già Jean giải nghệ.
+
+
 
 
 

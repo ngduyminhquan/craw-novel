@@ -612,7 +612,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Jia Regina Yaaran
 - Giới tính, vai trò: Nữ, khoảng 15-16 tuổi, Nhị Công Chúa của Vương Quốc Yaaran.
-- Đặc điểm: Ngoại hình xinh xắn, quý phái trong bộ váy nhưng thể trạng có phần hơi ốm yếu; ánh mắt kiên định, tính cách nhân từ, biết nghĩ cho người khác và thấm nhuần giáo lý bác ái của Giáo Hội Đông Thiên; không kênh kiệu lạm quyền, luôn muốn đền đáp ân nhân cứu mạng và tôn trọng công việc của người dân.
+- Đặc điểm: Ngoại hình xinh xắn, quý phái trong bộ váy nhưng thể trạng có phần hơi ốm yếu; ánh mắt kiên định, tính cách nhân từ, biết nghĩ cho người khác và thấm nhuần giáo lý bác ái của Giáo Hội Đông Thiên; không kênh kiệu lạm quyền, luôn muốn đền đáp ân nhân cứu mạng và tôn trọng công việc của người dân. Khi xúc động hoặc liên quan đến an nguy của phụ vương, cô bé bộc lộ nét tính cách bộc trực, nhiệt tình và sốt sắng (#230).
 - Xuất hiện từ: #157.
 
 ### Hozei
@@ -736,7 +736,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Jean Seebeck
 - Giới tính, vai trò: Nam, Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran tại vương đô Vistelya.
-- Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221).
+- Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221). Tính tình lông bông trốn việc như con nít, thường xuyên bỏ lại giấy tờ dang dở chạy rong khắp phố khiến nhân viên Hội phải cuống cuồng đi tìm; tuy nhiên ông cực kỳ cừ khôi khi trực tiếp chỉ huy ứng phó thảm họa lớn (từng dẹp tan Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, và vụ núi lửa Jarlis) nên được mạo hiểm giả tôn sùng và Hội kiên quyết giữ chân không cho nghỉ hưu (#230).
 - Xuất hiện từ: #221.
 
 ### Elza
