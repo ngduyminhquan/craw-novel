@@ -210,7 +210,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 203 |  | Chapter_203 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (2) | reviewed |  |
 | 204 |  | Chapter_204 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (3) | reviewed |  |
 | 205 |  | Chapter_205 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4) | done |  |
-| 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | todo |  |
+| 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | done |  |
 | 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | todo |  |
 | 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | todo |  |
 | 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -812,3 +813,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#203] Dịch 'The Tower' (tổ chức nghiên cứu ma thuật tại vương đô) — tạm chọn 'Tòa Tháp' (phương án khác: 'Ma Pháp Tháp', 'Tháp'); 'Kohm Clinic' — tạm chọn 'Phòng Khám Kohm' (phương án khác: 'Bệnh Xá Kohm'). → Chốt 'The Tower' -> 'Tòa Tháp' (sánh đôi tự nhiên với 'The Academy' -> 'Học Viện') và 'Kohm Clinic' -> 'Phòng Khám Kohm'. (orchestrator)
 - [#204] Tên nhân vật 'Lola' trong raw — tạm dùng 'Laura' theo Alias của Laura Satii trong characters.md để nhất quán với các chương trước (phương án khác: giữ 'Lola'). → Chốt dịch thống nhất thành 'Laura' theo đúng quy tắc trong rules.md và Alias của Laura Satii trong characters.md. (orchestrator)
 - [#205] Tên gọi 'Lola' của nữ ma pháp sư trong raw — tạm dùng 'Laura' theo tên chuẩn 'Laura Satii' trong characters.md (phương án khác: dịch là 'Lola' theo nguyên văn raw). → Giữ 'Laura' theo tên chuẩn 'Laura Satii' đã chốt trong characters.md (Lola chỉ là biến thể chuyển tự R/L trong raw). (orchestrator)
+- [#206] Thuật ngữ: "mana blade" (loại ma kiếm đặc biệt mạnh mẽ) tạm dịch là "Ma Lực Kiếm" để phân biệt với "ma kiếm" (magic sword). Đề xuất: giữ "Ma Lực Kiếm". → Giữ "Ma Lực Kiếm" để phân biệt với "Ma Kiếm" (magic sword), nhất quán với thuật ngữ "mana → ma lực" trong glossary.md. (orchestrator)

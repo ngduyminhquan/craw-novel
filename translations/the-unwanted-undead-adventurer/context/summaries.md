@@ -1216,6 +1216,9 @@ Bước ra ngoài hành lang để Rina trò chuyện riêng với đồng độ
 Nive cho biết sẽ sớm rời khỏi Maalt trước khi người từ Học Viện và Tòa Tháp tràn tới; cô ghé sát mặt Rentt khẳng định vẫn luôn tin vào trực giác rằng anh là Ma Cà Rồng bất chấp mọi thử nghiệm.
 Bắt gặp cảnh hai người kề sát mặt nhau, Rina ngỡ ngàng chất vấn hiểu lầm khiến Lorraine và Nive hùa vào trêu chọc; sau màn bông đùa, Nive chào tạm biệt và thông báo ngày mai sẽ lên đường rời thị trấn.
 
-
-
+## 206
+Sau khi chia tay Nive, Rentt, Lorraine và Rina quay lại dinh thự gia tộc Latuule để nhờ Isaac chỉ dạy các kỹ thuật đặc thù của Ma Cà Rồng.
+Isaac giải thích điểm yếu chí mạng của Ma Cà Rồng trước Thần Lực (làm chậm và giảm số lần tái sinh), đồng thời biểu diễn rút ra Huyết Binh (San Arms) - thanh Ma Lực Kiếm đỏ rực ẩn trong cơ thể do thợ rèn Ma Cà Rồng độc nhất vô nhị chế tác có thể đả thương Ma Cà Rồng như người thường.
+Isaac thị phạm kỹ năng Phân Liệt (Division) bằng cách phân tách toàn thân thành đàn dơi rồi hợp thể lại, sau đó hướng dẫn phương pháp Phân Liệt một phần từ đầu ngón tay thông qua luyện tập hình dung.
+Vì sức mạnh của Rentt còn thiếu ổn định (từng tạo cột lửa khổng lồ từ ma pháp mồi lửa), Isaac quyết định để Rina thực hành trước; Rina nhắm mắt tập trung kích hoạt Phân Liệt từ đầu ngón tay.
 
