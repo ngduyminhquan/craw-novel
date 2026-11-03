@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T03:42:34Z",
+  "generatedAt": "2026-11-03T03:48:07Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3143,6 +3143,12 @@
           "title": "Chương 165: Tập 7 Chương 3 - Vô Số Bí Mật (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_165.md",
           "sha": "314fc8f65d2bf7d76dd8caefd29bc2cb793f3063"
+        },
+        {
+          "number": 166,
+          "title": "Chương 166: Tập 7 Chương 3 - Vô Số Bí Mật (4)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_166.md",
+          "sha": "99dff5cc98299116b2d252e20ef02086e69abace"
         }
       ]
     },

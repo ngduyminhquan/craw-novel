@@ -980,3 +980,9 @@ Nhóm tiến vào khu rừng phía bắc gần pháo đài Hathara; Capitan và 
 Capitan phô diễn lối đánh dao săn cầm ngược điêu luyện, phối hợp đòn tấn công kép dao - nắm đấm và dùng dây bền chắc làm từ bộ phận ma vật để đu mình né đòn trên không đầy biến ảo; Rentt dùng "Mắt Ma Cà Rồng" bắt kịp quỹ đạo vũ khí nhưng kiếm chém trúng thì Capitan vận Khí Lực ngưng tụ lên da cứng như kim loại hóa giải hoàn toàn.
 Rentt đổi sang truyền Khí Lực vào kiếm thay vì Ma Lực để phá nhịp của Capitan; khi Capitan dùng sống dao chặn cú đâm, Rentt dồn lượng lớn Khí Lực ra sau lưng tạo lực đẩy cực đại hất tung Capitan gãy cả thân cây.
 Capitan né được nhát chém bồi nhờ cảm nhận luồng gió di chuyển; bụi đất tan dần để lộ đôi cánh sau lưng Rentt khiến Capitan kinh ngạc tột độ.
+
+## 166
+Rentt lần lượt vận dụng Thần Lực và Ma Khí Dung Hợp Thuật để phá vỡ thế thủ của Capitan; Capitan mưu trí dụ Rentt chém đứt bẫy dây để mũi tên bắn lén nhưng Rentt né được và tiếp tục dồn ép đối thủ.
+Rentt tận dụng lực đẩy cực đại từ đôi cánh kết hợp dao găm dung hợp cả ba nguồn năng lượng (Ma Lực, Khí Lực, Thần Lực) lao thẳng vào Capitan; đòn va chạm khiến dao săn của Capitan và dao găm của Rentt cùng phát nổ tan tành.
+Cả hai kết thúc trận đấu bằng cú đấm đôi đồng thời khiến đôi bên cùng kiệt sức ngã quỵ và chấp nhận kết quả hòa; Capitan hết lời khen ngợi và công nhận Rentt đã thực sự mạnh lên vượt bậc, xóa tan nỗi mặc cảm mười năm của anh.
+Khi trận đấu khép lại, Capitan bắt đầu gặng hỏi Rentt về nguồn gốc đôi cánh cùng những cử động phi nhân loại của anh; Rentt nhận ra Capitan đã lờ mờ đoán được bí mật thể chất ma vật của mình.

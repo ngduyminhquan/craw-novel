@@ -170,7 +170,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | reviewed |  |
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | reviewed |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | reviewed |  |
-| 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | todo |  |
+| 166 |  | Chapter_166 - Vol 7 Chapter 3 - Numerous Secrets (4).txt | Vol 7 Chapter 3 - Numerous Secrets (4) | done |  |
 | 167 |  | Chapter_167 - Vol 7 Chapter 4 - Vampires of Days Past (1).txt | Vol 7 Chapter 4 - Vampires of Days Past (1) | todo |  |
 | 168 |  | Chapter_168 - Vol 7 Chapter 4 - Vampires of Days Past (2).txt | Vol 7 Chapter 4 - Vampires of Days Past (2) | todo |  |
 | 169 |  | Chapter_169 - Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1).txt | Vol 7 Chapter 5 - Laura, Head of the Latuule Family (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -739,3 +740,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#163] Dịch thuật ngữ 'Akashic records': tạm chọn 'Bản Ghi Akashic' (phương án khác: 'Tàng Thư Akasha', 'Hồ Sơ Akashic'). → Chốt "Bản Ghi Akashic". (orchestrator)
 - [#163] Dịch tên vũ khí 'Dragonslayer', 'Giantslayer', 'Godslayer', 'Theoretical Dragonslayer': tạm chọn 'Đồ Long', 'Đồ Cự Nhân', 'Đồ Thần', 'Đồ Long Trên Lý Thuyết' (phương án khác: 'Trảm Long', 'Trảm Cự Nhân', 'Trảm Thần'). → Chốt "Đồ Long", "Đồ Cự Nhân", "Đồ Thần", "Đồ Long Trên Lý Thuyết" theo quy tắc Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#164] Dịch kỹ năng chiến đấu 'jujutsu' của Capitan (đoạn 63) — tạm chọn 'Nhu thuật' theo Hán Việt (柔術) và thêm vào glossary.md (phương án khác: 'thuật nhu đạo', 'thuật cận chiến'). → Chốt "Nhu thuật" (柔術). (orchestrator)
+- [#166] Dịch chủng tộc 'Winged folk' (đoạn 65) — tạm chọn 'Tộc Có Cánh' theo tiền lệ Wyvern-folk → Tộc Phi Long (phương án khác: 'Dực Nhân tộc', 'Tộc Dực Nhân', 'người có cánh'). Tạm dùng trong bản dịch: 'Tộc Có Cánh'. → Chốt "Tộc Có Cánh" nhất quán với tiền lệ Wyvern-folk → Tộc Phi Long. (orchestrator)
+- [#166] Dịch đòn đánh 'cross-counter' (đoạn 39) — tạm giữ 'cú cross-counter' theo thuật ngữ võ thuật quen thuộc (phương án khác: 'đòn đánh chéo', 'đòn phản công đối diện'). Tạm dùng trong bản dịch: 'cú cross-counter'. → Tạm giữ "cú cross-counter" theo thuật ngữ võ thuật quen thuộc; sẽ rà soát lại ở vòng review 166-168. (orchestrator)

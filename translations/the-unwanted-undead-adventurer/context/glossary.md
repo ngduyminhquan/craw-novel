@@ -87,7 +87,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Paladin | paladins; Paladins | Thánh Kỵ Sĩ | chức nghiệp | 43 | Kỵ sĩ phụng sự Giáo Hội có khả năng truyền Thần Lực vào vũ khí (聖騎士) |
 | Orichalcum |  | Orichalcum | vật phẩm | 43 | Kim loại huyền thoại cực kỳ quý hiếm trong fantasy (オリハルコン) |
 | Mithril |  | Mithril | vật phẩm | 44 | Kim loại ma thuật quý hiếm (ミスリル) |
-| Mana-spirit Fusion Arts | Mana-spirit Fusion Art | Ma Khí Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp đồng thời Ma Lực và Khí Lực (魔気融合術) |
+| Mana-spirit Fusion Arts | Mana-spirit Fusion Art; mana-spirit fusion; Mana-spirit fusion | Ma Khí Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp đồng thời Ma Lực và Khí Lực (魔気融合術) |
 | Fusion Art | Fusion Arts; Fusion-Arts; fusion arts | Dung Hợp Thuật | kỹ năng | 43 | Kỹ thuật kết hợp các nguồn năng lượng khác nhau (融合術) |
 | Todds Village |  | Làng Todds | địa danh | 45 | Ngôi làng nhỏ ở phía đông Maalt gần Hồ Ruiess |
 | Ruiess Lake |  | Hồ Ruiess | địa danh | 45 | Hồ nước nhỏ gần Làng Todds |
@@ -326,3 +326,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Daris’s Island | Daris's Island | Đảo Daris | địa danh | 163 | Hòn đảo thuộc Cộng Hòa Thorn có ma pháp trận dịch chuyển |
 | jujutsu |  | Nhu thuật | kỹ năng | 164 | Thế võ cận chiến bắt nguồn từ Vương Quốc Cổ Đại (柔術) |
 | Vampire Eye | Vampire Eyes; vampire eyes | Mắt Ma Cà Rồng | kỹ năng | 165 | Cách Rentt gọi thị lực cường hóa nhận diện sinh mệnh nhờ thể chất ma cà rồng |
+| beastfolk |  | thú nhân | chủng tộc | 53 | Chủng tộc mang đặc điểm thú có tri thức chứ không phải quái vật (獣人) |
+| Winged folk | winged folk | Tộc Có Cánh | chủng tộc | 166 | Chủng tộc thú nhân mang đôi cánh sau lưng (翼人種) |
