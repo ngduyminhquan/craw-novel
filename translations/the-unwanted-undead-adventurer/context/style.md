@@ -43,3 +43,4 @@
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
+- (208) Ngoại truyện Tập 9: nửa đầu (đoạn 1–21) kể theo góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart khi quan sát Rentt thực hành Phân Liệt; sau dấu phân cách (từ đoạn 23) quay lại góc nhìn ngôi thứ nhất của Rentt Faina.

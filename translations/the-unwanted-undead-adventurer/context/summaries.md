@@ -1228,4 +1228,10 @@ Isaac dặn Rina cần tiếp tục luyện tập để quen dần việc phân 
 Cả nhóm trao đổi về tương lai bán Ma Cà Rồng của Rina; Isaac động viên rằng cuộc sống ma cà rồng bất lão không tệ nhưng phải đối mặt với nỗi chán chường thời thế, và khuyên cô nên tự mình đưa ra lựa chọn.
 Đến lượt Rentt thực hành Phân Liệt, do nghe Lorraine gợi ý về việc hình dung thực vật nên ngón tay anh biến thành cành cây; không dừng lại ở đó, trí tưởng tượng bay bổng khiến cánh tay còn lại của Rentt phóng ra bóng thỏ và chim chóc tạo thành một tập hợp sinh thái kỳ quặc trước sự sững sờ của mọi người.
 
+## 208
+Nửa đầu theo góc nhìn của Isaac: kinh ngạc chứng kiến Rentt từ một cành cây phân liệt tiếp thành bầy thú (thỏ, chim, lợn rừng, Rồng nhỏ, chuột) rồi biến thành một khu rừng u ám khổng lồ gợi nhớ Shumini, trước khi Rentt kiểm soát thu hồi toàn bộ phân thân trở lại bình thường và thành công thực hiện Phân Liệt toàn thân ngay lần đầu.
+Nửa sau quay lại góc nhìn của Rentt: Isaac giải thích phương pháp chia ý thức thành chỉ huy và binh sĩ vốn chỉ dùng cho Phân Liệt một phần chứ không thích hợp cho toàn thân, đồng thời cảnh báo Rina không nên học đòi theo trường hợp dị biệt của Rentt.
+Lorraine nhận xét Rentt giờ gần như bất tử nhờ kết hợp tái sinh và Phân Liệt, nhưng Isaac nghiêm túc cảnh báo nguy cơ tử vong lớn nhất của Ma Cà Rồng mới sinh là mất cảm giác nguy hiểm và ỷ lại vào năng lực, đặc biệt trước những kẻ dùng Thần Lực hoặc vũ khí tẩm Thần Lực.
+Isaac quyết định tạm dừng buổi dạy để Rentt và Rina rèn luyện cho thật nhuần nhuyễn Phân Liệt trước khi chuyển sang các kỹ thuật Ma Cà Rồng nâng cao khác.
+
 

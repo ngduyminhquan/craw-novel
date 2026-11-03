@@ -212,7 +212,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 205 |  | Chapter_205 - Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4).txt | Vol 9 Chapter 2 - Vampire Hunters and Confirmation (4) | reviewed |  |
 | 206 |  | Chapter_206 - Vol 9 Chapter 3 - Vampiric Techniques (1).txt | Vol 9 Chapter 3 - Vampiric Techniques (1) | reviewed |  |
 | 207 |  | Chapter_207 - Vol 9 Chapter 3 - Vampiric Techniques (2).txt | Vol 9 Chapter 3 - Vampiric Techniques (2) | reviewed |  |
-| 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | todo |  |
+| 208 |  | Chapter_208 - Vol 9 Side Story - Isaac the Vampire.txt | Vol 9 Side Story - Isaac the Vampire | done |  |
 | 209 |  | Chapter_209 - Vol 9 Chapter 4 - The Tower and the Academy (1).txt | Vol 9 Chapter 4 - The Tower and the Academy (1) | todo |  |
 | 210 |  | Chapter_210 - Vol 9 Chapter 4 - The Tower and the Academy (2).txt | Vol 9 Chapter 4 - The Tower and the Academy (2) | todo |  |
 | 211 |  | Chapter_211 - Vol 9 Chapter 4 - The Tower and the Academy (3).txt | Vol 9 Chapter 4 - The Tower and the Academy (3) | todo |  |
