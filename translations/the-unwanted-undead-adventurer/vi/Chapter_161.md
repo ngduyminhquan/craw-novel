@@ -12,7 +12,7 @@ Tôi đã quên bẵng không đả động đến phần đó. "Ồ, phải r�
 
 "Tiến Hóa Bản Thể á? Giống như việc lũ Slime bình thường có thể trở thành Slime Ra'al mang độc ấy hả?"
 
-"Ví dụ đó cụ thể đến đáng sợ đấy, nhưng ừ, tôi nghĩ là vậy chăng?" Tôi nói với vẻ không mấy tự tin. Tôi quay sang Lorraine để tìm kiếm sự xác nhận.
+"Ví dụ đó cụ thể đến đáng sợ đấy, nhưng ừ, tôi nghĩ là vậy chăng?" tôi nói với vẻ không mấy tự tin. Tôi quay sang Lorraine để tìm kiếm sự xác nhận.
 
 "Phải, điều đó đại thể là chính xác," Lorraine nói. "Thế nhưng khi Slime trải qua sự biến đổi thuộc tính, điều đó không nhất thiết sẽ nâng cao năng lực thể chất của chúng. Việc liệu điều đó có nên được gọi là tiến hóa hay không vẫn còn là điều gây tranh cãi, nên đây là một ví dụ có phần thiếu vững chắc. Anh hãy nghĩ về nó tương tự như cách một Khô Lâu trở thành Khô Lâu Binh ấy."
 
@@ -64,7 +64,7 @@ Câu hỏi về việc ai là người diễn giải khế ước và diễn gi�
 
 "Được rồi, hiểu rồi." Augurey nhận lấy bản khế ước từ tay tôi rồi ký tên mình.
 
-"Tên dài thật đấy," tôi nói. Tôi cứ ngỡ chỉ là Augurey Ars thôi, nhưng nó còn kéo dài thêm một đoạn dài sau đó nữa.
+"Tên dài thật đấy," tôi nói. Tôi cứ ngỡ chỉ là Augurey Ars thôi, nhưng nó còn nối tiếp thêm cả một tràng dài sau đó nữa.
 
 "Đừng nhìn, xấu hổ chết đi được," Augurey càu nhàu.
 
@@ -82,7 +82,7 @@ Tôi cảm thấy như mình đang phá vỡ quy tắc bất thành văn của g
 
 "Dường như chẳng có chuyện gì xảy ra cả," tôi nói. Augurey và Lorraine cũng đưa tay chạm vào nó.
 
-"Cái quái gì vừa xảy ra thế?" Augurey hỏi. "Chuyện đó lẽ ra phải xảy ra khi người ta ký một bản khế ước được Hozei ban phước sao?" Tôi có thể hiểu được sự bối rối của Augurey. Những bản khế ước ma pháp thông thường cũng phát sáng sau khi có hiệu lực, nên nếu người ta cho rằng đây chỉ là một sự kéo dài của hiện tượng đó thì chẳng có gì đáng sợ cả.
+"Cái quái gì vừa xảy ra thế?" Augurey hỏi. "Chuyện đó lẽ ra phải xảy ra khi người ta ký một bản khế ước được Hozei ban phước sao?" Tôi có thể hiểu được sự bối rối của Augurey. Những bản khế ước ma pháp thông thường cũng phát sáng sau khi có hiệu lực, nên nếu người ta cho rằng đây chỉ là một dạng mở rộng của hiện tượng đó thì chẳng có gì đáng sợ cả.
 
 Thế nhưng Lorraine lắc đầu. "Tôi từng chứng kiến một trong những thứ này được sử dụng rồi, và lần đó nó chỉ phát sáng như cách bất kỳ bản khế ước ma pháp thông thường nào phát sáng mà thôi. Ánh sáng quả thực có vẻ rực rỡ hơn đôi chút, nhưng chỉ có vậy. Chẳng hề có ảo ảnh của bất kỳ ai xuất hiện cả."
 

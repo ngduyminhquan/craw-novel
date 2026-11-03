@@ -4,11 +4,11 @@
 
 Việc cảm nhận thánh khí rõ ràng đòi hỏi một quá trình rèn luyện nhất định mà chúng tôi không có, dẫu vậy tôi vẫn nhận ra không khí trong phòng đã trở nên thanh khiết đến lạ thường. Nếu ví không khí được Thần Lực thanh lọc tựa như khí trời nơi núi rừng đồng nội, thì bầu không khí lúc này lại giống với không gian vô trùng được niêm phong hoàn toàn hơn. Tôi cảm nhận được sự hiện diện của một ý chí mãnh liệt, đanh thép, tuyệt đối không khoan nhượng trước bất kỳ thứ gì tà ác. Thế nhưng bản thân tôi lại là Ma Cà Rồng — một sinh vật tà ác đúng nghĩa — nên chuyện đó nghe chừng chẳng thuyết phục cho lắm.
 
-"Có điều gì bất thường lắm sao?" Tôi cất tiếng hỏi vị tư tế khi thấy người nọ liên tục hít thở sâu. Người đó liền phóng ánh mắt sắc lẹm về phía tôi rồi túm chặt lấy cổ áo tôi.
+"Có điều gì bất thường lắm sao?" tôi cất tiếng hỏi vị tư tế khi thấy người nọ liên tục hít thở sâu. Người đó liền phóng ánh mắt sắc lẹm về phía tôi rồi túm chặt lấy cổ áo tôi.
 
-"Thế này là sao?! Rốt cuộc chuyện quái quỷ gì đã xảy ra ở đây thế hả?! Mau nói cho tôi biết!" Người đó gào lên rồi lắc mạnh người tôi. Trông người nọ hoàn toàn mất hết bình tĩnh.
+"Thế này là sao?! Rốt cuộc chuyện quái quỷ gì đã xảy ra ở đây thế hả?! Mau nói cho tôi biết!" người đó gào lên rồi lắc mạnh người tôi. Trông người nọ hoàn toàn mất hết bình tĩnh.
 
-"Liệu có thể buông tay tôi ra được không?" Tôi hỏi.
+"Liệu có thể buông tay tôi ra được không?" tôi hỏi.
 
 Vị tư tế cuối cùng cũng lấy lại được lý trí. "Ôi, xin thứ lỗi. Tôi hơi quá khích một chút," người đó nói rồi buông tay. Tôi có cảm giác như mình vừa giữ lại được mạng sống. Không hẳn là tôi có thể bị giết chỉ vì bị túm cổ áo, nhưng tôi đoán chừng khi ấy phần hồn của mình cũng suýt bay mất rồi.
 
@@ -20,7 +20,7 @@ Lúc này khi nhìn kỹ lại vị tư tế, người đó thực ra lại là 
 
 Vị nữ tư tế ủ rũ buông xuôi rồi cởi phăng mũ trùm ra lần nữa. "Có lẽ cô nói đúng," cô bảo. Trông cô có vẻ đãng trí đến lạ lùng. Dẫu vậy, lúc dẫn đường cho chúng tôi ban nãy, cô lại hành xử hết sức trôi chảy và giải thích mọi chuyện đâu ra đấy. Có lẽ bầu không khí trong căn phòng này đã khiến bản tính thật của cô lộ ra chăng. Dù sao thì tăng lữ rốt cuộc cũng chỉ là con người mà thôi. Nhưng miêu tả về vị nữ tư tế này chừng đó là đủ rồi.
 
-"Cô vừa nói gì về thánh khí cơ?" Tôi hỏi cô.
+"Cô vừa nói gì về thánh khí cơ?" tôi hỏi cô.
 
 "À, phải rồi. Tôi không rõ liệu có ai trong các vị cảm nhận được không, nhưng căn phòng này đang ngập tràn thánh khí. Cứ như thể thần linh vừa mới ngự nơi đây vậy. Tôi thậm chí còn muốn tuyên bố căn phòng này là thánh địa nữa kia."
 
@@ -30,7 +30,7 @@ Câu trả lời của cô khiến mấy người chúng tôi đưa mắt nhìn 
 
 Cô nhã nhặn cúi đầu đón lấy bản khế ước từ tay tôi rồi giơ lên không trung để quan sát. "Bản khế ước này chắc chắn đã được Hozei đích thân ban phước," cô nói.
 
-"Chẳng phải vốn dĩ chúng đều mang sự ban phước của Hozei sao?" Tôi hỏi.
+"Chẳng phải vốn dĩ chúng đều mang sự ban phước của Hozei sao?" tôi hỏi.
 
 "Đúng là như vậy, nhưng xét theo nghĩa cụ thể hơn thì lại không phải. Những bản khế ước này do các Thánh Giả được Hozei ban phước tạo ra, nên chúng chỉ gián tiếp mang sự ban phước của Hozei mà thôi. Tuy nhiên, nếu cứ nói chung chung rằng chúng được Hozei ban phước thì nghe chừng sẽ trọng thể hơn," cô giải thích.
 
@@ -94,13 +94,13 @@ Augurey ngước nhìn vị trí mặt trời. "Ôi thôi, chẳng còn nhiều 
 
 Tôi nhìn chung thường gắn bó với những chuyến mạo hiểm đơn độc, nhưng điều đó là bởi tôi từng nghĩ chiến đấu một mình sẽ là cách hiệu quả nhất để trở nên mạnh mẽ hơn. Giờ đây quan điểm của tôi đã thay đổi đôi chút. Vả lại, hồi cả hai còn là những mạo hiểm giả đi lẻ nghèo túng ở Maalt, chúng tôi thỉnh thoảng vẫn nhận chung nhiệm vụ. Tôi chẳng có lý do gì để từ chối, và xem chừng Lorraine cũng vậy.
 
-"Được thôi, lần tới tới đây tôi sẽ liên lạc với anh," tôi nói. "Lẽ ra tôi sẽ liên hệ qua hội, nhưng tôi không nghĩ mình có thể làm thế."
+"Được thôi, lần tới khi đến đây tôi sẽ liên lạc với anh," tôi nói. "Lẽ ra tôi sẽ liên hệ qua Hội, nhưng tôi không nghĩ mình có thể làm thế."
 
 "Vậy thì cứ liên hệ tới nhà trọ này nhé," Augurey mau mắn đáp lời, hiểu rõ nỗi ngần ngại của tôi. "Đó là nơi tôi luôn thuê trọ. Hẹn gặp lại sau." Anh ta trao cho tôi một mẩu giấy ghi tên nhà trọ cùng vị trí đại khái của nó, rồi vẫy tay chào tạm biệt và rảo bước rời đi.
 
 ◆◇◆◇◆
 
-"Giờ chúng ta đi tới điểm hẹn luôn chứ?" Tôi hỏi Lorraine.
+"Giờ chúng ta đi tới điểm hẹn luôn chứ?" tôi hỏi Lorraine.
 
 "Tôi cũng nghĩ vậy. Vẫn chưa hẳn tới giờ hẹn, nhưng thời gian sít sao lắm rồi. Tôi chẳng muốn làm bà Gharb và chú Capitan nổi giận đâu."
 
@@ -122,7 +122,7 @@ Khi tôi dứt lời, bà Gharb thở dài ngao ngán. "Hai đứa chỉ đi d�
 
 "Thế à? Ta hiểu rồi, hiểu rồi. Hai đứa không nói cho cậu ta biết về các ma pháp trận dịch chuyển đấy chứ?"
 
-"Dạ không, chúng cháu không nói," tôi bảo. "Cháu nghĩ mình không nên nhắc tới chuyện đó khi chưa được sự cho phép của bà. Có thể tụi cháu đã có thể kể cho anh ta sau khi lập khế ước, nhưng cháu đã quyết định không làm vậy."
+"Dạ không, chúng cháu không nói," tôi bảo. "Cháu nghĩ mình không nên nhắc tới chuyện đó khi chưa được sự cho phép của bà. Có lẽ tụi cháu đã có thể kể cho anh ta sau khi lập khế ước, nhưng cháu đã quyết định không làm vậy."
 
 Khi nhắc tới những bí mật của riêng mình, quyền lựa chọn tiết lộ điều gì và cho ai hoàn toàn thuộc về tôi. Kết cục là, dẫu tôi có bị ai đó như Nive giết chết đi chăng nữa, tôi cũng chỉ có thể tự trách bản thân mình mà thôi. Thế nhưng các ma pháp trận dịch chuyển rốt cuộc lại là vấn đề của Hathara. Việc để lộ bí mật ấy không phải là quyết định mà tôi có quyền tự tiện đưa ra.
 
@@ -134,7 +134,7 @@ Chú Capitan gật đầu. "Phải, ý của tụi này là vậy đấy. Chú �
 
 "Thế nhưng nếu điều đó khiến các ma pháp trận dịch chuyển bị phát giác, làng Hathara sẽ ra sao đây ạ?" Lorraine cất giọng đầy lo ngại.
 
-"Cô không cần phải bận tâm quá nhiều về chuyện đó đâu," tôi nói. "Trong trường hợp xảy ra bất kỳ biến cố nào, các ma pháp trận dịch chuyển bên phía Hathara đều có thể bị xóa bỏ. Có đúng vậy không ạ?" Tôi hỏi rồi quay sang nhìn bà Gharb.
+"Cô không cần phải bận tâm quá nhiều về chuyện đó đâu," tôi nói. "Trong trường hợp xảy ra bất kỳ biến cố nào, các ma pháp trận dịch chuyển bên phía Hathara đều có thể bị xóa bỏ. Có đúng vậy không ạ?" tôi hỏi rồi quay sang nhìn bà Gharb.
 
 "Phải, ta đã được chỉ dạy cách thức rồi. Nếu muốn làm thì ta hoàn toàn có thể làm được. Sau đó, làng Hathara chỉ việc giả ngây giả ngô là xong. Sẽ chẳng còn ma pháp trận dịch chuyển nào để mà tìm kiếm nữa, thế nên sẽ chẳng có rắc rối nào phát sinh cả."
 
@@ -144,7 +144,7 @@ Chú Capitan gật đầu. "Phải, ý của tụi này là vậy đấy. Chú �
 
 Giọng điệu của bà làm tôi nhớ lại quãng thời gian mình từng thụ giáo dưới sự chỉ dạy của bà. Ngay cả tới tận bây giờ, điều đó vẫn khiến tôi có chút e dè sợ sệt. Bà lão Gharb có thể là một người vô cùng tàn nhẫn và nghiêm khắc. Hồi đó tôi đã phải dốc hết sức bình sinh để học thuộc lòng mọi thứ, thành thử chẳng có lấy một khoảnh khắc nào để ngẫm xem nó khắc nghiệt đến nhường nào. Giờ mà bảo làm lại thì chắc chắn tôi sẽ thấy mệt mỏi lắm. Thế nhưng dẫu ngày ấy bà từng ép tâm trí tôi đến tận cùng giới hạn, nếu phải làm lại từ đầu một lần nữa, tôi vẫn sẽ sẵn lòng.
 
-Lorraine thì trái lại, dường như xem đây là cơ hội tuyệt vời để tiếp thu những điều mới mẻ và thú vị. "Cháu nóng lòng quá rồi đây ạ!" Cô nói, đôi mắt sáng rực. Nếu cô ấy có thể tìm thấy niềm vui trong chuyện này, thì hẳn cô ấy có thể tận hưởng bất cứ thứ gì trên đời.
+Lorraine thì trái lại, dường như xem đây là cơ hội tuyệt vời để tiếp thu những điều mới mẻ và thú vị. "Cháu nóng lòng quá rồi đây ạ!" cô nói, đôi mắt sáng rực. Nếu cô ấy có thể tìm thấy niềm vui trong chuyện này, thì hẳn cô ấy có thể tận hưởng bất cứ thứ gì trên đời.
 
 Dẫu vậy, nếu các ma pháp trận dịch chuyển thực sự có thể bị phá hủy, điều đó có nghĩa là ngay cả khi có ai đó nghe phong phanh về chúng, làng Hathara vẫn có thể giả vờ như chẳng liên quan gì. Có lẽ mọi chuyện vẫn sẽ tồi tệ nếu ai đó phát hiện ra chúng nằm ở Hathara trước khi kịp phá hủy, nhưng khi ấy chúng tôi chỉ việc đảm bảo sao cho kẻ phát hiện ra tuyệt đối không thể hé răng với bất kỳ ai. Nếu có thể, tôi muốn mình có đủ khả năng phá hủy các ma pháp trận dịch chuyển trước khi xảy ra cơ sự đó. Có lẽ sẽ là một ý hay nếu nghĩ ra cách nào đó để biến điều này thành hiện thực. Hoặc biết đâu chừng đã có sẵn một cách thức như thế rồi cũng nên. Tôi chẳng dám chắc, nhưng lúc này tôi cảm thấy bớt lo lắng hơn đôi chút.
 
@@ -152,9 +152,9 @@ Dẫu vậy, nếu các ma pháp trận dịch chuyển thực sự có thể b�
 
 "Hửm?" Lorraine cất tiếng trên đường tiến về phía cổng thành.
 
-"Có chuyện gì thế?" Tôi hỏi.
+"Có chuyện gì thế?" tôi hỏi.
 
-"Kia chẳng phải Augurey sao?" Cô đáp. Tôi nhìn theo hướng mắt cô, và Augurey quả nhiên đang đứng đó thật. Anh ta đang nói chuyện với một bé gái và cố trao cho cô bé thứ gì đó.
+"Kia chẳng phải Augurey sao?" cô đáp. Tôi nhìn theo hướng mắt cô, và Augurey quả nhiên đang đứng đó thật. Anh ta đang nói chuyện với một bé gái và cố trao cho cô bé thứ gì đó.
 
 Nói thật thì tôi biết nghe lén là không phải phép, nhưng đây lại là giữa phố chính của Vistelya. Nghĩ bụng nghe ngóng một chút chắc cũng chẳng chết ai, trí tò mò đã thôi thúc tôi kích hoạt Tai Ma Cà Rồng của mình. Dù vậy, đó chẳng phải tên của một kỹ năng thực thụ nào đâu; chỉ là cách tôi tự gọi thính lực được cường hóa của mình mà thôi.
 

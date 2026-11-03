@@ -65,3 +65,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#150) Từ "cackle / cackling": dịch là "cười the thé / cười man rợ / cười rợn người" (tránh dịch là "cười khúc khích").
 - (#152) Thành ngữ "live up to one's reputation": dịch là "quả không hổ danh", "thực sự danh bất hư truyền" (tránh dịch lặp nghĩa thành "không hổ danh với danh tiếng").
 - (#152, #153) Tránh dùng tiếng lóng hiện đại/phương ngữ lệch tông fantasy phương Tây (như "ngon tuyệt cú mèo", "xạo ke") và tránh dịch máy "Yeah" thành "Vâng" trong đối thoại ngang hàng (dùng "Phải đấy", "Đúng vậy").
+- (#160) Thành ngữ "hit (someone) where it hurts": dịch là "chạm đúng vào chỗ đau / đánh trúng điểm yếu của ai" (tránh dịch sai lệch thành "đánh trúng tim đen" vì mang nghĩa dã tâm, mưu tính xấu xa).
+- (#162) Câu dẫn thoại đi liền sau lời thoại kết thúc bằng dấu hỏi "?" hoặc dấu cảm thán "!" (như "..." tôi hỏi, "..." cô nói, "..." người đó gào lên): viết thường chữ cái đầu câu dẫn thoại (tránh dịch máy theo thói quen viết hoa tiếng Anh "..." I asked -> "..." Tôi hỏi).

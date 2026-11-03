@@ -164,9 +164,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 157 |  | Chapter_157 - Vol 7 Chapter 2 - Backup (1).txt | Vol 7 Chapter 2 - Backup (1) | reviewed |  |
 | 158 |  | Chapter_158 - Vol 7 Chapter 2 - Backup (2).txt | Vol 7 Chapter 2 - Backup (2) | reviewed |  |
 | 159 |  | Chapter_159 - Vol 7 Chapter 2 - Backup (3).txt | Vol 7 Chapter 2 - Backup (3) | reviewed |  |
-| 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | done |  |
-| 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | done |  |
-| 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | done |  |
+| 160 |  | Chapter_160 - Vol 7 Chapter 2 - Backup (4).txt | Vol 7 Chapter 2 - Backup (4) | reviewed |  |
+| 161 |  | Chapter_161 - Vol 7 Chapter 2 - Backup (5).txt | Vol 7 Chapter 2 - Backup (5) | reviewed |  |
+| 162 |  | Chapter_162 - Vol 7 Chapter 2 - Backup (6).txt | Vol 7 Chapter 2 - Backup (6) | reviewed |  |
 | 163 |  | Chapter_163 - Vol 7 Chapter 3 - Numerous Secrets (1).txt | Vol 7 Chapter 3 - Numerous Secrets (1) | todo |  |
 | 164 |  | Chapter_164 - Vol 7 Chapter 3 - Numerous Secrets (2).txt | Vol 7 Chapter 3 - Numerous Secrets (2) | todo |  |
 | 165 |  | Chapter_165 - Vol 7 Chapter 3 - Numerous Secrets (3).txt | Vol 7 Chapter 3 - Numerous Secrets (3) | todo |  |

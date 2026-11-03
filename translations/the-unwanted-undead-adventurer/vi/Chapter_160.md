@@ -14,13 +14,13 @@ Lời giải thích của cô nghe chừng rất có lý, nhưng đối với m�
 
 "Anh sắp biết rất nhiều chuyện đấy. Nếu anh chỉ đồng ý giữ im lặng thì anh chẳng cần phải biết, nhưng bản khế ước này đã thay đổi mọi sự. Nếu chúng ta định viết ra những điều khoản chi tiết, chúng tôi sẽ phải nói cho anh biết mọi thứ."
 
-"Ừ, tôi cho là cô nói có lý. Nếu bản khế ước chỉ đơn giản buộc tôi phải giữ im lặng về việc hai người đến vương đô bằng cách nào, rồi lỡ sau này hai người đàng hoàng công khai tới vương đô vào những dịp khác mà tôi vẫn cứ phải ngậm miệng thì tôi sẽ chẳng thể nói được lời nào. Nhưng nếu hai người áp đặt một số giới hạn nhất định, ta có thể quy định cụ thể hơn về những điều tôi không được phép nói ra. Như thế chẳng phải thuận tiện hơn cho hai vị sao?"
+"Ừ, tôi cho là cô nói có lý. Nếu bản khế ước chỉ đơn giản buộc tôi phải giữ im lặng về việc hai người đến vương đô bằng cách nào, rồi lỡ sau này hai người đàng hoàng công khai tới vương đô vào những dịp khác mà tôi vẫn cứ phải ngậm miệng thì tôi sẽ chẳng thể nói được lời nào. Nhưng nếu hai người áp đặt một số giới hạn nhất định, ta có thể quy định cụ thể hơn về những điều tôi không được phép nói ra. Như thế chẳng phải thuận tiện hơn cho hai người sao?"
 
 "Như thế sẽ tạo gánh nặng lớn cho anh, không phải sao? Chúng ta có thể lập một bản khế ước như vậy, nhưng điều đó sẽ rất gò bó. Nó có thể dẫn tới những hậu quả không lường trước được."
 
 "Có thể là vậy, nhưng nếu ở vào vị trí của hai người, tôi sẽ lập khế ước mà chẳng cần bận tâm đến những hậu quả đó đâu. Hai người trước giờ luôn tốt tính đến mức hiếm thấy đối với mạo hiểm giả. Có thể nói là quá tốt bụng ấy chứ. Nhất là cậu đấy, Rentt."
 
-Câu đó đánh trúng tim đen của tôi.
+Câu đó chạm đúng vào chỗ đau của tôi.
 
 "Điều đó có thể đúng với Rentt, nhưng tôi thì không đâu, Augurey."
 
