@@ -337,4 +337,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | magic medic |  | y sĩ ma thuật | chức nghiệp | 174 | Người chữa bệnh bằng kiến thức y dược kết hợp ma thuật |
 | Ancient Woods of Rasta |  | Rừng Cổ Đại Rasta | địa danh | 175 | Khu rừng nằm cách Maalt hai ngày đường về phía đông bắc |
 | ancient ent | Ancient Ent; ancient ents; Ancient ents | Ent Cổ Đại | quái vật | 175 | Phân loài Ent cây gỗ cổ đại nguy hiểm sinh sống sâu trong Rừng Cổ Đại Rasta |
+| magic eyes | magic eye | ma nhãn | khác | 176 | Đôi mắt ma thuật nhìn thấy dòng chảy ma lực hoặc năng lực ma thuật ẩn giấu |
+| Mandragora | mandragora | Mandragora | quái vật | 176 | Quái vật thực vật hình người nổi tiếng với tiếng thét chói tai |
 | Chiweb | village of Chiweb | Chiweb | địa danh | 175 | Ngôi làng không xa Maalt nơi căn bệnh do côn trùng ma vật thường xuất hiện |

@@ -1038,3 +1038,8 @@ Bá tước Robista cùng Hayden gặp gỡ Rentt và Lorraine Vivie trước H�
 Cả nhóm đi khắp Maalt khảo sát các khu chợ và ngõ hẻm, thu mua được nhiều dược liệu quý hiếm; Lorraine tiết lộ căn bệnh của Elaine giống chứng bệnh do côn trùng ma vật ở Làng Chiweb và đã có phương thuốc trị liệu tại địa phương.
 Khi bá tước định kết thúc ủy thác, con búp bê mang theo bỗng cử động và hé lộ một phân thân thần tinh linh của Viroget đang trú ngụ bên trong; phân thân cảnh báo bệnh của Elaine nặng hơn người thường và chỉ dẫn cần lấy lá của Ent Cổ Đại tại Rừng Cổ Đại Rasta để tăng cường dược tính trước khi hóa thành tro bụi.
 Rentt và Lorraine xung phong dẫn đường cho bá tước đến Rừng Cổ Đại Rasta vào ngày mai; Bá tước Robista vô cùng cảm kích, cúi đầu tạ ơn và hứa sẽ hậu tạ xứng đáng cho hai mạo hiểm giả.
+
+## 176
+Tại Rừng Cổ Đại Rasta, nhóm mạo hiểm giả chạm trán một con Ent Cổ Đại khổng lồ; Rentt áp sát làm mồi nhử quấy rối, Lorraine phô diễn kỹ năng kiểm soát ma pháp lửa đỉnh cao thiêu rụi cành gai mà không làm cháy lá dược liệu rồi dùng ma pháp dây leo trói chặt quái vật mở đường; Hayden chớp thời cơ đâm kiếm xuyên qua điểm yếu ở trán kết liễu con quái vật.
+Sau khi thu hoạch lượng lớn lá Ent Cổ Đại, Bá tước Robista nhận ra ý đồ của Viroget là muốn ông dập tắt nguy cơ dịch bệnh bùng phát, bày tỏ lòng biết ơn sâu sắc và bắt tay Lorraine cùng Rentt trước khi rời Maalt trở về vương đô.
+Trở về nhà ăn tối, Lorraine cảnh báo Rentt vì anh suýt để lộ năng lực Undead khi chiến đấu bên cạnh mạo hiểm giả Kim Cấp như Hayden; một tháng sau, Bá tước Robista gửi thư báo tin dịch bệnh tại lãnh địa đã bị dập tắt hoàn toàn nhờ phương thuốc được sản xuất hàng loạt, kèm thư cảm tạ từ tiểu thư Elaine, và Rentt cùng Lorraine nâng ly ăn mừng.

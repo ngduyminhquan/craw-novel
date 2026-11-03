@@ -304,3 +304,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Count Curtis Nal Robista | Lorraine Vivie | tôi | cô / Lorraine | 175 | Quý tộc giả danh nói chuyện lịch thiệp với nữ mạo hiểm giả kiêm y sĩ ma thuật |
 | Viroget | Count Curtis Nal Robista | ta | ngươi / con người | 175 | Phân thân thần tinh linh trong búp bê nói chuyện với tín đồ |
 | Count Curtis Nal Robista | Viroget | tôi | ngài | 175 | Tín đồ nói chuyện tôn kính với thần linh / thần tinh linh |
+| Lorraine Vivie | Hayden War | tôi | anh / Hayden | 176 | Hai mạo hiểm giả cấp cao trao đổi chiến thuật phối hợp |
+| Hayden War | Lorraine Vivie | tôi | cô / Lorraine | 176 | Mạo hiểm giả Kim Cấp nói chuyện nể phục với nữ học giả ma thuật Ngân Cấp |
