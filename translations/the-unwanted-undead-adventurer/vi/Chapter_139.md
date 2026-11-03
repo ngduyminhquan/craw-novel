@@ -2,13 +2,13 @@
 
 "Xin lỗi vì tôi đã xen vào," Lorraine lập tức đáp. Khi tưởng nhớ những người đã khuất, sự hiện diện của người khác có thể gây phiền toái. Rentt đang hội ngộ với người đã khuất, và Lorraine không muốn làm phiền anh. Không ai nên ngắt quãng giây phút ấy.
 
-"Không sao đâu," Rentt nói. Anh giữ lấy cánh tay cô khi cô toan rời đi. "Tôi đoán là Papa đã nói cho cô biết tôi ở đây."
+"Không sao đâu," Rentt nói. Anh giữ lấy cánh tay cô khi cô toan rời đi. "Tôi đoán là ba đã nói cho cô biết tôi ở đây."
 
-Chắc hẳn anh đang ám chỉ Ingo, nhưng lúc trước Rentt đã gọi ông là "cha". Lorraine thắc mắc liệu có phải anh chủ ý gọi ông là "Papa" lúc này vì đang đứng trước mộ cha mẹ ruột hay không. Nếu đó là một sự lựa chọn trong vô thức, cô nghĩ tốt nhất mình không nên đào sâu thêm.
+Chắc hẳn anh đang ám chỉ Ingo, nhưng lúc trước Rentt đã gọi ông là "cha". Lorraine thắc mắc liệu có phải anh chủ ý gọi ông là "ba" lúc này vì đang đứng trước mộ cha mẹ ruột hay không. Nếu đó là một sự lựa chọn trong vô thức, cô nghĩ tốt nhất mình không nên đào sâu thêm.
 
 "Sao anh biết được? Anh không nghĩ là tự tôi tìm ra nơi này à?"
 
-"Nơi này cách khá xa phần còn lại của ngôi làng, và cô biết đấy, từ khi trở thành Undead, hành tung của tôi rất khó bị phát hiện. Ngay cả cô cũng khó lòng tự mình tìm ra tôi dễ dàng thế này. Vả lại, Papa biết mỗi lần về thăm nhà tôi đều tới đây. Nơi này khiến tôi quên bẵng cả thời gian. Tôi thường nán lại lâu đến mức thể nào cũng có người phải đến gọi về."
+"Nơi này cách khá xa phần còn lại của ngôi làng, và cô biết đấy, từ khi trở thành Undead, hành tung của tôi rất khó bị phát hiện. Ngay cả cô cũng khó lòng tự mình tìm ra tôi dễ dàng thế này. Vả lại, ba biết mỗi lần về thăm nhà tôi đều tới đây. Nơi này khiến tôi quên bẵng cả thời gian. Tôi thường nán lại lâu đến mức thể nào cũng có người phải đến gọi về."
 
 Có lẽ đó là lý do Ingo không hề nhắc đến việc nơi đây là một nghĩa trang. Nếu ông nói ra, Lorraine có thể đã ngần ngại không tới. Nhưng nếu những gì Rentt nói là thật, thì việc tìm anh ở đây là chuyện thường ngày ở huyện, nên cô chẳng có lý do gì phải cảm thấy áy náy cả. Lorraine quyết định nán lại và ngồi xuống.
 
