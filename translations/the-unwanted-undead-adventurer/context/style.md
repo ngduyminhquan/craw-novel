@@ -36,6 +36,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 10. **Giọng Raiz Dunner và Laura Satii (#33–38).** Raiz bộc trực, thẳng thắn, giàu năng lượng nhưng biết lắng nghe và cầu tiến; Laura Satii điềm tĩnh, nhỏ nhẹ, lễ phép và chín chắn hơn tuổi. Cả hai đối thoại tự nhiên như bạn đồng hành thân thiết ("tôi/tụi mình - cậu/Raiz/Laura"), tôn trọng Rentt chân thành nhưng bình đẳng, không "dạ/ạ" (Raiz gọi "anh / Rentt", Laura gọi "anh / anh Vivie").
 11. **Thoại trêu đùa của Lorraine (#40).** Khi Lorraine trêu Rentt về chuyện tình cảm hay phụ nữ ("made your move on her"), dùng khẩu ngữ tự nhiên ("cưa cẩm", "tán tỉnh", "tán đổ"), tránh dịch máy rập khuôn ("ra tay").
 12. **Màn thử lòng và chuyển biến sắc thái của Lorraine (#41).** Khi Lorraine đóng vai trò mạo hiểm giả Ngân Cấp lão luyện để thử lòng người ngoài về bí mật của Rentt, lời thoại đanh thép, gằn từng tiếng, ánh mắt lạnh lùng như đối diện quái vật; khi đối phương vượt qua bài kiểm tra thì lập tức chuyển về giọng điệu thường nhật điềm tĩnh, thực dụng và pha chút trêu đùa.
+13. **Tâm lý tự trào của Rentt khi bị người khác đố kỵ (#42).** Khi biết mình là đối tượng bị người khác đố kỵ và vu oan, Rentt không hề phẫn nộ mà lại thấy khoái chí, tự trào một cách hài hước trước sự trớ trêu của số phận (trước đây luôn là kẻ ghen tị với người khác, nay lần đầu tiên được người khác ghen tị với thành tựu của mình).
 
 ## Từ cảm thán / cách nói cố định
 
@@ -63,6 +64,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
 - (40) Sheila Ibarss biết thân phận thật của Rentt (Thi Quỷ) và ký khế ước ràng buộc ma pháp giữ bí mật; Rentt đưa Sheila về gặp Lorraine.
 - (41) Lorraine dùng sát khí mạo hiểm giả thử thách dũng khí và lòng quyết tâm của Sheila; ba người cùng dùng bữa tối và Lorraine rà soát các điều khoản khế ước ràng buộc ma pháp.
+- (42) Sheila giải thích các lý do Rentt bị chú ý (ngoại hình, tốc độ thăng hạng và các vụ tân binh mất tích bí ẩn); cả ba bàn bạc và Rentt quyết định tạm hoãn vào mê cung để đi nhận hàng đặt rèn ở tiệm Clope.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
