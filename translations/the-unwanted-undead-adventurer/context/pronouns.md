@@ -439,4 +439,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Ferrici | tôi | em / Ferrici | 235 | Nữ học giả hỏi thăm thiếu nữ trong làng |
 | Ferrici | Lorraine Vivie | tôi | các vị / chị | 235 | Thiếu nữ rụt rè trả lời mạo hiểm giả |
 | Ferrici | * | tôi | các vị | 235 | Thiếu nữ rụt rè nói chuyện với nhóm mạo hiểm giả |
+| Augurey | Ferrici | tôi | em / Ferrici | 236 | Mạo hiểm giả tiếp chuyện thiếu nữ trong làng |
+| Ferrici | Augurey | em | anh / Augurey | 236 | Thiếu nữ tiếp cận mạo hiểm giả vào ban đêm |
 

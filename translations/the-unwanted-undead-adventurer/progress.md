@@ -240,7 +240,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | reviewed |  |
 | 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | reviewed |  |
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | done |  |
-| 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | todo |  |
+| 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | done |  |
 | 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | todo |  |
 | 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | todo |  |
 | 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | todo |  |
@@ -877,3 +877,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#235] Dịch tiêu đề arc/chương 'Vol 10 Chapter 4 - The Arrival (1)' — tạm chọn 'Tập 10 Chương 4 - Đến Nơi (1)' (phương án khác: 'Tập 10 Chương 4 - Điểm Đến (1)', 'Tập 10 Chương 4 - Tới Nơi (1)'). Tạm dùng trong bản dịch: 'Tập 10 Chương 4 - Đến Nơi (1)'. → Giữ 'Tập 10 Chương 4 - Đến Nơi (1)'. (orchestrator)
 - [#235] Dịch tên quái vật mới 'mime wyvern' (light-blue mime wyverns) — tạm chọn 'Phi Long Mime' đồng bộ cấu trúc với 'Phi Long Zeva' và 'Phi Long Grand Fum' trong glossary.md (phương án khác: 'Phi Long Bắt Chước', 'Phi Long Mẫu'). Tạm dùng trong bản dịch: 'Phi Long Mime'. → Giữ 'Phi Long Mime' đồng bộ với 'Phi Long Zeva' và 'Phi Long Grand Fum' trong glossary.md. (orchestrator)
 - [#235] Dịch vật phẩm 'wyvern elata' (biến thể cách gọi của 'wyvern flax' ở #231) — tạm chọn 'lanh Phi Long' đồng bộ với #231 và thêm Alias vào mục 'wyvern flax' trong glossary.md (phương án khác: 'cây lanh Phi Long', 'cỏ lanh Phi Long'). Tạm dùng trong bản dịch: 'lanh Phi Long'. → Giữ 'lanh Phi Long' đồng bộ với 'wyvern flax' ở chương 231 và thêm vào cột Alias của glossary.md. (orchestrator)
+- [#236] Từ "Grandpa..." trong độc thoại của Augurey: raw không nói rõ ông nội hay ông ngoại; tạm dùng "Ông..." cho tự nhiên và bao quát. → Giữ "Ông..." (chung cho cả ông nội/ông ngoại vì raw chỉ viết "Grandpa"). (orchestrator)

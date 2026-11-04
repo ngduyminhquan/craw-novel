@@ -248,6 +248,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 160: Khen ngợi kiếm thuật cùng thực lực vượt bậc của Rentt đã đủ sức vượt qua kỳ thi Ngân Cấp; tiết lộ hồi ở Maalt từng định rủ Rentt cùng lên vương đô; được Rentt tiết lộ sự thật đã biến thành Undead (Ma Cà Rồng) và chứng kiến Rentt tự cào rách tay biểu diễn khả năng tự hồi phục tức thì; không hề sợ hãi hay thù ghét mà vẫn xem Rentt là bạn, thậm chí sẵn sàng chia sẻ máu của mình cho Rentt nếu cần.
 - Trạng thái tính đến chương 161: Thổ lộ sở thích đặc biệt với Slime và những thí nghiệm chế tạo bình chứa thất bại thời còn ở Maalt; có một cái tên thật dài ngoằng thời trẻ bốc đồng; cùng Rentt ký khế ước ma pháp và kinh ngạc chứng kiến ảo ảnh Nữ Thần Hozei xuất hiện ban phước.
 - Trạng thái tính đến chương 231: Rủ Rentt và Lorraine cùng lập tổ đội tạm thời nhận các ủy thác tồn đọng lâu năm đòi hỏi kinh nghiệm đặc thù thay vì sức chiến đấu đơn thuần; đánh giá cao thực lực thực chiến và kiến thức sinh tồn rừng sâu của Rentt nên kiên quyết chia đều thù lao làm ba phần dù Rentt chỉ mang cấp bậc Đồng Cấp.
+- Trạng thái tính đến chương 236: Từng thề không bao giờ quay về quê nhà vì chán ngấy những kẻ kiêu ngạo bảo thủ, nhưng nhờ tiếp xúc với Rentt và Lorraine nên nhận ra tầm quan trọng của cội nguồn và nhen nhóm ý định cùng hai người bạn về thăm người ông của mình; dễ dàng hóa giải đòn ám sát của Ferrici nhờ trực giác nhạy bén tôi luyện từ các kỳ thi mạo hiểm giả và trận mạc (#236).
 
 ### Ryuntus
 - Giới tính, tuổi/vẻ ngoài: Nam, trạc ngoài đôi mươi, thanh niên chất phác sống ở Làng Todds ven Hồ Ruiess.
@@ -790,7 +791,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ferrici
 - Giới tính, vai trò: Nữ, thiếu nữ tại Làng Looza (#235).
-- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235).
+- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235). Nửa đêm diện váy trễ vai lẻn vào phòng Augurey dùng mỹ nhân kế rồi rút dao ám sát nhưng thất bại, bị Augurey tước dao và đánh ngất; biểu hiện gào thét như thú dại khiến Augurey nghi ngờ cô bị thao túng hoặc không phải Siren thật sự (#236).
 - Xuất hiện từ: #235.
 
 

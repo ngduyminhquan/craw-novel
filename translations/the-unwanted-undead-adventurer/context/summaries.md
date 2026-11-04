@@ -1390,6 +1390,13 @@ Cả ba ghé vào quán rượu duy nhất của ngôi làng hẻo lánh và đ�
 Ferrici hốt hoảng can ngăn vì hồ đang trong mùa giao phối của loài Phi Long Mime (phân loài hung dữ màu xanh lam nhạt thuộc Phi Long Zeva); khi Lorraine gặng hỏi về bí quyết người làng từng tiếp cận hồ thu hoạch lanh Phi Long và đề nghị thuê dẫn đường, Ferrici hoảng sợ bỏ chạy.
 Không thể khai thác thêm thông tin từ dân làng, nhóm Rentt quyết định sẽ dùng vũ lực xông thẳng vào lãnh địa Phi Long vào ngày hôm sau dựa vào sức mạnh ma pháp của Lorraine, rồi thanh toán tiền và rời quán rượu trở về quán trọ nghỉ ngơi.
 
+## 236
+Về tới quán trọ ở Làng Looza, nhóm Rentt được xếp 3 phòng riêng; Augurey hồi tưởng về người ông ở quê nhà và nhen nhóm ý định sẽ cùng Rentt và Lorraine về thăm ông.
+Nửa đêm, Ferrici bất ngờ tới gõ cửa phòng Augurey trong chiếc váy trễ vai quyến rũ, nhưng rồi bất thình lình rút dao đâm lén ám sát anh; Augurey dễ dàng tước vũ khí, thấy đối phương gào thét như thú dại nên đánh ngất rồi trói lại cẩn thận.
+Augurey nhận định thể lực và chiêu thức của Ferrici hoàn toàn là nghiệp dư, không giống nữ sát thủ Siren, nên vác cô sang phòng Rentt và Lorraine để hội ý; khi gõ cửa phòng Rentt, cả hai bên đều hài hước thanh minh rằng phòng mình "trong sạch".
+Cảnh kết thúc: Rentt mở cửa đón Augurey đang vác Ferrici trên vai bước vào phòng.
+
+
 
 
 
