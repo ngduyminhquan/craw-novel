@@ -1,171 +1,171 @@
 # Chương 37: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (8)
 
-Trong lúc chúng tôi bận rộn thu gom phần xác còn lại của con Đại Slime vừa bị hạ gục, một nhóm mạo hiểm giả đi lướt qua chỗ chúng tôi. Tôi đoán chừng họ đã nấp sẵn trong bóng tối suốt từ nãy đến giờ, toan tính băng qua phòng thủ lĩnh mà chẳng tốn chút công sức nào sau khi có một nhóm khác đánh bại con quái vật bên trong.
+Trong lúc chúng tôi bận thu gom phần còn sót lại của con Đại Slime vừa bị hạ gục, một nhóm mạo hiểm giả đi lướt qua chỗ chúng tôi. Tôi đoán họ đã nấp sẵn trong bóng tối suốt từ nãy đến giờ, tính đợi nhóm khác đánh bại con quái vật bên trong rồi mới đi qua phòng thủ lĩnh mà chẳng tốn chút sức nào.
 
-Khôn ngoan đấy. Rồi một ngày nào đó họ sẽ trở thành những mạo hiểm giả giỏi giang, bởi lẽ đã làm cái nghề này thì luôn cần có chút giảo hoạt.
+Khôn ngoan đấy. Rồi có ngày họ sẽ trở thành những mạo hiểm giả giỏi giang, bởi đã làm cái nghề này thì luôn cần có chút ranh mãnh.
 
-Thế nhưng, Raiz lại quắc mắt nhìn đám mạo hiểm giả ấy đầy vẻ khó chịu. Có lẽ cậu muốn thuyết giáo cho họ một bài về sự bất công trong tình cảnh này cùng thói ăn sẵn đáng ghét; còn Laura thì chỉ mỉm cười, vỗ nhẹ vào vai Raiz vài cái.
+Thế nhưng Raiz lại quắc mắt nhìn đám mạo hiểm giả ấy đầy khó chịu. Có lẽ cậu muốn mắng cho họ một trận về sự bất công trước mắt cùng những điều chướng tai gai mắt khác; còn Laura thì chỉ mỉm cười, vỗ nhẹ vào vai Raiz vài cái.
 
-Laura nhạy bén hơn nhiều, cô đã sớm nhận ra vài quy tắc bất thành văn trong nghề mạo hiểm giả, và dường như chẳng mấy bận tâm trước việc có kẻ tiến bước dựa trên công sức của chúng tôi. Tôi không vô cớ để họ vượt lên trước, càng chẳng phải tôi làm vậy vì lòng từ thiện. Quy tắc của bài thi nêu rõ nhóm đầu tiên chạm tới điểm chỉ định sẽ giành chiến thắng, nhưng để họ đi trước lại có lợi cho tôi hơn.
+Laura nhạy bén hơn nhiều, cô đã sớm nhận ra vài quy tắc bất thành văn trong nghề mạo hiểm giả, và dường như chẳng mấy bận tâm chuyện có nhóm khác tiến bước dựa trên công sức của chúng tôi. Tôi cũng đâu có vô cớ nhường họ vượt lên trước, càng chẳng phải vì lòng từ thiện. Thể lệ bài thi nêu rõ nhóm đầu tiên chạm tới điểm chỉ định sẽ thắng cuộc, nhưng cứ để họ đi trước lại có lợi cho tôi hơn.
 
-Lý do rất đơn giản, và nếu tôi đoán không lầm thì nó sắp sửa được chứng minh ngay đây thôi. Còn gã trưởng nhóm nấp chờ kia thì đang hớn hở dẫn đồng đội rời khỏi phòng. Đó là nụ cười thỏa mãn như thể vừa đạt được mục tiêu sau bao nỗi nhọc nhằn. Những thành viên còn lại trong nhóm anh ta cũng vậy.
+Lý do rất đơn giản, và nếu tôi tính không lầm thì sẽ sớm được chứng minh ngay thôi. Về phần gã trưởng nhóm nấp chờ kia, anh ta đang tươi cười dẫn đồng đội bước ra khỏi phòng. Đó là nụ cười thỏa mãn của kẻ vừa đạt được mục đích sau bao vất vả. Những người còn lại trong nhóm anh ta cũng vậy.
 
 Thế nhưng, ngay khoảnh khắc họ vừa bước một chân ra khỏi cửa phòng thủ lĩnh...
 
 Xììì!
 
-Cùng với tiếng khí phụt ra, một làn khói cuồn cuộn trào tới nuốt chửng cả nhóm họ, phủ mờ lối ra ở đằng xa.
+Cùng với tiếng khí xì ra, một làn khói dày đặc ập tới nuốt chửng cả nhóm họ, phủ mờ lối ra ở đằng xa.
 
-Một cái bẫy. Lại thêm một mưu tính nữa của Hội.
+Một cái bẫy. Lại thêm một mánh khóe nữa của Hội.
 
-"...Đúng như... tôi nghĩ," tôi vừa nói vừa đứng dậy. Laura quay sang nhìn tôi, chờ đợi một lời giải thích.
+"...Đúng như... tôi nghĩ," tôi vừa nói vừa đứng dậy. Laura quay sang nhìn tôi, chờ nghe giải thích.
 
-"Anh đã biết trước chuyện này sẽ xảy ra sao, anh Vivie?"
+"Anh biết trước chuyện này sẽ xảy ra sao, anh Vivie?"
 
-"...Phải. Đứng ngay trước... vạch đích. Là điều nguy hiểm... thứ hai. Khi đi... thám hiểm mê cung. Còn điều nguy hiểm nhất... là lơ là... cảnh giác."
+"...Phải. Đứng ngay trước... vạch đích. Là lúc nguy hiểm... thứ nhì. Khi đi... thám hiểm mê cung. Còn nguy hiểm nhất... là lơ là... cảnh giác."
 
 "...Có lẽ đúng là thế thật..." Laura gật đầu trước lời tôi.
 
-Raiz thì vẫn nhìn trân trân vào nhóm mạo hiểm giả đang chìm trong khói với vẻ mặt ngơ ngác. Cũng chính làn khói ấy giờ đây đang len lỏi về phía giữa phòng, và tất nhiên là hướng thẳng về phía chúng tôi.
+Raiz thì vẫn nhìn chằm chằm vào nhóm mạo hiểm giả đang chìm trong khói với vẻ mặt ngơ ngác. Cũng chính làn khói ấy giờ đang bò dần về phía giữa phòng, và tất nhiên là hướng thẳng về chỗ chúng tôi.
 
-"À... Laura. Cô có thể... thổi bay chỗ đó... bằng chút ma pháp... phong hệ không?"
+"À... Laura. Cô có thể... thổi bay đám khói đó... bằng chút ma pháp... phong hệ không?"
 
-"Vâng, dĩ nhiên rồi. Đó là cách tốt nhất lúc này... Breeze!"
+"Vâng, tất nhiên rồi ạ. Làm vậy là tốt nhất... Breeze!"
 
-Chỉ với một câu niệm, một luồng gió ấm áp nhưng đều đặn tuôn ra từ đầu trượng của Laura, thổi tan làn khói đang bò tới. Dù ma pháp này không đủ uy lực để tấn công quái vật, nhưng đây lại là một phép thuật rất dễ điều khiển và thuần thục. Chẳng mấy chốc, đám khí kia đã bị lùa vào một góc xa của phòng thủ lĩnh.
+Chỉ với một tiếng hô, một luồng gió ấm và đều đặn thổi ra từ đầu cây trượng của Laura, xua tan làn khói đang bò tới. Dù ma pháp này không đủ mạnh để tấn công quái vật, nhưng lại rất dễ điều khiển và thuần thục. Chẳng mấy chốc, luồng khí kia đã bị lùa vào một góc xa trong phòng thủ lĩnh.
 
-Nhờ thế mà chúng tôi an toàn tránh được cạm bẫy, nhưng nhóm mạo hiểm giả ở lối ra do không kịp đề phòng nên đã phải hứng trọn làn khói. Trong hoàn cảnh bình thường thì lẽ ra chúng tôi đã xua tan khói ngay lập tức, có điều lúc này thể trạng của Laura lại không được tốt cho lắm. Có lẽ do trận chiến căng thẳng vừa rồi, hoặc do chút khí gas ít ỏi đã kịp bay tới chỗ chúng tôi, cô thậm chí còn chật vật trong việc duy trì ánh sáng trên cây quyền trượng, bất kể tài năng ma pháp thiên bẩm của mình.
+Nhờ vậy mà chúng tôi tránh được bẫy an toàn, nhưng nhóm mạo hiểm giả ở ngay cửa ra vì bị bất ngờ nên đã hứng trọn luồng khói. Bình thường thì chúng tôi đã xua tan khói ngay lập tức, có điều lúc này sức lực của Laura lại không được tốt lắm. Có lẽ vì trận đánh căng thẳng vừa rồi, hoặc vì đã hít phải chút khí bay tới chỗ chúng tôi, mà ngay cả giữ ánh sáng trên đầu trượng cô cũng thấy chật vật, dù có năng khiếu ma pháp thiên bẩm.
 
-Một lát sau, làn khói tan dần.
+Một lát sau, khói tan dần.
 
 "Tôi... hiểu rồi. Hóa ra là loại bẫy... đó."
 
-"Khí gây mê... hoặc thứ gì đó tương tự. Đáng sợ thật... Nếu bây giờ họ bị tấn công thì coi như xong đời," Laura nhìn nhóm mạo hiểm giả đã ngã gục mà nói. Khi làn khói tản đi, cảnh tượng đập vào mắt chúng tôi là từng người bọn họ đều đã ngủ say như chết trên sàn hành lang mê cung.
+"Khí gây mê... hoặc thứ gì đó tương tự. Đáng sợ thật... Giờ mà bị tấn công thì coi như xong đời," Laura nhìn nhóm mạo hiểm giả đã ngã gục mà nói. Khi làn khói tản đi, cảnh tượng hiện ra trước mắt chúng tôi là từng người bọn họ đều đã ngủ say như chết trên sàn hành lang mê cung.
 
-Laura vẫn chưa hề lơ là cảnh giác. Dù thấm mệt, cô đã chuẩn bị sẵn một vài ma pháp để đối phó nếu còn thêm bẫy khói nào khác. Còn tôi thì cường hóa cơ thể mình bằng ma pháp Khiên Chắn, tay rút sẵn kiếm cảnh giới trước bất kỳ con quái vật hay mối đe dọa tiềm tàng nào.
+Laura vẫn chưa hề lơ là cảnh giác. Dù thấm mệt, cô đã chuẩn bị sẵn vài ma pháp để đối phó nếu còn bẫy khói nào khác. Còn tôi thì niệm ma pháp Khiên Chắn lên người, tay rút sẵn kiếm đề phòng quái vật hay bất kỳ mối nguy nào ập tới.
 
-Raiz nhìn những mạo hiểm giả đang ngủ say, lẩm bẩm một mình: "...Nếu chúng ta đi trước, liệu cả nhóm cũng thành ra như thế sao...?"
+Raiz nhìn đám mạo hiểm giả đang ngủ say, lẩm bẩm một mình: "...Nếu chúng ta đi trước thì có bị như thế không nhỉ...?"
 
-Sự việc vừa rồi dường như đã giúp Raiz biết động não đôi chút. Tôi gật đầu đáp lại thắc mắc của cậu.
+Chuyện vừa rồi xem ra đã giúp Raiz biết suy nghĩ hơn một chút. Tôi gật đầu đáp lại câu hỏi của cậu.
 
-"Tôi... e là vậy. Mấy người... này. Chỉ đơn giản là đi tới... đúng lúc mà thôi."
+"Tôi... e là vậy. Mấy người... này. Chỉ là đi tới... đúng lúc mà thôi."
 
-Người ta có thể tranh cãi rằng làm vậy là vô nhân đạo, thậm chí bất công. Thế nhưng chính đám mạo hiểm giả ấy cũng chẳng hề ngần ngại lợi dụng chúng tôi đánh bại con trùm để mở đường. Đã thế thì chuyện chúng tôi mượn tay họ kích hoạt bẫy cũng đáng được lượng thứ, nếu không muốn nói ngay từ đầu đã hoàn toàn chấp nhận được.
+Ai đó có thể cho rằng làm vậy là nhẫn tâm, thậm chí bất công. Nhưng chính đám mạo hiểm giả ấy cũng chẳng ngại lợi dụng chúng tôi đánh bại con trùm rồi mới đi tiếp. Đã thế thì chuyện chúng tôi để họ dẫm bẫy thay mình cũng đáng được cảm thông, nếu không muốn nói ngay từ đầu đã chẳng có gì sai.
 
-"Ư, vậy thì phải bảo tôi trước chứ..." Raiz càu nhàu.
+"Ư, thế thì anh phải bảo tôi trước chứ..." Raiz càu nhàu.
 
-"...Nếu cậu có thể... tự mình suy nghĩ. Tự mình rút ra... kết luận... thì cậu đã trưởng thành... thành một mạo hiểm giả giỏi hơn rồi đấy. Mà... trong trường hợp của cậu, Raiz à... cậu đã có... Laura rồi. Nên có lẽ thế này... cũng ổn."
+"...Nếu cậu có thể... tự mình suy nghĩ. Tự rút ra... kết luận... thì cậu đã trưởng thành... thành một mạo hiểm giả giỏi hơn rồi đấy. Mà... với cậu, Raiz à... cậu đã có... Laura rồi. Nên có lẽ thế này... cũng ổn."
 
-Tuy không muốn Raiz đột nhiên đánh mất nét ngây thơ mà trở thành một kẻ đa nghi cay độc, nhưng rõ ràng tính cách đơn thuần của cậu rồi sẽ có ngày trở thành chướng ngại cản bước tiến của cả hai. May mắn cho cậu là Laura tiếp thu những bài học của tôi khá nhanh. Cô đã hiểu được rằng luôn phải biết đề phòng người khác, bất kể đối phương có là mạo hiểm giả hay không.
+Tuy không muốn Raiz bỗng dưng mất hết vẻ ngây thơ mà đâm ra đa nghi thực dụng, nhưng rõ ràng tính cách đơn thuần của cậu rồi sẽ có ngày cản trở sự phát triển của cả hai. May cho cậu là Laura tiếp thu những bài học của tôi khá nhanh. Cô đã hiểu ra rằng lúc nào cũng phải biết đề phòng người khác, dù đối phương có là mạo hiểm giả hay không.
 
-Tôi cho rằng cứ để Laura lo hết chuyện tính toán, còn Raiz chỉ việc xông xáo nơi tuyến đầu cũng là một cách. Dẫu vậy, chí ít tôi vẫn hy vọng một ngày nào đó Raiz sẽ đủ khả năng để thấu hiểu bao nỗi niềm suy tính chắc chắn đang ngổn ngang trong tâm trí Laura.
+Tôi nghĩ cứ giao hết việc tính toán cho Laura, còn Raiz chỉ việc đánh đấm ở tuyến đầu cũng là một cách. Dù vậy, ít nhất tôi vẫn mong có ngày Raiz đủ sức hiểu được bao suy tính chắc chắn đang chạy qua trong đầu Laura.
 
-Nghe tôi bày tỏ suy nghĩ của mình, Raiz bẽn lẽn gật đầu đồng tình.
+Nghe tôi nói vậy, Raiz ngượng ngùng gật đầu đồng tình.
 
-"Tôi đoán vậy... Này Laura, tôi chẳng giỏi mấy chuyện suy tính này đâu... Nhưng nếu có điều gì cậu thấy tôi nên biết thì cứ bảo nhé, tôi sẽ cố hết sức tự mình ngẫm nghĩ."
+"Chắc vậy... Này Laura, tôi chẳng giỏi mấy chuyện tính toán này đâu... Nhưng nếu thấy có gì tôi cần biết thì cậu cứ bảo nhé, tôi sẽ cố tự suy nghĩ xem sao."
 
-"Dĩ nhiên rồi. Nhưng Raiz này... cậu không cần phải ép mình vắt óc suy nghĩ quá đâu. Tôi cũng sẽ cố gắng hết sức gánh vác thay phần cậu mà."
+"Tất nhiên rồi. Nhưng Raiz này... cậu không cần phải ép mình nghĩ ngợi quá đâu. Tôi cũng sẽ cố gắng hết sức thay phần cậu mà."
 
-Nhìn hai người họ mỉm cười với nhau, tôi bất giác nhớ lại thời thanh xuân của mình. Nhưng hồi ấy làm gì có cô gái nào trạc tuổi đồng hành cùng tôi trong những chuyến phiêu lưu cơ chứ.
+Nhìn hai đứa nhìn nhau cười, tôi bất giác nhớ lại thời trẻ của mình. Nhưng hồi ấy làm gì có cô gái nào trạc tuổi đồng hành cùng tôi trong những chuyến mạo hiểm đâu.
 
 Lorraine ư...?
 
-Có lẽ... Đúng là cô ấy từng đồng hành với tôi thật, nhưng so sánh như vậy thì có gì đó không đúng cho lắm. Cả tôi và Lorraine đều tương đối... Có lẽ dùng từ "thuần khiết" ở đây là không thích hợp. Dù sao đi nữa thì bản thân chúng tôi vốn dĩ cũng là những kẻ lập dị và đầy rắc rối rồi.
+Có lẽ... Đúng là cô ấy từng đi cùng tôi thật, nhưng so sánh như vậy cứ thấy sai sai thế nào ấy. Cả tôi lẫn Lorraine đều thuộc dạng... Có lẽ dùng từ "trong sáng" ở đây là không hợp lắm. Dù sao thì bản thân hai đứa tôi vốn cũng là những kẻ kỳ quặc và đầy rắc rối rồi.
 
-Dù sao thì chúng tôi vẫn phải đi nốt chặng đường còn lại.
+Dù thế nào thì chúng tôi vẫn phải đi nốt chặng đường còn lại.
 
 "...Được rồi. Chúng ta nên... đi sớm thôi. Tôi đoán là... chẳng còn bẫy nào nữa đâu. Dù vậy... vẫn nên cẩn thận... tiến bước."
 
-Cả hai gật đầu nghe theo lời tôi. Quyết tâm hiện rõ mồn một trên gương mặt họ. Cả Laura lẫn Raiz đều chẳng muốn trượt bài thi khi chỉ còn cách vạch đích vài bước chân. Hồi mới đặt chân vào Mê Cung Tân Nguyệt, trông họ cũng chỉ như bao mạo hiểm giả ngờ nghệch khác, nhưng giờ đây trông họ đã rắn rỏi hơn nhiều, dù chưa hẳn đã dày dạn kinh nghiệm.
+Cả hai gật đầu nghe theo. Quyết tâm hiện rõ trên mặt họ. Cả Laura lẫn Raiz đều chẳng muốn trượt bài thi khi chỉ còn cách vạch đích vài bước chân. Hồi mới bước vào hành lang Mê Cung Tân Nguyệt, trông họ cũng ngây ngô chẳng khác gì bao mạo hiểm giả khác, nhưng giờ đã cứng cáp hơn nhiều, dù chưa tới mức dày dạn kinh nghiệm.
 
-Nếu phải nhận xét thì chỉ trong một khoảng thời gian ngắn ngủi, họ đã tiến bộ vượt bậc đến đáng nể.
+Nếu phải nhận xét thì chỉ trong thời gian ngắn mà trưởng thành được từng ấy đã là rất đáng nể.
 
 ◆◇◆◇◆
 
-"Mừng các bạn đã đến nơi! Tất cả các bạn đều tới đây vì bài thi thăng hạng Đồng Cấp phải không? Xin chúc mừng! Các bạn là nhóm đầu tiên tới được đây đấy," người đàn ông, rõ ràng là một nhân viên của Hội Mạo Hiểm Giả, lên tiếng.
+"Mừng các bạn đã tới nơi! Mọi người đều tới đây vì bài thi thăng hạng Đồng Cấp phải không? Xin chúc mừng! Các bạn là nhóm đầu tiên tới được đây đấy," người đàn ông, nhìn là biết nhân viên Hội Mạo Hiểm Giả, lên tiếng.
 
-Tôi quan sát anh ta nhưng không tìm thấy bất kỳ điểm bất thường nào; vẻ mặt của anh ta trông cũng chẳng hề giả tạo. Để chắc ăn, tôi yêu cầu kiểm tra thẻ chứng nhận do Hội cấp của anh ta. Sau khi xác nhận đó là đồ thật, tôi thở phào nhẹ nhõm, thầm nghĩ bài kiểm tra thế là đã kết thúc. Vậy là sẽ chẳng còn cạm bẫy nào nữa, và tất cả chúng tôi cuối cùng cũng có thể trút được gánh nặng trong lòng.
+Tôi quan sát anh ta nhưng không thấy điểm gì khả nghi; nét mặt anh ta trông cũng rất tự nhiên. Để chắc ăn, tôi hỏi xem thẻ nhân viên do Hội cấp của anh ta. Xác nhận là thẻ thật xong, tôi mới thở phào, thầm nghĩ bài thi thế là đã kết thúc. Vậy là không còn cạm bẫy nào nữa, cả nhóm cuối cùng cũng có thể trút được gánh nặng.
 
-Nhìn thấy phản ứng của tôi, người nhân viên bật cười: "Haha! Cảnh giác ghê nhỉ? Tôi đoán các bạn cũng phát mệt với mấy trò này rồi... Nhưng đúng thế, đây chính là điểm chỉ định."
+Thấy phản ứng của tôi, người nhân viên bật cười: "Haha! Làm các bạn một phen hú vía nhỉ? Chắc mọi người cũng phát mệt với mấy trò này rồi... Nhưng đúng thế, đây chính là điểm chỉ định."
 
 "Vậy... chúng tôi xong rồi sao? Chúng tôi đỗ bài thi rồi hả?" Raiz hỏi.
 
-"À thì... trên nguyên tắc là vậy. Dù tôi không dám đảm bảo là phía chúng tôi không còn chiêu trò nào giấu giếm đâu nhé... Dù sao đi nữa, đây là những chiếc phù hiệu chứng nhận các bạn đã tới được địa điểm này. Một chiếc cho cậu... cho cô... và cho cậu. Tổng cộng ba chiếc cho cả ba người. Đem nộp cái này cho tiếp tân viên của Hội khi quay về Maalt là cả ba bạn sẽ chính thức được thăng lên Đồng Cấp."
+"À thì... về lý thuyết là vậy. Dù tôi không dám chắc bên tôi có còn giấu bài nào nữa không đâu nhé... Dù sao thì đây là phù hiệu chứng nhận các bạn đã tới được điểm này. Một chiếc cho cậu... cho cô... và cho cậu. Tổng cộng ba chiếc cho ba người. Khi về Maalt, các bạn cứ nộp lại cho tiếp tân của Hội là cả ba sẽ chính thức được thăng lên Đồng Cấp."
 
-Người nhân viên vừa đếm phù hiệu vừa phát cho chúng tôi. Chúng là những vật nhỏ xíu bằng kim loại, chẳng lớn hơn ngón tay út là bao. Điều này chắc hẳn cũng là cố ý, bởi thứ này rất dễ đánh rơi, thành ra chúng tôi sẽ phải bảo vệ nó bằng cả tính mạng... hoặc chí ít cũng phải cất giữ hết sức cẩn thận.
+Người nhân viên vừa đếm phù hiệu vừa phát cho chúng tôi. Đó là những miếng kim loại nhỏ xíu, chẳng to hơn ngón tay út là bao. Chắc hẳn Hội cũng cố tình làm vậy, vì thứ này rất dễ đánh rơi, buộc chúng tôi phải giữ như giữ mạng... hoặc chí ít cũng phải cất giữ thật cẩn thận.
 
-Dù phía Hội từng tiện miệng bảo rằng nhóm đầu tiên tới được điểm này sẽ "chiến thắng", nhưng họ lại chẳng hề nói gì đến chuyện đỗ bài thi; lại thêm một trò chơi chữ rắc rối nữa từ phía họ. Cách hiểu đúng đắn ở đây chính là phải mang những chiếc phù hiệu này an toàn trở về nộp cho Hội ở Maalt.
+Dù Hội từng nói bâng quơ rằng nhóm đầu tiên tới được điểm này sẽ "thắng cuộc", nhưng họ lại chẳng đả động gì tới chuyện thi đỗ; lại thêm một kiểu chơi chữ rắc rối nữa của Hội. Hiểu cho đúng thì chúng tôi phải mang những chiếc phù hiệu này về nộp lại an toàn cho Hội ở Maalt.
 
-Laura như sực nhớ lại lời của Sheila, liền buột miệng lẩm bẩm: "...Nghĩ lại thì, đây vốn là một cuộc tranh tài, nên chúng ta phải tới đây trước những người khác mới thắng được..."
+Laura như sực nhớ lại lời Sheila, liền lẩm bẩm: "...Nghĩ lại thì đây vốn là một cuộc thi đua, nên phải tới trước những người khác thì mới thắng cuộc..."
 
-"À, phải rồi. Vì các bạn là nhóm đầu tiên tới đây, nên Hội đã quyết định trao thưởng cho các bạn một số vật phẩm thăng hạng, nhằm ghi nhận chiến thắng của các bạn trước các thí sinh đồng trang lứa. Có đủ phần cho tất cả các bạn đây, cầm lấy này."
+"À, phải rồi. Vì các bạn là những người đầu tiên tới đây, nên Hội quyết định tặng các bạn vài món đồ mừng thăng hạng, coi như ghi nhận chiến thắng của các bạn trước những người cùng thi. Có đủ phần cho cả nhóm đây, cầm lấy đi."
 
-Vừa nói, người nhân viên vừa đưa cho mỗi người chúng tôi một lọ thuốc hồi phục, kèm theo một bao da đựng dụng cụ tiện lợi có quai may liền để gắn vào thắt lưng hoặc đùi. Tình cờ làm sao, bao đựng lại vừa khít với lọ thuốc chúng tôi vừa được nhận. Những lọ thuốc và bao đựng dụng cụ như thế này là vật phẩm tối quan trọng đối với mạo hiểm giả. Tuy nhiên chúng lại khá đắt đỏ, mỗi món tốn tới vài đồng bạc. Những mạo hiểm giả mới vào nghề chắc chắn phải tích cóp rất lâu mới mua nổi.
+Vừa nói, người nhân viên vừa đưa cho mỗi người chúng tôi một lọ thuốc hồi phục, kèm theo một túi da đeo hông tiện lợi có quai may sẵn để buộc vào thắt lưng hoặc đùi. Vừa khéo là chiếc túi này lại vừa khít với lọ thuốc vừa được phát. Thuốc hồi phục và túi đeo dụng cụ như thế này là những món đồ rất quan trọng với mạo hiểm giả. Có điều chúng khá đắt đỏ, mỗi món cũng phải mấy đồng bạc. Mạo hiểm giả mới vào nghề chắc chắn phải dành dụm khá lâu mới mua nổi.
 
-Nhận được những món đồ giá trị như vậy làm phần thưởng, Laura và Raiz đều khá phấn khởi. Thế nhưng, nét cười của Laura khi nhận đồ lại có phần gượng gạo khó tả.
+Nhận được phần thưởng giá trị như vậy, Laura và Raiz đều rất vui. Thế nhưng nụ cười trên mặt Laura lúc nhận đồ lại trông khá phức tạp.
 
-"Đúng như tôi nghĩ... Chúng ta không hề đỗ chỉ vì chúng ta đã chiến thắng, phải không...?" Giọng cô gái lí nhí, gần như chẳng thể nghe thấy.
+"Đúng như mình nghĩ... Đâu phải cứ thắng cuộc là đã đỗ bài thi, phải không...?" Giọng cô nhỏ tới mức gần như không nghe thấy.
 
-"Hả?!" Đôi mắt Raiz mở to như vừa vỡ lẽ. Cậu nhanh chóng lấy lại bình tĩnh, đặt một tay lên cằm suy ngẫm về tình cảnh trước mắt.
+"Hả?!" Raiz trợn tròn mắt như vừa vỡ lẽ. Cậu nhanh chóng trấn tĩnh lại, đưa tay chống cằm ngẫm nghĩ về tình hình trước mắt.
 
-"...A... Chị gái ở Hội bảo chúng ta thắng... nếu tới được đây... chứ không phải là 'thi đỗ'... Chậc, đúng là trò chơi khăm ác ý..."
+"...À... Chị tiếp tân ở Hội bảo chúng ta tới được đây là thắng cuộc... chứ đâu có bảo là 'thi đỗ'... Ư, đúng là trò chơi khăm..."
 
-Có vẻ như Raiz đã tự mình nghĩ thông suốt.
+Xem ra Raiz đã tự mình nghĩ thông suốt rồi.
 
-Về phần mình, tôi không cho rằng cái bẫy này quá cay nghiệt hay hiểm hóc. Từng này là điều hiển nhiên đối với một bài thi thăng hạng tầm cỡ này; mạo hiểm giả Đồng Cấp được kỳ vọng phải thông thạo đường đi nước bước trong nghề. Chính với mục đích ấy mà bài thi này được thiết kế ra, nhằm truyền thụ những bài học thích đáng cho các mạo hiểm giả tham gia.
+Cá nhân tôi thì không thấy trò này quá ác ý hay đánh đố gì. Với một bài thi thăng hạng cỡ này thì từng ấy là chuyện đương nhiên; mạo hiểm giả Đồng Cấp vốn được kỳ vọng phải nắm rõ đường đi nước bước trong nghề. Bài thi này được thiết kế ra cũng vì mục đích đó, cốt để dạy cho các mạo hiểm giả tham gia những bài học cần thiết.
 
-Nhiều cái bẫy được giăng ra hoàn toàn có thể tránh được nếu chịu khó động não một chút. Tôi có thể đoán được rằng trong các bài thi ở cấp bậc cao hơn, bẫy rập còn hiểm ác và khốc liệt hơn nhiều. Những bài thi đó được thiết lập cốt để đánh trượt thí sinh, và các biện pháp được áp dụng cũng đủ dữ dội theo cách riêng. So với điều đó, bài thi thăng hạng Đồng Cấp này vẫn còn dễ chán.
+Rất nhiều cái bẫy được giăng ra đều có thể dễ dàng tránh được nếu chịu khó suy nghĩ một chút. Từ đó có thể đoán được rằng ở các bài thi cấp bậc cao hơn, bẫy rập sẽ còn khắc nghiệt và hiểm hóc hơn nhiều. Những bài thi đó được bày ra cốt để đánh trượt thí sinh, và các biện pháp được dùng cũng khốc liệt chẳng kém. So với thế thì bài thi thăng hạng Đồng Cấp này vẫn còn dễ chán.
 
-Dù sao đi nữa, bài thi này vẫn là một cột mốc quan trọng trong cuộc đời của bất kỳ mạo hiểm giả nào. Sau cùng thì, họ sẽ rời đi với một sự thấu hiểu sâu sắc hơn về những gì cần thiết cho sự nghiệp mạo hiểm của mình kể từ nay về sau.
+Dù sao đi nữa, bài thi này vẫn là một cột mốc quan trọng trong đời mạo hiểm giả. Sau cùng thì họ sẽ bước ra khỏi đây với sự hiểu biết sâu sắc hơn về những điều cần thiết cho chặng đường làm nghề về sau.
 
-"Xem ra các bạn đã hiểu hết rồi nhỉ! Đúng như các bạn nói đấy. Nhưng tất cả các bạn đều đã trải qua rất nhiều khó khăn để tới được điểm này. Nói cho đúng thì bấy nhiêu đã đủ để các bạn thi đỗ rồi. Thứ tự các nhóm tới được điểm này cũng chẳng quan trọng hơn việc nộp một ủy thác hoàn thành trước thời hạn. Đó là một trong những điều căn bản tuyệt đối của nghề mạo hiểm giả. Trừ chuyện đó ra thì làm cách nào cũng được. Chà... hầu như là vậy."
+"Xem ra các bạn đã hiểu hết rồi nhỉ! Đúng như các bạn nói đấy. Nhưng mọi người đều đã trải qua rất nhiều vất vả mới tới được đây. Nói cho đúng thì cả ba bạn đều đã làm đủ để đỗ rồi. Thứ tự các nhóm tới được điểm này thực ra cũng chẳng quan trọng hơn việc nộp báo cáo hoàn thành ủy thác trước thời hạn là bao. Đó là nguyên tắc căn bản nhất của nghề mạo hiểm giả. Trừ chuyện đó ra thì làm cách nào cũng được. Chà... hầu như là vậy."
 
-Tóm lại thì ngay cả khi chúng tôi tới đây vào phút chót, cả nhóm vẫn đủ điều kiện đỗ. Bài thi có nhiều điểm gây khó chịu, điều đó tôi có thể khẳng định, nhưng xét đến tận cùng thì nó vẫn là một chuyện tương đối đơn giản.
+Nói đơn giản thì kể cả có tới đây vào giây cuối cùng, chúng tôi vẫn đủ điều kiện đỗ. Bài thi này có lắm chỗ gây phiền phức thật, điều đó tôi không phủ nhận, nhưng suy cho cùng thì bản chất của nó vẫn rất đơn giản.
 
-Khi nghe thấy những lời đó, cả Raiz và Laura đều thở phào nhẹ nhõm. Từng trải qua cảm giác tương tự trong quá khứ, tôi không khỏi cảm thấy đôi chút hoài niệm.
+Nghe những lời đó, cả Raiz lẫn Laura đều thở phào nhẹ nhõm thấy rõ. Hồi trước tôi cũng từng trải qua cảm giác tương tự, nên giờ nhìn họ mà không khỏi thấy hoài niệm.
 
-Nói đoạn, người nhân viên mỉm cười chào tạm biệt: "Thôi được rồi! Tới đây là các bạn làm tốt lắm rồi. Mọi người đều đã vất vả. Giờ tất cả những gì các bạn phải làm là về Maalt báo cáo kết quả cho Hội. Nhớ cẩn thận trên đường về đấy."
+Nói xong, người nhân viên mỉm cười chào tạm biệt: "Thôi được rồi! Tới đây là các bạn làm tốt lắm rồi. Mọi người đều đã vất vả. Giờ các bạn chỉ việc về Maalt báo cáo kết quả cho Hội nữa thôi. Đường về nhớ cẩn thận đấy."
 
-Không một ai trong chúng tôi ở đây xem lời nói của người nhân viên chỉ là lời xã giao bề ngoài. Đương nhiên là sẽ có những cái bẫy và những trò tương tự chờ đợi chúng tôi trên chặng đường quay về. Đã đi tới nước này, sẽ thật kỳ lạ nếu chúng tôi không lường trước điều đó. Đó chính là thông điệp mà chúng tôi tự hiểu đằng sau nụ cười thân thiện của người nhân viên Hội.
+Không ai trong chúng tôi tin nguyên xi lời của người nhân viên ấy. Chắc chắn trên đường về sẽ còn bẫy rập và những trò tương tự đang chờ sẵn. Đã đi tới nước này mà không lường trước chuyện đó thì mới là lạ. Đó chính là ẩn ý mà chúng tôi đọc được đằng sau nụ cười thân thiện của anh nhân viên Hội.
 
 ◆◇◆◇◆
 
 "Ú RAAA A A!"
 
-Nghe tiếng thét lớn vang lên bên cạnh, Raiz nhíu mày rồi phản xạ gần như ngay tức khắc.
+Một tiếng hét lớn vang lên ngay bên cạnh, Raiz nhíu mày rồi phản xạ gần như ngay lập tức.
 
-"...Tôi CHỜ các người mãi đấy! ĐỠ LẤY NÀY!" Quát trả một câu đầy giận dữ, Raiz vung kiếm, đánh gục kẻ tấn công một cách dứt khoát.
+"...Tôi ĐỢI các người mãi đấy! ĐỠ LẤY NÀY!" Quát trả một câu giận dữ, Raiz vung kiếm đánh gục kẻ tấn công gọn ghẽ.
 
-"Quả nhiên ở đây cũng có bẫy..." Laura thở dài với vẻ mặt ngán ngẩm.
+"Quả nhiên ở đây cũng có bẫy..." Laura nói với vẻ mặt ngán ngẩm.
 
-Tôi không thể trách cô được, bởi chúng tôi đang đứng tại lối vào của Mê Cung Tân Nguyệt. Vượt qua muôn vàn gian nan trắc trở khác nhau, cuối cùng chúng tôi cũng quay trở lại được điểm này.
+Tôi cũng chẳng trách cô được, vì chỗ chúng tôi đang đứng chính là cửa vào Mê Cung Tân Nguyệt. Vượt qua bao gian nan thử thách khác nhau, cuối cùng chúng tôi cũng quay lại được chỗ này.
 
-Thế nhưng ngay sau khi chúng tôi bước ra ngoài ánh sáng ban ngày, lại thêm một tên tay sai do Hội thuê lao vào tấn công, và Raiz đã nhanh chóng ra tay đáp trả. Lại một cái bẫy nữa của Hội, tất nhiên rồi.
+Ấy thế mà vừa bước ra ngoài ánh sáng ban ngày, một tên tay sai khác do Hội thuê đã lao vào tập kích, và Raiz đã xử lý đâu ra đấy. Lại một cái bẫy nữa của Hội, tất nhiên rồi.
 
 "Chừng nào chưa báo cáo kết quả cho Hội thì bài thi vẫn chưa kết thúc, đúng không?"
 
-Trải nghiệm lần này hóa ra lại là bài học vô cùng bổ ích cho Raiz: cậu không còn do dự, cũng chẳng còn than vãn trước thực tế hoàn cảnh của mình. Dẫu vậy, cậu đã khá phát ngấy với những mánh khóe của Hội; điều đó hiện rõ mồn một trên gương mặt cậu.
+Toàn bộ trải nghiệm lần này quả là một bài học cực kỳ bổ ích cho Raiz: cậu không còn chần chừ, cũng chẳng còn than thở trước hoàn cảnh thực tế nữa. Dù vậy, cậu cũng đã phát ngấy mấy trò mánh khóe của Hội rồi; điều đó hiện rõ mồn một trên mặt cậu.
 
-Đúng như dự tính, chúng tôi chạm trán nhiều sự việc tương tự khác trên đường quay về Maalt. Đã chứng kiến vô số cạm bẫy và sống sót qua nhiều đợt phục kích cho tới thời điểm này, nụ cười của người nhân viên Hội đã giúp Raiz thấu suốt hoàn toàn. Hơn bao giờ hết, cậu hiểu rõ những gì cần phải làm, cũng như nhận ra việc quá cả tin vào người khác kể từ nay về sau sẽ chẳng đem lại ích lợi gì cho mình.
+Đúng như dự đoán, trên đường về Maalt chúng tôi còn gặp thêm bao nhiêu vụ tương tự. Đã chứng kiến vô số cái bẫy và vượt qua hàng loạt đợt phục kích tới tận lúc này, nụ cười của người nhân viên Hội đã giúp Raiz hiểu ra tất cả. Hơn bao giờ hết, cậu đã nắm rõ mình cần làm gì, và hiểu rằng từ nay về sau cứ cả tin vào người khác thì chẳng có lợi lộc gì.
 
-"...Nhưng... chúng ta vẫn chưa đi đến hồi kết sao? Tới đây là hết rồi... phải không...?" Laura hỏi, giọng cô đượm vẻ bất an khi chúng tôi đứng tại bến xe trạm.
+"...Nhưng... vẫn chưa hết thật sao? Thế này là hết rồi... phải không...?" Laura hỏi, giọng pha chút bất an khi chúng tôi đứng ở điểm đón xe trạm.
 
-Nếu họ lơ là cảnh giác và không theo dõi sát sao người đánh xe, rất có khả năng họ sẽ bị chở tới một nơi nào khác.
+Nếu họ lơ là cảnh giác và không để mắt kỹ tới người đánh xe, rất có thể họ sẽ bị chở sang một nơi khác.
 
-"Không thể nào... Đến cả cỗ xe mà tôi cũng phải để tâm suy tính sao...?"
+"Không đùa chứ... Đến cả xe cộ mà tôi cũng phải đề phòng sao...?"
 
-"Nghĩa là cả nhóm không thể buông lỏng cảnh giác cho tới khi quay về Maalt... Không, phải là về tới tận quầy tiếp tân của Hội..."
+"Nghĩa là chúng ta không được phép buông lỏng cho tới khi về đến Maalt... Không, phải là về tới tận quầy tiếp tân của Hội..."
 
-Thấy họ ngao ngán như vậy cũng phải thôi. Dù tôi hiểu cảm giác của hai người, nhưng đây chính xác là mục đích mà bài thi được thiết kế ra. Để đánh giá chính xác tiềm năng của một cá nhân, họ sẽ phải vượt qua rất, rất nhiều thử thách.
+Đúng như dự đoán, cả hai đã ngán ngẩm lắm rồi. Tôi hiểu cảm giác của họ, nhưng bài thi này vốn được thiết kế ra để làm đúng việc đó. Muốn đánh giá chính xác tiềm năng của một người thì phải bắt họ vượt qua rất, rất nhiều thử thách.
 
-Nói là vậy, chứ tôi không nghĩ rằng Hội còn giăng thêm bẫy rập hay mai phục nào chờ sẵn nữa. Đã đi xa tới mức này, khả năng cả nhóm thất bại gần như bằng không.
+Nói thì nói vậy, chứ tôi không nghĩ Hội còn giăng thêm bẫy rập hay phục kích nào nữa đâu. Đã đi được tới tận đây, khả năng chúng tôi thất bại gần như bằng không.
 
-Thế nhưng dĩ nhiên rồi... đó chính là điều mà Hội muốn người ta nghĩ tới. Tôi tự nhủ tuyệt đối không được lơ là cảnh giác.
+Nhưng tất nhiên... đó chính là điều mà Hội muốn thí sinh nghĩ tới. Tôi tự nhủ tuyệt đối không được lơ là cảnh giác.
 
-"...Nếu... hai người vẫn luôn tỉnh táo. Và cẩn trọng... thì hai người lúc này... có lẽ sẽ... ổn thôi. Đi... nào."
+"...Nếu... hai người vẫn luôn tỉnh táo. Và cẩn trọng... thì hai người lúc này... chắc sẽ... ổn thôi. Đi... nào."
 
-Cả hai đáp lại lời tôi với nét mặt ngạc nhiên; rõ ràng là họ không ngờ lại nhận được lời khen ngợi từ một kẻ như tôi.
+Cả hai nhìn tôi với vẻ ngạc nhiên; rõ ràng họ không ngờ lại được một người như tôi khen ngợi.
 
-"Này, anh Rentt khen chúng ta kìa!" "...Có chút ngượng ngùng thật đấy," Raiz và Laura cùng bật cười nói.
+"Này, anh Rentt khen tụi mình kìa!" "...Làm tôi hơi ngượng đấy," Raiz và Laura vừa cười vừa nói.
 
-Vẻ ngượng ngùng của hai người dường như cũng lây sang tôi, khiến tôi bất giác rảo bước nhanh hơn.
+Cái vẻ ngượng ngùng của hai đứa hình như cũng lây sang cả tôi, khiến tôi bất giác rảo bước nhanh hơn.
