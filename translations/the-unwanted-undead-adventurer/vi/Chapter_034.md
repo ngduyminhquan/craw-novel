@@ -1,231 +1,231 @@
 # Chương 34: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (5)
 
-"...Ồ? Gì thế này? Ngươi có việc gì với ta sao?" một gã đàn ông nhỏ thó, lưng gù khoác áo chùng đen lên tiếng, đôi mắt ti hí của gã lập tức dừng lại trên người tôi khi tôi bước tới gần. Gã có vẻ thích thú; nếu được phép nhận xét thì là thực sự thích thú.
+"...Ồ? Gì thế này? Ngươi có việc gì với ta sao?" một người đàn ông nhỏ thó, lưng gù khoác áo chùng đen lên tiếng, đôi mắt ti hí lập tức dán vào tôi khi tôi bước lại gần. Trông gã có vẻ thích thú; mà phải nói là thực sự thích thú mới đúng.
 
-Xung quanh tôi là những mạo hiểm giả Thiết Cấp khác, tất cả bọn họ đều đang mua bản đồ từ thương nhân này hoặc thương nhân khác sau khi nhận ra sự sai lệch trên tấm bản đồ do hội cung cấp. Dẫu vậy, chính việc người duy nhất tiếp cận gã đàn ông mặc áo chùng này lại chẳng phải ai khác ngoài tôi đã là một minh chứng rõ ràng cho diện mạo đầy khả nghi của gã.
+Xung quanh tôi, các mạo hiểm giả Thiết Cấp khác ai nấy đều đang mua bản đồ từ thương nhân này hoặc thương nhân nọ sau khi nhận ra sự sai lệch trên tấm bản đồ do Hội phát. Dẫu vậy, việc người duy nhất tiến lại gần gã áo chùng này chỉ có mỗi mình tôi cũng đủ cho thấy gã trông đáng ngờ đến mức nào.
 
-Những thương nhân bán bản đồ vốn là một phường người rất đỗi đặc thù. Phải rồi, họ chủ yếu tụ tập thành từng nhóm đông đúc trên các đường phố của Maalt, nhưng ở lối vào mê cung cũng không thiếu. Nhiều kẻ trong số họ rao bán hàng hóa của mình, vài kẻ còn quả quyết rằng mình có những tấm bản đồ kèm theo ghi chú tỉ mỉ và những thông tin vốn dĩ khó lòng kiếm được. Thế nhưng, gã đàn ông mặc áo chùng trước mặt tôi lại chẳng hề giống với những kẻ còn lại. Thực tế, gã chỉ đơn thuần đứng đó, chốc chốc lại lắc lư như một que củi trước gió. Chẳng cần phải nói, gã nổi bật đúng như người ta dự đoán. Bất cứ ai chỉ cần liếc nhìn gã một cái cũng sẽ chẳng thể nghĩ rằng gã là người bán bản đồ.
+Thương nhân bán bản đồ vốn là một kiểu người khá đặc thù. Phải rồi, họ chủ yếu tụ tập đông đúc trên các con phố ở Maalt, nhưng ở lối vào mê cung cũng chẳng hề thiếu. Nhiều kẻ rao bán hàng hóa rôm rả, có kẻ còn quả quyết bản đồ của mình ghi chú tỉ mỉ những thông tin vốn khó mà tìm được ở đâu khác. Thế nhưng, gã đàn ông khoác áo chùng trước mặt tôi lại chẳng hề giống với số còn lại. Gã chỉ đơn thuần đứng đó, chốc chốc lại lắc lư như que củi trước gió. Thành thử gã nổi bần bật là điều dễ hiểu. Bất cứ ai chỉ cần liếc qua một cái cũng chẳng đời nào nghĩ gã là kẻ bán bản đồ.
 
 "...Bán cho tôi. Một tấm bản đồ."
 
-Gã đàn ông dường như có phần ấn tượng trước lời tuyên bố đột ngột của tôi.
+Gã đàn ông có vẻ khá ấn tượng trước yêu cầu cộc lốc của tôi.
 
-"Hửm...? Ngươi tinh mắt thật đấy, biết được cả việc ta bán bản đồ cơ à. Nhìn bạn đồng trang lứa của ngươi xem! Chẳng có mạo hiểm giả nào khác dám lại gần ta cả."
+"Hửm...? Ngươi tinh mắt thật đấy, biết được cả việc ta bán bản đồ cơ à. Nhìn mấy kẻ cùng thi với ngươi xem! Chẳng có mạo hiểm giả nào khác thèm lại gần ta cả."
 
-"...Tôi không... Quan tâm đến... Nhận xét của ông. Xin hãy bán... Cho tôi một tấm bản đồ."
+"...Tôi không... quan tâm đến... mấy lời nhận xét đó. Xin hãy bán... cho tôi một tấm bản đồ."
 
-Nhưng dĩ nhiên tôi phải nói năng cộc lốc, bởi tôi biết quá rõ những thói tật kỳ quặc của gã đàn ông này. Nếu bắt chuyện với một kẻ mà mình không quen biết, gã sẽ rẽ sang đủ thứ chủ đề lan man vô nghĩa, trước khi biến mất tựa làn khói mà không để lại một dấu vết nào.
+Nhưng dĩ nhiên tôi phải nói năng cộc lốc, bởi tôi biết quá rõ tính nết kỳ quặc của gã đàn ông này. Hễ nói chuyện với người lạ, gã sẽ huyên thuyên đủ thứ chuyện trên trời dưới biển rồi biến mất tựa làn khói, chẳng để lại chút dấu vết nào.
 
-Có lẽ hành vi này sẽ bị xem là kỳ quặc đối với một kẻ được cho là thương nhân bán bản đồ. Dù nhiều giả thuyết đã được đưa ra, nhưng tôi cho rằng gã đàn ông này đơn giản là không muốn bán bản đồ cho những kẻ gã không quen biết. Dù sao thì cũng có những mạo hiểm giả chẳng hề ngần ngại sử dụng bạo lực để đạt được mục đích của mình. Nghĩ theo hướng đó, hành vi của gã có lẽ cũng không quá khó hiểu.
+Một kẻ mang danh bán bản đồ mà lại hành xử như thế thì đúng là kỳ quặc. Dù người ta đồn đoán đủ điều, nhưng tôi cho rằng gã đơn giản là không muốn bán bản đồ cho người lạ. Dù sao thì cũng chẳng thiếu những mạo hiểm giả sẵn sàng dùng bạo lực để đạt được mục đích. Nghĩ vậy thì hành vi của gã cũng không hẳn là khó hiểu.
 
-"...Hì hì... Ra là ngươi muốn một tấm bản đồ sao? Của ngươi đây... Và giá sẽ là hai đồng bạc."
+"...Hì hì... Ra là ngươi muốn mua bản đồ sao? Của ngươi đây... Hai đồng bạc nhé."
 
-Nói đoạn, gã đàn ông rút từ sâu trong tà áo chùng ra thứ dường như là một cuộn giấy thô ráp. Tuy nhiên, tôi đời nào chịu chấp nhận mức giá đó.
+Nói rồi, gã đàn ông rút từ sâu trong vạt áo chùng ra một cuộn giấy có vẻ thô ráp. Nhưng đời nào tôi chịu chấp nhận mức giá đó.
 
-"...Tôi chỉ muốn một tấm bản đồ... Của tầng một. Ngoài ra... Giá đó quá... Quá đắt cho một tấm bản đồ. Hãy... Thỏa thuận công bằng. Tôi sẽ trả... Năm đồng xu đồng. Một mức giá... Hợp lý, đúng chứ?"
+"...Tôi chỉ muốn một tấm bản đồ... của tầng một. Ngoài ra... giá đó quá... quá đắt cho một tấm bản đồ. Hãy... sòng phẳng chút đi. Tôi sẽ trả... năm đồng xu đồng. Mức giá đó... hợp lý rồi, phải không?"
 
-Gã có vẻ ngạc nhiên trước lời ngắt lời của tôi, nhưng liền lập tức rút ra một cuộn giấy khác từ trong áo chùng rồi đưa cho tôi.
+Gã có vẻ bất ngờ khi bị tôi ngắt lời, nhưng lập tức rút ra một cuộn giấy khác từ trong áo chùng rồi đưa cho tôi.
 
-"...Hô. Ra là vậy, rốt cuộc thì ngươi hẳn sẽ vượt qua vòng tuyển chọn thôi... Hai nhóc tì đằng kia. Hãy nghe lời người đàn ông này nếu còn biết điều gì tốt cho mình..."
+"...Hô. Ra là vậy, xem chừng ngươi có cơ qua được đấy... Hai nhóc tì đằng kia. Biết khôn thì lo mà nghe lời tên này đi..."
 
-"Hì. Vậy thì năm đồng xu đồng nhé."
+"Hì. Năm đồng xu đồng, chốt thế nhé."
 
-Và thế là tôi một tay đưa tiền cho gã, tay kia đón lấy tấm bản đồ. Gần như ngay lập tức, gã đàn ông mặc áo chùng biến mất ngay trước mắt chúng tôi, cứ như thể gã chưa từng tồn tại ở đó ngay từ đầu.
+Thế là tôi một tay trao tiền cho gã, tay kia đón lấy tấm bản đồ. Thoắt cái, gã đàn ông mặc áo chùng đã biến mất ngay trước mắt chúng tôi, cứ như thể gã chưa từng đứng ở đó vậy.
 
-Raiz và Laura, những người nãy giờ vẫn đứng tròn xoe mắt phía sau tôi, cuối cùng cũng lên tiếng bày tỏ ý kiến về chuyện vừa rồi.
+Raiz và Laura nãy giờ vẫn trố tròn mắt đứng sau lưng tôi, cuối cùng cũng cất tiếng hỏi về chuyện vừa rồi.
 
 "Này, Rentt... Tấm bản đồ này liệu có ổn thật không đấy?"
 
-"Tôi chưa từng thấy ai kỳ lạ như thế bao giờ..."
+"Tôi chưa từng thấy ai kỳ lạ đến thế bao giờ..."
 
-Tôi khó lòng trách họ vì đã nảy sinh nghi ngờ, nhưng dù sao đi nữa, tôi vẫn giơ tấm bản đồ vừa mới mua ra, để lộ những chi tiết bên trong cho các bạn đồng hành xem.
+Họ nảy sinh nghi ngờ cũng phải thôi, nhưng dù sao đi nữa, tôi vẫn mở tấm bản đồ mới mua ra cho hai người bạn đồng hành cùng xem.
 
-"...Chúng ta nên... Đối chiếu tấm bản đồ này... Với tấm bản đồ Hội... Đã phát cho chúng ta."
+"...Chúng ta nên... đối chiếu tấm bản đồ này... với tấm Hội... đã phát cho chúng ta."
 
-Ít nhất thì cả hai cũng rất nhanh chóng hợp tác. Mau lẹ rút bản đồ của mình ra khỏi túi hành lý, chúng tôi bắt đầu so sánh chi tiết hai cuộn giấy. Nói một cách khiêm tốn nhất thì những điểm khác biệt là vô cùng đáng kể.
+Chí ít thì cả hai cũng phối hợp rất nhanh. Hai người mau lẹ rút bản đồ trong túi ra, rồi chúng tôi cùng nhau đối chiếu tỉ mỉ từng chi tiết giữa hai cuộn giấy. Nói một cách nhẹ nhàng nhất thì những điểm khác biệt là vô cùng lớn.
 
-"...Vậy là lối đi này đã bị sập ư? Còn... con đường này lại vừa mới... đổi khác? Mê cung cũng có thể làm được như thế sao?"
+"...Vậy là lối đi này đã bị sập ư? Còn... con đường này lại vừa mới... đổi khác? Mê cung cũng tự biến đổi được như thế sao?"
 
-"Ừm... Người đàn ông mặc áo chùng dường như đã ghi lại vị trí của rất nhiều cạm bẫy và những thứ tương tự... Ôi. Sẽ tệ lắm nếu chúng ta đi theo con đường ngắn nhất đến địa điểm được đánh dấu; giờ nó đã thành ngõ cụt rồi."
+"Ừm... Gã áo chùng có vẻ đã ghi lại vị trí của rất nhiều bẫy rập và những thứ tương tự... Ôi. Chết thật, nếu chúng ta đi theo con đường ngắn nhất đến địa điểm được đánh dấu thì nguy to, giờ nó đã thành ngõ cụt rồi."
 
-Đó là tràng lầm bầm và thở phào nhẹ nhõm không ngớt của hai người họ. Cuối cùng, cả hai cùng ngẩng đầu lên khỏi những cuộn giấy, quay sang nhìn tôi chằm chằm.
+Hai người họ cứ thế vừa xem vừa liên tục lầm bầm rồi thở phào nhẹ nhõm. Cuối cùng, cả hai ngẩng đầu khỏi mấy cuộn giấy, quay sang nhìn tôi chằm chằm.
 
-"Anh cừ thật đấy, Rentt! Nếu không có anh đi cùng, chắc chắn tụi này đã lao đầu vào trong với tấm bản đồ cũ rích đó rồi lạc đường mất thôi!"
+"Anh cừ thật đấy, Rentt! Nếu không có anh đi cùng, chắc chắn tụi này đã cắm đầu lao vào trong với tấm bản đồ cũ rích đó rồi lạc đường mất thôi!"
 
 "Vâng! Có tấm bản đồ này, bài kiểm tra chắc chắn sẽ diễn ra suôn sẻ!"
 
 Chí ít thì họ dường như đã hoàn toàn tin phục năng lực của tôi.
 
-Dù không nói thành lời vì sợ làm Laura mất hứng, nhưng có được tấm bản đồ mới chỉ là bước đầu tiên; chỉ bấy nhiêu thôi thì chưa đủ để vượt qua các thử thách của hội. Chúng tôi mới chỉ an toàn né tránh được cánh cổng đầu tiên trong số muôn vàn cánh cổng đang ngăn trở chúng tôi đến với mục tiêu. Có lẽ đó mới là hình ảnh miêu tả chính xác hơn về tình thế của chúng tôi.
+Dù không nói ra vì sợ làm Laura cụt hứng, nhưng có được tấm bản đồ mới chỉ là bước đầu tiên; chỉ bấy nhiêu thôi thì chưa đủ để vượt qua các thử thách của Hội. Chúng tôi mới chỉ an toàn lách qua được cửa ải đầu tiên trong số muôn vàn chướng ngại chắn đường tới đích. Có lẽ ví von như vậy mới đúng với tình cảnh của chúng tôi lúc này.
 
-"...Hội vốn... Nổi tiếng với việc giở... Mấy trò này. Cũng không thể biết... Trong mê cung còn có những gì. Chúng ta hãy tiến bước... Cẩn thận."
+"...Hội vốn... nổi tiếng với việc giở... mấy trò này. Trong mê cung... cũng chẳng biết còn có những gì nữa. Chúng ta hãy tiến bước... thật cẩn thận."
 
-Cả hai hăng hái gật đầu trước lời tôi nói. Có vẻ như tôi đã may mắn có được những người đồng đội tương đối chân thật và thẳng thắn.
+Cả hai hăng hái gật đầu trước lời tôi dặn. Có vẻ như tôi khá may mắn khi gặp được những người đồng đội chân thật và biết lắng nghe.
 
-Tuy nhiên, tôi không khỏi lo lắng cho tương lai của họ; giữ trong mình một chút hoài nghi vốn là điều lành mạnh nên có. Dù bản thân tôi chẳng hề có ác ý với họ, nhưng điều tương tự chưa chắc đã đúng với những người họ sẽ gặp phải sau này.
+Tuy nhiên, tôi vẫn không khỏi lo lắng cho tương lai của họ; biết hoài nghi một chút vốn là điều nên có. Dù bản thân tôi chẳng hề có ác ý với họ, nhưng những kẻ họ chạm trán sau này thì chưa biết chừng.
 
 ◆◇◆◇◆
 
 "HAAAAA!!"
 
-Kèm theo một tiếng thét lớn và một cú vung kiếm nhanh gọn, Raiz nhanh chóng giải quyết xong con Khô Lâu trước mặt. Dù đó hoàn toàn không phải một nhát chém đầy uy lực, nhưng lại rất chuẩn xác, chém ngọt và đập vỡ hộp sọ của Khô Lâu. Về phần mình, con Khô Lâu dường như chẳng mấy hài lòng với điều đó, nó vẫn tiếp tục lê bước đi tới dù đã mất đầu.
+Hét lớn một tiếng cùng cú vung kiếm dứt khoát, Raiz nhanh gọn giải quyết xong con Khô Lâu trước mặt. Nhát chém tuy không quá uy lực nhưng cực kỳ chuẩn xác, bổ ngọt và đập vỡ tan hộp sọ của Khô Lâu. Về phần mình, con Khô Lâu có vẻ chẳng mấy bằng lòng với điều đó; dẫu đã cụt đầu, nó vẫn tiếp tục lê bước tiến tới.
 
-Nhảy ra từ phía sau Raiz, tôi vung mạnh thanh kiếm của mình, đưa lưỡi kiếm chém xuyên qua phần xương còn lại của Khô Lâu, khiến những mảnh xương vỡ rơi xuống như mưa.
+Lập tức lao ra từ sau lưng Raiz, tôi vung mạnh thanh kiếm của mình, chém đứt phăng phần xương còn lại khiến những mảnh vụn rơi rụng lả tả như mưa.
 
 "...Hộc... Hộc..."
 
-Raiz dường như có phần hụt hơi sau cuộc giao tranh của chúng tôi. Dĩ nhiên, đây không phải là con Khô Lâu đầu tiên cản bước tiến của chúng tôi, bởi lẽ chúng tôi đã hạ gục vô số đồng loại của nó trên đường tới đây.
+Raiz có vẻ hơi hụt hơi sau cuộc giao tranh vừa rồi. Dĩ nhiên, đây chẳng phải con Khô Lâu đầu tiên cản bước tiến của cả nhóm; trên đường tới đây chúng tôi đã đốn ngã không biết bao nhiêu đồng loại của nó rồi.
 
-Đội hình của chúng tôi rất đơn giản: Raiz đi tiên phong, còn Laura ở bọc hậu. Tôi đứng ở giữa hai người họ, vừa bảo vệ Laura vừa hỗ trợ Raiz bằng những đòn tấn công trong khả năng của mình.
+Đội hình của chúng tôi rất đơn giản: Raiz đi tiên phong, còn Laura bọc hậu. Tôi đứng ở giữa hai người, vừa bảo vệ Laura vừa hỗ trợ Raiz bằng những đòn tấn công trong khả năng.
 
-Thế nhưng, cả hai người họ dường như đã gần chạm tới giới hạn. Dù bản thân tôi có thể tự mình tiến bước mà không gặp mấy khó khăn, nhưng vấn đề ở đây không phải là chuyện đó: mục tiêu của bài kiểm tra này là vượt qua các thử thách của hội theo tổ đội.
+Thế nhưng, cả hai dường như đã gần chạm tới giới hạn. Dù một mình tôi có thể tiến bước mà chẳng mấy khó khăn, nhưng vấn đề ở đây không phải là chuyện đó: mục tiêu của bài kiểm tra là phải vượt qua các thử thách của Hội theo tổ đội.
 
-"...Raiz. Cậu có... Ổn không?"
+"...Raiz. Cậu có... ổn không?"
 
-"Đừng... bận tâm. Ý tôi là... chắc tôi không nên nói thế. Thấm mệt thật rồi đấy... Mà trước hết, cái khu vực này của Tân Nguyệt từ trước tới nay lúc nào cũng đông quái vật thế này sao?!"
+"Đừng... lo. Mà thôi... chắc tôi không nên nói thế. Thấm mệt thật rồi đấy... Cơ mà khu vực này của Tân Nguyệt trước giờ lúc nào cũng đông quái vật thế này sao?!"
 
-Nhận xét của Raiz hoàn toàn có cơ sở, bởi quả thực khu vực này có nhiều quái vật hơn bình thường. Mặc dù mê cung là nơi sinh sống của một lượng quái vật đáng kể, nhưng mật độ tập trung của chúng ở khu vực này lại hết sức bất thường.
+Nhận xét của Raiz hoàn toàn có cơ sở, bởi khu vực này quả thực nhiều quái vật hơn bình thường. Dẫu trong mê cung vốn không thiếu quái vật, nhưng mật độ dày đặc của chúng ở chỗ này lại bất thường một cách rõ rệt.
 
-Nếu phải đoán thì đây lại là một nỗ lực nữa của hội—nhân viên của hội hẳn đã bỏ không ít công sức để dẫn dụ quái vật đến địa điểm này. Rốt cuộc thì việc chứng minh năng lực chiến đấu và thể lực của bản thân cũng là một phần yêu cầu để trở thành mạo hiểm giả Đồng Cấp.
+Nếu phải đoán, tôi cho rằng đây lại là một sự nhúng tay nữa của Hội: nhân viên của Hội hẳn đã cất công lùa quái vật đến địa điểm này. Dù sao thì việc thể hiện năng lực chiến đấu cùng sức bền thể lực cũng là một phần yêu cầu để trở thành mạo hiểm giả Đồng Cấp.
 
-"...Tuy Hội không thể... Kiểm soát... Quái vật trong mê cung, nhưng họ có thể... Sử dụng hương liệu hoặc... Người. Để dẫn dụ, tập trung quái vật... Vào một địa điểm nhất định. Đó có lẽ là... Lý do."
+"...Tuy Hội không thể... kiểm soát... quái vật trong mê cung, nhưng họ có thể... dùng hương liệu hoặc... người. Để lùa và gom quái vật... về một địa điểm nhất định. Đó có lẽ là... lý do."
 
 Laura là người đầu tiên lên tiếng đáp lại.
 
-"Hương liệu...? À, phải rồi. Các loại hương... Trầm hương và những thứ tương tự để dẫn dụ quái vật đến một địa điểm nhất định..."
+"Hương liệu...? À, phải rồi. Dùng mùi hương... Trầm hương và những thứ tương tự để dẫn dụ quái vật đến một địa điểm nhất định..."
 
-"...Hội làm vậy... Có lẽ là một phần của bài kiểm tra. Nhưng cũng có... Những kẻ. Sử dụng các thủ đoạn này... Để gài bẫy những thí sinh cùng thi. Chúng ta nên... Cẩn thận."
+"...Hội làm vậy... có lẽ là một phần của bài kiểm tra. Nhưng cũng có... những kẻ. Dùng thủ đoạn này... để gài bẫy các thí sinh cùng thi. Chúng ta nên... cẩn thận."
 
-Nét mặt ngây thơ và vui vẻ trước đó của Laura bỗng trở nên u ám khi nghe những lời cảnh báo của tôi.
+Nét mặt vui vẻ ngây thơ trước đó của Laura bỗng chùng xuống khi nghe những lời cảnh báo của tôi.
 
-"Có những kẻ làm chuyện như thế thật sao...?" Sự ngạc nhiên và buồn bã nhuốm đẫm giọng nói của cô.
+"Có những kẻ làm chuyện như thế thật sao...?" Giọng cô thoáng vẻ ngỡ ngàng xen lẫn buồn bã.
 
-Tôi cho rằng cô không muốn tin những kẻ như vậy lại tồn tại—ồ, nhưng chúng thực sự tồn tại đấy chứ. Rốt cuộc thì cái chết vốn là quy luật tự nhiên trong các mê cung. Ngay cả khi một kẻ đã dẫn dụ hoặc gài bẫy đẩy người khác vào chỗ chết, thì mọi chuyện cũng sẽ kết thúc ngay tại đó chừng nào chúng không bị bắt quả tang. Người ta cũng có thể chọn cách để mặc quái vật của mê cung làm thay công việc đó. Bằng cách ấy, kẻ ra tay chẳng cần phải nhúng bẩn đôi tay mình.
+Tôi đoán cô không muốn tin những kẻ như vậy lại tồn tại, nhưng ồ, chúng thực sự tồn tại đấy chứ. Dù sao thì trong mê cung, cái chết cũng là lẽ thường tình. Ngay cả khi một kẻ đã dẫn dụ hoặc gài bẫy đẩy người khác vào chỗ chết, thì miễn là không bị bắt quả tang, mọi chuyện cũng sẽ kết thúc ngay tại đó mà chẳng ai buồn truy cứu. Người ta cũng có thể chọn cách mượn tay quái vật mê cung làm chuyện đó. Bằng cách ấy, kẻ thủ ác chẳng cần phải tự nhúng bẩn đôi tay mình.
 
-Trên thực tế, việc sử dụng hương liệu để dẫn dụ quái vật đến nơi khác là một trong những phương pháp đó, và những kẻ chuyên sâu về khả năng này quả thực có tồn tại. Những sự việc như vậy đôi khi còn xảy ra ở quy mô lớn hơn nhiều, khi các ngôi làng và thị trấn bị tấn công rồi xóa sổ hoàn toàn khỏi bản đồ; quả thực là một bi kịch mang tầm vóc quốc gia. Thật không ngờ những chuyện như thế lại có thể xảy ra chỉ cần người ta thuê đúng đối tượng...
+Thật ra, dùng hương liệu để dụ quái vật đến nơi khác chính là một trong những phương pháp đó, và quả thực có những kẻ chuyên sâu về khả năng này. Thậm chí chuyện như vậy đôi khi còn xảy ra ở quy mô lớn hơn nhiều, khiến các ngôi làng và thị trấn bị tấn công rồi xóa sổ hoàn toàn khỏi bản đồ; đó thực sự là một thảm họa cấp quốc gia. Nghĩ mà xem, chỉ cần thuê đúng người là có thể gây ra những bi kịch kinh hoàng đến thế...
 
-Nếu tôi nhớ không lầm, các loại hương liệu được nhắc tới ban đầu được phát triển để giúp việc săn quái vật trở nên dễ dàng hơn. Thế nhưng ở một thời điểm nào đó, có kẻ đã thấy phù hợp để bóp méo mục đích của nó. Đó chính là ác ý thuần túy nhất của con người. Nhưng dĩ nhiên rồi, cái ác vốn tồn tại ở mọi lúc mọi nơi.
+Nếu tôi nhớ không nhầm, loại hương liệu này vốn được chế ra để giúp việc săn quái vật trở nên dễ dàng hơn. Thế nhưng chẳng biết từ khi nào, có kẻ đã bóp méo công dụng của nó. Đó chính là dã tâm thuần túy nhất của con người. Nhưng dĩ nhiên rồi, cái ác thì ở đâu mà chẳng có.
 
-"...Dừng lại," tôi nói với hai người bạn đồng hành ngay khi chúng tôi chuẩn bị rẽ qua một khúc quanh.
+"...Dừng lại," tôi khẽ bảo hai người bạn đồng hành ngay khi cả nhóm sắp rẽ qua một khúc ngoặt.
 
 Cả hai bối rối nhìn tôi. Đáp lại, tôi thì thào thật khẽ:
 
-"...Có kẻ địch. Ở đằng kia, đang chờ để... Phục kích chúng ta."
+"...Có kẻ địch. Đằng kia, đang chờ để... phục kích chúng ta."
 
-Với vẻ mặt đầy ngạc nhiên, cả hai thì thầm đáp lại tôi.
+Cả hai lộ rõ vẻ ngạc nhiên, thì thào đáp lại tôi.
 
 "...Nhưng Rentt... tôi không cảm nhận thấy con quái vật nào cả!"
 
-"Đúng vậy đấy... Với lại quái vật ở tầng này đâu thể có đủ trí thông minh cần thiết để làm một chuyện như vậy..."
+"Đúng vậy đấy... Vả lại quái vật ở tầng này đâu thể có đủ trí thông minh cần thiết để làm một chuyện như vậy..."
 
-Cả Laura và Raiz đều nêu ra những điểm hoàn toàn hợp lý. Khô Lâu, Goblin, Slime—tất cả những quái vật này chỉ xuất hiện ở dạng yếu nhất của chúng trên tầng một của Tân Nguyệt. Chẳng có con quái vật nào ở tầng này đủ khả năng sử dụng những chiến thuật như thế.
+Cả Laura lẫn Raiz đều nói có lý. Khô Lâu, Goblin, Slime... tất cả những quái vật này chỉ xuất hiện ở dạng yếu nhất trên tầng một của Tân Nguyệt. Chẳng có con quái vật nào ở tầng này đủ khả năng dùng đến những chiến thuật như thế.
 
-Trong tình huống kịch tính nhất, một con quái vật sẽ tái sinh ngay trước mặt một mạo hiểm giả đi ngang qua, nhưng tất cả cũng chỉ có bấy nhiêu mà thôi. Tuy nhiên, tôi lại cảnh báo các bạn đồng hành về một mối nguy hiểm hoàn toàn khác.
+Bất ngờ nhất thì cũng chỉ là một con quái vật đột ngột tái sinh ngay trước mặt mạo hiểm giả đi ngang qua, ngoài ra chẳng có gì hơn. Thế nhưng, mối nguy hiểm mà tôi cảnh báo các bạn đồng hành lại hoàn toàn khác.
 
-"...Kẻ phục kích... Không phải quái vật. Chúng là... Con người."
+"...Kẻ phục kích... không phải quái vật. Chúng là... con người."
 
 ◆◇◆◇◆
 
 "C-Con người ư...?!"
 
-"Tại sao con người lại mai phục chúng ta chứ? Họ muốn điều gì từ chúng ta sao?"
+"Tại sao lại có người mai phục chúng ta chứ? Bọn họ muốn gì ở chúng ta sao?"
 
-Raiz và Laura, cả hai đều hoang mang như nhau, quay sang tìm câu trả lời từ tôi. Tôi giải thích cho họ trong khả năng tốt nhất của mình.
+Raiz và Laura, cả hai đều hoang mang như nhau, quay sang tìm câu trả lời từ tôi. Tôi giải thích cho họ cặn kẽ nhất trong khả năng của mình.
 
-"...Có khả năng... Như vậy. Đúng thế. Nhưng chuyện này... Lại hoàn toàn... Khác hẳn. Nếu họ thực sự... Cần hai người vì lý do nào đó... Họ sẽ không. Ẩn giấu hành tung... Như thế."
+"...Cũng có... khả năng đó. Đúng vậy. Nhưng chuyện này... lại hoàn toàn... khác hẳn. Nếu thực sự... cần hai người vì lý do nào đó... họ sẽ chẳng. Giấu giếm hành tung... như thế đâu."
 
-Đó là một nhận định đơn giản: nếu họ thực sự có điều gì cần nhờ vả chúng tôi, họ sẽ chẳng nằm chờ ở một góc khuất nào đó; thay vào đó, họ sẽ tiếp cận chúng tôi một cách bình thường như bao người khác.
+Đó là một nhận định đơn giản: nếu thực sự có điều gì cần nhờ vả chúng tôi, họ sẽ chẳng nằm chờ ở một góc khuất nào đó, mà sẽ đường hoàng bước tới như bao người khác.
 
-Trong số các quy tắc của mê cung, có một quy tắc đặc thù chi phối quái vật và chiến lợi phẩm khi các mạo hiểm giả chạm trán nhau, cụ thể là họ không được phép săn quái vật mà người khác đang giao chiến nếu chưa được cho phép. Tuy nhiên, lại chẳng có quy tắc nào cấm việc tiếp cận hay trò chuyện với các mạo hiểm giả khác. Chính việc họ ẩn nấp đồng nghĩa với chuyện điều họ sắp làm chỉ có thể thực hiện khi họ ẩn mình—nói cách khác, đây chắc chắn không thể nhầm lẫn là một cuộc phục kích.
+Trong số các quy tắc của mê cung, có một quy tắc đặc thù chi phối quái vật và chiến lợi phẩm khi các mạo hiểm giả chạm trán nhau, cụ thể là không được phép săn quái vật mà người khác đang giao chiến nếu chưa được sự đồng ý. Tuy nhiên, lại chẳng có quy tắc nào cấm việc tiếp cận hay trò chuyện với các mạo hiểm giả khác. Việc họ lén lút ẩn nấp đồng nghĩa với chuyện điều họ sắp làm chỉ có thể thực hiện khi họ ẩn mình, nói cách khác, đây chắc chắn không thể nhầm lẫn là một cuộc phục kích.
 
 Hai người bạn đồng hành của tôi dường như cũng đi đến cùng một kết luận.
 
-"Này... Không lẽ anh muốn bảo..."
+"Này... Chẳng lẽ ý anh là..."
 
 "Anh... Anh Vivie thực sự nghĩ vậy sao...?!"
 
-Tôi cho rằng tất cả chúng tôi đều đã hình dung ra cùng một viễn cảnh, và những lời cảnh báo của tôi đã đạt được mục đích. Nếu phải đoán thì hai người họ có lẽ cho rằng một mạo hiểm giả khác đang nằm chờ để phục kích họ, nhưng chuyện không phải lúc nào cũng chỉ có vậy.
+Xem ra cả hai đều đã mường tượng ra cùng một viễn cảnh, và những lời cảnh báo của tôi đã đạt được mục đích. Tôi đoán hai người họ cho rằng có mạo hiểm giả khác đang nằm chờ để phục kích mình, nhưng sự tình không phải lúc nào cũng chỉ có vậy.
 
-Không thể phủ nhận một thực tế rằng có thể còn những nhân tố khó lường khác đang can dự vào. Sẽ thật dại dột nếu cho rằng kẻ đang mai phục chúng tôi không mang ác ý, nhưng tôi nghĩ việc chúng tôi ra tay trước cũng sẽ chẳng phải là điều thỏa đáng.
+Rõ ràng là vẫn có thể còn những nhân tố khó lường khác đang can dự vào. Sẽ thật dại dột nếu cho rằng kẻ đang mai phục chúng tôi không mang ác ý, nhưng tôi nghĩ việc chúng tôi chủ động ra tay trước cũng sẽ chẳng phải là điều thỏa đáng.
 
-"...Chúng ta có nên... Thăm dò thử không?" tôi cất lời, giọng vẫn là một tiếng thì thào khàn đục khe khẽ.
+"...Chúng ta có nên... thăm dò thử không?" tôi cất lời, giọng vẫn là một tiếng thì thào khàn đục khe khẽ.
 
 Hai người bạn đồng hành của tôi lập tức gật đầu.
 
-"Làm... làm thế nào để chúng ta làm vậy chứ?"
+"Bằng... bằng cách nào cơ chứ?"
 
-"Chúng ta chỉ việc... hỏi họ thôi sao?"
+"Chẳng lẽ chúng ta cứ... hỏi thẳng họ sao?"
 
-Câu trả lời của tôi rất đơn giản: "...Chúng ta sẽ... Tiến lên theo đội hình chiến đấu. Hai người... Hãy chuẩn bị sẵn sàng cho mọi tình huống. Tôi sẽ... Tự mình bước đến góc rẽ."
+Câu trả lời của tôi rất đơn giản: "...Chúng ta sẽ... tiến lên theo đội hình chiến đấu. Hai người... hãy chuẩn bị sẵn sàng cho mọi tình huống. Tôi sẽ... tự mình bước đến góc ngoặt."
 
-Nói đoạn, tôi bước một chân về phía trước. Định nghĩa của tôi về việc "thăm dò thử" tương đối đơn giản: tôi sẽ tiếp cận nơi kẻ mai phục đang rình rập, và xem liệu chúng có lao ra tấn công tôi hay không.
+Nói rồi, tôi bước một chân về phía trước. Cách "thăm dò thử" của tôi tương đối đơn giản: tôi sẽ tiếp cận nơi kẻ mai phục đang rình rập, xem liệu chúng có lao ra tấn công tôi hay không.
 
-Tôi không thể giao phó vai trò này cho Raiz hay Laura; dù xét theo góc độ của họ thì cả hai đều là những mạo hiểm giả có thực lực, nhưng họ lại chưa có đủ kinh nghiệm, và họ có thể sẽ do dự khi phải chiến đấu với những đối thủ là con người.
+Tôi không thể giao phó vai trò này cho Raiz hay Laura; dù bản thân họ đều là những mạo hiểm giả có thực lực, nhưng họ lại chưa có đủ kinh nghiệm, và rất có thể sẽ do dự khi phải chiến đấu với đối thủ là con người.
 
-Tuy nhiên, lý do lớn nhất và quan trọng hơn cả là hai người họ sẽ mất mạng nếu bị thương trong cuộc phục kích. Điều này dĩ nhiên chẳng phải chuyện đùa. Cân nhắc mọi yếu tố, bản thân tôi có lẽ sẽ không dễ dàng mất mạng đến thế ngay cả khi dính vết thương.
+Tuy nhiên, lý do lớn nhất và quan trọng hơn cả là hai người họ có thể mất mạng nếu bị thương trong cuộc phục kích. Điều này dĩ nhiên chẳng phải chuyện đùa. Cân nhắc mọi yếu tố, bản thân tôi có lẽ sẽ không dễ dàng mất mạng đến thế ngay cả khi dính vết thương.
 
-Rốt cuộc thì tôi là một Undead.
+Bởi rốt cuộc thì tôi là một Undead.
 
-Thi Quỷ nói riêng vốn nổi tiếng là sẽ không chết ngay cả khi bị chặt đứt đầu; chúng có một xu hướng bám víu lấy sự sống đến kỳ lạ. Trong trường hợp của tôi, tôi đồ rằng mình sẽ không thể cử động nếu bị chém bay đầu, nhưng ít nhất thì tôi sẽ chẳng ngừng di chuyển chỉ vì bị đâm một nhát vào ngực. Việc tôi là một kẻ thuộc giống loài xác sống bước đi trong trường hợp này lại trở thành lợi thế. Đó chính là lý do vì sao tôi xung phong.
+Thi Quỷ nói riêng vốn nổi tiếng là sẽ không chết ngay cả khi bị chặt đứt đầu; sức sống của chúng dai dẳng đến kỳ lạ. Trong trường hợp của mình, tôi đồ rằng mình sẽ không thể cử động nếu bị chém bay đầu, nhưng ít nhất thì tôi sẽ chẳng ngừng di chuyển chỉ vì bị đâm một nhát vào ngực. Việc bản thân là một xác sống trong tình huống này lại trở thành lợi thế. Đó chính là lý do vì sao tôi xung phong.
 
-Cả hai với tay ra phản đối, cố gắng ngăn tôi lại, nhưng tôi đã nằm ngoài tầm với của họ, rảo bước thật nhanh về phía góc hành lang. Nhìn thấy cảnh tượng đó, hai người đành từ bỏ ý định ngăn cản, thay vào đó là sẵn sàng vũ khí cho trận chiến.
+Cả hai với tay ra định can ngăn, nhưng tôi đã nằm ngoài tầm với của họ, rảo bước thật nhanh về phía góc hành lang. Nhìn thấy cảnh tượng đó, hai người đành từ bỏ ý định cản tôi lại, thay vào đó là sẵn sàng vũ khí cho trận chiến.
 
-Một sự lựa chọn khôn ngoan.
+Một lựa chọn khôn ngoan.
 
-Dù họ hoàn toàn có thể la hét hoặc cao giọng phản đối, nhưng thay vào đó họ lại chọn cách phản ứng phù hợp với tình huống trước mắt.
+Dù hoàn toàn có thể la hét hoặc cao giọng phản đối, nhưng thay vào đó họ lại chọn cách phản ứng phù hợp với tình huống trước mắt.
 
-Đó là một phẩm chất quan trọng mà mạo hiểm giả cần có—xét cho cùng, thế giới này không phải một nơi nhân từ. Cái chết đến rất nhanh, thường nối gót ngay sau sự bất cẩn và một khoảnh khắc nhẹ dạ cả tin.
+Đó là phẩm chất quan trọng mà mạo hiểm giả cần có. Xét cho cùng, thế giới này chẳng phải một nơi nhân từ. Cái chết ập đến rất nhanh, thường bám riết theo sau sự bất cẩn và một khoảnh khắc nhẹ dạ cả tin.
 
-—Hệt như cái cách nó đã tìm đến tôi.
+— Hệt như cái cách nó từng tìm đến tôi.
 
-Tôi cho rằng đó hẳn là một câu đùa tồi tệ.
+Nghĩ lại thì đó hẳn là một câu đùa tồi tệ.
 
-Mang theo những suy nghĩ ấy trong đầu, tôi nhanh chóng tiến tới góc rẽ nọ—
+Nghĩ vậy, tôi nhanh chóng tiến tới góc ngoặt nọ—
 
-"OÁAAAAAAAA!!"
+"ÁAAAAAAAAAA!!"
 
-Cùng với một tiếng thét lớn và những chuyển động hùng hổ, một gã đàn ông trông giống mạo hiểm giả lao ra từ một bên, phi thẳng người về phía tôi. Trên tay gã là một thanh kiếm đã giương cao quá đầu. Lưỡi kiếm ấy có lẽ là nhắm vào tôi, bởi hành động của gã đã tự nói lên tất cả.
+Kèm theo một tiếng gầm lớn cùng những động tác vung vẩy hùng hổ, một gã đàn ông trông giống mạo hiểm giả lao ra từ một bên, phi thẳng người về phía tôi. Thanh kiếm trên tay gã đã giương cao quá đầu. Lưỡi kiếm ấy có lẽ là nhắm vào tôi, bởi hành động của gã đã tự nói lên tất cả.
 
 Phía sau gã là một người đàn ông cầm cung, và một kẻ khác trông có vẻ giống ma pháp sư.
 
 Đúng như tôi nghĩ.
 
-Một nụ cười thoáng hiện trên môi khi tôi khẽ nheo mắt lại. Dự đoán của tôi hoàn toàn chuẩn xác.
+Tôi khẽ nheo mắt, khóe môi thoáng hiện một nụ cười. Dự đoán của tôi hoàn toàn chuẩn xác.
 
-Nhanh thoăn thoắt rút thanh kiếm của mình ra, tôi đỡ đòn của gã mạo hiểm giả đang lao tới, gạt phăng lưỡi kiếm của gã sang một bên một cách an toàn.
+Mau lẹ rút thanh kiếm của mình ra, tôi đỡ đòn của gã mạo hiểm giả đang lao tới, gạt phăng lưỡi kiếm của gã sang một bên một cách an toàn.
 
-"...Hai người. Hãy... Cẩn thận," tôi cất tiếng, dặn dò các bạn đồng hành phía sau.
+"...Hai người. Hãy... cẩn thận," tôi cất tiếng, dặn dò các bạn đồng hành phía sau.
 
-Lời cảnh báo của tôi có lẽ rốt cuộc cũng chẳng cần thiết, bởi nét mặt của Raiz và Laura lúc này đã trở nên đanh lại đầy cương quyết. Trông họ chuẩn mực là hình ảnh của những mạo hiểm giả; trên gương mặt họ không còn chút dấu vết nào của sự nghi ngại và âu lo mới thoáng qua cách đó ít phút.
+Lời cảnh báo của tôi có lẽ rốt cuộc cũng chẳng cần thiết, bởi nét mặt của Raiz và Laura lúc này đã đanh lại đầy cương quyết. Trông họ chuẩn mực là hình ảnh của những mạo hiểm giả; trên gương mặt họ không còn chút dấu vết nào của sự nghi ngại và âu lo mới thoáng qua cách đó ít phút.
 
 Ánh mắt của họ kiên định như thép. Đối với họ, điều duy nhất quan trọng lúc này là đánh bại kẻ địch trước mặt. Tôi nghĩ con mắt nhìn người của mình vẫn còn tinh tường lắm, bởi hai người này sở hữu tiềm năng rất lớn.
 
-Với suy nghĩ đó trong đầu, tôi cũng siết chặt tinh thần cho trận chiến.
+Thấy vậy, tôi cũng siết chặt tinh thần cho trận chiến.
 
-Ra hiệu cho Raiz bằng một cái gật đầu, tôi nhường gã kiếm sĩ địch lại cho cậu ta, còn mình thì lao thẳng về phía tên cung thủ và ma pháp sư ở đằng xa. Trong một chuyển động đã thuần thục đến mức tự nhiên, tôi dậm mạnh chân xuống mặt đất. Giờ đây đã được ban cho năng lực thể chất gấp nhiều lần thời còn sống, tôi nhanh chóng thấy mình đã áp sát ngay trước mặt tên cung thủ của địch.
+Ra hiệu cho Raiz bằng một cái gật đầu, tôi nhường gã kiếm sĩ địch lại cho cậu ta, còn mình thì lao thẳng về phía tên cung thủ và ma pháp sư ở đằng xa. Bằng một động tác đã thuần thục đến mức tự nhiên, tôi dậm mạnh chân xuống mặt đất. Giờ đây đã sở hữu năng lực thể chất gấp nhiều lần thời còn sống, tôi thoắt cái đã áp sát ngay trước mặt tên cung thủ của địch.
 
 "...Cái—"
 
-Tất cả những gì hắn có thể làm là trừng mắt nhìn chiếc mặt nạ của tôi khi tôi xuất hiện trước mặt hắn trong chớp mắt, nét mặt tràn ngập vẻ bàng hoàng không dám tin.
+Thấy tôi xuất hiện trước mặt trong chớp mắt, tất cả những gì hắn có thể làm là trừng mắt nhìn chiếc mặt nạ của tôi với vẻ bàng hoàng không dám tin.
 
-Tuy nhiên, cuộc chạm trán không dừng lại ở đó. Trong một nỗ lực chống cự đầy ngoan cố, tên cung thủ nhắm mũi tên đã lắp sẵn trên dây cung, định bắn thẳng vào tôi ở cự ly điểm xạ. Tôi cho rằng hắn cũng có chút bản lĩnh. Nhưng tôi chỉ đơn giản vung cổ tay dứt khoát cắt đứt dây cung của hắn trước khi hắn kịp bắn tên. Nhanh chóng lấy lại thế thăng bằng, tôi đập mạnh mặt phẳng của thân kiếm vào ngực tên cung thủ, tước bỏ khả năng chiến đấu của hắn. Hắn ngã vật ra sàn, nằm sóng xoài trên mặt đất.
+Tuy nhiên, cuộc chạm trán không dừng lại ở đó. Trong một nỗ lực chống cự đầy ngoan cố, tên cung thủ nhắm mũi tên đã lắp sẵn trên dây cung, toan bắn thẳng vào tôi ở cự ly sát sạt. Tôi cho rằng hắn cũng có chút bản lĩnh. Nhưng tôi chỉ đơn giản lắc cổ tay dứt khoát cắt đứt dây cung của hắn trước khi hắn kịp bắn tên. Nhanh chóng lấy lại thế thăng bằng, tôi nện mạnh bản kiếm vào ngực tên cung thủ, tước bỏ khả năng chiến đấu của hắn. Hắn ngã vật ra, nằm sóng xoài trên mặt đất.
 
 Tên ma pháp sư, rõ ràng đang dang dở một câu thần chú, hoàn toàn chưa chuẩn bị cho đòn tập kích của tôi. Tôi lặp lại những gì mình vừa làm với tên cung thủ, và chẳng mấy chốc, hắn ta cũng bị vô hiệu hóa.
 
 Chỉ còn lại một kẻ địch duy nhất.
 
-Cảnh tượng Raiz và Laura đang kịch chiến với tên kiếm sĩ địch hiện ra trước mắt khi tôi xoay người lại. Gã có lẽ là thủ lĩnh, hoặc chí ít trông cũng là kẻ có tay nghề cao nhất trong số bọn chúng. Một cái liếc nhìn nhanh qua kỹ năng của họ khiến tôi tin là như vậy.
+Quay người lại, cảnh tượng Raiz và Laura đang kịch chiến với tên kiếm sĩ địch hiện ra trước mắt tôi. Gã có lẽ là thủ lĩnh, hoặc chí ít trông cũng là kẻ có tay nghề cao nhất trong số bọn chúng; chỉ cần liếc nhanh qua chiêu thức của họ là tôi tin chắc như vậy.
 
-Về phần mình, Raiz và Laura hoàn toàn không hề yếu. Việc họ không bị gã đàn ông kia áp đảo chính là minh chứng rõ ràng cho thực lực của họ. Dù ý nghĩ hỗ trợ họ có thoáng qua trong đầu tôi, nhưng đây lại là một trải nghiệm quý báu cho họ: trận chiến đầu tiên chống lại một con người bằng xương bằng thịt đang sống sờ sờ.
+Về phần mình, Raiz và Laura hoàn toàn không hề yếu. Việc họ không bị gã đàn ông kia áp đảo chính là minh chứng rõ ràng cho thực lực của cả hai. Dù ý nghĩ hỗ trợ có thoáng qua trong đầu, nhưng tôi hiểu đây là một trải nghiệm quý báu cho họ: trận chiến đầu tiên chống lại một con người bằng xương bằng thịt.
 
-Quyết định rằng trải nghiệm này là tối quan trọng đối với sự trưởng thành của họ, tôi gạt bỏ mọi ý định hỗ trợ, thay vào đó âm thầm quan sát trận chiến của họ. Trong lúc đó, tôi không quên trói hai tên mạo hiểm giả địch đã ngã gục lại, đặt chúng nằm thẳng cẳng trên mặt đất. Làm như vậy, tôi sẽ chẳng còn phải lo lắng về việc chúng tỉnh lại rồi tiếp tục tấn công nữa.
+Nhận định rằng trải nghiệm này là tối quan trọng đối với sự trưởng thành của họ, tôi gạt bỏ mọi ý định hỗ trợ, thay vào đó âm thầm quan sát trận chiến. Trong lúc đó, tôi không quên trói hai tên mạo hiểm giả địch đã ngã gục lại, đặt chúng nằm ngay ngắn trên mặt đất. Làm như vậy, tôi sẽ chẳng còn phải lo lắng về việc chúng tỉnh lại rồi tiếp tục tấn công nữa.
 
 Dĩ nhiên, bỏ mặc chúng trong tình trạng như thế sẽ dấy lên một vài thắc mắc khác... Nhưng tôi cho rằng chúng sẽ tự tìm cách thoát khỏi mớ rắc rối của chính mình.
 
-Chí ít thì đó là những gì tôi nghĩ khi nhìn vào bóng tối của mê cung. Có một sự hiện diện ở đâu đó ngoài kia, đang âm thầm quan sát toàn bộ tình huống này.
+Chí ít thì đó là những gì tôi nghĩ khi nhìn vào bóng tối sâu thẳm của mê cung. Có một sự hiện diện ở đâu đó ngoài kia, đang âm thầm quan sát toàn bộ tình huống này.
 
-Một lát sau, Raiz rốt cuộc cũng ghi được một đòn trúng đích, gạt phăng lưỡi kiếm của đối thủ bằng một pha phản đòn mượt mà. Nắm bắt thời cơ, Raiz hạ thấp trọng tâm, dùng một cú húc vai tông thẳng vào ngực gã đàn ông. Tên kiếm sĩ địch không kịp chống đỡ trước đà xông tới của Raiz, lập tức mất thăng bằng.
+Một lát sau, Raiz rốt cuộc cũng tung được một đòn trúng đích: cậu gạt phăng lưỡi kiếm của đối thủ bằng một pha phản đòn mượt mà. Nắm bắt thời cơ, Raiz hạ thấp trọng tâm, dùng một cú húc vai tông thẳng vào ngực gã đàn ông. Tên kiếm sĩ địch không kịp chống đỡ trước đà xông tới của Raiz, lập tức mất thăng bằng.
 
-Không chịu thua kém, Laura phóng ra một loạt đạn đất đá về phía kẻ thù của họ. Dù trông như thể những viên đạn ma pháp của cô sẽ trúng vào lưng Raiz, nhưng tất cả đều nằm trong một màn phối hợp nhịp nhàng đã được tính toán kỹ lưỡng, với việc Raiz lăn người né sang một bên vào đúng giây cuối cùng. Đối với tên kiếm sĩ, có lẽ cảm giác như những khối đất đá lao vút tới chỉ đơn giản là từ trên trời rơi xuống, với vài khối nện thẳng vào bụng gã một cách chuẩn xác.
+Không chịu thua kém, Laura phóng ra một loạt đạn đất đá về phía kẻ thù của họ. Dù trông như thể những viên đạn ma pháp của cô sẽ trúng vào lưng Raiz, nhưng tất cả đều nằm trong một màn phối hợp nhịp nhàng đã được định sẵn, với việc Raiz lăn người né sang một bên vào đúng giây cuối cùng. Đối với tên kiếm sĩ, có lẽ cảm giác như những khối đất đá lao vun vút tới chỉ đơn giản là từ hư không xuất hiện, nện thẳng vài khối vào bụng gã một cách chuẩn xác.
 
-Và nếu tôi được phép nhận xét, thì đó có lẽ là thứ cuối cùng mà gã kịp nhìn thấy.
+Và theo tôi thấy thì đó có lẽ là thứ cuối cùng mà gã kịp nhìn thấy.

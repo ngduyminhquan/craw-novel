@@ -33,6 +33,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 7. **Giọng Loris Cariello và Isabel.** Loris là chủ quán ăn bình dân, xởi lởi, hay dùng từ đệm dò ý ở cuối câu ("yeah?" → "chứ hả", "nhé", "được không"); Isabel tháo vát, chăm chỉ, xưng hô vợ chồng tự nhiên ("mình ơi", "nhà tôi"), giao tiếp với người ngoài giữ phép lịch sự nhưng thẳng thắn, không khách sáo màu mè.
 8. **Bản năng Undead trỗi dậy và tâm lý tự giễu của Lorraine.** Khi Rentt bị bản năng quái vật chi phối, độc thoại nội tâm giằng xé giữa cơn thèm khát dã tính và lý trí con người, diễn đạt bằng các câu cụt dồn dập, ngắt quãng. Lorraine khi đối diện việc bị tấn công vẫn giữ thái độ thực tế, sắc sảo và dí dỏm tự giễu ("damaged goods" → "hàng có tì vết"), không bi lụy hay hoảng loạn thái quá.
 9. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
+10. **Lối nói bình luận tự trào ('if I may say so').** Rentt hay có thói quen chêm 'if I may say so' vào cuối câu nhận xét (#34); dịch linh hoạt theo khẩu ngữ tiếng Việt ('mà phải nói là...', 'theo tôi thấy thì...'), tránh dịch dập khuôn thành 'nếu tôi được phép nhận xét'.
 
 ## Từ cảm thán / cách nói cố định
 
