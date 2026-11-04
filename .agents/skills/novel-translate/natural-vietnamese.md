@@ -40,3 +40,5 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
     - "If you get bitten, you turn into one" (nói về quy luật) → "Bị cắn là hoá thành nó", không phải "Nếu anh bị cắn thì anh sẽ hoá thành nó".
 18. **Mỗi đoạn thoại phải đóng ngoặc kép.** Tiếng Anh để hở ngoặc ở cuối đoạn khi người đó còn nói tiếp ở đoạn sau. Bản dịch thì đoạn nào mở ngoặc cũng phải đóng ngoặc ở cuối đoạn đó.
 19. **Không rút "chúng ta" thành "ta".** Dịch "we" trong hội thoại thành "Ta nên đi thôi" dễ bị hiểu là nhân vật tự xưng "ta" kiểu bề trên. Dùng "chúng ta", "mình", "tụi mình", "cả nhóm".
+20. **Văn bản lặp nguyên văn giữa các chương** (câu chú, lời thề, khẩu hiệu, dòng chữ khắc) phải giữ đúng như lần dịch trước. Muốn sửa thì tìm và sửa mọi chỗ cùng lúc, không sửa lẻ một chương.
+21. **Bảng xưng hô là mặc định, raw là chuẩn.** Raw gọi bằng tên riêng ("Miss Lorraine") trong khi bảng ghi gọi theo họ ("cô Vivie") thì giữ theo raw, không sửa đè.
