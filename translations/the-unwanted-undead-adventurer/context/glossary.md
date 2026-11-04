@@ -352,7 +352,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | hannya |  | hannya | quái vật | 187 | Nữ quái vật đến từ đảo quốc viễn đông, dùng để chỉ người phụ nữ cuồng nộ (般若) |
 | oni |  | oni | quái vật | 187 | Chủng tộc quái vật viễn đông tương tự ogre nhưng nhỏ hơn và thông minh hơn (鬼) |
 | Sleipnir |  | Sleipnir | quái vật | 187 | Thần mã tám chân trong thần thoại, loài ngựa sáu chân được cho là hậu duệ của Sleipnir |
-| Division |  | Phân Liệt | kỹ năng | 188 | Kỹ năng phân tách cơ thể thành đàn dơi rồi hợp thể lại nguyên vẹn của Trung Cấp/Thượng Cấp Ma Cà Rồng (分裂) |
+| Division | Splintering | Phân Liệt | kỹ năng | 188 | Kỹ năng phân tách cơ thể thành đàn dơi rồi hợp thể lại nguyên vẹn của Trung Cấp/Thượng Cấp Ma Cà Rồng (分裂) |
 | San Arms | San Arm | Huyết Binh | kỹ năng | 188 | Vũ khí màu đỏ tạo từ máu của Ma Cà Rồng (San Arms/サンアームズ) |
 | Fire Storm |  | Hỏa Bão | kỹ năng | 190 | Ma pháp hỏa hệ tạo bão lửa/cầu lửa thiêu đốt mục tiêu |
 | Heaven |  | Thiên Đường | địa danh | 188 | Cõi thiên đường theo quan niệm tôn giáo đối lập với Địa Ngục |
@@ -434,3 +434,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Looza | village of Looza | Looza | địa danh | 234 | Ngôi làng nằm trên lộ trình nhóm Rentt đang di chuyển (ルーザ村) |
 | Lake Petorama |  | Hồ Petorama | địa danh | 235 | Vùng hồ đích đến trong chuyến đi của nhóm Rentt (ペトラマ湖) |
 | Mime Wyvern | mime wyverns; Mime Wyverns; mime wyvern | Phi Long Mime | quái vật | 235 | Phân loài Phi Long màu xanh lam nhạt sinh sống ở vùng Hồ Petorama (マイムワイバーン) |
+| lymes | lymes leaf | cây lymes | vật phẩm | 237 | Loài cây có lá to cỡ và hình dạng như bàn tay người |

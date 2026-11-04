@@ -1396,6 +1396,12 @@ Nửa đêm, Ferrici bất ngờ tới gõ cửa phòng Augurey trong chiếc v�
 Augurey nhận định thể lực và chiêu thức của Ferrici hoàn toàn là nghiệp dư, không giống nữ sát thủ Siren, nên vác cô sang phòng Rentt và Lorraine để hội ý; khi gõ cửa phòng Rentt, cả hai bên đều hài hước thanh minh rằng phòng mình "trong sạch".
 Cảnh kết thúc: Rentt mở cửa đón Augurey đang vác Ferrici trên vai bước vào phòng.
 
+## 237
+Rentt cũng bị một cô gái (bạn của Ferrici ở quán rượu) đến gạ gẫm rồi rút dao đâm lén, nhưng anh dùng Phân Liệt né đòn rồi đánh ngất và trói gô cô ta lại; Rentt và Augurey lén vác cả hai cô gái sang phòng Lorraine để hội ý.
+Tại phòng Lorraine, cô cũng đã hạ gục một gã đàn ông điển trai đến tiếp cận bằng ma pháp Gie Vieros và trói bằng vòng sáng ma thuật; cả nhóm nhận định cả ba kẻ tấn công đều là dân làng bị Siren thôi miên/thao túng làm con rối như những "diễn viên" trên sân khấu.
+Lorraine dựng Cách Âm Kết Giới và thử đánh thức kẻ tấn công (kể cả tát mạnh) nhưng vô hiệu; nhóm bàn bạc phương án truy bắt Siren, không vội tra khảo Goblin vì sợ lộ hoặc bị bắt con tin, cũng như nhờ Lorraine đã bí mật đánh dấu ma pháp lên Goblin.
+Augurey chuyển gã đàn ông sang sofa để tránh bất tiện và thoáng nhận ra điều gì đó trên gương mặt gã nhưng không nói; Rentt và Augurey để Lorraine ở lại canh giữ ba tù nhân rồi lẻn ra ngoài thám thính tình hình ngôi làng.
+
 
 
 

@@ -241,7 +241,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | reviewed |  |
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | done |  |
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | done |  |
-| 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | todo |  |
+| 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | done |  |
 | 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | todo |  |
 | 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | todo |  |
 | 240 |  | Chapter_240 - Vol 10 Chapter 4 - The Arrival (6).txt | Vol 10 Chapter 4 - The Arrival (6) | todo |  |
@@ -878,3 +878,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#235] Dịch tên quái vật mới 'mime wyvern' (light-blue mime wyverns) — tạm chọn 'Phi Long Mime' đồng bộ cấu trúc với 'Phi Long Zeva' và 'Phi Long Grand Fum' trong glossary.md (phương án khác: 'Phi Long Bắt Chước', 'Phi Long Mẫu'). Tạm dùng trong bản dịch: 'Phi Long Mime'. → Giữ 'Phi Long Mime' đồng bộ với 'Phi Long Zeva' và 'Phi Long Grand Fum' trong glossary.md. (orchestrator)
 - [#235] Dịch vật phẩm 'wyvern elata' (biến thể cách gọi của 'wyvern flax' ở #231) — tạm chọn 'lanh Phi Long' đồng bộ với #231 và thêm Alias vào mục 'wyvern flax' trong glossary.md (phương án khác: 'cây lanh Phi Long', 'cỏ lanh Phi Long'). Tạm dùng trong bản dịch: 'lanh Phi Long'. → Giữ 'lanh Phi Long' đồng bộ với 'wyvern flax' ở chương 231 và thêm vào cột Alias của glossary.md. (orchestrator)
 - [#236] Từ "Grandpa..." trong độc thoại của Augurey: raw không nói rõ ông nội hay ông ngoại; tạm dùng "Ông..." cho tự nhiên và bao quát. → Giữ "Ông..." (chung cho cả ông nội/ông ngoại vì raw chỉ viết "Grandpa"). (orchestrator)
+- [#237] Dịch 'Splintering' — tạm chọn 'Phân Liệt' (bản dịch raw dùng thay cho 'Division' ở #188 của Ma Cà Rồng), đã thêm Splintering vào Alias của Division. → Giữ 'Phân Liệt' và thêm 'Splintering' vào Alias của 'Division' trong glossary.md (cùng kỹ năng phân tách cơ thể của Ma Cà Rồng ở chương 188 và 208). (orchestrator)
+- [#237] Dịch 'lymes' (loài cây có lá to cỡ bàn tay người) — tạm chọn 'cây lymes' (giữ nguyên tên gốc kèm tiền tố loài cây). → Giữ 'cây lymes'. (orchestrator)
