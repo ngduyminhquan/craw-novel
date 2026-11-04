@@ -2,13 +2,13 @@
 
 Tôi... lạc đường mất rồi.
 
-Đó là ý nghĩ duy nhất quanh quẩn trong đầu tôi lúc này, trên đường tiến vào cơ ngơi của gia tộc Latuule.
+Đó là ý nghĩ duy nhất quanh quẩn trong đầu tôi lúc này, trên đường tiến vào cơ ngơi của Gia tộc Latuule.
 
 Tôi định tới gặp Isaac để bàn bạc chi tiết về ủy thác. Phía Hội dĩ nhiên đã chỉ dẫn cặn kẽ cho tôi. Vị trí dinh thự được vẽ rất rõ ràng trên bản đồ, nhìn chung đường đi nước bước chẳng có gì khó hiểu. Dinh thự nằm ở ngoại ô Maalt, và tôi đã tới đúng nơi mà không hề lạc bước. Có điều, rắc rối lại nằm ở địa thế nơi đây.
 
 Gia tộc Latuule ngụ trong một dinh thự khổng lồ bề thế, và dẫu đó là đích đến, tôi vẫn phải băng qua một khu vườn rộng lớn trong khuôn viên trước khi thật sự chạm tới cửa dinh thự. Kiểu bố trí này chẳng hề hiếm gặp, nhất là với những dinh cơ xa hoa của các danh gia vọng tộc quanh vùng này. Vấn đề không nằm ở dinh thự, mà là khu vườn phía trước nó.
 
-Nếu phải đoán, khu vườn này có lẽ bắt nguồn từ ý thích nhất thời của một nhân vật cộm cán nào đó nhà Latuule ngày trước. Thay vì một lối đi thẳng tắp dẫn vào dinh thự như thường thấy, khu vườn này lại là một mê cung ngoằn ngoèo uốn lượn. Chỉ cần bước sâu vào một chút, những hàng rào cây cao ngút đã chắn kín tầm mắt. Hàng rào được dựng từ một loài cây bụi tựa hoa hồng, mọc cao đến khó tin. Xung quanh tôi bấy giờ chỉ có một màu xanh bạt ngàn.
+Nếu phải đoán, khu vườn này có lẽ bắt nguồn từ ý thích nhất thời của một nhân vật tầm cỡ nào đó của Gia tộc Latuule thời trước. Thay vì một lối đi thẳng tắp dẫn vào dinh thự như thường thấy, khu vườn này lại là một mê cung ngoằn ngoèo uốn lượn. Chỉ cần bước sâu vào một chút, những hàng rào cây cao ngút đã chắn kín tầm mắt. Hàng rào được dựng từ một loài cây bụi tựa hoa hồng, mọc cao đến khó tin. Xung quanh tôi bấy giờ chỉ có một màu xanh bạt ngàn.
 
 Càng dấn sâu vào trong, tôi rẽ hết hướng này sang hướng khác, rồi trước mắt lại chia thành nhiều ngả. Hết ngã rẽ này lại đến ngã rẽ khác, những dãy hàng rào mê cung cứ thế trải dài tít tắp. Chẳng mấy chốc, tôi nhận ra mình, nói thẳng thừng ra là, đã lạc đường.
 
@@ -22,7 +22,7 @@ Nếu tôi nhớ không nhầm, tôi đã hỏi hết những câu cần hỏi r
 
 Nhưng trước khi đi, tôi có hỏi anh ta vài câu.
 
-"Còn... Lối vào nào. Khác không...?"
+"Còn... lối vào nào. Khác không...?"
 
 Người gác cổng thoáng liếc nhìn mê cung hoa hồng, rồi chậm rãi quay lại lắc đầu với tôi.
 
@@ -30,13 +30,13 @@ Người gác cổng thoáng liếc nhìn mê cung hoa hồng, rồi chậm rãi
 
 Một thoáng tuyệt vọng dâng lên trong lòng tôi. Muốn gõ được cửa dinh thự, tôi chẳng còn cách nào khác ngoài việc vượt qua cái khu vườn mê cung kỳ quái này.
 
-"Bình thường... Đi mất. Bao lâu?"
+"Bình thường... đi mất. Bao lâu?"
 
-"Tới dinh thự sao, thưa ngài? Ờm... Cái đó còn tùy vào từng người nữa... Khổ nỗi mê cung này thỉnh thoảng lại tự đổi lối đi. Thành ra bảo tôi ước chừng thời gian chính xác thì quả thực vượt quá khả năng..." người gác cổng vừa nói vừa lộ vẻ áy náy.
+"Tới dinh thự sao, thưa ngài? Ờm... cái đó còn tùy vào từng người nữa... Khổ nỗi mê cung này thỉnh thoảng lại tự đổi lối đi. Thành ra bảo tôi ước chừng thời gian chính xác thì thực sự quá sức tôi..." người gác cổng vừa nói vừa lộ vẻ áy náy.
 
 Mê cung mà thỉnh thoảng lại tự đổi lối đi ư? Thế thì ai mà coi nó là mê cung bình thường cho nổi.
 
-Như đoán được sự ngờ vực của tôi, người gác cổng tiếp lời: "Nhưng quả đúng vậy đấy, thưa ngài. Thực ra bản thân mê cung này vốn là một loại ma cụ đặc biệt. Các đời gia chủ nhà Latuule đều có chung sở thích sưu tầm ma cụ, và mê cung này chính là hiện tượng do một trong số đó tạo ra..."
+Như đoán được sự ngờ vực của tôi, người gác cổng tiếp lời: "Nhưng quả đúng vậy đấy, thưa ngài. Thực ra bản thân mê cung này vốn là một loại ma cụ đặc biệt. Các đời gia chủ của Gia tộc Latuule đều có chung sở thích sưu tầm ma cụ, và mê cung này chính là hiện tượng do một trong số đó tạo ra..."
 
 Tôi khó lòng giấu nổi sự kinh ngạc. Lại có cả loại ma cụ thế này cơ à? Nhưng ngẫm lại thì cũng có thể lắm. Ma cụ nhìn chung được chia thành ba nhóm: Thần Cụ, Kỳ Cụ và Nguyền Cụ. Rất có thể một món đồ thuộc một trong ba nhóm ấy đã tạo nên mê cung này.
 
@@ -44,15 +44,15 @@ Phần lớn ma cụ đều có công năng theo quy chuẩn nhất định, nh�
 
 Trái lại, những món đồ đặc biệt thì khác hẳn, thường là độc nhất vô nhị. Chẳng hạn như chiếc mặt nạ bị nguyền hay tấm áo choàng chống nước của tôi. Chúng thường có hiệu ứng đặc thù hoặc kỳ quặc, và giá trị thì tùy người định đoạt. Có những ma cụ đặc biệt rất đỗi hữu dụng, nhưng cũng có món chẳng biết để làm cái tích sự gì. Chính vì muôn hình vạn trạng như thế nên giá của chúng cũng biến động khôn lường.
 
-Cứ lấy chiếc mặt nạ của tôi làm ví dụ: một món đồ cực kỳ hữu dụng trong hoàn cảnh và thể chất độc nhất vô nhị của tôi, nhưng Rina mua lại với giá vỏn vẹn ba đồng xu đồng. Chắc gã thương nhân bán món này nghĩ nó chỉ là thứ đồng nát vô dụng nên mới để giá rẻ mạt như vậy. Hóa ra nó lại là món nguyền cụ mà từ lúc đeo vào tôi không tài nào tháo ra được, xem ra trực giác của gã cũng chẳng sai mấy. Còn với cái bản mặt hiện giờ của tôi, chẳng biết lời nguyền ấy nên xem là tai họa hay phúc đức nữa...
+Cứ lấy chiếc mặt nạ của tôi làm ví dụ: một món đồ cực kỳ hữu dụng trong hoàn cảnh và thể chất độc nhất vô nhị của tôi, nhưng Rina mua lại với giá vỏn vẹn ba đồng xu đồng. Chắc gã thương nhân bán món này nghĩ nó chỉ là thứ đồng nát vô dụng nên mới để giá rẻ mạt như vậy. Hóa ra nó lại là chiếc mặt nạ bị nguyền mà từ lúc đeo vào tôi không tài nào tháo ra được, xem ra trực giác của gã cũng chẳng sai mấy. Còn với cái mặt hiện giờ của tôi, tôi cũng chẳng biết lời nguyền của chiếc mặt nạ này thực ra là họa hay là phúc nữa...
 
-"...Có sở thích quái lạ thì... Cứ cho là. Tùy họ đi. Nhưng mà... Ai ngờ tôi lại phải... Vượt qua cái. Sở thích ấy của họ. Mới vào được tới nơi..." tôi nói, không giấu nổi vẻ bực dọc trước tình cảnh này.
+"...Có sở thích độc lạ thì... cũng được thôi. Tôi đoán vậy. Nhưng mà... ai ngờ tôi lại phải... vượt qua cái. Sở thích ấy của họ. Mới vào được tới nơi..." tôi nói, không giấu nổi vẻ bực dọc trước tình cảnh này.
 
 Người gác cổng chỉ mỉm cười đáp lại.
 
 "Tôi cũng thông cảm với ngài lắm. Nhưng sao ngài không thử một phen xem? Mê cung này được thiết kế để sau một khoảng thời gian nhất định, nó sẽ mở ra một lối đi thẳng tắp dẫn tới cửa vào. Thậm chí tôi còn nghe đồn, hễ ai tự mình vượt qua mê cung trước thời gian đó thì thỉnh thoảng sẽ được tặng một món ma cụ làm quà tưởng thưởng..."
 
-Có vẻ như người gác cổng đang ngầm mách nước điều gì... Nhận thấy vẻ hiểu ra của tôi, anh ta vẫn thản nhiên nói tiếp.
+Có vẻ như người gác cổng đang ngầm mách nước điều gì... Như nhận ra suy nghĩ đó của tôi, anh ta vẫn giữ nguyên nét mặt mà nói tiếp.
 
 "Hồi trước tôi cũng từng thử sức với mê cung này đấy, thưa ngài. Bình thường nếu không có khách hẹn trước thì cổng luôn đóng kín, nhưng dạo đó lại mở toang. Chẳng là tôi tình cờ thấy tờ thông báo rằng ai vượt qua mê cung sẽ được thưởng một món ma cụ. Trên đó có vẽ sẵn bản đồ tới dinh thự, nhờ thế tôi mới tìm đến tận cánh cổng này."
 
@@ -64,31 +64,31 @@ Trường hợp này chắc cũng vậy.
 
 "Dĩ nhiên," người gác cổng kể tiếp, "đâu chỉ mình tôi thấy thông báo đó. Không ít người đã tìm tới tận cánh cổng này, ai nấy đều chung một mục đích. Nhiều người bước vào rồi cũng ngần ấy người bị lạc, loanh quanh một hồi lại thấy mình đứng ở đây. Họ mất phương hướng giữa mê cung, rồi chẳng bao lâu sau, mê cung tự chuyển dịch mở ra một lối dẫn ngược về cổng vào. Lúc mới nghe tôi cũng ngạc nhiên lắm, nhưng nghĩ bụng ma cụ chắc làm được chuyện đó. Dù ngỡ là bất khả thi, nhưng biết mê cung sẽ tự dẫn người lạc về lại cổng khiến tôi an tâm hơn hẳn, thế là tôi đánh liều bước vào lần nữa..."
 
-"Và anh đã tới... Đích."
+"Và anh đã tới... đích."
 
-"Vâng. Nói đúng hơn thì đó hoàn toàn là nhờ may mắn. Bản thân tôi biết rất rõ mình chẳng thể nào làm lại lần thứ hai. Dù vậy, đúng như đã hứa, vị gia chủ nhà Latuule thời đó đã mang ra khá nhiều ma cụ cho tôi tùy ý chọn một món. Toàn là những món đồ hữu dụng hiếm thấy cả, nhưng mà... Chà, dạo ấy tôi lại đang thất nghiệp, thưa ngài. Kể ra thì cũng hơi ngượng... nhưng tôi chẳng nhận món ma cụ nào, mà xin một chân làm việc ở dinh thự. Và thế là..."
+"Vâng. Nói đúng hơn thì đó hoàn toàn là nhờ may mắn. Bản thân tôi biết rất rõ mình chẳng thể nào làm lại lần thứ hai. Dù vậy, đúng như đã hứa, vị gia chủ của Gia tộc Latuule thời đó đã mang ra khá nhiều ma cụ cho tôi tùy ý chọn một món. Toàn là những món đồ hữu dụng hiếm thấy cả, nhưng mà... chà, dạo ấy tôi lại đang thất nghiệp, thưa ngài. Kể ra thì cũng hơi ngượng... nhưng tôi chẳng nhận món ma cụ nào, mà xin một chân làm việc ở dinh thự. Và thế là..."
 
-"Họ nhận... Anh vào làm. Ra là thế..."
+"Họ nhận... anh vào làm. Ra là thế..."
 
 Nhìn dinh thự đồ sộ cùng cơ ngơi mênh mông của họ, việc sở hữu cả một bộ sưu tập ma cụ uy lực cũng là điều dễ hiểu. Tính ra công việc gác cổng này cũng tương đối nhàn nhã. Được cái anh ta làm việc rất nghiêm túc, chắc sẽ còn gắn bó lâu dài.
 
-"Nhân tiện... Cho tôi hỏi. Thứ lỗi nếu... Câu này hơi đường đột. Nhưng sao hồi đó anh lại... Mất việc?"
+"Nhân tiện... cho tôi hỏi. Thứ lỗi nếu... câu này hơi đường đột. Nhưng sao hồi đó anh lại... mất việc?"
 
-"À, chuyện đó à thưa ngài. Chẳng giấu gì ngài, hồi đó tôi cãi lệnh cấp trên. Nghĩ lại mà tiếc, suýt nữa là tôi có được một công việc ổn định cả đời rồi đấy! Thật đáng xấu hổ. Nhưng cũng nhờ thế mà tôi mới được nhận vào đây, rồi từ đó quyết định an phận thủ thường, sống cho chắc chân, như người ta vẫn bảo."
+"À, chuyện đó à thưa ngài. Chẳng giấu gì ngài, hồi đó tôi cãi lệnh cấp trên. Nghĩ lại mà tiếc, suýt nữa là tôi có được một công việc ổn định cả đời rồi đấy! Thật đáng xấu hổ. Nhưng cũng nhờ thế mà tôi mới được nhận vào đây, rồi từ đó quyết định sống thực tế, làm ăn đàng hoàng, như người ta vẫn thường nói."
 
-"Sống đàng hoàng... Được vậy thì tốt. Quả là điều... Đáng quý."
+"Sống đàng hoàng... được vậy thì tốt. Quả là điều... đáng quý."
 
 Ngay cả một kẻ như tôi cũng có thể tìm lại phần người; chà, nếu chịu khó cố gắng thì chắc là được. Dù sao chăng nữa, quyết tâm sống một cách tử tế của tôi vẫn chẳng hề suy suyển.
 
-Ấy thế mà... việc tiến hóa thành một tồn tại mạnh mẽ hơn sau khi bị Rồng thần thoại nuốt trọn cũng chẳng đến nỗi nào. Cuộc đời đúng là lắm ngã rẽ bất ngờ.
+Ấy thế mà... việc tiến hóa thành một sinh vật mạnh mẽ hơn sau khi bị Rồng thần thoại nuốt trọn cũng chẳng đến nỗi nào. Cuộc đời đúng là lắm ngã rẽ bất ngờ.
 
-Tôi nhìn người gác cổng, bỗng thấy dâng lên một cảm giác gắn kết kỳ lạ.
+Tôi nhìn người gác cổng, bỗng thấy có chút đồng cảm kỳ lạ.
 
-"Tôi hiểu ra... Nhiều điều rồi. Từ cuộc trò chuyện. Nho nhỏ này. Có lẽ tôi cũng nên thử sức với... Mê cung xem sao. Cho biết. Có lời khuyên nào... Cho một lính mới như... Tôi không?"
+"Tôi hiểu ra... nhiều điều rồi. Từ cuộc trò chuyện. Nho nhỏ này. Có lẽ tôi cũng nên thử sức với... mê cung này. Xem sao. Có lời khuyên nào... cho một lính mới như... tôi không?"
 
 Đó là câu hỏi mà các tân binh mạo hiểm giả hay hỏi tiền bối. Như hiểu được trò đùa của tôi, người gác cổng cười đầy ẩn ý.
 
-"Được chứ... Được chứ. Có lẽ ngài đừng nên nhìn mặt trời mà định hướng thì khôn ngoan hơn, thưa ngài..."
+"Vâng... vâng. Có lẽ ngài đừng nên nhìn mặt trời mà định hướng thì khôn ngoan hơn, thưa ngài..."
 
 Tôi hơi nghiêng đầu trước lời dặn ấy, nhưng dẫu sao người gác cổng cũng là kẻ dày dạn kinh nghiệm với mê cung này. Tôi đành đặt đôi phần tin tưởng vào lời anh ta.
 
@@ -102,7 +102,7 @@ Tôi ôm đầu ngao ngán nhìn quanh. Chẳng thể trách tôi được, bở
 
 Rốt cuộc người ta chế ra món ma cụ này để làm cái trò trống gì không biết? Dù trong đầu nghĩ vậy, nhưng nói toạc ra miệng thì khiếm nhã quá. Chắc hẳn những món đồ kỳ quặc như thế này vẫn tồn tại đâu đó. Bản thân nó có thể đã bị mang đi khỏi nơi chốn ban đầu, nơi nó từng phục vụ cho một mục đích đặc thù nào đó.
 
-Thợ chế tác ma cụ, dù thời nay được xem như những nhà phát minh mang lại tiện nghi cho đời sống, thì xưa kia từng bị coi là lũ bịp bợm lừa đảo. Ma cụ vốn sinh ra từ khao khát của con người muốn sao chép những gì họ tìm thấy hoặc trông thấy trong mê cung. Nghĩ vậy, có thể suy đoán món ma cụ nguyên bản kia thực sự là một vật phẩm huyền bí với muôn vàn công năng, nếu căn cứ theo những ghi chép lịch sử chính thống vốn khó lưu truyền rộng rãi.
+Thợ chế tác ma cụ, dù thời nay được xem như những nhà phát minh mang lại tiện nghi cho đời sống, thì xưa kia từng bị coi là lũ bịp bợm lừa đảo. Ma cụ vốn sinh ra từ khao khát của con người muốn sao chép những gì họ tìm thấy hoặc trông thấy trong mê cung. Nghĩ vậy, cứ chiếu theo lịch sử ra đời ấy thì món ma cụ nguyên bản kia hẳn là một vật phẩm huyền bí với đủ loại công năng khó lòng biết rõ được.
 
 Thực ra hiếm có món ma cụ nào hoàn toàn vô dụng. Người ta ít khi thấy món nào chỉ biết phát ra ánh sáng leo lắt, hay cứ bị gõ ngón tay vào là cười the thé không dứt. Ngay cả khi tình cờ vớ phải một món đồ tưởng như vô tích sự, người ta vẫn có thể nghiên cứu, mổ xẻ, thậm chí bóc tách những nguyên liệu quý hiếm từ nó. Mớ nguyên liệu ấy bán đi cũng được khối tiền, công dụng của ma cụ đa dạng là vì thế.
 
@@ -116,25 +116,25 @@ Lẽ nào thật sự chẳng còn cách nào sao?
 
 Dòng suy nghĩ của tôi bị cắt ngang khi cảnh vật trước mắt bỗng mở ra một khoảng không gian khác.
 
-"Đây... Cái gì cơ? Nơi này là...?"
+"Ở đâu... Cái gì thế? Nơi này là đâu...?"
 
 Tôi lại thấy mình bị hàng rào vây kín trên một con đường thoạt nhìn chẳng khác mấy những lối tôi vừa đi qua. Có điều, khoảng không trước mắt lại bừng sáng, và trên những hàng rào vốn chỉ toàn cành lá trơ trụi lúc trước giờ lại rực rỡ hoa hồng. Từ nãy tới giờ, mọi hàng rào tôi đi qua chỉ tuyền một màu xanh buồn tẻ. Thảng hoặc cũng có vài đóa hồng hé nở, nhưng mỗi bông một màu và mọc rải rác lộn xộn, trông giống hiện tượng tự nhiên hơn là do con người chăm sóc.
 
-Nhưng chỗ này thì khác hẳn. Hoa hồng nở rộ khắp nơi; tôi đã đưa tay sờ thử để xác nhận chúng là hoa thật. Giữa khoảng sân ngập tràn hoa hồng này cũng có nét khác lạ, hay đúng hơn là nó hòa hợp một cách kỳ lạ với khung cảnh xung quanh? Một chiếc bàn bằng chất liệu lấp lánh như xà cừ đặt giữa khoảng sân, bên trên bày bộ ấm chén bằng sứ trắng đắt tiền. Ngồi bên bàn trên chiếc ghế xà cừ óng ánh không kém là một bóng người, đang nâng tách trà với phong thái tao nhã lạ thường. Người đó khẽ đưa tách lên môi nhấp một ngụm, từng cử chỉ đều toát lên vẻ quý phái.
+Nhưng chỗ này thì khác hẳn. Hoa hồng nở rộ khắp nơi; tôi đã đưa tay sờ thử để xác nhận chúng là hoa thật. Giữa khoảng sân ngập tràn hoa hồng này cũng có nét khác lạ, hay đúng hơn là lại rất ăn nhập với khung cảnh xung quanh? Một chiếc bàn bằng chất liệu lấp lánh như xà cừ đặt giữa khoảng sân, bên trên bày bộ ấm chén bằng sứ trắng đắt tiền. Ngồi bên bàn trên chiếc ghế xà cừ óng ánh không kém là một bóng người, đang nâng tách trà với phong thái tao nhã lạ thường. Người đó khẽ đưa tách lên môi nhấp một ngụm, từng cử chỉ đều toát lên vẻ quý phái.
 
 Thấy tôi xuất hiện, người đó ngẩng đầu lên nhìn thẳng về phía tôi.
 
 "Ngài định bỏ cuộc rồi sao...?"
 
-Ra vậy. Thấy tôi lạc đường nên chắc người nhà Latuule định chỉ lối thoát cho tôi đây mà. Đối phương là một cô bé chừng mười hai, mười ba tuổi, toát lên vẻ gì đó như thể không thuộc về thế giới này.
+Ra vậy. Thấy tôi lạc đường nên chắc người của Gia tộc Latuule định chỉ lối thoát cho tôi đây mà. Đối phương là một cô bé chừng mười hai, mười ba tuổi, toát lên vẻ gì đó như thể không thuộc về thế giới này.
 
 Cô bé ngồi đó, ánh mắt xa xăm hướng về phía tôi trong bộ váy đen bèo nhún rườm rà trông chẳng tiện hoạt động chút nào. Làn da trắng muốt của cô bé tương phản rõ rệt với đôi mắt màu xanh lam.
 
-Thực sự trông cô bé có phần... ốm yếu. Quanh người cô bé toát lên vẻ mong manh có phần suy nhược; phải chăng là do sinh ra trong gia đình quý tộc?
+Trông cô bé thật sự có phần... ốm yếu. Quanh người cô bé toát lên vẻ mong manh, hao gầy; phải chăng là do dòng dõi quý tộc?
 
 ![](images/ch062-01.webp)
 
-"...Không," tôi không chút ngần ngại đáp lời cô bé. "Tôi đang tính... Cố thêm một chút. Tôi có thể xin thêm... Chút thời gian không? Không được à...?"
+"...Không," tôi không chút ngần ngại đáp lời cô bé. "Tôi đang tính... cố thêm một chút. Tôi có thể xin thêm... chút thời gian không? Không được à...?"
 
 Cô bé mỉm cười đáp lại. So với nét mặt không chút biểu cảm ban nãy, nụ cười làm gương mặt cô bé bừng sáng, trông đúng với lứa tuổi hơn hẳn.
 
@@ -170,7 +170,7 @@ So với chiếc ấm này thì...
 
 Rốt cuộc nhà Latuule phải bỏ ra bao nhiêu tiền mới tậu được chiếc ấm trà này cơ chứ?
 
-Bàn tay đang cầm tách trà đầy ắp của tôi bất giác run lên khi nghĩ tới số của cải mà gia tộc Latuule đã đổ vào đây.
+Bàn tay đang cầm tách trà đầy ắp của tôi bất giác run lên khi nghĩ tới số của cải mà Gia tộc Latuule đã đổ vào đây.
 
 Dù bản thân chiếc tách không mang ma thuật hay được phù phép gì, nhưng từ kiểu dáng đến chất liệu đều đồng điệu với chiếc ấm. Bề mặt tách khảm hoa văn tuyệt đẹp hình hoa hồng và dây leo, như thể được làm riêng để ăn nhập với khung cảnh xung quanh. Chắc người nhà Latuule đã đặt thợ làm riêng những chiếc tách này cho hợp với ấm.
 

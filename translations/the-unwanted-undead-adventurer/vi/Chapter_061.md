@@ -1,10 +1,10 @@
 # Chương 61: Tập 3 Chương 2 - Và Một Ủy Thác Kỳ Lạ Không Kém (1)
 
-Ngay hôm sau, vừa bước chân vào Hội, đập vào mắt tôi đã là vẻ hoảng hốt của Sheila. Chẳng chần chừ lấy một giây, cô vội vã bước lại gần.
+Ngay hôm sau, vừa bước chân vào Hội, thứ đầu tiên đập vào mắt tôi là cảnh Sheila đang đầy vẻ hoảng hốt. Chẳng chần chừ lấy một giây, cô vội vã bước lại gần.
 
 "A-Anh Rentt... Anh Rentt! Đợi đã!"
 
-Trông Sheila hoảng hốt thấy rõ. Tôi đến đây vốn để xem tình hình xử lý cái xác và giải quyết thêm vài việc lặt vặt, nhưng tôi có cảm giác chuyện khiến cô cuống lên chẳng dính dáng gì tới mấy việc đó.
+Trông Sheila bất an thấy rõ. Tôi đến đây vốn để xem tình hình xử lý cái xác và giải quyết thêm vài việc lặt vặt, nhưng tôi có cảm giác chuyện khiến cô cuống lên chẳng dính dáng gì tới mấy việc đó.
 
 "...Chuyện, gì thế?" tôi hỏi.
 
@@ -12,7 +12,7 @@ Trông Sheila hoảng hốt thấy rõ. Tôi đến đây vốn để xem tình 
 
 Sheila dẫn tôi vào một căn phòng nằm phía sau sảnh tiếp tân của Hội. Nơi này vốn dùng để trao đổi với khách thuê và những người liên quan, chủ yếu phục vụ họ chứ ít khi dành cho mạo hiểm giả thông thường. Khi có ủy thác quy mô đặc biệt lớn, phức tạp hay nhạy cảm, các phòng này sẽ mang lại sự riêng tư cần thiết cho người thuê.
 
-Nói chung, trừ phi khách thuê có địa vị xã hội đáng kể hoặc tiềm lực kinh tế hùng mạnh, bằng không họ hiếm khi được sử dụng những căn phòng kiểu này.
+Nói chung, trừ phi khách thuê có địa vị xã hội lớn hoặc tiềm lực tài chính mạnh, còn không thì hiếm khi được xếp vào những phòng kiểu này.
 
 Có điều đó chưa phải công dụng duy nhất của chúng. Cứ nhìn tình cảnh hiện tại giữa tôi và Sheila là thấy, nơi đây hẳn cũng hay được dùng cho những cuộc nói chuyện riêng tư hoặc cần giữ bí mật.
 
@@ -22,11 +22,11 @@ Thấy xung quanh đã đủ kín đáo, Sheila mới hạ giọng thì thào. T
 
 "Anh Rentt... Anh Rentt, anh có... anh có quen biết gì với... Gia tộc Latuule không?"
 
-Điệu bộ bí hiểm cùng câu hỏi kỳ lạ của cô làm tôi phải nghiêng đầu khó hiểu. Cái tên đó hoàn toàn xa lạ với tôi, tôi cũng chẳng nhớ mình từng nghe thấy ở đâu bao giờ.
+Điệu bộ dè chừng cùng câu hỏi kỳ lạ của cô làm tôi phải nghiêng đầu khó hiểu. Cái tên đó hoàn toàn xa lạ với tôi, tôi cũng chẳng nhớ mình từng nghe thấy ở đâu bao giờ.
 
 Tôi quyết định thành thật trả lời Sheila. "...Không. Sao cô lại... hỏi vậy? Có phải vì... ủy thác đó không?"
 
-Sheila gật đầu lia lịa, giơ xấp giấy tờ lên. "Thực ra là... tờ đơn này chỉ đích danh yêu cầu anh nhận việc..."
+Sheila gật đầu lia lịa, giơ xấp giấy tờ lên. "Thực ra là... tờ đơn này chỉ đích danh anh nhận việc này..."
 
 Sheila chầm chậm đưa xấp tài liệu qua. Tôi cầm lấy rồi nhanh chóng đọc lướt một lượt.
 
@@ -34,7 +34,7 @@ Yêu cầu của người thuê được nêu rất đơn giản: cứ cách m�
 
 Tên của người ủy thác cũng được ghi rõ ràng trên tài liệu...
 
-"À. Tôi cứ thắc mắc sao... cô lại cuống lên thế. Hóa ra Isaac... đã gửi ủy thác rồi."
+"À. Tôi cứ thắc mắc... có chuyện, gì mà ầm ĩ thế. Hóa ra Isaac... đã gửi ủy thác rồi."
 
 Người thuê không ai khác chính là người đàn ông tôi gặp dưới đầm lầy, Isaac Hart. Thấy phản ứng của tôi, Sheila có vẻ sững sờ.
 
@@ -50,7 +50,7 @@ Qua lời Sheila kể, tôi đoán gia tộc nọ có lẽ nắm trong tay thôn
 
 Thế nhưng Isaac trông chẳng có vẻ gì là một kẻ khó ưa hay thích dọa nạt người khác. Tò mò, tôi hỏi Sheila.
 
-"Họ có phải kiểu... gia tộc quyền thế. Thích cậy quyền cậy thế... rồi đưa ra, những đòi hỏi vô lý không?"
+"Họ có phải kiểu... gia tộc quyền thế. Thích ỷ thế ép người... rồi đưa ra, những đòi hỏi vô lý không?"
 
 "Không, không đâu. Họ không hề như vậy. Thật ra dạo gần đây họ chẳng mấy khi hoạt động, và những việc họ làm cũng hầu như không tác động gì tới kinh tế chung của Maalt. Tất nhiên uy thế của họ vẫn rất lớn, chí ít là tại Maalt. Vì thế ai cũng phải dành cho họ sự nể trọng thích đáng..."
 
@@ -58,11 +58,11 @@ Một lời giải thích mơ hồ. Trước hết...
 
 "Gia tộc Latuule... là quý tộc sao?"
 
-Là một vương quốc, Vương Quốc Yaaran dĩ nhiên có các hoàng tử và giới quý tộc. Cụ thể, hoàng tử cùng hầu tước là những người nắm nhiều quyền lực nhất, kế đó là các tầng lớp quý tộc trên khắp lãnh thổ. Dù xét về tước vị, một số kỵ sĩ và cận vệ kỵ sĩ cũng được xếp vào hàng quý tộc, song họ chẳng có mấy tầm ảnh hưởng—dẫu vài kẻ trong số đó vẫn rất khoái đem tước hiệu ra để ra oai.
+Là một vương quốc, Vương Quốc Yaaran dĩ nhiên có các hoàng tử và giới quý tộc. Cụ thể, hoàng tử cùng hầu tước nắm quyền lực lớn nhất, kế đó là các tước vị quý tộc trên khắp lãnh thổ. Dù xét về danh nghĩa, một số kỵ sĩ và cận vệ kỵ sĩ cũng được tính là quý tộc, nhưng họ chẳng có mấy tầm ảnh hưởng, dù vài kẻ trong số đó vẫn rất khoái đem tước hiệu ra lòe người khác.
 
 Với thường dân, quý tộc thì vẫn là quý tộc, bất kể tước vị của họ có nặng ký đến đâu.
 
-Yaaran là một vương quốc tương đối nhỏ nằm ở rìa ngoài của nền văn minh. Chẳng ai buồn để tâm nếu thấy một công tước xắn tay làm đồng, hay một bá tước tự mở quầy buôn bán. So với hầu hết các vương quốc khác, định kiến về quý tộc ở đây có phần thoáng hơn nhiều; nhưng tôi nghĩ chuyện đó để lúc khác bàn thì hơn.
+Yaaran là một vương quốc tương đối nhỏ nằm ở rìa ngoài của nền văn minh. Chẳng ai buồn để tâm nếu thấy một công tước xắn tay làm đồng, hay một bá tước tự mở quầy buôn bán. So với hầu hết các vương quốc khác, quan niệm về quý tộc ở đây có phần thoáng hơn nhiều; nhưng tôi nghĩ chuyện đó để lúc khác bàn thì hơn.
 
 Sheila nhanh chóng giải đáp thắc mắc của tôi.
 
@@ -72,7 +72,7 @@ Sheila nhanh chóng giải đáp thắc mắc của tôi.
 
 "Như tôi đã nói đấy anh Rentt, nhân viên cấp bậc như tôi làm sao biết được chuyện cụ thể. Nhưng tốt nhất là anh cứ nể trọng họ. Gia tộc Latuule là dòng họ lâu đời có thực lực kinh tế ở Maalt, lại có mối liên hệ với giới quý tộc trong vùng. Chừng đó chắc anh hiểu rồi chứ? Nói cách khác, anh Rentt à... nếu anh từ chối ủy thác này, anh sẽ không còn đường sống ở Maalt nữa đâu!" Sheila sốt ruột nói.
 
-Đúng là rắc rối to. Cứ ngỡ mình chỉ tình cờ chạm mặt một kẻ thú vị ở nơi thâm sâu cùng cốc của Đầm Lầy Tarasque, nào ngờ tôi lại chẳng biết tí gì về lai lịch của anh ta.
+Đúng là rắc rối to. Cứ ngỡ mình chỉ tình cờ chạm mặt một kẻ thú vị ở tận sâu trong Đầm Lầy Tarasque, nào ngờ tôi lại chẳng biết tí gì về lai lịch của anh ta.
 
 Nhưng dĩ nhiên, tôi đâu có ý định từ chối ủy thác này. Xét về mọi mặt, tiền thù lao cực kỳ hậu hĩnh, vả lại người thuê trên danh nghĩa là Isaac chứ không phải chủ nhân anh ta. Thực ra tôi mới chỉ đồng ý xem qua ủy thác, rồi sau đó mới nhận nếu thấy các điều khoản chấp nhận được.
 
