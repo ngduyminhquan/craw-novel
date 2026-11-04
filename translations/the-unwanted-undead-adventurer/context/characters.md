@@ -815,7 +815,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Vaasa
 - Giới tính, vai trò: Nam, thành viên tổ chức sát thủ / dị năng ngầm, được Spriggan đích thân chiêu mộ (#256).
-- Đặc điểm: Tính cách hiếu chiến, thẳng thắn, đơn giản đến mức ngốc nghếch; tôn sùng Spriggan hết mực và không tin ông có thể bại trận; tự xưng danh hiệu "Vaasa Cường Thiết"; sở hữu khả năng bẩm sinh kháng ma pháp cực cao (kể cả ma pháp trị liệu), là đối thủ kỵ giơ của ma pháp sư nhưng gặp bất lợi trước tấn công vật lý/khí thuật; vì tính cách quá bộc trực nên chỉ được giao việc vặt và quản lý đấu trường; thách đấu tay đôi với Rentt (tính đến #257).
+- Đặc điểm: Tính cách hiếu chiến, thẳng thắn, đơn giản đến mức ngốc nghếch; tôn sùng Spriggan hết mực và không tin ông có thể bại trận; tự xưng danh hiệu "Vaasa Cường Thiết"; sở hữu khả năng bẩm sinh kháng ma pháp cực cao (kể cả ma pháp trị liệu), là đối thủ kỵ giơ của ma pháp sư nhưng gặp bất lợi trước tấn công vật lý/khí thuật; vì tính cách quá bộc trực nên chỉ được giao việc vặt và quản lý đấu trường; sở hữu dị năng "Cường Thiết" cho phép tạo ra và thu hồi vũ khí kim loại tùy ý từ hư không trong giới hạn số lượng/thể tích (hồi nhỏ từng tạo được muối nhưng do ám thị nhận thức nên hiện chỉ tạo được kim loại); kinh ngạc và khiếp sợ trước cơ thể Undead dẻo dai phi thường của Rentt (tính đến #258).
 - Xuất hiện từ: #256 (được nhắc tên), xuất hiện thực tế ở #257.
 
 ### Fuana

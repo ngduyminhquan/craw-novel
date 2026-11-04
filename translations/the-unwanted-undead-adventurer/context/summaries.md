@@ -1520,6 +1520,13 @@ Bất chấp Goblin và Spriggan cố gắng giải thích và thuyết phục, 
 Hai bên không thể đàm phán bằng lời nên Vaasa và Fuana thách đấu nhóm mạo hiểm giả để quyết định có cho gặp thủ lĩnh hay không; nhờ Spriggan khéo léo châm ngòi, nhóm Rentt đã gài bẫy thành công để phân chia cặp đấu đúng như tính toán: Rentt dùng kiếm truyền Khí Lực đối đầu Vaasa thuần vật lý, còn Lorraine tiếp đón Fuana đam mê ma thuật.
 Cảnh kết thúc: Rentt và Lorraine chính thức đồng ý giao đấu theo phân cặp đã định.
 
+## 258
+Trận đấu tập giữa Rentt và Vaasa bắt đầu tại sàn đấu ngầm với Spriggan làm trọng tài và Goblin vận hành thiết bị kết giới khiên chắn bảo vệ khán đài.
+Rentt dùng Ma Lực cường hóa thể chất lao vào áp sát; Vaasa bất ngờ kích hoạt dị năng tạo dao găm tấn công vào mạn sườn trái khi Rentt đang theo đà né mũi giáo.
+Nhờ cơ thể phi nhân loại dẻo dai phi thường, Rentt ngửa rạp người ra sau uốn cầu kiều né sạch dao găm rồi vung kiếm truyền Khí Lực từ dưới lên hất văng Vaasa khiến cả sàn đấu bàng hoàng.
+Trên khán đài, Spriggan và Lorraine đàm đạo về cơ chế dị năng; Spriggan tiết lộ Vaasa hồi nhỏ từng tạo ra muối nhưng do ám thị nhận thức nên hiện chỉ tạo và thu hồi được vũ khí kim loại (Cường Thiết).
+Cảnh kết thúc: Dưới sàn đấu, Rentt xoay ngược cổ chứng minh cơ thể dị thường và chất vấn Vaasa về giới hạn dị năng Cường Thiết; Rentt chiêm nghiệm rằng dù sở hữu sức mạnh nào thì việc khổ luyện vẫn là yếu tố quyết định.
+
 
 
 
