@@ -20,9 +20,9 @@ Lorraine gật đầu, ra chiều hoàn toàn đồng tình.
 
 Gã Augurey này tôi cũng biết. Thật ra tôi với gã khá hợp tính, từng vài lần tham gia mấy tổ đội chắp vá phút chót do gã lập ra, rồi sau đó lại ngồi tán dóc ở quán rượu. Trái ngược với vẻ ngoài tưng tửng cợt nhả, tay nghề mạo hiểm giả của gã quả thực rất đáng nể.
 
-Cũng giống như tôi, rắc rối duy nhất của Augurey nằm ở vẻ ngoài. Đúng như Lorraine miêu tả, gã nổi bần bật với bộ cánh lòe loẹt quá mức. Tôi từng hơn một lần tận mắt thấy quái vật bu kín quanh gã. Dù sao quái vật cũng là sinh vật sống như con người, nên mớ màu sắc chọi chan chát ấy hẳn là hút mắt chúng lắm.
+Cũng giống như tôi, rắc rối duy nhất của Augurey nằm ở vẻ ngoài. Đúng như Lorraine miêu tả, gã nổi bần bật với bộ cánh lòe loẹt quá mức. Tôi đã không dưới một lần tận mắt thấy quái vật bu kín quanh gã. Dù sao quái vật cũng là sinh vật sống như chúng ta, nên mớ màu sắc chọi chan chát ấy hẳn là hút mắt chúng lắm.
 
-Chuyện quái vật cứ bám riết lấy Augurey bất kể gã đi đâu, từ trong rừng cho tới mê cung, thì ai cũng biết. Thành thử cả gã lẫn tôi chủ yếu đều phải đi lẻ, đơn giản vì chẳng ai mặn mà lập đội với kẻ chỉ cần đứng yên một chỗ cũng đủ hút quái bu lại. So với gã, vẻ ngoài của tôi trông còn bình thường chán—chí ít thì cũng kín đáo hơn nhiều.
+Chuyện quái vật cứ bám riết lấy Augurey bất kể gã đi đâu, từ trong rừng cho tới mê cung, thì ai cũng biết. Thành thử cả gã lẫn tôi chủ yếu đều phải đi lẻ, đơn giản vì chẳng ai mặn mà lập đội với kẻ chỉ cần đứng yên một chỗ cũng đủ hút quái vật bu lại. So với gã, vẻ ngoài của tôi trông còn bình thường chán, chí ít thì cũng kín đáo hơn nhiều.
 
 Không ngờ gã lại lặn lội lên tận thủ đô cơ đấy...
 
@@ -78,7 +78,7 @@ Sheila quay sang Lorraine, vội vàng xua tan nỗi bận tâm ấy với vẻ 
 
 Tôi cũng chẳng trách Lorraine nghĩ theo hướng đó được, bởi cách Hội đong đếm giá trị của từng mạo hiểm giả quả thực đáng sợ thật. Nhưng sự đời vốn dĩ là như thế.
 
-Dạo gần đây tôi cũng đóng góp không ít công sức cho Hội; chẳng những mang về đủ nguyên liệu Orc đúng thời hạn, tôi còn biết cách đóng gói để giữ trọn độ tươi. Mạo hiểm giả làm được chuyện đó quả thực thuộc hàng hiếm—chí ít là ở Maalt này.
+Dạo gần đây tôi cũng đóng góp không ít công sức cho Hội; chẳng những mang về đủ nguyên liệu Orc đúng thời hạn, tôi còn biết cách đóng gói để giữ trọn độ tươi. Mạo hiểm giả làm được chuyện đó quả thực thuộc hàng hiếm, chí ít là ở Maalt này.
 
 Một mạo hiểm giả lành nghề có thể hạ gục Orc chẳng mấy khó khăn, nhưng pha thịt đúng cách để vận chuyển về lại là chuyện hoàn toàn khác.
 
@@ -90,17 +90,17 @@ Sau đó, cả ba chúng tôi ngồi lại bàn tính các phương án đối p
 
 Dù không đưa ra được giải pháp cụ thể nào, rốt cuộc chúng tôi thống nhất rằng ít nhất tôi nên tạm ngừng thám hiểm mê cung một thời gian. Bản thân tôi thấy gợi ý này chẳng mấy thực tế, khi mà tôi giờ là quái vật đang khao khát bước sang giai đoạn Tiến Hóa Bản Thể tiếp theo. Vài ngày thì còn ráng được, chứ ngày kéo sang tuần, tuần hóa thành tháng... thì khó mà coi đây là viễn cảnh sáng sủa.
 
-Rừng rú, đồi núi bên ngoài thị trấn cũng có quái vật, nhưng săn quái trong mê cung vẫn là hiệu quả nhất. Mê cung tiện đủ đường: người ta có thể ước lượng sức mạnh của quái dựa theo tầng chúng ở, chưa kể mỗi tầng thường chỉ có vài chủng loài cố định. Ngược lại, quái vật ngoài tự nhiên lại thất thường và khó lường hơn nhiều. Chẳng ai biết trước mình sẽ đụng phải thứ gì trên đồi núi hay sông suối. Thành thử, săn quái ngoài mê cung kém hiệu quả thấy rõ.
+Rừng rú, đồi núi bên ngoài thị trấn cũng có quái vật, nhưng săn quái vật trong mê cung vẫn là hiệu quả nhất. Mê cung tiện đủ đường: người ta có thể ước lượng sức mạnh của quái vật dựa theo tầng chúng ở, chưa kể mỗi tầng thường chỉ có vài chủng loài cố định. Ngược lại, quái vật ngoài tự nhiên lại thất thường và khó lường hơn nhiều. Chẳng ai biết trước mình sẽ đụng phải thứ gì trên đồi núi hay sông suối. Thành thử, đi săn bên ngoài mê cung kém hiệu quả thấy rõ.
 
 Nhưng tôi cũng chẳng thiết tha gì chuyện bị đổ oan cho mấy vụ mất tích bí ẩn kia, chỉ vì đám mạo hiểm giả khác ghen tị với đà thăng tiến của mình.
 
-Cân nhắc đủ mọi nhẽ, rốt cuộc chúng tôi thống nhất là tôi sẽ tạm ở yên một dạo. Nếu sau đó tình hình vẫn không chuyển biến, tôi sẽ quay lại với các hoạt động trước đây.
+Cân nhắc đủ mọi nhẽ, rốt cuộc chúng tôi thống nhất là tôi sẽ tạm ở yên một dạo. Nếu sau đó tình hình vẫn không chuyển biến, tôi sẽ quay lại làm việc như cũ.
 
-Nếu có quay lại thám hiểm, cả nhóm quyết định tôi nên có đồng đội đi cùng cho an toàn. Có điều, tôi hoàn toàn có thể sẽ Tiến Hóa Bản Thể ngay lúc đang đánh quái trong mê cung. Tiến Hóa Bản Thể đâu phải thứ tôi muốn kiểm soát là được; cái tính bất thình lình của nó đồng nghĩa với việc bất cứ ai đi cùng cũng phải biết rõ hoàn cảnh của tôi. Thành thử số người có thể đi chung bị thu hẹp đáng kể.
+Nếu có quay lại thám hiểm, chúng tôi thống nhất là tôi nên có đồng đội đi cùng để đảm bảo an toàn. Có điều, tôi hoàn toàn có thể sẽ Tiến Hóa Bản Thể ngay lúc đang chiến đấu với quái vật trong mê cung. Tiến Hóa Bản Thể đâu phải thứ tôi muốn kiểm soát là được; vì nó xảy ra hoàn toàn tự phát, nên bất cứ ai đi cùng cũng phải biết rõ hoàn cảnh của tôi. Thành thử số người có thể đi chung bị thu hẹp đáng kể.
 
 Lập đội với Lorraine hay Sheila là ý nghĩ đầu tiên lóe lên trong đầu tôi, nhưng vì đủ thứ lý do, cả hai đều chẳng phải lựa chọn khả thi. Lorraine bận bịu việc nghiên cứu hằng ngày nên đâu thể lúc nào cũng đi vào mê cung cùng tôi. Còn Sheila thì dĩ nhiên vướng công việc ở Hội, chưa kể cô ấy vốn chẳng thuộc lực lượng chiến đấu.
 
-Xem chừng chẳng có cách nào ngoài việc tôi phải tiếp tục thám hiểm mê cung một mình, dù tôi nghĩ nghỉ ngơi một dạo ngắn cũng chẳng chết ai.
+Xem chừng chẳng có cách nào ngoài việc tôi phải tiếp tục thám hiểm mê cung một mình, dù tôi nghĩ nghỉ ngơi ít hôm chắc cũng chẳng hại gì.
 
 Dù sao thì ráng đợi thêm vài ngày cũng chẳng khó gì. Nếu tôi không bén mảng tới mê cung một dạo, những mối hoài nghi nhắm vào tôi rồi sẽ dần lắng xuống. Kế hoạch trước mắt là vậy.
 
