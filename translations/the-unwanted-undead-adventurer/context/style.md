@@ -70,6 +70,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
 - (61) Thoại ngắt quãng thời Ngạ Quỷ của Rentt có những chỗ ngắt bằng dấu chấm chẻ đôi một cụm từ (vd: "việc. Này.", "Ý cô. Là sao?"): giữ nguyên vị trí dấu chấm và viết hoa sau dấu chấm theo raw để thể hiện ngữ âm giật cục, không tự ý gộp câu hay đổi sang dấu phẩy.
 - (62) Lần đầu gặp gỡ Laura Latuule giữa mê cung hoa hồng nhà Latuule; độc thoại của Rentt thể hiện rõ sự choáng ngợp và tự trào của một mạo hiểm giả nghèo trước lối sống xa hoa, chịu chơi của giới quý tộc.
+- (63) Cuộc thưởng trà với Laura Latuule và nỗ lực giải mã mê cung hoa hồng; độc thoại của Rentt kết hợp giữa óc quan sát thực nghiệm của mạo hiểm giả kỳ cựu với sự giằng xé tự trào hài hước trước món hời tiền bạc từ chiếc mặt nạ bị nguyền rủa.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
