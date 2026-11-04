@@ -1,95 +1,95 @@
 # Chương 83: Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả
 
-Mạo hiểm giả—danh xưng chung để chỉ những cá nhân kiếm sống bằng việc tiêu diệt quái vật.
+Mạo hiểm giả là tên gọi chung của những người kiếm sống bằng nghề tiêu diệt quái vật.
 
-Một người bình thường khó lòng mường tượng nổi sức mạnh của họ. Họ đáng sợ và đáng gờm, nhưng theo cách mà những người dân thôn quê chúng tôi chẳng thể nào thực sự hiểu thấu. Ngay cả một đứa bé như tôi cũng có những ký ức về mạo hiểm giả—nói đúng hơn là về hai người trong số họ...
+Người bình thường khó lòng hình dung họ mạnh đến mức nào. Họ vừa đáng gờm vừa đáng sợ, nhưng theo cái cách mà dân làng ở những miền quê hẻo lánh chẳng thể nào hiểu nổi. Đến một đứa như tôi cũng từng có kỷ niệm về mạo hiểm giả, chính xác là hai người trong số họ...
 
-Bởi lẽ chính hai mạo hiểm giả ấy đã từng cứu lấy ngôi làng của tôi.
+Chỉ đơn giản là vì hai mạo hiểm giả đó từng cứu cả làng tôi.
 
 ◆◇◆◇◆
 
-Hai người họ xuất hiện vào một ngày mùa xuân. Mùa đông đã qua, và những lớp tuyết đang chầm chậm tan dần. Vài con đường mòn vẫn còn vương tuyết đọng, vì thế mà hiếm có ai ghé thăm nơi này. Đó là một khoảng thời gian yên ắng.
+Hai người họ tìm đến làng tôi vào độ mùa xuân. Mùa đông đã qua, tuyết cũng đang tan dần từng chút một. Đường đi lối lại vẫn còn vướng tuyết đọng nên hiếm có ai ghé qua. Đó là một khoảng thời gian yên ắng.
 
-Một mùa êm đềm...
+Một mùa thật yên ả...
 
-Thế nhưng, ngôi làng của tôi lại gặp phải một vài rắc rối với quái vật. Sau khi thu hoạch đồng áng vào mùa thu, chúng tôi cất giữ nông sản và các sản phẩm gia súc muối sẵn trong kho thóc cùng chuồng trại. Và chính những nơi này đã trở thành mục tiêu nhắm tới của bầy Goblin.
+Thế nhưng, làng tôi khi ấy lại gặp rắc rối với quái vật. Vụ gặt mùa thu xong xuôi, chúng tôi cất nông sản cùng thịt thà tích trữ vào các kho chứa và chuồng trại. Lũ Goblin liền nhắm ngay vào những chỗ này.
 
-Lũ quái vật không nhiều, nhưng vì chúng là quái vật nên chúng tôi khó lòng chống cự nổi. Toàn bộ trai tráng khỏe mạnh trong làng phải hiệp lực lại mới hạ được một con Goblin, thế nhưng ngay ngày hôm sau lại có một con khác thế chỗ. Ngay cả một kẻ ngốc cũng nhận ra bầy Goblin có một cái ổ đâu đó quanh vùng này, và chúng đang kéo tới từ nơi ấy.
+Số lượng chúng không nhiều, nhưng đã là quái vật thì chúng tôi khó lòng chống cự. Bao nhiêu trai tráng khỏe mạnh trong làng phải xúm lại mới hạ nổi một con Goblin, vậy mà ngay hôm sau lại có con khác mò tới. Đến kẻ ngốc cũng hiểu lũ Goblin chắc chắn có ổ quanh vùng này, và chúng cứ từ đó kéo sang.
 
-Nhưng chúng tôi chẳng thể làm được gì nhiều. Rốt cuộc chúng tôi cũng chỉ là những dân làng bình thường.
+Nhưng chúng tôi chẳng làm được gì nhiều. Rốt cuộc chúng tôi cũng chỉ là dân làng.
 
-Đó là lý do trưởng làng phải lặn lội lên thành phố lớn để tìm kiếm sự trợ giúp từ các mạo hiểm giả, những người có thể giải quyết rắc rối này giúp chúng tôi.
+Chính vì thế, trưởng làng mới phải lặn lội lên thành phố lớn nhờ mạo hiểm giả về giải quyết rắc rối giúp chúng tôi.
 
-Có hai mạo hiểm giả đã nhận lời ủy thác, tên của họ là... Rentt Faina và Lorraine Vivie.
+Hai mạo hiểm giả nhận lời ủy thác tên là... Rentt Faina và Lorraine Vivie.
 
-Cả hai trông khá thong thả, họ nhảy xuống khỏi cỗ xe ngựa rồi bước vào làng. Họ lập tức trao đổi với trưởng làng, sau đó dò hỏi các thợ săn trong làng thông tin về những lối dẫn vào rừng.
+Cả hai trông khá thong dong khi nhảy xuống xe rồi bước vào làng. Họ lập tức gặp trưởng làng trao đổi, sau đó hỏi han cánh thợ săn xem có những lối nào dẫn vào rừng.
 
-"Tôi đoán chừng là ở quanh khu vực này."
+"Tôi đoán chừng là quanh vùng này."
 
-"Phải. Các thợ săn bảo có xác động vật chết và vài dấu vết tương tự. Bầy Goblin đã đi săn quanh đây... À, cả lớp vỏ cây này bị bóc khỏi những thân cây xung quanh nữa. Chúng rất thích mấy trò này."
+"Phải. Thợ săn bảo có xác thú chết các thứ. Lũ Goblin đi săn quanh đây... À, cả vỏ cây quanh mấy thân cây này cũng bị lột nữa. Lũ chúng nó thích mấy trò này lắm."
 
-Đó là những gì họ đang thảo luận với nhau. Vì tò mò, tôi liền tiến lại gần.
+Họ đang bàn tán những chuyện như thế đấy. Tò mò, tôi liền bước lại gần.
 
 "Hai người đang nói chuyện gì thế ạ?"
 
-"Hử?" Nữ mạo hiểm giả quay lại. "À, một đứa bé trong làng. Cháu cũng thấy tò mò về chuyện của bọn ta sao?"
+"Hử?" Nữ mạo hiểm giả quay lại. "À, một đứa bé trong làng. Cháu cũng tò mò chuyện bọn cô đang bàn à?"
 
-Cô ấy mỉm cười khi cất lời. Tôi gật đầu, và người phụ nữ vui vẻ giải thích tường tận về nhiệm vụ của họ.
+Cô mỉm cười khi nói. Tôi gật đầu, thế là người phụ nữ liền vui vẻ giải thích cặn kẽ công việc của họ.
 
-"Bọn ta đang tìm ổ Goblin đấy, nhóc con à. Về mặt thống kê, loài Goblin thường chuộng một kiểu địa hình nhất định, nên bọn ta đã hỏi các thợ săn trong làng xem liệu có khu vực như thế trong những cánh rừng gần đây không. Bọn ta đã tìm được một vị trí rất khả nghi, cùng với xác con mồi và hạt của một số loại cây mà chúng thích gặm nhấm quanh vùng này. Có chừng ấy thông tin thì việc xác định chính xác vị trí ổ của chúng là chuyện quá đỗi dễ dàng."
+"Bọn cô đang tìm ổ Goblin đấy, nhóc à. Theo số liệu thống kê, loài Goblin thường chuộng một kiểu địa hình nhất định, nên bọn cô đã hỏi thợ săn trong làng xem khu rừng gần đây có nơi nào như thế không. Bọn cô đã tìm ra một vị trí rất khả nghi, lại thêm xác con mồi cùng hạt của vài loại cây mà chúng thích gặm quanh vùng này. Có chừng ấy thông tin thì việc xác định chính xác vị trí ổ của chúng chỉ là chuyện dễ dàng."
 
-"Chà..." Người đàn ông đứng cạnh cô cũng góp lời. "Hầu hết các yêu cầu ủy thác dạng này đều như vậy cả. Dẫu thế, chúng ta vẫn phải tự mình đi khảo sát thực địa. Nhưng với chừng này thông tin... thì chuyện đó cũng chẳng mấy khó khăn. Dù vậy, chúng ta có thể sẽ chạm trán một bầy Goblin nhỏ—dù sao thì cẩn tắc vô ưu vẫn hơn. Tôi nghĩ nhiệm vụ này hoàn toàn trong khả năng đấy, Lorraine. Lên đường thôi."
+"Chà..." Người đàn ông đứng cạnh cô cũng góp lời. "Đa phần các ủy thác dạng này đều thế cả. Dù vậy, chúng ta vẫn phải tự mình đến tận nơi khảo sát. Nhưng có ngần này manh mối... thì việc đó cũng không khó lắm đâu. Dẫu sao chúng ta vẫn có thể đụng độ một đàn Goblin nhỏ, cẩn thận một chút cũng chẳng thừa. Tôi thấy việc này hoàn toàn làm được đấy, Lorraine. Lên đường thôi."
 
 "Được. Chúng ta đi thôi."
 
-Hai người vừa trò chuyện vừa nhìn nhau trong lúc trải một tấm bản đồ lớn ra giữa hai người. Chẳng bao lâu sau, họ đã gấp tấm bản đồ lại rồi tiến sâu vào trong rừng. Họ đang dấn thân vào nơi hiểm nguy dù chỉ mới đặt chân tới đây chưa được bao lâu... Liệu họ có thực sự ổn không đấy?
+Hai người vừa trao đổi vừa nhìn nhau trong lúc cùng mở một tấm bản đồ lớn. Chẳng bao lâu sau, họ đã gấp bản đồ lại rồi tiến sâu vào trong rừng. Vừa mới đặt chân tới nơi chưa được bao lâu mà họ đã đâm đầu vào chốn hiểm nguy... Liệu họ có sao không đấy?
 
-Tôi đâu phải người duy nhất có những mối lo ấy, bởi mọi người trong làng ai nấy đều bồn chồn lo lắng khi tiễn họ lên đường. Thế nhưng cả hai đã nhanh chóng quay trở lại, và cảnh tượng trước mắt khiến tất cả chúng tôi đồng loạt hít vào một hơi kinh ngạc.
+Đâu chỉ riêng tôi có mối bận tâm ấy, bởi lúc tiễn họ lên đường, ai nấy trong làng trông cũng bồn chồn không kém. Thế nhưng hai người họ đã nhanh chóng quay về, và hình ảnh hai mạo hiểm giả lúc đó khiến tất cả chúng tôi không khỏi sững sờ.
 
-Trong túi mỗi người mang theo là mười chiếc tai Goblin, trông như đều thuộc về những con Goblin khác nhau. Liệu hai người này đã thực sự tự mình tiêu diệt ngần ấy quái vật sao...?
+Trong chiếc túi mỗi người mang theo có tới mười cái tai Goblin, dường như cái nào cũng thuộc về một con khác nhau. Hai con người này thực sự đã tự tay tiêu diệt ngần ấy quái vật sao...?
 
-"Trưởng làng có ở nhà không cháu?" Nữ mạo hiểm giả cất tiếng hỏi, những vệt máu bắn lốm đốm tô điểm trên chiếc áo khoác vốn sạch sẽ tinh tươm của cô.
+"Trưởng làng có ở nhà không cháu?" Nữ mạo hiểm giả hỏi, những vệt máu bắn lốm đốm vấy lên chiếc áo khoác vốn sạch sẽ tinh tươm của cô.
 
 Tôi chỉ biết gật đầu.
 
 "Cảm ơn cháu."
 
-Nói đoạn, cả hai khuất dần khỏi tầm mắt, còn tôi chỉ đứng chôn chân tại đó, dõi mắt nhìn theo bóng lưng họ bước đi.
+Nói rồi, hai người họ rảo bước đi khuất, còn tôi cứ đứng đó nhìn theo bóng lưng họ.
 
-Theo những gì tôi nghe ngóng được sau đó, họ thực sự đã tiêu diệt đám quái vật từng gây ra bao khốn đốn cho chúng tôi chỉ trong chưa đầy mười phút. Tổng cộng có tới hai mươi con Goblin; nếu cứ mặc kệ chúng, chắc chắn lũ quái vật sẽ tìm cách tấn công, thậm chí cướp phá cả ngôi làng.
+Sau này tôi mới nghe kể lại, họ thực sự đã hạ gục đám quái vật từng làm khổ chúng tôi chỉ trong chưa đầy mười phút. Có tổng cộng hai mươi con Goblin; nếu cứ mặc kệ, chắc chắn chúng sẽ tìm cách tấn công, thậm chí cướp phá cả làng.
 
-Khi nghe báo cáo của họ, trưởng làng đã vô cùng xúc động trước lòng dũng cảm ấy và đề nghị tăng thêm tiền thưởng. Dù ban đầu hai mạo hiểm giả nhất quyết từ chối nhận thêm, nhưng vì trưởng làng khẩn khoản nài nỉ nên cuối cùng họ cũng đành chấp thuận.
+Nghe họ báo cáo xong, trưởng làng hết sức cảm kích trước lòng dũng cảm ấy nên chủ động đề nghị tăng thêm tiền thưởng. Dù ban đầu hai mạo hiểm giả một mực từ chối nhận thêm, nhưng thấy trưởng làng khăng khăng nài nỉ, cuối cùng họ cũng đành nhận lời.
 
-Theo tôi được biết thì phản ứng của trưởng làng cũng là lẽ đương nhiên—ngôi làng này rõ ràng đã ở rất gần bờ vực diệt vong. Chẳng ai lấy làm ngạc nhiên khi ông ấy trao khoản tiền thưởng hậu hĩnh cho hai vị cứu tinh của làng. Toàn thể dân làng đều đồng thuận với quyết định của trưởng làng; không một ai phàn nàn lấy nửa lời.
+Nghe đâu phản ứng của trưởng làng cũng là lẽ thường tình, bởi ngôi làng này suýt nữa đã rơi vào cảnh diệt vong. Chẳng ai ngạc nhiên khi ông ấy trao khoản tiền thưởng hậu hĩnh cho hai vị cứu tinh của làng. Dân làng ai nấy đều đồng tình với quyết định của trưởng làng, không một ai phàn nàn lấy nửa lời.
 
-Đến tối, một bữa tiệc thịnh soạn được tổ chức để thết đãi hai người họ. Đêm đó họ ngủ lại tại nhà trưởng làng, trước khi khởi hành trở về thị trấn lớn của mình vào ngay ngày hôm sau.
+Đến tối, cả làng mở tiệc linh đình thết đãi hai người họ. Đêm ấy họ nghỉ lại nhà trưởng làng, rồi khởi hành trở về thị trấn lớn ngay sáng hôm sau.
 
-Chứng kiến điều đó, ngay cả một đứa bé như tôi cũng hiểu rằng mạo hiểm giả quả thực là những con người phi thường...
+Qua chuyện đó, đến một đứa như tôi cũng hiểu mạo hiểm giả quả thực lợi hại đến nhường nào...
 
 ◆◇◆◇◆
 
-"Dù có nói thế nào đi nữa, Rentt à, tôi vẫn cảm thấy chúng ta đã nhận hơi nhiều đấy," Lorraine lên tiếng khi chúng tôi ngồi trên cỗ xe ngựa hướng về Maalt.
+"Dù nói thế nào đi nữa, Rentt à, tôi vẫn thấy chúng ta nhận hơi nhiều đấy," Lorraine lên tiếng khi chúng tôi ngồi trên cỗ xe ngựa quay về Maalt.
 
 Tôi, Rentt Faina, lắc đầu.
 
-"Làm gì có chuyện đó, Lorraine. Trưởng làng đã nhờ giúp tiêu diệt năm con Goblin, và đưa ra mức thù lao ứng với số lượng ấy. Chúng ta từng phỏng đoán cùng lắm chỉ có mười con, nhưng thực tế lại nhiều gấp đôi con số đó. Tôi thấy công sức chúng ta bỏ ra hoàn toàn xứng đáng với mức thù lao này."
+"Làm gì có chuyện đó, Lorraine. Ông trưởng làng nhờ diệt năm con Goblin, và đưa ra mức thù lao chừng ấy. Chúng ta từng đoán cùng lắm chỉ có mười con, thế mà thực tế lại gấp đôi chỗ đó. Tôi thấy thù lao này hoàn toàn xứng đáng với công sức bỏ ra."
 
-Những chuyện như vậy thường xuyên xảy ra với các yêu cầu ủy thác mà mạo hiểm giả nhận lấy. Yêu cầu lần này được viết khéo nhằm thuê được sự trợ giúp từ những mạo hiểm giả có mức thù lao rẻ hơn—thế nhưng những kẻ kỳ cựu sẽ dễ dàng nhìn thấu lời dối trá ấy. Thực chất, cả tôi lẫn Lorraine đều đã nhận ra điều này từ trước, nhưng vẫn quyết định nhận lời ủy thác.
+Các ủy thác mạo hiểm giả nhận thường xuyên xảy ra chuyện như vậy. Bản yêu cầu lần này được viết lách khéo léo để thuê được mạo hiểm giả giá rẻ, có điều những tay kỳ cựu sẽ dễ dàng nhìn thấu trò dối trá ấy. Thật ra cả tôi lẫn Lorraine đều nhận ra ngay từ đầu, nhưng vẫn quyết định nhận lời.
 
-Đó cũng là lý do chúng tôi đã nói thẳng với trưởng làng đôi điều sau chuyến thám hiểm—rằng lần này chúng tôi sẽ bỏ qua cho việc ông ta che giấu bản chất thực sự của yêu cầu ủy thác và dùng mánh khóe thương lượng phi đạo đức, nhưng nếu còn dám làm chuyện tương tự thêm một lần nào nữa, mạo hiểm giả sẽ không bao giờ đặt chân tới ngôi làng của ông ta nữa.
+Đó cũng là lý do sau chuyến đi, chúng tôi đã nhắc nhở thẳng thắn với trưởng làng đôi điều: rằng lần này chúng tôi bỏ qua cho việc ông ta che giấu thực tế ủy thác để mặc cả thiếu đàng hoàng, nhưng nếu còn tái diễn trò ấy thêm lần nào nữa thì sẽ chẳng còn mạo hiểm giả nào thèm đặt chân tới làng ông ta đâu.
 
-Dĩ nhiên đó chẳng phải một lời đe dọa, mà chỉ là lời cảnh báo. Đã có quá nhiều ngôi làng giở những trò tương tự, để rồi cuối cùng đều chuốc lấy kết cục bị hủy diệt.
+Dĩ nhiên đó không phải lời đe dọa, mà chỉ là lời cảnh báo. Đã có quá nhiều ngôi làng giở trò tương tự, để rồi cuối cùng đều chuốc lấy kết cục bị xóa sổ.
 
-Khi nghe những lời ấy, trưởng làng sợ hãi tái mét mặt mày, và lập tức đề nghị tăng thêm tiền thưởng cho nhiệm vụ. Số tiền chúng tôi nhận được sau đó có nhỉnh hơn đôi chút so với mức thù lao tương xứng với công việc đã làm. Có lẽ trong đó còn có một phần tiền để chúng tôi giữ kín lỗi lầm của ông ta.
+Nghe vậy, trưởng làng sợ đến tái mét mặt mày, vội vàng đề nghị tăng thêm tiền thưởng cho ủy thác. Số tiền chúng tôi nhận về sau đó có nhỉnh hơn đôi chút so với công sức đã bỏ ra. Có lẽ một phần trong đó là để chúng tôi giữ kín chuyện mờ ám của ông ta.
 
-"Dù sao đi nữa, tôi nghĩ chuyện lần này đến đây là dừng lại được rồi. Tôi không nghĩ trưởng làng sẽ còn dám làm điều gì tương tự thêm lần nào nữa đâu."
+"Dù sao đi nữa, tôi nghĩ chuyện lần này dừng ở đây là được rồi. Chắc ông trưởng làng chẳng dám giở trò tương tự thêm lần nào nữa đâu."
 
-Tôi gật đầu đáp lại. "Có lẽ vậy... Thật ra, chẳng phải vị trưởng làng ấy cũng mới nhậm chức cách đây không lâu sao? Chắc ông ta cũng chưa có mấy kinh nghiệm."
+Tôi gật đầu đồng tình. "Chắc thế... Mà nghe đâu ông trưởng làng ấy cũng mới lên nhận chức chưa lâu nhỉ? Có lẽ vẫn chưa có mấy kinh nghiệm."
 
-Ông ta cũng đã hứa với chúng tôi rằng mình thực lòng ăn năn, và chuyện tương tự tuyệt đối sẽ không bao giờ tái diễn trong tương lai.
+Ông ta cũng hứa rằng mình đã thực sự biết lỗi, và chuyện như thế tuyệt đối sẽ không bao giờ tái diễn nữa.
 
-Thế nhưng sự xuất hiện của quái vật ở những vùng quê hẻo lánh như vậy thường báo hiệu ngày tàn cho những khu định cư kiểu này. Đó mới là lý do thực sự khiến chúng tôi nhận lời ủy thác ngay từ đầu, và có lẽ tôi vẫn sẽ nhận những yêu cầu tương tự nếu bắt gặp chúng trong tương lai.
+Thế nhưng, sự xuất hiện của quái vật ở nơi hẻo lánh dễ dẫn tới thảm cảnh diệt vong cho những thôn làng như vậy. Đó mới là lý do thực sự khiến chúng tôi nhận ủy thác ngay từ đầu, và nếu sau này có gặp những yêu cầu tương tự, tôi chắc mình vẫn sẽ nhận lời.
 
-Một nửa là làm việc thiện, hoặc thậm chí là sự bao đồng tự chuốc lấy. Tôi cảm thấy thỉnh thoảng làm vậy cũng chẳng phải điều gì xấu.
+Một nửa là làm việc thiện, thậm chí nói thẳng ra là lo chuyện bao đồng. Nhưng tôi thấy thỉnh thoảng làm vậy cũng chẳng sao.
 
-Dòng suy nghĩ của tôi cứ thế miên man trôi đi khi cỗ xe ngựa lọc cọc lăn bánh trở về thị trấn—mái nhà của chúng tôi, thị trấn biên ải Maalt.
+Dòng suy nghĩ của tôi cứ thế trôi miên man theo tiếng bánh xe ngựa lọc cọc trên đường về lại thị trấn, mái nhà của chúng tôi, thị trấn biên ải Maalt.

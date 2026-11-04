@@ -75,6 +75,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (82) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về sự cố bị Lorraine Vivie ép giả gái tham gia cuộc thi sắc đẹp do công đoàn Hội Mạo Hiểm Giả tổ chức.
+- (83) Ngoại truyện Tập 3: nửa đầu (đoạn 1–32) kể theo góc nhìn ngôi thứ nhất ("tôi") của một người dân làng nhớ lại kỷ niệm thuở nhỏ khi làng được hai mạo hiểm giả Rentt và Lorraine giải cứu khỏi Goblin; sau dấu phân cách thứ hai (từ đoạn 33) quay lại ngôi thứ nhất ("tôi") của Rentt Faina trên cỗ xe ngựa trở về Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
