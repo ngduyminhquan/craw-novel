@@ -35,6 +35,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 9. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
 10. **Phân tích quái vật và kinh nghiệm sinh tồn của Rentt (#31).** Khi Rentt phân tích đặc tính sinh học quái vật (như thớ thịt Orc, cơ chế Ma Lực tiêu tán) hoặc công dụng thảo mộc (như lá Hoonoki Maalt bảo quản thịt), giữ giọng kể đời thường, đúc kết từ trải nghiệm mạo hiểm giả; câu chữ tự nhiên, gãy gọn, tránh biến thành thuyết giảng hàn lâm hay báo cáo sinh học khô cứng.
 11. **Giọng Sheila khi làm giám thị / điều hành công vụ (#32).** Khi làm nhiệm vụ giám thị kỳ thi thăng hạng hoặc hướng dẫn tập thể, Sheila giữ tác phong hành chính chuyên nghiệp, chuẩn mực nhưng hòa nhã (xưng "tôi", gọi "các bạn / mọi người"), nhắc nhở quy chế thi cử ngắn gọn, rõ ràng, không dùng giọng bỗ bã.
+12. **Kinh nghiệm thi cử và sự cảnh giác trước cạm bẫy của Hội (#33).** Rentt có 10 năm kinh nghiệm mạo hiểm giả nên luôn tỉnh táo, nhìn thấu các "bẫy ngầm" trong bài thi hoặc ủy thác (như xe đưa lệch hướng, bản đồ cũ 15 năm); giữ thái độ cẩn trọng, thực tế, phòng bị nhưng không hoảng hốt, đối lập với sự ngây thơ, bốc đồng của tân binh.
 
 ## Từ cảm thán / cách nói cố định
 
