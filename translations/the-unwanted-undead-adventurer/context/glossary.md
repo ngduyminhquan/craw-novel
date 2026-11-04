@@ -448,3 +448,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Yiesh Gadólmagén |  | Yiesh Gadólmagén | kỹ năng | 248 | Ma pháp kim hệ tạo hàng loạt ngọn giáo kim loại phóng tới mục tiêu (giữ nguyên tên câu thần chú theo rules.md) |
 | Hazina Barqrasūl |  | Hazina Barqrasūl | kỹ năng | 248 | Ma pháp lôi hệ triệu hồi tia sét khổng lồ từ mây đen giáng xuống mục tiêu (giữ nguyên tên câu thần chú theo rules.md) |
 | Gadól Barák |  | Gadól Barák | kỹ năng | 248 | Ma pháp lôi hệ phóng tia sét dày đặc giáng xuống mục tiêu (giữ nguyên tên câu thần chú theo rules.md) |
+| scepter | scepters | quyền trượng | vật phẩm | 228 | Quyền trượng biểu tượng vương quyền của hoàng tộc Yaaran |
+| gigantification | gigantify | khổng lồ hóa | kỹ năng | 249 | Dị năng đặc thù biến đổi cơ thể thành Cự Nhân khổng lồ |
+| diviner | diviners | thuật sĩ bói toán | chức nghiệp | 249 | Người sở hữu dị năng nhìn thấu quá khứ và tương lai |
+| divination |  | thuật bói toán | kỹ năng | 249 | Năng lực nhìn thấu quá khứ và tương lai |

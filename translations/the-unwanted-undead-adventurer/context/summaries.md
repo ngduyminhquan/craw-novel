@@ -1466,6 +1466,13 @@ Augurey tiếp tục làm mồi nhử để Rentt dùng Phân Liệt ẩn mình 
 Rentt đề ra kế hoạch mới: Augurey thu hút cú đấm của đối thủ để Rentt chạy dọc theo tấm lưng dốc của gã Cự Nhân già áp sát sau gáy, dồn toàn bộ Thần Ma Khí Dung Hợp Thuật vào thanh kiếm chém nát điểm yếu của đối thủ.
 Cảnh kết thúc: Nhát chém nổ tung sau gáy khiến gã Cự Nhân già đổ sụp về phía trước, Rentt vừa ăn mừng chiến thắng vừa kiệt sức rơi tự do và bị cả thân hình khổng lồ của đối thủ đè bẹp dí thành tương.
 
+## 249
+Rentt dùng Phân Liệt tái tạo lại cơ thể nguyên vẹn sau khi bị đè bẹp dí thành tương; gã Cự Nhân già bất tỉnh và thu nhỏ trở lại thành dáng vẻ ông lão gầy gò nhưng vẫn còn thoi thóp sống.
+Để khống chế sức mạnh phi lý của đối thủ và tra khảo thông tin, Augurey đưa ra khế ước ràng buộc ma pháp để Lorraine can thiệp chỉnh sửa, phong tỏa việc sử dụng Ma Lực và dị năng khổng lồ hóa cùng điều khoản cấm nói dối/giữ im lặng, rồi ấn điểm chỉ ngón tay ông lão.
+Khi tỉnh lại và nhận ra mình bị trói ma pháp cùng khế ước vô hiệu hóa dị năng, ông lão chấp nhận khai nhận rằng nhóm sát thủ được phái đi thủ tiêu nhóm Rentt vì họ đã gặp mặt nhị công chúa bàn về quyền trượng cùng tình trạng của quốc vương; Lorraine vạch trần việc kẻ đứng sau ắt hẳn đã thuê một thuật sĩ bói toán cao tay soi xét quá khứ và tương lai.
+Cảnh kết thúc: Lorraine cất tiếng hỏi câu quan trọng nhất: rốt cuộc ai là kẻ đã hạ lệnh ám sát cho bọn chúng.
+
+
 
 
 

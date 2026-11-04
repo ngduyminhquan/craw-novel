@@ -253,7 +253,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 246 |  | Chapter_246 - Vol 11 Chapter 1 - Surprise Attack (3).txt | Vol 11 Chapter 1 - Surprise Attack (3) | reviewed |  |
 | 247 |  | Chapter_247 - Vol 11 Chapter 1 - Surprise Attack (4).txt | Vol 11 Chapter 1 - Surprise Attack (4) | done |  |
 | 248 |  | Chapter_248 - Vol 11 Chapter 1 - Surprise Attack (5).txt | Vol 11 Chapter 1 - Surprise Attack (5) | done |  |
-| 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | todo |  |
+| 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | done |  |
 | 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | todo |  |
 | 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | todo |  |
 | 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -900,3 +899,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#247] Thuật ngữ 'aqua hatul' (raw đổi cách viết từ 'aqua hathur' ở #243) và tên ma pháp 'Glacies Cometes' — tạm thời thêm 'aqua hatul' vào alias của 'Aqua Hathur' và dịch là 'Aqua Hathur', 'Glacies Cometes' giữ nguyên tên câu chú theo rules.md → Chốt dịch thống nhất là 'Aqua Hathur' (giữ 'aqua hatul; hatul' trong Alias của Aqua Hathur) và giữ nguyên câu chú ma pháp 'Glacies Cometes' theo đúng rules.md. (orchestrator)
 - [#248] Dịch 4 câu chú ma pháp cổ đại của Lorraine (Terra Cavus, Yiesh Gadólmagén, Hazina Barqrasūl, Gadól Barák) — tạm giữ nguyên phiên âm câu chú theo rules.md (phương án khác: dịch nghĩa sang tiếng Việt). Tạm dùng trong bản dịch: giữ nguyên phiên âm. → Chốt giữ nguyên phiên âm 4 câu chú ma pháp (Terra Cavus, Yiesh Gadólmagén, Hazina Barqrasūl, Gadól Barák) theo đúng quy tắc trong rules.md. (orchestrator)
 - [#248] Dịch tiêu đề arc/chương 'Vol 11 Chapter 1 - Surprise Attack (5)' — tạm chọn 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)' đồng bộ với #244-#247. Tạm dùng trong bản dịch: 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)'. → Chốt 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)' đồng bộ với #244-#247. (orchestrator)
+- [#249] Dịch thuật ngữ chức nghiệp 'diviner' và kỹ năng 'divination' — tạm chọn 'thuật sĩ bói toán' và 'thuật bói toán' theo phong cách fantasy (phương án khác: 'chiêm bặc sư' / 'thuật chiêm bặc', 'thầy bói' / 'bói toán'). Tạm dùng trong bản dịch: 'thuật sĩ bói toán' và 'thuật bói toán'. → Chốt 'thuật sĩ bói toán' và 'thuật bói toán' (tự nhiên, hợp văn phong fantasy phương Tây theo style.md). (orchestrator)
+- [#249] Dịch dị năng 'gigantification' và động từ 'gigantify' — tạm chọn danh từ 'khổng lồ hóa' và động từ 'hóa khổng lồ' (phương án khác: 'cự nhân hóa', 'phóng to cơ thể'). Tạm dùng trong bản dịch: 'khổng lồ hóa' / 'hóa khổng lồ'. → Chốt 'khổng lồ hóa' / 'hóa khổng lồ' đồng bộ với cách dịch đã dùng xuyên suốt từ chương 245-248. (orchestrator)
