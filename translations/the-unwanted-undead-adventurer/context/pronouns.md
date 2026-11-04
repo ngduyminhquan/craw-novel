@@ -432,7 +432,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Jia Regina Yaaran | tôi | Điện Hạ / người | 228 | Mạo hiểm giả yết kiến và thưa gửi cung kính với Nhị Công Chúa |
 | Jia Regina Yaaran | Rentt Faina | tôi | anh / anh Vivie | 228 | Nhị Công Chúa giao tiếp hòa nhã với mạo hiểm giả |
 | Rentt Faina | Yattul | tôi | bác | 232 | Mạo hiểm giả nói chuyện với người đánh xe trung niên |
-| Yattul | Rentt Faina | tôi | ông chủ | 232 | Người đánh xe kiêm thương nhân nói chuyện với khách thuê xe (raw: boss) |
+| Yattul | Rentt Faina | tôi | ông chủ / cậu / cậu Rentt | 232 | Người đánh xe kiêm thương nhân nói chuyện với khách thuê xe (raw: boss) |
 | Yattul | * | tôi | các vị / mọi người | 232 | Người đánh xe nói chuyện với nhóm mạo hiểm giả trên xe (raw: folks / you guys) |
 | Lorraine Vivie | Yattul | tôi | bác | 234 | Học giả nói chuyện với người đánh xe |
 | Yattul | Lorraine Vivie | tôi | cô / quý cô | 234 | Người đánh xe từ chối khéo để học giả đi theo |

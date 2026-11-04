@@ -242,9 +242,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | reviewed |  |
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | reviewed |  |
 | 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | reviewed |  |
-| 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | done |  |
-| 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | done |  |
-| 240 |  | Chapter_240 - Vol 10 Chapter 4 - The Arrival (6).txt | Vol 10 Chapter 4 - The Arrival (6) | done |  |
+| 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | reviewed |  |
+| 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | reviewed |  |
+| 240 |  | Chapter_240 - Vol 10 Chapter 4 - The Arrival (6).txt | Vol 10 Chapter 4 - The Arrival (6) | reviewed |  |
 | 241 |  | Chapter_241 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1) | todo |  |
 | 242 |  | Chapter_242 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2) | todo |  |
 | 243 |  | Chapter_243 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3) | todo |  |

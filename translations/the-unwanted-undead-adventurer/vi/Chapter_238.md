@@ -186,7 +186,7 @@ Ferrici lẩm bẩm rồi từ từ mở mắt ra. Khi tầm nhìn dần trở n
 
 Tôi chẳng thể trách cô ấy được. Ai mà chẳng hoảng sợ nếu vừa tỉnh dậy đã thấy trước mắt một gã đeo mặt nạ Khô Lâu, một mạo hiểm giả ăn mặc sặc sỡ như chim công, cùng một ma pháp sư trông như nhà bác học điên chứ? Đến tôi cũng sợ ấy chứ. Nếu chúng tôi là những kẻ bắt cóc, có lẽ chúng tôi đã bịt miệng Ferrici lại và bảo cô câm họng, nhưng chúng tôi chắc chắn một trăm phần trăm không phải là kẻ bắt cóc.
 
-Vì chúng tôi đang ở bên trong Cách Âm Kết Giới của Lorraine, nên tôi có thể nhẩn nha nghĩ về chuyện dù cô gái này có la hét to đến mức nào thì bên ngoài cũng chẳng có lấy một linh hồn nào nghe thấy. Oa ha ha ha ha! Dù vậy, đối với Ferrici thì đây có lẽ là một nỗi sợ hãi rất đỗi chân thực. Chúng tôi đứng đó chờ cho tiếng la hét của cô nhỏ dần cho đến khi cô có vẻ bình tĩnh lại đôi chút. Cô trừng mắt nhìn chúng tôi, như thể đang thầm hỏi trong câm lặng: "Các người định làm gì tôi?!"
+Vì chúng tôi đang ở bên trong Cách Âm Kết Giới của Lorraine, nên tôi có thể nhẩn nha nghĩ về chuyện dù cô gái này có la hét to đến mức nào thì bên ngoài cũng chẳng có lấy một ai nghe thấy. Oa ha ha ha ha! Dù vậy, đối với Ferrici thì đây có lẽ là một nỗi sợ hãi rất đỗi chân thực. Chúng tôi đứng đó chờ cho tiếng la hét của cô nhỏ dần cho đến khi cô có vẻ bình tĩnh lại đôi chút. Cô trừng mắt nhìn chúng tôi, như thể đang thầm hỏi trong câm lặng: "Các người định làm gì tôi?!"
 
 "Các người định làm gì tôi?!" Ferrici hét lớn.
 

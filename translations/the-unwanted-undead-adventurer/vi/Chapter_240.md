@@ -6,7 +6,7 @@ Cả hai cùng rảo bước về phía nhà của Ferrici. Kể từ khi rời 
 
 Ferrici bừng tỉnh khỏi dòng suy nghĩ. "Ôi, xin lỗi anh. Đi cùng tôi hẳn là tẻ nhạt lắm nhỉ..." Bối rối, cô khua khua hai tay với vẻ hết sức chân thành.
 
-Augurey mỉm cười, thầm nghĩ mình sẽ khó lòng tìm thấy một cô gái nào ở vương đô có thể làm ra cử chỉ tự nhiên như thế. Dù Vương Quốc Yaaran có phần nghèo nàn, vương đô của đất nước này vẫn là một thành phố khá tầm cỡ, và phụ nữ nơi đó tinh tế hơn đàn ông rất nhiều trong những ngón nghề tình cảm. Đã quá nhiều lần cánh mày râu rơi vào ảo tưởng rằng mình đang nắm thế chủ động trước một người phụ nữ, để rồi nhận ra mình đã hoàn toàn bị dắt mũi theo ý nàng—một ý nghĩ thật rùng mình.
+Augurey mỉm cười, thầm nghĩ mình sẽ khó lòng tìm thấy một cô gái nào ở vương đô có thể làm ra cử chỉ tự nhiên như thế. Dù Vương Quốc Yaaran có phần nghèo nàn, vương đô của đất nước này vẫn là một thành phố khá tầm cỡ, và phụ nữ nơi đó tinh tế hơn đàn ông rất nhiều trong những ngón nghề tình cảm. Đã quá nhiều lần cánh mày râu rơi vào ảo tưởng rằng mình đang nắm thế chủ động trước một người phụ nữ, để rồi nhận ra mình đã hoàn toàn bị đối phương dắt mũi—một ý nghĩ thật rùng mình.
 
 Đàn ông thường chiếm ưu thế về sức mạnh thể chất, nhưng vương đô lại quy tụ không ít những mạo hiểm giả nghĩa hiệp cùng các kỵ sĩ lành nghề. Bất kỳ kẻ nào phá rối trật tự đều sẽ bị can thiệp công khai và nhanh chóng, khiến cánh đàn ông chẳng còn lựa chọn nào khác ngoài việc theo đuổi đối tượng bằng những biện pháp hợp pháp. Kéo theo đó, các quảng trường của vương đô thường đầy rẫy những gã đàn ông buông lời tán tỉnh chòng ghẹo phụ nữ qua đường, trong khi các quý cô vốn đã quá dày dạn kinh nghiệm với chuyện này và khéo léo từ chối họ.
 
@@ -42,7 +42,7 @@ Nếu câu hỏi này thốt ra từ miệng một cô gái trẻ ở vương đ
 
 "Nhưng anh lại từ bỏ nó để làm một mạo hiểm giả ư...?"
 
-"Phải, và tôi chưa từng hối hận. Mỗi ngày trôi qua tôi đều thấy vui hết sảy. Đi cùng Rentt và Lorraine thì chẳng bao giờ buồn chán cả. Những điều phấn khích cứ liên tục ập đến với tôi, hết chuyện này tới chuyện khác."
+"Phải, và tôi chưa từng hối hận. Mỗi ngày trôi qua tôi đều thấy cực kỳ vui vẻ. Đi cùng Rentt và Lorraine thì chẳng bao giờ buồn chán cả. Những điều phấn khích cứ liên tục ập đến với tôi, hết chuyện này tới chuyện khác."
 
 "Một sự phấn khích kiểu như cô gái anh gặp ở quán rượu tìm cách đâm anh bằng dao ấy à?"
 
@@ -86,7 +86,7 @@ Biết ơn sự điềm tĩnh của Leo, Augurey nói tiếp: "Là lỗi của k
 
 Augurey sau đó thuật lại cho Leo nghe toàn bộ những chuyện đã xảy ra. Leo, người vốn đinh ninh sắp sửa nghe vài lời bao biện cho việc tại sao Augurey lại dắt con gái mình đi thâu đêm suốt sáng, bàng hoàng khi nghe một câu chuyện hoàn toàn nằm ngoài dự liệu. Thông tin con gái mình bị lợi dụng làm con tốt trong một âm mưu tà ác nhắm vào ngôi làng thanh bình của họ giáng xuống đầu ông như một tiếng sét. Ông vội vã bật dậy, loạng choạng rồi lại ngồi thụp xuống ghế.
 
-Sau một hơi thở sâu, Leo hỏi: "Tất cả những chuyện đó... thực sự đã xảy ra sao?" Trái ngược với giọng điệu đầy quả quyết trước đó, giờ đây Leo nghe có vẻ đầy âu lo, kinh ngạc và thậm chí có phần hối lỗi.
+Hít một hơi thật sâu, Leo hỏi: "Tất cả những chuyện đó... thực sự đã xảy ra sao?" Trái ngược với giọng điệu đầy quả quyết trước đó, giờ đây Leo nghe có vẻ đầy âu lo, kinh ngạc và thậm chí có phần hối lỗi.
 
 "Tôi đâu thể bịa ra một câu chuyện như thế này được ạ," Augurey đáp. "Tôi đoán tin tức vẫn chưa truyền tới tận vùng rìa làng xa xôi này, nhưng đến ngày mai thì nó sẽ là đề tài bàn tán khắp làng thôi."
 

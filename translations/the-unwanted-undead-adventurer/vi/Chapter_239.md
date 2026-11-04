@@ -74,7 +74,7 @@ Lorraine nói: "Vài người trong số họ đã nhận ra chúng ta là nguy�
 
 "Tôi cũng nghĩ vậy... Tôi xin lỗi."
 
-"Không cần phải xin lỗi đâu. Bọn tôi mới là người nhờ cậy em mà. Với lại, ngay cả những người ắt hẳn đang sinh nghi cũng chưa hề đòi đuổi chúng ta ra khỏi làng." Lorraine ngập ngừng một thoáng, rồi quay sang nhìn Augurey và tôi: "Giờ thì chúng ta có lẽ cần phải đẩy nhanh tiến độ nhiệm vụ của mình, bởi sự chào đón dành cho chúng ta có khả năng chỉ kéo dài đến hết ngày mai thôi, nên hãy giải quyết xong công việc ngay từ sáng sớm. Hai người nghĩ sao?"
+"Không cần phải xin lỗi đâu. Bọn tôi mới là người nhờ cậy em mà. Với lại, ngay cả những người ắt hẳn đang sinh nghi cũng chưa hề đòi đuổi bọn tôi ra khỏi làng." Lorraine ngập ngừng một thoáng, rồi quay sang nhìn Augurey và tôi: "Giờ thì chúng ta có lẽ cần phải đẩy nhanh tiến độ nhiệm vụ của mình, bởi sự chào đón dành cho chúng ta có khả năng chỉ kéo dài đến hết ngày mai thôi, nên hãy giải quyết xong công việc ngay từ sáng sớm. Hai người nghĩ sao?"
 
 Tôi từng tính rằng chúng tôi sẽ dành ra đôi ba ngày để hoàn thành công việc một cách thong thả, nhưng tôi đồng ý rằng chúng tôi đã không còn cái đặc ân xa xỉ đó nữa. Chúng tôi có thể cắm trại ngoài rừng nếu bắt buộc phải làm vậy, nhưng tôi thà để dành phương án đó làm giải pháp cuối cùng.
 
@@ -88,7 +88,7 @@ Thế nhưng Ferrici lại lắc đầu: "Không đâu, sau tất cả những c
 
 Chúng tôi biết chắc một điều rằng Siren còn ít nhất một đồng bọn khác vẫn đang lẩn trốn ngoài vòng pháp luật. Lorraine đang lần theo tung tích của Goblin, nhưng chúng tôi thậm chí còn chưa biết gã đồng bọn có giọng nói nghe như người già kia là ai, kẻ mà tôi đã tình cờ nghe thấy trong cuộc gặp gỡ của chúng. Kể từ lúc đó tôi cũng không hề cảm nhận được sự hiện diện của hắn nữa. Thành viên thứ ba bí ẩn trong nhóm của chúng rất có thể là kẻ nguy hiểm nhất từ trước đến nay, vì vậy để Ferrici về nhà mà không có ai hộ tống không phải là một ý kiến hay. Không phải tôi nghĩ bọn chúng sẽ bắt cóc một cô thôn nữ bình thường trong khi Siren đang bị chúng tôi khống chế, nhưng cẩn thận vẫn hơn. Tôi có thể mổ xẻ sâu hơn vào đủ mọi khả năng nguy hiểm mong manh, chẳng hạn như cả gia đình Ferrici bị tấn công sau khi chúng tôi đưa cô về nhà, nhưng làm thế chẳng mang lại ích lợi gì nhiều. Chúng tôi không thể để mắt trông chừng từng người dân trong làng suốt ngày đêm; chúng tôi chỉ muốn làm những gì trong khả năng của mình mà thôi. Đâu phải chúng tôi đang cố cứu rỗi thế giới hay gì.
 
-Ferrici mỉm cười: "Thế thì... trong trường hợp đó, Augurey à, tôi xin nhận lời đề nghị của anh. Chị Lorraine thì không sao, nhưng nếu để Rentt đưa tôi về nhà vào giờ này của đêm hôm khuya khoắt thì cha mẹ tôi có khi lăn đùng ra ngất mất."
+Ferrici mỉm cười: "Thế thì... trong trường hợp đó, Augurey à, tôi xin nhận lời đề nghị của anh. Chị Lorraine thì không sao, nhưng nếu để Rentt đưa tôi về nhà vào lúc đêm hôm khuya khoắt thế này thì cha mẹ tôi có khi lăn đùng ra ngất mất."
 
 "Chuẩn đấy," Augurey bật cười khúc khích nói. "Họ lại tưởng cậu ta đến để gặt linh hồn của họ ấy chứ."
 
