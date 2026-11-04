@@ -2,123 +2,123 @@
 
 "...Linpio."
 
-Cùng với một cái phẩy tay khi câu thần chú vừa rời khỏi môi tôi, một luồng ánh sáng dịu nhẹ bừng nở, bao bọc lấy Edel trong thoáng chốc. Luồng sáng vừa hiện lên đã tan biến ngay, chỉ để lại một Edel đen tuyền—à thì, vốn dĩ nó đã đen tuyền sẵn rồi—sạch sẽ tinh tươm, chẳng còn chút vết máu me nhơ nhuốc nào vương trên lông. Vì mới chốc lát trước nó vừa bị phủ kín bởi máu Goblin, nội tạng và những mẩu Slime nát vụn, nên việc tôi tẩy rửa sạch sẽ cho nó là điều hiển nhiên cần làm.
+Vừa dứt câu chú, tôi khẽ phẩy tay một cái, luồng sáng dịu nhẹ liền bừng lên bao lấy Edel trong chốc lát. Ánh sáng vừa hiện đã tan ngay, chỉ để lại một chú Edel đen tuyền—mà thực ra thì vốn nó đã đen thui sẵn rồi—sạch bong, chẳng còn dính chút máu me nào trên lông. Mới lúc nãy người nó còn bê bết máu Goblin, nội tạng với vụn Slime nát bét, nên việc tôi dọn rửa sạch sẽ cho nó là điều đương nhiên phải làm.
 
-Dẫu vậy... thanh tẩy cho nó vào lúc này có lẽ hơi tốn công vô ích. Chúng tôi đã chạm trán với không ít quái vật trên đường tới đây, và chắc chắn sẽ còn đụng độ thêm nhiều con nữa khi dấn bước sâu hơn; chắc hẳn chẳng bao lâu nữa Edel lại lấm lem bẩn thỉu cho xem.
+Dẫu vậy... làm sạch cho nó lúc này có khi lại hơi phí công. Trên đường tới đây tụi tôi đã đụng phải bao nhiêu quái vật, mà càng đi sâu vào chắc chắn sẽ còn gặp thêm nhiều con nữa; thế nào lát nữa Edel cũng lại lấm lem cho coi.
 
-Tuy nhiên, tôi chẳng mảy may bận tâm đến vài vệt máu hay xác quái vật vụn vặt. Đó là chuyện đương nhiên—tôi cũng vung kiếm chỗ này chỗ kia, rồi xẻ thịt những con quái vật chúng tôi hạ gục. Mạo hiểm giả ở trong mê cung vốn chẳng đặt ra tiêu chuẩn vệ sinh quá cao làm gì.
+Thực ra tôi chẳng mấy bận tâm đến mấy vệt máu hay vụn xác quái vật. Chuyện thường tình thôi—chính tôi cũng vung kiếm chém đông chém tây, rồi mổ xẻ những con quái vật tụi tôi vừa hạ. Mạo hiểm giả lăn lộn trong mê cung vốn chẳng mấy ai câu nệ chuyện sạch sẽ.
 
-Nhưng trong trường hợp của Edel... tình hình lại hơi khác một chút. Phương thức tấn công cơ bản của nó là lao mình tông vào kẻ thù trong lúc xoay tít người ở tốc độ cao. Mục đích là nghiền nát quân địch bằng tốc độ thuần túy và lực ly tâm. Nghĩ đến những yếu tố đó, thật dễ dàng để kết luận rằng Edel sẽ lại tự làm bẩn mình theo cách tương tự một cách tương đối dễ dàng. Tôi đồ rằng mình sẽ đành phải dùng Linpio tẩy rửa cho nó mỗi một lần như thế vậy.
+Nhưng trường hợp của Edel... tình hình lại hơi khác một chút. Cách tấn công cơ bản của nó là xoay tít người ở tốc độ cao rồi tông thẳng vào đối thủ, cốt để nghiền nát chúng bằng tốc độ chóng mặt và lực ly tâm. Cứ đà này thì thế nào nó cũng lại dính bẩn y như thế rất nhanh. Xem ra tôi đành phải dùng Linpio làm sạch cho nó sau mỗi lần vậy.
 
-Linpio là một loại Ma Thuật Sinh Hoạt tôi mới học được gần đây. Ma pháp tấn công thì còn phải bàn, nhưng miễn là hiểu được lý thuyết, cấu trúc và câu chú của Ma Thuật Sinh Hoạt thì ai nấy đều có thể thi triển được. Nhờ đó, tôi đã học được kha khá câu thần chú loại này từ Lorraine, và hiện tôi đang đi trước Alize một bước ở phương diện đó. Thế nhưng tôi chỉ mới biết những phép thuật này trong một thời gian ngắn, nên chưa quen thi triển phần lớn trong số chúng và vẫn còn nhiều động tác thừa thãi cũng như sự chậm trễ khi thực hiện.
+Linpio là một ma thuật thuộc Ma Thuật Sinh Hoạt mà tôi mới học được gần đây. Ma pháp tấn công thì là chuyện khác, chứ Ma Thuật Sinh Hoạt thì chỉ cần nắm được lý thuyết, cấu trúc với câu chú là ai cũng có thể thi triển được. Nhờ vậy, tôi đã học được kha khá phép loại này từ Lorraine, và hiện đang đi trước Alize một bước về khoản đó. Có điều tôi mới học chưa được bao lâu nên phần lớn vẫn chưa quen tay, động tác còn thừa thãi và thi triển cũng còn chậm chạp.
 
-Dẫu vậy, nếu cứ phải liên tục niệm Linpio hết lần này đến lần khác, thì tự mình chiến đấu vẫn khả dĩ hơn, nếu chỉ xét về việc đỡ hao tổn lượng dự trữ của tôi. Dù tôi tin chắc lượng Ma Lực tiêu hao sẽ giảm đi nếu tôi quen thuộc hơn với chính câu chú, nhưng đó không phải là thứ tôi có thể thuần thục trong ngày một ngày hai.
+Nhưng nếu cứ phải niệm Linpio hết lần này đến lần khác, thì thà tôi tự mình chiến đấu còn hơn, chí ít là đỡ tốn hao lượng dự trữ trong người. Dù tôi tin chắc khi đã quen tay thì lượng Ma Lực tiêu hao sẽ giảm đi, nhưng đó đâu phải chuyện có thể thuần thục trong ngày một ngày hai.
 
-"Mày không còn đòn tấn công nào khác sao, Edel?"
+"Mày không còn cách tấn công nào khác sao, Edel?"
 
-Không nghĩ ra giải pháp nào, tôi quyết định hỏi thẳng ý kiến của Edel. Dẫu việc tự mình chiến đấu có vẻ là lựa chọn tối ưu nhất, tôi nhận ra việc quan sát chiến thuật của Edel trên chiến trường cũng vô cùng cấp thiết. Khả năng hai chúng tôi phối hợp tạo ra một dạng đòn liên hoàn nào đó rất đáng để cân nhắc. Nói đúng hơn thì, tôi nên tiếp tục quan sát cách Edel xử lý đám quái vật yếu hơn này, rồi tính xem mình có thể đảm nhiệm vị trí nào và tung ra đòn đánh gì nếu tham chiến. Tôi muốn có chút thời gian để suy nghĩ. Dường như Edel cũng khựng lại trước lời tôi nói, như thể đang cân nhắc điều gì. Chẳng một lời báo trước, nó nhảy vọt lên, nhìn chằm chằm vào cái xác Goblin gục ngã... rồi bắn thứ gì đó về phía nó. Gần như ngay lập tức, một vết chém to tướng rạch ngang qua thi thể con Goblin.
+Không nghĩ ra cách nào, tôi quyết định hỏi thẳng ý kiến của Edel. Dù tự mình ra tay có vẻ là lựa chọn tối ưu nhất, tôi nhận ra việc quan sát chiến thuật thực chiến của Edel cũng rất cần thiết. Biết đâu hai đứa lại phối hợp tạo ra được đòn đánh ăn ý nào đó, điều này rất đáng để cân nhắc. Nói đúng hơn, tôi nên tiếp tục quan sát cách Edel xử lý đám quái vật yếu ớt này, rồi tính xem nếu xông vào thì mình nên đứng ở vị trí nào và tấn công ra sao. Tôi muốn có chút thời gian để suy nghĩ. Dường như Edel cũng khựng lại trước lời tôi nói, như thể đang cân nhắc điều gì. Chẳng một lời báo trước, nó nhảy phắt lên, trừng mắt nhìn cái xác Goblin dưới đất... rồi bắn thứ gì đó về phía cái xác. Gần như ngay tức khắc, một vết chém to tướng toạc ngang thi thể con Goblin.
 
-"Ma thuật...? Đây là ma pháp sao, Edel?"
+"Ma thuật...? Đây là ma pháp hả, Edel?"
 
-Tôi nhận được sự khẳng định qua thần giao cách cảm. Nghĩ đến cảnh Edel đã nắm vững cách sử dụng ma pháp tấn công trước cả chủ nhân của nó... tôi không khỏi cảm thấy có chút bực bội.
+Nó truyền ý nghĩ xác nhận sang cho tôi. Nghĩ đến chuyện Edel đã thuần thục cách dùng ma pháp tấn công trước cả chủ nhân của nó... tôi không khỏi thấy có chút ấm ức.
 
-Dành chút thể diện cho chủ nhân của mày bộ khó đến thế sao, tôi thầm nghĩ thoáng qua. Tuy nhiên, vẫn có một số khác biệt giữa ma pháp quái vật sử dụng và ma thuật mà con người thi triển. Nói một cách khái quát, cả hai đều tương tự nhau: hiện tượng được hiện thực hóa bằng ý chí và Ma Lực. Nhưng con người xây dựng ma thuật thành một dạng cấu trúc, thấu hiểu và bồi đắp dựa trên cấu trúc đó, và về cơ bản là thi triển phép thuật nhờ sự trợ giúp của câu chú. Trong trường hợp của quái vật, Ma Lực thường được chuyển hóa trực tiếp thành hiện tượng theo bản năng. Phần lớn quái vật đều như vậy, dù cường độ của thứ ma pháp ấy có khác biệt. Những quái vật có hình dạng giống người hơn, chẳng hạn như Goblin và Ma Cà Rồng, nổi tiếng là sử dụng thứ gì đó giống với hệ thống ma thuật của con người hơn.
+Để lại chút thể diện cho ông chủ mày bộ khó lắm hả, tôi thoáng nghĩ. Có điều, giữa ma pháp của quái vật và ma thuật mà con người thi triển vẫn có những điểm khác biệt. Nhìn chung thì cả hai đều như nhau: đều là hiện tượng được hiện thực hóa bằng ý chí và Ma Lực. Thế nhưng con người đúc kết ma thuật thành một hệ thống cấu trúc, nghiên cứu thấu đáo rồi phát triển lên, và về cơ bản là thi triển phép thuật nhờ sự hỗ trợ của câu chú. Còn với quái vật, Ma Lực thường được biến đổi trực tiếp thành hiện tượng theo bản năng. Phần lớn quái vật đều như vậy, dù cường độ của thứ ma pháp ấy có khác biệt. Những quái vật có hình dạng giống người hơn, chẳng hạn như Goblin và Ma Cà Rồng, lại được biết là có sử dụng thứ gì đó gần gũi hơn với hệ thống ma thuật của loài người.
 
-Dẫu vậy, hầu hết quái vật có lẽ sinh ra đã mang sẵn hiểu biết mang tính bản năng về sự chuyển hóa Ma Lực này. Chẳng hạn, lý do một con Goblin có thể chiến đấu ngang ngửa với một người đàn ông trưởng thành dù kích thước chỉ bằng một nửa là nhờ sự kích hoạt trong tiềm thức của ma pháp cường hóa củng cố cơ thể nó. Tương tự, có những câu chuyện kể về việc Ma Cà Rồng có thể mê hoặc một con người có ý chí yếu ớt chỉ bằng cách nhìn vào mắt đối phương, khiến người đó nguyện lòng phụng sự chúng. Đây cũng là một ứng dụng của ma pháp: bùa mê hoặc thi triển bằng đôi mắt.
+Dù vậy, phần lớn quái vật có lẽ bẩm sinh đã biết cách chuyển hóa Ma Lực theo bản năng. Chẳng hạn, một con Goblin dù chỉ nhỏ bằng nửa người lớn nhưng vẫn đánh ngang tay, ấy là nhờ cơ thể nó tự động kích hoạt ma pháp cường hóa trong vô thức. Tương tự, người ta thường kể chuyện Ma Cà Rồng chỉ cần nhìn vào mắt là có thể mê hoặc những ai ý chí yếu mềm, khiến họ răm rắp phục tùng chúng. Đó cũng là một dạng ứng dụng ma pháp: bùa mê thi triển qua ánh mắt.
 
-Nói cách khác, có thể Edel đã vô tình lĩnh hội được khả năng biến Ma Lực thành hiện tượng này vào một thời điểm nào đó. Trong khi Puchi Suri thông thường chẳng làm được gì hơn ngoài một dạng cường hóa cơ thể tương tự như Goblin, thì những biến thể tiến hóa thuộc tính của loài chuột lại có chút khác biệt. Chẳng hạn như một con Puchi Suri Hỏa, loài Fuu Suri. Nó có khả năng thở ra những quả cầu lửa nhỏ nhưng hữu dụng từ bên trong cơ thể, dẫu chưa từng được ai dạy cách dùng ma pháp. Dù vậy, những phép thuật đơn giản mà quái vật có khả năng bẩm sinh thi triển này tuyệt nhiên không có uy lực quá áp đảo. Mị Nhãn của Ma Cà Rồng, quả cầu lửa nhỏ của Fuu Suri, hay hơi thở của rồng... Chúng đều là kết quả của một số cơ quan chuyên biệt trong mắt hoặc cổ họng của sinh vật. Chính nhờ sự hiện diện của những cơ quan này mà các đòn tấn công kể trên mới phát huy hiệu quả hay uy lực. Ngay cả khi giả định một con quái vật nắm rõ mọi cấu trúc và câu chú thích hợp cho một phép thuật, và nhờ đó có thể thi triển ma thuật, thì nó vẫn sẽ phát huy tốt nhất với các ma pháp cường hóa cơ thể.
+Nói cách khác, rất có thể Edel đã vô tình lãnh hội được khả năng biến Ma Lực thành hiện tượng này ở đâu đó. Trong khi Puchi Suri thông thường chẳng làm được gì hơn ngoài một dạng cường hóa cơ thể tương tự như Goblin, thì các nhánh tiến hóa mang thuộc tính của loài chuột lại hơi khác một chút. Lấy ví dụ như loài Fuu Suri, tức Puchi Suri Hỏa. Nó có thể khạc ra những quả cầu lửa nhỏ nhưng dùng được từ trong người, dù chưa từng có ai dạy nó dùng ma pháp. Dẫu vậy, những phép thuật đơn giản mà quái vật bẩm sinh có thể thi triển này tuyệt nhiên không có uy lực quá áp đảo. Mị Nhãn của Ma Cà Rồng, quả cầu lửa tí hon của Fuu Suri, hay đòn thở của Rồng... tất cả đều nhờ vào những cơ quan chuyên biệt nằm ở mắt hoặc cổ họng của chúng. Chính sự hiện diện của các cơ quan ấy mới giúp những đòn tấn công đó phát huy hiệu quả hay uy lực. Cứ cho là có con quái vật nào đó nắm trọn cấu trúc lẫn câu chú chuẩn mực rồi thi triển được ma thuật đi nữa, thì thứ hợp với chúng nhất vẫn cứ là các phép cường hóa cơ thể.
 
-Với Edel, việc sử dụng Ma Lực không phải là vấn đề then chốt. Vì nó là một con Puchi Suri hoàn toàn không có bất kỳ cơ quan chuyên biệt nào, đáng lẽ nó không thể làm được điều nó vừa thực hiện. Nếu phải đoán, có lẽ một số biến đổi thể chất đã xảy đến với Edel vào khoảnh khắc tôi tiến hóa thành Hạ Cấp Ma Cà Rồng. Nói một cách chặt chẽ, có lẽ nó không còn chỉ là một con Puchi Suri đơn thuần nữa. Chí ít thì đó là suy đoán có cơ sở của tôi. Còn về việc chính xác thì sự thay đổi này biểu hiện ở đâu trên cơ thể Edel... Chà, thực sự thì chỉ cần liếc nhìn nó một cái là tôi đã nhận ra rồi.
+Với Edel, việc sử dụng Ma Lực không phải là điều đáng nói nhất. Bởi nó vốn là một con Puchi Suri không hề có bất kỳ cơ quan chuyên biệt nào, lẽ ra nó không thể làm được trò ban nãy. Nếu phải đoán, có lẽ một vài biến đổi thể chất đã xảy đến với Edel vào khoảnh khắc tôi tiến hóa thành Hạ Cấp Ma Cà Rồng. Nói cho chuẩn thì có lẽ nó chẳng còn là một con Puchi Suri tầm thường nữa. Ít ra đó là suy đoán có cơ sở của tôi. Còn sự biến đổi đó biểu hiện chính xác ở đâu trên người Edel... Chà, thật tình chỉ cần nhìn qua một cái là thấy ngay rồi.
 
 Edel trông rất giống tôi.
 
-Nói một cách thẳng thừng thì... Edel đã mọc ra một cấu trúc tựa như đôi cánh.
+Nói một cách đơn giản thì... Edel đã mọc ra thứ gì đó như đôi cánh.
 
-Nhưng dĩ nhiên, chúng không hề nhô ra từ lưng nó. Nói đúng hơn thì, nó đã mọc ra vài lớp màng ở phần dưới cơ thể, trải dài từ bụng dưới đến chân sau, khá giống với một loài sóc bay. Tôi đồ rằng nó có khả năng lượn nếu lớp màng đó được kéo căng ra.
+Dĩ nhiên là chúng chẳng hề mọc từ sau lưng. Đúng hơn là nó mọc ra lớp màng ở hai bên sườn, kéo dài từ bụng dưới tới tận chân sau, trông na ná như loài sóc bay. Chắc là khi căng lớp màng ấy ra thì nó có thể lượn được.
 
-Hiếu kỳ, tôi bảo nó làm mẫu thử xem, và không như tôi, Edel có thể bay tương đối dễ dàng. Cấu trúc màng bay của nó nói giảm nói tránh thì cũng rất kỳ lạ, nhưng Edel không chỉ có khả năng lượn mà còn lơ lửng tại chỗ một cách tĩnh lặng. So với đôi cánh chỉ biết bay lơ lửng, lao vun vút đầy dữ dội và có thể cháy sáng như ngọn đuốc của tôi, cánh của Edel rõ ràng ở một đẳng cấp vượt trội hơn hẳn khi bàn về khả năng bay lượn.
+Tò mò, tôi bảo nó bay thử cho xem, và chẳng bù cho tôi, Edel bay lượn dễ dàng đến bất ngờ. Cấu trúc màng bay của nó nói một cách nhẹ nhàng nhất thì cũng rất kỳ lạ, thế nhưng Edel không chỉ biết lượn mà còn có thể lơ lửng tại chỗ trong êm ắng. So với đôi cánh của tôi—chỉ biết lơ lửng, lao vùn vụt bạt mạng rồi cháy bùng lên như đuốc—thì màng bay của Edel rõ ràng ăn đứt về khoản bay lượn.
 
-Tôi cảm thấy mình có thể ngẫm nghĩ về vấn đề này suốt hơn một tiếng đồng hồ. Sao có thể như vậy được chứ? Rằng quyến thuộc lại sở hữu những đặc tính cao cấp hơn cả chủ nhân của nó sao? Liệu đây có phải là ý muốn của chư thần? Hay có lẽ là một logic ngầm khó lý giải nào đó của thế giới?
+Tôi thấy mình có thể ngồi ngẫm nghĩ về chuyện này suốt cả tiếng đồng hồ cũng chẳng chán. Sao lại thế được chứ? Đời thuở nào quyến thuộc lại sở hữu năng lực xịn hơn cả chủ nhân? Liệu đây có phải là ý muốn của chư thần? Hay là một quy luật ngầm không sao giải thích nổi của thế giới này?
 
-Tôi cảm thấy đức tin của mình đang dần vơi cạn.
+Tôi thấy đức tin của mình như đang dần vơi cạn.
 
-Dẫu vậy, tôi không hề cảm thấy Thần Lực của mình bị suy giảm chút nào. Nghĩ lại thì, những vị thần linh đã ban phước lành cho tôi có lẽ ngay từ đầu vốn chẳng hề mong muốn đức tin hay sự tôn sùng. Dĩ nhiên tôi không bao giờ thực sự biết được. Thật bất khả thi để tìm kiếm sự xác nhận, xét đến quãng thời gian dài đằng đẵng đã trôi qua. Tuy nhiên... tôi quả thật có vài suy nghĩ về lý do tại sao Edel lại có thể cơ động tự do trên không trung đến thế.
+Nhưng mà, tôi chẳng hề thấy Thần Lực của mình bị sứt mẻ chút nào. Nghĩ lại thì, các đấng thần linh từng ban phước cho tôi có lẽ ngay từ đầu vốn chẳng màng tới đức tin hay sự sùng bái. Dĩ nhiên làm sao tôi biết chắc được. Thời gian trôi qua quá lâu rồi, giờ có muốn kiểm chứng cũng chẳng được. Có điều... tôi cũng lờ mờ đoán được tại sao Edel lại có thể cơ động tự do trên không trung đến vậy.
 
-Chủ yếu là do sự khác biệt về trọng lượng giữa tôi và Edel. Với sự cho phép của tôi, Edel thậm chí có thể rút từ chính nguồn dự trữ Ma Lực, Khí Lực và Thần Lực mà tôi sở hữu. Trái lại, Edel, kẻ chỉ nặng bằng một phần sáu trọng lượng của tôi, rất có thể thấy việc trôi nổi lơ lửng tương đối dễ dàng hơn nhiều. Đó là lý do tại sao nó có thể phóng vù vù khắp nơi theo ý thích mà không cần bận tâm quá nhiều đến mức tiêu hao năng lượng. Thêm vào đó, Edel sinh ra vốn là quái vật, nên việc điều khiển sức mạnh có lẽ đến với nó một cách rất tự nhiên.
+Chủ yếu là do trọng lượng giữa tôi và Edel chênh lệch quá nhiều. Chỉ cần tôi cho phép, Edel thậm chí còn có thể rút từ chính nguồn dự trữ Ma Lực, Khí Lực lẫn Thần Lực của tôi. Nói đúng hơn, một chú chuột chỉ nặng bằng một phần sáu tôi hẳn là thấy việc lơ lửng trên không dễ dàng hơn nhiều. Bởi thế nó mới có thể lượn vù vù khắp nơi theo ý thích mà chẳng cần bận tâm chuyện tốn bao nhiêu năng lượng. Đã vậy bẩm sinh Edel lại là quái vật, việc điều khiển sức mạnh hẳn là bản năng tự nhiên của nó.
 
-Thật đáng ghen tị làm sao.
+Ghen tị thật đấy chứ.
 
-Vì hiện tại tôi đang hạn chế lượng tài nguyên mà Edel có thể nhận được, nên những chuyển động của nó chưa bao gồm quá nhiều động tác nhào lộn trên không. Tuy nhiên, nếu tôi tăng định mức đó thêm một phần trăm nhỏ, chắc chắn Edel sẽ bắt đầu bay lượn vút lên không trung. Nghĩ đến cảnh Edel, kẻ chẳng hề có gia sư hay bất kỳ bài học nào, lại đang dần trở nên mạnh mẽ hơn từng ngày... Nói đúng hơn thì, tốc độ trưởng thành của nó đã vượt xa tôi từ lâu rồi!
+Vì hiện tại tôi đang hạn chế lượng năng lượng mà Edel có thể nhận được, nên nó chưa nhào lộn trên không quá nhiều. Nhưng chỉ cần tôi nới rộng thêm một chút thôi, thế nào nó cũng bay vút lên trời cho xem. Nghĩ đến chuyện Edel chẳng có ai kèm cặp hay dạy dỗ câu nào mà cứ thế mạnh lên từng ngày... Nói đúng ra, tốc độ lớn mạnh của nó đã bỏ xa tôi từ lâu rồi!
 
-Thật tồi tệ làm sao...
+Đau lòng ghê chứ...
 
-Nhưng, nếu Edel có thể làm được, thì tôi cũng sẽ làm được điều tương tự, dẫu có phải trải qua chút luyện tập. Tôi nên ghi nhớ định hướng hoàn thiện bản thân cụ thể đó trong đầu...
+Nhưng nếu Edel làm được thì chỉ cần luyện tập một chút, tôi cũng sẽ làm được thôi. Tôi cần phải ghi nhớ hướng rèn luyện này mới được...
 
-Giữa những dòng suy ngẫm miên man, tôi nhận ra mình nên bảo Edel biểu diễn lại thứ ma pháp nó vừa dùng khi nãy. Dù tôi sẽ chẳng còn mấy việc để làm nếu Edel trở nên mạnh hơn mức hiện tại, nhưng tôi không thể phủ nhận nó là một nhân tố quý giá, và cũng chẳng thể phàn nàn gì về bước ngoặt sự việc gần đây. Dù sao đi nữa, tôi phải tìm hiểu uy lực tấn công thuần túy, lượng Ma Lực nó tiêu hao, tầm bắn và độ lan tỏa của nó, cũng như liệu Edel có khả năng sử dụng bất kỳ loại ma pháp nào khác hay không.
+Đang mải suy nghĩ, tôi chợt nhớ ra mình nên bảo Edel trổ lại thứ ma pháp nó vừa dùng khi nãy. Dù tôi sẽ chẳng còn mấy việc để làm nếu Edel trở nên mạnh hơn nữa, nhưng tôi không thể phủ nhận nó là một trợ thủ đắc lực, và cũng chẳng thể phàn nàn gì về chuyện vừa rồi. Dù sao đi nữa, tôi phải nắm được uy lực đòn đánh, lượng Ma Lực tiêu hao, tầm bắn và độ lan tỏa của chiêu đó, cũng như xem liệu Edel có còn biết dùng ma pháp nào khác nữa không.
 
-"Ta nghĩ chúng ta nên đi tìm một con Goblin hay Slime..." Tôi đề xuất, với ý định tiến hành các thử nghiệm lên một con quái vật xấu số không hề hay biết. Nhưng Edel từ chối, thay vào đó nó truyền ý nghĩ sang tôi rằng nó muốn phô diễn thực lực lên một con Orc.
+"Ta nghĩ tụi mình nên đi tìm một con Goblin hay Slime..." Tôi gợi ý, bụng bảo dạ sẽ đem một con quái vật vô tội nào đó ra làm bia thử nghiệm. Thế nhưng Edel không chịu, nó truyền ý nghĩ sang bảo muốn thử sức với một con Orc cơ.
 
-Mà này, Orc đâu có yếu. Đánh giá từ chuyển động của Edel khi giao chiến với Goblin và Slime, tôi cảm thấy việc đối đầu với một con Orc vào thời điểm này sẽ hơi quá sức đối với nó.
+Mà Orc đâu có yếu. Nhìn cách Edel xoay xở khi đấu với Goblin và Slime, tôi thấy bảo nó đụng độ Orc lúc này e là hơi quá sức.
 
-"Liệu có thận trọng không đấy, Edel? Orc chẳng giống Goblin hay Slime đâu."
+"Có liều quá không đấy, Edel? Orc khác hẳn Goblin với Slime đấy nhé."
 
-Edel chỉ đáp lại một cách giản đơn, rằng nếu nó rơi vào hiểm cảnh, tất cả những gì tôi cần làm chỉ là nhảy vào cứu viện cho nó.
+Edel chỉ đáp lại một cách đơn giản, rằng nếu nó gặp nguy hiểm thì tôi cứ việc lao vào cứu nó là xong.
 
-Thật tình chứ... Rốt cuộc ai mới là chủ nhân ở đây vậy hả, Chuột tiên sinh, đó là điều tôi thầm nghĩ... nhưng tôi đồ rằng một cuộc thử nghiệm như thế cũng không hoàn toàn vô lý. Ngay cả khi Edel đã mạnh hơn và giờ có khả năng sử dụng ma pháp tấn công, tôi vẫn không thể bàn cãi là kẻ mạnh hơn về mặt sức mạnh chiến đấu. Tôi cho rằng việc Edel vẫn dựa dẫm vào mình âu cũng là một niềm an ủi.
+Thật tình chứ... Rốt cuộc ai mới là chủ ở đây hả ngài Chuột, tôi thầm nghĩ... nhưng ngẫm lại thì một thử nghiệm như thế cũng đâu hoàn toàn vô lý. Dẫu Edel đã mạnh hơn và giờ biết dùng cả ma pháp tấn công, nhưng về sức chiến đấu thì tôi chắc chắn vẫn vượt trội hơn hẳn. Dù sao thấy nó vẫn còn dựa dẫm vào mình, tôi cũng được an ủi phần nào.
 
-Bất lực, tôi chẳng còn biết mình nên nói gì thêm nữa.
+Ngán ngẩm, tôi chẳng biết phải nói gì hơn.
 
-"...Được rồi. Vậy ta sẽ đi tìm một con Orc cho mày," tôi nói với Edel, kẻ lúc này đang ngự trên đầu tôi, trong khi tôi tiếp tục bước xuống tầng tiếp theo.
+"...Được rồi. Vậy kiếm cho mày một con Orc nhé," tôi bảo Edel đang chễm chệ trên đầu mình, rồi tiếp tục bước xuống tầng dưới.
 
 ◆◇◆◇◆
 
-Tôi có thể nhìn thấy ánh mặt trời lặn ở phía xa. Vầng dương chiều tà nhuộm đỏ cả thế gian trong sắc đỏ thẫm. Những sắc màu hoàng hôn ấy rồi tất yếu sẽ nhường chỗ cho một thế giới chìm trong bóng tối, nhưng đây chẳng phải là cảnh tượng huyền bí gì cho cam. Trái lại, đó là cảnh tượng hết sức bình thường, lặp đi lặp lại từng ngày như một lẽ dĩ nhiên...
+Từ đằng xa, tôi có thể nhìn thấy vầng mặt trời đang lặn. Ánh chiều tà nhuộm đỏ rực cả không gian. Sắc hoàng hôn này rồi sẽ phải nhường chỗ cho màn đêm đen kịt, song đây cũng chẳng phải cảnh tượng kỳ bí gì. Đúng hơn thì nó hết sức bình thường, ngày nào cũng lặp đi lặp lại...
 
-Chí ít thì, đó là điều bất kỳ ai cũng sẽ nói... với giả định rằng họ không đang ở sâu bên trong một mê cung.
+Chí ít ai cũng sẽ nói vậy... nếu như họ không đang ở sâu trong mê cung.
 
 "Cảm giác kỳ lạ ghê nhỉ...?"
 
-Thế nhưng chúng tôi lại đang ở đây, tại tầng hai của Mê Cung Tân Nguyệt.
+Thế mà tụi tôi lại đang đứng ở đây, ngay trên tầng hai của Mê Cung Tân Nguyệt.
 
-Lúc này, bên ngoài còn lâu mới tới buổi tối; trên thực tế, mặt trời có lẽ vẫn đang tỏa sáng rực rỡ trên cao ngoài phạm vi mê cung. Rõ ràng là dòng chảy thời gian bên trong Tân Nguyệt, và có lẽ là mê cung nói chung, không hề trùng khớp với thế giới bên ngoài. Dẫu từng nghe kể về chuyện đó trước đây, nhưng đây là lần đầu tiên tôi thực sự cảm nhận được một tầng mê cung có sự chênh lệch múi giờ, bởi tầng trước đó cho cảm giác hoàn toàn đồng điệu với thế giới bên ngoài.
+Thực chất bên ngoài còn lâu mới tới chiều tối; ngoài mê cung, mặt trời có khi vẫn đang rực rỡ trên đỉnh đầu. Rõ ràng là dòng chảy thời gian bên trong Tân Nguyệt—mà khéo là ở mê cung nói chung—chẳng hề trùng khớp với thế giới bên ngoài. Dù từng nghe kể từ trước, nhưng đây là lần đầu tiên tôi thực sự cảm nhận được một tầng mê cung bị lệch múi giờ, bởi tầng một trước đó vẫn hoàn toàn ăn khớp với bên ngoài.
 
-Nếu phải đoán, màn đêm sẽ buông xuống tầng này khi mặt trời mọc ở thế giới bên ngoài, và ngược lại. Dẫu vậy, đây có lẽ là hiện tượng bình thường ở mê cung cụ thể này. Bước vào một tầng chưa có ánh sáng ban ngày vào giờ giấc của nó là một chuyện; bước vào một tầng mới trong bóng tối đen như mực lại là chuyện hoàn toàn khác. Đối với phần lớn mạo hiểm giả, đây sẽ là một điều vô cùng phiền toái, nhưng có rất nhiều cách để xử lý tình huống này. Chẳng hạn, một pháp sư đặc biệt lành nghề có thể dễ dàng thi triển một phép thuật ban cho họ tầm nhìn trong đêm. Tuy nhiên, hầu hết mạo hiểm giả sẽ chỉ đơn giản là bỏ cuộc ngay tại chỗ.
+Nếu phải đoán thì màn đêm sẽ buông xuống tầng này khi mặt trời mọc ở thế giới bên ngoài, và ngược lại. Có điều, đây có lẽ là chuyện thường tình ở riêng mê cung này. Bước vào một tầng mà giờ giấc chưa tới ban ngày đã là một chuyện; đằng này mò vào tầng mới giữa lúc tối đen như mực lại là chuyện khác hẳn. Với đa số mạo hiểm giả, đây là chuyện cực kỳ rắc rối, dẫu vẫn có nhiều cách giải quyết. Chẳng hạn, một pháp sư đủ lão luyện có thể dễ dàng thi triển phép thuật giúp nhìn trong đêm. Thế nhưng phần lớn mạo hiểm giả sẽ đành bỏ cuộc ngay tắp lự.
 
-Tôi đồ rằng sự sắp xếp của chúng tôi hôm nay có phần không may, bởi tôi đã tính quay về vào ban đêm, thời điểm mặt trời sẽ mọc ở tầng này. Nhưng mặt khác, tôi lại đủ may mắn khi có mặt ở đây vào thời điểm này. Giờ đang là buổi chiều tà, và tôi vẫn có đủ ánh sáng cho tầm nhìn lẫn chiến đấu. Dẫu vậy, ngay cả khi mặt trời lặn hẳn, đôi mắt của tôi cũng có cấu tạo đặc biệt. Tôi nhận thấy mình vẫn có thể nhìn đủ rõ trong đêm; tầm nhìn của tôi xa hơn nhiều so với một con người bình thường. Nói đúng hơn thì, thị lực của một con Orc gần với con người hơn. Nhờ đó, tình thế này mang lại lợi thế cho tôi vì việc giao chiến với một con Orc trong bóng tối sẽ dễ dàng hơn.
+Tính ra dự định hôm nay của tôi hơi dở, vì tôi tính quay về vào ban đêm, mà lúc đó ở tầng này mặt trời lại mọc. Nhưng bù lại, có mặt ở đây vào lúc này cũng là một cái may. Giờ mới là chiều tà, ánh sáng vẫn còn dư dả để quan sát và chiến đấu. Mà dẫu trời có sập tối thì mắt tôi cũng thuộc dạng đặc biệt. Tôi thấy mình vẫn nhìn rất rõ trong đêm, xa hơn người bình thường nhiều. Thực ra thị lực của lũ Orc lại gần với con người hơn. Thành thử tình thế này lại hóa lợi thế cho tôi, bởi đánh với Orc trong bóng tối thì dễ thở hơn nhiều.
 
-Giờ thì Edel sẽ xoay xở ra sao? Vì nó là quyến thuộc của tôi, thị lực của nó trong bóng đêm chắc hẳn cũng được cải thiện.
+Còn Edel thì sao nhỉ? Vì là quyến thuộc của tôi nên chắc tầm nhìn ban đêm của nó cũng được tăng cường.
 
-"Orc... Orc... Orc. Có con nào ở đâu không ta?" Tôi ngân nga, như thể đang hát một câu thần chú kỳ lạ nào đó trong khi lững thững lê bước trên tầng hai của Tân Nguyệt.
+"Orc... Orc... Orc. Mày ở đâu rồi ta?" Tôi lẩm bẩm ngân nga như thể đang tụng một câu chú kỳ quặc nào đó, chân rảo bước trên tầng hai của Tân Nguyệt.
 
-Xung quanh tôi là những khu rừng và đồng bằng dưới một bầu trời trông rất tự nhiên. Nó trông rộng lớn đến mức không tài nào nhận ra nơi bầu trời này kết thúc. Tôi từng nghe kể mạo hiểm giả thỉnh thoảng có thể phát hiện ra một điểm trên tầng nơi bầu trời khép lại, nhưng cũng có những trường hợp họ dường như chẳng bao giờ tìm thấy nó, bất kể có cố gắng đến đâu. Tất cả những điều này được cho là bình thường.
+Quanh tôi là rừng cây xen lẫn đồng bằng trải dài dưới vòm trời trông tự nhiên như thật. Trông nó bao la đến độ chẳng thể biết bầu trời này kết thúc ở nơi đâu. Tôi nghe nói mạo hiểm giả thỉnh thoảng có thể tìm thấy nơi chân trời chạm mép tầng, nhưng cũng có lúc tìm mỏi mắt cũng chẳng thấy tăm hơi đâu. Chuyện đó nghe bảo là hết sức bình thường.
 
-Dẫu Orc khá khác biệt khi so sánh với một con người bình thường, Orc thông thường lại có xu hướng đi lang thang theo bầy đàn, hoặc chí ít cũng biểu lộ đủ trí thông minh để tụ tập thành từng nhóm nhỏ. Vì thế, việc định vị được một con Orc sẽ nhanh chóng dẫn tới những con còn lại. Ngược lại, nếu một mạo hiểm giả bị một con Orc phát hiện, rất có thể họ sẽ phải chống đỡ với vài con khác cùng một lúc. Do vậy, mạo hiểm giả thường tiến bước hết sức thận trọng ở những khu vực này.
+Dù Orc khác xa người bình thường, nhưng giống Orc thông thường lại có xu hướng đi theo bầy, hoặc chí ít cũng đủ khôn để tụ tập thành từng nhóm nhỏ. Thành ra cứ lần ra một con là sẽ nhanh chóng tìm thấy cả đám. Ngược lại, nếu mạo hiểm giả lỡ bị một con Orc phát hiện thì cầm chắc sẽ phải đối phó với cả mấy con khác cùng lúc. Bởi thế mà khi qua những khu vực này, ai nấy đều phải dọ dẫm từng bước hết sức dè chừng.
 
-Mặt khác, tôi lúc này lại đang tìm kiếm chính tình huống như vậy. Dĩ nhiên, nếu một phân loài Orc mạnh hơn xuất hiện với số lượng áp đảo, điều đó rất có thể sẽ mang lại rắc rối lớn, nhưng đây chỉ mới là tầng hai. Những quái vật như thế chẳng có lý do gì để xuất hiện ở khu vực này. Nhưng... một con quái vật đơn độc, đặc biệt nào đó vẫn có khả năng xuất hiện trên tầng hai. Nếu chuyện như vậy có xảy ra, tất cả những gì tôi cần làm chỉ là bỏ chạy.
+Còn tôi lúc này thì lại đang chủ động tìm kiếm đúng cảnh đó. Dĩ nhiên, nếu chạm trán loài Orc cấp cao hơn bu lại đông đúc thì cũng rầy rà to, nhưng đây mới chỉ là tầng hai thôi. Cỡ quái vật đó chẳng có lý do gì lại xuất hiện ở chỗ này. Dù vậy... khả năng một con quái vật dị biệt nào đó xuất hiện lẻ loi trên tầng hai không phải là không có. Nếu xui xẻo gặp phải thì tôi chỉ việc co cẳng chạy là xong.
 
-Có lẽ do dạo gần đây mọi chuyện diễn ra quá đỗi suôn sẻ nên tôi suýt nữa đã quên mất, nhưng nguyên do khiến tôi trở thành bộ dạng như hiện tại hoàn toàn là vì một cuộc chạm trán xui xẻo với đỉnh cao của muôn loài quái vật: một con Rồng huyền thoại. Những quái vật đặc biệt như thế hoàn toàn có thể tồn tại, bởi chính tôi từng đụng độ một con rồi.
+Có lẽ dạo gần đây mọi sự đều thuận buồm xuôi gió nên tôi suýt nữa quên khuấy mất: cái cớ khiến tôi biến thành bộ dạng như bây giờ chính là do đen đủi đụng phải đỉnh cao của muôn loài quái vật—một con Rồng trong truyền thuyết. Những quái vật dị thường cỡ đó hoàn toàn có thể tồn tại, vì chính tôi từng chạm trán một con rồi.
 
-Một lần nữa, tôi tự nhắc nhở bản thân phải cẩn trọng. Nếu rơi vào tình thế buộc phải rút kiếm, tôi có thể tính toán cơ hội chiến thắng của mình vào thời khắc đó. Nếu bất khả thi để giành phần thắng, tất cả những gì tôi cần làm chỉ là tháo chạy, và bản thân điều đó cũng đã là một thắng lợi rồi.
+Tôi lại tự dặn lòng phải hết sức cẩn thận. Nếu rơi vào cảnh buộc phải tuốt kiếm, tôi sẽ nhẩm tính ngay cơ hội thắng trong tích tắc. Thấy không có cửa thắng thì cứ việc chuồn cho êm, bản thân việc chạy thoát cũng đã là một thắng lợi rồi.
 
-"Orc... Orc... Hửm? Ơ kìa?"
+"Orc... Orc... Hử? Ủa?"
 
-Tôi đột ngột ngoảnh đầu lại. Một cảm giác kỳ lạ bất chợt ập đến xâm chiếm tôi.
+Tôi giật mình ngoảnh đầu lại. Một cảm giác kỳ lạ bất chợt ập đến.
 
-Có thứ gì đó... không đúng.
+Có cái gì đó... sai sai.
 
-Rốt cuộc là cái gì cơ chứ, tôi tự hỏi, để rồi nhận ra đầu mình nhẹ bẫng một cách bất thường.
+Cái gì thế nhỉ, tôi tự hỏi, rồi chợt nhận ra đỉnh đầu mình nhẹ bẫng một cách bất thường.
 
-Đưa một bàn tay lên đầu, cuối cùng tôi cũng nhận ra thứ gì đang thiếu sót. Thứ vốn ngự ở đó lúc trước giờ không còn hiện diện nữa...
+Đưa tay sờ lên đầu, tôi mới vỡ lẽ ra mình thiếu cái gì. Thứ ban nãy còn chễm chệ ở đó giờ đã biến mất tăm...
 
-Edel đã biến mất.
+Edel đâu mất rồi.
 
-Nó đã đi đâu mất rồi...?
+Nó tót đi đâu rồi không biết...?
 
-Tôi căng hết mọi giác quan, tiến hành tìm kiếm khu vực xung quanh. Nhờ mối liên kết giữa chúng tôi, tôi chỉ cần chút tập trung là đã xác định được vị trí của nó. Khi làm vậy, tôi cảm nhận được một sự hiện diện ở gần lối vào khu rừng. Bất lực, tôi tiến về phía mục tiêu.
+Tôi căng hết các giác quan để dò xét xung quanh. Nhờ có sợi dây liên kết giữa hai đứa, tôi chỉ cần tập trung một chút là đã định vị được nó. Vừa dò ra, tôi liền cảm nhận được một luồng hiện diện ở gần bìa rừng. Ngán ngẩm lắc đầu, tôi bước nhanh về hướng đó.
 
 "Edel... Ta đã bảo mày là không được..."
 
-Tôi khựng lại khi vừa rẽ bụi rậm ra.
+Tôi khựng lại ngay khi vừa vạch bụi cây ra.
 
 "...Braaaagh!!!"
 
@@ -126,12 +126,12 @@ Tôi khựng lại khi vừa rẽ bụi rậm ra.
 
 "Gigibu! Buuuruuuu!"
 
-Những âm thanh vô nghĩa đập vào tai tôi. Vây quanh Edel là ba con Orc, dường như đang mải mê với cuộc trò chuyện của chúng. Vũ khí của chúng đã được rút ra.
+Đập vào tai tôi là một tràng âm thanh vô nghĩa. Vây quanh Edel là ba con Orc, trông có vẻ đang mải mê bàn tán gì đó với nhau. Tay chúng đã lăm lăm vũ khí.
 
-Mày đang rơi vào tình thế khá ngặt nghèo đấy nhỉ, Edel...?
+Tình cảnh của mày coi bộ căng thẳng quá nhỉ, Edel...?
 
-Nghĩ vậy, tôi quyết định hành động như bất kỳ người chủ nào sẽ làm. Tôi toan can thiệp thì sững người chết lặng tại chỗ. Ánh mắt tôi dừng lại ở vũ khí và áo giáp của lũ Orc, vốn được chế tác từ chất liệu kim loại.
+Nghĩ vậy, tôi quyết định làm tròn bổn phận của một người chủ. Vừa định xông ra can thiệp thì chân tôi đã khựng lại. Mắt tôi dừng ở vũ khí và giáp trụ của lũ Orc—tất cả đều làm bằng kim loại.
 
-Tình hình tệ hơn tôi tưởng nhiều. Đây chẳng phải là Orc thông thường...
+Căng hơn tôi tưởng rồi. Đây không phải là Orc thông thường...
 
 Chúng là Orc Binh.
