@@ -2,23 +2,23 @@
 
 "Này... Đằng kia là đường cụt mà, đúng không?" người đàn ông vừa nhìn vào tấm bản đồ trên tay vừa hỏi.
 
-Tấm bản đồ ông ta cầm dĩ nhiên là loại phổ thông bán đầy ở thị trấn Maalt. Giá bản đồ mê cung chênh lệch nhau một trời một vực; tùy thuộc vào nhiều yếu tố, có tấm đắt ngang cả một gia tài. Chẳng hạn, độ khó tổng thể của mê cung hay số tầng bên trong đều ảnh hưởng lớn tới giá trị bản đồ. Đó là chưa kể, những tấm có thêm đặc điểm riêng của mê cung cùng thông tin chi tiết về quái vật phân bổ ở từng khu vực lại càng đắt đỏ hơn nữa.
+Tấm bản đồ ông ta cầm dĩ nhiên là loại phổ thông bán đầy ở thị trấn Maalt. Giá bản đồ mê cung chênh lệch nhau một trời một vực; tùy vào nhiều yếu tố, có tấm đắt ngang cả một gia tài nhỏ. Chẳng hạn, độ khó tổng thể của mê cung hay số tầng bên trong đều ảnh hưởng lớn tới giá trị bản đồ. Đó là chưa kể những tấm có ghi thêm đặc điểm riêng của mê cung cùng thông tin chi tiết về quái vật phân bổ ở từng khu vực lại càng đắt đỏ hơn nữa.
 
-Có những tấm bản đồ còn tỉ mỉ hơn, đánh dấu rõ cả điểm quái vật hồi sinh, kèm theo kinh nghiệm cùng những thông tin vô giá từ các mạo hiểm giả từng đặt chân tới đó. Cầu kỳ nhất phải kể đến bản đồ do giới thợ vẽ chuyên nghiệp hay những người đam mê kỳ công làm ra, đua nhau thêm thắt chi tiết hòng vượt mặt đối thủ cạnh tranh. Tuy vậy, tỉ mỉ quá mức thì đống chi tiết ấy lại đâm ra vô nghĩa. Nói tóm lại, bản đồ càng chi tiết thì giá càng chát, nhưng đổi lại chúng quả thực vô cùng hữu ích.
+Có những tấm bản đồ còn tỉ mỉ hơn, đánh dấu rõ cả vị trí quái vật tái sinh, kèm theo kinh nghiệm cùng những thông tin quý giá từ các mạo hiểm giả từng đặt chân tới đó. Cầu kỳ nhất phải kể đến bản đồ do giới thợ vẽ chuyên nghiệp hay những người đam mê kỳ công làm ra, đua nhau vẽ ngày càng chi tiết hòng vượt mặt đối thủ cạnh tranh. Tuy vậy, tỉ mỉ quá một mức nào đó thì đống chi tiết ấy lại đâm ra thừa thãi. Nói tóm lại, bản đồ càng chi tiết thì giá càng cao, và dĩ nhiên một tấm bản đồ như thế vô cùng hữu ích.
 
-Khổ nỗi, tấm bản đồ trên tay người đàn ông chỉ là loại phổ thông mua sẵn ở quầy. Tuy có vẽ những tầng người ta đã đi qua, nó lại gần như chẳng có thêm thông tin mấu chốt nào, họa chăng có thì cũng chỉ lèo tèo vài nét. Nói trắng ra, nó chỉ là một tấm bản đồ sơ sài không hơn không kém.
+Nói thì nói vậy, chứ tấm bản đồ trên tay người đàn ông chỉ là loại phổ thông mua sẵn ở quầy. Tuy có vẽ những tầng đã được khai phá, nó lại gần như chẳng có thêm thông tin đáng chú ý nào, họa chăng có thì cũng chỉ lèo tèo vài nét. Nói trắng ra, nó chỉ là một tấm bản đồ sơ sài không hơn không kém.
 
-Bởi vậy, theo tấm bản đồ ông ta cầm thì hướng tôi đang đi đúng là ngõ cụt. Tất nhiên tôi thừa hiểu điều đó, đơn giản vì chính tôi cũng đang cầm một tấm y chang.
+Bởi vậy, theo tấm bản đồ ông ta cầm thì hướng tôi đang đi đúng là ngõ cụt. Tất nhiên tôi thừa hiểu điều đó, đơn giản vì chính tôi cũng đang cầm một tấm y hệt.
 
 Chỉ có điều giữa hai tấm lại có sự khác biệt: bản đồ của tôi chằng chịt những ghi chép cùng đủ loại ký hiệu. Thậm chí nói không ngoa thì nó đã biến thành một thứ hoàn toàn khác rồi. Dù sao thì mười năm kinh nghiệm của tôi đâu phải chỉ để làm cảnh. Nói đúng hơn, khéo tôi còn là người nắm giữ tấm bản đồ Mê Cung Nguyệt Ảnh chi tiết nhất khắp cả thị trấn Maalt. Dù bán đi chắc cũng kiếm được cả mớ tiền, nhưng tôi nhất quyết giữ riêng số thông tin này; đời nào tôi lại tùy tiện đem chỉ cho thiên hạ.
 
 Cũng chính trên tấm bản đồ này, cách đây mấy hôm tôi vừa đánh dấu một lối đi mới toanh chưa từng ai biết tới. Dĩ nhiên, đó chính là nơi con Rồng xuất hiện.
 
-"...Cứ... qua. Đây... đi."
+"...Cứ... đi. Qua đây."
 
-Dù mặt mũi lộ rõ vẻ hoài nghi, người đàn ông chẳng còn cách nào khác ngoài nghe theo lời tôi, rốt cuộc đành nhượng bộ bước theo chỉ dẫn.
+Dù trông vẫn còn bán tín bán nghi, người đàn ông chẳng còn cách nào khác ngoài làm theo lời tôi, rốt cuộc đành nhượng bộ bước theo chỉ dẫn.
 
-Đi cùng một đoạn, tôi thấy rõ người đàn ông này hầu như chẳng có chút kỹ năng đánh đấm nào. Tuy đeo bên mình một thanh kiếm loại thường dùng khá tốt, bản thân ông ta lại không biết cách sử dụng. Trong hoàn cảnh này, tách khỏi tôi là cực kỳ nguy hiểm, vậy mà xem chừng ông ta cũng chẳng có chút ý thức nào về sự nguy hiểm cả.
+Đi cùng một đoạn, tôi thấy rõ người đàn ông này hầu như chẳng có chút khả năng chiến đấu nào. Tuy đeo bên mình một thanh kiếm loại thường dùng khá tốt, bản thân ông ta lại không biết cách sử dụng. Trong hoàn cảnh này, tách khỏi tôi là cực kỳ nguy hiểm, vậy mà xem chừng ông ta cũng chẳng mấy nhạy bén trước hiểm nguy.
 
 Chẳng buồn nói thêm lời nào với ông ta, tôi quay người, tiếp tục dấn bước men theo các hành lang của Mê Cung Nguyệt Ảnh.
 
@@ -38,23 +38,23 @@ Nhưng ngẫm lại thì, ngay từ đầu hầu như chẳng có ai thèm bén 
 
 Đã vậy, tôi vốn quen đi thám hiểm một mình.
 
-Nói trắng ra, tôi chẳng có ai để kéo đi cùng tới chỗ vừa phát hiện này. Lorraine dĩ nhiên là một lựa chọn, nhưng trước hết cô là một học giả. Tôi từng dạy cô những điều cơ bản (và thậm chí nhiều hơn thế) về nghề mạo hiểm giả; ngần ấy thứ kết hợp với trình độ ma pháp điêu luyện thừa đủ giúp cô đạt chuẩn mạo hiểm giả Ngân Cấp. Có điều, kinh nghiệm thám hiểm thực địa của cô vẫn còn khá ít ỏi. Nhưng đối với một học giả thì điều đó âu cũng dễ hiểu, bởi Lorraine vốn quen đùn việc thu thập nguyên liệu hay mấy chuyện lặt vặt cho tôi rồi.
+Nói trắng ra, tôi chẳng có ai để kéo đi cùng tới chỗ vừa phát hiện này. Lorraine dĩ nhiên là một lựa chọn, nhưng trước hết cô là một học giả. Tôi từng dạy cô những điều cơ bản (và thậm chí nhiều hơn thế) về nghề mạo hiểm giả; ngần ấy thứ kết hợp với trình độ ma pháp điêu luyện thừa đủ giúp cô đạt chuẩn mạo hiểm giả Ngân Cấp. Có điều, kinh nghiệm thám hiểm thực địa của cô vẫn còn khá ít ỏi. Nhưng đối với một học giả thì điều đó cũng hợp lẽ thôi, bởi Lorraine vốn quen giao việc thu thập nguyên liệu hay mấy chuyện lặt vặt cho tôi rồi.
 
-Dạo gần đây, nghiên cứu của Lorraine dường như đã bước vào giai đoạn then chốt, khiến cô ngày một bận rộn. Cô bận tới mức gần như chẳng buồn nhờ tôi giúp việc gì nữa. Còn nguyên nhân cuối cùng hẳn xuất phát từ quyết định sai lầm của chính tôi: tôi cứ đinh ninh rằng ở cuối một lối đi có kích thước bình thường thế này, đời nào lại có quái vật cỡ lớn trú ngụ. Vì thế nên tôi mới một thân một mình mò vào.
+Dạo gần đây, nghiên cứu của Lorraine dường như đã bước vào giai đoạn then chốt, khiến cô ngày một bận rộn. Cô bận tới mức gần như chẳng nhờ tôi giúp việc gì nữa. Còn nguyên nhân cuối cùng hẳn xuất phát từ quyết định sai lầm của chính tôi: tôi cứ đinh ninh rằng ở cuối một lối đi có kích thước bình thường thế này, đời nào lại có quái vật cỡ lớn trú ngụ. Vì thế nên tôi mới một thân một mình mò vào.
 
-Quái vật hùng mạnh cùng chủng loại với chúng thường tỏa ra luồng khí tức rất mạnh; chỉ cần tập trung là nhận ra ngay. Dù quái vật cấp cao có thể có kỹ năng che giấu khí tức, nhưng xưa nay Mê Cung Nguyệt Ảnh vốn đâu nổi tiếng là có quái vật mạnh. Kể cả có loại quái vật đặc biệt nào đó rình rập, tôi vẫn tự tin mình đủ sức xoay xở. Tất nhiên, xoay xở ở đây đâu phải là lao vào đánh nhau, mà là chuẩn bị sẵn kế hoạch cùng đường tháo lui an toàn.
+Những con quái vật mạnh thường tỏa ra luồng khí tức rất rõ; chỉ cần tập trung là nhận ra ngay. Dù quái vật cấp cao có thể có kỹ năng che giấu khí tức, nhưng xưa nay Mê Cung Nguyệt Ảnh vốn đâu nổi tiếng là có quái vật mạnh. Kể cả có loại quái vật đặc biệt nào đó rình rập, tôi vẫn tự tin mình đủ sức xoay xở. Tất nhiên, xoay xở ở đây đâu phải là lao vào đánh nhau, mà là chuẩn bị sẵn kế hoạch cùng đường tháo lui an toàn.
 
-Nói thì nói vậy, chứ thực tế tôi nào lường trước được điều gì. Tôi chỉ đinh ninh rằng ở một nơi tương đối dễ thở như Mê Cung Nguyệt Ảnh, tỉ lệ xuất hiện quái vật mạnh cỡ đó là rất thấp. Cứ nơm nớp lo sợ trước những điều chưa biết thì còn ra thể thống mạo hiểm giả gì nữa. Nhưng nói cho công bằng thì lúc ấy tôi cũng chẳng nghĩ ngợi gì nhiều, để rồi cuối cùng đâm đầu ngay vào con Rồng.
+Nói thì nói vậy, chứ thực tế tôi nào lường trước được điều gì. Tôi chỉ đinh ninh rằng ở một nơi tương đối dễ thở như Mê Cung Nguyệt Ảnh, tỉ lệ xuất hiện quái vật mạnh cỡ đó là rất thấp. Cứ nơm nớp lo sợ trước những điều chưa biết thì còn làm mạo hiểm giả sao được. Nhưng nói cho công bằng thì lúc ấy tôi cũng chẳng nghĩ ngợi gì nhiều, để rồi cuối cùng đâm đầu ngay vào con Rồng.
 
 Nghĩ lại thì hồi đó, có lẽ tôi thật sự chẳng thể làm gì khác. Không chỉ vì con Rồng không hề tỏa ra chút khí tức nào, mà khi vừa định quay đầu bỏ chạy thì cả người tôi đã cứng đờ, không sao nhúc nhích nổi. Đó vốn chẳng phải đối thủ có thể đánh bại bằng số đông hay mưu mẹo đơn giản; dẫu tôi có dè chừng đôi chút, nhưng một khi đã giáp mặt nó thì coi như cầm chắc cái chết.
 
-Gặm nhấm chuyện cũ cũng chẳng ích gì, đơn giản là lúc đó tôi chẳng có lấy chút thông tin đáng giá nào để tính toán.
+Nghĩ mãi chuyện đã qua cũng chẳng ích gì, đơn giản là lúc đó tôi chẳng có lấy chút thông tin đáng giá nào để tính toán.
 
 Gạt chuyện cũ sang một bên, tôi dồn sự chú ý vào chuyến trở lại chốn xưa lần này, nhưng không thấy quanh đây có gì bất thường. Tôi hoàn toàn chẳng cảm nhận được chút hiện diện nào của con Rồng.
 
-Dù nó hoàn toàn có thể thình lình xuất hiện như lần trước, tôi cũng chẳng làm gì được trước nguy cơ ấy. Dù sao thì chấp nhận mạo hiểm cũng là một phần của nghề mạo hiểm giả. Nếu chuyện đó thực sự xảy ra, tôi đành dùng người đàn ông sau lưng làm mồi nhử để thoát thân. Đúng là táng tận lương tâm thật đấy, nhưng lâm vào cảnh đó thì tôi đâu còn lựa chọn nào khác.
+Dù nó hoàn toàn có thể thình lình xuất hiện như lần trước, tôi cũng chẳng làm gì được trước nguy cơ ấy. Dù sao thì chấp nhận rủi ro cũng là một phần của nghề mạo hiểm giả. Nếu chuyện đó thực sự xảy ra, tôi đành dùng người đàn ông sau lưng làm mồi nhử để thoát thân. Đúng là táng tận lương tâm thật đấy, nhưng lâm vào cảnh đó thì tôi đâu còn lựa chọn nào khác.
 
-Nghĩ theo lý tính thì nếu con Rồng có hai mục tiêu, một trong hai người may ra còn có cơ hội sống sót tháo chạy. Dẫu người đàn ông sẽ kiếm đủ số tiền mình cần nếu chuyến đi thành công, nhưng ông ta lặn lội theo tôi đến tận đây mà chẳng hề hay biết hiểm nguy đón đợi. Tôi cố tự thuyết phục bản thân rằng làm thế cũng chẳng sao, nhưng rốt cuộc không dối lòng nổi. Làm vậy thật quá tàn nhẫn. Khổ nỗi lúc này cũng chẳng còn cách nào hơn.
+Xét thuần lý trí thì nếu con Rồng có hai mục tiêu, một trong hai người may ra còn có cơ hội sống sót tháo chạy. Dẫu người đàn ông sẽ kiếm đủ số tiền mình cần nếu chuyến đi thành công, nhưng ông ta lặn lội theo tôi đến tận đây mà chẳng hề hay biết hiểm nguy đón đợi. Tôi cố tự thuyết phục bản thân rằng làm thế cũng chẳng sao, nhưng rốt cuộc không dối lòng nổi. Làm vậy thật quá tàn nhẫn. Khổ nỗi lúc này cũng chẳng còn cách nào hơn.
 
 "...Để tôi. Đi... trước."
 
@@ -80,7 +80,7 @@ Chẳng buồn theo bước chân chậm chạp dè dặt của tôi nữa, ngư
 
 Thường thì người ta vẫn hay mong đợi có thứ gì đó ở cuối đường hầm, như một kho báu nào đó hay chí ít cũng phải là một con quái vật. Thế nhưng nhìn nhận theo nhiều khía cạnh, thứ từng ngự ở đây trước kia giờ đã biến mất tăm rồi.
 
-Nói toạc ra thì đó chẳng phải ai khác ngoài con Rồng tôi từng giáp mặt.
+Nói đơn giản thì đó chính là con Rồng tôi từng chạm trán.
 
 Nếu đúng là thế thì nơi đây quả thực chẳng còn lại gì ngoài một khoảng không gian rộng thênh thang, trống trơn. Cảm giác có phần... cô quạnh.
 
@@ -94,11 +94,11 @@ Nghĩ vậy, tôi áp hai bàn tay lên vách đá ẩm lạnh, lần mò xem c�
 
 "Một... lối. Đi... đi bí mật."
 
-"Ồ... Ừ, trông đúng là thế thật. Nhưng mà thật vậy sao? Chà... Nếu cậu báo lối đi chưa từng ai biết này cùng đường hầm bí mật cho Hội... chẳng phải sẽ được thưởng một món bộn tiền sao?"
+"Ồ... Ừ, trông đúng là thế thật. Nhưng mà thật vậy sao? Chà... Nếu cậu báo lối đi chưa từng ai biết này cùng đường hầm bí mật cho Hội... chẳng phải sẽ được thưởng một khoản hậu hĩnh sao?"
 
-Điều đó hiển nhiên là không thể chối cãi. Nghĩ bụng món nợ của người đàn ông coi như đã có cách giải quyết, tôi quay sang thì thấy ông ta đang bối rối lắc đầu nguầy nguậy.
+Điều đó hiển nhiên là không thể chối cãi. Nghĩ bụng món nợ của người đàn ông coi như đã có cách giải quyết, tôi quay sang thì thấy ông ta đang bối rối lắc đầu lia lịa.
 
-"Không, không đời nào! Tôi biết thừa là cậu tìm ra trước mà! Dù sao tôi cũng chỉ bám đuôi theo sau cậu, quái vật thì chẳng đánh nổi con nào. Tôi sẽ ngậm chặt miệng, tuyệt đối không hé nửa lời nhận vơ là hai ta cùng tìm ra đâu..." Vừa lắc đầu nguầy nguậy, người đàn ông vừa tự ti phân bua một thôi một hồi.
+"Không, không đời nào! Tất nhiên tôi hiểu là cậu tìm ra trước mà! Dù sao tôi cũng chỉ đi theo sau cậu, quái vật thì chẳng đánh nổi con nào. Tôi sẽ ngậm chặt miệng, tuyệt đối không hé nửa lời nhận vơ là hai ta cùng tìm ra đâu..." Vẫn lắc đầu nguầy nguậy, người đàn ông tự ti phân bua một thôi một hồi.
 
 Tôi cứ đinh ninh ông ta lặn lội theo mình đến tận đây thì chí ít cũng sẽ xin chia một phần tiền thưởng. Thành thử nghe ông ta nói vậy, tôi có hơi bất ngờ. Một món tiền vàng lớn đúng là rất hữu ích, nhưng với bộ dạng hiện tại của tôi thì đâu thể muốn tiêu ở đâu cũng được. Dù vậy, nếu kiếm được một khoản tiền lớn ngay lúc này rồi túc tắc tiêu dần qua ngày thì cũng chẳng tệ chút nào.
 

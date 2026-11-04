@@ -29,9 +29,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 3. **Giọng Rentt.** Bình tĩnh, hay phân tích, hay tự giễu, như một gã mạo hiểm giả từng trải đang kể chuyện cho bạn nghe, không phải đọc diễn văn. Độc thoại dùng tiểu từ ("chứ", "mà", "đấy", "thôi") và câu hỏi tu từ ngắn. Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng, không thêm ý.
 4. **Giọng nhân vật khác.** Lorraine sắc sảo, hay trêu Rentt. Người thô lỗ nói cộc. Chi tiết xem `characters.md` và `pronouns.md`.
 5. **Thoại ngắt quãng thời Ngạ Quỷ.** Sau dấu "." thì viết hoa, sau "..." giữa câu thì viết thường. Đổi xưng hô trong một câu thoại thì đổi cả câu, không để vế đầu "mình", vế sau "tôi".
-6. **Thói quen chốt suy luận của Rentt.** Rentt hay có các câu đúc kết suy nghĩ ngắn ("This is the conclusion I came to", "With that in mind / With that conclusion in mind") trước khi chuyển ý hoặc hành động: chuyển ngữ linh hoạt, khẩu ngữ tự nhiên ("Tôi đã tự nhủ như vậy", "Nghĩ thông suốt", "Nghĩ vậy"), tránh dịch máy rập khuôn "Với kết luận/ý nghĩ đó trong đầu".
-7. **Độc thoại giằng xé giữa lý trí và lương tri của Rentt.** Rentt hay có những đoạn cân nhắc giữa sự toan tính sinh tồn lạnh lùng của Undead (như việc dùng người đi cùng làm mồi nhử) và sự day dứt lương tâm con người (thấy tàn nhẫn, không đành lòng). Chuyển ngữ gọn gàng, khẩu ngữ đời thường, lột tả sự giằng xé chân thực ("táng tận lương tâm", "không dối lòng nổi"), tránh dịch thô cứng kiểu "tính toán một cách lý trí" hay "vô đạo đức cùng cực".
-8. **Miêu tả Undead và sinh vật xương xẩu/vô cơ.** Khi miêu tả quái vật Undead dạng Khô Lâu hoặc thực thể không có da thịt, chọn từ ngữ thể chất phù hợp ("physical strength" → "sức mạnh thể chất / lực đòn đánh", tránh dịch máy thành "sức mạnh cơ bắp"; "appendages" → "tay chân xương xẩu / chi xương", tránh dịch rập khuôn). Với đòn đánh hiểm hóc ("a clean blow"), dùng "gọn ghẽ / dứt khoát", tránh lạm dụng khẩu ngữ quá tay như "ngọt sớt".
+6. **Miêu tả Undead dạng xương.** Khô Lâu hoặc sinh vật chỉ có xương thì không tả là "cơ bắp" (`physical strength` → "sức mạnh thể chất / lực đòn đánh").
 
 ## Từ cảm thán / cách nói cố định
 
