@@ -1,233 +1,233 @@
 # Chương 35: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (6)
 
-"Hai người... làm được rồi," tôi nói với cả hai sau khi họ đã hạ gục kẻ địch của mình.
+"Hai người... làm được rồi," tôi bảo cả hai sau khi họ hạ gục đối thủ.
 
-"Ừ... Bằng cách nào đó."
+"Ừ... cũng coi như xong."
 
-"Tôi ngạc nhiên quá... Nhưng tại sao các mạo hiểm giả khác lại nhắm vào chúng ta chứ...?" Laura hỏi, giọng vẫn còn đôi chút run rẩy.
+"Hú vía thật đấy... Nhưng sao các mạo hiểm giả khác lại nhắm vào chúng ta chứ...?" Laura hỏi, người vẫn chưa hết bàng hoàng.
 
-Để đáp lại, tôi đưa ra một lời giải thích.
+Thấy vậy, tôi liền cất lời giải thích:
 
-"Hai người từng... Ở Hội rồi đúng không? Đây sẽ là một cuộc... Cạnh tranh. Đội nào đến... Đích trước sẽ thắng."
+"Lúc ở... Hội, hai người nghe rồi... đúng không? Đây là một... cuộc đua. Đội nào cán... đích trước thì thắng."
 
-Có nhiều cách để diễn giải tuyên bố đó: thoạt nhìn, dường như chỉ cần đội nào cán đích trước là sẽ giành chiến thắng. Tuy nhiên, điều đó cũng đồng nghĩa với việc các đội đến sau đội đầu tiên đều sẽ thất bại.
+Có nhiều cách để hiểu câu nói đó. Thoạt nghe thì cứ ngỡ chỉ cần đội nào cán đích trước là sẽ giành chiến thắng. Nhưng điều đó cũng đồng nghĩa với việc những đội đến sau đội về nhất đều sẽ bị loại.
 
-Do vậy, không nằm ngoài dự đoán khi một số kẻ sẽ nghĩ rằng việc giảm bớt số lượng đội tham gia sẽ mang lại cơ hội chiến thắng cao hơn. Ít nhất thì đó cũng là lối suy nghĩ của một vài thí sinh.
+Kéo theo đó, chẳng lạ gì khi có những kẻ nghĩ rằng cứ loại bớt các đội khác thì cơ hội thắng của mình sẽ cao hơn. Ít nhất thì một vài thí sinh sẽ có lối suy nghĩ như vậy.
 
-"Vậy... về cơ bản thì những kẻ này là thí sinh... và chúng đang tìm cách loại chúng ta sao?"
+"Tức là... mấy người này cũng là thí sinh... và họ đang tìm cách loại chúng ta sao?"
 
-"Đáng tiếc... Đúng là vậy."
+"Đáng tiếc... đúng là vậy."
 
-Điều mà Laura và Raiz không biết là những kẻ như thế này xuất hiện như cơm bữa trong mọi kỳ thi. Về phần mình, Hội đảm bảo điều đó luôn lặp lại ở mỗi bài kiểm tra bằng những điều kiện được diễn đạt một cách đầy ẩn ý.
+Laura và Raiz không biết rằng kỳ thi nào cũng xuất hiện những kẻ như thế này. Về phía Hội, họ thậm chí còn cố tình cài cắm những điều kiện thi với câu chữ lửng lơ để kích chuyện đó xảy ra.
 
-Trên thực tế, có thể nói rằng các điều khoản và thể lệ của Hội trong những bài kiểm tra thăng hạng được sắp đặt có chủ đích nhằm kích động những kẻ bất hảo lộ diện, nếu chỉ xét riêng việc sau đó chúng sẽ được các mạo hiểm giả có năng lực hơn giáo huấn và dạy cho một bài học để biết thân biết phận.
+Thậm chí có thể nói, thể lệ bài thi thăng hạng của Hội được cố tình sắp đặt nhằm kích động những kẻ bất hảo làm càn, bởi đằng nào sau đó chúng cũng sẽ bị những mạo hiểm giả thực lực hơn dạy cho một bài học để biết thân biết phận.
 
-Tôi thầm nghĩ mình sẽ để dành những điểm này đến khi kết thúc bài kiểm tra mới nói; còn hiện tại, tôi cứ để hai người họ tự nhiên vậy.
+Tôi nghĩ bụng cứ để thi xong xuôi rồi hẵng nói mấy chuyện đó; còn hiện tại, tôi cứ để hai người họ tự nhiên.
 
-"...Dù sao thì. Sắp tới sẽ... Còn. Những sự việc tương tự... Thế này. Chúng ta hãy tiến lên... Thật cẩn thận. Đừng... Chần chừ."
+"...Dù sao thì. Về sau... sẽ còn. Những chuyện tương tự... thế này nữa. Chúng ta hãy tiến lên... thật cẩn thận. Đừng... chần chừ."
 
-Cả hai gật đầu thật mạnh trước lời tôi nói, rồi một lần nữa cất bước tiến vào bóng tối của mê cung.
+Cả hai gật đầu lia lịa trước lời tôi dặn, rồi lại cất bước tiến vào màn đêm của mê cung.
 
-Thấy họ đã đi trước một đoạn, tôi dừng bước tại chỗ, xoay người lại hướng về phía sự hiện diện mà mình vừa cảm nhận được ban nãy.
+Thấy hai người đã đi trước một quãng, tôi liền dừng lại, quay đầu về phía luồng hiện diện mình vừa cảm nhận được ban nãy.
 
-"...Ngươi nên... Mang bọn họ về... Nhanh đi."
+"...Ngươi nên... mang bọn họ về... nhanh đi."
 
-Dứt lời, tôi cảm thấy những bóng đen phía sau mình khẽ lay động. Đã hài lòng, tôi chạy đuổi theo hai người kia và nhanh chóng bắt kịp họ.
+Dứt lời, tôi cảm thấy bóng đen phía sau khẽ lay động. Thấy vậy là yên tâm, tôi liền chạy đuổi theo hai người kia và nhanh chóng bắt kịp họ.
 
 ◆◇◆◇◆
 
-Sau khi nhóm của Rentt rời xa khỏi góc hành lang, một bóng người bước ra từ trong bóng tối. Khoác trên mình trang phục đen tuyền, người đó dường như dần hiện hình từ chính bóng đêm của mê cung, đưa mắt nhìn theo hướng nhóm Rentt vừa rời đi.
+Khi nhóm Rentt đã đi xa khỏi khúc quanh hành lang, một bóng người mới bước ra từ bóng tối. Vận trang phục đen tuyền, gã như thể hiện hình từ chính màn đêm của mê cung, đưa mắt nhìn theo hướng nhóm Rentt vừa đi khuất.
 
-"Tên đó... nhận ra rồi cơ à? Cũng ra gì đấy chứ nhỉ? Hắn ta chẳng phải là mạo hiểm giả mới vào nghề sao...?" bóng người lầm bầm với giọng khá khẽ. Dựa vào âm giọng, có thể đoán chắc bóng người đó là một người đàn ông.
+"Tên đó... nhận ra mình rồi cơ à? Khá đấy chứ nhỉ? Chẳng phải hắn là mạo hiểm giả mới vào nghề sao...?" Bóng người nọ khẽ lẩm bẩm. Nghe chất giọng thì hẳn đây là một người đàn ông.
 
-Vừa nói, người đàn ông áo đen vừa bước về phía ba mạo hiểm giả đã ngã gục, rồi chẳng mấy chốc được gã kiếm sĩ đang nằm sóng xoài cất tiếng gọi.
+Vừa lẩm bẩm, gã áo đen vừa bước lại gần ba mạo hiểm giả đang nằm gục, và gã kiếm sĩ đang sóng xoài dưới đất liền cất tiếng gọi:
 
-"Mấy lời quan sát đó để sau hẵng lầm bầm. Cởi mấy sợi dây thừng này ra cho ta trước đã..."
+"Để sau hẵng lẩm bẩm mấy câu quan sát đó. Cởi mấy sợi dây thừng này ra cho tôi trước đã..."
 
 "À, phải rồi. Xin lỗi nhé."
 
-"Mà này, dù đó là công việc của các anh, nhưng các anh cũng phải chịu đựng đủ thứ chuyện nhỉ?" người đàn ông áo đen nói, gần như có ý châm chọc gã kiếm sĩ đang nằm gục.
+"Cơ mà, dù là việc được giao nhưng các anh cũng khổ thật đấy nhỉ?" người đàn ông áo đen nói, giọng nửa như trêu chọc gã kiếm sĩ đang nằm gục.
 
-"Ai mà chẳng thế? Cơ mà hắn ta cũng nhận ra ngươi đấy thôi," gã kiếm sĩ đáp lại bằng một lời mỉa mai.
+"Ai mà chẳng thế? Cơ mà hắn cũng phát hiện ra cậu đấy thôi," gã kiếm sĩ bật lại một câu mỉa mai.
 
-Người đàn ông áo đen cười khẽ, nhìn gã kiếm sĩ với vẻ mặt trịch thượng.
+Người đàn ông áo đen bật cười, nhìn gã kiếm sĩ với vẻ mặt kẻ cả.
 
-"Nghe như thể ba người các anh không bị phát giác ấy. Tên khoác áo chùng đó có lẽ đã biết tỏng rồi đấy? Ý tôi là chuyện ba người các anh được Hội thuê ấy. Còn hai đứa kia thì... ừm, tôi không chắc chúng có biết hay không."
+"Làm như ba người các anh không bị lộ ấy. Tên mặc áo chùng đó khéo biết tỏng rồi đấy chứ? Ý tôi là chuyện ba người các anh được Hội thuê ấy. Còn hai đứa kia thì... chịu, tôi không rõ."
 
-Nghe vậy, mắt gã kiếm sĩ trợn tròn. "Hả...? Ngươi nghiêm túc đấy chứ...? Rốt cuộc tên đó là ai vậy?"
+Nghe vậy, mắt gã kiếm sĩ trố lên. "Hả...? Cậu nói thật đấy à...? Rốt cuộc tên đó là ai vậy?"
 
-Người đàn ông áo đen nghiêng đầu đáp lại, vẻ mặt lộ rõ nét trầm ngâm.
+Gã áo đen nghiêng đầu, vẻ mặt thoáng nét trầm ngâm.
 
-"...Ai mà biết được? Tôi cũng có chút manh mối... một hình dung nào đó, tôi nghĩ vậy. Có lẽ đúng như cô ấy đã nói..."
+"...Ai mà biết? Tôi cũng lờ mờ đoán ra đôi chút... hình dung ra được chút ít. Có lẽ đúng như cô ấy nói..."
 
 "Hả?"
 
-"Ồ, không, đừng bận tâm. Chỉ là một điều tôi chợt nghĩ tới thôi."
+"À thôi, không có gì đâu. Tôi chỉ nghĩ vu vơ thôi."
 
-"Thế thì giờ rút lui nhé? Chẳng phải chúng ta đã bị hạ mất vài đội rồi sao?"
+"Giờ rút lui được chưa nhỉ? Chẳng phải bên mình đã rụng mất mấy đội rồi à?"
 
-"Ừ, hai đội. Nghĩ lại thì lúc nãy bọn ta còn định nương tay với chúng nữa chứ... Đám trẻ dạo gần đây đúng là không phải dạng vừa đâu."
+"Ừ, hai đội. Thế mà lúc nãy bọn tôi còn định nương tay với chúng nó chứ... Đám trẻ dạo gần đây đúng là chẳng phải dạng vừa đâu."
 
-"Tên lúc nãy ấy... ngươi nghĩ hắn có qua được không?"
+"Tên lúc nãy ấy... cậu nghĩ hắn có qua nổi không?"
 
-Dứt lời, nhóm người cất bước đi xa dần, miệng vẫn không ngừng rôm rả trò chuyện.
+Nói rồi, nhóm người cất bước đi xa dần, vừa đi vừa tiếp tục câu chuyện.
 
 ◆◇◆◇◆
 
-"...Cuối cùng thì... Chuyến đi... Lại suôn sẻ... Bất ngờ."
+"...Rốt cuộc thì... chuyến đi... lại suôn sẻ... đến bất ngờ."
 
-Sau cuộc tập kích đó, chúng tôi vừa tiếp tục tiêu diệt quái vật vừa tiến bước, cuối cùng cũng tới được khu vực trước địa điểm chỉ định mà không gặp thêm sự cố nào.
+Sau cuộc tập kích đó, chúng tôi vừa đi vừa dọn sạch quái vật cản đường, cuối cùng cũng tới được khu vực phía trước điểm chỉ định mà không gặp thêm sự cố nào.
 
-Dù nơi đây mới chỉ là tầng một, nhưng đây lại là Mê Cung Tân Nguyệt rộng lớn và có nhiều đường ngang ngõ tắt. Cảm giác đạt được thành tựu dâng trào khi chúng tôi đã đi được xa đến nhường này, bất chấp thực tế là cả nhóm mới chỉ đi sâu vào một tầng duy nhất.
+Dù mới chỉ là tầng một, nhưng Mê Cung Tân Nguyệt vốn nổi tiếng rộng lớn và nhiều lối rẽ. Đi được đến tận đây cũng đem lại cảm giác thành tựu không nhỏ, dẫu cho cả nhóm mới chỉ đặt chân xuống tầng đầu tiên.
 
-Tuy nhiên, thứ đón chào chúng tôi phía trước không phải là những tiếng hò reo chúc mừng hay một bó hoa—mà thay vào đó lại là một cánh cửa đá lạnh lẽo và nặng nề.
+Tuy nhiên, thứ chờ đón chúng tôi phía trước không phải tiếng hò reo chúc mừng hay hoa tươi, mà là một cánh cửa đá nặng trịch và lạnh lẽo.
 
-"Cánh cửa này... là loại cửa đó, phải không anh?" Laura hỏi, đưa mắt nhìn về phía tôi đầy e ngại.
+"Cánh cửa này... là loại cửa đó phải không anh?" Laura nhìn về phía tôi, e dè hỏi.
 
-"À... Hai người chưa từng... Đi qua loại cửa... Này bao giờ sao?"
+"À... hai người chưa từng... đi qua loại cửa... này bao giờ sao?"
 
-"Chưa từng." Raiz nhanh nhảu đáp lại câu hỏi của tôi. "Sẽ khó nhằn lắm, xét đến chuyện chỉ có hai đứa bọn tôi..."
+"Chưa lần nào cả." Raiz nhanh nhảu đáp lại câu hỏi của tôi. "Chỉ có hai đứa chúng tôi thì kham sao nổi..."
 
-Bản thân điều đó đã là một lựa chọn khôn ngoan.
+Đó vốn dĩ là một quyết định khôn ngoan.
 
-Những cánh cửa mà họ chưa từng bước qua, những cánh cửa canh giữ các bí mật và con đường thăng tiến cuối cùng của một kẻ thám hiểm trong mê cung... Những cánh cửa đó không gì khác chính là...
+Cánh cửa mà họ chưa từng bước qua, cánh cửa nắm giữ bí mật và quyết định bước tiến tiếp theo của người thám hiểm mê cung... Đó không gì khác chính là...
 
-"Một phòng... Thủ lĩnh. Tôi từng nghe nói... Ở tầng một có khá nhiều... Căn phòng như vậy. Đây hẳn là... Một trong số đó."
+"Phòng... thủ lĩnh. Tôi nghe nói... ở tầng một có khá nhiều... phòng như vậy. Đây hẳn là... một trong số đó."
 
-Quả thực, đây không gì khác ngoài phòng thủ lĩnh. Cấu trúc bố trí của các phòng thủ lĩnh nói riêng có sự khác biệt giữa các mê cung, có nơi chỉ có một phòng duy nhất mỗi tầng, có nơi lại sở hữu nhiều phòng. Đôi khi người ta bắt buộc phải đi qua những căn phòng này để xuống các tầng dưới, nhưng đôi khi chúng hoàn toàn có thể bỏ qua mà chẳng gây bất lợi gì.
+Quả thực, đây chính là phòng thủ lĩnh. Cách bố trí phòng thủ lĩnh ở mỗi mê cung mỗi khác, có nơi mỗi tầng chỉ có một phòng duy nhất, nơi lại có đến vài ba phòng. Đôi khi người ta bắt buộc phải vượt qua căn phòng này mới xuống được các tầng dưới, nhưng cũng có lúc có thể tránh đi đường vòng mà chẳng hề hấn gì.
 
-Tuy nhiên lần này, cánh cửa sừng sững trước mặt chúng tôi không dẫn xuống các tầng dưới. Thay vào đó, nó chỉ là một trong vô số căn phòng nằm ở tầng một của Mê Cung Tân Nguyệt.
+Có điều lần này, cánh cửa trước mắt chúng tôi không dẫn xuống tầng dưới, mà chỉ là một trong nhiều phòng thủ lĩnh nằm rải rác ở tầng một Mê Cung Tân Nguyệt.
 
-Thế nhưng khu vực mà chúng tôi đang hướng đến lại nằm sau chính cánh cửa này. Chẳng còn con đường nào khác để đến được địa điểm chỉ định, vì vậy hướng đi của chúng tôi đã được định đoạt. Ý đồ của Hội quá đỗi rõ ràng để ai cũng nhận ra: muốn vượt qua bài kiểm tra này, người ta phải đi qua căn phòng đó, đánh bại quái vật bên trong rồi tiến thẳng về đích.
+Thế nhưng khu vực chúng tôi cần đến lại nằm ngay sau cánh cửa này. Không còn con đường nào khác dẫn tới điểm chỉ định, nên chúng tôi chẳng còn cách nào khác. Ý đồ của Hội đã quá rõ ràng: muốn vượt qua bài thi này, thí sinh phải băng qua căn phòng, hạ gục quái vật bên trong rồi mới tiến về đích.
 
-Đó là một cánh cửa chạm trổ hoa văn tinh xảo, khác xa so với vô số cánh cửa mà chúng tôi đã đi qua cho đến tận lúc này. Việc Hội lựa chọn thử thách như vậy rõ ràng là muốn khẳng định rằng những kẻ không có đủ thực lực tương xứng thì không thể trở thành mạo hiểm giả. Dẫu tuyên bố đó có vẻ trịch thượng, nhưng nó lại hoàn toàn đúng đắn. Do đó, ngay cả khi hàm ý của bài kiểm tra có phần khó chịu, người ta cũng chẳng thể phàn nàn được gì nhiều.
+Đó là một cánh cửa chạm trổ hoa văn cầu kỳ, khác hẳn những cánh cửa chúng tôi từng đi qua từ nãy đến giờ. Việc Hội chọn một thử thách như thế này chẳng khác nào lời nhắc nhở rằng những kẻ không có thực lực tương xứng thì đừng hòng làm mạo hiểm giả. Dẫu thông điệp đó nghe có vẻ kẻ cả, nhưng lại hoàn toàn đúng sự thật. Bởi vậy, ngay cả khi ý đồ của bài thi có phần ác ý, người ta cũng chẳng thể bắt bẻ được gì.
 
-"Còn anh thì sao, Rentt? Anh đã từng đi qua những cánh cửa phòng thủ lĩnh bao giờ chưa?"
+"Còn anh thì sao, Rentt? Anh đã đi qua cửa phòng thủ lĩnh lần nào chưa?"
 
-Có lẽ cậu ta tò mò muốn biết người bạn đồng hành cùng thi với mình dạn dày kinh nghiệm đến mức nào. Tôi thản nhiên trả lời câu hỏi của Raiz.
+Có lẽ cậu ta tò mò muốn biết người đồng đội cùng thi với mình dày dạn kinh nghiệm đến đâu. Tôi thản nhiên đáp lời Raiz.
 
-"Rồi, vài... Lần."
+"Rồi, vài... lần."
 
-Căn phòng nơi tôi từng chạm trán Khô Lâu Khổng Lồ trước đây chính xác là một căn phòng như vậy. Chưa kể, đó còn là một loại phòng thủ lĩnh đặc thù mà người ta không thể trốn thoát cho đến khi cư dân bên trong bị đánh bại. Chắc chắn đó không phải là kiểu phòng mà hầu hết các mạo hiểm giả muốn đụng phải.
+Căn phòng nơi tôi từng chạm trán Khô Lâu Khổng Lồ trước đây chính là một nơi như thế. Đã vậy, đó còn là dạng phòng thủ lĩnh đặc biệt, không thể trốn thoát chừng nào chưa đánh bại được con quái vật ngự trị bên trong. Chắc chắn chẳng mạo hiểm giả nào muốn đụng phải loại phòng đó cả.
 
-Dẫu vậy, tôi đã tích lũy gần một thập kỷ kinh nghiệm trong nghề, và nhờ đó, tôi có thừa kinh nghiệm với các phòng thủ lĩnh nói chung. Raiz, do không hề hay biết điều này, đã buột miệng hỏi tôi câu đó mà chẳng nhận ra rằng hỏi như vậy là một sai lầm.
+Dù sao thì tôi cũng đã lăn lộn trong nghề ngót nghét mười năm, nên kinh nghiệm đối phó với phòng thủ lĩnh nói chung tôi chẳng thiếu. Raiz vì không biết điều đó nên mới buột miệng hỏi, mà không nhận ra câu hỏi ấy là một sai lầm.
 
-Đúng như dự đoán, sắc mặt Raiz chùng xuống khi nghe câu trả lời của tôi, có lẽ cậu ta cảm thấy kinh nghiệm của bản thân quá đỗi non nớt. Tôi không khỏi hỏi ngược lại Raiz một câu.
+Đúng như dự đoán, vừa nghe tôi trả lời xong là nét mặt Raiz đã xịu xuống, có lẽ vì tự thấy mình còn quá non nớt. Thấy thế, tôi bèn hỏi ngược lại cậu ta:
 
-"...Cậu thấy bất an sao...? Nếu vậy... Chúng ta có thể... Rút lui."
+"...Cậu thấy... bất an sao? Nếu vậy... chúng ta có thể... rút lui."
 
-Dĩ nhiên, luôn có sự lựa chọn. Dù muốn nhanh chóng thăng hạng và không hề muốn rút lui, nhưng tôi nhận thấy bản thân lo lắng về việc đẩy những người trẻ tuổi này vào hiểm nguy. Dù đang vội, tôi cũng chẳng nhẫn tâm đến mức đánh đổi tương lai của họ chỉ để tiết kiệm chút ít thời gian. Dù sao thì tôi cũng mới 25 tuổi. Chắc chắn tôi vẫn còn khối thời gian...
+Dĩ nhiên, lúc nào người ta cũng có quyền lựa chọn. Dù muốn thăng hạng thật nhanh và không hề muốn bỏ cuộc, nhưng tôi vẫn không khỏi bận tâm khi để hai đứa trẻ này vướng vào hiểm nguy. Dù đang vội, tôi cũng đâu nhẫn tâm đến mức đem tương lai của chúng ra đánh đổi lấy chút thời gian. Dẫu sao thì tôi cũng mới hai mươi lăm tuổi thôi mà. Hẳn là tôi vẫn còn khối thời gian...
 
-Tôi khựng lại, tự hỏi đôi chút về việc tuổi thọ của mình đã bị ảnh hưởng ra sao khi bản thân giờ đây là một Undead. Lẽ dĩ nhiên là chẳng có câu trả lời sẵn nào, nên tôi tạm gác những suy nghĩ ấy sang một bên.
+Tôi thoáng khựng lại, hơi băn khoăn không biết việc bản thân đã thành Undead có ảnh hưởng gì tới tuổi thọ hay không. Lẽ dĩ nhiên chẳng thể có câu trả lời ngay lúc này, nên tôi đành tạm gác chuyện đó sang một bên.
 
-Raiz ngẩng đầu lên trước câu hỏi của tôi.
+Nghe tôi hỏi, Raiz ngẩng đầu lên.
 
-"Tôi không thể làm thế, lúc này thì không. Nếu bây giờ tôi bỏ chạy... tôi có cảm giác mình sẽ chẳng bao giờ có thể quay trở lại nữa..." cậu ta nói, trong giọng nói nghe rõ nét quyết tâm.
+"Tôi không thể làm thế, nhất là lúc này. Nếu giờ bỏ chạy... tôi có cảm giác mình sẽ chẳng bao giờ quay lại được nữa..." Cậu ta nói, giọng lộ rõ vẻ kiên quyết.
 
-Tôi cho rằng Raiz có lý, bởi những mạo hiểm giả một khi đã bị bẻ gãy ý chí dù chỉ một lần đều sẽ trở nên yếu đuối. Trong một số trường hợp, các mạo hiểm giả quả thực đã trở nên mạnh mẽ hơn sau khi tôi luyện lại bản thân, nhưng cũng có những trường hợp điều đó đơn giản là vĩnh viễn không thể xảy ra. Có lẽ đó là lý do Raiz thốt ra những lời vừa rồi, khi bản năng sâu thẳm trong lòng cậu ta đã tự nhận thức được điều đó.
+Tôi nghĩ Raiz nói có lý. Mạo hiểm giả một khi đã bị bẻ gãy ý chí thì sẽ rất dễ trở nên nhụt chí. Có người sau khi xốc lại tinh thần thì mạnh mẽ hơn thật, nhưng cũng không ít kẻ vĩnh viễn chẳng thể gượng dậy được nữa. Có lẽ sâu thẳm trong lòng, Raiz đã theo bản năng mà linh cảm được điều đó nên mới nói vậy.
 
-Từ những gì ít ỏi tôi quan sát được về tính cách của cậu ta trong khoảng thời gian đồng hành ngắn ngủi, tôi đã có thể nhận ra quay đầu không phải là một lựa chọn; câu hỏi thăm của tôi chỉ mang tính xã giao mà thôi. Nếu cậu ta không muốn chạy trốn và đã chuẩn bị sẵn sàng cho những thử thách phía trước, thì vậy là đủ rồi.
+Qua chút ít tính cách bộc lộ trong khoảng thời gian ngắn đồng hành cùng nhau, tôi thừa biết quay đầu vốn không phải lựa chọn của cậu ta; câu hỏi vừa rồi của tôi chẳng qua chỉ là hỏi cho phải phép. Nếu cậu ta không muốn trốn chạy và đã chuẩn bị tâm lý đương đầu với thử thách phía trước, thì thế là được rồi.
 
-Tôi gật đầu với Raiz. "Tôi hiểu rồi... Vậy thì... Bấy nhiêu là đủ với tôi. Nhưng... Nếu cậu lo lắng. Tôi có... Một ý này."
+Tôi gật đầu với Raiz. "Tôi hiểu rồi... thế thì... bấy nhiêu là đủ. Nhưng mà... nếu cậu lo lắng. Tôi có... một kế này."
 
 "Hả...?"
 
-Hơi ngửa đầu ra sau, tôi hướng sự chú ý của Raiz về phía hành lang mà chúng tôi vừa đi qua. Quay người lại, Raiz há hốc mồm kinh ngạc—phía sau chúng tôi là bốn mạo hiểm giả đang chậm rãi bước về phía cánh cửa màu đá xám.
+Hơi hất đầu ra sau, tôi ra hiệu cho Raiz nhìn về phía hành lang chúng tôi vừa đi qua. Vừa ngoảnh lại, Raiz đã há hốc mồm: sau lưng chúng tôi là bốn mạo hiểm giả đang lững thững tiến về phía cánh cửa đá xám.
 
 "Mấy tên đó..."
 
-"Có lẽ là... Các mạo hiểm giả... Khác. Chúng ta chỉ cần... Để họ. Đi trước."
+"Có lẽ là... mạo hiểm giả... khác. Chúng ta cứ... để họ... đi trước."
 
-Trước lời tôi nói, mắt Raiz lại trợn tròn một lần nữa. Miệng cậu ta, lẽ dĩ nhiên, vẫn chưa kịp khép lại.
+Nghe tôi nói, mắt Raiz lại trố ra lần nữa, còn cái miệng thì dĩ nhiên vẫn chưa kịp khép lại.
 
 ◆◇◆◇◆
 
-"...Hả? Gì thế này? Mấy đứa nhóc ranh với một tên dị hợm đeo mặt nạ... Thú vị đấy chứ," một trong số các mạo hiểm giả lên tiếng, rõ ràng là kẻ cầm đầu nhóm bốn người.
+"...Hả? Cái gì thế này? Mấy đứa nhóc ranh với một gã quái dị đeo mặt nạ... Thú vị đấy chứ," một gã mạo hiểm giả lên tiếng, có vẻ là kẻ cầm đầu nhóm bốn người.
 
-Raiz, tức giận trước những lời lẽ của gã đàn ông cũng là điều dễ hiểu, đã chuẩn bị sẵn lời đáp trả. Tuy nhiên, tôi ngăn cậu ta lại, thay vào đó bình thản cất lời.
+Bị xúc phạm, Raiz nổi giận toan cãi lại cũng là điều dễ hiểu. Nhưng tôi đã đưa tay cản cậu lại, rồi bình thản đáp thay:
 
-"Chúng tôi cũng... Là thí sinh. Tôi không thể nói... Là mình thích. Giọng điệu đó... Của các người."
+"Chúng tôi... cũng là thí sinh. Tôi chẳng... ưa nổi... cái giọng điệu đó... của các người đâu."
 
-"...Hừ. Nghe giọng mày đúng là một tên quái dị không trượt đi đâu được. Cũng là thí sinh cơ à? Nghe cho rõ điểm khác biệt đây, cái mặt xương xẩu kia: bọn tao mới là những kẻ vượt qua thử thách này, chứ không phải mày. Đừng có tưởng dù chỉ một giây rằng bọn tao cùng đẳng cấp với bọn mày... Hô? Một trong mấy đứa nhóc sau lưng mày nhìn kỹ thì cũng dễ thương đấy chứ. Sao hả cô em? Đi cùng bọn anh đi, bảo đảm em sẽ vượt qua bài kiểm tra chắc cú luôn—hử?"
+"...Hừ. Nghe giọng mày đúng là quái thai thật đấy. Bảo cũng là thí sinh à? Khác biệt ở chỗ này này, cái mặt đầu lâu kia: bọn tao mới là những kẻ đỗ bài thi này, chứ không phải mày. Đừng có mơ tưởng dù chỉ một giây rằng bọn tao chung mâm với tụi mày... Ồ? Con bé sau lưng mày nhìn kỹ hoá ra cũng xinh xắn đấy chứ. Sao hả cô em? Đi cùng bọn anh đi, đảm bảo qua bài kiểm tra chắc ăn luôn, chịu không?"
 
-Gã đàn ông bước lại gần Laura, khiến cô nhanh chóng nép sau lưng tôi, chẳng thèm bận tâm trả lời câu hỏi của gã. Lộ rõ vẻ bực tức trước phản ứng của cô, gã đàn ông toan rút thanh kiếm của mình ra. Thế nhưng lưỡi kiếm của tôi đã kề sát cổ họng gã, mũi kiếm ánh lên sắc lạnh dưới ánh sáng mờ ảo của hành lang mê cung.
+Gã đàn ông sấn lại gần Laura, khiến cô bé vội nép sau lưng tôi, chẳng buồn trả lời câu hỏi của gã. Thấy phản ứng đó, gã ta lộ rõ vẻ bực tức, toan rút kiếm ra. Nhưng kiếm của tôi đã kề sát cổ họng gã từ bao giờ, lưỡi thép ánh lên sắc lạnh dưới thứ ánh sáng lờ nhờ nơi hành lang mê cung.
 
-"N-Này này...?! Bỏ cái thứ đó xuống. Chỉ là đùa thôi mà! Ừ, đùa thôi..."
+"N-Này này...?! Bỏ cái đó xuống đi. Chỉ là đùa thôi mà! Ừ, trêu tí thôi..."
 
-"Thế... Sao. Tôi xin... Lỗi. Khiếu hài hước... Của tôi hơi tệ."
+"Thế... sao. Tôi xin... lỗi. Khiếu hài hước... của tôi hơi kém."
 
-"Đ-Đúng thế... Lỗi của tao. Tao sẽ không làm gì nữa đâu. Thế nên làm ơn, cất cái thứ đó đi..."
+"Ừ-Ừ... Lỗi của tôi. Tôi sẽ không làm càn nữa đâu. Nên là làm ơn, cất thứ đó đi..."
 
 "...Hừm."
 
-Vẫn găm chặt ánh mắt vào gã đàn ông, tôi từ từ hạ kiếm xuống, lùi lại một bước. Về phần mình, gã đàn ông thở phào nhẹ nhõm, bờ vai buông thõng thấy rõ. Có vẻ như gã ta còn nhát gan hơn cả những gì tôi từng nghĩ.
+Vẫn dán chặt mắt vào gã đàn ông, tôi từ từ hạ kiếm, lùi lại một bước. Gã nọ thở phào nhẹ nhõm, hai vai chùng xuống thấy rõ. Xem chừng gã còn nhát gan hơn tôi tưởng.
 
-"Vậy thì...? Phía trước là phòng thủ lĩnh phải không? Chẳng phải các nhóm thí sinh sẽ tiến vào theo từng đội riêng rẽ sao...?" gã đàn ông hỏi, giọng điệu đã bình tĩnh hơn.
+"Thế... phía trước là phòng thủ lĩnh rồi nhỉ? Chẳng phải các nhóm thí sinh phải vào từng đội riêng rẽ sao...?" Gã đàn ông hỏi, giọng đã trấn tĩnh hơn nhiều.
 
-"...Không. Xin mời... Đi trước. Chúng tôi định... Nghỉ ngơi một... Chút. Rồi sẽ... Theo sau."
+"...Không. Mời các người... cứ đi trước. Chúng tôi định... nghỉ một... lát. Rồi sẽ... theo sau."
 
-"Hả? Mày không nghe thông báo đội đầu tiên cán đích sẽ thắng à? Mày cứ thế nhường cho bọn tao sao?"
+"Hả? Mày không nghe dặn đội đầu tiên cán đích là thắng à? Định nhường không cho bọn tao đấy à?"
 
-"...Đúng vậy. Cứ như lời... Anh nói."
+"...Phải. Cứ như... lời anh nói."
 
-"Thật thế à...? Thế thì bọn tao đi trước đây nhé? Này tụi bây! Đi thôi!" gã đàn ông hô lớn, dẫn đám mạo hiểm giả của mình bước qua cánh cửa phòng thủ lĩnh và tiến vào bên trong.
+"Thật thế à...? Thế thì bọn tao đi trước đấy nhé? Tụi bây! Đi thôi!" Gã đàn ông hô to, dẫn nhóm mạo hiểm giả của mình bước qua cánh cửa phòng thủ lĩnh vào trong.
 
-Raiz, nãy giờ vẫn giữ im lặng, cuối cùng cũng lên tiếng thắc mắc khi nhóm bốn người bước qua cánh cửa phòng thủ lĩnh lúc này đã mở toang.
+Raiz im lặng nãy giờ, đến khi nhóm bốn người bước qua cánh cửa phòng thủ lĩnh đã mở toang mới lên tiếng thắc mắc:
 
-"...Làm vậy có thật sự ổn không, Rentt?"
+"...Làm vậy có ổn thật không, Rentt?"
 
-"Ý cậu... Là sao?"
+"Ý cậu... là sao?"
 
-"Ý tôi là chuyện để họ đi trước ấy... Chẳng phải chúng ta đến đây nhanh hơn họ sao?"
+"Ý tôi là chuyện nhường họ đi trước ấy... Chẳng phải chúng ta đến đây trước họ sao?"
 
-Dù điều này hoàn toàn trùng khớp với lời mô tả về nhiệm vụ mà Hội đã đưa ra, nhưng một lần nữa, cách dùng từ của họ lại có điểm bất thường. Tuy nhiên, vì mục đích đảm bảo tính công bằng và trọn vẹn cho bài kiểm tra này, tôi quyết định giữ kín sự thật đó cho riêng mình. Theo như tôi thấy, cả Raiz lẫn Laura đều chưa nhận ra điều đó.
+Dù lời Raiz nói hoàn toàn khớp với thể lệ bài thi do Hội đưa ra, nhưng một lần nữa, cách diễn đạt của họ lại có điểm bất thường. Song để giữ đúng ý nghĩa của bài kiểm tra này, tôi quyết định giữ kín điều đó. Theo tôi thấy thì cả Raiz lẫn Laura đều chưa nhận ra.
 
-Và vì vậy tôi nói: "...Hãy ngẫm nghĩ... Một lát xem. Thử nhớ lại... Lời nhân viên... Của Hội. Đã nói."
+Thế nên tôi bảo: "...Cậu ngẫm lại... một chút xem. Thử nhớ lại... những gì nhân viên... của Hội... đã nói đi."
 
-Laura là người phản ứng đầu tiên khi vẻ hiểu ra dường như bừng sáng trên gương mặt cô. Có vẻ như cô đã hiểu thấu, toan quay sang Raiz định giải thích. Nhưng tôi khẽ lắc đầu, ra hiệu cho Laura hãy giữ kín suy nghĩ của mình.
+Laura là người phản ứng trước tiên, nét mặt cô bé thoáng vẻ vỡ lẽ. Dường như đã hiểu ra vấn đề, cô toan quay sang giải thích cho Raiz. Nhưng tôi khẽ lắc đầu, ra hiệu cho cô đừng vội nói.
 
-Hiểu rõ tính cách quá đỗi bộc trực và thẳng thắn của Raiz, việc để cậu ta bận tâm suy nghĩ quá nhiều về một vấn đề sẽ trở thành sự xao nhãng không đúng lúc. Điều này là vì lợi ích của chính cậu ta, và Laura dường như cũng hiểu được điều đó nên chỉ mỉm cười giữ im lặng.
+Tôi biết tính Raiz vốn quá đỗi bộc trực và thẳng thắn, để cậu ta nghĩ ngợi lôi thôi lúc này chỉ tổ khiến cậu phân tâm không đáng có. Làm vậy là tốt cho cậu ta, và Laura dường như cũng hiểu ý nên chỉ mỉm cười im lặng.
 
-Cứ thế, chúng tôi rảo bước về phía cánh cửa. Chúng, lẽ dĩ nhiên, vẫn đang mở. Cánh cửa mở toang hoàn toàn không có gì kỳ lạ, bởi loại phòng thủ lĩnh đặc biệt này không phải là loại tự phong tỏa không lối thoát mà tôi từng thấy mình bị mắc kẹt trước đây. Trên thực tế, chúng tôi đứng ở một vị trí vô cùng thuận lợi ngay bên ngoài lối vào để quan sát trận chiến bên trong.
+Thế là chúng tôi bước lại gần cánh cửa. Dĩ nhiên cửa vẫn đang mở toang. Điều này chẳng có gì lạ, bởi căn phòng thủ lĩnh này không thuộc loại tự phong tỏa nhốt chặt người ta bên trong như nơi tôi từng mắc kẹt trước đây. Trái lại, đứng ngay ngoài lối vào còn cho chúng tôi một góc nhìn cực kỳ thuận lợi để quan sát trận chiến bên trong.
 
-Nhìn thấy cảnh này, Raiz gật đầu, rõ ràng đã bị thuyết phục rằng hành động của chúng tôi là hoàn toàn đúng đắn.
+Thấy vậy, Raiz gật gù, xem chừng đã bị thuyết phục rằng cách làm của chúng tôi là hoàn toàn đúng đắn.
 
-"...Vậy ra, Rentt, ý anh bảo tôi tận mắt chứng kiến cảnh này thì sẽ không còn lo lắng nữa sao?"
+"...Nghĩa là, Rentt, anh muốn tôi nhìn thấy cảnh này để bớt lo lắng à?"
 
-Tôi khẽ gật đầu với Raiz. "Chỉ là... Đi thám thính một chút thôi. Raiz."
+Tôi chỉ khẽ gật đầu với Raiz. "Chỉ là... đi thám thính... chút thôi. Raiz."
 
-Ngay khi tôi vừa dứt lời, một con quái vật to lớn xuất hiện trước mặt nhóm mạo hiểm giả, và chẳng mấy chốc, trận chiến của họ với cư dân ngoại cỡ của phòng thủ lĩnh chính thức bắt đầu.
+Tôi vừa dứt lời thì một con quái vật đồ sộ đã xuất hiện trước mặt nhóm mạo hiểm giả nọ, và trận chiến giữa họ với kẻ ngự trị khổng lồ trong phòng thủ lĩnh lập tức bùng nổ.
 
 ◆◇◆◇◆
 
-"Nào... Vậy thì. Chúng ta... Đi thôi." Xác nhận trận chiến bên trong căn phòng đã ngã ngũ, tôi xoay người lại nói với các bạn đồng hành của mình.
+"Được rồi... vậy thì. Chúng ta... đi thôi." Nhận thấy trận chiến trong phòng đã ngã ngũ, tôi quay lại bảo hai người bạn đồng hành.
 
-"Khoan, khoan, khoan đã! Đợi một chút đã Rentt! Này! Nhìn... Nhìn cái này xem! Thế này thì có giúp ích được gì đâu chứ!" Raiz hốt hoảng vừa đuổi theo tôi vừa nói.
+"Khoan, khoan đã! Chờ chút đã Rentt! Này! Nhìn... nhìn xem kìa! Thế này thì bớt lo nỗi gì chứ!" Raiz cuống cuồng chạy đuổi theo tôi.
 
-Quay người lại, tôi hơi nghiêng đầu một cách khoa trương rồi đưa ra câu trả lời đơn giản.
+Tôi quay lại, hơi nghiêng đầu ra chiều ngạc nhiên rồi bình thản hỏi:
 
-"...Hửm. Thật... Sự là, như vậy sao...?" tôi hỏi lại, vờ như phớt lờ những gì chúng tôi vừa tận mắt chứng kiến.
+"...Hửm. Thật... sự là, vậy sao...?" Tôi hỏi, vờ như không thấy những gì vừa diễn ra trước mắt.
 
-Mặt khác, Laura bình thản đứng nhìn, cô khẽ thở dài rồi đưa ra nhận định của riêng mình.
+Trái lại, Laura vẫn bình thản đứng nhìn, cô bé khẽ thở dài buông lời nhận xét:
 
-"...Mấy người đó yếu hơn tôi tưởng... Không những bị tiêu diệt trong chớp mắt, họ còn được cứu ra nữa... Những người lúc nãy, mấy người mặc đồ đen ấy, họ là nhân viên của Hội phải không anh?"
+"...Mấy người đó yếu hơn tôi tưởng... Không những bị hạ gục trong chớp mắt mà còn phải để người ta cứu ra nữa... Mấy người áo đen lúc nãy là nhân viên của Hội phải không anh?"
 
-Nhận định của Laura về cơ bản là hoàn toàn chính xác. Nhóm bốn người đi trước chúng tôi chẳng thể hiện được chút gì ra hồn. Dù chúng tôi đã chọn vị trí quan sát để thăm dò chiến thuật của họ và vạch ra kế hoạch cho riêng mình trong lúc đứng xem, nhưng cả bốn người bọn họ đã thua cuộc ngay trước khi chúng tôi kịp bắt đầu thảo luận.
+Nhận định của Laura nhìn chung chẳng sai chút nào. Nhóm bốn người đi trước chúng tôi quả thực chẳng thể hiện được chút gì ra hồn. Dù cả nhóm đã chọn sẵn chỗ đứng để thăm dò chiến thuật của họ hòng vạch ra đối sách cho mình, nhưng bốn người kia đã bại trận trước cả khi chúng tôi kịp mở miệng bàn bạc.
 
-Đúng lúc chúng tôi ngỡ như sắp phải chứng kiến một cái chết sau đòn tấn công đặc biệt hung hãn từ con quái vật bên trong, hai bóng người trùm kín đồ đen từ đầu đến chân liền lao vào can thiệp. Họ không chỉ né tránh gọn gàng các đòn đánh của con quái vật, mà còn nhanh chóng túm lấy từng người một trong số các mạo hiểm giả đã ngã gục để mang ra ngoài. Tôi cho rằng điều này là đương nhiên, xét đến thực tế là bài kiểm tra đã quy định rõ không được để xảy ra thương vong về tính mạng. Tuy nhiên, việc được tận mắt chứng kiến nhân viên Hội ra tay hành động quả thực mang lại cảm giác vô cùng siêu thực.
+Ngay lúc chúng tôi ngỡ sắp phải chứng kiến cảnh mất mạng trước một đòn tấn công cực kỳ hung hãn của con quái vật, hai bóng người trùm đồ đen kín mít từ đầu đến chân liền lao vào can thiệp. Họ không chỉ né gọn các đòn đánh của quái vật, mà còn kịp tóm lấy từng mạo hiểm giả đang nằm gục để lôi ra ngoài. Tôi nghĩ chuyện này cũng dễ hiểu thôi, bởi kỳ thi đã quy định rõ là tuyệt đối không để xảy ra chết chóc. Có điều, việc tận mắt chứng kiến nhân viên Hội ra tay hành động quả thực mang lại cảm giác lạ lùng khó tả.
 
-Dẫu có nhiều lý do hiện lên trong đầu khi xem xét nguyên nhân thất bại của họ, nhưng yếu tố then chốt vẫn là thực lực, hay nói chính xác hơn là sự thiếu hụt thực lực. Người ta phải vượt qua vô số cạm bẫy và những chướng ngại tương tự mới có thể đến được nơi này. Nhóm mạo hiểm giả đó có lẽ chuyên về trinh sát hoặc chiến tranh thông tin, đồng nghĩa với việc năng lực chiến đấu của họ tình cờ có phần khiếm khuyết. Dù vậy, điều này hoàn toàn có thể khắc phục được thông qua quá trình rèn luyện. Thật đáng tiếc, nhưng ít nhất thì họ cũng không phải bỏ mạng trong cuộc chạm trán này.
+Nếu muốn mổ xẻ nguyên nhân thất bại của họ thì có khối điều để nói, song yếu tố then chốt vẫn nằm ở thực lực, hay nói cho đúng hơn là thiếu thực lực. Muốn tới được đây, người ta đã phải vượt qua vô số bẫy rập cùng những chướng ngại tương tự. Nhóm mạo hiểm giả đó có lẽ chuyên về trinh sát hoặc thu thập tin tức, thành thử kỹ năng thực chiến mới có phần kém cạnh. Dẫu vậy, điểm yếu này hoàn toàn có thể bù đắp qua rèn luyện. Dù đáng tiếc, nhưng ít nhất họ cũng không mất mạng trong cuộc chạm trán này.
 
-Tuy nhiên, tôi không khỏi nảy sinh chút hoài nghi về việc để Raiz chứng kiến toàn bộ diễn biến vừa rồi. Có lẽ chuyện đó chẳng mang lại tác dụng gì ngoài việc khiến cậu ta càng thêm lo lắng. Để cho chắc, tôi chuyển ánh nhìn về phía cậu ta.
+Tuy nhiên, tôi cũng thầm phân vân liệu để Raiz chứng kiến cảnh tượng vừa rồi có phải quyết định đúng đắn hay không. Biết đâu làm thế chỉ tổ khiến cậu ta lo thêm. Để cho chắc, tôi liền liếc mắt nhìn sang phía cậu.
 
-"...Anh biết không Rentt, tôi thấy mình thật ngốc nghếch khi cứ lo lắng. Dù tôi không mạnh mẽ đến thế... nhưng tôi cũng đâu dễ dàng bị hạ gục như vậy, đúng không?"
+"...Rentt này, tự dưng tôi thấy mình lo bò trắng răng thật đấy. Dù tôi chẳng mạnh mẽ gì... nhưng làm sao mà dễ bị hạ đo ván đến mức đó được, đúng không?"
 
-Cậu ta giữ một cái nhìn lạc quan đến bất ngờ. Dù người ta có thể cho rằng lời tuyên bố của Raiz là hành vi xốc nổi, nhưng thực tế lại không hẳn như vậy. Cả Raiz lẫn Laura đều sở hữu kỹ năng đáng nể so với lứa tuổi của họ, ngay cả khi so sánh giữa vô số mạo hiểm giả tham gia bài thi này. Trên thực tế, họ có thừa năng lực và sức mạnh để tự mình vượt qua bài kiểm tra, và tôi hoàn toàn có thể tin chắc rằng họ đã nằm trong nhóm những người đứng đầu ở phân cấp mạo hiểm giả của mình. Đây chính là lý do tôi giữ im lặng về sức mạnh tương đối của con trùm trong căn phòng này, bởi việc để hai người họ tự mình nhận ra sẽ tốt hơn nhiều.
+Cậu ta lạc quan đến bất ngờ. Người ngoài nghe Raiz tuyên bố thế có lẽ sẽ bảo cậu hung hăng xốc nổi, song thực tế lại không hẳn như vậy. So với lứa tuổi của mình, cả Raiz lẫn Laura đều sở hữu thực lực rất đáng gờm, kể cả khi đặt cạnh dàn thí sinh tham gia kỳ thi này. Trình độ và năng lực của hai người họ vốn thừa sức tự mình vượt qua bài thi, và tôi dám chắc họ đã thuộc hàng top trong phân cấp mạo hiểm giả của mình rồi. Đó cũng là lý do tôi không hé răng về thực lực của quái vật thủ lĩnh trong phòng, bởi để cả hai tự mình nhận ra thì vẫn tốt hơn.
 
-Tinh thần của họ giờ đã được vực dậy đầy đủ, tôi nghĩ sẽ không còn mối lo hai người họ bị đông cứng người vì khiếp sợ trước con quái vật đó nữa.
+Thấy tinh thần của cả hai đã được xốc lại đàng hoàng, tôi nghĩ bụng chắc chẳng còn nỗi lo hai đứa bị cóng người trước con quái vật kia nữa.
 
-"...Vậy thì. Chúng ta... Đi chứ? Quyết định... Là ở. Hai người."
+"...Vậy thì. Chúng ta... đi chứ? Quyết định... là ở... hai người."
 
-Nhìn họ lúc này, khó ai có thể nhận ra rằng mới chỉ vài phút trước, cả hai vẫn còn đang thấp thỏm lo âu.
+Nhìn hai người lúc này, khó ai tin được mới chỉ vài phút trước, cả hai vẫn còn đang hết sức lo lắng.
 
-"Đúng thế! Tôi sẽ không thua đâu, chẳng giống mấy gã đó đâu!" "Vâng! Lát nữa chúng ta hãy kể cho họ nghe chuyện mình đã vượt qua thế nào nhé!" Raiz và Laura cùng thốt lên, giương cao vũ khí của mình lên không trung.
+"Đúng thế! Tôi sẽ không thua đâu, đâu có như mấy gã đó!" "Vâng! Lát nữa thi đỗ rồi, chúng ta hãy kể cho họ nghe nhé!" Cả Raiz lẫn Laura cùng hào hứng hô to, giương cao vũ khí lên trời.
