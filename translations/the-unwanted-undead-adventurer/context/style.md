@@ -16,6 +16,24 @@
 - Từ cảm thán, tiếng kêu (Kuk, Ugh, Tsk...) chuyển sang dạng tiếng Việt tương ứng (Hự, Ối, Chậc...), thống nhất theo bảng dưới.
 - Không thêm thắt nội dung, không tóm tắt, không kiểm duyệt.
 
+## Lỗi văn dịch máy cần tránh
+
+User đọc lại và thấy bản dịch còn cứng, máy móc. Khi dịch hoặc trau chuốt, soát kỹ các kiểu lỗi sau. Mục tiêu: người đọc không nhận ra đây là truyện dịch.
+
+1. **Bê nguyên cấu trúc câu tiếng Anh.** Câu "X had other ideas" thì không dịch thành "X lại không nghĩ vậy". Hiểu ý câu gốc rồi nói lại theo cách người Việt nói. Các lối nói bóng của tiếng Anh (vật vô tri "nghĩ", "quyết định", "từ chối"...) chỉ giữ khi tiếng Việt đọc vẫn tự nhiên và vẫn giữ được cái duyên.
+2. **Mệnh đề phân từ treo đầu câu.** "Khom người xuống, tôi lục tìm...", "Thong dong tiến lại gần, hai con quái vật..." là cấu trúc tiếng Anh. Viết lại thành chuỗi hành động: "Tôi khom người lục tìm...", "Hai con quái vật thong thả tiến lại gần...". Đặc biệt không để chủ ngữ của vế phân từ khác chủ ngữ câu chính.
+3. **Danh từ hoá thừa.** Bớt "việc", "sự", "điều", "tính", "quá trình" khi động từ hay tính từ diễn đạt được. Ví dụ "việc tôi rời đi" → "tôi rời đi"; "sự tồn tại phi nhân tính" → "sống không còn tính người".
+4. **Bị động thừa.** Bớt "bị", "được" và "được tiến hành" khi câu chủ động tự nhiên hơn.
+5. **Lạm dụng gạch ngang "—".** Raw tiếng Anh dùng em dash dày đặc, còn tiếng Việt thì ít. Thay bằng dấu phẩy, hai chấm, ba chấm hoặc tách câu. Chỉ giữ "—" khi lời nói bị ngắt ngang đột ngột hoặc cần một quãng ngắt mạnh có chủ ý.
+6. **Đại từ và sở hữu thừa.** Tiếng Việt hay lược chủ ngữ. Không lặp "tôi", "nó", "ông ta" ở đầu mỗi vế. Bớt "của tôi", "của mình" khi ngữ cảnh đã rõ: "thanh kiếm của tôi" → "kiếm của tôi" hoặc "thanh kiếm".
+7. **Từ nối dịch máy.** Không mở câu liên tục bằng "Tuy nhiên", "Dẫu vậy", "Ngoài ra", "Trên thực tế", "Nói cách khác", "Thêm vào đó". Đổi sang "Nhưng", "Có điều", "Vả lại", "Mà", hoặc bỏ hẳn khi mạch văn đã tự nối.
+8. **Cụm sáo, khuôn văn bản.** Những cụm như "người ta hẳn có thể hiểu được tại sao", "điểm mấu chốt ở đây là", "nói giảm nói tránh nhất cũng phải dùng từ", "xét trên mọi phương diện", "một cách + tính từ" thì thay bằng lối nói gọn, có hồn hơn.
+9. **Hư từ thừa.** Bớt "đã", "đang", "sẽ", "rồi", "những", "các", "một" khi không cần đánh dấu thì hay số.
+10. **Lời thoại phải như người thật nói.** Câu ngắn, dùng tiểu từ (nhỉ, nhé, đấy, chứ, mà, cơ, thôi), không viết như văn bản hành chính. Mỗi nhân vật có giọng riêng: Rentt đĩnh đạc và hơi tự giễu, Lorraine sắc sảo và hay trêu, người thô lỗ thì nói cộc.
+11. **Thành ngữ, cách nói ví von.** Dịch nghĩa sang thành ngữ hoặc cách nói tiếng Việt tương đương. Không dịch từng chữ.
+12. **Nhịp câu.** Câu dài nhiều mệnh đề thì tách ra. Nhiều câu cụt liền nhau thì gộp lại. Đọc thầm cả đoạn: chỗ nào vấp thì viết lại.
+13. **Độc thoại tự giễu của Rentt phải giữ được duyên.** Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng hài. Vẫn không được thêm ý mới.
+
 ## Từ cảm thán / cách nói cố định
 
 | EN | VI | Ghi chú |
