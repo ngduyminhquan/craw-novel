@@ -18,7 +18,8 @@ manager (bạn) ──► orchestrator agy (gemini-4-argon-medium)
 ```
 
 - Mỗi panel con xong thì orchestrator kiểm tra phạm vi và QA, rồi commit và push (`style(translate): ...`).
-- Panel trau chuốt **không đổi thuật ngữ hay cặp xưng hô đã chốt**, chỉ đề xuất. Panel được thêm quy luật văn phong vào mục "Lỗi văn dịch máy cần tránh" của `style.md` và sửa lỗi nhỏ trong `characters.md`.
+- Tiêu chí chung là `.agents/skills/novel-translate/natural-vietnamese.md`, danh sách lỗi văn dịch máy dùng cho mọi truyện. Panel không sửa file này, chỉ manager bổ sung khi một lỗi lặp lại ở nhiều truyện.
+- Panel trau chuốt **không đổi thuật ngữ hay cặp xưng hô đã chốt**, chỉ đề xuất. Panel được thêm quy luật văn phong riêng của truyện vào `style.md` và sửa lỗi nhỏ trong `characters.md`.
 - Panel review nhận "nhận xét chung về lỗi lặp lại". Orchestrator chép nhận xét đó vào brief của các panel trau chuốt ở vòng sau.
 
 ## Chạy một phase
@@ -38,14 +39,13 @@ bash .agents/skills/herdr-spawn/scripts/wait-report.sh <name> --idle-grace 3600 
 
   Sau đó nó đóng pane cũ cùng tên và spawn orchestrator. Chương chưa dịch trong khoảng sẽ tự bị bỏ qua.
 - Tên mặc định là `orch-pl`. Chạy song song nhiều truyện thì đặt `--name` riêng cho từng truyện.
-- Truyện chưa có mục "Lỗi văn dịch máy cần tránh" trong `context/style.md` thì nên thêm trước. Xem bản mẫu trong `translations/the-unwanted-undead-adventurer/context/style.md`. Nếu chưa có, brief trau chuốt dùng danh sách rút gọn ở cuối brief.
 
 ## Sau mỗi phase (manager)
 
 1. Đọc báo cáo `.herdr/reports/<name>.md`: đánh giá chất lượng từng chương, lỗi lặp lại, đề xuất đổi thuật ngữ hay xưng hô.
 2. Kiểm tra phạm vi: `git diff --name-only $(cat .herdr/tasks/orch-pl-AAA-BBB.base)..origin/main` chỉ được có `translations/<slug>/` và `index.json`, không có file trong `vi/images/`.
 3. `python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> verify A-B --status reviewed`.
-4. Đọc mẫu vài đoạn đã sửa và so với raw. Lỗi văn phong lặp lại thì tự sửa, và bổ sung vào `style.md` nếu là quy luật chung.
+4. Đọc mẫu vài đoạn đã sửa và so với raw. Lỗi văn phong lặp lại thì tự sửa. Quy luật riêng của truyện thì ghi vào `style.md`, quy luật chung cho mọi truyện thì ghi vào `natural-vietnamese.md`.
 5. Đề xuất đổi thuật ngữ hay xưng hô thì quyết theo mục "Quyết định" của `novel-orchestrator`. Áp dụng cho mọi chương bị ảnh hưởng, hoặc đưa user quyết nếu đụng vào quyết định của user.
 6. Commit và push phần đã sửa. Đóng pane orchestrator.
 

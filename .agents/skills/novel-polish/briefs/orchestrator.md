@@ -50,7 +50,7 @@ Mỗi lúc chỉ một panel làm việc. Commit xong mới mở panel tiếp th
 Ghi vào file báo cáo của bạn, gồm:
 - các chương đã trau chuốt và đã review, kèm commit;
 - đánh giá chất lượng từng chương, lấy từ báo cáo review;
-- lỗi lặp lại phổ biến và thay đổi đã thêm vào `style.md`;
+- lỗi lặp lại phổ biến và thay đổi đã thêm vào `style.md`; lỗi nào mang tính chung cho mọi truyện thì ghi riêng, để manager cân nhắc bổ sung vào `natural-vietnamese.md`;
 - các đề xuất đổi thuật ngữ hay xưng hô chưa áp dụng, mỗi mục một dòng, kèm bằng chứng;
 - lý do dừng.
 Dòng cuối: `STATUS: done`.

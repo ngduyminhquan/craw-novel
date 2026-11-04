@@ -81,7 +81,7 @@ Ghi vào file bản dịch script đã in ra (`translations/<slug>/vi/Chapter_NN
 - Không tự thêm ảnh ngoài raw. Raw hoặc file chương đã có dòng ảnh (`![...](images/...)`) thì giữ nguyên dòng đó và vị trí tương ứng của nó giữa các đoạn dịch.
 - Bỏ ghi chú translator (T/N) của raw. T/N kẹp trong câu thì chỉ bỏ phần ghi chú, vẫn dịch phần truyện của câu đó.
 - Quyết định bỏ hẳn một dòng raw không phải truyện (vd bảng chú giải ký hiệu của bản EN) thì ghi lý do vào `rules.md` và thêm nguyên văn dòng đó vào `raw_ignore_lines` trong `novel.json`, để QA không báo thiếu đoạn.
-- Theo `rules.md` (tên, thuật ngữ, định dạng) và `style.md` (giọng văn). Mỗi lời thoại phải đúng xưng hô trong `pronouns.md` cho cặp người nói/người nghe ở thời điểm của chương.
+- Theo `rules.md` (tên, thuật ngữ, định dạng) và `style.md` (giọng văn). Đọc `natural-vietnamese.md` (cùng thư mục với skill này) trước khi dịch: viết tiếng Việt tự nhiên ngay từ bản đầu, không dịch bám chữ rồi để sửa sau. Mỗi lời thoại phải đúng xưng hô trong `pronouns.md` cho cặp người nói/người nghe ở thời điểm của chương.
 - Chương dài thì ghi file theo nhiều phần nối tiếp, nhưng mỗi phần vẫn dịch đủ.
 
 ### Bước 3 — QA
@@ -96,7 +96,7 @@ python .agents/skills/novel-translate/scripts/qa_check.py <slug> N
 Sau khi script sạch, tự đọc lại bản dịch một lượt và kiểm tra:
 - đại từ người kể dùng cho từng nhân vật có nhất quán không;
 - xưng hô trong mọi lời thoại có đúng cặp và đúng thời điểm không;
-- có câu nào còn văn dịch máy, cứng, sai nghĩa không;
+- có câu nào còn văn dịch máy, cứng, sai nghĩa không, soát theo `natural-vietnamese.md`;
 - câu đùa có còn buồn cười không.
 
 ### Bước 4 — Cập nhật context
@@ -139,13 +139,13 @@ Chạy dưới orchestrator thì **bỏ qua** bước này: orchestrator tự si
 
 Dùng khi được giao review, thường là 3 chương vừa dịch. **Không sửa file bản dịch hay file context.** Kết quả duy nhất là báo cáo.
 
-1. Đọc `rules.md`, `style.md`, `pronouns.md`, cùng các mục liên quan trong `characters.md` và `glossary.md`.
+1. Đọc `rules.md`, `style.md`, `pronouns.md`, cùng các mục liên quan trong `characters.md` và `glossary.md`. Đọc `natural-vietnamese.md` (cùng thư mục với skill này).
 2. Với từng chương, đối chiếu **từng đoạn** bản dịch với raw (đoạn K của bản dịch ứng với đoạn K của raw sau khi bỏ tiêu đề và T/N). Tìm:
    - sai nghĩa, bỏ sót hoặc thêm thắt nội dung;
    - sai xưng hô (sai cặp, sai thời điểm, lệch giữa các chương);
    - đại từ người kể dùng cho nhân vật không nhất quán;
    - thuật ngữ hoặc tên lệch với glossary/characters, hay lệch nhau giữa 3 chương;
-   - câu văn dịch máy, cứng, khó đọc; câu đùa mất duyên;
+   - câu văn dịch máy, cứng, khó đọc, phạm các lỗi trong `natural-vietnamese.md`; câu đùa mất duyên;
    - vi phạm định dạng trong `rules.md`.
 3. Chạy `qa_check.py <slug> <range>` và đưa các cảnh báo đáng chú ý vào báo cáo.
 4. Báo cáo theo đúng mẫu sau, mỗi lỗi một dòng, trích nguyên văn đủ để tìm được chỗ cần sửa. Phần `hiện tại` phải **chép y nguyên** từ file bản dịch, không tóm tắt, không bỏ vế. Phần `đề xuất` chỉ thay đúng đoạn được trích, để người sửa thay thế mà không làm mất chữ xung quanh (nhất là thuật ngữ trong glossary):

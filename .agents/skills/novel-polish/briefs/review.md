@@ -9,14 +9,14 @@ Raw: `__RAW__/Chapter_NNN - *.txt`. Bản dịch: `translations/__SLUG__/vi/Chap
 Xem panel trước đã đổi gì: `git diff __BASE__ -- translations/__SLUG__/` (chỉ đọc, không chạy lệnh git nào khác).
 
 Cách làm:
-1. Đọc kỹ `context/style.md`, nhất là mục "Lỗi văn dịch máy cần tránh". Đọc `context/rules.md`. Với mỗi chương, chạy `python .agents/skills/novel-translate/scripts/prepare.py __SLUG__ N`.
+1. Đọc kỹ `.agents/skills/novel-translate/natural-vietnamese.md` (lỗi văn dịch máy dùng chung) và `context/style.md` (giọng riêng của truyện). Đọc `context/rules.md`. Với mỗi chương, chạy `python .agents/skills/novel-translate/scripts/prepare.py __SLUG__ N`.
 2. Với từng chương, đối chiếu **từng đoạn** với raw và kiểm tra:
    - **trung thành**: lần trau chuốt có làm sai nghĩa, thêm ý hay bỏ sót ý không. Đây là lỗi nặng nhất, sửa theo raw;
-   - **tự nhiên**: còn câu nào đọc ra là văn dịch không. Viết lại;
+   - **tự nhiên**: còn câu nào đọc ra là văn dịch, phạm lỗi trong `.agents/skills/novel-translate/natural-vietnamese.md` không. Viết lại;
    - **giọng nhân vật**: lời thoại có đúng tính cách và đúng cặp xưng hô trong `pronouns.md` không;
    - **nhất quán**: thuật ngữ, tên riêng và cách hành văn có đồng đều giữa các chương không;
    - **sửa quá tay**: câu bị viết hoa mỹ, thêm thắt cảm xúc không có trong raw, hoặc dùng từ Hán Việt nặng thì kéo lại cho mộc.
-3. Kiểm tra các thay đổi context mà panel trước đã làm, trong `style.md` và `characters.md`. Bỏ hoặc sửa mục sai hay trùng ý. Gộp mục "Lỗi văn dịch máy cần tránh" cho gọn nếu bị phình.
+3. Kiểm tra các thay đổi context mà panel trước đã làm, trong `style.md` và `characters.md`. Bỏ hoặc sửa mục sai hay trùng ý. Mục nào trùng ý với `.agents/skills/novel-translate/natural-vietnamese.md` thì bỏ, chỉ giữ quy luật riêng của truyện.
 4. Giữ nguyên số đoạn, dòng tiêu đề, dòng ảnh, dấu phân cách. Không đổi thuật ngữ hay cặp xưng hô đã chốt, nếu cần đổi thì ghi vào mục "Đề xuất" của báo cáo.
 5. Chạy `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ __A__-__B__` cho tới khi hết `[LỖI]`.
 6. Không đổi trạng thái trong `progress.md`. Không sửa chương ngoài __A__–__B__. Không chạy git, ngoài lệnh `git diff` đã nói ở trên.
