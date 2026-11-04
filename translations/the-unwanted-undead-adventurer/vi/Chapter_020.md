@@ -6,23 +6,23 @@ Chúng tôi phải rời khỏi đây. Cụ thể hơn là rời Mê Cung Nguy�
 
 Dù Mê Cung Nguyệt Ảnh chủ yếu là nơi cư ngụ của những quái vật thông thường như Goblin, Khô Lâu và Slime, nhưng thỉnh thoảng vẫn có ngoại lệ, chuyện vừa rồi là minh chứng rõ nhất. Nếu một con Khô Lâu Khổng Lồ khác lại xuất hiện, tôi khó lòng đảm bảo an toàn cho người đàn ông, chứ đừng nói đến chuyện giữ mạng cho ông ta. Vì thế tôi mới đề nghị quay về Maalt. Người đàn ông chẳng có lý do gì để phản đối, liền rảo bước theo sau tôi.
 
-Đúng là đường về cũng có chút đáng lo, nhưng trong lúc người đàn ông ngủ, tôi đã xử lý xong chuyện đó. Sau khi con Khô Lâu Khổng Lồ bị tiêu diệt, một ma pháp trận đã hiện ra; trước đó ở đây vốn chẳng có thứ gì như thế. Dù chưa thử bước vào để xem nó dẫn tới đâu, tôi tin chắc nó chỉ đưa cả hai quay lại căn phòng từng dịch chuyển chúng tôi đến đây. Cứ cho là không phải thế đi nữa thì cùng lắm chúng tôi cũng chỉ cần tìm lối khác—căn phòng này vốn không có lối ra, nên đằng nào cả hai cũng chẳng có nhiều lựa chọn.
+Đúng là đường về cũng có chút đáng lo, nhưng trong lúc người đàn ông còn đang ngủ mê mệt, tôi đã xử lý xong chuyện đó. Sau khi con Khô Lâu Khổng Lồ bị tiêu diệt, một ma pháp trận đã hiện ra; trước đó ở đây vốn chẳng có thứ gì như thế. Dù chưa thử bước vào để xem nó dẫn tới đâu, tôi tin chắc nó chỉ đưa cả hai quay lại căn phòng từng dịch chuyển chúng tôi đến đây. Cứ cho là không phải thế đi nữa thì cùng lắm chúng tôi cũng chỉ cần tìm lối khác—căn phòng này vốn không có lối ra, nên đằng nào cả hai cũng chẳng có nhiều lựa chọn.
 
-Cả hai bước vào ma pháp trận và được đưa trở lại đúng căn phòng xuất phát, khiến tôi thở phào nhẹ nhõm. Sau đó, chặng đường quay về tương đối êm ả. Có lẽ là nhờ người đàn ông giờ đã đổi khác rất nhiều, từ thể lực, lòng can đảm cho tới độ vững vàng của thần kinh dường như đều đã được trui rèn.
+Cả hai bước vào ma pháp trận và được đưa trở lại đúng căn phòng xuất phát, khiến tôi thở phào nhẹ nhõm. Sau đó, chặng đường quay về tương đối êm ả. Có lẽ là nhờ người đàn ông giờ đã đổi khác rất nhiều, từ thể lực, lòng can đảm cho tới tinh thần dường như đều đã vững vàng hơn hẳn.
 
-Có thể nhờ đã tận mắt thấy Khô Lâu Khổng Lồ, hoặc do được tôi chỉ dạy những ngón cơ bản của nghề mạo hiểm giả, người đàn ông giờ vẫn giữ được bình tĩnh kể cả khi quái vật xuất hiện. Ông ta cũng hiểu rõ hơn mình cần phải làm gì trong tình cảnh đó. Dù lúc này vẫn chưa thể đơn đả độc đấu thắng được quái vật, ông ta đã tiến bộ tới mức biết giữ khoảng cách rồi nhanh chóng tìm cơ hội tháo chạy. Nếu tiếp tục tích lũy kinh nghiệm với tốc độ này, chắc chắn ông ta sẽ thăng lên ít nhất là Đồng Cấp trong khoảng hai năm nữa. May thay, người đàn ông không nhất thiết phải làm đến mức đó.
+Có thể nhờ đã tận mắt thấy Khô Lâu Khổng Lồ, hoặc do được tôi chỉ dạy những ngón cơ bản của nghề mạo hiểm giả, người đàn ông giờ vẫn giữ được bình tĩnh kể cả khi quái vật xuất hiện. Ông ta cũng hiểu rõ hơn mình cần phải làm gì trong tình cảnh đó. Dù lúc này vẫn chưa thể đơn đả độc đấu thắng được quái vật, ông ta đã tiến bộ tới mức biết giữ khoảng cách rồi nhanh chóng tìm cơ hội tháo chạy. Nếu tiếp tục tích lũy kinh nghiệm với tốc độ này, chắc chắn ông ta sẽ thăng lên ít nhất là Đồng Cấp trong khoảng hai năm nữa. May mà ông ta cũng chẳng cần phải đi xa đến thế.
 
 Dẫu vậy, tôi thấy ông ta cũng cần phải nắm được chút căn bản về chiến đấu, bởi từ giờ ông ta sẽ thay tôi chạy việc vặt và trả nhiệm vụ ở Hội Mạo Hiểm Giả. Dù những nhiệm vụ đạt đến độ khó nhất định vẫn phải nhờ Lorraine trả giúp, người đàn ông chí ít cũng phải ra dáng một người đủ sức tự lực thám hiểm các tầng nông của mê cung hay khu rừng. Một đòi hỏi như thế cũng hoàn toàn hợp lý.
 
 ◆◇◆◇◆
 
-"... Phù... Cuối cùng cũng ra được ngoài rồi. Cứ như đã lâu lắm rồi tôi mới lại được hít thở không khí bên ngoài vậy... Thấy nhớ ghê, dù mình mới đi có một chốc," người đàn ông vừa nói vừa hít một hơi thật sâu, rảo bước rời khỏi lối vào mê cung.
+"... Phù... Cuối cùng cũng ra được ngoài rồi. Cứ như đã lâu lắm rồi tôi mới lại được hít thở không khí bên ngoài vậy... Thấy bồi hồi ghê, dù tôi mới đi có một chốc," người đàn ông vừa nói vừa hít một hơi thật sâu, rảo bước rời khỏi lối vào mê cung.
 
 Tôi hoàn toàn thông cảm được. Dù sao ông ta cũng vừa bước qua ranh giới sinh tử, giờ rời khỏi chốn nguy hiểm mới có thể thở phào nhẹ nhõm.
 
 Có điều, ngay cả ngoài mê cung thì xung quanh vẫn có quái vật rình rập. Đáng lẽ ra dù đã bước khỏi cửa mê cung cũng không được lơ là mất cảnh giác, nhưng hôm nay tôi châm chước bỏ qua. Dẫu vậy, tôi vẫn trêu người đàn ông một câu vì cái tính bất cẩn.
 
-"Có lẽ... tôi nên. Tiếp tục... thám hiểm... cho tới khi... chúng ta. Về đến Maalt..." Nói rồi, tôi quay người rảo bước đi thẳng, mặc cho tiếng kêu hoảng hốt của người đàn ông đuổi theo phía sau.
+"... Có lẽ... tôi nên. Tiếp tục... thám hiểm... cho tới khi... chúng ta. Về đến Maalt..." Nói rồi, tôi quay người rảo bước đi thẳng, mặc cho tiếng kêu hoảng hốt của người đàn ông đuổi theo phía sau.
 
 "Ấy, đợi tôi với, ông chủ—tôi hiểu rồi, tôi hiểu rồi mà!"
 
@@ -52,7 +52,7 @@ Người đàn ông có vẻ rất đắc ý, đưa tay đẩy cửa bước và
 
 Đập vào mắt tôi trước tiên là một người phụ nữ xinh đẹp lao đến ôm chầm lấy người đàn ông, miệng gần như thét lên. Mái tóc màu nâu hổ phách vuốt ngược ra sau cùng vóc dáng mảnh mai khiến cô toát lên vẻ tháo vát, chăm chỉ.
 
-Nói một cách nhã nhặn nhất thì cô vừa là một mỹ nhân, vừa là một viên ngọc quý.
+Chẳng phải khen quá lời chứ cô quả là một người phụ nữ vừa đẹp người vừa đẹp nết, hiếm có khó tìm.
 
 Có điều, nghe cách cô gọi người đàn ông, tôi cũng đoán được phần nào mối quan hệ giữa hai người.
 
@@ -62,7 +62,7 @@ Có điều, nghe cách cô gọi người đàn ông, tôi cũng đoán đượ
 
 "Nhưng... anh dám mò vào tận mê cung... Mình ơi, anh chỉ biết nấu nướng chứ có biết thám hiểm đâu! Em đã can anh không biết bao nhiêu lần là đừng có làm trò dại dột như thế rồi cơ mà!"
 
-"Kìa em... Anh cũng là đàn ông mà? Mê cung mê tiếc thì bõ bèn gì...... Đáng ra anh muốn nói thế đấy, nhưng em nói đúng rồi... Thú thật anh suýt bị quái vật làm thịt—may mà được cứu! Thật ra anh còn đứng được ở đây lúc này hoàn toàn là nhờ cậu ấy đấy! Phải cảm ơn ông chủ đây này!"
+"Kìa em... Anh cũng là đàn ông mà? Mấy cái mê cung thì bõ bèn gì...... Đáng ra anh muốn nói thế đấy, nhưng em nói đúng rồi... Thú thật anh suýt bị quái vật làm thịt—may mà được cứu! Thật ra anh còn đứng được ở đây lúc này hoàn toàn là nhờ cậu ấy đấy! Phải cảm ơn ông chủ đây này!"
 
 "Hả...? Ôi! Thứ lỗi cho tôi, tôi không thấy nhà có khách... Cảm ơn cậu nhiều lắm vì đã cứu mạng người chồng dại dột của tôi..."
 
@@ -70,7 +70,7 @@ Giờ mới nhận ra tôi đứng sau lưng chồng, Isabel đỏ mặt rồi c
 
 Tôi khẽ gật đầu đáp lại Isabel.
 
-"Không... tôi chỉ... tiện đường... đi ngang qua... thôi. Đừng... bận tâm."
+"... Không... tôi chỉ... tiện đường. Đi ngang qua... thôi. Đừng... bận tâm."
 
 Isabel có vẻ hơi lạ lẫm trước cách ăn nói kỳ quặc của tôi, nhưng người đàn ông đã vội đỡ lời thay.
 
@@ -102,7 +102,7 @@ Còn tôi chỉ lẳng lặng gật đầu.
 
 "Những việc như thế chẳng lẽ cậu ấy lại không thể tự làm được sao...?" Isabel nói, giọng vẫn đầy vẻ hoài nghi.
 
-"... Tôi... trông thế này... mà. Tôi không... thực sự muốn ló mặt... ở... Hội cho lắm. Cô... thấy đấy."
+"... Tôi... trông thế này... mà. Tôi không... thực sự muốn. Ló mặt... ở... Hội cho lắm. Cô... thấy đấy."
 
 Vừa dứt lời, tôi tháo găng tay ra, để lộ một phần cánh tay cho cô thấy. Dù trước đó đã cho người đàn ông xem cả cẳng tay, tôi vẫn cẩn thận giữ chừng mực hơn với vợ ông ta kẻo làm cô hoảng sợ.
 
@@ -112,7 +112,7 @@ Isabel cúi đầu lần nữa, áy náy tạ lỗi: "Tôi vô cùng xin lỗi v
 
 Ý cô không gì khác ngoài viên Ma Tinh. Khi đã hiểu rõ cơ sự, Isabel dường như đã sẵn lòng hơn để đón nhận món quà. Tất nhiên tôi chẳng có ý định nuốt lời hứa, liền chậm rãi gật đầu.
 
-"Đó là... điều tôi... đã nói. Ngay từ... đầu. Vậy là... đôi bên... đã có... thỏa thuận."
+"... Đó là... điều tôi... đã nói. Ngay từ... đầu. Vậy là... chốt... thỏa thuận... nhé."
 
 Nghe vậy, Isabel chìa tay về phía tôi. "Vâng, chúng tôi xin ghi nhớ ơn cậu!"
 
@@ -120,7 +120,7 @@ Tôi có hơi bất ngờ—vừa nhìn thấy thứ kia xong mà cô vẫn mu�
 
 Thấy người chồng bên cạnh đang gật đầu lia lịa, tôi thầm nghĩ có lẽ bản tính của Isabel vốn đã là như vậy.
 
-Nghĩ vậy, tôi chậm rãi chìa tay đáp lại. "Không... có chi..."
+Nghĩ vậy, tôi chậm rãi chìa tay đáp lại. "... Không... có chi..."
 
 Nói rồi, hai chúng tôi bắt tay nhau thật chặt.
 
@@ -128,7 +128,7 @@ Nói rồi, hai chúng tôi bắt tay nhau thật chặt.
 
 ◆◇◆◇◆
 
-"Này... ông biết không. Nghĩ lại... thì. Tôi chưa từng... hỏi. Tên... của ông."
+"... Này... ông biết không. Nghĩ lại... thì. Tôi chưa từng... hỏi. Tên... của ông."
 
 Đứng trên con đường trước cửa quán, chính người đàn ông dường như cũng giật mình trước câu nói của tôi.
 
@@ -136,7 +136,7 @@ Nói rồi, hai chúng tôi bắt tay nhau thật chặt.
 
 "Tôi tên Loris—Loris Cariello. Tôi là chủ quán ăn này, Quán Phi Long Đỏ. Còn ông chủ thì sao?"
 
-"Chẳng phải... sẽ tốt hơn... cho ông. Nếu không... biết tên tôi... sao?"
+"... Chẳng phải... sẽ tốt hơn... cho ông. Nếu không... biết tên tôi... sao?"
 
 Đó chỉ là cái cớ tôi viện ra với Loris, bởi tôi còn có những lý do khác để không muốn lộ danh tính. Nhưng Loris thì chẳng chịu nghe.
 
@@ -144,15 +144,15 @@ Nói rồi, hai chúng tôi bắt tay nhau thật chặt.
 
 Loris dùng ngay lý lẽ ấy để vặn lại tôi. Xem ra tôi chẳng còn cách nào khác.
 
-"Tôi có thể... nói. Cho ông. Nhưng liệu... ông có thể. Hứa... với tôi. Một điều không?"
+"... Tôi có thể... nói. Cho ông. Nhưng liệu... ông có thể. Hứa... với tôi. Một điều không?"
 
 "Chuyện gì thế?"
 
-"Ông... không được. Nói tên tôi... cho bất kỳ ai... khác."
+"... Ông... không được. Nói tên tôi... cho bất kỳ ai... khác."
 
 "Tôi chẳng hiểu sao phải giữ bí mật dữ vậy, ông chủ... nhưng được rồi, tôi nghe cậu. Từ giờ tôi sẽ chỉ gọi cậu là 'ông chủ' thôi, chịu chưa? Kể cả có ai hỏi đích danh tên cậu, tôi cũng sẽ cạy miệng không nói nửa lời. Thế được chưa?"
 
-"Được... thế thì. Tốt rồi. Vậy... thì. Tên tôi... là. Rentt... Rentt... Faina."
+"... Được... thế thì. Tốt rồi. Vậy... thì. Tên tôi... là. Rentt... Rentt... Faina."
 
 Nghe vậy, Loris chậm rãi gật đầu, chắc bụng bảo dạ một cái tên nghe bình thường thế này thì có gì mà phải giấu giếm cho mệt. Dẫu vậy, ông ta vẫn lập tức nhắc lại lời hứa để tôi yên lòng.
 
