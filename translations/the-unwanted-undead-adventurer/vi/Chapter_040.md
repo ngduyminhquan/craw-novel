@@ -62,7 +62,7 @@ Lorraine vốn là học giả nghiên cứu quái vật nên đã quá quen v�
 
 Dù tôi ân cần hỏi han, mặt Sheila vẫn không bớt trắng bệch chút nào. Chắc cô kinh hãi đến mức chẳng thốt nên lời.
 
-"...Cô thấy đấy. Có lẽ... ngay từ đầu... đừng hỏi thì hơn. Trông tôi... chẳng khác nào quái vật... đúng không?"
+"...Thật ra thì... Có lẽ ngay từ đầu... đừng hỏi thì hơn. Trông tôi... chẳng khác nào quái vật... đúng không?"
 
 Sheila lắc đầu nguầy nguậy. "Không phải thế đâu!" cô kêu lên, rồi hạ giọng tiếp lời:
 
@@ -124,7 +124,7 @@ Cùng tiếng động quen tai ấy, cánh cửa mở ra để lộ một không
 
 Lorraine.
 
-"...Hửm? Gì đây nhỉ? Anh dẫn ai về cùng thế hả Rentt? Hiếm thấy thật đấy. Đừng bảo là... anh giở trò tán tỉnh người ta rồi đấy nhé?"
+"...Hửm? Gì đây nhỉ? Anh dẫn ai về cùng thế hả Rentt? Hiếm thấy thật đấy. Đừng bảo là... anh tán tỉnh người ta rồi đấy nhé?"
 
 Nhìn nụ cười nửa miệng của Lorraine, hẳn ai cũng nghĩ cô chỉ nói đùa. Thế nhưng tôi lại cảm nhận được bầu không khí căng thẳng lạ lùng, hoặc biết đâu chỉ do tôi quá mệt mỏi sau đủ thứ chuyện trong ngày hôm nay.
 

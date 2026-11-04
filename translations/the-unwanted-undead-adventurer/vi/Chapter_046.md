@@ -60,7 +60,7 @@ Ryuntus trông chẳng có tâm trạng nào cho một màn đoàn tụ gia đì
 
 Chỗ chúng tôi dừng xe chỉ cách Làng Todds một quãng ngắn. Dù cổng làng đã nằm trong tầm mắt, con đường dẫn tới đó lại có rừng cây bao quanh. Chẳng ai dám chắc trên đường không có quái vật, nên một thiếu nữ đi lại một mình thế này rõ ràng rất nguy hiểm. Có điều, chẳng hiểu sao các cô gái ở vùng quê lại rất hay đi vào rừng một mình. Sau những chuyện xảy ra gần đây, Ryuntus có tỏ ra lo lắng cho em gái thái quá đôi chút thì cũng dễ hiểu thôi.
 
-Nhìn là biết Ryuntus thương em gái đến nhường nào, sẵn lòng lặn lội tới tận Maalt chỉ để tìm một cơ hội cứu mạng cô bé.
+Nhìn là biết Ryuntus thương em gái cỡ nào, sẵn lòng lặn lội tới tận Maalt chỉ để tìm một cơ hội cứu mạng cô bé.
 
 "Nhưng anh tự dưng biến mất tăm, chỉ nói bâng quơ gì đó về chuyện lên thị trấn... Ơ, người đằng kia là ai vậy anh...?"
 
@@ -172,7 +172,7 @@ Trước những lời nói thẳng thừng của tôi, Amiris chỉ biết ngơ
 
 Những lời tôi vừa nói chẳng có cơ sở nào ngoài chính những trải nghiệm mà tôi góp nhặt được trong quãng đời ngắn ngủi của mình. Thời còn sống, chuyện trở thành mạo hiểm giả Mithril Cấp đối với tôi là điều không tưởng, nhưng rồi tôi đã chết và sống lại thành một con quái vật, bất ngờ có được cơ hội thực hiện ước mơ. Biết đâu nhờ vậy mà tôi có thể làm được gì đó với cái lễ hội dâng tế này và bảo vệ mạng sống cho cô bé.
 
-Lại nói, suy đoán của tôi chẳng có căn cứ nào cả, nhưng tôi không thể phủ nhận khả năng đó. Chỉ là chính tôi cũng chẳng biết phải diễn đạt khả năng ấy thành lời thế nào.
+Lại nói, suy đoán của tôi chẳng có căn cứ nào cả, nhưng tôi không thể phủ nhận khả năng đó. Chỉ là tôi cũng chẳng biết phải diễn đạt khả năng ấy thành lời thế nào.
 
 "Anh... nói thật sao? Chuyện giúp đỡ chúng em ấy...?"
 
@@ -204,7 +204,7 @@ Amiris thở dài đáp: "Giờ còn giả vờ nữa cũng chẳng để làm g
 
 Dù sao thì sau cuộc trò chuyện tối qua, thái độ của Amiris đối với tôi đã khác hẳn. Ít nhất tôi cũng nên mừng vì điều đó.
 
-"Cảm ơn cô vì... đã tin tôi."
+"Cảm ơn cô đã... tin tôi."
 
 "Em cũng chưa tin anh nhiều đến thế đâu... Cơ mà chắc cũng đủ tin rồi. Nhưng... anh định làm gì đó thật sao?"
 

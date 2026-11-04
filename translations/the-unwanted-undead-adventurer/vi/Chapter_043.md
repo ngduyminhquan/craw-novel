@@ -8,7 +8,7 @@ Xem chừng đã xong thật rồi, bởi đây chính là thanh kiếm tôi đ�
 
 "Đó là... kiếm của tôi... đấy à?"
 
-"Phải." Clope gật đầu đáp. "Ma Lực, Khí Lực, Thần Lực... Tôi rèn nó để chịu được cả ba thứ đấy. Tốn kha khá nguyên liệu đấy... nhưng kiểu gì thì bọn này cũng gom đủ cả rồi."
+"Phải." Clope gật đầu đáp. "Ma Lực, Khí Lực, Thần Lực... Tôi rèn nó để chịu được cả ba thứ đó. Tốn kha khá nguyên liệu đấy... nhưng kiểu gì thì bọn này cũng gom đủ cả rồi."
 
 "Tôi sẽ gửi thêm... tiền bù. Cho các khoản... chi phí phát sinh."
 
@@ -66,7 +66,7 @@ Clope chẳng buồn giấu vẻ ngạc nhiên.
 
 Còn hai nửa hình nhân gỗ bị chẻ đôi trước mắt thì đã tự nói lên tất cả. Mặt cắt phẳng lì, nhẵn thín, vừa là minh chứng cho chất lượng của thanh kiếm, mà quan trọng hơn là cho thấy tay nghề của người cầm nó.
 
-So với những gì tôi làm được hồi ấy, kỹ năng của tôi đã tiến bộ vượt bậc, đủ để tôi có quyền tự hào về sự tiến bộ của mình. Chính những lúc thế này, tôi mới cảm nhận và hiểu rõ mình đã đi được bao xa; đó là một thành quả đáng tự hào.
+So với những gì tôi làm được hồi ấy, kỹ năng của tôi đã tiến bộ vượt bậc, đủ để tôi có quyền tự hào. Chính những lúc thế này, tôi mới cảm nhận và hiểu rõ mình đã đi được bao xa; đó là một thành quả đáng tự hào.
 
 ◆◇◆◇◆
 
@@ -114,7 +114,7 @@ Nhưng điều này cũng có nghĩa là những vũ khí rèn bằng thuật gi
 
 Còn Clope lại là một thợ rèn hạng nhất. Thần Lực cuộn trào bên trong nhưng thanh kiếm chẳng hề có chút bất thường nào, lưỡi kiếm chỉ được bao bọc trong một vầng sáng dịu nhẹ, lấp lánh.
 
-Tôi quay lại nhìn hình nhân, nâng kiếm lên để thử thêm một lần nữa. Lực cản ít ỏi đến đáng kinh ngạc. Hầu như chẳng có chút ma sát nào khi lưỡi kiếm trượt qua, ngay cả khi so với lúc tôi dùng ma pháp. Quyền năng của các vị thần và loài tiên đúng là phải cỡ này; công năng của nó quả thực rất khác biệt.
+Tôi quay lại nhìn hình nhân, nâng kiếm lên để thử thêm một lần nữa. Lực cản ít ỏi đến đáng kinh ngạc. Hầu như chẳng có chút ma sát nào khi lưỡi kiếm trượt qua, ngay cả khi so với lúc tôi dùng ma pháp. Quyền năng của thần linh và loài tiên đúng là phải cỡ này; công năng của nó quả thực rất khác biệt.
 
 Thế nhưng những hiệu ứng khác của Thần Lực lại khiến nó trở thành một năng lực khó đem ra dùng thực tế.
 
@@ -142,11 +142,11 @@ Thật ra, tôi tranh thủ lúc rảnh rỗi sửa lại ngôi miếu chỉ vì
 
 "...Phải."
 
-"Thế thì có thể đoán là có loài tiên cây cỏ nào đó từng sống trong ngôi miếu ấy... hoặc đại loại thế. Hẳn là vì vậy mà Thần Lực và luồng khí của cậu mới có hiệu ứng này. Cậu còn nhớ vị Thánh Nữ từng đến Maalt hồi xưa không? Người ta đồn cô ấy được một vị thần trị liệu ban phước, chỉ cần chạm tay là chữa khỏi mấy bệnh nhẹ cho người ta. Còn của cậu... nếu phải nói thì chắc là phiên bản dành cho cây cỏ đấy."
+"Thế thì có thể đoán là có loài tiên cây cỏ nào đó từng sống trong ngôi miếu ấy... hoặc đại loại thế. Hẳn là vì vậy mà Thần Lực và luồng khí của cậu mới có hiệu ứng này. Cậu còn nhớ vị Thánh Nữ từng đến Maalt hồi xưa không? Người ta đồn cô ấy được một vị thần trị liệu ban phước, chỉ cần chạm tay là chữa khỏi mấy bệnh nhẹ cho người ta. Còn của cậu... nói nôm na thì chắc là phiên bản dành cho cây cỏ đấy."
 
-Lời giải thích của Clope nghe khá hợp lý. Dù tôi có nhớ mang máng từng thoáng thấy vị Thánh Nữ từ xa hồi rất lâu trước đây, nhưng hôm đó trong người tôi không được khỏe cho lắm nên cũng chẳng nhớ rõ chuyện lúc ấy.
+Lời giải thích của Clope nghe khá hợp lý. Dù tôi có nhớ mang máng từng thoáng thấy vị Thánh Nữ từ xa hồi rất lâu trước đây, nhưng hôm đó trong người không được khỏe cho lắm nên tôi cũng chẳng nhớ rõ chuyện lúc ấy.
 
-Nếu phải diễn tả thành lời, thì độ mạnh yếu trong Thần Lực của một người tỷ lệ thuận trực tiếp với sức mạnh của thực thể đã ban cho nó. Tôi nhớ mình từng đọc được một đoạn như vậy trong một cuốn sách của Lorraine.
+Nói cho dễ hiểu thì độ mạnh yếu trong Thần Lực của một người tỷ lệ thuận với sức mạnh của thực thể đã ban cho nó. Tôi nhớ mình từng đọc được một đoạn như vậy trong cuốn sách nào đó của Lorraine.
 
 Ai mà ngờ trong muôn vàn thứ, tôi lại có khiếu chữa lành cho cây cỏ cơ chứ... Xem chừng chẳng phải một năng lực hữu dụng cho lắm.
 

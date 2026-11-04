@@ -104,7 +104,7 @@ Thu hoạch chính sau loạt thử nghiệm này là giờ tôi đã hiểu rõ
 
 Tóm lại đại khái là như thế.
 
-Tôi cảm thấy mình đã thu được kha khá hiểu biết, nhưng giờ tôi cũng nhận thức rõ rằng những đòn đánh uy lực thường đi kèm hệ quả lớn cho chính người dùng, một lần nữa nhắc tôi nhớ thế giới này phức tạp nhường nào. Làm mạo hiểm giả chưa bao giờ là chuyện dễ dàng dưới bất kỳ hình thức nào.
+Tôi cảm thấy mình đã học thêm được kha khá điều, nhưng giờ tôi cũng nhận thức rõ rằng những đòn đánh uy lực thường đi kèm cái giá không nhỏ cho chính người dùng, một lần nữa nhắc tôi nhớ thế giới này phức tạp cỡ nào. Làm mạo hiểm giả chưa bao giờ là chuyện dễ dàng dưới bất kỳ hình thức nào.
 
 Dẫu vậy, tôi đã có cho mình một con át chủ bài để dùng trong những tình thế ngặt nghèo nhất—đúng như câu trong cái rủi có cái may. Tôi sẽ chẳng bao giờ nghĩ đến chuyện dùng những đòn này trừ phi phải đối mặt với một kẻ địch mạnh, hoặc khi tính mạng gặp nguy hiểm thực sự.
 

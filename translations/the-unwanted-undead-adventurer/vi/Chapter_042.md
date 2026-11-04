@@ -74,7 +74,7 @@ Sheila quay sang Lorraine, vội vàng xua tan nỗi bận tâm ấy với vẻ 
 
 "Đ-Đương nhiên rồi! Anh Rentt trông có kỳ lạ thật, nhưng anh ấy làm rất tốt việc của một mạo hiểm giả! Hội sẽ không bao giờ đối xử tệ bạc với mạo hiểm giả mang lại lợi ích cho tập thể đâu."
 
-"...Tôi có nên hiểu là nếu Rentt có tính nết khác đi một chút, thì anh ta đã bị thanh trừng từ lâu rồi không? Đáng sợ thật đấy."
+"...Tôi có nên hiểu là nếu Rentt có tính nết khác đi một chút, thì anh ấy đã bị thanh trừng từ lâu rồi không? Đáng sợ thật đấy."
 
 Tôi cũng chẳng trách Lorraine nghĩ theo hướng đó được, bởi cách Hội đong đếm giá trị của từng mạo hiểm giả quả thực đáng sợ thật. Nhưng sự đời vốn dĩ là như thế.
 

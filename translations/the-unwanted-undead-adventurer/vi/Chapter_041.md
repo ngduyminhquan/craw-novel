@@ -4,7 +4,7 @@ Trong gian phòng tĩnh lặng, chiếc đồng hồ ma pháp của Lorraine c�
 
 Trông vẻ ngoài to bản và cồng kềnh thế kia, tôi đoán cô nàng đã tự tay mày mò chế ra nó từ đầu vào những lúc rảnh rỗi. Như mọi khi, tôi lại thấy nể cái óc thực tế kỳ quặc của Lorraine. Nói thế nào nhỉ, cô làm được đủ thứ chuyện trên đời, khéo cái gì cũng biết làm...
 
-Trừ mỗi việc nhà với mấy chuyện nội trợ lặt vặt. Tôi chịu không rõ nguyên do, nhưng cũng lờ mờ đoán được. Chẳng là hồi trước, không biết từ lúc nào tôi đã đứng ra cáng đáng hết việc nhà cho Lorraine, rồi cứ thế làm miết tới tận bây giờ. Nhận ra điều đó, lòng tôi bỗng chùng xuống, thấm thía tận tâm can.
+Trừ mỗi việc nhà với mấy chuyện nội trợ lặt vặt. Tôi chịu không rõ nguyên do, nhưng cũng lờ mờ đoán được. Chẳng là hồi trước, không biết từ lúc nào tôi đã đứng ra cáng đáng hết việc nhà cho Lorraine, rồi cứ thế làm miết tới tận bây giờ. Nhận ra điều đó, lòng tôi bỗng chùng xuống, thấy nản cả người.
 
 ...Mà thôi, chuyện này để lúc khác nghĩ tiếp vậy.
 
@@ -88,7 +88,7 @@ Ngược lại, các nữ mạo hiểm giả hay có mong muốn được nhận
 
 Còn tôi, ngón nấu nướng này là học được hồi còn ở quê, từ chính bà lão dược sư đã dạy tôi những kỹ năng sinh tồn khác. Nhớ lại ngày đó, tôi thường lúi húi nấu nướng trong lúc bà bận rộn bào chế thuốc. Thỉnh thoảng bà lại tiện tay thảy thêm vài cọng thảo dược vào nồi cho dậy mùi. Đó đúng là môi trường học việc lý tưởng cho các dược sư tương lai. Thế nên bên cạnh mớ kiến thức cơ bản về cây cỏ, tôi cũng tiện thể học lỏm luôn được ngón nấu ăn.
 
-"Mỗi nhà một Rentt, xã hội mà được thế thì tốt biết mấy. Việc gì anh ta cũng làm được, mà hầu hết toàn làm không công nữa chứ... Cơ mà giờ thì phải tính phí rồi. Coi như tôi trả công bằng... cách này," Lorraine vừa nói vừa chỉ về phía chiếc lọ tôi đang cầm trên tay.
+"Mỗi nhà một Rentt, xã hội mà được thế thì tốt biết mấy. Việc gì anh ấy cũng làm được, mà hầu hết toàn làm không công nữa chứ... Cơ mà giờ thì phải tính phí rồi. Coi như tôi trả công bằng... cách này," Lorraine vừa nói vừa chỉ về phía chiếc lọ tôi đang cầm trên tay.
 
 Đó chính là chiếc lọ đã được yểm ma pháp bảo quản, bên trong đựng máu của Lorraine. Bữa tối của tôi chỉ cần đúng một giọt ấy là đủ.
 
@@ -98,7 +98,7 @@ Nghe nói chiếc lọ tôi luôn mang bên mình đựng máu, mặt Sheila l�
 
 Xem ra Sheila nắm bắt tình hình rất nhanh.
 
-Xét về mọi mặt, tôi vẫn là một con quái vật đang ngồi bên bàn ăn của con người, liếm máu từ miệng lọ. Trong mắt một người qua đường bình thường, tôi chắc chỉ giống một gã đeo mặt nạ đang nhấm chất lỏng màu đỏ từ chiếc que nhỏ cắm trong chiếc lọ trông có vẻ vô hại. Trông chẳng có gì đáng sợ, có chăng chỉ thấy kỳ quặc và lập dị.
+Thật ra xét về mọi mặt, tôi chính là một con quái vật đang ngồi bên bàn ăn của con người, liếm máu từ miệng lọ. Trong mắt một người qua đường bình thường, tôi chắc chỉ giống một gã đeo mặt nạ đang nhấm chất lỏng màu đỏ từ chiếc que nhỏ cắm trong chiếc lọ trông có vẻ vô hại. Trông chẳng có gì đáng sợ, có chăng chỉ thấy kỳ quặc và lập dị.
 
 "Sự tình là thế đấy. Gác chuyện đó sang một bên đã, nghe nói hai người đã ký khế ước ràng buộc ma pháp rồi đúng không?" Lorraine hỏi, nhẹ nhàng lái câu chuyện sang các điều khoản chi tiết trong bản khế ước giữa tôi và Sheila.
 

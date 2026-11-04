@@ -1,6 +1,6 @@
 # Chương 48: Tập 2 Chương 4 - Hoa Long Huyết (1)
 
-"Chắc lần này... mình nên nhận. Một ủy thác đàng hoàng," tôi tự nhủ khi đứng một mình, chăm chú nhìn lên một trong những tấm bảng ủy thác của Hội Mạo Hiểm Giả.
+"Chắc lần này... mình nên nhận. Một ủy thác tử tế," tôi tự nhủ khi đứng một mình, chăm chú nhìn lên một trong những tấm bảng ủy thác của Hội Mạo Hiểm Giả.
 
 Dù cách đây không lâu tôi đã giải quyết xong vụ việc ở hồ, nhưng đó không phải ủy thác nhận qua kênh chính thức của Hội, vả lại tôi cũng chẳng thể đứng ra nhận công.
 
@@ -62,7 +62,7 @@ Cô Nhi Viện Thứ Hai Maalt—
 
 Tuy về mọi mặt Maalt chỉ là một thị trấn vùng biên, nhưng nhờ có tới hai mê cung ở gần nên dân số nơi đây khá đông đúc. Nhìn chung, Maalt là một thị trấn phát triển khá quy củ. Các công trình công cộng ở đây cũng có kha khá—ít nhất là tương xứng với quy mô dân số của Maalt. Cô nhi viện mà tôi đang tìm đến là một trong những nơi như vậy.
 
-Tùy theo từng vùng và từng vương quốc, các cô nhi viện được điều hành bởi nhiều tổ chức khác nhau. Riêng cô nhi viện này ở Maalt do một nhóm tu sĩ và nữ tu thuộc Giáo Hội Đông Thiên trông coi. Giáo hội này tin rằng xưa kia có một Thiên Sứ từng giáng xuống bầu trời phía đông Yaaran và ban phát nhiều phép màu nhân từ. Bởi vậy, Giáo Hội xem vị Thiên Sứ ấy là hiện thân của Thần linh và lấy đó làm đối tượng tôn thờ. Đúng như những hoạt động của mình, họ là một tổ chức khá ôn hòa, không truyền đạo rầm rộ ép buộc, cũng chẳng đòi hỏi người dân phải quyên góp.
+Tùy theo từng vùng và từng vương quốc, các cô nhi viện được điều hành bởi nhiều tổ chức khác nhau. Riêng cô nhi viện này ở Maalt do một nhóm tu sĩ và nữ tu thuộc Giáo Hội Đông Thiên trông coi. Giáo hội này tin rằng xưa kia có một Thiên Sứ từng giáng xuống bầu trời phía đông Yaaran và ban phát nhiều phép màu nhân từ. Kéo theo đó, Giáo Hội xem vị Thiên Sứ ấy là hiện thân của Thần linh và lấy đó làm đối tượng tôn thờ. Đúng như những hoạt động của mình, họ là một tổ chức khá ôn hòa, không truyền đạo rầm rộ ép buộc, cũng chẳng đòi hỏi người dân phải quyên góp.
 
 Tuy nhiên, họ lại nghèo hơn hẳn các tổ chức tôn giáo tương tự. Tín đồ Đông Thiên vốn nổi tiếng với lối sống thanh bần và tâm nguyện cao đẹp, được người dân khắp Vương Quốc Yaaran kính trọng. Có điều sự kính trọng ấy cũng chỉ gói gọn trong phạm vi Yaaran mà thôi. Do tổ chức này chưa bao giờ mở rộng quy mô là bao, cái tên của họ dường như chẳng mấy khi được nghe thấy ở bên ngoài vùng đất này.
 
@@ -86,7 +86,7 @@ Một tràng tiếng bước chân huỳnh huỵch dồn dập vang lên từ ph
 
 "A, có khách ạ? Em xin lỗi nhé, nhưng hôm nay Sơ Lillian không có ở nhà..."
 
-Một cô bé có nhìn nhận thế nào thì lớn lắm cũng chỉ khoảng mười hai tuổi. Mái tóc ngắn được cắt tỉa gọn gàng của cô bé trông rất bắt mắt. Dù sống trong cảnh nghèo khó, cô bé vẫn ăn vận tươm tất, toát lên vẻ thanh lịch; tôi đoán ngay cả cảnh nghèo túng cơ cực cũng không lấy đi được nét ấy của cô bé.
+Một cô bé lớn lắm cũng chỉ chừng mười hai tuổi. Mái tóc ngắn được cắt tỉa gọn gàng của cô bé trông rất bắt mắt. Dù sống trong cảnh nghèo khó, cô bé vẫn ăn vận tươm tất, toát lên vẻ thanh lịch; tôi đoán ngay cả cảnh nghèo túng cơ cực cũng không lấy đi được nét ấy của cô bé.
 
 ![](images/ch048-01.webp)
 

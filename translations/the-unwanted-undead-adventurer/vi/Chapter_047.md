@@ -106,7 +106,7 @@ Với ngần ấy chiếc xúc tu, muốn né hết từng cái một quả th�
 
 Bất ngờ, con Kraken há miệng, có vẻ định bắn thứ gì đó vào tôi. Nhanh chóng giậm chân lên mặt hồ, tôi lách người sang một bên, vừa kịp né trong gang tấc một quả cầu lửa lớn khiến chỗ tôi vừa đứng bốc hơi nước nghi ngút.
 
-"Kraken mà... lại phun lửa sao?"
+"Không phải... con Kraken này phun lửa sao?"
 
 Một sự kết hợp kỳ cục.
 
@@ -160,7 +160,7 @@ Những dấu ấn trên cửa nhà dân cũng là do chính đám người này
 
 Đúng là một màn kịch được tính toán kỹ lưỡng...
 
-Ảo ảnh con Kraken thực chất chỉ là hình ảnh do tên ma pháp sư chiếu lên tấm vải. Đám xúc tu cũng chẳng qua là những sợi dây thừng được điều khiển chuyển động bằng phép thuật. Khỏi phải nói, quả cầu lửa bắn ra từ mỏ con Kraken cũng chỉ là cầu lửa thông thường, dùng để dọa hoặc xử lý những người áp giải đi cùng các tế vật xấu số. Xem ra đây là lần đầu tiên trò phun lửa này thất bại. Tất nhiên, cái cảnh một con Kraken phun lửa có nhìn nhận nhẹ nhàng nhất thì cũng chỉ thấy nực cười.
+Ảo ảnh con Kraken thực chất chỉ là hình ảnh do tên ma pháp sư chiếu lên tấm vải. Đám xúc tu cũng chẳng qua là những sợi dây thừng được điều khiển chuyển động bằng phép thuật. Khỏi phải nói, quả cầu lửa bắn ra từ mỏ con Kraken cũng chỉ là cầu lửa thông thường, dùng để dọa hoặc xử lý những người áp giải đi cùng các tế vật xấu số. Xem ra đây là lần đầu tiên trò phun lửa này thất bại. Tất nhiên, cái cảnh một con Kraken phun lửa khá lắm thì cũng chỉ thấy nực cười.
 
 Dù đám người này đã bỏ ra không ít công sức để bày mưu tính kế cho hành vi độc ác của mình, rõ ràng chúng chẳng đủ sức chống lại bất kỳ ai mạnh hơn một người dân làng đang hoảng sợ.
 
@@ -176,7 +176,7 @@ Nhận ra được điều này hoàn toàn là nhờ tôi vốn là một Undea
 
 Dù sao đi nữa...
 
-"Vậy là... bí ẩn. Đã được giải đáp... Tôi cho là ủy thác này... đã hoàn thành. Thỏa đáng rồi chứ?"
+"Vậy là... bí ẩn. Đã được làm sáng tỏ... Tôi cho là ủy thác này... đã hoàn thành. Thỏa đáng rồi chứ?"
 
 "Tất nhiên rồi ạ!" "Vâng ạ!!"
 
@@ -190,7 +190,7 @@ Nghe chúng tôi giải thích rằng chân tướng đằng sau những biến 
 
 Tôi lịch sự từ chối.
 
-Ngoài mặt, tôi lấy lý do là ủy thác này không được nhận qua kênh chính thức của Hội Mạo Hiểm Giả, nên tôi không thể đứng ra nhận công. Thực chất, tôi chỉ không muốn dính dáng tới vụ bắt cóc này mà thôi. Nếu lộ tin tôi vừa triệt phá một đường dây bắt cóc buôn nô lệ, người ta lại càng nghi ngờ tôi hơn. Dù tôi có là người giải quyết vụ việc đi nữa, thiên hạ cũng rất dễ nghi ngờ rằng tôi đang "tự giải quyết" cái rắc rối do chính mình "bày ra" ngay từ đầu.
+Ngoài mặt, tôi lấy lý do là ủy thác này không được nhận qua kênh chính thức của Hội Mạo Hiểm Giả, nên tôi không thể đứng ra nhận công. Thực chất, tôi chỉ không muốn dính dáng tới vụ bắt cóc này mà thôi. Nếu lộ tin tôi vừa triệt phá một đường dây bắt cóc buôn nô lệ, người ta lại càng nghi ngờ tôi hơn. Dù tôi có là người giải quyết vụ việc đi nữa, thiên hạ cũng rất dễ nghi ngờ tôi đang "tự giải quyết" cái rắc rối do chính mình "bày ra" ngay từ đầu.
 
 Trông tôi vốn đã đủ khả nghi rồi, dù bản thân chẳng làm gì được để thay đổi vẻ ngoài đó. Tóm lại, tôi quyết định không làm chuyện gì thừa thãi. Dân làng cứ đinh ninh rằng tôi chỉ đang khiêm tốn nên ban đầu phản đối dữ lắm, may nhờ có Ryuntus và Amiris đứng ra thuyết phục giúp. Hai anh em rối rít cảm ơn tôi, nhưng có lẽ tôi mới là người phải cảm ơn họ mới đúng.
 
