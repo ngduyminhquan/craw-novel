@@ -2,7 +2,7 @@
 
 "Ở quanh đây ạ," Ferrici thông báo với chúng tôi.
 
-Chúng tôi đi theo sự dẫn đường của em ấy, vượt qua cụm tổ của bầy Phi Long Mime để tiến tới một khoảng đất trống. Em ấy đã kể với chúng tôi rằng phần lớn lanh Phi Long đều mọc ở một khoảng cách nhất định cách xa tổ của chúng, và quả đúng như vậy, tất cả chúng tôi đều đồng thanh thốt lên kinh ngạc khi bước tới một bụi lanh Phi Long rậm rạp nhiều hơn bất cứ nơi nào tôi từng thấy trước đây.
+Chúng tôi đi theo sự dẫn đường của cô bé, vượt qua cụm tổ của bầy Phi Long Mime để tiến tới một khoảng đất trống. Cô bé đã kể với chúng tôi rằng phần lớn lanh Phi Long đều mọc ở một khoảng cách nhất định cách xa tổ của chúng, và quả đúng như vậy, tất cả chúng tôi đều đồng thanh thốt lên kinh ngạc khi bước tới một bụi lanh Phi Long rậm rạp nhiều hơn bất cứ nơi nào tôi từng thấy trước đây.
 
 ![](images/ch243-01.webp)
 
@@ -10,7 +10,7 @@ Kích thước của những cây lanh này cũng ấn tượng chẳng kém gì
 
 "Tôi chưa từng thấy thứ gì như thế này bao giờ," Lorraine trầm trồ lẩm bẩm. Cô quay sang Ferrici và hỏi: "Em vẫn luôn thu hoạch bán những cây này sao? Tôi nghĩ phải có ai đó để ý rồi chứ. Bất kỳ ai nhìn thấy chúng hẳn cũng sẽ hỏi xem chúng mọc ở đâu, và tôi đồ rằng bất kỳ dược sư hay nhà giả kim nào cũng sẽ lùng sục chúng bằng mọi giá."
 
-Ferrici đáp: "Em sống ở một ngôi làng xa xôi hẻo lánh thật, nhưng chừng đó chuyện thì em cũng nghĩ tới rồi ạ. Em luôn chỉ thu hái và bán những cây mọc ở góc đằng kia, tức là những cây nhỏ nhất." Em ấy chỉ tay về phía rìa bụi cây, nơi những mẫu cây được nhắc tới có kích thước nhỏ hơn hẳn—tương tự như những cây người ta thường thấy ở chợ, hoặc có lẽ còn nhỏ hơn đôi chút.
+Ferrici đáp: "Em sống ở một ngôi làng xa xôi hẻo lánh thật, nhưng chừng đó chuyện thì em cũng nghĩ tới rồi ạ. Em luôn chỉ thu hái và bán những cây mọc ở góc đằng kia, tức là những cây nhỏ nhất." Cô bé chỉ tay về phía rìa bụi cây, nơi những mẫu cây được nhắc tới có kích thước nhỏ hơn hẳn—tương tự như những cây người ta thường thấy ở chợ, hoặc có lẽ còn nhỏ hơn đôi chút.
 
 "Sao chúng lại phát triển dữ dội đến thế nhỉ?" Augurey hỏi.
 
@@ -44,9 +44,9 @@ Những sinh vật này, không giống như loài Phi Long, không hề có mô
 
 "Gì cơ?!" Lorraine thốt lên đầy ngạc nhiên trước vẻ thản nhiên của Ferrici khi nói ra điều đó.
 
-Ngay cả mạo hiểm giả cũng phải tốn không ít thời gian để lùng bắt Aqua Hathur, vậy mà cô thôn nữ bình thường này lại biết rõ tung tích của nó ư? Ừ thì em ấy sở hữu dị năng đặc biệt nọ kia thật, nhưng tôi tin từ miêu tả "bình thường" vẫn hoàn toàn chuẩn xác ở đây. Em ấy đâu có cơ bắp vạm vỡ hay gì, dẫu rằng trên đường tới đây em ấy đã chứng minh bản thân sở hữu sức bền dẻo dai hơn hẳn những cô gái nơi thành thị.
+Ngay cả mạo hiểm giả cũng phải tốn không ít thời gian để lùng bắt Aqua Hathur, vậy mà cô thôn nữ bình thường này lại biết rõ tung tích của nó ư? Ừ thì cô bé sở hữu dị năng đặc biệt nọ kia thật, nhưng tôi tin từ miêu tả "bình thường" vẫn hoàn toàn chuẩn xác ở đây. Cô bé đâu có cơ bắp vạm vỡ hay gì, dẫu rằng trên đường tới đây cô bé đã chứng minh bản thân sở hữu sức bền dẻo dai hơn hẳn những cô gái nơi thành thị.
 
-"Cũng không chắc chắn một trăm phần trăm đâu ạ," em ấy nói thêm. "Hôm nọ em vừa mới nhìn thấy một con. Có thể nó vẫn còn ở đó."
+"Cũng không chắc chắn một trăm phần trăm đâu ạ," cô bé nói thêm. "Hôm nọ em vừa mới nhìn thấy một con. Có thể nó vẫn còn ở đó."
 
 "Thông tin đó rất quan trọng đấy," Lorraine đáp. "Một khi Aqua Hathur đã định cư ở một nơi nào đó, chúng sẽ không đi lạc quá xa khỏi chỗ đó đâu."
 
@@ -58,13 +58,13 @@ Lorraine gật đầu. "Điều đó đúng, nhưng Aqua Hathur gần với tinh
 
 "Phải rồi," Augurey lẩm bẩm. "Một khi chúng tìm thấy nguồn nước ưng ý, chúng sẽ chẳng đi đâu xa."
 
-"Đúng vậy. Thế nên thông tin của Ferrici mới vô cùng quý giá với chúng ta. Em có thể dẫn đường cho bọn chị được không?"
+"Đúng vậy. Thế nên thông tin của Ferrici mới vô cùng quý giá với chúng ta. Em có thể dẫn đường cho chúng tôi được không?"
 
-Lorraine hỏi để xác nhận lại vì chúng tôi sắp sửa dấn thân ra ngoài khu vực nơi dị năng của Ferrici giữ cho em ấy được an toàn trước loài Phi Long. Là mạo hiểm giả, chúng tôi luôn đặt sự an toàn của Ferrici lên trên hết, nhưng ngay cả những mạo hiểm giả giỏi nhất thế giới cũng không thể đảm bảo an toàn tuyệt đối, nên chúng tôi không thể ép buộc Ferrici phải hợp tác. Tôi đồ rằng em ấy sẽ chỉ cho chúng tôi vị trí đại khái, rồi chúng tôi sẽ tự mình tới đó tìm kiếm.
+Lorraine hỏi để xác nhận lại vì chúng tôi sắp sửa dấn thân ra ngoài khu vực nơi dị năng của Ferrici giữ cho cô được an toàn trước loài Phi Long. Là mạo hiểm giả, chúng tôi luôn đặt sự an toàn của Ferrici lên trên hết, nhưng ngay cả những mạo hiểm giả giỏi nhất thế giới cũng không thể đảm bảo an toàn tuyệt đối, nên chúng tôi không thể ép buộc Ferrici phải hợp tác. Tôi đồ rằng cô bé sẽ chỉ cho chúng tôi vị trí đại khái, rồi chúng tôi sẽ tự mình tới đó tìm kiếm.
 
 "Dạ được chứ ạ. Đi lối này này," Ferrici nói rồi thoăn thoắt cất bước.
 
-Chúng tôi lại vội vàng rảo bước theo sau em ấy.
+Chúng tôi lại vội vàng rảo bước theo sau cô bé.
 
 "Em không lo lắng về mối nguy hiểm mà bản thân có thể gặp phải sao?" Lorraine hỏi.
 
@@ -80,7 +80,7 @@ Lorraine tán thành. "Tôi sẽ dựng một Khiên Chắn ma pháp thật vữ
 
 "Nó thực sự ở đây này," tôi thì thầm.
 
-Nó ở ngay đằng kia—một con Aqua Hathur bằng xương bằng thịt ngay trước mắt tôi. Ngoại hình của nó giống hệt một con mèo trong suốt, toàn thân được cấu tạo hoàn toàn bằng nước. Về mặt tập tính, nó chẳng khác gì một con mèo bình thường. Lúc này nó đang lấy chân rửa mặt.
+Nó ở ngay đằng kia—một con Aqua Hathur thực sự ngay trước mắt tôi. Ngoại hình của nó giống hệt một con mèo trong suốt, toàn thân được cấu tạo hoàn toàn bằng nước. Về mặt tập tính, nó chẳng khác gì một con mèo bình thường. Lúc này nó đang lấy chân rửa mặt.
 
 Hơn thế nữa, ở đó có tới vài con Aqua Hathur. Chúng đang quây quần quanh một con suối nhỏ hình thành từ các phiến đá. Nơi này nằm cao hơn mặt hồ một chút, và nước rỉ ra từ các khe nứt. Hẳn đây là một trong số những nguồn nước đổ vào hồ.
 
@@ -140,11 +140,11 @@ Con Aqua Hathur không chỉ đơn thuần cắm đầu chạy trốn khỏi hai
 
 "Đứng lại mau, cái con ranh này...!"
 
-"Chịu hàng ngoan ngoãn đi thôi!"
+"Ngoan ngoãn đầu hàng đi thôi!"
 
 ![](images/ch243-02.webp)
 
-Khung cảnh ấy, nói một cách nhẹ nhàng nhất thì đúng là hài hước không chịu nổi. Tuy nhiên, màn kịch đã đi tới hồi kết khi sinh vật kia chạy tới ngõ cụt nơi Lorraine vừa mới thao tác. Ngay khi con Aqua Hathur đặt chân vào khu vực này, các ma pháp trận liền phát ra những tia sáng tựa như luồng điện giật, tạo thành một chiếc lồng giam quanh con mèo nước thoắt ẩn thoắt hiện. Dẫu vậy, sinh vật đó vẫn cố tìm đường thoát thân và va chạm phải dây điện. Ánh sáng lóe lên chói lòa, và con Hathur đổ gục ngay tại chỗ.
+Khung cảnh ấy, nói một cách nhẹ nhàng nhất thì đúng là hài hước không chịu nổi. Tuy nhiên, màn kịch đã đi tới hồi kết khi sinh vật kia chạy tới ngõ cụt nơi Lorraine vừa mới thao tác. Ngay khi con Aqua Hathur đặt chân vào khu vực này, các ma pháp trận liền phát ra những tia sáng tựa như luồng điện giật, tạo thành một chiếc lồng giam quanh con mèo nước thoắt ẩn thoắt hiện. Dẫu vậy, sinh vật đó vẫn cố tìm đường thoát thân và va chạm phải chấn song sét. Ánh sáng lóe lên chói lòa, và con Hathur đổ gục ngay tại chỗ.
 
 Nhóm mạo hiểm giả có lẽ đã phải lo lắng rằng nó đã chết nếu họ không biết rõ chuyện Aqua Hathur sẽ không thể giữ được hình dạng nguyên vẹn khi mất mạng. Khi trở về với tự nhiên, chúng chỉ đơn giản biến thành một khối nước rồi thấm sâu vào lòng đất. Do đó, cả nhóm có thể nhận ra con Aqua Hathur này chỉ đang bất tỉnh chứ vẫn còn sống.
 
@@ -152,7 +152,7 @@ Nhóm mạo hiểm giả có lẽ đã phải lo lắng rằng nó đã chết n
 
 Thực tế, Lorraine bước thẳng tới chỗ con Aqua Hathur đang bất tỉnh, dùng bàn tay đeo găng chộp lấy nó rồi đặt vào trong lồng. Sinh vật đó choàng tỉnh, kêu lên thất thanh rồi lao đầu vào các chấn song điện. Sau một tiếng nổ lách tách do điện giật, nó đành chịu thua và ngoan ngoãn nằm yên.
 
-Luồng điện của chiếc lồng cầm tay chắc chắn yếu hơn nhiều so với cái bẫy giăng trên đá, nhưng con Hathur trong tình cảnh hiện tại trông vẫn khá tội nghiệp. Dẫu rằng con quái vật vừa mới liên tục phóng ra những lưỡi đao nước chết chóc về phía cả nhóm, nét dáng vẻ bên ngoài của nó vẫn gợi lên niềm trắc ẩn vô điều kiện.
+Luồng điện của chiếc lồng cầm tay chắc chắn yếu hơn nhiều so với cái bẫy giăng trên đá, nhưng con Hathur trong tình cảnh hiện tại trông vẫn khá tội nghiệp. Dẫu rằng con quái vật vừa mới liên tục phóng ra những lưỡi đao nước chết chóc về phía cả nhóm, dáng vẻ bên ngoài của nó vẫn gợi lên niềm trắc ẩn vô điều kiện.
 
 Lorraine nhìn thấy vẻ mặt đó của Ferrici nên nói thêm: "Con Aqua Hathur này sẽ được một quý bà quý tộc ở vương đô nuôi dưỡng. Nó sẽ phải đeo một chiếc vòng cổ ma thuật ngăn không cho niệm phép, nhưng nó sẽ không bị đối xử tệ bạc đâu. Em đừng lo."
 

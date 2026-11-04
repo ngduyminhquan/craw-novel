@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T03:46:42Z",
+  "generatedAt": "2026-11-04T03:56:28Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3598,19 +3598,19 @@
           "number": 241,
           "title": "Chương 241: Tập 10 Chương 5 - Món Quà Cảm Ơn của Cô Thôn Nữ (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_241.md",
-          "sha": "6f3a71fecb824ec0a55d1cd4784c5e49831c0de8"
+          "sha": "27dc6a3243bd4724fdc92a3783e12cef4a427b2d"
         },
         {
           "number": 242,
           "title": "Chương 242: Tập 10 Chương 5 - Món Quà Cảm Ơn của Cô Thôn Nữ (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_242.md",
-          "sha": "26d0e26ab1e7039261d9b657750cdcc403c7294d"
+          "sha": "0c5a1bc6ec4cdba82e998dd6e8aa6b11b0069010"
         },
         {
           "number": 243,
           "title": "Chương 243: Tập 10 Chương 5 - Món Quà Cảm Ơn của Cô Thôn Nữ (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_243.md",
-          "sha": "8bb072ad9dd94df20680ad1f6a84f23a515d6c01"
+          "sha": "459858a421a29ca9a3214e77a3d86642521b28a0"
         }
       ]
     },

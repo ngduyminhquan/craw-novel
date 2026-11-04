@@ -93,7 +93,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elza | Elza / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 222 | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas thuộc Giáo Hội Đông Thiên |
 | Yattul | Yattul / người đàn ông / người đánh xe / Goblin | 232 | Người đánh xe chở nhóm Rentt (thực chất là điệp viên Goblin, #233) |
 | Siren | Siren / ả / người phụ nữ / cô ta | 234 | Nữ điệp viên đồng mưu với Yattul (Goblin) |
-| Ferrici | Ferrici / cô gái / thiếu nữ | 235 | Thiếu nữ tại quán rượu Làng Looza |
+| Ferrici | Ferrici / cô gái / thiếu nữ / cô bé | 235 | Thiếu nữ tại quán rượu Làng Looza; không dùng "em ấy" trong lời dẫn chuyện của Rentt |
 | Leo | Leo / người đàn ông / ông ấy / người cha | 240 | Cha của Ferrici tại Làng Looza |
 | Lenora | Lenora / người phụ nữ / bà ấy / người mẹ | 240 | Mẹ của Ferrici tại Làng Looza |
 

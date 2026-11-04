@@ -140,7 +140,7 @@ Dù vậy, thứ nằm bên trong tổ lại càng khơi gợi sự tò mò củ
 
 Lorraine khẽ thốt lên: "Trứng và con non. Đây quả là cảnh tượng tôi chưa từng nghĩ mình sẽ được tận mắt chứng kiến."
 
-Bên trong tổ là những quả trứng Phi Long chưa nở cùng lũ Phi Long non trông chỉ mới vài ngày tuổi. Mẹ của chúng đang mớm mồi mớm miệng cho con hệt như loài chim. Ngoại hình của chúng cũng mang dáng dấp của loài chim, trông như những chú gà con phủ đầy lớp lông vũ màu xanh lam mềm mại. Dù vậy, kích thước của chúng lại khác xa so với các loài chim khác; lũ con non đã to bằng những con gà trưởng thành rồi. Ngay cả những quả trứng cũng quá lớn để có thể ôm bằng một tay.
+Bên trong tổ là những quả trứng Phi Long chưa nở cùng lũ Phi Long non trông chỉ mới vài ngày tuổi. Mẹ của chúng đang mớm mồi cho con hệt như loài chim. Ngoại hình của chúng cũng mang dáng dấp của loài chim, trông như những chú gà con phủ đầy lớp lông vũ màu xanh lam mềm mại. Dù vậy, kích thước của chúng lại khác xa so với các loài chim khác; lũ con non đã to bằng những con gà trưởng thành rồi. Ngay cả những quả trứng cũng quá lớn để có thể ôm bằng một tay.
 
 "Tôi muốn đập thử một quả trứng kia lên chảo rán ghê," Lorraine đùa cợt.
 

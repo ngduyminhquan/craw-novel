@@ -97,3 +97,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#238) Cụm từ "pulling the strings behind the curtains": dịch là "kẻ giật dây sau bức màn" (tránh nhầm thuật ngữ "Pulling" trong game là "dụ quái").
 - (#238) Cụm từ "average Joes": dịch là "những người dân bình thường / thường dân" (thành ngữ chỉ người bình thường, không phải tên riêng người tên Joe).
 - (#239) Cụm từ "plain-Jane villager": dịch là "cô thôn nữ bình thường / mộc mạc" (thành ngữ tiếng Anh chỉ cô gái bình thường, tránh nhầm tên riêng Jane).
+- (#243) Tránh dùng từ ngữ công nghệ hiện đại như "dây điện" trong bối cảnh kỳ ảo trung cổ khi miêu tả các hiệu ứng ma pháp điện/sấm sét (dùng "chấn song sét / vệt lôi điện / tia điện / luồng điện").
+- (#243) Thành ngữ "real-life": dịch linh hoạt ("ngoài đời thực / thực sự / bằng xương bằng thịt") tùy theo đối tượng, tránh dịch máy "bằng xương bằng thịt" cho các sinh vật dạng bán thể lỏng hoặc nguyên tố phi thể xác.
