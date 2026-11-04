@@ -46,7 +46,7 @@ Tôi chỉ dạy cho họ những kiến thức căn bản mà bất kỳ mạo 
 
 "Đúng chứ?"
 
-Hóa ra bấy lâu nay tôi đã dạy cho đám tân binh ở Maalt những điều hữu ích. Dẫu vậy, điều đó cũng chẳng ngăn được chuyện tôi bị rồng ăn thịt, một minh chứng rõ ràng cho thấy tôi vẫn chưa đủ cẩn trọng. Tôi đã để tính hiếu kỳ lấn át lý trí. Dù những phen kinh hồn bạt vía của Augurey có thể không sánh được với tôi, nhưng tôi chắc chắn anh cũng từng nếm trải không ít phen như thế. Cả hai chúng tôi đều nên rút ra bài học kinh nghiệm từ tôi. Chúng tôi không được phép quên đi cảm giác khi còn là những tân binh chân ướt chân ráo, luôn hết sức cẩn thận để hoàn thành thấu đáo từng công việc một. Dù là bây giờ hay mãi mãi về sau cũng vậy.
+Hóa ra bấy lâu nay tôi đã dạy cho đám tân binh ở Maalt những điều hữu ích. Dẫu vậy, điều đó cũng chẳng ngăn được chuyện tôi bị Rồng ăn thịt, một minh chứng rõ ràng cho thấy tôi vẫn chưa đủ cẩn trọng. Tôi đã để tính hiếu kỳ lấn át lý trí. Dù những phen kinh hồn bạt vía của Augurey có thể không sánh được với tôi, nhưng tôi chắc chắn anh cũng từng nếm trải không ít phen như thế. Cả hai chúng tôi đều nên rút ra bài học kinh nghiệm từ tôi. Chúng tôi không được phép quên đi cảm giác khi còn là những tân binh chân ướt chân ráo, luôn hết sức cẩn thận để hoàn thành thấu đáo từng công việc một. Dù là bây giờ hay mãi mãi về sau cũng vậy.
 
 "Vậy thì, tôi đã hoàn tất thủ tục xử lý thẻ mạo hiểm giả của hai vị rồi ạ." Nữ nhân viên Hội trao trả thẻ lại cho chúng tôi. "Hôm nay hai vị còn cần yêu cầu gì khác nữa không?"
 
@@ -56,7 +56,7 @@ Câu hỏi theo thông lệ đó đánh thức trí nhớ của tôi. "Tổng H�
 
 "Vâng, tôi được Hội ở Maalt cử đến để báo cáo tình hình bên đó với ngài ấy và hộ tống ngài ấy quay về. Chúng tôi nghe nói ngài ấy sắp về nên tôi mới tiện thể hỏi thăm."
 
-"À... Tôi thành thật xin lỗi, nhưng e là ngài ấy vẫn chưa trở về. Ngược lại, chúng tôi thậm chí còn không dám chắc khi nào ngài ấy mới về nữa. Chúng tôi thực lòng không muốn để hai vị phải chờ đợi quá lâu, nên nếu hai vị muốn, chúng tôi có thể thu xếp mọi việc ở đây để hai vị quay về mà không cần có ngài ấy đi cùng, nhưng mà..."
+"À... Tôi thành thật xin lỗi, nhưng e là ngài ấy vẫn chưa trở về. Trái lại, chúng tôi thậm chí còn không dám chắc khi nào ngài ấy mới về nữa. Chúng tôi thực lòng không muốn để hai vị phải chờ đợi quá lâu, nên nếu hai vị muốn, chúng tôi có thể thu xếp mọi việc ở đây để hai vị quay về mà không cần có ngài ấy đi cùng, nhưng mà..."
 
 Nếu họ sẵn sàng đi xa đến mức đó, thì nhiều khả năng là họ thực sự chẳng biết khi nào ông ấy mới trở về. Dẫu vậy, điều đó không có nghĩa là chúng tôi cứ thế gật đầu đồng ý rồi thong dong quay về Maalt. Hơn nữa, tôi cũng chẳng ngại nán lại vương đô thêm một thời gian. Tôi rất biết ơn vì họ sẵn lòng miễn trừ trách nhiệm cho chúng tôi và cho phép chúng tôi trở về trong trường hợp xấu nhất, nhưng hiện tại, tôi vẫn có thể chờ được.
 
@@ -126,7 +126,7 @@ Tôi cũng vậy. Từ phong thái mỹ nhân quyến rũ chết người mà c�
 
 "Giờ thì các cậu biết sự thật rồi đấy," ông lão nói. "Con bé phần nào giống như con gái và cháu gái đối với Goblin và ta. Bọn ta từng dự định sẽ dần dần giúp con bé tự lập và trưởng thành hơn."
 
-"Vậy là khi lập tổ đội trong tổ chức của các người, các vị làm việc cùng nhau đủ lâu để xây dựng mối quan hệ thân thiết sao?" Lorraine hỏi.
+"Vậy là khi lập tổ đội trong tổ chức của các ông, mọi người làm việc cùng nhau đủ lâu để xây dựng mối quan hệ thân thiết sao?" Lorraine hỏi.
 
 "Ta đoán là vậy. Chà, nói đúng hơn thì người có thâm niên cao nhất—trong trường hợp này là ta—sẽ đi khắp nơi tìm kiếm những kẻ sở hữu dị năng khác. Những người được bọn ta chọn sẽ trở thành cấp dưới, hình thành nên một thứ tương tự như gia đình, và từ đó bọn ta gây dựng nên mối liên kết vững như sắt thép. Đại để mọi chuyện là như thế."
 

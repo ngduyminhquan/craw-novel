@@ -34,7 +34,7 @@ Dẫu vậy, chúng tôi đâu thể đi sâu vào chi tiết mà không để l
 
 Giọng điệu của ông lão như thể vừa nảy ra một ý tưởng. Đáng tiếc là ông ta hoàn toàn đoán sai bét. Đúng là gần đây tôi mới biến thành quái vật, nhưng đâu phải tôi có thể cứ thế toạc móng heo ra được. Dẫu vậy, sau khi ngẫm nghĩ một chút, tôi nhận ra suy đoán của ông ta thực chất lại khá sát với tình cảnh của mình. Nghe có vẻ cũng là một vỏ bọc hữu ích, nên tôi quyết định hùa theo luôn.
 
-"Dạ, đại khái là thế đấy ạ," tôi nói.
+"Ừm, đại khái là thế đấy," tôi nói.
 
 "Ra là vậy. Chà, chẳng có quy luật hay lý do cụ thể nào cho thời điểm mà dị năng quyết định thức tỉnh cả. Cũng giống như việc có người sở hữu chúng ngay từ lúc mới lọt lòng, lại có những kẻ bỗng một ngày thức giấc nhận ra mình có được nó. Xét theo khía cạnh đó thì cậu thuộc diện nở muộn đấy."
 
@@ -68,7 +68,7 @@ Khóe mắt tôi nóng lên, nhưng nước mắt vốn chẳng phải thứ mà
 
 "Trông ông chẳng giống một người trong số họ chút nào," Lorraine nói.
 
-"Ta khiến tất cả phải câm miệng bằng chính sức mạnh của mình. Vả lại, giờ ta cũng đã già rồi. Việc nuôi dưỡng ngọn lửa thù hận đối với người khác là một điều khó khăn đến bất ngờ đấy. Hơn nữa, hiện tại ta cũng có thứ cần phải bảo vệ. Chính mối liên kết giữa một người với đồng loại mới giúp họ được làm người, phải không? Kể cả khi họ có lỡ là một con quái vật đi chăng nữa."
+"Ta khiến tất cả phải câm miệng bằng chính sức mạnh của mình. Vả lại, giờ ta cũng đã già rồi. Việc nuôi dưỡng ngọn lửa thù hận đối với người khác là một điều khó khăn đến bất ngờ đấy. Hơn nữa, hiện tại ta cũng có thứ cần phải bảo vệ. Chính mối liên kết giữa một người với những người xung quanh mới giúp họ được làm người, phải không? Kể cả khi họ có lỡ là một con quái vật đi chăng nữa."
 
 Ông lão rõ ràng đang nghĩ về bản thân mình, Goblin và Siren, nhưng những lời lẽ ấy cũng vang vọng sâu sắc trong lòng tôi bởi tôi nghĩ ông ta nói hoàn toàn chuẩn xác. Tôi có những người như Lorraine và Augurey, những người chấp nhận con người thật của tôi. Chính vì lẽ đó, dẫu cho thể xác này là của một con quái vật, tôi vẫn có thể là chính mình. Tôi dám chắc về điều đó.
 
@@ -120,11 +120,11 @@ Siren thở hắt ra. "Làm vậy lúc nào cũng khiến tôi mệt lử." Cô 
 
 Dẫu thoạt nghe qua thì đó có vẻ là một thứ sức mạnh cực kỳ tiện lợi, xét đến việc nó về cơ bản là ma thuật không cần tiêu tốn Ma Lực để duy trì, nhưng dường như nó không hẳn chỉ toàn những điểm ưu việt. Nó cũng đi kèm với những nỗi khổ riêng. Vốn dĩ những dị năng đặc thù luôn gắn liền với gian truân trắc trở, nên thực sự khó lòng mà ghen tị với việc sở hữu chúng được.
 
-Ông lão trông như thể đã đọc xong, nên tôi liền lên tiếng. "Vậy trong thư nói gì thế ạ?"
+Ông lão trông như thể đã đọc xong, nên tôi liền lên tiếng. "Vậy trong thư nói gì thế ông?"
 
 "Goblin đã gặp thủ lĩnh và thu xếp đạt được một thỏa thuận rồi," ông ta đáp.
 
-"Tôi biết giao việc đó cho cậu ta là hoàn toàn đúng đắn mà."
+"Tôi biết ngay giao việc đó cho anh ta là hoàn toàn đúng đắn mà."
 
 Augurey huýt sáo một tiếng. "Không tệ." Cử chỉ đó trông có vẻ hờ hững, nhưng tính cách anh ta vốn dĩ là như vậy. "Vậy địa điểm gặp mặt ở đâu? Và chúng ta đi ngay bây giờ sao?"
 
@@ -166,7 +166,7 @@ Goblin dường như cũng có cùng mối hoài nghi như tôi, bởi hắn lê
 
 "Tôi đã bảo là, 'Sau khi quan sát kỹ lưỡng các mục tiêu, chúng tôi phát hiện ra có sự sai lệch trong những thông tin trước đó được cung cấp. Do đó, thật vô cùng đáng tiếc khi việc tiếp xúc trực tiếp đã trở nên cần thiết. Hơn nữa, theo đánh giá của Spriggan, các mục tiêu là những nhân vật mà việc biến họ thành kẻ thù sẽ rất rắc rối. Chúng tôi không chắc về cơ hội thành công của mình nếu không có viện binh, nhưng chẳng còn lựa chọn nào khác, chúng tôi buộc phải đối đầu với họ.'"
 
-Goblin tiếp tục. "'Sau đó, các mục tiêu bày tỏ với chúng tôi mong muốn được diện kiến cấp trên của chúng ta. Lẽ dĩ nhiên đây không phải là một yêu cầu đơn giản, nhưng vì tin rằng điều đó đem lại lợi ích, chúng tôi đã quay về để báo cáo và xin ý kiến chỉ thị tiếp theo. Nếu ngài không muốn lắng nghe họ phân trần, thì có lẽ việc dẫn họ trở về căn cứ tác chiến của chúng ta cũng có thể coi là chúng tôi đã hoàn thành nhiệm vụ chăng?' Đại khái đó là những gì tôi cố gắng truyền đạt."
+Goblin tiếp tục. "'Sau đó, các mục tiêu bày tỏ với chúng tôi mong muốn được gặp mặt cấp trên của chúng ta. Lẽ dĩ nhiên đây không phải là một yêu cầu đơn giản, nhưng vì tin rằng điều đó đem lại lợi ích, chúng tôi đã quay về để báo cáo và xin ý kiến chỉ thị tiếp theo. Nếu ngài không muốn lắng nghe họ phân trần, thì có lẽ việc dẫn họ trở về căn cứ của chúng ta cũng có thể coi là chúng tôi đã hoàn thành nhiệm vụ chăng?' Đại khái đó là những gì tôi cố gắng truyền đạt."
 
 Hử, vậy là hắn đã quyết định bám sát phần lớn sự thật sao? Nghe qua thì có vẻ hắn không hề đả động đến chuyện bọn họ đã thua chúng tôi hay chuyện chúng tôi muốn họ chấm dứt việc nhắm vào mình, nhưng đó vốn dĩ là những chủ đề rất khó nói ra. Tôi nghĩ đó là một lựa chọn đúng đắn, bởi nếu hắn đi quá sâu vào chi tiết, nhiều khả năng bọn chúng sẽ chỉ coi hắn là kẻ phản bội mà thôi.
 

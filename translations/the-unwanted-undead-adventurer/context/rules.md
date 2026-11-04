@@ -101,3 +101,6 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#243) Thành ngữ "real-life": dịch linh hoạt ("ngoài đời thực / thực sự / bằng xương bằng thịt") tùy theo đối tượng, tránh dịch máy "bằng xương bằng thịt" cho các sinh vật dạng bán thể lỏng hoặc nguyên tố phi thể xác.
 - (#248) Cụm từ "turned into paste" / "crushed to a pulp": dịch thống nhất là "đè bẹp dí thành tương" hoặc "nghiền nát bấy thành tương" (tránh dùng "tương cà" lệch bối cảnh fantasy trung cổ).
 - (#250) Tránh dùng đại từ ước lệ cổ trang "nàng" khi dịch "she" chỉ công chúa (dùng "cô ấy"); luôn viết hoa đầy đủ các danh hiệu hoàng tộc ("Đệ Nhất Công Chúa", "Nhị Công Chúa", "Đệ Nhất Hoàng Tử").
+- (#254) Cụm từ "on the contrary" khi mang nghĩa tiếp nối/bổ sung mức độ ("thậm chí / tệ hơn nữa là"): dịch là "trái lại / thậm chí", tránh dịch máy thành "ngược lại".
+- (#255) Xưng hô của Rentt đối với Spriggan: luôn xưng "tôi", gọi "ông" một cách đĩnh đạc, bình đẳng, không dùng kính ngữ quá đà ("dạ", "ạ") biến Rentt thành đứa trẻ khép nép.
+- (#255) Từ "fairy": dịch là "nàng tiên" khi chỉ tiên nữ tí hon có cánh (như Tilya ở #140), dịch là "loài tiên / chủng tiên" khi nói về phân loài cổ tích thần thoại (như Spriggan ở #255).

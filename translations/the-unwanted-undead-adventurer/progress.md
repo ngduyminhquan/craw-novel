@@ -257,9 +257,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | reviewed |  |
 | 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | reviewed |  |
 | 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | reviewed |  |
-| 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | done |  |
-| 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | done |  |
-| 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | done |  |
+| 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | reviewed |  |
+| 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | reviewed |  |
+| 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | reviewed |  |
 | 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | todo |  |
 | 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | todo |  |
 | 258 |  | Chapter_258 - Vol 11 Chapter 3 - The Organization (3).txt | Vol 11 Chapter 3 - The Organization (3) | todo |  |
