@@ -8,15 +8,15 @@ Lorraine gặng hỏi sâu hơn. "Vậy kẻ chủ mưu là ai?"
 
 "Hợp lý đấy," Lorraine nói.
 
-Nghe qua thì có vẻ như những suy đoán của chúng tôi về Đệ Nhất Công Chúa là chính xác. Nàng—à thì, thực ra là những kẻ theo phe nàng, điều này khiến mọi chuyện càng thêm rối rắm—đã nhắm vào chúng tôi vì chúng tôi có mối liên hệ với nhị công chúa, và điều đó đã biến chúng tôi thành một rắc rối.
+Nghe qua thì có vẻ như những suy đoán của chúng tôi về Đệ Nhất Công Chúa là chính xác. Cô ấy—à thì, thực ra là những kẻ theo phe cô ấy, điều này khiến mọi chuyện càng thêm rối rắm—đã nhắm vào chúng tôi vì chúng tôi có mối liên hệ với Nhị Công Chúa, và điều đó đã biến chúng tôi thành một rắc rối.
 
-Nếu đích thân là Đệ Nhất Công Chúa ra tay, chúng tôi đã có thể bẩm báo vụ tập kích này với nhị công chúa, điều có thể trao cho nàng căn cứ để tố giác người chị gái của mình, nhưng đằng này kẻ chủ mưu chỉ là một người ủng hộ...
+Nếu đích thân là Đệ Nhất Công Chúa ra tay, chúng tôi đã có thể bẩm báo vụ tập kích này với Nhị Công Chúa, điều có thể trao cho cô ấy căn cứ để tố giác người chị gái của mình, nhưng đằng này kẻ chủ mưu chỉ là một người ủng hộ...
 
 Dẫu vậy, chuyện này lẽ dĩ nhiên vẫn sẽ để lại hậu quả, nhưng tôi không nghĩ nó đủ sức lật đổ chính bản thân Đệ Nhất Công Chúa.
 
-Dù sao thì mấy trò thao túng chính trị chi ly kiểu đó cũng đâu thuộc phạm trù chuyên môn của chúng tôi—chúng tôi vốn là mạo hiểm giả. Báo cho nhị công chúa biết rồi chúc nàng may mắn có lẽ là hướng đi hợp lý, ngoại trừ việc tôi chẳng hề muốn tự rước thêm phiền phức vào thân. Tôi thực sự chẳng nghĩ ra được giải pháp nào khả dĩ.
+Dù sao thì mấy trò thao túng chính trị chi ly kiểu đó cũng đâu thuộc phạm trù chuyên môn của chúng tôi—chúng tôi vốn là mạo hiểm giả. Báo cho Nhị Công Chúa biết rồi chúc cô ấy may mắn có lẽ là hướng đi hợp lý, ngoại trừ việc tôi chẳng hề muốn tự rước thêm phiền phức vào thân. Tôi thực sự chẳng nghĩ ra được giải pháp nào khả dĩ.
 
-Dù vậy, giới hoàng gia quả thực cũng chẳng dễ dàng gì. Phải bày mưu tính kế với chính gia đình mình như thế... Khoan đã, liệu trường hợp ở đây có thực sự như vậy không? Đệ Nhất Công Chúa trên thực tế đâu có vạch ra kế hoạch này. Tôi cũng chẳng rõ mối quan hệ giữa nàng với em gái mình tốt đẹp đến mức nào. Tôi từng đinh ninh rằng nếu có kẻ nào muốn nhắm vào nhị công chúa, thì đó hẳn phải là đệ nhất hoàng tử hoặc đệ nhất công chúa, nhưng thú thật là tôi chẳng có chút manh mối nào về tình cảm giữa họ với nhau. Có lẽ tôi sẽ hỏi vào lần tới khi có cơ hội.
+Dù vậy, giới hoàng gia quả thực cũng chẳng dễ dàng gì. Phải bày mưu tính kế với chính gia đình mình như thế... Khoan đã, liệu trường hợp ở đây có thực sự như vậy không? Đệ Nhất Công Chúa trên thực tế đâu có vạch ra kế hoạch này. Tôi cũng chẳng rõ mối quan hệ giữa cô ấy với em gái mình tốt đẹp đến mức nào. Tôi từng đinh ninh rằng nếu có kẻ nào muốn nhắm vào Nhị Công Chúa, thì đó hẳn phải là Đệ Nhất Hoàng Tử hoặc Đệ Nhất Công Chúa, nhưng thú thật là tôi chẳng có chút manh mối nào về tình cảm giữa họ với nhau. Có lẽ tôi sẽ hỏi vào lần tới khi có cơ hội.
 
 "Tóm lại, chủ thuê của các người là Nữ Bá tước Gisel Georgiou?" Lorraine hỏi.
 
@@ -56,7 +56,7 @@ Cá nhân tôi nghĩ điều đó có phần quá lạc quan, nhưng thử một
 
 Lorraine gật đầu. "Tôi cho là vậy. Chúng ta cũng có lựa chọn tìm đến nữ bá tước cùng ‘tổ chức’ này để nói chuyện trực tiếp với họ. Dù rằng điều đó sẽ khá rủi ro."
 
-Tôi muốn tránh một nơi toàn những kẻ như ông lão hết mức có thể, nhưng tôi không thể phủ nhận rằng sớm muộn gì chúng tôi cũng phải tới đó. Nhờ nhị công chúa hòa giải với—hoặc ít nhất là làm điều gì đó về—chị gái nàng cũng là một lựa chọn, nhưng tôi chẳng rõ liệu điều đó có khả thi hay không.
+Tôi muốn tránh một nơi toàn những kẻ như ông lão hết mức có thể, nhưng tôi không thể phủ nhận rằng sớm muộn gì chúng tôi cũng phải tới đó. Nhờ Nhị Công Chúa hòa giải với—hoặc ít nhất là làm điều gì đó về—chị gái cô ấy cũng là một lựa chọn, nhưng tôi chẳng rõ liệu điều đó có khả thi hay không.
 
 "Tôi đoán chúng ta nên bắt đầu từ việc dễ nhất rồi hẵng nâng dần lên," tôi nói, khép lại cuộc bàn luận nhóm của chúng tôi.
 
@@ -98,7 +98,7 @@ Tôi trao ánh nhìn với Lorraine và Augurey, và tất cả chúng tôi dư�
 
 "Ả vẫn ổn," Augurey đáp. "Chúng tôi đâu có tra tấn ả hay gì đâu. Ờ... chúng ta đâu có làm vậy, phải không?"
 
-Anh ta hướng phần câu hỏi đầy bồn chồn sau cùng đó về phía Lorraine. Cô là người đã tra khảo Siren, và chúng tôi không rõ cô đã làm điều đó như thế nào. Không hoàn toàn loại trừ khả năng cô đã làm những chuyện khá kinh khủng để ép cung.
+Anh hướng phần câu hỏi đầy bồn chồn sau cùng đó về phía Lorraine. Cô là người đã tra khảo Siren, và chúng tôi không rõ cô đã làm điều đó như thế nào. Không hoàn toàn loại trừ khả năng cô đã làm những chuyện khá kinh khủng để ép cung.
 
 "Không hề nhé," Lorraine đáp. "Tôi thực sự không thể nói là mình đã gây tổn hại thể chất cho cô ta, và tinh thần cô ta cũng vẫn ổn. Tôi có thể đảm bảo với ông rằng ý thức tự thân của cô ta vẫn y nguyên như trước đây thôi."
 
@@ -128,7 +128,7 @@ Tôi chẳng biết ông lão sẽ làm gì nếu chúng tôi thả chính bản
 
 Goblin trong chiến đấu yếu hơn ông lão rất, rất nhiều. Nếu tình huống tồi tệ nhất xảy ra, việc để hắn quay về một mình sẽ đồng nghĩa với việc chúng tôi gián tiếp hại chết hắn.
 
-"Chừng nào ta còn ở đây, thằng bé sẽ ổn thôi," ông lão đáp. "Bọn họ sẽ chỉ thắc mắc liệu ta có đang ấp ủ kế hoạch nào trong tay áo hay không. Dù trông ta thế này, ta vẫn là một trong những tay thiện chiến hơn cả trong tổ chức của bọn ta đấy. Tất nhiên là với điều kiện ta được sử dụng dị năng của mình."
+"Chừng nào ta còn ở đây, thằng bé sẽ ổn thôi," ông lão đáp. "Bọn họ sẽ chỉ thắc mắc liệu ta có đang giấu bài tẩy nào hay không. Dù trông ta thế này, ta vẫn là một trong những tay thiện chiến hơn cả trong tổ chức của bọn ta đấy. Tất nhiên là với điều kiện ta được sử dụng dị năng của mình."
 
 "Hửm? Ý ông muốn nói là..."
 

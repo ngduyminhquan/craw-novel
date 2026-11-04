@@ -254,9 +254,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 247 |  | Chapter_247 - Vol 11 Chapter 1 - Surprise Attack (4).txt | Vol 11 Chapter 1 - Surprise Attack (4) | reviewed |  |
 | 248 |  | Chapter_248 - Vol 11 Chapter 1 - Surprise Attack (5).txt | Vol 11 Chapter 1 - Surprise Attack (5) | reviewed |  |
 | 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | reviewed |  |
-| 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | done |  |
-| 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | done |  |
-| 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | done |  |
+| 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | reviewed |  |
+| 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | reviewed |  |
+| 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | reviewed |  |
 | 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | todo |  |
 | 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | todo |  |
 | 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | todo |  |

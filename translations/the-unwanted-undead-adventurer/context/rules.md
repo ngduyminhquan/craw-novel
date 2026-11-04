@@ -100,3 +100,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#243) Tránh dùng từ ngữ công nghệ hiện đại như "dây điện" trong bối cảnh kỳ ảo trung cổ khi miêu tả các hiệu ứng ma pháp điện/sấm sét (dùng "chấn song sét / vệt lôi điện / tia điện / luồng điện").
 - (#243) Thành ngữ "real-life": dịch linh hoạt ("ngoài đời thực / thực sự / bằng xương bằng thịt") tùy theo đối tượng, tránh dịch máy "bằng xương bằng thịt" cho các sinh vật dạng bán thể lỏng hoặc nguyên tố phi thể xác.
 - (#248) Cụm từ "turned into paste" / "crushed to a pulp": dịch thống nhất là "đè bẹp dí thành tương" hoặc "nghiền nát bấy thành tương" (tránh dùng "tương cà" lệch bối cảnh fantasy trung cổ).
+- (#250) Tránh dùng đại từ ước lệ cổ trang "nàng" khi dịch "she" chỉ công chúa (dùng "cô ấy"); luôn viết hoa đầy đủ các danh hiệu hoàng tộc ("Đệ Nhất Công Chúa", "Nhị Công Chúa", "Đệ Nhất Hoàng Tử").

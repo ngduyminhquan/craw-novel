@@ -6,7 +6,7 @@ Khi chúng tôi gặp lại Ferrici, cô bé dồn dập hỏi chúng tôi cả 
 
 "Thật vậy sao ạ?" Ferrici hỏi.
 
-Có điều cô bé đâu có hỏi tôi; cô bé đang hỏi Augurey đấy chứ. Chắc hẳn cô bé rất tin tưởng anh ta.
+Có điều cô bé đâu có hỏi tôi; cô bé đang hỏi Augurey đấy chứ. Chắc hẳn cô bé rất tin tưởng anh.
 
 Augurey mỉm cười. "Phải rồi. Còn về quý ông lớn tuổi này, ông ấy là... một trong những đồng bọn của kẻ địch. Bọn anh vẫn cần phải tra hỏi ông ấy vài điều. Bọn anh không hề ngược đãi người già đâu nhé, được chứ?"
 
@@ -14,7 +14,7 @@ Giải thích phần đó là rất quan trọng. Nếu không nói rõ, trông 
 
 Ferrici có vẻ đã chấp nhận lời giải thích. Mạo hiểm giả luôn có những chuyện rắc rối mà người ngoài khó lòng thấu hiểu, nên có lẽ cô bé nghĩ đây cũng chỉ là một phần trong số đó. Phần lớn dân làng đều được nuôi dạy với sự cảnh giác lành mạnh trước mạo hiểm giả và được căn dặn tránh lại gần họ để không bị cuốn vào những trò tai quái của họ. Với người lớn thì là chuyện khác, nhưng cảm giác này có phần giống như bị đối xử như một loài dã thú vậy.
 
-Ferrici chỉ đơn giản đáp, "Em thấy hơi tội nghiệp cho ông ấy, nhưng em đoán các anh cũng không còn lựa chọn nào khác..."
+Ferrici chỉ đơn giản đáp, "Em thấy hơi tội nghiệp cho ông ấy, nhưng em đoán các anh chị cũng không còn lựa chọn nào khác..."
 
 ![](images/ch251-01.webp)
 
@@ -44,7 +44,7 @@ Chà, phũ thật đấy.
 
 Siren, người nãy giờ vẫn lắng nghe, bắt đầu gào to hơn nữa, nhưng mọi người đều phớt lờ ả.
 
-"Vậy để tôi đi," Augurey nói. Anh ta quay sang ông lão. "Tôi cho là chúng ta sẽ dùng căn phòng này để nói chuyện chứ?"
+"Vậy để tôi đi," Augurey nói. Anh quay sang ông lão. "Tôi cho là chúng ta sẽ dùng căn phòng này để nói chuyện chứ?"
 
 "Được đấy," ông lão đáp. "Dù sao thì chúng ta cũng cần phải giải thích cho cả Siren hiểu nữa."
 
@@ -74,7 +74,7 @@ Trái ngược với những lời lẽ ôn tồn của ông lão, giọng đi�
 
 Goblin có vẻ ngập ngừng, nhưng ông lão không hề nhượng bộ.
 
-"Ta hiểu cảm giác của cậu. Cậu đang nghĩ rằng đó là một quyết định quá lớn đối với chúng ta, hoặc làm thế sẽ là phản bội tổ chức, nhưng với tình hình hiện tại, đằng nào chúng ta nhiều khả năng cũng phải chết. Trong trường hợp xấu nhất, ta có thể tự mình trốn chạy một mình, nhưng cậu và Siren liệu có ổn với điều đó không? Ta sẽ không ngăn cản nếu hai đứa muốn thế, nhưng..."
+"Ta hiểu cảm giác của cậu. Cậu đang nghĩ rằng đó là một quyết định quá lớn đối với chúng ta, hoặc làm thế sẽ là phản bội tổ chức, nhưng với tình hình hiện tại, đằng nào chúng ta nhiều khả năng cũng phải chết. Trong trường hợp xấu nhất, ta có thể tự mình trốn chạy, nhưng cậu và Siren liệu có ổn với điều đó không? Ta sẽ không ngăn cản nếu hai đứa muốn thế, nhưng..."
 
 Ông ta có lẽ thực tế không hề nghĩ mình có thể làm vậy. Nếu Goblin từ chối và chúng tôi không thể gặp mặt thủ lĩnh của họ, thì tất cả chúng tôi đều biết mình sẽ phải làm gì với ông lão. Đâu thể nào chúng tôi cứ thế thả ông ta đi để rồi trong tương lai ông ta quay lại cắn chúng tôi được. Tôi đoán chúng tôi quả thực có quyền lựa chọn cố ý thả ông ta đi, nhưng khả năng chúng tôi phải đưa ra quyết định đó là rất mong manh, nên tạm thời tôi gác lại suy nghĩ về chuyện ấy.
 
@@ -122,7 +122,7 @@ Goblin hướng phần sau cùng của câu hỏi thẳng về phía chúng tôi
 
 "Có lẽ dị năng của chúng ta cũng ảnh hưởng đến cả tính cách nữa, nhỉ? Trông cậy cả vào cậu đấy."
 
-"Biết rồi, biết rồi. Đã trót mang một đồng xu đồng thì phải ráng tới một đồng xu vàng thôi, đâm lao đành phải theo lao vậy. Bằng cách nào đó tôi sẽ lo liệu êm xuôi."
+"Biết rồi, biết rồi. Đã lỡ dấn một đồng xu đồng thì phải theo tới một đồng xu vàng thôi, đâm lao thì phải theo lao vậy. Bằng cách nào đó tôi sẽ lo liệu êm xuôi."
 
 Đúng lúc đó thì Siren lại bắt đầu gào thét nghẹn ngào. Rõ ràng là ả rốt cuộc cũng đã hoàn hồn sau cú sốc khi nghe tin về thất bại của ông lão. Chúng tôi quay lại nhìn ả rồi khựng lại. Tôi nghĩ tất cả chúng tôi suýt nữa thì quên khuấy mất sự hiện diện của ả trong phòng.
 

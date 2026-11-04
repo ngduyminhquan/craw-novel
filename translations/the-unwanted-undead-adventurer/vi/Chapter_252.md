@@ -28,7 +28,7 @@ Ban đầu chúng tôi cứ ngỡ rằng sau khi cử Goblin đi làm người �
 
 "Ông có nghĩ ông ấy sẽ đồng ý gặp chúng ta không?" Augurey hỏi. Có lẽ vì bầu không khí tĩnh lặng khiến anh thấy buồn chán, nên anh đã hướng câu hỏi về phía ông lão và Siren, những người đang ở trong xe cùng chúng tôi.
 
-Goblin đang cầm dây cương bên ngoài, tiếp tục công việc đánh xe cho chúng tôi. Thoạt nhìn thì việc để hắn tự do có vẻ là một ý tồi, nhưng hóa ra dị năng của hắn chẳng có gì đáng sợ cho lắm. Khi chúng tôi yêu cầu hắn giải thích chi tiết, hắn đã bảo rằng nó chỉ cho phép hắn điều khiển và giao tiếp với goblin cùng hobgoblin mà thôi. Khả năng chiến đấu cá nhân của hắn thực chất chỉ xấp xỉ một mạo hiểm giả Ngân Cấp hạng trung bình, ngoài ra chẳng có điểm gì đặc biệt đáng lưu tâm. Trong trường hợp hắn quyết định bỏ trốn, Lorraine có thể lần theo dấu vết của hắn bất kể hắn chạy đi đâu. Dù vậy, hắn sẽ không làm thế đâu, vì hành động đó sẽ chỉ biến hắn thành mục tiêu bị săn đuổi trong mắt tổ chức của mình.
+Goblin đang cầm dây cương bên ngoài, tiếp tục công việc đánh xe cho chúng tôi. Thoạt nhìn thì việc để hắn tự do có vẻ là một ý tồi, nhưng hóa ra dị năng của hắn chẳng có gì đáng sợ cho lắm. Khi chúng tôi yêu cầu hắn giải thích chi tiết, hắn đã bảo rằng nó chỉ cho phép hắn điều khiển và giao tiếp với Goblin cùng Hobgoblin mà thôi. Khả năng chiến đấu cá nhân của hắn thực chất chỉ xấp xỉ một mạo hiểm giả Ngân Cấp hạng trung bình, ngoài ra chẳng có điểm gì đặc biệt đáng lưu tâm. Trong trường hợp hắn quyết định bỏ trốn, Lorraine có thể lần theo dấu vết của hắn bất kể hắn chạy đi đâu. Dù vậy, hắn sẽ không làm thế đâu, vì hành động đó sẽ chỉ biến hắn thành mục tiêu bị săn đuổi trong mắt tổ chức của mình.
 
 Với suy nghĩ đó, chúng tôi cho rằng cứ để hắn tự do không cần trói buộc cũng chẳng sao. Chúng tôi cũng làm điều tương tự với Siren, bởi dị năng cùng sức chiến đấu của cô ta thực sự không phải là mối bận tâm đối với chúng tôi. Chẳng có gì đáng ngạc nhiên khi ông lão, không chút nghi ngờ gì, chính là kẻ đáng sợ nhất trong số ba người bọn họ.
 
@@ -36,7 +36,7 @@ Bằng tông giọng ôn tồn, ông lão trả lời câu hỏi của Augurey. 
 
 "Đúng vậy," Augurey đồng tình. "Tôi đoán đó là lý do vì sao ngay từ đầu chúng tôi lại thuê anh ta làm người đánh xe cho mình. Anh ta có khiếu lấy lòng người khác."
 
-"Phải vậy. Ta sẽ chẳng hề ngạc nhiên nếu chuyện đó có liên quan đến dị năng của cậu ta. Việc điều khiển và giao tiếp với goblin là một chuyện, nhưng biết đâu chừng nó cũng có tác dụng lên con người ở một mức độ nào đó."
+"Phải vậy. Ta sẽ chẳng hề ngạc nhiên nếu chuyện đó có liên quan đến dị năng của cậu ta. Việc điều khiển và giao tiếp với Goblin là một chuyện, nhưng biết đâu chừng nó cũng có tác dụng lên con người ở một mức độ nào đó."
 
 Lorraine nghiêng người về phía trước, vẻ mặt đầy thích thú. "Không biết ông có thể giải thích chi tiết hơn về chuyện đó được không?"
 
@@ -90,11 +90,11 @@ Cứ như thế, cỗ xe của chúng tôi tiếp tục cuộc hành trình. Sau
 
 Tốc độ di chuyển của chúng tôi có phần hơi chậm vì chúng tôi đã rất thận trọng; chúng tôi không chắc liệu tổ chức của ông lão đã biết về chúng tôi hay chưa. May mắn thay, có vẻ như sự việc không rơi vào trường hợp đó. Nếu đã biết, thì theo lời ông lão, bọn họ nhất định sẽ phái sát thủ đuổi theo chúng tôi trong suốt chuyến hành trình. Xét cho cùng, việc ám sát mạo hiểm giả và thương nhân ở ngoài đường lộ sẽ tiện lợi hơn nhiều khi mà khâu dọn dẹp hiện trường dễ dàng hơn, nên những vụ ra tay ám hại sẽ ít phổ biến hơn sau khi mục tiêu đã vào được trong thị trấn.
 
-Tôi có cảm giác vốn hiểu biết của mình đang bị lệch sang một hướng kỳ lạ khi ở bên cạnh ông lão cùng những kẻ đồng mưu với ông ta... nhưng mà này, học hỏi thêm điều mới chẳng bao giờ là chuyện xấu cả.
+Tôi có cảm giác vốn hiểu biết của mình đang bị lệch sang một hướng kỳ lạ khi ở bên cạnh ông lão cùng các đồng sự của ông ta... nhưng mà này, học hỏi thêm điều mới chẳng bao giờ là chuyện xấu cả.
 
 Tôi có phần hơi lo lắng về việc tiến vào thành. Augurey, Lorraine và tôi thì vào thoải mái thôi, nhưng tôi lo không biết liệu họ có cho ông lão cùng nhóm của ông ta vào hay không. Đến thời điểm này thì lẽ dĩ nhiên chúng tôi đã tháo bỏ dây trói toàn thân của ông ta, nhưng tay và chân ông ta vẫn bị trói. Lorraine đã cố hết sức điều chỉnh các sợi dây trói triệu hồi bằng ma pháp sao cho không thể nhìn thấy được, nhưng chẳng ai đoán trước được mọi chuyện sẽ diễn biến ra sao.
 
-Dẫu vậy, ông lão lại vô cùng hợp tác, và tất cả chúng tôi đều qua cổng mà không gặp phải mấy rắc rối. Ông ta và những kẻ đồng mưu có giấy tờ tùy thân chứng minh họ là thương nhân. Rõ ràng là họ có vài loại giấy tờ khác nhau, nhưng lại chọn loại đó vì chúng ít gây nghi ngờ nhất khi hiện tại họ đang làm việc cùng với Goblin.
+Dẫu vậy, ông lão lại vô cùng hợp tác, và tất cả chúng tôi đều qua cổng mà không gặp phải mấy rắc rối. Ông ta và các cộng sự có giấy tờ tùy thân chứng minh họ là thương nhân. Rõ ràng là họ có vài loại giấy tờ khác nhau, nhưng lại chọn loại đó vì chúng ít gây nghi ngờ nhất khi hiện tại họ đang làm việc cùng với Goblin.
 
 Trong những tình huống như thế này, thẻ chứng nhận mạo hiểm giả là lựa chọn đơn giản nhất để ra vào các thành phố và làng mạc vì nó rất khó bị lộ tẩy, nhưng theo lời họ thì tổ chức của họ muốn ngăn không cho Hội Mạo Hiểm Giả can thiệp vào chuyện nội bộ của mình.
 
@@ -106,7 +106,7 @@ Tất cả chúng tôi đều đã xuống xe ngoại trừ hắn—hắn có l�
 
 Augurey trả lời: "Xem nào... Ai trong chúng tôi đi cũng được, nhưng trước hết chúng tôi phải đem nộp số nguyên liệu đã thu thập được cái đã. Vốn dĩ ban đầu chúng tôi lên đường cũng vì lý do đó."
 
-Anh ta nói đúng. Những ủy thác đó bằng cách nào đó đã kéo chúng tôi vào một tình huống nói thật là khó tin, nhưng mà, xung đột vốn là một phần không thể tách rời của cuộc đời mạo hiểm giả. Tôi sẽ là kẻ nói dối nếu bảo rằng chuyện đó không có chút thú vị nào. Có lẽ nghĩ như vậy là không đúng, nhưng xét cho cùng, nếu một người không tìm thấy dù chỉ một chút thích thú từ những cảm giác hồi hộp bất ngờ hay những trận chiến, thì họ vốn không thích hợp để làm mạo hiểm giả.
+Anh nói đúng. Những ủy thác đó bằng cách nào đó đã kéo chúng tôi vào một tình huống nói thật là khó tin, nhưng mà, xung đột vốn là một phần không thể tách rời của cuộc đời mạo hiểm giả. Tôi sẽ là kẻ nói dối nếu bảo rằng chuyện đó không có chút thú vị nào. Có lẽ nghĩ như vậy là không đúng, nhưng xét cho cùng, nếu một người không tìm thấy dù chỉ một chút thích thú từ những cảm giác hồi hộp bất ngờ hay những trận chiến, thì họ vốn không thích hợp để làm mạo hiểm giả.
 
 Nếu người ta thấy chán ngán những điều như thế, chúng rồi sẽ thừa lúc sơ hở mà ập đến rồi cướp đi mạng sống của người ta. Nhưng nếu tìm thấy niềm vui trong đó, người ta sẽ luôn tự nhắc nhở bản thân phải sẵn sàng đón nhận. Một điều gì đó mới mẻ và thú vị có thể đang chờ đón ngay trước mắt. Một cuộc sống tràn đầy sự tò mò phấn khích cũng là một cách sống đáng trân trọng chẳng kém bất kỳ lối sống nào khác. Dẫu vậy, việc có quá nhiều mạo hiểm giả mang tính cách như thế chính là lý do vì sao phần lớn mọi người đều bảo nên tránh xa chúng tôi ra.
 
