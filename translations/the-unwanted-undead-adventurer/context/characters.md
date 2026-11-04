@@ -112,14 +112,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jad |  | Jad | Học sinh lớp học tư thục ở Maalt, tính tình hấp tấp hay gây rắc rối | #217 |
 | Gerge |  | Gerge | Học sinh lớp học tư thục ở Maalt, người chạy đi báo tin và tìm Lorraine | #217 |
 | Frahe |  | Frahe | Thiếu gia khoảng 10 tuổi thuộc gia tộc Muze ở Maalt, rất ngưỡng mộ Isaac | #218 |
-| Jean Seebeck |  | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran | #221 |
+| Jean Seebeck | Jean; Chief Jean | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran, thủ lĩnh tổ chức sát thủ | #221 |
 | Elza | Abbess Elza; Mother Elza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
 | Elza Olgado |  | Elza Olgado | Tên đầy đủ của Nữ Tu Viện Trưởng Elza | #223 |
 | Marquess of Ancro | Marquess Ancro | Hầu tước xứ Ancro | Tước vị quý tộc của Nauss Ancro, người đứng đầu Gia tộc Ancro | #227 |
 | Lukas Bader | Duke Lukas Bader | Lukas Bader | Công tước kiêm Phó Vương của Vương Quốc Yaaran | #227 |
 | Marcel Viesel | Marquess Marcel Viesel | Marcel Viesel | Hầu tước, người đứng đầu phe cánh Đệ Nhất Hoàng Tử tại Vương Quốc Yaaran | #227 |
-| Gisel Georgiou | Countess Gisel Georgiou | Gisel Georgiou | Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran | #227 |
-| Karsten Reshon Yaaran | Karsten | Karsten Reshon Yaaran | Quốc vương đương nhiệm của Vương Quốc Yaaran | #228 |
+| Gisel Georgiou | Countess Gisel Georgiou; Gisel | Gisel Georgiou | Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran | #227 |
+| Karsten Reshon Yaaran | Karsten; Kars | Karsten Reshon Yaaran | Quốc vương đương nhiệm của Vương Quốc Yaaran | #228 |
 | Joachim Princeps Yaaran | Joachim | Joachim Princeps Yaaran | Đệ Nhất Hoàng Tử của Vương Quốc Yaaran | #229 |
 | Nadia Regina Yaaran | Nadia | Nadia Regina Yaaran | Đệ Nhất Công Chúa của Vương Quốc Yaaran | #229 |
 | Yattul |  | Yattul | Người đánh xe chở nhóm Rentt; thực chất là điệp viên mang mật danh Goblin (#232, #233) | #232 |

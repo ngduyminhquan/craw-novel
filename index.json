@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T06:59:57Z",
+  "generatedAt": "2026-11-04T07:08:52Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3719,6 +3719,12 @@
           "title": "Chương 261: Tập 11 Chương 3 - Tổ Chức (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_261.md",
           "sha": "d5313f4314bc69d87bb6608a070d79d6785a38f1"
+        },
+        {
+          "number": 262,
+          "title": "Chương 262: Tập 11 Chương 3 - Tổ Chức (7)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_262.md",
+          "sha": "7a0f5965cb631e050a2cde2c90fd56567e1bfbcf"
         }
       ]
     },

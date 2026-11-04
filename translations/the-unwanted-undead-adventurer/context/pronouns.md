@@ -500,4 +500,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Jean Seebeck | tôi | ngài / ông | 261 | Mạo hiểm giả Đồng Cấp nói chuyện với Tổng Hội Trưởng kiêm Thủ lĩnh tổ chức sát thủ |
 | Vaasa | Jean Seebeck | tôi | Thủ lĩnh / ngài | 261 | Thành viên tổ chức sát thủ cung kính quỳ lạy trước Thủ lĩnh |
 | Jean Seebeck | Vaasa | ta | cậu / Vaasa | 261 | Thủ lĩnh tổ chức sát thủ nói chuyện với thuộc cấp |
+| Lorraine Vivie | Jean Seebeck | tôi | ngài / ông | 262 | Nữ học giả nói chuyện với Tổng Hội Trưởng kiêm Thủ lĩnh tổ chức sát thủ |
+| Jean Seebeck | Lorraine Vivie | ta | cô | 262 | Tổng Hội Trưởng kiêm Thủ lĩnh tổ chức sát thủ nói chuyện với nữ học giả |
+| Jean Seebeck | Spriggan | ta | Gilli / ông | 262 | Thủ lĩnh tổ chức sát thủ nói chuyện với cộng sự lâu năm |
+| Spriggan | Jean Seebeck | tôi | Thủ lĩnh / ngài | 262 | Cộng sự lâu năm gọi Thủ lĩnh tổ chức sát thủ |
 

@@ -466,3 +466,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Barák Seará |  | Barák Seará | kỹ năng | 261 | Ma pháp phong lôi kết hợp cổ đại tạo khối cầu sấm sét hòa cùng bão gió tấn công đối thủ (giữ nguyên tên câu thần chú theo rules.md) |
 | Spelldrain Armor |  | Hấp Ma Khôi Giáp | kỹ năng | 261 | Nguyên bản ma pháp do Fuana sáng tạo, hấp thu ma pháp của đối thủ để bao bọc cơ thể thành lớp khôi giáp phòng ngự và cường hóa tấn công |
 | Gilli the Monster |  | Gilli Quái Vật | danh hiệu | 261 | Danh hiệu đấu sĩ của Gilli Flood tại thành phố đấu trường phương nam |
+| divine treasure | divine treasures | Thần Khí | vật phẩm | 262 | Trang bị/bảo vật cấp thần thánh được tạo ra bởi thần linh hoặc các chủng tộc như High Elf, Người Lùn |

@@ -266,7 +266,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | reviewed |  |
 | 260 |  | Chapter_260 - Vol 11 Chapter 3 - The Organization (5).txt | Vol 11 Chapter 3 - The Organization (5) | reviewed |  |
 | 261 |  | Chapter_261 - Vol 11 Chapter 3 - The Organization (6).txt | Vol 11 Chapter 3 - The Organization (6) | reviewed |  |
-| 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | todo |  |
+| 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | done |  |
 | 263 |  | Chapter_263 - Vol 11 Chapter 3 - The Organization (8).txt | Vol 11 Chapter 3 - The Organization (8) | todo |  |
 | 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | todo |  |
 | 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | todo |  |
@@ -915,3 +915,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#251] In for a bronze, in for a gold → manager sửa: 'Đâm lao thì phải theo lao thôi.' (bỏ phần dịch sát chữ, tránh lặp hai thành ngữ) (orchestrator)
 - [#261] Dịch 'Spelldrain Armor' (nguyên bản ma pháp của Fuana) — tạm chọn 'Hấp Ma Khôi Giáp' (phương án khác: 'Hấp Ma Giáp', 'Ma Hấp Khôi Giáp'). → Chốt 'Hấp Ma Khôi Giáp' theo đúng quy tắc dịch kỹ năng Hán Việt. (orchestrator)
 - [#261] Xưng hô giữa Jean Seebeck và Rentt Faina — tạm chọn Jean xưng 'ta' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'ngài / ông' (phương án khác: Jean xưng 'tôi' gọi 'cậu'). → Chốt Jean xưng 'ta' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'ngài / ông' (phù hợp tuổi tác ông lão và vị thế Tổng Hội Trưởng kiêm Thủ lĩnh). (orchestrator)
+- [#262] Thuật ngữ "divine treasure" (quyền trượng hoàng gia và bảo vật do thần linh/High Elf/Người Lùn chế tạo): tạm chốt là "Thần Khí" (viết hoa Hán Việt theo rules.md). Cần xác nhận giữ "Thần Khí" hay đổi sang "Thần Vật" / "Bảo Vật Thần Thánh". → Chốt 'Thần Khí' theo đúng quy tắc dịch vật phẩm Hán Việt trong rules.md. (orchestrator)

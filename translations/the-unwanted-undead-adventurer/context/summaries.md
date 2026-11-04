@@ -1548,6 +1548,14 @@ Một người đàn ông bí ẩn xuất hiện sau lưng Rentt, tiết lộ t�
 Vaasa tỉnh dậy cung kính quỳ lạy người đàn ông và gọi là Thủ lĩnh; người này thản nhiên tự xưng tên là Jean Seebeck — khiến Rentt bàng hoàng nhận ra đây chính là Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran.
 Cảnh kết thúc: Nhận ra người đứng đầu tổ chức sát thủ ngầm nguy hiểm lại là nhân vật quyền lực tối cao của Hội Mạo Hiểm Giả, Rentt thót tim tự hỏi liệu mình có thể toàn mạng sống sót rời khỏi nơi này hay không.
 
+## 262
+Jean Seebeck cười xòa cam kết để nhóm Rentt rời đi nguyên vẹn, tiết lộ Wolf Hermann không hề biết thân phận thủ lĩnh ngầm của mình, đồng thời cho biết việc Tòa Tháp và Học Viện đổ về Maalt có liên quan mật thiết tới nhóm Rentt.
+Jean dẫn Rentt, Lorraine và Spriggan lên văn phòng trên đỉnh đấu trường; trên đường đi, Spriggan kể lại chuyện thời trẻ từng bị Jean đánh bại rồi chiêu mộ cùng thành lập tổ chức của những người sở hữu dị năng.
+Tại văn phòng, Jean chính thức chốt việc hủy bỏ lệnh truy sát; ông giải thích tình hình quyền trượng hoàng gia đang bào mòn sinh mệnh của Quốc vương Karsten Reshon Yaaran (người mà Jean quen biết từ thuở nhỏ và gọi thân mật là "Kars").
+Jean hé lộ kế hoạch cứu Quốc vương không phải là thay mới mà là sửa chữa quyền trượng; theo Nữ Bá tước Gisel và nghiên cứu đột phá của Tòa Tháp, nguyên liệu tối thượng hiếm có để chế tạo hoặc phục hồi Thần Khí hiện đang xuất hiện tại Yaaran.
+Cảnh kết thúc: Jean chính thức tiết lộ nguyên liệu tối thượng đó là một "Lõi Mê Cung", khiến Rentt và Lorraine nhìn nhau với vẻ mặt không thốt nên lời.
+
+
 
 
 
