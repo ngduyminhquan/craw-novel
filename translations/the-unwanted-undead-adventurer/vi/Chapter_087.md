@@ -1,123 +1,123 @@
 # Chương 87: Ngoại truyện Tập 3 - Rentt, Người Làm Việc Nhà
 
-"Mùa xuân đã đến rồi nhỉ..."
+"Mùa xuân đến rồi nhỉ..."
 
-Đó là chuyện từ bao giờ ấy nhỉ? Chắc là vài năm sau khi tôi dấn thân vào con đường mạo hiểm giả? Vào một ngày mùa xuân nào đó, khi bầu không khí đã bắt đầu ấm dần lên. Tôi nhớ chuyện này đã xảy ra vào một mùa xuân như thế.
+Đó là chuyện từ bao giờ ấy nhỉ? Chắc là vài năm sau khi tôi mới bước chân vào nghề mạo hiểm giả? Một ngày mùa xuân nào đó, khi tiết trời bắt đầu ấm dần lên. Tôi nhớ chuyện này xảy ra vào một mùa xuân nào đó như thế.
 
-Đó từng là một mùa đông khắc nghiệt, với bầu không khí căng như dây đàn vì giá rét. Nhưng giờ đây, mùa xuân đã gõ cửa. Tôi cũng thừa biết rằng nếu đi săn quái vật dưới những tia nắng xuân ấm áp, dễ chịu thế này thì sớm muộn gì mình cũng sẽ lơ đễnh mà phạm sai lầm. Chính vì vậy, tôi chọn nán lại Maalt, thay vào đó nhận những ủy thác đơn giản hơn như dọn dẹp, vận chuyển hay khuân vác thực phẩm. Đó cũng là lý do tại sao tôi có mặt ở Hội quanh khoảng thời gian các ủy thác mới được dán lên bảng nhiệm vụ. Và chỉ một lúc sau đó, tôi đã nghe thấy giọng nói ấy...
+Vừa qua là một mùa đông khắc nghiệt, đến không khí cũng như căng cứng lại vì giá rét. Nhưng giờ thì xuân đã sang. Tôi cũng thừa hiểu, đi đánh quái dưới những vạt nắng xuân ấm áp, dễ chịu rất dễ làm mình lơ đễnh mà sẩy chân. Thế nên tôi chọn nán lại Maalt, chỉ nhận mấy ủy thác đơn giản như dọn dẹp, chở hàng hay khuân vác đồ tạp hóa. Vì thế mà đúng vào lúc các ủy thác mới được dán lên bảng, tôi đã có mặt ở Hội. Chỉ lát sau, tôi nghe thấy giọng nói ấy cất lên...
 
-"Này! Thế này là có ý gì hả?!"
+"Này! Thế này là sao chứ?!"
 
-Giọng nói cất lên từ quầy trả thưởng, nơi các mạo hiểm giả đến bàn giao ủy thác đã hoàn thành. Đó là một giọng nói trẻ măng, và chủ nhân của nó trông cũng trẻ tuổi tương xứng—một tân binh mạo hiểm giả, mới vừa hoàn tất thủ tục đăng ký ở Hội chưa được bao lâu. Nhìn vẻ mặt của cậu ta, có thể thấy cậu ta đang hoảng loạn, nhiều khả năng là do một ủy thác nào đó đã xảy ra sự cố ngoài ý muốn.
+Tiếng nói cất lên từ quầy trả thưởng, nơi các mạo hiểm giả tới nộp đơn thanh toán ủy thác. Đó là giọng của một người còn rất trẻ, và vẻ ngoài của cậu ta trông cũng non nớt đúng như giọng nói—một tân binh mạo hiểm giả, chân ướt chân ráo mới đăng ký vào Hội chưa được bao lâu. Nhìn vẻ mặt cuống cuồng của cậu ta, hẳn là vừa có ủy thác nào đó gặp trục trặc rồi.
 
-Tôi vểnh tai lên, chú ý lắng nghe cuộc trò chuyện.
+Tôi dỏng tai lên nghe ngóng cuộc trò chuyện.
 
-"Dù cậu có nói vậy thì... đây là ủy thác dọn dẹp địa điểm. Nhưng ở một số chỗ vẫn còn sót lại bụi bẩn... Hội không còn cách nào khác ngoài việc trừ bớt tiền thưởng."
+"Cậu nói vậy chứ... đây là ủy thác dọn dẹp mà. Vẫn còn vài chỗ sót bụi... nên đành phải trừ bớt tiền thưởng thôi."
 
-"Bụi ư? Ý chị 'bụi' là sao chứ?! Tôi đã dọn dẹp chỗ đó rồi mà! Rõ ràng là tôi đã làm rồi!"
+"Bụi á? 'Bụi' là sao cơ chứ?! Tôi dọn chỗ đó rồi mà! Rõ ràng là tôi đã dọn rồi!"
 
-"Quyền đánh giá cuối cùng thuộc về thân chủ, tôi e là vậy."
+"Đánh giá thế nào là do thân chủ quyết định, tôi cũng không làm khác được mà."
 
-"Chị nói vậy chứ...! À, tôi hiểu rồi, là vì tôi là ma mới nên họ bắt nạt tôi chứ gì?! Giờ nghĩ lại thì dạo trước cũng từng xảy ra chuyện y hệt, cũng vì cái lý do này chứ đâu!!!"
+"Chị nói thế mà nghe được à! À, tôi hiểu rồi, thấy tôi là người mới nên họ bắt nạt chứ gì?! Nghĩ lại thì dạo trước cũng từng bị y như thế, cũng cùng một cái cớ này chứ đâu!!!"
 
-Qua cuộc đối thoại của họ, tôi hiểu rằng cả mạo hiểm giả lẫn thân chủ đều có những khúc mắc nhất định của riêng mình. Những mạo hiểm giả khắt khe hơn có lẽ sẽ bảo rằng cậu thanh niên này thật ngốc nghếch và là người có lỗi—tất nhiên câu chuyện rồi sẽ bị lái theo chiều hướng đó. Suy cho cùng, nếu thân chủ quá keo kiệt hoặc kén chọn, cậu ta đáng lẽ phải đủ khôn ngoan để nhận ra điều đó trước khi ký kết hợp đồng. Họ sẽ nói rằng việc than phiền sau khi đã đặt bút ký vào giấy tờ chỉ khiến mọi chuyện giậm chân tại chỗ mà thôi.
+Qua cuộc đối thoại giữa hai người, tôi hiểu cả cậu mạo hiểm giả lẫn thân chủ đều có vấn đề riêng. Mấy mạo hiểm giả khó tính có khi sẽ bảo thằng nhóc này dại, lỗi là ở nó—mà câu chuyện thường sẽ rẽ sang hướng đó thật. Dù sao thì, nếu thân chủ quá keo kiệt hay khó tính, cậu ta phải đủ khôn để nhận ra từ trước khi ký nhận chứ. Đã đặt bút ký rồi thì cằn nhằn cũng chỉ làm mọi chuyện luẩn quẩn không đâu vào đâu, người ta sẽ bảo thế.
 
-Dẫu vậy, cậu ta còn trẻ và chưa hiểu biết nhiều về lẽ đời của giới mạo hiểm giả. Cậu ta chắc chắn sẽ còn vấp ngã nhiều lần, cho đến khi rút ra được bài học kinh nghiệm cho bản thân. Mặc dù thế, nữ tiếp tân viên cũng đang phải trải qua một phen vất vả...
+Có điều cậu ta còn trẻ người non dạ, chưa hiểu mấy về chuyện trong nghề. Chắc chắn cậu ta sẽ còn vấp ngã nhiều lần nữa cho tới khi tự khôn ra. Chỉ khổ cô tiếp tân đang phải chịu trận...
 
-Có lẽ tôi cũng nên đi thôi, và nhận lấy một hoặc hai ủy thác. Tôi xé vài tờ đơn ủy thác xuống rồi mang tới quầy tiếp tân. Tôi là kiểu mạo hiểm giả đã quen với việc làm đủ mọi thứ việc vặt suốt cả ngày. Dù bản thân có năng lực đến đâu, việc ôm đồm quá nhiều thứ cùng một lúc cũng có thể gây ra rắc rối, thế nên tôi luôn cân nhắc kỹ lưỡng trước khi đưa ra quyết định.
+Tôi nghĩ mình cũng nên bắt tay vào việc, kiếm lấy một hai ủy thác. Tôi gỡ vài tờ đơn ủy thác xuống, mang tới quầy tiếp tân. Tôi vốn là dạng mạo hiểm giả quen làm đủ thứ việc lặt vặt cả ngày. Dù năng lực có thế nào, ôm đồm quá nhiều cùng lúc cũng dễ sinh chuyện, thế nên tôi phải suy tính kỹ càng rồi mới nhận.
 
-Dù vào khoảng thời gian này Hội tương đối vắng vẻ, vẫn có kha khá mạo hiểm giả khác chăm chăm tìm việc vặt để làm, trong khi chỉ có duy nhất một quầy tiếp tân mở cửa. Nói chính xác hơn thì đó là quầy có cậu thanh niên đang tức giận kia, người chẳng biết từ lúc nào rốt cuộc cũng đã ngừng tranh cãi.
+Dù tầm này Hội khá vắng, vẫn có không ít mạo hiểm giả nhắm vào mấy việc lặt vặt, mà quầy tiếp tân mở cửa thì chỉ có một. Nói chính xác hơn thì đó chính là quầy có cậu thanh niên đang bực bội kia, dù chẳng biết từ lúc nào cậu ta đã thôi không cãi nữa.
 
-Nữ tiếp tân viên cần mẫn đọc to các nhiệm vụ của tôi.
+Cô tiếp tân tận tụy đọc lại từng việc tôi nhận.
 
-"Vâng... Một ủy thác dọn dẹp từ Zant Currin. Phần thưởng là năm đồng xu đồng..."
+"Vâng... Một ủy thác dọn dẹp của Zant Currin. Thù lao là năm đồng xu đồng..."
 
-Cứ thế cô ấy tiếp tục đọc, còn tôi thì ký vào các mẫu đơn liên quan. Nghe thấy vậy, cậu thanh niên dường như vẫn còn điều muốn nói liền quay sang phía tôi.
+Cô ấy cứ thế đọc tiếp, còn tôi lần lượt ký vào các giấy tờ tương ứng. Nghe thấy vậy, cậu thanh niên có vẻ vẫn chưa nguôi ấm ức liền quay sang tôi.
 
-"Mấy người đó lúc nào cũng phàn nàn không dứt đâu. Họ sẽ bới lông tìm vết để cằn nhằn anh cho mà xem. Anh không nên nhận mấy ủy thác đó."
+"Mấy người đó cằn nhằn ghê lắm. Nhận thì thế nào họ cũng kiếm chuyện bắt bẻ anh cho coi. Anh không nên nhận mấy việc đó đâu."
 
-Có vẻ như cậu ta từng nhận ủy thác từ chính thân chủ này trước đây, nhưng tôi chỉ lắc đầu.
+Xem chừng cậu ta từng nhận việc của chính vị thân chủ này rồi, nhưng tôi chỉ lắc đầu.
 
-"Tôi chưa bao giờ bị phàn nàn cả. Dù sao đi nữa, nhận ủy thác này hoàn toàn là quyền của tôi."
+"Tôi chưa bị phàn nàn bao giờ cả. Dù sao thì nhận ủy thác này cũng là quyền của tôi."
 
-"Anh... Tôi có lòng tốt muốn giúp anh mà..."
+"Anh này... Tôi có lòng tốt muốn giúp mà..."
 
-Cậu thanh niên, giờ đây lộ rõ vẻ bực bội, bắt đầu lải nhải về hết chuyện này đến chuyện nọ. Thế nhưng, tôi chỉ nhanh chóng ký xong mọi giấy tờ của mình, cầm lấy các bản đơn cần thiết rồi quay lưng rời khỏi Hội.
+Cậu thanh niên lộ rõ vẻ bực dọc, cứ thế lải nhải đủ thứ chuyện. Còn tôi ký nốt mấy tờ đơn, cầm lấy phần giấy tờ của mình rồi quay người bước ra khỏi Hội.
 
-Thế nhưng điều đó không có nghĩa là cậu thanh niên sẽ để tôi yên. Thay vào đó, cậu ta đuổi theo tôi và đặt một tay lên vai tôi.
+Có điều cậu ta đâu chịu để tôi yên. Cậu ta đuổi theo, đặt một tay lên vai tôi.
 
-"Chờ đã!"
+"Đợi đã!"
 
-"Cậu muốn gì nào?"
+"Cậu muốn gì đây?"
 
-"Tôi sẽ đi cùng."
+"Tôi đi cùng với."
 
-"Để làm gì? Cậu chỉ tổ vướng chân vướng tay thôi."
+"Để làm gì? Cậu chỉ tổ vướng chân thôi."
 
-"Tôi sẽ phụ giúp mà!!!"
+"Tôi phụ cho mà!!!"
 
-"Nói trước cho cậu biết, tôi không có ý định chia tiền thưởng đâu đấy."
+"Nói trước là tôi không chia tiền thưởng đâu đấy."
 
-"Không sao cả! Mấy người đó chắc chắn sẽ lại cằn nhằn cho xem. Tôi sẽ đảm bảo lần này họ không thể làm thế được nữa!"
+"Không sao hết! Mấy người đó thế nào cũng lại cằn nhằn cho xem. Lần này tôi nhất định sẽ không để họ bắt bẻ được nữa!"
 
-Định làm gì cơ chứ, dọn dẹp cật lực hơn à? Tôi toan hỏi cậu ta như thế, nhưng rốt cuộc lại kìm lại.
+Định làm gì cơ chứ, dọn cho cật lực hơn à? Tôi toan hỏi, nhưng rồi lại thôi.
 
-Tôi đoán thế này cũng chẳng sao... Cậu thanh niên chẳng qua chỉ là một lính mới ồn ào vừa bước chân vào nghề, nhưng xem ra cậu ta cũng có vài điểm đáng khen. Ngay cả nữ tiếp tân viên, lúc này đang đứng ở một khoảng cách khá xa phía sau cậu thanh niên, cũng nhìn về hướng tôi rồi nhanh nhảu nháy mắt. Không còn nghi ngờ gì nữa, cô ấy đang ngầm nhờ tôi chỉ bảo đường đi nước bước cho người mới. Dĩ nhiên là tôi có thể từ chối, nhưng bản thân cậu thanh niên đã bảo không cần thù lao, nên cứ quyết định như vậy đi.
+Thế này chắc cũng chẳng sao... Cậu ta chỉ là một lính mới ồn ào vừa vào nghề, nhưng xem chừng vẫn còn điểm vớt vát được. Đến cả cô tiếp tân đứng tít đằng sau cậu ta cũng nhìn về phía tôi rồi nháy mắt lia lịa. Chắc mẩm là muốn nhờ tôi chỉ bảo đường đi nước bước cho lính mới rồi. Dĩ nhiên tôi từ chối cũng được, nhưng chính cậu ta đã bảo không cần thù lao, nên thôi cứ thế đi.
 
-Tôi quay sang nhìn cậu thanh niên một cách dứt khoát.
+Tôi dứt khoát quay sang cậu thanh niên.
 
-"Cậu phải tuân theo hướng dẫn của tôi một cách tuyệt đối. Và không được phát ngôn kỳ quặc gì tại nơi làm việc đâu đấy. Nhớ là phải làm việc chăm chỉ vào."
+"Tôi bảo sao thì làm y như vậy. Đến nơi cấm có ăn nói linh tinh. Và phải làm việc cho thật chăm chỉ đấy."
 
-"Tất nhiên rồi! Tôi sẽ cho họ thấy! Tôi sẽ dọn dẹp sạch bong kin kít cho mà xem..."
+"Rõ rồi! Tôi sẽ cho họ biết tay! Tôi sẽ dọn sạch bong kin kít cho coi..."
 
-Có lẽ trông cậu ta sẽ ấn tượng hơn nhiều nếu nói những lời hào hùng đó trước mặt lũ cướp hay lũ quái vật.
+Hẳn trông cậu ta sẽ oai hơn nhiều nếu nói mấy câu hào hùng đó trước mặt đạo tặc hay quái vật.
 
-Mà thôi... sao cũng được. Chúng tôi cùng nhau hướng về phía nơi ở của thân chủ.
+Mà thôi... sao cũng được. Hai chúng tôi cùng hướng về phía nhà thân chủ.
 
-Mọi ủy thác mà tôi đã nhận đều là dọn dẹp nhà cửa, bởi vì đây đang là mùa tổng vệ sinh đón xuân ở thị trấn nhỏ Maalt.
+Mấy ủy thác tôi nhận đều là dọn dẹp nhà cửa, vì đây đang là mùa tổng vệ sinh đón xuân ở thị trấn Maalt.
 
-Một vài căn nhà trong số đó khá lớn, và việc dọn dẹp không thể nào xong xuôi chỉ trong một ngày. Tôi đoán cậu thanh niên này đã đến làm vào một trong những ngày đó và phải nhận lại những phản hồi tiêu cực về công việc của mình.
+Có những căn nhà khá lớn, dọn một ngày không tài nào xuể. Chắc cậu thanh niên này tới làm vào một trong những ngày đó, rồi bị chê bai công việc.
 
 ◆◇◆◇◆
 
-"Cảm ơn cậu nhé, Rentt. Thật sự cảm ơn... Cả cậu đằng kia nữa. Tôi chưa bao giờ thấy nơi này sạch sẽ đến thế này trước đây! Đây là một chút tiền bồi dưỡng thêm cho công sức của hai cậu."
+"Cảm ơn cậu nhé, Rentt. Thật sự cảm ơn... Cả cậu đằng kia nữa. Chưa bao giờ tôi thấy nhà sạch đến thế này đấy! Chút tiền này xem như bồi dưỡng thêm cho công sức của hai cậu."
 
-Vị thân chủ ký nhận vào các mẫu đơn ủy thác trước khi đưa cho tôi và cậu thanh niên mỗi người hai đồng xu đồng. Trong những trường hợp thông thường, phần thưởng sẽ được thanh toán tại Hội mạo hiểm giả. Thế nhưng hôm nay chúng tôi lại nhận được thêm—nói cách khác là tiền boa.
+Vị thân chủ ký xác nhận vào đơn ủy thác rồi đưa cho tôi và cậu thanh niên mỗi người hai đồng xu đồng. Bình thường thì tiền thưởng phải thanh toán qua Hội mạo hiểm giả. Nhưng hôm nay chúng tôi lại được nhận thêm—coi như là tiền boa đi.
 
-"Cảm ơn ông. Mong là lần sau ông lại tiếp tục ủng hộ dịch vụ của tôi."
+"Cảm ơn ông. Lần sau có việc mong ông lại tìm tôi nhé."
 
-Nói đoạn, chúng tôi quay bước rời khỏi căn nhà. Chúng tôi đã hoàn thành toàn bộ công việc của ngày hôm nay.
+Nói rồi, hai chúng tôi quay người rời khỏi căn nhà. Thế là việc của ngày hôm nay đã xong xuôi.
 
-"Chẳng có lấy một ai..." Vẻ mặt của cậu thanh niên lộ rõ sự bàng hoàng khó hiểu. "Chẳng có ai phàn nàn gì cả. Thậm chí không có một ai..."
+"Không một ai..." Vẻ mặt cậu thanh niên đầy vẻ ngơ ngác. "Chẳng ai phàn nàn câu nào. Một lời cũng không..."
 
-Cậu nhóc dường như không tài nào hiểu nổi tại sao sự việc lại diễn ra như thế.
+Cậu nhóc dường như chẳng hiểu nổi sao lại có thể êm xuôi đến thế.
 
-"Cậu có biết tại sao mọi chuyện lại thành ra như vậy không?"
+"Cậu biết vì sao lại được như thế không?"
 
-"Vâng... Tay nghề của tôi... vẫn chưa tốt lắm..."
+"Vâng... Tay nghề của tôi... vẫn còn non lắm..."
 
-Dọn dẹp là một công việc đơn giản, nhưng lại có rất nhiều phương pháp để thực hiện. Làm thế nào để lau chùi các bề mặt cụ thể, nên cọ rửa hay chà lau, làm sao để đánh bay ngay cả những vết bẩn cứng đầu nhất... Tất cả đều là những kiến thức cơ bản về dọn dẹp và việc nhà. Cậu nhóc không có những kiến thức như vậy, và vì thế đã làm ra một kết quả không vừa lòng khách. Đó là lý do tại sao tiền thưởng của cậu ta bị trừ bớt.
+Dọn dẹp là công việc đơn giản, nhưng làm sao cho đúng thì lại có muôn vàn cách. Lau từng loại bề mặt ra sao, chỗ nào nên cọ rửa, chỗ nào nên chà giặt, rồi làm sao đánh sạch những vết bẩn cứng đầu nhất... đó đều là kiến thức cơ bản của việc dọn dẹp nhà cửa. Cậu nhóc chẳng biết mấy thứ đó, thành ra làm không tới nơi tới chốn. Bảo sao tiền thưởng lại bị trừ bớt.
 
-Tuy nhiên, về phần mình, cậu ta đã quan sát những gì tôi làm và làm theo hướng dẫn của tôi một cách tận tâm nhất có thể. Cậu ta đã học hỏi các phương pháp và không hề ngần ngại hỏi tôi mỗi khi có điều gì không hiểu. Đó là lý do tại sao vị thân chủ vừa rồi đã khen ngợi thái độ làm việc của cậu ta.
+Bù lại, cậu ta chịu khó quan sát tôi làm rồi cố gắng làm theo hướng dẫn hết mức có thể. Học hỏi từng cách làm, chỗ nào không hiểu là hỏi ngay chứ chẳng hề ngại. Chính vì thế mà vị thân chủ lúc nãy mới khen ngợi thái độ làm việc của cậu ta.
 
-"Đúng là như vậy đấy. Kinh nghiệm mới là điều quan trọng. Quá khứ cậu có thể từng phạm sai lầm, nhưng kể từ giờ trở đi cậu sẽ ổn thôi."
+"Nó là vậy đấy. Kinh nghiệm mới là cái quyết định. Trước đây cậu có thể từng mắc lỗi, nhưng từ giờ trở đi chắc sẽ ổn thôi."
 
-"Vâng... Cảm ơn anh, Rentt. À không, cảm ơn tiền bối Rentt... Tôi đã học hỏi được rất nhiều điều từ tiền bối."
+"Vâng... Cảm ơn anh, Rentt. À không, cảm ơn tiền bối Rentt... Tôi học được từ tiền bối nhiều điều lắm."
 
-"Đừng gọi tôi như thế. Tôi không quen lắm đâu... Với lại, chúng ta sẽ chia đều tiền thưởng một cách sòng phẳng, nên cậu không cần phải bận tâm chuyện đó đâu."
+"Đừng gọi tôi như thế. Tôi không quen nghe đâu... Với lại tiền thưởng sẽ chia đôi sòng phẳng, cậu không phải lo."
 
-Dĩ nhiên tôi sẽ làm như vậy. Tôi chưa từng có ý định quỵt đi phần tiền kiếm được của cậu thanh niên. Dẫu vậy, cậu ta phản đối kịch liệt.
+Dĩ nhiên tôi sẽ làm thế. Tôi chẳng bao giờ có ý định ăn chặn tiền công của cậu ta cả. Thế nhưng cậu thanh niên lại giãy nảy lên phản đối.
 
-"Hở? Không không, ổn mà! Thật sự không sao đâu! Cứ coi như đó là học phí anh dạy cho tôi những điều cơ bản đi..."
+"Hả? Không không, được rồi mà! Thật đấy, không sao đâu! Cứ coi như tiền học phí anh chỉ cho tôi mấy điều cơ bản đi..."
 
-"Không được, cậu cũng đã làm việc chăm chỉ mà. Cầm lấy đi. Lần sau, cậu cứ hoàn thành các ủy thác của mình với chất lượng tốt nhất, rồi mang đồng xu đó tới quán rượu làm một ly. Lúc ấy sẽ chẳng còn ai phàn nàn về cậu được nữa đâu."
+"Không được, cậu cũng bỏ công sức đàng hoàng. Cầm lấy đi. Lần tới, cứ làm ủy thác cho thật đâu ra đấy, rồi cầm mấy đồng kiếm được tới quán rượu làm một ly. Đến lúc đó thì chẳng ai bắt bẻ được cậu nữa đâu."
 
 "Tiền bối Rentt..."
 
-Tôi vỗ vào lưng cậu thanh niên—chẳng hiểu sao cậu ta lại ngừng nói giữa chừng.
+Tôi vỗ lưng cậu thanh niên—chẳng hiểu sao đang nói cậu ta lại ngập ngừng nín bặt.
 
-"Được rồi! Chúng ta quay về Hội thôi nào. Chúng ta vẫn còn phải bàn giao mấy tờ đơn này nữa. Như vậy mới đúng là thực sự bước chân vào con đường mạo hiểm giả, phải không nào?"
+"Được rồi! Quay về Hội thôi. Còn phải về nộp mấy tờ đơn này nữa chứ. Phải thế mới đúng là chính thức bước vào nghề mạo hiểm giả, đúng không nào?"
 
 "Vâng!"
 
-Vài năm sau đó, chính cậu thanh niên ấy đã đạt được cấp bậc Ngân Cấp trước cả tôi, rồi bước chân vào một cuộc hành trình rời xa Maalt. Nhưng có lẽ đó sẽ là một câu chuyện dành cho một dịp khác...
+Vài năm sau, chính cậu thanh niên ấy đã vươn lên Ngân Cấp trước cả tôi, rồi lên đường viễn du, rời khỏi Maalt. Có điều, chuyện đó để kể vào một dịp khác vậy...

@@ -49,6 +49,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 23. **Giọng Rin (#84).** Bạn thuở nhỏ của Rentt; mang nỗi đau mất người chị em sinh đôi Ran nhưng kiên cường, giàu nghị lực; xưng "em - anh / anh Rentt" với Rentt tự nhiên, bộc trực, không dùng kính ngữ "dạ/ạ/vâng" khép nép; lời hứa thi đua cùng Rentt thể hiện quyết tâm kế thừa ước mơ tiệm hoa chứ không bi lụy.
 24. **Giọng Aidi và không khí trường đua chuột (#85).** Aidi là mạo hiểm giả trung niên mê cá cược, ăn nói bộc trực, xuề xòa, dân dã của dân đỏ đen ("bạn hiền", "đặt cửa", "thao thao bất tuyệt"); lời bình luận viên trường đua chuột Puchi Suri giữ nhịp dồn dập, máu lửa, giàu cảm xúc kịch tính ("ôm cua với tốc độ xé gió", "màn so kè nảy lửa"), tránh dịch thô cứng.
 25. **Giọng Phu nhân Emilstead (#86).** Quý phu nhân giàu có thương xót thú cưng hết mực; khi cầu xin giúp đỡ thì khẩn thiết, xúc động, xưng "tôi - ngài" chân thành, không trịch thượng; khi cảm kích thì vồ vập, bộc trực, không kiểu cách màu mè.
+26. **Giọng mạo hiểm giả tân binh và tâm thế tiền bối của Rentt (#87).** Tân binh mới vào nghề ban đầu bốc đồng, ấm ức, tự ái khi bị trừ thù lao, nhưng biết lắng nghe và cầu tiến khi được chỉ bảo; xưng hô từ bộc trực ("anh - tôi") chuyển sang kính trọng ("tiền bối Rentt - tôi"). Rentt giữ phong thái đàn anh điềm đạm, mộc mạc, chia đều thù lao sòng phẳng và khích lệ người mới ("làm cho thật đâu ra đấy rồi cầm mấy đồng kiếm được tới quán rượu làm một ly"), không lên mặt dạy đời.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -82,6 +83,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (84) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời còn là mạo hiểm giả con người mới lên Đồng Cấp, nhận ủy thác hái hoa Tetona cho cặp bạn thân thuở nhỏ Rin và Ran.
 - (85) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về sự cố bị mạo hiểm giả mê cá cược Aidi kéo tới trường đua chuột Puchi Suri và chứng kiến Edel thi đấu giành giải nhất.
 - (86) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về ủy thác dùng Thần Lực siêu thoát cho linh hồn chú chuột Sweetpea của Phu nhân Emilstead và phát hiện Lorraine cùng Edel bí mật cài cắm nội gián vào dinh thự.
+- (87) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời mới vài năm vào nghề mạo hiểm giả, nhận ủy thác dọn dẹp nhà cửa mùa xuân và hướng dẫn một tân binh mới vào nghề.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
