@@ -16,17 +16,17 @@ Trán lấm tấm mồ hôi, Alize gật đầu lần nữa rồi khẽ hé môi
 
 "‘Hỡi ngọn lửa... Hãy để Ma Lực của ta... hóa thành nguồn nuôi dưỡng... và hiển hiện... trước mắt ta... Ignite Aryumage’!"
 
-Dứt lời, luồng Ma Lực nơi đầu ngón tay cô bé chao đảo, run rẩy rồi dập dềnh xao động, trước khi phát ra luồng sáng rực rỡ trên ngón tay đang vươn ra. Hiện tượng này chưa từng xuất hiện khi tôi thử làm. Cảnh tượng đó xảy ra khi Ma Lực không được chuyển hóa trọn vẹn thành ma thuật. Lượng Ma Lực thừa không dùng tới sẽ tán xạ ra thành ánh sáng.
+Dứt lời, luồng Ma Lực nơi đầu ngón tay cô bé chao đảo, run rẩy rồi dập dềnh xao động, trước khi phát ra ánh sáng rực rỡ trên ngón tay đang vươn ra. Hiện tượng này chưa từng xuất hiện khi tôi thử làm. Cảnh tượng đó xảy ra khi Ma Lực không được chuyển hóa trọn vẹn thành ma thuật. Lượng Ma Lực thừa không dùng tới sẽ tán xạ ra thành ánh sáng.
 
-Nhờ vừa liên tục chuyển hóa Ma Lực thành ma pháp suốt từ nãy đến giờ, tôi chẳng hề làm thất thoát chút Ma Lực nào. Nhưng Alize mới học nên chưa quen với ma thuật. Càng làm quen với ma thuật nói chung, lượng Ma Lực hao hụt và lãng phí sẽ càng giảm. Chuyển hóa Ma Lực trọn vẹn và nhanh chóng thành các hiện tượng ma thuật vốn là ước mơ của mọi ma pháp sư, thế nên với Alize, thất thoát một chút cũng là chuyện đương nhiên.
+Nhờ vừa liên tục chuyển hóa Ma Lực thành ma pháp suốt từ nãy đến giờ, tôi chẳng hề làm thất thoát chút Ma Lực nào. Nhưng Alize mới học nên chưa quen với ma thuật. Càng quen dùng ma thuật nói chung, lượng Ma Lực hao hụt và lãng phí sẽ càng giảm. Chuyển hóa Ma Lực trọn vẹn và nhanh chóng thành các hiện tượng ma thuật vốn là ước mơ của mọi ma pháp sư, thế nên với Alize, thất thoát một chút cũng là chuyện đương nhiên.
 
-Khi ánh sáng dịu dần, một ngọn lửa nhỏ hiện ra, lập lòe trên ngón tay Alize. Nó chỉ bằng độ một nửa ngọn lửa tôi tạo ra ban nãy. Đó là một đốm lửa chập chờn, bất định, quá bé để có thể coi là tàn lửa hay tia lửa.
+Khi ánh sáng dịu dần, một ngọn lửa nhỏ hiện ra, lập lòe trên ngón tay Alize. Nó chỉ bằng cỡ một nửa ngọn lửa tôi tạo ra ban nãy. Đó là một đốm lửa chập chờn, bất định, quá bé để có thể coi là tàn lửa hay tia lửa.
 
-Alize tròn xoe mắt ngắm đốm lửa trong nỗi kinh ngạc. Dù đã học lý thuyết và tự điều chuyển được Ma Lực trong người, cô bé dường như vẫn khó tin nổi là mình thực sự có thể thi triển ma thuật.
+Alize mở to mắt ngắm đốm lửa đầy kinh ngạc. Dù đã học lý thuyết và tự điều chuyển được Ma Lực trong người, cô bé dường như vẫn khó tin nổi là mình thực sự có thể thi triển ma thuật.
 
 ![](images/ch079-01.webp)
 
-Ma pháp sư vốn thuộc hàng hiếm, chí ít là giữa những người trần mắt thịt. Họ có sức mạnh biến người ta thành tro bụi chỉ bằng một đòn, thậm chí chẳng cần chạm tay vào cũng thao túng được đủ mọi loại vật chất theo ý mình. Thế nên việc Alize ngỡ ngàng không dám tin khi bản thân bỗng đứng vào hàng ngũ ấy cũng chẳng có gì lạ. Hầu hết những ai lần đầu dùng ma pháp đều phản ứng như vậy. Ai cũng có thể mong muốn hay nói về chuyện làm ma pháp sư, nhưng đến khi thời khắc ấy thực sự tới thì hiếm người chuẩn bị sẵn tâm lý.
+Ma pháp sư vốn thuộc hàng hiếm, chí ít là giữa những người bình thường. Họ có sức mạnh biến người ta thành tro bụi chỉ bằng một đòn, thậm chí chẳng cần chạm tay vào cũng điều khiển được đủ mọi loại vật chất theo ý mình. Thế nên Alize có ngỡ ngàng không dám tin khi giờ đây mình đã đứng vào hàng ngũ ấy cũng chẳng có gì lạ. Hầu hết những ai lần đầu dùng ma pháp đều phản ứng như vậy. Người ta có thể mong muốn hay nói về chuyện làm ma pháp sư, nhưng đến khi thời khắc ấy thực sự tới thì hiếm ai chuẩn bị sẵn tâm lý.
 
 "Tuyệt quá... Cả... Cả em cũng dùng được ma thuật sao? Á!"
 
@@ -44,45 +44,45 @@ Chà, đúng là tay nghề của một bậc thầy thực thụ. Hiếm có ai
 
 Có điều chừng ấy thì ngay cả tôi cũng làm được. Nhưng trò tiếp theo của Lorraine mới là thứ tôi chẳng bao giờ mong bắt chước nổi.
 
-Ngọn lửa và dòng nước trên tay cô dần phình to, hóa thành dáng dấp của đủ loài muông thú sinh vật. Lửa cuộn thành hình cánh chim, còn các luồng nước bồng bềnh hóa thành rồng, rồi lại thành voi—cả một gánh xiếc muông thú lặng lẽ lượn quanh giữa không trung. Để tôi nhận xét thì rõ ràng đây chẳng phải ma thuật sơ cấp gì cho cam.
+Ngọn lửa và dòng nước trên tay cô dần phình to, hóa thành hình thù của muông thú và đủ loại sinh vật. Lửa cuộn thành hình cánh chim, còn các luồng nước bồng bềnh hóa thành rồng, rồi lại thành voi, cả một gánh xiếc muông thú lặng lẽ lượn quanh giữa không trung. Chắc chắn chẳng phải ma thuật sơ cấp gì cho cam.
 
-Người mới học không đời nào phóng to lửa và nước triệu hồi ra tới cỡ đó, chưa kể còn tách rời chúng khỏi cơ thể mà vẫn kiểm soát được. Chỉ riêng việc làm được điều này đã cho thấy thứ chúng tôi đang thấy chẳng còn chút dính dáng nào tới ma pháp cơ bản nữa rồi. Nếu làm được trò này, chắc tôi đã nghịch trò tạo thú lửa bay lượn từ lâu rồi.
+Người mới học không đời nào phóng to lửa và nước triệu hồi ra tới cỡ đó, chưa kể còn tách rời chúng khỏi cơ thể mà vẫn kiểm soát được. Chỉ riêng chuyện làm được điều này đã cho thấy cảnh tượng trước mắt chúng tôi chẳng còn chút gì là cơ bản nữa rồi. Nếu làm được tới mức đó, chắc tôi đã nghịch trò tạo thú lửa bay lượn từ lâu rồi.
 
 "Oa..." Alize há hốc miệng trầm trồ.
 
-"Cả trò này nữa." Lorraine vẫn còn khối bài tủ chưa tung ra.
+"Cả trò này nữa." Lorraine vẫn còn khối ngón nghề chưa tung ra.
 
-Chỉ với một cái phẩy tay, đất đá ngưng tụ giữa thinh không, hóa thành vô số công trình bồng bềnh giữa không trung. Đầu tiên là các tòa nhà của Hội Mạo Hiểm Giả, kế đến là căn nhà của Lorraine; một dinh thự, rồi đến một tòa lâu đài tráng lệ. Mỗi công trình lại mang một sắc màu riêng biệt; nhìn qua chẳng ai nghĩ chúng được nặn từ những hạt đất vụn.
+Chỉ với một cái phẩy tay, đất đá hiện ra giữa không trung, hóa thành vô số công trình bồng bềnh trôi nổi. Đầu tiên là các tòa nhà của Hội Mạo Hiểm Giả, kế đến là căn nhà của Lorraine; một dinh thự, rồi đến một tòa lâu đài tráng lệ. Mỗi công trình lại mang một màu sắc riêng; nhìn qua chẳng ai nghĩ chúng được nặn từ những hạt đất vụn.
 
 Cảnh tượng ấy như một lời nhắc nhở cay đắng rằng trình độ của tôi còn kém Lorraine xa lắc.
 
 Cuối cùng, Lorraine thu hồi ma pháp, những cảnh tượng kỳ thú liền dần tan biến.
 
-"Em thấy thế nào? Ấn tượng lắm đúng không? Chí ít thì cũng ăn đứt Rentt rồi," Lorraine đắc ý khoe mẽ.
+"Em thấy thế nào? Ấn tượng lắm đúng không? Chí ít thì cũng hơn đứt Rentt rồi," Lorraine đắc ý khoe.
 
-À, tôi hiểu rồi. Cô ấy đâu phải muốn cho Alize thấy những tiềm năng của ma thuật... mà chỉ đơn thuần muốn chứng minh trong hai đứa thì cô mới là ma pháp sư giỏi hơn.
+À, tôi hiểu rồi. Cô ấy đâu phải muốn cho Alize thấy những tiềm năng của ma thuật... mà chỉ muốn chứng minh trong hai đứa thì cô mới là ma pháp sư giỏi hơn.
 
-Đúng là trẻ con hết nước nói, Lorraine à.
+Đúng là trẻ con thật đấy, Lorraine à.
 
 Cơ mà đương nhiên, người không có tư cách nói câu đó nhất chính là tôi. Còn Alize thì quả thực thán phục ra mặt.
 
-"Tuyệt quá đi mất! Cả Học Sĩ Lorraine lẫn anh Rentt đều đỉnh thật đấy! Em sẽ cố gắng hết sức để giỏi được như hai người ạ!"
+"Tuyệt quá đi mất! Cả Học Sĩ Lorraine lẫn anh Rentt đều giỏi thật đấy! Em sẽ cố gắng hết sức để được như hai người!"
 
-Lời khen chân thành của Alize làm hai má Lorraine thoáng ửng đỏ ngượng ngùng.
+Lời khen chân thành của Alize làm hai má Lorraine thoáng ửng đỏ.
 
 "V... Vậy sao? À, ừ. Đương nhiên rồi. Anh cũng làm tốt lắm, Rentt..."
 
-Lời cô nói lần này cũng chẳng có chút mỉa mai nào. Có lẽ cô nàng ngượng trước những lời khen dồn dập của Alize chăng.
+Lời cô nói lần này cũng chẳng có chút ác ý nào. Chắc cô nàng ngượng trước những lời khen dồn dập của Alize đây mà.
 
-Alize thì vẫn hào hứng, tràn đầy nhiệt huyết như mọi bận.
+Alize thì vẫn hào hứng, tràn đầy nhiệt huyết như mọi khi.
 
-"Vâng ạ! Cả hai người chịu chỉ bảo cho một đứa như em... Em sẽ làm được! Em sẽ cố gắng thật nhiều, thật nhiều! Từ nay về sau mong hai người tiếp tục chỉ dẫn cho em ạ!" cô bé vừa nói vừa cúi gập người thật sâu.
+"Vâng! Không ngờ cả hai người lại chịu chỉ bảo cho một đứa như em... Em sẽ làm được! Em sẽ cố gắng thật nhiều, thật nhiều! Từ nay về sau mong hai người tiếp tục chỉ dẫn cho em!" cô bé vừa nói vừa cúi gập người thật sâu.
 
-Và thế là buổi học ma thuật đầu tiên của chúng tôi rốt cuộc cũng khép lại...
+Và thế là buổi học ma thuật đầu tiên của chúng tôi cuối cùng cũng khép lại...
 
 ◆◇◆◇◆
 
-"Dạ, hẹn gặp lại mọi người ạ!" Alize nói rồi ôm khư khư cuốn giáo trình Lorraine soạn riêng trước ngực, rảo bước quay về cô nhi viện.
+"Vâng, hẹn gặp lại hai người!" Alize nói rồi ôm khư khư cuốn giáo trình Lorraine soạn riêng trước ngực, rảo bước quay về cô nhi viện.
 
 Lorraine và tôi vẫy tay tiễn cho đến khi bóng dáng cô bé chỉ còn là một chấm nhỏ tít đằng xa. Mãi lúc ấy, hai chúng tôi mới quay vào trong nhà.
 
@@ -98,35 +98,35 @@ Cô bé còn có thể làm gì khác được nữa chứ? Chắc chắn sẽ t
 
 Lorraine dường như khẽ nhíu mày vẻ chê bai.
 
-"Hừ. Anh bướng thật đấy nhỉ? Đã thế thì đành chịu vậy. Tạm thời cứ tính thế đi..." cô nói, cứ như thể đang chuẩn y giáo trình mạo hiểm giả của tôi vậy.
+"Hừ. Anh bướng thật đấy nhỉ? Đã thế thì đành chịu vậy. Tạm thời cứ để thế đã..." cô nói, cứ như thể đang ban phép cho giáo trình mạo hiểm giả của tôi vậy.
 
 Có gì đó sai sai ở đây. Không, chắc chắn là có gì đó...
 
-Hoặc giả do tôi nghĩ nhiều quá.
+Hay ít nhất là tôi nghĩ thế.
 
 Cơ mà có đôi co mấy chuyện vụn vặt này cũng chẳng ích gì.
 
 "Thế anh tính sao? Cái vụ... huấn luyện mạo hiểm giả của anh ấy. Anh định cho Alize làm gì trước?"
 
-Lorraine xem chừng đã tạm gác mấy lời trêu chọc sang một bên. Tôi không đáp ngay mà trầm ngâm suy nghĩ.
+Lorraine xem chừng đã tạm gác mấy lời trêu đùa sang một bên. Tôi không đáp ngay mà dừng lại suy nghĩ.
 
 "Trước hết... tôi sẽ dạy cô bé kiếm thuật cơ bản. Sau đó dẫn cô bé vào rừng, hoặc đến mấy mê cung... rồi dạy những thứ căn bản như thu thập nguyên liệu, quy tắc mạo hiểm giả... đại loại thế."
 
 Gương mặt Lorraine thoáng hiện nét hoài niệm.
 
-"Ra vậy. Hệt như những gì anh từng dạy tôi năm xưa, Rentt à... Cũng chính tại những nơi đó..." Lorraine ngập ngừng, như thể vừa nảy ra ý tưởng gì đó. "Này Rentt, anh có phiền nếu tôi đi cùng không?"
+"Ra vậy. Hệt như những gì anh từng dạy tôi năm xưa, Rentt à... Cũng chính tại những nơi đó..." Lorraine ngừng lời, như thể vừa chợt nảy ra ý tưởng gì. "Này Rentt, anh có phiền nếu tôi đi cùng không?"
 
-Vùng đất bên ngoài ai đi mà chẳng được, nhưng xét thấy Lorraine là người dạy ma thuật cho Alize, việc có cô ấy đi cùng để kèm cặp nếu cô bé phải dùng ma pháp trong thực chiến cũng là điều nên làm.
+Vùng đất bên ngoài ai đi mà chẳng được, huống chi Lorraine còn là người dạy ma thuật cho Alize; nếu cô bé có dùng ma thuật khi chiến đấu thì để Lorraine đi cùng cũng là điều nên làm.
 
-Alize cần kinh nghiệm thực tế. Để làm được điều đó, cô bé sẽ theo chân tôi vào các mê cung, vừa quan sát vừa để tôi chỉ bảo những ngón nghề thực chiến cần thiết. Tôi khó lòng trông mong Alize tự mình hạ gục được một con quái vật... nhưng nếu tìm được con nào đủ yếu, hoặc con nào bị tôi đánh cho suy yếu từ trước... Hừm, xem ra cô bé sẽ không chỉ đứng ngoài nhìn đâu.
+Alize cần kinh nghiệm thực tế. Muốn vậy, cô bé sẽ theo chân tôi vào các mê cung, vừa quan sát vừa để tôi chỉ bảo những ngón nghề cần thiết. Tôi khó lòng trông mong Alize tự mình hạ gục được một con quái vật... nhưng nếu tìm được con nào đủ yếu, hoặc con nào bị tôi đánh cho suy yếu từ trước... Hừm, xem ra cô bé sẽ không chỉ đứng ngoài nhìn đâu.
 
-"Tôi không phiền. Nhưng còn việc nghiên cứu với mấy thứ đại loại thế của cô thì sao?"
+"Tôi không phiền. Nhưng còn việc nghiên cứu với mấy công chuyện của cô thì sao?"
 
 "Không sao đâu, Rentt. Với lại chuyện này đâu chỉ vì mỗi Alize. Trước khi tiến hóa tôi đã thấy anh chiến đấu nhiều lần rồi, nhưng giờ thì thế nào? Chắc hẳn mọi thứ đã đổi khác."
 
-Ngay cả tôi cũng chẳng trả lời nổi câu hỏi đó. Lối chiến đấu của tôi thay đổi rõ rệt qua từng lần tiến hóa, hồi làm Ngạ Quỷ hay Thi Quỷ cách tôi đánh nhau đã khác hẳn rồi. Giờ đây, nghĩ rằng năng lực của tôi đã đổi khác cũng là điều hợp lý. Tôi cũng phải tính tới chuyện hồi làm Thi Quỷ và Ngạ Quỷ, mình từng xoay vặn cơ thể theo đủ mọi góc độ kỳ dị đến khó tin... Giờ nếu cố thì tôi vẫn làm được thôi, nhưng phần da thịt trên người lúc này khó mà chịu nổi mấy động tác quái đản ấy. Vả lại đó không chỉ là gánh nặng về thể xác, mà về mặt tâm lý, tự vặn vẹo thân thể theo cách quái dị phi nhân loại ấy cũng chẳng dễ chịu gì.
+Ngay cả tôi cũng chẳng trả lời nổi câu hỏi đó. Lối chiến đấu của tôi thay đổi rõ rệt qua từng lần tiến hóa, hồi làm Ngạ Quỷ hay Thi Quỷ cách tôi đánh nhau đã khác hẳn rồi. Giờ đây, nghĩ rằng năng lực của tôi đã đổi khác cũng là điều hợp lý. Tôi cũng phải tính tới chuyện hồi làm Thi Quỷ và Ngạ Quỷ, mình từng xoay vặn cơ thể theo đủ mọi góc độ kỳ dị đến khó tin... Giờ nếu cố thì tôi vẫn làm được thôi, nhưng phần da thịt trên người lúc này khó mà chịu nổi mấy động tác kỳ quặc ấy. Vả lại đó không chỉ là gánh nặng về thể xác, mà về mặt tâm lý, tự vặn vẹo thân thể theo kiểu chẳng giống người chút nào như thế cũng chẳng dễ chịu gì.
 
-Nắm rõ giới hạn của bản thân sớm vẫn là điều khôn ngoan, chứ để tới lúc hữu sự mới vỡ lẽ thì đã muộn. Để Lorraine quan sát một phen cũng tốt, biết đâu hai đứa lại hiểu thêm về cấu tạo cơ thể cũng như năng lực hiện tại của tôi.
+Nắm rõ giới hạn của bản thân từ trước vẫn là điều khôn ngoan, chứ để tới lúc xảy ra chuyện mới biết thì đã muộn. Để Lorraine quan sát một phen cũng phải lẽ, biết đâu hai đứa lại hiểu thêm về cấu tạo cơ thể cũng như năng lực hiện tại của tôi.
 
 Nghĩ thông rồi, tôi chậm rãi gật đầu với Lorraine.
 
@@ -142,11 +142,11 @@ Huấn luyện mạo hiểm giả chủ yếu là dẫn vào mê cung hoặc ra 
 
 Nghĩ vậy, bước tiếp theo cần làm rất rõ ràng: Alize cần một món vũ khí. Nhưng vì là trẻ mồ côi sống trong cô nhi viện, cô bé chẳng có mấy đồ đạc cá nhân, nói chi tới vũ khí. Tôi sẽ phải chuẩn bị món đồ đó cho cô bé, mà việc này thì cần có tiền. May thay, người mới vào nghề như Alize không cần thứ vũ khí đắt đỏ. Dù vậy cô bé vẫn cần một món cho ra hồn, và tôi sẵn lòng mua tặng một thanh. Thế nhưng với tính cách của Alize, đời nào cô bé chịu nhận không, chắc chắn sẽ lắc đầu từ chối ngay tắp lự. Nói đúng hơn, có khi cô bé còn nằng nặc đòi ghi nợ tiền mua vũ khí vào sổ ấy chứ.
 
-Alize cần một món vũ khí rèn tương đối tốt mà giá cả lại phải chăng. Muốn thế thì phải có tiền, ngặt nỗi túi tiền của tôi lúc này lại hơi... eo hẹp. Dĩ nhiên là Laura vẫn còn nợ tôi một khoản tiền thưởng vì tôi chưa kịp giao hoa, nhưng toàn bộ số tiền bán nguyên liệu từ trước đến nay tôi đều đã dồn sạch vào trang bị và vũ khí rồi. Tôi lại còn vừa bấm bụng chi một khoản tiền lớn đến xót cả ruột để tậu chiếc túi ma thuật dung lượng lớn. Tệ hơn nữa, trong lúc bốc đồng tôi còn đặt làm riêng chiếc hộp đựng cho mô hình phi thuyền—giờ ngẫm lại, có lẽ đó chẳng phải một quyết định khôn ngoan cho lắm. Với tình hình tài chính lúc này, tôi hoàn toàn không đủ sức chi trả tiền vũ khí cho Alize, nói gì đến khoản học phí vẫn còn nợ Lorraine.
+Alize cần một món vũ khí rèn tương đối tốt mà giá cả lại phải chăng. Muốn thế thì phải có tiền, ngặt nỗi túi tiền của tôi lúc này lại hơi... eo hẹp. Dĩ nhiên là tôi vẫn còn một khoản tiền thưởng chưa nhận từ Laura vì chưa giao bông hoa nào, cộng thêm việc toàn bộ số tiền bán nguyên liệu từ trước đến nay tôi đều đã dồn sạch vào trang bị và vũ khí của mình rồi. Tôi lại còn vừa bấm bụng chi một khoản tiền lớn đến xót cả ruột để tậu chiếc túi ma thuật dung lượng lớn. Tệ hơn nữa, trong lúc bốc đồng tôi còn đặt làm riêng chiếc hộp đựng cho mô hình phi thuyền, giờ ngẫm lại thì có lẽ đó chẳng phải một quyết định khôn ngoan cho lắm. Với tình hình tài chính lúc này, tôi hoàn toàn không đủ sức lo tiền vũ khí cho Alize, nói gì đến khoản học phí vẫn còn nợ Lorraine.
 
 Nhưng tôi cũng đã có tính toán riêng về chuyện tiền nong, hay đúng hơn là chuyện rỗng túi lúc này.
 
-Vẫn còn một món nguyên liệu tôi chưa bán—đương nhiên rồi! Chính là con Tarasque. Cách đây ít lâu, tôi đã nhận được tin nhắn từ Hội báo rằng có chuyện cần trao đổi liên quan tới xác con quái ấy. Nếu đoán không lầm, chắc là nguyên liệu cuối cùng cũng bán được rồi; và thế là cơn bĩ cực kéo dài trong túi tiền của tôi rốt cuộc cũng đến hồi kết thúc.
+Vẫn còn một món nguyên liệu tôi chưa bán, đương nhiên rồi! Chính là con Tarasque. Cách đây ít lâu, tôi đã nhận được thông báo từ Hội rằng có chuyện cần trao đổi liên quan tới xác con quái vật ấy. Nếu đoán không lầm, chắc là nguyên liệu cuối cùng cũng bán được rồi; và thế là những ngày tháng rỗng túi lạnh lẽo kéo dài của tôi rốt cuộc cũng đến hồi kết thúc.
 
 Miệng ngâm nga một khúc hát, tôi vui vẻ vẫy tay chào Lorraine rồi bước ra khỏi cửa nhà cô.
 
@@ -160,15 +160,15 @@ Không chần chừ thêm nữa, tôi hăm hở rảo bước về phía Hội M
 
 "A, anh Rentt!"
 
-Vừa bước chân vào đại sảnh của Hội, giọng Sheila đã vang lên. Dường như cô ấy đợi tôi từ nãy đến giờ và muốn tôi đi theo cô.
+Vừa bước chân vào đại sảnh của Hội, giọng Sheila đã vang lên. Dường như cô ấy đợi tôi suốt từ nãy đến giờ và muốn tôi đi theo cô.
 
-Rốt cuộc xác con quái với đống nguyên liệu bán được bao nhiêu tiền nhỉ? Chắc phải được một khoản kếch xù ấy chứ?
+Rốt cuộc xác con quái vật với đống nguyên liệu bán được bao nhiêu tiền nhỉ? Chắc phải được một khoản kha khá ấy chứ?
 
 Trong lúc tôi còn đang mải mơ mộng về khoản tiền sắp tới tay, Sheila đã bước lại gần.
 
 "Con Tarasque bán được rồi đúng không? Được bao nhiêu vậy, cô Sheila?"
 
-Sheila chỉ tròn mắt trố nhìn tôi với vẻ mặt ngạc nhiên.
+Sheila chỉ tròn mắt nhìn tôi với vẻ ngạc nhiên.
 
 "Ơ...? Anh Rentt... Giờ anh nói chuyện... trôi chảy thế..."
 
@@ -194,39 +194,39 @@ Tôi lắc đầu: "Đừng dại mà nghĩ tới chuyện đó, cô Sheila. N�
 
 Dù sao thì đó cũng là vạch xuất phát ban đầu để tôi tiến hóa lên. Còn nếu có con đường nào khác, tôi cũng chẳng tài nào biết được.
 
-Với cái thân xác khớp xương khô va lách cách ấy, tôi đã liên tục tiêu diệt quái vật, từng bước tiến hóa thành xác ướp khô khốc, rồi thành cái xác còn dính chút máu thịt... rồi nhờ kỳ tích kiếm được chút máu Ma Cà Rồng mới trở thành Hạ Cấp Ma Cà Rồng. Đến tôi còn hiểu con đường ấy chông gai, trắc trở đến nhường nào.
+Với cái thân xác khớp xương khô cứ va vào nhau lách cách ấy, tôi đã liên tục tiêu diệt quái vật, từng bước tiến hóa thành cái xác khô quắt, rồi thành cái xác còn dính chút máu thịt... rồi nhờ kỳ tích kiếm được chút máu Ma Cà Rồng mới trở thành Hạ Cấp Ma Cà Rồng. Đến tôi còn hiểu con đường ấy gian nan đến mức nào.
 
-Có khi tôi chỉ ăn may nên mọi chuyện mới suôn sẻ được như thế. Dù một kẻ có tài giỏi đến đâu thì ngay từ đầu cũng phải bắt đầu từ con số không. Có lẽ đó mới là ải khó nhằn nhất.
+Có khi tôi chỉ gặp may nên mọi chuyện mới suôn sẻ được như thế. Dù một người có tài giỏi đến đâu thì ngay từ đầu cũng phải bắt đầu từ hai bàn tay trắng. Có lẽ đó mới là phần khó khăn nhất.
 
-Sheila dường như hiểu được những suy nghĩ chẳng cần cất thành lời của tôi.
+Sheila dường như hiểu được những suy nghĩ chẳng cần nói thành lời của tôi.
 
-"Tôi hiểu mà. Đáng lẽ tôi muốn hỏi 'Giả như tôi có biến thành như anh thật thì làm được gì cơ chứ?', nhưng... hỏi vậy thì thất lễ quá."
+"Tôi hiểu mà. Đáng lẽ tôi muốn hỏi 'Giả như tôi có biến thành như anh thật thì làm được gì cơ chứ?', nhưng... hỏi vậy thì không phải phép."
 
-"A, phải rồi," Sheila tiếp tục. "Vì giờ trông anh ít nhiều đã giống thời còn là con người, anh định tính sao với hồ sơ cũ của anh? Anh có thể tiếp tục hoạt động với tư cách Rentt Faina... hoặc là anh muốn tiếp tục dùng thân phận Rentt Vivie...?"
+"A, phải rồi," Sheila tiếp tục. "Vì giờ trông anh ít nhiều đã giống thời còn là con người, anh định tính sao với hồ sơ cũ của mình? Anh có thể tiếp tục hoạt động với tư cách Rentt Faina... hoặc là anh muốn tiếp tục dùng thân phận Rentt Vivie...?"
 
 Một câu hỏi rất xác đáng, nhưng tôi chỉ có thể đưa ra một câu trả lời duy nhất:
 
-"Dù thế nào thì cứ tiếp tục dùng cái tên Rentt Vivie đi."
+"Dù thế nào thì chúng ta cứ tiếp tục dùng cái tên Rentt Vivie đi."
 
-"Sao lại thế ạ?" Sheila thoáng bối rối trước câu trả lời nhanh gọn và dứt khoát của tôi.
+"Sao lại thế?" Sheila thoáng bối rối trước câu trả lời nhanh gọn và dứt khoát của tôi.
 
 "Đơn giản thôi, cô Sheila. Trước hết, cái mặt nạ này không tháo ra được... rồi người ta sẽ thắc mắc tại sao Rentt Faina tự dưng lại đeo một chiếc mặt nạ như thế này. Kế đó là chuyện... năng lực tăng vọt của tôi. Đột nhiên bị bắt giải thích hết mấy thứ đó... chà, khó xử lắm."
 
-Vẫn còn một lựa chọn khác thậm chí còn đơn giản hơn: tôi cứ khai thẳng mình đã biến thành quái vật là xong. Cơ mà dù lý lẽ có thuyết phục cỡ nào thì tôi vẫn sẽ bị truy lùng và xử trảm ngay tắp lự, nên chung quy đó chẳng phải thượng sách. Chừng nào chưa thể đoan chắc một trăm phần trăm mình là con người, thì việc dùng lại cái tên "Rentt Faina" ở thị trấn Maalt sẽ khó khăn vô cùng. Ở đây có quá nhiều người quen mặt tôi.
+Vẫn còn một lựa chọn khác thậm chí còn đơn giản hơn: tôi cứ khai thẳng mình đã biến thành quái vật là xong. Cơ mà dù lý lẽ có thuyết phục cỡ nào thì tôi vẫn sẽ bị truy lùng và xử tử ngay lập tức, nên rốt cuộc đó chẳng phải cách hay nhất. Chừng nào chưa thể khẳng định chắc chắn không chút nghi ngờ rằng mình là con người, thì việc dùng lại cái tên "Rentt Faina" ở thị trấn Maalt sẽ khó khăn vô cùng. Ở đây có quá nhiều người quen mặt tôi.
 
 "Tôi hiểu rồi... Vậy thì anh Rentt à, từ giờ tôi sẽ xử lý các yêu cầu và ủy thác theo đúng ý anh. A, phải rồi... Chúng ta vẫn còn chuyện cần bàn nữa..."
 
 "Phải rồi. Vụ con Tarasque đúng không? Chẳng biết có bán được giá hời không nhỉ..."
 
-Bao nhiêu mộng tưởng màu hồng của tôi thoắt cái đã bị lời của Sheila chặt đứt phăng.
+Bao nhiêu mong đợi của tôi thoắt cái đã bị lời của Sheila chặt đứt đôi.
 
-"Hả? Đâu có, món đó đã bán được đâu anh Rentt. Đâu phải chuyện đấy—như chúng tôi đã nhắn, là có việc cần trao đổi mà! Dù sao thì xin mời anh đi theo tôi tới phòng mổ xẻ..." Cô vừa nói vừa thoáng vẻ ngạc nhiên.
+"Hả? Đâu có, món đó đã bán được đâu anh Rentt. Không phải chuyện đấy, như chúng tôi đã nhắn, là có việc cần trao đổi mà! Dù sao thì xin mời anh đi theo tôi tới phòng mổ xẻ..." Cô vừa nói vừa thoáng vẻ ngạc nhiên.
 
 Nhưng... còn túi tiền của tôi thì sao...?
 
 Có lẽ tôi đã tính cua trong lỗ hơi sớm rồi...
 
-Lúc này chẳng làm gì khác được, tôi chỉ đành gật đầu gượng gạo, rặn ra một câu trả lời cho xong:
+Lúc này chẳng làm gì khác được, tôi chỉ đành gật đầu phụ họa, cố lắm mới thốt ra được mấy tiếng đáp lời:
 
 "À... À. Phải... Phải rồi."
 
