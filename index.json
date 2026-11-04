@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T12:42:01Z",
+  "generatedAt": "2026-11-04T12:48:51Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2284,19 +2284,19 @@
           "number": 22,
           "title": "Chương 22: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_022.md",
-          "sha": "6ae2b8bfc4b4f39a85a6648afe5e392000810b57"
+          "sha": "696082b5c4619b0bb0d439a1e25f61fabb5ed033"
         },
         {
           "number": 23,
           "title": "Chương 23: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_023.md",
-          "sha": "e73f856adb53d040bffaddde9c1e6bb0490960c3"
+          "sha": "8386deb3f90191326914ce7048493a69505d8ab4"
         },
         {
           "number": 24,
           "title": "Chương 24: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_024.md",
-          "sha": "9665349569e2d9a9d9b8f0f88407eb20ac0c10af"
+          "sha": "a3f64dc7a4010170bb56ca1fea11910a3a371300"
         },
         {
           "number": 25,

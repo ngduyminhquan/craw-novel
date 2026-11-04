@@ -57,8 +57,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (1–5) Rentt bị rồng ăn thịt, thức tỉnh thành Khô Lâu rồi tiến hóa thành Ngạ Quỷ. Giọng kể mang đậm tính độc thoại phân tích logic, chấp nhận thực tế nhanh chóng, kiên trì không bỏ cuộc dù biến thành Undead.
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
-- (22) Lorraine đưa ra giả thuyết mang tính nền tảng về Tiến Hóa Bản Thể: quái vật tiến hóa theo ý muốn chủ quan và phải trải qua từng nấc thang sức mạnh (tương tự cấp bậc mạo hiểm giả) chứ không thể nhảy cóc.
-- (23) Lorraine bộc lộ thói quen học giả say mê nghiên cứu đến quên ăn quên ngủ; loạt thí nghiệm xác nhận thể chất Thi Quỷ của Rentt: vẫn ăn được thức ăn thường, thuốc hồi phục có tác dụng, miễn nhiễm độc tố và khát máu người sống (được làm dịu nhờ thức ăn và máu của Lorraine).
+- (23) Lorraine bộc lộ thói quen học giả say mê nghiên cứu đến quên ăn quên ngủ.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.

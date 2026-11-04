@@ -40,7 +40,7 @@ Nhưng đúng như lời Lorraine. Một chiếc mặt nạ làm được trò �
 
 Lorraine ghé sát lại, săm soi chiếc mặt nạ thật kỹ: "...Lúc mặt nạ đổi dạng, anh có làm gì khác thường không?"
 
-Tôi kể lại cho Lorraine nghe suy nghĩ của mình lúc đó, rằng tôi thấy để lộ miệng ra trước bàn dân thiên hạ thì chẳng ổn chút nào.
+Tôi kể lại cho Lorraine nghe suy nghĩ của mình lúc đó, rằng tôi thấy để lộ miệng ra ngoài đường thì chẳng ổn chút nào.
 
 "Hừm. Nó đổi dạng theo suy nghĩ của anh sao? Lẽ nào là một dạng vật phẩm có tri giác? Hiếm có thật đấy..."
 
@@ -50,15 +50,15 @@ Vật phẩm có tri giác quả thực rất hiếm gặp. Người ta hay nh�
 
 Tôi nêu ý nghĩ đó với Lorraine, rằng có lẽ chiếc mặt nạ của tôi cũng là một món đồ như thế. Nhưng ngặt nỗi, chiếc mặt nạ này lại do Rina mua với giá chỉ vài đồng xu đồng. Dù có nói thế nào đi nữa, cái giá ấy vẫn là quá rẻ cho một vật phẩm có tri giác.
 
-Lorraine ngẫm nghĩ một lúc rồi đáp: "Anh cũng phải tính đến chuyện nó bị nguyền rủa nữa chứ. Chủ nhân lúc đó có khi chỉ bán rẻ bèo thế để tống khứ nó đi cho rảnh nợ. Chúng ta cũng cần tính đến khả năng chiếc mặt nạ có thể kiểm soát suy nghĩ của người đeo ở mức độ nào đó..."
+Lorraine ngẫm nghĩ một lúc rồi đáp: "Anh cũng phải tính đến chuyện nó bị nguyền rủa nữa chứ. Chủ nhân lúc đó có khi chỉ bán rẻ bèo thế để tống khứ nó đi cho rảnh nợ. Cũng cần tính đến khả năng chiếc mặt nạ có thể kiểm soát suy nghĩ của người đeo ở mức độ nào đó..."
 
-Câu trả lời của cô làm tôi thấy bất an hơn hẳn bình thường.
+Nghe cô trả lời mà tôi thấy bất an hơn hẳn mọi khi.
 
-Dù lời nguyền khiến tôi chẳng thể tự ý tháo nó ra, nhưng tôi tuyệt đối không thể để nó kiểm soát tâm trí mình; bản thân tôi lúc này vốn dĩ đã đủ quái dị rồi. Chí ít tôi vẫn muốn giữ trọn ý chí tự do của mình.
+Dù lời nguyền khiến tôi chẳng tự ý tháo nó ra được, nhưng tôi tuyệt đối không thể để nó kiểm soát tâm trí mình; bản thân tôi lúc này vốn đã đủ quái dị rồi. Chí ít tôi vẫn muốn giữ trọn ý chí tự do của mình.
 
-Nói thì nói thế, từ khi thức tỉnh dưới dạng Khô Lâu tới nay, tôi chưa từng cảm thấy mình bị ai kiểm soát vào bất cứ lúc nào. Tuy đôi lúc có bị những thôi thúc kỳ lạ lấn át, tôi cũng chẳng rõ đó có phải do chiếc mặt nạ gây ra hay không. Dù sao thì vừa rồi tôi cũng đã tấn công Lorraine đấy thôi.
+Nói thì nói thế, từ khi thức tỉnh dưới dạng Khô Lâu tới nay, tôi chưa từng thấy mình bị ai kiểm soát lúc nào cả. Tuy đôi lúc có bị những thôi thúc kỳ lạ lấn át, tôi cũng chẳng rõ đó có phải do chiếc mặt nạ gây ra hay không. Dù sao thì vừa rồi tôi cũng đã tấn công Lorraine đấy thôi.
 
-Nhưng Lorraine dường như hứng thú với chiếc mặt nạ hơn, cô vẫn chăm chú quan sát nó trong khi tôi lặng lẽ trầm ngâm suy nghĩ.
+Nhưng Lorraine dường như hứng thú với chiếc mặt nạ hơn, cô vẫn chăm chú quan sát nó trong khi tôi lặng lẽ suy nghĩ.
 
 "...Này nhé... Nếu chỉ cần nghĩ là nó đổi hình dạng được, chẳng phải có nghĩa là anh tháo được nó ra rồi sao?"
 
@@ -68,7 +68,7 @@ Lorraine nói nghe rất có lý. Thấy cũng đáng để thử một phen, t�
 
 "Cô cứ... thử... xem..."
 
-Thế nhưng đúng như dự đoán, chiếc mặt nạ chẳng hề suy chuyển trước nỗ lực của Lorraine, cứ như thể dán chặt vào mặt tôi vậy. Lorraine đâu phải dạng chân yếu tay mềm; dẫu có phần yếu hơn binh lính hay cánh mạo hiểm giả nam to con, cô dẫu sao cũng là một mạo hiểm giả như họ. Lẽ ra cô phải thừa sức tháo nó ra, ít nhất là nếu đây chỉ là một chiếc mặt nạ bình thường.
+Thế nhưng đúng như dự đoán, mặc cho Lorraine ra sức kéo, chiếc mặt nạ vẫn chẳng mảy may nhúc nhích, cứ như thể dán chặt vào mặt tôi vậy. Lorraine đâu phải dạng chân yếu tay mềm; dẫu có phần yếu hơn binh lính hay cánh mạo hiểm giả nam to con, cô dẫu sao cũng là một mạo hiểm giả như họ. Lẽ ra cô phải thừa sức tháo nó ra, ít nhất là nếu đây chỉ là một chiếc mặt nạ bình thường.
 
 Tóm lại, chiếc mặt nạ vẫn dính chặt cứng trên mặt tôi, chẳng đời nào chịu rời đi trong một sớm một chiều.
 
@@ -94,9 +94,9 @@ Có điều, đó chưa phải là thứ duy nhất thay đổi.
 
 "Ồ, có chứ. Giờ nghe trơn tru hơn nhiều rồi, đến mức tôi thấy hơi là lạ đấy. Nhưng chắc nghe quen rồi thì thôi nhỉ?"
 
-"Tôi cũng không rõ... nhưng đúng là nói năng dễ hơn thật." Tôi mừng rỡ khôn xiết vì điều đó.
+"Tôi cũng không rõ... nhưng đúng là nói năng dễ hơn thật." Tôi mừng lắm vì điều đó.
 
-Thế nhưng, câu hỏi lớn hơn lởn vởn trong đầu tôi là rốt cuộc điều gì đã tạo nên sự thay đổi này ngay từ đầu.
+Thế nhưng, điều khiến tôi băn khoăn hơn cả là rốt cuộc cái gì đã tạo nên sự thay đổi này.
 
 "Tôi đã... làm được rồi sao? Tiến Hóa... Bản Thể ư?"
 
@@ -114,7 +114,7 @@ Dù đúng là tôi có lao vào tấn công Lorraine, nhưng cô đã hất vă
 
 "Cũng phải. Nói đúng hơn thì người hạ gục anh là tôi... Nhưng quan trọng hơn, à phải rồi... Anh đã ăn thịt và uống máu tôi. Có khi đó mới là nguyên nhân chăng?"
 
-Lời Lorraine nói khiến tôi sững cả người, ít nhất cũng phải nói là như thế. Tôi trợn tròn mắt nhìn cô, nhưng Lorraine chỉ thản nhiên giải thích tiếp.
+Câu nói của Lorraine khiến tôi sững cả người. Tôi trợn tròn mắt nhìn cô, nhưng Lorraine chỉ thản nhiên giải thích tiếp.
 
 "Nghĩ mà xem, chuyện đó chẳng hoang đường đến thế đâu. Nếu phải nhận xét... nhìn bộ dạng lúc này của anh, tôi thấy giống Thi Quỷ của Ma Cà Rồng hơn là một Ngạ Quỷ đơn thuần đấy. Chí ít anh cũng là một dạng quái vật chịu sự sai khiến của Ma Cà Rồng... Thành ra trên thang bậc quái vật, anh sẽ xếp dưới Hạ Cấp Ma Cà Rồng một bậc."
 
@@ -124,11 +124,11 @@ Lời Lorraine nói khiến tôi sững cả người, ít nhất cũng phải n
 
 Dù Thi Quỷ của Ma Cà Rồng là loài quái vật khá mạnh, nhưng cả đời tôi chưa từng thấy con nào. Theo lời Lorraine giải thích, Thi Quỷ là một dạng thuộc hạ do Ma Cà Rồng tạo ra, nên nếu không có Ma Cà Rồng sinh ra chúng thì chúng chẳng thể tồn tại. Được biết Thi Quỷ dường như không tái sinh trong mê cung. Trái lại, những con Hạ Cấp Ma Cà Rồng tạo ra chúng thì sau khi bị tiêu diệt một thời gian sẽ xuất hiện trở lại. Chính vì lẽ đó, có thể nói Thi Quỷ là loại quái vật tương đối hiếm gặp.
 
-Dù vậy, chúng cũng chưa đến mức là sinh vật huyền thoại, bởi người ta đã ghi nhận không ít lần chạm trán chúng ở những vùng có Ma Cà Rồng sinh sống. Có điều, Thi Quỷ trong những trường hợp ấy trước kia đều là con người, bị biến đổi sau khi bị Ma Cà Rồng cắn. Theo hiểu biết của tôi, không ai có thể tự dưng hóa thành Thi Quỷ nếu không có sự can thiệp trực tiếp từ một Ma Cà Rồng gốc.
+Dù vậy, chúng cũng chưa đến mức là sinh vật huyền thoại, bởi người ta đã ghi nhận không ít lần chạm trán chúng ở những vùng có Ma Cà Rồng sinh sống. Có điều, Thi Quỷ trong những trường hợp ấy trước kia đều là con người, bị biến đổi sau khi bị Ma Cà Rồng cắn. Theo hiểu biết của tôi, không ai tự dưng hóa thành Thi Quỷ được nếu không có tác động trực tiếp từ một Ma Cà Rồng gốc.
 
-"Phải đấy... Đúng là có nét tương đồng. Trước đây tôi từng nhận ủy thác săn Thi Quỷ rồi đấy chứ. Trông anh khá giống với mấy con tôi thấy hồi đó; chà, người anh nom có vẻ nhiều lỗ thủng hơn một con Thi Quỷ thông thường đôi chút... nhưng tôi sẵn sàng coi đó là sự khác biệt giữa các cá thể."
+"Phải đấy... Đúng là có nét giống thật. Trước đây tôi từng nhận ủy thác săn Thi Quỷ rồi mà. Trông anh khá giống với mấy con tôi thấy hồi đó; chà, người anh nom có vẻ nhiều lỗ thủng hơn một con Thi Quỷ thông thường đôi chút... nhưng cứ coi đó là khác biệt giữa các cá thể cũng được."
 
-Dẫu sao Lorraine cũng là học giả am tường tập tính quái vật. Nếu cô đã bảo tôi là một dạng Thi Quỷ và bản thân từng tận mắt thấy loài quái ấy, tôi chẳng có lý do gì để hoài nghi lời cô.
+Dẫu sao Lorraine cũng là học giả am tường tập tính quái vật. Nếu cô đã bảo tôi là một dạng Thi Quỷ và bản thân từng tận mắt thấy loài quái ấy, tôi chẳng có lý do gì để nghi ngờ lời cô.
 
 Thế nhưng tôi đâu có bị Ma Cà Rồng cắn, thành thử thật khó hiểu nổi nguyên do mình tiến hóa. Chưa kể, chuyện Ngạ Quỷ tiến hóa thành Thi Quỷ vốn là điều xưa nay chưa từng nghe nói tới...
 
@@ -160,7 +160,7 @@ Lorraine thoáng sững người khi nghe tôi nhắc lại quãng thời gian l
 
 "Và... từ đó anh tiến hóa thành Ngạ Quỷ?"
 
-"Phải. Cô từng thấy... tôi. Dưới dạng Ngạ Quỷ rồi... nên cô biết đấy."
+"Phải. Cô từng thấy... tôi dưới dạng Ngạ Quỷ rồi... nên cô biết đấy."
 
 "Ừ, dĩ nhiên rồi... Nhìn thấy anh lúc đó cảm giác lạ lùng lắm. Rất... thú vị. Thôi, tạm gác chuyện đó qua một bên. Quan trọng hơn là... mấy nhận định của tôi về chuyện tiến hóa này. Anh từ Khô Lâu biến thành Ngạ Quỷ, chẳng lẽ anh không thấy chuyện đó vốn dĩ đã rất kỳ quặc rồi sao?"
 
@@ -196,7 +196,7 @@ Tôi thấy nhận xét của Lorraine có phần hơi gay gắt, nhưng cô ch�
 
 "Nói đơn giản thế này: tôi cho rằng Tiến Hóa Bản Thể sẽ thúc đẩy quái vật biến đổi theo hướng mà bản thân nó muốn trở thành."
 
-Có lẽ lời Lorraine nói có phần đúng. Ngay từ khoảnh khắc nhận ra mình tái sinh làm Khô Lâu, tôi đã đinh ninh mục tiêu phải tiến hóa thành Ngạ Quỷ. Đến lúc thành Ngạ Quỷ rồi cũng vậy: tôi luôn muốn tiến hóa thành Ma Cà Rồng để có được hình hài giống con người hơn. Có khi giả thuyết của Lorraine là đúng thật.
+Có lẽ lời Lorraine nói có phần đúng. Ngay từ khoảnh khắc nhận ra mình thức tỉnh dưới hình hài Khô Lâu, tôi đã một mực hướng tới mục tiêu phải tiến hóa thành Ngạ Quỷ. Đến lúc thành Ngạ Quỷ rồi cũng vậy: tôi luôn muốn tiến hóa thành Ma Cà Rồng để có được hình hài giống con người hơn. Có khi giả thuyết của Lorraine là đúng thật.
 
 Dù vậy, trong đầu tôi vẫn còn vài thắc mắc.
 
@@ -212,7 +212,7 @@ Tôi hiểu đại ý lời Lorraine. "...Nghĩa là tôi phải tiến hóa... 
 
 Puchi Suri là loài quái vật nhỏ tựa chuột nhắt, hầu như ở đâu cũng có và cũng rất dễ bắt. Các phân loài mang thuộc tính nguyên tố lẫn dạng biến thể tiến hóa của chúng cũng dễ dàng bắt gặp, thường tương ứng với môi trường chúng sinh sống. Xem chừng Lorraine từng làm vài nghiên cứu về mảng này.
 
-Lorraine giải thích tiếp: "Thí nghiệm đơn giản lắm, chỉ cần bắt một số con Puchi Suri rồi nhốt vài con vào mỗi chiếc lồng đặt ở nhiều địa điểm khác nhau: vùng núi lửa, gần nguồn nước, trong rừng, trong hang động, vân vân. Kết quả thu được thú vị vô cùng, ít nhất cũng phải nói là như thế."
+Lorraine giải thích tiếp: "Thí nghiệm đơn giản lắm, chỉ cần bắt một số con Puchi Suri rồi nhốt vài con vào mỗi chiếc lồng đặt ở nhiều địa điểm khác nhau: vùng núi lửa, gần nguồn nước, trong rừng, trong hang động, vân vân. Kết quả thu được phải nói là cực kỳ thú vị."
 
 Theo lời Lorraine giải thích, mỗi nhóm Puchi Suri đều mang thuộc tính nguyên tố của môi trường xung quanh: con đặt ở vùng núi lửa thì biến thành phân loài hệ hỏa, các mẫu vật ở những nơi khác cũng biến đổi tương tự. Chưa hết, khi thí nghiệm kết thúc, mỗi chiếc lồng chỉ còn lại đúng một con Puchi Suri. Nguyên do của chuyện này dĩ nhiên tôi đã rõ; nếu phải đoán, hẳn là lũ Puchi Suri đã cắn xé lẫn nhau, và kẻ chiến thắng cuối cùng đã hấp thụ toàn bộ sức mạnh của đồng loại.
 
