@@ -1489,6 +1489,13 @@ Nhóm Rentt tạm biệt dân làng Looza và Ferrici trong êm đẹp để kh�
 Trên xe, ông lão giải thích về việc dị năng có ảnh hưởng tinh vi lên người sở hữu (ông lão được tăng thể lực dù ở dạng nhỏ, Siren có sức hút bẩm sinh với người và động vật, Goblin có khiếu lấy lòng người khác); chuyến đi diễn ra suôn sẻ nhờ uy áp của ông lão và thuật thao túng của Siren xua đuổi quái vật, rồi cả nhóm thuận lợi qua cổng thành nhờ giấy tờ tùy thân thương nhân của nhóm sát thủ.
 Cảnh kết thúc: Đến vương đô, Goblin một mình đánh xe về căn cứ tổ chức ngầm để liên lạc với thủ lĩnh; Lorraine ở lại trông chừng ông lão và Siren, trong khi Rentt và Augurey chuẩn bị đi nộp nguyên liệu ủy thác và kiểm tra lịch trình trở về của Tổng Hội Trưởng.
 
+## 253
+Rentt và Augurey đến trụ sở Hội mạo hiểm giả tại vương đô nộp ba ủy thác (bắt sống Aqua Hathur bằng lồng và vòng cổ ma pháp do Lorraine chế tạo, thu thập lượng lớn bùn đất Golem Luteum, và thu hái nhiều bó lanh Phi Long chất lượng cao quanh Hồ Petorama); các nguyên liệu đều được nhân viên Hội đánh giá xuất sắc và thưởng thêm thù lao.
+Khi kiểm tra thẻ mạo hiểm giả để hoàn tất thủ tục, nữ nhân viên Hội bất ngờ thông báo các ủy thác khó vừa hoàn thành cùng thứ hạng Đồng Cấp đã đem lại lượng lớn điểm tích lũy bổ sung, giúp Rentt chính thức đủ điều kiện tham gia kỳ thi thăng hạng Ngân Cấp.
+Augurey vui mừng chúc mừng Rentt trong khi nhân viên Hội nhắc nhở về độ khó khắt khe của kỳ thi; Rentt hồi tưởng lại quá khứ gian truân 10 năm kẹt ở đáy xã hội từng suýt bỏ mạng trong Mê Cung Nguyệt Ảnh và cảm thấy niềm vui sướng ấm áp khi bản thân đang thực sự từng bước tiến bộ vươn lên.
+Cảnh kết thúc: Rentt đón nhận niềm vui và quyết tâm không tự mãn để tiếp tục vững bước leo lên những nấc thang mạo hiểm giả cao hơn.
+
+
 
 
 
