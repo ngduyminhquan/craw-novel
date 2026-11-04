@@ -1,137 +1,137 @@
 # Chương 86: Ngoại truyện Tập 3 - Chuyện Hồn Ma Và Thú Cưng
 
-"...Hình như có một bóng ma vừa xuất hiện..." Lorraine cất lời, vẻ mặt nghiêm túc tới tột cùng.
+"...Hình như có ma xuất hiện..." Lorraine nói, vẻ mặt hết sức nghiêm túc.
 
-Tôi ngước mắt lên khỏi cuốn sách đang đọc dở, chăm chú quan sát nét mặt cô.
+Tôi ngẩng lên khỏi cuốn sách đang đọc, nhìn kỹ nét mặt cô.
 
-"Cái gì cơ...? Cô vừa nói gì? Cô nhắc lại lần nữa được không, Lorraine?"
+"Cái gì cơ...? Cô bảo sao? Cô nhắc lại lần nữa xem nào, Lorraine?"
 
-Một trò đùa chăng, hay là do đầu óc tôi đang tưởng tượng? Chẳng lẽ tôi lại nghe nhầm?
+Chắc là đùa thôi, hoặc do đầu óc tôi lú lẫn rồi. Chẳng lẽ tôi nghe nhầm?
 
-Thế nhưng, Lorraine vẫn điềm đạm lặp lại.
+Nhưng Lorraine vẫn bình thản nhắc lại.
 
-"Hình như có một bóng ma..."
+"Hình như có ma xuất hiện..."
 
-Tôi giơ một tay lên, ngắt ngang lời cô.
+Tôi giơ tay lên, ngắt ngang lời cô.
 
-"Được rồi, tôi hiểu rồi. Hóa ra tôi không hề nghe nhầm."
+"Được rồi, tôi hiểu rồi. Hóa ra không phải tôi nghe nhầm."
 
-"Hiểu nhau vậy là tốt rồi đấy, Rentt. Vậy thì sao? Anh nghĩ thế nào?"
+"Hiểu ra là tốt rồi, Rentt. Thế nào? Anh thấy sao?"
 
-"Tôi... nghĩ thế nào ư? Thì lúc nào tiện thì đi tiêu diệt nó thôi, chẳng phải sao? Dùng chút ma pháp thanh tẩy chẳng hạn? Nếu tôi nhớ không lầm, một bóng ma bình thường thì đến cả ma pháp thông thường cũng đủ để tiễn nó siêu thoát rồi mà..."
+"Tôi... thấy thế nào ư? Thì lúc nào tiện thì đi xử lý nó thôi chứ sao? Dùng chút ma pháp thanh tẩy chẳng hạn? Theo tôi nhớ thì ma bình thường, đến cả ma pháp thông thường cũng đủ để tiễn nó siêu thoát rồi mà..."
 
-Chẳng có lý do gì phải hốt hoảng hay sợ hãi cả. Dù sao thì cũng chỉ là một bóng ma thôi mà. Nếu còn là một đứa trẻ thì có lẽ tôi sẽ sợ thật, nhưng giờ tôi đã là người lớn rồi.
+Chẳng việc gì phải hốt hoảng hay sợ hãi cả. Dù sao cũng chỉ là một con ma thôi. Hồi còn nhỏ có khi tôi sợ thật, chứ giờ đã là người lớn rồi.
 
-Xét thấy việc bóng ma hiện hình vốn là một hiện tượng tự nhiên và người ta luôn có cách để tiêu diệt chúng, nên chẳng việc gì phải cuống cuồng lên. Hơn nữa còn có cả Lorraine ở đây, cô sẽ yểm trợ bằng ma thuật phòng khi đòn tấn công vật lý không có tác dụng.
+Ma hiện hình vốn là hiện tượng tự nhiên, lại luôn có cách tiêu diệt, nên chẳng việc gì phải cuống lên cả. Chưa kể còn có Lorraine ở đây, cô sẽ yểm trợ bằng ma thuật phòng khi đòn tấn công vật lý không ăn thua.
 
-Vậy thì... vấn đề nằm ở đâu chứ? Sao vẻ mặt cô lại nghiêm trọng đến thế?
+Thế thì... có vấn đề gì cơ chứ? Sao mặt cô lại nghiêm trọng thế kia?
 
-"Anh nghĩ thế cũng phải thôi, nhưng... nếu anh tiêu diệt nó bằng ma thuật, chúng sẽ phát ra tiếng hú hét kinh khủng đó, đúng chứ?"
+"Nghĩ thế cũng phải thôi, nhưng... nếu anh tiêu diệt nó bằng ma thuật, lũ đó sẽ phát ra cái tiếng hú hét kinh khủng kia, đúng chứ?"
 
-Nói chí phải... Người ta không rõ loài ma quỷ có biết đau đớn hay không. Tuy nhiên, khi bị ma thuật đánh trúng, chúng thường phát ra những tiếng gào thét chói tai xé ruột xé gan. Đó là lý do tại sao việc trừ tà ma quỷ vào ban đêm, nói một cách nhẹ nhàng nhất, là vô cùng phiền toái. Cứ hỏi những người hàng xóm quanh đó là biết ngay. Vì vậy, các ủy thác dạng này thường đi kèm nhiệm vụ phải đi một vòng quanh khu phố, xin lỗi trước toàn bộ những người sống quanh căn nhà bị ma ám.
+Cũng đúng... Chẳng ai rõ ma quỷ có biết đau hay không. Có điều, mỗi khi bị ma thuật đánh trúng, chúng lại hay gào thét lên những tiếng chói tai. Đó là lý do việc trừ tà vào ban đêm, nói một cách nhẹ nhàng nhất thì phiền phức vô cùng. Hàng xóm quanh đó hẳn cũng sẽ đồng tình với điều này. Thế nên mấy ủy thác dạng này thường kèm theo nhiệm vụ phải đi một vòng, xin lỗi trước toàn bộ những ai sống quanh ngôi nhà bị ma ám.
 
-Nghĩ đến thôi đã thấy phiền toái vô cùng rồi.
+Nghĩ thôi đã thấy phiền toái đủ đường rồi.
 
-Bất chấp mọi phiền toái đó, phần lớn mọi người sẽ chỉ lẳng lặng chấp nhận lời xin lỗi rồi điềm tĩnh đóng cửa lại. Dù sao thì hầu như chẳng ai muốn có một bóng ma lảng vảng ngay sát vách nhà mình cả.
+Dù phiền là thế, phần lớn mọi người vẫn lặng lẽ nhận lời xin lỗi rồi bình thản khép cửa lại. Dù sao thì chẳng ai muốn có một con ma lảng vảng gần nhà mình cả.
 
-Chẳng hạn như, có người trở về nhà và phát hiện nơi ở của mình biến thành một bãi chiến trường, dù cho cửa sổ đã khép chặt còn cửa ra vào thì khóa kín. Bát đĩa bị đập vỡ vương vãi khắp nơi—đây là hiện tượng rất đỗi bình thường mỗi khi có bóng ma vất vưởng ghé qua. Ngay cả khi cứ cho là có người chịu đựng được cảnh bát đĩa vỡ vụn, thì họ cũng có nguy cơ nửa đêm giật mình thức giấc và trông thấy một người phụ nữ trong suốt bê bết máu đang đứng trừng trừng ngay cạnh giường ngủ. Hoặc giả như trong giờ cơm lại văng vẳng một giọng nói không rõ từ đâu phát ra: "Tôi cũng muốn ăn nữa...", hay những chuyện tương tự thế. Dù một vài kẻ bạo gan chẳng hề bận tâm tới mấy hiện tượng kỳ quái này đi chăng nữa, thì chí ít họ cũng sẽ cảm thấy bực bội, hoặc thấy khó chịu đôi chút trước những sự vụ ấy.
+Chẳng hạn, có người về đến nhà bỗng thấy nơi ở của mình biến thành bãi chiến trường, dù cửa sổ đóng chặt còn cửa chính khóa kín. Bát đĩa vỡ vụn vương vãi khắp nơi—chuyện thường thấy mỗi khi có ma vất vưởng ghé qua. Cứ cho là có người chịu được cảnh bát đĩa vỡ đi, thì nửa đêm thức giấc họ vẫn có thể thấy một người phụ nữ trong suốt bê bết máu đứng ngay cạnh giường mình. Hoặc vào bữa ăn lại có giọng nói vô hình cất lên: "Tôi cũng muốn ăn nữa...", hay đại loại thế. Dù có vài kẻ bạo gan chẳng mảy may bận tâm mấy chuyện quái đản này, thì chí ít họ cũng thấy bực bội hoặc khó chịu đôi chút trước những sự việc đó.
 
-Thêm vào đó, ma quỷ thường có xu hướng mạnh dần lên nếu cứ để mặc chúng, rồi các sự việc sẽ leo thang tới mức có người bị thương nặng. Mỗi năm có lẽ một đến hai lần, người ta lại nghe phong phanh tin tức về những cư dân trong thị trấn bị... ma quỷ sát hại. Khả năng ấy xảy ra cao hơn người ta tưởng, thế nên thỉnh thoảng việc trừ tà là điều vô cùng cần thiết.
+Chưa kể, ma quỷ nếu cứ để mặc thì càng ngày càng mạnh lên, rồi mọi chuyện sẽ leo thang tới mức có người bị trọng thương. Mỗi năm có khi đôi ba lần, người ta lại nghe tin có người trong thị trấn bị... ma sát hại. Chuyện đó xảy ra thường xuyên hơn người ta tưởng, thế nên thỉnh thoảng trừ tà là việc rất cần thiết.
 
-Nói thẳng thừng ra là chúng giống như... lũ gián vậy. Lũ gián mà còn biết gào thét ầm ĩ khi bị dẫm bẹp. Nghĩ thôi đã thấy rợn người.
+Nói thẳng thừng ra thì chúng chẳng khác nào... gián. Lũ gián biết gào thét khi bị giẫm bẹp. Đúng là kinh hãi.
 
-Thế nhưng, chúng tôi cũng chẳng có mấy lựa chọn.
+Có điều, chúng tôi cũng chẳng có mấy lựa chọn.
 
-"Vậy thì đã sao chứ? Mấy tiếng gào rú đó thì chúng ta cũng đâu làm gì được."
+"Thế thì sao chứ? Tiếng rú đó thì mình làm được gì cơ chứ."
 
-"Không hẳn vậy đâu, Rentt. Anh quên rồi sao? Nếu chúng được thanh tẩy bằng Thần Lực, chúng sẽ thanh thản siêu thoát và cứ thế tan biến đi."
+"Không hẳn thế đâu, Rentt. Anh quên rồi à? Nếu được thanh tẩy bằng Thần Lực, chúng sẽ thanh thản siêu thoát rồi tan biến mất."
 
-"A... phải rồi. Đúng là còn cách đó nữa. Vậy cô muốn tôi phụ một tay sao?"
+"À... phải rồi. Đúng là còn cách đó. Vậy cô muốn tôi giúp một tay à?"
 
-"Tất nhiên rồi. Anh hiểu chuyện nhanh như vậy lúc nào cũng giúp ích nhiều lắm đấy, Rentt."
+"Đương nhiên rồi. Anh hiểu ý nhanh như vậy lúc nào cũng đỡ việc lắm, Rentt."
 
-Sự tình vốn dĩ là như thế. Trên thực tế, những người có liên hệ với giáo hội thường đảm nhận các công việc kiểu này để kiếm chút tiền tiêu vặt. Xét trên mọi phương diện thì chuyện làm ăn của họ khá khẩm lắm, thậm chí một số người còn thích cậy nhờ họ hơn là thuê mạo hiểm giả.
+Mọi chuyện vốn là vậy. Thực ra, người của giáo hội thường nhận làm mấy việc này để kiếm chút tiền tiêu vặt. Tính ra thì việc làm ăn của họ khá khẩm lắm, thậm chí có người còn thích nhờ họ hơn là thuê mạo hiểm giả.
 
-Dù nói vậy, những người này cũng chẳng hẳn là tư tế hay Thánh Nữ gì cho cam. Họ có thể chỉ là những tín đồ mang theo một bình Nước Thánh, bởi chừng đó thôi cũng đã đủ để trừ khử những bóng ma cấp thấp, vong linh và các sinh thể tương tự rồi.
+Dù nói vậy, những người này cũng đâu hẳn là tư tế hay Thánh Nữ gì cho cam. Họ có khi chỉ là tín đồ mang theo một lọ Nước Thánh, bởi chừng đó thôi cũng đủ trừ khử lũ ma cấp thấp, vong linh hay mấy thứ tương tự rồi.
 
-Lorraine hoàn toàn có thể giải quyết vấn đề theo cách tương tự, thế nhưng cô lại chọn tìm đến tôi. Dù chẳng rõ lý do của cô là gì, nhưng đây cũng không phải là một yêu cầu vô lý.
+Lorraine hoàn toàn có thể giải quyết theo cách đó, nhưng cô lại chọn tìm đến tôi. Dù chẳng rõ lý do của cô là gì, nhưng việc này cũng đâu có gì vô lý.
 
-Tôi gật đầu với Lorraine trước khi gặng hỏi về điểm đến tiếp theo của chúng tôi.
-
-◆◇◆◇◆
-
-"Là chỗ này sao...?"
-
-"Phải rồi. Vẻ mặt đó của anh là sao thế? Ngạc nhiên à?" Lorraine vừa quay sang hỏi tôi vừa nghiêng đầu nhìn.
-
-Tôi lại nhìn ngắm nơi này thêm một lần nữa, nơi mà bóng ma kia được cho là đã xuất hiện.
-
-"Chỉ là vì đây là cả một tòa dinh thự nguy nga thế này cơ mà, Lorraine. Chẳng lẽ những người ở đây lại không có đủ tiền để thuê lấy một, hai vị tư tế sao?"
-
-"Chắc là vậy rồi."
-
-Đó là một dinh thự rộng lớn. Lẽ dĩ nhiên là chưa thể sánh bằng tầm cỡ của gia tộc Latuule, thế nhưng nó chắc chắn bề thế hơn nhiều so với, chẳng hạn như nơi ở của Lorraine.
-
-Mặc dù vậy, căn nhà của Lorraine có kích thước như thế là do sở thích của cô, bởi cô vốn không phải mẫu người thích những thứ xa hoa thừa mứa. Nếu thực lòng muốn tậu một tòa dinh thự, điều đó hoàn toàn nằm trong khả năng của cô. Tôi thậm chí còn chẳng nhớ nổi có lần nào tài chính của Lorraine từng lâm vào cảnh túng quẫn hay chưa.
-
-"Dù vậy, họ cũng có những... uẩn khúc riêng ràng buộc. Chúng ta nên vào thôi, Rentt."
-
-Lorraine tiến lên phía trước, và sau vài câu trao đổi ngắn với người lính gác, chúng tôi được mời bước qua cánh cửa đang rộng mở của tòa dinh thự.
+Tôi gật đầu với Lorraine rồi hỏi xem điểm đến tiếp theo là ở đâu.
 
 ◆◇◆◇◆
 
-"Ôi cảm ơn, cảm ơn hai vị rất nhiều vì đã tới... Ô? Còn đây có thể là vị nào vậy...?"
+"Chỗ này đấy à...?"
 
-"À, vâng. Đây là mạo hiểm giả sẽ thực hiện việc thanh tẩy."
+"Ừ. Mặt anh làm sao thế kia? Ngạc nhiên à?" Lorraine quay sang tôi hỏi.
 
-Nữ thân chủ, có vẻ đã bị thuyết phục trước lời giải thích của Lorraine, liền bước một bước về phía tôi. Nhìn qua cử chỉ của bà, dường như bà đang muốn... một cái bắt tay. Thân chủ trông như một quý phu nhân đặc biệt giàu sang phú quý, và thực tế quả đúng là như vậy.
+Tôi nhìn lại nơi này thêm lần nữa, địa điểm con ma kia được cho là đã xuất hiện.
 
-"Ôi, xin ngài, xin ngài hãy rủ lòng thương! Tôi tha thiết van nài ngài! Xin hãy để linh hồn của Sweetpea bé bỏng nhà tôi được yên nghỉ, để bé nó có thể bay lên chốn thiên đàng!"
+"Chẳng qua là vì cái dinh thự này to quá thôi, Lorraine. Người ở đây chẳng lẽ không đủ tiền thuê lấy một, hai vị tư tế à?"
+
+"Chắc thế."
+
+Đó là một dinh thự rộng lớn. Dĩ nhiên chẳng thể sánh được với Gia tộc Latuule, nhưng chắc chắn bề thế hơn hẳn chỗ ở của Lorraine.
+
+Có điều, nhà Lorraine có kích thước như thế chỉ là do sở thích của cô, vì cô vốn không phải kiểu người thích xa hoa thừa mứa. Nếu thực sự muốn mua một tòa dinh thự, cô thừa sức làm được. Tôi thậm chí còn chưa từng thấy tài chính của Lorraine lâm vào cảnh túng quẫn bao giờ.
+
+"Dù vậy, họ cũng có những... uẩn khúc riêng khó nói. Mình vào thôi, Rentt."
+
+Lorraine bước tới, sau vài câu trao đổi ngắn với người lính gác, chúng tôi được mời bước qua cánh cửa mở rộng của tòa dinh thự.
+
+◆◇◆◇◆
+
+"Ôi cảm ơn, cảm ơn hai vị rất nhiều vì đã tới... Ô? Còn vị này là ai vậy...?"
+
+"À vâng. Đây là mạo hiểm giả sẽ làm lễ thanh tẩy."
+
+Nữ thân chủ dường như đã thấy thuyết phục trước lời giải thích của Lorraine, liền bước một bước về phía tôi. Nhìn cử chỉ của bà, có vẻ bà đang muốn... bắt tay. Trông bà đúng chuẩn một quý phu nhân vô cùng giàu có, mà thực tế cũng đúng là như thế.
+
+"Ôi xin ngài, xin ngài hãy giúp tôi! Tôi tha thiết cầu xin ngài đấy! Xin hãy để linh hồn Sweetpea bé bỏng của tôi được yên nghỉ, để nó có thể siêu thoát lên chốn thiên đàng!"
 
 "Sweetpea...?"
 
-Lorraine quay sang tôi. "Là một con quái vật đấy, Rentt. Một con quái vật được Phu nhân Emilstead đây đối đãi như người thân trong gia đình... Một phân loài biến dị của Puchi Suri..."
+Lorraine quay sang tôi bảo: "Là một con quái vật đấy, Rentt. Phu nhân Emilstead đây đối đãi với nó như người thân trong nhà... Một biến thể của Puchi Suri..."
 
-Ý nghĩa của từ "biến dị" trong trường hợp này ám chỉ mức độ hung dữ đã giảm bớt, hoặc có lẽ là sở hữu vẻ ngoài dễ thương, được tối ưu hóa để thu hút loài người.
+Từ "biến thể" ở đây có nghĩa là tính hung hăng đã giảm bớt, hoặc sở hữu vẻ ngoài dễ thương rất hợp ý con người.
 
-Ra là thế. Giờ thì tôi đã hiểu.
+Ra là thế. Giờ thì tôi hiểu rồi.
 
-Tôi đoán các tư tế và những người tương tự sẽ thấy ủy thác này khó xử, bởi hầu hết bóng ma xuất hiện trong thị trấn đều có nguồn gốc từ con người, vậy nên mục tiêu là đưa họ về cõi vĩnh hằng một cách thanh thản. Nếu không thành, họ sẽ bị đánh tan tác bằng vài ma pháp chuẩn xác.
+Tôi đoán các tư tế và những người như họ sẽ thấy ủy thác này khó xử, bởi hầu hết ma xuất hiện trong thị trấn vốn là người, nên mục tiêu là giúp họ siêu thoát trong yên bình. Bằng không thì họ cũng bị vài phát ma pháp chuẩn xác đánh cho tan tác.
 
-Trong trường hợp này, Phu nhân Emilstead hẳn sẽ cực kỳ bất mãn với cách thức xử lý ấy, bởi điều đó sẽ chỉ khiến linh hồn con quái vật phải chịu đau đớn.
+Còn trong trường hợp này, Phu nhân Emilstead hẳn sẽ cực kỳ bất mãn với cách xử lý đó, vì nó chỉ làm linh hồn con quái vật thêm đau đớn.
 
-Tôi đồ rằng đây chính là lý do tôi được gọi tới đây... vì cũng là một người nuôi chuột làm thú cưng.
+Có lẽ đây là lý do tôi được gọi tới... vì bản thân tôi cũng là một người nuôi chuột làm thú cưng.
 
-Tôi thấu hiểu nỗi lòng của phu nhân sâu sắc. Đó là lý do tôi quay sang bà và cất lời, hai tay nắm lấy tay bà.
+Tôi rất hiểu nỗi lòng của phu nhân. Vì thế tôi quay sang nắm lấy tay bà, bảo:
 
-"Xin phu nhân cứ giao việc này cho tôi... Tôi sẽ dốc hết sức mình để linh hồn Sweetpea được thanh thản."
+"Phu nhân cứ để việc này cho tôi... Tôi sẽ dốc hết sức để linh hồn Sweetpea được yên lòng."
 
-Nói đoạn, tôi làm đúng như những gì đã hứa, tiễn đưa linh hồn chú chuột về cõi thiên đàng. Phu nhân Emilstead siết chặt tay tôi thật mạnh, nước mắt lăn dài trên má, rồi ngỏ ý sẽ lại tìm đến dịch vụ của tôi nếu sau này có bất cứ việc gì cần đến. Xem chừng tôi vừa có được một mối khách hàng tuyệt vời.
+Nói là làm, tôi thực hiện đúng như lời hứa, tiễn linh hồn chú chuột về cõi thiên đàng. Phu nhân Emilstead siết chặt tay tôi, nước mắt ròng ròng trên má, rồi bảo sau này có việc gì nhất định sẽ lại tìm đến tôi. Xem ra tôi vừa kiếm được một mối khách sộp.
 
-Ngay sau đó, Lorraine liền mang ra trước mặt người phụ nữ vài chú chuột Puchi Suri, như một lời gợi ý bà nên nhận nuôi một bé khác để khỏa lấp khoảng trống trong lòng.
+Ngay sau đó, Lorraine liền đưa ra trước mặt phu nhân vài con Puchi Suri, ngỏ ý khuyên bà nên nhận nuôi một con khác để khỏa lấp khoảng trống trong lòng.
 
-Dù có người có thể cho rằng hành động của Lorraine là vô tâm thiếu tế nhị, nhưng phong thái và cách ăn nói của cô lại toát lên rằng Lorraine thực tâm quan tâm đến người phụ nữ đang đau buồn này. Về phần mình, Phu nhân Emilstead cảm kích khôn cùng, rồi cuối cùng đã chọn lấy một bé Puchi Suri trong số những con chuột mà Lorraine mang tới. Đoạn, bà quyết định đặt tên cho nó là... Sweetpea...
+Dù có người có thể cho rằng hành động của Lorraine là thiếu tế nhị, nhưng thái độ và lời lẽ của cô lại cho thấy cô thực lòng quan tâm đến người phụ nữ đang đau buồn này. Phu nhân Emilstead cảm kích vô cùng, cuối cùng đã chọn một con Puchi Suri trong số những con chuột Lorraine mang đến. Rồi bà quyết định đặt tên cho nó là... Sweetpea...
 
-Tôi cảm thấy chuyện này dường như có phần hơi đơn giản quá mức...
+Tôi thấy chuyện này dường như hơi đơn giản quá mức...
 
 ◆◇◆◇◆
 
-"Thế nào, Rentt. Với việc này thì việc thu thập thông tin từ dinh thự đó đã trở nên quá đỗi dễ dàng rồi," Lorraine lên tiếng sau khi chúng tôi đã bỏ lại tòa dinh thự phía sau.
+"Thế nào, Rentt. Nhờ vụ này mà việc lấy tin tức từ dinh thự đó trở nên dễ như trở bàn tay rồi nhé," Lorraine lên tiếng khi chúng tôi đã rời khỏi tòa dinh thự.
 
-"Ý cô là sao cơ?"
+"Ý cô là sao?"
 
-"Sao, anh không nhận ra à? Bé Sweetpea mới chính là một thuộc hạ của Edel đấy. Nói cách khác, nó sẽ là chú chuột nội gián của chúng ta. Edel vốn muốn thâm nhập vào tòa dinh thự đó, nên tôi mới ra tay giúp đỡ đôi chút. Anh thấy đấy, họ là một gia đình giàu sang phú quý, lại thường xuyên tiếp đãi khách khứa từ khắp bốn phương trời. Tình cờ là chúng ta lại có sẵn một cái cớ hoàn hảo... ít nhất là để thực hiện việc vừa rồi."
+"Sao, anh không nhận ra à? Con Sweetpea mới chính là thuộc hạ của Edel đấy. Nói cách khác, nó sẽ là nội gián của chúng ta. Edel vốn muốn thâm nhập vào dinh thự đó, nên tôi mới giúp một tay. Họ là gia đình giàu có mà, lại hay có khách khứa từ khắp nơi ghé thăm. Vừa hay lại có sẵn một cái cớ rất tốt... ít nhất là đủ để chúng ta làm chuyện vừa rồi."
 
-Chẳng lẽ Lorraine đang ám chỉ đến bóng ma kia...?
+Chẳng lẽ ý Lorraine là con ma kia...?
 
-"Cô thân thiết với Edel tới mức này từ bao giờ thế...?"
+"Cô thân với Edel tới mức này từ bao giờ thế...?"
 
-"Không, cũng không hẳn là như thế đâu. Sự thật đơn giản hơn một chút. Tòa dinh thự đó có một kết giới bao quanh, anh thấy đấy, được tạo ra bởi một loại ma cụ nào đó. Tôi tình cờ đi ngang qua và chứng kiến một con Puchi Suri liên tục lấy thân mình húc mạnh vào kết giới. Nhận thấy hành vi thú vị của nó, tôi đứng lại quan sát chú chuột một hồi, để rồi thấy Edel xuất hiện và bắt đầu ra chỉ thị cho nó. Tôi liền tiến lại gần và hỏi liệu nó có muốn đột nhập vào dinh thự không... vậy nên tôi mới đề nghị giúp đỡ, như tôi đã nói đấy."
+"Không, cũng không hẳn là như thế đâu. Sự thật đơn giản hơn thế nhiều. Dinh thự đó có kết giới bao quanh, do một loại ma cụ nào đó tạo ra. Tôi tình cờ đi ngang qua và thấy một con Puchi Suri liên tục lấy thân mình húc mạnh vào kết giới. Thấy hành vi của nó thú vị, tôi đứng quan sát một lúc, rồi thấy Edel xuất hiện và bắt đầu ra lệnh cho nó. Tôi bèn lại gần hỏi xem nó có muốn vào trong dinh thự không... rồi ngỏ ý giúp đỡ, như tôi đã nói đấy."
 
-"Cái gì, giờ cô thậm chí còn hiểu được cả tiếng nó nữa cơ à?"
+"Gì cơ, giờ cô hiểu được cả nó nói gì nữa à?"
 
-"Vài từ thôi, phải. Dù không hiểu tường tận chi tiết, nhưng đó là một cuộc thí nghiệm mà tôi rất sẵn lòng tham gia. Tuy nhiên hơi khó một chút, bởi Edel lúc nào cũng bận trăm công nghìn việc. Dù sao đi nữa, để cho người bạn nhỏ của anh nợ tôi một ân huệ cũng là điều tốt, phòng khi chúng ta cần đến nó trong tương lai."
+"Vài từ thôi. Dù không hiểu chi tiết lắm, nhưng đấy là một cuộc thí nghiệm tôi rất sẵn lòng tham gia. Cơ mà hơi khó, vì Edel lúc nào cũng bận tối mắt tối mũi. Dù sao thì để bạn của anh nợ tôi một ân huệ cũng tốt, phòng khi sau này chúng ta cần nhờ đến nó."
 
-Hóa ra mọi chuyện bấy lâu nay đều diễn ra như thế này ư...? Nghĩ mà xem, mỗi ngày trôi qua Edel còn làm việc chăm chỉ, cần mẫn hơn cả tôi nữa...
+Hóa ra bấy lâu nay mọi chuyện là như thế ư...? Ai mà ngờ ngày nào Edel cũng làm việc chăm chỉ hơn cả tôi cơ chứ...
 
-Trong thoáng chốc, tôi chẳng thể thốt nên lời...
+Suốt một hồi lâu, tôi cạn lời chẳng biết phải nói gì...
