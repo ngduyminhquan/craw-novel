@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T22:06:24Z",
+  "generatedAt": "2026-11-04T22:11:48Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2662,19 +2662,19 @@
           "number": 85,
           "title": "Chương 85: Ngoại truyện Tập 3 - Cuộc Đua",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_085.md",
-          "sha": "0368a2f75c4fa293dc77db357785c7c89d1874a9"
+          "sha": "cb327237a297e452074915f83e29ecc05cbe64eb"
         },
         {
           "number": 86,
           "title": "Chương 86: Ngoại truyện Tập 3 - Chuyện Hồn Ma Và Thú Cưng",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_086.md",
-          "sha": "33d7c9db2ba11d5d46c1d1212b431100a53048fe"
+          "sha": "40e22a86ac91979405cf8f20a29850d0ce8cfeb1"
         },
         {
           "number": 87,
           "title": "Chương 87: Ngoại truyện Tập 3 - Rentt, Người Làm Việc Nhà",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_087.md",
-          "sha": "9bc2c26ad5ee8d0e502c8d48022f3758c999efe6"
+          "sha": "d186d5438e49ea3290d5c826beb0028a3837c78e"
         },
         {
           "number": 88,
