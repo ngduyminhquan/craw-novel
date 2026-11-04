@@ -36,15 +36,15 @@ Chớp mắt sau, người đàn ông bị luồng sáng chói lòa nuốt chử
 
 Lòng tôi lập tức dấy lên nỗi hối hận khôn nguôi. Đáng lẽ tôi nên bước lên trận pháp trước ông ta, hoặc chí ít cũng phải cảnh báo về sự hiện diện của nó. Khổ nỗi, giờ có tiếc cũng chẳng kịp nữa.
 
-Lúc này điều tôi cần nghĩ là bước tiếp theo—
+Thay vì thế, tôi nên nghĩ xem bước tiếp theo phải làm gì—
 
 Giờ mình phải làm gì đây?
 
 Dù sao trong cái rủi vẫn có cái may. Nhìn người đàn ông biến mất, tôi hiểu rằng ma pháp trận này quả thực dùng để dịch chuyển. Ông ta hẳn vẫn bình an vô sự, chỉ là bị đưa tới một góc khác trong mê cung mà thôi.
 
-Ma pháp trận dịch chuyển—những trận pháp được tạo ra nhằm phục vụ việc đi lại trong mê cung. Đây quả thực là một dạng ma pháp vô cùng đặc biệt. Chẳng hạn, trong những mê cung rộng lớn tới hàng chục tầng, việc bắt gặp chúng ở tầng năm hay tầng mười là chuyện không hiếm. Đáng tiếc thay, con người chẳng tài nào tự tay tạo ra những ma pháp trận như thế.
+Ma pháp trận dịch chuyển là những trận pháp được tạo ra nhằm phục vụ việc đi lại trong mê cung. Đây quả thực là một dạng ma pháp vô cùng đặc biệt. Chẳng hạn, trong những mê cung rộng lớn tới hàng chục tầng, bắt gặp chúng ở tầng năm hay tầng mười là chuyện không hiếm. Đáng tiếc thay, con người chẳng tài nào tự tay tạo ra những ma pháp trận như thế.
 
-Giới học giả từng nhiều lần thử tái tạo những ma pháp trận tương tự nhưng chẳng đem lại kết quả gì đáng kể: trận pháp dựng lên hoàn toàn không chịu hoạt động. Các nghiên cứu chỉ ra rằng kết cấu và văn tự trên đó khác một trời một vực so với thứ con người vẫn dùng, nên gần như không thể khai thác được thông tin hữu ích nào. Bao nhiêu học giả từng thử sức sao chép loại ma pháp trận này, nhưng đến nay vẫn chưa ai thành công, xưa nay thực tế vốn là vậy.
+Giới học giả từng nhiều lần thử tái tạo những ma pháp trận tương tự nhưng chẳng đem lại kết quả gì đáng kể: trận pháp dựng lên hoàn toàn không chịu hoạt động. Các nghiên cứu chỉ ra rằng kết cấu và văn tự trên đó khác một trời một vực so với thứ con người vẫn dùng, nên gần như không thể khai thác được thông tin hữu ích nào. Bao nhiêu học giả từng thử sức sao chép loại ma pháp trận này, nhưng đến nay vẫn chưa ai thành công, thực tế đến giờ vẫn là như vậy.
 
 Nói cách khác, ma pháp trận kiểu này là nét đặc thù chỉ mê cung mới có. Tôi đâu phải chuyên gia nghiên cứu ma thuật, làm sao biết được nó sẽ dịch chuyển mình tới phương trời nào.
 
@@ -52,7 +52,7 @@ Tôi chỉ còn đúng một lựa chọn: bước vào ma pháp trận xem nó 
 
 Thật ra ban đầu tôi có hai hướng lựa chọn: hoặc lần theo người đàn ông, hoặc bỏ cuộc quay về Maalt. Nếu xét theo lẽ cẩn trọng, từ bỏ rồi quay về thị trấn là phương án hợp lý hơn cả. Bởi nếu ma pháp trận đưa tôi tới một xó xỉnh xa xôi nào đó mà không có đường về, tình thế sẽ nguy to.
 
-—Thế nhưng tôi không thể bỏ mặc ông ta vào chỗ chết.
+Thế nhưng tôi không thể cứ thế bỏ mặc ông ta chết được.
 
 Lỗi trước hết là do tôi không cảnh báo ông ta rằng ở đó có ma pháp trận; dẫu ông ta không thấy, tôi vẫn nhìn ra rành rành. Bỏ mặc ông ta tự sinh tự diệt lúc này sẽ khiến tôi áy náy khôn nguôi. Vả lại, chưa chắc sang bên kia ma pháp trận là đã hết đường quay về.
 
@@ -64,7 +64,7 @@ Thật hão huyền nếu mong ông ta biết cách ma pháp trận vận hành,
 
 Dù sao thì tôi cũng phải dứt khoát. Cứ nghĩ đến chuyện mình bỏ mặc người ta chết rũ nơi đáy sâu mê cung, đêm về tôi làm sao chợp mắt cho nổi.
 
-Chầm chậm tiến lại gần ma pháp trận, tôi chăm chú nhìn những đường nét đang khẽ lập lòe tỏa sáng một thoáng, rồi dứt khoát bước chân vào trong. Đúng như dự đoán, luồng ánh sáng chói lọi bốc lên từ sâu trong trận pháp, bao trùm khắp người làm tôi lóa mắt không thấy gì. Hẳn là tôi sắp bị cuốn bay tới một nơi lạ hoắc nào đó—đó vốn là ấn tượng chung của tôi về ma pháp trận dịch chuyển.
+Tôi chầm chậm tiến lại gần ma pháp trận, chăm chú nhìn những đường nét đang khẽ lập lòe sáng một lát rồi dứt khoát bước vào trong. Đúng như dự đoán, một luồng sáng chói lọi bốc lên từ sâu trong trận pháp, bao trùm khắp người làm tôi lóa mắt không thấy gì nữa. Hẳn là giờ tôi sẽ bị đưa tới một nơi xa lạ nào đó, chí ít thì hình dung của tôi về các ma pháp trận vẫn luôn là vậy.
 
 Dù tự nguyện bước vào trận pháp, tôi vẫn không khỏi có đôi chút bất an. Nhưng một khi đã đứng bên trong, tôi không còn đường lùi nữa. Nếu cố bước ra ngoài lúc trận pháp đang kích hoạt, điều tồi tệ nào đó rất dễ xảy ra, mà tôi thì chẳng dại gì thử xem thân thể mình có bị xé làm đôi hay không. Bởi vậy, tôi chỉ còn biết thầm mong trận pháp sẽ thả mình xuống một nơi an toàn—
 
@@ -86,11 +86,11 @@ Dù đứng cách một quãng khá xa, tôi vẫn đoán được ông ta vừa
 
 Tôi phải cứu ông ta. Khổ nỗi, chắn giữa tôi và người đồng hành lại là một chướng ngại khổng lồ: chính con quái vật đó.
 
-Ít nhất là đối với tôi, cảnh tượng này tuy to lớn nhưng lại có phần quen thuộc. Một thứ quái thai tạo thành từ xương trắng, ngụ trong cõi thời gian bất động vĩnh hằng, mang sinh mệnh trường tồn ngạo nghễ thách thức mọi thiên luật của thế gian—
+Bóng hình đồ sộ ấy lại có phần quen thuộc, ít nhất là với tôi. Một tạo vật dị hợm làm từ xương trắng, mắc kẹt trong khoảng thời gian ngưng đọng vĩnh hằng, mang sinh mệnh bất tử trơ trẽn thách thức quy luật của tạo hóa—
 
 Đó không gì khác ngoài một con Khô Lâu. Chính xác hơn, đó là Khô Lâu Khổng Lồ, sở hữu sức mạnh vượt xa đám đồng loại bé nhỏ. Tiếng cười lách cách vang lên đầy đe dọa khắp căn phòng, hòa cùng những chấn động rung chuyển mặt đất theo từng bước chân nó sải tới. Mỗi bước nó đi đều khiến đất đá rung bần bật, thật khó tin nổi cơ thể nó chỉ toàn là xương khô.
 
-Gặp phải thứ này trong mê cung, người bình thường chắc chắn sẽ co giò bỏ chạy. Khô Lâu Khổng Lồ không đơn thuần chỉ là phiên bản phóng to của Khô Lâu bình thường. Dẫu cấu thành từ xương, nó từng hấp thu sức mạnh của Cự Nhân vào một thời điểm nào đó trong đời, nên mạnh gấp ít nhất hai đến ba lần đám đồng loại thông thường. Tệ hơn nữa, sức mạnh thể chất của nó cũng tăng lên tương ứng; chỉ một cú vung tay chắc chắn cũng đủ hất văng bất kỳ ai.
+Gặp phải thứ này trong mê cung, người bình thường chắc chắn sẽ co giò bỏ chạy. Khô Lâu Khổng Lồ không đơn thuần chỉ là phiên bản phóng to của Khô Lâu bình thường. Dẫu chỉ là xương khô, nó từng hấp thu sức mạnh của Cự Nhân vào một lúc nào đó, nên mạnh gấp ít nhất đôi ba lần đám đồng loại thông thường. Đã thế, sức mạnh cơ bắp của nó cũng tăng vọt tương ứng với vóc dáng đồ sộ; chỉ cần trúng một đòn của nó thôi cũng đủ bị hất văng đi.
 
 Mình sẽ phải giao chiến với... thứ đó sao?
 
@@ -108,19 +108,19 @@ Có điều, những căn phòng tự phong tỏa lại thuộc về một đẳ
 
 Nói ngắn gọn, loại phòng thủ lĩnh tự phong tỏa này là một trong những thử thách khốc liệt nhất đối với bất kỳ mạo hiểm giả nào. Phải là người vượt trội hơn hẳn đám đồng trang lứa, từ lính mới, tay lão luyện cho tới cao thủ dạn dày, lại từng kinh qua ít nhất bốn mươi tầng mê cung thì may ra mới có cửa sống sót trong những căn phòng thế này.
 
-Thế mà lúc này, tôi lại đang đứng trơ trọi giữa một căn phòng như vậy—chẳng còn cách nào khác, tôi đành phải làm điều cần làm mà thôi.
+Thế mà lúc này, tôi lại đang đứng trơ trọi giữa một căn phòng như vậy. Chẳng còn cách nào khác, tôi đành phải làm điều cần làm mà thôi.
 
 Tôi xốc lại tinh thần, rút kiếm rồi chầm chậm tiến về phía con Khô Lâu Khổng Lồ. May mắn dường như đứng về phía tôi, khi sự xuất hiện của tôi đã kéo sự chú ý của con Khô Lâu rời khỏi con mồi trước đó. Người đàn ông khốn khổ kia đã ngất lịm, không còn khiến con Khô Lâu bận tâm nữa. Tôi phải kết thúc nhanh trận này rồi quay sang băng bó vết thương cho ông ta—
 
-Nghĩ vậy, tôi dậm mạnh chân xuống đất, lao vụt về phía con quái vật khổng lồ. Bộc phát tốc độ mà thuở còn sống khó lòng với tới, tôi phóng vút lên trước, áp sát ngay dưới chân con Khô Lâu Khổng Lồ. Vung kiếm lên, tôi dứt khoát giáng mạnh lưỡi kiếm xuống người nó không chút chần chừ.
+Nghĩ vậy, tôi dậm mạnh chân xuống đất, lao vụt về phía con quái vật khổng lồ với tốc độ bộc phát mà thuở còn sống khó lòng đạt tới. Chỉ trong chớp mắt, tôi đã áp sát ngay dưới chân con Khô Lâu Khổng Lồ, vung kiếm chém thẳng xuống người nó không chút chần chừ.
 
 Thế nhưng—
 
 Cốp!
 
-Kèm theo một tiếng rít chói tai, lưỡi kiếm nảy ngược trở ra, hầu như không để lại nổi một vết xước trên thân con quái vật. Ngay tức thì, đôi bàn tay hộ pháp của con Khô Lâu vung mạnh xuống theo một đường vòng cung đầy sát khí.
+Kèm theo một tiếng rít chói tai, lưỡi kiếm nảy ngược trở ra, hầu như không để lại nổi một vết xước trên thân con quái vật. Ngay tức thì, đôi bàn tay khổng lồ của con Khô Lâu vung mạnh xuống theo một đường vòng cung đầy sát khí.
 
-Kinh hãi, tôi lập tức lùi phắt lại né đòn phản công, đồng thời không quên túm lấy người bạn đồng hành đang ngã gục để kéo ông ta ra xa khỏi con Khô Lâu. Tôi chẳng thể để mặc ông ta ở đó cho tới khi trận chiến ngã ngũ; lỡ bị dẫm trúng một cái thì coi như xong đời.
+Tôi giật mình lùi phắt lại né đòn phản công, đồng thời không quên túm lấy người bạn đồng hành đang nằm gục kéo ra xa khỏi con Khô Lâu. Tôi chẳng thể để mặc ông ta ở đó cho tới khi trận chiến ngã ngũ; lỡ bị giẫm trúng một cái thì coi như xong đời.
 
 Dù vậy, tình thế không hẳn là bế tắc hoàn toàn: con Khô Lâu Khổng Lồ tuy vượt trội về sức tàn phá, nhưng tốc độ lại kém xa tôi. Dù chưa biết nhiều về thực lực của nó do đây là lần đầu chạm trán, tôi vẫn nhen nhóm một tia hy vọng.
 
@@ -132,7 +132,7 @@ Nhát chém vừa rồi tôi đã dồn vào lượng lớn Khí Lực, tương 
 
 Bình thường thì đến đây coi như xong. Dù có nhanh hơn đối phương đôi chút, nhưng bước vào một cuộc chiến tiêu hao mà không tài nào gây thương tổn cho địch thì cầm chắc phần thua. Chừng nào chưa mảy may làm xước nổi một góc xương nó, thì một khi tôi kiệt sức, chỉ một đòn của nó thôi là đủ đặt dấu chấm hết.
 
-Quái vật trong mê cung là những tồn tại kỳ lạ, nếu không muốn nói là đầy bí ẩn. Có một sự thật ai cũng biết: quái vật trong phòng thủ lĩnh không bao giờ biết mệt. Người ta đưa ra nhiều cách giải thích cho hiện tượng này: có người bảo chúng hút năng lượng trực tiếp từ mê cung, kẻ lại cho rằng trong người chúng có nguồn sức mạnh vô tận. Dù chẳng rõ giả thuyết nào đúng, nhưng kinh nghiệm xương máu của bao thế hệ mạo hiểm giả đã khẳng định chắc nịch điều ấy. Vì thế, chờ quái vật trong phòng thủ lĩnh kiệt sức là toan tính vô ích. Đó là lý do sức tấn công là điều bắt buộc: nếu không thể phá vỡ lớp phòng ngự của quái vật, mạo hiểm giả chỉ có con đường chôn thây trong mê cung.
+Quái vật trong mê cung vốn là những sinh vật kỳ lạ, thậm chí đầy bí ẩn. Có một sự thật ai cũng biết: quái vật trong phòng thủ lĩnh không bao giờ biết mệt. Người ta đưa ra nhiều cách giải thích cho hiện tượng này: có người bảo chúng hút năng lượng trực tiếp từ mê cung, kẻ lại cho rằng trong người chúng có nguồn sức mạnh vô tận. Dù chẳng rõ giả thuyết nào đúng, nhưng kinh nghiệm xương máu của bao thế hệ mạo hiểm giả đã khẳng định chắc nịch điều ấy. Vì thế, chờ quái vật trong phòng thủ lĩnh kiệt sức là toan tính vô ích. Bởi vậy, đòn đánh buộc phải đủ mạnh: nếu không thể xuyên thủng lớp phòng ngự của quái vật, mạo hiểm giả chỉ có nước bỏ mạng trong mê cung.
 
 Tính đến những điều ấy, tình thế hiện tại của tôi xem ra hoàn toàn tuyệt vọng. Thế nhưng, tôi lại khác những mạo hiểm giả thông thường: tôi vẫn còn một ngón nghề khác.
 
@@ -146,14 +146,14 @@ Mạo hiểm giả luôn chiến đấu và không bao giờ chịu bỏ cuộc 
 
 Quyết định xong xuôi, tôi dồn toàn bộ Thần Lực có thể gom góp được vào lưỡi kiếm. Quầng sáng vàng nhạt bao quanh lưỡi kiếm ban nãy chầm chậm thu lại, nhường chỗ cho ánh sáng trắng pha lam rực rỡ của hào quang thần thánh.
 
-Thấy màu sắc mới bao phủ thanh kiếm, con Khô Lâu Khổng Lồ lùi lại một bước, dường như khiếp hãi trước những gì vừa tận mắt thấy. Uy lực thanh tẩy thần thánh vốn là thiên địch của mọi Undead. Là một sinh linh đi ngược lại quy luật sinh tử của tự nhiên, con Khô Lâu sợ hãi trước luồng hào quang trên kiếm của tôi cũng chẳng có gì lạ.
+Thấy màu sắc mới bao phủ thanh kiếm, con Khô Lâu Khổng Lồ lùi lại một bước, dường như khiếp hãi trước cảnh tượng trước mắt. Uy lực thanh tẩy thần thánh vốn là thiên địch của mọi Undead. Là thứ tồn tại đi ngược lại quy luật sinh tử của tự nhiên, con Khô Lâu sợ hãi trước luồng hào quang trên kiếm của tôi cũng chẳng có gì lạ.
 
 Vì sao một Ngạ Quỷ như tôi lại chẳng hề hấn gì trước Thần Lực cuộn trào trong cơ thể vẫn là điều bí ẩn, nhưng chuyện tôi từng biến thành Khô Lâu cũng khó hiểu và bí ẩn không kém. Giờ có vắt óc nghĩ ngợi cũng chẳng ích gì, trước mắt tôi chỉ thấy may mắn khi mình nắm trong tay năng lực này.
 
-Lăm lăm thanh kiếm trong tay, tôi lao vút về phía con Khô Lâu, chân dậm thình thịch lên nền đá mê cung. Vận Khí Lực vào hai chân, tôi phóng người như tên bắn, rút ngắn khoảng cách xa vời vợi giữa mình và con Khô Lâu Khổng Lồ chỉ trong chớp mắt.
+Tôi thủ kiếm trong tay rồi lại lao vút về phía con Khô Lâu, chân dậm thình thịch lên nền đá mê cung. Dồn Khí Lực vào hai chân, tôi phóng người như tên bắn, rút ngắn khoảng cách khá xa giữa mình và con Khô Lâu Khổng Lồ chỉ trong chớp mắt.
 
-Con Khô Lâu cũng kịp đưa mắt dõi theo vị trí mới của tôi, song đã quá trễ. Vung kiếm qua đầu, tôi giáng một đòn sấm sét xuống khúc xương chân to bè như thân cây của nó.
+Con Khô Lâu cũng kịp đưa mắt dõi theo vị trí mới của tôi, song đã quá trễ. Tôi giương cao thanh kiếm qua đầu rồi chém mạnh xuống khúc xương chân to bè như thân cây của nó.
 
-Một nhát chém ngọt sớt: chạm phải lưỡi kiếm của tôi, xương con Khô Lâu dường như tan chảy ra rồi đứt lìa hoàn toàn khỏi thân thể. Mất một chân sau đòn chém, con Khô Lâu Khổng Lồ ngã ngửa ra sau, chẳng thể giữ nổi thăng bằng với một bên chân còn lại. Không bỏ lỡ cơ hội ngàn vàng, tôi lập tức chĩa kiếm lao thẳng về phía đầu con quái vật đang ngã sóng soài.
+Một nhát chém ngọt sớt: chạm phải lưỡi kiếm của tôi, xương con Khô Lâu dường như tan chảy ra rồi đứt lìa hoàn toàn khỏi thân thể. Mất một chân sau đòn chém, con Khô Lâu Khổng Lồ ngã ngửa ra sau, chẳng thể giữ nổi thăng bằng với một bên chân còn lại. Không bỏ lỡ thời cơ, tôi lập tức xốc lại thanh kiếm rồi lao thẳng về phía đầu con quái vật đang ngã sóng soài.
 
-Siết chặt chuôi kiếm, tôi vung thêm một nhát dứt khoát, giáng thẳng lưỡi kiếm mang phước lành xuống chiếc đầu lâu xương xẩu của con quái vật. Kèm theo một tiếng rắc giòn đanh, lưỡi kiếm chém ngọt và thanh tẩy khối xương uế tạp, đập nát vụn hoàn toàn hộp sọ của nó.
+Tôi siết chặt chuôi kiếm, vung thêm một nhát dứt khoát, bổ thẳng lưỡi kiếm thấm đẫm Thần Lực xuống chiếc đầu lâu xương xẩu của con quái vật. Kèm theo một tiếng rắc giòn đanh, lưỡi kiếm vừa chém xuyên qua vừa thanh tẩy khối xương uế tạp, đập nát vụn hoàn toàn hộp sọ của nó.
