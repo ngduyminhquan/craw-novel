@@ -18,7 +18,7 @@
 
 "Được vây quanh bởi những bạn bè đồng trang lứa, tất cả cùng dốc hết sức mình vào việc học tập? Cùng nhau cạnh tranh lành mạnh kiểu đó nghe cũng hay đấy chứ."
 
-Hồi còn theo học thợ săn và dược sư ở làng quê tôi, phần lớn thời gian chỉ có mỗi mình tôi, hoặc thi thoảng có thêm một vài đứa trẻ khác. Thế nhưng, con nít theo học tại các trường lớp ở thành phố lớn lại đông đảo vô cùng. Những cuộc ganh đua nảy sinh ở những nơi như thế nghe chừng cũng thú vị.
+Hồi còn theo học thợ săn và dược sư ở làng quê tôi, chủ yếu chỉ có mỗi mình tôi, hoặc thi thoảng có thêm một vài đứa trẻ khác. Thế nhưng, con nít theo học tại các trường lớp ở thành phố lớn lại đông đảo vô cùng. Những cuộc ganh đua nảy sinh ở những nơi như thế nghe chừng cũng thú vị.
 
 Thế nhưng, Lorraine lại để lộ một vẻ mặt khó dò. "Nghe... quả thực tràn đầy lý tưởng đấy," cô nói.
 

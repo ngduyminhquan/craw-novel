@@ -272,9 +272,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | reviewed |  |
 | 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | reviewed |  |
 | 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | reviewed |  |
-| 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | done |  |
-| 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | done |  |
-| 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | done |  |
+| 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | reviewed |  |
+| 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | reviewed |  |
+| 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | reviewed |  |
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | todo |  |
 | 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | todo |  |
 | 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | todo |  |

@@ -4,7 +4,7 @@
 
 Một ngày nọ, hồi Augurey vẫn còn ở Maalt, anh ấy đến rủ tôi cùng làm một ủy thác—chuyện đó vốn dĩ chẳng có gì hiếm hoi. Dẫu không phải ngày nào cũng diễn ra, nhưng chúng tôi đủ thân thiết để có thể bắt tay hợp tác mỗi khi có hứng.
 
-Tôi vốn nổi danh là kẻ chuyên hành động đơn độc, nên hiếm khi có ai rủ tôi làm ủy thác chung, và thi thoảng tôi lại thấy chạnh lòng vì điều đó. Vào những lúc như vậy, tôi rất biết ơn những người như Augurey, những kẻ luôn ghé qua rủ rê mà chẳng chút e dè. Dù vậy...
+Tôi vốn nổi danh là kẻ chuyên hành động đơn độc, nên hiếm khi có ai rủ tôi làm ủy thác chung, và thi thoảng tôi lại thấy chạnh lòng vì điều đó. Vào những lúc như vậy, tôi rất biết ơn những người như Augurey, những người luôn ghé qua rủ rê mà chẳng chút e dè. Dù vậy...
 
 "Ủy thác hộ tống sao?" tôi hỏi. "Còn phải xem thân chủ là ai đã."
 
@@ -40,7 +40,7 @@ Tôi không bỏ lỡ việc ánh mắt của Augurey bắt đầu đảo qua đ
 
 "Thôi nào, sẽ ổn cả thôi mà. Chắc thế. Với lại thù lao hậu hĩnh lắm đấy."
 
-"Thù lao hậu hĩnh chỉ càng làm tôi nghi ngờ thêm thôi." Tôi thở dài. "Nhưng chúng ta đã nhận việc rồi, giờ chẳng còn đường lui nữa. Xem ra dù có chuyện gì thì tôi cũng đành ngậm bồ hòn làm ngọt vậy."
+"Thù lao hậu hĩnh chỉ càng làm tôi nghi ngờ thêm thôi." Tôi thở dài. "Nhưng chúng ta đã nhận việc rồi, giờ chẳng còn đường lui nữa. Xem ra dù có chuyện gì thì tôi cũng đành cắn răng chịu đựng vậy."
 
 "Đó mới đúng là Rentt mà tôi biết chứ." Augurey quay sang đối mặt với cậu bé đang bước lại gần chúng tôi. "Này! Đằng này! Nhóc là, ừm..."
 
@@ -90,7 +90,7 @@ Hắn bị một tia sét giáng thẳng xuống người.
 
 Bầu trời nãy giờ vốn trong xanh suốt cả ngày, giờ đây đã phủ kín những đám mây dông. Sấm sét liên tục giáng xuống xung quanh chúng tôi, nhưng điều kỳ lạ nhất là nó dường như né tránh khu vực quanh cỗ xe. Tôi chạy lại chỗ Augurey.
 
-"Chuyện gì đang xảy ra thế này?!" tôi hỏi. "Đây là điều anh giấu giếm bấy lâu nay sao?!"
+"Chuyện gì đang xảy ra thế này?!" tôi hỏi. "Đây là điều anh giấu tôi đấy à?!"
 
 "Chuyện là..." Augurey ngập ngừng. "Được rồi, đúng thế. Cậu thấy đấy, Vitez có một dị năng hơi kỳ lạ. Thằng bé sẽ triệu hồi giông bão mỗi khi bị kích động."
 

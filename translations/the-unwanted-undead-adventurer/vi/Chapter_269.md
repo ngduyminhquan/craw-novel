@@ -4,7 +4,7 @@
 
 Một ngày nọ, khi đang rảo bước về thị trấn sau khi hoàn thành một ủy thác, tôi nghe thấy tiếng một con thú rên ư ử.
 
-Thông thường, tôi sẽ chẳng bận tâm làm gì. Bởi âm thanh ấy phát ra từ sâu trong rừng, nhiều khả năng đó là tiếng một con quái vật non đang cất tiếng gọi cha mẹ. Nếu tôi bất cẩn tiến lại gần, con quái vật phụ huynh kia có thể lao bổ ra bất cứ lúc nào, đẩy tôi vào một mớ rắc rối to đùng.
+Thông thường, tôi sẽ chẳng bận tâm làm gì. Bởi âm thanh ấy phát ra từ sâu trong rừng, nhiều khả năng đó là tiếng một con quái vật non đang cất tiếng gọi cha mẹ. Nếu tôi bất cẩn tiến lại gần, con quái vật bố mẹ kia có thể lao bổ ra bất cứ lúc nào, đẩy tôi vào một mớ rắc rối to đùng.
 
 Dĩ nhiên tôi chỉ việc chém hạ bất cứ thứ gì lao tới, nhưng nghĩ đến chuyện đó lại khiến tôi thấy lấn cấn trong lòng. Ngay cả quái vật cũng có con cái. Tôi đâu cần thiết phải cố tình nhắm vào chúng để tàn sát. Chà, dẫu vậy trong trường hợp của những quái vật như Goblin và Orc, chúng về cơ bản là loài gây hại nên tôi chẳng mảy may cắn rứt lương tâm chút nào. Tuy nhiên, các loài quái vật họ sói cùng vài loài khác không phải lúc nào cũng tấn công con người. Tình cờ chạm trán thì chắc chắn sẽ xảy ra giao tranh, nhưng nếu không, chúng chỉ sống cuộc đời yên ả sâu trong những cánh rừng. Dù thi thoảng tôi vẫn ra ngoài săn chúng để lấy bộ lông. Cảm xúc của con người đúng là phức tạp như thế đấy—dẫu rằng tôi đâu còn là con người nữa.
 
@@ -16,7 +16,7 @@ Hiện ra trước mắt tôi là một con quái vật trông như chó con—c
 
 "Không, có lẽ là do mình đã xen ngang..."
 
-Cảm nhận được một hiện diện ở đâu đó quanh mình, tôi rút kiếm ra. Con quái vật lao vút về phía tôi, nhanh như một cơn gió, và tôi xoay người đón đỡ đòn tấn công của nó. Khi nó đang lao tới trên không trung, tôi lách sang một bên rồi vung kiếm chém sượt qua người nó. Đến khi nó ngã rụi xuống đất, tôi mới nhận ra đó là một con quái vật thuộc họ mèo.
+Cảm nhận được một hiện diện ở đâu đó quanh mình, tôi rút kiếm ra. Con quái vật lao vút về phía tôi, nhanh như một cơn gió, và tôi xoay người đón đỡ đòn tấn công của nó. Khi nó đang lao tới trên không trung, tôi lách sang một bên rồi vung kiếm chém vào người nó khi nó lướt qua. Đến khi nó ngã rụi xuống đất, tôi mới nhận ra đó là một con quái vật thuộc họ mèo.
 
 Nó gầm gừ đe dọa tôi, nhưng nhát chém tôi giáng xuống đã là vết thương chí mạng.
 
