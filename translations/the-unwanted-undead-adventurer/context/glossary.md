@@ -16,6 +16,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 
 | EN | Alias | VI | Loại | Chương đầu | Ghi chú |
 |---|---|---|---|---|---|
+| Sound Barrier |  | Cách Âm Kết Giới | kỹ năng | 233 | Ma pháp tạo kết giới cách âm ngăn âm thanh lọt ra ngoài |
 | Existential Evolution |  | Tiến Hóa Bản Thể | hệ thống | 1 | Hiện tượng quái vật tiến hóa lên bậc cao hơn (存在進化) |
 | Iron-class | Iron | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
 | Bronze-class |  | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級) |

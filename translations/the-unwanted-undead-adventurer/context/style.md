@@ -46,3 +46,4 @@
 - (208) Ngoại truyện Tập 9: nửa đầu (đoạn 1–21) kể theo góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart khi quan sát Rentt thực hành Phân Liệt; sau dấu phân cách (từ đoạn 23) quay lại góc nhìn ngôi thứ nhất của Rentt Faina.
 - (217) Ngoại truyện Tập 9: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie về một ngày dạy học tình nguyện tại lớp học tư thục ở Maalt và giải cứu học trò khỏi quái vật Mimic dưới cống ngầm.
 - (225) Ngoại truyện Tập 10: kể theo góc nhìn ngôi thứ ba bám theo Rina và Alize khi tới dinh thự Gia tộc Latuule nhờ Isaac hướng dẫn luyện tập ma pháp.
+- (233) Nửa đầu và phần kết kể theo ngôi thứ nhất ("tôi") của Rentt Faina; hai phân đoạn giữa (sau các dấu phân cách) chuyển sang góc nhìn ngôi thứ ba bám theo Yattul / điệp viên "Goblin".

@@ -91,7 +91,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Frahe | Frahe / cậu bé / đứa trẻ | 218 | Thiếu gia nhỏ tuổi của gia tộc Muze |
 | Jean Seebeck | Jean Seebeck / Tổng Hội Trưởng Jean Seebeck / ông lão / ông | 221 | Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran |
 | Elza | Elza / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 222 | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas thuộc Giáo Hội Đông Thiên |
-| Yattul | Yattul / người đàn ông / người đánh xe | 232 | Người đánh xe kiêm thương nhân trung niên chở nhóm Rentt |
+| Yattul | Yattul / người đàn ông / người đánh xe / Goblin | 232 | Người đánh xe chở nhóm Rentt (thực chất là điệp viên Goblin, #233) |
 
 ## Giữa các nhân vật
 

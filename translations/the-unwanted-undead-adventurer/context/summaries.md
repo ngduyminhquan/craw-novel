@@ -1372,6 +1372,12 @@ Họ bán bớt số Ma Tinh thu hoạch được cho Yattul—người đánh x
 Sau khi tiếp tục hành trình, Yattul bỗng bị lạc dù đây là cung đường quen thuộc không có ngã rẽ; Lorraine nghi ngờ bác ta đã bị chuốc thuốc gây mất phương hướng khi nhóm rời xe diệt quái.
 Nhóm Rentt quyết định tạm thời giữ bình tĩnh không đánh động kẻ đứng sau, đồng ý cùng Yattul hạ trại qua đêm bên đường và mời bác ta dùng bữa tối tươm tất từ túi ma thuật của Rentt.
 
+## 233
+Rentt lén pha thuốc giải vào món hầm cho Yattul rồi thức trắng đêm canh gác (nhờ thể chất Undead không bao giờ ngủ) trong khi Lorraine, Augurey và Yattul ngả lưng nghỉ ngơi.
+Thân phận thực sự của Yattul lộ diện: gã là một điệp viên kiêm sát thủ mang mật danh "Goblin", bẩm sinh có năng lực như người thuần hóa quái vật chỉ huy được loài goblin/hobgoblin; vụ bầy Hobgoblin tấn công trước đó và cớ đi lạc đều do gã dàn dựng nhằm tìm cơ hội hạ độc thủ tiêu nhóm Rentt theo lệnh cấp trên.
+Kế hoạch hạ độc bằng thuốc ngủ cực mạnh vào nồi món hầm của Goblin thất bại hoàn toàn vì Rentt không hề chợp mắt suốt đêm; Goblin đành tạm hài lòng với suy đoán rằng việc thức đêm đã làm suy yếu thể lực của Rentt.
+Sáng hôm sau trên xe kéo, Rentt dùng Bản Đồ Akasha (vừa phát hiện thêm tính năng bản đồ thế giới) để theo dõi hành trình, đồng thời Lorraine giăng Cách Âm Kết Giới để cả ba bí mật bàn bạc và quyết định tương kế tựu kế tiếp tục giả vờ ngây ngô nhằm dụ đồng bọn của Goblin lộ diện.
+
 
 
 

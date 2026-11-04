@@ -237,7 +237,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | reviewed |  |
 | 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | reviewed |  |
 | 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | done |  |
-| 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | todo |  |
+| 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | done |  |
 | 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | todo |  |
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | todo |  |
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | todo |  |
@@ -870,3 +870,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#231] Dịch vật phẩm/nguyên liệu thực vật 'wyvern flax' (nguyên tác ワイバーン麻 - sợi lanh/cây lanh phi long) — tạm chọn 'lanh Phi Long' (phương án khác: 'cây lanh Phi Long', 'cỏ lanh Phi Long'). Tạm dùng trong bản dịch: 'lanh Phi Long'. → Giữ 'lanh Phi Long' đồng bộ với 'wyvern → Phi Long' trong glossary.md. (orchestrator)
 - [#227] viceroy (Duke Lukas Bader) → manager sửa: 'Phó Vương' (viceroy ≠ regent; bỏ 'Quan Nhiếp Chính') (orchestrator)
 - [#232] Xưng hô của Yattul với Rentt (raw: 'boss') - tạm chọn Yattul gọi Rentt là 'ông chủ' (phương án khác: 'đại ca'); Rentt gọi Yattul là 'bác'. → Giữ Yattul gọi Rentt là 'ông chủ', Rentt gọi Yattul là 'bác' (Yattul là người đánh xe kiêm thương nhân trung niên được nhóm Rentt thuê). (orchestrator)
+- [#233] Dịch ma pháp 'Sound Barrier' — tạm chọn 'Cách Âm Kết Giới' theo phong cách Hán Việt viết hoa cho tên kỹ năng/ma pháp (phương án khác: 'Kết Giới Cách Âm', 'Rào Chắn Âm Thanh'). Tạm dùng trong bản dịch: 'Cách Âm Kết Giới'. → Giữ 'Cách Âm Kết Giới' (Hán Việt viết hoa theo quy tắc tên ma pháp/kỹ năng trong rules.md). (orchestrator)
+- [#233] Dịch mật danh điệp viên 'the Goblin' của Yattul — tạm chọn 'Goblin' / 'mật danh "Goblin"' đồng bộ với quái vật Goblin trong glossary.md (phương án khác: 'Yêu Tinh', 'Gã Goblin'). Tạm dùng trong bản dịch: 'Goblin'. → Giữ 'Goblin' đồng bộ với tên chủng loài Goblin trong glossary.md (mật danh bắt nguồn từ khả năng sai khiến goblin từ nhỏ). (orchestrator)
