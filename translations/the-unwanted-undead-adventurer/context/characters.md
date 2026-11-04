@@ -754,6 +754,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
 - Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả). Từng là bạn bè quen biết Lillian từ thời trẻ tại Tu Viện Ephas; luôn cảm thấy áy náy vì Lillian phải rời đi do xung đột nội bộ Giáo Hội (#224).
 - Quá khứ & Tính cách (tính đến #264): Vốn là bạn thời thơ ấu cùng trang lứa với Lillian, từ nhỏ đã cùng nhau lớn lên trên các con phố ở vương đô trước khi cả hai cùng chọn con đường tu sĩ và trở thành Thánh Giả. Khá hoạt bát và có phần tinh quái khi sẵn sàng mặc thường phục, cắt đuôi các giáo sĩ trong tu viện lẻn ra ngoài bằng cửa phụ để làm người dẫn đường dạo phố mua sắm cho nhóm Rentt (#264).
+- Diễn biến & Năng lực (tính đến #272): Thần Lực của Elza có thể bao phủ cả một thị trấn trong một nghi lễ (thuộc hàng ngũ cao nhất); tiết lộ cô và Lillian nhận Thần Lực từ Pochi nhằm mục đích bảo vệ Mel; chủ động ngỏ lời nhờ Rentt tương trợ bảo vệ Mel, cô nhi viện và Giáo Hội Đông Thiên trước nguy cơ thế giới bước vào thời kỳ đại biến động (#272).
 - Xuất hiện từ: #222.
 
 ### Lukas Bader
@@ -839,6 +840,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, nữ tu (Sister Mel) tại cô nhi viện cũ ở vương đô nơi Elza và Lillian từng lớn lên (#265). Tên đầy đủ: Mel Patiche (#266).
 - Đặc điểm: Phong thái dịu dàng, điềm đạm, đoan trang thuần khiết; là người phụ trách Cô Nhi Viện Thứ Ba Vistelya, lớn lên cùng Lillian và Elza tại đây (#265, #266). Thích ăn đồ ngọt và hay lén ăn một mình rồi lo bị tăng cân (#266).
 - Trạng thái tính đến chương 266: Được Pochi truyền Thần Lực để có thể nghe hiểu tiếng nói qua thần giao cách cảm của nó; lập tức tra khảo Pochi vì dám mách lẻo chuyện cô lén ăn đồ ngọt.
+- Diễn biến & Tiềm năng (tính đến #272): Vốn là người mà Pochi định ban phước Thần Lực ngay từ đầu; sở hữu tiềm năng Thần Lực cực kỳ to lớn (ngang tầm bao phủ cả một tỉnh theo phỏng đoán của Elza) nhưng cần trải qua rèn luyện để kiểm soát (#272).
 - Xuất hiện từ: #265.
 
 ### Pochi

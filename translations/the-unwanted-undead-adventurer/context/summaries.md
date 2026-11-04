@@ -1609,3 +1609,10 @@ Rentt đang tản bộ sau bữa rượu ở Maalt thì bị một thầy bói b
 Sáng hôm sau, lời tiên đoán đầu tiên ứng nghiệm khi Rentt chỉ đúng chỗ cuốn sách cũ Lorraine đang tìm kiếm trong góc giá sách; Lorraine nhận định nếu luôn đoán đúng thì đó là năng lực thấu thị tương lai vượt xa ma pháp thông thường.
 Cả ngày hôm đó, "điềm gở" của Rentt hóa ra là những sự cố dở khóc dở cười (bị hắt nước 5 lần, suýt trúng chậu hoa rơi, va phải tên trộm chạy trốn); sau cơn mưa như trút nước, anh cứu một đứa trẻ rơi xuống kênh và đưa cậu bé về đoàn tụ với cha mẹ ở quảng trường đài phun nước đúng như dự báo.
 Cảnh kết thúc: Trở về nhà chia sẻ lại sự việc, Lorraine bật cười thích thú và khuyên Rentt không cần quá bận tâm vì Maalt vốn luôn tràn ngập những điều kỳ lạ, đồng thời mỉm cười hy vọng một ngày nào đó sẽ có dịp gặp mặt người thầy bói này.
+
+## 272
+Rentt thẳng thắn thừa nhận với Elza việc mình sở hữu Thần Lực nhờ được thần tinh linh ban phước khi tu sửa một ngôi đền bỏ hoang ở quê nhà; Elza chia sẻ nguồn gốc Thần Lực của cô và Lillian từ Pochi vốn nhằm mục đích bảo vệ Mel trước sự săn đón ráo riết của các tổ chức tôn giáo.
+Elza tiết lộ một tin tức đáng lo ngại: số lượng người sở hữu Thần Lực đang gia tăng bất thường trên khắp thế giới và những cá nhân xuất chúng gần đây có thể thi triển nghi lễ bao phủ cả một tỉnh (tương đương khí tài quân sự cấp chiến lược), báo hiệu thế giới sắp bước vào một thời kỳ đại biến động, đồng thời Thần Lực tiềm tàng của Mel cũng đạt đến tầm mức đó.
+Elza bày tỏ tâm nguyện bảo vệ Mel cùng cô nhi viện và ngỏ lời mời Rentt tương trợ giúp đỡ nếu thời kỳ biến loạn ấy thực sự xảy ra; Rentt nhận định đây là thông tin giá trị cho bản thân và để cảnh báo trước cho nhóm Laura, đồng thời đồng ý sẽ hỗ trợ nếu có thể thu xếp được thời gian.
+Cảnh kết thúc: Elza cúi đầu cảm kích trước lời nhận lời của Rentt, khẳng định sẽ làm tất cả những gì có thể vì sự an toàn của Mel và cô nhi viện.
+

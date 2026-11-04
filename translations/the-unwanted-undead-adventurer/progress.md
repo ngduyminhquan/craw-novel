@@ -276,7 +276,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | reviewed |  |
 | 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | reviewed |  |
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | done |  |
-| 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | todo |  |
+| 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | done |  |
 | 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | todo |  |
 | 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | todo |  |
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -930,3 +931,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#270] Tiêu đề ngoại truyện 'Vol 11 Bonus - A Casual Chat about the Academy' — tạm dịch 'Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện' (phương án khác: 'Ngoại truyện Tập 11 - Chuyện Phiếm Về Học Viện'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện'. → Giữ 'Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện'. (orchestrator)
 - [#271] Tiêu đề ngoại truyện 'Vol 11 Bonus - Maalt’s Fortune Teller' — tạm dịch 'Ngoại truyện Tập 11 - Thầy Bói Maalt' (phương án khác: 'Ngoại truyện Tập 11 - Thầy Bói Của Maalt', 'Ngoại truyện Tập 11 - Thầy Bói Thị Trấn Maalt'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 11 - Thầy Bói Maalt'. → Giữ 'Ngoại truyện Tập 11 - Thầy Bói Maalt'. (orchestrator)
 - [#271] Xưng hô giữa Rentt Faina và người thầy bói bí ẩn — tạm chọn thầy bói xưng 'tôi', gọi 'cậu', Rentt xưng 'tôi', gọi 'anh' theo văn phong fantasy đời thường bí ẩn (phương án khác: thầy bói xưng 'ta', gọi 'ngươi'). Tạm dùng trong bản dịch: 'tôi - cậu' và 'tôi - anh'. → Giữ thầy bói xưng 'tôi', gọi 'cậu'; Rentt xưng 'tôi', gọi 'anh' (hợp giọng lịch thiệp bí ẩn trong raw: 'Indeed I am', 'If I may ask for but one thing...'). (orchestrator)
+- [#272] Tiêu đề "An Increase in Saints and the Return to Maalt (1)" dịch là "Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (1)" (đã tạm dùng) hay "Tập 12 Chương 1 - Thêm Thánh Giả và Trở Về Maalt (1)"? → Giữ "Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (1)" cho toàn bộ các chương thuộc Tập 12 Chương 1 (#272–274). (orchestrator)

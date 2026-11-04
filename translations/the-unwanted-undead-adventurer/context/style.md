@@ -57,3 +57,4 @@
 - (269) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về kỷ niệm nhặt được và cùng Lorraine nuôi dưỡng một chú Sói Đen con trong một tuần trước khi giao cho Nữ Nam tước Graham nhận nuôi.
 - (270) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina trong cuộc trò chuyện phiếm bên bữa tối cùng Lorraine Vivie về việc học tập tại Học Viện Đế Quốc.
 - (271) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về cuộc gặp gỡ kỳ lạ với người thầy bói bí ẩn trên đường phố Maalt và những lời tiên tri ứng nghiệm đến buồn cười.
+- (272) Kể theo ngôi thứ nhất ("tôi") của Rentt Faina trong cuộc trò chuyện thẳng thắn với Nữ Tu Viện Trưởng Elza tại Cô Nhi Viện Thứ Ba Vistelya về Thần Lực, tiềm năng của Mel và biến động sắp tới của thế giới.
