@@ -122,7 +122,7 @@ Goblin hướng phần sau cùng của câu hỏi thẳng về phía chúng tôi
 
 "Có lẽ dị năng của chúng ta cũng ảnh hưởng đến cả tính cách nữa, nhỉ? Trông cậy cả vào cậu đấy."
 
-"Biết rồi, biết rồi. Đã lỡ dấn một đồng xu đồng thì phải theo tới một đồng xu vàng thôi, đâm lao thì phải theo lao vậy. Bằng cách nào đó tôi sẽ lo liệu êm xuôi."
+"Biết rồi, biết rồi. Đâm lao thì phải theo lao thôi. Bằng cách nào đó tôi sẽ lo liệu êm xuôi."
 
 Đúng lúc đó thì Siren lại bắt đầu gào thét nghẹn ngào. Rõ ràng là ả rốt cuộc cũng đã hoàn hồn sau cú sốc khi nghe tin về thất bại của ông lão. Chúng tôi quay lại nhìn ả rồi khựng lại. Tôi nghĩ tất cả chúng tôi suýt nữa thì quên khuấy mất sự hiện diện của ả trong phòng.
 
