@@ -56,7 +56,7 @@ Xác của nó đúng là một mỏ vàng nguyên liệu. Chưa cần tính ti�
 
 Nghĩ đến cảnh mình lại sắp được tiêu xài thoải mái, mà tất cả chỉ nhờ chiến lợi phẩm từ một trận đánh duy nhất! Đây chính là một trong muôn vàn lý do khiến tôi không sao bỏ được nghề mạo hiểm giả.
 
-Trong suốt mười năm qua, phần lớn thời gian gắn bó với nghề mạo hiểm giả, đây là lần đầu tiên tôi trúng đậm đến thế. Dù dạo trước tôi từng lấy được một viên Ma Tinh cỡ lớn từ con quái vật khổng lồ mình hạ gục, nhưng hoàn cảnh lúc đó khiến tôi chẳng xơ múi được đồng nào từ vụ ấy.
+Trong suốt mười năm hành nghề mạo hiểm giả vừa qua, đây là lần đầu tiên tôi trúng đậm đến thế. Dù dạo trước tôi từng lấy được một viên Ma Tinh cỡ lớn từ con Khô Lâu Khổng Lồ mình hạ gục, nhưng hoàn cảnh lúc đó khiến tôi chẳng xơ múi được đồng nào từ vụ ấy.
 
 Lần này thì khác rồi. Tôi mở túi, quỳ xuống cạnh xác con Tarasque. Tất nhiên tôi không cần phải tìm cách trùm cái túi lên phần xác to lớn không tưởng này. Chỉ việc áp chiếc túi ma thuật vào vật thể một lúc, chẳng mấy chốc nó sẽ tự động hút gọn cái xác vào khoảng không sâu thẳm không đáy bên trong.
 
@@ -168,7 +168,7 @@ Kẻ địch ư...? Không, không hẳn. Trông không giống Goblin, mà ở 
 
 Chắc là một mạo hiểm giả nào đó.
 
-Dù vậy, tôi vẫn phải hết sức cảnh giác. Trong một số hoàn cảnh nhất định, các mạo hiểm giả hoàn toàn có thể rút kiếm chĩa vào nhau. Ở trong Mê Cung thì người ta còn dễ tìm thấy thẻ mạo hiểm giả, chứ nếu đánh nhau ở một nơi như Đầm Lầy Tarasque thì bằng chứng về cái chết của một người rất có thể sẽ chìm nghỉm dưới đáy bùn độc.
+Dù vậy, tôi vẫn phải hết sức cảnh giác. Trong một số hoàn cảnh nhất định, các mạo hiểm giả hoàn toàn có thể rút kiếm chĩa vào nhau. Ở trong mê cung thì người ta còn dễ tìm thấy thẻ mạo hiểm giả, chứ nếu đánh nhau ở một nơi như Đầm Lầy Tarasque thì bằng chứng về cái chết của một người rất có thể sẽ chìm nghỉm dưới đáy bùn độc.
 
 Chừng đó lý do là quá đủ để phải đề phòng. Tôi rút kiếm ra lần nữa, giữ vững thế thủ chờ đợi cho tới khi nhìn rõ cả tròng mắt của đối phương...
 

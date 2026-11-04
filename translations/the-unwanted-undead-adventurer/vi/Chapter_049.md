@@ -88,7 +88,7 @@ Tiếng cô bé lại cắt ngang dòng suy nghĩ của tôi một lần nữa.
 
 "Vâng... Sơ Lillian tốt lắm ạ... Ý em là, sơ chăm sóc bọn em chu đáo lắm..."
 
-Từ nãy đến giờ cô bé luôn cố nói năng thật trang trọng, nhưng hễ nhắc đến chuyện của mình là em lại quên mất cái giọng điệu gượng gạo đó. Với một đứa trẻ thì em nói năng như thế là gãy gọn lắm rồi, dẫu vẫn chưa thể gọi là hoàn hảo.
+Từ nãy đến giờ cô bé luôn cố nói năng thật trang trọng, thế mà lúc này lại lỡ lời quên mất cái giọng điệu gượng gạo đó. Với một đứa trẻ thì em nói năng như thế là gãy gọn lắm rồi, dẫu vẫn chưa thể gọi là hoàn hảo.
 
 Dù vậy, cố gắng của em rất đáng khen, chỉ có điều hơi nhầm chỗ. Bởi lẽ, dùng giọng điệu trịnh trọng đó với một kẻ như tôi thì xét một cách nhẹ nhàng nhất cũng thấy kỳ cục vô cùng.
 
@@ -134,11 +134,11 @@ Nói trắng ra thì để ký vào giấy tờ ủy thác, em ấy có họ hay
 
 Nghe vậy, Alize gật đầu ngay tắp lự rồi giải thích:
 
-"Chuyện đó... thật ra cũng không có gì phức tạp đâu ạ. Thứ em cần đã viết rõ trong giấy ủy thác rồi."
+"Chuyện đó... thật ra cũng không có gì phức tạp đâu. Thứ em cần đã viết rõ trong giấy ủy thác rồi mà."
 
 "...Em muốn có... Hoa Long Huyết."
 
-"Vâng. Em nhờ anh việc đó được không ạ?"
+"Vâng. Em nhờ anh việc đó được không?"
 
 "...Ừm. Đã trót... nhận lời rồi... tôi chẳng có lý do gì... để từ chối cả. Nhưng... chắc em cũng hiểu. Loài hoa này... đâu dễ tìm... ở quanh vùng Maalt. Ít nhất... tôi cũng muốn biết... lý do vì sao em lại nhờ tôi... tìm thứ đó."
 
@@ -148,13 +148,13 @@ Alize cụp mắt nhìn xuống sàn, vẻ mặt lộ rõ nét khó xử.
 
 Chắc em có nỗi niềm khó nói. Dù vậy, cô bé ngập ngừng một lát rồi tiếp lời:
 
-"Vâng, em biết... anh chưa thể yên tâm được... Vậy... anh đợi em một lát có được không?"
+"Vâng, em biết... anh chưa thể yên tâm được... Vậy... anh đợi em một lát được không?"
 
 "...Được thôi...?"
 
 Tôi cứ ngỡ Alize sẽ nói thẳng lý do ra, ai ngờ cô bé lại vội vã chạy ra khỏi phòng. Cơ mà tôi cũng chẳng phải đợi lâu.
 
-"Mời anh đi lối này ạ... Em sẽ cho anh thấy lý do vì sao bọn em lại cần thứ đó."
+"Anh đi lối này với em... Em sẽ cho anh thấy lý do vì sao bọn em lại cần thứ đó."
 
 Alize vẫy tay ra hiệu rồi quay người bước ra khỏi phòng tiếp khách.
 
@@ -212,7 +212,7 @@ Chúng tôi cùng gật đầu rồi rời khỏi phòng, Alize nhẹ nhàng kh�
 
 "...Tôi có... nhiều thắc mắc lắm đấy, Alize."
 
-"Dạ... Trước hết mình cứ quay lại phòng tiếp khách lúc nãy đã anh."
+"Vâng... Trước hết mình cứ quay lại phòng tiếp khách lúc nãy đã anh."
 
 Alize rảo bước dọc hành lang. Tôi hiểu, nếu cuộc trò chuyện này lọt đến tai Sơ Lillian thì coi như hỏng bét.
 

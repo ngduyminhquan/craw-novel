@@ -8,7 +8,7 @@ Tôi bảo Alize cứ giữ lấy viên Ma Tinh, xem như kiếm thêm chút ti�
 
 Trong khi Alize còn mải vui mừng, tôi quyết định kiểm tra năng lực của con quyến thuộc mới thu nhận. Dù gặp đôi chút khó khăn lúc đuổi bắt đám đồng loại nhanh thoăn thoắt, con quyến thuộc của tôi vẫn có một ngón đòn tủ. Nó chỉ cần trừng mắt một cái là lũ Puchi Suri yếu hơn đã đứng sững lại, hệt như chuột chết trân trước mắt rắn. Ánh nhìn áp chế ấy hiệu nghiệm đến nỗi nạn nhân chẳng dám nhúc nhích lấy nửa bước, kể cả khi tôi bước lại gần lấy ngón tay chọc thử. Con Puchi Suri cứ đứng chôn chân tại chỗ, như sợ chỉ cần khẽ động đậy là sẽ bị trừng phạt.
 
-"...Mày làm nó... nghe lời mày... đấy à?"
+"...Mày làm chúng... nghe lời mày... đấy à?"
 
 Qua sợi dây liên kết tâm trí giữa hai bên, tôi cảm nhận được câu trả lời khẳng định. Có vẻ quyến thuộc của tôi sở hữu năng lực chi phối những biến thể yếu hơn cùng loài, tương tự cách Ma Cà Rồng điều khiển lũ Thi Quỷ do chúng tạo ra. Hiện tượng này thỉnh thoảng vẫn xuất hiện ở quái vật: một cá thể cấp cao hơn sẽ thống trị những con yếu hơn cùng giống loài.
 
@@ -94,7 +94,7 @@ Nhả ngón tay cô ra, con Puchi Suri khẽ liếm lên vết thương nơi và
 
 Tôi chẳng rõ Lorraine đang nói đùa hay nói thật, nhưng trông cô có vẻ đang vui. Tạm thời thế là được rồi. Chắc chắn Lorraine đang rất hào hứng với hàng tá thí nghiệm nảy ra trong đầu về người bạn lắm lông mới gia nhập này. Ngược lại, con quyến thuộc của tôi thì chẳng mặn mà chút nào.
 
-"Tha cho tôi đi..." trông nó như muốn nói thế. Đáng tiếc là tôi chẳng thể can thiệp được gì vào cơn cuồng thí nghiệm của Lorraine, bởi chính tôi cũng từng nếm trải đủ mọi bài thử nghiệm y như thế rồi. Tôi chỉ đành bảo nó ráng mà nhịn thôi. Con Puchi Suri đáp lại bằng một nỗi bất an và sợ hãi thấy rõ.
+"Tha cho tôi đi..." trông nó như muốn nói thế. Khổ nỗi tôi chẳng thể can thiệp được gì vào cơn mê thí nghiệm điên cuồng của Lorraine, bởi chính tôi cũng từng nếm trải đủ mọi bài thử nghiệm y như thế rồi. Tôi chỉ đành bảo nó ráng mà nhịn thôi. Con Puchi Suri đáp lại bằng một nỗi bất an và sợ hãi thấy rõ.
 
 ◆◇◆◇◆
 
@@ -142,11 +142,11 @@ Bình thường giờ này Lorraine còn đang ngủ say như chết, nhưng đ�
 
 Thỉnh thoảng có hứng thì Lorraine cũng sẽ xuống bếp. Nếu tôi đoán không lầm thì hôm nay chính là một lần hiếm hoi như thế.
 
-"Có phần... nào. Cho tôi không?"
+"Có phần... cho tôi không?"
 
 Dù chỉ cần uống máu là sống được, nhưng lâu lâu được ăn một bữa ngon lành thì tôi vẫn thích lắm chứ.
 
-"Có chứ, có chứ." Lorraine trấn an. "Như anh thấy đấy, tôi đang làm đây này, Rentt. Ngồi xuống đi, xong ngay bây giờ đây."
+"Có chứ, có chứ." Lorraine đáp cho tôi yên tâm. "Anh thấy rồi đấy, tôi đang nấu đây này, Rentt. Ngồi xuống đi, sắp xong rồi."
 
 Dù cách làm có phần hơi dị, nhưng Lorraine vẫn biết rất rõ mình đang làm gì.
 

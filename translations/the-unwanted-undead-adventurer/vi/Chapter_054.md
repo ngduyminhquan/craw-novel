@@ -68,15 +68,15 @@ Một tiếng nứt vỡ rền vang xé toạc không gian khi thép bén chạm
 
 Khi dư chấn từ đòn đánh còn đang vang dội trong không trung, những mảnh vảy vỡ vụn bị nhát chém bạt ra đã lả tả rơi xuống như một cơn mưa nhỏ.
 
-Hạ được nó rồi ư? Tôi thầm nghĩ, thoáng khựng lại trong giây lát. Tiếc thay, Tarasque tuyệt đối không phải là một con quái vật yếu ớt—
+Hạ được nó rồi ư? Tôi thoáng khựng lại, thầm nghĩ. Tiếc thay, Tarasque tuyệt đối không phải là một con quái vật yếu ớt—
 
-Trước khi tôi kịp phản ứng, những chiếc móng vuốt sắc nhọn đã ập tới xé gió, toan nghiền nát cả tôi lẫn tấm áo choàng ngay tại chỗ.
+Chưa kịp phản ứng, những chiếc móng vuốt sắc nhọn đã ập tới xé gió, toan nghiền nát cả tôi lẫn tấm áo choàng ngay tại chỗ.
 
-Hốt hoảng lùi bước né đòn, tôi nhanh chóng lấy lại thế đứng, định bụng bồi thêm một kiếm vào vết thương của nó. Ngờ đâu, tôi nhận ra con Tarasque đã ngẩng cao chiếc cổ lên.
+Tôi cuống cuồng nhảy lùi lại né đòn, rồi nhanh chóng chỉnh lại thế đứng, tính bồi thêm một kiếm vào vết thương của nó. Ngờ đâu con Tarasque đã ngẩng cao cổ lên từ lúc nào.
 
 Xem ra con quái thú rốt cuộc đã gượng dậy được...
 
-Mớ quẫy đạp và lăn lộn ban nãy hẳn đã chẳng hay ho gì cho tôi nếu như tôi vẫn còn là con người, nhưng chiếc cổ đang nghển cao của quái thú lúc này cũng chẳng phải tin tốt lành gì. Vốn dĩ con người đâu thể chiến đấu với Tarasque—có điều giờ không phải lúc nghĩ ngợi vẩn vơ.
+Màn quẫy đạp và lăn lộn ban nãy hẳn đã chẳng hay ho gì cho tôi nếu tôi vẫn còn là con người, nhưng cái cổ đang nghển cao của nó lúc này cũng chẳng phải tin lành gì. Vốn dĩ con người đâu thể tay đôi với Tarasque—có điều giờ không phải lúc nghĩ ngợi vẩn vơ.
 
 Guồng sáu chiếc chân, con quái thú lại một lần nữa lao bổ về phía tôi, dẫu với tốc độ có phần chậm hơn trước. Nó đã bắt đầu cảnh giác, đề phòng tôi lại nhảy lên lưng nó lần nữa—thật đúng là một con quái vật đáng gờm.
 
@@ -126,7 +126,7 @@ Thế nhưng, trái ngược hẳn với dự đoán của tôi, con quái thú 
 
 Đó là một tiếng gầm giận dữ—sự phẫn nộ khi bị thương hai lần ở cùng một chỗ, và có lẽ là nỗi bực tức khi phải nhận một đòn từ sinh vật nhỏ bé hơn nó rất nhiều. Dẫu chỉ có Tarasque mới biết điều nào khiến nó điên tiết hơn, thì uy lực cùng chấn động từ đòn tấn công của Edel là không thể chối cãi.
 
-Vừa co giật vừa quằn quại, con Tarasque bỗng dưng quất mạnh chiếc cổ như một ngọn roi bọc vảy. Nó quét ngang lưng một đường vòng cung rộng với tốc độ mà tôi không nghĩ một con quái vật bị thương lại có thể làm được. Dường như Edel cũng chung suy nghĩ ấy khi tốc độ kinh hoàng của cú quất đã khiến nó trở tay không kịp. Quyến thuộc của tôi hứng trọn một cú quật trời giáng, bị hất văng lên không trung.
+Vừa co giật vừa quằn quại, con Tarasque bỗng dưng quất mạnh chiếc cổ như một ngọn roi bọc vảy. Nó quét ngang lưng một đường vòng cung rộng với tốc độ mà tôi không nghĩ một con quái vật bị thương lại có thể làm được. Xem ra Edel cũng nghĩ giống tôi, bởi tốc độ kinh người của cú quất làm nó trở tay không kịp. Lĩnh trọn cú quật dữ dội ấy, con quyến thuộc của tôi bị hất văng lên không trung.
 
 Tôi lao theo hướng nó văng đi, bật nhảy lên chộp lấy con chuột trước khi nó đập xuống đất.
 
@@ -146,9 +146,9 @@ Dòng suy nghĩ của tôi nhanh chóng bị cắt ngang bởi một tràng gầ
 
 Tiếng rống đau đớn của con Tarasque giật tôi trở về với thực tại. Dường như nãy giờ con quái thú cứ chạy vòng quanh, sức nặng từ thân hình đồ sộ đã phản lại chính nó. Khi lao thẳng một mạch thì tốc độ của nó rất đáng sợ, nhưng lúc cần chuyển hướng lại xoay xở khá chật vật. Nếu muốn tìm cơ hội chạy thoát thì chính là lúc này.
 
-Dù đã giãn được một khoảng cách, tôi không dám chắc việc bỏ chạy sẽ mang lại ích lợi hay là nước đi khôn ngoan. Trận chiến có thể phát triển thành một cuộc cù cưa câu giờ, đôi bên cùng chờ xem đối phương liệu có cạn kiệt thể lực trước hay không. Hay là tôi có thể câu giờ để tự hồi phục cho mình?
+Dù đã giãn được một khoảng cách, tôi không dám chắc bỏ chạy lúc này có ích lợi gì hay có phải là nước đi khôn ngoan không. Khéo trận chiến lại biến thành màn cù cưa câu giờ, đôi bên cùng chờ xem ai kiệt sức trước. Hay là tôi cứ câu giờ để tự hồi phục cho mình nhỉ?
 
-Dẫu vậy, Edel thì chẳng cần nghỉ ngơi như thế. Dù sao đi nữa, đòn tấn công của Edel vào con Tarasque dường như đã để lại thương tổn nặng nề. Con quái thú không còn có thể cử động cổ thoải mái như trước nữa.
+Cơ mà người bị thương là con Tarasque chứ đâu phải tôi, nên tôi chẳng cần nghỉ ngơi như thế. Dù sao thì đòn tấn công của Edel lên con Tarasque xem chừng đã để lại vết thương không nhẹ. Con quái thú không còn ngoặt cổ thoải mái được như trước nữa.
 
 Tôi chậm rãi tiến lại gần nó, chợt thấy một làn khói đang bốc lên từ miệng vết thương hở của con Tarasque.
 
@@ -182,9 +182,9 @@ Cổ của con Tarasque vẫn còn thương tích, nhưng cơ thể nó vẫn ho
 
 Edel giờ đã quay lại đậu trên vai tôi, và nó cũng chẳng mấy để tâm tới làn khói ấy. Với hai chúng tôi, đó chẳng khác gì một đám mây màu tím ấm áp. Đã thế, lúc phun độc cũng là lúc con quái thú tự để lộ sơ hở.
 
-Tôi thấy tội nghiệp cho cây cối xung quanh, nhưng không hề chần chừ mà lao mình qua đám mây độc, nhanh chóng trồi ra ở phía bên kia. Giờ đây tôi đã ở rất gần con Tarasque—hơi quá gần so với mức dễ chịu của nó, nếu nhìn vào nỗ lực rút lui đầy hoảng loạn của quái thú.
+Tôi thấy tội nghiệp cho cây cối xung quanh, nhưng chẳng chần chừ mà lao thẳng vào đám mây độc, nhanh chóng trồi ra ở phía bên kia. Giờ tôi đã áp sát con Tarasque—gần đến mức làm nó bất an, cứ nhìn bộ dạng cuống cuồng tìm đường lùi lại của nó là biết.
 
-Không quá khó để tôi hiểu được cảm giác của nó. Tôi đồ rằng mình là sinh vật kháng độc đầu tiên mà nó từng chạm trán trong đời. Chí ít thì một con người bình thường sẽ cần một loại ma cụ nào đó có thể vô hiệu hóa hoàn toàn mọi loại độc tố. Nhưng tôi phải cảm ơn thể chất Thi Quỷ của mình.
+Cảm giác của nó lúc này tôi cũng dễ hiểu thôi. Chắc tôi là sinh vật kháng độc đầu tiên nó đụng phải trong đời. Con người bình thường ít nhất cũng phải có ma cụ khắc chế hoàn toàn mọi loại độc mới làm được thế, còn tôi thì nhờ cả vào cái xác Thi Quỷ này.
 
 Dù sao thì, tôi cũng nên dứt điểm trận này thôi. Không giống như nhát chém nửa vời trước đó, giờ tôi sẽ tung ra một đòn kết liễu.
 

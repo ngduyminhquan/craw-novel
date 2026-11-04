@@ -2,13 +2,13 @@
 
 Dù tôi và Isaac đã trò chuyện khá lâu, nhưng Đầm Lầy Tarasque vốn chẳng phải nơi thích hợp để nán lại dông dài như thế. Giờ cả hai đều biết đối phương có cách đối phó đáng tin cậy với chất độc của đầm lầy, bằng không chúng tôi đã chẳng đứng lại nói chuyện. Ngay cả khi bản thân không sợ độc, đồ đạc mang theo lại là chuyện khác. Dù là trang bị tốt nhất đi nữa, phơi giữa đầm lầy một cách không cần thiết cũng sẽ bị ăn mòn. Có điều, dường như Isaac đã nhận ra chuyện đó trước cả khi tôi kịp lên tiếng nhắc.
 
-“Có vẻ chúng ta đã trò chuyện hơi lâu rồi. Thành thật xin lỗi ngài. Tôi cũng phải sớm quay về thôi, dĩ nhiên là cùng với số hoa của phần mình nữa. Xin phép quý ngài cho tôi được cáo từ,” Isaac nói, khẽ cúi đầu chào rồi khép lại câu chuyện.
+"Có vẻ chúng ta đã trò chuyện hơi lâu rồi. Thành thật xin lỗi ngài. Tôi cũng phải sớm quay về thôi, dĩ nhiên là cùng với số hoa của phần mình nữa. Xin phép quý ngài cho tôi được cáo từ," Isaac nói, khẽ cúi đầu chào rồi khép lại câu chuyện.
 
 Quả thực cả hai chúng tôi đều nên sớm lên đường thôi.
 
-“...Được.” Tôi gật đầu đáp. “Về ủy thác... Tôi sẽ đợi liên lạc. Từ phía Hội. Như vậy... Có ổn không?”
+"...Được." Tôi gật đầu đáp. "Về ủy thác... tôi sẽ đợi liên lạc. Từ phía Hội. Như vậy... có ổn không?"
 
-“Vâng, thế là ổn rồi. Chúng tôi sẽ chính thức gửi ủy thác chỉ định ngài qua Hội; nhờ họ thay mặt liên lạc với ngài là tiện nhất. Dù vậy... tôi e rằng ngoài ngài ra, chẳng ai khác chịu nhận ủy thác này đâu,” Isaac nói, khóe môi thoáng hiện nụ cười gượng gạo.
+"Vâng, thế là ổn rồi. Chúng tôi sẽ chính thức gửi ủy thác chỉ định ngài qua Hội; nhờ họ thay mặt liên lạc với ngài là tiện nhất. Dù vậy... tôi e rằng ngoài ngài ra, chẳng ai khác chịu nhận ủy thác này đâu," Isaac nói, khóe môi thoáng hiện nụ cười gượng gạo.
 
 Điều đó quả không sai; kiếm được một mạo hiểm giả chịu đặt chân vào đầm lầy ngay từ đầu vốn đã khó, huống chi còn định kỳ lui tới chỉ để hái hoa. Thù lao hậu hĩnh có thể khiến một mạo hiểm giả lành nghề đi một chuyến, nhưng có những thứ dù lắm tiền đến đâu cũng chẳng dễ gì mua được.
 
@@ -18,17 +18,17 @@ Tôi là trường hợp ngoại lệ, nhìn chung không hề bị đầm lầy
 
 Tôi gật đầu rồi vẫy tay chào tạm biệt Isaac. Anh ta cũng vẫy tay đáp lại, trông khá hài lòng với kết quả cuộc trò chuyện của chúng tôi, rồi còn hào hứng ném một thứ về phía tôi.
 
-Tôi giơ bàn tay đang rảnh ra bắt lấy. “...Một lọ Nước... Thánh sao?”
+Tôi giơ bàn tay đang rảnh ra bắt lấy. "...Một lọ Nước... Thánh sao?"
 
 Thấy tôi nghiêng đầu bối rối, Isaac liền giải thích.
 
-“Xin ngài cứ dùng nếu muốn. Trông ngài có vẻ không mang theo chút nào trên người,” Isaac nói, giọng thoáng vẻ quan tâm.
+"Xin ngài cứ dùng nếu muốn. Trông ngài có vẻ không mang theo chút nào trên người," Isaac nói, giọng thoáng vẻ quan tâm.
 
 Sao anh ta lại biết được chuyện đó? Thấy tò mò, tôi bèn hỏi lại để nghe anh ta giải thích.
 
-“Sao anh lại... Nghĩ vậy?”
+"Sao anh lại... nghĩ vậy?"
 
-“Thật ra Nước Thánh có một mùi hương rất đặc trưng. Dù vậy, dường như ngài còn có phương thức bảo vệ khác. Tuy nơi đây là một khu vườn có rào chắn che chở nhờ Hoa Long Huyết, tôi vẫn cảm nhận được một thứ còn thuần khiết hơn thế tỏa ra từ chính người ngài.”
+"Thật ra Nước Thánh có một mùi hương rất đặc trưng. Dù vậy, dường như ngài còn có phương thức bảo vệ khác. Tuy nơi đây là một khu vườn có rào chắn che chở nhờ Hoa Long Huyết, tôi vẫn cảm nhận được một thứ còn thuần khiết hơn thế tỏa ra từ chính người ngài."
 
 Đầm Lầy Tarasque có đủ thứ đặc điểm quái gở, nhưng trên hết nó còn là một nơi bốc mùi... kinh khủng đúng nghĩa. Giữa khí độc trong không trung và lớp bùn nhơ nhớp dưới đất, chuyện đó cũng hoàn toàn dễ hiểu.
 
@@ -40,11 +40,11 @@ Nước Thánh đúng là có mùi đặc trưng, nhưng để lâu thì hương
 
 Không, chắc chắn không chỉ có thế.
 
-Anh ta nói mình có thể “cảm nhận được một thứ còn thuần khiết hơn thế”. Ý chỉ luồng Thần Lực của tôi chăng?
+Anh ta nói mình có thể "cảm nhận được một thứ còn thuần khiết hơn thế". Ý chỉ luồng Thần Lực của tôi chăng?
 
 Chưa kể anh ta còn một mình tiến vào Đầm Lầy Tarasque. Gạt chuyện bản lĩnh và vẻ bề ngoài sang một bên, có lẽ người đàn ông này không đơn giản như tôi nghĩ.
 
-“...Xem ra anh có... Con mắt tinh tường đấy. Thật ra, tôi... Có thể sử dụng Thần Lực.”
+"...Xem ra anh có... con mắt tinh tường đấy. Thật ra, tôi... có thể sử dụng Thần Lực."
 
 Đó chẳng phải chuyện tôi buộc phải giấu giếm. Tuy hiếm có con người nào dẫn truyền được Thần Lực, nhưng những người như thế vẫn tồn tại. Dù sao thì ngay cả Sơ Lillian, người đã dành cả đời chăm lo cho cô nhi viện, tôi cũng chưa từng tình cờ bắt gặp trên đường phố Maalt bao giờ.
 
@@ -52,13 +52,13 @@ Có Thần Lực tích trữ trong người chẳng phải chuyện gì đáng l
 
 Qua chuyện này, có thể thấy các giác quan của Isaac rất nhạy bén, và chẳng hiểu sao tôi lại cảm thấy mình có thể tin tưởng anh ta. Ít nhất là ở khoản kín tiếng, không bất cẩn làm lộ thông tin ra ngoài.
 
-Isaac gật đầu như thể đồng tình với nhận định của tôi. “Quả đúng như tôi đoán, thưa quý ngài. Vậy thì... việc tặng lọ Nước Thánh này có thành ra thừa thãi không?”
+Isaac gật đầu như thể đồng tình với nhận định của tôi. "Quả đúng như tôi đoán, thưa quý ngài. Vậy thì... việc tặng lọ Nước Thánh này có thành ra thừa thãi không?"
 
-“...Không. Thật ra tôi... Rất biết ơn. Dù đã tới được đây... Lành lặn. Nhưng tôi vẫn hơi lo... Về chuyến quay về. Rất cảm kích... Vì anh đã giúp tôi một... Món đồ quý giá như thế.”
+"...Không. Thật ra tôi... rất biết ơn. Dù đã tới được đây... lành lặn. Nhưng tôi vẫn hơi lo... về chuyến quay về. Rất cảm kích... vì anh đã giúp tôi một... món đồ quý giá như thế."
 
-“Vậy sao? Giúp được ngài là tôi mừng rồi.”
+"Vậy sao? Giúp được ngài là tôi mừng rồi."
 
-“...Nhưng. Thế này có thật sự ổn không...? Đây là một món đồ... Khá đắt tiền đấy. Chỉ nhìn cái lọ... Là tôi nhận ra ngay. Thật ra... Đây là một lọ Nước Thánh... Thượng hạng... Được ban phước. Bởi Giáo Hội Lobelia.”
+"...Nhưng. Thế này có thật sự ổn không...? Đây là một món đồ... khá đắt tiền đấy. Chỉ nhìn cái lọ... là tôi nhận ra ngay. Thật ra... đây là một lọ Nước Thánh... thượng hạng... được ban phước. Bởi Giáo Hội Lobelia."
 
 Giáo Hội Lobelia... Giáo hội này vốn không có nhiều hiện diện ở Vương Quốc Yaaran, nhưng lại nắm quyền lực và thanh thế rất lớn tại các đại vương quốc phía tây. Dù họ có lập một nhà thờ ở Maalt, giáo đoàn tại đây lại khá nhỏ bé.
 
@@ -70,25 +70,25 @@ Có nhiều yếu tố quyết định phẩm cấp của một lọ Nước Th�
 
 Thế nhưng Isaac chỉ lắc đầu.
 
-“Chẳng phải lát nữa ngài sẽ cần dùng đến sao? Tôi chỉ nghĩ đưa nó cho ngài ngay tại đây là hợp lý nhất thôi.”
+"Chẳng phải lát nữa ngài sẽ cần dùng đến sao? Tôi chỉ nghĩ đưa nó cho ngài ngay tại đây là hợp lý nhất thôi."
 
 Câu nói của Isaac khiến tôi thấy hơi lạ; tôi thậm chí còn chưa nhận lời làm ủy thác kia mà. Phải chăng anh ta đang hành xử dựa trên giả định rằng tôi chắc chắn sẽ đồng ý?
 
 Dù vậy...
 
-“Anh không nghĩ... Tôi có thể cuỗm luôn... Cái lọ này rồi chuồn mất sao? Mà không thèm nhận... Ủy thác của anh?”
+"Anh không nghĩ... tôi có thể cuỗm luôn... cái lọ này rồi chuồn mất sao? Mà không thèm nhận... ủy thác của anh?"
 
-“Nếu chuyện đó có xảy ra thật, thưa quý ngài, chà, thì đành chịu vậy thôi. Khi ấy coi như tôi nhìn lầm người. Hơn nữa, cả chủ nhân lẫn bản thân tôi đều không đến nỗi túng thiếu về tiền bạc, cứ cho là vậy đi.”
+"Nếu chuyện đó có xảy ra thật, thưa quý ngài, chà, thì đành chịu vậy thôi. Khi ấy coi như tôi nhìn lầm người. Hơn nữa, cả chủ nhân lẫn bản thân tôi đều không đến nỗi túng thiếu về tiền bạc, cứ cho là vậy đi."
 
 Xem ra Isaac và chủ nhân của anh ta dư dả tiền bạc để tiêu xài, bởi họ giàu đến mức sẵn sàng đem những lọ Nước Thánh Lobelia thượng hạng tặng cho người lạ.
 
-Tôi cũng hơi ghen tị với túi tiền của họ, dù tôi đoán đây cũng là lý do khiến ngay từ đầu họ gặp rắc rối trong việc tìm người làm ủy thác. Nhưng giờ, nếu một mạo hiểm giả được giúp đỡ ngay tại chỗ thế này, khả năng họ nhận lời làm một ủy thác như vậy chắc chắn sẽ tăng lên.
+Tôi hơi ghen tị với túi tiền rủng rỉnh của họ, dù tôi cũng hiểu vì sao họ sẵn sàng tặng vật phẩm quý giá như thế: ngay từ đầu họ đã gặp khó trong việc tìm người làm ủy thác, nên nếu giúp đỡ mạo hiểm giả ngay tại chỗ thế này, khả năng người đó nhận lời chắc chắn sẽ cao hơn nhiều.
 
 Đúng như dự đoán, ngay cả tôi cũng thấy khó lòng từ chối, nhất là sau cử chỉ hào phóng của Isaac. Mà thật ra tôi cũng chưa từng có ý định từ chối.
 
-“Nếu đã vậy... Tôi xin vui vẻ. Nhận lấy... Vậy thì... Hẹn gặp lại lần sau.”
+"Nếu đã vậy... tôi xin vui vẻ. Nhận lấy... Vậy thì... hẹn gặp lại lần sau."
 
-“Vâng. Xin ngài bảo trọng trên đường về.”
+"Vâng. Xin ngài bảo trọng trên đường về."
 
 Tôi và Isaac chia tay nhau tại đó.
 
@@ -108,13 +108,13 @@ Vừa nghĩ ngợi miên man như thế, tôi nhận ra mình đã bước ra kh
 
 Bước lên các bậc đá, tôi ra tới đường cái và đứng đợi chiếc xe ngựa đã chở mình đến hồi sáng. Đợi một lúc, tiếng bánh xe lộc cộc quen thuộc vang lên từ đằng xa. Xe trờ tới gần, bác đánh xe nhảy xuống, trố mắt nhìn tôi với vẻ kinh ngạc pha lẫn thán phục.
 
-“Vậy là cậu vẫn sống nhăn răng trở về đấy hử...? Bất ngờ thật. Cậu khá lắm!”
+"Vậy là cậu vẫn sống nhăn răng trở về đấy hử...? Bất ngờ thật. Cậu khá lắm!"
 
-“Thật ra... Tôi đã là mạo hiểm giả... Mithril Cấp rồi. Chiếc mặt nạ này... Chỉ để che giấu... Hành tung của tôi. Trước thế gian mà thôi.”
+"Thật ra... tôi đã là mạo hiểm giả... Mithril Cấp rồi. Chiếc mặt nạ này... chỉ để che giấu... hành tung của tôi. Trước thế gian mà thôi."
 
 Một câu đáp ngớ ngẩn nhưng khá hài hước. Bác đánh xe bật cười ha hả.
 
-“Ha! Nhìn cậu kìa, tướng tá thế mà khéo đùa gớm! Lần sau có muốn tôi chở tới đây nữa thì cứ ới một tiếng nhé. Tôi giảm giá cho!”
+"Ha! Nhìn cậu kìa, tướng tá thế mà khéo đùa gớm! Lần sau có muốn tôi chở tới đây nữa thì cứ ới một tiếng nhé. Tôi giảm giá cho!"
 
 Tôi vui vẻ nhận lời rồi nhảy lên xe. Ngựa nhanh chóng cất vó, thẳng hướng về phía thị trấn Maalt thân thuộc.
 
@@ -128,7 +128,7 @@ Tôi muốn chữa bệnh cho Sơ Lillian càng sớm càng tốt, nhưng sơ ch
 
 Bước vào Hội, tôi đi thẳng về phía Sheila; như thường lệ, cô đang đứng sau quầy tiếp tân. Sheila biết rõ hoàn cảnh của tôi và vẫn thường giúp đỡ tôi trong các công việc liên quan đến Hội.
 
-“Ô, anh Rentt...! Hôm nay anh có việc gì cần tìm sao? Khoan đã... Đừng nói là anh đã đi đầm lầy về rồi đấy nhé?”
+"Ô, anh Rentt...! Hôm nay anh có việc gì cần tìm sao? Khoan đã... Đừng nói là anh đã đi đầm lầy về rồi đấy nhé?"
 
 Ngay cả Sheila cũng không ngờ tôi lại về nhanh đến thế. Điều này cũng dễ hiểu thôi, bởi cô biết rõ thực lực của tôi hồi còn sống, hay nói đúng hơn là sự thiếu thốn tài năng của tôi. Phần lớn bài thi thăng hạng Đồng Cấp vừa rồi tôi cũng vượt qua nhờ vốn kiến thức tích lũy từ trước, chứ không phải dựa vào kỹ năng cá nhân.
 
@@ -136,11 +136,11 @@ Thế nhưng thám hiểm một nơi như Đầm Lầy Tarasque lại ở một 
 
 Do cả Lorraine lẫn tôi đều chưa từng giải thích cặn kẽ toàn bộ năng lực hiện tại của tôi cho Sheila nghe, nên nhìn chung phản ứng của cô như vậy là hoàn toàn bình thường.
 
-“Phải. Tôi đã lấy được... Hoa Long... Huyết theo ủy thác rồi. Tôi định sẽ... Giao. Hoa tới cô nhi viện... Sớm thôi. Rồi nhờ bên ủy thác... Ký xác nhận hoàn thành cho tôi.”
+"Phải. Tôi đã lấy được... Hoa Long... Huyết theo ủy thác rồi. Tôi định sẽ... giao. Hoa tới cô nhi viện... sớm thôi. Rồi nhờ bên ủy thác... ký xác nhận hoàn thành cho tôi."
 
-“Tôi ngạc nhiên thật đấy, anh Rentt. Không ngờ anh lại xong việc nhanh đến thế... Tôi cứ tưởng sự chăm chỉ của anh chỉ phát huy tác dụng mỗi khi đi săn Orc thôi, nhưng việc này thì hoàn toàn ở tầm khác rồi. Anh đã mạnh lên nhiều rồi đấy, anh Rentt.”
+"Tôi ngạc nhiên thật đấy, anh Rentt. Không ngờ anh lại xong việc nhanh đến thế... Tôi cứ tưởng sự chăm chỉ của anh chỉ phát huy tác dụng mỗi khi đi săn Orc thôi, nhưng việc này thì hoàn toàn ở tầm khác rồi. Anh đã mạnh lên nhiều rồi đấy, anh Rentt."
 
-“...Vậy sao. Bản thân tôi... Lại không. Chắc chắn lắm.”
+"...Vậy sao. Bản thân tôi... lại không. Chắc chắn lắm."
 
 Đó là suy nghĩ thật lòng của tôi; tôi hoàn toàn không có ý nói thế để chờ được khen.
 
@@ -160,26 +160,26 @@ Nhưng dĩ nhiên, tôi nghĩ mình vẫn sẽ cứ lầm lũi bước tiếp v�
 
 Dù sao đi nữa, tính chuyện chưa đâu vào đâu cũng chẳng ích gì. Tôi tạm gác những suy nghĩ ấy lại, quay sang nhìn Sheila lần nữa.
 
-“Nếu anh có thể tự mình ra vào Đầm Lầy Tarasque mà không hề hấn gì, xét về năng lực thì anh coi như đã ngang ngửa Ngân Cấp rồi đấy, anh Rentt! Anh nhớ kỹ điều đó nhé!”
+"Nếu anh có thể tự mình ra vào Đầm Lầy Tarasque mà không hề hấn gì, xét về năng lực thì anh coi như đã ngang ngửa Ngân Cấp rồi đấy, anh Rentt! Anh nhớ kỹ điều đó nhé!"
 
 Tôi chỉ biết đứng đó ngượng nghịu gật đầu, đón nhận lời khích lệ của Sheila mà chẳng phản bác câu nào.
 
 Dù một ngày nào đó tôi có thể đánh mất sức mạnh này, nhưng ngay lúc này nó đang hiện hữu rõ ràng, và chắc chắn là của tôi. Đánh giá đúng thực lực của bản thân là điều rất quan trọng; suy cho cùng, thừa nhận năng lực của chính mình cũng quan trọng chẳng kém gì việc thực sự sở hữu chúng.
 
-“Tôi hiểu rồi, cô Sheila. Còn một... Chuyện nữa. Tôi có một việc... Muốn nhờ riêng.”
+"Tôi hiểu rồi, cô Sheila. Còn một... chuyện nữa. Tôi có một việc... muốn nhờ riêng."
 
-“À, vâng, chuyện đó. Vì anh vẫn chưa trả ủy thác... Có phải là chuyện bán nguyên liệu không?”
+"À, vâng, chuyện đó. Vì anh vẫn chưa trả ủy thác... Có phải là chuyện bán nguyên liệu không?"
 
 Đúng là Sheila với năm năm kinh nghiệm có khác, tôi còn chưa cần giải thích mình muốn gì thì cô đã đoán ra.
 
-“Phải.” Tôi gật đầu đáp. “Có điều, cần phải... Xử lý một chút. Phòng xẻ thịt thông thường... Sẽ... Không tiện. Cho việc này.”
+"Phải." Tôi gật đầu đáp. "Có điều, cần phải... xử lý một chút. Phòng xẻ thịt thông thường... sẽ... không tiện. Cho việc này."
 
-“Tôi hiểu rồi. Chắc là anh săn được con gì to lắm hả? Thảo nào lúc đi anh lại thuê một chiếc túi dung tích lớn đến thế, anh Rentt.”
+"Tôi hiểu rồi. Chắc là anh săn được con gì to lắm hả? Thảo nào lúc đi anh lại thuê một chiếc túi dung tích lớn đến thế, anh Rentt."
 
-“Phải. Nó... Tương đối. Lớn đấy.”
+"Phải. Nó... tương đối. Lớn đấy."
 
 Nếu chỉ là vấn đề kích thước thì tôi lôi cái xác ra ngay tại đây cũng được, nhưng xung quanh có nhiều mạo hiểm giả khác đang trong tầm nghe thấy, và tôi chẳng muốn sau đó lại bị bủa vây bởi những lời đề nghị hay yêu cầu kỳ quặc.
 
-Sheila gật đầu hiểu ý. “Nếu vậy... anh có thể dùng phòng mổ xẻ ở phía sau. Tôi sẽ dẫn anh qua đó.”
+Sheila gật đầu hiểu ý. "Nếu vậy... anh có thể dùng phòng mổ xẻ ở phía sau. Tôi sẽ dẫn anh qua đó."
 
 Sheila bước lại chỗ một đồng nghiệp nhờ đứng quầy thay mình, rồi thu dọn vài tập tài liệu và bước đi. Tôi rảo bước theo sát ngay phía sau.

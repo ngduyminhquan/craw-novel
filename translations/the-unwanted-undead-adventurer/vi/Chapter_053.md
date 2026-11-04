@@ -58,11 +58,11 @@ Thế rồi... tôi chợt nhận ra suốt trận chiến vừa rồi, ngoài v
 
 Con chuột này rốt cuộc có nhớ mình là quyến thuộc của tôi không đấy?
 
-Tôi dặn Edel trận tới phải làm việc cho bõ công nuôi. Đáp lại, nó bảo bao giờ thật sự cần thì nó mới ra tay.
+Tôi dặn Edel trận tới phải làm việc cho bõ công nuôi. Đáp lại, nó chỉ bảo bao giờ thật sự cần thì nó mới ra tay.
 
 Con chuột này rốt cuộc có coi tôi là chủ nhân của nó không đấy...?
 
-Tôi thật sự nghi ngờ đấy...
+Tôi không khỏi băn khoăn...
 
 ◆◇◆◇◆
 
@@ -154,7 +154,7 @@ Thế nhưng, ngay khi ý nghĩ đó vừa xẹt qua đầu, dường như con c
 
 "Hự...!!!"
 
-Và thế là tôi đã qua được bên kia đầm lầy, dẫu cái kết là cả người đập sầm xuống đất với một tiếng bịch đầy thảm hại.
+Và thế là tôi đã qua được bên kia đầm lầy, dẫu cái kết là cả người đập sầm xuống đất nghe một tiếng thật thảm hại.
 
 Người tôi ướt như chuột lột, nước độc chảy tong tỏng xuống đất. Lạ lùng thay, chiếc áo choàng của tôi lại khô ráo đến khó tin. Đồ tốt có khác, tôi thầm nghĩ. Hay là nó vốn chẳng hề thấm nước ngay từ đầu nhỉ... Chiếc áo choàng này cũng bí ẩn hệt như người phụ nữ đã trao nó cho tôi.
 

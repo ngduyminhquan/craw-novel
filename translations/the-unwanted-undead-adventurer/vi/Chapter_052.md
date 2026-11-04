@@ -52,7 +52,7 @@ Chẳng lẽ bữa sáng của chúng tôi lại là món hầm có nhỏ máu? 
 
 Tôi thở phào nhẹ nhõm vì Lorraine không vì tôi mà làm hỏng cả nồi đồ ăn sáng. Nghĩ lại thì hòa máu vào thức ăn nghe đúng là hơi giống phù thủy thật, nếu tin theo mấy câu chuyện cổ tích.
 
-"Nói trước là tôi không làm mấy trò đó đâu đấy nhé," Lorraine nói tiếp.
+"Đừng có ngẫm nghĩ nghiêm túc thế, tôi nói đùa thôi mà," Lorraine nói tiếp.
 
 "Có điều ngày xưa... mấy mụ phù thủy bói toán hay xúi các cô gái trẻ làm đủ trò quái gở lắm. Nghĩ cũng tội cho cánh đàn ông thật."
 
@@ -168,7 +168,7 @@ Tarasque là một phân loài của Rồng, hoặc là họ hàng xa. Mang lớ
 
 Nói cách khác, mạo hiểm giả Đồng Cấp như tôi mà đi nghênh chiến, hay thậm chí chỉ là chạm mặt Tarasque, thì đúng là dại dột.
 
-Dĩ nhiên, chỉ đụng phải một con thì chưa giết được tôi ngay. Dẫu vậy, nó vẫn sẽ đẩy tôi vào tình thế vô cùng rắc rối. Đó là lý do tôi luôn giữ nguyên tắc thám hiểm cẩn trọng: thay vì phải trầy trật chống đỡ một con Tarasque, tốt nhất là đừng đụng mặt con nào ngay từ đầu. Đã thế, đầm lầy còn là hang ổ của đủ loại quái vật khác, không đề phòng chúng thì ngốc nghếch quá. Chừng đó thứ, cộng thêm vài yếu tố phiền toái khác, biến việc thám hiểm đầm lầy thành một việc cực kỳ nhọc nhằn.
+Dĩ nhiên, chỉ đụng mặt một con thì chưa chắc đã mất mạng ngay, nhưng cũng đủ đẩy tôi vào thế kẹt cứng. Đó là lý do tôi luôn giữ nguyên tắc thám hiểm cẩn trọng: thay vì phải trầy trật chống đỡ một con Tarasque, tốt nhất là đừng đụng mặt con nào ngay từ đầu. Đã thế, đầm lầy còn là hang ổ của đủ loại quái vật khác, không đề phòng chúng thì ngốc nghếch quá. Chừng đó thứ, cộng thêm vài yếu tố phiền toái khác, biến việc thám hiểm đầm lầy thành một việc cực kỳ nhọc nhằn.
 
 Nghĩ lại mà xem, tôi làm chừng này chuyện chỉ vì đúng một đồng xu đồng!
 

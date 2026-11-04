@@ -4,11 +4,11 @@ Tôi chỉ nói ngắn gọn vậy thôi, nhưng Alize hiểu rất rõ điều 
 
 Nghĩ cũng phải, bởi lúc nói chuyện với Sơ Lillian, chính Alize là người đã ra hiệu bảo tôi giữ im lặng.
 
-"Em xin lỗi vì đã làm phiền anh nhiều như vậy... Thật ra có nguyên do cả đấy ạ..." Alize áy náy mở lời.
+"Em xin lỗi vì đã làm phiền anh nhiều như vậy... Thật ra có nguyên do cả đấy..." Alize áy náy mở lời.
 
 Tôi chẳng thể trách Alize, nhất là khi cô bé đã chịu nói thật. Tôi đâu có ý tra khảo hay dồn em vào thế khó, nhưng quả thật tôi rất muốn biết vì sao lúc nãy lại phải nói dối trước mặt Sơ Lillian.
 
-"Dạ... Anh cũng thấy tình cảnh của sơ rồi đúng không? Sơ Lillian ấy... Bản thân sơ chẳng nhận ra đâu, nhưng thật ra sơ ốm nặng lắm..." Alize cuối cùng cũng bắt đầu giải thích.
+"Ừm... Anh cũng thấy tình cảnh của sơ rồi đúng không? Sơ Lillian ấy... Bản thân sơ chẳng nhận ra đâu, nhưng thật ra sơ ốm nặng lắm..." Alize cuối cùng cũng bắt đầu giải thích.
 
 "Tôi hiểu rồi."
 
@@ -18,11 +18,11 @@ Chỉ nghe đến đó, tôi đã đoán được phần nào thực chất ủy
 
 "Nói điều này... có lẽ hơi thất lễ. Nhưng chắc các em... đã phải trả cho thầy trị liệu. Một khoản tiền không nhỏ... chỉ để người ta... chịu đến khám cho... Sơ Lillian."
 
-Alize bật cười trước lời tôi nói, rồi giơ ngón trỏ chỉ vào tôi: "Những người như anh nhiều hơn anh tưởng đấy! Người ta bảo nếu là chữa cho Sơ Lillian thì không lấy một xu nào. Ừm, ít nhất thì họ nói thế đấy ạ."
+Alize bật cười trước lời tôi nói, rồi giơ ngón trỏ chỉ vào tôi: "Những người như anh nhiều hơn anh tưởng đấy! Người ta bảo nếu là chữa cho Sơ Lillian thì không lấy một xu nào. Ừm, ít nhất thì họ nói thế đấy."
 
 Tôi nghĩ điều đó cũng dễ hiểu, bởi sơ thuộc Giáo Hội Đông Thiên, lại còn là nữ tu trông nom cả một cô nhi viện. Chắc chắn đã có biết bao người từng được bàn tay nhân từ của sơ cứu giúp, hay được sơ dùng Thần Lực cứu nguy trong những phen ngặt nghèo. Hồi còn khỏe, sơ thừa sức chiến đấu với quái vật mà.
 
-"Dạ... Vì thế nên trừ phi có Thánh Nữ hay đại tư tế nào ghé qua, bằng không tụi em phải có thuốc thì mới chữa được cho Sơ Lillian. Thật ra cách đây ít lâu từng có một Thánh Nữ ghé thăm thị trấn, ngặt nỗi hồi đó Sơ Lillian vẫn còn khỏe mạnh..."
+"Vâng... Vì thế nên trừ phi có Thánh Nữ hay đại tư tế nào ghé qua, bằng không tụi em phải có thuốc thì mới chữa được cho Sơ Lillian. Thật ra cách đây ít lâu từng có một Thánh Nữ ghé thăm thị trấn, ngặt nỗi hồi đó Sơ Lillian vẫn còn khỏe mạnh..."
 
 Nếu nhớ không nhầm thì đúng là từng có một vị Thánh Nữ như thế đến thăm Maalt hồi tôi còn sống. Nếu giờ mà hai bên chạm mặt nhau, khéo người ta coi tôi là mục tiêu cần thanh tẩy mất...
 
@@ -30,13 +30,13 @@ Nghe đồn chỉ cần ngắm nhìn một Thánh Nữ thôi cũng đủ khiến
 
 "Và để làm ra... loại thuốc đó. Em cần một đóa... Hoa Long Huyết... đúng không?"
 
-"Vâng, đúng vậy ạ! Thuốc sẽ do người thầy trị liệu em vừa kể hỗ trợ bào chế... Thầy ấy bảo sẽ tìm người biết điều chế giúp. Còn tiền công... em có nói là sẽ trả, nhưng thầy ấy từ chối không nhận của tụi em thứ gì cả."
+"Vâng, đúng vậy! Thuốc sẽ do người thầy trị liệu em vừa kể hỗ trợ bào chế... Thầy ấy bảo sẽ tìm người biết điều chế giúp. Còn tiền công... em có nói là sẽ trả, nhưng thầy ấy từ chối không nhận của tụi em thứ gì cả."
 
 Chắc hẳn người thầy trị liệu đó định chi trả thay cho Alize. Thỉnh thoảng ở đời cũng có những chuyện ấm lòng như vậy, mà lần này là lòng tốt của Sơ Lillian đã lan tỏa để rồi quay về đền đáp cho sơ, khi rất nhiều người đều muốn chung tay giúp đỡ.
 
 "Tôi hiểu rồi. Giờ thì... tôi hiểu tình cảnh của các em rồi. Tiện thể... cho tôi hỏi... căn bệnh của sơ... tên là gì vậy?"
 
-"Hình như gọi là Bệnh Tích Tụ Chướng Khí ạ... Căn bệnh này chỉ xảy đến với những người dùng Thần Lực thôi. Thần Lực càng mạnh... thì mỗi lần sử dụng, cơ thể lại càng hút nhiều chướng khí vào người, em đoán giống như một dạng phản lực vậy... rồi sức khỏe sẽ suy kiệt dần theo thời gian. Nhưng... Hoa Long Huyết lại có khả năng xua tan lượng chướng khí ấy..."
+"Hình như gọi là Bệnh Tích Tụ Chướng Khí... Căn bệnh này chỉ xảy đến với những người dùng Thần Lực thôi. Thần Lực càng mạnh... thì mỗi lần sử dụng, cơ thể lại càng hút nhiều chướng khí vào người, em đoán giống như một dạng phản lực vậy... rồi sức khỏe sẽ suy kiệt dần theo thời gian. Nhưng... Hoa Long Huyết lại có khả năng xua tan lượng chướng khí ấy..."
 
 Bệnh Tích Tụ Chướng Khí...
 
@@ -46,11 +46,11 @@ Nghĩ lại thì, ngay cả tôi dạo gần đây cũng dùng một lượng kh
 
 "...Còn chuyện... dọn căn hầm... chứa đồ thì sao?" tôi cất tiếng hỏi, nhớ lại lời Sơ Lillian.
 
-"Chỉ là... cách nói thác đi thôi ạ. Chứ nếu em thuê thẳng mạo hiểm giả đi hái Hoa Long Huyết thì Sơ Lillian sẽ đoán ra ngay em định làm gì. Bởi ở đây có mỗi sơ là biết dùng Thần Lực..."
+"Chỉ là... cách nói thác đi thôi. Chứ nếu em thuê thẳng mạo hiểm giả đi hái Hoa Long Huyết thì Sơ Lillian sẽ đoán ra ngay em định làm gì. Bởi ở đây có mỗi sơ là biết dùng Thần Lực..."
 
 "Chuyện này mà... lộ ra ngoài... thì rắc rối lắm sao...?"
 
-"Dĩ nhiên rồi ạ! Sơ Lillian đời nào chịu nhờ vả chuyện như thế. Vả lại... Bệnh Tích Tụ Chướng Khí đâu có làm người ta chết ngay, thành thử mở lời xin giúp đỡ lại càng khó. Căn bệnh này cứ gặm nhấm người ta từng ngày... Theo lời thầy trị liệu, một người vốn khỏe mạnh cũng phải từ năm đến mười năm mới phát bệnh tới chết... Sơ Lillian mà biết chuyện, thế nào sơ cũng xin Giáo Hội Đông Thiên điều một nữ tu khác đến thay mình cho mà xem!"
+"Dĩ nhiên rồi! Sơ Lillian đời nào chịu nhờ vả chuyện như thế. Vả lại... Bệnh Tích Tụ Chướng Khí đâu có làm người ta chết ngay, thành thử mở lời xin giúp đỡ lại càng khó. Căn bệnh này cứ gặm nhấm người ta từng ngày... Theo lời thầy trị liệu, một người vốn khỏe mạnh cũng phải từ năm đến mười năm mới phát bệnh tới chết... Sơ Lillian mà biết chuyện, thế nào sơ cũng xin Giáo Hội Đông Thiên điều một nữ tu khác đến thay mình cho mà xem!"
 
 Tính thanh bần của Sơ Lillian quả thực không chút giả tạo.
 
@@ -64,7 +64,7 @@ Căn bệnh này chữa không khó, miễn là có đủ tiền. Ngặt nỗi S
 
 Có điều trông Alize dường như vẫn còn nỗi bận tâm khác.
 
-"Dạ... Đầu đuôi là thế đấy ạ. Nhưng mà... liệu anh có tìm được Hoa Long Huyết thật không? Đúng như anh nói lúc nãy, nếu muốn hái hoa ở quanh Maalt... thì chỉ có thể đến 'Đầm Lầy Tarasque' thôi..."
+"Ừm... Đầu đuôi là thế đấy. Nhưng mà... liệu anh có tìm được Hoa Long Huyết thật không? Đúng như anh nói lúc nãy, nếu muốn hái hoa ở quanh Maalt... thì chỉ có thể đến 'Đầm Lầy Tarasque' thôi..."
 
 Khu đầm lầy ấy đúng như tên gọi của nó, là vùng đầm lầy dưới quyền thống trị của loài quái vật đáng sợ mang cái tên tương xứng là Tarasque. Chúng là loài quái vật mang chút huyết thống họ hàng với Rồng, chủ yếu sống ở các vùng đầm lầy. Sở hữu lớp mai dày, sáu cái chân cùng nọc độc cực mạnh, chúng quả thực là lũ quái vật kinh hoàng. Mạo hiểm giả cấp thấp đừng hòng đối đầu nổi với thứ quái vật cỡ đó, chứ đừng nói là lặn lội vào đầm lầy tìm Hoa Long Huyết.
 
@@ -74,23 +74,23 @@ Mối lo hoàn toàn chính đáng.
 
 "Tôi không nghĩ... mình có thể... hạ nổi một con Tarasque. Nhưng... tôi có cách của mình. Dù sao... chúng cũng chẳng giống... Goblin. Số lượng... đâu có nhiều... đến mức ấy."
 
-"Thật sao ạ...?"
+"Thật sao...?"
 
 "Đúng vậy. Em chỉ cần... ở nhà chờ tôi. Tôi nhất định... sẽ mang hoa... về cho em."
 
-"Cảm ơn anh. Mọi người trông cậy cả vào anh đấy ạ... Thế... anh có lên đường ngay bây giờ không?"
+"Cảm ơn anh. Mọi người trông cậy cả vào anh đấy... Thế... anh có lên đường ngay bây giờ không?"
 
 "...Chưa đâu. Đầm Lầy Tarasque... cách đây... khá xa. Lại thêm nhiều quái vật ở đó... là loài ăn đêm. Ngày mai... tôi mới xuất phát."
 
 Alize hẳn mong tôi lên đường ngay để Sơ Lillian sớm khỏi bệnh, nhưng làm thế thì dại dột quá. Nếu cứ hấp tấp đi mà không chuẩn bị gì, khả năng một đi không trở lại Maalt là rất cao. Dành chút thời gian chuẩn bị kỹ càng mới là lựa chọn khôn ngoan.
 
-"Vậy sao ạ? Hừm... Dù chỉ là Đồng Cấp nhưng xem ra anh cũng thạo nghề gớm nhỉ. Am hiểu tường tận thế này thì đúng là dân chuyên nghiệp rồi."
+"Vậy sao? Hừm... Dù chỉ là Đồng Cấp nhưng xem ra anh cũng thạo nghề gớm nhỉ. Am hiểu tường tận thế này thì đúng là dân chuyên nghiệp rồi."
 
 Câu nói của Alize khiến tôi thấy tò mò.
 
 "Chẳng lẽ em... cũng muốn làm... mạo hiểm giả sao?"
 
-"Ôi, em bị lộ tẩy rồi sao? Dạ vâng, đúng vậy đấy ạ. Đó là ước mơ từ bé của em rồi. Em cũng may mắn có chút ít Ma Lực trong người. Cơ mà với tình cảnh cô nhi viện thế này... chắc một thời gian nữa em cũng chẳng làm gì được. Ít nhất thì em phải ở cạnh Sơ Lillian cho đến khi sơ khỏe lại đã..."
+"Ôi, em bị lộ tẩy rồi sao? Vâng, đúng vậy đấy. Đó là ước mơ từ bé của em rồi. Em cũng may mắn có chút ít Ma Lực trong người. Cơ mà với tình cảnh cô nhi viện thế này... chắc một thời gian nữa em cũng chẳng làm gì được. Ít nhất thì em phải ở cạnh Sơ Lillian cho đến khi sơ khỏe lại đã..."
 
 Nếu lời Sơ Lillian nói là thật thì Alize chính là người gánh vác thứ hai ở cô nhi viện, nên cô bé thấy mình phải có trách nhiệm cũng chẳng có gì lạ.
 
@@ -112,7 +112,7 @@ Không khí mát lạnh dưới căn hầm làm tôi thấy khá dễ chịu. Ch
 
 "...A. Nó đằng kia rồi."
 
-"Hả? Đâu cơ? Ở đâu ạ?" Alize ngoẹo đầu nhìn quanh, cất tiếng hỏi.
+"Hả? Đâu cơ? Ở đâu?" Alize ngoẹo đầu nhìn quanh, cất tiếng hỏi.
 
 Trên tay cô bé cầm một con dao găm nhỏ, chắc là để phòng thân. Cẩn thận cũng chẳng thừa, bởi dù yếu đến mấy thì đó vẫn là quái vật.
 
@@ -168,7 +168,7 @@ Bằng cách nào đó, giữa tôi và con quái vật đã hình thành một 
 
 Tôi hạ dao xuống rồi rón rén, cẩn trọng bước lại gần. Con Puchi Suri vẫn đứng bất động, dán chặt mắt vào tôi.
 
-"Ơ...? Khoan... Gì thế này? Chuyện này là sao ạ?"
+"Ơ...? Khoan... Gì thế này? Chuyện này là sao?"
 
 Tiếng Alize hốt hoảng xen lẫn bối rối vang lên sau lưng tôi. Đến chính tôi còn chưa hiểu hết chuyện gì đang diễn ra trước mắt nữa là. Nhưng con Puchi Suri thì vẫn cứ im lìm đứng nhìn tôi như thế.
 
@@ -176,7 +176,7 @@ Tiếng Alize hốt hoảng xen lẫn bối rối vang lên sau lưng tôi. Đ�
 
 Như hiểu được lời tôi, con quái vật ngoan ngoãn xoay tròn ba vòng tại chỗ. Chứng kiến cảnh đó, Alize lại càng hoang mang tợn.
 
-"Hả? Ơơơ? Chuyện gì thế này ạ?"
+"Hả? Ơơơ? Chuyện gì thế này?"
 
 Giờ thì tôi đã hiểu ngọn ngành mọi chuyện.
 
@@ -202,13 +202,13 @@ Dĩ nhiên, nói thẳng chuyện đó với Alize thì chẳng hay ho gì. Ch�
 
 "Truyền sang" là một thuật ngữ cổ mang tính chuyên môn của giới thuần hóa quái vật, dùng để chỉ khoảnh khắc ma pháp đặc thù của họ khống chế được tâm trí quái vật, biến nó thành đầy tớ ngoan ngoãn. Về cơ bản, tôi đang muốn thuyết phục Alize tin rằng chuyện vừa rồi là thuật thuần hóa quái vật, chứ không phải tôi biến nó thành quyến thuộc.
 
-"Ơ...? Thế nghĩa là sao ạ?"
+"Ơ...? Thế nghĩa là sao?"
 
 Xem ra Alize chẳng biết mấy về những người thuần hóa quái vật. Trái lại, nghe tôi nói xong, trông cô bé còn bối rối hơn trước.
 
 Tôi gật đầu giải thích: "Tôi đã... thành công rồi. Đã thuần hóa và khống chế tâm trí... của con quái vật đó."
 
-"Vậy là... anh là người thuần hóa quái vật... biết điều khiển quái vật sao ạ?" Alize bắt đầu lờ mờ hiểu ra.
+"Vậy là... anh là người thuần hóa quái vật... biết điều khiển quái vật sao?" Alize bắt đầu lờ mờ hiểu ra.
 
 Tôi tuyệt nhiên chẳng phải người thuần hóa quái vật nào cả, nhưng nói thế này thì có thể kiểm soát những gì Alize biết một cách an toàn. Chỉ cần tìm hiểu đôi chút là em sẽ phát hiện ngay tôi không phải nghề đó, nên tôi mới nói thêm:
 
@@ -218,7 +218,7 @@ Tôi tuyệt nhiên chẳng phải người thuần hóa quái vật nào cả, 
 
 Dù thuật thuần hóa quái vật là ngón nghề bí truyền thường không bao giờ truyền dạy cho người ngoài hội kín của họ, nhưng Alize đâu cần biết điều đó. Kể cả sau này cô bé có tìm hiểu về tôi đi chăng nữa, cũng chẳng có cách nào phủ nhận một chuyện như vậy là có thể xảy ra. Thế là không còn vấn đề gì nữa.
 
-"Thế thì..." Alize hỏi tiếp, "giờ con quái vật đó an toàn rồi chứ ạ? Nó sẽ không tấn công tụi em nữa chứ?"
+"Thế thì..." Alize hỏi tiếp, "giờ con quái vật đó an toàn rồi chứ? Nó sẽ không tấn công tụi em nữa chứ?"
 
 Đến câu hỏi này thì tôi có thể trả lời thành thật được rồi.
 
@@ -228,6 +228,6 @@ Một nơi lạnh lẽo, ẩm thấp lại hay thu hút quái vật mò vào... 
 
 Dù sao thì căn hầm giờ cũng có một người gác cổng mới. Có điều trông Alize vẫn chưa tin tưởng cho lắm.
 
-"Anh chắc chứ...? Chuyện nó không bất thình lình quay lại cắn vào mông tụi em ấy? Thật sự chắc chứ ạ?"
+"Anh chắc chứ...? Chuyện nó không bất thình lình quay lại cắn vào mông tụi em ấy? Thật sự chắc chứ?"
 
 Bất chấp những nghi ngờ và sự thiếu tin tưởng hiện rõ trên mặt, sau vài lần thử vẫy tay và chọc chọc vào nó, cuối cùng Alize cũng chịu xuôi lòng và đặt chút niềm tin vào con chuột quái vật ngoại cỡ vừa sống lại thành quyến thuộc của tôi.
