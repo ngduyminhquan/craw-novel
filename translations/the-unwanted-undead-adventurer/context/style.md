@@ -32,6 +32,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 6. **Miêu tả Undead dạng xương.** Khô Lâu hoặc sinh vật chỉ có xương thì không tả là "cơ bắp" (`physical strength` → "sức mạnh thể chất / lực đòn đánh").
 7. **Giọng Loris Cariello và Isabel.** Loris là chủ quán ăn bình dân, xởi lởi, hay dùng từ đệm dò ý ở cuối câu ("yeah?" → "chứ hả", "nhé", "được không"); Isabel tháo vát, chăm chỉ, xưng hô vợ chồng tự nhiên ("mình ơi", "nhà tôi"), giao tiếp với người ngoài giữ phép lịch sự nhưng thẳng thắn, không khách sáo màu mè.
 8. **Bản năng Undead trỗi dậy và tâm lý tự giễu của Lorraine.** Khi Rentt bị bản năng quái vật chi phối, độc thoại nội tâm giằng xé giữa cơn thèm khát dã tính và lý trí con người, diễn đạt bằng các câu cụt dồn dập, ngắt quãng. Lorraine khi đối diện việc bị tấn công vẫn giữ thái độ thực tế, sắc sảo và dí dỏm tự giễu ("damaged goods" → "hàng có tì vết"), không bi lụy hay hoảng loạn thái quá.
+9. **Giọng kỵ sĩ quý tộc (Idoles Rogue).** Lịch thiệp, chuẩn mực quý tộc khi giao tiếp với người lạ ("xin thứ lỗi", "chẳng hay", "rất cảm kích"), khiêm nhường và thẳng thắn, không dùng giọng trịch thượng hay kẻ cả dù là tinh anh của Đệ Nhất Kỵ Sĩ Đoàn.
 
 ## Từ cảm thán / cách nói cố định
 
