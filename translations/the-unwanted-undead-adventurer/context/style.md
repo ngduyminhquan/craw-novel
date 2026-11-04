@@ -86,6 +86,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (86) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về ủy thác dùng Thần Lực siêu thoát cho linh hồn chú chuột Sweetpea của Phu nhân Emilstead và phát hiện Lorraine cùng Edel bí mật cài cắm nội gián vào dinh thự.
 - (87) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời mới vài năm vào nghề mạo hiểm giả, nhận ủy thác dọn dẹp nhà cửa mùa xuân và hướng dẫn một tân binh mới vào nghề.
 - (88) Mở đầu Tập 4: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về việc cân đối tài chính sau khi bán xác Tarasque, chuẩn bị trang bị cho Alize và lên kế hoạch tự kiếm nguyên liệu tại Mê Cung Tân Nguyệt.
+- (89) Kể theo ngôi thứ nhất ("tôi") của Rentt Faina về cuộc trò chuyện với Lorraine quanh giá trị mẫu máu Ma Cà Rồng, kế hoạch chế tạo vũ khí đầu tay cho đệ tử Alize, và cảnh Edel thực chiến độc lập tại Mê Cung Tân Nguyệt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
