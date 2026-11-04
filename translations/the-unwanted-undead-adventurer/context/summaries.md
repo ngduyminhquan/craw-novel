@@ -1430,6 +1430,13 @@ Ferrici dẫn nhóm Rentt đi an toàn xuyên qua bãi sinh sản của Phi Long
 Nhóm hạ cánh an toàn xuống tảng đá lơ lửng và được Ferrici dẫn tới một tổ Phi Long; Lorraine thích thú quan sát cảnh chim mẹ mớm mồi cho con non cùng những quả trứng khổng lồ và lỡ buông lời đùa muốn đập trứng chiên khiến Ferrici lườm nguýt.
 Cảnh kết thúc: Sau khi Lorraine vội vàng xin lỗi và phân trần chỉ nói đùa chứ không tài nào ăn hết quả trứng to như vậy, ánh mắt hình viên đạn của Ferrici mới bớt gay gắt.
 
+## 243
+Ferrici dẫn nhóm Rentt tới thu hoạch lanh Phi Long mọc tốt tươi khổng lồ nhờ phân Phi Long bón; Rentt xin thu hoạch thêm vài cây lớn dùng riêng rồi cả nhóm cưỡi Phi Long hạ cánh an toàn xuống mặt đất.
+Ferrici tiếp tục dẫn đường cho nhóm tới một con suối nhỏ trên vách đá ven hồ nơi có đàn Aqua Hathur sinh sống; Rentt và Augurey đeo ma cụ lao vào bắt sống nhưng bị con mèo nước liên tục phóng đao nước (tương tự ma pháp Yidle Swiffof) cản đường và trơn tuột tháo chạy.
+Rentt và Augurey phối hợp lùa con Aqua Hathur chạy vào ngõ cụt đá nơi Lorraine đã bố trí sẵn bẫy ma pháp trận phóng điện giam giữ; con thú bị giật điện ngất xỉu và được Lorraine dùng găng tay nhốt an toàn vào lồng ma cụ chuyên dụng.
+Cảnh kết thúc: Nhìn thấy Ferrici tỏ vẻ thương cảm cho con mèo nước bé nhỏ trong lồng điện, Lorraine lên tiếng trấn an rằng nó sẽ được một quý bà quý tộc ở vương đô nhận nuôi chu đáo với vòng cổ phong ấn ma pháp, khiến Ferrici thở phào nhẹ nhõm.
+
+
 
 
 

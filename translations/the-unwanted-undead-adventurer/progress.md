@@ -247,7 +247,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 240 |  | Chapter_240 - Vol 10 Chapter 4 - The Arrival (6).txt | Vol 10 Chapter 4 - The Arrival (6) | reviewed |  |
 | 241 |  | Chapter_241 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1) | done |  |
 | 242 |  | Chapter_242 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2) | done |  |
-| 243 |  | Chapter_243 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3) | todo |  |
+| 243 |  | Chapter_243 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3) | done |  |
 | 244 |  | Chapter_244 - Vol 11 Chapter 1 - Surprise Attack (1).txt | Vol 11 Chapter 1 - Surprise Attack (1) | todo |  |
 | 245 |  | Chapter_245 - Vol 11 Chapter 1 - Surprise Attack (2).txt | Vol 11 Chapter 1 - Surprise Attack (2) | todo |  |
 | 246 |  | Chapter_246 - Vol 11 Chapter 1 - Surprise Attack (3).txt | Vol 11 Chapter 1 - Surprise Attack (3) | todo |  |
@@ -346,8 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -891,3 +889,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#240] Xưng hô giữa vợ chồng Leo và Lenora — tạm chọn Lenora gọi Leo là 'anh / mình' - xưng 'em', Leo gọi 'Lenora / em' - xưng 'anh' (phương án khác: xưng hô 'mình - mình' hoặc 'ông nó - bà nó'). Tạm dùng trong bản dịch: Lenora gọi Leo là 'anh / mình', xưng 'em'; Leo gọi 'Lenora / em', xưng 'anh'. → Giữ Lenora gọi Leo là 'anh / mình', xưng 'em'; Leo gọi 'Lenora / em', xưng 'anh'. (orchestrator)
 - [#242] Dịch 'dragon knight' (chức nghiệp) — tạm chọn 'kỵ sĩ rồng' (phương án khác: 'Long Kỵ Sĩ'). → Chốt 'kỵ sĩ rồng' (nhất quán với Dragon → Rồng, kỵ sĩ Goblin, và đặt song hành tự nhiên với 'người trông chuồng Phi Long' trong ngữ cảnh nghề nghiệp thông thường). (orchestrator)
 - [#242] Xưng hô Ferrici với Lorraine Vivie — tạm chọn xưng 'em', gọi 'chị / chị Lorraine' do đã thân thiết và chịu ơn (phương án khác: giữ 'tôi - chị' như lúc mới quen ở #235). → Chốt xưng 'em', gọi 'chị / chị Lorraine' từ chương 241 (nhất quán với chương 241 và phù hợp lứa tuổi thiếu nữ trong làng mang ơn nhóm Rentt). (orchestrator)
+- [#243] Dịch tên ma pháp 'Yidle Swiffof' (ma pháp thủy hệ con người tạo lưỡi đao nước) — tạm chọn giữ nguyên 'Yidle Swiffof' theo quy tắc câu chú trong rules.md (phương án khác: 'Đao Nước Yidle Swiffof', dịch nghĩa). Tạm dùng trong bản dịch: 'Yidle Swiffof'. → Chốt giữ nguyên 'Yidle Swiffof' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp trong rules.md (như Foteia Borivaas, Gie Vieros). (orchestrator)
