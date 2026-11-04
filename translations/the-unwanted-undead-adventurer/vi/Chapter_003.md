@@ -12,7 +12,7 @@ Khô Lâu—
 
 Suốt bao năm làm mạo hiểm giả, tôi từng đụng độ lũ này không biết bao nhiêu lần. Ấy thế mà lúc này, có lẽ vì đã đổi vị thế, tôi bỗng thấy sự tồn tại của chúng thật đáng ghê tởm.
 
-Sinh vật sống một khi đã thành đống xương tàn thì tuyệt đối không thể nào gượng dậy được nữa. Vậy mà con Khô Lâu trước mặt tôi vẫn cứ đi lại bình thường, ngang nhiên thách thức quy luật sinh tử thiêng liêng. Càng nhìn, tôi càng thấy bản thân sự tồn tại của giống loài này chính là một trò bỡn cợt đối với tự nhiên.
+Sinh vật sống một khi đã thành đống xương khô thì tuyệt đối không thể nào đứng dậy được nữa. Vậy mà con Khô Lâu trước mặt tôi vẫn cứ đi lại bình thường, ngang nhiên thách thức quy luật sinh tử thiêng liêng. Càng nhìn, tôi càng thấy bản thân sự tồn tại của giống loài này chính là một trò bỡn cợt đối với tự nhiên.
 
 Bất giác tôi nghĩ, trong mắt những người khác, chắc mình cũng chẳng khác gì thế này. Dù có tính xuôi tính ngược thế nào đi nữa, trở về Maalt với bộ dạng hiện tại là chuyện không tưởng.
 
@@ -22,7 +22,7 @@ Một cơn bàng hoàng lại ập đến—thực tế rằng mình không còn
 
 Dù cảm giác như mình đã quen với chuyện biến thành Khô Lâu, dường như vẫn còn nhiều điều quanh sự biến chuyển này khiến tôi bận lòng. Nói đúng hơn, lúc này tôi còn thấy chùn bước hơn bao giờ hết.
 
-Dẫu vậy, tôi chẳng còn cách nào ngoài tiến về phía trước. Tôi phải hạ gục con Khô Lâu này và tiến hóa thành Ngạ Quỷ bằng mọi giá! Nghĩ vậy, tôi dồn hết sức bình sinh, lấy đà lao thẳng về phía con Khô Lâu trước mặt—
+Dẫu vậy, tôi chẳng còn cách nào ngoài tiến về phía trước. Tôi phải hạ gục con Khô Lâu này và tiến hóa thành Ngạ Quỷ bằng mọi giá! Nghĩ vậy, tôi xốc lại tinh thần, lấy đà lao thẳng về phía con Khô Lâu trước mặt—
 
 Ít nhất thì tôi đã muốn làm thế. Tốc độ tôi lao về phía con Khô Lâu kia, nói thẳng ra là chậm đến thảm hại. Người ta có thể gọi đó là một kiểu chạy, hoặc có lẽ là chạy bộ túc tắc. Tuy nhiên, tốc độ di chuyển đó quả thực còn lâu mới đạt chuẩn—chẳng giống nhịp điệu của một trận chiến chút nào.
 
@@ -52,13 +52,13 @@ Tôi không khỏi bật cười trước cảnh tượng bi hài này. Ít nh�
 
 Như thể nổi giận trước điệu cười khô khốc của tôi, con Khô Lâu ấn mạnh khúc xương vừa rụng vào lại khớp, rồi bật dậy lao thẳng về phía tôi lần nữa. Có vẻ lần này nó định làm thật rồi.
 
-Chuyện này chẳng có gì hay ho cả—chắc chắn là không. Tuy Khô Lâu là quái vật yếu, nhưng tốc độ và sức mạnh của nó vẫn thừa sức đoạt mạng một người đàn ông trưởng thành—dĩ nhiên là trừ giới mạo hiểm giả ra. Dẫu thế, ngay cả một mạo hiểm giả Thiết Cấp yếu nhất mà dính trọn một đòn thì cũng thương tích đầy mình.
+Tình hình này chẳng ổn chút nào, chắc chắn là vậy. Tuy Khô Lâu là quái vật yếu, nhưng tốc độ và sức mạnh của nó vẫn thừa sức lấy mạng một người đàn ông trưởng thành—dĩ nhiên là trừ giới mạo hiểm giả ra. Dù vậy, ngay cả một mạo hiểm giả Thiết Cấp yếu nhất mà dính trọn cú lao đó thì cũng bị thương nặng.
 
 Trong lúc tôi còn mải nghĩ ngợi, con Khô Lâu đã tông thẳng vào người, làm cả hai ngã lăn cù ra đất. Tôi sốt vó tìm cách phản công vì đinh ninh rằng nếu cứ nằm yên chịu trận, nó sẽ lấy mạng mình ngay tức khắc. Nhưng xem ra chẳng cần phải lo đến thế.
 
 Lý do rất đơn giản: con Khô Lâu kia chẳng hề tấn công. Có lẽ nhờ kết hợp nhiều yếu tố, từ đà lao của nó cho tới góc cầm kiếm tình cờ của tôi, thanh kiếm đã cắm ngập vào hộp sọ của nó. Đúng là một sự may mắn trời cho.
 
-Thế nhưng chừng đó vẫn chưa đủ—dù sao kẻ thù cũng là quái vật Undead. Trái lại, con Khô Lâu trông có vẻ bực mình vì tầm nhìn bị thanh kiếm cắm trong hốc mắt che khuất, hơn là bận tâm đến chuyện có một món vũ khí kim loại sắc bén đang găm giữa sọ. Và rõ ràng nó còn lâu mới chịu chết.
+Thế nhưng chừng đó vẫn chưa đủ—dù sao kẻ thù cũng là quái vật Undead. Nhìn kỹ thì con Khô Lâu trông có vẻ bực mình vì tầm nhìn bị thanh kiếm cắm trong hốc mắt che khuất, hơn là bận tâm đến chuyện có một món vũ khí kim loại sắc bén đang găm giữa sọ. Và rõ ràng nó còn lâu mới chịu chết.
 
 Từ những gì chứng kiến nãy giờ, có thể thấy loài Khô Lâu chẳng có mấy trí khôn hay tư duy logic, dù hình thù của chúng khá giống con người. Con Khô Lâu vừa lao vào tôi là ví dụ điển hình: nó hoàn toàn lúng túng trước tình cảnh hiện tại và dường như không biết phải làm gì tiếp theo.
 
@@ -72,13 +72,13 @@ Bằng mọi giá, tôi phải truyền thêm được sức mạnh vào chuôi 
 
 Gạt cái mớ tưởng tượng vô bổ ấy đi, tôi sực nhớ mình chí ít cũng nên thử dùng một trong những năng lực tích lũy được từ thời còn sống. Dù sao thì tôi cũng đâu phải Khô Lâu bình thường, tội gì không tận dụng triệt để điều đó.
 
-Tôi cứ mải bận tâm chuyện mình biến thành Khô Lâu mà quên khuấy mất rằng thời còn sống, tôi từng hạ gục không biết bao nhiêu con Khô Lâu rồi. Thực tế, trước kia tôi thừa sức hạ chúng chỉ bằng sức mạnh cơ bắp đơn thuần. Chưa kể trong tay tôi còn có Ma Lực, Khí Lực và Thần Lực để tùy nghi sử dụng.
+Tôi cứ mải bận tâm chuyện mình biến thành Khô Lâu mà quên khuấy mất rằng thời còn sống, tôi từng hạ gục không biết bao nhiêu con Khô Lâu rồi. Thực tế, trước kia tôi thừa sức hạ chúng chỉ bằng sức lực đơn thuần. Chưa kể trong tay tôi còn có Ma Lực, Khí Lực và Thần Lực để dùng bất cứ lúc nào.
 
 Dù một con Khô Lâu bình thường không nhận thức được, nhưng cử động của chúng thực chất cũng vận hành bằng ma thuật. Nhờ vậy, chúng sở hữu tốc độ và sức mạnh vượt trội hơn người thường, và đó là lý do chúng bị xếp vào hàng quái vật. Đã không còn là con người, tôi nghĩ mình cũng nên tận dụng tối đa những khả năng mới dưới thân phận quái vật này.
 
 Trong ba nguồn năng lượng tôi nắm giữ, Khí Lực là thứ thích hợp nhất để cường hóa sức mạnh thể chất thuần túy—và vì thế, cũng phù hợp nhất với tình cảnh lúc này.
 
-Thông suốt suy nghĩ, tôi bắt đầu tập trung, vận Khí Lực bao bọc lấy cơ thể. Lần cuối cùng dùng năng lực này là khi trên người còn đầy đủ da thịt chứ không phải một đống xương khô thế này, nên tôi cũng chẳng dám chắc liệu nó có tác dụng hay không. Nhưng đằng nào cũng phải thử một phen. Nếu không được thì đành cậy vào sức trâu vậy. Còn nếu thành công thì...
+Thông suốt suy nghĩ, tôi bắt đầu tập trung, vận Khí Lực bao bọc lấy cơ thể. Lần cuối cùng dùng năng lực này là khi trên người còn đầy đủ da thịt chứ không phải một đống xương khô thế này, nên tôi cũng chẳng dám chắc liệu nó có tác dụng hay không. Nhưng đằng nào cũng phải thử một phen. Nếu không được thì đành cậy vào sức chay vậy. Còn nếu thành công thì...
 
 Hồi còn sống, tôi vốn nổi tiếng là kẻ luôn dấn bước dù tình cảnh có đen tối đến đâu. Đã tới nước này thì đời nào tôi chịu bỏ cuộc.
 
@@ -92,7 +92,7 @@ Dù trận mở màn diễn ra vụng về và đáng xấu hổ hết chỗ nó
 
 Dù chẳng còn nhanh nhẹn hay khỏe khoắn như thời còn sống, tôi vẫn vận dụng được những năng lực sẵn có để giành lấy chiến thắng chật vật này. Có khi mình làm cũng không đến nỗi tệ như tưởng tượng.
 
-Nghĩ vậy, tôi ngả người ra sau, trong lòng dâng lên cảm giác nhẹ nhõm lẫn lộn.
+Nghĩ vậy, tôi ngả người ra sau, trong lòng dâng lên một cảm giác vừa nhẹ nhõm vừa ngậm ngùi.
 
 ◆◇◆◇◆
 
@@ -120,11 +120,11 @@ Chẳng hạn, nếu sự tiến hóa thực sự diễn ra chỉ bằng việc 
 
 Chính vì thế, những cuốn sách tôi từng đọc đều đúc rút rằng hiếm có quái vật nào trải qua Tiến Hóa Bản Thể một cách thường xuyên. Nói nôm na, đây không phải chuyện diễn ra dễ dàng hay chóng vánh. Có lẽ phải tiêu diệt một lượng lớn kẻ địch trước, trong đó có những kẻ vượt trội hơn về sức mạnh, hoặc phải sống sót qua một khoảng thời gian nhất định thì điều đó mới xảy ra.
 
-Còn với tôi, bản thân mới chân ướt chân ráo thành quái vật, lại vừa phải trầy trật lắm mới hạ được một con Khô Lâu. Chắc còn lâu cơ hội tiến hóa mới gõ cửa tìm tôi—đoán thế cũng hoàn toàn hợp lý. Trái lại, tôi nên thấy biết ơn vì mình đã mạnh lên đôi chút, nhất là khi luồng sinh lực dồi dào cùng sự gia tăng nhẹ của các nguồn năng lượng đã chứng minh điều đó.
+Còn với tôi, bản thân mới chân ướt chân ráo thành quái vật, lại vừa phải trầy trật lắm mới hạ được một con Khô Lâu. Chắc còn lâu cơ hội tiến hóa mới gõ cửa tìm tôi—đoán thế cũng hoàn toàn hợp lý. Đúng ra, tôi nên thấy biết ơn vì mình đã mạnh lên đôi chút, nhất là khi luồng sinh lực dồi dào cùng sự gia tăng nhẹ của các nguồn năng lượng đã chứng minh điều đó.
 
 Hồi còn sống, tôi từng rèn luyện ròng rã ngày này qua tháng nọ mà chẳng thu lại được bao nhiêu, nên cái thành quả thấy ngay trước mắt sau trận đấu vừa rồi dễ chịu hơn nhiều. Chỉ cần hạ một kẻ thù duy nhất là tôi đã mạnh thêm một chút.
 
-Cứ theo đà này thì càng giao tranh nhiều, các trận sau sẽ càng dễ thở hơn—tôi nghĩ suy luận đó hoàn toàn có lý. Dĩ nhiên, chẳng có gì đảm bảo rằng trăm trận thì tôi sẽ trăm thắng. Ngay trận đầu tiên này tôi cũng ăn may khối phần.
+Cứ theo đà này thì càng giao tranh nhiều, các trận sau sẽ càng dễ thở hơn—tôi nghĩ suy luận đó hoàn toàn có lý. Dĩ nhiên, chẳng có gì đảm bảo rằng trăm trận thì tôi sẽ trăm thắng. Ngay trận đầu tiên này tôi cũng nhờ may mắn không ít.
 
 Thôi thì, sau cùng vẫn là tôi phải thử sức hạ thêm nhiều quái vật khác quanh khu vực này. Ít nhất cũng phải cố xem sao.
 

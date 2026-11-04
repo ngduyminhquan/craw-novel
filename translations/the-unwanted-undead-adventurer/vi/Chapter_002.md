@@ -6,19 +6,19 @@ Trước hết, chắc chắn là tôi đã bị con Rồng nuốt chửng rồi
 
 À mà không. Tôi còn chẳng dám chắc—liệu mình có còn được tính là đang sống không nữa? Khô Lâu là một loại quái vật Undead, thứ sinh vật vốn dĩ đã chết một lần. Vì thế, các giám mục và tư tế của Giáo Hội có thể dễ dàng trừ khử chúng chỉ bằng ma pháp thanh tẩy cơ bản. Nói đúng hơn thì chúng là loại quái vật yếu ớt đến thảm hại.
 
-Lý do Khô Lâu dễ bị thanh tẩy rất đơn giản: chỉ là một đống xương biết đi, chúng sinh ra đã đi ngược lại ý muốn của thần linh. Lại có cách giải thích còn mộc mạc hơn: "chúng đã chết, mà đã chết thì không thể tồn tại trên cõi đời này." Ngắn gọn mà chuẩn xác. Việc ngang nhiên chống lại quy luật sinh tử của thần thánh rõ ràng là lý do chính khiến chúng yếu ớt trước loại ma pháp kể trên.
+Lý do Khô Lâu bị thanh tẩy rất đơn giản: vốn chỉ là một đống xương biết đi, sự tồn tại của chúng đi ngược lại lẽ tự nhiên của thần linh. Lại có cách giải thích còn đơn giản hơn: "chúng đã chết, mà đã chết thì không được phép tồn tại trên cõi đời này." Ngắn gọn mà chuẩn xác. Việc cứ ngang nhiên đi ngược lại quy luật sinh tử của thần thánh rõ ràng là lý do chính khiến chúng dễ bị khắc chế bởi thứ ma pháp đó.
 
 Bản thân tôi chẳng rõ những lý lẽ ấy có đúng hay không, vì vốn dĩ tôi đâu phải giám mục hay tư tế. Dẫu vậy, nghe qua thì thấy cũng có lý, mà với tôi lúc này, đó lại là thông tin quan trọng sống còn.
 
-Nói toẹt ra, nếu cứ theo logic ấy thì chắc chắn tôi đã chết ngắc rồi. Hay chính xác hơn, tôi đang tồn tại trên đời như một đống xương đã chết. Tình cảnh này quả thực tệ, cực kỳ tệ.
+Nói thẳng ra, nếu cứ suy theo cái lý đó thì tôi chắc chắn đã chết, chết thật sự rồi. Hay đúng hơn, tôi đang tồn tại trên đời dưới dạng một đống xương khô đã chết. Chuyện này quả thực cực kỳ, cực kỳ tệ.
 
-Như tôi vừa nói lúc nãy, một kẻ đã chết mà vẫn tiếp tục tồn tại thì rõ ràng là phạm phải những giới luật nghiêm ngặt của thần thánh. Giờ mà tôi cứ thong thả cuốc bộ về thị trấn rồi tạt vào quán rượu như chưa hề có chuyện gì, kết cục chắc chắn sẽ chẳng ra sao. Dù tôi có ra sức thanh minh mình là Rentt Faina, thì chỉ cần một gã tư tế ất ơ nào đó cắm cọc ở quán rượu từ sáng tới tối tình cờ bắt gặp, gã sẽ dùng quyền trượng đập tôi tan xác ngay tắp lự. Nếu chuyện đó xảy ra, chút tàn tích này của tôi cũng bị xoá sổ sạch trơn. Đó là điều tôi nhất quyết phải tránh bằng được.
+Như tôi vừa nói lúc nãy, một kẻ đã chết mà vẫn tiếp tục tồn tại thì rõ ràng là thách thức những quy luật nghiêm ngặt của thần thánh. Giờ mà tôi cứ thế thong thả đi bộ về thị trấn rồi bước vào quán rượu như chưa hề có chuyện gì, kết cục chắc chắn sẽ chẳng lành. Dù tôi có ra sức thanh minh mình là Rentt Faina, thì chỉ cần một gã tư tế ất ơ nào đó chuyên ngồi đồng ở quán rượu từ sáng tới tối tình cờ bắt gặp, gã sẽ lập tức dùng quyền trượng khử tôi ngay. Nếu chuyện đó xảy ra, tôi sẽ bị xóa sổ hoàn toàn khỏi cõi đời này. Đó là kết cục tôi nhất quyết phải tránh bằng mọi giá.
 
 Tình cảnh "trơ xương" của tôi đại khái là thế. Nhưng nhìn theo hướng tích cực thì tôi vẫn còn sống. Dù có đang tồn tại như một Khô Lâu và đi ngược lại quy luật sinh tử, thì ít nhất ý thức của tôi vẫn nguyên vẹn; tôi vẫn đang sống sờ sờ ra đấy thôi. Chính vì thế, tôi càng không thể cứ vô tư mò về thị trấn rồi rước lấy cái chết lãng xẹt.
 
 Vậy thì, giờ tôi phải làm gì? Đó mới là câu hỏi cấp bách nhất.
 
-Nơi này là Mê Cung Nguyệt Ảnh; các mạo hiểm giả chắc chắn vẫn sẽ tìm đến như mọi khi, vui vẻ vung kiếm hạ gục bất cứ con quái vật nào bắt gặp dọc đường. Dù đây là mê cung dành cho người mới với lũ quái vật tương đối yếu, vẫn thường có những mạo hiểm giả mạnh hơn tôi lui tới. Nếu ló mặt ra trước những người như thế, chắc chắn tôi sẽ bị diệt trừ—và lần này là đi tong luôn.
+Nơi này là Mê Cung Nguyệt Ảnh; các mạo hiểm giả chắc chắn vẫn sẽ tìm đến như mọi khi, vui vẻ vung kiếm hạ gục bất cứ con quái vật nào bắt gặp dọc đường. Dù đây là mê cung dành cho người mới với lũ quái vật tương đối yếu, vẫn thường có những mạo hiểm giả mạnh hơn tôi lui tới. Nếu ló mặt ra trước những người như thế, chắc chắn tôi sẽ bị giết ngay—và lần này là chết hẳn luôn.
 
 Rốt cuộc thì, mình phải làm gì bây giờ...?
 
@@ -40,15 +40,15 @@ Tôi sẽ tìm mọi cách để kích hoạt Tiến Hóa Bản Thể. Tôi, Ren
 
 ◆◇◆◇◆
 
-Tiến Hóa Bản Thể từ Khô Lâu lên Ngạ Quỷ là việc đầu tiên tôi phải tính tới. Quyết là vậy, nhưng tôi lại chẳng rõ thực lực chiến đấu hiện tại của mình ra sao. Vốn dĩ tôi chỉ là một mạo hiểm giả Hạ Đồng Cấp mấp mé ở đáy bảng của Hội. Dù vậy, tôi vẫn khá khẩm hơn đám mạo hiểm giả Thiết Cấp chân ướt chân ráo mới vào nghề. Đánh giá một cách khách quan, tôi thừa sức hạ một hai con Goblin hay Khô Lâu trong ngưỡng an toàn. Ít nhất chừng đó tôi vẫn làm được—
+Tiến Hóa Bản Thể từ Khô Lâu lên Ngạ Quỷ là việc đầu tiên tôi phải tính tới. Quyết là vậy, nhưng tôi lại chẳng rõ khả năng chiến đấu của mình tới đâu. Vốn dĩ tôi chỉ là một mạo hiểm giả Hạ Đồng Cấp, đứng ở những nấc thang gần như thấp nhất trong Hội. Dù vậy, tôi vẫn khá hơn đám mạo hiểm giả Thiết Cấp chân ướt chân ráo mới vào nghề. Đánh giá khách quan thực lực của mình, việc hạ một hai con Goblin hay Khô Lâu là vừa sức và vẫn nằm trong ngưỡng an toàn. Ít nhất chừng đó tôi vẫn làm được—
 
-Dù chắc cũng khó lòng lành lặn rút lui.
+Dù có lẽ cũng chẳng thể lành lặn hoàn toàn.
 
 Nếu gặp từ ba con trở lên thì hơi chật vật, nhưng kiểu gì tôi cũng xoay xở thắng được. Từ bốn con trở lên thì chắc chắn tôi sẽ co cẳng chạy; còn gặp năm con thì coi như xong đời. Tình hình lúc này của tôi đại loại là thế.
 
-Nhưng bảo tôi yếu thì oan cho tôi quá. Dù mới vào nghề mạo hiểm giả được mười năm nên cũng chẳng dám to còi, nhưng tôi đã miệt mài luyện tập suốt gần hai mươi năm rồi đấy. Thật lòng mà nói, tôi cũng mong được thông cảm đôi chút—khổ luyện chừng ấy năm mà rốt cuộc chỉ làm được có ngần này.
+Nhưng bảo tôi yếu thì cũng hơi bất công. Vốn dĩ tôi cũng chẳng có tư cách cãi lại, vì mới bước chân vào nghề mạo hiểm giả được mười năm nay thôi. Nhưng tôi đã miệt mài luyện tập suốt gần hai mươi năm rồi đấy. Thật lòng mà nói, tôi cũng mong được thông cảm đôi chút—khổ luyện chừng ấy năm mà rốt cuộc chỉ làm được có ngần này.
 
-Nếu hỏi tại sao bỏ bao thời gian công sức mà chẳng gặt hái được gì nhiều, thì câu trả lời rất đơn giản: trữ lượng Ma Lực, Khí Lực hay Thần Lực trong tôi quá ít. Đã vậy, tôi còn thiếu cả khả năng kiểm soát lượng sức mạnh vốn đã còm cõi ấy. Với bất kỳ mạo hiểm giả nào, đây chẳng khác gì một nhược điểm chí mạng.
+Nếu hỏi tại sao bỏ bao thời gian công sức mà chẳng gặt hái được gì nhiều, thì câu trả lời rất đơn giản: trữ lượng Ma Lực, Khí Lực hay Thần Lực trong tôi quá ít. Đã vậy, tôi còn thiếu cả khả năng kiểm soát lượng sức mạnh vốn đã còm cõi ấy. Với bất kỳ mạo hiểm giả mới vào nghề nào, đây chẳng khác gì một nhược điểm chí mạng.
 
 Nói thẳng ra, tôi còn thấy mình đáng được khen vì đã trụ được đến tận nước này ấy chứ.
 
@@ -70,15 +70,15 @@ Mặt khác, ngay cả khi nhận biết được Khí Lực của bản thân, 
 
 Còn tôi, dẫu cảm nhận được sự tồn tại của Khí Lực, tôi lại chẳng đủ sức kiểm soát để vận dụng cho hiệu quả. Dù vậy, tôi vẫn mày mò ra được một chiêu khuếch đại uy lực đòn đánh lên gấp rưỡi, dùng được đúng một lần mỗi ngày—và tôi luôn coi đó là con át chủ bài của mình. Tuy đòn đánh được cường hóa ấy có uy lực đáng kể thật, nhưng đối với một cao thủ Khí Thuật thực thụ thì nó chắc chắn chỉ đáng coi là trò con nít.
 
-Cuối cùng là Thần Lực. Có thể nói thứ này còn hiếm hơn cả Ma Lực, bởi phần lớn người ta chẳng có chút tương thích nào với nó. Tương truyền Thần Lực là thứ được các đấng thiêng liêng như thần linh hay tiên tộc ban phát cho con người. Mang được chút Thần Lực trong người quả thực là điều vô cùng hiếm hoi, và đa số những ai có được ân phước ấy đều làm việc cho Giáo Hội.
+Cuối cùng là Thần Lực. Có thể nói thứ này còn hiếm hơn cả Ma Lực, bởi phần lớn người ta chẳng có chút tương thích nào với nó. Tương truyền Thần Lực là thứ được các đấng thiêng liêng như thần linh hay loài tiên ban phát cho con người. Mang được chút Thần Lực trong người quả thực là điều vô cùng hiếm hoi, và đa số những ai có được ân phước ấy đều làm việc cho Giáo Hội.
 
 Tùy cách sử dụng, Thần Lực có thể phát huy tác dụng qua các thuật trị liệu và thanh tẩy; ở mức cơ bản, người ta dùng nó để chữa lành bệnh tật hoặc thanh tẩy Undead. Những ai sở hữu nguồn Thần Lực dồi dào hơn thậm chí còn có thể thanh tẩy cả những vùng đất uế tạp rộng lớn.
 
-Ngoài ra, vì đây là năng lực do các đấng thiêng liêng ban cho, số ít người may mắn mang Thần Lực còn có thể giao tiếp với tiên tộc và thần linh. Trong vài trường hợp, họ thậm chí còn leo lên những địa vị hiển hách trong xã hội.
+Ngoài ra, vì đây là năng lực do các đấng thiêng liêng ban cho, số ít người may mắn mang Thần Lực còn có thể giao tiếp với loài tiên và thần linh. Trong vài trường hợp, họ thậm chí còn leo lên những địa vị hiển hách trong xã hội.
 
 Một người bình thường chắc chắn sẽ chẳng có lấy một mảy may Thần Lực. Nhưng chẳng hiểu sao trong người tôi lại le lói một chút. Cơ mà chút ít thì vẫn chỉ là chút ít, những chuyện to tát đều nằm ngoài tầm với của tôi.
 
-Nếu tôi nhớ không nhầm, chút Thần Lực ít ỏi này bắt nguồn từ hồi nhỏ, khi chẳng hiểu sao tôi lại đi sửa sang một ngôi miếu xập xệ gần nhà. Các tinh linh ngụ tại ngôi miếu đó chắc thấy vừa mắt nên ban cho tôi chút phước lành, mọi chuyện chỉ có vậy.
+Nếu tôi nhớ không nhầm, chút Thần Lực ít ỏi này bắt nguồn từ hồi nhỏ, khi chẳng hiểu sao tôi lại đi sửa sang một ngôi đền xập xệ ở quê nhà. Các tinh linh ngụ tại ngôi đền đó chắc thấy vừa mắt nên ban cho tôi chút phước lành, mọi chuyện chỉ có vậy.
 
 Từ dạo ấy tôi cũng dùng được chút thần thuật, nhưng tất cả những gì làm được chỉ là lọc sạch nước bẩn để uống cho an toàn, hoặc khử trùng vết thương tránh nhiễm trùng. Còn những chuyện như lập tức khép miệng vết thương hay thanh tẩy cả vùng đất uế tạp thì từ xưa đến giờ tôi hoàn toàn bất lực.
 
@@ -86,7 +86,7 @@ Dù sao thì đây vẫn là kỹ năng sinh tồn hết sức tiện lợi. Đ�
 
 Đấy, lý do tôi chật vật với nghề mạo hiểm giả bằng chút tài cán cỏn con ấy là như thế. Nguồn Ma Lực và Thần Lực trong người quá đỗi ít ỏi, ngay cả tôi cũng tự hiểu mình vốn chẳng sinh ra để làm mạo hiểm giả.
 
-Cũng phải nói thêm rằng, những người có thể điều khiển và sử dụng cả ba loại năng lực là cực kỳ hiếm hoi. Thậm chí tôi còn chưa từng gặp ai giống mình. Đáng tiếc là điều then chốt không nằm ở số lượng mà là độ thuần thục và sức mạnh đến đâu, thành ra bảo tôi xui xẻo tận mạng cũng chẳng sai.
+Cũng phải nói thêm rằng, người có thể điều khiển và sử dụng cả ba loại năng lực là cực kỳ hiếm. Thực tế, tôi chưa từng gặp ai giống mình cả. Chỉ tiếc là cái cốt lõi không nằm ở việc có bao nhiêu loại, mà là thiên phú và sức mạnh cao tới đâu, thành ra bảo tôi cực kỳ xui xẻo cũng chẳng sai.
 
 Đa số những ai nuôi mộng làm mạo hiểm giả thường có thiên phú bẩm sinh vượt trội về một trong ba năng lực—chắc cũng phải đến một nửa số đó. Còn kẻ dở dở ương ương như tôi đúng là của hiếm. Lẽ ra những người như tôi chỉ nên chọn một công việc bình thường, chẳng dính dáng tới đao kiếm, rồi cứ thế sống một đời bình yên. Đáng lý tôi cũng nên làm vậy; ít nhất nghĩ lại thì thấy thế.
 
@@ -94,7 +94,7 @@ Thế nhưng, có một điều đã cản tôi làm điều nên làm: tôi ôm
 
 Từ tấm bé, tôi đã luôn theo đuổi và chưa từng ngơi nghỉ—trở thành một mạo hiểm giả Mithril Cấp. Đã đi tới nước này, đời nào tôi chịu buông xuôi.
 
-Nhưng cái giá cho giấc mơ lớn lao ấy lại là việc tôi trôi dạt thành một dạng Khô Lâu thế này đây. Dẫu lúc này chẳng còn gì để bào chữa, tôi vẫn không cảm thấy mình nên bỏ cuộc.
+Nhưng kết cục của việc theo đuổi giấc mơ lớn lao ấy là giờ tôi lại biến thành một con Khô Lâu thế này đây. Dù lúc này có nói gì thêm về chuyện đó cũng chẳng ích gì, tôi vẫn không nghĩ mình nên bỏ cuộc.
 
 Bất kể hình thù hiện tại ra sao, rõ ràng tôi vẫn chưa chết hẳn. Dù chẳng rõ vì sao mình còn sống, nhưng chừng nào cơ thể này vẫn cử động được thì tôi thấy mình vẫn còn may chán.
 
@@ -104,7 +104,7 @@ Nghĩ lại thì, làm một Khô Lâu cũng không hẳn toàn chuyện xấu. 
 
 Để cho chắc, tôi thử vận dụng lại mấy năng lực mình từng có khi còn "sống". Ma Lực, Khí Lực và Thần Lực dường như vẫn hoạt động tốt, có vẻ chúng đã theo tôi sang tận thế giới bên kia. Nắm trong tay những lợi thế này, tôi thấy mình có thừa cơ sở để bước tiếp.
 
-Chí ít, tôi vượt trội hơn hẳn một con Khô Lâu thông thường ở tầng này, lũ quái chắc chắn chẳng thể có nổi năng lực nào trong số đó. Chừng này là quá đủ để tôi chiến đấu rồi.
+Ít nhất tôi cũng có lợi thế hơn hẳn đám Khô Lâu thông thường cùng cấp độ, vì chắc chắn chúng chẳng có nổi năng lực nào trong số đó. Với chừng này thì chắc tôi chiến đấu được—thậm chí là quá đủ rồi.
 
 Cũng cần nói rõ là dù ý định tiến hóa thành Ngạ Quỷ nghe chừng đáng sợ, tôi tuyệt đối không có ý định ăn thịt người. Tôi làm vậy chỉ đơn thuần muốn có một hình hài giống người hơn mà thôi.
 
@@ -130,7 +130,7 @@ Tất nhiên, việc tôi có thực sự là quái vật hay không vẫn chưa
 
 Vì thế, việc đầu tiên tôi cần làm là tìm và hạ gục một con quái vật quanh đây.
 
-Còn lũ quái mà một con Khô Lâu tầm thường có thể đả bại... tôi nghĩ ngay tới Slime, Goblin và những con Khô Lâu khác. May thay, chúng đều có trong mê cung này. Dù hiện tại đang ở khu vực chưa từng được khám phá của Mê Cung Nguyệt Ảnh, tôi nhớ mình từng thấy không ít quái vật trên đường tới đây.
+Còn lũ quái mà một con Khô Lâu tầm thường có thể đánh bại... tôi nghĩ ngay tới Slime, Goblin và những con Khô Lâu khác. May thay, chúng đều có trong mê cung này. Dù hiện tại đang ở khu vực chưa từng được khám phá của Mê Cung Nguyệt Ảnh, tôi nhớ mình từng thấy không ít quái vật trên đường tới đây.
 
 Có nhiều giả thuyết về lý do quái vật tồn tại trong mê cung, nhưng tất cả đều thống nhất ở một điểm: một khi bị tiêu diệt, quái vật sẽ tái xuất hiện sau một khoảng thời gian nhất định. Hiện tượng được gọi nôm na là "Tái Sinh Quái" này khiến lũ quái vật tự hồi sinh sau ba mươi phút, vài ngày, hay đôi khi là vài năm. Riêng quái vật yếu trong mê cung thường được ghi nhận là sẽ xuất hiện lại trong vòng khoảng một giờ.
 

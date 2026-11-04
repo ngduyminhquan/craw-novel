@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T23:24:22Z",
+  "generatedAt": "2026-11-04T23:32:08Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2158,19 +2158,19 @@
           "number": 1,
           "title": "Chương 1: Mở đầu Tập 1",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_001.md",
-          "sha": "b8bb23413db0d18e2de05f7275e5efcc35b51171"
+          "sha": "57649f2711b2a25e226101f635741c4576c678ff"
         },
         {
           "number": 2,
           "title": "Chương 2: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_002.md",
-          "sha": "9b1afb48378f1d85e2a6ddea558a3dd999082cae"
+          "sha": "abad746cb17986c2d3c3cde0eb7ae1f6f3fcfb88"
         },
         {
           "number": 3,
           "title": "Chương 3: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_003.md",
-          "sha": "853ec8a7f1103a51c3ddbc0a056f632d3de1c0b5"
+          "sha": "31e3c3afc176dcd98dd46eb202fd205b14861fd2"
         },
         {
           "number": 4,
