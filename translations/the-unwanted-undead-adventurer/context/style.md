@@ -29,6 +29,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 3. **Giọng Rentt.** Bình tĩnh, hay phân tích, hay tự giễu, như một gã mạo hiểm giả từng trải đang kể chuyện cho bạn nghe, không phải đọc diễn văn. Độc thoại dùng tiểu từ ("chứ", "mà", "đấy", "thôi") và câu hỏi tu từ ngắn. Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng, không thêm ý.
 4. **Giọng nhân vật khác.** Lorraine sắc sảo, hay trêu Rentt. Người thô lỗ nói cộc. Chi tiết xem `characters.md` và `pronouns.md`.
 5. **Thoại ngắt quãng thời Ngạ Quỷ.** Sau dấu "." thì viết hoa, sau "..." giữa câu thì viết thường. Đổi xưng hô trong một câu thoại thì đổi cả câu, không để vế đầu "mình", vế sau "tôi".
+6. **Thói quen chốt suy luận của Rentt.** Rentt hay có các câu đúc kết suy nghĩ ngắn ("This is the conclusion I came to", "With that in mind / With that conclusion in mind") trước khi chuyển ý hoặc hành động: chuyển ngữ linh hoạt, khẩu ngữ tự nhiên ("Tôi đã tự nhủ như vậy", "Nghĩ thông suốt", "Nghĩ vậy"), tránh dịch máy rập khuôn "Với kết luận/ý nghĩ đó trong đầu".
 
 ## Từ cảm thán / cách nói cố định
 

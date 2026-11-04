@@ -1,127 +1,127 @@
 # Chương 16: Tập 1 Chương 4 - Mê Cung Nguyệt Ảnh và Những Ràng Buộc Phiền Phức (1)
 
-Tôi đứng trong một lối đi đặc biệt hẹp của Mê Cung Nguyệt Ảnh, đối mặt với hai con Khô Lâu khua xương lách cách chắn ngang đường. Hai con quái vật thong thả tiến sát lại rồi giương tay toan bổ xuống, lúc này chỉ còn cách tôi đúng một bước chân.
+Tôi đứng giữa một đoạn hành lang hẹp trong Mê Cung Nguyệt Ảnh, đối diện hai con Khô Lâu đang khua xương lách cách chắn ngang đường. Chúng thong thả rút ngắn khoảng cách rồi giương tay toan bổ xuống, lúc này chỉ còn cách tôi vỏn vẹn một bước chân.
 
-Thế nhưng tôi đã nhanh tay vung kiếm chém thẳng vào lũ Khô Lâu ngay trước khi đòn tấn công của chúng kịp giáng xuống. Trong chớp mắt, hai con quái vật bị chém ngọt làm đôi, một lần nữa vỡ vụn thành những đống xương tàn vô hồn không còn rõ hình thù. Tôi cúi xuống lục tìm Ma Tinh trong đống xương vụn. Ma Tinh khá nhỏ, chỉ cỡ ngón tay út. Tôi nhét chúng vào chiếc túi nhỏ trên thắt lưng đựng đồ quen thuộc rồi lại tiếp tục cất bước đi sâu vào mê cung.
+Thế nhưng lưỡi kiếm của tôi đâu để yên cho chúng làm vậy, chém phăng hai con Khô Lâu ngay trước khi đòn đánh kịp giáng xuống. Trong chớp mắt, cả hai đứt ngọt làm đôi, một lần nữa vỡ vụn thành những đống xương vụn chẳng còn rõ hình thù. Tôi cúi người bới tìm Ma Tinh trong đống tàn tích. Chúng khá nhỏ, chỉ cỡ ngón tay út. Bỏ Ma Tinh vào chiếc túi trên thắt lưng đồ nghề quen thuộc, tôi lại tiếp tục dấn bước thám hiểm mê cung.
 
-Một ngày sau khi đặt rèn kiếm ở tiệm Ba Chĩa, tôi lại lên đường. Đi đâu ư? Còn nơi nào khác ngoài chỗ đó nữa chứ—
+Một ngày sau khi đặt rèn vũ khí ở tiệm Ba Chĩa, tôi lại lên đường. Hỏi đi đâu ư? Còn nơi nào khác ngoài chỗ đó nữa chứ—
 
-Tôi phải vẽ bản đồ khu vực chưa ai khai phá, nơi lần đầu tiên mình tận mắt nhìn thấy con Rồng. Dù bóng dáng con Rồng giờ đã biệt tăm, chí ít tôi cũng phải đi khảo sát xung quanh. Chỉ báo cáo suông lên Hội thì chưa đủ, khéo họ còn chẳng thèm tin tôi. Bởi vậy, sau khi cân nhắc tình hình, tôi quyết định đích thân tới tận nơi.
+Tôi phải vẽ bản đồ khu vực chưa từng được khám phá, nơi lần đầu tiên mình tận mắt nhìn thấy Rồng. Dù hơi hướng của Rồng giờ đã biệt tăm, chí ít tôi cũng phải đi khảo sát xung quanh. Chỉ báo cáo suông lên Hội thì chẳng ăn thua, khéo họ còn chẳng thèm tin. Bởi vậy, sau khi tính toán thiệt hơn, tôi quyết định tự mình đi một chuyến.
 
-Về phần vũ khí, Clope đã cho tôi mượn một thanh kiếm dùng tạm trong lúc chờ món đồ đặt rèn riêng, lại còn hào phóng bảo không tính tiền mượn. Cây kiếm này tuy dẫn truyền được ma pháp và Khí Thuật nhưng dường như không tương thích với Thần Lực. Dẫu sao nhìn tổng thể, chất lượng của nó vẫn khá ổn, nói đúng hơn là ăn đứt thứ vũ khí tôi dùng từ trước đến giờ. Hơn nữa, nhờ thanh kiếm tương thích với ma pháp và Khí Thuật, tôi có thể thoải mái thi triển các kỹ thuật này mà không cần gượng ép dồn qua lưỡi kiếm. Đúng là tiện lợi hơn trước biết bao nhiêu.
+Về phần vũ khí, Clope đã đưa cho tôi một thanh kiếm dùng tạm trong lúc chờ món đồ đặt rèn riêng, gã còn bảo sẽ không tính tiền mượn. Thanh kiếm này tuy dẫn truyền được ma pháp và Khí Thuật nhưng dường như không tương thích với Thần Lực. Dẫu vậy nhìn chung, chất lượng của nó vẫn dùng tốt, nói đúng hơn là ăn đứt thứ vũ khí tôi dùng trước giờ. Thêm vào đó, nhờ kiếm tương thích với ma pháp và Khí Thuật, tôi có thể thoải mái thi triển các chiêu thức ấy mà không phải gắng gượng ép năng lượng qua lưỡi kiếm. Đúng là đỡ cực hơn trước biết bao nhiêu.
 
-Dù sao tôi cũng là một sinh vật—hay đúng hơn là một mạo hiểm giả—sống theo thói quen. Đặt rèn xong vũ khí mới và giải quyết hết việc vặt rồi, giờ tôi chỉ còn đúng một việc để làm: thám hiểm mê cung.
+Dù sao tôi cũng là kẻ sống theo thói quen, hay nói đúng hơn là một mạo hiểm giả quen nếp cũ. Đặt rèn xong vũ khí mới và thu xếp hết các việc vặt, giờ tôi chỉ còn mỗi một việc để làm: thám hiểm mê cung.
 
-Nghĩ vậy, tôi chuẩn bị đầy đủ mọi thứ cần thiết, báo trước một tiếng với Lorraine rồi đàng hoàng lên đường tới Mê Cung Nguyệt Ảnh.
+Nghĩ vậy, tôi chuẩn bị kỹ càng, báo trước một tiếng với Lorraine rồi lên đường tới Mê Cung Nguyệt Ảnh.
 
 ◆◇◆◇◆
 
 Thế nhưng—
 
-"Oa, cậu thực sự đã cứu tôi một mạng đấy! Tôi đâu ngờ Slime lại biết di chuyển kiểu đó... Cứ nghĩ đến chuyện suýt xảy ra là tôi lại rùng cả mình! Hự!" người đàn ông đi bên cạnh cất tiếng. Vừa sánh bước đi cạnh tôi, ông ta vừa liên tục vỗ bàn tay to bè vào bờ vai khô quắt của tôi, cũng may là đã có lớp áo choàng che kín.
+"Chà, cậu cứu tôi một bàn thua trông thấy đấy! Tôi đâu ngờ Slime lại biết di chuyển kiểu đó... Nghĩ lại chuyện suýt xảy ra mà tôi vẫn rùng cả mình! Hự!" Người đàn ông đi bên cạnh cất tiếng. Vừa rảo bước sóng đôi bên tôi, ông ta vừa liên tục đập bàn tay hộ pháp lên bờ vai khô khốc của tôi, cũng may là đã có lớp áo choàng che lại.
 
-Ông ta trông có vẻ là một kiếm sĩ, tầm chừng bốn mươi tuổi. Quan trọng là "trông có vẻ" thế thôi. Nhìn cách ông ta xoay xở trong trận đánh vừa rồi, có nói nhẹ đi chăng nữa thì vẫn là vụng về chẳng đâu vào đâu. Tôi nhận ra ngay ông ta chẳng có chút căn cơ nào, và hầu như cũng chưa từng tập luyện. Tôi chỉ tình cờ đi ngang qua lúc ông ta đang chật vật với một con Slime. Dù sao đi nữa, tôi đâu thể cứ thế trơ mắt nhìn người ta chết được, phải không?
+Ông ta trạc bốn mươi tuổi, trông bề ngoài có vẻ là một kiếm sĩ. Nhưng mấu chốt nằm ở chỗ chỉ "trông có vẻ" thế thôi. Nhìn các động tác trong trận đánh vừa rồi, xét một cách nhẹ nhàng nhất thì cũng đầy rẫy vấn đề. Tôi nhận ra ngay ông ta chẳng có chút năng khiếu nào, mà cũng gần như chưa từng tập luyện nghiêm túc. Tôi chỉ tình cờ đi ngang qua đúng lúc ông ta đang chật vật hạ một con Slime. Dù sao đi nữa, tôi đâu thể trơ mắt nhìn người ta mất mạng được, phải không?
 
-Dẫu vậy, luật bất thành văn của giới mạo hiểm giả là vào mê cung thì thân ai nấy lo. Chẳng ai có nghĩa vụ phải ra tay cứu giúp đồng nghiệp, kể cả khi đối phương đang rơi vào cảnh thập tử nhất sinh. Nếu có người bỏ mạng trong lúc thám hiểm mê cung, thiên hạ cũng chỉ coi đó là do thực lực kém cỏi và thiếu tính toán, chí ít thì người đời vẫn luôn nhìn nhận như vậy.
+Có điều, luật bất thành văn trong giới mạo hiểm giả là khi vào mê cung, thân ai nấy lo. Chẳng ai có nghĩa vụ phải cứu giúp đồng nghiệp, kể cả khi đối phương rơi vào cảnh ngàn cân treo sợi tóc. Thậm chí nếu một mạo hiểm giả bỏ mạng trong lúc thám hiểm, người ta cũng chỉ tặc lưỡi xem đó là hậu quả của thực lực yếu kém và thiếu toan tính. Ít nhất thì dư luận vẫn luôn nhìn nhận như thế.
 
-Nói là vậy, nhưng mạo hiểm giả rốt cuộc vẫn là con người. Có kẻ bụng dạ hiểm độc thì cũng có người muốn làm việc thiện, và chuyện người ta ra tay giải cứu kẻ gặp hoạn nạn chẳng có gì lạ. Có điều, lúc ấy phải quyết cho thật nhanh, bởi đã có biết bao sinh mạng mất oan chỉ vì người định cứu cứ mãi đắn đo xem có nên nhúng tay vào... hay không.
+Nói đi cũng phải nói lại, mạo hiểm giả rốt cuộc vẫn là con người. Có kẻ bụng dạ hiểm độc thì cũng có người muốn làm việc tốt, nên chuyện họ ra tay cứu giúp người gặp nạn chẳng có gì lạ. Nhưng quyết định như vậy phải đưa ra thật dứt khoát, bởi không ít mạng người đã mất oan chỉ vì kẻ muốn cứu cứ chần chừ quá lâu, mãi đắn đo xem có nên ra tay... hay không.
 
-Kinh nghiệm trong nghề răn dạy rằng trước hết phải lo tự vệ, chỉ giúp người khác khi bản thân còn dư sức. Xét về mặt thực tế, đó là lựa chọn hoàn toàn đúng đắn, bởi mạo hiểm giả tốt nhất đừng tự đẩy mình vào thế bất lợi. Chẳng hạn, nếu có ai liều mình chắn giữa quái vật và con mồi để bảo vệ người gặp nạn, một bi kịch trớ trêu nhưng rất đỗi quen thuộc có thể xảy ra: kẻ vừa được cứu quay lại đâm lén sau lưng ân nhân. Hắn sẽ kết liễu luôn con quái vật đã suy yếu lẫn người cứu mạng đang bị thương, rồi cuỗm sạch trang bị cùng của cải tẩu thoát. Đáng buồn thay, những kẻ mạo hiểm giả vô lương tâm như vậy vẫn luôn tồn tại trên đời.
+Kinh nghiệm sinh tồn của mạo hiểm giả dạy rằng trước hết phải lo tự vệ, chỉ dang tay giúp người khác khi bản thân còn dư sức. Xét về thực tế, đó là lựa chọn hoàn toàn đúng đắn, bởi mạo hiểm giả tốt nhất đừng tự đẩy mình vào thế bất lợi. Chẳng hạn, nếu ai đó liều mình chắn giữa quái vật và con mồi để xả thân bảo vệ người gặp nạn, một bi kịch trớ trêu nhưng rất đỗi quen thuộc có thể xảy ra: kẻ vừa được cứu lại quay sang đâm lén sau lưng ân nhân. Hắn sẽ hạ gục luôn con quái vật đã suy yếu lẫn người cứu mạng đang bị thương, rồi cuỗm sạch trang bị cùng của cải tẩu thoát. Buồn cái là trên cõi đời này, những kẻ mạo hiểm giả mất nhân tính như thế vẫn luôn tồn tại.
 
-Hơn nữa, chứng cứ trong những vụ này rất khó thu thập, chủ yếu vì chẳng hiểu sao mê cung lại có khả năng tự dọn sạch dấu vết. Ruột gan vương vãi hay các mảnh thi thể đều sẽ bị hấp thụ sạch trơn khi một con quái vật mới xuất hiện thế chỗ đồng loại vừa bị hạ, không để lại chút dấu vết nào về kết cục thảm khốc của người đi trước.
+Vả lại, những vụ như thế rất khó tìm ra bằng chứng, phần lớn là do chẳng hiểu vì sao mê cung lại có cơ chế tự làm sạch. Ruột gan vương vãi hay các mảnh thi thể đều bị hấp thu sạch trơn khi một con quái vật mới xuất hiện thế chỗ con vừa bị hạ, không để lại chút dấu tích nào về kết cục thảm khốc của kẻ xấu số.
 
-Chính vì lẽ đó, mạo hiểm giả hầu như chỉ lo thân mình cũng là điều dễ hiểu. Nói đúng hơn, họ luôn phải đề cao cảnh giác và thủ thế dè chừng, bởi đây đâu phải nghề nghiệp an toàn gì. Thế nhưng tôi vẫn quyết định ra tay, dù bản thân thừa hiểu những sự thật phũ phàng ấy.
+Thành thử người ta cũng dễ hiểu vì sao mạo hiểm giả hầu như chỉ lo cho chính mình. Nói đúng hơn, họ luôn phải dè chừng và thủ thế cảnh giác, bởi cái nghề này nào có an toàn gì cho cam. Thế nhưng tôi vẫn quyết định can thiệp, dẫu bản thân thừa hiểu những sự thật phũ phàng ấy.
 
-Tất nhiên, tôi chẳng dại ôm đồm việc quá sức, càng không đời nào cứu giúp những kẻ lộ rõ dã tâm. Nhưng nếu không vướng phải những điều ấy, tôi vẫn sẽ can thiệp. Có lẽ bởi thời còn sống tôi vốn là người lương thiện, vả lại đây cũng là cách duy nhất để tôi thể hiện phần người trong mình. Suy cho cùng, mang hình hài này mà còn máu lạnh trơ mắt nhìn người ta chết, thì tôi có khác gì một con quái vật thực thụ đâu?
+Tất nhiên, tôi chẳng dại ôm đồm việc quá sức, càng không đời nào cứu giúp những kẻ lộ rõ dã tâm. Nhưng nếu không vướng phải những điều ấy, tôi vẫn sẽ can thiệp. Có lẽ bởi thời còn sống tôi vốn là người tốt bụng, vả lại đây cũng là cách duy nhất để tôi thể hiện phần người trong mình. Suy cho cùng, mang hình hài này mà còn máu lạnh bỏ mặc người ta chết, thì tôi có khác gì một con quái vật đâu cơ chứ?
 
-Thấy người sắp mất mạng mà không cứu, chỉ biết sống vì dục vọng của bản thân, sống chẳng còn chút tính người—những sinh vật như thế chính là thứ con người gọi là "quái vật". Bởi vậy, tôi mới không thể bỏ mặc người mạo hiểm giả này cho số phận định đoạt.
+Thấy người cận kề cái chết mà không cứu, chỉ biết sống vì ham muốn của bản thân, tồn tại chẳng chút tình người: những sinh linh như thế mới chính là thứ con người gọi là "quái vật". Chính vì vậy, tôi không thể bỏ mặc gã mạo hiểm giả này phó mặc cho số phận.
 
-Nhưng như đã nói, tôi chẳng việc gì phải cứu hết mọi mạo hiểm giả. Chỉ trong những tình huống thế này, khi có thể dễ dàng ra tay giúp đỡ mà không gặp mấy hiểm nguy, sống đúng với lương tâm thuở còn là người mới chẳng gây ra nhiều phiền toái, bởi thế tôi mới nhúng tay vào.
+Nhưng như đã nói, tôi đâu thấy cần thiết phải cứu tất tần tật mọi mạo hiểm giả. Chỉ trong những tình huống thế này, khi có thể dễ dàng ra tay giúp đỡ mà không gặp mấy hiểm nguy, làm theo bản tính tốt bụng thuở còn sống cũng chẳng chuốc lấy bao nhiêu rắc rối, thế nên tôi mới hành động như vậy.
 
-Nói thì nói vậy, nhưng giờ tôi lại thấy lúc nãy cứ mặc kệ ông ta khéo lại hay hơn. Chẳng là thay vì quay lên mặt đất cho an toàn, ông ta lại cứ nhất quyết bám riết lấy tôi. Có lẽ vì ông ta choáng ngợp trước sức mạnh của tôi, hay còn vì lý do nào khác? Dù chưa đoán rõ ý đồ của ông ta, tôi vẫn dám chắc một điều: người đàn ông này phiền phức vô cùng.
+Nói thì nói vậy, nhưng giờ tôi lại thấy lúc nãy bỏ mặc ông ta khéo khi lại tốt hơn. Chẳng là thay vì quay lên mặt đất cho an toàn, ông ta lại cứ nhất quyết bám riết lấy tôi. Có lẽ vì ông ta choáng ngợp trước sức mạnh của tôi, hay còn vì cớ nào khác? Dù chưa đoán trúng ý đồ của ông ta, tôi vẫn dám chắc một điều: con người này phiền phức vô cùng.
 
-Lúc này tôi đang hướng về khu vực chưa có trên bản đồ, nơi lần đầu tiên mình chạm trán con Rồng. Ông ta cứ đi theo thế này thì chắc chắn sẽ vướng chân vướng tay, thậm chí còn có thể mất mạng như chơi nếu bất ngờ gặp bất trắc. Thú thật, đáng ra tôi phải nói thẳng chuyện này, ngặt nỗi lại lúng túng chẳng biết mở lời ra sao. Tình cảnh của tôi hiện giờ đúng là dở khóc dở cười như thế.
+Lúc này tôi đang hướng về khu vực chưa được khai phá, nơi lần đầu tiên mình chạm trán Rồng. Ông ta cứ đi theo thế này thì chắc chắn sẽ vướng chân vướng tay, thậm chí có thể mất mạng như chơi nếu hiểm nguy bất thình lình ập tới. Đáng lẽ tôi phải lên tiếng nhắc nhở, ngặt nỗi lại lúng túng chẳng biết nói gì. Tình cảnh của tôi lúc này đúng là khó xử như vậy đấy.
 
-Tôi đâu có ý định lấy lòng các mạo hiểm giả khác bằng lòng tốt của mình, bởi ở đây nào có ai khác chứng kiến đâu. Tệ hơn nữa, nếu tôi chỉ bảo ông ta đi chỗ khác cho đỡ vướng víu, có lẽ ông ta cũng chẳng để tâm. Nãy giờ tôi đã cố đuổi khéo, thậm chí gằn giọng gắt gao hơn, nhưng xem chừng chẳng ăn thua. Rốt cuộc tôi nhận ra chỉ dùng lời nói suông thì không tài nào cắt đuôi được người đàn ông này.
+Tôi đâu có ý định lấy lòng các mạo hiểm giả khác bằng việc làm ơn làm phước, đằng nào ở đây cũng làm gì có ai chứng kiến. Khổ nỗi, nếu tôi chỉ bảo ông ta tránh ra chỗ khác vì quá vướng víu, chắc ông ta cũng chẳng thèm để tai. Nãy giờ tôi đã cố xua đuổi, thậm chí còn gằn giọng nặng nề hơn, nhưng xem chừng chẳng ăn thua. Rốt cuộc tôi nhận ra lời nói suông không tài nào khiến người này biến đi cho khuất mắt.
 
-"Tại... sao... ông... lại đi theo... tôi?"
+"Sao... ông. Lại đi theo... tôi?"
 
-Thấy chịu đựng thế là quá đủ, tôi quay sang nhìn người đàn ông rồi hỏi thẳng một câu. Nghe vậy, kẻ nãy giờ liến thoắng không ngớt bỗng dưng im bặt hẳn đi.
+Không thể chịu đựng thêm được nữa, tôi quay sang nhìn thẳng người đàn ông, cất giọng hỏi cộc lốc. Nghe vậy, kẻ nãy giờ liến thoắng như khướu bỗng dưng im bặt khác hẳn lúc nãy.
 
-"...Tại vì cậu mạnh mà, phải không?" Câu trả lời nghe như thể ông ta phải cố lắm mới nặn ra được từng chữ.
+"...Tại vì cậu mạnh mà, đúng không?" Nghe như thể từng lời đều phải gượng ép lắm mới nặn ra khỏi miệng ông ta.
 
-Xem ra tôi đã đoán trúng phóc. Làm vậy tất nhiên chẳng vẻ vang gì, nhưng quả thực với những mạo hiểm giả yếu thế thì đó cũng là một đường sống, nên tôi phần nào thông cảm được.
+Xem ra tôi nói trúng phóc. Hành động bám đuôi đó hiển nhiên chẳng đáng khen chút nào, nhưng không thể phủ nhận đây cũng là một lối thoát cho những mạo hiểm giả yếu thế, nên ở chừng mực nào đó tôi vẫn có thể cảm thông.
 
-Dù vậy, hầu hết các mạo hiểm giả sẽ chọn cách bỏ mặc ông ta lại phía sau. Trước hết, quái vật trong Mê Cung Nguyệt Ảnh này vốn chỉ vừa tầm với các mạo hiểm giả yếu. Nói cách khác, ông ta không nhất thiết phải bám theo tôi để giữ mạng, bởi tình hình đâu đến mức ngàn cân treo sợi tóc. Hơn nữa, vì quái ở đây khá yếu, đi thám hiểm cùng người khác sẽ chỉ khiến thu nhập kiếm được bị chia nhỏ ra. Đúng là một chuyện kỳ quặc.
+Có điều, đa số mạo hiểm giả chắc chắn sẽ chọn cách bỏ mặc ông ta lại. Trước hết, lũ quái vật trong Mê Cung Nguyệt Ảnh này chủ yếu chỉ vừa tầm với những mạo hiểm giả tay nghề yếu. Nghĩa là ông ta chẳng cần phải bám theo tôi để giữ mạng, tình hình nào đã ngặt nghèo đến mức đó. Thậm chí quái vật ở đây yếu tới mức nếu lập đội đi chung, thu nhập kiếm được sẽ bị chia nhỏ đi. Đúng là chuyện kỳ quặc.
 
-Như thể cảm nhận được nỗi băn khoăn của tôi, người đàn ông lên tiếng phân trần, dù giọng điệu nghe như bị dồn vào bước đường cùng: "Khổ nỗi tôi đang túng tiền quá mà... Tôi cần ba đồng vàng trước cuối tuần này... Bằng không, người ta sẽ siết cửa tiệm rồi khuân sạch sành sanh mọi thứ bên trong mất...!"
+Dường như cảm nhận được nỗi ngờ vực của tôi, người đàn ông vội vã phân trần, dẫu giọng điệu nghe như bị dồn vào chân tường: "Khổ nỗi tôi đang túng tiền quá... Tôi cần ba đồng vàng trước cuối tuần này... Bằng không, người ta sẽ siết cửa tiệm rồi khuân sạch sành sanh mọi thứ bên trong mất...!"
 
-Tôi gặng hỏi thêm cho rõ ngọn ngành. Hóa ra ông ta là chủ một quán ăn nhỏ, nhưng việc làm ăn cứ lụi bại dần qua năm tháng. Vì vay nặng lãi với mức lãi cắt cổ, ông ta ngập trong nợ nần rồi rơi vào cảnh khốn cùng. Nếu trước cuối tuần này không đóng được khoản trả góp ba đồng vàng, hoặc trả dứt điểm luôn món nợ 50 đồng vàng, quán ăn sẽ bị siết mất. Chẳng nghĩ ra cách nào kiếm nhanh được món tiền lớn, ông ta đành đi làm mạo hiểm giả, đinh ninh nghề này sẽ giúp mình kiếm đủ số tiền cần thiết.
+Tôi gặng hỏi thêm cho ra nhẽ. Hóa ra ông ta là chủ một quán ăn nhỏ, nhưng việc kinh doanh cứ sa sút dần theo năm tháng. Vì dại dột vay nặng lãi với lãi suất cắt cổ, ông ta ngập đầu trong nợ nần rồi lâm vào cảnh túng quẫn đến cùng đường. Nếu trước cuối tuần này không đóng nổi khoản tiền ba đồng vàng, hoặc thanh toán dứt điểm cả món nợ 50 đồng vàng, quán ăn sẽ bị tịch thu mất. Bế tắc chẳng nghĩ ra cách nào kiếm nhanh một món tiền lớn, ông ta đành liều mình đi làm mạo hiểm giả, đinh ninh rằng nghề này sẽ giúp kiếm đủ số tiền mình cần.
 
-Trong khoảng thời gian eo hẹp đến vậy, nhìn nhận tích cực nhất thì cách làm này cũng chỉ là liều mạng mù quáng. Kiếm được ngần ấy tiền trong thời gian ngắn dù không hẳn là bất khả thi, nhưng chắc chắn sẽ vô cùng, vô cùng gian nan. Rốt cuộc, ngay cả những mạo hiểm giả tay nghề vượt trội hơn hẳn cũng phải mất chừng năm ngày mới kiếm nổi 50 đồng vàng. Đằng này ông ta lại chẳng có lấy chút bản lĩnh ấy, mà chính bản thân ông ta cũng tự biết rõ điều đó.
+Thời gian gấp gáp như vậy, nhìn nhận tích cực nhất thì cách làm này cũng chỉ là liều mạng mù quáng. Kiếm được ngần ấy tiền trong thời gian ngắn dù không hẳn bất khả thi, nhưng chắc chắn sẽ muôn vàn gian nan. Bởi lẽ, ngay cả những mạo hiểm giả tay nghề cao hơn hẳn cũng phải mất chừng năm ngày mới kiếm nổi 50 đồng vàng. Đằng này ông ta lại chẳng có lấy chút thực lực nào, và chính bản thân ông ta cũng tự biết rõ điều đó.
 
-Hóa ra đó là lý do nãy giờ ông ta cứ bám riết lấy tôi không rời.
+Ra đó là lý do nãy giờ ông ta cứ bám riết lấy tôi không rời.
 
-"... Nếu... ông muốn... làm thế. Thì ông... phải đến... Tân Nguyệt. Chứ không phải... ở đây. Đúng không?"
+"... Nếu. Muốn làm... thế. Thì phải đến... Tân Nguyệt. Chứ không... phải ở đây. Đúng không?"
 
-Gần thị trấn Maalt còn có một mê cung quy mô lớn khác, thường gọi là Mê Cung Tân Nguyệt. So với Nguyệt Ảnh, nơi đó có chủng loại quái vật phong phú hơn nhiều. Một mạo hiểm giả lành nghề có cấp bậc cao hơn một kẻ Đồng Cấp như tôi có lẽ sẽ kiếm được chừng đó tiền ở đấy. Chẳng hạn, nếu một mạo hiểm giả Ngân Cấp thiện chiến chịu khó bỏ chút công sức ở Tân Nguyệt, kiếm được 50 đồng vàng không hề viển vông như người ta tưởng.
+Gần thị trấn Maalt còn có một mê cung quy mô lớn khác, thường gọi là Mê Cung Tân Nguyệt. So với Nguyệt Ảnh, quái vật ở đó phong phú và đa dạng hơn nhiều. Một mạo hiểm giả lành nghề có cấp bậc cao hơn kẻ Đồng Cấp như tôi có lẽ sẽ kiếm được ngần ấy tiền ở nơi đó. Chẳng hạn, nếu một mạo hiểm giả Ngân Cấp dạn dày kinh nghiệm chịu khó bỏ chút công sức ở Tân Nguyệt, con số 50 đồng vàng không hề viển vông như người ta tưởng.
 
-Dù tôi cho đi cùng hay ông ta tự ý bám theo thì cũng thế cả, đằng nào cũng đầy rẫy vấn đề. Nhỡ chạm trán một con quái vật mạnh hơn, ông ta có thể mất mạng chỉ trong tích tắc, bởi vốn dĩ tay nghề của ông ta quá kém.
+Dù tôi cho đi cùng hay ông ta tự ý bám theo thì cũng thế cả, đằng nào cũng kéo theo hàng đống rắc rối. Nhỡ va phải con quái vật nào mạnh hơn, ông ta có thể mất mạng trong chớp mắt vì bản thân vốn dĩ chẳng có mấy thực lực.
 
-Nghĩ vậy, tôi thấy người đàn ông này đang tính toán chẳng mấy sáng suốt, khi mà phần thắng của ông ta quá đỗi mong manh. Không khỏi lo ngại, tôi bèn nói thẳng những nhận định của mình cho ông ta nghe.
+Nghĩ vậy, tôi thấy người này tính toán nước đi chẳng mấy sáng suốt chút nào, khi mà phần thắng trong canh bạc này quá đỗi mong manh. Cảm thấy ái ngại, tôi bèn nói thẳng những nhận định của mình cho ông ta nghe.
 
-"Tôi đã bảo là mình sẽ làm được mà... Sẽ kiếm đủ ngần ấy tiền. Không ngờ rốt cuộc lại phải tay trắng quay về..."
+"Tôi đã chắc mẩm mình sẽ làm được mà... Sẽ kiếm đủ ngần ấy tiền. Ai ngờ rốt cuộc lại phải tay trắng trở về..."
 
-Bao nhiêu khí thế và vẻ mạnh miệng ban nãy dường như đã tan biến sạch khỏi giọng nói của ông ta. Mà cũng phải thôi. Ở chốn khắc nghiệt như mê cung, người đi cùng mà kém cỏi thì chẳng khác nào cục nợ. Kể cả chỉ làm chân khuân vác đồ đạc, trang bị, chí ít người đó cũng phải đủ sức tự chạy thoát lên mặt đất khi có biến. Thành thử người đàn ông đến chạy trốn khỏi một con Slime còn chẳng xong này hoàn toàn không hợp với nghề mạo hiểm giả.
+Bao nhiêu khí thế cùng vẻ mạnh miệng ban nãy dường như đã tan biến sạch khỏi giọng nói của ông ta. Mà âu cũng phải thôi. Ở chốn hiểm nghèo như mê cung, một kẻ đồng hành thiếu kỹ năng chẳng khác nào gánh nặng ngáng đường. Kể cả chỉ nhận chân khuân vác đồ đạc và trang bị, chí ít người đó cũng phải có khả năng tự tháo chạy lên mặt đất khi hữu sự. Thành thử người đàn ông đến thoát thân trước một con Slime còn không nổi này hoàn toàn chẳng thích hợp để dấn thân vào nghề mạo hiểm giả.
 
-Tôi cũng có chung nhận định đó: ông ta chẳng giúp ích được gì cho tôi.
+Bản thân tôi cũng đánh giá như vậy: ông ta chẳng giúp ích được gì cho mình.
 
-"... Tôi... xin lỗi. Nhưng... tôi đang... bận. Tôi không... có thời gian... chơi đùa... với... ông."
+"... Tôi... xin lỗi. Nhưng... tôi đang. Bận. Tôi không... có thời gian. Chơi đùa... cùng... ông."
 
-Nếu còn dư dả sức lực thì tôi cũng chẳng ngại giúp một tay, ngặt nỗi bản thân tôi lúc này đã có thừa rắc rối. Dù hiện tại đã mạnh hơn nhiều so với thời còn sống, xét về thực lực có lẽ tôi cũng chỉ ngang tầm Thượng Đồng Cấp. Trông mong tôi kiếm được 50 đồng vàng trong tình trạng này ư—
+Nếu còn đủ sức lo chuyện bao đồng thì tôi cũng chẳng ngại giúp một tay, ngặt nỗi bản thân lúc này đã gánh đủ thứ rắc rối. Dù hiện tại đã mạnh hơn nhiều so với thời còn sống, xét về thực lực có lẽ tôi cũng chỉ ngang tầm Thượng Đồng Cấp. Trông mong tôi kiếm nổi 50 đồng vàng trong tình trạng này ư—
 
 Bất khả thi.
 
-Phần thưởng mạo hiểm giả nhận được tuy khá hậu hĩnh, nhưng mức thù lao lại phụ thuộc vào cấp bậc, nên mạo hiểm giả cấp thấp không đời nào kiếm được những món tiền kếch xù. Trừ phi có trường hợp đặc biệt hay trúng món hời từ trên trời rơi xuống, mạo hiểm giả thứ hạng thấp thậm chí còn chẳng dám mơ tới số tiền lớn nhường ấy.
+Phần thưởng mạo hiểm giả nhận được tuy khá hậu hĩnh, nhưng mức thù lao lại phụ thuộc vào cấp bậc, nên mạo hiểm giả thứ hạng thấp không đời nào kiếm được những món tiền kếch xù. Trừ phi vớ được dịp may hiếm có hay trúng món hời từ trên trời rơi xuống, mạo hiểm giả cấp thấp thậm chí còn chẳng dám mơ tới số tiền lớn cỡ đó.
 
 Trường hợp đặc biệt ư...
 
-Nghĩ lại thì, quả thực tôi đang có sẵn một mối như thế; nói đúng hơn, đó chính là lý do tôi có mặt ở đây ngay từ đầu.
+Nghĩ kỹ lại thì đúng là tôi đang nắm trong tay một cơ hội như thế; nói cho cùng, đó chính là lý do tôi có mặt ở đây ngay từ đầu.
 
-Tôi không nói tới chuyện mình biến thành Undead. Biết đâu đem tôi đi báo cho Hội cũng lĩnh được 50 đồng vàng thật, nhưng như thế thì lại rước về cho tôi đủ thứ rắc rối. Trường hợp đặc biệt mà tôi đang nhắc tới không phải là bản thân tôi biến thành Undead, mà là nơi tôi đã biến thành bộ dạng này.
+Tôi không nói tới chuyện mình biến thành Undead. Biết đâu tố giác tôi với Hội cũng lĩnh được 50 đồng vàng thật, nhưng làm vậy thì tôi sẽ rước về đủ thứ tai họa. Trường hợp đặc biệt mà tôi đang tính tới không phải là việc bản thân biến thành Undead, mà là địa điểm nơi tôi biến thành bộ dạng này.
 
-Phải rồi, tôi đã phát hiện ra một khu vực chưa từng có trên bản đồ của mê cung.
+Phải rồi, tôi đã tìm ra một khu vực chưa từng được ghi nhận trên bản đồ mê cung.
 
-Đây là thông tin vô cùng giá trị, Hội chắc chắn sẽ chi một món tiền lớn cho bất cứ ai cung cấp nó. Nhưng chẳng có gì đảm bảo con số đó sẽ lên tới 50 đồng vàng. Dẫu vậy, tôi nghĩ nuôi chút hy vọng lạc quan cũng đâu mất gì. Thú thật, tôi muốn đích thân tới báo cáo việc này hơn nhiều, ngặt nỗi với hình hài hiện tại thì việc đó lại quá đỗi khó khăn.
+Đây là nguồn tin vô cùng giá trị, Hội chắc chắn sẽ bạo chi một khoản tiền lớn cho bất cứ ai cung cấp nó. Nhưng chẳng có gì bảo đảm khoản thù lao ấy sẽ lên tới 50 đồng vàng. Dẫu vậy, tôi nghĩ nuôi chút hy vọng tích cực cũng đâu mất gì. Thú thật, tôi muốn đích thân tới báo cáo tin này hơn nhiều, ngặt nỗi với thể xác hiện tại thì việc đó lại quá đỗi gian nan.
 
-Vì thế, tôi buộc phải cậy nhờ người khác chuyển tin tức này đi. Dĩ nhiên, ban đầu đằng nào tôi cũng tính nhờ Lorraine giúp, nhưng có lẽ giờ nhờ người đàn ông này cũng chẳng thiệt hại gì.
+Thành thử tôi buộc phải cậy nhờ người khác chuyển tin tức này đi. Dĩ nhiên, ban đầu đằng nào tôi cũng tính nhờ Lorraine giúp đỡ, nhưng có lẽ nhờ cậy người đàn ông này cũng chẳng mất mát gì.
 
-Có điều nếu làm vậy, công phát hiện khu vực mới sẽ được tính cho người đàn ông này. Nhỡ bị lộ chuyện tôi đã biết từ trước mà không báo cho Hội, chắc chắn tôi sẽ phải trả lời vô vàn câu hỏi phiền toái. Bản thân tôi lúc này đã gặp đủ rắc rối rồi, chuốc thêm phiền phức là điều tôi tuyệt đối không muốn. Vả lại, một người trông bình thường đứng ra báo tin thì Hội sẽ dễ tin hơn, bởi dù sao dáng vẻ của tôi lúc này cũng có phần đáng ngờ.
+Có điều nếu làm thế, công trạng phát hiện khu vực chưa ai biết tới sẽ được tính cho ông ta. Nhỡ bị phanh phui chuyện tôi đã biết từ trước mà không khai báo với Hội, chắc chắn tôi sẽ phải đối mặt với cơ man câu hỏi phiền toái. Bản thân tôi lúc này đã vướng đủ rắc rối rồi, chuốc thêm phiền hà là điều tôi tuyệt đối không muốn. Vả lại, một người có vẻ ngoài bình thường đứng ra báo tin thì Hội sẽ dễ tin hơn, bởi dù sao bộ dạng hiện giờ của tôi trông cũng quá đỗi khả nghi.
 
-Có lẽ vậy cũng chẳng sao, đằng nào cũng là vì lợi ích của những mạo hiểm giả sau này vô tình đặt chân tới khu vực chưa ai khai phá đó. Dù bản thân không nhận được tiền thưởng thì tiếc thật, nhưng rồi tôi cũng sẽ kiếm lại được 50 đồng vàng sau một thời gian thôi. Đương nhiên điều đó từng là bất khả thi với tôi thời còn sống, nhưng dưới hình hài hiện tại, chuyện đó xem ra không còn quá xa vời nữa.
+Biết đâu như vậy lại hay, bởi dẫu sao điều này cũng vì lợi ích chung của những mạo hiểm giả sau này tình cờ lạc bước vào khu vực chưa ai khai phá ấy. Dù bản thân không ẵm được tiền thưởng thì tiếc thật, nhưng rồi tôi cũng sẽ kiếm lại được 50 đồng vàng sau một thời gian thôi. Đương nhiên chuyện đó từng là điều bất khả thi với tôi thời còn sống, nhưng dưới hình hài hiện tại, nó xem ra chẳng còn quá xa vời nữa.
 
-Đó là kết luận của tôi.
+Đó là kết luận mà tôi rút ra.
 
-Bởi thế tôi mới thấy buông bỏ món hời trước mắt cũng chẳng sao, đó là lựa chọn tốt nhất lúc này.
+Bởi thế tôi mới thấy buông bỏ món tiền kếch xù trước mắt cũng chẳng sao; nghĩ đi nghĩ lại, làm vậy là tốt nhất.
 
-Nghĩ thông suốt, tôi quay sang người đàn ông đang ủ rũ để báo tin vui: "Tôi... nghĩ... ông... có thể... đi cùng. Dù sao thì... ông... cũng có thể... mang đồ... giúp tôi... đúng không?"
+Nghĩ vậy, tôi quay sang người đàn ông đang ủ rũ báo tin vui: "Tôi... nghĩ. Ông có thể... đi cùng. Dù sao thì. Ông... có thể. Mang đồ... giúp tôi. Đúng không?"
 
-"Hả...?" Người đàn ông ngạc nhiên tột độ, vội vã rảo bước bám theo sau tôi.
+"Hả...?" Ngạc nhiên tột độ, người đàn ông vội vã rảo bước bám sát sau lưng tôi.
 
-"N-này! Đợi đã! Cậu chắc chứ? Tôi đi theo cậu thật sao?"
+"N-Này! Đợi đã! Cậu chắc chứ? Tôi được phép đi theo cậu thật sao?"
 
-"Đ... Được."
+"Đ... được."
 
-Người đàn ông lộ rõ vẻ bàng hoàng không dám tin, có lẽ ông ta không ngờ tôi lại chấp thuận một chuyện như thế.
+Gương mặt người đàn ông lộ rõ vẻ bàng hoàng không dám tin. Có lẽ ông ta chẳng dám nghĩ tôi lại chấp thuận một chuyện như vậy.
 
-Dù bị dồn vào bước đường cùng nên mới phải mở lời cầu xin, bản chất ông ta xem chừng không phải kẻ xấu. Dĩ nhiên, hoàn toàn có khả năng ông ta đang nói dối và toàn bộ chuyện này chỉ là một màn kịch, nhưng thôi, tới đâu hay tới đó. Dẫu vậy, tôi làm việc này cũng chẳng hẳn vì lòng tốt, mà chỉ là thêm một hành động để tôi chứng minh chút nhân tính của bản thân.
+Dù bị hoàn cảnh bức bách mới phải hạ mình cầu xin, thâm tâm ông ta xem chừng không phải kẻ xấu. Dĩ nhiên, hoàn toàn có khả năng ông ta đang nói dối và toàn bộ chuyện này chỉ là một màn kịch, nhưng thôi, tới đâu tính tới đó. Dẫu vậy, tôi làm việc này cũng chẳng hẳn vì rủ lòng thương, mà chỉ là thêm một hành động để tôi chứng minh nhân tính của bản thân.
 
-Còn tại sao điều đó lại cần thiết ư... Kể từ khi biến thành Ngạ Quỷ, thỉnh thoảng trong lòng tôi lại dấy lên một nỗi bất an sâu sắc. Tôi chẳng biết phải diễn tả thế nào cho đúng, chỉ là một cảm giác kỳ lạ thi thoảng lại ùa về. Bởi thế tôi mới quyết định giúp đỡ càng nhiều người càng tốt. Biết đâu nhờ vậy, đến cuối cùng tôi sẽ không quên mất mình thực sự là ai.
+Còn tại sao điều đó lại cần thiết ư... Kể từ khi biến thành Ngạ Quỷ, thi thoảng trong lòng tôi lại dấy lên một nỗi bất an sâu sắc. Tôi chẳng biết diễn tả thế nào cho đúng, chỉ là một cảm giác kỳ quặc chốc chốc lại ùa về. Bởi thế tôi mới quyết định dang tay giúp đỡ càng nhiều người càng tốt. Biết đâu nhờ vậy, đến cuối cùng tôi sẽ không quên mất bản thân thực sự là ai.
 
-Nếu lỡ đánh mất bản ngã, mọi thứ coi như chấm hết ngay tại đây. Tôi không thể chấp nhận điều đó, tuyệt đối không thể chấp nhận.
+Nếu lỡ đánh mất chính mình, mọi thứ coi như chấm dứt ngay lúc ấy. Tôi không đời nào chấp nhận điều đó, tuyệt đối không chấp nhận.
 
-Với những suy nghĩ ấy, tôi cất bước hướng về nơi lần cuối mình chạm trán Rồng. Đi sát ngay sau lưng tôi là người khuân vác mới, mặt mày lộ rõ vẻ thấp thỏm lo âu. Không biết ngày xưa tôi có từng mang nét mặt tương tự như thế hay không?
+Nghĩ vậy, tôi cất bước hướng về nơi lần cuối cùng mình chạm trán Rồng. Theo sát ngay sau gót là chân khuân vác mới của tôi, nét mặt lộ rõ vẻ thấp thỏm âu lo. Chẳng rõ ngày xưa tôi có từng mang biểu cảm tương tự như thế hay không?
 
-Chẳng hiểu vì cớ gì, những ký ức ấy giờ đây dường như đã quá đỗi xa xăm, dù cố gắng đến mấy tôi cũng không tài nào nhớ nổi. Nghĩ kỹ lại thì thời gian thực ra trôi qua chưa bao lâu, vậy mà tôi lại đang dần quên đi quá nhiều điều.
+Chẳng hiểu vì cớ gì, những ký ức ấy giờ đây dường như đã quá đỗi xa xôi, dẫu có cố gắng đến mấy tôi cũng không tài nào nhớ nổi. Nghĩ kỹ lại thì thời gian thực ra trôi qua chưa bao lâu, vậy mà tôi lại đang dần quên đi nhiều thứ đến thế.
 
-Nhưng có một cảm giác mà tôi vẫn còn nhận ra rất rõ: linh cảm về một tai họa sắp sửa ập xuống.
+Nhưng có một cảm giác mà tôi vẫn nhận thức rất rõ: điềm báo về một tai ương sắp sửa giáng xuống.

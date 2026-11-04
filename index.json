@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T10:38:46Z",
+  "generatedAt": "2026-11-04T10:46:53Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2248,7 +2248,7 @@
           "number": 16,
           "title": "Chương 16: Tập 1 Chương 4 - Mê Cung Nguyệt Ảnh và Những Ràng Buộc Phiền Phức (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_016.md",
-          "sha": "0510ea862ac557ddbb118952542a2a974c4c696d"
+          "sha": "9894e86c42b6546ce6cbd0e9bb71b471a1f5fe22"
         },
         {
           "number": 17,
