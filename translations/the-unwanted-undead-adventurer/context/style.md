@@ -34,6 +34,7 @@ User đọc lại và thấy bản dịch còn cứng, máy móc. Khi dịch ho�
 12. **Nhịp câu.** Câu dài nhiều mệnh đề thì tách ra. Nhiều câu cụt liền nhau thì gộp lại. Đọc thầm cả đoạn: chỗ nào vấp thì viết lại.
 13. **Độc thoại tự giễu của Rentt phải giữ được duyên.** Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng hài. Vẫn không được thêm ý mới.
 14. **Khuôn mẫu tư duy và thuật ngữ hiện đại.** Tránh dịch rập khuôn "With that in mind" / "With those thoughts in mind" thành "Với ý nghĩ đó trong đầu" (thay bằng "Nghĩ vậy", "Nghĩ thông suốt" hoặc bỏ bớt); tránh bê nguyên cụm hiện đại/gamer slang như "quality of life" thành "chất lượng cuộc sống" khi miêu tả sự tiện lợi, đỡ vất vả trong bối cảnh đời sống kiếm sĩ.
+15. **Hành chính hoá ngôn ngữ tự sự.** Tránh dùng lối diễn đạt của văn bản hành chính/báo cáo khi kể chuyện: "said [noun]" dịch thành "[danh từ] nói trên" (thay bằng "đó", "ấy", "vừa rồi"); "statement" trong giao tiếp thông thường dịch thành "lời tuyên bố" (thay bằng "câu nói", "lời đáp", "lời dặn"); "in that department" dịch thành "trong khoản đó/mảng đó" (diễn đạt tự nhiên theo ngữ cảnh).
 
 ## Từ cảm thán / cách nói cố định
 
