@@ -1,163 +1,163 @@
 # Chương 31: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (2)
 
-Miêu tả đặc điểm ngoại hình của một con Orc là điều vô cùng dễ dàng: chúng tròn ủng, đứng bằng hai chân như người và mang chiếc đầu lợn. Nếu miêu tả theo cách đó, ngay cả một đứa trẻ cũng có thể hình dung ra chúng trông như thế nào. Trên thực tế, chúng khá được trẻ con yêu thích—chí ít, đó là hình ảnh phổ biến về loài Orc đối với những người sống ở vùng đất này.
+Tả hình dáng một con Orc thì dễ vô cùng: thân hình tròn ủng, đi bằng hai chân như người và mang cái đầu lợn. Cứ tả như thế thì đến đứa trẻ con cũng hình dung ra được. Thậm chí lũ trẻ ở đây còn khá thích chúng, hay chí ít người dân vùng này vẫn quen nghĩ về Orc như thế.
 
-Trông chúng chậm chạp và ngu ngơ đến mức người ta sẽ ngỡ rằng có thể dễ dàng đánh bại chúng ngay cả khi bản thân thiếu thốn kỹ thuật, kỹ năng hay sức mạnh.
+Trông chúng vừa chậm chạp vừa đần độn, đến mức người ta dễ tưởng rằng dù chẳng có mấy kỹ thuật, kỹ năng hay sức mạnh thì cũng hạ được chúng một cách ngon lành.
 
-Giờ đây tôi đang đối mặt với chính loài quái vật đó; thế nhưng...
+Lúc này tôi đang đối mặt với đúng một con quái vật như thế; có điều...
 
-Con Orc trước mắt tôi chẳng hề lững thững bước đi một cách nhàn tản. Trái lại, nó đang lao về phía tôi với tư thế vững vàng, nhằm nhanh chóng thu hẹp khoảng cách giữa đôi bên. Chỉ một ánh nhìn cũng đủ để tôi nhận ra cơ bắp cuồn cuộn nơi tứ chi và ánh nhìn hung tợn không kém trong mắt nó. Rõ ràng là chỉ một đòn duy nhất cũng có thể dễ dàng đoạt mạng một người đàn ông trưởng thành.
+Con Orc trước mắt tôi chẳng hề lững thững dạo bước chút nào. Trái lại, nó đang lao thục mạng về phía tôi với tư thế rất chuẩn, nhằm nhanh chóng thu hẹp khoảng cách. Chỉ liếc qua cũng thấy tứ chi nó cuồn cuộn cơ bắp cùng ánh mắt hung tợn chẳng kém phần. Rõ ràng chỉ cần một đòn là nó có thể dễ dàng lấy mạng một người đàn ông trưởng thành.
 
-Dù con Orc này không cầm kiếm hay giáo trên tay, nó lại nắm một cây gậy thô ráp tựa khúc côn; có lẽ được nhặt từ một cành cây nào đó trong những khu rừng xung quanh. Chẳng khó để hình dung uy lực mà thứ vũ khí như thế sẽ giáng xuống cơ thể con người, bởi có lẽ chỉ một cú vung là đủ để hạ gục một mạo hiểm giả.
+Dù con Orc này không cầm kiếm hay giáo trên tay, nó lại nắm một khúc chùy gỗ đẽo gọt sơ sài, chắc là bẻ từ cành cây nào đó trong mấy khu rừng quanh đây. Chẳng khó để hình dung thứ vũ khí đó mà nện vào người thì sẽ kinh khủng thế nào, có khi chỉ một cú cũng đủ đập gục một mạo hiểm giả.
 
-Thế nhưng con Orc dường như vung vẩy cây gậy gỗ một cách nhẹ bẫng, minh chứng cho sức mạnh cơ bắp man rợ của nó.
+Ấy thế mà con Orc lại vung vẩy khúc chùy gỗ nhẹ bẫng, đủ thấy sức mạnh cơ bắp của nó kinh người đến mức nào.
 
-Cân nhắc tất cả những quan sát kể trên, tôi có thể tự tin khẳng định rằng Orc không phải là loài quái vật yếu ớt dưới bất kỳ hình thức nào. Nếu ai đó chỉ đơn thuần coi Orc như một con Goblin ngoại cỡ, người đó chắc chắn sẽ mất mạng gần như ngay tức khắc. Bản thân tôi chẳng hề xa lạ gì với những câu chuyện như thế.
+Nhìn vào tất cả những điều đó, tôi dám chắc rằng Orc tuyệt nhiên chẳng phải quái vật yếu ớt chút nào. Cứ coi Orc như một con Goblin phóng to thì cầm chắc mất mạng trong chớp mắt. Những chuyện như vậy tôi chẳng còn lạ gì.
 
-Tuy Orc thường được khắc họa trong tranh truyện trẻ em và những ấn phẩm tương tự như những sinh vật tròn ủng với chiếc bụng to phình lững thững bước đi chậm chạp trên đôi chân ngắn củn, thực tế lại chẳng hề nhân từ như vậy. Có lẽ đó chỉ là hình ảnh biếm họa về loài Orc; chẳng thể nào mang tính đe dọa như thực tế ngoài đời.
+Trong tranh truyện cho trẻ con hay mấy thứ đại loại thế, Orc thường bị vẽ thành những sinh vật ục ịch với cái bụng phệ, bước đi chậm chạp trên đôi chân ngắn tũn, nhưng thực tế đâu có dễ chịu thế. Tranh ảnh vẽ thế cùng lắm chỉ là biếm họa, chứ làm sao đáng sợ bằng Orc thật ngoài đời.
 
-Một con Orc thực sự, suy cho cùng, là một chiến binh. Ngay cả khi chất lượng trang bị của nó còn rất nhiều thiếu sót, hạ thấp cảnh giác sẽ là một sự ngu xuẩn. Sự khờ dại đó có thể dễ dàng lấy mạng cả những mạo hiểm giả lành nghề nhất.
+Nói cho cùng, một con Orc thực thụ vẫn là một chiến binh. Dù đồ đạc nó dùng có tồi tàn đến đâu, lơ là cảnh giác vẫn là dại dột. Cái giá của sự khinh suất ấy thừa sức lấy mạng cả những mạo hiểm giả dày dạn nhất.
 
-Dù nói là vậy, có lẽ cũng đáng lưu ý rằng tôi vừa mới né được một đòn hung hãn từ cây gậy của con Orc.
+Nói vậy thôi, chứ tôi cũng vừa phải né một cú nện dữ dội từ cây chùy của nó đấy chứ.
 
-Nhanh chóng lách mình ra phía sau không chút phòng bị của con quái vật, tôi giương cao thanh kiếm, chém một đường vòng cung rộng giáng thẳng vào tấm lưng đang để lộ của nó.
+Tôi nhanh chóng lách ra sau lưng con quái vật khi nó còn sơ hở, giương cao kiếm rồi chém một đường vòng cung thật rộng vào tấm lưng trần của nó.
 
-Orc quả thực rất mạnh; đó là điểm tôi không hề phủ nhận. Nhưng chừng nào người ta còn ý thức được thế mạnh của quái vật, đồng thời cẩn trọng đúng mực và chuẩn bị chu đáo, chiến thắng sẽ luôn nằm trong tầm tay. Quy tắc này áp dụng cho mọi loại quái vật trong mê cung.
+Orc mạnh thật, chuyện đó tôi chẳng việc gì phải bàn cãi. Nhưng chỉ cần nắm rõ điểm mạnh của quái vật, cẩn trọng đúng mức và chuẩn bị kỹ càng thì chiến thắng sẽ luôn trong tầm tay. Với bất kỳ quái vật nào trong mê cung, quy tắc này cũng đều đúng cả.
 
-Thế nhưng con Orc nhanh chóng nhận ra tôi đã tập kích từ phía sau, nó lập tức quay phắt lại và vung mạnh cây gậy theo một đường quét ngang đầy bạo lực.
+Có điều con Orc lập tức nhận ra mình bị đánh lén từ sau lưng; nó quay phắt lại, vung cây chùy quét một đường ngang cực mạnh.
 
-Có lẽ người ta sẽ thắc mắc tại sao đòn tấn công của tôi dường như chẳng hề gieo rắc lấy một chút sợ hãi nào vào con Orc. Nhưng câu trả lời đã quá rõ ràng: nhát chém của tôi nhiều khả năng đã không cắt được quá sâu.
+Hẳn sẽ có người thắc mắc vì sao đòn đánh của tôi dường như chẳng khiến con Orc nao núng chút nào. Câu trả lời rất rõ ràng: nhát kiếm của tôi chém chưa đủ sâu.
 
-Thoạt nhìn, một con Orc có vẻ chẳng khác gì một con lợn béo biết đi; thế nhưng thân hình tròn trịa của nó lại che giấu bản chất thực sự của cơ thể, cụ thể là những thớ cơ bắp được tôi luyện đến tột độ. Nếu không dồn hết lực vào nhát chém, cơ bắp của nó sẽ dễ dàng chặn đứng hầu hết các loại lưỡi kiếm, khiến vũ khí chỉ để lại một vết thương ngoài da nông toẹt. Đó hoàn toàn không phải một đòn đánh gây nhiều sát thương. Người ta có thể xem nó như một loại giáp tự nhiên mà mọi con Orc đều được ban tặng từ lúc chào đời.
+Thoạt nhìn, Orc trông chẳng khác nào một con lợn béo biết đi, nhưng cái thân hình tròn ủm ấy lại che giấu những thớ cơ bắp săn chắc vô cùng. Nếu không dồn hết sức vào nhát chém thì cơ bắp của nó sẽ chặn đứng hầu hết các loại lưỡi kiếm, rốt cuộc chỉ để lại một vết thương ngoài da nông choèn, chẳng bõ bèn gì. Có thể coi lớp cơ bắp ấy như một thứ áo giáp tự nhiên mà loài Orc vừa sinh ra đã có sẵn.
 
-Thế nhưng, chỉ bấy nhiêu thôi thì chưa đủ để tôi chịu nhận thất bại.
+Nhưng chỉ bấy nhiêu thì chưa đủ khiến tôi chịu thua.
 
-Né tránh cú quét ngang của con Orc, tôi vận khởi nguồn dự trữ Ma Lực và Khí Lực của mình. Nếu chuyện này kéo dài, đây chắc chắn sẽ biến thành một trận giao tranh dai dẳng và hao tổn.
+Né cú quét ngang của con Orc, tôi vận cả Ma Lực lẫn Khí Lực lên. Nếu cứ dây dưa thế này, trận đánh chắc chắn sẽ kéo dài và hao tổn vô ích.
 
-Tự niệm ma pháp Khiên Chắn lên bản thân phòng khi kế hoạch xảy ra sơ suất, tôi chuyển hóa Khí Lực thành thể lực. Tôi hiểu rõ rằng mình phải tung ra một đòn tất sát chỉ bằng một nhát chém duy nhất.
+Tôi niệm phép Khiên Chắn lên người để phòng hờ bất trắc, đồng thời dùng Khí Lực gia tăng sức mạnh thể chất. Tôi hiểu rõ mình buộc phải tung đòn quyết định chỉ trong một nhát chém duy nhất.
 
-Một con Orc bình thường như thế này không được trang bị giáp kim loại hay bất kỳ loại khiên chắn nào. Nếu phải nhận xét, hơn một nửa số Orc thông thường cũng chẳng có chút dự trữ Ma Lực hay Khí Lực nào. Dẫu vậy, riêng con Orc này đã cảm nhận được khí tức đang biến đổi của tôi, nó giơ cao cây gậy và trừng trừng nhìn tôi bằng đôi mắt ti hí. Trước khi tôi kịp hoàn tất các bùa chú cường hóa, con Orc dộng mạnh chân xuống đất, lao thẳng về phía tôi với cây gậy giương cao mà chẳng hề đắn đo suy nghĩ.
+Một con Orc bình thường thế này không mang giáp kim loại hay khiên chắn gì cả. Thậm chí phần lớn chúng cũng chẳng có lấy chút Ma Lực hay Khí Lực nào tích trữ. Dẫu vậy, con Orc trước mắt dường như đã cảm nhận được khí tức quanh tôi biến đổi; nó giương chùy lên, trừng đôi mắt ti hí nhìn tôi. Trước khi tôi kịp hoàn tất các bùa chú cường hóa, nó dậm mạnh chân rồi lao thục mạng về phía tôi, cây chùy giơ cao không chút do dự.
 
-Người ta gần như có thể cảm nhận được áp lực đe dọa; cảnh tượng một con Orc lao hết tốc lực về phía mình quả thực là điều đáng kinh sợ, và có lẽ là cảnh tượng khiến nhiều người phải bỏ chạy. Thế nhưng những mạo hiểm giả quay đầu tháo chạy trước một con Orc đang lao tới cuối cùng sẽ bị nó đuổi kịp, và mất mạng trong quá trình đó.
+Cảm giác bị nó đe dọa rõ mồn một; nhìn một con Orc thục mạng lao tới quả là cảnh tượng đáng sợ, đủ khiến nhiều người hoảng loạn bỏ chạy. Nhưng mạo hiểm giả nào mà quay đầu tháo chạy trước cú lao của Orc thì sớm muộn cũng bị nó đuổi kịp rồi mất mạng.
 
-Phương thức để nắm chắc chiến thắng trước một con Orc lại đơn giản đến kinh ngạc: không được để cú lao tới của nó làm khiếp sợ, và nhắm vào các điểm yếu của nó bằng bất kỳ năng lực nào mà bản thân được ban cho. Nói một cách đơn giản, người ta quan sát sơ hở rồi khai thác chúng. Nhưng để một chiến thuật như vậy thành công, người ta cần có kiến thức và kinh nghiệm phù hợp, bên cạnh khả năng đọc được cục diện trận chiến.
+Cách hạ một con Orc thực ra đơn giản đến bất ngờ: đừng để cú lao của nó làm khiếp vía, rồi dùng bất kỳ khả năng nào mình có để đánh vào điểm yếu của nó. Nói trắng ra là cứ rình sơ hở rồi chớp thời cơ thôi. Nhưng để làm được thế, người ta phải có đủ kiến thức lẫn kinh nghiệm, cùng khả năng phán đoán cục diện trận đấu.
 
-Về phần mình, tôi sở hữu kiến thức. Còn kinh nghiệm, ngoài việc hiện đang giao chiến với con Orc này, tôi gần như chẳng có chút nào.
+Kiến thức thì tôi có thừa. Còn kinh nghiệm đối đầu với Orc, nếu không tính trận chiến đang diễn ra này, thì tôi gần như bằng không.
 
-Một lằn ranh mỏng manh ngăn cách giữa chiến thắng và thất bại. So với khi còn sống, giờ đây tôi nắm giữ giác quan chiến đấu sắc bén hơn nhiều. Dĩ nhiên, so sánh bản thân lúc này với khi còn sống là một chuyện; so sánh mình với những mạo hiểm giả từ Ngân Cấp trở lên lại là chuyện hoàn toàn khác. Nhưng tôi tự tin rằng mình có đủ sức mạnh để đánh bại một con Orc; về điểm đó tôi dám chắc.
+Ranh giới giữa thắng và bại chỉ mỏng như sợi tóc. So với hồi còn sống, trực giác chiến đấu của tôi bây giờ đã sắc bén hơn nhiều. Dĩ nhiên, so mình lúc này với hồi còn sống là một chuyện; còn so với những mạo hiểm giả từ Ngân Cấp trở lên lại là chuyện khác hẳn. Nhưng tôi tin chắc mình thừa sức hạ một con Orc; điểm này thì tôi dám đoan chắc.
 
-Đó không phải lời tuyên bố kiêu ngạo hay điên rồ, mà chỉ đơn thuần là một sự thật tôi đã tự nhận thức được.
+Tôi nói thế chẳng phải vì kiêu ngạo hay mù quáng, mà đó đơn giản là sự thật tôi tự cảm nhận được.
 
-Tin tưởng vào năng lực của bản thân, tôi thủ thế thanh kiếm, vững tâm đón đầu cú húc của con Orc.
+Tin vào khả năng của mình, tôi vào thế kiếm, sẵn sàng nghênh đón cú húc của con Orc.
 
-Cơ hội chắc chắn sẽ lộ diện. Về điều đó, tôi tin chắc.
+Nhất định cơ hội sẽ lộ diện. Tôi dám chắc điều đó.
 
-Phải... Những lời ấy vang vọng trong tâm trí tôi.
+Phải... Những lời ấy cứ vang vọng trong đầu tôi.
 
-Chẳng mấy chốc, tôi đã có thể nhìn thấy tròng trắng trong mắt nó. Trong khoảnh khắc ấy, dường như thời gian ngưng đọng lại khi tôi thấy mình quan sát rõ mồn một từng hành động và cử động của con Orc.
+Chẳng mấy chốc, tôi đã nhìn thấy lòng trắng trong mắt nó. Trong khoảnh khắc ấy, thời gian dường như ngưng đọng, tôi thấy rõ mồn một từng cử động của con quái vật.
 
-Lao thẳng về phía tôi, con Orc giương cao cây gậy, định bụng tông thẳng vào người tôi đồng thời tiện tay vung vũ khí. Thật không may cho con Orc, quyết định giơ gậy trong lúc lao tới lại tạo ra một sơ hở đặc biệt lớn nơi thân trên của nó.
+Lao thẳng về phía tôi, con Orc giương cao cây chùy, định bụng vừa tông thẳng vào người tôi vừa bồi thêm một cú đập thật mạnh. Khổ cho nó, chính cái thói quen giơ cao chùy khi đang lao tới lại để lộ một sơ hở chí mạng ngay trước ngực.
 
-Với lưỡi kiếm giữ ở phía sau, tôi dậm mạnh chân xuống mặt đất, vung kiếm chém vào lồng ngực đang để lộ của con Orc theo một đường vòng cung xoay người uy dũng.
+Kéo ngược mũi kiếm ra sau, tôi dậm mạnh chân xuống đất rồi xoay người vung một nhát chém vòng cung tuyệt đẹp vào lồng ngực đang hở toang của con Orc.
 
-Trong một khoảnh khắc tưởng chừng hoàn toàn tĩnh lặng, con Orc và tôi lướt qua nhau. Xoay người lại, kiếm vẫn cầm trên tay, tôi liếc nhìn con Orc giờ đang đứng lặng khi máu tuôn xối xả từ cơ thể nó. Chầm chậm, bàn tay vẫn nắm chặt cây gậy, con Orc ngã sấp mặt xuống đất với một tiếng huỵch vang dội.
+Trong khoảnh khắc tĩnh lặng như tờ, tôi và con Orc lướt qua nhau. Quay người lại, tay vẫn lăm lăm chuôi kiếm, tôi liếc nhìn con Orc đang đứng chết trân giữa vòi máu phun xối xả. Bàn tay nó vẫn nắm chặt cây chùy, rồi từ từ đổ ập mặt xuống đất bằng một tiếng "huỵch" nặng nề.
 
-Quan sát cảnh tượng trước mắt, một ý nghĩ đơn giản, duy nhất lóe lên trong đầu tôi:
+Nhìn cảnh tượng trước mắt, trong đầu tôi chỉ nảy ra một ý nghĩ duy nhất:
 
-Có vẻ như mình đã thắng.
+Có vẻ mình thắng rồi.
 
-Và đó chính xác là những gì đã xảy ra.
-
-◆◇◆◇◆
-
-Đánh bại được con Orc dẫu rất đỗi thuận lợi, công việc của tôi vẫn còn lâu mới xong. Cho dù việc bới xác con Orc để moi Ma Tinh gần tim nó ra là điều dễ dàng, ủy thác tôi nhận lại yêu cầu cụ thể việc thu thập nguyên liệu trực tiếp từ con Orc.
-
-Cụ thể hơn, đó là giao nộp thịt Orc chứ không phải Ma Tinh. Tôi đồ rằng người ủy thác của hội định dùng thịt nó làm nguyên liệu nấu nướng.
-
-Rất nhiều loại thịt được tiêu thụ khắp các vùng đất, phổ biến nhất là thịt lợn, thịt bò và thịt gà. Khỏi phải nói, gia súc gia cầm và những loài tương tự không hề sở hữu Ma Lực hay năng lực nào khác, và chúng an toàn hơn nhiều để thuần dưỡng lẫn nhân giống. Đổi lại, thịt của chúng nhờ thế mà có giá cả phải chăng hơn. Những loại thịt này có hương vị tương đối thỏa mãn, và với kỹ thuật phù hợp cùng công sức thỏa đáng từ người chăn nuôi, các sản phẩm làm từ loại thịt kể trên có tiềm năng đạt chất lượng vượt trội. Gia súc quả thực là những sinh vật hữu ích.
-
-Nhưng vẫn tồn tại một loại thịt đứng trên những thứ mà đa phần mọi người vẫn ăn hằng ngày: thịt Orc. Dù có nhiều lý do dẫn đến điều này, lý do dễ hiểu và trực tiếp nhất là sự thật ai nấy đều biết: thịt Orc đơn giản là vô cùng thơm ngon.
-
-Có lẽ tôi nên xua tan một hiểu lầm phổ biến của số đông: nhiều người cho rằng vị ngon của thịt Orc là nhờ cấu trúc cơ bắp của nó, nhưng họ đã lầm to. Lý do cho điều này, như tôi vẫn thường thích nói, tương đối đơn giản: thịt và cơ bắp của một con Orc được cường hóa bởi Ma Lực, và lượng Ma Lực kể trên sẽ tiêu biến khi con Orc chết đi. Điều này rốt cuộc sẽ khiến thịt của con Orc trở lại trạng thái mềm mại ban đầu.
-
-Người ta nói rằng hương vị của thịt Orc vượt trội hơn hẳn so với loại lợn được nuôi nấng tốt nhất, đến mức bất kỳ ai từng nếm thử cũng sẽ ngần ngại khi phải ăn các loại thịt khác.
-
-Có lẽ người ta sẽ thấy lạ khi một nguyên liệu thơm ngon đến thế lại không phổ biến hơn, nhưng đó chỉ đơn giản là bài toán cung cầu. Ngay từ đầu, những mạo hiểm giả có thể chủ động đi săn Orc đã hiếm như lá mùa thu. Ít nhất, theo hiểu biết của tôi, không có mạo hiểm giả nào đủ khả năng cung cấp một lượng thịt Orc đủ lớn để nuôi sống cả một thị trấn một cách đều đặn.
-
-Đó quả thực là một nguyên liệu hiếm hoi, thường chỉ xuất hiện trên đĩa ăn tối của những kẻ giàu có và giới quý tộc, hoặc trên bàn ăn của các nhà hàng tương đối đắt đỏ. Đó chính là tính chất nguồn cung của nó; có lẽ khỏi cần nói cũng biết nó sẽ có giá cao ngất ngưởng do độ khan hiếm.
-
-Nói cách khác, nếu một người có thể đánh bại Orc và thuận lợi mang thịt của nó trở về, người đó sẽ được đền đáp hậu hĩnh cho những nỗ lực của mình.
-
-Tiến lại gần chính con Orc vừa gục ngã sắp sửa trở thành một phần tài sản của mình, tôi liền dùng lưỡi kiếm rạch sâu vào cổ nó. Máu lại một lần nữa bắt đầu phun ra từ vết thương mới trên cái xác. Điều này, kết hợp với vết chém vốn đã lớn ở ngực, cho phép tôi nhanh chóng tháo cạn máu khỏi cơ thể nó.
-
-Thế nhưng trong suốt quá trình đó, tôi vẫn giữ im lặng và cảnh giác cao độ. Luôn có nguy cơ những con quái vật khác xuất hiện và tấn công tôi, bởi suy cho cùng thịt Orc đâu chỉ được con người ưa chuộng. Ngay cả những con quái vật khác cũng thèm thuồng hương vị được cho là tuyệt phẩm chốn nhân gian của nó.
-
-Vì thế, tôi đã thở phào nhẹ nhõm khi hoàn tất quá trình mà không chạm trán thêm con quái vật nào.
-
-Tiếp tục công việc rùng rợn của mình, tôi xẻ những phần thịt cần thiết từ cái xác, bọc số thịt vừa thu hoạch vào những chiếc lá to mềm. Những chiếc lá này lấy từ loài cây được gọi là Hoonoki Maalt mọc trong các khu rừng quanh Maalt. Nó đặc biệt nổi tiếng với công dụng bảo quản, và thường được dùng để gói thịt tươi. Đó quả thực là một loài cây hữu dụng.
-
-Bản thân tôi thường mang theo bên mình một lượng dự trữ kha khá loại lá này. Rất giống những bình chứa dịch lỏng tôi từng dùng để thu thập thể dịch của Slime, những chiếc lá này cũng là công cụ hữu ích mà mọi mạo hiểm giả đều mang theo.
-
-Những phần tôi xẻ từ cái xác là thăn ngoại, thăn nội và ức, cũng như những tảng lớn cắt từ đùi nó. Dù tôi muốn nhét nguyên cả cái xác vào túi hơn nhiều, chiếc túi thắt lưng của tôi khó lòng chứa nổi ngần ấy. Thật đáng tiếc làm sao.
-
-Sau khi lấy đi những phần thường dùng đó, tôi xẻ thêm vài phần cho riêng mình, cụ thể là tim, lòng và móng giò của nó. Chừng này đã là giới hạn tối đa tôi có thể mang vác.
-
-Đó là một chuyến thu hoạch bội thu; ít nhất thì lượng thịt này cũng sẽ bán được một món tiền kha khá. Nhờ đã pha lóc cái xác một cách bài bản, tôi sẽ có thể bán nó cho một người bán thịt để kiếm một khoản hời. Trên thực tế, nếu bằng cách nào đó tôi giao nộp nhiều hơn số lượng được yêu cầu, tôi thậm chí còn có thể ăn hoặc bán phần còn lại. Do tính chất của ủy thác, tôi không nhất thiết phải giao nộp một bộ phận cụ thể nào của Orc vì họ chỉ yêu cầu một số phần thịt nhất định từ các cái xác. Thu thập nhiều hơn yêu cầu của ủy thác cũng chẳng hề hấn gì, bởi làm thế thì thịt sẽ không bị lãng phí.
-
-Dẫu vậy, cũng đáng lưu ý rằng hội có cung cấp dịch vụ xẻ thịt, bên cạnh việc sở hữu một phòng xẻ thịt chuyên dụng. Nếu có thể, tôi đã muốn vận chuyển nguyên cả cái xác về, nhưng tôi e rằng mình khó lòng làm được gì trước giới hạn kích thước của chiếc túi thắt lưng.
-
-Thu hoạch xong xuôi, tôi để mặc xác con Orc tại nơi nó nằm; rồi nó cũng sẽ tan biến sau một khoảng thời gian, như một bí ẩn chưa có lời giải khác của mê cung. Có lẽ nó làm mồi cho những con quái vật khác trong mê cung, hoặc đơn giản là bị kết cấu nơi đây hấp thụ—dù thế nào đi nữa, một trong hai cách tự nhiên đó sẽ xử lý nó. Vì vậy, việc tôi cứ để nguyên cái xác như thế cũng chẳng hại gì. Nói đúng hơn thì, nó sẽ được tận dụng hữu ích làm phân bón hoặc thức ăn cho bất cứ thứ gì đến sau.
-
-Khả năng một cái xác tươi thu hút quái vật vào lúc này cũng chỉ là quy luật tất yếu của cuộc sống; chẳng thể làm được gì nhiều trước trật tự tự nhiên của vạn vật.
-
-Thôi được rồi, tôi nghĩ mình nên đi tiếp thôi.
-
-Khi lại cất bước lên đường, tôi nhớ ra một thực tế rằng ủy thác yêu cầu cụ thể các phần thịt xẻ từ ba con Orc.
-
-Trước khi có thể kết thúc công việc trong ngày, tôi sẽ phải đánh bại và thu thập nguyên liệu từ thêm hai con Orc nữa. Dù cảm thấy việc lặp lại hai trận chiến tương tự sẽ khá hao tổn công sức, tôi không khỏi cảm thấy mình mạnh mẽ hơn sau khi hấp thụ sinh mệnh lực của con Orc bị hạ gục. Quả thực, tôi nhận thấy bản thân đang mong chờ trận chiến tiếp theo.
-
-Với những suy nghĩ đó trong đầu, tôi tiếp tục cuộc hành trình, tiến sâu hơn vào Mê Cung Tân Nguyệt để tìm kiếm loại nguyên liệu nấu nướng khó kiếm dường ấy.
+Và đúng là tôi đã thắng thật.
 
 ◆◇◆◇◆
 
-Sau một hồi vất vả nhọc nhằn, cuối cùng tôi cũng gom đủ số nguyên liệu theo yêu cầu. Với những phần thịt xẻ cụ thể cùng các nội tạng khác thu hoạch từ xác của ba con Orc, tôi lại bắt đầu cất bước tiến tới, lần này hướng về phía bậc thang dẫn trở lại tầng trước. Dẫu quái vật có tấn công tôi trên chặng đường quay về, tôi cũng không đi quá xa khỏi cầu thang, mà hoàn thành các yêu cầu của ủy thác ngay khu vực xung quanh. Thực tế là tôi chỉ chạm trán Slime, Goblin và những loài tương tự, nên thấy mình dễ dàng tiến bước mà chẳng gặp biến cố nào.
+Hạ được con Orc thì tốt thật đấy, nhưng việc của tôi vẫn chưa xong đâu. Dù rạch xác moi viên Ma Tinh gần tim nó ra thì dễ ợt, nhưng ủy thác tôi nhận lại yêu cầu cụ thể là phải lấy nguyên liệu trực tiếp từ thân thể con Orc.
 
-Nói đúng hơn thì, tôi thấy thư thái đến mức nghĩ tới việc mở Bản Đồ Akasha mà mình đã nhận được từ người phụ nữ kỳ lạ nọ.
+Cụ thể hơn, người ta muốn lấy thịt Orc chứ không phải Ma Tinh. Tôi đoán chắc người ủy thác bên hội định dùng thịt nó làm nguyên liệu nấu nướng.
 
-Dẫu vậy, nguy cơ một con Orc bất thình lình xuất hiện vẫn luôn thường trực. Trước tình cảnh này, tôi nhận thấy mình vẫn còn đôi chút dè chừng, bởi tôi không hoàn toàn đủ tự tin để đứng giữa một khoảng đất trống mà dán mắt vào tấm bản đồ tự vẽ. Nếu tôi có đồng đội canh chừng xung quanh thì mọi chuyện đã khác, nhưng dĩ nhiên thực tế lại có đôi phần khác biệt đối với một mạo hiểm giả độc hành như tôi.
+Ở vùng này người ta ăn đủ loại thịt, phổ biến nhất vẫn là thịt lợn, thịt bò và thịt gà. Đương nhiên đám gia súc gia cầm chẳng có Ma Lực hay năng lực dị biệt nào, nuôi nấng và nhân giống cũng an toàn hơn nhiều. Nhờ thế, giá thịt của chúng cũng vừa túi tiền hơn. Mấy thứ thịt này ăn vốn đã khá ngon miệng, nếu người nuôi có kỹ thuật và bỏ thêm tâm sức thì chất lượng còn có thể tuyệt hảo hơn nữa. Gia súc đúng là loài vật hữu ích.
 
-Tôi thực sự sẽ chỉ xem bản đồ nếu có thể hoàn toàn chắc chắn về sự an toàn của mình, hoặc khi đã hoàn toàn mất phương hướng và lạc đường. Trên thực tế, ngay cả khi có sự lựa chọn, tôi vẫn sẽ cảm thấy phân vân. Thật là một tình thế tiến thoái lưỡng nan.
+Nhưng vẫn có một loại thịt vượt trội hơn hẳn những món ăn thường nhật của số đông: thịt Orc. Có nhiều lý do cho việc này, nhưng lý do dễ hiểu và rõ ràng nhất là điều ai cũng biết: thịt Orc ăn cực kỳ ngon.
 
-Thế nhưng, tôi không khỏi nghĩ về sự tiện lợi mà tấm bản đồ mang lại cho mình. Thật không ngờ nó lại có khả năng vẽ lại những con đường tôi từng đi qua miễn là tôi truyền Ma Lực vào trong đó!
+Có lẽ tôi nên đính chính một hiểu lầm mà nhiều người mắc phải: lắm người cứ nghĩ thịt Orc ngon là nhờ thớ cơ bắp của nó, nhưng họ nhầm to rồi. Lý do cho việc này, như tôi vẫn hay nói, thực ra khá đơn giản: thịt và cơ bắp của Orc vốn được Ma Lực cường hóa, nhưng khi nó chết đi thì luồng Ma Lực ấy cũng tan biến theo. Hệ quả là thịt của nó sẽ trở về trạng thái mềm mại ban đầu.
 
-Và thế là, với ý nghĩ muốn hoàn thiện tấm bản đồ càng nhiều càng tốt, tôi đã chọn đi theo một con đường khác trên đường quay trở lại bậc thang. Nhưng Mê Cung Tân Nguyệt lại rộng lớn hơn bất kỳ Mê Cung nào tôi từng đặt chân tới trước đây. Do đó, việc vẽ bản đồ nơi này chắc chắn sẽ không phải là một nhiệm vụ dễ dàng. Ít nhất thì tôi cũng muốn lập xong bản đồ hoàn chỉnh một tầng, dẫu chỉ vì điều đó sẽ cho phép tôi sử dụng chức năng dò tìm mạo hiểm giả của tấm bản đồ. Nhưng mặt khác, hạn chế này lại đặc biệt phiền toái đối với những mê cung có các tầng quá rộng lớn.
+Người ta đồn rằng thịt Orc ngon hơn giống lợn thượng hạng nhất nhiều lần, đến mức ai nếm thử một lần cũng sẽ chẳng còn tha thiết gì với các loại thịt khác.
 
-Trong hoàn cảnh bình thường, việc nhận biết vị trí của các mạo hiểm giả đồng nghiệp chẳng mấy quan trọng đối với tôi, nhưng điều này chỉ đúng trong hoàn cảnh kể trên. Nói đúng hơn thì, tôi sẽ chỉ dựa vào chức năng này nếu đang tìm kiếm ai đó, và tôi cho rằng lúc này thì chưa cần đến.
+Nghe thịt ngon như thế, hẳn sẽ có người thắc mắc sao nó không phổ biến hơn, nhưng đó thuần túy là chuyện cung cầu. Trước hết, mạo hiểm giả đủ sức chủ động đi săn Orc vốn chỉ đếm trên đầu ngón tay. Chí ít theo tôi biết, chẳng mạo hiểm giả nào có thể cung cấp thịt Orc đều đặn với số lượng đủ nuôi cả một thị trấn.
 
-Bước chân trầm ngâm của tôi chẳng mấy chốc bị ngắt quãng bởi những âm thanh giao chiến tuy mơ hồ nhưng rất rõ ràng.
+Thứ nguyên liệu hiếm có ấy thường chỉ xuất hiện trên bàn ăn của giới quý tộc, những kẻ lắm tiền nhiều của, hoặc trong các nhà hàng đắt đỏ. Nguồn cung đã hạn hẹp như vậy thì chẳng cần nói cũng biết, giá của nó lúc nào cũng đắt đỏ vì độ khan hiếm.
 
-Trong những tình huống như thế này, không có một cách ứng phó duy nhất nào là thỏa đáng, và các mạo hiểm giả thường có những quan điểm khác nhau. Trong khi một số mạo hiểm giả cảm thấy việc không đi ngang qua để tránh làm phân tâm một đồng nghiệp đang chiến đấu là phép lịch sự, những người khác lại cho rằng tốt hơn nên âm thầm quan sát, rồi ra tay tương trợ nếu tình thế trở nên nguy ngập.
+Nói cách khác, chỉ cần hạ được một con Orc rồi mang trót lọt thịt nó về, mạo hiểm giả sẽ nhận được một khoản thù lao cực kỳ hậu hĩnh.
 
-Có thể nói rất nhiều điều về cả hai góc nhìn cùng cách hành xử kể trên, nhưng quả thực rất khó, nếu không muốn nói là bất khả thi, để khẳng định bên nào đúng đắn hơn bên nào.
+Tôi tiến lại gần con Orc vừa gục ngã — kẻ sắp sửa làm dày thêm túi tiền của mình — rồi dứt khoát rạch một nhát thật sâu vào cổ nó. Máu lại từ miệng vết thương mới ộc ra. Nhờ có thêm vết rạch này cùng với vết chém to tướng trước ngực, tôi có thể nhanh chóng xả hết máu trong xác nó ra ngoài.
 
-Về trường hợp của mình, tôi thuộc về nhóm thứ hai. Rất giống cách tôi từng hành xử trong lần đầu chạm trán Rina, tôi từ từ tiến lại gần nơi phát ra âm thanh. Giữ im lặng tuyệt đối, tôi chầm chậm bước về hướng chung của sự huyên náo, rồi cuối cùng nhanh chóng dừng lại.
+Trong lúc làm việc, tôi tuyệt đối giữ im lặng và tập trung cao độ. Nguy cơ bị quái vật khác bất thình lình lao tới tấn công lúc nào cũng rình rập, bởi suy cho cùng đâu phải chỉ mỗi con người mới thích thịt Orc. Ngay cả lũ quái vật trong này cũng thèm thuồng hương vị ngon tuyệt hảo của nó.
 
-Nấp sau chỗ nấp lén nhìn ra, tôi thấy hai mạo hiểm giả đang chiến đấu khá ngoạn mục với vài con Goblin và Slime. Từ động tác và kỹ thuật của họ, tôi đoán họ là những mạo hiểm giả Thiết Cấp hoặc có lẽ là Hạ Đồng Cấp ở độ tuổi khoảng 15 đến 16.
+Thế nên khi xả máu xong xuôi mà không đụng độ con quái vật nào khác, tôi mới thực sự thở phào nhẹ nhõm.
 
-Dù nói là vậy, họ vẫn thể hiện kỹ năng đáng kể bất chấp tuổi đời còn trẻ. Cậu thiếu niên có vẻ là một kiếm sĩ, còn cô thiếu nữ nhiều khả năng là người theo đuổi nghệ thuật trị liệu.
+Tôi tiếp tục công việc xẻ thịt nhuốm máu, lọc lấy những phần mình cần rồi gói thịt tươi vào mấy chiếc lá to bản và mềm mại. Thứ lá này lấy từ loài cây tên là Hoonoki Maalt mọc đầy trong các cánh rừng quanh thị trấn Maalt. Chúng nổi tiếng nhờ tác dụng giữ thịt tươi lâu, người ta vẫn thường dùng để bọc thịt sống. Đúng là một loài cây vô cùng tiện lợi.
 
-Đó là một đội hình đơn giản nhưng hiệu quả: cậu thiếu niên giữ tuyến đầu, còn cô thiếu nữ hỗ trợ cậu bằng ma pháp từ phía sau. Thành thật mà nói, đội hình này hơi mạo hiểm đối với một nhóm chỉ có hai người. Dù họ chống cự rất tốt trước lũ Goblin, lũ Slime dường như lại gây ra đôi chút rắc rối.
+Riêng tôi thì lúc nào cũng thủ sẵn một bọc lớn bên mình. Cũng như mấy cái lọ đựng chất lỏng tôi từng dùng để thu thập dịch nhờn của Slime, thứ lá này là vật dụng hữu ích mà mạo hiểm giả nào cũng mang theo.
 
-Đúng lúc ý nghĩ đó vừa thoáng qua tâm trí tôi, cô thiếu nữ phóng một quả cầu lửa về phía lũ Slime. Ma pháp như thế là một trong nhiều phép tấn công hạ cấp, và những ai có năng khiếu thi triển ma pháp thường nắm bắt rất nhanh.
+Những phần tôi lọc từ cái xác gồm thăn lưng, thăn phi lê và ức, cùng mấy tảng thịt lớn cắt từ đùi. Dù rất muốn nhét nguyên cả cái xác vào bao mang về, nhưng chiếc túi thắt lưng của tôi đâu thể chứa nổi chừng ấy. Nghĩ mà tiếc thật.
 
-Thật không may cho tôi, tôi lại chẳng hề sở hữu tài năng hay thiên phú ma pháp nào như thế. Điều duy nhất tôi có thể làm là cường hóa cơ thể bằng ma pháp tạo khiên chắn. Dù tôi không thể niệm những ma pháp tấn công, cô thiếu nữ đó lại đang ném những quả cầu lửa với tốc độ khá ấn tượng; tôi đoán cô ấy đã học tập và rèn luyện rất chăm chỉ.
+Lọc xong mấy phần thông dụng ấy, tôi cắt thêm một ít cho riêng mình, gồm tim, lòng non và mấy cái móng giò. Đến đây thì túi tôi cũng đã chật ních, chẳng thể vác thêm được gì nữa.
 
-Lũ Slime này, như thường lệ, rất yếu trước các đòn tấn công mang thuộc tính ma pháp, và chúng lập tức bị hạ gục bởi những vụ nổ của cô thiếu nữ. Lũ Slime bốc cháy rồi tan chảy, cuối cùng chỉ để lại Ma Tinh của chúng trên nền đất phủ cỏ. Cùng lúc đó, lũ Goblin mà cậu thiếu niên giao chiến cũng đổ gục, bị đoạt mạng bởi lưỡi kiếm của cậu.
+Một mẻ thu hoạch khá hời; chí ít thì ngần này thịt cũng đổi được một món tiền kha khá. Nhờ pha lóc cẩn thận, tôi có thể mang bán cho hàng thịt để kiếm một khoản hời. Thậm chí nếu giao nộp thừa so với yêu cầu, tôi còn có thể giữ lại ăn hoặc bán riêng phần dôi ra. Do ủy thác chỉ yêu cầu các phần thịt xẻ từ xác Orc chứ không đòi hỏi bộ phận cụ thể nào, nên có lấy thừa ra một chút cũng chẳng sao, vừa tiện tay mà thịt lại không bị lãng phí.
 
-Tôi đoán hai người này có thể tự xoay xở tốt.
+Có điều bên hội mạo hiểm giả cũng có sẵn phòng xẻ thịt chuyên dụng và cung cấp dịch vụ pha lóc. Nếu được thì tôi cũng muốn tha nguyên cả cái xác về cho rảnh nợ, nhưng sức chứa của chiếc túi thắt lưng có hạn nên đành chịu thôi.
 
-Hài lòng, tôi quay người bước đi, một lần nữa hướng về phía những bậc thang.
+Thu dọn xong xuôi, tôi bỏ lại xác con Orc ngay tại chỗ; qua một thời gian nó sẽ tự biến mất, tựa như bao bí ẩn chưa có lời đáp khác của chốn mê cung này. Có thể nó sẽ làm mồi cho lũ quái vật khác, hoặc đơn giản là bị chính cấu trúc mê cung nuốt chửng; đằng nào thì một trong hai cơ chế tự nhiên ấy cũng sẽ dọn dẹp nó sạch sẽ. Cho nên tôi cứ bỏ mặc cái xác ở đó cũng chẳng sao, thậm chí nó còn trở thành nguồn phân bón hay thức ăn hữu ích cho những sinh vật xuất hiện sau này.
 
-"...Ồ, xin thứ lỗi."
+Còn chuyện cái xác tươi có thể dẫn dụ lũ quái vật kéo đến thì cũng là lẽ thường tình thôi; quy luật tự nhiên vốn thế rồi, có muốn tránh cũng chẳng được.
 
-Dù tôi có chạm mặt vài mạo hiểm giả khác trên đường quay về, họ thậm chí chẳng buồn nhìn tôi lấy một lần, và cũng chẳng nói năng gì nhiều. Vì lý do nào đó, điều này lại khiến tôi tràn ngập một cảm giác vui sướng, và tôi sớm thấy mình đã bước ra khỏi mê cung, khép lại một ngày đi săn trọn vẹn.
+Thôi, đi tiếp thôi nào.
+
+Vừa rảo bước lên đường, tôi vừa nhớ lại việc ủy thác yêu cầu rõ ràng là phải lấy thịt từ ba con Orc.
+
+Trước khi có thể nghỉ ngơi hôm nay, tôi còn phải hạ gục và lấy nguyên liệu từ hai con Orc nữa. Dù nghĩ đến cảnh đánh thêm hai trận tương tự cũng thấy hơi oải, nhưng sau khi hấp thụ sinh mệnh lực từ con Orc vừa rồi, tôi thấy người mình khỏe khoắn hẳn lên. Nói thật, tôi còn đang nóng lòng chờ trận đấu tiếp theo đây.
+
+Nghĩ vậy, tôi tiếp tục cất bước, tiến sâu hơn vào Mê Cung Tân Nguyệt để lùng tìm thứ nguyên liệu nấu nướng quý giá ấy.
+
+◆◇◆◇◆
+
+Sau một hồi trầy trật, cuối cùng tôi cũng gom đủ số nguyên liệu cần thiết. Túi đã chật ních các tảng thịt xẻ cùng mớ nội tạng thu hoạch từ xác ba con Orc, tôi quay người hướng về phía cầu thang dẫn lên tầng trên. Dù trên đường quay lại thỉnh thoảng vẫn bị quái vật tập kích, nhưng do từ đầu tôi chẳng đi quá xa khỏi cầu thang mà chỉ săn quanh quẩn khu vực lân cận, nên mọi chuyện khá suôn sẻ. Vả lại cũng chỉ đụng phải Slime, Goblin hay mấy thứ quái vật đại loại thế, nên tôi dễ dàng đi tiếp mà chẳng gặp trở ngại gì.
+
+Thậm chí đầu óc tôi còn thảnh thơi đến mức tính mở Bản Đồ Akasha mà mình nhận được từ người phụ nữ kỳ lạ nọ ra xem.
+
+Dẫu vậy, mối nguy một con Orc thình lình xuất hiện vẫn luôn chực chờ. Bởi thế tôi vẫn phải cẩn trọng, chứ chưa đến mức liều lĩnh đứng thừ ra giữa bãi đất trống mà dán mắt vào tấm bản đồ tự vẽ. Nếu có đồng đội bọc lót xung quanh thì còn đỡ, nhưng với một kẻ độc hành như tôi thì thực tế lại chẳng dễ dàng như vậy.
+
+Tôi sẽ chỉ mở bản đồ ra xem khi chắc chắn mình đang ở nơi tuyệt đối an toàn, hoặc khi đã hoàn toàn lạc lối mất phương hướng. Ngay cả khi được chọn, lòng tôi vẫn cứ phân vân. Đúng là khó xử thật đấy.
+
+Thế nhưng nghĩ đi nghĩ lại, tấm bản đồ này đúng là tiện lợi thật sự. Không ngờ chỉ cần truyền Ma Lực vào là nó có thể tự động ghi lại toàn bộ những ngóc ngách mình từng đi qua!
+
+Thế nên vì muốn lấp đầy tấm bản đồ càng nhiều càng tốt, tôi quyết định chọn một lối đi khác để quay về cầu thang. Có điều Mê Cung Tân Nguyệt này lại rộng lớn hơn bất kỳ nơi nào tôi từng đặt chân tới trước đây. Kéo theo đó, việc vẽ trọn vẹn bản đồ nơi này chắc chắn chẳng hề đơn giản. Dù vậy, tôi vẫn muốn ghi lại hoàn chỉnh ít nhất một tầng, bởi có thế mới kích hoạt được tính năng định vị mạo hiểm giả. Khổ nỗi điều kiện ấy lại đặc biệt phiền toái ở những mê cung có diện tích mỗi tầng rộng thênh thang như thế này.
+
+Bình thường thì tôi cũng chẳng bận tâm việc các mạo hiểm giả khác đang ở đâu làm gì, nhưng đó là trong lúc bình thường thôi. Có chăng tôi chỉ cần đến chức năng này khi phải tìm kiếm ai đó, mà hiện giờ thì chưa có nhu cầu.
+
+Đang mải cất bước suy nghĩ thì bên tai tôi bỗng vang lên tiếng giao chiến, tuy còn văng vẳng nhưng không thể nhầm lẫn vào đâu được.
+
+Trong những tình huống như thế này, chẳng có cách xử lý nào là chuẩn mực tuyệt đối cả, bởi mỗi mạo hiểm giả lại có một quan điểm riêng. Có người cho rằng tránh đi ngang qua để khỏi làm phân tâm đồng nghiệp đang đánh nhau mới là lịch sự; nhưng cũng có người lại nghĩ nên lẳng lặng quan sát từ xa, để nhỡ đối phương gặp nguy ngập thì còn kịp thời ứng cứu.
+
+Bên nào cũng có cái lý của mình, và thực sự rất khó — nếu không muốn nói là chẳng thể — phân định rạch ròi xem cách nào đúng đắn hơn.
+
+Riêng tôi thì thuộc phe thứ hai. Cũng hệt như lần đầu tiên gặp Rina, tôi nhẹ nhàng lần theo hướng âm thanh phát ra. Hết sức nén tiếng động, tôi cẩn trọng dò bước về phía có tiếng ồn ào rồi dừng lại quan sát.
+
+Núp sau một vật chắn lén nhìn ra, tôi thấy hai mạo hiểm giả đang chống trả khá tốt trước mấy con Goblin và Slime. Nhìn động tác và kỹ thuật của họ, tôi đoán hai cô cậu này cỡ chừng mười lăm mười sáu tuổi, cấp bậc chắc tầm Thiết Cấp hoặc cùng lắm là Hạ Đồng Cấp.
+
+Nói vậy chứ dù còn trẻ nhưng tay nghề của họ không tồi chút nào. Cậu thiếu niên dường như là kiếm sĩ, còn cô bé kia chắc là trị liệu sư.
+
+Đó là một đội hình đơn giản mà hiệu quả: cậu thiếu niên nhận nhiệm vụ tiên phong đỡ đòn, còn cô bé đứng sau yểm trợ bằng ma pháp. Nói thực thì chỉ với hai người mà lập đội hình thế này cũng hơi liều. Dù cả hai chống cự trước lũ Goblin khá tốt, nhưng đám Slime có vẻ lại khiến họ hơi chật vật.
+
+Ý nghĩ ấy vừa thoáng qua đầu thì cô bé đã phóng một quả cầu lửa nhắm thẳng vào lũ Slime. Đây là một trong những phép tấn công sơ cấp thông dụng, người nào có năng khiếu ma pháp thường học rất nhanh.
+
+Khổ nỗi tôi lại chẳng có lấy nửa phần tài năng hay thiên phú ma pháp như người ta. Thứ duy nhất tôi làm được chỉ là niệm phép Khiên Chắn gia cố cho bản thân. Trong khi tôi chẳng dùng nổi ma pháp tấn công thì cô bé lại ném hỏa cầu nhanh thoăn thoắt; chắc hẳn con bé đã học hành và khổ luyện chăm chỉ lắm.
+
+Đám Slime này vốn kỵ đòn ma pháp, nên trúng phải cầu lửa nổ tung là bị tiêu diệt ngay tức khắc. Chúng bốc cháy rồi tan chảy ra, rốt cuộc chỉ còn trơ lại những viên Ma Tinh trên nền cỏ xanh. Cùng lúc đó, lũ Goblin mà cậu thiếu niên đang cầm chân cũng gục ngã dưới lưỡi kiếm của cậu.
+
+Xem ra hai cô cậu này tự lo được rồi.
+
+Yên tâm rồi, tôi xoay người rảo bước, một lần nữa quay lại hướng cầu thang.
+
+"...Ơ, xin lỗi nhé."
+
+Dù có chạm mặt vài mạo hiểm giả khác trên đường về, nhưng họ thậm chí chẳng buồn liếc nhìn tôi lấy một cái, cũng chẳng nói năng gì nhiều. Chẳng hiểu sao điều ấy lại khiến lòng tôi dâng lên một niềm vui khó tả. Chẳng mấy chốc tôi đã bước chân ra khỏi mê cung, khép lại một ngày đi săn bội thu.
