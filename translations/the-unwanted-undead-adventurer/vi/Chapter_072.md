@@ -2,111 +2,111 @@
 
 "Chà. Chuyện này thì đành chịu rồi... Cố hết sức đừng để bị giật mình thường xuyên nhé, Rentt," Lorraine nói bằng giọng có phần thản nhiên.
 
-Nghe nản thật chứ.
+Tệ thật chứ.
 
-Dù đã cùng Lorraine bàn bạc, nhưng nói chuyện một hồi tôi thấy vấn đề này coi bộ chẳng có cách nào giải quyết. Cơ mà nói thì dễ, chứ rèn cho tâm lý vững vàng để không bị giật mình đâu phải thứ kỹ năng có thể luyện xong trong một sớm một chiều... Cùng lắm tôi chỉ có thể thu cánh lại ngay sau khi giật mình, hoặc chủ động chú ý giữ cho cánh luôn gấp gọn suốt cả ngày. Đó dường như là hai cách khả dĩ nhất lúc này.
+Dù đã cùng Lorraine tìm cách tháo gỡ, nhưng qua cuộc trò chuyện vừa rồi, tôi có cảm giác vấn đề này vốn chẳng có cách nào giải quyết. Nói thì nói vậy, chứ rèn cho tâm lý vững vàng để không bị giật mình đâu phải thứ kỹ năng có thể luyện được trong một sớm một chiều... Cùng lắm tôi chỉ có thể thu cánh lại ngay sau khi giật mình, và có lẽ là luôn chú ý giữ cho cánh gấp gọn suốt cả ngày. Đó dường như là hai giải pháp thực tế nhất lúc này.
 
-"Giá mà chỉ dựa vào ý chí thôi cũng kiềm lại được thì tốt biết mấy..."
+"Giá mà chỉ dựa vào ý chí thôi cũng xử lý được chuyện này thì tốt biết mấy..."
 
-"Ừm, Rentt, ít nhất khi ở Maalt anh cũng phải cẩn thận hơn. Còn trong mê cung thì sẽ dễ thở hơn đôi chút vì anh thám hiểm một mình, chẳng có mạo hiểm giả nào dòm ngó sau lưng cả. Mà giờ dẫu có bị ai nhìn thấy thật, anh cứ bảo đó là trò ảo thuật do mình tự sáng chế, hoặc bịa ra cái cớ nào hay ho một chút là được."
+"Ừm, Rentt, ít nhất khi ở Maalt anh cũng phải để ý hơn. Còn trong mê cung thì sẽ dễ thở hơn đôi chút vì anh thám hiểm một mình, chẳng có mạo hiểm giả nào nhìn chằm chằm vào lưng anh cả. Mà giờ dẫu có ai nhìn thấy thật, anh cứ bảo đó là màn ảo thuật do mình tự sáng chế, hoặc bịa ra cái cớ nào sáng tạo một chút là được."
 
-Nghe chẳng ra một lời giải thích hay cái cớ ra hồn gì cho cam, nhưng rơi vào thế đó thì chắc tôi cũng chẳng còn lựa chọn nào khác.
+Nghe chẳng ra một lời giải thích hay cái cớ tử tế gì cho cam, nhưng rơi vào thế đó thì chắc tôi cũng chẳng còn lựa chọn nào khác.
 
 Bình tĩnh ngẫm lại, dẫu đôi cánh có đâm rách quần áo tôi mặc bên trong thì nhiều khả năng cũng chẳng xuyên thủng nổi lớp áo choàng. Dù sao thì áo choàng của tôi cũng đủ bền chắc để chống đỡ cả đòn tấn công của quái vật. Đôi cánh có bung ra mạnh mẽ hay dữ dội đến đâu thì một cú xòe cánh đơn thuần cũng chẳng thể sánh bằng một đòn đánh có chủ đích. Nghĩ vậy thì chắc áo choàng của tôi vẫn sẽ lành lặn thôi.
 
-"Nói chuyện này mới nhớ, Rentt. Đôi cánh đó của anh... Anh có nghĩ giờ mình đã bay được không?" Lorraine vẫn đang nhìn chăm chú vào lưng tôi.
+"À mà chuyện khác này, Rentt. Đôi cánh đó của anh... Anh có nghĩ giờ mình đã bay được không?" Lorraine vẫn đang nhìn chăm chú vào lưng tôi.
 
 Dù vẫn canh cánh nỗi lo về hai thứ kỳ lạ bỗng dưng mọc ra sau lưng, nhưng biết đâu chúng lại có công dụng hữu ích nào đó. Thành thật mà nói, ngay cả tôi cũng tò mò muốn biết đôi cánh này làm được những gì.
 
-Trước hết, có cánh là để bay, và phần lớn những gì tôi từng chứng kiến trong đời đều đúng như thế. Dĩ nhiên ở vùng đất này cũng có vài loài chim không biết bay. Dù có cánh nhưng chúng dường như chẳng mấy khi dùng đến, thành thử mới không bay lượn được.
+Trước hết, cánh là để bay, và phần lớn những gì tôi từng thấy trong đời đều cho thấy như vậy. Dĩ nhiên ở vùng đất này cũng có vài loài chim không biết bay. Dù có cánh nhưng chúng dường như chẳng mấy khi dùng đến, thành thử mới không bay được.
 
-"Để tôi thử xem sao..."
+"Chắc tôi nên thử xem sao..."
 
-Tôi cởi áo rồi xòe rộng đôi cánh. Chúng chẳng hề to tát chút nào, ngay cả khi dang rộng hết cỡ; chỉ cần liếc qua một cái là đủ biết với kích thước này thì sao mà bay cho nổi.
+Tôi cởi áo rồi xòe rộng đôi cánh. Chúng chẳng hề lớn chút nào, ngay cả khi đã dang rộng hết cỡ; chỉ cần liếc qua một cái là đủ biết đôi cánh này về mặt vật lý hoàn toàn không thể bay nổi.
 
-Thế nhưng được bay lượn giữa không trung vốn dĩ là một ước mơ đầy lãng mạn. Vì không biết dùng bất kỳ loại ma pháp bay nào, nên phi thuyền hoặc đôi cánh này là những cách duy nhất để tôi có thể bay vút lên trời xanh. Thế là tôi ra sức đập cánh, háo hức muốn xem liệu mình có thực hiện được giấc mơ bay lượn hay không.
+Thế nhưng được bay lượn giữa không trung vốn dĩ là một giấc mộng đầy lãng mạn. Vì không biết dùng bất kỳ loại ma pháp bay nào, nên phi thuyền hoặc đôi cánh này là những cách duy nhất để tôi có thể bay vút lên bầu trời. Thế là tôi đập cánh hết sức có thể, háo hức muốn xem liệu mình có thực hiện được giấc mơ bay lượn hay không.
 
 Ấy vậy mà...
 
-"Tôi hiểu rồi. Có lẽ chúng ta nên kiểm tra vài khía cạnh khác của mấy bộ phận mới mọc này trên người anh," Lorraine nói, chẳng chút nể nang khi quan sát màn đập cánh vô ích của tôi.
+"Tôi hiểu rồi. Có lẽ chúng ta nên kiểm tra vài khía cạnh khác của bộ phận mới này trên người anh," Lorraine nói, chẳng chút thương tiếc khi quan sát màn đập cánh vô ích của tôi.
 
-Ý cô quá rõ ràng rồi: tôi không tài nào bay nổi. Dù có cố thế nào đi nữa, chân tôi cũng chẳng nhấc nổi lên chút nào. Tất cả những gì tôi làm được chỉ là quạt ra một luồng gió nhẹ, thổi lay lắt khắp căn phòng.
+Ý cô quá rõ ràng rồi: về mặt vật lý, tôi không tài nào bay nổi. Dù có cố thế nào đi nữa, chân tôi cũng hầu như chẳng nhấc nổi khỏi mặt đất. Tất cả những gì tôi làm được chỉ là quạt ra một luồng gió nhẹ, thổi từng đợt gió thoảng khắp căn phòng.
 
-"Không... Chưa xong đâu. Tôi chỉ cần dồn thêm sức thôi! Nhất định đôi cánh này phải có sức mạnh tiềm ẩn nào đó chứ!"
+"Không... Chưa đâu. Tôi chỉ cần dồn thêm sức vào thôi! Nhất định đôi cánh này phải có sức mạnh tiềm ẩn nào đó chứ!"
 
-Tôi càng đập cánh dữ dội hơn, nhất quyết không chịu bỏ cuộc.
+Tôi càng đập cánh mạnh hơn, nhất quyết không chịu bỏ cuộc.
 
-Lorraine gật gù vẻ đăm chiêu. "Dùng vào mùa hè thì tiện phải biết. Đấy, quạt ra gió mát rượi còn gì."
+Lorraine gật gù ra chiều am hiểu. "Dùng vào mùa hè thì tiện phải biết, khỏi phải bàn. Đấy, quạt ra làn gió mát rượi thế kia mà."
 
-Một lời nhận xét phũ phàng.
+Một lời nhận xét lạnh lùng.
 
-Tức thật chứ!
+Chết tiệt thật!
 
-Chẳng lẽ mình chỉ làm được đến thế thôi sao? Đôi cánh này chỉ có ngần ấy tác dụng thôi ư?
+Chẳng lẽ mình chỉ làm được đến thế thôi sao? Đôi cánh này chỉ có ngần ấy khả năng thôi ư?
 
-Không đời nào! Mình phải bay được chứ. Mình phải có thể bay vút giữa bầu trời bao la chứ!
+Không. Không đời nào có chuyện đó được! Mình phải bay được chứ. Mình phải có thể bay vút giữa bầu trời rộng mở chứ!
 
-Mình còn thiếu thứ gì sao? Đó là lý do hiện giờ chưa bay được ư? Thứ... bí ẩn còn thiếu ấy rốt cuộc là cái gì?
+Có thứ gì đó còn thiếu sao? Đó là lý do lúc này mình chưa bay được ư? Thứ... bí ẩn còn thiếu ấy rốt cuộc là gì?
 
-Hừm. Tôi nhớ ra rằng có vài loài Rồng đâu phải cứ có cánh là bay được... Chỉ riêng đôi cánh thì sao nâng nổi một thân hình đồ sộ đến thế... hay đại loại thế nhỉ? Nếu vậy, chẳng phải tôi cũng đang rơi vào tình cảnh tương tự sao?
+Hừm. Tôi nhớ ra có vài loài Rồng đâu phải cứ có cánh là bay được... Chỉ riêng đôi cánh thì sao nâng nổi một thân hình nặng nề đến thế... hay đại loại thế nhỉ? Nếu vậy, chẳng phải tôi cũng đang rơi vào tình cảnh tương tự sao?
 
-Tôi quay sang nhìn Lorraine như muốn cầu cứu câu trả lời.
+Tôi quay sang nhìn Lorraine để tìm câu trả lời.
 
-"Chà... Đùa vậy thôi chứ người ta hay bảo những quái vật có thân hình khổng lồ bay được là nhờ lượng Ma Lực hoặc Khí Lực tích trữ hỗ trợ. Dĩ nhiên tôi không rõ chi tiết cụ thể thế nào, nhưng ít nhất thì chuyện đó cũng đáng để thử đấy."
+"Chà... Đùa vậy thôi chứ người ta hay bảo những quái vật có khối lượng cơ thể khổng lồ thường bay được là nhờ lượng Ma Lực hoặc Khí Lực tích trữ hỗ trợ. Dĩ nhiên tôi không nắm rõ tường tận chi tiết, nhưng dù sao chuyện đó cũng rất đáng để thử đấy."
 
-Vừa nãy Lorraine chỉ trêu đùa một chút thôi, giờ cô mới đưa ra cho tôi một gợi ý nghiêm chỉnh.
+Lorraine vừa nãy chỉ trêu đùa thôi, giờ cô mới đưa ra cho tôi một gợi ý nghiêm chỉnh.
 
-Nhưng cũng phải thôi, Lorraine vốn là người luôn cân nhắc mọi phương án có thể trước một vấn đề. Với tính cách của cô, chẳng lạ gì nếu cô đã nghĩ ra chuyện này từ trước cả tôi.
+Cũng dễ hiểu thôi, bởi Lorraine vốn là người luôn nghĩ tới mọi giải pháp có thể cho một vấn đề. Với tính cách của cô, chẳng có gì lạ nếu cô đã nghĩ ra kết luận này từ trước cả tôi.
 
 Tôi gật đầu với Lorraine rồi bắt đầu truyền Ma Lực vào đôi cánh.
 
-"A... Đúng như tôi đoán..." Lorraine nói, giọng thoáng vẻ kinh ngạc khi nhìn chăm chú về phía tôi.
+"A... Đúng như tôi đoán..." Lorraine nói, giọng thoáng vẻ kinh ngạc khi tiếp tục nhìn về phía tôi.
 
-Nhìn phản ứng của cô là hiểu, tôi đã nhấc người khỏi mặt đất và đang lơ lửng giữa không trung. Dường như cuộc thử nghiệm đã thành công, và truyền Ma Lực vào cánh quả là hướng đi đúng đắn.
+Nhìn phản ứng của cô là biết, tôi đã nhấc người khỏi mặt đất và đang lơ lửng giữa không trung. Dường như cuộc thử nghiệm đã thành công, và truyền Ma Lực vào cánh quả là hướng đi đúng đắn.
 
 Thế nhưng...
 
-"Anh không bay lên cao hơn được nữa à, Rentt?"
+"Anh không lên cao hơn được nữa à, Rentt?"
 
-Đúng như Lorraine hỏi, độ cao tôi bay được quả thực hơi thấp—khoảng cách giữa chân tôi với mặt đất cùng lắm chỉ vừa hai cuốn sách dày. Có lẽ bảo tôi đang lơ lửng thì đúng hơn là bay lượn thực sự.
+Đúng như Lorraine hỏi, độ cao tôi đang bay hơi thấp—khoảng cách giữa chân tôi với mặt đất cùng lắm chỉ nhét vừa cỡ hai cuốn sách dày. Có lẽ bảo tôi đang lơ lửng thì đúng hơn là bay thực sự.
 
-Tôi hoàn toàn hiểu vì sao Lorraine lại nói thế, bởi chính tôi cũng cảm thấy y như vậy. Đối với tôi, bay lượn là phải tự do chao liệng giữa trời cao, thậm chí làm vài cú ngoặt đẹp mắt. Đời nào tôi chịu hài lòng với cái độ cao cỏn con ngần này chứ.
+Chẳng khó để hiểu vì sao Lorraine lại nói thế, bởi chính tôi cũng cảm thấy y như vậy. Đối với tôi, bay lượn là phải tự do chao liệng giữa bầu trời rộng mở, thậm chí làm vài cú ngoặt ngoạn mục. Đời nào tôi chịu hài lòng với cái độ cao ít ỏi ngần này chứ.
 
-Tôi thử đủ mọi cách để bay lên cao hơn, từ tăng cường luồng Ma Lực cho tới gồng cứng rồi co duỗi khắp các cơ bắp trên người. Ngặt nỗi dù làm cách nào, độ cao tôi bay vẫn chẳng nhúc nhích thêm được phân nào.
+Tôi thử đủ mọi cách để nâng độ cao lên, từ tăng cường dòng Ma Lực cho tới gồng cứng rồi co duỗi khắp các phần cơ thể. Khổ nỗi dù tôi làm gì đi nữa thì độ cao vẫn chẳng thay đổi chút nào.
 
 "Chắc chỉ được tới mức này thôi..."
 
-Thấy tôi ủ rũ buông thõng hai vai thất vọng, Lorraine liền vỗ mạnh vào lưng tôi mấy cái.
+Thấy tôi buông thõng hai vai thất vọng, Lorraine liền vỗ mạnh vào lưng tôi mấy cái.
 
-"Thôi nào, thôi nào. Ít nhất làm vậy anh cũng tránh được bẫy dưới đất còn gì. Đâu đến nỗi tệ, đúng không? Dù sao thì hố sập cũng là vua của các loại bẫy—đơn giản nhất, nhưng lại là thứ đoạt mạng mạo hiểm giả nhiều nhất đấy."
+"Thôi nào, thôi nào. Ít nhất làm vậy anh cũng tránh được bẫy dưới mặt đất còn gì. Đâu đến nỗi tệ, đúng không? Dù sao thì hố sập cũng là vua của các loại bẫy—đơn giản nhất, nhưng lại là thứ nguy hiểm chết người nhất khi đoạt mạng mạo hiểm giả đấy."
 
-Lorraine rõ ràng đang an ủi tôi. Dẫu vậy, cô nói cũng có lý. Mặc dù mê cung thường đầy rẫy cạm bẫy, nhưng thứ nguy hiểm chết người hơn cả những cạm bẫy tinh vi ấy lại chính là cái bẫy hố sập đơn giản. Chúng thường xuất hiện dày đặc, mà cấu tạo càng đơn giản thì lại càng khó phát hiện.
+Lorraine rõ ràng đang an ủi tôi. Dù vậy, cô nói cũng có lý. Mặc dù mê cung thường đầy rẫy cạm bẫy, nhưng thứ nguy hiểm chết người nhất trong số những cơ quan phức tạp ấy lại chính là cái bẫy hố sập đơn sơ. Chúng thường xuất hiện với số lượng lớn, và chính cấu tạo đơn giản lại khiến chúng rất khó bị phát hiện.
 
-Những chiếc bẫy kích hoạt khi giẫm lên thì quá đỗi phổ biến; có thể là ngọn giáo phóng ra từ lỗ dưới đất, hay mũi tên bắn ra từ kẽ hở trên tường. Tinh xảo hơn thì có cơ chế ngầm nào đó sẽ tấn công mạo hiểm giả ngay khi họ vừa nhấc chân lên. Dẫu vậy, đi nhiều rồi cũng quen, mạo hiểm giả rốt cuộc sẽ nhìn thấu mánh khóe của những loại bẫy này thôi.
+Những chiếc bẫy kích hoạt khi giẫm lên thì quá phổ biến; có thể là ngọn giáo phóng ra từ cái lỗ dưới đất, hay mũi tên bắn ra từ kẽ hở trên tường. Tinh vi hơn thì có cơ chế ngầm nào đó, để rồi một mối nguy vô hình sẽ tấn công mạo hiểm giả ngay khi họ nhấc chân lên. Dù thế, người ta vẫn có thể quen dần với những dạng bẫy này, và rốt cuộc sẽ nhìn thấu sự hiểm độc của chúng.
 
-Thế nhưng bẫy hố sập thì khác... Nó có thể nằm ở bất kỳ đâu và cực kỳ khó phát hiện. Ngay cả tôi cũng suýt dính bẫy vô số lần... thậm chí vài bận đã lọt thỏm xuống hố thật. May sao trước khi rơi hẳn xuống đáy tôi còn kịp xoay xở cứu nguy, chẳng hạn như quăng chiếc móc dây may mắn đem theo bên mình. Dĩ nhiên chỉ cần một sơ sẩy nhỏ trong tình huống đó là cầm chắc cái chết. Nhớ lại chuyện này chẳng vui vẻ gì cho cam, nhưng có đôi cánh này rồi thì ít nhất tôi cũng tránh được những cái bẫy chết người đơn giản mà quái ác ấy.
+Thế nhưng bẫy hố sập thì khác... Nó có thể nằm ở bất kỳ đâu và rất khó phát hiện. Ngay cả tôi cũng suýt sập bẫy vô số lần... và vài lần đã thực sự rơi xuống những cái hố ấy. May sao trước khi rơi hẳn xuống đáy tôi còn kịp xoay xở cứu vãn tình thế đôi chút, chẳng hạn như quăng chiếc móc câu gắn dây thừng mà mình may mắn đem theo. Dĩ nhiên, chỉ cần một sai lầm duy nhất trong tình huống đó là cầm chắc cái chết. Nhớ lại chuyện này chẳng vui vẻ gì cho cam, nhưng giờ đã có đôi cánh này, ít nhất tôi cũng tránh được những cái bẫy chết người đơn giản đến đáng sợ ấy.
 
-"Dù vậy... nếu được thì tôi vẫn muốn bay lên cao hơn nữa... Muốn lượn giữa trời xanh..."
+"Dù là thế... nếu được thì tôi vẫn muốn bay ở độ cao lớn hơn... Muốn bay vút qua bầu trời..."
 
-Buồn rầu, tôi với lấy bộ điều khiển của chiếc phi thuyền nhỏ. Đúng như dự đoán, nó cất cánh nhanh chóng và thanh thoát—dáng bay tao nhã của nó khác xa một trời một vực so với cái bộ dạng vụng về của tôi.
+Trong nỗi buồn rầu, tôi với lấy bộ điều khiển của chiếc phi thuyền nhỏ. Đúng như dự đoán, nó cất cánh nhanh chóng và thanh thoát—tôi còn lâu mới sánh được với những chuyển động bay lượn tinh tế của nó.
 
 Chiếc phi thuyền nhỏ tự do bay lượn giữa không trung.
 
-A... phải rồi. Đây mới là thứ mình muốn làm được chứ...
+A... phải rồi. Đây mới là thứ mình muốn đạt được...
 
-Tôi khẽ cúi đầu, trong lòng bỗng dâng lên nỗi hụt hẫng vô bờ. Thấy vậy, Lorraine vội lên tiếng an ủi, giọng thoáng chút lo lắng.
+Tôi khẽ cúi đầu, bỗng thấy lòng trùng xuống vì cảm giác mất mát sâu sắc. Lorraine vội trấn an tôi, giọng thoáng chút lo lắng.
 
 "Khoan, khoan đã nào. Nhất định đâu chỉ có thế, Rentt. Vẫn còn mấy thứ anh chưa thử mà! Lần tới thử dùng Khí Lực hay Thần Lực thay cho ma pháp xem sao?"
 
 Lorraine nói phải: rất đáng để thử.
 
-Vẫn còn hy vọng. Bầu trời bao la vẫn chưa hoàn toàn khép lại trước mắt tôi.
+Vẫn còn hy vọng. Bầu trời rộng mở vẫn chưa hoàn toàn khép lại trước mắt tôi.
 
-Tôi nghiêm trang điều khiển cho chiếc phi thuyền nhỏ hạ cánh rồi cất bộ điều khiển đi. Trở lại giữa phòng, tôi lại xòe cánh ra lần nữa. Đợi Lorraine gật đầu, tôi dồn toàn bộ Khí Lực vào đôi cánh.
+Tôi trang trọng điều khiển cho chiếc phi thuyền nhỏ hạ cánh rồi cất bộ điều khiển đi. Trở lại giữa phòng, tôi lại xòe cánh ra lần nữa. Nhận được cái gật đầu của Lorraine, tôi truyền toàn bộ Khí Lực vào đôi cánh.
 
 Phải rồi. Nhất định phải là cái này!
 
-Một âm thanh kỳ lạ vang lên bên tai; tiếng rít chăng? Còn chưa kịp định hình xem đó là tiếng gì, đầu tôi đã đâm sầm một cú trời giáng vào tường.
+Một âm thanh kỳ lạ vang lên bên tai; tiếng rít chăng? Trước khi kịp nhận ra chính xác đó là tiếng gì, tôi thấy đầu mình đã đâm sầm một cú dữ dội vào tường.
 
 "R-Rentt! Anh có sao không?! Rentt!"
 
@@ -114,118 +114,118 @@ Tiếng Lorraine hốt hoảng vang lên bên tai, trong khi đầu tôi vẫn c
 
 ◆◇◆◇◆
 
-Đầu tôi... hoàn toàn không có vấn đề gì.
+Đầu tôi... không bị tổn hại gì cả.
 
-Xin nhắc lại: tuyệt đối chẳng sứt mẻ tí nào.
+Nhắc lại lần nữa: hoàn toàn không hề hấn gì.
 
-"Cái gì thế không biết...?" Tôi vừa lẩm bẩm vừa từ từ rút đầu ra khỏi bức tường.
+"Cái gì thế không biết...?" tôi vừa nói vừa từ từ rút đầu ra khỏi bức tường.
 
-Mảng tường vỡ khẽ rụng lả tả, vữa vụn rơi lấm tấm xuống mặt tôi. Có lẽ vì tốc độ lao vào quá khủng khiếp, một phần bức tường đã vỡ nát thành bột mịn, phủ lên chiếc mặt nạ của tôi một lớp bụi trắng mỏng.
+Mảng tường khẽ vỡ vụn theo cử động đó, từng mảnh tường bong ra rơi lả tả xuống mặt tôi. Có lẽ do tốc độ lao vào quá kinh khủng nên nhiều mảnh tường đã bị nghiền nát thành bột, phủ lên chiếc mặt nạ của tôi một lớp bụi trắng mỏng.
 
-"Câu đó tôi hỏi mới phải chứ, Rentt... Anh có sao thật không đấy? Vừa nãy anh cắm thẳng đầu vào tường với tốc độ kinh người như thế kia mà."
+"Câu đó tôi nói mới phải chứ, Rentt... Anh có sao thật không đấy? Anh đâm thẳng đầu vào tường với vận tốc kinh hồn như thế kia mà."
 
-Nét mặt Lorraine nửa bàng hoàng nửa sửng sốt. Nếu là cô, tôi cũng sẽ có vẻ mặt tương tự thôi. Dẫu sao thì chúng tôi cũng đang ở giữa một cuộc thử nghiệm bay lượn vô hại; đâu phải ngày nào người ta cũng thấy cảnh có kẻ phóng vèo qua phòng kín nhanh hơn mắt thường kịp chớp. Tệ hơn nữa là tôi còn cắm phập nửa cái đầu vào tường nhà cô.
+Nét mặt Lorraine pha lẫn giữa bàng hoàng và sửng sốt. Nếu là cô, tôi cũng sẽ có vẻ mặt tương tự thôi. Dù sao thì chúng tôi cũng đang ở giữa một cuộc thử nghiệm bay lượn vô hại; đâu phải ngày nào người ta cũng phóng vèo qua không gian kín nhanh hơn cả mắt thường kịp nhìn thấy. Tệ hơn nữa là tôi còn găm ngập nửa cái đầu vào tường nhà cô.
 
-"Hừm... Thật ra là không sao. Có lẽ là nhờ Tiến Hóa Bản Thể, nhưng tôi thực sự chẳng thấy đau đớn gì cả. Người ngợm coi bộ vẫn nguyên vẹn," tôi vừa tự kiểm tra cơ thể vừa đáp lại câu hỏi đầy lo lắng của Lorraine.
+"Hừm... Thật ra là không sao. Có lẽ nhờ Tiến Hóa Bản Thể, nhưng tôi thực sự chẳng thấy đau đớn gì cả. Xem chừng tôi gần như chẳng bị thương tích gì," tôi vừa kiểm tra cơ thể vừa đáp lại câu hỏi đầy lo lắng của Lorraine.
 
-"Tôi thấy rồi, Rentt. Đúng là anh chẳng sứt mẻ gì thật—nhưng nhà tôi thì không may mắn được như thế đâu. Giờ tôi phải lo sửa lại chỗ này đã..."
+"Tôi thấy rồi, Rentt. Đúng là anh chẳng bị thương thật—nhưng căn nhà của tôi thì không được như thế đâu. Giờ tôi phải bắt tay vào sửa nó thôi..."
 
-Lorraine đứng yên tại chỗ, lẩm nhẩm niệm chú. Chỉ trong vài giây, miệng hố to tướng trên bức tường hư hại từ từ khép lại, chẳng mấy chốc đã phẳng phiu lành lặn như xưa.
+Lorraine đứng yên tại chỗ, lẩm nhẩm niệm một câu thần chú. Chỉ trong vài giây, miệng hố toác ra trên bức tường hư hại từ từ khép lại, chẳng mấy chốc đã lành lặn trở lại như xưa.
 
-Đó là một bức tường xây bằng gạch vữa đơn giản, nên chẳng cần đến những ma pháp phục hồi quá đỗi cầu kỳ. Thế nhưng những câu thần chú dùng để vá lỗ thủng cùng các hư hại khác lại không hề đơn giản như ma pháp tấn công. Đó là những phép thuật đòi hỏi kỹ thuật cao và độ phức tạp lớn, người thi triển phải có vốn kiến thức vô cùng sâu rộng. Lorraine dường như rất tinh thông loại ma pháp này, cô sửa chữa hư hại ngon ơ mà thậm chí chẳng cần buồn nhấc một ngón tay.
+Đó là một bức tường đơn giản xây bằng gạch đá, nên chẳng cần đến phép sửa chữa phức tạp. Thế nhưng những câu thần chú dùng để vá lỗ thủng cùng các hư hại khác lại không hề đơn giản như ma pháp tấn công. Đó là những phép thuật có tính kỹ thuật và độ phức tạp rất cao, đòi hỏi người thi triển phải có lượng kiến thức đáng kể. Lorraine dường như rất chuyên về các ma pháp dạng này, cô có thể sửa chữa hư hại mà thậm chí chẳng cần nhấc một ngón tay.
 
-Phần lớn những người thông thạo loại ma pháp này đều là ma pháp sư trực thuộc hội kiến trúc nào đó, chuyên phục vụ cho giới quý tộc cùng các khách hàng giàu có ở vương đô. Hiển nhiên, những ma pháp sư như thế tương đối hiếm gặp.
+Phần lớn những người thông thạo loại ma pháp này đều là ma pháp sư thuộc một hội kiến trúc nào đó, thường bán dịch vụ của mình cho giới quý tộc cùng các khách hàng giàu có ở vương đô. Khỏi phải nói, những ma pháp sư như vậy tương đối hiếm gặp.
 
-Học được loại ma pháp này chẳng hề dễ dàng, và dù có nắm được căn bản thì muốn đem ra ứng dụng thực tế khá lắm cũng vô cùng chật vật.
+Học được những phép thuật đó hoàn toàn chẳng dễ dàng gì, và dù có nắm được căn bản thì việc đem ra ứng dụng thực tế khá lắm cũng đầy gian nan.
 
-Thế nhưng Lorraine thì khác... cô thi triển ngon lành chẳng chút khó khăn. Dẫu sau này có không làm học giả nữa, thì chắc chắn cô vẫn thừa sức kiếm sống dễ dàng ở vô số ngành nghề khác.
+Thế nhưng Lorraine thì khác... Cô dường như chẳng gặp mấy khó khăn. Dù một ngày nào đó có thôi làm học giả, chắc chắn cô vẫn có thể dễ dàng kiếm sống trong nhiều lĩnh vực đa dạng khác.
 
-So ra thì tương lai của tôi có phần mù mịt hơn nhiều. Nếu một ngày nào đó giã từ nghiệp mạo hiểm giả thì tôi biết làm gì đây? Trở thành nhân viên của Hội mạo hiểm giả chăng? Nếu nhớ không lầm thì Sheila từng nhắc đến chuyện tương tự. Nhưng dĩ nhiên là tôi chẳng có ý định giải nghệ rồi.
+So ra thì tương lai của tôi lại có phần ảm đạm hơn. Nếu một ngày nào đó giã từ nghiệp mạo hiểm giả thì tôi sẽ làm gì đây? Trở thành nhân viên của Hội Mạo Hiểm Giả chăng? Nếu nhớ không lầm thì Sheila từng nói điều gì đó tương tự. Nhưng dĩ nhiên là tôi chẳng có ý định quay về làm việc đó rồi.
 
-"Bức tường coi như xong nhé. Giờ thì, nếu tôi đoán không lầm... vừa rồi anh đã truyền Khí Lực vào cánh đúng không?"
+"Phần bức tường thế là xong nhé. Giờ thì, nếu tôi đoán không lầm... vừa rồi là anh truyền Khí Lực vào cánh đúng không?"
 
 Lorraine quay sang tôi khi hoàn tất những công đoạn sửa chữa cuối cùng. Tôi gật đầu đáp lại.
 
-"Đúng thế. Lúc nãy truyền nhiều Ma Lực vào cánh mà tôi chỉ lơ lửng là đà sát đất, nên tôi cứ ngỡ truyền một lượng Khí Lực lớn như thế vào cùng lúc cũng chẳng sao..."
+"Đúng vậy. Lúc nãy tôi truyền một lượng lớn Ma Lực vào cánh nhưng chỉ lơ lửng được ở độ cao thấp. Tôi cứ ngỡ truyền một lượng Khí Lực lớn tương đương vào cùng lúc thì cũng an toàn..."
 
-"Nhiều lúc tôi chẳng hiểu nổi rốt cuộc là anh nghĩ quá nhiều hay là chẳng thèm suy nghĩ gì nữa, Rentt... Cứ từ tốn thử nghiệm thì chết ai đâu. Sao mà vội vàng thế chứ?"
+"Đôi khi tôi thật sự không chắc là anh nghĩ quá nhiều hay là chẳng chịu nghĩ ngợi gì nữa, Rentt... Thử nghiệm từ từ thì có chết ai đâu. Sao phải vội vàng thế chứ?"
 
-Lorraine trách tôi với cái vẻ mặt ngán ngẩm đã quá đỗi quen thuộc suốt bao năm qua.
+Lorraine trách tôi bằng cái vẻ mặt ngán ngẩm đã trở nên quá quen thuộc suốt bao năm qua.
 
-Nhưng đúng như cô nói: lẽ ra tôi nên truyền từng chút một vào cánh để thử trước. Chỉ vì quá nôn nóng muốn được bay lượn mà tôi hấp tấp gây ra tai nạn. Tôi chẳng thể cãi lại Lorraine câu nào.
+Nhưng đúng như cô nói: lẽ ra tôi nên truyền một lượng nhỏ vào cánh để phòng ngừa. Tôi đã bị khao khát bay lượn làm cho mờ mắt, và sự hấp tấp cuối cùng đã gây ra một tai nạn nhỏ. Tôi chẳng thể cãi lại lời nào của Lorraine.
 
 "Lần sau tôi sẽ cẩn thận hơn."
 
-"Liệu có nhớ được không đấy, Rentt? Tôi mong là anh nhớ cho. Lần này thử từ từ truyền Khí Lực vào cánh xem sao?"
+"Thật thế không đấy, Rentt? Tôi rất mong là anh nhớ cho. Lần này thử từ từ truyền Khí Lực vào cánh xem sao?"
 
-Tôi ngoan ngoãn gật đầu nghe theo gợi ý của Lorraine. Nếu lại bắn vọt về hướng quái quỷ nào đó lần nữa thì phiền toái to.
+Tôi ngoan ngoãn gật đầu nghe theo gợi ý của Lorraine. Nếu tôi lại bay loạn xạ theo hướng kỳ quặc nào đó lần nữa thì rắc rối to.
 
-Tôi đứng vào giữa phòng. Có lẽ quay lưng lại bức tường xấu số kia là thượng sách, bởi tôi đâu biết lần này mình sẽ văng đi hướng nào. Dù sao đi nữa, miễn là không dại dột dồn một lượng Khí Lực quá trớn vào cánh cùng một lúc, thì chắc chắn tôi sẽ không đục thêm cái lỗ nào trong nhà Lorraine nữa.
+Tôi đứng vào giữa phòng. Có lẽ quay lưng về phía bức tường xấu số kia sẽ là khôn ngoan hơn, bởi tôi đâu biết tiếp theo mình sẽ bay về hướng nào. Dù sao đi nữa, miễn là không truyền một lượng Khí Lực vô lý vào cánh cùng một lúc, thì hoàn toàn có thể yên tâm là tôi sẽ không đục thêm cái lỗ nào trong nhà Lorraine nữa.
 
-Bất ngờ thay, chỉ một lượng nhỏ Khí Lực cũng đủ để đôi cánh tạo ra lực đẩy đáng kể về phía trước—đúng như Lorraine nói, vừa rồi tôi đã làm quá tay trầm trọng.
+Đáng ngạc nhiên là chỉ một lượng nhỏ thôi cũng đủ để đôi cánh tạo ra lực đẩy đáng kể về phía trước—đúng như Lorraine nói, vừa rồi tôi đã làm quá tay trầm trọng.
 
-Lượng Khí Lực truyền vào càng mạnh thì tốc độ lao tới càng nhanh—khá là dễ hiểu. Có điều tôi cũng sớm chạm đến ngưỡng an toàn. Mạnh thêm chút nữa khéo tôi lại tự tiện sửa nhà không xin phép mất.
+Cường độ Khí Lực truyền vào càng mạnh thì vận tốc đẩy tới càng nhanh—khá là dễ hiểu. Tuy nhiên, tôi sớm chạm đến ngưỡng an toàn. Thêm chút nữa thôi là tôi sẽ tiến hành tu sửa nhà cửa trái phép mất.
 
-Xem chừng thử nghiệm thêm trong phòng là không ổn rồi. Thấy tôi ngừng lại, Lorraine liền đưa ra một gợi ý khác.
+Xem chừng rất khó để thử nghiệm thêm ở trong nhà. Quan sát cử động của tôi, Lorraine lại đưa ra một gợi ý khác.
 
-"Hừm. Vậy ra Khí Lực tạo lực đẩy, còn Ma Lực thì giúp anh lơ lửng tự do... Thế nếu chỉ truyền Ma Lực thôi thì anh không di chuyển được à? Hay là không làm thế được?"
+"Hừm. Vậy là Khí Lực tạo lực đẩy, còn Ma Lực giúp anh lơ lửng tự do... Thế chỉ truyền mỗi Ma Lực thôi thì anh không di chuyển được à? Hay là không làm thế được?"
 
-"Cũng không hẳn... Hình như nhích được một tí."
+"Cũng không hẳn... Có lẽ được một chút."
 
-Để làm mẫu, tôi thu bớt Khí Lực trong cánh rồi lại truyền Ma Lực vào. Tôi lơ lửng lượn sang trái rồi sang phải đôi chút, dẫu chuyển động khá chậm chạp. Nhưng ít ra vẫn đang di chuyển. Nói cho đúng thì tôi đang lững lờ trôi qua trôi lại với tốc độ đi bộ.
+Để làm mẫu, tôi để Khí Lực trong cánh tan dần, rồi lại truyền Ma Lực vào lần nữa. Tôi lơ lửng sang trái rồi sang phải đôi chút, dẫu chuyển động khá chậm chạp. Nhưng tôi vẫn đang di chuyển. Nói đúng hơn thì tôi đang lơ lửng qua lại với tốc độ đi bộ.
 
-"Thế nếu anh vừa dùng Ma Lực để lơ lửng, vừa dùng Khí Lực đẩy tới trước thì có bay được không, Rentt?"
+"Thế chẳng phải anh sẽ bay được nếu dùng Ma Lực để lơ lửng, rồi dùng Khí Lực đẩy mình về phía trước sao, Rentt?"
 
-"Tôi chưa thử bao giờ. Để thử xem sao nhé... đây rồi."
+"Tôi chưa thử cách đó. Chắc tôi nên thử xem... đây rồi."
 
-Về mặt kỹ thuật, việc vận dụng cùng lúc cả hai nguồn năng lượng sẽ khá khó khăn, nhưng tôi từng làm được điều tương tự nhờ Ma Khí Dung Hợp Thuật. Dĩ nhiên, một người được rèn giũa kỹ năng bài bản chính quy có lẽ sẽ thấy cách của tôi thật kỳ quặc. Nhưng riêng tôi thì đã quá quen với mấy trò ứng biến chắp vá của mình rồi, nên việc truyền cả Khí Lực lẫn Ma Lực vào cánh cùng lúc hoàn toàn nằm trong tầm tay.
+Vận dụng cả hai nguồn lực lượng sẽ hơi khó về mặt kỹ thuật, nhưng tôi từng làm được điều tương tự nhờ Ma Khí Dung Hợp Thuật của mình. Dĩ nhiên, một người rèn luyện kỹ năng theo lối bài bản chính thống hơn có lẽ sẽ thấy phương pháp của tôi thật kỳ quặc. Tuy nhiên với cá nhân tôi, vì đã quen với kiểu ứng dụng chắp vá tùy tiện của mình rồi, nên việc truyền cả Khí Lực lẫn Ma Lực vào cánh cùng lúc là hoàn toàn khả thi.
 
-Tôi cũng có những nỗi lo riêng, chẳng hạn như lại bất thình lình bắn vọt đi đâu đó. Hậu quả của Ma Khí Dung Hợp Thuật ít nhất cũng phải nói là rất đáng quan ngại, nhất là khi một nhát kiếm dùng chiêu này từng khiến nội tạng mục tiêu nổ tung từ bên trong... Nghĩ tới cảnh đó, tôi tha thiết mong đôi cánh của mình đừng giở quẻ tương tự.
+Tôi cũng có những nỗi lo riêng, chẳng hạn như lại bất ngờ vọt đi theo hướng ngẫu nhiên nào đó. Tác động của Ma Khí Dung Hợp Thuật nói một cách nhẹ nhàng nhất thì cũng rất đáng ngại, nhất là khi một đòn chém kiểu đó bằng kiếm từng khiến nội tạng của mục tiêu nổ tung dữ dội từ bên trong... Nghĩ vậy, tôi rất mong đôi cánh của mình đừng làm điều tương tự.
 
 Mình phải hết sức cẩn thận mới được...
 
-Thế là tôi vừa nơm nớp lo sợ vừa cẩn thận truyền từng chút Khí Lực và Ma Lực vào cánh. Lạ thay, tôi chẳng hề nổ tung, mà cơ thể cũng không bị ép nát từ bên trong. Trái lại, tôi còn lướt tới trước một quãng khá xa, thậm chí có thể thay đổi tốc độ bằng cách gia giảm lượng Khí Lực trong cánh. Thế này là ổn phết đấy chứ.
+Và thế là tôi bắt đầu truyền từng chút Khí Lực và Ma Lực vào cánh, với thái độ có phần e dè và lo lắng. Đáng ngạc nhiên là tôi chẳng hề phát nổ, mà cũng chẳng có bộ phận nào trên người bị nổ tung vào trong. Thực tế là tôi đã tiến về phía trước một quãng đáng kể, và giờ có thể thay đổi tốc độ bằng cách điều chỉnh lượng Khí Lực trong cánh. Thế này là khá ổn đấy chứ.
 
-Không, quá tuyệt luôn ấy chứ! Mình đang bay rồi!
+Không, quá tốt luôn ấy chứ! Mình đang bay rồi!
 
-Ít nhất tôi cảm thấy như mình đang bay. Dù trên thực tế tôi vẫn chỉ đang lơ lửng là đà cách mặt đất một đoạn ngắn, nhưng cảm giác phấn khích trong tôi là thật.
+Ít nhất tôi cảm thấy như mình đang bay. Trên thực tế, tôi vẫn chỉ đang lơ lửng cách mặt đất một đoạn ngắn. Dù vậy, cảm giác phấn khích trong tôi là hoàn toàn chân thực.
 
-Nhờ bộc phát Khí Lực thật mạnh, tôi có thể vọt lên một độ cao đáng kể rồi từ từ lượn xuống. Nói cho đúng thì tôi đang lượn nhiều hơn là bay. Thế rồi, tôi chợt vỡ lẽ ra một điều.
+Nhờ một luồng Khí Lực bộc phát mạnh mẽ, tôi có thể bay vọt lên độ cao đáng kể, rồi từ từ lượn xuống từ độ cao đó. Nói cho chính xác thì tôi đang lượn nhiều hơn là bay. Thế rồi, tôi chợt ngộ ra một điều.
 
 Mình tiến hóa rồi! Tiến Hóa Bản Thể đã biến mình thành một con sóc bay!!!
 
 Khoan đã...
 
-Đâu phải thế! Sai quá sai rồi.
+Đó đâu hẳn là điều mình định nói. Chẳng giống chút nào cả.
 
-Cớ sao từ một Thi Quỷ tôi lại tiến hóa thành sóc bay được cơ chứ? Thật vô lý hết sức. Mà sao người ngợm tôi vẫn chưa bị nổ tung từ bên trong nhỉ...? Tôi tập trung cảm nhận, và chẳng mấy chốc đã tìm ra câu trả lời nằm ở dòng chảy năng lượng đang luân chuyển qua đôi cánh.
+Tại sao từ một Thi Quỷ tôi lại tiến hóa thành sóc bay cơ chứ? Chẳng có lý chút nào. Mà tại sao người tôi vẫn chưa bị nổ tung từ bên trong nhỉ...? Tôi tập trung tinh thần, và sớm tìm ra câu trả lời nằm ở dòng năng lượng đang chảy qua đôi cánh.
 
-Chính xác hơn thì chúng là những luồng năng lượng riêng biệt, không giống như hỗn hợp bất ổn tôi từng dùng trong các đòn tấn công Ma Khí Dung Hợp Thuật. Đôi cánh tựa cánh dơi của tôi gồm các lớp màng bay mềm và bộ khung nâng đỡ cứng cáp hơn. Theo quan sát mang tính học thuật của Lorraine, lớp màng chính là màng bay, còn các phần cứng là xương đốt ngón. Dù sao thì Ma Lực cũng luân chuyển qua lớp màng, còn Khí Lực lại chạy qua các đốt xương—dĩ nhiên là tách biệt hoàn toàn.
+Chính xác hơn thì chúng là những dòng năng lượng riêng biệt, không giống như hỗn hợp bất ổn tôi từng dùng trong các đòn tấn công Ma Khí Dung Hợp Thuật. Đôi cánh tựa cánh dơi của tôi gồm lớp màng bay mềm mại và bộ khung nâng đỡ cứng cáp hơn. Theo quan sát khoa học của Lorraine, lớp màng đó là màng bay, còn các phần cứng là xương đốt ngón. Dù sao thì Ma Lực cũng luân chuyển qua lớp màng này, còn Khí Lực lại chạy qua xương của tôi—dĩ nhiên là thành từng dòng tách biệt.
 
-Thấy tò mò, tôi thử truyền Khí Lực vào màng cánh và ngược lại, nhưng cơ thể dường như không cho phép làm vậy. Cũng phải, hai thứ này bình thường đâu thể tùy tiện trộn lẫn, vì không cẩn thận là phát nổ ngay. Chẳng lẽ cấu tạo đôi cánh của tôi đã tính trước đến điều này rồi sao? Cơ mà tôi thì biết gì về sinh lý học quái vật đâu chứ.
+Thấy tò mò, tôi thử truyền Khí Lực vào màng cánh và ngược lại, nhưng về mặt vật lý dường như không thể làm vậy được. Tôi đoán hai thứ này bình thường quả thực không nên hòa lẫn vào nhau, chủ yếu là vì nếu trộn lẫn thì chúng sẽ phát nổ ngay. Phải chăng đôi cánh của tôi được cấu tạo dựa trên những tính toán đó? Mà tôi thì cũng có biết mấy về sinh lý học quái vật đâu.
 
 Tôi đem suy nghĩ của mình kể lại cho Lorraine.
 
-"Ồ, thú vị thật đấy, Rentt... Nhưng phải rồi, nếu xét đến tác động của Dung Hợp Thuật lên sinh lý học cơ thể... Nghe hoàn toàn hợp lý đấy chứ. Tôi chưa thể khẳng định chắc chắn điều gì khi chưa kiểm tra kỹ lưỡng. Nhưng với đà này thì có vẻ anh bay được bằng đôi cánh đó rồi. Thấy chưa, Rentt? Có vô dụng tí nào đâu. Mọi chuyện êm xuôi là tốt rồi."
+"Ồ, thú vị thật đấy, Rentt... Nhưng phải rồi, nếu xét đến những tác động của Dung Hợp Thuật trong sinh lý học... Về mặt logic thì hoàn toàn hợp lý. Tôi chưa thể khẳng định cụ thể điều gì cho đến khi kiểm tra kỹ lưỡng. Nhưng với đà này, có vẻ anh bay được bằng đôi cánh đó rồi. Thấy chưa, Rentt? Rốt cuộc đâu có vô dụng chút nào. Kết thúc tốt đẹp thế là ổn rồi."
 
-Cô khẽ mỉm cười dịu dàng, rồi nói tiếp.
+Một nụ cười dịu dàng làm bừng sáng gương mặt cô. Cô nói tiếp.
 
 "Thử nghiệm cuối cùng sẽ là Thần Lực..."
 
-Đã thử cả Ma Lực lẫn Khí Lực rồi, thì kiểm tra nốt thứ này cũng là lẽ đương nhiên.
+Đã truyền cả Ma Lực lẫn Khí Lực vào cánh rồi, tôi đoán đây là bước hợp lý tiếp theo cần kiểm tra cho đủ bộ.
 
-Thần Lực xét trên nhiều mặt là một năng lực rất đặc biệt. Nó tuy mạnh mẽ, nhưng bản chất Thần Lực của mỗi người lại mỗi khác, tùy thuộc vào thực thể đã ban phước cho họ. Như tôi thì nhận được ơn ban từ mấy vị tinh linh sống trong ngôi đền đổ nát mà tôi từng bất đắc dĩ phải sửa lại. Theo tôi thấy thì họ là một dạng tinh linh thực vật nào đó—chà, ít ra thì theo lời Clope nhận định là vậy. Nhưng mà dẫn luồng Thần Lực ấy qua đôi cánh quái vật này... Có quá nhiều biến số khiến tôi chẳng thể lường trước được điều gì sẽ xảy ra.
+Thần Lực xét trên nhiều mặt là một năng lực đặc biệt. Nó rất mạnh mẽ, nhưng bản chất Thần Lực của mỗi người lại khác nhau, tùy thuộc vào thực thể đã ban phước ngay từ đầu. Trong trường hợp của tôi, tôi được ban phước bởi mấy tinh linh cư ngụ trong ngôi đền đổ nát mà tôi từng buộc phải sửa lại. Theo những gì tôi thấy thì họ là một dạng tinh linh thực vật nào đó—chà, ít ra là nếu tin theo nhận định của Clope. Tuy nhiên, dẫn truyền thứ Thần Lực như vậy qua đôi cánh quái vật của mình... Có quá nhiều biến số khiến tôi chẳng thể hình dung ra bất kỳ tiền lệ hay khả năng hợp lý nào về chuyện gì có thể xảy ra.
 
-Bất luận thế nào, tôi vẫn phải thử. Đây là điều tối quan trọng cần nắm rõ, nhất là trong những tình huống sinh tử. Hiểu rõ công cụ trong tay cũng quan trọng chẳng kém gì việc biết khi nào và ở đâu nên dùng chúng—đó là một trong những nguyên tắc vỡ lòng mà mạo hiểm giả kỳ cựu nào cũng nằm lòng.
+Dù thế nào đi nữa, tôi vẫn phải thử. Đó sẽ là kiến thức sống còn cần nắm rõ, đặc biệt là trong những tình huống sinh tử. Hiểu rõ công cụ trong tay cũng quan trọng chẳng kém gì việc biết khi nào và ở đâu nên dùng chúng—đó là một trong vô số nguyên tắc cơ bản của nghề mạo hiểm giả mà hầu hết các mạo hiểm giả kỳ cựu đều nằm lòng.
 
-Tôi hít một hơi thật sâu để trấn tĩnh lại, chuẩn bị sẵn tinh thần cho những gì sắp xảy ra. Từng chút một, tôi cảm nhận được dòng Thần Lực đang chảy vào đôi cánh. Và rồi...
+Hít một hơi thật sâu, tôi trấn tĩnh lại, chuẩn bị sẵn tinh thần cho những gì sắp xảy ra. Chậm rãi nhưng chắc chắn, tôi cảm nhận được dòng Thần Lực đang chảy vào đôi cánh. Và rồi...
 
 "Đẹp quá... Thật sự..."
 
-Nghe lạ thật đấy, nhất là khi câu đó lại thốt ra từ miệng Lorraine.
+Những lời thật lạ lùng, nhất là khi lại thốt ra từ môi Lorraine.
 
 "Hở?"
 
-"Thì... Rentt này. Đôi cánh của anh... đang phát sáng đấy."
+"Chà... anh thấy đấy, Rentt. Đôi cánh của anh... đang phát sáng kìa."
 
-Khỏi phải nói, nghe câu đó thì ngay cả tôi cũng phải sững sờ.
+Khỏi phải nói, nghe những lời đó thì ngay cả tôi cũng phải bất ngờ.
