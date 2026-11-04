@@ -1442,6 +1442,12 @@ Cả nhóm cùng xúc bùn đầy các hộp chứa, sau đó Rentt và Augurey 
 Trên đường trở về Làng Looza ngang qua bãi sinh sản của Phi Long Mime một cách thuận lợi, cả nhóm bỗng phát hiện một bóng người khả nghi khoác áo choàng đứng chặn đường phía trước.
 Cảnh kết thúc: Tiến lại gần để dò hỏi ông lão khoác áo choàng xem có cần giúp đỡ hay không, Rentt bất ngờ bị một thứ to lớn và nặng trịch đâm sầm thẳng vào bụng trước khi kịp dứt lời.
 
+## 245
+Lorraine lập tức bảo vệ Ferrici và Augurey bằng ma pháp khiên chắn tức thời sau khi Rentt bị ông lão bí ẩn đâm bay vào rừng; cô ngâm xướng ma pháp thổ hệ Ard Harba tạo ngọn giáo đá khổng lồ tấn công nhưng bị ông lão gạt phăng, buộc Augurey phải rút kiếm lao ra chặn đường.
+Sau khi Augurey bị cánh tay khổng lồ hóa của ông lão đánh văng vào rừng, Lorraine giao ma cụ tạo khiên chắn và vật đánh dấu định vị cho Ferrici trốn đi rồi chạy vào rừng chi viện; trong khi đó, Augurey đơn độc giằng co và đấu khẩu với ông lão mang dị năng phóng to cơ thể (đồng bọn của Goblin và Siren).
+Bị gãy xương nghiêm trọng sau cú va chạm, Rentt vận dụng Phân Liệt để tái tạo lại cơ thể lành lặn rồi lần theo mùi máu của Augurey chạy thục mạng tới chiến trường giữa rừng sâu.
+Cảnh kết thúc: Khi ông lão sắp sửa giáng nắm đấm khổng lồ kết liễu Augurey đang kiệt sức, Rentt kịp thời lao tới ném Augurey ra khỏi tầm đòn và hài hước trêu đùa về việc mình vừa "chết" một lần.
+
 
 
 
