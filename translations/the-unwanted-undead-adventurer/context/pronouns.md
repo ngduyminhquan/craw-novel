@@ -92,6 +92,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jean Seebeck | Jean Seebeck / Tổng Hội Trưởng Jean Seebeck / ông lão / ông | 221 | Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran |
 | Elza | Elza / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 222 | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas thuộc Giáo Hội Đông Thiên |
 | Yattul | Yattul / người đàn ông / người đánh xe / Goblin | 232 | Người đánh xe chở nhóm Rentt (thực chất là điệp viên Goblin, #233) |
+| Siren | Siren / ả / người phụ nữ / cô ta | 234 | Nữ điệp viên đồng mưu với Yattul (Goblin) |
 
 ## Giữa các nhân vật
 
@@ -430,4 +431,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Yattul | tôi | bác | 232 | Mạo hiểm giả nói chuyện với người đánh xe trung niên |
 | Yattul | Rentt Faina | tôi | ông chủ | 232 | Người đánh xe kiêm thương nhân nói chuyện với khách thuê xe (raw: boss) |
 | Yattul | * | tôi | các vị / mọi người | 232 | Người đánh xe nói chuyện với nhóm mạo hiểm giả trên xe (raw: folks / you guys) |
+| Lorraine Vivie | Yattul | tôi | bác | 234 | Học giả nói chuyện với người đánh xe |
+| Yattul | Lorraine Vivie | tôi | cô / quý cô | 234 | Người đánh xe từ chối khéo để học giả đi theo |
+| Yattul | Siren | tôi | cô / Siren | 234 | Điệp viên trao đổi nhiệm vụ với đồng nghiệp |
+| Siren | Yattul | tôi | anh / Goblin | 234 | Nữ điệp viên tự tin trao đổi với Goblin |
 

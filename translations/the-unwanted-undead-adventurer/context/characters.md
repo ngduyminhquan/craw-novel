@@ -123,6 +123,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Joachim Princeps Yaaran | Joachim | Joachim Princeps Yaaran | Đệ Nhất Hoàng Tử của Vương Quốc Yaaran | #229 |
 | Nadia Regina Yaaran | Nadia | Nadia Regina Yaaran | Đệ Nhất Công Chúa của Vương Quốc Yaaran | #229 |
 | Yattul |  | Yattul | Người đánh xe chở nhóm Rentt; thực chất là điệp viên mang mật danh Goblin (#232, #233) | #232 |
+| Siren |  | Siren | Nữ điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin) | #234 |
 
 ## Chi tiết
 
@@ -780,6 +781,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, người đàn ông trung niên vạm vỡ, thương nhân kiêm người đánh xe chạy tuyến giữa vương đô Yaaran và các thôn làng lân cận (#232).
 - Đặc điểm: Tỏ ra không thạo chiến đấu, ăn nói dân dã xởi lởi; nhưng thực chất là điệp viên kiêm sát thủ mang mật danh "Goblin", nhận lệnh từ cấp trên tiếp cận và tìm cách thủ tiêu nhóm Rentt trên đường đi; bẩm sinh có năng lực thuần hóa quái vật chỉ huy goblin và hobgoblin từ nhỏ, được đào tạo ở vương đô, thực lực tương đương mạo hiểm giả Ngân Cấp (tính đến #233).
 - Xuất hiện từ: #232.
+
+### Siren
+- Giới tính, vai trò: Nữ, điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin), mới vào nghề vài năm (#234).
+- Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; theo suy đoán của Augurey và nhóm Rentt có thể chuyên về mị hoặc/thao túng đàn ông (#234).
+- Xuất hiện từ: #234.
 
 
 

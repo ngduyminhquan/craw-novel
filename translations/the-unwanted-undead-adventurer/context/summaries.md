@@ -1378,6 +1378,13 @@ Thân phận thực sự của Yattul lộ diện: gã là một điệp viên k
 Kế hoạch hạ độc bằng thuốc ngủ cực mạnh vào nồi món hầm của Goblin thất bại hoàn toàn vì Rentt không hề chợp mắt suốt đêm; Goblin đành tạm hài lòng với suy đoán rằng việc thức đêm đã làm suy yếu thể lực của Rentt.
 Sáng hôm sau trên xe kéo, Rentt dùng Bản Đồ Akasha (vừa phát hiện thêm tính năng bản đồ thế giới) để theo dõi hành trình, đồng thời Lorraine giăng Cách Âm Kết Giới để cả ba bí mật bàn bạc và quyết định tương kế tựu kế tiếp tục giả vờ ngây ngô nhằm dụ đồng bọn của Goblin lộ diện.
 
+## 234
+Yattul lấy cớ đi vệ sinh để dừng xe kéo bên đường và lẩn vào rừng hòng gặp mặt đồng bọn; Rentt viện thính giác Undead vượt trội để lén bám theo nghe trộm mà không bị phát hiện.
+Yattul (Goblin) báo cáo thất bại với hai đồng bọn: một nữ điệp viên mang mật danh "Siren" tự tin tách ra đi "chuẩn bị sân khấu" ở phía trước lộ trình, và một điệp viên cao tuổi bí ẩn đứng sau bọc lót.
+Rentt trở về xe kéo báo tin; sau màn đùa cợt của Augurey về việc đặt tên chiến dịch, cả nhóm phân tích các mật danh và xâu chuỗi việc Goblin từng dùng bầy Hobgoblin tấn công (nghi do năng lực người thuần hóa quái vật).
+Nhóm phán đoán Siren có thể chuyên về mị hoặc/thao túng đàn ông và sẽ giăng bẫy tại Làng Looza trên đường đi; Rentt và Augurey nhắc nhau cảnh giác với phụ nữ thân thiện trong làng khiến Lorraine cảm thấy mình bị ra rìa.
+
+
 
 
 
