@@ -1484,6 +1484,11 @@ Goblin kinh ngạc khi hay tin ông lão bị đánh bại hoàn toàn trong tr�
 Sau khi thống nhất xong việc cử Goblin đi và giữ ông lão cùng Siren ở lại làm con tin, nhóm cởi trói cho Siren nhưng ả lập tức gào thét phản đối kế hoạch; Lorraine liền giơ đũa phép lên dọa khiến Siren sợ hãi phát khóc và ngoan ngoãn nghe lời.
 Cảnh kết thúc: Cả nhóm ngơ ngác trước sự khuất phục nhanh chóng của Siren và toát mồ hôi tự hỏi rốt cuộc trước đó Lorraine đã dùng biện pháp kinh khủng nào với ả, nhưng không ai dám mở miệng hỏi.
 
+## 252
+Nhóm Rentt tạm biệt dân làng Looza và Ferrici trong êm đẹp để khởi hành về vương đô; ông lão Cự Nhân và Siren trốn trong xe tránh bị nhận diện, còn Goblin tiếp tục làm người đánh xe.
+Trên xe, ông lão giải thích về việc dị năng có ảnh hưởng tinh vi lên người sở hữu (ông lão được tăng thể lực dù ở dạng nhỏ, Siren có sức hút bẩm sinh với người và động vật, Goblin có khiếu lấy lòng người khác); chuyến đi diễn ra suôn sẻ nhờ uy áp của ông lão và thuật thao túng của Siren xua đuổi quái vật, rồi cả nhóm thuận lợi qua cổng thành nhờ giấy tờ tùy thân thương nhân của nhóm sát thủ.
+Cảnh kết thúc: Đến vương đô, Goblin một mình đánh xe về căn cứ tổ chức ngầm để liên lạc với thủ lĩnh; Lorraine ở lại trông chừng ông lão và Siren, trong khi Rentt và Augurey chuẩn bị đi nộp nguyên liệu ủy thác và kiểm tra lịch trình trở về của Tổng Hội Trưởng.
+
 
 
 

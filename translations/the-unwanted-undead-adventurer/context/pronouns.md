@@ -462,4 +462,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lenora | Leo | tôi / em / mình | mình / anh | 240 | Vợ nói chuyện với chồng |
 | Lorraine Vivie | Siren | tôi | cô | 251 | Nữ học giả răn đe nữ điệp viên bằng đũa phép |
 | Siren | Lorraine Vivie | tôi | cô | 251 | Nữ điệp viên khiếp sợ ngoan ngoãn trước nữ học giả |
+| Rentt Faina | Siren | tôi | cô / các vị | 252 | Mạo hiểm giả tiếp chuyện nữ điệp viên |
+| Siren | Rentt Faina | tôi | anh | 252 | Nữ điệp viên ngạc nhiên trò chuyện với Rentt |
 

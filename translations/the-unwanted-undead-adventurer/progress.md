@@ -256,7 +256,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | reviewed |  |
 | 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | done |  |
 | 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | done |  |
-| 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | todo |  |
+| 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | done |  |
 | 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | todo |  |
 | 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | todo |  |
 | 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | todo |  |
@@ -904,3 +904,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#250] Dịch cụm từ 'ability wielder(s)' — tạm dùng 'người sở hữu dị năng / kẻ sở hữu dị năng' theo ngữ cảnh tự nhiên (phương án khác: 'dị năng giả' ngắn gọn theo phong cách Hán Việt). → Giữ 'người sở hữu dị năng / kẻ sở hữu dị năng' theo ngữ cảnh tự nhiên, hợp văn phong hiện đại trong style.md (không cần đưa vào glossary vì là cụm danh từ chung). (orchestrator)
 - [#251] Thành ngữ 'In for a bronze, in for a gold' (đoạn 62) — tạm dịch 'Đã trót mang một đồng xu đồng thì phải ráng tới một đồng xu vàng thôi, đâm lao đành phải theo lao vậy' để giữ chất fantasy và nghĩa tục ngữ (phương án khác: 'Đã đâm lao thì phải theo lao thôi'). → Giữ cách dịch trong bản dịch (kết hợp hình ảnh đồng xu đồng/vàng của thế giới fantasy và nghĩa thành ngữ đâm lao phải theo lao). (orchestrator)
 - [#251] Xưng hô Goblin (Yattul) với ông lão Cự Nhân ('Gramps') — tạm chọn xưng 'tôi', gọi 'ông / ông già' theo quan hệ đồng nghiệp/điệp viên trưởng thành (phương án khác: xưng 'cháu', gọi 'ông'). → Chốt Goblin (Yattul - đàn ông trung niên) xưng 'tôi', gọi 'ông / ông già'; ông lão xưng 'ta', gọi 'cậu / thằng bé' đúng quan hệ đồng nghiệp chênh tuổi trong tổ chức. (orchestrator)
+- [#252] Dịch tiêu đề arc 'Departure' — tạm chọn 'Khởi Hành' (phương án khác: 'Lên Đường') → Chốt 'Khởi Hành' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 11 Chương 2. (orchestrator)
