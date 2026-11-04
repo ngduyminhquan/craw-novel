@@ -106,15 +106,15 @@ Bên ngoài trời đã tối. Tính ra tôi ngã gục từ ban sáng, vậy l�
 
 Nghe tôi hỏi, Lorraine khép cuốn sách lại cái bụp, ngón tay lướt trên bìa sách khi trả lời.
 
-"Một cuốn sách về sinh thái của Ma Cà Rồng—nói đúng hơn thì hơi giống bách khoa toàn thư. Trong này ghi chép chi tiết về nhiều loài Ma Cà Rồng khác nhau, nhưng tôi nghĩ chắc anh cũng biết những điểm khác biệt cơ bản giữa chúng rồi. Thi Quỷ, Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng, rồi Đại Ma Cà Rồng... Đều có đủ cả. Dĩ nhiên, càng mạnh lên thì một số loài Ma Cà Rồng lại càng vượt ngoài tầm phân loại. Mấy cấp bậc kể trên hoàn toàn chưa phải là tất cả—chẳng hạn những Ma Cà Rồng sống qua năm tháng dài đằng đẵng thì được gọi là Ma Cà Rồng Cổ Đại, hay các nàng Công Chúa Ma Cà Rồng kinh điển thường xuất hiện trong truyện dân gian. Rõ ràng không thể áp cách phân loại trên cho hai trường hợp vừa rồi được."
+"Một cuốn sách viết về sinh thái của Ma Cà Rồng, nói đúng hơn thì hơi giống bách khoa toàn thư. Các mục trong này ghi chép chi tiết về nhiều loài Ma Cà Rồng khác nhau, nhưng tôi nghĩ chắc anh cũng biết những điểm khác biệt phổ biến giữa chúng rồi. Thi Quỷ, Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng, rồi Đại Ma Cà Rồng... Đều có đủ chi tiết cả. Dĩ nhiên, càng mạnh lên thì một số loài Ma Cà Rồng lại càng vượt ngoài tầm phân loại. Cách phân loại trên hoàn toàn chưa phải là tất cả, chẳng hạn những Ma Cà Rồng sống qua năm tháng dài đằng đẵng thì được gọi là Ma Cà Rồng Cổ Đại, hay các nàng Công Chúa Ma Cà Rồng kinh điển thường xuất hiện trong truyện dân gian. Như anh thấy đấy, đâu thể áp cách phân loại trên cho hai trường hợp vừa rồi được."
 
 "Tôi chưa nghe nói có ai từng gặp một trong hai loại Ma Cà Rồng đó bao giờ. Nên có khi chúng chỉ là chuyện dân gian thêu dệt thôi. Kể cả tính đến năng lực của một Đại Ma Cà Rồng, thì quyến thuộc cùng các thành viên huyết tộc của nó nhiều lắm cũng chỉ đông cỡ một ngôi làng. Dĩ nhiên, sẽ rắc rối to nếu bằng cách nào đó chúng trà trộn vào thị trấn rồi tự lập nên một xã hội Ma Cà Rồng bên trong. À mà chuyện này tôi cũng chỉ nghe đồn thôi, nhưng... truyền thuyết ở một xứ sở xa xôi nọ có kể về Ma Cà Rồng Hoàng Hôn, kẻ đã chiếm đoạt cả vương quốc về tay mình. Theo tôi, thứ đó đúng nghĩa chỉ là truyền thuyết thôi, không hơn."
 
-"Nhưng anh cũng nên nhớ rằng truyền thuyết đôi khi vẫn có phần sự thật đấy. Dù sao thì, Rentt này, chẳng phải chính anh cũng từng đụng độ một con rồng trong truyền thuyết, rồi bị nó nuốt chửng đó sao? Biết đâu Ma Cà Rồng Hoàng Hôn thực sự tồn tại—và tôi cũng có thể nói điều tương tự về thứ mà Giáo Hội Đông Thiên tôn thờ ở vùng đất phương Đông đấy chứ. Tôi nói có sai không?"
+"Nhưng anh cũng nên nhớ rằng truyền thuyết đôi khi vẫn có phần sự thật đấy. Dù sao thì, Rentt này, chẳng phải chính anh cũng từng đụng độ một con Rồng trong truyền thuyết, rồi bị nó nuốt chửng đó sao? Biết đâu Ma Cà Rồng Hoàng Hôn thực sự tồn tại, và tôi cũng có thể nói điều tương tự về thứ mà Giáo Hội Đông Thiên tôn thờ ở vùng đất phương Đông đấy chứ. Tôi nói có sai không?"
 
-Lorraine đã chỉ ra một kẽ hở chí mạng trong lập luận của tôi. Dù sao thì chính tôi cũng từng tận mắt đụng độ một sinh vật bước ra từ truyền thuyết. Lẽ ra tôi phải là người cuối cùng mở miệng bảo truyền thuyết chỉ là chuyện thêu dệt mới phải.
+Lorraine đã chỉ ra một kẽ hở chí mạng trong lập luận của tôi. Dù sao thì chính tôi cũng từng tận mắt đụng độ một sinh vật bước ra từ truyền thuyết. Lẽ ra tôi phải là người cuối cùng mở miệng bảo truyền thuyết chỉ là chuyện dân gian thêu dệt mới phải.
 
-Ngồi ngẫm lại thì chuyện tôi từng trải qua còn vượt xa những truyền thuyết thông thường mà tôi từng nghe: bị rồng nuốt chửng rồi biến thành quái vật. Dù người ta cũng có thể biến thành quái vật qua vài nghi lễ kỳ quặc hay uống máu Ma Cà Rồng, nhưng cơ hội thành công lại khá nhỏ.
+Ngồi ngẫm lại thì chuyện tôi từng trải qua còn vượt xa những truyền thuyết thông thường mà tôi từng nghe: bị Rồng nuốt chửng rồi biến thành quái vật. Dù người ta cũng có thể biến thành quái vật qua vài nghi lễ kỳ quặc hay uống máu Ma Cà Rồng, nhưng cơ hội thành công lại khá nhỏ.
 
 Tôi đành phải gật đầu.
 
@@ -124,6 +124,6 @@ Tôi đành phải gật đầu.
 
 "Là...?"
 
-"À... Cho tôi chúc mừng lần Tiến Hóa Bản Thể này của anh nhé."
+À... Chắc là để chúc mừng lần Tiến Hóa Bản Thể này của tôi đây mà.
 
-Một nụ cười thoáng nở trên môi cô khi nói ra câu đó.
+Một nụ cười thoáng nở trên môi cô khi nói ra những lời đó.

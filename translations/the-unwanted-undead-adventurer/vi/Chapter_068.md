@@ -30,130 +30,130 @@ Có thể đó là truyền thống lâu đời của gia tộc Latuule, hoặc 
 
 Nếu quả thật là vậy...
 
-Không! Chiếc phi thuyền nhỏ sẽ vĩnh viễn vuột khỏi tầm tay tôi mất!
+Không! Chiếc phi thuyền nhỏ sẽ mãi mãi vuột khỏi tầm tay tôi mất!
 
-Cú sốc tinh thần đối với tôi quá đỗi lớn lao; nó thậm chí còn sánh ngang cả cú sốc tôi từng trải qua khi nhận ra đời mình chắc sẽ mãi giậm chân ở bậc Đồng Cấp. Tôi thất vọng đến mức ấy đấy. Một cảm giác mất mát sâu sắc trào dâng...
+Cú sốc tinh thần đối với tôi quá đỗi lớn lao; nó thậm chí còn ngang ngửa cú sốc tôi từng trải qua khi nhận ra đời mình chắc sẽ mãi giậm chân ở bậc Đồng Cấp. Nỗi thất vọng của tôi lớn đến thế đấy. Một cảm giác mất mát sâu sắc trào dâng...
 
-Bình thường tôi chẳng mấy khi nghĩ tới chuyện đó, nó cũng chẳng thoáng qua đầu tôi. Thế nhưng... Ôi. Sức nặng của thực tế này giáng xuống tâm hồn tôi... Tự đáy lòng, tôi thấy một nỗi buồn đắng cay khôn tả.
+Bình thường tôi chẳng mấy khi nghĩ tới chuyện đó, nó cũng chẳng thoáng qua đầu tôi. Thế nhưng... Ôi. Thực tế này giáng một đòn quá nặng nề vào tâm hồn tôi... Tự đáy lòng, tôi thấy một nỗi buồn vừa chua xót vừa đắng cay.
 
-Không được, Rentt. Mày phải hướng tâm trí vào những điều khác, và nỗ lực vì mục tiêu của mình chứ. Những mục tiêu lớn lao hơn, dài hạn hơn.
+Không được, Rentt. Mày phải hướng tâm trí vào những việc khác, và nỗ lực vì mục tiêu của mình chứ. Những mục tiêu lớn lao hơn, dài hạn hơn.
 
 Hay chí ít thì tôi cũng đã cố. Rồi thất bại ngay tức khắc...
 
 Lúc đó, và cho đến tận bây giờ, tôi vẫn chưa hết bàng hoàng. Chắc trong mắt Laura bộ dạng tôi nom thảm hại lắm, cô bé đang nhìn về phía tôi với ánh mắt pha lẫn giữa thương cảm và thích thú.
 
-"Chiếc phi thuyền nhỏ là một phần trong bộ sưu tập của gia tộc Latuule... vả lại cá nhân tôi cũng có chút lưu luyến với nó. Dẫu vậy, nếu ngài tha thiết muốn có nó đến mức ấy, thì có lẽ vẫn có vài... cách..." Laura lên tiếng, giờ đây dường như có phần ái ngại trước nỗi ám ảnh lộ rõ của tôi.
+"Chiếc phi thuyền nhỏ là một phần trong bộ sưu tập của gia tộc Latuule... vả lại cá nhân tôi cũng có chút gắn bó với nó. Dẫu vậy, nếu ngài tha thiết muốn có nó đến thế, thì có lẽ vẫn có vài... cách..." Laura lên tiếng, giờ đây dường như hơi ái ngại trước nỗi ám ảnh lộ rõ của tôi.
 
 Nghe cô bé nói vậy, tôi chầm chậm ngẩng đầu lên, mấy ngón tay thôi ngọ nguậy, mắt nhìn thẳng vào cô bé.
 
-"Quay lại chủ đề chính nhé, ngài Vivie," Laura tiếp tục. "Hôm nay ngài có mặt ở đây là vì được chỉ đích danh để thực hiện một công việc nhất định, đó là định kỳ thu thập Hoa Long Huyết. Chắc ngài cũng nắm được chừng đó rồi chứ?"
+"Quay lại chuyện chính nhé, ngài Vivie," Laura tiếp tục. "Hôm nay ngài có mặt ở đây là vì được chỉ đích danh để thực hiện một công việc nhất định, đó là định kỳ thu thập Hoa Long Huyết. Chắc ngài cũng nắm được chừng đó rồi chứ?"
 
 "Vâng. Tuy nhiên, người thuê..."
 
-"A, phải rồi. Người thuê trên danh nghĩa là Isaac. Nhưng chắc hẳn ngài đã sớm suy ra chân tướng sự việc sau khi gặp tôi."
+"A, phải rồi. Người thuê sẽ là Isaac. Nhưng chắc hẳn ngài đã sớm suy ra chân tướng sự việc sau khi gặp tôi."
 
 "...Vâng. Tôi hiểu người thuê... Thật sự. Chính là cô bé, Laura."
 
-Nếu đây thật sự là ủy thác do Isaac đưa ra, anh ta chỉ việc đích thân gặp tôi là xong. Anh ta có thể báo với Laura rằng mạo hiểm giả đã tới, và chẳng có lý do thực sự nào để nữ chủ nhân của anh ta phải đích thân ra mặt nói chuyện với tôi. Isaac hoàn toàn có thể tự giải thích các điều khoản thỏa thuận.
+Nếu đây thật sự là ủy thác do Isaac đưa ra, anh ta chỉ việc đích thân gặp tôi là xong. Anh ta có thể báo với Laura rằng mạo hiểm giả đã tới, và nữ chủ nhân của anh ta cũng chẳng cần phải đích thân ra mặt nói chuyện với tôi làm gì. Isaac hoàn toàn có thể tự giải thích các điều khoản thỏa thuận.
 
-Thế nhưng khi gặp Laura, tôi lập tức hiểu ra bản chất sự việc. Đó chỉ là giả định, bởi tôi chẳng hề tự phụ rằng mình biết rõ chân tướng bằng bất cứ cách nào, nhưng xem ra tôi đã đoán đúng phần lớn.
+Thế nhưng khi gặp Laura, tôi lập tức hiểu ra bản chất sự việc. Đó chỉ là phỏng đoán thôi, bởi tôi đâu dám tự nhận mình biết rõ sự thật, nhưng xem ra tôi đã đoán đúng phần lớn.
 
-Laura nói tiếp. "Tôi dùng những bông Hoa Long Huyết đó, à thì, nói đúng hơn là phần dịch chiết của chúng, đều đặn theo định kỳ. Đó là lý do tại sao Isaac phải đi hái chúng cho tôi ở Đầm Lầy Tarasque. Thế nhưng, tội nghiệp Isaac dạo gần đây có vẻ làm việc hơi quá sức, và với tư cách là chủ nhân của anh ấy, tôi nghĩ mình muốn cho anh ấy chút thời gian nghỉ ngơi."
+Laura nói tiếp. "Tôi dùng những bông Hoa Long Huyết đó, à thì, nói đúng hơn là phần dịch chiết của chúng, đều đặn theo định kỳ. Đó là lý do tại sao Isaac phải đi hái chúng cho tôi ở Đầm Lầy Tarasque. Thế nhưng tội nghiệp Isaac dạo gần đây có vẻ làm việc hơi quá sức, và là chủ nhân của anh ấy, tôi nghĩ mình cũng nên cho anh ấy nghỉ ngơi đôi chút."
 
-Laura nói có lý; để duy trì một dinh thự tầm cỡ này và định kỳ xông pha vào Đầm Lầy Tarasque quả thật không phải chuyện nhỏ. Tôi chỉ có thể hình dung gánh nặng ấy đè lên vai Isaac cùng những người hầu khác của gia tộc Latuule đến mức nào.
+Laura nói có lý; để quán xuyến một dinh thự cỡ này mà còn phải định kỳ xông pha vào Đầm Lầy Tarasque thì đâu phải chuyện nhỏ. Tôi chỉ biết thử hình dung xem gánh nặng ấy đè lên vai Isaac cùng những người hầu khác của gia tộc Latuule lớn đến mức nào.
 
-Mà nghĩ lại, có lẽ nói vậy cũng chưa hẳn chính xác. Chỉ có mỗi Isaac là người dấn thân vào đầm lầy, nên gánh nặng đó có lẽ chỉ đặt lên vai một mình anh ta mà thôi.
+Mà nghĩ lại, nói vậy có lẽ cũng chưa hẳn đúng. Chỉ có mỗi Isaac là người dấn thân vào đầm lầy, nên gánh nặng đó có lẽ chỉ đặt lên vai một mình anh ta mà thôi.
 
-Riêng việc bảo dưỡng dinh thự thôi đã là một công việc vô cùng nặng nhọc rồi... Thế mà anh ta còn phải định kỳ xông pha vào đầm lầy nữa ư?
+Riêng việc bảo dưỡng dinh thự thôi đã là một công việc nặng nhọc kinh khủng rồi... Thế mà anh ta còn phải định kỳ xông pha vào đầm lầy nữa ư?
 
-Dù có thử đoán già đoán non xem đám người hầu dọn dẹp nơi này kiểu gì, tôi cũng chẳng tài nào hình dung nổi cụ thể quy trình đó ra sao.
+Dù có thử đoán xem đám người hầu dọn dẹp nơi này kiểu gì, tôi cũng chẳng tài nào hình dung nổi cụ thể công việc đó ra sao.
 
 "Nếu tôi... Nhận ủy thác này. Liệu Isaac... Có được nghỉ ngơi. Thoải mái hơn đôi chút không?"
 
-"Ồ, có chứ. À thì, bản thân Isaac cũng có cùng suy nghĩ như vậy. Tuy ở dinh thự anh ấy có khá nhiều việc phải làm, nhưng tôi phải khẳng định rằng Isaac là một trong những người hầu đắc lực nhất của tôi. Nếu ngài có thể giúp anh ấy đỡ phải nhọc công thám hiểm đầm lầy thường xuyên như vậy, tôi tin chắc anh ấy sẽ có thêm thời gian để nghỉ ngơi. Thực sự chuyện chỉ có bấy nhiêu thôi."
+"Ồ, có chứ. Mà chính Isaac cũng nghĩ vậy đấy. Tuy ở dinh thự anh ấy có khá nhiều việc phải làm, nhưng phải nói cho ngài biết rằng Isaac là một trong những người hầu đắc lực nhất của tôi. Nếu ngài có thể giúp anh ấy đỡ phải nhọc công thám hiểm đầm lầy thường xuyên như vậy, tôi tin chắc anh ấy sẽ có thêm thời gian nghỉ ngơi. Thật ra chuyện chỉ có bấy nhiêu thôi."
 
-Về phần Isaac, anh ta vẫn giữ im lặng, chỉ quay sang cả hai chúng tôi và gật đầu vào những lúc thích hợp.
+Về phần Isaac, anh ta vẫn giữ im lặng, chỉ quay sang cả hai chúng tôi và gật đầu đúng lúc.
 
-Hừm. Tôi đoán vậy cũng tốt thôi...
+Hừm. Chắc vậy cũng ổn thôi...
 
-Tôi lặn lội tới tận đây đâu phải vì muốn vướng sâu vào chuyện riêng của gia tộc Latuule, mà tôi cũng chẳng nên suy diễn quá sâu xa làm gì. Isaac có thêm chút thời gian cho bản thân là điều tốt, song lại hoàn toàn không liên quan tới mối bận tâm của tôi.
+Tôi lặn lội tới tận đây đâu phải vì muốn vướng sâu vào chuyện riêng của gia tộc Latuule, mà tôi cũng chẳng nên suy diễn sâu xa quá làm gì. Isaac có thêm chút thời gian cho bản thân là điều tốt, nhưng lại chẳng liên quan gì tới mối bận tâm của tôi.
 
-Điều thực sự quan trọng với tôi, Rentt Faina, chính là mô hình phi thuyền nhỏ kia.
+Điều thực sự quan trọng với tôi, Rentt Faina, chính là chiếc phi thuyền mô hình nhỏ kia.
 
 "Tôi... Hiểu rồi. Nếu tôi làm... Công việc này. Cho cô bé. Thế thì, chiếc phi thuyền nhỏ..."
 
-Tôi định bụng hỏi xem ý Laura thế nào về chuyện này, nhưng hình như cô bé đã sớm đưa ra quyết định rồi.
+Tôi vốn định hỏi xem ý Laura thế nào về chuyện này, nhưng hình như cô bé đã sớm quyết định xong xuôi rồi.
 
-"Nếu ngài nhận công việc này, thì đúng vậy, ngài Vivie. Ngài có thể lấy chiếc phi thuyền nhỏ. A, tất nhiên, điều này không ảnh hưởng đến số tiền ban đầu chúng ta đã thống nhất trong hợp đồng. Xin cứ yên tâm, thù lao của ngài vẫn còn nguyên vẹn, nói nôm na là thế."
+"Nếu ngài nhận công việc này, thì đúng vậy, ngài Vivie. Ngài có thể lấy chiếc phi thuyền nhỏ. A, tất nhiên chuyện này không ảnh hưởng đến số tiền ban đầu chúng ta đã thống nhất trong hợp đồng đâu. Ngài cứ yên tâm, thù lao của ngài vẫn giữ nguyên."
 
 ◆◇◆◇◆
 
 "T-Thật sao?!" Tôi không thể tin vào những gì mình vừa nghe thấy.
 
-"Phải..." Laura nói. "À thì, ngay từ đầu, Đầm Lầy Tarasque đã là một thử thách không nhỏ ngay cả với những mạo hiểm giả dày dạn kinh nghiệm nhất rồi, chẳng phải sao? Nếu nó có thể tiếp thêm động lực để ngài dốc hết sức mình, ngài Vivie... thì một thứ như thế chỉ là cái giá quá nhỏ để trả."
+"Phải..." Laura nói. "À thì, vốn dĩ Đầm Lầy Tarasque đã là một thử thách không nhỏ ngay cả với những mạo hiểm giả dày dạn kinh nghiệm nhất rồi, chẳng phải sao? Nếu nó có thể tiếp thêm động lực để ngài dốc hết sức mình, ngài Vivie... thì một thứ như thế chỉ là cái giá rất nhỏ mà thôi."
 
-"Một thứ như thế" ư? Trời đất, chiếc phi thuyền "đó" mà đem bán thì thu về cả một gia tài nhỏ chứ chẳng đùa, giá trị của nó lớn nhường ấy cơ mà! Thế mà cô bé lại xem nhẹ nó như thể chỉ là chút tiền lẻ... Thật là hào phóng, thật là bạo tay làm sao!
+"Một thứ như thế" ư? Trời đất, chiếc phi thuyền "đó" mà đem bán thì thu về cả một gia tài nhỏ chứ chẳng đùa, giá trị của nó lớn cỡ đó cơ mà! Thế mà cô bé lại xem nhẹ nó như thể chỉ là chút tiền lẻ... Thật là bạo tay, thật là gan góc làm sao!
 
-Trong lòng tôi lúc này chỉ ngập tràn niềm biết ơn sâu sắc đối với Laura. Lòng biết ơn ấy thấm đượm vào cả thể xác lẫn tâm hồn tôi. Ngay khoảnh khắc này, tôi, Rentt Faina, sẵn lòng thề dâng hiến lòng trung thành vĩnh cửu không gì lay chuyển cho vị tiểu thư đây.
+Trong lòng tôi lúc này chỉ ngập tràn niềm biết ơn sâu sắc đối với Laura. Lòng biết ơn ấy thấm vào tận tâm can tôi. Ngay khoảnh khắc này, tôi, Rentt Faina, sẵn lòng thề dâng hiến lòng trung thành vĩnh cửu không gì lay chuyển cho vị tiểu thư đây.
 
-Nhưng dĩ nhiên, việc đó chẳng cần thiết chút nào...
+Nhưng dĩ nhiên, làm thế thì hơi lố rồi...
 
-"Tôi đoán... Nếu chịu khó. Cất lời hỏi... Người ta có thể tìm được. Những món hời," tôi nói, cố che giấu sự thật rằng mình đang sướng rơn trước thỏa thuận này.
+"Tôi đoán... Nếu chịu khó. Mở lời hỏi... Người ta cũng tìm được. Những món hời," tôi nói, cố đánh trống lảng để giấu đi sự thật rằng mình đang sướng rơn trước thỏa thuận này.
 
-Chẳng biết Laura có nhìn thấu màn kịch của tôi không... Tuy vẻ ngoài còn nhỏ tuổi, nhưng sự sắc bén mãnh liệt của lý trí ẩn trong đôi mắt cô bé lại khắc họa rõ nét hình ảnh một người trưởng thành thấu tình đạt lý. Vẻ thông tuệ trong ánh nhìn ấy dường như gợi lên cả một lịch sử đẫm máu của những cuộc chiến đấu trí chống lại gia chủ của các dòng họ thương nhân hùng mạnh cùng những đại quý tộc nắm trong tay cả lục địa. Tôi tự hỏi người ta phải vượt qua bao nhiêu thử thách mới đạt tới cảnh giới ấy trong đời, và cần những trải nghiệm gì để làm nên kỳ tích phi thường nhường này. Tôi khó lòng mà tưởng tượng nổi.
+Chẳng biết Laura có nhìn thấu màn kịch của tôi không... Tuy vẻ ngoài còn nhỏ tuổi, nhưng sự sắc bén mãnh liệt của lý trí ẩn trong đôi mắt cô bé lại khắc họa rõ nét hình ảnh một người trưởng thành từng trải, thấu đáo. Vẻ thông tuệ trong ánh nhìn ấy gần như gợi lên cả một lịch sử đẫm máu của những cuộc chiến đấu trí chống lại gia chủ các dòng họ thương nhân hùng mạnh cùng những đại quý tộc nắm trong tay cả lục địa. Tôi tự hỏi người ta phải vượt qua bao nhiêu thử thách mới đạt tới tầm vóc ấy trong đời, và cần những trải nghiệm gì để làm nên chuyện phi thường cỡ đó. Tôi khó lòng mà tưởng tượng nổi.
 
-Cân nhắc tất cả những điều đó, tôi chẳng mảy may nghi ngờ rằng Laura đã đọc thấu tâm can tôi từ trong ra ngoài. Bản thân cô bé đã là một tiểu thư mẫu mực, thấy tôi cứ bồn chồn và than thở mãi mới đề nghị tặng chiếc phi thuyền nhỏ. Thực tế là tôi che giấu niềm vui của mình vô cùng vụng về — ôi, chẳng mấy chốc tôi lại được cầm nó trên tay một lần nữa rồi! Ấy thế mà Laura vẫn bình thản dõi theo, không nói một lời...
+Tính hết những điều đó, tôi chẳng mảy may nghi ngờ rằng Laura đã đọc vị được tôi từ trong ra ngoài. Bản thân cô bé cũng là một tiểu thư tử tế, thấy tôi cứ bồn chồn và tiếc rẻ mãi mới đề nghị tặng chiếc phi thuyền nhỏ. Thật ra tôi cũng giấu niềm vui của mình tệ lắm — ôi, sắp được cầm lại nó trên tay rồi! Ấy thế mà Laura vẫn bình thản dõi theo, không nói một lời...
 
-Đây đâu phải hành vi trẻ con. Hoặc ít ra tôi không nghĩ là vậy. Mạo hiểm giả vốn là kiểu người sẽ dùng bất cứ cách thức nào có thể để nắm lấy thứ mình tìm kiếm, ngay cả khi những cách thức đó là một chuỗi hành xử con nít nhằm khiến chủ nhà động lòng thương cảm mà ban cho món đồ mình hằng ao ước.
+Đây đâu phải hành xử trẻ con. Hoặc ít ra tôi không nghĩ vậy. Mạo hiểm giả vốn là kiểu người sẽ dùng đủ mọi cách có thể để giành lấy thứ mình muốn, ngay cả khi cách đó là một loạt trò con nít nhằm làm chủ nhà mủi lòng mà ban cho món đồ mình hằng ao ước.
 
-Mày đúng là một kẻ thảm hại thật đấy, Rentt Faina...
+Mày đúng là một gã thảm hại thật đấy, Rentt Faina...
 
 Nhưng không, tôi không thể từ chối. Tôi phải có được nó.
 
-Ôi, chiếc phi thuyền nhỏ. Mày là của tao, và chỉ của riêng mình tao thôi. Tao sẽ không bao giờ nhường mày cho bất cứ ai...
+Ôi, phi thuyền nhỏ ơi. Mày là của tao, của riêng mình tao thôi. Tao sẽ không bao giờ nhường mày cho bất cứ ai...
 
-Chà, đùa thế thôi... Nhưng liệu đó có thực sự là trò đùa không nhỉ?
+Chà, đùa thế thôi... Nhưng liệu đó có thật sự là đùa không nhỉ?
 
-Có lẽ là vậy... Nhưng thôi thật sự gác chuyện đùa sang một bên, tôi quay sang Laura để tiếp tục cuộc trò chuyện. Càng nói tiếp, Laura có vẻ hơi đắn đo.
+Chắc vậy... Nhưng thôi, nghiêm túc gác chuyện đùa sang một bên, tôi quay sang Laura tiếp tục cuộc trò chuyện. Càng nói tiếp, trông Laura có vẻ hơi đắn đo.
 
-"Tuy bất kỳ mạo hiểm giả Ngân Cấp thực thụ nào cũng chẳng gặp khó khăn gì khi đi thu thập những bông hoa đó, nhưng hành trình tới nơi lại nảy sinh một số... vấn đề, hẳn ngài cũng rõ. Một số loại trang phục và trang bị sẽ không thể trụ nổi sau chuyến đi, chưa kể mối đe dọa thường trực từ chất độc. Với một số loại độc phát tác chậm, rất khó để lường trước và chuẩn bị ứng phó. Rồi lại còn lũ Tarasque nữa... Đúng là nhìn chung người ta có thể tránh né chúng nếu mang theo Nước Thánh bên mình, nhưng cũng có những trường hợp vài cá thể quái vật trở nên cực kỳ hung hãn do các cuộc tranh giành lãnh thổ giữa đồng loại. Cân nhắc tất cả những điều này, tôi thực sự từng muốn thuê một mạo hiểm giả Kim Cấp, nhưng tiếc là muốn mời được một người như vậy thì phải cất công lên tận vương đô..."
+"Tuy bất kỳ mạo hiểm giả Ngân Cấp thực thụ nào cũng chẳng gặp khó khăn gì khi đi hái những bông hoa đó, nhưng đường tới nơi lại có một số... rắc rối, hẳn ngài cũng rõ. Vài loại trang phục và trang bị sẽ không trụ nổi sau chuyến đi, chưa kể mối đe dọa thường trực từ chất độc. Có những loại độc phát tác chậm nên rất khó lường trước để mà phòng bị. Rồi lại còn lũ Tarasque nữa... Đúng là nhìn chung người ta có thể tránh được chúng nếu mang theo Nước Thánh bên mình, nhưng cũng có lúc vài con trở nên cực kỳ hung hãn do tranh giành lãnh thổ với đồng loại. Tính hết những điều này, tôi thật sự rất muốn thuê một mạo hiểm giả Kim Cấp, nhưng tiếc là muốn mời được một người như vậy thì phải cất công lên tận vương đô..."
 
-Từng lý lẽ của Laura đều hoàn toàn hợp lý. Dù những mạo hiểm giả đủ năng lực đáp ứng mọi điều trên quả thực có tồn tại, nhưng người ta sẽ chẳng thể tìm thấy họ ở một thị trấn vùng quê như Maalt, bất kể khách hàng có giàu có hay quyền lực đến mức nào. Đến lượt mình, tôi lại là một phát hiện khá hiếm hoi đối với gia tộc Latuule, bởi tình cờ năng lực của tôi lại khớp với những gì họ đang tìm kiếm, và việc thuê tôi sẽ mang lại lợi ích cho cả đôi bên.
+Từng điều Laura nói đều hoàn toàn hợp lý. Dù những mạo hiểm giả đủ sức làm hết các việc trên quả thực có tồn tại, nhưng sẽ chẳng thể tìm thấy họ ở một thị trấn vùng quê như Maalt, bất kể khách thuê có giàu có hay quyền lực đến mức nào. Bởi vậy, tôi lại trở thành một phát hiện khá hiếm có đối với gia tộc Latuule, vì tình cờ năng lực của tôi lại khớp với những gì họ đang tìm kiếm, và việc thuê tôi sẽ có lợi cho cả đôi bên.
 
 Một lập luận rất thuyết phục. Thế nhưng có một chi tiết khiến tôi phải chú ý.
 
-"...Tôi hiểu. Những điểm cô bé vừa nêu. Tôi không phản đối... Việc nhận ủy thác. Tuy nhiên... Việc cô bé. Phải dùng... Dịch chiết Hoa Long Huyết. Đều đặn theo định kỳ... Lẽ nào, Laura. Cô bé mắc phải... Bệnh Tích Tụ Chướng Khí?"
+"...Tôi hiểu. Những điều cô bé vừa nói. Tôi không phản đối... Chuyện nhận ủy thác. Tuy nhiên... Chuyện cô bé. Phải dùng... Dịch chiết Hoa Long Huyết. Đều đặn theo định kỳ... Lẽ nào, Laura. Cô bé mắc phải... Bệnh Tích Tụ Chướng Khí?"
 
-Laura thoáng sững sờ, ngạc nhiên trước câu hỏi của tôi.
+Laura thoáng sững lại, ngạc nhiên trước câu hỏi của tôi.
 
 "Ngài biết tên căn bệnh này sao, ngài Vivie...? Vậy thì, lý do ban đầu ngài dấn thân vào đầm lầy..."
 
-Tôi muốn trả lời câu hỏi của Laura, nhưng tôi có nghĩa vụ phải giữ bí mật thông tin riêng tư của khách hàng. Tôi có thể nói với cô bé rằng mình từng nhận một ủy thác có tính chất tương tự, song không thể tiết lộ thêm bất kỳ chi tiết nào ngoài điều đó. Ấy thế mà chỉ với chút thông tin ít ỏi về tôi, Laura đã đưa ra suy đoán chuẩn xác đến vậy — lại thêm một minh chứng cho thấy tầm ảnh hưởng của gia tộc Latuule tại Maalt. Nếu họ muốn có bất kỳ thông tin nào, chắc chắn nó sẽ tìm đường về tay họ qua kênh này hay kênh khác.
+Tôi muốn trả lời câu hỏi của Laura, nhưng tôi có nghĩa vụ giữ bí mật thông tin riêng tư của khách thuê. Tôi có thể nói với cô bé rằng mình từng nhận một ủy thác tương tự, song không thể tiết lộ thêm chi tiết nào ngoài chuyện đó. Ấy thế mà chỉ với chút thông tin ít ỏi về tôi, Laura đã suy luận ra chuẩn xác đến vậy — lại thêm một minh chứng cho thấy tầm ảnh hưởng của gia tộc Latuule tại Maalt. Hễ họ muốn có thông tin gì, chắc chắn nó sẽ tới tay họ qua đường này hay đường khác.
 
 Dù vậy, tôi vẫn giữ vững nguyên tắc của mình.
 
 "Đó. Là tất cả... Những gì tôi có thể nói."
 
-Laura dường như hiểu được hàm ý đằng sau lời tôi. "Tôi xin lỗi, xem ra tôi đã đi quá giới hạn của mình rồi. Dù vậy, qua chuyện này, tôi tin chắc ngài đã hiểu rõ hoàn cảnh của tôi, ngài Vivie. Mặc dù Bệnh Tích Tụ Chướng Khí ở giai đoạn đầu có thể chữa trị vĩnh viễn bằng dịch chiết Hoa Long Huyết, nhưng một khi đã bước sang giai đoạn cuối thì căn bệnh không còn chữa khỏi được nữa. Tôi sẽ không đột ngột mất mạng vì nó, nhưng bù lại, tôi cần dùng Long Hoa Huyết tươi đều đặn theo định kỳ. Vì thế tôi mới đưa ra yêu cầu này."
+Laura dường như hiểu được hàm ý đằng sau lời tôi. "Tôi xin lỗi, xem ra tôi đã hỏi quá giới hạn rồi. Dù vậy, qua chuyện này, hẳn ngài đã hiểu rõ hoàn cảnh của tôi, ngài Vivie. Tuy Bệnh Tích Tụ Chướng Khí ở giai đoạn đầu có thể chữa dứt điểm bằng dịch chiết Hoa Long Huyết, nhưng một khi đã bước sang giai đoạn cuối thì không còn chữa khỏi được nữa. Tôi sẽ không đột ngột mất mạng vì nó, nhưng đổi lại, tôi cần dùng Long Hoa Huyết tươi đều đặn theo định kỳ. Vì thế tôi mới đưa ra ủy thác này."
 
-Tôi khẽ gật đầu trước lời Laura. Nếu tôi còn hỏi thêm gì nữa, chính tôi sẽ là người vượt quá giới hạn riêng tư của cô bé.
+Tôi gật đầu trước lời Laura. Nếu tôi còn hỏi thêm gì nữa, chính tôi sẽ là người vượt quá giới hạn riêng tư của cô bé.
 
-Tôi vốn không biết nhiều về Bệnh Tích Tụ Chướng Khí — thật không ngờ sang giai đoạn sau nó lại trở thành mạn tính vĩnh viễn... Sơ Lillian ở cô nhi viện đúng là may mắn khi được chữa khỏi sớm như vậy.
+Tôi vốn không biết nhiều về Bệnh Tích Tụ Chướng Khí — thật không ngờ sang giai đoạn sau nó lại thành bệnh vĩnh viễn không chữa khỏi được... Sơ Lillian ở cô nhi viện đúng là may mắn khi được chữa trị sớm như vậy.
 
-Đi một chuyến duy nhất để hái vài bông hoa là một chuyện, nhưng đi lại định kỳ để duy trì nguồn cung liên tục lại là vấn đề hoàn toàn khác. Xem ra lần này tôi đã thực sự ôm lấy một việc lớn rồi, khi nhận một ủy thác tầm cỡ đến thế.
+Đi một chuyến duy nhất để hái vài bông hoa là một chuyện, nhưng đi lại định kỳ để duy trì nguồn cung liên tục lại là chuyện hoàn toàn khác. Xem ra lần này tôi đã nhận lấy một công việc không nhỏ chút nào.
 
-Dù sao đi nữa, giờ tôi đã hiểu rõ hoàn cảnh của Laura, nắm bắt tường tận ủy thác trước mắt cũng như những phần thưởng được đề xuất. Nhận ủy thác này chẳng phải chuyện không thể, và đúng là phần thưởng cũng rất hấp dẫn.
+Dù sao đi nữa, giờ tôi đã hiểu rõ hoàn cảnh của Laura, nắm chắc công việc trước mắt cũng như những phần thưởng được đưa ra. Nhận ủy thác này cũng chẳng có gì bất khả thi, và đúng là phần thưởng cũng rất hấp dẫn.
 
 Tôi quay sang Laura, lòng đã quyết.
 
-"Tôi sẽ nhận. Ủy thác này... Nhưng tôi muốn. Giấy tờ được sửa lại để... Phản ánh. Những điều khoản mới mà chúng ta... Vừa thỏa thuận. Lúc nãy. Nếu điều đó... Ổn thỏa. Với cô bé, Laura. Hay có lẽ... Tôi nên gọi là. Quý khách hàng đáng kính."
+"Tôi sẽ nhận. Ủy thác này... Nhưng tôi muốn. Giấy tờ được sửa lại để... Ghi đúng. Những điều khoản mới mà chúng ta... Vừa thống nhất. Lúc nãy. Nếu điều đó... Ổn thỏa. Với cô bé, Laura. Hay có lẽ... Tôi nên gọi là. Vị khách thuê đáng kính."
 
 Tôi chìa tay ra, Laura liền mỉm cười nắm lấy.
 
-"Rất cảm kích. Ngài đang giúp chúng tôi một ân huệ lớn đấy. Tôi rất mong được hợp tác với ngài từ nay về sau, ngài Vivie. A, phải rồi, ngài cứ tiếp tục gọi tôi là Laura như cũ nhé."
+"Rất cảm kích. Ngài đã giúp chúng tôi một ân huệ lớn đấy. Tôi rất mong được hợp tác với ngài từ nay về sau, ngài Vivie. A, phải rồi, ngài cứ tiếp tục gọi tôi là Laura như cũ nhé."
 
-Sau khi hợp đồng đã được đôi bên thống nhất, tôi vốn định cư xử với Laura thêm một phần khách khí trịnh trọng, nhưng xem ra chẳng cần thiết rồi.
+Sau khi đôi bên đã thống nhất hợp đồng, tôi vốn định cư xử với Laura khách sáo và trang trọng hơn một bậc, nhưng xem ra chẳng cần thiết rồi.
 
 "Tôi... Hiểu rồi, Laura. Như thế này được chứ?"
 
-Nghe tôi nói thế, nụ cười trên môi Laura khẽ rạng rỡ thêm đôi chút, cô bé gật đầu vẻ đầy hài lòng.
+Nghe tôi nói thế, nụ cười trên môi Laura khẽ tươi thêm đôi chút, cô bé gật đầu vẻ đầy hài lòng.

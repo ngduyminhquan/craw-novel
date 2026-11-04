@@ -2,79 +2,79 @@
 
 Tiến Hóa Bản Thể ư? Sao tự dưng cô lại nhắc đến chuyện đó làm gì nhỉ...?
 
-Tôi đâu có cố tình giả ngây giả ngô, chẳng qua là Lorraine không nhắc thì tôi cũng chẳng để ý—thế là cô hỏi luôn có phải quãng thời gian làm xác sống đã làm não tôi thối rữa nốt rồi không. Tôi chẳng cãi lại được câu nào, vì cô nói cũng có lý.
+Tôi đâu có cố tình giả ngây giả ngô, chẳng qua là Lorraine không nhắc thì tôi cũng chẳng để ý — thế là cô hỏi luôn có phải quãng thời gian làm xác sống đã làm não tôi thối rữa nốt rồi không. Tôi chẳng cãi lại được câu nào, vì cô nói cũng có lý.
 
 Có điều, thành thật mà nói thì khắp người tôi đã đổi khác khá nhiều. Do vừa tỉnh dậy đầu óc còn mơ màng nên tôi chưa thể nắm bắt được tình hình. Nhưng... đúng là lâu lắm rồi tôi mới lại thấy mơ màng, hay có thể chợp mắt ngủ như thế này. Mãi cho đến sáng nay, những nhu cầu tự nhiên ấy vẫn bị chôn sâu tận đáy tâm trí tôi.
 
-Suốt khoảng thời gian làm Thi Quỷ, tôi luôn rơi vào một trạng thái tĩnh lặng đến rợn người. Cảm xúc của tôi gần như phẳng lì, trừ lúc trải qua đợt tiến hóa vừa rồi. Thấy mọi người xung quanh cười thì tôi cũng gượng cười theo, xem đó như một phản xạ xã giao để tự nhắc mình rằng chuyện trước mắt rất đáng buồn cười. Không hiểu sao, giờ nhìn lại thì mọi chuyện trải qua trước đây đều cho tôi cảm giác như vậy.
+Suốt khoảng thời gian làm Thi Quỷ, tôi luôn rơi vào một trạng thái bình thản đến rợn người. Cảm xúc của tôi gần như phẳng lặng suốt, trừ lúc trải qua đợt tiến hóa vừa rồi. Thấy mọi người xung quanh cười thì tôi cũng gượng cười theo, như một phản xạ xã giao để tự nhắc mình rằng cảnh tượng trước mắt rất đáng buồn cười. Không hiểu sao, giờ nhìn lại thì mọi chuyện trải qua trước đây đều cho tôi cảm giác như vậy.
 
 Trống rỗng đến đau lòng, đúng là thế... nhưng có lẽ thực tế vốn dĩ là như vậy.
 
-Dù sao đi nữa, so với trước đây, giờ tôi cảm nhận được cảm xúc rõ ràng và sống động hơn hẳn. Dù còn lâu mới bằng thời còn sống, nhưng chí ít tôi cũng thấy đỡ... trống rỗng hơn. Cảm giác trống rỗng và tĩnh lặng trước kia không hẳn là đặc tính của Undead, mà đúng hơn là do các khoang trong cơ thể tôi bị rỗng theo nghĩa đen. Ngay cả trái tim tôi khi ấy cũng mang một khoảng trống vô hình theo nghĩa bóng.
+Dù sao đi nữa, so với trước đây, giờ tôi cảm nhận được cảm xúc rõ ràng và trọn vẹn hơn hẳn. Dù còn lâu mới bằng thời còn sống, nhưng chí ít tôi cũng thấy đỡ... trống rỗng hơn. Cảm giác trống rỗng và tĩnh lặng trước kia không hẳn là đặc tính của Undead, mà đúng hơn là đối lập với sự trống rỗng theo nghĩa đen trong các khoang cơ thể tôi. Trái tim tôi khi ấy cũng trống rỗng theo nghĩa bóng.
 
 Có điều, giờ tôi đã cảm nhận được nội tạng của mình. Cơ thể vốn rỗng không trước kia nay đã được lấp đầy đặn. Tôi nghĩ mình có thể rạch bụng ra ngó thử... dẫu ý tưởng đó nghe chẳng hay ho chút nào.
 
-Dù sao thì tôi vẫn chưa biết trông mình thế nào. Giá mà lúc này có sẵn cái gương ở đây thì tốt quá...
+Dù sao thì tôi vẫn chưa biết trông mình thế nào; giá mà có sẵn cái gương ở đây thì tốt quá...
 
-Như đọc được suy nghĩ của tôi, Lorraine khiêng một tấm gương khá to lại chỗ tôi đứng. Hóa ra nãy giờ tấm gương đã dựng sẵn vào tường—chắc cô đã chuẩn bị từ trước. Trước đây cô làm gì có chiếc gương to thế này, có lẽ là món đồ mới sắm gần đây.
+Như đọc được suy nghĩ của tôi, Lorraine khiêng một tấm gương khá to lại chỗ tôi đứng. Hóa ra nãy giờ tấm gương vẫn dựa vào tường — chắc Lorraine đã chuẩn bị từ trước. Trước đây cô làm gì có chiếc gương to thế này, có lẽ là món đồ mới sắm gần đây.
 
-Nhìn kiểu gì thì chiếc gương cũng khá to, nên tôi thấy hơi áy náy khi để Lorraine phải tự tay bê vác thứ cồng kềnh như vậy.
+Tính ra chiếc gương cũng khá to, nên tôi thấy hơi áy náy khi để Lorraine phải khuân vác một thứ cồng kềnh như vậy.
 
 "Tôi chẳng... thấy khác gì mấy," tôi vừa nhìn chằm chằm vào gương vừa nói, thế là bị Lorraine bực bội mắng cho một câu.
 
-"Cởi áo choàng với mặt nạ ra đi, đồ ngốc này! Cứ mặc kín bưng thế kia thì đương nhiên là nhìn y như cũ rồi, Rentt. Đầu anh đặc đến thế đấy à?"
+"Cởi áo choàng với mặt nạ ra đi, đồ ngốc này! Cứ mặc nguyên thế kia thì đương nhiên là nhìn y như cũ rồi, Rentt. Đầu anh đặc đến thế đấy à?"
 
-Tôi ngoan ngoãn làm theo lời cô, nhưng... thế thì làm sao Lorraine biết được là tôi đã tiến hóa cơ chứ...?
+Tôi ngoan ngoãn làm theo lời cô, nhưng... thế thì làm sao Lorraine biết được là tôi đã tiến hóa nhỉ...?
 
 Vẫn tinh ý như mọi khi, Lorraine giải thích trước cả khi tôi kịp mở miệng hỏi.
 
-"Tôi chỉ tháo một chiếc găng tay của anh ra thôi, Rentt. Chắc chắn chỉ cần nhìn vào đấy thì đến anh cũng phải nhận ra rồi."
+"Tôi chỉ tháo một chiếc găng tay của anh ra thôi, Rentt. Chắc chắn chỉ riêng chừng đó thôi thì đến anh cũng phải nhận ra rồi."
 
-Ra là vậy... Quả không hổ danh Lorraine. Ngước lên, tôi thấy đôi găng tay của mình đã được đặt ngay ngắn trên chiếc bàn nhỏ trong phòng.
+Ra là vậy... Đúng là Lorraine có khác. Ngước lên, tôi thấy đôi găng tay của mình đã được đặt ngay ngắn trên chiếc bàn nhỏ trong phòng.
 
-Cúi nhìn đôi tay mình, nói một cách nhẹ nhàng nhất thì tôi đã không khỏi ngạc nhiên. Bàn tay tôi giờ đây nhẵn nhụi và trông khá bình thường, đối lập hẳn với bộ dạng hồi sáng. Bất cứ ai từng nhìn vào đôi tay tôi trước đây chắc đều sẽ tự hỏi liệu chúng có phải được ghép từ mấy que củi khô dính tạm bợ vài mẩu thịt người khô quắt hay không. À phải rồi, tay tôi trước kia quái đản và gớm ghiếc đúng như thế đấy.
+Cúi nhìn đôi tay mình, ít nhất cũng phải nói là tôi không khỏi ngạc nhiên. Bàn tay tôi giờ đây nhẵn nhụi và trông khá bình thường, trái ngược hẳn với bộ dạng hồi sáng. Bất cứ ai từng nhìn vào đôi tay tôi trước đây chắc đều sẽ tự hỏi liệu chúng có phải được làm từ mấy cành cây khô dán tạm bợ vài mảng thịt người khô quắt lên hay không. À phải rồi, tay tôi trước kia gớm ghiếc đúng như thế đấy.
 
-Dù đôi tay lúc này đã nhẵn nhụi và giống người đôi phần, nhưng chúng lại tái mét, như thể chẳng có giọt máu nào chảy qua, hoặc nếu có thì cũng cực kỳ ít ỏi. Chí ít thì chúng không còn mang vẻ ngoài của Undead hay quái vật nữa, và sẽ chẳng có ai chạy xộc tới bảo tôi rằng: "Ôi chao, Undead phải không ạ? Làm ơn cho tôi xin chữ ký được không?" Dĩ nhiên, từ trước tới giờ chưa từng có ai xin chữ ký tôi cả, bất kể khi tôi còn là Khô Lâu, Ngạ Quỷ hay Thi Quỷ... đơn giản vì tôi chưa từng bị lộ. Mà dẫu có bị phát hiện đi nữa thì những kịch bản tồi tệ giờ đây cũng chẳng thể xảy ra được nữa.
+Dù đôi tay lúc này đã nhẵn nhụi và giống tay người đôi phần, nhưng chúng lại tái nhợt, như thể chẳng có mấy giọt máu chảy bên trong. Chí ít thì chúng không còn mang vẻ ngoài của Undead hay quái vật nữa, và sẽ chẳng có ai chạy tới trước mặt tôi mà bảo: "A, một Undead phải không? Cho tôi xin chữ ký nhé?" Mà dĩ nhiên, từ trước tới giờ chưa từng có ai xin chữ ký tôi cả, bất kể khi tôi còn là Khô Lâu, Ngạ Quỷ hay Thi Quỷ... đơn giản vì tôi chưa từng bị phát hiện. Nhưng kể cả giờ có bị lộ đi nữa thì những viễn cảnh tồi tệ cũng sẽ không xảy ra nữa.
 
-Hừm... Một ví dụ cho kịch bản tồi tệ chẳng hạn như một đám đàn ông trung niên cơ bắp cuồn cuộn vác kiếm tiến lại gần, buông mấy câu đại loại: "Này, mày là Undead đúng không hả? Ủy thác của Hội Mạo Hiểm Giả trả hậu hĩnh lắm đấy... Cho bọn tao xin cái đầu nhé?!" Hự...
+Hừm... Một ví dụ cho viễn cảnh tồi tệ chẳng hạn như một đám đàn ông trung niên cơ bắp cuồn cuộn vác kiếm tiến lại gần, buông mấy câu đại loại: "Này, mày là Undead đúng không hả? Cái ủy thác của Hội đang treo trả hậu hĩnh lắm đấy... Cho bọn tao xin cái đầu nhé?!" Hự...
 
 Tôi chẳng muốn nghĩ thêm về chuyện này nữa. Nhưng nói đi cũng phải nói lại...
 
 "Giờ tôi trông giống con người hơn một chút rồi à?" tôi lẩm bẩm.
 
-"Tôi cho là đã có chút tiến triển rồi đấy. Ngay từ đầu, chuyện liệu anh có thể trở lại làm người hoàn toàn hay không vốn đã là một dấu hỏi lớn rồi. Hiện tại thì rất khó nói. Thoạt nhìn thì anh trông giống người thật đấy. Dù sao đi nữa, cởi mặt nạ với áo choàng ra mau đi Rentt—tôi không thể đánh giá chính xác nếu chưa tận mắt thấy đâu."
+"Tôi cho là đã có chút tiến triển rồi đấy. Ngay từ đầu, chuyện liệu anh có thể trở lại làm người hoàn toàn hay không vốn đã là một dấu hỏi rồi. Hiện tại thì rất khó nói. Thoạt nhìn thì đúng là anh trông giống người thật. Dù sao đi nữa, cởi mặt nạ với áo choàng ra mau đi Rentt — tôi không thể đưa ra nhận định chính xác nếu chưa tận mắt thấy đâu."
 
-Có nhìn nhận tích cực nhất thì câu trả lời của Lorraine nghe vẫn hơi ái ngại, nhưng cô nói đúng. Cứ đinh ninh hy vọng của mình sẽ thành hiện thực lúc nào cũng là chuyện ngốc nghếch; biết phân biệt rạch ròi giữa hai điều đó vào những lúc thế này mới là quan trọng.
+Câu trả lời của Lorraine khá lắm thì cũng nghe hơi ái ngại, nhưng cô nói đúng. Như mọi khi, cứ mong chờ hy vọng của mình biến thành hiện thực là chuyện ngốc nghếch; biết phân biệt rạch ròi giữa hai điều đó vào những lúc thế này là rất quan trọng.
 
-Đúng như lời Lorraine nói: chẳng ai biết liệu tôi có thể trở lại làm người được hay không. Nhưng cú sốc này dường như không ảnh hưởng nặng nề đến tôi như tôi tưởng. Có lẽ là nhờ Lorraine từng bảo cô chẳng bận tâm nếu tôi có mãi mãi là Undead đi nữa. Ít nhất tôi cũng không phải sống nốt phần đời còn lại trong cô độc, như một con quái vật bị người đời ruồng bỏ.
+Đúng như lời Lorraine nói: chẳng ai biết liệu tôi có thể trở lại làm người được hay không. Nhưng cú sốc trước sự thật này dường như không giáng xuống tôi nặng nề như tôi tưởng. Có lẽ là nhờ Lorraine từng khẳng định cô chẳng bận tâm nếu tôi có làm Undead mãi mãi đi nữa. Ít nhất tôi cũng không phải sống cả đời cô độc như một con quái vật bị người đời ruồng bỏ.
 
 "Được rồi, được rồi..." tôi vừa nói vừa cởi áo choàng ra.
 
-Bên dưới lớp áo choàng tôi cũng có mặc quần áo, nhưng nhìn kiểu gì thì cũng chỉ là mấy món đồ rẻ tiền. Nói đúng hơn thì tôi chỉ mặc một chiếc áo lót và cái quần dài. Tôi cố tình làm vậy, chủ yếu vì có đợt người tôi thủng lỗ chỗ khắp nơi. Nếu mặc phong phanh ít vải, tôi sợ da thịt mình sẽ nhân cơ hội đó mà rơi rụng ra ngoài.
+Bên dưới lớp áo choàng tôi cũng có mặc quần áo, nhưng khá lắm thì cũng chỉ là mấy món đồ rẻ tiền. Chính xác hơn thì tôi chỉ mặc áo lót và quần dài. Tôi cố tình làm vậy, chủ yếu vì có thời điểm người tôi thủng lỗ chỗ khắp nơi. Nếu mặc phong phanh quá, tôi sợ thịt trên người mình hễ có cơ hội là sẽ rơi rụng ra ngoài mất.
 
-Thực tế thì tôi có thể dễ dàng chữa lành bất cứ chỗ tổn thương nào bằng ma pháp trị liệu hoặc Thần Lực. Chẳng may có thứ gì rơi rụng ra cũng không thành vấn đề quá lớn. Thật ra đây chỉ là thói quen cá nhân mà thôi. Dù nhìn bề ngoài chẳng khác mấy, tôi vẫn cần mẫn chăm chút cho thân thể mình, chẳng khác nào mấy cô tiểu thư trẻ mê mẩn chuyện dưỡng ẩm cho da. Vì cơn sốt đó của họ mà dịch nhờn Slime giờ có giá đắt đỏ đến chóng mặt—nhưng tôi là ai mà dám bảo các quý cô nhiệt huyết ấy dừng việc họ đang làm lại chứ. Nếu tôi thật sự thốt ra lời như thế ở nơi công cộng, có khi tôi bị vây đánh hội đồng trong ngõ tối lúc nào chẳng hay. Trong rất nhiều trường hợp, tốt nhất là nên ngậm miệng lại—thế sự trên đời vốn dĩ là như vậy đấy.
+Thực tế mà nói, tôi có thể dễ dàng chữa lành bất cứ chỗ tổn thương nào bằng ma pháp trị liệu hoặc Thần Lực. Chẳng may có thứ gì rơi ra thật thì cũng không thành vấn đề quá lớn. Thật ra đây chỉ là thói quen cá nhân mà thôi. Dù nhìn bề ngoài chẳng khác mấy, tôi vẫn chịu khó chăm chút cho cơ thể mình, giống hệt mấy cô tiểu thư trẻ tuổi cực kỳ đam mê chuyện dưỡng ẩm cho da. Vì nỗi ám ảnh đó của họ mà dịch Slime giờ có giá đắt đỏ — nhưng tôi là ai mà dám bảo các quý cô nhiệt huyết ấy dừng việc họ đang làm lại chứ. Nếu tôi thật sự thốt ra câu như thế ở nơi công cộng, chẳng biết chừng tôi sẽ bị vây đánh hội đồng trong ngõ tối lúc nào và bằng cách nào đâu. Trong nhiều trường hợp, tốt nhất là nên giữ mồm giữ miệng — sự đời vốn dĩ là vậy mà.
 
-"Hừm..." Lorraine chậm rãi gật đầu khi chăm chú nhìn vào cơ thể giờ đã để trần của tôi.
+"Hừm..." Lorraine chậm rãi gật đầu khi nhìn chằm chằm vào cơ thể giờ đã để lộ của tôi.
 
-"Cô thấy có gì khác biệt rõ rệt không...?"
+"Cô thấy có điểm khác biệt rõ rệt nào không...?"
 
-"Chà... không, không hẳn, chí ít là nhìn từ phía trước. Lâu rồi tôi mới nhìn kỹ lại... Đúng như tôi nghĩ, người anh săn chắc thật đấy. Nhưng dĩ nhiên, luyện tập chừng ấy thì cũng phải thế thôi... Tôi không thấy thay đổi gì nhiều. Sao anh không tự nhìn xem, rồi bảo cho tôi biết anh có cảm thấy gì khác lạ không?" Lorraine nói sau khi đảo mắt nhìn tôi một lượt.
+"Chà... không, không hẳn, ít nhất là nhìn từ phía trước. Mà cũng lâu rồi tôi mới nhìn kỹ lại... Đúng như tôi nghĩ, người anh vạm vỡ thật đấy. Nhưng dĩ nhiên, tập luyện chừng ấy thì được thế này cũng phải thôi... Tôi không thấy thay đổi gì nhiều. Sao anh không tự nhìn xem, rồi bảo cho tôi biết anh có cảm thấy gì khác lạ không?" Lorraine nói sau khi nhìn tôi một lượt từ đầu đến chân.
 
 Hừm... Có gì khác biệt không nhỉ?
 
-Tôi nhìn chằm chằm vào bóng mình trong gương. Đáng tiếc là chẳng có thay đổi nào rõ rệt cả. Cho đến tận lúc này, người tôi vốn khá khô khốc và buồn thay là thủng lỗ chỗ khắp nơi. Tôi khó mà nhớ rõ diện mạo của mình thời còn sống, nhưng có lẽ thế này cũng khá gần với khi đó rồi.
+Tôi nhìn chằm chằm vào bóng mình trong gương. Đáng tiếc là chẳng có thay đổi nào rõ rệt cả. Cho đến tận lúc này, cơ thể tôi vốn khá khô khốc và buồn cái là thủng lỗ chỗ khắp nơi. Tôi chẳng còn nhớ rõ diện mạo của mình thời còn sống trông ra sao, nhưng có lẽ thế này cũng khá giống hồi đó rồi.
 
-Điểm khác biệt lớn nhất là da tôi tái nhợt cùng cực. Thậm chí vài chỗ còn hơi ánh xanh, có lẽ do thiếu máu. Nhưng một người lạ nếu nhìn vào cơ thể tôi lúc này chắc chắn sẽ không vội kết luận tôi là Undead. Với riêng tôi lúc này, thế dường như đã là quá đủ rồi.
+Điểm khác biệt chính là trông tôi tái nhợt quá mức. Thậm chí vài chỗ còn hơi xanh xao, có lẽ do thiếu máu. Nhưng một người lạ nếu nhìn thấy cơ thể tôi lúc này sẽ không lập tức kết luận ngay rằng tôi là Undead. Cá nhân tôi thấy vào thời điểm này, thế là đủ rồi.
 
-Giờ tôi đã có da, trên người cũng không còn lỗ thủng nào nữa... Quả thực là một điều quá đỗi tuyệt vời.
+Giờ tôi đã có da, trên người cũng không còn lỗ thủng nào nữa... Quả thực là một chuyện tuyệt vời vô cùng.
 
 Cảm giác tôi thấy lúc thức dậy có lẽ chính là độ căng của làn da mới hình thành. Da hầu như chẳng có lấy một nếp nhăn, trái ngược hoàn toàn với bộ dạng trước kia của tôi. Cứ như thể tôi vừa mới chào đời vậy.
 
 "Lạnh quá..."
 
-Một cơn ớn lạnh ập vào lưng—dĩ nhiên là có hơi giật mình đôi chút, nhưng đó chỉ là bàn tay Lorraine đang nhẹ nhàng vuốt dọc lưng tôi.
+Một cảm giác lành lạnh trên lưng — dĩ nhiên là hơi giật mình, nhưng đó chỉ là bàn tay Lorraine đang nhẹ nhàng vuốt dọc làn da trên lưng tôi.
 
-"... Đúng là làn da mà phần lớn các cô tiểu thư đều phải ghen tị đấy." Cô gật đầu, vẻ đầy hài lòng. "Đây không còn là tái tạo nữa rồi... đúng hơn là tái sinh, tạo ra một lớp da hoàn toàn mới—thành thử mới mịn màng đến thế này. Dĩ nhiên anh là đàn ông, lại còn là mạo hiểm giả từng trải qua cuộc sống gian truân vất vả, lăn lộn dưới mê cung các thứ. Trước đây da dẻ anh thô ráp lắm, vậy mà giờ thì..."
+"... Đúng là làn da mà phần lớn các cô tiểu thư đều phải ghen tị đấy." Cô gật đầu, vẻ đầy hài lòng. "Thế này không còn là tái tạo nữa rồi... giống như sinh ra lần nữa, tạo ra một lớp da hoàn toàn mới hơn — bởi vậy mới mịn màng đến thế. Dĩ nhiên anh là đàn ông, hơn nữa lại là một mạo hiểm giả từng sống cuộc đời khá gian truân, lăn lộn khám phá mê cung suốt. Trước đây da anh thô ráp lắm, vậy mà giờ thì..."
 
 Trước kia mỗi khi tôi bị thương, Lorraine đều chăm sóc cho tôi, thản nhiên nhìn nửa thân trên để trần và chạm vào để chữa trị. Tôi đoán da tôi lúc này mịn hơn rất nhiều so với những gì cô còn nhớ.
 

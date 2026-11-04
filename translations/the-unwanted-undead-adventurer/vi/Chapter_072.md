@@ -172,15 +172,15 @@ Xem chừng rất khó để thử nghiệm thêm ở trong nhà. Quan sát cử
 
 "Cũng không hẳn... Có lẽ được một chút."
 
-Để làm mẫu, tôi để Khí Lực trong cánh tan dần, rồi lại truyền Ma Lực vào lần nữa. Tôi lơ lửng sang trái rồi sang phải đôi chút, dẫu chuyển động khá chậm chạp. Nhưng tôi vẫn đang di chuyển. Nói đúng hơn thì tôi đang lơ lửng qua lại với tốc độ đi bộ.
+Để làm mẫu, tôi để Khí Lực trong cánh tan dần, rồi lại truyền Ma Lực vào lần nữa. Tôi lơ lửng sang trái rồi sang phải đôi chút, dẫu chuyển động khá chậm chạp. Nhưng tôi vẫn đang di chuyển. Nếu phải tả thì tôi đang lơ lửng qua lại với tốc độ đi bộ.
 
 "Thế chẳng phải anh sẽ bay được nếu dùng Ma Lực để lơ lửng, rồi dùng Khí Lực đẩy mình về phía trước sao, Rentt?"
 
-"Tôi chưa thử cách đó. Chắc tôi nên thử xem... đây rồi."
+"Tôi chưa thử cách đó. Chắc tôi nên thử xem... nào."
 
 Vận dụng cả hai nguồn lực lượng sẽ hơi khó về mặt kỹ thuật, nhưng tôi từng làm được điều tương tự nhờ Ma Khí Dung Hợp Thuật của mình. Dĩ nhiên, một người rèn luyện kỹ năng theo lối bài bản chính thống hơn có lẽ sẽ thấy phương pháp của tôi thật kỳ quặc. Tuy nhiên với cá nhân tôi, vì đã quen với kiểu ứng dụng chắp vá tùy tiện của mình rồi, nên việc truyền cả Khí Lực lẫn Ma Lực vào cánh cùng lúc là hoàn toàn khả thi.
 
-Tôi cũng có những nỗi lo riêng, chẳng hạn như lại bất ngờ vọt đi theo hướng ngẫu nhiên nào đó. Tác động của Ma Khí Dung Hợp Thuật nói một cách nhẹ nhàng nhất thì cũng rất đáng ngại, nhất là khi một đòn chém kiểu đó bằng kiếm từng khiến nội tạng của mục tiêu nổ tung dữ dội từ bên trong... Nghĩ vậy, tôi rất mong đôi cánh của mình đừng làm điều tương tự.
+Tôi cũng có những nỗi lo riêng, chẳng hạn như lại bất ngờ vọt đi theo hướng ngẫu nhiên nào đó. Tác động của Ma Khí Dung Hợp Thuật ít nhất cũng phải nói là rất đáng ngại, nhất là khi một đòn chém kiểu đó bằng kiếm từng khiến nội tạng của mục tiêu nổ tung dữ dội từ bên trong... Nghĩ vậy, tôi rất mong đôi cánh của mình đừng làm điều tương tự.
 
 Mình phải hết sức cẩn thận mới được...
 
@@ -200,9 +200,9 @@ Khoan đã...
 
 Tại sao từ một Thi Quỷ tôi lại tiến hóa thành sóc bay cơ chứ? Chẳng có lý chút nào. Mà tại sao người tôi vẫn chưa bị nổ tung từ bên trong nhỉ...? Tôi tập trung tinh thần, và sớm tìm ra câu trả lời nằm ở dòng năng lượng đang chảy qua đôi cánh.
 
-Chính xác hơn thì chúng là những dòng năng lượng riêng biệt, không giống như hỗn hợp bất ổn tôi từng dùng trong các đòn tấn công Ma Khí Dung Hợp Thuật. Đôi cánh tựa cánh dơi của tôi gồm lớp màng bay mềm mại và bộ khung nâng đỡ cứng cáp hơn. Theo quan sát khoa học của Lorraine, lớp màng đó là màng bay, còn các phần cứng là xương đốt ngón. Dù sao thì Ma Lực cũng luân chuyển qua lớp màng này, còn Khí Lực lại chạy qua xương của tôi—dĩ nhiên là thành từng dòng tách biệt.
+Chính xác hơn thì chúng là những dòng năng lượng riêng biệt, không giống như hỗn hợp bất ổn tôi từng dùng trong các đòn tấn công Ma Khí Dung Hợp Thuật. Đôi cánh tựa cánh dơi của tôi gồm lớp màng bay mềm mại và bộ khung nâng đỡ cứng cáp hơn. Theo quan sát khoa học của Lorraine, lớp màng đó là màng bay, còn các phần cứng là xương đốt ngón. Dù sao thì Ma Lực cũng luân chuyển qua lớp màng này, còn Khí Lực lại chạy qua xương của tôi — dĩ nhiên là thành từng dòng tách biệt.
 
-Thấy tò mò, tôi thử truyền Khí Lực vào màng cánh và ngược lại, nhưng về mặt vật lý dường như không thể làm vậy được. Tôi đoán hai thứ này bình thường quả thực không nên hòa lẫn vào nhau, chủ yếu là vì nếu trộn lẫn thì chúng sẽ phát nổ ngay. Phải chăng đôi cánh của tôi được cấu tạo dựa trên những tính toán đó? Mà tôi thì cũng có biết mấy về sinh lý học quái vật đâu.
+Thấy tò mò, tôi thử truyền Khí Lực vào màng bay và ngược lại, nhưng về mặt vật lý dường như không thể làm vậy được. Tôi đoán hai thứ này bình thường quả thực không nên hòa lẫn vào nhau, chủ yếu là vì nếu trộn lẫn thì chúng sẽ phát nổ ngay. Phải chăng đôi cánh của tôi được cấu tạo dựa trên những tính toán đó? Mà tôi thì cũng có biết mấy về sinh lý học quái vật đâu.
 
 Tôi đem suy nghĩ của mình kể lại cho Lorraine.
 
@@ -214,9 +214,9 @@ Một nụ cười dịu dàng làm bừng sáng gương mặt cô. Cô nói ti�
 
 Đã truyền cả Ma Lực lẫn Khí Lực vào cánh rồi, tôi đoán đây là bước hợp lý tiếp theo cần kiểm tra cho đủ bộ.
 
-Thần Lực xét trên nhiều mặt là một năng lực đặc biệt. Nó rất mạnh mẽ, nhưng bản chất Thần Lực của mỗi người lại khác nhau, tùy thuộc vào thực thể đã ban phước ngay từ đầu. Trong trường hợp của tôi, tôi được ban phước bởi mấy tinh linh cư ngụ trong ngôi đền đổ nát mà tôi từng buộc phải sửa lại. Theo những gì tôi thấy thì họ là một dạng tinh linh thực vật nào đó—chà, ít ra là nếu tin theo nhận định của Clope. Tuy nhiên, dẫn truyền thứ Thần Lực như vậy qua đôi cánh quái vật của mình... Có quá nhiều biến số khiến tôi chẳng thể hình dung ra bất kỳ tiền lệ hay khả năng hợp lý nào về chuyện gì có thể xảy ra.
+Thần Lực xét trên nhiều mặt là một năng lực đặc biệt. Nó rất mạnh mẽ, nhưng bản chất Thần Lực của mỗi người lại khác nhau, tùy thuộc vào thực thể đã ban phước ngay từ đầu. Trong trường hợp của tôi, tôi được ban phước bởi mấy tinh linh cư ngụ trong ngôi đền đổ nát mà tôi từng buộc phải sửa lại. Theo những gì tôi thấy thì họ là một dạng tinh linh thực vật nào đó — chà, ít ra là nếu tin theo nhận định của Clope. Tuy nhiên, dẫn truyền thứ Thần Lực như vậy qua đôi cánh quái vật của mình... Có quá nhiều biến số khiến tôi chẳng thể hình dung ra bất kỳ tiền lệ hay khả năng hợp lý nào về chuyện gì có thể xảy ra.
 
-Dù thế nào đi nữa, tôi vẫn phải thử. Đó sẽ là kiến thức sống còn cần nắm rõ, đặc biệt là trong những tình huống sinh tử. Hiểu rõ công cụ trong tay cũng quan trọng chẳng kém gì việc biết khi nào và ở đâu nên dùng chúng—đó là một trong vô số nguyên tắc cơ bản của nghề mạo hiểm giả mà hầu hết các mạo hiểm giả kỳ cựu đều nằm lòng.
+Dù thế nào đi nữa, tôi vẫn phải thử. Đó sẽ là kiến thức sống còn cần nắm rõ, đặc biệt là trong những tình huống sinh tử. Hiểu rõ công cụ trong tay cũng quan trọng chẳng kém gì việc biết khi nào và ở đâu nên dùng chúng — đó là một trong vô số nguyên tắc cơ bản của nghề mạo hiểm giả mà hầu hết các mạo hiểm giả kỳ cựu đều nằm lòng.
 
 Hít một hơi thật sâu, tôi trấn tĩnh lại, chuẩn bị sẵn tinh thần cho những gì sắp xảy ra. Chậm rãi nhưng chắc chắn, tôi cảm nhận được dòng Thần Lực đang chảy vào đôi cánh. Và rồi...
 
@@ -226,6 +226,6 @@ Những lời thật lạ lùng, nhất là khi lại thốt ra từ môi Lorrai
 
 "Hở?"
 
-"Chà... anh thấy đấy, Rentt. Đôi cánh của anh... đang phát sáng kìa."
+"Chà... thực ra là thế này, Rentt. Đôi cánh của anh... đang phát sáng kìa."
 
 Khỏi phải nói, nghe những lời đó thì ngay cả tôi cũng phải bất ngờ.

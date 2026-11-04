@@ -18,41 +18,41 @@ Như đáp lại thắc mắc của tôi, Isaac chìa tay ra, từ từ mở t�
 
 Isaac liền giải thích ngay.
 
-"Chỉ cần cầm thứ này rồi tập trung tinh thần, người ta có thể sửa đổi khu vườn theo ý mình, ít nhất là trong phạm vi nhỏ. Còn nếu muốn tạo ra bất kỳ... thay đổi lớn nào thì không thể."
+"Nếu cầm thứ này và tập trung tinh thần vừa đủ, người ta có thể thay đổi hình dạng khu vườn theo ý thích — ít nhất là ở mức độ nhỏ. Còn nếu muốn thực hiện bất kỳ... thay đổi lớn nào thì không thể."
 
 "Thay đổi... Lớn ư? Phải làm sao... Mới làm được chuyện... Như thế?"
 
-"Chỉ có tiểu thư Laura mới biết cách làm thôi. Bản thân tôi cũng không được biết rõ chi tiết cho lắm."
+"Chỉ có tiểu thư Laura mới biết cách làm thôi. Tôi cũng không được biết rõ chi tiết chuyện đó."
 
-Tôi chẳng thể biết Isaac nói thật hay không, nhưng lúc này chuyện đó cũng không quan trọng. Giữ bí mật là phải, kẻo lại có kẻ có ý đồ xấu tìm cách lợi dụng mê cung cho mục đích riêng. Tôi cũng chẳng rỗi hơi đi bép xép bí mật của gia tộc Latuule cho mọi người ở quán rượu nghe, miệng kín thì chẳng sợ tin đồn lan truyền. Isaac làm vậy là rất hợp lý.
+Tôi chẳng thể biết Isaac nói thật hay không, nhưng lúc này chuyện đó cũng không quan trọng. Giữ bí mật là khôn ngoan, kẻo lại có kẻ mang ý đồ xấu tìm cách lợi dụng mê cung cho mục đích riêng. Tôi cũng chẳng định đem bí mật của gia tộc Latuule đi kể cho mọi người ở quán rượu nghe, bởi chỉ cần đủ kín miệng thì tin đồn sẽ chẳng thể lan ra được. Quyết định của Isaac là hoàn toàn hợp lý.
 
-"Có vẻ chúng ta tới nơi rồi," Isaac nói khi cả hai dừng chân trước cổng dinh thự.
+"Xem ra chúng ta tới nơi rồi," Isaac nói khi cả hai dừng chân trước cổng dinh thự.
 
-Cho chiếc phi thuyền nhỏ hạ cánh xuống đất, tôi gõ nhẹ vào thân nó. Như đáp lại, nó liền co lại, thu nhỏ kích thước. Giờ tôi đã có thể cầm gọn nó trong lòng bàn tay. Đây là một trong nhiều tính năng Laura tốt bụng chỉ cho tôi; nó vẫn còn nhiều tính năng ẩn khác nữa, nhưng chẳng biết tôi có dịp thử hết hay không.
+Cho chiếc phi thuyền nhỏ đáp xuống đất, tôi gõ nhẹ vào hông nó. Như hưởng ứng cử chỉ của tôi, nó tự thu nhỏ kích thước lại. Thế này thì tôi có thể cầm gọn nó trong lòng bàn tay. Đây là một trong nhiều tính năng Laura đã tốt bụng chỉ cho tôi, và tuy nó còn nhiều tính năng ẩn khác nữa, tôi cũng chẳng chắc mình có dịp thử hết hay không.
 
-Thu nhỏ lại được thế này ít ra cũng tiện. Tôi chẳng muốn nó cứ lượn lờ quanh mình giữa phố Maalt, mà vừa đi làm việc vừa ôm khư khư chiếc phi thuyền to tướng thì lại càng không.
+Nó thu gọn lại được thế này ít ra cũng tiện. Tôi chẳng muốn chiếc phi thuyền cứ bay lượn quanh mình ở Maalt, mà cũng chẳng muốn ôm khư khư hình dạng đầy đủ của nó trong lúc đi làm việc vặt.
 
-"...Lính gác cổng. Không còn ở đây nữa."
+"...Người gác cổng. Không còn ở đây nữa."
 
-"Vâng. Anh ta chỉ đứng gác từ sáng sớm đến chạng vạng thôi. Về đêm, cổng sẽ khóa chặt và mê cung sẽ chuyển sang dạng cực kỳ phức tạp để đảm bảo không ai lọt được vào khuôn viên," Isaac đáp.
+"Vâng. Ông ấy chỉ đứng gác từ bình minh đến lúc chạng vạng thôi. Về đêm, cổng sẽ khóa chặt và mê cung sẽ trở nên cực kỳ phức tạp để đảm bảo không ai bước vào khuôn viên được," Isaac đáp.
 
-Với tôi thì cái mê cung này vốn đã đủ rắc rối rồi, nếu còn phức tạp hơn nữa thì kẻ xấu số nào lỡ lạc vào chắc chắn sẽ kẹt cứng đến tận ngày hôm sau.
+Cá nhân tôi thấy cái mê cung này vốn đã khó nhằn lắm rồi, nếu còn phức tạp hơn nữa thì kẻ xấu số nào lỡ bước vào chắc chắn sẽ bị kẹt cứng sang tận ngày hôm sau.
 
-Nghĩ thôi cũng thấy rợn người...
+Một viễn cảnh thật sự đáng sợ...
 
-"Tôi có... Một câu hỏi. Những lần sau tới... Tôi nên làm thế nào?"
+"Tôi có... Một câu hỏi. Những lần tới thăm sau này... Tôi nên làm thế nào?"
 
-Nếu được thì tôi chỉ muốn tránh xa cái mê cung ấy ra, nhất là khi lần sau đâu còn được chọn thêm món quà nào nữa.
+Nếu được thì tôi chỉ muốn tránh xa cái mê cung ấy ra, nhất là khi đâu còn được chọn thêm món quà thứ hai nữa.
 
-Isaac hơi ngạc nhiên, vẻ như anh ta đã định dặn từ trước nhưng mải nói chuyện nên quên bẵng mất.
+Isaac có vẻ hơi ngạc nhiên, cứ như thể anh ta định dặn tôi từ trước nhưng mải nói chuyện đôi câu nên quên bẵng mất.
 
-"À, phải rồi. Nếu lúc ngài đến mà có lính gác, anh ta sẽ báo vào dinh thự, và đích thân tôi sẽ ra đón ngài vào. Ngài Vivie cứ yên tâm."
+"À, vâng. Nếu lúc ngài đến mà có người gác cổng ở đó, ông ấy sẽ liên lạc vào dinh thự, rồi đích thân tôi sẽ ra đây dẫn ngài vào. Xin cứ yên tâm, ngài Vivie."
 
-Nghe vậy tôi cũng yên tâm. Tôi lịch sự vẫy tay chào Isaac rồi rảo bước trên con đường mòn, bỏ lại cánh cổng dinh thự sau lưng. Lần tới quay lại nơi này, trên tay tôi sẽ là những đóa Hoa Long Huyết.
+Một câu trả lời thật đáng yên tâm. Nghe vậy, tôi lịch sự vẫy tay chào Isaac rồi rảo bước trên con đường mòn, bỏ lại cánh cổng dinh thự phía sau. Lần tới đặt chân đến nơi này, tôi sẽ mang theo Hoa Long Huyết.
 
-Nghĩ đến cảnh lại phải mò vào đầm lầy, lòng tôi không khỏi chùng xuống. Nhưng nói đúng hơn thì, giờ tôi đã có trong tay lọ Nước Thánh thượng hạng do Isaac tặng.
+Nghĩ đến cảnh lại phải mò vào đầm lầy, lòng tôi không khỏi có chút ngán ngẩm. Nhưng nói đúng hơn thì giờ tôi đã được trang bị Nước Thánh thượng hạng do Isaac tặng rồi.
 
-Từ giờ trở đi chắc sẽ dễ thở hơn nhiều...
+Từ giờ trở đi chỉ có nhẹ nhàng hơn mà thôi...
 
 ◆◇◆◇◆
 
@@ -60,88 +60,88 @@ Từ giờ trở đi chắc sẽ dễ thở hơn nhiều...
 
 "Phải."
 
-Cả hai chỉ nói có thế rồi ngồi khoanh tay trong phòng khách của Lorraine. Trên bàn đặt độc nhất một thứ: chiếc lọ pha lê chứa chất lỏng màu đen pha đỏ thẫm. Mắt hai đứa dán chặt vào nó, hồi lâu chẳng ai hé môi phá tan sự im lặng.
+Hai chúng tôi chỉ nói có vậy rồi ngồi khoanh tay trong phòng khách nhà Lorraine. Trên bàn chỉ đặt độc một món đồ: chiếc lọ pha lê chứa chất lỏng trông như có màu đỏ sẫm pha đen. Ánh mắt cả hai dán chặt vào nó, và suốt một lúc lâu, chẳng ai lên tiếng phá vỡ sự im lặng.
 
-Trong lọ không gì khác ngoài máu Ma Cà Rồng tôi nhận từ Laura hôm qua. Dù hôm đó tôi đã tóm tắt cho Lorraine nghe chuyện xảy ra ở dinh thự Latuule, nhưng thấy cô mệt mỏi buồn ngủ nên đành gác lại sang tận hôm nay.
+Chiếc lọ đó không gì khác chính là máu Ma Cà Rồng tôi nhận từ Laura hôm qua. Dù hôm đó tôi đã tóm tắt cho Lorraine nghe những chuyện diễn ra ở dinh thự Latuule, nhưng lúc ấy cô hơi mệt và buồn ngủ, thành ra chúng tôi đành hoãn cuộc bàn bạc sang hôm nay.
 
-Sáng nay thấy lo nên tôi hỏi thăm, Lorraine bảo tối qua mải mê nghiên cứu nên có hơi quá đà. Tò mò tôi hỏi đề tài gì mà thức khuya thế, mới hay cô thức để nghiên cứu và viết giáo trình chuẩn bị dạy ma thuật cho Alize. Sách bán sẵn ngoài hiệu thiếu gì, có thể mua dễ dàng, nhưng đụng đến mấy việc này thì ai cũng biết Lorraine nhiệt tình thái quá thế nào rồi. Cô nhất quyết phải tự tay soạn tài liệu cho bằng được — và chuyện là vậy đấy.
+Sáng nay thấy lo nên tôi hỏi thăm, Lorraine mới bảo cô đã hơi quá đà với việc nghiên cứu và học tập. Tò mò, tôi hỏi xem đề tài gì mà làm cô thức khuya đến thế, thì mới biết cô mải nghiên cứu và viết sách giáo khoa để chuẩn bị cho các buổi học ma pháp sắp tới của Alize. Cô hoàn toàn có thể dễ dàng mua đại một cuốn sách giáo khoa bán sẵn ngoài thị trường, nhưng ai cũng biết Lorraine vốn nhiệt tình thái quá mỗi khi đụng đến một số chuyện nhất định. Xem ra cô khăng khăng phải tự tay làm tài liệu giảng dạy của riêng mình — và thế là thức trắng.
 
-Dù mất khá nhiều thời gian, dường như Lorraine đã hoàn thành phần dự định. Thường thì người ta nghĩ soạn một bộ giáo trình chuyên sâu về ma thuật phải mất nhiều thời gian lắm, nhưng hóa ra Lorraine mới chỉ chép lại những điều cơ bản về ma pháp và ma thuật, nên cũng chẳng lâu đến thế. Theo tham vọng của cô, bộ sách này rốt cuộc sẽ gồm mười tập, mỗi tập trình bày chi tiết các luận điểm khác nhau về cách ứng dụng ma thuật.
+Dù đã dành kha khá thời gian cho cuốn sách, có vẻ như Lorraine đã hoàn thành xong phần việc mình đặt ra. Người ta hẳn sẽ nghĩ biên soạn một thứ chuyên môn như sách giáo khoa ma pháp phải tốn nhiều thời gian lắm, nhưng hóa ra Lorraine mới chỉ ghi chép lại những kiến thức cơ bản về ma pháp và ma thuật, thành ra cũng chẳng mất quá lâu. Theo tham vọng của Lorraine, bộ sách này rốt cuộc sẽ gồm mười tập, mỗi tập trình bày chi tiết các luận văn khác nhau về ứng dụng của ma pháp.
 
-"Đọc hết đống này thì ngay cả anh cũng thành học giả ma thuật được đấy, Rentt!" xem chừng chính là nguồn cảm hứng đằng sau độ dài đồ sộ của công trình này.
+"Nếu đọc hết bộ này thì ngay cả anh cũng thành học giả ma thuật được đấy, Rentt!" xem chừng chính là nguồn cảm hứng đằng sau độ dài đồ sộ của công trình này.
 
-Không hiểu sao từ một cuộc trò chuyện đơn giản về lý do Lorraine quyết định dạy ma pháp cho một đứa trẻ mồ côi trong thị trấn, mọi chuyện lại đi xa đến mức này; mà dĩ nhiên, chính tôi cũng chẳng có câu trả lời.
+Chẳng hiểu sao từ một cuộc trò chuyện đơn giản về lý do Lorraine quyết định dạy ma pháp cho một đứa trẻ mồ côi trong vùng, mọi chuyện lại đi xa đến mức này; mà dĩ nhiên, chính tôi cũng chẳng có câu trả lời.
 
-Alize từng nói muốn làm mạo hiểm giả... nhưng lỡ theo học Lorraine rồi thành học giả luôn thì sao nhỉ? Nghĩ lại thì thế cũng chẳng tệ, bởi nếu trở thành một học giả giỏi giang có tiếng tăm, cô bé cũng có thể ung dung lười biếng như Lorraine, đơn giản vì tiền kiếm về đều đặn đủ để sống dư dả.
+Alize từng nói cô bé muốn trở thành mạo hiểm giả... Nhưng chuyện gì sẽ xảy ra nếu cô bé đi theo sự chỉ dạy của Lorraine rồi trở thành một học giả luôn nhỉ? Tôi đoán thế cũng chẳng phải chuyện xấu, bởi nếu trở thành một học giả giỏi giang có tiếng tăm, cô bé cũng có thể sống nhàn nhã nằm dài cả ngày như Lorraine, đơn giản là nhờ khoản tiền kiếm được đều đặn mà thôi.
 
-Ít nhất thì nếu thành học giả, Alize sẽ khấm khá hơn nhiều so với một gã mạo hiểm giả Đồng Cấp như tôi. Nghĩ đi nghĩ lại, hướng đi đó chẳng tồi chút nào.
+Chí ít thì cô học giả Alize trong giả thuyết đó sẽ khấm khá hơn nhiều so với một mạo hiểm giả Đồng Cấp như tôi. Một lựa chọn nghề nghiệp chẳng tồi chút nào.
 
-Nếu sau này Alize lên học ở học viện hay trường lớp nào đó, khéo cô bé còn giành được cả học bổng quốc gia. Dù Lorraine chỉ là một học giả lập dị sống ở thị trấn vùng quê nơi biên giới Yaaran, một lá thư giới thiệu của cô vẫn có sức nặng ghê gớm.
+Nếu sau này Alize thực sự học lên một học viện hay trường lớp nào đó, biết đâu cô bé còn giành được cả học bổng quốc gia. Dù Lorraine chỉ là một học giả lập dị sống ở thị trấn vùng quê nơi biên giới Yaaran, một lá thư giới thiệu của cô vẫn có giá trị rất lớn.
 
-Nhưng Alize muốn làm mạo hiểm giả cơ. Tôi nhắc cho Lorraine nhớ chuyện đó, cũng như chuyện cô bé là đệ tử đầu tiên của mình, và thế là chẳng ngoài dự đoán, hai đứa lại cãi nhau một trận ngớ ngẩn. Rốt cuộc cả hai đành thống nhất rằng quyền quyết định cuối cùng vẫn thuộc về Alize. Nhưng chẳng hiểu sao tôi cứ thấy nếu mình lơ là không để mắt, Lorraine sẽ dụ dỗ con bé bước sang con đường học giả mất.
+Nhưng Alize muốn làm mạo hiểm giả cơ. Tôi nhắc cho Lorraine nhớ điều đó, cũng như chuyện cô bé là đệ tử đầu tiên của mình, và thế là chẳng ngoài dự đoán, hai chúng tôi lại cãi nhau một trận ngớ ngẩn. Rốt cuộc cả hai đành thống nhất rằng Alize mới là người đưa ra quyết định cuối cùng. Nhưng chẳng hiểu sao tôi cứ có cảm giác nếu mình lơ là không để mắt, Lorraine sẽ dụ dỗ con bé bước sang con đường học giả mất.
 
-Tôi quyết định khi thời cơ thích hợp, mình sẽ truyền dạy cho Alize mọi niềm vui, hy vọng và ước mơ của nghề mạo hiểm giả. Dẫu trên con đường đó có lỡ phạm sai lầm, thì vẫn luôn có câu chuyện — coi như cũng gọi là truyền cảm hứng — về một gã chôn chân suốt mười năm ròng ở bậc Đồng Cấp để kể lại...
+Tôi quyết định khi thời cơ chín muồi sẽ truyền lại cho Alize mọi niềm vui, hy vọng và ước mơ của nghề mạo hiểm giả. Dẫu trên chặng đường đó có phạm phải sai lầm, thì vẫn luôn có câu chuyện — coi như cũng gọi là truyền cảm hứng — về một người đàn ông kẹt suốt mười năm ròng ở bậc Đồng Cấp để kể cho cô bé nghe...
 
-Dù sao đi nữa... tôi hướng mắt lại chiếc lọ máu Ma Cà Rồng trên bàn. Ai nhìn vào chắc cũng thắc mắc sao giữa bao nhiêu thứ tôi lại chọn đúng món này; nhưng dĩ nhiên, tất cả là vì Tiến Hóa Bản Thể. Không hiểu sao tôi có cảm giác rằng nếu hấp thụ thứ này vào người, mình sẽ trải qua một biến chuyển cực lớn... Ít nhất cảm giác mách bảo tôi như vậy.
+Dù sao đi nữa... tôi dời sự chú ý về lại lọ máu Ma Cà Rồng trên bàn. Hẳn sẽ có người hỏi tại sao giữa bao nhiêu thứ tôi lại chọn đúng món này; nhưng dĩ nhiên, tất cả là vì Tiến Hóa Bản Thể của tôi. Không hiểu sao tôi có cảm giác một biến chuyển to lớn sẽ đến với mình nếu hấp thụ thứ này vào cơ thể... Hoặc ít nhất thì cảm giác là như vậy.
 
-"Ý anh là giống như bản năng hả Rentt...?" Lorraine liếc nhìn tôi hỏi.
+"Vậy ý anh là nó giống như bản năng hả, Rentt...?" Lorraine hỏi, liếc mắt nhìn sang tôi.
 
-Tôi ngẫm một lúc rồi mới đáp.
+Tôi suy nghĩ một chút trước khi đưa ra câu trả lời.
 
-"Tôi cũng... Không thật sự. Biết nữa. Chẳng hạn như... Đứa trẻ muốn chơi. Với một món đồ hay ho... Vì trông nó thú vị. Người ta ngủ vì người ta... Buồn ngủ. Cảm giác đại loại là như vậy."
+"Tôi cũng... Không thật sự. Biết nữa. Chẳng hạn như... Một đứa trẻ muốn chơi. Với một món đồ thú vị... Chỉ vì trông nó thú vị. Người ta ngủ vì người ta... Buồn ngủ. Cảm giác đại loại là như thế."
 
-Xét về cảm giác hay linh tính thì không hẳn giống hệt vậy; chính xác hơn, nó là một sự thôi thúc. Một sự thôi thúc thời còn làm người tôi chưa từng cảm thấy. Nhưng tôi chẳng biết diễn đạt kiểu gì khác nên mới chọn cách nói thế.
+Xét về cảm giác hay linh cảm thì không hẳn giống hệt như vậy; nói chính xác hơn, nó gần giống một sự thôi thúc. Một sự thôi thúc mà thời còn là con người tôi chưa từng cảm nhận. Nhưng tôi chẳng thể diễn đạt theo cách nào khác, thành ra mới chọn những từ ngữ ấy.
 
-"Chà... Thế thì tôi cũng chẳng biết nói sao nữa, Rentt. Dù gì người ta cũng đâu thể cãi lại bản năng. Có điều... anh đã tính tới rủi ro chưa đấy? Như người quen Laura Latuule kia của anh đã nói, máu Ma Cà Rồng nổi tiếng là thứ phương pháp điều trị đầy rủi ro cho... thực ra là cho bất cứ thứ gì. Tôi từng đọc rất nhiều ghi chép về những kẻ dám thử chuyện này, mà nói cho anh biết là chẳng có lần thử nào thoát khỏi kết cục bi thảm đâu. Không chuẩn bị tâm lý tử tế thì đừng có dại mà đưa lên môi."
+"Chà... Thế thì tôi cũng chẳng biết nói gì hơn, Rentt. Xét cho cùng, chẳng ai cãi lại được bản năng cả. Tuy nhiên... anh đã cân nhắc kỹ những rủi ro rồi chứ? Như người quen Laura Latuule kia của anh đã nói, máu Ma Cà Rồng vốn nổi tiếng là một phương pháp điều trị đầy rủi ro cho... thật ra là cho bất cứ thứ gì. Tôi từng đọc rất nhiều ghi chép về những người cố thử chuyện đó — mà nói cho anh biết, tất cả những lần thử ấy đều kết thúc bằng bi kịch đấy nhé. Đó không phải thứ anh nên đưa lên môi nếu chưa chuẩn bị tâm lý kỹ càng đâu."
 
-Lorraine nói phải; tôi chưa từng nghiên cứu nhiều về Ma Cà Rồng. Vốn dĩ trong giới quái vật, Ma Cà Rồng thuộc hàng cấp cao và sở hữu sức mạnh ghê gớm. Tôi đâu dễ gì bắt gặp loài sinh vật ấy, cũng chưa từng đứng trước mặt con nào. Dù có chút hiểu biết cơ bản ở khía cạnh đó, nhưng chuyện gì sẽ xảy đến với người uống máu Ma Cà Rồng thì lại nằm ngoài tầm hiểu biết chung của tôi. Còn Lorraine thì xem ra có biết về vấn đề này, đúng là học giả có khác.
+Lorraine nói có lý; tôi quả thực chưa nghiên cứu nhiều về Ma Cà Rồng. Vốn dĩ xét trong giới quái vật, Ma Cà Rồng thuộc hàng cấp bậc khá cao và sở hữu sức mạnh vô cùng đáng gờm. Tôi đâu dễ gì bắt gặp những sinh vật như thế, cũng chưa từng đứng trước mặt con nào. Dù tôi có chút kiến thức cơ bản về Ma Cà Rồng ở phương diện đó, nhưng nắm rõ chuyện gì sẽ xảy ra với người uống máu Ma Cà Rồng lại nằm ngoài hiểu biết chung của tôi. Ngược lại, Lorraine dường như có kha khá kiến thức về chuyện này, đúng là học giả có khác.
 
-Nghe Lorraine cảnh báo về những hiểm nguy tiềm ẩn, lòng quyết tâm của tôi khẽ lung lay đôi chút.
+Khi Lorraine cảnh báo về những nguy hiểm tiềm ẩn, tôi thấy quyết tâm của mình khẽ dao động đôi chút.
 
-"...Hay là tạm thời. Tôi bỏ ý định đó đi và... Cứ. Chơi với món này trước xem sao..."
+"...Hay là tạm thời tôi cứ từ. Bỏ ý định đó đi và... Chỉ. Chơi với món này thay vào đó nhỉ..."
 
-Nói rồi, tôi lấy từ trong túi ra viên đá hình đĩa có hoa văn trang trí, đặt thiết bị điều khiển của nó vào lòng bàn tay. Chiếc phi thuyền mô hình nãy giờ được đặt cẩn thận giữa bàn như báu vật vô giá liền cất mình lơ lửng, rồi bay lượn vèo vèo giữa không trung.
+Nói rồi, tôi rút từ trong túi ra một viên đá hình đĩa có hoa văn trang trí, đặt thiết bị điều khiển vào lòng bàn tay. Chiếc phi thuyền mô hình vốn được đặt nâng niu ngay giữa bàn như một báu vật vô giá chẳng mấy chốc đã lơ lửng rồi bay vèo vèo trong không trung.
 
-"Anh mang về nhà toàn đồ tạo tác hiếm có nhỉ? Đến tôi còn chưa từng nghe danh gia tộc Latuule này bao giờ đấy, Rentt. Nhưng chỉ nhìn vào những ma cụ họ sở hữu thôi, tôi dám khẳng định họ tuyệt đối không phải một gia tộc tầm thường đâu." Mắt Lorraine dán chặt vào chiếc phi thuyền mô hình nhỏ bé.
+"Anh mang về nhà toàn cổ vật quý hiếm đấy nhỉ? Ngay cả tôi cũng chưa từng nghe nói tới gia tộc Latuule này bao giờ, Rentt à. Tuy nhiên, chỉ nhìn vào những ma cụ họ sở hữu thôi, tôi có thể tự tin khẳng định họ tuyệt đối không phải một gia tộc bình thường đâu." Ánh mắt Lorraine dán chặt vào chiếc phi thuyền mô hình nhỏ bé.
 
-Chuyển ý thức sang chiếc phi thuyền, tôi nhìn xuống Lorraine. Vẻ mặt cô lúc này trông khá buồn cười, nếu phải tả thì là nửa thán phục, nửa ngán ngẩm.
+Chuyển ý thức sang chiếc phi thuyền, tôi từ trên nhìn xuống Lorraine đang mang vẻ mặt khá thú vị. Nếu phải diễn tả thì đó là sự pha trộn giữa thán phục và bất lực.
 
-Có vẻ tôi đã điều khiển chiếc phi thuyền bay hơi quá gần Lorraine. Nghĩ lại thì, trước giờ tôi chưa từng lại gần cô ở khoảng cách sát thế này. Thậm chí... nhìn kỹ hơn thì hôm nay Lorraine lại đang mặc bộ đồ hơi rộng.
+Xem ra tôi đã điều khiển chiếc phi thuyền bay lại hơi quá gần Lorraine. Nghĩ lại thì trước giờ tôi chưa từng ở gần cô đến thế này về mặt khoảng cách. Thậm chí... nhìn kỹ hơn thì hôm nay Lorraine lại đang mặc trang phục có phần hơi rộng rãi.
 
-Góc nhìn này nguy hiểm thật đấy, phi thuyền nhỏ ơi. Suýt nữa thì tôi nhìn thấy mấy thứ không nên thấy rồi...
+Góc nhìn này nguy hiểm thật đấy, phi thuyền nhỏ ơi. Tôi suýt nữa là nhìn thấy vài thứ không nên thấy rồi...
 
-Tôi vội thu hồi ý thức khỏi món đồ bay nhỏ bé, vừa làm vừa hít sâu một hơi. Tôi chưa nói cho Lorraine biết về các tính năng của chiếc phi thuyền, nên chắc cô chẳng nhận ra có chuyện gì bất thường đâu.
+Tôi vội thu hồi ý thức khỏi chiếc phi thuyền nhỏ, vừa làm vừa hít sâu một hơi. Tôi vẫn chưa nói cho Lorraine biết về các tính năng của chiếc phi thuyền, nên chắc cô không nhận ra có chuyện gì bất thường đang diễn ra đâu.
 
-Thế nhưng...
+Tuy nhiên...
 
-"Hửm...?" Lorraine nghiêng đầu sang một bên, vẻ khó hiểu.
+"Hửm...?" Lorraine nghiêng đầu sang một bên, vẻ bối rối.
 
 "...Có, chuyện gì sao?"
 
-"Không, chẳng có gì... Chắc tôi tưởng tượng thôi. Không, không có gì đâu..." Lorraine nói, đưa ra một câu trả lời mơ hồ kỳ lạ trước câu hỏi có vẻ ngây thơ vô tội của tôi.
+"Không, chẳng có gì... Có lẽ chỉ là do tôi tưởng tượng thôi. Không, không có gì cả đâu..." Lorraine nói, đưa ra một câu trả lời mơ hồ kỳ lạ trước câu hỏi có vẻ ngây thơ vô tội của tôi.
 
-Như muốn chuyển chủ đề, cô nói tiếp.
+Như muốn đổi chủ đề, Lorraine nói tiếp.
 
-"Dù vậy, anh đã tính xem mình sẽ làm gì sau khi thôi trốn tránh thực tại chưa hả Rentt? Anh bảo thứ đó cần thiết cho việc tiến hóa của mình cơ mà? Đã thế thì đằng nào rốt cuộc anh chẳng phải uống nó."
+"Dù vậy, anh đã quyết định xem mình sẽ làm gì sau khi thôi trốn tránh thực tại chưa, Rentt? Chẳng phải anh bảo thứ đó cần thiết cho quá trình tiến hóa của mình sao? Nếu thế thì đằng nào rốt cuộc anh cũng sẽ uống nó mà thôi."
 
-"...Tôi đoán. Cô nói đúng, nhưng cứ... Nghĩ tới là tôi không khỏi. Thấy hơi sợ. Cô không... Có suy nghĩ gì về chuyện tôi cứ thế... Uống thứ này sao, Lorraine?"
+"...Tôi đoán. Cô nói đúng, nhưng nghĩ... Đến chuyện đó là tôi không khỏi. Cảm thấy hơi sợ. Cô không... Có suy nghĩ gì, về chuyện tôi cứ thế... Uống thứ này sao, Lorraine?"
 
-"Dĩ nhiên, nếu anh không định uống thì coi như xong chuyện," Lorraine nghiêm túc đáp, chẳng chút do dự. "Tôi chẳng để tâm nếu anh cứ làm Undead mãi đâu, Rentt. Anh có thể tiếp tục ở lại đây, thích nhận ủy thác nào thì hoàn thành, rồi cứ thế sống tiếp ở Maalt — viễn cảnh đó cũng đâu có tệ.
+"Dĩ nhiên, nếu anh không định uống nó thì chuyện chỉ dừng lại ở đó thôi," Lorraine nghiêm túc trả lời, không chút do dự. "Tôi chẳng bận tâm nếu anh cứ làm Undead mãi đâu, Rentt. Anh có thể tiếp tục ở lại đây, thích nhận ủy thác nào thì hoàn thành ủy thác đó, và cứ thế sống tiếp ở Maalt — viễn cảnh đó cũng đâu đến nỗi tệ.
 
-"Nhưng," Lorraine hít sâu một hơi rồi nói tiếp, "anh lại ghét điều đó, Rentt à. Đó đâu phải thứ anh muốn — chuyện đó thì đến tôi cũng rõ. Tôi biết hết ước mơ của anh rồi. Bất kể thế nào, dù bản thân chẳng có tài năng gì, dù có mất năm này qua năm khác, anh vẫn sẽ luôn khao khát trở thành mạo hiểm giả Mithril Cấp, đúng không? Cho dù phải liều mạng nắm đuôi cọp hay làm những trò mạo hiểm đùa giỡn với tử thần, anh vẫn sẽ không ngần ngại bước đi trên con đường đó cho đến tận cùng. Thật ra, chẳng phải vẻ ngập ngừng mà anh đang thể hiện trước mặt tôi chỉ là giả vờ vì lo cho tôi sao? Anh vốn là người đàn ông như thế mà, Rentt Faina. Tôi nói có sai đâu? Đã vậy thì tôi sẽ ủng hộ anh bằng mọi cách có thể. Ha! Cùng lắm tôi nhặt xương anh về chôn vào một ngôi mộ đàng hoàng, rồi ngày nào cũng ra thăm... Cho đến tận ngày tôi nhắm mắt xuôi tay, tôi sẽ không để nấm mồ ngốc nghếch của anh bị lãng quên đâu. Đám tang anh tôi sẽ khóc to hết cỡ — nhưng tiếc là, đó cũng là tất cả những gì tôi có thể làm cho anh rồi, Rentt..."
+"Nhưng," Lorraine hít một hơi thật sâu rồi nói tiếp, "anh ghét điều đó mà, Rentt. Đó không phải thứ anh muốn — đến tôi cũng biết rõ điều đó. Tôi biết tất cả về những ước mơ của anh. Bất kể thế nào, dù anh chẳng có tài cán gì, và dù có mất hết năm này qua năm khác, anh vẫn sẽ luôn khao khát trở thành một mạo hiểm giả Mithril Cấp, phải không? Cho dù có phải liều mạng vuốt râu hùm hay làm những trò mạo hiểm thập tử nhất sinh, anh vẫn sẽ không chút do dự mà bước đi trên con đường đó cho đến tận cùng. Thật ra, chẳng phải sự do dự mà anh đang cho tôi thấy chỉ là màn kịch vì lo lắng cho tôi thôi sao? Anh vốn là người đàn ông như thế mà, Rentt Faina. Tôi nói có sai không? Nếu đã vậy, tôi sẽ ủng hộ anh bằng mọi cách có thể. Ha! Nếu chuyện đến nước đó, tôi sẽ nhặt xương của anh về, chôn cất vào một ngôi mộ tử tế, thậm chí ngày nào tôi cũng sẽ ra thăm... Cho đến tận ngày tôi nhắm mắt xuôi tay, tôi sẽ đảm bảo nấm mồ ngốc nghếch của anh không bị lãng quên đâu. Tôi sẽ khóc to hết sức có thể trong đám tang của anh — nhưng tiếc là, đó cũng là tất cả những gì tôi có thể làm cho anh rồi, Rentt..."
 
-Đúng là Lorraine — cô thực sự hiểu tôi.
+Đúng là Lorraine — cô thật sự rất hiểu tôi.
 
-Đúng vậy thật: dù ngoài mặt tôi có vẻ hơi chần chừ, nhưng tất cả chỉ là giả vờ thôi. Tôi đã sớm hạ quyết tâm từ lâu rồi. Nếu uống thứ này vào mà biến thành kẻ tàn phế, hay bằng cách nào đó giết tôi thêm lần nữa, thì cũng đành chịu vậy. Còn không uống, tôi sẽ chẳng bao giờ bước tiếp được bước đó, và cuộc đời tôi sẽ chỉ là một trò hề mang danh sự sống — nói nôm na là một cái xác biết đi.
+Quả đúng là vậy: dù ngoài mặt tôi có vẻ hơi chần chừ, nhưng tất cả chỉ là diễn kịch mà thôi. Tôi đã sớm hạ quyết tâm từ rất lâu rồi. Nếu uống thứ này vào mà biến tôi thành kẻ tàn phế, hay bằng cách nào đó giết chết tôi lần thứ hai, thì cũng đành chịu vậy. Nếu không uống, tôi sẽ chẳng bao giờ bước tiếp được bước đó, và cuộc đời tôi sẽ chỉ là một trò nhại lại của sự sống — nói nôm na là một cái xác biết đi.
 
-Tất nhiên, đó là nói theo nghĩa bóng...
+Tất nhiên là nói theo nghĩa bóng thôi...
 
-Chuyện tôi đúng nghĩa đen là một cái xác biết đi tất nhiên không lọt khỏi đầu tôi, nhưng tạm thời tôi chọn gác ý nghĩ đó sang một bên. Dẫu vậy... ngộ nhỡ có chuyện như thế xảy ra thật, chắc chắn sẽ là một mớ rắc rối lớn để Lorraine phải xoay xở.
+Chuyện tôi đúng nghĩa đen là một cái xác biết đi tất nhiên không lọt khỏi sự chú ý của tôi, nhưng tạm thời tôi chọn gác ý nghĩ đó sang một bên. Dù vậy... ngộ nhỡ có chuyện như thế xảy ra thật, chắc chắn sẽ là một mớ rắc rối lớn để Lorraine phải giải quyết.
 
-"...Tôi xin lỗi. Nếu tôi uống thứ này mà... Rốt cuộc lại làm điều gì đó. Kỳ lạ. Cô hãy niệm... Ma pháp của mình. Rồi thiêu rụi tôi thành tro đi nhé."
+"...Tôi xin lỗi. Nếu tôi uống thứ này vào và... Rốt cuộc lại làm ra chuyện gì. Kỳ lạ. Cô hãy niệm... Ma pháp của mình. Và thiêu rụi tôi thành tro đi nhé."
 
-"Tôi cầu mong mọi chuyện không đến mức đó..." Lorraine lẩm bẩm, câu trả lời của cô nghe chẳng khác nào một lời cầu nguyện.
+"Tôi cầu mong mọi chuyện không đến mức đó..." Lorraine lẩm bẩm, câu trả lời của cô nghe gần như một lời cầu nguyện.
 
-Tôi gật đầu với Lorraine, cuối cùng cũng cầm lấy chiếc lọ pha lê. Suốt một lúc lâu, tôi nhìn sâu vào mắt cô, nơi ngay lúc này vẫn ngập tràn vẻ bất an, và có lẽ là cả chút sợ hãi thấp thoáng.
+Tôi gật đầu với Lorraine, cuối cùng cũng cầm lấy chiếc lọ pha lê trên tay. Suốt một lúc, tôi nhìn thẳng vào đôi mắt Lorraine, nơi ngay cả lúc này dường như vẫn chất chứa nỗi bất an, và có lẽ là cả một thoáng sợ hãi.
 
-Tôi vặn nắp lọ ra, đưa lên môi, rồi dốc cạn thứ chất lỏng bên trong vào cổ họng.
+Tôi vặn mở nắp lọ, đưa lên môi rồi dốc cạn chất lỏng bên trong xuống cổ họng.

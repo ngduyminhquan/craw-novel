@@ -72,146 +72,146 @@ Có điều tôi chưa hiểu vì sao cô lại tự cứa tay mình. Như để
 
 Lorraine chìa ngón tay cái ra cho tôi xem.
 
-"Ra vậy. Ngón tay cô lành hẳn rồi... Vậy là ánh sáng này có khả năng trị liệu."
+"Ra vậy. Ngón tay cô lành hẳn rồi... vậy chắc ánh sáng này có khả năng trị liệu."
 
-"Nói theo cách đó thì đúng là vậy đấy. Thế này chẳng phải rất đáng ăn mừng sao, Rentt? Không những có thể bón phân cho đồng ruộng, anh còn có thể chữa lành vết thương cùng bệnh tật cho những người nông dân chăm chỉ nữa đấy!"
+"Nói thế cũng được, phải đấy. Thế này chẳng phải rất đáng ăn mừng sao, Rentt? Không những có thể bón phân cho đồng ruộng, anh còn chữa lành được vết thương cùng bệnh tật cho những người nông dân chăm chỉ nữa đấy!"
 
-Mong là cô chỉ đùa; dù vậy, Lorraine nói cũng có lý. Chúng tôi vừa phát hiện thêm một công dụng tiềm năng nữa của đôi cánh phát sáng này.
+Mong là cô chỉ đùa thôi; dù vậy, Lorraine nói cũng có lý. Chúng tôi vừa phát hiện thêm một công dụng tiềm năng nữa của đôi cánh phát sáng này.
 
-Cứ đà này thì nếu tôi truyền Thần Lực vào cánh rồi bay qua một khu vực nào đó, những người ở bên dưới đều sẽ được chữa lành. Với các tư tế hay Thánh Nữ có năng lực trị liệu thì chuyện đó chẳng có gì khó, nhưng trước giờ mỗi lần tôi chỉ chữa được cho một người. Tuy chỉ là một bước tiến nhỏ của bản thân, nhưng có tiến bộ vẫn hơn.
+Cứ đà này thì nếu tôi truyền Thần Lực vào cánh rồi bay qua một khu vực nào đó, những người ở bên dưới đều sẽ được chữa lành. Với một tư tế hay Thánh Nữ được ban phước năng lực trị liệu thì chuyện đó chẳng có gì khó, nhưng trước giờ mỗi lần tôi chỉ chữa được cho một người. Tuy chỉ là một tiến bộ nhỏ của bản thân, nhưng có tiến bộ vẫn hơn.
 
-"Tác dụng nghe hơi đơn điệu... nhưng có còn hơn không."
+"Hiệu ứng nghe hơi bình thường... nhưng có còn hơn không."
 
-"Đúng đấy. Thử nghĩ xem anh làm được bao nhiêu chuyện chứ, Rentt! Khéo ăn nói một chút là người ta còn sùng bái anh không chừng! Dù sao anh cũng phát sáng rực rỡ thế kia mà. Cứ tự xưng là sứ giả của thần linh hay đại loại thế là xong."
+"Quá đi chứ. Thử nghĩ tới bao nhiêu khả năng xem, Rentt! Khéo ăn nói một chút là người ta còn sùng bái anh không chừng! Dù sao anh cũng phát sáng thế kia mà. Cứ nhận mình là sứ giả của thần linh hay đại loại thế là xong."
 
-Chắc Lorraine lại đùa thôi... nhưng lời cô nói cũng không hẳn là vô lý. Có điều, mới nghĩ tới cảnh tự xưng như thế rồi được người đời sùng bái là tôi đã thấy rùng mình. Tôi chẳng ham hố gì kiểu gây chú ý kỳ quặc đó cả. Xem ra muốn dùng năng lực này thì phải chọn lúc cho khéo mới được.
+Chắc lại một câu đùa nữa của Lorraine thôi... nhưng lời cô nói cũng có phần đúng. Có điều, mới nghĩ tới cảnh tự xưng như thế rồi được người đời sùng bái là tôi đã thấy hãi. Tôi chẳng ham hố gì kiểu gây chú ý kỳ quặc đó cả. Xem ra muốn dùng năng lực này thì phải chọn lúc cho kỹ mới được.
 
-"Nhưng nghĩ đi nghĩ lại thì, tôi là một mạo hiểm giả độc hành... Xem chừng cũng chẳng có nhiều cơ hội cho tôi dùng đến nó đâu, Lorraine."
+"Nhưng nghĩ lại thì tôi là mạo hiểm giả độc hành mà... Xem chừng cũng chẳng có mấy cơ hội để dùng đến nó đâu, Lorraine."
 
-Câu nói nghe thật cô đơn, nhưng đúng là sự thật: tôi hầu như toàn đi làm nhiệm vụ một mình. Một mạo hiểm giả độc hành như tôi thì làm được gì với một kỹ năng trị liệu diện rộng như thế này chứ?
+Câu nói nghe thật cô đơn, nhưng đúng là sự thật: phần lớn thời gian tôi đều đi mạo hiểm một mình. Một mạo hiểm giả độc hành như tôi thì làm được gì với kỹ năng trị liệu diện rộng như thế này chứ?
 
-Lorraine dường như không nghĩ vậy.
+Lorraine dường như không đồng tình.
 
-"Chưa chắc đâu, Rentt à. Anh không nhớ những lần quái vật sinh sôi bất thường sao? Khi ấy các mạo hiểm giả sẽ ồ ạt kéo đi ứng phó, đúng chứ? Những người có kỹ năng trị liệu diện rộng luôn rất được trọng vọng, phải không nào? Nhưng dĩ nhiên, những biến cố như vậy luôn đi kèm một Ủy Thác Cưỡng Chế từ phía Hội..."
+"Chưa hẳn đâu, Rentt. Anh không nhớ những lần quái vật sinh sôi bất thường sao? Khi ấy các mạo hiểm giả sẽ ồ ạt kéo đi ứng phó, đúng chứ? Những người có kỹ năng trị liệu diện rộng luôn rất được trân trọng, phải không nào? Nhưng dĩ nhiên, những biến cố như vậy luôn đi kèm một Ủy Thác Cưỡng Chế từ phía Hội..."
 
-Lorraine đang nhắc tới việc quái vật thỉnh thoảng lại sinh sôi đột biến xung quanh các thị trấn. Để nhanh chóng dẹp bỏ mối đe dọa, các hội mạo hiểm giả thường huy động toàn bộ thành viên nhằm giảm bớt số lượng của chúng. Những cuộc đụng độ như vậy chẳng khác nào những cuộc chiến thu nhỏ vì quân số đôi bên quá đông, và những mạo hiểm giả tinh thông thuật trị liệu luôn được Hội coi trọng hết mực. Người biết ma pháp trị liệu hoặc sử dụng được Thần Lực vốn đã hiếm, mà phần lớn mỗi lần lại chỉ chữa được cho một người. Bởi thế, mạo hiểm giả nào có khả năng trị liệu cho nhiều người cùng lúc trên diện rộng đều được quý như vàng.
+Lorraine đang nhắc tới việc quái vật thỉnh thoảng lại sinh sôi đột biến xung quanh các thị trấn. Để lập tức dẹp bỏ mối đe dọa, Hội Mạo Hiểm Giả thường huy động toàn bộ thành viên nhằm giảm bớt số lượng của chúng. Những cuộc đụng độ như vậy thường chẳng khác nào những cuộc chiến thu nhỏ vì số lượng tham gia quá đông, và những mạo hiểm giả tinh thông kỹ thuật trị liệu luôn được Hội đánh giá rất cao. Những mạo hiểm giả dùng được ma pháp trị liệu hoặc Thần Lực vốn đã hiếm, mà phần lớn mỗi lần lại chỉ chăm sóc được cho một người. Bởi thế, bất kỳ mạo hiểm giả nào có khả năng trị liệu cho nhiều người cùng lúc trong một khu vực đều được coi như báu vật.
 
-Bình thường thì mạo hiểm giả vẫn có thể xin miễn Ủy Thác Cưỡng Chế nếu có lý do chính đáng, hoặc nếu không giữ vai trò thiết yếu trong chiến dịch. Thế nhưng một thầy trị liệu diện rộng thì muốn hay không cũng sẽ bị lôi ra chiến trường.
+Trong hoàn cảnh bình thường, mạo hiểm giả có thể xin rút khỏi Ủy Thác Cưỡng Chế nếu có lý do chính đáng, hoặc nếu không giữ vai trò thiết yếu trong chiến dịch. Thế nhưng một người có khả năng trị liệu diện rộng thì muốn hay không cũng sẽ bị lôi ra chiến trường.
 
-Xem ra năng lực này của tôi lại phải giấu nhẹm đi thôi...
+Xem ra năng lực này của tôi lại phải giấu đi thôi...
 
-Nhưng... làm vậy thì lại cắn rứt lương tâm mạo hiểm giả của tôi. Dù không còn là con người, tôi vẫn sẽ nhận lời triệu tập của Hội nếu biến cố như thế xảy ra. Nếu tôi làm ngơ, nhỡ đâu quái vật tràn được vào Maalt thì lúc ấy có hối hận cũng đã quá muộn. Huống hồ giờ trông tôi đã giống người hơn trước rất nhiều, nên sẽ không bị săn đuổi ngay chỉ vì vẻ bề ngoài nữa.
+Nhưng... làm vậy thì lại trái với lương tâm mạo hiểm giả của tôi. Dù không còn là con người, tôi vẫn sẽ đáp lại lời triệu tập của Hội nếu biến cố như thế xảy ra. Nếu tôi làm ngơ, biết đâu quái vật sẽ tràn vào Maalt, lúc ấy có hối hận vì lựa chọn của mình thì cũng đã quá muộn. Huống hồ giờ trông tôi đã giống người hơn bao giờ hết, nên sẽ không bị săn đuổi ngay chỉ vì vẻ bề ngoài nữa.
 
-Dẫu vậy, nếu trong đám mạo hiểm giả có ai tinh mắt thì chắc tôi vẫn sẽ gặp rắc rối. Tốt nhất là tôi cứ giữ mình đừng quá nổi bật—hoặc ít nhất là tôi nghĩ thế.
+Chắc tôi vẫn sẽ gặp rắc rối nếu trong đám đông có một mạo hiểm giả tinh mắt nào đó. Cùng lắm tôi chỉ có thể cố đừng làm mình quá nổi bật — hoặc ít nhất là tôi nghĩ thế.
 
-"Nếu có ngày đó thật thì tôi cũng đành nghe theo lệnh triệu tập của Hội thôi... Chỉ mong sao tìm được cách xử lý cái ánh sáng này..."
+"Nếu có ngày đó thật thì tôi cũng đành xuôi theo lệnh của Hội thôi... Nhưng tôi vẫn muốn làm cách nào đó xử lý cái ánh sáng này hơn..."
 
-Dù có đem kỹ năng trị liệu mới này ra dùng đi nữa, cảnh vác đôi cánh phát sáng rực rỡ sau lưng vẫn cứ quá sức chịu đựng với tôi.
+Dù có đem kỹ năng trị liệu mới đạt được này ra dùng đi nữa, cảnh mang đôi cánh phát sáng trên lưng vẫn là hơi quá sức chịu đựng với tôi.
 
-Tôi ôm đầu thở dài ngao ngán suốt một lúc lâu, cố nghĩ xem có cách nào giải quyết không. Với bộ dạng của tôi bây giờ, bị người ta coi như Thiên Sứ thần thánh đúng là chuyện tôi chẳng mong muốn chút nào.
+Suốt một lúc, tôi ôm đầu ngán ngẩm, cố tìm xem có giải pháp nào không. Với bộ dạng của tôi bây giờ, bị người ta đối xử như một vị Thiên Sứ thần thánh nào đó là điều cuối cùng tôi mong muốn.
 
 ◆◇◆◇◆
 
-"Vậy là chúng ta đã thử nghiệm xong hết mọi thứ cần thiết với đôi cánh của anh rồi đấy," Lorraine tuyên bố, vẻ mặt hết sức thỏa mãn.
+"Vậy là chúng ta đã thực hiện xong mọi bài kiểm tra cần thiết đối với đôi cánh của anh rồi đấy," Lorraine thông báo, vẻ mặt vô cùng thỏa mãn.
 
-Theo lời Lorraine, tôi vừa thử truyền Thần Lực vào cánh trong lúc bay. Giống như những lần thử trước, có vẻ Thần Lực và Ma Lực đi qua những mạch dẫn khác nhau trong cánh, nên may mà không xảy ra vụ nổ nào do sự cố Dung Hợp Thuật. Chắc cấu trúc bên trong đôi cánh đã tách biệt đủ rõ để ngăn tai nạn kiểu đó.
+Theo hướng dẫn của Lorraine, tôi vừa thử bay trong lúc truyền Thần Lực vào cánh. Giống như những lần thử nghiệm trước, có vẻ Thần Lực và Ma Lực mỗi thứ đều chảy qua những cấu trúc khác nhau bên trong cánh, và may mắn là không xảy ra vụ nổ nào liên quan đến sự cố Dung Hợp Thuật. Tôi đoán bên trong đôi cánh đã có sự ngăn cách vừa đủ để ngăn chặn tai nạn như thế.
 
-Đôi cánh này mới mọc ra sau lần tiến hóa vừa rồi. Điều làm tôi mừng nhất là chúng được cấu tạo sao cho không tự dưng sụp nổ từ trong hay phát nổ bừa bãi. Đổi lại, tôi cũng không thể tạo ra luồng sức mạnh công phá đột ngột trên đôi cánh như khi dùng Dung Hợp Thuật với kiếm. Nhưng với tôi thì chỉ cần bay lượn được đã là quá đủ rồi. Đòi hỏi thêm nữa thì thật bất công với đôi cánh mới nhú này quá.
+Đôi cánh của tôi vừa mới hình thành sau đợt tiến hóa gần nhất. Nhưng điều làm tôi biết ơn sâu sắc nhất là chúng được cấu tạo để không tự dưng sụp nổ từ bên trong, phát nổ ra ngoài, hay bất kỳ kiểu nổ kết hợp nào giữa hai thứ đó. Đổi lại, luồng sức mạnh hủy diệt bộc phát đột ngột từng thấy khi tôi dùng Dung Hợp Thuật trên thanh kiếm lại không thể tái hiện trên đôi cánh. Tuy nhiên, xét theo góc độ của tôi thì chỉ riêng việc bay được đã là quá đủ rồi. Trông đợi nhiều hơn thế thì hơi đòi hỏi quá đáng ở đôi cánh mới mọc này.
 
-"À... phải rồi. Còn một chuyện nữa... Rốt cuộc thì tôi đã tiến hóa thành thứ gì thế...?" tôi hỏi, chợt nhớ ra Lorraine vẫn chưa xếp tôi vào chủng quái vật cụ thể nào như mọi lần.
+"À... phải rồi. Còn một chuyện... Chính xác thì tôi đã tiến hóa thành thứ gì thế...?" tôi hỏi, chợt nhận ra Lorraine vẫn chưa phân loại tôi vào một chủng quái vật nào như cô vẫn thường làm vào những dịp thế này.
 
-Tôi có cảm giác Lorraine đã đoán được đại khái tôi biến thành gì, chỉ là tôi chưa hỏi kỹ mà thôi. Thế nhưng nghe tôi hỏi vậy, Lorraine lại chỉ lắc đầu.
+Tôi cảm thấy Lorraine đã nắm được khái quát tôi biến thành gì, chỉ là tôi chưa gặng hỏi chi tiết mà thôi. Trong khi đó, Lorraine lại lắc đầu trước câu hỏi của tôi.
 
-"Thú thật đấy Rentt, tôi chẳng biết đâu," cô vừa nói vừa tiếp tục lắc đầu.
+"Thật lòng đấy, Rentt, tôi chẳng biết đâu," cô vừa nói vừa tiếp tục lắc đầu.
 
-"Thôi nào Lorraine. Trông cô như thể đã nắm được phần nào rồi mà. Lúc tôi tỉnh dậy, cô đang đọc cuốn sách dày cộp về Ma Cà Rồng đấy thôi. Chắc chắn cô làm vậy là vì đã có chút suy đoán về việc tôi có thể là thứ gì rồi, đúng chứ?"
+"Thôi nào Lorraine. Trông cô như đã nắm được đại khái rồi mà. Lúc tôi thức dậy, cô đang đọc cuốn sách dày về Ma Cà Rồng còn gì. Chắc chắn cô đọc nó là vì đã có chút hình dung về việc tôi có thể là thứ gì rồi, đúng không?"
 
-Tất nhiên cũng có thể lúc đó Lorraine chỉ đang cuống quýt lật sách tìm xem có loài nào giống với thứ tôi vừa biến thành hay không. Nhưng nhìn dáng vẻ đọc sách của cô lúc ấy thì chẳng có nét gì là vội vã cả. Trông giống như cô đã đoán được phần nào, chỉ đang tra sách để kiểm chứng lại suy đoán của mình rồi báo cho tôi ngay khi tôi tỉnh dậy mà thôi.
+Tất nhiên, cũng có thể Lorraine chỉ đang hoảng hốt lật giở cuốn sách để tìm một thứ gì đó giống với sinh vật mà tôi vừa hóa thành. Nhưng lúc đọc sách trông Lorraine chẳng có vẻ gì là vội vàng cả. Có vẻ như cô đã nắm được đại khái tôi biến thành gì, và chỉ đang kiểm tra lại cuốn sách để xác nhận giả định của mình nhằm báo cho tôi biết ngay khi tôi thức dậy mà thôi.
 
-Biết đâu tôi đoán trật; mà dù sao thì Lorraine cũng bắt đầu giải thích tiếp.
+Có lẽ tôi đã suy luận nhầm; dù sao đi nữa, Lorraine vẫn tiếp tục giải thích.
 
-"Ừ thì, nói vậy cũng không sai... Nhưng Rentt này... Nhìn thấy đôi cánh đó của anh xong là tôi hết dám chắc rồi. Vốn dĩ Ma Cà Rồng đâu phải loài quái vật có cánh. Bề ngoài của chúng hầu như chẳng khác gì con người—tất nhiên là có răng nanh để hút máu, nhưng mà... A! Phải rồi, nhắc mới nhớ. Mặt mũi anh thế nào rồi? Chỉnh lại mặt nạ cho tôi xem thử nào."
+"Ừ thì, anh nói vậy cũng được... Nhưng anh thấy đấy, Rentt... Sau khi nhìn thấy đôi cánh đó của anh thì tôi không còn dám chắc nữa rồi. Ngay từ đầu Ma Cà Rồng vốn đâu phải loài quái vật có cánh. Phần lớn chúng đều không thể phân biệt được với con người — tất nhiên chúng có răng nanh để hút máu, nhưng... A! Phải rồi, cái đó. Thế còn khuôn mặt của anh thì sao? Chỉnh lại mặt nạ để tôi xem nào."
 
-Tôi gật đầu, chỉnh lại mặt nạ cho Lorraine dễ nhìn. Tôi tập trung ý nghĩ để đổi hình dạng mặt nạ, chẳng mấy chốc đã để lộ nửa mặt dưới. Dù cũng muốn mở hết cho cô xem trọn khuôn mặt, nhưng kiểu biến hình này ổn định và giữ được lâu hơn cả, nên cuối cùng tôi chọn cách này.
+Tôi gật đầu, dịch chuyển chiếc mặt nạ để Lorraine nhìn rõ hơn. Tôi dùng ý nghĩ điều khiển mặt nạ thay đổi hình dạng, chẳng mấy chốc đã để lộ nửa dưới khuôn mặt. Dù tôi muốn cho Lorraine nhìn thấy toàn vẹn hơn, nhưng đây là hình dạng ổn định có thể duy trì trong thời gian dài, nên rốt cuộc tôi đã chọn kiểu này.
 
-Trước đây, răng hàm và xương quai hàm của tôi đều lộ cả ra ngoài, chỉ có vài mẩu thịt khô và thớ cơ bám lơ thơ trên da chỗ này chỗ nọ. Vừa ngó vào xem xét, Lorraine đã khẽ thốt lên một tiếng ngạc nhiên.
+Trước đây, răng hàm và xương hàm của tôi lộ cả ra ngoài, lơ thơ vài mẩu thịt và cơ khô quắt bám trên da chỗ này chỗ nọ. Lorraine khẽ hít một hơi ngạc nhiên khi tiến hành kiểm tra.
 
-"Ồ! Chỗ này có da thịt đàng hoàng lại rồi này. Cũng mềm mại, mịn màng y như mấy chỗ khác trên người anh... Nhìn mà phát ghét. Nhưng đúng là da anh trắng bợt thật. Nói thật thì trông chẳng giống người khỏe mạnh chút nào."
+"Ồ! Giờ chỗ này của anh đã có thịt thật sự rồi này. Cũng là làn da mềm mại, láng mịn y như phần còn lại trên cơ thể anh... Thật đáng ghét làm sao. Nhưng đúng là da anh tái nhợt thật đấy. Nếu phải nhận xét thì trông anh chẳng giống một người khỏe mạnh chút nào."
 
-Lorraine nói vậy thôi, chứ cá nhân tôi thấy việc cô giữ được làn da mịn màng như thế dù ăn ở bừa bộn và sinh hoạt thất thường mới là kỳ tích đáng nể hơn nhiều.
+Dù Lorraine nói vậy, nhưng cá nhân tôi thấy việc cô giữ được làn da tương đối mịn màng trong khi sống một cuộc sống bừa bộn và thiếu lành mạnh như thế mới là kỳ tích đáng nể hơn nhiều.
 
-Nói mới nhớ, dạo gần đây Sheila cũng từng than thở chuyện này. Da dẻ cô ấy vốn đã mịn màng tươi tắn sẵn, nhưng để giữ được như vậy cô ấy cũng phải tốn không ít thời gian và tiền bạc chăm chút, nên bức xúc cũng phải thôi.
+Nghĩ lại thì gần đây Sheila cũng từng than phiền chuyện tương tự. Dù làn da của cô ấy tự thân đã khá mịn màng và đẹp đẽ rồi, nhưng cô ấy vẫn phải tốn một khoản thời gian và tiền bạc kha khá để chăm sóc, nên được như thế cũng là điều dễ hiểu.
 
-Bản thân Lorraine cũng chẳng lạ gì chuyện làm đẹp, còn dùng thuật giả kim tự điều chế đồ dưỡng da và mỹ phẩm cao cấp để dùng. Có điều nếp sinh hoạt và ăn uống thường ngày của cô lại bê bối hết chỗ nói, bảo sao cánh phụ nữ bình thường ở Maalt nhìn vào cứ tức anh ách.
+Bản thân Lorraine cũng chẳng xa lạ gì với những việc đó, cô tự điều chế các sản phẩm dưỡng da chất lượng cao cùng những loại mỹ phẩm khác bằng năng lực giả kim của mình. Tuy nhiên, thói quen sinh hoạt hàng ngày và chuyện ăn uống của cô lại có quá nhiều điều đáng bàn, nên chẳng có gì lạ khi hành động của cô làm cánh phụ nữ bình thường ở Maalt phải gai mắt.
 
-"Tôi thực sự không thể nào hiểu nổi khái niệm về một Undead khỏe mạnh đâu, Lorraine à..."
+"Tôi thực sự không tài nào hiểu nổi khái niệm một Undead khỏe mạnh là thế nào đâu, Lorraine..."
 
-"Hừm. Anh nói cũng có lý, Rentt à. Một mặt thì anh đã chết, nhưng mặt khác anh lại là Undead. Đã chết mà vẫn sống sờ sờ thế này chẳng phải là trạng thái sung mãn nhất của cái chết rồi sao...? Mà thôi, bắt bẻ chữ nghĩa thế đủ rồi. Đúng là anh có răng nanh thật. Không lẫn đi đâu được, đích thị là răng nanh của Ma Cà Rồng—ít nhất là tôi thấy vậy..."
+"Hừm. Tôi đoán anh nói cũng có lý, Rentt. Một mặt thì anh đã chết, nhưng mặt khác lại là Undead. Đang sống giữa cái chết chẳng phải là trạng thái sức khỏe tốt nhất rồi sao...? Nhưng thôi, bàn chuyện chữ nghĩa thế đủ rồi. Anh quả thực có răng nanh đấy. Không lẫn vào đâu được, đích thị là răng nanh của Ma Cà Rồng — ít nhất tôi nghĩ là vậy..."
 
-Lorraine đưa hai tay lên má tôi rồi bắt đầu thẳng tay nhào nặn—hết đẩy, kéo lại ấn—rõ ràng là đang cố vạch ra để nhìn cho rõ.
+Lorraine đưa hai tay lên má tôi, rồi nhanh chóng bắt đầu thẳng tay nhào nặn chúng — hết đẩy, kéo, lại ấn — rõ ràng là đang cố nhìn cho kỹ hơn.
 
-"Không lộ rõ như tôi tưởng nhỉ? Mà cũng phải... bình thường làm gì có cơ hội ngắm răng Ma Cà Rồng mỗi ngày đâu... Thú vị thật đấy. Nhưng chỉ thế này thì tôi vẫn chưa dám khẳng định anh là Ma Cà Rồng... Biết đâu răng anh chỉ nhọn hơn người thường một chút thì sao... Hừm..."
+"Không rõ rệt như tôi tưởng nhỉ? Chà... người ta cũng đâu có cơ hội quan sát răng Ma Cà Rồng hàng ngày đâu, phải không... Thú vị thật đấy. Tuy nhiên, tôi vẫn chưa thể tự tin khẳng định anh là Ma Cà Rồng được... Biết đâu anh chỉ có một hàm răng đặc biệt sắc nhọn thì sao... Hừm..."
 
-Cuối cùng cũng chịu buông tha cho đôi má tội nghiệp của tôi, Lorraine bước tới bên bàn, cầm lấy một lọ máu rồi quay trở lại.
+Cuối cùng cũng chịu buông tha cho đôi má chịu đủ khổ sở của tôi, Lorraine bước tới bàn, cầm lấy một lọ máu rồi quay lại.
 
 "Há to miệng ra nào, Rentt."
 
-Tôi ngoan ngoãn há miệng. Lorraine mở ngay nút lọ, lấy một que gỗ nhỏ chấm vào máu rồi đưa vào miệng tôi.
+Tôi ngoan ngoãn há miệng. Lorraine lập tức mở nắp lọ, nhúng một que gỗ nhỏ vào trong, rồi đưa chiếc que dính máu ấy vào miệng tôi.
 
-"Ồ. Hừm. Xem ra lúc anh nghĩ tới chuyện hút máu thì răng nanh mới dài ra. Thế thì nhận diện Ma Cà Rồng chẳng phải dễ ợt sao? Có điều làm sao mà bắt hết dân trong thị trấn xếp hàng há miệng ra để kiểm tra được... Nghĩ quẩn thật đấy."
+"Ồ. Hừm. Có vẻ như răng nanh của anh sẽ dài ra khi anh nghĩ đến chuyện hút máu. Thế thì việc nhận diện Ma Cà Rồng chẳng phải sẽ rất dễ dàng sao? Nhưng người ta đâu thể đơn giản bắt toàn bộ người dân trong thị trấn xếp hàng rồi há miệng ra để kiểm tra được... Tôi đoán đó là một ý nghĩ ngớ ngẩn."
 
-Xem chừng Lorraine đang lấy tôi làm mẫu để nghĩ cách kiểm tra và vạch mặt Ma Cà Rồng trà trộn trong dân cư Maalt. Nhưng đúng như cô nói, cách này có nói nhẹ đi nữa thì vẫn quá kỳ quặc, vì làm sao bắt toàn bộ người dân trong thị trấn ra thử cho được. Chưa kể Ma Cà Rồng thường sống tụ tập thành từng nhóm khăng khít. Dù có phát hiện ra một tên thì chắc chắn nó cũng sẽ đánh động cho cả bọn. Thông thường, mời một tư tế hay Thánh Nữ giỏi nhận diện quái vật tới để lần dấu và tiêu diệt chúng sẽ hiệu quả hơn nhiều. Cách của Lorraine có chăng chỉ dùng để kiểm tra bổ sung mà thôi.
+Xem ra Lorraine đang dùng tôi làm mẫu để nghĩ ra một bài kiểm tra phát hiện Ma Cà Rồng áp dụng lên người dân Maalt. Nhưng đúng như cô vừa phỏng đoán, phương pháp như vậy khá lắm thì cũng chỉ là kỳ quặc, bởi việc bắt toàn bộ người dân tham gia là điều bất khả thi. Hơn nữa, Ma Cà Rồng thường sống thành từng nhóm nhiều cá thể gắn kết chặt chẽ với nhau. Dù có phát hiện ra một tên thì chắc chắn nó cũng sẽ báo cho những tên còn lại. Phần lớn trường hợp, việc triệu tập một tư tế hoặc Thánh Nữ tinh thông việc nhận diện quái vật để họ dành thời gian truy tìm và tiêu diệt lũ quái vật đó đơn giản là hiệu quả hơn nhiều. Phương pháp của Lorraine có lẽ chỉ hữu ích khi dùng làm cách nhận diện bổ sung mà thôi.
 
-"Vậy thì, Rentt à. Tiếp theo cho tôi xem nửa trên khuôn mặt của anh nào... Dù sao thì Ma Cà Rồng cũng có đôi mắt đỏ mà."
+"Vậy thì, Rentt. Tiếp theo cho tôi xem nửa trên khuôn mặt anh nào... Dù sao thì Ma Cà Rồng cũng có đôi mắt màu đỏ mà."
 
-Tôi gật đầu, một lần nữa đổi hình dạng mặt nạ, để lộ nửa mặt trên giờ cũng đã có lại đầy đủ da thịt.
+Gật đầu, tôi lại thay đổi hình dạng chiếc mặt nạ lần nữa, lần này để lộ nửa trên của khuôn mặt xem chừng đã đầy đặn thịt da của mình.
 
-"A, phải rồi. Trông thân thuộc thật đấy... Ý tôi là gương mặt đó của anh kìa. Khác hẳn bộ dạng trước kia, lúc còn toàn những hốc sâu hoắm với mấy dải cơ thịt phơi cả ra ngoài. Đã có lúc trông anh chẳng còn chút nét người nào nữa..."
+"A, phải rồi. Thật hoài niệm làm sao... Ý tôi là khuôn mặt đó của anh đấy. Khác xa so với trước kia, với những cái lỗ rỗng tuếch cùng những thớ cơ và thịt lộ cả ra ngoài. Đã có lúc trông anh khác xa hình hài con người của mình..."
 
-Lorraine đưa tay chạm lên mặt tôi. Đôi bàn tay cô lúc này thật dịu dàng, khác hẳn lúc thẳng tay nhào nặn hai má tôi vừa nãy.
+Lorraine vươn tay chạm vào mặt tôi. Đôi bàn tay cô thật dịu dàng, chẳng giống lúc thẳng tay nhào nặn đôi má tôi cách đây ít phút.
 
-"Nhìn anh lúc này, tự nhiên tôi cảm thấy mình nên nói một câu trước mặt anh..."
+"Nhìn anh lúc này, tôi cảm thấy mình nên nói điều gì đó trực tiếp với gương mặt của anh..."
 
-Tôi nghiêng đầu nhìn Lorraine. "Chuyện gì thế?"
+Tôi nghiêng đầu nhìn Lorraine. "Là gì thế?"
 
-"Còn có thể là chuyện gì khác được chứ?"
+"Còn có thể là gì khác được nữa chứ?"
 
-"Mừng anh trở về, Rentt Faina."
+Mừng anh trở về, Rentt Faina.
 
-Đó là những lời Lorraine đã thốt lên.
+Đó là những lời Lorraine đã nói.
 
-Tôi có cảm giác như một thứ gì đó vừa thực sự trở về với mình; phải chăng là cảm giác được làm người một lần nữa? Hay biết đâu... chỉ là tôi tự tưởng tượng ra mà thôi.
+Tôi có cảm giác như một thứ gì đó vừa thực sự quay trở lại với mình; phải chăng là cảm giác làm người được khôi phục lại? Hay có lẽ... chỉ là do tôi tự tưởng tượng ra mà thôi.
 
 ◆◇◆◇◆
 
 "Vậy thì... về những chi tiết cụ thể trong việc phân loại anh là Ma Cà Rồng..."
 
-Đang trò chuyện có phần xúc động mà thoắt cái đã quay ngoắt sang giọng điệu khoa học lạnh lùng thì đúng là phong cách của Lorraine rồi. Dù tôi biết điều cô sắp nói đây cũng quan trọng chẳng kém.
+Đang từ một cuộc trò chuyện có phần xúc động mà nhảy vọt ngay sang đối thoại khoa học lạnh lùng thì đúng là phong cách của Lorraine. Dù tôi đoán những gì cô sắp nói cũng quan trọng không kém.
 
-"Vậy... rốt cuộc thì cô nghĩ sao?"
+"Vậy... rốt cuộc cô nghĩ thế nào?"
 
-"Ừm... nếu phải đoán thì anh đã tiến hóa thành một dạng Hạ Cấp Ma Cà Rồng nào đó. Có lẽ là một biến thể. Chắc chắn là trên Thi Quỷ một bậc và thuộc nhánh Ma Cà Rồng. Có điều rốt cuộc tôi vẫn không xếp anh vào một phân loại cụ thể nào được. Mắt anh màu đỏ, răng nanh lại phản ứng khi thấy máu... Xét những điểm đó thì đúng là Ma Cà Rồng rồi, nhưng ngoài ra tôi chẳng dám chắc thêm điều gì nữa."
+"Chà... nếu phải đoán thì anh đã tiến hóa thành một dạng Hạ Cấp Ma Cà Rồng nào đó. Có lẽ là một biến thể. Chắc chắn là đứng trên Thi Quỷ một bậc, và thuộc nhánh Ma Cà Rồng. Tuy nhiên, rốt cuộc tôi vẫn không tìm ra được một phân loại chắc chắn nào. Mắt anh màu đỏ, anh có răng nanh phản ứng trước sự hiện diện của máu... Xét tất cả những điều đó, anh quả thực là một Ma Cà Rồng, nhưng tôi không thể dám chắc thêm điều gì khác nữa."
 
-Một câu trả lời mơ hồ hiếm thấy so với tính cách thường ngày của cô.
+Một câu trả lời mơ hồ khác thường so với tính cách mọi khi của cô.
 
-Chắc vẻ mặt tôi đã lộ rõ sự chưa thỏa mãn, vì Lorraine liền nhíu mày, cộc lốc giải thích tiếp.
+Có lẽ sự bất mãn đã hiện rõ trên mặt tôi, bởi Lorraine liền chau mày đáp lại, rồi cộc lốc tiếp tục giải thích.
 
-"Anh còn muốn tôi làm thế nào nữa đây, Rentt? Tôi chưa từng nghe nói về bất kỳ loại Ma Cà Rồng nào có cánh cả. Anh kỳ vọng quá nhiều vào một học giả nơi thị trấn biên ải hẻo lánh như tôi rồi đấy. Vả lại... anh cũng quá khác biệt so với phần lớn quái vật. Cơ thể anh rất đặc biệt, và anh... chẳng giống ai. Đã độc nhất vô nhị như thế thì làm sao xếp vừa vào mấy bảng phân loại có sẵn hay những biến thể, phân loài từng được ghi nhận được. Nhận định như vậy mới là chuẩn xác nhất. Cùng lắm thì tôi chỉ có thể nói anh gần giống một dạng Hạ Cấp Ma Cà Rồng nào đó, nhưng nói đi nói lại, xét một cách khách quan thì tôi cũng chỉ kết luận được đến thế thôi."
+"Anh còn muốn tôi phải làm sao nữa đây, Rentt? Tôi chưa từng nghe nói đến bất kỳ loài Ma Cà Rồng nào có cánh cả. Anh kỳ vọng quá nhiều vào một học giả ở thị trấn vùng quê biên giới như tôi rồi đấy. Hơn nữa... anh khác xa so với hầu hết các loài quái vật. Cơ thể anh rất đặc biệt, và anh... rất khác biệt. Do bản chất độc nhất vô nhị của mình, anh sẽ chẳng khớp với bất kỳ phân loại có sẵn hay biến thể, phân loài nào từng được ghi nhận. Đó sẽ là nhận định chính xác nhất. Cùng lắm tôi chỉ có thể nói anh là một sinh vật gần giống một dạng Hạ Cấp Ma Cà Rồng nào đó, nhưng nhắc lại lần nữa, khách quan mà nói thì tôi chỉ có thể khẳng định được đến thế thôi."
 
-"Cô nói thế thì chẳng phải khỏi bàn tiếp luôn rồi sao, Lorraine?"
+"Nếu cô đã nói theo kiểu đó, chẳng phải cuộc thảo luận sẽ kết thúc ngay tại đây sao, Lorraine?"
 
-"Chính xác. Đó là lý do ban đầu tôi định chẳng nói gì cả đấy, Rentt à."
+"Chính xác. Đó là lý do ngay từ đầu tôi vốn định chẳng nói gì cả đấy, Rentt."
 
-Lorraine hơi bực mình; có lẽ cô mong đợi tôi không nói gì nếu bản thân tôi cũng đã đi tới kết luận tương tự. Xem ra tôi đã hơi chậm hiểu rồi...
+Lorraine có vẻ hơi bực mình; có lẽ cô mong tôi sẽ không hỏi han gì nếu bản thân tôi cũng đã tự đi đến một kết luận tương tự. Xem ra tôi hơi chậm hiểu rồi...
 
 "Tôi xin lỗi."
 
-"Anh hiểu ra là tốt rồi. Đùa thế thôi chứ lần này anh đã tiến hóa tương đối thuận lợi, chẳng phải sao? Ít nhất thì chẳng có lý do gì để nghi ngờ việc anh đang không ngừng tiến hóa và mạnh lên. Dù vậy tôi vẫn băn khoăn... Rốt cuộc sau cùng anh sẽ biến thành thứ gì đây, Rentt? Chắc là thứ mà tôi có nằm mơ cũng không mường tượng nổi đâu. Sở hữu một đôi cánh kỳ dị vượt ngoài mọi phân loại trong khi anh chỉ đơn giản là một biến thể của Hạ Cấp Ma Cà Rồng... Tiếp theo anh định mọc sừng, hai mươi cánh tay, và có khi là năm mươi con mắt đấy hả? Cho dù anh có làm thế thật, tôi cũng khó mà thấy ngạc nhiên được nữa."
+"Anh hiểu là được rồi. Đùa thế thôi, chứ chẳng phải anh đã tiến hóa khá suôn sẻ sao? Ít nhất thì chẳng có lý do gì để nghi ngờ việc anh đang không ngừng tiến hóa và hoàn thiện bản thân cả. Dù vậy, tôi thực sự tự hỏi... Rốt cuộc sau cùng anh sẽ trở thành thứ gì đây, Rentt? Chắc là một thứ tôi chẳng bao giờ tưởng tượng nổi đâu. Mang một đôi cánh kỳ lạ vượt ngoài mọi sự phân loại khi mới chỉ là một biến thể của Hạ Cấp Ma Cà Rồng... Tiếp theo anh định mọc sừng, hai mươi cánh tay, và có khi là năm mươi con mắt nữa chăng? Cho dù anh có biến thành như thế thật, tôi cũng chẳng lấy làm ngạc nhiên đâu."
 
-"Tôi cầu mong mình sẽ không biến thành bất cứ thứ quái quỷ gì tương tự như thế..."
+"Tôi cầu mong mình sẽ không biến thành bất cứ thứ gì giống như thế..."
 
-Lời cô nói làm trong đầu tôi hiện lên hình ảnh méo mó về một con quái vật điên loạn đúng như miêu tả ấy.
+Những lời của cô làm dấy lên trong đầu tôi hình ảnh méo mó về một con quái vật điên rồ khớp với miêu tả ấy.
 
-Dẫu vậy lời Lorraine nói cũng có lý, bởi chưa từng có tiền lệ nào dám chắc rằng tôi sẽ không biến thành một sinh vật dị hợm, phi nhân tính. Nếu được, tôi chỉ mong cứ giữ nguyên bộ dạng hiện tại mà thôi—và suốt thời gian còn lại của ngày hôm đó, đầu óc tôi cứ luẩn quẩn mãi quanh chuyện ấy.
+Tuy nhiên, lời Lorraine nói hoàn toàn có cơ sở, bởi chẳng có tiền lệ nào đảm bảo rằng tôi sẽ không biến thành một sinh vật kỳ dị, phi nhân tính. Nếu có thể, tôi chỉ muốn giữ nguyên như hiện tại mà thôi — và suốt phần còn lại của ngày hôm đó, tâm trí tôi cứ quanh quẩn mãi với đúng chủ đề ấy.
 
 ![](images/ch073-01.webp)
