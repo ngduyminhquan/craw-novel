@@ -30,7 +30,7 @@ Tôi khá chắc rằng "rèn luyện cơ thể" là cách nói giảm đi cả 
 
 ![](images/ch246-01.webp)
 
-"Thôi tôi xin kiễng," tôi nói. "Tôi không thể đi bêu rếu với bàn dân thiên hạ rằng mình thua một ông lão được."
+"Thôi tôi xin kiếu," tôi nói. "Tôi không thể đi bêu rếu với bàn dân thiên hạ rằng mình thua một ông lão được."
 
 "Ta cho rằng thế cũng tốt. Giờ thì, thằng nhóc đằng kia đã hồi phục chưa? Ta muốn tiếp tục dở dang đây, nếu hai ngươi không phiền."
 
@@ -140,7 +140,7 @@ Tôi quay người lại và nhận ra tiếng gọi đó phát ra từ Lorraine
 
 "Như cô thấy đấy," Augurey đáp, không ngoái lại nhìn cô. Trong lúc tôi quay người lại thì anh vẫn dán chặt mắt quan sát ông lão. Không hẳn là vì anh nhanh nhạy, mà đúng hơn là do chúng tôi đã quen biết nhau quá lâu đến mức theo bản năng đã biết cách phối hợp ăn ý như một đội—một điều khiến tôi vô cùng cảm kích.
 
-"Ra là ả ma pháp sư cũng đã tới," ông lão nói khi nhìn thấy Lorraine. "Các ngươi chắc là con bé đó ở một mình vẫn ổn chứ? Ta cũng có đồng bọn của riêng mình đấy nhé, và ta không chỉ nói về đứa đã bị các ngươi bắt đâu."
+"Ra là ả ma pháp sư cũng đã tới," ông lão nói khi nhìn thấy Lorraine. "Các ngươi chắc là con bé đó ở một mình vẫn ổn chứ? Ta cũng có đồng nghiệp của riêng mình đấy nhé, và ta không chỉ nói về đứa đã bị các ngươi bắt đâu."
 
 Ông ta rõ ràng nói vậy để làm phân tâm chúng tôi, nhưng chúng tôi cũng không dám chắc liệu ông ta có đang nói dối hay không. Dẫu vậy, câu trả lời của Lorraine lại vô cùng lạnh lùng và mang tính khiêu khích.
 
@@ -148,25 +148,25 @@ Tôi quay người lại và nhận ra tiếng gọi đó phát ra từ Lorraine
 
 Tôi có thể nghe ra từ giọng nói của cô rằng cô vốn chẳng đành lòng để Ferrici lại phía sau. Giọng cô nghe có phần bực bội, một điều hiếm thấy ở cô. Dù vậy, ông lão lại không nhận ra điều đó.
 
-"Hừ. Ta đoán chừng điều đó không đủ để làm lung lạc các ngươi nhỉ? Thực lực của các ngươi vượt xa những gì chúng ta dự tính. Chẳng trách hai đứa đồng bọn của ta lại không phải đối thủ của các ngươi. Giá mà tin tức của bọn ta chính xác hơn một chút!"
+"Hừ. Ta đoán chừng điều đó không đủ để làm lung lạc các ngươi nhỉ? Thực lực của các ngươi vượt xa những gì bọn ta dự tính. Chẳng trách hai đứa đồng nghiệp của ta lại không phải đối thủ của các ngươi. Giá mà tin tức của bọn ta chính xác hơn một chút!"
 
-"Hai đồng bọn của ông?" tôi hỏi lại. Lúc này giả ngây giả ngô cũng chẳng ích gì nhiều, nhưng tôi nghĩ thử một chút cũng chẳng mất gì.
+"Hai đồng nghiệp của ông?" tôi hỏi lại. Lúc này giả ngây giả ngô cũng chẳng ích gì nhiều, nhưng tôi nghĩ thử một chút cũng chẳng mất gì.
 
-Ông lão nhăn mũi. "Ngươi có thể thôi diễn kịch được rồi đấy... nhưng mà thôi, ta sẽ hùa theo vậy. Một đứa đồng bọn của ta vốn là một cựu binh nhưng về khoản thực lực thì chẳng có gì đáng để bàn tới. Hắn nhận ra cuộc sống thương nhân phù hợp với mình hơn, nên đây vốn định là phi vụ cuối cùng của hắn. Còn về đứa đồng bọn kia của ta, dẫu ả sở hữu một dị năng tương đối hiếm gặp, nhưng lại thiếu kinh nghiệm, khiến ả kiêu ngạo quá mức cần thiết. Ta vốn định xem đây là một phi vụ khó nhằn dành cho ả, để gọt giũa bớt tính tự kiêu và giúp ả trưởng thành hơn."
+Ông lão nhăn mũi. "Ngươi có thể thôi diễn kịch được rồi đấy... nhưng mà thôi, ta sẽ hùa theo vậy. Một đứa đồng nghiệp của ta vốn là một cựu binh nhưng về khoản thực lực thì chẳng có gì đáng để bàn tới. Hắn nhận ra cuộc sống thương nhân phù hợp với mình hơn, nên đây vốn định là phi vụ cuối cùng của hắn. Còn về đứa đồng nghiệp kia của ta, dẫu ả sở hữu một dị năng tương đối hiếm gặp, nhưng lại thiếu kinh nghiệm, khiến ả kiêu ngạo quá mức cần thiết. Ta vốn định xem đây là một phi vụ khó nhằn dành cho ả, để gọt giũa bớt tính tự kiêu và giúp ả trưởng thành hơn."
 
 Tôi tự hỏi liệu có phải ông lão đã hoàn toàn từ bỏ lớp vỏ bọc của mình hay không, nhưng tôi nhận ra có lẽ không phải vậy. Hẳn ông ta chỉ quyết định rằng chẳng còn lý do gì để duy trì nó nữa. Hơn nữa, mục tiêu của ông ta là giết sạch chúng tôi, và như người ta vẫn thường nói, người chết thì không biết nói. Ngoại trừ tôi, nhưng tôi là một trường hợp đặc biệt.
 
-Ông lão nói tiếp. "Đáng tiếc là chẳng đứa nào làm nên trò trống gì cả. Dẫu vậy, điều đó cũng chẳng có gì đáng ngạc nhiên, khi mà tin tức truyền xuống cho chúng ta lại đầy rẫy sơ hở."
+Ông lão nói tiếp. "Đáng tiếc là chẳng đứa nào làm nên trò trống gì cả. Dẫu vậy, điều đó cũng chẳng có gì đáng ngạc nhiên, khi mà tin tức truyền xuống cho bọn ta lại đầy rẫy sơ hở."
 
 "Truyền xuống cho các ông?" tôi hỏi, ngắt lời ông ta. Tôi đã không thể kiềm chế được bản thân—tôi khao khát muốn biết cấp trên của ông ta là ai đến nhường ấy. Ông lão liếc nhìn tôi nhưng không trả lời.
 
 Xem chừng ngay cả người chết cũng có những chuyện không cần phải biết. Tôi chẳng trách ông ta; trên đời không có gì là tuyệt đối cả. Hẳn ông ta sẽ gặp rắc rối to nếu lộ hết mọi bí mật rồi chúng tôi lại xoay xở trốn thoát được. Ông ta thận trọng là đúng, nhất là khi ông ta không biết tôi tự tin đến mức nào vào khả năng tẩu thoát của mình.
 
-Tôi ngờ rằng khó có ai có thể cầm chân được tôi một khi tôi sử dụng Phân Liệt. Dù vậy, tôi không thể khẳng định là hoàn toàn không có, khi mà những nhân vật như Nive vẫn tồn tại. Mạo hiểm giả là một nghề đầy rẫy những con quái vật, mà Nive mới chỉ đứng trên đỉnh của Kim Cấp. Đối phó với Phân Liệt có lẽ là chuyện dễ như trở bàn tay đối với các mạo hiểm giả Bạch Kim Cấp và Mithril Cấp.
+Tôi cho rằng khó có ai có thể cầm chân được tôi một khi tôi sử dụng Phân Liệt. Dù vậy, tôi không thể khẳng định là hoàn toàn không có, khi mà những nhân vật như Nive vẫn tồn tại. Mạo hiểm giả là một nghề đầy rẫy những con quái vật, mà Nive mới chỉ đứng trên đỉnh của Kim Cấp. Đối phó với Phân Liệt có lẽ là chuyện dễ như trở bàn tay đối với các mạo hiểm giả Bạch Kim Cấp và Mithril Cấp.
 
 Nếu phải đoán, tôi cho rằng thực lực của ông lão đủ để xếp ông ta vào khoảng Kim Cấp—hoặc thậm chí có thể cao hơn. Đó không phải kiểu người mà người ta có thể tình cờ đụng độ trên đường đi, nhưng mà, chúng tôi lại đang đối mặt với một kẻ như thế ở đây.
 
-Ông lão tiếp tục nói. "Tin tức truyền xuống cho bọn ta nói rằng mục tiêu là hai kẻ Ngân Cấp bình thường cùng một tên Đồng Cấp thậm chí còn chẳng đáng nhắc tới. Nhưng đổi lại, thứ chúng ta phải đối mặt lại là ba đứa các ngươi. Một con quái vật có thể hứng chịu một đòn của ta mà trông vẫn chẳng hề hấn gì, một chiến binh lão luyện có thể dắt mũi ta chạy vòng vòng suốt một hồi lâu, và một ma pháp sư có thể thi triển ma pháp Khiên Chắn tức thời đủ mạnh để chặn đứng cánh tay ta mà thậm chí không cần ngâm xướng. Nếu biết ngay từ đầu ba đứa các ngươi là mục tiêu, ta đã chuẩn bị kỹ càng hơn nhiều rồi. Khoản thù lao ta nhận được thực sự chẳng bõ công chút nào..."
+Ông lão tiếp tục nói. "Tin tức truyền xuống cho bọn ta nói rằng mục tiêu là hai kẻ Ngân Cấp bình thường cùng một tên Đồng Cấp thậm chí còn chẳng đáng nhắc tới. Nhưng đổi lại, thứ bọn ta phải đối mặt lại là ba đứa các ngươi. Một con quái vật có thể hứng chịu một đòn của ta mà trông vẫn chẳng hề hấn gì, một chiến binh lão luyện có thể dắt mũi ta chạy vòng vòng suốt một hồi lâu, và một ma pháp sư có thể thi triển ma pháp Khiên Chắn tức thời đủ mạnh để chặn đứng cánh tay ta mà thậm chí không cần ngâm xướng. Nếu biết ngay từ đầu ba đứa các ngươi là mục tiêu, ta đã chuẩn bị kỹ càng hơn nhiều rồi. Khoản thù lao ta nhận được thực sự chẳng bõ công chút nào..."
 
 "Vậy sao ông không chấp nhận chịu lỗ rồi quay về đi?" tôi hỏi. Tôi nghĩ thử một chút cũng đáng.
 
@@ -182,7 +182,7 @@ Xét theo tính chất công việc của ông ta, cụm từ "mất chén cơm"
 
 Ông lão bắt đầu gồng cứng toàn thân. Tôi không biết ông ta định làm gì, nhưng tôi biết chắc đó là một điềm chẳng lành.
 
-Dĩ nhiên cả ba chúng tôi đâu có tốt bụng tới mức đứng trơ mắt chờ đợi bất cứ thứ gì sắp ập tới. Augurey và tôi tuốt kiếm lao vụt về phía ông lão, trong khi Lorraine giương đũa phép lên và bắt đầu ngưng tụ Ma Lực của mình.
+Dĩ nhiên cả ba chúng tôi đâu có tốt bụng tới mức đứng trơ mắt chờ đợi bất cứ thứ gì sắp ập tới. Augurey và tôi tuốt kiếm lao vụt về phía ông lão, trong khi Lorraine giương đũa phép lên và bắt đầu ngưng tụ Ma Lực của mình. Thế nhưng...
 
 "Quá chậm!"
 

@@ -66,7 +66,7 @@ Nói đoạn, cô lập tức lao vút đi, chạy thẳng vào khu rừng.
 
 "Phải công nhận là tôi chẳng ngờ nổi chuyện này đấy!" Augurey nói với ông lão trước mặt. Lời nhận xét ấy chẳng có hàm ý sâu xa gì. Augurey chỉ đơn thuần là không lường trước được đối phương lại mạnh đến thế.
 
-Ông lão sở hữu một sức tấn công thuần túy phi thường đến dị thường. Augurey đã suýt soát kịp lấy bản kiếm ra chắn trước cánh tay khổng lồ hóa của ông lão trước khi nó ập trúng người, nhưng bản thân sức nặng của cú va chạm đã quá đỗi kinh hoàng. Nếu dính trọn đòn trực diện, ắt hẳn anh đã phải chịu thương tích nặng nề.
+Ông lão sở hữu một sức tấn công thuần túy phi thường đến dị thường. Augurey chỉ vừa kịp lấy bản kiếm ra chắn trước cánh tay khổng lồ hóa của ông lão trước khi nó ập trúng người, nhưng bản thân sức nặng của cú va chạm đã quá đỗi kinh hoàng. Nếu dính trọn đòn trực diện, ắt hẳn anh đã phải chịu thương tích nặng nề.
 
 Thực tế thì dẫu Augurey bằng cách nào đó đã kịp thời phòng ngự, việc bị hất văng đâm sầm xuyên qua những thân cây xung quanh cũng khiến lưng anh đầy rẫy vết cào xước và thương tích. Thân thể của một con người bình thường quả thực rất mong manh. Đáng lẽ ra anh nên né tránh đòn đánh đó, hoặc là cường hóa bản thân bằng Khí Lực và Ma Lực rồi va chạm trực diện với nó.
 
@@ -76,7 +76,7 @@ Augurey ngỡ rằng mình đã chọn phương án tốt thứ nhì khi lập t
 
 Augurey khựng lại một thoáng ngắn ngủi trước khi đáp: "Ông đang nói tới ai thế?"
 
-Ông lão mỉm cười trước màn giả ngây giả ngô của anh. "Nhìn phản ứng đó là biết tỏng bọn chúng bị lộ tẩy rồi. Ta không rõ làm sao các ngươi nhìn thấu được chúng, cơ mà chuyện đó cũng chẳng quan trọng. Cơ mà này, đừng có phạm sai lầm mà gom chung ta với bọn chúng. Vốn dĩ bọn nhóc đó còn chưa làm chủ được sức mạnh của mình đâu."
+Ông lão mỉm cười trước màn giả ngây giả ngô của anh. "Nhìn phản ứng đó là biết tỏng bọn chúng bị lộ tẩy rồi. Ta không rõ làm sao các ngươi nhìn thấu được chúng, nhưng chuyện đó cũng chẳng quan trọng. Cơ mà này, đừng có phạm sai lầm mà gom chung ta với bọn chúng. Vốn dĩ bọn nhóc đó còn chưa làm chủ được sức mạnh của mình đâu."
 
 Augurey cứ ngỡ mình đã diễn trò giả ngốc khá tròn vai, nhưng có lẽ tuổi tác đã giúp ông lão quá sành sỏi những mánh lới kiểu này; ông ta đã nhìn thấu màn kịch chỉ trong tích tắc. Dẫu vậy, xét theo tình thế hiện tại thì điều đó cũng chẳng có gì đáng ngạc nhiên. Chưa bàn tới Goblin, kế hoạch của Siren đã tan thành mây khói, bản thân ả cũng đã sa lưới. Không khó để hình dung điều đó đã khiến ông lão tin rằng mọi kẻ khác cũng đều đã bị bại lộ.
 
@@ -120,7 +120,7 @@ Có lẽ vị trí hiện tại cũng tác động phần nào tới điều đ�
 
 Nếu như trước đó trông tôi chẳng khác nào một cái xác nát bét, thì lúc này tôi đã trở lại bình thường. Làn da tôi nhợt nhạt và nhẵn mịn, xương cốt đều đã đâu vào đấy, nhưng điều đáng sợ là chiếc áo choàng của tôi thậm chí còn chẳng hề lấm bẩn. Hẳn là nó đã cứu tôi khỏi những thương tích còn tồi tệ hơn thế.
 
-Dẫu vậy, dù vẻ ngoài trông như mới, tôi không hề thoát nạn mà lành lặn hoàn toàn. Đúng như những gì Nive từng bảo với tôi trước đây, Phân Liệt chỉ chữa lành trạng thái thể chất mà thôi. Nếu phải hứng chịu quá nhiều tổn thương trong một khoảng thời gian ngắn, bản thể tồn tại của bạn sẽ bị bào mòn loãng dần, cuối cùng khiến bạn tan biến vào cõi hư vô. Tuy nhiên, cũng giống như việc xương gãy rồi cũng sẽ liền lại, dạng tổn thương đó sẽ tự hồi phục theo thời gian. Tôi phải cẩn thận và tránh chịu quá nhiều thương tích nghiêm trọng trong một thời gian quá ngắn, nhưng ầy, chuyện đó vốn là lẽ thường tình rồi.
+Dẫu vậy, dù vẻ ngoài trông như mới, tôi không hề thoát nạn mà lành lặn hoàn toàn. Đúng như những gì Nive từng bảo với tôi trước đây, Phân Liệt chỉ chữa lành trạng thái thể chất mà thôi. Nếu phải hứng chịu quá nhiều tổn thương trong một khoảng thời gian ngắn, bản thể tồn tại sẽ bị bào mòn loãng dần, cuối cùng khiến bản thân tan biến vào cõi hư vô. Tuy nhiên, cũng giống như việc xương gãy rồi cũng sẽ liền lại, dạng tổn thương đó sẽ tự hồi phục theo thời gian. Tôi phải cẩn thận và tránh chịu quá nhiều thương tích nghiêm trọng trong một thời gian quá ngắn, nhưng ầy, chuyện đó vốn là lẽ thường tình rồi.
 
 Ưu điểm của năng lực này là tôi có thể hứng chịu những đòn trừng phạt khủng khiếp rồi tiếp tục chiến đấu như thể chưa có chuyện gì xảy ra, nhưng nhược điểm đi kèm là tôi không tài nào biết được mình có thể chịu đựng đến mức độ nào trước khi thực sự bỏ mạng hoàn toàn. Nói tóm lại, Phân Liệt tiềm ẩn rủi ro rất lớn. Tôi sẽ phải cực kỳ cẩn trọng khi sử dụng nó. Có lẽ đây thậm chí còn là một yếu tố giải thích vì sao những Ma Cà Rồng lớn tuổi hơn như Isaac và Laura lại sở hữu phong thái điềm tĩnh đến mức xa cách dửng dưng như thế. Tạm gác chuyện đó sang một bên...
 
