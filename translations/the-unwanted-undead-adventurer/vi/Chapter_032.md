@@ -1,167 +1,167 @@
 # Chương 32: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (3)
 
-"...Khặc! A-Anh..." là thanh âm chào đón tôi khi tôi vừa bước chân vào nơi ở của Lorraine. Lorraine, người vốn đang nhấp trà trước khi tôi bước vào, có vẻ kinh ngạc đến mức phun sạch chỗ trà ra ngoài, khiến làn nước trà lơ lửng giữa không trung như một màn sương mỏng. Nhìn kỹ hơn, cô dường như đang còng lưng trên một tập tài liệu—những tài liệu mang tên đăng ký của tôi ở hội. Cụ thể là cái tên "Rentt Vivie".
+Vừa bước chân vào nhà Lorraine, đập vào tai tôi đã là tiếng sặc sụa: "...Khặc! A-Anh..." Chẳng là trước lúc tôi vào cửa, cô đang nhấp ngụm trà, không ngờ giật mình đến mức phun toè cả ra, bọt trà còn lơ lửng trong không khí như một làn sương mỏng. Nhìn kỹ lại, cô đang cắm cúi xem mớ giấy tờ—chính là tài liệu ghi tên đăng ký của tôi ở hội. Cụ thể hơn là cái tên "Rentt Vivie".
 
-"Cô... Ổn chứ?" tôi hỏi, quỳ rạp người xuống với chiếc giẻ lau để dọn sạch vũng nước màu trà trên sàn. Dẫu vậy, Lorraine trông chẳng có vẻ gì là ổn cho lắm, khi cô đang ôm đầu bằng cả hai tay, vẻ mặt lộ rõ sự ngán ngẩm tột cùng.
+"Cô... Ổn chứ?" tôi vừa hỏi vừa bò ra sàn, cầm chiếc giẻ lau vũng nước trà đổ lênh láng. Trông Lorraine lúc này chẳng có vẻ gì là ổn cả; cô ôm đầu bằng cả hai tay, vẻ mặt bất lực không để đâu cho hết.
 
-"...Ở một góc độ nào đó thì tôi muốn nói là, không, tôi chắc chắn chẳng ổn chút nào. Thế nên mới dẫn tới chuyện này... Tại sao anh lại đăng ký bằng cái tên như vậy chứ? Anh không mảy may nghĩ rằng việc dùng họ của tôi sẽ kỳ quặc lắm sao, xét đến mối quan hệ giữa chúng ta bấy lâu nay?"
+"...Xét về mặt nào đó thì nói thẳng là không, tôi chẳng ổn chút nào cả. Thế nên tôi mới phải hỏi đây... Sao anh lại đi đăng ký bằng cái tên đó chứ? Có bao giờ anh nghĩ việc lấy họ của tôi sẽ kỳ quặc lắm không, xét theo mối quan hệ giữa hai đứa mình từ trước đến nay?"
 
-Đúng như Lorraine nói. Dù những lời cô nói đều có lý, song việc tôi ở đây nhìn chung vẫn còn những vấn đề khác, những vấn đề vốn đã nhen nhóm từ lâu kể từ lúc tôi bất ngờ xuất hiện và liên tục lui tới nơi ở của Lorraine sau đó. Việc tôi khăng khăng dùng cái tên "Rentt" quả thực khiến mọi chuyện thêm phần rắc rối; tôi hoàn toàn có thể dùng một cái tên khác, nhưng sự tình lại chẳng đơn giản như vậy.
+Đúng như lời Lorraine. Cô nói chẳng sai chút nào, nhưng sự tình vốn dĩ đã kéo theo bao nhiêu chuyện rắc rối kể từ cái lần tôi đột ngột tìm đến rồi sau đó cứ liên tục ra vào nhà cô. Việc tôi khăng khăng giữ cái tên "Rentt" quả thật chỉ làm mọi chuyện thêm phức tạp. Đành rằng tôi có thể đổi sang tên khác, nhưng ngặt nỗi sự đời đâu có đơn giản như vậy.
 
-Nếu dùng một cái tên khác, có lẽ tôi sẽ không bị nghi ngờ nhiều trong hoàn cảnh này. Tuy nhiên, tin đồn về một gã đàn ông kỳ lạ thường xuyên lui tới nhà của Lorraine sẽ sớm lan truyền, và tôi không hề muốn điều đó xảy ra. Dù sao thì Lorraine cũng là một phụ nữ đã đến tuổi cập kê. Chuyện như thế sẽ gây ảnh hưởng vô cùng tai hại đến danh tiếng của cô. Đây chính là lý do tôi chọn mang họ của cô và tự nhận mình là một người họ hàng xa.
+Nếu lấy một cái tên khác, có thể tôi sẽ đỡ bị nghi ngờ hơn trong chuyện này. Nhưng rồi thế nào cũng rộ lên tin đồn một gã đàn ông lạ mặt ngày nào cũng lui tới nhà Lorraine, mà tôi thì tuyệt đối không muốn điều đó xảy ra. Dù sao Lorraine cũng là phụ nữ chưa chồng, tai tiếng như thế sẽ ảnh hưởng rất xấu đến danh dự của cô. Chính vì thế tôi mới quyết định lấy họ của cô rồi nhận mình là họ hàng xa.
 
-Cân nhắc mọi điều đó, cộng thêm việc tên gọi của tôi vốn trùng với tên của một vị Thánh Giả trong lịch sử, việc kết hợp cả tên đó lẫn họ của Lorraine dường như chẳng có gì quá kỳ quặc. Trên thực tế, tôi đã quen với nó khá nhanh, và giờ đây tôi sử dụng nó thường xuyên.
+Cộng thêm việc tên tôi vốn trùng với tên một vị Thánh trong lịch sử, ghép tên đó với họ của Lorraine nghe cũng chẳng có gì quá kỳ cục. Thậm chí tôi còn quen miệng khá nhanh, giờ ngày nào cũng dùng.
 
-Khi tôi kết thúc lời giải thích, nét mặt của Lorraine dần giãn ra. Ánh nhìn hoài nghi trước đó của cô nhanh chóng tan biến, rốt cuộc được thay thế bằng vẻ thấu hiểu.
+Nghe tôi giải thích xong, nét mặt Lorraine dần dịu lại. Ánh mắt ngờ vực ban nãy biến mất, thay bằng vẻ hiểu ra sự tình.
 
-"...Họ hàng... Anh bảo là họ hàng sao... Hừm... Tôi cho là chuyện đó cũng có phần đáng tin đấy, ừm..."
+"...Họ hàng... Anh bảo là họ hàng à... Ừm... Thế thì nghe cũng xuôi tai đấy..."
 
 "Cô thấy... Đấy?"
 
-"...Chà, dẫu vậy. Anh đâu cần phải nhọc công bận tâm đến hoàn cảnh của tôi như thế chứ? Tôi thực sự chẳng bận lòng đâu."
+"...Mà dù thế đi nữa, anh cũng đâu cần phải nhọc lòng nghĩ cho tôi đến mức ấy chứ? Tôi có để bụng đâu."
 
-"Ngay từ đầu, việc tôi là một phụ nữ kiêm học giả ở chốn thôn quê hẻo lánh này đã mang lại cho tôi không ít điều tiếng rồi; chí ít thì người ta chắc chắn coi tôi là kẻ lập dị."
+"Vốn dĩ thân đàn bà con gái lại đi làm học giả ở cái chốn hẻo lánh này đã đủ để mang tiếng rồi; chí ít thì ai cũng coi tôi như kẻ lập dị cả."
 
-Đúng như lời Lorraine nói, một nữ học giả ở thị trấn biên ải Maalt xa xôi hẻo lánh quả thực là một điều kỳ lạ tại Vương Quốc Yaaran.
+Đúng như Lorraine nói, ở Vương Quốc Yaaran này, một nữ học giả cắm chốt tại thị trấn biên ải Maalt xa xôi hẻo lánh quả là chuyện hiếm thấy.
 
-Tuy nhiên, không có luật lệ nào cấm đoán Lorraine làm những gì cô đã làm suốt thời gian qua. Dù tồn tại một số ý kiến trái chiều cùng những điều tương tự, các lời dị nghị lại không tập trung vào giới tính hay nghề nghiệp của cô, mà phần nhiều là về tính chất đòi hỏi thể lực nặng nề khi hoạt động tại một thị trấn biên giới. Dù sao thì nhiều quái vật cũng rảo bước trên những vùng đất này, thế nên việc một học giả chạm trán với quái vật nhiều hơn hầu hết các ngành nghề khác gần như là một mối nguy khó tránh trong công việc.
+Dẫu vậy, luật pháp chẳng hề cấm đoán những việc Lorraine làm bấy lâu nay. Dù vẫn có người này người kia bàn tán, nhưng họ không dị nghị chuyện giới tính hay nghề nghiệp của cô, mà chủ yếu ái ngại việc cô bám trụ ở một thị trấn vùng biên đòi hỏi quá nhiều thể lực. Bởi lẽ quái vật lởn vởn khắp nơi quanh đây, chuyện một học giả đụng độ quái vật nhiều hơn hầu hết các nghề khác gần như là tai nạn nghề nghiệp khó tránh.
 
-Vì mục đích nghiên cứu, nhiều học giả đã bôn ba khắp chốn; tôi cho rằng người ta chẳng còn lựa chọn nào khác ngoài việc chu du sau khi rời khỏi một học viện quy mô lớn. Do đó, hầu hết các học giả trong lĩnh vực nghiên cứu của cô thường là nam giới có thể chất tốt hơn—ít nhất thì đó là cách nhìn nhận của phần lớn mọi người.
+Vì mục đích nghiên cứu, nhiều học giả phải bôn ba khắp chốn; tôi đoán một khi đã rời các viện học thuật quy mô lớn thì người ta chẳng còn cách nào khác ngoài chu du đây đó. Thành thử, phần lớn học giả theo đuổi mảng nghiên cứu như cô thường là nam giới có thể lực vượt trội—chí ít thì thiên hạ vẫn thường nhìn nhận như vậy.
 
-Dĩ nhiên, những định kiến chung như vậy không thực sự đúng với một mạo hiểm giả Ngân Cấp như Lorraine, nhưng miệng lưỡi thế gian thì lúc nào cũng có định kiến riêng của họ.
+Dĩ nhiên, cái nhìn chung đó chẳng đúng chút nào với một mạo hiểm giả Ngân Cấp như Lorraine, song miệng lưỡi thế gian thì bao giờ cũng sẵn định kiến.
 
-Dù vậy, gần đây số lượng nữ học giả đã gia tăng đáng kể, dẫu cho chỉ trong những lĩnh vực nghiên cứu không đòi hỏi quá nhiều công việc điền dã thực địa. Song trong trường hợp của Lorraine, việc nghiên cứu quái vật và ma thuật thường đồng nghĩa với việc cô không còn lựa chọn nào khác ngoài tự mình dấn thân vào các chuyến hành trình thám hiểm. Đó là bản chất công việc của cô. Tôi cho rằng người ta có thể nói điều đó gắn liền với cái nghề này.
+Dù vậy, gần đây số lượng nữ học giả cũng tăng lên đáng kể, dẫu chỉ gói gọn trong những ngành không đòi hỏi phải khảo sát thực địa quá nhiều. Nhưng với Lorraine, việc nghiên cứu quái vật và ma thuật buộc cô phải đích thân dấn thân vào những chuyến thám hiểm. Bản chất công việc của cô vốn là thế, coi như đặc thù nghề nghiệp vậy.
 
-Nhưng dẫu nói vậy, Lorraine chưa bao giờ là kiểu người bận tâm đến những tiểu tiết như thế. Đó chính là lý do cô vẫn tiếp tục theo đuổi những gì mình đam mê.
+Dù vậy, Lorraine chưa từng bận lòng trước những chuyện vụn vặt đó. Chính vì thế cô mới có thể tiếp tục làm những điều mình đam mê.
 
-Dù Lorraine hoàn toàn có thể dễ dàng né tránh những lời đàm tiếu và phán xét của những kẻ hẹp hòi nếu cô tự giới thiệu mình là một mạo hiểm giả trước tiên, nhưng việc cô vẫn kiên quyết khẳng định mình là một học giả trước hết đã cho thấy cô tận tụy với công việc nghiên cứu của mình đến nhường nào. Dù sao thì mạo hiểm giả được đánh giá dựa trên năng lực; giới tính hầu như chẳng phải là điều đáng bận tâm.
+Giá như Lorraine nhận mình là mạo hiểm giả trước, cô đã dễ dàng tránh được những lời đàm tiếu cùng định kiến hẹp hòi của thiên hạ. Việc cô vẫn khăng khăng coi mình là học giả trước tiên cho thấy cô say mê nghiên cứu đến mức nào. Suy cho cùng, mạo hiểm giả chỉ đánh giá nhau qua thực lực, giới tính chẳng phải vấn đề gì to tát.
 
-Tuy không thiếu những mạo hiểm giả bới lông tìm vết với Lorraine chỉ vì cô là phụ nữ, nhưng hành vi của họ có lẽ chỉ phản ánh tư cách của chính họ mà thôi.
+Dù không thiếu mạo hiểm giả thích bắt bẻ Lorraine chỉ vì cô là phụ nữ, song cách cư xử đó chỉ bộc lộ bản tính hẹp hòi của chính họ.
 
-Tất cả những điểm đó khiến nghề mạo hiểm giả trở thành một công việc cởi mở hơn với phụ nữ so với làm học giả; thực trạng ở vùng đất này vốn là như thế.
+Chính những điều đó khiến nghề mạo hiểm giả trở nên dễ thở hơn với phụ nữ so với con đường học thuật; tình cảnh ở vùng đất này vốn là vậy.
 
-Dẫu vậy trong thực tế, Lorraine được rất nhiều người ở hội tin tưởng, và các danh hiệu của cô hoàn toàn không phải chỉ để trưng cho đẹp.
+Ở hội, nhiều người rất mực tin tưởng Lorraine, và những danh hiệu cô mang cũng chẳng phải chỉ để làm cảnh.
 
-"Tôi không thể... Cứ thế. Làm phiền mãi được. Tôi vốn đã... Gây cho cô không ít... Rắc rối rồi, Lorraine. Tôi không muốn... Trở thành... Gánh nặng thêm nữa."
+"Tôi không thể... Cứ thế. Làm phiền cô mãi được. Vốn dĩ tôi đã... Gây cho cô không ít... Rắc rối rồi, Lorraine. Tôi không muốn... Trở thành... Gánh nặng thêm nữa đâu."
 
-"Rồi, rồi. Đúng là phong cách nói chuyện của anh. Anh không cần phải lo lắng thái quá về những chuyện như thế đâu. Trước hết, tôi mắc nợ anh theo nhiều cách lắm đấy. Chẳng phải anh vẫn nấu ăn và dọn dẹp sao? Anh làm tất cả những việc đó và còn nhiều hơn thế nữa, đúng không? Nói đúng hơn thì, giờ chúng ta phải ngang hàng nhau mới đúng—chà, tôi cho là mình vẫn mang ơn anh, xét đến tất cả những gì anh đã làm cho tôi trong quá khứ..." Lorraine mỉm cười nói.
+"Biết rồi, biết rồi. Tính anh lúc nào cũng thế. Anh cứ nghĩ ngợi nhiều làm gì. Nói cho cùng, tôi chịu ơn anh nhiều bề lắm chứ. Chẳng phải anh vẫn cơm nước dọn dẹp đó sao? Bao nhiêu việc anh lo hết cả rồi còn gì? Tính ra bây giờ hai đứa mình huề nhau mới phải—mà thôi, xét những gì anh làm cho tôi từ trước đến nay thì chắc tôi vẫn còn nợ anh nhiều lắm..." Lorraine mỉm cười nói.
 
-Tôi thấy những lời ấy thật ấm lòng; quả thực, đó là những lời tử tế dành cho một kẻ như tôi. Nhưng hiện thực lại hoàn toàn khác; nói đúng hơn thì, tôi mới chính là người mang ơn Lorraine.
+Những lời ấy nghe thật ấm lòng, quả là tử tế quá mức với một kẻ như tôi. Nhưng sự thật đâu có thế; tính ra thì tôi mới là người mang ơn Lorraine.
 
-Trong hoàn cảnh bình thường, người ta khó lòng biện minh cho việc xuất hiện tại nhà một người bạn dưới bộ dạng một xác sống biết đi rồi đường hoàng sống cùng họ chỉ vì từng giúp người bạn đó làm vài việc vặt. Bên cạnh đó còn là nguy cơ thường trực về những diễn biến nguy hiểm tiềm tàng, khi nhớ lại chuyện tôi từng cắn một miếng thịt từ vai Lorraine rồi nuốt chửng. Chẳng có cách nào khác để miêu tả hành vi của tôi khi đó cả.
+Bình thường làm gì có ai mặt dày vác bộ dạng xác sống đến nhà bạn mình rồi ung dung ở lại chỉ vì trước đây từng giúp người ta làm dăm ba việc vặt. Đó là còn chưa kể mối nguy hiểm luôn rình rập, khi mà chính tôi từng cắn đứt một miếng thịt trên vai Lorraine rồi nuốt chửng. Dù có nói giảm nói tránh thế nào thì chuyện tôi làm cũng rành rành ra đấy.
 
-Trong hoàn cảnh bình thường, người ta sẽ khiếp sợ tôi—chí ít thì họ cũng chẳng đời nào chịu ở cự ly gần với tôi. Dẫu vậy, Lorraine vẫn tiếp tục giao tiếp với tôi một cách bình thường, đối đãi với tôi như một con người bình thường và cho phép tôi sống trong nhà cô.
+Phải người khác thì chắc đã khiếp vía trước tôi rồi—chí ít cũng chẳng đời nào dám lại gần. Vậy mà Lorraine vẫn trò chuyện với tôi như thường, đối đãi với tôi như một người bình thường và cho tôi tá túc trong nhà cô.
 
-Tôi thực sự biết ơn từ tận đáy lòng. Và đó là lý do tôi cất lời:
+Tôi thật lòng biết ơn cô sâu sắc. Chính vì vậy tôi mới lên tiếng:
 
-"Điều đó... Không... Đúng đâu. Tôi chỉ có thể... Giữ được nhân tính lúc này... Là nhờ sự giúp đỡ của cô, Lorraine..."
+"Đâu... Có... Phải vậy. Lúc này tôi còn... Được làm một con người... Đều nhờ cô giúp cả, Lorraine..."
 
-"Rentt này... Chà, nếu chỉ có bấy nhiêu thôi thì tôi sẽ vui vẻ chấp nhận hiện tại. Nếu những diễn biến mới nhất là đáng tin, thì chẳng phải anh là họ hàng của tôi sao? Giữa những người trong gia đình và thân thích thì đâu cần đến mấy thủ tục khách sáo đó chứ."
+"Rentt này... Chà, nếu chỉ có thế thì tôi cứ vô tư nhận vậy nhé. Cứ theo như chuyện mới nhất thì chẳng phải anh là họ hàng của tôi sao? Người một nhà với nhau thì câu nệ khách sáo làm gì."
 
-Không ngờ Lorraine lại nhanh chóng tận dụng thân phận bịa đặt của tôi để biến thành lợi thế cho mình—quả là một người phụ nữ đáng nể, như mọi khi.
+Không ngờ Lorraine lại chộp ngay cái thân phận tôi vừa bịa ra để nói đỡ cho mình—lúc nào cô ấy cũng khiến người ta phải nể phục.
 
-"Vậy thì... Tôi cho là mình sẽ... Vui vẻ tiếp tục đón nhận... Sự giúp đỡ của cô," tôi vừa nói vừa gật đầu.
-
-◆◇◆◇◆
-
-Sau cuộc trò chuyện đó, Lorraine và tôi ngồi xuống và tôi báo cáo cho cô, kể chi tiết những thành quả của mình trong mê cung ngày hôm nay, cũng như suy nghĩ của tôi về năng lực của cơ thể Thi Quỷ mới. Bản Đồ Akasha cũng được đem ra thảo luận, đặc biệt là cảm nhận của tôi khi thực tế sử dụng nó. Đáng tiếc là cuộc trò chuyện của chúng tôi về những chủ đề đó không hé lộ thêm điều gì mới mẻ, và tôi chuyển sang bàn luận về tiến độ hiện tại trong sự nghiệp mạo hiểm giả của mình.
-
-Đó thực sự là một chuyện đơn giản, khi tôi thông báo cho Lorraine về ủy thác săn Orc của mình, những gì đã diễn ra trong chuyến đi săn, cùng những chiến lợi phẩm thu được trong ngày.
-
-Kết quả của chuyến đi săn cũng rõ ràng và dứt khoát không kém: tiếp theo, tôi sẽ tham gia bài kiểm tra thăng hạng mạo hiểm giả. Nói chính xác hơn, tôi sẽ tham gia bài thi để thăng lên Đồng Cấp. Diễn biến này không khiến tôi quá đỗi ngạc nhiên, đặc biệt là khi xét đến việc hầu hết các mạo hiểm giả không thể nào vừa đăng ký ở hội xong đã săn Orc thành công ngay tắp lự. Việc tôi trở về lành lặn cùng chiến lợi phẩm của không chỉ một mà tận ba con Orc có lẽ là quá đủ để thuyết phục hội rằng cấp bậc mạo hiểm giả của tôi cần phải được xét lại.
-
-Thế nhưng một mạo hiểm giả giỏi không chỉ được định nghĩa bằng năng lực võ nghệ: một lượng kiến thức tương xứng cũng là điều bắt buộc, thế nên mới có bài kiểm tra thăng hạng. Về cơ bản, đó sẽ là một dạng bài thi viết, với các chủ đề xoay quanh quy tắc của hội cùng thông tin về quái vật, nguyên liệu và những điều tương tự. Chí ít cũng nằm trong phạm vi hiểu biết hợp lý đối với một mạo hiểm giả Đồng Cấp.
-
-Dĩ nhiên, bài thi có độ khó nhất định. Song đối với một kẻ như tôi, bài thi đó lại dễ đến phát sợ. Tôi có thể nói rằng mình đã chuẩn bị vô cùng chu đáo, và nhiều khả năng sẽ đạt điểm số tuyệt đối trong bài thi nói trên.
-
-Vấn đề nằm ở phần thi thực hành; phần thi cụ thể này thường khác nhau tùy theo từng thí sinh.
-
-Thông thường, một ủy thác hạng Đồng Cấp sẽ được giao cho mạo hiểm giả liên quan để thử thách bản lĩnh của họ, nhưng dĩ nhiên điều này không có gì là chắc chắn. Bản chất của nhiệm vụ cần làm hoàn toàn phụ thuộc vào ý thích nhất thời của Hội Trưởng.
-
-Phần này của bài thi không phải thay đổi chỉ để cho có sự đa dạng. Nhiều khả năng đó là để ngăn chặn gian lận và các hành vi không mong muốn khác. Dẫu nói vậy, ai nấy đều biết rằng một số cá nhân đặc biệt tài năng sẽ tìm cách này hay cách khác để vén bức màn bí mật đó. Bản thân hành động ấy thường được coi là một thước đo đánh giá kỹ năng của họ, và họ thường không bị khiển trách quá nặng nề.
-
-Dù sao đi nữa, việc tìm hiểu ngọn ngành chi tiết của bài thi sẽ tốn quá nhiều thời gian và công sức, thế nên tôi quyết định tham gia bài thi một cách bình thường, vượt qua nó bằng chính thực lực của mình.
-
-Tôi không khỏi tự hỏi những thử thách nào đang đón đợi mình vào ngày mai, và chính với những suy nghĩ ấy trong đầu, tôi ngồi đó, háo hức chờ đợi ánh bình minh kế tiếp.
+"Vậy thì... Coi như tôi... Xin phép tiếp tục nhận... Sự giúp đỡ của cô vậy," tôi gật đầu nói.
 
 ◆◇◆◇◆
 
-"Tôi đến... Để tham gia. Bài kiểm tra thăng hạng..."
+Sau cuộc trò chuyện, hai đứa tôi ngồi xuống bàn. Tôi kể cặn kẽ cho cô nghe những gì mình làm được trong mê cung hôm nay, cùng những suy nghĩ về khả năng của cơ thể Thi Quỷ mới. Chúng tôi cũng bàn về Bản Đồ Akasha, nhất là cảm nhận thực tế khi sử dụng. Đáng tiếc là trao đổi một hồi cũng chẳng có gì mới, nên tôi chuyển sang nói về tiến triển hiện tại trong công việc mạo hiểm giả.
 
-Đến Hội Mạo Hiểm Giả đúng giờ, tôi lập tức tiến thẳng về phía Sheila, dứt khoát tuyên bố mục đích của mình. Về phần Sheila, cô hiểu ngay tôi đến đây để làm gì.
+Chuyện này thì đơn giản thôi, tôi chỉ kể cho Lorraine nghe về ủy thác săn Orc, diễn biến trong chuyến đi và số chiến lợi phẩm thu hoạch được trong ngày.
 
-"A, vâng, anh Rentt. Anh đến đúng giờ quá! Tôi thật sự rất cảm kích," cô mỉm cười nói.
+Kết quả chuyến đi săn cũng rất rõ ràng: bước tiếp theo, tôi sẽ thi thăng hạng mạo hiểm giả. Chính xác hơn là thi lên Đồng Cấp. Chuyện này cũng chẳng làm tôi ngạc nhiên mấy, bởi mạo hiểm giả mới đăng ký ở hội đâu phải ai cũng lập tức hạ được Orc ngay từ đầu. Huống hồ tôi còn bình an vô sự trở về cùng chiến lợi phẩm của tận ba con Orc chứ chẳng phải một, chừng đó thừa sức thuyết phục hội rằng cấp bậc mạo hiểm giả của tôi cần phải được xem xét lại.
 
-Có lẽ việc Sheila cảm kích vì sự đúng giờ của tôi là một điều kỳ lạ. Song xét đến việc nhiều mạo hiểm giả có khái niệm thời gian rất đỗi đặc thù, tâm tư của cô lại chẳng hề khó hiểu chút nào.
+Thế nhưng một mạo hiểm giả giỏi không chỉ cần mỗi võ nghệ: người ta còn đòi hỏi phải có đủ vốn kiến thức cần thiết, thế nên mới có bài thi thăng hạng. Về cơ bản, đây là một dạng bài thi viết xoay quanh quy tắc của hội, thông tin về quái vật, nguyên liệu và những thứ tương tự. Chí ít thì độ khó cũng nằm trong phạm vi hiểu biết phù hợp với một mạo hiểm giả Đồng Cấp.
 
-Trước hết, không ít kẻ du thủ du thực cùng những thành phần tương tự rốt cuộc lại trở thành mạo hiểm giả; đó thực sự là vấn đề về thái độ. Dù người ta có thể cho rằng việc đến trễ chẳng phải chuyện to tát gì, song những chi tiết nhỏ nhặt như thế lại dễ dàng phân định một kẻ chuyên nghiệp với một mạo hiểm giả tầm thường. Những mạo hiểm giả trễ nải cuối cùng sẽ phải trả giá cho thói quen xấu của mình, thường là dưới hình thức một án phạt chính thức từ hội, không hơn không kém.
+Dĩ nhiên, với người khác thì bài thi cũng có độ khó nhất định. Nhưng với một kẻ như tôi, nó lại dễ đến nực cười. Tôi dám chắc mình đã chuẩn bị kỹ càng đến mức thừa sức ẵm trọn điểm tuyệt đối.
 
-Ngoài ra, các mạo hiểm giả thường phải làm việc với các khách hàng là con người khi họ thăng tiến qua từng cấp bậc, bởi lẽ làm mạo hiểm giả đâu chỉ xoay quanh mỗi việc đánh đập quái vật. Do vậy, việc có quá nhiều mạo hiểm giả trễ nải lượn lờ xung quanh chẳng hề có lợi cho danh tiếng chung và ấn tượng của công chúng về mạo hiểm giả nói chung, thế nên hội mới nỗ lực rèn giũa tác phong đúng giờ cho các thành viên. Trên thực tế, việc có mặt đúng giờ cho bài thi vốn dĩ đã là một phần của chính bài kiểm tra đó rồi.
+Vấn đề lại nằm ở phần thực hành; phần thi này thường được thay đổi tùy theo từng thí sinh.
 
-Nhưng dẫu nói vậy, sự trễ nải không được định nghĩa bằng việc muộn vài phút hay vài giây, bởi lẽ những công cụ đo thời gian chính xác như thế không hề phổ biến với đại chúng, mà thường thuộc sở hữu của hoàng gia hoặc các thương nhân giàu có và những người tương tự. Tôi có thể đánh bạo suy đoán rằng những mạo hiểm giả đỉnh cấp mang theo một cỗ đồng hồ bên mình, nhưng về điều đó thì tôi không dám chắc.
+Thông thường, thí sinh sẽ được giao một ủy thác cấp Đồng để thử thách bản lĩnh, nhưng dĩ nhiên chẳng có gì là chắc chắn. Nội dung cụ thể của bài thi hoàn toàn tùy thuộc vào nhã hứng của Hội Trưởng.
 
-Dù sao đi nữa, thí sinh liên quan về cơ bản sẽ bị trừ điểm nếu đến trễ quá mức trong bài thi. Vì tôi vốn đã biết rõ sự thật này, tôi chẳng hề ngần ngại việc có mặt đúng giờ.
+Người ta thay đổi phần thi này không phải chỉ để cho vui. Mục đích chính hẳn là để ngăn chặn gian lận và những trò khuất tất. Dù vậy, ai cũng ngầm hiểu rằng vài kẻ thực sự có tài vẫn luôn tìm được cách moi móc thông tin ra sau bức màn bí mật. Bản thân việc làm đó thậm chí còn được coi là thước đo chứng minh năng lực, nên họ cũng chẳng mấy khi bị khiển trách nặng nề.
 
-Mặc dù khái niệm thời gian của Lorraine có phần đại khái, cô lại sở hữu một cỗ đồng hồ tự chế, cốt để không bị trễ những cuộc hẹn của chính mình.
+Dù sao đi nữa, tốn công tìm hiểu trước nội dung bài thi làm gì cho mệt, tôi cứ đường hoàng đi thi rồi vượt qua bằng chính thực lực của mình là xong.
 
-Trong khi đồng hồ cùng những thứ tương tự được lắp đặt tại các không gian công cộng cho người dân thị trấn sử dụng, tôi lại có thể biết giờ giấc một cách thoải mái ngay tại nơi ở của Lorraine, phần lớn nhờ vào sở thích mày mò chế tạo của cô.
+Tôi không khỏi băn khoăn xem ngày mai thử thách nào đang đón đợi mình, cứ thế thấp thỏm mong trời mau sáng.
+
+◆◇◆◇◆
+
+"Tôi đến... Để thi. Thăng hạng..."
+
+Có mặt tại Hội Mạo Hiểm Giả đúng giờ hẹn, tôi bước thẳng đến chỗ Sheila và nói rõ mục đích của mình. Sheila nghe xong cũng hiểu ngay lý do tôi tới.
+
+"A, anh Rentt. Anh đến chuẩn giờ quá! Cảm ơn anh nhiều nhé," cô mỉm cười nói.
+
+Đến đúng giờ mà cũng được cảm ơn thì nghe có vẻ lạ tai. Nhưng nghĩ đến chuyện khối mạo hiểm giả có khái niệm giờ giấc chẳng giống ai, tôi hoàn toàn hiểu được nỗi lòng của cô ấy.
+
+Trước hết, không ít tay đầu trộm đuôi cướp dạt vào làm mạo hiểm giả; âu cũng do vấn đề thái độ mà ra cả. Dù có người bảo đi muộn chẳng chết ai, nhưng chính những chi tiết nhỏ nhặt ấy lại phân định rạch ròi giữa một người chuyên nghiệp với đám mạo hiểm giả xoàng xĩnh. Mấy kẻ quen thói trễ nải sớm muộn gì cũng phải trả giá cho tật xấu của mình, thường là một án phạt chính thức từ hội chứ chẳng chơi.
+
+Thêm nữa, mạo hiểm giả càng lên cấp cao thì càng phải tiếp xúc nhiều với thân chủ con người, bởi nghề này đâu chỉ có mỗi việc săn quái. Thế nên nếu để một lũ mạo hiểm giả quen thói dây dưa lượn lờ khắp nơi thì hình ảnh của giới mạo hiểm giả trong mắt công chúng sẽ tệ đi trông thấy. Vì lẽ đó, hội luôn cố rèn cho hội viên tác phong đúng giờ. Nói thật ra, đến đúng giờ thi vốn dĩ đã là một phần của bài kiểm tra rồi.
+
+Dẫu vậy, đi muộn ở đây không tính bằng vài phút hay vài giây, bởi những dụng cụ đo giờ chuẩn xác cỡ đó đâu phải thứ người bình thường sở hữu được, thường chỉ có hoàng gia hay thương nhân giàu sụ mới sắm nổi. Tôi cũng mạo muội đoán rằng mấy tay mạo hiểm giả hàng đầu có giắt đồng hồ trong người, nhưng điều đó thì tôi không dám chắc.
+
+Nói chung, thí sinh nào mà đến trễ quá giờ quy định thì kiểu gì cũng bị trừ điểm. Biết tỏng chuyện này rồi nên dại gì mà tôi không đi cho đúng giờ.
+
+Lorraine vốn tính xuề xòa chuyện giờ giấc, nhưng cô vẫn có một chiếc đồng hồ tự chế để khỏi lỡ hẹn.
+
+Trong khi thị trấn có đặt đồng hồ ở các khu công cộng cho người dân xem giờ, tôi lại có thể thảnh thơi xem giờ ngay tại nhà Lorraine, phần lớn là nhờ cái thói quen hay mày mò chế đồ của cô ấy.
 
 ![](images/ch032-01.webp)
 
-"Dĩ... Nhiên rồi. Phần thi... Viết... Sẽ diễn ra trước chứ?"
+"Tất... Nhiên rồi. Phần... Thi viết... Trước đúng không?"
 
-"Vâng, quả đúng là như vậy. Thế nhưng... Anh có chắc về chuyện này không? Vẫn còn những cơ hội tham gia bài thi vào ngày mai hoặc ngày kia mà. Anh hoàn toàn không nhất thiết phải thi ngay hôm nay đâu. Ít nhất thì anh đã nghĩ đến việc dành chút thời gian nghỉ ngơi và ôn tập cho bài thi chưa? Tôi khuyên anh nên làm vậy đấy..."
+"Vâng, đúng vậy đấy ạ. Cơ mà... anh chắc chứ? Ngày mai hay ngày kia vẫn còn đợt thi mà. Anh đâu nhất thiết phải thi ngay hôm nay. Chí ít anh đã tính đến chuyện dành chút thời gian nghỉ ngơi để ôn bài chưa? Tôi khuyên thật lòng là anh nên làm thế đấy..."
 
-Tôi thấu hiểu nỗi lo lắng của Sheila; cô chỉ vừa mới thông báo về quyền tham gia bài thi cho tôi vào ngày hôm trước, và hẳn là không ngờ tôi lại có mặt để thi ngay ngày hôm sau. Có lẽ điều đó cũng có phần hợp lý, bởi quả thực rất hiếm ai lại đăng ký thi vào lượt kế tiếp ngay tức khắc sau khi được thông báo về tư cách dự thi.
+Tôi hiểu nỗi lo của Sheila. Mới hôm qua cô thông báo tôi đủ điều kiện dự thi, hẳn chẳng ngờ ngay hôm sau tôi đã vác mặt tới. Cô lo cũng phải, bởi hiếm ai vừa nhận thông báo đủ điều kiện là lập tức đăng ký thi ngay đợt gần nhất như thế.
 
-Ngay từ đầu, hơn một nửa số câu hỏi thường xuất hiện trong bài thi viết sẽ là điều bất khả thi đối với hầu hết các mạo hiểm giả Thiết Cấp. Đổi lại, phần lớn những mạo hiểm giả này sẽ dành ra nhiều tuần, hoặc đôi khi thậm chí nhiều tháng nghỉ ngơi để học hỏi và tích lũy lượng kiến thức cần thiết hòng tham gia phần thi viết.
+Vốn dĩ, hơn một nửa số câu hỏi hay ra trong đề thi viết nằm ngoài tầm hiểu biết của phần lớn mạo hiểm giả Thiết Cấp. Do đó, hầu hết bọn họ phải gác việc lại nhiều tuần, thậm chí vài tháng ròng để dùi mài kinh sử mới dám đi thi viết.
 
-Trong trường hợp của tôi, tôi đã chứng minh bản thân xứng đáng tham gia bài thi này ngay sau khi vừa đăng ký. Thế nên theo lẽ tự nhiên, nhân viên hội đâu đã có thời gian cảnh báo tôi về lượng kiến thức cần thiết cho bài kiểm tra.
+Còn tôi thì vừa đăng ký xong đã lập tức chứng minh được thực lực để thi thăng hạng. Thành thử nhân viên hội làm gì kịp nhắc nhở tôi về lượng kiến thức cần chuẩn bị cho kỳ thi.
 
-Thế nhưng tôi vốn đã từng tham gia bài thi này trong kiếp sống trước, nên dẫu cho bài thi hiện tại có thể không hoàn toàn giống hệt, tôi đã ghi nhớ vanh vách các dạng câu hỏi và chủ đề chung đang đón đợi mình: quy tắc của hội; thông tin về quái vật; thông tin về nguyên liệu; những kiến thức thông thường được kỳ vọng ở một mạo hiểm giả Đồng Cấp... Tôi có thừa thời gian để chuẩn bị sẵn sàng cho bài thi này.
+Nhưng tôi đã từng kinh qua kỳ thi này hồi còn sống, nên dẫu đề thi bây giờ có đôi chút đổi khác, tôi vẫn nhớ như in các dạng câu hỏi và chủ đề quen thuộc: quy tắc của hội; đặc tính quái vật; thông tin nguyên liệu; cùng những kiến thức căn bản của một mạo hiểm giả Đồng Cấp... Tôi thừa sức sẵn sàng cho bài kiểm tra này.
 
-Thêm vào đó, các bài thi không được tổ chức hằng ngày, mà thường diễn ra theo định kỳ hằng tháng. Nếu cứ giậm chân tại chỗ và tiếp tục trôi dạt như một mạo hiểm giả Thiết Cấp, tôi sẽ chẳng bao giờ hoàn thành được ước mơ của mình. Đó là lý do tôi phải hành động ngay khi cơ hội mở ra trước mắt.
+Chưa kể các đợt thi không diễn ra hằng ngày mà thường chỉ tổ chức mỗi tháng một lần. Nếu cứ giậm chân tại chỗ làm một gã mạo hiểm giả Thiết Cấp lẹt đẹt, tôi sẽ chẳng bao giờ chạm tay tới ước mơ. Vì thế, cơ hội đến là tôi phải chộp lấy ngay.
 
-Với những suy nghĩ ấy trong đầu, tôi đáp lại Sheila: "Không có... Vấn đề gì đâu. Tôi nên... Đi đâu đây?"
+Nghĩ vậy, tôi đáp lời Sheila: "Không... Sao đâu. Tôi phải... Đi đâu đây?"
 
-Nếu trí nhớ không lầm, bài thi được tổ chức trên tầng hai của hội, trong một căn phòng họp nào đó. Dù đã biết câu trả lời cho thắc mắc của mình, tôi vẫn cứ phải hỏi.
+Nếu nhớ không nhầm thì phòng thi nằm ở tầng hai của hội, trong một phòng họp. Dù bụng đã biết tỏng câu trả lời, tôi vẫn phải làm bộ hỏi cho đủ thủ tục.
 
-"Bài thi sẽ được tổ chức tại phòng họp trên tầng hai. Mời anh đi lối này..." Sheila nói, bước ra khỏi quầy tiếp tân để dẫn tôi đến địa điểm liên quan.
+"Phòng thi ở trên tầng hai ạ. Mời anh đi lối này..." Sheila vừa nói vừa rời khỏi quầy để dẫn đường cho tôi.
 
-Vừa bước vào phòng, ánh mắt của một vài mạo hiểm giả Thiết Cấp liếc nhìn tôi, trước khi lập tức quay lại với đủ loại giấy tờ trên tay họ. Từng tờ giấy dường như được lấp đầy bằng những ghi chép và chữ viết tay chen chúc. Vài mạo hiểm giả vừa làm vậy vừa lẩm bẩm trong miệng, như thể đang tụng niệm những câu thần chú cổ xưa.
+Vừa bước vào phòng, vài mạo hiểm giả Thiết Cấp đưa mắt liếc nhìn tôi, rồi lại cắm cúi vào đống giấy tờ trên tay. Tờ nào tờ nấy chật ních chữ viết tay cùng những dòng ghi chú chi chít. Có người còn mấp máy môi lẩm bẩm như đang tụng thần chú cổ.
 
-Có lẽ đó là những ghi chép được viết ra để hỗ trợ cho nỗ lực làm bài thi của họ. Hội quả thực có cho các thí sinh mượn những tài liệu này khi ngày thi cận kề, nhưng vì phạm vi câu hỏi tương đối rộng, các thông tin và kiến thức liên quan chỉ có thể nhồi nhét lên một mảnh giấy chừng nào người ta dùng nét chữ thật nhỏ.
+Hẳn là tài liệu ôn thi rồi. Hội quả có cho thí sinh mượn mấy thứ này khi ngày thi tới gần; dẫu phạm vi câu hỏi khá rộng, nhưng nếu chịu khó viết chữ nhỏ li ti thì toàn bộ kiến thức trọng tâm vẫn có thể nhét vừa vặn trên một mặt giấy.
 
-Lượng kiến thức này dĩ nhiên tăng dần theo tỷ lệ thuận với cấp bậc mà người ta hướng tới: một tập sách mỏng cho Ngân Cấp; một cuốn sách dày cho Kim Cấp; một bộ bách khoa toàn thư cho các cấp bậc cao hơn nữa; cứ thế tiếp diễn.
+Dĩ nhiên, cấp bậc càng cao thì lượng kiến thức càng phình to: lên Ngân Cấp là cả một tập sách mỏng, Kim Cấp là một cuốn sách dày cộp, còn cao hơn nữa thì chẳng khác nào bộ bách khoa toàn thư; cứ thế mà nhân lên.
 
-Đáng tiếc là các thí sinh không thể sử dụng những tờ giấy nói trên trong lúc làm bài, nhưng có lẽ họ nên xem việc hội cho mượn những tài liệu như vậy ngay từ đầu đã là một ân huệ. Dẫu vậy, vẫn có một khoản phạt phải trả nếu họ làm mất nó, với mảnh giấy được đề cập có giá một đồng bạc; một mức giá vừa túi tiền ngay cả với mạo hiểm giả Thiết Cấp. Dù sao thì, nếu người ta dành ra ít nhất một hoặc hai tuần để ôn luyện cho bài thi Đồng Cấp, họ sẽ tự nhiên thu nạp đủ kiến thức để đạt điểm đỗ.
+Đáng tiếc là lúc làm bài thí sinh không được phép dùng tài liệu, nhưng việc hội cho mượn sẵn thế này đã là tốt lắm rồi. Có điều làm mất thì phải đền một đồng bạc; số tiền đó mạo hiểm giả Thiết Cấp vẫn kham nổi. Dù sao đi nữa, chỉ cần chịu khó bỏ ra một hai tuần dùi mài cho kỳ thi Đồng Cấp là đã thừa sức đạt điểm đỗ rồi.
 
-Thành thật mà nói, chuyện đó chẳng có gì phải quá lo lắng.
+Nói thật lòng thì chẳng có gì đáng phải lo lắng cả.
 
-Tuy nhiên, cũng đáng lưu ý rằng với hơn một nửa số mạo hiểm giả trong căn phòng này, những bài thi viết như thế này là lần đầu tiên trong đời họ. Sự thật này có lẽ đã lý giải cho bầu không khí căng thẳng—nghĩ lại thì tôi cũng từng nằm trong số họ! Bất kỳ ai không dành thời gian chuẩn bị chắc chắn sẽ cảm thấy bồn chồn.
+Có điều, với hơn nửa số mạo hiểm giả trong phòng, bài thi viết kiểu này là lần đầu tiên trong đời họ. Hẳn vì thế mà không khí mới căng như dây đàn—nghĩ lại thì ngày xưa tôi cũng từng như họ! Ai không chịu chuẩn bị kỹ thì lo sốt vó cũng phải.
 
-Ở một khía cạnh khác, dù tôi đã quyết định chọn bài thi viết, vẫn có những phương thức kiểm tra khác, chẳng hạn như hình thức vấn đáp bằng miệng. Trên thực tế, ở các vương quốc và quốc gia có tỷ lệ biết chữ thấp hơn, đó lại là hình thức kiểm tra phổ biến hơn.
+Mặt khác, dù tôi chọn thi viết, hội vẫn có những hình thức khác như thi vấn đáp. Thậm chí ở những vương quốc có tỷ lệ mù chữ cao, vấn đáp mới là hình thức thi cử phổ biến.
 
-Đây là lý do tại sao chỉ có lác đác vài mạo hiểm giả trong căn phòng này: do tính chất của quy trình thi vấn đáp, nó được tiến hành ở một khu vực riêng biệt, với thời gian chờ đợi cũng lâu hơn bởi các thí sinh phải được kiểm tra từng người một. Và vì thế, những ai không thích chờ đợi thường chọn tham gia phiên bản thi viết.
+Đó là lý do vì sao trong phòng này chỉ có lác đác vài mống: thi vấn đáp phải làm riêng ở khu vực khác, đã thế còn phải đợi lâu vì giám khảo sát hạch từng người một. Vậy nên ai ngại chờ đợi thường chọn thi viết cho nhanh.
 
-Sau khi tôi an tọa tại chỗ ngồi của mình, Sheila, người đã rời khỏi phòng sau khi dẫn tôi tới đây, quay trở lại với một tập giấy thô và những chiếc bút lông ngỗng trên tay.
+Khi tôi đã ổn định chỗ ngồi, Sheila—người vừa rời đi sau khi dẫn tôi vào—quay trở lại với một xấp giấy thô cùng mớ bút lông ngỗng ôm trên tay.
 
-"Vậy thì, chúng ta hãy bắt đầu bài thi. Tôi tin là tất cả các bạn đều biết chữ và có thể viết lách, nên tôi sẽ không giải thích dài dòng không cần thiết. Tuy nhiên... như một lời nhắc nhở, tập giấy này chứa các câu hỏi mà các thí sinh phải trả lời. Các thí sinh sẽ viết câu trả lời của mình lên tờ phiếu trả lời này, bằng những chiếc bút lông ngỗng được phát. Bài thi sẽ chính thức kết thúc khi cát ở ngăn trên của chiếc đồng hồ cát này chảy hết. Có ai có câu hỏi gì không?"
+"Được rồi, chúng ta bắt đầu bài thi nhé. Tôi tin tất cả mọi người ở đây đều biết đọc biết viết, nên tôi sẽ không giải thích dông dài. Có điều... tôi xin nhắc lại đôi chút: xấp giấy này là đề thi. Mọi người viết câu trả lời vào tờ phiếu trả lời này bằng bút lông ngỗng được phát nhé. Bài thi sẽ chính thức kết thúc khi cát ở nửa trên chiếc đồng hồ cát này chảy hết. Có ai thắc mắc gì không?"
 
-Tôi cho rằng những gì Sheila nói hoàn toàn có lý: tất cả các thí sinh có mặt quả thực đều biết viết. Ngay cả tôi cũng từng dùng bút lông ngỗng trước đây rồi.
+Sheila nói phải: những người ngồi đây ai cũng biết viết cả. Đến tôi còn từng dùng bút lông ngỗng cơ mà.
 
-Đúng như dự đoán, không có câu hỏi nào từ những mạo hiểm giả tụ họp trong phòng.
+Đúng như dự đoán, chẳng có mạo hiểm giả nào trong phòng lên tiếng thắc mắc.
 
-"Vậy thì bây giờ tôi sẽ phát đề thi và phiếu trả lời, cũng như bút lông ngỗng. Tôi cũng sẽ thu lại những tờ tài liệu ôn tập mà hội đã cho các bạn mượn."
+"Vậy tôi sẽ phát đề thi, phiếu trả lời và bút lông ngỗng cho mọi người. Đồng thời tôi xin phép thu lại các tờ tài liệu ôn thi mà hội đã cho mượn."
 
-"Đề thi và phiếu trả lời chỉ in một mặt, và sẽ được đặt úp xuống bàn của các bạn. Xin vui lòng chỉ lật lại khi tôi ra hiệu."
+"Đề thi và phiếu trả lời chỉ có một mặt, tôi sẽ đặt úp xuống bàn. Mọi người làm ơn đợi tôi ra hiệu rồi mới lật lên nhé."
 
-Nói đoạn, Sheila bắt đầu đi một vòng, vừa đi vừa phân phát bút và giấy tương ứng.
+Nói xong, Sheila đi một vòng quanh phòng, phát đủ giấy bút cho từng người.
 
-Một bầu không khí căng thẳng tĩnh lặng kỳ lạ ngập tràn căn phòng. Đối với tôi, đó là một cảm giác hoài niệm. Dẫu vậy, tôi không có nhiều thời gian để hồi tưởng. Sheila đã phát xong một lượt, và giờ cô đang đứng ở đầu phòng.
+Một bầu không khí nén chặt sự căng thẳng bao trùm cả căn phòng. Với tôi, cảm giác này thật đỗi quen thuộc. Nhưng tôi cũng chẳng có nhiều thời gian để mà hoài niệm. Sheila đã phát xong một lượt và quay lại đứng trước bục.
 
-Bằng một động tác nhanh nhẹn khéo léo, Sheila dốc ngược chiếc đồng hồ cát lớn lại, rồi nhẹ nhàng đặt nó xuống bàn làm việc của mình.
+Sheila nhanh nhẹn dốc ngược chiếc đồng hồ cát lớn, rồi nhẹ nhàng đặt nó xuống bàn.
 
-"...Các bạn có thể bắt đầu."
+"...Mời mọi người bắt đầu làm bài."
 
-Và bài thi cứ thế bắt đầu.
+Và thế là kỳ thi bắt đầu.
