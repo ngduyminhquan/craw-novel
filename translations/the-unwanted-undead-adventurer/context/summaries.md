@@ -1574,6 +1574,12 @@ Elza dẫn cả hai tới điểm đến bí mật: một cô nhi viện cũ đ�
 Khi bước vào trong, Rentt bất ngờ bị một chú chó khổng lồ lông trắng tên Pochi (to lớn ngang Hội Trưởng Wolf) nhào tới liếm mặt; một người phụ nữ trẻ đoan trang ra dỗ Pochi và tiết lộ Pochi đã sống ở đây hơn 20 năm, nhiều khả năng là quái vật.
 Cảnh kết thúc: Trong lúc Rentt còn đang ngẫm nghĩ về tuổi thọ của quái vật và ranh giới sinh vật, chú chó Pochi bất ngờ cất tiếng nói [Xin chào!], khiến Rentt vô cùng kinh ngạc.
 
+## 266
+Rentt và Lorraine làm quen với Mel Patiche (người phụ trách Cô Nhi Viện Thứ Ba Vistelya); chia quà bánh cho lũ trẻ và vui vẻ trò chuyện, chia sẻ tin tức về tình hình hồi phục của Sơ Lillian ở Maalt sau khi khỏi Bệnh Tích Tụ Chướng Khí; Mel vô cùng cảm kích khi biết Rentt chính là ân nhân hái Hoa Long Huyết cứu mạng Lillian.
+Elza giao cho Rentt phong thư hồi âm có niêm phong Thần Lực để mang về Maalt cho Lillian; chú chó Pochi đánh hơi kiểm tra phong thư và bất ngờ đối đáp bằng thần giao cách cảm, khiến Elza nhận ra Rentt cũng nghe hiểu được tiếng của Pochi.
+Mel ngỡ ngàng khi nhận ra bấy lâu nay Elza không hề nói đùa về việc Pochi biết nói (nhất là khi Pochi bóc mẽ chuyện cô lén ăn đồ ngọt) và giận dỗi vì bản thân chăm sóc Pochi lâu nhất nhưng lại là người duy nhất không nghe thấy; trước tình thế đó, Elza đồng ý để Pochi truyền luồng Thần Lực sang giúp Mel nghe được tiếng nó.
+Cảnh kết thúc: Elza tiết lộ Pochi thực chất là thần thú (thánh thú) mang đặc tính tương đồng thần tinh linh, chỉ những ai từng nhận được sự ban phước của Thần Lực mới nghe thấy nó nói, và quay sang hỏi thẳng Rentt về Thần Lực của anh.
+
 
 
 

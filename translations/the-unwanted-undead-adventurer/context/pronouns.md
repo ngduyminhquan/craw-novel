@@ -514,4 +514,13 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Mel | tôi | cô | 265 | Mạo hiểm giả nói chuyện lịch sự với người phụ nữ trẻ tại cô nhi viện |
 | Mel | Rentt Faina | tôi | anh | 265 | Người phụ nữ tại cô nhi viện nói chuyện với Rentt |
 | Mel | Pochi | tôi | Pochi / ngoan nào | 265 | Nữ tu dỗ chú chó khổng lồ |
+| Mel | Elza | em | Sơ Elza / chị / chị Elza | 266 | Người phụ nữ phụ trách cô nhi viện nói chuyện với Nữ Tu Viện Trưởng vốn là đàn chị thân thiết |
+| Elza | Mel | tôi | Mel / em | 266 | Nữ Tu Viện Trưởng nói chuyện với đàn em thân thiết ở cô nhi viện |
+| Lorraine Vivie | Mel | tôi | cô | 266 | Nữ học giả tiếp chuyện người phụ nữ tại cô nhi viện |
+| Mel | Lorraine Vivie | tôi | cô | 266 | Người phụ nữ tại cô nhi viện tiếp chuyện nữ học giả |
+| Pochi | Rentt Faina | ta / tôi | cậu | 266 | Thần thú giao tiếp qua thần giao cách cảm |
+| Pochi | Elza | ta / tôi | cô | 266 | Thần thú đối thoại với Nữ Tu Viện Trưởng |
+| Elza | Pochi | tôi | Pochi | 266 | Nữ Tu Viện Trưởng nói chuyện với thần thú |
+| Rentt Faina | Pochi | tôi | Pochi / mày | 266 | Mạo hiểm giả tiếp xúc với thần thú |
+| Mel | * | tôi | các con / các em | 266 | Người phụ nữ nói chuyện với lũ trẻ ở cô nhi viện |
 

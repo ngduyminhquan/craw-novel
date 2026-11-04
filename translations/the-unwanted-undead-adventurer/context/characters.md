@@ -113,7 +113,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Gerge |  | Gerge | Học sinh lớp học tư thục ở Maalt, người chạy đi báo tin và tìm Lorraine | #217 |
 | Frahe |  | Frahe | Thiếu gia khoảng 10 tuổi thuộc gia tộc Muze ở Maalt, rất ngưỡng mộ Isaac | #218 |
 | Jean Seebeck | Jean; Chief Jean | Jean Seebeck | Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran, thủ lĩnh tổ chức sát thủ | #221 |
-| Elza | Abbess Elza; Mother Elza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
+| Elza | Abbess Elza; Mother Elza; Sister Elza; Eliza | Elza | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran | #222 |
 | Elza Olgado |  | Elza Olgado | Tên đầy đủ của Nữ Tu Viện Trưởng Elza | #223 |
 | Marquess of Ancro | Marquess Ancro | Hầu tước xứ Ancro | Tước vị quý tộc của Nauss Ancro, người đứng đầu Gia tộc Ancro | #227 |
 | Lukas Bader | Duke Lukas Bader | Lukas Bader | Công tước kiêm Phó Vương của Vương Quốc Yaaran | #227 |
@@ -132,7 +132,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Fuana |  | Fuana | Thành viên nữ tổ chức sát thủ, bám dính Spriggan, đam mê và sử dụng ma pháp cổ đại | #256 |
 | Gilli Flood | Gilli | Gilli Flood | Tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam | #261 |
 | Hamishy Favor | Hamishy | Hamishy Favor | Nhà nghiên cứu mê cung đứng đầu Tòa Tháp Yaaran | #263 |
-| Mel | Sister Mel | Mel | Nữ tu tại cô nhi viện ở vương đô nơi Elza và Lillian từng lớn lên | #265 |
+| Mel | Sister Mel | Mel | Nữ tu / người phụ trách Cô Nhi Viện Thứ Ba Vistelya nơi Elza và Lillian từng lớn lên | #265 |
+| Mel Patiche |  | Mel Patiche | Tên đầy đủ của Mel, người phụ trách Cô Nhi Viện Thứ Ba Vistelya | #266 |
 | Pochi |  | Pochi | Chú chó khổng lồ lông trắng (nghi là quái vật) sống hơn 20 năm tại cô nhi viện ở vương đô | #265 |
 
 ## Chi tiết

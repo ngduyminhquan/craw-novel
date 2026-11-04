@@ -270,7 +270,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 263 |  | Chapter_263 - Vol 11 Chapter 3 - The Organization (8).txt | Vol 11 Chapter 3 - The Organization (8) | reviewed |  |
 | 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | reviewed |  |
 | 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | done |  |
-| 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | todo |  |
+| 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | done |  |
 | 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | todo |  |
 | 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | todo |  |
 | 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | todo |  |
@@ -921,3 +921,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#264] Cảnh báo QA check 'familiar' ở chương 264 — raw dùng tính từ ('familiar drawing room', 'familiar with...') → Báo nhầm (false positive), giữ nguyên bản dịch (orchestrator)
 - [#265] Tên riêng chú chó khổng lồ 'Pochi' — tạm giữ nguyên tên riêng 'Pochi' theo raw (phương án khác: Việt hóa hoặc phiên âm khác). → Chốt giữ nguyên tên riêng 'Pochi' theo đúng rules.md. (orchestrator)
 - [#265] Quái vật 'gigantes rana' — tạm giữ nguyên tên riêng 'gigantes rana' theo raw kèm giải thích 'về cơ bản là một con ếch khổng lồ' (phương án khác: dịch hẳn thành Cóc/Ếch Khổng Lồ). → Chốt giữ nguyên 'gigantes rana' (tương tự Aqua Hathur, Golem Luteum) để tránh lặp chữ với câu giải thích 'về cơ bản là một con ếch khổng lồ' ngay phía sau. (orchestrator)
+- [#266] Dịch 'divine, or sacred, beast' chỉ Pochi — tạm chọn 'thần thú, hay thánh thú' (trong glossary chốt 'divine beast → thần thú') (phương án khác: 'thần thú hoặc linh thú', 'thánh thú'). → Chốt 'thần thú, hay thánh thú' (và 'divine beast → thần thú' trong glossary.md). (orchestrator)
+- [#266] Xưng hô của Mel đối với Pochi khi kích động tra khảo — tạm chọn 'tao - mày' cho tự nhiên với quan hệ chủ nuôi thú cưng từ nhỏ (phương án khác: giữ 'tôi - Pochi'). → Chốt Mel xưng 'tôi / tao', gọi 'Pochi / mày' tùy ngữ cảnh bình thường hay lúc kích động tra khảo chú chó nuôi từ nhỏ. (orchestrator)

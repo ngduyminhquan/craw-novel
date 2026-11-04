@@ -108,6 +108,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Church of the Eastern Sky | Eastern Sky; The Eastern Heaven Sect; Eastern Heaven Sect | Giáo Hội Đông Thiên | tổ chức | 48 | Tổ chức tôn giáo ôn hòa, thanh bần tại Yaaran, tôn thờ thiên sứ giáng trần ở phía đông (東天教会) |
 | Second Orphanage of Maalt | Second Orphanage; the Second Orphanage | Cô Nhi Viện Thứ Hai Maalt | địa danh | 48 | Cơ sở nuôi dưỡng trẻ mồ côi do Giáo Hội Đông Thiên điều hành tại Maalt |
 | First Orphanage of Maalt | First Orphanage; the First Orphanage | Cô Nhi Viện Thứ Nhất Maalt | địa danh | 49 | Cơ sở nuôi dưỡng trẻ mồ côi thứ nhất tại Maalt |
+| Third Orphanage of Vistelya | Vistelya’s Third Orphanage; Third Orphanage | Cô Nhi Viện Thứ Ba Vistelya | địa danh | 266 | Cơ sở nuôi dưỡng trẻ mồ côi thứ ba tại vương đô Vistelya nơi Elza và Lillian từng lớn lên |
 | Accumulative Miasma Disease | Accumulated Miasma; accumulative malice disease | Bệnh Tích Tụ Chướng Khí | khác | 50 | Chứng bệnh suy nhược do cơ thể tích tụ chướng khí mỗi khi vận dụng Thần Lực (蓄積瘴気病) |
 | Swamp of Tarasque | Tarasque Swamp | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
@@ -218,6 +219,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | holy magic |  | thánh ma pháp | kỹ năng | 115 | Ma pháp hệ thần thánh sử dụng Thần Lực |
 | holy swordsmanship |  | thánh kiếm thuật | kỹ năng | 115 | Kiếm thuật vận dụng trang bị thần thánh làm chất xúc tác dẫn truyền Thần Lực |
 | divine spirit | divine spirits; Divine Spirit; Divine Spirits | thần tinh linh | khác | 115 | Thực thể thần thánh/tinh linh tối cao ban phát Thần Lực (神霊) |
+| divine beast | divine beasts; sacred beast; sacred beasts | thần thú | chủng tộc | 266 | Loài thú thần thánh mang Thần Lực, gần gũi với thần tinh linh (神獣/聖獣) |
 | Westbound Traveler | The Westbound Traveler | Người Lữ Hành Hướng Tây | khác | 116 | Truyện cổ tích dân gian nổi tiếng khắp Yaaran về một lữ khách đi về phía tây |
 | All-Knowing Sage | the All-Knowing Sage | Hiền Giả Toàn Tri | danh hiệu | 116 | Nhân vật hiền giả nắm giữ mọi tri thức trong dị bản Người Lữ Hành Hướng Tây của Lorraine |
 | King of Chefs | the King of Chefs | Vua Đầu Bếp | danh hiệu | 116 | Danh xưng vị vua lập quốc bằng tài nấu nướng trong dị bản Người Lữ Hành Hướng Tây của Alize |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T07:41:23Z",
+  "generatedAt": "2026-11-04T07:47:32Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3743,6 +3743,12 @@
           "title": "Chương 265: Tập 11 Chương 4 - Thánh Giả và Cô Nhi Viện (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_265.md",
           "sha": "0df80b28baf7d032bd6d3bc7d4cdfaa33c6f9f86"
+        },
+        {
+          "number": 266,
+          "title": "Chương 266: Tập 11 Chương 4 - Thánh Giả và Cô Nhi Viện (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_266.md",
+          "sha": "0bfae716c57d5301214b31e35a8fa09116100500"
         }
       ]
     },
