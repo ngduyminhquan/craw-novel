@@ -34,6 +34,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 8. **Bản năng Undead trỗi dậy và tâm lý tự giễu của Lorraine.** Khi Rentt bị bản năng quái vật chi phối, độc thoại nội tâm giằng xé giữa cơn thèm khát dã tính và lý trí con người, diễn đạt bằng các câu cụt dồn dập, ngắt quãng. Lorraine khi đối diện việc bị tấn công vẫn giữ thái độ thực tế, sắc sảo và dí dỏm tự giễu ("damaged goods" → "hàng có tì vết"), không bi lụy hay hoảng loạn thái quá.
 9. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
 10. **Giọng Raiz Dunner và Laura Satii (#33–38).** Raiz bộc trực, thẳng thắn, giàu năng lượng nhưng biết lắng nghe và cầu tiến; Laura Satii điềm tĩnh, nhỏ nhẹ, lễ phép và chín chắn hơn tuổi. Cả hai đối thoại tự nhiên như bạn đồng hành thân thiết ("tôi/tụi mình - cậu/Raiz/Laura"), tôn trọng Rentt chân thành nhưng bình đẳng, không "dạ/ạ" (Raiz gọi "anh / Rentt", Laura gọi "anh / anh Vivie").
+11. **Thoại trêu đùa của Lorraine (#40).** Khi Lorraine trêu Rentt về chuyện tình cảm hay phụ nữ ("made your move on her"), dùng khẩu ngữ tự nhiên ("cưa cẩm", "tán tỉnh", "tán đổ"), tránh dịch máy rập khuôn ("ra tay").
 
 ## Từ cảm thán / cách nói cố định
 
@@ -59,6 +60,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
+- (40) Sheila Ibarss biết thân phận thật của Rentt (Thi Quỷ) và ký khế ước ràng buộc ma pháp giữ bí mật; Rentt đưa Sheila về gặp Lorraine.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
