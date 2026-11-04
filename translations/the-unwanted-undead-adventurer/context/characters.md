@@ -131,6 +131,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Vaasa |  | Vaasa | Thành viên tổ chức sát thủ, do Spriggan chiêu mộ, có khả năng kháng ma pháp cao | #256 |
 | Fuana |  | Fuana | Thành viên nữ tổ chức sát thủ, bám dính Spriggan, đam mê và sử dụng ma pháp cổ đại | #256 |
 | Gilli Flood | Gilli | Gilli Flood | Tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam | #261 |
+| Hamishy Favor | Hamishy | Hamishy Favor | Nhà nghiên cứu mê cung đứng đầu Tòa Tháp Yaaran | #263 |
 
 ## Chi tiết
 
@@ -822,5 +823,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam (#261).
 - Đặc điểm: Là đấu sĩ nổi tiếng tại một thành phố phương nam chuyên về giác đấu với danh xưng "Gilli Quái Vật" (Gilli the Monster); được Jean Seebeck chiêu mộ để cùng thành lập tổ chức sát thủ dị năng ngầm (#261). Xem mục "Spriggan".
 - Xuất hiện từ: #261 (được Jean Seebeck tiết lộ danh tính thật).
+
+### Hamishy Favor
+- Giới tính, vai trò: Nam, nhà nghiên cứu mê cung đứng đầu Tòa Tháp tại Vương Quốc Yaaran (#263).
+- Đặc điểm: Được Jean Seebeck miêu tả là có vẻ ngoài ốm yếu, đúng chuẩn hình mẫu một nhà nghiên cứu kinh điển, nhưng vô cùng xuất chúng và tài năng đến mức người đối diện có thể cảm nhận được; là người dẫn dắt nghiên cứu đột phá tạo ra mê cung nhân tạo quy mô nhỏ dạng tổ kiến và đưa ra phân tích về sự bất ổn định của mê cung mới thành lập (#263).
+- Xuất hiện từ: #263 (được Jean Seebeck nhắc tên).
 
 

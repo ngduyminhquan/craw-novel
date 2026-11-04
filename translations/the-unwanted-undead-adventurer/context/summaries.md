@@ -1555,6 +1555,13 @@ Tại văn phòng, Jean chính thức chốt việc hủy bỏ lệnh truy sát;
 Jean hé lộ kế hoạch cứu Quốc vương không phải là thay mới mà là sửa chữa quyền trượng; theo Nữ Bá tước Gisel và nghiên cứu đột phá của Tòa Tháp, nguyên liệu tối thượng hiếm có để chế tạo hoặc phục hồi Thần Khí hiện đang xuất hiện tại Yaaran.
 Cảnh kết thúc: Jean chính thức tiết lộ nguyên liệu tối thượng đó là một "Lõi Mê Cung", khiến Rentt và Lorraine nhìn nhau với vẻ mặt không thốt nên lời.
 
+## 263
+Jean giải thích về Lõi Mê Cung và cuộc đua tranh đoạt giữa Tòa Tháp và Học Viện (do Đệ Nhất Hoàng Tử hậu thuẫn) tại mê cung mới ở Maalt; ông cũng tiết lộ về nhà nghiên cứu Hamishy Favor của Tòa Tháp cùng nghiên cứu mê cung nhân tạo, trong khi Rentt và Lorraine biết rõ kế hoạch này bất khả thi vì Laura Latuule đã hấp thu lõi vào người từ lâu.
+Jean vạch trần âm mưu thật sự dẫn đến lệnh truy sát: phó thủ lĩnh ngầm đã làm nội gián cho Gisel suốt 30 năm và cung cấp tin giả rằng Nhị Công Chúa toan mưu phản đoạt ngôi; Jean đã thanh trừng kẻ phản bội và kết thúc hợp đồng với Gisel.
+Từ chối tiết lộ chi tiết về việc tìm quyền trượng mới của Nhị Công Chúa, nhóm Rentt chốt kế hoạch cùng Jean Seebeck khởi hành về Maalt sau hai ngày nữa (sau khi Jean vào triều yết kiến công chúa).
+Cảnh kết thúc: Trở về quán trọ hội ngộ cùng Augurey sau khi Spriggan và Siren rời đi, cả ba tổng kết lại những lợi ích thu được từ biến cố nguy hiểm này và Augurey lưu luyến nói lời chia tay trước ngày nhóm Rentt lên đường về Maalt.
+
+
 
 
 
