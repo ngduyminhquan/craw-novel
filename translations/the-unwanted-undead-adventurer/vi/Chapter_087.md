@@ -2,13 +2,13 @@
 
 "Mùa xuân đến rồi nhỉ..."
 
-Đó là chuyện từ bao giờ ấy nhỉ? Chắc là vài năm sau khi tôi mới bước chân vào nghề mạo hiểm giả? Một ngày mùa xuân nào đó, khi tiết trời bắt đầu ấm dần lên. Tôi nhớ chuyện này xảy ra vào một mùa xuân nào đó như thế.
+Chuyện đó từ bao giờ ấy nhỉ? Chắc là vài năm sau khi tôi mới vào nghề mạo hiểm giả? Lúc ấy đang độ mùa xuân, tiết trời bắt đầu ấm dần lên. Tôi chỉ nhớ mang máng chuyện xảy ra vào một mùa xuân như thế.
 
 Vừa qua là một mùa đông khắc nghiệt, đến không khí cũng như căng cứng lại vì giá rét. Nhưng giờ thì xuân đã sang. Tôi cũng thừa hiểu, đi đánh quái dưới những tia nắng xuân ấm áp, dễ chịu thế này thì sớm muộn gì mình cũng sẽ phạm sai lầm. Thế nên tôi chọn nán lại Maalt, thay vào đó nhận mấy ủy thác đơn giản hơn như dọn dẹp, chở hàng hay khuân vác thực phẩm. Vì thế mà đúng vào lúc các ủy thác mới được dán lên bảng, tôi đã có mặt ở Hội. Chỉ lát sau, tôi nghe thấy giọng nói ấy...
 
 "Này! Thế này là sao chứ?!"
 
-Tiếng nói cất lên từ quầy trả thưởng, nơi các mạo hiểm giả tới nộp ủy thác đã hoàn thành. Đó là giọng của một người còn rất trẻ, và vẻ ngoài của cậu ta trông cũng trẻ tương xứng, một tân binh mạo hiểm giả vừa mới đăng ký vào Hội chưa được bao lâu. Nhìn vẻ mặt cuống cuồng của cậu ta, hẳn là vừa có ủy thác nào đó gặp sự cố rồi.
+Tiếng nói cất lên từ quầy trả thưởng, nơi các mạo hiểm giả tới nộp ủy thác đã hoàn thành. Đó là giọng một thiếu niên trẻ măng, mà người nói trông cũng trẻ đúng như giọng, một tân binh mạo hiểm giả vừa mới ghi tên vào sổ đăng ký của Hội chưa được bao lâu. Nhìn vẻ mặt cuống cuồng của cậu ta, hẳn là vừa có ủy thác nào đó gặp sự cố rồi.
 
 Tôi dỏng tai lên nghe ngóng cuộc trò chuyện.
 
@@ -16,11 +16,11 @@ Tôi dỏng tai lên nghe ngóng cuộc trò chuyện.
 
 "Bụi á? Ý chị 'bụi' là sao chứ?! Tôi dọn chỗ đó rồi mà! Tôi dọn thật rồi mà!"
 
-"Đánh giá thế nào là quyền quyết định cuối cùng của thân chủ, tôi e là vậy."
+"Rất tiếc, đạt hay không là do thân chủ quyết định cuối cùng."
 
 "Chị nói thế nhưng mà! À, tôi hiểu rồi, thấy tôi là người mới nên họ bắt nạt chứ gì?! Nghĩ lại thì dạo trước cũng từng bị y như thế, cũng cùng một cái cớ này chứ đâu!!!"
 
-Qua cuộc đối thoại giữa hai người, tôi hiểu cả cậu mạo hiểm giả lẫn thân chủ đều có vấn đề riêng. Những mạo hiểm giả khắt khe hơn có khi sẽ bảo cậu thanh niên này dại, và là người có lỗi, mà câu chuyện tất nhiên rồi sẽ rẽ sang hướng đó. Dù sao thì, nếu thân chủ quá keo kiệt hay kén chọn, cậu ta đáng lẽ phải đủ khôn ngoan để nhận ra trước khi ký hợp đồng. Đã đặt bút ký vào giấy rồi mà còn than phiền thì cũng chỉ làm mọi chuyện luẩn quẩn tại chỗ thôi, người ta sẽ bảo thế.
+Nghe hai người lời qua tiếng lại, tôi hiểu cả cậu mạo hiểm giả lẫn vị thân chủ đều có vấn đề riêng. Mấy mạo hiểm giả khắt khe hơn chắc sẽ chê cậu nhóc này khờ và bảo lỗi tại cậu ta cả, mà người trong nghề nghĩ thế cũng là lẽ thường. Họ sẽ bảo rằng nếu thân chủ quá keo kiệt hay xét nét thì đáng lẽ cậu ta phải tinh ý nhận ra trước khi nhận việc; chứ giấy trắng mực đen đã ký rồi mới kêu ca thì cũng chỉ luẩn quẩn chẳng giải quyết được gì.
 
 Có điều cậu ta còn trẻ, chưa hiểu nhiều về chuyện trong nghề mạo hiểm giả. Chắc chắn cậu ta sẽ còn thất bại hết lần này đến lần khác cho tới khi rút ra bài học. Dù vậy, cô tiếp tân cũng đang phải chịu một phen vất vả...
 
@@ -98,9 +98,9 @@ Cậu nhóc dường như chẳng tài nào hiểu nổi tại sao chuyện lạ
 
 Dọn dẹp là công việc đơn giản, nhưng lại có rất nhiều cách để làm. Lau từng loại bề mặt ra sao, nên cọ hay nên rửa, rồi làm sao đánh sạch cả những vết bẩn cứng đầu nhất... Tất cả đều là kiến thức cơ bản của việc dọn dẹp nhà cửa. Cậu nhóc không có những kiến thức đó, thành ra làm việc không đạt yêu cầu. Bảo sao tiền thưởng lại bị trừ bớt.
 
-Bù lại, cậu ta chịu khó quan sát những gì tôi làm và cố gắng làm theo hướng dẫn hết sức có thể. Cậu ta học hỏi các phương pháp, chỗ nào không hiểu là hỏi tôi ngay chứ chẳng hề ngại. Chính vì thế mà vị thân chủ lúc nãy mới khen ngợi thái độ làm việc của cậu ta.
+Bù lại, cậu ta chịu khó quan sát những gì tôi làm và cố gắng làm theo hướng dẫn hết sức có thể. Cậu ta chịu khó học cách làm, chỗ nào không hiểu là hỏi tôi ngay chứ chẳng hề ngại. Chính vì thế mà vị thân chủ lúc nãy mới khen ngợi thái độ làm việc của cậu ta.
 
-"Nó là vậy đấy. Kinh nghiệm mới là điều quan trọng. Trước đây cậu có thể từng mắc sai lầm, nhưng từ giờ trở đi cậu sẽ ổn thôi."
+"Là vậy đấy. Kinh nghiệm mới quan trọng. Trước đây cậu có thể từng mắc sai lầm, nhưng từ giờ trở đi cậu sẽ ổn thôi."
 
 "Vâng... Cảm ơn anh, Rentt. À không, cảm ơn tiền bối Rentt... Tôi đã học được từ tiền bối rất nhiều điều."
 
@@ -116,8 +116,8 @@ Dĩ nhiên tôi sẽ làm thế. Tôi chưa bao giờ có ý định ăn chặn 
 
 Tôi vỗ lưng cậu thanh niên, chẳng hiểu sao đang nói cậu ta lại ngừng bặt giữa chừng.
 
-"Được rồi! Quay về Hội thôi nào. Chúng ta vẫn còn phải nộp mấy tờ đơn này nữa. Phải thế mới biết là mình đã thực sự bước chân vào con đường mạo hiểm giả rồi, đúng không?"
+"Được rồi! Quay về Hội thôi nào. Chúng ta vẫn còn phải nộp mấy tờ đơn này nữa. Phải thế mới gọi là thực sự bước chân vào nghề mạo hiểm giả chứ, đúng không?"
 
 "Vâng!"
 
-Vài năm sau, chính cậu thanh niên ấy đã đạt tới cấp bậc Ngân Cấp trước cả tôi, rồi lên đường bước vào một cuộc hành trình, rời xa Maalt. Nhưng có lẽ đó sẽ là câu chuyện dành cho một dịp khác...
+Vài năm sau, chính cậu thanh niên ấy đã thăng lên Ngân Cấp trước cả tôi, rồi rời Maalt lên đường phiêu lưu. Nhưng có lẽ đó sẽ là câu chuyện dành cho một dịp khác...

@@ -16,7 +16,7 @@ Nhưng nếu cứ phải niệm Linpio hết lần này đến lần khác, thì
 
 "Mày không còn cách tấn công nào khác sao, Edel?"
 
-Không nghĩ ra cách nào, tôi quyết định hỏi thẳng ý kiến của Edel. Dù tự mình ra tay có vẻ là lựa chọn tối ưu nhất, tôi nhận ra mình cũng rất cần quan sát cách Edel chiến đấu trên thực địa. Biết đâu chúng tôi lại phối hợp tạo ra được đòn đánh ăn ý nào đó, điều này rất đáng để cân nhắc. Nói đúng hơn, tôi nên tiếp tục quan sát cách Edel xử lý đám quái vật yếu hơn này, rồi tính xem nếu xông vào thì mình nên đứng ở vị trí nào và tấn công ra sao. Tôi muốn có chút thời gian để suy nghĩ. Dường như Edel cũng khựng lại trước lời tôi nói, như thể đang cân nhắc điều gì. Chẳng một lời báo trước, nó nhảy phắt lên, trừng mắt nhìn cái xác Goblin dưới đất... rồi bắn thứ gì đó về phía cái xác. Gần như ngay tức khắc, một vết chém to tướng toạc ngang thi thể con Goblin.
+Không nghĩ ra cách nào, tôi quyết định hỏi thẳng ý kiến của Edel. Dù tự mình ra tay có vẻ là lựa chọn tối ưu nhất, tôi nhận ra mình cũng rất cần quan sát cách Edel chiến đấu trên thực địa. Biết đâu chúng tôi lại phối hợp tạo ra được đòn đánh ăn ý nào đó, điều này rất đáng để cân nhắc. Nói đúng hơn, tôi nên tiếp tục quan sát cách Edel xử lý đám quái vật yếu hơn này, rồi tính xem nếu xông vào thì mình nên đứng ở vị trí nào và tấn công ra sao. Tôi muốn có chút thời gian để suy nghĩ. Dường như Edel cũng khựng lại trước lời tôi nói, như thể đang cân nhắc điều gì. Bất thình lình, nó nhảy phắt lên, trừng mắt nhìn cái xác Goblin dưới đất... rồi bắn thứ gì đó về phía cái xác. Gần như ngay tức khắc, một vết chém to tướng toạc ngang thi thể con Goblin.
 
 "Ma thuật...? Đây là ma pháp hả, Edel?"
 
@@ -28,7 +28,7 @@ Dù vậy, phần lớn quái vật có lẽ bẩm sinh đã biết cách chuy�
 
 Nói cách khác, rất có thể Edel đã vô tình lãnh hội được khả năng biến Ma Lực thành hiện tượng này ở đâu đó. Trong khi Puchi Suri thông thường chẳng làm được gì hơn ngoài một dạng cường hóa cơ thể tương tự như Goblin, thì các nhánh tiến hóa mang thuộc tính của loài chuột lại hơi khác một chút. Lấy ví dụ như loài Fuu Suri, tức Puchi Suri Hỏa. Nó có thể khạc ra những quả cầu lửa nhỏ nhưng dùng được từ trong người, dù chưa từng có ai dạy nó dùng ma pháp. Dẫu vậy, những phép thuật đơn giản mà quái vật bẩm sinh có thể thi triển này tuyệt nhiên không có uy lực quá áp đảo. Mị Nhãn của Ma Cà Rồng, quả cầu lửa tí hon của Fuu Suri, hay đòn thở của Rồng... tất cả đều nhờ vào những cơ quan chuyên biệt nằm ở mắt hoặc cổ họng của chúng. Chính sự hiện diện của các cơ quan ấy mới giúp những đòn tấn công đó phát huy hiệu quả hay uy lực. Cứ cho là có con quái vật nào đó nắm trọn cấu trúc lẫn câu chú chuẩn mực rồi thi triển được ma thuật đi nữa, thì thứ hợp với chúng nhất vẫn cứ là các phép cường hóa cơ thể.
 
-Với Edel, việc sử dụng Ma Lực không phải là điều đáng nói nhất. Bởi nó vốn là một con Puchi Suri không hề có bất kỳ cơ quan chuyên biệt nào, lẽ ra nó không thể làm được trò ban nãy. Nếu phải đoán, có lẽ một vài biến đổi thể chất đã xảy đến với Edel vào khoảnh khắc tôi tiến hóa thành Hạ Cấp Ma Cà Rồng. Nói cho chuẩn thì có lẽ nó chẳng còn là một con Puchi Suri tầm thường nữa. Ít ra đó là suy đoán có cơ sở của tôi. Còn sự biến đổi đó biểu hiện chính xác ở đâu trên người Edel... Chà, thật tình chỉ cần nhìn qua một cái là thấy ngay rồi.
+Trong trường hợp của Edel, vấn đề không nằm ở chỗ nó biết vận dụng Ma Lực hay không. Nó vốn chỉ là một con Puchi Suri chẳng có bất kỳ cơ quan chuyên biệt nào, lẽ ra không thể làm được trò ban nãy. Nếu phải đoán, có lẽ một vài biến đổi thể chất đã xảy đến với Edel vào khoảnh khắc tôi tiến hóa thành Hạ Cấp Ma Cà Rồng. Nói cho chuẩn thì có lẽ nó chẳng còn là một con Puchi Suri tầm thường nữa. Ít ra đó là suy đoán có cơ sở của tôi. Còn sự biến đổi đó biểu hiện chính xác ở đâu trên người Edel... Chà, thật tình chỉ cần nhìn qua một cái là thấy ngay rồi.
 
 Edel trông rất giống tôi.
 
@@ -36,7 +36,7 @@ Nói một cách đơn giản thì... Edel đã mọc ra thứ gì đó như đ�
 
 Dĩ nhiên là chúng chẳng hề mọc từ sau lưng. Đúng hơn là nó mọc ra lớp màng ở mặt dưới cơ thể, kéo dài từ bụng dưới tới tận chân sau, trông na ná như loài sóc bay. Chắc là khi căng lớp màng ấy ra thì nó có thể lượn được.
 
-Tò mò, tôi bảo nó bay thử cho xem, và chẳng bù cho tôi, Edel bay lượn dễ dàng đến bất ngờ. Cấu trúc màng bay của nó nói một cách nhẹ nhàng nhất thì cũng rất kỳ lạ, thế nhưng Edel không chỉ biết lượn mà còn có thể lơ lửng tại chỗ trong êm ắng. So với đôi cánh chỉ biết lơ lửng, lao vùn vụt bạt mạng và cháy bùng lên làm đuốc của tôi, màng bay của Edel rõ ràng ăn đứt về khoản bay lượn.
+Tò mò, tôi bảo nó bay thử cho xem, và chẳng bù cho tôi, Edel bay lượn dễ dàng đến bất ngờ. Cấu trúc màng bay của nó phải nói là hết sức kỳ quặc, thế nhưng Edel không chỉ biết lượn mà còn có thể lơ lửng tại chỗ trong êm ắng. So với đôi cánh chỉ biết lơ lửng, lao vùn vụt bạt mạng và cháy bùng lên làm đuốc của tôi, màng bay của Edel rõ ràng ăn đứt về khoản bay lượn.
 
 Tôi thấy mình có thể ngồi ngẫm nghĩ về chuyện này hơn cả tiếng đồng hồ. Sao lại thế được chứ? Đời thuở nào quyến thuộc lại sở hữu năng lực vượt trội hơn cả chủ nhân? Liệu đây có phải là ý muốn của chư thần? Hay là một quy luật ngầm không sao giải thích nổi của thế giới này?
 
@@ -78,7 +78,7 @@ Chí ít ai cũng sẽ nói vậy... nếu như họ không đang ở sâu trong
 
 "Cảm giác kỳ lạ ghê nhỉ...?"
 
-Thế mà chúng tôi lại đang đứng ở đây, ngay trên tầng hai của Mê Cung Tân Nguyệt.
+Thế mà chúng tôi lại đang đứng ở đây, ngay ở tầng hai của Mê Cung Tân Nguyệt.
 
 Thực chất bên ngoài còn lâu mới tới chiều tối; ngoài mê cung, mặt trời có khi vẫn đang rực rỡ trên đỉnh đầu. Rõ ràng là dòng chảy thời gian bên trong Tân Nguyệt, và có lẽ là ở các mê cung nói chung, chẳng hề trùng khớp với thế giới bên ngoài. Dù từng nghe kể từ trước, nhưng đây là lần đầu tiên tôi thực sự cảm nhận được một tầng mê cung bị lệch giờ giấc, bởi tầng một trước đó vẫn hoàn toàn ăn khớp với bên ngoài.
 
@@ -88,13 +88,13 @@ Tính ra dự định hôm nay của tôi hơi dở, vì tôi tính quay về v�
 
 Còn Edel thì sao nhỉ? Vì là quyến thuộc của tôi nên chắc tầm nhìn ban đêm của nó cũng được tăng cường.
 
-"Orc... Orc... Orc. Mày ở đâu rồi ta?" tôi lẩm bẩm ngân nga như thể đang tụng một câu chú kỳ quặc nào đó, chân rảo bước trên tầng hai của Tân Nguyệt.
+"Orc... Orc... Orc. Mày ở đâu rồi ta?" tôi lẩm bẩm ngân nga như thể đang tụng một câu chú kỳ quặc nào đó, chân rảo bước ở tầng hai của Tân Nguyệt.
 
 Quanh tôi là rừng cây xen lẫn đồng bằng trải dài dưới vòm trời trông tự nhiên như thật. Trông nó bao la đến độ chẳng thể biết bầu trời này kết thúc ở nơi đâu. Tôi nghe nói mạo hiểm giả thỉnh thoảng có thể tìm thấy nơi chân trời chạm mép tầng, nhưng cũng có lúc tìm mỏi mắt cũng chẳng thấy tăm hơi đâu. Chuyện đó nghe bảo là hết sức bình thường.
 
 Dù Orc khác xa người bình thường, nhưng giống Orc thông thường lại có xu hướng đi theo bầy, hoặc chí ít cũng đủ khôn để tụ tập thành từng nhóm nhỏ. Thành ra cứ lần ra một con là sẽ nhanh chóng tìm thấy cả đám. Ngược lại, nếu mạo hiểm giả lỡ bị một con Orc phát hiện thì cầm chắc sẽ phải đối phó với cả mấy con khác cùng lúc. Bởi thế mà khi qua những khu vực này, ai nấy đều phải dọ dẫm từng bước hết sức dè chừng.
 
-Còn tôi lúc này thì lại đang chủ động tìm kiếm đúng cảnh đó. Dĩ nhiên, nếu chạm trán loài Orc cấp cao hơn bu lại đông đúc thì cũng rầy rà to, nhưng đây mới chỉ là tầng hai thôi. Cỡ quái vật đó chẳng có lý do gì lại xuất hiện ở chỗ này. Dù vậy... khả năng một con quái vật dị biệt nào đó xuất hiện lẻ loi trên tầng hai không phải là không có. Nếu xui xẻo gặp phải thì tôi chỉ việc co cẳng chạy là xong.
+Còn tôi lúc này thì lại đang chủ động tìm kiếm đúng cảnh đó. Dĩ nhiên, nếu chạm trán loài Orc cấp cao hơn bu lại đông đúc thì cũng rầy rà to, nhưng đây mới chỉ là tầng hai thôi. Cỡ quái vật đó chẳng có lý do gì lại xuất hiện ở chỗ này. Dù vậy... khả năng một con quái vật dị biệt nào đó xuất hiện lẻ loi ở tầng hai không phải là không có. Nếu xui xẻo gặp phải thì tôi chỉ việc co cẳng chạy là xong.
 
 Có lẽ dạo gần đây mọi sự đều thuận buồm xuôi gió nên tôi suýt nữa quên khuấy mất: nguyên nhân khiến tôi biến thành bộ dạng như bây giờ chính là do đen đủi đụng phải đỉnh cao của muôn loài quái vật, một con Rồng trong truyền thuyết. Những quái vật dị thường cỡ đó hoàn toàn có thể tồn tại, vì chính tôi từng chạm trán một con rồi.
 

@@ -18,13 +18,13 @@ Thành thật mà nói, dường như cách duy nhất để xử lý chuyện n
 
 Tôi còn đang đau đầu nghĩ cách thì bỗng nhiên...
 
-“Chít!!!”
+"Chít!!!"
 
 Cùng với tiếng kêu quen thuộc, Edel vận Ma Lực vào hai chân rồi phóng vút lên thân cây gần đó với tốc độ kinh người, móng vuốt cắm phập vào lớp vỏ cây. Ai ngờ nó lại làm được chuyện đó cơ chứ... Tôi thực sự ngỡ ngàng, một phần vì chính tôi cũng chẳng tài nào bắt chước được. Dù tôi có thử vận Ma Lực vào chân thì việc chạy thẳng lên thân cây như thế cũng khó vô cùng. Đoán chừng Edel đã cường hóa móng vuốt, tạo thêm lực ma sát để vọt đi với tốc độ đó. Còn nếu tôi mà thử làm theo thì mấy cây mảnh khảnh thế này chắc gãy gục chỉ sau vài bước chân mất. Edel làm được vậy cũng là nhờ vóc dáng nhỏ bé của nó.
 
 Chẳng làm gì khác được, tôi đành đứng dưới đất tiếp tục né các đòn tấn công của đàn Kesem Kofu, tiện tay chém đứt bất cứ sợi dây leo nào lọt vào tầm mắt một cách tẻ nhạt hết sức.
 
-“...Khẹc!” “Khẹc khẹccc!!!”
+"...Khẹc!" "Khẹc khẹccc!!!"
 
 Sau vài tiếng kêu the thé từ trên cao, một con Kesem Kofu rơi uỵch xuống đất nghe thật vang. Trên mình con quái vật chằng chịt những vết cào sâu hoắm, nhìn là biết ngay do Edel làm.
 
@@ -70,7 +70,7 @@ Rốt cuộc việc tìm kiếm cứ mãi gian nan, khiến tôi bất giác ư�
 
 Dù từng có thời điểm trong đời Ent Jyulapus là một cái cây bình thường, nhưng giờ nó đã biến thành quái vật. Trừ một vài trường hợp cá biệt, quái vật đa phần đều là lũ sinh vật hung tợn và bạo lực. Nếu bị tập kích hoặc bị một vật thể đánh trúng...
 
-“...JYUUURRRRRRUUUVVVAAA!!!”
+"...JYUUURRRRRRUUUVVVAAA!!!"
 
 Một âm thanh ầm ầm vang lên, thứ âm thanh lẽ ra một cái cây chẳng thể nào phát ra, vọng tới từ một cái cây khá nhỏ cỡ bụi rậm mà lưỡi kiếm của tôi vừa chém trúng. Bình thường thì cành cây với dây leo làm sao cử động được, thế nhưng lúc này chúng đang quăng quật điên cuồng, rõ ràng là đang sống. Chớp mắt sau, chính đám dây leo đó quất vun vút về phía tôi như roi, còn những cành cây thì vươn dài đâm tới tấp tựa như ngọn giáo gỗ. Rõ ràng là cái cây này đã hạ quyết tâm tấn công tôi cho bằng được.
 
@@ -92,7 +92,7 @@ Nghĩ lại thì trước đây tôi hầu như chẳng bị Nước Thánh ản
 
 Tạm gác mấy suy nghĩ lan man về cơ thể mình sang một bên, tôi thấy nhẹ nhõm hơn đôi chút. Chém rụng bớt cành nhánh và dây leo của con quái vật giúp tôi có thêm chút khoảng trống để thở. Mấy cái rễ mọc ra từ đám dây leo đứt đoạn tuy phát triển chậm, nhưng mắt thường vẫn nhìn thấy rõ. Chí ít thì chúng cũng lớn nhanh hơn nhiều so với cây cối bình thường. Liệu cứ mặc kệ thì chúng có mọc thành những con Ent Jyulapus mới không nhỉ...?
 
-Quan trọng hơn lúc này là con quái vật trước mắt. Đúng như vẻ ngoài của nó, Ent Jyulapus là một cái cây đã biến thành quái vật, có thể gọi là một cái cây quái vật biết cử động. Trên một phần thân gỗ đặc biệt dày, có lẽ đánh dấu phần lõi của con quái vật, hiện lên một khuôn mặt hung tợn ngập tràn thù hằn. Trông nó gớm ghiếc vô cùng, nhìn chẳng dễ chịu chút nào. Dây leo quấn dọc theo các cành nhánh và thân cây, còn mắt và miệng nó thì lập lòe thứ ánh sáng mờ ảo mỗi khi nó cử động. Chẳng rõ những thứ này xuất hiện từ lúc nó còn là cây bình thường, hay chỉ mới có sau khi biến thành Ent Jyulapus nữa.
+Quan trọng hơn lúc này là con quái vật trước mắt. Đúng như vẻ ngoài của nó, Ent Jyulapus là một cái cây đã biến thành quái vật, có thể gọi là một cái cây quái vật biết cử động. Trên một phần thân gỗ đặc biệt dày, có lẽ đánh dấu phần lõi của con quái vật, hiện lên một khuôn mặt hung tợn ngập tràn thù hằn. Trông nó gớm ghiếc vô cùng, nhìn chẳng dễ chịu chút nào. Dây leo quấn dọc theo các cành nhánh và thân cây, còn mắt và miệng nó thì lập lòe thứ ánh sáng mờ ảo mỗi khi nó cử động. Chẳng rõ đám dây leo này đã bám vào từ lúc nó còn là cây thường, hay chỉ mới mọc ra sau khi biến thành Ent Jyulapus nữa.
 
 ![](images/ch092-01.webp)
 
@@ -102,7 +102,7 @@ Dù sao thì tôi cũng chẳng biết nhiều về lâm nghiệp và cây cối
 
 Tôi đã vung kiếm chém vào nó khá mạnh, thế mà thân cây không hề gãy hay đứt đôi. Dù tôi có thể vận Ma Lực hoặc Khí Lực vào vũ khí để chém đứt nó, nhưng với hầu hết các loại vật liệu gỗ thì cũng đều như vậy cả. Nói cách khác, tôi chẳng cần phải bận tâm về độ bền hay tính phù hợp của loại gỗ này.
 
-Còn về lượng gỗ thực sự cần... Vì chúng tôi làm đũa phép ngắn nên tôi không nghĩ chúng tôi sẽ dùng quá bốn mươi centimet nguyên liệu thô. Tôi thực sự chẳng cần nhiều hơn thế. Nhưng vì không thể tốn quá nhiều thời gian cho một con quái vật duy nhất, tôi định bụng sẽ lấy luôn vài mẫu nguyên liệu cho mục đích này.
+Còn về lượng gỗ thực sự cần... Vì chúng tôi làm đũa phép ngắn nên mỗi cây chắc cũng chẳng tốn quá bốn mươi phân gỗ thô. Tôi thực sự chẳng cần nhiều hơn thế. Nhưng vì không thể tốn quá nhiều thời gian cho một con quái vật duy nhất, tôi định bụng sẽ cắt lấy luôn vài mẫu gỗ cỡ ấy cho mục đích này.
 
 Sau vài đợt đụng độ liên tiếp với Ent Jyulapus, một điều đã rõ ràng: nó chẳng có đòn tấn công nào đặc biệt. Cùng lắm nó chỉ quăng quật dây leo hoặc lấy cành nhánh đâm tôi, họa chăng áp sát thì tông cả thân vào. Tất cả chỉ có thế. Nếu nó chỉ quanh đi quẩn lại có ngần ấy chiêu thì tấn công tổng lực xem ra rất hợp với mục đích của tôi.
 
@@ -112,13 +112,13 @@ Khoang trống phía sau khuôn mặt con quái vật xem chừng rỗng không,
 
 Nhưng nghĩ lại thì điều đó cũng dễ hiểu. Bởi cái gọi là cốt lõi của con quái vật này là một thể tinh linh phi vật chất. Đòn tấn công vật lý thông thường hầu như chẳng thể gây ra bao nhiêu sát thương cho nó. Dẫu vậy vẫn có cách thuần vật lý để hạ gục Ent Jyulapus, đó là phá hủy hoàn toàn thân cây của nó.
 
-Cách đó hiệu quả là vì thể tinh linh bên trong Ent Jyulapus rất bất ổn, không có nhiều điểm bám víu trên bình diện vật chất. Nếu thân cây mà nó bám vào bị phá hủy, nó sẽ mất đi vật trung gian để kết nối và về cơ bản là ngừng tồn tại. Nhưng đó chẳng phải cách hay nhất để thu hoạch gỗ từ Ent. Dù không thực sự cần quá nhiều gỗ từ con quái vật này, tôi vẫn muốn gom được càng nhiều nguyên liệu càng tốt. Nếu còn thừa gỗ, đem bán cũng được giá gấp mấy lần gỗ thường. Mà trong đầu tôi thì lúc nào cũng tâm niệm chuyện “chắt bóp từng đồng, kiếm thêm tiền vàng”, nên tôi chẳng có ý định phá nát nó bằng đòn vật lý. Vậy thì người ta sẽ dùng thứ gì để đấu với một đối thủ phi vật chất, miễn nhiễm đòn đánh vật lý?
+Cách đó hiệu quả là vì thể tinh linh bên trong Ent Jyulapus rất bất ổn, không có nhiều điểm bám víu trên bình diện vật chất. Nếu thân cây mà nó bám vào bị phá hủy, nó sẽ mất đi vật trung gian để kết nối và về cơ bản là ngừng tồn tại. Nhưng đó chẳng phải cách hay nhất để thu hoạch gỗ từ Ent. Dù không thực sự cần quá nhiều gỗ từ con quái vật này, tôi vẫn muốn gom được càng nhiều nguyên liệu càng tốt. Nếu còn thừa gỗ, đem bán cũng được giá gấp mấy lần gỗ thường. Mà trong đầu tôi thì lúc nào cũng tâm niệm chuyện "chắt bóp từng đồng, kiếm thêm tiền vàng", nên tôi chẳng có ý định phá nát nó bằng đòn vật lý. Vậy thì người ta sẽ dùng thứ gì để đấu với một đối thủ phi vật chất, miễn nhiễm đòn đánh vật lý?
 
 Ma Lực và Khí Lực là những lựa chọn khả thi. Nếu mạo hiểm giả không có một trong hai thứ đó thì không tài nào đánh lại kẻ địch phi vật chất. Thường thì cách hữu hiệu nhất để đối phó với thể tinh linh là Thần Lực. Nhưng người sở hữu Thần Lực lại rất hiếm hoi, và cũng chẳng có phương pháp nào phổ biến để diệt quái vật bằng nguồn năng lượng này.
 
 Dẫu vậy, tôi đã có sẵn kế hoạch trong đầu. Cắm sâu lưỡi kiếm vào hốc mắt nó, tôi dẫn truyền và bọc lấy thanh kiếm của mình bằng Ma Lực. Gần như ngay tức khắc—
 
-“GIGGGIIIAAAYAAA!!!”
+"GIGGGIIIAAAYAAA!!!"
 
 Một tiếng rít the thé vang lên từ cái miệng hở trông khá rợn người của Ent Jyulapus. Khi tiếng rít lịm dần, một chất màu đen mỏng manh tỏa ra từ thân xác con Ent tựa như một vệt khói, rồi tan biến hoàn toàn vào không khí. Cùng với đó, ánh sáng nơi mắt và miệng con Ent cũng từ từ lụi tắt. Khi độ căng cứng biến mất khỏi đám cành nhánh và dây leo, con quái vật đổ gục xuống, thân xác nó rơi xuống đất nghe bịch một tiếng.
 
@@ -126,4 +126,4 @@ Tôi cho rằng nó đã bị tiêu diệt.
 
 Đám dây leo dưới đất cũng không còn đâm rễ nhanh như trước nữa, quay trở lại tốc độ sinh trưởng bình thường hơn. Ít nhất thì từ chỗ tôi đứng, mắt thường không còn phân biệt được chuyện chúng đang lớn thêm.
 
-Thân xác chính của Ent Jyulapus giờ đang nằm nghiêng một bên, hầu như chẳng hề sứt mẻ. Tôi có thể tự tin nói rằng số nguyên liệu thu được từ cái xác không hồn này là quá dư dả. Sau khi đảo mắt nhìn quanh một lượt xác nhận không có quái vật nào gần đây, tôi tiến lại thu gom số nguyên liệu mà mình đã cất công tới lấy.
+Thân gỗ chính của Ent Jyulapus giờ đang nằm nghiêng một bên, hầu như chẳng hề sứt mẻ. Tôi có thể tự tin nói rằng số nguyên liệu thu được từ cái vỏ xác bất động này là quá dư dả. Sau khi đảo mắt nhìn quanh một lượt xác nhận không có quái vật nào gần đây, tôi tiến lại thu gom số nguyên liệu mà mình đã cất công tới lấy.

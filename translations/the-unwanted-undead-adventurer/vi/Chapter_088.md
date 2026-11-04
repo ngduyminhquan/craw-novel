@@ -16,7 +16,7 @@
 
 ![](images/ch088-08.webp)
 
-Tự dưng tôi lại có chút thời gian rảnh rỗi. Hôm nay Hội Mạo Hiểm Giả gọi tôi tới, chắc hẳn là để thanh toán tiền bán xác Tarasque. Nghĩ vậy, tôi lên kế hoạch ghé qua chỗ thợ rèn, thợ làm giáp, rồi cuối cùng tạt qua cả một tiệm tạp phẩm. Để làm được vậy, tôi đã thu xếp thời gian dư dả cho xong xuôi mọi việc. Bán xác Tarasque đúng là được một món khá, ngặt nỗi số tiền nhận về lại chẳng thấm vào đâu so với cái lịch trình mua sắm vung tay mà ban đầu tôi vạch ra cho ngày hôm nay.
+Tự dưng tôi lại thành ra rảnh rỗi. Hôm nay Hội Mạo Hiểm Giả nhắn tôi tới, tôi đoán chắc là đến hẹn thanh toán tiền bán xác Tarasque. Nghĩ vậy nên tôi đã lên kế hoạch ghé qua chỗ thợ rèn, thợ làm giáp, rồi cuối buổi tạt qua cả tiệm tạp phẩm, và thu xếp dư dả thời gian cho xong xuôi mọi việc. Thế mà dù bán phần xác Tarasque cũng thu được một khoản kha khá, số tiền nhận về lại chẳng thấm vào đâu so với cái lịch trình mua sắm vung tay mà ban đầu tôi vạch ra cho ngày hôm nay.
 
 À phải rồi. Đúng là lỗi tại tôi tính sót...
 
@@ -28,7 +28,7 @@ Chết tiệt thật.
 
 Đã vậy, mấy bộ đồ cũ của tôi vốn đã sờn rách và đang rất cần được sửa lại. Hồi mới vào nghề mạo hiểm thu nhập còm cõi, tôi hiếm khi mua sắm thứ gì thừa thãi, chưa kể bộ đồ trên người này đã theo tôi suốt một thời gian dài, qua cả hai lần tiến hóa thành Ngạ Quỷ rồi Thi Quỷ. Nói một cách nhẹ nhàng nhất thì chúng bẩn kinh khủng, lại còn dính đủ thứ cặn bã khác thường vào từng thớ vải. Dù sao thì máu me với thịt vụn đâu phải thứ bình thường xuất hiện trên quần áo.
 
-Ngày nào tôi cũng giặt giũ đấy chứ... nhưng vấn đề không nằm ở chỗ đó. Giờ đây trông tôi đã chẳng khác gì người bình thường, nên chỉ nghĩ đến chuyện tiếp tục khoác lên mình bộ đồ từng mặc hồi còn mang hình dạng giống quái vật hơn... chà, nói thế nào cũng thấy khó lòng chấp nhận được. Nhân dịp này, tôi mới lên đường đi sắm đồ mới thay thế.
+Ngày nào tôi cũng giặt giũ đấy chứ... nhưng vấn đề không nằm ở chỗ đó. Giờ đây trông tôi đã chẳng khác gì người bình thường, nên chỉ nghĩ đến chuyện tiếp tục khoác lên mình bộ đồ từng mặc hồi còn mang hình dạng giống quái vật hơn... chà, nói thế nào cũng thấy khó lòng chấp nhận được. Nhân dịp này, tôi mới tính đi sắm đồ mới thay thế.
 
 Tiếc là... mọi chuyện lại chẳng được như ý.
 
@@ -52,7 +52,7 @@ Cách cơ bản nhất để một mạo hiểm giả tiết kiệm tiền là g
 
 À phải rồi, tự cung cấp nguyên liệu. Khi muốn làm trang bị mới, mạo hiểm giả có thể tự tay đi gom rồi đem nguyên liệu phù hợp tới cho thợ.
 
-Ít nhất thì tôi từng tính thế. Nhưng ngặt nỗi cơ thể tôi hiện giờ rất dị biệt, đồ tôi cần hầu hết đều phải đặt làm theo yêu cầu riêng, nên xét một cách nhẹ nhàng nhất thì việc tự kiếm nguyên liệu phù hợp cũng khó khăn vô cùng.
+Ít nhất thì tôi từng tính thế. Nhưng ngặt nỗi cơ thể tôi hiện giờ rất dị biệt, đồ tôi cần hầu hết đều phải đặt làm theo yêu cầu riêng, nên có nói nhẹ đi nữa thì chuyện tự đi kiếm nguyên liệu phù hợp cũng khó nhằn vô cùng.
 
 Như thanh kiếm của tôi chẳng hạn: một món vũ khí có khả năng dẫn truyền cả Ma Lực, Khí Lực lẫn Thần Lực. Muốn làm ra thứ như vậy chắc chắn không thể thiếu những nguyên liệu quý hiếm, khó tìm. Đã vậy, thợ thủ công mấy ai lại sốt sắng đi giải thích cặn kẽ cho mạo hiểm giả biết trang bị của họ được chế tạo thế nào. Thế nên tôi mới bí, vì ngay từ đầu tôi còn chẳng biết phải mang thứ gì đến cho thợ. Tôi có thể tới đặt hàng rồi chờ xưởng bảo cần kiếm thứ gì; dẫu vậy, trừ phi được dặn rõ ràng, tôi cũng chẳng dám tự tiện đoán mò. Bởi lẽ, chỉ thợ lành nghề mới biết họ cần những gì để chế tác một món đồ. Thành thử ý định tiết kiệm chi phí rèn vũ khí và trang bị cho bản thân trở nên hết sức nan giải.
 

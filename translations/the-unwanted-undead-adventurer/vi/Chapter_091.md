@@ -76,7 +76,7 @@ Nghĩ bụng như thế, tôi đứng lặng quan sát bãi chiến trường tr
 
 Giờ là lúc xẻ thịt; xác lũ Orc Binh cần được pha lóc cẩn thận. Đã vượt trội hơn hẳn đồng loại thông thường thì chất lượng thịt của chúng gần như chắc chắn cũng thơm ngon tương xứng.
 
-Bình thường người ta chỉ gặp Orc Binh ở tít cuối tầng hai hoặc trên tầng ba của mê cung này. Vậy cớ sao tận ba con lại mò ra chỗ này chứ...? Nghĩ kỹ thì chuyện đó cũng không phải là không thể. Có lẽ chúng đã tiến hóa nhờ tích lũy thời gian và kinh nghiệm như tôi. Chí ít đó là giả thuyết hợp lý nhất.
+Bình thường người ta chỉ gặp Orc Binh ở tít cuối tầng hai hoặc dưới tầng ba của mê cung này. Vậy cớ sao tận ba con lại mò ra chỗ này chứ...? Nghĩ kỹ thì chuyện đó cũng không phải là không thể. Có lẽ chúng đã tiến hóa nhờ tích lũy thời gian và kinh nghiệm như tôi. Chí ít đó là giả thuyết hợp lý nhất.
 
 Trang bị và vũ khí của chúng chắc cũng vậy, có lẽ là nhặt nhạnh từ những mạo hiểm giả bỏ mạng. Dù sao Orc cũng có chút trí khôn, việc này nằm trong khả năng của chúng.
 
@@ -100,7 +100,7 @@ Tôi nhớ lại danh sách Lorraine đưa. Món cô ấy dặn lấy là Ma Tin
 
 Về lâu dài, có thể Alize sẽ cần đến vật dẫn ma pháp dạng đeo như nhẫn hay vòng tay, nhưng làm mấy món đó tốn kém lắm. Vì chế tác đồ đeo rất cầu kỳ nên Lorraine mới chọn đũa phép, cô bảo cho nhu cầu hiện tại thế là đủ rồi.
 
-Dù đã nhận Alize làm đệ tử, nhưng đâu có gì bảo đảm cô bé sẽ đi theo con đường mạo hiểm giả. Thế nên tốt nhất là đừng bắt con bé gánh nợ nần không cần thiết. Chỉ cần tôi kiếm được Ma Tinh từ tầng ba trở xuống cùng nguyên liệu từ Ent Jyulapus, Alize hoàn toàn có thể tự tay làm ra vật dẫn ma pháp cần dùng.
+Dù đã nhận Alize làm đệ tử, nhưng đâu có gì bảo đảm cô bé sẽ đi theo con đường mạo hiểm giả. Thế nên tốt nhất là đừng bắt cô bé gánh nợ nần không cần thiết. Chỉ cần tôi kiếm được Ma Tinh từ tầng ba trở xuống cùng nguyên liệu từ Ent Jyulapus, Alize hoàn toàn có thể tự tay làm ra vật dẫn ma pháp cần dùng.
 
 Vấn đề đau đầu nhất là liệu tôi có hạ nổi một con Ent Jyulapus hay không... Tôi chưa từng một mình đọ sức với loài này bao giờ. Dù đã đọc kỹ tài liệu ở chỗ Lorraine và được cô ấy giải thích cặn kẽ về năng lực của nó, tôi vẫn sớm nhận ra con quái vật này chẳng dễ xơi chút nào. Đối phó với lũ quái vật khỏe nhưng đơn giản như Orc thì còn dễ tính, chứ Ent Jyulapus lại thuộc dạng mộc nguyên tố, muốn vạch chiến thuật trị chúng không phải chuyện đơn giản. Tôi mang thân xác và thể chất Undead nên chắc không chịu tác động xấu gì mấy; dẫu vậy, khó khăn ra sao thì phải tự mình đánh thử mới lường được.
 

@@ -1,6 +1,6 @@
 # Chương 86: Ngoại truyện Tập 3 - Chuyện Hồn Ma Và Thú Cưng
 
-"...Hình như có ma xuất hiện..." Lorraine nói, vẻ mặt hết sức nghiêm túc.
+"...vẻ như có một con ma vừa xuất hiện..." Lorraine nói, vẻ mặt hết sức nghiêm túc.
 
 Tôi ngẩng lên khỏi cuốn sách đang đọc, nhìn kỹ nét mặt cô.
 
@@ -10,7 +10,7 @@ Tôi ngẩng lên khỏi cuốn sách đang đọc, nhìn kỹ nét mặt cô.
 
 Nhưng Lorraine vẫn bình thản nhắc lại.
 
-"Hình như có ma..."
+"Có vẻ như có một con ma vừa..."
 
 Tôi giơ tay lên, ngắt ngang lời cô.
 
@@ -18,7 +18,7 @@ Tôi giơ tay lên, ngắt ngang lời cô.
 
 "Hiểu nhau rồi thì tốt, Rentt. Thế nào? Anh nghĩ sao?"
 
-"Tôi... nghĩ sao ư? Thì lúc nào tiện đi xử lý nó thôi chứ sao? Dùng chút ma pháp thanh tẩy chẳng hạn? Theo tôi nhớ thì ma bình thường, đến cả ma pháp thông thường cũng đủ tiễn nó siêu thoát rồi mà..."
+"Tôi... nghĩ sao ư? Thì lúc nào tiện đi xử lý nó thôi chứ sao? Dùng chút ma pháp thanh tẩy chẳng hạn? Theo tôi nhớ thì nếu là ma bình thường, dùng ma pháp thông thường cũng tiễn nó đi được rồi mà..."
 
 Chẳng việc gì phải hốt hoảng hay sợ hãi cả. Dù sao cũng chỉ là một con ma thôi. Hồi còn nhỏ có khi tôi sợ thật, chứ giờ đã là người lớn rồi.
 
@@ -26,7 +26,7 @@ Ma hiện hình vốn là hiện tượng tự nhiên, lại luôn có cách ti�
 
 Thế thì... vấn đề nằm ở đâu chứ? Sao mặt cô lại nghiêm trọng thế kia?
 
-"Anh nghĩ thế cũng phải thôi... Nhưng nếu tiêu diệt nó bằng ma thuật, chúng sẽ phát ra cái tiếng hú hét kinh khủng đó, đúng chứ?"
+"Nghĩ thế cũng phải thôi... Nhưng nếu dùng ma thuật tiêu diệt, chúng sẽ tru lên cái tiếng kinh khủng đó còn gì?"
 
 Nói cũng phải... Chẳng ai rõ ma có biết đau hay không. Có điều, khi bị ma thuật đánh trúng, chúng thường phát ra những tiếng gào thét chói tai. Đó là lý do việc trừ tà vào ban đêm, nói một cách nhẹ nhàng nhất, là phiền toái vô cùng. Hàng xóm quanh đó hẳn cũng sẽ đồng tình. Thế nên mấy ủy thác dạng này còn kèm theo cả việc phải đi một vòng xin lỗi trước toàn bộ những ai sống quanh tòa nhà bị ma ám.
 
@@ -82,7 +82,7 @@ Lorraine bước lên trước, và sau vài câu trao đổi ngắn với ngư�
 
 "Ôi cảm ơn, cảm ơn hai vị rất nhiều vì đã tới... Ô? Còn vị này là ai vậy...?"
 
-"À, vâng. Đây là mạo hiểm giả sẽ thực hiện việc thanh tẩy."
+"À, phải rồi. Đây là mạo hiểm giả sẽ làm lễ thanh tẩy."
 
 Vị thân chủ dường như đã yên tâm trước lời giải thích của Lorraine, liền bước một bước về phía tôi. Nhìn cử chỉ của bà, có vẻ bà đang muốn... bắt tay. Trông bà đúng chuẩn một quý phu nhân vô cùng giàu có, mà thực tế cũng đúng là như thế.
 
@@ -92,7 +92,7 @@ Vị thân chủ dường như đã yên tâm trước lời giải thích của
 
 Lorraine quay sang tôi. "Là một con quái vật đấy, Rentt. Phu nhân Emilstead đây coi nó như người thân trong nhà... Một biến thể của Puchi Suri..."
 
-Từ "biến thể" trong trường hợp này ám chỉ tính hung dữ đã giảm bớt, hoặc sở hữu vẻ ngoài dễ thương, được tối ưu hóa để thu hút con người.
+Từ "biến thể" ở đây ý nói giống chuột đã bớt hung dữ đi, hoặc có ngoại hình dễ thương, rất hợp mắt con người.
 
 Ra là thế. Giờ thì tôi hiểu rồi.
 
@@ -116,7 +116,7 @@ Tôi thấy chuyện này có phần hơi đơn giản quá mức...
 
 ◆◇◆◇◆
 
-"Thế nào, Rentt. Nhờ vụ này mà việc thu thập tin tức từ gia đình đó đã trở nên quá đỗi dễ dàng rồi," Lorraine lên tiếng sau khi chúng tôi rời khỏi tòa dinh thự.
+"Thế là xong nhé, Rentt. Nhờ vụ này mà chuyện lấy tin tức từ nhà đó dễ như trở bàn tay rồi," Lorraine lên tiếng sau khi chúng tôi rời khỏi tòa dinh thự.
 
 "Ý cô là sao?"
 
@@ -126,7 +126,7 @@ Chẳng lẽ ý Lorraine là con ma kia...?
 
 "Cô thân thiết với Edel tới mức này từ bao giờ thế...?"
 
-"Không, cũng không hẳn thế đâu. Sự thật đơn giản hơn một chút. Dinh thự đó có kết giới bao quanh, do một loại ma cụ nào đó tạo ra. Tôi tình cờ đi ngang qua và thấy một con Puchi Suri liên tục lấy thân mình húc vào kết giới. Thấy hành vi của nó thú vị, tôi đứng quan sát con chuột một lúc, để rồi thấy Edel xuất hiện và bắt đầu ra chỉ thị cho nó. Tôi bèn lại gần hỏi xem nó có muốn vào trong dinh thự không... thế nên tôi mới ngỏ ý giúp đỡ, như tôi vừa nói đấy."
+"Không, cũng không hẳn thế đâu. Sự thật đơn giản hơn một chút. Dinh thự đó có kết giới bao quanh, do một loại ma cụ nào đó tạo ra. Tôi tình cờ đi ngang qua và thấy một con Puchi Suri cứ lao người húc vào kết giới hết lần này tới lần khác. Thấy nó làm trò lạ lùng, tôi đứng nhìn một lúc thì bắt gặp Edel xuất hiện rồi đứng chỉ trỏ ra lệnh cho con chuột kia. Tôi bèn lại gần hỏi xem nó có muốn vào trong dinh thự không... thế nên tôi mới ngỏ ý giúp đỡ, như tôi vừa nói đấy."
 
 "Gì cơ, giờ cô còn hiểu được cả nó nói gì nữa à?"
 

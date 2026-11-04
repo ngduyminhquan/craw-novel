@@ -26,7 +26,7 @@ Ngao ngán ra mặt.
 
 "Được rồi, được rồi. Tôi công nhận chuyện này cũng có lợi, và đây cũng chẳng phải tình huống có thể làm ngơ bỏ qua. Nhưng anh hãy nghĩ mà xem, Rentt: nguy cơ thân phận thật của anh bị bại lộ là hoàn toàn có thật đấy. Trong trường hợp này... đó là bất lợi duy nhất, nhưng lại cực kỳ lớn."
 
-Tôi khó lòng phản bác lý lẽ của cô. Nhưng chừng nào còn sống ở Maalt thì sớm muộn gì tôi cũng phải đối mặt với một trong hai vấn đề đó. Nghĩ vậy, tôi lại thấy cứ mạnh dạn xúc tiến vụ đấu giá này mới là hướng đi đúng.
+Tôi khó lòng phản bác lý lẽ của cô. Nhưng chừng nào còn sống ở Maalt thì sớm muộn gì tôi cũng phải đối mặt với cả hai vấn đề đó. Nghĩ vậy, tôi lại thấy cứ mạnh dạn xúc tiến vụ đấu giá này mới là hướng đi đúng.
 
 Tôi đem những suy nghĩ ấy nói với Lorraine.
 
@@ -86,7 +86,7 @@ Giờ thì tôi đã hiểu bản thân mình hiếm hoi đến mức nào. Ch�
 
 Đáng sợ thật đấy...
 
-Nói đơn giản thì các nguyên liệu Ma Cà Rồng lưu hành ở vùng này hoặc là được thu hoạch từ một thủ lĩnh, hoặc từ những con Hạ Cấp Ma Cà Rồng không bị cấp trên tước đoạt sức mạnh khi bị bắt. Còn về chiếc lọ tôi nhận được từ Gia tộc Latuule, tôi không thể chắc chắn tuyệt đối. Dẫu vậy, cho đến nay tôi chưa từng cảm nhận thấy bất kỳ sự hiện diện nào chi phối tâm trí mình, nên tôi đoán đó hẳn là máu từ trường hợp thứ hai. Tất nhiên, vẫn luôn có khả năng là do tôi ở quá xa, hoặc các nguồn sức mạnh bên trong cơ thể tôi đang chủ động kháng cự lại sự chi phối đó... Dù thế nào đi nữa, chừng nào nó vẫn còn ngủ yên hoặc nằm trong tầm kiểm soát, thì cũng chẳng có ích gì khi cứ lo lắng thái quá về chuyện đó.
+Nói đơn giản thì các nguyên liệu Ma Cà Rồng lưu hành ở vùng này hoặc là được thu hoạch từ một thủ lĩnh, hoặc từ những con Hạ Cấp Ma Cà Rồng không bị cấp trên tước đoạt sức mạnh khi bị bắt. Còn về chiếc lọ tôi nhận được từ Gia tộc Latuule, tôi không thể chắc chắn tuyệt đối. Dẫu vậy, cho đến nay tôi chưa từng cảm thấy có kẻ nào chi phối tâm trí mình, nên tôi đoán đó hẳn là máu từ trường hợp thứ hai. Tất nhiên, vẫn luôn có khả năng là do tôi ở quá xa, hoặc các nguồn sức mạnh bên trong cơ thể tôi đang chủ động kháng cự lại sự chi phối đó... Dù thế nào đi nữa, chừng nào nó vẫn còn ngủ yên hoặc nằm trong tầm kiểm soát, thì cũng chẳng có ích gì khi cứ lo lắng thái quá về chuyện đó.
 
 Laura từng cảnh báo tôi về những nguy hiểm liên quan, nên nếu có chuyện gì xảy ra... tôi đành tới đâu hay tới đó vậy. Vào thời điểm ấy, tôi có cảm giác mình sẽ không thể nào đạt tới giai đoạn Tiến Hóa Bản Thể tiếp theo nếu không uống cạn thứ chất lỏng trong chiếc lọ đó. Rốt cuộc, tôi đã chẳng thể tìm ra bất kỳ giải pháp hay con đường tiến bước nào khác, và giờ sự đã rồi thì có hối hận cũng chẳng dẫn tôi tới đâu.
 
@@ -96,7 +96,7 @@ Nói rồi, Lorraine liệt kê một tràng những thứ cô cần, bao gồm 
 
 "Cô cũng đang tính tặng Alize món gì đó sao?"
 
-"Đúng thế. Đã dạy con bé con đường của một pháp sư... thì chắc chắn con bé sẽ cần một vật dẫn ma pháp, thậm chí là vài món. Ngay từ đầu, tôi cũng đã dự định sẽ giảng vài bài về cách chế tạo vật dẫn ma pháp rồi... thế nên mới cần chỗ nguyên liệu này."
+"Đúng thế. Đã dạy cô bé con đường của một pháp sư... thì chắc chắn cô bé sẽ cần một vật dẫn ma pháp, thậm chí là vài món. Ngay từ đầu, tôi cũng đã dự định sẽ giảng vài bài về cách chế tạo vật dẫn ma pháp rồi... thế nên mới cần chỗ nguyên liệu này."
 
 "Thảo nào cô lại nhờ kiếm tới vài phần nguyên liệu giống hệt nhau..."
 
@@ -108,9 +108,9 @@ Tất nhiên tôi cũng có chân trong tiết học đó; dẫu sao thì số n
 
 Nghe cách Lorraine nói, tôi hiểu rằng tự tay chế tạo ngay từ món vật dẫn đầu tiên không phải chuyện một pháp sư tầm thường nào cũng làm được. Làm vật dẫn ma pháp đòi hỏi kỹ thuật và tay nghề nhất định, nên ngay cả một món cơ bản với công năng trung bình cũng chẳng dễ chút nào. Lorraine chịu khó dạy Alize làm chuyện đó... chắc cũng vì muốn cô học trò nhỏ tìm thấy niềm vui trong những giờ học và rèn luyện. Chính tôi cũng mong Alize học hành vui vẻ.
 
-"Chẳng phải anh cũng đang làm y hệt đấy sao, Rentt?" Lorraine nói tiếp. "Anh lấy cớ đi kiếm nguyên liệu là để tiết kiệm chút tiền, nhưng có thật chỉ vì thế thôi không? Nếu anh chỉ muốn có tiền bỏ túi thì bán một hai lọ máu chẳng phải đã dư dả rồi sao. Vậy mà anh lại chọn tự tay đi gom nguyên liệu, tất cả chỉ để rèn một món vũ khí làm quà tặng Alize. Thế là rốt cuộc hai đứa mình lại làm y như nhau. Nghĩ cũng lạ thật đấy..."
+"Chẳng phải anh cũng đang làm y hệt đấy sao, Rentt?" Lorraine nói tiếp. "Anh lấy cớ đi kiếm nguyên liệu là để tiết kiệm chút tiền, nhưng có thật chỉ vì thế thôi không? Nếu anh chỉ muốn có tiền bỏ túi thì bán một hai lọ máu chẳng phải đã dư dả rồi sao. Vậy mà anh lại chọn tự tay đi gom nguyên liệu, tất cả chỉ để rèn một món vũ khí làm quà tặng Alize. Thế là rốt cuộc hai chúng ta lại làm y như nhau. Lạ thật đấy..."
 
-Kỳ lạ ư? Có thật là vậy không nhỉ...? Không, tôi không nghĩ thế.
+Lạ ư? Có thật là vậy không nhỉ...? Không, tôi không nghĩ thế.
 
 "Chẳng phải đó là điều mà bất kỳ người thầy nào cũng sẽ làm cho học trò của mình sao? Thực tế, người ta nói rằng từ xa xưa từng có truyền thống là món vũ khí đầu tiên của người học trò sẽ là món quà do chính người thầy trao tặng đấy."
 
@@ -124,7 +124,7 @@ Lorraine mỉm cười trước đề xuất của chính mình.
 
 Và thế là tôi đã đặt chân tới Mê Cung Tân Nguyệt. Tất nhiên, tất cả chuyến đi này đều vì mục đích thu thập nguyên liệu để chế tạo vũ khí cho Alize.
 
-Khô Lâu và Slime là cảnh tượng thường thấy ở tầng một, còn Orc xuất hiện ở tầng hai, đó là cách đặt tên cho những khu vực phân tầng này. Vì tổng số tầng của mê cung vẫn là một ẩn số, nên tôi không biết phải gọi tầng sâu nhất của nó là gì. Dù thế nào đi nữa, đây cũng là một mê cung khá sâu. Trái lại, Mê Cung Nguyệt Ảnh dường như kết thúc ngay ở tầng đầu tiên... nếu không tính các khu vực chưa ai biết tới và cái cổng dịch chuyển kỳ lạ kia, tôi đoán vậy, nhưng chuyện đó chẳng liên quan ở đây. Trong nhận thức chung của mọi người, đó là tầng duy nhất được biết đến của Mê Cung Nguyệt Ảnh.
+Các khu vực tách biệt trong mê cung được gọi tên theo từng tầng: tầng một thường thấy Khô Lâu và Slime, còn tầng hai là chỗ của lũ Orc. Vì tổng số tầng của mê cung vẫn chưa ai rõ, nên tôi cũng không biết phải gọi tầng sâu nhất của nó là tầng mấy. Dù thế nào đi nữa, đây cũng là một mê cung khá sâu. Trái lại, Mê Cung Nguyệt Ảnh dường như kết thúc ngay ở tầng đầu tiên... nếu không tính các khu vực chưa ai biết tới và cái cổng dịch chuyển kỳ lạ kia, tôi đoán vậy, nhưng chuyện đó chẳng liên quan ở đây. Trong nhận thức chung của mọi người, đó là tầng duy nhất được biết đến của Mê Cung Nguyệt Ảnh.
 
 "Thời khắc tỏa sáng của mình... Chẳng biết là khi nào và ở đâu nữa..." Tôi lẩm bẩm vu vơ một mình.
 
