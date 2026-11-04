@@ -74,6 +74,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 
 - (1–5) Rentt bị rồng ăn thịt, thức tỉnh thành Khô Lâu rồi tiến hóa thành Ngạ Quỷ. Giọng kể mang đậm tính độc thoại phân tích logic, chấp nhận thực tế nhanh chóng, kiên trì không bỏ cuộc dù biến thành Undead.
 - (5) Cột mốc Tiến Hóa Bản Thể từ Khô Lâu thành Ngạ Quỷ: Rentt bắt đầu có da thịt khô bọc xương, tập phát âm tiếng người dù còn ngọng và đứt quãng; tâm lý Rentt giằng xé giữa khao khát được gặp lại đồng loại ("thèm hơi người") và sự dè chừng bị mạo hiểm giả tấn công vì diện mạo quái vật.
+- (6) Rentt lần đầu chạm trán một mạo hiểm giả con người (Rina Rupaage) trong hình hài Ngạ Quỷ. Giọng kể làm nổi bật phẩm chất tiền bối giàu kinh nghiệm, sự khôn khéo đường phố và tinh thần tương trợ giữa các mạo hiểm giả, tương phản với ngoại hình quái vật đáng sợ khiến đối phương khiếp hãi.
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.

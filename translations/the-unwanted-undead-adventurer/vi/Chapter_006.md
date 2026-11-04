@@ -1,105 +1,105 @@
 # Chương 6: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (1)
 
-"...Aaaa!!"
+"...Aaa!!"
 
-Đang vung vũ khí về phía một con Khô Lâu là một cô gái trẻ, tiếng thét của cô dường như còn dồn nhiều sức lực hơn cả cú vung kiếm.
+Một cô gái trẻ đang vung vũ khí về phía con Khô Lâu, tiếng hét nghe chừng còn dồn nhiều lực hơn cả nhát chém.
 
-Chất lượng trang bị của cô gái—hay đúng hơn là sự nghèo nàn của nó—là điều đầu tiên đập vào mắt tôi. Cô khoác trên mình bộ giáp rẻ tiền, đi kèm một thanh kiếm một tay cũng rẻ tiền không kém. Cô chắc chắn là một mạo hiểm giả Thiết Cấp mới vào nghề.
+Điều đầu tiên đập vào mắt tôi là mớ trang bị của cô gái, hay nói đúng hơn là sự nghèo nàn thiếu thốn của chúng. Cô mặc bộ giáp rẻ tiền, tay cầm thanh kiếm một tay cũng xoàng xĩnh chẳng kém. Chắc chắn đây là một mạo hiểm giả Thiết Cấp mới vào nghề.
 
-Có lẽ cũng nên nói thêm rằng tôi rất quen mặt các mạo hiểm giả đồng nghiệp, ít nhất là những người cư trú tại Maalt. Thế nhưng cô gái này lại là một gương mặt xa lạ—đó là lý do tôi đoán vậy.
+Cũng phải nói thêm, tôi vốn nhẵn mặt giới mạo hiểm giả đồng nghiệp, ít nhất là những ai sống ở Maalt. Đằng này cô gái trước mặt lại là một gương mặt xa lạ, nên tôi mới đoán thế.
 
-Dù các mạo hiểm giả Thiết Cấp một ngày nào đó sẽ vượt qua tôi và chẳng qua chỉ được xem là những đối thủ cạnh tranh tiềm tàng, tôi vẫn luôn chủ động nhớ mặt và làm quen với họ—đơn giản vì đó là cách để tôi ngăn chặn dòng mạo hiểm giả bất tận chực chờ đem sự thiếu tài năng của tôi ra làm trò cười. Tôi luôn chú ý kết thân với họ ngay tại chỗ, đồng thời ghi nhớ địa vị xã hội cùng các mối quan hệ của họ trước khi đường ai nấy đi.
+Dù đám mạo hiểm giả Thiết Cấp sớm muộn gì cũng sẽ vượt mặt tôi và chỉ coi tôi như đối thủ cạnh tranh, tôi vẫn luôn nhớ mặt và tìm cách làm quen với họ. Làm vậy cốt chỉ để chặn trước cái cảnh hết lớp này đến lớp khác chực đem sự bất tài của tôi ra làm trò cười. Tôi luôn chủ động kết thân ngay từ đầu, tiện thể ghi nhớ xuất thân cùng các mối quan hệ của họ rồi mới ai đi đường nấy.
 
-Thật thú vị là dẫu hoàn toàn không có tài năng làm mạo hiểm giả, bù lại tôi được trời phú cho một trí nhớ tốt và sự khôn lanh từng trải, cho phép tôi dễ dàng đi trước một bước đối với bất kỳ mạo hiểm giả Thiết Cấp nào có ý đồ mờ ám. Nhờ đó, sự khôn khéo của tôi thậm chí còn được các mạo hiểm giả cấp cao hơn ở Maalt biết đến, và hầu như chẳng ai thèm kiếm chuyện với tôi. Điều này có lẽ một phần cũng nhờ Maalt chủ yếu là nơi tụ hội của những mạo hiểm giả có nhân phẩm tốt.
+Buồn cười ở chỗ, dù chẳng có chút năng khiếu nào trong nghề mạo hiểm giả, bù lại tôi được trời phú cho trí nhớ tốt cùng sự khôn ngoan lọc lõi, đủ để dễ dàng đi trước một bước trước bất kỳ tay Thiết Cấp nào tính giở trò mờ ám. Nhờ vậy, tiếng khôn ngoan của tôi lan tới cả tai các mạo hiểm giả cấp cao ở Maalt, nên hầu như chẳng ai thèm kiếm chuyện với tôi. Có lẽ cũng một phần nhờ mạo hiểm giả ở Maalt đa số đều là người đàng hoàng.
 
-Ngoài ra, tôi cũng luôn chú ý uốn nắn đạo đức cho những mạo hiểm giả có tính khí xấu ngay từ khi họ mới vào nghề. Việc này mang lại hiệu quả lâu dài, dần dà tạo hiệu ứng lan tỏa giúp cải thiện nhân cách chung của giới mạo hiểm giả tại Maalt. Đó là một trong những lý do khiến Hội Mạo Hiểm Giả suốt bấy lâu nay chưa từng yêu cầu tôi gác kiếm, dù tôi đã giậm chân tại chỗ ở một trong những cấp bậc mạo hiểm giả thấp nhất gần cả thập kỷ.
+Chưa kể, tôi còn hay răn dạy đạo đức cho những kẻ xấu tính ngay từ lúc mới vào nghề. Lâu dần, việc đó mang lại hiệu quả rõ rệt, dần dà giúp phẩm chất chung của giới mạo hiểm giả ở Maalt tốt lên trông thấy. Đó cũng là một trong những lý do Hội Mạo Hiểm Giả suốt bấy lâu chưa từng bảo tôi gác kiếm, dù tôi đã giậm chân ở nhóm cấp bậc thấp nhất gần cả chục năm trời.
 
-Nói một cách đơn giản, tôi khá giỏi mưu mẹo—tất nhiên là theo hướng tích cực.
+Nói đơn giản thì, tôi cũng thuộc dạng biết mưu mẹo tính toán—dĩ nhiên là theo hướng tốt thôi.
 
-Tôi hướng sự chú ý trở lại nữ mạo hiểm giả trẻ tuổi. Không chỉ diện một bộ trang phục tân thủ điển hình, thực lực của cô cũng còn nhiều điều đáng bàn. Thậm chí trên thực tế, cô dường như còn yếu hơn cả tôi khi còn sống một chút.
+Tôi kéo sự chú ý trở lại cô gái trẻ. Không chỉ khoác trên mình bộ trang bị tân thủ từ đầu đến chân, tay nghề của cô cũng còn non nớt lắm. Xét ra, khéo cô còn yếu hơn cả tôi thời còn sống một chút.
 
-Tuy nhiên, so sánh như vậy có lẽ hơi bất công—bất kỳ mạo hiểm giả Đồng Cấp nào cũng dễ dàng vượt trội hơn hẳn các đồng nghiệp Thiết Cấp. Dù sao thì tôi cũng có thể hạ gục một con Khô Lâu mà không gặp quá nhiều khó khăn. Dẫu không thể gọi là dễ dàng, nhưng tôi chắc chắn có đủ năng lực, xét đến việc người dân thường thị trấn sẽ phải cầu nguyện khấn vái nếu chẳng may đụng độ Khô Lâu. Ngay cả mạo hiểm giả Thiết Cấp cũng phải lập nhóm hai hoặc ba người mới có thể dễ dàng đánh bại một con.
+Song, so bì như vậy kể cũng hơi bất công—mạo hiểm giả Đồng Cấp dù sao cũng vượt trội hơn hẳn cấp Thiết. Dù gì tôi cũng dư sức hạ một con Khô Lâu mà không tốn quá nhiều sức. Tuy chẳng đến mức dễ ợt, nhưng tôi hoàn toàn đủ khả năng, nhất là khi thường dân mà đụng phải Khô Lâu thì chỉ có nước nhắm mắt cầu nguyện. Đến cả mạo hiểm giả Thiết Cấp cũng phải đi theo nhóm hai ba người mới mong dễ bề hạ được một con.
 
-Vì lẽ đó, việc tôi kiên trì thám hiểm đơn độc suốt bấy lâu chí ít cũng chứng minh tôi có đôi chút năng lực—dù chưa đến mức để tôi có thể tự hào.
+Thế nên, việc tôi đơn thương độc mã thám hiểm suốt bấy lâu chí ít cũng chứng tỏ tôi có chút bản lĩnh—dù chưa đến mức đáng để tự hào.
 
-Nghĩ vậy nên tôi đánh giá cô gái trước mắt mình yếu đến mức đáng báo động. Dù cô có vẻ đang ngoan cường chống cự kẻ địch xương xẩu của mình, đối thủ chỉ cần chớp lấy một sơ hở là cục diện sẽ đảo chiều, và sau đó cô chắc chắn sẽ thua. Năng lực của cô chỉ dừng lại ở mức đó mà thôi.
+Nghĩ thế, tôi thấy cô gái trước mắt thực sự yếu không cứu nổi. Dù trông cô có vẻ đang gắng sức chống trả kẻ địch bộ xương, chỉ cần sơ sểnh một nhịp là đối thủ sẽ lật ngược thế cờ ngay, và cô cầm chắc phần bại. Trình độ của cô cũng chỉ đến thế là cùng.
 
-Thế nhưng, dù non nớt đến đâu thì mạo hiểm giả vẫn cứ là mạo hiểm giả. Trong trường hợp lỡ sẩy chân, cô vẫn có thể dễ dàng tháo chạy—và rồi mọi chuyện sẽ đâu vào đấy. Tôi cũng không quá lo lắng cho sự an nguy của cô; ít nhất, đó là những gì tôi từng nghĩ—
+Thế nhưng, dù non nớt đến đâu thì mạo hiểm giả vẫn cứ là mạo hiểm giả. Lỡ có sẩy chân, cô vẫn dễ dàng tháo chạy rồi thoát thân được thôi. Tôi vốn không quá lo cho sự an toàn của cô; ít nhất, ban đầu tôi nghĩ vậy—
 
 Khoan đã.
 
-Nhìn kỹ lại, tình hình xem chừng nguy cấp hơn nhiều so với phán đoán ban đầu của tôi. Cứ như thể hoàn toàn không lường tới khả năng thất bại, cô gái trẻ tiếp tục dấn tới, cố gắng áp đảo kẻ địch.
+Nhìn kỹ lại thì tình thế hiểm nghèo hơn tôi tưởng nhiều. Cứ như chẳng thèm nghĩ tới chuyện mình có thể thua, cô gái trẻ tiếp tục dấn tới, cố dùng sức áp đảo kẻ thù.
 
-Thế nhưng, nỗ lực của cô chỉ là vô vọng. Rõ ràng là thiếu thể lực cần thiết, nữ mạo hiểm giả bắt đầu phải lùi bước, không thể theo kịp các đòn tấn công của đối thủ. Đây là một tình thế có thể gây chết người, xét đến việc cô hiện đang ở trong một lối đi mê cung chật hẹp và không có lối thoát hiểm rõ ràng nào.
+Khổ nỗi, mọi cố gắng của cô đều hoài công. Do thể lực không đủ, cô bắt đầu đuối sức phải lùi bước, không sao theo kịp các đòn tấn công của đối phương. Tình thế này rất dễ mất mạng, nhất là khi cô đang kẹt trong một hành lang mê cung chật hẹp, chẳng có lối thoát nào rõ ràng.
 
-Khi con Khô Lâu tiếp tục dồn ép cô gái lùi lại, cô bỗng nhiên khựng người.
+Bị con Khô Lâu dồn ép lùi dần, cô gái bỗng dưng khựng lại.
 
 "...Hả?!"
 
-Lưng cô gái giờ đã áp sát vào bức tường, và có vẻ như cô chỉ vừa mới nhận ra điều đó.
+Lưng cô gái giờ đã đụng trúng vách tường, và dường như tới tận lúc này cô mới nhận ra.
 
-Tôi khẽ lắc đầu. Đây là cái bẫy thường gặp của những mạo hiểm giả không chịu quan sát kỹ môi trường xung quanh. Một nữ kiếm sĩ ở trình độ như cô rất cần không gian để di chuyển và vung kiếm. Nói cách khác, số phận của nữ mạo hiểm giả đã được định đoạt ngay khoảnh khắc cô bất cẩn tự dồn mình vào đường cùng.
+Tôi khẽ lắc đầu. Cái bẫy quen thuộc của những kẻ không chịu để mắt đến xung quanh là đây. Một nữ kiếm sĩ ở trình độ như cô lại rất cần khoảng trống để xoay xở và vung kiếm. Nói cách khác, số phận của cô coi như đã an bài ngay khoảnh khắc tự dồn mình vào chân tường vì sơ suất.
 
-Như nhận ra điều này, con Khô Lâu đang giao chiến với cô liền tiến lên, háo hức giơ hai cánh tay xương xẩu làm bộ chực giáng đòn bằng đôi tay trần.
+Dường như cũng nhận ra điều đó, con Khô Lâu liền áp sát, hí hửng giơ hai cánh tay lên chực bổ xuống bằng tay trần.
 
-Dù Khô Lâu không có vũ khí, nhưng xét cho cùng, nó vẫn là một con quái vật thực thụ. Nếu cú đánh đó trúng vào một mạo hiểm giả không có nhiều khả năng phòng ngự, người đó chắc chắn sẽ ngất xỉu. Thậm chí nếu đòn đánh trúng vào điểm hiểm, họ có thể bỏ mạng ngay lập tức. Khỏi phải nói, một người bình thường chẳng thể nào mong chịu đựng nổi một đòn như vậy.
+Dù Khô Lâu không có vũ khí, nhưng xét cho cùng, nó vẫn là một con quái vật. Cú đánh đó mà giáng trúng một mạo hiểm giả phòng thủ yếu ớt, nạn nhân chắc chắn sẽ ngất lịm đi. Tệ hơn nữa, nếu trúng chỗ hiểm thì có khi mất mạng tại chỗ. Người bình thường khỏi phải mong chịu nổi một đòn như thế.
 
-Về cơ bản, nếu đòn tấn công của Khô Lâu trúng đích, cô gái sẽ chết. Tôi chỉ có thể chấp nhận sự thật đó khi đi đến kết luận này.
+Tóm lại, nếu đòn đánh của Khô Lâu trúng đích, cô gái sẽ chết. Đi đến kết luận đó, tôi đành phải chấp nhận sự thật này.
 
-Dẫu vậy, nói thế không có nghĩa là tôi đành lòng giương mắt nhìn cô gái chết—tôi chỉ muốn nói rằng ban đầu mình định tiếp tục quan sát, bởi việc xuất đầu lộ diện trước mặt cô sẽ kéo theo đủ loại rủi ro.
+Nói vậy không có nghĩa là tôi trơ mắt nhìn cô gái chết—ý tôi là ban đầu tôi chỉ định tiếp tục quan sát thôi, bởi lộ diện trước mặt cô lúc này sẽ kéo theo đủ thứ rắc rối.
 
-Dù trước khi đến đây tôi đã bị cuốn vào men hưng phấn nhất thời, nhưng tâm trí tôi rốt cuộc đã bình tĩnh lại khi tận mắt nhìn thấy một con người bằng xương bằng thịt đang sống sờ sờ. Ngay cả khi tôi có xuất hiện trước mặt cô lúc này, cô cũng sẽ coi tôi chẳng khác gì một con quái vật; việc trò chuyện là điều nằm ngoài sức tưởng tượng hoang đường nhất.
+Dù trước khi tới đây tôi từng bị sự hưng phấn nhất thời cuốn đi, nhưng vừa nhìn thấy một con người bằng xương bằng thịt còn sống, đầu óc tôi đã tỉnh táo trở lại. Giờ mà tôi có ló mặt ra, cô cũng chỉ xem tôi là quái vật; mong gì đến chuyện mở miệng nói chuyện với nhau.
 
-Tuy nhiên, việc trơ mắt nhìn cô gái chết là điều tôi không thể làm được.
+Có điều, khoanh tay đứng nhìn cô gái mất mạng là điều tôi không nỡ làm.
 
-Dẫu thể xác giờ đây là một con quái vật, trái tim tôi vẫn là của con người. Trừ phi người gặp nạn là kẻ đại gian đại ác, bằng không chí ít tôi nhất định sẽ cố gắng giúp đỡ. Đối với tôi, đây là hành động đúng đắn: một mạo hiểm giả tiền bối bảo vệ mạng sống cho hậu bối giữa sự khắc nghiệt khôn cùng của mê cung.
+Dù thân xác giờ đã là quái vật, trong tim tôi vẫn là một con người. Trừ phi đối phương là phường bất lương, bằng không chí ít tôi cũng sẽ tìm cách giúp một tay. Với tôi, đó là lẽ đương nhiên: tiền bối phải bảo vệ tính mạng cho hậu bối giữa chốn mê cung tàn khốc.
 
-Đó là lý do tôi đã hành động.
+Chính vì thế tôi mới ra tay.
 
 "...GÀOOOOO!!!"
 
-Để đánh lạc hướng con Khô Lâu khỏi con mồi của nó, tôi lao ra khỏi góc khuất, gầm lên dữ dội hết mức có thể. Tôi không dám chắc liệu kế hoạch của mình có thành công hay không, bởi ngay từ đầu đây vốn là một canh bạc năm ăn năm thua, chủ yếu do hiện tại tôi là một Ngạ Quỷ.
+Để kéo sự chú ý của con Khô Lâu khỏi con mồi, tôi lao phắt ra từ góc rẽ, gầm lên một tiếng thật dữ tợn. Tôi cũng chẳng dám chắc kế hoạch có thành hay không, vì ngay từ đầu đây đã là một canh bạc may rủi, phần nhiều cũng bởi tôi đang mang thân phận Ngạ Quỷ.
 
-Không phải là chuyên gia về tập tính của quái vật, tôi chẳng rõ một con quái vật sẽ chú ý đến mức nào trước tiếng ồn lớn do một con khác tạo ra. Dẫu vậy, những quái vật tôi từng chiến đấu cho tới nay dường như đều nhận định tôi là kẻ thù, bởi chúng lập tức vào thế chiến đấu ngay khi vừa nhìn thấy tôi. Có lẽ có điều gì đó ở tôi khiến tôi khác biệt với lũ quái vật khác, và chính chúng cũng nhận thấy điều đó. Đó là lý do tôi làm vậy—dù sao đi nữa, kế hoạch của tôi hẳn phải có tỷ lệ thành công khá cao.
+Tôi đâu phải chuyên gia nghiên cứu tập tính quái vật, nên chịu chẳng rõ một con quái vật sẽ để tâm thế nào trước tiếng động lớn do đồng loại phát ra. Có điều, lũ quái vật tôi từng đụng độ từ trước tới giờ dường như đều coi tôi là kẻ thù, hễ vừa thấy bóng tôi là lập tức thủ thế xông vào. Có lẽ tôi có điểm gì đó khác thường, và chính lũ quái vật cũng đánh hơi thấy điều ấy. Chính vì thế tôi mới làm vậy—nói đúng hơn, kế hoạch của tôi hẳn phải có tỷ lệ thành công khá cao.
 
-Chẳng mất nhiều thời gian để tôi nhận ra canh bạc của mình đã thắng lớn. Khựng lại giữa chừng đòn tấn công, con Khô Lâu quay phắt lại đối mặt với tôi, rồi lao vụt về phía tôi.
+Chẳng bao lâu sau, tôi thấy rõ ván cược của mình đã phát huy tác dụng. Con Khô Lâu khựng lại giữa đòn tấn công, quay phắt sang phía tôi rồi lập tức lao tới.
 
-Đôi mắt cô gái mở to trước diễn biến bất ngờ này. Có vẻ như cô từng định nhân lúc con Khô Lâu để lộ lưng mà chém chết nó ngay tại chỗ. Tuy nhiên, cô gái dường như quá đỗi bàng hoàng nên chỉ biết đứng chôn chân tại chỗ.
+Cô gái tròn mắt kinh ngạc trước biến cố bất ngờ. Đáng lý cô có thể nhân lúc con Khô Lâu quay lưng để chém gục nó ngay, nhưng dường như quá đỗi bàng hoàng, cô chỉ biết đứng chết trân một chỗ.
 
-Chẳng còn lựa chọn nào khác: tôi rút kiếm, lao thẳng về phía kẻ thù. Dù ban đầu định tiết kiệm, tôi bắt đầu truyền Khí Lực vào thanh kiếm. Tôi phải kết liễu chuyện này thật nhanh bằng một đòn quyết định.
+Chẳng còn cách nào khác: tôi rút kiếm, lao thẳng về phía đối thủ. Dù ban đầu định tiết kiệm, tôi vẫn bắt đầu truyền Khí Lực vào lưỡi kiếm. Tôi phải dứt điểm trận này thật nhanh bằng một đòn quyết định.
 
-Sau khi tiến hóa thành Ngạ Quỷ, tôi nhận thức được rằng giờ đây mình có thể tung ra các đòn tấn công bằng Khí Lực khá nhiều lần mà không lo cạn kiệt năng lượng—vì vậy tôi cho rằng một đòn lúc này sẽ không hao tổn quá nhiều lượng dự trữ của mình.
+Từ lúc tiến hóa thành Ngạ Quỷ, tôi nhận ra mình đã có thể dùng đòn Khí Lực kha khá lần mà không lo kiệt sức—thế nên dùng một đòn lúc này chắc cũng chẳng hao hụt bao nhiêu.
 
-Vung kiếm lên bằng một động tác thuần thục, tôi dồn cả thân mình vào cú chém, bổ thanh kiếm xuống với uy lực đáng kể. Đó là một nhát chém gọn gàng, chém sâu vào cơ thể xương xẩu của đối thủ. Chỉ trong chớp mắt, con Khô Lâu đứt lìa làm hai nửa gọn lỏn, vỡ vụn thành vô số mảnh khi phần còn lại của cơ thể nó rơi xuống đất.
+Giương kiếm bằng một động tác thuần thục, tôi dồn trọn trọng lượng cơ thể, chém mạnh một nhát xuống dưới. Một đường kiếm dứt khoát, ngọt lịm, ăn sâu vào bộ khung xương của đối thủ. Chỉ trong tích tắc, con Khô Lâu đứt ngọt làm đôi, vỡ tan thành muôn mảnh vụn khi phần còn lại của nó rơi xuống nền đất.
 
 "...Tuyệt quá..."
 
-Nữ mạo hiểm giả, chết lặng vì kinh ngạc, chỉ biết tiếp tục nhìn chằm chằm vào tàn tích của thứ vừa mới là con Khô Lâu cách đây vài giây.
+Cô gái trẻ chết lặng, trân trối nhìn đống tàn tích của con Khô Lâu vừa mới đây còn đứng trước mặt.
 
-Tôi chẳng thể trách cô được. Dù Khô Lâu nhìn chung là quái vật yếu, nhưng hiếm mạo hiểm giả nào ở cấp bậc của tôi có thể dễ dàng chém đôi chúng như thế. Ai rơi vào cảnh này cũng sẽ kinh ngạc thôi; phải, ngay cả tôi cũng vậy.
+Tôi chẳng trách cô được. Tuy Khô Lâu nhìn chung là quái vật yếu, nhưng ở tầm cấp bậc như tôi, hiếm mạo hiểm giả nào chém đôi chúng dễ dàng như thế. Ai thấy cảnh này mà chẳng kinh ngạc; phải, ngay cả tôi cũng giật mình.
 
-Đúng thật là tuyệt vời.
+Đúng là cừ thật đấy chứ.
 
 Hử.
 
-Mình luôn mạnh đến thế này sao?
+Trước giờ mình mạnh cỡ này thật à?
 
-Đó là cảm xúc của tôi sau khi chém chết con Khô Lâu. Tôi lặng người đứng yên một lúc, ngẫm nghĩ về những gì vừa diễn ra.
+Đó là cảm nghĩ của tôi sau khi hạ gục con Khô Lâu. Tôi lặng người đứng yên một lúc, ngẫm lại chuyện vừa xảy ra.
 
-Có vẻ như giờ đây tôi thậm chí còn mạnh hơn trước. Nếu cứ tiếp tục phát triển với tốc độ này, mục tiêu cuối cùng là tiến hóa thành Ma Cà Rồng dường như nằm trong tầm tay. Một tia hy vọng lóe lên trong lòng tôi—dù có lẽ tôi đang hơi quá lạc quan tếu.
+Xem chừng giờ tôi còn mạnh hơn trước nữa. Cứ đà này, mục tiêu tiến hóa thành Ma Cà Rồng có vẻ không còn xa vời. Một tia hy vọng nhen nhóm trong lòng—dù có lẽ tôi đang hơi vội mừng quá sớm.
 
-Nghĩ đến đó, tôi giật mình bừng tỉnh—
+Vừa nghĩ tới đó, tôi sực giật mình tỉnh ra—
 
-Cô gái vẫn đang đứng nguyên tại chỗ. Rõ ràng cô quan trọng hơn nhiều so với mớ độc thoại nội tâm của tôi.
+Cô gái vẫn đang đứng chôn chân ở đó. Rõ ràng chuyện của cô quan trọng hơn mớ độc thoại nội tâm này nhiều.
 
-Cô ấy có bị thương không?
+Liệu cô ấy có bị thương không nhỉ?
 
-Dù định cất lời hỏi han, tôi cảm thấy như có thứ gì đó mắc nghẹn nơi cổ họng, và tôi lập tức nhớ ra rằng mình chẳng qua chỉ là một Ngạ Quỷ. Nếu tôi bất cẩn tiến lại gần, cô chắc chắn sẽ bỏ chạy; như vậy thì không ổn chút nào.
+Dù toan mở miệng cất lời, cổ họng tôi nghẹn ứ như có vật gì chặn lại, khiến tôi lập tức nhớ ra thân phận Ngạ Quỷ của mình. Nếu cứ thế bất cẩn sấn tới, chắc chắn cô sẽ bỏ chạy mất; thế thì chẳng ổn chút nào.
 
-Vậy thì... mình nên làm gì bây giờ?
+Vậy thì... giờ mình phải làm sao đây?
 
-Quay sang nhìn cô gái, tôi thấy cô đang giương kiếm lên, nhìn tôi bằng ánh mắt tràn đầy sợ hãi.
+Tôi quay lại nhìn thì thấy cô gái đã giương sẵn kiếm, trừng trừng nhìn tôi đầy vẻ khiếp sợ.
 
-Xem ra chúng tôi không thể dễ dàng thấu hiểu lẫn nhau rồi.
+Xem chừng muốn nói chuyện êm thấm với nhau chẳng dễ dàng gì rồi.
 
 ![](images/ch006-01.webp)
