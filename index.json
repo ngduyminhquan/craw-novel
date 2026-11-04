@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T15:53:27Z",
+  "generatedAt": "2026-11-04T16:00:28Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2410,19 +2410,19 @@
           "number": 43,
           "title": "Chương 43: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_043.md",
-          "sha": "db54bc1fe2bef8e61dbf15555ab3e4ad93fd70a0"
+          "sha": "f3214f490273f14ff0130540b378afa1d49889d6"
         },
         {
           "number": 44,
           "title": "Chương 44: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_044.md",
-          "sha": "7a06fbf11d1908bcec96bcd7c787888ccf5ebc34"
+          "sha": "38e399f62f128ef34b87f94a47840f365ad17d64"
         },
         {
           "number": 45,
           "title": "Chương 45: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_045.md",
-          "sha": "024fe398a032b0843c30eaab534d135be7cb703a"
+          "sha": "03a550a032284b2536a4cef03683136a01582e9f"
         },
         {
           "number": 46,
