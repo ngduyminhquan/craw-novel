@@ -45,6 +45,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 19. **Giọng Unbert Abeiyu (#75).** Thầy trị liệu có vẻ ngoài từng trải như mạo hiểm giả nhưng tính cách ôn hòa, điềm đạm; tác phong khám chữa bệnh thẳng thắn, giải thích bệnh trạng rõ ràng, không vòng vo; giao tiếp với Sơ Lillian luôn tôn trọng, đúng mực ("thưa Sơ Lillian", xưng "tôi", không đệm "ạ"), hòa nhã với đồng nghiệp và mạo hiểm giả.
 20. **Tác phong sư phụ của Lorraine (#74, #76).** Khi nhận đệ tử (Alize) và bắt đầu lên lớp giảng dạy ma thuật, Lorraine tỏ ra hào hứng, thích ra dáng người thầy mẫu mực và phát biểu trịnh trọng pha chút khoa trương kịch nghệ ("các học trò của tôi", gõ que chỉ lên bảng); giữ nguyên nét kịch tính hài hước này, không biến thành nghiêm nghị cứng nhắc.
 21. **Phản ứng của Alize trước sự quái chiêu (#77).** Alize tuy là học trò ngoan ngoãn tuân thủ lề thói sư đồ trong giờ học ("Học Sĩ Lorraine"), nhưng vẫn giữ tư duy thực tế và mộc mạc; khi đối diện với những phương pháp nguy hiểm hay lập dị của Rentt và Lorraine, thể hiện phản ứng dứt khoát từ chối cùng vẻ cạn lời, kinh ngạc chân thực của một đứa trẻ bình thường, không gượng ép nể nang.
+22. **Tương tác giờ học ma thuật ba người (#78).** Lorraine vừa dạy học vừa thích trêu chọc, bắt Rentt làm mẫu thị phạm để phạt anh tội đứng ngoài khiêu khích học trò; Rentt độc thoại thích làm màu trêu Alize nhưng khi chia sẻ mẹo thực chiến thì chân thành, khiêm tốn; Alize háo hức, kiên cường không chịu thua trước đòn khiêu khích nhưng vẫn chân thành khâm phục kinh nghiệm của bậc tiền bối.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -72,6 +73,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
+- (78) Kể theo ngôi thứ nhất ("tôi") của Rentt Faina trong buổi học ma thuật vỡ lòng ba người; thể hiện sự tương tác hài hước, trêu chọc giữa Lorraine, Rentt và Alize cùng trải nghiệm sử dụng Ma Lực đời thường.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.

@@ -1,243 +1,243 @@
 # Chương 78: Tập 3 Chương 4 - Ma Thuật (2)
 
-"Có... đau không ạ?" Vẫn giữ nguyên nét mặt ấy, Alize quay sang hỏi Lorraine.
+"Có... đau không ạ?" Alize quay sang nhìn Lorraine, vẻ mặt vẫn chưa hết bồn chồn.
 
-"Không, chẳng đau chút nào đâu. Để Ma Lực của người khác chảy vào cơ thể em có thể mang lại cảm giác như... một lực ấn xuống bụng chẳng hạn. Dẫu vậy, nó cũng không mạnh đến mức khiến em thấy đau đớn. Phải miêu tả thế nào nhỉ... À phải rồi, như một thoáng tức ngực khó thở, hay đại loại thế. Dù sao đi nữa, em chẳng có gì phải bận tâm lo lắng đâu, Alize."
+"Không, chẳng đau chút nào đâu. Ma Lực của người khác truyền vào người thì có thể sẽ thấy như có sức nặng đè lên bụng một chút. Nhưng lực ép đó không đến mức làm em đau. Tả sao cho đúng nhỉ... À, giống như hơi hụt hơi một thoáng, đại loại vậy. Tóm lại là không có gì đáng lo đâu, Alize."
 
-"Nếu vậy thì... xin nhờ cậy cô, thưa Học Sĩ Lorraine. Xin cô cứ tiến hành đi ạ."
+"Nếu thế thì... nhờ cả vào cô, thưa Học Sĩ Lorraine. Cô cứ làm đi ạ."
 
-Dường như đã trút được gánh nặng trong lòng trước lời giải thích của Lorraine, Alize cúi gập đầu. Lorraine khẽ gật đầu đáp lại.
+Nghe Lorraine giải thích xong, Alize có vẻ yên tâm hơn hẳn. Cô bé cúi gập đầu, còn Lorraine khẽ gật lại.
 
 "Được rồi. Đưa hai tay em đây."
 
-"Dạ vâng."
+"Vâng ạ."
 
-Alize ngoan ngoãn làm theo lời dặn, và Lorraine nhanh chóng nắm lấy đôi bàn tay của cô bé.
+Alize làm theo lời dặn, còn Lorraine lập tức nắm lấy hai bàn tay cô bé.
 
-"Được rồi, giờ tôi sẽ truyền một phần Ma Lực của mình qua cơ thể em. Em đã chuẩn bị sẵn tinh thần chưa?"
+"Được rồi, giờ tôi sẽ truyền một luồng Ma Lực vào người em. Em chuẩn bị tâm lý xong chưa?"
 
-"Dạ rồi... Ừm, em có một thắc mắc. Nếu tất cả những gì em cần chỉ là bị một ma pháp đánh trúng, thì chẳng phải một ma pháp cường hóa hay thứ gì đó tương tự cũng sẽ mang lại tác dụng y hệt sao ạ?"
+"Dạ rồi... Ừm, em có điều này muốn hỏi. Nếu chỉ cần bị ma pháp đánh trúng, thì dùng ma pháp cường hóa hay thứ gì tương tự cũng có tác dụng như vậy chứ ạ?"
 
-"Cũng có tác dụng đấy, phải." Lorraine đáp lại ngay tắp lự. "Thế nhưng, chẳng có ma pháp sư nào lại muốn làm chuyện đó với học trò tương lai của mình cả. Quá trình tôi vừa miêu tả lúc nãy chỉ dành cho những người không có cơ hội tiếp cận với bất kỳ người thầy nào, hay một ma pháp sư đủ khả năng truyền thụ con đường ma thuật cho kẻ khác."
+"Tác dụng thì có đấy." Lorraine đáp ngay. "Nhưng chẳng ma pháp sư nào lại làm thế với học trò mình định dạy cả. Cách tôi vừa kể chỉ dành cho những ai không tìm đâu ra thầy, hoặc không có ma pháp sư nào sẵn lòng chỉ dạy ma thuật cho thôi."
 
-"Em chưa hiểu lắm, thưa Học Sĩ Lorraine... Thế nghĩa là sao ạ?"
+"Em không hiểu lắm, thưa Học Sĩ Lorraine... Ý cô là sao ạ?"
 
-"Nếu em chọn cách bị một ma pháp 'đánh trúng', Alize à, điều đó sẽ khiến Ma Lực trong cơ thể em cuộn trào và xoáy loạn lên, hệt như những đợt sóng cuộn giữa cơn bão vậy. Nếu em chưa biết cách vận dụng nguồn Ma Lực bên trong mình mà lại để một ma pháp sư thi triển ma pháp lên người, điều tương tự cũng sẽ xảy ra. Khi ấy, cơ thể em sẽ bị những cơn đau đớn giày vò, và em sẽ cảm thấy buồn nôn liên miên suốt nhiều ngày ròng. Lẽ dĩ nhiên là em cũng sẽ bị chóng mặt suốt một thời gian dài nữa... Rentt đã từng tự mình trải nghiệm chuyện đó rồi. Có đúng không, Rentt?"
+"Nếu em chọn cách bị ma pháp 'đánh trúng', Alize, Ma Lực trong người em sẽ cuộn trào dữ dội, chẳng khác nào sóng biển giữa bão. Chưa biết cách điều khiển Ma Lực trong người mà đã để ma pháp sư niệm phép lên mình thì cũng thế thôi. Lúc đó, cả người em sẽ đau nhức ê ẩm, buồn nôn dai dẳng suốt mấy ngày liền. Đương nhiên là đầu óc cũng sẽ quay cuồng một thời gian dài nữa... Rentt từng nếm mùi rồi đấy. Đúng không, Rentt?"
 
-Tôi gật đầu trước lời của Lorraine. "Thành thật mà nói, đã có những lúc tôi nghĩ 'thà chết đi cho xong'. Tôi chẳng muốn nếm trải cảm giác ấy lần thứ hai đâu."
+Tôi gật đầu theo lời Lorraine: "Nói thật thì có những lúc tôi còn nghĩ 'thà chết quách cho xong'. Bảo tôi nếm lại lần thứ hai thì xin kiếu."
 
-Đó là những suy nghĩ thật lòng của tôi. Quả là một trải nghiệm kinh hoàng—ý thức chập chờn, cảm nhận về thời gian dần mờ nhạt và mong manh, cùng cảm giác mơ hồ lẫn đau đớn ấy dường như sẽ kéo dài mãi mãi đến vô tận... Chẳng một ai muốn nếm trải thứ như vậy đâu. Có lẽ đúng là 'chim sợ cành cong'.
+Đó là suy nghĩ thật lòng của tôi. Trải nghiệm đó kinh khủng lắm: đầu óc cứ chập chờn, khái niệm thời gian thì mơ hồ, lẫn lộn, lại thêm cảm giác đau đớn dường như kéo dài đến vô tận nữa... Chẳng ai muốn dính vào thứ đó lần nào nữa đâu. Đúng là một lần tởn tới già.
 
-Ngược lại, một kẻ có máu khổ dâm có khi lại thấy lần trải nghiệm thứ hai... thật hấp dẫn. Lẽ dĩ nhiên, tôi tuyệt nhiên chẳng phải kẻ khổ dâm rồi.
+Họa chăng chỉ có kẻ thích chịu đòn mới thấy trải nghiệm lần hai... hấp dẫn. Còn tôi thì đương nhiên chẳng phải loại người đó rồi.
 
-"Nếu em chấp nhận những hậu quả vừa nói, Alize, tôi có thể yểm lên người em một ma pháp đơn giản. Em thấy thế có được không?"
+"Nếu em chịu được những hậu quả đó thì tôi niệm một ma pháp đơn giản lên người em cũng được. Em thấy sao, Alize?"
 
-Alize lắc đầu nguầy nguậy sang hai bên trước câu hỏi của Lorraine.
+Alize lắc đầu nguầy nguậy trước câu hỏi của Lorraine.
 
-"K-Không ạ! C-Cứ dùng phương pháp bình thường là được rồi, thưa Học Sĩ Lorraine!" Alize gần như hét toáng lên khi nói vậy.
+"K-Không đâu ạ! C-Cứ dùng cách bình thường thôi, thưa Học Sĩ Lorraine!" Alize gần như hét toáng lên.
 
-Một phản ứng hoàn toàn dễ hiểu. Như tôi đã đề cập trước đó, hiếm có ai lại tự nguyện chọn trải nghiệm thứ như thế. Ngay cả tôi cũng đâu có điên mà đi hứng đòn ma pháp chỉ để cho vui! Đơn giản là khi ấy tôi chẳng còn cách nào khác để tự ý thức được Ma Lực của mình mà thôi.
+Một phản ứng hoàn toàn dễ hiểu. Như tôi đã nói, hiếm ai lại tự nguyện đâm đầu vào cái thứ đó. Ngay cả tôi cũng đâu có rỗi hơi đi hứng đòn ma pháp cho vui! Chẳng qua lúc ấy tôi không còn cách nào khác để cảm nhận được Ma Lực mà thôi.
 
-Một ma pháp sư điển hình sẽ chẳng ngần ngại đòi hỏi những món tiền thù lao trên trời từ một gã dân làng tầm thường. Có lẽ việc họ làm vậy cũng chẳng sai, xét tới việc ngay từ đầu họ đã sở hữu đủ Ma Lực trong người để được xưng danh là ma pháp sư. Dẫu vậy, đó vẫn là một dịch vụ đắt đỏ. Thời điểm ấy tôi đào đâu ra số tiền lớn đến thế, trong khi bản thân lại muốn thức tỉnh nguồn năng lượng bên trong mình, thành thử thực sự chẳng còn con đường nào khác.
+Một ma pháp sư bình thường chẳng đời nào ngại hét giá trên trời với một đứa dân làng. Nghĩ đi thì họ làm vậy cũng có lý, bởi ngay từ đầu họ đã có đủ Ma Lực để được gọi là ma pháp sư rồi. Nhưng đắt thì vẫn cứ là đắt. Hồi đó tôi đào đâu ra ngần ấy tiền, mà lại nung nấu ý định đánh thức nguồn năng lượng trong người, nên rốt cuộc cũng chẳng còn lựa chọn nào khác.
 
-"Hừm. Rõ ràng rồi nhé, Alize. Vậy thì... Lần này tôi sẽ truyền dẫn Ma Lực qua người em. Tập trung nào, Alize. Hãy cảm nhận luồng cảm giác kỳ lạ sắp sửa gợn sóng lan tỏa khắp toàn thân em."
+"Hừm. Nghe rồi đấy nhé, Alize. Vậy thì... Lần này tôi sẽ truyền Ma Lực qua người em. Tập trung vào, Alize. Hãy cảm nhận luồng cảm giác kỳ lạ sắp sửa lan khắp cơ thể em."
 
-"D-Dạ vângggg?!"
+"V-Vââânggg?!"
 
-Alize vừa gật đầu, và ngay khoảnh khắc ấy, Lorraine siết chặt lấy đôi bàn tay của cô bé. Mắt Alize mở to hết cỡ, hơn bất kỳ lần nào trước đây. Chỉ từ điều đó thôi, tôi đã hiểu—rằng đây chính là cảm giác của những người được trời phú cho tài năng thiên bẩm.
+Alize vừa gật đầu thì Lorraine đã siết chặt hai tay cô bé. Đôi mắt Alize mở to hơn bao giờ hết. Chỉ nhìn thế thôi là tôi hiểu ngay: người có thiên phú được trải nghiệm cảm giác như thế nào.
 
-Tôi cảm thấy... thật ghen tị làm sao...
+Thấy mà... ghen tị ghê...
 
-"Thế nào rồi? Giờ em đã hiểu chưa?" Lorraine hỏi, hai tay vẫn nắm chặt tay Alize khi cất lời.
+"Thế nào rồi? Giờ em cảm nhận được chưa?" Lorraine vẫn nắm tay Alize, cất tiếng hỏi.
 
-"Dạ..." Alize chậm rãi gật đầu. "Em nghĩ. Em nghĩ là em hiểu rồi. Có thứ gì đó... dính nhớp, nhơm nhớp như bùn lầy, đang chảy qua... cơ thể em..."
+"Vâng..." Alize chậm rãi gật đầu. "Em... em nghĩ là mình hiểu rồi. Có cái gì đó... dính dính, nhờn nhợt như bùn, đang chảy... trong người em..."
 
-Đến lượt mắt Lorraine mở to, nhưng phản ứng của cô có phần điềm đạm hơn Alize.
+Đến lượt Lorraine mở to mắt, dẫu phản ứng của cô bình tĩnh hơn Alize nhiều.
 
-"Ngay từ đầu em đã sở hữu nhiều Ma Lực hơn người thường, nhưng không ngờ em lại cảm nhận được đến mức này... Quả là ấn tượng. Phải, đó chính là Ma Lực đấy, Alize. Vừa rồi tôi đã dùng năng lượng của chính mình để khiến nó lưu chuyển. Nhưng em có thể tự điều khiển nó bằng ý chí của bản thân không?"
+"Vốn dĩ Ma Lực trong người em đã nhiều hơn người khác rồi, nhưng cảm nhận được rõ đến mức này thì... Ấn tượng thật đấy. Đúng rồi, đó chính là Ma Lực đấy, Alize. Vừa rồi là tôi mượn năng lượng của mình để dẫn nó chảy đi. Nhưng em có thể tự dùng ý nghĩ điều khiển nó chuyển động được không?"
 
-"Có hơi... khó một chút ạ..."
+"Hơi... khó một chút ạ..."
 
-Những giọt mồ hôi bắt đầu lấm tấm trên trán Alize. Có vẻ như việc dẫn truyền và lưu chuyển Ma Lực quanh cơ thể hoàn toàn chẳng phải nhiệm vụ giản đơn.
+Trán Alize bắt đầu lấm tấm mồ hôi. Xem ra việc luân chuyển Ma Lực đi khắp cơ thể chẳng phải chuyện dễ dàng.
 
-Thấy Alize đang phải chật vật, tôi thử vận chuyển Ma Lực bên trong cơ thể mình—từ vùng bụng, tôi điều khiển nó chảy vào hai cánh tay, thậm chí bao bọc quanh toàn thân. Chuyện đó... thật đơn giản, ít nhất là đối với tôi. Song có lẽ đó là điều hiển nhiên, bởi tôi sở hữu nhiều kinh nghiệm hơn. Dẫu sao thì tôi cũng đã sử dụng Ma Lực suốt chừng một thập kỷ rồi, và thứ duy nhất kìm hãm tôi bấy lâu nay chỉ là dung lượng Ma Lực ít ỏi mà thôi.
+Thấy Alize đang chật vật, tôi cũng thử vận Ma Lực trong người xem sao. Từ bụng, tôi cho nó chảy lên hai cánh tay, rồi bao bọc khắp cơ thể. Chuyện này... dễ như bỡn, ít nhất là với tôi. Nhưng cũng phải thôi, bởi tôi có nhiều kinh nghiệm hơn. Dù gì tôi cũng dùng Ma Lực cả chục năm trời rồi, thứ duy nhất kìm chân tôi bấy lâu nay chỉ là lượng Ma Lực còi cọc mà thôi.
 
-Ma Lực là một thứ rất đỗi kỳ lạ; sở hữu nhiều năng lượng trong cơ thể sẽ giúp việc cảm nhận nó trở nên dễ dàng. Tuy nhiên, việc kiểm soát và lưu chuyển Ma Lực sao cho chuẩn xác lại càng trở nên khó khăn hơn khi một người nắm giữ càng nhiều Ma Lực. Có lẽ nó cũng tương tự như việc cố dịch chuyển quá nhiều đồ đạc trong một căn phòng chật chội vậy.
+Ma Lực là một thứ rất kỳ lạ: càng có nhiều thì lại càng dễ cảm nhận. Thế nhưng, Ma Lực càng nhiều thì việc kiểm soát và điều khiển nó lại càng khó khăn. Chắc cũng giống như việc xoay xở di dời cả đống đồ đạc trong một căn phòng chật chội vậy.
 
-Lấy ví dụ như một chiếc túi được nhồi nhét căng đầy—dù có lắc mạnh thì những đồ vật bên trong cũng chẳng thể xê dịch được bao nhiêu. Trái lại, đồ chứa bên trong một chiếc túi rỗng hơn đôi chút sẽ lắc lư va vào nhau lách cách nếu bị rung lắc. Đó là lý do vì sao tôi có thể dễ dàng điều khiển Ma Lực của mình sau khi đã tự ý thức được sự hiện diện của nó. Thêm vào đó, tôi đã khổ luyện sử dụng nó qua một thời gian dài, nhờ vậy mà việc vận dụng mới tương đối dễ dàng.
+Ví như một chiếc bao tải nhồi căng cứng, có lắc thế nào thì đồ bên trong cũng khó mà xê dịch. Nhưng nếu là một chiếc bao vơi vơi, đồ đạc bên trong sẽ va lắc lách cách ngay. Đó là lý do vì sao khi đã cảm nhận được Ma Lực rồi, tôi lại điều khiển nó rất dễ dàng. Vả lại tôi đã luyện dùng suốt một thời gian dài, nên thao tác mới mượt mà như thế.
 
-Nhưng chỉ điều này thôi thì chưa đủ để biến tôi thành một ma pháp sư lành nghề dưới bất kỳ hình thức nào. Dẫu tôi đã có thể tùy ý luân chuyển Ma Lực trong cơ thể theo ý muốn, cộng thêm việc điều chỉnh cường độ và đan dệt ma pháp một cách mau lẹ, song đó là tất cả những gì tôi làm được. Để có thể thi triển những ma pháp hùng mạnh và uy lực, người ta cần có một dung lượng Ma Lực dồi dào hơn. Thậm chí có người còn nói rằng khả năng kiểm soát tốt Ma Lực đặc biệt có giá trị đối với phụ nữ, bởi người đó có thể dẫn Ma Lực tới bất kỳ bộ phận nào trên cơ thể. Việc tạo ra nước lại là một ma pháp đơn giản mà hầu hết người mới nhập môn đều học trước tiên, thế nên một người phụ nữ có thể dễ dàng nhỏ những giọt nước mắt cá sấu với sự trợ giúp của Ma Lực. Vì thế, các nữ ma pháp sư rốt cuộc lại tinh thông kỹ thuật này tương đối nhanh chóng...
+Nhưng chỉ bấy nhiêu thôi thì tôi cũng chẳng thể trở thành một ma pháp sư cừ khôi được. Dù tôi đã có thể tùy ý luân chuyển Ma Lực trong người, điều chỉnh cường độ và niệm phép rất nhanh, nhưng khả năng của tôi cũng chỉ dừng lại ở đó. Muốn thi triển những ma pháp uy lực hùng mạnh, người ta buộc phải có lượng Ma Lực dồi dào hơn. Thậm chí có người còn bảo việc kiểm soát Ma Lực khéo léo đặc biệt hữu ích với phụ nữ, đơn giản là vì họ có thể dẫn Ma Lực tới bất cứ vị trí nào trên cơ thể. Mà tạo nước lại là ma pháp cơ bản người mới học nào cũng tập đầu tiên, thành thử các cô gái có thể dễ dàng mượn Ma Lực để rơi nước mắt cá sấu. Thế nên các nữ ma pháp sư thường thuần thục trò này từ rất sớm...
 
-Nghĩ lại mà xem, đó quả thực là một điều hết sức đáng sợ.
+Càng nghĩ lại càng thấy trò đó đáng sợ thật.
 
-"Vậy thì, chúng ta nghỉ giải lao một lát nhé?"
+"Được rồi, mình nghỉ tay một lát nhé?"
 
-Lorraine nhìn Alize với vẻ thoáng lo lắng. Cô buông hai tay Alize ra, làm gián đoạn dòng chảy Ma Lực. Hơi thở của Alize lập tức trở nên dồn dập đứt quãng, và cô bé nhanh chóng ngã quỵ xuống đầu gối.
+Lorraine nhìn Alize với vẻ thoáng lo lắng. Cô buông tay Alize ra, ngắt dòng chảy Ma Lực. Alize lập tức thở dốc ngắt quãng, rồi khuỵu xuống.
 
-Đó không hẳn là cảm giác đau đớn, nhưng dứt khoát chẳng phải chuyện dạo chơi nhẹ nhàng. Để Ma Lực của người khác chảy qua cơ thể không đến mức gây mất mạng, song cũng chẳng phải điều gì tốt đẹp cho cam. Tiếp xúc trong thời gian dài có thể gây tổn hại tới cơ thể.
+Cảm giác đó không hẳn là đau đớn, nhưng chắc chắn chẳng phải chuyện dạo chơi nhẹ nhàng. Để Ma Lực của người khác chảy trong người tuy không chết ai, nhưng cũng chẳng béo bở gì. Cứ kéo dài lâu khéo lại hại thân.
 
-Vốn dĩ quá trình này phải mất nhiều ngày, được lặp đi lặp lại nhiều lần sau khi học trò đã nghỉ ngơi đầy đủ. Thế nhưng Alize lại có thể cảm nhận được Ma Lực trong cơ thể gần như ngay lập tức. Đúng như lời Lorraine nói, cô bé thực sự sở hữu thiên phú hơn người.
+Thông thường quá trình này phải mất nhiều ngày, cứ để người học nghỉ ngơi hồi sức rồi lại làm đi làm lại. Thế nhưng Alize đã cảm nhận được Ma Lực gần như ngay tắp lự. Đúng như Lorraine nói, con bé quả thực có thiên phú phi thường.
 
-"Em có sao không? Có lẽ hôm nay chúng ta nên dừng lại ở đây thôi."
+"Em có sao không? Hay hôm nay dừng ở đây thôi nhé."
 
-Hơi thở của Alize lúc này đã dần ổn định lại, song trông tình trạng của cô bé chẳng khả quan cho lắm khi gương mặt vẫn ướt đẫm mồ hôi. Xem chừng cô bé đã cố gắng gượng ép bản thân hơi quá mức.
+Hơi thở của Alize đã dần đều lại, nhưng mồ hôi vẫn đầm đìa trên mặt, trông tình cảnh chẳng khá khẩm là bao. Xem chừng con bé đã ráng sức quá đà.
 
-Alize có vẻ hơi bối rối trước những lời của Lorraine.
+Nghe Lorraine nói, Alize thoáng vẻ bối rối.
 
-"M-Mất... Mất bao lâu. Phải bao nhiêu lần... nữa thì em...?"
+"M-Mất... Mất bao lâu ạ. Phải bao nhiêu lần... nữa thì em...?"
 
-"Em cần bao lâu để quen với nó ư? Đương nhiên là cho đến khi em có thể tự do điều khiển Ma Lực trong cơ thể mình rồi, Alize à. Chừng nào em chưa đạt được tới trình độ đó, tôi sẽ vẫn phải tiếp tục truyền Ma Lực vào người em. Chẳng còn cách nào khác đâu. Điều này hẳn sẽ rất khó khăn đấy, phải."
+"Bao lâu để quen ấy hả? Đương nhiên là đến khi em tự do điều khiển được Ma Lực trong người rồi, Alize. Chừng nào chưa làm được, tôi sẽ còn phải tiếp tục truyền Ma Lực vào người em. Chẳng có cách nào khác đâu. Sẽ vất vả lắm đấy."
 
-"K-Không thể nào... Thật vậy sao ạ...?"
+"K-Không thể nào... Thật thế ạ...?"
 
-Gương mặt Alize ngập tràn nỗi tuyệt vọng. Có vẻ như cô bé đang thực sự phải chịu đựng gian nan.
+Mặt Alize tràn ngập vẻ tuyệt vọng. Rõ ràng là con bé đang khổ sở lắm.
 
-Lorraine cười khổ trước phản ứng của Alize.
+Thấy phản ứng của Alize, Lorraine cười trừ.
 
-"Em không cần phải học hết mọi thứ chỉ trong một ngày đâu, Alize. Ngay từ đầu tôi đã dự tính quá trình này sẽ kéo dài vài ngày rồi. Vì vậy..."
+"Không việc gì phải vội học hết trong một ngày đâu, Alize. Ban đầu tôi cũng tính việc này phải mất vài ngày cơ mà. Thế nên..."
 
-Lorraine đang gợi ý rằng buổi học của chúng tôi sẽ kết thúc—ít nhất là cho ngày hôm nay. Tôi bèn giơ một bàn tay ra, thắp lên một ngọn lửa nhỏ trên đầu ngón tay. Ở bàn tay kia, nước tuôn chảy êm đềm từ lòng bàn tay tôi. Làm xong những điều đó, tôi nhìn thẳng về phía Alize, với hy vọng truyền đi thông điệp rằng ma thuật cũng không quá khó khăn đến thế đâu.
+Ý Lorraine là buổi học của chúng tôi sẽ dừng lại ở đây—ít nhất là cho ngày hôm nay. Tôi bèn chìa một bàn tay ra, nhen lên một ngọn lửa nhỏ trên đầu ngón tay. Ở tay kia, nước từ lòng bàn tay tôi tuôn trào ra. Làm xong, tôi nhìn thẳng về phía Alize, bụng nghĩ muốn cho con bé thấy ma thuật thực ra cũng chẳng khó khăn đến thế.
 
-Chẳng mất nhiều thời gian để màn biểu diễn ấy thu hút sự chú ý của Alize.
+Trò đó lập tức thu hút sự chú ý của Alize.
 
-"M-Mất... Mất bao lâu... m-mới có thể làm được... như thế ạ?" Alize vừa thở hổn hển ngắt quãng vừa hỏi, đôi mắt trừng trừng nhìn tôi với vẻ khinh khỉnh ra mặt.
+"M-Mất... Mất bao lâu... m-mới làm được... như thế ạ?" Alize vừa thở hổn hển vừa hỏi, đôi mắt lườm tôi với vẻ bực bội ra mặt.
 
-Alize đã diễn giải màn biểu diễn nho nhỏ của tôi thành một sự khiêu khích. Tôi đoán đó cũng là một góc nhìn, bởi đối với Alize, tôi hiện lên chẳng khác nào một kẻ thích khoe mẽ. Dĩ nhiên tôi chẳng hề cố ý làm vậy; đó đơn thuần chỉ là một màn thị phạm mà thôi.
+Alize đã coi màn trổ tài nho nhỏ của tôi là trò khiêu khích. Nghĩ vậy thì cũng chẳng sai, bởi trong mắt con bé, tôi lúc này chẳng khác nào một kẻ thích làm màu. Đương nhiên tôi đâu có cố ý, chỉ thị phạm chút thôi mà.
 
-Lorraine lập tức quay sang phía tôi, nét mặt lộ rõ vẻ chẳng mấy hào hứng trước nỗ lực của tôi.
+Lorraine quay ngoắt sang nhìn tôi, vẻ mặt chẳng lấy gì làm thích thú trước màn biểu diễn đó.
 
 ![](images/ch078-01.webp)
 
-"Anh thực sự nên dừng việc khiêu khích con bé lại đi đấy, Rentt..." cô thì thầm trước khi quay sang Alize và trấn an cô bé bằng một giọng dịu dàng. "Em sẽ sớm làm được tất cả những điều đó thôi, Alize à. Đó chỉ là những ma pháp vặt đơn giản thôi, nên sẽ không tốn nhiều thời gian của em đâu."
+"Anh bớt chọc tức con bé đi, Rentt..." Cô thì thầm rồi quay sang dịu giọng trấn an Alize: "Em sẽ sớm làm được hết thôi mà, Alize. Mấy cái đó chỉ là ma pháp vặt đơn giản, không tốn của em nhiều thời gian đâu."
 
-Than ôi, mười năm khổ luyện của tôi đã bị tầm thường hóa chỉ bằng một câu nói duy nhất...
+Đấy, mười năm khổ luyện của tôi bị cô ấy gạt phắt đi chỉ bằng một câu nói...
 
-Dẫu vậy, lời Lorraine nói cũng có phần đúng. Tôi chẳng thể phủ nhận thứ ma thuật mình vừa sử dụng quả thực rất đơn giản; nói đúng hơn thì, lúc này tôi cảm thấy như mình hoàn toàn có thể dễ dàng phóng ra một tia nước bắn vọt từ lòng bàn tay nếu chịu khó thử sức. Đó là một ma pháp vặt đơn giản nằm trong kho tàng khiêm tốn của Ma Thuật Sinh Hoạt. Lẽ dĩ nhiên đó chỉ là một ma pháp quy mô nhỏ, nhưng nếu tôi rót đủ Ma Lực vào đó, biết đâu tôi lại có thể khuếch đại uy lực của nó thì sao...
+Nhưng mà Lorraine nói cũng đúng. Tôi không phủ nhận thứ ma thuật mình vừa dùng quá đỗi đơn giản; nói đúng hơn thì lúc này tôi cảm thấy nếu muốn, mình thừa sức bắn ra cả một vòi nước từ lòng bàn tay. Đó chỉ là ma pháp vặt nằm trong kho tàng ít ỏi của Ma Thuật Sinh Hoạt. Đương nhiên quy mô của nó rất nhỏ, nhưng nếu tôi dồn đủ Ma Lực vào, khéo lại khuếch đại được uy lực của nó không chừng...
 
-Biết đâu nó còn đáng để thử nghiệm nữa ấy chứ, hoặc ít nhất là tôi đã nghĩ như vậy. Tiếng kêu của Alize khi cô bé đứng phắt dậy đã cắt ngang dòng suy nghĩ của tôi.
+Nghĩ bụng biết đâu cũng đáng để thử một phen, nhưng tiếng thốt lên của Alize khi đứng dậy đã cắt ngang dòng suy nghĩ của tôi.
 
-"Vậy thì... cho tới khi làm được như thế, em sẽ tiếp tục cố gắng!"
+"Thế thì... chừng nào chưa làm được như thế, em sẽ còn tiếp tục cố gắng!"
 
-Chẳng hiểu vì lý do gì mà Alize dường như được tiếp thêm động lực, nét háo hức hiện rõ trên từng đường nét khuôn mặt cô bé. Dù đang mệt mỏi, song giờ đây cô bé đứng thẳng dậy bằng chính ý chí kiên cường tuyệt đối.
+Chẳng hiểu sao Alize lại hừng hực khí thế trở lại, vẻ háo hức hiện rõ trên mặt. Đang mệt lả là thế, vậy mà giờ con bé lại gượng đứng dậy bằng chính ý chí kiên cường.
 
-"Vậy sao?" Lorraine mỉm cười nhìn cô học trò đầy nhiệt huyết của mình. "Thế thì... chúng ta hãy thử thêm một chút nữa nhé."
+"Thế cơ à?" Lorraine mỉm cười nhìn cô học trò đầy nhiệt huyết. "Vậy thì... mình thử thêm một chút nữa nhé."
 
-Lorraine liếc nhìn tôi một cái, một nụ cười thoáng hiện trên gương mặt cô. Trước khi tôi kịp phản ứng, cô đã lại nắm lấy hai cánh tay của Alize, và quá trình truyền dẫn Ma Lực lại bắt đầu lại từ đầu.
+Lorraine liếc nhìn tôi, khóe môi thoáng nở nụ cười. Tôi còn chưa kịp phản ứng thì cô đã lại nắm lấy hai cánh tay Alize, tiếp tục quá trình truyền dẫn Ma Lực.
 
 ◆◇◆◇◆
 
-"Hự..." Alize rên rỉ, chìm đắm trong sự tập trung cao độ khi cô bé liều mình cố gắng dẫn truyền Ma Lực vào đầu ngón tay trỏ.
+"Ư..." Alize rên khẽ, tập trung cao độ ra sức dồn Ma Lực vào đầu ngón tay trỏ.
 
-Miễn là đã quen với nó, Ma Lực thực tế có thể được dẫn truyền tới hầu như bất kỳ bộ phận nào trên cơ thể. Đối với phần lớn con người, đôi bàn tay thường là nơi Ma Lực lưu chuyển tới và phóng ra ngoài.
+Chỉ cần dùng quen thì người ta có thể dẫn Ma Lực tới gần như mọi bộ phận trên cơ thể. Nhưng với đa số con người, hai bàn tay vẫn là nơi Ma Lực dễ chảy tới và giải phóng ra nhất.
 
-Tại những vùng đất này, việc đa số mọi người liên tưởng ma pháp được bắn ra từ lòng bàn tay hoặc các ngón tay vốn là điều hết sức phổ biến. Nhiều giả thuyết đã được đưa ra để giải thích cho hiện tượng này: chẳng hạn như việc dẫn Ma Lực qua cánh tay là dễ dàng nhất, hay đó là thứ mà hầu hết mọi người đều có thể dễ dàng hình dung. Dù là trường hợp nào đi nữa, hiện tượng ấy hoàn toàn có thật và rất đỗi thông thường.
+Ở những vùng đất này, ai nấy đều quen với ý nghĩ ma pháp được bắn ra từ lòng bàn tay hoặc đầu ngón tay. Người ta đưa ra nhiều cách giải thích cho hiện tượng này: nào là Ma Lực dễ dẫn qua cánh tay nhất, nào là hầu hết mọi người dễ hình dung như thế. Dù giải thích thế nào đi nữa thì thực tế đúng là như vậy.
 
-Về phần mình, cá nhân tôi có quen một ma pháp sư sở hữu khả năng bắn ma pháp từ đôi mắt, và tôi cảm thấy giả thuyết về trí tưởng tượng có sức thuyết phục hơn cả. Vị ma pháp sư ấy hoàn toàn có thể dẫn Ma Lực qua hai bàn tay. Có lần tôi từng hỏi tại sao anh ta lại chọn dùng mắt thay thế, và câu trả lời của anh ta thực sự rất khó quên: "Bởi vì trông nó ngầu." Than ôi, quả là một kẻ ấn tượng đến khó phai.
+Riêng tôi thì có quen một ma pháp sư bắn được ma pháp từ mắt, nên tôi thấy giả thuyết về trí tưởng tượng có lý hơn. Gã đó thừa sức dẫn Ma Lực qua tay. Có lần tôi hỏi sao lại thích dùng mắt, câu trả lời của gã làm tôi nhớ mãi: "Tại trông nó ngầu." Đúng là một gã lập dị khó quên.
 
-Đùa một chút thôi, chứ tôi đồ rằng việc người quen ma pháp sư của mình bắn ma pháp từ mắt chính là lựa chọn nhanh nhất và dễ dàng nhất đối với anh ta. Những ma pháp sư dị biệt như vậy vẫn tồn tại, dẫu số lượng của họ tuyệt nhiên không hề nhiều.
+Đùa vậy thôi chứ tôi đoán với gã ma pháp sư quen biết đó, bắn ma pháp từ mắt là cách nhanh và dễ nhất với gã. Những ma pháp sư kỳ lạ như thế vẫn có, dù số lượng chẳng được bao nhiêu.
 
-"Hừm... Phải rồi. Không tệ chút nào đâu. Giờ em đã có thể lưu chuyển Ma Lực bên trong cơ thể rồi đấy. Dẫu vẫn chỉ là một lượng nhỏ so với toàn bộ những gì em có, nhưng với ngần này Ma Lực, em có thể thi triển một hai ma pháp vặt mà không gặp quá nhiều trở ngại."
+"Hừm... Được đấy. Không tệ chút nào. Xem ra em đã điều khiển được Ma Lực chuyển động trong người rồi. Tuy lượng đó vẫn còn ít so với toàn bộ Ma Lực em có, nhưng chừng này cũng đủ để em dùng một hai ma pháp vặt mà không gặp mấy trở ngại đâu."
 
-Alize không đáp lại, hơi thở của cô bé phát ra từng tiếng hổn hển nghẹn ngào.
+Alize không đáp, chỉ thở dốc từng hơi khò khè hổn hển.
 
-"Hự... Hà... Hà..."
+"Hự... Hộc... Hộc..."
 
-Khi sự tập trung bị gián đoạn, luồng Ma Lực đọng trên ngón tay Alize liền tan biến mất.
+Mất tập trung, luồng Ma Lực nơi đầu ngón tay Alize liền tan biến.
 
-"Em có sao không, Alize? Lần truyền dẫn kế tiếp này sẽ thực sự rất khắc nghiệt đấy..."
+"Em có sao không, Alize? Lần truyền tiếp theo sẽ mệt lắm đấy..."
 
-Lorraine lên tiếng cảnh báo Alize bằng tông giọng thoáng vẻ âu lo. Alize đang khom người bò rạp trên mặt đất bằng cả tứ chi, vẫn cố gắng thở dốc để lấy lại hơi.
+Lorraine cảnh báo, giọng thoáng chút lo lắng. Alize lúc này đang chống tay quỳ rạp dưới sàn, cố thở dốc để lấy lại hơi.
 
-Những nỗ lực trước đó của Alize chẳng khác nào hai ba lượt chạy nước rút cự ly ngắn hết tốc lực. Còn sự mệt mỏi hiện tại của Alize lại hệt như cô bé vừa chạy vài vòng marathon quanh những bức tường thành của Maalt vậy, thành thử đứa trẻ lúc này đã gần chạm tới giới hạn của mình.
+Những đợt gồng mình trước đó của Alize chẳng khác nào hai ba lượt chạy nước rút hết tốc lực. Còn cơn mệt mỏi lúc này thì hệt như con bé vừa chạy việt dã mấy vòng quanh tường thành Maalt vậy, đâm ra đã gần chạm tới giới hạn chịu đựng.
 
-Người ta có thể cho rằng như thế là hơi quá mức đối với ngày học đầu tiên của con bé, nhưng có lẽ đây lại là điều tốt nhất. Những chế độ nghiêm ngặt nhất nên được áp dụng ngay từ thuở ban đầu. Thật không ngờ Alize lại chạm tới gần giới hạn thể chất của mình đến thế chỉ bằng việc học ma thuật... Cô bé chắc chắn sẽ trở thành một mạo hiểm giả xuất sắc trong tương lai.
+Người ngoài nhìn vào hẳn sẽ thấy ngày đầu tiên mà thế này là hơi quá, nhưng có khi vậy lại hay. Đã rèn thì phải rèn nghiêm khắc ngay từ đầu. Mới học ma thuật thôi mà Alize đã chịu khó vắt kiệt sức mình đến thế... Sau này con bé nhất định sẽ là một mạo hiểm giả cừ khôi.
 
-Dẫu các ma pháp sư thường có thể lực và sức bền kém hơn những người anh em đồng nghiệp mạo hiểm giả, song Alize sẽ phải sở hữu mức thể lực cao hơn hẳn một thị dân bình thường để có thể sinh tồn. Ngay cả Lorraine, người có nghề nghiệp chính là học giả và chỉ nhận ủy thác từ Hội khi có hứng, cũng là một nhân vật đáng gờm. Chẳng hạn, cô sẽ chẳng bao giờ chịu thua mấy gã du côn vu vơ ngoài đường trong trò vật tay cả. Rốt cuộc thì các mạo hiểm giả luôn bị buộc phải thực hiện những công việc lao động chân tay và kỳ tích thể chất một cách thường xuyên, hoặc chí ít là dần dà cũng sẽ đủ khả năng làm được những việc ấy. Các phương thức dẫn tới điều này rất đa dạng. Có thể là qua rèn luyện khổ cực, hoặc có thể chỉ là nhờ nguồn sức mạnh hấp thụ từ chính những kẻ thù mà họ đã tiêu diệt.
+Dù ma pháp sư thường yếu sức và kém bền hơn các mạo hiểm giả khác, nhưng muốn sinh tồn thì thể lực của Alize vẫn phải vượt trội hơn hẳn dân thị trấn thông thường. Ngay cả Lorraine, một học giả chính hiệu chỉ thỉnh thoảng hứng lên mới nhận ủy thác của Hội, cũng là một tay đáng gờm. Đơn cử như việc vật tay, cô chẳng bao giờ chịu thua mấy gã du côn ất ơ ngoài đường. Dù sao thì mạo hiểm giả cũng luôn phải vận động tay chân nặng nhọc, hoặc rồi cũng đến lúc quen dần với việc đó. Cách để đạt được thì muôn hình vạn trạng: có thể do rèn luyện vất vả, hoặc đơn giản là hấp thụ sức mạnh từ những kẻ địch mà họ đã tiêu diệt.
 
-"Em... hoàn toàn... ổn ạ. Cho tới khi em có thể làm được điều mà... anh Rentt... Điều mà anh Rentt... đã làm... em sẽ tiếp tục... cố gắng..."
+"Em... không... sao đâu ạ. Chừng nào chưa làm được... như anh Rentt... Như những gì anh Rentt làm... em sẽ còn... cố..."
 
-Suốt lúc ấy Alize vẫn nhìn tôi như muốn phóng dao găm. Có lẽ nguyên do là bởi vòi nước vẫn đang không ngừng tuôn trào từ một lòng bàn tay của tôi.
+Suốt lúc ấy Alize cứ nhìn tôi như muốn tóe lửa. Có lẽ tại cái vòi nước vẫn đang không ngừng phun ra từ lòng bàn tay tôi.
 
-Quả là một nghị lực đáng ngưỡng mộ đối với một đứa trẻ ở độ tuổi của cô bé. Nếu đặt mình vào vị trí của em ấy, hẳn là tôi đã tuyên bố kết thúc buổi học từ nãy rồi.
+Với một đứa trẻ tầm tuổi con bé thì quả là kiên cường đáng nể. Rơi vào cảnh đó thì chắc tôi đã xin nghỉ từ tám đời rồi.
 
-Lorraine quay sang Alize, nỗi lo âu hiện rõ trong giọng nói của cô.
+Lorraine quay sang Alize, giọng lộ rõ vẻ lo lắng:
 
-"Tôi không phiền đâu, phải... nhưng em thực sự không nên gượng ép bản thân đâu, Alize à. Rõ ràng là Rentt đang khiêu khích em. Dẫu anh ấy có vẻ như đang đùa giỡn, nhưng quá trình rèn luyện mà anh ấy từng trải qua để làm được đúng điều đó lại chẳng khác nào địa ngục trần gian cả. Đó là cách anh ấy khích lệ em đấy, Alize à, để bảo em hãy nỗ lực hết mình dẫu bản thân đã thấm mệt."
+"Tôi thì không sao đâu... nhưng em đừng ráng sức quá, Alize. Rõ ràng là Rentt đang chọc tức em đấy. Trông anh ấy như đùa cợt thế thôi, chứ hồi trước để làm được như vậy, anh ấy phải khổ luyện chẳng khác nào địa ngục. Đấy là cách anh ấy khích lệ em, muốn em cố gắng thêm chút nữa dù đã mệt lử rồi đấy."
 
-Thật là nói nhảm! Tôi đâu có ý định như thế...
+Nói nhảm thật! Tôi đâu có ý đó...
 
-Có lẽ vậy...
+Chắc thế...
 
-Con người vốn là một chủng tộc có khả năng lập nên những kỳ tích vĩ đại nếu họ chịu dốc sức thử sức. Thế nhưng, Alize chỉ mỉm cười nhìn Lorraine xen giữa những hơi thở dốc của mình.
+Con người vốn là giống loài có thể làm nên những chuyện phi thường nếu chịu dốc sức. Vừa thở dốc, Alize vừa nhìn Lorraine mỉm cười.
 
-"Em hiểu rồi ạ. Em... không... giận đến thế đâu. Nhưng mà thưa Học Sĩ Lorraine... liệu có thực sự làm được không ạ? Để em có thể làm được điều mà... anh Rentt làm ấy? Chỉ trong một ngày thôi sao ạ?"
+"Em hiểu mà. Em... không... giận đến mức đó đâu ạ. Nhưng mà thưa Học Sĩ Lorraine... liệu có thật không ạ? Em thực sự có thể làm được như... anh Rentt sao? Chỉ trong một ngày thôi ạ?"
 
-"Hừm. Chà... Rentt sẽ không gợi ý một điều gì đó vượt quá tầm với của em đâu. Nếu buộc phải nhận xét... thì em đã gần đạt tới mức đó rồi. Có lẽ chỉ cần cố thêm một chút xíu nữa thôi. Nếu em có khả năng làm được điều ấy... thì bài học của chúng ta cho ngày hôm nay có thể kết thúc được rồi."
+"Rentt không gợi ý điều gì vượt quá tầm với của em đâu. Nếu phải nói thì... em sắp chạm tới mức đó rồi. Ráng thêm một chút nữa thôi. Khi nào làm được thì buổi học hôm nay có thể kết thúc."
 
-"Vậy thì... em sẽ làm. Em sẽ làm được... Tiếp theo em nên làm gì ạ?"
+"Thế thì... em sẽ làm. Em làm được mà... Giờ em phải làm gì tiếp ạ?"
 
-Lorraine gật đầu. "Tiếp theo sẽ là phần hướng dẫn về thứ ma pháp vặt mà Rentt đã thi triển suốt nãy giờ. Nói cách khác, đó là thứ gợi lên trong tâm trí em hình ảnh cụ thể về ma thuật đang nói tới. Có một vài cách để thực hiện: bằng một câu thần chú đầy đủ, một câu thần chú rút gọn, hoặc hoàn toàn không cần niệm chú. Đương nhiên là vẫn còn những phương thức khác đặc biệt hơn nữa, nhưng hiện tại ba cách này là đủ rồi. Em có hiểu không, Alize?"
+Lorraine gật đầu. "Tiếp theo là học về cái ma pháp vặt mà Rentt vừa dùng. Nói cách khác, đó là thứ giúp em định hình ma thuật đó trong đầu. Có mấy cách làm: niệm đầy đủ câu thần chú, niệm chú rút gọn, hoặc không cần niệm chú gì cả. Đương nhiên vẫn còn những cách khác đặc biệt hơn, nhưng tạm thời ba cách này là đủ rồi. Em hiểu chứ, Alize?"
 
-"Em nghĩ là em đã nắm được... đại ý của nó rồi ạ..." Alize chậm rãi gật đầu, song nét mặt của cô bé đã phản bội lại lời nói, để lộ sự thật rằng em hiểu rất ít, thậm chí chẳng hiểu gì mấy.
+"Em nghĩ là mình... nắm được đại ý rồi ạ..." Alize chậm rãi gật đầu, nhưng vẻ mặt ngơ ngác đã tố cáo con bé hiểu chẳng được bao nhiêu, nếu không muốn nói là chưa hiểu tí gì.
 
-Điều này vốn dĩ nằm trong dự tính, và Lorraine cũng thừa hiểu điều đó.
+Chuyện này cũng dễ hiểu thôi, và Lorraine biết tỏng.
 
-"Được rồi, được rồi. Tôi cho rằng một màn thị phạm là rất cần thiết vào lúc này. Vậy thì, hãy để Rentt, người đã không ngừng khiêu khích nhiệt tình từ nãy tới giờ bên lề, gánh vác trách nhiệm cho nhiệm vụ này đi. Anh vẫn còn nhớ câu thần chú chứ hả, Rentt?"
+"Được rồi, được rồi. Xem ra phải làm mẫu một lần mới được. Vậy thì nhờ Rentt nhé, người nãy giờ đứng ngoài nhiệt tình chọc ngoáy. Liệu mà nhận trách nhiệm đi. Anh vẫn nhớ câu thần chú chứ hả, Rentt?"
 
-Lorraine xem chừng rất đỗi thích thú khi thốt ra những lời ấy, nếu có thể dựa vào nụ cười trên gương mặt cô để phán đoán.
+Nhìn nụ cười trên môi Lorraine là đủ biết cô đang khoái chí lắm.
 
 ◆◇◆◇◆
 
 "..."
 
-Đó quả là một cảnh tượng kỳ quặc. Tôi đứng im thin thít giữa phòng, trong khi cả Alize lẫn Lorraine chăm chú dõi theo.
+Quả là một cảnh tượng buồn cười. Tôi đứng câm như hến giữa phòng, dưới ánh mắt chăm chú của Alize và Lorraine.
 
-Đây chính là màn thị phạm cho thứ Ma Thuật Sinh Hoạt đang được nói tới. Dẫu tôi chỉ là một mạo hiểm giả Đồng Cấp, song tôi cũng là một tay kỳ cựu trong nghề, thành thử việc họ viện đến tôi như một giáo cụ ma thuật trực quan xem ra cũng là điều tự nhiên, một bước chuyển tiếp êm thắm trong giáo trình.
+Đấy, thị phạm Ma Thuật Sinh Hoạt là thế này đây. Dù chỉ là mạo hiểm giả Đồng Cấp nhưng tôi cũng thuộc hàng kỳ cựu trong nghề, nên việc lôi tôi ra làm giáo cụ ma thuật trực quan xem chừng cũng hợp lý, một bước chuyển tự nhiên trong giáo án.
 
-Tuy nhiên, tôi chẳng dám nói là mình tự tin... Nhưng ngẫm lại thì đó cũng chỉ là ma thuật sơ đẳng, chính là thứ ma pháp vặt đã tiếp thêm động lực cho Alize bước tiếp khi cô bé chứng kiến lần đầu.
+Khổ nỗi tôi chẳng tự tin chút nào... Cơ mà ngẫm lại thì đó cũng chỉ là ma thuật sơ đẳng, đúng cái ma pháp vặt vừa khích lệ Alize khi con bé nhìn thấy lần đầu.
 
-Vấn đề nằm ở yêu cầu của Lorraine, cụ thể là câu thần chú của ma pháp vặt này. Nguyên do là bởi tôi vốn chẳng thực sự sử dụng bất kỳ câu chú nào. Nói rằng tôi hoàn toàn không dùng câu chú thì cũng không hẳn chính xác, bởi tôi vẫn nhớ lại được vài ba ví dụ mẫu mực trong sách giáo khoa mà mình từng học thời niên thiếu.
+Ngặt nỗi Lorraine lại đòi tôi niệm chú. Khổ nỗi tôi làm gì có thói quen niệm câu chú nào đâu. Bảo không biết tí thần chú nào thì cũng không hẳn, vì trong đầu tôi vẫn còn sót lại vài ví dụ chuẩn sách giáo khoa học từ hồi trẻ.
 
-Ma thuật là thứ càng trở nên mang tính bản năng khi người ta càng quen thuộc với nó. Những câu thần chú dài dần biến thành ngắn, rồi theo thời gian, một ma pháp quen thuộc thậm chí chẳng cần bất kỳ câu niệm chú nào nữa. Suốt khoảng một thập kỷ ròng, tôi đã thi triển ba ma pháp đơn giản này lặp đi lặp lại không biết bao nhiêu lần. Thành thử, tôi hầu như chẳng cần tới câu chú nào để gọi ra những ma pháp ấy thêm lần nữa. Đó là lý do vì sao tôi chỉ còn nhớ được đôi chút về những câu thần chú mình từng dùng thuở còn sống...
+Ma thuật là thứ càng dùng quen tay thì càng mang tính bản năng. Câu chú dài rút thành câu chú ngắn, rồi theo thời gian, ma pháp đã quen thuộc thì chẳng cần niệm chú nữa. Suốt cả chục năm trời, tôi cứ thi triển đi thi triển lại ba ma pháp cỏn con này. Thành ra chẳng bao giờ tôi phải niệm chú để gọi chúng ra. Đó là lý do vì sao tôi hầu như chẳng nhớ nổi câu thần chú nào thời còn sống...
 
-Khoan đã... Chẳng lẽ Lorraine yêu cầu tôi làm việc này là vì cô thừa biết chuyện này sẽ xảy ra sao? Hự...
+Khoan đã... Chẳng lẽ Lorraine bắt tôi làm việc này là vì cô thừa biết tôi sẽ bí sao? Chậc...
 
-"Hừm... À. 'Hỡi ngọn lửa. Hãy để Ma Lực của ta hóa thành nguồn nuôi dưỡng, và hiển hiện trước mắt ta... Ignite Aryumage.'"
+"Hừm... À. 'Hỡi ngọn lửa. Hãy lấy Ma Lực của ta làm mồi, hiển hiện trước mắt ta... Ignite Aryumage.'"
 
-Ngay khi câu thần chú vừa dứt, một ngọn lửa nhỏ liền hiện hình trên đầu ngón tay tôi. Đây là ma pháp đã hỗ trợ tôi suốt những năm tháng cắm trại nơi chốn hoang dã suốt ngần ấy năm trời. Việc tôi có thể thi triển nó một cách đơn giản như vậy cũng là điều dễ hiểu.
+Câu chú vừa dứt, một ngọn lửa nhỏ liền bùng lên nơi đầu ngón tay tôi. Đây là ma pháp đã cứu cánh cho tôi mỗi lần hạ trại nơi hoang dã suốt bao năm qua. Tôi thi triển nó dễ dàng như trở bàn tay cũng là điều tự nhiên.
 
-Vấn đề nằm ở câu thần chú—liệu tôi đã đọc đúng chưa? Phần lớn có lẽ là đúng rồi, nhưng còn các chi tiết thì sao? Tôi không chắc chắn lắm về câu chữ... Là ngọn lửa ư? Hay là tàn lửa? Đốm lửa? Liệu có thiếu sót chữ nào không? Hiển hiện trước mắt ta? Xuất hiện trước mắt ta? Hãy được triệu hồi trước... Hừm. Chịu thôi. Tôi thực sự chẳng thể nào nhớ nổi nữa.
+Có điều câu thần chú thì sao, liệu tôi có đọc đúng không? Chắc là trúng được phần lớn, nhưng chi tiết thì thế nào? Tôi không chắc về câu từ cho lắm... Là ngọn lửa? Hay đóm lửa? Hay tàn lửa? Có thiếu chữ nào không? Hiển hiện trước mắt ta? Xuất hiện trước mắt ta? Hãy được triệu hồi... Hừm. Thôi chịu, tôi chẳng tài nào nhớ nổi.
 
-Sự ngờ vực hẳn đã lộ rõ trên mặt tôi, bởi Lorraine chẳng nói lấy một lời. Thay vào đó, cô lặng lẽ quan sát tôi với nét mặt lộ rõ vẻ thích thú. Cảm giác hoài nghi càng lúc càng len lỏi sâu hơn vào tâm can tôi.
+Vẻ hoang mang chắc đã lộ rõ trên mặt tôi, vì Lorraine chẳng nói nửa lời. Cô chỉ lặng lẽ nhìn tôi, khóe mắt ánh lên vẻ khoái trá thấy rõ. Nỗi hoang mang trong lòng tôi lại càng trĩu nặng.
 
-Về phần Alize, cô bé ngước nhìn tôi đầy vẻ kính ngưỡng, cứ như thể tôi là một vị tiền nhân vĩ đại đang soi sáng con đường phía trước cho em vậy... Đó là nếu như câu thần chú vừa rồi thực sự đúng.
+Còn Alize thì ngước nhìn tôi đầy ngưỡng mộ, cứ như thể tôi là bậc tiền bối vĩ đại đang soi đường dẫn lối cho con bé vậy... Đó là nếu câu chú vừa rồi đúng.
 
-Suốt vài phút đồng hồ nghẹt thở, Lorraine vẫn giữ im lặng trước khi rốt cuộc cũng chịu mở lời.
+Vài phút trôi qua nghẹt thở như tra tấn, Lorraine vẫn im bặt rồi mới chịu mở miệng.
 
-"Hô... Hóa ra anh vẫn còn nhớ đấy à? Bất ngờ thật đấy. Làm tốt lắm, Rentt," cô nói, nụ cười ấy vẫn đọng trên khóe môi.
+"Hô... Hóa ra anh vẫn nhớ cơ à? Bất ngờ thật đấy. Làm tốt lắm, Rentt." Cô nói, nụ cười vẫn đọng trên môi.
 
-Tôi thở phào nhẹ nhõm một hơi. Thế là kiếp nạn của tôi rốt cuộc cũng đã qua đi.
+Tôi thở phào nhẹ nhõm. Thế là cái ải này rốt cuộc cũng qua.
 
-"Tôi cũng không chắc lắm... Rất đỗi hoang mang là đằng khác... Dù sao thì, nhớ ra được là may rồi. Em có làm được như vậy không, Alize?"
+"Nãy tôi cũng run lắm... hoang mang chết đi được... Dù sao thì nhớ ra được là may rồi. Em làm được như vậy không, Alize?"
 
-Tôi đã ngỡ Alize sẽ phát cáu trước những màn khiêu khích liên tục của mình, nhưng cô bé lại phản ứng theo một cách tương đối bất ngờ.
+Tôi cứ ngỡ Alize sẽ cáu tiết vì bị tôi chọc ngoáy nãy giờ, ai ngờ con bé lại phản ứng theo cách chẳng ai ngờ tới.
 
-"Hừm... Em cũng không thực sự rõ nữa. Liệu em có làm được thật không ạ? Em vẫn thấy anh tuyệt vời lắm, anh Rentt..."
+"Hừm... Em cũng không rõ nữa. Liệu em có làm được thật không? Cơ mà em thấy anh vẫn cừ lắm, anh Rentt..."
 
-Chẳng hề có chút ác ý nào trong lời nói của cô bé. Giữa Alize và tôi, tôi chẳng còn biết rốt cuộc ai mới là người chín chắn hơn nữa.
+Trong lời nói của con bé chẳng có chút ác ý nào. Giữa Alize và tôi, chẳng biết ai mới là người chín chắn hơn nữa.
 
-Chà... nói thế cũng không hoàn toàn đúng. Rõ ràng là tôi trẻ con hơn rồi. Tôi thừa biết điều đó mà.
+À mà... nói thế cũng không đúng. Rõ ràng là tôi trẻ con hơn rồi. Tôi tự biết tỏng mà.
 
-Lorraine nhanh chóng tiếp lời câu chuyện. "Dĩ nhiên là em làm được rồi, Alize. Có rất nhiều mẹo và bí quyết cơ bản mà em có thể áp dụng... Đương nhiên hỏi Rentt thì tốt hơn nhiều. Dù sao đi nữa thì anh ấy cũng là một tay kỳ cựu khi nói đến ma thuật cấp độ nhập môn."
+Lorraine liền tiếp lời: "Dĩ nhiên là em làm được rồi, Alize. Có nhiều mẹo cơ bản em có thể áp dụng lắm... Mà đương nhiên hỏi Rentt thì hơn. Dù sao anh ấy cũng là bậc thầy lão luyện trong mấy món ma thuật vỡ lòng."
 
-Độ thuần thục một loại ma thuật cụ thể sẽ ảnh hưởng trực tiếp tới tốc độ thi triển cùng uy lực của ma pháp ấy. Nhờ khổ luyện đúng ba ma pháp đó suốt hơn một thập kỷ, tôi có thể tự tin khẳng định độ thuần thục của mình đối với chúng thậm chí có thể sánh ngang với cả Lorraine.
+Mức độ thuần thục một loại ma thuật ảnh hưởng trực tiếp tới tốc độ niệm và uy lực của phép đó. Luyện đi luyện lại đúng ba ma pháp suốt hơn chục năm trời, tôi dám tự tin khẳng định độ thuần thục của mình với chúng chẳng thua kém gì Lorraine.
 
-Xoay người lại, Alize ngước nhìn tôi với ánh mắt đầy mong đợi. Xem ra cô bé đã sẵn sàng đón nhận lời khuyên rồi đây.
+Alize quay sang ngước nhìn tôi đầy mong đợi. Chưa gì đã muốn xin bí quyết rồi đây.
 
-"Hãy tập trung Ma Lực của em vào một điểm duy nhất. Sau đó ổn định luồng Ma Lực đã tập trung ấy. Hãy hình dung trong tâm trí kết quả mà em mong muốn... Đó là những bước áp dụng cho đủ mọi loại ma thuật khác. Cứ việc tưởng tượng những gì em muốn làm, chẳng hại gì đâu... anh nghĩ thế."
+"Gom Ma Lực của em vào một điểm duy nhất. Sau đó giữ cho luồng Ma Lực đó ổn định lại. Rồi hình dung kết quả em mong muốn trong đầu... Ma thuật nào cũng áp dụng mấy bước này cả. Cứ tưởng tượng điều em muốn làm trong đầu, chẳng mất gì đâu... anh nghĩ thế."
 
-Dẫu là một tay kỳ cựu trong mảng này, song tôi không thể sử dụng bất kỳ ma pháp nào ngoài Ma Thuật Sinh Hoạt, nên tôi chẳng dám đưa ra những lời tuyên bố đao to búa lớn về ma thuật cấp cao hơn.
+Dù dày dạn kinh nghiệm ở mảng này, nhưng ngoài Ma Thuật Sinh Hoạt ra tôi chẳng biết dùng phép nào khác, nên cũng không dám phán bừa về ma thuật cấp cao.
 
-"Lời Rentt nói rất đúng đấy." Lorraine gật đầu đồng tình. "Trí tưởng tượng là một thứ vô cùng mạnh mẽ. Hãy hình dung kết quả trong tâm trí em; điều này cũng sẽ hỗ trợ cho các loại ma thuật khác nữa. Dĩ nhiên là mẹo và bí quyết cho những loại ma pháp khác cũng tồn tại... Dù sao đi nữa, cách nhanh nhất cho em là cứ thử bắt tay vào làm. Câu thần chú là bước đầu tiên; hãy ghi nhớ nó, rồi sau đó niệm chú. Em có làm được không, Alize?"
+"Rentt nói đúng đấy." Lorraine gật đầu tán thành. "Trí tưởng tượng rất quan trọng. Hình dung kết quả trong đầu sẽ giúp ích cho mọi loại ma thuật khác. Dĩ nhiên với từng loại phép lại có những mẹo riêng... Nhưng tốt nhất là em cứ bắt tay vào thử luôn. Câu thần chú là bước đầu tiên: nhớ kỹ rồi niệm lên. Em làm được chứ, Alize?"
 
-Alize lập tức gật đầu, đứng dậy và chuẩn bị sẵn sàng thêm một lần nữa.
+Alize lập tức gật đầu, đứng dậy lấy lại thế sẵn sàng.
