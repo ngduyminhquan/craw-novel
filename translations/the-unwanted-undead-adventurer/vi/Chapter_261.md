@@ -142,7 +142,7 @@ Thế nhưng, Lorraine chẳng hề đắn đo mà lập tức đáp lời: "Đ�
 
 Nói rồi cô rảo bước đi xuống sàn đấu. Goblin rất nhanh nhạy—chẳng cần đợi ai bảo một lời, anh ta liền tức tốc chạy qua tái kích hoạt kết giới Ma Lực.
 
-Tôi chắc là các bạn có thể đoán được điều gì xảy ra tiếp theo. Lorraine đã trình diễn một màn phô diễn ma pháp hoành tráng, bao gồm cả ba ma pháp cô từng dùng để đả thương ông lão. Năng lượng hủy diệt cùng quy mô khủng khiếp của chúng khiến kết giới Ma Lực rung chuyển bần bật đầy đáng ngại.
+Tôi chắc là ai cũng có thể đoán được điều gì xảy ra tiếp theo. Lorraine đã trình diễn một màn phô diễn ma pháp hoành tráng, bao gồm cả ba ma pháp cô từng dùng để đả thương ông lão. Năng lượng hủy diệt cùng quy mô khủng khiếp của chúng khiến kết giới Ma Lực rung chuyển bần bật đầy đáng ngại.
 
 Fuana há hốc mồm kinh ngạc dõi theo trong câm lặng. Dù vậy cô bé vẫn chăm chú quan sát, và tôi đồ rằng phần tính cách ma pháp sư trong cô bé đang thực sự háo hức muốn học hỏi—
 
@@ -218,7 +218,7 @@ Cho dù có bỏ qua tính xác thực của lời phân bua đó, thì một kh
 
 "Dù sao thì, đó cũng là một trận đấu thú vị," người đàn ông nói. "Ta không hề biết cậu sở hữu dị năng đấy, Rentt. Ít nhất thì ta chưa từng nhận được bất kỳ báo cáo nào về chuyện đó trong khoảng thời gian cậu ở Maalt."
 
-"Cũng phải thôi ạ. Chuyện này mới diễn ra gần đây thôi."
+"Cũng phải thôi. Chuyện này mới diễn ra gần đây thôi."
 
 Người đàn ông vui vẻ gật đầu. "Ha ha! Ra là vậy. Ta cho rằng những chuyện như thế này vẫn thỉnh thoảng xảy ra."
 

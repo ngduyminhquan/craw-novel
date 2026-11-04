@@ -487,7 +487,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vaasa | Spriggan | tôi | ông già / ông | 257 | Thuộc cấp nói chuyện với ông lão Spriggan (raw: gramps) |
 | Spriggan | Vaasa | ta | cậu / Vaasa | 257 | Ông lão nói chuyện với thuộc cấp do mình chiêu mộ |
 | Fuana | Spriggan | tôi | ông già / ông | 257 | Thuộc cấp nói chuyện với ông lão Spriggan (raw: gramps) |
-| Spriggan | Fuana | ta | cô / Fuana | 257 | Ông lão nói chuyện với nữ thuộc cấp |
+| Spriggan | Fuana | ta | con / cô / Fuana | 257 | Ông lão nói chuyện với nữ thuộc cấp |
 | Yattul | Vaasa | tôi | cậu / Vaasa | 257 | Điệp viên Goblin nói chuyện với đồng nghiệp |
 | Vaasa | Yattul | tôi | cậu / Goblin | 257 | Thành viên tổ chức nói chuyện với Goblin |
 | Vaasa | Fuana | tôi | cô / Fuana | 257 | Hai thành viên tổ chức phối hợp nói chuyện với nhau |

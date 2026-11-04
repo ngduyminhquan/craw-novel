@@ -26,7 +26,7 @@ Tất cả diễn ra chỉ trong một tích tắc, thành thử cậu ta còn c
 
 Điều đó có nghĩa là nó ắt hẳn được tạo ra từ dị năng của cậu ta. Như để chứng minh cho điều đó, ngay khoảnh khắc tiếp theo, nó biến đổi hình dạng thành vô số vật phóng giống như mũi tên bắn thẳng về phía tôi. Chúng nhỏ hơn nhiều so với những thanh dao găm lúc trước, nhưng vì số lượng quá đông đảo nên sẽ rất khó để né tránh.
 
-Tôi không thể lùi thẳng ra sau vì khoảng cách quá gần, nên đành vừa thụt lùi vừa di chuyển zích zắc. Dẫu vậy, tôi vẫn không thể tránh được toàn bộ, và một mũi tên đã sượt qua vai tôi. May thay chiếc áo choàng của tôi đã cản lại, và khả năng phòng thủ đáng tin cậy của nó hiếm khi để bất cứ thứ gì xuyên qua. Mũi tên nhỏ xíu bị bật văng ra ngoài.
+Tôi không thể lùi thẳng ra sau vì khoảng cách quá gần, nên đành vừa thụt lùi vừa di chuyển zích zắc. Dẫu vậy, tôi vẫn không thể tránh được toàn bộ, và một mũi tên đã bắn trúng vai tôi. May thay chiếc áo choàng của tôi đã cản lại, và khả năng phòng thủ đáng tin cậy của nó hiếm khi để bất cứ thứ gì xuyên qua. Mũi tên nhỏ xíu bị bật văng ra ngoài.
 
 Vaasa, có lẽ được tiếp thêm khí thế khi thấy tôi lùi bước, liền lao tới tấn công tôi. Đợt công kích bằng giáo của cậu ta vô cùng mãnh liệt. Mở màn bằng một cú chém dọc, ngay sau khi tôi né được thì lập tức biến thành một đường quét ngang, rồi khi tôi nhảy lùi ra sau thì chuyển thành một đòn đâm thẳng.
 
@@ -50,7 +50,7 @@ Và canh bạc ấy đã thành công. Thanh kiếm truyền Khí Lực của t�
 
 "Ôi, chết tiệt!" Vaasa hét lên.
 
-Cậu ta ngừng đợt tấn công và lùi lại, có lẽ vì nhận định rằng việc tiếp tục cận chiến lúc này sẽ là bất khôn ngoan.
+Cậu ta ngừng đợt tấn công và lùi lại, có lẽ vì nhận định rằng việc tiếp tục cận chiến lúc này sẽ chẳng mấy khôn ngoan.
 
 Màn trả đũa thành công mỹ mãn. Tôi nhìn sang Vaasa, trong lòng có chút le lói hy vọng rằng việc bẻ gãy vũ khí của cậu ta đồng nghĩa với việc tôi đã thắng, nhưng trông cậu ta vẫn hừng hực khí thế muốn tiếp tục. Trận chiến vẫn chưa kết thúc...
 

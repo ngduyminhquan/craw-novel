@@ -20,7 +20,7 @@ Bằng một chất giọng chẳng hề ăn nhập với vóc dáng nhỏ bé c
 
 Fuana là người ra tay trước. Theo hiệu lệnh của ông lão, cô bé tập trung Ma Lực, rồi bắn ra một phát Fotiá Volídas không cần niệm chú, một quả hỏa cầu. Việc nó có kích thước lớn gấp nhiều lần so với của một ma pháp sư thông thường, cộng thêm tốc độ hiển hiện nhanh đến kinh ngạc, cho thấy rõ ràng cô bé vô cùng điêu luyện.
 
-Fotiá Volídas không phải là một ma pháp quá đỗi cao cấp, nên việc thi triển được nó chẳng có gì để huênh hoang, nhưng cũng không thể xem nhẹ. Nó có thể không đả thương nổi một con quái vật trâu bò cứng cáp, nhưng nếu đánh trúng trực diện thì chắc chắn sẽ khiến một đối thủ con người bình thường phải khốn đốn. Nó ngưng tụ rất nhanh và không tiêu tốn nhiều Ma Lực. Hơn nữa, tương tự như quả cầu Fuana vừa bắn ra, người ta có thể tùy chỉnh uy lực và kích thước của nó. Thế nhưng đó vẫn chưa phải là tất cả.
+Fotiá Volídas không phải là một ma pháp quá đỗi cao cấp, nên việc thi triển được nó chẳng có gì để huênh hoang, nhưng cũng không thể xem nhẹ. Nó có thể không đả thương nổi một con quái vật có sức chống chịu cao, nhưng nếu đánh trúng trực diện thì chắc chắn sẽ khiến một đối thủ con người bình thường phải khốn đốn. Nó ngưng tụ rất nhanh và không tiêu tốn nhiều Ma Lực. Hơn nữa, tương tự như quả cầu Fuana vừa bắn ra, người ta có thể tùy chỉnh uy lực và kích thước của nó. Thế nhưng đó vẫn chưa phải là tất cả.
 
 Vừa thấy Fuana bắn ra Fotiá Volídas, Lorraine liền di chuyển sang bên phải để né tránh đường bay của nó. Đương nhiên, cô đã dùng Ma Lực để cường hóa thể chất, nên tốc độ di chuyển nhanh hơn người bình thường rất nhiều. Thêm vào đó, dù là một ma pháp sư, cô cũng rất am hiểu cận chiến phi ma pháp, nên từng chuyển động đều vô cùng thuần thục và uyển chuyển.
 
@@ -106,7 +106,7 @@ Trận chiến cứ tiếp diễn như thế một hồi lâu, và tôi bắt đ
 
 Cô bé định thử xóa bỏ nó sao? Tôi cứ ngỡ chuyện đó là bất khả thi. Tuy nhiên, hành động tiếp theo của Fuana lại là một điều hoàn toàn mới mẻ. Lần này, cô bé nắm chặt tay lại thành quả đấm và nhắm thẳng vào ma pháp đang lao tới. Rồi cô bé tung một cú đấm thẳng về phía trước, và cùng với một tiếng nổ đinh tai, giáng trúng tâm khối đá đang bốc lửa. Nắm đấm của cô bé lún sâu vào tảng đá... rồi ma pháp liền tan biến.
 
-Rõ ràng là Fuana vừa mới xóa bỏ nó. Cách cô bé làm điều đó gần như hoàn toàn dựa vào man lực thuần túy, và tôi không chắc liệu cách này có duy trì lâu được không, nhưng vẻ mặt ông lão trông như thể đã lường trước điều này sẽ xảy ra. Trước đó ông đã giải thích với chúng tôi rằng chuyện tương tự thế này có thể xảy đến, nên tôi không nghĩ Lorraine lại bị bất ngờ. Còn về việc "điều này" có nghĩa là gì...
+Rõ ràng là Fuana vừa mới xóa bỏ nó. Cách cô bé làm điều đó gần như hoàn toàn dựa vào sức mạnh cơ bắp thuần túy, và tôi không chắc liệu cách này có duy trì lâu được không, nhưng vẻ mặt ông lão trông như thể đã lường trước điều này sẽ xảy ra. Trước đó ông đã giải thích với chúng tôi rằng chuyện tương tự thế này có thể xảy đến, nên tôi không nghĩ Lorraine lại bị bất ngờ. Còn về việc "điều này" có nghĩa là gì...
 
 "Fuana là một ma pháp sư, nhưng con bé cũng là một ma pháp cách đấu sĩ đấy," ông lão nói. "Như cậu vừa thấy, vũ khí của con bé chính là nắm đấm."
 
@@ -154,7 +154,7 @@ Trong số tất cả mọi người, Lorraine có vẻ là người hài lòng 
 
 Tôi vẫn đấu tập với Lorraine, ngay cả sau khi cơ thể mình đã trở thành Undead. Về căn bản thì đó là quá trình rèn luyện cho cả hai chúng tôi, nhưng với cô, nó còn là một thử nghiệm. Kể từ khi biến thành một Undead, tôi liên tục phát triển những dị năng mới một cách đều đặn. Trong các buổi đấu tập, chúng tôi có thể kiểm chứng mức độ của những biến đổi đó ngay giữa trận giao tranh.
 
-Một ví dụ cho điều đó chính là Phân Liệt, nơi tôi của ngày hôm nay sẽ kiểm soát nó thuần thục hơn tôi của ngày hôm qua. Dù vậy sự khác biệt không quá lớn—chỉ là những chuyện như có thể mở rộng vùng bóng tối của mình xa hơn một chút xíu, hay nhanh hơn một phần nhỏ của giây. Tuy nhiên trong một trận chiến, điều đó có thể mang ý nghĩa sống còn. Rốt cuộc thì thắng bại được định đoạt chỉ trong những khoảnh khắc chớp nhoáng nhất.
+Một ví dụ cho điều đó chính là Phân Liệt, khi mà tôi của ngày hôm nay kiểm soát nó thuần thục hơn tôi của ngày hôm qua. Dù vậy sự khác biệt không quá lớn—chỉ là những chuyện như có thể mở rộng vùng bóng tối của mình xa hơn một chút xíu, hay nhanh hơn một phần nhỏ của giây. Tuy nhiên trong một trận chiến, điều đó có thể mang ý nghĩa sống còn. Rốt cuộc thì thắng bại được định đoạt chỉ trong những khoảnh khắc chớp nhoáng nhất.
 
 "Ta tin là Fuana không thích kiểu khinh suất như vậy đâu," ông lão nói.
 
