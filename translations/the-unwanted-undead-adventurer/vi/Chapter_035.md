@@ -46,9 +46,9 @@ Vừa nói, gã áo đen vừa bước lại gần ba mạo hiểm giả đang n
 
 "À, phải rồi. Xin lỗi nhé."
 
-"Cơ mà, dù là việc được giao nhưng các anh cũng khổ thật đấy nhỉ?" người đàn ông áo đen nói, giọng nửa như trêu chọc gã kiếm sĩ đang nằm gục.
+"Thế mà, dù là việc được giao nhưng các anh cũng vất vả gớm nhỉ?" người đàn ông áo đen nói, giọng nửa như trêu chọc gã kiếm sĩ đang nằm gục.
 
-"Ai mà chẳng thế? Cơ mà hắn cũng phát hiện ra cậu đấy thôi," gã kiếm sĩ bật lại một câu mỉa mai.
+"Ai mà chẳng thế? Hắn cũng phát hiện ra cậu đấy thôi," gã kiếm sĩ bật lại một câu mỉa mai.
 
 Người đàn ông áo đen bật cười, nhìn gã kiếm sĩ với vẻ mặt kẻ cả.
 
@@ -82,7 +82,7 @@ Dù mới chỉ là tầng một, nhưng đây lại là Mê Cung Tân Nguyệt 
 
 Tuy nhiên, thứ chờ đón chúng tôi phía trước không phải tiếng hò reo chúc mừng hay một bó hoa, mà là một cánh cửa đá nặng trịch và lạnh lẽo.
 
-"Cánh cửa này... là loại cửa đó phải không anh?" Laura nhìn về phía tôi, e dè hỏi.
+"Cánh cửa này... là loại cửa đó phải không anh Vivie?" Laura nhìn về phía tôi, e dè hỏi.
 
 "À... hai người chưa từng... đi qua loại cửa... này bao giờ sao?"
 
@@ -210,11 +210,11 @@ Tôi quay lại, hơi nghiêng đầu một cách đầy vẻ kịch tính rồi
 
 Ngược lại, Laura vẫn bình thản đứng nhìn, cô khẽ thở dài rồi đưa ra nhận xét của riêng mình:
 
-"...Mấy người đó yếu hơn tôi tưởng... Không những bị hạ gục trong chớp mắt, mà còn phải để người ta mang ra ngoài nữa... Mấy người mặc đồ đen lúc nãy là nhân viên của Hội phải không anh?"
+"...Mấy người đó yếu hơn tôi tưởng... Không những bị hạ gục trong chớp mắt, mà còn phải để người ta mang ra ngoài nữa... Mấy người mặc đồ đen lúc nãy là nhân viên của Hội phải không?"
 
 Nhận định của Laura nhìn chung hoàn toàn chính xác. Nhóm bốn người đi trước chúng tôi quả thực chẳng làm nên trò trống gì. Dù cả nhóm đã chọn chỗ đứng để quan sát chiến thuật của họ và bàn tính đối sách cho mình trong lúc xem, nhưng bốn người kia đã thua cuộc trước cả khi chúng tôi kịp mở miệng bàn bạc.
 
-Đúng lúc chúng tôi ngỡ sắp phải chứng kiến cảnh chết người sau một đòn tấn công cực kỳ hung hãn của con quái vật bên trong, hai bóng người trùm đồ đen kín mít từ đầu đến chân liền nhảy vào can thiệp. Họ không chỉ né gọn các đòn đánh của quái vật, mà trên đường rút ra còn tiện tay tóm lấy từng mạo hiểm giả đang nằm gục mang theo. Tôi nghĩ chuyện này cũng đương nhiên thôi, vì quy định của bài kiểm tra vốn nói rõ là không được để xảy ra thương vong. Có điều, tận mắt chứng kiến nhân viên Hội ra tay hành động quả thực mang lại cảm giác vô cùng kỳ ảo.
+Đúng lúc chúng tôi ngỡ sắp phải chứng kiến cảnh chết người sau một đòn tấn công cực kỳ hung hãn của con quái vật bên trong, hai bóng người trùm đồ đen kín mít từ đầu đến chân liền nhảy vào can thiệp. Họ không chỉ né gọn các đòn đánh của quái vật, mà trên đường rút ra còn tiện tay tóm lấy từng mạo hiểm giả đang nằm gục mang theo. Tôi nghĩ chuyện này cũng đương nhiên thôi, vì quy định của bài kiểm tra vốn nói rõ là không được để xảy ra thương vong. Có điều, tận mắt chứng kiến nhân viên Hội ra tay hành động quả thực mang lại cảm giác cứ như không thật.
 
 Nếu xét nguyên nhân thất bại của họ thì có nhiều điểm để nói, nhưng yếu tố chính vẫn nằm ở thực lực, hay nói đúng hơn là thiếu thực lực. Muốn tới được đây, người ta phải vượt qua rất nhiều bẫy rập và những chướng ngại tương tự. Nhóm mạo hiểm giả đó có lẽ chuyên về trinh sát hoặc thu thập thông tin, thành ra năng lực chiến đấu lại có phần hụt hơi. Dẫu vậy, thiếu sót này hoàn toàn có thể dễ dàng khắc phục qua rèn luyện. Tuy đáng tiếc, nhưng ít nhất họ cũng không mất mạng trong cuộc chạm trán này.
 

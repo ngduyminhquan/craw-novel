@@ -6,7 +6,7 @@ Trông chúng vừa chậm chạp vừa đần độn, đến mức người ta 
 
 Lúc này tôi đang đối mặt với đúng một con quái vật như thế; có điều...
 
-Con Orc trước mắt tôi chẳng hề lững thững dạo bước chút nào. Trái lại, nó đang lao thẳng về phía tôi với bộ pháp vững vàng, hòng nhanh chóng thu hẹp khoảng cách. Chỉ liếc qua cũng thấy tứ chi nó cuồn cuộn cơ bắp cùng ánh mắt cũng hung tợn chẳng kém. Rõ ràng chỉ cần một đòn là nó có thể dễ dàng lấy mạng một người đàn ông trưởng thành.
+Con Orc trước mắt tôi chẳng hề lững thững dạo bước chút nào. Trái lại, nó đang lao thẳng về phía tôi với tư thế vững vàng, hòng nhanh chóng thu hẹp khoảng cách. Chỉ liếc qua cũng thấy tứ chi nó cuồn cuộn cơ bắp cùng ánh mắt cũng hung tợn chẳng kém. Rõ ràng chỉ cần một đòn là nó có thể dễ dàng lấy mạng một người đàn ông trưởng thành.
 
 Dù con Orc này không cầm kiếm hay giáo trên tay, nó lại nắm một khúc chùy gỗ đẽo gọt sơ sài, chắc là bẻ từ cành cây nào đó trong mấy khu rừng quanh đây. Chẳng khó để hình dung thứ vũ khí đó mà nện vào người thì sẽ kinh khủng thế nào, có khi chỉ một cú cũng đủ đập gục một mạo hiểm giả.
 
@@ -36,7 +36,7 @@ Tôi né cú quét ngang của con Orc rồi vận cả Ma Lực lẫn Khí Lự
 
 Tôi niệm phép Khiên Chắn lên người để phòng hờ bất trắc, đồng thời chuyển hóa Khí Lực thành sức mạnh thể chất. Tôi hiểu rõ mình buộc phải tung đòn kết liễu chỉ trong một nhát chém duy nhất.
 
-Một con Orc bình thường thế này không mang giáp kim loại hay khiên chắn gì cả. Thậm chí quá nửa số Orc thông thường cũng chẳng có lấy chút Ma Lực hay Khí Lực nào trong người. Dẫu vậy, con Orc trước mắt dường như đã cảm nhận được khí tức quanh tôi biến đổi; nó giương chùy lên, trừng đôi mắt ti hí nhìn tôi. Trước khi tôi kịp hoàn tất bước cường hóa, nó đã dậm mạnh chân xuống đất rồi cứ thế giương chùy lao thẳng về phía tôi không chút đắn đo.
+Một con Orc bình thường thế này không mang giáp kim loại hay khiên chắn gì cả. Thậm chí quá nửa số Orc thông thường cũng chẳng có lấy chút Ma Lực hay Khí Lực nào trong người. Dẫu vậy, con Orc trước mắt dường như đã cảm nhận được khí tức quanh tôi biến đổi; nó giương chùy lên, trừng đôi mắt ti hí nhìn tôi. Trước khi tôi kịp hoàn tất bước cường hóa, nó đã giậm mạnh chân xuống đất rồi cứ thế giương chùy lao thẳng về phía tôi không chút đắn đo.
 
 Áp lực từ nó gần như hiện hữu rõ mồn một; cảnh một con Orc lao hết tốc lực về phía mình quả thực rất đáng sợ, đủ khiến nhiều người hoảng loạn bỏ chạy. Nhưng mạo hiểm giả nào mà quay đầu tháo chạy trước một con Orc đang lao tới thì sớm muộn cũng bị nó đuổi kịp và mất mạng.
 
@@ -58,7 +58,7 @@ Chẳng mấy chốc, tôi đã nhìn thấy lòng trắng trong mắt nó. Tron
 
 Con Orc lao thẳng về phía tôi, cây chùy giương cao, định bụng vừa tông vào người tôi vừa tiện đà bổ xuống. Nhưng khổ cho nó, việc giơ cao chùy trong lúc lao tới lại làm lộ ra một khoảng trống lớn ngay phần thân trên.
 
-Tôi giữ thanh kiếm ở phía sau, dậm mạnh chân xuống đất rồi xoay người chém một đường vòng cung đầy uy lực vào lồng ngực đang hở toang của con Orc.
+Tôi giữ thanh kiếm ở phía sau, giậm mạnh chân xuống đất rồi xoay người chém một đường vòng cung đầy uy lực vào lồng ngực đang hở toang của con Orc.
 
 Trong một thoáng im phăng phắc, tôi và con Orc lướt qua nhau. Tôi xoay người lại, tay vẫn nắm chặt kiếm, liếc nhìn con Orc đang đứng sững trong khi máu từ người nó phun ra xối xả. Tay vẫn nắm chặt cây chùy, con Orc từ từ đổ gục, đập mặt xuống đất nghe một tiếng huỵch nặng nề.
 
@@ -78,7 +78,7 @@ Cụ thể hơn, người ta muốn lấy thịt Orc chứ không phải Ma Tinh
 
 Nhưng vẫn có một loại thịt vượt trội hơn hẳn những món ăn thường nhật của số đông: thịt Orc. Có nhiều lý do cho việc này, nhưng lý do dễ hiểu và rõ ràng nhất là điều ai cũng biết: thịt Orc ăn cực kỳ ngon.
 
-Có lẽ tôi nên đính chính một hiểu lầm mà nhiều người mắc phải: lắm người cứ nghĩ thịt Orc ngon là nhờ thớ cơ bắp của nó, nhưng họ nhầm to rồi. Lý do cho việc này, như tôi vẫn hay nói, thực ra khá đơn giản: thịt và cơ bắp của Orc vốn được Ma Lực cường hóa, nhưng khi nó chết đi thì luồng Ma Lực ấy cũng tan biến theo. Hệ quả là thịt của nó sẽ trở về trạng thái mềm mại ban đầu.
+Có lẽ tôi nên đính chính một hiểu lầm mà nhiều người mắc phải: lắm người cứ nghĩ thịt Orc ngon là nhờ thớ cơ bắp của nó, nhưng họ nhầm to rồi. Lý do cho việc này, như tôi vẫn hay nói, thực ra khá đơn giản: thịt và cơ bắp của Orc vốn được Ma Lực cường hóa, nhưng khi nó chết đi thì luồng Ma Lực ấy cũng tan biến theo. Kéo theo đó là thịt của nó sẽ trở về trạng thái mềm mại ban đầu.
 
 Người ta đồn rằng thịt Orc ngon hơn giống lợn thượng hạng nhất nhiều lần, đến mức ai nếm thử một lần cũng sẽ chẳng còn tha thiết gì với các loại thịt khác.
 
@@ -98,13 +98,13 @@ Tôi tiếp tục công việc xẻ thịt nhuốm máu, lọc lấy những ph�
 
 Riêng tôi thì lúc nào cũng thủ sẵn một bọc lớn bên mình. Cũng như mấy cái lọ đựng chất lỏng tôi từng dùng để thu thập dịch nhờn của Slime, thứ lá này là vật dụng hữu ích mà mạo hiểm giả nào cũng mang theo.
 
-Những phần tôi lọc từ cái xác gồm thăn ngoại, thăn nội và ức, cùng mấy tảng thịt lớn cắt từ đùi. Dù rất muốn nhét nguyên cả cái xác vào bao mang về, nhưng chiếc túi thắt lưng của tôi đâu thể chứa nổi chừng ấy. Nghĩ mà tiếc thật.
+Những phần tôi lọc từ cái xác gồm thăn ngoại, thăn nội và ức, cùng mấy tảng thịt lớn cắt từ đùi. Dù rất muốn nhét nguyên cả cái xác vào bao mang về, nhưng chiếc túi ma thuật của tôi đâu thể chứa nổi chừng ấy. Nghĩ mà tiếc thật.
 
 Lọc xong mấy phần thông dụng ấy, tôi cắt thêm một ít cho riêng mình, gồm tim, lòng non và mấy cái móng giò. Đến đây thì túi tôi cũng đã chật ních, chẳng thể vác thêm được gì nữa.
 
-Chuyến này thu hoạch khá bội thu; chí ít thì ngần này thịt cũng đổi được một món tiền kha khá. Nhờ đã pha lóc cẩn thận, tôi có thể mang bán cho hàng thịt để kiếm một khoản hời. Thậm chí nếu giao nộp thừa so với yêu cầu, tôi còn có thể giữ lại ăn hoặc bán riêng phần dôi ra. Do ủy thác chỉ yêu cầu các phần thịt xẻ từ xác Orc chứ không đòi hỏi bộ phận cụ thể nào, nên có lấy thừa ra một chút cũng chẳng sao, vừa tiện tay mà thịt lại không bị lãng phí.
+Chuyến này thu hoạch khá lắm; chí ít thì ngần này thịt cũng đổi được một món tiền kha khá. Nhờ đã pha lóc cẩn thận, tôi có thể mang bán cho hàng thịt để kiếm một khoản hời. Thậm chí nếu giao nộp thừa so với yêu cầu, tôi còn có thể giữ lại ăn hoặc bán riêng phần dôi ra. Do ủy thác chỉ yêu cầu các phần thịt xẻ từ xác Orc chứ không đòi hỏi bộ phận cụ thể nào, nên có lấy thừa ra một chút cũng chẳng sao, vừa tiện tay mà thịt lại không bị lãng phí.
 
-Có điều bên Hội cũng có sẵn phòng xẻ thịt chuyên dụng và cung cấp dịch vụ pha lóc. Nếu được thì tôi cũng muốn tha nguyên cả cái xác về cho rảnh nợ, nhưng sức chứa của chiếc túi thắt lưng có hạn nên đành chịu thôi.
+Có điều bên Hội cũng có sẵn phòng xẻ thịt chuyên dụng và cung cấp dịch vụ pha lóc. Nếu được thì tôi cũng muốn tha nguyên cả cái xác về cho rảnh nợ, nhưng sức chứa của chiếc túi ma thuật có hạn nên đành chịu thôi.
 
 Thu dọn xong xuôi, tôi bỏ lại xác con Orc ngay tại chỗ; qua một thời gian nó sẽ tự biến mất, tựa như bao bí ẩn chưa có lời đáp khác của chốn mê cung này. Có thể nó sẽ làm mồi cho lũ quái vật khác, hoặc đơn giản là bị chính cấu trúc mê cung nuốt chửng; đằng nào thì một trong hai cơ chế tự nhiên ấy cũng sẽ dọn dẹp nó sạch sẽ. Cho nên tôi cứ bỏ mặc cái xác ở đó cũng chẳng sao, thậm chí nó còn trở thành nguồn phân bón hay thức ăn hữu ích cho những sinh vật xuất hiện sau này.
 
@@ -144,7 +144,7 @@ Riêng tôi thì thuộc phe thứ hai. Cũng hệt như lần đầu tiên gặ
 
 Núp sau một vật chắn lén nhìn ra, tôi thấy hai mạo hiểm giả đang chống trả khá tốt trước mấy con Goblin và Slime. Nhìn động tác và kỹ thuật của họ, tôi đoán hai cô cậu này cỡ chừng mười lăm mười sáu tuổi, cấp bậc chắc tầm Thiết Cấp hoặc cùng lắm là Hạ Đồng Cấp.
 
-Nói vậy chứ dù còn trẻ nhưng tay nghề của họ không tồi chút nào. Cậu thiếu niên dường như là kiếm sĩ, còn cô thiếu nữ chắc là trị liệu sư.
+Nói vậy chứ dù còn trẻ nhưng tay nghề của họ không tồi chút nào. Cậu thiếu niên dường như là kiếm sĩ, còn cô thiếu nữ chắc là người dùng thuật trị liệu.
 
 Đó là một đội hình đơn giản mà hiệu quả: cậu thiếu niên nhận nhiệm vụ tiên phong đỡ đòn, còn cô gái đứng sau yểm trợ bằng ma pháp. Nói thực thì chỉ với hai người mà lập đội hình thế này cũng hơi liều. Dù cả hai chống cự trước lũ Goblin khá tốt, nhưng đám Slime có vẻ lại khiến họ hơi chật vật.
 

@@ -42,7 +42,7 @@ Dù nhìn chung mạo hiểm giả ở Hội Maalt khá ôn hòa và cởi mở,
 
 Raiz không hiểu chuyện gì đang diễn ra trước mắt, bèn lên tiếng hỏi.
 
-"Chuyện gì thế này ạ?"
+"Chuyện gì thế này?"
 
 "Ờ thì..." Sheila có vẻ chưa biết phải giải thích thế nào, đành giữ im lặng.
 
@@ -158,19 +158,19 @@ Dù hai đứa đã quen với sự có mặt của tôi chỉ sau một thời 
 
 Giờ này đương nhiên tôi chẳng định phàn nàn gì về sự sắp xếp đó, nhưng tận đáy lòng, thói quen đi mạo hiểm một mình của tôi vẫn không thay đổi. Giờ bài thi cuối cùng cũng đã khép lại, đã đến lúc chúng tôi phải chia tay.
 
-"Có chuyện gì thế, anh Rentt?"
+"Có chuyện gì thế, Rentt?"
 
-"Chuyện gì vậy ạ?"
+"Chuyện gì vậy anh?"
 
 "...Tất cả chúng ta... đều đã vất vả rồi. Thật sự... rất vui. Chúng ta đã cùng trải qua... bao thăng trầm. Dù tôi... không biết. Hai người... sau này sẽ trở thành những mạo hiểm giả như thế nào... nhưng tôi sẽ không bao giờ. Quên... những gì chúng ta đã làm được. Hôm nay. Cảm... ơn hai người."
 
 Hai người họ trông chẳng có vẻ gì là bất ngờ cả. Hơn cả sự ngạc nhiên, trên mặt họ là vẻ bình thản đón nhận. Có lẽ cả hai đều hiểu rằng sớm muộn gì chúng tôi cũng phải tách ra đi con đường riêng, nên đáp lại tôi bằng ánh mắt vừa nhẹ nhõm vừa mãn nguyện.
 
-"...Không, câu đó phải để chúng tôi nói mới đúng chứ anh? Tôi cảm thấy hôm nay chúng tôi mới thật sự trở thành mạo hiểm giả đúng nghĩa, và chính anh là người đã giúp chúng tôi làm được điều đó, anh Rentt... Trước giờ tôi cứ nghĩ làm mạo hiểm giả chỉ toàn dựa vào kỹ năng với sức mạnh, nhưng giờ tôi hiểu không phải như vậy rồi. Chính anh đã dạy cho chúng tôi điều đó. Cảm ơn anh, anh Rentt... Tôi mới là người sẽ không bao giờ quên. Tôi sẽ nhớ kỹ những gì anh dạy hôm nay và rèn luyện kỹ năng dựa trên nền tảng đó. Sau này nếu có dịp cùng nhận một nhiệm vụ nào khác... tôi rất sẵn lòng lập đội với anh lần nữa."
+"...Không, câu đó phải để chúng tôi nói mới đúng chứ? Tôi cảm thấy hôm nay chúng tôi mới thật sự trở thành mạo hiểm giả đúng nghĩa, và chính anh là người đã giúp chúng tôi làm được điều đó, Rentt... Trước giờ tôi cứ nghĩ làm mạo hiểm giả chỉ toàn dựa vào kỹ năng với sức mạnh, nhưng giờ tôi hiểu không phải như vậy rồi. Chính anh đã dạy cho chúng tôi điều đó. Cảm ơn anh, Rentt... Tôi mới là người sẽ không bao giờ quên. Tôi sẽ nhớ kỹ những gì anh dạy hôm nay và rèn luyện kỹ năng dựa trên nền tảng đó. Sau này nếu có dịp cùng nhận một nhiệm vụ nào khác... tôi rất sẵn lòng lập đội với anh lần nữa."
 
-"Anh Vivie... nếu được, tôi đã muốn anh ở lại với chúng tôi mãi mãi... nhưng chúng tôi không nên nói ra điều đó, phải không anh? Tôi nghĩ mình phần nào hiểu được. Tôi hiểu rằng anh... rất khác biệt, anh Vivie ạ. Ý tôi không phải là vẻ bề ngoài của anh, mà là mục tiêu và chí hướng của anh rất khác... Cứ như thể anh đang hướng tới một nơi xa xôi nào đó mà chúng tôi không hề biết tới... Tôi chắc rằng anh sẽ không thể chạm tới nơi đó nếu cứ đi cùng chúng tôi, bởi đó là đích đến chỉ dành cho riêng mình anh thôi."
+"Anh Vivie... nếu được, tôi đã muốn anh ở lại với chúng tôi mãi mãi... nhưng chúng tôi không nên nói ra điều đó, phải không anh? Tôi nghĩ mình phần nào hiểu được. Tôi hiểu rằng anh... rất khác biệt, anh Vivie. Ý tôi không phải là vẻ bề ngoài của anh, mà là mục tiêu và chí hướng của anh rất khác... Cứ như thể anh đang hướng tới một nơi xa xôi nào đó mà chúng tôi không hề biết tới... Tôi chắc rằng anh sẽ không thể chạm tới nơi đó nếu cứ đi cùng chúng tôi, bởi đó là đích đến chỉ dành cho riêng mình anh thôi."
 
-"Anh đã dạy cho chúng tôi rất nhiều điều, anh Vivie... Không chỉ để mắt bảo vệ chúng tôi trong lúc chiến đấu, anh còn tạo cơ hội cho chúng tôi trưởng thành và tích lũy những kinh nghiệm quý giá, đồng thời luôn âm thầm nâng đỡ chúng tôi từ phía sau. Chúng tôi đều nhìn thấy hết những điều đó. Cũng vì thế... chúng tôi đều hiểu rằng khi bài thi kết thúc thì chúng ta sẽ phải đường ai nấy đi. Dù vậy, cho dù tổ đội này chỉ kéo dài vỏn vẹn một ngày và giờ đã giải tán, nhưng anh sẽ mãi là một thành viên trong đội của chúng tôi, anh Vivie ạ. Thế nên sau này nếu có chuyện gì xảy ra, nếu có cơ hội... xin anh hãy lập đội cùng chúng tôi một lần nữa nhé, anh Vivie. Cảm ơn anh vì tất cả."
+"Anh đã dạy cho chúng tôi rất nhiều điều, anh Vivie... Không chỉ để mắt bảo vệ chúng tôi trong lúc chiến đấu, anh còn tạo cơ hội cho chúng tôi trưởng thành và tích lũy những kinh nghiệm quý giá, đồng thời luôn âm thầm nâng đỡ chúng tôi từ phía sau. Chúng tôi đều nhìn thấy hết những điều đó. Cũng vì thế... chúng tôi đều hiểu rằng khi bài thi kết thúc thì chúng ta sẽ phải đường ai nấy đi. Dù vậy, cho dù tổ đội này chỉ kéo dài vỏn vẹn một ngày và giờ đã giải tán, nhưng anh sẽ mãi là một thành viên trong đội của chúng tôi, anh Vivie. Thế nên sau này nếu có chuyện gì xảy ra, nếu có cơ hội... xin anh hãy lập đội cùng chúng tôi một lần nữa nhé, anh Vivie. Cảm ơn anh vì tất cả."
 
 Tôi thực sự bất ngờ trước những lời của hai đứa. Không ngờ chỉ trong thời gian ngắn ngủi như vậy mà họ đã nhìn thấu được tâm ý của tôi. Tôi cứ nghĩ họ chỉ là những mạo hiểm giả trẻ tuổi cần mình dìu dắt, nhưng nghĩ vậy cũng chưa hẳn đã đúng. Tôi nhớ lại biết bao khoảnh khắc chúng tôi để mắt hỗ trợ lẫn nhau, động viên nhau tiến bước suốt dọc chặng đường. Ít nhất thì ngay lúc này, tôi cảm thấy những lời động viên của Raiz và Laura giống như một cái vỗ vai khích lệ đầy ấm áp.
 

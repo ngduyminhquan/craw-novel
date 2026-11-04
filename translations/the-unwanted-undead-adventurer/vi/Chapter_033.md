@@ -24,7 +24,7 @@ Nghĩ lại thì hồi thi lần đầu, tôi đâu có ẵm trọn điểm tố
 
 "...Kế tiếp là phần thi thực hành. Anh sẽ lập đội cùng vài thí sinh khác để tiến tới một địa điểm chỉ định trong mê cung. Dù vậy, đây vẫn là một cuộc đua tài, và nhóm nào tới đích đầu tiên sẽ giành chiến thắng."
 
-Tôi gật đầu trước lời Sheila. Tôi nhớ mang máng hồi thi thực hành lần đầu nhiều năm trước, đề bài là đi hái thảo dược hay gì đó tương tự. Thoạt nghe thì tưởng đơn giản, nhưng rốt cuộc tôi phải hạ kha khá quái vật trên đường mò tới nơi cây thuốc mọc. Đã vậy còn phải chật vật căng mắt ra để không bị lạc giữa những lùm cây rậm rạp trong rừng. Nhìn nhận nhẹ nhàng nhất thì đó quả là một trải nghiệm chẳng mấy dễ chịu gì.
+Tôi gật đầu trước lời Sheila. Tôi nhớ mang máng hồi thi thực hành lần đầu nhiều năm trước, đề bài là đi hái thảo dược hay gì đó tương tự. Thoạt nghe thì tưởng đơn giản, nhưng rốt cuộc tôi phải hạ kha khá quái vật trên đường mò tới nơi cây thuốc mọc. Đã vậy còn phải chật vật căng mắt ra để không bị lạc giữa những lùm cây rậm rạp trong rừng. Ít nhất cũng phải nói là một trải nghiệm chẳng mấy dễ chịu gì.
 
 Nghĩ lại thì hồi đó không ít thí sinh bị lạc đường, cuối cùng nhân viên của Hội phải lặn lội đi tìm về. Dĩ nhiên chẳng cần nói cũng biết, mấy kẻ xui xẻo ấy đều trượt thẳng cẳng phần thi thực hành.
 
@@ -48,7 +48,7 @@ Trước tiếng gọi của Sheila, hai bóng người tách khỏi đám đôn
 
 Tôi nhớ ra ngay họ chính là hai cô cậu từng đánh nhau với Goblin và Slime trong Mê Cung Tân Nguyệt.
 
-Chính là cặp đôi kiếm sĩ và trị liệu sư hôm nọ.
+Chính là cặp đôi kiếm sĩ và người dùng thuật trị liệu hôm nọ.
 
 Lúc mới chạm mặt tôi đã đoán họ thuộc Thiết Cấp hoặc Đồng Cấp, xem ra tôi đoán chẳng lệch là bao. Nhưng việc họ xuất hiện ở đây chứng tỏ cả hai đều là Thiết Cấp, giống hệt như tôi lúc này.
 

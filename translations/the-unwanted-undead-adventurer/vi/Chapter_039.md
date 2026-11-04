@@ -68,7 +68,7 @@ Thế nhưng nghe câu đó, Sheila lại mở to mắt nhìn tôi đầy hoản
 
 "K-Khoan đã! Không phải thế..."
 
-"Cô Sheila. Bản thân tôi... đã và đang... vướng phải một rắc rối... rất lớn. Dù là với... một tổ chức... như Hội. Tôi cũng không... muốn bị đâm... sau lưng. Cho nên... ít nhất thì. Tôi cần biết chắc... mình sẽ không bị... truy bức. Vì những điều tôi sắp... kể với cô. Bằng không... tôi xin từ chối. Không nói... bất cứ điều gì cả. Tất... nhiên, tôi sẽ cần cô... ký vào một... khế ước ràng buộc... ma pháp... để cô giữ... đúng lời hứa của mình."
+"Cô Sheila. Bản thân tôi... đã và đang... vướng phải một rắc rối... rất lớn. Dù là với... một tổ chức... như Hội. Tôi cũng không... muốn bị đâm... sau lưng. Cho nên... ít nhất thì. Tôi cần biết chắc... mình sẽ không bị... bắt tội. Vì những điều tôi sắp... kể với cô. Bằng không... tôi xin từ chối. Không nói... bất cứ điều gì cả. Tất... nhiên, tôi sẽ cần cô... ký vào một... khế ước ràng buộc... ma pháp... để cô giữ... đúng lời hứa của mình."
 
 "Anh Rentt... đã có chuyện khủng khiếp đến thế xảy ra với anh thật sao?"
 

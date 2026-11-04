@@ -12,13 +12,13 @@ Nếu nhóm đi trước thực sự hạ được con quái vật, tôi sẽ ch
 
 Con quái vật ở giữa phòng là một loài quen thuộc; quen thuộc, nhưng lại hiếm gặp theo một cách khá đặc thù.
 
-"...Một con Slime ư? Không, một con... Slime khổng lồ...?" Raiz thì thào, dường như choáng ngợp trước kích thước đồ sộ của nó.
+"...Một con Slime ư? Không, một con... Đại Slime...?" Raiz thì thào, dường như choáng ngợp trước kích thước đồ sộ của nó.
 
 Miệng nói vậy, nhưng lưỡi kiếm của Raiz đã rút ra khỏi bao, thế thủ vững vàng. Cậu sẵn sàng đón đỡ mọi cử động hay đòn tấn công bất ngờ; Laura bên cạnh cũng thế.
 
 Con Slime này có lẽ to gấp mấy lần Slime bình thường. Giới mạo hiểm giả chỉ đơn giản gọi nó là Đại Slime, một loài quái vật thượng cấp mang mối đe dọa đáng gờm.
 
-Dù Slime khổng lồ thường thong dong lượn lờ ở các tầng sâu mê cung, đôi khi chúng cũng xuất hiện ở các tầng nông hơn dưới vai trò quái vật thủ lĩnh. Bản thân nó cũng đủ sức thị uy, với kích thước đồ sộ gieo rắc nỗi sợ hãi vào lòng mạo hiểm giả. Một quái vật mang đặc tính như vậy vừa kháng đòn vật lý tốt, lại càng dễ tổn thương hơn trước ma pháp. Thêm vào đó, khối thân đồ sộ kia chẳng phải chỉ để làm cảnh; mạo hiểm giả nào lỡ rơi vào thế bất lợi có thể dễ dàng bị đè bẹp dí chỉ trong chớp mắt.
+Dù Đại Slime thường thong dong lượn lờ ở các tầng sâu mê cung, đôi khi chúng cũng xuất hiện ở các tầng nông hơn dưới vai trò quái vật thủ lĩnh. Bản thân nó cũng đủ sức thị uy, với kích thước đồ sộ gieo rắc nỗi sợ hãi vào lòng mạo hiểm giả. Một quái vật mang đặc tính như vậy vừa kháng đòn vật lý tốt, lại càng dễ tổn thương hơn trước ma pháp. Thêm vào đó, khối thân đồ sộ kia chẳng phải chỉ để làm cảnh; mạo hiểm giả nào lỡ rơi vào thế bất lợi có thể dễ dàng bị đè bẹp dí chỉ trong chớp mắt.
 
 Nghĩ đến ngần ấy yếu tố, chẳng khó hiểu khi thái độ của Hội đối với các bài thi thăng hạng thường bị coi là đầy ác ý.
 
@@ -30,7 +30,7 @@ Cả nhóm chậm rãi tiến lại gần con Slime, mắt không rời những 
 
 "Tôi muốn... có một con thú nhồi bông to cỡ này ghê... Nhìn nó là cứ... thấy thế..." Mấy từ sau đó nhỏ dần trong hơi thở của cô.
 
-Tôi thử ngẫm nghĩ về mấy lời lẩm bẩm của Laura. Kể cả có sở hữu một con thú bông như thế thật, tìm đủ chỗ cất nó cũng là cả một vấn đề. Chẳng lẽ cô định nhét cả con thú bông to tướng ấy vào căn phòng trọ thuê ở lữ quán sao?
+Tôi thử ngẫm nghĩ về mấy lời lẩm bẩm của Laura. Kể cả có sở hữu một con thú bông như thế thật, tìm đủ chỗ cất nó cũng là cả một vấn đề. Chẳng lẽ cô định nhét cả con thú bông to tướng ấy vào căn phòng trọ đang thuê sao?
 
 Khi cả nhóm tiến đến giữa phòng, con Đại Slime rốt cuộc cũng nhận ra chúng tôi; nó rung lên dữ dội rồi phóng một quả cầu axit to khủng khiếp về phía cả nhóm để đáp trả. Acid Blitz, đòn tấn công đặc trưng của loài Slime, xem như hiệu lệnh mở màn bài thử thách của chúng tôi.
 
@@ -48,7 +48,7 @@ Thế nhưng, một con Slime cỡ này lại có độ nhớt cao hơn hẳn đ
 
 ◆◇◆◇◆
 
-Và thế là Raiz liên tục bị cánh tay tạm bợ của con Đại Slime hất văng hết lần này đến lần khác. Cả nhóm ai cũng có vai trò riêng; nếu hỏi vai trò của tôi là gì, thì đó là làm tấm khiên che chở cho Laura. Nói chính xác hơn, nhiệm vụ của tôi là thu hút sự chú ý của con Slime trong lúc Laura đan dệt ma pháp. Dẫu sao thì ma pháp mới là điểm yếu duy nhất của loài Slime. Trong một cuộc chạm trán như thế này, một chiến binh tiền tuyến như tôi sẽ cầm chân con Slime để ma pháp sư của đội rảnh tay thi triển ma thuật.
+Và thế là Raiz liên tục bị cánh tay tạm bợ của con Đại Slime hất văng hết lần này đến lần khác. Cả nhóm ai cũng có vai trò riêng; nếu hỏi vai trò của tôi là gì, thì đó là làm tấm khiên che chở cho Laura. Nói chính xác hơn, nhiệm vụ của tôi là thu hút sự chú ý của con Slime trong lúc Laura niệm chú. Dẫu sao thì ma pháp mới là điểm yếu duy nhất của loài Slime. Trong một cuộc chạm trán như thế này, một chiến binh tiền tuyến như tôi sẽ cầm chân con Slime để ma pháp sư của đội rảnh tay thi triển ma thuật.
 
 Ban đầu tôi vốn định nhận phần việc đó, nhưng lúc bàn bạc trước trận, chính Raiz lại nằng nặc đòi nhận vai trò quấy rối con Slime, xung phong lao vào tấn công để thu hút sự chú ý của nó.
 
@@ -90,17 +90,17 @@ Xem ra trau dồi một số kỹ năng nhất định cũng có giá trị đ�
 
 "Tôi xong rồi!"
 
-Tiếng hô vang vọng khắp phòng. Laura có vẻ đã hoàn tất lời niệm chú, chính là bài chú cho ma pháp mà cô đã đan dệt ngay từ lúc bắt đầu cuộc chạm trán này.
+Tiếng hô vang vọng khắp phòng. Laura có vẻ đã hoàn tất lời niệm chú, chính là bài chú cho ma pháp mà cô đã chuẩn bị ngay từ lúc bắt đầu cuộc chạm trán này.
 
 Những ma pháp đơn giản thường chỉ cần niệm vài câu ngắn là thi triển được. Nhưng để đối phó với một đối thủ mạnh như con Đại Slime này, hiển nhiên cần đến một ma pháp uy lực hơn nhiều. Đó là lý do tôi và Raiz phải câu giờ cho Laura. Đáng lẽ tôi phải bảo vệ Laura khỏi các đòn tấn công của con Slime, rốt cuộc tôi cũng lao vào cuộc chiến luôn; sự khó lường trong các trận đánh thủ lĩnh vốn là thế.
 
 Kết cục êm đẹp là tốt rồi; nói câu đó lúc này chắc hơi sớm, nhưng với tôi thì trận chiến đã ngã ngũ.
 
-Theo tín hiệu của Laura, tôi và Raiz lập tức nhảy lùi ra sau, tách khỏi con Slime. Tôi không chắc Laura có đủ thong thả để bảo đảm cả hai chúng tôi đã ra khỏi tầm nổ hay chưa, nhưng trước khi tôi kịp nhận ra, cô đã đứng trước con Slime với cây quyền trượng giơ cao. Hít một hơi thật sâu, Laura hô vang những từ cuối cùng của câu thần chú.
+Theo tín hiệu của Laura, tôi và Raiz lập tức nhảy lùi ra sau, tách khỏi con Slime. Tôi không chắc Laura có đủ thong thả để bảo đảm cả hai chúng tôi đã ra khỏi tầm nổ hay chưa, nhưng trước khi tôi kịp nhận ra, cô đã đứng trước con Slime với cây trượng giơ cao. Hít một hơi thật sâu, Laura hô vang những từ cuối cùng của câu thần chú.
 
 "GRAND! PROX!!"
 
-Dứt lời, những lưỡi lửa khổng lồ to gấp mấy lần người cô phóng vọt ra từ đầu quyền trượng của Laura. Những dải lửa rực cháy của ma pháp lao vun vút về phía con Slime với tốc độ chóng mặt.
+Dứt lời, những lưỡi lửa khổng lồ to gấp mấy lần người cô phóng vọt ra từ đầu trượng của Laura. Những dải lửa rực cháy của ma pháp lao vun vút về phía con Slime với tốc độ chóng mặt.
 
 Thông thường, Đại Slime sẽ co rút và vặn mình lại để né đòn tấn công như vậy, nhưng con này bị tôi và Raiz làm phân tâm suốt từ nãy nên không kịp thực hiện động tác đó. Khoảnh khắc tiếp theo, con Đại Slime đã bị nhấn chìm giữa biển lửa, hứng trọn đòn tấn công trực diện của Laura.
 
@@ -116,6 +116,6 @@ Theo thời gian, mê cung sẽ thu hồi lại con quái vật đã ngã xuốn
 
 Chắc họ đang mong chờ một màn ăn mừng gì đó, nên cả Raiz lẫn Laura đều ngây người nhìn tôi với vẻ mặt ngơ ngác, sững sờ trước những lời tôi vừa nói.
 
-"... Dù chúng ta có... chia nhau. Thì phần mỗi người... vẫn còn nhiều lắm. Chúng ta sẽ chia... tiền thưởng. Rồi tự thưởng cho mình... một bữa ăn ngon."
+"...Dù chúng ta có... chia nhau. Thì phần mỗi người... vẫn còn nhiều lắm. Chúng ta sẽ chia... tiền thưởng. Rồi tự thưởng cho mình... một bữa ăn ngon."
 
 Lúc này cả hai đã hoàn toàn tin rằng cái đống vô hồn trước mắt đáng giá cả một gia tài, liền vội vã quỳ xuống, cầm chiếc bình tôi đưa để gom chất dịch của con Slime. Tôi nghĩ sự ngây thơ ấy khiến hai người họ trở nên đáng yêu theo một cách rất riêng.

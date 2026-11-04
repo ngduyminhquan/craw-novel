@@ -30,7 +30,7 @@ Raiz thì vẫn nhìn chằm chằm vào nhóm mạo hiểm giả đang chìm tr
 
 "À... Laura. Cô có thể... thổi bay đám khói đó... bằng chút ma pháp... phong hệ không?"
 
-"Vâng, tất nhiên rồi ạ. Làm vậy là tốt nhất... Breeze!"
+"Vâng, tất nhiên rồi. Làm vậy là tốt nhất... Breeze!"
 
 Chỉ với một tiếng hô, một luồng gió ấm và đều đặn thổi ra từ đầu cây trượng của Laura, xua tan làn khói đang bò tới. Dù ma pháp này không đủ mạnh để tấn công quái vật, nhưng lại rất dễ điều khiển và thuần thục. Chẳng mấy chốc, luồng khí kia đã bị lùa vào một góc xa trong phòng thủ lĩnh.
 
@@ -108,7 +108,7 @@ Nhận được phần thưởng giá trị như vậy, Laura và Raiz đều r�
 
 "Hả?!" Raiz trợn tròn mắt như vừa vỡ lẽ. Cậu nhanh chóng trấn tĩnh lại, đưa tay chống cằm ngẫm nghĩ về tình hình trước mắt.
 
-"...À... Chị tiếp tân ở Hội bảo chúng ta tới được đây là thắng cuộc... chứ đâu có bảo là 'thi đỗ'... Ư, đúng là trò chơi khăm..."
+"À... Chị tiếp tân ở Hội bảo chúng ta tới được đây là thắng cuộc... chứ đâu có bảo là 'thi đỗ'... Hự, đúng là trò chơi khăm..."
 
 Xem ra Raiz đã tự mình nghĩ thông suốt rồi.
 
@@ -166,6 +166,6 @@ Nhưng tất nhiên... đó chính là điều mà Hội muốn thí sinh nghĩ 
 
 Cả hai nhìn tôi với vẻ ngạc nhiên; rõ ràng họ không ngờ lại được một người như tôi khen ngợi.
 
-"Này, anh Rentt khen tụi mình kìa!" "...Làm tôi hơi ngượng đấy," Raiz và Laura vừa cười vừa nói.
+"Này, Rentt khen tụi mình kìa!" "...Làm tôi hơi ngượng đấy," Raiz và Laura vừa cười vừa nói.
 
 Cái vẻ ngượng ngùng của hai đứa hình như cũng lây sang cả tôi, khiến tôi bất giác rảo bước nhanh hơn.

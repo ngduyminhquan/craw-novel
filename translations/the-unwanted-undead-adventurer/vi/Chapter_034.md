@@ -82,7 +82,7 @@ Thế nhưng cả hai xem chừng đã sắp chạm tới giới hạn. Một m�
 
 "...Raiz. Cậu có... ổn không?"
 
-"Đừng... lo. Mà thôi... chắc tôi không nên nói thế. Thấm mệt thật rồi đấy... Cơ mà khu vực này của Tân Nguyệt trước giờ lúc nào cũng đông quái vật thế này sao?!"
+"Đừng... lo. Mà thôi... chắc tôi không nên nói thế. Thấm mệt thật rồi đấy... Mà khu vực này của Tân Nguyệt trước giờ lúc nào cũng đông quái vật thế này sao?!"
 
 Raiz thắc mắc hoàn toàn có lý, vì khu vực này quả thực nhiều quái vật hơn bình thường. Dù trong mê cung vốn không thiếu quái vật, nhưng mật độ dày đặc ở chỗ này lại rất bất thường.
 
