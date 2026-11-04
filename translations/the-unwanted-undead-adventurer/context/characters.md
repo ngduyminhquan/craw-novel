@@ -130,6 +130,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Spriggan |  | Spriggan | Mật danh của ông lão sở hữu dị năng khổng lồ hóa (Cự Nhân), thủ lĩnh nhóm sát thủ cùng Goblin và Siren | #255 |
 | Vaasa |  | Vaasa | Thành viên tổ chức sát thủ, do Spriggan chiêu mộ, có khả năng kháng ma pháp cao | #256 |
 | Fuana |  | Fuana | Thành viên nữ tổ chức sát thủ, bám dính Spriggan, đam mê và sử dụng ma pháp cổ đại | #256 |
+| Gilli Flood | Gilli | Gilli Flood | Tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam | #261 |
 
 ## Chi tiết
 
@@ -740,8 +741,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Jean Seebeck
 - Giới tính, vai trò: Nam, Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran tại vương đô Vistelya.
-- Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221). Tính tình lông bông trốn việc như con nít, thường xuyên bỏ lại giấy tờ dang dở chạy rong khắp phố khiến nhân viên Hội phải cuống cuồng đi tìm; tuy nhiên ông cực kỳ cừ khôi khi trực tiếp chỉ huy ứng phó thảm họa lớn (từng dẹp tan Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, và vụ núi lửa Jarlis) nên được mạo hiểm giả tôn sùng và Hội kiên quyết giữ chân không cho nghỉ hưu (#230).
-- Xuất hiện từ: #221.
+- Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221). Tính tình lông bông trốn việc như con nít, thường xuyên bỏ lại giấy tờ dang dở chạy rong khắp phố khiến nhân viên Hội phải cuống cuồng đi tìm; tuy nhiên ông cực kỳ cừ khôi khi trực tiếp chỉ huy ứng phó thảm họa lớn (từng dẹp tan Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, và vụ núi lửa Jarlis) nên được mạo hiểm giả tôn sùng và Hội kiên quyết giữ chân không cho nghỉ hưu (#230). Sang #261, bất ngờ xuất hiện tại sàn đấu ngầm và lộ thân phận là Thủ lĩnh tối cao của tổ chức sát thủ / dị năng ngầm do chính ông thành lập sau khi chiêu mộ Gilli Flood (Spriggan); vẻ ngoài tráng kiện như mới ngoài năm mươi, toát ra khí chất áp đảo không chút sơ hở nhưng phong thái cởi mở, thản nhiên thừa nhận danh tính với Rentt.
+- Xuất hiện từ: #221 (xuất hiện thực tế tại căn cứ ngầm ở #261).
 
 ### Elza
 - Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
@@ -804,8 +805,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Spriggan
 - Giới tính, vai trò: Nam, ông lão lớn tuổi mang vóc dáng nhỏ bé bình thường, thủ lĩnh nhóm sát thủ dị năng cùng Goblin (Yattul) và Siren (#244).
-- Đặc điểm: Là mạo hiểm giả / dị năng giả kỳ cựu lớn tuổi nhất nhóm; tính cách từng trải, điềm đạm, nhân hậu nhưng khi chiến đấu vô cùng quyết đoán và đáng sợ; sở hữu dị năng phóng to cơ thể thành người khổng lồ cao lớn (Cự Nhân) với sức mạnh thể chất áp đảo; từng cứu mạng Siren bằng thuốc khi cô bé còn nhỏ; xem Siren và Goblin như con cháu trong nhà; sau khi bị nhóm Rentt đánh bại và đàm đạo với Lorraine, ông cởi mở chia sẻ về nguồn gốc của những kẻ mang dị năng trong lịch sử và khuyên nhóm Rentt cẩn trọng trước các phe phái khác trong tổ chức ngầm (tính đến #254). Sang #255, lộ mật danh trong tổ chức ngầm là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ); hướng dẫn nhóm Rentt và cùng Rentt, Lorraine đến căn cứ ngầm để diện kiến thủ lĩnh.
-- Xuất hiện từ: #244 (lộ mật danh ở #255).
+- Đặc điểm: Là mạo hiểm giả / dị năng giả kỳ cựu lớn tuổi nhất nhóm; tính cách từng trải, điềm đạm, nhân hậu nhưng khi chiến đấu vô cùng quyết đoán và đáng sợ; sở hữu dị năng phóng to cơ thể thành người khổng lồ cao lớn (Cự Nhân) với sức mạnh thể chất áp đảo; từng cứu mạng Siren bằng thuốc khi cô bé còn nhỏ; xem Siren và Goblin như con cháu trong nhà; sau khi bị nhóm Rentt đánh bại và đàm đạo với Lorraine, ông cởi mở chia sẻ về nguồn gốc của những kẻ mang dị năng trong lịch sử và khuyên nhóm Rentt cẩn trọng trước các phe phái khác trong tổ chức ngầm (tính đến #254). Sang #255, lộ mật danh trong tổ chức ngầm là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ); hướng dẫn nhóm Rentt và cùng Rentt, Lorraine đến căn cứ ngầm để diện kiến thủ lĩnh. Sang #261, được Jean Seebeck tiết lộ tên thật là Gilli Flood, cựu đấu sĩ khét tiếng tại một thành phố phương nam với danh xưng "Gilli Quái Vật" (Gilli the Monster), được Jean chiêu mộ cùng lập ra tổ chức ngầm.
+- Xuất hiện từ: #244 (lộ mật danh ở #255, lộ tên thật Gilli Flood ở #261).
 
 ### Vaasa
 - Giới tính, vai trò: Nam, thành viên tổ chức sát thủ / dị năng ngầm, được Spriggan đích thân chiêu mộ (#256).
@@ -816,5 +817,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thành viên tổ chức sát thủ / dị năng ngầm (#256).
 - Đặc điểm: Vóc dáng nhỏ bé nhưng giọng nói rất to; rất gắn bó và bám dính Spriggan; tự tin và am hiểu sâu sắc về ma pháp, đặc biệt là ma pháp cổ đại, tự xưng danh hiệu "Fuana Thông Ma Pháp"; sở hữu lượng Ma Lực dồi dào gấp ba lần Rentt, tự hào ma pháp có thể phá sập tường thành; tính tình bướng bỉnh, hiếu thắng, dễ bị khích tướng; sở hữu dị năng nhìn thấu điểm yếu nhất trong cấu trúc ma pháp bằng trực giác và giải phóng Ma Lực phá tan ma pháp; thực chất là một ma pháp cách đấu sĩ sử dụng vũ khí là nắm đấm và phong cách cận chiến dũng mãnh như dã thú; trong trận đấu với Lorraine bị ma pháp đa tầng và Khiên Chắn hai lớp khóa tay giật sét khắc chế (tính đến #260).
 - Xuất hiện từ: #256 (được nhắc tên), xuất hiện thực tế ở #257.
+
+### Gilli Flood
+- Giới tính, vai trò: Nam, tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam (#261).
+- Đặc điểm: Là đấu sĩ nổi tiếng tại một thành phố phương nam chuyên về giác đấu với danh xưng "Gilli Quái Vật" (Gilli the Monster); được Jean Seebeck chiêu mộ để cùng thành lập tổ chức sát thủ dị năng ngầm (#261). Xem mục "Spriggan".
+- Xuất hiện từ: #261 (được Jean Seebeck tiết lộ danh tính thật).
 
 

@@ -1541,6 +1541,13 @@ Lorraine thử nghiệm các ma pháp cơ bản rồi thi triển ma pháp đa t
 Fuana lộ diện là một ma pháp cách đấu sĩ, dùng nắm đấm phá vỡ ma pháp rồi lao vào cận chiến dữ dội; Fuana đấm vỡ Khiên Chắn đầu tiên nhưng bị lớp khiên thứ hai cùm chặt cánh tay và dính trọn tia sét của Lorraine.
 Cảnh kết thúc: Dù bị sét đánh trúng, Fuana vẫn lộn vòng tiếp đất và bừng bừng chiến ý lao vào tấn công như thú săn mồi; Lorraine thong dong duy trì phòng thủ và nắm giữ thế thượng phong trong khi Rentt dự đoán trận đấu sẽ sớm ngã ngũ.
 
+## 261
+Lorraine dùng liên hoàn ma pháp lôi hệ Barqharba Sijn và Shikhrér vây hãm đối thủ; Fuana dùng nguyên bản ma pháp "Hấp Ma Khôi Giáp" hấp thu sấm sét làm giáp đấm vỡ khiên chắn đánh trúng tay Lorraine, nhưng Lorraine nhanh chóng dùng Barák Seará (bão phong lôi) phản kích đánh ngất Fuana và giành chiến thắng.
+Sau trận đấu, Lorraine cho Fuana uống thuốc hồi phục; Fuana đồng ý chia sẻ cấu trúc Hấp Ma Khôi Giáp để đổi lấy việc học ba ma pháp cổ đại Lorraine từng dùng hạ Spriggan, và Lorraine lập tức thị phạm ma pháp hoành tráng dưới sàn đấu.
+Một người đàn ông bí ẩn xuất hiện sau lưng Rentt, tiết lộ tên thật của Spriggan là Gilli Flood (từng nổi danh với danh hiệu "Gilli Quái Vật" ở đấu trường phương nam) và bày tỏ áy náy vì kẻ làm tay trong ở giới quý tộc hoàng gia đã phản bội cung cấp thông tin sai lệch dẫn đến xung đột.
+Vaasa tỉnh dậy cung kính quỳ lạy người đàn ông và gọi là Thủ lĩnh; người này thản nhiên tự xưng tên là Jean Seebeck — khiến Rentt bàng hoàng nhận ra đây chính là Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran.
+Cảnh kết thúc: Nhận ra người đứng đầu tổ chức sát thủ ngầm nguy hiểm lại là nhân vật quyền lực tối cao của Hội Mạo Hiểm Giả, Rentt thót tim tự hỏi liệu mình có thể toàn mạng sống sót rời khỏi nơi này hay không.
+
 
 
 

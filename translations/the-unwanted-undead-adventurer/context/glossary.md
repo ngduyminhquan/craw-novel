@@ -461,3 +461,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Hydor Volídas |  | Hydor Volídas | kỹ năng | 260 | Ma pháp thủy hệ cơ bản phóng khối nước (câu chú giữ nguyên theo rules.md) |
 | Anemos Volídas |  | Anemos Volídas | kỹ năng | 260 | Ma pháp phong hệ cơ bản phóng luồng gió (câu chú giữ nguyên theo rules.md) |
 | magic brawler |  | ma pháp cách đấu sĩ | chức nghiệp | 260 | Ma pháp sư có phong cách cận chiến kết hợp nắm đấm |
+| Barqharba Sijn |  | Barqharba Sijn | kỹ năng | 261 | Ma pháp lôi hệ cổ đại triệu hồi mười ngọn giáo sét cắm xuống đất vây hãm đối thủ (giữ nguyên tên câu thần chú theo rules.md) |
+| Shikhrér |  | Shikhrér | kỹ năng | 261 | Câu chú kích hoạt trận lôi thương Barqharba Sijn giáng sấm sét xối xả vào trong (giữ nguyên theo rules.md) |
+| Barák Seará |  | Barák Seará | kỹ năng | 261 | Ma pháp phong lôi kết hợp cổ đại tạo khối cầu sấm sét hòa cùng bão gió tấn công đối thủ (giữ nguyên tên câu thần chú theo rules.md) |
+| Spelldrain Armor |  | Hấp Ma Khôi Giáp | kỹ năng | 261 | Nguyên bản ma pháp do Fuana sáng tạo, hấp thu ma pháp của đối thủ để bao bọc cơ thể thành lớp khôi giáp phòng ngự và cường hóa tấn công |
+| Gilli the Monster |  | Gilli Quái Vật | danh hiệu | 261 | Danh hiệu đấu sĩ của Gilli Flood tại thành phố đấu trường phương nam |

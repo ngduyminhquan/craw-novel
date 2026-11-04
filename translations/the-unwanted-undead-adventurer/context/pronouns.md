@@ -99,6 +99,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Spriggan | Spriggan / ông lão / ông ta | 255 | Mật danh của ông lão mang dị năng Cự Nhân |
 | Vaasa | Vaasa / gã / người đàn ông | 257 | Thành viên tổ chức sát thủ, có khả năng kháng ma pháp cao |
 | Fuana | Fuana / cô gái / thiếu nữ / cô ta | 257 | Nữ thành viên tổ chức sát thủ mê ma pháp cổ đại |
+| Gilli Flood | Gilli Flood / Gilli / ông lão / Spriggan | 261 | Tên thật của Spriggan, cựu đấu sĩ |
 
 ## Giữa các nhân vật
 
@@ -495,4 +496,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vaasa | Rentt Faina | tôi | anh / Rentt | 257 | Thành viên tổ chức thách đấu với Rentt |
 | Lorraine Vivie | Fuana | tôi | cô | 257 | Nữ học giả nhận lời thách đấu |
 | Fuana | Lorraine Vivie | tôi | cô / quý cô | 257 | Nữ ma pháp sư thách đấu với nữ học giả |
+| Jean Seebeck | Rentt Faina | ta | cậu / Rentt | 261 | Tổng Hội Trưởng kiêm Thủ lĩnh tổ chức sát thủ nói chuyện với Rentt |
+| Rentt Faina | Jean Seebeck | tôi | ngài / ông | 261 | Mạo hiểm giả Đồng Cấp nói chuyện với Tổng Hội Trưởng kiêm Thủ lĩnh tổ chức sát thủ |
+| Vaasa | Jean Seebeck | tôi | Thủ lĩnh / ngài | 261 | Thành viên tổ chức sát thủ cung kính quỳ lạy trước Thủ lĩnh |
+| Jean Seebeck | Vaasa | ta | cậu / Vaasa | 261 | Thủ lĩnh tổ chức sát thủ nói chuyện với thuộc cấp |
 

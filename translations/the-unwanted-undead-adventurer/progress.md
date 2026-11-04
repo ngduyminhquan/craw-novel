@@ -265,7 +265,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 258 |  | Chapter_258 - Vol 11 Chapter 3 - The Organization (3).txt | Vol 11 Chapter 3 - The Organization (3) | reviewed |  |
 | 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | done |  |
 | 260 |  | Chapter_260 - Vol 11 Chapter 3 - The Organization (5).txt | Vol 11 Chapter 3 - The Organization (5) | done |  |
-| 261 |  | Chapter_261 - Vol 11 Chapter 3 - The Organization (6).txt | Vol 11 Chapter 3 - The Organization (6) | todo |  |
+| 261 |  | Chapter_261 - Vol 11 Chapter 3 - The Organization (6).txt | Vol 11 Chapter 3 - The Organization (6) | done |  |
 | 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | todo |  |
 | 263 |  | Chapter_263 - Vol 11 Chapter 3 - The Organization (8).txt | Vol 11 Chapter 3 - The Organization (8) | todo |  |
 | 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -914,3 +913,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#257] Dịch danh hiệu của Vaasa 'Strongiron' ('Strongiron Vaasa') — tạm chọn 'Cường Thiết' ('Vaasa Cường Thiết') theo Hán Việt ngắn gọn (phương án khác: 'Thiết Cường', 'Sắt Thép'). Tạm dùng trong bản dịch: 'Cường Thiết' / 'Vaasa Cường Thiết'. → Chốt 'Cường Thiết' ('Vaasa Cường Thiết') theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#257] Dịch danh hiệu của Fuana 'Spellwise' ('Fuana the Spellwise') — tạm chọn 'Thông Ma Pháp' ('Fuana Thông Ma Pháp') theo Hán Việt ngắn gọn (phương án khác: 'Tinh Thông Ma Pháp', 'Ma Pháp Thông'). Tạm dùng trong bản dịch: 'Thông Ma Pháp' / 'Fuana Thông Ma Pháp'. → Chốt 'Thông Ma Pháp' ('Fuana Thông Ma Pháp') theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
 - [#251] In for a bronze, in for a gold → manager sửa: 'Đâm lao thì phải theo lao thôi.' (bỏ phần dịch sát chữ, tránh lặp hai thành ngữ) (orchestrator)
+- [#261] Dịch 'Spelldrain Armor' (nguyên bản ma pháp của Fuana) — tạm chọn 'Hấp Ma Khôi Giáp' (phương án khác: 'Hấp Ma Giáp', 'Ma Hấp Khôi Giáp'). → Chốt 'Hấp Ma Khôi Giáp' theo đúng quy tắc dịch kỹ năng Hán Việt. (orchestrator)
+- [#261] Xưng hô giữa Jean Seebeck và Rentt Faina — tạm chọn Jean xưng 'ta' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'ngài / ông' (phương án khác: Jean xưng 'tôi' gọi 'cậu'). → Chốt Jean xưng 'ta' gọi 'cậu / Rentt', Rentt xưng 'tôi' gọi 'ngài / ông' (phù hợp tuổi tác ông lão và vị thế Tổng Hội Trưởng kiêm Thủ lĩnh). (orchestrator)
