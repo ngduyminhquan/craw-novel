@@ -763,7 +763,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Gisel Georgiou
 - Giới tính, vai trò: Nữ, Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran.
-- Đặc điểm: Nữ quý tộc có tên tuổi và tầm ảnh hưởng trong triều đình (#227).
+- Đặc điểm: Nữ quý tộc dũng mãnh, người ủng hộ lớn nhất của Đệ Nhất Công Chúa Nadia Regina Yaaran; kẻ chủ mưu đứng sau thuê nhóm sát thủ dị năng (Goblin, Siren, ông lão Cự Nhân) thông qua tổ chức ngầm nhằm thủ tiêu nhóm Rentt sau khi họ tiếp xúc với Nhị Công Chúa (#250).
 - Xuất hiện từ: #227 (được nhắc đến).
 
 ### Karsten Reshon Yaaran
@@ -783,12 +783,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Yattul
 - Giới tính, vai trò: Nam, người đàn ông trung niên vạm vỡ, thương nhân kiêm người đánh xe chạy tuyến giữa vương đô Yaaran và các thôn làng lân cận (#232).
-- Đặc điểm: Tỏ ra không thạo chiến đấu, ăn nói dân dã xởi lởi; nhưng thực chất là điệp viên kiêm sát thủ mang mật danh "Goblin", nhận lệnh từ cấp trên tiếp cận và tìm cách thủ tiêu nhóm Rentt trên đường đi; bẩm sinh có năng lực thuần hóa quái vật chỉ huy goblin và hobgoblin từ nhỏ, được đào tạo ở vương đô, thực lực tương đương mạo hiểm giả Ngân Cấp (tính đến #233). Bị nhóm Rentt và Lorraine sang tận phòng vờ báo tin đã bắt giữ thủ phạm nhằm tung hỏa mù và gài bẫy nhử đồng bọn tới giải cứu (tính đến #239). Được đồng bọn (ông lão Cự Nhân) tiết lộ là một cựu binh có thực lực bình thường, nhận ra nghề thương nhân phù hợp hơn nên chuyến này định là phi vụ cuối cùng trước khi giải nghệ (tính đến #246).
+- Đặc điểm: Tỏ ra không thạo chiến đấu, ăn nói dân dã xởi lởi; nhưng thực chất là điệp viên kiêm sát thủ mang mật danh "Goblin", thuộc một tổ chức ngầm chuyên thu nhận, đào tạo những người sở hữu dị năng; bẩm sinh có năng lực thuần hóa quái vật chỉ huy goblin và hobgoblin từ nhỏ, được đào tạo ở vương đô, thực lực tương đương mạo hiểm giả Ngân Cấp (tính đến #233). Bị nhóm Rentt và Lorraine sang tận phòng vờ báo tin đã bắt giữ thủ phạm nhằm tung hỏa mù và gài bẫy nhử đồng bọn tới giải cứu (tính đến #239). Được đồng bọn (ông lão Cự Nhân) tiết lộ là một cựu binh có thực lực bình thường, nhận ra nghề thương nhân phù hợp hơn nên chuyến này định là phi vụ cuối cùng trước khi giải nghệ (tính đến #246). Được nhóm Rentt và ông lão Cự Nhân thống nhất chọn làm người đưa tin quay về tổ chức liên lạc (tính đến #250).
 - Xuất hiện từ: #232.
 
 ### Siren
 - Giới tính, vai trò: Nữ, điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin), mới vào nghề vài năm (#234).
-- Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; theo suy đoán của Augurey và nhóm Rentt có thể chuyên về mị hoặc/thao túng đàn ông (#234). Bị Augurey lần theo mùi nước hoa đặc trưng vương đô tóm gọn khi đang ẩn nấp trong làng; sở hữu dị năng/thiên phú thao túng tâm trí/thôi miên hiếm gặp không dùng Ma Lực, có thể khống chế tối đa khoảng 20 người cùng lúc nếu có sự chuẩn bị trước (cho ngửi thuốc, trò chuyện), nhưng vô hiệu trước người có thể chất/tinh thần quá mạnh; thuật thao túng tự giải trừ khi Siren bất tỉnh; bị Lorraine tra khảo và khai hết thông tin (tính đến #238). Bị Lorraine bỏ bùa cho ngủ say suốt một ngày và giăng bẫy ngầm ma thuật xung quanh làm mồi nhử đồng bọn (tính đến #239). Được đồng bọn (ông lão Cự Nhân) tiết lộ là sở hữu dị năng hiếm gặp nhưng còn thiếu kinh nghiệm và tính tình quá kiêu ngạo, vốn được giao phi vụ khó nhằn này để gọt giũa bớt tính tự kiêu và học hỏi trưởng thành (tính đến #246).
+- Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; thuộc tổ chức ngầm chuyên thu nhận những người sở hữu dị năng; sở hữu dị năng/thiên phú thao túng tâm trí/thôi miên hiếm gặp không dùng Ma Lực, có thể khống chế tối đa khoảng 20 người cùng lúc nếu có sự chuẩn bị trước (cho ngửi thuốc, trò chuyện), nhưng vô hiệu trước người có thể chất/tinh thần quá mạnh; thuật thao túng tự giải trừ khi Siren bất tỉnh; bị Lorraine tra khảo và khai hết thông tin (tính đến #238). Bị Lorraine bỏ bùa cho ngủ say suốt một ngày và giăng bẫy ngầm ma thuật xung quanh làm mồi nhử đồng bọn (tính đến #239). Được đồng bọn (ông lão Cự Nhân) tiết lộ là sở hữu dị năng hiếm gặp nhưng còn thiếu kinh nghiệm và tính tình quá kiêu ngạo, vốn được giao phi vụ khó nhằn này để gọt giũa bớt tính tự kiêu và học hỏi trưởng thành (tính đến #246). Được nhóm Rentt giữ lại làm con tin cùng ông lão Cự Nhân (tính đến #250).
 - Xuất hiện từ: #234.
 
 ### Ferrici

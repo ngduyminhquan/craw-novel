@@ -254,7 +254,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 247 |  | Chapter_247 - Vol 11 Chapter 1 - Surprise Attack (4).txt | Vol 11 Chapter 1 - Surprise Attack (4) | reviewed |  |
 | 248 |  | Chapter_248 - Vol 11 Chapter 1 - Surprise Attack (5).txt | Vol 11 Chapter 1 - Surprise Attack (5) | reviewed |  |
 | 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | reviewed |  |
-| 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | todo |  |
+| 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | done |  |
 | 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | todo |  |
 | 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | todo |  |
 | 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | todo |  |
@@ -901,3 +901,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#248] Dịch tiêu đề arc/chương 'Vol 11 Chapter 1 - Surprise Attack (5)' — tạm chọn 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)' đồng bộ với #244-#247. Tạm dùng trong bản dịch: 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)'. → Chốt 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)' đồng bộ với #244-#247. (orchestrator)
 - [#249] Dịch thuật ngữ chức nghiệp 'diviner' và kỹ năng 'divination' — tạm chọn 'thuật sĩ bói toán' và 'thuật bói toán' theo phong cách fantasy (phương án khác: 'chiêm bặc sư' / 'thuật chiêm bặc', 'thầy bói' / 'bói toán'). Tạm dùng trong bản dịch: 'thuật sĩ bói toán' và 'thuật bói toán'. → Chốt 'thuật sĩ bói toán' và 'thuật bói toán' (tự nhiên, hợp văn phong fantasy phương Tây theo style.md). (orchestrator)
 - [#249] Dịch dị năng 'gigantification' và động từ 'gigantify' — tạm chọn danh từ 'khổng lồ hóa' và động từ 'hóa khổng lồ' (phương án khác: 'cự nhân hóa', 'phóng to cơ thể'). Tạm dùng trong bản dịch: 'khổng lồ hóa' / 'hóa khổng lồ'. → Chốt 'khổng lồ hóa' / 'hóa khổng lồ' đồng bộ với cách dịch đã dùng xuyên suốt từ chương 245-248. (orchestrator)
+- [#250] Dịch cụm từ 'ability wielder(s)' — tạm dùng 'người sở hữu dị năng / kẻ sở hữu dị năng' theo ngữ cảnh tự nhiên (phương án khác: 'dị năng giả' ngắn gọn theo phong cách Hán Việt). → Giữ 'người sở hữu dị năng / kẻ sở hữu dị năng' theo ngữ cảnh tự nhiên, hợp văn phong hiện đại trong style.md (không cần đưa vào glossary vì là cụm danh từ chung). (orchestrator)

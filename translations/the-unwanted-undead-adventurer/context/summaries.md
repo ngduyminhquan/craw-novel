@@ -1472,6 +1472,13 @@ Rentt dùng Phân Liệt tái tạo lại cơ thể nguyên vẹn sau khi bị �
 Khi tỉnh lại và nhận ra mình bị trói ma pháp cùng khế ước vô hiệu hóa dị năng, ông lão chấp nhận khai nhận rằng nhóm sát thủ được phái đi thủ tiêu nhóm Rentt vì họ đã gặp mặt nhị công chúa bàn về quyền trượng cùng tình trạng của quốc vương; Lorraine vạch trần việc kẻ đứng sau ắt hẳn đã thuê một thuật sĩ bói toán cao tay soi xét quá khứ và tương lai.
 Cảnh kết thúc: Lorraine cất tiếng hỏi câu quan trọng nhất: rốt cuộc ai là kẻ đã hạ lệnh ám sát cho bọn chúng.
 
+## 250
+Ông lão tiết lộ kẻ chủ mưu thuê nhóm ám sát là Nữ Bá tước Gisel Georgiou (người ủng hộ Đệ Nhất Công Chúa Nadia Regina Yaaran) thông qua một tổ chức ngầm chuyên thu nhận, đào tạo những người sở hữu dị năng bị xã hội hắt hủi; Rentt đồng cảm với nỗi cô độc của những kẻ dị biệt nhưng vẫn đề cao cảnh giác trước thế lực nguy hiểm này.
+Nhóm Rentt lập kết giới bàn bạc và quyết định nhờ ông lão bắc cầu đàm phán trực tiếp với chủ thuê hoặc thủ lĩnh tổ chức; trước sự ngạc nhiên của cả nhóm, ông lão chấp thuận vì biết bản thân đằng nào cũng coi như đã chết do làm hỏng nhiệm vụ.
+Cả nhóm áp giải ông lão bị trói ma pháp quay lại chỗ Ferrici; ông lão thở phào khi biết Siren vẫn an toàn và hiến kế cử Goblin làm người đưa tin liên lạc về tổ chức còn mình cùng Siren ở lại làm con tin.
+Cảnh kết thúc: Sau khi Lorraine đồng ý kế hoạch, ông lão lên tiếng nhắc nhở tổ chức có biện pháp khắc chế dị năng và khuyên Rentt hãy cẩn thận; Rentt cảm ơn khiến ông lão nhìn anh như một kẻ kỳ quặc.
+
+
 
 
 
