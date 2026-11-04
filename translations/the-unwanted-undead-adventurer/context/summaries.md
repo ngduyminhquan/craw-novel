@@ -1424,6 +1424,12 @@ Sáng sớm, nhóm Rentt chuẩn bị trang bị và cất đồ đạc vào tú
 Trước khi xuất phát, Ferrici đuổi theo tặng nhóm giỏ thức ăn tươi ngon do cha mẹ chuẩn bị; vô cùng biết ơn vì nhóm đã tha mạng cho cô và dân làng, Ferrici ngỏ ý tiết lộ bí quyết vượt qua bãi sinh sản của Phi Long Mime và được nhóm tuyên thệ giữ kín.
 Cảnh kết thúc: Đến bờ Hồ Petorama ngắm cảnh tượng hàng nghìn Phi Long Mime làm tổ trên những tảng đá lơ lửng nhờ Ma Tinh, Rentt quay sang Ferrici đang nấp bên cạnh hỏi thăm an toàn, nhận ra phương pháp giúp nhóm lẻn qua an toàn chính là sự có mặt của cô bé.
 
+## 242
+Ferrici dẫn nhóm Rentt đi an toàn xuyên qua bãi sinh sản của Phi Long Mime mà không hề bị tấn công; Lorraine giải thích cảm giác trực giác của Ferrici thực chất là một loại dị năng bẩm sinh hiếm gặp không dùng Ma Lực, giúp cô bé trút bỏ được gánh nặng nghi ngại trong lòng.
+Để giúp nhóm thu hái lanh Phi Long mọc quanh tổ trên những tảng đá lơ lửng, Ferrici vẫy gọi và tập hợp bốn con Phi Long Mime cho cả nhóm cưỡi lên lưng bay lên đỉnh tảng đá lớn nhất.
+Nhóm hạ cánh an toàn xuống tảng đá lơ lửng và được Ferrici dẫn tới một tổ Phi Long; Lorraine thích thú quan sát cảnh chim mẹ mớm mồi cho con non cùng những quả trứng khổng lồ và lỡ buông lời đùa muốn đập trứng chiên khiến Ferrici lườm nguýt.
+Cảnh kết thúc: Sau khi Lorraine vội vàng xin lỗi và phân trần chỉ nói đùa chứ không tài nào ăn hết quả trứng to như vậy, ánh mắt hình viên đạn của Ferrici mới bớt gay gắt.
+
 
 
 

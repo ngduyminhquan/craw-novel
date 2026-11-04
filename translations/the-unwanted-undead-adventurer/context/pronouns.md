@@ -446,6 +446,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Ferrici | tôi | em / Ferrici | 238 | Mạo hiểm giả giải thích và trấn an thiếu nữ trong làng |
 | Ferrici | Rentt Faina | tôi | anh / các người | 238 | Thiếu nữ bàng hoàng đối đáp với mạo hiểm giả |
 | Ferrici | Augurey | tôi | anh / Augurey | 239 | Thiếu nữ tỉnh táo nói chuyện với mạo hiểm giả sau khi hết bị thôi miên |
+| Ferrici | Lorraine Vivie | em | chị / chị Lorraine | 241 | Thiếu nữ thân thiết và biết ơn nữ học giả |
+| Ferrici | Rentt Faina | em | anh / anh Rentt | 241 | Thiếu nữ thân thiết và biết ơn mạo hiểm giả |
+| Ferrici | Augurey | em | anh | 241 | Thiếu nữ thân thiết và biết ơn mạo hiểm giả |
+| Ferrici | * | em | các anh chị | 241 | Thiếu nữ xưng hô thân thiết với nhóm mạo hiểm giả |
 | Augurey | Leo | tôi | bác / hai bác | 240 | Mạo hiểm giả nói chuyện với cha của Ferrici |
 | Leo | Augurey | tôi | cậu / Augurey | 240 | Người cha nói chuyện với mạo hiểm giả tha mạng cho con gái |
 | Augurey | Lenora | tôi | bác / hai bác | 240 | Mạo hiểm giả nói chuyện với mẹ của Ferrici |

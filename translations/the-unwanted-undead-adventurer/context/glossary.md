@@ -438,3 +438,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | lymes | lymes leaf | cây lymes | vật phẩm | 237 | Loài cây có lá to cỡ và hình dạng như bàn tay người |
 | Skull-Mask |  | Mặt Nạ Khô Lâu | danh hiệu | 239 | Biệt danh Augurey gọi đùa Rentt |
 | She-Mage |  | Nữ Pháp Sư | danh hiệu | 239 | Biệt danh Augurey gọi đùa Lorraine |
+| dragon knight | dragon knights | kỵ sĩ rồng | chức nghiệp | 242 | Kỵ sĩ cưỡi rồng hoặc Phi Long chiến đấu (竜騎士) |
