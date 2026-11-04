@@ -1,175 +1,175 @@
 # Chương 53: Tập 2 Chương 4 - Hoa Long Huyết (6)
 
-Địa hình của Đầm Lầy Tarasque vô cùng bất lợi. Hơn một nửa mặt đất đều mềm nhũn và lún sụt; chẳng phải điều kiện lý tưởng cho việc chiến đấu. Chưa kể nơi đây còn nhan nhản những hố bùn lún cùng cạm bẫy hố sụt mà người ta phải tương đối nhanh nhẹn mới mong thoát khỏi miệng hố tử thần ấy.
+Địa hình Đầm Lầy Tarasque cực kỳ bất lợi. Hơn nửa mặt đất lầy lội và sụt lún, chẳng phải điều kiện lý tưởng để giao chiến. Đã vậy nơi đây còn đầy rẫy hố bùn lún cùng cạm bẫy sụt lở, phải tương đối nhanh nhẹn mới mong thoát khỏi những miệng hố tử thần ấy.
 
 Chưa hết—
 
 "Hử...?!"
 
-Tôi nhanh chóng rút kiếm, vừa nhảy lùi về phía sau vừa chém đứt đôi mũi tên đang lao tới.
+Tôi lập tức tuốt kiếm, vừa nhảy lùi lại vừa chém đứt đôi mũi tên đang lao tới.
 
 Mình bị đánh bọc sườn sao?
 
-"Chít!" Edel nhanh chóng thông báo vị trí mũi tên bắn ra cho tôi thông qua liên kết tâm trí.
+"Chít!" Qua liên kết tâm trí, Edel vội báo cho tôi vị trí mũi tên vừa bắn tới.
 
-Nhanh chóng quay người, tôi bắt gặp một con Goblin cầm cung đang nhìn chằm chằm về hướng chúng tôi. Con Goblin dường như chẳng hề có ý định tiếp cận. Thay vào đó, một mũi tên khác lại lao về phía chúng tôi từ một hướng khác. Chém đứt đôi mũi tên thêm một lần nữa, tôi quay lại và đúng như dự đoán, trông thấy một con Goblin khác.
+Tôi quay phắt lại và bắt gặp một con Goblin cầm cung đang nhìn chằm chằm về phía mình. Nó dường như chẳng có ý định áp sát. Bất thình lình, một mũi tên khác lại từ hướng khác lao tới. Tôi vung kiếm chém đứt đôi mũi tên lần nữa, ngoảnh lại thì đúng như dự đoán, lại thêm một con Goblin nữa.
 
-Một cái nhìn lướt nhanh quanh khu vực xung quanh đã xác nhận mối lo của tôi: chúng tôi đã bị bầy Goblin bao vây.
+Đảo mắt nhìn quanh, nỗi lo của tôi lập tức thành hiện thực: cả hai đã bị bầy Goblin bao vây.
 
-Tính cả thảy có chừng mười con. Tôi không khỏi thắc mắc rốt cuộc chúng chui ra từ đâu. Tay lăm lăm thanh kiếm tuốt trần, tôi lại đảo mắt quét nhanh một lượt khắp khu vực. Một âm thanh sột soạt rõ mồn một vang lên trong không khí—tiếng động phát ra từ ngay dưới chân tôi. Có lẽ là hang hốc, hoặc một mạng lưới hang ngầm và hốc đất chằng chịt trong khu vực này.
+Tính cả thảy có chừng mười con. Tôi không khỏi thắc mắc rốt cuộc chúng chui ra từ ngóc ngách nào. Tay lăm lăm kiếm, tôi lại đảo mắt quét nhanh một lượt quanh khu vực. Bỗng có tiếng sột soạt vang lên rõ mồn một—phát ra từ ngay dưới chân tôi. Chắc là hang hốc, hoặc quanh đây có cả một mạng lưới hốc đất và hang ngầm chằng chịt.
 
-Tôi tự hỏi làm sao lũ Goblin này có thể thở được dưới lớp bùn đầm lầy. Thắc mắc của tôi lập tức được giải đáp khi nhìn kỹ hơn vào con Goblin cầm cung, trên miệng nó đang ngậm một vật thể dài và hẹp tựa như que củi. Một loại ống thở để hô hấp khi bơi dưới đầm lầy chăng?
+Tôi thắc mắc làm sao lũ Goblin này thở được dưới lớp bùn đầm lầy. Nhưng nhìn kỹ lại con Goblin cầm cung, tôi đã có câu trả lời: miệng nó đang ngậm một vật dài và mảnh tựa như que củi. Một dạng ống thở để hô hấp khi lặn ngụp dưới đầm lầy chăng?
 
-Địa hình đầm lầy cũng đem lại lợi thế cho lũ Goblin; dẫu tôi có cảnh giác đến đâu đi nữa thì việc nhận ra ngay thứ gì đó đang ẩn nấp trong những lùm bụi xung quanh cũng là điều bất khả thi.
+Địa hình đầm lầy cũng đứng về phía lũ Goblin; dẫu tôi có tập trung cảnh giác đến đâu, cũng chẳng thể nào phát hiện ngay được những thứ đang lẩn trốn trong lùm cây bụi cỏ xung quanh.
 
-Tự rủa bản thân vì đã mất tập trung trong lúc lội qua đầm lầy, tôi bắt đầu vạch ra kế hoạch tác chiến—tôi không thể bị đánh bại ở nơi này.
+Thầm rủa mình lơ đễnh trong lúc lội qua đầm lầy, tôi bắt đầu vạch kế hoạch đối phó—tuyệt đối không thể ngã gục ở chốn này.
 
-Những đòn tấn công tầm xa của chúng thật phiền phức, và lũ Goblin vẫn không hề để lộ bất kỳ dấu hiệu hay ý định nào muốn áp sát tôi. Một lựa chọn chiến thuật sáng suốt, xét đến việc chúng đang phải đối đầu với một kẻ như tôi. Tôi đoán lũ Goblin cũng cảm thấy cần phải dè chừng ở một mức độ nhất định. Nếu chúng sơ suất xông tới gần, tôi sẽ quét sạch chúng một cách dễ dàng.
+Đòn tầm xa của chúng khá phiền toái, đã vậy lũ Goblin vẫn chẳng có dấu hiệu hay ý định áp sát tôi. Đó là nước đi khôn ngoan, bởi kẻ chúng đang đối đầu là tôi. Chắc lũ Goblin cũng thấy cần phải cẩn trọng đôi phần. Chỉ cần chúng sơ hở lao lại gần, tôi có thể gạt phắt chúng đi dễ như bỡn.
 
-Tôi truyền Khí Lực vào hai chân, giúp bản thân có thể bước đi trên nền đất bùn lầy lội mà không bị lún xuống. Bằng một động tác đã quá đỗi quen thuộc, tôi thủ thế thanh kiếm, lao thẳng về phía những Cung Thủ Goblin.
+Tôi dồn Khí Lực vào hai chân để có thể giẫm lên lớp đất bùn lầy mà không bị lún. Bằng động tác đã quá đỗi thuần thục, tôi giương kiếm, lao thẳng về phía những Cung Thủ Goblin.
 
-Dẫu tốc độ di chuyển của tôi chậm hơn đáng kể so với khi ở trên đất cứng, tôi vẫn nhanh nhẹn hơn gấp nhiều lần so với lũ Goblin sống dưới bùn lầy này.
+Dù tốc độ của tôi chậm hơn nhiều so với khi chạy trên đất cứng, tôi vẫn nhanh nhẹn hơn bầy Goblin sống dưới bùn lầy này gấp bội.
 
-Hoảng loạn trước bước tiến thần tốc của tôi, lũ Goblin hạ vũ khí xuống, quay đầu toan tháo chạy. Lũ Goblin vốn nổi tiếng với bản tính nhút nhát hèn hạ, dẫu cách đây ít lâu tôi cũng chẳng khác chúng là bao.
+Thấy tôi lao tới quá nhanh, lũ Goblin hoảng loạn buông vũ khí, quay đầu toan bỏ chạy. Giống loài Goblin vốn nổi tiếng nhát gan, dẫu cách đây ít lâu tôi cũng chẳng khác chúng là mấy.
 
-Tháo chạy thật nhanh là một lựa chọn sáng suốt nếu không thể thắng—chuyện đó vốn chẳng có gì phải bàn cãi.
+Thấy không thắng nổi thì nhanh chân tẩu thoát là nước đi sáng suốt—chuyện đó xưa nay chẳng có gì phải bàn cãi.
 
-Cái chết là kẻ san bằng tất cả, cái kết được định sẵn cho cả con người lẫn quái vật. Tôi đồ rằng mình là một ngoại lệ...
+Cái chết san bằng tất cả, là điểm dừng định sẵn cho cả con người lẫn quái vật. Có lẽ tôi là một ngoại lệ...
 
-Dù sao đi nữa, tôi cũng chẳng có ý định để lũ Goblin chạy thoát. Không phải mọi con Goblin đều nhất thiết là tà ác hay hiểm độc. Vài loài Goblin được biết đến là hiền hòa và biết hợp tác, trong khi ở những vùng đất khác, những con Goblin như vậy được coi như một chủng tộc thú nhân và có thể sinh sống mà không phải lo sợ bị bức hại.
+Dù sao đi nữa, tôi cũng chẳng có ý định để lũ Goblin chạy thoát. Không phải con Goblin nào cũng xấu xa hay độc ác. Có những nhóm Goblin sống hiền hòa và biết hợp tác, thậm chí ở vài vùng đất khác, chúng còn được xem như một dạng thú nhân, có thể sống yên ổn mà không sợ bị săn đuổi hay bức hại.
 
-Thế nhưng, lũ Goblin ở đây lại nhăm nhe săn lùng những mạo hiểm giả đang khám phá đầm lầy. Tôi chẳng thấy chúng giống lũ Goblin lương thiện ở bất kỳ điểm nào.
+Thế nhưng, lũ Goblin ở đây lại nhăm nhe săn lùng những mạo hiểm giả thám hiểm đầm lầy. Tôi chẳng thấy chúng có lấy một chút thiện chí nào.
 
-Tất nhiên, chúng sinh sống ở vùng đầm lầy này, và có lẽ cũng có những cái nhìn khác nhau về con người nói chung. Dẫu vậy, bỏ mạng chẳng phải điều tôi mong muốn, và nếu tôi tha cho chúng, chắc chắn chúng sẽ lại tấn công những mạo hiểm giả khác.
+Dĩ nhiên, chúng sống trong đầm lầy này, và mỗi con có lẽ lại nhìn nhận con người theo cách khác nhau. Dẫu vậy, tôi chẳng dại gì mà nộp mạng, vả lại nếu tha cho chúng, chắc chắn chúng sẽ lại tấn công những mạo hiểm giả khác.
 
-Một khi chúng đã lựa chọn đối địch với con người, chuyện đổ máu đôi bên là điều không thể tránh khỏi. Đó là lý do tại sao tôi vung kiếm chém xuống không chút do dự ngay khi đuổi kịp một con trong số chúng.
+Một khi chúng đã chọn cách đối địch với con người thì đổ máu là chuyện khó tránh. Vì thế, vừa đuổi kịp một con, tôi liền vung kiếm chém xuống không chút do dự.
 
-Chúng dường như mạnh hơn đáng kể so với lũ Goblin ở Mê Cung Nguyệt Ảnh. Tôi cho rằng đây là điều dĩ nhiên bởi khả năng sinh tồn trong môi trường độc hại này, cùng khả năng ẩn mình dưới làn nước đầm lầy của chúng.
+Chúng có vẻ khỏe hơn hẳn lũ Goblin trong Mê Cung Nguyệt Ảnh. Nhưng nghĩ lại thì cũng đúng thôi, bởi chúng sống được giữa môi trường độc hại này và còn biết ẩn mình dưới làn nước đầm lầy.
 
-Thế nhưng, mọi chuyện cũng chỉ có bấy nhiêu mà thôi.
+Có điều, chúng cũng chỉ làm được đến thế mà thôi.
 
-Dù lũ Goblin đủ khôn ngoan để tận dụng địa hình có lợi và bắn tên vào những mạo hiểm giả mất cảnh giác, chúng dường như chẳng có mấy khả năng cận chiến.
+Dù lũ Goblin đủ khôn ngoan để lợi dụng địa hình bắn lén những mạo hiểm giả mất cảnh giác, chúng dường như chẳng có mấy kỹ năng cận chiến.
 
-Chỉ bằng một nhát chém, một con Goblin đã ngã úp mặt xuống bùn lầy. Con tiếp theo nhanh chóng theo sau, rồi đến con kế đó. Chẳng mấy chốc, cả mười con Goblin đều đã chết, nằm la liệt trên lớp bùn nhão.
+Chỉ bằng một đường kiếm, một con Goblin đã ngã úp mặt xuống bùn. Con tiếp theo rồi con kế đó cũng chịu chung số phận. Chẳng mấy chốc, cả mười con Goblin đều đền mạng, nằm la liệt trên lớp bùn nhão.
 
-Sau khi xác nhận không còn mối đe dọa trước mắt nào ở khu vực lân cận, tôi đi một vòng thu thập Ma Tinh từ xác lũ Goblin. Phẩm chất của số Ma Tinh này khá lắm thì cũng chỉ ở mức tầm thường, nhưng chí ít thì chúng vẫn đổi được một khoản tiền nhất định. Do da của Goblin xưa nay chẳng có công dụng nào được biết đến, tôi chỉ rạch một đường lớn bằng con dao giải phẫu của mình, cậy những viên Ma Tinh nằm cạnh tim của lũ sinh vật ra. Tôi sẽ để mặc xác chúng ở lại đây làm phân bón cho thảm thực vật đầm lầy.
+Sau khi chắc chắn quanh đây không còn mối đe dọa nào, tôi đi một vòng thu thập Ma Tinh từ xác lũ Goblin. Chất lượng số Ma Tinh này khá lắm cũng chỉ ở mức trung bình, nhưng chí ít vẫn đổi được chút tiền. Xưa nay da Goblin chẳng dùng làm được việc gì, nên tôi chỉ dùng dao giải phẫu rạch một đường lớn, nạy những viên Ma Tinh cạnh tim chúng ra. Còn xác thì cứ bỏ lại đây làm phân bón cho cây cỏ đầm lầy.
 
-Thế rồi... tôi chợt nhận ra rằng Edel hầu như chẳng làm được tích sự gì trong trận chạm trán này, ngoại trừ việc báo cho tôi biết mũi tên đầu tiên được bắn ra từ đâu.
+Thế rồi... tôi chợt nhận ra suốt trận chiến vừa rồi, ngoài việc báo cho tôi hướng bắn của mũi tên đầu tiên, Edel hầu như chẳng làm được tích sự gì.
 
-Con chuột này rốt cuộc có coi mình là quyến thuộc của tôi không vậy?
+Con chuột này rốt cuộc có nhớ mình là quyến thuộc của tôi không đấy?
 
-Tôi căn dặn Edel phải làm việc cho xứng với công nuôi dưỡng trong trận chiến tiếp theo. Edel chỉ đáp lại rằng nó sẽ làm việc nếu thấy thực sự cần thiết.
+Tôi dặn Edel trận tới phải làm việc cho bõ công nuôi. Đáp lại, nó bảo bao giờ thật sự cần thì nó mới ra tay.
 
 Con chuột này rốt cuộc có coi tôi là chủ nhân của nó không đấy...?
 
-Tôi không khỏi tự hỏi...
+Tôi thật sự nghi ngờ đấy...
 
 ◆◇◆◇◆
 
-Dẫu đầm lầy chẳng phải nơi mà hầu hết mọi người sẽ tự nguyện đặt chân tới, người ta không thể phủ nhận nơi đây có một hệ động thực vật phong phú, tất cả đều có thể thu hoạch và tận dụng làm nguyên liệu hay vật liệu. Vì lẽ đó, một số hạng mục cơ sở hạ tầng đã được dựng lên nhằm tạo điều kiện thuận lợi cho tiến trình này.
+Dù đầm lầy chẳng phải nơi ai cũng tự nguyện mò vào, nhưng không thể phủ nhận hệ động thực vật ở đây vô cùng phong phú, đều có thể thu thập làm dược liệu hay vật phẩm chế tác. Vì thế, người ta cũng dựng sẵn vài công trình tiện ích để phục vụ cho việc này.
 
-Chẳng hạn như cầu cống và những thứ tương tự thường được bắc qua những vùng nước lớn. Chừng đó là điều cần thiết để một con người bình thường có thể thám hiểm đầm lầy, bởi lẽ trên những vùng đất này chẳng có ai sở hữu mức độ kháng độc như tôi cả. Và xét thấy chẳng một người tỉnh táo nào lại cố bơi qua một vùng nước đầm lầy đầy kịch độc, những cây cầu là thứ thiết yếu ở chốn này.
+Chẳng hạn như những cây cầu được bắc qua các vùng nước lớn. Đó là điều tối cần thiết nếu một người bình thường muốn thám hiểm đầm lầy, bởi quanh đây làm gì có ai sở hữu khả năng kháng độc như tôi. Mà người tỉnh táo thì chẳng ai dại gì bơi qua vũng nước đầm lầy ngập tràn kịch độc, nên cầu cống ở những nơi này là thứ không thể thiếu.
 
-Dù tôi miễn nhiễm với tác động của độc tố, tôi cũng chẳng hề hứng thú với việc ngâm mình dưới nước nếu có sự lựa chọn. Về cơ bản, tôi sẽ sẵn lòng qua cầu nếu bắt gặp một cây cầu nào đó.
+Dù miễn nhiễm với độc tố, nhưng nếu có lựa chọn thì tôi cũng chẳng ham hố gì chuyện ngâm mình dưới nước. Nói trắng ra là cứ thấy cầu thì tôi mừng rỡ đi qua ngay.
 
-Ấy thế nhưng, vẫn còn một vấn đề—
+Có điều, vẫn có một vấn đề nảy sinh—
 
 Kẽo kẹt... Kẽo kẹt...
 
-Một âm thanh tôi chẳng hề muốn nghe thấy; nhất là ở một nơi như thế này.
+Âm thanh mà tôi chẳng hề muốn nghe, nhất là ở cái chốn này.
 
-Vật liệu làm cầu tùy thuộc vào vị trí xây dựng, và cây cầu cụ thể này được làm bằng gỗ. Sự thuận tiện trong thi công là yếu tố chính khi lựa chọn vật liệu bắc cầu. Tuy nhiên, người ta sẽ rất khó tìm đủ vật liệu để xây một cây cầu kim loại giữa chốn đầm lầy. Trên thực tế, kỳ công ấy chỉ có thể thực hiện được nếu thuê một lượng lớn mạo hiểm giả. Những mạo hiểm giả này cũng sẽ phải làm việc cho dự án trong suốt một khoảng thời gian dài.
+Vật liệu bắc cầu tùy thuộc vào từng vị trí, và cây cầu này được làm bằng gỗ. Thi công dễ dàng là tiêu chí hàng đầu khi chọn vật liệu dựng cầu. Giữa chốn đầm lầy hoang vu thế này thì đào đâu ra đủ vật liệu để dựng một cây cầu kim loại. Thực tế, chuyện đó chỉ khả thi nếu thuê cả một đội mạo hiểm giả đông đảo, và họ sẽ phải cắm chốt thi công ròng rã suốt một thời gian dài.
 
-Đó là lý do tại sao thay vào đó lại có một cây cầu gỗ bắc qua nơi đây.
+Chính vì thế, bắc qua nơi đây chỉ là một cây cầu gỗ.
 
-Lẽ tự nhiên, loại gỗ dùng cho cây cầu này lấy từ một loài cây chịu độc mọc ở vùng lân cận. Nhờ đặc tính của nó, loại gỗ này bền chắc hơn nhiều so với gỗ thông thường.
+Dĩ nhiên, gỗ làm cầu được lấy từ loài cây kháng độc mọc quanh vùng. Nhờ đặc tính đó, nó bền chắc hơn gỗ thường rất nhiều.
 
-Dẫu vậy, cầu gỗ thì vẫn là cầu gỗ. Xét trên mọi phương diện, cây cầu này chỉ là một công trình thô sơ, và kết cấu đơn giản của nó khiến nó mục nát với tốc độ nhanh hơn. Rồi một ngày nào đó, nó sẽ sập xuống và bị đầm lầy nuốt chửng thêm một lần nữa.
+Dẫu vậy, cầu gỗ thì vẫn cứ là cầu gỗ. Nói cho cùng, cây cầu này dựng lên hết sức sơ sài, và chính sự thô sơ ấy khiến nó mục ruỗng nhanh hơn bình thường. Sớm muộn gì rồi nó cũng sập xuống và lại bị đầm lầy nuốt chửng.
 
-—Và hôm nay chính là cái ngày cây cầu này quyết định đổ sập, khi tôi đang đứng ở trên.
+—Và trớ trêu thay, hôm nay chính là ngày cây cầu đổ sập, ngay lúc tôi đang ở trên đó.
 
 Rắc!!!
 
-Tôi chẳng còn lựa chọn nào khác ngoài việc chuẩn bị tinh thần; dẫu vậy, tôi vẫn chưa kịp định thần hẳn, nên tôi đã cố chạy thoát khỏi cây cầu, dồn trọng lượng đáng kể vào từng bước chân. Nếu bình tĩnh suy xét tình huống trước mắt, chắc chắn tôi đã chọn một hướng xử lý khác.
+Tôi chỉ còn nước gồng mình ứng biến; dẫu vậy, do chưa kịp định thần, tôi cuống cuồng cắm đầu chạy qua cầu, thành thử từng bước chân dồn xuống quá nặng. Giá mà lúc đó bình tĩnh suy xét tình hình, chắc chắn tôi đã chọn cách xử lý khác.
 
-Không chịu nổi trọng lượng của tôi, một tấm ván mục gãy vụn.
+Không kham nổi sức nặng ấy, một tấm ván mục gãy toác.
 
-Ngặt nỗi, Thi Quỷ sở hữu sức mạnh thể chất vượt trội hơn hẳn so với người bình thường. Thành thử, cú giẫm chân bất cẩn của tôi đã dẫn tới một kết cục hoàn toàn có thể đoán trước.
+Khổ nỗi, sức mạnh thể chất của Thi Quỷ vượt trội hơn người thường rất nhiều. Thành thử, những bước chân giẫm huỳnh huỵch vì thiếu cẩn trọng của tôi đã dẫn tới hậu quả thấy rõ mười mươi.
 
-Bàn chân tôi lúc này giẫm thủng tấm ván, khiến cây cầu vốn đã yếu ớt bị biến dạng, làm tôi rơi xuống sát sạt mặt nước đầm lầy đầy nguy hiểm. Về phần Edel, nó đã kịp nhảy phắt khỏi vai tôi từ trước, thoăn thoắt trèo lên cây cầu đang rung bần bật rồi chạy sang bờ bên kia an toàn.
+Bàn chân lọt thỏm qua tấm ván khiến cây cầu vốn ọp ẹp bị vặn vẹo biến dạng, kéo tôi tụt xuống sát sạt mặt đầm lầy đầy hiểm nguy. Về phần Edel, nó đã nhanh nhảu phi khỏi vai tôi từ đời nào, thoăn thoắt bò dọc theo thân cầu đang rung bần bật rồi trèo tót lên bờ bên kia an toàn.
 
-Cái con chuột phản phúc này!
+Cái đồ chuột phản phúc này!
 
-Hành động của Edel cũng có lý do xác đáng, bởi tôi không biết chính xác nó có thể kháng độc tốt đến đâu. Không thể loại trừ khả năng một cú rơi như vậy sẽ lấy mạng Edel, nên tạm thời tôi tha thứ cho quyến thuộc của mình.
+Nghĩ đi thì cũng nghĩ lại, Edel làm vậy cũng có lý, bởi tôi đâu rõ nó kháng độc được tới mức nào. Rất có thể cú ngã này sẽ lấy mạng nó, nên tạm thời tôi tha thứ cho con quyến thuộc của mình.
 
-Cây cầu cuối cùng cũng sập hẳn, chìm nghỉm xuống đáy đầm lầy, kéo theo cả tôi cùng xuống. Tôi không cảm thấy đau đớn hay khó thở chút nào; tôi đoán Undead chẳng cần phải hô hấp nhiều cho lắm, nếu không muốn nói là hoàn toàn không cần. Đây là một phát hiện mới mẻ đối với tôi, âu cũng chỉ vì tôi đã có đôi ủng bước trên nước trong chuyến đi tới Làng Todds.
+Cây cầu cuối cùng cũng gãy gục, chìm nghỉm xuống đáy đầm lầy và kéo theo cả tôi. Tôi chẳng thấy đau đớn hay khó thở gì; có lẽ Undead chẳng cần hít thở là bao, thậm chí là không cần luôn. Đây là phát hiện hoàn toàn mới với tôi, âu cũng tại chuyến đi Làng Todds trước đó tôi đã có đôi ủng bước trên nước rồi.
 
-Nếu ngay từ đầu tôi đã có thể bơi lội, có lẽ tôi chẳng cần đến một ma cụ đắt đỏ như thế. Nhưng tôi đoán làm vậy thì mình sẽ trông rất đáng ngờ trong mắt Ryuntus và Amiris.
+Nếu ngay từ đầu đã có thể bơi lặn thế này, có khi tôi chẳng cần đến món ma cụ đắt đỏ ấy làm gì. Nhưng nghĩ lại, nếu lội bì bõm dưới nước thì trông tôi sẽ đáng ngờ lắm trong mắt Ryuntus và Amiris.
 
-Dẫu vậy, chuyện đó giờ đã là quá khứ.
+Cơ mà, chuyện đó cũng qua rồi.
 
-Dù vậy, tôi vẫn hít thở khi ở trên cạn—nếu không làm thế tôi sẽ trông rất kỳ quặc. Con người làm việc này một cách vô thức, dẫu khi so sánh, khả năng không cần hít thở trong lúc ngụp lặn dưới đầm lầy kịch độc của tôi quả thực vô cùng tiện lợi. Dù diện mạo của tôi trông chẳng mấy vừa mắt và kỳ quặc, có lẽ tôi cũng không phiền lòng nếu phải mang cơ thể như thế này suốt phần đời còn lại.
+Nói vậy chứ khi ở trên cạn tôi vẫn thở—không thở thì người ta nhìn vào thấy dị lắm. Con người hít thở một cách vô thức, nhưng so ra thì việc chẳng cần thở lúc chìm dưới đầm lầy kịch độc thế này đúng là tiện thật. Dù vẻ ngoài trông gớm ghiếc và kỳ dị, nhưng mang cơ thể này suốt phần đời còn lại khéo tôi cũng chẳng thấy phiền.
 
-Hiển nhiên là tôi sẽ phải độc thân cả đời, nhưng tôi vẫn có ước mơ trở thành mạo hiểm giả Mithril Cấp bầu bạn cùng mình.
+Hiển nhiên là tôi sẽ phải độc thân cả đời, nhưng bù lại tôi vẫn còn ước mơ trở thành mạo hiểm giả Mithril Cấp bầu bạn.
 
-Chà, vốn dĩ ngay từ đầu tôi cũng chẳng có ý định kết hôn, nên chuyện đó cũng chẳng quan trọng. Thế nhưng, việc thi thoảng tôi vẫn thoáng qua những suy nghĩ như vậy có lẽ đồng nghĩa với việc tôi vẫn chưa hoàn toàn từ bỏ ý nghĩ đó.
+Mà vốn dĩ ngay từ đầu tôi cũng chẳng tính chuyện lấy vợ, nên có thế nào cũng chẳng sao. Nhưng thỉnh thoảng trong đầu vẫn thoáng qua ý nghĩ ấy, chứng tỏ sâu thẳm trong lòng tôi vẫn chưa dứt hẳn chuyện lập gia đình.
 
-Kéo tâm trí trở lại với tình hình hiện tại, tôi nhận ra làn nước kịch độc của đầm lầy dường như là nơi bất khả thi cho phần lớn sinh vật sống tồn tại. Bởi lẽ hầu hết các sinh vật sống một khi chìm xuống đầm lầy sẽ lập tức tím tái đi rồi bỏ mạng chỉ trong khoảng năm phút sau đó.
+Gạt những suy nghĩ vẩn vơ để quay lại thực tại, tôi nhận ra làn nước kịch độc này vốn không phải chỗ cho phần lớn sinh vật có thể sống nổi. Bất cứ sinh vật nào rớt xuống đầm lầy cũng sẽ lập tức tím tái rồi chết ngắc chỉ sau chừng năm phút.
 
-Thế nhưng cảnh tượng đón chào tôi khi chìm xuống làn nước đầm lầy lại hoàn toàn khác biệt. Tôi không thể gọi đó là một cảnh tượng đẹp đẽ hay nên thơ, nhưng dưới đáy sâu quả thực có sinh vật sống. Những con quái vật hình dạng giống cá, mỗi con to cỡ một người trưởng thành, đang há toang hoác miệng lao về phía tôi. Lũ cá này không chỉ có một vài con, bởi tôi có thể đếm được chừng mười con ở ngay khu vực lân cận quanh mình.
+Thế nhưng cảnh tượng đập vào mắt khi tôi chìm xuống nước lại hoàn toàn trái ngược. Chẳng thể gọi đây là cảnh đẹp hay thơ mộng gì, nhưng dưới đáy sâu quả thực có sinh vật sinh sống. Mấy con quái vật dạng cá to cỡ người lớn đang há toác mồm bơi thẳng về phía tôi. Không chỉ một vài con, quanh tôi lúc này có dễ đến cả chục con như thế.
 
-Tôi có lẽ sẽ không chết nếu bị lũ quái vật này rỉa thịt, và tôi thậm chí còn tự hỏi liệu thịt của mình có ăn được hay không nữa là. Miễn là tôi chịu đựng được, lũ quái vật này có lẽ sẽ bỏ đi sau một hồi. Thế nhưng, chút phần con người còn sót lại trong tôi dường như cảm thấy ghê tởm trước viễn cảnh bị lũ quái vật này ăn thịt.
+Có bị lũ quái vật này rỉa thịt chắc tôi cũng chẳng chết được, mà tôi còn tự hỏi liệu thứ trên người mình có ăn nổi không nữa kia. Cứ cắn răng chịu đựng thì khéo một lúc sau chúng cũng tự bỏ đi. Thế nhưng, chút nhân tính ít ỏi còn sót lại trong tôi thấy buồn nôn trước viễn cảnh bị lũ quái vật này xơi tái.
 
-Rút thanh kiếm ra khỏi bao, tôi vào thế thủ sẵn sàng chiến đấu khi đối mặt với lũ cá quái dị đang lao tới. May mắn thay, chân tôi lúc này đã chạm vào nền đất cứng, và tôi có thể chiến đấu.
+Tôi tuốt kiếm khỏi bao, vào thế sẵn sàng nghênh chiến lũ cá quái thai đang ập tới. May mắn thay, chân tôi lúc này đã chạm vào nền đất cứng nên có thể đứng vững mà đánh.
 
-Tấm ván mà tôi chẳng may giẫm thủng vẫn dính chặt vào một bên chân, nhưng tôi liền dộng mạnh nó xuống đất để giữ thăng bằng. Tôi có thể bơi lội tự do nếu chém đứt tấm ván để giải thoát cho chân mình, nhưng thay vào đó tôi quyết định đứng yên tại chỗ, vung kiếm nghênh chiến lũ cá đang tấn công.
+Tấm ván tôi giẫm thủng lúc nãy vẫn còn dính ở một bên chân, nhưng tôi cứ thế dậm mạnh nó xuống nền bùn đất để đứng cho vững. Nếu chém nát tấm ván giải thoát bàn chân thì tôi có thể bơi lội thoải mái, nhưng tôi lại quyết định trụ lại chỗ cũ, vung kiếm đập tan đòn tấn công của lũ cá.
 
-Ngay lập tức, một con cá lớn há ngoác miệng lao thẳng về phía tôi. Giữ vững vị trí, tôi vung lưỡi kiếm chém thẳng xuống đầu nó, tiện đứt ngọt phần đầu lìa khỏi thân. Thanh kiếm của tôi vẫn đủ sắc bén cho mục đích sử dụng, dẫu ở dưới nước nó nặng hơn đáng kể so với khi ở trên cạn. Dù uy lực hiện tại của nó chẳng thể sánh được với khi ở trên đất khô, việc truyền một chút Khí Lực vào lưỡi kiếm là quá đủ để chặt đứt đầu một con cá khổng lồ.
+Lập tức, một con cá to xác há ngoác miệng lao bổ về phía tôi. Tôi đứng vững chân, giáng kiếm thẳng xuống đầu nó, chém đứt lìa một cách ngọt xớt. Thanh kiếm của tôi vẫn thừa độ sắc bén, dù ở dưới nước vung kiếm thấy nặng hơn trên cạn rất nhiều. Dẫu chẳng thể phát huy uy lực như trên bờ, nhưng chỉ cần truyền chút Khí Lực vào lưỡi kiếm là đã quá đủ để trảm đầu một con cá khổng lồ.
 
-Dẫu vậy, tôi thấy việc chống đỡ cùng lúc bốn hay năm con quái vật có phần khó khăn. Thật khó để tôi có thể bao quát mọi hướng khi cứ phải đứng chôn chân một chỗ. Các cử động của tôi dưới nước cũng chậm chạp đi đáng kể.
+Dẫu vậy, chống đỡ bốn năm con cùng lúc vẫn có phần chật vật. Đứng chôn chân một chỗ khiến tôi rất khó bao quát mọi hướng, đã thế cử động dưới nước lại còn chậm chạp hơn hẳn.
 
-Trái lại, lũ cá đã tiến hóa để di chuyển thần tốc trong làn nước. Đáng lẽ tôi nên suy nghĩ thấu đáo hơn về tình thế ngặt nghèo trước mắt.
+Trái lại, lũ cá này vốn tiến hóa để bơi lội thoăn thoắt trong nước. Đáng lẽ tôi phải lường trước tình cảnh ngặt nghèo này mới phải.
 
-Lũ cá chẳng thèm bận tâm đến những hối tiếc hay quyết định sai lầm của tôi. Tiếp cận tôi từ mọi góc độ, chúng thay vào đó ngoạm chặt hàm răng vào cơ thể tôi. Vung kiếm theo một đường vòng cung ngang rộng, tôi đã xử lý được ba con đang lao tới từ phía trước, chỉ để hai con khác tấn công tôi từ đằng sau, cắm phập răng vào da thịt tôi. Đáp lại, tôi vùng vẫy dữ dội, vung kiếm loạn xạ. Thế nhưng, hành động của tôi chẳng đem lại mấy hiệu quả.
+Lũ cá chẳng hơi đâu bận tâm đến nỗi ân hận hay tính toán sai lầm của tôi. Chúng quây lại từ mọi hướng, ngoạm răng vào khắp người tôi. Tôi chém một đường kiếm quét ngang, hạ gục được ba con lao tới từ phía trước, nhưng lại để hai con khác luồn ra sau lưng cắm ngập răng vào da thịt. Tôi vùng vẫy kịch liệt, vung kiếm loạn xạ để gạt chúng ra. Khổ nỗi, dưới làn nước cản trở, những cố gắng ấy chẳng mấy ăn thua.
 
-Tôi cảm nhận một cảm giác hiểm nguy ùa về; nếu không hành động mau lẹ, tôi sẽ đứng trước nguy cơ mất đi bàn chân. Tôi đang rơi vào tình cảnh tính mạng bị đe dọa, thế nên đáng ra tôi phải thấy nguy khốn. Chẳng phải kỹ năng đã ru ngủ tôi trong cảm giác an toàn giả tạo, mà chính là cơ thể Undead cứng cáp đến nực cười này của tôi. Tôi có lẽ sẽ không chết ngay cả khi đầu bị chém lìa khỏi cổ, và hệ quả là, tôi chẳng còn cảm nhận chính xác hay hợp lý về sự nguy hiểm như khi còn sống nữa.
+Cảm giác nguy hiểm lại ùa về; nếu không hành động nhanh, tôi có nguy cơ mất đứt bàn chân. Đang ở trong tình cảnh tính mạng bị đe dọa, đáng lẽ tôi phải thấy bất an tột độ mới phải. Không phải thực lực đã khiến tôi chủ quan, mà chính là cái cơ thể Undead bền bỉ đến nực cười này của tôi. Khéo đầu lìa khỏi cổ tôi cũng chẳng chết được, thành thử cảm nhận về sự nguy hiểm trong tôi không còn chuẩn xác và nhạy bén như thời còn sống.
 
-Thật chẳng ra làm sao. Tôi phải tìm cách chấn chỉnh chuyện này; ừ thì, sau khi thoát khỏi mớ rắc rối này đã. Thế nên, tôi quyết tâm chiến đấu một trận thực sự.
+Thế này thì không ổn chút nào. Tôi phải sửa cái thói này mới được; ừ thì, đợi thoát khỏi cái mớ bòng bong này đã. Nghĩ vậy, tôi quyết định nghiêm túc đánh một trận ra trò.
 
-Không còn duy trì luồng Khí Lực quanh người nữa, tôi thay vào đó truyền Thần Lực vào khắp cơ thể. Thần Lực mang lại hiệu quả cường hóa cơ thể cao hơn nhiều; dù Ma Khí Dung Hợp Thuật sẽ còn mạnh mẽ hơn trong tình huống này, tôi không dám sử dụng nó trong lúc đang chịu nhiều áp lực như vậy. Nếu thực sự phải dùng đến nó, đó sẽ là khi tính mạng tôi thực sự ngàn cân treo sợi tóc, chứ không phải trước nguy cơ bị mất một bàn chân.
+Tôi thu hồi luồng Khí Lực, chuyển sang truyền Thần Lực khắp cơ thể. Thần Lực giúp cường hóa thể chất hiệu quả hơn hẳn; dù trong tình thế này, dùng Ma Khí Dung Hợp Thuật sẽ còn mạnh hơn nữa, nhưng tôi không dám mạo hiểm kích hoạt khi đang chịu áp lực dồn dập thế này. Nếu phải dùng tới nó, đó phải là khi tính mạng thực sự lâm nguy, chứ không phải lúc chỉ đối mặt với nguy cơ mất một bàn chân.
 
-Khi luồng khí Thần Lực tuôn chảy khắp cơ thể, tôi cảm nhận các cử động của mình nhanh nhẹn hơn hẳn. Đúng như dự đoán, giờ đây tôi đã có thể di chuyển trong nước dễ dàng hơn.
+Luồng Thần Lực vừa luân chuyển khắp thân thể, các cử động của tôi liền thanh thoát hẳn lên. Đúng như dự đoán, tôi đã có thể cử động dưới nước dễ dàng hơn nhiều.
 
-Với sức mạnh vừa được tăng cường, tôi giật một bên chân ra khỏi con cá đang ngoạm lấy. Con cá còn lại vẫn kiên quyết bám chặt, nhất quyết không chịu buông tha.
+Nhờ sức mạnh vừa được tăng cường, tôi giật phắt một bên chân ra khỏi mõm con cá. Nhưng con còn lại vẫn bám riết lấy chân tôi, nhất quyết không chịu nhả.
 
-Thịt xương Undead này của tôi thật sự ngon lành đến thế sao? Tôi đoán thức ăn ở đầm lầy rất khan hiếm, và bản năng của loài cá này là không bao giờ buông tha con mồi một khi đã đớp trúng.
+Mớ da thịt xương xẩu của Undead này ngon lành đến thế cơ à? Chắc đầm lầy khan hiếm thức ăn, vả lại bản năng loài cá này là hễ đớp trúng mồi thì sống chết cũng không buông.
 
-Điều đó thực sự không thể chấp nhận nổi đối với tôi. Tôi còn những hoài bão lớn lao hơn trong cuộc đời thay vì mục rữa dưới đáy đầm lầy này.
+Tôi tuyệt đối không đời nào chấp nhận chuyện đó. Đời tôi còn bao dự định lớn lao, chứ đâu thể mục rữa dưới đáy cái đầm lầy này.
 
-Với một bên chân đã được tự do, tôi có thể đổi hướng người. Vặn mình, tôi giơ cao thanh kiếm, định bụng kết liễu mối họa lũ cá này một lần và mãi mãi.
+Rút được một chân ra rồi, tôi xoay chuyển tư thế dễ dàng hơn. Vặn mình giơ cao thanh kiếm, tôi quyết tâm thanh toán dứt điểm cái mối phiền toái tanh tưởi này.
 
-Đường kiếm đã định sẵn: giờ tôi sẽ trảm sát con cá đang ngoạm chân mình này.
+Đường kiếm đã ngắm chuẩn: giờ tôi sẽ chém chết con cá đang ngoạm chân mình.
 
-Thế nhưng, ngay khi ý nghĩ đó vừa lóe lên trong đầu, con cá dường như đã hiểu ra vấn đề. Nó quẫy đuôi bơi vút lên trên, kéo theo cả tôi theo nó, trước khi phi thân lên khỏi mặt nước và hất văng tôi lên đất khô.
+Thế nhưng, ngay khi ý nghĩ đó vừa xẹt qua đầu, dường như con cá cũng đánh hơi thấy điều chẳng lành. Nó quẫy đuôi bơi vút lên trên, kéo tuột tôi theo cùng, rồi bất thần phóng vọt lên khỏi mặt nước, hất văng tôi lên bờ đất khô.
 
 "Hự...!!!"
 
-Và thế là, chuyến vượt đầm lầy của tôi đã hoàn thành, dẫu kết thúc bằng việc tôi đập sầm xuống mặt đất kèm theo một âm thanh thảm hại.
+Và thế là tôi đã qua được bên kia đầm lầy, dẫu cái kết là cả người đập sầm xuống đất với một tiếng bịch đầy thảm hại.
 
-Tôi ướt như chuột lột, nước độc nhỏ tong tòng xuống nền đất. Đáng ngạc nhiên thay, chiếc áo choàng của tôi lại khô ráo một cách khó tin. Tôi đoán đây là minh chứng cho chất lượng tuyệt hảo của nó. Có lẽ nó chưa từng bị ướt ngay từ đầu... Chiếc áo choàng này cũng bí ẩn hệt như người phụ nữ đã trao nó cho tôi vậy.
+Người tôi ướt như chuột lột, nước độc chảy tong tỏng xuống đất. Lạ lùng thay, chiếc áo chùng của tôi lại khô ráo một cách khó tin. Đồ tốt có khác, tôi thầm nghĩ. Hay là nó vốn chẳng hề thấm nước ngay từ đầu nhỉ... Chiếc áo chùng này cũng bí ẩn hệt như người phụ nữ đã trao nó cho tôi.
 
-Đảo mắt nhìn quanh quất tứ phía, ánh mắt tôi chạm phải một hình bóng quen thuộc: Edel, chính là con quyến thuộc đã bỏ mặc tôi chìm xuống nấm mồ dưới nước.
+Ngó nghiêng quanh quất, tôi liền bắt gặp một bóng dáng quen thuộc: Edel, chính là con quyến thuộc đã bỏ mặc chủ nhân của nó chết chìm dưới đáy nước.
 
-"...Mày. Đang... Làm cái trò gì thế hả?"
+"...Mày. Đang... làm cái trò gì thế hả?"
 
-Mặt của Edel... nói đúng hơn là mõm của nó, trông phồng to một cách kỳ lạ. Tóm lấy nó một cách thô bạo, tôi dùng đôi tay đeo găng cạy miệng nó ra, chỉ để thấy đủ loại hạt được nhét đầy trong hai bên má.
+Mặt của Edel... đúng hơn là cái mõm của nó, trông phồng to một cách kỳ quặc. Tôi túm lấy nó chẳng chút nương tay, đôi tay đeo găng vạch miệng nó ra, thì thấy bên trong hai má nhét đầy đủ loại quả hạch.
 
-Quyến thuộc của tôi bỏ mặc chủ nhân của nó chết chìm, để thay vào đó đi thu nhặt thức ăn từ xung quanh.
+Con quyến thuộc của tôi bỏ mặc chủ nhân của nó chết chìm, chỉ để lăng xăng đi lượm lặt thức ăn quanh đó.
 
-Có vẻ như Edel ít phụ thuộc vào máu để duy trì sự sống hơn so với tôi.
+Xem chừng so với tôi, Edel ít phải dựa vào máu để duy trì sự sống hơn.
 
-Thế nhưng còn có một điều khác khiến tôi bận lòng—cụ thể là việc Edel thiếu đi niềm tin... và lòng trung thành.
+Thế nhưng còn một chuyện khác khiến tôi lấn cấn—đó là Edel dường như chẳng có tí niềm tin... hay lòng trung thành nào.
 
-Phải chăng quyến thuộc của Ma Cà Rồng đều như thế này cả sao?
+Quyến thuộc của Ma Cà Rồng con nào cũng thế này hết à?
 
-Nhưng dĩ nhiên, chẳng có ai trả lời được câu hỏi của tôi. Biết hỏi ai bây giờ cơ chứ...?
+Nhưng dĩ nhiên, chẳng ai trả lời câu hỏi ấy cho tôi cả. Mà biết hỏi ai bây giờ cơ chứ...?
