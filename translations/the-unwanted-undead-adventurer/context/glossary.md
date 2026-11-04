@@ -259,7 +259,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Saint Alto’s Day | Saint Alto's Day; Saint Alto's; Saint Alto’s | Ngày Thánh Alto | khác | 134 | Ngày lễ tình nhân tặng kẹo mật ong cho người mình thích (thường tổ chức khắp thế giới) |
 | Nameless Festival |  | Lễ Hội Vô Danh | khác | 134 | Lễ hội truyền thống cổ xưa của Làng Hathara dành cho các cặp đôi bên bờ hồ |
 | Grand Fum Wyvern | grand fum wyvern; Grand Fum Wyverns; grand fum wyverns | Phi Long Grand Fum | quái vật | 135 | Loài Phi Long khổng lồ dài 10m sống gần đỉnh núi (グランドファムワイバーン) |
-| Zeva Wyvern | zeva wyverns; Zeva Wyverns; zeva wyvern | Phi Long Zeva | quái vật | 135 | Phân loài Phi Long bay yếu nhất trong các loài Á Long (ゼヴァワイバーン) |
+| Zeva Wyvern | zeva wyverns; Zeva Wyverns; zeva wyvern; ceva wyverns; ceva wyvern; Ceva Wyverns; Ceva Wyvern | Phi Long Zeva | quái vật | 135 | Phân loài Phi Long bay yếu nhất trong các loài Á Long (ゼヴァワイバーン) |
 | Projection magic | projection magic; projection spell; projection spells; Illusion magic; illusion magic | ma pháp ảo ảnh | kỹ năng | 135 | Ma pháp tạo hình chiếu hoặc ảo ảnh ba chiều (投影魔術) |
 | Gate of the Dead |  | Cổng Cõi Chết | khác | 139 | Cánh cổng nơi các linh hồn người chết đi qua sang thế giới bên kia (死者の門) |
 | necromancer | necromancers | pháp sư Tử Linh | chức nghiệp | 139 | Người sử dụng Tử Linh Thuật triệu hồi hoặc thao túng linh hồn người chết (死霊術士) |
@@ -428,7 +428,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Deneb |  | Deneb | địa danh | 230 | Tên thành phố từng xảy ra thảm họa đàn Goblin quy mô lớn tràn vào (デネブ) |
 | Aqua Hathur | aqua hathur; Aqua Hathurs; aqua hathurs | Aqua Hathur | quái vật | 231 | Quái vật dạng mèo nước hoặc tinh linh nước sinh sống ở vùng hồ Petorama (水猫) |
 | Luteum Golem | luteum golems; luteum golem; Luteum Golems | Golem Luteum | quái vật | 231 | Phân loại Golem bùn/đất sét sinh sống ở vùng hồ (泥魔導人形) |
-| wyvern flax | Wyvern flax | lanh Phi Long | vật phẩm | 231 | Loại cây hoặc sợi lanh liên quan đến Phi Long mọc ở vùng hồ (ワイバーン麻) |
+| wyvern flax | Wyvern flax; wyvern elata; Wyvern elata; Wyvern Elata | lanh Phi Long | vật phẩm | 231 | Loại cây hoặc sợi lanh liên quan đến Phi Long mọc ở vùng hồ (ワイバーン麻) |
 | fire dragon | Fire dragon; fire dragons; Fire dragons | Rồng Lửa | quái vật | 231 | Phân loại rồng thuộc tính hỏa |
 | Hobgoblin | hobgoblin; Hobgoblins; hobgoblins | Hobgoblin | quái vật | 232 | Phân loài Goblin to lớn hơn, thân hình gần với tỷ lệ con người (ホブゴブリン) |
 | Looza | village of Looza | Looza | địa danh | 234 | Ngôi làng nằm trên lộ trình nhóm Rentt đang di chuyển (ルーザ村) |
+| Lake Petorama |  | Hồ Petorama | địa danh | 235 | Vùng hồ đích đến trong chuyến đi của nhóm Rentt (ペトラマ湖) |
+| Mime Wyvern | mime wyverns; Mime Wyverns; mime wyvern | Phi Long Mime | quái vật | 235 | Phân loài Phi Long màu xanh lam nhạt sinh sống ở vùng Hồ Petorama (マイムワイバーン) |

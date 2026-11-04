@@ -1384,6 +1384,13 @@ Yattul (Goblin) báo cáo thất bại với hai đồng bọn: một nữ đi�
 Rentt trở về xe kéo báo tin; sau màn đùa cợt của Augurey về việc đặt tên chiến dịch, cả nhóm phân tích các mật danh và xâu chuỗi việc Goblin từng dùng bầy Hobgoblin tấn công (nghi do năng lực người thuần hóa quái vật).
 Nhóm phán đoán Siren có thể chuyên về mị hoặc/thao túng đàn ông và sẽ giăng bẫy tại Làng Looza trên đường đi; Rentt và Augurey nhắc nhau cảnh giác với phụ nữ thân thiện trong làng khiến Lorraine cảm thấy mình bị ra rìa.
 
+## 235
+Xe kéo của Yattul thuận lợi đưa nhóm Rentt đến Làng Looza mà không gặp thêm trở ngại nào; cả nhóm tiếp tục cảnh giác trước các cạm bẫy tiềm tàng từ kẻ địch.
+Cả ba ghé vào quán rượu duy nhất của ngôi làng hẻo lánh và được chủ quán giới thiệu gặp Ferrici—một thiếu nữ nhút nhát am hiểu về vùng Hồ Petorama (nơi cần thu thập Aqua Hathur, Golem Luteum và lanh Phi Long).
+Ferrici hốt hoảng can ngăn vì hồ đang trong mùa giao phối của loài Phi Long Mime (phân loài hung dữ màu xanh lam nhạt thuộc Phi Long Zeva); khi Lorraine gặng hỏi về bí quyết người làng từng tiếp cận hồ thu hoạch lanh Phi Long và đề nghị thuê dẫn đường, Ferrici hoảng sợ bỏ chạy.
+Không thể khai thác thêm thông tin từ dân làng, nhóm Rentt quyết định sẽ dùng vũ lực xông thẳng vào lãnh địa Phi Long vào ngày hôm sau dựa vào sức mạnh ma pháp của Lorraine, rồi thanh toán tiền và rời quán rượu trở về quán trọ nghỉ ngơi.
+
+
 
 
 

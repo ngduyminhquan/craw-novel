@@ -124,6 +124,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Nadia Regina Yaaran | Nadia | Nadia Regina Yaaran | Đệ Nhất Công Chúa của Vương Quốc Yaaran | #229 |
 | Yattul |  | Yattul | Người đánh xe chở nhóm Rentt; thực chất là điệp viên mang mật danh Goblin (#232, #233) | #232 |
 | Siren |  | Siren | Nữ điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin) | #234 |
+| Ferrici |  | Ferrici | Thiếu nữ tại quán rượu Làng Looza, người hiểu rõ về vùng Hồ Petorama | #235 |
 
 ## Chi tiết
 
@@ -786,6 +787,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin), mới vào nghề vài năm (#234).
 - Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; theo suy đoán của Augurey và nhóm Rentt có thể chuyên về mị hoặc/thao túng đàn ông (#234).
 - Xuất hiện từ: #234.
+
+### Ferrici
+- Giới tính, vai trò: Nữ, thiếu nữ tại Làng Looza (#235).
+- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235).
+- Xuất hiện từ: #235.
+
 
 
 

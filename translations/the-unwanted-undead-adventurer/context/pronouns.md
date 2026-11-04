@@ -93,6 +93,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elza | Elza / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 222 | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas thuộc Giáo Hội Đông Thiên |
 | Yattul | Yattul / người đàn ông / người đánh xe / Goblin | 232 | Người đánh xe chở nhóm Rentt (thực chất là điệp viên Goblin, #233) |
 | Siren | Siren / ả / người phụ nữ / cô ta | 234 | Nữ điệp viên đồng mưu với Yattul (Goblin) |
+| Ferrici | Ferrici / cô gái / thiếu nữ | 235 | Thiếu nữ tại quán rượu Làng Looza |
 
 ## Giữa các nhân vật
 
@@ -435,4 +436,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yattul | Lorraine Vivie | tôi | cô / quý cô | 234 | Người đánh xe từ chối khéo để học giả đi theo |
 | Yattul | Siren | tôi | cô / Siren | 234 | Điệp viên trao đổi nhiệm vụ với đồng nghiệp |
 | Siren | Yattul | tôi | anh / Goblin | 234 | Nữ điệp viên tự tin trao đổi với Goblin |
+| Lorraine Vivie | Ferrici | tôi | em / Ferrici | 235 | Nữ học giả hỏi thăm thiếu nữ trong làng |
+| Ferrici | Lorraine Vivie | tôi | các vị / chị | 235 | Thiếu nữ rụt rè trả lời mạo hiểm giả |
+| Ferrici | * | tôi | các vị | 235 | Thiếu nữ rụt rè nói chuyện với nhóm mạo hiểm giả |
 

@@ -239,7 +239,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | reviewed |  |
 | 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | reviewed |  |
 | 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | reviewed |  |
-| 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | todo |  |
+| 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | done |  |
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | todo |  |
 | 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | todo |  |
 | 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -875,3 +874,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#233] Dịch mật danh điệp viên 'the Goblin' của Yattul — tạm chọn 'Goblin' / 'mật danh "Goblin"' đồng bộ với quái vật Goblin trong glossary.md (phương án khác: 'Yêu Tinh', 'Gã Goblin'). Tạm dùng trong bản dịch: 'Goblin'. → Giữ 'Goblin' đồng bộ với tên chủng loài Goblin trong glossary.md (mật danh bắt nguồn từ khả năng sai khiến goblin từ nhỏ). (orchestrator)
 - [#234] Dịch mật danh nữ điệp viên 'Siren' và quái vật 'siren' (đoạn 32, 65) — tạm chọn giữ nguyên 'Siren' / 'quái vật Siren' theo tiền lệ quái vật thần thoại/tên riêng phương Tây trong glossary.md (phương án khác: 'Nhân Ngư', 'Yêu Nữ Siren'). Tạm dùng trong bản dịch: 'Siren'. → Giữ 'Siren' cho cả mật danh điệp viên và loài quái vật biển Siren (nhất quán với cách giữ Goblin, Hobgoblin trong glossary.md). (orchestrator)
 - [#234] Dịch địa danh 'village of Looza' (đoạn 75) — tạm chọn 'Làng Looza' / 'Looza' theo tiền lệ địa danh trong glossary.md (phương án khác: 'Làng Ruza'). Tạm dùng trong bản dịch: 'Làng Looza'. → Giữ 'Looza' / 'Làng Looza' theo quy tắc giữ nguyên tên địa danh phương Tây trong rules.md. (orchestrator)
+- [#235] Dịch tiêu đề arc/chương 'Vol 10 Chapter 4 - The Arrival (1)' — tạm chọn 'Tập 10 Chương 4 - Đến Nơi (1)' (phương án khác: 'Tập 10 Chương 4 - Điểm Đến (1)', 'Tập 10 Chương 4 - Tới Nơi (1)'). Tạm dùng trong bản dịch: 'Tập 10 Chương 4 - Đến Nơi (1)'. → Giữ 'Tập 10 Chương 4 - Đến Nơi (1)'. (orchestrator)
+- [#235] Dịch tên quái vật mới 'mime wyvern' (light-blue mime wyverns) — tạm chọn 'Phi Long Mime' đồng bộ cấu trúc với 'Phi Long Zeva' và 'Phi Long Grand Fum' trong glossary.md (phương án khác: 'Phi Long Bắt Chước', 'Phi Long Mẫu'). Tạm dùng trong bản dịch: 'Phi Long Mime'. → Giữ 'Phi Long Mime' đồng bộ với 'Phi Long Zeva' và 'Phi Long Grand Fum' trong glossary.md. (orchestrator)
+- [#235] Dịch vật phẩm 'wyvern elata' (biến thể cách gọi của 'wyvern flax' ở #231) — tạm chọn 'lanh Phi Long' đồng bộ với #231 và thêm Alias vào mục 'wyvern flax' trong glossary.md (phương án khác: 'cây lanh Phi Long', 'cỏ lanh Phi Long'). Tạm dùng trong bản dịch: 'lanh Phi Long'. → Giữ 'lanh Phi Long' đồng bộ với 'wyvern flax' ở chương 231 và thêm vào cột Alias của glossary.md. (orchestrator)
