@@ -46,11 +46,11 @@ Tôi kể lại cho Lorraine nghe suy nghĩ của mình lúc đó, cụ thể l�
 
 Một vật phẩm có tri giác...
 
-Vật phẩm có tri giác quả thực cực kỳ hiếm gặp. Người ta thường nhắc tới khái niệm này khi nói về ma kiếm hay những món đồ tương tự. Chúng thường có ý chí riêng và tương truyền có thể tự chọn chủ nhân. Chúng hay được tìm thấy tận sâu dưới đáy mê cung, và kỹ nghệ hiện thời của con người tuyệt nhiên không tài nào chế tác nổi. Có thể nói chúng vừa quý hiếm, vừa lừng danh (hoặc khét tiếng) khôn cùng.
+Vật phẩm có tri giác quả thực rất hiếm gặp. Người ta thường nhắc tới khái niệm này khi nói về ma kiếm hay những món đồ tương tự. Chúng thường có ý chí riêng và tương truyền có thể tự chọn chủ nhân. Chúng hay được tìm thấy tận sâu dưới đáy mê cung, và kỹ nghệ hiện thời của con người không tài nào chế tạo lại được. Có thể nói chúng vừa quý hiếm, vừa lừng danh (hoặc tai tiếng) cùng một lúc.
 
-Tôi nêu ý nghĩ đó với Lorraine, rằng có lẽ chiếc mặt nạ của tôi cũng là một tạo tác như thế. Dẫu vậy, sự thật là chiếc mặt nạ này được Rina mua lại chỉ với vài đồng xu đồng. Dù có nói thế nào đi nữa, cái giá ấy vẫn là quá rẻ mạt cho một vật phẩm có tri giác.
+Tôi nêu ý nghĩ đó với Lorraine, rằng có lẽ chiếc mặt nạ của tôi cũng là một tạo tác như thế. Dẫu vậy, sự thật là chiếc mặt nạ này được Rina mua lại chỉ với vài đồng xu đồng. Dù có nói thế nào đi nữa, cái giá ấy vẫn là quá rẻ cho một vật phẩm có tri giác.
 
-Lorraine ngẫm nghĩ một lúc rồi đáp: "Anh cũng phải tính đến chuyện nó bị nguyền rủa nữa chứ. Chủ nhân lúc đó có khi chỉ rao giá bèo bọt thế để tống khứ nó đi cho rảnh nợ. Chúng ta cũng cần tính đến khả năng chiếc mặt nạ có thể thao túng suy nghĩ của người đeo ở một chừng mực nào đó..."
+Lorraine ngẫm nghĩ một lúc rồi đáp: "Anh cũng phải tính đến chuyện nó bị nguyền rủa nữa chứ. Chủ nhân lúc đó có khi chỉ rao giá rẻ bèo thế để tống khứ nó đi cho rảnh nợ. Chúng ta cũng cần tính đến khả năng chiếc mặt nạ có thể thao túng suy nghĩ của người đeo ở một chừng mực nào đó..."
 
 Nghe cô nói mà lòng tôi càng thêm bất an.
 
@@ -98,7 +98,7 @@ Nhưng đó chưa phải là điều duy nhất đổi khác.
 
 Thế nhưng, điều khiến tôi băn khoăn hơn cả là rốt cuộc cái gì đã đem lại sự đổi khác này.
 
-"Tôi đã... làm được rồi sao? Tiến Hóa... bản thể ư?"
+"Tôi đã... làm được rồi sao? Tiến Hóa... Bản Thể ư?"
 
 Trong lúc tôi vẫn mải săm soi bản thân, Lorraine gật đầu trước câu hỏi của tôi: "Xem chừng là vậy đấy. Có phải nhờ anh đánh bại quái vật trong mê cung không?"
 
@@ -108,13 +108,13 @@ Tôi từng nói với Lorraine chuyện mình đến Mê Cung Nguyệt Ảnh, h
 
 "...Còn lần này mãi khi về đến nhà anh mới tiến hóa. Xét xem có gì khác biệt nào... Lẽ nào anh tiến hóa sau khi hạ gục tôi, hay... kiểu kiểu như thế?"
 
-"Cô khéo đùa. Tôi có hạ được cô đâu chứ."
+"Cô đùa đấy à. Tôi có đánh bại được ai đâu."
 
-Dù đúng là tôi có lao vào tấn công Lorraine, nhưng cô đã hất văng tôi dính tường bằng một quả hỏa cầu chuẩn xác; rõ ràng đó là một thất bại tâm phục khẩu phục.
+Dù đúng là tôi có lao vào tấn công Lorraine, nhưng cô đã hất văng tôi đập vào tường bằng một quả hỏa cầu chuẩn xác; rõ ràng đó là một thất bại không thể chối cãi.
 
-"Cũng phải. Chuẩn ra thì người đánh bại anh là tôi mới đúng... Nhưng quan trọng hơn—à, phải rồi... Anh đã cắn thịt uống máu tôi. Có khi đó mới là nguyên nhân chăng?"
+"Cũng phải. Nói đúng hơn thì người đánh bại anh là tôi... Nhưng quan trọng hơn—à, phải rồi... Anh đã ăn thịt và uống máu tôi. Có khi đó mới là nguyên nhân chăng?"
 
-Lời Lorraine nói khiến tôi sững cả người, ít nhất cũng phải nói là như vậy. Tôi trợn tròn mắt nhìn cô, nhưng Lorraine chỉ thản nhiên giải thích tiếp.
+Lời Lorraine nói khiến tôi sững cả người, nói một cách nhẹ nhàng nhất thì là vậy. Tôi trợn tròn mắt nhìn cô, nhưng Lorraine chỉ thản nhiên giải thích tiếp.
 
 "Nghĩ mà xem, chuyện đó chẳng hoang đường đến thế đâu. Nếu phải nói thì... nhìn bộ dạng lúc này của anh, tôi thấy giống Thi Quỷ của Ma Cà Rồng hơn là một Ngạ Quỷ đơn thuần đấy. Chí ít thì anh cũng là một dạng quái vật chịu sự sai khiến của Ma Cà Rồng... Thành ra trên thang bậc quái vật, anh sẽ xếp dưới Hạ Cấp Ma Cà Rồng một bậc."
 
@@ -122,9 +122,9 @@ Lời Lorraine nói khiến tôi sững cả người, ít nhất cũng phải n
 
 "Thi Quỷ sao..."
 
-Dù Thi Quỷ là loài quái vật khá mạnh, cả đời tôi chưa từng thấy con nào. Theo lời Lorraine, Thi Quỷ là dạng tay chân do Ma Cà Rồng tạo ra, thành thử không có kẻ bề trên tạo tác thì chúng chẳng thể tự nhiên xuất hiện. Được biết Thi Quỷ dường như không bao giờ tự hồi sinh trong mê cung. Trái lại, lũ Hạ Cấp Ma Cà Rồng sinh ra chúng thì sau khi bị tiêu diệt một thời gian sẽ lại tái sinh. Chính vì lẽ đó, có thể nói Thi Quỷ là một chủng quái vật tương đối hiếm hoi.
+Dù Thi Quỷ của Ma Cà Rồng là loài quái vật khá mạnh, cả đời tôi chưa từng thấy con nào. Theo lời Lorraine, Thi Quỷ là một dạng thuộc hạ do Ma Cà Rồng tạo ra, thành thử không có Ma Cà Rồng tạo tác thì chúng chẳng thể tự nhiên xuất hiện. Được biết Thi Quỷ dường như không tái sinh trong mê cung. Trái lại, những con Hạ Cấp Ma Cà Rồng tạo ra chúng thì sau khi bị tiêu diệt một thời gian sẽ lại tái sinh. Chính vì lẽ đó, có thể nói Thi Quỷ là một loại quái vật tương đối hiếm gặp.
 
-Dù vậy, chúng cũng chưa đến mức thành sinh vật trong truyền thuyết, bởi đã có không ít ghi nhận bắt gặp chúng ở những vùng đất Ma Cà Rồng cư ngụ. Có điều, Thi Quỷ trong những trường hợp ấy vốn dĩ đều là con người, bị biến đổi sau khi bị Ma Cà Rồng cắn. Theo hiểu biết của tôi, chẳng ai có thể bỗng dưng thành Thi Quỷ nếu không có sự can thiệp trực tiếp từ một Ma Cà Rồng mẹ.
+Dù vậy, chúng cũng chưa đến mức là sinh vật huyền thoại, bởi đã có không ít ghi nhận bắt gặp chúng ở những vùng Ma Cà Rồng sinh sống. Có điều, Thi Quỷ trong những trường hợp ấy trước kia đều là con người, bị biến đổi sau khi bị Ma Cà Rồng cắn. Theo hiểu biết của tôi, người ta không thể bỗng dưng biến thành Thi Quỷ nếu không có tác động trực tiếp từ một Ma Cà Rồng gốc.
 
 "Phải đấy... Quả là có nét tương đồng. Trước đây tôi từng nhận ủy thác đi săn Thi Quỷ rồi mà. Trông anh khá giống với những con tôi từng thấy hồi đó—chà, người anh nom có vẻ nhiều lỗ thủng hơn một con Thi Quỷ thông thường đôi chút... nhưng tôi sẵn sàng coi đó là sự khác biệt giữa các cá thể."
 
@@ -150,7 +150,7 @@ Lorraine buột miệng ngỏ ý hết sức bâng quơ, và dĩ nhiên tôi ch�
 
 Tôi liền giục cô nói ngay không chút chần chừ.
 
-"Được rồi, vậy tôi nói nhé. Mà kể cả anh có từ chối thì đằng nào tôi cũng cứ thao thao bất tuyệt thôi," Lorraine vừa nói vừa khẽ mỉm cười.
+"Được rồi, vậy tôi kể nhé. Mà kể cả anh có từ chối thì đằng nào tôi cũng cứ nói tiếp thôi," Lorraine vừa nói vừa khẽ mỉm cười.
 
 "Nào... bắt đầu từ đâu đây nhỉ? Có lẽ sẽ dễ hiểu hơn nếu tôi điểm lại toàn bộ mọi chuyện từ lúc anh mới tiến hóa. Dù tôi không có mặt để tận mắt chứng kiến... nhưng Rentt này, thoạt đầu anh biến thành Khô Lâu đúng không?"
 
@@ -186,17 +186,17 @@ Tôi đem suy nghĩ ấy nói lại với Lorraine, cô lập tức gật đầu
 
 "Ý cô... là sao?"
 
-"...Ý tôi là, thực chất chúng ta biết rất ít—thậm chí nói thẳng ra là chẳng biết gì—về chủ đề này cả."
+"...Ý tôi là, thực chất chúng ta biết rất ít—nói đúng hơn là chẳng biết gì—về chủ đề này cả."
 
-Tôi thấy Lorraine nhận định có phần hơi phũ, nhưng cô chỉ thản nhiên nói tiếp.
+Tôi thấy nhận định của Lorraine có phần hơi khắt khe, nhưng cô chỉ thản nhiên nói tiếp.
 
-"...Nhưng nhìn việc anh thực sự tiến hóa thành Ngạ Quỷ từ một bộ xương khô khốc, tôi cho rằng điều này đã chứng minh giả thuyết của mình là đúng."
+"...Nhưng nhìn việc anh thực sự tiến hóa thành Ngạ Quỷ từ trạng thái xương xẩu trước đó, tôi cho rằng điều này đã chứng minh giả thuyết của mình là đúng."
 
 "Thế... tức là... sao?"
 
-"Nói đơn giản thế này: tôi cho rằng Tiến Hóa Bản Thể sẽ thúc đẩy quái vật biến chuyển theo đúng hình mẫu mà bản thân nó khao khát trở thành."
+"Nói đơn giản thế này: tôi cho rằng Tiến Hóa Bản Thể sẽ thúc đẩy quái vật biến đổi theo hướng hình mẫu mà bản thân nó muốn trở thành."
 
-Có lẽ lời Lorraine nói không sai. Vốn dĩ ngay khi nhận ra mình thức tỉnh dưới hình hài Khô Lâu, tôi đã đăm đăm hướng tới mục tiêu tiến hóa thành Ngạ Quỷ. Đến lúc thành Ngạ Quỷ rồi cũng vậy: tôi luôn mong tiến hóa lên Ma Cà Rồng để có được nhân hình. Có khi giả thuyết của Lorraine là đúng thật.
+Có lẽ lời Lorraine nói không sai. Vốn dĩ ngay khoảnh khắc nhận ra mình thức tỉnh dưới hình hài Khô Lâu, tôi đã một mực hướng tới mục tiêu tiến hóa thành Ngạ Quỷ. Đến lúc thành Ngạ Quỷ rồi cũng vậy: tôi luôn mong tiến hóa thành Ma Cà Rồng để có được hình hài giống con người hơn. Có khi giả thuyết của Lorraine là đúng thật.
 
 Dẫu vậy, tôi vẫn còn đôi chỗ thắc mắc.
 
@@ -206,18 +206,18 @@ Dù sao đó cũng là mục tiêu ban đầu của tôi. Nếu lời Lorraine t
 
 "Anh cứ nghĩ nó giống như phân cấp mạo hiểm giả ở Hội ấy. Dù có tài giỏi đến đâu, mạo hiểm giả cũng đâu thể đùng một cái nhảy vọt từ đáy lên thẳng Kim Cấp được, đúng chứ? Chưa kể nếu bản thân chưa đủ thực lực, anh còn chẳng thể thăng cấp nổi cơ."
 
-Tôi lờ mờ hiểu ý Lorraine. "...Nghĩa là tôi phải tiến hóa... từng bước... một ư?"
+Tôi hiểu được đại ý trong lời của Lorraine. "...Nghĩa là tôi phải tiến hóa... từng bước... một ư?"
 
-"Nhìn vào bộ dạng lúc này của anh thì đó là kết luận hợp lý nhất rồi. Dĩ nhiên, đây vẫn chỉ là giả thuyết vì số lượng mẫu quá ít. Nhưng nếu cần dẫn chứng tài liệu chứng minh... thì nghiên cứu gần đây của tôi về xu hướng tiến hóa của loài Puchi Suri là đủ làm ví dụ rồi đấy."
+"Nhìn vào bộ dạng lúc này của anh thì đó là kết luận hợp lý nhất rồi. Nhắc lại thì đây vẫn chỉ là giả thuyết vì số lượng mẫu còn quá ít. Nhưng nếu cần dẫn chứng tài liệu bổ trợ... thì nghiên cứu gần đây của tôi về xu hướng tiến hóa của loài Puchi Suri là đủ rồi đấy."
 
-Puchi Suri là loài quái vật nhỏ tựa chuột nhắt, nhan nhản khắp nơi và cũng cực kỳ dễ tóm. Các phân loài mang thuộc tính nguyên tố và biến thể tiến hóa của chúng cũng rất dễ bắt gặp, thường tương ứng với địa bàn sinh sống của từng bầy. Xem chừng Lorraine từng làm một vài nghiên cứu trong mảng này.
+Puchi Suri là loài quái vật nhỏ tựa chuột nhắt, hầu như ở đâu cũng thấy và cũng rất dễ bắt. Các phân loài mang thuộc tính nguyên tố và biến thể tiến hóa của chúng cũng rất dễ bắt gặp, thường tương ứng với nơi chúng sinh sống. Xem chừng Lorraine từng làm vài nghiên cứu trong lĩnh vực này.
 
-Lorraine giải thích tiếp: "Thí nghiệm đơn giản lắm—chỉ việc bắt một đàn Puchi Suri rồi chia vào từng chiếc lồng đặt ở các môi trường khác nhau: vùng núi lửa, ven bờ nước, giữa rừng rậm, trong hang động, vân vân. Kết quả thu được thú vị vô cùng, ít nhất cũng phải nói là như vậy."
+Lorraine giải thích tiếp: "Thí nghiệm đơn giản lắm—bắt một số con Puchi Suri rồi nhốt vài con vào mỗi chiếc lồng đặt ở nhiều địa điểm khác nhau: vùng núi lửa, gần nguồn nước, trong rừng, trong hang động, vân vân. Kết quả thu được thú vị vô cùng, nói một cách nhẹ nhàng nhất thì là vậy."
 
-Theo lời Lorraine, từng bầy Puchi Suri đều nhiễm thuộc tính từ môi trường xung quanh: con đặt ở miệng núi lửa thì biến thành phân loài hệ hỏa, các mẫu vật ở những nơi khác cũng chuyển hóa tương tự. Chưa hết, khi thí nghiệm kết thúc, mỗi chiếc lồng chỉ còn trơ trọi đúng một con Puchi Suri sống sót. Nguyên do của chuyện này tôi quá rành—nếu đoán không lầm, ắt hẳn lũ chuột nhắt đã cắn xé lẫn nhau, và kẻ chiến thắng sau cùng đã hấp thụ toàn bộ sức mạnh của đồng loại.
+Theo lời Lorraine, mỗi nhóm Puchi Suri đều mang lấy thuộc tính nguyên tố của môi trường xung quanh: con đặt ở vùng núi lửa thì biến thành phân loài hệ hỏa, các mẫu vật ở những nơi khác cũng biến đổi tương tự. Chưa hết, khi thí nghiệm kết thúc, mỗi chiếc lồng chỉ còn lại đúng một con Puchi Suri. Nguyên do của chuyện này dĩ nhiên tôi đã rõ—nếu phải đoán, hẳn là lũ Puchi Suri đã cắn xé lẫn nhau, và kẻ chiến thắng cuối cùng đã hấp thụ toàn bộ sức mạnh của đồng loại.
 
-Và kết quả của quá trình đó chính là Tiến Hóa Bản Thể.
+Kết quả của việc đó chính là Tiến Hóa Bản Thể.
 
-"Tất nhiên, chỉ bấy nhiêu thì chưa đủ chứng minh nhận định của tôi. Người ta hoàn toàn có thể lập luận rằng Puchi Suri chỉ đơn thuần phản ứng trước biến đổi môi trường—nhưng sẽ ra sao nếu đây không phải tiến hóa bị động, mà là có chủ đích? Sẽ ra sao nếu chính con quái vật khao khát vươn tới một hình thái nhất định? Có lẽ tôi hơi vội kết luận... nhưng quan sát trường hợp của anh rồi thì tôi không thể gạt bỏ giả thuyết này. Dù sao thì bảo anh tiến hóa thành Ngạ Quỷ do chịu kích thích từ môi trường Mê Cung Nguyệt Ảnh nghe gượng gạo vô cùng. Đâu thiếu gì hình hài khác mà anh có thể hóa thành cơ chứ.
+"Tất nhiên, chỉ bấy nhiêu thì chưa đủ chứng minh nhận định của tôi. Người ta hoàn toàn có thể lập luận rằng Puchi Suri chỉ đơn thuần phản ứng trước biến đổi môi trường—nhưng sẽ ra sao nếu đây không phải tiến hóa bị động, mà là có chủ đích? Sẽ ra sao nếu chính con quái vật muốn tiến hóa thành một hình thái nhất định? Có lẽ tôi hơi vội kết luận... nhưng sau khi quan sát một trường hợp như của anh thì tôi không thể loại trừ khả năng này. Dù sao thì bảo anh tiến hóa thành Ngạ Quỷ do phản ứng với kích thích môi trường trong Mê Cung Nguyệt Ảnh nghe cũng hơi gượng gạo. Đâu thiếu gì hình thái khác mà anh có thể hóa thành cơ chứ.
 
-"Với anh... cách giải thích thứ hai thuyết phục hơn nhiều: anh mang hình hài này là bởi tự tâm anh muốn thế. Chính miệng anh bảo với tôi rằng mình đã chủ động mong muốn hóa thành Ngạ Quỷ cơ mà. Thành thử giả thuyết này có sức nặng nhất định đấy, dù tôi chưa dám xem nó là một học thuyết vững chắc ngay lúc này."
+"Trong trường hợp của anh... cách giải thích thứ hai thuyết phục hơn: anh mang hình hài này là vì anh muốn thế. Chính anh bảo với tôi rằng mình đã chủ động mong muốn tiến hóa thành Ngạ Quỷ mà. Thế nên giả thuyết này cũng có cơ sở nhất định đấy, dù tôi chưa gọi nó là một lý thuyết vững chắc ngay được."
