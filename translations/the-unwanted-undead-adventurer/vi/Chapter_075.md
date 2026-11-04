@@ -18,7 +18,7 @@ Alize nhất quyết đòi trả cho Lorraine một khoản tiền thỏa đáng
 
 "Có lẽ tôi hơi đường đột, thưa Sơ Lillian, nhưng lúc ngồi ở phòng tiếp khách, tôi đã xem xét năng lực của Alize rồi. Đúng là phải có dụng cụ đo chuẩn xác hơn mới biết tường tận, nhưng theo tôi thấy, chỉ cần nỗ lực, Alize hoàn toàn có thể phấn đấu trở thành một Pháp Sư Cung Đình," Lorraine nói, vẻ mặt vẫn thản nhiên dù lời thốt ra đủ khiến người ta phát sốc.
 
-Alize có tài là một chuyện, nhưng đủ tài để một ngày nào đó trở thành Pháp Sư Cung Đình lại là chuyện hoàn toàn khác. Pháp Sư Cung Đình là những ma pháp sư phụng sự Triều Đình Hoàng Gia, đỉnh cao của giới sử dụng ma thuật tại Vương Quốc Yaaran. Họ trực tiếp nhận mệnh lệnh từ chính đức vua, và ai nấy đều sở hữu sức mạnh ma thuật kinh người. Kéo theo đó, các ma pháp sư nơi cung đình đều nắm giữ trữ lượng Ma Lực khổng lồ cùng vốn tri thức uyên thâm để dệt nên những phép thuật thực thụ. Người ta phải có hiểu biết sâu rộng về lý thuyết ma thuật mới mong làm được điều đó. Lẽ tự nhiên, hầu hết ma pháp sư đều ngưỡng mộ họ và hy vọng một ngày nào đó có thể đứng vào hàng ngũ ấy.
+Alize có tài là một chuyện, nhưng đủ tài để một ngày nào đó trở thành Pháp Sư Cung Đình lại là chuyện hoàn toàn khác. Pháp Sư Cung Đình là những ma pháp sư phụng sự Triều Đình Hoàng Gia, đỉnh cao của giới sử dụng ma thuật tại Vương Quốc Yaaran. Họ trực tiếp nhận mệnh lệnh từ chính đức vua, và ai nấy đều sở hữu sức mạnh ma thuật kinh người. Cũng bởi vậy, các ma pháp sư nơi cung đình đều nắm giữ trữ lượng Ma Lực khổng lồ cùng vốn tri thức sâu rộng để thi triển những ma pháp thực thụ. Người ta phải có hiểu biết sâu rộng về lý thuyết ma thuật mới mong làm được điều đó. Lẽ tự nhiên, hầu hết ma pháp sư đều ngưỡng mộ họ và hy vọng một ngày nào đó có thể đứng vào hàng ngũ ấy.
 
 Nhưng tất nhiên, hiếm ai đạt được danh hiệu đó.
 
@@ -62,7 +62,7 @@ Sơ Lillian dường như cũng chẳng phải kiểu người sẽ vùi dập �
 
 Sơ Lillian trầm ngâm suy nghĩ những lời tôi nói. Sau một thoáng im lặng, sơ chậm rãi gật đầu.
 
-"Nếu quả đúng như vậy... Nếu Alize thực sự mong muốn điều đó thì tôi sẽ không ngăn cản. Thế nhưng... tại sao lại cứ phải là một mạo hiểm giả cơ chứ?"
+"Nếu đúng là vậy... Nếu Alize thật lòng mong muốn thế thì tôi sẽ không ngăn cản con bé. Có điều... thiếu gì nghề mà sao lại cứ phải làm mạo hiểm giả cơ chứ?"
 
 Đúng lúc đó, ngoài cửa vang lên mấy tiếng gõ. Alize quay lại thật đúng lúc.
 
@@ -84,7 +84,7 @@ Nói một cách đơn giản nhất thì là vậy đấy...
 
 "Vậy sao...? Thế thì tôi xin phép làm phiền hai người nhé. Chắc họ đến để bàn về bệnh tình của tôi, căn bệnh bấy lâu nay vẫn luôn giày vò..."
 
-Unbert là thầy trị liệu phụ trách thăm khám cho Sơ Lillian, còn Norman dường như là cộng sự của anh ta. Rất dễ hiểu vì sao họ lại tới đây.
+Unbert là thầy trị liệu phụ trách thăm khám cho Sơ Lillian, còn Norman dường như là cộng sự của anh. Rất dễ hiểu vì sao họ lại tới đây.
 
 "Được rồi. Mời mọi người vào."
 
@@ -106,15 +106,15 @@ Nhưng Alize cũng chỉ mới là một đứa trẻ mười hai tuổi. Con b�
 
 Trừ phi được rèn giũa khắt khe quá mức cần thiết, chứ một cô bé mười hai tuổi ở cô nhi viện khó lòng giữ được lễ nghi chu toàn tuyệt đối. Chuyện con bé nhận ra thiếu ghế rồi vội vã chạy đi lấy thêm thực ra lại cho thấy con bé rất biết nghĩ cho người khác.
 
-"Không, chúng tôi hoàn toàn không để tâm đâu ạ. Dù sao thì con bé vẫn ngoan hơn chúng tôi hồi nhỏ nhiều," thầy trị liệu Unbert ôn tồn nói.
+"Không, chúng tôi hoàn toàn không để tâm đâu. Dù sao thì con bé vẫn ngoan hơn chúng tôi hồi nhỏ nhiều," thầy trị liệu Unbert ôn tồn nói.
 
-Unbert có vẻ là người ôn hòa, nhưng hàng râu lởm chởm cùng tác phong của anh ta lại trông giống một mạo hiểm giả hơn. Với việc anh ta mở một phòng trị liệu tại Maalt để cứu chữa cho người dân nơi đây, có khi anh ta cũng từng làm mạo hiểm giả vào một thời điểm nào đó trong đời.
+Unbert có vẻ là người ôn hòa, nhưng hàng râu lởm chởm cùng tác phong của anh lại trông giống một mạo hiểm giả hơn. Với việc anh mở một phòng trị liệu tại Maalt để cứu chữa cho người dân nơi đây, có khi anh cũng từng làm mạo hiểm giả vào một thời điểm nào đó trong đời.
 
 "Anh nghĩ được như vậy thì tôi mừng lắm, Unbert. Nhưng còn những người khác..." Sơ Lillian nói, rồi đưa mắt nhìn sang ba người lớn còn lại trong phòng.
 
 Theo tôi thấy thì ai nấy đều nở một nụ cười gượng gạo như nhau. Chắc hẳn ai cũng có những kỷ niệm riêng về thời thơ ấu của mình.
 
-"Chà... Ai mà chẳng từng có một thời thơ bé. Ngay cả tôi cũng từng trải qua quãng ngày như thế... Thôi được rồi. Unbert, Norman, hai anh có chuyện muốn nói với tôi đúng không? Xin lỗi vì phải tiếp chuyện mọi người cùng lúc thế này. Tôi cũng đã xin phép cậu Rentt và cô Lorraine ở đây rồi. Có phải chuyện liên quan đến thân thể tôi—bệnh tình của tôi không?"
+"Chà... Ai mà chẳng từng có một thời thơ bé. Ngay cả tôi cũng từng trải qua quãng ngày như thế... Thôi được rồi. Unbert, Norman, hai anh có chuyện muốn nói với tôi đúng không? Xin lỗi vì phải tiếp chuyện mọi người cùng lúc thế này. Tôi cũng đã xin phép cậu Rentt và cô Lorraine ở đây rồi. Có phải chuyện liên quan đến sức khỏe—bệnh tình của tôi không?"
 
 Sơ Lillian bèn giải thích tình hình cho Unbert và Norman, cả hai chăm chú lắng nghe rồi gật đầu.
 
@@ -140,7 +140,7 @@ Sơ chậm rãi gật đầu. Sơ Lillian dường như chẳng hề bận lòng
 
 "Vậy thì... xin phép sơ, thưa Sơ Lillian. Về căn bệnh đang giày vò sơ... Mong sơ chớ hoảng sợ, nhưng sơ đang mắc phải chứng bệnh gọi là 'Bệnh Tích Tụ Chướng Khí'," Unbert nói thẳng vào vấn đề.
 
-Có thể anh ta không phải kiểu người thích nói vòng vo, hoặc biết đâu anh ta cảm thấy làm thế chỉ khiến Sơ Lillian sốc hơn... Dù là lý do gì, Unbert cũng đã đưa ra chẩn đoán một cách rất thẳng thắn.
+Có thể anh không phải kiểu người thích vòng vo tam quốc, hoặc nghĩ rằng cứ úp mở chỉ làm Sơ Lillian thêm hoang mang... Dù vì lý do gì thì Unbert cũng đã nói thẳng bệnh tình ra không chút giấu giếm.
 
 Tôi đã biết đến căn bệnh này từ trước cả khi Alize nhắc tới với tôi, nên tôi đoán đây là thuật ngữ quen thuộc trong giới những người có khả năng sử dụng Thần Lực.
 
@@ -148,7 +148,7 @@ Sắc mặt Sơ Lillian tái mét ngay khi những lời đó vừa thốt ra kh
 
 Người mắc bệnh sẽ không chết ngay lập tức, nhưng viễn cảnh qua đời trong vòng năm đến mười năm tới hẳn sẽ khiến bất kỳ ai cũng phải kinh hãi. Unbert có lẽ đã đoán trước phản ứng của sơ, nên mới buông lời cảnh báo trước như vậy.
 
-Có lẽ anh ta nên báo luôn cho sơ biết là có thuốc chữa... Nhưng mặt khác, dẫu biết phương thuốc thì nguyên liệu cần dùng—chính là đóa Hoa Long Huyết mà tôi lặn lội vào đầm lầy hái dạo nọ—lại đắt đỏ vô cùng. Hơn ai hết, chính Sơ Lillian thừa hiểu kiếm được thứ đó gian nan nhường nào, cùng với cái giá trên trời của nó.
+Có lẽ anh nên báo luôn cho sơ biết là có thuốc chữa... Nhưng mặt khác, dẫu biết phương thuốc thì nguyên liệu cần dùng—chính là đóa Hoa Long Huyết mà tôi lặn lội vào đầm lầy hái dạo nọ—lại đắt đỏ vô cùng. Hơn ai hết, chính Sơ Lillian thừa hiểu kiếm được thứ đó gian nan nhường nào, cùng với cái giá trên trời của nó.
 
 "Nhưng nếu vậy... tôi còn được bao lâu nữa... Làm sao kiếm nổi thứ đắt đỏ như Hoa Long Huyết... Rồi cô nhi viện này sẽ ra sao đây...?" Sơ Lillian run run cất tiếng.
 
