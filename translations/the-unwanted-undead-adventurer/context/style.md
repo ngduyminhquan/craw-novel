@@ -50,6 +50,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 24. **Giọng Aidi và không khí trường đua chuột (#85).** Aidi là mạo hiểm giả trung niên mê cá cược, ăn nói bộc trực, xuề xòa, dân dã của dân đỏ đen ("bạn hiền", "đặt cửa"); lời bình luận viên trường đua chuột Puchi Suri giữ nhịp dồn dập, máu lửa, giàu cảm xúc kịch tính, tránh dịch thô cứng.
 25. **Giọng Phu nhân Emilstead (#86).** Quý phu nhân giàu có thương xót thú cưng hết mực; khi cầu xin giúp đỡ thì khẩn thiết, xúc động, xưng "tôi - ngài" chân thành, không trịch thượng; khi cảm kích thì vồ vập, bộc trực, không kiểu cách màu mè.
 26. **Giọng mạo hiểm giả tân binh và tâm thế tiền bối của Rentt (#87).** Tân binh mới vào nghề ban đầu bốc đồng, ấm ức, tự ái khi bị trừ thù lao, nhưng biết lắng nghe và cầu tiến khi được chỉ bảo; xưng hô từ bộc trực ("anh - tôi") chuyển sang kính trọng ("tiền bối Rentt - tôi"). Rentt giữ phong thái đàn anh điềm đạm, mộc mạc, chia đều tiền thưởng sòng phẳng và khích lệ người mới, không lên mặt dạy đời.
+27. **Tâm thế chi tiêu và chuẩn bị trang bị cho người mới của Rentt (#88).** Khi đối mặt với áp lực tiền bạc và nợ nần, Rentt độc thoại tự nhắc nhở bản thân ("Rentt này: ...") bằng giọng điệu hóm hỉnh, thực tế, không bi kịch hóa; khi chuẩn bị trang bị cho hậu bối (Alize), Rentt giữ góc nhìn tiền bối giàu trải nghiệm, tránh để người mới dùng vũ khí quá xịn làm mất tính thích ứng linh hoạt.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -84,6 +85,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (85) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về sự cố bị mạo hiểm giả mê cá cược Aidi kéo tới trường đua chuột Puchi Suri và chứng kiến Edel thi đấu giành giải nhất.
 - (86) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về ủy thác dùng Thần Lực siêu thoát cho linh hồn chú chuột Sweetpea của Phu nhân Emilstead và phát hiện Lorraine cùng Edel bí mật cài cắm nội gián vào dinh thự.
 - (87) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời mới vài năm vào nghề mạo hiểm giả, nhận ủy thác dọn dẹp nhà cửa mùa xuân và hướng dẫn một tân binh mới vào nghề.
+- (88) Mở đầu Tập 4: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về việc cân đối tài chính sau khi bán xác Tarasque, chuẩn bị trang bị cho Alize và lên kế hoạch tự kiếm nguyên liệu tại Mê Cung Tân Nguyệt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
