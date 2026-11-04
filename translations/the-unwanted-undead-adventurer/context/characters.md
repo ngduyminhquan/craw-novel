@@ -320,7 +320,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 80: Đàm phán với thương nhân đấu giá của Thương hội Stheno, dàn xếp cuộc gặp giữa khách mua mai Tarasque với Rentt; thanh toán tiền bán các nguyên liệu phụ khác của Tarasque cho Rentt.
 
 ### Unbert Abeiyu
-- Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông trung niên, dáng người gầy gò cao kều.
+- Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông trung niên, dáng người gầy gò cao kều, mặt có râu lởm chởm, phong thái như mạo hiểm giả.
 - Tính cách, nghề nghiệp: Thầy trị liệu (healer) quen biết với Cô Nhi Viện Thứ Hai Maalt; nhiệt tình giúp đỡ Sơ Lillian tìm người điều chế thuốc.
 - Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt.
 - Xuất hiện từ: #59 (được nhắc đến từ #50).

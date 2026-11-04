@@ -42,6 +42,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 16. **Giọng chữa cháy tâng bốc của Rentt (#60).** Khi bị dồn vào thế bí trước cơn giận của Lorraine, Rentt cuống cuồng xổ ra tràng khen ngợi khoa trương học lỏm từ kịch nghệ nhưng bị ngắt quãng từng chặp vì tật phát âm thời Ngạ Quỷ; giữ nguyên nét vụng về, nịnh nọt chữa cháy hài hước và ngô nghê, không biến thành tán tỉnh sành sỏi.
 17. **Giọng Laura Latuule (#62).** Đương chủ Gia tộc Latuule mang hình hài thiếu nữ 12–13 tuổi; phong thái tao nhã, điềm đạm, mực thước quý phái nhưng hòa nhã, tự nhiên; xưng "tôi", gọi "ngài / ngài Vivie / ngài Rentt"; có nét dí dóm, châm biếm nhẹ nhàng, không kiểu cách trịch thượng, không dùng từ suồng sã.
 18. **Giọng Sơ Lillian (#74).** Nữ tu hiền hậu, điềm đạm, ân cần như người mẹ của cô nhi viện; lời nói nhẹ nhàng, bao dung nhưng giữ nét mực thước, nghiêm khắc khi uốn nắn nề nếp cho con trẻ; giao tiếp với mạo hiểm giả (Rentt) và học giả (Lorraine) luôn khiêm nhường, biết ơn chân thành ("tôi mới là người phải thấy vinh hạnh"), xưng "tôi - cậu/cô", với trẻ nhỏ xưng "ta - con".
+19. **Giọng Unbert Abeiyu (#75).** Thầy trị liệu có vẻ ngoài từng trải như mạo hiểm giả nhưng tính cách ôn hòa, điềm đạm; tác phong khám chữa bệnh thẳng thắn, giải thích bệnh trạng rõ ràng, không vòng vo; giao tiếp với Sơ Lillian luôn tôn trọng, đúng mực ("thưa Sơ Lillian", xưng "tôi"), hòa nhã với đồng nghiệp và mạo hiểm giả.
 
 ## Từ cảm thán / cách nói cố định
 
