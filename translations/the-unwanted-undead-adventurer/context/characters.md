@@ -250,6 +250,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 38: Chính thức thăng hạng Đồng Cấp; tinh tế nhận ra chí hướng và mục tiêu riêng biệt của Rentt (anh Vivie) khi chia tay tổ đội, cảm ơn anh đã bảo bọc, tạo cơ hội cho cả hai trưởng thành và khẳng định anh mãi là đồng đội của nhóm.
 - Trạng thái tính đến chương 204: Bị Ma Cà Rồng bắt cóc giam giữ ở Mê Cung Tân Nguyệt và được nhóm Rentt giải cứu đưa về Phòng Khám Kohm tĩnh dưỡng; đoàn tụ với Rina; ngỡ ngàng và sùng bái khi biết Lorraine là mạo hiểm giả Ngân Cấp kiêm học giả ma pháp sư và Nive Maris là mạo hiểm giả Kim Cấp còn rất trẻ.
 - Lưu ý: Raw từ tập 8 đổi sang viết thành Lola, bản dịch tiếng Việt luôn dùng tên đã chốt là Laura / Laura Satii.
+- Phân biệt: Raw #33–38 chỉ gọi tắt "Laura", trùng alias của Laura Latuule (#62+), nên `prepare.py` có thể khớp nhầm. Trước #62, "Laura" luôn là Laura Satii: gọi "cô / cô gái / thiếu nữ", không gọi "cô bé"; gọi Raiz và Laura là "hai người", không gọi "hai đứa".
 
 ### Augurey
 - Giới tính, tuổi/vẻ ngoài: Nam, tên đầy đủ Augurey Ars (#155). Phong cách lập dị: trang phục sặc sỡ bảy sắc cầu vồng, mũ lớn gắn lông công, chuôi kiếm chạm khắc lóa mắt; khi cần kín đáo thì đổi sang đồ tối màu (#159).
@@ -345,6 +346,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Lễ độ, tao nhã chuẩn mực quý tộc, xưng "tôi", gọi Rentt là "ngài".
 - Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; giao Rentt ủy thác hái Hoa Long Huyết định kỳ (đang tạm hoãn); cho Rentt mượn sách bí thuật Thần Lực, mời Lorraine tới thư viện. Che chở một cậu bé Ma Cà Rồng trốn khỏi làng (#169).
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
+- Phân biệt: Alias "Laura" trùng với Laura Satii (#33–38, nữ ma pháp sư đồng đội của Raiz). Chương có Raiz hoặc bối cảnh thi thăng hạng thì "Laura" là Laura Satii.
 - Năng lực: Dị năng không phải Ma Lực, Khí Lực hay Thần Lực: chia sẻ thị giác loài chim, nén không gian, quả cầu đen kích nổ. Nhiều năm dùng Hoa Long Huyết nguyên chất để kìm sức mạnh Ma Cà Rồng (từng nói là mắc Bệnh Tích Tụ Chướng Khí), từ khi gặp Rentt dùng ít đi.
 - Trạng thái tính đến chương 197: Cùng nhóm Rentt đánh bại Shumini; ép Rentt uống máu mình, rồi hấp thụ Lõi Mê Cung thứ tư để cứu Maalt và Rina; đang ngủ sâu để hấp thụ (vài tháng đến vài năm). Trước khi ngủ dặn Rentt đi tìm truyền thuyết các đền thờ cổ.
 
