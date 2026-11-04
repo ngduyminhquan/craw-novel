@@ -31,6 +31,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 5. **Thoại ngắt quãng thời Ngạ Quỷ.** Sau dấu "." thì viết hoa, sau "..." giữa câu thì viết thường. Đổi xưng hô trong một câu thoại thì đổi cả câu, không để vế đầu "mình", vế sau "tôi".
 6. **Miêu tả Undead dạng xương.** Khô Lâu hoặc sinh vật chỉ có xương thì không tả là "cơ bắp" (`physical strength` → "sức mạnh thể chất / lực đòn đánh").
 7. **Khẩu ngữ hội thoại đời thường.** Tránh dịch sát chữ "a bad thing" thành "chuyện xấu" (mang hàm ý đạo đức/tội lỗi) khi đối đáp đời thường; dịch linh hoạt theo ngữ cảnh thành "không tốt / dở / không được" (như Rentt hỏi "Is that a bad thing?" → "Thế không tốt sao?", Loris đáp "I'm not saying it's bad" → "Tôi đâu bảo là không tốt").
+8. **Giọng Loris Cariello và Isabel.** Loris là chủ quán ăn bình dân, xởi lởi, hay dùng từ đệm dò ý ở cuối câu ("yeah?" → "chứ hả", "nhé", "được không"); Isabel tháo vát, chăm chỉ, xưng hô vợ chồng tự nhiên ("mình ơi", "nhà tôi"), giao tiếp với người ngoài giữ phép lịch sự nhưng thẳng thắn, không khách sáo màu mè.
 
 ## Từ cảm thán / cách nói cố định
 
