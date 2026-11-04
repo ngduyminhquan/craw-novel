@@ -37,6 +37,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 11. **Giọng Alize (#48–52).** Đứa trẻ lớn biết lo toan tại cô nhi viện; ban đầu cố nói năng trịnh trọng, giữ kẽ và đệm "ạ" trước khách lạ, nhưng khi đã được Rentt bảo nói chuyện tự nhiên (từ giữa #49) thì nhanh nhẹn, bộc trực, ra dáng chị cả che chở cho đàn em nhỏ; xưng "em - anh" với Rentt mà không đệm "dạ/ạ" khép nép, xưng "con - sơ" với Sơ Lillian.
 12. **Liên kết tâm trí với Edel và tính cách quyến thuộc (#51–52).** Edel tuy là chuột quyến thuộc nhưng có cái tôi và chính kiến rất lớn (bướng bỉnh, háu ăn, biết dậm chân phản đối, dựng lông bất mãn). Liên kết tâm trí truyền cảm xúc và suy nghĩ trực tiếp sang Rentt; Rentt đối thoại nội tâm với con chuột như một cộng sự ngang ngạnh, bình đẳng, không áp đặt kiểu chủ tớ máy móc.
 13. **Giọng Isaac Hart (#56).** Quản gia phục vụ nhân vật quyền thế; tác phong mực thước, lịch thiệp chuẩn phong thái gia nhân quý tộc; lời thoại luôn giữ lễ độ, tôn trọng đối phương ("ngài / thưa quý ngài"), nhưng tự nhiên và điềm đạm, không dùng từ cầu kỳ, khách sáo quá đà (không chêm "ạ" hay "đội ơn"); không xem nhẹ thứ hạng mạo hiểm giả mà trọng thực lực thực tế.
+14. **Giọng Dario Costa (#58).** Chuyên gia mổ xẻ chính của Hội; tính tình bộc trực, xuề xòa, thực tế; ăn nói hào sảng, cộc cằn nhưng thân tình; rất sành sỏi giá cả thị trường và trân trọng chiến lợi phẩm nguyên vẹn; xưng "chú - cháu/cô bé" với tiếp tân viên Hội (Sheila), xưng "tôi - cậu" với mạo hiểm giả (Rentt).
 
 ## Từ cảm thán / cách nói cố định
 
