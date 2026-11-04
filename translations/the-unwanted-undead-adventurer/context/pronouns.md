@@ -91,6 +91,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Frahe | Frahe / cậu bé / đứa trẻ | 218 | Thiếu gia nhỏ tuổi của gia tộc Muze |
 | Jean Seebeck | Jean Seebeck / Tổng Hội Trưởng Jean Seebeck / ông lão / ông | 221 | Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran |
 | Elza | Elza / Nữ Tu Viện Trưởng Elza / Tu Viện Trưởng Elza | 222 | Nữ Tu Viện Trưởng phụ trách Tu Viện Ephas thuộc Giáo Hội Đông Thiên |
+| Yattul | Yattul / người đàn ông / người đánh xe | 232 | Người đánh xe kiêm thương nhân trung niên chở nhóm Rentt |
 
 ## Giữa các nhân vật
 
@@ -426,4 +427,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jia Regina Yaaran | Augurey | tôi | anh / cậu | 228 | Nhị Công Chúa nói chuyện hòa nhã với mạo hiểm giả |
 | Rentt Faina | Jia Regina Yaaran | tôi | Điện Hạ / người | 228 | Mạo hiểm giả yết kiến và thưa gửi cung kính với Nhị Công Chúa |
 | Jia Regina Yaaran | Rentt Faina | tôi | anh / anh Vivie | 228 | Nhị Công Chúa giao tiếp hòa nhã với mạo hiểm giả |
+| Rentt Faina | Yattul | tôi | bác | 232 | Mạo hiểm giả nói chuyện với người đánh xe trung niên |
+| Yattul | Rentt Faina | tôi | ông chủ | 232 | Người đánh xe kiêm thương nhân nói chuyện với khách thuê xe (raw: boss) |
+| Yattul | * | tôi | các vị / mọi người | 232 | Người đánh xe nói chuyện với nhóm mạo hiểm giả trên xe (raw: folks / you guys) |
 

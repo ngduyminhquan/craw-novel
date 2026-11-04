@@ -236,7 +236,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 229 |  | Chapter_229 - Vol 10 Chapter 2 - To the Palace (4).txt | Vol 10 Chapter 2 - To the Palace (4) | reviewed |  |
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | reviewed |  |
 | 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | reviewed |  |
-| 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | todo |  |
+| 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | done |  |
 | 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | todo |  |
 | 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | todo |  |
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -870,3 +869,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#231] Dịch tên quái vật mới 'luteum golem' (nguyên tác 泥魔導人形 - golem bùn/đất sét) — tạm chọn 'Golem Luteum' theo trật tự danh từ - tính từ định danh quen thuộc (phương án khác: 'Luteum Golem', 'Golem Đất Sét'). Tạm dùng trong bản dịch: 'Golem Luteum'. → Giữ 'Golem Luteum' theo glossary.md. (orchestrator)
 - [#231] Dịch vật phẩm/nguyên liệu thực vật 'wyvern flax' (nguyên tác ワイバーン麻 - sợi lanh/cây lanh phi long) — tạm chọn 'lanh Phi Long' (phương án khác: 'cây lanh Phi Long', 'cỏ lanh Phi Long'). Tạm dùng trong bản dịch: 'lanh Phi Long'. → Giữ 'lanh Phi Long' đồng bộ với 'wyvern → Phi Long' trong glossary.md. (orchestrator)
 - [#227] viceroy (Duke Lukas Bader) → manager sửa: 'Phó Vương' (viceroy ≠ regent; bỏ 'Quan Nhiếp Chính') (orchestrator)
+- [#232] Xưng hô của Yattul với Rentt (raw: 'boss') - tạm chọn Yattul gọi Rentt là 'ông chủ' (phương án khác: 'đại ca'); Rentt gọi Yattul là 'bác'. → Giữ Yattul gọi Rentt là 'ông chủ', Rentt gọi Yattul là 'bác' (Yattul là người đánh xe kiêm thương nhân trung niên được nhóm Rentt thuê). (orchestrator)

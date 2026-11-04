@@ -429,3 +429,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Luteum Golem | luteum golems; luteum golem; Luteum Golems | Golem Luteum | quái vật | 231 | Phân loại Golem bùn/đất sét sinh sống ở vùng hồ (泥魔導人形) |
 | wyvern flax | Wyvern flax | lanh Phi Long | vật phẩm | 231 | Loại cây hoặc sợi lanh liên quan đến Phi Long mọc ở vùng hồ (ワイバーン麻) |
 | fire dragon | Fire dragon; fire dragons; Fire dragons | Rồng Lửa | quái vật | 231 | Phân loại rồng thuộc tính hỏa |
+| Hobgoblin | hobgoblin; Hobgoblins; hobgoblins | Hobgoblin | quái vật | 232 | Phân loài Goblin to lớn hơn, thân hình gần với tỷ lệ con người (ホブゴブリン) |

@@ -122,6 +122,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Karsten Reshon Yaaran | Karsten | Karsten Reshon Yaaran | Quốc vương đương nhiệm của Vương Quốc Yaaran | #228 |
 | Joachim Princeps Yaaran | Joachim | Joachim Princeps Yaaran | Đệ Nhất Hoàng Tử của Vương Quốc Yaaran | #229 |
 | Nadia Regina Yaaran | Nadia | Nadia Regina Yaaran | Đệ Nhất Công Chúa của Vương Quốc Yaaran | #229 |
+| Yattul |  | Yattul | Người đánh xe kiêm thương nhân trung niên chở nhóm Rentt | #232 |
 
 ## Chi tiết
 
@@ -774,6 +775,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, Đệ Nhất Công Chúa của Vương Quốc Yaaran.
 - Đặc điểm: Con gái lớn của Quốc vương Karsten, chị ruột của Công Chúa Jia; đứng đầu phe phái tranh đoạt quyền kế vị ngai vàng (#229).
 - Xuất hiện từ: #229 (được nhắc đến).
+
+### Yattul
+- Giới tính, vai trò: Nam, người đàn ông trung niên vạm vỡ, thương nhân kiêm người đánh xe chạy tuyến giữa vương đô Yaaran và các thôn làng lân cận (#232).
+- Đặc điểm: Không thạo chiến đấu, ăn nói dân dã xởi lởi; có thói quen mua lại Ma Tinh từ mạo hiểm giả để buôn bán (#232).
+- Xuất hiện từ: #232.
 
 
 

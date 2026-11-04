@@ -1366,6 +1366,12 @@ Trong lúc chờ Tổng Hội Trưởng Jean Seebeck trở về vương đô (c�
 Các ủy thác được chọn gồm bắt sống Aqua Hathur, thu thập đất sét từ Golem Luteum và thu hoạch lanh Phi Long; dù Rentt khiêm tốn đề xuất giảm tỷ lệ thù lao vì bản thân chỉ là Đồng Cấp, Augurey và Lorraine vẫn kiên quyết chia đều ba phần do đánh giá cao năng lực thực chiến và kiến thức sinh tồn vượt trội của anh.
 Cả ba tới trụ sở Hội Mạo Hiểm Giả tại vương đô; sau khi Rentt khéo léo trấn an cô tiếp tân đang bồn chồn lo lắng về việc Tổng Hội Trưởng trễ hẹn, nhóm hoàn tất thủ tục đăng ký tổ đội và chính thức nhận các ủy thác tồn đọng (không phạt khi thất bại) rồi xuất phát.
 
+## 232
+Trên đường đi xe kéo rời vương đô hướng về ngôi thôn thực hiện ủy thác, nhóm Rentt chạm trán và nhanh chóng tiêu diệt bầy mười con Hobgoblin chặn đường rồi thiêu xác dọn đường theo quy tắc an toàn.
+Họ bán bớt số Ma Tinh thu hoạch được cho Yattul—người đánh xe kiêm thương nhân trung niên chở nhóm—nhằm hỗ trợ bác ta bám trụ cung đường nông thôn ít lợi nhuận.
+Sau khi tiếp tục hành trình, Yattul bỗng bị lạc dù đây là cung đường quen thuộc không có ngã rẽ; Lorraine nghi ngờ bác ta đã bị chuốc thuốc gây mất phương hướng khi nhóm rời xe diệt quái.
+Nhóm Rentt quyết định tạm thời giữ bình tĩnh không đánh động kẻ đứng sau, đồng ý cùng Yattul hạ trại qua đêm bên đường và mời bác ta dùng bữa tối tươm tất từ túi ma thuật của Rentt.
+
 
 
 
