@@ -92,3 +92,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#224) Danh xưng giáo phẩm Abbess (Nữ Tu Viện Trưởng): là phẩm trật cao cấp tương đương Giám mục/Hồng y, giao tiếp trang trọng dùng "ngài / Nữ Tu Viện Trưởng / Mẹ Bề Trên", không gọi hạ cấp thành "sơ" (Sister); trong lời dẫn chuyện gọi "cô ấy / Nữ Tu Viện Trưởng Elza", tránh dùng "sơ ấy" gây nhầm lẫn với Sơ Lillian.
 - (#226) Tên quán trọ Falcon’s Rest Inn tại vương đô nơi Augurey lưu trú: dịch là "Quán Trọ Falcon's Rest" (nguyên tác 鷹の羽休め亭 - quán trọ chim ưng dừng cánh).
 - (#230) Phân biệt "Holy Tree" và "Venerable Holy Tree": "Holy Tree" dịch là "Thánh Thụ" (cái cây thần/thực thể linh thiêng của High Elf); "Venerable Holy Tree" dịch là "Cổ Thánh Thụ" (thường xuất hiện trong danh xưng xứ sở "Land of the Venerable Holy Tree" → "Vùng Đất Cổ Thánh Thụ"), tránh dịch nhầm "Holy Tree" thành "Cổ Thánh Thụ".
+- (#234) Danh từ chung "monster(s)": dịch thống nhất là "quái vật", không dùng từ Hán Việt "ma vật".

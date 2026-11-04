@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T02:21:24Z",
+  "generatedAt": "2026-11-04T02:30:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3544,19 +3544,19 @@
           "number": 232,
           "title": "Chương 232: Tập 10 Chương 3 - Công Việc Cùng Augurey (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_232.md",
-          "sha": "fd5eb774644f2e1e243b2fecf2face1a59abe12b"
+          "sha": "865b4e55ecbb356d18c75c92ab945d0877ce6331"
         },
         {
           "number": 233,
           "title": "Chương 233: Tập 10 Chương 3 - Công Việc Cùng Augurey (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_233.md",
-          "sha": "eef4f7c028e5e13fe3272b251fa3e4768be8b941"
+          "sha": "756d366e4143730866df91ceed1850c93c43af0d"
         },
         {
           "number": 234,
           "title": "Chương 234: Tập 10 Chương 3 - Công Việc Cùng Augurey (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_234.md",
-          "sha": "865a3f8034e80c41f48510a68b9e6c37b92aec87"
+          "sha": "7cac2d17117e43813578df5751a1a14d9b576a94"
         }
       ]
     },

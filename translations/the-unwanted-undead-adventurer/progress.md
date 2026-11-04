@@ -236,9 +236,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 229 |  | Chapter_229 - Vol 10 Chapter 2 - To the Palace (4).txt | Vol 10 Chapter 2 - To the Palace (4) | reviewed |  |
 | 230 |  | Chapter_230 - Vol 10 Chapter 2 - To the Palace (5).txt | Vol 10 Chapter 2 - To the Palace (5) | reviewed |  |
 | 231 |  | Chapter_231 - Vol 10 Chapter 3 - The Job with Augurey (1).txt | Vol 10 Chapter 3 - The Job with Augurey (1) | reviewed |  |
-| 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | done |  |
-| 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | done |  |
-| 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | done |  |
+| 232 |  | Chapter_232 - Vol 10 Chapter 3 - The Job with Augurey (2).txt | Vol 10 Chapter 3 - The Job with Augurey (2) | reviewed |  |
+| 233 |  | Chapter_233 - Vol 10 Chapter 3 - The Job with Augurey (3).txt | Vol 10 Chapter 3 - The Job with Augurey (3) | reviewed |  |
+| 234 |  | Chapter_234 - Vol 10 Chapter 3 - The Job with Augurey (4).txt | Vol 10 Chapter 3 - The Job with Augurey (4) | reviewed |  |
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | todo |  |
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | todo |  |
 | 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | todo |  |

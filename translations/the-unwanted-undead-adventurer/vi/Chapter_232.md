@@ -42,7 +42,7 @@ Dường như Lorraine cũng đang nghĩ tới điều tương tự, bởi sau m
 
 "Có lẽ vậy. Mà cũng có lẽ không. Đây có thể là khởi đầu của một điều gì đó tồi tệ hơn nhiều. Khi một Vua Goblin sắp sửa xuất hiện, mọi chuyện thường bắt đầu từ những cuộc giao tranh lẻ tẻ giữa các nhóm Goblin. Chẳng hiếm những sự vụ trông bề ngoài chỉ như xích mích nhỏ nhặt giữa lũ Goblin nhưng rốt cuộc lại hóa ra là dấu hiệu của một Vua Goblin đang trỗi dậy đâu."
 
-Cô ấy nói đúng, nhưng cô đang nhảy sang thái cực cực đoan đối lập rồi.
+Cô ấy nói đúng, nhưng cô đang nhảy sang thái cực đối lập rồi.
 
 Augurey nhún vai. "Chúng ta có thể tranh luận chuyện này cả ngày cũng được. Dù là thảm họa lớn nhất thì cũng đều có những manh mối nhỏ báo trước điềm gở, nhưng nếu cứ đuổi theo từng dấu hiệu tiềm tàng của một mối đe dọa sắp ập đến thì chẳng mấy chốc chúng ta sẽ thiếu nhân lực trầm trọng mất thôi."
 
@@ -52,7 +52,7 @@ Rõ ràng Lorraine cũng hiểu điều đó. Cô mỉm cười nói: "Đúng v�
 
 "Chào các vị!" một giọng nói gọi với về phía chúng tôi.
 
-Tôi quay đầu lại và thấy cỗ xe kéo của chúng tôi đang tiến tới, phía trên là một người đàn ông trung niên đang ngồi ở ghế lái. Đó là người chúng tôi thuê làm tài xế cho chuyến đi lần này. Tên bác ta là Yattul, và nhờ tính chất công việc nên thân hình bác vô cùng vạm vỡ. Dẫu vậy bác không được đào tạo để chiến đấu, và cũng chẳng đủ mạnh để tự mình đối đầu với một bầy mười con Hobgoblin.
+Tôi quay đầu lại và thấy cỗ xe kéo của chúng tôi đang tiến tới, phía trên là một người đàn ông trung niên đang ngồi ở ghế lái. Đó là người chúng tôi thuê làm tài xế cho chuyến đi lần này. Tên bác ta là Yattul, và nhờ tính chất công việc nên thân hình bác ta vô cùng vạm vỡ. Dẫu vậy bác ta không được đào tạo để chiến đấu, và cũng chẳng đủ mạnh để tự mình đối đầu với một bầy mười con Hobgoblin.
 
 Ngay khoảnh khắc phát hiện bầy Hobgoblin, chúng tôi đã dặn bác ta ở lại phía sau khi cả nhóm xuống xe tiến lên phía trước để xử lý lũ quái vật. Dù bác ta dừng lại ở khoảng cách đủ xa để khuất khỏi tầm mắt chúng tôi, nhưng hẳn là bác đã nhìn thấy khói bốc lên từ đống xác bị thiêu nên mới tự mình đánh xe tiến lại.
 

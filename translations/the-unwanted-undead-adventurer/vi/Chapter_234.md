@@ -10,7 +10,7 @@ Bất luận người đánh xe của chúng tôi đang phục vụ cho ai, trô
 
 Lorraine lên tiếng nói với người đánh xe trong khi tôi vẫn đang bận giả vờ say ngủ.
 
-"Dọc các cung đường lữ hành tuy hiếm khi có ma vật xuất hiện, nhưng đạo tặc thì lại không thể nói trước được. Tôi sẽ đi cùng bác."
+"Dọc các cung đường lữ hành tuy hiếm khi có quái vật xuất hiện, nhưng đạo tặc thì lại không thể nói trước được. Tôi sẽ đi cùng bác."
 
 Nói cách khác, chúng tôi muốn có người để mắt chừng chừng bác ta. Đó là một yêu cầu hoàn toàn hợp lý, và suốt cả chuyến đi chúng tôi vẫn luôn duy trì thói quen này.
 
@@ -22,7 +22,7 @@ Nếu chúng tôi là một nhóm cả tin, hẳn chúng tôi đã tin rằng b�
 
 "Nếu phải chọn, tôi dám chắc bác ta cũng chẳng đời nào muốn bị anh chằm chằm nhìn vào đâu. Hơn nữa, anh mà vào rừng thì nổi bần bật đấy, Augurey."
 
-Augurey diện một bộ trang phục mang những tông màu tương phản chói lọi đến nhức cả mắt. Vì ma vật thường bị thu hút về phía anh ta, nên điều này tỏ ra vô cùng hữu dụng khi cần lùa cả đàn quái vật. Người ta có thể nghĩ anh ta là một mạo hiểm giả giàu lòng vị tha khi chọn trang phục với mục đích đó, nhưng Augurey lại một mực khẳng định rằng lối ăn mặc này thuần túy là gu thời trang của riêng mình. Lợi ích thực tế đi kèm chỉ là sự trùng hợp ngẫu nhiên mà thôi. Rất có thể Yattul đã định dùng chính bộ cánh thu hút quái vật kia làm cái cớ từ chối nếu Augurey đòi đi theo.
+Augurey diện một bộ trang phục mang những tông màu tương phản chói lọi đến nhức cả mắt. Vì quái vật thường bị thu hút về phía anh ta, nên điều này tỏ ra vô cùng hữu dụng khi cần lùa cả đàn quái vật. Người ta có thể nghĩ anh ta là một mạo hiểm giả giàu lòng vị tha khi chọn trang phục với mục đích đó, nhưng Augurey lại một mực khẳng định rằng lối ăn mặc này thuần túy là gu thời trang của riêng mình. Lợi ích thực tế đi kèm chỉ là sự trùng hợp ngẫu nhiên mà thôi. Rất có thể Yattul đã định dùng chính bộ cánh thu hút quái vật kia làm cái cớ từ chối nếu Augurey đòi đi theo.
 
 "Nếu muốn thì tôi vẫn ngụy trang được mà, khoác thêm chiếc áo choàng chẳng hạn. Cơ mà gã đâu thật sự bận tâm chuyện đó," Augurey lẩm bẩm.
 
@@ -72,7 +72,7 @@ Một giọng nói già nua và khô khốc, tương phản hoàn toàn với Si
 
 "Đúng là vậy, nhưng..." Goblin chẳng thể chỉ rõ điều gì đang dấy lên từng đợt sóng bất an dao động trong lòng mình.
 
-Kẻ đồng mưu đang ẩn mình khẽ cười khúc khích. "Nếu có chuyện gì xảy ra, ta sẽ dọn dẹp hậu quả. Cậu và Siren cứ việc tiến hành nhiệm vụ theo cách các cậu thấy phù hợp." Cái bóng sau đó cũng biến mất.
+Kẻ đồng mưu đang ẩn mình khẽ bật cười. "Nếu có chuyện gì xảy ra, ta sẽ dọn dẹp hậu quả. Cậu và Siren cứ việc tiến hành nhiệm vụ theo cách các cậu thấy phù hợp." Cái bóng sau đó cũng biến mất.
 
 ◆◇◆◇◆
 
@@ -110,11 +110,11 @@ Mặc kệ anh ta, Lorraine hỏi: "Sao lại không?"
 
 "Ồ? Bọn chúng chuộng chất lượng hơn số lượng à?" Augurey hỏi, giọng vẫn còn vẻ tiu nghỉu.
 
-"Có thể lắm. Và bọn chúng dùng mật danh. Mật danh của Yattul là 'Goblin'. Đi cùng bác ta là một phụ nữ và một tên đặc vụ khác nghe giọng như một ông lão. Người phụ nữ được gọi là 'Siren', nhưng tôi không nghe thấy mật danh của lão già kia."
+"Có thể lắm. Và bọn chúng dùng mật danh. Mật danh của Yattul là 'Goblin'. Đi cùng bác ta là một phụ nữ và một tên điệp viên khác nghe giọng như một ông lão. Người phụ nữ được gọi là 'Siren', nhưng tôi không nghe thấy mật danh của lão già kia."
 
 Augurey dường như lấy lại được chút tinh thần. "'Goblin' ư? Hôm qua tôi đã thấy lạ khi chúng ta chạm trán lũ Hobgoblin rồi. Chẳng lẽ là do Yattul giở trò?"
 
-Ma vật hiếm khi xuất hiện trên các cung đường lữ hành, nhất là những loài tương đối thông minh như Hobgoblin. Lẽ tự nhiên chúng tôi phỏng đoán biến số ở đây chính là Yattul. Nếu bầy Hobgoblin không phải bị dụ tới đó, hẳn chúng phải bị quái vật khác đuổi chạy dạt khỏi tổ của mình hoặc điều gì đó tương tự. Và nếu rơi vào trường hợp ấy, lũ Hobgoblin ắt đã phải chịu thương tích nào đó. Thế nhưng những con chúng tôi chạm trán dẫu có lấm lem chút bùn đất thì trước thời điểm tấn công chúng tôi, rõ ràng chúng hoàn toàn lành lặn.
+Quái vật hiếm khi xuất hiện trên các cung đường lữ hành, nhất là những loài tương đối thông minh như Hobgoblin. Lẽ tự nhiên chúng tôi phỏng đoán biến số ở đây chính là Yattul. Nếu bầy Hobgoblin không phải bị dụ tới đó, hẳn chúng phải bị quái vật khác đuổi chạy dạt khỏi tổ của mình hoặc điều gì đó tương tự. Và nếu rơi vào trường hợp ấy, lũ Hobgoblin ắt đã phải chịu thương tích nào đó. Thế nhưng những con chúng tôi chạm trán dẫu có lấm lem chút bùn đất thì trước thời điểm tấn công chúng tôi, rõ ràng chúng hoàn toàn lành lặn.
 
 "Nhiều khả năng đúng là do bác ta," Lorraine đáp. "Bác ta đã bằng cách nào đó dụ chúng ra khỏi tổ hoặc triệu hồi chúng tới đây. Việc này cũng có thể do một trong hai tên đồng mưu thực hiện, nhưng hoàn toàn khả thi nếu bất kỳ ai trong số chúng là người thuần hóa quái vật."
 

@@ -10,13 +10,13 @@ Sau khi Lorraine miêu tả xong tình trạng của Yattul, tôi đã xác đ�
 
 "Được rồi. Cảm ơn anh," Lorraine nói. "Chắc dạo này bận rộn quá nên mắt tôi cứ díp lại rồi. Chúc anh ngủ ngon."
 
-"Vậy tôi cũng ngủ đây," Augurey nói thêm. "Có biến gì thì gọi tôi dậy nhé. Có thể tôi sẽ tự tỉnh giấc, nhưng cũng có khả năng là không đâu." Gã nhún vai, rồi tìm một cành cây vừa vặn để kê đầu làm gối và ngả lưng nằm xuống.
+"Vậy tôi cũng ngủ đây," Augurey nói thêm. "Có biến gì thì gọi tôi dậy nhé. Có thể tôi sẽ tự tỉnh giấc, nhưng cũng có khả năng là không đâu." Anh ta nhún vai, rồi tìm một cành cây vừa vặn để kê đầu làm gối và ngả lưng nằm xuống.
 
 Người cuối cùng còn thức, Yattul, dường như cũng đang gà gật.
 
 "Bác cũng đi ngủ đi, bác Yattul."
 
-"Không được đâu, để ông chủ phải làm thế thì tôi áy náy lắm. Lẽ ra tôi mới là người phải gác đêm mới phải..."
+"Không được đâu, để ông chủ phải làm thế thì tôi áy náy lắm. Lẽ ra tôi mới là người phải gác đêm..."
 
 Bác ta rõ ràng vẫn đang tự trách bản thân và cố gắng gượng thức vì tinh thần trách nhiệm. Tôi không nghĩ bác ta tính thức suốt cả đêm, nhưng bác ta muốn các hành khách của mình được nghỉ ngơi trước. Về phần tôi, tôi có thể trụ vững vài ngày, thậm chí cả tuần mà không cần ngủ—đây là một trong những lợi thế lớn nhất của việc biến thành quái vật. Mặt khác, có lẽ tôi đã đánh mất nhiều cơ hội để tìm thấy sự thanh thản và nghỉ ngơi trong cuộc đời này, nhưng xét việc mình là một mạo hiểm giả thì mối lợi này vẫn vượt trội hơn hẳn so với những mặt bất lợi.
 
@@ -42,19 +42,19 @@ Hơn nữa, gã cũng nắm được rằng chức nghiệp chính của Lorrain
 
 Bản thân Goblin sở hữu thực lực ngang ngửa với một mạo hiểm giả Ngân Cấp, và trước đây gã đã từng thủ tiêu không ít mạo hiểm giả ở cấp bậc đó, vì vậy dù nghĩ nhiệm vụ này sẽ gian nan, nó cũng chẳng vượt quá khả năng của gã. Gã cũng không hề có ý định đánh giá thấp bộ ba kia và đã chuẩn bị kỹ lưỡng mọi bề để đảm bảo những mục tiêu của mình sẽ bị xóa sổ không để lại chút dấu vết.
 
-Về mật danh của Goblin, nó bắt nguồn từ một năng lực đặc biệt mà gã sở hữu. Ngoại hình của gã cũng có phần giống một con goblin—gã thấp bé và toát ra một vẻ hoang dã phảng phất—nhưng cái tên này xuất phát từ việc gã đã có khả năng chỉ huy goblin và hobgoblin ngay từ khi mới lọt lòng. Năng lực của gã tương tự như một người thuần hóa quái vật, chỉ khác là gã đã có nó từ lúc còn là đứa trẻ sơ sinh. Gã nghe cha mẹ kể lại rằng họ suýt nữa đã đứng tim vì kinh hãi khi một con goblin tiến lại gần đứa bé đang bị bỏ mặc và bắt đầu chăm sóc nó, dẫu bản thân gã chẳng còn ký ức nào về chuyện đó.
+Về mật danh của Goblin, nó bắt nguồn từ một năng lực đặc biệt mà gã sở hữu. Ngoại hình của gã cũng có phần giống một con Goblin—gã thấp bé và toát ra một vẻ hoang dã phảng phất—nhưng cái tên này xuất phát từ việc gã đã có khả năng chỉ huy Goblin và Hobgoblin ngay từ khi mới lọt lòng. Năng lực của gã tương tự như một người thuần hóa quái vật, chỉ khác là gã đã có nó từ lúc còn là đứa trẻ sơ sinh. Gã nghe cha mẹ kể lại rằng họ suýt nữa đã đứng tim vì kinh hãi khi một con Goblin tiến lại gần đứa bé đang bị bỏ mặc và bắt đầu chăm sóc nó, dẫu bản thân gã chẳng còn ký ức nào về chuyện đó.
 
 Năng lực của gã là điều vô cùng dị thường ở ngôi làng nhỏ nơi gã sinh ra, và tin tức về chuyện đó nhanh chóng lan truyền khắp nơi. Một ngày nọ, có một người từ vương đô tìm đến và muốn nhận nuôi gã. Để đền bù, cha mẹ gã đã nhận một món tiền khổng lồ, còn gã thì được đưa tới vương đô để lớn lên trong một môi trường lý tưởng.
 
-Ban đầu gã chỉ có thể khiến một con goblin duy nhất lắng nghe mệnh lệnh của mình, nhưng quá trình huấn luyện tại mái nhà mới đã giúp gã phát triển năng lực đến mức hiện giờ gã có thể kiểm soát cả tá hobgoblin đã tiến hóa. Đúng vậy, vụ quái vật tấn công không hề là sự ngẫu nhiên; Goblin đã dàn dựng chuyện đó bằng năng lực đặc biệt của mình. Gã cũng được huấn luyện nhiều kỹ năng và kỹ thuật chiến đấu cần thiết của một điệp viên, song song với việc trui rèn khả năng kháng các loại độc dược và độc chất khác nhau.
+Ban đầu gã chỉ có thể khiến một con Goblin duy nhất lắng nghe mệnh lệnh của mình, nhưng quá trình huấn luyện tại mái nhà mới đã giúp gã phát triển năng lực đến mức hiện giờ gã có thể kiểm soát cả tá Hobgoblin đã tiến hóa. Đúng vậy, vụ quái vật tấn công không hề là sự ngẫu nhiên; Goblin đã dàn dựng chuyện đó bằng năng lực đặc biệt của mình. Gã cũng được huấn luyện nhiều kỹ năng và kỹ thuật chiến đấu cần thiết của một điệp viên, song song với việc trui rèn khả năng kháng các loại độc dược và độc chất khác nhau.
 
-Dù vậy, gã cũng không kỳ vọng vỏn vẹn một tá hobgoblin ít ỏi có thể hạ gục được hai mạo hiểm giả Ngân Cấp. Gã ra lệnh cho chúng tấn công tổ đội chỉ nhằm thăm dò thực lực của bộ ba. Cho dù đã có tình báo sơ bộ về năng lực tiềm tàng của họ, Goblin từ kinh nghiệm thực tế vẫn biết rằng đôi mắt của chính mình mới là nguồn tình báo đáng tin cậy nhất. Gã từng chứng kiến không ít điệp viên thất bại thảm hại chỉ vì quá dựa dẫm vào những thông tin được cung cấp từ trước.
+Dù vậy, gã cũng không kỳ vọng vỏn vẹn một tá Hobgoblin ít ỏi có thể hạ gục được hai mạo hiểm giả Ngân Cấp. Gã ra lệnh cho chúng tấn công tổ đội chỉ nhằm thăm dò thực lực của bộ ba. Cho dù đã có tình báo sơ bộ về năng lực tiềm tàng của họ, Goblin từ kinh nghiệm thực tế vẫn biết rằng đôi mắt của chính mình mới là nguồn tình báo đáng tin cậy nhất. Gã từng chứng kiến không ít điệp viên thất bại thảm hại chỉ vì quá dựa dẫm vào những thông tin được cung cấp từ trước.
 
-Đó là lý do gã thả bầy hobgoblin ập vào bọn họ, và kết quả của cuộc tấn công đó đã chứng minh niềm tin của Goblin vào đôi mắt của chính mình là hoàn toàn có cơ sở. Ngay cả ba mạo hiểm giả Ngân Cấp cũng phải mất một khoảng thời gian mới giải quyết xong cả tá hobgoblin, thế nhưng bộ ba này đã tiêu diệt chúng một cách dễ dàng, thậm chí còn có thừa thời gian để thu hoạch Ma Tinh từ xác của chúng.
+Đó là lý do gã thả bầy Hobgoblin ập vào bọn họ, và kết quả của cuộc tấn công đó đã chứng minh niềm tin của Goblin vào đôi mắt của chính mình là hoàn toàn có cơ sở. Ngay cả ba mạo hiểm giả Ngân Cấp cũng phải mất một khoảng thời gian mới giải quyết xong cả tá Hobgoblin, thế nhưng bộ ba này đã tiêu diệt chúng một cách dễ dàng, thậm chí còn có thừa thời gian để thu hoạch Ma Tinh từ xác của chúng.
 
 Dù gã vẫn cảm thấy mình đủ sức đối đầu với họ trong một trận chiến trực diện, gã vẫn cần phải đảm bảo hoàn thành nhiệm vụ được giao. Gã quyết định chọn một phương thức xảo quyệt hơn nhưng chắc ăn hơn—đưa những mạo hiểm giả đó vào trạng thái không còn khả năng kháng cự rồi mới ra tay kết liễu. May mắn thay, gã đã chủ động đi nhầm đường và thu xếp ổn thỏa để hạ trại qua đêm bên đường. Gã cũng đã chuẩn bị sẵn khẩu phần lương khô tẩm đầy thuốc ngủ. Đó lại là một loại thuốc ngủ cực mạnh, đủ sức đánh gục một con quái vật có kích thước gấp năm lần con người.
 
-Goblin từng dự tính cho các mạo hiểm giả ăn số lương khô đó, chuốc cho họ ngủ say rồi mới ra tay hạ sát—hay đúng hơn là để lũ goblin giết họ—nhưng ngay cả kế hoạch đó cũng đi chệch hướng. Một kẻ trong số họ đã chuẩn bị chu đáo đến kỳ lạ, lôi cả dụng cụ nấu nướng từ một chiếc túi ma thuật ra và nấu một nồi món hầm. Thế nhưng Goblin là kẻ rất kiên trì bám đuổi, và gã đã lén bỏ phần thuốc ngủ dự phòng của mình vào trong nồi. Những mạo hiểm giả đó đã ăn món hầm, và hai kẻ Ngân Cấp đã lăn ra ngủ say như chết.
+Goblin từng dự tính cho các mạo hiểm giả ăn số lương khô đó, chuốc cho họ ngủ say rồi mới ra tay hạ sát—hay đúng hơn là để lũ Goblin giết họ—nhưng ngay cả kế hoạch đó cũng đi chệch hướng. Một kẻ trong số họ đã chuẩn bị chu đáo đến kỳ lạ, lôi cả dụng cụ nấu nướng từ một chiếc túi ma thuật ra và nấu một nồi món hầm. Thế nhưng Goblin là kẻ rất kiên trì bám đuổi, và gã đã lén bỏ phần thuốc ngủ dự phòng của mình vào trong nồi. Những mạo hiểm giả đó đã ăn món hầm, và hai kẻ Ngân Cấp đã lăn ra ngủ say như chết.
 
 Không may là thuốc lại mất nhiều thời gian mới phát huy tác dụng lên gã Đồng Cấp. Có lẽ gã đã quá vội vàng nên không bỏ đủ liều lượng. Dù vậy, đó cũng chỉ là vấn đề thời gian. Rõ ràng là tên kia rốt cuộc rồi cũng sẽ ngủ thiếp đi thôi, và khi đó Goblin sẽ thủ tiêu gọn ghẽ cả ba mạo hiểm giả.
 
