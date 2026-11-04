@@ -1,6 +1,6 @@
 # Chương 66: Tập 3 Chương 2 - Và Một Ủy Thác Kỳ Lạ Không Kém (6)
 
-"...Có vẻ như. Chỗ này chẳng có gì ngoài... đống linh kiện phế thải trong. Góc phòng này," tôi lẩm bẩm một mình khi tiếp tục rảo quanh tầng hầm của gia tộc Latuule.
+"...Có vẻ như. Chỗ này chẳng có gì ngoài... đống linh kiện phế thải trong. Góc phòng này," tôi lẩm bẩm một mình khi tiếp tục rảo quanh tầng hầm của Gia tộc Latuule.
 
 Dừng lại nơi góc phòng, thấy mấy món đồ nằm lăn lóc, tôi tò mò muốn biết công dụng nên đưa tay sờ thử. Laura lập tức cuống cuồng tìm cách cản tôi lại.
 
@@ -70,7 +70,7 @@ Dù từng mong bản chất Undead sẽ phát huy tác dụng trong trận này
 
 Đâu chỉ có nắm đấm với thân hình hộ pháp của nó, tôi còn khối thứ phải lo. Sơ sẩy một cái là bị nó giẫm bẹp dí ngay. Đã thế, giờ nó còn nổ cả súng lẫn pháo ma thuật, nã đủ thứ ma pháp về phía tôi.
 
-May là mấy món ma cụ đó không phải hàng chế tác tinh xảo gì cho cam, không độ chính xác tệ hại thì uy lực cũng chẳng ra sao. Dù vậy, nếu chẳng may trúng phải một đòn đủ mạnh vào mục tiêu cỡ con người như tôi thì vẫn mất mạng như chơi. Tôi tuyệt đối không thể lơ là.
+May là mấy món ma cụ đó không phải hàng chế tác tinh xảo gì cho cam, không độ chính xác tệ hại thì uy lực cũng chẳng ra sao. Dù vậy, chỉ cần một đòn trong số đó bắn trúng mục tiêu cỡ con người như tôi thì vẫn mất mạng như chơi. Tôi tuyệt đối không thể lơ là.
 
 "...Khốn. Thật. Có... cách nào..."
 
@@ -126,9 +126,9 @@ Nắm đấm của con Golem từ từ giáng xuống. Tôi giơ kiếm lên, s�
 
 "DỪNG LẠI!"
 
-Tiếng hét của Laura vừa vang khắp tầng hầm, con Golem liền khựng lại như hóa đá tại chỗ. Ngay sau đó, nó ngừng bặt mọi cử động. Cùng lúc, lớp màn chắn ma pháp quanh tôi biến mất, còn con Golem vì không giữ nổi hình hài đã đổ sụp thành một đống đồ đạc kỳ quặc, bụi mù và đất đá.
+Tiếng hét của Laura vừa vang khắp tầng hầm, con Golem liền khựng lại như hóa đá tại chỗ. Ngay khoảnh khắc tiếp theo, nó ngừng bặt mọi cử động. Cùng lúc, lớp màn chắn ma pháp quanh tôi biến mất, còn con Golem vì không giữ nổi hình hài đã đổ sụp thành một đống đồ đạc kỳ quặc, bụi mù và đất đá.
 
-Xem chừng vẫn vừa kịp lúc.
+Xem chừng chúng tôi đã kịp lúc.
 
 Gần như tức thì, Laura và Isaac rảo bước lại chỗ tôi, rồi Laura đứng ngay trước mặt.
 

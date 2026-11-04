@@ -54,7 +54,7 @@ Người gác cổng chỉ mỉm cười đáp lại.
 
 Có vẻ như người gác cổng đang ngầm mách nước điều gì... Như nhận ra suy nghĩ đó của tôi, anh ta vẫn giữ nguyên nét mặt mà nói tiếp.
 
-"Hồi trước tôi cũng từng thử sức với mê cung này đấy, thưa ngài. Bình thường nếu không có khách hẹn trước thì cổng luôn đóng kín, nhưng dạo đó lại mở toang. Chẳng là tôi tình cờ thấy tờ thông báo rằng ai vượt qua mê cung sẽ được thưởng một món ma cụ. Trên đó có vẽ sẵn bản đồ tới dinh thự, nhờ thế tôi mới tìm đến tận cánh cổng này."
+"Hồi trước tôi cũng từng thử sức với mê cung này đấy, thưa ngài. Bình thường nếu không có khách hẹn trước thì cổng luôn đóng kín, nhưng dạo đó lại mở toang. Chẳng là tôi tình cờ thấy tờ cáo thị bảo rằng ai vượt qua mê cung sẽ được thưởng một món ma cụ. Trên đó có vẽ sẵn bản đồ tới dinh thự, nhờ thế tôi mới tìm đến tận cánh cổng này."
 
 Xem ra người nhà Latuule tính khí khá tùy hứng, lại còn thích bày trò tiêu khiển.
 
@@ -62,7 +62,7 @@ Với một gia tộc lâu đời giàu nứt đố đổ vách, việc họ cao
 
 Trường hợp này chắc cũng vậy.
 
-"Dĩ nhiên," người gác cổng kể tiếp, "đâu chỉ mình tôi thấy thông báo đó. Không ít người đã tìm tới tận cánh cổng này, ai nấy đều chung một mục đích. Nhiều người bước vào rồi cũng ngần ấy người bị lạc, loanh quanh một hồi lại thấy mình đứng ở đây. Họ mất phương hướng giữa mê cung, rồi chẳng bao lâu sau, mê cung tự chuyển dịch mở ra một lối dẫn ngược về cổng vào. Lúc mới nghe tôi cũng ngạc nhiên lắm, nhưng nghĩ bụng ma cụ chắc làm được chuyện đó. Dù ngỡ là bất khả thi, nhưng biết mê cung sẽ tự dẫn người lạc về lại cổng khiến tôi an tâm hơn hẳn, thế là tôi đánh liều bước vào lần nữa..."
+"Dĩ nhiên," người gác cổng kể tiếp, "đâu chỉ mình tôi thấy tờ cáo thị đó. Không ít người đã tìm tới tận cánh cổng này, ai nấy đều chung một mục đích. Nhiều người bước vào rồi cũng ngần ấy người bị lạc, loanh quanh một hồi lại thấy mình đứng ở đây. Họ mất phương hướng giữa mê cung, rồi chẳng bao lâu sau, mê cung tự chuyển dịch mở ra một lối dẫn ngược về cổng vào. Lúc mới nghe tôi cũng ngạc nhiên lắm, nhưng nghĩ bụng ma cụ chắc làm được chuyện đó. Dù ngỡ là bất khả thi, nhưng biết mê cung sẽ tự dẫn người lạc về lại cổng khiến tôi an tâm hơn hẳn, thế là tôi đánh liều bước vào lần nữa..."
 
 "Và anh đã tới... đích."
 
@@ -116,7 +116,7 @@ Lẽ nào thật sự chẳng còn cách nào sao?
 
 Dòng suy nghĩ của tôi bị cắt ngang khi cảnh vật trước mắt bỗng mở ra một khoảng không gian khác.
 
-"Ở đâu... Cái gì thế? Nơi này là đâu...?"
+"Ở đâu... cái gì thế? Nơi này là đâu...?"
 
 Tôi lại thấy mình bị hàng rào vây kín trên một con đường thoạt nhìn chẳng khác mấy những lối tôi vừa đi qua. Có điều, khoảng không trước mắt lại bừng sáng, và trên những hàng rào vốn chỉ toàn cành lá trơ trụi lúc trước giờ lại rực rỡ hoa hồng. Từ nãy tới giờ, mọi hàng rào tôi đi qua chỉ tuyền một màu xanh buồn tẻ. Thảng hoặc cũng có vài đóa hồng hé nở, nhưng mỗi bông một màu và mọc rải rác lộn xộn, trông giống hiện tượng tự nhiên hơn là do con người chăm sóc.
 
@@ -130,7 +130,7 @@ Ra vậy. Thấy tôi lạc đường nên chắc người của Gia tộc Latuu
 
 Cô bé ngồi đó, ánh mắt xa xăm hướng về phía tôi trong bộ váy đen bèo nhún rườm rà trông chẳng tiện hoạt động chút nào. Làn da trắng muốt của cô bé tương phản rõ rệt với đôi mắt màu xanh lam.
 
-Trông cô bé thật sự có phần... ốm yếu. Quanh người cô bé toát lên vẻ mong manh, hao gầy; phải chăng là do dòng dõi quý tộc?
+Trông cô bé thật sự có phần... ốm yếu. Quanh người cô bé toát lên vẻ mong manh, uể oải suy nhược; phải chăng là hệ quả từ huyết thống quý tộc?
 
 ![](images/ch062-01.webp)
 
@@ -164,7 +164,7 @@ Ngay cả trong cái thị trường cạnh tranh gay gắt ấy, trà cụ ma p
 
 Tôi chỉ có thể tưởng tượng cảnh người ta tranh nhau đấu giá một món trà cụ ma pháp tuyệt vời đến cỡ này...
 
-Tôi từng đi xem vài buổi đấu giá cho biết, nhưng mấy chiếc ấm trà hiếm hoi từng thấy cũng chỉ giữ ấm trà bên trong mãi mãi, hay ngăn không cho cặn lá lọt vào tách khi rót. Tôi cũng nhớ có chiếc ấm đặc biệt bền, hầu như không thể vỡ.
+Tôi từng đi xem vài buổi đấu giá hồi còn sống, nhưng mấy chiếc ấm trà hiếm hoi từng thấy cũng chỉ giữ ấm trà bên trong mãi mãi, hay ngăn không cho cặn lá lọt vào tách khi rót. Tôi cũng nhớ có chiếc ấm đặc biệt bền, hầu như không thể vỡ.
 
 So với chiếc ấm này thì...
 

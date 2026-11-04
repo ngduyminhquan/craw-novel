@@ -8,7 +8,7 @@ Chỉ là cô bé đâu biết câu vừa rồi của tôi thực ra ám chỉ �
 
 Giấu đi nỗi ngượng ngùng sau vụ đó, tôi đáp lại Alize bằng giọng đều đều.
 
-"Phải. Đây... Tự mình... Xem đi."
+"Phải. Đây... tự mình. Xem đi."
 
 Tôi rút một cành hoa từ chiếc túi ma cụ rồi đặt đóa Hoa Long Huyết xuống chiếc bàn gỗ ọp ẹp kê giữa hai người. Tôi cẩn thận trải sẵn một mảnh vải lót vì sợ làm bẩn bàn, dẫu cái bàn vốn đã cũ mòn, sờn rách. Giờ thì đóa hoa nằm ngay ngắn trên tấm vải, cả rễ lẫn cành đều được bọc kỹ.
 
@@ -22,11 +22,11 @@ Nhưng đúng như Alize nói, Hoa Long Huyết quả thực rất đẹp. Cánh
 
 Nét hài hòa mộc mạc mà gần như kỳ diệu ấy có lẽ là lý do loài hoa này được chuộng trong các dịp cầu hôn đến thế. Còn nếu chẳng có ai để cầu hôn, người ta vẫn có thể ngắm nhìn vẻ đẹp tự nhiên của nó, tôi đoán vậy.
 
-"Thế này... Được chưa...?"
+"Thế này được chưa...?"
 
 "Em cũng chẳng biết nói sao nữa," Alize như vẫn còn đang mải nghĩ ngợi, mãi mới ngước lên nhìn tôi đáp. "Em không biết đây có phải Hoa Long Huyết thật không... Á. Ý em không phải là nghi ngờ anh đâu! Chỉ là... em chịu không nhìn ra! Cái này vượt quá hiểu biết của em rồi."
 
-"Không phải em bảo... Có người bạn... Làm dược sư với thầy trị liệu sao? Họ sẽ bào chế... Thuốc cho Sơ Lillian mà."
+"Không phải em bảo... có người bạn... làm dược sư, thầy trị liệu sao? Họ sẽ bào chế... thuốc cho Sơ Lillian mà."
 
 "Vâng, đúng rồi. Để em đi gọi cả hai người đến ngay. Anh phải đợi một lát đấy—thế có được không anh?" Alize hỏi, rõ là muốn chạy đi tìm người thầy trị liệu và dược sư đó về ngay.
 
@@ -98,7 +98,7 @@ Người đứng trước mặt tôi lúc này không ai khác chính là Unbert
 
 Unbert là một người đàn ông trung niên cao gầy, còn Norman trẻ hơn hẳn, một thanh niên đẫy đà trạc cuối đôi mươi. Nhìn phong thái và nụ cười thân thiện của hai người, tôi hiểu họ có mối quan hệ gắn bó với cô nhi viện.
 
-"Thế sao...? Dù gì thì... Chỉ mạo hiểm giả cấp cao. Mới dám khám phá Đầm Lầy... Tarasque. Người ta hẳn sẽ nghĩ họ... Chí ít cũng phải biết. Cách hái và bảo quản... Hoa Long Huyết chứ."
+"Thế sao...? Dù gì thì... chỉ mạo hiểm giả cấp cao. Mới dám khám phá Đầm Lầy... Tarasque. Người ta hẳn sẽ nghĩ họ... chí ít cũng phải biết. Cách hái và bảo quản... Hoa Long Huyết chứ."
 
 Tay nghề mạo hiểm giả đúng là tăng tỉ lệ thuận với cấp bậc. Những người xếp hạng cao thường có sức mạnh vượt trội hơn, đồng thời trên đường hành nghề họ cũng học thêm vài kỹ năng khác, như mổ xẻ hay hái thảo dược. Tất nhiên, người ta cũng bắt buộc phải học phép tắc xã giao trong làm ăn và hiểu biết chung về việc đời. Dù không ai đòi hỏi mạo hiểm giả phải nắm lượng kiến thức nhiều như dân chuyên nghiệp, nhưng càng leo lên cấp cao, chí ít họ cũng phải tiếp tục học hỏi và trau dồi các kỹ năng cốt lõi của mình.
 
@@ -112,13 +112,13 @@ Lời Norman nói cũng đúng. Rất ít mạo hiểm giả sẵn lòng nán l�
 
 Mạo hiểm giả và người thuê thường ở vị thế ngang hàng, nên người thuê phải đưa ra thù lao xứng đáng mới mời được một mạo hiểm giả đủ năng lực bước vào đầm lầy. Vì có nhiều yếu tố phức tạp, mạo hiểm giả thường nắm thế thượng phong khi thương lượng chuyện này. Tuy nhiên ở phần lớn trường hợp khác, mọi chuyện lại ngược lại. Quan hệ cân bằng giữa người thuê và mạo hiểm giả nghe thì lý tưởng đấy, nhưng thực tế lại rất khác.
 
-"Tôi mừng là... Mọi chuyện suôn sẻ."
+"Tôi mừng là... mọi chuyện suôn sẻ."
 
 "Đương nhiên là suôn sẻ rồi chứ!" Norman hào hứng đáp.
 
 "Có đóa Hoa Long Huyết được bảo quản hoàn hảo thế này thì chuyện chế thuốc chữa Bệnh Tích Tụ Chướng Khí dễ dàng thôi! Nhờ hoa còn nguyên vẹn hoàn hảo nên tôi chế biến cũng thuận lợi hơn nhiều. Thậm chí tôi còn có thể làm thêm nhiều loại thuốc khác nữa. Giá mà chúng ta có thêm Hoa Long Huyết thì tốt biết mấy..." Norman nói, như thể hiểu rằng chỉ riêng việc có được một bông hoa thôi đã là may mắn lắm rồi.
 
-"Các anh... Cần bao nhiêu?"
+"Các anh... cần bao nhiêu?"
 
 "Hở...? Hừm. Để xem nào. Chà, thêm chừng ba bốn cành nữa thì tuyệt nhất. Tôi sẽ chia đều dịch chiết ra, làm thêm nhiều loại thuốc khác để chữa cho người bệnh!" Norman nói, như đang lẩm bẩm với chính mình hơn là nói với ai khác.
 
@@ -136,7 +136,7 @@ Dù vậy... Nghĩ tới cảnh vị bác sĩ tự bỏ tiền túi ra giúp ng�
 
 Tôi thò tay vào chiếc túi ma thuật, quyết định góp thêm vài bông hoa từ chỗ dự trữ của mình. Thêm vài cành hoa cũng chẳng phải mất mát gì lớn, mà lại dùng vào việc tốt.
 
-"Đây... Cầm lấy. Mấy cành này đi."
+"Đây... cầm lấy mấy cành này đi."
 
 Tôi lấy thêm bốn cành Hoa Long Huyết nữa đặt lên bàn. Cả Norman lẫn Unbert đều trợn tròn mắt kinh ngạc trước cảnh đó. Chắc họ không ngờ một mạo hiểm giả đi lẻ lại đủ khả năng tự mình hái được nhiều hoa đến thế.
 
@@ -160,7 +160,7 @@ Dù sao đi nữa, tôi quay sự chú ý lại với hai người làm nghề y
 
 Xem chừng Norman không đủ tiền trả cho chỗ hoa này. Vốn dĩ anh cũng đâu yêu cầu nhiều đến thế, nên vậy cũng dễ hiểu.
 
-"Không." Tôi chậm rãi lắc đầu. "Tôi... Tặng. Chỗ hoa này cho các anh. Miễn phí... Coi như chút lòng cảm kích. Trước ý định... Chính đáng và cao đẹp của các anh. Đừng... Lo. Trong túi... Tôi vẫn còn."
+"Không." Tôi chậm rãi lắc đầu. "Tôi... tặng. Chỗ hoa này cho các anh. Miễn phí... coi như chút lòng cảm kích. Trước ý định chính đáng... và cao đẹp của các anh. Đừng... lo. Trong túi... tôi vẫn còn."
 
 Tôi không muốn Norman phải nợ mình ân huệ nào, bởi tôi chỉ đơn giản muốn làm việc tốt đôi lần mà thôi. Nói cho cùng cũng chỉ để bản thân thấy thoải mái—chẳng hơn, chẳng kém.
 

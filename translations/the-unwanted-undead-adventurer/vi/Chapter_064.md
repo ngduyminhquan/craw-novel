@@ -32,7 +32,7 @@ Một mặt, tôi đã tốn không ít công sức mới tới được đây; 
 
 Nhưng tôi chẳng phải đắn đo lâu, bởi cô bé đã mau chóng đáp lời với nụ cười vẫn thường trực trên môi.
 
-"Ồ, dĩ nhiên rồi. Tôi vốn đã định tặng ngài một món ma cụ trong bộ sưu tập của gia tộc Latuule mà."
+"Ồ, dĩ nhiên rồi. Tôi vốn đã định tặng ngài một món ma cụ trong bộ sưu tập của Gia tộc Latuule mà."
 
 Đúng như tôi dự đoán. Có lẽ giờ tới lượt tôi tinh quái một phen rồi.
 
@@ -58,9 +58,9 @@ Về phần Isaac, anh ta chỉ lặng lẽ bước theo sau. Thấy anh ta gi�
 
 Chủ nhân của Isaac... hay nói đúng hơn là nữ chủ nhân nhỉ?
 
-"À, phải rồi. Tôi suýt chút nữa quên chưa tự giới thiệu. Tôi là đương chủ gia tộc Latuule, Laura Latuule. Rất hân hạnh được gặp ngài."
+"À, phải rồi. Tôi suýt chút nữa quên chưa tự giới thiệu. Tôi là đương chủ Gia tộc Latuule, Laura Latuule. Rất hân hạnh được gặp ngài."
 
-Thế là câu đố đã có lời giải: cô bé này chẳng phải con gái của thành viên nào trong gia tộc Latuule, mà chính cô bé mới là người đứng đầu gia tộc.
+Thế là câu đố đã có lời giải: cô bé này chẳng phải con gái của thành viên nào trong Gia tộc Latuule, mà chính cô bé mới là người đứng đầu gia tộc.
 
 Dù tuổi tác của cô bé làm tôi có phần bất ngờ, nhưng việc kế thừa danh vị gia tộc vốn không hề bị giới hạn tuổi tác như khi đăng ký làm mạo hiểm giả. Chẳng hiếm trường hợp vận mệnh của cả gia tộc được trao trọn vào tay một người thừa kế nhỏ tuổi nhưng có tài, bất kể do tình thế ngặt nghèo hay vì lý do nào khác.
 

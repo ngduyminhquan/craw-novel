@@ -22,11 +22,11 @@ Trong số các ma cụ có một món đặc biệt đồ sộ, to gấp ít nh
 
 Xem ra đám gia nhân nhà Latuule cũng vất vả ra trò...
 
-"Ngài có thể chọn một món ma cụ tùy thích trong căn phòng này," Laura nói tiếp. "Tất cả ma cụ ở đây đều là hàng thượng phẩm, ít ra tôi cũng muốn nói vậy, nhưng quả thật bản thân tôi cũng chẳng dám chắc. Hy vọng ngài có con mắt tinh tường khi nhìn ma cụ, Rentt."
+"Ngài có thể chọn một món ma cụ tùy thích trong căn phòng này," Laura nói tiếp. "Tất cả ma cụ ở đây đều là hàng thượng phẩm, ít ra tôi cũng muốn nói vậy, nhưng quả thật bản thân tôi cũng chẳng dám chắc. Hy vọng ngài có con mắt tinh tường khi nhìn ma cụ, ngài Rentt."
 
 "Ý cô bé... là sao?" tôi hỏi lại Laura.
 
-"Có lẽ ngài cũng đã biết điều này rồi, Rentt, nhưng những món có giá trị thực sự thường bị lẫn với mấy món Kỳ Cụ đơn thuần. Dù sao thì các ma cụ lọt vào mắt xanh của tôi đều được tập hợp trong căn phòng này. Thật khó nói liệu chúng có giá trị thực chất nào không, hay chỉ đơn thuần là mớ phế phẩm. Tuy tôi không ngại việc ngài chọn món mình thích rồi đem đi, nhưng tôi đoán một mạo hiểm giả hẳn sẽ muốn tìm thứ ma cụ nào hữu dụng đôi chút, thế nên tôi mới nhắc trước như vậy."
+"Có lẽ ngài cũng đã biết điều này rồi, ngài Rentt, nhưng những món có giá trị thực sự thường bị lẫn với mấy món Kỳ Cụ đơn thuần. Dù sao thì các ma cụ lọt vào mắt xanh của tôi đều được tập hợp trong căn phòng này. Thật khó nói liệu chúng có giá trị thực chất nào không, hay chỉ đơn thuần là mớ phế phẩm. Tuy tôi không ngại việc ngài chọn món mình thích rồi đem đi, nhưng tôi đoán một mạo hiểm giả hẳn sẽ muốn tìm thứ ma cụ nào hữu dụng đôi chút, thế nên tôi mới nhắc trước như vậy."
 
 "Tôi hiểu rồi..."
 
@@ -50,7 +50,7 @@ Những bộ sưu tập đó tự thân nó cũng có nét thú vị, nhưng ng�
 
 Có điều trong những chuyện thế này, lắm khi chẳng có lý do sâu xa nào cả; người ta thích thì gom về thôi, chấm hết.
 
-Thế nên tôi rất dễ thông cảm cho thói quen sưu tầm ma cụ của gia tộc Latuule, và nếu nhờ thế mà tôi chọn được một món ma cụ quý hiếm có lợi cho mình, thì tôi cũng chẳng có gì phải phàn nàn.
+Thế nên tôi rất dễ thông cảm cho thói quen sưu tầm ma cụ của Gia tộc Latuule, và nếu nhờ thế mà tôi chọn được một món ma cụ quý hiếm có lợi cho mình, thì tôi cũng chẳng có gì phải phàn nàn.
 
 ◆◇◆◇◆
 

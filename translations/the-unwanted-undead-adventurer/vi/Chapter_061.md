@@ -82,7 +82,7 @@ Tôi thừa hiểu Hội chẳng đời nào muốn tôi từ chối dù trong b
 
 Tôi vẫn rất tò mò về Gia tộc Latuule, chí ít là muốn hiểu thêm về dòng họ quyền thế mà Isaac đang phụng sự. Chắc cũng chỉ là hiếu kỳ cá nhân thôi, vả lại Sheila cũng chẳng biết tường tận để nói cho tôi. Tôi nghĩ mình có thể đích thân hỏi thẳng họ, hoặc dò la qua mấy người thạo tin và bạn bè mạo hiểm giả.
 
-Có điều, tôi đã làm mạo hiểm giả ở Maalt tròn mười năm. Dù kỹ năng chiến đấu chẳng có gì nổi trội, tôi vẫn tự thấy mình là kẻ khá thạo tin về vùng đất này.
+Có điều, tôi đã làm mạo hiểm giả ở Maalt tròn mười năm. Dù kỹ năng chiến đấu chẳng có gì nổi trội, tôi vẫn tự thấy mình là kẻ khá thạo tin về thị trấn này.
 
 Thế mà... tôi chưa từng nghe nhắc tới Gia tộc Latuule trước ngày hôm nay. Tôi có biết vài gia tộc lâu đời có thế lực khác, nhưng Latuule lại chẳng nằm trong số đó.
 

@@ -108,7 +108,7 @@ Sau khi trò chuyện thêm vài câu, cuối cùng tôi cũng đứng dậy, c�
 
 "Phải... tôi phải đi rồi. Trò chuyện thế này... rất vui. Đây chỉ là... phỏng đoán thôi. Nhưng tôi có cảm giác chúng ta sẽ sớm... gặp lại nhau, đúng chứ?"
 
-"Ồ?" Cô bé khẽ mỉm cười lấp lửng trước câu hỏi của tôi. "Ngài đã nhận ra rồi sao?"
+"Ồ?" Cô bé mỉm cười gượng gạo trước câu hỏi của tôi. "Ngài đã nhận ra rồi sao?"
 
 Nghe vậy thì rõ ràng cô bé đúng là người của Gia tộc Latuule rồi. Còn về vị trí của cô bé trong gia tộc... tôi vẫn chưa có đủ thông tin trong tay.
 
@@ -174,7 +174,7 @@ Giờ phải làm sao đây...?
 
 Tôi dừng bước, ngẫm nghĩ cách giải quyết bài toán trước mắt. Đúng lúc đó, khóe mắt tôi chợt bắt gặp một hòn đá dưới chân, to cỡ nắm tay. Tôi cúi xuống nhặt lên rồi ném mạnh vào khoảng không gian kỳ lạ như đang vặn xoắn phía trước. Đang bay giữa chừng, hòn đá bỗng biến mất tăm, không để lại chút dấu vết hay tiếng động nào.
 
-"...Không thể nào. Đây là... dịch chuyển tức thời sao?"
+"...Không thể nào. Đây là... Dịch chuyển tức thời sao?"
 
 Dịch chuyển tức thời — chính xác hơn thì đó là một loại ma pháp không gian đặc biệt mà bàn tay con người vẫn chưa thể tái tạo được. Thế nhưng... nếu đây thực sự là một tạo tác không phải do con người làm ra, thì rất có thể lắm.
 

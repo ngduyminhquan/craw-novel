@@ -14,7 +14,7 @@ Có điều dĩ nhiên... thù lao của tôi chỉ vỏn vẹn một đồng xu
 
 "Không đâu... em mới là người phải cảm ơn anh chứ, anh Rentt. Thú thật thì... treo ủy thác lên là một chuyện, chứ em gần như đã hết hy vọng rồi! Ai đời lại đi hái Hoa Long Huyết chỉ vì một đồng xu đồng cơ chứ? Vậy mà... anh lại nhận, rồi còn mang hoa về thật nữa! Em không biết phải cảm ơn anh bao nhiêu cho xuể... Cảm ơn anh, thực sự cảm ơn anh nhiều lắm... Sau này có bất cứ việc gì, bất cứ điều gì cần giúp, anh Rentt cứ bảo bọn em nhé. Em với tụi nhỏ sẽ làm hết sức để giúp anh... Mà thôi, chắc anh chẳng cần bọn em giúp gì đâu nhỉ."
 
-"Đến cả tôi... Thỉnh thoảng. Cũng cần giúp đỡ chứ. Tới lúc đó... Tôi sẽ nhờ... Tới em. Tùy theo tình hình. Với lại... Cũng có vài người khác. Ý tôi là ngoài tôi ra... Từng nghĩ tới chuyện. Nhận ủy thác này đấy. Chỉ là... Nó hơi quá khó. Với đa số mọi người thôi."
+"Đến cả tôi... thỉnh thoảng. Cũng cần giúp đỡ chứ. Tới lúc đó... tôi sẽ nhờ... tới em. Tùy theo tình hình. Với lại... cũng có vài người khác. Ý tôi là ngoài tôi ra... từng nghĩ tới chuyện. Nhận ủy thác này đấy. Chỉ là... nó hơi quá khó. Với đa số mọi người thôi."
 
 Alize nói vậy chẳng qua vì cô bé đã mất niềm tin vào phần lớn mạo hiểm giả, dù tôi không nghĩ cô bé nói thế với bụng dạ ác cảm. Nói đúng hơn thì trong tiềm thức, có lẽ Alize luôn xem đa số mạo hiểm giả là những kẻ ích kỷ và máu lạnh.
 
@@ -30,7 +30,7 @@ Nếu nhớ không lầm, hồi mới gặp Alize khá khép nép và câu nệ;
 
 Mà nghĩ lại, vẫn còn một chuyện nữa...
 
-"Em từng bảo em... Muốn. Trở thành mạo hiểm giả nhỉ...?"
+"Em từng bảo em... muốn. Trở thành mạo hiểm giả nhỉ...?"
 
 "Vâng... Em từng nói bệnh của Sơ Lillian tiến triển rất chậm mà, đúng không? Vậy nên... dù có mất nhiều thời gian, rồi thế nào em cũng làm được—ý em là tự mình vào đầm lầy hái Hoa Long Huyết. Vả lại, nếu làm mạo hiểm giả, em sẽ phụ được tiền sinh hoạt cho cô nhi viện... hay chí ít cũng đỡ đần được phần nào! Nghĩ lại thấy ngốc thật... nhưng lúc đó em đâu nghĩ ra được cách nào khác!"
 
@@ -38,7 +38,7 @@ Nghe thì có vẻ thiếu thực tế, nhưng Bệnh Tích Tụ Chướng Khí 
 
 Ít nhất chuyện đó không phải là bất khả thi. Dù Alize sẽ phải khổ luyện gian nan mới đạt tới trình độ ấy, nhưng với lượng Ma Lực tiềm tàng trong người, biết đâu một ngày nào đó cô bé thực sự có thể bình an ra vào đầm lầy.
 
-"Xem ra... Em đã suy nghĩ. Rất nhiều. Dù rằng... Rốt cuộc. Có vẻ như... Em đã uổng công... Hạ quyết tâm rồi. Giờ em sẽ làm gì... Đây? Em có định từ bỏ... Ý định làm mạo hiểm giả không?" tôi tò mò hỏi.
+"Xem ra... em đã suy nghĩ. Rất nhiều. Dù rằng... rốt cuộc. Có vẻ như... em đã uổng công... hạ quyết tâm rồi. Giờ em sẽ làm gì... đây? Em có định từ bỏ... ý định làm mạo hiểm giả không?" tôi tò mò hỏi.
 
 Alize lắc đầu lia lịa. "Không đâu. Qua chuyện lần này, em lại càng quyết tâm làm mạo hiểm giả hơn bao giờ hết. Đúng là... giờ không cần phải lặn lội vào đầm lầy tìm Hoa Long Huyết nữa thật, nhưng em muốn trở thành mạo hiểm giả giống anh, anh Rentt. Một mạo hiểm giả nhân hậu, tốt bụng, luôn giúp đỡ mọi người!"
 
@@ -46,13 +46,13 @@ Hở? Tôi á...?
 
 Ít nhất đó là ý nghĩ đầu tiên xẹt qua đầu tôi. Nhưng tôi không nói ra.
 
-"Tôi không nghĩ... Mình là một mạo hiểm giả. Vĩ đại như... Em tưởng đâu."
+"Tôi không nghĩ... mình là một mạo hiểm giả. Vĩ đại như... em tưởng đâu."
 
 "Anh nói gì kỳ vậy? Nhờ có anh mà Sơ Lillian mới được cứu mạng đấy chứ! Sơ sắp khỏe lại rồi! Với lại... nhờ có anh mà cô nhi viện cũng sạch sẽ hơn hẳn nữa!"
 
 Sạch hơn ư?
 
-"Ý em... Là sao?"
+"Ý em... là sao?"
 
 "Hở?" Alize có vẻ hơi ngớ người trước câu trả lời của tôi. "Anh không biết thật sao? Đám đàn em của con chuột trên vai anh chạy lăng xăng khắp nơi, diệt sạch sâu bọ với côn trùng trong nhà đấy. Trước đây thỉnh thoảng vẫn thấy gián với mấy con bọ bò lung tung, thế mà đùng một cái bọn em thấy xác chúng chất thành đống! Lúc em lại xem thử thì thấy mấy con Puchi Suri đang đứng từ xa ngó cái đống gián chết đó. Chắc tụi nó lùng sục bắt sạch sâu bọ trong khu nhà cũ kỹ này, rồi vun xác lại một chỗ cho dễ quét dọn. Bọn em ai cũng biết ơn lắm!"
 
@@ -64,13 +64,13 @@ Hóa ra lũ chuột này cũng chẳng vô tư vị tha như tôi tưởng.
 
 Dù sao thì việc chúng làm cũng có lợi cho Alize và lũ trẻ mồ côi—có thể gọi đây là mối quan hệ cộng sinh.
 
-"Tôi chẳng biết gì... Về chuyện đó cả. Nhưng mà... Tôi không thể nhận công. Cho những việc lũ chuột đó... Đã làm được."
+"Tôi chẳng biết gì... về chuyện đó cả. Nhưng mà... tôi không thể nhận công. Cho những việc lũ chuột đó... đã làm được."
 
 "Nhưng nếu không có anh ở đó thì chẳng có gì thay đổi cả!"
 
 Alize quả quyết đến vậy thì đến tôi cũng chẳng biết nói gì để cãi lại câu vừa rồi của cô bé.
 
-"...Được rồi, được rồi. Em muốn nghĩ về tôi thế nào... Thì tùy. Mà nhân tiện... Nếu em thực sự. Vẫn muốn trở thành... Mạo hiểm giả. Em nên bắt đầu rèn luyện... Bản thân đi. Càng sớm càng tốt. Dù em có thể đăng ký... Ở tuổi. Mười lăm. Nhưng nếu không nắm được những điều... Cơ bản. Của nghề mạo hiểm... Em sẽ rất nhanh. Mất mạng đấy."
+"...Được rồi, được rồi. Em muốn nghĩ về tôi thế nào... thì tùy. Mà nhân tiện... nếu em thực sự. Vẫn muốn trở thành... mạo hiểm giả. Em nên bắt đầu rèn luyện... bản thân đi. Càng sớm càng tốt. Dù em có thể đăng ký... ở tuổi. Mười lăm. Nhưng nếu không nắm được những điều... cơ bản. Của nghề mạo hiểm... em sẽ rất nhanh. Mất mạng đấy."
 
 Ai cũng biết trên đời không thiếu những kẻ ngốc vừa rời làng là vội vàng đăng ký làm mạo hiểm giả ngay. Cho nên xét về mọi mặt, đây đúng là một lời khuyên tốt.
 
@@ -78,13 +78,13 @@ Alize gật đầu. "Nhưng em phải rèn luyện bản thân thế nào đây?
 
 Một câu hỏi hợp lý.
 
-"Có nhiều... Cách lắm. Ở Hội có mấy khóa học... Dành cho. Người mới bắt đầu. Nếu có thời gian... Tôi cũng có thể chỉ dạy, cho em nữa."
+"Có nhiều... cách lắm. Ở Hội có mấy khóa học... dành cho. Người mới bắt đầu. Nếu có thời gian... tôi cũng có thể chỉ dạy, cho em nữa."
 
 Chẳng hiểu sao tôi lại buột miệng nói ra câu đó. Dù chưa từng có đệ tử nào, nhưng trước đây tôi từng thay mặt nhân viên Hội đứng lớp dạy chính những bài học vỡ lòng cho người mới như thế. Tôi tự tin bài dạy của mình rất hữu ích, bởi tôi đã truyền đạt những điều căn bản của nghề mạo hiểm—từ kỹ thuật, kiến thức cho đến mọi thứ liên quan—cho rất nhiều tân binh từng bước chân qua sảnh Hội.
 
 Ngoài ra còn một chuyện nữa...
 
-"Vì em có... Trữ lượng. Ma Lực tiềm tàng... Em nên học ma thuật đi. Dù tôi không giúp... Được gì nhiều, ở khoản đó... Nhưng tôi quen một người bạn. Có thể dạy được. Em có... Hứng thú không?"
+"Vì em có... trữ lượng. Ma Lực tiềm tàng... em nên học ma thuật đi. Dù tôi không giúp... được gì nhiều, ở khoản đó... nhưng tôi quen một người bạn. Có thể dạy được. Em có... hứng thú không?"
 
 Người bạn đó không ai khác chính là Lorraine. Cô thường bận rộn với việc nghiên cứu và các công việc học thuật khác, nhưng một khi đã thích thì cũng có thể lười chảy thây. Trong lúc nằm dài trên ghế sofa mà chỉ dạy cho Alize đôi chút ma pháp chắc cũng chẳng thiệt hại gì.
 
@@ -96,15 +96,15 @@ Dĩ nhiên là cô bé không có rồi. Alize vốn là trẻ mồ côi, đến
 
 Đã vậy, đa số pháp sư chịu dạy nghề thường lấy học phí rất đắt đỏ. Ngược lại, Lorraine sẽ chẳng đòi thù lao gì đâu, nên tiền bạc không phải vấn đề.
 
-"Đừng... Lo. Chuyện đó."
+"Đừng... lo. Chuyện đó."
 
 "Thế sao được."
 
-"Tôi đoán... Em sẽ nói thế mà. Vậy thì, tôi có... Một đề xuất này."
+"Tôi đoán... em sẽ nói thế mà. Vậy thì, tôi có... một đề xuất này."
 
 "Hở?"
 
-"Tôi sẽ cho em vay... Tiền học phí. Không tính lãi. Em có thể trả lại tôi... Sau khi. Trở thành mạo hiểm giả. Thấy thế nào... Hả em?"
+"Tôi sẽ cho em vay... tiền học phí. Không tính lãi. Em có thể trả lại tôi... sau khi. Trở thành mạo hiểm giả. Thấy thế nào... hả em?"
 
 Tôi nghĩ làm thế là cách hay nhất; hẳn Alize cũng hiểu được thiện ý của tôi qua cử chỉ này.
 
@@ -116,7 +116,7 @@ Quả nhiên...
 
 Biết tính Alize rồi nên tôi đã đoán trước cô bé sẽ trả lời như thế.
 
-Tôi chậm rãi gật đầu. "Vậy thì... Thống nhất thế nhé."
+Tôi chậm rãi gật đầu. "Vậy thì... thống nhất thế nhé."
 
 Tôi chìa tay ra. Alize nắm lấy, siết thật chặt.
 
@@ -128,7 +128,7 @@ Lúc này tôi đang ngồi bên bàn ăn với Lorraine, sau khi cuối cùng c
 
 Cô hoàn toàn không phải người lười biếng. Mãi sau khi lỡ lời tôi mới nhận ra cách nói của mình khiến cô nghe tệ đến mức nào. May mà Lorraine bỏ qua cho, làm tôi chỉ biết hơi rụt vai lại, thầm nghĩ suýt nữa thì mình đã làm hỏng chuyện tìm thầy dạy ma pháp cho Alize. Hơn bao giờ hết, lúc này tôi thấy mang ơn tấm lòng rộng lượng của Lorraine vô cùng.
 
-"Tôi... Xin lỗi. Ý tôi không phải nói rằng... Cô lúc nào cũng. Rảnh rỗi đâu. Chỉ là thỉnh thoảng... Biết đâu. Cô có thể bớt chút... Thời gian thôi."
+"Tôi... xin lỗi. Ý tôi không phải nói rằng... cô lúc nào cũng. Rảnh rỗi đâu. Chỉ là thỉnh thoảng... biết đâu. Cô có thể bớt chút... thời gian thôi."
 
 Nghe tôi phân trần, nét mặt Lorraine giãn ra, trông có vẻ thích thú hơn là phật ý. Cô phẩy nhẹ tay mấy cái rồi bật cười.
 
@@ -142,7 +142,7 @@ Dù thời còn sống năng lực của tôi khó lòng đủ để gặp gỡ 
 
 Từ nay về sau tôi nên cẩn thận hơn về những chuyện này mới được.
 
-"Cảm ơn cô... Vì lời cảnh báo. Lorraine. Nhưng với vẻ ngoài... Của tôi thế này. Các cô gái trẻ... Dù dễ thương hay không. Cũng khó lòng bị thu hút. Bởi tôi được."
+"Cảm ơn cô... vì lời cảnh báo. Lorraine. Nhưng với vẻ ngoài... của tôi thế này. Các cô gái trẻ... dù dễ thương hay không. Cũng khó lòng bị thu hút. Bởi tôi được."
 
 Ý tôi là bản thân đang khoác chiếc áo chùng đen tuyền cùng chiếc mặt nạ xương xẩu đầy vẻ khả nghi. Làm sao một thiếu nữ ở vùng đất này lại đi thích một kẻ trông kỳ dị như tôi chứ? Với bộ dạng này, chí ít một cô gái bình thường cũng sẽ giữ khoảng cách với tôi.
 
@@ -172,7 +172,7 @@ Tôi lắc đầu, mắt nhìn chằm chằm vào ngón tay cái đó.
 
 Nói rồi, Lorraine bật dậy khỏi ghế, một tay vớ lấy trượng phép, tay kia giơ lên một cuốn ma đạo thư trông rất kỳ dị. Hoảng hốt, tôi vội giơ hai tay lên ra chiều xin lỗi, cuống cuồng tìm cách xoa dịu cô bạn đang nổi trận lôi đình.
 
-"Khoan... Khoan đã! Trẻ! Cô... Trẻ mà! Tiểu thư Lorraine... Là một thiếu nữ! Tính tình dịu dàng, cùng làn da trắng muốt! Lại có... Đường nét thanh tú... Cùng vóc dáng cân đối tuyệt đẹp! Đúng là... Hiện thân! Của Thần Sắc Đẹp... Đến cả các nàng tiên thời xưa... Cũng không thể nào! Sánh kịp! Một đấng thần thánh... Không bao giờ già đi! Có trí tuệ... Sánh ngang! Với chính các Vị Thần tri thức! Vừa có tính tình... Dịu dàng lại vừa... Tinh thông bí thuật! Quý cô Lorraine chính là... Hình mẫu! Của một thiếu nữ cực kỳ đáng yêu!"
+"Khoan... khoan đã! Trẻ! Cô... trẻ mà! Tiểu thư Lorraine... là một thiếu nữ! Tính tình dịu dàng, cùng làn da trắng muốt! Lại có... đường nét thanh tú... cùng vóc dáng cân đối tuyệt đẹp! Đúng là... hiện thân! Của Thần Sắc Đẹp... đến cả các nàng tiên thời xưa... cũng không thể nào! Sánh kịp! Một đấng thần thánh... không bao giờ già đi! Có trí tuệ... sánh ngang! Với chính các Vị Thần tri thức! Vừa có tính tình... dịu dàng lại vừa... tinh thông bí thuật! Quý cô Lorraine chính là... hình mẫu! Của một thiếu nữ cực kỳ đáng yêu!"
 
 Những lúc thế này, tốt nhất là tâng bốc Lorraine tới tấp. Chỉ nghĩ đến việc không nói được ngần ấy lời thôi cũng như khiến tiếng bước chân của Thần Chết vang lên bên tai tôi rõ hơn đôi chút. Để tránh kết cục đó, tôi sẵn sàng vứt bỏ mọi khái niệm về sự xấu hổ, dốc toàn lực vào việc khen ngợi Lorraine.
 
@@ -188,21 +188,21 @@ Hử...? Sao thế nhỉ?
 
 Lorraine có vẻ ngán ngẩm hơn là tức giận. Nói đúng hơn thì tôi không còn cảm nhận thấy cơn giận dữ ngùn ngụt phát ra từ phía cô bạn mình nữa. Nhẹ cả người.
 
-"Ở đâu á...? Không hẳn là... Một chỗ cố định nào. Đi dạo quanh phố... Maalt. Người ta nghe được... Nhiều thứ. Chỗ này chỗ nọ. Người ta cũng thấy mấy câu chữ, kiểu này... Trong các vở kịch. Nữa mà. Chí ít thì... Tôi chỉ nói những gì mình nghĩ thôi."
+"Ở đâu á...? Không hẳn là... một chỗ cố định nào. Đi dạo quanh phố... Maalt. Người ta nghe được... nhiều thứ. Chỗ này chỗ nọ. Người ta cũng thấy mấy câu chữ, kiểu này... trong các vở kịch. Nữa mà. Chí ít thì... tôi chỉ nói những gì mình nghĩ thôi."
 
 "Những gì anh nghĩ ư, Rentt? Gặp phụ nữ nào anh cũng nói những lời này sao?"
 
-Tôi lắc đầu trước một Lorraine đang hết sức ngạc nhiên. "Thì... Đây đâu phải là. Cảnh tượng. Ngày nào người ta cũng bắt gặp, đúng không?"
+Tôi lắc đầu trước một Lorraine đang hết sức ngạc nhiên. "Thì... đây đâu phải là. Cảnh tượng. Ngày nào người ta cũng bắt gặp, đúng không?"
 
 Nói những lời đó với một người điềm tĩnh như Lorraine là một chuyện, chứ bảo tôi thốt ra mấy câu ấy với một cô gái tình cờ đi ngang qua trên phố thì chịu chết. Đời nào tôi nói ra được những lời đó.
 
 "Hừm..." Lorraine dừng lại, thoáng ngẫm nghĩ về điều tôi vừa nói. "Tôi cho là đúng vậy thật. Cho tôi xin lỗi nhé, Rentt; xem ra tôi vừa hỏi anh một câu khá kỳ quặc rồi..."
 
-"Nếu tôi quen với việc... Nói những lời như thế với mọi... Phụ nữ. Tôi gặp. Thì tôi đã chẳng còn... Là mạo hiểm giả nữa, mà chỉ là... Một ông chủ tiệm ở ngôi làng nào đó thôi. Một lối sống... Vô nghĩa. Như thế... Ngay cả một mạo hiểm giả Đồng Cấp... Cũng có thể tự nuôi sống được. Nếu chịu khó làm việc."
+"Nếu tôi quen với việc... nói những lời như thế với mọi... phụ nữ. Tôi gặp. Thì tôi đã chẳng còn... là mạo hiểm giả nữa, mà chỉ là... một ông chủ tiệm ở ngôi làng nào đó thôi. Một lối sống... vô nghĩa. Như thế... ngay cả một mạo hiểm giả Đồng Cấp. Cũng có thể tự nuôi sống được. Nếu chịu khó làm việc."
 
 "Đúng như tôi nghĩ, Rentt. Nghe vậy cũng yên tâm."
 
-"Yên... Tâm ư?" Khó hiểu, tôi nghiêng đầu nhìn Lorraine.
+"Yên... tâm ư?" Khó hiểu, tôi nghiêng đầu nhìn Lorraine.
 
 "À... Chuyện đó ấy mà. Chẳng qua tôi thấy nhẹ nhõm vì ít nhất anh không phải là một con dã thú háo sắc thôi."
 
@@ -210,7 +210,7 @@ Lorraine nói một câu nghe thật chẳng nể nang gì. Nhưng nghĩ lại t
 
 Đường nét thanh tú cùng vóc dáng cân đối tuyệt đẹp... Đúng là những từ ngữ nghe có vẻ háo sắc thật. Không hiểu sao tôi thấy mình nên xin lỗi Lorraine vì màn khen ngợi vụng về vừa rồi.
 
-"Thì... Tôi thật lòng. Xin lỗi. Tôi không có ý... Như thế đâu."
+"Thì... tôi thật lòng. Xin lỗi. Tôi không có ý... như thế đâu."
 
 "Tôi hiểu chừng đó mà, Rentt. Phải đấy, anh nên cẩn thận khi tiếp xúc với những cô gái trẻ khác... Dù sao thì, anh có muốn ăn thêm chút gì không, Rentt? Bát của anh hết sạch rồi kìa."
 

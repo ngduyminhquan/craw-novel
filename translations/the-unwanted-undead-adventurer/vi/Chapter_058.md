@@ -62,7 +62,7 @@ Nhưng tôi thì chẳng muốn gây chú ý.
 
 Dù từng thu hút vài ánh nhìn khi thăng lên Đồng Cấp chỉ một thời gian ngắn sau khi đăng ký làm mạo hiểm giả, nhưng mạo hiểm giả Đồng Cấp chẳng có gì hiếm hoi. Chỉ cần có thực lực thì ai cũng dễ dàng lên Đồng Cấp nhanh như tôi thôi.
 
-Đáp lại câu hỏi của Dario, tôi chỉ vào chiếc túi ma pháp bên thắt lưng đồ nghề. "Nó... Ở trong chiếc túi này. Tôi có nên... Dỡ cái xác ra đây không?"
+Đáp lại câu hỏi của Dario, tôi chỉ vào chiếc túi ma thuật bên thắt lưng đồ nghề. "Nó... ở trong chiếc túi này. Tôi có nên... dỡ cái xác ra đây không?"
 
 "Không." Dario lắc đầu. "Thế không ổn đâu. Nếu thật sự là Tarasque thì càng không. Đi theo tôi."
 
@@ -100,13 +100,13 @@ Lời giải thích của Dario rất dễ hiểu. Tôi thì miễn nhiễm vớ
 
 Nhưng dĩ nhiên, phần lớn thợ rèn giáp đều chuộng một chiếc mai còn nguyên vẹn hơn. Nói cách khác...
 
-"Vậy thứ này... Đáng giá. Rất nhiều sao?"
+"Vậy thứ này... đáng giá. Rất nhiều sao?"
 
 Dario gật đầu. "Nhìn xem nó thế nào cơ chứ? Đương nhiên là đáng bộn tiền rồi! Có điều... xẻ con này mất khá nhiều thời gian nên sẽ tính chút phí. Nhưng kể cả vậy thì chỗ này vẫn đáng cả đống tiền đấy. Phần cổ cũng còn tốt. Vết thương duy nhất chỉ có chỗ cổ bị chém thôi. Các tuyến độc xem chừng vẫn nguyên vẹn... Đã lâu lắm rồi, cậu biết đấy, tôi mới được thấy một xác Tarasque nguyên vẹn đến mức này."
 
 Xem chừng Dario đã hoàn toàn công nhận giá trị của cái xác này.
 
-"Tôi hiểu rồi... Nếu vậy. Tôi muốn... Ủy thác cho chú. Việc đem bán... Chiếc mai này."
+"Tôi hiểu rồi... Nếu vậy. Tôi muốn... ủy thác cho chú. Việc đem bán... chiếc mai này."
 
 Có rất nhiều cách để mạo hiểm giả xử lý chiến lợi phẩm: có người mang xác tới gửi lại đây để chuyên gia mổ xẻ, rồi lúc rảnh rỗi thì tự đi tìm chỗ đấu giá để bán. Còn với những ai không dư dả thời gian, các chuyên gia mổ xẻ có thể thay mặt họ bán số nguyên liệu thu được, dĩ nhiên là có tính một khoản phí nhỏ.
 
@@ -120,7 +120,7 @@ Dario nói không sai, nhưng đi tìm người mua trong tình trạng hiện t
 
 Dù có thể nhờ Lorraine, nhưng cô ấy lại chẳng mấy rành chuyện buôn bán bộ phận quái vật hiếm, cũng không nắm rõ giá thị trường lúc này. Đã bán thì ít nhất tôi cũng muốn bán được đúng giá, thế nên mới mở lời nhờ Dario.
 
-Tôi quay sang nhìn Dario, quyết định đặt niềm tin vào người đàn ông này. "...Tôi... Tin tưởng chú, chú Dario. Tôi trông cậy... Vào chú cả đấy."
+Tôi quay sang nhìn Dario, quyết định đặt niềm tin vào người đàn ông này. "...Tôi... tin tưởng chú, chú Dario. Tôi trông cậy... vào chú cả đấy."
 
 Dario bật cười trước câu nói có phần quá trịnh trọng của tôi. "Ha! Cậu đã nói đến nước đó rồi... thì chắc tôi phải làm cho thật ra trò rồi nhỉ? Tôi sẽ kiếm cho cậu một cái giá tốt — cứ chờ mà xem."
 
@@ -142,7 +142,7 @@ Một âm thanh nghe lạnh cả gáy. Tôi khựng lại, trân trối nhìn ch
 
 Một giọng nói vang lên từ phía sau ngắt lời tôi.
 
-"Có chuyện gì mà tuyệt thế ạ...?"
+"Có chuyện gì mà tuyệt thế...?"
 
 Tôi giật mình — bị bắt quả tang tại trận rồi!
 
@@ -150,8 +150,8 @@ Quay người lại, tôi chạm mặt Alize đang ôm trong tay một chiếc t
 
 Cố giữ bình tĩnh, tôi làm bộ thản nhiên trước mặt lũ trẻ rồi quay hẳn người lại chào chúng.
 
-"À thì... Tôi chỉ đang. Nhớ lại... Chuyện ủy thác thôi."
+"À thì... tôi chỉ đang. Nhớ lại... chuyện ủy thác thôi."
 
-Đôi mắt Alize mở to. "Ơ? Gì cơ ạ? Thật sao? Anh đùa em chắc!"
+Đôi mắt Alize mở to. "Ơ? Gì cơ? Thật sao? Anh đùa em chắc!"
 
 Dù cô bé đang rất ngạc nhiên, nhưng đứng ngay cửa thế này chẳng phải chỗ để bàn chuyện. Thấy hai tay Alize đều bận ôm đồ, tôi nhẹ nhàng mở cửa cho cô bé, hết sức cẩn thận để khỏi làm hỏng chiếc vòng gõ cửa mong manh lúc này đã lại được dán vào đúng chỗ.
