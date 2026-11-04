@@ -250,7 +250,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 243 |  | Chapter_243 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3) | reviewed |  |
 | 244 |  | Chapter_244 - Vol 11 Chapter 1 - Surprise Attack (1).txt | Vol 11 Chapter 1 - Surprise Attack (1) | done |  |
 | 245 |  | Chapter_245 - Vol 11 Chapter 1 - Surprise Attack (2).txt | Vol 11 Chapter 1 - Surprise Attack (2) | done |  |
-| 246 |  | Chapter_246 - Vol 11 Chapter 1 - Surprise Attack (3).txt | Vol 11 Chapter 1 - Surprise Attack (3) | todo |  |
+| 246 |  | Chapter_246 - Vol 11 Chapter 1 - Surprise Attack (3).txt | Vol 11 Chapter 1 - Surprise Attack (3) | done |  |
 | 247 |  | Chapter_247 - Vol 11 Chapter 1 - Surprise Attack (4).txt | Vol 11 Chapter 1 - Surprise Attack (4) | todo |  |
 | 248 |  | Chapter_248 - Vol 11 Chapter 1 - Surprise Attack (5).txt | Vol 11 Chapter 1 - Surprise Attack (5) | todo |  |
 | 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -894,3 +895,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#244] Dịch tên ma pháp 'Gê Bélos' (ma pháp thổ hệ tạo mưa thổ tiễn của loài người do Golem Luteum dùng) — tạm chọn giữ nguyên 'Gê Bélos' theo quy tắc câu chú/cổ ngữ ma pháp trong rules.md (phương án khác: 'Ge Belos' bỏ dấu mũ ê). Tạm dùng trong bản dịch: 'Gê Bélos'. → Chốt giữ nguyên 'Gê Bélos' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp như raw trong rules.md (tương tự Aliumage/Aryumage). (orchestrator)
 - [#245] Dịch tên ma pháp thổ hệ 'Ard Harba' (câu chú triệu hồi ngọn giáo đá khổng lồ) — tạm giữ nguyên phiên âm 'Ard Harba' theo quy tắc câu chú trong rules.md (phương án khác: dịch nghĩa). → Chốt giữ nguyên 'Ard Harba' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp trong rules.md. (orchestrator)
 - [#245] Xưng hô của ông lão bí ẩn (đồng bọn của Goblin và Siren) với Augurey — tạm chọn ông lão xưng 'ta', gọi 'nhóc / nhóc con' (Augurey gọi 'ông / ông già', xưng 'tôi') theo khẩu khí kẻ địch lớn tuổi áp đảo (phương án khác: ông lão xưng 'tôi', gọi 'cậu'). → Chốt ông lão xưng 'ta', gọi 'ngươi / nhóc / nhóc con', còn Augurey xưng 'tôi', gọi 'ông / ông già' đúng khẩu khí giao chiến giữa kẻ địch lão luyện ngạo mạn và Augurey. (orchestrator)
+- [#246] Dịch chủng tộc 'giant' (đoạn 99, 100) — tạm chọn 'Cự Nhân' đồng bộ với 'Đồ Cự Nhân' (Giantslayer) trong glossary.md (phương án khác: 'người khổng lồ'). Tạm dùng trong bản dịch: 'Cự Nhân'. → Chốt 'Cự Nhân' đồng bộ với 'Đồ Cự Nhân' (Giantslayer) và ghi chú của Giant Skeleton trong glossary.md. (orchestrator)
+- [#246] Xưng hô giữa Lorraine Vivie và ông lão Cự Nhân — tạm chọn Lorraine xưng 'tôi', gọi 'ông' (phương án khác: Lorraine xưng 'ta', gọi 'ngươi'). Tạm dùng trong bản dịch: 'tôi - ông'. → Chốt Lorraine xưng 'tôi', gọi 'ông' (còn ông lão xưng 'ta', gọi 'ngươi / con bé'), nhất quán với cách xưng hô của Rentt, Augurey và Lorraine trong style.md / pronouns.md. (orchestrator)

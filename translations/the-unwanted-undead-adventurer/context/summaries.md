@@ -1448,6 +1448,12 @@ Sau khi Augurey bị cánh tay khổng lồ hóa của ông lão đánh văng v�
 Bị gãy xương nghiêm trọng sau cú va chạm, Rentt vận dụng Phân Liệt để tái tạo lại cơ thể lành lặn rồi lần theo mùi máu của Augurey chạy thục mạng tới chiến trường giữa rừng sâu.
 Cảnh kết thúc: Khi ông lão sắp sửa giáng nắm đấm khổng lồ kết liễu Augurey đang kiệt sức, Rentt kịp thời lao tới ném Augurey ra khỏi tầm đòn và hài hước trêu đùa về việc mình vừa "chết" một lần.
 
+## 246
+Rentt lén dùng Thần Lực trị liệu cho Augurey trong lúc trò chuyện câu giờ với ông lão; cả hai sau đó phối hợp tác chiến nhưng đòn chém đầu tiên của Rentt bị cơ thể cứng như kim loại của đối thủ bật nảy hoàn toàn.
+Bị ông lão nhổ cây ném liên tiếp và giáng nắm đấm khổng lồ dồn ép, Rentt dùng Phân Liệt hóa thành bóng tối thoát hiểm rồi nhanh chóng tái tạo cơ thể, dồn Ma Lực chém rách toạc cánh tay của ông lão khiến đối thủ phải dùng ma pháp cầm máu.
+Lorraine kịp thời chạy tới chi viện sau khi giấu Ferrici an toàn; ông lão thừa nhận hai đồng bọn (Goblin và Siren) thất bại vì thông tin sai lệch từ cấp trên (được báo mục tiêu chỉ gồm hai Ngân Cấp và một Đồng Cấp tầm thường) nhưng kiên quyết không bỏ cuộc vì tính mạng và công việc ở thế giới ngầm.
+Cảnh kết thúc: Khi cả ba người nhóm Rentt cùng xông lên tấn công, ông lão giải phóng luồng áp lực bão tố kinh hoàng hất văng cả nhóm ra xa, biến hình hoàn toàn thành một Cự Nhân khổng lồ đích thực.
+
 
 
 

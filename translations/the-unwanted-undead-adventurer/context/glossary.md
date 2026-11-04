@@ -442,3 +442,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Yidle Swiffof |  | Yidle Swiffof | kỹ năng | 243 | Ma pháp thủy hệ của con người tạo lưỡi đao nước (giữ nguyên tên câu thần chú theo rules.md) |
 | Gê Bélos | Ge Belos | Gê Bélos | kỹ năng | 244 | Ma pháp thổ hệ của con người tạo mưa thổ tiễn (giữ nguyên tên câu thần chú theo rules.md) |
 | Ard Harba |  | Ard Harba | kỹ năng | 245 | Ma pháp thổ hệ tạo mảnh đá nhọn khổng lồ như ngọn giáo (giữ nguyên tên câu thần chú theo rules.md) |
+| giant | giants; Giant; Giants | Cự Nhân | chủng tộc | 246 | Chủng tộc người khổng lồ trong thần thoại/fantasy (巨人) |
