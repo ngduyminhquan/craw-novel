@@ -35,3 +35,7 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
 13. **Câu đùa phải giữ được duyên.** Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng hài. Vẫn không được thêm ý mới.
 14. **Đừng sửa quá tay.** Tự nhiên không có nghĩa là hoa mỹ. Không thêm cảm xúc hay hình ảnh mà raw không có. Không chêm từ Hán Việt nặng hay thành ngữ cầu kỳ chỉ để câu "văn" hơn.
 15. **Gợi ý dịch trong `rules.md` hay `glossary.md` là phương án tham khảo.** Với cách nói thông thường (không phải tên riêng hay thuật ngữ), chọn theo ngữ cảnh câu, không lắp nguyên cụm gợi ý vào chỗ nào cũng giống nhau.
+16. **Đừng suồng sã hoá quá đà.** Khử giọng dịch máy không có nghĩa là thay từ trung tính bằng từ lóng ("tống khứ", "ú ớ", "la cà", "hé răng nửa lời"). Giữ đúng tầng lời của nhân vật: quý tộc, người lịch thiệp, người kể điềm đạm không nói như dân chợ búa. Từ vựng cũng phải hợp bối cảnh: fantasy phương Tây thì tránh từ cổ trang Trung Hoa ("quan phủ") và từ kinh tế, công nghệ hiện đại ("tài khoản", "chức năng định vị").
+17. **"You" phiếm chỉ.** Trong câu nêu quy luật hay nói chung chung, "you" thường mang nghĩa "người ta", không phải người nghe. Dịch thành "anh/cậu" sẽ sai nghĩa.
+    - "If you get bitten, you turn into one" (nói về quy luật) → "Bị cắn là hoá thành nó", không phải "Nếu anh bị cắn thì anh sẽ hoá thành nó".
+18. **Mỗi đoạn thoại phải đóng ngoặc kép.** Tiếng Anh để hở ngoặc ở cuối đoạn khi người đó còn nói tiếp ở đoạn sau. Bản dịch thì đoạn nào mở ngoặc cũng phải đóng ngoặc ở cuối đoạn đó.
