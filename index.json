@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T21:42:21Z",
+  "generatedAt": "2026-11-04T21:48:19Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2608,55 +2608,55 @@
           "number": 76,
           "title": "Chương 76: Tập 3 Chương 3 - Tiến Hóa Bản Thể Mới (7)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_076.md",
-          "sha": "8279ef625b270166b7b32a0b19fa2de3a42965d1"
+          "sha": "1da739d7fb4fa3bb981c9828a87e6272d8e24ab5"
         },
         {
           "number": 77,
           "title": "Chương 77: Tập 3 Chương 4 - Ma Thuật (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_077.md",
-          "sha": "7bd20a5be020945b459c2830ccdb7bb120b8a6af"
+          "sha": "fd48a68eb6cf49a4f0875dfb1d7a35222ee679ff"
         },
         {
           "number": 78,
           "title": "Chương 78: Tập 3 Chương 4 - Ma Thuật (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_078.md",
-          "sha": "06887e36ea31516605f050e98f2e4c36ed213814"
+          "sha": "a1197b6968b0e83ea95a454e96d4140db82d9e47"
         },
         {
           "number": 79,
           "title": "Chương 79: Tập 3 Chương 4 - Ma Thuật (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_079.md",
-          "sha": "cb1627e5461fa9d37e86f64b7e6e163384588fe6"
+          "sha": "ade0cfd41b04cd72a1ecb22a7e9fa0a0bfff110c"
         },
         {
           "number": 80,
           "title": "Chương 80: Tập 3 Chương 4 - Ma Thuật (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_080.md",
-          "sha": "91ab46a1fb7c70dde63a56c08d7c5f9ef9c6cb74"
+          "sha": "7ff02ad8b8968643a241f96f7991f04123d78b86"
         },
         {
           "number": 81,
           "title": "Chương 81: Phần kết Tập 3",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_081.md",
-          "sha": "674d7af5fc1ce551b25587be709e1e3cef8a22a9"
+          "sha": "de036ca19aa6abe90c450ab357daa8265bcda909"
         },
         {
           "number": 82,
           "title": "Chương 82: Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_082.md",
-          "sha": "24ff278d8afeb7e13251d24e80b2f4781063636a"
+          "sha": "e1eeef975dbb135e57b6d05fe1281c07d8c3c878"
         },
         {
           "number": 83,
           "title": "Chương 83: Ngoại truyện Tập 3 - Giá Trị Của Một Mạo Hiểm Giả",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_083.md",
-          "sha": "4267c83e1751c1a07b671abc3e1bd08456fe330b"
+          "sha": "0521d18c24077e8d4e9e3c2bc5a399523e2219ef"
         },
         {
           "number": 84,
           "title": "Chương 84: Ngoại truyện Tập 3 - Giấc Mơ Nối Dài",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_084.md",
-          "sha": "ac18ec686c6e83de94301083a64627ff3d32395f"
+          "sha": "f188bdb7455e92220892ac25b799552f0bb04f2e"
         },
         {
           "number": 85,

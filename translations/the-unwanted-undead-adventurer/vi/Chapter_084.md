@@ -50,11 +50,11 @@ Rin chậm rãi lắc đầu, một nụ cười nhạt thoáng hiện trên khu
 
 "Nhưng mà..."
 
-"Không sao đâu anh Rentt. Đưa giấy ủy thác cho em nào..."
+"Không sao đâu, anh Rentt. Đưa giấy ủy thác cho em..."
 
-Rin giật lấy xấp giấy từ tay tôi, vung bút ký một nét dứt khoát xác nhận ủy thác đã hoàn thành.
+Rin giật lấy tờ giấy từ tay tôi, đặt bút ký một nét dứt khoát xác nhận ủy thác đã hoàn thành.
 
-Tôi ngập ngừng. Sao tôi có thể nhận thế này được? Rin chỉ ấn lại xấp giấy vào tay tôi.
+Tôi ngập ngừng. Sao tôi có thể nhận thế này được? Rin chỉ ấn lại tờ giấy vào tay tôi.
 
 "Tụi em biết ơn anh lắm, nên xin anh nhận cho... Với lại, anh cũng đã mang hoa về cho tụi em rồi mà. Em sẽ cố hết sức tìm cách. Để làm cho chúng nở hoa và lớn lên. Rồi em sẽ gửi chúng tới thật nhiều nơi. Đó... vẫn là ước mơ của tụi em," Rin khẳng định.
 

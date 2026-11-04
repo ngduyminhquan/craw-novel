@@ -74,7 +74,7 @@ Dù tôi thu được số nguyên liệu gần như nguyên vẹn từ cái xá
 
 Ý nghĩ về cuộc gặp gỡ này khiến lòng tôi đầy bất an. Nhỡ sau khi gặp mặt, vị khách đó lại từ chối mua đống nguyên liệu thì sao? Nếu tôi không được như họ kỳ vọng thì sao? Bản thân tôi chỉ muốn sống khiêm nhường kín tiếng, nếu được thì tôi chẳng muốn tên tuổi hay chiến tích của mình bị đồn thổi lan xa.
 
-Nếu thực sự đi gặp vị khách giàu có quyền thế đầy bí ẩn này, tôi không đời nào muốn ra về tay trắng. Tiền bạc là chuyện quan trọng bậc nhất. Nghèo túng không một xu dính túi thì cả ngày chỉ có độc một mẩu bánh mì lót dạ. Nghĩ lại thấy bồi hồi thật... y như hồi tôi mới chân ướt chân ráo vào nghề. Khi ấy, tôi còn phải mò vào mấy cánh rừng gần đó, cặm cụi tìm rau dại ăn được để chống đói... Mà hồi đó tôi dốc hết sức bình sinh đi hái lượm thật đấy chứ. Mùa đông dạo ấy khắc nghiệt biết bao...
+Nếu thực sự đi gặp vị khách giàu có quyền thế đầy bí ẩn này, tôi không đời nào muốn ra về tay trắng. Tiền bạc là chuyện quan trọng bậc nhất. Nghèo túng không một xu dính túi thì cả ngày chỉ có độc một mẩu bánh mì lót dạ. Nghĩ lại thấy bồi hồi thật... y như hồi tôi mới vào nghề. Khi ấy, tôi còn mò vào mấy cánh rừng gần đó, cặm cụi tìm rau dại ăn được để chống đói... Mà hồi đó tôi dốc toàn bộ tâm sức đi hái lượm thật đấy chứ. Mùa đông dạo ấy khắc nghiệt biết bao...
 
 "Này, cậu ổn không đấy? Đừng có thẫn thờ ra thế chứ."
 
@@ -142,7 +142,7 @@ Tôi chẳng muốn dây dưa với một tay thương nhân đấu giá đáng 
 
 Tôi thậm chí từng ghé một cửa hàng của Thương hội Stheno vào thời còn sống. Dù đã tránh né họ từ khi biến thành Undead, nhưng nghe tay thương nhân đấu giá kia đến từ đó khiến tôi nhẹ cả người. Đó quả thực là một thương hội đáng tin cậy.
 
-"Vâng. Tôi từng mua mấy món đồ đựng bên đó, rồi cả đồ tạp hóa nữa... mấy thứ lặt vặt ấy mà. Dù sao thì chú Dario này, tôi nắm được tình hình rồi. Khi nào thì tôi nên đi gặp tay thương nhân đấu giá đó?"
+"Vâng. Tôi từng mua mấy món đồ đựng bên đó, rồi cả thực phẩm tạp hóa nữa... mấy thứ lặt vặt ấy mà. Dù sao thì chú Dario này, tôi nắm được tình hình rồi. Khi nào thì tôi nên đi gặp tay thương nhân đấu giá đó?"
 
 "Chà, trước hết tôi phải báo với bên đó là cậu đồng ý gặp đã. Xong họ sẽ cần một ngày để quyết định... rồi có thể sẽ liên lạc lại với tôi, nhé? Có lẽ là mai... hoặc ngày kia. Thế có ổn không, Rentt?"
 

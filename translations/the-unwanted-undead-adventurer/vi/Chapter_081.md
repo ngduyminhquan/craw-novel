@@ -34,7 +34,7 @@ Vì Nữ Thần Lobelia và để truyền bá giáo lý của Giáo Hội Lobel
 
 Mới hôm qua thôi, một Thánh Nữ thuộc giáo phái khác đã đến chữa trị và ban phước cho dân chúng nơi này, hay chí ít cô nghe nói là vậy. Theo lời người ta kể, vị Thánh Nữ ấy không thuộc Giáo Hội Đông Thiên, tổ chức tôn giáo lớn nhất tại Yaaran. Chỉ riêng chuyện đó cũng đủ chứng minh rằng có nhiều tổ chức tôn giáo khác nhau đang hoạt động tại vương quốc này.
 
-Từ lâu người ta đã nói Vương Quốc Yaaran nằm trên một vùng đất đầy bất ổn. Do phần lớn người dân Yaaran đều theo và sùng bái Giáo Hội Đông Thiên, một giáo hội ngoại lai khó lòng tự tiện chen chân vào truyền bá giáo lý của riêng mình. Ngặt một nỗi, giáo lý của Giáo Hội Đông Thiên lại khá... đặc biệt. So với các tổ chức tôn giáo khác, họ đặt rất ít gánh nặng lên tín đồ, đồng thời khuyến khích tu sĩ và nữ tu sống cuộc đời mộ đạo, thanh đạm; đây quả là thực tế cay đắng đối với phần lớn các tôn giáo khác.
+Từ lâu người ta đã nói Vương Quốc Yaaran là vùng đất khó truyền giáo. Do phần lớn người dân Yaaran đều theo và sùng bái Giáo Hội Đông Thiên, một giáo hội ngoại lai khó lòng tự tiện chen chân vào truyền bá giáo lý của riêng mình. Ngặt một nỗi, giáo lý của Giáo Hội Đông Thiên lại khá... đặc biệt. So với các tổ chức tôn giáo khác, họ đặt rất ít gánh nặng lên tín đồ, đồng thời khuyến khích tu sĩ và nữ tu sống cuộc đời mộ đạo, thanh đạm; đây quả là thực tế cay đắng đối với phần lớn các tôn giáo khác.
 
 Dù chẳng nêu đích danh tổ chức nào, nhưng ai cũng rõ tệ tham nhũng hoành hành nơi thượng tầng của nhiều giáo hội, cùng những khoản tiền cúng tiến nặng nề trút lên đầu tín đồ. Giáo Hội Đông Thiên lại khác, và các thành viên của họ thường rất tự hào khi thuộc về giáo hội.
 
@@ -58,7 +58,7 @@ Một Thánh Nữ mà nói ra điều này có lẽ là rất không phải phé
 
 Giáo Hội Lobelia tin rằng chính Nữ Thần Lobelia mang nhiều hình thái khác nhau, và ân phước mà những người khác trên khắp thế gian nhận được đều là do Người ban xuống. Chẳng hạn, Phong Thần Vansurt được tôn thờ ở các tôn giáo khác cũng được coi là Lobelia dưới một diện mạo khác. Vị Nữ Thần mang trăm ngàn diện mạo, đấng là tất cả và tất cả là một: Nữ Thần Lobelia.
 
-Ân phước mà mỗi người nhận được đều được thiết kế riêng theo tính cách và phẩm chất của họ, cốt để họ tiếp nhận sức mạnh của Nữ Thần Lobelia vĩ đại một cách tốt hơn. Ít ra lời giải thích chính thức là như vậy.
+Ân phước mà mỗi người nhận được đều hợp với tính cách và phẩm chất riêng của họ, cốt để họ tiếp nhận sức mạnh của Nữ Thần Lobelia vĩ đại một cách tốt hơn. Ít ra lời giải thích chính thức là như vậy.
 
 Nhưng đó có thật sự là ân phước từ các vị thần? Xét cho cùng, trừ vài trường hợp tương đối đặc biệt, người ta gần như chẳng thể nào lần ra ân phước thần thánh của một người bắt nguồn từ đâu.
 

@@ -36,7 +36,7 @@ Cả hai trông khá thong dong khi nhảy xuống xe rồi bước vào làng. 
 
 Cô mỉm cười khi nói. Tôi gật đầu, thế là người phụ nữ liền vui vẻ giải thích cặn kẽ công việc của họ.
 
-"Bọn cô đang tìm ổ Goblin đấy, nhóc à. Theo số liệu thống kê, loài Goblin thường chuộng một kiểu địa hình nhất định, nên bọn cô đã hỏi thợ săn trong làng xem khu rừng gần đây có nơi nào như thế không. Bọn cô đã tìm ra một vị trí rất khả nghi, lại thêm xác con mồi cùng hạt của vài loại cây mà chúng thích gặm quanh vùng này. Có chừng ấy thông tin thì việc xác định chính xác vị trí ổ của chúng chỉ là chuyện dễ dàng."
+"Bọn cô đang tìm ổ Goblin đấy, nhóc à. Tính theo xác suất thì loài Goblin thường chuộng một kiểu địa hình nhất định, nên bọn cô đã hỏi thợ săn trong làng xem khu rừng gần đây có nơi nào như thế không. Bọn cô đã tìm ra một vị trí rất khả nghi, lại thêm xác con mồi cùng hạt của vài loại cây mà chúng thích gặm quanh vùng này. Có chừng ấy thông tin thì việc xác định chính xác vị trí ổ của chúng dễ như trở bàn tay."
 
 "Chà..." Người đàn ông đứng cạnh cô cũng góp lời. "Đa phần các ủy thác dạng này đều thế cả. Dù vậy, chúng ta vẫn phải tự mình đến tận nơi khảo sát. Nhưng có ngần này manh mối... thì việc đó cũng không khó lắm đâu. Dẫu sao chúng ta vẫn có thể đụng độ một đàn Goblin nhỏ, cẩn thận một chút cũng chẳng thừa. Tôi thấy việc này hoàn toàn làm được đấy, Lorraine. Lên đường thôi."
 
@@ -44,7 +44,7 @@ Cô mỉm cười khi nói. Tôi gật đầu, thế là người phụ nữ li�
 
 Hai người vừa trao đổi vừa nhìn nhau trong lúc cùng trải một tấm bản đồ lớn ra giữa hai người. Chẳng bao lâu sau, họ đã gấp bản đồ lại rồi tiến sâu vào trong rừng. Vừa mới đặt chân tới nơi chưa được bao lâu mà họ đã lao thẳng vào chốn hiểm nguy... Liệu họ có thật sự ổn không đấy?
 
-Đâu chỉ riêng tôi có nỗi lo ấy, bởi lúc tiễn họ lên đường, ai nấy trong làng trông cũng thấp thỏm không kém. Thế nhưng hai người họ đã nhanh chóng quay về, và bộ dạng của hai mạo hiểm giả lúc đó khiến tất cả chúng tôi đồng loạt hít vào một hơi kinh ngạc.
+Đâu chỉ riêng tôi có nỗi lo ấy, bởi lúc tiễn họ lên đường, ai nấy trong làng trông cũng thấp thỏm không kém. Thế nhưng hai người họ đã nhanh chóng quay về, và cảnh tượng trước mắt khiến tất cả chúng tôi đồng loạt hít vào một hơi kinh ngạc.
 
 Trong túi của mỗi người là mười cái tai Goblin, dường như cái nào cũng thuộc về một con khác nhau. Hai người này thực sự đã tự mình tiêu diệt ngần ấy quái vật sao...?
 

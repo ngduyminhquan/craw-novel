@@ -98,9 +98,9 @@ Rồi người đó xướng tên thí sinh tiếp theo...
 
 "Cô Adeline Fran!"
 
-Đáng buồn thay, cái tên đó lại chính là tên giả mà Lorraine đã nghĩ ra... cho tôi dùng.
+Đáng buồn là cái tên đó lại chính là tên giả mà Lorraine đã nghĩ ra... cho tôi dùng.
 
-"A, người ta gọi anh kìa, đúng không? Tiến lên đi nào, Rennie... A. Hay gọi là Ren-Ren thì hợp hơn nhỉ? Vững lòng lên! Đến lượt anh rồi đấy!" Lorraine vui vẻ vẫy tay giục tôi bước ra hội trường.
+"A, người ta gọi anh kìa, đúng không? Bước ra đi nào, Rennie... A. Hay gọi là Ren-Ren thì hợp hơn nhỉ? Vững lòng lên! Đến lượt anh rồi đấy!" Lorraine vui vẻ vẫy tay giục tôi bước ra hội trường.
 
 Chết tiệt thật chứ... Cô cứ đợi đấy, Lorraine. Mối nhục này tôi nhất định sẽ bắt cô trả đủ...
 

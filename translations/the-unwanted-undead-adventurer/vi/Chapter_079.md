@@ -16,11 +16,11 @@ Trán lấm tấm mồ hôi, Alize gật đầu lần nữa rồi khẽ hé môi
 
 "‘Hỡi ngọn lửa... Hãy để Ma Lực của ta... hóa thành nguồn nuôi dưỡng... và hiển hiện... trước mắt ta... Ignite Aryumage’!"
 
-Dứt lời, luồng Ma Lực nơi đầu ngón tay cô bé chao đảo, run rẩy rồi dập dềnh xao động, trước khi phát ra ánh sáng rực rỡ trên ngón tay đang vươn ra. Hiện tượng này chưa từng xuất hiện khi tôi thử làm. Cảnh tượng đó xảy ra khi Ma Lực không được chuyển hóa trọn vẹn thành ma thuật. Lượng Ma Lực thừa không dùng tới sẽ tán xạ ra thành ánh sáng.
+Dứt lời, luồng Ma Lực nơi đầu ngón tay cô bé chao đảo, run rẩy rồi gợn sóng, trước khi phát sáng rực rỡ trên ngón tay đang duỗi thẳng. Hiện tượng này chưa từng xảy ra khi tôi thử làm. Cảnh tượng đó chỉ xuất hiện khi Ma Lực không được chuyển hóa trọn vẹn thành ma thuật. Phần Ma Lực dư thừa không dùng tới sẽ phát tán ra ngoài thành ánh sáng.
 
-Nhờ vừa liên tục chuyển hóa Ma Lực thành ma pháp suốt từ nãy đến giờ, tôi chẳng hề làm thất thoát chút Ma Lực nào. Nhưng Alize mới học nên chưa quen với ma thuật. Càng quen dùng ma thuật nói chung, lượng Ma Lực hao hụt và lãng phí sẽ càng giảm. Chuyển hóa Ma Lực trọn vẹn và nhanh chóng thành các hiện tượng ma thuật vốn là ước mơ của mọi ma pháp sư, thế nên với Alize, thất thoát một chút cũng là chuyện đương nhiên.
+Vì mấy lúc vừa rồi tôi liên tục chuyển hóa Ma Lực thành ma pháp, nên không bị thất thoát Ma Lực. Nhưng Alize mới bắt đầu học nên chưa quen với ma thuật. Khi người ta quen với ma thuật nói chung hơn, lượng Ma Lực thất thoát và lãng phí sẽ giảm đi. Chuyển hóa Ma Lực trọn vẹn và nhanh chóng thành các hiện tượng vốn là ước mơ của mọi ma pháp sư, thế nên với Alize, thất thoát một chút Ma Lực là chuyện khó tránh khỏi.
 
-Khi ánh sáng dịu dần, một ngọn lửa nhỏ hiện ra, lập lòe trên ngón tay Alize. Nó chỉ bằng cỡ một nửa ngọn lửa tôi tạo ra ban nãy. Đó là một đốm lửa chập chờn, bất định, quá bé để có thể coi là tàn lửa hay tia lửa.
+Khi ánh sáng dịu dần, một ngọn lửa nhỏ hiện ra, lập lòe trên ngón tay Alize. Nó chỉ nhỏ bằng nửa ngọn lửa tôi tạo ra ban nãy. Đó là một ngọn lửa chập chờn, không ổn định, nhỏ đến mức làm tàn lửa hay tia lửa cũng chẳng xong.
 
 Alize mở to mắt ngắm đốm lửa đầy kinh ngạc. Dù đã học lý thuyết và tự điều chuyển được Ma Lực trong người, cô bé dường như vẫn khó tin nổi là mình thực sự có thể thi triển ma thuật.
 
@@ -44,7 +44,7 @@ Chà, đúng là tay nghề của một bậc thầy thực thụ. Hiếm có ai
 
 Có điều chừng ấy thì ngay cả tôi cũng làm được. Nhưng trò tiếp theo của Lorraine mới là thứ tôi chẳng bao giờ mong bắt chước nổi.
 
-Ngọn lửa và dòng nước trên tay cô dần phình to, hóa thành hình thù của muông thú và đủ loại sinh vật. Lửa cuộn thành hình cánh chim, còn các luồng nước bồng bềnh hóa thành rồng, rồi lại thành voi, cả một gánh xiếc muông thú lặng lẽ lượn quanh giữa không trung. Chắc chắn chẳng phải ma thuật sơ cấp gì cho cam.
+Ngọn lửa và dòng nước trên tay cô dần lớn lên, tạo thành hình thù của muông thú và đủ loại sinh vật. Ngọn lửa hóa thành hình một con chim, còn những tia nước lơ lửng biến thành rồng, rồi thành voi, cả một gánh xiếc muông thú lặng lẽ xoay tròn giữa không trung. Rõ ràng chẳng phải ma thuật sơ cấp gì cho cam.
 
 Người mới học không đời nào phóng to lửa và nước triệu hồi ra tới cỡ đó, chưa kể còn tách rời chúng khỏi cơ thể mà vẫn kiểm soát được. Chỉ riêng chuyện làm được điều này đã cho thấy cảnh tượng trước mắt chúng tôi chẳng còn chút gì là cơ bản nữa rồi. Nếu làm được tới mức đó, chắc tôi đã nghịch trò tạo thú lửa bay lượn từ lâu rồi.
 

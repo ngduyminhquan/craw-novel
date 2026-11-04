@@ -66,7 +66,7 @@ Ma Lực là một thứ rất kỳ lạ: càng có nhiều thì lại càng d�
 
 Ví như một chiếc bao tải nhồi căng cứng, có lắc thế nào thì đồ bên trong cũng khó mà xê dịch. Nhưng nếu là một chiếc bao vơi vơi, đồ đạc bên trong sẽ va lắc lách cách ngay. Đó là lý do vì sao khi đã cảm nhận được Ma Lực rồi, tôi lại điều khiển nó rất dễ dàng. Vả lại tôi đã luyện dùng suốt một thời gian dài, nên thao tác mới mượt mà như thế.
 
-Nhưng chỉ bấy nhiêu thôi thì tôi cũng chẳng thể trở thành một ma pháp sư cừ khôi được. Dù tôi đã có thể tùy ý luân chuyển Ma Lực trong người, điều chỉnh cường độ và niệm phép rất nhanh, nhưng khả năng của tôi cũng chỉ dừng lại ở đó. Muốn thi triển những ma pháp uy lực hùng mạnh, người ta buộc phải có lượng Ma Lực dồi dào hơn. Thậm chí có người còn bảo việc kiểm soát Ma Lực khéo léo đặc biệt hữu ích với phụ nữ, đơn giản là vì họ có thể dẫn Ma Lực tới bất cứ vị trí nào trên cơ thể. Mà tạo nước lại là ma pháp cơ bản người mới học nào cũng tập đầu tiên, thành thử các cô gái có thể dễ dàng mượn Ma Lực để rơi nước mắt cá sấu. Thế nên các nữ ma pháp sư thường thuần thục trò này từ rất sớm...
+Nhưng chỉ bấy nhiêu thôi thì tôi cũng chẳng thể trở thành một ma pháp sư cừ khôi được. Dù tôi đã có thể tùy ý luân chuyển Ma Lực trong người, điều chỉnh cường độ và niệm phép rất nhanh, nhưng khả năng của tôi cũng chỉ dừng lại ở đó. Muốn thi triển những ma pháp uy lực mạnh mẽ, người ta buộc phải có dung lượng Ma Lực lớn hơn. Thậm chí có người còn bảo việc kiểm soát Ma Lực khéo léo đặc biệt có giá trị với phụ nữ, đơn giản là vì họ có thể dẫn Ma Lực tới bất cứ vị trí nào trên cơ thể. Kéo theo đó, tạo nước lại là ma pháp cơ bản người mới học nào cũng tập đầu tiên, thành ra phụ nữ có thể dễ dàng nhờ Ma Lực mà nhỏ nước mắt cá sấu. Thế nên các nữ ma pháp sư thường thuần thục kỹ năng này khá nhanh...
 
 Càng nghĩ lại càng thấy trò đó đáng sợ thật.
 
@@ -172,7 +172,7 @@ Con người vốn là giống loài có thể làm nên những chuyện phi th
 
 "Em hiểu mà. Em... không... giận đến mức đó đâu ạ. Nhưng mà thưa Học Sĩ Lorraine... liệu có thật không ạ? Em thực sự có thể làm được như... anh Rentt sao? Chỉ trong một ngày thôi ạ?"
 
-"Rentt không gợi ý điều gì vượt quá tầm với của em đâu. Nếu phải nói thì... em sắp chạm tới mức đó rồi. Ráng thêm một chút nữa thôi. Khi nào làm được thì buổi học hôm nay có thể kết thúc."
+"Hừm. Chà... Rentt không gợi ý điều gì vượt quá tầm với của em đâu. Nếu phải nói thì... em sắp chạm tới mức đó rồi. Ráng thêm một chút nữa thôi. Khi nào làm được thì buổi học hôm nay có thể kết thúc."
 
 "Thế thì... em sẽ làm. Em làm được mà... Giờ em phải làm gì tiếp ạ?"
 
@@ -206,7 +206,7 @@ Khoan đã... Chẳng lẽ Lorraine bắt tôi làm việc này là vì cô th�
 
 Câu chú vừa dứt, một ngọn lửa nhỏ liền bùng lên nơi đầu ngón tay tôi. Đây là ma pháp đã cứu cánh cho tôi mỗi lần hạ trại nơi hoang dã suốt bao năm qua. Tôi thi triển nó dễ dàng như trở bàn tay cũng là điều tự nhiên.
 
-Có điều câu thần chú thì sao, liệu tôi có đọc đúng không? Chắc là trúng được phần lớn, nhưng chi tiết thì thế nào? Tôi không chắc về câu từ cho lắm... Là ngọn lửa? Hay đốm lửa? Hay tàn lửa? Có thiếu chữ nào không? Hiển hiện trước mắt ta? Xuất hiện trước mắt ta? Hãy được triệu hồi... Hừm. Thôi chịu, tôi chẳng tài nào nhớ nổi.
+Có điều câu thần chú thì sao, liệu tôi có đọc đúng không? Chắc là trúng được phần lớn, nhưng chi tiết thì thế nào? Tôi không chắc về câu từ cho lắm... Là ngọn lửa? Hay tàn lửa? Hay lửa? Có thiếu chữ nào không? Hiển hiện trước mắt ta? Xuất hiện trước mắt ta? Hãy được triệu hồi... Hừm. Thôi chịu, tôi chẳng tài nào nhớ nổi.
 
 Vẻ hoang mang chắc đã lộ rõ trên mặt tôi, vì Lorraine chẳng nói nửa lời. Cô chỉ lặng lẽ nhìn tôi, khóe mắt ánh lên vẻ khoái trá thấy rõ. Nỗi hoang mang trong lòng tôi lại càng trĩu nặng.
 

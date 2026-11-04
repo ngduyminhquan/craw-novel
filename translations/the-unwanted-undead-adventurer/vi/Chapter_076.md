@@ -6,7 +6,7 @@ Giọng sơ gần như khản đặc vì không dám tin, vọng ra từ sâu tr
 
 Thấy phản ứng của sơ, Unbert nhắc lại như để củng cố lời mình vừa nói. Anh cất giọng lần nữa, chậm rãi và rành rọt.
 
-"Vâng. Nhìn phản ứng vừa rồi, hẳn Sơ Lillian cũng biết cách duy nhất chữa khỏi căn bệnh này là dùng thuốc bào chế từ Hoa Long Huyết. Có điều... chúng tôi đã có sẵn hoa trong tay, và cũng bào chế xong thuốc rồi... Giờ sơ chỉ cần uống đúng liều lượng theo từng cữ đều đặn thôi, thưa Sơ Lillian."
+"Vâng. Nhìn phản ứng vừa rồi, hẳn Sơ Lillian cũng biết cách duy nhất chữa khỏi căn bệnh này là dùng thuốc bào chế từ Hoa Long Huyết. Có điều... chúng tôi đã có sẵn vài bông trong tay, và cũng bào chế xong thuốc rồi... Giờ sơ chỉ cần uống đúng liều lượng theo từng cữ đều đặn thôi, thưa Sơ Lillian."
 
 Xem chừng phải uống thuốc đều đặn theo đợt, bởi chắc chẳng ai khỏi ngay chỉ sau một lần uống. Thế cũng được, miễn sao chỉ cần uống thuốc là khỏi hẳn.
 
@@ -24,7 +24,7 @@ Tôi đoán Norman đang ám chỉ số Hoa Long Huyết tôi đưa thêm. Chắ
 
 Nhìn cách ăn mặc và tác phong của Norman là đủ hiểu anh sống thanh đạm cỡ nào. Thật khó tưởng tượng nổi một người như anh lại ngấm ngầm điều hành đường dây buôn bán thuốc bất chính. Cũng có thể nói anh chỉ đang làm bộ và cố tình mặc đồ sờn cũ, nhưng cứ suy diễn kiểu đó thì biết bao giờ mới hết nghi ngờ.
 
-"Không tốn đồng nào ư...? Nhưng chẳng phải các anh vừa bảo phải có Hoa Long Huyết mới chữa được bệnh này sao? Tôi biết thứ đó đắt đỏ cỡ nào mà, Norman. Cho dù hai anh bằng cách nào đó kiếm được đi nữa... Tôi biết Unbert từng làm mạo hiểm giả... nhưng thực lực của anh đâu đủ để dấn thân vào Đầm Lầy Tarasque. Thứ lỗi cho tôi vì đã nói thẳng nhé, Unbert..."
+"Không tốn đồng nào ư...? Nhưng chẳng phải các anh vừa bảo phải có Hoa Long Huyết mới chữa được bệnh này sao? Tôi biết thứ đó đắt đỏ cỡ nào mà, Norman. Cho dù bằng cách nào đó hai anh kiếm được đi nữa... Tôi biết Unbert từng làm mạo hiểm giả... nhưng thực lực của anh đâu đủ để vào Đầm Lầy Tarasque. Thứ lỗi cho tôi vì đã nói thẳng nhé, Unbert..."
 
 Sơ nhìn hai người với ánh mắt đầy ngờ vực.
 
@@ -52,7 +52,7 @@ Nghĩ lại, tôi thấy mình thực sự phải nể phục ý chí và quyế
 
 Dù dự tính của Alize có phần liều lĩnh, nhưng chỉ riêng việc cô bé dám hạ quyết tâm làm chuyện đó thôi cũng đã đáng nể lắm rồi. Chắc hẳn cô bé phải kính trọng Sơ Lillian nhiều lắm.
 
-"Tôi... Tôi hiểu rồi. Nhưng nếu vậy... cớ sao cậu lại lặn lội đi xa đến thế để hái Hoa Long Huyết chứ, cậu Rentt...?"
+"Tôi... Tôi hiểu rồi. Nhưng nếu vậy... sao cậu lại lặn lội đi xa đến thế để hái Hoa Long Huyết chứ, cậu Rentt...?"
 
 "Dĩ nhiên là vì có ủy thác rồi."
 
@@ -68,7 +68,7 @@ Dù thoáng bàng hoàng, Lillian cũng nhanh chóng hiểu ra. Dù tôi không 
 
 "Đặc biệt là Alize..." Tôi giải thích tiếp. "Lúc nãy chúng ta vừa nói chuyện hái loài hoa ấy khó khăn thế nào rồi đấy. Nếu chẳng có ai nhận, Alize đã định tự mình làm mạo hiểm giả để sau này vào đầm lầy... Cô bé kính trọng sơ đến thế đấy, thưa Sơ Lillian."
 
-"Alize làm vậy... vì tôi ư? Tôi... tôi hiểu rồi... hèn chi con bé cứ nhắc tới chuyện làm mạo hiểm giả..." Sơ Lillian lẩm bẩm, mọi mối manh trong đầu dần sáng tỏ.
+"Alize làm vậy... vì tôi ư? Tôi... tôi hiểu rồi... hèn chi con bé cứ nhắc tới chuyện làm mạo hiểm giả..." Sơ Lillian chậm rãi nói, dần xâu chuỗi lại mọi chuyện trong đầu.
 
 Sơ chầm chậm gật đầu liên hồi. Nhân lúc đó, Unbert lên tiếng xen vào.
 
@@ -104,7 +104,7 @@ Alize đáp lại với vẻ hơi áy náy.
 
 Thế là Alize kể hết cho Sơ Lillian nghe, không sót một chi tiết nào. Cứ tưởng sơ sẽ giận chuyện cô bé làm, nào ngờ sơ chỉ mỉm cười dịu dàng, giọng chẳng có lấy một tia bực bội.
 
-"Ta hiểu rồi. Ta không có ý trách mắng hay phạt con đâu, Alize... Không hề. Trái lại, ta thấy mình thật có phúc... Bình thường thì Bệnh Tích Tụ Chướng Khí vốn vô phương cứu chữa, bởi kiếm được một đóa Hoa Long Huyết khó khăn biết bao. Với những tín đồ và những ai sở hữu Thần Lực, đây là chứng bệnh đáng sợ bậc nhất... Thế mà..."
+"Ta hiểu rồi. Ta không có ý trách mắng hay phạt con đâu, Alize... Không hề. Trái lại, ta thấy mình thật có phúc... Bình thường thì Bệnh Tích Tụ Chướng Khí vốn vô phương cứu chữa, bởi kiếm được một đóa Hoa Long Huyết khó khăn biết bao. Với các tín đồ và những người được ban Thần Lực, đây là căn bệnh đáng sợ bậc nhất... Thế mà..."
 
 "Đó là phép màu của các Đại Thiên Sứ... Chắc chắn là vậy. Một... một phép màu đền đáp cho tất cả những gì sơ đã làm cho tụi con, cho cô nhi viện này, thưa Sơ Lillian... Một ph-phép màu..."
 
@@ -112,9 +112,9 @@ Alize cúi đầu. Những lời xúc động của sơ có lẽ đã khiến c�
 
 Sơ Lillian vẫn mỉm cười, khẽ lắc đầu.
 
-"Ta chỉ làm những việc mình nên làm thôi. Có lẽ đây đúng là sự dẫn dắt của các Đại Thiên Sứ, nhưng công lớn nhất vẫn là ở con đấy, Alize à. Con đã dốc hết sức vì một lòng muốn cứu ta. Cậu Rentt không quản hiểm nguy lặn lội vào đầm lầy tìm hoa... còn Unbert và Norman thì bào chế thuốc. Tôi vô cùng biết ơn... sự giúp đỡ của mọi người. Thật lòng cảm ơn tất cả..."
+"Ta chỉ làm những việc mình nên làm thôi. Có lẽ đây đúng là sự dẫn dắt của các Đại Thiên Sứ, nhưng công lớn nhất vẫn là ở con đấy, Alize à. Con đã cố gắng rất nhiều vì một lòng muốn cứu ta. Cậu Rentt không quản hiểm nguy vào đầm lầy tìm hoa... còn Unbert và Norman thì bào chế thuốc. Tôi vô cùng biết ơn... sự giúp đỡ của mọi người. Thật sự đấy. Cảm ơn tất cả mọi người..."
 
-Cảm xúc trào dâng từ tận đáy lòng khiến nước mắt lại một lần nữa lăn dài trên khóe mi sơ.
+Một nỗi xúc động dâng trào từ tận đáy lòng khiến nước mắt lại lăn dài trên má sơ.
 
 ◆◇◆◇◆
 
@@ -198,6 +198,6 @@ Lúc này đương nhiên chúng tôi đang ở trong phòng khách nhà Lorrain
 
 Alize mới chính thức quyết định theo con đường pháp sư, hoặc mạo hiểm giả, từ hôm qua, và đây là bài học đầu tiên của chúng tôi trong ngày đầu khai giảng.
 
-Có lẽ sẽ có người thắc mắc tại sao tôi, Rentt Faina, lại ngồi cạnh Alize. Lý do là bởi Lorraine đang dạy chúng tôi những điều căn bản về ma thuật. Alize có trữ lượng Ma Lực dồi dào nên việc cô bé được dạy dỗ ma thuật bài bản là đương nhiên. Nhưng cô bé không phải người duy nhất có tiềm năng đó, tôi cũng thế.
+Có lẽ sẽ có người thắc mắc tại sao tôi, Rentt Faina, lại ngồi cạnh Alize. Lý do là bởi Lorraine đang dạy chúng tôi những điều căn bản về ma thuật. Alize có trữ lượng Ma Lực dồi dào nên việc cô bé được dạy ma thuật bài bản là lẽ đương nhiên. Nhưng cô bé không phải người duy nhất có tư chất đó, vì tôi cũng vậy.
 
-Dĩ nhiên, chuyện này cũng chỉ mới xảy ra gần đây thôi. Trước kia, tôi cùng lắm chỉ thi triển được vài ma pháp tấn công cấp thấp, hoặc cho một dòng nước nhỏ rỉ ra từ lòng bàn tay là cùng. Ngày trước chẳng ai dám bảo tôi có chút năng khiếu ma thuật nào, nhưng giờ tình thế đã khác... Nói cho cùng, từ lần Tiến Hóa Bản Thể gần nhất, trữ lượng Ma Lực lẫn thiên phú ma thuật của tôi đã tăng vọt, thậm chí đến mức khó tin.
+Dĩ nhiên, chuyện này cũng chỉ mới xảy ra gần đây thôi. Trước kia, tôi cùng lắm chỉ thi triển được vài ma pháp tấn công cấp thấp, hoặc cho một dòng nước nhỏ rỉ ra từ lòng bàn tay là cùng. Ngày trước chẳng ai bảo tôi có chút năng khiếu ma thuật nào, nhưng giờ hoàn cảnh của tôi đã hơi khác một chút... Nói cho cùng, từ lần Tiến Hóa Bản Thể gần nhất, dung lượng Ma Lực lẫn tư chất ma thuật của tôi đã tăng vọt, thậm chí đến mức khó tin.

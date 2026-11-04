@@ -1,6 +1,6 @@
 # Chương 77: Tập 3 Chương 4 - Ma Thuật (1)
 
-Giờ đây tôi đã có thể thi triển ma thuật, chắc cũng ngang tầm một ma pháp sư thực thụ. Về lý thuyết thì làm được đấy, nhưng thực tế tôi vẫn thấy rất chật vật, chủ yếu vì kiến thức lý thuyết về ma thuật của mình còn thiếu hụt trầm trọng. Tôi chỉ cần học thêm đôi chút là mọi thứ sẽ tự khắc xuôi chèo mát mái thôi. Tôi cũng đã nhờ Lorraine kèm thêm cho mình, và chẳng biết từ lúc nào đã thấy mình ngồi học chung một lớp với Alize.
+Giờ đây tôi đã có thể thi triển ma thuật, chắc cũng ngang tầm một ma pháp sư thực thụ. Về mặt kỹ thuật thì làm được đấy, nhưng thực tế tôi vẫn thấy rất chật vật, chủ yếu vì kiến thức lý thuyết về ma thuật của mình còn thiếu hụt trầm trọng. Tôi chỉ cần học thêm đôi chút là mọi thứ sẽ tự khắc đâu vào đấy thôi. Tôi cũng đã nhờ Lorraine kèm thêm cho mình, và chẳng biết từ lúc nào đã thấy mình ngồi học chung với Alize.
 
 Lorraine thì nhận tôi làm học trò ngay tắp lự, có điều cô lại bảo tôi phải đóng học phí gấp đôi.
 
@@ -10,7 +10,7 @@ Gấp đôi cơ đấy! Đã thế cô còn nói câu đó mà chẳng hề do d
 
 Cơ mà kẻ ăn nhờ ở đậu như tôi thì lấy tư cách gì mà đòi hỏi cơ chứ...
 
-Trước hết, trên thực tế chỉ có hai con đường để học ma thuật: hoặc là bái một ma pháp sư có tiếng làm thầy, hoặc là vào học viện ma thuật. Cả hai lựa chọn ấy đều ngốn tới hàng chục đồng vàng, chẳng phải con số nhỏ chút nào. So với mức đó, học phí Lorraine lấy rẻ chẳng khác nào làm từ thiện, khéo còn rẻ quá mức ấy chứ.
+Trước hết, trên thực tế chỉ có hai con đường để học ma thuật: hoặc là theo học một ma pháp sư có tiếng, hoặc là vào học viện ma thuật. Cả hai lựa chọn ấy đều ngốn tới hàng chục đồng vàng, chẳng phải con số nhỏ chút nào. So với mức đó, học phí Lorraine lấy rẻ chẳng khác nào làm từ thiện, khéo còn rẻ quá mức ấy chứ.
 
 Dù thế nào thì tôi cũng dám chắc Lorraine đã giảm giá cho chúng tôi kha khá rồi... Thế nên bây giờ tôi và Alize mới ngồi ngay ngắn trước mặt Lorraine, lắng nghe bài giảng đầu tiên của cô. Nhân tiện, bài giảng này còn có cả tên đàng hoàng: "Bài Giảng Ma Thuật Đầu Tiên ~Giải Mã Ma Thuật! Đến Cả Goblin Cũng Hiểu Được~". Cái tựa đề ấy là do chính Lorraine tự nghĩ ra đấy.
 
@@ -36,7 +36,7 @@ Chẳng phải tôi không biết câu trả lời. Chỉ là... tôi giơ tay c
 
 Phải. Chỉ có thế thôi chứ chẳng có gì khác cả.
 
-"Đúng như Alize đã nói. Bất kể loại ma thuật nào cũng đều cần đến Ma Lực. Có điều cũng cần lưu ý rằng, sở hữu trữ lượng Ma Lực dồi dào không đồng nghĩa với việc người đó sẽ nghiễm nhiên trở thành một ma pháp sư vĩ đại. Dẫu vậy, bất kỳ đại ma pháp sư nào cũng luôn nỗ lực mở rộng dung lượng Ma Lực của mình. Lý do thì rất đơn giản..."
+"Đúng như Alize đã nói. Bất kể loại ma thuật nào cũng đều cần đến Ma Lực. Có điều cũng cần lưu ý rằng, sở hữu trữ lượng Ma Lực dồi dào không có nghĩa là người đó sẽ nghiễm nhiên trở thành một ma pháp sư vĩ đại. Dù vậy, mọi đại ma pháp sư đều luôn hướng tới việc có dung lượng Ma Lực lớn hơn, dồi dào hơn. Lý do thì rất đơn giản..."
 
 "Có! Tôi! Tôi biết!"
 
@@ -66,7 +66,7 @@ Theo lời Lorraine thì mấy thứ lề thói đó vốn rất đỗi bình th
 
 Không biết trường lớp ở Vương Quốc Yaaran thường như thế nào nhỉ?
 
-Tôi chưa từng một lần đặt chân vào chốn học đường nào nên chẳng rõ. Những buổi hướng dẫn ở Hội Mạo Hiểm Giả thì khá xuề xòa, ai nấy đều được đối xử bình đẳng bất kể tuổi tác hay kinh nghiệm. Thành thử việc Lorraine khăng khăng bắt tuân theo mấy kiểu xưng hô này lại đem đến cảm giác mới mẻ đến lạ kỳ.
+Tôi chưa từng bước chân vào trường lớp nào nên chẳng rõ. Những buổi hướng dẫn ở Hội Mạo Hiểm Giả thì khá xuề xòa, ai nấy đều được đối xử bình đẳng bất kể tuổi tác hay kinh nghiệm. Thành ra việc Lorraine khăng khăng bắt tuân theo mấy kiểu xưng hô này lại đem đến cảm giác mới mẻ lạ kỳ.
 
 "Tôi nào có toàn năng đâu, Alize. Thật ra ngay cả bây giờ tôi cũng có khối việc chẳng làm nổi đấy chứ."
 
@@ -88,9 +88,9 @@ Tôi thầm nghĩ đó đúng là một cách hay để giấu giếm sự thậ
 
 "Bảo kể hết ra thì chịu rồi. Có điều tôi có thể nêu vài ví dụ thường thấy, chẳng hạn như... uống được một loại linh dược đặc biệt nào đó, hoặc hạ gục một con quái vật cực kỳ hùng mạnh. Có người thì nhận được ân phúc thần thánh nào đó, hoặc ngược lại, ký khế ước với ác quỷ rồi đánh đổi một phần bản thân để lấy sức mạnh... Đại loại thế."
 
-Tuy dung lượng Ma Lực của phần lớn mọi người gần như chẳng bao giờ suy chuyển, nhưng người ta vẫn hoàn toàn có thể gia tăng nó bằng những cách đặc biệt. Có điều phương pháp nào cũng đầy rẫy hiểm nguy và thường phải trả giá đắt. Chưa kể còn do may rủi; sơ sẩy một cái là lành ít dữ nhiều.
+Tuy dung lượng Ma Lực của phần lớn mọi người gần như giữ nguyên, nhưng người ta vẫn hoàn toàn có thể tăng nó lên bằng những cách đặc biệt. Có điều cách nào cũng đầy rủi ro và thường phải trả giá đắt. Chưa kể còn tùy thuộc vào may rủi; đôi khi chẳng ai ngờ tới mà mọi chuyện lại đổ bể tồi tệ.
 
-Đơn cử như linh dược Ma Lực vốn cực kỳ khó kiếm, mà dẫu có xuất hiện thì cũng bị đẩy giá lên tận mây xanh ở các buổi đấu giá. Còn bảo hạ gục một con quái thú tầm cỡ huyền thoại để đoạt lấy sức mạnh thì quả là chuyện xa vời, nếu không muốn nói là bất khả thi. Lời chúc phúc của loài tiên hay thần linh thì hoàn toàn phụ thuộc vào may rủi, mà người may mắn như thế đâu phải lúc nào cũng sẵn. Cuối cùng, lập khế ước với ác quỷ thì nguy hiểm khôn cùng, có bao nhiêu mạng cũng chẳng đủ đền. Nếu mọi chuyện đơn giản thế thì thời còn sống tôi đã tăng được dung lượng Ma Lực từ lâu rồi.
+Chẳng hạn, thuốc tăng Ma Lực vốn cực kỳ khó kiếm, mà dẫu có xuất hiện thì cũng bị đẩy giá lên cao ngất ngưởng ở các buổi đấu giá. Còn bảo hạ gục một con quái thú tầm cỡ huyền thoại để đoạt lấy sức mạnh thì quả là chuyện đáng ngờ, chưa nói tới những thứ khác. Ân phúc của loài tiên hay thần linh thì hoàn toàn dựa vào vận may, mà vận may như thế đâu tự dưng từ trên trời rơi xuống. Cuối cùng, lập khế ước với các thực thể ác quỷ thì nguy hiểm về mọi mặt, có bao nhiêu mạng cũng chẳng đủ. Nếu đơn giản thế thì thời còn sống tôi đã tăng được dung lượng Ma Lực từ lâu rồi.
 
 Trước đây tôi liên tục săn quái và hấp thu sức mạnh của chúng, nhưng lượng tăng lên khá lắm thì cũng chỉ như muối bỏ bể. Chém giết Goblin cùng đủ thứ quái suốt mười năm ròng, tôi vẫn chẳng thấy Ma Lực của mình có gì khác biệt.
 
@@ -158,9 +158,9 @@ Mới nghe thôi đã thấy rợn cả tóc gáy rồi, nói gì đến chuyệ
 
 Lorraine gật đầu ra vẻ am hiểu.
 
-"Thì đúng là vậy mà. Xui thì chết, còn may mắn thì sống. Đây tuyệt đối không phải cách bình thường, nhưng chắc chắn là có hiệu quả. Nếu sống sót, người đó nhất định sẽ cảm nhận được Ma Lực bên trong mình. Giờ chắc em đang thắc mắc tại sao đúng không? Lý do rất đơn giản: Ma Lực trong cơ thể người bình thường vốn thường ngưng đọng, thành thử rất khó nhận biết. Nếu không tự mình vận dụng được nguồn Ma Lực dự trữ đó, thì giải pháp thay thế là tiếp nhận năng lượng ma thuật từ bên ngoài. Bị ma pháp bắn trúng sẽ tạo ra một làn sóng, hay một gợn sóng năng lượng ma thuật chấn động khắp cơ thể. Chỉ cần tỉnh lại sau phen thập tử nhất sinh đó, người ta chắc chắn sẽ cảm nhận được luồng năng lượng ma thuật đang rạo rực bên trong."
+"Thì đúng là vậy mà. Xui thì chết, còn khá may mắn thì sống. Đây tuyệt đối không phải cách bình thường, nhưng chắc chắn có hiệu quả. Nếu sống sót, người đó nhất định sẽ cảm nhận được Ma Lực bên trong mình. Giờ chắc em đang thắc mắc tại sao đúng không? Lý do rất đơn giản: Ma Lực trong cơ thể người bình thường vốn nằm yên một chỗ, thành ra khá khó nhận biết. Nếu không tự mình vận dụng được nguồn Ma Lực dự trữ đó, thì cách thay thế là tiếp nhận năng lượng ma thuật từ bên ngoài. Khi bị trúng một ma pháp, nó sẽ tạo ra một làn sóng, hay một gợn sóng năng lượng ma thuật vang vọng khắp cơ thể. Chỉ cần tỉnh lại sau kiếp nạn đó, người ta chắc chắn sẽ cảm nhận được luồng năng lượng ma thuật đang cựa quậy bên trong."
 
-Lorraine thao thao bất tuyệt về lợi ích của cách này, nhưng Alize vẫn kịch liệt phản đối, và cũng chẳng khó hiểu tại sao.
+Lorraine kể ra kha khá lợi ích của cách này, nhưng Alize vẫn kiên quyết phản đối, và cũng chẳng khó hiểu tại sao.
 
 "Nhưng thưa Học Sĩ Lorraine... chắc trên đời chẳng có ai liều mạng đi thử cái trò nguy hiểm đến thế đâu nhỉ...?"
 
@@ -182,7 +182,7 @@ Nhưng tôi đâu có làm bừa. Hồi đó tôi nghe đồn trong rừng có m
 
 Sau vụ đó, nghe đâu tôi lết về nhà rồi ngất lịm đi, suốt mấy ngày liền vật lộn với những cơn sốt li bì mê man, ít ra thì người ta kể lại như thế. Thậm chí có người còn bảo tôi sốt đến mức hôn mê bất tỉnh.
 
-Nghĩ lại thì suốt ngần ấy năm qua tôi chưa từng nghe tin con Pháp Sư Goblin đó bị ai săn hạ; biết đâu chừng nó vẫn còn sống. Nếu đúng thế thật thì có khi tôi phải ghé thăm rồi cảm ơn nó một tiếng mới phải đạo.
+Nghĩ lại thì suốt ngần ấy năm qua tôi chưa từng nghe tin con Pháp Sư Goblin đó bị ai săn hạ; biết đâu nó vẫn còn sống. Nếu đúng thế thật thì có khi tôi phải ghé thăm rồi cảm ơn nó một tiếng mới được.
 
 Tôi kể cho Alize nghe đầu đuôi như thế. Nhưng cô bé chẳng hề thấy hay ho gì, trái lại còn quay sang nhìn Lorraine với vẻ mặt vừa cạn lời vừa khiếp hãi.
 
