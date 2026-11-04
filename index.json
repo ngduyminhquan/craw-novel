@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T20:42:49Z",
+  "generatedAt": "2026-11-04T20:46:43Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2614,7 +2614,7 @@
           "number": 77,
           "title": "Chương 77: Tập 3 Chương 4 - Ma Thuật (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_077.md",
-          "sha": "94a61ad5b82b5c87439e34c787f66643638e0d45"
+          "sha": "08f4127abc789598309347b263addf67fd0ed8d6"
         },
         {
           "number": 78,
