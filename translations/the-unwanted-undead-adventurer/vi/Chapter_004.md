@@ -1,133 +1,133 @@
 # Chương 4: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (3)
 
-Đúng như dự đoán, giả thuyết của tôi hoàn toàn chính xác—tôi mạnh lên một chút sau mỗi kẻ địch bị tiêu diệt. Sau trận chiến mở màn đó, tôi đã chạm trán và nhanh chóng hạ gục thêm vài con Khô Lâu khác. Mỗi lần như vậy, luồng sáng kỳ lạ kia lại bốc lên từ cơ thể chúng rồi dung nhập vào người tôi.
+Đúng như tôi dự đoán, quả nhiên sau mỗi kẻ địch bị hạ gục, tôi lại mạnh lên đôi chút. Tiếp sau trận chiến mở màn ấy, tôi chạm trán và nhanh chóng tiêu diệt thêm vài con Khô Lâu nữa. Cứ mỗi lần như vậy, luồng sáng kỳ lạ kia lại bốc lên từ xác chúng rồi hòa vào người tôi.
 
-Với mỗi luồng sáng hấp thụ được, tôi cảm thấy mình mạnh hơn và nhanh nhẹn hơn. Đó không đơn thuần chỉ là ảo giác tâm lý; cử động của tôi đã trở nên nhanh và mạnh mẽ hơn rõ rệt. Ngay cả những đòn tấn công bằng Khí Thuật của tôi cũng được gia tăng uy lực. Nếu như trong lần đụng độ đầu tiên, tôi đã phải chật vật mãi mới đẩy được lưỡi kiếm xuyên qua hộp sọ đối thủ, thì giờ đây chỉ cần dồn toàn lực, tôi đã có thể đánh bay các khớp xương của kẻ địch và đập nát chúng trong chớp mắt.
+Càng hấp thụ nhiều luồng sáng, tôi càng thấy mình khỏe hơn, nhanh hơn. Đó chẳng phải ảo giác; chuyển động của tôi đã dứt khoát và mạnh mẽ hơn thấy rõ. Ngay cả các đòn đánh bằng Khí Thuật cũng tăng thêm uy lực. Ở lần đụng độ đầu tiên, tôi phải trầy trật mãi mới đâm thủng được hộp sọ đối thủ, còn giờ đây, chỉ cần dồn sức ra đòn là tôi đã có thể đánh văng xương cốt kẻ địch, nghiền nát chúng trong nháy mắt.
 
-Có lẽ đã đến lúc tôi nên chuyển sang săn những con mồi lớn hơn, chẳng hạn như Slime. Chắc chắn tôi đã đủ mạnh để chí ít có thể nghĩ tới điều đó.
+Có lẽ đã đến lúc tôi nên chuyển sang con mồi lớn hơn một chút, chẳng hạn như Slime. Giờ thì ít ra tôi cũng đã đủ mạnh để dám nghĩ tới chuyện đó.
 
-Dù Slime tương đối yếu, tương tự như những quái vật Khô Lâu cơ bản, nhưng hình dạng bất định và cơ thể dạng thạch dẻo của chúng là những đặc tính không thể coi thường. Chính nhờ những đặc điểm này mà các đòn tấn công vật lý không mấy hiệu quả với chúng, thành thử cách dễ nhất để đánh bại Slime là tấn công chúng bằng ma pháp.
+Dù Slime cũng khá yếu, chẳng khác mấy lũ Khô Lâu cấp thấp, nhưng cơ thể dạng thạch không có hình thù cố định của chúng lại là thứ không thể xem nhẹ. Chính vì đặc tính đó mà đòn tấn công vật lý không mấy ăn thua, nên cách dễ nhất để hạ Slime là dùng ma pháp.
 
-Dù vậy, nói Slime miễn nhiễm với mọi thứ ngoại trừ ma pháp thì cũng không chính xác; người ta vẫn hoàn toàn có thể tiêu diệt chúng bằng các đòn tấn công vật lý.
+Nói vậy chứ bảo Slime miễn nhiễm với mọi thứ trừ ma pháp thì cũng không đúng; người ta vẫn hoàn toàn có thể hạ chúng bằng đòn tấn công vật lý.
 
-Có hai cách để làm điều này: thứ nhất là phá hủy lõi của Slime, vốn là một cơ quan dạng tinh thể nằm bên trong cơ thể nó. Nếu bộ phận đó bị phá hủy, Slime sẽ lập tức tan chảy rồi chết đi, chỉ để lại những viên Ma Tinh. Nhưng nói bao giờ cũng dễ hơn làm. Lõi của Slime không hề cố định một chỗ mà thường xuyên di chuyển lung tung bên trong cơ thể dạng lỏng của nó. Muốn dùng kiếm hay thương đâm trúng lõi đòi hỏi trình độ kỹ thuật và sự khéo léo nhất định. Những kỹ năng như vậy thường chỉ thấy ở các mạo hiểm giả vượt qua cấp độ Trung Đồng Cấp. Về điểm này, tôi chỉ là một mạo hiểm giả Hạ Đồng Cấp, nên hiển nhiên chẳng thể nào làm nổi chuyện đó.
+Có hai cách để làm việc đó. Cách thứ nhất là đập vỡ lõi của Slime—một cơ quan dạng tinh thể nằm bên trong cơ thể nó. Chỉ cần lõi vỡ, Slime sẽ lập tức tan chảy rồi chết, chỉ để lại Ma Tinh. Nhưng nói bao giờ cũng dễ hơn làm. Lõi Slime không đứng yên một chỗ mà liên tục trôi nổi bên trong cơ thể dạng lỏng. Muốn dùng kiếm hay thương đâm trúng nó đòi hỏi kỹ thuật và sự chuẩn xác nhất định. Trình độ cỡ đó thường chỉ có ở mạo hiểm giả từ Trung Đồng Cấp trở lên. Còn tôi chỉ là một gã Hạ Đồng Cấp, nên dĩ nhiên chẳng đời nào làm nổi.
 
-Cách thứ hai thì có phần nhếch nhác hơn một chút, người ta chỉ việc dùng lực tác động cùn để đánh văng các mảng dịch thạch ra xung quanh, dần dần tiếp cận được phần lõi trước khi Slime kịp tái tạo, rồi từ đó phá hủy nó. Vì đây là phương pháp vô cùng đơn giản nên ngay cả tôi cũng thực hiện được. Tuy nhiên, nó lại đòi hỏi một khoảng thời gian nhất định để hoàn tất.
+Cách thứ hai thì hơi bầy hầy một chút: cứ dùng lực đập văng các mảng thạch ra xung quanh, dần dần dọn đường tới chỗ cái lõi trước khi Slime kịp tái tạo rồi phá hủy nó. Vì phương pháp này cực kỳ đơn giản nên đến tôi cũng làm được. Có điều, nó đòi hỏi không ít thời gian.
 
-Bản chất dạng thạch khiến Slime có thể hợp thể lại ngay cả khi bị phân tán, bắt đầu từ mảnh lớn nhất. Để ngăn điều đó xảy ra, người ta hoặc phải tung ra một đòn tương đối mạnh, hoặc phải giáng một chuỗi đòn đánh dồn dập liên tiếp. Trong trường hợp của mình, tôi chọn một đòn tấn công duy nhất mang uy lực lớn được cường hóa bằng Khí Thuật. Đó cũng là tất cả những gì tôi có.
+Cơ thể dạng thạch giúp Slime có thể tụ lại kể cả khi bị đánh tan tành, bắt đầu từ mảnh lớn nhất. Muốn ngăn nó hồi phục, người ta phải tung ra một đòn cực mạnh hoặc giáng liên hoàn nhiều đòn chớp nhoáng. Còn tôi thì chọn dồn lực vào một đòn duy nhất được cường hóa bằng Khí Thuật. Đó cũng là tất cả những gì tôi làm được.
 
-Về cơ bản, khi còn sống tôi chỉ có thể săn được một con Slime mỗi ngày. Tôi yếu đến mức khó tin—
+Thành thử thời còn sống, mỗi ngày tôi chỉ săn nổi đúng một con Slime. Tôi yếu đến thảm hại—
 
-Dù sao thì rốt cuộc tôi cũng chỉ là một mạo hiểm giả Hạ Đồng Cấp. Tệ hơn nữa, tôi thường đi thám hiểm một mình thay vì lập tổ đội với những người khác.
+Mà thôi, dẫu sao tôi cũng chỉ là mạo hiểm giả Hạ Đồng Cấp. Tệ hơn nữa, tôi toàn đi thám hiểm một mình chứ chẳng lập đội cùng ai.
 
-Slime là loài quái vật đơn giản, có thể dễ dàng bị xử lý ngay cả khi chỉ cần một thành viên duy nhất trong tổ đội có đôi chút năng khiếu ma pháp. Người ta chẳng cần phải là một đại pháp sư mới hạ gục được Slime, bởi chỉ một quả cầu lửa hay mũi tên đất là đã giải quyết xong vấn đề. Nếu có gì đáng nói, thì rất ít mạo hiểm giả lại chọn cái cách tốn thời gian và kém hiệu quả mà lúc này tôi đang buộc phải dùng.
+Slime là loại quái vật đơn giản, chỉ cần trong đội có một người biết chút ma pháp là dễ dàng giải quyết gọn gàng. Chẳng cần phải là pháp sư cao siêu gì, một quả cầu lửa hay một mũi tên đất là đã đủ xử lý chúng rồi. Nói đúng ra, hiếm mạo hiểm giả nào lại chọn cái cách vừa tốn thời gian vừa kém hiệu quả mà lúc này tôi buộc phải dùng.
 
-Bù lại, tôi có thể săn những quái vật cấp thấp như Khô Lâu hay Goblin với số lượng tương đối lớn. Điều này mang lại nguồn thu nhập khá ổn định cho một mạo hiểm giả Hạ Đồng Cấp như tôi. Dẫu vậy, dưới hình hài hiện tại, tôi thậm chí còn có thể khiến kẻ thù truyền kiếp của mình là lũ Slime phải dè chừng đôi phần.
+Bù lại, tôi có thể săn quái vật cấp thấp như Khô Lâu hay Goblin với số lượng khá lớn. Nhờ đó, một mạo hiểm giả Hạ Đồng Cấp như tôi cũng kiếm được khoản thu nhập kha khá. Mà biết đâu dưới hình hài hiện tại, tôi lại đủ sức chơi một trận sòng phẳng với kẻ thù truyền kiếp là lũ Slime ấy chứ.
 
-Sau khi rốt cuộc cũng quen được với cơ thể xương xẩu này, tôi đã có thể tung ra những đòn đánh mang sức nặng đáng kể ngay cả khi không vận dụng Khí Thuật. Chắc chắn bấy nhiêu đã đủ để đánh tan cơ thể dạng thạch của một con Slime.
+Sau khi đã quen dần với bộ xương này, tôi có thể tung ra những đòn đánh khá mạnh tay ngay cả khi không dùng tới Khí Thuật. Chắc chắn chừng đó là đủ để đánh tan xác cơ thể dạng thạch của Slime.
 
-Đã đến lúc đem những khả năng mới này ra thử lửa. Tôi khởi hành tới một khu vực trong Mê Cung Nguyệt Ảnh vốn nổi tiếng là nơi sinh sống của kẻ thù truyền kiếp của mình. Dù tôi đã tiêu diệt một con trên đường tiến vào khu vực chưa từng được khám phá của mê cung, nhưng theo suy đoán của tôi thì thời gian trôi qua cũng đã đủ lâu để diễn ra quá trình Tái Sinh Quái. Đương nhiên, hoàn toàn có khả năng một mạo hiểm giả khác đã nhanh chân xử lý con Slime trước tôi.
+Đã đến lúc đem năng lực mới này ra thử sức. Tôi lên đường tới một khu vực trong Mê Cung Nguyệt Ảnh vốn nổi tiếng là địa bàn của loài quái này. Dù trước đó tôi đã hạ một con trên đường vào khu vực chưa từng được khai phá, nhưng theo tôi tính toán thì thời gian trôi qua đã đủ lâu để một con mới xuất hiện trở lại. Đương nhiên, cũng không loại trừ khả năng đã có mạo hiểm giả khác nhanh chân hạ nó trước tôi.
 
-Sau khi thám hiểm các mê cung suốt một thời gian dài dằng dặc, người ta rồi cũng sẽ hình thành một cảm thức sinh học về thời gian giữa bốn bức tường này, điều rất hữu ích cho việc theo dõi giờ giấc khi khảo sát. Trong những mê cung đông đúc, mùi máu tanh và kim loại thường tràn ngập không khí, cộng thêm những rung chấn do giao tranh gây ra có thể cảm nhận rõ rệt qua sàn và vách đá. Trong trường hợp của tôi, tôi đã dành phần lớn thời gian để khám phá mê cung cụ thể này, và do đó tôi nắm khá rõ nhịp độ thời gian của nó. Nhờ vậy, tôi thậm chí còn xác định được khu vực nào trong mê cung sẽ có lượng mạo hiểm giả qua lại đông đúc vào từng thời điểm nhất định trong ngày.
+Lăn lộn trong mê cung suốt thời gian dài, người ta sẽ dần hình thành một chiếc đồng hồ sinh học ngay bên dưới những bức tường này, rất tiện để canh giờ khi thám hiểm. Ở các mê cung đông người, không khí thường nặc mùi máu tanh và kim loại, chưa kể những rung chấn do giao tranh truyền qua sàn và vách đá. Riêng với nơi này, tôi đã dành phần lớn năm tháng để gắn bó với nó nên nắm rất rõ nhịp độ thời gian. Nhờ vậy, tôi thậm chí còn biết được vào từng thời điểm trong ngày, khu vực nào sẽ có đông mạo hiểm giả qua lại.
 
-Bởi thế, tôi nhận định rằng không có mạo hiểm giả nào thường lui tới mê cung này vào khoảng thời gian này. Dù sao thì đây cũng chẳng phải mê cung duy nhất quanh thị trấn Maalt. Gần đây vẫn còn một mê cung khác lớn hơn, hình như được gọi là Mê Cung Tân Nguyệt.
+Vì thế, tôi dám chắc vào tầm giờ này chẳng có mạo hiểm giả nào lai vãng tới đây đâu. Dẫu sao thì quanh thị trấn Maalt đâu chỉ có mỗi mê cung này. Ngay gần đó còn một mê cung khác lớn hơn nhiều, mang tên Mê Cung Tân Nguyệt.
 
-Nhiều phần của mê cung đó vẫn chưa được khám phá, với vô số khu vực và tầng mê cung mới chỉ được vẽ bản đồ một phần. Hệ quả là phần lớn mạo hiểm giả ở Maalt đều đổ dồn về Mê Cung Tân Nguyệt. Những ai chọn lui tới Mê Cung Nguyệt Ảnh thay vào đó hoặc là những kẻ cố chấp, hoặc là những mạo hiểm giả đơn độc không thể tìm được tổ đội để tiến sâu vào tầng đáy của Mê Cung Tân Nguyệt.
+Mê cung đó vẫn còn rất nhiều nơi chưa ai đặt chân tới, vô số khu vực và tầng mê cung chỉ mới vẽ được bản đồ sơ lược. Thành thử phần lớn mạo hiểm giả ở Maalt đều đổ dồn về Tân Nguyệt. Những ai còn lui tới Nguyệt Ảnh chỉ có hai dạng: hoặc là những kẻ cứng đầu, hoặc là những mạo hiểm giả đơn độc không tìm nổi một tổ đội để dấn thân sâu vào Tân Nguyệt.
 
-Nói cho rõ thì tôi thuộc về nhóm thứ hai. Dù ban đầu tôi cũng muốn khám phá Mê Cung Tân Nguyệt, nhưng nơi đó lại đầy rẫy vô số quái vật, bao gồm cả những loài chuyên tấn công mạo hiểm giả theo bầy đàn. Một mạo hiểm giả Hạ Đồng Cấp lang thang một mình vào mê cung đó chẳng khác nào tự tìm đường chết. Trừ những lần được mời vào phút chót để lấp chỗ trống trong tổ đội của ai đó, tôi vẫn thích săn bắn ở Mê Cung Nguyệt Ảnh hơn nhiều.
+Nói thẳng ra thì tôi thuộc nhóm thứ hai. Dù bản thân cũng từng muốn khám phá Mê Cung Tân Nguyệt, nhưng nơi ấy lúc nhúc quái vật, trong đó có cả những loài chuyên săn mạo hiểm giả theo bầy. Một gã Hạ Đồng Cấp mà dám vác xác một mình vào đó thì chẳng khác nào tự ký án tử. Trừ những lần hiếm hoi được kéo vào lấp chỗ trống cho tổ đội khác vào phút chót, tôi vẫn chuộng săn bắn ở Mê Cung Nguyệt Ảnh hơn nhiều.
 
-Nghĩ lại thì đó quả là một cuộc đời tương đối cô độc.
+Nghĩ lại, cuộc sống ấy đúng là có phần đơn độc thật.
 
-Có rất nhiều lý do giải thích cho việc tôi thám hiểm một mình, nhưng lý do chính yếu lại rất đơn giản: chẳng mạo hiểm giả nào muốn chung đội với tôi. Xét cho cùng, tôi đã mắc kẹt ở cấp bậc Hạ Đồng Cấp ngót nghét mười năm. Ngay cả những mạo hiểm giả kém tài nhất cũng sẽ vươn lên cấp độ Trung Đồng Cấp hay Thượng Đồng Cấp trong khoảng thời gian dài dằng dặc dường ấy.
+Có nhiều lý do khiến tôi phải thám hiểm một mình, nhưng lý do lớn nhất lại rất đơn giản: chẳng ai muốn chung đội với tôi cả. Dù sao thì tôi cũng đã giậm chân ở bậc Hạ Đồng Cấp suốt ngót nghét mười năm trời. Suốt ngần ấy năm, ngay cả kẻ kém cỏi nhất cũng phải ngoi lên được Trung Đồng Cấp hay Thượng Đồng Cấp rồi.
 
-—Nhưng rõ ràng điều đó lại không đúng với tôi.
+—Nhưng rõ ràng tôi lại chẳng được như vậy.
 
-Dẫu vậy, tôi không hoàn toàn bị cô lập; thỉnh thoảng tôi vẫn được mời gia nhập các tổ đội khác. Tuy nhiên, vì muốn trở thành mạo hiểm giả Mithril Cấp bằng chính thực lực của mình, bản chất của ước mơ đó đã ngăn tôi tham gia tổ đội của người khác quá thường xuyên. Thêm vào đó, việc giậm chân tại chỗ quá lâu trong thứ hạng mạo hiểm giả dường như đã đem lại cho tôi cái danh xưng "Đồng Cấp Ngàn Năm", và hệ quả là ngay cả những lời mời tổ đội thi thoảng xuất hiện cũng dần dần vắng bóng.
+Dẫu vậy, không phải tôi hoàn toàn bị cô lập; thi thoảng người ta vẫn mời tôi vào đội. Thế nhưng, vì muốn leo lên hàng ngũ Mithril Cấp bằng chính thực lực của mình, cái ước mơ ấy khiến tôi không thể thường xuyên đi chung với các tổ đội khác. Chưa kể, việc giậm chân ở một bậc quá lâu còn khiến tôi bị người ta gán cho cái danh "Đồng Cấp Ngàn Năm", thành thử ngay cả những lời mời hiếm hoi kia rốt cuộc cũng vắng bóng hẳn.
 
-Đó là một câu chuyện buồn, nên tạm gác nó sang một bên đã. Quan trọng hơn, tôi vẫn phải tự săn cho mình một con Slime.
+Nghĩ tới lại thấy buồn, nên thôi gác qua một bên đi. Quan trọng là bây giờ tôi vẫn phải đi săn một con Slime đã.
 
-Gạt bỏ những suy nghĩ ấy, tôi tiếp tục tiến bước, và chẳng mấy chốc đã đập vào mắt tôi hình ảnh một con quái vật dạng thạch gần như trong suốt đang chuyển động chậm chạp.
+Gác lại dòng suy nghĩ, tôi tiếp tục bước đi. Chẳng mấy chốc, trước mắt tôi đã xuất hiện một con quái vật dạng thạch gần như trong suốt đang chậm chạp bò tới.
 
-—Không thể nhầm vào đâu được, đó chính là một con Slime.
+—Đích thị là một con Slime, không lẫn vào đâu được.
 
-Rút kiếm ra, tôi chầm chậm lần mò áp sát kẻ thù truyền kiếp của mình, chính là cái giống loài Slime mà tôi đã miệt mài săn suốt mười năm qua.
+Rút kiếm ra, tôi rón rén bám theo kẻ thù truyền kiếp, đúng cái loài Slime mà suốt mười năm qua tôi vẫn thường săn đuổi.
 
 ◆◇◆◇◆
 
-Chẳng mất quá nhiều thời gian để tôi nhận ra con Slime này có đôi chút khác biệt so với đồng loại của nó. Cơ thể nó trong trẻo và trong suốt—rõ ràng là nó mới chỉ tái xuất hiện cách đây không lâu.
+Tôi nhanh chóng nhận ra con Slime này hơi khác so với đồng loại. Toàn thân nó trong suốt không một vẩn đục; rõ ràng là nó mới xuất hiện lại cách đây không lâu.
 
-Một con Slime sạch sẽ như thế này tương đối hiếm gặp. Có lẽ cũng đáng nhắc tới rằng màu sắc của Slime thường trở nên đục ngầu sau khi sống được một thời gian, chủ yếu là do chúng ăn các quái vật khác, hoặc thi thoảng là những con thú nhỏ xấu số. Bị kẹt trong cơ thể dạng thạch của Slime, con mồi sẽ từ từ tan chảy, tạo nên một cảnh tượng hết sức khó chịu. Slime cũng rất hay nuốt chửng xác chết và các loại thi thể khác, nên chuyện nhìn thấy xương xẩu cùng phần còn lại đang bị tiêu hóa dở của quái vật lơ lửng bên trong cơ thể Slime là điều thường thấy. Những mạo hiểm giả mới vào nghề chưa quen với cảnh tượng nội tạng kinh tởm thường nôn thốc nôn tháo.
+Một con Slime sạch sẽ thế này thuộc dạng khá hiếm. Thường thì sống được một thời gian, thân mình Slime sẽ đục ngầu đi, chủ yếu do chúng nuốt quái vật khác hoặc thi thoảng là vài con thú nhỏ xấu số. Bị giam trong khối thạch nhầy, con mồi sẽ tan rữa từ từ, tạo nên một cảnh tượng kinh khủng vô cùng. Slime cũng rất hay hút xác thối, nên chuyện bắt gặp xương xẩu cùng phần thịt đang tiêu hóa dở của quái vật lơ lửng bên trong thân nó là điều như cơm bữa. Mạo hiểm giả mới vào nghề chưa quen mắt với cảnh tượng lòng phèo lục phủ ngũ tạng thường nôn thốc nôn tháo.
 
-Trong khi cảnh tượng chuột chết và những thứ tương tự còn có thể phần nào chịu đựng được, thì Slime đôi khi lại hấp thụ cả tàn tích của những quái vật dạng người như Goblin, hoặc trong vài trường hợp, thậm chí là thi thể đang tiêu hóa dở của những mạo hiểm giả đã bỏ mạng khi khám phá mê cung. Phần lớn mạo hiểm giả sẽ mất hết hứng thú thám hiểm sau khi chứng kiến cảnh tượng đó, nếu như không muốn nói là lộn mửa cả ruột gan. Dĩ nhiên, những ai cứ dễ dàng kinh tởm như vậy sẽ chẳng thể bám trụ với nghề mạo hiểm giả được lâu. Dẫu rằng ngay cả những người kiên trì bước tiếp trên con đường mạo hiểm giả vẫn không khỏi thấy ghê sợ trước những xác chết bị tiêu hóa dở.
+Thấy chuột chết hay mấy thứ tương tự thì còn ráng nhịn được, chứ thỉnh thoảng Slime còn nuốt cả xác quái vật dạng người như Goblin, thậm chí có trường hợp là thi thể đang rữa dở của những mạo hiểm giả bỏ mạng giữa mê cung. Chứng kiến cảnh tượng ấy, phần lớn mạo hiểm giả chẳng những mất sạch hứng thú thám hiểm mà khéo còn móc họng nôn sạch cả dạ dày. Dĩ nhiên, những ai mà động tí là buồn nôn thì chẳng thể gắn bó lâu với nghề. Mà kể cả những người kiên trì bám trụ thì nhìn mấy cái xác người rữa dở bên trong thân nó cũng vẫn thấy rợn tóc gáy như thường.
 
-Trong trường hợp của mình, tôi chẳng mấy bận tâm, bởi tôi đã gắn bó với nghề mạo hiểm giả ngót nghét mười năm có lẻ. Kinh nghiệm thông thường chỉ ra rằng mạo hiểm giả cần phải tôi luyện sự gan dạ của mình ngay từ năm đầu tiên vào nghề.
+Riêng tôi thì chẳng thấy mấy cảm giác, bởi tôi đã gắn bó với nghề mạo hiểm giả suốt hơn chục năm trời rồi. Thiên hạ vẫn bảo mạo hiểm giả phải luyện cho dạ dày sắt đá ngay từ năm đầu tiên bước chân vào nghề.
 
-Kéo tâm trí quay về từ một dòng suy nghĩ miên man khác, tôi một lần nữa nhận thức được độ trong trẻo hiếm thấy của con Slime trước mắt. Dù hiện tại tôi là một Khô Lâu, và có thể còn đáng sợ hơn đối với người bình thường trong một số tình huống (chí ít là đáng sợ hơn một con Slime đang tiêu hóa dở bữa ăn của nó), nhưng cảm xúc của tôi vẫn vẹn nguyên là của con người.
+Tự kéo mình ra khỏi dòng suy nghĩ miên man, tôi nhìn lại thân hình trong veo của con Slime trước mặt. Dù giờ đây tôi là một Khô Lâu và trong mắt người thường khéo còn đáng sợ hơn cả một con Slime đang tiêu hóa dở bữa ăn, nhưng cảm xúc bên trong tôi vẫn vẹn nguyên là của một con người.
 
-Tôi chẳng muốn ai nghĩ rằng mình tìm thấy bất kỳ niềm vui thích nào từ việc tiêu diệt một con Slime chứa đầy xác chết. Nhưng con Slime cụ thể này lại rất sạch, vô cùng sạch sẽ là đằng khác. Chất dịch của một con Slime mới tái sinh như thế này đáng giá một món tiền khá hời. Nếu người ta có thể tìm cách thu thập chất dịch của nó vào một vật chứa nào đó, nó có thể được bán cho Hội Mạo Hiểm Giả hoặc một giả kim thuật sư như một loại nguyên liệu quan trọng và quý hiếm. Ngay cả chất dịch của một con Slime không thuần khiết cũng có thể đun sôi và pha trộn với nhiều loại dược liệu để chế tạo thuốc hồi phục cơ bản, nên nó tuyệt nhiên không phải thứ nguyên liệu tồi tệ. Tuy nhiên, chất dịch của một con Slime thuần khiết và sạch sẽ lại có nhiều công dụng hơn hẳn, và do đó có thể bán được với giá cao hơn rất nhiều.
+Tôi đâu muốn ai nghĩ mình có sở thích bệnh hoạn là đi chém mấy con Slime ngập ngụa xác thối. Nhưng con Slime này thì sạch thật, sạch tinh tươm là đằng khác. Dịch của một con Slime mới xuất hiện như thế này đáng giá một món tiền kha khá. Nếu đựng được chất dịch của nó vào bình chứa, người ta có thể bán cho Hội Mạo Hiểm Giả hoặc nhà giả kim như một loại nguyên liệu quý hiếm. Ngay cả dịch của một con Slime đục ngầu, đem đun sôi rồi trộn với thảo dược cũng chế ra được thuốc hồi phục cơ bản, nên nó chẳng phải thứ bỏ đi chút nào. Huống hồ dịch của một con Slime sạch bóng lại càng nhiều công dụng hơn, giá bán vì thế cũng đắt hơn gấp bội.
 
-Dù giờ đây đã là một Khô Lâu, chiếc thắt lưng đựng dụng cụ tôi đeo khi còn sống vẫn còn gắn bên hông tôi. Trong chiếc thắt lưng đó có một bình chứa mà tôi đã chuẩn bị sẵn cho tình huống này, và tôi nhanh chóng quyết định rằng đó sẽ là hướng hành động mình sẽ làm sau khi đánh bại con Slime.
+Dù giờ đã thành Khô Lâu, chiếc đai dụng cụ tôi đeo lúc còn sống vẫn nằm nguyên bên hông. Trên đai có một chiếc bình tôi chuẩn bị riêng cho trường hợp này, và tôi nhanh chóng quyết định sẽ thu hoạch nó ngay sau khi hạ gục con Slime.
 
-Chầm chậm, và với những cử động trông hết sức đáng ngờ, tôi bắt đầu áp sát con Slime. Khi tôi làm vậy, con Slime như thể nhận ra tôi, nó run rẩy dữ dội rồi bắn ra thứ trông giống như một khối nước về hướng tôi.
+Tôi chậm rãi áp sát con Slime với những động tác lén lút nom hết sức khả nghi. Vừa thấy tôi đến gần, con Slime dường như đã phát hiện ra kẻ địch, nó run lên bần bật rồi bắn một bọc nước về phía tôi.
 
-Đoán trước được đòn tấn công của nó, tôi né gọn sang một bên. Khối nước mà tôi vừa tránh được lập tức rơi xuống mặt đất rồi bắt đầu ăn mòn đất đá. Chẳng mất bao lâu để một làn khói mỏng bốc lên từ mảng đất xấu số đó.
+Đoán trước đòn tấn công, tôi lách người né gọn. Bọc nước rơi thẳng xuống nền đất, lập tức sủi bọt ăn mòn mặt đất đá. Chỉ vài giây sau, một làn khói mỏng đã bốc lên từ vạt đất xấu số.
 
-Đây là một trong những đòn tấn công đặc trưng của Slime—Acid Blitz. Đúng như tên gọi của nó, Slime sản sinh ra một chất mang tính axit bên trong cơ thể, rồi bắn nó ra như một đòn tấn công tầm xa dạng đạn pháo. Bất cứ thứ gì bất hạnh trúng phải đòn tấn công đó đều sẽ bị hòa tan.
+Đây là đòn tấn công trứ danh của loài Slime—Acid Blitz. Đúng như tên gọi, Slime tạo ra chất axit bên trong cơ thể rồi bắn ra như một loại đạn tầm xa. Bất cứ thứ gì xui xẻo dính phải đòn này đều sẽ bị axit ăn mòn tan chảy.
 
-Đó là một đòn đánh hệ axit đơn giản, và tùy thuộc vào vị trí trúng đòn của nạn nhân, nó sẽ không gây ra quá nhiều sát thương. Tuy nhiên, nếu nó bắn trúng vào mắt chẳng hạn, nạn nhân xấu số chắc chắn sẽ không thể lành lặn thoát thân. Chí ít, người ta nên nỗ lực bảo vệ khuôn mặt mình trong một cuộc chạm trán như vậy.
+Đòn bắn axit này khá đơn giản, trúng vào đâu thì còn tùy, nhưng thường không gây sát thương quá nặng. Có điều, lỡ dính đòn vào mắt thì nạn nhân khó mà lành lặn nổi. Chí ít khi giáp mặt với chúng, người ta cũng phải cố mà che chắn lấy khuôn mặt mình.
 
-Dù dưới hình hài hiện tại tôi sẽ không bị mất thị lực vì một đòn axit đơn thuần trúng vào mặt, nhưng cấu trúc xương sọ của tôi rất có thể sẽ bị tan chảy, và trong trường hợp đó tôi sẽ chết đứt. Vậy nên mất thị lực vốn chẳng phải vấn đề ở đây. Tôi chợt nhận ra mình phải né tránh từng đòn tấn công của Slime, cốt để giữ an toàn.
+Dưới hình hài hiện tại, dính một đòn axit vào mặt thì chẳng lo bị mù, nhưng hộp sọ của tôi nhiều khả năng sẽ bị nấu chảy, đồng nghĩa với việc tôi sẽ mất mạng ngay tắp lự. Thế nên hỏng mắt đâu phải điều đáng lo nhất. Tốt hơn hết là tôi phải né bằng sạch mọi đòn tấn công của nó cho an toàn.
 
-Đáng chú ý là dù đòn tấn công của Slime tương đối nguy hiểm, bản thân con Slime lại chậm chạp rõ rệt. Một con Slime bình thường như con này vốn không hề nổi tiếng về tốc độ di chuyển. Thêm vào đó, cử động của nó rất dễ đoán; tất cả những gì tôi phải làm là đủ cẩn thận. Chừng nào người ta còn cảnh giác trước mối đe dọa thường trực từ viên đạn Acid Blitz bay nhanh, thì Slime tuyệt nhiên không phải loài quái vật đáng sợ.
+Có điều, tuy đòn đánh khá nguy hiểm nhưng bản thân Slime lại cực kỳ chậm chạp. Giống Slime thường này xưa nay chẳng con nào chạy nhanh được. Hơn nữa, động tác của nó cũng rất dễ đoán; tôi chỉ cần cẩn thận một chút là xong. Miễn là luôn đề phòng tốc độ bay của phát bắn Acid Blitz, thì Slime tuyệt nhiên chẳng phải loài quái vật đáng sợ gì.
 
-Nếu có gì đáng bận tâm, thì vấn đề chính mà các mạo hiểm giả phải đối mặt khi tìm cách đánh bại một con Slime lại nằm ở chính bộ kỹ năng và năng lực của bản thân họ.
+Thực chất, trở ngại lớn nhất của mạo hiểm giả khi tìm cách hạ một con Slime lại nằm ở kỹ năng và năng lực của chính bản thân họ.
 
-Nhờ vào trạng thái Khô Lâu hiện tại cùng nguồn năng lượng hấp thụ được từ những con Khô Lâu khác mà tôi đã hạ gục, tôi đang mạnh hơn bao giờ hết. Chí ít, lúc này tôi đã có thể cử động gần bằng tốc độ ban đầu khi còn sống. Tôi chắc chắn sẽ không thua trước một thứ như Slime.
+Nhờ vào cơ thể Khô Lâu và năng lượng hấp thụ được từ mấy con Khô Lâu vừa hạ, tôi đang khỏe hơn lúc nào hết. Ít nhất thì hiện tại tôi cũng di chuyển được gần bằng tốc độ khi còn sống. Chẳng lẽ tôi lại chịu thua trước một con Slime hay sao.
 
-Khi tôi từ từ tiến bước, con Slime lại làm động tác chuẩn bị bắn thêm một đợt axit nữa về phía tôi. Tuy nhiên lần này tôi đã chuẩn bị sẵn sàng, giương kiếm lên và gia tăng tốc độ bằng Khí Thuật. Lao vụt về phía con Slime, tôi vung kiếm chém xuống trong chớp mắt, đánh trúng cơ thể nó rồi nhanh chóng lùi lại trước khi nó kịp bắn xong bãi axit.
+Khi tôi từng bước ép sát, con Slime lại rục rịch chuẩn bị nhả thêm một bọc axit về phía tôi. Nhưng lần này tôi đã thủ sẵn kiếm và dùng Khí Thuật đẩy nhanh tốc độ. Lao vụt về phía trước, tôi chém xuống một nhát chớp nhoáng trúng ngay thân nó, rồi nhanh chóng lùi phắt lại trước khi nó kịp bắn axit.
 
-Dù tôi cảm thấy có thứ gì đó gãy rạp khi đòn đánh chạm đích, nhưng chẳng đời nào tôi lại hạ gục được con Slime ngay tức khắc. Với ý nghĩ đó trong đầu, tôi nhanh chóng lấy lại thế thủ, một lần nữa chuẩn bị sẵn sàng cho một đòn đánh tiếp theo.
+Dù cảm giác được nhát chém vừa rồi đã nghiến vỡ thứ gì đó, nhưng đời nào tôi lại hạ gục được con Slime nhanh đến thế. Nghĩ vậy, tôi lập tức thủ thế, sẵn sàng bồi thêm một nhát nữa.
 
-Nhưng lần này, con Slime lại làm một điều bất ngờ. Thay vì tiếp tục tung đòn tấn công, nó chỉ đơn giản dừng lại, run rẩy tại chỗ. Đột nhiên, nó ngừng chuyển động hoàn toàn, trước khi nhanh chóng tan chảy thành một vũng nước vô hồn.
+Thế nhưng con Slime lại phản ứng ngoài dự liệu. Thay vì phản công, nó bỗng khựng lại, run rẩy kịch liệt. Rồi trong chốc lát, nó hoàn toàn bất động, trước khi tan biến thành một vũng nước vô hồn.
 
-Đây là hiện tượng thường thấy khi Slime đón nhận cái chết—khi sinh mệnh lực chống đỡ cho cơ thể dạng thạch biến mất, chúng trở về trạng thái dạng lỏng, nằm rũ rượi trên mặt sàn mê cung. Nói một cách đơn giản, con Slime mà tôi vừa chém trúng bằng vũ khí của mình đã chết hẳn rồi.
+Đây là hiện tượng quen thuộc mỗi khi loài Slime bỏ mạng: một khi sinh mệnh lực duy trì cơ thể dạng thạch tiêu tan, chúng sẽ trở về trạng thái lỏng rồi chảy lênh láng trên sàn mê cung. Nói ngắn gọn thì con Slime tôi vừa chém đã chết hẳn rồi.
 
-Tôi không khỏi bàng hoàng trước diễn biến bất ngờ này. Điều đó vượt ngoài tầm hiểu biết; xét cho cùng, tôi chưa từng có khả năng hạ gục một con Slime chỉ bằng một đòn duy nhất khi mình còn thở dưới tư cách một mạo hiểm giả Hạ Đồng Cấp. Dẫu vậy, sự thật phơi bày trước mắt tôi là không thể chối cãi.
+Trước diễn biến bất ngờ này, tôi không khỏi sững sờ. Thật khó mà tin nổi, bởi thời còn sống làm một mạo hiểm giả Hạ Đồng Cấp, chưa bao giờ tôi có thể một đòn hạ gục được Slime. Thế nhưng sự thật rành rành trước mắt lại chẳng thể chối cãi.
 
-Do tính chất của đòn tấn công liều mạng, tôi đã không kịp xác nhận, nhưng có lẽ vũ khí của tôi đã chém trúng lõi của Slime nhờ một sự may mắn ngẫu nhiên. Chỉ có như vậy tôi mới có thể giải thích thỏa đáng cho những gì vừa xảy ra.
+Lúc nãy dốc toàn lực tấn công nên tôi không kịp nhìn rõ, nhưng biết đâu nhát kiếm vừa rồi đã ăn may chém trúng ngay lõi của nó? Chỉ có vậy mới giải thích nổi chuyện vừa xảy ra.
 
-Nếu có điều gì cần nhớ, thì tôi nên chuẩn bị tinh thần rằng mình sẽ không gặp may mắn như thế khi chạm trán con Slime thứ hai. Cẩn trọng, trong trường hợp này, là một đức tính vô cùng quý giá.
+Dù sao thì tôi cũng phải chuẩn bị sẵn tâm lý rằng tới con Slime thứ hai, vận may sẽ chẳng lặp lại đâu. Trong hoàn cảnh này, cẩn trọng vẫn là trên hết.
 
-Quan trọng hơn, đó là chuyện về dịch thạch của Slime—loại nguyên liệu giả kim mà tôi muốn thu hoạch. Nếu chất dịch của Slime chạm xuống mặt đất, nó sẽ không còn dùng được như một loại nguyên liệu sạch nữa, nên người ta phải chuẩn bị sẵn bình chứa trong tay vào đúng thời điểm thích hợp.
+Nhưng quan trọng hơn lúc này là chất nhầy của con Slime—thứ nguyên liệu giả kim tôi đang muốn thu hoạch. Nếu dịch Slime chạm xuống đất, nó sẽ không còn là nguyên liệu tinh khiết nữa, nên người ta luôn phải chuẩn bị sẵn bình chứa để hứng thật kịp thời.
 
-Đương nhiên, nếu người ta cố làm điều này với một con Slime còn sống, chiếc bình chứa sẽ chỉ nảy bật ra khỏi màng bao của nó. May mắn thay, lớp màng này tan biến ngay khi Slime chết, và cảm giác lúc đó chẳng khác nào thọc tay vào một xô thạch dẻo.
+Tất nhiên, nếu cố làm trò này khi Slime còn sống thì miệng bình sẽ bật ra khỏi lớp màng của nó ngay. May là lớp màng đó sẽ tan biến khi Slime chết, lúc bấy giờ cắm bình vào người nó có cảm giác chẳng khác gì thọc tay vào một xô thạch.
 
-Rút chiếc bình chứa từ thắt lưng dụng cụ ra, tôi cắm miệng bình vào cơ thể con Slime đang hấp hối, rót đầy ắp chất lỏng. Dù khi còn sống Slime bắn ra chất dịch axit cực mạnh như đòn Acid Blitz, nhưng kỳ lạ thay khi chết nó lại chẳng mang chút tính axit nào. Trên thực tế, những mạo hiểm giả có thói quen thọc tay vào xác Slime nhận thấy tay họ thường trở nên sạch sẽ và tươi tắn hơn. Nhân tiện nhắc tới chuyện đó, dịch cơ thể của Slime thường được dùng trong mỹ phẩm của phụ nữ. Quả thật, chất dịch Slime sạch thường được sử dụng cho chính mục đích này, bởi nó dường như sở hữu một số đặc tính dược liệu nhờ vào thành phần độc đáo của mình.
+Rút chiếc bình từ đai dụng cụ ra, tôi cắm miệng bình vào thân con Slime đang tan biến, hứng cho tới khi đầy ắp. Dù lúc sống Slime bắn ra dịch axit cực mạnh như chiêu Acid Blitz, nhưng khi chết rồi thì kỳ lạ thay, chất dịch của nó lại chẳng còn chút tính axit nào. Thậm chí, những mạo hiểm giả có thói quen thọc tay vào xác Slime còn thấy da tay mình sạch sẽ và mịn màng hơn hẳn. Nói mới nhớ, dịch Slime vốn rất hay được dùng làm mỹ phẩm cho phụ nữ. Đặc biệt là dịch Slime sạch, nhờ thành phần độc đáo mang dược tính mà thường được săn đón cho mục đích này.
 
-Trong khi một loại nguyên liệu quý hiếm như vậy hoàn toàn có thể dễ dàng dùng để điều chế các loại thuốc hồi phục cao cấp hơn, phần lớn chúng rốt cuộc lại được dùng làm mỹ phẩm. Tôi chợt nghĩ rằng khát khao mưu cầu cái đẹp của phái nữ dường như là một nỗ lực vô tận.
+Dù một loại nguyên liệu quý hiếm như vậy thừa sức dùng để điều chế thuốc hồi phục cao cấp, nhưng rốt cuộc phần lớn lại đem đi làm mỹ phẩm. Tôi chợt nghĩ, công cuộc mưu cầu nhan sắc của phái nữ quả là chuyện không có điểm dừng.
 
-Liệu có thực sự cần thiết phải làm mỹ phẩm từ các bộ phận của quái vật đến thế không...?
+Chẳng lẽ người ta nhất thiết phải lấy bộ phận quái vật làm mỹ phẩm đến thế cơ à...?
 
-Chà, tôi đoán điều đó cũng có phần hợp lý—người ta nói rằng các nguyên liệu có nguồn gốc từ quái vật mang lại hiệu quả to lớn đối với con người. Tác động của chúng được cho là trải dài từ trường sinh bất lão, hồi sinh người chết, cho đến cả việc biến một ông già trở lại thời thanh xuân... Có lẽ đây là tiến trình tự nhiên trong quy luật vận hành của vạn vật.
+Mà thôi, nghĩ lại thì cũng có lý—nghe đồn các nguyên liệu chiết xuất từ quái vật mang lại tác dụng thần kỳ cho cơ thể con người. Công hiệu từ trường sinh bất lão, hồi sinh người chết, cho tới việc cải lão hoàn đồng giúp một ông già trẻ lại... Cứ theo đà đó thì đem làm đẹp kể cũng là lẽ thường tình.
 
-Kết thúc màn độc thoại nội tâm, tôi quay sang nhìn chiếc bình chứa lúc này đã được đong đầy bởi xác con Slime đang nhanh chóng xẹp xuống. Rót đầy tới tận miệng bình, tôi từ từ rút nó ra khỏi đống nhầy nhụa đang tan biến của con Slime, cẩn thận không để rớt một giọt chất dịch quý giá nào.
+Dứt dòng độc thoại, tôi nhìn lại chiếc bình lúc này đã hứng đầy dịch từ cái xác Slime đang xẹp rúm ró. Chờ cho bình đầy tới miệng, tôi chậm rãi rút nó ra khỏi đống chất nhầy, cẩn thận không để rớt một giọt dịch quý giá nào.
 
-Tốt lắm. Thứ này chắc chắn sẽ bán được một món tiền vàng kha khá.
+Tốt lắm. Thứ này chắc chắn sẽ bán được một khoản tiền vàng kha khá.
 
-Quả thực là một khoản tiền không nhỏ—có lẽ đáng giá bằng cả mấy ngày làm việc.
+Đúng là một món tiền khá thật—có khi bằng cả mấy ngày công làm việc chứ chẳng chơi.
 
-Như tôi đã đề cập, Slime trong suốt đáng giá tựa nghìn vàng—gần như theo đúng nghĩa đen. Để có thể gặp được một con Slime như vậy, người ta sẽ phải chờ khoảng một tiếng đồng hồ để nó xuất hiện trở lại, thêm vào đó là không được làm vấy bẩn con Slime trong giao tranh bằng ma pháp hệ hỏa hay hệ thổ. Trên thực tế, chẳng có cách nào dễ dàng để thu thập chất dịch không bị vấy bẩn bằng ma pháp, đó là lý do vì sao con Slime phải bị tiêu diệt bằng sức mạnh thuần túy.
+Như tôi đã nói, Slime trong suốt đáng giá cả đống vàng—gần như theo nghĩa đen. Muốn gặp được một con như vậy, người ta phải đợi tầm một tiếng đồng hồ để nó tái sinh, chưa kể lúc giao chiến còn không được làm vấy bẩn nó bằng ma pháp lửa hay đất. Thực tế thì chẳng có cách nào dùng ma pháp mà vẫn thu thập được dịch tinh khiết, nên người ta mới buộc phải dùng đòn vật lý đơn thuần để hạ gục nó.
 
-Vì những lý do này, nó được coi là loại nguyên liệu chỉ được thu thập bởi những mạo hiểm giả có cả thể lực lẫn sức mạnh vượt trội. Thậm chí, những mạo hiểm giả có thể hạ gục Slime chỉ bằng một đòn duy nhất còn có thể hy vọng nhận được những phần thưởng lớn hơn nữa. Tuy nhiên, đối với một kẻ như tôi, việc đó có lẽ sẽ ngốn tới nửa ngày trời mới xong.
+Vì những lẽ đó, đây là loại nguyên liệu thường chỉ dành cho các mạo hiểm giả dồi dào cả về thể lực lẫn sức mạnh cơ bắp. Ai đủ sức một đòn hạ gục Slime thì số tiền kiếm được sẽ còn hời hơn nhiều. Nhưng với một kẻ như tôi, việc đó khéo phải mất tới nửa ngày trời.
 
-Dù nói là vậy, hiện tại tôi chẳng có cách nào bán loại nguyên liệu này, chứ đừng nói đến việc dùng số tiền đó để chi trả cho bất kỳ quán trọ hay chỗ ở nào. Nhìn từ góc độ đó, những nỗ lực của tôi dường như có phần vô ích.
+Nói đi cũng phải nói lại, hiện giờ tôi chẳng có cách nào bán được chỗ nguyên liệu này, nói gì tới chuyện dùng tiền để thuê quán trọ hay tìm chỗ ngả lưng. Nghĩ theo hướng đó thì công sức nãy giờ của tôi kể cũng hơi công cốc.
 
-Gác những suy nghĩ đó sang một bên, tôi một lần nữa hướng tâm trí mình về việc tiến hóa—tôi phải trở thành Ngạ Quỷ bằng mọi giá.
+Gác lại những suy nghĩ ấy, tôi lại tập trung vào mục tiêu tiến hóa: tôi phải trở thành Ngạ Quỷ bằng mọi giá.
 
-Nếu có thể tiến hóa, tôi sẽ có thể đàng hoàng bước vào thị trấn, thậm chí còn bán được loại nguyên liệu quý hiếm mà mình vừa thu thập.
+Chỉ cần tiến hóa, tôi sẽ có thể bước vào thị trấn, rồi bán cả chỗ nguyên liệu quý hiếm vừa thu thập được.
 
-Còn về chỗ ở... Chà, dù không chắc về thái độ của các chủ nhà tiềm năng, nhưng tìm một chỗ thuê trọ hẳn không đến nỗi quá khó khăn.
+Còn chuyện chỗ ở... Chà, tuy chẳng rõ mấy chủ trọ sẽ nghĩ sao về mình, nhưng tìm một chỗ thuê chắc cũng không đến mức quá khó khăn.
 
-Tôi cũng cần nói chuyện với ai đó về tình cảnh hiện tại của mình; một người sẽ không hoảng sợ bỏ chạy ngay khi biết tôi đã biến thành một sinh vật quái dị. Về điểm này, tôi đã có sẵn một đối tượng trong đầu.
+Tôi cũng cần bàn bạc với ai đó về tình cảnh hiện tại của mình; một người sẽ không cắm đầu bỏ chạy khi biết tôi đã hóa thành quái vật. Về khoản này thì trong đầu tôi đã có sẵn một người rồi.
 
-Khi dòng suy nghĩ tiếp tục miên man về người đó cùng cơ duyên chúng tôi gặp nhau, tôi quyết định rời khỏi vị trí hiện tại và đi tìm mục tiêu tiếp theo của mình.
+Vừa miên man nghĩ về người ấy cùng lần đầu tiên hai đứa gặp nhau, tôi vừa rời khỏi chỗ cũ để đi tìm con mồi tiếp theo.
