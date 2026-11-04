@@ -475,4 +475,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Siren | Spriggan | tôi | ông | 255 | Nữ điệp viên nói chuyện với ông lão mang mật danh Spriggan |
 | Spriggan | Yattul | ta | cậu / Goblin | 255 | Ông lão mang mật danh Spriggan nói chuyện với Goblin |
 | Yattul | Spriggan | tôi | ông già / ông | 255 | Điệp viên Goblin nói chuyện với ông lão mang mật danh Spriggan |
+| Lorraine Vivie | Yattul | tôi | anh / Goblin | 255 | Nữ học giả nói chuyện với điệp viên Goblin |
+| Yattul | Lorraine Vivie | tôi | cô | 255 | Điệp viên Goblin nói chuyện với nữ học giả |
+| Rentt Faina | Yattul | tôi | anh / Goblin | 255 | Mạo hiểm giả tiếp chuyện điệp viên Goblin |
+| Yattul | Rentt Faina | tôi | cậu / Rentt / các cậu | 255 | Điệp viên Goblin tiếp chuyện Rentt |
 

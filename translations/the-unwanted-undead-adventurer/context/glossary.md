@@ -453,3 +453,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | gigantification | gigantify | khổng lồ hóa | kỹ năng | 249 | Dị năng đặc thù biến đổi cơ thể thành Cự Nhân khổng lồ |
 | diviner | diviners | thuật sĩ bói toán | chức nghiệp | 249 | Người sở hữu dị năng nhìn thấu quá khứ và tương lai |
 | divination |  | thuật bói toán | kỹ năng | 249 | Năng lực nhìn thấu quá khứ và tương lai |
+| Vistelya Grand Colosseum |  | Đại Đấu Trường Vistelya | địa danh | 256 | Đấu trường lớn nhất Vương Quốc Yaaran nằm ở ngoại ô vương đô Vistelya |

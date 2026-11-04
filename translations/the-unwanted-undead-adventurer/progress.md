@@ -260,7 +260,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | reviewed |  |
 | 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | reviewed |  |
 | 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | reviewed |  |
-| 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | todo |  |
+| 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | done |  |
 | 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | todo |  |
 | 258 |  | Chapter_258 - Vol 11 Chapter 3 - The Organization (3).txt | Vol 11 Chapter 3 - The Organization (3) | todo |  |
 | 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | todo |  |

@@ -1507,6 +1507,12 @@ Chim bồ câu mang mật thư của Goblin bay đến đậu trên đầu Siren
 Hôm sau, Goblin tạt qua đón nhóm trong bộ dạng bầm dập khắp người do ẩu đả với đồng bọn vì chúng không tin ông lão bại trận; Goblin thuật lại kịch bản báo cáo khôn khéo giúp thủ lĩnh đồng ý gặp mặt, đồng thời vô tình tiết lộ mật danh của ông lão là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ).
 Cảnh kết thúc: Goblin thật thà thú nhận bản thân cũng hoàn toàn không biết dị năng của tên thủ lĩnh, và nhóm chuẩn bị lên đường tới căn cứ tổ chức.
 
+## 256
+Spriggan và Goblin dẫn đường đưa Rentt và Lorraine đến căn cứ ngầm của tổ chức, ngụy trang sờ sờ ngay dưới Đại Đấu Trường Vistelya đồ sộ bậc nhất vương quốc.
+Lính gác cổng nhận ra Spriggan và chuyển lời của Vaasa (thành viên do Spriggan chiêu mộ, người vừa ẩu đả với Goblin vì không tin Spriggan thua) bảo xuống tầng hầm; cả nhóm nhận định đây là cái bẫy nhưng quyết định nghênh chiến dẹp yên Vaasa trước cuộc gặp để tránh bị phá đám.
+Spriggan tiết lộ tường tận thông tin, điểm yếu và cách đối phó với Vaasa (kẻ sở hữu khả năng bẩm sinh kháng ma pháp cực mạnh, là khắc tinh của ma pháp sư nhưng khắc chế kém trước đòn vật lý/khí thuật như Rentt), đồng thời cảnh báo về một nữ thành viên khác tên Fuana rất gắn bó với ông và say mê ma pháp cổ đại có thể sẽ nhắm vào Lorraine.
+Cảnh kết thúc: Rentt và Lorraine bàn bạc, nghiền ngẫm thông tin từ Spriggan để chuẩn bị kế hoạch tác chiến dẹp bẫy dưới tầng hầm đấu trường.
+
 
 
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T05:55:31Z",
+  "generatedAt": "2026-11-04T06:01:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3683,6 +3683,12 @@
           "title": "Chương 255: Tập 11 Chương 2 - Khởi Hành (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_255.md",
           "sha": "23f74add245ec0dcaa36ad01c739591276b38999"
+        },
+        {
+          "number": 256,
+          "title": "Chương 256: Tập 11 Chương 3 - Tổ Chức (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_256.md",
+          "sha": "3a3e6a007dbde744475afffc14286db28facbfbe"
         }
       ]
     },

@@ -128,6 +128,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Leo |  | Leo | Cha của Ferrici tại Làng Looza | #240 |
 | Lenora |  | Lenora | Mẹ của Ferrici tại Làng Looza | #240 |
 | Spriggan |  | Spriggan | Mật danh của ông lão sở hữu dị năng khổng lồ hóa (Cự Nhân), thủ lĩnh nhóm sát thủ cùng Goblin và Siren | #255 |
+| Vaasa |  | Vaasa | Thành viên tổ chức sát thủ, do Spriggan chiêu mộ, có khả năng kháng ma pháp cao | #256 |
+| Fuana |  | Fuana | Thành viên nữ tổ chức sát thủ, bám dính Spriggan, đam mê và sử dụng ma pháp cổ đại | #256 |
 
 ## Chi tiết
 
@@ -811,8 +813,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Là mạo hiểm giả / dị năng giả kỳ cựu lớn tuổi nhất nhóm; tính cách từng trải, điềm đạm, nhân hậu nhưng khi chiến đấu vô cùng quyết đoán và đáng sợ; sở hữu dị năng phóng to cơ thể thành người khổng lồ cao lớn (Cự Nhân) với sức mạnh thể chất áp đảo; từng cứu mạng Siren bằng thuốc khi cô bé còn nhỏ; xem Siren và Goblin như con cháu trong nhà; sau khi bị nhóm Rentt đánh bại và đàm đạo với Lorraine, ông cởi mở chia sẻ về nguồn gốc của những kẻ mang dị năng trong lịch sử và khuyên nhóm Rentt cẩn trọng trước các phe phái khác trong tổ chức ngầm (tính đến #254). Sang #255, lộ mật danh trong tổ chức ngầm là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ); hướng dẫn nhóm Rentt và cùng Rentt, Lorraine đến căn cứ ngầm để diện kiến thủ lĩnh.
 - Xuất hiện từ: #244 (lộ mật danh ở #255).
 
+### Vaasa
+- Giới tính, vai trò: Nam, thành viên tổ chức sát thủ / dị năng ngầm, được Spriggan đích thân chiêu mộ (#256).
+- Đặc điểm: Tính cách hiếu chiến, thẳng thắn, đơn giản; không tin việc Spriggan bị đánh bại nên đã đánh nhau với Goblin; sở hữu khả năng bẩm sinh kháng ma pháp cực cao (kể cả ma pháp trị liệu), là đối thủ kỵ giơ của ma pháp sư nhưng gặp bất lợi trước tấn công vật lý/khí thuật.
+- Xuất hiện từ: #256 (được nhắc tên).
 
-
-
+### Fuana
+- Giới tính, vai trò: Nữ, thành viên tổ chức sát thủ / dị năng ngầm (#256).
+- Đặc điểm: Rất gắn bó và bám dính Spriggan; tự tin và am hiểu sâu sắc về ma pháp, đặc biệt là ma pháp cổ đại; tính tình nhiệt huyết, nói nhiều say mê khi chia sẻ kiến thức ma thuật.
+- Xuất hiện từ: #256 (được nhắc tên).
 
 
