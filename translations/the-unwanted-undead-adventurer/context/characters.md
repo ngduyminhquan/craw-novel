@@ -748,6 +748,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elza
 - Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
 - Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả). Từng là bạn bè quen biết Lillian từ thời trẻ tại Tu Viện Ephas; luôn cảm thấy áy náy vì Lillian phải rời đi do xung đột nội bộ Giáo Hội (#224).
+- Quá khứ & Tính cách (tính đến #264): Vốn là bạn thời thơ ấu cùng trang lứa với Lillian, từ nhỏ đã cùng nhau lớn lên trên các con phố ở vương đô trước khi cả hai cùng chọn con đường tu sĩ và trở thành Thánh Giả. Khá hoạt bát và có phần tinh quái khi sẵn sàng mặc thường phục, cắt đuôi các giáo sĩ trong tu viện lẻn ra ngoài bằng cửa phụ để làm người dẫn đường dạo phố mua sắm cho nhóm Rentt (#264).
 - Xuất hiện từ: #222.
 
 ### Lukas Bader

@@ -1561,6 +1561,15 @@ Jean vạch trần âm mưu thật sự dẫn đến lệnh truy sát: phó th�
 Từ chối tiết lộ chi tiết về việc tìm quyền trượng mới của Nhị Công Chúa, nhóm Rentt chốt kế hoạch cùng Jean Seebeck khởi hành về Maalt sau hai ngày nữa (sau khi Jean vào triều yết kiến công chúa).
 Cảnh kết thúc: Trở về quán trọ hội ngộ cùng Augurey sau khi Spriggan và Siren rời đi, cả ba tổng kết lại những lợi ích thu được từ biến cố nguy hiểm này và Augurey lưu luyến nói lời chia tay trước ngày nhóm Rentt lên đường về Maalt.
 
+## 264
+Sáng hôm sau, nhận được tin nhắn từ Hội Mạo Hiểm Giả, Rentt và Lorraine đến nơi và được hướng dẫn trực tiếp tới Tu Viện Ephas để nhận ủy thác chuyển thư từ Nữ Tu Viện Trưởng Elza.
+Tại tu viện, Elza bày tỏ nhẹ nhõm khi thấy cả hai bình an vô sự sau những vụ xáo trộn gần đây; khi biết nhóm Rentt ngày mai sẽ về Maalt và cần mua quà lưu niệm theo danh sách tỉ mỉ của Rina, Elza hào hứng ngỏ ý làm người dẫn đường quanh vương đô.
+Trút bỏ tu phục và lén cắt đuôi các giáo sĩ để lẻn ra cửa phụ bằng bộ thường phục trẻ trung như thiếu nữ đôi mươi, Elza tiết lộ mình và Sơ Lillian vốn là bạn thuở nhỏ cùng lớn lên trên các góc phố này.
+Xem qua cuốn sổ tay chi tiết rải rác hình vẽ Khô Lâu và Ma Cà Rồng của nhóm Rentt, Elza dự tính hành trình sẽ kéo dài tới tối và nhờ cả hai tháp tùng cô ghé qua một nơi sau khi mua sắm xong.
+Cảnh kết thúc: Nhóm Rentt cùng Nữ Tu Viện Trưởng Elza cải trang thống nhất kế hoạch và bắt đầu chuyến dạo quanh các con phố vương đô.
+
+
+
 
 
 
