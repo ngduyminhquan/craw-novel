@@ -113,3 +113,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#264) Thành ngữ "not have a leg to stand on": dịch là "chẳng có lý lẽ nào để chống chế / bào chữa", tránh dịch thô thành "chẳng có lý lẽ nào để đứng vững".
 - (#28) Cụm từ "on one's tab" trong bối cảnh quán rượu: dịch là "ghi nợ vào sổ / ghi nợ", tránh dịch máy thành "ghi nợ vào tài khoản" mang tính hiện đại.
 - (#28) Cụm từ lăng mạ "worthless sack of a man": dịch là "thứ/thằng phế vật vô tích sự", tránh dịch thô từng chữ thành "cái bao tải phế vật".
+- (#29) Cụm từ "beyond consideration": dịch là "không đáng để nghĩ tới / đời nào có chuyện đó", tránh dịch sai nghĩa thành "nằm ngoài dự tính".
