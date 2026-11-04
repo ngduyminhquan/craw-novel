@@ -1460,6 +1460,13 @@ Dù bị chấn động làm tê liệt cánh tay trái, Rentt vẫn lách ngư�
 Tiếp đất xuống bìa rừng, Rentt tận dụng các tán cây rậm rạp để né tránh những cú đấm càn quét; Augurey chạy tới truyền đạt kế hoạch tác chiến của Lorraine: cùng nhau dẫn dụ đối thủ tới vị trí thuận lợi để Lorraine giáng ma pháp cực mạnh kết liễu, tương tự cách từng bẫy con Aqua Hathur.
 Cảnh kết thúc: Augurey dẫn đầu cùng Rentt chạy nước rút, dẫn dụ gã Cự Nhân già đang hung hãn bám sát gót rơi vào bẫy phục kích.
 
+## 248
+Lorraine giáng liên hoàn ba ma pháp cổ đại (Terra Cavus làm sụt lún đất, Yiesh Gadólmagén phóng mưa giáo kim loại, Hazina Barqrasūl giáng tia sét khổng lồ) thiêu rụi một khoảng rừng và đánh gã Cự Nhân già cháy sém, nhưng đối thủ vẫn ngoan cường gượng dậy tấn công.
+Augurey tiếp tục làm mồi nhử để Rentt dùng Phân Liệt ẩn mình tìm cơ hội kết liễu; khi Augurey vấp ngã suýt trúng đòn, Rentt lao ra cứu bạn còn Lorraine kịp thời bồi thêm ma pháp lôi hệ Gadól Barák giải vây.
+Rentt đề ra kế hoạch mới: Augurey thu hút cú đấm của đối thủ để Rentt chạy dọc theo tấm lưng dốc của gã Cự Nhân già áp sát sau gáy, dồn toàn bộ Thần Ma Khí Dung Hợp Thuật vào thanh kiếm chém nát điểm yếu của đối thủ.
+Cảnh kết thúc: Nhát chém nổ tung sau gáy khiến gã Cự Nhân già đổ sụp về phía trước, Rentt vừa ăn mừng chiến thắng vừa kiệt sức rơi tự do và bị cả thân hình khổng lồ của đối thủ đè bẹp dí thành tương.
+
+
 
 
 

@@ -252,7 +252,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 245 |  | Chapter_245 - Vol 11 Chapter 1 - Surprise Attack (2).txt | Vol 11 Chapter 1 - Surprise Attack (2) | reviewed |  |
 | 246 |  | Chapter_246 - Vol 11 Chapter 1 - Surprise Attack (3).txt | Vol 11 Chapter 1 - Surprise Attack (3) | reviewed |  |
 | 247 |  | Chapter_247 - Vol 11 Chapter 1 - Surprise Attack (4).txt | Vol 11 Chapter 1 - Surprise Attack (4) | done |  |
-| 248 |  | Chapter_248 - Vol 11 Chapter 1 - Surprise Attack (5).txt | Vol 11 Chapter 1 - Surprise Attack (5) | todo |  |
+| 248 |  | Chapter_248 - Vol 11 Chapter 1 - Surprise Attack (5).txt | Vol 11 Chapter 1 - Surprise Attack (5) | done |  |
 | 249 |  | Chapter_249 - Vol 11 Chapter 1 - Surprise Attack (6).txt | Vol 11 Chapter 1 - Surprise Attack (6) | todo |  |
 | 250 |  | Chapter_250 - Vol 11 Chapter 1 - Surprise Attack (7).txt | Vol 11 Chapter 1 - Surprise Attack (7) | todo |  |
 | 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -897,3 +898,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#246] Dịch chủng tộc 'giant' (đoạn 99, 100) — tạm chọn 'Cự Nhân' đồng bộ với 'Đồ Cự Nhân' (Giantslayer) trong glossary.md (phương án khác: 'người khổng lồ'). Tạm dùng trong bản dịch: 'Cự Nhân'. → Chốt 'Cự Nhân' đồng bộ với 'Đồ Cự Nhân' (Giantslayer) và ghi chú của Giant Skeleton trong glossary.md. (orchestrator)
 - [#246] Xưng hô giữa Lorraine Vivie và ông lão Cự Nhân — tạm chọn Lorraine xưng 'tôi', gọi 'ông' (phương án khác: Lorraine xưng 'ta', gọi 'ngươi'). Tạm dùng trong bản dịch: 'tôi - ông'. → Chốt Lorraine xưng 'tôi', gọi 'ông' (còn ông lão xưng 'ta', gọi 'ngươi / con bé'), nhất quán với cách xưng hô của Rentt, Augurey và Lorraine trong style.md / pronouns.md. (orchestrator)
 - [#247] Thuật ngữ 'aqua hatul' (raw đổi cách viết từ 'aqua hathur' ở #243) và tên ma pháp 'Glacies Cometes' — tạm thời thêm 'aqua hatul' vào alias của 'Aqua Hathur' và dịch là 'Aqua Hathur', 'Glacies Cometes' giữ nguyên tên câu chú theo rules.md → Chốt dịch thống nhất là 'Aqua Hathur' (giữ 'aqua hatul; hatul' trong Alias của Aqua Hathur) và giữ nguyên câu chú ma pháp 'Glacies Cometes' theo đúng rules.md. (orchestrator)
+- [#248] Dịch 4 câu chú ma pháp cổ đại của Lorraine (Terra Cavus, Yiesh Gadólmagén, Hazina Barqrasūl, Gadól Barák) — tạm giữ nguyên phiên âm câu chú theo rules.md (phương án khác: dịch nghĩa sang tiếng Việt). Tạm dùng trong bản dịch: giữ nguyên phiên âm. → Chốt giữ nguyên phiên âm 4 câu chú ma pháp (Terra Cavus, Yiesh Gadólmagén, Hazina Barqrasūl, Gadól Barák) theo đúng quy tắc trong rules.md. (orchestrator)
+- [#248] Dịch tiêu đề arc/chương 'Vol 11 Chapter 1 - Surprise Attack (5)' — tạm chọn 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)' đồng bộ với #244-#247. Tạm dùng trong bản dịch: 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)'. → Chốt 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)' đồng bộ với #244-#247. (orchestrator)

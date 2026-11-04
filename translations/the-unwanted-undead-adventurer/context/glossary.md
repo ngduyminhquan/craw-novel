@@ -444,3 +444,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ard Harba |  | Ard Harba | kỹ năng | 245 | Ma pháp thổ hệ tạo mảnh đá nhọn khổng lồ như ngọn giáo (giữ nguyên tên câu thần chú theo rules.md) |
 | giant | giants; Giant; Giants | Cự Nhân | chủng tộc | 246 | Chủng tộc người khổng lồ trong thần thoại/fantasy (巨人) |
 | Glacies Cometes |  | Glacies Cometes | kỹ năng | 247 | Ma pháp băng hệ tạo khối cầu băng khổng lồ (câu chú giữ nguyên theo rules.md) |
+| Terra Cavus |  | Terra Cavus | kỹ năng | 248 | Ma pháp thổ hệ tạo hố sụt lún mặt đất (giữ nguyên tên câu thần chú theo rules.md) |
+| Yiesh Gadólmagén |  | Yiesh Gadólmagén | kỹ năng | 248 | Ma pháp kim hệ tạo hàng loạt ngọn giáo kim loại phóng tới mục tiêu (giữ nguyên tên câu thần chú theo rules.md) |
+| Hazina Barqrasūl |  | Hazina Barqrasūl | kỹ năng | 248 | Ma pháp lôi hệ triệu hồi tia sét khổng lồ từ mây đen giáng xuống mục tiêu (giữ nguyên tên câu thần chú theo rules.md) |
+| Gadól Barák |  | Gadól Barák | kỹ năng | 248 | Ma pháp lôi hệ phóng tia sét dày đặc giáng xuống mục tiêu (giữ nguyên tên câu thần chú theo rules.md) |
