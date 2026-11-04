@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T08:06:29Z",
+  "generatedAt": "2026-11-04T08:18:39Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3755,6 +3755,12 @@
           "title": "Chương 267: Ngoại truyện Tập 11 - Người Phụ Nữ Đáng Lo Ngại",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_267.md",
           "sha": "453955edc328975baaf9f9e786b741e6a209a0bb"
+        },
+        {
+          "number": 268,
+          "title": "Chương 268: Ngoại truyện Tập 11 - Từ Một Góc Nhìn Khác",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_268.md",
+          "sha": "44fa32b5076241e074b678989b1018e4b85d238b"
         }
       ]
     },

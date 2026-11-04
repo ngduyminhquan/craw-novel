@@ -272,7 +272,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | reviewed |  |
 | 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | reviewed |  |
 | 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | reviewed |  |
-| 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | todo |  |
+| 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | done |  |
 | 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | todo |  |
 | 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | todo |  |
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | todo |  |
@@ -348,9 +348,11 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Cần user xác nhận
 
 
+
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
+- [#268] Xưng hô của cậu bé thân chủ Vitez Normorte với Rentt và Augurey: Vitez ban đầu ra vẻ người lớn xưng 'tôi' gọi 'hai người / mấy người', sau khi bật khóc và mở lòng thì xưng 'em' gọi 'hai anh / anh'; Augurey và Rentt xưng 'tôi / bọn tôi', gọi 'nhóc / Vitez' → Chốt Vitez xưng 'tôi' (lúc đầu) / 'em' (lúc mở lòng), gọi 'hai người' / 'hai anh'; Augurey và Rentt xưng 'tôi / bọn tôi', gọi 'nhóc / Vitez' (orchestrator)
 - [#1] Dịch 'Existential Evolution' — tạm chọn 'Tiến Hóa Bản Thể' (phương án khác: 'Tiến Hóa Tồn Tại') → Chốt Tiến Hóa Bản Thể (orchestrator)
 - [#1] Dịch 'Labyrinth of the Moon’s Reflection' — tạm chọn 'Mê Cung Nguyệt Ảnh' (phương án khác: 'Mê Cung Thủy Nguyệt') → Chốt Mê Cung Nguyệt Ảnh (orchestrator)
 - [#1] Dịch 'Ghoul' — tạm chọn 'Ngạ Quỷ' (phương án khác: giữ nguyên 'Ghoul') → Chốt Ngạ Quỷ (orchestrator)

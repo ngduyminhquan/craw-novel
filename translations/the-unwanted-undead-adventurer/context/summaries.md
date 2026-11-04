@@ -1586,6 +1586,13 @@ Khi đến nơi, hiểu lầm được hóa giải khi Hilde bật cười và g
 Ủy thác hoàn thành tốt đẹp; khi trở về nhà, Lorraine hào hứng vì hiểu thêm tập tính sinh thái quái vật, còn Rentt chợt rùng mình liên tưởng sự thật đáng sợ về mối liên hệ giữa các thi thể tự sát và loài Rồng dưới đáy hồ.
 Cảnh kết thúc: Rentt và Lorraine quyết định không suy nghĩ sâu thêm về bí ẩn rùng rợn ấy và gác lại chuyện này.
 
+## 268
+Hồi tưởng quá khứ thời Rentt còn là mạo hiểm giả con người Đồng Cấp tại Maalt: Augurey rủ Rentt cùng nhận ủy thác hộ tống một cậu bé tên là Vitez Normorte về với cha mẹ ở thị trấn kế bên sau đợt bão lớn; Vitez ban đầu tỏ ra bướng bỉnh và nghi ngờ năng lực của hai người.
+Dọc đường, xe kéo bị một nhóm thổ phỉ có tổ chức đón đường bao vây; Rentt xung phong tiến lên hạ gục từng tên cướp (tầm Thiết Cấp), nhưng khi chuẩn bị xử lý tên cuối cùng thì bất ngờ một tia sét từ trên trời giáng xuống đánh trúng tên cướp giữa cơn giông bão bất ngờ nổi lên.
+Augurey tiết lộ Vitez sở hữu dị năng triệu hồi giông bão sấm sét mỗi khi bị kích động; thấy cậu bé khóc lóc sợ hãi và tự ti vì sợ làm tổn thương cha mẹ, Rentt dịu dàng trấn an, chỉ ra sấm sét luôn né tránh cậu bé và ghen tị với năng lực thiên phú ấy, khuyên cậu bé học cách kiểm soát dị năng.
+Cảnh kết thúc: Vitez trút bỏ gánh nặng trong lòng, vui vẻ cảm ơn hai người và được hộ tống bình an về nhà; những năm tháng sau đó giông bão không còn nổi lên dữ dội nữa, chứng tỏ cậu bé đã học được cách khống chế năng lực của mình.
+
+
 
 
 

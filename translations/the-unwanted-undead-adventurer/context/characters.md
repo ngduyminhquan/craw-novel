@@ -135,6 +135,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mel | Sister Mel | Mel | Nữ tu / người phụ trách Cô Nhi Viện Thứ Ba Vistelya nơi Elza và Lillian từng lớn lên | #265 |
 | Mel Patiche |  | Mel Patiche | Tên đầy đủ của Mel, người phụ trách Cô Nhi Viện Thứ Ba Vistelya | #266 |
 | Pochi |  | Pochi | Chú chó khổng lồ lông trắng (nghi là quái vật) sống hơn 20 năm tại cô nhi viện ở vương đô | #265 |
+| Vitez Normorte | Vitez | Vitez Normorte | Cậu bé có dị năng triệu hồi giông bão, thân chủ hộ tống của Rentt và Augurey thời ở Maalt | #268 |
 
 ## Chi tiết
 
@@ -849,5 +850,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thân chủ trẻ tuổi tại thị trấn Maalt trong ngoại truyện (#267).
 - Đặc điểm: Trông trẻ tuổi, tính cách vui vẻ, chu đáo; hàng năm thuê mạo hiểm giả hộ tống tới Mũi Rook vào đêm trăng để ngắm cặp Rồng Băng kết đôi theo truyền thống gia đình truyền lại từ thời cụ cố; không hề có ý định tự sát như Rentt và Lorraine ban đầu phỏng đoán (#267). (Phân biệt với Hilde là tên gọi thân mật của nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis, #131).
 - Xuất hiện từ: #267.
+
+### Vitez Normorte
+- Giới tính, vai trò: Nam, cậu bé thân chủ trong ngoại truyện (#268). Tên thường gọi: Vitez.
+- Đặc điểm: Dáng người nhỏ nhắn; tính tình ban đầu hơi kênh kiệu, bướng bỉnh và thích ra vẻ người lớn ("a bit cheeky"); thực chất sợ hãi và tự ti vì dị năng triệu hồi giông bão sấm sét mỗi khi bị kích động cảm xúc; sau khi được Rentt và Augurey bảo vệ, động viên và khuyên nhủ học cách khống chế năng lực, cậu bé trút bỏ được gánh nặng tâm lý và cởi mở, biết ơn hai người (#268).
+- Xuất hiện từ: #268.
 
 

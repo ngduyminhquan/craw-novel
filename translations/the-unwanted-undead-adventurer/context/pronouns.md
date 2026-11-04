@@ -103,6 +103,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gilli Flood | Gilli Flood / Gilli / ông lão / Spriggan | 261 | Tên thật của Spriggan, cựu đấu sĩ |
 | Mel | Mel / Sơ Mel / người phụ nữ | 265 | Nữ tu tại cô nhi viện ở vương đô |
 | Pochi | Pochi / chú chó / con quái vật | 265 | Chú chó khổng lồ lông trắng tại cô nhi viện |
+| Vitez Normorte | Vitez / cậu bé / thằng nhóc | 268 | Cậu bé thân chủ trong ngoại truyện (#268) |
 
 ## Giữa các nhân vật
 
@@ -529,4 +530,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Hilde | * | tôi | các bạn / hai người | 267 | Thân chủ nữ nói chuyện với nhóm mạo hiểm giả |
 | Rentt Faina | Hilde | tôi | cô / Hilde | 267 | Mạo hiểm giả nói chuyện với thân chủ nữ |
 | Lorraine Vivie | Hilde | tôi | cô / Hilde | 267 | Mạo hiểm giả nói chuyện với thân chủ nữ |
+| Rentt Faina | Vitez Normorte | tôi | nhóc / Vitez / cậu bé | 268 | Mạo hiểm giả nói chuyện với cậu bé thân chủ |
+| Vitez Normorte | Rentt Faina | em / tôi | hai anh / anh | 268 | Cậu bé nói chuyện với mạo hiểm giả bảo vệ mình |
+| Augurey | Vitez Normorte | tôi / bọn tôi | nhóc / Vitez | 268 | Mạo hiểm giả nói chuyện với cậu bé thân chủ |
+| Vitez Normorte | Augurey | em / tôi | hai anh / anh | 268 | Cậu bé nói chuyện với mạo hiểm giả nhận ủy thác |
+| Vitez Normorte | * | tôi / em | hai người / mấy người / hai anh | 268 | Cậu bé nói chuyện với nhóm mạo hiểm giả |
 
