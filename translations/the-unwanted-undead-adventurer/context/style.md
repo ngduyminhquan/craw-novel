@@ -50,6 +50,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 24. **Giọng Aidi và không khí trường đua chuột (#85).** Aidi là mạo hiểm giả trung niên mê cá cược, ăn nói bộc trực, xuề xòa, dân dã của dân đỏ đen ("bạn hiền", "đặt cửa"); lời bình luận viên trường đua chuột Puchi Suri giữ nhịp dồn dập, máu lửa, kịch tính.
 25. **Giọng Phu nhân Emilstead (#86).** Quý phu nhân giàu có thương xót thú cưng hết mực; khi cầu xin giúp đỡ thì khẩn thiết, xúc động, xưng "tôi - ngài" chân thành, không trịch thượng; khi cảm kích thì vồ vập, bộc trực, không kiểu cách màu mè.
 26. **Giọng mạo hiểm giả tân binh (#87).** Tân binh mới vào nghề ban đầu bốc đồng, ấm ức, tự ái khi bị trừ thù lao, nhưng biết lắng nghe và cầu tiến khi được chỉ bảo; xưng hô từ bộc trực ("anh - tôi") chuyển sang kính trọng ("tiền bối Rentt - tôi").
+27. **Tâm lý tự trần tình, giãi bày của Rentt (#2).** Khi thanh minh về giới hạn tài năng bẩm sinh hay sự bất lực dù đã khổ luyện nhiều năm ("I would actually like some empathy here", "I would actually appreciate some praise"), Rentt nói với giọng giãi bày nửa đùa nửa thật, tự trào dí dỏm ("tôi cũng mong được thông cảm đôi chút", "đáng được khen vì đã trụ được đến tận nước này"), tránh diễn đạt bi lụy, than thân trách phận hay viết cứng như báo cáo.
 
 ## Từ cảm thán / cách nói cố định
 
