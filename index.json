@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T08:52:11Z",
+  "generatedAt": "2026-11-04T09:02:08Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3785,6 +3785,12 @@
           "title": "Chương 272: Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_272.md",
           "sha": "b4d78ec2878d8b7565eeb0e4cfb582265b88115b"
+        },
+        {
+          "number": 273,
+          "title": "Chương 273: Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_273.md",
+          "sha": "972231ef68126fb30b29ee8dd06eae7bb04671a3"
         }
       ]
     },

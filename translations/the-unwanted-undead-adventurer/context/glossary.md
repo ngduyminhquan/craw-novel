@@ -476,3 +476,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ice Dragon | ice dragon; ice dragons; Ice dragon; Ice dragons | Rồng Băng | quái vật | 267 | Phân loài rồng thuộc tính băng tuyết sinh sống dưới đáy Hồ Quia (氷竜) |
 | black wolf | black wolves; Black wolf; Black wolves; Black Wolf; Black Wolves | Sói Đen | quái vật | 269 | Phân loài quái vật sói lông đen dễ thuần hóa và gắn bó với con người (黒狼) |
 | Baroness | baroness; the baroness | Nữ Nam tước | danh hiệu | 269 | Tước vị quý tộc nữ giới hoặc phu nhân Nam tước |
+| Vampire King | Vampire Kings; vampire king; vampire kings | Vua Ma Cà Rồng | danh hiệu | 273 | Tồn tại tối thượng trong loài Ma Cà Rồng, kẻ đứng đầu có sức mạnh ngang hàng Tứ Đại Ma Vương |
+| Dehisé |  | Dehisé | kỹ năng | 273 | Ma pháp của Arc Tahadu dùng để nén chặt và vô hiệu hóa thể Phân Liệt (giữ nguyên tên câu thần chú theo rules.md) |
+

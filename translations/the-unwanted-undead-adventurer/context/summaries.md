@@ -1616,3 +1616,10 @@ Elza tiết lộ một tin tức đáng lo ngại: số lượng người sở h
 Elza bày tỏ tâm nguyện bảo vệ Mel cùng cô nhi viện và ngỏ lời mời Rentt tương trợ giúp đỡ nếu thời kỳ biến loạn ấy thực sự xảy ra; Rentt nhận định đây là thông tin giá trị cho bản thân và để cảnh báo trước cho nhóm Laura, đồng thời đồng ý sẽ hỗ trợ nếu có thể thu xếp được thời gian.
 Cảnh kết thúc: Elza cúi đầu cảm kích trước lời nhận lời của Rentt, khẳng định sẽ làm tất cả những gì có thể vì sự an toàn của Mel và cô nhi viện.
 
+## 273
+Sau khi đưa Elza trở về Tu Viện Ephas và chứng kiến cô bị các tư tế vây bắt đưa về làm việc, Rentt cùng Lorraine quay lại quán trọ để chuẩn bị cho hành trình trở về Maalt vào sáng hôm sau.
+Nửa đêm không ngủ được, Rentt đi dạo một mình trên đường phố vương đô và bất ngờ bị một Ma Cà Rồng cực mạnh—kẻ xưng là đồng loại và là cháu của Vua Ma Cà Rồng Arc Tahadu—tập kích xé toạc cổ họng; khi Rentt dùng Phân Liệt né đòn thì bị ma pháp Dehisé của đối phương ép chặt, suýt phải liều mạng nổ tung thì người đánh xe của Laura kịp thời xuất hiện đánh đuổi kẻ địch.
+Sáng hôm sau tại phòng ăn quán trọ, một mạo hiểm giả trung niên coi thường chế giễu Rentt vì quê mùa từ Maalt đến bị côn đồ đánh tơi tả; Augurey xuất hiện cảnh báo rằng Rentt mạnh hơn anh nhiều khiến người kia sợ hãi dập đầu xin lỗi, rồi Lorraine nén ma lực đe dọa dạy cho gã một bài học nhớ đời.
+Cảnh kết thúc: Người đàn ông trung niên run rẩy trở về chỗ ngồi dùng bữa sáng, trong khi Rentt thầm nghĩ Lorraine đã hơi làm quá tay.
+
+

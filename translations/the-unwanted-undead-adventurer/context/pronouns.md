@@ -105,6 +105,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pochi | Pochi / chú chó / con quái vật | 265 | Chú chó khổng lồ lông trắng tại cô nhi viện |
 | Vitez Normorte | Vitez / cậu bé / thằng nhóc | 268 | Cậu bé thân chủ trong ngoại truyện (#268) |
 
+
 ## Giữa các nhân vật
 
 `A xưng` là A tự xưng khi nói với B; `A gọi B` là A gọi B bằng gì. Mỗi chiều một dòng. `B` = `*` nghĩa là A nói với mọi người nói chung.
@@ -535,4 +536,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Augurey | Vitez Normorte | tôi / bọn tôi | nhóc / Vitez | 268 | Mạo hiểm giả nói chuyện với cậu bé thân chủ |
 | Vitez Normorte | Augurey | em / tôi | hai anh / anh | 268 | Cậu bé nói chuyện với mạo hiểm giả nhận ủy thác |
 | Vitez Normorte | * | tôi / em | hai người / mấy người / hai anh | 268 | Cậu bé nói chuyện với nhóm mạo hiểm giả |
+
+
 

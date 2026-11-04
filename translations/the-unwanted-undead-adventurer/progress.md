@@ -277,7 +277,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | reviewed |  |
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | done |  |
 | 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | done |  |
-| 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | todo |  |
+| 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | done |  |
 | 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | todo |  |
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | todo |  |
 | 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | todo |  |
@@ -352,6 +352,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
+- [#273] 'Arc Tahadu' trong raw 'a grandchild of the vampire king, Arc Tahadu' là tên của ai: 'Arc Tahadu' là tên của Vua Ma Cà Rồng (Lord Arc), kẻ tập kích Rentt là quyến thuộc đời cháu ('grandchild') của hắn → Chốt 'một người cháu của Vua Ma Cà Rồng Arc Tahadu' (orchestrator)
 - [#268] Xưng hô của cậu bé thân chủ Vitez Normorte với Rentt và Augurey: Vitez ban đầu ra vẻ người lớn xưng 'tôi' gọi 'hai người / mấy người', sau khi bật khóc và mở lòng thì xưng 'em' gọi 'hai anh / anh'; Augurey và Rentt xưng 'tôi / bọn tôi', gọi 'nhóc / Vitez' → Chốt Vitez xưng 'tôi' (lúc đầu) / 'em' (lúc mở lòng), gọi 'hai người' / 'hai anh'; Augurey và Rentt xưng 'tôi / bọn tôi', gọi 'nhóc / Vitez' (orchestrator)
 - [#1] Dịch 'Existential Evolution' — tạm chọn 'Tiến Hóa Bản Thể' (phương án khác: 'Tiến Hóa Tồn Tại') → Chốt Tiến Hóa Bản Thể (orchestrator)
 - [#1] Dịch 'Labyrinth of the Moon’s Reflection' — tạm chọn 'Mê Cung Nguyệt Ảnh' (phương án khác: 'Mê Cung Thủy Nguyệt') → Chốt Mê Cung Nguyệt Ảnh (orchestrator)
