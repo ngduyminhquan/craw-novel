@@ -51,6 +51,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 25. **Giọng Phu nhân Emilstead (#86).** Quý phu nhân giàu có thương xót thú cưng hết mực; khi cầu xin giúp đỡ thì khẩn thiết, xúc động, xưng "tôi - ngài" chân thành, không trịch thượng; khi cảm kích thì vồ vập, bộc trực, không kiểu cách màu mè.
 26. **Giọng mạo hiểm giả tân binh (#87).** Tân binh mới vào nghề ban đầu bốc đồng, ấm ức, tự ái khi bị trừ thù lao, nhưng biết lắng nghe và cầu tiến khi được chỉ bảo; xưng hô từ bộc trực ("anh - tôi") chuyển sang kính trọng ("tiền bối Rentt - tôi").
 27. **Tâm lý tự trần tình, giãi bày của Rentt (#2).** Khi thanh minh về giới hạn tài năng bẩm sinh hay sự bất lực dù đã khổ luyện nhiều năm ("I would actually like some empathy here", "I would actually appreciate some praise"), Rentt nói với giọng giãi bày nửa đùa nửa thật, tự trào dí dỏm ("tôi cũng mong được thông cảm đôi chút", "đáng được khen vì đã trụ được đến tận nước này"), tránh diễn đạt bi lụy, than thân trách phận hay viết cứng như báo cáo.
+28. **Độc thoại suy luận quái vật của Rentt (#3).** Rentt ham đọc sách nghiên cứu và giàu kinh nghiệm thực chiến nhưng cách kể chuyện luôn mang tính trò chuyện tâm tình; khi phân tích tập tính quái vật và kiến thức mê cung, tránh dùng cấu trúc văn báo cáo / học thuật (như "về mặt thị giác", "đánh giá từ những gì quan sát", "suy luận chỉ ra rằng", "tương đối mà nói"), diễn đạt tự nhiên theo khẩu ngữ ("nhìn bên ngoài", "từ những gì thấy nãy giờ", "sách vở đúc rút ra rằng", "cứ theo đà này").
 
 ## Từ cảm thán / cách nói cố định
 
