@@ -786,12 +786,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Siren
 - Giới tính, vai trò: Nữ, điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin), mới vào nghề vài năm (#234).
-- Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; theo suy đoán của Augurey và nhóm Rentt có thể chuyên về mị hoặc/thao túng đàn ông (#234).
+- Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; theo suy đoán của Augurey và nhóm Rentt có thể chuyên về mị hoặc/thao túng đàn ông (#234). Bị Augurey lần theo mùi nước hoa đặc trưng vương đô tóm gọn khi đang ẩn nấp trong làng; sở hữu dị năng/thiên phú thao túng tâm trí/thôi miên hiếm gặp không dùng Ma Lực, có thể khống chế tối đa khoảng 20 người cùng lúc nếu có sự chuẩn bị trước (cho ngửi thuốc, trò chuyện), nhưng vô hiệu trước người có thể chất/tinh thần quá mạnh; thuật thao túng tự giải trừ khi Siren bất tỉnh; bị Lorraine tra khảo và khai hết thông tin (tính đến #238).
 - Xuất hiện từ: #234.
 
 ### Ferrici
 - Giới tính, vai trò: Nữ, thiếu nữ tại Làng Looza (#235).
-- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235). Nửa đêm diện váy trễ vai lẻn vào phòng Augurey dùng mỹ nhân kế rồi rút dao ám sát nhưng thất bại, bị Augurey tước dao và đánh ngất; biểu hiện gào thét như thú dại khiến Augurey nghi ngờ cô bị thao túng hoặc không phải Siren thật sự (#236).
+- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235). Nửa đêm diện váy trễ vai lẻn vào phòng Augurey dùng mỹ nhân kế rồi rút dao ám sát nhưng thất bại, bị Augurey tước dao và đánh ngất; biểu hiện gào thét như thú dại khiến Augurey nghi ngờ cô bị thao túng hoặc không phải Siren thật sự (#236). Cùng các nạn nhân khác thoát khỏi thuật thôi miên sau khi Siren bị đánh ngất; được nhóm Rentt đánh thức đầu tiên, hoảng sợ hét lớn vì thấy mặt nạ Khô Lâu và Augurey nhưng dần bình tĩnh khi được cởi trói và giải thích sự việc (tính đến #238).
 - Xuất hiện từ: #235.
 
 

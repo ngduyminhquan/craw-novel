@@ -94,3 +94,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#230) Phân biệt "Holy Tree" và "Venerable Holy Tree": "Holy Tree" dịch là "Thánh Thụ" (cái cây thần/thực thể linh thiêng của High Elf); "Venerable Holy Tree" dịch là "Cổ Thánh Thụ" (thường xuất hiện trong danh xưng xứ sở "Land of the Venerable Holy Tree" → "Vùng Đất Cổ Thánh Thụ"), tránh dịch nhầm "Holy Tree" thành "Cổ Thánh Thụ".
 - (#234) Danh từ chung "monster(s)": dịch thống nhất là "quái vật", không dùng từ Hán Việt "ma vật".
 - (#237) Phân biệt "Skeleton" (quái vật Undead → viết hoa "Khô Lâu") và danh từ chung "skeleton" chỉ bộ khung xương cơ thể ("my skeleton" → "bộ xương / khung xương"), tránh dịch máy thành "Khô Lâu".
+- (#238) Cụm từ "pulling the strings behind the curtains": dịch là "kẻ giật dây sau bức màn" (tránh nhầm thuật ngữ "Pulling" trong game là "dụ quái").
+- (#238) Cụm từ "average Joes": dịch là "những người dân bình thường / thường dân" (thành ngữ chỉ người bình thường, không phải tên riêng người tên Joe).

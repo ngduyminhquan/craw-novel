@@ -242,7 +242,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 235 |  | Chapter_235 - Vol 10 Chapter 4 - The Arrival (1).txt | Vol 10 Chapter 4 - The Arrival (1) | reviewed |  |
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | reviewed |  |
 | 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | reviewed |  |
-| 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | todo |  |
+| 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | done |  |
 | 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | todo |  |
 | 240 |  | Chapter_240 - Vol 10 Chapter 4 - The Arrival (6).txt | Vol 10 Chapter 4 - The Arrival (6) | todo |  |
 | 241 |  | Chapter_241 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1) | todo |  |
@@ -880,3 +880,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#236] Từ "Grandpa..." trong độc thoại của Augurey: raw không nói rõ ông nội hay ông ngoại; tạm dùng "Ông..." cho tự nhiên và bao quát. → Giữ "Ông..." (chung cho cả ông nội/ông ngoại vì raw chỉ viết "Grandpa"). (orchestrator)
 - [#237] Dịch 'Splintering' — tạm chọn 'Phân Liệt' (bản dịch raw dùng thay cho 'Division' ở #188 của Ma Cà Rồng), đã thêm Splintering vào Alias của Division. → Giữ 'Phân Liệt' và thêm 'Splintering' vào Alias của 'Division' trong glossary.md (cùng kỹ năng phân tách cơ thể của Ma Cà Rồng ở chương 188 và 208). (orchestrator)
 - [#237] Dịch 'lymes' (loài cây có lá to cỡ bàn tay người) — tạm chọn 'cây lymes' (giữ nguyên tên gốc kèm tiền tố loài cây). → Giữ 'cây lymes'. (orchestrator)
+- [#238] Xưng hô giữa Rentt và Ferrici — tạm chọn Rentt xưng 'tôi', gọi 'em / Ferrici' để hòa nhã trấn an thiếu nữ trong làng; Ferrici xưng 'tôi', gọi 'các người / anh' (phương án khác: Rentt gọi 'cô / Ferrici'). Tạm dùng trong bản dịch: 'tôi - em / Ferrici' và 'tôi - các người / anh'. → Giữ Rentt → Ferrici: 'tôi - em / Ferrici', Ferrici → Rentt: 'tôi - các người / anh' (đồng bộ với cặp Lorraine ↔ Ferrici và Augurey ↔ Ferrici ở #235, #236). (orchestrator)
+- [#238] Dịch cụm từ 'Our man-eater friend' (đoạn 25) Rentt gọi mỉa mai Siren — tạm chọn 'Ả bạn "ăn thịt đàn ông" của chúng ta' để phản ánh cả điển tích quái vật Siren và tài nghệ mị hoặc đàn ông (phương án khác: 'Ả bạn "hồ ly tinh" của chúng ta', 'Ả bạn "ăn thịt người" của chúng ta'). Tạm dùng trong bản dịch: 'Ả bạn "ăn thịt đàn ông" của chúng ta'. → Giữ 'Ả bạn "ăn thịt đàn ông" của chúng ta'. (orchestrator)
+- [#238] Dịch thành ngữ 'average Joes' (đoạn 20) — tạm chọn 'những người dân bình thường trong làng' (phương án khác: 'thường dân trong làng'). Tạm dùng trong bản dịch: 'những người dân bình thường trong làng'. → Giữ 'những người dân bình thường trong làng'. (orchestrator)

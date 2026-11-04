@@ -441,4 +441,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ferrici | * | tôi | các vị | 235 | Thiếu nữ rụt rè nói chuyện với nhóm mạo hiểm giả |
 | Augurey | Ferrici | tôi | em / Ferrici | 236 | Mạo hiểm giả tiếp chuyện thiếu nữ trong làng |
 | Ferrici | Augurey | em | anh / Augurey | 236 | Thiếu nữ tiếp cận mạo hiểm giả vào ban đêm |
+| Rentt Faina | Ferrici | tôi | em / Ferrici | 238 | Mạo hiểm giả giải thích và trấn an thiếu nữ trong làng |
+| Ferrici | Rentt Faina | tôi | anh / các người | 238 | Thiếu nữ bàng hoàng đối đáp với mạo hiểm giả |
 

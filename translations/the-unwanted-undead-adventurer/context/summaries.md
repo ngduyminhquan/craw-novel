@@ -1402,6 +1402,12 @@ Tại phòng Lorraine, cô cũng đã hạ gục một gã đàn ông điển tr
 Lorraine dựng Cách Âm Kết Giới và thử đánh thức kẻ tấn công (kể cả tát mạnh) nhưng vô hiệu; nhóm bàn bạc phương án truy bắt Siren, không vội tra khảo Goblin vì sợ lộ hoặc bị bắt con tin, cũng như nhờ Lorraine đã bí mật đánh dấu ma pháp lên Goblin.
 Augurey chuyển gã đàn ông sang sofa để tránh bất tiện và thoáng nhận ra điều gì đó trên gương mặt gã nhưng không nói; Rentt và Augurey để Lorraine ở lại canh giữ ba tù nhân rồi lẻn ra ngoài thám thính tình hình ngôi làng.
 
+## 238
+Rentt và Augurey bị chủ quán trọ cầm rìu tấn công tại quầy lễ tân nhưng Augurey hạ gục nhanh chóng; khi ra ngoài quán trọ, cả hai bị khoảng 10 dân làng bao vây và ngăn chặn kịp thời một người toan dùng dao tự sát nhằm gài bẫy khiến nhóm bị chính quyền bắt giữ.
+Nhờ nhớ lại mùi nước hoa đặc trưng vương đô ngửi thấy trên người gã đàn ông tấn công Lorraine, Augurey lần theo dấu vết bắt giữ được Siren đang lẩn trốn trong làng; Lorraine nhận tra khảo riêng và làm rõ năng lực của Siren là dị năng/thiên phú không dùng Ma Lực (thao túng tối đa 20 người), tự giải trừ khi ả bất tỉnh.
+Nhóm quyết định đánh thức Ferrici đầu tiên để giải thích sự tình; sau khi được cởi trói và nghe kể lại toàn bộ sự việc, Ferrici mở to mắt bàng hoàng trước sự thật mình bị Siren thôi miên ám sát Augurey.
+
+
 
 
 
