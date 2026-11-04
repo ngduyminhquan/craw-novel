@@ -40,6 +40,7 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#13) Thành ngữ "if anything": dịch là "nói đúng hơn thì", "trái lại" (tránh dịch nhầm thành "nếu có điều gì xảy ra").
 - (#14) Cấu trúc phủ định kép: cẩn thận khi chuyển ngữ sang tiếng Việt tránh đảo ngược nghĩa câu văn (ví dụ "did not have the slightest suspicion that these days would not continue indefinitely" dịch thành "chưa từng mảy may thoáng nghĩ rằng những chuỗi ngày ấy rồi sẽ có lúc không thể tiếp diễn mãi mãi").
 - (#49) Thành ngữ "at best": dịch là "xét một cách nhẹ nhàng nhất thì", "có nhìn nhận tích cực nhất thì" hoặc "khá lắm thì cũng" (tránh dịch sai thành "nói giảm nói tránh" như ở chương 48 và 49).
+- (#55) Thành ngữ "see the whites of their eyes": chỉ cự ly giáp mặt rất gần ("cho tới khi nhìn rõ cả tròng mắt đối phương"), tránh dịch máy thô từng chữ.
 - (#57) Thành ngữ "count one's chickens before they hatch": dịch là "tính chuyện chưa đâu vào đâu", "tính cua trong lỗ" (tránh dịch sai thành "chưa đỗ ông nghè đã đe hàng tổng").
 - (#34) Đơn vị tiền đồng ("bronze coin" / "bronze piece"): dịch là "đồng xu đồng" (tránh dịch lặp âm thành "đồng đồng").
 - (#64) Cụm từ "my past life" của Rentt: dịch là "thời còn sống" hoặc "quãng đời trước đây" (tránh dịch là "kiếp trước" gây nhầm sang chuyển sinh).

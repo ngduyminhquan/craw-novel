@@ -1,176 +1,176 @@
 # Chương 55: Tập 2 Chương 4 - Hoa Long Huyết (8)
 
-Thêm một tiếng sấm sét nữa vang vọng khắp đầm lầy khi thân xác khổng lồ của con quái thú đổ ầm xuống mặt đất. Sau một hồi giãy giụa và quẫy đạp dữ dội trong thoáng chốc, cái xác không đầu của con Tarasque cuối cùng cũng hoàn toàn bất động. Chiếc cổ tựa như rắn của nó quằn quại cuộn tròn trong đau đớn, tạo nên một cảnh tượng thật kinh tởm khi nhìn vào.
+Thân xác đồ sộ của con quái thú đổ rầm xuống mặt đất, vang lên một tiếng rền như sấm động khắp đầm lầy. Cái xác không đầu của con Tarasque quẫy đạp điên cuồng thêm một chốc rồi rốt cuộc cũng nằm im bất động. Chiếc cổ ngoằn ngoèo như rắn của nó quặn lại vì đau đớn, trông gớm ghiếc vô cùng.
 
-Thật không ngờ một thứ to lớn cỡ này lại có thể quằn quại và co giật theo cái cách như thế; một cảnh tượng mà tôi hy vọng mình sẽ chẳng bao giờ phải chứng kiến lần thứ hai.
+Thật không ngờ một sinh vật to lớn nhường này lại có thể giãy giụa quằn quại đến mức ấy; cảnh tượng gớm ghiếc này, tôi chẳng bao giờ muốn nhìn thấy thêm lần thứ hai.
 
-Có lẽ một kẻ vừa tự tay hạ sát con Tarasque như tôi mà buông ra lời ấy thì nghe thật kỳ cục. Dù vậy, ngay từ đầu tôi đâu thực sự có ý định giết nó; chỉ trách con quái thú cứ khăng khăng bám riết đuổi theo chúng tôi mà thôi.
+Vừa tự tay hạ con Tarasque xong mà lại thốt ra câu ấy thì nghe hơi kỳ cục thật. Nhưng ngay từ đầu tôi đâu có ý định giết nó; có trách thì trách con quái thú cứ hùng hổ bám riết lấy chúng tôi thôi.
 
-Ta sẽ không xin lỗi đâu, đồ quái vật.
+Tôi không xin lỗi đâu nhé, đồ quái vật.
 
-Vốn dĩ là một ma thú, con Tarasque cũng sở hữu một viên Ma Tinh bên trong, hệt như mọi quái vật khác. Dù vị trí của Ma Tinh thay đổi tùy theo từng chủng loài quái vật, người ta thường có thể yên tâm cho rằng nó nằm ở gần tim của quái thú.
+Đã là quái vật thì Tarasque cũng sở hữu một viên Ma Tinh bên trong, hệt như bao giống loài khác. Dù vị trí Ma Tinh ở mỗi loài quái vật một khác, nhưng thông thường người ta cứ nhắm vào gần tim là chắc ăn nhất.
 
-Thế nhưng Ma Tinh của Tarasque lại bị vùi sâu bên dưới lớp mai giáp, và tôi chẳng còn cách nào khác ngoài việc phải xẻ xác đào nó ra. Nhưng làm thế sẽ ngốn một lượng thời gian đáng kể, trong khi Đầm Lầy Tarasque tuyệt đối không phải nơi người ta có thể an tâm nán lại thảnh thơi. Gần như chắc chắn sẽ có một con Tarasque khác nặng nề mò tới trong lúc tôi đang loay hoay giải phẫu xẻ thịt. Đó là điều tôi bắt buộc phải tránh bằng mọi giá.
+Thế nhưng Ma Tinh của Tarasque lại nằm sâu tít bên dưới lớp mai dày, tôi buộc phải xẻ xác mới lôi nó ra được. Khổ nỗi làm vậy sẽ ngốn khá nhiều thời gian, mà Đầm Lầy Tarasque đâu phải chốn có thể thong thả nán lại. Gần như chắc chắn sẽ có một con Tarasque khác lặc lè mò tới trong lúc tôi còn đang loay hoay mổ xác. Đó là điều tôi phải tránh bằng mọi giá.
 
-Tôi đồ rằng việc đánh bại thêm một con Tarasque nữa là hoàn toàn khả thi, xét việc giờ đây tôi đã nắm được điểm yếu của giống loài chúng. Dẫu vậy, trước khi thật sự giao chiến thì tôi đâu thể nào lường trước được điều gì. Dù sao thì tôi cũng nhận ra mình chẳng có mấy điều phải sợ hãi trước một con Tarasque. Chưa kể Edel cũng có thể hỗ trợ tôi nữa.
+Giờ đã nắm được điểm yếu của giống loài này, tôi nghĩ mình hoàn toàn có thể hạ thêm một con Tarasque nữa. Nhưng chỉ khi thật sự lao vào đánh nhau mới biết chắc được. Dẫu sao tôi cũng nhận ra mình chẳng việc gì phải quá e sợ chúng, vả lại còn có Edel hỗ trợ nữa.
 
-Vấn đề duy nhất trong tất cả chuyện này là lượng sức lực còn sót lại trong tôi. Sau khi đã tiêu hao một lượng lớn Thần Lực, tôi sẽ rất chật vật nếu muốn chém bay đầu một con Tarasque khác. Tệ hơn nữa, trữ lượng Thần Lực của tôi lại ít hơn đáng kể, chí ít là khi so với Ma Lực và Khí Lực. Kết quả là tôi thường dùng cạn nó nhanh hơn, và hiển nhiên là cũng mất nhiều thời gian hơn để hồi phục.
+Vấn đề nan giải duy nhất lúc này là lượng sức lực còn lại trong người tôi. Vừa tiêu tốn một lượng lớn Thần Lực xong, bảo tôi chặt đầu thêm một con Tarasque nữa thì trầy trật lắm. Oái oăm hơn là trữ lượng Thần Lực của tôi vốn ít hơn hẳn so với Ma Lực và Khí Lực. Thành thử hễ dùng là hao hụt rất nhanh, mà muốn hồi phục lại thì đương nhiên cũng mất nhiều thời gian hơn.
 
-Tôi không thể cứ dựa dẫm vào việc liên tục thi triển cùng một chiêu thức hết lần này đến lần khác mà không có thời gian nghỉ ngơi. Đó là lý do vì sao tôi đã cố gắng tiết kiệm Thần Lực, và rốt cuộc lại dẫn đến kết cục là phải tiêu hao gần như sạch bách.
+Tôi không thể cứ liên tục tung ra đòn cũ mà không có thời gian nghỉ lấy sức. Chính vì thế ban nãy tôi mới cố dè sẻn Thần Lực, để rồi rốt cuộc lại thành ra tiêu tốn gần hết.
 
-Đúng là một tình thế tiến thoái lưỡng nan.
+Đúng là nan giải thật.
 
-Vậy thì liệu tôi có nên từ bỏ cái xác của con Tarasque cùng viên Ma Tinh bên trong nó?
+Chẳng lẽ tôi đành phải bỏ lại xác con Tarasque cùng viên Ma Tinh bên trong sao?
 
-Không. Tôi đâu thể làm cái chuyện như thế.
+Không đời nào. Tôi đâu thể làm thế.
 
-Tôi sẽ chẳng bao giờ làm chuyện như thế.
+Tôi nhất quyết không đời nào làm thế.
 
-Tôi căn bản là không thể nào làm chuyện như thế được.
+Căn bản là tôi không tài nào làm nổi cái chuyện ấy.
 
-—Bởi tôi đang ngập trong nợ nần. Tệ hơn nữa, phần thưởng của cô nhi viện dành cho tôi khi thu thập một đóa Hoa Long Huyết chỉ vỏn vẹn đúng một đồng xu đồng hậu hĩnh. Tuy nhiên, bất chấp khoản nợ đè nặng, tôi vẫn bấm bụng tự bỏ tiền túi ra chi trả cho một món đồ rất đỗi đặc thù trước khi đặt chân tới đầm lầy: không gì khác ngoài một chiếc túi ma pháp.
+—Bởi tôi đang ngập đầu trong nợ nần. Oái oăm hơn, phần thưởng cô nhi viện trả cho tôi để tìm Hoa Long Huyết là một khoản "kếch xù" lên tới hẳn... một đồng xu đồng. Dẫu nợ nần chồng chất là thế, tôi vẫn bấm bụng tự bỏ tiền túi ra sắm một món đồ cực kỳ đặc biệt trước khi đến đầm lầy: không gì khác ngoài một chiếc túi ma thuật.
 
-Bản thân tôi vốn đã sở hữu một chiếc túi như vậy, nhưng cái đó tương đối nhỏ, chứa vừa cái xác một con Orc là đã chật ních. Chẳng đời nào nó có thể nhét vừa thân xác của một quái thú khổng lồ như Tarasque.
+Bản thân tôi vốn đã có một chiếc, nhưng cái đó khá nhỏ, nhét vừa xác một con Orc là đã chật ních. Làm sao mà chứa nổi thân xác đồ sộ của một quái thú như Tarasque cơ chứ.
 
-Tôi hoàn toàn có thể xẻ thịt con Tarasque và thu hoạch các nguyên liệu quý giá bên trong, nhưng nơi này lại chẳng hề thuận lợi cho một nỗ lực như thế. Đó là lý do vì sao một chiếc túi dung lượng lớn là vô cùng cần thiết, và cũng là lý do tôi chuẩn bị một món như vậy trước chuyến thâm nhập vào Đầm Lầy Tarasque.
+Tôi hoàn toàn có thể mổ xẻ con Tarasque để lấy những nguyên liệu quý giá, nhưng địa điểm này rõ ràng chẳng thích hợp để làm việc đó. Bởi vậy một chiếc túi dung tích lớn là vô cùng cần thiết, và đó là lý do tôi phải chuẩn bị sẵn một chiếc trước khi dấn thân vào Đầm Lầy Tarasque.
 
-Dẫu vậy, lý do để tôi chuẩn bị sẵn một chiếc túi như thế từ trước lại đơn giản hơn nhiều: dạo gần đây, tôi đã tính đến vận may tương đối tệ hại của mình. Thử hỏi trên đời này có ai chỉ đi khám phá một mê cung sơ cấp mà lại bị một con Rồng huyền thoại xơi tái rồi biến thành một Khô Lâu cơ chứ?
+Thực ra, lý do để tôi chuẩn bị sẵn một chiếc túi như thế từ trước lại đơn giản hơn nhiều: dạo gần đây tôi đã phải tự tính trước cái vận rủi đen đủi của bản thân. Thử hỏi trên đời này có ai chỉ đi thám hiểm một mê cung sơ cấp mà lại bị Rồng huyền thoại xơi tái rồi biến thành Khô Lâu không cơ chứ?
 
-Nói đúng hơn thì, tôi đã quen với việc chuẩn bị cho những điều tồi tệ nhất ở thế giới này rồi.
+Nói đúng hơn thì, tôi đã quen lường trước những điều tồi tệ nhất có thể xảy đến trên đời này rồi.
 
-Vậy thì điều gì sẽ xảy ra nếu một kẻ như tôi dấn thân vào Đầm Lầy Tarasque? Bất chấp mọi xác suất, chắc chắn tôi sẽ chạm trán một con Tarasque. Phải, một lối suy nghĩ đậm mùi định mệnh, nhưng xem ra những phỏng đoán—và linh tính mách bảo—của tôi quả không sai chút nào.
+Vậy thì một kẻ như tôi mà mò vào Đầm Lầy Tarasque thì chuyện gì sẽ xảy ra? Dù tỉ lệ có thấp đến đâu, kiểu gì tôi cũng sẽ chạm trán một con Tarasque. Phải, một lối nghĩ sặc mùi bi quan định mệnh, nhưng xem ra phỏng đoán—cùng linh cảm—của tôi quả chẳng sai chút nào.
 
-Có lẽ tôi đã có được một loại bản năng nguyên thủy nào đó sau khi biến thành quái vật...
+Biết đâu từ hồi biến thành quái vật, tôi lại thức tỉnh một loại bản năng nguyên thủy nào đó không chừng...
 
-Rốt cuộc thì tôi cũng đã chạm trán một con Tarasque thật. Thậm chí tôi có thể nói rằng bản năng của mình đã được mài giũa khá chuẩn xác đấy chứ.
+Và kết quả là tôi đụng độ Tarasque thật. Coi như bản năng của tôi cũng được mài giũa khá chuẩn xác đấy chứ.
 
-Dù nói là vậy, chiếc túi ma pháp dung lượng lớn này thực chất chỉ là món đồ tôi đi thuê. Có lẽ cũng dễ hiểu thôi, khi mà những ma cụ chất lượng cao bực này đều đắt giá tựa vàng ròng. Với mức giá niêm yết của chiếc túi này, người ta thậm chí còn có thể mua đứt cả một căn nhà.
+Dù vậy, chiếc túi ma thuật dung tích lớn này thực chất chỉ là đồ tôi đi thuê. Âu cũng là chuyện đương nhiên, bởi ma cụ phẩm cấp cao cỡ này đắt giá chẳng khác nào vàng ròng. Số tiền bỏ ra mua đứt chiếc túi này thậm chí còn đủ để tậu cả một căn nhà.
 
-May mắn thay, việc thuê nó là hoàn toàn khả thi, miễn là người ta có đủ tiền. Người ta ắt sẽ nghĩ một món đồ quý giá dường ấy không đời nào lại được cho thuê dễ dàng đến thế, nhưng họ chỉ cần nhìn vào Hội, nơi tôi thuê chiếc túi này, là sẽ hiểu. Nếu có bất kỳ mạo hiểm giả nào dại dột cuỗm nó bỏ trốn, các chuyên viên thu hồi được huấn luyện bài bản của Hội sẽ lập tức bám gót truy lùng ngay tức khắc. Tùy thuộc vào giá trị của món ma cụ được đề cập, thậm chí cả các mạo hiểm giả Kim Cấp hay Bạch Kim Cấp cũng sẽ được huy động cho nhiệm vụ này. Điều đó đồng nghĩa với việc bất kỳ kẻ phạm tội nào cũng khó lòng sống yên ổn ở bất cứ vương quốc nào, đó là lý do vì sao những vụ trộm cắp kiểu này là cực kỳ hiếm thấy.
+May thay, chỉ cần đủ tiền là có thể thuê được. Hẳn ai cũng nghĩ món đồ giá trị nhường ấy đâu dễ gì cho thuê bừa bãi, nhưng nơi tôi thuê lại chính là Hội Mạo Hiểm Giả. Nếu có kẻ nào dại dột cuỗm nó bỏ trốn, các chuyên viên thu hồi lão luyện của Hội sẽ bám gót truy lùng ngay lập tức. Tùy theo giá trị của món ma cụ, Hội thậm chí còn có thể điều động cả mạo hiểm giả Kim Cấp lẫn Bạch Kim Cấp vào cuộc. Đồng nghĩa với việc kẻ trộm khó lòng sống yên ổn ở bất kỳ vương quốc nào, thành thử những vụ trộm cắp kiểu này cực kỳ hiếm khi xảy ra.
 
-Những vụ trộm cắp ấy dường như phản ánh bản chất đen tối vô tận của con người, và có lẽ là của cả thế giới rộng lớn này.
+Những vụ trộm cắp như vậy dường như phản ánh góc khuất tăm tối vô tận trong bản tính con người, và có khi là của cả thế giới này nữa.
 
-Dù sao đi nữa, giờ đây tôi đã được trang bị phương tiện để vận chuyển xác con Tarasque vừa bị hạ gục.
+Dù sao đi nữa, giờ tôi đã có sẵn phương tiện để mang cái xác con Tarasque vừa hạ về rồi.
 
-Thân xác nó là cả một mỏ vàng nguyên liệu. Ngay cả khi chưa tính đến số tiền thu được từ việc bán viên Ma Tinh, riêng lớp vảy và mai của Tarasque thôi cũng đã thừa đủ để vớt tôi ra khỏi vũng lầy nợ nần. Tổng số tiền thu về từ riêng cái xác này sẽ đủ để tôi kiếm được một khoản lời kha khá, ngay cả khi đã khấu trừ toàn bộ chi phí cho chuyến thám hiểm lần này.
+Thân xác nó đúng là một mỏ vàng nguyên liệu. Dù chưa tính đến tiền bán viên Ma Tinh, riêng lớp vảy cùng bộ mai của Tarasque thôi cũng đã thừa sức kéo tôi ra khỏi vũng lầy nợ nần rồi. Tính tổng cộng lại, chỉ riêng cái xác này cũng đủ để tôi kiếm được một khoản lời kha khá, kể cả sau khi đã trừ hết chi phí cho chuyến thám hiểm lần này.
 
-Nghĩ đến cảnh mình sẽ lại có thể thoải mái chi tiêu, mà lại làm được điều đó chỉ nhờ chiến lợi phẩm từ một trận chiến duy nhất! Đây chính là một trong vô vàn lý do khiến tôi không thể dứt khỏi nghiệp mạo hiểm giả.
+Nghĩ đến cảnh mình sắp lại được rủng rỉnh tiêu xài, mà tất cả chỉ nhờ vào chiến lợi phẩm từ một trận chiến duy nhất! Đây chính là một trong muôn vàn lý do khiến tôi không sao dứt nổi nghiệp mạo hiểm giả.
 
-Đây là lần đầu tiên tôi có được một món hời lớn nhường này trong suốt một thập kỷ qua, quãng thời gian mà phần lớn tôi dành để làm mạo hiểm giả. Dù cách đây một dạo tôi từng thu hoạch được một viên Ma Tinh cỡ lớn từ con quái vật khổng lồ mà mình đã tiêu diệt, tình thế khi đó lại khiến tôi chẳng kiếm chác được một đồng nào từ vụ việc ấy.
+Đây là lần đầu tiên tôi vớ được món hời to đến thế trong suốt mười năm lăn lộn với nghề mạo hiểm giả. Dù đợt trước tôi từng thu được một viên Ma Tinh cỡ bự từ con quái vật khổng lồ mình hạ gục, nhưng tình cảnh ngặt nghèo khi ấy khiến tôi chẳng bỏ túi được cắc nào.
 
-Lần này thì sẽ khác. Tôi mở chiếc túi ra, quỳ một gối xuống bên cạnh xác con Tarasque. Tôi không hề có ý bảo mình sẽ phải tìm cách trùm chiếc túi qua cái xác to lớn không tưởng này, bởi chuyện đó hoàn toàn không cần thiết. Người ta chỉ việc để chiếc túi ma pháp tiếp xúc với vật thể trong một khoảng thời gian vừa đủ, và chẳng mấy chốc nó sẽ được dịch chuyển êm thấm vào chiều sâu không đáy bên trong.
+Lần này thì khác rồi. Tôi mở túi rồi quỳ xuống bên cạnh xác con Tarasque. Nói vậy không có nghĩa là tôi phải tìm cách trùm cái túi lên cái xác đồ sộ này, chuyện đó hoàn toàn không cần thiết. Người ta chỉ việc áp chiếc túi ma thuật vào vật thể một lúc, chẳng mấy chốc món đồ sẽ được hút gọn gàng vào không gian sâu thẳm không đáy bên trong.
 
-Quả thực là một công cụ vô cùng tiện lợi.
+Đúng là món đồ tiện lợi hết chỗ nói.
 
-Ngay cả cái đầu đứt lìa của Tarasque cũng rất có giá trị, vì thế tôi cũng tận tâm để chiếc túi nuốt trọn nốt phần đó. Nếu trí nhớ của tôi còn chuẩn xác, nhãn cầu, não bộ cùng các tuyến độc của nó cũng có giá trị không hề nhỏ.
+Ngay cả cái đầu đứt lìa của Tarasque cũng rất có giá, nên tôi chu đáo để chiếc túi nuốt trọn nốt phần đó. Nếu nhớ không lầm thì mắt, não cùng các tuyến độc của nó cũng bán được khối tiền.
 
-Sau khi hoàn thành công việc, tôi dạo một vòng quanh khu vực, chủ yếu là để xác nhận xem có con quái vật nào khác lảng vảng ở vùng lân cận hay không. Đúng như dự đoán, có vài con Goblin đang lấp ló sau bụi cây, tôi đồ rằng chúng đang ngóng chờ nhặt nhạnh chút đồ ăn thừa.
+Xong xuôi mọi việc, tôi rảo quanh một vòng, chủ yếu nhằm kiểm tra xem có con quái vật nào khác lảng vảng gần đây không. Đúng như dự đoán, có vài con Goblin đang lấp ló sau bụi cây, chắc là chực chờ nhặt nhạnh chút đồ thừa.
 
-Đối với chúng, thân xác một con Tarasque chứa đựng vô số nguyên liệu chế tác quan trọng. Người ta chỉ cần quan sát một con Goblin Đầm Lầy là sẽ nhận ra chúng chẳng hề kén chọn nguyên liệu mình sử dụng. Bất cứ thứ gì cũng đều dùng được, kể cả những mảnh vụn vỡ ra từ vảy và mai của Tarasque. Những thứ đó sau đó sẽ được đan ghép lại với nhau một cách hết sức chắp vá.
+Với chúng, xác Tarasque chứa vô số nguyên liệu chế tác quý báu. Cứ nhìn lũ Goblin Đầm Lầy là biết, chúng chẳng kén chọn nguyên liệu bao giờ. Vớ được thứ gì là dùng tuốt, kể cả những mảnh vỡ nát từ vảy hay mai của Tarasque, rồi cứ thế chắp vá lại với nhau hết sức tùy tiện.
 
-Đây đúng là một cơ hội hoàn hảo để quan sát hệ sinh thái của đầm lầy cùng vòng tuần hoàn sinh tử bất tận bao trùm khắp nơi này. Thế nhưng, tôi lại nhặt một nắm đá dưới đất lên rồi dồn hết sức bình sinh ném thẳng về phía bầy Goblin đó. Dẫu hành động này nghe có vẻ tàn nhẫn, tôi thực chất chỉ đang phòng vệ chính đáng mà thôi, bởi lũ Goblin đã bắt đầu giương cung và chĩa thẳng mũi tên về hướng tôi rồi.
+Đây đúng là cơ hội tuyệt vời để quan sát hệ sinh thái đầm lầy cùng vòng tuần hoàn sinh tử bất tận nơi đây. Thế nhưng, tôi lại nhặt mấy hòn đá dưới đất lên rồi dồn hết sức ném thẳng về phía lũ Goblin. Nghe thì có vẻ tàn nhẫn, nhưng tôi chỉ đang tự vệ chính đáng thôi, bởi chúng đã bắt đầu giương cung chĩa thẳng về phía tôi rồi.
 
-Những hòn đá xòe ra theo một hình vòng cung rộng, đập trúng ngay giữa hai mắt của một con Goblin đặc biệt xui xẻo. Chứng kiến đồng bọn bất ngờ ngã gục, những con Goblin khác lập tức bỏ chạy tán loạn. Chẳng có lấy một con Goblin nào dừng lại giúp đỡ người bạn ngã xuống của mình, và con Goblin bất hạnh kia nằm run rẩy trên mặt đất một hồi lâu trước khi gắng gượng đứng dậy. Lắc đầu lia lịa, nó tập tễnh chạy tháo thân theo chân đồng bọn trong nỗi hoảng loạn tột cùng.
+Mấy hòn đá bay tỏa ra theo hình vòng cung, đập trúng ngay giữa trán một con Goblin xui xẻo. Thấy đồng bọn bất ngờ ngã lăn quay, lũ Goblin còn lại lập tức mạnh ai nấy chạy. Chẳng một con nào buồn ngoái lại giúp đồng đội, còn con Goblin xấu số kia thì nằm co giật dưới đất một lúc lâu mới lồm cồm bò dậy. Nó lắc đầu lia lịa rồi tập tễnh cuống cuồng chạy tháo thân theo đàn.
 
-Một cảnh tượng thật ấm lòng, hay nói đúng hơn là có phần buồn cười. Tôi cảm thấy các dây thần kinh của mình đã ổn định trở lại đôi chút sau khi tâm trí bị bào mòn đáng kể từ cuộc chạm trán với Tarasque.
+Thật là một cảnh tượng "ấm lòng", hay nói đúng hơn là có phần buồn cười. Tôi thấy đầu óc mình nhẹ nhõm hơn đôi chút, sau khi tinh thần đã bị căng thẳng tột độ vì cuộc chạm trán với Tarasque.
 
-Thế rồi, chẳng hề có điềm báo trước, con quái ngư từng hất văng tôi ra khỏi hồ nước độc lại một lần nữa trồi lên từ vùng nước sâu, ngoạm trọn vài con Goblin đang tháo chạy trước khi lặn mất tăm dưới làn sóng. Con Goblin duy nhất còn sống sót chính là kẻ đã bị choáng váng bởi hòn đá tôi ném.
+Thế rồi, chẳng báo trước tiếng nào, con quái ngư từng hất văng tôi khỏi hồ nước độc lại trồi lên từ đáy sâu, ngoạm trọn vài con Goblin đang tháo chạy rồi lặn mất tăm dưới làn nước. Kẻ duy nhất sống sót trong đàn Goblin lại chính là con vừa bị hòn đá của tôi ném trúng đến choáng váng.
 
-Đúng là quy luật sinh tồn chốn hoang dã...
+Đúng là quy luật hoang dã...
 
-Nghĩ kỹ lại thì, tôi nhận ra đây gần như là hiện trạng thường nhật ở vùng đất này.
+Nghĩ lại thì, ở cái chốn này chuyện như vậy cũng là lẽ thường tình.
 
-Rõ ràng là sững sờ trước những gì vừa diễn ra ngay trước mắt, con Goblin đơn độc đứng chôn chân, nom có vẻ hoàn toàn mất phương hướng. Đăm đăm nhìn vào bóng lưng nó, tôi không khỏi tự hỏi liệu nó có cảm thấy một nỗi tuyệt vọng ngập tràn hay không. Liệu nó có cảm thấy xót thương cho sự mất mát của những người bạn, bất kể việc chính chúng vừa mới bỏ mặc nó cho số phận chỉ vài khoảnh khắc trước đó?
+Dường như quá bàng hoàng trước những gì vừa diễn ra ngay trước mắt, con Goblin trơ trọi đứng chết trân, vẻ mặt ngơ ngác chẳng biết phải làm sao. Nhìn bóng lưng nó, tôi bất giác tự hỏi liệu nó có đang cảm thấy tuyệt vọng không. Liệu nó có xót xa trước cái chết của đồng bọn, dù mới vừa chốc lát trước chính chúng đã nhẫn tâm bỏ mặc nó cho số phận?
 
-Thói đời vốn là như thế đấy.
+Sự đời vốn dĩ là thế đấy.
 
-Tôi đồ rằng mình nên tiếp tục lên đường thôi; tôi vẫn còn phải tìm Hoa Long Huyết nữa.
+Chắc tôi cũng nên đi tiếp thôi; vẫn còn phải tìm Hoa Long Huyết nữa mà.
 
-Sau khi xác nhận đã có một khoảng cách khá an toàn giữa bản thân và con Goblin đơn độc—kẻ vào một lúc nào đó đã quyết định rút lui sâu vào đầm lầy—tôi quay trở lại với cuộc tìm kiếm của mình. Khỏi phải nói, tôi di chuyển hết sức thận trọng và chậm rãi, chẳng hề muốn chạm trán thêm một con Tarasque nào nữa.
+Nhận thấy con Goblin kia đã lủi sâu vào đầm lầy và giữa hai bên có một khoảng cách tương đối an toàn, tôi mới tiếp tục công việc tìm kiếm. Khỏi phải nói, tôi cẩn trọng nhích từng bước một, chẳng đời nào muốn đụng đầu thêm một con Tarasque nào nữa.
 
-May mắn thay, tôi không đụng độ thêm bất kỳ quái thú nguy hiểm nào khác, có lẽ một phần là nhờ vào sự tiến bước đầy cẩn trọng của tôi. Thêm vào đó, kết quả trận chiến vừa rồi đã khẳng định rằng loài Tarasque thực sự rất ghét Nước Thánh. Theo mạch suy nghĩ ấy, tôi đồ rằng mình có thể giả định chúng căm ghét Thần Lực nói chung, và sẽ tránh xa các nguồn phát ra nó bất cứ khi nào có thể.
+May thay, tôi không đụng độ thêm con quái thú nguy hiểm nào, có lẽ một phần nhờ bản thân đi đứng hết sức cẩn thận. Thêm nữa, kết quả trận chiến vừa rồi đã chứng minh loài Tarasque thực sự rất ghét Nước Thánh. Cứ theo đà suy luận ấy, tôi đoán chúng cũng kỵ Thần Lực nói chung, và sẽ tránh xa nơi nào phát ra thứ năng lượng đó nếu có thể.
 
-Tôi bao bọc bản thân trong một luồng khí tức Thần Lực mờ ảo, rồi lại chầm chậm tiến bước qua đầm lầy một lần nữa.
+Tôi bao bọc quanh người một màn Thần Lực mờ nhạt, rồi lại chầm chậm tiến bước giữa đầm lầy.
 
 ◆◇◆◇◆
 
-Cuối cùng khi đã ra khỏi lãnh địa của loài Tarasque, tôi nhận thấy mình đang ở một nơi thực sự đẹp đến nghẹt thở, và trong thoáng chốc tôi hoàn toàn không thốt nên lời.
+Rốt cuộc khi đã bước ra khỏi lãnh địa của lũ Tarasque, đập vào mắt tôi là một khung cảnh đẹp đến nghẹt thở, khiến tôi sững sờ trong thoáng chốc chẳng thốt nên lời.
 
-Xét việc Đầm Lầy Tarasque tràn ngập khí độc, nước độc, thực vật độc cùng quái vật mang độc, người ta ắt sẽ đinh ninh rằng nơi đây là một chốn địa ngục trần gian không thể kiểm soát. Chí ít thì đó cũng là một giả định hết sức hợp lý. Xét cho cùng, những cá nhân duy nhất dám đặt chân vào đầm lầy chỉ là những mạo hiểm giả không biết sợ hãi, cùng những kẻ đầu óc có phần không được bình thường. Thị dân cùng những người bình phàm khác thì ngay từ đầu thậm chí còn chẳng dám mơ đến chuyện bén mảng lại gần.
+Với một nơi ngập ngụa khí độc, nước độc, cây cỏ độc lẫn quái vật kịch độc như Đầm Lầy Tarasque, ai nấy đều sẽ đinh ninh đây là một chốn địa ngục trần gian không thể kiểm soát. Ít nhất thì đó cũng là một giả định hoàn toàn hợp lẽ. Xét cho cùng, những kẻ duy nhất dám đặt chân tới đây chỉ có các mạo hiểm giả không biết sợ, hoặc mấy tay đầu óc có vấn đề. Còn thị dân với người bình thường thì có nằm mơ cũng chẳng dám bén mảng lại gần.
 
-Người ta hẳn cũng sẽ cho rằng chính nơi sâu thẳm nhất và là trái tim của đầm lầy sẽ là nơi ngự trị của những quái vật nguy hiểm nhất cùng những loại chất độc cực mạnh nhất. Dù suy nghĩ theo hướng đó là hoàn toàn hợp logic, những gì tôi chứng kiến trước mắt lại đi ngược lại toàn bộ logic ấy.
+Ai cũng sẽ ngỡ rằng chốn sâu thẳm nhất nơi tâm đầm lầy ắt phải là hang ổ của những con quái vật hung tợn nhất cùng những thứ độc chất kinh hoàng nhất. Suy nghĩ ấy nghe rất thuận lý, nhưng cảnh tượng trước mắt tôi lúc này lại đi ngược lại hoàn toàn.
 
-Phải rồi... Đây ắt hẳn chính là vẻ đẹp đích thực...
+Phải rồi... Đây hẳn chính là vẻ đẹp đích thực...
 
-Tôi chưa từng mường tượng một cảnh tượng như thế này lại có thể tồn tại, mà lại ngay bên trong Đầm Lầy Tarasque cơ chứ. Nơi đây không thể nghi ngờ gì nữa chính là một chốn thiên đường.
+Tôi chưa từng ngờ lại có một khung cảnh thế này tồn tại, mà lại nằm ngay giữa Đầm Lầy Tarasque mới kỳ lạ chứ. Nơi đây đích thị là một chốn thiên đường.
 
-Trước mắt tôi là một mặt hồ tuyệt đẹp, với làn nước trong vắt đến mức tôi có thể nhìn thấy cả lớp đá nền bên dưới. Những đóa hoa đỏ thẫm viền quanh bờ nước, thi thoảng lại có một cánh hoa rơi xuống bập bềnh trôi nổi trên mặt nước. Bầy hoa vây quanh và nở rộ khắp ven hồ, tựa như một đội quân binh lính đỏ trung thành đang bảo vệ nữ hoàng của mình trước các loài thực vật khác của đầm lầy.
+Trước mắt tôi là một đầm nước tuyệt đẹp, làn nước trong vắt nhìn thấu tận đáy đá bên dưới. Muôn đóa hoa đỏ thắm viền quanh mép nước, thi thoảng lại có cánh hoa rụng xuống dập dềnh trôi trên mặt hồ. Hoa nở rộ ken dày quanh bờ, tựa như một đạo quân trung thành trong sắc áo đỏ đang bảo vệ nữ hoàng của mình trước các loài thực vật khác của đầm lầy.
 
-Thấp thoáng giữa muôn hoa là côn trùng, chim chóc, thậm chí thi thoảng còn có cả dã thú, tất cả đều đang dạo quanh trong một sự hài hòa tương đối. Đây là điều cuối cùng tôi ngờ rằng mình sẽ được trông thấy ở nơi tận cùng của một vùng đầm lầy độc hại.
+Thấp thoáng giữa ngàn hoa là côn trùng, chim chóc, thi thoảng còn có cả thú rừng, tất cả cùng chung sống trong cảnh thanh bình hiếm thấy. Đây thực sự là điều tôi ít ngờ tới nhất khi đi tới tận cùng của một vùng đầm lầy độc hại.
 
-Lý do cho sự tồn tại của nơi này chính là nhờ những bông hoa. Những đóa hoa màu đỏ rực rỡ này chính là loài hoa mà tôi đã cất công tìm kiếm bấy lâu:
+Lý do nơi này tồn tại được chính là nhờ những đóa hoa kia. Những bông hoa đỏ rực rỡ ấy chính là thứ tôi đang cất công tìm kiếm:
 
 Hoa Long Huyết.
 
-Loài hoa này sở hữu khả năng thanh lọc và gột rửa môi trường xung quanh chúng, và chính những đóa hoa ngay dưới chân tôi lúc này chịu trách nhiệm tạo nên quả cầu thanh sạch mà tôi đang đứng bên trong.
+Loài hoa này có khả năng thanh lọc và gột rửa môi trường xung quanh, và chính những đóa hoa ngay dưới chân tôi lúc này đã tạo nên khoảng không gian thanh sạch nơi tôi đang đứng.
 
-Mặc dù hệ động thực vật bên trong không gian này dường như được bảo bọc bởi Hoa Long Huyết, thực tế lại tàn nhẫn hơn nhiều. Dù chúng có thể tự do sinh sống và hít thở bên trong quả cầu bảo hộ của Hoa Long Huyết, chúng sẽ bỏ mạng chỉ trong vòng một giờ nếu bằng cách nào đó bị đưa ra bên ngoài.
+Dẫu cỏ cây muông thú nơi đây dường như được Hoa Long Huyết chở che, nhưng hiện thực lại tàn nhẫn hơn nhiều. Chúng có thể tự do sinh sống và hít thở trong vùng bảo bọc của loài hoa này, nhưng nếu chẳng may bị đưa ra bên ngoài, chúng sẽ mất mạng chưa đầy một canh giờ.
 
-Một chốn thiên đường, phải, nhưng đồng thời cũng là một ngục tù vĩnh cửu.
+Đúng là thiên đường thật, nhưng đồng thời cũng là một ngục tù vĩnh cửu.
 
-Vô số loài chim chóc, côn trùng và dã thú quý hiếm coi chốn ngục tù này là nhà, và chúng sẽ có giá trị tựa vàng ròng nếu được vận chuyển ra khỏi đầm lầy. Quy trình này sẽ cực kỳ gian nan, xét việc người ta phải đưa sinh vật ra khỏi quả cầu không khí thanh sạch này và đi vào làn độc chất của đầm lầy bao quanh. Chỉ riêng việc vận chuyển một sinh vật thôi đã là cả một kỳ công to lớn, bởi người ta phải duy trì một vùng không khí tương đối thuần khiết quanh mình vào mọi thời điểm. Một vài loại ma cụ nhất định có thể làm được điều này, cũng như một số loại phong ma pháp đặc thù, khi được một ma pháp sư có trữ lượng Ma Lực dồi dào trong cơ thể duy trì không ngừng nghỉ.
+Vô số loài chim muông, sâu bọ cùng dã thú quý hiếm coi chốn ngục tù này là nhà; nếu mang được chúng ra khỏi đầm lầy thì giá trị chẳng khác nào vàng ròng. Có điều việc ấy lại gian nan khôn xiết, bởi người ta phải đưa chúng từ khoảng không khí trong lành này băng qua làn độc chất bao bọc khắp đầm lầy. Chỉ riêng việc chở một con vật thôi đã là cả một kỳ công, bởi người ta phải duy trì một luồng không khí tương đối thanh sạch quanh mình mọi lúc mọi nơi. Vài loại ma cụ có thể làm được điều này, hoặc nhờ một ma pháp sư dồi dào Ma Lực liên tục thi triển phong ma pháp chuyên biệt.
 
-Dù người ta có thể trông đợi một mức độ công nhận nhất định cho kỳ tích như vậy, công sức bỏ ra thường lấn át hoàn toàn phần thưởng nhận lại. Đó là lý do vì sao hệ sinh thái của quả cầu mong manh này phần lớn vẫn được duy trì nguyên vẹn.
+Dù kỳ tích ấy có thể mang lại chút danh tiếng, nhưng công sức bỏ ra lại quá lớn so với phần thưởng thu về. Chính vì thế mà hệ sinh thái mong manh nơi đây phần lớn vẫn giữ được vẻ nguyên vẹn.
 
-Nếu có ai đó gây tổn hại đến một trong số ít những hệ sinh thái nơi Hoa Long Huyết có thể sinh sôi nảy nở, họ chắc chắn sẽ hứng chịu sự chỉ trích dữ dội từ vô số hội nhóm và tổ chức. Miễn là người ta cẩn trọng trong cách thu hoạch hoa, sẽ chẳng có bất kỳ thiệt hại lâu dài nào xảy ra. Hoa Long Huyết sở hữu một sức sống mãnh liệt đặc biệt, và chúng thường tái tạo lại bất kỳ phần hư hại nào tương đối nhanh chóng. Bằng chứng cho điều này chính là việc loài hoa nói trên lại mọc ở chính nơi đây, cùng với thực tế là chúng có khả năng hấp thụ độc tố trong môi trường rồi chuyển hóa toàn bộ thành sinh mệnh lực. Đây rất có thể là lý do vì sao nó lại bén rễ ở chốn này, giữa vô vàn khí độc, ma thú và loài Tarasque.
+Nếu có ai dám phá hoại một trong số ít những hệ sinh thái nơi Hoa Long Huyết sinh sôi nảy nở, kẻ đó chắc chắn sẽ hứng chịu làn sóng chỉ trích dữ dội từ vô số hội nhóm và tổ chức. Miễn là người ta cẩn thận trong cách thu hoạch, loài hoa này sẽ chẳng phải chịu tổn hại lâu dài. Hoa Long Huyết có sức sống vô cùng mãnh liệt, những phần bị hư hại thường hồi phục rất nhanh. Minh chứng rõ nhất là việc chúng mọc lên ở chính nơi này, cùng khả năng hấp thụ độc tố trong môi trường rồi chuyển hóa toàn bộ thành sinh mệnh lực. Rất có thể đó là lý do vì sao chúng lại bén rễ được ở chốn này, giữa muôn trùng khí độc, quái vật và loài Tarasque.
 
-Xác của một con Tarasque quả thực tỏa ra lượng khí độc cực lớn trong quá trình phân hủy, và đây chính là một trong nhiều lý do khiến đầm lầy bị ô nhiễm nặng nề đến vậy. Điều này cũng dẫn đến sự tụ hội kỳ lạ của các sinh vật sống dựa vào độc tố, để rồi cuối cùng kết tinh thành xứ sở thần tiên kỳ dị này giữa màn sương độc mịt mùng.
+Xác của một con Tarasque khi phân hủy tỏa ra lượng khí độc khổng lồ, và đây chính là một trong nhiều nguyên nhân khiến cả đầm lầy ô nhiễm nặng nề đến vậy. Điều đó cũng kéo theo sự quần tụ kỳ lạ của những sinh vật sống nhờ độc tố, để rồi cuối cùng kết tinh thành xứ sở kỳ diệu này giữa màn sương độc mịt mùng.
 
-Loài Tarasque thực sự là trụ cột của hệ sinh thái đầm lầy; nếu chúng không tồn tại, thì những đóa Hoa Long Huyết trước mắt tôi lúc này cũng chẳng thể nào có mặt. Thật mỉa mai làm sao, khi xét đến truyền thuyết đằng sau loài hoa này, cùng thực tế rằng Tarasque là họ hàng xa của loài Rồng.
+Loài Tarasque quả thực là trụ cột của cả hệ sinh thái đầm lầy; thiếu chúng thì những đóa Hoa Long Huyết trước mắt tôi lúc này cũng chẳng thể nào tồn tại. Thật trớ trêu làm sao khi nghĩ về truyền thuyết đằng sau loài hoa này, cùng sự thật rằng Tarasque vốn là họ hàng xa của loài Rồng.
 
-...Có lẽ tôi nên quay lại với công việc trước mắt thôi. Lorraine ắt sẽ phù hợp hơn tôi rất nhiều khi nói đến việc giải thích những khái niệm kiểu này.
+...Thôi, có lẽ tôi nên quay lại với việc chính trước mắt. Giải thích mấy khái niệm kiểu này thì Lorraine rành hơn tôi nhiều.
 
-Giờ thì, phải hoàn thành các chi tiết của ủy thác thôi....
+Giờ thì, lo hoàn thành ủy thác thôi....
 
-Tôi bước một chân về phía trước, tiến vào khu vườn đỏ thẫm. Tôi rảo bước dứt khoát băng qua những đóa hoa; thô bạo thật đấy, nhưng tổn hại cỡ đó vẫn hoàn toàn nằm trong khả năng tự tái tạo của loài hoa này.
+Tôi cất bước tiến vào khu vườn rực sắc đỏ thắm. Tôi rảo bước băng qua những vạt hoa; trông có phần thô bạo thật đấy, nhưng chút tổn hại cỡ này vẫn hoàn toàn nằm trong khả năng tự hồi phục của chúng.
 
-Theo một cuốn cổ thư mà tôi từng tình cờ đọc được, một đóa Hoa Long Huyết sẽ hồi phục chỉ trong vòng một ngày ngay cả khi bị giẫm đạp thô bạo dưới gót chân. Đây cũng là một biện pháp cần thiết, nếu chỉ để gột sạch lớp bùn độc đang bám chặt trên đôi ủng của tôi.
+Theo một cuốn sách cổ tôi từng tình cờ đọc được, Hoa Long Huyết sẽ hồi phục chỉ sau một ngày dẫu có bị giẫm nát dưới gót giày. Vả lại tôi cũng cần làm thế để gột sạch lớp bùn độc đang bám chặt trên đôi ủng của mình.
 
-Việc thu thập hoa khá dễ dàng, bởi người ta chỉ cần đào trọn cả cây, bao gồm cả rễ. Dù người ta có thể cắt và chỉ lấy phần thân, phương pháp như thế sẽ dẫn đến việc thất thoát một lượng dịch cây. Điều đó về cơ bản sẽ làm hỏng mục đích chuyến đi lần này của tôi.
+Hái loài hoa này khá đơn giản, chỉ việc bứng trọn cả gốc lẫn rễ. Dù có thể cắt lấy mỗi phần thân, nhưng làm vậy sẽ khiến hoa bị chảy mất một lượng dịch cây, coi như uổng phí cả công sức chuyến đi lần này của tôi.
 
-Xét tính chất phiền toái của toàn bộ chuyện này, người ta ắt sẽ tự hỏi liệu có khả thi chăng nếu đem chiết vài nhánh hoa này về trồng ở một nơi an toàn, rồi định kỳ bón cho chúng chất độc Tarasque đậm đặc. Điều đó đã từng được thử nghiệm trước đây, nhưng những bông hoa như vậy hầu như chẳng bao giờ chuyển sang màu đỏ, và chúng không thể dùng để điều chế Long Hoa Huyết.
+Thấy việc này nhiêu khê như vậy, hẳn sẽ có người thắc mắc sao không bứng vài khóm hoa này về trồng ở nơi an toàn, rồi định kỳ tưới chất độc Tarasque đậm đặc cho chúng. Thực tế từng có người thử làm vậy rồi, nhưng hoa trồng kiểu đó hầu như chẳng bao giờ chuyển sang màu đỏ, lại càng không thể dùng để điều chế Long Hoa Huyết.
 
-Thay vào đó, những bông hoa trắng tuyệt đẹp sẽ bung nở, dẫu chẳng mang bất kỳ đặc tính trị liệu hay dược tính nào. Được biết đến với cái tên Hoa Bạch Long, loài hoa này hoàn toàn chỉ dùng làm cảnh, và chúng chẳng có công dụng nào khác được biết tới... Nhưng tôi đồ rằng sự đời vốn dĩ là như thế.
+Thay vào đó, hoa lại bung nở ra sắc trắng muốt tuyệt đẹp, dẫu chẳng mang chút dược tính hay công năng trị liệu nào. Chúng được gọi là Hoa Bạch Long, hoàn toàn chỉ để làm cảnh chứ chẳng có công dụng nào khác... Nhưng âu đó cũng là lẽ tự nhiên.
 
-Quỳ một gối xuống, tôi đào một lượng đất kha khá lên, nhổ một cụm hoa trọn vẹn cả rễ. Bọc phần đất vừa đào trong một mảnh vải, tôi mở chiếc túi ma pháp ra một lần nữa, cẩn thận đặt những bông hoa vào sâu bên trong nó.
+Tôi quỳ một gối, xới một bầu đất kha khá lên rồi bứng cả cụm hoa còn nguyên vẹn rễ. Bọc phần đất quanh rễ vào một mảnh vải, tôi mở chiếc túi ma thuật ra lần nữa rồi cẩn thận đặt hoa vào sâu bên trong.
 
-Tôi hoàn toàn có thể chỉ hái đúng một bông hoa, nhưng có đến hàng ngàn cây hoa đang nở rộ ở đây, và sự vắng bóng của vài cành thì khó lòng nhận ra được. Vạt đất này có lẽ sẽ lại mọc kín Hoa Long Huyết chỉ trong vòng chưa đầy một tuần nữa.
+Tôi chỉ hái đúng một bông thôi cũng được, nhưng ở đây có tới hàng nghìn cây đang khoe sắc, bứng đi vài cành cũng chẳng thấm tháp vào đâu. Vạt đất này khéo chỉ chưa đầy một tuần nữa là lại mọc kín Hoa Long Huyết cho mà xem.
 
-Đã cất công tới tận đây, tôi vốn đã có sẵn kế hoạch cho những bông hoa hái thêm, một vài cành sẽ được chuyển tới tiệm hoa, và số còn lại sẽ vào tiệm thuốc.
+Đã cất công tới tận chốn này thì tôi cũng tính sẵn đường đi nước bước cho số hoa hái thêm rồi: vài cành sẽ đem bán cho tiệm hoa, số còn lại thì để cho tiệm thuốc.
 
-Khi còn sống, tôi từng nghĩ đến những lợi ích của việc sở hữu một loại dược phẩm như thế này, và những mạo hiểm giả đồng nghiệp của tôi cũng chung một nỗi niềm ấy. Dĩ nhiên là tôi sẽ bán chúng với một mức giá cao thích đáng. Các cặp đôi trẻ mong muốn cầu hôn nhau theo những cách đặc biệt lãng mạn có thể ghé qua tiệm hoa, trong khi những ai cần dược liệu đặc biệt có thể mua từ tiệm thuốc của Maalt.
+Thời còn sống, tôi từng nghĩ đến những mối lợi khi có được thứ dược liệu này, và đám mạo hiểm giả chúng tôi ai cũng chung suy nghĩ ấy. Dĩ nhiên tôi sẽ bán với mức giá cao tương xứng. Các cặp đôi trẻ muốn cầu hôn nhau theo cách thật lãng mạn có thể ghé qua tiệm hoa, còn những ai cần thuốc đặc trị thì cứ việc tìm đến tiệm thuốc ở Maalt.
 
-Dẫu vậy, tôi không quá tham lam, chỉ chú ý thu hoạch chừng mười cành. Chừng đó đã là quá đủ rồi, và một lần nữa tôi không khỏi cảm thấy biết ơn chiếc túi ma pháp dung lượng lớn này.
+Dẫu vậy, tôi cũng không quá tham lam mà chỉ hái chừng mười cành. Bấy nhiêu đó đã là quá đủ, và một lần nữa tôi lại thầm cảm ơn chiếc túi ma thuật dung tích lớn này.
 
-Nghĩ lại thì, đây là lần đầu tiên tôi có thể tự tay thu thập Hoa Long Huyết bằng chính đôi bàn tay mình. Xét việc khi còn sống tôi căn bản chẳng đời nào có thể hái được những bông hoa này, tôi cảm thấy có đôi chút vui mừng trước thành quả đạt được.
+Nghĩ lại thì, đây là lần đầu tiên tôi tự tay thu hái được Hoa Long Huyết. Thời còn sống, có nằm mơ tôi cũng chẳng dám nghĩ mình lấy nổi loài hoa này, nên trong lòng không khỏi dấy lên chút niềm vui nho nhỏ.
 
-“...Ai da.”
+"...Ui da."
 
-Tôi cảm thấy một cơn đau nhói như kim chích chạy dọc ngón tay trong lúc đào bới đất cát, nhưng nếu trí nhớ của tôi chuẩn xác thì Hoa Long Huyết đâu hề có gai.
+Một cơn đau buốt như kim châm chạy dọc ngón tay lúc tôi đang bới đất, nhưng nếu nhớ không lầm thì Hoa Long Huyết làm gì có gai.
 
-Tò mò, tôi quan sát kỹ một đóa hoa gần đó, để rồi nhận thấy một cảm giác tê dại chạy dọc ngón tay khi chạm vào cánh hoa. Tôi phỏng đoán đây là một loại cơ chế tự vệ nào đó. Cũng là lẽ tự nhiên thôi, xét cách mà loài hoa này sinh tồn trong một môi trường như thế này.
+Thấy lạ, tôi ghé sát quan sát một bông hoa gần đó, để rồi nhận thấy ngón tay tê dại đi ngay khi vừa chạm vào cánh hoa. Tôi đoán đây là một dạng cơ chế tự vệ. Cũng là lẽ đương nhiên thôi, muốn sinh tồn giữa một môi trường thế này thì nó ắt phải có cách bảo vệ mình.
 
-Thu hoạch xong xuôi, tôi đứng dậy, phủi sạch bụi đất trên người. Giờ tất cả những gì còn lại là quay về điểm đón, trở lại Maalt, và trao một đóa hoa cho Alize. Người bạn dược sư của cô bé sẽ ghé qua, và khi đó nhiệm vụ của tôi coi như hoàn thành.
+Hái hoa xong xuôi, tôi đứng dậy phủi sạch bụi đất trên người. Giờ việc còn lại chỉ là quay về điểm đón xe, trở lại Maalt rồi trao hoa cho Alize. Người bạn dược sư của cô bé sẽ ghé qua, thế là ủy thác của tôi coi như hoàn thành.
 
-Tôi bắt đầu quay bước về phía lối vào của con đường mòn, để rồi đập vào mắt tôi là một bóng hình đằng xa.
+Tôi bắt đầu cất bước quay lại lối vào đường mòn, chợt thấy thấp thoáng một bóng dáng từ đằng xa.
 
-Kẻ địch ư...? Không, không hẳn. Trông chẳng giống một con Goblin, mà ở Đầm Lầy Tarasque thì lại chẳng có quái vật dạng người nào khác.
+Kẻ địch ư...? Không, chắc không phải. Trông không giống Goblin, mà ở Đầm Lầy Tarasque này làm gì có quái vật dạng người nào khác nữa.
 
-Tôi đồ rằng đó là một mạo hiểm giả nào đó.
+Chắc là mạo hiểm giả nào đó chăng.
 
-Dẫu vậy, tôi vẫn phải hết sức cảnh giác. Dưới những hoàn cảnh nhất định, các mạo hiểm giả hoàn toàn có thể rút kiếm chĩa vào nhau. Trong khi thẻ mạo hiểm giả có thể dễ dàng được tìm thấy bên trong phạm vi Mê Cung, giao chiến ở một nơi như Đầm Lầy Tarasque rất có thể sẽ khiến bằng chứng về cái chết của một người chìm nghỉm xuống đáy sâu độc hại.
+Dẫu vậy, tôi vẫn phải hết sức cảnh giác. Trong một số trường hợp, mạo hiểm giả hoàn toàn có thể rút kiếm chém giết lẫn nhau. Nếu ở trong Mê Cung thì người ta còn dễ tìm lại thẻ mạo hiểm giả, chứ đụng độ ở một nơi như Đầm Lầy Tarasque thì mọi bằng chứng về cái chết của ai đó rất có thể sẽ chìm nghỉm xuống đáy nước độc mà chẳng một ai hay biết.
 
-Quá đủ lý do để phải thận trọng, vì thế tôi rút thanh kiếm của mình ra một lần nữa, giữ vững thế thủ trong lúc chờ đợi, cho tới khi tôi có thể nhìn rõ tròng mắt của đối phương...
+Quá đủ lý do để tôi phải đề cao cảnh giác. Tôi lại rút kiếm ra, giữ vững thế thủ chờ đợi cho tới khi có thể nhìn rõ cả tròng mắt của đối phương...
 
 Còn tiếp...
 
