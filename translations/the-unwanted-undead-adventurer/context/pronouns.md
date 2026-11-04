@@ -43,6 +43,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Wolf Hermann | Wolf / Hội Trưởng Wolf / ông / người đàn ông | 125 | Hội Trưởng Hội Mạo Hiểm Giả Maalt |
 | Alhildis | Alhildis / cô bé Elf / đứa trẻ | 131 | Nữ mạo hiểm giả Kim Cấp tộc Elf (tránh gọi là "cô" trong lời dẫn chuyện để không nhầm với Lorraine) |
 | Hilde | Hilde / cô bé Elf / đứa trẻ | 132 | Tên gọi thân mật của Alhildis (tránh gọi là "cô" trong lời dẫn chuyện để không nhầm với Lorraine) |
+| Hilde | Hilde / cô gái / người phụ nữ | 267 | Thân chủ nữ trẻ tuổi tại Maalt trong ngoại truyện (#267) |
 | Ingo Faina | Ingo / cha / ông ấy / Trưởng Làng Ingo | 134 | Cha nuôi của Rentt, trưởng làng Hathara |
 | Gilda Faina | Gilda / mẹ / bà ấy | 134 | Mẹ nuôi của Rentt, vợ trưởng làng Ingo |
 | Jal | Jal / cậu thanh niên / gã | 134 | Thanh niên gầy gò làng Hathara canh cổng |
@@ -523,4 +524,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elza | Pochi | tôi | Pochi | 266 | Nữ Tu Viện Trưởng nói chuyện với thần thú |
 | Rentt Faina | Pochi | tôi | Pochi / mày | 266 | Mạo hiểm giả tiếp xúc với thần thú |
 | Mel | * | tôi | các con / các em | 266 | Người phụ nữ nói chuyện với lũ trẻ ở cô nhi viện |
+| Hilde | Rentt Faina | tôi | anh / Rentt | 267 | Thân chủ nữ trẻ tuổi nói chuyện với mạo hiểm giả đánh xe |
+| Hilde | Lorraine Vivie | tôi | cô / Lorraine | 267 | Thân chủ nữ trẻ tuổi nói chuyện với nữ học giả |
+| Hilde | * | tôi | các bạn / hai người | 267 | Thân chủ nữ nói chuyện với nhóm mạo hiểm giả |
+| Rentt Faina | Hilde | tôi | cô / Hilde | 267 | Mạo hiểm giả nói chuyện với thân chủ nữ |
+| Lorraine Vivie | Hilde | tôi | cô / Hilde | 267 | Mạo hiểm giả nói chuyện với thân chủ nữ |
 

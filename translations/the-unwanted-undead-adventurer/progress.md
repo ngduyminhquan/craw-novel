@@ -271,7 +271,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | reviewed |  |
 | 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | done |  |
 | 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | done |  |
-| 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | todo |  |
+| 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | done |  |
 | 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | todo |  |
 | 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | todo |  |
 | 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -923,3 +924,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#265] Quái vật 'gigantes rana' — tạm giữ nguyên tên riêng 'gigantes rana' theo raw kèm giải thích 'về cơ bản là một con ếch khổng lồ' (phương án khác: dịch hẳn thành Cóc/Ếch Khổng Lồ). → Chốt giữ nguyên 'gigantes rana' (tương tự Aqua Hathur, Golem Luteum) để tránh lặp chữ với câu giải thích 'về cơ bản là một con ếch khổng lồ' ngay phía sau. (orchestrator)
 - [#266] Dịch 'divine, or sacred, beast' chỉ Pochi — tạm chọn 'thần thú, hay thánh thú' (trong glossary chốt 'divine beast → thần thú') (phương án khác: 'thần thú hoặc linh thú', 'thánh thú'). → Chốt 'thần thú, hay thánh thú' (và 'divine beast → thần thú' trong glossary.md). (orchestrator)
 - [#266] Xưng hô của Mel đối với Pochi khi kích động tra khảo — tạm chọn 'tao - mày' cho tự nhiên với quan hệ chủ nuôi thú cưng từ nhỏ (phương án khác: giữ 'tôi - Pochi'). → Chốt Mel xưng 'tôi / tao', gọi 'Pochi / mày' tùy ngữ cảnh bình thường hay lúc kích động tra khảo chú chó nuôi từ nhỏ. (orchestrator)
+- [#267] Nhân vật Hilde ở ngoại truyện #267 (phụ nữ trẻ thuê xe tới Mũi Rook ngắm Rồng Băng, có truyền thống gia đình từ đời cụ cố/bà) có phải là Alhildis (cô bé Elf Kim Cấp ở #131-#132 dùng biệt danh Hilde) hay là một nhân vật người thường trùng tên — tạm thời trong #267 coi như nhân vật thân chủ riêng với cách xưng hô đời thường (Hilde xưng "tôi", gọi "anh / Rentt", "cô / Lorraine", "hai người"), ghi chú rõ trong characters.md và pronouns.md để tránh trùng EN (phương án khác: nếu xác nhận là cùng một người hoặc Alhildis cải trang thì hợp nhất ghi chú). → Chốt giữ phân biệt theo chương trong characters.md và pronouns.md: ở #267 Hilde là vị thân chủ nữ trẻ tuổi người thường (xưng 'tôi', gọi 'anh / Rentt', 'cô / Lorraine', 'hai người'). (orchestrator)

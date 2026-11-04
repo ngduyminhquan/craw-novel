@@ -471,3 +471,6 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | divine treasure | divine treasures | Thần Khí | vật phẩm | 262 | Trang bị/bảo vật cấp thần thánh được tạo ra bởi thần linh hoặc các chủng tộc như High Elf, Người Lùn |
 | Angel |  | Thiên Sứ | khác | 265 | Đấng thiên sứ được tôn thờ trong Giáo Hội Đông Thiên (cách gọi tắt của Angel of the East) |
 | gigantes rana |  | gigantes rana | quái vật | 265 | Loài quái vật ếch khổng lồ với chiếc lưỡi cực dính (ギガンテス・ラナ) |
+| Rook Cape |  | Mũi Rook | địa danh | 267 | Mũi đất nhô cao nhìn ra Hồ Quia, nơi người ta thường đến tự sát |
+| Lake Quia |  | Hồ Quia | địa danh | 267 | Hồ nước lớn dưới Mũi Rook, nơi đôi Rồng Băng sinh sống và kết đôi |
+| Ice Dragon | ice dragon; ice dragons; Ice dragon; Ice dragons | Rồng Băng | quái vật | 267 | Phân loài rồng thuộc tính băng tuyết sinh sống dưới đáy Hồ Quia (氷竜) |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T07:47:32Z",
+  "generatedAt": "2026-11-04T07:54:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3749,6 +3749,12 @@
           "title": "Chương 266: Tập 11 Chương 4 - Thánh Giả và Cô Nhi Viện (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_266.md",
           "sha": "0bfae716c57d5301214b31e35a8fa09116100500"
+        },
+        {
+          "number": 267,
+          "title": "Chương 267: Ngoại truyện Tập 11 - Người Phụ Nữ Đáng Lo Ngại",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_267.md",
+          "sha": "6ab0ed9c169405e7d96032f0655081326433a61f"
         }
       ]
     },

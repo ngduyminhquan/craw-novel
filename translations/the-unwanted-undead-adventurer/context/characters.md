@@ -53,7 +53,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Saint Myullias |  | Thánh Nữ Myullias | Cách gọi kèm danh hiệu của Myullias Raiza | #117 |
 | Wolf Hermann | Wolf; Guildmaster Wolf; Hermann | Wolf Hermann | Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả | #125 |
 | Alhildis |  | Alhildis | Nữ mạo hiểm giả Kim Cấp chủng tộc Elf, bậc thầy Thần Thuật mang ngoại hình bé gái nhưng tính cách bà lão | #131 |
-| Hilde | Hildi | Hilde | Tên gọi tắt / thân mật của Alhildis, mạo hiểm giả Kim Cấp tộc Elf | #132 |
+| Hilde | Hildi | Hilde | Tên gọi tắt / thân mật của Alhildis (#132); đồng thời là tên thân chủ nữ trẻ tuổi thuê hộ tống tới Mũi Rook trong ngoại truyện (#267) | #132 |
 | Ingo Faina | Ingo | Ingo Faina | Trưởng làng Hathara, cha nuôi của Rentt Faina | #134 |
 | Gilda Faina | Gilda | Gilda Faina | Vợ trưởng làng Ingo Faina, mẹ nuôi của Rentt Faina | #134 |
 | Jal |  | Jal | Thanh niên gầy gò làng Hathara canh gác cổng làng | #134 |

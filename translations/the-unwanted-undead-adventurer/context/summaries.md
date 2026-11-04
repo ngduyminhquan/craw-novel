@@ -1580,6 +1580,13 @@ Elza giao cho Rentt phong thư hồi âm có niêm phong Thần Lực để mang
 Mel ngỡ ngàng khi nhận ra bấy lâu nay Elza không hề nói đùa về việc Pochi biết nói (nhất là khi Pochi bóc mẽ chuyện cô lén ăn đồ ngọt) và giận dỗi vì bản thân chăm sóc Pochi lâu nhất nhưng lại là người duy nhất không nghe thấy; trước tình thế đó, Elza đồng ý để Pochi truyền luồng Thần Lực sang giúp Mel nghe được tiếng nó.
 Cảnh kết thúc: Elza tiết lộ Pochi thực chất là thần thú (thánh thú) mang đặc tính tương đồng thần tinh linh, chỉ những ai từng nhận được sự ban phước của Thần Lực mới nghe thấy nó nói, và quay sang hỏi thẳng Rentt về Thần Lực của anh.
 
+## 267
+Hồi tưởng quá khứ thời Rentt còn là mạo hiểm giả con người tại Maalt: Lorraine nhận ủy thác hộ tống một phụ nữ trẻ tên là Hilde tới Mũi Rook – mỏm đá hẻo lánh nhô cao nhìn ra Hồ Quia vốn nổi tiếng là điểm tự sát; Rentt trám vào vị trí người đánh xe kéo và cùng Lorraine lo lắng tìm cách ngăn thân chủ quyên sinh.
+Khi đến nơi, hiểu lầm được hóa giải khi Hilde bật cười và giải thích gia đình cô từ đời cụ cố đã có truyền thống hàng năm tới đây ngắm Rồng; cả ba ẩn mình trong đêm trăng chứng kiến một con Rồng Băng trỗi dậy từ đáy hồ cất tiếng hát dẫn lối cho con Rồng Băng có cánh sà xuống kết đôi và lặn sâu xuống nước.
+Ủy thác hoàn thành tốt đẹp; khi trở về nhà, Lorraine hào hứng vì hiểu thêm tập tính sinh thái quái vật, còn Rentt chợt rùng mình liên tưởng sự thật đáng sợ về mối liên hệ giữa các thi thể tự sát và loài Rồng dưới đáy hồ.
+Cảnh kết thúc: Rentt và Lorraine quyết định không suy nghĩ sâu thêm về bí ẩn rùng rợn ấy và gác lại chuyện này.
+
+
 
 
 
