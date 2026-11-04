@@ -1,201 +1,201 @@
 # Chương 26: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (6)
 
-Sau khi giải quyết xong việc đăng ký mạo hiểm giả, tôi không hề có ý định lập tức hướng về Mê Cung Tân Nguyệt. Dĩ nhiên là vẫn còn chuyện tôi đã trót nhận ủy thác thu thập nguyên liệu Orc, nhưng tôi vẫn còn khối thời gian để hoàn thành nó sau này.
+Làm xong thủ tục đăng ký mạo hiểm giả, tôi không định chạy ngay sang Mê Cung Tân Nguyệt. Dĩ nhiên tôi vừa nhận ủy thác thu thập nguyên liệu Orc thật, nhưng hạn chót còn dài, để sau này thong thả làm cũng chưa muộn.
 
-Trước hết tôi phải tới một nơi khác đã—chính xác hơn là khu vực chưa khai phá của Mê Cung Nguyệt Ảnh. Nói đơn giản thì tôi đang hướng tới nơi mình từng giao chiến với Khô Lâu Khổng Lồ.
+Trước hết tôi phải tới một nơi khác đã, chính xác hơn là khu vực chưa khai phá của Mê Cung Nguyệt Ảnh. Nói đơn giản thì tôi đang quay lại đúng nơi mình từng đụng độ Khô Lâu Khổng Lồ lần trước.
 
-Mê Cung Nguyệt Ảnh vẫn khá tĩnh lặng như thường lệ. Dù thỉnh thoảng có lướt qua vài mạo hiểm giả Thiết Cấp, nhưng họ dường như chẳng hề nhận ra tôi khi tôi bước ngang qua, bởi ai nấy đều đang mải mê chiến đấu với con quái vật nào đó.
+Mê Cung Nguyệt Ảnh vẫn tĩnh lặng như mọi khi. Dù thỉnh thoảng có lướt qua vài mạo hiểm giả Thiết Cấp, nhưng họ dường như chẳng mảy may để ý đến tôi khi tôi đi ngang qua, bởi ai nấy đều đang mải mê vật lộn với quái vật của riêng mình.
 
-Ngoài việc chủ động tránh xa họ một quãng, tôi còn cố hết sức kìm nén ma khí cùng hiện diện khí lực của mình, lẳng lặng rảo bước qua những hành lang mê cung. Trước đây, tất cả những gì tôi cần làm để lén lút đi ngang qua con người lẫn quái vật chỉ là di chuyển khẽ khàng hơn một chút; bởi khi ấy năng lực của tôi yếu ớt đến mức đằng nào cũng chẳng ai thèm để ý.
+Bên cạnh việc chủ động né họ từ xa, tôi còn cố hết sức kìm nén Ma Lực cùng Khí Lực quanh mình, lặng lẽ rón rén bước qua những dãy hành lang mê cung. Trước đây, muốn lén lướt qua cả người lẫn quái vật, tôi chỉ cần bước khẽ hơn một chút là xong; bởi khi ấy thực lực của tôi yếu đến mức đằng nào cũng chẳng ai hay biết.
 
-Tôi chẳng rõ mình có nên vui mừng hay không khi giờ đây phải làm một việc như thế này để tiến bước mà không bị phát hiện, bởi nó có hơi phiền toái; dẫu vậy, tôi cho rằng những vấn đề kiểu này vốn là nỗi bận tâm mà chỉ kẻ mạnh mới gặp phải. Tôi quyết định tạm gác lại những suy nghĩ đó, vì dẫu sao chúng cũng chẳng phải chuyện gì to tát. Trái lại, tôi coi đây như một dịp luyện tập; việc tùy ý che giấu Ma Lực và Khí Lực chắc chắn sẽ giúp tôi kiểm soát các năng lực nói trên thuần thục hơn theo thời gian.
+Giờ đây muốn đi lại mà không bị phát hiện lại phải tốn công thế này, tôi cũng chẳng biết mình có nên mừng hay không, vì nó khá phiền toái; dẫu vậy, có lẽ nỗi lo kiểu này chỉ những kẻ mạnh mới có. Tôi quyết định tạm gác mấy suy nghĩ đó sang một bên, đằng nào chúng cũng chẳng phải chuyện gì to tát. Đúng hơn thì tôi coi đây là một dịp luyện tập; việc tùy ý che giấu Ma Lực và Khí Lực hẳn sẽ giúp tôi kiểm soát hai nguồn năng lượng này thuần thục hơn theo thời gian.
 
-Khi tới một lối vào quen thuộc, tôi bước vào lối đi bí mật, cuối cùng đi tới và tự tin đặt chân lên ma pháp trận trên mặt đất.
+Tới một cửa ngách quen thuộc, tôi rẽ vào lối đi bí mật, chẳng mấy chốc đã đến nơi và tự tin bước thẳng vào ma pháp trận trên sàn đá.
 
-Nhờ đã sử dụng một lần, ma pháp trận không còn đem lại cảm giác đáng sợ hay nguy hiểm đến thế nữa. Dù từng nghe những câu chuyện về các ma pháp trận dịch chuyển người dùng tới những địa điểm khác nhau sau mỗi lần bước vào, tôi vẫn khó lòng tin nổi một cơ chế đầy ác ý như vậy lại tồn tại ở mê cung này. Có lẽ việc bắt gặp những ma pháp trận kiểu đó là điều đương nhiên ở các mê cung có độ khó cao hơn, nhưng Mê Cung Nguyệt Ảnh dường như không phải nơi như thế.
+Đã dùng qua một lần, ma pháp trận không còn vẻ đáng sợ hay nguy hiểm như trước. Dù từng nghe kể về loại ma pháp trận mỗi lần lại dịch chuyển người ta đến một nơi khác nhau, tôi vẫn khó tin một cơ chế hiểm hóc đến vậy lại xuất hiện ở mê cung này. Ở các mê cung có độ khó cao thì gặp chúng là chuyện bình thường, chứ Mê Cung Nguyệt Ảnh xem chừng không đến mức hiểm nghèo như vậy.
 
-Dù nói vậy, tôi cũng chẳng có cách nào khác để kiểm chứng mối nghi ngờ của mình. Rất may là ma pháp trận tỏ ra vô hại, nó đưa tôi tới đúng căn phòng nơi tôi từng chạm trán Khô Lâu Khổng Lồ lần đầu. Thủ sẵn thanh kiếm trên tay, tôi chầm chậm bước ra khỏi vòng tròn—
+Nói là thế, nhưng tôi cũng chẳng có cách nào khác để kiểm chứng mối ngờ của mình. May sao ma pháp trận này hoàn toàn lành tính, nó đưa tôi đến đúng căn phòng nơi tôi từng chạm trán Khô Lâu Khổng Lồ lần đầu. Thủ sẵn kiếm trên tay, tôi chầm chậm bước ra khỏi vòng tròn ma pháp...
 
-Dù từng hạ gục nó trước đó, nhưng Khô Lâu Khổng Lồ hoàn toàn có thể đã tái xuất hiện trong lúc tôi vắng mặt. Xét trên mọi phương diện thì đây là một phòng thủ lĩnh, vậy nên bộ Khô Lâu đó có thể sẽ liên tục hồi sinh theo chu kỳ, hoặc cũng có thể nó chỉ xuất hiện đúng một lần duy nhất. Vì không biết căn phòng này thuộc dạng nào trong hai trường hợp, tôi cẩn trọng tiến bước, chuẩn bị tinh thần sẵn sàng giao chiến. Đó là điều tối thiểu tôi có thể làm, bởi cẩn tắc vô ưu luôn là bài học đắt giá trong mê cung.
+Dù từng hạ gục nó lần trước, nhưng con Khô Lâu Khổng Lồ hoàn toàn có thể đã tái sinh trong lúc tôi vắng mặt. Dù sao thì đây cũng là phòng thủ lĩnh, nên con Khô Lâu ấy có thể sẽ liên tục hồi sinh theo chu kỳ, mà cũng có thể chỉ xuất hiện đúng một lần rồi thôi. Chưa rõ căn phòng này thuộc dạng nào, tôi cẩn trọng tiến bước, chuẩn bị sẵn tinh thần lao vào giao chiến. Đó là điều tối thiểu tôi có thể làm, bởi trong mê cung, cẩn thận chẳng bao giờ thừa.
 
-Thế nhưng, dẫu tôi có đứng chờ bao lâu sau khi rời khỏi vòng tròn, Khô Lâu Khổng Lồ vẫn chẳng hề xuất hiện trở lại—thậm chí tôi còn không cảm nhận được chút hiện diện nào của nó. Có lẽ nó cần thêm thời gian, hoặc là loài quái vật chỉ xuất hiện một lần duy nhất; dù thế nào đi nữa, tôi cũng hạ thanh kiếm xuống, cảm thấy nhẹ nhõm hơn đôi chút so với trước. Tuy vậy, tôi vẫn không hề có ý định tra kiếm vào bao.
+Thế nhưng sau khi bước ra khỏi vòng tròn, tôi đứng đợi mãi mà con Khô Lâu Khổng Lồ vẫn chẳng thấy tăm hơi, thậm chí tôi còn không cảm nhận được chút hơi hướng nào của nó. Có lẽ nó cần thêm thời gian, hoặc nó là loại quái chỉ xuất hiện đúng một lần; dù thế nào đi nữa, tôi cũng hạ kiếm xuống, nhẹ nhõm hơn đôi chút so với trước. Dẫu vậy, tôi vẫn chưa có ý định tra kiếm vào bao.
 
-Nhìn quanh quất, tôi lại thấy mình đang đứng giữa một căn phòng rộng lớn và trống trải. Hẳn sẽ có người thắc mắc tại sao tôi lại mò tới một nơi thế này sau khi đã nhận ủy thác cần phải thực hiện ở một mê cung khác—nhưng dĩ nhiên, tôi có lý do của riêng mình.
+Đảo mắt nhìn quanh, tôi lại thấy mình đứng giữa một căn phòng rộng lớn và trống trải. Hẳn sẽ có người thắc mắc tại sao tôi lại mò tới nơi này sau khi đã nhận ủy thác cần làm ở một mê cung khác, nhưng dĩ nhiên tôi có lý do của mình.
 
-Chính ma pháp trận mà tôi vừa bước ra chỉ xuất hiện sau khi tôi đánh bại Khô Lâu Khổng Lồ—trước đó nó hoàn toàn vô hình. Tôi đã phát hiện ra ma pháp trận mới hình thành này trong lúc lục soát căn phòng khi Loris, chủ Quán Phi Long Đỏ, còn đang bất tỉnh.
+Chính ma pháp trận tôi vừa bước ra chỉ xuất hiện sau khi tôi đánh bại Khô Lâu Khổng Lồ, trước đó nó hoàn toàn vô hình. Tôi đã phát hiện ra ma pháp trận mới hình thành này trong lúc lục soát căn phòng vào thời điểm Loris, chủ Quán Phi Long Đỏ, vẫn còn đang bất tỉnh.
 
-Thế nhưng đó chưa phải là tất cả những gì tôi tìm thấy. Trên thực tế còn có thêm một ma pháp trận nữa nằm trên mặt đất cách ma pháp trận tôi vừa bước vào để tới phòng Khô Lâu Khổng Lồ không xa. Nếu phải đoán, có lẽ vòng tròn đó kết nối với một địa điểm khác. Mê Cung Nguyệt Ảnh dường như vẫn còn tiếp diễn ở phía bên kia ma pháp trận này.
+Thế nhưng đó chưa phải là tất cả những gì tôi tìm thấy. Thật ra trên sàn đá còn có thêm một ma pháp trận nữa, nằm cách vòng tròn đưa tôi tới phòng Khô Lâu Khổng Lồ chẳng bao xa. Nếu phải đoán, có lẽ vòng tròn đó dẫn tới một địa điểm khác. Dường như Mê Cung Nguyệt Ảnh vẫn còn kéo dài qua bên kia ma pháp trận này.
 
-Tôi chầm chậm bước vào vòng tròn trên mặt đất. Dù không hiểu ngôn ngữ khắc trên đó, cũng chẳng rõ nguyên lý đằng sau thứ ma pháp kỳ dị cung cấp năng lượng cho nó, nhưng chí ít tôi có thể nhận ra vòng tròn này được vẽ hơi khác so với cái dẫn tới phòng thủ lĩnh. Chắc chắn nó sẽ đưa tôi tới một địa điểm khác.
+Tôi chầm chậm bước vào vòng tròn trên sàn đá. Dù không hiểu thứ ngôn ngữ khắc trên đó, cũng chẳng rõ nguyên lý đằng sau luồng ma pháp kỳ lạ vận hành nó, nhưng chí ít tôi nhận thấy vòng tròn này được vẽ hơi khác so với cái dẫn tới phòng thủ lĩnh. Chắc chắn nó sẽ đưa tôi tới một nơi khác.
 
-Có lẽ tất cả chuyện này chỉ là một kiểu cạm bẫy nào đó—hai vòng tròn trong cùng một căn phòng, và những kẻ xâm nhập kém may mắn hơn sẽ bị tống vào căn phòng kín cùng một con Khô Lâu Khổng Lồ. Tôi đoán những chuyện như thế thỉnh thoảng vẫn xảy ra.
+Có lẽ tất cả chuyện này chỉ là một kiểu cạm bẫy: hai vòng tròn trong cùng một căn phòng, để rồi kẻ đột nhập nào xui xẻo hơn sẽ rơi thẳng vào căn phòng kín có Khô Lâu Khổng Lồ chực sẵn. Tôi đoán trong mê cung thỉnh thoảng vẫn có mấy trò oái oăm như vậy.
 
-Vậy thì... lần này sẽ là thứ gì đây? Rắn? Ác Ma? Hay có khi lại là Rồng?
+Vậy thì... lần này sẽ là thứ gì đây? Rắn rết? Ác Ma? Hay khéo lại là Rồng chăng?
 
-Dĩ nhiên, chẳng có cách nào khác để biết ngoài việc tự mình dấn thân. Khi ma pháp trận bắt đầu tỏa ra ánh sáng rực rỡ, tôi lại thủ thế thanh kiếm lần nữa, chờ đợi khung cảnh xung quanh dần đổi thay.
+Dĩ nhiên, chẳng có cách nào khác ngoài việc tự mình dấn thân tìm hiểu. Khi ma pháp trận bắt đầu tỏa ra ánh sáng rực rỡ, tôi lại nâng kiếm thủ thế, chờ đợi xem cảnh tượng xung quanh sẽ biến đổi ra sao.
 
 ◆◇◆◇◆
 
-Khi ánh sáng dần tan biến, tôi nhanh chóng đảo mắt quan sát xung quanh, sẵn sàng đối phó với đòn tấn công từ bất kỳ hướng nào. Tôi không thể loại trừ khả năng vòng tròn này cũng là một kiểu cạm bẫy với quái vật hay thứ gì đó tương tự đang chực chờ phục kích. Thế nhưng...
+Khi ánh sáng dần nhạt đi, tôi nhanh chóng đảo mắt quan sát xung quanh, sẵn sàng đỡ đòn từ bất cứ hướng nào. Không loại trừ khả năng ma pháp trận này cũng là một cái bẫy, với quái vật hay mối nguy tương tự đang chực chờ phục kích. Thế nhưng...
 
-Trong tầm mắt tôi, ở đây chẳng có con quái vật nào, nói chi đến bất kỳ loại cạm bẫy nào. Thay vào đó, tôi thấy mình đang ở trong một căn phòng bừa bộn và ngổn ngang. Đủ loại đồ đạc nằm rải rác khắp nơi, một vài thứ đang mục rữa trên nền đất. Mọi dấu vết đều chỉ ra rằng nơi này từng có người sinh sống vào một thời điểm nào đó trong quá khứ—nói đúng hơn thì nó trông chẳng giống một phần của mê cung chút nào.
+Trong tầm mắt tôi, nơi này chẳng có con quái vật nào, nói chi tới cạm bẫy. Thay vào đó, tôi thấy mình đang đứng giữa một căn phòng bừa bộn, ngổn ngang. Đủ thứ đồ đạc vương vãi khắp nơi, có món đã mục nát trên sàn đá. Mọi dấu vết đều cho thấy nơi đây từng có người sinh sống; nói đúng hơn, trông nó chẳng giống một góc nào trong mê cung cả.
 
-Vài chiếc kệ xếp dọc theo bức tường—thậm chí còn có cả một chiếc bàn và một chiếc giường. Thứ có vẻ như một món thú nhồi bông mềm mại đang nằm trên mặt đất gần chỗ tôi đứng. Thế nhưng khi tôi đưa tay chạm vào, món đồ chơi lập tức vỡ vụn thành tro bụi, chẳng để lại chút dấu vết nào về hình dạng ban đầu. Tôi chỉ có thể phỏng đoán rằng nơi này đã không có ai đụng tới suốt nhiều năm, thậm chí có khi đã hàng thế kỷ.
+Dọc theo vách tường kê vài chiếc kệ, trong phòng còn có cả một chiếc bàn và giường nằm. Gần chỗ tôi đứng có thứ trông như một con thú nhồi bông. Thế nhưng vừa đưa tay chạm vào, món đồ chơi lập tức vỡ vụn thành tro bụi, chẳng còn sót lại chút hình thù ban đầu. Xem chừng nơi này đã vắng bóng người suốt nhiều năm trời, thậm chí có khi đã hàng thế kỷ.
 
-Tuy nhiên, điều thu hút sự chú ý của tôi lại là chiếc giường ở cuối phòng—hay nói chính xác hơn là thứ đang nằm ngủ trên chiếc giường đó. Ai đó đã ngủ đêm cuối cùng của đời mình tại nơi đây từ nhiều năm, rất nhiều năm về trước, và cho đến tận bây giờ vẫn đang tiếp tục giấc ngủ vĩnh hằng.
+Có điều, thứ thu hút sự chú ý của tôi lại là chiếc giường ở góc phòng, hay nói chính xác hơn là thứ đang nằm trên đó. Ai đó đã trút hơi thở cuối cùng tại nơi này từ rất nhiều năm về trước, và đến tận bây giờ vẫn đang chìm trong giấc ngủ ngàn thu.
 
-Một bộ xương trắng nằm ngay ngắn, có phần thanh thản trên giường. Chẳng có chút ánh sáng nào trong hai hốc mắt sâu hoắm của hộp sọ; phần còn lại của đôi mắt nhìn thẳng lên trần nhà, và đôi bàn tay xương xẩu đan vào nhau trước ngực. Thoạt nhìn, người này dường như đã ra đi thanh thản trong giấc ngủ.
+Trên giường là một bộ xương trắng nằm ngay ngắn, có phần thanh thản. Hai hốc mắt sâu hoắm trên hộp sọ tối om không một tia sáng, chỉ hướng thẳng lên trần nhà, đôi bàn tay trơ xương đan lại trước ngực. Thoạt nhìn, người này có vẻ đã qua đời rất yên bình trong giấc ngủ.
 
-Một bó hoa khô được đặt cạnh gối của người ấy. Tôi đưa tay định chạm vào, nhưng đón chờ tôi lại là cảnh tượng bó hoa đó tan thành tro bụi ngay trước mắt.
+Bên cạnh gối đặt một bó hoa khô. Tôi đưa tay định chạm vào, nhưng vừa chạm phải, bó hoa đã tan biến thành tro bụi ngay trước mắt.
 
 Nơi này... rốt cuộc là đâu?
 
-Từng có người sống ở đây—chừng đó thì tôi có thể nhận ra—nhưng tôi chưa từng nghe nói có con người nào lại sống sâu trong lòng bất kỳ loại mê cung nào như thế này.
+Từng có người sống ở đây, chừng đó thì tôi nhận ra được, nhưng tôi chưa từng nghe nói có ai lại sinh sống sâu trong lòng mê cung như thế này bao giờ.
 
-Trước hết thì, chuyện như thế liệu có khả thi không cơ chứ...?
+Nói cho cùng, chuyện như thế mà cũng làm được ư...?
 
-Tôi hoàn toàn chịu chết. Thế nhưng, chính sự tồn tại của căn phòng này đã chứng minh một điều: nếu căn phòng này tồn tại, chủ nhân của nó hẳn cũng từng tồn tại và sinh sống ở đây vào một thời điểm nào đó.
+Tôi cũng chịu. Dẫu vậy, sự hiện diện của căn phòng này đã chứng minh một điều: căn phòng đã có ở đây, thì ắt hẳn từng có một chủ nhân sinh sống tại chốn này vào một thời điểm nào đó trong quá khứ.
 
-Dẫu vậy... tôi vẫn chưa thấy bất cứ thứ gì giống như kho báu quanh mình. Nơi này rốt cuộc ẩn chứa ý nghĩa sâu xa gì chứ?
+Nhưng mà... quanh đây tôi vẫn chẳng thấy thứ gì giống như kho báu. Rốt cuộc nơi này ẩn chứa ý nghĩa sâu xa gì chăng?
 
-Nghĩ vậy, tôi bắt đầu lục soát căn phòng, xem xét qua đống tàn tích và phế tích như bất kỳ mạo hiểm giả thạo nghề nào. Nhưng chẳng có gì đáng chú ý được tìm thấy cả. Uổng công tôi đã cất công tới tận đây... Cơ mà dường như có vài cuốn sách cũ trên những chiếc kệ kia thì phải?
+Nghĩ vậy, tôi bắt đầu lục soát căn phòng, bới tìm trong đống đồ đạc đổ nát như bất kỳ mạo hiểm giả thạo nghề nào. Nhưng tôi chẳng tìm thấy thứ gì đáng giá. Bao nhiêu công sức lặn lội tới tận đây thế mà... Cơ mà trên mấy chiếc kệ kia hình như có vài cuốn sách cũ thì phải?
 
-Liếc nhìn những chiếc kệ, nhiều cuốn sách trong số đó có vẻ là sách tra cứu chuyên khảo mà có lẽ chẳng ai giải mã nổi ngoại trừ những chuyên gia uyên bác nhất. Kỳ lạ thay, nằm lẫn giữa những tập sách ấy lại là những cuốn trông như sách tranh mỏng. Lẽ nào từng có một đứa trẻ sống ở đây sao?
+Liếc nhìn những chiếc kệ, nhiều cuốn trong số đó có vẻ là sách tra cứu chuyên sâu mà chắc chỉ những chuyên gia lão luyện nhất mới đọc hiểu nổi. Kỳ lạ thay, nằm lẫn giữa những tập sách dày cộp ấy lại là vài cuốn trông như tập tranh mỏng. Lẽ nào từng có một đứa trẻ sống ở đây sao?
 
-Những cuốn này dĩ nhiên đều là sách rất cổ. Nếu tôi mang vài cuốn theo mình, tôi chắc chắn chúng sẽ đổi được một khoản tiền kha khá.
+Những cuốn này dĩ nhiên đều là sách rất cổ. Nếu mang vài cuốn theo, tôi chắc mẩm chúng sẽ bán được một món tiền kha khá.
 
-Gật đầu thầm nghĩ, tôi đưa tay với lấy những cuốn sách cổ—
+Gật đầu tâm đắc, tôi đưa tay với lấy mấy cuốn sách cổ...
 
-"...Ngươi kia. Rốt cuộc ngươi nghĩ mình đang làm gì vậy?" một giọng nói bỗng vang lên từ phía sau tôi.
+"...Kẻ đằng kia. Rốt cuộc ngươi nghĩ mình đang làm gì thế hả?" một giọng nói bỗng cất lên từ phía sau tôi.
 
-Đằng sau tôi sao...? Điều này thật bất thường; thậm chí là bất khả thi. Dù sao thì tôi vẫn luôn cảnh giác cao độ vì không biết điều gì đang ẩn giấu nơi sâu thẳm của căn phòng này.
+Sau lưng tôi ư...? Thật bất thường, thậm chí là điều không tưởng. Bởi từ nãy đến giờ tôi vẫn luôn đề cao cảnh giác, đâu dám lơ là khi chưa rõ nơi sâu thẳm của căn phòng này có thứ gì.
 
-Tôi chẳng còn lựa chọn nào khác ngoài việc quay người lại. Chủ nhân của giọng nói hoàn toàn có thể bất ngờ tấn công tôi—thế nhưng người đó lại cất tiếng gọi, như thể đã lường trước và đang chờ đợi tôi quay lại.
+Tôi chẳng còn lựa chọn nào khác ngoài quay đầu lại. Chủ nhân của giọng nói hoàn toàn có thể đánh lén tôi, nhưng đối phương lại cất tiếng gọi, như thể đã lường trước và đang đợi tôi quay lại.
 
-Chầm chậm, tôi quay người đối diện về hướng phát ra giọng nói. Đó là một người phụ nữ: thoạt nhìn, trông cô ấy không có gì quá đỗi đặc biệt. Mái tóc trắng mềm mại, đôi mắt xanh lam, cùng một nụ cười dịu dàng, êm dịu—đó là người phụ nữ đang đứng trước mặt tôi trong căn phòng nhỏ hẹp này. Cô ấy khoác một chiếc áo chùng đen; có lẽ là một ma pháp sư nào đó chăng.
+Tôi từ từ quay người nhìn về hướng phát ra tiếng nói. Đó là một người phụ nữ: thoạt nhìn, trông cô ta không có gì quá đỗi đặc biệt. Mái tóc trắng mềm mại, đôi mắt xanh biếc cùng nụ cười hiền hậu, ấm áp, đó là dáng vẻ của người phụ nữ đang đứng trước mặt tôi trong căn phòng nhỏ hẹp này. Cô ta khoác một chiếc áo chùng đen; có lẽ là một ma pháp sư chăng.
 
-Người phụ nữ cất lời với tôi lần nữa:
+Người phụ nữ lại cất tiếng:
 
 "Ta hỏi lại lần nữa: Rốt cuộc ngươi đang làm gì ở nơi này?"
 
-Đó là một giọng nói điềm tĩnh, dịu dàng và êm tai, gần như giọng của một người lớn đang chất vấn đứa trẻ phạm phải lỗi lầm nào đó.
+Đó là một giọng nói điềm tĩnh, dịu dàng và êm tai, chẳng khác nào giọng người lớn đang gặng hỏi một đứa trẻ trót phạm lỗi.
 
-Còn tôi, trái lại, nín bặt cả hơi thở. Trong một thoáng, tôi bị bủa vây bởi cảm giác căng thẳng và bất an tột độ...
+Còn tôi thì nín bặt cả hơi thở. Trong khoảnh khắc, cảm giác căng thẳng và ngột ngạt tột độ bóp nghẹt lấy tôi...
 
-Nếu phải diễn đạt một cách đơn giản thì: người phụ nữ này là điềm gở lớn.
+Nói đơn giản thì: người phụ nữ này vô cùng nguy hiểm.
 
-Tôi tin vào linh cảm mách bảo mà mình đã dựa dẫm suốt phần lớn cuộc đời, thế nên tôi có thể dễ dàng khẳng định chừng đó mà chẳng chút do dự. Thế nhưng người phụ nữ lại đang đứng chắn trước ma pháp trận, chặn đứng lối thoát duy nhất của tôi một cách hiệu quả.
+Bằng vào trực giác đã cứu mạng mình suốt bao năm qua, tôi có thể khẳng định chắc nịch điều đó chẳng chút đắn đo. Thế nhưng người phụ nữ lại đang đứng chắn trước ma pháp trận, coi như bịt kín đường thoát duy nhất của tôi.
 
-Tôi chẳng biết mình nên làm gì. Tôi đoán lựa chọn duy nhất của mình lúc này là trả lời câu hỏi của cô ấy; đó là kết luận tôi rút ra sau một hồi suy tính cuống cuồng.
+Tôi chẳng biết mình phải làm sao. Có lẽ lựa chọn duy nhất lúc này là trả lời câu hỏi của đối phương; đó là kết luận tôi rút ra sau một hồi vắt óc suy tính.
 
-Tôi đưa ra câu trả lời cho người phụ nữ:
+Tôi lí nhí đáp lời người phụ nữ:
 
-"...Tôi chỉ... nhìn quanh xem... có thứ gì giá trị không... Vì tôi là mạo hiểm giả mà..."
+"...Tôi chỉ... tìm quanh xem... có thứ gì... giá trị không... Tôi là... mạo hiểm giả mà..."
 
-"Haha. Giá trị, giá trị... Bất cứ thứ gì có giá trị... Ra vậy. Vậy ra ngươi là một tên trộm sao? Nếu đã thế, ta hy vọng ngươi đã chuẩn bị sẵn tinh thần để bỏ mạng tại nơi này rồi chứ?"
+"Haha. Giá trị, giá trị... Thứ gì có giá trị ư... Ra vậy. Hóa ra ngươi là một tên trộm sao? Thế thì, chắc ngươi đã chuẩn bị sẵn tinh thần bỏ mạng tại đây rồi chứ?"
 
 "Cái... gì...?"
 
-"Trông ngươi có vẻ bối rối nhỉ. Nhưng ừ, đương nhiên rồi. Ta hiểu mà. Ta hiểu, nhưng... có một số chuyện ta tuyệt đối không thể tha thứ. Ta không hề muốn làm vấy bẩn nơi này... Nhưng vì lẽ đó, e là ta buộc phải xóa sổ ngươi thôi—chẳng còn cách nào khác cả."
+"Trông ngươi có vẻ hoang mang nhỉ. Mà cũng phải thôi, ta hiểu chứ. Ta hiểu, nhưng... có những chuyện ta tuyệt đối không thể tha thứ. Ta không muốn làm vấy bẩn nơi này... Thành thử e là ta chỉ còn nước xóa sổ ngươi thôi, chẳng còn cách nào khác."
 
-Dứt lời, người phụ nữ khẽ giơ tay lên, chĩa thẳng về phía tôi. Tôi còn chưa hiểu cô ấy định làm gì thì ngay khoảnh khắc đó, gần như tức thì, tôi nhận thấy một lượng Ma Lực khủng khiếp đang ngưng tụ trong lòng bàn tay cô ấy. Theo bản năng, tôi dồn toàn bộ khả năng của mình vào các ma pháp và kỹ năng phòng ngự. Với một lớp khiên chắn Ma Lực, việc cường hóa cơ thể bằng Khí Lực, cùng việc truyền Thần Lực vào lưỡi kiếm, chắc chắn tôi sẽ có thể chống đỡ được bất kỳ đòn tấn công nào.
+Dứt lời, người phụ nữ khẽ giơ tay lên, chĩa thẳng về phía tôi. Tôi còn chưa kịp hiểu đối phương định làm gì thì gần như ngay tắp lự, một luồng Ma Lực kinh hoàng đã ngưng tụ trong lòng bàn tay cô ta. Theo bản năng, tôi dồn toàn bộ bản lĩnh vào các ma pháp và kỹ năng phòng ngự. Với ma pháp Khiên Chắn bằng Ma Lực, kết hợp Khí Lực cường hóa thân thể và truyền Thần Lực vào lưỡi kiếm, chắc chắn tôi sẽ chống đỡ được đòn tấn công này.
 
-Dĩ nhiên là tôi hoàn toàn có ý định né tránh toàn bộ đòn đánh nếu có thể. Thế nhưng đòn tấn công của người phụ nữ lại nhanh hơn, chuẩn xác hơn rất nhiều.
+Dĩ nhiên nếu có thể, tôi đã muốn né sạch đòn này. Thế nhưng đòn đánh của người phụ nữ lại quá nhanh, quá chuẩn xác.
 
-Những ngọn lửa mãnh liệt phóng ra từ lòng bàn tay cô ấy, đập thẳng vào người tôi. Cảm giác hệt như hơi thở của Rồng khi uy lực giáng xuống thân thể tôi như một phát đạn đại bác—đó là sức mạnh từ cú va chạm của nó. Nó nặng nề hơn, uy lực hơn đòn đánh của một con Khô Lâu Khổng Lồ đơn thuần rất nhiều.
+Ngọn lửa dữ dội bùng ra từ lòng bàn tay cô ta, ập thẳng vào người tôi. Sức ép dội vào người như một quả đạn pháo, uy lực khủng khiếp chẳng khác nào hơi thở của Rồng. Cú va chạm ấy nặng nề và uy mãnh hơn đòn đánh của Khô Lâu Khổng Lồ gấp bội.
 
-Tôi bị đánh bay đi, va sầm vào bức tường gần đó. Tôi cảm thấy một cơn đau nhói thốc lên sau lưng. Dù mừng vì đã chặn được một đòn tấn công, nhưng trận chiến còn lâu mới kết thúc. Tôi có thể lập tức cảm nhận được thứ Ma Lực cùng loại lại đang tụ lại trong lòng bàn tay người phụ nữ một lần nữa—chính cái chết đang được cô đọng thành một quả cầu lửa cách tôi không xa.
+Tôi văng bạt ra sau, đập thẳng vào bức tường gần đó, một cơn đau nhói thốc ngược sau lưng. Dù mừng vì đã chặn được một chiêu, nhưng trận chiến còn lâu mới kết thúc. Tôi lập tức cảm nhận được luồng Ma Lực tương tự lại tiếp tục tụ lại trong lòng bàn tay người phụ nữ; cách tôi một quãng ngắn, bản thân cái chết dường như đang ngưng đọng thành một quả cầu lửa.
 
-Trong lúc tôi chật vật gượng dậy, người phụ nữ chầm chậm tiến lại gần, lòng bàn tay giơ lên tràn ngập sát ý. Tôi tuyệt đối không có cách nào chống đỡ nổi đòn đánh tiếp theo.
+Trong lúc tôi chật vật gượng dậy, người phụ nữ chậm rãi bước tới, bàn tay giơ lên đằng đằng sát khí. Tôi hoàn toàn không có cách nào đỡ nổi đòn tiếp theo.
 
-Dẫu vậy, tôi không thể bỏ cuộc, và tôi bắt đầu chuẩn bị dựng thêm một lớp khiên chắn ma pháp nữa. Có lẽ tôi sẽ không kịp trở tay... Nhưng rồi tôi nhận thấy ánh mắt của người phụ nữ đang nhìn thẳng vào tôi. Điều xảy ra tiếp theo thật ngoài dự liệu khi bước chân của người phụ nữ bỗng khựng lại ngay tại chỗ.
+Dẫu vậy, tôi không thể buông xuôi, tôi bắt đầu chuẩn bị dựng thêm một lớp khiên chắn Ma Lực nữa. Có lẽ sẽ chẳng kịp... Nhưng đúng lúc ấy, tôi thấy ánh mắt của người phụ nữ dán chặt vào mình. Rồi một điều bất ngờ ập đến: người phụ nữ đột nhiên khựng người lại.
 
-"...Ngươi... Cơ thể của... ngươi...?" Có vẻ như cô ấy có điều muốn hỏi tôi.
+"...Ngươi... Thân thể... của ngươi...?" Dường như cô ta đang muốn hỏi tôi điều gì đó.
 
-Cơ thể tôi sao? Có chuyện gì với nó chứ?
+Thân thể tôi? Thì sao chứ?
 
-Dù được bảo vệ bởi một luồng Ma Lực và Khí Lực, chiếc áo chùng của tôi vẫn bị quả cầu lửa trước đó đốt cháy. Phần lớn y phục của tôi giờ đã cháy thành than, để lộ ra những mảng da thịt thối rữa như xác chết trên cơ thể Thi Quỷ của tôi. Dù nhìn từ góc độ nào đi nữa, tôi khó lòng trông giống con người với những mẩu thịt chỗ thối rữa, chỗ khô quắt trên cơ thể. Người phụ nữ dường như rất kinh ngạc trước điều này.
+Dù đã được Ma Lực và Khí Lực che chắn bớt, chiếc áo chùng của tôi vẫn bị quả cầu lửa khi nãy thiêu rụi. Phần lớn trang phục giờ đã cháy thành than, để lộ thân thể Thi Quỷ với những mảng thịt rữa như xác chết. Dù nhìn kiểu gì, tôi cũng chẳng thể giống con người khi trên mình toàn những mảng thịt chỗ rữa nát, chỗ khô cằn. Thấy cảnh tượng đó, người phụ nữ có vẻ sững sờ.
 
-Nhưng điều đó là đương nhiên; chỉ có quái vật mới mang hình hài như thế này.
+Mà cũng phải thôi, chỉ có quái vật mới mang hình thù như vậy.
 
-"...Thì... sao chứ. Ngay cả tôi... cũng đâu có muốn... biến thành thế này. Cô nghĩ... tôi thích... cái bộ dạng này lắm sao?"
+"...Thì... sao chứ. Tôi... đâu có muốn... biến thành nông nỗi này. Bộ cô nghĩ... tôi thích... cái hình thù này lắm sao?"
 
-Tôi chẳng hề ảo tưởng về tình thế lúc này. Đơn giản là tôi không thể nào thoát khỏi người phụ nữ này được. Số phận tôi đã định là phải chết trong căn phòng này, thế nên tôi thà nói ra những điều mình muốn nói. Đây rất có thể là lần cuối cùng tôi còn có cơ hội nói ra chúng.
+Tôi chẳng hề ảo tưởng về tình cảnh của mình. Rõ ràng là tôi không có đường nào thoát khỏi tay người phụ nữ này. Đằng nào cũng phải bỏ mạng trong căn phòng này rồi, chi bằng cứ nói toạc những gì muốn nói. Rất có thể đây là lần cuối cùng tôi còn được cất lời.
 
-Thế nhưng, người phụ nữ dường như chẳng hề tức giận trước những lời của tôi. Thay vào đó, cô ấy hạ tay xuống, những tàn tích Ma Lực dần tan biến khỏi lòng bàn tay.
+Thế nhưng người phụ nữ dường như không hề bực tức trước những lời lẽ đó. Cô ta hạ tay xuống, những tia Ma Lực dần tan biến khỏi lòng bàn tay.
 
-"...Nhưng phải rồi. Đương nhiên... Ta hiểu rồi. Có vẻ như ta đã lầm—chỉ là một sự hiểu lầm. Ta thành thật xin lỗi."
+"...Phải rồi. Ra là vậy... Ta hiểu rồi. Xem ra ta đã lầm, chỉ là hiểu lầm thôi. Ta thành thật xin lỗi."
 
 Người phụ nữ này... đang xin lỗi tôi sao?
 
-"Ôi... Ta thấy áo chùng của ngươi chẳng may đã bắt lửa mất rồi. Ta lại không có bộ nào dự phòng ở đây... Hay là ta tặng ngươi thứ này nhé. Nó được may rất khéo, và ta tin là nó sẽ giúp ích được cho ngươi đấy."
+"Ôi chao... Áo chùng của ngươi chẳng may bén lửa cháy mất rồi. Ở đây ta lại không có bộ nào dự phòng... Hay là ta đưa ngươi cái này nhé. Nó được may rất khéo, ta tin là sẽ giúp ích cho ngươi đấy."
 
-Nói rồi, người phụ nữ cởi chiếc áo chùng đen của mình ra, gấp gọn lại và trao cho tôi.
+Nói rồi, người phụ nữ cởi chiếc áo chùng đen trên người ra, gấp gọn lại rồi đưa cho tôi.
 
-"À, còn một điều cần lưu ý: Căn phòng này có ý nghĩa vô cùng quan trọng đối với ta. Ta đoán ngay cả ngươi cũng hiểu rằng nơi này rất đặc biệt. Phiền ngươi đừng nhắc tới căn phòng này với bất kỳ ai khác được chứ?" người phụ nữ nói, nhìn tôi với nét mặt thanh thản.
+"À, còn một điều nữa: Căn phòng này có ý nghĩa rất quan trọng với ta. Ta nghĩ ngay cả ngươi cũng hiểu nơi này đặc biệt thế nào. Phiền ngươi đừng hé răng với ai về căn phòng này, được chứ?" người phụ nữ nói, ánh mắt nhìn tôi vô cùng thanh thản.
 
-Người phụ nữ chắc chắn biết tôi sẽ đồng ý; dẫu sao thì cô ấy cũng đã tha mạng cho tôi để đổi lấy việc giữ bí mật về vị trí của căn phòng này. Điều tôi không hiểu là làm sao người phụ nữ lại biết về căn phòng này, và tại sao tôi lại không được phép báo cáo nó cho bất kỳ ai. Ngay từ đầu, dẫu cho một người không phải mạo hiểm giả thì việc phát hiện ra khu vực chưa khai phá trong mê cung cũng là một phát hiện trọng đại—người ta có thể nhận được khối tài sản đủ sống cả đời, nên việc một người bình thường báo cáo tin tức này cho Hội là điều dĩ nhiên.
+Người phụ nữ ắt hẳn biết thừa tôi sẽ đồng ý; dẫu sao thì cô ta tha mạng cho tôi chỉ để đổi lấy việc giữ kín vị trí căn phòng. Điều tôi không hiểu là làm sao cô ta lại biết nơi này, và tại sao tôi không được phép báo cáo cho ai. Vốn dĩ, kể cả không phải mạo hiểm giả thì việc tìm ra một khu vực chưa khai phá trong mê cung cũng là phát hiện động trời, đủ để người ta đổi lấy khối tài sản ăn tiêu cả đời, nên chuyện một người bình thường chạy tới báo cho Hội là lẽ đương nhiên.
 
-"Cô... không muốn tôi... báo cho Hội sao...?"
+"...Cô... không muốn tôi... báo cho Hội sao...?"
 
-"Ừm, ta nghĩ thế là tốt nhất. Nói chính xác hơn thì, nếu không có ngươi ở đây, sẽ chẳng có cách nào bước vào căn phòng này được đâu. Ngươi tới được đây nhờ ma pháp trận đó, đúng không? Ma pháp trận đó chỉ kích hoạt khi ngươi bước vào mà thôi."
+"Phải, ta nghĩ như vậy là tốt nhất. Nói chính xác hơn, nếu không có ngươi thì sẽ chẳng có ai vào được căn phòng này đâu. Ngươi tới đây bằng ma pháp trận đằng kia, đúng chứ? Ma pháp trận đó chỉ kích hoạt khi có ngươi bước lên mà thôi."
 
-Đó là những gì người phụ nữ nói, bên cạnh nhiều điều khác mà cô ấy tiếp tục đề cập tới mà tôi chẳng có cách nào hiểu nổi. Chênh lệch sức mạnh giữa chúng tôi là quá lớn; ngay cả Lorraine, một ma pháp sư Ngân Cấp, cũng không thể nào sánh bằng thực lực của cô ấy. Nếu tôi đưa ra một câu trả lời khiến cô ấy phật ý, cái chết chắc chắn sẽ là lời đáp trả từ cô ấy—chừng đó thì tôi có thể nhận ra.
+Đó là những gì người phụ nữ nói, bên cạnh nhiều điều khác mà cô ta nhắc tới mà tôi chẳng tài nào hiểu nổi. Khoảng cách sức mạnh giữa chúng tôi quá đỗi chênh lệch; ngay cả Lorraine, một ma pháp sư Ngân Cấp, e là cũng chẳng thể bì nổi với thực lực của cô ta. Nếu tôi buột miệng đưa ra câu trả lời khiến cô ta không vừa ý, cái chết chắc chắn sẽ là điều đón đợi tôi, chừng ấy thì tôi thừa hiểu.
 
-Tuy nhiên, việc thăng cấp bậc mạo hiểm giả cũng là ước mơ của tôi. Ban đầu, tôi dự định để Loris báo cáo khu vực chưa khai phá, rồi bù lại bằng số vàng tôi đã cho ông mượn thông qua Ma Tinh của Khô Lâu Khổng Lồ. Giờ đây, với diện mạo tương đối giống người hơn, tôi từng nghĩ mình có thể báo cáo tin tức này cho Hội vào lúc vắng người. Điều này chắc chắn sẽ gia tăng cấp bậc và tầm ảnh hưởng của tôi với Hội, đưa tôi tiến gần hơn một bước tới mục tiêu trở thành mạo hiểm giả Mithril Cấp.
+Thế nhưng, thăng hạng mạo hiểm giả vốn là ước mơ cả đời của tôi. Ban đầu, tôi định để Loris đứng ra báo cáo khu vực chưa khai phá, qua đó hoàn trả số tiền vàng tôi đã ứng cho ông ấy mượn bằng viên Ma Tinh của Khô Lâu Khổng Lồ. Giờ đây với hình hài đã tương đối giống người, tôi từng nghĩ mình có thể tự mình báo cáo phát hiện này cho Hội vào lúc vắng vẻ. Điều đó chắc chắn sẽ giúp tôi nâng hạng và gia tăng uy tín trong Hội, đưa tôi tiến gần hơn một bước tới mục tiêu trở thành mạo hiểm giả Mithril Cấp.
 
-Chí ít thì đó là những gì tôi từng nghĩ. Thế nhưng người phụ nữ này lại không muốn tôi làm bất cứ điều gì như vậy...
+Đó là những gì tôi toan tính. Ngặt nỗi người phụ nữ này lại chẳng muốn tôi làm như thế...
 
-Như thể thấu hiểu cảm nghĩ của tôi về tình thế lúc này, người phụ nữ lại cất lời lần nữa:
+Như thể thấu suốt nỗi lòng tôi, người phụ nữ lại cất tiếng:
 
-"...Dù nói vậy, ta đoán ngươi cũng chẳng muốn tay trắng ra về đâu nhỉ. Ta hiểu mà. Các mạo hiểm giả các ngươi lúc nào cũng tìm kiếm thành quả hay chiến lợi phẩm cụ thể nào đó. Có lẽ thứ này không thể xem là vật bù đắp tương xứng cho lắm, nhưng chắc chắn nó vẫn sẽ có ích cho ngươi. Ngươi thấy thế nào?"
+"...Nói là thế, nhưng ta đoán ngươi cũng không muốn ra về tay trắng nhỉ. Ta hiểu mà. Mạo hiểm giả các ngươi lúc nào cũng mưu cầu thành tích hay kết quả cụ thể mà. Có thể thứ này chưa thấm tháp vào đâu để bù đắp, nhưng chắc chắn vẫn sẽ giúp ích cho ngươi đấy. Ngươi thấy sao?"
 
 "Đây là..."
 
-Món đồ trao cho tôi trông như một tấm da dê cổ—nó cũng trống trơn một cách đáng ngạc nhiên. Thoạt nhìn, tôi có thể suy đoán rằng nó có lẽ là một loại văn vật cổ xưa nào đó. Tiếc thay, nó trông chẳng có vẻ gì là đáng giá cả một gia tài cả.
+Thứ cô ta đưa cho tôi trông như một tấm da dê cổ, trên mặt hoàn toàn trống trơn. Thoạt nhìn, tôi đoán đây có lẽ là một loại cổ thư hay văn bản cổ xưa nào đó. Tiếc là trông nó chẳng có vẻ gì đáng giá cả một gia tài.
 
 Nhưng người phụ nữ vẫn tiếp tục giải thích:
 
-"Đây là một tạo tác tự động vẽ lại bản đồ những khu vực mê cung mà người sở hữu từng đặt chân tới—một ma cụ có tên là Bản Đồ Akasha. Hiện giờ thì chưa có gì được viết trên đó cả, nhưng đó chỉ là vì người chủ trước đã xóa sạch bản đồ lưu trữ trên đó mà thôi. Nó chắc chắn sẽ rất hữu ích cho một mạo hiểm giả như ngươi... Ngươi thấy sao?"
+"Đây là một cổ vật có thể tự động vẽ lại bản đồ những khu vực mê cung mà chủ nhân của nó từng đặt chân tới, một ma cụ mang tên Bản Đồ Akasha. Hiện trên mặt da dê chưa có chữ nào cả, nhưng đó chỉ là do chủ nhân trước đã xóa sạch các bản đồ lưu trữ bên trong mà thôi. Nó chắc chắn sẽ rất có ích cho một mạo hiểm giả như ngươi... Ngươi thấy thế nào?"
 
-Nếu những lời người phụ nữ nói là thật, đây quả thực là một món công cụ vô cùng hữu dụng. Trên thực tế, thật đáng kinh ngạc khi một vật phẩm như thế lại có thể tồn tại—nếu tôi tính đến chuyện bán nó, chỉ riêng việc định một mức giá thỏa đáng thôi cũng đã là cả một thách thức lớn rồi.
+Nếu lời người phụ nữ nói là thật, đây đúng là một món đồ vô cùng hữu ích. Thậm chí khó mà tin nổi trên đời lại tồn tại một vật phẩm như thế; nếu đem bán, chỉ riêng việc định một mức giá cho xứng tầm thôi cũng là cả một nan đề rồi.
 
-Nhưng dĩ nhiên, đó là giả định những gì người phụ nữ nói là sự thật. Liệu một món công cụ huyền diệu như thế có thực sự tồn tại trên thế giới của chúng tôi không?
+Nhưng dĩ nhiên, đấy là mới tính trên giả thiết lời cô ta là thật. Chứ liệu một thứ đồ màu nhiệm đến vậy có thực sự tồn tại trên đời?
 
 ![](images/ch026-01.webp)
 
-"Liệu ngươi có chịu cân nhắc thỉnh cầu của ta nếu ta chứng minh cho ngươi thấy những lời ta nói là thật không?"
+"Nếu ta chứng minh được những lời ta nói là thật, liệu ngươi có chịu chấp thuận yêu cầu của ta không?"
 
-Tôi gật đầu trước câu hỏi của người phụ nữ. Nếu tấm bản đồ hoạt động đúng như lời người phụ nữ khẳng định, việc sở hữu nó chắc chắn sẽ giúp chuyến thám hiểm mê cung của tôi dễ dàng hơn rất nhiều. Tôi cho rằng lắng nghe yêu cầu của cô ấy cũng có giá trị nhất định, dẫu tôi vẫn còn hoài nghi về toàn bộ chuyện này.
+Tôi gật đầu trước câu hỏi của người phụ nữ. Nếu tấm bản đồ hoạt động đúng như lời cô ta khẳng định, có nó trong tay chắc chắn sẽ giúp công việc thám hiểm mê cung của tôi dễ thở hơn bội phần. Dù trong bụng vẫn bán tín bán nghi, nhưng tôi thấy nghe theo yêu cầu của cô ta cũng bõ công đấy chứ.
 
-"Vậy thì, hãy truyền Ma Lực của ngươi vào tấm da dê đi..."
+"Thế thì, ngươi hãy thử truyền Ma Lực vào tấm da dê xem..."
 
-Tôi làm theo lời cô ấy bảo, và—
+Tôi làm theo lời dặn, và rồi...
 
-"...Thật kinh ngạc..."
+"...Kinh ngạc thật..."
 
-Tôi chỉ biết nín thở khi những đường nét vụt chạy ngang dọc khắp bề mặt của tấm da dê vốn trống trơn trước đó, cuối cùng tạo thành một bản đồ chi tiết của Mê Cung Nguyệt Ảnh. Ngay cả những chi tiết vụn vặt và ghi chú mà tôi từng viết trên tấm bản đồ rách nát của chính mình cũng xuất hiện, hiển hiện ngăn nắp trên tấm da dê.
+Tôi như nín thở nhìn những đường nét vụt chạy ngang dọc khắp bề mặt tấm da dê vốn trống trơn, rồi dần kết thành một tấm bản đồ chi tiết của Mê Cung Nguyệt Ảnh. Ngay cả những chi tiết vụn vặt cùng mớ ghi chú tôi từng nắn nót viết trên tấm bản đồ cũ rách của mình cũng lần lượt hiện lên ngay ngắn.
 
-"Ta đoán là chúng ta đã đạt được thỏa thuận rồi chứ?"
+"Xem như chúng ta đã có thỏa thuận rồi chứ?"
 
-"...Vâng. Tôi đoán là vậy."
+"...Vâng. Chắc là vậy rồi."
 
-Dù trong lòng vẫn thôi thúc mãnh liệt muốn báo cáo khu vực chưa khai phá này cho Hội, nhưng khả năng rất cao là người phụ nữ này sẽ tìm tới lấy mạng tôi nếu tôi làm thế. Dẫu sao thì chỉ mới vài phút trước, cô ấy đã rõ ràng muốn giết chết tôi—tôi không thể làm trái lời cô ấy dù có muốn đi chăng nữa.
+Dù trong lòng vẫn thôi thúc mãnh liệt muốn báo cáo khu vực chưa khai phá này cho Hội, nhưng khả năng rất cao là người phụ nữ này sẽ tìm tới lấy mạng tôi nếu tôi làm thế. Dẫu sao thì chỉ mới vài phút trước, cô ta đã lộ rõ sát ý muốn lấy mạng tôi; thành thử dù muốn, tôi cũng chẳng dám làm trái lời cô ta.
 
-"Ta hiểu rồi. Thế thì tốt quá. Vậy thì, ta sẽ tiễn ngươi một đoạn—chí ít là ra tận lối vào."
+"Ra vậy, thế thì tốt quá. Nào, để ta tiễn ngươi một đoạn, ít nhất là ra tới cửa mê cung."
 
 "Hả?"
 
-Trước khi tôi kịp nói thêm điều gì, người phụ nữ đã kích hoạt một loại ma pháp dịch chuyển nào đó. Ngay lập tức, tôi thấy tầm nhìn trước mắt mình vặn xoắn lại. Mỉm cười dịu dàng khi vẫy tay chào, nét mặt cô ấy trông khác hẳn với vẻ mặt đằng đằng sát khí lúc đầu khi chúng tôi chạm trán.
+Trước khi tôi kịp ú ớ câu nào, người phụ nữ đã kích hoạt một loại ma pháp dịch chuyển. Tức thì, cảnh vật trước mắt tôi vặn xoắn lại. Cô ta dịu dàng mỉm cười và vẫy tay chào tôi, nét mặt ấy khác hẳn với vẻ đằng đằng sát khí lúc mới chạm trán.
 
-"...Vậy nhé. Hãy bảo trọng... Dù rằng nói lời đó với một người như ngươi thì hơi ngớ ngẩn thật."
+"...Vậy nhé. Giữ mình đấy... Cơ mà dặn dò một kẻ như ngươi câu đó thì có hơi buồn cười thật."
 
-Cùng với những lời chia tay đó, cô ấy biến mất, và chẳng mấy chốc tôi thấy mình đang đứng tại lối vào của Mê Cung Nguyệt Ảnh.
+Dứt lời từ biệt, bóng dáng cô ta biến mất tăm, và tôi nhận ra mình đã đứng ngay trước lối vào Mê Cung Nguyệt Ảnh từ lúc nào.
 
-Đó chỉ là một giấc mơ thôi sao?
+Nãy giờ chỉ là một giấc mơ ư?
 
-Tôi nhìn xuống: chiếc áo chùng của tôi quả thực đã khác, và tôi đang cầm trên tay một mảnh da dê trông có vẻ cổ xưa.
+Tôi nhìn xuống: chiếc áo chùng trên người đúng là đã đổi khác, còn trên tay tôi quả thực đang nắm chặt một tấm da dê nhuốm màu năm tháng.
 
-...Rốt cuộc chuyện đó là thế nào chứ?
+...Rốt cuộc chuyện vừa rồi là thế nào vậy trời?
 
-Tôi không thể ngừng nghĩ về những sự việc vừa mới diễn ra. Hôm nay tôi chẳng còn tâm trạng nào để thám hiểm nữa, và với những suy nghĩ đầy âu lo về các sự kiện gần đây lấp đầy tâm trí, tôi chầm chậm cất bước quay trở về thị trấn Maalt.
+Tôi không tài nào dứt khỏi những suy nghĩ về những chuyện vừa mới xảy ra. Tâm trạng thám hiểm ngày hôm nay coi như tan thành mây khói; mang theo một bụng hoang mang, tôi lững thững lê bước quay về thị trấn Maalt.
