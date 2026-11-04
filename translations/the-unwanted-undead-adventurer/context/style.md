@@ -38,6 +38,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 12. **Liên kết tâm trí với Edel và tính cách quyến thuộc (#51–52).** Edel tuy là chuột quyến thuộc nhưng có cái tôi và chính kiến rất lớn (bướng bỉnh, háu ăn, biết dậm chân phản đối, dựng lông bất mãn). Liên kết tâm trí truyền cảm xúc và suy nghĩ trực tiếp sang Rentt; Rentt đối thoại nội tâm với con chuột như một cộng sự ngang ngạnh, bình đẳng, không áp đặt kiểu chủ tớ máy móc.
 13. **Giọng Isaac Hart (#56).** Quản gia phục vụ nhân vật quyền thế; tác phong mực thước, lịch thiệp chuẩn phong thái gia nhân quý tộc; lời thoại luôn giữ lễ độ, tôn trọng đối phương ("ngài / thưa quý ngài"), nhưng tự nhiên và điềm đạm, không dùng từ cầu kỳ, khách sáo quá đà (không chêm "ạ" hay "đội ơn"); không xem nhẹ thứ hạng mạo hiểm giả mà trọng thực lực thực tế.
 14. **Giọng Dario Costa (#58).** Chuyên gia mổ xẻ chính của Hội; tính tình bộc trực, xuề xòa, thực tế; ăn nói hào sảng, cộc cằn nhưng thân tình; rất sành sỏi giá cả thị trường và trân trọng chiến lợi phẩm nguyên vẹn; xưng "chú - cháu/cô bé" với tiếp tân viên Hội (Sheila), xưng "tôi - cậu" với mạo hiểm giả (Rentt).
+15. **Giọng Norman Hanel (#59).** Dược sư nhân hậu, chất phác, hào hứng và xởi lởi; ăn nói nhiệt thành, giàu lòng trắc ẩn với người bệnh nghèo; khi giao tiếp với mạo hiểm giả (Rentt) xưng "tôi", gọi "anh / anh Rentt", rất tự tin vào vốn kiến thức thảo dược và y thuật của mình nhưng chân thành và biết ơn, không màu mè khách sáo.
 
 ## Từ cảm thán / cách nói cố định
 
