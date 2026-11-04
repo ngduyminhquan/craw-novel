@@ -834,13 +834,20 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #263 (được Jean Seebeck nhắc tên).
 
 ### Mel
-- Giới tính, vai trò: Nữ, nữ tu (Sister Mel) tại cô nhi viện cũ ở vương đô nơi Elza và Lillian từng lớn lên (#265).
-- Đặc điểm: Được Elza nhờ lũ trẻ chạy vào báo tin khi cô ghé thăm cô nhi viện (#265).
+- Giới tính, vai trò: Nữ, nữ tu (Sister Mel) tại cô nhi viện cũ ở vương đô nơi Elza và Lillian từng lớn lên (#265). Tên đầy đủ: Mel Patiche (#266).
+- Đặc điểm: Phong thái dịu dàng, điềm đạm, đoan trang thuần khiết; là người phụ trách Cô Nhi Viện Thứ Ba Vistelya, lớn lên cùng Lillian và Elza tại đây (#265, #266). Thích ăn đồ ngọt và hay lén ăn một mình rồi lo bị tăng cân (#266).
+- Trạng thái tính đến chương 266: Được Pochi truyền Thần Lực để có thể nghe hiểu tiếng nói qua thần giao cách cảm của nó; lập tức tra khảo Pochi vì dám mách lẻo chuyện cô lén ăn đồ ngọt.
 - Xuất hiện từ: #265.
 
 ### Pochi
 - Giới tính, vai trò: Đực, chú chó khổng lồ lông trắng sống tại cô nhi viện ở vương đô (#265).
 - Đặc điểm: Thân hình to lớn vượt trội hơn cả Rentt và Lorraine, ngang ngửa với Hội Trưởng Wolf Hermann của Maalt; bộ lông trắng dài; tính cách thân thiện, thuần khiết, hiền lành và rất đáng yêu; đã sống tại cô nhi viện hơn 20 năm (lâu hơn bình thường đối với loài chó), nhiều khả năng là một phân loài quái vật; có khả năng phát ra âm thanh/thần giao cách cảm nói tiếng người [Xin chào!] (#265).
+- Trạng thái tính đến chương 266: Thực chất là Thần Thú / Thánh Thú (divine beast / sacred beast) mang đặc tính tương đồng thần tinh linh; có khả năng truyền Thần Lực (đã truyền sang cho Mel); chỉ những ai từng nhận được sự ban phước của Thần Lực mới nghe thấy nó nói qua thần giao cách cảm.
 - Xuất hiện từ: #265.
+
+### Hilde
+- Giới tính, vai trò: Nữ, thân chủ trẻ tuổi tại thị trấn Maalt trong ngoại truyện (#267).
+- Đặc điểm: Trông trẻ tuổi, tính cách vui vẻ, chu đáo; hàng năm thuê mạo hiểm giả hộ tống tới Mũi Rook vào đêm trăng để ngắm cặp Rồng Băng kết đôi theo truyền thống gia đình truyền lại từ thời cụ cố; không hề có ý định tự sát như Rentt và Lorraine ban đầu phỏng đoán (#267). (Phân biệt với Hilde là tên gọi thân mật của nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis, #131).
+- Xuất hiện từ: #267.
 
 

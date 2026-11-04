@@ -511,12 +511,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lorraine Vivie | Elza | tôi | cô / Elza | 265 | Giao tiếp thoải mái, bình đẳng khi ở ngoài tu viện |
 | Elza | Rentt Faina | tôi | cậu / Rentt | 265 | Tiếp chuyện thân mật khi ở ngoài tu viện |
 | Elza | Lorraine Vivie | tôi | cô / Lorraine | 265 | Tiếp chuyện thân mật khi ở ngoài tu viện |
-| Elza | * | tôi | các con / các em / mọi người | 265 | Nữ Tu Viện Trưởng nói chuyện thân mật với lũ trẻ ở cô nhi viện |
+| Elza | * | tôi | các em / mọi người | 265 | Nữ Tu Viện Trưởng nói chuyện thân mật với lũ trẻ ở cô nhi viện |
 | Rentt Faina | Mel | tôi | cô | 265 | Mạo hiểm giả nói chuyện lịch sự với người phụ nữ trẻ tại cô nhi viện |
 | Mel | Rentt Faina | tôi | anh | 265 | Người phụ nữ tại cô nhi viện nói chuyện với Rentt |
-| Mel | Pochi | tôi | Pochi / ngoan nào | 265 | Nữ tu dỗ chú chó khổng lồ |
+| Mel | Pochi | tôi / tao | Pochi / mày / ngoan nào | 265 | Nữ tu dỗ chú chó khổng lồ / tra khảo khi bị mách lẻo |
 | Mel | Elza | em | Sơ Elza / chị / chị Elza | 266 | Người phụ nữ phụ trách cô nhi viện nói chuyện với Nữ Tu Viện Trưởng vốn là đàn chị thân thiết |
-| Elza | Mel | tôi | Mel / em | 266 | Nữ Tu Viện Trưởng nói chuyện với đàn em thân thiết ở cô nhi viện |
+| Elza | Mel | tôi / chị | Mel / em | 266 | Nữ Tu Viện Trưởng nói chuyện với đàn em thân thiết ở cô nhi viện |
 | Lorraine Vivie | Mel | tôi | cô | 266 | Nữ học giả tiếp chuyện người phụ nữ tại cô nhi viện |
 | Mel | Lorraine Vivie | tôi | cô | 266 | Người phụ nữ tại cô nhi viện tiếp chuyện nữ học giả |
 | Pochi | Rentt Faina | ta / tôi | cậu | 266 | Thần thú giao tiếp qua thần giao cách cảm |

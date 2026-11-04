@@ -148,7 +148,7 @@ Pochi, kẻ nãy giờ vẫn nằm bẹp dí sau lưng Mel làm bộ như một 
 
 Tôi biết là mình không hề tưởng tượng mà.
 
-"Mày không cần phải lo lắng thái quá thế đâu, Pochi," Elza bảo. "Phong ấn của tôi đâu có dễ phá vỡ như vậy."
+"Pochi không cần phải lo lắng thái quá thế đâu," Elza bảo. "Phong ấn của tôi đâu có dễ phá vỡ như vậy."
 
 "Gâu?"
 
@@ -190,7 +190,7 @@ Elza quay sang Mel. "Chị đã nói với em từ bao đời nay rồi còn gì
 
 "Con chó đó biết nói đấy!" chính là ví dụ kinh điển cho kiểu lời nói dối như vậy. Lâu dần, Mel chắc hẳn sẽ chỉ đảo tròn mắt rồi gạt phắt đi mà bảo: "Lại trò cũ rích chứ gì? Vâng, vâng." Đó là thông lệ xưa như Trái Đất rồi.
 
-"Đúng là chị có trêu em nhiều chuyện khác, nhưng chưa từng đùa về Pochi đâu. Nó thực sự biết nói đấy." Elza ghé tai về phía Pochi. "Hửm, mày vừa nói gì cơ?"
+"Đúng là chị có trêu em nhiều chuyện khác, nhưng chưa từng đùa về Pochi đâu. Nó thực sự biết nói đấy." Elza ghé tai về phía Pochi. "Hửm, Pochi vừa nói gì cơ?"
 
 "Gâu, gâu, gâu gâu, ẳng. Gâu gâu, gâu gâu, gâu gâu gâu. Gâu."
 

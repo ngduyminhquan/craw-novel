@@ -2,7 +2,7 @@
 
 Cách đây vài năm, khi tôi vẫn còn kiếm sống bằng nghề mạo hiểm giả loài người của Vương Quốc Yaaran...
 
-"Cô ta muốn cô dẫn tới Mũi Rook ư?" tôi hỏi. Khi ấy tôi đang ăn tối tại nhà Lorraine. "Nhắc lại giúp tôi xem vì sao cô ta lại muốn đến đó lần nữa nào?"
+"Cô ta muốn cô dẫn tới Mũi Rook ư?" tôi hỏi. Khi ấy tôi đang ăn tối tại nhà Lorraine. "Nhắc lại giúp tôi xem vì sao cô ta lại muốn đến đó ấy nhỉ?"
 
 "Nghe đâu là cô ta muốn ngắm cảnh từ nơi đó," Lorraine đáp. "Chà, mấy cái ủy thác kỳ quặc kiểu này thì nhiều như nấm sau mưa. Những mạo hiểm giả như chúng ta đâu thể quá kén chọn tiểu tiết, dẫu vậy dĩ nhiên tôi vẫn sẽ cẩn thận lưu tâm đến bất kỳ điều gì đáng ngờ."
 
@@ -138,7 +138,7 @@ Giữa cuộc trò chuyện của chúng tôi, một luồng hiện diện kỳ 
 
 "Một con Rồng," Lorraine thì thào. "Một con... Rồng Băng, nếu tôi không nhầm. Ai mà ngờ được một con lại sống ở ngay nơi này chứ?"
 
-Đó thực sự là một con Rồng Băng bằng xương bằng thịt. Nhưng điều kỳ diệu chưa dừng lại ở đó.
+Đó thực sự là một con Rồng Băng đích thực. Nhưng điều kỳ diệu chưa dừng lại ở đó.
 
 "Nghe như nó đang cất tiếng hát vậy..." tôi nói.
 
@@ -180,7 +180,7 @@ Tôi gật đầu rồi hỏi, "Vì cô biết thêm được điều chưa từ
 
 "Ừm. Thỉnh thoảng có những phát hiện như thế đúng là điểm tuyệt vời ở Maalt. Vùng biên thùy này có biết bao trải nghiệm mới lạ. Có lẽ bắt đầu từ ngày mai tôi sẽ tích cực nhận ủy thác hơn..."
 
-"Tôi hoàn toàn ủng hộ cô làm chuyện đó, nhưng tôi ngờ rằng những ủy thác tốt như thế hiếm hơn cô tưởng nhiều đấy... Chuyện đó tạm gác lại đã, nãy giờ tôi đang ngẫm nghĩ và chợt nhận ra một điều khá đáng sợ."
+"Tôi hoàn toàn ủng hộ cô làm chuyện đó, nhưng tôi e rằng những ủy thác tốt như thế hiếm hơn cô tưởng nhiều đấy... Chuyện đó tạm gác lại đã, nãy giờ tôi đang ngẫm nghĩ và chợt nhận ra một điều khá đáng sợ."
 
 "Chuyện gì cơ?"
 

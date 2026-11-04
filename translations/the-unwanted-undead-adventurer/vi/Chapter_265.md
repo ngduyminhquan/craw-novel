@@ -78,15 +78,15 @@ Cậu bé nhảy bổ tới và bám chặt lấy cô khi vừa chạy đến n�
 
 Xem chừng cô ấy đã quá quen với cảnh tượng này rồi.
 
-"Chào các con. Dạo này các con có khỏe không?"
+"Chào các em. Dạo này các em có khỏe không?"
 
 Một tràng đồng thanh đáp "Có ạ" rộ lên từ đám trẻ.
 
-"Biết vậy là ta mừng rồi. Đoán xem nào? Hôm nay ta có mang quà đến cho các con đây! Các con vào báo cho Sơ Mel biết ta đã đến được không?"
+"Biết vậy là tôi mừng rồi. Đoán xem nào? Hôm nay tôi có mang quà đến cho các em đây! Các em vào báo cho Sơ Mel biết tôi đã đến được không?"
 
 "Vâng ạ! Đi thôi mọi người ơi!"
 
-Cậu bé có vẻ là đầu sỏ của nhóm liền hò hét dẫn cả đám nháo nhào ùa vào bên trong tòa nhà—nhìn qua thì nơi này vốn là một nhà thờ cũ.
+Cậu bé có vẻ là người dẫn đầu nhóm liền dẫn cả đám nháo nhào ùa vào bên trong tòa nhà—nhìn qua thì nơi này vốn là một nhà thờ cũ.
 
 "Đây là cô nhi viện đúng không?" Lorraine hỏi.
 
@@ -148,7 +148,7 @@ Cô ấy đọc được suy nghĩ của tôi sao?
 
 "Anh có sao không?" người phụ nữ trẻ hỏi. "Tôi xin lỗi vì chuyện của Pochi. Thường ngày nó ngoan ngoãn lắm..."
 
-Chà. Cô ấy toát lên phong thái dịu dàng, khí chất điềm đạm cùng dáng vẻ đoan trang, thuần khiết của một thiếu nữ. Tính gộp tất cả lại, sẽ là hoàn toàn xác đáng nếu miêu tả cô là một tiểu thư vô cùng xuất sắc. Cô hơi lệch gu so với mẫu người của tôi một chút, nhưng nếu hỏi bất kỳ nhóm đàn ông nào xem họ có muốn theo đuổi cô không, thì chắc chắn sẽ nhận được tỷ lệ giơ ngón tay tán thành gần như một trăm phần trăm, Rentt Faina này xin đảm bảo. Những gã còn lại thì sẽ làm bộ làm tịch mà bảo: "Chắc cũng được thôi, nhưng với điều kiện cô ấy phải tỏ tình trước cơ."
+Chà. Cô ấy toát lên phong thái dịu dàng, khí chất điềm đạm cùng dáng vẻ đoan trang, thuần khiết của một thiếu nữ. Tính gộp tất cả lại, sẽ là hoàn toàn xác đáng nếu miêu tả cô là một người phụ nữ tuyệt vời. Cô hơi lệch gu so với mẫu người của tôi một chút, nhưng nếu hỏi bất kỳ nhóm đàn ông nào xem họ có muốn theo đuổi cô không, thì chắc chắn sẽ nhận được tỷ lệ giơ ngón tay tán thành gần như một trăm phần trăm, Rentt Faina này xin đảm bảo. Những gã còn lại thì sẽ làm bộ làm tịch mà bảo: "Chắc cũng được thôi, nhưng với điều kiện cô ấy phải tỏ tình trước cơ."
 
 Đàn ông chúng tôi ngốc nghếch như thế đấy.
 
