@@ -47,6 +47,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 21. **Giọng Myullias Raiza và Gilly (#81).** Myullias mang suy nghĩ tự do, hoài nghi giáo lý và hơi bất cần, ăn nói vô tư lự, độc thoại và đối đáp có nét tự trào hóm hỉnh; Gilly là tư tế giám sát cứng nhắc, kiệm lời, tác phong sắc lạnh như sát thủ nhưng ẩn chứa sự lo lắng, nhắc nhở nghiêm khắc nhưng không thù hằn. Giữ đúng sự tương phản giữa vẻ bất cần của Myullias và sự cứng nhắc của Gilly.
 22. **Tương tác giữa Rentt và Lorraine trong ngoại truyện (#82).** Lorraine hào hứng trêu chọc và đặt biệt danh ngộ nghĩnh ("Rennie", "Ren-Ren") khi Rentt bị ép giả gái; Rentt độc thoại cam chịu, tự trào dí dỏm nhưng giữ nét điềm đạm và âm thầm tính kế trả đũa tài chính bằng cách trích bớt thù lao ủy thác của bạn thân.
 23. **Giọng Rin (#84).** Bạn thuở nhỏ của Rentt; mang nỗi đau mất người chị em sinh đôi Ran nhưng kiên cường, giàu nghị lực; xưng "em - anh / anh Rentt" với Rentt tự nhiên, bộc trực, không dùng kính ngữ "dạ/ạ/vâng" khép nép; lời hứa thi đua cùng Rentt thể hiện quyết tâm kế thừa ước mơ tiệm hoa chứ không bi lụy.
+24. **Giọng Aidi và không khí trường đua chuột (#85).** Aidi là mạo hiểm giả trung niên mê cá cược, ăn nói bộc trực, xuề xòa, dân dã của dân đỏ đen ("bạn hiền", "đặt cửa", "thao thao bất tuyệt"); lời bình luận viên trường đua chuột Puchi Suri giữ nhịp dồn dập, máu lửa, giàu cảm xúc kịch tính ("ôm cua với tốc độ xé gió", "màn so kè nảy lửa"), tránh dịch thô cứng.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -78,6 +79,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (82) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về sự cố bị Lorraine Vivie ép giả gái tham gia cuộc thi sắc đẹp do công đoàn Hội Mạo Hiểm Giả tổ chức.
 - (83) Ngoại truyện Tập 3: nửa đầu (đoạn 1–32) kể theo góc nhìn ngôi thứ nhất ("tôi") của một người dân làng nhớ lại kỷ niệm thuở nhỏ khi làng được hai mạo hiểm giả Rentt và Lorraine giải cứu khỏi Goblin; sau dấu phân cách thứ hai (từ đoạn 33) quay lại ngôi thứ nhất ("tôi") của Rentt Faina trên cỗ xe ngựa trở về Maalt.
 - (84) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời còn là mạo hiểm giả con người mới lên Đồng Cấp, nhận ủy thác hái hoa Tetona cho cặp bạn thân thuở nhỏ Rin và Ran.
+- (85) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về sự cố bị mạo hiểm giả mê cá cược Aidi kéo tới trường đua chuột Puchi Suri và chứng kiến Edel thi đấu giành giải nhất.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.

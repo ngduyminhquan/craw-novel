@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T21:48:19Z",
+  "generatedAt": "2026-11-04T21:54:33Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2662,7 +2662,7 @@
           "number": 85,
           "title": "Chương 85: Ngoại truyện Tập 3 - Cuộc Đua",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_085.md",
-          "sha": "84e356e92e4290f0f356ecc64c5cae860a9e68d1"
+          "sha": "0368a2f75c4fa293dc77db357785c7c89d1874a9"
         },
         {
           "number": 86,

@@ -1,105 +1,105 @@
 # Chương 85: Ngoại truyện Tập 3 - Cuộc Đua
 
-Chuyện xảy ra vào một ngày nọ khi tôi đang rảo bước trên những con phố của Maalt, dẫu rằng trên đầu tôi lúc ấy có Edel đang ngự trị.
+Chuyện xảy ra vào một ngày tôi đang dạo quanh đường phố Maalt, trên đầu có Edel ngồi chễm chệ.
 
-Dẫu là một mạo hiểm giả, lại còn là một mạo hiểm giả bận rộn, tôi cũng không thể nào làm việc suốt ngày đêm được, bởi làm như vậy cũng chẳng giải quyết được bao nhiêu việc. Quả thực dạo gần đây có vô số rắc rối liên tiếp bủa vây lấy tôi, khiến tôi phải tất bật chạy đôn chạy đáo từ sự vụ này sang sự vụ khác. Thế nhưng con người ta luôn tìm cách nghỉ ngơi đôi chút, kẻo sẽ bị đè bẹp dí dưới sức nặng của bổn phận. Quần quật làm việc mà chẳng thu lại được gì—đó chẳng phải là viễn cảnh mà tôi có thể cười trừ cho qua.
+Dù là mạo hiểm giả, lại thuộc diện bận rộn, tôi cũng không thể cày cuốc suốt ngày đêm, vì làm thế cũng chẳng giải quyết thêm được bao nhiêu việc. Đúng là dạo này rắc rối cứ liên tục ập đến, tôi phải chạy đôn chạy đáo hết việc này sang việc nọ. Nhưng con người thì kiểu gì cũng phải tranh thủ nghỉ ngơi đôi chút, kẻo bị gánh nặng công việc đè bẹp dí. Cứ hùng hục làm rồi kiệt sức mà chẳng được tích sự gì thì chẳng có gì đáng cười nổi.
 
-Mặt khác, hiện tại tôi đâu còn là con người nữa. Có lẽ mớ suy nghĩ ấy chẳng qua chỉ là phí hoài thời gian, song chính vào khoảnh khắc đó...
+Có điều, giờ tôi đâu còn là con người. Thành ra nghĩ ngợi mấy chuyện đó có khi cũng chỉ tổ phí công, nhưng đúng lúc ấy...
 
-"Hửm...? Này, cậu đằng kia ơi. Cái thứ trên đầu cậu..." có tiếng ai đó gọi với theo tôi.
+"Hửm...? Này, cậu kia ơi. Cái thứ trên đầu cậu..." có người cất tiếng gọi tôi.
 
-Nói chính xác thì đó là một mạo hiểm giả nam trung niên. Chỉ cần liếc qua là tôi đủ hiểu anh ta không còn là người mới vào nghề. Dù chưa hẳn là một cựu binh dạn dày kinh nghiệm, có lẽ anh ta cũng có chút phán đoán chừng mực. Trang bị và vũ khí trên người anh ta cũng hết sức bình thường, vì thế ít nhất trông anh ta không giống một kẻ nguy hiểm.
+Chính xác thì đó là một mạo hiểm giả trung niên. Chỉ liếc qua là tôi biết ngay anh ta không còn là lính mới. Dù chưa hẳn là bậc lão làng dạn dày kinh nghiệm, chắc anh ta cũng có đủ phán đoán chừng mực. Trang bị và vũ khí trên người cũng hết sức bình thường, ít ra trông không có vẻ gì là nguy hiểm.
 
-Dù vậy, tôi vẫn giữ vững cảnh giác, bởi chỉ một thoáng lơ là sơ hở cũng đủ để kẻ địch phát động tập kích.
+Dù vậy, tôi vẫn không buông lỏng cảnh giác, bởi chỉ một thoáng lơ là cũng đủ để kẻ địch thừa cơ đánh úp.
 
-Chẳng hạn, ngộ nhỡ anh ta đột nhiên hắt Nước Thánh lên người tôi thì sao? Có lẽ thứ đó sẽ phát huy tác dụng lên một Undead thông thường, nhưng với tôi thì hoàn toàn vô dụng. Dẫu vậy, trên thế gian này biết đâu lại có những loại độc dược mang lại hiệu ứng khó lường đối với tôi, hoặc giả tôi không thể miễn nhiễm hoàn toàn với chúng. Tôi không thể loại trừ khả năng ấy. Dĩ nhiên là tôi không trông mong chuyện đó xảy ra, song nếu đôi bên có giao chiến, tôi vẫn tự tin mình sẽ là kẻ giành phần thắng. Dù thế nào đi nữa, tôi vẫn cứ cẩn tắc vô ưu.
+Chẳng hạn, ngộ nhỡ anh ta đột nhiên tạt Nước Thánh vào người tôi thì sao? Undead bình thường dính phải có khi sẽ bị tiêu hao, nhưng với tôi thì vô ích. Biết đâu trên đời lại có những loại độc dược mang lại tác động khó lường lên tôi, hoặc giả tôi không thể miễn nhiễm hoàn toàn với chúng. Tôi không thể bỏ qua khả năng đó. Dĩ nhiên tôi chẳng mong chuyện này xảy ra, nhưng nếu có phải đánh nhau, tôi tự tin mình sẽ giành phần thắng. Dù sao đi nữa, cẩn thận vẫn hơn.
 
-Xét về mọi mặt, người đàn ông này không có vẻ gì là mang ác ý. Anh ta nhìn Edel một lượt, rồi quay sang tôi và nói:
+Nhìn chung thì người đàn ông này không có vẻ gì là thù địch. Anh ta liếc nhìn Edel một cái, rồi quay sang tôi bảo:
 
-"À, phải rồi. Cậu, cậu đang đến trường đua đấy à? Hiểu rồi, ra là thế... Ừ, trông nó giống một con chuột cừ khôi đấy. Tham gia khéo khi còn giật được giải nhất ấy chứ..."
+"À, phải rồi. Cậu... cậu cũng đi xem đua à? Hiểu rồi, ra là thế... Ừ, trông con chuột này cừ phết đấy. Khéo tham gia là giật giải nhất cũng nên..."
 
-Tôi lắc đầu trước lời anh ta nói. Có vẻ người đàn ông này đã hiểu nhầm. Tôi cảm thấy mình nên đính chính cho anh ta hiểu, nhưng chưa kịp mở lời thì anh ta đã kéo tay áo tôi.
+Tôi lắc đầu trước câu nói đó. Rõ ràng là anh ta hiểu nhầm rồi. Tôi tính đính chính lại, nhưng chưa kịp mở lời thì anh ta đã túm lấy tay áo tôi giật giật.
 
-"Ngay cả tôi cũng thấy hứng thú muốn đặt cược cho con chuột của cậu rồi đấy... Hừm. Được rồi, đi lối này! Nhanh lên, tới quầy đăng ký nào! Tôi đặt cược vào cậu đấy, người anh em!" anh ta nói, rồi cứ thế lôi tuột tôi đến một nơi nào đó ngoài ý muốn của tôi.
+"Nhìn là tôi thấy muốn đặt cược cho con chuột của cậu rồi đấy... Hừm. Được rồi, đi lối này! Nhanh lên, tới quầy đăng ký nào! Tôi đặt cửa cậu đấy nhé, bạn hiền!" anh ta vừa nói vừa lôi xềnh xệch tôi tới một nơi nào đó, mặc cho tôi chẳng hề muốn đi.
 
 ◆◇◆◇◆
 
-Từ lời lẽ và thái độ của anh ta, chẳng khó gì để đoán ra người đàn ông này đang tính làm trò gì. Đua, cá cược, đăng ký... Với ngần ấy từ khóa, dẫu có là một kẻ ngốc thì cũng biết anh ta đã nhầm tôi với cái gì. Nơi anh ta dắt tôi đến hiển nhiên cũng là một địa điểm phục vụ cho mục đích ấy.
+Từ lời lẽ và thái độ của anh ta, chẳng khó gì để đoán ra người đàn ông này đang tính làm gì. Đua, cá cược, đăng ký... Chừng ấy từ khóa thì có là kẻ ngốc cũng biết anh ta nhầm tôi là người đi đua chuột. Nơi anh ta kéo tôi tới hiển nhiên cũng dành cho đúng mục đích đó.
 
-Nơi này không nằm trong các con phố của Maalt, mà ở ngay bên ngoài thị trấn, men theo một bức tường thành đặc biệt dài. Một góc của khu rừng gần đó, vốn từng mọc lấn sát tường thành, nay đã bị phạt quang hoàn toàn. Trên khoảng đất trống ấy dựng một đường đua với nhiều dốc nghiêng dựng đứng cùng các đường hầm—một công trình khá đỗi phức tạp.
+Chỗ này không nằm trong phố xá Maalt, mà ở ngay ngoài thị trấn, chạy dọc theo một đoạn tường thành rất dài. Một góc rừng gần đó từng mọc lấn sát tường nay đã được phát quang sạch sẽ. Trên bãi đất trống mọc lên một đường đua có đủ dốc cao và đường hầm, trông khá là cầu kỳ.
 
-Có người hẳn sẽ thắc mắc đường đua này rốt cuộc dùng để làm gì: đua chuột Puchi Suri. Trên thực tế, ngay khoảnh khắc này đang có khoảng sáu con chuột cùng tranh tài, tất cả đều đang lao nhanh về phía vạch đích.
+Đường đua này để làm gì ư? Để đua chuột Puchi Suri. Ngay lúc này, chừng sáu con chuột đang thi nhau cắm đầu cắm cổ lao về đích.
 
-Xung quanh đường đua là từng tốp từng đám đông mạo hiểm giả nam giới, ai nấy đều cầm trên tay những tấm thẻ gỗ đại loại như phỉnh cá cược, hò reo cổ vũ cho những "quán quân" mà mình đã lựa chọn. Chốc chốc, lại có vài người để lộ nét mặt kinh hoàng khi con chuột mà họ chọn bị tụt lại phía sau.
+Đám mạo hiểm giả xúm quanh đường đua, ai nấy đều cầm những tấm thẻ gỗ trông như phỉnh cược, gào thét cổ vũ cho con chuột mình chọn. Thỉnh thoảng, lại thấy mấy gã mặt cắt không còn giọt máu khi con chuột của mình bị rớt lại phía sau.
 
-"Ra là một cuộc đua cá cược..."
+"Ra là đua cá cược..."
 
-"Sao, cậu không biết à?" người đàn ông cạnh tôi cất tiếng.
+"Sao, không biết à?" người đàn ông đứng cạnh tôi hỏi.
 
-Giống như bao người khác, anh ta cũng đang cầm một tấm thẻ gỗ trên tay. Tên anh ta là Aidi, một mạo hiểm giả Đồng Cấp. Dạo gần đây anh ta bị cuốn vào các cuộc đua này, chẳng buồn nhận bất kỳ ủy thác nào nữa. Anh ta chỉ làm việc ở mức tối thiểu tuyệt đối để khỏi bị xóa tên khỏi sổ bộ, nhưng rồi số tiền thưởng kiếm được lại đem ném cả vào cá cược những cuộc đua này.
+Cũng như mọi người, trên tay anh ta đang cầm một tấm thẻ gỗ. Anh ta tên là Aidi, mạo hiểm giả Đồng Cấp. Dạo này anh ta mê mấy vụ đua chuột này đến mụ mị, chẳng buồn nhận ủy thác nào nữa. Cùng lắm chỉ làm việc ở mức tối thiểu để khỏi bị gạch tên khỏi danh sách, rồi có bao nhiêu thù lao lại đem ném sạch vào mấy kèo cá cược này.
 
-"Một nơi như thế này được dựng lên từ bao giờ vậy...?" tôi hỏi.
+"Cái chỗ này dựng lên từ bao giờ thế...?" tôi hỏi.
 
-"Chỗ này á? Mới gần đây thôi. Người ta đồn rằng dạo này lũ Puchi Suri trong thị trấn trở nên ngoan ngoãn hơn—không còn hung hãn như trước nữa này nọ. Thế là có một gã... nảy ra ý định thử xem liệu chúng có chịu nghe theo chỉ thị hay huấn luyện được không. Hóa ra là huấn luyện được thật, thế là gã nhớ tới mấy trò đua thú ở một số khu vực khác... vả lại nếu là chuột thì cũng chẳng tốn nhiều công sức lắm. Thế nên gã mới dựng nên cái chỗ này."
+"Chỗ này á? Mới gần đây thôi. Nghe bảo dạo này lũ Puchi Suri trong thị trấn thuần tính hơn hẳn—không còn hung hăng như trước nữa. Thế là có gã nảy ý... thử xem liệu có bảo được chúng không, có huấn luyện được không. Hóa ra lại được thật, thế là gã nhớ tới mấy trò đua thú ở vài nơi khác... mà dùng chuột thì cũng chẳng tốn mấy công. Thế nên gã mới dựng lên chỗ này đấy."
 
-Tôi cảm thấy như mình đã hiểu ra nguyên do đằng sau mọi chuyện. Năng lực của Edel đã làm biến đổi lũ Puchi Suri ở Maalt, khiến chúng bớt hung hãn đối với con người. Nhưng quan trọng hơn cả là chúng đã có được đôi chút trí thông minh.
+Tôi lờ mờ hiểu ra ngọn nguồn sự việc. Sức mạnh của Edel đã thay đổi bầy Puchi Suri ở Maalt, khiến chúng bớt hung hăng với con người. Nhưng quan trọng hơn là chúng đã khôn ra đôi chút.
 
-Và đây... xem chừng chính là thành quả của tất cả những điều đó.
+Và đây... chính là kết quả của chuyện đó.
 
-Một mặt, chẳng có ai bị thương hay mất mạng trong những sự kiện này, và tôi đồ rằng có thể cứ mặc kệ nó như một thú tiêu khiển đơn thuần. Mặt khác, những người ở đây rõ ràng đã lún sâu vào cơn nghiện đua chuột, bất chấp gia đình họ đang đói rách, hay chính bản thân họ đang dần khánh kiệt. Nghĩ đến đó, tôi lại cảm thấy cắn rứt đôi chút lương tâm.
+Một mặt, trò này chẳng làm ai bị thương hay mất mạng, coi như thú vui vô hại cũng được. Mặt khác, đám người ở đây rõ ràng đã nghiện ngập đến mê muội, mặc kệ người nhà đói khát hay bản thân dần rơi vào cảnh khánh kiệt. Nghĩ vậy, tôi lại thấy hơi cắn rứt lương tâm.
 
-"Quanh khu này đang trở nên xôm tụ lắm đấy, thấy chưa..."
+"Ở đây dạo này xôm tụ lắm đấy, để tôi kể cho nghe..."
 
-Dẫu tôi chỉ đáp lại người đàn ông bằng những câu ậm ừ qua loa, anh ta vẫn thao thao bất tuyệt, dần dà kể về những người anh ta từng chạm mặt và những chuyện tận mắt chứng kiến tại nơi này. Những câu chuyện về những kẻ phất lên giàu có, những kẻ mất trắng cơ nghiệp, và những kẻ dù rỗng túi vẫn lê lết tới trường đua. Tôi khẽ lắc đầu khi anh ta tiếp tục kể về những gã tồi tệ trộm sạch tiền tiết kiệm của người nhà... Toàn là những câu chuyện kỳ quặc, phi lý, vừa bi vừa hài. Có lẽ vài người ở đây sẽ chẳng thấy những câu chuyện ấy buồn cười chút nào.
+Dù tôi chỉ ậm ừ đáp cho qua chuyện, anh ta vẫn huyên thuyên không dứt, rồi bắt đầu kể về những kẻ mình từng gặp và những chuyện mắt thấy tai nghe ở chốn này. Kẻ thì đổi đời phất lên, kẻ thì mất trắng sản nghiệp, lại có kẻ dù cháy túi vẫn ráng lê lết tới đây. Tôi chỉ biết lắc đầu ngao ngán khi nghe kể tiếp về những gã đốn mạt trộm cả tiền dành dụm của người thân... Toàn những chuyện kỳ quặc, phi lý, dở khóc dở cười. Nhưng chắc với vài người ở đây, mấy chuyện đó chẳng có gì đáng cười cả.
 
-Anh ta tiếp tục lảm nhảm thêm một hồi, đãi tôi thêm cả mớ những câu chuyện éo le bất hạnh như thế.
+Anh ta cứ thế lải nhải thêm một lúc, thết đãi tôi bao chuyện éo le tương tự.
 
-"À... Kia rồi. Con chuột của cậu kìa."
+"À... Ra rồi kìa. Con chuột của cậu đấy."
 
-Đúng như dự liệu, Edel đã vào vị trí ở vạch xuất phát cùng những con Puchi Suri khác. Do sự nài nỉ của Aidi, trước đó Edel đã được ghi danh dự thi tại quầy đăng ký. Dĩ nhiên là có lệ phí tham gia; cũng chẳng đáng là bao, và thua thì cũng chẳng bị phạt gì. Tôi nghĩ tặc lưỡi thử một lần chắc cũng không sao, nên mới làm xong thủ tục. Chẳng hiểu vì sao mà Edel lại tỏ ra hào hứng với cả cái trò này đến vậy.
+Đúng như tôi đoán, Edel đã đứng xếp hàng ở vạch xuất phát cùng lũ Puchi Suri khác. Do gã kia nài nỉ quá, nên trước đó tôi đã đăng ký cho Edel ở quầy. Dĩ nhiên phải nộp lệ phí tham gia, nhưng cũng chẳng đáng bao nhiêu, mà thua cũng không bị phạt gì. Nghĩ bụng thử một lần chắc cũng chẳng chết ai, nên tôi mới làm thủ tục. Chẳng hiểu sao mà Edel lại hào hứng với trò này đến thế.
 
-Chẳng bao lâu sau...
+Chẳng mấy chốc...
 
 "Được rồi! Vào vị trí! Một... Hai... XUẤT PHÁT!!!"
 
-Giọng của nhân viên điều hành được khuếch đại lên gấp nhiều lần nhờ vật phẩm cầm trên tay; nếu phải đoán thì có lẽ đó là một ma cụ khai quật từ sâu trong mê cung.
+Nhờ vật phẩm cầm trên tay, giọng của gã nhân viên vang lên oang oang gấp bội; đoán chừng là một ma cụ đào được từ tận đáy mê cung.
 
-Lũ Puchi Suri lập tức lao vút đi, cứ như thể thấu hiểu được ý nghĩa của hiệu lệnh âm thanh đó. Từng con chuột tham gia đều có kích thước cỡ chừng Edel, và tốc độ của chúng quả thực không thể xem thường. Tôi đoán mỗi con trong số chúng hẳn cũng giống như Edel, có cả một bầy chuột nhỏ hơn đi theo hầu hạ trong tổ và hang hốc.
+Lũ Puchi Suri lập tức lao vút đi, như thể hiểu rõ hiệu lệnh vừa rồi. Con nào con nấy to cỡ Edel, và tốc độ thì chẳng phải dạng vừa. Chắc chúng cũng giống Edel, có cả đàn chuột nhỏ hơn theo sau dưới tổ và hang hốc.
 
-Màu lông của chúng có đôi chút khác biệt. Những vệt xám tro, nâu và đen thoăn thoắt phóng vút qua đường đua. Chúng còn có khả năng dùng Ma Lực để cường hóa cơ thể, xét cho cùng thì Puchi Suri vẫn là quái vật mà.
+Màu lông của chúng hơi khác nhau một chút. Những vệt xám, nâu và đen thoăn thoắt lao như tên bắn dọc đường đua. Dù sao Puchi Suri cũng là quái vật, nên chúng đều biết dùng Ma Lực để cường hóa cơ thể.
 
-Dẫu Edel hoàn toàn có thể rút một ít Ma Lực từ tôi để chiếm ưu thế vượt trội trước các đối thủ, chú chuột lại từ chối làm vậy, có lẽ là vì tinh thần thượng võ thể thao. Điều đó khiến tôi cảm thấy cuộc đua này giờ đây cũng đáng xem đôi chút rồi đấy.
+Edel vốn có thể rút chút Ma Lực từ tôi để áp đảo mấy đối thủ cùng đàn, nhưng chú nhóc lại không thèm làm vậy, chắc là để giữ tinh thần thể thao. Nhờ thế mà tôi mới thấy cuộc đua này cũng đáng xem hơn một chút.
 
-"MỌI NGƯỜI NHÌN KÌA! Số một, Jacks Tiger! Nhanh quá! Nó đang bứt phá, ôm những khúc cua với tốc độ hung bạo đến nghẹt thở! Nhưng khoan đã, chuyện gì thế này? Bám sát sạt ngay sau đuôi nó là số hai, Edel! Cơn lốc đen này tuy mới chỉ là thí sinh lần đầu tham chiến, nhưng đang phà hơi nóng ngay sau lưng vua đua chuột Puchi Suri! LIỆU NÓ CÓ ĐUỔI KỊP KHÔNG?!"
+"MỌI NGƯỜI NHÌN KÌA! Số một, Jacks Tiger! Nhanh quá! Nó đang bứt phá, ôm cua với tốc độ xé gió! Nhưng khoan đã, chuyện gì thế này? Bám sát sạt ngay sau đuôi nó là số hai, Edel! Cơn lốc đen này tuy mới lần đầu tham chiến, nhưng đang phà hơi nóng ngay sau lưng vua đua chuột Puchi Suri! LIỆU NÓ CÓ BẮT KỊP KHÔNG?!"
 
-Liếc nhanh một vòng quanh trường đấu, có thể thấy phần lớn khán giả đều đặt cược vào số một—dường như là nhà đương kim vô địch.
+Liếc qua một vòng, tôi thấy phần lớn khán giả đều đặt cửa số một—hình như là đương kim vô địch.
 
-Thế nhưng Aidi lại cầm tấm thẻ số hai, Edel. Đúng như lời anh ta nói; anh ta thực sự đã đặt cược vào chúng tôi.
+Thế nhưng Aidi lại cầm trên tay tấm thẻ số hai của Edel. Đúng như lời gã nói, gã cược cho tụi tôi thật.
 
-"ĐƯỢC LẮM! Lên đi... Lên đi nào!!!"
+"ĐƯỢC LẮM! Cố lên... Lên đi nào!!!"
 
-Aidi chăm chú dõi theo, miệng lẩm bẩm cầu nguyện trong hơi thở. Nét mặt căng thẳng của anh ta chẳng khác nào một mạo hiểm giả đang đối đầu với quái vật hùng mạnh. Thế nhưng thực tế của tình cảnh này lại hoàn toàn khác xa, và sự trớ trêu phi lý của tình huống này quả thực có phần đáng thương hại.
+Aidi chăm chú dõi theo, miệng lẩm bẩm cầu khấn. Vẻ mặt căng thẳng của anh ta chẳng khác gì mạo hiểm giả đang đụng độ quái vật hung tợn. Chỉ có điều thực tế thì hoàn toàn khác xa, và cái cảnh tượng trớ trêu này trông thảm hại không chịu được.
 
-Cuối cùng...
+Và rồi...
 
-"ĐẾN RỒI! Khúc cua CUỐI CÙNG! Đang quẹo... Nó đang quẹo... Kìa! Chúng ta thấy nó rồi! Số một, Jacks Tiger! Liệu cục diện có an bài như...? Ồ? Cái gì thế này? Đang bám sát phía sau và ĐANG ÁP SÁT! Số hai, EDEL! Tốc độ kinh hoàng làm sao! Tôi chưa từng thấy màn rượt đuổi nào như thế này trong lịch sử đua chuột Puchi Suri! Jacks Tiger vẫn rướn lên! Rướn lên trong khi Edel đang áp sát! Nó đang áp sát! Áp sát... CHÚNG ĐÃ NGANG HÀNG! Thời khắc định đoạt đây rồi bà con ơi! MÀN ĐỐI ĐẦU ĐỈNH ĐIỂM! Ai sẽ là người chiến thắng? Số một? Hay số hai...?! SỐ HAI! LÀ SỐ HAIIIIII!!! EDEL ĐÃ CÁN ĐÍCH Ở VỊ TRÍ ĐẦU TIÊN RỒI!!!"
+"ĐẾN RỒI! Khúc cua CUỐI CÙNG! Đang ôm cua... Nó đang ôm cua... Kìa! Thấy rồi! Số một, Jacks Tiger! Liệu mọi chuyện sẽ kết thúc như...? Ồ? Cái gì thế này? Đang bám sát phía sau và ĐANG LAO LÊN! Số hai, EDEL! Tốc độ khủng khiếp quá! Trong lịch sử đua chuột Puchi Suri, tôi chưa từng thấy màn lội ngược dòng nào thế này! Jacks Tiger vẫn rướn lên! Vẫn tiếp tục rướn trong khi Edel đang áp sát! Nó đang áp sát! Gần đến rồi... CHÚNG ĐÃ NGANG NHAU! Thời khắc định đoạt đây rồi bà con ơi! MÀN SO KÈ NẢY LỬA! Ai sẽ là người chiến thắng? Số một? Hay số hai...?! SỐ HAI! LÀ SỐ HAIIIIII!!! EDEL ĐÃ VỀ NHẤT RỒIIII!!!"
 
-Và thế là Edel đã bắt kịp đối thủ, vượt lên trên để cán đích ở vị trí thứ nhất. Ngay khoảnh khắc ấy, Aidi nhảy cẫng lên với một tiếng reo hò đắc thắng.
+Thế là Edel bắt kịp đối thủ, vượt lên giành vị trí quán quân. Ngay lúc đó, Aidi nhảy cẫng lên, hét một tiếng đắc thắng.
 
-"TUYỆT VỜIIIIIIIIIIIIIII!!!"
+"THẮNG RỒIIIIIIIIIIIIII!!!"
 
-Aidi giương nắm đấm lên không trung ăn mừng chiến thắng của mình, hoàn toàn trái ngược với cả một biển người mang nét mặt thất vọng tràn trề, cùng một đống thẻ cược bị vứt chỏng chơ dưới đất. Những tấm thẻ rơi vãi sau đó được vài người đàn ông mà tôi đoán là nhân viên gom lại, nhiều khả năng là để tái sử dụng hoặc cho một mục đích nào đó.
+Aidi giơ nắm đấm lên trời ăn mừng chiến thắng, trái ngược hoàn toàn với vẻ mặt thất vọng não nề của đám đông xung quanh và đống thẻ cược bị vứt lăn lóc dưới đất. Mấy người đàn ông trông như nhân viên sau đó đến gom thẻ lại, chắc là để tái sử dụng hay gì đó.
 
-Hừm. Quả là rất biết bảo vệ môi trường.
+Hừm. Đúng là rất biết tiết kiệm.
 
-"Chúng ta làm được rồi! Thực sự làm được rồi! Thế này là tôi có thể xả hơi ăn chơi thêm một dạo nữa rồi... Phần tiền thưởng của cậu cũng có đấy nhé! Khi nào thích thì lại ghé chơi, tôi nhất định sẽ lại đặt cược vào cậu đấy!" Aidi tươi cười hớn hở nói.
+"Thắng rồi! Thắng thật rồi! Quả này tôi lại tha hồ ăn chơi phè phỡn thêm một dạo... Có cả phần tiền thưởng cho cậu đấy nhé! Khi nào thích thì lại ghé, tôi nhất định sẽ đặt cửa cậu tiếp!" Aidi cười toe toét bảo.
 
-Chuyện đó thì cũng được thôi, tôi nghĩ bụng, song dù xét theo bất kỳ tiêu chuẩn nào thì Edel cũng là một con Puchi Suri đã được cường hóa. Như vậy chẳng phải là phạm quy hay sao? Dù sao đi nữa, quy định ở đây cũng chẳng có điều khoản chi tiết nào rõ ràng. Giờ tôi cũng chẳng buồn bận tâm đến chuyện đó làm gì.
+Được thế thì tốt, nhưng nói gì thì nói, Edel thực chất là một con Puchi Suri đã được cường hóa. Làm thế không tính là phạm quy đấy chứ? Dù sao ở đây cũng chẳng có quy định chi tiết nào. Thôi thì tôi cũng chẳng hơi đâu bận tâm làm gì.
 
-Đó là cách mà tôi biết đến hình thức giải trí mới lạ lùng này tại Maalt. Liệu những cảnh tượng kỳ lạ khác có sớm mọc lên ở thị trấn nhỏ bé này nữa không? Chẳng hiểu vì lý do này hay lý do khác, tôi cảm thấy như một làn sóng đổi thay đang tràn qua Maalt.
+Cơ duyên tôi biết đến cái trò giải trí kỳ lạ mới này ở Maalt là như thế đấy. Liệu rồi thị trấn nhỏ bé này có còn mọc ra những trò quái lạ nào nữa không? Chẳng rõ vì sao, nhưng tôi có cảm giác một làn sóng đổi thay đang dần quét qua Maalt.
 
-Dĩ nhiên, tôi không thể khẳng định chắc chắn điều gì đang mang lại những đổi thay này. Phải rồi, tôi chẳng biết gì sất... Đâu phải cứ hễ có những chuyện kỳ lạ xảy ra xung quanh tôi thì có nghĩa là tôi phải chịu trách nhiệm cho bất kỳ điều gì trong số đó. Đúng thế, tôi chẳng liên quan gì hết.
+Dĩ nhiên tôi đâu dám chắc điều gì đã dẫn tới những đổi thay này. Phải rồi, tôi chẳng biết gì sất... Đâu phải cứ quanh tôi xuất hiện chuyện kỳ lạ thì tôi phải chịu trách nhiệm. Đúng thế, chắc chắn không phải do tôi rồi.
 
-Với số tiền thưởng nhận được, Edel bảo tôi mua những món ăn hợp khẩu vị của chú chuột. Với số tiền còn lại, tôi mua một chai rượu ngon lâu năm, rồi cùng Lorraine chia nhau thưởng thức.
+Bằng số tiền thưởng đó, tôi mua cho Edel mấy món khoái khẩu theo ý nó. Số tiền còn lại, tôi mua một chai rượu vang lâu năm hảo hạng để cùng nhâm nhi với Lorraine.
 
-Thật không ngờ cũng có ngày này! Một quyến thuộc tự chi trả mọi chi phí sinh hoạt cho chính nó... Ha. Đúng là một chú chuột cừ khôi.
+Ai mà ngờ cũng có ngày này chứ! Quyến thuộc tự kiếm tiền nuôi thân... Ha. Đúng là một chú chuột cừ khôi.
