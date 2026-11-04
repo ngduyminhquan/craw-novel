@@ -1,6 +1,6 @@
 # Chương 77: Tập 3 Chương 4 - Ma Thuật (1)
 
-Giờ đây tôi đã có thể thi triển ma thuật, chắc cũng ngang tầm một ma pháp sư đàng hoàng. Về cơ bản thì làm được đấy, nhưng tôi vẫn thấy khó khăn trăm bề, chủ yếu vì mảng kiến thức lý thuyết về ma thuật của mình hổng quá nặng. Chỉ cần chịu khó dùi mài thêm đôi chút, rồi mọi thứ ắt sẽ đâu vào đấy thôi. Tôi cũng đã nhờ Lorraine phụ đạo thêm cho, và thế là chẳng biết từ lúc nào, tôi đã ngồi học chung một lớp với Alize.
+Giờ đây tôi đã có thể thi triển ma thuật, chắc cũng ngang tầm một ma pháp sư thực thụ. Về lý thuyết thì làm được đấy, nhưng thực tế tôi vẫn thấy rất chật vật, chủ yếu vì kiến thức lý thuyết về ma thuật của mình còn thiếu hụt trầm trọng. Tôi chỉ cần học thêm đôi chút là mọi thứ sẽ tự khắc xuôi chèo mát mái thôi. Tôi cũng đã nhờ Lorraine kèm thêm cho mình, và chẳng biết từ lúc nào đã thấy mình ngồi học chung một lớp với Alize.
 
 Lorraine thì nhận tôi làm học trò ngay tắp lự, có điều cô lại bảo tôi phải đóng học phí gấp đôi.
 
@@ -12,7 +12,7 @@ Cơ mà kẻ ăn nhờ ở đậu như tôi thì lấy tư cách gì mà đòi h
 
 Trước hết, trên thực tế chỉ có hai con đường để học ma thuật: hoặc là bái một ma pháp sư có tiếng làm thầy, hoặc là vào học viện ma thuật. Cả hai lựa chọn ấy đều ngốn tới hàng chục đồng vàng, chẳng phải con số nhỏ chút nào. So với mức đó, học phí Lorraine lấy rẻ chẳng khác nào làm từ thiện, khéo còn rẻ quá mức ấy chứ.
 
-Dù thế nào thì tôi cũng dám chắc Lorraine đã giảm giá cho chúng tôi kha khá rồi... Thế nên bây giờ tôi và Alize mới ngồi ngay ngắn trước mặt Lorraine, lắng nghe bài giảng đầu tiên của cô. Nhân tiện, bài giảng này còn có cả tên đàng hoàng: "Bài Giảng Ma Thuật Khai Môn ~Giải Mã Ma Thuật! Đến Cả Goblin Cũng Hiểu Được~". Cái tựa đề ấy là do chính Lorraine tự nghĩ ra đấy.
+Dù thế nào thì tôi cũng dám chắc Lorraine đã giảm giá cho chúng tôi kha khá rồi... Thế nên bây giờ tôi và Alize mới ngồi ngay ngắn trước mặt Lorraine, lắng nghe bài giảng đầu tiên của cô. Nhân tiện, bài giảng này còn có cả tên đàng hoàng: "Bài Giảng Ma Thuật Đầu Tiên ~Giải Mã Ma Thuật! Đến Cả Goblin Cũng Hiểu Được~". Cái tựa đề ấy là do chính Lorraine tự nghĩ ra đấy.
 
 Vừa mở đầu, Lorraine đã đặt ngay một câu hỏi cho cả hai. Tôi toan lên tiếng trả lời thì bị một giọng nói lanh lảnh chen ngang.
 
@@ -50,17 +50,17 @@ Rentt Faina này vốn ghét nhất là thua. Thua một lần thì được, ch
 
 Đến cả giọng điệu cũng ngán ngẩm chẳng kém.
 
-"Nếu dung lượng Ma Lực ít ỏi," tôi nhanh nhảu trả lời, "thì các loại ma pháp một người có thể thi triển sẽ bị hạn chế. Chẳng hạn, người đó chỉ dùng được ma pháp vặt cùng những phép thuật yếu ớt khác, đôi khi còn được gọi là Ma Thuật Sinh Hoạt. Họ cũng không thể thi triển bất kỳ loại ma pháp tấn công nào—những trường hợp như thế vốn rất phổ biến. Thật ra trước đây tôi cũng từng như vậy."
+"Nếu dung lượng Ma Lực ít ỏi," tôi nhanh nhảu trả lời, "thì các loại ma pháp một người có thể thi triển sẽ bị hạn chế. Chẳng hạn, người đó chỉ dùng được ma pháp vặt cùng những phép thuật yếu ớt khác, đôi khi còn được gọi là Ma Thuật Sinh Hoạt. Họ cũng không thể thi triển bất kỳ loại ma pháp tấn công nào, những trường hợp như thế vốn rất phổ biến. Thật ra trước đây tôi cũng từng như vậy."
 
 "Phải, giỏi lắm. Hài lòng rồi chứ gì, Rentt?" Lorraine nói, vẻ mặt lộ rõ vẻ chẳng mảy may ấn tượng.
 
 Có điều, vế cuối trong câu trả lời của tôi dường như đã thu hút sự chú ý của Alize.
 
-"Ơ? Thật thế ạ? Trước đây anh gần như chẳng làm được gì thật sao, anh Rentt?" cô bé thắc mắc, chẳng buồn giấu vẻ ngạc nhiên.
+"Ơ? Thật thế hả? Trước đây anh gần như chẳng làm được gì thật sao, anh Rentt?" cô bé thắc mắc, chẳng buồn giấu vẻ ngạc nhiên.
 
 Gì chứ, bộ con bé coi tôi là đấng toàn năng hay siêu nhân phương nào chắc?
 
-Con bé đã quay lại với cách nói chuyện tự nhiên thường ngày sau khi tôi bảo cứ thoải mái là chính mình. Ngay cả Lorraine cũng đồng tình—ít nhất là ngoài giờ học. Còn trong lúc học ma thuật, cô bé phải gọi Lorraine là "Học Sĩ" và tuân thủ đủ mọi lễ nghi phép tắc... một mớ quy củ kỳ quặc mà đến cả tôi cũng bị bắt phải theo.
+Cô bé đã quay lại với cách nói chuyện tự nhiên thường ngày sau khi tôi bảo cứ thoải mái là chính mình. Ngay cả Lorraine cũng đồng tình, ít nhất là ngoài giờ học. Còn trong lúc học ma thuật, cô bé phải gọi Lorraine là "Học Sĩ" và tuân thủ đủ mọi lễ nghi phép tắc... một mớ quy củ kỳ quặc mà đến cả tôi cũng bị bắt phải theo.
 
 Theo lời Lorraine thì mấy thứ lề thói đó vốn rất đỗi bình thường ở những ngôi trường cô từng theo học thời niên thiếu.
 
@@ -68,7 +68,7 @@ Không biết trường lớp ở Vương Quốc Yaaran thường như thế nà
 
 Tôi chưa từng một lần đặt chân vào chốn học đường nào nên chẳng rõ. Những buổi hướng dẫn ở Hội Mạo Hiểm Giả thì khá xuề xòa, ai nấy đều được đối xử bình đẳng bất kể tuổi tác hay kinh nghiệm. Thành thử việc Lorraine khăng khăng bắt tuân theo mấy kiểu xưng hô này lại đem đến cảm giác mới mẻ đến lạ kỳ.
 
-"Anh nào có toàn năng đâu, Alize. Thật ra ngay cả bây giờ anh cũng có khối việc chẳng làm nổi đấy chứ."
+"Tôi nào có toàn năng đâu, Alize. Thật ra ngay cả bây giờ tôi cũng có khối việc chẳng làm nổi đấy chứ."
 
 Alize có vẻ không tin cho lắm. Lorraine bèn chen vào, vừa nói vừa gật đầu.
 
@@ -90,17 +90,17 @@ Tôi thầm nghĩ đó đúng là một cách hay để giấu giếm sự thậ
 
 Tuy dung lượng Ma Lực của phần lớn mọi người gần như chẳng bao giờ suy chuyển, nhưng người ta vẫn hoàn toàn có thể gia tăng nó bằng những cách đặc biệt. Có điều phương pháp nào cũng đầy rẫy hiểm nguy và thường phải trả giá đắt. Chưa kể còn do may rủi; sơ sẩy một cái là lành ít dữ nhiều.
 
-Đơn cử như linh dược Ma Lực vốn cực kỳ khó kiếm, mà dẫu có xuất hiện thì cũng bị đẩy giá lên tận mây xanh ở các buổi đấu giá. Còn bảo hạ gục một con quái thú tầm cỡ huyền thoại để đoạt lấy sức mạnh thì quả là chuyện xa vời, nếu không muốn nói là bất khả thi. Lời chúc phúc của loài tiên hay thần linh thì hoàn toàn phụ thuộc vào may rủi, mà trên đời làm gì có chuyện người may mắn tự dưng từ trên trời rơi xuống. Cuối cùng, lập khế ước với ác quỷ thì nguy hiểm khôn cùng, có bao nhiêu mạng cũng chẳng đủ đền. Nếu mọi chuyện đơn giản thế thì thời còn sống tôi đã tăng được dung lượng Ma Lực từ lâu rồi.
+Đơn cử như linh dược Ma Lực vốn cực kỳ khó kiếm, mà dẫu có xuất hiện thì cũng bị đẩy giá lên tận mây xanh ở các buổi đấu giá. Còn bảo hạ gục một con quái thú tầm cỡ huyền thoại để đoạt lấy sức mạnh thì quả là chuyện xa vời, nếu không muốn nói là bất khả thi. Lời chúc phúc của loài tiên hay thần linh thì hoàn toàn phụ thuộc vào may rủi, mà người may mắn như thế đâu phải lúc nào cũng sẵn. Cuối cùng, lập khế ước với ác quỷ thì nguy hiểm khôn cùng, có bao nhiêu mạng cũng chẳng đủ đền. Nếu mọi chuyện đơn giản thế thì thời còn sống tôi đã tăng được dung lượng Ma Lực từ lâu rồi.
 
 Trước đây tôi liên tục săn quái và hấp thu sức mạnh của chúng, nhưng lượng tăng lên khá lắm thì cũng chỉ như muối bỏ bể. Chém giết Goblin cùng đủ thứ quái suốt mười năm ròng, tôi vẫn chẳng thấy Ma Lực của mình có gì khác biệt.
 
 Dù sao đi nữa, săn quái có lẽ vẫn là con đường thẳng thắn nhất, chỉ là sau đó tôi bị nuốt chửng rồi mất mạng, thế nên mới ra nông nỗi này đây.
 
-"Trường hợp của anh thì chẳng có gì đặc biệt cả. Chắc đơn thuần do may mắn nên nó mới đột ngột tăng lên thôi," tôi bảo Alize.
+"Trường hợp của tôi thì chẳng có gì đặc biệt cả. Chắc đơn thuần do may mắn nên nó mới đột ngột tăng lên thôi," tôi bảo Alize.
 
-Đúng như Lorraine nói, họa hoằn lắm mới có những trường hợp ngoại lệ. Chẳng ai dám khẳng định chuyện đó tuyệt đối không thể xảy ra, và điều ấy hoàn toàn khớp với lời giải thích của Lorraine. Dù sao thì hiểu biết của Alize về ma thuật vẫn còn khá nông cạn.
+Đúng như Lorraine nói, trong những trường hợp cực kỳ hiếm hoi thì ngoại lệ vẫn có thể xảy ra. Chẳng ai dám khẳng định chuyện đó tuyệt đối không thể xảy đến, và điều ấy hoàn toàn khớp với lời giải thích của Lorraine. Dù sao thì hiểu biết của Alize về ma thuật vẫn còn khá hạn chế.
 
-"Ồ... vậy ra là thế ạ? Thảo nào giờ anh lại ngồi học chung với em, anh Rentt..." cô bé nói, có vẻ đã xuôi tai.
+"Ồ... ra là thế? Thảo nào giờ anh lại ngồi học chung với em, anh Rentt..." cô bé nói, có vẻ đã xuôi tai.
 
 Chắc rồi cũng đến ngày Alize nhận ra tôi có điểm kỳ quặc hay khác thường, nhưng thôi, để khi khác giải thích sau vậy...
 
@@ -110,7 +110,7 @@ Chắc rồi cũng đến ngày Alize nhận ra tôi có điểm kỳ quặc hay
 
 "Dạ không..." Alize chậm rãi lắc đầu. "Em chẳng cảm thấy gì cả. Dạ... thưa Học Sĩ Lorraine. Liệu có phải em không có tư chất làm ma pháp sư không ạ...?"
 
-Gương mặt Alize lộ rõ vẻ bất an, cứ như cánh cửa vừa hé mở trước mắt cô bé nay đã bị dập sầm lại ngay trước mũi. Hiểu theo nghĩa đen lời Lorraine vừa nói thì quả thật đáng buồn cho Alize, bởi nếu không cảm nhận được Ma Lực trong người thì cô bé chẳng thể nào trở thành ma pháp sư. Dễ hiểu vì sao con bé lại sợ hãi đến vậy.
+Gương mặt Alize lộ rõ vẻ bất an, cứ như cánh cửa vừa hé mở trước mắt cô bé nay đã bị dập sầm lại ngay trước mũi. Hiểu theo nghĩa đen lời Lorraine vừa nói thì quả thật đáng buồn cho Alize, bởi nếu không cảm nhận được Ma Lực trong người thì cô bé chẳng thể nào trở thành ma pháp sư. Dễ hiểu vì sao cô bé lại sợ hãi đến vậy.
 
 Thế nhưng Lorraine chỉ khẽ lắc đầu, mỉm cười trấn an cô học trò mới.
 
@@ -124,11 +124,11 @@ Dù tôi quay sang trừng mắt nhìn thẳng khi cô nói câu đó, nhưng d�
 
 "Vậy còn anh Rentt thì sao ạ...?"
 
-Đoán ngay là con bé sẽ hỏi tiếp câu đó mà...
+Đoán ngay là cô bé sẽ hỏi tiếp câu đó mà...
 
-"Dĩ nhiên là anh không được như thế rồi, Alize. Anh chỉ là người bình thường thôi mà."
+"Dĩ nhiên là tôi không được như thế rồi, Alize. Tôi chỉ là người bình thường thôi mà."
 
-Ở một chừng mực nào đó thì đúng là thế thật. Dù trong người có sẵn Ma Lực, tôi lại chẳng biết làm sao để vận dụng. Chắc mẩm Alize sẽ hỏi tiếp xem vậy thì làm sao tôi dùng được Ma Lực vào việc khác, và quả nhiên con bé cất lời thật.
+Ở một chừng mực nào đó thì đúng là thế thật. Dù trong người có sẵn Ma Lực, tôi lại chẳng biết làm sao để vận dụng. Chắc mẩm Alize sẽ hỏi tiếp xem vậy thì làm sao tôi dùng được Ma Lực vào việc khác, và quả nhiên cô bé cất lời thật.
 
 "Vậy nếu không thể tự mình khơi mở Ma Lực thì người ta phải làm thế nào ạ?"
 
@@ -146,7 +146,7 @@ Có lẽ thấy cả hai cách Lorraine kể đều có điểm phiền toái n�
 
 "Hả?"
 
-"Em biết có những con quái vật biết dùng ma pháp chứ? Từ sơ khai cho tới phức tạp... Chà, ma pháp phức tạp cỡ nào thì phần lớn tùy thuộc vào chủng loài của quái vật. Chẳng hạn như loài Pháp Sư Goblin điển hình—ma pháp của chúng rất sơ sài, đúng không? Nhưng chúng thực sự biết dùng ma thuật... ở một chừng mực nào đó."
+"Em biết có những con quái vật biết dùng ma pháp chứ? Từ sơ khai cho tới phức tạp... Chà, ma pháp phức tạp cỡ nào thì phần lớn tùy thuộc vào chủng loài của quái vật. Chẳng hạn như loài Pháp Sư Goblin điển hình, ma pháp của chúng rất sơ sài, đúng không? Nhưng chúng thực sự biết dùng ma thuật... ở một chừng mực nào đó."
 
 "D-Dạ biết, nhưng mà... dùng thân mình hứng đòn... ạ?"
 
@@ -168,27 +168,27 @@ Lorraine đột ngột giơ chiếc đũa chỉ bảng lên.
 
 "Ồ, sao lại không chứ! Kìa, có một người đang ngồi lù lù ngay cạnh em đấy thôi."
 
-Chiếc đũa phép đang giơ lên giờ chĩa thẳng tắp và đầy chủ ý về phía tôi. Alize tròn xoe mắt, kinh ngạc đến mức chết sững. Cứ như thể con bé vừa nhìn thấy một con Rồng hay loài thần thú nào đó xuất hiện giữa phố xá Maalt vậy.
+Chiếc đũa phép đang giơ lên giờ chĩa thẳng tắp và đầy chủ ý về phía tôi. Alize tròn xoe mắt, kinh ngạc đến mức chết sững. Cứ như thể cô bé vừa nhìn thấy một con Rồng hay loài quái thú thần thoại nào đó xuất hiện giữa phố xá Maalt vậy.
 
 Dù sững sờ đến mức không thốt nên lời, nhưng ánh mắt Alize rõ ràng đang tự hỏi xem đầu óc tôi có bình thường không. Cơ mà thật ra tôi vẫn tỉnh táo chán đấy chứ. Chẳng qua thỉnh thoảng tôi lại thèm uống máu tươi một chút thôi. Chính tôi cũng biết đó chỉ là ngụy biện, nhưng lúc này buộc phải mở miệng nói gì đó.
 
-"Thì hồi đó anh cũng từng thử những cách phổ biến hơn rồi chứ bộ. Ngôi làng nơi anh sinh ra bé tí tẹo, thành thử hiếm ai biết dùng ma pháp, nói gì đến ma thuật phức tạp. Dẫu có muốn học thì ở đó cũng lấy đâu ra người dạy... Em thấy đấy, anh đành phải tự mình tìm cách xoay xở thôi."
+"Thì hồi đó tôi cũng từng thử những cách thông thường hơn rồi. Ngôi làng nơi tôi sinh ra khá nhỏ, thành thử hiếm ai biết dùng ma pháp, nói gì đến ma thuật phức tạp. Dẫu có xin học thì ở đó cũng lấy đâu ra người dạy... Thế nên tôi đành phải tự mình tìm cách xoay xở thôi."
 
 Có điều, vào thời điểm trở thành mạo hiểm giả, tôi đã có thể biến Ma Lực thành nước và thỉnh thoảng bắn ra được một hai tia lửa. Chẳng phải tôi không lường trước hiểm nguy, nhưng dù sao tôi cũng đã tìm hiểu kỹ các cách để đánh thức nguồn Ma Lực trong người, rồi tự mình quyết định đánh cược.
 
 Nói đơn giản là tôi đã đi tìm một con Pháp Sư Goblin quanh làng, rồi lấy mặt hứng trọn một đòn ma pháp của nó. Dù cuối cùng cũng cảm nhận được Ma Lực trong người thật, nhưng nghĩ lại thì đúng là liều mạng hết chỗ nói. Đến tôi còn phải ngạc nhiên vì mình vẫn sống nhăn răng tới tận bây giờ.
 
-Nhưng tôi đâu có làm bừa. Hồi đó tôi nghe đồn trong rừng có một con Pháp Sư Goblin đã già khú đế. Ma pháp của nó đã suy yếu vì tuổi tác, và tôi đã tiếp cận nó hết sức cẩn thận. Đòn ma pháp tôi hứng phải chẳng qua chỉ là một cú Gie Vieros be bé. Đã thế tôi còn trúng đòn ở vị trí tương đối an toàn, ngoài việc để lại một vết sẹo nhỏ ở bụng thì chẳng hề hấn gì. Nhờ vậy mà tôi chuồn êm một cách dễ dàng.
+Nhưng tôi đâu có làm bừa. Hồi đó tôi nghe đồn trong rừng có một con Pháp Sư Goblin già sống ở đó. Ma pháp của nó đã suy yếu vì tuổi tác, và tôi đã tiếp cận nó hết sức cẩn thận. Đòn ma pháp tôi hứng phải chẳng qua chỉ là một cú Gie Vieros be bé. Đã thế tôi còn trúng đòn ở vị trí tương đối an toàn, ngoài việc để lại một vết sẹo nhỏ ở bụng thì chẳng hề hấn gì. Nhờ vậy mà tôi dễ dàng rút lui an toàn.
 
 Sau vụ đó, nghe đâu tôi lết về nhà rồi ngất lịm đi, suốt mấy ngày liền vật lộn với những cơn sốt li bì mê man, ít ra thì người ta kể lại như thế. Thậm chí có người còn bảo tôi sốt đến mức hôn mê bất tỉnh.
 
 Nghĩ lại thì suốt ngần ấy năm qua tôi chưa từng nghe tin con Pháp Sư Goblin đó bị ai săn hạ; biết đâu chừng nó vẫn còn sống. Nếu đúng thế thật thì có khi tôi phải ghé thăm rồi cảm ơn nó một tiếng mới phải đạo.
 
-Tôi kể cho Alize nghe đầu đuôi như thế. Nhưng con bé chẳng hề thấy hay ho gì, trái lại còn quay sang nhìn Lorraine với vẻ mặt vừa cạn lời vừa khiếp hãi.
+Tôi kể cho Alize nghe đầu đuôi như thế. Nhưng cô bé chẳng hề thấy hay ho gì, trái lại còn quay sang nhìn Lorraine với vẻ mặt vừa cạn lời vừa khiếp hãi.
 
 "Em... em không muốn học ma thuật theo kiểu đó đâu ạ."
 
-Con bé thẳng thừng từ chối phương pháp của tôi như thế đấy. Phũ ghê.
+Cô bé thẳng thừng từ chối phương pháp của tôi như thế đấy. Phũ ghê.
 
 Hay là... kẻ quá quắt ở đây lại chính là tôi nhỉ...?
 
