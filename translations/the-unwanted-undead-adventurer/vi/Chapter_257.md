@@ -94,7 +94,7 @@ Fuana "Thông Ma Pháp" dường như quyết định rằng cuối cùng cũng 
 
 Ánh mắt ông lão thoáng xa xăm trong giây lát khi hồi tưởng lại quá khứ, rồi ông gật đầu sau khi tìm thấy câu trả lời mà mình tìm kiếm. "Chưa. Của cô thiếu lực."
 
-"Thiếu lực á?! Tôi có thể thổi bay cả một bức tường thành đấy! Hứ! Thật không thể tin nổi! Ông đang bảo với tôi rằng ông cùng độ trâu bò quái vật của mình lại bị khuất phục bởi ma pháp của một tên Ngân Cấp duy nhất ư?! Tuyệt đối không thể nào!"
+"Thiếu lực á?! Tôi có thể thổi bay cả một bức tường thành đấy! Hứ! Thật không thể tin nổi! Ông đang bảo với tôi rằng ông cùng sức chống chịu quái vật của mình lại bị khuất phục bởi ma pháp của một tên Ngân Cấp duy nhất ư?! Tuyệt đối không thể nào!"
 
 Tôi không khỏi ấn tượng trước việc với cái thân hình nhỏ bé dường ấy mà cô ta lại có thể phát ra âm lượng to đến mức đó.
 
@@ -180,7 +180,7 @@ Dĩ nhiên, tốt nhất là tôi đấu với Vaasa, còn Lorraine tiếp Fuana
 
 Nếu chúng tôi nhường quyền lựa chọn cho họ, Fuana vốn có hứng thú với ma pháp sẽ chọn Lorraine, và khi đó Vaasa sẽ dành phần tôi. Dù sao thì kế hoạch là như thế.
 
-Để hỗ trợ cho kế hoạch, ông lão bèn bồi thêm một câu của mình. "Ồ, phải rồi. Lorraine đây đúng là người đã hạ gục ta bằng những ma pháp hùng mạnh của cô ấy, nhưng cô ấy không đánh bất tỉnh ta. Mà chính Rentt ở đây mới là người kết liễu ta. Bằng một thanh kiếm, không hơn không kém."
+Để hỗ trợ cho kế hoạch, ông lão bèn bồi thêm một câu của mình. "Ồ, phải rồi. Lorraine đây đúng là người đã hạ gục ta bằng những ma pháp hùng mạnh của cô ấy, nhưng cô ấy không đánh bất tỉnh ta. Mà chính Rentt ở đây mới là người tung đòn dứt điểm ta. Bằng một thanh kiếm, không hơn không kém."
 
 Ông vừa dứt lời thì...
 
@@ -190,7 +190,7 @@ Nếu chúng tôi nhường quyền lựa chọn cho họ, Fuana vốn có hứn
 
 "Có hề gì chứ? Chẳng phải cô bảo mình rất có hứng thú với ma pháp sư sao? Nếu họ không nói dối, thì cô ấy có thể thi triển cả đống ma pháp cực nhanh với hỏa lực còn mạnh hơn cả của cô đấy. Dù tôi thì chẳng tin điều đó là thật đâu."
 
-"Hừm... Tôi đoán là cậu nói đúng!" Fuana lập tức gật đầu lia lịa. "Được rồi, vậy thì ta sẽ tiếp cô, quý cô đằng kia! Rõ chưa?!"
+"Hừm... Tôi đoán là cậu nói đúng!" Fuana lập tức gật đầu lia lịa. "Được rồi, vậy thì tôi sẽ tiếp cô, quý cô đằng kia! Rõ chưa?!"
 
 Đối với một kẻ được gọi là "Thông Ma Pháp", cô ta trông chẳng có vẻ gì là thông minh cả. Dù thế nào đi nữa, hùa theo họ cũng tiện cho chúng tôi. Mọi chuyện đều đang diễn ra đúng như dự tính của chúng tôi, thế nên cả Lorraine lẫn tôi đều không hề đưa ra bất kỳ phản đối nào.
 

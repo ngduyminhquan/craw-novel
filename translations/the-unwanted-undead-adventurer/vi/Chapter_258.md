@@ -8,7 +8,7 @@ Vì bất kỳ ai trong tổ chức cũng đều có thể vận hành chúng n�
 
 Trái lại, hai người bọn họ chẳng hề hay biết gì về điều này. Fuana lúc này đang ngồi trên khán đài, trông có vẻ háo hức chờ xem trận đấu sắp tới, còn Vaasa thì đứng ngay trước mặt tôi với cây giáo lăm lăm trên tay ở tư thế sẵn sàng.
 
-Nếu người ta chưa đoán ra, thì cậu ta là một giáo thủ. Tôi thì vẫn vung thanh kiếm một tay như thường lệ, dẫu rằng đó là thanh kiếm không thể truyền Ma Lực hay Thần Lực. Dù vậy, đằng nào Ma Lực cũng chẳng có tác dụng với cậu ta, nên việc tôi không thể dùng được nó cũng chẳng thành vấn đề. Còn về Thần Lực, hiện tại tôi muốn tiếp tục giấu kín nó. Tôi đâu thể tùy tiện tung ra mọi con át chủ bài của mình. Tôi từng làm thế khi đối đầu với ông lão, nhưng đó là bởi ông ấy đã dồn chúng tôi vào đường cùng.
+Nếu người ta chưa đoán ra, thì cậu ta là một giáo thủ. Tôi thì vẫn cầm thanh kiếm một tay như thường lệ, dẫu rằng đó là thanh kiếm không thể truyền Ma Lực hay Thần Lực. Dù vậy, đằng nào Ma Lực cũng chẳng có tác dụng với cậu ta, nên việc tôi không thể dùng được nó cũng chẳng thành vấn đề. Còn về Thần Lực, hiện tại tôi muốn tiếp tục giấu kín nó. Tôi đâu thể tùy tiện tung ra mọi con át chủ bài của mình. Tôi từng làm thế khi đối đầu với ông lão, nhưng đó là bởi ông ấy đã dồn chúng tôi vào đường cùng.
 
 Không phải là tôi quá tự tin. Nói đúng hơn, chính vì không tự tin nên tôi mới phải cất công giấu giếm các ngón đòn của mình. Dù rằng nếu hóa ra tôi phán đoán sai lầm và chuốc lấy thất bại vì chuyện đó thì mọi tính toán cũng coi như vứt đi.
 
@@ -52,7 +52,7 @@ Dĩ nhiên, tôi vẫn là người nắm thế chủ động. Tôi phát độn
 
 Bất chợt, một linh cảm xấu ập đến. Nơi khóe mắt, tôi thoáng bắt gặp khóe miệng của Vaasa: cậu ta đang cười. Đúng lúc ấy, tôi nhận ra mình cảm nhận được thứ gì đó đang lao về phía mạn sườn trái của tôi.
 
-Tôi phải suy nghĩ thật nhanh. Tôi né được ngọn giáo, và mũi giáo tiếp tục sượt xuống hướng bên phải tôi. Trông Vaasa không có vẻ gì là đang làm thêm hành động nào khác, nhưng tôi đã lờ mờ đoán ra lý do tại sao cậu ta lại chịu để mình bị mồi nhử vào tình huống này. Đó là nhờ dị năng của cậu ta. Phán đoán của tôi được chứng minh là chuẩn xác khi tôi liếc nhanh sang bên trái và trông thấy hàng loạt lưỡi dao găm lấp lánh đang lao vun vút về phía mình. Chúng bắt đầu chuyển động ngay sau nhịp thở tôi vừa né xong ngọn giáo, và tốc độ của chúng cực kỳ nhanh.
+Tôi phải suy nghĩ thật nhanh. Tôi né được ngọn giáo, và mũi giáo tiếp tục sượt xuống hướng bên phải tôi. Trông Vaasa không có vẻ gì là đang làm thêm hành động nào khác, nhưng tôi đã lờ mờ đoán ra lý do tại sao cậu ta lại chịu để mình bị mồi nhử vào tình huống này. Đó là nhờ dị năng của cậu ta. Phán đoán của tôi được chứng minh là chuẩn xác khi tôi liếc nhanh sang bên trái và trông thấy hàng loạt lưỡi dao găm lấp lánh đang lao vun vút về phía mình. Chúng bắt đầu chuyển động ngay tích tắc sau khi tôi vừa né xong ngọn giáo, và tốc độ của chúng cực kỳ nhanh.
 
 Nếu Vaasa đã cố tình nhắm vào sơ hở khi tôi không thể né tránh do bị quán tính kéo đi, thì cậu ta đâu phải là một gã đơn giản như tôi từng nghĩ. Hèn chi ông lão lại khen cậu ta có năng lực và dặn chúng tôi không được phép coi thường. Chỉ cần có thêm chút thường thức và sự thận trọng, Vaasa hẳn sẽ trở thành một điệp viên tuyệt vời của tổ chức. Tôi nghĩ bụng thật đáng tiếc cho cậu ta, dù tôi thậm chí còn chẳng mảy may bận tâm tới cái tổ chức ấy.
 

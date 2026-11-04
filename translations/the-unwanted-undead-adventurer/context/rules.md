@@ -104,3 +104,7 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#254) Cụm từ "on the contrary" khi mang nghĩa tiếp nối/bổ sung mức độ ("thậm chí / tệ hơn nữa là"): dịch là "trái lại / thậm chí", tránh dịch máy thành "ngược lại".
 - (#255) Xưng hô của Rentt đối với Spriggan: luôn xưng "tôi", gọi "ông" một cách đĩnh đạc, bình đẳng, không dùng kính ngữ quá đà ("dạ", "ạ") biến Rentt thành đứa trẻ khép nép.
 - (#255) Từ "fairy": dịch là "nàng tiên" khi chỉ tiên nữ tí hon có cánh (như Tilya ở #140), dịch là "loài tiên / chủng tiên" khi nói về phân loài cổ tích thần thoại (như Spriggan ở #255).
+- (#256) Cụm từ "finished off" trong văn cảnh chiến đấu: cần phân biệt rõ giữa "kết liễu" (chỉ dùng khi đối phương thực sự tử trận / mất mạng) và "tung đòn dứt điểm / hạ gục hoàn toàn" (khi đối phương chỉ bị đánh bại hoặc bất tỉnh), tránh gây hiểu lầm nhân vật đã chết.
+- (#256) Tránh dùng tiếng lóng hiện đại như "trâu bò / độ trâu bò" (gamer slang) khi miêu tả sức chịu đựng, thể chất dẻo dai hay độ bền bỉ của nhân vật (thay bằng "bền bỉ / sức chống chịu / thể chất dẻo dai").
+- (#256) Tránh dùng từ ngữ công nghệ hiện đại như "tin nhắn" (SMS) trong bối cảnh kỳ ảo trung cổ, thay bằng "lời nhắn / tin tức / tin báo".
+- (#258) Phân biệt từ "wielding" (cầm / mang / sử dụng vũ khí) với "swinging / slashing" (vung kiếm / chém), tránh dịch nhầm thành "vung kiếm" khi trận đấu chưa bắt đầu hoặc đang ở thế thủ.

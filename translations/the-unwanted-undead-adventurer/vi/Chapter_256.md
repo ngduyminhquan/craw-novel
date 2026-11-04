@@ -4,15 +4,15 @@
 
 Dưới sự dẫn đường của Spriggan, chuyến cuốc bộ xuyên qua thành phố của chúng tôi dừng lại trước một tòa kiến trúc—một nơi hết sức nổi bật, ngay cả khi so với quy chuẩn của vương đô.
 
-Lorraine trừng mắt nhìn nó, vẻ đầy kinh ngạc. "Ông có chắc không đấy? Chẳng phải tổ chức của các người là tập hợp của những kẻ sở hữu dị năng đặc thù chuyên nhận các phi vụ ngầm hay sao? Ông không thể mong chúng tôi tin rằng đây chính là căn cứ địa của các người chứ..."
+Lorraine trừng mắt nhìn nó, vẻ đầy kinh ngạc. "Ông có chắc không đấy? Chẳng phải tổ chức của các ông là tập hợp của những kẻ sở hữu dị năng đặc thù chuyên nhận các phi vụ ngầm hay sao? Ông không thể mong chúng tôi tin rằng đây chính là căn cứ của các ông chứ..."
 
-"Ta hiểu cảm giác của cô, nhưng cứ thử nghĩ xem: ai mà ngờ được bọn ta lại ở đây chứ? Người ta thường chẳng mấy bận tâm tới những thứ sờ sờ ngay trước mắt. Ta dám cá là cả hai cậu chưa từng mảy may nghĩ rằng một nơi thế này lại đang che giấu một bí mật đen tối đến vậy."
+"Ta hiểu cảm giác của cô, nhưng cứ thử nghĩ xem: ai mà ngờ được bọn ta lại ở đây chứ? Người ta thường chẳng mấy bận tâm tới những thứ sờ sờ ngay trước mắt. Ta dám cá là hai người chưa từng mảy may nghĩ rằng một nơi thế này lại đang che giấu một bí mật đen tối đến vậy."
 
 "Dĩ nhiên là chưa từng rồi," Lorraine nói. "Đúng là nó sờ sờ ngay trước mắt thật. Xét về diện tích mặt đất, nó chắc chắn phải rộng hơn cả nhà thờ lẫn hoàng cung."
 
 Cô ấy nói đúng, dẫu rằng hoàng cung và nhà thờ sẽ chiếm ưu thế nếu xét về độ cao. Dù vậy, nơi này chắc chắn chiếm một diện tích lớn hơn hẳn trong thành phố. Tôi tự hỏi nơi nào tốn kém chi phí xây dựng hơn. Xét đến mục đích sử dụng của tòa kiến trúc này, khoảng cách từ nó tới hoàng cung, cùng vị trí tọa lạc ở ngoại ô thành phố thay vì khu trung tâm, hoàn toàn có cơ sở để đoán rằng hoàng cung tốn kém nhất, kế tiếp là nhà thờ, rồi mới tới nơi này.
 
-"Một đấu trường sao?" Tôi lẩm bẩm. "Tôi luôn muốn tới thăm một nơi như thế này, nhưng chưa từng nghĩ nó lại diễn ra theo cách này..."
+"Một đấu trường sao?" tôi lẩm bẩm. "Tôi luôn muốn tới thăm một nơi như thế này, nhưng chưa từng nghĩ nó lại diễn ra theo cách này..."
 
 Phải rồi, chúng tôi đang ngước nhìn một trong những tòa kiến trúc đồ sộ bậc nhất toàn cõi vương đô, Đại Đấu Trường Vistelya.
 
@@ -26,7 +26,7 @@ Chẳng khó để đoán ra rằng tôi chưa từng lọt vào mắt xanh củ
 
 Dù sao thì dạo này việc trở thành đấu sĩ cũng là một ý tưởng khá viển vông đối với tôi. Lỡ như một đấu sĩ ất ơ nào đó đánh trúng tôi bằng một chiêu thức kỳ lạ, và ôi chao, nhìn kìa, hắn ta là Ma Cà Rồng! Tôi sẽ bị những người như Nive bám đuôi rình rập, và tôi thực sự chẳng hề muốn những người như Nive rình rập mình chút nào. Một mình cô ta thôi đã là quá đủ rồi, cảm ơn nhiều nhé.
 
-"Gì thế, cậu chưa từng đăng ký làm đấu sĩ sao?" Ông lão hạ giọng hỏi. "Ta nghĩ với bản lĩnh như cậu thì sẽ tiến xa lắm đấy... nhưng mà, cậu mới chỉ thức tỉnh dị năng gần đây. Ta đoán điều đó cũng phần nào giải thích được."
+"Gì thế, cậu chưa từng đăng ký làm đấu sĩ sao?" ông lão hạ giọng hỏi. "Ta nghĩ với bản lĩnh như cậu thì sẽ tiến xa lắm đấy... nhưng mà, cậu mới chỉ thức tỉnh dị năng gần đây. Ta đoán điều đó cũng phần nào giải thích được."
 
 Ông lão tiến về phía lối vào, nơi hai người trông như lính gác cổng đang đứng trực. Thoạt nhìn, người ta có thể ngỡ họ giống lính gác đóng quân ở cổng thành, nhưng bộ giáp của họ lại không hề mang huy hiệu của các hiệp sĩ vương quốc. Thực tế, thiết kế giáp của họ khác biệt đáng kể. Tôi từng đinh ninh vương quốc là bên quản lý đấu trường, nhưng có lẽ mọi chuyện rốt cuộc lại chẳng phải vậy. Biết đâu chính tổ chức của ông lão mới là bên vận hành rồi cho vương quốc thuê lại khi cần? Điều đó đồng nghĩa với việc tổ chức này sở hữu tiềm lực tài chính vô cùng đáng nể. Nó cũng biến họ thành một thế lực bám rễ sâu rộng ngay bên trong lòng Vương Quốc Yaaran.
 
@@ -44,7 +44,7 @@ Từ những gì ông lão từng kể, chúng tôi biết ông ta giữ vị tr
 
 Một lần nữa, sự giảo hoạt của ông lão lại khiến tôi khâm phục. May mà lợi ích đôi bên hiện đang nhất quán; ông ta không phải dạng kẻ địch mà chúng tôi có thể lơ là cảnh giác. Đúng là tôi có cảm tình với ông ta, và bản thân ông ta cũng toát ra phong thái khiến người khác muốn dựa dẫm, nhưng tôi biết mình phải giữ cái đầu lạnh trong những chuyện thế này.
 
-"Ừm, quay về được là tốt rồi," ông lão nói. "Thủ lĩnh có ở đây không? Ta tới để gặp ông ấy. Các cậu nhận được tin nhắn rồi chứ?"
+"Ừm, quay về được là tốt rồi," ông lão nói. "Thủ lĩnh có ở đây không? Ta tới để gặp ông ấy. Các cậu nhận được lời nhắn rồi chứ?"
 
 "Dạ có thưa ngài! Ngài Vaasa đã căn dặn bọn tôi dẫn ngài xuống bên dưới ngay khi ngài tới nơi ạ!"
 
@@ -64,11 +64,11 @@ Lorraine và tôi nhìn ông ta với vẻ gặng hỏi. Dù sao thì chúng tô
 
 "Hai tên ở lối vào," Spriggan giải thích. "Bọn chúng vừa nhắc tới Vaasa."
 
-"Đó là một thành viên trong tổ chức của ông, đúng chứ?" Tôi hỏi. "Chẳng phải điều đó có nghĩa là tin nhắn của chúng ta đã được truyền tới rồi sao?"
+"Đó là một thành viên trong tổ chức của ông, đúng chứ?" Tôi hỏi. "Chẳng phải điều đó có nghĩa là lời nhắn của chúng ta đã được truyền tới rồi sao?"
 
 Ông lão gật đầu. "Đúng thế. Nhưng Vaasa lại là... một trong những người do đích thân ta chiêu mộ, và..."
 
-"Và gã là kẻ đã gây sự đánh nhau với tôi hôm nọ đấy," Goblin nói đỡ lời cho ông ta.
+"Và gã là kẻ đã gây sự đánh nhau với tôi hôm nọ đấy," Goblin nói tiếp lời ông.
 
 Cả Lorraine và tôi lập tức hiểu ra nỗi bận tâm của ông lão và Goblin.
 
@@ -92,7 +92,7 @@ Người ta có thể nghĩ rằng chẳng có nhiều ý nghĩa khi cứ giữ 
 
 Giọng điệu của ông lão có phần hơi bông đùa, nhưng ông ta nói đúng về việc chúng tôi phải đưa ra lựa chọn. Lorraine và tôi nhìn nhau đầy trầm ngâm.
 
-"Anh nghĩ sao?" Cô hỏi.
+"Anh nghĩ sao?" cô hỏi.
 
 "Tôi nghĩ bản thân chưa từng gặp điều gì tốt đẹp khi bước vào những nơi nguy hiểm như thế này."
 
@@ -112,7 +112,7 @@ Tôi hướng phần sau của câu hỏi về phía ông lão.
 
 "Ta đâu có làm vậy với tất cả mọi người," ông lão nói. Có lẽ ông ta đã thấy vẻ mặt e ngại của tôi. "Ta chưa từng làm thế với Goblin hay Siren bao giờ."
 
-"Thật sao?" Tôi hỏi, đưa mắt nhìn Goblin.
+"Thật sao?" tôi hỏi, đưa mắt nhìn Goblin.
 
 Goblin gật đầu. "Thật đấy. Trông tôi có thể không giống lắm, nhưng xét trong số các thành viên của tổ chức thì tôi thuộc diện chuộng hòa bình. Còn Siren... kỹ năng của cô nàng vốn không thuộc dạng tấn công. Bọn tôi biết rõ mình chẳng có lấy một cơ hội thắng nào trước ông già dù có cố đến đâu đi nữa, nên ngay từ đầu bọn tôi chưa bao giờ gây sự với ông ấy cả."
 
@@ -124,7 +124,7 @@ Tôi thầm đảo mắt trước lời tóm tắt bỡn cợt của cô ấy, n
 
 Tôi cân nhắc các phương án, nhưng kết cục dường như đã được định đoạt từ trước rồi, phải không? Dù vậy điều đó không có nghĩa là tôi không ngần ngại. Tôi nghĩ mình nên tự tiếp thêm cho bản thân chút động lực.
 
-"Nếu chúng tôi đánh nhau với 'Vaasa' này, ông nghĩ ai sẽ thắng?" Tôi hỏi.
+"Nếu chúng tôi đánh nhau với 'Vaasa' này, ông nghĩ ai sẽ thắng?" tôi hỏi.
 
 "Hừm... Ta nghĩ cậu sẽ giành phần thắng đấy, Rentt," ông lão đáp. "Còn về Lorraine thì ta không chắc. Gã có thể là một đối thủ kỵ giơ với cô ấy."
 
@@ -134,7 +134,7 @@ Tôi cân nhắc các phương án, nhưng kết cục dường như đã đư�
 
 Gã là cái thứ quái vật gì vậy chứ?
 
-"Không phải vì gã trâu bò như ta đâu," ông lão tiếp tục. "Đơn giản là ma pháp kém tác dụng lên người gã hơn thôi. Thỉnh thoảng cô vẫn thấy những người như thế mà, phải không? Ngay cả khi bản thân họ chẳng sở hữu dị năng đặc thù nào. Dẫu rằng, ta đoán người ta cũng có thể coi bản thân điều đó như một loại dị năng."
+"Không phải vì thân thể gã bền bỉ như ta đâu," ông lão tiếp tục. "Đơn giản là ma pháp kém tác dụng lên người gã hơn thôi. Thỉnh thoảng cô vẫn thấy những người như thế mà, phải không? Ngay cả khi bản thân họ chẳng sở hữu dị năng đặc thù nào. Dẫu rằng, ta đoán người ta cũng có thể coi bản thân điều đó như một loại dị năng."
 
 Lorraine gật đầu. "Đúng vậy. Một số người vốn dĩ có khả năng kháng ma pháp nói chung cao hơn. Tôi nghe nói có người thậm chí còn miễn nhiễm hoàn toàn, nhưng bản thân tôi chưa từng gặp ai như thế bao giờ."
 
@@ -142,7 +142,7 @@ Lorraine gật đầu. "Đúng vậy. Một số người vốn dĩ có khả n�
 
 Đây là đấu trường lớn nhất vương quốc, nên dĩ nhiên các biện pháp bảo hộ an toàn được lắp đặt khắp mọi nơi, nhưng tốt nhất là ngay từ đầu đừng đem chúng ra thử nghiệm làm gì. Dẫu vậy...
 
-"Kháng ma pháp sao?" Tôi lẩm bẩm. "Thế thì gã chính là kẻ thù tự nhiên của ma pháp sư rồi."
+"Kháng ma pháp sao?" tôi lẩm bẩm. "Thế thì gã chính là kẻ thù tự nhiên của ma pháp sư rồi."
 
 "Quả đúng vậy," Lorraine đáp. "Nhưng điều đó không có nghĩa là chúng ta không còn lựa chọn nào khác. Hơn nữa, kháng ma pháp cũng bao gồm cả ma pháp trị liệu nữa. Hừm. Nếu là như thế, tôi cho rằng giải quyết gã trước rốt cuộc lại là quyết định đúng đắn nhất."
 
@@ -184,7 +184,7 @@ Tôi là người sẽ giao chiến với Vaasa, nên tôi là người cần th
 
 "Tôi có nói. Tôi bảo là dẫu bản thân không thực sự hiểu hay nhìn thấy rõ, nhưng trông có vẻ là một chuyện ghê gớm lắm. Mà thực ra thì, cô đã làm gì thế?"
 
-"Tôi chỉ thi triển vài ma pháp cổ đại mà mình nghiên cứu theo sở thích thôi," Lorraine đáp. "Chúng bắt nguồn từ những bản thảo cổ mà tôi tìm thấy. Nhiều phần bị thất lạc, nhưng tôi đã xoay xở chắp vá chúng lại được. Tôi dự định rốt cuộc sẽ đối chiếu phương thức, cấu trúc và đặc tính của chúng thành một cuốn sách để bán cho hội ma pháp sư, nhưng tính đến thời điểm hiện tại thì không có nhiều ma pháp sư biết về chúng, dẫu không hẳn là không có ai. Chỉ là chúng tôi có xu hướng khá giữ kẽ về kết quả nghiên cứu của riêng mình mà thôi."
+"Tôi chỉ thi triển vài ma pháp cổ đại mà mình nghiên cứu theo sở thích thôi," Lorraine đáp. "Chúng bắt nguồn từ những bản thảo cổ mà tôi tìm thấy. Nhiều phần bị thất lạc, nhưng tôi đã xoay xở chắp vá chúng lại được. Tôi dự định rốt cuộc sẽ tổng hợp phương thức, cấu trúc và đặc tính của chúng thành một cuốn sách để bán cho hội ma pháp sư, nhưng tính đến thời điểm hiện tại thì không có nhiều ma pháp sư biết về chúng, dẫu không hẳn là không có ai. Chỉ là chúng tôi có xu hướng khá giữ kẽ về kết quả nghiên cứu của riêng mình mà thôi."
 
 Điều đó đáng ngạc nhiên đến mức... thực ra thì, chẳng có gì đáng ngạc nhiên chút nào. Việc cô ấy cứ tùy tiện thi triển những ma pháp kỳ quặc lố bịch bất cứ lúc nào hoàn toàn đúng với tính cách của cô ấy. Tôi nghĩ cô ấy khá táo bạo, nhưng nói đi cũng phải nói lại, trên cõi đời này có nhiều ma pháp đến mức đếm không xuể. Rất nhiều trong số đó hẳn đã biến mất sau khi chẳng có ai thừa kế từ người sáng tạo ra chúng. Nhiều ma pháp sư đã giữ kín kiến thức cho riêng mình như lời Lorraine vừa đề cập, nhưng đôi khi những ma pháp này đơn giản là chẳng có chút công dụng nào, nên chẳng ai thèm bận tâm học chúng làm gì.
 
