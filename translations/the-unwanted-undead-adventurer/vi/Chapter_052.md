@@ -1,211 +1,211 @@
 # Chương 52: Tập 2 Chương 4 - Hoa Long Huyết (5)
 
-"Thôi nào, ăn đi chứ," Lorraine vừa nói vừa chỉ tay về phía những món ăn được bày biện trên bàn.
+"Nào, ăn đi chứ," Lorraine chỉ tay vào mấy món dọn trên bàn, bảo.
 
-Bánh mì đen và sữa, cùng vài món hấp... Một bữa sáng kinh điển của vùng Maalt.
+Bánh mì đen, sữa, thêm mấy món hấp... Bữa sáng quen thuộc đúng kiểu Maalt.
 
-Có lẽ Lorraine đang hấp chính những món này lúc tôi bước vào bếp bắt gặp cô ấy cách đây ít phút.
+Chắc lúc tôi bước vào bếp mấy phút trước là Lorraine đang hấp mấy món này.
 
-Đó là món hầm hấp đơn giản nấu từ thịt Orc tôi đã bảo quản từ ít lâu trước, kèm vài loại đậu và củ quả. Mùi thơm đậm đà của nước dùng thấm đượm qua từng nguyên liệu—quả là một món ăn vô cùng kích thích vị giác.
+Đó là món hầm cách thủy đơn giản từ chỗ thịt Orc tôi tích trữ đợt trước, nấu với ít đậu và củ quả. Mùi nước dùng thơm phức ngấm vào từng nguyên liệu, ngửi thôi đã thấy thèm.
 
-Vì là một Thi Quỷ, bụng dạ tôi chẳng mấy khi trướng lên hay cồn cào vì đói, nhưng tôi vẫn còn giữ được vị giác. Ký ức về đồ ăn và mùi vị của chúng từng rất mơ hồ trong quãng thời gian ngắn ngủi tôi làm Ngạ Quỷ, nhưng đã trở nên sắc nét hơn nhiều sau lần tiến hóa vừa rồi. Giờ đây tôi có thể thưởng thức và nếm trải đủ loại món ăn, chẳng khác mấy so với khi còn sống.
+Là Thi Quỷ, bụng dạ tôi chẳng mấy khi no căng hay đói cồn cào, nhưng tôi vẫn còn vị giác. Hồi còn làm Ngạ Quỷ trong thời gian ngắn, ký ức của tôi về đồ ăn và mùi vị khá mơ hồ, nhưng từ lúc tiến hóa thì đã rõ ràng hơn hẳn. Giờ tôi có thể thưởng thức đủ thứ món ăn, chẳng khác mấy so với hồi còn sống.
 
-Nếu phải chỉ ra một điểm đổi thay, thì đó hẳn là sự trân quý mới mẻ của tôi dành cho máu. Tôi thấy mùi vị của máu ngon đến khó tin, dẫu đó chẳng phải thứ tôi có thể tùy tiện mang ra bàn tán trên bàn ăn.
+Nếu có gì đổi khác, thì là giờ tôi lại thấy thích máu. Tôi thấy vị máu ngon đến khó tin, dù đây chẳng phải chuyện nên đem ra kể bên bàn ăn.
 
-Chắp hai tay lại trước bữa sáng do chính tay Lorraine chuẩn bị, tôi khẽ nhắm mắt, cất lời cầu nguyện ngắn gọn trước khi cầm lấy bộ dao nĩa. Chẳng cần phải nói, tôi vốn dĩ chẳng mấy tin vào sự tồn tại của bất kỳ vị thần linh nào, làm vậy đơn thuần chỉ là theo thói quen mà thôi.
+Tôi chắp tay trước bữa sáng do chính tay Lorraine nấu, khẽ nhắm mắt cầu nguyện một câu rồi mới cầm dao nĩa. Nói thật thì tôi chẳng tin vào thần thánh nào cả, làm thế đơn giản chỉ vì quen tay quen miệng thôi.
 
-"Một Undead cầu nguyện thần linh trước bữa ăn ư? Quả là một cảnh tượng vô cùng chướng mắt và kỳ quặc đấy, Rentt."
+"Undead mà lại cầu nguyện thần linh trước bữa ăn cơ à? Trông nghịch mắt thật đấy, Rentt."
 
-Tôi chẳng cần Lorraine phải nhắc nhở mới thấu hiểu được sự trớ trêu của hoàn cảnh này.
+Chẳng cần Lorraine nhắc tôi cũng biết chuyện này trớ trêu đến mức nào.
 
-Dù mỗi tôn giáo lớn đều có góc nhìn riêng về Undead, song phần lớn họ đều xem Undead bằng con mắt ác cảm, như kẻ thù của thần linh, kẻ phản nghịch bầu trời, hay thậm chí còn tệ hại hơn thế nhiều. Dù sao đi nữa, tôi luôn có thể dám chắc một điều rằng hầu hết những tôn giáo này đều coi Undead là một tội ác chống lại tạo vật của Thần linh.
+Dù mỗi tôn giáo lớn có cách nhìn nhận khác nhau về Undead, nhưng nhìn chung họ đều có ác cảm, coi Undead là kẻ thù của thần thánh, kẻ phản nghịch trời xanh, hay thậm chí còn tệ hơn thế. Dù sao thì tôi dám chắc gần như giáo phái nào cũng xem Undead là tội lỗi chống lại tạo vật của Thần linh.
 
-"...Thế cô muốn... Tôi làm gì. Bước chân vào một nhà thờ... Rồi dâng lên một lời cầu nguyện... Ở đó chắc?"
+"...Thế cô muốn... tôi làm gì. Bước vào nhà thờ... rồi dâng lời cầu nguyện... trong đó chắc?"
 
-"Ồ, chẳng phải thế sẽ là báng bổ sao? Hoặc biết đâu anh thậm chí có thể gọi đó là sự hồi tâm chuyển ý... Nghĩ mà xem, một Undead lại tính dâng lời cầu nguyện lên Thần linh..."
+"Ồ, thế chẳng phải là báng bổ sao? Hay biết đâu lại coi là hồi tâm chuyển ý ấy chứ... Nghĩ mà xem, một Undead lại tính dâng lời cầu nguyện lên Thần linh..."
 
-Quả đúng là Lorraine, cô ấy bằng cách nào đó đã nghiêm túc suy ngẫm về một câu bông đùa ngớ ngẩn rõ rành rành. Ngay từ đầu tôi đâu hề có ý nghĩ chống lại thần linh, cũng chẳng mấy bận tâm đến thần linh làm gì. Gọi đó là hồi tâm chuyển ý thì không chính xác, nhưng tôi quả thực có thắc mắc chuyện gì sẽ xảy ra nếu mình bước chân vào một chốn thiêng liêng nào đó.
+Đúng là Lorraine, một câu đùa rõ là ngớ ngẩn mà cô cũng nghiêm túc suy nghĩ cho được. Ngay từ đầu tôi chẳng hề có ý chống đối thần thánh, mà cũng chẳng mấy khi để tâm đến họ. Bảo là hồi tâm chuyển ý thì không đúng lắm, nhưng tôi cũng tò mò không biết chuyện gì sẽ xảy ra nếu mình bước vào một nơi linh thiêng nào đó.
 
-Nghĩ lại thì cô nhi viện kia do Giáo Hội Đông Thiên điều hành, và nếu tôi mở lời hỏi, hẳn họ đã cho phép tôi bước vào bàn thờ hoặc nơi thờ tự của họ tại đó rồi. Bỏ lỡ mất một cơ hội—thật đáng tiếc làm sao.
+Nghĩ lại thì cô nhi viện kia do Giáo Hội Đông Thiên quản lý, nếu tôi ngỏ lời, chắc họ cũng cho tôi vào gian thờ hay nơi cầu nguyện ở đó. Bỏ lỡ mất một dịp, tiếc thật.
 
-Tuy nhiên, xét việc tôi đã ở sát sạt một nơi linh thiêng như vậy mà chẳng cảm thấy có điều gì bất thường... Biết đâu thực sự chẳng có gì phải bận tâm lo lắng cả.
+Có điều, ở sát sàn sạt một nơi linh thiêng như thế mà tôi chẳng thấy khó chịu chút nào... Vậy thì khéo chẳng có gì đáng lo thật.
 
-Nói vậy chứ, đồ ăn hôm nay có điều gì đó rất lạ kỳ. Nếu phải diễn đạt thành lời... thì chẳng hiểu sao nó lại ngon đến lạ lùng.
+Nói vậy chứ, đồ ăn hôm nay có điểm là lạ. Nếu phải tả bằng lời... thì chẳng hiểu sao lại ngon bất thường.
 
-Ý tôi không phải bảo tay nghề nấu nướng của Lorraine bằng phép màu nào đó đã tiến bộ vượt bậc. Thay vào đó, mùi vị đơn giản là... ngon hơn. Trên thực tế, nó ngon hơn mọi thứ Lorraine từng nấu cho tôi từ trước đến nay.
+Ý tôi không phải là tay nghề của Lorraine đột nhiên tiến bộ thần kỳ. Đơn giản là vị của nó... ngon hơn. Thật lòng mà nói, nó ngon hơn mọi thứ Lorraine từng nấu cho tôi từ trước đến nay.
 
-Tôi ngồi thừ ra một lúc, nét mặt lộ rõ vẻ kinh ngạc. Nhận ra điều đó, Lorraine nở một nụ cười rạng rỡ, vẻ thỏa mãn hiện rõ trên từng đường nét gương mặt cô.
+Tôi ngồi ngẩn ra một lúc, mặt không giấu nổi vẻ ngạc nhiên. Thấy vậy, Lorraine cười tươi rói, vẻ đắc ý hiện rõ trên mặt.
 
-"Ồ, ra là anh đã nhận ra rồi. Ngon lắm, đúng không hả Rentt?" Lorraine hỏi.
+"À, nhận ra rồi đấy à. Ngon đúng không, Rentt?" Lorraine hỏi.
 
-"Cô đã... Bỏ thứ gì. Vào món này vậy?"
+"Cô... cho cái gì. Vào đây thế?"
 
-"Thực ra đơn giản lắm. Tôi đã vì anh mà hòa thêm một giọt máu duy nhất vào bước chuẩn bị cuối cùng. Dù tôi không hẳn xem nó là gia vị, nhưng tôi nghĩ nó sẽ hợp với khẩu vị của anh hơn. Tôi nói có sai không nào?"
+"Đơn giản thôi mà. Lúc sắp xong, tôi có nhỏ thêm một giọt máu vào cho anh đấy. Dù không hẳn là gia vị, nhưng tôi nghĩ sẽ hợp miệng anh hơn. Tôi đoán đâu có sai, nhỉ?"
 
-Tôi thực sự cảm kích nỗ lực của Lorraine trong việc nấu món ăn hợp khẩu vị mình, nhưng tôi vẫn không kìm được nỗi băn khoăn...
+Thấy Lorraine chịu khó nấu món hợp khẩu vị mình thì tôi cũng cảm kích lắm, nhưng vẫn không khỏi thắc mắc...
 
-"...Nhưng mà này, Lorraine. Như vậy nghĩa là... Bữa sáng của cô... Cũng có máu sao."
+"...Nhưng mà, Lorraine này. Thế tức là... bữa sáng của cô... cũng có máu à."
 
-Lẽ nào bữa sáng của chúng tôi thực sự là món hầm lẫn một giọt máu? Và Lorraine vẫn thấy ổn với chuyện đó sao?
+Chẳng lẽ bữa sáng của hai đứa lại là món hầm có lẫn máu? Mà Lorraine cũng chịu ăn sao?
 
-"À thì... Dù là máu của chính mình đi nữa, tôi cũng chẳng có thói quen ăn món hầm lẫn máu cho bữa sáng đâu. Cứ yên tâm đi Rentt, tôi chỉ múc riêng một phần cho anh rồi nhỏ một giọt vào đó thôi. Anh tưởng tôi sẽ thẳng tay cứa ngón tay mình rồi nhúng luôn vào nồi hầm chắc? Làm thế thì đúng là phong cách của một mụ phù thủy rồi còn gì, phải không?"
+"À thì... Dù là máu của mình, tôi cũng đâu có sở thích ăn sáng bằng món hầm lẫn máu. Yên tâm đi Rentt, tôi múc riêng một bát cho anh rồi mới nhỏ một giọt vào đó. Bộ anh tưởng tôi cứa tay rồi nhúng thẳng vào cả nồi hầm chắc? Làm thế thì chẳng hoá ra phù thủy à?"
 
-Tôi thở phào nhẹ nhõm vì Lorraine đã không làm hỏng cả nồi bữa sáng vì tôi. Ngẫm lại thì tôi cho rằng việc hòa máu vào thức ăn quả thực có đôi chút giống phù thủy, nếu căn cứ theo những câu chuyện cổ tích.
+Tôi thở phào nhẹ nhõm vì Lorraine không vì tôi mà làm hỏng cả nồi đồ ăn sáng. Nghĩ lại thì hòa máu vào thức ăn nghe đúng là hơi giống phù thủy thật, nếu tin theo mấy câu chuyện cổ tích.
 
-"Nhắc trước cho anh biết là tôi không làm mấy trò đó đâu đấy," Lorraine tiếp tục.
+"Nói trước là tôi không làm mấy trò đó đâu đấy nhé," Lorraine nói tiếp.
 
-"Tuy nhiên vào thời xưa... các phù thủy bói toán thường hay khuyên những cô gái trẻ làm đủ trò kỳ quặc. Tôi thấy thực sự tội nghiệp cho cánh đàn ông đấy."
+"Có điều ngày xưa... mấy mụ phù thủy bói toán hay xúi các cô gái trẻ làm đủ trò quái gở lắm. Nghĩ cũng tội cho cánh đàn ông thật."
 
-Thật là một viễn cảnh đáng sợ. Cứ ngỡ đó chắc hẳn chỉ là trò đùa, tôi liền hỏi han thêm chi tiết, để rồi lập tức hối hận ngay khi ngẩng đầu lên và bắt gặp ánh mắt chăm chú của Lorraine. Rõ ràng là cô ấy hoàn toàn nghiêm túc.
+Nghe rợn cả người. Cứ ngỡ cô chỉ nói đùa, tôi định hỏi thêm cho rõ, nhưng vừa ngẩng lên chạm phải ánh mắt chăm chú của Lorraine là hối hận ngay. Rõ ràng cô đang nói rất nghiêm túc.
 
-"Họ... Làm cái trò đó. Vào lúc nào vậy?"
+"Họ... làm mấy trò đó. Vào lúc nào... vậy?"
 
-"Trong lễ hội dạo nọ ấy... Họ gọi nó là gì ấy nhỉ? Cái lễ hội mà phụ nữ được xã hội chấp nhận cho việc chủ động cầu hôn đàn ông... Vào ngày sinh của vị thánh nào đó thì phải. Anh còn nhớ những bữa tiệc linh đình, những điệu nhảy múa cùng đủ thứ diễn ra suốt thời gian đó chứ? Mọi chuyện được thực hiện vào lúc ấy đấy."
+"Vào cái đợt lễ hội dạo nọ ấy... Người ta gọi là gì nhỉ? Cái lễ hội mà phụ nữ được phép chủ động cầu hôn đàn ông ấy... Hình như vào ngày sinh của vị thánh nào đó. Anh còn nhớ mấy bữa tiệc linh đình, nhảy múa thâu đêm suốt sáng thời gian đó chứ? Họ ra tay vào lúc đấy cả."
 
-Tôi nhớ lại sự kiện đó. Dù bản thân chưa từng tham dự, cũng chẳng có ai từng cầu hôn tôi, nhưng tôi thường nghe bạn bè và người quen kể lại—cụ thể là từ những cựu mạo hiểm giả nay đã lập gia đình.
+Tôi nhớ ra dịp lễ đó rồi. Bản thân tôi chưa từng tham gia, cũng chẳng có ai cầu hôn bao giờ, nhưng tôi thường nghe bạn bè người quen kể lại, cụ thể là mấy cựu mạo hiểm giả nay đã lập gia đình.
 
-Lorraine lại tiếp tục. "Tôi đồ rằng anh có thể xem nó như một dạng nguyền rủa dân gian, có cơ chế hoạt động tương tự cách Ma Cà Rồng tạo ra Thi Quỷ làm nô lệ ngoan ngoãn cho mình. Tuy nhiên trong trường hợp này, những người phụ nữ đã trói buộc đàn ông theo ý muốn của họ. Nói cách khác thì hai chuyện này gần như tương đương nhau vậy."
+Lorraine nói tiếp. "Cứ coi như đó là một dạng bùa chú dân gian đi, cách thức cũng na ná việc Ma Cà Rồng biến người ta thành Thi Quỷ để làm nô lệ ngoan ngoãn. Có điều ở đây là phụ nữ trói buộc đàn ông theo ý mình. Hai chuyện coi như tương đương nhau đấy."
 
-Lorraine, có vẻ đã thỏa mãn sau khi đưa ra lời giải thích chuẩn xác về mặt lịch sử cho phong tục đó, liền ngồi xuống và tiếp tục ăn bữa sáng của mình mà không nói thêm lời nào.
+Có vẻ đã thỏa mãn sau khi giải thích cặn kẽ về nguồn gốc lịch sử của phong tục đó, Lorraine ngồi xuống ăn nốt bữa sáng mà không nói thêm lời nào.
 
 ◆◇◆◇◆
 
-"Lên đường cẩn thận nhé, được chứ?" Lorraine nói khi tôi chuẩn bị rời khỏi nơi ở.
+"Đi đường cẩn thận đấy nhé?" Lorraine dặn khi tôi chuẩn bị rời khỏi nhà.
 
-Nghĩ lại thì việc ăn món hầm cụ thể này cho bữa sáng vốn mang một ý nghĩa riêng. Theo phong tục địa phương, đó là thứ tựa như một lời chúc phúc hay lời cầu nguyện cho chuyến đi sắp tới được thuận buồm xuôi gió. Đây chính là lý do Lorraine đã dậy sớm để chuẩn bị nó. Dù sao thì Đầm Lầy Tarasque cũng là một nơi vô cùng nguy hiểm.
+Nghĩ lại thì món hầm sáng nay cũng có ý nghĩa riêng. Theo phong tục địa phương, đây như một lời chúc phúc hay cầu nguyện cho chuyến đi được thuận buồm xuôi gió. Thảo nào Lorraine lại dậy sớm nấu nướng như thế. Dù sao thì Đầm Lầy Tarasque cũng là chốn cực kỳ nguy hiểm.
 
-"...Đừng lo cho tôi... Lorraine. Nếu tình hình trở nên... Quá nguy hiểm. Tôi sẽ trốn chạy... Không chút do dự."
+"...Đừng lo... cho tôi, Lorraine. Nếu thấy... quá nguy hiểm. Tôi sẽ chuồn ngay... không do dự đâu."
 
-"Và anh mong tôi tin lời một kẻ từng bị một con Rồng nuốt chửng cả người ở kiếp trước sao? Thôi nào... Tôi cho rằng đó là do anh xui xẻo hơn bất cứ điều gì khác... À, phải rồi. Còn một chuyện nữa... Con chuột này này. Anh không định đặt tên cho nó sao?" Lorraine hỏi, vừa chỉ tay vào chú chuột quyến thuộc trên vai tôi.
+"Anh muốn tôi tin lời một kẻ từng bị Rồng nuốt trọn cả người hồi còn sống sao? Mà thôi... chuyện đó chắc do anh xui xẻo quá mức thôi... À phải rồi. Còn chuyện này nữa... Con chuột này này. Anh không định đặt tên cho nó à?" Lorraine hỏi, chỉ tay vào con chuột quyến thuộc trên vai tôi.
 
-Dù bản thân cũng thấy ngạc nhiên vì mãi đến giờ mới nghĩ đến chuyện đó, nhưng tôi hoàn toàn đồng tình với Lorraine: quyến thuộc của tôi cần có một cái tên. Tôi từng không nghĩ điều đó là cần thiết vì chỉ đơn thuần coi nó như một dạng quái vật nuôi làm cảnh, chẳng kỳ vọng gì nhiều ở nó. Tôi không thể hình dung nổi việc cứ gọi nó là một con Puchi Suri mãi mãi, vì chuyện đó quả thực vô cùng bất tiện. Giờ chính là thời điểm thích hợp để giải quyết vấn đề này.
+Tôi cũng ngạc nhiên vì mãi đến giờ mình mới nghĩ tới chuyện đó, nhưng đúng là Lorraine nói phải: con quyến thuộc của tôi cần có một cái tên. Trước đó tôi không thấy cần thiết vì chỉ coi nó như quái vật nuôi cảnh, chẳng trông mong gì nhiều. Nhưng cứ gọi nó là Puchi Suri mãi thì bất tiện đủ đường. Giờ đặt tên cho nó là vừa đẹp.
 
-"À thì... Nó mang. Màu đen. Chúng ta có thể gọi nó là... Black."
+"À thì... nó màu. Đen. Hay mình gọi nó là... Black đi."
 
-Đôi mày Lorraine chau lại trước khiếu đặt tên tồi tệ của tôi.
+Lorraine nhăn mày trước khiếu đặt tên dở tệ của tôi.
 
-"Bỏ thêm chút tâm sức vào cũng chẳng chết ai đâu, Rentt. 'Black' ư? Thật đấy à?"
+"Động não thêm chút thì chết ai đâu, Rentt. 'Black' á? Thật đấy à?"
 
-"Dù cô có... Nói vậy đi nữa..."
+"Cô có... nói thế thì..."
 
-Tôi đã dành cả đời để theo đuổi mục tiêu trở thành một mạo hiểm giả Mithril Cấp. Do đó, tôi không có con cái, và dĩ nhiên cũng chẳng có mấy cơ hội đặt tên cho bất cứ thứ gì. Nghĩ kỹ lại thì hồi còn nhỏ tôi cũng chưa từng nuôi thú cưng nào.
+Cả đời tôi chỉ mải miết theo đuổi mục tiêu trở thành mạo hiểm giả Mithril Cấp. Thành ra tôi chưa có con cái, và đương nhiên cũng chẳng mấy khi có dịp đặt tên cho thứ gì. Nghĩ kỹ lại thì hồi nhỏ tôi cũng chưa từng nuôi thú cưng bao giờ.
 
-"Anh hết thuốc chữa rồi, Rentt. Vậy để tôi đặt tên cho nó. Hừm... A ha. Edel thì sao?"
+"Hết nói nổi anh luôn, Rentt. Thôi để tôi đặt cho. Hừm... A, gọi là Edel thì sao?"
 
 Edel...
 
-Tôi chẳng có cảm xúc mãnh liệt gì với cái tên đó, cũng không có điều gì phản đối. Nhưng tôi chắc chắn tò mò về nguồn gốc của một từ như vậy.
+Tôi thấy cái tên đó nghe cũng bình thường, chẳng có gì phản đối, nhưng quả thực tò mò về nguồn gốc của nó.
 
-"Cái tên ấy... Bắt nguồn. Từ đâu ra vậy?"
+"Cái tên đó... từ đâu. Ra thế?"
 
-"Thì theo những gì anh kể cho tôi, con chuột đó của anh thống trị lũ Puchi Suri nhỏ hơn, đúng chứ? Tựa như một vị vua vậy... Do đó, gọi là 'Edel'. Trong một thứ ngôn ngữ cổ xưa đã thất truyền, nó có nghĩa là 'kẻ cao quý'."
+"Thì theo lời anh kể, con chuột này chỉ huy được cả lũ Puchi Suri nhỏ hơn đúng không? Cứ như một vị vua ấy... Thế nên gọi là 'Edel'. Trong một thứ cổ ngữ đã thất truyền, từ đó có nghĩa là 'kẻ cao quý'."
 
-"Kẻ... Cao quý."
+"Kẻ... cao quý."
 
-Về phương diện cá nhân, tôi cảm thấy quyến thuộc của mình giống một tên trùm du đãng hơn là một quý tộc; một kẻ độc tài hăm dọa hơn là một vị minh quân sùng đạo. Đánh hơi thấy suy nghĩ của tôi, quyến thuộc liền lấy chân dậm thịch một cái vào vai tôi, như thể đang phản đối phân tích của tôi về nhân cách của nó.
+Bản thân tôi lại thấy con quyến thuộc này giống đại ca giang hồ hơn là quý tộc, giống một kẻ độc tài hung hãn hơn là vị vua đức độ. Bắt được suy nghĩ của tôi, con chuột liền lấy chân dậm thịch một cái lên vai tôi, như thể phản đối màn đánh giá vừa rồi.
 
-Tôi sai chắc?
+Tôi nói sai chỗ nào chắc?
 
-Tôi chẳng hề sai, nhưng cuộc tranh cãi đó tốt nhất nên để dành vào dịp khác.
+Đâu có sai, nhưng chuyện đó để lúc khác cãi thì hơn.
 
-Lorraine tiếp tục: "Tôi cũng có vài gợi ý khác nữa, xét việc kích thước của nó to lớn như thế nào. Moppel béo tròn, hay Fressa háu ăn... cùng vài từ cổ khác. Anh thấy sao?"
+Lorraine nói tiếp: "Tôi cũng có vài gợi ý khác nữa, tính theo cái tướng to béo của nó. Moppel tròn vo, hay Fressa háu ăn... cùng vài từ cổ khác. Anh thấy sao?"
 
-Tôi đứng suy ngẫm về gợi ý của Lorraine trong giây lát. Quyến thuộc của tôi đúng là một kẻ háu ăn, nó đã chén sạch phần nhỏ món hầm hòa máu của Lorraine mà tôi chia cho nó chỉ trong tích tắc. Con chuột nhanh thoăn thoắt đến nỗi chúng tôi khó lòng theo kịp hành động của nó, và tôi cho rằng điều đó đã để lại ấn tượng khá sâu sắc cho Lorraine. Tôi không mấy mặn mà với cả hai cái tên kia, và quyến thuộc của tôi dường như cũng thích gợi ý đầu tiên của Lorraine hơn, nó mạnh mẽ truyền ý nghĩ đó sang tôi để đáp lại. Có lẽ đây là nét kỳ quặc riêng của con quyến thuộc cụ thể này, nhưng tôi cảm thấy chú chuột trên vai mình có cái tôi và ý chí quá lớn.
+Tôi đứng ngẫm nghĩ về mấy gợi ý của Lorraine một lát. Con quyến thuộc của tôi đúng là tham ăn thật, chỗ món hầm pha máu tôi chia cho lúc nãy bị nó chén sạch bách trong nháy mắt. Nó nhanh thoăn thoắt đến mức chúng tôi chẳng kịp nhìn rõ, chắc vì thế mà Lorraine ấn tượng sâu sắc. Tôi chẳng mấy mặn mà với hai cái tên kia, mà con chuột dường như cũng thích gợi ý đầu tiên hơn, nó truyền ngay suy nghĩ đó sang tôi. Có lẽ đây là nét riêng của con quyến thuộc này, nhưng tôi thấy con chuột trên vai mình có chính kiến hơi bị lớn đấy.
 
-Có khi tôi cứ gọi nó là Moppel cho xong chuyện. Tuy nhiên, làm vậy thì đúng là hành động của một kẻ hẹp hòi. Dẫu sao thì vào thời điểm này tôi cũng chẳng còn là con người nữa; ít nhất là không phải một người còn sống.
+Hay cứ gọi nó là Moppel cho xong chuyện nhỉ. Cơ mà làm thế thì hẹp hòi quá. Dù rằng lúc này tôi cũng chẳng còn là con người nữa, ít nhất là không phải một người sống.
 
-"Cứ chọn... Edel đi. Mấy tên kia... Có vẻ nó. Không thích."
+"Cứ chọn... Edel đi. Mấy tên kia... có vẻ nó. Không thích."
 
-"Thế à?" Lorraine có vẻ hơi thất vọng trước lời tôi nói.
+"Thế à?" Nghe tôi nói, Lorraine có vẻ hơi tiếc rẻ.
 
-"Cả Moppel lẫn Fressa đều là những cái tên tuyệt vời mà, đúng không? Phải không nào?"
+"Cả Moppel lẫn Fressa đều là tên hay mà, đúng không? Phải không nào?"
 
-Dường như Lorraine khá thích hai cái tên Moppel và Fressa. Dù thế nào đi nữa...
+Xem chừng Lorraine khá thích hai cái tên Moppel và Fressa. Dù sao thì...
 
-"Người... À thì. Bản thân con chuột. Bảo rằng Edel... Là được rồi. Chúng ta nên tôn trọng... Ý nguyện của nó."
+"Người... à thì, bản thân. Con chuột. Bảo là Edel... được rồi. Mình nên tôn trọng... ý của nó."
 
-"À, phải rồi. Mối liên kết tâm trí giữa anh và con chuột. Lúc trước anh có nhắc tới chuyện đó... Thôi được, nếu nó thích thế hơn thì chốt là Edel nhé. Thật đáng tiếc, nhưng tôi sẽ không nài ép đâu. Kể từ hôm nay mày là Edel, và tôi là người đã đặt tên cho mày. Liệu mà nhớ kỹ đấy!" Lorraine thốt lên, vừa vỗ nhẹ lên đầu Edel.
+"À phải rồi, cái liên kết tâm trí giữa anh với nó. Lúc nãy anh có nhắc... Thôi được, nó đã thích thế thì chốt là Edel vậy. Tiếc thật đấy, nhưng tôi không ép đâu. Từ hôm nay mày là Edel, và tao là người đặt tên cho mày đấy nhé. Liệu mà nhớ lấy!" Lorraine bảo, đoạn vỗ nhẹ lên đầu Edel.
 
-Sau đó, chúng tôi chào tạm biệt Lorraine, quay người và cuối cùng cũng bước chân ra khỏi nhà cô.
+Thế là tôi chào tạm biệt Lorraine rồi cất bước rời khỏi nhà cô.
 
 ◆◇◆◇◆
 
-"Này... Tới nơi rồi nhé," người đánh xe nói, trước khi hãm xe cùng bầy ngựa lại để tôi bước xuống. Về phần Edel, chú chuột vẫn điềm nhiên đậu vững trên vai tôi.
+"Này... Đến nơi rồi nhé," bác đánh xe ghìm ngựa dừng xe lại cho tôi xuống. Còn Edel thì vẫn thản nhiên bám chắc trên vai tôi.
 
-Bước xuống xe, tôi phóng tầm mắt nhìn ra xa, về phía vùng lân cận của khu đầm lầy được nhắc tới.
+Tôi bước xuống, phóng tầm mắt nhìn ra xa về phía khu vực quanh đầm lầy.
 
-"Từ đây đi tiếp xuống con đường mòn kia là Đầm Lầy Tarasque đấy... Cậu sẽ ổn chứ? Đó hổng phải là chỗ cho mạo hiểm giả đi đơn độc đâu!" người đánh xe cảnh báo, vẻ lo lắng lộ rõ trong giọng nói.
+"Từ đây cứ theo con đường mòn đi tiếp là tới Đầm Lầy Tarasque đấy... Cậu ổn không đấy? Chỗ ấy không dành cho mạo hiểm giả đi một mình đâu!" bác đánh xe cảnh báo, giọng lộ rõ vẻ lo lắng.
 
-Dĩ nhiên là bác ấy nói đúng. Đây chẳng phải nơi tôi từng nghĩ tới chuyện lai vãng khi mình còn sống. Ngay cả khi bị buộc phải tiến vào một khu vực nguy hiểm nhường này, tôi cũng sẽ tìm kiếm sự giúp đỡ từ những người khác để lập nên một tổ đội cấp tốc, từ bỏ tôn chỉ tác chiến đơn độc của mình vì sự an toàn.
+Dĩ nhiên bác ấy nói đúng. Hồi còn sống, tôi chẳng bao giờ nghĩ tới chuyện bén mảng đến đây. Dù có bị ép phải vào một nơi nguy hiểm cỡ này, tôi cũng sẽ tìm người giúp để lập tổ đội tạm thời, tạm gác nguyên tắc đi lẻ sang một bên cho an toàn.
 
-Tuy nhiên lần này, tôi lại chẳng có được những lựa chọn như thế. Có vài nguyên do cho chuyện này, song lúc này không phải là lúc để hoài niệm.
+Nhưng lần này tôi lại chẳng có lựa chọn đó. Có nhiều lý do cho việc này, mà giờ cũng không phải lúc để ngẫm ngợi lan man.
 
-"Tôi... Không có ý định. Chiến đấu với Tarasque đâu. Chỉ là một chuyến vào rồi... Ra. Nhanh thôi. Nên bác đừng... Lo lắng. Cho tôi."
+"Tôi... không tính. Đánh nhau với Tarasque đâu. Chỉ vào... rồi ra ngay. Thôi mà. Bác không phải... lo... cho tôi đâu."
 
-Người đánh xe có vẻ vẫn chưa thấy thuyết phục. Trái lại, bác ấy dường như còn bận lòng hơn.
+Bác đánh xe có vẻ vẫn chưa yên tâm. Trái lại, trông bác còn có phần lo hơn.
 
-Khẽ nhún vai rồi buông một tiếng thở dài ngao ngán, người đàn ông tiếp tục. "Cánh mạo hiểm giả các cậu ai nấy đều y như thế cả. Chà... Cậu tự chịu trách nhiệm cho mạng sống của mình đấy, nhưng đừng có làm gì liều mạng, nghe rõ chưa? Nếu tình hình trở nên tồi tệ... Cậu phải chạy biến về đây ngay lập tức đấy."
+Bác đánh xe nhún vai, buông một tiếng thở dài ngao ngán rồi bảo. "Cánh mạo hiểm giả các cậu ai cũng như ai. Thôi thì... mạng ai nấy lo, nhưng đừng có làm gì liều lĩnh đấy, nghe chưa? Thấy tình hình không ổn... là phải chạy thục mạng về đây ngay đấy."
 
-Những lời nói ân cần, nhưng cũng thật hiếm hoi. Những người như bác ấy thường chẳng mấy khi quá bận tâm lo lắng cho hành khách của mình đến thế.
+Những lời nhắc thật ân cần, mà cũng hiếm thấy. Dân đánh xe thường chẳng mấy khi bận lòng lo cho khách đến mức này.
 
-Lấy làm tò mò, tôi liền gặng hỏi thăm người đàn ông.
+Thấy tò mò, tôi liền lên tiếng hỏi thăm bác.
 
-"Cậu biết mấy chuyện xảy ra dạo gần đây rồi đấy, đúng không? Vụ mạo hiểm giả mới vào nghề cứ mất tích trong mấy mê cung rồi đủ thứ tương tự ấy. Thấy cô quạnh lắm cậu biết không, những người hôm qua mình vừa gặp mặt, đùng một cái đã chẳng còn nữa rồi. Nên là... Có lẽ tôi đang hơi xúc động quá đà. Dù sao thì... Cố lên nhé. Đến chiều tối tôi sẽ quay lại. Tôi cầu mong lúc đó cậu sẽ có mặt ở đây, vì tôi chẳng thể cho xe tới gần đầm lầy hơn mức này được đâu. Thôi thì... Giờ tôi đi đây."
+"Cậu biết mấy chuyện dạo gần đây rồi đấy, nhỉ? Mấy vụ mạo hiểm giả mới vào nghề cứ mất tích trong mê cung này nọ ấy. Nghĩ mà thấy xót xa lắm cậu ơi, người hôm qua mình vừa thấy mặt, đùng cái đã chẳng còn nữa rồi. Nên là... chắc tôi hơi đa cảm quá. Dù sao thì... cố lên nhé. Chiều tối tôi sẽ quay lại. Mong là lúc đó cậu có mặt ở đây, chứ tôi không thể cho xe lại gần đầm lầy hơn thế này được đâu. Thôi... tôi đi đây."
 
-Người đánh xe vung roi lên, thúc đàn ngựa phi nước đại. Chẳng mấy chốc, bác ấy chỉ còn là một chấm nhỏ ở phía xa xăm.
+Bác đánh xe vung roi, thúc ngựa chạy đi. Chẳng mấy chốc, bóng bác chỉ còn là một chấm nhỏ tít đằng xa.
 
-Những mạo hiểm giả dám thử sức với Đầm Lầy Tarasque quả thực vô cùng hiếm hoi. Xe ngựa chỉ dừng tại điểm đón này hai lần mỗi ngày: một chuyến vào ban ngày và một chuyến vào buổi chiều tối. Nếu một mạo hiểm giả lỡ chuyến xe ngựa, người đó sẽ phải qua đêm giữa chốn hoang dã. Tôi tự dặn lòng phải luôn để mắt đến thời gian kẻo rơi vào tình cảnh tương tự.
+Hiếm có mạo hiểm giả nào dám bén mảng tới Đầm Lầy Tarasque. Xe ngựa chỉ ghé điểm đón này mỗi ngày hai chuyến: một vào ban ngày và một vào chiều tối. Nếu lỡ xe, mạo hiểm giả sẽ phải ngủ lại qua đêm giữa chốn hoang vu. Tôi tự dặn mình phải để ý giờ giấc kẻo rơi vào cảnh đó.
 
-Nghĩ vậy, tôi rảo bước xuôi theo con đường mòn, ghi nhớ lời khuyên của người đánh xe tốt bụng.
+Nghĩ vậy, tôi rảo bước theo con đường mòn, không quên lời dặn của bác đánh xe tốt bụng.
 
 ◆◇◆◇◆
 
 Đầm Lầy Tarasque—
 
-Nằm ở phía tây bắc Maalt, nơi này mất vài giờ đi xe ngựa mới tới được. Đúng như tên gọi gợi ý, đây là một khu vực đầm lầy âm u, ảm đạm. Nói một cách chuẩn xác thì trước đây rất lâu, đầm lầy từng có một cái tên chính thức khác do các nhà địa lý đặt cho. Tuy nhiên cái tên ấy đã bị lãng quên, và đại chúng xã hội thay vào đó chỉ gọi nó là Đầm Lầy Tarasque. Người ta phỏng đoán điều này xuất phát từ việc tôn vinh những con quái vật hùng mạnh cư ngụ nơi đây.
+Nằm ở phía tây bắc Maalt, đi xe ngựa mất chừng vài tiếng mới tới nơi. Đúng như tên gọi, đây là một vùng đầm lầy âm u, ảm đạm. Nói chính xác ra thì từ xa xưa, đầm lầy từng có tên chính thức do các nhà địa lý đặt. Có điều cái tên đó đã trôi vào quên lãng, người đời chỉ quen gọi nơi này là Đầm Lầy Tarasque. Có lẽ là lấy theo tên loài quái vật hùng mạnh ngự trị ở đây.
 
-Tarasque là một phân loài của Rồng, hoặc là một họ hàng xa. Được trang bị lớp mai tựa như mai rùa cùng ba cặp chân, nó còn mang trong mình chất kịch độc, biến nó thành một loài mãnh thú thực sự đáng sợ. Dẫu cho lớp mai bọc thép, vảy và các tuyến độc của nó là nguồn nguyên liệu vô cùng hữu dụng để chế tạo vũ khí và giáp trụ, song một người phải đạt cấp bậc từ Ngân Cấp trở lên mới mong có cơ hội đối đầu với nó. Tuy nhiên, ngay cả một mạo hiểm giả ở thứ hạng đó cũng sẽ rơi vào thế ngặt nghèo khi đi săn nếu bị vài con quái thú này bao vây.
+Tarasque là một phân loài của Rồng, hoặc là họ hàng xa. Mang lớp mai như rùa cùng ba cặp chân, lại thêm nọc kịch độc trong người, nó thực sự là một loài quái thú đáng sợ. Dù lớp mai cứng, vảy và tuyến độc của nó là nguyên liệu cực kỳ hữu dụng để rèn vũ khí cùng giáp trụ, nhưng phải từ mạo hiểm giả Ngân Cấp trở lên mới mong có cửa đối đầu với nó. Ấy là chưa kể, ngay cả mạo hiểm giả tầm đó nếu bị vài con quây lại thì cũng rơi vào thế ngặt nghèo.
 
-Nói cách khác, thật là thiếu khôn ngoan nếu một mạo hiểm giả Đồng Cấp như tôi lại đi giao chiến, hay thậm chí là chạm trán đường đi của một con Tarasque.
+Nói cách khác, mạo hiểm giả Đồng Cấp như tôi mà đi nghênh chiến, hay thậm chí chỉ là chạm mặt Tarasque, thì đúng là dại dột.
 
-Dĩ nhiên, chỉ đơn thuần đụng độ một con thì chưa thể lấy mạng tôi ngay được. Dẫu vậy, nó vẫn sẽ đẩy tôi vào một tình thế hết sức nan giải. Đây chính là lý do tôi luôn giữ nguyên tắc thám hiểm một cách thận trọng: thay vì phải tuyệt vọng chống đỡ một con Tarasque, tốt nhất là đừng có chạm mặt con nào ngay từ đầu. Tệ hơn nữa, một lượng lớn các loại quái vật đa dạng khác cũng coi đầm lầy này là nhà, nên sẽ thật ngớ ngẩn nếu không đề phòng cả chúng nữa. Điều này, cộng thêm một vài yếu tố khó chịu khác, đã biến việc thám hiểm đầm lầy thành một công việc vô cùng gian nan và mệt mỏi.
+Dĩ nhiên, chỉ đụng phải một con thì chưa giết được tôi ngay. Dẫu vậy, nó vẫn sẽ đẩy tôi vào tình thế vô cùng rắc rối. Đó là lý do tôi luôn giữ nguyên tắc thám hiểm cẩn trọng: thay vì phải trầy trật chống đỡ một con Tarasque, tốt nhất là đừng đụng mặt con nào ngay từ đầu. Đã thế, đầm lầy còn là hang ổ của đủ loại quái vật khác, không đề phòng chúng thì ngốc nghếch quá. Chừng đó thứ, cộng thêm vài yếu tố phiền toái khác, biến việc thám hiểm đầm lầy thành một việc cực kỳ nhọc nhằn.
 
-Nghĩ mà xem, tôi đang làm tất cả những chuyện này chỉ vì duy nhất một đồng tiền đồng!
+Nghĩ lại mà xem, tôi làm chừng này chuyện chỉ vì đúng một đồng xu đồng!
 
-Dẫu vậy, thỉnh thoảng làm việc thiện cũng là một điều đúng đắn đối với một mạo hiểm giả. Nếu tôi tiến hành cuộc săn lùng của mình một cách thận trọng, tôi thậm chí còn có thể thu thập được vài nguyên liệu quý hiếm từ lũ quái vật nơi đây, hoặc chí ít là vài loại thảo dược có thể bán được một món tiền kha khá.
+Dù vậy, mạo hiểm giả thỉnh thoảng làm việc nghĩa cũng là chuyện nên làm. Nếu hành động cẩn thận, biết đâu tôi còn thu thập được vài nguyên liệu hiếm từ lũ quái vật ở đây, hay chí ít cũng kiếm được ít thảo dược bán lấy món tiền kha khá.
 
-Rõ ràng có thể thấy đây chẳng phải nơi một mạo hiểm giả sẽ tự nguyện ghé thăm. Điều đó đồng nghĩa với việc luôn có nhu cầu đối với các nguyên liệu quý hiếm vốn chỉ tìm thấy ở nơi này. Ngay cả khi tôi thực sự rơi vào thế nguy hiểm, tất cả những gì tôi cần làm chỉ là trốn chạy—chẳng nhất thiết phải là một kỹ năng đáng để khoe khoang, nhưng tháo chạy vẫn là một viễn cảnh hấp dẫn hơn nhiều so với việc phải chết lần thứ hai.
+Rõ ràng chẳng mạo hiểm giả nào muốn tự vác xác đến đây. Đồng nghĩa với việc nguyên liệu quý chỉ có ở nơi này luôn rất đắt hàng. Kể cả khi rơi vào thế nguy hiểm, tôi chỉ việc cắm đầu chạy là xong. Chạy trốn tuy chẳng phải ngón nghề đáng để khoe khoang, nhưng vẫn còn hơn là chết thêm lần nữa.
 
-Trên thực tế, giờ đây tôi đã có thể tận dụng một mồi nhử di động. Edel dựng đứng cả lông khi thoáng thấy ý nghĩ đó. Rõ ràng là quyến thuộc của tôi chẳng mấy mặn mà với những nhiệm vụ nguy hiểm mà tôi đang nhen nhóm trong đầu dành cho nó.
+Chưa kể, giờ tôi còn có thể dùng một con mồi nhử di động. Vừa bắt được ý nghĩ đó của tôi, Edel đã dựng đứng cả lông. Rõ ràng con quyến thuộc của tôi chẳng hào hứng gì với mấy việc nguy hiểm mà tôi đang tính giao cho nó.
 
-Chẳng phải mày là quyến thuộc của tao sao hả Edel? Không phải mày nên liều mạng vì chủ nhân sao? Hay chí ít tôi từng ngỡ mọi chuyện sẽ là như vậy, nhưng Edel dường như chẳng hề trung thành với tôi cho lắm.
+Mày là quyến thuộc của tao cơ mà, Edel? Đáng ra mày phải xả thân vì chủ nhân chứ? Tôi cứ tưởng chuyện phải như thế, nhưng xem ra Edel chẳng trung thành với tôi cho lắm.
 
-Tôi đồ rằng sự đời vốn dĩ là như thế rồi.
+Mà thôi, sự đời chắc vốn là thế rồi.
 
-Tôi đặt bước chân vào Đầm Lầy Tarasque, thầm hy vọng sẽ không chạm trán với bất kỳ sinh vật hung hãn nào trong suốt hành trình của mình.
+Tôi cất bước tiến vào Đầm Lầy Tarasque, thầm mong không chạm trán sinh vật dữ tợn nào trên đường đi.
 
 ◆◇◆◇◆
 
-Nếu phải miêu tả những mối hiểm nguy ngập tràn khắp Đầm Lầy Tarasque, tôi chắc chắn sẽ phải nói về chính bản thân loài Tarasque. Dẫu vậy, điều đó không có nghĩa là nơi đây thiếu đi vô vàn những hiểm họa khác.
+Nếu phải kể ra những mối nguy rình rập ở Đầm Lầy Tarasque, cái tên đầu tiên chắc chắn phải là loài Tarasque. Nói vậy không có nghĩa là nơi đây thiếu đi vô số hiểm họa khác.
 
-Có rất nhiều ao hồ trong đầm lầy chứa kịch độc—cũng như những luồng khí thi thoảng lại phun trào lên từ chúng. Ngay cả việc tản bộ xung quanh đầm lầy tự thân nó đã là một điều nguy hiểm rồi. Để chinh phục đầm lầy một cách thỏa đáng, trước tiên người ta sẽ cần một phương tiện để hít thở trong môi trường khắc nghiệt như thế, ngoài việc vô hiệu hóa chất độc trong không khí. Một ma cụ kháng độc có thể đáp ứng được mục đích này, cũng như việc liên tục sử dụng Thần Lực để thanh tẩy không khí xung quanh mạo hiểm giả. Người ta cũng sẽ cần các trang bị bảo hộ và y phục thích hợp để băng qua địa hình độc hại một cách an toàn.
+Ao hồ trong đầm lầy phần lớn đều chứa kịch độc, chưa kể những luồng khí độc thi thoảng lại phun trào từ mặt nước. Chỉ riêng việc đi lại trong đầm lầy thôi đã đủ nguy hiểm rồi. Muốn thám hiểm nơi này một cách an toàn, trước hết người ta phải có cách hít thở trong môi trường độc hại như vậy, chưa kể việc vô hiệu hóa độc tố trong không khí. Một ma cụ kháng độc có thể đáp ứng được điều này, hoặc mạo hiểm giả phải liên tục dùng Thần Lực thanh tẩy không khí quanh mình. Ngoài ra cũng cần trang bị bảo hộ và quần áo chuyên dụng để băng qua vùng địa hình ngập độc.
 
-Tệ hơn nữa, một môi trường ngập ngụa độc tố như vậy đã tác động sâu sắc đến các cư dân của nó, đáng chú ý nhất là những quái vật sinh sống trong đầm lầy. Tại đó, Slime đã tiến hóa thành Slime Độc, Goblin cầm trên tay những vũ khí tẩm độc, và loài Rắn Biển bơi lội trong vùng nước đục ngầu này cũng được trang bị chất kịch độc chết người trong cơ thể.
+Tệ hơn nữa, môi trường ngập ngụa độc tố này tác động sâu sắc đến các cư dân của nó, rõ nhất là lũ quái vật sinh sống trong đầm lầy. Ở đó, Slime đã tiến hóa thành Slime Độc, Goblin lăm lăm vũ khí tẩm độc, còn loài Rắn Biển bơi dưới làn nước đục ngầu cũng mang sẵn nọc kịch độc chết người.
 
-Cân nhắc tất cả những yếu tố đó, người ta mới nhận ra sự hiểm độc khôn lường của đầm lầy: người ta không thể cứ thế mà tùy tiện đặt chân vào Đầm Lầy Tarasque.
+Tính hết những yếu tố đó lại mới thấy đầm lầy này nguy hiểm đến mức nào: chẳng ai có thể cứ thế mà nghênh ngang bước vào Đầm Lầy Tarasque.
 
-Và như tôi đã nói, còn có cả vấn đề về bản thân loài Tarasque nữa. Đầm lầy này là nơi mà người ta luôn tránh xa bằng mọi giá.
+Và như tôi đã nói, còn có mối lo từ chính loài Tarasque nữa. Đầm lầy này là nơi người ta luôn tránh xa bằng mọi giá.
 
-Dù nhu cầu về các nguyên liệu từ nơi này là rất cao, nhưng hầu hết mạo hiểm giả đều coi trọng tính mạng của mình hơn một đống tiền vàng. Ngay cả tôi cũng sẽ chẳng đời nào mò tới đây nếu có sự lựa chọn khi còn sống. Đó là quan điểm chung mà đại đa số mạo hiểm giả đều đồng tình.
+Dù nguyên liệu ở đây có giá rất cao, nhưng phần lớn mạo hiểm giả đều quý mạng mình hơn một đống tiền vàng. Hồi còn sống, có sự lựa chọn thì tôi cũng chẳng đời nào mò tới đây. Đó là suy nghĩ chung của hầu hết mạo hiểm giả.
 
-Nhưng trong tình trạng hiện tại của tôi, Đầm Lầy Tarasque lại chẳng mấy tạo ra mối đe dọa nào. Tôi hẳn đã thà chết chứ không bước chân tới nơi này khi mình còn hít thở, nhưng dưới thân phận một Undead, tôi chẳng mảy may bận tâm về địa hình độc hại, không khí độc hay những luồng khí độc lan tỏa khắp đầm lầy. Nhờ bản chất kháng độc mới có được, vốn đã được kiểm chứng qua các thí nghiệm của Lorraine, tôi có thể an tâm gạt phăng đi 80% mối hiểm nguy của đầm lầy. Ngay cả chất độc từ quái vật cũng chẳng có tác dụng gì đối với tôi; với tôi, những cư dân của đầm lầy chẳng khác mấy so với những người anh em đồng loại bình thường của chúng.
+Nhưng ở tình trạng hiện tại, Đầm Lầy Tarasque lại chẳng đe dọa được tôi là bao. Hồi còn sống thì thà chết tôi cũng không đặt chân tới đây, nhưng dưới thân phận Undead, tôi chẳng mảy may bận tâm về địa hình độc hại, không khí độc hay những luồng khí độc khắp đầm lầy. Nhờ đặc tính kháng độc mới có mà các thí nghiệm của Lorraine đã kiểm chứng, tôi có thể yên tâm gạt đi tám mươi phần trăm mối nguy ở đây. Ngay cả độc của lũ quái vật cũng vô tác dụng với tôi; với tôi, lũ quái vật ở đầm lầy này chẳng khác gì đồng loại bình thường của chúng.
 
-Về mặt giả định, nếu chẳng may có loại độc tố nguy hiểm nào tác động đến tôi, tôi cũng có thể dễ dàng thanh tẩy nó bằng Thần Lực của mình. Vì lẽ đó, tôi hoàn toàn có thể gạch tên chất độc ra khỏi danh sách các mối đe dọa môi trường mà mình phải đối phó.
+Giả dụ có dính phải loại độc nguy hiểm nào, tôi cũng có thể dễ dàng dùng Thần Lực thanh tẩy. Vì thế, tôi hoàn toàn có thể gạch phăng chất độc ra khỏi danh sách những mối nguy môi trường cần đối phó.
 
-Ngay cả Edel, lúc này vẫn đang nghỉ ngơi trên vai tôi, cũng có một mức độ kháng độc nhất định. Dù chúng tôi chưa có nhiều cơ hội để thử nghiệm và kiểm chứng điều này, nhưng tôi cho rằng việc quyến thuộc của tôi thừa hưởng một số đặc tính từ tôi cũng là điều hoàn toàn tự nhiên.
+Ngay cả Edel, lúc này vẫn nằm trên vai tôi, cũng có khả năng kháng độc nhất định. Dù chúng tôi chưa có dịp kiểm chứng bằng thí nghiệm, nhưng con quyến thuộc thừa hưởng đôi chút đặc tính từ tôi cũng là điều dễ hiểu.
 
-Vì Edel vốn dĩ sống dưới căn hầm chứa đồ, nó hẳn đã quen với bầu không khí ô uế ở một chừng mực nào đó. Tuy vậy, tôi đã dùng Thần Lực để thanh tẩy cho nó trước khi mang nó về nhà Lorraine.
+Edel vốn sống dưới hầm chứa đồ nên chắc cũng quen với không khí bẩn thỉu ở mức nào đó rồi. Dù vậy, tôi vẫn dùng Thần Lực thanh tẩy cho nó trước khi mang về nhà Lorraine.
 
-Ngay cả khi tôi có lỡ sảy chân rơi xuống một vũng độc, vầng hào quang Thần Lực của tôi cũng sẽ thanh tẩy cho cả hai chúng tôi, cho phép chúng tôi lên xe ngựa trong một trạng thái tương đối sạch sẽ.
+Dù tôi có lỡ sảy chân ngã vào vũng độc, hào quang Thần Lực cũng sẽ thanh tẩy cho cả hai, giúp chúng tôi lên xe ngựa trong bộ dạng tương đối sạch sẽ.
 
-Tôi tiến thêm một bước về phía trước, dấn thân sâu hơn vào đầm lầy.
+Tôi bước tiếp, tiến sâu hơn vào đầm lầy.

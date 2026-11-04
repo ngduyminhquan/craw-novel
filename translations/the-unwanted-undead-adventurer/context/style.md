@@ -35,6 +35,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 9. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
 10. **Giọng Raiz Dunner và Laura Satii (#33–38).** Raiz bộc trực, thẳng thắn, giàu năng lượng nhưng biết lắng nghe và cầu tiến; Laura Satii điềm tĩnh, nhỏ nhẹ, lễ phép và chín chắn hơn tuổi. Cả hai đối thoại tự nhiên như bạn đồng hành thân thiết ("tôi/tụi mình - cậu/Raiz/Laura"), tôn trọng Rentt chân thành nhưng bình đẳng, không "dạ/ạ" (Raiz gọi "anh / Rentt", Laura gọi "anh / anh Vivie").
 11. **Giọng Alize (#48–52).** Đứa trẻ lớn biết lo toan tại cô nhi viện; ban đầu cố nói năng trịnh trọng, giữ kẽ trước khách lạ, nhưng khi đối thoại tự nhiên thì nhanh nhẹn, bộc trực, ra dáng chị cả che chở cho đàn em nhỏ; xưng "em - anh" với Rentt, "con - sơ" với Sơ Lillian.
+12. **Liên kết tâm trí với Edel và tính cách quyến thuộc (#51–52).** Edel tuy là chuột quyến thuộc nhưng có cái tôi và chính kiến rất lớn (bướng bỉnh, háu ăn, biết dậm chân phản đối, dựng lông bất mãn). Liên kết tâm trí truyền cảm xúc và suy nghĩ trực tiếp sang Rentt; Rentt đối thoại nội tâm với con chuột như một cộng sự ngang ngạnh, bình đẳng, không áp đặt kiểu chủ tớ máy móc.
 
 ## Từ cảm thán / cách nói cố định
 
