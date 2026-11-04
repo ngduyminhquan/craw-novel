@@ -266,9 +266,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | reviewed |  |
 | 260 |  | Chapter_260 - Vol 11 Chapter 3 - The Organization (5).txt | Vol 11 Chapter 3 - The Organization (5) | reviewed |  |
 | 261 |  | Chapter_261 - Vol 11 Chapter 3 - The Organization (6).txt | Vol 11 Chapter 3 - The Organization (6) | reviewed |  |
-| 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | done |  |
-| 263 |  | Chapter_263 - Vol 11 Chapter 3 - The Organization (8).txt | Vol 11 Chapter 3 - The Organization (8) | done |  |
-| 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | done |  |
+| 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | reviewed |  |
+| 263 |  | Chapter_263 - Vol 11 Chapter 3 - The Organization (8).txt | Vol 11 Chapter 3 - The Organization (8) | reviewed |  |
+| 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | reviewed |  |
 | 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | todo |  |
 | 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | todo |  |
 | 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | todo |  |
@@ -917,3 +917,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#262] Thuật ngữ "divine treasure" (quyền trượng hoàng gia và bảo vật do thần linh/High Elf/Người Lùn chế tạo): tạm chốt là "Thần Khí" (viết hoa Hán Việt theo rules.md). Cần xác nhận giữ "Thần Khí" hay đổi sang "Thần Vật" / "Bảo Vật Thần Thánh". → Chốt 'Thần Khí' theo đúng quy tắc dịch vật phẩm Hán Việt trong rules.md. (orchestrator)
 - [#263] Dịch nhân vật mới 'Hamishy Favor' (nhà nghiên cứu mê cung đứng đầu Tòa Tháp Yaaran) — tạm giữ nguyên tên riêng phương Tây 'Hamishy Favor' và thêm vào characters.md theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Hamishy Favor'. → Giữ nguyên tên phương Tây 'Hamishy Favor' theo đúng rules.md. (orchestrator)
 - [#263] Dịch chức vụ 'vice chief' trong tổ chức sát thủ/dị năng của Jean Seebeck — tạm dịch là 'phó thủ lĩnh' theo văn cảnh tổ chức (phương án khác: 'phó thủ lĩnh ngầm', 'phó chỉ huy'). Tạm dùng trong bản dịch: 'phó thủ lĩnh'. → Chốt 'phó thủ lĩnh' đồng bộ với 'thủ lĩnh' (chief) của Jean Seebeck. (orchestrator)
+- [#262-263] Kính ngữ 'ạ' của Rentt khi nói chuyện với Jean Seebeck — Rentt là mạo hiểm giả kỳ cựu đĩnh đạc, bình đẳng và tôn trọng ('tôi - ngài') → Bỏ toàn bộ kính ngữ 'ạ' với Jean Seebeck (orchestrator)
+- [#264] Cảnh báo QA check 'familiar' ở chương 264 — raw dùng tính từ ('familiar drawing room', 'familiar with...') → Báo nhầm (false positive), giữ nguyên bản dịch (orchestrator)

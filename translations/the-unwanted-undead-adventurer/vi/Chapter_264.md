@@ -130,7 +130,7 @@ Tôi hiểu điều đó có nghĩa là mọi người sẽ thấy ổn thỏa c
 
 Bởi cô nắm quyền quản lý tu viện, tôi đoán có khả năng cô không mấy am hiểu những góc phố bình dân của thành phố. Những nhân vật tai to mặt lớn hiếm khi ra ngoài mà không có đoàn tùy tùng tháp tùng. Công Chúa Điện Hạ chẳng hạn, chắc hẳn chưa từng một mình dạo bước trên phố bao giờ. Đâu phải cứ sinh ra và lớn lên ở đây là Elza nhất thiết có thể đóng trọn vai trò của một người dẫn đường.
 
-Thế nhưng, Elza nói: "Tin tôi đi. Sẽ ổn cả thôi. Hồi nhỏ tôi gần như sống trên những con phố này mà. Tôi hiểu rõ chúng hơn bất kỳ ai... trừ phi là Lillian."
+Thế nhưng, Elza nói: "Tin tôi đi. Sẽ ổn cả thôi. Hồi nhỏ tôi gần như sống trên những con phố này mà. Tôi hiểu rõ chúng hơn bất kỳ ai... ngoại trừ Lillian ra có lẽ mới hơn tôi."
 
 "Lillian cũng là người vương đô sao?" Lorraine hỏi.
 
@@ -152,7 +152,7 @@ Về mặt lý thuyết thì nó có thể bị xếp vào loại thư tịch đ
 
 "Không đời nào."
 
-Cả hai chúng tôi đều phủ nhận, nhưng trong khi Lorraine có thể nói thế mà không ai bắt bẻ được, thì tôi lại đang đeo một chiếc mặt nạ đầu lâu, thành thử tôi chẳng có chút lý lẽ nào để đứng vững cả. Elza nhìn chằm chằm vào tôi, khiến tôi đành phải lảng mắt đi nơi khác.
+Cả hai chúng tôi đều phủ nhận, nhưng trong khi Lorraine có thể nói thế mà không ai bắt bẻ được, thì tôi lại đang đeo một chiếc mặt nạ đầu lâu, thành thử tôi chẳng có chút lý lẽ nào để chống chế cả. Elza nhìn chằm chằm vào tôi, khiến tôi đành phải lảng mắt đi nơi khác.
 
 Tôi đành chịu thua.
 

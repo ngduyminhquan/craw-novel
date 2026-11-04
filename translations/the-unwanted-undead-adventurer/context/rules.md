@@ -108,3 +108,6 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#256) Tránh dùng tiếng lóng hiện đại như "trâu bò / độ trâu bò" (gamer slang) khi miêu tả sức chịu đựng, thể chất dẻo dai hay độ bền bỉ của nhân vật (thay bằng "bền bỉ / sức chống chịu / thể chất dẻo dai").
 - (#256) Tránh dùng từ ngữ công nghệ hiện đại như "tin nhắn" (SMS) trong bối cảnh kỳ ảo trung cổ, thay bằng "lời nhắn / tin tức / tin báo".
 - (#258) Phân biệt từ "wielding" (cầm / mang / sử dụng vũ khí) với "swinging / slashing" (vung kiếm / chém), tránh dịch nhầm thành "vung kiếm" khi trận đấu chưa bắt đầu hoặc đang ở thế thủ.
+- (#262) Thành ngữ "put bread on the table": dịch là "kiếm đủ ăn / kiếm sống", tránh dịch thô thành "số bánh mì kiếm được" và tránh ghép từ vô nghĩa "thừa thấu".
+- (#264) Phân biệt liên từ "trừ phi" (unless) và giới từ "ngoại trừ / trừ" (except): không dùng "trừ phi là [Ai đó]" khi mang nghĩa loại trừ người ("except perhaps [Someone]" -> "ngoại trừ / trừ [Ai đó] ra có lẽ mới... / họa chăng chỉ có...").
+- (#264) Thành ngữ "not have a leg to stand on": dịch là "chẳng có lý lẽ nào để chống chế / bào chữa", tránh dịch thô thành "chẳng có lý lẽ nào để đứng vững".

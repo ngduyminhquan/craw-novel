@@ -34,7 +34,7 @@ Laura từng bảo cô bé đang nắm giữ bốn Lõi Mê Cung, vậy chẳng 
 
 Lorraine và tôi lại đưa mắt nhìn nhau. Quả đúng như chúng tôi nghi ngờ. Dù vậy, chính Jean đã nói rằng chủ nhân đâu nhất thiết phải có mặt trong mê cung. Nếu đã vậy, ông hẳn phải biết việc đoạt lấy chiếc lõi sẽ chẳng hề dễ dàng gì.
 
-"Làm thế nào để các ngài xác định được ai đang nắm giữ chiếc lõi ạ?" tôi hỏi. "Nếu họ ở bên ngoài mê cung, họ có thể ở bất cứ đâu."
+"Làm thế nào để các ngài xác định được ai đang nắm giữ chiếc lõi?" tôi hỏi. "Nếu họ ở bên ngoài mê cung, họ có thể ở bất cứ đâu."
 
 "Đúng thế, nhưng một mê cung mới hình thành thì lại khác. Theo các chuyên gia của Tòa Tháp, những mê cung mới vẫn còn trong trạng thái bất ổn định, nên người sở hữu chiếc lõi buộc phải túc trực ở bên trong. Họ ước tính khoảng thời gian này là tầm một năm hoặc hơn."
 
@@ -66,7 +66,7 @@ Dẫu vậy, ngay cả nghiên cứu của một thiên tài đôi khi cũng có
 
 Jean gật đầu. "Phải. Tòa Tháp đang tìm kiếm Lõi Mê Cung. Học Viện cũng vậy, nhưng họ lại được Đệ Nhất Hoàng Tử hậu thuẫn phía sau. Đây là một cuộc đua xem ai sẽ tìm thấy nó trước."
 
-"Vậy Hoàng tử cũng biết chiếc lõi đó là cần thiết để sửa chữa quyền trượng sao ạ?" tôi hỏi.
+"Vậy Đệ Nhất Hoàng Tử cũng biết chiếc lõi đó là cần thiết để sửa chữa quyền trượng sao?" tôi hỏi.
 
 "Hắn biết," Jean đáp. "Gisel đã cố tình làm rò rỉ thông tin đó. Dù sao đi nữa, ưu tiên hàng đầu của Tòa Tháp là tìm ra phương pháp xác định xem ai là người sở hữu chiếc lõi. Đó là vấn đề về nhân lực, nên họ muốn huy động càng nhiều người càng tốt để hỗ trợ lục soát mê cung. Nếu Học Viện tìm thấy nó trước, Tòa Tháp dự tính sẽ cướp lấy nó từ tay họ."
 
@@ -82,13 +82,13 @@ Nói đúng hơn thì, thuyết phục nhà vua đổi ý còn dễ dàng hơn n
 
 Vì tôi thực sự chẳng còn điều gì khác để bàn về chủ đề này, tôi quyết định chuyển sang một đề tài quan trọng hơn nhiều đối với chúng tôi.
 
-"Được rồi ạ, tôi nghĩ mình đã nắm được tường tận chuyện Lõi Mê Cung. Nhưng điều đó vẫn chưa giải thích được lý do vì sao chúng tôi lại cần phải bị thủ tiêu."
+"Được rồi, tôi nghĩ mình đã nắm được tường tận chuyện Lõi Mê Cung. Nhưng điều đó vẫn chưa giải thích được lý do vì sao chúng tôi lại cần phải bị thủ tiêu."
 
 "Đó là bởi Nhị Công Chúa đang tìm cách nhờ tộc High Elf tạo ra một quyền trượng mới," Jean nói. "Và bọn ta đinh ninh rằng các cậu đã được chọn làm người vận chuyển."
 
 Tôi nhớ là ông lão từng nói điều gì đó tương tự như vậy.
 
-"Nhưng chuyện đó thì có gì sai trái đâu ạ?" tôi hỏi. "Một quyền trượng mới đồng nghĩa với việc nhà vua sẽ không phải sử dụng cây quyền trượng cũ nữa. Tôi chẳng thấy có vấn đề gì cả."
+"Nhưng chuyện đó thì có gì sai trái đâu?" tôi hỏi. "Một quyền trượng mới đồng nghĩa với việc nhà vua sẽ không phải sử dụng cây quyền trượng cũ nữa. Tôi chẳng thấy có vấn đề gì cả."
 
 "Đúng là vậy. Nhưng Nhị Công Chúa đâu có định dâng quyền trượng đó cho nhà vua. Cô ta định đợi cho đến khi cây quyền trượng cũ hút cạn sinh mệnh ông ấy tới chết, rồi mới dùng cây quyền trượng mới để chiếm đoạt ngai vàng."
 
@@ -104,7 +104,7 @@ Thật là một câu nói đáng sợ khi được thốt ra một cách bình 
 
 Tôi đoán đó chính là những gì Jean đã bận rộn xử lý gần đây. Dù có là thủ lĩnh của một tổ chức trong bóng tối hay không, những cuộc tranh giành quyền lực chính trị hẳn chẳng bao giờ là điều dễ đối phó. Dẫu vậy, vẫn có một điều khiến tôi băn khoăn.
 
-"Ngài chưa từng nhận ra phó thủ lĩnh của mình làm việc cho Gisel sao ạ?"
+"Ngài chưa từng nhận ra phó thủ lĩnh của mình làm việc cho Gisel sao?"
 
 Đó quả là một sơ suất khá lớn...
 
@@ -112,11 +112,11 @@ Tôi đoán đó chính là những gì Jean đã bận rộn xử lý gần đ�
 
 Vậy là phó thủ lĩnh đã giữ kín bí mật đó suốt cả cuộc đời mình, kiên nhẫn chờ đợi thời khắc then chốt và cần mẫn làm việc mà không hề hé răng nửa lời với đồng nghiệp hay cấp dưới. Hèn chi chẳng ai mảy may nghi ngờ.
 
-Rốt cuộc thì, kết cục vẫn là thất bại. Đó dường như là một kiếp người đáng buồn, nhưng nếu bản thân người đó cam tâm tình nguyện hy sinh vì lòng trung thành của mình, thì có lẽ chuyện đó cũng không đến nỗi quá tệ. Dẫu người ấy là kẻ thủ ác đã gây cho chúng tôi bao nhiêu rắc rối, theo một khía cạnh nào đó, họ chắc chắn là một người có nguyên tắc kiên định, thành thử tôi lại thấy trong lòng dâng lên chút bùi ngùi.
+Rốt cuộc thì, kết cục vẫn là thất bại. Đó dường như là một kiếp người đáng buồn, nhưng nếu bản thân người đó cam tâm tình nguyện hy sinh vì lòng trung thành của mình, thì có lẽ chuyện đó cũng không đến nỗi quá tệ. Dẫu người ấy là thủ phạm đã gây cho chúng tôi bao nhiêu rắc rối, theo một khía cạnh nào đó, họ chắc chắn là một người có nguyên tắc kiên định, thành thử tôi lại thấy trong lòng dâng lên chút bùi ngùi.
 
 Có lẽ tôi chỉ có thể nghĩ được như vậy vì tôi chưa từng gặp mặt họ và chúng tôi đã bước ra khỏi âm mưu đó mà vẫn bình an vô sự. Nếu chúng tôi thực sự phải chịu tổn hại theo cách nào đó, tôi có lẽ đã ôm mối hận cay đắng với họ rồi.
 
-"Vậy nếu đã như thế," tôi mở lời, "ngài định sẽ làm gì tiếp theo ạ? Nhìn vào tình hình lúc này, Gisel đang bất chấp tất cả và làm mọi thứ có thể để đưa Đệ Nhất Công Chúa lên ngai vàng. Ngài vẫn sẽ tiếp tục hợp tác với bà ta sao?"
+"Vậy nếu đã như thế," tôi mở lời, "ngài định sẽ làm gì tiếp theo? Nhìn vào tình hình lúc này, Gisel đang bất chấp tất cả và làm mọi thứ có thể để đưa Đệ Nhất Công Chúa lên ngai vàng. Ngài vẫn sẽ tiếp tục hợp tác với bà ta sao?"
 
 "Không, hợp đồng của bọn ta với bà ta đã kết thúc rồi. Ta hoàn toàn hài lòng với việc Nhị Công Chúa mang về một quyền trượng mới. Ta biết cô ấy sẽ sẵn lòng dâng nó cho nhà vua. Vấn đề là liệu cô ấy có thể xoay xở đoạt được nó hay không. Dù sao thì, chuyện đó đang tiến triển thế nào rồi?"
 
@@ -152,7 +152,7 @@ Nghĩ lại thì, Wolf dường như cũng chẳng mấy mặn mà với ý tư�
 
 Trái ngược với dự đoán của tôi, Jean nói, "Có chứ, ta có kế hoạch đó. Ta đang nghĩ cũng đã đến lúc mình nên ghé qua rồi. Ngày mai thì... ta không rảnh vì ta sẽ đi gặp công chúa như đã nói, nhưng ngày mốt chúng ta cùng lên đường tới Maalt thì thế nào? Nghe được chứ?"
 
-"Ngài chắc chứ ạ?" tôi hỏi. "Ngài không bận sao?"
+"Ngài chắc chứ?" tôi hỏi. "Ngài không bận sao?"
 
 Jean có cả núi vấn đề cần phải xử lý. Ông không chỉ phải lo việc của tổ chức, mà còn cả việc của Hội và chuyện quyền trượng nữa. Bản thân tôi cũng có việc riêng, chẳng hạn như báo cáo lại cho Làng Hathara và chuẩn bị cho kỳ thi thăng hạng Ngân Cấp, nhưng tất cả đều chỉ là chuyện cá nhân. Chúng chẳng thấm tháp vào đâu nếu so với trách nhiệm của Jean.
 
@@ -168,7 +168,7 @@ Dù sao thì đề xuất của Jean cũng chẳng hề tệ đối với chúng
 
 "Được rồi," Jean nói. "Vậy cứ quyết định thế đi. Ngày mốt chúng ta sẽ khởi hành về Maalt. Như vậy ổn chứ?"
 
-"Vâng ạ," tôi đáp. "Trong lúc đó, chúng tôi sẽ chuẩn bị phần việc của mình. Còn về cỗ xe..."
+"Được thôi," tôi đáp. "Trong lúc đó, chúng tôi sẽ chuẩn bị phần việc của mình. Còn về cỗ xe..."
 
 "Chúng tôi sẽ lo liệu chuyện đó," Lorraine nói. "Nên ông sẽ không cần phải sắp xếp gì đâu. Hẹn gặp lại ông sau hai ngày nữa."
 

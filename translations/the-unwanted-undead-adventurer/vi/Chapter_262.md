@@ -18,7 +18,7 @@ Vậy là Wolf không hề biết Jean chính là thủ lĩnh của tổ chức 
 
 "Thật thế à? Giờ ta mới nghe thấy đấy. Thực ra ta đã ra lệnh liên lạc với Wolf và bảo hắn tới gặp ta. Ta muốn biết thêm chi tiết về những gì đang xảy ra đằng ấy ở Maalt."
 
-"Ngài đang nói tới mê cung ạ?"
+"Ngài đang nói tới mê cung sao?"
 
 "Phải. Cả Tòa Tháp lẫn Học Viện lúc này cũng đều ở đó, đúng chứ? Có thể cậu nghĩ chuyện đó chẳng liên quan gì đến cậu và các bạn đồng hành của cậu, nhưng cậu lầm to rồi đấy nhé."
 
@@ -34,7 +34,7 @@ Jean chỉ tay về phía Lorraine và những người khác dưới sàn đấ
 
 Cô nhìn theo Jean, người đang rảo bước phía trước dẫn đường cho chúng tôi qua những dãy hành lang của đấu trường. Chúng tôi đi lên mặt đất, rồi tiếp tục leo lên các tầng cao hơn. Theo lời Jean, văn phòng của ông nằm ở tầng cao nhất, nơi cũng có các gian phòng dành riêng cho hoàng tộc và quý tộc với tầm nhìn bao quát rộng rãi xuống đấu trường lộ thiên phía trên mặt đất.
 
-Thường dân cũng có thể theo dõi từ những căn phòng đó, nhưng nếu muốn làm vậy, người ta phải trả khoản phí thuê trọn gói cả năm trời. Khi nghe thấy số tiền đó lớn đến mức nào, tôi dứt khoát kết luận rằng đứng xem từ khán đài tốt hơn nhiều. Tôi có cảm giác rằng những căn phòng quý tộc ấy, dù mang lại cảm giác cực kỳ sang chảnh nhờ vị trí đắc địa, lại hơi quá xa để có thể quan sát rõ các trận đấu. Mặc dù vậy, vì có trang bị ma cụ quan sát, có lẽ họ vẫn theo dõi thuận tiện hơn. Dù thế, bản thân tôi vẫn thích tận mắt chứng kiến những trận đấu thực tế bằng chính đôi mắt của mình hơn. Liệu nghĩ như vậy có tầm thường dung tục quá không? Chẳng ai đoán chắc được.
+Thường dân cũng có thể theo dõi từ những căn phòng đó, nhưng nếu muốn làm vậy, người ta phải trả khoản phí thuê trọn gói cả năm trời. Khi nghe thấy số tiền đó lớn đến mức nào, tôi dứt khoát kết luận rằng đứng xem từ khán đài tốt hơn nhiều. Tôi có cảm giác rằng những căn phòng quý tộc ấy, dù mang lại cảm giác vô cùng sang trọng nhờ vị trí đắc địa, lại hơi quá xa để có thể quan sát rõ các trận đấu. Mặc dù vậy, vì có trang bị ma cụ quan sát, có lẽ họ vẫn theo dõi thuận tiện hơn. Dù thế, bản thân tôi vẫn thích tận mắt chứng kiến những trận đấu thực tế bằng chính đôi mắt của mình hơn. Liệu nghĩ như vậy có đậm chất thứ dân quá không? Chẳng ai đoán chắc được.
 
 "Tôi cũng chẳng nhận ra ông ta," tôi nói. "Và cả Spriggan cũng vậy."
 
@@ -68,7 +68,7 @@ Sau khi tới văn phòng của mình, Jean ngồi xuống và ra hiệu cho t�
 
 Chiếc ghế sofa bọc da mềm mại rõ ràng là hàng cao cấp, cho thấy ông có một mức sống vô cùng dư dả. Mà nghĩ lại thì, xét việc ông điều hành cả một cơ ngơi khổng lồ như thế này ở vương đô, chẳng đời nào ông lại không giàu có.
 
-Chỉ riêng công việc công khai của ông chắc chắn đã hái ra tiền rồi. Đấu trường là nơi tiền tài chảy như nước. Cá cược được phép diễn ra, miễn là được báo cáo và phê duyệt. Dĩ nhiên, một số kẻ vẫn ngấm ngầm cá cược ngầm—chủ yếu là kiểu người kiếm sống trong bóng tối—nhưng Jean và tổ chức của ông lại chính là những kẻ đó. Rất dễ hình dung việc họ kiếm bộn tiền từ cả hoạt động công khai lẫn thế giới ngầm. Tôi tự hỏi không biết họ có đóng thuế không nữa. Tôi thì hơi ngờ rằng họ không đóng.
+Chỉ riêng công việc công khai của ông chắc chắn đã hái ra tiền rồi. Đấu trường là nơi tiền tài chảy như nước. Cá cược được phép diễn ra, miễn là được báo cáo và phê duyệt. Dĩ nhiên, một số kẻ vẫn ngấm ngầm cá cược ngầm—chủ yếu là kiểu người kiếm sống trong bóng tối—nhưng Jean và tổ chức của ông lại chính là những kẻ đó. Rất dễ hình dung việc họ kiếm bộn tiền từ cả hoạt động công khai lẫn thế giới ngầm. Tôi tự hỏi không biết họ có đóng thuế không nữa. Tôi thì không nghĩ là họ có đóng.
 
 Chúng tôi ngồi xuống ghế sofa, và Gilli ra hiệu cho một người trông như cô hầu gái. Cô bắt đầu chuẩn bị đồ uống cho tất cả chúng tôi.
 
@@ -98,11 +98,11 @@ Tôi biết Gisel, kẻ hậu thuẫn cho Đệ Nhất Công Chúa và là ngư�
 
 Không chỉ riêng họ—các mạo hiểm giả cũng sẽ có thêm nhiều việc làm. Giờ khi Lorraine đã chỉ ra điều đó, tôi nhận ra một người ở vị thế như Jean sẽ được lợi rất nhiều. Công việc ban ngày điều hành Hội Mạo Hiểm Giả lẫn công việc phụ điều hành tổ chức đều sẽ chứng kiến lượng công việc đổ về như nước.
 
-Tuy nhiên, Jean lắc đầu. "Không, không phải thế đâu. Ta không thể phủ nhận kết quả sẽ là như vậy, nhưng với những gì chúng ta đang đảm đương lúc này, số bánh mì kiếm được đã thừa thấu rồi. Mặc dù, ta không thể nói rằng ý tưởng đó hoàn toàn không có chút lôi cuốn nào với ta. Theo một vài khía cạnh nào đó, nó sẽ cải thiện đáng kể cuộc sống của các mạo hiểm giả. À ừ thì, là những người ở cấp bậc thấp ấy."
+Tuy nhiên, Jean lắc đầu. "Không, không phải thế đâu. Ta không thể phủ nhận kết quả sẽ là như vậy, nhưng với những gì chúng ta đang đảm đương lúc này thì đã quá thừa sức kiếm đủ ăn rồi. Mặc dù, ta không thể nói rằng ý tưởng đó hoàn toàn không có chút lôi cuốn nào với ta. Theo một vài khía cạnh nào đó, nó sẽ cải thiện đáng kể cuộc sống của các mạo hiểm giả. À ừ thì, là những người ở cấp bậc thấp ấy."
 
 Theo như tình hình hiện tại, những mạo hiểm giả lành nghề đã có thể kiếm được nguồn thu nhập khá khẩm, nhưng những kẻ ở cấp bậc thấp giống như bản thân tôi trước đây và Rina thì chật vật lắm mới kiếm đủ tiền để bảo đảm cho mình một chỗ ngả lưng qua đêm. Mặt khác, nếu số lượng quái vật Undead gia tăng, số tiền thưởng treo thưởng cho chúng cũng sẽ tăng theo, và điều đó có thể xoa dịu vấn đề này. Càng có nhiều loại Undead thuộc hàng yếu nhất, chẳng hạn như Khô Lâu—hoặc thậm chí Khô Lâu cỡ nhỏ—thì đồng nghĩa với việc càng có thêm thu nhập.
 
-Người ta không thấy những chủng loại đó xuất hiện quá nhiều quanh Yaaran, nhưng có lẽ đó là nhờ tác dụng của quyền trượng. Chúng là những quái vật yếu ớt, nên tôi đồ rằng chẳng cần tốn bao nhiêu sức lực để quyền trượng thanh tẩy chúng. Thật đáng tiếc khi quá trình đó không để lại Ma Tinh của chúng, bởi chúng vẫn có đủ giá trị để mưu sinh, nhưng cũng chẳng ích gì khi đi tiếc nuối những thứ vốn dĩ chưa từng tồn tại về mặt kỹ thuật.
+Người ta không thấy những chủng loại đó xuất hiện quá nhiều quanh Yaaran, nhưng có lẽ đó là nhờ tác dụng của quyền trượng. Chúng là những quái vật yếu ớt, nên tôi đồ rằng chẳng cần tốn bao nhiêu sức lực để quyền trượng thanh tẩy chúng. Thật đáng tiếc khi quá trình đó không để lại Ma Tinh của chúng, bởi chúng vẫn có đủ giá trị để mưu sinh, nhưng cũng chẳng ích gì khi đi tiếc nuối những thứ nói đúng ra thì vốn dĩ chưa từng tồn tại.
 
 Dù vậy, nếu không có tác dụng của quyền trượng, những loại Undead đó có thể sẽ trồi lên ngày một nhiều hơn. Với khoản thu nhập gia tăng, việc chi trả cho một mái nhà che đầu mỗi đêm sẽ không còn là gánh nặng nữa. Nghe có vẻ tuyệt vời đấy—đối với những kẻ như tôi. Còn đối với một người bình thường, Undead yếu ớt vẫn thừa sức đe dọa đến tính mạng. Chắc chắn một điều rằng không có chúng thì tất cả chúng ta đều sẽ sống yên ổn hơn.
 
@@ -166,7 +166,7 @@ Tôi nghiêng đầu thắc mắc. "Chừng đó thì chúng tôi cũng biết, 
 
 Lorraine tỏ vẻ thất vọng. "Nghe... giống như một trò lừa đảo vậy. 'Món đồ bạn khao khát đang sẵn sàng chờ bạn tới lấy ngay tại đây, ngay lúc này! Đừng bỏ lỡ. Hãy quyết định ngay lập tức!'"
 
-Jean cười lớn và gật đầu. "Cô nói chuẩn xác luôn đấy. Nhưng trừ phi các cậu đã quên, tổ chức của chúng ta bao gồm toàn những người sở hữu dị năng. Việc chúng ta có một người có khả năng phân định xem đối phương có đang nói thật hay không đâu phải là điều viển vông, đúng chứ?"
+Jean cười lớn và gật đầu. "Cô nói chuẩn xác luôn đấy. Nhưng trừ phi các cậu đã quên, tổ chức của ta bao gồm toàn những người sở hữu dị năng. Việc chúng ta có một người có khả năng phân định xem đối phương có đang nói thật hay không đâu phải là điều viển vông, đúng chứ?"
 
 Sắc mặt Lorraine lại thay đổi một lần nữa—lần này là vẻ vỡ lẽ. Tâm trí con người vô cùng phức tạp, và thường rất khó để đoán biết ai đó đang nghĩ gì. Dùng ma pháp ép buộc một người làm điều gì đó vốn chẳng dễ dàng, còn can thiệp vào ký ức thì thẳng thừng mà nói là điều bất khả thi, thế nhưng chúng tôi đã tận mắt chứng kiến Siren làm được đúng điều đó bằng dị năng của ả.
 
