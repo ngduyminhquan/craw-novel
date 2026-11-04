@@ -1,169 +1,169 @@
 # Chương 19: Tập 1 Chương 4 - Mê Cung Nguyệt Ảnh và Những Ràng Buộc Phiền Phức (4)
 
-Tôi cảm nhận được một luồng sức mạnh quen thuộc đang cuộn trào khắp cơ thể. Luồng sức mạnh này không thể nghi ngờ gì nữa chính là của con Khô Lâu Khổng Lồ, đúng con quái vật tôi vừa mới hạ gục ban nãy. Nguồn năng lượng tràn vào mãnh liệt hơn bất cứ thứ gì tôi từng trải nghiệm từ trước đến nay, một minh chứng cho thấy nó thực sự là một đối thủ đáng gờm.
+Một luồng sức mạnh quen thuộc cuộn trào khắp cơ thể tôi. Không nghi ngờ gì nữa, đó chính là sức mạnh của con Khô Lâu Khổng Lồ mà tôi vừa hạ gục ban nãy. Nguồn năng lượng tràn vào mãnh liệt hơn bất cứ thứ gì tôi từng nếm trải từ trước đến nay, chứng tỏ nó thực sự là một đối thủ đáng gờm.
 
-Dẫu vậy, lẽ thường một người phải đạt tối thiểu từ Ngân Cấp trở lên mới mong đánh bại được kẻ địch cỡ này. Thế mà... tôi lại bằng cách nào đó giành được chiến thắng.
+Có điều, thường thì một mạo hiểm giả ít nhất phải từ Ngân Cấp trở lên mới mong hạ nổi kẻ địch cỡ đó. Thế mà... chẳng hiểu sao tôi lại là người giành chiến thắng.
 
-Tôi cúi nhìn những mảnh xương vương vãi của con Khô Lâu Khổng Lồ, thứ đã mất đi toàn bộ đặc tính Undead sau khi tôi đập vỡ sọ nó. Tôi thở phào nhẹ nhõm. Dĩ nhiên, đây chỉ là một cách nói—bởi sau cùng thì tôi đâu có buồng phổi còn hoạt động được để mà thở. Tất cả chỉ đơn thuần là vấn đề cảm xúc.
+Tôi nhìn xuống đống xương vụn vương vãi của con Khô Lâu Khổng Lồ. Chúng đã mất sạch đặc tính Undead sau khi tôi đập vỡ sọ nó. Tôi thở phào nhẹ nhõm, dẫu đây chỉ là một cách nói, bởi sau cùng thì tôi làm gì còn buồng phổi nào hoạt động được để mà thở. Tất cả chỉ là thuận theo cảm xúc lúc đó mà thôi.
 
-Không giống như bản thể xương khô trước kia, tôi đã có thể cảm nhận được sự tồn tại của những cơ quan nội tạng bên trong lồng ngực. Tiếc thay, chúng lại không thể hoạt động như của người sống. Dù tôi có thể thở, nhưng tôi lại không cảm thấy mình đang hít không khí vào. Song tôi vẫn cảm nhận được nhịp thở của chính mình mỗi khi vung vũ khí, hay khi thực hiện một số động tác phức tạp nhất định.
+Khác với lúc còn là một bộ xương khô, giờ tôi đã cảm nhận được các cơ quan bên trong lồng ngực mình. Tiếc là chúng không hề hoạt động như ở người sống. Tôi vẫn hô hấp được, nhưng chẳng có cảm giác không khí tràn vào phổi. Dẫu vậy, tôi vẫn thấy mình hít thở mỗi khi vung vũ khí hay thực hiện vài động tác phức tạp.
 
-Có lẽ đó chỉ đơn thuần là thói quen khó bỏ—khi còn sống tôi đã nắm vững những kiến thức cơ bản về phép điều tức trong chiến đấu, nên đến lúc chết rồi cũng khó lòng thay đổi được quán tính ấy. Nghe đồn rằng có những bậc cao thủ chỉ cần quan sát nhịp thở là có thể đọc vị và dự đoán đường đi nước bước của đối phương. Nếu muốn trở thành một mạo hiểm giả Mithril Cấp, tôi tuyệt đối không thể để thua những kẻ như vậy.
+Có lẽ đó chỉ là thói quen khó bỏ. Thời còn sống, tôi đã thuộc nằm lòng những bước cơ bản về cách hít thở trong chiến đấu, nên chết rồi cũng khó lòng bỏ được quán tính ấy. Nghe đâu có những cao thủ chỉ cần quan sát nhịp thở là có thể đọc vị và đón đầu mọi cử động của đối phương. Để vươn tới cấp bậc mạo hiểm giả Mithril Cấp, tôi không thể để mình bại dưới tay những người như thế.
 
-Nghĩ vậy, tôi tự nhủ sớm muộn gì cũng phải tìm cách xử lý các phương pháp thở mình từng học khi còn sống. Nhưng ngay lúc này, tôi sực nhớ ra một chuyện quan trọng hơn cần phải giải quyết: người đàn ông mà tôi đã đặt ở góc phòng.
+Nghĩ vậy, tôi tự nhủ sớm muộn gì cũng phải điều chỉnh lại cách thở mình học được thời còn sống. Nhưng ngay lúc này, tôi sực nhớ ra một chuyện quan trọng hơn cần giải quyết: người đàn ông tôi bỏ lại nơi góc phòng.
 
-Ông ta có thể đã bị thương từ trước khi tôi chạm trán Khô Lâu Khổng Lồ, và rất có khả năng đã nằm chịu trận suốt từ bấy đến giờ. Nếu tôi không kịp thời cứu chữa, ông ta hoàn toàn có thể mất mạng. Lúc đó ông ta vẫn còn thoi thóp thở, nhưng giờ thì sao? Rốt cuộc tôi cũng đã mất một khoảng thời gian không nhỏ mới hạ gục được con Khô Lâu Khổng Lồ.
+Có thể ông ta đã bị thương từ trước khi tôi đụng độ Khô Lâu Khổng Lồ, và cứ thế nằm chịu đau đớn suốt từ nãy đến giờ. Nếu không được cứu chữa sớm, ông ta rất dễ mất mạng. Lúc nãy ông ta vẫn còn thở, nhưng giờ thì sao? Dù gì tôi cũng mất kha khá thời gian mới hạ nổi con Khô Lâu Khổng Lồ.
 
-Cân nhắc điều đó, tôi bước lại gần người đàn ông để kiểm tra các vết thương của ông ta. Thoạt nhìn thì có vẻ may mắn đang đứng về phía ông ta, bởi các vết thương bên ngoài trông khá nông. Thế nhưng khi quan sát kỹ hơn, tôi nhận ra sự tình không hề đơn giản như vậy. Thương thế của ông ta tuy không dễ nhận thấy bằng mắt thường nhưng lại hết sức nguy nan—cụ thể là một phần xương sườn gần xương ức đã bị gãy, kèm theo một số mảnh xương ở bàn chân bị dập nát. Nếu tôi cứ để mặc ông ta ở đây, ông ta chắc chắn sẽ qua đời vì vết thương quá nặng.
+Nghĩ thế, tôi tiến lại gần kiểm tra vết thương cho ông ta. Thoạt nhìn, tưởng như may mắn đã mỉm cười vì các vết thương bên ngoài có vẻ nông. Nhưng khi xem xét kỹ hơn, tôi mới vỡ lẽ không phải vậy. Thương thế tuy khuất mắt nhưng lại rất đáng lo: một đoạn xương sườn gần xương ức đã bị gãy, kèm theo vài chỗ xương bàn chân bị dập nát. Cứ để mặc ở đây thì với thương thế nặng như thế này, ông ta chắc chắn sẽ mất mạng.
 
-Nhưng may cho ông ta, tôi lại đang có mặt ở đây. Tuy tôi không thể sử dụng bất kỳ ma pháp trị liệu định hướng nào, song trong cơ thể tôi lại sở hữu một lượng Thần Lực dự trữ.
+Nhưng may cho ông ta là có tôi ở đây. Dù không biết dùng các loại ma pháp trị liệu chuyên biệt, tôi lại có một lượng Thần Lực dự trữ trong người.
 
-Dù ma pháp đòi hỏi phải học tập một cách bài bản, người dùng phải hiểu rõ nguyên lý logic đằng sau thì mới có thể thi triển bùa chú, nhưng Thần Lực lại không như vậy. Rất nhiều người vận dụng Thần Lực một cách hết sức tự nhiên, gần như thuần theo bản năng. Trên thực tế, đó chính là lý do vì sao ngay cả một kẻ hoàn toàn không phải tư tế như tôi lại có thể thanh tẩy nước ngay sau khi nhận được chúc phúc. Vấn đề duy nhất là tôi không có ai chỉ dẫn, phần lớn đều phải tự mình mày mò thử nghiệm rồi rút kinh nghiệm.
+Muốn dùng ma pháp thì phải khổ luyện nghiêm túc, hiểu rõ nguyên lý vận hành mới thi triển được phép thuật, nhưng Thần Lực thì khác. Nhiều người sử dụng Thần Lực một cách tự nhiên, gần như theo bản năng. Nhờ thế mà ngay cả một kẻ chẳng dính dáng gì đến giới tư tế như tôi cũng có thể thanh tẩy nước ngay sau khi được ban phước. Ngặt nỗi tôi không có người chỉ bảo, mọi thứ gần như đều phải tự mò mẫm thử sai.
 
-Người đàn ông này quả thực quá đỗi may mắn; lượng Thần Lực tích trữ trong tôi chỉ có tăng lên sau khi tôi biến thành Ngạ Quỷ. Thêm vào đó, tôi còn cảm thấy bản thân dồi dào năng lượng hơn bao giờ hết nhờ luồng sức mạnh cuộn trào tràn vào cơ thể từ con Khô Lâu Khổng Lồ vừa bị tôi hạ gục.
+Người đàn ông này quả thật có phúc lớn, bởi lượng Thần Lực trong người tôi chỉ có tăng thêm sau khi biến thành Ngạ Quỷ. Đã vậy, luồng năng lượng tràn vào từ con Khô Lâu Khổng Lồ vừa bị hạ gục còn giúp tôi cảm thấy tràn trề sức sống hơn bao giờ hết.
 
-Tôi có thể cảm nhận cơ thể mình đang mạnh dần lên—các nguồn Ma Lực, Khí Lực và Thần Lực dường như đều được tăng cường rõ rệt bên trong sinh mệnh tôi. Từng nguồn năng lượng đều trở nên dồi dào hơn hẳn so với trước nhờ việc đánh bại Khô Lâu Khổng Lồ—ít nhất là tôi cảm thấy như vậy. Nếu quan sát của tôi là chuẩn xác, tôi hoàn toàn có thể làm được nhiều điều hơn là chỉ thanh tẩy nước bẩn; tôi có thể chữa lành vết thương cho người đàn ông này ngay tại đây và lúc này.
+Tôi cảm nhận rõ cơ thể mình đang mạnh lên: các nguồn Ma Lực, Khí Lực và Thần Lực bên trong dường như đều dâng trào rõ rệt. Nhờ hạ gục con Khô Lâu Khổng Lồ, từng nguồn năng lượng đều mạnh hơn trước trông thấy, ít nhất là theo cảm nhận của tôi. Nếu nhận định ấy không sai, tôi hẳn có thể làm được nhiều việc hơn là chỉ thanh tẩy nước, thậm chí chữa lành vết thương cho người đàn ông này ngay tại đây.
 
-Có lẽ cũng nên nói thêm rằng việc dùng Thần Lực chữa lành vết thương vốn dĩ thuộc về lĩnh vực của các tư tế cùng những người tương tự, và thường được coi là những phép màu thần thánh. Trên thực tế, ngay cả giữa những người phụng sự giáo hội thì năng lực này cũng chẳng hề phổ biến. Người ta cũng bảo rằng lượng Thần Lực và thiên phú của một người tỷ lệ thuận trực tiếp với đức tin của họ. Về cơ bản, nếu một người không thể sử dụng những kỹ thuật như vậy, điều đó chỉ đơn giản có nghĩa là đức tin của họ còn thiếu thốn.
+Cũng cần nói thêm rằng việc dùng Thần Lực trị thương vốn thuộc về thẩm quyền của giới tư tế, thường được xem là phép màu thần thánh. Ngay cả trong hàng ngũ những người phụng sự Giáo Hội, năng lực này cũng chẳng hề phổ biến. Người ta còn bảo lượng Thần Lực cùng thiên phú của một người tỉ lệ thuận với đức tin. Nói cách khác, nếu không dùng được thuật trị thương thì đơn giản là vì đức tin chưa đủ sâu dày.
 
-Dựa trên chuỗi nhận định đó, những thành viên của giáo hội có khả năng thực hiện kỳ tích chữa trị, cũng như những người sở hữu nguồn Thần Lực dồi dào, thường được tôn sùng như những Thánh Giả và nhận được sự kính trọng tột bậc trong mắt công chúng.
+Chính vì những quan niệm đó, người trong Giáo Hội có khả năng thi triển phép trị thương hay sở hữu Thần Lực hùng hậu thường được tôn sùng là Thánh Giả và được người đời hết mực kính trọng.
 
-Tuy nhiên xét từ góc độ đó, việc bản thân tôi có thể sử dụng Thần Lực lại có phần hơi kỳ quặc. Lý do đằng sau chuyện này hết sức rõ ràng: tôi hoàn toàn không phải một kẻ có đức tin sâu sắc. Trước hết, lý do ban đầu khiến tôi nhận được chúc phúc Thần Lực dường như chẳng qua chỉ là một sự tình cờ. Dù tôi vô cùng biết ơn vì điều đó, nhưng tôi chẳng thể nào tự nhận rằng mình tôn sùng những tinh linh hay tiên nữ đã ban tặng sức mạnh cho mình như một tín đồ ngoan đạo.
+Xét từ góc độ đó thì việc tôi dùng được Thần Lực kể ra cũng hơi lạ. Nguyên do rất đơn giản: tôi đâu phải kẻ sùng đạo cho cam. Ngay từ đầu, chuyện tôi nhận được Thần Lực dường như chỉ là một sự tình cờ. Dù lòng vô cùng biết ơn, tôi khó mà nói rằng mình sùng bái tinh linh hay nàng tiên đã ban phát sức mạnh ấy như một tín đồ mộ đạo.
 
-Đó là lý do vì sao tôi cảm thấy việc nguồn Thần Lực của mình không ngừng gia tăng là một điều hết sức kỳ lạ. Dù có vắt óc suy nghĩ thế nào, tôi cũng chẳng thể tìm ra lời giải thích hợp lý. Cơ mà tôi đoán thế cũng chẳng sao, xét cho cùng thì nó đâu phải là chuyện xấu.
+Thế nên tôi mới thấy lượng Thần Lực trong người cứ tăng dần đều là chuyện lạ lùng. Dù có vắt óc suy nghĩ, tôi cũng chẳng tìm ra nguyên cớ. Nhưng thôi kệ, dẫu sao đây cũng chẳng phải điều xấu.
 
-Nói cho rõ thì việc dùng Thần Lực để thanh tẩy và gột rửa những sinh vật Undead như tôi hoàn toàn chẳng có lợi lộc gì cho bản thân—thế nhưng việc tôi liên tục sử dụng Thần Lực dường như lại không hề gây tổn hại gì cho tôi. Nếu chẳng có vấn đề gì xảy ra thì cứ thế mà làm thôi. Lối tư duy thực dụng của một mạo hiểm giả trong tôi lại lên tiếng như vậy.
+Nói cho rõ thì việc vận dụng Thần Lực vốn để thanh tẩy Undead chẳng hề tốt lành gì cho kẻ như tôi, vậy mà dùng liên tục cũng chẳng thấy bị tổn hại chút nào. Đã không sao thì cứ thế mà dùng thôi, bản tính thực tế của một mạo hiểm giả trong tôi lại lên tiếng.
 
-Tạm gác chuyện đó sang một bên, tôi nghĩ mình nên bắt tay vào chữa trị cho người đàn ông. Dù trước đây tôi chưa từng làm bất cứ điều gì tương tự như thế này, nhưng ít nhất tôi cũng có thể thử xem sao.
+Gạt chuyện đó sang một bên, giờ là lúc tôi nên bắt tay vào chữa trị cho người đàn ông. Dù chưa từng làm điều gì tương tự trước đây, ít nhất tôi cũng có thể thử xem sao.
 
-Dẫu vậy, nói thật lòng thì đây là lần đầu tiên trong đời tôi làm một việc như thế này, nên trong lòng tôi dấy lên không ít hoài nghi về khả năng thành công. Tôi chỉ đang hành động hoàn toàn dựa vào trực giác—tôi cảm thấy mọi chuyện rồi sẽ suôn sẻ, dù tôi chẳng có lấy bất kỳ bằng chứng thực nghiệm nào để bảo chứng cho nhận định của mình.
+Thú thật thì đây là lần đầu tiên trong đời tôi làm chuyện này, nên trong lòng cũng hoang mang không biết có thành công hay không. Tôi hoàn toàn hành động theo trực giác: tôi linh cảm mọi chuyện sẽ êm xuôi, dù chẳng có lấy nửa điểm bằng chứng xác thực để bảo đảm cho điều đó.
 
-Trong giây lát, tôi khựng lại và tự hỏi: liệu có thực sự ổn không khi chữa trị cho một người bị trọng thương chỉ bằng trực giác? Song tôi cũng cảm thấy chuyện này dường như chẳng khác mấy so với việc thanh tẩy nước bẩn. Có lẽ về mặt nguyên lý thì chúng cũng tương tự nhau...
+Tôi khựng lại một thoáng, tự hỏi liệu chữa trị cho một người trọng thương chỉ dựa vào trực giác thế này có ổn không. Nhưng nghĩ lại, tôi thấy chuyện này có lẽ cũng chẳng khác thanh tẩy nước bẩn là bao. Biết đâu về mặt nguyên lý thì cả hai cũng như nhau...
 
-Dù thế nào đi nữa, tôi cũng phải hành động để giải quyết tình thế lúc này. Đặt hai bàn tay lên những vị trí bị thương tổn trên người người đàn ông, tôi tập trung tinh thần, dẫn truyền luồng Thần Lực tích tụ trong cơ thể dồn vào hai lòng bàn tay, hệt như lúc tôi truyền hào quang của nó vào thanh kiếm.
+Dù sao thì tôi cũng phải xử lý tình thế lúc này. Tôi đặt hai tay lên chỗ bị thương của người đàn ông rồi tập trung tinh thần, dẫn luồng Thần Lực từ cơ thể dồn vào hai lòng bàn tay, hệt như lúc bao bọc hào quang quanh thanh kiếm.
 
-Đúng như dự đoán, một luồng sáng trắng xanh lập tức bao bọc lấy đôi bàn tay tôi. Dù tháo găng tay ra có lẽ sẽ là ý hay hơn, nhưng lỡ người đàn ông tỉnh lại giữa chừng trong lúc trị liệu thì tôi sẽ phải đối mặt với vô số câu hỏi phiền phức. Vì thế, tôi quyết định chọn phương án cẩn trọng là vẫn đeo găng tay. Nếu đôi găng thực sự gây trở ngại lớn, đến lúc đó hẵng tính sau.
+Đúng như dự đoán, một luồng sáng trắng xanh lập tức bao bọc hai bàn tay tôi. Tháo găng ra có lẽ sẽ tiện hơn, nhưng lỡ ông ta tỉnh dậy giữa chừng thì tôi lại phải đối mặt với vô số câu hỏi phiền phức. Bởi vậy, tôi cẩn thận giữ nguyên găng tay. Nếu nó thực sự gây cản trở, đến lúc đó hẵng tính.
 
-Dẫu vậy thật may mắn, dường như hào quang thần thánh của tôi chẳng hề bận tâm đến đôi găng tay—vùng da bầm tím đỏ đen dần dần hồi phục trở lại sắc tố tự nhiên khi Thần Lực phát huy tác dụng. Chậm rãi nhưng chắc chắn, xương của người đàn ông bắt đầu liền lại, những mảnh gãy trước đó lần lượt dịch chuyển về đúng vị trí ban đầu của chúng.
+May sao, đôi găng tay chẳng hề cản trở Thần Lực. Dưới tác động của nó, vùng da bầm tím đỏ tía dần trở lại sắc da tự nhiên. Từng chút một, xương cốt của ông ta bắt đầu lành lại, những mảnh vỡ nứt từ từ khớp về đúng vị trí ban đầu.
 
-Dù không biết phải mất bao lâu mới chữa lành hoàn toàn xương ức bị thương của người đàn ông, nhưng cuối cùng tôi cũng dừng lại khi nhận định việc trị liệu đã xong. Sau cùng thì tôi vẫn còn một vết thương khác cần chăm sóc; nghĩ vậy, tôi chuyển hai tay xuống bàn chân bị dập nát của ông ta. Vừa kích hoạt hào quang thần thánh, da thịt và xương cốt của người đàn ông lập tức bắt đầu lành lại, hệt như những gì tôi quan sát được trước đó. Cuối cùng, mảnh xương gãy sau cùng dường như đã khớp lại đúng vị trí, và bàn chân của người đàn ông trông đã lành lặn như mới.
+Tuy không rõ mất bao lâu để xương ức lành hẳn, nhưng thấy thương thế đã ổn nên tôi dừng lại. Vả lại tôi vẫn còn một vết thương khác cần xử lý, thế là tôi chuyển tay xuống bàn chân dập nát của ông ta. Khi Thần Lực phát huy tác dụng, da thịt và xương cốt ở đó cũng lập tức lành lại như lúc nãy. Cuối cùng, mảnh xương gãy cuối cùng kêu khẽ một tiếng rồi khớp về chỗ cũ, bàn chân trông lành lặn như mới.
 
-Nhưng liệu ông ta đã hoàn toàn bình phục chưa?
+Nhưng liệu ông ta đã khỏi hẳn chưa?
 
-Dù tôi là người phụ trách chữa trị cho ông ta, nhưng tôi không dám chắc liệu mình đã làm đủ chu toàn hay chưa. Ít nhất thì trông ông ta đã khá hơn nhiều so với cách đây một lúc. Ngay cả khi chưa hồi phục hoàn toàn, tôi tin chắc đó cũng không phải là vấn đề quá lớn. Nhiều khả năng chỉ cần nghỉ ngơi một chút là ông ta sẽ khỏe lại.
+Chính tay chữa cho ông ta đấy nhưng tôi chẳng dám chắc mình đã làm đến nơi đến chốn hay chưa. Ít nhất thì trông ông ta đã khá hơn lúc nãy rất nhiều. Dù chưa khỏi hẳn thì chắc cũng không có gì đáng ngại, chỉ cần nghỉ ngơi một chút là sẽ hồi phục.
 
-Tuy nhiên, sự tương phản này có phần hơi kinh ngạc—mới chỉ ít phút trước ông ta còn đang cận kề cửa tử, vậy mà giờ đây trông ông ta đã đủ khỏe mạnh để tự mình quay về Maalt nếu tôi cứ thế để mặc ông ta lại. Dẫu sao đi nữa, ông ta cũng từng bị gãy vài đoạn xương; sẽ rất tệ nếu phát sinh biến chứng nào đó nếu ông ta cử động đột ngột.
+Sự biến chuyển này rõ rệt đến mức khiến tôi cũng ngỡ ngàng. Mới vừa rồi còn thập tử nhất sinh, vậy mà giờ trông ông ta đã đủ sức tự cuốc bộ về Maalt nếu tôi để mặc ở đây. Dù vậy, ông ta vừa bị gãy mấy đoạn xương, lỡ cử động mạnh rồi sinh biến chứng thì rắc rối to.
 
-Rốt cuộc, tôi quyết định túc trực bên cạnh cho đến khi ông ta tỉnh lại. Sau cùng thì tôi ít nhất cũng nên kiểm tra xem ông ta còn bị thương ở đâu khác nữa không trước khi quay về Maalt. Khắc ghi điều đó trong lòng, tôi ngồi xuống và chờ đợi.
+Rốt cuộc, tôi quyết định ở lại trông chừng cho tới khi ông ta tỉnh lại. Dù sao trước khi về Maalt, tôi cũng cần kiểm tra xem ông ta còn thương tổn ở đâu nữa không. Nghĩ vậy, tôi ngồi xuống chờ.
 
 ◆◇◆◇◆
 
 "... Ư. Đây... là đâu?"
 
-Dù trước đó tôi đã nhiều lần lay nhẹ người ông ta để đánh thức, nhưng mọi nỗ lực đều vô ích. Đành chấp nhận phải chờ đợi lâu, tôi im lặng lắng nghe những âm thanh từ môi trường xung quanh—chính vào lúc ấy, tôi nghe thấy tiếng người đàn ông cất lời. Có vẻ như cuối cùng ông ta cũng đã tỉnh lại.
+Trước đó tôi đã thử lay nhẹ nhiều lần nhưng chẳng ăn thua gì. Xác định sẽ phải đợi lâu nên tôi chỉ im lặng lắng nghe động tĩnh xung quanh, đúng lúc ấy thì người đàn ông cất tiếng. Xem ra cuối cùng ông ta cũng tỉnh.
 
-Đứng dậy, tôi chậm rãi bước lại gần người đàn ông.
+Tôi đứng dậy, chậm rãi bước lại gần người đàn ông.
 
-"... Ông. Đã... Tỉnh... Chưa?"
+"... Ông. Đã... tỉnh... chưa?"
 
-"Rồi..." Người đàn ông chỉ khẽ gật đầu. "Đây là... đâu? ... Phải rồi, đúng rồi! Con Khô Lâu khổng lồ đó đã—hự!"
+"Rồi..." Người đàn ông chỉ gật đầu. "Đây là... đâu thế này? ... Phải rồi, đúng rồi! Con Khô Lâu to tướng đó đã—hự!"
 
-Ôm bụng vì đau đớn, hai mắt người đàn ông trợn tròn lên. Có vẻ như việc chữa trị của tôi quả thực vẫn còn đôi chút dở dang. Dẫu vậy, tôi cũng đã làm hết những gì có thể trong thời khắc đó—tôi khó lòng trông đợi ông ta bình phục hoàn toàn chỉ nhờ vào các biện pháp sơ cứu khẩn cấp của mình. Tôi đoán ông ta cần phải đến Viện Trị Liệu một chuyến. Ít nhất thì ông ta cũng nên được các trị liệu sư thực thụ chữa trị.
+Người đàn ông ôm bụng đau đớn, hai mắt trợn trừng. Xem ra tay nghề trị liệu của tôi vẫn chưa dứt điểm. Dẫu sao lúc đó tôi cũng chỉ làm hết sức trong khả năng, chứ khó lòng mong ông ta bình phục hoàn toàn chỉ nhờ mấy biện pháp sơ cứu. Có lẽ ông ta phải ghé qua Viện Trị Liệu một chuyến, ít nhất cũng cần để các thầy trị liệu thực thụ chữa cho.
 
-Câu trả lời của tôi dành cho ông ta cũng đơn giản không kém: "... Tôi... Đã hạ. Con quái vật... Đây. Là... Bằng chứng."
+Tôi cũng chỉ đáp lại ngắn gọn: "... Tôi... đã hạ. Con quái vật... Đây. Là... bằng chứng."
 
-Nói đoạn, tôi chìa tay ra, cho ông ta thấy viên Ma Tinh lấp lánh trong lòng bàn tay đeo găng của mình. Tôi đã tìm thấy viên tinh thể này giữa đống tàn tích của con Khô Lâu Khổng Lồ.
+Tôi chìa bàn tay đeo găng ra, để lộ viên Ma Tinh lấp lánh bên trong. Viên đá này là thứ tôi bới được từ đống xương tàn của con Khô Lâu Khổng Lồ.
 
-Quá trình tìm kiếm ấy dẫu sao cũng chẳng hề ngắn ngủi, bởi tôi đã phải bới tung cả một ngọn núi nhỏ gồm đống đổ nát cùng các mảnh xương. Nhưng bù lại, tôi có thừa thời gian, và cuối cùng tôi cũng xác định được vị trí viên Ma Tinh sau một hồi tập trung cao độ. Có lẽ kích thước to lớn của nó cũng phần nào giúp tôi dễ tìm hơn đôi chút...
+Công cuộc tìm kiếm chẳng hề nhanh chóng gì, bởi tôi phải bới tung cả một gò đất đá vụn lẫn xương xẩu. Cơ mà tôi có khối thời gian, nên sau một hồi ra sức tìm kiếm thì cũng lôi được nó ra. Có lẽ nhờ kích thước khá lớn nên tôi mới dễ phát hiện đến vậy...
 
-Người đàn ông chỉ biết trố mắt nhìn viên Ma Tinh với vẻ mặt chết lặng.
+Người đàn ông chỉ biết trố mắt nhìn viên Ma Tinh, vẻ mặt bàng hoàng đến ngây dại.
 
-"... Chỉ tính riêng kích thước thôi... Đó là Ma Tinh Kim Cấp phải không? Tôi không rành mấy thứ này lắm, nhưng chắc chắn nó đáng giá cả một gia tài..."
+"... Chỉ nhìn kích thước thôi... đây là Ma Tinh Kim Cấp phải không? Tôi không rành mấy thứ này lắm, nhưng chắc chắn nó đáng giá cả một gia tài..."
 
-Dù người ta có thể dễ dàng đi đến kết luận như vậy khi chỉ nhìn vào viên Ma Tinh, song tôi vẫn hoài nghi về nhận định đó. Bản thân tôi chưa từng nghĩ một kẻ như mình lại có thể đánh bại được một đối thủ Kim Cấp. Trái lại, đây có thể chỉ là một sự may mắn, và viên Ma Tinh này lại là một vật phẩm tương đối hiếm rơi ra từ chủng loại quái vật này.
+Chỉ nhìn vào viên đá thì ai cũng dễ đoán vậy, nhưng tôi lại không tin lắm. Bản thân tôi chưa từng nghĩ một kẻ như mình lại đủ sức hạ nổi đối thủ Kim Cấp. Nói đúng hơn, có lẽ tôi chỉ ăn may, còn viên Ma Tinh này lại thuộc dạng chiến lợi phẩm hiếm thấy ở giống quái vật này.
 
-Chuyện này thỉnh thoảng vẫn xảy ra, khi những con quái vật sống qua một thời gian tương đối dài thường tích tụ những viên Ma Tinh có giá trị cao hơn trong cơ thể chúng. Con Khô Lâu Khổng Lồ mà tôi vừa giao chiến có lẽ đã canh gác căn phòng này suốt một thời gian rất dài, thành thử tôi mới tìm thấy một viên tinh thể như vậy từ tàn tích của nó.
+Chuyện này thỉnh thoảng vẫn xảy ra: quái vật sống càng lâu thì Ma Tinh ngưng tụ trong cơ thể càng có giá trị. Con Khô Lâu Khổng Lồ tôi vừa đánh nhau chắc hẳn đã gác căn phòng này từ rất lâu rồi, thành ra tôi mới nhặt được một viên giá trị đến thế từ đống xương tàn của nó.
 
-Dù sao đi nữa, đó chắc chắn là một viên tinh thể bán được một khoản tiền kha khá.
+Dù thế nào thì viên Ma Tinh này chắc chắn cũng bán được một món tiền kha khá.
 
-Người đàn ông lại cất tiếng, ánh mắt dán chặt vào viên Ma Tinh trên tay tôi.
+Người đàn ông lại lên tiếng, ánh mắt dán chặt vào viên Ma Tinh trên tay tôi.
 
-"... Nếu tôi có một viên Ma Tinh như thế... À, không. Đừng bận tâm..."
+"... Nếu mình có một viên Ma Tinh như thế... À không. Coi như tôi chưa nói gì đi..."
 
-Tự ngắt lời giữa chừng, người đàn ông quay đi như thể muốn né tránh ánh nhìn. Chẳng cần phải là một học giả mới hiểu được hàm ý đằng sau những lời lẽ ấy—
+Người đàn ông tự ngắt lời, quay mặt đi né tránh ánh mắt tôi. Chẳng cần tinh ý cũng hiểu được hàm ý đằng sau câu nói lấp lửng ấy:
 
-Viên Ma Tinh này có lẽ bán được hơn 50 đồng vàng. Nói cách khác, nó sẽ là cứu cánh của người đàn ông vì nó có thể xóa sạch mọi món nợ của ông ta ngay tức khắc.
+Viên Ma Tinh này thừa sức bán được hơn năm mươi đồng vàng. Nói cách khác, nó chính là phao cứu sinh giúp ông ta rũ sạch toàn bộ nợ nần trong chớp mắt.
 
-Tuy nhiên, người đàn ông không hề đòi hỏi viên Ma Tinh, cũng chẳng van nài dưới bất kỳ hình thức nào. Dựa vào đó, tôi đoán những suy đoán của mình không đến nỗi quá xa rời thực tế.
+Thế nhưng, người đàn ông không hề mở miệng xin xỏ hay van nài một lời nào. Nhìn thái độ đó, tôi thầm nghĩ nhận định của mình về ông ta chẳng hề sai lệch.
 
-Đó là lý do vì sao tôi nói với người đàn ông: "... Nếu. Ông... Muốn nó. Ông... Có thể. Lấy đi."
+Vì thế, tôi bảo ông ta: "... Nếu. Ông... muốn nó. Ông... có thể. Lấy đi."
 
-Dẫu vậy, như mọi chuyện trên đời, nó sẽ đi kèm với một cái giá tương xứng.
+Có điều, chuyện gì trên đời cũng có cái giá tương xứng của nó.
 
 ◆◇◆◇◆
 
-"... Cậu nghiêm túc đấy chứ? Thật sao? Nhưng cậu mới là người đánh bại con quái vật đó... Tôi không thể cứ thế lấy không của cậu được..." người đàn ông nói, nhưng sự khao khát đến tuyệt vọng trong ánh mắt ông ta thì ai nấy đều thấy rõ.
+"... Cậu nghiêm túc đấy chứ? Thật sao? Nhưng cậu mới là người hạ con quái vật đó... Tôi đâu thể cứ thế lấy không của cậu được..." người đàn ông nói, dẫu vẻ thèm khát đến tuyệt vọng lộ rõ mồn một trong mắt ông ta.
 
-Lắc đầu, tôi tiếp tục lời nói của mình: "... Tôi... Không. Cho không... Đâu."
+Tôi lắc đầu nói tiếp: "... Tôi... không. Cho không... đâu."
 
-Nghe vậy, người đàn ông dường như có phần an tâm hơn đôi chút.
+Nghe vậy, người đàn ông có vẻ đã xuôi tai hơn đôi chút.
 
-"Nhưng... tôi đã kể cho cậu về hoàn cảnh của tôi rồi mà, phải không? Tôi không nghĩ mình có thể làm được gì cho một mạo hiểm giả mạnh mẽ như cậu đâu..."
+"Nhưng... tôi kể hoàn cảnh của mình cho cậu rồi đấy thôi? Chắc tôi chẳng giúp được gì cho một mạo hiểm giả tài giỏi như cậu đâu..."
 
-Đúng như lời người đàn ông nói. Nếu phải đưa ra một đánh giá thành thật về thực lực của mình, tôi có thể tự tin khẳng định rằng mình đã mạnh hơn nhiều so với khi còn sống. Có lẽ đây không phải là một suy đoán vô lý đến từ một người như ông ta, kẻ hoàn toàn chẳng phải mạo hiểm giả dưới bất kỳ góc độ nào. Ông ta đương nhiên sẽ cho rằng mình chẳng thể giúp ích được gì cho tôi.
+Đúng như lời ông ta nói. Nếu thật lòng tự lượng sức mình, tôi có thể khẳng định chắc nịch rằng bản thân đã mạnh hơn thời còn sống rất nhiều. Với một người hoàn toàn không dính dáng gì đến nghề mạo hiểm giả như ông ta thì nghĩ vậy cũng phải, đương nhiên ông ta sẽ đinh ninh mình chẳng giúp ích được gì cho tôi.
 
-Những gì ông ta nói quả thực đúng ở một số khía cạnh; ông ta ngập đầu trong nợ nần, và kỹ năng mạo hiểm giả của ông ta gần như bằng không. Người đàn ông hẳn cho rằng mình không thể hỗ trợ tôi dưới bất kỳ hình thức nào, dù là về mặt tài chính, kinh tế hay thể lực—
+Lời ông ta nói quả không sai ở vài điểm: nợ nần ngập đầu, còn kỹ năng mạo hiểm giả thì gần như bằng không. Ông ta hẳn nghĩ mình chẳng thể đỡ đần tôi được việc gì, từ tiền bạc cho tới sức lực.
 
-Thế nhưng, đó chỉ là nhìn từ góc độ của người đàn ông. Còn đối với tôi, người đàn ông này có giá trị hơn nhiều so với những gì ông ta tự đánh giá về bản thân. Sau cùng thì tôi là một Undead. Tôi không thể cứ thế nghênh ngang dạo bước trên đường phố Maalt. Việc ghé thăm các cửa tiệm ở Maalt là vô cùng khó khăn, nếu không muốn nói là bất khả thi. Ngay cả khi tôi muốn thuê một người trung gian nào đó, tìm được một người như vậy ngay từ đầu cũng đã là chuyện chẳng hề dễ dàng.
+Thế nhưng, đó chỉ là góc nhìn của riêng ông ta. Với tôi, người đàn ông này lại có giá trị hơn nhiều so với những gì ông ta tự nhận. Dù sao thì tôi cũng là một Undead, đâu thể cứ thế nghênh ngang đi lại trên đường phố Maalt. Bước chân vào các cửa tiệm ở Maalt với tôi là chuyện muôn vàn khó khăn, nếu không muốn nói là bất khả thi. Mà dẫu có muốn thuê một người làm trung gian, kiếm được người như vậy ngay từ đầu đã chẳng hề dễ dàng.
 
-Ý tôi muốn nói ở đây là người đàn ông này hoàn toàn có thể trở thành người trung gian kiêm chân chạy việc hoàn hảo mà bấy lâu nay tôi vẫn hằng tìm kiếm.
+Nói trắng ra, ông ta chính là người trung gian kiêm chân chạy việc hoàn hảo mà bấy lâu nay tôi đang mỏi mắt kiếm tìm.
 
-Chỉ có một vấn đề duy nhất: ngay cả khi tôi giãi bày chi tiết hoàn cảnh của mình cho ông ta, dường như những lời tôi nói cũng chẳng dễ dàng được tin tưởng. Nếu tôi cứ thế bảo rằng mình là một Undead, ông ta có thể báo cáo tôi với chính quyền bất cứ khi nào ông ta muốn. Cho dù ông ta không làm chuyện như vậy, ông ta cũng có thể trở nên e dè trước ý nghĩ phải giúp đỡ một kẻ không phải con người.
+Ngặt nỗi, kể cả tôi có giãi bày cặn kẽ hoàn cảnh của mình, chưa chắc ông ta đã tin. Còn nếu cứ huỵch toẹt ra rằng mình là một Undead, ông ta có thể đi báo với chính quyền bất cứ lúc nào. Mà dù không làm thế, ông ta cũng sẽ thấy ngần ngại trước chuyện phải giúp đỡ một kẻ phi nhân loại.
 
-Đó là lý do vì sao tôi quyết định sẽ bớt xén chi tiết—tất cả những gì tôi cần làm chỉ là thuyết phục ông ta giúp đỡ mình.
+Vì thế, tôi quyết định giấu bớt chi tiết, bởi điều cốt yếu chỉ là thuyết phục được ông ta giúp đỡ mình.
 
-"... Không có... Gì. Quá... Khó khăn đâu."
+"... Không có... gì. Quá... khó khăn đâu."
 
-"Thế thì đó là chuyện gì vậy...?"
+"Thế... rốt cuộc là việc gì cơ...?"
 
-"... Như... Ông thấy. Đấy... Trông tôi. Thế... Này. Tôi không... Thể. Vào... Cửa tiệm hay... Hội được. Những gì... Ông phải... Làm. Chỉ là... Đi thay. Tôi."
+"... Như... ông thấy. Đấy... trông tôi. Thế... này. Tôi không... thể. Vào... cửa tiệm hay... Hội được. Những gì... ông phải... làm. Chỉ là... đi thay. Tôi."
 
-Nói đoạn, tôi tháo chiếc găng tay ra, chìa bàn tay mình cho người đàn ông thấy. Tôi cho rằng đây là một canh bạc tương đối an toàn, miễn là ông ta không nhìn thấy cơ thể hay khuôn mặt của tôi.
+Vừa nói tôi vừa tháo chiếc găng tay, chìa bàn tay cho người đàn ông thấy. Tôi nghĩ đây là nước đi tương đối an toàn, miễn sao ông ta không nhìn thấy thân thể hay khuôn mặt tôi.
 
-Thêm vào đó, cánh tay tôi thực chất không hề bị đứt lìa—nó chỉ đơn thuần là khô quắt lại. Chuyện này thỉnh thoảng vẫn xảy ra với các mạo hiểm giả, nhất là những kẻ kỳ cựu đã kinh qua không ít trận chiến trong suốt sự nghiệp của mình.
+Hơn nữa, cánh tay tôi không hề bị cụt, nó chỉ khô quắt lại mà thôi. Tình trạng này thỉnh thoảng vẫn xảy ra với giới mạo hiểm giả, nhất là những cựu binh từng kinh qua vô số trận chiến vào sinh ra tử.
 
-Tuy nhiên, người đàn ông này lại còn non nớt hơn cả mạo hiểm giả Thiết Cấp thấp nhất. Nhìn vào phản ứng của ông ta trước năng lực chiến đấu của tôi, rõ ràng ông ta hoàn toàn không quen thuộc với những mối hiểm nguy của nghề mạo hiểm giả.
+Có điều, người đàn ông này thậm chí còn lơ ngơ hơn cả một tân binh Thiết Cấp. Cứ nhìn phản ứng của ông ta trước khả năng chiến đấu của tôi là đủ biết người này hoàn toàn xa lạ với những hiểm nguy của nghề mạo hiểm giả.
 
-Dẫu vậy, người đàn ông dường như không hề né tránh ánh nhìn hay mảy may nghi ngờ tôi là một con quái vật. Trái lại, ông ta có vẻ phần nào tin chắc rằng cánh tay khô quắt của tôi chỉ là một vết thương cũ. Thở phào nhẹ nhõm vì đã dễ dàng thuyết phục được người đàn ông, tôi tiếp tục cất lời.
+Dẫu vậy, người đàn ông không hề né tránh ánh mắt hay mảy may nghi ngờ tôi là quái vật. Trái lại, ông ta dường như đã tin cánh tay khô quắt kia chỉ là một vết thương cũ. Thấy đã qua mắt được ông ta dễ dàng, tôi thầm thở phào rồi nói tiếp.
 
-"... Con quái vật... Tôi chiến đấu. Rất... Lâu. Trước đây. Đã đả thương tôi... Nặng nề. Giọng... Nói. Này nữa. Đều là... Vết thương... Từ dạo đó."
+"... Con quái vật... tôi đụng độ. Rất... lâu. Trước đây. Đã đả thương tôi... nặng nề. Giọng... nói. Này nữa. Đều là... vết thương... từ dạo đó."
 
-"... Ra là vậy. Tôi đoán ngay cả mạo hiểm giả mạnh mẽ cũng phải đối mặt với những hiểm nguy khôn lường như thế..."
+"... Ra là vậy. Tôi đoán ngay cả mạo hiểm giả giỏi giang cũng phải đối mặt với những hiểm nguy khôn lường như thế..."
 
-Rõ ràng người đàn ông đã dấn thân làm mạo hiểm giả mà chẳng hề suy nghĩ thấu đáo về những nguy hiểm của công việc này. Đúng hơn thì có lẽ ông ta chẳng có tâm trí đâu mà nghĩ đến những chuyện như vậy. Thế nhưng cảnh tượng cánh tay của tôi dường như đã đánh thức ông ta khỏi sự nông nổi ấy.
+Rõ ràng người đàn ông này bước chân vào nghề mà chưa từng lường trước những hiểm nguy của nó. Đúng hơn là ông ta chẳng có cái đặc ân để mà đắn đo nghĩ ngợi. Nhưng khi tận mắt thấy cánh tay tôi, dường như ông ta mới vỡ lẽ ra sự nông nổi của mình.
 
-Sau một hồi trầm ngâm suy nghĩ, cuối cùng người đàn ông cũng mở lời.
+Trầm ngâm một lúc, cuối cùng người đàn ông cũng lên tiếng.
 
-"Tôi hiểu rồi. Nếu chỉ có ngần ấy việc thì ngay cả tôi cũng làm được. Nhưng... thế này có thực sự ổn không? Bản thân tôi nói ra điều này nghe có vẻ hơi kỳ cục... nhưng vụ làm ăn này hời cho tôi quá..."
+"Tôi hiểu rồi. Nếu chỉ có ngần ấy việc thì người như tôi cũng làm được chứ. Nhưng... như thế có thật sự ổn không? Tự tôi nói ra thì hơi kỳ quặc... nhưng vụ trao đổi này hời cho tôi quá..."
 
-"... Đó... Là. Hoàn cảnh... Của ông. Phải... Không? Nhưng... Phải. Tôi hiểu... Ý ông. Vậy... Thế này... Thì sao..."
+"... Đó... là. Hoàn cảnh... của ông. Phải... không? Nhưng... phải. Tôi hiểu... ý ông. Vậy... thế này... thì sao..."
 
-Thấy tôi có thêm một điều kiện nữa bổ sung vào lời đề nghị, người đàn ông dường như đã cảm thấy tình huống chung trở nên hợp lý hơn.
+Thấy tôi đưa thêm điều kiện, người đàn ông dường như mới thấy mọi chuyện xuôi tai hơn.
 
-Mỉa mai thay, việc tôi giảm bớt sự béo bở của thỏa thuận lại khiến ông ta cảm thấy an tâm hơn. Tuy nhiên, những lời tôi sắp sửa nói ra lại hoàn toàn đi ngược lại kỳ vọng của người đàn ông.
+Nực cười là tôi càng bớt hời cho ông ta thì ông ta lại càng thấy an tâm. Có điều, những lời tôi sắp nói ra đây chắc chắn sẽ nằm ngoài mọi dự tính của ông ta.
 
-"... Vậy thì... Khi các khoản nợ... Của ông. Đã được... Trả hết. Tôi muốn... Được ăn... Uống... Tại quán. Của ông... Miễn phí. Suốt... Cả... Cuộc... Đời. Thế... Nào."
+"... Vậy thì... khi các khoản nợ... của ông. Đã... trả hết. Tôi muốn... được ăn... uống... tại quán. Của ông... miễn phí. Suốt... cả... cuộc... đời. Thế... nào."
 
-Như thể không tin nổi vào tai mình, người đàn ông đưa một tay lên ôm trán, một nụ cười khổ từ từ hiện lên trên gương mặt ông ta.
+Người đàn ông ôm đầu như không tin nổi vào tai mình, trên mặt nở một nụ cười méo mó.
 
 "... C... Cậu nghiêm túc đấy chứ? Cậu... bị ngốc hay... sao thế hả?"
 
-"... Sao... Ông lại. Hỏi... Vậy?"
+"... Sao... ông lại. Hỏi... vậy?"
 
-"Ý tôi là—! Ý tôi là cái giá đó thậm chí còn chưa bõ bèn gì so với một viên Ma Tinh đáng giá hơn 50 đồng vàng đâu! Cậu hiểu không hả?!"
+"Ý tôi là—! Ý tôi là chừng đó làm sao bù đắp nổi một viên Ma Tinh đáng giá hơn năm mươi đồng vàng chứ! Cậu có hiểu không hả?!"
 
-"... Vậy... Đó là... Chuyện xấu... Sao?"
+"... Vậy... đó là... chuyện xấu... sao?"
 
-"Tôi đâu có bảo là xấu...! ... Hự! Cậu muốn ăn bao nhiêu tùy thích... Tôi... tôi sẽ làm việc cật lực... để quán của mình không bao giờ phải đóng cửa nữa...! Tôi sẽ làm việc hết sức mình như chưa từng được làm! Cảm ơn cậu nhiều lắm... ông chủ...!"
+"Tôi đâu có bảo là xấu...! ... Hự! Cậu cứ ăn bao nhiêu tùy thích... Tôi... tôi sẽ làm việc cật lực... để quán không bao giờ sập tiệm nữa...! Tôi sẽ dốc cạn sức mình như chưa từng được làm! Cảm ơn cậu nhiều lắm... ông chủ...!"
 
-Dứt lời, một nụ cười cuối cùng cũng rạng rỡ trên khuôn mặt người đàn ông. Thế nhưng đôi mắt ông ta lại đỏ hoe, những giọt nước mắt lớn lăn dài trên gò má. Chứng kiến phản ứng ấy của ông ta, tôi không khỏi cảm thấy dường như mình vừa làm được một việc tốt lành.
+Nói đoạn, một nụ cười cuối cùng cũng nở trên gương mặt người đàn ông. Có điều đôi mắt ông ta đã đỏ hoe, từng giọt nước mắt thi nhau lăn dài trên má. Thấy phản ứng ấy, tôi không khỏi cảm thấy dường như mình vừa làm được một việc tốt lành.
