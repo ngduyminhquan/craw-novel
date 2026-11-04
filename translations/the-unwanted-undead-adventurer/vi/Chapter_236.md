@@ -36,7 +36,7 @@ Trên thực tế, vị khách không mời này nghe có vẻ hơi lo lắng nh
 
 "Dạ... là em, Ferrici đây. Anh... còn nhớ em không?"
 
-Augurey nhận ra giọng nói của cô gái, rồi nhớ lại rằng Ferrici trông chừng khoảng mười bảy hay mười tám tuổi. Anh tự hỏi liệu cô bé có phật ý với sự miêu tả đó hay không. Cô đã đủ tuổi lấy chồng, và ở một ngôi làng hẻo lánh như thế này, thậm chí người ta có thể trông đợi cô sẽ lập gia đình trong vài năm tới. Ý nghĩ đó không mấy hợp ý Augurey, nhưng anh sẵn lòng chấp nhận phong tục tập quán địa phương.
+Augurey nhận ra giọng nói của cô gái, rồi nhớ lại rằng Ferrici trông chừng khoảng mười bảy hay mười tám tuổi. Anh tự hỏi liệu cô có phật ý với sự miêu tả đó hay không. Cô đã đủ tuổi lấy chồng, và ở một ngôi làng hẻo lánh như thế này, thậm chí người ta có thể trông đợi cô sẽ lập gia đình trong vài năm tới. Ý nghĩ đó không mấy hợp ý Augurey, nhưng anh sẵn lòng chấp nhận phong tục tập quán địa phương.
 
 Tự nhắc nhở bản thân rằng mình đang tiếp chuyện một thiếu nữ, Augurey đáp lời: "Chúng ta từng nói chuyện ở quán rượu, dẫu rằng tôi cũng chẳng góp lời được bao nhiêu. Em cần tôi giúp gì sao? Nếu em muốn chia sẻ điều gì về lũ Phi Long thì để tôi đi đánh thức hai người kia dậy nhé."
 
@@ -44,7 +44,7 @@ Augurey nhớ lại lời chủ quán rượu từng bảo Ferrici am hiểu H�
 
 "Không, em... muốn nói chuyện riêng với anh cơ, Augurey. Anh mở cửa cho em được không?"
 
-Vậy ra là cô bé đã phải lòng mình. Augurey không quá tự mãn đến mức vội vàng nhảy ngay tới kết luận đó, dẫu rằng mạo hiểm giả vốn tương đối được ưa chuộng ở những ngôi làng hẻo lánh. Họ kiếm được nhiều tiền hơn mức hầu hết những người lao động khác có thể mơ tới, và ngay cả mạo hiểm giả Đồng Cấp cũng có thể dễ dàng giải quyết hầu hết các hiểm nguy trong vùng chỉ bằng một tay. Nhìn chung, mạo hiểm giả là đối tượng kết hôn rất lý tưởng đối với các thiếu nữ ở những ngôi làng này. Dẫu vậy, thực tế là nhiều mạo hiểm giả ăn nói thô lỗ cộc cằn và luôn đối mặt với nguy cơ một đi không trở lại đã khiến thái độ của phụ nữ đối với họ phân hóa thành hai thái cực rõ rệt. Hoặc là họ sẽ bám lấy mạo hiểm giả, hoặc là tránh xa như tránh tà. Không loại trừ khả năng Ferrici thuộc nhóm muốn bám lấy hơn là tránh xa, nhưng thời điểm này lại có vẻ không đúng lúc cho lắm.
+Vậy ra là cô nàng đã phải lòng mình. Augurey không quá tự mãn đến mức vội vàng nhảy ngay tới kết luận đó, dẫu rằng mạo hiểm giả vốn tương đối được ưa chuộng ở những ngôi làng hẻo lánh. Họ kiếm được nhiều tiền hơn mức hầu hết những người lao động khác có thể mơ tới, và ngay cả mạo hiểm giả Đồng Cấp cũng có thể dễ dàng giải quyết hầu hết các hiểm nguy trong vùng chỉ bằng một tay. Nhìn chung, mạo hiểm giả là đối tượng kết hôn rất lý tưởng đối với các thiếu nữ ở những ngôi làng này. Dẫu vậy, thực tế là nhiều mạo hiểm giả ăn nói thô lỗ cộc cằn và luôn đối mặt với nguy cơ một đi không trở lại đã khiến thái độ của phụ nữ đối với họ phân hóa thành hai thái cực rõ rệt. Hoặc là họ sẽ bám lấy mạo hiểm giả, hoặc là tránh xa như tránh tà. Không loại trừ khả năng Ferrici thuộc nhóm muốn bám lấy hơn là tránh xa, nhưng thời điểm này lại có vẻ không đúng lúc cho lắm.
 
 Ít nhất thì trong số ba người bọn họ, Augurey có thể hiểu vì sao mình lại là ứng cử viên sáng giá nhất đối với một thiếu nữ đang tìm kiếm ý trung nhân, khi mà hai sự lựa chọn còn lại là một phụ nữ và một kẻ kỳ quái đeo mặt nạ đầu lâu. Xét thấy bản thân Augurey ăn mặc sặc sỡ chẳng khác nào chim công, anh hoàn toàn có lý do để nghi ngờ khiếu thẩm mỹ của bất kỳ cô gái nào chọn mình, nhưng anh cũng thừa nhận rằng, bởi hầu hết mạo hiểm giả khá lắm thì cũng chỉ là những kẻ lập dị, các thiếu nữ muốn tìm kiếm đối tượng trong giới này đều đã sẵn sàng bỏ qua vài tiểu tiết.
 
@@ -90,7 +90,7 @@ Augurey nhận ra điều gì đó ở cô và khẽ kéo cô về phía mình k
 
 "Thế là xong một việc, mình đoán vậy, nhưng..."
 
-Liệu cô bé có phải là Siren không? Suy nghĩ đó thoáng lướt qua tâm trí Augurey. Trông thì có vẻ như anh đã kiểm soát được tình hình, nhưng lại có vài điểm kỳ quặc thấy rõ. Đầu tiên là đòn tấn công này trông vụng về một cách khó hiểu. Mỹ nhân kế là một chiến thuật đã được kiểm chứng qua thời gian và không thể xem nhẹ, xét đến việc cánh đàn ông sập bẫy nó thường xuyên đến nhường nào. Họ không thể cưỡng lại được. Đó là bản tính tự nhiên của họ rồi. Việc phương pháp này là ngón nghề sở trường của Siren hoàn toàn có lý.
+Liệu cô ta có phải là Siren không? Suy nghĩ đó thoáng lướt qua tâm trí Augurey. Trông thì có vẻ như anh đã kiểm soát được tình hình, nhưng lại có vài điểm kỳ quặc thấy rõ. Đầu tiên là đòn tấn công này trông vụng về một cách khó hiểu. Mỹ nhân kế là một chiến thuật đã được kiểm chứng qua thời gian và không thể xem nhẹ, xét đến việc cánh đàn ông sập bẫy nó thường xuyên đến nhường nào. Họ không thể cưỡng lại được. Đó là bản tính tự nhiên của họ rồi. Việc phương pháp này là ngón nghề sở trường của Siren hoàn toàn có lý.
 
 Nếu Augurey không lường trước việc mình bị tiếp cận, anh thậm chí có thể đã nghiêm túc cân nhắc tới khả năng Ferrici thật lòng phải lòng mình. Có lẽ đòn tấn công này cũng chỉ có bấy nhiêu thôi. Nhưng nếu đó đã là mục tiêu của cô ngay từ đầu, Ferrici hẳn phải bạo dạn hơn ở quán rượu và ít nhất cũng phải thể hiện đôi chút sự quan tâm tới anh. Thế nhưng vào lúc đó, cô lại chẳng hề có bất kỳ động thái nào hướng về phía anh cả.
 
@@ -116,7 +116,7 @@ Augurey gõ cửa.
 
 Tôi cảm nhận được có ai đó đang bước tới phòng mình. Ở vào tình thế hiện tại, tôi hoàn toàn có lý do để lo sợ cho tính mạng của bản thân nếu có kẻ bước vào, thế nên khi tiếng bước chân dừng lại bên ngoài cửa và tiếng gõ vang lên, câu trả lời của tôi có phần hơi cộc lốc.
 
-"Ai đấy?"
+"Ai đó?"
 
 Khi nghe thấy giọng nói đáp lại mình, mối lo âu của tôi mới vơi đi phần nào. Ý tôi là, đó là một giọng nói quen thuộc.
 

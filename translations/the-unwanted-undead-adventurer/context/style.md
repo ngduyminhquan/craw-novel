@@ -47,3 +47,4 @@
 - (217) Ngoại truyện Tập 9: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie về một ngày dạy học tình nguyện tại lớp học tư thục ở Maalt và giải cứu học trò khỏi quái vật Mimic dưới cống ngầm.
 - (225) Ngoại truyện Tập 10: kể theo góc nhìn ngôi thứ ba bám theo Rina và Alize khi tới dinh thự Gia tộc Latuule nhờ Isaac hướng dẫn luyện tập ma pháp.
 - (233) Nửa đầu và phần kết kể theo ngôi thứ nhất ("tôi") của Rentt Faina; hai phân đoạn giữa (sau các dấu phân cách) chuyển sang góc nhìn ngôi thứ ba bám theo Yattul / điệp viên "Goblin".
+- (236) Đoạn đầu (đoạn 1) và đoạn kết (từ đoạn 57) kể theo ngôi thứ nhất ("tôi") của Rentt Faina; phần lớn thân chương (đoạn 2–55) chuyển sang góc nhìn ngôi thứ ba bám theo Augurey Ars khi anh ở phòng riêng tiếp đón và khống chế Ferrici.

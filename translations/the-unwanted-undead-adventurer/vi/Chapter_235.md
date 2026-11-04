@@ -10,7 +10,7 @@ Cũng đáng nhắc lại rằng tôi hoàn toàn miễn nhiễm với thuốc n
 
 "Thôi nào ông chủ, chuyện cũ mình xí xóa cho qua được không ạ?" Yattul nói với giọng hài hước nhún nhường cùng vẻ hối lỗi đầy thuyết phục.
 
-Cứ qua mỗi lần tiếp xúc, tôi lại càng thêm tin chắc rằng Yattul thà kiếm sống trên sân khấu kịch còn hơn là hoạt động trong thế giới ngầm. Gã không hẳn là đẹp trai, nhưng lại sở hữu diện mạo cùng phong thái rất riêng, và gã từng toát ra uy quyền nhất định khi ăn nói với đồng bọn vào đêm qua, dẫu rằng khí thế ấy lúc này đã được che giấu rất kỹ. Tôi đồ rằng gã có thể cần luyện thêm về đài từ và nhả chữ, nhưng chắc tôi phải nghe gã đọc vài câu líu lưỡi thì mới đánh giá chính xác được.
+Cứ qua mỗi lần tiếp xúc, tôi lại càng thêm tin chắc rằng Yattul lên sân khấu kịch kiếm sống có khi còn khấm khá hơn là hoạt động trong thế giới ngầm. Gã không hẳn là đẹp trai, nhưng lại sở hữu diện mạo cùng phong thái rất riêng, và gã từng toát ra uy quyền nhất định khi ăn nói với đồng bọn vào đêm qua, dẫu rằng khí thế ấy lúc này đã được che giấu rất kỹ. Tôi đồ rằng gã có thể cần luyện thêm về đài từ và nhả chữ, nhưng chắc tôi phải nghe gã đọc vài câu líu lưỡi thì mới đánh giá chính xác được.
 
 Tôi bật cười sảng khoái. "Tôi chắc là từ giờ mọi chuyện sẽ thuận buồm xuôi gió thôi. Chúng tôi sẽ nghỉ ngơi ở phía sau này một lát, Yattul. Bác cứ tập trung vào bầy ngựa đi nhé."
 
@@ -46,7 +46,7 @@ Hẳn là rất đáng sợ khi bị gọi tới trước mặt một nhóm mạ
 
 "T-Tôi..." Ferrici lí nhí, lộ rõ vẻ căng thẳng.
 
-Lorraine mỉm cười với cô bé. "Em cứ thả lỏng đi. Chúng tôi không làm hại em đâu. Bọn tôi chỉ có vài câu muốn hỏi thôi. Ngày mai chúng tôi sẽ lên đường đến Hồ Petorama, và muốn tìm hiểu đôi chút về địa hình tổng thể quanh đó, khoảng cách từ đây tới hồ, quy mô của nó, cùng bất kỳ thông tin nào về hệ sinh thái ở đấy. Bác chủ quán bảo em là chuyên gia đấy."
+Lorraine mỉm cười với cô gái. "Em cứ thả lỏng đi. Chúng tôi không làm hại em đâu. Bọn tôi chỉ có vài câu muốn hỏi thôi. Ngày mai chúng tôi sẽ lên đường đến Hồ Petorama, và muốn tìm hiểu đôi chút về địa hình tổng thể quanh đó, khoảng cách từ đây tới hồ, quy mô của nó, cùng bất kỳ thông tin nào về hệ sinh thái ở đấy. Bác chủ quán bảo em là chuyên gia đấy."
 
 ◆◇◆◇◆
 
@@ -94,7 +94,7 @@ Bất luận suy đoán của tôi có trúng đích hay không, Lorraine trông
 
 "Có điều gì đó em không muốn nói ra ư? Tôi cũng có thể đoán được phần nào, nhưng chúng tôi chỉ muốn thu thập những nguyên liệu mình cần, và chỉ lấy đúng số lượng cần thiết mà thôi. Cả con non lẫn trứng Phi Long đều không nằm trong danh sách đó. Nếu em không thể tiết lộ cách thức... thì liệu em có thể dẫn đường cho chúng tôi tới đó không? Dĩ nhiên chúng tôi sẽ trả công hậu hĩnh cho em, và chúng tôi thề sẽ ngậm chặt miệng về bất cứ điều gì mình nhìn thấy."
 
-"Em xin lỗi. Em không làm được đâu!" Ferrici thốt lên rồi vụt chạy ra ngoài cửa.
+"Tôi xin lỗi. Tôi không làm được đâu!" Ferrici thốt lên rồi vụt chạy ra ngoài cửa.
 
 Lorraine dõi mắt nhìn cô gái lao vụt đi, rồi quay sang nhìn chúng tôi với vẻ áy náy. "Xin lỗi nhé. Tôi không thể chốt được thỏa thuận rồi."
 
@@ -128,4 +128,4 @@ Khi tôi liếc mắt nhìn ra ngoài trời, vầng trăng đã báo cho tôi b
 
 "Ừm, chúng ta về thôi," tôi hưởng ứng.
 
-Chúng tôi thanh toán tiền cho chủ quán, kèm thêm vài đồng xu vì đã làm phiền ông, rồi cất bước bước ra khỏi cửa.
+Chúng tôi thanh toán tiền cho chủ quán, kèm thêm vài đồng xu vì đã làm phiền ông, rồi bước ra khỏi cửa.

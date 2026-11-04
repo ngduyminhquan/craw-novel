@@ -2,7 +2,7 @@
 
 "Ra vậy," Augurey nói. "Chẳng trách cậu lại lo sốt vó rằng có ai đó sẽ hiểu lầm chuyện này." Anh ta làm điệu bộ chỉ về phía cái thứ đang nằm sõng soài bên cạnh giường tôi.
 
-"Anh thì khác gì tôi chứ. Sao anh lại cuốn cô ta lại như cuộn giò thế kia?" Nói cho chính xác hơn thì cô ta đang bị trói gô lại, nhưng đó chỉ là vấn đề dùng từ ngữ mà thôi. Việc anh ta lót những mảnh vải bên dưới dây thừng đã minh chứng cho sự ga-lăng của Augurey. Chắc chắn sẽ chẳng đời nào có chuyện đó nếu anh ta chỉ đơn thuần bắt cóc cô gái rồi vác tới đây, dẫu vậy đó cũng chưa từng là khả năng mà tôi đoái hoài tới—ít nhất là đối với một người như Augurey.
+"Anh thì khác gì tôi chứ. Sao anh lại cuốn cô ta lại như cuộn giò thế kia?" Nói cho chính xác hơn thì cô ta đang bị trói gô lại, nhưng đó chỉ là vấn đề dùng từ ngữ mà thôi. Việc anh ta lót những mảnh vải bên dưới dây thừng đã minh chứng cho sự lịch thiệp của Augurey. Chắc chắn sẽ chẳng đời nào có chuyện đó nếu anh ta chỉ đơn thuần bắt cóc cô gái rồi vác tới đây, dẫu vậy đó cũng chưa từng là khả năng mà tôi đoái hoài tới—ít nhất là đối với một người như Augurey.
 
 "Cậu biết rõ câu trả lời rồi còn gì? Cô ta đã tấn công tôi. Nhìn qua thì có vẻ cậu cũng gặp phải chuyện tương tự."
 
@@ -14,7 +14,7 @@ Người phụ nữ này là một trong những người bạn của Ferrici �
 
 Cho phép tôi giải thích làm thế nào mà bạn của Ferrici lại kết cục nằm dưới sàn phòng tôi mà không một mảnh vải che thân như thế này. Nửa đêm nửa hôm, cô ta bất thình lình tới gõ cửa phòng tôi, nói rằng có chuyện cần bàn bạc, thế nên tôi mới để cô ta vào. Tôi đã hy vọng rằng biết đâu cô ta nắm được chút bí mật nào đó về loài Phi Long hay vùng hồ, nhưng tôi thậm chí còn chưa kịp mở miệng hỏi han gì. Cô ta đã tự cởi bỏ quần áo rồi buông lời gạ gẫm tôi. Đoạn, một con dao bất ngờ được rút ra. Thật không may cho cô ta, việc đâm tôi bằng những cách thức thông thường thường chẳng đem lại kết quả như mong muốn.
 
-Tôi đã vận dụng Phân Liệt—vốn đã được tôi mài giũa tập luyện bấy lâu—để tách rời phần Khô Lâu tại vị trí mà người phụ nữ định đâm tới, khiến mũi dao chỉ đâm vào khoảng không trước khi tôi đánh ngất và trói gô cô ta lại. Tôi sẽ không chết chỉ vì vài nhát dao đâm, và ngoài mặt thì tôi có thể tự chữa lành chúng, nhưng tôi thừa hiểu rằng bất kỳ tổn hại nào giáng lên cơ thể mình đều sẽ tích tụ lại. Tôi đã tận mắt chứng kiến Phân Liệt phát huy hiệu quả ra sao đối với con Ma Cà Rồng nọ ở mê cung mới tại Maalt. Tôi chẳng hề có ý định để người phụ nữ này đâm trúng mình, dẫu cho nhát dao của cô ta rõ ràng chỉ là tay mơ. Đúng lúc tôi vừa trói gô cô ta lại và đặt xuống sàn để tính toán bước đi tiếp theo, thì Augurey tới gõ cửa.
+Tôi đã vận dụng Phân Liệt—vốn đã được tôi mài giũa tập luyện bấy lâu—để tách rời phần khung xương tại vị trí mà người phụ nữ định đâm tới, khiến mũi dao chỉ đâm vào khoảng không trước khi tôi đánh ngất và trói gô cô ta lại. Tôi sẽ không chết chỉ vì vài nhát dao đâm, và ngoài mặt thì tôi có thể tự chữa lành chúng, nhưng tôi thừa hiểu rằng bất kỳ tổn hại nào giáng lên cơ thể mình đều sẽ tích tụ lại. Tôi đã tận mắt chứng kiến Phân Liệt phát huy hiệu quả ra sao đối với con Ma Cà Rồng nọ ở mê cung mới tại Maalt. Tôi chẳng hề có ý định để người phụ nữ này đâm trúng mình, dẫu cho nhát dao của cô ta rõ ràng chỉ là tay mơ. Đúng lúc tôi vừa trói gô cô ta lại và đặt xuống sàn để tính toán bước đi tiếp theo, thì Augurey tới gõ cửa.
 
 Tôi tóm tắt nhanh tình hình cho anh ta nghe, và anh ta cũng kể lại cho tôi một câu chuyện tương tự từ phía mình. Hai chúng tôi chỉ cần nhìn nhau một cái là đã hiểu ý nhau ngay. Dẫu vậy, chúng tôi đều kiềm chế không thốt ra cái tên Siren hay bất kỳ từ khóa nào khác. Có thể có những đôi tai đang dỏng lên rình rập ngay bên ngoài những bức tường này. Nếu có Lorraine ở đây, cô ấy đã có thể dựng lên một Cách Âm Kết Giới rồi, nhưng...
 
@@ -42,7 +42,7 @@ Tôi vẫy tay ra hiệu cho Augurey tiến lên sau khi đã kiểm tra và th�
 
 "Tôi có cảm giác như chúng ta đang bắt cóc họ hay đại loại thế ấy," Augurey lẩm bẩm, liếc nhìn hai cô nàng đang nằm trên vai mình.
 
-"Đây là cách tốt nhất chúng ta có thể làm rồi. Sắp tới nơi rồi đấy. Đi thôi." Tôi rẽ qua góc ngoặt và đứng trước cửa phòng Lorraine, vẫy tay gọi Augurey lại. Anh ta lê bước bước tới, đúng lúc đó...
+"Đây là cách tốt nhất chúng ta có thể làm rồi. Sắp tới nơi rồi đấy. Đi thôi." Tôi rẽ qua góc ngoặt và đứng trước cửa phòng Lorraine, vẫy tay gọi Augurey lại. Anh ta lê bước tiến tới, đúng lúc đó...
 
 Cửa phòng Lorraine mở ra. Tôi chưa hề gõ cửa, nên hẳn là Lorraine đã tự mở. Cô thò đầu ra ngoài cửa rồi nói: "Là anh à, Rentt. Đúng lúc lắm..." Cô chuyển ánh nhìn sang Augurey, người vẫn đang vác hai cô nàng trẻ trung trong tình trạng nửa trần như nhộng trên vai. "Ồ."
 
@@ -58,7 +58,7 @@ Augurey lấy lại vẻ tự nhiên thường ngày khi bước vào phòng cô
 
 Các câu thần chú ma pháp sẽ càng trở nên khó duy trì hơn khi khoảng cách giữa người niệm và ma pháp càng xa, cũng như khi thời gian ma pháp được kích hoạt càng kéo dài. Ma cụ thì là chuyện khác, nhưng việc duy trì một ma pháp như thế này trong thời gian dài mà không cần bất kỳ sự trợ giúp nào lại khó khăn hơn vẻ bề ngoài của nó rất nhiều.
 
-Để nói rõ hơn thì kẻ tấn công là một gã đàn ông. Một gã có ngoại hình khá ưa nhìn, trông hơi lạc lõng so với một ngôi làng hẻo lánh thế này. Những người có diện mạo đẹp đẽ thường được đưa lên thành phố từ khi còn nhỏ. Không phải để làm nô lệ hay gì đâu, mà họ có xu hướng nhận được nhiều cơ hội hơn như học việc hay được nhận nuôi. Tôi đoán ở những vùng vô pháp vô thiên hơn thì có kẻ bị bắt làm nô lệ thật, nhưng chế độ nô lệ, ít nhất là trên giấy tờ, đã bị đặt ngoài vòng pháp luật ở Vương Quốc Yaaran. Chẳng có bất kỳ hoạt động buôn bán nô lệ công khai nào, và người ta chỉ có thể quy những đường dây bất hợp pháp là sản phẩm của lũ người bệnh hoạn. Các đoàn hiệp sĩ và sở tuần binh đã nỗ lực hết sức, nhưng bao giờ cũng sẽ có những tội ác không bị trừng trị.
+Để nói rõ hơn thì kẻ tấn công là một gã đàn ông. Một gã có ngoại hình khá ưa nhìn, trông hơi lạc lõng so với một ngôi làng hẻo lánh thế này. Những người có diện mạo đẹp đẽ thường được đưa lên thành phố từ khi còn nhỏ. Không phải để làm nô lệ hay gì đâu, mà họ có xu hướng nhận được nhiều cơ hội hơn như học việc hay được nhận nuôi. Tôi đoán ở những vùng vô pháp vô thiên hơn thì có kẻ bị bắt làm nô lệ thật, nhưng chế độ nô lệ, ít nhất là trên giấy tờ, đã bị đặt ngoài vòng pháp luật ở Vương Quốc Yaaran. Chẳng có bất kỳ hoạt động buôn bán nô lệ công khai nào, và người ta chỉ có thể quy những đường dây bất hợp pháp là sản phẩm của lũ người bệnh hoạn. Các đoàn kỵ sĩ và sở tuần binh đã nỗ lực hết sức, nhưng bao giờ cũng sẽ có những tội ác không bị trừng trị.
 
 "Chính xác," Lorraine nói. "Thế nên dẫu cho Augurey có vác những người phụ nữ nửa trần như nhộng trên vai và đi theo sau một gã đàn ông đeo chiếc mặt nạ quái đản, tôi cũng chẳng bao giờ nghĩ rằng có mấy kẻ buôn người đang định bắt cóc những người phụ nữ này đem bán làm nô lệ đâu. Hơn nữa, ở Vương Quốc Yaaran thì nô lệ chỉ tổ mang lại rắc rối nhiều hơn là tiền bạc. Đối với hai anh, làm mạo hiểm giả vừa an toàn hơn lại vừa kiếm bộn hơn nhiều."
 
@@ -120,7 +120,7 @@ Chúng tôi đã thử nhiều phương pháp khác nhau để đánh thức ít
 
 "Cú đó hơi nặng tay rồi đấy. Vết hằn trên má hắn trông y như một chiếc lá cây lymes vậy," tôi nói. Nhân tiện nói thêm, cây lymes là một loài cây sinh ra những chiếc lá có kích thước và hình dạng cỡ chừng một bàn tay người.
 
-"Tôi suýt chút nữa là bị thất tiết rồi đấy, bất kể việc hắn có đang bị thao túng hay không. Tôi phải được quyền tát một hai cái chứ," Lorraine vặn lại. Dẫu vậy, cô không muốn chúng tôi hiểu lầm ý định của mình, nên liền nói thêm: "Nói đùa vậy thôi, chứ có những loại thôi miên mạnh đến mức cần phải có một cú sốc cỡ đó mới phá được. Tôi nghĩ đó là một khả năng vì chẳng có câu thần chú nào của tôi phát huy tác dụng lên họ cả. Tôi đâu thể làm thế với hai người phụ nữ kia được, vì vậy tôi mới chọn hắn. Nhưng nếu hắn không liên quan gì đến Siren, hắn sẽ thông cảm một khi chúng ta giải thích rõ ràng thôi."
+"Tôi suýt chút nữa là bị hắn giở trò đồi bại rồi đấy, bất kể việc hắn có đang bị thao túng hay không. Tôi phải được quyền tát một hai cái chứ," Lorraine vặn lại. Dẫu vậy, cô không muốn chúng tôi hiểu lầm ý định của mình, nên liền nói thêm: "Nói đùa vậy thôi, chứ có những loại thôi miên mạnh đến mức cần phải có một cú sốc cỡ đó mới phá được. Tôi nghĩ đó là một khả năng vì chẳng có câu thần chú nào của tôi phát huy tác dụng lên họ cả. Tôi đâu thể làm thế với hai người phụ nữ kia được, vì vậy tôi mới chọn hắn. Nhưng nếu hắn không liên quan gì đến Siren, hắn sẽ thông cảm một khi chúng ta giải thích rõ ràng thôi."
 
 Hóa ra, cái tát của cô không đơn thuần là một biện pháp giải tỏa căng thẳng mang tính bạo lực. Tôi sẽ không dám khẳng định chắc nịch rằng Lorraine chẳng bao giờ làm một việc như thế, nhưng cô vốn không phải tuýp người đó, nên lời giải thích của cô nghe hợp tình hợp lý với tôi hơn nhiều.
 

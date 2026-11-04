@@ -93,3 +93,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#226) Tên quán trọ Falcon’s Rest Inn tại vương đô nơi Augurey lưu trú: dịch là "Quán Trọ Falcon's Rest" (nguyên tác 鷹の羽休め亭 - quán trọ chim ưng dừng cánh).
 - (#230) Phân biệt "Holy Tree" và "Venerable Holy Tree": "Holy Tree" dịch là "Thánh Thụ" (cái cây thần/thực thể linh thiêng của High Elf); "Venerable Holy Tree" dịch là "Cổ Thánh Thụ" (thường xuất hiện trong danh xưng xứ sở "Land of the Venerable Holy Tree" → "Vùng Đất Cổ Thánh Thụ"), tránh dịch nhầm "Holy Tree" thành "Cổ Thánh Thụ".
 - (#234) Danh từ chung "monster(s)": dịch thống nhất là "quái vật", không dùng từ Hán Việt "ma vật".
+- (#237) Phân biệt "Skeleton" (quái vật Undead → viết hoa "Khô Lâu") và danh từ chung "skeleton" chỉ bộ khung xương cơ thể ("my skeleton" → "bộ xương / khung xương"), tránh dịch máy thành "Khô Lâu".
