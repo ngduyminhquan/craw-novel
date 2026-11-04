@@ -814,7 +814,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Fuana
 - Giới tính, vai trò: Nữ, thành viên tổ chức sát thủ / dị năng ngầm (#256).
-- Đặc điểm: Vóc dáng nhỏ bé nhưng giọng nói rất to; rất gắn bó và bám dính Spriggan; tự tin và am hiểu sâu sắc về ma pháp, đặc biệt là ma pháp cổ đại, tự xưng danh hiệu "Fuana Thông Ma Pháp"; sở hữu lượng Ma Lực dồi dào gấp ba lần Rentt, tự hào ma pháp có thể phá sập tường thành; tính tình bướng bỉnh, hiếu thắng, dễ bị khích tướng; sau khi chứng kiến Rentt trúng đòn chí mạng vẫn bình thản đánh ngất Vaasa thì hoang mang, run rẩy lo sợ trước trận đấu ma pháp với Lorraine (tính đến #259).
+- Đặc điểm: Vóc dáng nhỏ bé nhưng giọng nói rất to; rất gắn bó và bám dính Spriggan; tự tin và am hiểu sâu sắc về ma pháp, đặc biệt là ma pháp cổ đại, tự xưng danh hiệu "Fuana Thông Ma Pháp"; sở hữu lượng Ma Lực dồi dào gấp ba lần Rentt, tự hào ma pháp có thể phá sập tường thành; tính tình bướng bỉnh, hiếu thắng, dễ bị khích tướng; sở hữu dị năng nhìn thấu điểm yếu nhất trong cấu trúc ma pháp bằng trực giác và giải phóng Ma Lực phá tan ma pháp; thực chất là một ma pháp cách đấu sĩ sử dụng vũ khí là nắm đấm và phong cách cận chiến dũng mãnh như dã thú; trong trận đấu với Lorraine bị ma pháp đa tầng và Khiên Chắn hai lớp khóa tay giật sét khắc chế (tính đến #260).
 - Xuất hiện từ: #256 (được nhắc tên), xuất hiện thực tế ở #257.
 
 

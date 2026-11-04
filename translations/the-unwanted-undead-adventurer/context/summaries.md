@@ -1534,6 +1534,14 @@ Không hề nao núng trước vết thương ở bụng, Rentt tiến tới dù
 Trên khán đài (chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine), Fuana bàng hoàng hoang mang trước sức chống chịu quái dị của Rentt; Spriggan vác Vaasa lên khán đài và Rentt vạch trần việc Spriggan đã mượn tay mình để dạy cho thuộc cấp hiếu thắng một bài học.
 Cảnh kết thúc: Rentt và Spriggan chốt xong kết quả trận đầu, Lorraine sẵn sàng nghênh chiến trong khi Fuana run rẩy, bất an chuẩn bị bước vào trận đấu ma pháp tiếp theo.
 
+## 260
+Trận đấu ma pháp giữa Lorraine và Fuana Thông Ma Pháp bắt đầu với Spriggan làm trọng tài từ khán đài; Fuana bắn Fotiá Volídas không cần niệm chú nhưng bị Lorraine né tránh, dùng đoản kiếm phản kích và lừa hỏa cầu lao ngược về phía chủ nhân.
+Fuana giơ tay giải phóng Ma Lực xóa bỏ hỏa cầu; Spriggan giải thích cho Rentt về dị năng của Fuana là nhìn thấu điểm yếu cấu trúc ma pháp theo trực giác thay vì dùng ma nhãn suy luận.
+Lorraine thử nghiệm các ma pháp cơ bản rồi thi triển ma pháp đa tầng (lồng Fotiá Volídas vào Vráchos Volídas) phân tách điểm yếu để hóa giải dị năng xóa ma pháp của Fuana.
+Fuana lộ diện là một ma pháp cách đấu sĩ, dùng nắm đấm phá vỡ ma pháp rồi lao vào cận chiến dữ dội; Fuana đấm vỡ Khiên Chắn đầu tiên nhưng bị lớp khiên thứ hai cùm chặt cánh tay và dính trọn tia sét của Lorraine.
+Cảnh kết thúc: Dù bị sét đánh trúng, Fuana vẫn lộn vòng tiếp đất và bừng bừng chiến ý lao vào tấn công như thú săn mồi; Lorraine thong dong duy trì phòng thủ và nắm giữ thế thượng phong trong khi Rentt dự đoán trận đấu sẽ sớm ngã ngũ.
+
+
 
 
 

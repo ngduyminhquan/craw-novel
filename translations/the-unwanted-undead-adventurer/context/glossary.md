@@ -456,3 +456,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Vistelya Grand Colosseum |  | Đại Đấu Trường Vistelya | địa danh | 256 | Đấu trường lớn nhất Vương Quốc Yaaran nằm ở ngoại ô vương đô Vistelya |
 | Strongiron | Strongiron Vaasa | Cường Thiết | danh hiệu | 257 | Biệt danh của Vaasa (強鉄) |
 | Spellwise | Fuana the Spellwise | Thông Ma Pháp | danh hiệu | 257 | Biệt danh của Fuana (魔術通) |
+| Fotiá Volídas | Fotia Volidas | Fotiá Volídas | kỹ năng | 260 | Ma pháp hỏa hệ cơ bản phóng hỏa cầu (câu chú giữ nguyên theo rules.md) |
+| Vráchos Volídas | Vrachos Volidas | Vráchos Volídas | kỹ năng | 260 | Ma pháp thổ hệ cơ bản phóng khối đá (câu chú giữ nguyên theo rules.md) |
+| Hydor Volídas |  | Hydor Volídas | kỹ năng | 260 | Ma pháp thủy hệ cơ bản phóng khối nước (câu chú giữ nguyên theo rules.md) |
+| Anemos Volídas |  | Anemos Volídas | kỹ năng | 260 | Ma pháp phong hệ cơ bản phóng luồng gió (câu chú giữ nguyên theo rules.md) |
+| magic brawler |  | ma pháp cách đấu sĩ | chức nghiệp | 260 | Ma pháp sư có phong cách cận chiến kết hợp nắm đấm |
