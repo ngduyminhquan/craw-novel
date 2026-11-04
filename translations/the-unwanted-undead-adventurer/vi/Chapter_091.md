@@ -1,139 +1,139 @@
 # Chương 91: Tập 4 Chương 1 - Tiến Về Mê Cung Tân Nguyệt (4)
 
-Orc Binh là một phân loài Orc hùng mạnh, xếp trên một bậc so với lũ Orc thông thường vốn hay bắt gặp trong mê cung. Chúng to lớn gấp đôi những con Orc thường, và mang trên mình trang bị rèn từ kim loại. Đó là những đặc điểm nhận dạng cơ bản nhất của chúng. Ngoài ra còn có cả Vua Orc và Đại Tướng Orc, những con quái vật mạnh hơn rất nhiều so với một con Orc Binh trang bị vũ khí kim loại điển hình. Tuy nhiên, những con quái vật ấy hầu như chẳng bao giờ xuất hiện ở các tầng nông, và thứ vũ khí chúng cầm trên tay cũng khác biệt trông thấy.
+Orc Binh là một biến chủng Orc mạnh mẽ, trên cơ hẳn lũ Orc thường hay gặp trong mê cung. Đặc điểm nhận dạng dễ thấy nhất của chúng là vóc người to gấp đôi và mang trang bị rèn bằng kim loại. Xếp trên chúng còn có cả Vua Orc và Đại Tướng Orc, những con quái vật vượt trội hơn nhiều so với một con Orc Binh giáp sắt thông thường. Có điều, những cá thể cấp cao đó hầu như chẳng bao giờ xuất hiện ở các tầng nông, và thứ vũ khí trên tay chúng cũng khác biệt một trời một vực.
 
-Tuy lũ Orc đang vây quanh Edel đều được trang bị vũ khí bằng kim loại, nhưng trang bị của chúng phần lớn chỉ được làm từ đồng, hoặc các loại kim loại lẫn nhiều tạp chất. Chưa kể, những món trang bị đó trông cũng chẳng tinh xảo cho lắm. So với lũ này, một con Đại Tướng Orc rất có thể sẽ vung vẩy một món vũ khí bằng Mithril—chỉ nghĩ đến thôi cũng đủ thấy đáng sợ rồi.
+Đám Orc đang vây quanh Edel tuy mang vũ khí kim loại, nhưng đồ của chúng phần lớn chỉ đúc bằng đồng, hoặc các loại kim loại lẫn nhiều tạp chất. Đã vậy, độ tinh xảo cũng chẳng tới đâu. So với lũ này, một con Đại Tướng Orc hoàn toàn có thể mang vũ khí bằng Mithril, chỉ nghĩ đến thôi cũng đủ thấy rợn người.
 
-Bên cạnh thứ vũ khí đặc thù, một con Đại Tướng Orc còn sở hữu trình độ võ nghệ không hề tầm thường. Nhận định chung của giới mạo hiểm giả đều cho rằng chỉ có mạo hiểm giả Bạch Kim Cấp mới đủ sức đương đầu với nó. Đúng là một con quái vật đáng sợ. Tệ hơn nữa, những con Orc phẩm cấp cao thường có xu hướng chi phối và thống trị những kẻ yếu hơn mình. Tùy thuộc vào việc con Orc đó mạnh đến mức nào, người ta có thể ước chừng được rằng bầy Orc dưới trướng nó sẽ càng mạnh và đông đảo hơn. Trường hợp của Vua Orc, nó hoàn toàn có khả năng kiểm soát từng con Orc một trong toàn bộ lãnh địa của mình, và tôi khó lòng nghĩ ra thứ gì đáng sợ hơn thế.
+Không chỉ có vũ khí đặc thù, một con Đại Tướng Orc còn sở hữu kỹ năng chiến đấu khá cừ. Theo nhận định chung của giới mạo hiểm giả, phải cỡ Bạch Kim Cấp mới mong đọ sức được với nó. Đúng là quái vật thực sự. Tệ hơn nữa, lũ Orc cấp cao thường thống trị những kẻ yếu hơn mình. Thủ lĩnh càng mạnh thì bầy Orc dưới trướng càng đông đảo và hung hãn. Riêng Vua Orc thì có thể kiểm soát không sót một con nào trong toàn cõi lãnh địa, chuyện đó mới thực sự là ác mộng.
 
-Dĩ nhiên, ngay cả Orc Binh cũng có đôi chút khả năng lãnh đạo mang tính áp chế; ít thôi, nhưng dẫu sao vẫn có. Dù vậy, chúng chỉ có thể chỉ huy lũ Orc thường, mà cũng chỉ dẫn đầu được một hoặc vài ba con là cùng.
+Dĩ nhiên, ngay cả Orc Binh cũng có chút quyền uy thống lĩnh; ít ỏi thôi, nhưng dẫu sao vẫn có. Có điều chúng chỉ chỉ huy được lũ Orc thường, mà cũng chỉ lèo tèo vài ba con là cùng.
 
-Cuối cùng, tiếng gầm hú của chúng còn có khả năng gọi thêm đồng loại, khi âm thanh vang dội truyền đi rất xa khắp tầng mê cung. Dây dưa quá lâu để hạ gục chúng có thể dẫn tới hậu quả chết người. Nếu bị cả một bầy Orc lớn đuổi theo ráo riết, việc trốn thoát sẽ vô cùng gian nan.
+Cuối cùng, tiếng hú của chúng còn có thể gọi thêm đồng loại vì âm thanh vang rất xa khắp tầng mê cung. Dây dưa đánh lâu có khi mất mạng như chơi. Một khi bị cả đàn Orc đông đảo bám đuổi ráo riết, chạy thoát sẽ là chuyện cực kỳ gian nan.
 
 "...Edel!"
 
-Đó là lý do vì sao tôi tuốt kiếm, lao thẳng về phía lũ Orc Binh đang bao vây Edel sau thoáng chốc suy tính. Thông điệp ẩn sau hành động của tôi rất đỗi đơn giản: chúng tôi phải tiêu diệt kẻ thù này càng nhanh càng tốt. Edel đồng tình qua liên kết tâm trí, vừa kêu chút chít trong họng.
+Nghĩ vậy, tôi tuốt kiếm, lao thẳng về phía lũ Orc Binh đang vây quanh Edel. Ý tứ trong hành động của tôi rất rõ ràng: phải giải quyết lũ này càng nhanh càng tốt. Edel đồng tình qua liên kết tâm trí, miệng kêu chít chít hưởng ứng.
 
 "Chít! Chít!"
 
-Cùng với một tràng tiếng chít, Edel bắt đầu rút lấy nguồn năng lượng dự trữ trong tôi, trong khi tôi nới lỏng mức kiểm soát lượng năng lượng mà nó có thể lấy. Nếu tôi quá bất cẩn, Edel hoàn toàn có thể hút cạn sạch mọi thứ từ tôi. Dẫu tôi từng nghĩ mình nên keo kiệt hơn một chút về khoản này, nhưng lúc này không phải là lúc bận tâm đến những chuyện như vậy. Có lẽ là do cảm nhận được sự biến chuyển trong khí tức của chúng tôi, lũ Orc Binh không còn coi Edel là con mồi nữa. Chúng cũng lập tức sẵn sàng giao chiến, vào thế thủ.
+Vừa kêu mấy tiếng chít chít, Edel vừa bắt đầu rút lấy nguồn sức mạnh dự trữ trong tôi, còn tôi thì thả lỏng quyền kiểm soát để mặc nó lấy bao nhiêu tùy ý. Nếu sơ sểnh, khéo nó hút cạn sạch cả người tôi mất. Tôi vốn định giữ kẽ hơn một chút, nhưng giờ không phải lúc so đo. Chắc do cảm nhận được khí tức của chúng tôi biến chuyển, lũ Orc Binh không còn xem Edel là con mồi nữa. Chúng lập tức vào thế thủ, chuẩn bị nghênh chiến.
 
-Thế nhưng lũ Orc quá đỗi chậm chạp. Đã áp sát ngay trước mặt lũ quái vật, tôi nhắm vào con Orc Binh có vẻ ngạo mạn nhất trong số chúng—có lẽ là con đầu đàn—rồi nhanh như chớp đâm lưỡi kiếm vào gáy nó. Tôi ngỡ đó là một cú tập kích hoàn hảo, nhưng dẫu vậy, con Orc Binh mục tiêu vẫn kịp phản ứng, vung thanh kiếm của nó lên gạt phăng đòn tấn công của tôi.
+Thế nhưng lũ Orc chậm hơn quá nhiều. Vừa áp sát lũ quái vật, tôi liền nhắm vào con Orc Binh có vẻ ngạo mạn nhất, có lẽ là đầu đàn, rồi nhanh như chớp đâm thẳng mũi kiếm vào gáy nó. Tôi ngỡ cú tập kích này mười mươi sẽ trúng, thế mà con Orc Binh kia vẫn kịp phản ứng, vung kiếm gạt phăng mũi đòn của tôi.
 
 Khá đấy chứ...
 
-Muốn kết thúc tất cả chỉ bằng một đòn chớp nhoáng quả là đòi hỏi quá cao. Tuy nhiên, chuyện đó chỉ đúng nếu tôi phải chiến đấu đơn độc mà thôi.
+Đúng là khó mà đòi dứt điểm mọi chuyện chỉ bằng một nhát chớp nhoáng. Nhưng đó là khi tôi chiến đấu một mình.
 
-Mới chỉ vừa chốc lát trước con Orc Binh còn quay ngoắt về phía tôi và đỡ gạt nhát kiếm của tôi, thì nét mặt nó lúc này đã biến thành vẻ bối rối tột độ. Nhưng điều đó cũng dễ hiểu thôi. Ban nãy nó còn đang nhìn thẳng về phía tôi, thế mà giờ đây tầm mắt nó lại hướng thẳng lên bầu trời, cứ như thể nó vừa bị hất tung lên không trung bằng cách nào đó vậy.
+Mới chốc lát trước con Orc Binh còn quay lại đỡ nhát kiếm của tôi, thì lúc này mặt nó đã hiện rõ vẻ ngơ ngác tột cùng. Cũng phải thôi. Ban nãy còn nhìn thẳng về phía tôi, giờ tầm mắt nó đã chổng ngược lên trời, cứ như vừa bị hất tung lên không trung vậy.
 
-Nguyên do khiến góc nhìn của con Orc Binh đột ngột thay đổi là bởi Edel đã tung cú húc người sở trường vào một bên chân nó, gạt ngã con Orc và khiến nó ngã ngửa ra sau. Dù sở hữu một thân hình to lớn vượt xa bất kỳ người bình thường nào, nó cũng phải trả một cái giá đắt không kém cho mớ trang bị kim loại khoác trên người. Thân xác bị đè nặng bởi những món đồ này ngã nhào một cách buồn cười tột độ ngay khi mất thăng bằng. Nó đổ ập xuống, đầu đập mạnh xuống đất. Con Orc Binh, như hiểu được rằng mình đang rơi vào thế hạ phong, cố gắng gượng dậy... nhưng đã quá muộn. Lưỡi kiếm của tôi lại một lần nữa kề sát cổ nó, sẵn sàng vung xuống.
+Tầm mắt nó thay đổi đột ngột như thế là vì Edel vừa tung cú tông sở trường vào chân làm con Orc ngã ngửa ra sau. Dù mang thân hình hộ pháp vượt xa người thường, nó cũng phải trả giá đắt tương xứng cho mớ trang bị kim loại khoác trên mình. Bị đè nặng bởi mớ giáp sắt, vừa mất thăng bằng là nó ngã bổ chửng một cú trông đến buồn cười. Đầu nó đập thẳng xuống đất. Hiểu rằng mình thất thế, con Orc Binh cố gượng dậy... nhưng đã muộn. Mũi kiếm của tôi lại kề sát cổ nó, sẵn sàng hạ thủ.
 
-Lúc này đang nằm sõng soài trong một tư thế vụng về, con Orc Binh chẳng thể nào vung vũ khí kịp nữa. Bằng một đường kiếm duy nhất, mượt mà dứt khoát, tôi chém phăng đầu con quái vật, tách rời chiếc đầu khỏi thân thể nó một cách gọn gàng. Chiếc đầu vừa lìa khỏi cổ, một vòi máu lập tức phun trào xối xả từ vết cắt. Tôi không khỏi thầm nghĩ rằng thật là lãng phí. Hẳn đó sẽ là một bữa ăn vô cùng ngon lành, thế nhưng chiến trường khó lòng là nơi để một kẻ thong thả ngồi nhâm nhi một vòi máu tươi rói.
+Đang nằm chỏng gọng ở thế lúng túng, con Orc Binh chẳng kịp trở tay rút vũ khí. Bằng một đường kiếm gọn gàng, dứt khoát, tôi chém lìa đầu con quái vật khỏi cổ. Đầu vừa lìa khỏi xác, máu từ cuống họng đã phun lên xối xả như suối. Tôi thầm tiếc rẻ, ngon lành thế này mà bỏ phí thì uổng quá, nhưng chiến trường đâu phải chỗ để người ta thong thả ngồi nhấm nháp máu tươi.
 
-Tất cả những diễn biến ấy chỉ diễn ra trong vỏn vẹn vài giây ngắn ngủi. Dù vậy, hai con Orc Binh còn lại cũng nhanh chóng hiểu ra chuyện gì vừa xảy ra, và lập tức lao tới tấn công chúng tôi. Đáng tiếc thay cho chúng, con Orc mà tôi cùng Edel vừa hạ gục rất có thể chính là thủ lĩnh của nhóm Orc hỗn tạp này, đúng như tôi dự đoán.
+Mọi chuyện chỉ diễn ra trong vài giây chớp nhoáng. Hai con Orc Binh còn lại cũng hiểu ngay sự tình và lập tức lao tới tấn công chúng tôi. Có điều xui cho chúng, con Orc tôi và Edel vừa hạ gục lại chính là đầu đàn của cái nhóm ô hợp này, đúng như tôi phán đoán.
 
-Trong thoáng chốc, dường như lũ Orc còn phân vân xem nên đối đầu với ai trong hai chúng tôi, Edel hay tôi. Tuy nhiên gần như ngay lập tức, chúng chia nhau ra, mỗi con lao về phía một người.
+Có khoảnh khắc lũ Orc ngập ngừng không biết nên nhắm vào ai, Edel hay tôi. Nhưng gần như ngay lập tức, chúng tách ra, mỗi con lao về một phía.
 
-Tôi cùng Edel chẳng thể trông đợi một kết cục nào tốt hơn thế. Xét cho cùng, tôi coi trọng tốc độ và kỹ thuật hơn là sức mạnh cơ bắp thuần túy, còn vóc dáng của Edel lại nhỏ nhắn. Điều chúng tôi ít muốn đối mặt nhất chính là một kẻ địch áp đảo về số lượng. Nếu chỉ có một con Orc nhắm vào mỗi đứa chúng tôi, việc chiến đấu với chúng là hoàn toàn khả thi. Thậm chí trên thực tế, mỗi chúng tôi tự mình hạ gục một con cũng chẳng thành vấn đề.
+Với tôi và Edel, không còn tình thế nào thuận lợi hơn thế này. Xét cho cùng, tôi coi trọng tốc độ cùng kỹ thuật hơn là sức mạnh cơ bắp thuần túy, còn thể hình của Edel lại nhỏ nhắn. Điều chúng tôi ngán nhất là kẻ địch cậy đông. Nếu mỗi bên chỉ phải đối đầu với một con Orc thì hoàn toàn nằm trong tầm tay, thậm chí một chọi một, chúng tôi dư sức tự mình hạ gục chúng.
 
-Một con Orc Binh vung cao thanh kiếm lao bổ về phía tôi, như thể chực chém xuống. Tôi sải một bước nhanh vào vùng trung tâm của nó, tung một đòn trúng ngay bàn tay đối thủ. Được bảo vệ bởi một chiếc găng tay kim loại, nhát chém của tôi không chặt đứt lìa bàn tay con Orc ngay lập tức. Dù vậy, tôi đã thành công tước vũ khí của nó, lực va chạm từ đòn đánh khiến con Orc Binh đánh rơi thanh kiếm đang cầm. Hoảng loạn, con Orc Binh toan nhặt lại thanh kiếm, nhưng tôi đâu có ý định để nó làm thế. Tôi lại tung ra một cú đâm nhanh về phía con Orc, không cho nó cơ hội lấy lại vũ khí. Con Orc Binh dường như đã lường trước điều này, khi nó khom người xuống, gần như cúi rạp để né lưỡi kiếm của tôi trong đường tơ kẽ tóc. Đoạn, nó vừa cười vừa khịt mũi phì phì, như thể đang giễu cợt tôi. Đó không phải là nước đi khôn ngoan nhất cho con Orc này đâu, tôi thầm nghĩ.
+Con Orc Binh giương cao thanh kiếm lao bổ về phía tôi. Tôi lướt nhanh vào áp sát trung lộ, chém trúng ngay bàn tay nó. Nhờ có găng sắt bảo vệ, tay nó không bị chém đứt lìa. Dù vậy, tôi vẫn tước được vũ khí khi lực chém khiến con Orc Binh tuột tay đánh rơi kiếm. Hốt hoảng, con Orc Binh toan cúi xuống nhặt lại, nhưng làm sao tôi để nó toại nguyện. Tôi bồi thêm một cú đâm nhanh, chặn đường lấy lại vũ khí của nó. Dường như đã lường trước đòn này, con Orc Binh khom rạp người né lưỡi kiếm trong gang tấc. Rồi nó vừa cười vừa khịt mũi phì phì, ra vẻ giễu cợt tôi. Chẳng phải nước đi khôn ngoan đâu con ạ, tôi thầm nghĩ.
 
-Khi con Orc Binh định gượng đứng dậy, tôi bồi một cú đá thật lực vào thanh kiếm mà nó vừa toan nhặt, đá bay nó vút qua không trung. Thanh kiếm bay theo một đường thẳng tắp, rồi cắm phập vào lưng con Orc Binh còn lại đang mải miết giao chiến với Edel. Dĩ nhiên vết thương không sâu, nhưng dẫu vậy...
+Lúc con Orc Binh định gượng dậy, tôi bồi một cú đá thật lực vào thanh kiếm dưới đất, sút phăng nó lên không trung. Thanh kiếm vút đi theo đường thẳng tắp, cắm phập vào lưng con Orc Binh còn lại đang mải miết đánh nhau với Edel. Vết thương dĩ nhiên không sâu, nhưng dẫu sao...
 
 "Éccc!"
 
-Tiếng kêu đau đớn ra trò đấy chứ, tôi thầm nghĩ—và lại một lần nữa nhận được lời cổ vũ trong tâm trí từ Edel. "Làm tốt lắm," nó bảo.
+Kêu nghe đau đớn ra trò đấy chứ, tôi thầm nghĩ. Qua liên kết tâm trí, Edel lại nhắn sang: "Làm tốt lắm."
 
-Giờ mày biến thành cái gì rồi hả chuột con? Cấp trên của tao chắc?
+Giờ mày thành cái gì rồi hả chuột con? Cấp trên của tao chắc?
 
-Mà thôi, sao cũng được. Dù lúc này đã hoàn toàn bị tước vũ khí, con Orc Binh dường như vẫn quyết tâm chiến đấu tới cùng. Nó giơ nắm đấm lên, vào thế thủ. Con quái vật chẳng qua chỉ là một con lợn đứng bằng hai chân, thế nhưng nó lại có khí phách chiến đấu của một chiến binh thực thụ. Đó là điều mà tôi có thể tán thưởng.
+Thôi kệ đi. Dù đã tay không tấc sắt, con Orc Binh dường như vẫn quyết tử chiến đến cùng. Nó giơ nắm đấm, thủ thế. Quái vật dù sao cũng chỉ là một con lợn đứng bằng hai chân, thế mà lại có được dũng khí của một chiến binh thực thụ. Điểm này tôi cũng phải công nhận.
 
-Dẫu vậy... chính vì lý do đó mà tôi càng không thể nương tay với đối thủ. Không chút do dự, tôi lao về phía con Orc Binh, tung thêm một nhát đâm kiếm nữa. Con Orc, lúc này chẳng còn bất kỳ phương tiện phòng thủ nào, cố gắng dùng găng tay đỡ đòn. Đó là một nỗ lực trong tuyệt vọng, nhưng tiếc thay, sải tay của con quái vật không đủ dài. Cùng một tiếng rắc ghê rợn, lưỡi kiếm của tôi bổ trúng đầu nó, làm rạn nứt hộp sọ của con Orc Binh.
+Dẫu vậy... cũng chính vì thế mà tôi càng không thể nương tay. Không chút do dự, tôi lao tới con Orc Binh, tung thêm một nhát đâm nữa. Không còn cách nào phòng thủ, con Orc cố giơ găng sắt lên đỡ. Đó là một nỗ lực trong tuyệt vọng, tiếc thay sải tay của nó không đủ dài. Kèm theo một tiếng rắc rợn người, mũi kiếm của tôi đâm trúng đầu, làm nứt toác hộp sọ con Orc Binh.
 
-Có lẽ vài người sẽ bảo rằng óc của Orc rất ngon... nhưng vừa chiến đấu vừa phải để tâm tới chuyện đó thì quả là quá khó. Nếu tôi dồn thêm nhiều lực hơn vào nhát chém đó, tôi đã có thể kết liễu nó ngay tại trận, nhưng chuyến tìm kiếm của tôi ngày hôm nay vẫn còn lâu mới kết thúc. Ít nhất thì tôi cũng sẽ để nguyên vẹn phần đầu và não của một con Orc... Cứ đành phải bằng lòng với chừng đó vậy.
+Có lẽ vài người sẽ bảo óc Orc rất ngon... nhưng vừa đánh nhau vừa phải lo giữ món ăn thì khó quá. Nếu dồn thêm lực vào cú đâm ban nãy, tôi đã có thể kết liễu nó tại chỗ, nhưng chuyến thu thập hôm nay vẫn còn dài. Thôi thì ít nhất cũng giữ nguyên được đầu và óc của một con... Đành bằng lòng với chừng đó vậy.
 
-Dù sao đi nữa, quái vật vốn là những sinh vật dai sức. Con Orc Binh vẫn cựa quậy, bất chấp phần đầu đã bị nứt toác và lộ cả não ra ngoài. Bị tổn thương một phần não bộ, con Orc không còn đủ năng lực nhận thức để phối hợp một đòn tấn công nữa. Thay vào đó, nó chỉ quờ quạng loạn xạ tại chỗ, những chuyển động trở nên lộn xộn và mất kiểm soát.
+Dù gì thì quái vật cũng dai sức thật. Con Orc Binh vẫn cựa quậy, bất chấp đầu đã nứt toác và lộ cả não ra ngoài. Bị mất một phần não bộ, con Orc chẳng còn đủ tỉnh táo để ra đòn. Nó chỉ biết quờ quạng loạn xạ tại chỗ, động tác hỗn loạn và mất phương hướng.
 
-Tôi nên kết liễu nó thôi, tôi thầm nghĩ, đoạn giơ cao thanh kiếm chuẩn bị cho một nhát chém nữa.
+Tôi nên dứt điểm nó thôi, tôi thầm nghĩ rồi giương kiếm lên chuẩn bị bồi thêm nhát nữa.
 
-Đúng như dự đoán, chém đầu quái vật luôn là cách nhanh nhất để vô hiệu hóa nó hoàn toàn, thế nên tôi đã làm đúng như vậy.
+Đúng như dự đoán, chém đầu quái vật luôn là cách nhanh nhất để vô hiệu hóa nó triệt để, và tôi đã làm y như thế.
 
 Cuối cùng cũng xong.
 
-Trận chiến này dẫu sao vẫn khác hẳn so với việc hạ gục một con Orc thường, tuy rằng ngay cả tôi cũng không thể phủ nhận sự tiến bộ vượt bậc mà bản thân vừa thể hiện. Nghĩ đến chuyện có một ngày tôi có thể tiêu diệt lũ Orc Binh một cách dễ dàng đến thế... Tôi sẽ chẳng đời nào tin nổi, dẫu cho có ai đó bảo với tôi điều ấy vào thời còn sống.
+Đánh với chúng dĩ nhiên khác hẳn hạ một con Orc thường, nhưng đến tôi cũng không thể phủ nhận bản thân đã tiến bộ rõ rệt. Nghĩ tới cảnh có ngày mình hạ gục Orc Binh nhẹ nhàng đến thế... Hồi còn sống mà ai bảo chuyện này, có chết tôi cũng chẳng tin.
 
 Bất chợt...
 
 Bịch!
 
-Tôi quay về hướng phát ra âm thanh lớn ấy. Edel vừa kết thúc trận chiến với con Orc còn lại ở cách đó một đoạn ngắn, và âm thanh vừa phát ra chính là từ đòn dứt điểm. Cứ như thể lắng nghe ước muốn trước đó của tôi, Edel không hạ sát con Orc bằng cú húc xoay người, mà bằng ma pháp, chém lìa chiếc đầu khỏi cổ nó một cách gọn ghẽ. Tôi trân trân nhìn chiếc đầu lăn lông lốc rồi dừng lại khi thân xác khổng lồ của con quái vật đổ sụp xuống mặt đất. Con Orc Binh giờ đây đã chết hẳn.
+Tôi quay đầu về hướng phát ra tiếng động. Cách đó không xa, Edel cũng vừa thanh toán xong con Orc còn lại, âm thanh khi nãy chính là từ đòn dứt điểm. Như thể nghe thấu tâm nguyện trước đó của tôi, Edel không hạ đối thủ bằng cú tông xoay người mà dùng ma pháp, chém lìa đầu nó khỏi cổ một cách gọn ghẽ. Tôi trân trân nhìn cái đầu lăn lông lốc rồi dừng lại khi thân xác hộ pháp của con quái vật đổ ập xuống đất. Con Orc Binh thế là chết hẳn.
 
-Một con Puchi Suri tự thân hạ gục một con Orc Binh... Dù tôi có diễn đạt câu chuyện này thế nào đi nữa, chắc chắn sẽ chẳng có một ai chịu tin...
+Một con Puchi Suri tự sức mình hạ gục Orc Binh... Kể kiểu gì thì chắc cũng chẳng ai thèm tin...
 
-Những suy nghĩ ấy thoáng lướt qua tâm trí khi tôi đứng lặng, quan sát cảnh tượng tàn sát ngay trước mắt chúng tôi.
+Nghĩ bụng như thế, tôi đứng lặng quan sát bãi chiến trường trước mắt.
 
 ◆◇◆◇◆
 
-Và giờ là lúc mổ xẻ; lũ Orc Binh cần phải được phân tách xác một cách thích đáng. Xét thấy lũ Orc này vượt trội hơn hẳn so với những đồng loại Orc thông thường của chúng, hương vị thịt của chúng gần như chắc chắn cũng sẽ thượng hạng tương xứng.
+Giờ là lúc xẻ thịt; xác lũ Orc Binh cần được pha lóc cẩn thận. Đã vượt trội hơn hẳn đồng loại thông thường thì chất lượng thịt của chúng gần như chắc chắn cũng thơm ngon tương xứng.
 
-Thông thường, người ta chỉ bắt gặp Orc Binh ở những khu vực cuối của tầng hai, hoặc ở tầng ba của mê cung này. Vậy thì cớ sao tận ba con quái vật loại này lại xuất hiện ở chính nơi đây chứ...? Suy đi tính lại, tôi cho rằng chuyện đó cũng không phải là bất khả thi. Có lẽ chúng đã tiến hóa tương tự như tôi, nhờ thời gian và kinh nghiệm tích lũy. Chí ít thì đó là giả định hợp lý nhất.
+Bình thường người ta chỉ gặp Orc Binh ở tít cuối tầng hai hoặc trên tầng ba của mê cung này. Vậy cớ sao tận ba con lại mò ra chỗ này chứ...? Nghĩ kỹ thì chuyện đó cũng không phải là không thể. Có lẽ chúng đã tiến hóa nhờ tích lũy thời gian và kinh nghiệm như tôi. Chí ít đó là giả thuyết hợp lý nhất.
 
-Điều tương tự cũng có thể áp dụng cho trang bị và vũ khí của chúng. Có lẽ là lượm lặt từ những mạo hiểm giả đã bỏ mạng. Dù sao thì Orc cũng có một mức độ trí tuệ nhất định, nên chí ít chúng hoàn toàn có khả năng làm được việc đó.
+Trang bị và vũ khí của chúng chắc cũng vậy, có lẽ là nhặt nhạnh từ những mạo hiểm giả bỏ mạng. Dù sao Orc cũng có chút trí khôn, việc này nằm trong khả năng của chúng.
 
-Khi tôi tháo từng món trang bị kim loại khỏi xác lũ Orc, tôi nhanh chóng nhận ra vô số vết chỉ khâu chằng chịt trên cơ thể chúng. Thêm vào đó, dường như có vài lỗ thủng bị đục xuyên qua các phần trên cơ thể. Nếu lũ Orc này không phải do tiến hóa, thì vẫn có khả năng chúng đã di chuyển từ một tầng sâu hơn đi lên. Tuy nhiên xác suất của việc đó tương đối nhỏ. Quái vật mê cung vốn không hề có tiếng là hay rời khỏi tầng thuộc về chúng, huống chi là tự do di chuyển sang các tầng khác.
+Khi lột mớ giáp sắt khỏi xác lũ Orc, tôi nhanh chóng nhận ra trên mình chúng có vô số vết khâu chằng chịt, lại thêm vài lỗ thủng bị đục xuyên qua da thịt. Nếu lũ Orc này không phải do tiến hóa, thì vẫn có khả năng chúng mò từ tầng sâu hơn lên. Tuy nhiên xác suất đó khá nhỏ. Quái vật mê cung xưa nay chưa từng rời khỏi tầng của mình, huống hồ là tự do đi lại giữa các tầng.
 
-Dù vậy, khái niệm về việc thế nào là một "tầng" phần lớn lại là do con người tự định nghĩa. Vì thế, ranh giới phân chia giữa tầng này với tầng khác đôi khi có thể khá mơ hồ. Người ta cũng phải tính đến hành vi của lũ quái vật đang nói tới. Có lẽ là do ý thức lãnh thổ hoặc vì lý do khó giải thích nào đó, nhưng hầu hết quái vật mê cung đều bị giới hạn trong một phạm vi di chuyển nhất định—thứ mà con người định nghĩa là các "tầng". Chưa từng có tiền lệ nào được ghi nhận về việc quái vật lang thang ra ngoài phạm vi dường như đã được định sẵn này. Trên thực tế, có những trường hợp mà ranh giới phân chia giữa các tầng có thể nhìn thấy rõ bằng mắt thường. Quái vật cư xử cứ như thể chúng hoàn toàn không nhìn thấy sự phân chia đó, và hành động theo một khuôn mẫu tương tự.
+Có điều, khái niệm về các "tầng" chủ yếu là do con người tự đặt ra. Thành thử ranh giới phân chia giữa các tầng đôi khi khá mơ hồ. Đó là còn phải kể đến tập tính của lũ quái vật. Có lẽ do ý thức lãnh thổ hoặc vì lý do khó giải thích nào đó, hầu hết quái vật mê cung chỉ luẩn quẩn trong một phạm vi nhất định, chính là thứ con người gọi là các "tầng". Xưa nay chưa từng có ghi nhận nào về việc quái vật lang thang ra ngoài phạm vi tưởng như đã ấn định này. Thậm chí có nơi ranh giới phân tầng nhìn thấy được bằng mắt thường, nhưng lũ quái vật cứ làm như không thấy và vẫn chỉ quanh quẩn trong địa phận của mình.
 
-Đổi lại, Orc Binh trong Mê Cung Tân Nguyệt chủ yếu sinh sống ở tầng bốn và tầng năm, và chúng không hề có tiếng là sẽ rời khỏi những khu vực này. Dĩ nhiên vẫn có những ngoại lệ, nơi mà trong những trường hợp hiếm hoi, một con quái vật có thể vượt qua ranh giới này, hoặc bằng cách nào đó băng qua giữa các tầng, để rồi cuối cùng lưu lạc đến một tầng khác biệt rõ rệt so với môi trường sống thông thường của nó. Lũ Orc mà chúng tôi vừa chạm trán rất có thể đã làm điều tương tự. Dẫu chuyện đó thực ra cũng chẳng đi tới đâu...
+Còn Orc Binh ở Mê Cung Tân Nguyệt thì chủ yếu sinh sống ở tầng bốn và tầng năm, xưa nay chẳng mấy khi rời khỏi đó. Dĩ nhiên vẫn có ngoại lệ hiếm hoi, khi một con quái vật vượt qua ranh giới hoặc bằng cách nào đó đi lạc sang tầng khác, cách xa môi trường sống quen thuộc của nó. Đám Orc chúng tôi vừa đụng độ rất có thể rơi vào trường hợp này. Mà thôi, nghĩ ngợi chuyện đó giờ cũng chẳng đi tới đâu...
 
-Trong một số trường hợp, một hiện tượng được biết đến với tên gọi "lũ tràn" hay "quái triều" có thể xảy ra, khiến quái vật từ bên trong mê cung tràn ra ngoài ranh giới của nó. Dù vậy, trừ phi có biến cố như thế xảy ra, việc quái vật rời khỏi tầng của mình là điều cực kỳ dị thường. Việc bắt gặp quái vật từ các tầng sâu hơn như thế này thường được coi là điềm báo, dấu hiệu chỉ điểm cho một đợt lũ tràn hoặc quái triều sắp tới. Tôi cho rằng điều đó hẳn có phần đúng đắn, nên tôi tự nhắc mình sẽ báo lại những gì đã thấy cho Hội Mạo Hiểm Giả khi trở về. Dĩ nhiên đó không phải việc bắt buộc phải làm, nhưng chí ít tôi cũng nên trao đổi một tiếng với Sheila.
+Đôi khi cũng có hiện tượng gọi là "Lũ Tràn" hay "quái triều" xảy ra, khiến quái vật trong mê cung tràn cả ra ngoài. Trừ phi có biến cố như thế, việc quái vật rời khỏi tầng của mình là điều hết sức bất thường. Bắt gặp quái vật tầng sâu ở nơi thế này thường được xem là điềm báo cho một đợt Lũ Tràn sắp tới. Tôi thấy chuyện này không thể xem nhẹ, nên tự dặn lòng lúc về phải báo cho Hội Mạo Hiểm Giả. Không bắt buộc, nhưng ít ra tôi cũng nên đánh tiếng một câu với Sheila.
 
-Chí ít thì lúc này tình hình hoàn toàn chưa đến mức cấp bách. Nếu một đợt lũ tràn thực sự sắp giáng xuống, các dấu hiệu sẽ rõ ràng hơn nhiều. Những đợt lũ tràn được cho là xảy ra khoảng một hoặc hai thập kỷ một lần, và lần gần nhất xảy ra biến cố đó, ngay cả tôi cũng bị điều động tham gia phòng thủ Maalt. Tôi không thực sự biết nhiều hơn thế, vì thời điểm đó tôi không ở gần khu vực rìa của bất kỳ mê cung nào.
+Trước mắt thì tình hình chưa đến mức ngàn cân treo sợi tóc. Nếu Lũ Tràn thực sự sắp tới, dấu hiệu sẽ rõ ràng hơn nhiều. Nghe nói Lũ Tràn cứ một hai thập kỷ mới có một lần. Lần trước xảy ra, đến tôi cũng bị điều động đi giữ thành Maalt. Tôi cũng không nắm rõ chi tiết vì khi ấy không ở gần rìa mê cung nào.
 
-Tuy nhiên, theo những lời đồn tôi nghe ngóng được, quái vật từ các tầng tương đối sâu đã bị phát hiện lảng vảng ở ngay tầng một. Đợt lũ tràn thực tế đã nổ ra khoảng hai ngày sau lần phát hiện đó. Do vậy, ngay cả khi những gì tôi vừa chứng kiến là dấu hiệu của một đợt lũ sắp tới, sự kiện nói trên cũng sẽ không xảy ra trong vòng ít nhất một tuần, hoặc thậm chí là cả tháng. Thời gian là thứ xa xỉ mà chúng tôi vẫn còn có. Nếu một biến cố như thế lại tái diễn, tất cả những gì tôi cần làm là cùng mọi người tham gia phòng thủ Maalt, điều đó hẳn là đủ để ngăn thị trấn không phải chịu thiệt hại nặng nề. Đó chính là cách mà Maalt đã sống sót qua mọi biến cố trong quá khứ.
+Có điều, theo tin đồn tôi nghe được thì hồi đó quái vật tầng sâu tràn lên tận tầng một. Tầm hai ngày sau là Lũ Tràn ập tới. Do vậy, dẫu những gì tôi vừa thấy đúng là điềm báo, thì ít nhất cũng phải một tuần hoặc cả tháng nữa thảm họa mới xảy ra. Thời gian vẫn còn dư dả. Nếu chuyện đó tái diễn, tôi chỉ cần cùng mọi người tham gia bảo vệ Maalt, chừng đó là đủ để thị trấn tránh khỏi thiệt hại nặng nề. Xưa nay Maalt vẫn luôn vượt qua mọi biến cố như thế.
 
-Dù sao đi nữa, lúc này có một việc khác mà tôi nên làm—cụ thể là, việc thu thập nguyên liệu.
+Dù sao đi nữa, lúc này tôi còn việc khác phải làm: thu thập nguyên liệu.
 
 Vũ khí và trang bị cho Alize...
 
-Tôi nhớ lại danh sách của Lorraine. Những nguyên liệu mà cô ấy yêu cầu là Ma Tinh từ quái vật sinh sống ở tầng ba hoặc các tầng sâu hơn, cùng nguyên liệu gỗ từ một con Ent Jyulapus. Dù có rất nhiều loại vật dẫn ma pháp, nhưng loại nổi tiếng nhất trong số đó chắc chắn là đũa phép. Nó cũng tốn ít thời gian chế tạo hơn, quá đủ cho những người mới bắt đầu bước chân vào bộ môn này.
+Tôi nhớ lại danh sách Lorraine đưa. Món cô ấy dặn lấy là Ma Tinh từ quái vật tầng ba trở xuống, cùng gỗ của Ent Jyulapus. Vật dẫn ma pháp có nhiều loại, nhưng phổ biến nhất chắc chắn là đũa phép. Thời gian chế tạo lại nhanh, quá thích hợp cho người mới chập chững bước chân vào môn này.
 
-Về lâu về dài, Alize có thể sẽ cần đến những vật dẫn ma pháp dạng đeo, chẳng hạn như nhẫn hoặc vòng tay, nhưng chế tạo những món đồ như thế sẽ đòi hỏi một khoản tiền kha khá. Do tính chất phức tạp của việc chế tác vật dẫn ma pháp dạng đeo, Lorraine đã quyết định chọn đũa phép, thứ vốn đã đủ cho mục đích hiện tại của chúng tôi, hoặc chí ít là cô ấy đã bảo với tôi như thế.
+Về lâu dài, có thể Alize sẽ cần đến vật dẫn dạng đeo như nhẫn hay vòng tay, nhưng làm mấy món đó tốn bạc lắm. Vì chế tác đồ đeo rất cầu kỳ nên Lorraine mới chọn đũa phép, cô bảo cho nhu cầu hiện tại thế là đủ rồi.
 
-Dù chúng tôi đã nhận Alize làm đệ tử, nhưng chẳng có gì bảo đảm rằng cô bé sẽ trở thành mạo hiểm giả. Vì lẽ đó, tốt nhất là không nên đè nặng lên cô bé những món nợ không cần thiết. Miễn sao tôi mang về được vài viên Ma Tinh từ tầng ba trở xuống và nguyên liệu từ Ent Jyulapus, Alize rất có thể sẽ tự mình chế tạo được vật dẫn ma pháp cần thiết.
+Dù đã nhận Alize làm đệ tử, nhưng đâu có gì bảo đảm cô bé sẽ đi theo con đường mạo hiểm giả. Thế nên tốt nhất là đừng bắt con bé gánh nợ nần không đâu. Chỉ cần tôi kiếm được Ma Tinh từ tầng ba trở xuống cùng gỗ Ent Jyulapus, Alize hoàn toàn có thể tự tay làm ra vật dẫn cần dùng.
 
-Mối bận tâm lớn nhất trong toàn bộ chuyện này là liệu tôi có thể hạ gục một con Ent Jyulapus hay không... Tôi chưa từng thực sự một mình đối đầu với loài quái vật này. Tôi đã đọc đủ tài liệu ở chỗ Lorraine, bên cạnh việc được cô ấy giải đáp mọi thắc mắc về năng lực của con quái vật, nhưng chẳng mất bao lâu để tôi nhận ra rằng nó tuyệt đối không phải là một đối thủ dễ xơi. Trong khi việc đối phó với những con quái vật khỏe nhưng đơn giản như Orc tương đối dễ dàng, thì Ent Jyulapus lại là một dạng mộc nguyên tố, thế nên không dễ để vạch ra một chiến thuật đối phó với chúng. Tôi sở hữu thân xác và thể chất của Undead, đáng lý sẽ không phải chịu quá nhiều tác động tiêu cực; dẫu vậy, tôi không thể lường hết được độ khó của cuộc chạm trán cho tới khi thực sự tự mình giao chiến với nó.
+Vấn đề đau đầu nhất là liệu tôi có hạ nổi một con Ent Jyulapus hay không... Tôi chưa từng một thân một mình đọ sức với loài này bao giờ. Dù đã đọc kỹ tài liệu ở chỗ Lorraine và được cô ấy giải thích cặn kẽ về năng lực của nó, tôi vẫn sớm nhận ra con quái vật này chẳng dễ xơi chút nào. Đối phó với lũ quái vật khỏe nhưng đơn giản như Orc thì còn dễ tính, chứ Ent Jyulapus lại thuộc dạng mộc nguyên tố, muốn vạch chiến thuật trị chúng không phải chuyện đùa. Thân xác Undead của tôi chắc không bị ảnh hưởng nhiều, nhưng khó khăn ra sao thì chỉ có đánh thử mới biết.
 
-Tôi tiếp tục nghiền ngẫm về vấn đề đó trong khi đôi tay vẫn thoăn thoắt làm việc, xẻ từng cái xác một. Trước khi kịp nhận ra, tôi đã hoàn tất công việc. Ma Tinh đã được thu hoạch, và những tảng thịt Orc pha lóc gọn gàng để tự dùng cũng như để bán đã được đánh dấu rõ ràng, bọc cẩn thận rồi xếp vào trong túi ma thuật của tôi. Nếu lúc này tôi nhét quá đầy túi, tôi sẽ chẳng còn chỗ trống cho nguyên liệu Ent Jyulapus về sau, huống chi là những nguyên liệu khác tôi có thể kiếm được trên đường đi... Thế nên tôi dừng lại sau khi đã thu gom xong những nguyên liệu cuối cùng mà mình thực sự cần.
+Vừa suy tính, tay tôi vừa thoăn thoắt mổ xẻ từng cái xác. Chẳng mấy chốc việc đã xong xuôi. Ma Tinh đã thu hoạch xong, thịt Orc pha lóc gọn gàng để ăn hay đem bán cũng được phân loại, gói ghém cẩn thận rồi cất vào túi ma thuật. Nhồi quá đầy thì lát nữa lấy đâu ra chỗ chứa nguyên liệu Ent Jyulapus, chưa kể những thứ khác nhặt được dọc đường... Nghĩ vậy, tôi chỉ thu gom những thứ thực sự cần rồi dừng tay.
 
-"Chúng ta đi tiếp thôi, Edel," tôi nói, rồi lại một lần nữa cất bước tiến sâu vào mê cung.
+"Đi tiếp thôi, Edel," tôi nói, rồi lại cất bước tiến sâu vào mê cung.
 
-Tiếp theo là tầng ba. Luôn giữ cảnh giác cao độ khi tiếp tục dấn bước là ý nghĩ duy nhất hiện diện trong tâm trí tôi khi sải bước về phía trước.
+Trước mắt là tầng ba. Trong đầu tôi chỉ tâm niệm một điều: tiếp tục dấn bước nhưng phải cẩn trọng tối đa.
 
 ◆◇◆◇◆
 
-"...Có lẽ còn rắc rối hơn cả màn đêm buông xuống ở tầng hai..." Tôi thốt lên khi bước chân vào tầng ba.
+"...Có lẽ còn phiền phức hơn cả màn đêm buông xuống ở tầng hai..." tôi thốt lên khi bước chân vào tầng ba.
 
-Trải dài trước mắt tôi là thứ dường như là một biển cây vô tận. Ngước nhìn lên, chúng tôi có thể nhận ra có một nguồn sáng từ phía trên, với những vệt sáng le lói len lỏi xuyên qua những tán lá xanh rì. Nơi đây tuyệt nhiên chẳng hề sáng sủa, khi con đường mà tôi cùng Edel đang tiến bước chỉ có độ sáng tương đương với một ngọn đuốc nhỏ mang lại. Chưa kể xung quanh chúng tôi hoàn toàn tối đen như mực. Những cây đại thụ quanh chúng tôi mọc cao vút, rốt cuộc đã chắn gần như toàn bộ ánh sáng từ phía trên rọi xuống. Dù vậy, điều này hầu như chẳng phải là vấn đề đối với tôi và Edel, bởi cả hai chúng tôi đều sở hữu đôi mắt thích hợp hơn cho việc nhìn trong bóng tối.
+Trải dài trước mắt tôi là một biển cây ngút ngàn dường như bất tận. Ngước lên, chúng tôi thấy ánh sáng lọt qua kẽ lá từ phía trên, nhưng le lói chẳng đáng là bao. Con đường tôi và Edel đi chỉ sáng cỡ một ngọn đuốc nhỏ, xung quanh thì tối đen như mực. Đại thụ quanh đây mọc cao vút, che gần hết ánh sáng rọi xuống. Dù vậy, chuyện này chẳng làm khó được tôi và Edel, vì mắt của cả hai chúng tôi đều nhìn rất tốt trong bóng tối.
 
-Vấn đề lại nằm ở một thứ hoàn toàn khác: cành nhánh của những cây khổng lồ này mọc vươn dài và đan xen chằng chịt về đủ mọi hướng, che khuất tầm nhìn của chúng tôi. Bất kể việc chúng tôi có nhìn tốt trong đêm hay không, việc có những vật thể hữu hình chắn ngang tầm mắt lại là một câu chuyện hoàn toàn khác. Dù đôi mắt chúng tôi cũng có khả năng nhận biết sinh vật sống thông qua thân nhiệt, nhưng năng lực đó dường như cũng rất không phù hợp trong hoàn cảnh này, thành thử đơn giản là chẳng có đất dụng võ.
+Cái khó lại nằm ở chỗ khác: cành của những cây cổ thụ này đâm ngang vắt dọc khắp bốn phương tám hướng, chắn hết tầm nhìn. Nhìn đêm giỏi đến đâu mà có chướng ngại vật sờ sờ chắn mắt thì cũng chịu. Mắt chúng tôi tuy cảm nhận được thân nhiệt của sinh vật sống, nhưng trong hoàn cảnh này cũng chẳng ăn thua, hoàn toàn không có đất dụng võ.
 
 "Khẹc khẹc!!"
 
-Một tiếng kêu vang lên phía sau chúng tôi. Theo phản xạ, tôi tuốt kiếm. Một thứ gì đó vừa đáp xuống nền rừng ngay tại nơi mà chúng tôi vừa đứng chốc lát trước.
+Một tiếng kêu ré lên sau lưng. Theo phản xạ, tôi rút kiếm. Có thứ gì đó vừa đáp xuống mặt đất ngay chỗ chúng tôi đứng cách đó một tích tắc.
 
-Đó là... thứ trông như một con khỉ.
+Đó là... một con vật trông như khỉ.
 
-Đó là một con quái vật mảnh khảnh, vóc dáng không quá to lớn, thường được biết đến với cái tên Kesem Kofu. Rất nhiều cá thể loài này sinh sống ở riêng tầng này. Số lượng cá thể của chúng vô cùng đông đảo, chẳng khác nào Slime và Goblin ở tầng một.
+Đó là một con quái vật gầy nhom, vóc người không lớn lắm, thường gọi là Kesem Kofu. Rất nhiều cá thể loài này sinh sống ở riêng tầng này. Chúng đông đúc chẳng khác nào Slime và Goblin ở tầng một.
 
-Thế nhưng người ta không thể thực sự xem loài quái vật này là yếu ớt. Đây là tầng ba, nên quái vật ở đây tinh ranh và xảo quyệt hơn hẳn. Người ta không còn có thể giành phần thắng chỉ đơn thuần bằng cách tuốt kiếm rồi hùng hổ lao thẳng vào giao chiến nữa.
+Nhưng chớ coi thường lũ này yếu. Đã lên tới tầng ba thì quái vật đều ranh mãnh hơn nhiều. Không còn chuyện cứ tuốt kiếm hùng hổ xông bừa vào là thắng được nữa.
 
 "...Hừ!"
 
-Ngay khi tuốt kiếm và xoay người đối mặt với con Kesem Kofu trước mắt, tôi cảm nhận được một luồng khí tức phía sau lưng, và tôi lập tức cúi rạp đầu xuống. Một làn gió khẽ lay động báo động cho tôi biết rằng có thứ gì đó vừa sượt qua trên đầu mình. Xoay người lại, tôi nhìn thấy một con quái thú khác đang đu người dốc ngược từ một sợi dây leo, vuốt sắc đã sẵn sàng. Chỉ chốc lát trước, nó đã toan vồ thẳng vào đầu tôi. Thất bại một lần, con quái vật dường như hiểu được rằng một đòn tấn công thứ hai sẽ mất đi yếu tố bất ngờ. Con Kesem Kofu thoăn thoắt leo ngược lên sợi dây leo mà nó vừa tụt xuống, và chẳng mấy chốc đã lẩn mất hút vào vòm lá rậm rạp.
+Ngay khi tuốt kiếm và xoay người đối mặt với con Kesem Kofu trước mắt, tôi cảm nhận được một luồng khí tức sau lưng liền lập tức thụp đầu xuống. Luồng gió khẽ động cho thấy có thứ vừa lướt qua đỉnh đầu. Xoay người lại, tôi nhìn thấy một con quái thú khác đang treo ngược người trên dây leo, vuốt nhọn giương sẵn. Vừa rồi nó đã toan vồ trúng đầu tôi. Thất bại một lần, con quái vật dường như hiểu rằng đòn tấn công thứ hai sẽ mất đi yếu tố bất ngờ. Con Kesem Kofu thoăn thoắt trèo ngược lên sợi dây leo nó vừa đu xuống, rồi lẩn mất tăm vào tán cây rậm rạp.
 
-Tập trung tinh thần, tôi nhanh chóng nhận ra sự hiện diện của rất nhiều sinh thể xung quanh chúng tôi. Có vẻ như loài Kesem Kofu không tấn công đơn độc—chừng đó thì chúng tôi hiểu rất rõ.
+Tập trung cảm nhận, tôi lập tức nhận ra khí tức của vô số cá thể quanh đây. Có vẻ lũ Kesem Kofu không bao giờ tấn công đơn độc, điều đó thì chúng tôi hiểu quá rõ.
 
-"Cẩn thận đấy, Edel," tôi nói, chỉ để nhận lại một lời nhắn nhủ tương tự trong tâm trí từ chú chuột quyến thuộc của mình.
+"Cẩn thận đấy, Edel," tôi dặn, và nhận lại lời nhắc y hệt qua tâm trí từ con chuột quyến thuộc.
 
-Xét thấy Edel là một con chuột, và có lẽ trong mắt lũ khỉ ở tầng này nó chẳng khác nào một món ăn vặt, tôi thấy câu trả lời của nó đủ để khiến mình yên tâm phần nào.
+Nghĩ tới chuyện Edel là chuột, trong mắt lũ khỉ tầng này chắc chỉ là món ăn vặt, thấy nó trả lời thế tôi cũng yên tâm phần nào.
