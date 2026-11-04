@@ -20,7 +20,7 @@ Nói cho cùng, những điều Lorraine vừa bảo quả thật rất có lý.
 
 "...Vậy có khi... chuyện tôi ăn... thịt và máu của cô... mới là lý do."
 
-"Chính xác. Nghĩ kỹ thì tôi cũng đi tới kết luận đó, vì phương trình này làm gì còn biến số nào khác nữa. Dù không rõ tường tận từng chi tiết của quá trình ấy, tôi vẫn có thể khẳng định chắc chắn rằng vài trường hợp Tiến Hóa Bản Thể chỉ được kích hoạt khi có điều kiện cụ thể. Thực tế trong trường hợp này cho thấy anh không thể tiến hóa nếu chỉ đơn thuần hạ quái vật, và từ trước tới giờ đúng là như vậy."
+"Chính xác. Nghĩ kỹ thì tôi cũng đi tới kết luận đó, vì xét đi xét lại làm gì còn nhân tố nào khác nữa. Dù không rõ tường tận từng chi tiết của quá trình ấy, tôi vẫn có thể khẳng định chắc chắn rằng vài trường hợp Tiến Hóa Bản Thể chỉ được kích hoạt khi có điều kiện cụ thể. Thực tế trong trường hợp này cho thấy anh không thể tiến hóa nếu chỉ đơn thuần hạ quái vật, và từ trước tới giờ đúng là như vậy."
 
 Hóa ra đây là lý do tôi không thể tiến hóa thành Ma Cà Rồng, chí ít là không thể chỉ bằng việc hạ quái vật. Có điều, nghĩ đến chuyện mình tiến hóa là nhờ ăn thịt và uống máu của Lorraine thì...
 
@@ -92,7 +92,7 @@ Thấy tôi đã dần bình thường trở lại, Lorraine quyết định ti�
 
 Dù nói thế, tôi không hề xem mọi thí nghiệm của Lorraine đều là vô bổ. Thật ra, kết quả từ vài thí nghiệm đã giải tỏa được nhiều thắc mắc bấy lâu về bản thân, và tôi rất cảm kích vì điều đó.
 
-Mấy điểm chính rút ra sau loạt thí nghiệm gồm có: tôi hóa ra vẫn ăn được thức ăn bình thường, và vì lý do nào đó thuốc hồi phục vẫn có tác dụng lên một Undead như tôi. Ngoài ra, một vài hạng mục kiểm tra lại hoàn toàn vô tác dụng trước cấu tạo cơ thể đặc thù của tôi. Dẫu vậy, thu hoạch lớn nhất từ các thí nghiệm của Lorraine là chuyện tôi có thể ăn đồ bình thường, chứ không bị trói buộc vào mỗi máu thịt con người.
+Mấy điểm chính rút ra sau loạt thí nghiệm gồm có: tôi hóa ra vẫn ăn được thức ăn bình thường, và vì lý do nào đó thuốc hồi phục vẫn có tác dụng lên một Undead như tôi. Ngoài ra, một vài phép thử khác lại hoàn toàn vô tác dụng do cấu tạo cơ thể đặc thù của tôi. Dẫu vậy, thu hoạch lớn nhất từ các thí nghiệm của Lorraine là chuyện tôi có thể ăn đồ bình thường, chứ không bị trói buộc vào mỗi máu thịt con người.
 
 Có điều nói thật lòng, cơn thèm khát những thứ ấy vẫn đeo bám tôi ngay cả khi đã tiến hóa thành Thi Quỷ. Xem ra thèm thịt rốt cuộc chỉ là thôi thúc của Ngạ Quỷ. Giờ đây cơn khát máu trong tôi còn mãnh liệt hơn nhiều, chưa bao giờ tôi thèm nó đến thế. Nói chính xác hơn, tôi dường như ngửi thấy cả mùi máu đang chảy trong mạch máu của những người xung quanh. Chỉ cần ngửi mùi thôi, tôi đã nhận biết được đại khái phương hướng, độ tuổi, giới tính và tình trạng sức khỏe của những người quanh mình.
 
@@ -114,7 +114,7 @@ Dù vậy, sự sắp xếp này vẫn nảy sinh một vấn đề khác: việ
 
 Nói đi cũng phải nói lại, chuyện đi tính toán uống máu của người khác, chưa kể lại còn phải dè sẻn từng giọt, quả thực kỳ quặc không để đâu cho hết. Chí ít thì đó chẳng phải điều một con người bình thường sẽ làm, và nghĩ đến chuyện hành vi ấy sẽ ảnh hưởng thế nào tới chút nhân tính vốn đã mỏng manh của mình mà tôi nhức cả đầu. Có lẽ điều quan trọng là phải giữ cho chút nhân tính đang dần phai nhạt không bị xói mòn thêm nữa; ít ra thì việc ăn cơm bình thường cũng giúp ích được phần nào ở khoản này.
 
-Các thí nghiệm của Lorraine còn thăm dò cả khả năng kháng độc của tôi, khi cô liên tục đưa vào người tôi những loại độc dược ngày một mạnh hơn. Thú vị thay, tôi dường như chẳng hề hấn gì trước bất kỳ thứ thuốc nào cô pha chế. Hai đứa cứ thế làm bừa, chỉ cậy vào mấy phép giải độc của Lorraine phòng khi có sự cố xảy ra. Cùng lắm, tôi vẫn có thể dùng Thần Lực làm giải pháp cuối cùng để triệt tiêu mọi tác hại. Nhưng thật may, chúng tôi đã hoàn tất các thí nghiệm êm xuôi mà không cần phải viện tới phương án nào trong hai cách đó.
+Các thí nghiệm của Lorraine còn thăm dò cả khả năng kháng độc của tôi, khi cô liên tục đưa vào người tôi những loại độc dược ngày một mạnh hơn. Thú vị thay, tôi dường như chẳng hề hấn gì trước bất kỳ thứ thuốc nào cô pha chế. Chúng tôi cứ thế thử đại, chỉ trông cậy vào việc Lorraine biết phép giải độc phòng khi có bất trắc. Cùng lắm, tôi vẫn có thể dùng Thần Lực làm giải pháp cuối cùng để triệt tiêu mọi tác hại. Nhưng thật may, chúng tôi đã hoàn tất các thí nghiệm êm xuôi mà không cần phải viện tới phương án nào trong hai cách đó.
 
 Sau vụ ấy, Lorraine kết luận có lẽ tôi miễn nhiễm với hầu hết các loại chất độc.
 
@@ -132,7 +132,7 @@ Nếu có thể, tôi vẫn muốn được trở lại làm người. Nếu Ti�
 
 Tôi chẳng nắm được câu trả lời mình đang tìm kiếm, mà phía Lorraine cũng không thể cho tôi một đáp án chắc chắn.
 
-"Tôi thì chịu không biết chắc được, nhưng dĩ nhiên là không thể biết chắc rồi. Dù vậy, tôi không gạt bỏ khả năng đó đâu. Sao trước mắt anh không lấy luôn điều ấy làm mục tiêu trong đầu đi?"
+"Làm sao tôi biết chắc được, mà chuyện đó dĩ nhiên có ai dám chắc đâu. Dù vậy, tôi cũng không gạt bỏ khả năng ấy. Sao trước mắt anh không lấy luôn đó làm mục tiêu trong đầu đi?"
 
 Quả là một câu trả lời chí lý, đúng phong cách Lorraine. Tôi nghĩ mình cứ nghe theo lời cô mà làm vậy.
 

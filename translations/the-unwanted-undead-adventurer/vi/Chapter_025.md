@@ -52,7 +52,7 @@ Về cơ bản, nếu "Rentt Faina" xuất hiện trong bộ dạng thế này, 
 
 Nói thẳng ra thì đúng là vẻ ngoài của tôi kỳ lạ chẳng ai chối được. Nhưng sự kỳ lạ ấy vốn là chuyện thường tình ở giới mạo hiểm giả nói chung. Dù một mạo hiểm giả trùm áo choàng đeo mặt nạ có bị xem là lập dị, hầu hết mọi người cũng chỉ nhìn chằm chằm thêm vài giây rồi lại quay về với việc riêng của mình.
 
-Vừa nghĩ miên man, tôi vừa lật giở từng trang giấy đăng ký, cuối cùng cũng tới trang chót. Trang cuối cùng, nhưng cũng chính là trang đầu tiên: một sự khởi đầu mới, có thể nói là vậy.
+Vừa nghĩ miên man, tôi vừa lật giở từng trang giấy đăng ký, cuối cùng cũng tới trang cuối. Là trang cuối, nhưng cũng chính là trang đầu tiên cho một khởi đầu mới.
 
 Trang cuối cùng là chỗ để điền tên họ. Tên thì tôi vẫn có thể dùng tên cũ, nhưng họ thì nên lấy họ gì đây?
 
@@ -104,7 +104,7 @@ Với tôi thì sao cũng được, nhưng Lorraine dù gì cũng là một ph�
 
 Cũng đáng nói thêm là "Rentt" vốn là tên của một vị Thánh Giả từ thời xa xưa, nên khắp các vùng đất chẳng hề hiếm người mang tên này. Ở xứ sở nào cũng có không ít cư dân trùng tên kể cả với những cái tên hiếm, nên chuyện một Rentt khác xuất hiện ở Maalt hoàn toàn chẳng có gì đáng để xôn xao.
 
-"Vâng, đúng vậy... Những khi ở trong thị trấn... tôi sẽ sống ở nhà cô ấy."
+"Vâng, đúng vậy... Những khi ở trong thị trấn... tôi sẽ sống ở nhà con bé."
 
 "Tôi hiểu rồi. Dạo gần đây tôi cũng nghe đồn có người kỳ lạ ra vào nhà của Lorraine... Dù rằng bản thân Lorraine vốn cũng chẳng bình thường cho lắm."
 
@@ -142,7 +142,7 @@ Tôi chẳng trách cô được; hiếm có mạo hiểm giả mới vào ngh�
 
 Còn tôi thì đã thuộc làu nội dung cuốn sổ từ lâu rồi, sau bao lần đọc đi đọc lại trong suốt sự nghiệp dài đằng đẵng của mình.
 
-Chỉ tay vào cuốn sổ trước mặt Sheila, tôi chỉ muốn ngầm báo rằng mình sẽ dùng lại chính cách thức quen thuộc bấy lâu để tự giải đáp bất kỳ thắc mắc nào về nghề mạo hiểm giả.
+Chỉ tay vào cuốn sổ trước mặt Sheila, tôi chỉ muốn ra ý rằng nếu có thắc mắc gì về chuyện hành nghề, tôi cứ tra cứu theo đúng cách thức hiệu quả từ xưa đến nay ấy là được.
 
 "Tôi nghe nói về nó... từ Lorraine. Cả những điều cơ bản... về nghề mạo hiểm giả nữa."
 

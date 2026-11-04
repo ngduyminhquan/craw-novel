@@ -44,7 +44,7 @@ Dọc theo bức tường kê vài chiếc kệ, thậm chí có cả bàn và g
 
 Có điều, thứ thu hút sự chú ý của tôi lại là chiếc giường ở cuối phòng, hay chính xác hơn là thứ đang nằm ngủ trên đó. Ai đó đã ngủ đêm cuối cùng của đời mình tại nơi này từ rất nhiều năm về trước, và cho đến tận bây giờ vẫn đang nối dài giấc ngủ vĩnh hằng.
 
-Một bộ xương trắng nằm ngay ngắn, có phần thanh thản trên giường. Hai hốc mắt sâu hoắm trên hộp sọ tối om không chút ánh sáng; phần còn sót lại của đôi mắt nhìn thẳng lên trần nhà, đôi bàn tay xương xẩu đan vào nhau đặt trên ngực. Thoạt nhìn, người này dường như đã ra đi rất yên bình trong giấc ngủ.
+Một bộ xương trắng nằm ngay ngắn, có phần thanh thản trên giường. Hai hốc mắt sâu hoắm trên hộp sọ tối om không chút ánh sáng, cứ thế hướng thẳng lên trần nhà, còn đôi bàn tay xương xẩu thì đan vào nhau đặt trên ngực. Thoạt nhìn, người này dường như đã ra đi rất yên bình trong giấc ngủ.
 
 Một bó hoa khô đặt cạnh gối của người ấy. Tôi đưa tay định chạm vào, nhưng đón chờ tôi lại là cảnh bó hoa ấy hóa thành tro bụi ngay trước mắt.
 
@@ -80,7 +80,7 @@ Người phụ nữ lại cất lời với tôi:
 
 Đó là một giọng nói điềm tĩnh, dịu dàng và êm tai, gần như giọng một người lớn đang gặng hỏi đứa trẻ vì một lỗi nhỏ nào đó.
 
-Còn tôi thì nín thở. Trong một thoáng, tôi bị bủa vây bởi cảm giác hồi hộp và căng thẳng tột độ...
+Còn tôi thì nín thở. Trong một thoáng, cảm giác căng thẳng và bất an tột độ bóp nghẹt lấy tôi...
 
 Nếu phải nói ngắn gọn thì: người phụ nữ này cực kỳ nguy hiểm.
 
@@ -140,9 +140,9 @@ Người phụ nữ chắc chắn biết tôi sẽ đồng ý; dù sao thì cô 
 
 "Ừ, ta nghĩ thế là tốt nhất. Nói chính xác hơn, nếu không có mặt ngươi thì sẽ chẳng có cách nào bước vào căn phòng này đâu. Ngươi tới đây qua ma pháp trận kia, đúng không? Ma pháp trận đó chỉ kích hoạt khi ngươi bước vào mà thôi."
 
-Đó là những gì người phụ nữ nói, bên cạnh nhiều điều khác mà cô ta nói tiếp sau đó nhưng tôi chẳng có cách nào hiểu nổi. Khoảng cách sức mạnh giữa chúng tôi lớn đến nhường ấy; ngay cả Lorraine, một ma pháp sư Ngân Cấp, cũng không thể sánh được với thực lực của cô ta. Nếu tôi đưa ra câu trả lời khiến cô ta phật ý, cái chết chắc chắn sẽ là câu trả lời cô ta dành cho tôi, chừng ấy thì tôi nhìn ra được.
+Đó là những gì người phụ nữ nói, cùng bao điều khác nữa mà tôi chẳng tài nào hiểu nổi. Chênh lệch thực lực giữa chúng tôi lớn cỡ đó đấy; ngay cả một ma pháp sư Ngân Cấp như Lorraine cũng chẳng thể sánh được với cô ta. Chỉ cần tôi trả lời không vừa ý, chắc chắn cô ta sẽ đáp trả bằng cái chết; chừng ấy thì tôi nhìn ra được.
 
-Tuy nhiên, thăng hạng mạo hiểm giả cũng là ước mơ của tôi. Ban đầu, tôi định nhờ Loris đứng ra báo cáo khu vực chưa khai phá, rồi qua đó hoàn lại số vàng tôi đã cho ông ấy mượn thông qua viên Ma Tinh của Khô Lâu Khổng Lồ. Giờ đây, với diện mạo đã phần nào giống người, tôi từng nghĩ mình có thể báo tin này cho Hội vào lúc vắng người. Việc đó chắc chắn sẽ giúp tôi tăng hạng và tiếng nói trong Hội, đưa tôi tiến gần hơn một bước tới mục tiêu trở thành mạo hiểm giả Mithril Cấp.
+Tuy nhiên, thăng hạng mạo hiểm giả cũng là ước mơ của tôi. Ban đầu, tôi định nhờ Loris đứng ra báo cáo khu vực chưa khai phá này, tiện thể bù lại khoản tiền vàng tôi đã đưa ông ấy mượn dưới dạng viên Ma Tinh của Khô Lâu Khổng Lồ. Giờ đây, với diện mạo đã phần nào giống người, tôi từng nghĩ mình có thể báo tin này cho Hội vào lúc vắng người. Việc đó chắc chắn sẽ giúp tôi tăng hạng và tiếng nói trong Hội, đưa tôi tiến gần hơn một bước tới mục tiêu trở thành mạo hiểm giả Mithril Cấp.
 
 Ít nhất thì đó là những gì tôi đã nghĩ. Thế nhưng người phụ nữ này lại không muốn tôi làm bất cứ chuyện gì như thế...
 

@@ -167,7 +167,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Idoles Rogue
 - Giới tính, tuổi/vẻ ngoài: Nam, hiệp sĩ trẻ tóc vàng mắt xanh lam như ngọc bích, mặc giáp trắng bạc sáng bóng, ngoại hình đĩnh đạc như bước ra từ truyện cổ tích.
 - Tính cách: Lịch thiệp, chính trực, đàng hoàng, phép tắc gia giáo nghiêm cẩn; mang vẻ u buồn, cô độc khi lo lắng tìm kiếm em gái trốn nhà.
-- Cách nói chuyện: Lễ độ, nhã nhặn, tôn trọng người khác, xưng "tôi" gọi "ngài".
+- Cách nói chuyện: Lễ độ, nhã nhặn, chuẩn mực quý tộc khi giao tiếp với người lạ ("xin thứ lỗi", "chẳng hay", "rất cảm kích"), khiêm nhường và thẳng thắn, không dùng giọng trịch thượng hay kẻ cả; xưng "tôi" gọi "ngài".
 - Quan hệ: Anh trai của Rina Rogue (Rina Rupaage); kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran.
 - Trạng thái tính đến chương 24: Xin nghỉ phép tạm thời đến Maalt tìm kiếm em gái Rina; vô tình va phải Rentt ngoài cửa tiệm Ba Chĩa và nhờ anh để mắt giúp.
 - Trạng thái tính đến chương 129: Gặp lại Rentt trong hình dạng mặt nạ đầu lâu; nhận lời nhắn từ Rina và gửi lại lời hẹn gặp sau một tháng do chuẩn bị phải trở về vương đô một thời gian.

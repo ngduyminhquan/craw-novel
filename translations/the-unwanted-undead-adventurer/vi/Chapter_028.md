@@ -26,7 +26,7 @@ Quan điểm của tôi về hôn nhân rất đơn giản: đúng lúc và gặ
 
 Nói cho rõ, tôi không đời nào chịu chọn bừa một người dưng ngoài phố Maalt hay ở bất cứ đâu khác. Ít nhất thì mấy lá thư ngỏ ý mai mối người này người nọ cho tôi sẽ chẳng bao giờ đạt được mục đích đâu.
 
-"Mấy người không thấy chán cái trò cá cược đó à? Phải tôi là tôi ngấy từ mấy năm trước rồi. Cứ lặng lẽ đứng nhìn chúng tôi thôi không được sao? Chỗ bạn bè lâu năm, chừng ấy việc chắc ông làm được mà."
+"Mấy người không thấy chán cái trò cá cược đó à? Phải tôi là tôi ngấy từ mấy năm trước rồi. Cứ lặng lẽ dõi theo chúng tôi thôi không được sao? Chỗ bạn bè lâu năm, chừng ấy việc chắc ông làm được mà."
 
 "Ha! Nếu chỉ đứng nhìn mà nên chuyện thì đến tôi cũng cưới được vợ rồi!"
 

@@ -30,7 +30,7 @@ Như để trả lời thắc mắc của tôi, Zarid lên tiếng, giọng ph�
 
 Zarid chậm rãi, từ tốn đáp lại câu hỏi của tôi.
 
-"...Ừ. Chắc cô không biết đâu. Phải rồi... Hồi đó cô chưa tới đây. Lần gần nhất là... lúc cô ra ngoài có việc, còn lần trước nữa là trước khi cô tới Maalt. Ừ... Đúng là thế đấy."
+"...Ừ. Chắc cô không biết đâu. Phải rồi... Chuyện từ hồi cô chưa tới đây mà. À không, lần gần nhất là... lúc cô đi vắng có việc, còn lần trước đó nữa mới là trước khi cô tới Maalt. Ừ... Đúng là thế đấy."
 
 "...Thế lúc đó có chuyện gì xảy ra?"
 
@@ -46,7 +46,7 @@ Chẳng biết từ lúc nào, mấy kẻ vừa quấy rầy tôi đã biến m�
 
 Dù mấy gã đó rõ ràng đã đánh đồng lòng dũng cảm với thói thô lỗ cộc cằn, tôi cũng không nghĩ bọn chúng thuộc dạng vừa thấy động đã cúp đuôi chạy biến như thế.
 
-"Chà, chắc là Rentt đã làm gì bọn chúng trước khi tới đây rồi chứ gì?"
+"Chà, chắc trước đó Rentt đã làm gì bọn chúng rồi chứ gì?"
 
 "Hừm... Tôi cũng chịu. Thật thế sao?"
 
@@ -76,7 +76,7 @@ Nhưng Rentt lập tức lắc đầu.
 
 Dù ban đầu tôi nghĩ tới việc tiêu diệt lũ quái, nhưng khoảng chục con Goblin quả thực là quá sức đối với Rentt. Thêm vào đó anh còn phải bảo vệ đám tân binh, nên xét ở khía cạnh ấy thì anh đã xử lý rất đúng.
 
-Dù sao thì tân binh thường chẳng mấy ai giỏi xoay xở chạy trốn. Thiếu đi kỹ năng đó trong mê cung chẳng khác nào tự rước lấy cái chết. Có điều, Rentt lại đặc biệt thạo khoản cắt đuôi quái vật và những mối nguy tương tự.
+Dù sao thì tân binh thường chẳng mấy ai giỏi xoay xở chạy trốn. Thiếu đi kỹ năng đó trong mê cung chẳng khác nào tự rước lấy cái chết. Trái lại, Rentt lại đặc biệt thạo khoản cắt đuôi quái vật và thoát khỏi những mối nguy tương tự.
 
 "Bọn chúng chỉ làm có thế thôi sao? Thế sao anh lại giận dữ đến vậy? Bình thường chẳng phải anh chỉ bảo họ tự kiểm điểm lại hành vi thôi ư?"
 

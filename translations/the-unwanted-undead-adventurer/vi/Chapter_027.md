@@ -70,7 +70,7 @@ Dù đã đưa cho Clope một nửa gia sản để đặt cọc cho vũ khí �
 
 Xem ra Lorraine và tôi đồng tình ở điểm đó. Người phụ nữ kia đột ngột xuất hiện rồi nhanh chóng tiễn tôi đi mà không giải thích gì nhiều. Vì cuộc tiếp xúc giữa chúng tôi diễn ra khá ngắn ngủi, tôi không có cách nào quan sát cô ta kỹ hơn, và do đó cũng chẳng cách nào suy đoán được cô ta là ai.
 
-Dù tôi biết chắc thực lực của cô ta, nhưng việc cô ta có thể quở trách và áp chế tôi theo cách như vậy đồng nghĩa bản thân cô ta đã là một người cực kỳ hiếm gặp rồi.
+Tôi vốn đã biết rõ thực lực của cô ta mạnh đến mức nào; nội việc cô ta có thể quở trách và áp chế tôi theo cách như vậy đã đủ chứng tỏ bản thân cô ta là một nhân vật cực kỳ hiếm gặp rồi.
 
 Ở trạng thái hiện tại, có lẽ tôi đủ sức đối phó với một mạo hiểm giả Hạ Ngân Cấp. Cho dù không thắng nổi, ít nhất tôi cũng thoát thân được. Nhưng nếu phải đối đầu với mạo hiểm giả từ Kim Cấp trở lên, chắc chắn tôi sẽ bị đánh bại chỉ trong chớp mắt. Đánh giá thực lực hiện tại của tôi như thế là công bằng.
 
@@ -124,7 +124,7 @@ Có lẽ người bình thường sẽ bảo tôi thật bất hạnh. Nhưng t�
 
 Tôi sẽ chiến đấu với nhiều quái vật, bắt gặp nhiều điều bí ẩn, và trên hết là trở nên mạnh hơn. Tất cả những điều đó cũng sẽ góp phần đưa tôi tới mục tiêu cuối cùng là trở thành mạo hiểm giả Mithril Cấp.
 
-Đó chính là chuyến phiêu lưu mà hiện tại tôi đang dấn thân vào; nghĩ lại thì, những chuyện không may liên tiếp xảy đến với tôi dạo gần đây cũng có thể coi là những trải nghiệm quý giá vô ngần. Nhất định tôi sẽ tự tay nắm lấy giấc mơ Mithril ấy.
+Đó chính là chuyến phiêu lưu mà hiện tại tôi đang dấn thân vào; nghĩ lại thì, những chuyện không may liên tiếp xảy đến với tôi dạo gần đây cũng có thể coi là những trải nghiệm vô cùng quý giá. Nhất định tôi sẽ tự tay nắm lấy giấc mơ Mithril ấy.
 
 Nghĩ vậy, tôi củng cố quyết tâm. Ước mơ của tôi rất gian nan, và để hoàn thành nó, chắc chắn tôi sẽ phải gặp lại Rồng và người phụ nữ kia. Khi thời khắc tất yếu ấy tới, ít nhất tôi cũng phải đủ sức đứng ngang hàng với họ.
 

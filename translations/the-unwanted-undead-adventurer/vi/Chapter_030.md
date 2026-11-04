@@ -116,7 +116,7 @@ Dẫu vậy, những vùng đất ma thuật như nơi này vẫn thực sự t�
 
 Quả thực là một hiện tượng đầy bí ẩn...
 
-Có lẽ xưa kia từng có một vị thần kiến tạo nên những không gian ma thuật như thế trong mê cung; hoặc chí ít là một thực thể được con người tôn sùng, đủ sức làm nên những kỳ tích màu nhiệm như thế. Có người từng bảo mê cung là vùng cấm địa mà tri thức nhân loại không bao giờ thấu triệt. Thậm chí có kẻ còn cho rằng chỉ cần bước chân vào mê cung thôi đã là hành vi xâm phạm không thể tha thứ.
+Có lẽ xưa kia từng có một vị thần kiến tạo nên những không gian ma thuật như vậy trong mê cung; hoặc chí ít là một thực thể được con người tôn sùng, đủ sức làm nên những kỳ tích màu nhiệm như thế. Có người từng bảo mê cung là vùng cấm địa mà tri thức nhân loại không bao giờ thấu triệt. Thậm chí có kẻ còn cho rằng chỉ cần bước chân vào mê cung thôi đã là hành vi xâm phạm không thể tha thứ.
 
 Tuy thế, không thể chối cãi rằng mê cung đã trở thành một phần cốt lõi, gắn liền với văn hóa và đời sống nhân loại. Bởi lẽ các nguyên liệu thu hoạch từ mê cung cùng lũ quái vật sống trong đó đều được dùng để chế tạo những ma cụ tinh xảo. Hiếm hoi lắm còn có mạo hiểm giả tìm thấy cả kho báu cổ đại.
 

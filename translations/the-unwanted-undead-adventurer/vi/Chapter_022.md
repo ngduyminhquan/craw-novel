@@ -6,7 +6,7 @@ Dù tính khí lập dị và khá xuề xòa, nhưng hóa ra Lorraine vẫn có
 
 "Đây rồi. Soi vào đây xem... Chà, có vẻ nó không hẳn là sắp rơi ra đâu, nhưng cách nó ốp trên mặt anh trông đã khác trước rồi..."
 
-Tôi cũng tò mò nên không kìm được mà ngó vào chiếc gương trên tay Lorraine. Trong gương phản chiếu khuôn mặt và chiếc mặt nạ của tôi, nhưng chiếc mặt nạ quả thật có đôi chút khác thường.
+Tôi cũng tò mò nên không kìm được mà ngó vào chiếc gương trên tay Lorraine. Trong gương hiện lên khuôn mặt và chiếc mặt nạ của tôi, có điều chiếc mặt nạ trông hơi khác mọi khi.
 
 Có điều, không đơn thuần là chuyện lệch vị trí. Nhìn kỹ hơn, cả chiếc mặt nạ đã đổi hình dạng. Ban đầu nó che gần hết mặt tôi, nhưng giờ chỉ còn bọc nửa trên, để lộ toàn bộ phần dưới lẫn vùng miệng.
 
@@ -20,11 +20,11 @@ Thấy tôi sững sờ nhận ra, Lorraine gật đầu: "À, phải rồi. Bao
 
 Tự kiểm tra lại một lượt, tôi nhận ra diện mạo của mình đúng là đã thay đổi rõ rệt. Ý tôi không chỉ nói tới chuyện chiếc mặt nạ đổi dạng...
 
-Tôi cởi áo choàng ra xem cho chắc, và thấy xen giữa những mảng da khô ráp thường ngày giờ đã có những vạt da trông hồng hào lành lặn. Có lẽ dễ hình dung nhất là ví tình trạng tôi lúc này với một cái xác chưa rữa hết: vài chỗ trông hệt như hồi còn sống, nhưng những chỗ khác lại chằng chịt sẹo, khô đét và khó coi vô cùng. Dù vậy, với bộ dạng này, tôi hoàn toàn có thể nói thác rằng mấy vạt da khô khốc kia là sẹo do quái vật gây ra.
+Tôi cởi áo choàng ra xem cho chắc, và thấy xen giữa những mảng da khô ráp thường ngày giờ đã có những vạt da trông hồng hào lành lặn. Có lẽ dễ hình dung nhất là ví tình trạng tôi lúc này với một cái xác chưa rữa hết: vài chỗ trông hệt như hồi còn sống, nhưng những chỗ khác lại chằng chịt sẹo, khô đét và khó coi vô cùng. Dù vậy, với bộ dạng này, biết đâu tôi có thể viện cớ rằng mấy vạt da khô khốc kia là sẹo do quái vật gây ra.
 
 Nói thì nói thế, chứ bảo mình có nhiều vết sẹo lớn cỡ này thì nghe hơi gượng gạo. Bằng không, tôi cứ nói toạc ra mình là Ngạ Quỷ cho xong, dẫu nghĩ theo đường nào thì đó cũng chẳng phải ý hay ho gì. Mặt tôi cũng chẳng khá hơn là bao: nửa dưới không bị mặt nạ che cũng chung tình cảnh với phần thân, thậm chí trông còn quái dị hơn da dẻ trên người.
 
-Dù cũng có vài chỗ lành lặn, nhưng vùng quanh miệng tôi lại hằn rõ nét xác chết và đặc sệt vẻ Ngạ Quỷ. Nhìn rõ cả phần nướu co rút đến thảm hại, mà để lộ cả hàm răng trơ trọi thế này có khi nom lại giống Khô Lâu hơn. Tôi phải tìm cách giấu chỗ này đi mới được... Liệu có cách nào làm được không nhỉ?
+Dù cũng có vài chỗ lành lặn, nhưng vùng quanh miệng tôi lại hằn rõ nét xác chết và đặc sệt vẻ Ngạ Quỷ. Nhìn rõ cả phần nướu co rút đến thảm hại, mà để lộ cả hàm răng trơ trọi thế này có khi nom lại giống Khô Lâu hơn. Tôi phải tìm cách giấu chỗ này đi mới được... Liệu mình có làm được gì không nhỉ?
 
 Tôi tập trung tinh thần, cố nghĩ xem phải làm sao.
 
@@ -68,7 +68,7 @@ Lorraine nói nghe rất có lý. Thấy cũng đáng để thử một phen, t�
 
 "Cô cứ... thử... xem..."
 
-Thế nhưng đúng như dự đoán, mặc cho Lorraine ra sức kéo, chiếc mặt nạ vẫn chẳng mảy may nhúc nhích, cứ như thể dán chặt vào mặt tôi vậy. Lorraine đâu phải dạng chân yếu tay mềm; dẫu có phần yếu hơn binh lính hay cánh mạo hiểm giả nam to con, cô dẫu sao cũng là một mạo hiểm giả như họ. Lẽ ra cô phải thừa sức tháo nó ra, ít nhất là nếu đây chỉ là một chiếc mặt nạ bình thường.
+Thế nhưng đúng như dự đoán, mặc cho Lorraine ra sức kéo, chiếc mặt nạ vẫn chẳng mảy may nhúc nhích, cứ như thể dán chặt vào mặt tôi vậy. Lorraine đâu phải dạng chân yếu tay mềm; tuy có phần yếu hơn binh lính hay cánh mạo hiểm giả nam thông thường, cô dù sao cũng là một mạo hiểm giả như họ. Lẽ ra cô phải thừa sức tháo nó ra, ít nhất là nếu đây chỉ là một chiếc mặt nạ bình thường.
 
 Tóm lại, chiếc mặt nạ vẫn dính chặt cứng trên mặt tôi, chẳng đời nào chịu rời đi trong một sớm một chiều.
 
@@ -86,7 +86,7 @@ Dù có thể uốn thành những hình thù sáng tạo hơn, nhưng chưa đ�
 
 Đúng như cô nói, nếu ai nhìn kỹ vào nửa dưới khuôn mặt thì chắc chắn họ sẽ nghi ngờ ngay tôi có phải con người hay không, dẫu ngay từ đầu tôi đâu còn là người nữa. Khổ nỗi thân thể tôi cũng chung tình trạng. Nếu để lộ cho người ngoài thấy, bất kỳ thị dân bình thường nào cũng sẽ thắc mắc làm sao tôi còn cử động nổi, bởi những tì vết trên da không đơn thuần là vết thương; bên dưới lớp thịt khô quắt vẫn còn lộ cả xương. Lại còn chuyện máu me nữa, hay đúng hơn là chẳng có lấy một giọt; các vết thương trên người tôi tuyệt nhiên không hề chảy máu.
 
-Dù vậy, tính đi tính lại, tôi vẫn ưng hình hài này hơn nhiều, chí ít là hơn hẳn bộ dạng trước kia. Nếu chỉ nhìn thoáng qua, trông tôi vẫn giống người. Tôi đồ rằng hiện giờ mình đang đứng ở cái mốc lưng chừng ấy.
+Dù vậy, tính đi tính lại, tôi vẫn ưng hình hài này hơn nhiều, chí ít là hơn hẳn bộ dạng trước kia. Nếu chỉ nhìn thoáng qua, trông tôi vẫn giống người. Chắc hiện giờ tôi đang ở cái ngưỡng lưng chừng ấy.
 
 Có điều, đó chưa phải là thứ duy nhất thay đổi.
 
@@ -116,13 +116,13 @@ Dù đúng là tôi có lao vào tấn công Lorraine, nhưng cô đã hất vă
 
 Câu nói của Lorraine khiến tôi sững cả người. Tôi trợn tròn mắt nhìn cô, nhưng Lorraine chỉ thản nhiên giải thích tiếp.
 
-"Nghĩ mà xem, chuyện đó chẳng hoang đường đến thế đâu. Nếu phải nhận xét... nhìn bộ dạng lúc này của anh, tôi thấy giống Thi Quỷ của Ma Cà Rồng hơn là một Ngạ Quỷ đơn thuần đấy. Chí ít anh cũng là một dạng quái vật chịu sự sai khiến của Ma Cà Rồng... Thành ra trên thang bậc quái vật, anh sẽ xếp dưới Hạ Cấp Ma Cà Rồng một bậc."
+"Nghĩ mà xem, chuyện đó chẳng hoang đường đến thế đâu. Nếu phải nhận xét... nhìn bộ dạng lúc này của anh, tôi thấy giống Thi Quỷ của Ma Cà Rồng hơn là một Ngạ Quỷ đơn thuần đấy. Ít nhất thì đó cũng là loài quái vật chịu sự sai khiến của Ma Cà Rồng... Thành ra trên thang bậc quái vật, anh sẽ xếp thấp hơn Hạ Cấp Ma Cà Rồng một chút."
 
 ◆◇◆◇◆
 
 "Thi Quỷ sao..."
 
-Dù Thi Quỷ của Ma Cà Rồng là loài quái vật khá mạnh, nhưng cả đời tôi chưa từng thấy con nào. Theo lời Lorraine giải thích, Thi Quỷ là một dạng thuộc hạ do Ma Cà Rồng tạo ra, nên nếu không có Ma Cà Rồng sinh ra chúng thì chúng chẳng thể tồn tại. Được biết Thi Quỷ dường như không tái sinh trong mê cung. Trái lại, những con Hạ Cấp Ma Cà Rồng tạo ra chúng thì sau khi bị tiêu diệt một thời gian sẽ xuất hiện trở lại. Chính vì lẽ đó, có thể nói Thi Quỷ là loại quái vật tương đối hiếm gặp.
+Dù Thi Quỷ của Ma Cà Rồng là loài quái vật khá mạnh, nhưng cả đời tôi chưa từng thấy con nào. Theo lời Lorraine giải thích, Thi Quỷ là một dạng thuộc hạ do Ma Cà Rồng tạo ra, nên nếu không có Ma Cà Rồng sinh ra chúng thì chúng chẳng thể tồn tại. Nghe đâu Thi Quỷ dường như không tái sinh trong mê cung. Trái lại, những con Hạ Cấp Ma Cà Rồng tạo ra chúng thì sau khi bị tiêu diệt một thời gian sẽ xuất hiện trở lại. Chính vì lẽ đó, có thể nói Thi Quỷ là loại quái vật tương đối hiếm gặp.
 
 Dù vậy, chúng cũng chưa đến mức là sinh vật huyền thoại, bởi người ta đã ghi nhận không ít lần chạm trán chúng ở những vùng có Ma Cà Rồng sinh sống. Có điều, Thi Quỷ trong những trường hợp ấy trước kia đều là con người, bị biến đổi sau khi bị Ma Cà Rồng cắn. Theo hiểu biết của tôi, không ai tự dưng hóa thành Thi Quỷ được nếu không có tác động trực tiếp từ một Ma Cà Rồng gốc.
 
@@ -150,7 +150,7 @@ Lorraine ngỏ ý hết sức bâng quơ như thế, và dĩ nhiên tôi chẳng
 
 Tôi liền giục cô nói ngay không chút chần chừ.
 
-"Được rồi, vậy tôi kể nhé. Mà kể cả anh có từ chối thì đằng nào tôi cũng cứ nói tiếp thôi," Lorraine vừa nói vừa nở nụ cười tủm tỉm.
+"Được rồi, vậy tôi kể nhé. Mà kể cả anh có từ chối thì đằng nào tôi cũng cứ nói tiếp thôi," Lorraine vừa nói vừa tủm tỉm cười.
 
 "Nào... bắt đầu từ đâu đây nhỉ? Có lẽ sẽ dễ hiểu hơn nếu tôi điểm lại mọi chuyện từ lúc anh bắt đầu tiến hóa. Dù tôi không có mặt để tận mắt chứng kiến... nhưng Rentt này, thoạt đầu anh biến thành Khô Lâu đúng không?"
 
@@ -186,11 +186,11 @@ Tôi lại đem suy nghĩ ấy nói với Lorraine, và cô lập tức gật đ
 
 "Ý cô... là sao?"
 
-"...Ý tôi là, thực chất chúng ta biết rất ít, nói đúng hơn là chẳng biết gì về chủ đề này cả."
+"...Ý tôi là, thực chất chúng ta biết rất ít, hay nói đúng hơn là gần như chẳng biết gì về chủ đề này cả."
 
 Tôi thấy nhận xét của Lorraine có phần hơi gay gắt, nhưng cô chỉ thản nhiên nói tiếp.
 
-"...Có điều, việc anh thực sự từ bộ xương khô tiến hóa thành Ngạ Quỷ, tôi cho rằng nó đã chứng minh giả thuyết của mình là đúng."
+"...Có điều, thấy anh thực sự tiến hóa từ bộ xương khô thành Ngạ Quỷ, tôi cho rằng giả thuyết của tôi thế là đã đúng."
 
 "Thế... tức là... sao?"
 

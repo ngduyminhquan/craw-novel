@@ -32,8 +32,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 6. **Miêu tả Undead dạng xương.** Khô Lâu hoặc sinh vật chỉ có xương thì không tả là "cơ bắp" (`physical strength` → "sức mạnh thể chất / lực đòn đánh").
 7. **Giọng Loris Cariello và Isabel.** Loris là chủ quán ăn bình dân, xởi lởi, hay dùng từ đệm dò ý ở cuối câu ("yeah?" → "chứ hả", "nhé", "được không"); Isabel tháo vát, chăm chỉ, xưng hô vợ chồng tự nhiên ("mình ơi", "nhà tôi"), giao tiếp với người ngoài giữ phép lịch sự nhưng thẳng thắn, không khách sáo màu mè.
 8. **Bản năng Undead trỗi dậy và tâm lý tự giễu của Lorraine.** Khi Rentt bị bản năng quái vật chi phối, độc thoại nội tâm giằng xé giữa cơn thèm khát dã tính và lý trí con người, diễn đạt bằng các câu cụt dồn dập, ngắt quãng. Lorraine khi đối diện việc bị tấn công vẫn giữ thái độ thực tế, sắc sảo và dí dỏm tự giễu ("damaged goods" → "hàng có tì vết"), không bi lụy hay hoảng loạn thái quá.
-9. **Giọng kỵ sĩ quý tộc (Idoles Rogue).** Lịch thiệp, chuẩn mực quý tộc khi giao tiếp với người lạ ("xin thứ lỗi", "chẳng hay", "rất cảm kích"), khiêm nhường và thẳng thắn, không dùng giọng trịch thượng hay kẻ cả dù là tinh anh của Đệ Nhất Kỵ Sĩ Đoàn.
-10. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
+9. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -58,7 +57,6 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (1–5) Rentt bị rồng ăn thịt, thức tỉnh thành Khô Lâu rồi tiến hóa thành Ngạ Quỷ. Giọng kể mang đậm tính độc thoại phân tích logic, chấp nhận thực tế nhanh chóng, kiên trì không bỏ cuộc dù biến thành Undead.
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
-- (23) Lorraine bộc lộ thói quen học giả say mê nghiên cứu đến quên ăn quên ngủ.
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.

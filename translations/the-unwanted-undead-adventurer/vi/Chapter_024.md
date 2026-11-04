@@ -48,7 +48,7 @@ Tôi gật đầu cảm ơn rồi nhận lấy thanh kiếm do Luka, vợ Clope,
 
 Cốp!
 
-Vừa bước chân ra khỏi cửa tiệm, đầu tôi đã lĩnh ngay một cú va chạm cốp một cái. Nói đúng hơn thì chiếc mặt nạ đã hứng trọn lực va đập; dẫu vậy, có vẻ như tôi vừa đâm sầm vào thứ gì đó.
+Vừa bước chân ra khỏi cửa tiệm, đầu tôi đã va mạnh vào thứ gì đó. Nói đúng hơn thì chiếc mặt nạ đã hứng trọn cú va chạm, nhưng rõ ràng tôi vừa đâm sầm vào cái gì đấy.
 
 Dĩ nhiên, chút va chạm cỏn con ấy chẳng đời nào làm bung hay sứt mẻ nổi chiếc mặt nạ. Nó cứng đến mức phát bực, mà vốn dĩ ngay từ đầu đã có tháo ra được đâu. Nhìn kỹ người trước mặt, tôi nhận ra mình vừa va phải một người đàn ông. Anh ta khoác trên mình bộ giáp trắng bạc; ai nhìn vào cũng đoán ngay đó là một kỵ sĩ.
 
@@ -98,7 +98,7 @@ Người đàn ông trả lời nhanh chóng và thành thật, xem chừng ch�
 
 "Vậy thì... cô Rina đó... có tự xưng là... 'Rina Rogue' không...?"
 
-"Chắc hẳn là vậy rồi. Chẳng hay ngài có biết ai mang cái tên đó không? Trước khi tới đây tôi đã đi hỏi thăm vài chỗ, nhưng bên Hội viện dẫn quy định bảo mật thông tin nên nhất quyết chẳng chịu hé răng nửa lời. Một kỵ sĩ mà lại đi la cà quán rượu để dò la thì quả thực trông kỳ cục lắm, thành thử ra..."
+"Tôi nghĩ chắc là vậy. Chẳng hay ngài có biết ai mang cái tên đó không? Trước khi tới đây tôi đã đi hỏi thăm vài nơi, nhưng bên Hội viện dẫn quy định bảo mật thông tin nên không tiết lộ điều gì cả. Mà một kỵ sĩ lại đi hỏi dò quanh quán rượu thì trông thật chẳng ra làm sao, thế nên..."
 
 Xem ra để tìm Rina, vị kỵ sĩ nọ đã ghé qua các tiệm rèn cùng những nơi mạo hiểm giả hay lui tới, rồi thậm chí hỏi han cả khách khứa ra vào những chỗ ấy. Vốn dĩ ngay cả Hội Mạo Hiểm Giả cũng chẳng thể từ chối yêu cầu từ chính quyền vương quốc. Nhưng vị kỵ sĩ này xem ra không hề dùng đến đặc quyền đó, mà chỉ gật đầu rời đi khi bị từ chối.
 
@@ -168,11 +168,11 @@ Nhưng Lorraine lại không nghĩ vậy.
 
 "...Hả? Thật... thế sao? Chắc cô... đang đùa rồi."
 
-Thú thật, tôi ngạc nhiên lắm trước những lời Lorraine nói. Dù đúng là tôi từng chạy vặt và làm đủ thứ việc lặt vặt cho Hội, nhưng tôi chưa từng nghĩ việc mình làm lại có ý nghĩa lớn đến mức khiến Hội muốn tuyển vào làm nhân viên. Dù sao thì tôi cũng đâu thể sống thảnh thơi mà đinh ninh rằng tương lai của mình đã ấm êm.
+Thú thật, tôi ngạc nhiên lắm trước những lời Lorraine nói. Dù đúng là tôi từng nhận chạy việc và làm đủ thứ việc vặt cho Hội, nhưng tôi chưa từng nghĩ những việc đó lại đáng giá đến mức khiến Hội muốn tuyển mình vào làm nhân viên. Vả lại, tôi cũng đâu thể cứ thế tự mãn mà yên tâm rằng tương lai của mình thế là đã có chỗ dựa.
 
 Nhưng trước khi kịp nghĩ tới chuyện đó, tôi đã khẳng định lại một lần nữa rằng mình chẳng hề có ý định từ bỏ đời mạo hiểm giả; chuyện đó là không thể nào.
 
-"Tôi nói thật đấy nhé? Hứ. Thôi tùy anh vậy... Đằng nào thì chừng nào anh vẫn là anh như bây giờ, việc đến Hội sẽ vô cùng—" Lorraine khựng lại giữa câu, lắc đầu qua lại rồi bắt đầu lẩm bẩm một mình. "Chừng nào vẫn là... chính mình? Nếu Rentt là Rentt... Nếu Rentt không phải Rentt... Thì biết đâu... Biết đâu lại có cách..."
+"Tôi nói thật đấy chứ đùa đâu. Hứ. Thôi tùy anh vậy... Đằng nào thì chừng nào anh vẫn giữ nguyên thân phận hiện tại, việc đến Hội sẽ vô cùng—" Lorraine khựng lại giữa câu, nghiêng đầu qua lại rồi bắt đầu lẩm bẩm một mình. "Chừng nào vẫn giữ... thân phận hiện tại ư? Nếu Rentt là Rentt... Còn nếu Rentt không phải là Rentt... Thì biết đâu... Biết đâu lại có cách tháo gỡ chuyện này..."
 
 Lorraine cứ lẩm bẩm như vậy.
 
