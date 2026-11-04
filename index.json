@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T13:20:19Z",
+  "generatedAt": "2026-11-04T13:24:30Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2332,7 +2332,7 @@
           "number": 30,
           "title": "Chương 30: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_030.md",
-          "sha": "97b2ad8166404838218c0bd66d30032fe8e22ece"
+          "sha": "ecdf7b5fd94c11e0791c6d752915e0957b29362a"
         },
         {
           "number": 31,
