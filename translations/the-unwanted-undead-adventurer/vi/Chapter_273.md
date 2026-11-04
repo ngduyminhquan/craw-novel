@@ -40,7 +40,7 @@ Sau khi cúi đầu thật sâu, vị tư tế vội vã chạy trở lại nh�
 
 "Những kẻ nắm quyền ở đâu thì cũng thế cả thôi," Lorraine nói. "Tốt hơn là anh đừng có mất công kỳ vọng làm gì."
 
-Đúng là ngoài kia quả là một thế giới nghiệt ngã.
+Ngoài kia quả là một thế giới nghiệt ngã.
 
 ◆◇◆◇◆
 
@@ -80,7 +80,7 @@ Và tất cả những điều này là sau khi tôi đã có được cả cơ 
 
 Tôi biết việc lo lắng về tương lai là vô nghĩa; tất cả những gì tôi có thể làm là dốc hết sức mình để hoàn thiện bản thân rồi mặc cho mọi chuyện thuận theo tự nhiên. Dẫu vậy, tôi vẫn muốn ngẫm nghĩ về nó cho thật thấu đáo, rũ bỏ cảm giác ấy đi, rồi đối diện với ngày mai trong một tâm trạng tốt hơn—đó chính là lý do vì sao tôi lại một mình lang thang trong thành phố thế này.
 
-"Không phải ngươi đã mất cảnh giác quá mức rồi sao, người bạn?"
+"Không phải ngươi đã mất cảnh giác quá mức rồi sao, bạn hiền?"
 
 Đó cũng là lý do vì sao ngay cả khi giọng nói ấy lọt vào tai, phản ứng của tôi vẫn có phần chậm chạp.
 
@@ -136,7 +136,7 @@ Tôi hạ quyết tâm, và—
 
 Đột nhiên, áp lực đang nghiền nát tôi biến mất không còn dấu vết, cùng với toàn bộ bóng dáng kẻ tấn công tôi. Gã đã đi đâu rồi?
 
-Tôi cố gắng tiếp đất an toàn xuống mặt đất, ngay sau đó vội vã quan sát xung quanh, nhưng tôi chẳng thể thấy bất kỳ dấu vết nào của gã.
+Tôi cố gắng tiếp đất an toàn, ngay sau đó vội vã quan sát xung quanh, nhưng tôi chẳng thể thấy bất kỳ dấu vết nào của gã.
 
 Thay vào đó, tôi nhìn thấy...
 
@@ -190,7 +190,7 @@ Vài người khác đang cắm cúi ăn bữa sáng cũng bật cười trướ
 
 Ý nghĩ đó hẳn đã khiến khóe miệng tôi khẽ nhếch lên thành một thoáng nụ cười mờ nhạt—một cử chỉ mà người đàn ông vừa cười cợt chúng tôi đã không hề bỏ sót. Đúng là mắt tinh thật đấy.
 
-"Này chú em," ông ta vừa đứng dậy vừa bước lại gần. "Vừa rồi cậu cười đểu tôi đấy à?"
+"Này chú em," ông ta vừa đứng dậy vừa bước lại gần. "Vừa rồi cậu cười nhạo tôi đấy à?"
 
 Trước khi tình hình kịp tiến triển xa hơn, tiếng bước chân của ai đó đang đi xuống cầu thang quán trọ bỗng vang lên.
 
@@ -242,17 +242,17 @@ Dù sao thì đó cũng là dòng suy nghĩ đằng sau những gì tôi vừa n
 
 "Phải chứ. Đây mới là cách người ta xử lý những kẻ như ông ta này..."
 
-Trong lúc tôi dõi mắt nhìn cô, tò mò không rõ cô định làm gì, Lorraine bắt đầu nén ma lực trong lòng bàn tay, tạo thành một khối cầu nhỏ rồi dần dần bành trướng ngày một lớn hơn.
+Trong lúc tôi dõi mắt nhìn cô, tò mò không rõ cô định làm gì, Lorraine bắt đầu nén Ma Lực trong lòng bàn tay, tạo thành một khối cầu nhỏ rồi dần dần bành trướng ngày một lớn hơn.
 
 Khoan, khoan, khoan đã. Rốt cuộc cô đang định giở trò gì ở đây thế hả, Lorraine?
 
 Dĩ nhiên là quá rõ ràng rằng cô chỉ đang dọa dẫm người đàn ông này một phen—tôi biết tỏng điều đó, nhưng dù sao tôi vẫn thấy có chút thót tim.
 
-Trong khi Augurey và tôi điềm tĩnh quan sát tình hình diễn tiến, gã mạo hiểm giả trung niên ngẩng đầu lên khỏi sàn nhà trong cơn hoảng loạn tột độ—vẻ mặt ông ta thực sự kinh hoàng. Dù người ta không thể nhìn thấy ma lực nếu không sở hữu đôi mắt thích hợp, nhưng nếu nó được nhào nặn và cô đặc đủ đậm đặc mà không chủ ý che giấu, người ta chắc chắn có thể cảm nhận được áp lực—và sự hiểm nguy—ngay trên làn da của mình. Ngay cả người đàn ông đó cũng phải nhận ra khối ma lực Lorraine gom lại trong lòng bàn tay nguy hiểm đến nhường nào.
+Trong khi Augurey và tôi điềm tĩnh quan sát tình hình diễn tiến, gã mạo hiểm giả trung niên ngẩng đầu lên khỏi sàn nhà trong cơn hoảng loạn tột độ—vẻ mặt ông ta thực sự kinh hoàng. Dù người ta không thể nhìn thấy Ma Lực nếu không sở hữu đôi mắt thích hợp, nhưng nếu nó được nhào nặn và nén tụ đủ đậm đặc mà không chủ ý che giấu, người ta chắc chắn có thể cảm nhận được áp lực—và sự hiểm nguy—ngay trên làn da của mình. Ngay cả người đàn ông đó cũng phải nhận ra khối Ma Lực Lorraine gom lại trong lòng bàn tay nguy hiểm đến nhường nào.
 
 "T-Tôi xin lỗi, thật đấy ạ!" ông ta van nài. "Làm ơn, xin ít nhất hãy tha mạng cho tôi!"
 
-Khi có vẻ đã hài lòng vì người đàn ông thực sự sợ mất mật, Lorraine điêu luyện tản biến ma lực của mình. "Đùa chút thôi mà," cô vừa mỉm cười vừa chìa một tay ra đỡ ông ta dậy. "Dẫu vậy, một kẻ nóng tính hơn thì thực sự đã thổi bay toàn bộ quán trọ này thành từng mảnh rồi đấy. Nếu đã là mạo hiểm giả, ông nên cẩn thận hơn đi."
+Khi có vẻ đã hài lòng vì người đàn ông thực sự sợ mất mật, Lorraine điêu luyện tản biến Ma Lực của mình. "Đùa chút thôi mà," cô vừa mỉm cười vừa chìa một tay ra đỡ ông ta dậy. "Dẫu vậy, một kẻ nóng tính hơn thì thực sự đã thổi bay toàn bộ quán trọ này thành từng mảnh rồi đấy. Nếu đã là mạo hiểm giả, ông nên cẩn thận hơn đi."
 
 Điều đáng sợ là người ta không thể nào biết được bao nhiêu phần trong đó thực sự là trò đùa. Người đàn ông dường như cũng nhận ra điều đó, bởi khi e dè nắm lấy bàn tay của Lorraine, ông ta run rẩy nói, "T-Tôi xin lỗi. T-Tôi sẽ không bao giờ tái phạm nữa đâu. Không bao giờ!"
 

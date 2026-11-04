@@ -82,7 +82,7 @@ Nói vậy không có ý ám chỉ những tổ chức như Giáo Hội Lobelia 
 
 Những trường hợp như Lorraine và tôi, khi có kẻ nhận được Thần Lực mà chẳng vì lý do gì quá đỗi đặc biệt, thực ra không hẳn là hiếm hoi, nhưng nếu hỏi tại sao các vị thần và thần tinh linh lại ban phước cho con người thứ sức mạnh đó, phần lớn sẽ bảo rằng ấy là bởi những người được ban phước nắm giữ một vai trò trọng đại nào đó thay mặt cho thánh thần hoặc thế giới. Nếu tìm đọc các câu chuyện thần thoại và truyền thuyết còn được lưu truyền tới tận ngày nay, người ta có thể bắt gặp không ít tấm gương về những người sử dụng Thần Lực đã lập nên những chiến công hiển hách và khắc ghi tên tuổi vào sử sách. Một số ghi chép thậm chí còn thuật lại chính xác những chỉ dẫn mà thánh thần trực tiếp truyền đạt cho những người sử dụng đó, vạch rõ những nghĩa vụ mà họ phải gánh vác. Dĩ nhiên tất cả đều thuộc về quá khứ xa xăm, và thật khó để khẳng định có bao nhiêu câu chuyện trong số đó là sự thật lịch sử, nhưng việc chúng vẫn còn được lưu truyền đến nay hẳn đồng nghĩa với việc ít nhiều cũng ẩn chứa một phần sự thật bên trong.
 
-Từ tất cả những điều đó, việc suy đoán Mel cũng phải gánh vác một sứ mệnh nào đó dường như là hoàn toàn có cơ sở. Trông có vẻ trường hợp của cô ấy không hề giống với Lorraine và tôi, nơi chúng tôi được ban phước chỉ nhờ vào một việc làm thiện nguyện tình cờ.
+Từ tất cả những điều đó, việc suy đoán Mel cũng phải gánh vác một sứ mệnh nào đó dường như là hoàn toàn có cơ sở. Trông có vẻ trường hợp của cô ấy không hề giống với Lorraine và tôi, khi chúng tôi được ban phước chỉ nhờ vào một việc làm thiện nguyện tình cờ.
 
 Ngay từ đầu, nếu Pochi thực sự là một thần thú, thì—dẫu tôi nói ra điều này có phần hơi khiếm nhã—thay vì ở tại một cô nhi viện tồi tàn như chốn này, nó hoàn toàn có thể tới bất kỳ nhà thờ tùy chọn nào, và mười mươi là họ sẽ phụng dưỡng nó chẳng khác gì bậc vương giả.
 
@@ -110,7 +110,7 @@ Một thị trấn so với cả một tỉnh ư? Sở hữu sức mạnh cần 
 
 Để so sánh thì Thần Lực của tôi... chà, nếu thực sự dốc hết sức bình sinh, tôi may ra có thể bao phủ một khu vực cỡ bằng một ngôi nhà. Xin đừng bảo chừng đó là chẳng đáng để nhắc tới—dù sao thì nó cũng đã mạnh lên rồi cơ mà. Chỉ là có quá nhiều kẻ quái vật trên thế gian này của chúng ta mà thôi.
 
-Còn khi nhắc tới Lorraine—tạm gác trữ lượng Ma Lực của cô ấy sang một bên—Thần Lực của cô ấy thậm chí còn thiếu thốn hơn cả tôi. Phạm vi của cô ấy có lẽ chỉ giới hạn trong kích thước của một căn phòng đơn lẻ. Dẫu dường như Thần Lực của cô ấy cũng đang tăng lên, điều đó khiến tôi dấy lên mối ngờ vực bất an rằng cô ấy sẽ sớm vượt mặt tôi chẳng mấy chốc... nhưng tôi sẽ tạm gác việc suy nghĩ về điều đó cho tới khi thời điểm ấy thực sự đến.
+Còn khi nhắc tới Lorraine—tạm gác trữ lượng Ma Lực của cô ấy sang một bên—Thần Lực của cô ấy thậm chí còn thiếu thốn hơn cả tôi. Phạm vi của cô ấy có lẽ chỉ giới hạn trong kích thước của một căn phòng đơn lẻ. Dẫu dường như Thần Lực của cô ấy cũng đang tăng lên, điều đó khiến tôi dấy lên mối ngờ vực bất an rằng cô ấy sẽ sớm vượt mặt tôi... nhưng tôi sẽ tạm gác việc suy nghĩ về điều đó cho tới khi thời điểm ấy thực sự đến.
 
 "Đó... sẽ là sức mạnh ngang tầm một khí tài quân sự," Lorraine nói. "Và nếu đó là Thần Lực dạng hồi phục, thì riêng điều đó thôi cũng đã đủ để làm lý do chính đáng phục vụ cho việc xâm lược một quốc gia khác rồi."
 
@@ -160,7 +160,7 @@ Tuy nhiên, những thứ cô ấy đang cố bảo vệ—Mel và cô nhi việ
 
 Tóm lại, cô ấy đang dành nhiều thời gian cho tôi hơn bình thường và cởi mở hơn nhằm tạo dựng một mức độ tin cậy nhất định.
 
-Dĩ nhiên tôi chẳng cần phải cảm thấy mình mắc một món nợ ân nghĩa to lớn nào với cô ấy, nhưng thông tin cô ấy cung cấp chắc chắn rất thú vị. Nếu một thời kỳ đại biến động thực sự xảy đến, đó chắc chắn sẽ là thời cơ tuyệt vời để kiếm sống với tư cách một mạo hiểm giả. Và với tư cách bản thân cũng là một quái vật, việc những người sử dụng Thần Lực hùng mạnh gia tăng là một thông tin vô cùng hữu ích. Bản thân tôi cùng các quyến thuộc ma cà rồng của mình không bị Thần Lực tác động, song điều tương tự lại không đúng đối với Laura cùng người của cô bé, chẳng hạn như Isaac. Biết được điều này lúc này chí ít cũng giúp tôi có thể đánh tiếng trước cho họ đề phòng.
+Dĩ nhiên tôi chẳng cần phải cảm thấy mình mắc một món nợ ân nghĩa to lớn nào với cô ấy, nhưng thông tin cô ấy cung cấp chắc chắn rất thú vị. Nếu một thời kỳ đại biến động thực sự xảy đến, đó chắc chắn sẽ là thời cơ tuyệt vời để kiếm sống với tư cách một mạo hiểm giả. Và với tư cách bản thân cũng là một quái vật, việc những người sử dụng Thần Lực hùng mạnh gia tăng là một thông tin vô cùng hữu ích. Bản thân tôi cùng các quyến thuộc Ma Cà Rồng của mình không bị Thần Lực tác động, song điều tương tự lại không đúng đối với Laura cùng người của cô bé, chẳng hạn như Isaac. Biết được điều này lúc này chí ít cũng giúp tôi có thể đánh tiếng trước cho họ đề phòng.
 
 Dẫu tôi có cảm giác dường như họ đã biết tỏng rồi...
 

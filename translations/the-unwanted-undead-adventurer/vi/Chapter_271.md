@@ -116,7 +116,7 @@ Thế nhưng câu trả lời của Lorraine nghe chừng lại khá lạc quan.
 
 "Maalt là một thị trấn kỳ lạ mà. Tôi đâu thể để mỗi một bí ẩn cỏn con làm mình phải bận tâm. Một ngày nọ, người bạn thân nhất của tôi trở về nhà trong bộ dạng của một Undead. Một thầy bói thì có là gì so với chuyện đó chứ?"
 
-Nghe cô ấy nói thế, quả thực nghe rất thuyết phục.
+Nghe cô ấy nói thế, quả thực rất thuyết phục.
 
 "Tôi đoán cô nói đúng," tôi bảo.
 
