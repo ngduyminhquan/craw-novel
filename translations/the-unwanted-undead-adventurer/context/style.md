@@ -4,8 +4,8 @@
 
 - Thể loại: Huyền huyễn / Kỳ ảo phương Tây (Fantasy), Thám hiểm mê cung (Dungeon crawler), Sinh tồn & Tiến hóa dị giới, Hành động - Giả tưởng, Đời thường mạo hiểm giả.
 - Góc nhìn: Chủ đạo là Ngôi thứ nhất ("tôi" — bộc bạch bởi nhân vật chính Rentt Faina). Thỉnh thoảng có phân đoạn chuyển sang góc nhìn thứ ba giới hạn (third-person limited) bám theo nhân vật khác (như tiếp tân viên Sheila ở Hội mạo hiểm giả, hoặc nữ kiếm sĩ Rina) để khắc họa khách quan hình ảnh Rentt qua con mắt người đời.
-- Giọng kể: Tỉnh táo, lý trí, đĩnh đạc, khiêm nhường. Rentt luôn ý thức rõ điểm yếu và giới hạn tài năng của mình, giàu trải nghiệm sống và kinh nghiệm thực chiến sau 10 năm làm mạo hiểm giả. Độc thoại nội tâm phong phú, phân tích tình huống khúc chiết, pha chút tự trào, tự giễu hài hước trước số phận trớ trêu (bị rồng nuốt chửng, biến thành Khô Lâu rồi Ngạ Quỷ).
-- Nhịp câu: Đĩnh đạc, mạch lạc, tự nhiên như văn tiếng Việt hiện đại. Câu văn gãy gọn trong các cảnh hành động, uyển chuyển trong các đoạn suy luận logic và hồi ức.
+- Giọng kể: Tỉnh táo, lý trí, khiêm tốn, đời thường. Rentt luôn ý thức rõ điểm yếu và giới hạn tài năng của mình, giàu trải nghiệm sống và kinh nghiệm thực chiến sau 10 năm làm mạo hiểm giả. Độc thoại nội tâm phong phú, phân tích tình huống khúc chiết, pha chút tự trào, tự giễu hài hước trước số phận trớ trêu (bị rồng nuốt chửng, biến thành Khô Lâu rồi Ngạ Quỷ).
+- Nhịp câu: Mạch lạc, tự nhiên như truyện tiếng Việt hiện đại do người trẻ viết. Câu gọn, dứt khoát trong cảnh hành động; mềm hơn nhưng vẫn là khẩu ngữ trong các đoạn suy luận và hồi ức.
 
 ## Nguyên tắc chung
 
@@ -16,23 +16,19 @@
 - Từ cảm thán, tiếng kêu (Kuk, Ugh, Tsk...) chuyển sang dạng tiếng Việt tương ứng (Hự, Ối, Chậc...), thống nhất theo bảng dưới.
 - Không thêm thắt nội dung, không tóm tắt, không kiểm duyệt.
 
-## Lỗi văn dịch máy cần tránh
+## Giọng văn và lỗi cần tránh
 
-User đọc lại và thấy bản dịch còn cứng, máy móc. Khi dịch hoặc trau chuốt, soát kỹ các kiểu lỗi sau. Mục tiêu: người đọc không nhận ra đây là truyện dịch.
+Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-translate/natural-vietnamese.md`, đọc kỹ trước khi dịch hay trau chuốt. Dưới đây chỉ là quy luật riêng của truyện này. Hai bên khác nhau thì theo file này.
 
-1. **Bê nguyên cấu trúc câu tiếng Anh.** Câu "X had other ideas" thì không dịch thành "X lại không nghĩ vậy". Hiểu ý câu gốc rồi nói lại theo cách người Việt nói. Các lối nói bóng của tiếng Anh (vật vô tri "nghĩ", "quyết định", "từ chối"...) chỉ giữ khi tiếng Việt đọc vẫn tự nhiên và vẫn giữ được cái duyên.
-2. **Mệnh đề phân từ treo đầu câu.** "Khom người xuống, tôi lục tìm...", "Thong dong tiến lại gần, hai con quái vật..." là cấu trúc tiếng Anh. Viết lại thành chuỗi hành động: "Tôi khom người lục tìm...", "Hai con quái vật thong thả tiến lại gần...". Đặc biệt không để chủ ngữ của vế phân từ khác chủ ngữ câu chính.
-3. **Danh từ hoá thừa.** Bớt "việc", "sự", "điều", "tính", "quá trình" khi động từ hay tính từ diễn đạt được. Ví dụ "việc tôi rời đi" → "tôi rời đi"; "sự tồn tại phi nhân tính" → "sống không còn tính người".
-4. **Bị động thừa.** Bớt "bị", "được" và "được tiến hành" khi câu chủ động tự nhiên hơn.
-5. **Lạm dụng gạch ngang "—".** Raw tiếng Anh dùng em dash dày đặc, còn tiếng Việt thì ít. Thay bằng dấu phẩy, hai chấm, ba chấm hoặc tách câu. Chỉ giữ "—" khi lời nói bị ngắt ngang đột ngột hoặc cần một quãng ngắt mạnh có chủ ý.
-6. **Đại từ và sở hữu thừa.** Tiếng Việt hay lược chủ ngữ. Không lặp "tôi", "nó", "ông ta" ở đầu mỗi vế. Bớt "của tôi", "của mình" khi ngữ cảnh đã rõ: "thanh kiếm của tôi" → "kiếm của tôi" hoặc "thanh kiếm".
-7. **Từ nối dịch máy.** Không mở câu liên tục bằng "Tuy nhiên", "Dẫu vậy", "Ngoài ra", "Trên thực tế", "Nói cách khác", "Thêm vào đó", hay dịch rập khuôn "With that in mind / Keeping that in mind / With that thought" thành "Với ý nghĩ đó trong đầu / Khắc ghi điều đó trong lòng / Với suy nghĩ đó". Đổi sang "Nhưng", "Có điều", "Vả lại", "Mà", "Nghĩ vậy", hoặc bỏ hẳn khi mạch văn đã tự nối.
-8. **Cụm sáo, khuôn văn bản và hành chính hoá tự sự.** Thay các cụm dịch thẳng từ tiếng Anh như "người ta hẳn có thể hiểu được tại sao", "điểm mấu chốt ở đây là", "xét trên mọi phương diện", "một cách + tính từ", "[danh từ] nói trên" (`said [noun]`), "lời tuyên bố" (`statement`/`proclamation` trong hội thoại), "người tiền nhiệm" (`predecessor` cho đồ vật/vũ khí → "thanh kiếm/món đồ trước đó"), "nhận ra sự tồn tại của" (`notice the existence of`), "ý tôi muốn nói ở đây là" (`what I’m getting at`), "giờ cậu nhắc tới thì" (`now that you mention it`), "kỳ tích đơn giản" (`a trivial feat`), "nói trước tương lai" (`getting ahead of myself` → "hơi vội kết luận") bằng lối nói tự nhiên, gọn và có hồn hơn. Không bê nguyên cụm hiện đại/gamer slang như "chất lượng cuộc sống" (`quality of life`) vào bối cảnh kỳ ảo.
-9. **Hư từ thừa.** Bớt "đã", "đang", "sẽ", "rồi", "những", "các", "một" khi không cần đánh dấu thì hay số.
-10. **Lời thoại phải như người thật nói.** Câu ngắn, dùng tiểu từ (nhỉ, nhé, đấy, chứ, mà, cơ, thôi), không viết như văn bản hành chính. Mỗi nhân vật có giọng riêng: Rentt đĩnh đạc và hơi tự giễu, Lorraine sắc sảo và hay trêu, người thô lỗ thì nói cộc.
-11. **Thành ngữ, cách nói ví von.** Dịch nghĩa sang thành ngữ hoặc cách nói tiếng Việt tương đương. Không dịch từng chữ.
-12. **Nhịp câu.** Câu dài nhiều mệnh đề thì tách ra. Nhiều câu cụt liền nhau thì gộp lại. Đọc thầm cả đoạn: chỗ nào vấp thì viết lại.
-13. **Độc thoại tự giễu của Rentt phải giữ được duyên.** Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng hài. Vẫn không được thêm ý mới.
+1. **Văn hiện đại, trẻ. Không văn cổ, không "nâng cấp" từ.** User muốn giọng như một người Việt trẻ hôm nay viết truyện: từ thuần Việt thông dụng, câu gọn, khẩu ngữ tự nhiên. Không đổi từ thường sang từ văn chương hay Hán Việt hoa mỹ. Thành ngữ, kể cả thành ngữ bốn chữ, vẫn dùng được khi thật hợp ngữ cảnh và hợp giọng người nói, chỉ không chêm vào cho câu nghe "văn" hơn. Ví dụ lấy từ các bản trau chuốt cũ:
+   - "giản đơn" → "đơn giản"; "phỏng chừng" → "chắc", "có khi"; "lớn nhường ấy" → "lớn cỡ đó";
+   - "thiên hướng thiện lương" → "vốn tốt bụng"; "nghĩa cử trượng nghĩa" → "làm việc tốt";
+   - "Đáng buồn thay, ..." → "Buồn cái là ..."; "rơi vào cảnh bần cùng khốn khó" → "túng quẫn đến cùng đường";
+   - "đống xương tàn vô hồn" → "đống xương vụn"; "đàng hoàng lên đường" → "lên đường".
+2. **Hiện đại nhưng không suồng sã.** Không dùng tiếng lóng mạng, từ công nghệ hay gamer slang (xem `rules.md` #152, #243, #256). Không cường điệu hơn raw: "cắn tôi một miếng ngọt xớt", "cú nện điếng người", "mười mươi" cho "the possibility was there" đều là quá tay.
+3. **Giọng Rentt.** Bình tĩnh, hay phân tích, hay tự giễu, như một gã mạo hiểm giả từng trải đang kể chuyện cho bạn nghe, không phải đọc diễn văn. Độc thoại dùng tiểu từ ("chứ", "mà", "đấy", "thôi") và câu hỏi tu từ ngắn. Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng, không thêm ý.
+4. **Giọng nhân vật khác.** Lorraine sắc sảo, hay trêu Rentt. Người thô lỗ nói cộc. Chi tiết xem `characters.md` và `pronouns.md`.
+5. **Thoại ngắt quãng thời Ngạ Quỷ.** Sau dấu "." thì viết hoa, sau "..." giữa câu thì viết thường. Đổi xưng hô trong một câu thoại thì đổi cả câu, không để vế đầu "mình", vế sau "tôi".
 
 ## Từ cảm thán / cách nói cố định
 

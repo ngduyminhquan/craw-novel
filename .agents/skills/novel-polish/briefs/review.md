@@ -15,7 +15,8 @@ Cách làm:
    - **tự nhiên**: còn câu nào đọc ra là văn dịch, phạm lỗi trong `.agents/skills/novel-translate/natural-vietnamese.md` không. Viết lại;
    - **giọng nhân vật**: lời thoại có đúng tính cách và đúng cặp xưng hô trong `pronouns.md` không;
    - **nhất quán**: thuật ngữ, tên riêng và cách hành văn có đồng đều giữa các chương không;
-   - **sửa quá tay**: câu bị viết hoa mỹ, thêm thắt cảm xúc không có trong raw, hoặc dùng từ Hán Việt nặng thì kéo lại cho mộc.
+   - **sửa quá tay**: câu bị viết hoa mỹ, thêm thắt cảm xúc không có trong raw, hoặc dùng từ Hán Việt nặng thì kéo lại cho mộc;
+   - **đúng giọng văn của truyện**: soát theo các quy luật riêng trong `style.md` (ví dụ độ hiện đại, độ trẻ của giọng văn). Câu nào lệch thì viết lại.
 3. Kiểm tra các thay đổi context mà panel trước đã làm, trong `style.md` và `characters.md`. Bỏ hoặc sửa mục sai hay trùng ý. Mục nào trùng ý với `.agents/skills/novel-translate/natural-vietnamese.md` thì bỏ, chỉ giữ quy luật riêng của truyện.
 4. Giữ nguyên số đoạn, dòng tiêu đề, dòng ảnh, dấu phân cách. Không đổi thuật ngữ hay cặp xưng hô đã chốt, nếu cần đổi thì ghi vào mục "Đề xuất" của báo cáo.
 5. Chạy `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ __A__-__B__` cho tới khi hết `[LỖI]`.

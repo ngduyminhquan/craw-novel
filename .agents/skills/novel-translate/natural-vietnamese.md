@@ -20,9 +20,10 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
 5. **Lạm dụng gạch ngang "—".** Raw tiếng Anh dùng em dash dày đặc, tiếng Việt thì ít. Thay bằng dấu phẩy, hai chấm, ba chấm hoặc tách câu. Chỉ giữ "—" khi lời nói bị ngắt ngang đột ngột, hoặc cần một quãng ngắt mạnh có chủ ý. Nếu `rules.md` của truyện có quy định riêng về dấu câu thì theo `rules.md`.
 6. **Đại từ và sở hữu thừa.** Tiếng Việt hay lược chủ ngữ. Không lặp "tôi", "nó", "anh ta" ở đầu mỗi vế. Bớt "của tôi", "của mình" khi ngữ cảnh đã rõ.
    - "Tôi rút thanh kiếm của tôi ra, rồi tôi lao lên" → "Tôi rút kiếm, lao lên".
-7. **Từ nối dịch máy.** Không mở câu liên tục bằng "Tuy nhiên", "Dẫu vậy", "Ngoài ra", "Trên thực tế", "Nói cách khác", "Thêm vào đó". Đổi sang "Nhưng", "Có điều", "Vả lại", "Mà", "Thật ra", hoặc bỏ hẳn khi mạch văn đã tự nối.
+7. **Từ nối dịch máy.** Không mở câu liên tục bằng "Tuy nhiên", "Dẫu vậy", "Ngoài ra", "Trên thực tế", "Nói cách khác", "Thêm vào đó". Đổi sang "Nhưng", "Có điều", "Vả lại", "Mà", "Thật ra", hoặc bỏ hẳn khi mạch văn đã tự nối. Cũng không dịch rập khuôn "With that in mind", "Keeping that in mind" thành "Với ý nghĩ đó trong đầu", "Khắc ghi điều đó": dùng "Nghĩ vậy" hoặc bỏ.
 8. **Cụm sáo, khuôn văn bản.** "người ta hẳn có thể hiểu được tại sao", "điểm mấu chốt ở đây là", "xét trên mọi phương diện", "một cách + tính từ", "đóng vai trò quan trọng trong việc"... thì thay bằng lối nói gọn, có hồn hơn.
    - "Anh ta di chuyển một cách nhanh chóng" → "Anh ta lướt đi rất nhanh".
+   - Cụm dịch sát chữ tiếng Anh: "[danh từ] nói trên" (said X), "lời tuyên bố" cho "statement" trong hội thoại, "người tiền nhiệm" cho đồ vật ("thanh kiếm cũ"), "nhận ra sự tồn tại của" (notice), "ý tôi muốn nói ở đây là" (what I'm getting at), "giờ cậu nhắc tới thì" (now that you mention it → "Nói mới nhớ"), "nói trước tương lai" (getting ahead of myself → "hơi vội rồi"), "chất lượng cuộc sống" cho "quality of life" khi ý là tiện hơn, đỡ cực hơn.
 9. **Hư từ thừa.** Bớt "đã", "đang", "sẽ", "rồi", "những", "các", "một" khi không cần đánh dấu thì hay số.
    - "Tôi đã nhìn thấy một con chim đang bay" → "Tôi thấy một con chim bay qua".
 10. **Lời thoại phải như người thật nói.** Câu ngắn, dùng tiểu từ (nhỉ, nhé, đấy, chứ, mà, cơ, thôi, hả), không viết như văn bản hành chính. Giữ giọng riêng của từng nhân vật theo `style.md` và `characters.md`: người thô lỗ thì nói cộc, người lớn tuổi nói chậm rãi, trẻ con nói ngây ngô.
@@ -33,3 +34,4 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
 12. **Nhịp câu.** Câu dài nhiều mệnh đề thì tách ra. Nhiều câu cụt liền nhau thì gộp lại. Đọc thầm cả đoạn: chỗ nào vấp thì viết lại.
 13. **Câu đùa phải giữ được duyên.** Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng hài. Vẫn không được thêm ý mới.
 14. **Đừng sửa quá tay.** Tự nhiên không có nghĩa là hoa mỹ. Không thêm cảm xúc hay hình ảnh mà raw không có. Không chêm từ Hán Việt nặng hay thành ngữ cầu kỳ chỉ để câu "văn" hơn.
+15. **Gợi ý dịch trong `rules.md` hay `glossary.md` là phương án tham khảo.** Với cách nói thông thường (không phải tên riêng hay thuật ngữ), chọn theo ngữ cảnh câu, không lắp nguyên cụm gợi ý vào chỗ nào cũng giống nhau.
