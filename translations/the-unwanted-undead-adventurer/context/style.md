@@ -38,6 +38,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 12. **Liên kết tâm trí với Edel và tính cách quyến thuộc (#51–52).** Edel tuy là chuột quyến thuộc nhưng có cái tôi và chính kiến rất lớn (bướng bỉnh, háu ăn, biết dậm chân phản đối, dựng lông bất mãn). Liên kết tâm trí truyền cảm xúc và suy nghĩ trực tiếp sang Rentt; Rentt đối thoại nội tâm với con chuột như một cộng sự ngang ngạnh, bình đẳng, không áp đặt kiểu chủ tớ máy móc.
 13. **Độc thoại phân tích kinh tế mạo hiểm của Rentt (#55).** Rentt là mạo hiểm giả kỳ cựu nghèo khó, nên khi thu chiến lợi phẩm (xác quái vật, thảo dược quý), độc thoại luôn tính toán chi li và thực tế (chi phí thuê ma cụ, chia nguồn bán cho tiệm hoa và tiệm thuốc để tối ưu lợi nhuận), nhưng luôn biết điểm dừng và kiềm chế, không tham lam vô độ; giọng kể điềm đạm, tỉnh táo pha chút tự trào.
 14. **Giọng Isaac Hart (#56).** Quản gia phục vụ nhân vật quyền thế; tác phong mực thước, lịch thiệp chuẩn phong thái gia nhân quý tộc; lời thoại luôn giữ lễ độ, tôn trọng đối phương ("ngài / thưa quý ngài"), không xem nhẹ thứ hạng mạo hiểm giả mà trọng thực lực thực tế.
+15. **Giọng người đánh xe (#57).** Người lao động bình dân, xởi lởi, bộc trực, thích bông đùa nhưng biết nể phục thực lực ("cậu - tôi", gọi "cậu"); dùng khẩu ngữ dân dã, tự nhiên, không trịnh trọng màu mè.
 
 ## Từ cảm thán / cách nói cố định
 
