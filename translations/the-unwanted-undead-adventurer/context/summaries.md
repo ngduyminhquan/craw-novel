@@ -1527,6 +1527,14 @@ Nhờ cơ thể phi nhân loại dẻo dai phi thường, Rentt ngửa rạp ng�
 Trên khán đài, Spriggan và Lorraine đàm đạo về cơ chế dị năng; Spriggan tiết lộ Vaasa hồi nhỏ từng tạo ra muối nhưng do ám thị nhận thức nên hiện chỉ tạo và thu hồi được vũ khí kim loại (Cường Thiết).
 Cảnh kết thúc: Dưới sàn đấu, Rentt xoay ngược cổ chứng minh cơ thể dị thường và chất vấn Vaasa về giới hạn dị năng Cường Thiết; Rentt chiêm nghiệm rằng dù sở hữu sức mạnh nào thì việc khổ luyện vẫn là yếu tố quyết định.
 
+## 259
+Trận đấu tiếp diễn: Rentt dùng kiếm thuật thực thụ áp sát, né giáo rồi mượn đà trồng cây chuối đá văng mũi giáo của Vaasa; Vaasa biến giáp ngực kim loại thành cơn mưa tên bắn chặn buộc Rentt liều mình lao vào đỡ tên để chém đứt đầu ngọn giáo của đối thủ.
+Vaasa dùng dị năng tái tạo mũi giáo và chuyển sang lối đánh côn kiềm chế; trước những đường kiếm ở góc độ phi nhân loại cùng thể lực vô tận của Undead, Vaasa dần kiệt sức và liều mạng phóng mũi giáo găm thẳng vào bụng Rentt.
+Không hề nao núng trước vết thương ở bụng, Rentt tiến tới dùng bản kiếm giáng thẳng vào đầu đánh ngất Vaasa, ấn định chiến thắng thuyết phục.
+Trên khán đài (chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine), Fuana bàng hoàng hoang mang trước sức chống chịu quái dị của Rentt; Spriggan vác Vaasa lên khán đài và Rentt vạch trần việc Spriggan đã mượn tay mình để dạy cho thuộc cấp hiếu thắng một bài học.
+Cảnh kết thúc: Rentt và Spriggan chốt xong kết quả trận đầu, Lorraine sẵn sàng nghênh chiến trong khi Fuana run rẩy, bất an chuẩn bị bước vào trận đấu ma pháp tiếp theo.
+
+
 
 
 

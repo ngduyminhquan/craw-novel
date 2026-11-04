@@ -263,7 +263,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | reviewed |  |
 | 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | reviewed |  |
 | 258 |  | Chapter_258 - Vol 11 Chapter 3 - The Organization (3).txt | Vol 11 Chapter 3 - The Organization (3) | reviewed |  |
-| 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | todo |  |
+| 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | done |  |
 | 260 |  | Chapter_260 - Vol 11 Chapter 3 - The Organization (5).txt | Vol 11 Chapter 3 - The Organization (5) | todo |  |
 | 261 |  | Chapter_261 - Vol 11 Chapter 3 - The Organization (6).txt | Vol 11 Chapter 3 - The Organization (6) | todo |  |
 | 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | todo |  |
