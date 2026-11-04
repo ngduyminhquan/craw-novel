@@ -41,6 +41,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 15. **Giọng Norman Hanel (#59).** Dược sư nhân hậu, chất phác, hào hứng và xởi lởi; ăn nói nhiệt thành, giàu lòng trắc ẩn với người bệnh nghèo; khi giao tiếp với mạo hiểm giả (Rentt) xưng "tôi", gọi "anh / anh Rentt", rất tự tin vào vốn kiến thức thảo dược và y thuật của mình nhưng chân thành và biết ơn, không màu mè khách sáo.
 16. **Giọng chữa cháy tâng bốc của Rentt (#60).** Khi bị dồn vào thế bí trước cơn giận của Lorraine, Rentt cuống cuồng xổ ra tràng khen ngợi khoa trương học lỏm từ kịch nghệ nhưng bị ngắt quãng từng chặp vì tật phát âm thời Ngạ Quỷ; giữ nguyên nét vụng về, nịnh nọt chữa cháy hài hước và ngô nghê, không biến thành tán tỉnh sành sỏi.
 17. **Giọng Laura Latuule (#62).** Đương chủ Gia tộc Latuule mang hình hài thiếu nữ 12–13 tuổi; phong thái tao nhã, điềm đạm, mực thước quý phái nhưng hòa nhã, tự nhiên; xưng "tôi", gọi "ngài / ngài Vivie"; có nét dí dỏm, châm biếm nhẹ nhàng, không kiểu cách trịch thượng, không dùng từ suồng sã.
+18. **Lời dặn của Lorraine trong hồi ức của Rentt (#66).** Mang giọng học giả phân tích cặn kẽ, pha chút trêu chọc và giảng bài thực dụng ("Nghe này, Rentt... Chà, anh tưởng đơn giản thế thôi hả Rentt..."); Rentt tiếp nhận bằng thái độ nể phục thực tế xen lẫn tự giễu hài hước khi lý thuyết sách vở trớ trêu thay lại bất lực trước tình huống quái đản thực tế.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -70,6 +71,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
 - (64) Laura Latuule chính thức lộ diện là đương chủ Gia tộc Latuule; cuộc đối thoại giữa Rentt và Laura làm rõ cơ chế ủy thác thiện nguyện một đồng xu đồng và tâm lý hướng thiện giữ gìn nhân tính của mạo hiểm giả.
 - (65) Độc thoại nội tâm giằng xé giữa "phần người lớn" thực tế và "đứa trẻ" hiếu kỳ bên trong Rentt trước mô hình phi thuyền; Laura giới thiệu kho ma cụ đồ sộ và tính năng kết nối ý thức trinh sát của chiếc phi thuyền nguyên mẫu mê cung.
+- (66) Rentt vô tình kích hoạt con Golem thảm họa tự hấp thụ ma cụ trong tầng hầm; hồi ức về lời dặn của Lorraine vừa mang tính học thuật vừa tự giễu khi thực tế lệch với sách vở; Laura thể hiện phong thái đương chủ gia tộc vừa lịch thiệp vừa giàu có áp đảo qua dàn gia nhân dọn dẹp bằng ma cụ.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.

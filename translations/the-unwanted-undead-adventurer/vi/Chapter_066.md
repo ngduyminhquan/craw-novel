@@ -1,191 +1,191 @@
 # Chương 66: Tập 3 Chương 2 - Và Một Ủy Thác Kỳ Lạ Không Kém (6)
 
-"...Có vẻ như. Nơi này chẳng có gì ngoài... Đống linh kiện phế thải trong. Khu vực này của căn phòng," tôi lẩm bẩm một mình trong lúc tiếp tục rảo bước quanh tầng hầm của gia tộc Latuule.
+"...Có vẻ như. Chỗ này chẳng có gì ngoài... đống linh kiện phế thải trong. Góc phòng này," tôi lẩm bẩm một mình khi tiếp tục rảo quanh tầng hầm của gia tộc Latuule.
 
-Dừng chân tại một góc phòng, tôi đưa tay chạm vào vài món đồ nằm rải rác vì tò mò về công dụng của chúng. Laura lập tức hoảng hốt, cố gắng ngăn tôi lại.
+Dừng lại nơi góc phòng, thấy mấy món đồ nằm lăn lóc, tôi tò mò muốn biết công dụng nên đưa tay sờ thử. Laura lập tức cuống cuồng tìm cách cản tôi lại.
 
-"A! Đừng, ngài không được chạm vào thứ đó!"
+"A! Đừng, ngài đừng chạm vào thứ đó!"
 
-Đáng tiếc là lời cảnh báo của cô bé đã chậm mất một nhịp. Tay tôi đã kịp chạm vào chân của một thứ trông như đống linh kiện phế liệu khổng lồ. Chưa kịp định thần, những bộ phận màu xám xịt lúc trước bỗng phát ra ánh sáng lung linh rực rỡ sắc màu.
+Ngặt nỗi lời cảnh báo của cô bé đã chậm mất một nhịp. Tay tôi đã chạm trúng chân của thứ trông như một đống phế liệu khổng lồ. Chưa kịp định thần, những bộ phận xám xịt ban nãy bỗng lóe lên ánh sáng ngũ sắc rực rỡ.
 
-Nhìn kỹ lại, thứ tôi vừa chạm vào là một loại Ma Tinh. Ma Lực bên trong nó trước đó đã cạn kiệt hoàn toàn và mất đi độ bóng bẩy. Thế nhưng chỉ với một cái chạm nhẹ của bàn tay, viên Ma Tinh dường như đã phục hồi đủ năng lượng và đang phát ra ánh sáng mờ ảo.
+Nhìn kỹ lại thì ra tôi vừa chạm vào một loại Ma Tinh. Ma Lực bên trong nó trước đó đã cạn sạch, bề mặt cũng mờ xỉn đi. Thế nhưng chỉ sau một cái quẹt tay, viên đá dường như đã nạp lại đủ năng lượng và bắt đầu tỏa sáng lờ mờ.
 
-Tôi không hiểu tại sao chuyện này lại đáng phải báo động, bởi những hiện tượng như vậy vốn hết sức bình thường đối với ma cụ. Nhưng có vẻ như Laura không hề nghĩ giống tôi.
+Tôi chẳng hiểu sao việc này lại đáng cuống lên đến thế, bởi với ma cụ thì hiện tượng như vậy xảy ra như cơm bữa. Nhưng Laura có vẻ không nghĩ giống tôi.
 
-"Ngài Vivie... Xin hãy cố hết sức cầm cự một lát! Tôi sẽ đi tìm công tắc ngắt khẩn cấp ngay đây. Nó nhất định phải ở đâu đó quanh đây! Nhanh lên nào!"
+"Ngài Vivie... Xin ngài ráng cầm cự một lát! Tôi sẽ đi tìm cơ chế tắt khẩn cấp ngay đây. Nó chắc chắn ở đâu đó quanh đây thôi! Nhanh lên nào!"
 
-Cô bé hớt hải chạy đôn chạy đáo khắp nơi, cuống cuồng tìm kiếm thứ gì đó. Trong nỗi hoang mang, tôi toan bước lại gần Laura nhưng trán đập ngay vào một vật cản vô hình nào đó. Tôi khựng bước lại.
+Cô bé hớt hải chạy đôn chạy đáo, cuống cuồng tìm kiếm thứ gì đó. Chưa hiểu chuyện gì, tôi toan bước lại gần Laura thì trán cụng ngay vào một chướng ngại vô hình. Tôi khựng người lại.
 
 "Đây là..."
 
-Tôi nheo mắt quan sát khoảng không gian trước mặt. Dù trong suốt, nó vẫn tỏa ra ánh hào quang ma thuật lờ mờ—một bức tường vô hình được tạo nên từ ma thuật và Ma Lực. Các ma pháp sư thường dùng những câu chú như vậy để tự bảo vệ mình, tương tự như ma pháp Khiên Chắn mà tôi thường hay sử dụng. Loại ma pháp này có rất nhiều tên gọi, thường tùy thuộc vào quy mô và hình dáng của bức tường bao quanh.
+Tôi nheo mắt nhìn khoảng không trước mặt. Tuy trong suốt, nó vẫn tỏa ra ánh ma thuật nhàn nhạt—một bức tường vô hình dệt nên từ ma thuật và Ma Lực. Các ma pháp sư thường dùng những ma pháp kiểu này để tự bảo vệ, tương tự như ma pháp Khiên Chắn tôi hay dùng. Dạng ma pháp này có rất nhiều tên gọi, thường tùy thuộc vào quy mô và hình dáng của bức tường.
 
-Lấy một hòn đá nhỏ từ chiếc túi ma thuật ra, tôi ném mạnh một cái, nhưng nó chỉ nảy tanh tách giữa không trung rồi bật ngược trở lại sau khi va vào lớp màn chắn. Dựa theo quỹ đạo rơi, lớp màn chắn này có lẽ rộng chừng bảy tám mét và mang hình dáng mái vòm. Có vẻ như tôi đã bị nhốt kín bên trong.
+Rút một hòn đá nhỏ từ túi ma thuật, tôi vung tay ném thử, nhưng hòn đá chỉ nảy tưng giữa không trung rồi dội ngược lại khi đập vào lớp chắn. Nhìn theo đường bay của nó, lớp chắn này hẳn rộng chừng bảy tám mét và có dạng mái vòm. Xem chừng tôi đã bị nhốt chặt bên trong.
 
-Nhưng bản thân chuyện đó cũng chưa hẳn là vấn đề to tát. Nếu lớp màn chắn này xuất hiện vì ban nãy tôi chạm vào viên Ma Tinh, thì nó sẽ tự động biến mất ngay khi Ma Lực trong thiết bị cạn kiệt. Dẫu vậy, nhìn nét mặt hoảng loạn của Laura, tôi nhận ra sự việc nghiêm trọng hơn nhiều so với một sự cố ngớ ngẩn thông thường. Thực tế là...
+Nhưng tự thân chuyện đó cũng chưa hẳn là vấn đề to tát. Nếu lớp chắn xuất hiện do tôi chạm vào viên Ma Tinh, thì chỉ cần Ma Lực trong thiết bị cạn sạch là nó sẽ biến mất. Song nhìn nét mặt hoảng hốt của Laura, tôi nhận ra sự việc gay go hơn một tai nạn ngớ ngẩn nhiều. Quả thực...
 
-"...Này. Cái... Cái gì thế kia?!"
+"...Này. Cái... cái gì thế kia?!"
 
-Viên Ma Tinh mà tôi vô tình chạm phải lúc nãy giờ đây đã gom tụ một đống đồ vật xung quanh nó; những vật thể ấy đang cựa quậy và đập rộn ràng như thể có sinh mệnh riêng. Chúng tự sắp xếp lại vị trí chỗ này chỗ kia, chẳng mấy chốc đã tạo nên một hình khối lớn hơn và hoàn chỉnh hơn. Nhìn bóng dáng tổng thể của nó, tôi hiểu rằng thứ vừa hình thành ít nhất cũng phải gọi là... đồ sộ.
+Viên Ma Tinh tôi lỡ tay chạm vào ban nãy giờ đã hút cả đống đồ vật xung quanh lại; chúng rục rịch và phập phồng như thể có sinh mệnh riêng. Mấy món đồ tự chuyển dịch, sắp xếp lại chỗ này chỗ kia, chẳng mấy chốc đã ráp thành một khối lớn hơn và rõ hình thù hơn. Nhìn vóc dáng tổng thể, tôi hiểu thứ vừa thành hình... nói nhẹ nhất thì cũng phải vào hàng đồ sộ.
 
 "...Một... Golem sao?!"
 
-Golem là một loại rối ma thuật được sinh ra từ các kỹ thuật ma pháp hoặc thuật giả kim. Chúng vận hành nhờ Ma Lực và có khả năng hoạt động độc lập ngay cả khi tách rời khỏi người tạo ra mình. Nhờ những đặc tính này, Golem có thể được triển khai theo nhiều phương thức khác nhau và đảm nhiệm đủ loại nhiệm vụ. Đáng tiếc là các bộ phận cần thiết để chế tạo Golem nhìn chung rất đắt đỏ, và có rất ít nhà giả kim đủ năng lực chế tạo ra những Golem chuyên biệt cho từng mục đích cụ thể. Dù vậy, người ta vẫn có thể bắt gặp Golem ở một vài nơi trên đại lục, và đôi khi chúng xuất hiện dưới dạng kẻ thù trong một số mê cung nhất định. Đối với hầu hết mạo hiểm giả, chúng là hình ảnh tương đối quen thuộc.
+Golem vốn là một dạng rối ma thuật sinh ra từ ma pháp hoặc thuật giả kim. Chúng vận hành bằng Ma Lực và có thể tự hành động kể cả khi tách rời người chế tạo. Nhờ đặc tính đó, Golem được ứng dụng theo nhiều cách và đảm nhiệm đủ loại công việc. Ngặt nỗi linh kiện để làm Golem nhìn chung rất đắt đỏ, và hiếm có nhà giả kim nào đủ sức tạo ra những con Golem tùy biến cho từng nhiệm vụ riêng biệt. Dẫu vậy, thỉnh thoảng người ta vẫn thấy Golem ở vài nơi, và đôi khi chúng còn xuất hiện dưới dạng kẻ địch trong một số mê cung. Với đa số mạo hiểm giả, Golem chẳng phải thứ gì xa lạ.
 
-Tuy nhiên trong những trường hợp đó, Golem thường được tạo nên từ đất đá và được ban sự sống bởi ma pháp nguyên thủy. Những con Golem nguyên thủy này chiếm hơn một nửa số Golem mà mạo hiểm giả chạm trán trong các mê cung. Golem cấu thành từ những bộ phận tinh xảo không bao giờ xuất hiện ở các mê cung ít thử thách. Golem làm bằng sắt hoặc thép quả thực có tồn tại, và trong vài trường hợp hy hữu, có nhân chứng kể lại rằng họ từng thấy những sinh thể tương tự nhưng được đúc bằng vàng hoặc Mithril. Người ta sẽ kiếm được cả một gia tài nhỏ nếu hạ gục thành công một con Golem như thế, dẫu không thể bỏ qua thực tế rằng đó là một kẻ thù vô cùng đáng sợ.
+Tuy nhiên trong những trường hợp đó, Golem thường làm bằng đất đá, được ma pháp nguyên thủy thổi vào sự sống. Loại Golem nguyên thủy này chiếm hơn nửa số Golem mà mạo hiểm giả đụng độ trong mê cung. Golem ghép từ linh kiện tinh xảo không bao giờ xuất hiện ở các mê cung cấp thấp. Golem bằng sắt hay thép quả thực có tồn tại, và họa hoằn lắm mới có người tận mắt thấy những con làm bằng vàng hoặc Mithril. Đánh bại được một con Golem như thế thì vớ bẫm, dẫu không thể phủ nhận nó là đối thủ cực kỳ đáng gờm.
 
-Bản thân tôi hoàn toàn không đủ sức để đánh bại một con Golem như vậy. Thế thì, tôi biết phải làm sao trước sinh thể đang sừng sững trước mặt mình đây?
+Bản thân tôi hoàn toàn không đủ sức hạ một con Golem như thế. Huống hồ, thứ đang sừng sững trước mặt tôi lúc này biết tính sao đây?
 
-Không còn nghi ngờ gì nữa, xét theo các bộ phận và vẻ ngoài tổng thể thì đây là một con Golem thảm họa cấp độ cao. Dù trước đó tôi cứ đinh ninh nó được ghép lại từ đống phế liệu, nhưng tôi đã lầm to. Những linh kiện cấu thành nên thân thể nó chẳng phải thứ gì khác ngoài vô số món ma cụ khác nhau mà Laura đã thu thập. Một loại đất cát kỳ lạ lấp đầy các khe hở trên cơ thể nó—tôi từng nghĩ là vậy.
+Nhìn linh kiện và diện mạo tổng thể, không còn nghi ngờ gì nữa, đây là một con Golem thảm họa cấp cao. Cứ tưởng nó ghép từ đống phế liệu, ai ngờ tôi lầm to. Các bộ phận làm nên thân thể nó chính là vô số món ma cụ mà Laura đã dày công sưu tập. Giữa các khe hở được lấp đầy bằng một loại đất cát kỳ lạ—ít ra tôi từng nghĩ thế.
 
-Nhưng thực tế lại không phải thế, xét việc nơi này vốn là kho chứa chuyên dụng dành cho ma cụ. Do đó, thứ vật chất bí ẩn này chẳng phải đất đá hay cát bụi, mà là một loại vật liệu đặc biệt được cường hóa bởi một loại ma pháp bí ẩn nào đó.
+Nhưng làm gì có chuyện đó, bởi nơi này vốn là gian phòng chuyên chứa ma cụ. Thành thử thứ vật chất bí ẩn kia chẳng phải đất đá hay cát bụi, mà là một loại vật liệu đặc biệt được yểm thứ ma pháp chưa rõ.
 
-Tôi phải hết sức cẩn trọng với con Golem này, bởi chỉ một sơ suất nhỏ thôi cũng đủ đoạt mạng.
+Tôi phải hết sức dè chừng con Golem này, bởi chỉ cần sơ sẩy một nước là mất mạng như chơi.
 
-Sau một tiếng va chạm kim loại đanh gọn cuối cùng, căn phòng chìm vào tĩnh lặng. Có vẻ như con Golem đã hoàn tất quá trình chuẩn bị. Giờ đây nó khó lòng có thể gọi là một đống phế liệu gom góp lại, mà là một vũ khí hình người khổng lồ, trang bị tận răng bằng đủ loại ma cụ với muôn vàn hình dáng kích cỡ. Cánh tay nó được gắn vài cỗ pháo ma thuật—gọi là Canon Douramage. Khuôn mặt nó, nếu có thể coi đó là một khuôn mặt, cũng được tạo dựng theo cách tương tự, dẫu gắn thêm vài khẩu súng trường ma thuật nòng nhỏ hơn, thường được biết đến với cái tên Fuyuj Douramage. Cả hai món vũ khí này đều có khả năng bắn ra những viên đạn cường hóa ma pháp từ nòng súng, gọi là Bal. Những viên đạn này cho phép người sử dụng thi triển ma pháp tức thời. Dù loại công cụ này có cả phiên bản cổ đại lẫn đương đại, nhưng những thứ gắn trên con Golem rõ ràng là thuộc dòng hiện đại.
+Sau một tiếng keng đanh gọn sau cùng, căn phòng lặng ngắt. Dường như con Golem đã lắp ráp xong xuôi. Giờ đây nó đâu còn là một đống phế liệu gom góp, mà đã hóa thành thứ vũ khí hình người đồ sộ, vũ trang tận răng bằng đủ loại ma cụ lớn nhỏ. Cánh tay nó gắn mấy cỗ pháo ma thuật—gọi là Canon Douramage. Khuôn mặt, nếu thứ đó gọi được là mặt, cũng cấu tạo tương tự nhưng gắn mấy khẩu súng trường ma thuật nòng mảnh hơn, vốn gọi là Fuyuj Douramage. Cả hai đều có thể bắn đạn yểm ma pháp từ nòng súng, gọi là Bal. Loại đạn này cho phép thi triển ma pháp ngay tức khắc. Dù loại ma cụ này có cả bản cổ đại lẫn bản thời nay, nhưng mấy món trên người con Golem chắc chắn thuộc dòng hiện đại.
 
-Chưa dừng lại ở đó, hai bàn tay nó còn được trang bị đủ loại kiếm và dao găm—có lẽ là những chiếc móng vuốt chắp vá. Nó thực sự được vũ trang tới tận răng. Tệ hơn nữa, không một món vũ khí nào trong số này là đồ tầm thường. Bản thân chúng đều là những ma cụ đã được yểm ma pháp.
+Chưa hết, bàn tay nó còn gắn đủ loại gươm với dao găm—chắc để làm móng vuốt tạm bợ. Đúng nghĩa là vũ trang đến tận răng. Tệ hơn nữa, chẳng có món nào trong số đó là vũ khí tầm thường. Bản thân chúng đều là ma cụ đã được yểm phép.
 
-Nếu có thứ gì được coi là hiện thân của bạo lực, thì ắt hẳn nó cũng phải có giới hạn, nhưng con Golem này lại chẳng màng đoái hoài đến những giới hạn ấy.
+Cứ cho là hiện thân của bạo lực thì cũng phải có chừng mực, đằng này con Golem lại chẳng thèm đếm xỉa đến bất kỳ giới hạn nào.
 
-Tôi đoán đây là lý do khiến ban nãy Laura lại hoảng sợ đến vậy; nếu có quyền lựa chọn, tôi sẽ co giò bỏ chạy ngay lập tức. Tuy nhiên lớp màn chắn lại ngăn không cho tôi làm điều đó. Tất cả những gì tôi có thể làm lúc này là chạy vòng quanh thu hút sự chú ý của con quái vật trong lúc Laura tìm kiếm công tắc ngắt khẩn cấp của nó. Với tình cảnh hiện tại, tôi chẳng thể làm gì khác hơn được nữa.
+Bảo sao ban nãy Laura lại hoảng đến thế; nếu được chọn, tôi cũng co giò chạy biến cho xong. Khổ nỗi lớp màn chắn lại chặn tiệt đường. Giờ tôi chỉ biết chạy vòng quanh thu hút sự chú ý của con quái vật trong lúc Laura đi tìm cơ chế tắt khẩn cấp. Ở tình cảnh này, tôi cũng chẳng còn cách nào khác.
 
 "GRRRAAAAAAGHHH!!!"
 
-Nó thậm chí còn được trang bị cơ chế mô phỏng hoàn hảo tiếng gầm của một con đại quái vật, có lẽ là nhằm đe dọa kẻ thù.
+Nó thậm chí còn gắn cả cơ chế giả tiếng gầm y hệt một con đại quái vật, chắc để dằn mặt kẻ thù.
 
-Tôi thực ra chẳng hề cảm thấy sợ hãi chút nào, nhưng lại không biết mình nên làm gì tiếp theo. Con Golem dường như chẳng buồn bận tâm xem tôi có đang bị tình thế áp đảo hay không; với vài bước chân rung chuyển đất trời, nó sấn tới và ánh mắt hai bên lập tức chạm nhau.
+Tôi thì chẳng sợ hãi gì cho cam, ngặt nỗi lại chưa biết phải làm gì tiếp. Con Golem dường như chẳng hơi đâu bận tâm xem tôi có đang lúng túng hay không; nó bước mấy bước nặng như sấm động, rồi hai bên lập tức chạm mắt nhau.
 
-Thân hình đồ sộ của con Golem dường như chẳng hề làm nó chậm lại, và trước khi tôi kịp nhận ra, một nắm đấm đã vung mạnh về phía tôi theo một đường vòng cung dữ dội. Tôi vội vàng nhảy sang một bên, suýt soát né được đòn đánh. Nắm đấm của con Golem nện thẳng xuống vị trí tôi vừa đứng cách đó một giây, nghiền nát những viên gạch lát sàn dưới sức nặng kinh hoàng từ cú đấm.
+Thân hình kềnh càng dường như chẳng làm con Golem chậm đi chút nào. Chưa kịp chớp mắt, một nắm đấm đã quét ngang về phía tôi đầy hung hãn. Tôi vội phóng sang bên, né đòn trong gang tấc. Nắm đấm nện ầm xuống đúng chỗ tôi vừa đứng ban nãy, nghiền nát gạch lát sàn dưới sức nặng kinh hoàng.
 
-"Nếu bị trúng... Đòn đó. Ngay cả mình..."
+"Dính phải... đòn đó. Đến tôi cũng..."
 
-Dù tôi từng hy vọng bản chất Undead của mình có thể phát huy tác dụng trong cuộc chạm trán này, nhưng tôi chưa từng nghe nói đến việc một Undead có thể sống lại sau khi bị băm thành từng mảnh vụn. Ma Cà Rồng có khả năng thực hiện những bí thuật như vậy, nhưng đáng tiếc là vào thời điểm hiện tại tôi vẫn chưa rõ về chúng. Dù thế nào đi nữa, tôi cũng chẳng hề muốn đánh cược mạng sống vào một kỹ thuật mà mình còn chưa biết rõ.
+Dù từng mong bản chất Undead sẽ phát huy tác dụng trong trận này, nhưng tôi chưa từng nghe nói có Undead nào bị băm nát bấy mà vẫn sống lại được. Ma Cà Rồng thì làm được trò đó, hiềm nỗi lúc này tôi chưa rành bí thuật ấy. Đằng nào thì tôi cũng chẳng dại gì dựa dẫm vào một kỹ thuật mình còn mù tịt.
 
-"Ngài Vivie! Tôi sẽ tìm ra nó trong vòng khoảng ba phút nữa thôi! Xin hãy cố cầm cự! Isaac! Anh có nhớ nó ở đâu không?"
+"Ngài Vivie! Tầm ba phút nữa là tôi tìm ra thôi! Xin ngài cố cầm cự nhé! Isaac! Anh có nhớ nó ở đâu không?"
 
-"Thật đáng tiếc là tôi không nhớ, thưa tiểu thư. Nó hẳn phải ở đâu đó quanh khu vực này..."
+"Tiếc là tôi không nhớ, thưa tiểu thư. Chắc nó nằm đâu đó quanh khu này..."
 
-Giọng nói có thể truyền qua lớp màn chắn này, và từ những gì Isaac cùng Laura nói, có vẻ như thiết bị tối quan trọng kia vẫn chưa rơi vào tay họ. Trong khoảng thời gian đó, tôi sẽ phải tiếp tục né tránh các đòn tấn công của con Golem.
+Âm thanh vẫn lọt qua được lớp màn chắn, và nghe hai người nói thì có vẻ món thiết bị sống còn kia họ vẫn chưa tìm ra. Trong lúc đó, tôi đành phải tiếp tục né đòn của con Golem.
 
-Ngoài nắm đấm và thân hình to lớn của nó ra, tôi còn có nhiều mối bận tâm khác nữa. Nếu bất cẩn, tôi hoàn toàn có thể bị nó giẫm bẹp dí. Tệ hơn nữa, giờ đây nó đang nổ súng và pháo ma thuật, nã đủ mọi loại ma pháp về phía tôi.
+Đâu chỉ có nắm đấm với thân hình hộ pháp của nó, tôi còn khối thứ phải lo. Sơ sẩy một cái là bị nó giẫm bẹp dí ngay. Đã thế, giờ nó còn nổ cả súng lẫn pháo ma thuật, nã đủ thứ ma pháp về phía tôi.
 
-May mắn thay, những món ma cụ đó dường như không được chế tạo quá tốt, bởi độ chính xác lẫn uy lực của chúng đều thấp đến mức thảm hại. Dẫu vậy, nếu bất kỳ ma pháp nào trong số đó bắn trúng một mục tiêu kích cỡ con người như tôi, hậu quả chắc chắn sẽ là mất mạng. Tôi tuyệt đối không được phép lơ là cảnh giác.
+May là mấy món ma cụ đó chế tạo không được xịn cho lắm, độ chính xác lẫn uy lực đều thấp thảm hại. Dù vậy, chỉ cần một phát bắn trúng mục tiêu cỡ người như tôi thì chắc chắn mất mạng. Tôi chẳng dám lơ là nửa bước.
 
-"...Khốn. Thật. Liệu có... Cách nào không..."
+"...Khốn. Thật. Có... cách nào..."
 
-Chừng nào còn thể lực thì tôi vẫn có thể tiếp tục luồn lách né tránh, nhưng rồi sự tập trung của tôi sớm muộn gì cũng sẽ suy giảm.
+Còn sức thì tôi vẫn luồn lách né được, nhưng sớm muộn gì sự tập trung cũng sẽ giảm sút.
 
-Mình có thể làm gì để giảm tốc độ của nó không? Gây tổn hại cho nó bằng cách nào đó chẳng hạn...? Nghĩ lại thì...
+Liệu có cách nào kìm chân nó lại không? Đánh cho nó sứt mẻ chỗ nào chẳng hạn...? Mà nghĩ lại thì...
 
-Lorraine vốn được xem như một chuyên gia về Golem nhờ thân phận là một nhà giả kim và những nghiên cứu của cô. Nếu nhớ không lầm, Lorraine từng nói điều gì đó đại loại như...
+Là nhà giả kim nên Lorraine khá rành về Golem. Nếu nhớ không lầm, cô ấy từng bảo đại ý rằng...
 
-"Hãy nghe này, Rentt. Mọi Golem đều có một ký tự khắc trên trán, một vài chữ cái huyền bí tượng trưng cho 'chân lý'. Thú vị ở chỗ, ký tự khắc đó chỉ cách một nét là biến thành một từ khác, đó là 'cái chết'. Nếu anh điền thêm nét tương ứng vào, con Golem sẽ lập tức tự hủy. Do đó, nếu sau này có chạm trán một con Golem như vậy, Rentt, hãy nhìn thật kỹ vào trán nó."
+"Nghe này, Rentt. Mọi con Golem đều có ký tự khắc trên trán, vài chữ huyền bí tượng trưng cho 'chân lý'. Thú vị ở chỗ, chỉ cần thêm một nét là ký tự đó sẽ biến thành chữ 'cái chết'. Nếu vạch thêm nét đó vào, con Golem sẽ tự hủy ngay tắp lự. Thế nên sau này lỡ đụng phải Golem, Rentt, nhớ nhìn thật kỹ trán nó."
 
-Phải rồi, Lorraine từng nói điều tương tự như thế... Quả không hổ danh là một học giả, thông tin cô đưa ra thực sự rất hữu ích.
+Phải rồi, Lorraine từng bảo thế thật... Đúng là học giả có khác, kiến thức cô ấy chỉ cho toàn thứ hữu dụng.
 
-Tôi ngước nhìn lên trán con Golem.
+Tôi ngước lên nhìn trán con Golem.
 
-"...Này. Chẳng có... Chữ nào viết. Ở đó cả!"
+"...Này. Chẳng có... chữ nào viết. Ở đó cả!"
 
-Đáp lại lời độc thoại thảm hại của tôi, con Golem lại vung tay thêm một lần nữa, nắm đấm to lớn của nó lao vút về phía tôi. Tôi vốn định né tránh lần nữa, nhưng có thứ gì đó đã lọt vào tầm mắt tôi. Thay cho khớp nối, thứ dường như là một loại ma pháp vô hình nhưng mắt thường có thể nhìn thấy được đang kết nối cánh tay con Golem với thân thể nó. Theo bản năng, tôi làm điều hoàn toàn trái ngược với việc né tránh là bật nhảy lên cao, đâm thẳng thanh kiếm vào những ấn ký ma thuật đang lập lòe phát sáng. Chỉ với một nhát kiếm đơn giản ấy, cánh tay trái của con Golem lập tức rụng rời khỏi cơ thể chính, rơi bất động xuống sàn.
+Đáp lại câu lẩm bẩm tội nghiệp của tôi, con Golem lại vung tay lần nữa, quả đấm bự chảng lao thẳng về phía tôi. Định bụng né tiếp, bỗng có thứ đập vào mắt tôi. Ngay chỗ khớp nối, cánh tay con Golem dường như được gắn kết với thân mình bằng một luồng ma pháp vô thể nhưng mắt thường nhìn thấy được. Thay vì né, tôi làm chuyện hoàn toàn ngược lại theo bản năng: nhảy phắt lên không, đâm thẳng kiếm vào những ấn ký ma thuật đang chập chờn phát sáng. Chỉ một nhát kiếm gọn gàng, cánh tay trái của con Golem lập tức lìa khỏi thân, rớt bịch xuống sàn bất động.
 
-Phải, quả là một vận may bất ngờ.
+Đúng là ăn may thật.
 
-Golem không biết đau đớn và sẽ không thay đổi quỹ đạo chuyển động chỉ vì chịu tổn thương. Dẫu vậy, khi đã mất đi một cánh tay, những đòn tấn công của nó trở nên dễ đoán hơn hẳn.
+Golem không biết đau, cũng chẳng vì thương tích mà đổi đường đi nước bước. Có điều mất đi một tay, đòn đánh của nó thành ra dễ đoán hơn nhiều.
 
-Nếu nó chỉ còn một tay, mình sẽ có thể né các đòn tấn công của nó vô thời hạn...
+Chỉ còn một tay thì mình né bao lâu mà chẳng được...
 
-Thở phào nhẹ nhõm, tôi thoáng thả lỏng người một chút, và đúng vào khoảnh khắc ấy, một lời chỉ bảo khác của Lorraine lại lóe lên trong tâm trí tôi.
+Vừa thở phào thả lỏng được một thoáng thì đúng lúc ấy, một lời dặn khác của Lorraine lại xẹt qua đầu tôi.
 
-"Chà, anh có thể nghĩ mọi chuyện thật đơn giản, Rentt à, nhưng cơ chế như vậy chỉ có tác dụng với Golem cơ bản thôi. Ngay từ đầu, chức năng này vốn được những người thợ thủ công thiết kế nhằm ngăn chặn một con Golem đang nổi điên—một công tắc ngắt khẩn cấp, nếu anh muốn gọi như thế. Tuy nhiên, những Golem chế tạo gần đây thường đi kèm một thiết bị bên ngoài có công dụng tương tự nhưng lại nằm trong một vỏ bọc riêng biệt. Đó là lý do vì sao anh không nên chỉ chăm chăm nhìn vào trán của Golem, Rentt. Thay vào đó, anh phải tìm kiếm xem công tắc ngắt của nó nhiều khả năng được giấu ở vị trí nào. Nếu không tìm được, anh luôn có thể hạ gục nó bằng vũ lực thuần túy..."
+"Chà, anh tưởng đơn giản thế thôi hả Rentt, cơ chế đó chỉ áp dụng được với Golem cơ bản thôi. Vốn dĩ thợ chế tác tạo ra tính năng đó để chặn một con Golem mất kiểm soát—coi như cơ chế tắt khẩn cấp đi. Có điều Golem thời nay hay đi kèm một thiết bị ngoại vi làm nhiệm vụ tương tự nhưng đặt riêng ở ngoài. Cho nên đừng có chỉ chăm chăm nhìn vào trán Golem, Rentt à. Thay vào đó, phải tìm xem cơ chế ngắt của nó giấu ở chỗ nào. Còn nếu không tìm ra thì cứ dùng vũ lực đập tan nó thôi..."
 
-Phải rồi... Phải, đúng thế thật. Laura hiện đang tìm kiếm chính cái thiết bị đó...
+Phải rồi... Thảo nào. Laura đang cuống cuồng đi tìm chính món thiết bị đó...
 
-Ái chà! Điều này có nghĩa là mình thực sự CHẲNG THỂ làm gì được!
+Trời ạ! Nghĩa là mình THỰC SỰ bó tay chịu trói rồi còn gì!
 
-Dù sao đi nữa thì tôi cũng đã chặt đứt một cánh tay của nó. Tôi nghĩ mình có thể nhắm tới cánh tay còn lại... hay ít ra là tôi từng nghĩ vậy.
+Dù sao thì tôi cũng đã chặt đứt một tay nó. Hay là tiện thể chặt nốt tay kia luôn... tôi từng tính thế.
 
-Con Golem như thể đọc được suy nghĩ của tôi, trừng mắt nhìn tôi như muốn phóng ra dao găm. Tôi cho rằng mình nên dẹp bỏ ý định đó đi thì hơn. Trước mắt, trốn chạy vẫn là phương án tốt nhất.
+Như đọc được ý nghĩ của tôi, con Golem quắc mắt nhìn tôi như muốn ăn tươi nuốt sống. Chắc tôi phải dẹp ngay cái ý định đó thôi. Trước mắt thì chạy vẫn là thượng sách.
 
-Tôi chẳng rõ bao nhiêu thời gian đã trôi qua kể từ lúc đó đến giờ...
+Chẳng biết đã trôi qua bao lâu kể từ lúc ấy...
 
-"...Haha. Vậy ra mày đã... Cuối cùng. Cũng dồn được tao vào chân tường rồi sao."
+"...Haha. Vậy ra mày... cuối cùng. Cũng dồn được tao vào đường cùng rồi à."
 
-Nhờ màn càn quét dữ dội không ngừng nghỉ của con Golem, khung cảnh xung quanh đã hóa thành đống đổ nát hoang tàn, và đứng giữa đống gạch vụn cùng bụi bặm mù mịt này chẳng phải ai khác ngoài chính tôi.
+Sau màn quần thảo không ngừng của con Golem, bốn bề đã tan hoang thành đống đổ nát, và kẻ đang đứng trơ trọi giữa đám gạch vỡ cùng bụi mù mịt ấy chẳng phải ai khác ngoài tôi.
 
-Con Golem chầm chậm giơ nắm đấm lên.
+Con Golem chầm chậm giương nắm đấm.
 
-Mình đã cạn kiệt mọi phương án rồi sao?
+Hết cách thật rồi sao?
 
-Không. Mình vẫn còn một con át chủ bài cuối cùng.
+Không. Tôi vẫn còn một con át chủ bài.
 
-Lấy lại bình tĩnh, tôi truyền Ma Lực vào vũ khí của mình. Tôi vốn không muốn phô diễn kỹ thuật này trước mặt Isaac và Laura, nhưng tình thế chẳng cho tôi nhiều sự lựa chọn.
+Cắn răng hạ quyết tâm, tôi rót Ma Lực vào thanh kiếm. Tôi vốn chẳng muốn dùng kỹ thuật này trước mặt Isaac và Laura, nhưng lúc này làm gì còn lựa chọn nào khác.
 
-Nắm đấm của con Golem chầm chậm giáng xuống đầu tôi. Tôi giương cao thanh kiếm, chuẩn bị tinh thần cho điều tồi tệ nhất.
+Nắm đấm của con Golem từ từ giáng xuống. Tôi giơ kiếm lên, sẵn sàng đón nhận tình huống xấu nhất.
 
 "DỪNG LẠI!"
 
-Khi giọng nói của Laura vang vọng khắp tầng hầm, con Golem khựng lại như thể bị hóa đá ngay tại chỗ. Ngay khoảnh khắc tiếp theo, nó hoàn toàn ngừng cử động. Cùng lúc đó, lớp màn chắn ma pháp quanh tôi tan biến, và con Golem do không còn duy trì được hình dạng đã đổ sụp thành một đống đồ vật kỳ lạ, bụi bặm và đất đá.
+Tiếng hét của Laura vừa vang khắp tầng hầm, con Golem liền khựng lại như hóa đá tại chỗ. Ngay sau đó, nó ngừng bặt mọi cử động. Cùng lúc, lớp màn chắn ma pháp quanh tôi biến mất, còn con Golem vì không giữ nổi hình hài đã đổ sụp thành một đống đồ đạc kỳ quặc, bụi mù và đất đá.
 
-Có vẻ như chúng tôi đã kịp thời ngăn chặn nó.
+Xem chừng vẫn vừa kịp lúc.
 
-Gần như ngay lập tức, Laura và Isaac rảo bước tiến về phía tôi, và bản thân Laura đứng lại trước mặt tôi.
+Gần như tức thì, Laura và Isaac rảo bước lại chỗ tôi, rồi Laura đứng ngay trước mặt.
 
-"Tôi vô cùng xin lỗi... Chúng tôi đã mất khá nhiều thời gian mới tìm ra cơ chế đó... Giá như chúng tôi tìm thấy nó sớm hơn."
+"Thật lòng xin lỗi ngài... Chúng tôi mất nhiều thời gian quá mới tìm thấy cơ chế đó... Giá mà tìm ra sớm hơn."
 
-Laura cúi đầu với vẻ hối lỗi rõ rệt, nhưng chuyện này vốn dĩ chẳng phải lỗi của cô bé.
+Laura cúi đầu áy náy ra mặt, dù chuyện này đâu hẳn là lỗi của cô bé.
 
-"...Không. Tôi mới là người... Đã chạm vào vật thể lạ đó. Ngay từ đầu. Rốt cuộc thì... Đó là thứ gì vậy?"
+"...Không. Tôi mới là người... chạm vào món đồ lạ đó. Ngay từ đầu. Rốt cuộc thì... đó là thứ gì vậy?"
 
-Lẽ ra tôi nên hỏi Laura xem vật thể đó là gì trước khi chạm vào, nên dù nhìn nhận theo cách nào đi nữa thì lỗi lầm hoàn toàn thuộc về bản thân tôi.
+Đáng lý tôi phải hỏi Laura xem món đồ đó là gì trước khi đụng vào, nên nhìn kiểu gì thì lỗi rành rành cũng tại tôi.
 
-Nghe vậy, nét mặt căng thẳng trước đó của cô bé dịu đi, một nụ cười ấm áp lại hiện lên trên gương mặt.
+Nghe thế, vẻ căng thẳng trên mặt cô bé liền giãn ra, nụ cười ấm áp lại nở trên môi.
 
-"A, vâng. Đó là một con Golem, như ngài thấy đấy... Không giống những đồng loại thông thường khác, tất cả những gì nó cần chỉ là một chút năng lượng ma thuật ít ỏi. Một khi có được thứ đó, nó sẽ tiếp tục hấp thụ Ma Lực từ môi trường xung quanh, dung nạp những vật liệu có phẩm cấp cao hơn bản thân. Kết quả là nó sẽ ngày càng trở nên mạnh mẽ hơn. Lớp màn chắn bao bọc cả hai bên vốn bị con Golem hấp thụ, rồi nó dùng chính thứ đó để giam cầm ngài. Tôi thành thật xin lỗi ngài..."
+"A, vâng. Như ngài thấy đấy, đó là một con Golem... Khác với đồng loại thông thường, nó chỉ cần một tí xíu Ma Lực mồi. Một khi đã có, nó sẽ liên tục hút Ma Lực từ xung quanh, gom nạp cả những vật liệu có phẩm cấp cao hơn bản thân. Nhờ thế mà nó ngày càng mạnh lên. Lớp kết giới bao trùm cả ngài và nó vốn bị con Golem hút lấy rồi dùng chính thứ đó để nhốt ngài lại. Tôi thật lòng xin lỗi ngài..."
 
-Thật là một thứ vũ khí đáng sợ... Miễn là có đối thủ, khung cảnh xung quanh nó sẽ bị nhấn chìm trong hỗn loạn.
+Đúng là thứ vũ khí đáng sợ... Hễ có kẻ địch là nó quậy cho tan hoang cả một vùng.
 
-"Đó là... Lỗi của tôi, Laura. Đừng... Bận tâm. Về chuyện đó. Tuy nhiên... Một thứ như. Thế. Có dễ dàng chế tạo không...?"
+"Lỗi tại... tôi mà, Laura. Đừng... bận tâm. Về chuyện đó. Nhưng mà... một thứ như. Thế. Có dễ chế tạo không...?"
 
-"Chà... Không đâu. Nó được tìm thấy từ một mê cung, và tiêu tốn một khoản tiền không hề nhỏ. Tôi cho rằng không có món ma cụ thứ hai nào giống như nó."
+"Chà... không đâu ngài. Nó xuất xứ từ mê cung, và ngốn một khoản tiền không hề nhỏ. Tôi đồ rằng chẳng có món ma cụ thứ hai nào như thế."
 
-Một món ma cụ độc nhất vô nhị đến từ tầng sâu của mê cung.
+Một món ma cụ độc nhất vô nhị từ chốn mê cung sâu thẳm.
 
-Tôi đồ rằng phần lớn các vật phẩm sẽ xuất hiện trở lại theo thời gian. Thế nhưng con Golem cụ thể này chỉ xuất hiện duy nhất một lần. Hoàn toàn hợp lý khi suy đoán rằng Laura sẽ tìm mua lại bất kỳ bản sao nào khác nếu chúng lộ diện. Nếu phải đoán, chính qua nghiên cứu tìm hiểu này mà cô bé mới khẳng định nó là độc nhất vô nhị.
+Thông thường phần lớn vật phẩm trong mê cung sẽ tái xuất hiện theo thời gian. Song riêng con Golem này thì chỉ xuất hiện đúng một lần. Hoàn toàn có lý khi cho rằng hễ có bản sao nào khác lộ diện là Laura sẽ mua lại ngay. Nếu đoán không lầm, chính nhờ dày công tìm hiểu như thế mà cô bé mới dám khẳng định nó là độc nhất vô nhị.
 
-"Nói sang... Chuyện khác. Trong tầng hầm này còn có... Ma cụ nào. Giống như thế nữa không...?"
+"Nói sang... chuyện khác. Dưới tầng hầm này còn... ma cụ nào. Giống thế nữa không...?"
 
-"Về chuyện đó thì..." Laura lảng tránh ánh mắt trước câu hỏi của tôi.
+"Về chuyện đó thì..." Laura đảo mắt tránh câu hỏi của tôi.
 
-Tôi đoán câu trả lời là có rồi.
+Thế là có rồi còn gì.
 
-Giờ đây, hơn bao giờ hết, tôi nhận ra việc bất cẩn chạm vào những ma cụ này sẽ rước lấy những mối hiểm họa khôn lường mang màu sắc riêng của chúng.
+Hơn lúc nào hết, tôi mới thấm thía rằng táy máy chạm vào mấy món ma cụ ở đây nguy hiểm đến dường nào.
 
-Quả là một tầng hầm nguy hiểm...
+Cái tầng hầm này nguy hiểm thật chứ chẳng đùa...
 
-Laura như thể hiểu được nỗi âu lo của tôi liền nhanh chóng cất lời trấn an. "Xin ngài hãy yên tâm, nếu chúng ta lại đứng cạnh một vật thể như vậy lần nữa, tôi nhất định sẽ báo trước cho ngài. Xin ngài đừng lo..."
+Dường như hiểu được nỗi lo của tôi, Laura vội trấn an: "Xin ngài cứ yên tâm, nếu lại đến gần món đồ nào như thế, tôi nhất định sẽ báo trước cho ngài. Ngài đừng lo nhé..."
 
-"...Vâng. Được thế thì... Tôi rất. Biết ơn."
+"...Vâng. Được vậy thì... tôi rất. Biết ơn."
 
-Dù đó là lời đáp chân thành từ tận đáy lòng, tôi vẫn không thể xua đi thực tế rằng mọi chuyện sẽ chẳng xảy ra nếu tôi cẩn thận hơn một chút. Tôi thực sự nên kiềm chế lại cái tính vô tư bất cẩn đó của mình...
+Dù miệng nói lời cảm ơn thật lòng, tôi vẫn không sao gạt đi được sự thật rằng nếu mình cẩn thận hơn một chút thì đâu đến nông nỗi này. Thật tình, tôi phải chấn chỉnh lại cái thói vô tư bất cẩn của mình mới được...
 
-Tôi lập tức quyết định đổi chủ đề.
+Tôi đành lảng sang chuyện khác.
 
-"Dù vậy... Một con Golem biết hấp thụ những ma cụ. Khác và... Sử dụng chúng. Quả thực là một sinh vật... Đáng sợ."
+"Dù vậy... một con Golem biết nuốt ma cụ. Khác rồi... dùng chúng. Đúng là một tạo vật... đáng sợ."
 
-"Thuật giả kim thời kỳ đó có lẽ đã giúp việc lắp ráp một con Golem như vậy trở nên khả thi, nhưng việc một thực thể có thể tích hợp và sử dụng cùng lúc nhiều vật thể đến thế quả thực là vô cùng khó khăn. Khả năng hấp thụ ma thuật từ môi trường xung quanh không phải là năng lực mà những Golem thông thường sở hữu. Tệ hơn nữa, tầng hầm này chứa đầy những ma cụ bằng cách này hay cách khác đều được truyền Ma Lực, đó là lý do vì sao nó bắt đầu cử động nhanh đến vậy... Tôi thực sự nên cân nhắc lại việc cất giữ thứ đó ở một cơ sở khác," Laura vừa gật đầu vừa nói.
+"Thuật giả kim thời ấy hẳn đã cho phép chế tác ra con Golem như vậy, nhưng để một cỗ máy vừa tích hợp vừa vận hành ngần ấy món cùng lúc quả thực vô cùng khó khăn. Khả năng hút ma thuật từ môi trường xung quanh đâu phải Golem bình thường nào cũng có. Đã thế, tầng hầm này lại chứa đầy ma cụ ít nhiều đều ngậm sẵn Ma Lực, thành thử nó mới khởi động nhanh đến thế... Có lẽ tôi phải tính chuyện dời thứ đó sang một kho khác thôi," Laura vừa gật đầu vừa nói.
 
-"Quay trở lại vấn đề chính, ngài Vivie. Trông ngài dường như không bị thương, vậy ngài có muốn tiếp tục lựa chọn ma cụ không? Nếu ngài thấy mệt, tôi không phiền việc hẹn gặp ngài vào một ngày khác..."
+"Quay lại chuyện chính nào, ngài Vivie. Trông ngài dường như không hề hấn gì, vậy ngài có muốn tiếp tục chọn ma cụ không? Nếu thấy mệt, tôi rất sẵn lòng hẹn ngài sang hôm khác..."
 
-Đúng như lời Laura nói, tôi chẳng hề bị thương tích hay bầm dập chút nào. Thực ra đó lại là một bài tập thể dục bổ ích. Thấy mình vẫn còn thở và tương đối ổn thỏa, tôi nghĩ mình nên tiếp tục quá trình lựa chọn.
+Đúng như lời Laura nói, người ngợm tôi chẳng hề trầy xước hay bầm dập chút nào. Trái lại, coi như vừa được vận động gân cốt một trận ra trò. Thấy mình vẫn thở đều và còn khỏe chán, tôi nghĩ bụng cứ tiếp tục chọn đồ thì hơn.
 
-"Không... Tôi. Ổn. Nếu cô bé... Thấy ổn thỏa, Laura. Tôi muốn tiếp tục."
+"Không... tôi. Ổn. Nếu cô bé... không thấy phiền, Laura. Tôi muốn chọn tiếp."
 
-Thành thật mà nói, một góc của tầng hầm dường như sẵn sàng sụp đổ bất cứ lúc nào sau khi hứng chịu thiệt hại nặng nề từ trận chiến. Nhưng Laura đã gạt phăng nỗi lo lắng của tôi chỉ bằng vài tiếng vỗ tay. Từ hư không, một toán gia nhân nhỏ xuất hiện và họ nhanh chóng bắt tay vào việc dọn dẹp đống gạch đá đổ nát. Điều khiến tôi ngạc nhiên hơn không phải là sự xuất hiện tức thì của đám người hầu đó, mà là sự thật rằng tất cả bọn họ đều đang sử dụng ma cụ.
+Thú thực thì sau trận quần thảo, một góc tầng hầm trông chực sụp đến nơi vì hư hại nặng nề. Song Laura xua tan nỗi bận tâm của tôi chỉ bằng vài tiếng vỗ tay. Chẳng biết từ đâu, một toán gia nhân lập tức xuất hiện, thoăn thoắt dọn dẹp đống gạch đá đổ nát. Điều làm tôi kinh ngạc hơn cả không phải sự xuất hiện chớp nhoáng của đám người hầu, mà là việc ai nấy đều đang dùng ma cụ.
 
-"Bên phía tôi không có vấn đề gì cả, hoàn toàn không." Laura quay sang tôi, mỉm cười.
+"Phía tôi thì không có vấn đề gì đâu, ngài cứ yên tâm." Laura quay sang tôi mỉm cười.
 
 "Vậy thì, chúng ta tiếp tục chứ...?"
 
-Chúng tôi lại cất bước một lần nữa, tiến sâu hơn vào bên trong tầng hầm.
+Chúng tôi lại cất bước, tiến sâu hơn vào lòng tầng hầm.
