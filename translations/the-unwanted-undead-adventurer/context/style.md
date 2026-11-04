@@ -67,6 +67,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
+- (61) Thoại ngắt quãng thời Ngạ Quỷ của Rentt có những chỗ ngắt bằng dấu chấm chẻ đôi một cụm từ (vd: "việc. Này.", "Ý cô. Là sao?"): giữ nguyên vị trí dấu chấm và viết hoa sau dấu chấm theo raw để thể hiện ngữ âm giật cục, không tự ý gộp câu hay đổi sang dấu phẩy.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
