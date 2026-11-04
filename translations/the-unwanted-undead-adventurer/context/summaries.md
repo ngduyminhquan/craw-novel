@@ -1436,6 +1436,13 @@ Ferrici tiếp tục dẫn đường cho nhóm tới một con suối nhỏ trê
 Rentt và Augurey phối hợp lùa con Aqua Hathur chạy vào ngõ cụt đá nơi Lorraine đã bố trí sẵn bẫy ma pháp trận phóng điện giam giữ; con thú bị giật điện ngất xỉu và được Lorraine dùng găng tay nhốt an toàn vào lồng ma cụ chuyên dụng.
 Cảnh kết thúc: Nhìn thấy Ferrici tỏ vẻ thương cảm cho con mèo nước bé nhỏ trong lồng điện, Lorraine lên tiếng trấn an rằng nó sẽ được một quý bà quý tộc ở vương đô nhận nuôi chu đáo với vòng cổ phong ấn ma pháp, khiến Ferrici thở phào nhẹ nhõm.
 
+## 244
+Nhóm Rentt hoàn thành ủy thác cuối cùng là thu thập bùn đất của bầy Golem Luteum ở vùng trũng lòng chảo; Rentt tận dụng lợi thế cơ thể Undead không cần thở để lao thẳng vào bên trong lũ quái vật đập nát hạch tâm, phối hợp cùng Augurey tiêu diệt gọn gàng cả đàn quái vật đang bắn ma pháp Gê Bélos.
+Cả nhóm cùng xúc bùn đầy các hộp chứa, sau đó Rentt và Augurey xuống hồ ngâm mình gột sạch bùn đất; hai người trò chuyện về cơ thể Undead hiện tại của Rentt cũng như sự bí ẩn xoay quanh nguồn gốc và khả năng giao tiếp của quái vật trước khi gặp lại Lorraine và Ferrici.
+Trên đường trở về Làng Looza ngang qua bãi sinh sản của Phi Long Mime một cách thuận lợi, cả nhóm bỗng phát hiện một bóng người khả nghi khoác áo choàng đứng chặn đường phía trước.
+Cảnh kết thúc: Tiến lại gần để dò hỏi ông lão khoác áo choàng xem có cần giúp đỡ hay không, Rentt bất ngờ bị một thứ to lớn và nặng trịch đâm sầm thẳng vào bụng trước khi kịp dứt lời.
+
+
 
 
 

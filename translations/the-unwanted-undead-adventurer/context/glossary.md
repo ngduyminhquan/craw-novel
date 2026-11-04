@@ -45,7 +45,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Wight |  | Wight | quái vật | 1 | Undead cấp cao hơn Ngạ Quỷ |
 | Vampire | Vampires | Ma Cà Rồng | quái vật | 1 | Undead cấp cao gần như người sống |
 | Dragon | Dragons | Rồng | quái vật | 1 | Quái vật huyền thoại đỉnh cao |
-| Ancient Dragon | | Rồng Cổ Đại | quái vật | 2 | Rồng trưởng thành sau nhiều năm |
+| Ancient Dragon | ancient dragons; ancient dragon | Rồng Cổ Đại | quái vật | 2 | Rồng trưởng thành sau nhiều năm |
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity | divinity | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
@@ -440,3 +440,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | She-Mage |  | Nữ Pháp Sư | danh hiệu | 239 | Biệt danh Augurey gọi đùa Lorraine |
 | dragon knight | dragon knights | kỵ sĩ rồng | chức nghiệp | 242 | Kỵ sĩ cưỡi rồng hoặc Phi Long chiến đấu (竜騎士) |
 | Yidle Swiffof |  | Yidle Swiffof | kỹ năng | 243 | Ma pháp thủy hệ của con người tạo lưỡi đao nước (giữ nguyên tên câu thần chú theo rules.md) |
+| Gê Bélos | Ge Belos | Gê Bélos | kỹ năng | 244 | Ma pháp thổ hệ của con người tạo mưa thổ tiễn (giữ nguyên tên câu thần chú theo rules.md) |

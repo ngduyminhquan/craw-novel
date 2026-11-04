@@ -248,7 +248,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 241 |  | Chapter_241 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1) | reviewed |  |
 | 242 |  | Chapter_242 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2) | reviewed |  |
 | 243 |  | Chapter_243 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (3) | reviewed |  |
-| 244 |  | Chapter_244 - Vol 11 Chapter 1 - Surprise Attack (1).txt | Vol 11 Chapter 1 - Surprise Attack (1) | todo |  |
+| 244 |  | Chapter_244 - Vol 11 Chapter 1 - Surprise Attack (1).txt | Vol 11 Chapter 1 - Surprise Attack (1) | done |  |
 | 245 |  | Chapter_245 - Vol 11 Chapter 1 - Surprise Attack (2).txt | Vol 11 Chapter 1 - Surprise Attack (2) | todo |  |
 | 246 |  | Chapter_246 - Vol 11 Chapter 1 - Surprise Attack (3).txt | Vol 11 Chapter 1 - Surprise Attack (3) | todo |  |
 | 247 |  | Chapter_247 - Vol 11 Chapter 1 - Surprise Attack (4).txt | Vol 11 Chapter 1 - Surprise Attack (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -890,3 +891,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#242] Dịch 'dragon knight' (chức nghiệp) — tạm chọn 'kỵ sĩ rồng' (phương án khác: 'Long Kỵ Sĩ'). → Chốt 'kỵ sĩ rồng' (nhất quán với Dragon → Rồng, kỵ sĩ Goblin, và đặt song hành tự nhiên với 'người trông chuồng Phi Long' trong ngữ cảnh nghề nghiệp thông thường). (orchestrator)
 - [#242] Xưng hô Ferrici với Lorraine Vivie — tạm chọn xưng 'em', gọi 'chị / chị Lorraine' do đã thân thiết và chịu ơn (phương án khác: giữ 'tôi - chị' như lúc mới quen ở #235). → Chốt xưng 'em', gọi 'chị / chị Lorraine' từ chương 241 (nhất quán với chương 241 và phù hợp lứa tuổi thiếu nữ trong làng mang ơn nhóm Rentt). (orchestrator)
 - [#243] Dịch tên ma pháp 'Yidle Swiffof' (ma pháp thủy hệ con người tạo lưỡi đao nước) — tạm chọn giữ nguyên 'Yidle Swiffof' theo quy tắc câu chú trong rules.md (phương án khác: 'Đao Nước Yidle Swiffof', dịch nghĩa). Tạm dùng trong bản dịch: 'Yidle Swiffof'. → Chốt giữ nguyên 'Yidle Swiffof' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp trong rules.md (như Foteia Borivaas, Gie Vieros). (orchestrator)
+- [#244] Dịch tiêu đề arc/chương 'Vol 11 Chapter 1 - Surprise Attack (1)' — tạm chọn 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (1)' (phương án khác: 'Tập 11 Chương 1 - Đột Kích (1)', 'Tập 11 Chương 1 - Cuộc Tập Kích Bất Ngờ (1)'). Tạm dùng trong bản dịch: 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (1)'. → Chốt 'Tập 11 Chương 1 - Tập Kích Bất Ngờ (1)' cho toàn bộ các chương cùng arc. (orchestrator)
+- [#244] Dịch tên ma pháp 'Gê Bélos' (ma pháp thổ hệ tạo mưa thổ tiễn của loài người do Golem Luteum dùng) — tạm chọn giữ nguyên 'Gê Bélos' theo quy tắc câu chú/cổ ngữ ma pháp trong rules.md (phương án khác: 'Ge Belos' bỏ dấu mũ ê). Tạm dùng trong bản dịch: 'Gê Bélos'. → Chốt giữ nguyên 'Gê Bélos' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp như raw trong rules.md (tương tự Aliumage/Aryumage). (orchestrator)
