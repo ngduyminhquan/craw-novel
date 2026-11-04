@@ -1,141 +1,141 @@
 # Chương 82: Ngoại truyện Tập 3 - Rentt và Cuộc Thi Sắc Đẹp
 
-"Oa! Đúng như mong đợi! Đẹp quá đi mất!"
+"Oa! Đúng như mong đợi luôn! Đẹp quá đi mất!"
 
-Giọng nói trong trẻo và rạng rỡ này không thuộc về ai khác ngoài Sheila, một nhân viên của Hội Mạo Hiểm Giả. Lúc này, Sheila đang nhìn thẳng vào người phụ nữ trước mặt mình—nói chính xác hơn là một người phụ nữ tuyệt sắc.
+Chủ nhân của giọng nói trong trẻo, vui tươi ấy chẳng phải ai khác ngoài Sheila, nhân viên của Hội Mạo Hiểm Giả. Lúc này, Sheila đang nhìn chăm chú vào người phụ nữ trước mặt, hay chính xác hơn là một phụ nữ đẹp đến ngỡ ngàng.
 
-Mái tóc vàng của cô buông lơi thành từng lọn sóng quyến rũ đến mê hồn, vẻ kiều diễm ấy đủ để thu hút bất kỳ ai đi ngang qua. Đôi mắt hạnh càng thêm phần sắc sảo nhờ lớp phấn mắt, khiến người phụ nữ toát lên vẻ cuốn hút khôn xiết. Chỉ một ánh nhìn cũng đủ khiến những người đàn ông phải xao xuyến, không ít kẻ sẵn sàng đánh mất lý trí trước dục vọng bất cứ lúc nào.
+Mái tóc vàng óng của cô xõa xuống thành từng làn sóng mê hồn, đẹp tới mức đủ khiến bất kỳ ai đi ngang qua cũng phải ngẩn ngơ ngoái nhìn. Đôi mắt hình hạnh nhân được tô điểm thêm bởi lớp phấn mắt, khiến cô trông ma mị đến lạ kỳ. Chỉ một ánh nhìn từ cô cũng đủ làm cánh đàn ông run rẩy sống lưng, khối kẻ có khi đánh mất lý trí vì dục vọng bất cứ lúc nào.
 
-Ngay cả thân hình cô cũng hoàn hảo như tạc, một nét đẹp lý tưởng đến khó tin. Người phụ nữ sở hữu những đường nét chuẩn mực, được tôn lên một cách trọn vẹn nhất. Vòng eo, bờ hông, và gần như mọi thứ khác trên cơ thể cô đều đẹp tựa một kiệt tác nghệ thuật.
+Ngay cả thân hình cô cũng đẹp như tranh vẽ, chuẩn mực tới mức khó tin. Từng đường cong trên cơ thể đều nuột nà ở mọi chỗ cần thiết, lại được tôn dáng một cách khéo léo. Từ vòng eo, bờ hông cho đến từng chi tiết khác đều đẹp chẳng khác nào một tác phẩm nghệ thuật.
 
-Dẫu vậy, vẻ ngoài của cô tuyệt nhiên chẳng hề phản cảm hay khiếm nhã. Nói đúng hơn thì, cô toát lên vẻ đoan trang, đĩnh đạc đến kỳ diệu.
+Dù vậy, trông cô chẳng hề phản cảm hay lố lăng chút nào. Trái lại, vẻ ngoài ấy còn toát lên nét đoan trang, quý phái đến kỳ diệu.
 
-Thế nhưng, nét mặt người phụ nữ lập tức thay đổi ngay khi cô ngồi xuống. Có vẻ như đã quá chán ngấy toàn bộ chuyện này, cô rũ người chìm sâu vào ghế như một loài thân mềm.
+Thế nhưng vừa ngồi xuống ghế, sắc mặt cô lập tức thay đổi. Như thể đã chán ngấy chuyện này đến tận cổ, cô rũ người, lún sâu vào lòng ghế chẳng khác nào một loài thân mềm.
 
-Cô khẽ hé môi. "Sao mọi chuyện lại thành ra thế này cơ chứ...?"
+Cô khẽ hé môi. "Sao mọi chuyện lại thành ra nông nỗi này cơ chứ...?"
 
-Giọng nói ấy nghe thật quen thuộc, thuộc về một học giả ma thuật của Maalt, Lorraine Vivie. Dù ăn vận khác lạ, tóc tai được bới chải cầu kỳ và đường nét khuôn mặt trông có vẻ khác đi, nhưng những ai quen thân với cô chỉ cần ghé sát lại nhìn kỹ là chắc chắn sẽ nhận ra đây chính là Lorraine, không thể là ai khác.
+Giọng nói quen tai ấy chính là của Lorraine Vivie, học giả ma thuật của Maalt. Dù ăn vận khác lạ, tóc tai làm kiểu cầu kỳ, thậm chí đường nét khuôn mặt trông cũng khang khác, nhưng ai thân thiết chỉ cần ghé lại nhìn kỹ một chút là nhận ra ngay đây đích thị là Lorraine chứ chẳng phải ai khác.
 
-Vẻ lộng lẫy và kiều diễm mà Lorraine toát ra lúc này là công sức của rất nhiều người, khởi đầu từ Sheila, và tiếp theo là đông đảo các thành viên khác của Hội Mạo Hiểm Giả Maalt.
+Diện mạo lộng lẫy, kiều diễm của Lorraine lúc này là thành quả chung sức của không ít người, bắt đầu từ Sheila rồi theo sau là đông đảo nhân viên khác của Hội Mạo Hiểm Giả Maalt.
 
-Câu chuyện bắt đầu vào đúng ngày hôm trước...
-
-◆◇◆◇◆
-
-"Ngân sách... eo hẹp quá rồi..." Sheila ôm đầu than vãn.
-
-Đứng trước mặt cô trong một phòng họp nhỏ của hội là Lorraine và tôi—Rentt Faina.
-
-Nơi đây không còn ai khác.
-
-Hẳn sẽ có người thắc mắc vì sao Sheila lại đột nhiên thảo luận về nguy cơ phá sản của hội với chúng tôi vào lúc này. Số là, tôi và Lorraine vốn là những nhà tài trợ bí mật lớn nhất của hội, và chúng tôi có thể xoay chuyển hội theo ý mình chỉ bằng một cái búng tay.
-
-Đùa thôi. Đó chỉ là một lời nói dối ngớ ngẩn.
-
-Chúng tôi được gọi đến đây vì thân phận mạo hiểm giả kỳ cựu—cụ thể là chúng tôi đã gắn bó với hội khoảng tám năm. Sheila, người quen biết tôi suốt ngần ấy thời gian, cảm thấy dễ trải lòng về nỗi lo của mình với chúng tôi hơn. Dĩ nhiên, cả tôi lẫn Lorraine đều có sở trường riêng cùng những năng lực nhất định có thể phát huy tác dụng trong nhiều tình huống khác nhau. Tuy nhiên, điều quan trọng hơn cả là Lorraine vốn dĩ là một người khá xinh đẹp. Chỉ là cô ấy chẳng mặn mà gì với son phấn trang điểm mà thôi.
-
-Mấy chuyện đó nói chung đều vượt quá tầm hiểu biết của tôi.
-
-"Chuyện là thế này..." Sheila tiếp tục, "năm nay công đoàn nhân viên Hội quyết định tổ chức một cuộc thi sắc đẹp. Chuyện đó thì chẳng có gì đáng nói, nhưng phần thưởng thì... Ư. Ông chủ tịch công đoàn của chúng tôi lại uống say bí tỉ, rồi tuyên bố sẽ trao một phần thưởng lớn không tưởng cho người chiến thắng thay vì các phần thưởng thông thường! Với ngân sách hiện tại thì không tài nào mua nổi một phần thưởng đắt đỏ như thế, nên tôi muốn xem có cách nào giải quyết được không... Vậy nên. Liệu cô có thể tham gia cuộc thi sắc đẹp này không, cô Lorraine?"
-
-Đó là những gì Sheila giãi bày về rắc rối đang gặp phải.
-
-Nói thêm một chút thì, cuộc thi sắc đẹp, đúng như tên gọi của nó, là một cuộc thi nơi những người phụ nữ so tài với nhau để phô diễn nét đẹp nữ tính. Người phụ nữ đẹp nhất sẽ giành được danh hiệu cùng phần thưởng. Đây là sự kiện được Hội Mạo Hiểm Giả tổ chức định kỳ, với mục đích chính là giúp các mạo hiểm giả tìm kiếm bạn đời hoặc đối tượng kết hôn tiềm năng. Cuộc thi lần này cũng được dựng lên với mục đích như vậy.
-
-Trong hoàn cảnh bình thường, phần thưởng cho giải nhất tuy hữu ích nhưng không hề xa hoa—chẳng hạn như lượng lương khô hoặc thực phẩm đủ dùng trong một năm. Thế nhưng năm nay, ông chủ tịch công đoàn nhân viên Hội dường như đã quá chén, rồi bốc đồng tuyên bố giữa quán rượu ồn ào rằng sẽ trao một món đồ vô cùng đắt giá làm giải thưởng. Chuyện đó dĩ nhiên đã khiến Sheila, vốn luôn dịu dàng, phải nổi đóa. Thành thực mà nói, chứng kiến một Sheila mất bình tĩnh như thế này bản thân nó đã đủ đáng sợ rồi.
-
-Bởi vì lời tuyên bố ấy đã bị dân chúng nghe thấy, nên dường như chẳng còn đường lui... trừ phi có một người phụ nữ ngầm đứng về phía hội tham gia và giành chiến thắng cuộc thi. Bằng cách đó, phần thưởng sẽ quay về với ban tổ chức, và hội sẽ không phải tiêu tốn một khoản tiền khổng lồ đến phi lý.
-
-"Nếu vậy thì sao cô không tự mình đi thi luôn đi, Sheila?" Lorraine trầm giọng nói.
-
-"A... nhưng tôi không thể, vì tôi là nhân viên của Hội mà, cô thấy đấy..."
-
-Liệu Sheila có chắc chắn mang lại chiến thắng cho công đoàn nhân viên ngay cả khi cô ấy tham gia không nhỉ? Tôi không khỏi nghĩ thầm. Như đọc được suy nghĩ của tôi, Sheila thở hắt ra, vẻ mặt lộ rõ vẻ bực bội.
-
-"DÙ SAO ĐI NỮA! Tôi có tham gia thì cũng chẳng thắng nổi đâu! Vâng! Tôi biết chứ! Nhưng... nếu cô Lorraine ra mặt... tôi cảm thấy chúng ta thật sự có thể xoay chuyển tình thế!" Cô nghiến răng, hai nắm tay siết chặt. Sheila không hề nói chơi chút nào.
-
-Tôi quay sang nhìn Lorraine, ánh mắt hai chúng tôi chạm nhau. Cả hai dường như đều hiểu rằng đây là một lời thỉnh cầu rất khó từ chối. Nhưng rồi Lorraine bỗng thấy chuyện này thật buồn cười, một nụ cười mỉm khẽ thoáng hiện trên môi cô.
-
-"Nếu cô đã nói vậy thì, Sheila à, xem ra tôi cũng chẳng còn nhiều lựa chọn... Được thôi. Tôi đồng ý."
-
-"T-Thật ư?!"
-
-"Tuy nhiên, tôi có vài điều kiện."
-
-"Ưm... điều kiện ư...?"
-
-"Dĩ nhiên rồi. Trước hết là tôi sẽ tham gia dưới một cái tên giả, sau đó thì..."
-
-Lorraine ghé sát lại gần Sheila, thì thầm một loạt các điều kiện bí mật vào tai cô ấy.
-
-Sheila chốc chốc lại gật đầu. Nhưng rồi nét mặt cô dần chuyển sang vẻ háo hức và tinh quái. Cuối cùng, cô nhìn chằm chằm vào tôi đầy ẩn ý, như muốn đục thủng mấy lỗ trên người tôi vậy. Sau một thoáng im lặng, Sheila gật đầu thật mạnh rồi tuyên bố chấp thuận bằng một giọng điệu bất an đến lạ kỳ.
-
-"Được rồiiiii. Chúng ta cứ làm y như vậy đi!"
+Mọi chuyện bắt đầu vào đúng ngày hôm trước...
 
 ◆◇◆◇◆
 
-"Phụt... Hợp với anh lắm đấy... Rennie...? Ha..."
+"Ngân sách... eo hẹp quá rồi..." Sheila vừa ôm đầu vừa rầu rĩ than thở.
 
-Trên đầu Lorraine đang đội một bộ tóc giả màu vàng hoe. Thế nhưng, cô lại đang nhìn thẳng vào tôi.
+Đứng trước mặt cô trong phòng họp nhỏ của Hội lúc đó là Lorraine cùng với tôi, Rentt Faina.
 
-Phải rồi...
+Trong phòng chẳng còn ai khác.
 
-Chính là tôi, Rentt Faina, người đang đứng cùng Lorraine trong phòng chờ của cuộc thi sắc đẹp. Một căn phòng chỉ có thí sinh mới được phép bước vào.
+Hẳn người ta sẽ thắc mắc vì sao Sheila lại đột nhiên bàn chuyện Hội có nguy cơ sạt nghiệp với chúng tôi vào lúc này. Số là, tôi với Lorraine vốn là những nhà tài trợ bí mật lớn nhất của Hội, có thể xoay chuyển họ theo ý mình chỉ bằng một cái búng tay.
 
-Hiện tại tôi đang mặc trang phục nữ giới.
+Đùa thôi. Bịa chuyện vớ vẩn ấy mà.
 
-Tay nghề hóa trang tuyệt nhiên chẳng hề qua loa chút nào. Đội ngũ trang điểm đã đảm bảo tôi trông không khác gì một người phụ nữ thực thụ, thậm chí còn tỉ mỉ nẹp áo định hình corset cho tôi. Họ bảo làm thế là để tôn lên những đường nét chuẩn mực—và tất nhiên, họ còn độn thêm một vài... miếng độn ở phần ngực và mông của tôi nữa.
+Chúng tôi được gọi tới đây vì mang danh nghĩa mạo hiểm giả kỳ cựu, cụ thể là cả hai đã gắn bó với Hội khoảng tám năm. Sheila, người quen biết tôi ngần ấy năm trời, thấy dễ tâm sự nỗi niềm với chúng tôi hơn. Dĩ nhiên, cả tôi lẫn Lorraine đều có chuyên môn riêng cùng vài năng lực hữu ích trong nhiều tình huống. Nhưng quan trọng hơn cả là Lorraine xưa nay vốn là một phụ nữ khá ưa nhìn, chỉ có điều cô chẳng mấy bận tâm đến son phấn trang điểm mà thôi.
 
-Đó chính là điều kiện bí mật của Lorraine: cô ấy chỉ tham gia nếu tôi cũng làm điều tương tự.
+Mấy chuyện son phấn đó thật tình nằm ngoài tầm hiểu biết của tôi.
 
-Thật là một mớ hỗn độn... Có lẽ là cái kiểu hỗn độn mà Lorraine vô cùng khoái chí. Dù sao đi nữa, tôi cũng chẳng ở vị thế có thể chối từ.
+"Chuyện là thế này..." Sheila nói tiếp, "năm nay công đoàn nhân viên của Hội quyết định tổ chức một cuộc thi sắc đẹp. Chuyện đó thì không vấn đề gì, nhưng phần thưởng thì... Hự. Ông chủ tịch công đoàn bên tôi lại uống say khướt, rồi bốc đồng tuyên bố sẽ trao một phần thưởng lớn không tưởng cho người thắng cuộc, thay vì các phần thưởng như mọi năm! Với ngân sách hiện tại thì đào đâu ra tiền mua một phần thưởng đắt đỏ như thế chứ, nên tôi mới muốn xem có cách nào xoay xở được không... Thế nên. Liệu cô có thể tham gia cuộc thi sắc đẹp này không, cô Vivie?"
 
-Tôi từng tò mò muốn biết bọn họ sẽ làm tới mức nào với chuyện này, và vì thế nên chẳng hề lường trước được rằng mình sẽ phải đứng trong căn phòng này... cùng với Lorraine.
+Đó là đầu đuôi câu chuyện rắc rối qua lời giãi bày của Sheila.
 
-"Được rồi! Thí sinh tiếp theo của chúng ta là..." Một nhân viên cất tiếng thông báo, giữ mở cánh cửa phòng chờ.
+Nói thêm một chút thì cuộc thi sắc đẹp, đúng như tên gọi, là dịp để phái nữ đua sắc khoe tài. Người đẹp nhất sẽ ẵm về danh hiệu cùng phần thưởng. Đây là sự kiện do Hội Mạo Hiểm Giả định kỳ tổ chức, với mục đích chính là giúp các mạo hiểm giả tìm kiếm bạn đời hoặc đối tượng kết hôn tiềm năng. Cuộc thi năm nay cũng được dựng lên vì mục đích ấy.
 
-Rồi người đó xướng tên thí sinh tiếp theo...
+Bình thường thì phần thưởng cho giải nhất tuy thiết thực nhưng chẳng hề xa xỉ, chẳng hạn như lượng lương khô hoặc thực phẩm đủ dùng trong một năm. Thế nhưng năm nay, chủ tịch công đoàn nhân viên của Hội dường như đã quá chén, rồi bốc đồng tuyên bố giữa quán rượu huyên náo rằng sẽ trao một món đồ cực kỳ đắt giá làm phần thưởng. Điều đó đương nhiên khiến Sheila, người vốn dĩ luôn dịu dàng, phải nổi đóa. Thú thật thì việc chứng kiến Sheila nổi giận đùng đùng thế này tự nó đã đủ thấy đáng sợ rồi.
+
+Ngặt nỗi lời tuyên bố kia đã lọt vào tai bàn dân thiên hạ, nên coi như chẳng còn đường thoái thác... trừ phi có một phụ nữ ngầm đứng về phía Hội đứng ra dự thi và giật giải. Bằng cách đó, phần thưởng sẽ quay về túi ban tổ chức, và Hội sẽ không phải tốn một khoản tiền vô lý đến vậy.
+
+"Nếu vậy sao cô không tự mình đi thi luôn đi, Sheila?" Lorraine lạnh lùng hỏi.
+
+"A... nhưng tôi đâu có thi được, vì tôi là nhân viên của Hội mà..."
+
+Liệu Sheila có chắc giành nổi phần thắng cho công đoàn nhân viên kể cả khi cô tham gia không nhỉ? Tôi thầm nghĩ. Như thể đọc thấu tâm can tôi, Sheila thở hắt ra, mặt lộ rõ vẻ bực dọc.
+
+"DÙ SAO ĐI NỮA! Dù tôi có thi thì cũng chẳng thắng nổi đâu! Vâng! Tôi biết thừa rồi! Nhưng... nếu là cô Vivie ra mặt... tôi tin chắc chúng ta có thể lật ngược thế cờ!" Cô nghiến răng ken két, hai tay nắm chặt. Sheila rõ ràng là đang nghiêm túc hết sức.
+
+Tôi quay sang nhìn Lorraine, ánh mắt hai người chạm nhau. Cả hai dường như đều hiểu rằng đây là một thỉnh cầu rất khó lòng chối từ. Thế nhưng Lorraine bỗng chốc lại thấy chuyện này buồn cười, khóe môi khẽ nhếch lên một nụ cười mỉm.
+
+"Đã nói tới nước này rồi thì, Sheila, xem ra tôi khó mà từ chối được... Thôi được. Tôi nhận lời."
+
+"T-Thật sao?!"
+
+"Có điều, tôi có vài điều kiện."
+
+"Ừm... điều kiện gì cơ...?"
+
+"Tất nhiên. Trước hết, tôi sẽ dự thi dưới một cái tên giả, kế tiếp là..."
+
+Lorraine ghé sát lại gần Sheila, thì thầm một tràng các điều kiện bí mật vào tai cô tiếp tân.
+
+Sheila chốc chốc lại gật đầu. Nhưng rồi nét mặt cô dần chuyển sang vẻ háo hức và tinh quái. Cuối cùng, cô nhìn chằm chằm vào tôi đầy ẩn ý, như muốn khoét mấy lỗ trên người tôi vậy. Sau một thoáng im lặng, Sheila gật đầu dứt khoát rồi đồng ý bằng một giọng nghe rợn cả người.
+
+"Được rồiiii. Chúng ta cứ làm y như vậy đi!"
+
+◆◇◆◇◆
+
+"Phụt... Hợp với anh lắm đấy chứ... Rennie...? Ha ha..."
+
+Lorraine đang đội một bộ tóc giả vàng óng trên đầu. Thế nhưng, mắt cô lại dán thẳng vào tôi.
+
+Chính thế đấy...
+
+Chính là tôi, Rentt Faina, người đang đứng cùng Lorraine trong phòng chờ của cuộc thi sắc đẹp. Căn phòng vốn chỉ dành riêng cho thí sinh dự thi.
+
+Lúc này, tôi đang mặc đồ phụ nữ.
+
+Tay nghề hóa trang của họ tuyệt nhiên chẳng hề qua loa chút nào. Đội ngũ trang điểm chăm chút kỹ càng để tôi trông không khác gì một phụ nữ thực thụ, thậm chí còn nẹp cả áo corset vào người tôi. Họ bảo làm thế mới có đường cong chuẩn chỉnh, và dĩ nhiên, còn độn thêm vài... phụ kiện vào ngực với mông của tôi nữa.
+
+Đó chính là điều kiện bí mật của Lorraine: cô chỉ chịu dự thi nếu tôi cũng làm điều tương tự.
+
+Đúng là một mớ bòng bong... Nhưng khéo lại đúng kiểu hỗn loạn mà Lorraine ưa thích. Dù thế nào thì tôi cũng đâu ở vào vị thế có thể từ chối.
+
+Hồi đầu tôi chỉ tò mò muốn xem họ sẽ làm tới mức nào, chứ chẳng thể ngờ nổi có lúc mình lại phải đứng trong căn phòng này... cùng với Lorraine.
+
+"Được rồi! Thí sinh tiếp theo của chúng ta là..." một nhân viên vừa mở cửa phòng chờ vừa cất tiếng thông báo.
+
+Rồi cất tiếng xướng tên thí sinh...
 
 "Cô Adeline Fran!"
 
-Cái tên ấy thật không may lại chính là cái tên giả mà Lorraine đã nghĩ ra... cho tôi sử dụng.
+Thật không may, đó chính là cái tên giả mà Lorraine đã nghĩ ra... cho tôi dùng.
 
-"A, người ta đang gọi anh kìa, đúng không? Tiến lên nào, Rennie... A. Hay gọi là Ren-Ren thì hợp hơn nhỉ? Vững tâm lên! Đến lượt anh rồi đấy!" Lorraine vui vẻ vẫy tay ra hiệu cho tôi bước về phía sân khấu.
+"A, người ta gọi anh kìa, đúng không? Ra đó đi nào, Rennie... Ơ, hay gọi là Ren-Ren thì hợp hơn nhỉ? Vững lòng lên! Đến lượt anh rồi đấy!" Lorraine vừa tươi cười vừa vẫy tay hối tôi bước ra sàn diễn.
 
-Khốn thật chứ... Cô cứ đợi đấy, Lorraine. Mối nhục này tôi sẽ bắt cô trả đủ cả vốn lẫn lời...
+Chết tiệt thật chứ... Cô cứ đợi đấy, Lorraine. Mối nhục này tôi nhất định sẽ bắt cô trả đủ cả vốn lẫn lời...
 
-Thôi được rồi. Xem như chuyện đã rồi. Có lẽ tôi sẽ trích bớt một phần tiền thưởng từ ủy thác tiếp theo của cô ấy ở hội vậy.
+Mà thôi kệ đi. Đằng nào cũng lỡ rồi. Có khi tôi cứ xén bớt một phần thù lao ủy thác tiếp theo của cô ở Hội cho bõ tức.
 
-Chậm rãi nhưng rõ mồn một, những lời quen thuộc vang vọng trong không trung.
+Chậm rãi nhưng rõ mồn một, tiếng gọi quen tai lại vang lên giữa hội trường.
 
 "Ren Ireed! Đến lượt cô rồi đấy!"
 
-Ngoan ngoãn nhưng đầy miễn cưỡng làm theo lời người dẫn chương trình, tôi lững thững lê bước ra khỏi phòng chờ và tiến về phía sân khấu.
+Dù hết sức miễn cưỡng nhưng tôi vẫn đành nghe theo lời người xướng tên, chậm chạp lê bước rời khỏi phòng chờ mà đi về phía sàn diễn.
 
 ◆◇◆◇◆
 
-Dĩ nhiên, người chiến thắng không ai khác ngoài Lorraine. Và đúng như dự đoán, người về nhì chính là kẻ hèn này.
+Dĩ nhiên, người giành ngôi quán quân chẳng phải ai khác ngoài Lorraine. Còn người về nhì, đúng như dự đoán, chính là tôi đây.
 
-Đùa thôi. Lại là một lời nói dối ngớ ngẩn... Dù kết cục không hẳn là như thế, nhưng chẳng ai mảy may nghi ngờ danh tính của tôi, và cuộc thi đã trôi qua êm thấm mà không có sự cố nào. Dẫu vậy, tôi vẫn lọt được vào vòng chung kết—và trong suốt khoảng thời gian đó, tôi không ngừng tự hỏi tại sao mình lại rơi vào tình cảnh oái oăm đến mức này. Hiển nhiên là tôi không thể mở miệng nói nhiều, đành cắn răng chịu đựng trong câm lặng.
+Đùa thôi. Lại bịa chuyện ngớ ngẩn rồi... Tuy kết quả không tới mức đó, nhưng chẳng ai mảy may nghi ngờ thân phận của tôi, và cuộc thi trôi qua êm thấm mà không gặp sự cố nào. Dù vậy, tôi vẫn lọt tận vào vòng chung khảo, và suốt cả buổi đó tôi cứ mãi trăn trở tự hỏi sao mình lại rơi vào tình cảnh trớ trêu đến thế này. Hiển nhiên là tôi không thể nói nhiều, đành ngậm ngùi chịu trận trong im lặng.
 
-"Khuôn mặt tôi trông nữ tính lắm à, Lorraine?" Tôi hỏi trong lúc rảo bước bên cạnh Lorraine trên đường trở về tư dinh của cô ấy.
+"Mặt tôi trông giống phụ nữ lắm hả, Lorraine?" tôi hỏi khi rảo bước bên cạnh Lorraine trên đường về nhà cô.
 
-Lorraine đã cởi bỏ trang phục hóa trang và tẩy trang từ lâu. Quay sang tôi, cô đưa ra câu trả lời bằng một giọng điệu nghiêm túc lạ thường.
+Lorraine đã trút bỏ xiêm y lộng lẫy và tẩy sạch lớp trang điểm từ lâu. Quay sang nhìn tôi, cô đáp lại bằng một giọng nghiêm túc đến lạ lùng.
 
-"Hừm. Tôi không hẳn nói vậy đâu, Rentt. Chỉ là anh không có nhiều... nét đặc trưng cho lắm. Nhờ thế mà lớp trang điểm mới nổi bật lên được đấy. Khung xương và cơ bắp của anh cũng thuộc dạng thanh mảnh... Chẳng hạn như anh đâu có vạm vỡ chút nào..."
+"Hừm. Tôi không có ý đó đâu, Rentt. Chỉ là nét mặt anh không có nhiều... điểm nhấn cho lắm. Nhờ vậy mà lớp trang điểm mới dễ ăn vào mặt đấy. Thêm nữa là vóc dáng với cơ bắp của anh cũng thuộc dạng mảnh khảnh... Nói ví dụ thì anh tuyệt nhiên chẳng vạm vỡ tí nào..."
 
-Nói cách khác, xem ra tôi khá thích hợp cho những phi vụ giả gái. Đó chẳng phải là điều gì đáng để tự hào cho cam.
+Nói cách khác, xem ra tôi khá có năng khiếu trong mấy vụ giả gái. Chẳng phải chuyện gì đáng để tự hào cho cam.
 
-Gạt chuyện đó sang một bên...
+Mà gạt chuyện đó sang một bên đã...
 
-"Cô thắng là điều hiển nhiên rồi, Lorraine. Dù sao thì cô cũng rất xinh đẹp, nên chẳng có gì phải bàn cãi cả."
+"Chuyện cô thắng là điều đương nhiên rồi, Lorraine. Dù sao thì cô vốn xinh đẹp sẵn rồi, chẳng có gì phải nghi ngờ cả."
 
-"Anh này, giữa ban ngày ban mặt mà lại nói những lời như thế..."
+"Cái anh này, ban ngày ban mặt mà lại nói những lời như thế..."
 
-"Sự thật rành rành ra đó còn gì?"
+"Thì đúng là thật thế còn gì?"
 
-"Hừ. Anh muốn nói sao thì tùy. Nhưng mà... nếu để mọi chuyện dừng lại ở đây thì hơi phí đấy. Anh thấy sao hả, Ren-Ren? Hôm nào có muốn cùng tôi làm thêm một chuyến nữa không?"
+"Hừ. Anh muốn nói sao thì tùy. Có điều... nếu chỉ dừng lại ở đây thì hơi phí đấy. Thấy sao nào, Ren-Ren? Bữa nào có muốn cùng tôi làm thêm chuyến nữa không?"
 
-"Tôi xin phép được từ chối một cách lịch sự..."
+"Cho tôi xin phép lịch sự từ chối nhé..."
 
-Bản thân tôi cảm thấy một sự kiện như thế này khó lòng mà tái diễn, nhưng phòng khi chuyện đó xảy ra, tôi vẫn thành tâm cầu nguyện lên chư thần—rằng mình sẽ không bao giờ phải làm bất cứ điều gì tương tự như thế này thêm một lần nào nữa.
+Bản thân tôi cảm thấy sự việc như thế này khó lòng mà tái diễn, nhưng để đề phòng, tôi vẫn tha thiết cầu xin chư thần phù hộ, mong sao mình sẽ không bao giờ phải làm cái trò tương tự như thế này thêm một lần nào nữa.

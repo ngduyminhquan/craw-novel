@@ -45,6 +45,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 19. **Giọng Unbert Abeiyu (#75).** Thầy trị liệu có vẻ ngoài từng trải như mạo hiểm giả nhưng tính cách ôn hòa, điềm đạm; tác phong khám chữa bệnh thẳng thắn, giải thích bệnh trạng rõ ràng, không vòng vo; giao tiếp với Sơ Lillian luôn tôn trọng, đúng mực ("thưa Sơ Lillian", xưng "tôi", không đệm "ạ"), hòa nhã với đồng nghiệp và mạo hiểm giả.
 20. **Tác phong lớp học ma thuật ba người (#74, #76–79).** Khi lên lớp giảng dạy ma thuật cho Alize và Rentt, Lorraine hào hứng nhập vai người thầy mẫu mực pha chút khoa trương kịch nghệ ("các học trò của tôi", gõ đũa phép lên bảng) và thích trêu chọc bắt Rentt làm mẫu thị phạm; Alize trong giờ học tuân thủ quy tắc gọi "Học Sĩ Lorraine" và thưa gửi lễ phép với Lorraine, nhưng khi quay sang nói với Rentt vẫn giữ giọng tự nhiên thường ngày (không đệm "dạ/ạ") và phản ứng thẳng thắn, chân thực trước những cách làm liều mạng; Rentt luôn xưng "tôi - em" với Alize và gọi cô bé là "cô bé / Alize" trong lời dẫn chuyện.
 21. **Giọng Myullias Raiza và Gilly (#81).** Myullias mang suy nghĩ tự do, hoài nghi giáo lý và hơi bất cần, ăn nói vô tư lự, độc thoại và đối đáp có nét tự trào hóm hỉnh; Gilly là tư tế giám sát cứng nhắc, kiệm lời, tác phong sắc lạnh như sát thủ nhưng ẩn chứa sự lo lắng, nhắc nhở nghiêm khắc nhưng không thù hằn. Giữ đúng sự tương phản giữa vẻ bất cần của Myullias và sự cứng nhắc của Gilly.
+22. **Tương tác giữa Rentt và Lorraine trong ngoại truyện (#82).** Lorraine hào hứng trêu chọc và đặt biệt danh ngộ nghĩnh ("Rennie", "Ren-Ren") khi Rentt bị ép giả gái; Rentt độc thoại cam chịu, tự trào dí dỏm nhưng giữ nét điềm đạm và âm thầm tính kế trả đũa tài chính bằng cách trích bớt thù lao ủy thác của bạn thân.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -73,6 +74,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
+- (82) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về sự cố bị Lorraine Vivie ép giả gái tham gia cuộc thi sắc đẹp do công đoàn Hội Mạo Hiểm Giả tổ chức.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
