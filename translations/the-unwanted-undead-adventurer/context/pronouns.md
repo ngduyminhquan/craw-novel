@@ -94,6 +94,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yattul | Yattul / người đàn ông / người đánh xe / Goblin | 232 | Người đánh xe chở nhóm Rentt (thực chất là điệp viên Goblin, #233) |
 | Siren | Siren / ả / người phụ nữ / cô ta | 234 | Nữ điệp viên đồng mưu với Yattul (Goblin) |
 | Ferrici | Ferrici / cô gái / thiếu nữ | 235 | Thiếu nữ tại quán rượu Làng Looza |
+| Leo | Leo / người đàn ông / ông ấy / người cha | 240 | Cha của Ferrici tại Làng Looza |
+| Lenora | Lenora / người phụ nữ / bà ấy / người mẹ | 240 | Mẹ của Ferrici tại Làng Looza |
 
 ## Giữa các nhân vật
 
@@ -444,4 +446,14 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Ferrici | tôi | em / Ferrici | 238 | Mạo hiểm giả giải thích và trấn an thiếu nữ trong làng |
 | Ferrici | Rentt Faina | tôi | anh / các người | 238 | Thiếu nữ bàng hoàng đối đáp với mạo hiểm giả |
 | Ferrici | Augurey | tôi | anh / Augurey | 239 | Thiếu nữ tỉnh táo nói chuyện với mạo hiểm giả sau khi hết bị thôi miên |
+| Augurey | Leo | tôi | bác / hai bác | 240 | Mạo hiểm giả nói chuyện với cha của Ferrici |
+| Leo | Augurey | tôi | cậu / Augurey | 240 | Người cha nói chuyện với mạo hiểm giả tha mạng cho con gái |
+| Augurey | Lenora | tôi | bác / hai bác | 240 | Mạo hiểm giả nói chuyện với mẹ của Ferrici |
+| Lenora | Augurey | tôi | cậu / Augurey | 240 | Người mẹ nói chuyện với mạo hiểm giả tha mạng cho con gái |
+| Leo | Ferrici | cha | con / Ferrici | 240 | Cha nói chuyện với con gái |
+| Ferrici | Leo | con | cha | 240 | Con gái nói chuyện với cha |
+| Lenora | Ferrici | mẹ | con / Ferrici | 240 | Mẹ nói chuyện với con gái |
+| Ferrici | Lenora | con | mẹ | 240 | Con gái nói chuyện với mẹ |
+| Leo | Lenora | tôi / anh / mình | Lenora / mình / em | 240 | Chồng nói chuyện với vợ |
+| Lenora | Leo | tôi / em / mình | mình / anh | 240 | Vợ nói chuyện với chồng |
 

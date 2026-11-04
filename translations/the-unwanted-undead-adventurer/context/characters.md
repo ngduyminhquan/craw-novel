@@ -125,6 +125,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yattul |  | Yattul | Người đánh xe chở nhóm Rentt; thực chất là điệp viên mang mật danh Goblin (#232, #233) | #232 |
 | Siren |  | Siren | Nữ điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin) | #234 |
 | Ferrici |  | Ferrici | Thiếu nữ tại quán rượu Làng Looza, người hiểu rõ về vùng Hồ Petorama | #235 |
+| Leo |  | Leo | Cha của Ferrici tại Làng Looza | #240 |
+| Lenora |  | Lenora | Mẹ của Ferrici tại Làng Looza | #240 |
 
 ## Chi tiết
 
@@ -791,8 +793,18 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ferrici
 - Giới tính, vai trò: Nữ, thiếu nữ tại Làng Looza (#235).
-- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235). Nửa đêm diện váy trễ vai lẻn vào phòng Augurey dùng mỹ nhân kế rồi rút dao ám sát nhưng thất bại, bị Augurey tước dao và đánh ngất; biểu hiện gào thét như thú dại khiến Augurey nghi ngờ cô bị thao túng hoặc không phải Siren thật sự (#236). Cùng các nạn nhân khác thoát khỏi thuật thôi miên sau khi Siren bị đánh ngất; được nhóm Rentt đánh thức đầu tiên, hoảng sợ hét lớn vì thấy mặt nạ Khô Lâu và Augurey nhưng dần bình tĩnh khi được cởi trói và giải thích sự việc (tính đến #238). Hiểu rõ sự thật mình bị Siren thôi miên, xin lỗi Augurey và hợp tác đi đánh thức, giải thích cho hơn chục dân làng khác bị thôi miên mà không làm lộ nhóm Rentt; được Augurey hộ tống về nhà an toàn (tính đến #239).
+- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235). Nửa đêm diện váy trễ vai lẻn vào phòng Augurey dùng mỹ nhân kế rồi rút dao ám sát nhưng thất bại, bị Augurey tước dao và đánh ngất; biểu hiện gào thét như thú dại khiến Augurey nghi ngờ cô bị thao túng hoặc không phải Siren thật sự (#236). Cùng các nạn nhân khác thoát khỏi thuật thôi miên sau khi Siren bị đánh ngất; được nhóm Rentt đánh thức đầu tiên, hoảng sợ hét lớn vì thấy mặt nạ Khô Lâu và Augurey nhưng dần bình tĩnh khi được cởi trói và giải thích sự việc (tính đến #238). Hiểu rõ sự thật mình bị Siren thôi miên, xin lỗi Augurey và hợp tác đi đánh thức, giải thích cho hơn chục dân làng khác bị thôi miên mà không làm lộ nhóm Rentt; được Augurey hộ tống về nhà an toàn (tính đến #239). Về đến nhà giải tỏa hiểu lầm cho cha mẹ, cùng gia đình hết lời cảm ơn Augurey đã tha mạng và tự dặn lòng dậy sớm để cùng cha mẹ chuẩn bị bữa ăn cảm ơn anh trước khi nhóm rời làng (tính đến #240).
 - Xuất hiện từ: #235.
+
+### Leo
+- Giới tính, vai trò: Nam, người dân Làng Looza, cha của Ferrici (#240).
+- Đặc điểm: Yêu thương và bảo bọc gia đình sâu sắc; khi thấy Ferrici về muộn đi cùng mạo hiểm giả lạ mặt, ông cố kìm nén cơn giận để nói chuyện lý trí; bàng hoàng khi biết con gái bị Siren thôi miên dùng làm con tốt ám sát mạo hiểm giả và sẵn sàng đền mạng để chuộc tội thay con vì sợ bị mạo hiểm giả trừng phạt; sau khi hiểu rõ sự tình và biết Augurey đã tha mạng cho Ferrici, ông vô cùng biết ơn và bàn với vợ làm đồ ăn gửi tặng nhóm mạo hiểm giả làm quà cảm ơn (#240).
+- Xuất hiện từ: #240.
+
+### Lenora
+- Giới tính, vai trò: Nữ, người dân Làng Looza, mẹ của Ferrici (#240).
+- Đặc điểm: Ngoại hình mang dáng dấp của Ferrici ba mươi năm sau; lo lắng cho con gái; can ngăn chồng khi Leo kích động toan đền mạng; cùng Ferrici và chồng rối rít cảm ơn Augurey đã tha mạng cho con gái; chủ động gợi ý làm đồ ăn tươi ngon cho nhóm mạo hiểm giả mang theo khi rời làng (#240).
+- Xuất hiện từ: #240.
 
 
 

@@ -48,3 +48,4 @@
 - (225) Ngoại truyện Tập 10: kể theo góc nhìn ngôi thứ ba bám theo Rina và Alize khi tới dinh thự Gia tộc Latuule nhờ Isaac hướng dẫn luyện tập ma pháp.
 - (233) Nửa đầu và phần kết kể theo ngôi thứ nhất ("tôi") của Rentt Faina; hai phân đoạn giữa (sau các dấu phân cách) chuyển sang góc nhìn ngôi thứ ba bám theo Yattul / điệp viên "Goblin".
 - (236) Đoạn đầu (đoạn 1) và đoạn kết (từ đoạn 57) kể theo ngôi thứ nhất ("tôi") của Rentt Faina; phần lớn thân chương (đoạn 2–55) chuyển sang góc nhìn ngôi thứ ba bám theo Augurey Ars khi anh ở phòng riêng tiếp đón và khống chế Ferrici.
+- (240) Kể theo góc nhìn ngôi thứ ba (third-person limited) bám theo Augurey Ars khi hộ tống Ferrici về nhà và đối thoại với cha mẹ cô; đoạn kết chuyển sang góc nhìn bám theo gia đình Ferrici.

@@ -1413,6 +1413,12 @@ Ferrici thuyết phục thành công dân làng; dù người già dặn như ch
 Sau khi Lorraine cài bẫy ngầm ma thuật quanh Siren đang ngủ say, cô và Rentt sang phòng Yattul (Goblin) gõ cửa vờ báo tin một nửa sự thật rằng đã bắt giữ thủ phạm nhằm tung hỏa mù và gài bẫy nhử đồng bọn tới giải cứu.
 Cảnh kết thúc: Bước ra hành lang, Rentt và Lorraine bàn nhau kế hoạch sáng mai lên đường tới Hồ Petorama làm nhiệm vụ và chờ xem Goblin cùng đồng bọn có cắn câu hay không.
 
+## 240
+Trên đường hộ tống Ferrici về nhà, Augurey và cô trò chuyện cởi mở về cuộc sống mạo hiểm giả; Ferrici thích cuộc sống an nhàn bình dị, còn Augurey thừa nhận bản thân cùng nhóm Rentt là kiểu người thích cảm giác mạnh và hiểm nguy hơn là kiếm tiền an hưởng tuổi già.
+Tới nhà Ferrici ở rìa làng, cha của cô (Leo) và mẹ (Lenora) hớt hải chạy ra; khi vào nhà nghe Augurey kể chuyện Ferrici bị thôi miên đâm mạo hiểm giả, Leo hiểu lầm Augurey tới tống tiền hoặc đòi mạng con gái nên kích động xin đền mạng thay con.
+Augurey vội vàng thanh minh và sau nửa giờ giải thích, hiểu lầm được tháo gỡ; gia đình Ferrici vô cùng biết ơn Augurey vì đã tha mạng cho cô và đối xử tử tế thay vì trừng phạt hay tống tiền thường dân.
+Sau khi tiễn Augurey, cha mẹ Ferrici bàn nhau sẽ chuẩn bị một phần đồ ăn tươi ngon gửi tặng nhóm mạo hiểm giả mang theo làm quà cảm ơn trước khi họ rời làng; Ferrici tự dặn lòng dậy sớm để không bị ngủ quên.
+
 
 
 
