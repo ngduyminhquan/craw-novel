@@ -35,8 +35,6 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 9. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
 10. **Giọng Raiz Dunner và Laura Satii (#33–38).** Raiz bộc trực, thẳng thắn, giàu năng lượng nhưng biết lắng nghe và cầu tiến; Laura Satii điềm tĩnh, nhỏ nhẹ, lễ phép và chín chắn hơn tuổi. Cả hai đối thoại tự nhiên như bạn đồng hành thân thiết ("tôi/tụi mình - cậu/Raiz/Laura"), tôn trọng Rentt chân thành nhưng bình đẳng, không "dạ/ạ" (Raiz gọi "anh / Rentt", Laura gọi "anh / anh Vivie").
 11. **Giọng Alize (#48–52).** Đứa trẻ lớn biết lo toan tại cô nhi viện; ban đầu cố nói năng trịnh trọng, giữ kẽ trước khách lạ, nhưng khi đối thoại tự nhiên thì nhanh nhẹn, bộc trực, ra dáng chị cả che chở cho đàn em nhỏ; xưng "em - anh" với Rentt, "con - sơ" với Sơ Lillian.
-12. **Tâm lý thực tế và nguyên tắc an toàn của Rentt khi đối thoại với người mới / trẻ nhỏ (#50).** Rentt luôn giữ phong thái mạo hiểm giả giàu kinh nghiệm thực tế, không huyễn hoặc về nghề mạo hiểm giả hay tỏ ra anh hùng; luôn ưu tiên chuẩn bị cẩn trọng hơn là hành động hấp tấp (từ chối đi đêm vào Đầm Lầy Tarasque dù Alize sốt ruột); khi hứa hẹn giúp đỡ thì bình thản, chắc chắn và chừng mực ("giúp em một tay"), không hứa suông hay đao to búa lớn.
-13. **Tâm lý tự trào về sinh hoạt không cần ngủ của Thi Quỷ (#51).** Rentt không cần ngủ và thức trắng đêm đọc sách như một học giả; độc thoại nội tâm giữ nét tự trào hóm hỉnh khi tị nạnh với con chuột quyến thuộc ngủ say sưa hay tự nhận mình là "kẻ ăn bám" trong nhà Lorraine vì quá rảnh rỗi. Giữ giọng kể dí dỏm, tếu táo đời thường, không bi kịch hóa hay sầu não.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -63,8 +61,6 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
-- (50) Kể theo ngôi thứ nhất ("tôi") của Rentt Faina: lắng nghe Alize giãi bày về Bệnh Tích Tụ Chướng Khí của Sơ Lillian và mối liên hệ với Hoa Long Huyết tại Đầm Lầy Tarasque; xuống hầm xử lý quái vật Puchi Suri và vô tình dùng máu Thi Quỷ tạo ra quyến thuộc đầu tiên.
-- (51) Kể theo ngôi thứ nhất ("tôi") của Rentt Faina: thử nghiệm năng lực áp chế đồng loại của chuột Puchi Suri quyến thuộc; đưa chuột về nhà Lorraine và chịu sự tra khảo vui vẻ đòi mẫu vật thí nghiệm; độc thoại tự trào về cuộc sống thức đêm của Thi Quỷ và chứng kiến Lorraine trổ tài nấu bữa sáng bằng ma cụ.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.

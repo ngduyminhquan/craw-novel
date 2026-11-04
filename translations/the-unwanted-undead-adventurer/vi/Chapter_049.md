@@ -1,20 +1,20 @@
 # Chương 49: Tập 2 Chương 4 - Hoa Long Huyết (2)
 
-"...Mấy đứa nhỏ... cần gì... ở tôi à?" Tôi hỏi khi cùng cô bé bước vào trong nhà.
+"...Mấy đứa nhỏ... cần gì... ở tôi à?" tôi hỏi khi cùng cô bé bước vào trong nhà.
 
-Suốt dọc đường đi, biết bao ánh mắt tò mò đổ dồn về phía tôi. Đó là những đứa trẻ mồ côi đủ mọi lứa tuổi, vóc dáng; đứa thì còn bé tí xíu, tay bế em nhỏ bập bẹ, đứa thì đã ngấp nghé cái tuổi phải ra ngoài tự bươn chải kiếm sống.
+Suốt dọc đường đi, biết bao ánh mắt tò mò đổ dồn về phía tôi. Đó là những đứa trẻ mồ côi đủ mọi lứa tuổi, vóc dáng; có những bé gái còn nhỏ tuổi đang bồng các em bé ẵm ngửa trên tay, lại có những đứa đã ngấp nghé cái tuổi sắp phải ra ngoài xã hội tự làm lụng kiếm sống.
 
-Trẻ mồ côi ở đây đủ mọi lứa tuổi, vóc dáng và hoàn cảnh. Đứa thì mất cả cha lẫn mẹ dưới nanh vuốt quái vật hoặc đạo tặc, đứa lại đơn giản là bị bỏ rơi trước thềm cô nhi viện ngay từ lúc mới lọt lòng. Ở Maalt, chuyện bị bỏ rơi thì hiếm, chứ mất cha mẹ thì nhiều như cơm bữa. Bởi lẽ, chỉ cần bước chân ra khỏi bức tường thành kiên cố của thị trấn, bất trắc gì cũng có thể ập xuống đầu. Một ngôi làng dẫu dựng ở nơi tưởng như an toàn, hiếm khi thấy bóng dáng quái vật, cũng có thể bị một toán cướp lang thang san phẳng trong chớp mắt, hoặc bị lũ quái vật đánh hơi thấy mùi người kéo đến tàn sát. Những tai ương như thế xảy ra hằng ngày, nhiều đến nỗi đếm không xuể.
+Trẻ mồ côi ở đây đủ mọi lứa tuổi, vóc dáng và hoàn cảnh. Đứa thì mất cả cha lẫn mẹ dưới nanh vuốt quái vật hoặc đạo tặc, đứa lại đơn giản là bị bỏ rơi trước thềm cô nhi viện ngay từ lúc mới lọt lòng. Ở Maalt, chuyện bị bỏ rơi thì hiếm, chứ mất cha mẹ thì nhiều như cơm bữa. Bởi lẽ, chỉ cần bước chân ra khỏi bức tường thành kiên cố của thị trấn, bất trắc gì cũng có thể ập xuống đầu. Một ngôi làng dẫu dựng ở nơi tưởng như an toàn, hiếm khi thấy bóng dáng quái vật, cũng có thể bị một toán cướp lang thang san phẳng trong chớp mắt, hoặc bị lũ quái vật đánh hơi thấy hơi người kéo đến tàn sát. Những tai ương như thế xảy ra hằng ngày, nhiều đến nỗi đếm không xuể.
 
-Thế giới này là vậy đấy, cay đắng nhưng đành chịu. Mấy đứa trẻ ở đây kể ra vẫn còn may mắn chán, chí ít chúng vẫn còn sống và có một mái nhà che mưa che nắng.
+Thế giới này vốn là vậy, dù có xót xa đến mấy. Những đứa trẻ mồ côi ở đây kể ra vẫn còn may mắn, chí ít chúng vẫn giữ được mạng sống và có một mái nhà che mưa che nắng.
 
-Nghĩ lại thì, lũ trẻ nhìn tôi chòng chọc như thế cũng phải thôi, cứ nhìn bộ dạng tôi lúc này là hiểu.
+Nghĩ lại thì, mấy cô bé ấy nhìn tôi chòng chọc như thế cũng phải thôi, cứ nhìn bộ dạng tôi lúc này là hiểu.
 
-Cô bé tóc ngắn dẫn tôi vào một căn phòng trông như phòng tiếp khách, rồi đi pha trà. Trong lúc cô bé ra ngoài, trẻ con bắt đầu kéo vào phòng. Hết đứa này đến đứa khác lũ lượt kéo đến, chẳng mấy chốc đã đông nghịt. Chắc tại trông tôi lạ mắt quá. Một mạo hiểm giả khoác áo choàng, đeo mặt nạ kín mít thế này, đời nào chúng được thấy hằng ngày.
+Cô bé tóc ngắn dẫn tôi vào một căn phòng trông như phòng tiếp khách, rồi đi pha trà. Trong lúc cô bé ra ngoài, trẻ con bắt đầu kéo vào phòng. Hết bé gái này đến bé gái khác nối đuôi nhau bước vào, chẳng mấy chốc đã tụ thành một đám đông. Chắc trông tôi lạ mắt với chúng lắm, vì một mạo hiểm giả khoác áo choàng, đeo mặt nạ kín mít thế này hẳn chẳng phải kiểu người mà chúng thường xuyên bắt gặp.
 
 Mạo hiểm giả ăn mặc giống tôi ngoài kia không thiếu, nhưng với người ngoài nghề thì bộ dạng này chắc vẫn toát ra vẻ gì đó khác thường.
 
-Hiểm nguy mà giới mạo hiểm giả phải đối mặt đâu giống với dân thị trấn bình thường. Người thường làm sao phải liên tục chạm trán những tai nạn có thể thiêu cháy hay rạch nát mặt mũi đến mức chẳng bao giờ lành lặn lại được. Chiếc áo choàng tôi mặc lại càng khiến tôi thêm phần khả nghi. Mạo hiểm giả tuy cũng hay khoác áo choàng để ngụy trang, tránh quái vật phát hiện khi băng qua mê cung hay rừng rậm, nhưng họ thường chọn màu nâu sẫm. Còn áo của tôi thì đen tuyền một màu.
+Hiểm nguy mà giới mạo hiểm giả phải đối mặt đâu giống với dân thị trấn bình thường. Người thường làm sao phải liên tục chạm trán những tai nạn có thể thiêu cháy hay rạch nát mặt mũi đến mức chẳng bao giờ lành lặn lại được. Chiếc áo choàng tôi mặc lại càng tô đậm thêm vẻ khác thường ấy. Mạo hiểm giả tuy cũng hay khoác áo choàng để ngụy trang, tránh quái vật phát hiện khi băng qua mê cung hay rừng rậm, nhưng họ thường chọn màu nâu sẫm. Còn áo của tôi thì đen tuyền một màu.
 
 Nghĩ vậy nên tôi chẳng nỡ trách mấy cô bé cứ trố mắt nhìn mình. Đã thế, một mạo hiểm giả như tôi lại còn đích thân tới tận cô nhi viện. Khỏi phải nói, mạo hiểm giả bình thường chẳng bao giờ đặt chân đến đây, đơn giản vì cô nhi viện làm gì có tiền mà thuê mướn họ.
 
@@ -22,11 +22,11 @@ Tình trạng này ở hầu hết các vương quốc trên khắp đại lục
 
 Thành thử, mạo hiểm giả mà bén mảng tới cô nhi viện thì đúng là chuyện xưa nay hiếm. Thảo nào lũ trẻ lại xúm đông xúm đỏ quanh tôi như thế này.
 
-Thấy cảnh tượng đó, lòng tôi có chút chùng xuống. Bản thân tôi thì lành tính thật đấy, nhưng mạo hiểm giả phần nhiều đều là phường bất hảo, tính tình khó lường, đời nào lại là hạng người để lũ trẻ cứ thế sấn lại gần.
+Thấy cảnh tượng đó, lòng tôi có chút chùng xuống. Bản thân tôi thì tương đối vô hại, nhưng dân mạo hiểm giả thường chẳng mấy ai có tư cách đàng hoàng, đâu phải hạng người mà trẻ con có thể vô tư sấn lại gần như thế.
 
 Khổ nỗi, lũ trẻ dường như chẳng mảy may hay biết điều đó.
 
-Như muốn cắt ngang dòng suy nghĩ của tôi, cánh cửa phòng lại mở ra. Cô bé ra đón tôi ngoài cổng lúc nãy đã quay lại, trên tay bưng chiếc khay đựng bộ tách đĩa mộc mạc. Chắc là trà cho tôi.
+Như muốn cắt ngang dòng suy nghĩ của tôi, cánh cửa phòng lại mở ra. Cô bé ra đón tôi ngoài cửa lúc nãy đã quay lại, trên tay bưng chiếc khay đựng bộ tách đĩa mộc mạc. Chắc là trà cho tôi.
 
 Vừa bước vào, cô bé khựng lại ngay tắp lự, hai tay vẫn bưng khay trà. Nhìn đôi mắt em trợn tròn kinh ngạc, có thể thấy rõ cảnh tượng đông đúc trong phòng đã khiến em bất ngờ đến mức nào.
 
@@ -52,11 +52,11 @@ Lời cô bé nói không sai chút nào. Dù chuyện em quát tháo đám nh�
 
 Chẳng qua người có mặt ở cô nhi viện hôm nay tình cờ lại là tôi, chứ không phải mấy tên bặm trợn bước ra từ quán rượu. Nhưng điều đó cũng chẳng làm thay đổi sự thật rằng mạo hiểm giả vốn là những kẻ nguy hiểm.
 
-Dẫu vậy, mạo hiểm giả nào chịu nhận ủy thác của cô nhi viện với giá bèo bọt chỉ một đồng xu đồng thì chắc cũng chẳng phải loại hung hăng gì cho cam. Cơ mà cẩn tắc vô ưu vẫn hơn. Với những kẻ yếu thế nghèo hèn, cảnh giác trước những kẻ quái dị—cụ thể là phường mạo hiểm giả—luôn là lẽ sinh tồn tối thiểu.
+Dẫu vậy, mạo hiểm giả nào chịu nhận ủy thác của cô nhi viện với thù lao vỏn vẹn một đồng xu đồng thì chắc cũng chẳng phải kẻ hung hãn gì cho cam, nhưng cẩn thận vẫn hơn. Với những người yếu thế thấp cổ bé họng, cảnh giác trước những kẻ kỳ dị khác thường, cụ thể là giới mạo hiểm giả, luôn là lẽ thường tình.
 
 Hiểu được ý tôi, cô bé khẽ cúi đầu: "Em thật lòng xin lỗi ạ... Mấy đứa đó chẳng chịu nghe lời gì cả, em đã dặn đi dặn lại là không được chõ mũi vào chỗ nguy hiểm rồi. Lúc nào cũng chỉ giỏi gây chuyện. Thường ngày ngoan lắm, thế mà hễ lơ mắt đi một cái là..."
 
-Chỉ cần người trông coi lơ đi một chốc là tính tò mò lại trỗi dậy. Tôi hiểu ý cô bé. Trẻ con đứa nào chẳng vậy, có điều trong số đó có mấy đứa trông cũng lớn tướng rồi. Ấy thế mà đến chúng cũng chẳng chút cảnh giác hay sợ hãi gì sất.
+Chỉ cần người trông coi lơ đi một chốc là tính tò mò lại trỗi dậy. Tôi hiểu ý cô bé. Trẻ con đứa nào chẳng vậy, có điều trong số đó có mấy đứa trông cũng khá lớn rồi. Ấy thế mà đến chúng cũng chẳng chút cảnh giác hay e dè gì cả.
 
 "Tò mò... không hẳn là xấu. Nhất là với trẻ con. Nhưng... chúng vẫn nên... cẩn thận thì hơn. Mạo hiểm giả ở Maalt... phần lớn tuy biết điều. Nhưng dân tứ xứ... vẫn hay ghé qua thị trấn. Nếu không biết giữ mình... vào những lúc đó... chuyện chẳng lành rất dễ... xảy ra đấy."
 
@@ -66,23 +66,23 @@ Mạng người mà mất thì rắc rối to, nhưng kể cả chưa đến m�
 
 Gật đầu trước lời tôi, cô bé ngước nhìn tôi, vẻ mặt vừa tò mò vừa như không tin nổi: "Nhưng mà... anh là một mạo hiểm giả tốt bụng nhỉ? Ai cũng bảo mạo hiểm giả cắm chốt ở Maalt phần lớn đều biết điều... nhưng hiếm có ai để tâm đến mức này lắm ạ."
 
-Bảo là không có ai tốt bụng như tôi thì không đúng, nhưng lắm kẻ sẽ chọn cách lờ đám trẻ đi và cười trừ cho qua chuyện khi được xin lỗi. Chẳng mấy ai rảnh rỗi đi lên lớp cho khách hàng về sự nguy hiểm của giới mạo hiểm giả như tôi.
+Bảo là không có mạo hiểm giả nào để tâm như tôi thì không đúng, nhưng phần đông sẽ chọn cách lờ đám trẻ đi và cười trừ cho qua chuyện khi được xin lỗi. Chẳng mấy ai bận tâm nhắc nhở khách hàng về sự nguy hiểm của giới mạo hiểm giả như tôi.
 
-Tôi cũng đâu có thừa hơi đi dạy đời khách hàng, nhưng ít nhất đưa ra lời cảnh báo chừng này là chuyện nên làm. Như vậy, lỡ mai này có chuyện chẳng lành xảy ra, tôi cũng không phải cắn rứt vì đã không mở lời.
+Tôi cũng đâu có thói quen đi rao giảng cho khách hàng, nhưng ít nhất đưa ra lời cảnh báo chừng này là điều hợp lý. Như vậy, lỡ mai này có chuyện chẳng lành xảy ra, tôi cũng không phải hối tiếc vì đã không dặn dò kỹ hơn.
 
-Cứ nghĩ mà xem, cuộc trò chuyện này xảy ra được cũng là nhờ màn chạm trán với lũ trẻ vừa rồi, kể ra âu cũng là điều may.
+Nghĩ vậy thì hôm nay chúng tôi có cuộc trò chuyện này âu cũng là điều may, bởi nó chỉ diễn ra nhờ việc tôi gặp lũ trẻ ban nãy.
 
-Sau từng ấy chuyện sinh tử, tái sinh rồi thành Undead, chắc tôi đã biết quý trọng sinh mạng hơn đôi chút. Cơ mà nghĩ lại thì mình cũng hơi bao đồng thật.
+Sau từng ấy trải nghiệm về sự sống, cái chết rồi cảnh sống dở chết dở của một Undead, có lẽ tôi đã biết trân quý sinh mạng hơn đôi chút; dù vậy, tôi cũng hơi vượt quá phận sự của mình thật.
 
 "Dù không phải là tôi... mà là mạo hiểm giả khác... thấy lũ nhỏ ngây thơ thế này... hẳn họ cũng sẽ nhắc nhở thôi. Điều đó chứng tỏ... sống ở đây... chúng rất hạnh phúc đấy."
 
-Cô nhi viện ở đây không đến nỗi nghèo rớt mồng tơi. Họ vẫn có kinh phí hoạt động, song lũ trẻ được đối xử thế nào lại tùy thuộc vào nơi chúng ở. Sự khác biệt này thấy rõ nhất ở những viện không thuộc quyền quản lý của Giáo Hội Đông Thiên. Ở những nơi đó, trẻ mồ côi thường bị coi là gánh nặng và chẳng mấy khi được chăm sóc tử tế.
+Cô nhi viện không đến nỗi nghèo khổ cùng cực. Họ vẫn có kinh phí hoạt động, song lũ trẻ được đối xử thế nào lại tùy thuộc vào nơi chúng ở. Sự khác biệt này thấy rõ nhất ở những viện không thuộc quyền quản lý của Giáo Hội Đông Thiên. Ở những nơi đó, trẻ mồ côi thường bị coi là gánh nặng và chẳng được chăm sóc tử tế.
 
-Lũ trẻ ở đây thì khác hẳn. Chúng được yêu thương và chăm sóc đàng hoàng. Cứ nhìn thái độ của chúng là rõ: tò mò, nhưng ánh mắt tuyệt nhiên không vướng bận chút sợ hãi hay oán hờn.
+Lũ trẻ ở đây thì khác hẳn. Chúng được yêu thương và chăm sóc đàng hoàng. Cứ nhìn thái độ của chúng là rõ: tò mò, nhưng ánh mắt tuyệt nhiên không có vẻ sợ hãi hay oán giận.
 
-Người quản lý cô nhi viện này hẳn phải là một người vô cùng nhân hậu.
+Người quản lý cô nhi viện này hẳn phải là một người rất mực đạo đức.
 
-Dù mỗi năm tôi vẫn nhận ủy thác từ Cô Nhi Viện Thứ Nhất Maalt đôi ba lần, nhưng chưa bao giờ nhận việc của Viện Thứ Hai. Đơn giản là vì lúc nào cũng có người khác nhanh tay nẫng trước. Khổ nỗi tôi lại chẳng nhớ mấy về người đó, nghĩ mãi mà ký ức vẫn cứ mông lung. Dù vậy, cái tên ấy dường như đã lấp ló ngay đầu lưỡi rồi.
+Dù mỗi năm tôi vẫn nhận ủy thác từ Cô Nhi Viện Thứ Nhất Maalt đôi ba lần, nhưng chưa bao giờ nhận việc của Viện Thứ Hai. Đơn giản là vì lúc nào cũng có người khác nhận trước tôi. Khổ nỗi tôi lại chẳng nhớ mấy về người đó, cố nhớ mãi mà ký ức vẫn cứ mông lung. Dù vậy, cái tên ấy dường như đã lấp ló ngay đầu lưỡi rồi.
 
 Tiếng cô bé lại cắt ngang dòng suy nghĩ của tôi một lần nữa.
 
@@ -98,27 +98,27 @@ Dù vậy, cố gắng của em rất đáng khen, chỉ có điều hơi nhầm
 
 "...Đừng bận tâm. Khi nói chuyện với mạo hiểm giả... khác... có lẽ em nên giữ kẽ. Chứ tôi thì không... câu nệ... mấy chuyện đó đâu."
 
-Những mạo hiểm giả câu nệ tiểu tiết như thế đúng là có thật, nhưng chỉ là thiểu số. Kẻ nào mở mồm ra mà nói năng trịnh trọng, văn vẻ một tí là y như rằng bị coi là làm bộ làm tịch. Dân mạo hiểm giả hay lôi đủ thứ chuyện ra để châm chọc nhau, mà cách ăn nói là đề tài thường xuyên nhất. Thế nhưng, hễ có gã nào ăn nói lịch thiệp với mấy cô nhân viên tiếp tân ở Hội, đám kia lại nín khe, thậm chí còn tấm tắc khen gã có phong độ hiệp sĩ. Đúng là mạo hiểm giả, ở đâu cũng mâu thuẫn và phức tạp đến nực cười.
+Những mạo hiểm giả câu nệ tiểu tiết như thế đúng là có thật, nhưng chỉ là thiểu số. Ai mà ăn nói trịnh trọng, trau chuốt một chút là thường bị coi là làm bộ làm tịch. Dân mạo hiểm giả hay lôi đủ thứ chuyện ra để châm chọc nhau, mà cách ăn nói là đề tài thường xuyên nhất. Thế nhưng, hễ có người nào ăn nói lịch thiệp với mấy cô nhân viên ở Hội, những lời trêu chọc ấy lại biến mất, thậm chí người ta còn khen ngợi cái vẻ hào hoa phong nhã đó. Mạo hiểm giả đúng là những kẻ phức tạp và đầy mâu thuẫn trên nhiều phương diện.
 
-Phần lớn mạo hiểm giả chẳng nề hà chuyện buông lời trêu ghẹo hay lăn lộn với gái làng chơi, nhưng nghe đâu họ lại luôn săn đón những phụ nữ đài các để khỏa lấp sự thô kệch trong giao tiếp của mình. Cái lối nghĩ ấy, tôi chịu, chẳng tài nào hiểu hay đồng cảm nổi.
+Phần lớn mạo hiểm giả chẳng nề hà chuyện trò chuyện hay qua đêm với gái làng chơi bình dân, nhưng nghe đâu họ lại hay tìm kiếm những phụ nữ đài các để khỏa lấp sự thiếu lịch lãm trong giao tiếp của mình. Cái lối nghĩ ấy thì tôi chịu, chẳng tài nào hiểu hay đồng cảm nổi.
 
-Dù sao đi nữa, tôi cũng chẳng bận tâm chuyện người khác xưng hô kính cẩn với mình—nghĩ lại thấy nãy giờ mình lảm nhảm hơi xa rồi đấy.
+Dù sao đi nữa, tôi cũng chẳng bận tâm chuyện người khác nói năng trang trọng với mình. Mà nghĩ lại thì nãy giờ tôi suy nghĩ lan man hơi xa rồi.
 
-Tóm lại, mạo hiểm giả chẳng mấy ai ưa cái thói thưa gửi cung kính.
+Tóm lại, đa số mạo hiểm giả chẳng mấy ai thích được xưng hô cung kính.
 
-Cô bé thoáng ngập ngừng ngẫm nghĩ, rồi gật đầu: "Em hiểu rồi. Nhưng anh cấm có được giận đấy nhé? Chính miệng anh bảo thế đấy," giọng điệu em lúc này đã tự nhiên hơn hẳn.
+Cô bé thoáng ngập ngừng ngẫm nghĩ, rồi gật đầu: "Em hiểu rồi. Nhưng anh đừng có giận đấy nhé? Chính anh bảo thế mà," cô bé nói với giọng điệu tự nhiên hơn hẳn.
 
-Tôi đoán đây mới đúng là giọng điệu thường ngày của một đứa trẻ cỡ tuổi này.
+Tôi đoán đây mới là cách nói chuyện tự nhiên của một đứa trẻ.
 
-Sống ở nơi này thì em hẳn cũng là trẻ mồ côi như bao đứa khác. Mai này bước ra đời, em sẽ phải học cách ăn nói khéo léo và biết nhìn sắc mặt người khác, kẻo vướng vào những tai vạ không đáng có. Thiếu đi những kỹ năng ấy, em sẽ chẳng thể tự bảo vệ mình, thậm chí mất mạng như chơi, bởi địa vị của trẻ mồ côi trong xã hội vốn chẳng có chút trọng lượng nào.
+Sống ở nơi này thì em hẳn cũng là trẻ mồ côi như bao đứa trẻ khác ở đây. Mai này em sẽ phải cố gắng rèn cách ăn nói trang trọng và biết nhạy bén trong giao tiếp, kẻo vướng vào những chuyện rắc rối không hay. Nếu không có những kỹ năng ấy, em sẽ chẳng thể tự vệ và có khi mất mạng như chơi, bởi vị thế xã hội của trẻ mồ côi vốn chẳng có chút sức nặng nào.
 
-Nghĩ theo hướng đó thì khéo tôi vừa làm một chuyện dở hơi. Dù sao thì thấy cô bé nhẹ nhõm hơn hẳn khi nói năng như vậy, khéo thế lại hay.
+Nghĩ theo hướng đó thì có lẽ tôi vừa làm một việc thừa thãi. Nhưng thấy cô bé thoải mái hơn hẳn khi nói chuyện như vậy, biết đâu thế lại tốt hơn.
 
-Lỡ như tôi có vô tình làm hư em phần nào, thì chí ít tôi cũng sẽ hoàn thành trọn vẹn ủy thác lần này để bù lại.
+Kể cả có vô tình gây bất lợi cho em ở phương diện nào đó, chí ít tôi cũng sẽ hoàn thành trọn vẹn ủy thác của em để bù lại.
 
-"...Được rồi... dĩ nhiên rồi. Tôi không... giận đâu. Về chuyện... ủy thác... nhưng trước đó, chúng ta... nên giới thiệu tên tuổi đã. Tên tôi là... Rentt. Rentt... Vivie. Một mạo hiểm giả... Đồng Cấp."
+"Ừ... dĩ nhiên rồi. Tôi sẽ không... giận đâu. Về chuyện... ủy thác. Nhưng... trước đó. Chúng ta nên... giới thiệu tên tuổi đã. Tên tôi là... Rentt. Rentt... Vivie. Một mạo hiểm giả... Đồng Cấp."
 
-"Đồng Cấp á...? Em cứ ngỡ anh là mạo hiểm giả Thiết Cấp cơ... Tại vì ủy thác của cô nhi viện mà lại... À, em là Alize. Em không có họ đâu."
+"Đồng Cấp á...? Em cứ ngỡ anh là mạo hiểm giả Thiết Cấp cơ... Tại vì đây là ủy thác của cô nhi viện mà... À, em là Alize. Em không có họ đâu."
 
 Trẻ mồ côi xuất thân từ đủ mọi hoàn cảnh, nên chuyện không có họ cũng chẳng lạ, đa phần là do không ai rõ cha mẹ chúng là ai. Thường thì chỉ khi được nhận nuôi hoặc lúc trưởng thành ra riêng, chúng mới được đặt cho một cái họ.
 
@@ -162,7 +162,7 @@ Alize vẫy tay ra hiệu rồi quay người bước ra khỏi phòng tiếp kh
 
 Tôi bước theo sau Alize, nhưng chẳng mấy chốc đã dừng chân trước một căn phòng. Cô bé tiến lại gần rồi gõ cửa hai tiếng cộc cộc.
 
-"Con là Alize đây ạ..." cô bé cất tiếng, mắt nhìn đăm đăm vào cánh cửa.
+"Con là Alize đây ạ..." cô bé cất tiếng, ánh mắt như nhìn xuyên qua cánh cửa trước mặt.
 
 "Vào đi con."
 
@@ -172,27 +172,27 @@ Alize khẽ gật đầu: "Con xin phép..."
 
 Nói rồi, Alize đẩy cửa bước vào. Cô bé liếc nhìn tôi, khẽ nghiêng đầu ra hiệu bảo tôi đi cùng.
 
-Căn phòng bài trí rất mộc mạc, chỉ có một chiếc kệ nhỏ, cái bàn và chiếc giường đơn sơ. Trên giường, một người phụ nữ trung niên đang nằm; vừa thấy tôi và Alize bước vào, bà đã chật vật gượng người ngồi dậy.
+Căn phòng bài trí rất mộc mạc, chỉ có một chiếc kệ nhỏ, cái bàn và chiếc giường đơn sơ. Trên giường, một người phụ nữ trung niên đang nằm; vừa thấy tôi và Alize bước vào, người phụ nữ ấy đã chật vật gượng người ngồi dậy.
 
 "Rất hân hạnh được gặp cậu. Cảm ơn cậu nhiều lắm vì đã nhận lời giúp chúng tôi... dọn dẹp kho chứa dưới hầm của cô nhi viện. Chúng tôi chẳng có gì nhiều để đền đáp ơn này, nhưng xin cậu hiểu cho là chúng tôi vô cùng biết ơn tấm lòng của cậu. Tôi là người phụ trách cô nhi viện này, Sơ Lillian Jeunne, thuộc Giáo Hội Đông Thiên. Trăm sự xin nhờ cả vào lòng tốt của cậu."
 
-Sự lệch quẻ giữa yêu cầu của Alize và những gì Sơ vừa nói làm tôi hơi nghiêng đầu thắc mắc. Nhìn ánh mắt cô bé hướng về phía mình, tôi hiểu ý nên quyết định nín thinh. Dù sao thì trước hết cũng nên chào hỏi đã.
+Sự khác biệt giữa yêu cầu của Alize và những gì sơ vừa nói làm tôi hơi nghiêng đầu thắc mắc. Nhìn ánh mắt cô bé hướng về phía mình, tôi hiểu ý nên quyết định giữ im lặng. Dù sao thì trước hết cũng nên chào hỏi đã.
 
-"...À... vâng. Tôi là... Rentt Vivie. Mạo hiểm giả thuộc... Hội Mạo Hiểm Giả. Thỉnh thoảng... nhận mấy ủy thác như thế này... cũng không... tệ chút nào."
+"...À... vâng. Tôi là... Rentt Vivie. Thuộc... Hội Mạo Hiểm Giả. Thỉnh thoảng... nhận mấy ủy thác như thế này. Cũng không... tệ chút nào."
 
-Thực tế mà nói, tôi nhận ủy thác này chẳng qua vì thấy mình nên nhận. Chấp nhận hay khước từ là quyền của mạo hiểm giả. Nhưng một khi đã gật đầu thì phải làm đến nơi đến chốn, mạo hiểm giả xưa nay vốn vậy. Đôi bên vốn dĩ bình đẳng, khách hàng việc gì phải hạ mình nhún nhường đến mức ấy.
+Thực tế mà nói, tôi nhận ủy thác này chẳng qua vì thấy mình nên nhận. Chấp nhận hay khước từ là quyền của mạo hiểm giả. Nhưng một khi đã gật đầu thì phải làm việc, lệ của mạo hiểm giả vốn là vậy. Khách hàng và mạo hiểm giả vốn dĩ bình đẳng, nên khách hàng chẳng có lý do gì phải hạ mình nhún nhường trước mạo hiểm giả như thế.
 
-"Nghe cậu nói vậy tôi thấy an lòng lắm... Kho dưới hầm của viện tuy nhỏ, nhưng ngặt nỗi có quái vật nên tôi chẳng dám để lũ trẻ xuống đó. Nếu sức khỏe còn như trước, tự tay tôi đã đi diệt quái rồi, chứ giờ thì..."
+"Nghe cậu nói vậy tôi thấy ấm lòng lắm... Kho dưới hầm của viện tuy nhỏ, nhưng ngặt nỗi có quái vật nên tôi chẳng thể để lũ trẻ xuống dọn được. Nếu sức khỏe còn tốt, tự tay tôi đã đi diệt quái rồi, chứ giờ thì..."
 
-Tôi thoáng thắc mắc liệu một phụ nữ ngoài bốn mươi, dáng người hơi đậm như Sơ Lillian thì đánh quái kiểu gì, nhưng vẻ im lặng và ánh mắt đầy tôn kính của Alize đã đập tan mối hoài nghi đó. Giới tu sĩ và tư tế thường được huấn luyện võ nghệ phòng thân, thế nên ngoài mạo hiểm giả ra, họ là giới hiếm hoi tinh thông các kỹ năng chiến đấu.
+Tôi thoáng thắc mắc liệu một phụ nữ ngoài bốn mươi, dáng người hơi đẫy đà như Sơ Lillian thì chiến đấu với quái vật kiểu gì, nhưng vẻ im lặng và ánh mắt đầy tôn kính của Alize đã thuyết phục tôi nghĩ lại. Giới tu sĩ và tư tế thường được huấn luyện để có khả năng chiến đấu nhất định, thế nên ngoài mạo hiểm giả ra, họ là giới duy nhất thường thông thạo các kỹ năng chiến đấu.
 
-Chưa kể còn phải tính đến Thần Lực, mà một khi đã dùng đến nó thì thể hình của Sơ đâu còn quan trọng. Ngọn lửa thanh tẩy bốc ra từ Thần Lực dư sức thiêu rụi lũ quái vật trong một gian phòng chật hẹp kín mít.
+Chưa kể còn phải tính đến việc sử dụng Thần Lực, mà trong trường hợp đó thì vóc dáng của sơ đâu còn quan trọng. Ngọn lửa thanh tẩy tạo ra từ hào quang Thần Lực dư sức thiêu rụi lũ quái vật trong một không gian nhỏ và kín như vậy.
 
-So với năng lực trên lý thuyết của Sơ Lillian, Thần Lực của tôi quả thực yếu xìu. Tôi vốn chẳng phải tín đồ sùng đạo của giáo phái nào, nên có thua kém xa lắc cũng là lẽ đương nhiên.
+So với năng lực trên lý thuyết của Sơ Lillian, Thần Lực của tôi quả thực yếu ớt. Tôi vốn chẳng phải tín đồ sùng đạo của giáo phái nào, nên có chênh lệch như thế cũng chẳng làm sao khác được.
 
-Dẫu vậy tôi cũng chẳng bận lòng, bởi dạo ở chỗ Clope tôi đã học lỏm được khối cách ứng dụng Thần Lực. Chỉ cần biết linh hoạt biến hóa, tôi vẫn có thể tạo ra những kết quả ra trò.
+Tôi cũng chẳng bận tâm lắm, bởi lúc ở chỗ Clope tôi đã học được khá nhiều về các cách ứng dụng Thần Lực. Chỉ cần biết sáng tạo trong cách vận dụng Thần Lực, tôi vẫn có thể tạo ra những kết quả đáng nể.
 
-Tiện nhắc đến chuyện đó, dạo trước tôi từng thử dùng Dung Hợp Thuật để kết hợp Thần Lực với Ma Lực, nhưng thất bại thảm hại. Phản ứng tạo ra khi trộn Thần Lực với Ma Lực quá đỗi dữ dội, hung hãn hơn hẳn sự kết hợp giữa Ma Lực và Khí Lực. Còn trộn Thần Lực với Khí Lực cũng chẳng khá khẩm hơn, bởi hai luồng năng lượng truyền vào vũ khí cứ hễ chạm nhau là lập tức tiêu tán sạch bách. Khéo chúng xung khắc, hoặc chí ít là độ tương thích quá thấp. Cơ mà tôi vẫn có cảm giác nếu rèn luyện thêm, hoặc nắm được bí quyết nào đó mình chưa biết, chuyện này hoàn toàn có thể làm được.
+Nhắc mới nhớ, tôi từng thử dùng Dung Hợp Thuật để kết hợp Thần Lực với Ma Lực, nhưng lần thử nghiệm đó đã thất bại. Phản ứng quan sát được khi pha trộn Thần Lực với Ma Lực quá mức dữ dội, nhất là khi so với phản ứng giữa Ma Lực và Khí Lực. Trộn Thần Lực với Khí Lực cũng chẳng mang lại kết quả khả quan hơn, chủ yếu là vì hai nguồn năng lượng bên trong vũ khí lập tức tiêu tán ngay khoảnh khắc hòa vào nhau. Có lẽ chúng đơn giản là không tương thích, hoặc chí ít là độ tương thích thấp. Dù sao đi nữa, tôi vẫn có cảm giác nếu luyện tập đủ nhiều, hoặc nắm được một kỹ thuật nào đó mà mình chưa biết, việc ứng dụng thành công hoàn toàn có thể làm được.
 
 Sơ Lillian từng biết đánh nhau, nhưng giờ thì đành chịu. Nhìn sắc mặt là biết vị sơ tốt bụng này đang có bệnh trong người.
 

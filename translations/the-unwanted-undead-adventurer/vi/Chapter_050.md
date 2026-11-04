@@ -1,12 +1,12 @@
 # Chương 50: Tập 2 Chương 4 - Hoa Long Huyết (3)
 
-Tôi chỉ buông đúng một câu ngắn, nhưng Alize thừa hiểu tôi muốn hỏi gì.
+Tôi chỉ nói ngắn gọn vậy thôi, nhưng Alize hiểu rất rõ điều tôi muốn hỏi.
 
-Nghĩ cũng phải, bởi lúc nói chuyện với Sơ Lillian, chính Alize là người đã ra hiệu bảo tôi nín lặng.
+Nghĩ cũng phải, bởi lúc nói chuyện với Sơ Lillian, chính Alize là người đã ra hiệu bảo tôi giữ im lặng.
 
 "Em xin lỗi vì đã làm phiền anh nhiều như vậy... Thật ra có nguyên do cả đấy ạ..." Alize áy náy mở lời.
 
-Tôi chẳng thể trách Alize, nhất là khi cô bé đã chịu nói thật. Tôi đâu có ý tra khảo hay dồn em vào thế khó, nhưng quả thật tôi rất muốn biết vì sao lúc nãy lại phải giấu giếm trước mặt Sơ Lillian.
+Tôi chẳng thể trách Alize, nhất là khi cô bé đã chịu nói thật. Tôi đâu có ý tra khảo hay dồn em vào thế khó, nhưng quả thật tôi rất muốn biết vì sao lúc nãy lại phải nói dối trước mặt Sơ Lillian.
 
 "Dạ... Anh cũng thấy tình cảnh của sơ rồi đúng không? Sơ Lillian ấy... Bản thân sơ chẳng nhận ra đâu, nhưng thật ra sơ ốm nặng lắm..." Alize cuối cùng cũng bắt đầu giải thích.
 
@@ -16,13 +16,13 @@ Chỉ nghe đến đó, tôi đã đoán được phần nào thực chất ủy
 
 "Tụi em có nhờ thầy trị liệu đến xem rồi... Ý em là xem bệnh cho Sơ Lillian ấy. Nhưng ma thuật không chữa được... Bệnh này chỉ trị được bằng Thần Lực của những ai được ban phước bởi một dạng tinh linh trị liệu nào đó thôi..."
 
-"Nói ra... có hơi thất lễ... nhưng chắc các em... phải trả cho thầy trị liệu... một khoản không nhỏ... chỉ để người ta... chịu đến khám cho... Sơ Lillian nhỉ."
+"Nói điều này... có lẽ hơi thất lễ. Nhưng chắc các em... đã phải trả cho thầy trị liệu. Một khoản tiền không nhỏ... chỉ để người ta... chịu đến khám cho... Sơ Lillian."
 
 Alize bật cười trước lời tôi nói, rồi giơ ngón trỏ chỉ vào tôi: "Những người như anh nhiều hơn anh tưởng đấy! Người ta bảo nếu là chữa cho Sơ Lillian thì không lấy một xu nào. Ừm, ít nhất thì họ nói thế đấy ạ."
 
 Tôi nghĩ điều đó cũng dễ hiểu, bởi sơ thuộc Giáo Hội Đông Thiên, lại còn là nữ tu trông nom cả một cô nhi viện. Chắc chắn đã có biết bao người từng được bàn tay nhân từ của sơ cứu giúp, hay được sơ dùng Thần Lực cứu nguy trong những phen ngặt nghèo. Hồi còn khỏe, sơ thừa sức chiến đấu với quái vật mà.
 
-"Dạ... Vì thế nên trừ phi có Thánh Nữ hay đại tư tế nào ghé qua, bằng không tụi em phải có thuốc thì mới chữa được cho Sơ Lillian. Thật ra cách đây ít lâu từng có một Thánh Nữ ghé thăm thị trấn, ngặt nỗi hồi đó Sơ Lillian vẫn còn khỏe re..."
+"Dạ... Vì thế nên trừ phi có Thánh Nữ hay đại tư tế nào ghé qua, bằng không tụi em phải có thuốc thì mới chữa được cho Sơ Lillian. Thật ra cách đây ít lâu từng có một Thánh Nữ ghé thăm thị trấn, ngặt nỗi hồi đó Sơ Lillian vẫn còn khỏe mạnh..."
 
 Nếu nhớ không nhầm thì đúng là từng có một vị Thánh Nữ như thế đến thăm Maalt hồi tôi còn sống. Nếu giờ mà hai bên chạm mặt nhau, khéo người ta coi tôi là mục tiêu cần thanh tẩy mất...
 
@@ -30,7 +30,7 @@ Nghe đồn chỉ cần ngắm nhìn một Thánh Nữ thôi cũng đủ khiến
 
 "Và để làm ra... loại thuốc đó. Em cần một đóa... Hoa Long Huyết... đúng không?"
 
-"Vâng, đúng vậy ạ! Thuốc sẽ do người thầy trị liệu em vừa kể hỗ trợ bào chế... Chú ấy bảo sẽ tìm người biết điều chế giúp. Còn tiền nong... Em có nói là mình sẽ trả, nhưng chú ấy nhất quyết không nhận một đồng nào của tụi em cả."
+"Vâng, đúng vậy ạ! Thuốc sẽ do người thầy trị liệu em vừa kể hỗ trợ bào chế... Thầy ấy bảo sẽ tìm người biết điều chế giúp. Còn tiền công... em có nói là sẽ trả, nhưng thầy ấy từ chối không nhận của tụi em thứ gì cả."
 
 Chắc hẳn người thầy trị liệu đó định chi trả thay cho Alize. Thỉnh thoảng ở đời cũng có những chuyện ấm lòng như vậy, mà lần này là lòng tốt của Sơ Lillian đã lan tỏa để rồi quay về đền đáp cho sơ, khi rất nhiều người đều muốn chung tay giúp đỡ.
 
@@ -50,7 +50,7 @@ Nghĩ lại thì, ngay cả tôi dạo gần đây cũng dùng một lượng kh
 
 "Chuyện này mà... lộ ra ngoài... thì rắc rối lắm sao...?"
 
-"Dĩ nhiên rồi ạ! Sơ Lillian đời nào chịu nhờ vả chuyện như thế. Vả lại... Bệnh Tích Tụ Chướng Khí đâu có làm người ta chết ngay, thành thử mở lời xin giúp đỡ lại càng khó. Căn bệnh này cứ gặm nhấm người ta từng ngày... Theo lời thầy trị liệu, một người vốn khỏe mạnh cũng phải mất từ năm đến mười năm mới mất mạng... Sơ Lillian mà biết chuyện, thế nào sơ cũng xin Giáo Hội Đông Thiên điều một nữ tu khác đến thay mình cho mà xem!"
+"Dĩ nhiên rồi ạ! Sơ Lillian đời nào chịu nhờ vả chuyện như thế. Vả lại... Bệnh Tích Tụ Chướng Khí đâu có làm người ta chết ngay, thành thử mở lời xin giúp đỡ lại càng khó. Căn bệnh này cứ gặm nhấm người ta từng ngày... Theo lời thầy trị liệu, một người vốn khỏe mạnh cũng phải từ năm đến mười năm mới phát bệnh tới chết... Sơ Lillian mà biết chuyện, thế nào sơ cũng xin Giáo Hội Đông Thiên điều một nữ tu khác đến thay mình cho mà xem!"
 
 Tính thanh bần của Sơ Lillian quả thực không chút giả tạo.
 
@@ -58,7 +58,7 @@ Với một khoản tiền bình thường thì đừng hòng thuê nổi mạo 
 
 Người ngoài nhìn vào hẳn sẽ nghĩ người tốt như sơ thế nào cũng mở lời nhờ giúp, bởi cô nhi viện thiếu sơ thì lấy ai gánh vác. Thế nhưng do đặc tính của căn bệnh, sơ thà để đồng nghiệp khác đến thay thế còn hơn là tốn tiền chạy chữa. Nghĩ vậy cũng có lý, nhưng thật là một cách nghĩ quá đỗi phiền phức. Giờ thì tôi đã hiểu vì sao Alize phải tha thiết xin tôi giấu nhẹm mục đích thực sự của chuyến này.
 
-Phần lớn tu sĩ và nữ tu sống theo giáo lý Đông Thiên quả thực đều có tâm tính bồ tát, nhưng chính cái đức tính ấy giờ lại thành nguồn cơn rắc rối. Kể cả khi tính mạng bị đe dọa, Sơ Lillian cũng chỉ coi đó là một phần trong phận sự phụng sự thánh thần.
+Phần lớn tu sĩ và nữ tu sống theo giáo lý Đông Thiên quả thực đều nhân từ như bậc thánh nhân, nhưng chính cái đức tính ấy giờ lại thành nguồn cơn rắc rối. Kể cả khi tính mạng bị đe dọa, Sơ Lillian cũng chỉ coi đó là một phần trong phận sự phụng sự thánh thần.
 
 Căn bệnh này chữa không khó, miễn là có đủ tiền. Ngặt nỗi Sơ Lillian đời nào chịu bỏ ra một món tiền lớn đến thế cho riêng mình. Hèn chi Alize phải xoay xở bằng cách nói thác như thế, và may là lúc nãy tôi đã kịp giữ mồm giữ miệng.
 
@@ -122,7 +122,7 @@ Tôi chỉ vào góc tối của căn phòng: "Đằng kia... Thấy không? Nó
 
 Nằm chồm hỗm trong góc phòng chính là một con Puchi Suri, loài quái vật nhỏ mang hình thù chuột.
 
-Tôi nhớ trước kia Lorraine từng nói đây là loài quái vật hay bị giới học giả đem ra mổ xẻ thí nghiệm. Bình thường chúng chỉ nhỉnh hơn chuột cống một tí. Đằng này con trước mắt phải to gấp năm lần, hèn gì Alize lại kêu to. Chắc do nơi này hợp môi trường nên nó mới béo mẫm được như thế.
+Tôi nhớ trước kia Lorraine từng nói đây là loài quái vật hay bị giới học giả đem ra làm thí nghiệm. Bình thường chúng chỉ nhỉnh hơn chuột cống một chút. Đằng này con trước mắt phải to gấp năm lần, hèn gì Alize lại nhận xét như thế. Có lẽ môi trường ở đây thuận lợi cho sự phát triển của nó.
 
 Nhác thấy chúng tôi, con Puchi Suri liền quay phắt lại, rít khè khè rồi nhe răng đe dọa. Phải thừa nhận là răng nanh con chuột này sắc thật, lóe sáng như mấy lưỡi dao trong bóng tối.
 
@@ -136,17 +136,17 @@ May mà tôi có mang theo dao giải phẫu, dù nó chỉ truyền được m�
 
 Dặn xong, tôi siết chặt cán dao, đạp mạnh chân lên nền gạch lạnh ngắt của căn hầm rồi lao vút về phía con quái vật.
 
-Puchi Suri là loài sinh vật đơn giản. Chúng nhanh hơn người bình thường, nên bắt sống được chúng cũng trầy trật lắm.
+Puchi Suri là loài sinh vật đơn giản. Chúng nhanh hơn người bình thường, nên bắt được chúng cũng khá vất vả.
 
-Nhưng với mạo hiểm giả thì lại khác. Trước một người biết dùng Ma Lực hay Khí Lực để cường hóa thân thể, Puchi Suri đừng hòng có cửa thắng.
+Nhưng với mạo hiểm giả thì lại khác. Trước một người biết dùng Ma Lực hay Khí Lực để cường hóa thân thể, Puchi Suri đừng hòng có cơ hội chiến thắng.
 
 Canh chuẩn hướng, tôi vung dao giải phẫu chém nhẹ một nhát trúng con Puchi Suri đang lao tới. Cú chém hất văng con quái vật đi, tất cả là nhờ Ma Lực và sức mạnh Undead của tôi.
 
 Con quái vật đập sầm vào tường hầm kêu một tiếng "bịch" kèm theo tiếng ré chói tai, rồi trượt dài xuống nằm bất động trên nền gạch lạnh ngắt. Nó vẫn còn thoi thóp thở, dù hơi tàn chẳng còn được bao nhiêu.
 
-Giờ tôi chỉ việc tiễn nó đi nốt cho đỡ khổ. Tôi giơ cao dao, từ từ tiến lại gần con quái vật đang nằm bẹp. Ngờ đâu nó lại bất thình lình bật dậy, chồm thẳng về phía tôi trong cú phản kháng cuối cùng.
+Giờ tôi chỉ việc kết liễu cho nó đỡ đau đớn. Tôi giơ cao dao, từ từ tiến lại gần con quái vật đang nằm bẹp. Ngờ đâu nó lại bất thình lình bật dậy, chồm thẳng về phía tôi trong cú phản kháng cuối cùng.
 
-Với tốc độ chậm rì như thế, tôi thừa sức né đòn. Khổ nỗi Alize lại đang đứng ngay sau lưng tôi. Những phen thế này làm tôi phải suy nghĩ lại về thói quen solo của mình. Bao năm hành nghề một mình đã tập cho tôi cái nếp chỉ lo cho an toàn của bản thân chứ chẳng thèm để ý đến ai khác. Đúng là sơ suất thật...
+Với tốc độ chậm chạp đáng thương như thế, tôi thừa sức né đòn. Khổ nỗi Alize lại đang đứng ngay sau lưng tôi. Những phen thế này làm tôi phải suy nghĩ lại về việc đi mạo hiểm một mình. Bao năm hành nghề đơn độc đã làm tôi quen với việc chỉ tính đến sự an toàn của bản thân hơn là của người khác. Đúng là sơ suất thật...
 
 Vì Alize đứng phía sau nên tôi không thể né cú liều mạng của con quái vật được. Mà vung dao lên chém lúc này cũng không kịp, góc cầm dao không thuận chút nào.
 
@@ -188,46 +188,46 @@ Tình cờ là răng nanh con Puchi Suri lại cắn đúng vào phần da thị
 
 Trong điều kiện bình thường thì chuyện này không đời nào xảy ra. Người ta bảo Thi Quỷ chỉ là dạng Zombie vô tri bước đi lê lết, làm sao nghĩ được điều gì phức tạp. Đào đâu ra một con Thi Quỷ biết chủ động đi tìm nạn nhân để tạo quyến thuộc. Mà giả như có ăn may tạo được, nó cũng chẳng đủ khôn để điều khiển hay chỉ huy quyến thuộc đó.
 
-Dù đơn sơ và yếu ớt đến đâu, Thi Quỷ vẫn có chút ý chí riêng. Chút ý chí ít ỏi đó giúp chúng tuân lệnh các Ma Cà Rồng bậc cao, đồng thời cho phép chúng tạo ra quyến thuộc, dù không kiểm soát được. Khi ấy, Thi Quỷ có thể tạo quyến thuộc bằng cách truyền máu của mình vào cơ thể nạn nhân. Thể xác của kẻ bị cắn sẽ bị biến đổi và rốt cuộc trở thành một Thi Quỷ quyến thuộc.
+Dù đơn sơ và yếu ớt đến đâu, Thi Quỷ vẫn có chút ý chí riêng. Chút ý chí ít ỏi đó giúp chúng tuân lệnh các Ma Cà Rồng bậc cao, đồng thời cho phép chúng tạo ra quyến thuộc, dù không điều khiển được. Như vậy, Thi Quỷ có thể tạo quyến thuộc bằng cách truyền máu của mình vào cơ thể nạn nhân. Nạn nhân bị Ma Cà Rồng tấn công sẽ bị chúng cưỡng ép biến đổi cơ thể, cuối cùng hóa thành một Thi Quỷ quyến thuộc.
 
-Và giờ... máu của tôi vô tình lọt vào cơ thể con Puchi Suri. Cơn co giật vừa rồi chính là lúc cơ thể nó bị dòng máu của tôi biến đổi.
+Và giờ... máu của tôi vô tình lọt vào cơ thể con Puchi Suri. Cơn co giật vừa rồi chính là lúc cơ thể nó bị dòng máu của tôi cưỡng ép biến đổi.
 
-Kết quả là giờ đây giữa tôi và nó đã có một mối liên kết ý nghĩ. Nếu phải diễn tả bằng lời, con Puchi Suri này đem lại cảm giác y như một phần cơ thể tôi vậy, dẫu đó là một phần tách rời, nhỏ thó và mang lốt chuột.
+Kết quả là giờ đây giữa tôi và nó đã có một mối liên kết tâm trí. Nếu phải diễn tả bằng lời, con Puchi Suri này đem lại cảm giác y như một phần cơ thể tôi vậy, dẫu đó là một phần tách rời, nhỏ bé và mang hình hài chuột.
 
 Con Puchi Suri đã biến thành quyến thuộc của tôi. Đó là suy đoán hợp lý duy nhất lúc này.
 
-Dĩ nhiên, nói thẳng chuyện đó với Alize thì chẳng hay ho gì. Chỉ có Ma Cà Rồng cùng vài loài quái vật khác mới làm được trò này. Tôi phải tìm cớ lấp liếm những gì cô bé vừa tận mắt thấy. Với Alize, cảnh tượng vừa rồi ắt hẳn kỳ quặc và khó hiểu vô cùng. May thay, tôi đã nghĩ ra một lý do hoàn hảo để chống chế.
+Dĩ nhiên, nói thẳng chuyện đó với Alize thì chẳng hay ho gì. Chỉ có Ma Cà Rồng cùng vài loài quái vật khác mới làm được việc này. Tôi phải tìm cớ giải thích những gì cô bé vừa tận mắt thấy. Với Alize, toàn bộ cảnh tượng vừa rồi ắt hẳn kỳ quặc và khó hiểu vô cùng. May thay, tôi đã nghĩ ra một lời giải thích hoàn hảo để lấp liếm cho qua.
 
 "Có vẻ như... ý chí của tôi... đã truyền sang con quái vật rồi."
 
-"Truyền sang" là một thuật ngữ cổ mang tính chuyên môn của giới thuần hóa quái vật, dùng để chỉ khoảnh khắc ma pháp đặc thù của họ khống chế được tâm trí quái vật, biến nó thành đầy tớ ngoan ngoãn. Về cơ bản, tôi đang muốn Alize tin rằng chuyện vừa rồi là thuật thuần hóa quái vật, chứ không phải tôi biến nó thành quyến thuộc.
+"Truyền sang" là một thuật ngữ cổ mang tính chuyên môn của giới thuần hóa quái vật, dùng để chỉ khoảnh khắc ma pháp đặc thù của họ khống chế được tâm trí quái vật, biến nó thành đầy tớ ngoan ngoãn. Về cơ bản, tôi đang muốn thuyết phục Alize tin rằng chuyện vừa rồi là thuật thuần hóa quái vật, chứ không phải tôi biến nó thành quyến thuộc.
 
 "Ơ...? Thế nghĩa là sao ạ?"
 
-Xem ra Alize chẳng biết gì về những người thuần hóa quái vật. Nghe tôi giải thích xong, trông cô bé còn bối rối hơn trước.
+Xem ra Alize chẳng biết mấy về những người thuần hóa quái vật. Trái lại, nghe tôi nói xong, trông cô bé còn bối rối hơn trước.
 
-Tôi gật đầu giải thích: "Tôi vừa... thuần hóa được nó. Đã khống chế... tâm trí của... con quái vật đó rồi."
+Tôi gật đầu giải thích: "Tôi đã... thành công rồi. Đã thuần hóa và khống chế tâm trí... của con quái vật đó."
 
 "Vậy là... anh là người thuần hóa quái vật... biết điều khiển quái vật sao ạ?" Alize bắt đầu lờ mờ hiểu ra.
 
-Tôi đời nào là người thuần hóa quái vật, nhưng nói thế này thì tiện bề định hướng cho cô bé. Chỉ cần hỏi dò một chút là em sẽ biết ngay tôi không phải nghề đó, nên tôi mới bồi thêm:
+Tôi tuyệt nhiên chẳng phải người thuần hóa quái vật nào cả, nhưng nói thế này thì có thể kiểm soát những gì Alize biết một cách an toàn. Chỉ cần tìm hiểu đôi chút là em sẽ phát hiện ngay tôi không phải nghề đó, nên tôi mới nói thêm:
 
-"Không... hẳn. Tôi là kiếm sĩ... Nhưng trước đây... có quen một người... thuần hóa quái vật... và học lỏm được vài chiêu... Nên vừa rồi... tôi đánh liều thử xem sao."
+"Không... hẳn. Tôi là kiếm sĩ... Nhưng. Tôi đã học được phương pháp này... từ một người quen... làm nghề thuần hóa quái vật. Từ lâu lắm rồi... nên tôi nghĩ mình... thử xem sao."
 
-"Ồ! Mạo hiểm giả các anh cừ thật đấy nhỉ? Đỉnh quá đi mất..."
+"Ồ! Các mạo hiểm giả đúng là phi thường thật đấy nhỉ? Tuyệt quá đi mất..."
 
-Dù thuật thuần hóa quái vật là ngón nghề bí truyền chẳng bao giờ lọt ra ngoài, nhưng Alize đâu cần biết điều đó. Dù sau này cô bé có hỏi han về tôi đi chăng nữa, thì sự việc sờ sờ trước mắt cũng chẳng ai chối cãi được. Thế là êm chuyện.
+Dù thuật thuần hóa quái vật là ngón nghề bí truyền thường không bao giờ truyền dạy cho người ngoài hội kín của họ, nhưng Alize đâu cần biết điều đó. Kể cả sau này cô bé có tìm hiểu về tôi đi chăng nữa, cũng chẳng có cách nào phủ nhận một chuyện như vậy là có thể xảy ra. Thế là không còn vấn đề gì nữa.
 
-"Thế thì..." Alize gặng hỏi, "giờ con quái vật đó lành rồi chứ ạ? Nó sẽ không cắn tụi em nữa chứ?"
+"Thế thì..." Alize hỏi tiếp, "giờ con quái vật đó an toàn rồi chứ ạ? Nó sẽ không tấn công tụi em nữa chứ?"
 
-Đến câu này thì tôi có thể trả lời thành thật được rồi.
+Đến câu hỏi này thì tôi có thể trả lời thành thật được rồi.
 
-"Đúng thế. Thậm chí... giờ tôi bảo gì... nó cũng nghe. Tiện quá... còn gì. Chúng ta có thể... để nó canh... căn hầm này. Lúc nãy em bảo... thỉnh thoảng quái vật... vẫn mò vào đây... phải không?"
+"Đúng thế. Thậm chí... giờ tôi bảo gì... nó cũng nghe. Chuyện này... tiện đấy chứ. Chúng ta có thể... để nó canh... căn hầm chứa đồ này. Lúc nãy em có nói... thỉnh thoảng quái vật... vẫn mò vào đây. Đúng không?"
 
-Một nơi lạnh lẽo, ẩm thấp lại hay dẫn dụ quái vật mò vào... Tôi thầm thấy ái ngại cho Sơ Lillian, chắc sơ đã phải thanh tẩy căn hầm này không biết bao nhiêu lần rồi.
+Một nơi lạnh lẽo, ẩm thấp lại hay thu hút quái vật mò vào... Tôi thầm thấy ái ngại cho Sơ Lillian, chắc sơ đã phải thanh tẩy căn hầm này không biết bao nhiêu lần rồi.
 
-Dù sao thì căn hầm giờ cũng có một kẻ gác cổng mới toanh. Có điều trông Alize vẫn chưa tin cho lắm.
+Dù sao thì căn hầm giờ cũng có một người gác cổng mới. Có điều trông Alize vẫn chưa tin tưởng cho lắm.
 
-"Anh chắc chứ...? Nó không bất thình lình quay lại cắn vào mông tụi em đấy chứ? Thật sự chắc chứ anh?"
+"Anh chắc chứ...? Chuyện nó không bất thình lình quay lại cắn vào mông tụi em ấy? Thật sự chắc chứ ạ?"
 
-Dù Alize vẫn nghi ngại ra mặt, nhưng sau khi thấy tôi vẫy tay ra lệnh còn cô bé lấy que chọc thử mấy cái, cuối cùng em cũng chịu xuôi xuôi và đặt chút niềm tin vào con chuột quái vật ngoại cỡ vừa được hồi sinh thành quyến thuộc của tôi.
+Bất chấp những nghi ngờ và sự thiếu tin tưởng hiện rõ trên mặt, sau vài lần thử vẫy tay và chọc chọc vào nó, cuối cùng Alize cũng chịu xuôi lòng và đặt chút niềm tin vào con chuột quái vật ngoại cỡ vừa sống lại thành quyến thuộc của tôi.
