@@ -1454,6 +1454,13 @@ Bị ông lão nhổ cây ném liên tiếp và giáng nắm đấm khổng lồ
 Lorraine kịp thời chạy tới chi viện sau khi giấu Ferrici an toàn; ông lão thừa nhận hai đồng bọn (Goblin và Siren) thất bại vì thông tin sai lệch từ cấp trên (được báo mục tiêu chỉ gồm hai Ngân Cấp và một Đồng Cấp tầm thường) nhưng kiên quyết không bỏ cuộc vì tính mạng và công việc ở thế giới ngầm.
 Cảnh kết thúc: Khi cả ba người nhóm Rentt cùng xông lên tấn công, ông lão giải phóng luồng áp lực bão tố kinh hoàng hất văng cả nhóm ra xa, biến hình hoàn toàn thành một Cự Nhân khổng lồ đích thực.
 
+## 247
+Nhóm Rentt đối mặt với ông lão đã hóa thành Cự Nhân khổng lồ; Rentt chủ động làm mồi nhử lao vào giao chiến để Lorraine và Augurey tản ra, liên tục né tránh những cú dẫm đạp và đòn đấm sấm sét của đối thủ.
+Dù bị chấn động làm tê liệt cánh tay trái, Rentt vẫn lách người nhảy lên cánh tay chém sượt tay đối thủ rồi dùng cánh dơi cùng Khí Lực bay thoát hiểm; Lorraine kịp thời phóng ma pháp băng hệ Glacies Cometes khiến gã Cự Nhân già lảo đảo ngã dúi dụi.
+Tiếp đất xuống bìa rừng, Rentt tận dụng các tán cây rậm rạp để né tránh những cú đấm càn quét; Augurey chạy tới truyền đạt kế hoạch tác chiến của Lorraine: cùng nhau dẫn dụ đối thủ tới vị trí thuận lợi để Lorraine giáng ma pháp cực mạnh kết liễu, tương tự cách từng bẫy con Aqua Hathur.
+Cảnh kết thúc: Augurey dẫn đầu cùng Rentt chạy nước rút, dẫn dụ gã Cự Nhân già đang hung hãn bám sát gót rơi vào bẫy phục kích.
+
+
 
 
 

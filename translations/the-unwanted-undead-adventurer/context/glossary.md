@@ -427,7 +427,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Deneb Goblin King Tsunami |  | Thảm Họa Sóng Thần Vua Goblin Deneb | khác | 230 | Thảm họa hàng vạn quái vật dưới trướng Vua Goblin tràn vào thành phố Deneb (デネブのゴブリンキング津波) |
 | Ansallen |  | Ansallen | địa danh | 230 | Tên thành phố từng xảy ra vụ bạo loạn tà giáo triệu hồi quái vật (アンサレン) |
 | Deneb |  | Deneb | địa danh | 230 | Tên thành phố từng xảy ra thảm họa đàn Goblin quy mô lớn tràn vào (デネブ) |
-| Aqua Hathur | aqua hathur; Aqua Hathurs; aqua hathurs | Aqua Hathur | quái vật | 231 | Quái vật dạng mèo nước hoặc tinh linh nước sinh sống ở vùng hồ Petorama (水猫) |
+| Aqua Hathur | aqua hathur; Aqua Hathurs; aqua hathurs; aqua hatul; hatul | Aqua Hathur | quái vật | 231 | Quái vật dạng mèo nước hoặc tinh linh nước sinh sống ở vùng hồ Petorama (水猫) |
 | Luteum Golem | luteum golems; luteum golem; Luteum Golems | Golem Luteum | quái vật | 231 | Phân loại Golem bùn/đất sét sinh sống ở vùng hồ (泥魔導人形) |
 | wyvern flax | Wyvern flax; wyvern elata; Wyvern elata; Wyvern Elata | lanh Phi Long | vật phẩm | 231 | Loại cây hoặc sợi lanh liên quan đến Phi Long mọc ở vùng hồ (ワイバーン麻) |
 | fire dragon | Fire dragon; fire dragons; Fire dragons | Rồng Lửa | quái vật | 231 | Phân loại rồng thuộc tính hỏa |
@@ -443,3 +443,4 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gê Bélos | Ge Belos | Gê Bélos | kỹ năng | 244 | Ma pháp thổ hệ của con người tạo mưa thổ tiễn (giữ nguyên tên câu thần chú theo rules.md) |
 | Ard Harba |  | Ard Harba | kỹ năng | 245 | Ma pháp thổ hệ tạo mảnh đá nhọn khổng lồ như ngọn giáo (giữ nguyên tên câu thần chú theo rules.md) |
 | giant | giants; Giant; Giants | Cự Nhân | chủng tộc | 246 | Chủng tộc người khổng lồ trong thần thoại/fantasy (巨人) |
+| Glacies Cometes |  | Glacies Cometes | kỹ năng | 247 | Ma pháp băng hệ tạo khối cầu băng khổng lồ (câu chú giữ nguyên theo rules.md) |
