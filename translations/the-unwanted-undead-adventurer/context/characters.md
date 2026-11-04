@@ -338,7 +338,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Người thống trị Maalt, có tin đồn là có mối quan hệ sâu sắc với gia tộc Latuule.
 - Xuất hiện từ: #61 (được nhắc tên).
 - Trạng thái tính đến chương 173: Gia tộc cai quản vùng Maalt từ rất lâu đời nhưng ít tiếng tăm ở vương đô nên đứng ngoài các cuộc tranh giành quyền lực ở Yaaran; được Bá tước Robista nhận xét là người rất giản dị, chất phác; nhiệt tình đồng ý đón tiếp và xung phong dẫn đường cho Bá tước Robista khi tới Maalt.
-- Trạng thái tính đến chương 173: Gia tộc cai quản vùng Maalt từ rất lâu đời nhưng ít tiếng tăm ở vương đô nên đứng ngoài các cuộc tranh giành quyền lực ở Yaaran; được Bá tước Robista nhận xét là người rất giản dị, chất phác; nhiệt tình đồng ý đón tiếp và xung phong dẫn đường cho Bá tước Robista khi tới Maalt.
 
 ### Laura Latuule
 - Giới tính, tuổi/vẻ ngoài: Nữ, vẻ ngoài khoảng 12–13 tuổi, da trắng muốt, tóc vàng nhạt, mắt xanh biếc; thường mặc váy ren đen trang nhã đắt tiền. Thực chất là Ma Cà Rồng (thừa nhận ở #195).

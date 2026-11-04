@@ -2,7 +2,7 @@
 
 Ở Hội cũng có vài phòng mổ xẻ, nhưng khá đơn sơ và nhỏ hẹp, bởi hầu hết mạo hiểm giả thường chỉ giao nộp nguyên liệu đã sơ chế từ trước, hoặc chỉ lấy đúng bộ phận mà khách yêu cầu. Trường hợp cần xử lý một cái xác lớn hơn hẳn, họ sẽ được dẫn tới khu mổ xẻ nằm ở tòa nhà phía sau đại sảnh của Hội.
 
-Phần lớn mạo hiểm giả đều nhờ cậy các chuyên gia mổ xẻ ở đây, mà đa số thợ mổ lại xuất thân từ mạo hiểm giả. Từng vào sinh ra tử hoặc từng làm đồ tể, họ nắm rất vững kỹ thuật mổ xẻ. Khi gặp những ca phức tạp hay có quá nhiều xác cần xử lý, mạo hiểm giả bỏ tiền thuê họ là chuyện thường tình.
+Phần lớn mạo hiểm giả đều nhờ đến các chuyên gia mổ xẻ làm việc tại đây, mà đa phần họ lại là cựu mạo hiểm giả. Nhờ từng làm mạo hiểm giả hoặc đồ tể, họ nắm rất vững kỹ thuật mổ xẻ. Khi gặp việc phức tạp hay có nhiều xác cần xử lý, chuyện mạo hiểm giả bỏ tiền thuê họ vốn chẳng có gì lạ.
 
 So với bạn bè đồng trang lứa, tay nghề mổ xẻ của tôi cũng thuộc hàng khá nhờ hồi ở dưới quê có nhiều dịp luyện tập, nhưng đụng tới Tarasque thì lại là chuyện khác. Với kích thước khổng lồ, lớp vảy giáp cứng như sắt cùng độc tính từ cái xác, tôi chẳng còn cách nào khác ngoài việc mang nó tới đây. Dù chất độc chẳng ảnh hưởng gì tới tôi, nhưng nếu mổ xẻ Tarasque ngay giữa phố, dịch cơ thể nó ngấm xuống đất sẽ làm ô nhiễm cả mạch nước ngầm của thị trấn. Tôi thì chẳng muốn gánh trách nhiệm cho một vụ trúng độc hàng loạt đâu. May sao gian phòng này có đủ trang bị để ngăn chặn chuyện đó.
 
@@ -12,15 +12,15 @@ Vừa bước qua cửa tòa nhà rộng thênh thang, Sheila liền hít một 
 
 Do đặc thù công việc nên khu mổ xẻ chiếm cả một tòa nhà rộng lớn; nếu Sheila không hét lên thì khó lòng có ai nghe thấy. Nhưng bên trong vẫn im bặt. Chẳng hề nản lòng, cô lại gọi tiếp.
 
-"Rồi! Rồi, nghe rồi! Đợi tí!" Một giọng khàn đặc, cộc cằn vọng lại đáp lời Sheila.
+"Rồi! Rồi, chú nghe thấy rồi! Đợi tí!" Một giọng khàn đặc, thô ráp vọng lại đáp lời Sheila.
 
-Ngay sau đó, một người đàn ông vạm vỡ, trông vững như bàn thạch xuất hiện trước mặt chúng tôi. Người này không ai khác chính là Dario Costa, chuyên gia mổ xẻ chính của Hội. Thời còn sống tôi từng gặp chú vài lần, nhưng với bộ dạng bây giờ thì chú không nhận ra tôi cũng phải.
+Ngay sau đó, một người đàn ông trông gan góc, rắn rỏi bước ra trước mặt chúng tôi. Người này không ai khác chính là Dario Costa, chuyên gia mổ xẻ chính của Hội. Thời còn sống tôi từng gặp chú vài lần, nhưng với bộ dạng bây giờ thì chú không nhận ra tôi cũng phải.
 
-"Lỗi của chú! Chẳng ai muốn để cháu phải đợi cả... Cơ mà sáng nay vừa nhận cả đống xác Orc về. Chỗ chú thì lúc nào chả thiếu người! Nhưng công nhận thịt Orc mê thật... Bán ở đâu cũng quý như vàng ròng."
+"Lỗi của chú! Chú đâu muốn để cháu phải đợi... Cơ mà sáng nay bên này vừa nhận cả đống xác Orc. Thiếu người như cơm bữa ấy mà! Nhưng công nhận thịt Orc mê thật... Đi tới đâu cũng quý như vàng ròng."
 
 Xem chừng Dario vừa mổ xẻ xong đống Orc đó.
 
-Tuy hiếm khi xảy ra, nhưng thỉnh thoảng các cá nhân hoặc tổ đội mạo hiểm giả cừu khôi vẫn chở về Hội cả đống xác quái thú. Họ nhận thù lao rất hậu hĩnh từ các chủ hàng thịt chuyên bán thịt Orc — cũng chính là những người đã phát ủy thác ngay từ đầu. Chắc bây giờ đang vào rộ mùa Orc nên mới bận rộn đến thế.
+Tuy hiếm gặp, nhưng các cá nhân hoặc tổ đội mạo hiểm giả cừ khôi đôi khi cũng sẽ chở về Hội cả đống xác quái thú. Họ được trả công rất hậu hĩnh bởi các chủ hàng thịt chuyên bán thịt Orc, cũng chính là những người đã phát ủy thác ngay từ đầu. Chắc bây giờ đang vào giữa mùa Orc nên mới bận rộn đến thế.
 
 Xong ủy thác Hoa Long Huyết rồi, có lẽ tôi cũng nên để mắt tới những mối khác béo bở hơn. Chẳng dại gì mà bỏ lỡ cơ hội săn bắn hái ra tiền.
 
@@ -28,15 +28,15 @@ Giá mà Orc cũng sống ở Đầm Lầy Tarasque thì tốt... Cơ mà nếu 
 
 Mặc tôi đứng đó mải mê suy nghĩ, Sheila bước lại gần Dario, tóm tắt chi tiết yêu cầu của tôi.
 
-"Cháu xin lỗi vì làm phiền chú lúc đang bận rộn thế này, chú Dario... nhưng cháu bảo đảm việc này bõ công chú lắm đấy. Anh Rentt đây vừa mang về một cái xác hiếm có để chú trổ tài hôm nay này!"
+"Cháu xin lỗi vì làm phiền chú lúc đang bận rộn thế này, chú Dario... nhưng cháu bảo đảm việc này bõ công chú lắm đấy ạ. Anh Rentt đây vừa mang về một cái xác hiếm có để chú xử lý hôm nay này!"
 
-Tôi đã nói với Sheila về thứ mình săn được trên đường tới đây, nên cô ấy mới tả như vậy. Có điều trông Dario chẳng có vẻ gì là tin.
+Tôi đã nói với Sheila về thứ mình săn được trên đường tới đây, nên cô mới tả như vậy. Có điều trông Dario chẳng có vẻ gì là tin.
 
 "Xác hiếm á? Này cô bé, chú đâu có dễ bất ngờ thế đâu, cháu biết mà?"
 
-Sheila nói tiếp, khiến mắt Dario trợn tròn lên.
+Sheila nói tiếp, khiến mắt Dario mở to kinh ngạc.
 
-"Anh Rentt mang về cho chú một con Tarasque đấy ạ. Nguyên vẹn cả con đầy ắp nguyên liệu, tươi rói vừa vớt từ đầm lầy lên. Dĩ nhiên là cần nhờ chú mổ xẻ rồi."
+"Anh Rentt mang về cho chú một con Tarasque đấy ạ. Nguyên vẹn cả con đầy ắp nguyên liệu, còn tươi nguyên vừa mang về từ đầm lầy. Dĩ nhiên là cần nhờ chú mổ xẻ rồi."
 
 ◆◇◆◇◆
 
@@ -46,97 +46,97 @@ Tôi hiểu vì sao Dario lại nghi ngờ. Tarasque là loài quái vật hùng
 
 Thật ra, nhờ tình cảnh đặc thù của mình, khó khăn duy nhất của đầm lầy đối với tôi chỉ là khiến bước chân chậm đi đôi chút. Chứ mạo hiểm giả bình thường mà không có đủ đồ phòng hộ thì đã trúng độc mất mạng từ lâu.
 
-Tôi chẳng thể kể cho Dario chuyện mình là Undead, nên đành ngậm miệng. Sheila liền lên tiếng đỡ lời.
+Tôi chẳng thể kể cho Dario chuyện mình là Undead, nên đành giữ im lặng. Sheila liền lên tiếng đỡ lời.
 
-"Thôi nào chú Dario. Ai lại rảnh rỗi làm mất thời gian của chú làm gì? Thật đấy ạ! Hay là chú cứ tận mắt nhìn thấy rồi hẵng tin...?"
+"Thôi nào chú Dario. Ai lại rảnh rỗi làm mất thời gian của chú như thế chứ? Thật đấy ạ! Có khi chú phải tận mắt nhìn thấy thì mới chịu tin nhỉ...?"
 
-"Nhưng con Tarasque đâu rồi hả Sheila...? Cậu ta để ngoài cửa à?"
+"Nhưng con Tarasque đó đâu rồi hả Sheila...? Cậu ta để ở ngoài trước à?"
 
-Chú hỏi thế cũng phải, bởi vài mạo hiểm giả có thói quen để xác quái vật khổng lồ mình vừa săn được ở ngoài sân để thị uy.
+Chú hỏi thế cũng có lý, bởi vài mạo hiểm giả có thói quen để xác những con quái vật to lớn vừa săn được ở bên ngoài phòng mổ xẻ để phô trương thực lực.
 
-Có điều xác thường được chất lên những cỗ xe kéo bánh lớn. Người ta hay chở xác đi diễu một vòng qua các con phố ở Maalt rồi mới dừng trước cổng Hội, sau đó mới chuyển vào khu mổ xẻ.
+Có điều xác thường được chất lên những cỗ xe kéo bánh lớn và những thứ tương tự. Người ta hay chở xác đi diễu một vòng qua các con phố ở Maalt rồi mới dừng trước cổng Hội, sau đó mới chuyển vào phòng mổ xẻ.
 
-Đây cũng xem như một chiêu quảng cáo: hạ được quái thú khổng lồ nghĩa là có nguyên liệu hiếm để rao bán, và phô trương như thế cũng chủ yếu nhằm mục đích này.
+Đây cũng xem như một cách quảng bá: hạ được quái thú to lớn cỡ đó nghĩa là có nguyên liệu hiếm để rao bán, và làm vậy chủ yếu cũng nhằm mục đích này.
 
 Nhưng tôi thì chẳng muốn gây chú ý.
 
-Dù việc leo lên Đồng Cấp chỉ một thời gian ngắn sau khi đăng ký lại từng khiến tôi thu hút vài ánh nhìn, nhưng mạo hiểm giả Đồng Cấp chẳng có gì hiếm hoi. Chỉ cần có thực lực thì ai cũng dễ dàng lên Đồng Cấp nhanh như tôi thôi.
+Dù từng thu hút vài ánh nhìn khi thăng lên Đồng Cấp chỉ một thời gian ngắn sau khi đăng ký làm mạo hiểm giả, nhưng mạo hiểm giả Đồng Cấp chẳng có gì hiếm hoi. Chỉ cần có thực lực thì ai cũng dễ dàng lên Đồng Cấp nhanh như tôi thôi.
 
-Đáp lại câu hỏi của Dario, tôi chỉ vào chiếc túi ma pháp bên thắt lưng đồ nghề. "Nó... ở trong chiếc túi này. Tôi có nên... dỡ cái xác ra đây không?"
+Đáp lại câu hỏi của Dario, tôi chỉ vào chiếc túi ma pháp bên thắt lưng đồ nghề. "Nó... Ở trong chiếc túi này. Tôi có nên... Dỡ cái xác ra đây không?"
 
 "Không." Dario lắc đầu. "Thế không ổn đâu. Nếu thật sự là Tarasque thì càng không. Đi theo tôi."
 
-Dario ra hiệu rồi quay người, dẫn chúng tôi tiến về khu vực trung tâm của xưởng mổ xẻ.
+Dario ra hiệu rồi quay người, dẫn chúng tôi tiến về khu vực trung tâm của khu mổ xẻ.
 
-Chẳng mấy chốc, chúng tôi đã theo chân Dario vào một căn phòng chuyên dụng khá rộng rãi, thừa sức chứa xác một con Tarasque. Dọc các bức tường lắp đặt cả một hệ thống ma cụ phức tạp — những dụng cụ dùng để hút giữ khí độc tỏa ra trong lúc thanh tẩy xác quái thú trước khi mổ xẻ.
+Chẳng mấy chốc, chúng tôi đã theo chân Dario vào một căn phòng chuyên dụng khá rộng rãi, thừa sức chứa xác một con Tarasque. Dọc các bức tường lắp đặt cả một hệ thống ma cụ phức tạp, dùng để hút giữ khí độc tỏa ra trong lúc thanh tẩy xác quái thú trước khi mổ xẻ.
 
-Những thứ này là trang thiết bị chuyên dụng cao cấp, bắt buộc phải có ở hầu hết các khu mổ xẻ quy củ. Song giá của chúng vô cùng đắt đỏ, nên cả tòa nhà này chắc cũng chẳng thể có quá hai phòng như vậy.
+Những thứ này là trang thiết bị chuyên dụng cao cấp, bắt buộc phải có ở hầu hết các khu mổ xẻ quy mô. Song giá của chúng vô cùng đắt đỏ, nên cả tòa nhà này chắc cũng chẳng thể có quá hai phòng như vậy.
 
 "Được rồi, tới nơi rồi đấy. Mau cho tôi xem nào."
 
-Dario xoay một cần gạt, nâng bệ đỡ ở giữa phòng lên rồi ra hiệu cho tôi đặt cái xác xuống. Chú cũng đưa cho Sheila và tôi mặt nạ phòng độc. Tôi vốn đã đeo sẵn một chiếc mặt nạ rồi nên tròng thêm cái nữa trông khá buồn cười, nhưng chắc cũng đành làm vậy để che mắt thiên hạ.
+Dario xoay một tay quay, nâng bệ đỡ ở giữa phòng lên rồi ra hiệu cho tôi đặt cái xác xuống. Chú cũng đưa cho Sheila và tôi mặt nạ phòng hộ để ngừa chất độc. Tôi vốn đã đeo sẵn một chiếc mặt nạ rồi nên tròng thêm cái nữa trông khá kỳ cục, nhưng chắc cũng đành làm vậy cho hợp lệ trước mặt người khác.
 
-Thấy Sheila và Dario đều đã đeo xong mặt nạ, tôi mở túi ra, chuẩn bị trút cái xác xuống. Hệt như lúc áp miệng túi vào cái xác để hút vào trong, giờ tôi cũng làm vậy, chỉnh miệng túi khớp với bệ đỡ giữa phòng. Chỉ cần sơ sẩy một chút khi hút đồ vào là lúc lôi ra sẽ trầy trật ngay. May cho tôi là thời còn sống đã dùng loại ma cụ này chán chê rồi. Cái túi này tuy to hơn hẳn, nhưng về cơ bản nguyên lý hoạt động vẫn như nhau.
+Thấy Sheila và Dario đều đã đeo xong mặt nạ, tôi mở túi ra, chuẩn bị dỡ cái xác xuống. Hệt như lúc áp miệng túi vào cái xác để hút vào trong khi mang đi, giờ tôi cũng làm vậy, căn miệng túi thẳng với bệ đỡ giữa phòng. Chỉ cần sơ sẩy một chút khi hút đồ vào là lúc lôi ra sẽ chật vật ngay. May cho tôi là thời còn sống đã có thừa kinh nghiệm dùng loại ma cụ này rồi. Cái túi này tuy to hơn hẳn, nhưng về cơ bản cách hoạt động vẫn như nhau.
 
-"Xem ra cháu không đùa chú thật... Trong giống Tarasque thì con này cũng thuộc hàng to xác đấy," Dario vừa nói vừa săm soi cái xác.
+"Xem ra cháu không trêu chú thật... Ngay cả với loài Tarasque thì con này cũng thuộc hàng to xác đấy," Dario vừa nói vừa xem xét cái xác.
 
-Cái xác nằm gọn gàng trên bệ đỡ giữa phòng, từ khúc cổ đứt lìa cho tới phần thân nguyên vẹn. Ngắm nghía kỹ lớp mai giáp, Dario đưa ngón tay miết dọc bề mặt rồi gật đầu tán thưởng.
+Cái xác đã được đặt gọn gàng trên bệ đỡ giữa phòng, từ khúc cổ đứt lìa, thân mình cho tới toàn bộ các bộ phận. Ngắm kỹ lớp mai giáp, Dario đưa ngón tay miết dọc bề mặt rồi gật đầu tán thưởng.
 
 "Không một vết trầy xước nào cơ à? Hiếm thấy thật đấy."
 
-Tôi chỉ là mạo hiểm giả Đồng Cấp, nên trong mắt Dario, kiến thức và kinh nghiệm săn Tarasque của tôi hẳn còn rất ít. Muốn hạ sát Tarasque, người ta phải chặt đầu nó, hoặc đập vỡ mai giáp để nghiền nát trái tim. Cách đầu tiên hiển nhiên là dễ hơn.
+Tôi chỉ là mạo hiểm giả Đồng Cấp, nên trong mắt Dario, kiến thức và kinh nghiệm săn Tarasque của tôi hẳn còn rất ít. Muốn hạ sát Tarasque, người ta phải chặt đứt cổ nó, hoặc đập vỡ mai giáp để nghiền nát trái tim. Cách đầu tiên hiển nhiên là dễ hơn.
 
 Dù vậy, một chiếc mai Tarasque lành lặn không tì vết thật sự hiếm đến thế sao?
 
-Tò mò, tôi bèn nhờ Dario giải thích giùm.
+Tò mò, tôi bèn nhờ Dario giải thích.
 
-"Tôi hiểu cậu muốn nói gì rồi. Nhưng mà này... làm thế nhiêu khê lắm. Khổ nhất là phải áp sát được nó, vướng cái hơi thở độc với đủ thứ của nợ ấy. Cho nên... mạo hiểm giả mà lại gần cỡ đó là dính độc ngay. Dĩ nhiên mấy tay Ngân Cấp với Kim Cấp có thể sắm ma cụ để cản bớt phần lớn, nhưng chỉ có cỡ Bạch Kim Cấp mới đủ tiền tậu đồ kháng độc hoàn toàn. Mấy món đó đắt đỏ lắm. Vì đa số không có, nên người ta toàn phải hạ nó từ xa, hiểu chưa."
+"Tôi hiểu cậu muốn nói gì rồi. Nhưng nghe này... Làm thế rắc rối lắm. Khó nhất là phải áp sát được nó, nào hơi thở độc với đủ thứ tương tự. Cho nên... mạo hiểm giả mà lại gần cỡ đó là phơi mình trước đống chất độc ấy ngay. Dĩ nhiên mấy tay Ngân Cấp với Kim Cấp có thể sắm ma cụ để cản bớt phần lớn, nhưng chỉ có cỡ Bạch Kim Cấp mới đủ tiền mua đồ kháng độc hoàn toàn. Đắt đỏ lắm, cậu biết đấy. Vì đa số không có, nên người ta toàn phải hạ nó từ xa, hiểu chưa."
 
-Lời giải thích của Dario rất dễ hiểu. Tôi thì miễn nhiễm với chất độc, chứ mạo hiểm giả hay các tổ đội bình thường chắc chắn sẽ chọn cách tấn công Tarasque từ xa bằng ma pháp hoặc vũ khí tầm xa.
+Lời giải thích của Dario rất dễ hiểu. Tôi thì miễn nhiễm với chất độc, chứ mạo hiểm giả hay các tổ đội bình thường chắc chắn sẽ chọn cách tấn công Tarasque từ xa bằng ma pháp và đòn đánh tầm xa.
 
-"Mai của nó vốn đã cứng," Dario tiếp tục. "Nhưng lớp vảy của nó cũng cứng không kém đấy. Cả hai chỗ đều khó chém như nhau. Có cơ hội là đa phần người ta cứ nhắm vào mai mà nã. Vì nó to hơn nhiều, đúng không? Bồi vài đòn cực mạnh là đập thủng được ngay. Mấy mạo hiểm giả đủ sức hạ Tarasque ai chẳng có vài ngón nghề làm việc đó. Khổ nỗi khi ấy thì mai lại bị thủng một lỗ. Cậu cứ thử vác một cái mai vỡ toác đến trước mặt thợ mổ mà xem, nhìn cái mặt méo xẹo của họ là hiểu. Lúc đấy bảo chúng tôi làm ăn kiểu gì với thứ đó hả?"
+"Mà mai của nó vốn rất cứng," Dario tiếp tục. "Nhưng lớp vảy của nó cũng cứng không kém đâu, thấy chứ. Cả hai đều khó chém đứt như nhau. Có cơ hội là đa phần người ta cứ nhắm vào phần mai. Vì nó to hơn nhiều mà, đúng không? Nện vài đòn thật mạnh là đập thủng được ngay. Mấy mạo hiểm giả đủ sức hạ Tarasque đều có vài ngón nghề làm việc đó. Khổ nỗi khi ấy thì mai lại bị thủng một lỗ. Cậu cứ thử mang một cái mai vỡ ra cho chuyên gia mổ xẻ mà xem, nhìn vẻ mặt của họ là biết. Lúc đấy bảo chúng tôi biết làm ăn gì với thứ đó hả?"
 
-Đòn đánh của mạo hiểm giả Ngân Cấp hay Kim Cấp đúng là xuyên thủng được mai, nhưng mai thủng như thế thì khó mà rèn thành một bộ giáp ra hồn. Dẫu vậy, thợ rèn giáp đâu phải lũ Goblin; ngay cả mai nứt vỡ vẫn có thể ghép vào áo giáp, miễn sao gia cố chỗ nứt và kết hợp thêm vật liệu khác để đạt lại độ cứng cáp ban đầu.
+Đòn đánh của mạo hiểm giả Ngân Cấp hay Kim Cấp đúng là xuyên thủng được mai, nhưng mai thủng như thế thì khó mà rèn thành một bộ giáp hoàn chỉnh. Dẫu vậy, thợ rèn giáp đâu phải lũ Goblin; ngay cả mai nứt vỡ vẫn có thể ghép vào áo giáp, miễn sao gia cố chỗ nứt và kết hợp thêm vật liệu khác để đạt lại độ cứng cáp ban đầu.
 
-Nhưng dĩ nhiên, thợ rèn nào cũng chuộng một chiếc mai còn nguyên vẹn hơn. Nói cách khác...
+Nhưng dĩ nhiên, phần lớn thợ rèn giáp đều chuộng một chiếc mai còn nguyên vẹn hơn. Nói cách khác...
 
 "Vậy thứ này... Đáng giá. Rất nhiều sao?"
 
-Dario gật đầu. "Còn phải hỏi! Đương nhiên là đáng cả đống tiền rồi! Có điều... rã con này mất khá nhiều thời gian nên sẽ tính chút tiền công. Nhưng kể cả vậy thì chỗ này vẫn hái ra bộn tiền đấy. Phần cổ cũng còn tốt. Vết thương duy nhất chỉ có chỗ chém đứt cổ thôi. Các tuyến độc xem chừng vẫn nguyên vẹn... Đã lâu lắm rồi, cậu biết đấy, tôi mới được thấy một xác Tarasque hoàn hảo đến mức này."
+Dario gật đầu. "Nhìn xem nó thế nào cơ chứ? Đương nhiên là đáng bộn tiền rồi! Có điều... xẻ con này mất khá nhiều thời gian nên sẽ tính chút phí. Nhưng kể cả vậy thì chỗ này vẫn đáng cả đống tiền đấy. Phần cổ cũng còn tốt. Vết thương duy nhất chỉ có chỗ cổ bị chém thôi. Các tuyến độc xem chừng vẫn nguyên vẹn... Đã lâu lắm rồi, cậu biết đấy, tôi mới được thấy một xác Tarasque nguyên vẹn đến mức này."
 
-Xem chừng Dario đã hoàn toàn hài lòng với cái xác này.
+Xem chừng Dario đã hoàn toàn công nhận giá trị của cái xác này.
 
-"Tôi hiểu rồi... Nếu vậy. Tôi muốn... nhờ chú. Đem bán giúp... chiếc mai này."
+"Tôi hiểu rồi... Nếu vậy. Tôi muốn... Ủy thác cho chú. Việc đem bán... Chiếc mai này."
 
-Có rất nhiều cách để mạo hiểm giả xử lý chiến lợi phẩm: có người mang xác tới gửi lại đây chờ mổ xẻ, rồi lúc rảnh rỗi thì tự đi tìm nơi đấu giá để bán. Còn với những ai không có thời gian, thợ mổ xẻ có thể bán giúp số nguyên liệu thu được, dĩ nhiên là có tính chút tiền hoa hồng.
+Có rất nhiều cách để mạo hiểm giả xử lý chiến lợi phẩm: có người mang xác tới gửi lại đây để chuyên gia mổ xẻ, rồi lúc rảnh rỗi thì tự đi tìm chỗ đấu giá để bán. Còn với những ai không dư dả thời gian, các chuyên gia mổ xẻ có thể thay mặt họ bán số nguyên liệu thu được, dĩ nhiên là có tính một khoản phí nhỏ.
 
-Bình thường thì phần lớn mạo hiểm giả đều giao khoán hết cho thợ mổ. Cả quy trình ấy quá đỗi rườm rà với một mạo hiểm giả thông thường, nên họ hay nhờ một cửa tiệm quen bán hộ. Còn những nguyên liệu quý hiếm như mai Tarasque thì thường được đem ra đấu giá.
+Bình thường thì phần lớn mạo hiểm giả đều giao hết cho các chuyên gia. Cả quy trình ấy quá mất công với một mạo hiểm giả thông thường, nên họ hay nhờ một cửa tiệm quen bán hộ nguyên liệu. Còn những nguyên liệu quý hiếm như mai Tarasque thì thường được đem bán đấu giá tại các sự kiện.
 
-Với trường hợp của tôi, một cái xác Tarasque nguyên vẹn sẽ dễ dàng thu hút vô số người mua tiềm năng. Đằng nào cũng đã nhờ Dario mổ xẻ, tôi nghĩ chi bằng cứ phó thác hết phần còn lại cho chú luôn cho tiện.
+Với trường hợp của tôi, một cái xác Tarasque nguyên vẹn sẽ dễ dàng thu hút rất nhiều người mua tiềm năng. Đằng nào cũng đã giao việc mổ xẻ cho Dario, tôi nghĩ cứ phó thác hết phần còn lại cho chú ấy là xong.
 
-"Tôi thì không ngại đâu, nhưng... thật đấy à? Cậu chỉ cần chịu khó tìm tí là ra mà, biết không? Ngoài kia thiếu gì người muốn mua."
+"Tôi thì không ngại đâu, nhưng... thật đấy à? Cậu chỉ cần chịu khó tìm chút là có mà, biết không? Ngoài kia có cả đống người muốn mua đấy."
 
-Dario nói không sai, nhưng đi tìm mối mua trong tình trạng hiện tại của tôi lại là chuyện cực khó, thậm chí gần như bất khả thi. Tôi sẽ phải tiếp xúc và liên tục gặp mặt trực tiếp khách mua. Đó chẳng phải việc tôi muốn làm, ít nhất là trong bộ dạng này.
+Dario nói không sai, nhưng đi tìm người mua trong tình trạng hiện tại của tôi lại là việc rất khó, thậm chí gần như bất khả thi. Tôi sẽ phải tiếp xúc và liên tục gặp mặt trực tiếp khách mua. Đó chẳng phải việc tôi mong muốn chút nào, ít nhất là trong bộ dạng này.
 
-Dù có thể nhờ Lorraine, nhưng cô ấy lại chẳng mấy rành rọt chuyện buôn bán bộ phận quái vật hiếm, cũng không nắm được giá thị trường lúc này. Đã bán thì ít nhất tôi cũng muốn được giá tương xứng, thế nên mới mở lời nhờ Dario.
+Dù có thể nhờ Lorraine, nhưng cô ấy lại chẳng mấy rành chuyện buôn bán bộ phận quái vật hiếm, cũng không nắm rõ giá thị trường lúc này. Đã bán thì ít nhất tôi cũng muốn bán được đúng giá, thế nên mới mở lời nhờ Dario.
 
-Tôi quay sang nhìn Dario, quyết định đặt niềm tin vào người đàn ông này. "...Tôi... tin tưởng chú, chú Dario. Tôi trông cậy... vào chú cả đấy."
+Tôi quay sang nhìn Dario, quyết định đặt niềm tin vào người đàn ông này. "...Tôi... Tin tưởng chú, chú Dario. Tôi trông cậy... Vào chú cả đấy."
 
-Dario bật cười trước câu nói có phần quá đỗi trịnh trọng của tôi. "Ha! Cậu đã nói đến nước đó rồi... thì chắc tôi phải làm cho thật ra trò rồi nhỉ? Tôi sẽ kiếm cho cậu một cái giá hời — cứ chờ mà xem."
+Dario bật cười trước câu nói có phần quá trịnh trọng của tôi. "Ha! Cậu đã nói đến nước đó rồi... thì chắc tôi phải làm cho thật ra trò rồi nhỉ? Tôi sẽ kiếm cho cậu một cái giá tốt — cứ chờ mà xem."
 
 ◆◇◆◇◆
 
-Gửi lại cái xác cùng những thứ cần mổ xẻ, tôi kiểm lại số chiến lợi phẩm rồi giao chỗ thảo mộc thu thập được cho Sheila. Vì số lượng quá nhiều nên Sheila chưa thể định giá ngay được, nhưng chừng đó chắc chắn sẽ mang về một món hời kha khá cho những toan tính sắp tới của tôi.
+Để lại cái xác cùng các nguyên liệu cần mổ xẻ khác, tôi kiểm lại số chiến lợi phẩm rồi giao chỗ thảo mộc thu thập được cho Sheila. Vì số lượng tôi hái về quá nhiều nên Sheila chưa thể định giá ngay được, nhưng chừng đó hẳn sẽ mang lại một khoản lời kha khá cho mục đích của tôi.
 
-Giờ chỉ còn việc mang Hoa Long Huyết tới cô nhi viện, nơi Alize và Sơ Lillian đang đợi tôi quay lại. Dù tôi nghĩ chắc Sơ Lillian cũng chẳng ngóng đợi gì, bởi Alize vốn giấu nhẹm mọi chuyện với sơ, cơ mà chuyện đó cũng chẳng sao.
+Giờ chỉ còn việc mang Hoa Long Huyết tới cô nhi viện, nơi Alize và Sơ Lillian đang đợi tôi quay về. Dù tôi nghĩ chắc Sơ Lillian cũng chẳng hẳn là đang ngóng đợi, bởi Alize vốn giấu kín mọi chuyện với sơ, cơ mà chuyện đó cũng chẳng quan trọng.
 
-Dù thế nào thì điểm đến tiếp theo cũng đã rõ ràng. Tôi bước ra khỏi đại sảnh của Hội rồi hướng thẳng về phía cô nhi viện.
+Dù thế nào thì điểm đến tiếp theo cũng đã định sẵn. Tôi bước ra khỏi đại sảnh của Hội rồi hướng thẳng về phía cô nhi viện đó.
 
 ◆◇◆◇◆
 
 Két...
 
-Một âm thanh chẳng lành chút nào. Tôi khựng lại, trân trối nhìn chiếc vòng gõ cửa mà lần trước mình vừa lấy chất dịch Slime dán lại. Dĩ nhiên là nó lại bung ra trên tay tôi. Dù chính tôi làm gãy nó, nhưng cũng chính tôi đã dán lại. Xem ra tôi lại phải sửa thêm lần nữa rồi.
+Một âm thanh nghe lạnh cả gáy. Tôi khựng lại, trân trối nhìn chiếc vòng gõ cửa mà chuyến trước mình vừa lấy dịch Slime sửa lại. Dĩ nhiên là nó lại hỏng, thêm một lần nữa rời ra trong tay tôi. Dù chính tôi làm gãy nó, nhưng cũng chính tôi là người đã sửa lại. Xem ra tôi lại phải sửa thêm lần nữa rồi.
 
 "Tuyệt thật đấy..."
 
@@ -144,14 +144,14 @@ Một giọng nói vang lên từ phía sau ngắt lời tôi.
 
 "Có chuyện gì mà tuyệt thế ạ...?"
 
-Tôi giật bắn mình — bị bắt quả tang tại trận rồi!
+Tôi giật mình — bị bắt quả tang tại trận rồi!
 
-Quay người lại, tôi thấy Alize đang đứng ngay trước mặt, hai tay ôm túi giấy đựng đầy thứ trông như đồ ăn. Phía sau cô bé là vài đứa trẻ lớn hơn của cô nhi viện, đứa nào cũng ôm túi đồ tương tự. Xem chừng lũ trẻ vừa đi mua sắm đồ ăn thức uống về.
+Quay người lại, tôi chạm mặt Alize đang ôm trong tay một chiếc túi giấy đựng đầy thứ trông như đồ ăn. Phía sau cô bé là vài đứa trẻ lớn của cô nhi viện, đứa nào cũng ôm túi đồ tương tự. Xem chừng lũ trẻ vừa đi mua đồ ăn thức uống gì đó về.
 
-Cố giữ bình tĩnh, tôi làm ra vẻ tỉnh bơ trước mặt lũ trẻ rồi quay hẳn người lại chào chúng.
+Cố giữ bình tĩnh, tôi làm bộ thản nhiên trước mặt lũ trẻ rồi quay hẳn người lại chào chúng.
 
-"À thì... Tôi chỉ đang. Nhớ lại... chuyện ủy thác thôi."
+"À thì... Tôi chỉ đang. Nhớ lại... Chuyện ủy thác thôi."
 
-Đôi mắt Alize mở to. "Hả? Gì cơ ạ? Thật sao? Anh đùa em chắc!"
+Đôi mắt Alize mở to. "Ơ? Gì cơ ạ? Thật sao? Anh đùa em chắc!"
 
-Dù cô bé đang rất ngạc nhiên, nhưng đứng ngay bậu cửa thế này chẳng phải chỗ để nói chuyện. Thấy hai tay Alize đều vướng bận, tôi khẽ khàng mở cửa cho em, không quên cẩn thận hết mức để khỏi làm đụng tới chiếc vòng gõ cửa ọp ẹp — thứ lúc này đã được dán tạm lại vào chỗ cũ.
+Dù cô bé đang rất ngạc nhiên, nhưng đứng ngay cửa thế này chẳng phải chỗ để bàn chuyện. Thấy hai tay Alize đều bận ôm đồ, tôi nhẹ nhàng mở cửa cho cô bé, hết sức cẩn thận để khỏi làm hỏng chiếc vòng gõ cửa mong manh lúc này đã lại được dán vào đúng chỗ.

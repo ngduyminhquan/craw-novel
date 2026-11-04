@@ -1,177 +1,177 @@
 # Chương 59: Tập 3 Chương 1 - Người Đàn Ông Kỳ Lạ (4)
 
-"Thế... có thật không anh? Xong rồi ạ? Xong thật rồi sao anh?" Alize hỏi ngay khi tôi vừa ngồi xuống căn phòng tiếp khách chật chội, nơi chúng tôi gặp nhau lần đầu.
+"Thế... có thật không anh? Anh xong rồi sao? Xong xuôi rồi hả anh?" Alize hỏi ngay khi tôi vừa ngồi xuống căn phòng tiếp khách chật chội, nơi chúng tôi gặp nhau lần đầu.
 
 Trông Alize ngạc nhiên hơn là ngờ vực. Nghĩ lại thì đúng là tôi xong việc nhanh thật.
 
 Chỉ là cô bé đâu biết câu vừa rồi của tôi thực ra ám chỉ điều gì: số phận hẩm hiu của chiếc vòng gõ cửa bị gãy. Dĩ nhiên, nếu giấu được thì tôi sẽ để sự thật ấy vĩnh viễn chìm vào bóng tối.
 
-Nén lại nỗi ngượng ngùng sau vụ bẽ bàng vừa rồi, tôi đáp lại Alize bằng giọng đều đều.
+Giấu đi nỗi ngượng ngùng sau vụ đó, tôi đáp lại Alize bằng giọng đều đều.
 
-"Phải. Đây... Tự mình... Nhìn xem."
+"Phải. Đây... Tự mình... Xem đi."
 
-Tôi rút một cành hoa từ chiếc túi ma thuật rồi đặt đóa Hoa Long Huyết xuống chiếc bàn gỗ ọp ẹp kê giữa hai người. Tôi cẩn thận trải sẵn một mảnh vải lót vì sợ làm bẩn bàn, dẫu cái bàn vốn đã cũ mòn, tơi tả. Giờ thì đóa hoa nằm ngay ngắn trên tấm vải, từ rễ đến cành đều được bọc kín ghém.
+Tôi rút một cành hoa từ chiếc túi ma cụ rồi đặt đóa Hoa Long Huyết xuống chiếc bàn gỗ ọp ẹp kê giữa hai người. Tôi cẩn thận trải sẵn một mảnh vải lót vì sợ làm bẩn bàn, dẫu cái bàn vốn đã cũ mòn, sờn rách. Giờ thì đóa hoa nằm ngay ngắn trên tấm vải, cả rễ lẫn cành đều được bọc kỹ.
 
 Thế nhưng Alize chẳng hề để tâm xem cái bàn ra sao. Toàn bộ sự chú ý của cô bé đều dồn cả vào đóa hoa, mắt tròn xoe nhìn nó đầy tò mò.
 
-"Đây... là nó sao ạ? Lần đầu tiên em được thấy tận mắt đấy! Hoa đẹp quá..."
+"Đây... là nó sao? Lần đầu tiên em được thấy tận mắt đấy! Hoa đẹp quá..."
 
 Có lẽ vì vẻ đẹp, vì độ quý hiếm, hay vì công hiệu làm thuốc tuyệt vời của nó; dẫu là lý do gì, Alize trông thật sự xúc động trước nhành hoa đặt trước mặt.
 
-Nhưng đúng như Alize nói, Hoa Long Huyết quả thực rất đẹp. Cánh hoa đỏ thẫm không bao giờ ngửa lên trời mà khẽ rủ xuống, nép bên những phiến lá to bản càng tôn thêm dáng hoa. Nâng đỡ cả cây là phần cuống cứng cáp, minh chứng cho sức sống dẻo dai bền bỉ của loài hoa này.
+Nhưng đúng như Alize nói, Hoa Long Huyết quả thực rất đẹp. Cánh hoa đỏ thẫm không bao giờ ngửa lên trời mà khẽ rủ xuống, với những phiến lá to bản càng tôn thêm dáng hoa. Nâng đỡ cả cây là phần thân cứng cáp, minh chứng cho sức sống dẻo dai bền bỉ của loài hoa này.
 
 Nét hài hòa mộc mạc mà gần như kỳ diệu ấy có lẽ là lý do loài hoa này được chuộng trong các dịp cầu hôn đến thế. Còn nếu chẳng có ai để cầu hôn, người ta vẫn có thể ngắm nhìn vẻ đẹp tự nhiên của nó, tôi đoán vậy.
 
 "Thế này... Được chưa...?"
 
-"Em cũng chẳng rõ nữa," Alize như vẫn còn đang mải nghĩ ngợi, mãi mới ngước lên nhìn tôi đáp. "Em không biết đây có phải Hoa Long Huyết thật không... Á. Ý em không phải là nghi ngờ anh đâu ạ! Chỉ là... em chịu không nhìn ra! Cái này vượt quá sức em rồi."
+"Em cũng chẳng biết nói sao nữa," Alize như vẫn còn đang mải nghĩ ngợi, mãi mới ngước lên nhìn tôi đáp. "Em không biết đây có phải Hoa Long Huyết thật không... Á. Ý em không phải là nghi ngờ anh đâu! Chỉ là... em chịu không nhìn ra! Cái này vượt quá hiểu biết của em rồi."
 
-"Không phải em bảo... Có người quen là dược sư... Với thầy trị liệu sao? Họ sẽ bào... Thuốc cho Sơ Lillian mà."
+"Không phải em bảo... Có người bạn... Làm dược sư với thầy trị liệu sao? Họ sẽ bào chế... Thuốc cho Sơ Lillian mà."
 
-"Dạ đúng rồi ạ! Để em đi gọi cả hai người đến ngay. Anh phải đợi một lát đấy, thế có được không anh?" Alize hỏi, rõ là sốt sắng muốn chạy đi tìm họ về ngay.
+"Vâng, đúng rồi. Để em đi gọi cả hai người đến ngay. Anh phải đợi một lát đấy—thế có được không anh?" Alize hỏi, rõ là muốn chạy đi tìm người thầy trị liệu và dược sư đó về ngay.
 
 Bản thân tôi cũng muốn xong giấy xác nhận ủy thác càng sớm càng tốt, gọi họ đến chỉ càng nhanh việc. Nghĩ vậy, tôi gật đầu với Alize.
 
-Alize cũng vội gật đầu rồi lao biến ra khỏi phòng, chắc là chạy thẳng tới chỗ ở của hai người kia.
+Alize cũng gật đầu một cái rồi vội vã chạy ra khỏi phòng, chắc là đi thẳng tới chỗ ở của hai người kia.
 
-Dược sư và thầy trị liệu thường làm việc trong giáo hội hoặc các cơ sở y tế, mà phần lớn những chỗ đó đều cách cô nhi viện một quãng khá xa. Đoán chừng Alize đi phải lâu mới về, đồng nghĩa với việc tôi sắp có một khoảng thời gian rảnh rỗi. Chờ cô bé thì chẳng có gì khó, nhưng ngồi không buồn chán mới là cực hình.
+Dược sư và thầy trị liệu thường làm việc trong giáo hội hoặc các cơ sở y tế, mà phần lớn những chỗ đó đều cách cô nhi viện một quãng khá xa. Đoán chừng Alize đi phải lâu mới về, đồng nghĩa với việc tôi đang có một khoảng thời gian rảnh rỗi. Chờ cô bé thì chẳng có gì khó, nhưng phải chịu đựng cảnh buồn chán lại khá phiền.
 
-Đang định bụng ngồi chịu trận chờ đợi trong buồn chán, thì Edel – nãy giờ vẫn nằm ườn trên vai tôi – bỗng phi tót xuống sàn gọn ơ. Chạy biến ra một góc, nó bắt đầu cào soàn soạt vào vách tường.
+Đang định bụng cam chịu ngồi chờ trong buồn chán, thì Edel – nãy giờ vẫn nằm ườn trên vai tôi – bỗng phóng vút xuống, đáp gọn xuống đất. Chạy biến ra một góc, nó bắt đầu cào vào vách tường.
 
 "...Mày. Đang làm cái gì đấy, chuột?"
 
-Nghe tôi hỏi, Edel ngước nhìn quả đấm cửa rồi nhảy phắt lên. Dù đáp trúng quả đấm cũ kỹ kêu một tiếng uỵch rõ to, nhưng đây đâu phải loại tay gạt ấn xuống là mở, nên cánh cửa vẫn trơ trơ.
+Nghe tôi hỏi, Edel ngước nhìn quả đấm cửa rồi tự mình nhảy phắt lên đó. Dù đáp trúng quả đấm cũ kỹ kêu một tiếng uỵch rõ to, nhưng đây đâu phải loại tay gạt ấn xuống là mở, nên cánh cửa vẫn trơ trơ.
 
-Nghĩ lại chuyện nó từng húc thẳng vào cổ Tarasque với uy lực kinh người thế kia... Mà cũng phải, chuột thì với thân hình bé tí mở cửa sao cho nổi. Nói đúng hơn thì, trông cảnh ấy tôi thấy khá buồn cười.
+Nghĩ lại chuyện nó từng húc thẳng vào cổ Tarasque với sức mạnh kinh người thế kia... Mà cũng phải, với thân hình bé tí ấy thì chuột làm sao mở cửa dễ dàng được. Nói đúng hơn thì, trông cảnh ấy tôi thấy khá buồn cười.
 
-Tôi không rõ có nên mở cửa không, nhưng cũng chẳng nỡ nhốt Edel trong gian phòng tiếp khách chật hẹp này mãi tới lúc Alize về. Miễn là nó không bén mảng vào chỗ cấm thì cho đi dạo một lát cũng chẳng sao. Đương nhiên, nếu ai phàn nàn chuyện thú cưng chạy rông, tôi cứ đổ hết lên đầu con chuột là xong. Mà nói cho cùng thì có thế thật chứ tôi đâu có nói dối.
+Tôi không rõ có nên mở cửa không, nhưng cũng chẳng định nhốt Edel trong gian phòng tiếp khách chật hẹp này mãi tới lúc Alize về. Miễn là nó không bén mảng vào chỗ cấm thì đi dạo một lát cũng chẳng sao. Đương nhiên, nếu ai phàn nàn chuyện thú cưng chạy rông, tôi cứ đổ hết lên đầu con chuột là xong. Xét về lý thì thế cũng chẳng phải nói dối.
 
-Dù còn phân vân từ lúc Edel đòi mở cửa, nhưng mọi thắc mắc hay toan tính trong bụng tôi đều bị con chuột dập tắt bằng một cái lườm sắc lẹm. Xem ra nó thực sự muốn chuồn ra ngoài rồi.
+Dù còn phân vân từ lúc Edel đòi mở cửa, nhưng mọi thắc mắc hay độc thoại trong đầu tôi đều bị con chuột dập tắt chỉ bằng một cái lườm. Xem ra nó thực sự muốn ra khỏi căn phòng này rồi.
 
-Tôi đứng dậy bước ra cửa. Vặn mạnh quả đấm rồi hé mở cánh cửa ra, chỉ chờ có thế, con chuột phóng vút đi ngay. Tôi rảo bước theo sau, tò mò muốn biết nó định đi đâu. Một điểm đến khá dễ đoán: chẳng mấy chốc tôi đã thấy mình đứng trong kho chứa dưới tầng hầm của cô nhi viện, đúng căn phòng nơi tôi gặp Edel lần đầu.
+Tôi đứng dậy bước ra cửa. Vặn mạnh quả đấm rồi hé mở cánh cửa ra, chỉ chờ có thế, con chuột phóng vút đi ngay. Tôi đi theo sau, tò mò muốn biết nó định đi đâu. Điểm đến khá dễ đoán, bởi chẳng mấy chốc tôi đã thấy mình đứng trong kho chứa dưới tầng hầm của cô nhi viện—đúng căn phòng nơi tôi gặp Edel lần đầu.
 
-Edel thoăn thoắt chạy ra giữa phòng, đứng dựng bằng hai chân sau rồi cất tiếng rít the thé vào không khí ẩm lạnh. Gần như ngay lập tức, không dưới năm con Puchi Suri từ trong bóng tối lao vút ra, xếp thành một hàng thẳng tắp trước mặt quyến thuộc của tôi.
+Edel thoăn thoắt chạy ra giữa phòng, đứng dựng bằng hai chân sau rồi cất tiếng kêu chít chít the thé vào không khí ẩm lạnh. Gần như ngay lập tức, không dưới năm con Puchi Suri từ trong bóng tối lao vút ra với tốc độ kinh người, xếp thành một hàng thẳng tắp trước mặt quyến thuộc của tôi.
 
 Hình như mình từng thấy cảnh này ở đâu rồi thì phải...?
 
-Tôi nhớ mồn một từng thấy cảnh lũ Puchi Suri nhỏ hơn xếp hàng trước một con to lớn thế này. Nhìn kỹ thì mấy con Puchi Suri này quen mắt thật; vết sẹo với hoa văn lông của chúng tôi đều đã thấy qua. Chỉ là trông chúng có vẻ lớn hơn, to ra thấy rõ so với lần trước tôi gặp.
+Tôi nhớ rõ từng thấy cảnh lũ Puchi Suri nhỏ hơn xếp hàng trước một con to lớn thế này. Thật ra mấy con Puchi Suri này trông rất quen; vết sẹo với hoa văn lông của chúng tôi đều đã thấy qua. Chỉ là trông chúng có vẻ lớn hơn một chút, to ra thấy rõ so với lần trước tôi gặp.
 
-Trong khi tôi còn mải nghĩ ngợi về đám hoa văn lông chuột, Edel lại rít lên, như thể đang trao đổi gì đó với đồng loại. Tiếng kêu của Puchi Suri dĩ nhiên chỉ toàn tiếng chít chít vô nghĩa với hầu hết con người, nhưng tôi lại có lợi thế nhờ liên kết tâm trí với Edel. Dần dà, tôi bắt đầu hiểu rõ từng ngọn ngành câu chuyện.
+Trong khi tôi còn mải nghĩ ngợi về hoa văn lông chuột, Edel lại kêu lên lần nữa, như thể đang trò chuyện gì đó với đồng loại. Tiếng kêu của Puchi Suri dĩ nhiên chỉ toàn tiếng chít chít vô nghĩa với hầu hết con người, nhưng tôi lại có lợi thế nhờ liên kết tâm trí với Edel. Dần dà, tôi bắt đầu hiểu rõ nội dung cuộc trò chuyện của chúng.
 
-Qua những tiếng chít chít râm ran, tôi hiểu ra năm con Puchi Suri dưới trướng Edel vẫn giữ lời hứa canh gác kho dưới tầng hầm. Trong thời gian đó, chúng từng đụng độ những đàn Puchi Suri khác từ đường phố Maalt mò vào gây sự. Dù vậy, cả bọn vẫn kiên cường giữ vững địa bàn, bảo vệ kho hầm nguyên vẹn. Chúng làm được thế là nhờ Edel đã cải biến đồng loại đôi chút bằng cách truyền một ít Ma Lực và Khí Lực vào người chúng. Chưa kể đám Puchi Suri này vốn dĩ đã khỏe hơn lũ chuột ngoài đường, nên thắng cũng phải.
+Qua những tiếng chít chít râm ran, năm con Puchi Suri dưới trướng Edel vẫn giữ lời hứa bảo vệ nhà kho dưới tầng hầm. Trong thời gian đó, chúng từng bị những bầy Puchi Suri khác từ đường phố Maalt mò vào tấn công. Dù vậy, cả bọn vẫn kiên cường giữ vững trận địa, bảo vệ kho hầm mà không để kẻ nào xâm nhập. Chúng làm được thế là nhờ Edel đã biến đổi đồng loại đôi chút bằng cách truyền một ít Ma Lực và Khí Lực vào người chúng. Chưa kể đám Puchi Suri này vốn đã khỏe hơn lũ chuột ngoài đường một chút, nên mới giành được phần thắng.
 
-Nói cách khác, xem chừng bản thân chúng cũng sắp sửa bước vào một lần Tiến Hóa Bản Thể rồi.
+Nói cách khác, xem chừng bản thân chúng cũng sắp bước vào một lần Tiến Hóa Bản Thể của riêng mình rồi.
 
-Khổ nỗi, nghĩ đến đây tôi lại thấy lấn cấn. Vốn dĩ chỗ Ma Lực với Khí Lực đó chẳng phải của tôi sao? Sức mạnh của Edel đâu phải từ ai khác ngoài chính chủ nhân của nó là Rentt Faina này!
+Có điều điểm này lại làm tôi thấy lấn cấn. Vốn dĩ chỗ Ma Lực với Khí Lực đó chẳng phải của tôi sao? Sức mạnh của Edel được lấy từ ai khác ngoài chính chủ nhân của nó là Rentt Faina này chứ.
 
-Ai ngờ Edel quay ngoắt lại, trừng mắt nhìn về phía tôi rồi rít lên một tràng dữ dằn. Xem ra con chuột quyến thuộc muốn tôi ngậm bớt miệng trong bụng lại thì hơn.
+Thế nhưng Edel lại quay người sang, nhìn chằm chằm về hướng tôi rồi kêu lên khá dữ dằn. Xem ra con chuột quyến thuộc muốn tôi giữ kín mấy ý nghĩ đó trong bụng thì hơn.
 
 ![](images/ch059-01.webp)
 
 Thật là một con chuột ngang ngược hết chỗ nói!
 
-Rõ ràng tôi là chủ, Edel là tớ! Thế mà xem chừng nó chẳng hề nghĩ vậy.
+Rõ ràng tôi là chủ, còn Edel là tớ! Thế mà xem chừng nó chẳng hề nghĩ vậy.
 
-Thấy nó rít gắt quá, tôi đành để mặc nó muốn làm gì thì làm... chí ít là lúc này. Dù sao nghe lỏm Edel nói chuyện với đàn em cũng mang lại vài điều hữu ích cho tôi. Đám thuộc hạ của Edel không chỉ đánh bại lũ Puchi Suri mò vào hầm mà còn tiện tay thu phục luôn cả bọn. Nhờ thế, chúng nắm được đường đi nước bước, ngõ ngách bí mật và từng ngôi nhà khắp Maalt qua mạng lưới chuột thành thị tinh vi này. Nhờ mối liên kết mới mẻ đó, bầy Puchi Suri dưới hầm bước vào một thời kỳ hoàng kim chưa từng có, con nào con nấy sống trong ấm no yên bình. Tất cả đều nhờ công đại ca chuột Edel của chúng...
+Thấy tiếng kêu của nó gắt quá, tôi đành để mặc nó muốn làm gì thì làm... chí ít là lúc này. Vả lại, cuộc trò chuyện giữa Edel và đám đàn em cũng mang lại vài điều hữu ích cho tôi. Đám thuộc hạ của Edel không chỉ đánh bại lũ Puchi Suri định xâm nhập kho hầm mà còn thu phục luôn bọn chúng. Nhờ thế, chúng nắm được thông tin về mọi tòa nhà, đường xá và lối đi bí mật khắp Maalt qua mạng lưới chuột thành thị tinh vi này. Nhờ mối hợp tác mới mẻ đó, bầy Puchi Suri sống dưới hầm bước vào một thời kỳ thịnh vượng mới, con nào con nấy đều được sống trong yên bình. Tất cả đều nhờ công đại ca chuột Edel của chúng...
 
 Chí ít thì theo chỗ tôi hiểu là vậy.
 
-Tôi thật sự cạn lời... Dù nghe thì hay ho đấy, nhưng cội nguồn sức mạnh của Edel đâu có ai khác ngoài tôi cơ chứ...
+Tôi thật sự cạn lời... Dù nghe thì tốt đẹp đấy, nhưng nguồn sức mạnh của Edel đâu có đến từ ai khác ngoài tôi cơ chứ...
 
-Tôi rất muốn nói thẳng ra, hiềm một nỗi chẳng thể mở miệng. Mà có nói thì lũ chuột nhóc kia cũng làm sao hiểu được tiếng người.
+Tôi rất muốn nói to điều đó ra, nhưng đành chịu, chẳng thể mở miệng. Mà có nói thì lũ chuột nhỏ kia cũng đâu hiểu được tiếng người.
 
-Chưa kể tôi cũng chẳng có cái uy cuốn hút như Edel; tiếc thật đấy.
+Chưa kể tôi cũng chẳng có được sức hút như Edel; tiếc thật đấy.
 
-Đang mải tự trào thì một luồng ý nghĩ bất ngờ từ Edel kéo tôi về thực tại. Hóa ra, nó hoàn toàn có thể sai bảo đàn em đi thu thập tin tức cho tôi nếu tôi muốn. Nhờ thân hình bé nhỏ, thoăn thoắt lại chẳng ai thèm để ý, Puchi Suri có mặt ở khắp hang cùng ngõ hẻm Maalt. Diệt một con thì dễ, nhưng chúng đẻ nhanh đến mức việc lùng diệt gần như vô ích. Nếu tôi tận dụng được lợi thế này, để mạng lưới chuột thu thập tin tức trên toàn thị trấn...
+Đang mải tủi thân thì một luồng ý nghĩ bất ngờ từ Edel cắt ngang dòng suy nghĩ của tôi. Hóa ra, nó có thể sai đám đàn em đi thu thập tin tức cho tôi nếu tôi muốn. Nhờ thân hình bé nhỏ, tốc độ nhanh nhạy và vẻ ngoài bình thường chẳng ai để ý, Puchi Suri có mặt ở khắp ngóc ngách Maalt. Giết một con thì chẳng khó, nhưng tốc độ sinh sản kinh hồn của chúng khiến việc diệt tận gốc gần như vô nghĩa. Nếu tôi tận dụng được lợi thế này, để mạng lưới chuột thu thập tin tức khắp Maalt...
 
-Mọi chuyện trong thị trấn này sẽ chẳng có gì qua nổi mắt tôi.
+Mọi chuyện trong thị trấn này tôi đều sẽ nắm rõ.
 
-Đến chính tôi còn chẳng ngờ tới, vậy mà giờ đây trong tay tôi đã có cả một mạng lưới tai mắt và gián điệp tí hon.
+Không ngờ chuyện đó lại diễn ra lúc nào tôi chẳng hay—giờ đây trong tay tôi đã có cả một mạng lưới chỉ điểm và gián điệp tí hon.
 
-Cái này sẽ có ích lắm đây. Thật sự quá đỗi hữu dụng...
+Thứ này sẽ có ích lắm đây. Thật sự rất hữu dụng...
 
 ◆◇◆◇◆
 
-"Cái... Cái này tuyệt quá! Đẹp đến khó tin! Tôi chưa bao giờ thấy mẫu vật nào giữ được hoàn hảo đến mức này!"
+"Cái... Cái này tuyệt quá! Đáng kinh ngạc thật! Tôi chưa bao giờ thấy mẫu vật nào được bảo quản hoàn hảo đến mức này!"
 
-Người đứng trước mặt tôi lúc này không ai khác chính là Unbert Abeiyu, người thầy trị liệu mà Alize từng nhắc tới. Đi cùng ông là dược sư Norman Hanel.
+Người đứng trước mặt tôi lúc này không ai khác chính là Unbert Abeiyu, người thầy trị liệu mà Alize từng nhắc tới. Đi cùng anh là dược sư Norman Hanel.
 
-Unbert là một người đàn ông trung niên cao kều, còn Norman trẻ hơn hẳn, một thanh niên đẫy đà trạc cuối đôi mươi. Nhìn vẻ niềm nở và nụ cười thân thiện của hai người, tôi đoán họ có mối quan hệ rất gắn bó với cô nhi viện.
+Unbert là một người đàn ông trung niên cao gầy, còn Norman trẻ hơn hẳn, một thanh niên đẫy đà trạc cuối đôi mươi. Nhìn phong thái và nụ cười thân thiện của hai người, tôi hiểu họ có mối quan hệ gắn bó với cô nhi viện.
 
-"Thế sao...? Dù gì thì... Chỉ mạo hiểm giả cấp cao. Mới dám vào Đầm Lầy... Tarasque. Cứ ngỡ họ... Chí ít cũng phải biết. Cách hái và giữ... Hoa Long Huyết chứ."
+"Thế sao...? Dù gì thì... Chỉ mạo hiểm giả cấp cao. Mới dám khám phá Đầm Lầy... Tarasque. Người ta hẳn sẽ nghĩ họ... Chí ít cũng phải biết. Cách hái và bảo quản... Hoa Long Huyết chứ."
 
-Tay nghề mạo hiểm giả thường tăng theo cấp bậc. Những người xếp hạng cao không chỉ vượt trội về sức mạnh thể chất hay năng lực chiến đấu, mà trên đường hành nghề họ còn tích lũy thêm nhiều kỹ năng phụ, như mổ xẻ chiến lợi phẩm hay hái lượm thảo dược. Tất nhiên, họ cũng phải học phép tắc xã giao trong làm ăn buôn bán và hiểu biết thêm việc đời. Dù không ai đòi hỏi mạo hiểm giả phải tinh thông như dân chuyên nghiệp, nhưng càng lên cấp cao, họ càng phải không ngừng học hỏi và mài giũa các kỹ năng căn bản.
+Tay nghề mạo hiểm giả đúng là tăng tỉ lệ thuận với cấp bậc. Những người xếp hạng cao thường có sức mạnh vượt trội hơn, đồng thời trên đường hành nghề họ cũng học thêm vài kỹ năng khác, như mổ xẻ hay hái thảo dược. Tất nhiên, người ta cũng bắt buộc phải học phép tắc xã giao trong làm ăn và hiểu biết chung về việc đời. Dù không ai đòi hỏi mạo hiểm giả phải nắm lượng kiến thức nhiều như dân chuyên nghiệp, nhưng càng leo lên cấp cao, chí ít họ cũng phải tiếp tục học hỏi và trau dồi các kỹ năng cốt lõi của mình.
 
-Tất nhiên vẫn có ngoại lệ. Những ai chỉ chăm chăm nhận ủy thác thảo phạt thì sức mạnh phát triển lệch hẳn. Còn những kẻ gian lận hoặc lòe bịp để qua bài thi thăng hạng thì kỹ năng lại cọc cạch, quái đản.
+Tất nhiên vẫn có ngoại lệ. Những người chỉ nhận ủy thác thảo phạt sẽ phát triển sức mạnh lệch hẳn. Tương tự, những mạo hiểm giả xoay xở gian lận hoặc phô trương lừa gạt để vượt qua bài thi thăng hạng sẽ có bộ kỹ năng khá kỳ quặc.
 
-Tính hết những yếu tố đó, ai cũng sẽ nghĩ mạo hiểm giả dám mò vào Đầm Lầy Tarasque chí ít phải đạt Ngân Cấp hay Kim Cấp. Trừ mấy ca dị biệt như tôi ra, họ thường phải thạo việc ở mọi mặt, từ đánh đấm cho tới hái lượm.
+Tính hết những yếu tố đó, theo lẽ thường ai cũng sẽ nghĩ mạo hiểm giả khám phá Đầm Lầy Tarasque chí ít phải đạt Ngân Cấp hoặc Kim Cấp. Trừ những trường hợp đặc biệt như tôi ra, họ sẽ thành thạo ở mọi mặt: chiến đấu, hái thảo dược hay những việc tương tự.
 
-"Đâu có được thế, đâu có được thế! Chỗ đó hiểm trở như vậy, phần lớn mạo hiểm giả lo giữ mạng khỏi trúng độc còn chưa xong, làm gì có tâm trí để ý bông hoa mình hái ra sao! Thậm chí đa số họ cứ hái bừa rồi nghĩ miễn mang được một cành về là xong chuyện. Có điều cái chốn ấy... chẳng mấy ai dám bén mảng vào, nên chúng tôi cũng đâu dám đòi hỏi gì hơn. Thật ra, tìm được người dám đặt chân vào đó đã là mừng rớt nước mắt rồi!"
+"Không hẳn thế đâu, không hẳn thế đâu. Chốn đó hiểm trở như vậy, phần lớn mạo hiểm giả lo sợ bị trúng độc còn chưa xong, làm gì còn tâm trí để ý tới bông hoa mình đang hái! Thật ra đa số họ đều hái rất ẩu, cứ nghĩ miễn mang được một mẫu vật về là ổn cả rồi. Có điều xét tính chất của nơi ấy... chẳng mấy mạo hiểm giả dám bước vào, nên chúng tôi cũng đâu phàn nàn được. Thậm chí, tìm được một mạo hiểm giả có khả năng đặt chân vào đó đã là chuyện đáng mừng lắm rồi!"
 
-Norman nói chẳng sai chút nào. Chẳng mấy ai muốn nán lại đầm lầy lâu hơn mức cần thiết. Đa số những người đủ trình độ đều thích đi chỗ khác hơn; còn ai chịu vào thì tiền công cũng phải tính từng giờ từng phút. Chắc chẳng bao giờ có kẻ chịu đi làm không công như tôi ở chốn này.
+Lời Norman nói cũng đúng. Rất ít mạo hiểm giả sẵn lòng nán lại đầm lầy lâu hơn mức cần thiết. Đa số những người có đủ năng lực đều thà đi chỗ khác còn hơn; dù vậy, những ai chịu bước vào chắc hẳn đều được trả thù lao hậu hĩnh cho thời gian họ bỏ ra. Những người làm tình nguyện như tôi có lẽ là chuyện xưa nay chưa từng thấy trong hoàn cảnh này.
 
-Về nguyên tắc, mạo hiểm giả và người thuê bình đẳng với nhau, nên bên thuê phải trả thù lao thật hậu hĩnh mới mời được người đủ bản lĩnh vào đầm lầy. Vì độ rủi ro quá cao, mạo hiểm giả thường nắm đằng chuôi khi mặc cả. Tuy nhiên ở phần lớn trường hợp khác, mọi chuyện lại diễn ra ngược lại. Quan hệ sòng phẳng, đôi bên cùng có lợi nghe thì lý tưởng đấy, nhưng đời thực lại khác xa.
+Mạo hiểm giả và người thuê thường ở vị thế ngang hàng, nên người thuê phải đưa ra thù lao xứng đáng mới mời được một mạo hiểm giả đủ năng lực bước vào đầm lầy. Vì có nhiều yếu tố phức tạp, mạo hiểm giả thường nắm thế thượng phong khi thương lượng chuyện này. Tuy nhiên ở phần lớn trường hợp khác, mọi chuyện lại ngược lại. Quan hệ cân bằng giữa người thuê và mạo hiểm giả nghe thì lý tưởng đấy, nhưng thực tế lại rất khác.
 
-"Thế thì tốt... Mọi chuyện suôn sẻ... Là may."
+"Tôi mừng là... Mọi chuyện suôn sẻ."
 
-"Quá suôn sẻ ấy chứ!" Norman hào hứng đáp.
+"Đương nhiên là suôn sẻ rồi chứ!" Norman hào hứng đáp.
 
-"Có cành Hoa Long Huyết nguyên vẹn thế này thì chuyện chế thuốc chữa Bệnh Tích Tụ Chướng Khí dễ như trở bàn tay! Hoa còn tươi nguyên nên tôi xử lý cũng nhàn hơn nhiều. Chưa kể tôi còn có thể làm thêm bao nhiêu thứ thuốc khác nữa chứ. Phải chi có thêm vài cành nữa thì tốt biết mấy..." Norman nói, giọng nửa như tự nhắc mình rằng có được một cành thế này đã là may mắn lắm rồi.
+"Có đóa Hoa Long Huyết được bảo quản hoàn hảo thế này thì chuyện chế thuốc chữa Bệnh Tích Tụ Chướng Khí dễ dàng thôi! Nhờ hoa còn nguyên vẹn hoàn hảo nên tôi chế biến cũng thuận lợi hơn nhiều. Thậm chí tôi còn có thể làm thêm nhiều loại thuốc khác nữa. Giá mà chúng ta có thêm Hoa Long Huyết thì tốt biết mấy..." Norman nói, như thể hiểu rằng chỉ riêng việc có được một bông hoa thôi đã là may mắn lắm rồi.
 
-"Anh cần... Thêm mấy cành?"
+"Các anh... Cần bao nhiêu?"
 
-"Hở...? Hừm, để xem nào. Chà, có thêm chừng ba bốn cành nữa thì tuyệt nhất. Tôi có thể chia đều dịch chiết ra, làm thêm đủ loại thuốc để chữa cho người bệnh nghèo!" Norman nói, như đang lẩm bẩm với chính mình hơn là trả lời tôi.
+"Hở...? Hừm. Để xem nào. Chà, thêm chừng ba bốn cành nữa thì tuyệt nhất. Tôi sẽ chia đều dịch chiết ra, làm thêm nhiều loại thuốc khác để chữa cho người bệnh!" Norman nói, như đang lẩm bẩm với chính mình hơn là nói với ai khác.
 
-Trông anh không có vẻ gì là đang đòi hỏi tôi; vả lại tôi cũng chưa hé răng nửa lời về chuyện mình hái được nhiều hoa. Norman chắc chỉ đang mơ về viễn cảnh có nhiều mạo hiểm giả tốt bụng, mỗi người mang về giúp một cành thôi.
+Trông anh không có vẻ gì là đang nài nỉ tôi đưa thêm hoa; vả lại tôi cũng chưa hề báo cho họ biết chuyện mình hái được nhiều hoa. Norman chắc chỉ đang tưởng tượng ra viễn cảnh có nhiều mạo hiểm giả tốt bụng mỗi người mang về một bông mà thôi.
 
-Anh không giống kiểu người biết nói dối. Như để khẳng định linh cảm của tôi, Alize ghé sát lại, thì thầm vào tai tôi.
+Anh không giống kiểu người hay nói dối—như để xác nhận suy nghĩ của tôi, Alize ghé sát lại, thì thầm vào tai tôi.
 
-"Bác sĩ Norman giúp đỡ nhiều người nghèo lắm, không chỉ riêng cô nhi viện đâu anh! Bác sĩ còn tự bỏ tiền túi ra mua thuốc men nữa đấy! Chú ấy là một thầy thuốc tốt bụng hiếm có, thời buổi này tìm đâu ra người như thế nữa!" Alize không tiếc lời khen ngợi Bác sĩ Norman tốt bụng. Xem chừng cô bé hết mực tin tưởng người này.
+"Bác sĩ Norman giúp đỡ nhiều người nghèo lắm, không chỉ riêng cô nhi viện đâu anh! Bác sĩ còn tự bỏ tiền túi ra lo thuốc men nữa đấy, anh biết không? Bác sĩ là một thầy thuốc nhân hậu hiếm có! Thời buổi này tìm đâu ra người như thế nữa!" Alize hết lời khen ngợi Bác sĩ Norman tốt bụng. Xem chừng vị bác sĩ này rất được cô bé tin quý.
 
-Không thể phủ nhận chuyện bác sĩ giúp đỡ Alize và cô nhi viện rất nhiều, nhưng nghề dược sư vốn cần kha khá vốn liếng để xoay xở. Thuốc thang đâu tự nhiên mà có, người ta phải bỏ công thu gom đủ thứ nguyên liệu. Nghề này vốn thế. Thành ra đa phần dược sư buộc phải bán thuốc giá hơi chát một chút, chí ít cũng là để tiệm thuốc duy trì được.
+Không nghi ngờ gì việc bác sĩ giúp đỡ Alize và cô nhi viện rất nhiều, nhưng nghề dược sư nhìn chung cần kha khá vốn liếng để hoạt động. Thuốc thang đâu phải miễn phí, bởi người ta phải thu gom đủ nguyên liệu thích hợp. Đặc thù công việc vốn là thế. Thành ra đa phần dược sư chẳng còn cách nào khác ngoài việc bán thuốc với giá nhỉnh hơn đôi chút, chí ít cũng để tiệm thuốc tiếp tục duy trì được.
 
-Dù vậy... nghĩ tới cảnh vị bác sĩ phải tự móc tiền túi ra cứu người bệnh, tôi lại thấy lo lo. Nhỡ Bác sĩ Norman có bề gì thì cô nhi viện chắc chắn sẽ khốn đốn theo.
+Dù vậy... Nghĩ tới cảnh vị bác sĩ tự bỏ tiền túi ra giúp người bệnh, tôi không khỏi thấy lo. Nhỡ có chuyện gì xảy ra với Bác sĩ Norman, cô nhi viện chắc chắn sẽ chịu ảnh hưởng xấu.
 
-Ít nhất Alize sẽ nghĩ như vậy. Nhưng thực tế mà nói, bác sĩ hẳn phải có cách riêng để duy trì tiệm thuốc. Cách đó là gì thì tôi chịu, có điều tôi nghĩ mình góp một chút hoa cỏ cũng chẳng mất gì.
+Ít nhất Alize sẽ nghĩ theo hướng đó. Nhưng thực tế mà nói, bác sĩ hẳn phải có cách riêng để duy trì công việc làm ăn của mình. Những lý do đó là gì thì tôi không dám chắc, có điều tôi nghĩ mình đóng góp một chút thế này cũng chẳng mất gì.
 
-Tôi thò tay vào túi ma thuật, quyết định chia bớt mấy cành hoa trong đó ra. Thêm vài cành cũng chẳng thiệt thòi là bao, vả lại còn vì việc thiện nữa.
+Tôi thò tay vào chiếc túi ma thuật, quyết định góp thêm vài bông hoa từ chỗ dự trữ của mình. Thêm vài cành hoa cũng chẳng phải mất mát gì lớn, mà lại dùng vào việc tốt.
 
-"Đây... Cầm lấy... Mấy cành này đi."
+"Đây... Cầm lấy. Mấy cành này đi."
 
-Tôi lấy thêm bốn cành Hoa Long Huyết nữa đặt lên bàn. Cả Norman lẫn Unbert đều trố mắt kinh ngạc. Chắc họ chẳng thể ngờ một mạo hiểm giả đi lẻ lại đủ sức hái được nhiều hoa đến thế một mình.
+Tôi lấy thêm bốn cành Hoa Long Huyết nữa đặt lên bàn. Cả Norman lẫn Unbert đều trợn tròn mắt kinh ngạc trước cảnh đó. Chắc họ không ngờ một mạo hiểm giả đi lẻ lại đủ khả năng tự mình hái được nhiều hoa đến thế.
 
-Hoa Long Huyết vốn mọc thành từng cụm lớn, nhưng hai người họ đâu thể biết, cũng như người ngoài nghề chẳng mấy ai hay về cái đáy sâu vô tận của túi ma thuật. Tôi từng phải chắt bóp suốt năm năm trời mới mua nổi cái túi này, nhưng quả là khoản đầu tư đáng giá. Đến mạo hiểm giả Ngân Cấp cũng phải nhịn ăn nhịn tiêu cả năm trời mới mua nổi; chuyện chẳng dễ dàng gì khi đa số mạo hiểm giả toàn tay làm hàm nhai, vung tay quá trán. Đã vậy loại ma cụ này đâu có bày bán sẵn ngoài tiệm, người ta phải săn lùng ở các buổi đấu giá công khai, thậm chí lần mò ra tận chợ đen.
+Hoa Long Huyết vốn mọc thành từng cụm lớn, nhưng hai người họ đâu biết chuyện đó, cũng như phần lớn người ngoài nghề chẳng hề biết tới chiếc túi ma thuật sâu không đáy. Tôi đã phải tích cóp suốt năm năm trời mới mua được chiếc túi này—một khoản đầu tư hoàn toàn xứng đáng. Đến mạo hiểm giả Ngân Cấp cũng phải tiết kiệm ít nhất một năm; chuyện chẳng dễ dàng gì khi đa số mạo hiểm giả đều tiêu xài hoang phí chẳng chút nghĩ ngợi. Đã vậy loại ma cụ này đâu có sẵn ngoài quầy, trước hết người ta phải tìm mua ở các buổi đấu giá công khai, hoặc thậm chí ngoài chợ đen.
 
-Nhờ quen biết rộng và có nhiều mối tin, tôi mới tậu được chiếc túi dung tích lớn, chứ đa số mạo hiểm giả chỉ kiếm được loại túi chứa bằng nửa của tôi là cùng. Loại nhỏ hơn thì nhét xong nhu yếu phẩm, lương khô với bình chứa là chẳng còn mấy chỗ.
+Nhờ quen biết rộng và có nhiều người cung cấp tin tức, tôi đã mua được một chiếc túi dung tích lớn, trong khi đa số mạo hiểm giả thường chỉ có chiếc túi to bằng nửa của tôi. Những chiếc túi nhỏ hơn thì sau khi xếp nhu yếu phẩm, lương khô và đồ đựng thông thường vào là chẳng còn trống bao nhiêu.
 
-Tất nhiên, người ta có thể đi theo tổ đội để mang vác được nhiều đồ hơn. Nhưng cách này vào Đầm Lầy Tarasque lại chẳng ăn thua, chủ yếu vì đồ kháng độc đã chiếm mất một đống chỗ. Đó là lý do hầu hết mạo hiểm giả chỉ mang về nổi một cành Hoa Long Huyết duy nhất.
+Tất nhiên, người ta có thể lập tổ đội để mang được nhiều đồ hơn. Nhưng cách này lại không hiệu quả mấy khi khám phá Đầm Lầy Tarasque, chủ yếu vì trang bị chống độc thường chiếm khá nhiều diện tích. Đó là lý do hầu hết mạo hiểm giả thường chỉ mang về được một bông Hoa Long Huyết duy nhất.
 
-Còn tôi thì thuê thêm một chiếc túi dung tích lớn từ Hội, lại chẳng cần biện pháp chống độc nào nên chỗ trống còn thừa thãi.
+Còn tôi thì thuê một chiếc túi dung tích lớn từ Hội, lại chẳng cần biện pháp chống độc nào nên chỗ trống còn lại kha khá.
 
-Thân xác này tính ra cũng có điểm tiện lợi. Một ý nghĩ kỳ lạ chợt thoáng qua trong đầu tôi: dù luôn mong có ngày biến trở lại thành người, liệu lúc đó tôi có mất luôn khả năng kháng độc không? Nghĩ thế có lẽ hơi tham lam, nhưng ngẫm lại thì bản tính con người vốn dĩ tham lam mà. Có được cái này rồi, người ta lại thèm muốn thêm cái khác.
+Nghĩ đi nghĩ lại thì cơ thể này của tôi cũng có chỗ hữu dụng. Một cảm xúc kỳ lạ chợt dâng lên từ đáy lòng: dù mong có ngày trở lại làm người, liệu lúc đó tôi có mất đi khả năng kháng độc không? Nghĩ thế có lẽ hơi tham lam, nhưng ngẫm lại thì con người vốn dĩ là sinh vật tham lam từ trong bản chất. Một khi đã có được thứ gì đó, chắc chắn họ sẽ lại muốn nhiều hơn nữa.
 
-Cắt ngang dòng suy nghĩ của tôi là Edel, nãy giờ vẫn bám im lìm trên vai. Nó như muốn nhắc nhở rằng đầu óc chuột bọ của nó chẳng hề có mấy ý nghĩ tham lam kia, mà giống chuột thì chắc thế thật. Thấy tôi nghĩ vậy, Edel siết chặt móng vuốt bấu vào vai tôi hơn.
+Cắt ngang dòng suy nghĩ của tôi là Edel, nãy giờ vẫn đậu im lìm trên vai. Nó như muốn tuyên bố rằng bản thân chẳng hề có mấy ý nghĩ tham lam kia, mà một con chuột thì chắc sẽ nghĩ thế thôi. Đáp lại, Edel siết chặt móng vuốt bám trên vai tôi hơn.
 
-Rồi rồi, chuột ơi. Tao xin lỗi.
+Rồi rồi, chuột à. Tao xin lỗi.
 
-Dù sao đi nữa, tôi quay lại với hai vị thầy thuốc trước mặt. Cả hai vẫn đang đứng hình nhìn mấy cành hoa trên bàn. Norman là người hoàn hồn đầu tiên.
+Dù sao đi nữa, tôi quay sự chú ý lại với hai người làm nghề y trước mặt, cả hai lúc này vẫn còn đứng chôn chân nhìn những bông hoa trên bàn. Norman là người phản ứng đầu tiên.
 
-"Thật... Thật sao anh? Anh chịu bán số hoa này cho chúng tôi ư? Nhưng... nếu có nhiều thế này, anh Rentt, đem bán cho hiệu thuốc lớn chẳng phải được giá hơn nhiều sao...?"
+"Có... Có thật không anh? Anh chịu bán số hoa này cho chúng tôi ư? Nhưng... nếu có nhiều thế này, anh Rentt, đem bán cho một hiệu thuốc lớn chẳng phải hợp lý hơn nhiều sao...?"
 
-Xem chừng Norman không đủ tiền mua chỗ hoa này. Vốn dĩ anh cũng đâu đòi hỏi nhiều đến thế, nên thế cũng phải thôi.
+Xem chừng Norman không đủ tiền trả cho chỗ hoa này. Vốn dĩ anh cũng đâu yêu cầu nhiều đến thế, nên vậy cũng dễ hiểu.
 
-"Không." Tôi chậm rãi lắc đầu. "Tôi... Tặng. Chỗ hoa này cho các anh. Miễn phí... Coi như tấm lòng cảm kích. Trước ý định... Cao đẹp của các anh. Đừng... Lo. Tôi vẫn còn... Trong túi."
+"Không." Tôi chậm rãi lắc đầu. "Tôi... Tặng. Chỗ hoa này cho các anh. Miễn phí... Coi như chút lòng cảm kích. Trước ý định... Chính đáng và cao đẹp của các anh. Đừng... Lo. Trong túi... Tôi vẫn còn."
 
-Tôi không muốn Norman phải nợ mình ân huệ, chỉ là thỉnh thoảng tôi thấy muốn làm việc thiện mà thôi. Nói cho cùng cũng chỉ để bản thân thấy thanh thản, chẳng hơn chẳng kém.
+Tôi không muốn Norman phải nợ mình ân huệ nào, bởi tôi chỉ đơn giản muốn làm việc tốt đôi lần mà thôi. Nói cho cùng cũng chỉ để bản thân thấy thoải mái—chẳng hơn, chẳng kém.
 
-Tôi hái thêm hoa đâu phải để đầu cơ kiếm bộn tiền; tôi chỉ muốn giúp đỡ người quen khi họ cần, nên tặng chỗ này cũng chẳng sao. Huống hồ Bác sĩ Norman nhất định sẽ dùng dược liệu này vào việc tốt. Kết thân với một dược sư giỏi lúc nào cũng có lợi, và giúp đỡ Bác sĩ Norman sẽ là bước khởi đầu cho mối quan hệ tốt đẹp của cả hai bên.
+Tôi hái thêm hoa đâu phải với hy vọng bán được giá cao; tôi chỉ muốn giúp đỡ những người quen tình cờ gặp khó khăn, nên tặng chỗ hoa này chẳng phải vấn đề gì lớn. Hơn ai hết, Bác sĩ Norman sẽ dùng những dược liệu này vào mục đích tốt đẹp. Có mối quan hệ với một dược sư giỏi lúc nào cũng tốt, và giúp đỡ Bác sĩ Norman sẽ là khởi đầu cho một mối quan hệ có lợi.
 
-Dù Lorraine cũng biết điều chế thuốc men, nhưng sở trường của cô là các loại dược thủy và dung dịch ma thuật, chứ chữa bệnh lại không phải chuyên môn của cô. Còn Bác sĩ Norman thì chuyên chữa trị cho người bệnh.
+Dù Lorraine cũng biết điều chế thuốc men và những thứ tương tự, nhưng cô chủ yếu chuyên về dược thủy và dung dịch ma thuật, nên việc chữa bệnh nằm ngoài chuyên môn của cô. Ngược lại, Bác sĩ Norman là người trực tiếp chữa trị cho người bệnh.
 
-Hồi trẻ tôi từng theo học một dược sư nên hiểu biết về mảng này hơn mạo hiểm giả thông thường, song làm sao sánh nổi với dân chuyên nghiệp thực thụ. Kéo được Bác sĩ Norman về phe mình thì còn gì bằng. Dù tính toán như thế nghe hơi thực dụng, nhưng trong chuyện này chẳng ai chịu thiệt thòi cả.
+Hồi trẻ tôi từng theo học một dược sư nên hiểu biết về mảng này hơn mạo hiểm giả thông thường, song làm sao sánh được với một chuyên gia thực thụ. Có được Bác sĩ Norman về phía mình là có lợi nhất. Nghe thì không được hay ho cho lắm, nhưng trong chuyện này chẳng ai chịu thiệt cả.
 
-Sau phút sững sờ ban đầu trước lời tôi nói, Bác sĩ Norman lấy lại bình tĩnh rồi lên tiếng.
+Cuối cùng cũng bình tâm lại sau phút kinh ngạc ban đầu trước lời tôi nói, Bác sĩ Norman lấy lại bình tĩnh rồi đáp lời.
 
-"Thứ lỗi cho tôi thất thố. Được thế thì quý hóa quá, chỗ hoa này sẽ cứu được biết bao nhiêu mạng người... Nếu có bất cứ việc gì tôi có thể giúp, anh Rentt, xin anh cứ lên tiếng. Chí ít tôi cũng cực kỳ tự tin về vốn kiến thức thảo dược và y thuật của mình, ở vùng này khó ai qua mặt được tôi lắm!"
+"Tôi xin lỗi. Vâng, chuyện này giúp ích lớn lắm. Biết bao nhiêu sinh mạng có thể được cứu sống nhờ chỗ hoa này... Nếu có bất cứ việc gì, bất cứ điều gì tôi làm được, anh Rentt, xin anh cứ lên tiếng. Chí ít tôi cũng rất tự tin về kiến thức thảo dược và y thuật của mình—dám chắc chẳng thua kém ai ở vùng đất này đâu!"
 
-Đó là những lời cảm tạ từ tận đáy lòng của vị bác sĩ tốt bụng.
+Đó là những lời cảm tạ chân thành của vị bác sĩ tốt bụng.
