@@ -132,6 +132,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Fuana |  | Fuana | Thành viên nữ tổ chức sát thủ, bám dính Spriggan, đam mê và sử dụng ma pháp cổ đại | #256 |
 | Gilli Flood | Gilli | Gilli Flood | Tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam | #261 |
 | Hamishy Favor | Hamishy | Hamishy Favor | Nhà nghiên cứu mê cung đứng đầu Tòa Tháp Yaaran | #263 |
+| Mel | Sister Mel | Mel | Nữ tu tại cô nhi viện ở vương đô nơi Elza và Lillian từng lớn lên | #265 |
+| Pochi |  | Pochi | Chú chó khổng lồ lông trắng (nghi là quái vật) sống hơn 20 năm tại cô nhi viện ở vương đô | #265 |
 
 ## Chi tiết
 
@@ -829,5 +831,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, nhà nghiên cứu mê cung đứng đầu Tòa Tháp tại Vương Quốc Yaaran (#263).
 - Đặc điểm: Được Jean Seebeck miêu tả là có vẻ ngoài ốm yếu, đúng chuẩn hình mẫu một nhà nghiên cứu kinh điển, nhưng vô cùng xuất chúng và tài năng đến mức người đối diện có thể cảm nhận được; là người dẫn dắt nghiên cứu đột phá tạo ra mê cung nhân tạo quy mô nhỏ dạng tổ kiến và đưa ra phân tích về sự bất ổn định của mê cung mới thành lập (#263).
 - Xuất hiện từ: #263 (được Jean Seebeck nhắc tên).
+
+### Mel
+- Giới tính, vai trò: Nữ, nữ tu (Sister Mel) tại cô nhi viện cũ ở vương đô nơi Elza và Lillian từng lớn lên (#265).
+- Đặc điểm: Được Elza nhờ lũ trẻ chạy vào báo tin khi cô ghé thăm cô nhi viện (#265).
+- Xuất hiện từ: #265.
+
+### Pochi
+- Giới tính, vai trò: Đực, chú chó khổng lồ lông trắng sống tại cô nhi viện ở vương đô (#265).
+- Đặc điểm: Thân hình to lớn vượt trội hơn cả Rentt và Lorraine, ngang ngửa với Hội Trưởng Wolf Hermann của Maalt; bộ lông trắng dài; tính cách thân thiện, thuần khiết, hiền lành và rất đáng yêu; đã sống tại cô nhi viện hơn 20 năm (lâu hơn bình thường đối với loài chó), nhiều khả năng là một phân loài quái vật; có khả năng phát ra âm thanh/thần giao cách cảm nói tiếng người [Xin chào!] (#265).
+- Xuất hiện từ: #265.
 
 

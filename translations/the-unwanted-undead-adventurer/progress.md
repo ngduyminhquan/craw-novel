@@ -269,7 +269,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 262 |  | Chapter_262 - Vol 11 Chapter 3 - The Organization (7).txt | Vol 11 Chapter 3 - The Organization (7) | reviewed |  |
 | 263 |  | Chapter_263 - Vol 11 Chapter 3 - The Organization (8).txt | Vol 11 Chapter 3 - The Organization (8) | reviewed |  |
 | 264 |  | Chapter_264 - Vol 11 Chapter 4 - The Saint and the Orphanage (1).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (1) | reviewed |  |
-| 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | todo |  |
+| 265 |  | Chapter_265 - Vol 11 Chapter 4 - The Saint and the Orphanage (2).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (2) | done |  |
 | 266 |  | Chapter_266 - Vol 11 Chapter 4 - The Saint and the Orphanage (3).txt | Vol 11 Chapter 4 - The Saint and the Orphanage (3) | todo |  |
 | 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | todo |  |
 | 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | todo |  |
@@ -919,3 +919,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#263] Dịch chức vụ 'vice chief' trong tổ chức sát thủ/dị năng của Jean Seebeck — tạm dịch là 'phó thủ lĩnh' theo văn cảnh tổ chức (phương án khác: 'phó thủ lĩnh ngầm', 'phó chỉ huy'). Tạm dùng trong bản dịch: 'phó thủ lĩnh'. → Chốt 'phó thủ lĩnh' đồng bộ với 'thủ lĩnh' (chief) của Jean Seebeck. (orchestrator)
 - [#262-263] Kính ngữ 'ạ' của Rentt khi nói chuyện với Jean Seebeck — Rentt là mạo hiểm giả kỳ cựu đĩnh đạc, bình đẳng và tôn trọng ('tôi - ngài') → Bỏ toàn bộ kính ngữ 'ạ' với Jean Seebeck (orchestrator)
 - [#264] Cảnh báo QA check 'familiar' ở chương 264 — raw dùng tính từ ('familiar drawing room', 'familiar with...') → Báo nhầm (false positive), giữ nguyên bản dịch (orchestrator)
+- [#265] Tên riêng chú chó khổng lồ 'Pochi' — tạm giữ nguyên tên riêng 'Pochi' theo raw (phương án khác: Việt hóa hoặc phiên âm khác). → Chốt giữ nguyên tên riêng 'Pochi' theo đúng rules.md. (orchestrator)
+- [#265] Quái vật 'gigantes rana' — tạm giữ nguyên tên riêng 'gigantes rana' theo raw kèm giải thích 'về cơ bản là một con ếch khổng lồ' (phương án khác: dịch hẳn thành Cóc/Ếch Khổng Lồ). → Chốt giữ nguyên 'gigantes rana' (tương tự Aqua Hathur, Golem Luteum) để tránh lặp chữ với câu giải thích 'về cơ bản là một con ếch khổng lồ' ngay phía sau. (orchestrator)

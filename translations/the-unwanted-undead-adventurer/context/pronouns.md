@@ -100,6 +100,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vaasa | Vaasa / gã / người đàn ông | 257 | Thành viên tổ chức sát thủ, có khả năng kháng ma pháp cao |
 | Fuana | Fuana / cô gái / thiếu nữ / cô ta | 257 | Nữ thành viên tổ chức sát thủ mê ma pháp cổ đại |
 | Gilli Flood | Gilli Flood / Gilli / ông lão / Spriggan | 261 | Tên thật của Spriggan, cựu đấu sĩ |
+| Mel | Mel / Sơ Mel / người phụ nữ | 265 | Nữ tu tại cô nhi viện ở vương đô |
+| Pochi | Pochi / chú chó / con quái vật | 265 | Chú chó khổng lồ lông trắng tại cô nhi viện |
 
 ## Giữa các nhân vật
 
@@ -504,4 +506,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jean Seebeck | Lorraine Vivie | ta | cô | 262 | Tổng Hội Trưởng kiêm Thủ lĩnh tổ chức sát thủ nói chuyện với nữ học giả |
 | Jean Seebeck | Spriggan | ta | Gilli / ông | 262 | Thủ lĩnh tổ chức sát thủ nói chuyện với cộng sự lâu năm |
 | Spriggan | Jean Seebeck | tôi | Thủ lĩnh / ngài | 262 | Cộng sự lâu năm gọi Thủ lĩnh tổ chức sát thủ |
+| Rentt Faina | Elza | tôi | cô / Elza | 265 | Giao tiếp thoải mái, bình đẳng khi ở ngoài tu viện |
+| Lorraine Vivie | Elza | tôi | cô / Elza | 265 | Giao tiếp thoải mái, bình đẳng khi ở ngoài tu viện |
+| Elza | Rentt Faina | tôi | cậu / Rentt | 265 | Tiếp chuyện thân mật khi ở ngoài tu viện |
+| Elza | Lorraine Vivie | tôi | cô / Lorraine | 265 | Tiếp chuyện thân mật khi ở ngoài tu viện |
+| Elza | * | tôi | các con / các em / mọi người | 265 | Nữ Tu Viện Trưởng nói chuyện thân mật với lũ trẻ ở cô nhi viện |
+| Rentt Faina | Mel | tôi | cô | 265 | Mạo hiểm giả nói chuyện lịch sự với người phụ nữ trẻ tại cô nhi viện |
+| Mel | Rentt Faina | tôi | anh | 265 | Người phụ nữ tại cô nhi viện nói chuyện với Rentt |
+| Mel | Pochi | tôi | Pochi / ngoan nào | 265 | Nữ tu dỗ chú chó khổng lồ |
 

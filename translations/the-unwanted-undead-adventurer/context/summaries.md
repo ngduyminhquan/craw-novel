@@ -1568,6 +1568,12 @@ Trút bỏ tu phục và lén cắt đuôi các giáo sĩ để lẻn ra cửa p
 Xem qua cuốn sổ tay chi tiết rải rác hình vẽ Khô Lâu và Ma Cà Rồng của nhóm Rentt, Elza dự tính hành trình sẽ kéo dài tới tối và nhờ cả hai tháp tùng cô ghé qua một nơi sau khi mua sắm xong.
 Cảnh kết thúc: Nhóm Rentt cùng Nữ Tu Viện Trưởng Elza cải trang thống nhất kế hoạch và bắt đầu chuyến dạo quanh các con phố vương đô.
 
+## 265
+Rentt và Lorraine bao trọn bữa bánh ngọt cho Elza tại một tiệm bánh thủ công danh tiếng nằm khuất trong ngõ hẻm theo danh sách quà lưu niệm của Rina; Elza hào hứng ăn liền bảy phần bánh và mua thêm một núi bánh ngọt làm quà.
+Elza dẫn cả hai tới điểm đến bí mật: một cô nhi viện cũ đặt tại một nhà thờ cổ sâu trong hẻm vương đô – nơi Elza và Lillian từng cùng nhau lớn lên thuở nhỏ; lũ trẻ ùa ra đón Elza và được cô nhờ vào báo tin cho Sơ Mel.
+Khi bước vào trong, Rentt bất ngờ bị một chú chó khổng lồ lông trắng tên Pochi (to lớn ngang Hội Trưởng Wolf) nhào tới liếm mặt; một người phụ nữ trẻ đoan trang ra dỗ Pochi và tiết lộ Pochi đã sống ở đây hơn 20 năm, nhiều khả năng là quái vật.
+Cảnh kết thúc: Trong lúc Rentt còn đang ngẫm nghĩ về tuổi thọ của quái vật và ranh giới sinh vật, chú chó Pochi bất ngờ cất tiếng nói [Xin chào!], khiến Rentt vô cùng kinh ngạc.
+
 
 
 

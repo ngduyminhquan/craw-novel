@@ -467,3 +467,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Spelldrain Armor |  | Hấp Ma Khôi Giáp | kỹ năng | 261 | Nguyên bản ma pháp do Fuana sáng tạo, hấp thu ma pháp của đối thủ để bao bọc cơ thể thành lớp khôi giáp phòng ngự và cường hóa tấn công |
 | Gilli the Monster |  | Gilli Quái Vật | danh hiệu | 261 | Danh hiệu đấu sĩ của Gilli Flood tại thành phố đấu trường phương nam |
 | divine treasure | divine treasures | Thần Khí | vật phẩm | 262 | Trang bị/bảo vật cấp thần thánh được tạo ra bởi thần linh hoặc các chủng tộc như High Elf, Người Lùn |
+| Angel |  | Thiên Sứ | khác | 265 | Đấng thiên sứ được tôn thờ trong Giáo Hội Đông Thiên (cách gọi tắt của Angel of the East) |
+| gigantes rana |  | gigantes rana | quái vật | 265 | Loài quái vật ếch khổng lồ với chiếc lưỡi cực dính (ギガンテス・ラナ) |
