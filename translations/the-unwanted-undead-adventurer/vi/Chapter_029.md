@@ -1,6 +1,6 @@
 # Chương 29: Ngoại truyện Tập 1 - Ngày Rentt Nổi Giận ~Năm Thứ Sáu Làm Mạo Hiểm Giả của Lorraine~ (2)
 
-Dù thỉnh thoảng ý nghĩ trở thành một người bình thường cũng thoáng qua trong đầu, nhưng những nguồn Ma Lực đang cuộn trào bên trong lại có dự định khác cho tương lai của tôi.
+Dù thỉnh thoảng tôi cũng thoáng nghĩ đến chuyện sống như một người bình thường, nhưng nguồn Ma Lực dồi dào đang cuộn chảy trong người hiển nhiên không để tôi yên phận như thế.
 
 Tôi cẩn thận che giấu ý định, bắt đầu ngưng tụ Ma Lực trong người rồi chậm rãi dệt thành ma pháp. Lũ du côn chẳng mảy may hay biết gì, nhưng Zarid đã nhận ra và hốt hoảng giơ tay lên can.
 
@@ -14,7 +14,7 @@ Ma Lực cuộn trào trong tôi... rồi bỗng khựng lại. Tôi tạm gác 
 
 Chẳng lẽ tôi tha thứ cho bọn chúng? Dĩ nhiên là không, đời nào có chuyện đó. Sở dĩ tôi dừng tay đơn giản vì nghĩ màn kịch này không còn phần của mình nữa, chủ yếu là do vị khách vừa bước vào quán đang tỏa ra một luồng sát khí rợn người.
 
-Bản thân tôi cũng tò mò muốn biết luồng sát khí này là của ai. Ngoái đầu nhìn lại, tôi ngạc nhiên khi thấy một người quá đỗi quen thuộc.
+Bản thân tôi cũng tò mò muốn biết luồng sát khí này là của ai. Rướn cổ nhìn ra cửa, tôi ngạc nhiên khi thấy một người quá đỗi quen thuộc.
 
 "...Rentt?"
 
@@ -28,7 +28,7 @@ Như để trả lời thắc mắc của tôi, Zarid lên tiếng, giọng ph�
 
 "Rentt... Nổi giận ư...? Anh ấy á? Thật sao?"
 
-Zarid chậm rãi giải thích cặn kẽ cho tôi nghe.
+Zarid chậm rãi, từ tốn đáp lại câu hỏi của tôi.
 
 "...Ừ. Chắc cô không biết đâu. Phải rồi... Hồi đó cô chưa tới đây. Lần gần nhất là... lúc cô ra ngoài có việc, còn lần trước nữa là trước khi cô tới Maalt. Ừ... Đúng là thế đấy."
 
@@ -36,7 +36,7 @@ Zarid chậm rãi giải thích cặn kẽ cho tôi nghe.
 
 "Thì..."
 
-"Cụ thể là... ủa? Mấy gã lúc nãy... đi đâu mất rồi?"
+"Cụ thể là... hử? Mấy gã lúc nãy... đi đâu mất rồi?"
 
 Chẳng biết từ lúc nào, mấy kẻ vừa quấy rầy tôi đã biến mất tăm, như thể chưa từng có mặt ở đây. Thật kỳ lạ, rõ ràng lúc nãy bọn chúng còn huênh hoang đòi vui vẻ với tôi tới mức nào. Giờ thì đã bốc hơi như làn khói.
 
@@ -58,17 +58,17 @@ Luồng sát khí tỏa ra từ người anh lúc trước giờ đã tan biến
 
 Hiếm khi thấy anh bực bội đến thế. Thấy Rentt không giải thích nhiều, tôi quay sang Zarid để hỏi. Ông cũng mang vẻ mặt khó chịu không kém, chậm rãi đáp lời tôi.
 
-"...Mấy tên ngốc đó cố tình dụ quái về phía các tân binh trong mê cung đấy." Zarid, người bình thường hiếm khi nao núng trước điều gì, khẽ nhíu mày.
+"...Mấy tên ngốc đó đã giở trò dụ quái về phía các tân binh trong mê cung đấy." Zarid, người bình thường hiếm khi nao núng trước điều gì, khẽ nhíu mày.
 
-"...Ra là vậy. Đúng là đồ cặn bã. Bọn chúng cố tình làm thế thật sao?"
+"...Ra là vậy. Đúng là đồ cặn bã. Bọn chúng cố ý làm thế thật sao?"
 
 "Dụ quái" là tiếng lóng quen thuộc của giới mạo hiểm giả, chỉ hành động dẫn quái vật về phía người khác rồi lập tức tẩu thoát ngay khi quái vật chuyển hướng chú ý. Dù nhiều mạo hiểm giả làm vậy mà không hề có ác ý khi tháo chạy khỏi những quái vật vượt quá sức mình, nhưng vẫn có vài kẻ xấu tính cố tình làm thế với mưu đồ bất chính.
 
-Đó là lý do tôi hỏi Zarid liệu bọn chúng có cố tình làm vậy không, bởi mấy tên kia đâu có mạnh mẽ gì cho cam.
+Đó là lý do tôi hỏi Zarid liệu bọn chúng có cố ý làm vậy không, bởi mấy tên kia vốn đâu có mạnh mẽ gì cho cam.
 
 Nhưng Rentt lập tức lắc đầu.
 
-"Không, không phải thế đâu. Như hai người thấy đấy, ba tên đó thực lực chẳng có bao nhiêu. Khi đi săn trong Mê Cung Tân Nguyệt, bọn chúng lại chọc giận khoảng chục con Goblin, rồi cuối cùng dụ quái về phía những mạo hiểm giả đang thong thả săn bắt ở các khu vực tương đối an toàn của Tân Nguyệt."
+"Không, không phải chúng chủ mưu hại người từ đầu đâu. Như hai người thấy đấy, ba tên đó thực lực chẳng có bao nhiêu. Khi đi săn trong Mê Cung Tân Nguyệt, bọn chúng lỡ chọc phải khoảng chục con Goblin, rồi cuối cùng lại dụ đám quái đó về phía những mạo hiểm giả đang thong thả đi săn ở các khu vực tương đối an toàn của Tân Nguyệt."
 
 "Thế còn những mạo hiểm giả kia thì sao?"
 
@@ -96,7 +96,7 @@ Zarid gật gù nghe Rentt nói.
 
 "Được rồi, tôi hiểu rồi. Việc của chúng ta là thẳng tay trừng trị bọn chúng chứ gì? Dằn mặt một trận ra trò cho chúng cạch đến già không dám tái phạm nữa? Hay cả ba chúng ta cùng cho chúng một bài học, thậm chí nện cho một trận tơi bời đi!"
 
-Ý kiến của Zarid rất dễ hiểu. Nếu chỉ cần phô trương sức mạnh thì một mình tôi cũng thừa sức, huống hồ lần này có cả Rentt lẫn Zarid ở đây, mọi chuyện lại càng quá đỗi dễ dàng.
+Ý kiến của Zarid rất dễ hiểu. Nếu chỉ cần phô trương sức mạnh thì một mình tôi cũng thừa sức, huống hồ lần này có cả Rentt lẫn Zarid ở đây, mọi chuyện lại càng dễ như trở bàn tay.
 
 Nhưng Rentt lại lắc đầu.
 
@@ -104,15 +104,15 @@ Nhưng Rentt lại lắc đầu.
 
 "Hử?"
 
-"Dù chúng ta có thể nện cho một trận nhừ tử theo đúng nghĩa đen, nhưng làm thế chỉ tổ khiến bọn chúng thêm uất ức. Chúng còn có thể nung nấu ý định trả thù hoặc làm chuyện gì tệ hơn. Ta cứ để cách đó lại sau cùng, dĩ nhiên nếu kế hoạch của tôi hỏng thì cứ làm thế."
+"Đánh cho bọn chúng một trận nhừ tử thì cũng được thôi, nhưng làm thế chỉ tổ khiến chúng ôm hận trong lòng. Chúng còn có thể nung nấu ý định trả thù hoặc làm chuyện gì tệ hơn. Ta cứ để cách đó đến cuối cùng hẵng hay, dĩ nhiên nếu kế hoạch của tôi hỏng thì cứ làm theo ý anh."
 
-Nghe anh nói, có vẻ kế hoạch của Rentt đã bắt đầu vận hành, và đó rõ ràng là một kế hoạch không hề dính dáng tới bạo lực.
+Nghe anh nói, có vẻ kế hoạch của Rentt đã bắt đầu được triển khai, và đó rõ ràng là một kế hoạch không dùng đến bạo lực.
 
-Dù vậy, Zarid lập tức gật đầu tán thành.
+Nghe vậy, Zarid lập tức gật đầu tán thành.
 
 "Được thôi. Tôi không phản đối. Nhưng Rentt này... nương tay với bọn chúng chút đấy nhé?"
 
-"Nương tay ư? Ý anh là sao? Tôi vốn đâu có mạnh mẽ gì cho cam, nên làm gì cần đến mức đó. Thôi, tôi phải đi đây, còn phải tìm tung tích bọn chúng nữa chứ nhỉ?"
+"Nương tay ư? Ý anh là sao? Tôi vốn đâu có mạnh mẽ gì cho cam, nên làm gì cần đến mức đó. Thôi, tôi phải đi đây, còn phải đi lùng bọn chúng nữa mà."
 
 Nói rồi, Rentt thò tay vào túi rút mấy đồng xu định trả tiền phần nước của mình, nhưng Zarid đã cản lại.
 
@@ -124,7 +124,7 @@ Dứt lời, Rentt rời đi. Bàn rượu lại chỉ còn tôi với Zarid.
 
 "Ý ông 'nương tay' rốt cuộc là sao?"
 
-Tôi không khỏi để tâm đến chuyện này, bởi đúng như anh tự nhận, Rentt đâu có mạnh mẽ gì. Dù ba tên kia khó mà làm khó được Rentt, nhưng nếu anh nương tay với chúng thì rất có thể bản thân anh sẽ rơi vào nguy hiểm.
+Tôi không khỏi để tâm đến chuyện này, bởi đúng như anh tự nhận, Rentt đâu có mạnh mẽ gì. Dù ba tên kia chẳng phải đối thủ của Rentt, nhưng nếu anh nương tay với chúng thì rất có thể chính anh sẽ rơi vào nguy hiểm.
 
 Zarid ắt hẳn cũng biết điều đó, nên lời ông nói mới khiến tôi khó hiểu. Nhưng Zarid chỉ thoáng liếc nhìn tôi, rồi lại ực một ngụm lớn từ vại bia.
 
@@ -154,11 +154,11 @@ Tôi quay lại, quả nhiên là Zarid.
 
 "Tôi thấy rồi, nhưng rốt cuộc bọn chúng đang làm trò gì thế kia...?"
 
-Nói đoạn, tôi quay lại nhìn ba tên ngốc thêm lần nữa. Nơi này dù sao cũng là lối vào Mê Cung Tân Nguyệt. Thế mà cả ba đứa lại đang quỳ mọp ngay lối vào, cúi đầu xin lỗi từng mạo hiểm giả đi qua.
+Vừa nói, tôi vừa quay sang nhìn ba tên ngốc kia lần nữa. Chỗ này vốn là lối vào Mê Cung Tân Nguyệt, thế mà cả ba đứa lại đang quỳ rạp ngay trước cửa, cúi đầu xin lỗi từng mạo hiểm giả bước vào trong.
 
 Theo lời Zarid giải thích, bọn chúng đang tạ lỗi vì hành vi dụ quái về phía các mạo hiểm giả khác, thế nhưng có điều gì đó trông rất bất thường.
 
-"Có điều tôi phải công nhận, chưa thấy ai ăn năn hối lỗi một cách nhiệt tình và sốt sắng đến cỡ đó bao giờ."
+"Có điều phải công nhận là tôi chưa từng thấy ai ăn năn hối lỗi mà lại hăng hái, sốt sắng đến cỡ đó bao giờ."
 
 "Sao, cô vẫn chưa nghe Rentt kể gì à?" Zarid nghiêng đầu hỏi.
 
@@ -166,13 +166,13 @@ Dĩ nhiên tôi đành phải nhờ ông kể rõ ngọn ngành.
 
 "Thế này... Sau vụ ở quán rượu hôm nọ, Rentt tìm ra tung tích bọn chúng dễ như bỡn. Cậu ta xác nhận chỗ trọ này nọ, rồi bảo chủ nhà trọ cung cấp thông tin cá nhân của từng đứa: tên tuổi, quê quán, đủ cả. Xong xuôi cậu ta mới rời đi."
 
-"...Nghĩa là Rentt không thèm gặp mặt chúng ngay lúc đó?"
+"...Vậy là Rentt không trực tiếp ra mặt gặp bọn chúng ngay lúc đó à?"
 
 "Có vẻ là thế. Nhưng mọi chuyện sau đó mới đáng nói... Ngay hôm sau, mấy tên ngốc đó đã bị đuổi cổ khỏi chỗ trọ."
 
 "...Chắc là nhờ công của Rentt rồi. Chắc hẳn anh ấy đã kể cho chủ trọ nghe trò bẩn thỉu của chúng."
 
-"Đại khái là thế. Nhưng chưa hết đâu nhé! Nghe đâu bọn chúng đã thử tìm sang các nhà trọ khác, nhưng chỗ nào cũng bị từ chối thẳng thừng.
+"Đại khái là thế. Nhưng chưa hết đâu nhé! Nghe đâu bọn chúng đã thử tìm sang các nhà trọ khác, nhưng chỗ nào cũng bị từ chối thẳng thừng."
 
 "Nhưng chuyện còn hay hơn nữa cơ: lũ ngốc đó đi mua đồ ăn thì chẳng tiệm nào thèm bán. Đến cả tiệm rèn cũng từ chối bảo dưỡng vũ khí cho chúng, rồi dĩ nhiên ai đi ngoài đường cũng nhìn chúng bằng ánh mắt lạnh như băng. Suốt ba ngày qua bọn chúng phải chịu trận như thế đấy."
 
@@ -182,7 +182,7 @@ Dĩ nhiên tôi đành phải nhờ ông kể rõ ngọn ngành.
 
 "Chẳng lẽ bọn chúng không nhận ra mình đang bị người ta cố tình chơi xỏ à...?"
 
-"Chắc là có chứ, chuyện kéo dài suốt mấy ngày liền mà. Thế là chúng mò đến chỗ lính gác để khiếu nại... Ai ngờ chính mấy tay lính gác đó lại bảo bọn chúng cũng từng làm cái trò y như thế. Thậm chí bất cứ ai nói chuyện với chúng cũng lôi mấy trò bẩn thỉu của chúng ra chì chiết, cứ thế tiếp diễn suốt mấy hôm vừa qua. Tôi đoán bọn chúng sắp suy sụp đến nơi rồi.
+"Chắc là có chứ, chuyện kéo dài suốt mấy ngày liền mà. Thế là chúng mò đến chỗ lính gác để khiếu nại... Ai ngờ chính mấy tay lính gác đó lại bảo bọn chúng cũng từng làm cái trò y như thế. Thậm chí bất cứ ai nói chuyện với chúng cũng lôi mấy trò bẩn thỉu của chúng ra chì chiết, cứ thế tiếp diễn suốt mấy hôm vừa qua. Tôi đoán bọn chúng sắp suy sụp đến nơi rồi."
 
 "Dĩ nhiên chúng đâu có ngốc tới mức không biết, ngay từ đầu đã rõ ai là người giật dây đằng sau rồi. Nói cho đúng thì Rentt cố tình để bọn chúng biết cậu ta là người đứng sau chuyện này, thế nên rốt cuộc chúng mới phải mò đến tìm Rentt để xin lỗi về những việc mình đã làm."
 
@@ -200,8 +200,8 @@ Nói cho rõ thì tôi không hề ám chỉ những mạo hiểm giả suýt m�
 
 Nhưng rốt cuộc cả ba đã thành tâm tạ lỗi, và chẳng ai bị thương tổn gì, tất cả đều nhờ công của Rentt.
 
-Dù chuyện này chẳng có gì đáng cười, nhưng cuối cùng ai nấy đều bật cười trước một kết cục êm thắm đến vậy. Hơn ai hết, tôi hiểu rõ để dàn xếp được kết quả như thế này khó khăn đến mức nào, thế nên tôi mới buột miệng:
+Dù chuyện này chẳng có gì đáng cười, nhưng cuối cùng ai nấy đều bật cười trước một kết cục nhẹ nhàng, êm thấm đến vậy. Hơn ai hết, tôi hiểu rõ để dàn xếp được kết quả như thế này khó khăn đến mức nào, thế nên tôi mới buột miệng:
 
 "Rentt Faina... Đúng là một người đáng sợ thật."
 
-Tôi hạ giọng như để phụ họa cho lời giải thích tràng giang đại hải của Zarid. Có lẽ hôm nay tôi sẽ đãi ông một cốc bia, suy cho cùng cả hai chúng tôi đều cần một chầu uống ra trò.
+Tôi cố ý hạ giọng theo đúng cái điệu kể chuyện đầy tâm đắc vừa rồi của Zarid. Có lẽ hôm nay tôi sẽ đãi ông một cốc bia, suy cho cùng cả hai chúng tôi đều cần một chầu uống ra trò.

@@ -27,14 +27,13 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
    - "đống xương tàn vô hồn" → "đống xương vụn"; "đàng hoàng lên đường" → "lên đường".
 2. **Hiện đại nhưng không suồng sã.** Không dùng tiếng lóng mạng, từ công nghệ hay gamer slang (xem `rules.md` #152, #243, #256). Không cường điệu hơn raw: "cắn tôi một miếng ngọt xớt", "cú nện điếng người", "mười mươi" cho "the possibility was there" đều là quá tay.
 3. **Giọng Rentt.** Bình tĩnh, hay phân tích, hay tự giễu, như một gã mạo hiểm giả từng trải đang kể chuyện cho bạn nghe, không phải đọc diễn văn. Độc thoại dùng tiểu từ ("chứ", "mà", "đấy", "thôi") và câu hỏi tu từ ngắn. Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng, không thêm ý.
-4. **Giọng nhân vật khác.** Lorraine sắc sảo, hay trêu Rentt. Người thô lỗ nói cộc. Chi tiết xem `characters.md` và `pronouns.md`.
+4. **Giọng nhân vật khác.** Lorraine sắc sảo, lý trí, thực tế, hay trêu Rentt; khi tự thuật ở ngôi thứ nhất (#28–29, #217) thì pha chút tự tin, châm biếm nhưng điềm tĩnh. Người thô lỗ nói cộc. Chi tiết xem `characters.md` và `pronouns.md`.
 5. **Thoại ngắt quãng thời Ngạ Quỷ.** Sau dấu "." thì viết hoa, sau "..." giữa câu thì viết thường. Đổi xưng hô trong một câu thoại thì đổi cả câu, không để vế đầu "mình", vế sau "tôi".
 6. **Miêu tả Undead dạng xương.** Khô Lâu hoặc sinh vật chỉ có xương thì không tả là "cơ bắp" (`physical strength` → "sức mạnh thể chất / lực đòn đánh").
 7. **Giọng Loris Cariello và Isabel.** Loris là chủ quán ăn bình dân, xởi lởi, hay dùng từ đệm dò ý ở cuối câu ("yeah?" → "chứ hả", "nhé", "được không"); Isabel tháo vát, chăm chỉ, xưng hô vợ chồng tự nhiên ("mình ơi", "nhà tôi"), giao tiếp với người ngoài giữ phép lịch sự nhưng thẳng thắn, không khách sáo màu mè.
 8. **Bản năng Undead trỗi dậy và tâm lý tự giễu của Lorraine.** Khi Rentt bị bản năng quái vật chi phối, độc thoại nội tâm giằng xé giữa cơn thèm khát dã tính và lý trí con người, diễn đạt bằng các câu cụt dồn dập, ngắt quãng. Lorraine khi đối diện việc bị tấn công vẫn giữ thái độ thực tế, sắc sảo và dí dỏm tự giễu ("damaged goods" → "hàng có tì vết"), không bi lụy hay hoảng loạn thái quá.
 9. **Giọng kỵ sĩ quý tộc (Idoles Rogue).** Lịch thiệp, chuẩn mực quý tộc khi giao tiếp với người lạ ("xin thứ lỗi", "chẳng hay", "rất cảm kích"), khiêm nhường và thẳng thắn, không dùng giọng trịch thượng hay kẻ cả dù là tinh anh của Đệ Nhất Kỵ Sĩ Đoàn.
 10. **Giọng người phụ nữ áo chùng đen bí ẩn (#26).** Điềm đạm, êm dịu, chuẩn mực như bề trên nói chuyện với đứa trẻ phạm lỗi (xưng "ta", gọi "ngươi"); lịch thiệp và hòa nhã nhưng dứt khoát và áp đảo khi bảo vệ căn phòng bí mật, không dùng giọng hống hách hay đao to búa lớn.
-11. **Góc nhìn ngôi thứ nhất của Lorraine Vivie (#28).** Sắc sảo, lý trí, thực tế và có phần tự tin, châm biếm (đặc biệt trong các suy nghĩ về hôn nhân và giao tiếp với bạn bè); thể hiện bản lĩnh của một học giả kiêm mạo hiểm giả độc lập, không tỏ ra hoảng loạn hay yếu đuối khi bị quấy rối.
 
 ## Từ cảm thán / cách nói cố định
 

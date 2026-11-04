@@ -111,8 +111,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#262) Thành ngữ "put bread on the table": dịch là "kiếm đủ ăn / kiếm sống", tránh dịch thô thành "số bánh mì kiếm được" và tránh ghép từ vô nghĩa "thừa thấu".
 - (#264) Phân biệt liên từ "trừ phi" (unless) và giới từ "ngoại trừ / trừ" (except): không dùng "trừ phi là [Ai đó]" khi mang nghĩa loại trừ người ("except perhaps [Someone]" -> "ngoại trừ / trừ [Ai đó] ra có lẽ mới... / họa chăng chỉ có...").
 - (#264) Thành ngữ "not have a leg to stand on": dịch là "chẳng có lý lẽ nào để chống chế / bào chữa", tránh dịch thô thành "chẳng có lý lẽ nào để đứng vững".
-- (#28) Cụm từ "on one's tab" trong bối cảnh quán rượu: dịch là "ghi nợ vào sổ / ghi nợ", tránh dịch máy thành "ghi nợ vào tài khoản" mang tính hiện đại.
-- (#28) Cụm từ lăng mạ "worthless sack of a man": dịch là "thứ/thằng phế vật vô tích sự", tránh dịch thô từng chữ thành "cái bao tải phế vật".
-- (#29) Cụm từ "beyond consideration": dịch là "không đáng để nghĩ tới / đời nào có chuyện đó", tránh dịch sai nghĩa thành "nằm ngoài dự tính".
-- (#30) Cụm từ "trade and industry" trong bối cảnh kỳ ảo trung cổ: dịch là "thương mại và sản xuất / chế tác", tránh dịch máy thành "công nghiệp" mang tính hiện đại hóa.
-- (#30) Thành ngữ "synonymous with [something]": dịch là "gắn liền với / nhắc tới là nghĩ ngay tới" (tránh dịch máy thành "đồng nghĩa với").
+- (#28, #30) Tránh dùng từ ngữ kinh tế/tài chính hiện đại trong bối cảnh kỳ ảo trung cổ: "on one's tab" tại quán rượu dịch là "ghi nợ vào sổ / ghi nợ" (tránh dịch là "ghi nợ vào tài khoản"); "trade and industry" dịch là "thương mại và sản xuất / chế tác" (tránh dịch là "công nghiệp").

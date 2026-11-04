@@ -14,23 +14,23 @@
 
 Tôi có một nhiệm vụ cần phải làm cho xong. Ý tôi là cái ủy thác đã nhận từ trước; cụ thể là đi săn Orc và thu thập nguyên liệu từ chúng.
 
-Do vài biến cố và hoàn cảnh đưa đẩy, tôi đâm ra khá rảnh rỗi, có được một quãng thời gian trống tương đối dài. Dẫu vậy, thời hạn hoàn thành ủy thác vẫn còn khá dư dả, nên tôi nghĩ chắc cũng chẳng có vấn đề gì to tát.
+Vì vài chuyện phát sinh nên mấy hôm vừa rồi tôi đâm ra khá nhàn rỗi, bỏ trống cả một quãng thời gian. Dù vậy, thời hạn hoàn thành ủy thác vẫn còn khá dư dả, nên tôi nghĩ chắc cũng chẳng có vấn đề gì to tát.
 
 Orc, đúng như tên gọi, là loài sinh vật có đầu lợn và thân hình gần giống con người. Có điều, chúng là quái vật nhiều hơn là người, và cũng được phân loại đúng như thế. Quanh Maalt, chúng chủ yếu sống trong các cánh rừng và những nơi tương tự, ngoài ra còn có ở Mê Cung Tân Nguyệt.
 
-Nói cách khác, ai nhận ủy thác săn Orc cũng chỉ có hai lựa chọn đơn giản: lùng sục trong rừng, hoặc vào săn trong các hành lang Mê Cung. Còn với tôi, lựa chọn lại hết sức hiển nhiên. Lý do thực ra rất đơn giản: Orc sống ở các cánh rừng quanh Maalt thường đi theo đàn, còn Orc đi lẻ ở đó lại khá hiếm gặp.
+Thành thử, ai nhận ủy thác săn Orc cũng chỉ có hai lựa chọn: lùng sục trong rừng, hoặc vào săn trong các hành lang mê cung. Với tôi thì câu trả lời đã quá rõ ràng. Lý do rất đơn giản: Orc sống trong các cánh rừng quanh Maalt thường đi theo đàn, hiếm khi nào bắt gặp con đi lẻ.
 
-Tính thêm những yếu tố đó cùng vấn đề hiển nhiên về tốc độ Tái Sinh Quái ở rừng, ai cũng có thể nhận ra độ khó giữa hai lựa chọn chênh lệch đến mức nào.
+Chỉ cần tính đến chuyện đó, cộng thêm việc tốc độ Tái Sinh Quái ngoài rừng vốn chẳng lấy gì làm cao, ai cũng thấy ngay độ khó giữa hai nơi chênh nhau đến mức nào.
 
-Dù thực ra, vấn đề lớn nhất nằm ở chỗ lũ Orc Rừng có xu hướng tác chiến theo bầy đàn. Nói đơn giản là người đi săn sẽ phải đối đầu với cả một đàn Orc hung hãn giữa chốn rừng cây. Với một mạo hiểm giả độc hành như tôi, cơ hội thắng rõ ràng chẳng mấy khả quan.
+Mà thực ra, ngại nhất vẫn là chuyện lũ Orc Rừng luôn phối hợp tác chiến theo bầy. Nói thẳng ra là người đi săn sẽ phải một mình chọi với cả đàn Orc hung hãn giữa rừng cây. Với một mạo hiểm giả đi lẻ như tôi, phần thắng rõ ràng chẳng mấy khả quan.
 
-Trái lại, lũ Orc sống trong Mê Cung, cụ thể là ở các tầng nông, nói thẳng thừng ra thì tương đối đần độn.
+Trái lại, lũ Orc sống trong mê cung, cụ thể là ở các tầng nông, nói thẳng thừng ra thì tương đối đần độn.
 
-Trước hết, lũ Orc Mê Cung này căn bản chẳng bao giờ nghĩ đến chuyện tụ tập lại để phục kích mạo hiểm giả. Đã vậy, trong khi Orc Rừng thường mang vũ khí và giáp trụ thô sơ, thì Orc Mê Cung ở khoản này lại tệ hơn nhiều, thường chỉ khoác mấy mảnh vải vụn và giẻ rách. Dĩ nhiên, khoản vũ khí của chúng cũng chẳng khá khẩm hơn là bao. Tóm lại, Orc Mê Cung ít đe dọa hơn hẳn, cả sức tấn công lẫn khả năng phòng thủ đều kém cạnh.
+Trước hết, lũ Orc Mê Cung này căn bản chẳng bao giờ biết tụ tập lại để phục kích mạo hiểm giả. Đã vậy, trong khi Orc Rừng thường có vũ khí và giáp trụ thô sơ, thì Orc Mê Cung lại nghèo nàn hơn nhiều, trên người thường chỉ quấn mấy mảnh giẻ rách tả tơi. Dĩ nhiên vũ khí của chúng cũng chẳng khá khẩm hơn là bao. Tóm lại, Orc Mê Cung đỡ nguy hiểm hơn hẳn vì cả công lẫn thủ đều kém xa.
 
-Thực bụng mà nói, lý lẽ này cũng đúng với cả Goblin. Có điều, Orc trông dữ tợn và đập vào mắt hơn nhiều, thế nên lao đầu vào một đám Orc trang bị tương đối đầy đủ rõ ràng là chuyện vô nghĩa. Lựa chọn của tôi coi như đã an bài ngay từ đầu, chẳng có lý do gì để không vào mê cung thám hiểm.
+Thực bụng mà nói, lý lẽ này cũng đúng với cả Goblin. Có điều Orc to xác và dữ tợn hơn nhiều, thế nên đâm đầu vào cả một bầy Orc trang bị tương đối đầy đủ rõ ràng là chuyện vô nghĩa. Lựa chọn của tôi coi như đã định sẵn ngay từ đầu, chẳng có lý do gì để không vào mê cung thám hiểm.
 
-Nghĩ vậy, tôi cất bước tới trước lối vào Mê Cung Tân Nguyệt. Quả thực đã qua bao mùa trăng kể từ lần cuối tôi đứng trước cánh cổng nơi này.
+Nghĩ vậy, tôi tìm đến lối vào Mê Cung Tân Nguyệt. Tính ra cũng đã khá lâu rồi kể từ lần cuối tôi đứng trước cánh cổng này.
 
 Trước lối vào lúc này đông nghịt người, nhộn nhịp như thường lệ. Khung cảnh trái ngược hoàn toàn với Mê Cung Nguyệt Ảnh, dù nghĩ lại thì mới hôm qua tôi còn đi săn ở bên đó.
 
@@ -38,15 +38,15 @@ Lý do cũng rất dễ hiểu: ngay cả mạo hiểm giả mới vào nghề c
 
 Mà chuyện đó cũng có nguyên do đơn giản thôi: trái ngược với Nguyệt Ảnh, quái vật ở Tân Nguyệt thường tụ lại thành các nhóm nhỏ tản mát, chực chờ phục kích mạo hiểm giả bất cứ khi nào có cơ hội. Đã vậy, hành lang của Tân Nguyệt lại rộng ít nhất gấp đôi Nguyệt Ảnh, nên chỉ cần một thoáng bất cẩn là mạo hiểm giả đi lẻ rất dễ bị quái vật bủa vây.
 
-Kéo theo đó, quái vật trú ngụ trong các hành lang Tân Nguyệt cũng mạnh hơn hẳn quái ở Nguyệt Ảnh. Vì thế, Tân Nguyệt được xem là Mê Cung nguy hiểm hơn, tức cấp độ cao hơn, chí ít thì mọi người đều nghĩ vậy. Có điều, thực hư ra sao thì vẫn còn phải chờ kiểm chứng.
+Hơn nữa, bản thân lũ quái vật trú ngụ trong các hành lang Tân Nguyệt cũng mạnh hơn hẳn quái vật ở Nguyệt Ảnh. Vì thế, Tân Nguyệt được xem là mê cung nguy hiểm hơn và có cấp độ cao hơn, chí ít thì ai nấy đều nghĩ vậy. Có điều, thực hư ra sao thì vẫn còn phải chờ xem đã.
 
-Len qua đám đông huyên náo trước lối vào, tôi bắt gặp nhiều nhóm mạo hiểm giả, chắc là các tổ đội cố định. Khắp nơi râm ran đủ thứ âm thanh hỗn tạp khi họ vừa bàn tán vừa khoa tay múa chân đầy hào hứng. Bỏ họ lại sau lưng, tôi rảo bước đi thẳng vào cửa Mê Cung.
+Len qua đám đông huyên náo trước lối vào, tôi bắt gặp nhiều nhóm mạo hiểm giả, chắc là các tổ đội cố định. Khắp nơi râm ran đủ thứ âm thanh hỗn tạp khi họ vừa bàn tán vừa khoa tay múa chân đầy hào hứng. Bỏ họ lại sau lưng, tôi rảo bước đi thẳng vào cửa mê cung.
 
-Dĩ nhiên, tôi chẳng hề nghĩ họ chỉ đang tụ tập đùa vui. Dù sao thì việc bàn bạc chiến thuật tổ đội cùng những điều cần lưu ý trong Mê Cung là chuyện sống còn. Các mạo hiểm giả kỳ cựu luôn duy trì thói quen này, và việc các tân binh ở Maalt làm theo cũng chẳng phải chuyện hiếm.
+Dĩ nhiên, tôi chẳng hề nghĩ họ chỉ đang tụ tập đùa vui. Dù sao thì việc bàn bạc chiến thuật tổ đội cùng những điều cần lưu ý trong mê cung là chuyện sống còn. Các mạo hiểm giả kỳ cựu luôn duy trì thói quen này, và việc các tân binh ở Maalt làm theo cũng chẳng phải chuyện hiếm.
 
 Những mạo hiểm giả mới vào nghề này chắc phải cảm ơn các bậc tiền bối, bởi chính những người đi trước đã khuyến khích và lan tỏa thói quen thảo luận này khắp Maalt cùng các vùng lân cận. Đã vậy, chỉ một buổi bàn bạc chiến thuật đơn giản cũng giúp nâng cao rõ rệt cơ hội sống sót của tổ đội, nên lính mới thường rất mải mê trao đổi và răm rắp làm theo lời khuyên của người đi trước. Rèn luyện đúng cách sẽ tạo nên thói quen tốt, chí ít thì tôi cảm thấy như vậy.
 
-Theo những gì tôi nghe ngóng được từ các thị trấn khác, tân binh ở đó hầu như chẳng mấy khi bàn bạc như thế này. So với họ, mạo hiểm giả ở Maalt có vẻ chăm chỉ hơn hẳn.
+Theo những gì tôi nghe kể về các thị trấn khác, tân binh ở đó hầu như chẳng mấy khi bàn bạc như thế này. So với họ, mạo hiểm giả ở Maalt có vẻ chăm chỉ hơn hẳn.
 
 Dù vậy, khi chầm chậm tiến về phía lối vào mê cung, tôi càng lúc càng cảm nhận rõ vô số ánh mắt đang đổ dồn vào mình. Tôi không trách họ, vốn dĩ họ cũng chẳng có ý soi mói làm gì. Sở dĩ như vậy là vì việc một mình dạo bước qua các hành lang Tân Nguyệt vốn đã rất hiếm thấy, nên ánh nhìn tò mò của họ cũng là điều dễ hiểu.
 
@@ -56,7 +56,7 @@ Nếu phải tự đánh giá năng lực chiến đấu của mình khi bị ba
 
 Thật khó nói trước. Dù đã hấp thụ kha khá sinh lực từ lũ quái vật từng hạ gục và có thêm chút sức mạnh, nhưng đến tận hôm nay tôi cũng mới chỉ chạm trán Khô Lâu, Goblin và Slime. Do đó, tôi không tài nào hình dung nổi mình sẽ thể hiện ra sao trước Orc cùng những quái vật mạnh hơn, chí ít là cho đến khi đích thân thử sức đánh bại chúng.
 
-Có điều, các quái vật quen thuộc như Khô Lâu vẫn xuất hiện ở các tầng nông của Tân Nguyệt. Muốn tìm những quái vật như Orc, tôi buộc phải đi sâu hơn xuống các tầng dưới của Mê Cung.
+Có điều, các quái vật quen thuộc như Khô Lâu vẫn xuất hiện ở các tầng nông của Tân Nguyệt. Muốn tìm những quái vật như Orc, tôi buộc phải đi sâu hơn xuống các tầng dưới của mê cung.
 
 Dù sao đi nữa, tôi thấy trước mắt cứ thử sức ở các tầng nông đã, rồi sau đó mới có thể đưa ra đánh giá chuẩn xác.
 
@@ -70,13 +70,13 @@ Xem ra ở cái chốn này, đi săn theo tổ đội đúng là hiệu quả h
 
 Có lẽ tôi nên nói thêm rằng mình đang bị một đám quái vật nhỏ bao vây và tấn công. Dù sao thì chẳng tự dưng mà tôi lại nghĩ như thế.
 
-Ít nhất thì chúng chẳng phải lũ quái vật mạnh mẽ gì cho cam. Nói đúng hơn, chúng giống như đám bạn cũ ghé thăm để họp mặt vui vẻ thành từng nhóm ba con, gồm mấy tốp Khô Lâu và Slime lẻ tẻ. Chúng chẳng hề mạnh hơn trước, nhưng tôi cũng đâu thể chém gục cả đám dễ như bỡn. Hoàn cảnh và địa hình quá đỗi khác biệt: hồi ở Nguyệt Ảnh, tôi rất dễ nhắm vào điểm yếu của chúng để dứt điểm trận đấu, còn giữa hành lang Tân Nguyệt thì lại bị bủa vây tứ phía, chẳng còn những khe hở thuận lợi để ra tay.
+Ít nhất thì chúng chẳng phải lũ quái vật mạnh mẽ gì cho cam. Nói đúng hơn, chúng toàn là mấy người bạn cũ gồm Khô Lâu và Slime, kéo nhau thành từng tốp dăm ba con tới mở tiệc hội ngộ với tôi. Chúng chẳng hề mạnh hơn trước, nhưng tôi cũng đâu thể chém gục cả đám dễ như bỡn. Hoàn cảnh và địa hình quá đỗi khác biệt: hồi ở Nguyệt Ảnh, tôi rất dễ nhắm vào điểm yếu của chúng để dứt điểm trận đấu, còn giữa hành lang Tân Nguyệt thì lại bị bủa vây tứ phía, chẳng còn những khe hở thuận lợi để ra tay.
 
 Tệ hơn nữa, từng con một cứ liên tiếp lao vào tấn công; mấy người bạn cũ này khiến tôi bận túi bụi chỉ riêng việc né đòn. Dù có vừa né vừa vung bừa một kiếm thì cũng khó lòng tung ra đòn nào ra hồn. Tôi chỉ còn nước thận trọng tiến từng bước, vừa giữ thế thủ vừa chực chờ cơ hội vung kiếm. Tình cảnh này thật mệt mỏi và bực bội hết chỗ nói.
 
-Dù hoàn toàn có thể càn quét sạch sẽ mấy nhóm quái này, nhưng tôi phải nhớ rằng mục tiêu thực sự là Orc, loài quái vật ngụ ở các tầng dưới của Tân Nguyệt. Nếu dốc cạn lượng Ma Lực và Khí Lực dự trữ ngay tại đây, lát nữa chạm trán Orc tôi sẽ chẳng còn đòn gì để đánh. Làm vậy thì đúng là tham cái nhỏ mà hỏng việc lớn. Vì thế, tôi chủ động chọn không phung phí năng lượng dự trữ; sự cần thiết của điều đó đối với tôi là quá rõ ràng.
+Dù hoàn toàn có thể càn quét sạch sẽ mấy nhóm quái này, nhưng tôi phải nhớ rằng mục tiêu thực sự là Orc, loài quái vật ngụ ở các tầng dưới của Tân Nguyệt. Nếu dốc cạn lượng Ma Lực và Khí Lực dự trữ ngay tại đây, lát nữa chạm trán Orc tôi sẽ chẳng còn đòn gì để đánh. Làm vậy thì đúng là tham cái nhỏ mà hỏng việc lớn. Vì thế, tôi chủ động giữ sức, không phung phí năng lượng vô ích; chuyện đó cần thiết thế nào thì đã quá rõ rồi.
 
-Tôi tiếp tục men theo những hành lang quanh co, chỉ dựa vào việc cường hóa nhẹ cơ thể để không làm hao tổn năng lượng dự trữ. Khác hẳn với chiến thuật "nhất kích tất sát" quen thuộc của tôi. Ngay cả mức tối thiểu của ma pháp cường hóa cơ thể xem ra cũng đủ đáp ứng nhu cầu rồi. Cuối cùng, số lượng kẻ địch cũng bắt đầu thưa dần. Cứ giữ vững nhịp độ này mà không hề hấn gì thì coi như tôi đã nắm chắc một nửa phần thắng.
+Tôi tiếp tục men theo những hành lang quanh co, chỉ cường hóa cơ thể ở mức nhẹ để đỡ tốn năng lượng dự trữ. Cách đánh này khác hẳn kiểu "một đòn dứt điểm" quen thuộc của tôi, nhưng xem ra chỉ cần cường hóa cơ thể ở mức tối thiểu thế này cũng đủ dùng rồi. Cuối cùng, đám quái vật cũng bắt đầu thưa dần. Cứ giữ vững nhịp độ này mà đi tiếp không sứt mẻ gì thì coi như đã nắm chắc một nửa phần thắng.
 
 Oái.
 
@@ -88,9 +88,9 @@ Nghĩ vậy, tôi thu thập Ma Tinh của lũ Slime và Khô Lâu vừa bị m�
 
 Dẫu trông chỉ như một chiếc túi nhỏ chẳng đựng được là bao, nhưng thực chất chiếc túi đeo hông này đã được phù phép, nói nôm na là bên trong rộng hơn bên ngoài. Tôi đã dùng chính chiếc túi này từ hồi còn sống; vì là một loại ma cụ nên giá của nó không hề rẻ. Dù vậy, với một món đồ như thế thì mức giá đó cũng hợp lý, và tôi đã phải dành dụm suốt năm năm trời mới mua nổi.
 
-Dù vậy, nói thật thì sức chứa của nó cũng chẳng phải quá lớn. Dung tích túi chỉ bằng khoảng năm đến sáu chiếc ba lô cỡ vừa, một khoảng không quá đủ cho việc thu gom Ma Tinh và mấy thứ tương tự.
+Dù vậy, nói thật thì sức chứa của nó cũng chẳng phải quá lớn. Dung tích của nó chỉ cỡ năm sáu chiếc ba lô bình thường cộng lại, nhưng chừng ấy là quá đủ để đựng Ma Tinh và mấy thứ lặt vặt rồi.
 
-Dĩ nhiên ngoài kia vẫn có những loại đắt đỏ hơn với sức chứa lớn hơn nhiều, thậm chí người ta còn đồn có cái nhét vừa cả một con Rồng. Nhưng nếu ai đó thực sự có một báu vật như vậy thì đời nào họ lại đem bán. Dù sao thì những món đồ đó lúc này vẫn vượt quá khả năng của tôi, biết đâu sau này tôi mới có ngày sở hữu được. Hiện tại, tôi cứ tạm bằng lòng để mơ ước chỉ là mơ ước. Dẫu thế, tôi vẫn sẽ tiếp tục bước tiếp trên con đường hiện thực hóa giấc mơ trở thành một mạo hiểm giả Mithril Cấp.
+Dĩ nhiên ngoài kia vẫn có những loại đắt đỏ hơn với sức chứa lớn hơn nhiều, thậm chí người ta còn đồn có cái nhét vừa cả một con Rồng. Nhưng nếu ai đó thực sự có một báu vật như vậy thì đời nào họ lại đem bán. Dù sao thì những món đồ đó lúc này vẫn vượt quá khả năng của tôi, biết đâu sau này tôi mới có ngày sở hữu được. Hiện tại, tôi cứ tạm bằng lòng để mơ ước chỉ là mơ ước. Dẫu thế, tôi vẫn sẽ vững bước trên con đường biến giấc mơ trở thành mạo hiểm giả Mithril Cấp thành hiện thực.
 
 Thu nhặt xong toàn bộ Ma Tinh từ những kẻ địch ngã xuống, tôi lại cất bước tiến sâu hơn vào lòng mê cung.
 
@@ -100,13 +100,13 @@ Một niềm háo hức dâng trào trong lòng khi tôi bước xuống những
 
 Thật... không thể tin nổi. Mình đang ở trong một công trình kiến trúc thật đấy ư? Trong một mê cung sao?
 
-Cảnh tượng đập vào mắt choáng ngợp đến mức khiến tôi nhất thời không thốt nên lời. Những tia nắng ấm áp rọi qua không trung, trải xuống bình nguyên trập trùng phủ đầy cỏ biếc. Phía xa xa, tôi có thể lờ mờ nhận ra bóng dáng của một cánh rừng.
+Cảnh tượng đập vào mắt choáng ngợp đến mức khiến tôi nhất thời không thốt nên lời. Những tia nắng ấm áp rọi qua không trung, trải xuống bình nguyên trập trùng phủ đầy cỏ mềm. Phía xa xa, tôi có thể lờ mờ nhận ra bóng dáng của một cánh rừng.
 
 Dù ngày trước từng được các mạo hiểm giả kỳ cựu dẫn tới tầng này, tôi vẫn không khỏi choáng ngợp khi ngắm nhìn khung cảnh xanh ngát trải ra trước mắt. Không ngờ bên trong một mê cung lại có thể chứa đựng một không gian như thế này... Nói đúng hơn thì khu vực này chẳng khác nào những đồng cỏ và cánh rừng trên mặt đất.
 
 Chẳng ai biết ai hay thứ gì đã tạo nên những mê cung này, và cho đến tận hôm nay, vô vàn câu hỏi vẫn còn bỏ ngỏ. Dẫu vậy, không ai có thể phủ nhận nét kỳ dị cùng vẻ tráng lệ của cảnh tượng hiển hiện trước mắt.
 
-Có lẽ sự tồn tại của không gian này cũng chẳng quá đỗi kỳ lạ, xét việc chiếc túi đeo hông của tôi cũng phá vỡ mọi quy luật vật lý nhờ ma pháp. Dù là ma thuật hay ma pháp, người ta hoàn toàn có thể yểm phép để một không gian biến đổi theo những cách thức kỳ lạ. Ngay cả một không gian như thế này cũng có thể dệt nên từ ma pháp, giả định rằng người thi triển có đủ bản lĩnh tạo ra một kỳ tích như vậy.
+Nghĩ đi nghĩ lại thì một không gian như thế này tồn tại cũng chẳng có gì quá lạ, bởi ngay cả chiếc túi đeo hông của tôi cũng nhờ ma pháp mà phá vỡ các quy luật vật lý đấy thôi. Dù dùng ma pháp hay ma thuật, người ta hoàn toàn có thể yểm phép khiến không gian biến đổi theo những cách hết sức kỳ dị. Ngay cả một nơi rộng lớn thế này cũng có thể được tạo dựng bằng ma pháp, miễn là người thi triển đủ bản lĩnh để làm nên kỳ tích đó.
 
 Có điều, đây lại là chuyện gần như bất khả thi đối với người thời nay.
 
@@ -116,15 +116,15 @@ Dẫu vậy, những vùng đất ma thuật như nơi này vẫn thực sự t�
 
 Quả thực là một hiện tượng đầy bí ẩn...
 
-Có lẽ xưa kia từng có một vị thần kiến tạo nên những không gian ma thuật như thế trong mê cung; hoặc chí ít là những con người tôn sùng một đấng tối cao đủ sức tạo ra các kỳ tích màu nhiệm nhường ấy. Có người từng bảo mê cung là vùng cấm địa mà tri thức nhân loại không bao giờ thấu triệt. Thậm chí có kẻ còn cho rằng chỉ cần bước chân vào mê cung thôi đã là hành vi xâm phạm không thể tha thứ.
+Có lẽ xưa kia từng có một vị thần kiến tạo nên những không gian ma thuật như thế trong mê cung; hoặc chí ít là một thực thể được con người tôn sùng, đủ sức làm nên những kỳ tích màu nhiệm như thế. Có người từng bảo mê cung là vùng cấm địa mà tri thức nhân loại không bao giờ thấu triệt. Thậm chí có kẻ còn cho rằng chỉ cần bước chân vào mê cung thôi đã là hành vi xâm phạm không thể tha thứ.
 
-Dù vậy, mê cung không thể chối cãi đã trở thành một phần cốt lõi của nhân loại, gắn liền với văn hóa và đời sống con người. Lý do là bởi các nguyên liệu thu hoạch từ mê cung cùng lũ quái vật sinh sống trong đó đều được dùng để chế tạo những ma cụ tinh xảo. Trong vài trường hợp hiếm hoi, các mạo hiểm giả thậm chí còn tìm thấy những kho báu cổ đại.
+Tuy thế, không thể chối cãi rằng mê cung đã trở thành một phần cốt lõi, gắn liền với văn hóa và đời sống nhân loại. Bởi lẽ các nguyên liệu thu hoạch từ mê cung cùng lũ quái vật sống trong đó đều được dùng để chế tạo những ma cụ tinh xảo. Hiếm hoi lắm còn có mạo hiểm giả tìm thấy cả kho báu cổ đại.
 
-Thêm vào đó, chỉ cần để yên mê cung trong một thời gian ngắn, lũ quái vật sẽ lại xuất hiện lần nữa, mang lại nguồn nguyên liệu hữu ích sẵn sàng cho việc thu hoạch. Gần như có thể khẳng định rằng mê cung là một nguồn tài nguyên tái sinh vô tận. Vài người thậm chí còn đi xa hơn khi tuyên bố rằng các mê cung có khả năng tự tái tạo vĩnh cửu.
+Hơn nữa, chỉ cần để yên mê cung trong một thời gian ngắn là lũ quái vật sẽ lại xuất hiện, mang theo nguồn nguyên liệu hữu ích sẵn sàng cho người ta thu hoạch. Gần như có thể coi mê cung là một nguồn tài nguyên tái sinh vô tận. Vài người còn đi xa hơn khi khẳng định các mê cung có khả năng tự tái tạo vĩnh cửu.
 
-Thế nhưng trên thực tế, phe ủng hộ mê cung vẫn thường tranh cãi với những ai cho rằng các công trình cổ xưa này đe dọa đến sự tồn vong của nhân loại. Cả hai luồng quan điểm đều có lý lẽ riêng, và hiển nhiên không thể phủ nhận số mạo hiểm giả đã bỏ mạng khi thám hiểm mê cung vì danh vọng cùng tiền tài, chưa kể đến kho báu. Mặt khác, nếu một mê cung mới bất ngờ xuất hiện mà bị bỏ mặc không ai ngó ngàng tới, quái vật rốt cuộc sẽ tràn ra từ tầng sâu, tàn phá nghiêm trọng các khu định cư của con người.
+Thực tế thì những người ủng hộ việc khai thác mê cung vẫn thường tranh cãi với những ai cho rằng các công trình cổ xưa này đe dọa sự tồn vong của nhân loại. Bên nào cũng có lý lẽ riêng. Hiển nhiên không thể phủ nhận đã có biết bao mạo hiểm giả bỏ mạng trong mê cung vì danh tiếng và vinh quang, chưa kể đến kho báu. Nhưng ngược lại, nếu một mê cung mới bất ngờ xuất hiện mà bị bỏ mặc không ai ngó ngàng tới, quái vật sớm muộn gì cũng tràn ra từ các tầng sâu, tàn phá nặng nề nơi con người sinh sống.
 
-Dẫu vậy, kể cả khi cân nhắc tất cả những điểm đó, mê cung vẫn là một phần quan trọng trong đời sống của con người. Nếu một ngày nào đó các mê cung hoàn toàn biến mất, nhiều khía cạnh của thương mại và sản xuất sẽ đột ngột đình trệ; tình cảnh của nhân loại lúc này quả thực là như vậy.
+Xét hết mọi khía cạnh đó thì mê cung vẫn là một phần không thể thiếu trong đời sống con người. Nếu một ngày nào đó các mê cung hoàn toàn biến mất, nhiều mặt của hoạt động thương mại và sản xuất sẽ lập tức đình trệ; nhân loại hiện giờ đang ở vào đúng tình cảnh ấy.
 
 Mọi thứ đều đến từ mê cung: vật liệu chế tạo vũ khí, giáp trụ, thuốc men, và thậm chí cả nhu cầu cơ bản nhất là thực phẩm.
 
