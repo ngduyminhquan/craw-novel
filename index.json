@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T10:28:36Z",
+  "generatedAt": "2026-11-04T10:34:01Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2296,7 +2296,7 @@
           "number": 24,
           "title": "Chương 24: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_024.md",
-          "sha": "14f14f2ec2e21bf48094eebe4393d6a6bdfbff3f"
+          "sha": "d78ac1d613bb7d66111fe177a53af62c5c77eab2"
         },
         {
           "number": 25,

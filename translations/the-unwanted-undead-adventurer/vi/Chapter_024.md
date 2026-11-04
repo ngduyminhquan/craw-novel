@@ -2,184 +2,184 @@
 
 "...Này này... Cái của nợ gì thế này?"
 
-Clope, người thợ rèn đáng tin cậy của tôi, chẳng thèm che giấu vẻ khó chịu trên mặt. Gương mặt anh lúc này nhăn nhó lại thành một cái cau mày đầy bực bội.
+Clope, anh thợ rèn quen của tôi, chẳng thèm giấu vẻ khó chịu trên mặt. Vẻ mặt anh nhăn nhó, cau có bực dọc thấy rõ.
 
-"...Là... thanh kiếm. Anh cho tôi mượn." Tôi đưa ra câu trả lời thẳng thắn cho Clope.
+"...Là... thanh kiếm. Anh cho tôi mượn." Tôi đáp lại Clope một câu tỉnh bơ.
 
-Câu trả lời của Clope cũng đơn giản không kém, dẫu có kèm theo một tiếng thở dài thườn thượt. "Nhìn là tôi biết rồi... Cậu thừa biết tôi đâu có hỏi cái đó, đúng không?"
+Clope cũng đáp lại gọn lỏn, dẫu kèm theo một tiếng thở dài thườn thượt. "Nhìn là tôi biết rồi... Cậu thừa biết tôi đâu có hỏi cái đó, đúng không?"
 
-Tôi đồ rằng tiếp tục giấu giếm sự thật với Clope cũng chẳng ích gì, bởi vậy tôi quyết định thành thật kể cho anh nghe những gì đã xảy ra.
+Nghĩ bụng có tiếp tục giấu Clope cũng chẳng để làm gì, tôi quyết định kể thật cho anh nghe những gì đã xảy ra.
 
-"Xin lỗi anh... Tôi... đã truyền... Thần Lực... vào lưỡi kiếm..."
+"Xin lỗi anh... tôi... đã truyền... Thần Lực... vào lưỡi kiếm..."
 
-"Hử? Sao tự dưng cậu lại đi làm cái trò—chà, tôi đoán chuyện đó thì tôi chấp nhận được. Nhưng cậu chỉ mới tới Mê Cung Nguyệt Ảnh thôi đúng không? Ở đó làm gì có quái vật nào đến mức phải dùng một thanh kiếm mang Thần Lực mới đánh bại được chứ!"
+"Hử? Sao tự dưng cậu lại làm cái trò—à mà thôi, cái đó tôi tạm bỏ qua. Nhưng cậu mới chỉ xuống Mê Cung Nguyệt Ảnh thôi đúng không? Ở đấy làm gì có quái vật nào đến mức phải dùng kiếm yểm Thần Lực mới hạ được chứ!"
 
-Clope đưa ra nhận định ấy rất có thể là vì anh biết tôi dùng được cả Khí Lực lẫn ma pháp. Nói cách khác, Clope thừa hiểu rằng hầu hết—nếu không muốn nói là tất cả—quái vật trong Mê Cung Nguyệt Ảnh đều có thể bị đánh bại bằng một trong hai năng lực đó.
+Clope nói vậy hẳn là vì biết tôi dùng được cả Khí Lực lẫn ma pháp. Anh thừa hiểu hầu như mọi quái vật trong Mê Cung Nguyệt Ảnh—nếu không nói là toàn bộ—đều có thể bị hạ gục bằng một trong hai thứ đó.
 
-Dĩ nhiên, quan sát của Clope chẳng hề sai chút nào. Tuy nhiên, thực tế lại hơi khác một chút.
+Dĩ nhiên Clope nghĩ thế không sai. Có điều, thực tế lại hơi khác một chút.
 
 "...Tôi đụng phải một con... Khô Lâu... Khổng Lồ. Đó là lý do... tôi làm vậy. Tôi... chẳng còn lựa chọn nào khác."
 
-Clope trợn tròn mắt trước lời tôi nói. "Cậu đang trêu tôi đấy à? Khô Lâu Khổng Lồ làm sao mà xuất hiện ở Mê Cung Nguyệt Ảnh được, phải không? Nhưng... cậu thì đâu có nói dối tôi làm gì. Cậu đào đâu ra một con như thế ở chỗ đó chứ...?"
+Clope trợn tròn mắt nhìn tôi. "Cậu đùa tôi đấy à? Khô Lâu Khổng Lồ làm sao xuất hiện ở Mê Cung Nguyệt Ảnh được? Nhưng mà... cậu đâu có lý do gì để lừa tôi. Cậu đào đâu ra một con như thế ở chỗ đó chứ...?"
 
-"...Tôi tìm thấy... một khu vực... chưa từng được khai phá... của Mê Cung..."
+"Tôi tìm thấy... một khu vực... chưa từng có trên bản đồ... của Mê Cung..."
 
 "Cái gì cơ?! Cậu— Này. Cậu... nói thật đấy à?"
 
-Dẫu lộ rõ vẻ kinh ngạc, Clope vẫn chủ động hạ thấp giọng xuống. Có vẻ như anh hiểu được sức nặng của thông tin mà mình vừa được nghe.
+Dù lộ rõ vẻ kinh ngạc, Clope vẫn cẩn thận hạ giọng. Có vẻ anh hiểu được sức nặng của thông tin mình vừa biết.
 
-"...Cậu thực sự... nhìn thấy một nơi như thế à?"
+"...Cậu thực sự... thấy một nơi như thế à?"
 
 Tôi lặng lẽ gật đầu.
 
-"...Chà. Hèn chi trông cậu đến đây ăn mặc kỳ quái đến thế... Ra là đã xảy ra chuyện như vậy. Thôi thì tôi cũng tin cậu. Điều đó giải thích vì sao thanh kiếm lại tơi tả đến nông nỗi này... Được rồi, không sao—tôi hiểu rồi. Cậu đã thám hiểm xong chỗ đó chưa?"
+"...Chà. Hèn chi cậu lại đến đây trong bộ dạng kỳ quặc thế kia... Ra là gặp phải chuyện như vậy. Thôi thì tôi tin. Thế mới giải thích được vì sao thanh kiếm lại tơi tả đến nông nỗi này... Được rồi, không sao—tôi hiểu rồi. Thế cậu đã khám phá xong chỗ đó chưa?"
 
-Quyết định không đáp lại phần lớn những lời Clope vừa nói, tôi chỉ trả lời câu hỏi anh vừa đặt ra cho mình.
+Tôi bỏ qua phần lớn những lời Clope vừa lẩm bẩm, chỉ đáp lại câu hỏi anh đặt ra.
 
-"Chưa... Vẫn chưa. Đó là lý do... tôi hy vọng. Thanh kiếm của tôi... sẽ sớm xong."
+"Chưa... vẫn chưa. Thế nên... tôi mới hy vọng. Rằng thanh kiếm của mình... sẽ sớm xong."
 
-"Ừ... Tôi hiểu. Nhưng nghe này: chẳng đời nào tôi làm xong thanh kiếm của cậu nhanh đến thế được đâu. Hàng đặt rèn riêng đấy, cậu biết mà. Thay vào đó, tôi sẽ đưa cho cậu một thanh kiếm khác mượn tạm—lần này là một thanh tốt hơn một chút."
+"Ừ... tôi hiểu. Nhưng nghe này: làm sao tôi rèn xong thanh kiếm của cậu nhanh thế được. Hàng đặt làm riêng đấy, cậu biết rồi đấy thôi. Thay vào đó, tôi sẽ cho cậu mượn tạm một thanh khác—lần này là cây tốt hơn một chút."
 
-Tôi đến đây với hy vọng bằng cách nào đó Clope đã rèn xong món đồ mình đặt, nhưng tôi đồ rằng anh vẫn cần thêm chút thời gian.
+Tôi ghé qua vốn ôm chút hy vọng Clope biết đâu đã rèn xong thanh kiếm, nhưng xem chừng anh vẫn cần thêm thời gian.
 
-Gật đầu, tôi cảm kích đón lấy thanh kiếm mà Luka, vợ của Clope, đã chọn và trao cho tôi. Thanh kiếm này rõ ràng có thể chịu được lượng Khí Lực và ma pháp khá tốt, hệt như người tiền nhiệm xấu số của nó. Cảm thấy hài lòng, tôi bước ra khỏi cửa tiệm.
+Tôi gật đầu, nhận lấy thanh kiếm Luka—vợ Clope—chọn và đưa cho với vẻ biết ơn. Cây kiếm này xem chừng cũng dẫn truyền Khí Lực và ma pháp khá tốt, chẳng kém gì thanh kiếm đoản mệnh trước đó. Hài lòng, tôi rời khỏi cửa tiệm.
 
 ◆◇◆◇◆
 
 Cộp!
 
-Vừa rời khỏi cửa tiệm, tôi cảm thấy một cú va chạm cùn nện thẳng vào đầu. Nói chính xác hơn thì lực va đập đã được chiếc mặt nạ của tôi hấp thụ trọn vẹn; dẫu vậy, có vẻ như tôi đã va phải thứ gì đó.
+Vừa bước chân ra khỏi cửa tiệm, đầu tôi đã va phải một cú nện điếng người. Nói đúng hơn thì chiếc mặt nạ đã hứng trọn lực va chạm; dẫu sao, xem chừng tôi vừa tông phải thứ gì đó.
 
-Nhưng dĩ nhiên, chừng ấy va chạm chẳng đủ để làm lung lay hay sứt mẻ chiếc mặt nạ của tôi. Nó bền chắc đến mức phiền toái, chưa kể vốn dĩ ngay từ đầu đã không thể tháo ra được. Đưa mắt quan sát kỹ khoảng không trước mặt, tôi nhận ra mình vừa va phải một người đàn ông. Cụ thể hơn, đó là một người khoác trên mình bộ chiến giáp màu trắng bạc; bất kỳ ai nhìn vào cũng sẽ gần như theo bản năng mà cho rằng anh ta là một kỵ sĩ nào đó.
+Dĩ nhiên, chút va quệt ấy chẳng đời nào làm bung hay sứt mẻ nổi chiếc mặt nạ. Nó cứng chắc đến mức phiền toái, huống hồ vốn dĩ ngay từ đầu đã chẳng thể tháo ra. Nhìn kỹ lại phía trước, tôi nhận ra mình vừa va phải một người đàn ông. Cụ thể là một người khoác bộ chiến giáp trắng bạc; ai nhìn vào hẳn cũng đoán ngay anh ta là kỵ sĩ.
 
-Dù chẳng có thù hằn gì với vị kỵ sĩ này, nhưng vẻ ngoài của anh ta toát lên sự giáo dưỡng có phần cứng nhắc, nếu không muốn nói là vô cùng nghiêm cẩn. Trái lại, trông anh ta còn toát ra vẻ uy nghiêm theo cách riêng của mình, vậy nên tôi quyết định rời khỏi đây càng sớm càng tốt. Do đó, tôi cúi gằm mặt xuống, không nói một lời nào mà tiếp tục rảo bước.
+Dù chẳng có xích mích gì với vị kỵ sĩ nọ, nhưng vẻ ngoài của anh ta toát lên phong thái gia giáo có phần cứng nhắc, nếu không nói là mực thước nghiêm cẩn. Đã vậy trông anh ta còn toát ra vẻ áp vía theo cách riêng, nên tôi quyết định rời khỏi đây càng sớm càng tốt. Tôi cúi gằm mặt, chẳng nói chẳng rằng định cứ thế bước tiếp.
 
 "À, thành thật xin lỗi. Ngài có bị thương không?"
 
-Vị kỵ sĩ đã cất lời hỏi, tôi chẳng còn cách nào khác ngoài việc đáp lại.
+Người ta đã mở lời hỏi han, tôi chẳng còn cách nào khác đành phải đáp lại.
 
 "...À, không. Tôi không sao. Còn... ngài thì sao?"
 
-"Ồ, xin đừng bận tâm, tôi hoàn toàn không sao. Ngoài ra... nhìn phong thái của ngài, chẳng hay ngài có phải là một mạo hiểm giả không?"
+"Ồ, xin đừng bận tâm, tôi hoàn toàn không sao. À mà... nhìn trang phục của ngài, chẳng hay ngài có phải là mạo hiểm giả không?"
 
-Tôi lại một lần nữa chẳng còn lựa chọn nào khác ngoài việc trả lời vị kỵ sĩ trước cú chuyển chủ đề đột ngột của anh ta. Tôi vừa gật đầu vừa đưa ra câu trả lời.
+Thấy anh ta đột ngột chuyển đề tài, tôi đành phải tiếp lời. Tôi vừa gật đầu vừa đáp lại.
 
-Khi nghe tôi xác nhận mình là một mạo hiểm giả, vị kỵ sĩ nhìn tôi với nét mặt nghiêm túc.
+Nghe tôi nhận mình là mạo hiểm giả, vị kỵ sĩ nhìn tôi bằng vẻ mặt nghiêm túc.
 
-"Vậy thì... tôi mạn phép muốn hỏi—tôi đang tìm một mạo hiểm giả ở thị trấn này: một cô gái trẻ, tóc vàng và đôi mắt xanh lam như ngọc bích... Cô ấy lấy tên là Rina. Liệu ngài có từng nghe nói về cô ấy không?"
+"Vậy thì... tôi mạn phép hỏi thăm một chút. Tôi đang tìm một mạo hiểm giả ở thị trấn này: một cô gái trẻ tóc vàng, mắt xanh như ngọc sapphire... Con bé xưng tên là Rina. Không biết ngài đã từng nghe nói về cô ấy chưa?"
 
 ◆◇◆◇◆
 
-Tất nhiên là tôi nhớ cái tên đó. Rina chẳng phải ai khác ngoài nữ mạo hiểm giả đã giúp đỡ tôi lúc tôi còn kẹt lại ở Mê Cung Nguyệt Ảnh.
+Tất nhiên là tôi nhớ cái tên đó. Rina chính là nữ mạo hiểm giả đã giúp tôi lúc còn kẹt dưới Mê Cung Nguyệt Ảnh.
 
-Tôi không khỏi băn khoăn tự hỏi Rina dạo này ra sao rồi. Kể từ lúc đó, tôi luôn hết sức cẩn thận để không gây chú ý khi đi lại trên các con phố ở Maalt, và cho đến tận lúc này tôi vẫn chưa chạm mặt lại Rina lần nào. Bởi vậy, tôi cũng chẳng có chút thông tin nào về tung tích hiện tại của cô bé. Rốt cuộc cô ấy đã tìm được những mạo hiểm giả khác để lập tổ đội cùng chưa? Hay cô ấy vẫn đang đơn thương độc mã ở một xó xỉnh nào đó? Với trình độ của cô ấy, Hội chắc chắn sẽ chẳng gặp khó khăn gì trong việc giới thiệu cô ấy vào tổ đội này hay tổ đội khác... Chí ít thì tôi đã nghĩ như vậy.
+Tôi không khỏi băn khoăn chẳng biết dạo này Rina ra sao rồi. Kể từ dạo đó, tôi luôn cẩn thận tránh gây chú ý khi đi lại trên các con phố ở Maalt, nên đến giờ vẫn chưa chạm mặt cô lần nào. Thành ra tôi cũng mù tịt về tung tích hiện tại của cô. Rốt cuộc cô đã tìm được mạo hiểm giả khác để lập đội cùng chưa? Hay vẫn đơn thương độc mã ở xó xỉnh nào đó? Với thực lực của cô, Hội chắc chắn sẽ chẳng khó khăn gì trong việc giới thiệu cô vào tổ đội nào đó... Chí ít thì tôi nghĩ vậy.
 
-Tạm gác chuyện đó sang một bên... Còn có vấn đề về người đàn ông mặc giáp mang phong thái kỵ sĩ trước mặt tôi đây. Mái tóc vàng, đôi mắt xanh biếc cùng vẻ ngoài tươm tất đĩnh đạc của anh ta kết hợp lại tạo nên hình mẫu lý tưởng của một kỵ sĩ bước ra từ truyện cổ tích.
+Tạm gác chuyện đó sang một bên... Vấn đề trước mắt là người đàn ông mặc giáp mang dáng dấp kỵ sĩ này. Mái tóc vàng, đôi mắt xanh biếc cùng diện mạo sáng sủa của anh ta hòa quyện tạo nên hình mẫu hoàn hảo của một kỵ sĩ bước ra từ truyện cổ tích.
 
 ![](images/ch024-01.webp)
 
-"...Chà... Trước hết. Ngài là ai...?"
+"...Chà... trước hết. Ngài là ai...?"
 
-Tôi phải xác định danh tính và mục đích của người này trước khi cung cấp cho anh ta bất kỳ thông tin nào, và điều đầu tiên tôi cần là một cái tên. Vị kỵ sĩ có vẻ ngạc nhiên trong thoáng chốc, rồi nhanh chóng lịch sự xưng danh.
+Tôi cần biết người này là ai trước khi cung cấp bất kỳ thông tin nào, và điều đầu tiên tôi cần là một cái tên. Vị kỵ sĩ thoáng chút ngạc nhiên, rồi nhanh chóng lịch sự xưng danh.
 
-"Ồ, tất nhiên rồi. Thứ lỗi cho sự thất lễ của tôi. Tôi tên là Idoles Rogue, một kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran."
+"Ồ, tất nhiên rồi. Xin thứ lỗi, tôi thất lễ quá. Tên tôi là Idoles Rogue, kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran."
 
-Đệ Nhất Kỵ Sĩ Đoàn được đồn đại là chỉ bao gồm những kỵ sĩ mạnh nhất và tinh nhuệ nhất vương quốc. Việc anh ta đến từ một Kỵ sĩ đoàn như vậy đã nói lên rất nhiều điều: thành viên của Đệ Nhất Đoàn hoặc xuất thân từ các danh gia vọng tộc quyền thế, hoặc là những kiếm sĩ thiên tài kiệt xuất. Dù thế nào đi nữa, thành viên của Đệ Nhất Đoàn đều là những nhân vật quan trọng theo cách này hay cách khác, bởi người bình thường sẽ chẳng bao giờ được phép gia nhập hàng ngũ của họ.
+Đệ Nhất Kỵ Sĩ Đoàn nghe đồn chỉ quy tụ những kỵ sĩ mạnh nhất và tinh nhuệ nhất vương quốc. Một kỵ sĩ xuất thân từ nơi ấy nói lên rất nhiều điều: thành viên của Đệ Nhất Đoàn không xuất thân từ các gia tộc quyền thế thì cũng là những kiếm sĩ tài ba xuất chúng. Dù theo cách nào, họ đều là những nhân vật tầm cỡ, bởi người bình thường chẳng đời nào có cửa bước chân vào hàng ngũ ấy.
 
-Ấy thế mà, một người như vậy lại đang đi tìm Rina? Tại sao lại có chuyện đó?
+Ấy thế mà một nhân vật như vậy lại đi tìm Rina? Rốt cuộc là vì cớ gì?
 
-Tóm lại, tôi liền gặng hỏi về ý định của anh ta.
+Thế là tôi gặng hỏi mục đích của anh ta.
 
-"Tại sao một người... cao quý như ngài... lại đi tìm một cô gái trẻ...?"
+"Tại sao một người... vai vế như ngài... lại đi tìm một cô gái trẻ...?"
 
-Người đàn ông trả lời câu hỏi của tôi một cách nhanh chóng và thành thật—anh ta dường như chẳng hề giấu giếm điều gì đằng sau lời nói của mình.
+Người đàn ông đáp lại rất nhanh và thẳng thắn, dường như chẳng hề giấu giếm điều gì.
 
-"Chà... Quả thực vô cùng đáng xấu hổ, bởi Rina, cô gái trẻ mà tôi nhắc tới, chính là em gái tôi. Tôi xin phép bỏ qua những chi tiết nhỏ nhặt và ngượng ngùng, nhưng tóm lại là một ngày nọ con bé bỗng dưng bỏ trốn và biến mất, dường như vì lý do nào đó mà khao khát trở thành một mạo hiểm giả. Tôi đến Maalt sau khi nhận được báo cáo từ người chứng kiến về một ai đó có nét giống con bé—bởi vậy tôi mới mạn phép hỏi ngài."
+"Chà... Chuyện này quả thực đáng xấu hổ, bởi Rina—cô gái tôi vừa nhắc tới—chính là em gái tôi. Tôi xin phép không kể những chi tiết vụn vặt đáng ngượng, nhưng tóm lại là một ngày nọ con bé bỗng bỏ nhà đi mất, hình như vì lý do nào đó mà nằng nặc muốn làm mạo hiểm giả. Tôi đến Maalt sau khi nghe người ta bảo trông thấy một người khá giống con bé, nên mới mạn phép hỏi ngài."
 
-"Vậy thì... cô bé Rina này có tự xưng là... 'Rina Rogue' không...?"
+"Vậy thì... cô Rina đó có xưng là... 'Rina Rogue' không...?"
 
-"Tôi đồ rằng là có. Chẳng hay ngài có biết ai mang cái tên đó không? Tôi đã đi hỏi thăm vài nơi trước khi đến đây, nhưng Hội viện dẫn luật về quyền bảo mật thông tin và từ chối tiết lộ bất cứ điều gì. Việc một kỵ sĩ đi hỏi han quanh các quán rượu quả thực sẽ là một cảnh tượng vô cùng kỳ quặc, thành thử ra..."
+"Chắc hẳn là vậy rồi. Chẳng hay ngài có biết ai mang cái tên đó không? Tôi đã đi hỏi thăm vài nơi trước khi đến đây, nhưng Hội viện dẫn luật bảo mật thông tin nên chẳng chịu hé răng nửa lời. Kỵ sĩ mà lại la cà quán rượu để dò la thì quả thực kỳ quặc quá, thành thử ra..."
 
-Có vẻ như để tìm kiếm Rina, vị kỵ sĩ này đã ghé thăm các tiệm rèn cùng những địa điểm mà giới mạo hiểm giả hay lui tới—rồi rốt cuộc hỏi thăm cả những khách hàng tại các cơ sở đó. Ngay cả Hội Mạo Hiểm Giả cũng sẽ chẳng thể khước từ yêu cầu từ chính vương quốc. Tuy nhiên, người đàn ông này dường như đã không đem quyền hạn ấy ra để ép buộc, mà chỉ đơn giản gật đầu rồi rời đi sau khi bị từ chối cung cấp thông tin liên quan.
+Xem ra để tìm Rina, vị kỵ sĩ nọ đã lùng sục khắp các tiệm rèn cùng những nơi mạo hiểm giả hay lui tới, thậm chí gặng hỏi cả khách khứa ở đó. Vốn dĩ ngay cả Hội Mạo Hiểm Giả cũng chẳng thể từ chối yêu cầu từ chính quyền vương quốc. Có điều anh ta dường như không hề dùng đến quyền hạn ấy, mà chỉ lẳng lặng gật đầu rời đi khi bị từ chối cung cấp thông tin.
 
-Tuy nhiên, nếu người ta chỉ hỏi thăm với tư cách cá nhân, Hội Mạo Hiểm Giả chắc chắn sẽ không bao giờ dễ dàng giao ra thông tin riêng tư như vậy. Điều này cũng phần nào dễ hiểu khi xét đến việc nhiều thành viên của Hội luôn có điều này điều nọ cần che giấu. Rộng hơn nữa, cũng chẳng hề thiếu những mạo hiểm giả muốn giữ kín quá khứ của mình—
+Nhưng nếu chỉ hỏi với tư cách cá nhân, Hội Mạo Hiểm Giả đời nào chịu dễ dàng để lộ thông tin riêng tư. Điều này cũng dễ hiểu, bởi thành viên của Hội lắm kẻ có chuyện này chuyện nọ cần giấu. Kéo theo đó, mạo hiểm giả muốn chôn chặt quá khứ của mình cũng chẳng hề hiếm—
 
-Cân nhắc tất cả những yếu tố đó, tôi thản nhiên đưa ra câu trả lời của mình.
+Tính toán hết những chuyện đó, tôi thản nhiên đáp:
 
-"Tôi chưa từng nghe nói về... ai mang cái tên... 'Rina Rogue' cả."
+"Tôi chưa từng nghe qua... ai có tên là... 'Rina Rogue' cả."
 
-"...Vậy sao. Thật vô cùng đáng tiếc. Nếu sau này có cơ hội tình cờ gặp được con bé, tôi sẽ rất biết ơn nếu ngài có thể liên lạc với tôi. Do một vài sắp xếp khác, tôi sẽ lưu lại thị trấn này trong một khoảng thời gian nhất định—tôi thậm chí đã xin nghỉ phép một thời gian khỏi nhiệm vụ ở Đệ Nhất Kỵ Sĩ Đoàn. Nhưng dẫu vậy, kỳ nghỉ phép cũng chẳng kéo dài lâu. Tôi hy vọng mình có thể gặp và nói chuyện với con bé ít nhất một lần trước khi quay về."
+"...Vậy sao. Thật tiếc quá. Sau này nếu tình cờ gặp được con bé, tôi sẽ rất đội ơn nếu ngài báo lại cho tôi một tiếng. Vì vài chuyện khác, tôi còn nán lại thị trấn này một thời gian; tôi thậm chí đã xin tạm nghỉ nhiệm vụ ở Đệ Nhất Kỵ Sĩ Đoàn. Dẫu thế, kỳ nghỉ cũng không được bao lâu. Tôi hy vọng có thể gặp mặt và nói chuyện với con bé dù chỉ một lần trước lúc trở về."
 
-Nói đoạn, vị kỵ sĩ đưa cho tôi địa chỉ quán trọ nơi anh ta đang dừng chân trước khi bước qua cánh cửa tiệm Ba Chĩa. Có lẽ anh ta cũng có những câu hỏi tương tự dành cho Clope.
+Nói đoạn, vị kỵ sĩ đưa cho tôi địa chỉ quán trọ nơi anh đang trọ rồi bước vào tiệm Ba Chĩa. Có lẽ anh ta cũng muốn hỏi Clope những câu tương tự.
 
-Idoles toát ra một bầu không khí có phần u buồn, cả con người anh ta dường như bị bao phủ bởi tấm màn đơn độc và lẻ loi. Dẫu vậy, tôi không thể tùy tiện tiết lộ thông tin cá nhân của Rina khi chưa có sự đồng ý của cô bé.
+Idoles toát ra vẻ u sầu, cả người dường như chìm trong cô độc và quạnh quẽ. Dẫu vậy, tôi không thể tùy tiện để lộ chuyện của Rina khi chưa được cô đồng ý.
 
-Cân nhắc mọi nhẽ, cô bé Rina mà tôi từng gặp chắc chắn không thể nhầm lẫn vào đâu được chính là người mà Idoles đang tìm kiếm. Tôi có thể khẳng định điều này một cách tự tin, bởi tôi đã dành gần như trọn cả cuộc đời mình ở Maalt. Suốt ngần ấy năm qua, tôi chưa từng biết đến một nữ mạo hiểm giả nào khác mang tên Rina.
+Nghĩ đi nghĩ lại, Rina tôi gặp chắc chắn không ai khác chính là người Idoles đang tìm. Tôi dám khẳng định chắc nịch như vậy vì đã sống gần trọn đời mình ở Maalt. Suốt ngần ấy năm, tôi chưa từng nghe có nữ mạo hiểm giả nào khác tên là Rina.
 
-Đặc điểm miêu tả mà Idoles đưa ra cũng hoàn toàn trùng khớp; dẫu rằng sự kết hợp giữa mái tóc vàng và đôi mắt xanh lam vốn dĩ đã tương đối hiếm gặp. Dân gian truyền tụng rằng chỉ có quý tộc, hoặc chí ít là những người có địa vị xã hội cao quý, mới sinh ra với những đặc điểm như vậy. Chẳng cần phải nói cũng biết, những nét đặc trưng ấy thường chẳng mấy khi được thấy ở một thị trấn hẻo lánh như Maalt.
+Những đặc điểm Idoles miêu tả cũng khớp hoàn toàn, chưa kể tóc vàng mắt xanh vốn đã hiếm gặp. Người ta đồn rằng chỉ quý tộc hay tầng lớp trâm anh thế phiệt mới sinh ra với nét tướng mạo ấy. Chẳng cần nói cũng biết, ở một thị trấn hẻo lánh như Maalt thì đào đâu ra người như thế.
 
-Tuy vẫn có khả năng một mạo hiểm giả mới trùng tên và ngoại hình đã xuất hiện trong khoảng thời gian tôi vắng mặt ở Hội, nhưng nếu suy xét một cách logic thì xác suất ấy tương đối thấp.
+Dù không loại trừ khả năng có mạo hiểm giả mới trùng cả tên lẫn ngoại hình xuất hiện trong lúc tôi vắng mặt ở Hội, nhưng xét về lý thì xác suất ấy cực kỳ thấp.
 
-Dẫu nói một cách chặt chẽ thì cái tên Rina đưa cho tôi khác với cái tên Idoles đã dùng—nhưng dĩ nhiên, Rina Rupaage rất có thể là một cái tên giả. Do thủ tục đăng ký của Hội tương đối đơn giản và hoàn toàn không có bất kỳ bước kiểm tra lý lịch nào, Rina có thể đăng ký dưới bất kỳ cái tên nào cô bé muốn. Suy cho cùng, Hội phần lớn hoạt động dựa trên sự tín nhiệm lẫn nhau mà thôi.
+Nói cho đúng ra thì cái tên Rina cho tôi khác với cái tên Idoles nhắc tới—nhưng dĩ nhiên, Rina Rupaage hẳn chỉ là tên giả. Thủ tục đăng ký của Hội khá đơn giản lại không hề xét lý lịch, nên Rina thích lấy tên gì mà chẳng được. Suy cho cùng, Hội mạo hiểm giả hoạt động dựa trên sự tín nhiệm là chính.
 
-Ngay cả khi làm rõ được việc một người đăng ký sử dụng tên giả, họ cũng chẳng thực sự bị trừng phạt vì điều đó. Tất cả những gì Hội quan tâm là năng lực hoàn thành các ủy thác và nhiệm vụ mà mạo hiểm giả nhận làm—và chỉ có thế mà thôi.
+Ngay cả khi bị phát hiện dùng tên giả, người đăng ký cũng chẳng bị phạt. Tất cả những gì Hội bận tâm là năng lực hoàn thành ủy thác và nhiệm vụ của mạo hiểm giả—thế là xong.
 
-Ngoại lệ cho quy tắc này dĩ nhiên vẫn tồn tại: chẳng hạn như nếu một kẻ đào tẩu hoặc tội phạm đăng ký với hy vọng trốn tránh công lý, chúng có thể dễ dàng bị bàn giao cho chính quyền—giả sử như có đầy đủ bằng chứng xác thực. Dẫu nói là vậy, một lượng không nhỏ tội phạm vẫn tiếp tục lẩn trốn sự truy bắt của giới chức dưới vỏ bọc mạo hiểm giả—đó vốn là thực tế của thế giới này.
+Dĩ nhiên vẫn có ngoại lệ: chẳng hạn kẻ đào tẩu hay tội phạm đăng ký để trốn tội có thể bị tống cổ cho chính quyền ngay tắp lự—miễn là có đủ chứng cứ. Nói vậy thôi chứ không ít tội phạm vẫn ngày ngày lẩn trốn sự truy bắt dưới vỏ bọc mạo hiểm giả—chuyện đời vốn dĩ là thế.
 
-Nếu nhân viên của Hội không thể nhận diện một kẻ nào đó là tội phạm ngay từ cái nhìn đầu tiên, chúng có lẽ sẽ lọt qua kẽ hở của hệ thống. Dưới góc nhìn của một kẻ phạm tội đang lẩn trốn, Hội Mạo Hiểm Giả quả là một nơi vô cùng tiện lợi. Đó cũng là lý do vì sao hầu hết cư dân thị trấn đều nhìn giới mạo hiểm giả bằng ánh mắt đầy ngờ vực.
+Nếu nhân viên của Hội không nhìn ra ngay một kẻ là tội phạm, chúng cứ thế mà lọt lưới. Dưới mắt kẻ trốn chạy, Hội Mạo Hiểm Giả là tấm bình phong quá đỗi tiện lợi. Đó cũng là lý do vì sao dân chúng trong thị trấn thường nhìn mạo hiểm giả bằng ánh mắt đầy ngờ vực.
 
-Tôi chẳng hề có ý khẳng định Rina có bất kỳ điểm nào giống tội phạm; tuy nhiên, việc cô bé che giấu tên thật cho thấy cô bé không muốn bị tìm thấy.
+Tôi không hề có ý bảo Rina dính dáng gì tới tội phạm; có điều việc cô che giấu tên thật chứng tỏ cô không muốn bị ai tìm ra.
 
-Đó là lý do vì sao tôi lại trả lời Idoles như vậy—lời nói của tôi tuy không hẳn là nói dối, nhưng cũng chẳng hoàn toàn là sự thật. Bởi ngay cả khi tôi chưa từng nghe nói về Rina Rogue, thì diện mạo của Rina Rupaage lại khớp hoàn hảo với miêu tả mà anh ta đưa ra. Suy đoán sau đó của tôi có lẽ chẳng chệch đi đâu được—nhưng mọi chuyện cũng chỉ dừng lại ở đó.
+Chính vì thế tôi mới trả lời Idoles như vậy—lời tôi nói dẫu không hẳn là bịa đặt, nhưng cũng chẳng hoàn toàn là sự thật. Bởi dù chưa nghe danh Rina Rogue bao giờ, diện mạo của Rina Rupaage lại khớp từng miêu tả của anh ta. Phỏng đoán của tôi có lẽ chẳng sai lệch là bao—nhưng chuyện cũng chỉ dừng lại ở đó.
 
-Bản thân tôi cũng có những nhiệm vụ cần phải làm. Giả như Rina có bao giờ tự đẩy mình vào tình cảnh hiểm nghèo, tất cả những gì tôi cần làm chỉ là chìa tay giúp đỡ cô bé vào lúc ấy mà thôi.
+Bản thân tôi cũng còn bao việc phải làm. Họa chăng sau này Rina có lâm vào cảnh hiểm nghèo, lúc ấy tôi chìa tay giúp đỡ cũng chưa muộn.
 
-Sự hiện diện của một kỵ sĩ ở thị trấn này đã đủ khiến anh ta nổi bần bật một cách lạc lõng—Idoles, dĩ nhiên, dường như chẳng hề nhận ra điều đó.
+Một kỵ sĩ xuất hiện ở thị trấn này đã đủ chướng mắt thấy rõ—chỉ là Idoles dường như chẳng hề hay biết.
 
-Tạm gác lại những suy nghĩ về chuyện này, tôi thong thả cất bước quay về. Trước mắt, tôi đồ rằng mình nên trở lại tư dinh của Lorraine.
+Gác lại mớ suy nghĩ ấy, tôi rảo bước quay về. Trước mắt, tôi thấy mình nên về lại nhà Lorraine.
 
 ◆◇◆◇◆
 
-Nhìn vào tình hình hiện tại, tôi có thể nói rằng trông mình lúc này đã đủ giống người. Nếu khôn khéo một chút, tôi có thể dễ dàng mua sắm giáp trụ mới và những thứ tương tự. Nhờ vào diện mạo mới mẻ này, tôi có lẽ thậm chí có thể đích thân xuất hiện ở Hội—chí ít thì khả năng tôi bị thanh trừng ngay tại chỗ đã giảm đi đáng kể.
+Xét tình hình hiện tại, tôi thấy mình lúc này trông đã đủ giống người. Nếu biết liệu tính, tôi hoàn toàn có thể mua một bộ giáp mới cùng vài món trang bị. Nhờ diện mạo mới này, biết đâu tôi còn có thể đường hoàng bước vào Hội—chí ít thì nguy cơ bị thanh trừng ngay tại chỗ đã giảm đi trông thấy.
 
-Điều đáng lưu ý là tôi sẽ phải thách thức những quái vật mạnh hơn kể từ đây vì mục tiêu Tiến Hóa Bản Thể. Tuy nhiên, để làm được điều đó, tôi phải bắt đầu thám hiểm ở Mê Cung Tân Nguyệt, bởi tôi không thể cứ quanh quẩn mãi ở Mê Cung Nguyệt Ảnh nếu muốn tiến xa hơn.
+Điều đáng nói là từ nay về sau, tôi sẽ phải khiêu chiến những quái vật mạnh hơn để tiếp tục Tiến Hóa Bản Thể. Nhưng muốn thế, tôi phải bắt đầu chuyển sang Mê Cung Tân Nguyệt, chứ không thể cứ quanh quẩn mãi ở Mê Cung Nguyệt Ảnh nếu muốn mạnh lên.
 
-Thế nhưng trước khi lên đường tới Mê Cung Tân Nguyệt, có một chuyện tôi cần phải làm.
+Thế nhưng trước khi lên đường tới Mê Cung Tân Nguyệt, tôi có việc cần phải làm trước.
 
-"Vậy là... đó là lý do anh muốn đến Hội à? Tôi vẫn thấy làm thế là quá sớm đấy..." Lorraine, chủ nhân ngôi nhà tôi đang ở, lên tiếng.
+"Vậy là... anh muốn đến Hội vì chuyện đó à? Tôi vẫn thấy còn quá sớm đấy..." Lorraine, chủ căn nhà tôi đang ở, lên tiếng.
 
-Sau khi chuẩn bị xong bữa ăn cho Lorraine, cả hai chúng tôi cùng ngồi vào bàn ăn, cô thưởng thức tài nấu nướng của tôi trong khi tôi nhấm nháp một lượng máu tí teo của cô. Chính trong khung cảnh siêu thực ấy, tôi đã nhắc đến danh sách những việc cần làm trong ngày của mình.
+Sau khi nấu xong bữa ăn cho Lorraine, hai chúng tôi cùng ngồi vào bàn. Cô thưởng thức đồ ăn tôi nấu, còn tôi nhấm nháp chút ít máu của cô. Chính giữa khung cảnh kỳ quặc ấy, tôi đã đề cập đến những dự định sắp tới của mình.
 
-Cụ thể là, tôi sắp sửa tốt nghiệp khỏi Mê Cung Nguyệt Ảnh, một mê cung nhỏ dành cho người mới, để chuyển sang Mê Cung Tân Nguyệt, một mê cung lớn rất được ưa chuộng đối với hầu hết mạo hiểm giả—từ những tân binh chân ướt chân ráo cho tới các bậc kỳ cựu Ngân Cấp. Chính vì lẽ đó, tôi quyết định nhận một dạng ủy thác dài hạn nào đó từ Hội, kẻo chuyến đi của mình lại thành ra uổng công vô ích.
+Cụ thể là, tôi sắp sửa rời Mê Cung Nguyệt Ảnh—mê cung quy mô nhỏ dành cho lính mới—để chuyển sang Mê Cung Tân Nguyệt, một mê cung lớn tấp nập đủ loại mạo hiểm giả từ tân binh chân ướt chân ráo cho đến các bậc kỳ cựu Ngân Cấp. Thế nên tôi mới định đến Hội nhận một ủy thác dài hạn, kẻo chuyến đi lại uổng công vô ích.
 
-Phần mà Lorraine phản đối cụ thể chính là chuyện tôi đích thân đến Hội để tiếp nhận nhiệm vụ. Lý lẽ của cô rất đơn giản: dẫu diện mạo của tôi trông đã có phần giống người hơn, nhưng nhìn tôi vẫn cực kỳ đáng ngờ.
+Điều Lorraine phản đối kịch liệt chính là chuyện tôi muốn đích thân đến Hội nhận ủy thác. Lý lẽ của cô rất đơn giản: dù vẻ ngoài đã có phần giống người hơn, trông tôi vẫn còn khả nghi lắm.
 
-Chưa thấy thỏa đáng, Lorraine tiếp tục giải thích: "Họ gần như chắc chắn sẽ yêu cầu xem giấy phép mạo hiểm giả của Rentt Faina. Diện mạo của anh khi ấy sẽ kéo theo đủ loại câu hỏi—những nghi vấn đủ kỳ quặc để khơi gợi sự tò mò của Hội Trưởng. Lại còn vấn đề về những mạo hiểm giả kỳ cựu khác nữa. Họ có thể đang tụ tập ở đại sảnh của Hội như thường lệ—"
+Thấy tôi chưa thông, Lorraine giải thích thêm: "Chắc chắn họ sẽ đòi xem thẻ mạo hiểm giả của Rentt Faina. Bộ dạng của anh khi ấy sẽ kéo theo hàng tá câu hỏi—đủ kỳ quặc để khiến ngay cả Hội Trưởng cũng phải để mắt tới. Chưa kể đám mạo hiểm giả kỳ cựu khác nữa. Biết đâu họ lại đang tụ tập ở đại sảnh của Hội như mọi khi—"
 
-"Nhưng mà... họ đâu có... làm ầm ĩ lên đến thế. Đâu ai rảnh hơi... vì một mạo hiểm giả... Đồng Cấp."
+"Nhưng mà... họ đâu có... làm ầm ĩ đến thế. Đâu ai rảnh hơi... vì một mạo hiểm giả... Đồng Cấp."
 
-Nói thẳng ra thì, ngay từ đầu tôi vốn chẳng phải là một mạo hiểm giả ghê gớm gì cho cam, nên bản thân tôi không nghĩ rằng việc mình xuất hiện trở lại sau một thời gian vắng bóng, dẫu có trong bộ dạng kỳ lạ, lại là một vấn đề to tát.
+Thành thực mà nói, tôi xưa nay vốn chẳng phải mạo hiểm giả gì ghê gớm, nên tự thấy việc mình tái xuất sau một dạo vắng bóng—dù trong bộ dạng kỳ quặc—cũng chẳng phải chuyện gì to tát.
 
-Thế nhưng, Lorraine lại không cùng quan điểm với tôi.
+Nhưng Lorraine lại không nghĩ vậy.
 
-"...Có lẽ anh nói thế nếu chỉ xét đơn thuần từ góc độ sức mạnh, vì đúng là anh yếu thật. Đó là lý do anh dậm chân ở Đồng Cấp suốt bao nhiêu năm qua, nên về những điểm đó thì tôi đồng ý với anh.
+"...Có lẽ nếu chỉ xét đơn thuần về mặt sức mạnh thì đúng là như vậy, vì anh yếu thật. Đó là lý do anh dậm chân ở Đồng Cấp suốt bao nhiêu năm trời, điểm này thì tôi công nhận.
 
-"Nhưng dẫu tôi đồng ý... thì đối với Hội, anh là một sự tồn tại vô cùng quý giá. Dù vô số công việc và ủy thác lặt vặt anh làm cho Hội nếu xét riêng lẻ thì chẳng có gì quá nổi bật, nhưng không một ai khác ở Maalt có thể hoàn thành những nhiệm vụ đó với mức độ hoàn hảo và chuẩn xác như anh. Hội xưa nay luôn đánh giá anh rất cao, đến mức họ từ lâu đã sẵn sàng tuyển dụng anh làm nhân viên của Hội nếu một ngày nào đó anh ngừng làm mạo hiểm giả đấy."
+"Nhưng dù có vậy... thì đối với Hội, anh là một người cực kỳ quý giá. Vô số việc vặt và ủy thác anh làm cho Hội xét riêng lẻ thì chẳng có gì nổi bật, nhưng khắp cái đất Maalt này chẳng ai kham nổi những việc đó một cách hoàn hảo và chuẩn xác như anh. Hội xưa nay luôn đánh giá anh rất cao, đến mức sẵn sàng tuyển anh vào làm nhân viên nếu một ngày nào đó anh giải nghệ đấy."
 
-"...Hả? Có... thật vậy sao? Cô chắc chắn... đang đùa rồi."
+"...Hả? Thật... vậy sao? Cô hẳn... đang đùa rồi."
 
-Thành thật mà nói, tôi vô cùng kinh ngạc trước những lời của Lorraine. Dù đúng là tôi đã chạy vặt và làm vô số việc linh tinh cho Hội, nhưng tôi chưa từng nghĩ những hành động của mình lại có sức nặng đến mức khiến Hội muốn tuyển tôi vào làm nhân viên. Suy cho cùng, tôi chẳng thể nào cứ ung dung tự mãn mà sống, nghĩ rằng tương lai của mình đã được đảm bảo.
+Thành thật mà nói, tôi vô cùng kinh ngạc trước những lời của Lorraine. Dù đúng là tôi từng chạy vặt và làm đủ thứ việc linh tinh cho Hội, nhưng tôi chưa từng nghĩ công sức của mình lại lớn đến mức khiến Hội muốn tuyển vào làm nhân viên. Suy cho cùng, tôi đâu thể sống thảnh thơi mà đinh ninh rằng tương lai của mình đã ấm êm.
 
-Tuy nhiên, trước cả khi kịp nghĩ đến những chuyện đó, tôi một lần nữa khẳng định rằng mình không hề có ý định từ bỏ cuộc đời mạo hiểm giả—đó là điều không tưởng.
+Nhưng trước cả khi kịp nghĩ tới chuyện ấy, tôi khẳng định lại một lần nữa rằng mình không hề có ý định từ bỏ đời mạo hiểm giả—chuyện đó là không thể nào.
 
-"Tôi nói thật đấy, anh biết không? Hừm. Thôi thì tùy anh... Dù thế nào đi nữa, chừng nào anh vẫn còn là chính anh của hiện tại, thì việc đến Hội sẽ là chuyện vô cùng—" Lorraine khựng lại giữa câu, lắc đầu qua lại hết bên này sang bên kia, trước khi bắt đầu lẩm bẩm một mình. "Chừng nào mình... vẫn còn là? Chính mình sao? Nếu Rentt là Rentt... Nếu Rentt không phải là Rentt. Thì có khi... có khi lại có cách giải quyết chuyện này..."
+"Tôi nói thật đấy chứ! Hừm. Thôi được rồi... Đằng nào thì chừng nào anh vẫn giữ nguyên thân phận hiện tại, việc mò đến Hội sẽ vô cùng—" Lorraine khựng lại giữa câu, lắc đầu quầy quậy rồi bắt đầu lẩm bẩm một mình. "Chừng nào vẫn là... chính mình? Nếu Rentt là Rentt... Nếu Rentt không phải là Rentt... Thì biết đâu... biết đâu lại có cách..."
 
-Đó là những lời lẩm bẩm của Lorraine.
+Lorraine cứ lẩm ba lẩm bẩm như thế.
 
-Cô ngước mắt lên, cuối cùng cũng dứt khỏi màn độc thoại nội tâm. Thế nhưng, những gì cô nói tiếp theo lại không hề giống như tôi dự đoán—và nói một cách khiêm tốn nhất thì nó vô cùng đáng kinh ngạc.
+Dứt lời độc thoại, cô ngước mắt nhìn lên. Có điều câu nói tiếp theo của cô lại nằm ngoài dự đoán của tôi—và bảo là sửng sốt thì vẫn còn nhẹ chán.
 
-"...Rentt. Nếu anh nhất quyết bằng mọi giá phải nhận ủy thác và nhiệm vụ từ Hội Mạo Hiểm Giả, thì... hãy đăng ký lại đi. Ý tôi là đăng ký lại với Hội ấy.
+"...Rentt này. Nếu anh nhất quyết bằng mọi giá phải nhận ủy thác và nhiệm vụ từ Hội Mạo Hiểm Giả, thì... đăng ký lại đi. Ý tôi là đăng ký lại từ đầu với Hội ấy."
 
-"Đổi tên của anh đi. Đừng đăng ký với cái tên 'Rentt Faina'... Chà, người ta chẳng dễ gì phân biệt được ai với ai chỉ qua tên gọi đâu. Anh chỉ việc đổi họ của mình thành một cái họ khác, rồi đăng ký dưới cái tên mới đó."
+"Đổi tên đi. Đừng đăng ký bằng cái tên 'Rentt Faina' nữa... Thật ra người ta cũng chẳng mấy khi để ý nếu trùng tên gọi. Anh chỉ việc đổi họ sang một họ khác rồi đăng ký dưới cái tên mới ấy thôi."
 
-Chưa thể hiểu nổi lời tuyên bố bất thình lình của Lorraine, tôi ngồi yên chăm chú lắng nghe khi cô bắt đầu đưa ra lời giải thích chậm rãi và chi tiết hơn.
+Trước đề xuất đường đột của Lorraine, tôi vẫn còn ngơ ngác chưa hiểu mô tê gì. Cô bèn chậm rãi giải thích cặn kẽ từng chút một, còn tôi thì kiên nhẫn ngồi lắng nghe.
