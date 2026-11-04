@@ -1478,6 +1478,13 @@ Nhóm Rentt lập kết giới bàn bạc và quyết định nhờ ông lão b�
 Cả nhóm áp giải ông lão bị trói ma pháp quay lại chỗ Ferrici; ông lão thở phào khi biết Siren vẫn an toàn và hiến kế cử Goblin làm người đưa tin liên lạc về tổ chức còn mình cùng Siren ở lại làm con tin.
 Cảnh kết thúc: Sau khi Lorraine đồng ý kế hoạch, ông lão lên tiếng nhắc nhở tổ chức có biện pháp khắc chế dị năng và khuyên Rentt hãy cẩn thận; Rentt cảm ơn khiến ông lão nhìn anh như một kẻ kỳ quặc.
 
+## 251
+Nhóm Rentt giải thích qua loa cho Ferrici rồi áp giải ông lão quay về quán trọ làng Looza; ông lão thở dài trước cảnh Siren bị trói và bảo gọi Goblin (Yattul) đến phòng để đàm luận trước.
+Goblin kinh ngạc khi hay tin ông lão bị đánh bại hoàn toàn trong trận đối đầu trực diện; sau khi được ông lão phân tích tình thế nguy ngập và động viên biến đây thành phi vụ cuối cùng trước khi giải nghệ làm thương nhân, Goblin đồng ý một mình quay về tổ chức làm người đưa tin để thu xếp cuộc gặp đàm phán giữa nhóm Rentt và thủ lĩnh.
+Sau khi thống nhất xong việc cử Goblin đi và giữ ông lão cùng Siren ở lại làm con tin, nhóm cởi trói cho Siren nhưng ả lập tức gào thét phản đối kế hoạch; Lorraine liền giơ đũa phép lên dọa khiến Siren sợ hãi phát khóc và ngoan ngoãn nghe lời.
+Cảnh kết thúc: Cả nhóm ngơ ngác trước sự khuất phục nhanh chóng của Siren và toát mồ hôi tự hỏi rốt cuộc trước đó Lorraine đã dùng biện pháp kinh khủng nào với ả, nhưng không ai dám mở miệng hỏi.
+
+
 
 
 

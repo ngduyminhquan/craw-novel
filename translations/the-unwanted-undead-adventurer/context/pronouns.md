@@ -460,4 +460,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ferrici | Lenora | con | mẹ | 240 | Con gái nói chuyện với mẹ |
 | Leo | Lenora | tôi / anh / mình | Lenora / mình / em | 240 | Chồng nói chuyện với vợ |
 | Lenora | Leo | tôi / em / mình | mình / anh | 240 | Vợ nói chuyện với chồng |
+| Lorraine Vivie | Siren | tôi | cô | 251 | Nữ học giả răn đe nữ điệp viên bằng đũa phép |
+| Siren | Lorraine Vivie | tôi | cô | 251 | Nữ điệp viên khiếp sợ ngoan ngoãn trước nữ học giả |
 
