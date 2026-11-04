@@ -1,6 +1,6 @@
 # Chương 52: Tập 2 Chương 4 - Hoa Long Huyết (5)
 
-"Nào, ăn đi chứ," Lorraine chỉ tay vào mấy món dọn trên bàn, bảo.
+"Nào, ăn đi chứ," Lorraine vừa nói vừa chỉ tay vào mấy món dọn trên bàn.
 
 Bánh mì đen, sữa, thêm mấy món hấp... Bữa sáng quen thuộc đúng kiểu Maalt.
 
@@ -8,13 +8,13 @@ Chắc lúc tôi bước vào bếp mấy phút trước là Lorraine đang hấ
 
 Đó là món hầm cách thủy đơn giản từ chỗ thịt Orc tôi tích trữ đợt trước, nấu với ít đậu và củ quả. Mùi nước dùng thơm phức ngấm vào từng nguyên liệu, ngửi thôi đã thấy thèm.
 
-Là Thi Quỷ, bụng dạ tôi chẳng mấy khi no căng hay đói cồn cào, nhưng tôi vẫn còn vị giác. Hồi còn làm Ngạ Quỷ trong thời gian ngắn, ký ức của tôi về đồ ăn và mùi vị khá mơ hồ, nhưng từ lúc tiến hóa thì đã rõ ràng hơn hẳn. Giờ tôi có thể thưởng thức đủ thứ món ăn, chẳng khác mấy so với hồi còn sống.
+Từ lúc thành Thi Quỷ, bụng dạ tôi chẳng mấy khi no căng hay đói cồn cào, nhưng vị giác thì vẫn còn. Quãng thời gian ngắn ngủi làm Ngạ Quỷ, ký ức của tôi về đồ ăn thức uống và mùi vị rất mơ hồ, phải sau lần tiến hóa vừa rồi mới rõ rệt trở lại. Giờ tôi có thể nếm và thưởng thức đủ thứ món ăn, chẳng khác mấy so với hồi còn sống.
 
 Nếu có gì đổi khác, thì là giờ tôi lại thấy thích máu. Tôi thấy vị máu ngon đến khó tin, dù đây chẳng phải chuyện nên đem ra kể bên bàn ăn.
 
 Tôi chắp tay trước bữa sáng do chính tay Lorraine nấu, khẽ nhắm mắt cầu nguyện một câu rồi mới cầm dao nĩa. Nói thật thì tôi chẳng tin vào thần thánh nào cả, làm thế đơn giản chỉ vì quen tay quen miệng thôi.
 
-"Undead mà lại cầu nguyện thần linh trước bữa ăn cơ à? Trông nghịch mắt thật đấy, Rentt."
+"Undead mà lại cầu nguyện thần linh trước bữa ăn cơ à? Cảnh tượng vừa chướng mắt vừa kỳ cục thật đấy, Rentt."
 
 Chẳng cần Lorraine nhắc tôi cũng biết chuyện này trớ trêu đến mức nào.
 
@@ -30,7 +30,7 @@ Nghĩ lại thì cô nhi viện kia do Giáo Hội Đông Thiên quản lý, n�
 
 Có điều, ở sát sàn sạt một nơi linh thiêng như thế mà tôi chẳng thấy khó chịu chút nào... Vậy thì khéo chẳng có gì đáng lo thật.
 
-Nói vậy chứ, đồ ăn hôm nay có điểm là lạ. Nếu phải tả bằng lời... thì chẳng hiểu sao lại ngon bất thường.
+Nói vậy chứ, đồ ăn hôm nay có gì đó là lạ. Nếu phải tả bằng lời... thì chẳng hiểu sao lại ngon bất thường.
 
 Ý tôi không phải là tay nghề của Lorraine đột nhiên tiến bộ thần kỳ. Đơn giản là vị của nó... ngon hơn. Thật lòng mà nói, nó ngon hơn mọi thứ Lorraine từng nấu cho tôi từ trước đến nay.
 
@@ -46,9 +46,9 @@ Thấy Lorraine chịu khó nấu món hợp khẩu vị mình thì tôi cũng c
 
 "...Nhưng mà, Lorraine này. Thế tức là... bữa sáng của cô... cũng có máu à."
 
-Chẳng lẽ bữa sáng của hai đứa lại là món hầm có lẫn máu? Mà Lorraine cũng chịu ăn sao?
+Chẳng lẽ bữa sáng của chúng tôi lại là món hầm có nhỏ máu? Mà Lorraine cũng chịu ăn thứ đó sao?
 
-"À thì... Dù là máu của mình, tôi cũng đâu có sở thích ăn sáng bằng món hầm lẫn máu. Yên tâm đi Rentt, tôi múc riêng một bát cho anh rồi mới nhỏ một giọt vào đó. Bộ anh tưởng tôi cứa tay rồi nhúng thẳng vào cả nồi hầm chắc? Làm thế thì chẳng hoá ra phù thủy à?"
+"À thì... Dù là máu của mình, tôi cũng đâu có sở thích ăn sáng bằng món hầm lẫn máu. Yên tâm đi Rentt, tôi múc riêng một bát cho anh rồi mới nhỏ một giọt vào đó. Anh tưởng tôi cứa tay rồi nhúng thẳng vào cả nồi hầm chắc? Làm thế thì chẳng hóa ra phù thủy à?"
 
 Tôi thở phào nhẹ nhõm vì Lorraine không vì tôi mà làm hỏng cả nồi đồ ăn sáng. Nghĩ lại thì hòa máu vào thức ăn nghe đúng là hơi giống phù thủy thật, nếu tin theo mấy câu chuyện cổ tích.
 
@@ -70,7 +70,7 @@ Có vẻ đã thỏa mãn sau khi giải thích cặn kẽ về nguồn gốc l�
 
 ◆◇◆◇◆
 
-"Đi đường cẩn thận đấy nhé?" Lorraine dặn khi tôi chuẩn bị rời khỏi nhà.
+"Đi đường cẩn thận đấy nhé," Lorraine dặn khi tôi chuẩn bị rời khỏi nhà.
 
 Nghĩ lại thì món hầm sáng nay cũng có ý nghĩa riêng. Theo phong tục địa phương, đây như một lời chúc phúc hay cầu nguyện cho chuyến đi được thuận buồm xuôi gió. Thảo nào Lorraine lại dậy sớm nấu nướng như thế. Dù sao thì Đầm Lầy Tarasque cũng là chốn cực kỳ nguy hiểm.
 
@@ -78,7 +78,7 @@ Nghĩ lại thì món hầm sáng nay cũng có ý nghĩa riêng. Theo phong t�
 
 "Anh muốn tôi tin lời một kẻ từng bị Rồng nuốt trọn cả người hồi còn sống sao? Mà thôi... chuyện đó chắc do anh xui xẻo quá mức thôi... À phải rồi. Còn chuyện này nữa... Con chuột này này. Anh không định đặt tên cho nó à?" Lorraine hỏi, chỉ tay vào con chuột quyến thuộc trên vai tôi.
 
-Tôi cũng ngạc nhiên vì mãi đến giờ mình mới nghĩ tới chuyện đó, nhưng đúng là Lorraine nói phải: con quyến thuộc của tôi cần có một cái tên. Trước đó tôi không thấy cần thiết vì chỉ coi nó như quái vật nuôi cảnh, chẳng trông mong gì nhiều. Nhưng cứ gọi nó là Puchi Suri mãi thì bất tiện đủ đường. Giờ đặt tên cho nó là vừa đẹp.
+Tôi cũng ngạc nhiên vì mãi đến giờ mình mới nghĩ tới chuyện đó, nhưng đúng là Lorraine nói phải: con quyến thuộc của tôi cần có một cái tên. Trước đó tôi không thấy cần thiết vì chỉ coi nó như quái vật nuôi làm cảnh, chẳng trông mong gì nhiều. Nhưng cứ gọi nó là Puchi Suri mãi thì bất tiện đủ đường. Giờ đặt tên cho nó là vừa đẹp.
 
 "À thì... nó màu. Đen. Hay mình gọi nó là... Black đi."
 
@@ -102,7 +102,7 @@ Tôi thấy cái tên đó nghe cũng bình thường, chẳng có gì phản đ
 
 "Kẻ... cao quý."
 
-Bản thân tôi lại thấy con quyến thuộc này giống đại ca giang hồ hơn là quý tộc, giống một kẻ độc tài hung hãn hơn là vị vua đức độ. Bắt được suy nghĩ của tôi, con chuột liền lấy chân dậm thịch một cái lên vai tôi, như thể phản đối màn đánh giá vừa rồi.
+Bản thân tôi lại thấy con quyến thuộc này giống tên trùm du đãng hơn là quý tộc, giống một kẻ độc tài hung hãn hơn là vị vua đức độ. Bắt được suy nghĩ của tôi, con chuột liền lấy chân dậm thịch một cái lên vai tôi, như thể phản đối màn đánh giá vừa rồi.
 
 Tôi nói sai chỗ nào chắc?
 
@@ -110,7 +110,7 @@ Tôi nói sai chỗ nào chắc?
 
 Lorraine nói tiếp: "Tôi cũng có vài gợi ý khác nữa, tính theo cái tướng to béo của nó. Moppel tròn vo, hay Fressa háu ăn... cùng vài từ cổ khác. Anh thấy sao?"
 
-Tôi đứng ngẫm nghĩ về mấy gợi ý của Lorraine một lát. Con quyến thuộc của tôi đúng là tham ăn thật, chỗ món hầm pha máu tôi chia cho lúc nãy bị nó chén sạch bách trong nháy mắt. Nó nhanh thoăn thoắt đến mức chúng tôi chẳng kịp nhìn rõ, chắc vì thế mà Lorraine ấn tượng sâu sắc. Tôi chẳng mấy mặn mà với hai cái tên kia, mà con chuột dường như cũng thích gợi ý đầu tiên hơn, nó truyền ngay suy nghĩ đó sang tôi. Có lẽ đây là nét riêng của con quyến thuộc này, nhưng tôi thấy con chuột trên vai mình có chính kiến hơi bị lớn đấy.
+Tôi đứng ngẫm nghĩ về mấy gợi ý của Lorraine một lát. Con quyến thuộc của tôi đúng là tham ăn thật, chỗ món hầm pha máu tôi chia cho lúc nãy bị nó chén sạch bách trong nháy mắt. Nó nhanh thoăn thoắt đến mức chúng tôi chẳng kịp nhìn rõ, chắc vì thế mà Lorraine ấn tượng sâu sắc. Tôi chẳng mấy mặn mà với hai cái tên kia, mà con chuột dường như cũng thích gợi ý đầu tiên hơn, nó truyền ngay suy nghĩ đó sang tôi. Có lẽ đây là nét riêng của con quyến thuộc này, nhưng tôi thấy con chuột trên vai mình có cái tôi và chính kiến hơi quá lớn rồi.
 
 Hay cứ gọi nó là Moppel cho xong chuyện nhỉ. Cơ mà làm thế thì hẹp hòi quá. Dù rằng lúc này tôi cũng chẳng còn là con người nữa, ít nhất là không phải một người sống.
 
@@ -122,11 +122,11 @@ Hay cứ gọi nó là Moppel cho xong chuyện nhỉ. Cơ mà làm thế thì h
 
 Xem chừng Lorraine khá thích hai cái tên Moppel và Fressa. Dù sao thì...
 
-"Người... à thì, bản thân. Con chuột. Bảo là Edel... được rồi. Mình nên tôn trọng... ý của nó."
+"Chính chủ... à thì. Chính con chuột. Bảo là Edel... được rồi. Mình nên tôn trọng... ý của nó."
 
-"À phải rồi, cái liên kết tâm trí giữa anh với nó. Lúc nãy anh có nhắc... Thôi được, nó đã thích thế thì chốt là Edel vậy. Tiếc thật đấy, nhưng tôi không ép đâu. Từ hôm nay mày là Edel, và tao là người đặt tên cho mày đấy nhé. Liệu mà nhớ lấy!" Lorraine bảo, đoạn vỗ nhẹ lên đầu Edel.
+"À phải rồi, cái liên kết tâm trí giữa anh với nó. Lúc nãy anh có nhắc... Thôi được, nó đã thích thế thì chốt là Edel vậy. Tiếc thật đấy, nhưng tôi không ép đâu. Từ hôm nay mày là Edel, và tôi là người đặt tên cho mày đấy nhé. Liệu mà nhớ lấy!" Lorraine bảo, đoạn vỗ nhẹ lên đầu Edel.
 
-Thế là tôi chào tạm biệt Lorraine rồi cất bước rời khỏi nhà cô.
+Thế là chúng tôi chào tạm biệt Lorraine, quay người rồi cuối cùng cũng cất bước rời khỏi nhà cô.
 
 ◆◇◆◇◆
 
@@ -150,7 +150,7 @@ Những lời nhắc thật ân cần, mà cũng hiếm thấy. Dân đánh xe t
 
 Thấy tò mò, tôi liền lên tiếng hỏi thăm bác.
 
-"Cậu biết mấy chuyện dạo gần đây rồi đấy, nhỉ? Mấy vụ mạo hiểm giả mới vào nghề cứ mất tích trong mê cung này nọ ấy. Nghĩ mà thấy xót xa lắm cậu ơi, người hôm qua mình vừa thấy mặt, đùng cái đã chẳng còn nữa rồi. Nên là... chắc tôi hơi đa cảm quá. Dù sao thì... cố lên nhé. Chiều tối tôi sẽ quay lại. Mong là lúc đó cậu có mặt ở đây, chứ tôi không thể cho xe lại gần đầm lầy hơn thế này được đâu. Thôi... tôi đi đây."
+"Cậu biết mấy chuyện dạo gần đây rồi đấy, nhỉ? Mấy vụ mạo hiểm giả mới vào nghề cứ mất tích trong mê cung này nọ ấy. Thấy trống vắng lắm cậu ạ, người hôm qua mình vừa gặp mặt, đùng một cái đã chẳng còn nữa rồi. Nên là... chắc tôi hơi đa cảm quá. Dù sao thì... cố lên nhé. Chiều tối tôi sẽ quay lại. Mong là lúc đó cậu có mặt ở đây, chứ tôi không thể cho xe lại gần đầm lầy hơn thế này được đâu. Thôi... tôi đi đây."
 
 Bác đánh xe vung roi, thúc ngựa chạy đi. Chẳng mấy chốc, bóng bác chỉ còn là một chấm nhỏ tít đằng xa.
 
@@ -174,7 +174,7 @@ Nghĩ lại mà xem, tôi làm chừng này chuyện chỉ vì đúng một đ�
 
 Dù vậy, mạo hiểm giả thỉnh thoảng làm việc nghĩa cũng là chuyện nên làm. Nếu hành động cẩn thận, biết đâu tôi còn thu thập được vài nguyên liệu hiếm từ lũ quái vật ở đây, hay chí ít cũng kiếm được ít thảo dược bán lấy món tiền kha khá.
 
-Rõ ràng chẳng mạo hiểm giả nào muốn tự vác xác đến đây. Đồng nghĩa với việc nguyên liệu quý chỉ có ở nơi này luôn rất đắt hàng. Kể cả khi rơi vào thế nguy hiểm, tôi chỉ việc cắm đầu chạy là xong. Chạy trốn tuy chẳng phải ngón nghề đáng để khoe khoang, nhưng vẫn còn hơn là chết thêm lần nữa.
+Rõ ràng chẳng mạo hiểm giả nào muốn tự nguyện mò tới đây. Đồng nghĩa với việc nguyên liệu quý chỉ có ở nơi này luôn rất đắt hàng. Kể cả khi rơi vào thế nguy hiểm, tôi chỉ việc cắm đầu chạy là xong. Chạy trốn tuy chẳng phải ngón nghề đáng để khoe khoang, nhưng vẫn còn hơn là chết thêm lần nữa.
 
 Chưa kể, giờ tôi còn có thể dùng một con mồi nhử di động. Vừa bắt được ý nghĩ đó của tôi, Edel đã dựng đứng cả lông. Rõ ràng con quyến thuộc của tôi chẳng hào hứng gì với mấy việc nguy hiểm mà tôi đang tính giao cho nó.
 

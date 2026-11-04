@@ -12,7 +12,7 @@ Mình bị đánh bọc sườn sao?
 
 "Chít!" Qua liên kết tâm trí, Edel vội báo cho tôi vị trí mũi tên vừa bắn tới.
 
-Tôi quay phắt lại và bắt gặp một con Goblin cầm cung đang nhìn chằm chằm về phía mình. Nó dường như chẳng có ý định áp sát. Bất thình lình, một mũi tên khác lại từ hướng khác lao tới. Tôi vung kiếm chém đứt đôi mũi tên lần nữa, ngoảnh lại thì đúng như dự đoán, lại thêm một con Goblin nữa.
+Tôi quay phắt lại và bắt gặp một con Goblin cầm cung đang nhìn chằm chằm về phía mình. Nó dường như chẳng có ý định áp sát. Thay vào đó, một mũi tên nữa lại lao tới từ hướng khác. Tôi chém đứt đôi mũi tên lần nữa, ngoảnh lại thì đúng như dự đoán, bắt gặp một con Goblin khác.
 
 Đảo mắt nhìn quanh, nỗi lo của tôi lập tức thành hiện thực: cả hai đã bị bầy Goblin bao vây.
 
@@ -30,7 +30,7 @@ Tôi dồn Khí Lực vào hai chân để có thể giẫm lên lớp đất b�
 
 Dù tốc độ của tôi chậm hơn nhiều so với khi chạy trên đất cứng, tôi vẫn nhanh nhẹn hơn bầy Goblin sống dưới bùn lầy này gấp bội.
 
-Thấy tôi lao tới quá nhanh, lũ Goblin hoảng loạn buông vũ khí, quay đầu toan bỏ chạy. Giống loài Goblin vốn nổi tiếng nhát gan, dẫu cách đây ít lâu tôi cũng chẳng khác chúng là mấy.
+Thấy tôi lao tới quá nhanh, lũ Goblin hoảng loạn hạ vũ khí xuống, quay đầu toan bỏ chạy. Giống loài Goblin vốn nổi tiếng nhát gan, dẫu cách đây ít lâu tôi cũng chẳng khác chúng là mấy.
 
 Thấy không thắng nổi thì nhanh chân tẩu thoát là nước đi sáng suốt—chuyện đó xưa nay chẳng có gì phải bàn cãi.
 
@@ -66,7 +66,7 @@ Tôi thật sự nghi ngờ đấy...
 
 ◆◇◆◇◆
 
-Dù đầm lầy chẳng phải nơi ai cũng tự nguyện mò vào, nhưng không thể phủ nhận hệ động thực vật ở đây vô cùng phong phú, đều có thể thu thập làm dược liệu hay vật phẩm chế tác. Vì thế, người ta cũng dựng sẵn vài công trình tiện ích để phục vụ cho việc này.
+Dù đầm lầy chẳng phải nơi ai cũng tự nguyện mò vào, nhưng không thể phủ nhận hệ động thực vật ở đây vô cùng phong phú, đều có thể thu thập làm dược liệu hay vật phẩm chế tác. Vì thế, quanh đây cũng được dựng sẵn vài công trình phụ trợ để tiện cho việc thu hái.
 
 Chẳng hạn như những cây cầu được bắc qua các vùng nước lớn. Đó là điều tối cần thiết nếu một người bình thường muốn thám hiểm đầm lầy, bởi quanh đây làm gì có ai sở hữu khả năng kháng độc như tôi. Mà người tỉnh táo thì chẳng ai dại gì bơi qua vũng nước đầm lầy ngập tràn kịch độc, nên cầu cống ở những nơi này là thứ không thể thiếu.
 
@@ -78,7 +78,7 @@ Kẽo kẹt... Kẽo kẹt...
 
 Âm thanh mà tôi chẳng hề muốn nghe, nhất là ở cái chốn này.
 
-Vật liệu bắc cầu tùy thuộc vào từng vị trí, và cây cầu này được làm bằng gỗ. Thi công dễ dàng là tiêu chí hàng đầu khi chọn vật liệu dựng cầu. Giữa chốn đầm lầy hoang vu thế này thì đào đâu ra đủ vật liệu để dựng một cây cầu kim loại. Thực tế, chuyện đó chỉ khả thi nếu thuê cả một đội mạo hiểm giả đông đảo, và họ sẽ phải cắm chốt thi công ròng rã suốt một thời gian dài.
+Vật liệu bắc cầu tùy thuộc vào từng vị trí, và cây cầu này được làm bằng gỗ. Thi công dễ dàng là tiêu chí hàng đầu khi chọn vật liệu dựng cầu. Giữa chốn đầm lầy hoang vu thế này thì đào đâu ra đủ vật liệu để dựng một cây cầu kim loại. Thực tế, chuyện đó chỉ khả thi nếu thuê cả một đội mạo hiểm giả đông đảo, và họ cũng sẽ phải làm ròng rã suốt một thời gian dài.
 
 Chính vì thế, bắc qua nơi đây chỉ là một cây cầu gỗ.
 
@@ -86,7 +86,7 @@ Dĩ nhiên, gỗ làm cầu được lấy từ loài cây kháng độc mọc q
 
 Dẫu vậy, cầu gỗ thì vẫn cứ là cầu gỗ. Nói cho cùng, cây cầu này dựng lên hết sức sơ sài, và chính sự thô sơ ấy khiến nó mục ruỗng nhanh hơn bình thường. Sớm muộn gì rồi nó cũng sập xuống và lại bị đầm lầy nuốt chửng.
 
-—Và trớ trêu thay, hôm nay chính là ngày cây cầu đổ sập, ngay lúc tôi đang ở trên đó.
+—Và cây cầu này lại chọn đúng hôm nay để sập, ngay lúc tôi đang đứng trên đó.
 
 Rắc!!!
 
@@ -94,7 +94,7 @@ Tôi chỉ còn nước gồng mình ứng biến; dẫu vậy, do chưa kịp �
 
 Không kham nổi sức nặng ấy, một tấm ván mục gãy toác.
 
-Khổ nỗi, sức mạnh thể chất của Thi Quỷ vượt trội hơn người thường rất nhiều. Thành thử, những bước chân giẫm huỳnh huỵch vì thiếu cẩn trọng của tôi đã dẫn tới hậu quả thấy rõ mười mươi.
+Khổ nỗi, sức mạnh thể chất của Thi Quỷ vượt trội hơn người thường rất nhiều. Thế nên những bước chân giẫm mạnh bất cẩn của tôi đã dẫn tới một kết cục quá dễ đoán.
 
 Bàn chân lọt thỏm qua tấm ván khiến cây cầu vốn ọp ẹp bị vặn vẹo biến dạng, kéo tôi tụt xuống sát sạt mặt đầm lầy đầy hiểm nguy. Về phần Edel, nó đã nhanh nhảu phi khỏi vai tôi từ đời nào, thoăn thoắt bò dọc theo thân cầu đang rung bần bật rồi trèo tót lên bờ bên kia an toàn.
 
@@ -118,13 +118,13 @@ Gạt những suy nghĩ vẩn vơ để quay lại thực tại, tôi nhận ra 
 
 Thế nhưng cảnh tượng đập vào mắt khi tôi chìm xuống nước lại hoàn toàn trái ngược. Chẳng thể gọi đây là cảnh đẹp hay thơ mộng gì, nhưng dưới đáy sâu quả thực có sinh vật sinh sống. Mấy con quái vật dạng cá to cỡ người lớn đang há toác mồm bơi thẳng về phía tôi. Không chỉ một vài con, quanh tôi lúc này có dễ đến cả chục con như thế.
 
-Có bị lũ quái vật này rỉa thịt chắc tôi cũng chẳng chết được, mà tôi còn tự hỏi liệu thứ trên người mình có ăn nổi không nữa kia. Cứ cắn răng chịu đựng thì khéo một lúc sau chúng cũng tự bỏ đi. Thế nhưng, chút nhân tính ít ỏi còn sót lại trong tôi thấy buồn nôn trước viễn cảnh bị lũ quái vật này xơi tái.
+Có bị lũ quái vật này rỉa thịt chắc tôi cũng chẳng chết được, mà tôi còn tự hỏi liệu người mình có ăn nổi không nữa kia. Cứ cắn răng chịu đựng thì khéo một lúc sau chúng cũng tự bỏ đi. Thế nhưng, chút nhân tính ít ỏi còn sót lại trong tôi thấy buồn nôn trước viễn cảnh bị lũ quái vật này xơi tái.
 
-Tôi tuốt kiếm khỏi bao, vào thế sẵn sàng nghênh chiến lũ cá quái thai đang ập tới. May mắn thay, chân tôi lúc này đã chạm vào nền đất cứng nên có thể đứng vững mà đánh.
+Tôi tuốt kiếm khỏi bao, vào thế sẵn sàng nghênh chiến lũ cá quái dị đang ập tới. May mắn thay, chân tôi lúc này đã chạm vào nền đất cứng nên có thể đứng vững mà đánh.
 
 Tấm ván tôi giẫm thủng lúc nãy vẫn còn dính ở một bên chân, nhưng tôi cứ thế dậm mạnh nó xuống nền bùn đất để đứng cho vững. Nếu chém nát tấm ván giải thoát bàn chân thì tôi có thể bơi lội thoải mái, nhưng tôi lại quyết định trụ lại chỗ cũ, vung kiếm đập tan đòn tấn công của lũ cá.
 
-Lập tức, một con cá to xác há ngoác miệng lao bổ về phía tôi. Tôi đứng vững chân, giáng kiếm thẳng xuống đầu nó, chém đứt lìa một cách ngọt xớt. Thanh kiếm của tôi vẫn thừa độ sắc bén, dù ở dưới nước vung kiếm thấy nặng hơn trên cạn rất nhiều. Dẫu chẳng thể phát huy uy lực như trên bờ, nhưng chỉ cần truyền chút Khí Lực vào lưỡi kiếm là đã quá đủ để trảm đầu một con cá khổng lồ.
+Lập tức, một con cá to xác há ngoác miệng lao bổ về phía tôi. Tôi đứng vững chân, giáng kiếm thẳng xuống đầu nó, chém đứt gọn phần đầu lìa khỏi thân. Thanh kiếm của tôi vẫn thừa độ sắc bén, dù ở dưới nước vung kiếm thấy nặng hơn trên cạn rất nhiều. Dẫu chẳng thể phát huy uy lực như trên bờ, nhưng chỉ cần truyền chút Khí Lực vào lưỡi kiếm là đã quá đủ để chặt đầu một con cá khổng lồ.
 
 Dẫu vậy, chống đỡ bốn năm con cùng lúc vẫn có phần chật vật. Đứng chôn chân một chỗ khiến tôi rất khó bao quát mọi hướng, đã thế cử động dưới nước lại còn chậm chạp hơn hẳn.
 
@@ -132,7 +132,7 @@ Trái lại, lũ cá này vốn tiến hóa để bơi lội thoăn thoắt tron
 
 Lũ cá chẳng hơi đâu bận tâm đến nỗi ân hận hay tính toán sai lầm của tôi. Chúng quây lại từ mọi hướng, ngoạm răng vào khắp người tôi. Tôi chém một đường kiếm quét ngang, hạ gục được ba con lao tới từ phía trước, nhưng lại để hai con khác luồn ra sau lưng cắm ngập răng vào da thịt. Tôi vùng vẫy kịch liệt, vung kiếm loạn xạ để gạt chúng ra. Khổ nỗi, dưới làn nước cản trở, những cố gắng ấy chẳng mấy ăn thua.
 
-Cảm giác nguy hiểm lại ùa về; nếu không hành động nhanh, tôi có nguy cơ mất đứt bàn chân. Đang ở trong tình cảnh tính mạng bị đe dọa, đáng lẽ tôi phải thấy bất an tột độ mới phải. Không phải thực lực đã khiến tôi chủ quan, mà chính là cái cơ thể Undead bền bỉ đến nực cười này của tôi. Khéo đầu lìa khỏi cổ tôi cũng chẳng chết được, thành thử cảm nhận về sự nguy hiểm trong tôi không còn chuẩn xác và nhạy bén như thời còn sống.
+Cảm giác nguy hiểm lại ùa về; nếu không hành động nhanh, tôi có nguy cơ mất đứt bàn chân. Đang ở trong tình cảnh nguy hiểm đến tính mạng, lẽ ra ngay từ đầu tôi phải thấy lo sợ mới đúng. Không phải thực lực đã khiến tôi chủ quan, mà chính là cái cơ thể Undead bền bỉ đến nực cười này của tôi. Khéo đầu lìa khỏi cổ tôi cũng chẳng chết được, thành thử cảm nhận về sự nguy hiểm trong tôi không còn chuẩn xác và nhạy bén như thời còn sống.
 
 Thế này thì không ổn chút nào. Tôi phải sửa cái thói này mới được; ừ thì, đợi thoát khỏi cái mớ bòng bong này đã. Nghĩ vậy, tôi quyết định nghiêm túc đánh một trận ra trò.
 
@@ -150,19 +150,19 @@ Rút được một chân ra rồi, tôi xoay chuyển tư thế dễ dàng hơn
 
 Đường kiếm đã ngắm chuẩn: giờ tôi sẽ chém chết con cá đang ngoạm chân mình.
 
-Thế nhưng, ngay khi ý nghĩ đó vừa xẹt qua đầu, dường như con cá cũng đánh hơi thấy điều chẳng lành. Nó quẫy đuôi bơi vút lên trên, kéo tuột tôi theo cùng, rồi bất thần phóng vọt lên khỏi mặt nước, hất văng tôi lên bờ đất khô.
+Thế nhưng, ngay khi ý nghĩ đó vừa xẹt qua đầu, dường như con cá cũng đánh hơi thấy điều chẳng lành. Nó quẫy đuôi bơi vút lên trên, kéo tuột tôi theo, rồi bất thần phóng vọt lên khỏi mặt nước, hất văng tôi lên bờ đất khô.
 
 "Hự...!!!"
 
 Và thế là tôi đã qua được bên kia đầm lầy, dẫu cái kết là cả người đập sầm xuống đất với một tiếng bịch đầy thảm hại.
 
-Người tôi ướt như chuột lột, nước độc chảy tong tỏng xuống đất. Lạ lùng thay, chiếc áo chùng của tôi lại khô ráo một cách khó tin. Đồ tốt có khác, tôi thầm nghĩ. Hay là nó vốn chẳng hề thấm nước ngay từ đầu nhỉ... Chiếc áo chùng này cũng bí ẩn hệt như người phụ nữ đã trao nó cho tôi.
+Người tôi ướt như chuột lột, nước độc chảy tong tỏng xuống đất. Lạ lùng thay, chiếc áo choàng của tôi lại khô ráo đến khó tin. Đồ tốt có khác, tôi thầm nghĩ. Hay là nó vốn chẳng hề thấm nước ngay từ đầu nhỉ... Chiếc áo choàng này cũng bí ẩn hệt như người phụ nữ đã trao nó cho tôi.
 
 Ngó nghiêng quanh quất, tôi liền bắt gặp một bóng dáng quen thuộc: Edel, chính là con quyến thuộc đã bỏ mặc chủ nhân của nó chết chìm dưới đáy nước.
 
 "...Mày. Đang... làm cái trò gì thế hả?"
 
-Mặt của Edel... đúng hơn là cái mõm của nó, trông phồng to một cách kỳ quặc. Tôi túm lấy nó chẳng chút nương tay, đôi tay đeo găng vạch miệng nó ra, thì thấy bên trong hai má nhét đầy đủ loại quả hạch.
+Mặt của Edel... đúng hơn là cái mõm của nó, trông phồng to rất kỳ quặc. Tôi túm lấy nó chẳng chút nương tay, đôi tay đeo găng vạch miệng nó ra, thì thấy bên trong hai má nhét đầy các loại hạt.
 
 Con quyến thuộc của tôi bỏ mặc chủ nhân của nó chết chìm, chỉ để lăng xăng đi lượm lặt thức ăn quanh đó.
 

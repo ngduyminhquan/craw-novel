@@ -36,7 +36,6 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 10. **Giọng Raiz Dunner và Laura Satii (#33–38).** Raiz bộc trực, thẳng thắn, giàu năng lượng nhưng biết lắng nghe và cầu tiến; Laura Satii điềm tĩnh, nhỏ nhẹ, lễ phép và chín chắn hơn tuổi. Cả hai đối thoại tự nhiên như bạn đồng hành thân thiết ("tôi/tụi mình - cậu/Raiz/Laura"), tôn trọng Rentt chân thành nhưng bình đẳng, không "dạ/ạ" (Raiz gọi "anh / Rentt", Laura gọi "anh / anh Vivie").
 11. **Giọng Alize (#48–52).** Đứa trẻ lớn biết lo toan tại cô nhi viện; ban đầu cố nói năng trịnh trọng, giữ kẽ trước khách lạ, nhưng khi đối thoại tự nhiên thì nhanh nhẹn, bộc trực, ra dáng chị cả che chở cho đàn em nhỏ; xưng "em - anh" với Rentt, "con - sơ" với Sơ Lillian.
 12. **Liên kết tâm trí với Edel và tính cách quyến thuộc (#51–52).** Edel tuy là chuột quyến thuộc nhưng có cái tôi và chính kiến rất lớn (bướng bỉnh, háu ăn, biết dậm chân phản đối, dựng lông bất mãn). Liên kết tâm trí truyền cảm xúc và suy nghĩ trực tiếp sang Rentt; Rentt đối thoại nội tâm với con chuột như một cộng sự ngang ngạnh, bình đẳng, không áp đặt kiểu chủ tớ máy móc.
-13. **Cách nói tự giễu trước các tình huống ngặt nghèo (#54).** Khi Rentt đối mặt với các viễn cảnh nguy hiểm, bế tắc hoặc cái chết mà raw dùng từ hóm hỉnh như "options / choices" (vd: "both these options didn’t particularly appeal to me"), chuyển ngữ tự nhiên thành "hai viễn cảnh / kết cục ấy chẳng có gì hấp dẫn với tôi", tránh dịch cứng rập khuôn thành "hai lựa chọn" để giữ trọn nét hài ngầm, bình thản của nhân vật.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -63,7 +62,6 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
-- (53) Độc thoại tự sự của Rentt khi đối mặt hiểm nguy dưới đáy đầm lầy: phản xạ sinh tồn bị cùn mòn do ỷ lại vào cơ thể Undead bền bỉ quá khó chết; Rentt tự giễu về sự lười biếng và tính tham ăn của chuột quyến thuộc Edel.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.

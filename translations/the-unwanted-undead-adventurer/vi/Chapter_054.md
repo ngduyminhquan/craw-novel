@@ -1,16 +1,16 @@
 # Chương 54: Tập 2 Chương 4 - Hoa Long Huyết (7)
 
-Kỳ vọng sinh ra chắc là để bị phản bội. Một nhận xét có phần đường đột và trần trụi, thậm chí hơi nhuốm màu định mệnh; nghĩ cũng buồn thật. Nhưng tôi lúc này đâu có ở vào hoàn cảnh có thể nằm ườn trên đất mà ngẫm ngợi triết lý sự đời. Dẫu vậy, bảo tôi không thấy tuyệt vọng ngập tràn thì cũng chẳng đúng, có lẽ bởi nỗi tuyệt vọng ấy đang sừng sững cách tôi chẳng bao xa, trừng trừng nhìn vào bộ dạng ướt sũng của tôi.
+Kỳ vọng sinh ra chắc là để bị phản bội. Một nhận xét có phần đường đột và trần trụi, thậm chí hơi nhuốm màu định mệnh; nghĩ cũng buồn thật. Nhưng giờ đâu phải lúc nằm ườn trên đất mà ngẫm ngợi triết lý sự đời. Dù vậy, bảo tôi không tuyệt vọng tràn trề thì cũng chẳng đúng, có lẽ vì chính nỗi tuyệt vọng ấy đang đứng sừng sững cách tôi chẳng bao xa, nhìn chằm chằm vào bộ dạng ướt sũng của tôi.
 
-Mang trên mình lớp mai giáp như rùa cùng sáu chiếc chân lực lưỡng, nó được bao bọc bởi lớp vảy cứng cáp, thân hình mang dáng dấp loài Rồng tuy khá mộc mạc nhưng vẫn đầy vẻ uy nghi. Ánh mắt nó toát lên vẻ man dại của một sinh vật sống theo bản năng hơn là có trí khôn—đôi mắt của một loài dã thú. Phản chiếu trong đôi mắt ấy chính là hình bóng tôi, một con mồi yếu thế hơn sắp sửa bị săn đuổi và nuốt chửng.
+Nó mang trên mình chiếc mai cứng như mai rùa cùng sáu cái chân lực lưỡng, toàn thân phủ lớp vảy dày dặn, vóc dáng giống loài Rồng tuy không cầu kỳ nhưng vẫn đầy uy lực. Ánh mắt nó toát lên vẻ hung bạo hơn là có trí khôn—đôi mắt của một con dã thú. Phản chiếu trong đôi mắt ấy là bóng hình tôi, một sinh vật yếu ớt hơn sắp bị săn đuổi và xơi tái.
 
-—Một con Tarasque. Chính là loài sinh vật khởi nguồn cho cái tên của vùng đầm lầy này.
+—Một con Tarasque. Chính là loài quái vật mà vùng đầm lầy này lấy tên theo.
 
-Dù chẳng hề mong chạm mặt nó trong chuyến đi này, tôi cũng không lấy làm lạ khi rốt cuộc lại đụng độ một con. Nói đơn giản thì những đóa Hoa Long Huyết tôi đang tìm kiếm chỉ nở quanh các lối mòn và khu vực ưa thích của loài Tarasque. Muốn hoàn thành nhiệm vụ mà không chạm trán con nào thì khó ngang với bất khả thi. Có điều, nếu tinh mắt trong mấy chuyện này, người ta có thể nhận biết dấu vết của Tarasque cũng như các ký hiệu đánh dấu lãnh thổ chúng để lại nhằm cảnh cáo những quái vật khác. Tôi cũng đã cố làm như vậy—để rồi thất bại ê chề.
+Dù chẳng hề mong chạm mặt nó trong chuyến đi này, tôi cũng không lấy làm lạ khi rốt cuộc lại đụng độ một con. Nói đơn giản thì những đóa Hoa Long Huyết tôi đang tìm kiếm chỉ nở quanh các lối mòn và khu vực ưa thích của loài Tarasque. Muốn hoàn thành nhiệm vụ mà không chạm trán con nào thì khó ngang với bất khả thi. Có điều, nếu tinh mắt trong mấy chuyện này, người ta có thể nhận biết dấu vết của Tarasque cũng như dấu vết đánh dấu lãnh thổ chúng để lại nhằm cảnh cáo những quái vật khác. Tôi cũng đã cố làm như vậy—để rồi thất bại ê chề.
 
 Đúng là tình thế gay go thật...
 
-Nhìn vào tình cảnh trước mắt, tôi chẳng còn lựa chọn nào khác ngoài việc chiến đấu.
+Nhìn tình cảnh trước mắt, tôi chẳng còn cách nào khác ngoài đánh một trận.
 
 Nếu hoàn cảnh này còn có chút an ủi nào, thì đó là tôi miễn nhiễm với nọc độc của Tarasque. Thế nên tôi chỉ việc đối đầu với nó như một con quái vật thông thường, và khả năng cao là sẽ giành được phần thắng.
 
@@ -26,39 +26,39 @@ Với kích thước khổng lồ của Tarasque, bất kỳ người bình thư
 
 Tôi trụ vững tại chỗ, kiên nhẫn chờ đợi thời cơ.
 
-Vì Tarasque được bọc trong một lớp mai cứng rắn và có chiếc cổ dài linh hoạt, phương án tác chiến của tôi bị hạn chế rất nhiều. Tôi thực ra chỉ có hai lựa chọn: hoặc là tung đòn phá vỡ lớp mai của nó, hoặc là chém bay chiếc cổ tương đối mềm hơn kia.
+Tarasque có lớp mai cứng bọc quanh mình cùng chiếc cổ dài linh hoạt, nên tôi chẳng có nhiều cách đánh. Trước mắt chỉ có hai đường: hoặc là tung đòn đập vỡ mai nó, hoặc là chém bay cái cổ tương đối mềm hơn kia.
 
-Thế nhưng, chỉ riêng việc tính đến chuyện phá vỡ lớp mai của Tarasque thôi cũng đòi hỏi người ta phải có đủ sức mạnh lẫn kỹ năng, kèm theo một món vũ khí được trui rèn tinh xảo. Dù sao thì mai của nó vốn là vật liệu làm giáp trụ rất được các mạo hiểm giả Ngân Cấp hay Kim Cấp ưa chuộng.
+Có điều, muốn nghĩ tới chuyện đập vỡ mai Tarasque thì phải có đủ cả sức mạnh lẫn kỹ năng, cộng thêm một thanh vũ khí được rèn đúc tinh xảo. Dù sao thì mai của nó vốn là vật liệu làm giáp trụ rất được các mạo hiểm giả Ngân Cấp hay Kim Cấp ưa chuộng.
 
-Mai của Tarasque có thể trở thành thứ nguyên liệu tuyệt hảo, miễn là tìm được một người thợ rèn có tay nghề xứng tầm. Dụng cụ và giáp trụ chế tác từ loại vật liệu này đều sở hữu khả năng phòng ngự cực kỳ đáng nể.
+Mai của Tarasque có thể trở thành thứ nguyên liệu tuyệt hảo, miễn là tìm được một người thợ rèn có tay nghề xứng tầm. Dụng cụ và giáp trụ làm từ loại vật liệu này có sức phòng ngự cực kỳ đáng nể.
 
-Xét theo lẽ thường, đối với tôi thì việc đập vỡ lớp mai như thế là cực kỳ khó khăn. Dù tôi cũng có lựa chọn dung hợp cùng lúc cả Ma Lực, Khí Lực lẫn Thần Lực vào lưỡi kiếm... và điều đó có thể xuyên thủng lớp mai quái thú thật, song hậu quả nếu đòn đánh phản phệ khiến tôi phải gác lại ý nghĩ ấy vô thời hạn. Nếu sơ suất làm mất vũ khí theo cách đó, tôi chắc chắn sẽ mất mạng. Đó chỉ là giải pháp cuối cùng, và hy vọng tôi sẽ không bao giờ phải viện đến nó.
+Nghĩ một cách thực tế thì tôi rất khó đập vỡ nổi cái mai cứng cỡ đó. Tuy vẫn còn cách dung hợp cả Ma Lực, Khí Lực lẫn Thần Lực vào lưỡi kiếm cùng một lúc... làm thế có khi xuyên thủng được mai của nó thật, nhưng nghĩ tới hậu quả nếu chiêu này phản tác dụng là tôi dẹp ngay ý định đó. Giờ mà bất cẩn làm hỏng vũ khí kiểu ấy thì cầm chắc cái chết. Đó chỉ là giải pháp cuối cùng, mong là tôi không phải dùng đến.
 
 Thay vào đó, tôi quyết định nhắm vào cổ của con quái thú.
 
-Tôi bật nhảy lên không về phía con Tarasque đang lao tới, đáp xuống mai của nó, giữ vững thăng bằng rồi vung kiếm chém xuống cổ—dù sao thì dự tính ban đầu của tôi là thế.
+Tôi bật nhảy lên không về phía con Tarasque đang lao tới, đáp xuống mai của nó, giữ vững thăng bằng rồi vung kiếm chém xuống cổ—ít nhất thì tính toán của tôi là vậy.
 
 Keng!
 
-Kèm theo một âm vang tựa thép va vào kim loại chan chát, lưỡi kiếm của tôi nảy ngược khỏi da con Tarasque mà chẳng gây nổi một vết trầy. Nhận ra tôi đã ở trên lưng, con quái thú liền quăng mình xuống đất, lăn tròn cái thân hình đồ sộ hòng hất tôi văng ra.
+Tiếng kim loại va vào nhau vang lên chan chát, lưỡi kiếm của tôi bật ngược khỏi lớp da con Tarasque mà chẳng để lại nổi một vết trầy. Nhận ra tôi đã ở trên lưng, con quái thú liền quăng mình xuống đất, lăn tròn cái thân hình đồ sộ hòng hất tôi văng ra.
 
 Ầm!
 
-Cùng tiếng ầm ì trầm đục, con Tarasque tiếp tục lăn lộn, cày xới cả một khoảng đầm lầy xung quanh theo từng vòng xoay. Cuốn tung màn khí độc cùng bùn đất bay tứ tán, con Tarasque lùi lại nấp sau làn khói bụi này như thể muốn che khuất tầm nhìn của tôi. Một đòn tấn công đầy vẻ uy hiếp, đủ sức quật ngã bất kỳ người bình thường nào. Tiếc thay cho con thú, tôi lại chẳng mảy may bận tâm tới độc tố.
+Cùng tiếng ầm ì trầm đục, con Tarasque tiếp tục lăn lộn, cày xới cả một khoảng đầm lầy xung quanh theo từng vòng xoay. Nó khuấy tung cả một màn khí độc cùng bùn đất bắn tứ tán, rồi lùi lại nấp sau lớp màn mù mịt ấy như muốn che khuất tầm nhìn của tôi. Một đòn tấn công đầy vẻ uy hiếp, đủ sức quật ngã bất kỳ người bình thường nào. Tiếc thay cho con thú, tôi lại chẳng mảy may bận tâm tới độc tố.
 
 Đó là một đòn công thủ toàn diện; đúng là một con quái thú ranh mãnh. Nhưng với tôi, bùn độc cũng chỉ là bùn đất mà thôi. Đã vậy, tôi còn sở hữu thị lực vượt trội hơn hẳn người bình thường. Dẫu chiêu trò của nó có cản trở tầm nhìn đôi chút, tôi vẫn nhận ra hình dáng của nó đằng sau làn bùn và hơi độc đang dần lắng xuống.
 
 Một năng lực vừa kỳ lạ lại tiện lợi, thứ mà trước đây tôi chưa từng có ý thức sử dụng rõ rệt đến thế.
 
-Tin rằng bản thân có thể trông cậy vào các giác quan nhạy bén đã được tăng cường, tôi phóng mình qua cơn mưa bùn đất cùng nước đầm lầy, lao thẳng tắp về phía con Tarasque. Về phần quái thú, nó vẫn hạ thấp người, dộng mạnh mai xuống nền đất đầm lầy mềm lún nhằm ngăn cản bước tiến của tôi. Mặc dù cơn chấn động thật đáng nể, con Tarasque giờ đây lại rơi vào thế bất lợi, bởi cổ của nó lúc này đã ở sát mặt đất hơn rất nhiều. Đó là cơ hội mà tôi sẽ triệt để tận dụng. Chỉ cần ra đòn đúng thời khắc, tôi chắc chắn có thể chém bay đầu con quái thú này.
+Thấy có thể tin cậy vào các giác quan nhạy bén của mình, tôi lao vút qua cơn mưa bùn đất và nước đầm lầy, nhắm thẳng vào con Tarasque. Con quái thú vẫn ghìm thấp người, nện mạnh chiếc mai xuống nền đất lầy lội để cản bước tiến của tôi. Cơn chấn động tuy dữ dội thật, nhưng làm thế cũng đẩy con Tarasque vào thế bất lợi, vì cái cổ của nó giờ đã hạ sát mặt đất hơn hẳn. Tôi đời nào bỏ qua cơ hội ngon ăn như vậy. Chỉ cần ra đòn đúng lúc, chắc chắn tôi sẽ chặt bay được đầu nó.
 
-Tôi cho rằng chẳng còn thời điểm nào thích hợp hơn lúc này để gia tăng độ sắc bén cho thanh kiếm. Và tôi đã nghĩ ngay ra chiêu thức dành riêng cho mục đích ấy.
+Chẳng còn lúc nào thích hợp hơn lúc này để tăng độ sắc bén cho thanh kiếm. Và tôi đã có sẵn một chiêu vừa vặn cho mục đích đó.
 
 Tôi bắt đầu truyền hai luồng khí tức vào lưỡi kiếm: Ma Lực và Khí Lực. Đã đến lúc đưa chiêu thức của tôi vào thử lửa: Ma Khí Dung Hợp Thuật.
 
 Nếu không chém xuyên qua lớp mai của nó được, tôi chỉ việc nghiền nát nội tạng nó từ bên trong là xong.
 
-Dĩ nhiên, những ai thực sự tinh thông Dung Hợp Thuật sẽ có thể tập trung cả hai luồng khí tức này vào lưỡi vũ khí, đẩy độ sắc bén của nó lên mức kinh người. Tôi thì trái lại, hiện thời chưa đủ khả năng thực hiện kỳ tích như thế. Thay vào đó, tôi sẽ dựa vào sức mạnh thuần túy để đánh gục con quái thú.
+Dĩ nhiên, những người thực sự tinh thông Dung Hợp Thuật có thể hội tụ cả hai luồng khí tức này vào sát mép lưỡi kiếm, đẩy độ sắc bén lên mức kinh người. Còn tôi hiện giờ vẫn chưa làm nổi chuyện đó, đành phải lấy sức mạnh thuần túy bù vào để đánh bật con quái thú.
 
 Tôi sốc lại tinh thần, khuếch tán khí tức Khí Lực từ lưỡi kiếm ra khắp toàn thân. Nhờ lực đẩy từ luồng Khí Lực cô đọng mãnh liệt, tôi đã áp sát bên cổ con Tarasque từ lúc nào chẳng hay.
 
@@ -80,7 +80,7 @@ Mớ quẫy đạp và lăn lộn ban nãy hẳn đã chẳng hay ho gì cho tô
 
 Guồng sáu chiếc chân, con quái thú lại một lần nữa lao bổ về phía tôi, dẫu với tốc độ có phần chậm hơn trước. Nó đã bắt đầu cảnh giác, đề phòng tôi lại nhảy lên lưng nó lần nữa—thật đúng là một con quái vật đáng gờm.
 
-Không ngờ nó lại có thể học hỏi và thích nghi trong khoảng thời gian ngắn đến thế... Dù chỉ là một con thú man dại sống chết dựa vào bản năng cùng các giác quan, nhưng người ta ngỡ như nó cũng sở hữu đôi chút tư duy logic vậy. Riêng phần mình, tôi thà đối đầu với một con Tarasque ngu ngốc và cục súc còn hơn.
+Không ngờ nó lại có thể học hỏi và thích nghi trong khoảng thời gian ngắn đến thế... Dù chỉ là một con thú man dại sống chết dựa vào bản năng cùng các giác quan, nhưng nhìn vào cứ ngỡ nó cũng biết suy tính có đầu có đũa. Riêng tôi thì thà đối đầu với một con Tarasque ngu ngốc và cục súc còn hơn.
 
 Kẻ địch khôn ngoan thế này thì đành chịu vậy. Tôi phải tính kế sách mới thôi.
 
@@ -96,7 +96,7 @@ Nó chạy đi đâu rồi?
 
 Đảo mắt nhìn quanh, tôi nhanh chóng nhận ra bóng dáng của Edel đang thoăn thoắt lao như bay giữa những bàn chân của con Tarasque.
 
-Đó là một nước đi quá đỗi hiểm nguy—chỉ một bước sẩy chân, quyến thuộc của tôi sẽ bị giẫm bẹp gí! Nhưng Edel lách qua lượn lại thoăn thoắt giữa các chân của quái vật, né tránh những cú giẫm đạp điên cuồng rồi đáp gọn ghẽ lên lưng nó.
+Đó là một nước đi quá đỗi hiểm nguy—chỉ sẩy chân một bước thôi là con quyến thuộc của tôi sẽ bị giẫm bẹp dí! Nhưng Edel vẫn luồn lách thoăn thoắt giữa đám chân của con quái vật, né hết những cú giẫm đạp điên cuồng rồi nhảy tót lên lưng nó.
 
 Khá lắm đấy, chú chuột nhỏ.
 
@@ -108,15 +108,15 @@ Thế nhưng, so với con Tarasque to lớn và hung tợn kia thì Edel dẫu 
 
 "...Cái gì?!"
 
-Suýt nữa thì ngã quỵ, tôi vội gượng người lại; cảm giác cứ như thể toàn bộ sức lực trong người vừa bị rút cạn trong chớp mắt. Ngay sau đó, cơ thể của Edel bắt đầu tỏa sáng.
+Tôi loạng choạng suýt ngã quỵ, vội gượng người trụ lại; cảm giác như toàn bộ sức lực trong người vừa bị rút cạn trong chớp mắt. Ngay sau đó, cơ thể Edel bắt đầu phát sáng.
 
 Chuyện gì đang xảy ra thế này...?
 
-Tôi có thể cảm nhận được ý định của Edel. Nó đã có toan tính riêng, và tất cả những gì tôi có thể làm lúc này chỉ là đứng nhìn.
+Tôi cảm nhận được ý định của Edel. Nó đã có tính toán riêng, giờ tôi chỉ còn biết đứng nhìn.
 
 Tôi đăm đăm dõi theo cảnh tượng đang diễn ra trước mắt giữa Edel và con Tarasque.
 
-Giờ đây toàn thân như được bao phủ trong một bức màn ánh sáng, Edel chạy vút lên cổ con Tarasque, lấy đà rồi tông thẳng cả cơ thể vào vết thương hở do nhát chém trước đó của tôi để lại.
+Toàn thân Edel giờ phủ một lớp ánh sáng, nó phóng vút dọc theo cổ con Tarasque rồi lao sầm cả người vào vết thương hở do nhát kiếm vừa nãy của tôi để lại.
 
 Edel tuy to lớn hơn đồng loại, nhưng nó rốt cuộc vẫn là một con Puchi Suri. Đòn tấn công quả cảm của nó khó lòng để lại thương tích gì đáng kể lên con Tarasque.
 
@@ -126,9 +126,9 @@ Thế nhưng, trái ngược hẳn với dự đoán của tôi, con quái thú 
 
 Đó là một tiếng gầm giận dữ—sự phẫn nộ khi bị thương hai lần ở cùng một chỗ, và có lẽ là nỗi bực tức khi phải nhận một đòn từ sinh vật nhỏ bé hơn nó rất nhiều. Dẫu chỉ có Tarasque mới biết điều nào khiến nó điên tiết hơn, thì uy lực cùng chấn động từ đòn tấn công của Edel là không thể chối cãi.
 
-Vừa co giật vừa quằn quại, con Tarasque bỗng dưng quất mạnh chiếc cổ như một ngọn roi bọc vảy. Nó quét ngang lưng một đường vòng cung rộng với tốc độ mà tôi không nghĩ một con quái vật bị thương lại có thể làm được. Dường như Edel cũng chung suy nghĩ ấy khi tốc độ kinh hoàng của cú quất đã khiến nó trở tay không kịp. Quyến thuộc của tôi lập tức bị hất văng lên không trung sau một cú va đập bạo liệt.
+Vừa co giật vừa quằn quại, con Tarasque bỗng dưng quất mạnh chiếc cổ như một ngọn roi bọc vảy. Nó quét ngang lưng một đường vòng cung rộng với tốc độ mà tôi không nghĩ một con quái vật bị thương lại có thể làm được. Dường như Edel cũng chung suy nghĩ ấy khi tốc độ kinh hoàng của cú quất đã khiến nó trở tay không kịp. Quyến thuộc của tôi hứng trọn một cú quật trời giáng, bị hất văng lên không trung.
 
-Lao mình theo quỹ đạo bay của nó, tôi bật nhảy, chộp lấy chú chuột trước khi nó kịp rơi xuống đất.
+Tôi lao theo hướng nó văng đi, bật nhảy lên chộp lấy con chuột trước khi nó đập xuống đất.
 
 "...Mày. Có sao không?"
 
@@ -144,13 +144,13 @@ Dòng suy nghĩ của tôi nhanh chóng bị cắt ngang bởi một tràng gầ
 
 "Gruaaaarrgg...! Gaaarrrg! Gaaarrrgg!!!"
 
-Tiếng rống đau đớn của con Tarasque giật tôi trở về với thực tại. Dường như nãy giờ con quái thú cứ chạy vòng quanh, sức nặng từ thân hình đồ sộ đã phản lại chính nó. Nó sở hữu tốc độ đáng sợ khi lao thẳng một mạch theo một hướng, nhưng dường như lại xoay xở khi chuyển hướng không được tốt lắm. Nếu có cơ hội để tẩu thoát, thì chính là lúc này.
+Tiếng rống đau đớn của con Tarasque giật tôi trở về với thực tại. Dường như nãy giờ con quái thú cứ chạy vòng quanh, sức nặng từ thân hình đồ sộ đã phản lại chính nó. Khi lao thẳng một mạch thì tốc độ của nó rất đáng sợ, nhưng lúc cần chuyển hướng lại xoay xở khá chật vật. Nếu muốn tìm cơ hội chạy thoát thì chính là lúc này.
 
-Dù đã giãn được một khoảng cách, tôi không dám chắc việc bỏ chạy sẽ mang lại ích lợi hay là nước đi khôn ngoan. Trận chiến có thể phát triển thành một cuộc cù cưa câu giờ, đôi bên cùng chờ xem đối phương liệu có cạn kiệt thể lực trước hay không. Hay là tôi có thể câu giờ để tự chữa trị cho mình?
+Dù đã giãn được một khoảng cách, tôi không dám chắc việc bỏ chạy sẽ mang lại ích lợi hay là nước đi khôn ngoan. Trận chiến có thể phát triển thành một cuộc cù cưa câu giờ, đôi bên cùng chờ xem đối phương liệu có cạn kiệt thể lực trước hay không. Hay là tôi có thể câu giờ để tự hồi phục cho mình?
 
 Dẫu vậy, Edel thì chẳng cần nghỉ ngơi như thế. Dù sao đi nữa, đòn tấn công của Edel vào con Tarasque dường như đã để lại thương tổn nặng nề. Con quái thú không còn có thể cử động cổ thoải mái như trước nữa.
 
-Chậm rãi tiến lại gần nó, tôi chú ý thấy một làn khói đang bốc lên nghi ngút từ miệng vết thương hở của con Tarasque.
+Tôi chậm rãi tiến lại gần nó, chợt thấy một làn khói đang bốc lên từ miệng vết thương hở của con Tarasque.
 
 Chẳng lẽ Edel có khả năng phóng ra hỏa cầu? Tôi không nhớ là từng thấy chuyện như thế. Không, hiện tượng này rõ ràng là do cú tông người của nó gây ra.
 
@@ -162,17 +162,17 @@ Dù nó phát sáng, nhưng ánh sáng đó bắt nguồn từ khí tức Thần
 
 Gợi ý đắt giá đấy, chú chuột nhỏ...
 
-Xem chừng Tarasque kỵ Thần Lực hơn nhiều so với Khí Lực hay Ma Lực. Giá như tôi sử dụng khí tức Thần Lực ngay từ đầu... Những manh mối vốn dĩ đã có từ rất lâu trước khi tôi đặt chân vào đầm lầy này.
+Xem chừng Tarasque kỵ Thần Lực hơn nhiều so với Khí Lực hay Ma Lực. Giá như tôi sử dụng khí tức Thần Lực ngay từ đầu... Dấu hiệu gợi ý thực ra đã có từ lâu trước khi tôi đặt chân vào cái đầm lầy này rồi.
 
-Do môi trường sống của Tarasque, chúng rất ghét Nước Thánh, thế nên hầu hết mạo hiểm giả tới vùng đầm lầy này đều mang theo một ít để phòng thân. Người ta bảo rằng việc rưới Nước Thánh lên người có thể khiến ngay cả những con Tarasque hung dữ nhất cũng phải kiêng dè.
+Vì đặc tính môi trường sống nên loài Tarasque rất ghét Nước Thánh; hầu hết mạo hiểm giả vào vùng đầm lầy này đều mang theo một ít để phòng thân. Nghe nói chỉ cần rưới Nước Thánh lên người là ngay cả những con Tarasque hung dữ nhất cũng phải dè chừng.
 
-Nói thật thì, tôi cũng từng muốn làm điều tương tự và đã tự mua cho mình một ít Nước Thánh, nhưng đây lại là kết quả đáng buồn. Điều này không phải do bản thân thứ nước đó, mà xét về mọi mặt, có lẽ tôi đã vô tình mua phải Nước Thánh giả mất rồi. Tôi đã chi một khoản tiền kha khá để chuẩn bị cho chuyến đi này, thành thử lại bấm bụng tằn tiện ở một số món đồ dùng. Chẳng hạn như, tôi đã mua chai Nước Thánh này từ một sạp hàng ven đường có phần mờ ám—quả thực không phải lựa chọn khôn ngoan cho lắm.
+Thật ra tôi cũng định làm theo cách đó nên đã mua sẵn một ít Nước Thánh, có điều kết quả lại ra nông nỗi này. Lỗi không phải tại bản thân Nước Thánh, mà nghĩ đi nghĩ lại thì chắc tôi đã mua nhầm hàng giả mất rồi. Chuyến đi này tốn một khoản chuẩn bị kha khá, thành ra tôi lại đâm tiếc tiền, cắt giảm chi phí ở vài món đồ. Chẳng hạn như chai Nước Thánh này là tôi mua ở một sạp hàng ven đường trông khá mờ ám—đúng là một quyết định chẳng mấy khôn ngoan.
 
-Nước Thánh vốn chỉ có thể mua được từ các nhà thờ, và nó có giá rất đắt đỏ. Tôi không thực sự muốn bước chân vào bên trong một nhà thờ, chí ít là với một thân thể như hiện tại. Đó là lý do vì sao tôi lại mua bình Nước Thánh tương đối rẻ hơn này từ một lái buôn ven đường...
+Nước Thánh vốn chỉ có nhà thờ mới bán, mà giá lại rất đắt đỏ. Mang cái cơ thể như hiện tại nên tôi chẳng muốn bước chân vào nhà thờ chút nào. Bởi vậy tôi mới mua cái lọ Nước Thánh rẻ tiền hơn này từ một gã lái buôn ven đường...
 
 Đúng là tiền nào của nấy. Một bài học nhớ đời.
 
-Dù tôi từng muốn tự điều chế một lượng Nước Thánh để dùng riêng, phương pháp tinh chế lại được phía Giáo Hội bảo mật hết sức nghiêm ngặt. Những nỗ lực tạo ra Nước Thánh của tôi đều bất thành, bởi bất kỳ luồng khí tức nào truyền vào nước cũng chỉ duy trì được vài giây trước khi biến trở lại thành nước uống bình thường. Sau vài lần thử, tôi đành bỏ cuộc. Tôi cho rằng việc tạo ra nó là bất khả thi nếu không có một bí pháp đặc thù nào đó.
+Tôi cũng từng thử tự làm một ít Nước Thánh để dùng riêng, nhưng phương pháp điều chế được Giáo Hội giữ kín cực kỳ nghiêm ngặt. Mấy lần tôi thử đều thất bại, vì luồng khí tức truyền vào nước chỉ giữ được vài giây là lại tan biến, trả nó về làm nước uống bình thường. Thử vài bận không thành nên tôi đành bỏ cuộc. Xem ra không có bí pháp đặc biệt thì chẳng tài nào làm ra được.
 
 Rắc!
 
@@ -180,7 +180,7 @@ Một tiếng răng rắc chói tai kéo phắt sự chú ý của tôi trở l�
 
 Cổ của con Tarasque vẫn còn thương tích, nhưng cơ thể nó vẫn hoạt động bình thường, và con quái thú lại một lần nữa bám sát gót chúng tôi. Lần này, nó phun ra những luồng khói độc cuồn cuộn, dẫu điều đó chẳng khiến tôi phải bận lòng.
 
-Edel, con chuột lại một lần nữa đậu trên vai tôi, cũng chẳng mấy để tâm tới làn khói ấy. Đối với hai chúng tôi, nó chẳng khác gì một đám mây màu tím ấm áp. Chưa kể, hành động phun độc của nó lại tự để lộ sơ hở cho một đòn tấn công.
+Edel giờ đã quay lại đậu trên vai tôi, và nó cũng chẳng mấy để tâm tới làn khói ấy. Với hai chúng tôi, đó chẳng khác gì một đám mây màu tím ấm áp. Đã thế, lúc phun độc cũng là lúc con quái thú tự để lộ sơ hở.
 
 Tôi thấy tội nghiệp cho cây cối xung quanh, nhưng không hề chần chừ mà lao mình qua đám mây độc, nhanh chóng trồi ra ở phía bên kia. Giờ đây tôi đã ở rất gần con Tarasque—hơi quá gần so với mức dễ chịu của nó, nếu nhìn vào nỗ lực rút lui đầy hoảng loạn của quái thú.
 
@@ -188,12 +188,12 @@ Không quá khó để tôi hiểu được cảm giác của nó. Tôi đồ r�
 
 Dù sao thì, tôi cũng nên dứt điểm trận này thôi. Không giống như nhát chém nửa vời trước đó, giờ tôi sẽ tung ra một đòn kết liễu.
 
-Tôi tập trung khí tức Thần Lực, bao bọc nó quanh thanh kiếm của mình. Phản ứng với bầu không khí độc hại xung quanh, vũ khí của tôi phát ra ánh sáng vàng lam mờ ảo, làn sương tím vây quanh tôi nhanh chóng dạt ra. Với tầm nhìn xung quanh đã thoáng đãng trở lại, tôi trông thấy một đường tấn công thông suốt nhắm thẳng tới cổ con Tarasque.
+Tôi hội tụ khí tức Thần Lực, phủ quanh thanh kiếm của mình. Thanh kiếm lập tức phản ứng với bầu không khí độc hại xung quanh, tỏa ra ánh sáng vàng lam nhàn nhạt đẩy lùi làn sương tím đang bủa vây. Tầm nhìn thoáng đãng trở lại, tôi thấy ngay một đường lao tới thẳng tắp nhắm vào cổ con Tarasque.
 
 Tôi phóng mình lên—
 
-Bằng một nhát chém duy nhất đầy quyết đoán, tôi giáng đòn vào chiếc cổ vốn đã mang thương tích của con Tarasque. Dưới ánh sáng từ khí tức Thần Lực của tôi, những chiếc vảy của con quái thú tan chảy và biến dạng. Không giống như những nỗ lực hạ sát quái thú bằng Ma Khí Dung Hợp Thuật, lưỡi kiếm được truyền Thần Lực của tôi cắt ngọt qua da thịt Tarasque mà không phát ra một tiếng động. Sự kháng cự từ lớp thịt mềm của nó chẳng khác nào những quái vật hạ cấp mà tôi từng chạm trán. Đây quả là một phát hiện thú vị...
+Tôi vung một nhát kiếm dứt khoát, chém thẳng vào chiếc cổ đã bị thương của con Tarasque. Dưới ánh sáng từ khí tức Thần Lực, lớp vảy của con quái thú tan chảy và biến dạng. Khác hẳn với lúc tôi dùng Ma Khí Dung Hợp Thuật, lưỡi kiếm truyền Thần Lực lướt ngọt qua da thịt Tarasque mà không phát ra lấy một tiếng động. Lớp thịt mềm của nó chẳng cản được lưỡi kiếm là bao, cảm giác chẳng khác gì khi chém lũ quái vật hạ cấp tôi từng gặp. Đúng là một phát hiện thú vị...
 
 Con Tarasque ra sức giãy giụa dữ dội. Nó toan thoát khỏi lưỡi kiếm rực cháy lúc này đang trên đà tách rời cái đầu khỏi phần còn lại của cơ thể nó. Nhưng tôi đời nào để chuyện đó xảy ra.
 
-Với một luồng sức mạnh bộc phát cuối cùng, tôi ấn mạnh lưỡi kiếm xuyên thấu qua cổ con quái thú, nghiến qua cả vảy, thịt, xương cùng mọi thứ. Bằng một tiếng thịch trầm đục, cái đầu của con Tarasque rơi phịch xuống đất.
+Tôi dồn sức vào một cú đẩy cuối cùng, ấn mạnh lưỡi kiếm cắt xuyên qua cổ con quái thú, đứt ngọt cả vảy, thịt lẫn xương. Một tiếng thịch trầm đục vang lên, cái đầu của con Tarasque rơi phịch xuống đất.

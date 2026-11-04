@@ -113,4 +113,3 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#264) Thành ngữ "not have a leg to stand on": dịch là "chẳng có lý lẽ nào để chống chế / bào chữa", tránh dịch thô thành "chẳng có lý lẽ nào để đứng vững".
 - (#28, #30) Tránh dùng từ ngữ kinh tế/tài chính hiện đại trong bối cảnh kỳ ảo trung cổ: "on one's tab" tại quán rượu dịch là "ghi nợ vào sổ / ghi nợ" (tránh dịch là "ghi nợ vào tài khoản"); "trade and industry" dịch là "thương mại và sản xuất / chế tác" (tránh dịch là "công nghiệp").
 - (#40) Thành ngữ "make a/one's move on [someone]": trong ngữ cảnh tình cảm/trêu ghẹo dịch là "cưa cẩm / tán tỉnh", tránh dịch máy thô thành "ra tay" gây hiểu lầm sang hành hung/bạo lực.
-- (#53) Tránh dùng từ ngữ hành chính, công nghiệp hiện đại như "cơ sở hạ tầng", "tiến trình", "dự án" trong bối cảnh kỳ ảo trung cổ: "elements of infrastructure" dịch là "công trình tiện ích / công trình"; "work on the project" dịch là "cắm chốt thi công / làm công việc đó".
