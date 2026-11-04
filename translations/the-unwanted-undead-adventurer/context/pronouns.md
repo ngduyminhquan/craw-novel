@@ -150,7 +150,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Laura Satii | Raiz Dunner | tôi | Raiz | 33 | Cặp đôi mạo hiểm giả thân quen |
 | Raiz Dunner | Sheila Ibarss | tôi | chị / cô | 38 | Tân binh lễ phép với nhân viên tiếp tân Hội |
 | Laura Satii | Sheila Ibarss | tôi | chị / cô | 38 | Tân binh lễ phép với nhân viên tiếp tân Hội |
-| Sheila Ibarss | Lorraine Vivie | tôi | cô Vivie | 40 | Tiếp tân viên Hội xưng hô lịch sự với học giả danh tiếng |
+| Sheila Ibarss | Lorraine Vivie | tôi | cô Vivie / cô Lorraine (theo raw: Miss Vivie / Miss Lorraine) | 40 | Tiếp tân viên Hội xưng hô lịch sự với học giả danh tiếng |
 | Lorraine Vivie | Sheila Ibarss | tôi | cô | 40 | Học giả tiếp đón tiếp tân viên Hội đến nhà |
 | Rentt Faina | Ryuntus | tôi | cậu | 45 | Nhận ủy thác và trao đổi với người thuê |
 | Ryuntus | Rentt Faina | tôi | anh Rentt / ngài | 45 | Người thuê tôn trọng và nhờ cậy mạo hiểm giả |
