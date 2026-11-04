@@ -278,7 +278,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | reviewed |  |
 | 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | reviewed |  |
 | 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | reviewed |  |
-| 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | todo |  |
+| 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | done |  |
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | todo |  |
 | 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | todo |  |
 | 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -933,3 +932,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#271] Tiêu đề ngoại truyện 'Vol 11 Bonus - Maalt’s Fortune Teller' — tạm dịch 'Ngoại truyện Tập 11 - Thầy Bói Maalt' (phương án khác: 'Ngoại truyện Tập 11 - Thầy Bói Của Maalt', 'Ngoại truyện Tập 11 - Thầy Bói Thị Trấn Maalt'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 11 - Thầy Bói Maalt'. → Giữ 'Ngoại truyện Tập 11 - Thầy Bói Maalt'. (orchestrator)
 - [#271] Xưng hô giữa Rentt Faina và người thầy bói bí ẩn — tạm chọn thầy bói xưng 'tôi', gọi 'cậu', Rentt xưng 'tôi', gọi 'anh' theo văn phong fantasy đời thường bí ẩn (phương án khác: thầy bói xưng 'ta', gọi 'ngươi'). Tạm dùng trong bản dịch: 'tôi - cậu' và 'tôi - anh'. → Giữ thầy bói xưng 'tôi', gọi 'cậu'; Rentt xưng 'tôi', gọi 'anh' (hợp giọng lịch thiệp bí ẩn trong raw: 'Indeed I am', 'If I may ask for but one thing...'). (orchestrator)
 - [#272] Tiêu đề "An Increase in Saints and the Return to Maalt (1)" dịch là "Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (1)" (đã tạm dùng) hay "Tập 12 Chương 1 - Thêm Thánh Giả và Trở Về Maalt (1)"? → Giữ "Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (1)" cho toàn bộ các chương thuộc Tập 12 Chương 1 (#272–274). (orchestrator)
+- [#274] Dịch tên ma pháp 'Compression' — tạm chọn 'Áp Súc' theo quy tắc dịch tên kỹ năng Hán Việt viết hoa trong rules.md (phương án khác: 'Nén Ép', hoặc giữ nguyên 'Compression'). → Giữ 'Áp Súc' theo quy tắc dịch tên kỹ năng/ma pháp tiếng Anh sang Hán Việt viết hoa trong rules.md. (orchestrator)
+- [#274] Dịch tên ma pháp cổ đại 'Daḡata' — tạm giữ nguyên phiên âm 'Daḡata' theo quy tắc giữ nguyên câu thần chú/cổ ngữ ma pháp trong rules.md (phương án khác: dịch nghĩa). → Giữ nguyên phiên âm 'Daḡata' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp trong rules.md. (orchestrator)

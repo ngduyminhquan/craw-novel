@@ -1622,4 +1622,11 @@ Nửa đêm không ngủ được, Rentt đi dạo một mình trên đường p
 Sáng hôm sau tại phòng ăn quán trọ, một mạo hiểm giả trung niên coi thường chế giễu Rentt vì quê mùa từ Maalt đến bị côn đồ đánh tơi tả; Augurey xuất hiện cảnh báo rằng Rentt mạnh hơn anh nhiều khiến người kia sợ hãi dập đầu xin lỗi, rồi Lorraine nén ma lực đe dọa dạy cho gã một bài học nhớ đời.
 Cảnh kết thúc: Người đàn ông trung niên run rẩy trở về chỗ ngồi dùng bữa sáng, trong khi Rentt thầm nghĩ Lorraine đã hơi làm quá tay.
 
+## 274
+Rentt kể chi tiết vụ việc bị tên Ma Cà Rồng bí ẩn tập kích đêm qua cho Lorraine và Augurey nghe; Lorraine suy đoán kẻ địch đã dùng ma cụ hoặc ma pháp làm mờ nhận thức để che giấu danh tính, đồng thời khuyên anh tích cực rèn luyện Thần Lực và thảo luận về các ma pháp hệ nén ép tương tự như Áp Súc hay ma pháp cổ đại Daḡata.
+Chia tay Augurey với lời hẹn tái ngộ và cùng nâng cao thực lực, Rentt cùng Lorraine và chàng thanh niên đánh xe của Gia tộc Latuule ra cổng thành vương đô đợi đón Tổng Hội Trưởng Jean Seebeck; trước đó Rentt đã gửi tin nhắn qua mạng lưới Hội để báo cho Nive biết về tên Ma Cà Rồng kia.
+Jean Seebeck xuất hiện trong bộ trang phục giản dị nhưng yểm ma cụ phòng hộ tối tân; ông hối hả giục cả nhóm nhanh chóng lên đường trốn tránh đoàn tùy tùng của Hội đang ráo riết truy tìm để có thể tận hưởng chuyến "nghỉ dưỡng" tại Maalt.
+Cảnh kết thúc: Cỗ xe ngựa lăn bánh rời vương đô trong khi Jean cười khúc khích vẫy chào đám nhân viên qua khe rèm cửa sổ, khiến Rentt không khỏi cảm thấy bất an trong lòng.
+
+
 
