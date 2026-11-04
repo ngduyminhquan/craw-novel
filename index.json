@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T03:26:27Z",
+  "generatedAt": "2026-11-04T03:34:20Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3593,6 +3593,12 @@
           "title": "Chương 240: Tập 10 Chương 4 - Đến Nơi (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_240.md",
           "sha": "c8d840cb4c0b9e3f11911e8d70aba5dd2b51a378"
+        },
+        {
+          "number": 241,
+          "title": "Chương 241: Tập 10 Chương 5 - Món Quà Cảm Ơn của Cô Thôn Nữ (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_241.md",
+          "sha": "6f3a71fecb824ec0a55d1cd4784c5e49831c0de8"
         }
       ]
     },

@@ -1419,6 +1419,12 @@ Tới nhà Ferrici ở rìa làng, cha của cô (Leo) và mẹ (Lenora) hớt h
 Augurey vội vàng thanh minh và sau nửa giờ giải thích, hiểu lầm được tháo gỡ; gia đình Ferrici vô cùng biết ơn Augurey vì đã tha mạng cho cô và đối xử tử tế thay vì trừng phạt hay tống tiền thường dân.
 Sau khi tiễn Augurey, cha mẹ Ferrici bàn nhau sẽ chuẩn bị một phần đồ ăn tươi ngon gửi tặng nhóm mạo hiểm giả mang theo làm quà cảm ơn trước khi họ rời làng; Ferrici tự dặn lòng dậy sớm để không bị ngủ quên.
 
+## 241
+Sáng sớm, nhóm Rentt chuẩn bị trang bị và cất đồ đạc vào túi ma thuật rời quán trọ; ba người rà soát lại kế hoạch ba nhiệm vụ tại Hồ Petorama gồm bắt sống Aqua Hathur bằng lưới ma pháp của Lorraine, thu thập bùn/đất sét của Golem Luteum và lấy lanh Phi Long.
+Trước khi xuất phát, Ferrici đuổi theo tặng nhóm giỏ thức ăn tươi ngon do cha mẹ chuẩn bị; vô cùng biết ơn vì nhóm đã tha mạng cho cô và dân làng, Ferrici ngỏ ý tiết lộ bí quyết vượt qua bãi sinh sản của Phi Long Mime và được nhóm tuyên thệ giữ kín.
+Cảnh kết thúc: Đến bờ Hồ Petorama ngắm cảnh tượng hàng nghìn Phi Long Mime làm tổ trên những tảng đá lơ lửng nhờ Ma Tinh, Rentt quay sang Ferrici đang nấp bên cạnh hỏi thăm an toàn, nhận ra phương pháp giúp nhóm lẻn qua an toàn chính là sự có mặt của cô bé.
+
+
 
 
 
