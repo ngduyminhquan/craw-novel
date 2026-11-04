@@ -1,60 +1,60 @@
 # Chương 5: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (4)
 
-Phải tới sau khi tiêu diệt con Slime thứ năm trong ngày hôm đó, tôi mới bắt đầu nhận thức được những biến chuyển bên trong cơ thể mình. Dù sau đó tôi đã chủ động lùng sục và chiến đấu với vô số quái vật khác, có vẻ như lần chạm trán và hạ gục con Slime đầu tiên hoàn toàn không phải là do ăn may. Toàn bộ lũ Slime tôi đụng độ sau đó đều bỏ mạng theo cùng một kịch bản.
+Mãi đến khi hạ xong con Slime thứ năm trong ngày, tôi mới bắt đầu nhận ra cơ thể mình có gì đó đổi khác. Kể từ dạo ấy, dù tôi đã lùng sục và chiến đấu với không ít quái vật khác, có vẻ việc tôi hạ được con Slime đầu tiên hoàn toàn chẳng phải do ăn may. Lũ Slime tôi đụng phải sau đó đều mất mạng y như thế.
 
-Sức mạnh của tôi đang nhanh chóng vượt qua ngưỡng mà tôi từng đạt được khi còn sống.
+Sức mạnh của tôi đang tăng tiến nhanh chóng, vượt qua cả mức lúc tôi còn sống.
 
-Khi còn là một mạo hiểm giả Hạ Đồng Cấp, dẫu có khổ luyện đến đâu tôi cũng chẳng cảm thấy bản thân tiến bộ được chút nào. Nói đúng hơn, tôi dường như không hề nhích thêm được một bước. Vậy mà giờ đây, tôi lại đang mạnh lên sau khi đã chết. Tôi không dám chắc mình nên vui hay nên buồn trước bước phát triển này, dù sao thì nó vẫn tốt hơn nhiều so với việc cứ mãi giậm chân tại chỗ trong vô vọng.
+Thời còn là mạo hiểm giả Hạ Đồng Cấp, dẫu có khổ luyện đến đâu tôi cũng chẳng thấy mình tiến bộ được chút nào. Thực ra, tôi gần như không nhích thêm được phân nào thì đúng hơn. Vậy mà giờ đây, sau khi chết rồi, tôi lại đang mạnh lên. Tôi chẳng biết mình nên vui hay nên buồn trước chuyện này nữa, dẫu sao thì nó vẫn tốt hơn nhiều so với cảnh cứ giậm chân tại chỗ mãi không thôi.
 
-Dù chẳng biết liệu mình có lại chạm phải trần giới hạn ở đâu đó nếu cứ tiếp tục tăng tiến với tốc độ này hay không, tôi gạt phắt những suy nghĩ ấy ra khỏi đầu. Thay vào đó, tôi quyết định tập trung vào việc mình có thể làm vào lúc này—tiếp tục chiến đấu.
+Dù chẳng biết nếu cứ tăng tiến với tốc độ này thì đến lúc nào mình lại chững lại, tôi vẫn gạt phắt những suy nghĩ ấy sang một bên. Thay vào đó, tôi quyết định tập trung vào việc mình có thể làm lúc này: tiếp tục chiến đấu.
 
-Sau khi giao chiến và hạ gục thêm mười con quái vật nữa, tôi cảm nhận được một cảm giác kỳ lạ trào dâng từ sâu thẳm bên trong—một thứ cảm giác xa lạ mà tôi chưa từng trải qua cho đến tận lúc này. Nó hoàn toàn không hề khó chịu. Nếu có gì, nó giống như một thứ gì đó đang bừng trào và nảy nở từ tận đáy lòng tôi.
+Sau khi đánh bại thêm mười con quái vật nữa, tôi thấy một cảm giác kỳ lạ trào dâng từ sâu bên trong—thứ cảm giác gần như xa lạ mà trước giờ tôi chưa từng nếm trải. Nó chẳng hề khó chịu chút nào. Nói đúng hơn, nó giống như có thứ gì đó đang trỗi dậy mạnh mẽ từ tận sâu trong tôi.
 
-Tuy nhiên, với bản tính cẩn trọng cố hữu, tôi đã cố hết sức kìm nén và kháng cự lại nó. Rốt cuộc, mọi nỗ lực của tôi đều trở nên vô ích.
+Thế nhưng, vốn tính cẩn thận, tôi vẫn cố hết sức kìm nén và chống lại nó. Rốt cuộc, mọi nỗ lực đều trở nên vô ích.
 
-Những âm thanh răng rắc chậm rãi vang lên khắp cơ thể tôi, rồi ngày một lớn dần khi toàn thân tôi chìm trong một luồng sáng ấm áp.
+Tiếng răng rắc khe khẽ vang lên khắp người tôi, rồi cứ thế lớn dần khi toàn thân chìm trong một luồng sáng ấm áp.
 
 Chuyện gì đang xảy ra thế này...?
 
-Đó là ý nghĩ duy nhất tâm trí tôi kịp xử lý trước khi một điều không tưởng khác diễn ra ngay trước mắt—những thớ thịt khô quắt, teo tóp bắt đầu xuất hiện quanh những khúc xương trắng toát trên cơ thể tôi. Như thể muốn che đi sắc trắng nhợt nhạt của xương cốt, lớp thịt tiếp tục lan rộng, rồi bao bọc lấy toàn bộ khung xương của tôi.
+Đầu óc tôi mới kịp nghĩ được chừng đó thì một chuyện kỳ lạ khác lại diễn ra ngay trước mắt: những thớ thịt khô quắt, teo tóp bắt đầu mọc ra quanh những khúc xương trắng toát trên người tôi. Như muốn che đi sắc trắng chói mắt của xương cốt, lớp thịt tiếp tục bò lan, rồi bọc kín toàn bộ khung xương.
 
-Chính là nó rồi—tôi có thể cảm nhận được điều đó. Mong ước của tôi đã trở thành hiện thực—
+Đúng là nó rồi—tôi cảm nhận được. Mong ước của tôi đã thành hiện thực—
 
 Đây chính là Tiến Hóa Bản Thể.
 
-Đó là điều đang diễn ra ngay tại thời khắc này.
+Đó chính là điều đang diễn ra ngay lúc này.
 
-Tôi tiếp tục dòng độc thoại nội tâm khi hiện tượng ấy vẫn tiếp diễn, chầm chậm lan ra khắp các phần còn lại của cơ thể. Lớp thịt màu nâu xám, khô cằn đến mức khiến tôi hoài nghi liệu huyết quản bên trong có còn sót lại chút ẩm ướt nào hay không, bắt đầu sinh sôi và bọc lấy hai tay, hai chân, cùng mọi ngóc ngách mà nó có thể bám vào.
+Tôi vẫn mải miết độc thoại trong đầu trong khi hiện tượng biến đổi ấy chầm chậm lan ra khắp cơ thể. Lớp thịt màu nâu, khô cằn đến mức khiến tôi nghi ngờ liệu trong huyết quản có nổi một giọt ẩm nào hay không, bắt đầu mọc ra và quấn lấy hai tay, hai chân cùng bất cứ chỗ nào có thể bám vào.
 
-Dù cho đến tận lúc nãy tôi vẫn chỉ là một bộ xương khô, cuối cùng tôi cũng đã được ban tặng da thịt...!
+Vừa lúc nãy còn là một đống xương, thế mà cuối cùng tôi cũng có được da thịt...!
 
-Sau một thoáng, hiện tượng ấy dừng lại. Để cho chắc ăn, tôi quyết định kiểm tra lại những bề mặt xương xẩu giờ đây đã biến mất của mình.
+Một lát sau, hiện tượng biến đổi dừng lại. Để cho chắc, tôi quyết định kiểm tra lại cơ thể nay đã không còn trơ xương của mình.
 
-Đúng như dự đoán, da thịt đã bám chặt vào các chi của tôi—những chi thể mà cho tới tận vừa rồi vẫn chỉ là những que xương trắng toát.
+Đúng như dự đoán, thịt đã bám chắc vào chân tay tôi—những nơi mà mới vừa rồi vẫn chỉ là những que xương trắng toát.
 
-Thế nhưng, lớp thịt này còn cách rất xa so với hình dáng của tôi hồi còn làm người. Trước hết, trông nó chẳng khác nào những mảng màu nâu mỏng tanh, khô khốc bọc căng trên những khúc xương trắng trước kia. Đã vậy, lớp thịt mới có này cũng chẳng che chắn khung xương cho kín kẽ—những mẩu xương trắng vẫn lốm đốm lộ ra dưới lớp màng nâu bao phủ.
+Thế nhưng, lớp thịt này khác một trời một vực so với hồi tôi còn làm người. Trước hết, trông nó chẳng khác nào những mảng mỏng màu nâu khô khốc căng bọc lấy những khúc xương trắng lúc trước. Đã thế, lớp thịt mới có này cũng chẳng che chắn khung xương cho kín kẽ: những mẩu xương trắng vẫn lốm đốm lộ ra dưới lớp màng nâu bao phủ.
 
-Tôi cảm thấy mình như một đống xương bị dán bừa bãi vài miếng thịt lên trên. Nếu tôi mò lên khỏi mê cung trong hình hài này, lũ sói, chó và những loài tương tự chắc chắn sẽ coi tôi như một món ăn vặt ngon lành. Có khi tôi bị ăn thịt mất.
+Tôi thấy mình chẳng khác gì một đống xương bị dán bừa vài miếng thịt lên trên. Nếu tôi bò lên khỏi mê cung trong hình hài này, lũ sói, chó hay mấy loài tương tự hẳn sẽ coi tôi là món ăn nhẹ ngon lành. Có khi lại bị xơi tái không chừng.
 
-Trong khi cơ thể ra nông nỗi này, việc thiếu một tấm gương lại một lần nữa buộc tôi phải suy đoán rằng khuôn mặt mình cũng chẳng khá khẩm hơn là bao. Tuy nhiên, tôi lại rất quen thuộc với một loài quái vật mang diện mạo thế này. Những mẩu thịt khô bám víu vào xương cốt—không gì khác ngoài một con Ngạ Quỷ.
+Thân mình đã ra nông nỗi này, lại thêm không có gương soi, tôi đành đoán mặt mũi mình cũng y như vậy. Có điều, tôi biết rất rõ một loài quái vật mang diện mạo thế này. Vài mẩu thịt khô dính trên khung xương—chẳng đâu xa lạ ngoài Ngạ Quỷ.
 
-Giờ đây tôi chắc chắn đã là một con Ngạ Quỷ, mục tiêu tiến hóa ban đầu mà tôi nhắm tới.
+Giờ thì tôi đích thị đã là một con Ngạ Quỷ, mục tiêu ban đầu trên con đường tiến hóa của mình.
 
-Nếu trí nhớ không phản bội tôi, Ngạ Quỷ trông như những con người bị lột sạch da: với vài mảng thịt rách rưới vẫn dính trên xương, cùng những mẩu xương lộ ra lấp ló qua các thớ cơ. Trông chúng cũng hết sức... khô khốc.
+Theo như tôi nhớ, Ngạ Quỷ trông chẳng khác gì người bị lột sạch da: vài mảng thịt rách rưới dính vào xương, còn xương thì lấp ló lộ ra sau những thớ cơ. Trông chúng cũng hết sức... khô khốc.
 
-Nói cách khác, trông tôi gớm ghiếc tột cùng—nhưng dĩ nhiên rồi, làm sao một cái xác khô lại có thể ưa nhìn cho được. Tôi là một quái vật Undead. Rõ ràng là chẳng ai thèm thích một hình thù như vậy, nói gì đến chuyện khao khát biến thành thứ tương tự. Thế nhưng đối với tôi, đây đã là một bước tiến khổng lồ, đơn giản chỉ vì trên xương cốt của tôi giờ đây đã có da thịt.
+Nói cách khác, trông tôi gớm ghiếc vô cùng—nhưng dĩ nhiên, một cái xác khô thì làm sao ưa nhìn cho nổi. Tôi là một quái vật Undead cơ mà. Ai đời lại đi thích cái hình hài này, nói gì đến chuyện ước ao biến thành nó. Thế nhưng với tôi, đây đã là một bước tiến khổng lồ, đơn giản vì trên xương cốt giờ đã có da thịt.
 
-Trải qua Tiến Hóa Bản Thể, giờ tôi đã nhận thức được một điều rằng mình hoàn toàn có thể tiếp tục leo cao hơn trên nấc thang phân cấp quái vật nếu tiếp tục nỗ lực. Đó là một sự thật rất đáng để ăn mừng.
+Tận mắt trải qua Tiến Hóa Bản Thể, tôi nhận ra chỉ cần tiếp tục cố gắng, mình hoàn toàn có thể leo cao hơn nữa trên thang bậc quái vật. Đó quả thực là điều đáng để ăn mừng.
 
-Quái vật Undead nói riêng lại càng trông giống người hơn khi leo lên những nấc thang cao hơn. Chẳng hạn, nếu tôi có thể trở thành một Ma Cà Rồng—tồn tại ở bậc cao hơn hẳn Ngạ Quỷ—tôi về cơ bản sẽ không thể phân biệt được với một con người bình thường, và khi đó tôi sẽ có thể đi lại trên đường phố Maalt mà không gặp bất kỳ trở ngại nào.
+Riêng với quái vật Undead, bậc tiến hóa càng cao thì trông lại càng giống người. Chẳng hạn, nếu tiến hóa được thành Ma Cà Rồng—tồn tại ở bậc cao hơn Ngạ Quỷ rất nhiều—thì về cơ bản trông tôi sẽ chẳng khác gì người bình thường, lúc đó muốn đi lại trên đường phố Maalt cũng chẳng gặp chút trở ngại nào.
 
-Với hình hài hiện tại, điều tốt nhất tôi có thể xoay xở có lẽ là lẻn vào thị trấn—tôi vẫn chưa thể tự do đi lại công khai. Dẫu vậy, tôi vốn quen mặt với đám lính gác cổng của Maalt. Nếu xử lý khéo léo, tôi có thể ra vào theo ý muốn.
+Còn với hình hài hiện tại, giỏi lắm tôi cũng chỉ có thể lén lút mò vào thị trấn, chứ đừng mong đi lại nghênh ngang. Có điều, tôi vốn nhẵn mặt đám lính gác cổng ở Maalt. Nếu khéo léo xoay xở, khéo tôi vẫn có thể tự do ra vào theo ý mình.
 
-Nhưng dĩ nhiên rồi. Dù phần lớn chỉ là thịt khô, hiện tại tôi đã có một cơ thể thực thụ, và vì thế có một việc quan trọng mà tôi rất muốn thử.
+Dĩ nhiên rồi. Dù phần lớn chỉ là thịt khô, nhưng giờ tôi đã có da thịt đàng hoàng, và có một việc quan trọng tôi rất muốn thử.
 
 "...OA... OAAA..."
 
-Tôi dũng cảm thử đẩy luồng khí qua cổ họng xem liệu mình có thể nói được hay không. Có vẻ như việc phát ra chút âm thanh ít nhất vẫn nằm trong khả năng.
+Tôi ra sức đẩy hơi qua cuống họng xem có nói được không. Xem chừng ít nhất việc phát ra âm thanh vẫn nằm trong khả năng.
 
 "HE... HEEH... VVO... HEH... VO. OOD... MOV... NINV... GGGUH... HEH... VVO..."
 
@@ -62,44 +62,44 @@ Tôi dũng cảm thử đẩy luồng khí qua cổ họng xem liệu mình có 
 
 ...
 
-Không ổn. Thế này thực sự không xong chút nào.
+Không ổn. Thế này thì chẳng ăn thua chút nào.
 
-Dù nhận thấy bản thân đã có thể cất tiếng, tôi hoàn toàn không thể nói năng trôi chảy—hoặc chí ít là nói cho gãy gọn, rõ ràng. Tôi đoán mình sẽ cần phải luyện tập thêm.
+Tuy đã có thể cất tiếng, nhưng tôi tuyệt nhiên không nói năng trôi chảy được, nói gì đến chuyện rành mạch rõ ràng. Xem ra sẽ phải luyện tập thêm rồi.
 
-Mặt khác, tôi vẫn chuộng trạng thái này hơn nhiều so với một con Khô Lâu câm nín chỉ biết phát ra những tiếng lách cách. Với điều này, tôi sẽ có thể đạt được sự thấu hiểu lẫn nhau với bất kỳ người nào bước vào mê cung... Hoặc chí ít tôi hy vọng là vậy.
+Dẫu vậy, thế này vẫn khá hơn chán vạn so với hồi làm Khô Lâu, câm như hến và chỉ biết khua xương lách cách. Có được tiếng nói, tôi mới mong giãi bày cho bất cứ ai bước vào mê cung hiểu được... Hoặc chí ít là tôi hy vọng thế.
 
-Tất nhiên, điều kiện tiên quyết là người mà tôi trò chuyện cùng không đến mức hoảng sợ tột độ trước tôi.
+Dĩ nhiên, đấy là với điều kiện người ta không sợ tôi đến mức mất vía.
 
-Trong lúc tôi còn đang mải cân nhắc các khả năng, một âm thanh va chạm kim loại chói tai cắt ngang dòng suy nghĩ. Nghe như thể có ai đó đang giao chiến với quái vật ở một khoảng cách khá xa, bởi đó rõ ràng là tiếng kiếm chém vào một bề mặt cứng rắn.
+Trong lúc tôi còn đang mải nghĩ ngợi lan man, một tiếng kim loại va nhau chan chát chợt cắt ngang dòng suy nghĩ. Nghe như có ai đó đang đánh nhau với quái vật ở tít đằng xa, bởi đó rõ ràng là tiếng lưỡi kiếm chém vào một bề mặt cứng.
 
-Giống như phần lớn quái vật tôi đã tiêu diệt từ trước đến nay, tầng này không có gì ngoài lũ quái vật yếu ớt, lại càng không có con nào có thể phát ra âm thanh kim loại. Chỉ riêng từ thực tế đó, người ta đã có thể suy ra rằng âm thanh bất thường kia đến từ một mạo hiểm giả—chẳng còn khả năng nào khác.
+Tầng này vốn chỉ toàn lũ quái vật yếu ớt như mấy con tôi vừa hạ từ nãy tới giờ, lấy đâu ra con nào phát ra được tiếng kim loại. Chỉ bấy nhiêu thôi cũng đủ biết âm thanh bất thường kia là do mạo hiểm giả tạo ra—chẳng còn khả năng nào khác.
 
-Âm thanh này... Một con người còn sống đang ở đây! Tim tôi đập thót một nhịp trước ý nghĩ đó.
+Âm thanh này... Có một con người còn sống đang ở đây! Nghĩ tới đó, tim tôi bất giác hẫng đi một nhịp.
 
-Tính đến nay, tôi mới chỉ sống hơn một ngày trong mê cung này. Thế nhưng, phần lớn thời gian ấy lại dùng để đơn độc chiến đấu với quái vật thâu đêm suốt sáng. Nghĩ lại thì điều này cũng hoàn toàn dễ hiểu.
+Tính ra, tôi mới ở trong mê cung này được hơn một ngày. Thế nhưng phần lớn thời gian ấy, tôi chỉ thui thủi một mình chiến đấu với quái vật suốt cả đêm. Nghĩ lại thì chuyện cũng dễ hiểu.
 
-Từ trước đến giờ, tôi luôn tiến vào mê cung vào ban ngày và trở về Maalt vào buổi tối để ăn uống. Thế rồi chưa kịp hiểu chuyện gì, tôi đã biến thành một con Khô Lâu, và chẳng thể nhìn thấy chút hy vọng le lói nào cho tương lai của mình. Cứ như thế, tôi miệt mài hạ sát quái vật trong mê cung—có lẽ việc tôi khao khát hơi ấm đồng loại cũng là lẽ tự nhiên mà thôi.
+Trước đây, tôi toàn vào mê cung lúc ban ngày rồi tối lại trở về Maalt kiếm cái ăn. Đùng một cái, tôi biến thành Khô Lâu, tương lai mịt mù không thấy nổi một tia hy vọng. Cứ thế, tôi cắm đầu chém giết quái vật dưới mê cung—bảo sao tôi lại chẳng thèm hơi người cho được.
 
-Tôi muốn nói chuyện với một ai đó, bất kỳ ai cũng được. Nếu ở đây có một mạo hiểm giả, thì gặp mạo hiểm giả cũng chẳng sao.
+Tôi muốn nói chuyện với một ai đó, ai cũng được. Nếu đằng kia là một mạo hiểm giả, thì mạo hiểm giả cũng được tuốt.
 
-Dẫu vậy, tôi nhanh chóng lấy lại bình tĩnh sau cơn phấn khích. Do vẻ ngoài của mình, việc cố gắng bắt chuyện với một con người sẽ là một thử thách vô cùng cam go.
+Thế nhưng, tôi nhanh chóng trấn tĩnh lại sau cơn phấn khích. Với cái bộ dạng này, muốn bắt chuyện với một con người e là chuyện chẳng hề dễ dàng.
 
-Dù tôi không còn là một đống xương biết đi, nhưng Ngạ Quỷ thì vẫn cứ là... Ngạ Quỷ. Nếu tôi tiếp cận một mạo hiểm giả bằng cái thân xác khô cằn như thây ma này, họ chắc chắn sẽ hoảng hốt và rút kiếm thủ thế ngay lập tức; việc trò chuyện sẽ là thứ cuối cùng họ nghĩ tới.
+Dù tôi không còn là một đống xương biết đi, nhưng Ngạ Quỷ thì vẫn cứ là... Ngạ Quỷ. Nếu tôi cứ vác cái thân xác như xác khô này lại gần một mạo hiểm giả, họ chắc chắn sẽ hoảng hồn rút kiếm thủ thế ngay tắp lự; đời nào họ thèm đứng lại nói chuyện.
 
-Mặc dù kết quả của cuộc chạm trán có thể sẽ khác đôi chút nếu tôi là một chủng tộc quái vật có tri giác và trí tuệ, nhưng hiện tại tôi chỉ là một con Ngạ Quỷ. Triển vọng của tôi ở phương diện đó hết sức ảm đạm. Vì thế, tôi chọn cách lùi xa khỏi nguồn phát ra âm thanh và ẩn nấp, để không phải giáp mặt với mạo hiểm giả kia.
+Họa chăng nếu tôi là giống quái vật có trí khôn và biết suy nghĩ thì sự thể có khi còn khác, đằng này tôi chỉ là một con Ngạ Quỷ. Về khoản đó thì triển vọng mù mịt vô cùng. Thế nên, tôi quyết định tránh xa nơi phát ra tiếng động rồi nấp đi, cốt để không chạm mặt mạo hiểm giả kia.
 
-Thế nhưng, sự tò mò đã lấn át lý trí—liệu tôi có thực sự nỡ phớt lờ và quay gót rời xa một con người khi họ đang ở gần mình đến thế?
+Thế nhưng tính tò mò lại trỗi dậy: chẳng lẽ tôi lại nỡ quay lưng bỏ đi khi có một con người đang ở gần mình đến thế?
 
-—Không. Tôi nhận thấy mình không tài nào kìm lòng nổi.
+—Không. Tôi không tài nào kìm lòng nổi.
 
-Cảm giác bị cô lập và nỗi cô đơn của tôi đã lớn đến mức ấy—tôi muốn được nhìn thấy một con người, bằng bất cứ giá nào.
+Sự cô độc và trống trải trong tôi đã lớn đến mức ấy: tôi muốn nhìn thấy một con người, bằng bất cứ giá nào.
 
-Và thế là tôi đưa ra lựa chọn của mình, lặng lẽ lần theo nguồn phát ra âm thanh. Nếu bị phát hiện, tôi chỉ việc bỏ chạy là xong.
+Và thế là tôi đưa ra lựa chọn, lặng lẽ lần mò về phía phát ra âm thanh. Cùng lắm bị phát hiện thì tôi chỉ việc bỏ chạy là xong.
 
-Tôi nghĩ lén nhìn từ trong bóng tối chắc cũng không sao. Tôi sẽ che giấu hiện diện của mình kỹ nhất có thể, và tiến bước thật nhẹ nhàng.
+Tôi thầm nghĩ chỉ đứng trong bóng tối nhìn trộm thì chắc chẳng sao đâu. Tôi cố giấu đi sự hiện diện của mình hết mức có thể, rón rén bước về phía trước.
 
-Khi những âm thanh ngày một lớn dần, nhịp tim tôi cũng đập dồn dập theo. Thêm một chút nữa thôi...
+Tiếng động càng rõ dần, tim tôi lại càng đập dồn dập theo. Thêm một chút nữa thôi...
 
-Giờ tôi đã không còn cách quá xa một con người khác. Từng bước thận trọng nhưng vững vàng, tôi đã tới đích, trong khi những tiếng giao tranh vẫn tiếp tục vọng lại từ phía sau khúc ngoặt.
+Giờ tôi đã không còn cách xa một người sống là bao. Từng bước chậm mà chắc, tôi đã tới nơi, tiếng giao tranh vẫn liên tục vọng lại từ phía sau khúc ngoặt.
 
-Vẫn giữ sự cẩn trọng khi men theo lối đi, tôi khẽ ngó qua khúc ngoặt, nhìn sâu vào hành lang mê cung phía trước. Ở đó, đúng như tôi dự đoán, là một mạo hiểm giả khác, tay tuốt kiếm đang giao chiến với lũ quái vật.
+Vẫn hết sức dè chừng khi men theo lối đi, tôi cẩn thận ngó đầu qua khúc ngoặt, nhìn sâu vào hành lang mê cung. Ở đó, đúng như tôi đoán, là một mạo hiểm giả khác đang tuốt kiếm giao chiến với lũ quái vật.
