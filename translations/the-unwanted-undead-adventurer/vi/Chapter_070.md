@@ -1,129 +1,129 @@
 # Chương 70: Tập 3 Chương 3 - Tiến Hóa Bản Thể Mới (1)
 
-Một cơn đau buốt nhói lan tỏa khắp toàn thân ngay khoảnh khắc một giọt máu duy nhất chạm vào đầu lưỡi tôi. Trong một thoáng, tôi đã nghĩ tốt nhất là nên dừng uống thứ chất lỏng này, dù nó có là gì đi chăng nữa; thế nhưng, bản năng của tôi lại không nghĩ vậy. Cứ như thể tôi đang được thúc giục bởi một giọng nói kỳ lạ, vô hình. Có lẽ đó chỉ là do tôi tưởng tượng ra mà thôi.
+Chỉ một giọt máu vừa chạm đầu lưỡi, cơn đau buốt nhói đã lan khắp người tôi. Trong thoáng chốc, tôi nghĩ tốt nhất nên dừng uống thứ chất lỏng này, mặc kệ nó là gì; thế nhưng bản năng lại không nghĩ vậy. Cứ như có một giọng nói vô hình đầy kỳ lạ đang hối thúc tôi. Chắc chỉ là tôi tưởng tượng ra thôi.
 
-Tuy nhiên, trong trường hợp của Tiến Hóa Bản Thể, tôi đồ rằng mình chẳng còn lựa chọn nào khác ngoài việc tin vào trực giác mách bảo. Người ta có thể đòi hỏi một lời giải thích hay biện minh hợp lý theo logic, nhưng tôi thì chẳng có lấy một lời nào.
+Nhưng riêng với Tiến Hóa Bản Thể, có lẽ tôi chẳng còn cách nào khác ngoài tin vào trực giác mách bảo. Người ta có đòi một lời giải thích rành mạch hay căn cứ hợp logic thì tôi cũng chẳng đưa ra nổi.
 
-Tôi dốc ngược chiếc bình lên, trút cạn sạch những gì bên trong.
+Tôi dốc ngược bình, uống cạn sạch thứ bên trong.
 
-Keng.
+Cạch.
 
-Chiếc lọ rỗng từ từ lăn trên mặt bàn. Bản thân chiếc lọ này vốn dĩ đã là một ma cụ có giá trị. Tôi từng muốn đặt nó ngay ngắn lên bàn để nó không lăn lóc lung tung hay bị nứt vỡ vì một tai nạn bất ngờ nào đó. Nhưng tôi chẳng còn nhiều lựa chọn nữa rồi—
+Chiếc lọ rỗng chầm chậm lăn trên mặt bàn. Bản thân nó vốn đã là một ma cụ giá trị. Tôi cũng muốn đặt nó xuống thật ngay ngắn để khỏi lăn lóc hay chẳng may nứt vỡ, thế nhưng lúc này tôi chẳng còn lựa chọn nào—
 
-Một biển sắc đỏ thẫm tràn ngập tầm mắt tôi. Từng đợt đau đớn cùng nỗi thống khổ vô hình dồn dập nện xối xả vào toàn bộ cơ thể tôi.
+Tầm mắt tôi ngập chìm trong sắc đỏ thẫm. Từng cơn đau đớn cùng nỗi thống khổ vô hình dồn dập nện xuống khắp thân thể.
 
-Nguy rồi... đó là điều đầu tiên thoáng hiện lên trong tâm trí tôi.
+Nguy rồi... đó là điều đầu tiên thoáng hiện lên trong đầu tôi.
 
-Nhưng, tôi lại không cảm thấy mình sắp chết. Nói đúng hơn thì, tôi có cảm tưởng như ai đó, hay thứ gì đó, đang cưỡng ép biến đổi bên trong cơ thể tôi theo ý nó muốn. Tôi cảm nhận được điều đó từ sâu thẳm bên trong thân thể, tại những nơi hoặc khoang trống từng rỗng tuếch trước đây. Cảm giác như toàn bộ sức lực đã bị tước đoạt khỏi tôi, và những thứ kỳ dị đang được nhồi nhét từng thứ một vào bản thể của mình.
+Nhưng tôi không có cảm giác mình sắp chết. Nói đúng hơn, tôi có cảm tưởng như ai đó, hay thứ gì đó, đang tùy ý nhào nặn lại bên trong cơ thể mình. Tôi cảm nhận rõ điều đó từ sâu trong người, tại những ngóc ngách hay khoang trống từng rỗng tuếch trước kia. Cứ như bao nhiêu sức lực đều bị rút cạn, rồi từng thứ kỳ dị cứ thế bị nhồi nhét vào cơ thể.
 
-Nếu phải đoán, thì những thứ kỳ dị ấy chẳng phải gì khác ngoài các cơ quan nội tạng sống, bởi lẽ trước giờ tôi vốn đâu có mấy thứ đó. Còn cảm giác như cả đàn kiến khổng lồ đang bò lổm ngổm khắp bề mặt cơ thể tôi với tốc độ kinh hoàng thì hẳn không gì khác ngoài lớp da thịt đang cấp tốc hình thành.
+Nếu phải đoán, những thứ kỳ lạ ấy chính là nội tạng sống, bởi trước giờ trên người tôi làm gì có mấy thứ đó. Còn cảm giác như hàng đàn kiến đang bò rần rật khắp người với tốc độ chóng mặt, có lẽ chính là lớp da thịt đang cấp tốc hình thành.
 
-Toàn bộ quá trình này rất giống cảm giác nôn nao sau cơn say xỉn, hoặc có lẽ là lúc người ta say đến mức buồn nôn muốn chết, chỉ có điều tồi tệ hơn gấp trăm lần. Tầm nhìn của tôi không ngừng chao đảo và vặn vẹo, còn những đồ vật trước mắt dường như liên tục bị rung chuyển bởi một trận động đất vô hình mà chỉ có mình tôi cảm nhận được. Tôi đã cố gắng hết sức để bình tâm lại, nhưng rốt cuộc chỉ nhận ra đó là một nỗ lực vô ích. Xung quanh lẫn bên trong tôi ngập tràn những lời than thở; một tràng cảnh báo bất tận từ cơ thể rằng có điều gì đó không ổn, rằng có điều gì đó đã khác thường. Dù tôi hiểu rõ quá trình này, nhưng cái cảm giác ấy vẫn chẳng hề thuyên giảm.
+Toàn bộ quá trình này hệt như cảm giác váng vất sau cơn say, hay đúng hơn là lúc say bí tỉ đến mức nôn nao khó chịu, chỉ có điều tồi tệ hơn gấp trăm lần. Mắt tôi hoa lên, cảnh vật trước mặt chao đảo, vặn xoắn như thể đang rung chuyển trong một trận động đất vô hình mà chỉ mình tôi cảm thấy. Tôi đã cố hết sức để trấn tĩnh lại, nhưng hoàn toàn vô ích. Từ trong ra ngoài, cả cơ thể tôi như đang gào thét phản đối, không ngừng phát ra những cảnh báo dồn dập rằng có điều gì đó bất ổn, có điều gì đó đã đổi khác. Dù biết rõ đây là chuyện gì, nhưng cảm giác khó chịu ấy vẫn không sao dứt.
 
-Chuyện này sẽ kéo dài bao lâu nữa đây...? Liệu nó có chấm dứt không?
+Chuyện này còn kéo dài bao lâu nữa đây...? Liệu có chấm dứt được không?
 
-Liệu nó có chấm dứt không?
+Liệu có chấm dứt được không?
 
-Những suy nghĩ ấy tràn ngập tâm trí tôi, và không hề có dấu hiệu hạ nhiệt, dòng thác suy tư chẳng mấy chốc đã nuốt chửng lấy tôi.
+Những ý nghĩ ấy cứ cuồn cuộn ùa về không chút lắng dịu, và rồi dòng thác suy nghĩ ấy nhanh chóng nhấn chìm tôi.
 
-Ra là vậy... Liệu tất cả những kẻ trước tôi từng uống máu Ma Cà Rồng đều cảm thấy như thế này sao? Một mùi vị thực sự bất an và khó chịu... còn chưa kể đến những tác động của nó. Giờ thì tôi đã hiểu vì sao có những người bỏ mạng trong quá trình này do không chịu nổi gánh nặng, trong khi những kẻ khác thì phát điên.
+Ra là vậy... Chẳng lẽ tất cả những kẻ từng uống máu Ma Cà Rồng trước tôi đều phải trải qua cảm giác này sao? Một mùi vị thật khiến người ta rợn người và khó chịu... đấy là còn chưa kể đến tác động của nó. Giờ thì tôi đã hiểu vì sao có những kẻ bỏ mạng giữa chừng vì không chịu nổi sự dày vò, còn những kẻ khác thì hóa điên.
 
-Thế nhưng, dường như tôi vẫn giữ được sự tỉnh táo của mình.
+Thế nhưng, dường như tôi vẫn giữ được sự tỉnh táo.
 
 Là vì sức mạnh của tôi chăng...?
 
-Không, không hẳn là như vậy—
+Không, không hẳn là thế—
 
-Là vì tôi là Undead.
+Mà là vì tôi là Undead.
 
-Kể từ khi biến thành Undead, tôi nhận thấy trạng thái tinh thần của mình đã chuyển biến khá nhiều so với thời còn hít thở bầu không khí của người sống. Dù tôi luôn cố gắng hành xử như một con người nhiều nhất có thể, và phần lớn cũng được hầu hết mọi người nhìn nhận gần giống con người, song một điều gì đó bên trong tôi đã thay đổi. Cảm xúc của tôi trở nên trầm lắng, phẳng lặng, thậm chí có phần nhạt nhòa hơn so với khi tôi còn sống.
+Kể từ khi biến thành Undead, tôi nhận thấy tâm trí mình đã khác hẳn so với thời còn sống. Dù luôn cố gắng hành xử như người bình thường hết sức có thể, và đa số mọi người cũng nhìn nhận tôi như vậy, nhưng bên trong tôi, có điều gì đó đã đổi thay. Cảm xúc trở nên trầm lặng, phẳng lặng, thậm chí có phần mờ nhạt hơn hẳn ngày xưa.
 
-Xuyên suốt quãng thời gian làm một Khô Lâu, Ngạ Quỷ, và cuối cùng là Thi Quỷ, bằng cách nào đó tôi luôn xoay xở để giữ cho bản thân bình tĩnh và tương đối tỉnh táo... nếu chỉ vì tôi thực sự cảm thấy điềm tĩnh. Vì một lý do bí ẩn nào đó, tôi không còn cảm nhận cảm xúc mãnh liệt như trước kia nữa.
+Trải qua những chuỗi ngày làm Khô Lâu, Ngạ Quỷ, rồi đến Thi Quỷ, tôi vẫn luôn giữ được sự bình tĩnh và tỉnh táo... âu cũng là bởi lòng tôi quả thực rất đỗi phẳng lặng. Chẳng rõ vì sao, tôi không còn cảm nhận được những cảm xúc mãnh liệt như trước nữa.
 
-Dẫu vậy, một số điều nhất định vẫn gợi lên những gợn sóng cảm xúc khuấy động trong tim tôi. Chẳng hạn như giấc mơ trở thành mạo hiểm giả Mithril Cấp luôn khơi dậy phản ứng từ sâu thẳm bên trong. Có lẽ đó là điều đương nhiên, bởi lẽ tôi đã mơ về nó suốt cả cuộc đời mình. Đó là lý do vì sao tôi vẫn bị mê hoặc bởi giấc mơ ấy, thậm chí tôi còn cảm thấy bị cuốn hút hơn bao giờ hết, sâu đậm hơn cả quãng thời gian tôi vẫn còn hít thở hơi ấm trần gian.
+Dù vậy, đôi khi vẫn có những điều khuấy động được cảm xúc trong lòng tôi. Chẳng hạn, ước mơ trở thành mạo hiểm giả Mithril Cấp luôn tạo nên phản ứng từ tận đáy lòng. Có lẽ cũng phải thôi, bởi đó là ước mơ cả đời tôi. Chính vì thế mà tôi vẫn luôn đau đáu với nó, thậm chí còn khao khát hơn bao giờ hết, hơn cả thời tôi còn sống.
 
-Thế nhưng, sự tận tâm của tôi đối với mục tiêu này lại có thể dễ dàng bị lãng quên, tựa như một ý nghĩ vụt tan biến sau khi người ta bừng tỉnh khỏi một giấc ngủ say. Tôi phải nắm chặt lấy nó, để không bao giờ quên đi.
+Thế nhưng, quyết tâm theo đuổi mục tiêu này lại rất dễ phai nhạt, tựa như ý nghĩ thoáng qua rồi tan biến khi người ta bừng tỉnh sau một giấc ngủ say. Tôi phải bám chặt lấy nó, để không bao giờ quên.
 
-Đó là lý do vì sao tôi không thể bỏ cuộc và buông xuôi, ngay cả khi cơn đau đớn này đang quất liên hồi khắp thân xác mình. Nếu tôi phải trải qua điều tương tự khi bản thân vẫn còn là một con người, rất có thể tôi đã phát điên chỉ sau vài giây bắt đầu quá trình.
+Chính vì thế mà tôi không thể bỏ cuộc hay buông xuôi, dù cơn đau đớn đang như roi quất liên hồi khắp người. Nếu phải trải qua chuyện này từ hồi còn là con người, rất có thể tôi đã phát điên chỉ sau vài giây đầu tiên.
 
 "A! Aaaa!!!"
 
-Tôi có thể nghe thấy một giọng nói từ nơi nào đó xa xăm, rất xa. Trong tầm nhìn vặn xoắn và chao đảo của tôi là gương mặt của Lorraine. Cảnh tượng nhìn thấy cô khiến tôi an lòng, chí ít cũng là vì tôi không còn cảm thấy thèm khát máu thịt của cô nữa, không giống như hồi tôi tiến hóa thành Thi Quỷ.
+Văng vẳng đâu đó từ nơi xa xăm, tôi nghe thấy một tiếng gọi. Trong tầm mắt chao đảo và vặn xoắn, gương mặt Lorraine hiện ra. Nhìn thấy cô khiến tôi an lòng phần nào, bởi ít nhất tôi không còn thèm khát máu thịt của cô như hồi tiến hóa thành Thi Quỷ nữa.
 
-Thế nhưng, lại có một cảm giác khác trỗi dậy...
+Thế nhưng, lại có một cảm giác khác...
 
-Tôi có thể cảm thấy ý thức của mình đang dần trôi tuột đi.
+Tôi cảm thấy ý thức mình đang dần lịm đi.
 
-Chuyện gì sẽ xảy ra nếu mình buông xuôi...?
+Chuyện gì sẽ xảy ra nếu mình buông xuôi nhỉ...?
 
-Có vẻ chẳng có gì xấu cả... Xét theo những gì tôi cảm nhận, tôi chỉ đơn thuần ngất đi mà thôi, vì duy trì ý thức trong trạng thái này quá lâu là điều vô cùng khó khăn. Có lẽ sẽ dễ chịu hơn nhiều nếu cứ thả lỏng và buông xuôi.
+Chắc cũng chẳng sao... Xét theo cảm giác lúc này, cùng lắm tôi chỉ ngất đi thôi, bởi duy trì ý thức trong tình trạng này quá lâu là điều vô cùng khó khăn. Có lẽ cứ thả lỏng mà buông xuôi sẽ dễ chịu hơn nhiều.
 
-Dù tôi vẫn bận tâm về tiến trình tổng thể của lần Tiến Hóa Bản Thể này, nhưng tôi cảm thấy mình đã an toàn vượt qua thử thách khó khăn nhất, đó là giữ vững sự tỉnh táo bất chấp đau đớn và không để tinh thần bị chết mòn trước nỗi thống khổ tưởng chừng bất tận.
+Tuy vẫn lo lắng cho toàn bộ quá trình Tiến Hóa Bản Thể, nhưng tôi cảm thấy mình đã vượt qua được cửa ải khó khăn nhất: giữ vững sự tỉnh táo bất chấp cơn đau và không để tinh thần sụp đổ trước nỗi thống khổ dường như bất tận.
 
-Ở một khía cạnh khác, đằng nào thì tôi cũng vốn đã coi như chết ngay từ đầu rồi. Nên tôi đồ rằng sẽ chẳng có vấn đề gì cả...
+Vả lại, ngay từ đầu tôi cũng coi như đã chết rồi còn gì. Nên chắc sẽ chẳng có vấn đề gì đâu...
 
-Rốt cuộc, tôi quyết định thả lỏng và buông xuôi.
+Cuối cùng, tôi quyết định buông xuôi.
 
-Một tấm màn bóng tối nhanh chóng che phủ tầm mắt tôi. Tôi cảm thấy như mình đang lơ lửng, rơi chầm chậm khi đầu tôi từ từ áp sát mặt sàn. Trước khi va chạm, tôi có thể cảm nhận được mình được đỡ lấy bởi thứ gì đó—rồi sau đó, tôi chìm vào cơn bất tỉnh.
+Màn đêm nhanh chóng phủ kín tầm mắt. Tôi thấy mình như đang lơ lửng rồi rơi xuống chầm chậm, đầu dần áp sát mặt sàn. Trước khi chạm đất, tôi cảm giác có thứ gì đó đã nhẹ nhàng đỡ lấy mình—rồi tôi lịm đi.
 
 ◆◇◆◇◆
 
-Mọi thứ có vẻ đều ổn thỏa, đúng như dự kiến.
+Có vẻ mọi chuyện đều ổn, đúng như dự tính.
 
-Đó là ý nghĩ đầu tiên xẹt qua đầu tôi khi tôi dần lấy lại tri giác.
+Đó là ý nghĩ đầu tiên nảy ra khi tôi dần tỉnh lại.
 
-Cơ thể tôi cảm thấy... mâu thuẫn. Nó dường như đang kêu răng rắc ở nhiều chỗ.
+Khắp người tôi cảm thấy... cấn cấn lạ thường. Nhiều chỗ dường như đang kêu răng rắc.
 
-Phải miêu tả chuyện này thế nào đây... Nó tương tự như cảm giác khi người ta được nẹp cố định sau khi gãy xương. Một cảm giác căng cứng kỳ lạ ở tứ chi.
+Phải miêu tả thế nào nhỉ... Nó giống như cảm giác khi người ta phải nẹp cố định sau khi bị gãy xương. Tứ chi cứ có một sự căng cứng kỳ lạ.
 
-Thế này là sao...?
+Rốt cuộc là sao nhỉ...?
 
-Cảm giác chỉ thấy lạ lùng, chứ không quá khó chịu. Thế nhưng khi tôi mở mắt ra, tôi đã phải bàng hoàng trước sức nặng trĩu của mí mắt mình.
+Chỉ thấy hơi là lạ, chứ không hẳn là khó chịu. Có điều lúc mở mắt ra, tôi giật mình vì thấy mí mắt nặng trĩu.
 
-Nghĩ lại thì, có lẽ tôi thậm chí chưa từng chớp mắt lấy một lần trong suốt quãng thời gian làm Thi Quỷ. Tôi nhớ mình có cảm giác như đã nhắm mắt lại, nhưng lại chẳng nhớ nổi là từng nhìn thấy bất kỳ loại mí mắt nào, ngay cả khi tôi để chiếc mặt nạ tự tái sắp xếp lại để xem xét kỹ hơn.
+Nghĩ lại thì, suốt quãng thời gian làm Thi Quỷ, có khi tôi còn chưa chớp mắt lấy một lần. Tôi nhớ mình từng có cảm giác nhắm mắt, nhưng tuyệt nhiên không nhớ là có mí mắt, kể cả lúc tôi cho chiếc mặt nạ biến đổi để soi thật kỹ.
 
-Cảm giác mà tôi đang cảm nhận lúc này...
+Cảm giác lúc này...
 
-Một luồng sáng mờ ảo dần hiện rõ trước mắt khi tôi từ từ mở chúng ra. Đó là ngọn lửa của một cây nến, đang khẽ chập chờn trong bóng tối.
+Khi tôi từ từ mở mắt, một đốm sáng mờ ảo dần hiện rõ. Đó là ngọn nến đang khẽ lập lòe trong bóng tối.
 
-Nơi ở này vốn được trang bị các ma cụ phát sáng, nhưng tôi đoán Lorraine đã tắt bớt đèn trước khi đi ngủ. Rất có thể Lorraine đã để lại một cây nến le lói gần tôi nhằm thắp sáng phòng khi tôi tỉnh giấc.
+Căn nhà này vốn được trang bị các ma cụ phát sáng, nhưng chắc Lorraine đã tắt đèn trước khi đi ngủ. Rất có thể cô đã để lại ngọn nến le lói gần chỗ tôi nằm phòng khi tôi thức giấc.
 
-Hóa ra tôi đang nằm duỗi thẳng người—chính xác là trên một chiếc giường. Điều đầu tiên tôi nhìn thấy khi mở to mắt hoàn toàn là... trần nhà. Trần nhà, và chiếc bóng hắt lên đó bởi ánh nến le lói, lập lòe.
+Hóa ra tôi đang nằm—chính xác hơn là nằm trên giường. Điều đầu tiên tôi nhìn thấy khi mở to mắt là... trần nhà. Trần nhà, cùng chiếc bóng in trên đó dưới ánh nến chập chờn.
 
-Bóng dáng của ai đó... Một người mà tôi quen biết.
+Bóng của một người... Một người tôi quen.
 
-Dĩ nhiên rồi. Tôi từ từ nghiêng người sang một bên, liếc qua mép giường. Ở đó, đang lặng lẽ ngồi với một cuốn sách dày cộp đặt trên đùi, không phải ai khác ngoài Lorraine, cô đang nhẹ nhàng lật từng trang sách.
+Dĩ nhiên rồi. Tôi từ từ nghiêng người sang một bên, liếc qua mép giường. Ngồi lặng lẽ ở đó với cuốn sách dày cộp đặt trên đùi không ai khác chính là Lorraine, cô đang khẽ lật từng trang sách.
 
-Tôi nhìn chằm chằm vào cô một lúc trong khi cô vẫn tiếp tục đọc. Ánh mắt cô chẳng mấy chốc đã liếc lên góc trên bên trái của trang sách mới, rồi nhận ra ánh nhìn của tôi.
+Tôi nhìn cô một lúc trong khi cô vẫn mải mê đọc sách. Khi ánh mắt vừa liếc lên góc trên bên trái của trang mới, cô liền nhận ra tôi đang nhìn mình.
 
-"Ra là anh đã tỉnh rồi đấy à, Rentt."
+"Anh tỉnh rồi đấy à, Rentt."
 
-Có vẻ như Lorraine đã trông chừng tôi suốt ngần ấy thời gian. Tôi đoán cô từng nghĩ tôi sẽ tỉnh dậy sau một lúc, nhưng rồi chuyển sang đọc sách sau khi nhận ra tôi sẽ bất tỉnh trong một khoảng thời gian dài hơn.
+Có vẻ Lorraine đã ngồi trông tôi suốt từ nãy đến giờ. Tôi đoán ban đầu cô nghĩ một lát là tôi dậy, nhưng nhận ra tôi sẽ mê man lâu hơn nên mới lấy sách ra đọc.
 
-Bên ngoài trời đã tối, vậy nên xét việc tôi gục xuống vào khoảng buổi sáng, tôi đã ngủ gần như cả ngày. Đây là lần đầu tiên sau một quãng thời gian dài tôi trải qua một giấc ngủ sâu đến thế, dẫu dường như nó đã kết thúc trước khi tôi kịp tận hưởng được nhiều.
+Bên ngoài trời đã tối. Tính ra tôi ngã gục từ ban sáng, vậy là đã ngủ gần hết cả ngày. Lâu lắm rồi tôi mới lại có một giấc ngủ say đến thế, dù có vẻ nó đã kết thúc trước khi tôi kịp cảm nhận được gì nhiều.
 
 "À... Cô đang đọc gì thế?"
 
-Trước câu hỏi của tôi, Lorraine gấp cuốn sách lại cái phịch, rồi đưa ra câu trả lời trong khi những ngón tay cô lướt qua bìa sách.
+Nghe tôi hỏi, Lorraine khép cuốn sách lại cái cạch. Cô vừa miết ngón tay lên bìa sách vừa trả lời.
 
-"Một cuốn sách miêu tả tập tính sinh thái của Ma Cà Rồng—thực ra thì hơi giống một cuốn bách khoa toàn thư. Các mục ghi chép chi tiết về nhiều chủng loại Ma Cà Rồng khác nhau, nhưng tôi đoán ngay cả anh cũng biết những điểm khác biệt phổ biến giữa chúng. Thi Quỷ, Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng, và Đại Ma Cà Rồng... Chi tiết về tất cả chúng. Dĩ nhiên, khi sức mạnh của chúng gia tăng, một số phân loài Ma Cà Rồng bắt đầu vượt ra ngoài mọi nỗ lực phân loại. Các phân loại kể trên hoàn toàn chưa phải là tất cả—chẳng hạn như những Ma Cà Rồng sống qua quãng thời gian dài đặc biệt được gọi là Ma Cà Rồng Cổ Đại, và chúng ta còn có những nàng Công Chúa Ma Cà Rồng kinh điển thường xuất hiện trong truyện cổ dân gian và những câu chuyện tương tự. Như anh thấy đấy, anh sẽ không thể áp dụng các phân loại bên trên cho hai ví dụ vừa rồi được đâu."
+"Một cuốn sách về sinh thái của Ma Cà Rồng—nói đúng hơn thì hơi giống bách khoa toàn thư. Trong này ghi chép chi tiết về nhiều phân loài Ma Cà Rồng khác nhau, nhưng tôi nghĩ chắc anh cũng biết những điểm khác biệt cơ bản giữa chúng rồi. Thi Quỷ, Hạ Cấp Ma Cà Rồng, Thượng Cấp Ma Cà Rồng, rồi Đại Ma Cà Rồng... Đều có đủ cả. Dĩ nhiên, càng mạnh lên thì một số loài Ma Cà Rồng lại càng khó lòng phân loại. Các phân loại kể trên hoàn toàn chưa phải là tất cả—chẳng hạn như những Ma Cà Rồng sống qua năm tháng dài đằng đẵng thì được gọi là Ma Cà Rồng Cổ Đại, hay các nàng Công Chúa Ma Cà Rồng quen thuộc thường thấy trong truyện dân gian. Rõ ràng anh không thể áp cách phân loại thông thường cho hai trường hợp này được."
 
-"Tôi chưa từng nghe nói có ai từng chạm trán một trong hai loại Ma Cà Rồng đó cả. Vậy nên có lẽ chúng chẳng qua chỉ là truyện cổ dân gian mà thôi. Ngay cả khi chúng ta xét đến năng lực của một Đại Ma Cà Rồng, thì đám quyến thuộc và các thành viên trong huyết tộc của nó khá lắm thì cũng chỉ tạo thành quy mô một ngôi làng là cùng. Dĩ nhiên, sẽ nảy sinh vấn đề nếu bằng cách nào đó chúng trà trộn vào một thị trấn và thiết lập nên một xã hội Ma Cà Rồng của riêng mình bên trong đó. Mặt khác, đây cũng chỉ là lời đồn mà tôi từng nghe thôi, nhưng... truyền thuyết ở một đất nước xa xôi nọ có kể về một Ma Cà Rồng Hoàng Hôn, kẻ bằng cách nào đó đã soán đoạt toàn bộ vương quốc về tay mình. Thứ đó, theo tôi thấy, đích thị là một truyền thuyết, và không gì hơn."
+"Tôi chưa nghe nói có ai từng gặp hai loại Ma Cà Rồng đó bao giờ. Nên có khi chúng chỉ tồn tại trong truyện cổ tích thôi. Kể cả tính đến năng lực của một Đại Ma Cà Rồng, thì quyến thuộc cùng các thành viên huyết tộc của nó nhiều lắm cũng chỉ đông bằng một ngôi làng. Dĩ nhiên, sẽ rắc rối to nếu bằng cách nào đó chúng lẻn vào thị trấn rồi tự dựng nên một xã hội Ma Cà Rồng bên trong. Nói mới nhớ, tôi cũng chỉ nghe đồn thôi, nhưng... truyền thuyết ở một xứ sở xa xôi nào đó có kể về Ma Cà Rồng Hoàng Hôn, kẻ đã chiếm đoạt cả vương quốc về tay mình. Theo tôi, thứ đó chắc chắn chỉ là truyền thuyết thôi, không hơn."
 
-"Hãy nhớ rằng truyền thuyết vẫn có thể chứa đựng một phần sự thật bên trong đấy. Dù sao thì, Rentt này, chẳng phải chính anh đã chạm trán một con rồng huyền thoại, rồi bị nuốt trọn đó sao? Biết đâu Ma Cà Rồng Hoàng Hôn thực sự tồn tại—và tôi thậm chí có thể nói điều tương tự về những gì Giáo Hội Đông Thiên tôn thờ ở những vùng đất phương Đông. Tôi nói có sai không?"
+"Nhưng anh cũng nên nhớ rằng truyền thuyết đôi khi vẫn có phần sự thật. Dù sao thì, Rentt này, chẳng phải anh cũng từng đụng độ một con rồng trong truyền thuyết, rồi bị nó nuốt chửng đấy sao? Biết đâu Ma Cà Rồng Hoàng Hôn thực sự tồn tại—và tôi cũng có thể nói điều tương tự về những gì mà Giáo Hội Đông Thiên tôn thờ ở vùng đất phương Đông đấy chứ. Tôi nói có sai đâu nào?"
 
-Lorraine đã chỉ ra một kẽ hở chí mạng trong lập luận của tôi. Dù sao thì, chính tôi đã đích thân trải qua một cuộc chạm trán với truyền thuyết bằng xương bằng thịt. Chí ít thì tôi phải là người cuối cùng mở miệng nói rằng truyền thuyết chẳng qua chỉ là truyện cổ dân gian.
+Lorraine đã chỉ ra một kẽ hở chí mạng trong lập luận của tôi. Dù sao thì chính tôi cũng từng tận mắt đối mặt với một sinh vật trong truyền thuyết. Lẽ ra tôi phải là người cuối cùng có tư cách bảo rằng truyền thuyết chỉ là truyện cổ tích mới phải.
 
-Nếu ngồi lại và ngẫm nghĩ kỹ, tôi đã từng trải qua một điều vượt xa cả những truyền thuyết thông thường mà tôi từng nghe kể, cái việc bị một con rồng nuốt chửng rồi sau đó biến thành quái vật. Dù người ta cũng có thể trở thành quái vật thông qua một vài nghi lễ kỳ quái, hoặc uống máu Ma Cà Rồng, song cơ hội thành công là tương đối mong manh.
+Ngẫm lại thì chuyện tôi từng trải qua còn vượt xa những câu chuyện truyền thuyết thông thường: bị rồng nuốt chửng rồi biến thành quái vật. Dẫu người ta cũng có thể hóa thành quái vật qua mấy nghi lễ quái đản hay uống máu Ma Cà Rồng, nhưng tỉ lệ thành công là vô cùng mong manh.
 
-Tôi chẳng còn lựa chọn nào khác ngoài việc gật đầu đồng tình.
+Tôi đành phải gật đầu.
 
-"À thì... tôi đoán là vậy. Vậy... rốt cuộc thì tại sao cô lại đọc cuốn sách đó?"
+"Ừ thì... chắc là vậy. Mà... sao tự dưng cô lại đọc cuốn sách đó thế?"
 
-"Sao à, chuyện rất đơn giản thôi, Rentt." Lorraine chĩa ngón tay về phía tôi để đáp lại câu hỏi. "Ý tôi muốn nói là..."
+"Sao à, đơn giản thôi mà, Rentt." Lorraine chỉ ngón tay về phía tôi đáp lại. "Ý tôi là..."
 
 "Là...?"
 
-À... Là lời chúc mừng tôi vì lần Tiến Hóa Bản Thể này đây mà.
+À... Có lẽ là để chúc mừng lần Tiến Hóa Bản Thể này của tôi rồi.
 
-Một nụ cười mờ nhạt đọng lại trên môi cô khi cô thốt ra những lời đó.
+Một nụ cười thoáng nở trên môi cô khi cô cất lời.
