@@ -1,153 +1,153 @@
 # Chương 51: Tập 2 Chương 4 - Hoa Long Huyết (4)
 
-Vì con Puchi Suri dưới căn hầm chứa đồ của cô nhi viện đã trở thành quyến thuộc của tôi, nên tôi đồ rằng có thể xem nó không còn là mối đe dọa nữa. Dù thế nào đi nữa, việc xử lý con quái vật ấy vốn dĩ ngay từ đầu đã chẳng nằm trong hợp đồng của tôi, nên sự can thiệp của tôi có lẽ cũng chẳng làm thay đổi điều gì về phương diện đó.
+Con Puchi Suri dưới hầm chứa của cô nhi viện đã trở thành quyến thuộc của tôi, nên chắc có thể coi như nó hết nguy hiểm rồi. Dù sao thì ngay từ đầu việc xử lý con quái vật đó đâu nằm trong ủy thác của tôi, nên tôi có nhúng tay vào thì về cơ bản cũng chẳng ảnh hưởng gì tới chuyện ấy.
 
-Một cuộc tìm kiếm kỹ lưỡng hơn sau khi chúng tôi xử lý xong con Puchi Suri to lớn đã làm lộ ra kha khá những đồng loại nhỏ hơn của nó. Lũ chuột nhỏ này không mấy nguy hiểm, và tôi nghĩ sẽ an toàn nếu để Alize tự mình đối đầu trực diện với một con trong số chúng. Lẽ dĩ nhiên là Alize chỉ chiến đấu với duy nhất một con, chứ không phải cả đàn. Dẫu vậy, em vẫn hạ gục được con Puchi Suri một cách trót lọt, vẻ mặt rạng rỡ hân hoan. Điều đó làm tôi nhớ lại nét mặt của những mạo hiểm giả tân binh khi lần đầu tiên tiêu diệt được quái vật trong đời.
+Hạ gục con Puchi Suri to xác xong, chúng tôi lùng sục kỹ lại căn hầm thì phát hiện thêm kha khá mấy con nhỏ hơn. Đám chuột nhỏ này không nguy hiểm lắm, nên tôi nghĩ cứ để Alize trực tiếp đối đầu với một con cũng an toàn. Dĩ nhiên là Alize chỉ đấu với đúng một con chứ không phải cả đàn. Dù vậy, khi hạ được con Puchi Suri, mặt con bé vẫn lộ rõ vẻ hớn hở. Trông em lúc đó, tôi lại nhớ tới nét mặt của mấy mạo hiểm giả tân binh khi lần đầu tiêu diệt được quái vật.
 
-Tôi bảo Alize cứ giữ lấy viên Ma Tinh xem như một khoản tiêu vặt bổ sung, dù chẳng đáng là bao. Người ta phải đăng ký làm mạo hiểm giả mới có thể bán chiến lợi phẩm cho Hội, nhưng người ta cũng có thể dễ dàng đem viên tinh thể đó đi đổi chác với vài thương nhân quanh vùng. Giá cả của họ khá là công bằng, xét theo mặt bằng giá của giới thương nhân đường phố.
+Tôi bảo Alize cứ giữ lấy viên Ma Tinh, xem như kiếm thêm chút tiền tiêu vặt. Phải đăng ký làm mạo hiểm giả mới bán được chiến lợi phẩm cho Hội, nhưng con bé hoàn toàn có thể đem viên tinh thể đổi cho mấy thương nhân quanh vùng. Giá họ trả cũng khá sòng phẳng, ít nhất là theo mặt bằng chung của dân buôn bán dạo.
 
-Trong khi Alize còn đang mải mê ăn mừng, tôi quyết định thử nghiệm các năng lực của quyến thuộc mới tìm được của mình. Dẫu gặp đôi chút khó khăn trong công cuộc khuất phục những người anh em đồng loại nhanh thoăn thoắt, quyến thuộc của tôi lại có một ngón đòn tủ của riêng nó. Một ánh nhìn chằm chằm nhanh gọn từ nó là đủ để làm bất động những con Puchi Suri cấp thấp hơn, chẳng khác nào một chú chuột chết trân dưới ánh mắt của loài rắn. Ánh nhìn trói chân của nó công hiệu đến mức các nạn nhân chẳng buồn nhúc nhích lấy một bước, ngay cả sau khi tôi bước lại gần và lấy ngón tay chọc vào chúng. Con Puchi Suri chỉ đứng trơ ra tại chỗ, như thể sợ hãi một hình phạt nào đó nếu dám cử động dù chỉ một cơ bắp.
+Trong khi Alize còn mải vui mừng, tôi quyết định kiểm tra năng lực của con quyến thuộc mới thu nhận. Dù gặp đôi chút khó khăn lúc đuổi bắt đám đồng loại nhanh thoăn thoắt, con quyến thuộc của tôi vẫn có một ngón đòn tủ. Nó chỉ cần trừng mắt một cái là lũ Puchi Suri yếu hơn đã đứng sững lại, hệt như chuột chết trân trước mắt rắn. Ánh nhìn áp chế ấy hiệu nghiệm đến nỗi nạn nhân chẳng dám nhúc nhích lấy nửa bước, kể cả khi tôi bước lại gần lấy ngón tay chọc thử. Con Puchi Suri cứ đứng chôn chân tại chỗ, như sợ chỉ cần khẽ động đậy là sẽ bị trừng phạt.
 
-"...Mày... khiến chúng... Phục tùng rồi à?"
+"...Mày... Bắt chúng... Nghe lời rồi à?"
 
-Tôi cảm nhận được một tín hiệu khẳng định thông qua mối liên kết tâm trí chung của chúng tôi. Có vẻ như quyến thuộc của tôi sở hữu năng lực chi phối những biến thể yếu hơn cùng loài, tương tự như cách Ma Cà Rồng có thể điều khiển lũ Thi Quỷ do chúng tạo ra. Đó là một hiện tượng thỉnh thoảng vẫn được quan sát thấy ở quái vật, nơi một biến thể cấp cao hơn của loài quái vật đó thống trị những cá thể cấp thấp hơn cùng loại.
+Qua sợi dây liên kết tâm trí giữa hai bên, tôi cảm nhận được câu trả lời khẳng định. Có vẻ quyến thuộc của tôi sở hữu năng lực chi phối những biến thể yếu hơn cùng loài, tương tự cách Ma Cà Rồng điều khiển lũ Thi Quỷ do chúng tạo ra. Hiện tượng này thỉnh thoảng vẫn xuất hiện ở quái vật: một cá thể cấp cao hơn sẽ thống trị những con yếu hơn cùng giống loài.
 
-Một ví dụ điển hình có thể kể đến là Đại Tướng Goblin hoặc Vua Goblin, những kẻ mà đúng như tước vị của mình, có vô số Goblin dưới trướng chỉ huy. Năng lực biến quái vật ngoài chủng loài thành nô lệ ngoan ngoãn của Ma Cà Rồng có thể xem là một phiên bản bậc cao hơn của kỹ năng này. Tuy nhiên, Ma Cà Rồng phải tiêm máu của chính mình vào nạn nhân thì quá trình đó mới có tác dụng, và có lẽ Ma Cà Rồng coi trọng chất lượng hơn số lượng, không giống như lũ Goblin nhan nhản khắp nơi.
+Ví dụ điển hình là Đại Tướng Goblin hay Vua Goblin, những kẻ đúng như danh hiệu của mình, có vô số Goblin dưới trướng chỉ huy. Còn năng lực biến quái vật khác loài thành tay sai ngoan ngoãn của Ma Cà Rồng có thể coi là phiên bản cấp cao hơn của chiêu thức này. Có điều, Ma Cà Rồng phải truyền máu của mình vào nạn nhân thì mới có tác dụng, và họ có lẽ chuộng chất lượng hơn số lượng chứ không tràn lan như lũ Goblin.
 
-Dẫu vậy, tôi không thể đoan chắc về năng lực chỉ huy của quyến thuộc mình. Các phạm vi chính xác, chẳng hạn như khu vực mà sự kiểm soát của nó duy trì hiệu lực, vẫn là điều tôi chưa biết rõ. Luôn tồn tại khả năng là con Puchi Suri to lớn này vốn đã thống trị những họ hàng nhỏ hơn của nó dưới căn hầm này ngay từ đầu, và sự phục tùng của chúng chẳng liên quan gì đến kỹ năng của quyến thuộc tôi cả.
+Dù vậy, tôi vẫn chưa thể dám chắc về năng lực chỉ huy của con quyến thuộc. Những giới hạn cụ thể, chẳng hạn phạm vi hiệu lực của sự kiểm soát này kéo dài bao xa, tôi đều chưa rõ. Không loại trừ khả năng ngay từ đầu con Puchi Suri to xác này vốn đã là đầu đàn của lũ chuột nhỏ trong hầm, và việc chúng phục tùng chẳng dính dáng gì đến năng lực của quyến thuộc tôi cả.
 
-Sẽ cần thêm nhiều nghiên cứu về chủ đề này, một điều chắc chắn sẽ khiến Lorraine phấn khích tột độ.
+Vấn đề này chắc chắn phải nghiên cứu thêm, và điều đó bảo đảm sẽ khiến Lorraine thích mê.
 
-Tôi đã định bụng cứ thế đem con chuột quyến thuộc của mình về nhà, dù ban đầu đã giao nhiệm vụ cho nó canh giữ căn hầm trong lúc Sơ Lillian vắng nhà. Nhưng với việc những họ hàng nhỏ hơn giờ đây nhất nhất nghe theo mọi lời nó bảo... chẳng lẽ tôi lại không thể để lũ chuột nhỏ canh gác nơi này trong khi chúng tôi đi vắng hay sao?
+Tôi định bụng dắt luôn con chuột quyến thuộc về nhà, dù ban đầu đã bảo nó canh giữ căn hầm trong lúc Sơ Lillian vắng mặt. Nhưng thấy đám đồng loại nhỏ hơn giờ đây răm rắp nghe lời nó... liệu có thể để lũ chuột nhỏ canh gác nơi này thay cho nó trong lúc chúng tôi đi vắng không nhỉ?
 
-Lại thêm một câu hỏi nữa cho quyến thuộc, thế là tôi truyền một ý nghĩ về phía chú chuột ngoại cỡ.
+Lại phải hỏi quyến thuộc rồi, thế là tôi truyền một ý nghĩ sang cho con chuột to xác.
 
-"Ban đầu... Ta muốn mày... Canh giữ căn hầm này. Nhưng liệu ta có thể giao việc đó... Cho lũ nhỏ này thay thế được không?"
+"Ban đầu... Ta định để mày... Canh căn hầm này. Nhưng giờ... Giao lại cho mấy con nhỏ này... Được không?"
 
-Dán chặt đôi mắt đỏ rực vào tôi, con Puchi Suri nhìn thẳng phía trước, rồi truyền đến cho tôi một ý nghĩ có vẻ như lại là một lời khẳng định nữa.
+Đôi mắt đỏ rực của con Puchi Suri nhìn thẳng vào tôi trân trối, rồi truyền qua một ý nghĩ có vẻ lại là lời đồng ý.
 
 ![](images/ch051-01.webp)
 
-Tôi cho rằng khả năng giao tiếp không cần lời nói hay chung một ngôn ngữ là một ân huệ độc nhất vô nhị giữa chủ nhân và quyến thuộc. Và cũng vô cùng tiện lợi nữa.
+Khả năng giao tiếp không cần lời nói hay ngôn ngữ chung quả là đặc ân tuyệt vời giữa chủ nhân và quyến thuộc. Mà cũng tiện lợi ra phết.
 
-Tôi quay sang Alize, giải thích tình hình.
+Tôi quay sang Alize, giải thích tình hình cho em.
 
-"Em thật sự... chẳng hiểu gì cả. Ý anh là... lũ quái vật sẽ canh giữ nơi này kể từ giờ sao? Mấy đứa trẻ khác xuống đây có sao không ạ? Em dặn chúng không được chơi ở đây, nhưng đôi khi chúng vẫn lén lẻn vào..."
+"Em thật sự... chẳng hiểu gì hết trơn. Ý anh là... từ giờ lũ quái vật sẽ canh giữ chỗ này sao? Mấy đứa nhỏ khác xuống đây liệu có sao không anh? Em cấm tụi nó không được chơi ở đây rồi, nhưng thỉnh thoảng chúng vẫn lén chui vào..."
 
-Tôi chuyển tiếp câu hỏi đó cho quyến thuộc của mình, và chẳng mấy chốc đã nhận được một luồng xung động tâm trí mạnh mẽ đáp lại. Nó mang sắc thái êm dịu và trấn an.
+Tôi truyền lại câu hỏi cho quyến thuộc, và lập tức nhận được một đợt sóng ý nghĩ mạnh mẽ đáp lại. Luồng ý nghĩ ấy mang lại cảm giác bình yên và trấn an.
 
-Quay sang những người anh em nhỏ hơn đang xếp hàng ngay ngắn trước mặt, quyến thuộc của tôi nhìn chằm chằm, ánh mắt đe dọa của nó trĩu nặng trong không khí. Lũ Puchi Suri nhỏ hơn liền thẳng lưng tắp và kêu chít chít đáp lời.
+Quay sang bầy chuột nhỏ đang xếp hàng ngay ngắn trước mặt, con quyến thuộc của tôi trừng mắt nhìn, cái nhìn áp đảo khiến bầu không khí xung quanh như chùng xuống. Đám Puchi Suri nhỏ liền ưỡn thẳng người, kêu chít chít đáp lời.
 
-"Nó bảo rằng... Sẽ không có. Bất cứ vấn đề gì đâu."
+"Nó bảo... Sẽ không. Có vấn đề gì đâu."
 
-"Trông đúng là thế thật..." Alize nói, gật đầu trong khi tiếp tục quan sát bầy Puchi Suri với vẻ ngạc nhiên hiện rõ mồn một trên mặt.
+"Trông thì đúng là vậy thật..." Alize gật đầu, tiếp tục nhìn bầy Puchi Suri với vẻ kinh ngạc không giấu nổi trên mặt.
 
-Đối với tôi, điều đó có vẻ giống sự phục tùng sinh ra từ nỗi sợ hãi hơn—lũ Puchi Suri khiếp đảm quyến thuộc của tôi. Tôi cho rằng các trật tự thứ bậc truyền thống đã chẳng còn giá trị, xét việc một con trong số chúng giờ đây là chuột nửa Ma Cà Rồng.
+Với tôi, chuyện đó giống như sự phục tùng đến từ nỗi sợ hơn, bởi lũ Puchi Suri rõ ràng đang khiếp vía trước con quyến thuộc của tôi. Trật tự thứ bậc thông thường xem ra chẳng còn ý nghĩa gì nữa, khi mà một con trong số chúng giờ đã là một chú chuột nửa Ma Cà Rồng.
 
-Thỏa mãn vì những rắc rối trước mắt đã được giải quyết, tôi cáo từ ra về, dự định cuối cùng cũng trở lại nhà Lorraine để chuẩn bị chu đáo.
+Thấy mọi chuyện trước mắt đã êm xuôi, tôi chào tạm biệt rồi quay về nhà Lorraine để chuẩn bị lên đường.
 
 ◆◇◆◇◆
 
 "Mừng anh về—?!"
 
-Như thường lệ, Lorraine đang nằm dài trên ghế sofa, giơ một cuốn sách lên đón ánh sáng để đọc. Tiếng mở cửa thu hút sự chú ý của cô như mọi khi. Cô từ từ quay mặt về phía tôi, nhưng rồi khựng lại giữa chừng câu chào khi nuốt ngược hơi thở nghe rõ mồn một.
+Như thường lệ, Lorraine đang nằm dài trên sofa, giơ cuốn sách lên đón ánh sáng để đọc. Tiếng mở cửa khiến cô chú ý như mọi khi. Cô chậm rãi quay lại nhìn tôi, nhưng rồi khựng lại giữa câu chào, tiếng nín thở nghẹn lại nghe rõ mồn một.
 
-Cuối cùng, sau một hơi thở sâu, Lorraine bắt đầu cất lời, chậm rãi và điềm tĩnh.
+Hít một hơi thật sâu, cuối cùng Lorraine cũng cất lời, chậm rãi và điềm đạm.
 
-"Nếu tôi có thể mạn phép hỏi, Rentt... chính xác thì con chuột đen béo tròn và có kích cỡ kỳ dị đang đậu trên vai anh kia là thế nào vậy? Tôi không nghĩ đó là một dạng ảo giác đâu nhỉ."
+"Tôi mạn phép hỏi câu này nhé, Rentt... Rốt cuộc con chuột đen béo núc ních to dị thường đang ngự trên vai anh là thế nào vậy? Chắc không phải tôi nhìn gà hóa cuốc đấy chứ."
 
-Lorraine sốc đến mức khi nhìn thấy con Puchi Suri, cô đã ngỡ mình đang bị ảo giác.
+Trông thấy con Puchi Suri làm Lorraine kinh ngạc đến mức tưởng mắt mình có vấn đề.
 
-Khẽ hít hà không khí, tôi bắt được một mùi khó ngửi—Lorraine lại pha chế mấy thứ thuốc kỳ quặc trong khi đóng kín cửa sổ nữa rồi. Sải bước về phía cửa sổ, tôi đẩy toang chúng ra, rồi quay trở lại chỗ cũ.
+Khẽ hít mũi, tôi ngửi thấy một mùi khó chịu. Hẳn là Lorraine lại đóng kín cửa sổ để pha chế mấy thứ thuốc kỳ dị nữa rồi. Tôi rảo bước tới bên cửa sổ, đẩy toang ra cho thoáng rồi mới quay lại chỗ cũ.
 
-"Tôi tìm thấy nó... Dưới căn hầm chứa đồ... Của cô nhi viện. Kể từ hôm nay... Nó sẽ do chúng ta... Chăm sóc..."
+"Tôi nhặt được nó... Dưới hầm chứa... Cô nhi viện. Từ nay... Chúng ta sẽ... Nuôi nó..."
 
-"Một lời tóm tắt có phần hơi quá ngắn gọn đấy, Rentt. Ít nhất anh cũng phải kể từ đầu thì tôi mới có thể đưa ra nhận xét về chuyện này được chứ."
+"Tóm tắt thế thì ngắn gọn quá mức rồi đấy, Rentt. Ít nhất anh cũng phải kể từ đầu chí cuối thì tôi mới biết đường mà nhận xét chứ."
 
-"Ừ... Tôi đoán là vậy." Một lời giải thích là điều cần thiết.
+"Ừ... Chắc là vậy." Quả thật tôi cần phải giải thích rõ ràng.
 
-Sau khi ngồi nghe tôi tường thuật lại những sự việc vừa qua, Lorraine gật gù, dường như đang chìm trong suy nghĩ. "Tôi hiểu rồi... Nhận một ủy thác như thế quả đúng là phong cách của anh. Nhưng lại còn đến Đầm Lầy Tarasque trong số bao nhiêu nơi chốn cơ đấy? Ngay cả tôi cũng thấy ngại đặt chân đến đó đấy, Rentt. Liệu anh có ổn không?"
+Nghe tôi kể lại đầu đuôi mọi chuyện, Lorraine gật gù ra chiều suy ngẫm. "Tôi hiểu rồi... Nhận một ủy thác như thế đúng là phong cách của anh. Nhưng bao nhiêu nơi không đến lại đâm đầu vào Đầm Lầy Tarasque? Đến cả tôi còn chẳng muốn bén mảng tới đó nữa là. Liệu anh có ổn không đấy, Rentt?"
 
-"Tôi đã nghĩ ra... Rất nhiều. Kế hoạch dự phòng... Sẽ không có. Vấn đề gì đâu."
+"Tôi đã tính... Nhiều. Phương án dự phòng rồi... Sẽ không có... Vấn đề gì đâu."
 
-"Tôi cho rằng sẽ chẳng có vấn đề gì nếu anh đã nói như vậy, nhưng tôi vẫn lo. Dù thế nào thì giờ cũng chẳng thể làm gì khác được nữa rồi. Thật không ngờ anh thậm chí còn có khả năng tạo ra và điều khiển quyến thuộc của riêng mình... Đúng là tôi đã thực hiện nhiều thí nghiệm, nhưng chưa có thí nghiệm nào liên quan đến việc cho các sinh vật sống khác uống máu của anh cả."
+"Anh đã nói vậy thì chắc không sao, nhưng tôi vẫn thấy lo. Mà thôi, giờ có nói thì cũng chẳng cản được anh nữa rồi. Cơ mà thật không ngờ anh lại có thể tự tạo ra và điều khiển quyến thuộc của riêng mình đấy... Đúng là tôi đã làm đủ thứ thí nghiệm, nhưng chưa từng nghĩ đến chuyện lấy máu của anh cho sinh vật sống khác uống."
 
-Kết luận của Lorraine là hoàn toàn hợp lý; vốn là Ma Cà Rồng cấp thấp, Thi Quỷ thường được cho là thiếu năng lực lẫn trí khôn để tự tạo ra quyến thuộc cho riêng mình. Việc cô không đem máu của tôi cho bất kỳ con vật nào vớ được uống là điều dễ hiểu. Về phần Lorraine, cô nói thêm rằng các thí nghiệm của cô ban đầu chỉ tập trung vào việc đảm bảo tôi khỏe mạnh, cùng với bất kỳ đặc điểm và năng lực chính nào mà cơ thể Thi Quỷ của tôi sở hữu. Tôi đoán những năng lực ít nổi bật như thế này lẽ tự nhiên sẽ thoát khỏi sự phát hiện của cô.
+Suy luận của Lorraine hoàn toàn có lý; vốn là Ma Cà Rồng cấp thấp, Thi Quỷ thường bị coi là thiếu cả năng lực lẫn trí khôn để tự tạo quyến thuộc cho riêng mình. Bảo sao cô không tùy tiện lấy máu tôi cho bất kỳ con vật nào vớ được uống. Về phần mình, Lorraine giải thích rằng các thí nghiệm của cô ban đầu chỉ tập trung vào việc đảm bảo sức khỏe cho tôi, cùng những đặc điểm và năng lực chính mà cơ thể Thi Quỷ này sở hữu. Thế nên những năng lực kín kẽ kiểu này cô không phát hiện ra cũng là lẽ đương nhiên.
 
-"Chúng ta... Nuôi nó được không?"
+"Mình... Nuôi nó... Được không?"
 
-"Tùy anh thôi, Rentt. Giờ mới lo lắng chuyện đó chẳng phải hơi muộn rồi sao? Một Undead đang sống trong căn nhà này, và Undead đó chính là anh. Thêm một hay hai con chuột nữa cũng chẳng tạo ra khác biệt gì lớn. Tuy nhiên, nó sẽ phải tự làm việc để nuôi thân đấy."
+"Tùy anh thôi, Rentt. Giờ mới nghĩ đến chuyện đó chẳng phải hơi muộn rồi sao? Nhà này vốn có một Undead đang ở rồi, mà Undead đó chính là anh chứ ai. Thêm một hai con chuột nữa thì có khác gì đâu. Tuy nhiên, nó cũng phải làm gì đó để bù tiền ăn ở đấy nhé."
 
-"Nó phải... Trả. Tiền thuê nhà sao?"
+"Nó phải... Trả... Tiền nhà à?"
 
-"Đừng có ngốc nghếch thế. Mẫu vật! Một mẫu máu từ con chuột, cùng vài sợi lông là đủ rồi. Tôi có thể nghĩ ra rất nhiều thí nghiệm, phải đấy... một lượng lớn các bài kiểm tra. Tất nhiên tôi sẽ không rút cạn máu nó đâu. Một lượng vừa đủ là được. Nhắc đến sức khỏe mới nhớ, Rentt. Nó ăn cái gì?" Lorraine chìa tay về phía con Puchi Suri.
+"Đừng có ngốc thế. Mẫu vật! Chỉ cần mẫu máu của nó với mấy cọng lông là đủ rồi. Tôi nghĩ ra được bao nhiêu là thí nghiệm đây này, phải... cơ man là bài thử nghiệm. Dĩ nhiên là tôi không rút cạn máu nó đâu. Lấy một lượng vừa phải là được. Mà nhắc tới sức khỏe mới nhớ, Rentt này. Nó ăn cái gì thế?" Lorraine chìa tay về phía con Puchi Suri.
 
-Quyến thuộc của tôi chồm ra, hít ngửi các ngón tay của Lorraine rồi ngoạm miệng quanh một ngón.
+Con quyến thuộc của tôi vươn người tới, ngửi ngửi mấy ngón tay của Lorraine rồi ngoạm lấy một ngón.
 
 "Ái!"
 
-Đó là một vết cắn nhẹ, đủ để làm rách da Lorraine nhưng không gây ra tổn thương nghiêm trọng.
+Đó chỉ là một cú cắn nhẹ, vừa đủ làm rách da Lorraine chứ không gây thương tích gì nặng.
 
-Nhả ngón tay cô ra, con Puchi Suri liếm lên vết thương của Lorraine, nơi những giọt máu nhỏ đang rỉ lên trên bề mặt da.
+Nhả ngón tay cô ra, con Puchi Suri khẽ liếm lên vết thương nơi vài giọt máu nhỏ đang rỉ ra.
 
-"Tôi hiểu rồi. Máu sao? Giống như kẻ tạo ra ngươi à? Hừ. Đoán trước được rồi," Lorraine ngao ngán nói. "Ít nhất thì nó cũng dễ hiểu. Dẫu vậy... dạo này máu của tôi thành món hàng đắt khách gớm nhỉ?"
+"Ra vậy. Máu à? Giống hệt kẻ tạo ra mày nhỉ? Hừ, đoán ngay mà," Lorraine ngao ngán nói. "Ít ra thì nó cũng dễ hiểu. Cơ mà... dạo này máu của tôi đắt hàng gớm nhỉ?"
 
-Tôi không rõ liệu Lorraine có ý định biến câu nói của mình thành một trò đùa hay không, nhưng cô có vẻ đang có tâm trạng tốt. Tôi cho rằng tạm thời như vậy là đủ rồi. Lorraine chắc chắn đang rất hào hứng với tất cả những thí nghiệm mới nảy ra trong đầu liên quan đến người bạn lắm lông mới tìm được của chúng tôi. Ngược lại, quyến thuộc của tôi lại chẳng mấy mặn mà.
+Tôi chẳng rõ Lorraine đang nói đùa hay nói thật, nhưng trông cô có vẻ đang vui. Tạm thời thế là được rồi. Chắc chắn Lorraine đang rất hào hứng với hàng tá thí nghiệm nảy ra trong đầu về người bạn lắm lông mới gia nhập này. Ngược lại, con quyến thuộc của tôi thì chẳng mặn mà chút nào.
 
-"Tha cho tôi đi..." nó dường như đang nói vậy. Đáng tiếc là tôi chẳng thể làm gì nhiều trước xu hướng đắm chìm vào khoa học điên rồ của Lorraine, bản thân tôi cũng từng phải chịu đựng những quy trình và thí nghiệm y hệt trong quá khứ. Tất cả những gì tôi có thể làm là bảo quyến thuộc của mình ráng mà chịu đựng. Con Puchi Suri đáp lại với một cảm giác bất an và sợ hãi rõ rệt.
+"Tha cho tôi đi..." trông nó như muốn nói thế. Đáng tiếc là tôi chẳng thể can thiệp được gì vào cơn cuồng thí nghiệm của Lorraine, bởi chính tôi cũng từng nếm trải đủ mọi bài thử nghiệm y như thế rồi. Tôi chỉ đành bảo nó ráng mà nhịn thôi. Con Puchi Suri đáp lại bằng một nỗi bất an và sợ hãi thấy rõ.
 
 ◆◇◆◇◆
 
-Một ngày mới rạng rỡ buông xuống Maalt. Mặt trời chầm chậm nhô lên trên những tầng mây, rọi ánh nắng chan hòa khắp các đường phố Maalt, hay ít nhất là phần phố xá tôi có thể ngắm nhìn từ cửa sổ phòng mình. Dưới những tia nắng mặt trời, những đám mây tím ngắt ban nãy dần chuyển sang sắc đỏ, và cùng với đó, một ngày mới bắt đầu.
+Trời rạng sáng trên thị trấn Maalt. Mặt trời chầm chậm nhô lên sau những tầng mây, chan hòa ánh nắng xuống những con phố của Maalt, hay đúng hơn là khoảng phố xá tôi thấy được từ khung cửa sổ. Dưới ánh ban mai, những đám mây tím ban nãy dần chuyển sang sắc đỏ, báo hiệu ngày mới đã bắt đầu.
 
-Đó là cảnh tượng tôi thường xuyên chứng kiến. Chẳng hẳn là cảnh tượng hiếm hoi gì, nhưng từng là điều tôi phải thức giấc đón chào khi còn sống. Giấc ngủ không còn là thứ tôi cần đến kể từ khi trở thành một Thi Quỷ. Đây dường như là sự thật hiển nhiên kể từ khoảnh khắc tôi hóa thành hình dạng này. Thỉnh thoảng tôi vẫn chợp mắt đôi chút, nhưng điều đó không còn cần thiết cho các hoạt động của cơ thể tôi nữa.
+Đó là cảnh tượng tôi vẫn thường thấy. Chẳng phải hiếm hoi gì, nhưng hồi còn sống, tôi phải dậy thật sớm mới đón được cảnh này. Từ lúc biến thành Thi Quỷ, tôi gần như chẳng cần ngủ nữa. Hình như từ lúc biến thành thế này đã vậy rồi. Lâu lâu tôi cũng có chợp mắt một lát, nhưng cơ thể tôi không ngủ cũng chẳng hề hấn gì.
 
-Chuyện này buồn chán khủng khiếp. Tất cả những gì tôi có thể làm để giết thời gian là nhìn ra ngoài cửa sổ, hoặc thắp đèn lên và đọc sách. Điều này cho phép tôi hoạt động suốt ngày đêm khi đang thực hiện ủy thác, dẫu một mạo hiểm giả không cần nghỉ ngơi chắc chắn sẽ khiến người khác sinh nghi. Mạo hiểm giả vốn chẳng phải cái nghề mà người ta có thể giải quyết ngay tức khắc mọi nhiệm vụ của mình; dù là mạo hiểm giả dày dạn kinh nghiệm đến đâu, việc thiếu nghỉ ngơi cũng có thể dẫn tới những biến chứng nghiêm trọng. Vì lẽ đó, tôi chẳng có lựa chọn nào khác ngoài việc phải nghỉ ngơi.
+Nói thật là chán không chịu nổi. Để giết thời gian, tôi chỉ biết nhìn ra cửa sổ hoặc thắp đèn ngồi đọc sách. Nhờ thế mà lúc làm ủy thác tôi có thể cày suốt ngày đêm, dù một mạo hiểm giả chẳng cần nghỉ ngơi thì người ta nhìn vào sẽ nghi ngay. Nghề mạo hiểm giả đâu phải cứ hùng hục làm một lèo là xong việc; dù dày dạn kinh nghiệm đến đâu, nếu không nghỉ ngơi tử tế thì rất dễ xảy ra sơ suất nghiêm trọng. Thế nên tôi vẫn buộc phải dành thời gian nghỉ ngơi.
 
-Tuy nhiên, nhờ vào xu hướng sinh hoạt về đêm mới hình thành, tôi đã trở nên giống một học giả hơn trước, và tình trạng này đã kéo dài suốt khoảng một tháng nay. Kiến thức của tôi chẳng thấm vào đâu so với Lorraine, dẫu tất cả những gì tôi cần làm để có câu trả lời chỉ là cất tiếng hỏi. Một đặc ân vô cùng tiện lợi, nếu không muốn nói là gì khác.
+Nhưng nhờ cái thói quen thức đêm mới này, suốt một tháng qua tôi đọc sách nhiều chẳng khác nào một học giả. Kiến thức của tôi dĩ nhiên chẳng thấm vào đâu so với Lorraine, có điều mỗi khi thắc mắc, tôi chỉ cần cất tiếng hỏi là có câu trả lời ngay. Đúng là tiện đủ đường.
 
-Mặt khác, con Puchi Suri mà tôi mang về từ cô nhi viện lại cần một lượng giấc ngủ kha khá. Nó hiện đang ngáy khò khò nằm ngửa bụng, nằm xoài ra trên chiếc bàn làm việc nơi tôi đang đọc sách.
+Trái lại, con Puchi Suri tôi mang về từ cô nhi viện thì lại ngủ rất say. Lúc này nó đang ngửa bụng ngáy khò khò, nằm xoài ra mặt bàn nơi tôi ngồi đọc sách.
 
-Tôi thấy mình có phần hậm hực với quyến thuộc của mình. Trong khi tôi, người chủ nhân bi thảm của nó, đang phải vật lộn trong cuộc chiến khổ sở với sự cô độc giữa đêm thanh vắng, thì con chuột lại ngủ say như chết.
+Tôi thấy hơi tị nạnh với con quyến thuộc của mình. Trong khi người chủ nhân đáng thương là tôi đây đang phải vật lộn khổ sở với nỗi cô đơn giữa đêm hôm khuya khoắt, thì con chuột này lại lăn ra ngủ say như chết.
 
-Chẳng lẽ quyến thuộc lại không chia sẻ mọi đặc điểm của tôi sao?
+Lẽ nào làm quyến thuộc mà lại không thừa hưởng mọi đặc tính từ tôi sao?
 
-Tôi từng đinh ninh là như vậy, nhưng thực tế lại hoàn toàn khác.
+Tôi cứ tưởng là vậy, ai ngờ thực tế lại khác xa.
 
-Đúng là một con chuột vô tư lự...
+Đúng là một con chuột vô lo vô nghĩ...
 
-Rồi tôi cảm nhận được chút ý nghĩ mờ nhạt từ quyến thuộc của mình, cùng một số cảm xúc cơ bản mà tôi có thể hiểu được. Tôi đoán việc ngủ say không hoàn toàn cắt đứt sợi dây liên kết giữa chúng tôi. Việc kiểm tra và các thí nghiệm bài bản rất có thể sẽ làm sáng tỏ thêm nhiều chi tiết, nhưng tôi cho rằng những điều cụ thể cứ để mặc cho Lorraine lo liệu. Rốt cuộc thì cô ấy cũng sẽ tự mình tiến hành những thí nghiệm đó mà chẳng cần ai giục giã.
+Bất chợt, tôi bắt được một thoáng ý nghĩ mơ hồ từ con quyến thuộc, cùng vài cảm xúc cơ bản mà tôi có thể hiểu được. Xem ra việc ngủ say không hoàn toàn cắt đứt sợi dây liên kết giữa hai bên. Cứ kiểm tra và làm vài bài thử nghiệm bài bản thì chắc sẽ rõ hơn, nhưng việc chi tiết này cứ để mặc cho Lorraine lo liệu. Dù sao thì chẳng cần ai giục cô ấy cũng sẽ tự nhảy vào làm thôi.
 
-Tôi cảm thấy đôi chút áy náy vì đùn đẩy mọi việc cho Lorraine, nhưng tôi còn phải bận tâm đến việc Tiến Hóa Bản Thể của chính mình, nên đành chịu vậy. Tuy nhiên, theo tình hình hiện tại, tôi thấy mình có quá nhiều thời gian rảnh rỗi. Thậm chí người ta có thể gọi tôi là một kẻ ăn bám.
+Tôi cũng hơi áy náy vì đùn hết cho Lorraine, nhưng tôi còn phải lo vụ Tiến Hóa Bản Thể của mình nữa, nên đành chịu thôi. Có điều trong tình cảnh này, tôi lại thấy mình rảnh rỗi quá mức. Có khi người ngoài nhìn vào còn bảo tôi là một gã ăn bám ấy chứ.
 
-Tốt hơn hết là tôi nên gạt những suy nghĩ đó sang một bên. Bên ngoài, cư dân thị trấn Maalt đã bắt đầu cựa quậy thức giấc, vài người thậm chí đã rời khỏi nhà. Chính giữa những dòng suy nghĩ vẩn vơ đó, một mùi hương lạ lùng thoảng qua mũi tôi.
+Tốt nhất là nên gạt mấy suy nghĩ ấy sang một bên. Bên ngoài, người dân Maalt bắt đầu rục rịch thức dậy, vài người thậm chí đã rời khỏi nhà. Đang lúc nghĩ vẩn vơ thì bỗng một mùi hương lạ thoảng qua mũi tôi.
 
-Nó đến từ đâu vậy? Bên ngoài ư? Không thể nào. Tôi đã đảm bảo tất cả các cửa sổ đều được đóng chặt và cài then sau khi Lorraine đi ngủ rồi mà.
+Mùi từ đâu ra thế nhỉ? Bên ngoài ư? Không thể nào. Sau khi Lorraine đi ngủ, chính tay tôi đã đóng chặt và cài then tất cả các cửa sổ rồi.
 
 Vậy thì...
 
-Bị sự tò mò thôi thúc bởi mùi hương lạ lùng này, tôi cất bước đi về phía nguồn phát ra mùi thơm, vốn dĩ rõ ràng là gian bếp của ngôi nhà.
+Tính tò mò nổi lên trước mùi hương lạ, tôi lần theo hướng phát ra mùi thơm, và nơi đó rõ ràng là gian bếp.
 
-Hiện tại, tôi quyết định cứ để mặc quyến thuộc của mình ở nguyên chỗ cũ, bởi nếu nó thức dậy, khứu giác nhạy bén của nó sẽ cho tôi biết ngay lập tức mùi hương đó là gì.
+Trước mắt, tôi quyết định cứ để con quyến thuộc nằm đó; lỡ nó có thức giấc thì với cái mũi thính nhạy, chắc nó cũng nhận ra ngay đây là mùi gì.
 
-Đập vào mắt tôi là một cảnh tượng kỳ lạ khi bước chân vào gian bếp.
+Vừa bước vào bếp, đập vào mắt tôi là một cảnh tượng hết sức kỳ lạ.
 
-"Tôi suýt nữa thì... Nghĩ rằng. Hôm nay... Trời sắp có tuyết rơi rồi đấy," tôi nói, bật cười thích thú trước cảnh tượng ấy.
+"Suýt nữa thì... Tôi tưởng. Hôm nay... Trời đổ tuyết... Rồi chứ," tôi vừa nói vừa thấy buồn cười trước cảnh tượng đó.
 
-"Đừng có ngớ ngẩn thế, Rentt. Ngay cả tôi cũng có thể nấu nướng nếu tôi dồn tâm trí vào đấy chứ."
+"Đừng có vớ vẩn thế, Rentt. Nếu chịu để tâm thì đến tôi cũng nấu ăn được nhé."
 
-Câu trả lời đó không đến từ ai khác ngoài Lorraine, người chẳng hiểu vì lý do gì lại quyết định trổ tài nấu bữa sáng. Vô số dụng cụ ma thuật và giả kim thuật hiện diện trong gian bếp, và Lorraine thao tác từng món bằng một đôi tay thuần thục.
+Người đáp lại không ai khác chính là Lorraine, chẳng hiểu sao sáng nay cô lại có hứng vào bếp làm bữa sáng. Đủ loại ma cụ cùng dụng cụ giả kim được bày la liệt trong bếp, và Lorraine đang thao tác từng món bằng đôi tay vô cùng thuần thục.
 
-Bình thường vào giờ này thì Lorraine còn đang ngủ say như chết, nhưng đúng như cô nói, việc cô có khả năng nấu nướng tàm tạm cũng chẳng phải chuyện gì kỳ quái. Lẽ dĩ nhiên tôi có thể nhận công trạng về chuyện đó, vì tôi chính là người đầu tiên dạy cô cách nấu nướng.
+Bình thường giờ này Lorraine còn đang ngủ say như chết, nhưng đúng như cô nói, chuyện cô biết nấu nướng tàm tạm cũng chẳng có gì lạ. Dĩ nhiên công lớn thuộc về tôi, bởi chính tôi là người đầu tiên dạy cô nấu ăn.
 
-Về phần Lorraine, thỉnh thoảng cô cũng sẽ nấu ăn nếu có hứng. Nếu phải đoán, hôm nay chính là một trong những lần như thế.
+Thỉnh thoảng có hứng thì Lorraine cũng sẽ xuống bếp. Nếu tôi đoán không lầm thì hôm nay chính là một lần hiếm hoi như thế.
 
-"Có phần... Nào. Cho tôi không?"
+"Có phần... Nào. Cho tôi... Không?"
 
-Dù tôi có thể sống sót chỉ nhờ vào máu, nhưng thỉnh thoảng tôi vẫn thích thưởng thức một bữa ăn ngon lành.
+Dù chỉ cần uống máu là sống được, nhưng lâu lâu được ăn một bữa ngon lành thì tôi vẫn thích lắm chứ.
 
-"Có chứ, có chứ." Câu trả lời của Lorraine mang vẻ trấn an. "Như anh thấy đấy, tôi đang làm đây này, Rentt. Ngồi xuống đi, sắp xong rồi."
+"Có chứ, có chứ." Lorraine trấn an. "Như anh thấy đấy, tôi đang làm đây này, Rentt. Ngồi xuống đi, xong ngay bây giờ đây."
 
-Dẫu các phương pháp của cô có phần hơi khác người, nhưng Lorraine biết rõ mình đang làm gì.
+Dù cách làm có phần hơi dị, nhưng Lorraine vẫn biết rất rõ mình đang làm gì.
 
-Gật đầu, tôi quay người và tiến về phía bàn ăn.
+Tôi gật đầu rồi quay bước về phía bàn ăn.
