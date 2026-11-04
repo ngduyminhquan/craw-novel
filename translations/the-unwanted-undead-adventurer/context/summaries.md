@@ -1407,6 +1407,12 @@ Rentt và Augurey bị chủ quán trọ cầm rìu tấn công tại quầy l�
 Nhờ nhớ lại mùi nước hoa đặc trưng vương đô ngửi thấy trên người gã đàn ông tấn công Lorraine, Augurey lần theo dấu vết bắt giữ được Siren đang lẩn trốn trong làng; Lorraine nhận tra khảo riêng và làm rõ năng lực của Siren là dị năng/thiên phú không dùng Ma Lực (thao túng tối đa 20 người), tự giải trừ khi ả bất tỉnh.
 Nhóm quyết định đánh thức Ferrici đầu tiên để giải thích sự tình; sau khi được cởi trói và nghe kể lại toàn bộ sự việc, Ferrici mở to mắt bàng hoàng trước sự thật mình bị Siren thôi miên ám sát Augurey.
 
+## 239
+Lorraine và Augurey giải thích cặn kẽ bản chất thuật thôi miên cho Ferrici hiểu; Ferrici xấu hổ xin lỗi Augurey vì đã đâm lén nhưng Augurey xua đi và nhờ cô giúp đánh thức, giải thích cho hơn chục dân làng khác mà không làm lộ nhóm Rentt là mục tiêu.
+Ferrici thuyết phục thành công dân làng; dù người già dặn như chủ quán trọ sinh nghi, nhóm Rentt không bị đuổi nhưng quyết định đẩy nhanh tiến độ làm nhiệm vụ ngay sáng sớm; Augurey chủ động đưa Ferrici về nhà để đề phòng đồng bọn thứ ba của Siren ra tay.
+Sau khi Lorraine cài bẫy ngầm ma thuật quanh Siren đang ngủ say, cô và Rentt sang phòng Yattul (Goblin) gõ cửa vờ báo tin một nửa sự thật rằng đã bắt giữ thủ phạm nhằm tung hỏa mù và gài bẫy nhử đồng bọn tới giải cứu.
+Cảnh kết thúc: Bước ra hành lang, Rentt và Lorraine bàn nhau kế hoạch sáng mai lên đường tới Hồ Petorama làm nhiệm vụ và chờ xem Goblin cùng đồng bọn có cắn câu hay không.
+
 
 
 

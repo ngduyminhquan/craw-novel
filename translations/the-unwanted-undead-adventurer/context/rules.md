@@ -96,3 +96,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#237) Phân biệt "Skeleton" (quái vật Undead → viết hoa "Khô Lâu") và danh từ chung "skeleton" chỉ bộ khung xương cơ thể ("my skeleton" → "bộ xương / khung xương"), tránh dịch máy thành "Khô Lâu".
 - (#238) Cụm từ "pulling the strings behind the curtains": dịch là "kẻ giật dây sau bức màn" (tránh nhầm thuật ngữ "Pulling" trong game là "dụ quái").
 - (#238) Cụm từ "average Joes": dịch là "những người dân bình thường / thường dân" (thành ngữ chỉ người bình thường, không phải tên riêng người tên Joe).
+- (#239) Cụm từ "plain-Jane villager": dịch là "cô thôn nữ bình thường / mộc mạc" (thành ngữ tiếng Anh chỉ cô gái bình thường, tránh nhầm tên riêng Jane).

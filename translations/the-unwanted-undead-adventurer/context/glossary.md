@@ -11,6 +11,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 - Dragon blood — chất lỏng miêu tả chung (#1)
 - Dragon Flower Blood — miêu tả dịch chiết hoa rồng (#197)
 - Solo Bronze-class — cụm miêu tả mạo hiểm giả Đồng Cấp độc hành (#197)
+- Jane — từ miêu tả trong thành ngữ plain-Jane (#239)
 
 ## Bảng thuật ngữ
 
@@ -435,3 +436,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Lake Petorama |  | Hồ Petorama | địa danh | 235 | Vùng hồ đích đến trong chuyến đi của nhóm Rentt (ペトラマ湖) |
 | Mime Wyvern | mime wyverns; Mime Wyverns; mime wyvern | Phi Long Mime | quái vật | 235 | Phân loài Phi Long màu xanh lam nhạt sinh sống ở vùng Hồ Petorama (マイムワイバーン) |
 | lymes | lymes leaf | cây lymes | vật phẩm | 237 | Loài cây có lá to cỡ và hình dạng như bàn tay người |
+| Skull-Mask |  | Mặt Nạ Khô Lâu | danh hiệu | 239 | Biệt danh Augurey gọi đùa Rentt |
+| She-Mage |  | Nữ Pháp Sư | danh hiệu | 239 | Biệt danh Augurey gọi đùa Lorraine |

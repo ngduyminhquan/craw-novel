@@ -243,7 +243,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 236 |  | Chapter_236 - Vol 10 Chapter 4 - The Arrival (2).txt | Vol 10 Chapter 4 - The Arrival (2) | reviewed |  |
 | 237 |  | Chapter_237 - Vol 10 Chapter 4 - The Arrival (3).txt | Vol 10 Chapter 4 - The Arrival (3) | reviewed |  |
 | 238 |  | Chapter_238 - Vol 10 Chapter 4 - The Arrival (4).txt | Vol 10 Chapter 4 - The Arrival (4) | done |  |
-| 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | todo |  |
+| 239 |  | Chapter_239 - Vol 10 Chapter 4 - The Arrival (5).txt | Vol 10 Chapter 4 - The Arrival (5) | done |  |
 | 240 |  | Chapter_240 - Vol 10 Chapter 4 - The Arrival (6).txt | Vol 10 Chapter 4 - The Arrival (6) | todo |  |
 | 241 |  | Chapter_241 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (1) | todo |  |
 | 242 |  | Chapter_242 - Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2).txt | Vol 10 Chapter 5 - A Token of Thanks from the Village Girl (2) | todo |  |
@@ -883,3 +883,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#238] Xưng hô giữa Rentt và Ferrici — tạm chọn Rentt xưng 'tôi', gọi 'em / Ferrici' để hòa nhã trấn an thiếu nữ trong làng; Ferrici xưng 'tôi', gọi 'các người / anh' (phương án khác: Rentt gọi 'cô / Ferrici'). Tạm dùng trong bản dịch: 'tôi - em / Ferrici' và 'tôi - các người / anh'. → Giữ Rentt → Ferrici: 'tôi - em / Ferrici', Ferrici → Rentt: 'tôi - các người / anh' (đồng bộ với cặp Lorraine ↔ Ferrici và Augurey ↔ Ferrici ở #235, #236). (orchestrator)
 - [#238] Dịch cụm từ 'Our man-eater friend' (đoạn 25) Rentt gọi mỉa mai Siren — tạm chọn 'Ả bạn "ăn thịt đàn ông" của chúng ta' để phản ánh cả điển tích quái vật Siren và tài nghệ mị hoặc đàn ông (phương án khác: 'Ả bạn "hồ ly tinh" của chúng ta', 'Ả bạn "ăn thịt người" của chúng ta'). Tạm dùng trong bản dịch: 'Ả bạn "ăn thịt đàn ông" của chúng ta'. → Giữ 'Ả bạn "ăn thịt đàn ông" của chúng ta'. (orchestrator)
 - [#238] Dịch thành ngữ 'average Joes' (đoạn 20) — tạm chọn 'những người dân bình thường trong làng' (phương án khác: 'thường dân trong làng'). Tạm dùng trong bản dịch: 'những người dân bình thường trong làng'. → Giữ 'những người dân bình thường trong làng'. (orchestrator)
+- [#239] Dịch biệt danh Augurey gọi Rentt và Lorraine ("Skull-Mask or She-Mage") — tạm chọn "gã Mặt Nạ Khô Lâu hay cô Nữ Pháp Sư" (phương án khác: "Mặt Nạ Đầu Lâu", "Nàng Pháp Sư"). → Giữ "Mặt Nạ Khô Lâu" và "Nữ Pháp Sư". (orchestrator)
+- [#239] Xưng hô Ferrici với Augurey sau khi hết bị thôi miên — tạm chọn Ferrici xưng "tôi", gọi "anh" (lúc bị thôi miên ở #236 xưng "em") (phương án khác: Ferrici tiếp tục xưng "em"). → Giữ Ferrici xưng "tôi", gọi "anh / Augurey" khi đã tỉnh táo (đồng bộ với Ferrici → Rentt và Ferrici → Lorraine; riêng lúc bị thôi miên quyến rũ ở #236 mới xưng "em"). (orchestrator)
