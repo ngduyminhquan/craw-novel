@@ -1,6 +1,6 @@
 # Chương 21: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (1)
 
-Nói thật lòng thì tôi thấy tiếc hùi hụi khi Loris lại có gia đình. Giá như ngoài chuyện không mắc nợ, ông ta còn bảo mình không có người thân, thì tức là ông ta đã nói dối tôi. Nếu đúng như thế thì lại quá tiện cho tôi rồi, ít nhất lúc ấy tôi đã nghĩ vậy.
+Thú thật, tôi thấy tiếc vô cùng khi Loris thật sự có gia đình. Giá như ông ta không có người thân, cũng chẳng hề mắc nợ như lời mình kể, thì tức là ông ta đã nói dối tôi. Nếu đúng như thế thì lại quá tiện cho tôi rồi, ít nhất lúc ấy tôi đã nghĩ vậy.
 
 Lý do là dạo gần đây, bản năng nguyên thủy trong tôi trỗi dậy ngày một dữ dội, nó thôi thúc tôi làm đúng một việc:
 
@@ -8,7 +8,7 @@ Lý do là dạo gần đây, bản năng nguyên thủy trong tôi trỗi dậy
 
 Nếu thực sự phải làm cái chuyện đó... chẳng phải nhắm vào một kẻ bất lương là tốt nhất sao? Hay một kẻ dối trá? Nếu có kẻ lừa tôi, liệu làm thế có chấp nhận được không...?
 
-Thế nhưng... xét về mọi mặt thì Loris lại là một người tốt bụng. Rốt cuộc tôi chẳng thể nào ăn thịt ông ta được. Vả lại nếu có làm thật, tốt nhất tôi đừng biết tên đối phương thì hơn. Tiếc thật đấy, tôi thậm chí đã chuẩn bị sẵn tâm lý đến mức đó rồi cơ mà.
+Thế nhưng... nói gì thì nói, Loris lại là một người tốt bụng. Rốt cuộc tôi chẳng thể nào ăn thịt ông ta được. Vả lại nếu có làm thật, tốt nhất tôi đừng biết tên đối phương thì hơn. Tiếc thật đấy, tôi thậm chí đã chuẩn bị sẵn tâm lý đến mức đó rồi cơ mà.
 
 Vừa nhận ra mình có ý nghĩ đó, tôi vội lắc đầu xua đi.
 
@@ -36,7 +36,7 @@ Nhà của Lorraine. Tôi có thể ra vào... tự do.
 
 Đây là nơi ẩn náu của tôi.
 
-Lorraine... gặp khá nhiều bất tiện nếu phải sống trong ký túc xá bình thường. Đó là lý do cô ở căn nhà này, mà cũng nhờ tôi giúp cô mới ở được.
+Lorraine... gặp khá nhiều bất tiện nếu phải sống trong ký túc xá bình thường. Đó là lý do cô dọn tới căn nhà này, mà chuyện đó cũng nhờ một tay tôi giúp.
 
 Cô đã sống ở đây chừng mười năm. Dù chuyện đã từ ngần ấy năm trước, ký ức trong tôi vẫn còn mới nguyên như thể vừa diễn ra hôm qua. Hai đứa giống như đôi bạn dính lấy nhau chẳng dứt ra nổi. Chúng tôi đã quen biết... nhau lâu đến chừng ấy rồi.
 
@@ -52,7 +52,7 @@ Con người cô vốn vậy. Tính tình bừa bãi, mà lối sống cũng lu�
 
 Làm việc gì cô cũng chỉ qua loa đại khái, và chuyện an ninh cửa nẻo trong nhà chắc cũng bị xem nhẹ như vậy. Mà có khi cô xuề xòa thế chỉ vì bản thân quá mạnh. Hẳn đó là lý do lớn nhất rồi.
 
-Chẳng ai dại gì tự dưng đi tấn công một ma pháp sư Ngân Cấp, và bản thân Lorraine cũng thừa hiểu điều đó. Dù có chạm trán lũ du côn vạm vỡ nhất, cô cũng chẳng gặp mấy nguy hiểm.
+Chẳng ai dại gì tự dưng đi gây sự với một ma pháp sư Ngân Cấp, và Lorraine cũng thừa hiểu điều đó. Dù có chạm trán lũ du côn vạm vỡ nhất, cô cũng chẳng gặp mấy nguy hiểm.
 
 Phải rồi... Cô biết tỏng nên mới bất cẩn thế.
 
@@ -60,7 +60,7 @@ Tôi... đâu phải mối nguy với Lorraine. Chưa phải lúc này.
 
 Lorraine rất mạnh, mạnh lắm mà.
 
-Thế nên... Đúng là thế nên.
+Thế nên... Vì thế nên.
 
 Phải... Dĩ nhiên rồi.
 
@@ -80,7 +80,7 @@ Tôi đáp lại như thường lệ.
 
 "...Không. Không..."
 
-Vừa chật vật đáp lời cô, tôi vừa chậm rãi bước lại gần. Đến gần hơn, tôi lờ mờ nhận ra bóng dáng Lorraine đang ngồi trên ghế sofa.
+Tôi chật vật lắm mới đáp lại được mấy câu của cô, chân chậm rãi bước tới. Lại gần hơn, tôi lờ mờ nhận ra bóng dáng Lorraine đang ngồi trên ghế sofa.
 
 Lorraine.
 
@@ -104,7 +104,7 @@ Tóc cô rối bù... như mọi khi. Áo choàng cùng y phục... mặc xộc 
 
 Cuốn hút...? Cuốn hút gì cơ...? Thứ đó... là gì chứ?
 
-Lorraine ngây thơ hỏi tôi: "Anh vui á? Sao thế, có chuyện gì tốt lành—"
+Lorraine vô tư hỏi tôi: "Anh vui á? Sao thế, có chuyện gì tốt lành—"
 
 Trước khi cô kịp dứt câu, Lorraine đã nằm gọn trong vòng tay tôi. Trong... vòng tay tôi.
 
@@ -112,9 +112,9 @@ Trước khi cô kịp dứt câu, Lorraine đã nằm gọn trong vòng tay tô
 
 "R-Rentt...! Anh làm cái gì thế...? Say rượu à? Mà khoan... Undead làm sao mà say được..."
 
-Bằng chất giọng có phần bối rối hơn thường ngày, Lorraine gặng hỏi xem tôi đang làm gì. Chẳng hiểu sao, điều đó lại càng làm tăng thêm nét cuốn hút của cô.
+Giọng Lorraine có phần bối rối hơn thường ngày khi gặng hỏi xem tôi đang làm gì. Chẳng hiểu sao, điều đó lại càng làm tăng thêm nét cuốn hút của cô.
 
-Làn da ửng đỏ lấm tấm mồ hôi của cô tỏa ra một mùi hương quen thuộc, phảng phất rõ rệt giữa bầu không khí đầy bụi bặm. Đầu óc mỗi lúc một quay cuồng, tôi bám riết lấy mùi hương của Lorraine, rồi theo đó ôm ghì lấy chính cô, siết thật chặt mà cất lời.
+Làn da ửng đỏ lấm tấm mồ hôi của cô tỏa ra một mùi hương quen thuộc, phảng phất rõ rệt giữa bầu không khí đầy bụi bặm. Đầu óc mỗi lúc một quay cuồng, tôi bám riết lấy mùi hương của Lorraine, rồi vô thức ôm ghì lấy cô, siết thật chặt mà cất lời.
 
 "Lo... rraine. Tôi..."
 
@@ -154,7 +154,7 @@ Một ý nghĩ khác lại len lỏi vào tâm trí đang đỏ ngầu của tô
 
 Máu đã ngon đến thế này, vậy thịt người sẽ có vị ra sao nhỉ...?
 
-Đó chắc chắn phải là một hương vị thần thánh không thuộc về cõi này. Nhất định phải là thế.
+Đó chắc chắn phải là thứ mỹ vị tuyệt trần chẳng gì trên đời sánh kịp. Nhất định phải là thế.
 
 Tôi đói khát ngoạm lấy vai Lorraine, dồn lực cắn mạnh hơn bao giờ hết.
 
@@ -164,7 +164,7 @@ Toạc
 
 Tôi đã cắn đứt một mẩu thịt trên vai Lorraine. Cũng chẳng nhiều nhặn gì, chỉ là một miếng nhỏ cỡ bằng ngón tay út. Nhưng quả nhiên, hương vị này... đúng như tôi mong đợi.
 
-Tôi nhai mẩu thịt, khoan khoái tận hưởng. Hương vị này đủ làm tôi thỏa mãn suốt cả đời. Chỉ cần có thế thôi là đủ, hương vị của nó đậm sâu đến mức ấy. Nhưng ngần này vẫn còn quá ít. Không ngờ chỉ một mẩu thịt vụn lại có thể mang đến cho tôi niềm vui sướng tột cùng đến vậy...
+Tôi nhai mẩu thịt, khoan khoái tận hưởng. Hương vị này đủ làm tôi thỏa mãn suốt cả đời. Chỉ cần có thế thôi là đủ, hương vị của nó mãnh liệt đến mức ấy. Nhưng ngần này vẫn còn quá ít. Không ngờ chỉ một mẩu thịt nhỏ lại có thể mang đến cho tôi niềm vui sướng tột cùng đến vậy...
 
 Thế nhưng niềm vui sướng của tôi đột ngột bị cắt ngang. Cơn khát lại ùa đến, bản năng khiến tôi không tài nào kiềm chế nổi.
 
@@ -192,7 +192,7 @@ Tôi thoáng khựng lại trong giây lát, rồi lại chồm về phía Lorra
 
 Dù cảm nhận được những luồng ma pháp đang tụ lại nơi bàn tay Lorraine chìa ra, nhưng tất cả đã quá muộn. Một quả cầu lửa khổng lồ bùng lên, lao thẳng về phía tôi. Với uy lực xứng tầm một ma pháp sư Ngân Cấp, đòn đánh hất văng tôi đi một quãng xa rồi đập sầm vào tường.
 
-Tôi từ từ trượt người xuống sàn, ý thức dần trôi dạt vào cõi vô định. Trong cơn mê man, tôi lờ mờ thấy bóng dáng Lorraine hớt hải chạy lại gần. Cô đặt một bàn tay lên má tôi.
+Cơ thể tôi từ từ trượt xuống sàn, ý thức trôi dần vào khoảng không xa xăm. Tôi lờ mờ thấy bóng dáng Lorraine luống cuống, hớt hải chạy lại gần. Cô đặt một bàn tay lên má tôi.
 
 "...May quá, anh vẫn còn sống. Đợi tỉnh lại rồi xin lỗi tôi sau..."
 
@@ -220,7 +220,7 @@ Mình ngủ thiếp đi từ lúc nào thế nhỉ?
 
 "...Tỉnh rồi đấy à, Rentt."
 
-Đập vào mắt tôi khi vừa mở mắt là một cảnh tượng quen thuộc đến lạ: trần nhà nơi Lorraine ở. Tiếng gọi của cô kéo về cả một dòng ký ức ùa đến, người ta gọi đó là hồi tưởng thì phải. Tôi dần nhớ lại chuỗi sự việc đã đưa mình tới nơi này.
+Vừa mở mắt ra, tôi đã thấy một cảnh tượng quen thuộc đến lạ: trần nhà nơi Lorraine ở. Tiếng gọi của cô kéo cả một dòng ký ức ùa về, tái hiện rõ mồn một trong đầu. Tôi dần nhớ lại chuỗi sự việc đã đưa mình tới nơi này.
 
 Sau khi sắp xếp lại tình hình trong đầu đôi chút, cuối cùng tôi cũng cất tiếng.
 
@@ -230,7 +230,7 @@ Sau khi sắp xếp lại tình hình trong đầu đôi chút, cuối cùng tô
 
 Tôi lắc đầu trước câu hỏi của Lorraine. Thực tình thì chẳng thấy có gì khác lạ cả.
 
-Chỉ có một điều: mùi máu thoang thoảng trong phòng quả thực có kích thích cơn thèm ăn, nhưng chẳng thấm tháp gì so với cơn thèm khát điên cuồng đỏ ngầu lúc trước.
+Chỉ có một điều: mùi máu thoang thoảng trong phòng quả thực có kích thích cơn thèm ăn, nhưng chẳng thấm tháp gì so với cơn khát máu điên cuồng nhuốm sắc đỏ lúc trước.
 
 Lorraine đưa tay chạm lên vai, có vẻ hài lòng trước câu trả lời của tôi.
 
@@ -250,13 +250,13 @@ Không... chịu thôi. Ký ức của tôi có quá nhiều khoảng đứt đo
 
 Lorraine khẽ gật đầu khi tôi kể lại chút ký ức vụn vặt còn sót lại.
 
-"Ừ, ừ. Tất nhiên rồi. Tôi cũng đoán là sẽ như vậy. Lúc đó anh hành xử khác hẳn ngày thường. Nghĩ cho cùng thì chuyện này cũng nằm trong dự liệu thôi... Cứ xét mọi yếu tố thì chẳng có gì đáng ngạc nhiên cả. Dù sao tôi cũng kiểm soát được tình hình rồi. Không sao cả đâu."
+"Ừ, ừ. Tất nhiên rồi. Tôi cũng đoán là sẽ như vậy. Lúc đó anh hành xử khác hẳn ngày thường. Nghĩ cho cùng thì chuyện này cũng nằm trong dự liệu thôi... Cứ xét tình cảnh của anh hiện tại thì chẳng có gì đáng ngạc nhiên cả. Dù sao tôi cũng kiểm soát được tình hình rồi. Không sao cả đâu."
 
 Thấy mình đang nằm trên ghế sofa nhà Lorraine, tôi bèn nhờ cô giải thích những chuyện đã xảy ra từ lúc ấy đến giờ. Lorraine nãy giờ vẫn ngồi bên cạnh tôi, chỉ thản nhiên đáp.
 
 "Chẳng có gì nhiều để kể đâu. Vừa về tới nhà là anh đột ngột tấn công tôi, thế là tôi dùng ma pháp đánh văng anh đi. Tôi nhắm chuẩn lắm đấy nhé? Dù bình thường chắc đòn đó chẳng tài nào trúng nổi anh..."
 
-Có thật thế không? Trông xuề xòa thế thôi chứ Lorraine rất cừ. Khác với trước kia, giờ cô đã có thể dễ dàng một mình thám hiểm những mê cung bậc trung, nên tôi không nghĩ việc né tránh ma pháp của cô lại là chuyện dễ dàng gì.
+Có thật thế không? Trông xuề xòa thế thôi chứ Lorraine rất cừ. Khác với trước kia, giờ cô đã có thể dễ dàng một mình thám hiểm những mê cung bậc trung, nên tôi không nghĩ né ma pháp của cô lại là chuyện đơn giản.
 
 Như đọc thấu suy nghĩ của tôi, Lorraine tiếp tục: "Chà, chuẩn bị sẵn sàng từ trước thì mới nói thế được. Lúc đó tôi bị bất ngờ nên hoảng loạn cả lên đấy chứ. Bình thường thì đời nào tôi lại để quái vật áp sát đến thế. Anh thừa biết tôi thích đứng từ xa quan sát rồi mới tấn công mà. Tại anh ở gần quá... nên thi triển ma pháp cũng khó. Đột ngột nén một lượng lớn ma lực thành một đòn đánh tập trung quả là nước đi liều mạng đấy. Cơ mà... hiệu nghiệm là được rồi, tôi chẳng phàn nàn gì nữa."
 
@@ -276,7 +276,7 @@ Tôi đứng dậy, đưa tay đỡ lấy người cô.
 
 "...Hự. Suýt nữa thì ngã rồi. Phiền anh quá, Rentt..." Lorraine vội bước lùi lại, như muốn tự mình đứng vững.
 
-"Cho tôi xem... vết thương của cô..."
+"Cho tôi... xem. Vết thương... của cô..."
 
 Nói rồi, tôi đưa tay kéo vạt áo choàng của cô sang một bên. Đập vào mắt tôi là những lớp băng gạc đẫm máu được quấn hết sức vụng về và cẩu thả, máu đã thấm qua từng lớp vải. Thật chẳng dễ coi chút nào. Rõ ràng Lorraine chưa tự chăm sóc vết thương cho ra hồn, khá lắm thì cũng chỉ là sơ cứu qua loa. Tôi gặng hỏi vì sao cô không tới Viện Trị Liệu hay nơi cứu chữa nào đó.
 
@@ -294,7 +294,7 @@ Lorraine lại cất lời như thể đã đọc thấu suy nghĩ của tôi, h
 
 Xem ra Lorraine còn lo cho tôi hơn chính bản thân cô. Nhưng tôi có làm sao đâu. Quan trọng hơn là tôi phải chữa trị vết thương cho cô. Dù có thể dễ dàng chữa lành bằng thuốc, nhưng vết thương kiểu này chắc chắn sẽ để lại sẹo.
 
-Dù thuốc rẻ tiền cũng có thể làm lành miệng vết thương, nhưng sau khi chữa xong da thịt sẽ để lại vết thâm hay sẹo xấu xí. Vì thế, các nữ mạo hiểm giả thường chuộng dùng thuốc đắt tiền cốt để tránh điều đó. Thế nhưng Lorraine chưa bao giờ bận tâm đến những chuyện như vậy. Thậm chí từ trước đến nay, cô toàn dùng thuốc tự chế mỗi khi cần chữa trị. Với cái tính xuề xòa của cô, hẳn cô chẳng buồn bỏ nhiều công sức vào mấy lọ thuốc ấy đâu. Kéo theo đó, cô rất dễ bị sẹo, hoặc ít nhất thì nguy cơ ấy là hoàn toàn có thật.
+Dù thuốc rẻ tiền cũng có thể làm lành miệng vết thương, nhưng sau khi chữa xong da thịt sẽ để lại vết thâm hay sẹo xấu xí. Vì thế, các nữ mạo hiểm giả thường chuộng dùng thuốc đắt tiền cốt để tránh điều đó. Thế nhưng Lorraine chưa bao giờ bận tâm đến những chuyện như vậy. Thậm chí từ trước đến nay, cô toàn dùng thuốc tự chế mỗi khi cần chữa trị. Với cái tính xuề xòa của cô, hẳn cô chẳng buồn bỏ nhiều công sức vào mấy lọ thuốc ấy đâu. Thành ra cô rất dễ bị sẹo, hoặc ít nhất cũng hoàn toàn có nguy cơ đó.
 
 Mà vết sẹo đó lại do chính tôi gây ra, thế thì làm sao tôi sống cho thanh thản nổi.
 

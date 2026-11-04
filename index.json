@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T11:19:18Z",
+  "generatedAt": "2026-11-04T11:26:44Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2266,19 +2266,19 @@
           "number": 19,
           "title": "Chương 19: Tập 1 Chương 4 - Mê Cung Nguyệt Ảnh và Những Ràng Buộc Phiền Phức (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_019.md",
-          "sha": "38e386ed06cfef6443e6d1ebb7f19a8eb7fdc83f"
+          "sha": "ab17034e83c8ea5695c7f5feddbffe2a7769c0ab"
         },
         {
           "number": 20,
           "title": "Chương 20: Tập 1 Chương 4 - Mê Cung Nguyệt Ảnh và Những Ràng Buộc Phiền Phức (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_020.md",
-          "sha": "b5bb37e89f02708c45079488ebc0c6bed4a599d4"
+          "sha": "0e60ace9711f4323d9d30d60bef1517a96e5c025"
         },
         {
           "number": 21,
           "title": "Chương 21: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_021.md",
-          "sha": "35194a8049a097d0465554f0a0ea2507fac42755"
+          "sha": "9680b0922333026a8e386af2da2507ce6dac06a0"
         },
         {
           "number": 22,
