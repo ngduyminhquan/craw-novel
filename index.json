@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T08:24:11Z",
+  "generatedAt": "2026-11-04T08:28:31Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3767,6 +3767,12 @@
           "title": "Chương 269: Ngoại truyện Tập 11 - Sức Nặng Của Một Sinh Mệnh",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_269.md",
           "sha": "2a22e44223654a36cc0e511e1c486e791508a042"
+        },
+        {
+          "number": 270,
+          "title": "Chương 270: Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_270.md",
+          "sha": "b97792c88ce37dc5bb367a805f55b78c3f688a49"
         }
       ]
     },

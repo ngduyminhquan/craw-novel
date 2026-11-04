@@ -1598,32 +1598,8 @@ Lorraine ban đầu lo lắng nhưng đồng ý cùng Rentt tạm thời nuôi d
 Lorraine liên hệ và giao chú sói con cho Nữ Nam tước Graham cùng người con trai hiểu chuyện nhận nuôi; khi trở về nhà, cô không kìm được nước mắt vì tiếc nuối không kịp đặt tên cho nó.
 Cảnh kết thúc: Rentt dịu dàng xoa đầu an ủi Lorraine rằng chú sói con chắc chắn sẽ có cuộc sống hạnh phúc tại mái ấm mới, và Lorraine gượng cười nén lại nỗi buồn.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 270
+Trong bữa tối, Lorraine bất ngờ hỏi Rentt liệu anh từng nghĩ đến chuyện theo học tại Học Viện chưa; Rentt thừa nhận xuất thân từ làng quê hẻo lánh nên chưa từng nghĩ tới, nhưng nếu có cơ hội cũng muốn trải nghiệm không khí cùng bạn bè đồng trang lứa học tập và thi đua lành mạnh.
+Lorraine cười trước suy nghĩ lý tưởng hóa của Rentt và kể lại trải nghiệm thực tế đầy khắc nghiệt tại Học Viện Đế Quốc, nơi cô từng bị các học viên lớn hơn 7–8 tuổi ghen ghét giấu sách giáo khoa, và cô đã đáp trả bằng những cái bẫy để đời.
+Lorraine an ủi Rentt rằng anh đã tự học đọc hết sách trong nhà cô nên kiến thức không thua kém bất kỳ ai tốt nghiệp Học Viện, nhưng cô vẫn mong ước giá như có dịp được cùng anh đi học.
+Cảnh kết thúc: Cả hai vui vẻ hẹn ước nếu sau này có cơ hội sẽ cùng nhau theo học tại một học viện nào đó.

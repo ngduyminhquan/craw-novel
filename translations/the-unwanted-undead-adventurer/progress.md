@@ -274,7 +274,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 267 |  | Chapter_267 - Vol 11 Side Story - The Disquieting Woman.txt | Vol 11 Side Story - The Disquieting Woman | reviewed |  |
 | 268 |  | Chapter_268 - Vol 11 Bonus - From Another Point of View.txt | Vol 11 Bonus - From Another Point of View | done |  |
 | 269 |  | Chapter_269 - Vol 11 Bonus - The Weight of a Life.txt | Vol 11 Bonus - The Weight of a Life | done |  |
-| 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | todo |  |
+| 270 |  | Chapter_270 - Vol 11 Bonus - A Casual Chat about the Academy.txt | Vol 11 Bonus - A Casual Chat about the Academy | done |  |
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | todo |  |
 | 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | todo |  |
 | 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -929,3 +930,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#266] Xưng hô của Mel đối với Pochi khi kích động tra khảo — tạm chọn 'tao - mày' cho tự nhiên với quan hệ chủ nuôi thú cưng từ nhỏ (phương án khác: giữ 'tôi - Pochi'). → Chốt Mel xưng 'tôi / tao', gọi 'Pochi / mày' tùy ngữ cảnh bình thường hay lúc kích động tra khảo chú chó nuôi từ nhỏ. (orchestrator)
 - [#267] Nhân vật Hilde ở ngoại truyện #267 (phụ nữ trẻ thuê xe tới Mũi Rook ngắm Rồng Băng, có truyền thống gia đình từ đời cụ cố/bà) có phải là Alhildis (cô bé Elf Kim Cấp ở #131-#132 dùng biệt danh Hilde) hay là một nhân vật người thường trùng tên — tạm thời trong #267 coi như nhân vật thân chủ riêng với cách xưng hô đời thường (Hilde xưng "tôi", gọi "anh / Rentt", "cô / Lorraine", "hai người"), ghi chú rõ trong characters.md và pronouns.md để tránh trùng EN (phương án khác: nếu xác nhận là cùng một người hoặc Alhildis cải trang thì hợp nhất ghi chú). → Chốt giữ phân biệt theo chương trong characters.md và pronouns.md: ở #267 Hilde là vị thân chủ nữ trẻ tuổi người thường (xưng 'tôi', gọi 'anh / Rentt', 'cô / Lorraine', 'hai người'). (orchestrator)
 - [#269] Dịch tước vị 'Baroness' và nhân vật 'Baroness Graham' — tạm chọn 'Nữ Nam tước' và 'Nữ Nam tước Graham' (theo tiền lệ Baronetess → Nữ Chuẩn Nam tước ở #104; phương án khác: 'Nam Tước Phu Nhân Graham' / 'Phu nhân Nam tước Graham'). Tạm dùng trong bản dịch: 'Nữ Nam tước Graham'. → Giữ 'Nữ Nam tước' và 'Nữ Nam tước Graham' (đồng bộ với tiền lệ 'Baronetess → Nữ Chuẩn Nam tước' ở chương 104 trong glossary.md). (orchestrator)
+- [#270] Tiêu đề ngoại truyện 'Vol 11 Bonus - A Casual Chat about the Academy' — tạm dịch 'Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện' (phương án khác: 'Ngoại truyện Tập 11 - Chuyện Phiếm Về Học Viện'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện'. → Giữ 'Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện'. (orchestrator)

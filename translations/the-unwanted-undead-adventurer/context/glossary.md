@@ -378,7 +378,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | pseudo-vampire | pseudo-vampires | bán Ma Cà Rồng | chủng tộc | 200 | Dạng tồn tại chưa phải Ma Cà Rồng hoàn chỉnh (dạng chuyển tiếp/gần giống Ma Cà Rồng) |
 | avian | avians | điểu nhân | chủng tộc | 201 | Phân loài thú nhân mang đặc điểm loài chim (鳥人) |
 | dragon-folk | dragonfolk; dragon-person; vampire-dragon-folk | Long Tộc | chủng tộc | 201 | Chủng tộc thú nhân mang đặc điểm của rồng, cực kỳ hiếm gặp và tinh thông Khí Lực (竜人種) |
-| The Academy | Academy | Học Viện | tổ chức | 203 | Cơ sở đào tạo cao cấp do vương quốc vận hành tại vương đô Yaaran (学院) |
+| The Academy | Academy; Academies; the Academies | Học Viện | tổ chức | 203 | Cơ sở đào tạo cao cấp do vương quốc vận hành tại vương đô Yaaran (学院) |
 | Magic Academy |  | Học Viện Ma Thuật | tổ chức | 203 | Tên gọi thông tục của Học Viện do mọi học viên đều học ma thuật (魔術学院) |
 | The Tower | Tower | Tòa Tháp | tổ chức | 203 | Tổ chức nghiên cứu ma thuật của các ma pháp sư tại vương đô Yaaran (魔術師の塔) |
 | Kohm Clinic | Kohm | Phòng Khám Kohm | địa danh | 203 | Phòng khám y tế do Hội Mạo Hiểm Giả bảo trợ tại Maalt (コーム診療所) |
