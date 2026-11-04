@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T21:13:43Z",
+  "generatedAt": "2026-11-04T21:17:45Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2638,7 +2638,7 @@
           "number": 81,
           "title": "Chương 81: Phần kết Tập 3",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_081.md",
-          "sha": "1da644580fe59177486a904d00f1f1636bd56d5c"
+          "sha": "08826d12eaf8fe42e9edab1dc1910562151e4b13"
         },
         {
           "number": 82,
