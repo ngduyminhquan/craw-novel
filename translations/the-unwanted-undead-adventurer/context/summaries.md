@@ -1495,6 +1495,12 @@ Khi kiểm tra thẻ mạo hiểm giả để hoàn tất thủ tục, nữ nhâ
 Augurey vui mừng chúc mừng Rentt trong khi nhân viên Hội nhắc nhở về độ khó khắt khe của kỳ thi; Rentt hồi tưởng lại quá khứ gian truân 10 năm kẹt ở đáy xã hội từng suýt bỏ mạng trong Mê Cung Nguyệt Ảnh và cảm thấy niềm vui sướng ấm áp khi bản thân đang thực sự từng bước tiến bộ vươn lên.
 Cảnh kết thúc: Rentt đón nhận niềm vui và quyết tâm không tự mãn để tiếp tục vững bước leo lên những nấc thang mạo hiểm giả cao hơn.
 
+## 254
+Rentt xin hoãn thi thăng hạng Ngân Cấp để chuẩn bị kỹ càng và giải quyết các vụ việc trước mắt; nữ nhân viên Hội khen ngợi sự cẩn trọng của anh và tiết lộ tiếng tăm của các tân binh từ Maalt (nhờ Rentt tỉ mỉ truyền dạy cách thu hái thực vật); cô tiếc nuối báo Tổng Hội Trưởng Jean Seebeck vẫn chưa về vương đô và hẹn sẽ để lại lời nhắn.
+Quay về quán trọ, Rentt và Augurey nghe thấy Lorraine và ông lão Cự Nhân đàm đạo sâu sắc về nguồn gốc lịch sử của dị năng (từng bị bức hại hoặc coi là thần thánh thời cổ xưa, nay bị xã hội xem là kẻ ngoại tộc dị biệt và dần bị gạt ra rìa khi ma thuật/Khí Lực có hệ thống lý thuyết).
+Ông lão tiết lộ mình từng cứu mạng Siren bằng thuốc khi còn nhỏ, cho biết cô bé mới 17 tuổi và đang trong thời kỳ nổi loạn; ông giải thích cơ cấu tổ chức ngầm dị năng theo mô hình kim tự tháp gồm nhiều phe phái biệt lập, cảnh báo nhóm Rentt cẩn trọng trước nguy cơ các phe phái khác can thiệp phá đám cuộc gặp mặt.
+Cảnh kết thúc: Dù ông lão hy vọng Goblin sẽ đàm phán thuận lợi để giải quyết êm đẹp, Rentt với linh cảm về vận rủi thường gặp vẫn tự nhủ phải hết sức cảnh giác nhưng tạm gạt âu lo sang một bên.
+
 
 
 

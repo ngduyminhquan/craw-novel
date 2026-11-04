@@ -258,7 +258,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 251 |  | Chapter_251 - Vol 11 Chapter 1 - Surprise Attack (8).txt | Vol 11 Chapter 1 - Surprise Attack (8) | reviewed |  |
 | 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | reviewed |  |
 | 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | done |  |
-| 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | todo |  |
+| 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | done |  |
 | 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | todo |  |
 | 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | todo |  |
 | 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -906,3 +907,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#251] Xưng hô Goblin (Yattul) với ông lão Cự Nhân ('Gramps') — tạm chọn xưng 'tôi', gọi 'ông / ông già' theo quan hệ đồng nghiệp/điệp viên trưởng thành (phương án khác: xưng 'cháu', gọi 'ông'). → Chốt Goblin (Yattul - đàn ông trung niên) xưng 'tôi', gọi 'ông / ông già'; ông lão xưng 'ta', gọi 'cậu / thằng bé' đúng quan hệ đồng nghiệp chênh tuổi trong tổ chức. (orchestrator)
 - [#252] Dịch tiêu đề arc 'Departure' — tạm chọn 'Khởi Hành' (phương án khác: 'Lên Đường') → Chốt 'Khởi Hành' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 11 Chương 2. (orchestrator)
 - [#253] Thuật ngữ 'Silver-class Ascension Exam' — tạm chọn 'kỳ thi thăng hạng Ngân Cấp' (nhất quán với 'Bronze-class Ascension Exam' → 'kỳ thi thăng hạng Đồng Cấp'). → Chốt 'kỳ thi thăng hạng Ngân Cấp' đồng bộ với 'Bronze-class Ascension Exam' → 'kỳ thi thăng hạng Đồng Cấp' (#37) trong glossary.md. (orchestrator)
+- [#254] Xưng hô giữa ông lão Cự Nhân và Siren — tạm chọn ông lão xưng 'ta', gọi 'con / con bé' (Siren xưng 'tôi', gọi 'ông') theo tình cảm như con cháu gái trong nhà (phương án khác: ông lão gọi 'cô / nhóc'). Tạm dùng trong bản dịch: 'ta' - 'con / con bé'. → Chốt ông lão xưng 'ta', gọi 'con / con bé / cô', Siren xưng 'tôi', gọi 'ông' (khớp với chi tiết ông lão xem Siren như cháu gái ở #254 và tính cách bướng bỉnh của Siren). (orchestrator)
