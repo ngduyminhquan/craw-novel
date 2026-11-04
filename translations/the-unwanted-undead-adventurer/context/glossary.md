@@ -454,3 +454,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | diviner | diviners | thuật sĩ bói toán | chức nghiệp | 249 | Người sở hữu dị năng nhìn thấu quá khứ và tương lai |
 | divination |  | thuật bói toán | kỹ năng | 249 | Năng lực nhìn thấu quá khứ và tương lai |
 | Vistelya Grand Colosseum |  | Đại Đấu Trường Vistelya | địa danh | 256 | Đấu trường lớn nhất Vương Quốc Yaaran nằm ở ngoại ô vương đô Vistelya |
+| Strongiron | Strongiron Vaasa | Cường Thiết | danh hiệu | 257 | Biệt danh của Vaasa (強鉄) |
+| Spellwise | Fuana the Spellwise | Thông Ma Pháp | danh hiệu | 257 | Biệt danh của Fuana (魔術通) |

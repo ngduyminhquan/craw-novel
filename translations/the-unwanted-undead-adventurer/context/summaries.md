@@ -1513,6 +1513,14 @@ Lính gác cổng nhận ra Spriggan và chuyển lời của Vaasa (thành viê
 Spriggan tiết lộ tường tận thông tin, điểm yếu và cách đối phó với Vaasa (kẻ sở hữu khả năng bẩm sinh kháng ma pháp cực mạnh, là khắc tinh của ma pháp sư nhưng khắc chế kém trước đòn vật lý/khí thuật như Rentt), đồng thời cảnh báo về một nữ thành viên khác tên Fuana rất gắn bó với ông và say mê ma pháp cổ đại có thể sẽ nhắm vào Lorraine.
 Cảnh kết thúc: Rentt và Lorraine bàn bạc, nghiền ngẫm thông tin từ Spriggan để chuẩn bị kế hoạch tác chiến dẹp bẫy dưới tầng hầm đấu trường.
 
+## 257
+Spriggan dẫn nhóm Rentt và Lorraine tới sàn đấu ngầm dưới Đại Đấu Trường Vistelya; Rentt và Spriggan chia sẻ về sự khắc nghiệt, bận rộn và rủi ro thường trực của nghề sát thủ khiến Goblin và Spriggan đều có tâm nguyện muốn giải nghệ.
+Đèn ma pháp rọi sáng khán đài và bộ đôi sát thủ Vaasa Cường Thiết cùng Fuana Thông Ma Pháp xuất hiện bằng màn chào sân đầy màu mè, chất vấn kịch liệt vì không tin Spriggan hùng mạnh lại có thể bại trận dưới tay nhóm mạo hiểm giả Ngân Cấp.
+Bất chấp Goblin và Spriggan cố gắng giải thích và thuyết phục, sự bướng bỉnh ngốc nghếch của Vaasa và Fuana khiến cuộc nói chuyện lâm vào bế tắc; Fuana tự hào về ma pháp phá thành của mình và Lorraine quan sát thấy cô bé có lượng Ma Lực gấp ba lần Rentt.
+Hai bên không thể đàm phán bằng lời nên Vaasa và Fuana thách đấu nhóm mạo hiểm giả để quyết định có cho gặp thủ lĩnh hay không; nhờ Spriggan khéo léo châm ngòi, nhóm Rentt đã gài bẫy thành công để phân chia cặp đấu đúng như tính toán: Rentt dùng kiếm truyền Khí Lực đối đầu Vaasa thuần vật lý, còn Lorraine tiếp đón Fuana đam mê ma thuật.
+Cảnh kết thúc: Rentt và Lorraine chính thức đồng ý giao đấu theo phân cặp đã định.
+
+
 
 
 

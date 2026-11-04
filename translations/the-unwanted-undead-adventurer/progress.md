@@ -261,7 +261,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | reviewed |  |
 | 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | reviewed |  |
 | 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | done |  |
-| 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | todo |  |
+| 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | done |  |
 | 258 |  | Chapter_258 - Vol 11 Chapter 3 - The Organization (3).txt | Vol 11 Chapter 3 - The Organization (3) | todo |  |
 | 259 |  | Chapter_259 - Vol 11 Chapter 3 - The Organization (4).txt | Vol 11 Chapter 3 - The Organization (4) | todo |  |
 | 260 |  | Chapter_260 - Vol 11 Chapter 3 - The Organization (5).txt | Vol 11 Chapter 3 - The Organization (5) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -910,3 +911,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#255] Mật danh và chủng tộc 'Spriggan' của ông lão Cự Nhân — tạm giữ nguyên phiên âm 'Spriggan' theo quy tắc tên riêng phương Tây trong rules.md và characters.md (phương án khác: 'Tinh Linh Spriggan', 'Yêu Tinh Spriggan'). Tạm dùng trong bản dịch: 'Spriggan'. → Chốt giữ nguyên 'Spriggan' cho mật danh của ông lão và chủng tộc thần thoại Spriggan (đồng bộ với Goblin và Siren). (orchestrator)
 - [#255] Dịch 'Copper-class' và 'two Silvers and a Copper' ở #255 — tạm quy về 'Đồng Cấp' và 'hai Ngân Cấp và một Đồng Cấp' để nhất quán với hệ thống cấp bậc mạo hiểm giả trong glossary.md (phương án khác: dịch thô thành 'cấp Đồng Đỏ' hoặc 'một người cấp Đồng'). Tạm dùng trong bản dịch: 'Đồng Cấp' và 'hai Ngân Cấp và một Đồng Cấp'. → Chốt dịch thống nhất thành 'Đồng Cấp' và 'hai Ngân Cấp và một Đồng Cấp' theo đúng hệ thống cấp bậc trong rules.md và glossary.md (do raw đổi cách dịch từ chữ 銅). (orchestrator)
 - [#255] Dịch 'fairy' khi Lorraine miêu tả Spriggan ('A type of fairy with the ability to grow bigger...') — tạm chọn 'loài tiên' thay vì 'nàng tiên' như mục fairy trong glossary.md vì Spriggan có ngoại hình ông lão và tương tự Người Lùn (phương án khác: 'tinh linh', 'tiên tộc'). Tạm dùng trong bản dịch: 'loài tiên'. → Chốt dịch là 'loài tiên' trong ngữ cảnh phân loại chủng tộc thần thoại (tránh dùng 'nàng tiên' vì Spriggan mang hình dáng ông lão như Người Lùn). (orchestrator)
+- [#257] Dịch danh hiệu của Vaasa 'Strongiron' ('Strongiron Vaasa') — tạm chọn 'Cường Thiết' ('Vaasa Cường Thiết') theo Hán Việt ngắn gọn (phương án khác: 'Thiết Cường', 'Sắt Thép'). Tạm dùng trong bản dịch: 'Cường Thiết' / 'Vaasa Cường Thiết'. → Chốt 'Cường Thiết' ('Vaasa Cường Thiết') theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)
+- [#257] Dịch danh hiệu của Fuana 'Spellwise' ('Fuana the Spellwise') — tạm chọn 'Thông Ma Pháp' ('Fuana Thông Ma Pháp') theo Hán Việt ngắn gọn (phương án khác: 'Tinh Thông Ma Pháp', 'Ma Pháp Thông'). Tạm dùng trong bản dịch: 'Thông Ma Pháp' / 'Fuana Thông Ma Pháp'. → Chốt 'Thông Ma Pháp' ('Fuana Thông Ma Pháp') theo quy tắc dịch danh hiệu sang Hán Việt ngắn gọn trong rules.md. (orchestrator)

@@ -97,6 +97,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Leo | Leo / người đàn ông / ông ấy / người cha | 240 | Cha của Ferrici tại Làng Looza |
 | Lenora | Lenora / người phụ nữ / bà ấy / người mẹ | 240 | Mẹ của Ferrici tại Làng Looza |
 | Spriggan | Spriggan / ông lão / ông ta | 255 | Mật danh của ông lão mang dị năng Cự Nhân |
+| Vaasa | Vaasa / gã / người đàn ông | 257 | Thành viên tổ chức sát thủ, có khả năng kháng ma pháp cao |
+| Fuana | Fuana / cô gái / thiếu nữ / cô ta | 257 | Nữ thành viên tổ chức sát thủ mê ma pháp cổ đại |
 
 ## Giữa các nhân vật
 
@@ -479,4 +481,18 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yattul | Lorraine Vivie | tôi | cô | 255 | Điệp viên Goblin nói chuyện với nữ học giả |
 | Rentt Faina | Yattul | tôi | anh / Goblin | 255 | Mạo hiểm giả tiếp chuyện điệp viên Goblin |
 | Yattul | Rentt Faina | tôi | cậu / Rentt / các cậu | 255 | Điệp viên Goblin tiếp chuyện Rentt |
+| Vaasa | * | ta | các ngươi / lũ phản bội và hèn nhát | 257 | Thành viên tổ chức sát thủ nhảy ra chặn đường thị uy |
+| Fuana | * | ta | các ngươi | 257 | Nữ thành viên tổ chức sát thủ nhảy ra chặn đường thị uy |
+| Vaasa | Spriggan | tôi | ông già / ông | 257 | Thuộc cấp nói chuyện với ông lão Spriggan (raw: gramps) |
+| Spriggan | Vaasa | ta | cậu / Vaasa | 257 | Ông lão nói chuyện với thuộc cấp do mình chiêu mộ |
+| Fuana | Spriggan | tôi | ông già / ông | 257 | Thuộc cấp nói chuyện với ông lão Spriggan (raw: gramps) |
+| Spriggan | Fuana | ta | cô / Fuana | 257 | Ông lão nói chuyện với nữ thuộc cấp |
+| Yattul | Vaasa | tôi | cậu / Vaasa | 257 | Điệp viên Goblin nói chuyện với đồng nghiệp |
+| Vaasa | Yattul | tôi | cậu / Goblin | 257 | Thành viên tổ chức nói chuyện với Goblin |
+| Vaasa | Fuana | tôi | cô / Fuana | 257 | Hai thành viên tổ chức phối hợp nói chuyện với nhau |
+| Fuana | Vaasa | tôi | cậu / Vaasa | 257 | Hai thành viên tổ chức phối hợp nói chuyện với nhau |
+| Rentt Faina | Vaasa | tôi | cậu / các cậu | 257 | Mạo hiểm giả tiếp nhận lời khiêu chiến |
+| Vaasa | Rentt Faina | tôi | anh / Rentt | 257 | Thành viên tổ chức thách đấu với Rentt |
+| Lorraine Vivie | Fuana | tôi | cô | 257 | Nữ học giả nhận lời thách đấu |
+| Fuana | Lorraine Vivie | tôi | cô / quý cô | 257 | Nữ ma pháp sư thách đấu với nữ học giả |
 
