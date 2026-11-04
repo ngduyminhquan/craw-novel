@@ -53,3 +53,4 @@
 - (248) Phân đoạn đầu (trước dấu phân cách `◆◇◆◇◆`) kể theo góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi cô mai phục thi triển liên hoàn ba ma pháp cổ đại; sau dấu phân cách quay lại ngôi thứ nhất ("tôi") của Rentt Faina phối hợp cùng Augurey dứt điểm gã Cự Nhân già.
 - (259) Phân đoạn đầu và giữa (trước dấu phân cách `◆◇◆◇◆` thứ hai) kể theo ngôi thứ nhất ("tôi") của Rentt Faina trong trận đấu với Vaasa; phân đoạn cuối chuyển sang góc nhìn ngôi thứ ba (third-person limited) bám theo Lorraine Vivie trên khán đài.
 - (267) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời còn là mạo hiểm giả con người, cùng Lorraine nhận ủy thác hộ tống thân chủ Hilde tới Mũi Rook ngắm Rồng Băng.
+- (269) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về kỷ niệm nhặt được và cùng Lorraine nuôi dưỡng một chú Sói Đen con trong một tuần trước khi giao cho Nữ Nam tước Graham nhận nuôi.

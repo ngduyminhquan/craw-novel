@@ -136,6 +136,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mel Patiche |  | Mel Patiche | Tên đầy đủ của Mel, người phụ trách Cô Nhi Viện Thứ Ba Vistelya | #266 |
 | Pochi |  | Pochi | Chú chó khổng lồ lông trắng (nghi là quái vật) sống hơn 20 năm tại cô nhi viện ở vương đô | #265 |
 | Vitez Normorte | Vitez | Vitez Normorte | Cậu bé có dị năng triệu hồi giông bão, thân chủ hộ tống của Rentt và Augurey thời ở Maalt | #268 |
+| Baroness Graham | Graham | Nữ Nam tước Graham | Nữ quý tộc quen biết Lorraine tại Maalt, nhận nuôi chú Sói Đen con | #269 |
 
 ## Chi tiết
 
@@ -855,5 +856,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, cậu bé thân chủ trong ngoại truyện (#268). Tên thường gọi: Vitez.
 - Đặc điểm: Dáng người nhỏ nhắn; tính tình ban đầu hơi kênh kiệu, bướng bỉnh và thích ra vẻ người lớn ("a bit cheeky"); thực chất sợ hãi và tự ti vì dị năng triệu hồi giông bão sấm sét mỗi khi bị kích động cảm xúc; sau khi được Rentt và Augurey bảo vệ, động viên và khuyên nhủ học cách khống chế năng lực, cậu bé trút bỏ được gánh nặng tâm lý và cởi mở, biết ơn hai người (#268).
 - Xuất hiện từ: #268.
+
+### Baroness Graham
+- Giới tính, vai trò: Nữ, nữ quý tộc quen biết Lorraine tại Maalt trong ngoại truyện (#269).
+- Đặc điểm: Tính cách đàng hoàng, tốt bụng ("a lovely woman"); thường mua các sản phẩm ma thuật do Lorraine điều chế; có một người con trai thông minh, hiểu chuyện; hai mẹ con nhận nuôi chú Sói Đen con do Rentt mang về (#269).
+- Xuất hiện từ: #269 (được Lorraine nhắc tên).
 
 

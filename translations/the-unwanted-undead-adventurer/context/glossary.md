@@ -474,3 +474,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Rook Cape |  | Mũi Rook | địa danh | 267 | Mũi đất nhô cao nhìn ra Hồ Quia, nơi người ta thường đến tự sát |
 | Lake Quia |  | Hồ Quia | địa danh | 267 | Hồ nước lớn dưới Mũi Rook, nơi đôi Rồng Băng sinh sống và kết đôi |
 | Ice Dragon | ice dragon; ice dragons; Ice dragon; Ice dragons | Rồng Băng | quái vật | 267 | Phân loài rồng thuộc tính băng tuyết sinh sống dưới đáy Hồ Quia (氷竜) |
+| black wolf | black wolves; Black wolf; Black wolves; Black Wolf; Black Wolves | Sói Đen | quái vật | 269 | Phân loài quái vật sói lông đen dễ thuần hóa và gắn bó với con người (黒狼) |
+| Baroness | baroness; the baroness | Nữ Nam tước | danh hiệu | 269 | Tước vị quý tộc nữ giới hoặc phu nhân Nam tước |

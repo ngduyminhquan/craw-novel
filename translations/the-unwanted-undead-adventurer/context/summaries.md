@@ -1592,6 +1592,12 @@ Dọc đường, xe kéo bị một nhóm thổ phỉ có tổ chức đón đư
 Augurey tiết lộ Vitez sở hữu dị năng triệu hồi giông bão sấm sét mỗi khi bị kích động; thấy cậu bé khóc lóc sợ hãi và tự ti vì sợ làm tổn thương cha mẹ, Rentt dịu dàng trấn an, chỉ ra sấm sét luôn né tránh cậu bé và ghen tị với năng lực thiên phú ấy, khuyên cậu bé học cách kiểm soát dị năng.
 Cảnh kết thúc: Vitez trút bỏ gánh nặng trong lòng, vui vẻ cảm ơn hai người và được hộ tống bình an về nhà; những năm tháng sau đó giông bão không còn nổi lên dữ dội nữa, chứng tỏ cậu bé đã học được cách khống chế năng lực của mình.
 
+## 269
+Trên đường trở về thị trấn sau khi hoàn thành ủy thác, Rentt nghe thấy tiếng rên rỉ trong rừng và phát hiện một chú Sói Đen con bên cạnh xác mẹ nó; anh kịp thời rút kiếm hạ sát một con quái vật họ mèo đang toan tấn công chú sói con và quyết định đem nó về nhà chăm sóc.
+Lorraine ban đầu lo lắng nhưng đồng ý cùng Rentt tạm thời nuôi dưỡng chú sói con, dự định sẽ tìm cho nó một chủ nhân quý tộc tốt bụng; trong một tuần chung sống, chú sói con quấn quýt và tỏ ra rất thông minh, khiến cả hai nảy sinh tình cảm sâu đậm.
+Lorraine liên hệ và giao chú sói con cho Nữ Nam tước Graham cùng người con trai hiểu chuyện nhận nuôi; khi trở về nhà, cô không kìm được nước mắt vì tiếc nuối không kịp đặt tên cho nó.
+Cảnh kết thúc: Rentt dịu dàng xoa đầu an ủi Lorraine rằng chú sói con chắc chắn sẽ có cuộc sống hạnh phúc tại mái ấm mới, và Lorraine gượng cười nén lại nỗi buồn.
+
 
 
 
