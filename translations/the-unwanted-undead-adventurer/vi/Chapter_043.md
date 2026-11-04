@@ -1,191 +1,191 @@
 # Chương 43: Tập 2 Chương 3 - Vũ Khí Mới Và Sức Mạnh Mới (1)
 
-"Ồ, đến rồi đấy à? Tôi biết cậu đang tìm gì rồi. Xong xuôi cả rồi đấy." Nét mặt góc cạnh đanh thép của Clope hơi giãn ra khi chào tôi, khóe môi gã khẽ nhếch lên thành một nụ cười mỉm.
+"Ồ, đến rồi đấy à? Tôi biết cậu đang tìm gì rồi. Xong xuôi cả rồi đấy." Nét mặt vốn cứng cỏi của Clope hơi giãn ra khi chào tôi, khóe môi gã khẽ nhếch lên thành một nụ cười mỉm.
 
-Liếc về một góc tiệm, tôi nhìn theo hướng mắt của Clope. Quả nhiên, ánh mắt tôi dừng lại ở một thanh kiếm duy nhất đang tỏa sáng lấp lánh, lưỡi kiếm ánh lên sắc bạc rực rỡ.
+Tôi nhìn theo ánh mắt của Clope về phía góc tiệm. Quả nhiên, đập vào mắt tôi là một thanh kiếm sáng loáng, lưỡi kiếm ánh lên sắc bạc rực rỡ.
 
-Tôi đoán là nó đã thực sự hoàn thành, bởi đây chính là thanh kiếm mà tôi đã nhờ Clope rèn.
+Xem chừng đã xong thật rồi, bởi đây chính là thanh kiếm tôi đã nhờ Clope rèn.
 
-"Đó là... kiếm của tôi... ư?"
+"Đó là... kiếm của tôi... đấy à?"
 
-"Phải." Clope gật đầu đáp. "Ma Lực, Khí Lực, Thần Lực... Nó đã được rèn để có thể chịu tải cả ba. Nguyên liệu tốn kém không ít đâu đấy... nhưng bằng cách này hay cách khác thì bọn tôi cũng xoay xở gom đủ."
+"Phải." Clope gật đầu đáp. "Ma Lực, Khí Lực, Thần Lực... Tôi rèn nó để chịu được cả ba thứ đấy. Tốn kha khá nguyên liệu đấy chứ đùa... nhưng kiểu gì thì bọn này cũng gom đủ cả rồi."
 
-"Tôi sẽ gửi thêm... thù lao. Cho các khoản... chi phí phát sinh."
+"Tôi sẽ gửi thêm... tiền bù. Cho các khoản... chi phí phát sinh."
 
-Đã quen biết Clope từ lâu, tôi rất rõ nguyên tắc của gã, nhất là thói quen tự mình gánh chịu mọi chi phí phát sinh nếu trước đó chưa báo giá trước. Chính vì vậy, tôi chủ động đề nghị trả phần sòng phẳng của mình.
+Quen biết Clope đã lâu, tôi thừa hiểu tính gã, nhất là thói quen tự bỏ tiền túi bù vào những khoản phát sinh chưa kịp báo giá từ đầu. Vì thế, tôi mới chủ động đề nghị trả sòng phẳng phần của mình.
 
-Tuy nhiên, Clope chỉ xua tay gạt phắt lời tôi nói, ngẫm nghĩ một thoáng rồi mới đáp lại.
+Thế nhưng Clope chỉ xua tay gạt đi. Gã trầm ngâm một lát rồi mới lên tiếng.
 
-"...Hừm. Cậu lúc nào cũng vậy nhỉ? Được rồi, tôi hiểu rồi." Clope gật đầu, như thể chấp thuận đề nghị của tôi.
+"...Hừm. Cậu lúc nào cũng thế nhỉ? Thôi được rồi, tôi nhận." Clope gật đầu, coi như chấp nhận lời đề nghị của tôi.
 
-"À phải rồi... Làm ra được là một chuyện, nhưng đây là một lưỡi kiếm đặc biệt. Không phải ai cũng dùng được nó đâu, nên tôi muốn cậu thử qua một chút. Nếu có điểm nào chưa vừa ý thì bọn tôi có thể chỉnh sửa lại. Dù sao thì đây cũng là kiếm do chính tay tôi làm ra, và tôi đã dồn hết tâm huyết vào nó... Nhưng một món vũ khí dành cho người sở hữu Tam Chúc Phúc thực sự là một thứ hoàn toàn khác biệt. Chẳng thể biết trước điều gì sẽ xảy ra đâu," Clope nói, mắt nhìn thẳng vào tôi.
+"À phải rồi... Rèn xong là một chuyện, nhưng đây là một thanh kiếm đặc biệt đấy. Không phải ai cũng dùng được nó đâu, nên tôi muốn cậu thử qua một chút. Nếu có chỗ nào chưa vừa ý thì bọn này còn chỉnh sửa lại được. Dù sao đây cũng là kiếm do chính tay tôi làm ra, tôi đã dồn hết tâm huyết vào nó mà... Có điều, vũ khí dành cho người sở hữu Tam Chúc Phúc đúng là chuyện không đùa được đâu. Chẳng biết chừng sẽ xảy ra chuyện gì đâu đấy," Clope nhìn thẳng vào tôi nói.
 
-Clope nói có lý. Dù những mạo hiểm giả có khả năng sử dụng cả Ma Lực lẫn Khí Lực quả thực có tồn tại, nhưng những người có thể vận dụng cả ba loại năng lực bao gồm cả Thần Lực lại cực kỳ hiếm thấy. Ngay cả việc sử dụng thành thục cả ba loại một cách đồng đều và hữu dụng trong thực chiến cũng gần như là điều chưa từng nghe thấy. Một yêu cầu mang tính chất như thế này sẽ là thách thức đối với bất kỳ thợ rèn nào, kể cả những người tay nghề lão luyện nhất. Việc Clope yêu cầu tôi thử nghiệm vũ khí là hoàn toàn tự nhiên. Sẽ thật đáng ngạc nhiên nếu gã không làm vậy.
+Clope nói chẳng sai chút nào. Dù mạo hiểm giả dùng được cả Ma Lực lẫn Khí Lực không phải là không có, nhưng người vận dụng được cả ba thứ tính cả Thần Lực lại cực kỳ hiếm hoi. Còn dùng thuần thục cả ba ngang nhau và áp dụng được vào thực chiến thì gần như chưa từng nghe ai làm được. Một đơn đặt hàng cỡ này sẽ là thử thách với bất kỳ thợ rèn nào, dù tay nghề có cừ khôi đến đâu chăng nữa. Chuyện Clope bảo tôi thử kiếm là lẽ dĩ nhiên. Gã mà không bảo thử thì tôi mới thấy lạ.
 
-Tôi gật đầu ngắn gọn tán thành.
+Tôi khẽ gật đầu đồng ý.
 
 "Tôi cứ... ra thẳng sân sau... của anh nhé?"
 
-Khách hàng ghé tiệm của Clope thường được mời ra đó để thử vũ khí. Đó là một khoảng không gian thoáng đãng, thừa rộng rãi để tôi vung kiếm. Tôi đoán tiếp theo Clope sẽ bảo tôi ra đó.
+Khách ghé tiệm Clope thường ra khoảng sân đó để thử vũ khí. Đó là một khoảng sân thoáng đãng, thừa chỗ để tôi vung kiếm. Tôi đoán Clope cũng sắp bảo mình ra đó thôi.
 
-Clope khịt mũi. "Ồ, hóa ra cậu đã biết tỏng rồi à? Đúng là chỗ đó đấy. Lối này."
+Clope khịt mũi cười. "Ồ, biết tỏng rồi cơ đấy? Đúng là chỗ đó rồi. Đi lối này."
 
-Đứng dậy, Clope có vẻ thích thú khi tôi hỏi câu đó. Có lẽ điều này cũng dễ hiểu thôi, xét việc tôi vốn đã biết trước câu trả lời của gã. Tay cầm thanh kiếm, Clope dẫn tôi ra phía sau tiệm, băng qua vài cánh cửa quen thuộc. Đi theo sau gã, quãng đường chẳng hề dài chút nào.
+Clope đứng dậy, có vẻ thích thú trước câu hỏi của tôi. Cũng phải thôi, bởi tôi vốn đã đoán trước được câu trả lời của gã. Cầm thanh kiếm trên tay, Clope dẫn tôi ra sau tiệm, bước qua vài cánh cửa quen thuộc. Đi sau lưng gã chỉ vài bước là tới nơi.
 
-Chẳng mấy chốc, Clope trao thanh kiếm cho tôi, và tôi đón lấy món vũ khí bằng cả hai tay. Cảm giác cầm nắm rất vừa vặn, như thể thanh kiếm có sinh mệnh riêng và đang tự bám chặt vào lòng bàn tay tôi. Sẽ chẳng thể nào tạo ra được một thứ vừa tay đến nhường này nếu Clope không nắm rõ thói quen và sở thích của tôi từ khi còn sống.
+Đến nơi, Clope đưa thanh kiếm cho tôi, và tôi đón lấy bằng cả hai tay. Chuôi kiếm vừa vặn đến lạ kỳ, ngỡ như nó có linh tính riêng và đang tự dính chặt vào lòng bàn tay tôi vậy. Clope mà không nắm rõ thói quen cùng sở thích của tôi từ thời còn sống thì chắc chắn không thể làm ra một thanh kiếm vừa tay đến mức này.
 
-Không thể nhầm lẫn vào đâu được: Clope đã chế tác thứ này cho tôi khi biết đích xác tôi là ai.
+Chắc chắn không sai: Clope rèn thanh kiếm này cho tôi khi đã biết đích xác tôi là ai.
 
-Có lẽ việc tiến hóa thành Thi Quỷ cũng không hẳn là điều tồi tệ. Suy nghĩ ấy vang vọng trong tâm trí khi tôi siết chặt tay cầm thanh vũ khí.
+Biết đâu tiến hóa thành Thi Quỷ cũng chẳng phải chuyện tệ. Ý nghĩ ấy thoáng qua trong đầu khi tôi siết chặt chuôi kiếm.
 
-Đó là một cảm giác khác biệt rõ rệt; không quá khác so với khi tôi còn là một Ngạ Quỷ, nhưng chắc chắn là một bước chuyển biến vượt bậc so với thời tôi vẫn chỉ là một Khô Lâu. Tôi phải cảm ơn lớp da thịt trên bàn tay mình, bởi chúng không còn khô khốc nữa, mà là những lớp đệm thịt khá dày dù trông vẫn chưa có vẻ gì là còn sống.
+Cảm giác cầm nắm khác hẳn trước kia; so với thời làm Ngạ Quỷ thì không khác mấy, nhưng chắc chắn đã khác xa hồi tôi còn là Khô Lâu. Tất cả là nhờ bàn tay tôi đã có da có thịt, không còn khô đét mà đã có những lớp đệm khá dày, dù trông vẫn chẳng giống bàn tay người sống cho lắm.
 
-Dù sao đi nữa, xúc giác và lực cầm nắm đồ vật của tôi đang dần dần trở lại như thời còn sống. Đó quả thực là một dấu hiệu tốt.
+Dù sao đi nữa, xúc giác cùng lực cầm nắm đồ vật của tôi đang dần phục hồi như thời còn sống. Quả là một dấu hiệu đáng mừng.
 
-"Cậu thấy độ vừa tay thế nào?" Clope hỏi.
+"Cậu thấy cầm có vừa tay không?" Clope hỏi.
 
-"Khá... tốt. Tôi muốn... thử qua một chút. Vung thử... vài nhát."
+"Khá... tốt. Tôi muốn... thử một chút. Vung thử... vài nhát xem sao."
 
-"Tôi hiểu rồi. Chà, bia mục tiêu nào cũng được nhỉ? Tôi sẽ đẩy một hình nhân gỗ ra đây, đợi tôi một lát."
+"Thế à. Chà, bia nào cũng được nhỉ? Để tôi kéo cái hình nhân gỗ ra đây, đợi tôi một lát."
 
-Một lát sau, Clope quay lại cùng một loại hình nhân gỗ, dựng nó lên ở giữa sân. Có rất nhiều loại bia mục tiêu, thậm chí có cả loại khoác giáp tre. Một hình nhân gỗ trơn không bọc giáp là một lựa chọn cơ bản nhưng mộc mạc. Nếu trên tay tôi là một món vũ khí huyền thoại làm từ Mithril và Orichalcum, có lẽ một thứ gì đó cao cấp hơn mới xứng tầm—chẳng hạn như một hình nhân khoác giáp kim loại kèm phụ kiện. Tuy nhiên, món vũ khí tôi đặt rèn không phải thứ tầm cỡ như vậy, nên tôi cho rằng một hình nhân gỗ là quá ổn rồi.
+Lát sau, Clope kéo ra một hình nhân gỗ rồi dựng giữa sân. Bia mục tiêu thì có nhiều loại, thậm chí có cả loại mặc giáp tre. Một hình nhân gỗ trần không bọc giáp tuy đơn giản nhưng lại là lựa chọn cơ bản nhất. Nếu trên tay tôi là món vũ khí huyền thoại làm từ Mithril và Orichalcum, chắc phải cần thứ gì đó xịn hơn mới xứng, chẳng hạn như hình nhân bọc giáp kim loại kèm phụ kiện. Nhưng thanh kiếm tôi đặt rèn đâu phải thứ cao siêu đến mức ấy, nên hình nhân gỗ là quá ổn rồi.
 
-Dù đây là một đơn đặt hàng đặc biệt, nó vẫn là một món vũ khí thông thường ở hầu hết các khía cạnh khác. Nếu tôi cố chém xuyên kim loại bằng thanh kiếm này quá nhiều lần, chắc chắn tôi sẽ làm mẻ lưỡi của nó. Dẫu vậy, điều đó chưa tính đến chuyện thanh kiếm đặc thù này có thể được phù phép cường hóa bằng Ma Lực hoặc Khí Lực. Khi ấy tôi sẽ chẳng phải bận tâm về việc làm hư hại lưỡi kiếm, dù ngay từ đầu tôi cũng chẳng có ý định làm hỏng nó trên một hình nhân tập luyện.
+Dù đây là đơn đặt hàng đặc biệt, về cơ bản nó vẫn là một món vũ khí bình thường. Nếu tôi cố chém kim loại quá nhiều lần, lưỡi kiếm chắc chắn sẽ mẻ. Dĩ nhiên đó là chưa tính đến chuyện thanh kiếm này có thể cường hóa bằng Ma Lực hoặc Khí Lực. Khi ấy thì chẳng lo mẻ kiếm, dù ngay từ đầu tôi cũng không tính phá kiếm trên một cái hình nhân thử nghiệm làm gì.
 
-Thủ thế thanh kiếm, tôi vững vàng bộ pháp, vung vũ khí vài nhát dứt khoát tại chỗ. Tôi phải đảm bảo trọng lượng và trọng tâm của nó được căn chỉnh chuẩn xác—tất nhiên toàn bộ đều là quy trình tiêu chuẩn.
+Cầm kiếm lên, tôi chỉnh lại thế đứng rồi vung thử vài nhát dứt khoát tại chỗ. Tôi phải kiểm tra xem trọng lượng và trọng tâm của kiếm đã chuẩn xác chưa, tất nhiên đây đều là những bước kiểm tra thông thường.
 
-Đây là điều tôi luôn làm sau khi nhận một đơn rèn mới từ Clope.
+Lần nào nhận vũ khí mới rèn từ Clope tôi cũng làm như vậy cả.
 
-Không nhận thấy bất kỳ vấn đề nào, tôi bao bọc thanh kiếm trong một luồng khí ma thuật, rồi chém thẳng xuống hình nhân. Đó là một nhát chém nhẹ nhàng, gần như chẳng tốn chút sức lực nào, và kèm theo một tiếng vỡ ngọt lịm vang lên, thanh kiếm cắt ngọt qua thớ gỗ.
+Thấy không có vấn đề gì, tôi bọc thanh kiếm trong một luồng Ma Lực rồi chém xuống hình nhân. Đó là một nhát chém nhẹ tênh, hầu như chẳng tốn chút sức nào; chỉ nghe một tiếng 'tách' gọn lỏn, thanh kiếm đã chém ngọt qua thớ gỗ.
 
-Clope chẳng buồn che giấu vẻ ngạc nhiên của mình.
+Clope chẳng buồn giấu vẻ ngạc nhiên.
 
-"...Này này này, cái gì thế kia? Cậu tiến bộ vượt bậc rồi đấy nhỉ?"
+"...Này này, cái gì thế kia? Cậu tiến bộ nhiều thế à?"
 
-Hệ quy chiếu để so sánh trong trường hợp này chẳng phải ai khác ngoài chính bản thân tôi, hay ít nhất là khi Rentt Faina vẫn còn hơi thở của người sống. Dù khi còn sống tôi cũng có chút bản lĩnh, nhưng những gì tôi vừa làm được lại vượt xa khả năng lúc đó. Tôi có thể chẻ củi, nhưng tuyệt nhiên chẳng thể nào cắt ngọt được như vậy. Nếu phải miêu tả, nó giống một cú bổ chém thô bạo hơn, tựa như dùng một vật thể kim loại đập mạnh vào hình nhân hơn là dùng kiếm chém ngọt qua nó.
+Người để gã so sánh ở đây chẳng phải ai khác ngoài chính tôi, hay ít nhất là vào cái thời Rentt Faina này vẫn còn sống. Hồi còn sống tôi cũng có chút ngón nghề, nhưng làm được như vừa rồi thì chịu. Tôi cũng chẻ được gỗ đấy, nhưng tuyệt đối không ngọt thế này. Nói đúng ra thì nó giống một cú bổ thô bạo, tựa như cầm khúc sắt phang mạnh vào hình nhân hơn là dùng kiếm chém ngọt qua thớ gỗ.
 
-Ngược lại, những mảnh vỡ của hình nhân gỗ lại tự nói lên tất cả. Các bề mặt được cắt qua một cách phẳng phiu ngọt lịm, minh chứng cho chất lượng của món vũ khí, và quan trọng hơn cả là dấu chỉ cho thấy trình độ của người sử dụng.
+Còn hai nửa hình nhân gỗ bị chẻ đôi trước mắt thì đã quá rõ ràng. Mặt cắt phẳng lì, nhẵn thín, vừa là minh chứng cho chất lượng của thanh kiếm, vừa là thước đo tay nghề của người cầm nó.
 
-So với những gì tôi có thể làm được thuở ấy, kỹ năng của tôi đã tăng tiến vượt bậc, đến mức tôi có thể cảm thấy tự hào chính đáng về sự tiến bộ của mình. Chính vào những khoảnh khắc như thế này, tôi mới có thể cảm nhận và thấu hiểu một cách cụ thể bản thân đã đi được bao xa; đó là một thành quả đáng để tự hào.
+So với bản thân thuở ấy, kiếm thuật của tôi quả thực đã tiến bộ vượt bậc, đủ để tôi thấy tự hào về sự tiến bộ của mình. Chính những lúc thế này, tôi mới thấy rõ mình đã đi được bao xa; đó quả là một thành quả đáng hãnh diện.
 
 ◆◇◆◇◆
 
-Tất nhiên, đây mới chỉ là bài kiểm tra đầu tiên trong số rất nhiều bài thử; tôi đặt rèn riêng một thanh kiếm có thể sử dụng cả ba năng lực bẩm sinh của mình đâu phải chỉ để làm cảnh. Tôi còn rất nhiều việc phải làm, nên tôi cần phải thử qua từng tổ hợp khả dĩ một.
+Dĩ nhiên, đây mới chỉ là màn dạo đầu; tôi đặt rèn riêng một thanh kiếm tương thích với cả ba loại năng lực đâu phải chỉ để làm cảnh. Còn khối việc phải thử, và tôi cần kiểm tra từng cách kết hợp một.
 
-Clope hiểu ý tôi, nhanh chóng đổi hình nhân vừa ngã xuống lấy một cái mới toanh. Khi gã vừa chuẩn bị xong xuôi, tôi bắt đầu dẫn truyền Ma Lực của mình vào thanh kiếm, bao bọc lưỡi kiếm bằng luồng khí của bản thân.
+Clope hiểu ý, liền nhanh chóng thay hình nhân vừa đổ bằng một cái mới toanh. Đợi gã chuẩn bị xong, tôi bắt đầu truyền Ma Lực vào kiếm, bọc quanh lưỡi kiếm bằng luồng khí của mình.
 
-Hầu hết các mạo hiểm giả tinh thông kiếm đạo đều vận dụng Ma Lực hoặc Khí Lực—đôi khi là cả hai. Có thể nói đó là tiêu chuẩn của giới trong nghề. Tôi thì không đủ khả năng làm những trò quá đỗi phức tạp như thế với ma pháp của mình. Cường hóa các đòn đánh vật lý bằng sức mạnh ma thuật đã là giới hạn năng lực của tôi rồi, và đòn đánh sinh ra từ đó đã thừa sức nặng phục vụ cho các mục đích của tôi.
+Hầu hết mạo hiểm giả giỏi kiếm thuật đều vận dụng Ma Lực hoặc Khí Lực, đôi khi là cả hai. Có thể xem đó là tiêu chuẩn trong nghề. Với ma pháp của mình, tôi chẳng làm nổi những chiêu thức phức tạp đến vậy. Dùng sức mạnh ma pháp để cường hóa đòn đánh vật lý đã là giới hạn của tôi rồi, nhưng đòn chém ấy cũng thừa uy lực để đáp ứng nhu cầu của tôi.
 
-Hơn thế nữa: Ma Lực, cùng ma pháp được đan dệt từ nó, còn có khả năng duy trì độ sắc bén của lưỡi kiếm, kéo dài tuổi thọ của nó, và quan trọng hơn cả là dễ dàng chém xuyên qua các vật liệu cứng rắn.
+Chưa hết, Ma Lực cùng ma pháp dệt nên từ nó còn có khả năng giữ cho lưỡi kiếm luôn sắc bén, kéo dài độ bền, và quan trọng nhất là dễ dàng chém đứt các vật liệu cứng.
 
-Với thêm một nhát chém thử nghiệm nữa của món vũ khí mới, tôi thấy lưỡi kiếm của mình gần như trượt xuyên qua hình nhân trước khi chẻ nó làm đôi, một trải nghiệm êm mượt hơn hẳn so với lần thử đầu tiên. Vô vàn công năng của ma pháp thật đáng sợ. Nhát chém ấy hầu như chẳng cần dùng chút sức nào, nhưng nó vẫn cắt ngọt một cách chuẩn xác. Khi quan sát kỹ hơn, tôi nhận thấy không hề có lấy một mảnh vụn gỗ nào dính lại trên mép lưỡi kiếm. Trên thực tế, nhát vung ấy đã để lại một bề mặt nhẵn bóng đến khó tin trên hai nửa bị tách rời của hình nhân.
+Vung thêm một nhát thử với món vũ khí mới, tôi cảm giác lưỡi kiếm gần như trượt qua hình nhân rồi chẻ đôi nó ra, êm hơn hẳn so với lần thử đầu tiên. Những công năng khôn lường của ma pháp quả thực đáng nể. Nhát chém hầu như chẳng tốn chút sức nào nhưng lại ngọt đến không ngờ. Nhìn kỹ lại, tôi thấy chẳng có lấy một mảnh dăm gỗ nào dính trên mép lưỡi kiếm. Thậm chí mặt cắt trên hai nửa khúc gỗ còn nhẵn nhụi đến khó tin.
 
 Tuyệt vời.
 
-Với thứ này, tôi sẽ có thể nhanh chóng hạ gục lũ quái vật hệ nham thạch ở các tầng sâu hơn của các mê cung. Tôi thấy vô cùng hài lòng với món vũ khí mới của mình.
+Có thanh kiếm này, tôi sẽ dễ dàng hạ gục lũ quái vật hệ đá ở những tầng sâu của mê cung. Tôi hài lòng với món vũ khí mới này hơn bao giờ hết.
 
-Tiếp theo là bài kiểm tra về các ứng dụng của Khí Lực. Một lần nữa, Clope lại bắt tay vào việc thay thế hình nhân bia đỡ bằng gỗ.
+Tiếp theo là thử nghiệm vận dụng Khí Lực. Clope lại lúi húi thay một cái hình nhân gỗ khác.
 
-Bản thân tôi không hề bảo gã làm vậy, đơn giản là Clope tự mình làm công việc lặt vặt đó. Có lẽ điều này cũng dễ hiểu, xét việc chúng tôi đã quen biết nhau suốt một thập kỷ qua.
+Tôi chẳng hề mở miệng bảo gã, Clope cứ tự giác làm thôi. Nghĩ lại thì cũng phải, dù sao hai đứa tôi cũng đã quen nhau ngót nghét mười năm trời.
 
-Thu hồi luồng khí Ma Lực, tôi hít một hơi thật sâu trước khi chuyển sang truyền Khí Lực vào thanh kiếm của mình.
+Thu lại luồng Ma Lực, tôi hít sâu một hơi rồi bắt đầu truyền Khí Lực vào thanh kiếm.
 
-Về mặt lý thuyết, những lợi ích của Khí Lực có phần tương tự như Ma Lực và ma thuật, chẳng hạn như lưỡi kiếm được truyền Khí Lực sẽ giữ được độ sắc bén và bền bỉ ngay cả khi sử dụng trong thời gian dài. Tuy nhiên, người ta có thể quan sát thấy những hiện tượng khác nếu vận dụng Khí Lực theo những cách thức nhất định.
+Về mặt lý thuyết, tác dụng của Khí Lực cũng gần giống Ma Lực: kiếm được truyền Khí Lực vẫn sẽ sắc bén và bền bỉ dù dùng suốt thời gian dài. Thế nhưng, nếu biết vận dụng Khí Lực theo những cách đặc thù, ta sẽ thấy những hiện tượng hoàn toàn khác.
 
-Một lần nữa, tôi nâng kiếm lên, chém thẳng xuống hình nhân. Ngay khi lưỡi kiếm bắt đầu tách rời hình nhân gỗ, tôi liền giải phóng luồng Khí Lực trong vũ khí của mình. Kèm theo một tiếng rít xé toạc chói tai, nó lập tức nổ tung, trút xuống một cơn mưa dăm gỗ khắp sân sau của Clope.
+Tôi lại nâng kiếm, chém thẳng vào hình nhân. Ngay khoảnh khắc lưỡi kiếm bắt đầu ăn vào thân gỗ, tôi lập tức giải phóng luồng Khí Lực trong thanh kiếm. Kèm theo một tiếng nổ toác đanh tai, hình nhân nổ tung tại chỗ, dăm gỗ bắn tung tóe khắp sân nhà Clope.
 
-Đây là một trong vô số ứng dụng của Khí Lực: kích nổ mục tiêu có kiểm soát một khi lưỡi kiếm xuyên thấu da thịt nó. Ở vài phương diện, người ta có thể nói rằng Khí Lực mang tính hủy diệt cao hơn so với những ứng dụng phổ biến của Ma Lực.
+Đây là một trong nhiều cách ứng dụng Khí Lực: kích nổ mục tiêu có chủ đích ngay khi lưỡi kiếm chém vào da thịt. Xét ở khía cạnh nào đó, Khí Lực thậm chí còn giàu tính công phá hơn cả những cách dùng Ma Lực thông thường.
 
-Hai cách vận dụng này tương phản rõ rệt với nhau; trong khi những người sử dụng ma pháp chuộng dùng các bùa chú cường hóa nguyên tố lên lưỡi kiếm để nhắm vào điểm yếu của quái vật, thì những người dùng Khí Lực lại đơn thuần phá hủy mục tiêu bằng sức mạnh thuần túy. Đây có thể coi là những phương pháp khác nhau để giải quyết một vấn đề, mỗi cách đều có công năng phù hợp riêng.
+Hai lối vận dụng này hoàn toàn trái ngược nhau: người dùng ma pháp thích truyền thuộc tính nguyên tố vào lưỡi kiếm để nhắm vào điểm yếu của quái vật, còn người dùng Khí Lực lại chuộng việc đè bẹp mục tiêu bằng sức mạnh thuần túy. Có thể xem đây là hai hướng tiếp cận khác nhau cho cùng một bài toán, mỗi bên đều có công dụng riêng.
 
-Cá nhân tôi thích đối phó với kẻ địch thuộc loài Slime bằng Khí Lực hơn, trong khi Goblin, Orc và những kẻ tương tự lại dễ dàng bị hạ gục bằng ma pháp. Sau cùng thì điều đó phụ thuộc vào sở thích của từng người.
+Bản thân tôi thích dùng Khí Lực để trị đám quái vật dạng Slime, còn Goblin, Orc hay mấy loài tương tự thì cứ dùng ma pháp xử lý cho gọn. Sau cùng thì mọi chuyện cũng tùy vào sở thích của mỗi người.
 
-Cuối cùng nhưng không kém phần quan trọng là việc vận dụng Thần Lực. Đó là một năng lực mang lại những hiệu ứng khác biệt rõ rệt so với hai loại trước, vậy mà tôi lại thấy bản thân không thể miêu tả chính xác nó đã làm được những gì. Ngay cả phần lớn những cá nhân có thể dẫn truyền Thần Lực, thường là các tư tế và những người tương tự, cũng rất khó lòng giải thích phương thức vận hành Thần Lực của chính họ.
+Sau cùng là đến lượt Thần Lực. Thứ năng lực này mang lại những hiệu quả khác biệt hoàn toàn so với hai loại trước, thế nhưng bản thân tôi cũng chẳng biết phải miêu tả chính xác tác dụng của nó ra sao. Ngay cả những người truyền được Thần Lực, phần lớn là tư tế này nọ, cũng khó lòng giải thích cặn kẽ cách Thần Lực của mình vận hành.
 
-Hơn nữa, những kiếm sĩ có khả năng truyền Thần Lực vào vũ khí lại vô cùng hiếm hoi. Thường được biết đến với tên gọi Thánh Kỵ Sĩ, họ thường được giao trọng trách làm gương mặt đại diện trước công chúng của Giáo Hội hoặc các tổ chức tôn giáo khác, và không mấy khi tiếp xúc với thường dân. Lẽ đương nhiên là những chi tiết cụ thể về việc dẫn truyền Thần Lực qua một thanh kiếm vẫn còn phần nào chưa được biết tới, hoặc nói đúng hơn là vô cùng bí ẩn.
+Hơn nữa, kiếm sĩ truyền được Thần Lực vào vũ khí lại cực kỳ hiếm. Họ thường được gọi là các Thánh Kỵ Sĩ, mang trọng trách làm bộ mặt của Giáo Hội hoặc các tổ chức tôn giáo, nên rất ít khi tiếp xúc với dân chúng. Vì thế, việc truyền Thần Lực qua một thanh kiếm rốt cuộc diễn ra thế nào vẫn là điều ít ai hay, họa chăng cũng chỉ được coi là một bí ẩn mơ hồ.
 
-Dù vậy, tôi cho rằng phương thức truyền thống đã được thời gian kiểm chứng là cứ đơn thuần truyền Thần Lực vào lưỡi kiếm vẫn có tác dụng—và chừng đó thì tôi làm được.
+Dù vậy, tôi nghĩ cái cách xưa nay người ta vẫn làm là cứ truyền thẳng Thần Lực vào lưỡi kiếm chắc vẫn ổn, mà chừng đó thì tôi làm được.
 
-Thần Lực được cho là một loại sức mạnh phi phàm bắt nguồn từ các vị thần hoặc các tinh linh thứ cấp khác. Do đó, những người sử dụng thường biết cách dùng năng lực theo bản năng, ngay cả khi không có các lý thuyết hay phương pháp luận bài bản. Vẫn có những viện nghiên cứu cổ xưa chuyên tâm tìm hiểu về những kỹ thuật và kỹ năng như vậy, nhưng đó là tri thức mà tôi không sở hữu, cũng chẳng có cách nào tiếp cận được.
+Tương truyền Thần Lực là một loại sức mạnh siêu nhiên bắt nguồn từ các vị thần hoặc những tinh linh cấp thấp hơn. Nhờ đó, người sở hữu thường dùng được theo bản năng mà chẳng cần đến sách vở hay phương pháp bài bản nào. Dù vẫn có những tổ chức cổ xưa chuyên nghiên cứu các kỹ thuật này, nhưng đó là mảng tri thức tôi không có, cũng chẳng có cửa nào chạm tới.
 
-Dù sao đi nữa, điều này khiến cho việc kiểm tra trở nên đơn giản. Không chần chừ thêm, tôi dẫn truyền Thần Lực vào thanh vũ khí. Điều đầu tiên cần cân nhắc khi dẫn truyền Thần Lực là liệu món vũ khí có thể chịu nổi áp lực từ kỳ tích ấy hay không, bởi Thần Lực có sức mạnh thanh tẩy và đưa một vật thể trở về hình dạng ban đầu của nó.
+Dù sao đi nữa, nhờ thế mà việc thử nghiệm lại đơn giản. Không chần chừ, tôi lập tức rót Thần Lực vào thanh kiếm. Điều đầu tiên cần tính tới khi truyền Thần Lực là liệu thanh kiếm có chịu nổi tải hay không, bởi Thần Lực có đặc tính thanh tẩy và đưa mọi vật về lại hình dạng nguyên thủy.
 
-Tuy nhiên, điều này đồng nghĩa với việc vũ khí được rèn bằng thuật giả kim và các biện pháp ma pháp khác sẽ lập tức bị bản chất của Thần Lực vô hiệu hóa, bị cưỡng ép quay về các vật liệu cơ bản để rồi cuối cùng biến thành vài cục quặng. Để ngăn chuyện đó xảy ra, cần phải có bàn tay của một thợ rèn lành nghề. Mặc dù vậy, hầu hết các thợ rèn đều không đủ khả năng rèn ra những món vũ khí có thể chịu đựng được việc dẫn truyền và sử dụng Thần Lực.
+Điều này cũng có nghĩa là những vũ khí rèn bằng thuật giả kim hay các biện pháp ma pháp sẽ lập tức bị bản chất của Thần Lực hóa giải, ép chúng trở về trạng thái nguyên liệu thô ban đầu để rồi biến thành mấy cục quặng vô dụng. Muốn ngăn chuyện đó, bắt buộc phải nhờ đến bàn tay của một thợ rèn cừ khôi. Khổ nỗi, phần lớn thợ rèn lại chẳng đủ trình rèn ra thứ vũ khí chịu được việc dẫn truyền Thần Lực.
 
-Trái lại, Clope là một thợ rèn hạng nhất. Thanh vũ khí của tôi không hề biểu lộ bất kỳ sự bất thường nào khi Thần Lực cuộn trào qua nó, lưỡi kiếm được bao bọc trong một vầng sáng dịu nhẹ, lung linh.
+Nhưng Clope thì khác, gã là một thợ rèn thượng thặng. Thần Lực cuộn trào bên trong nhưng thanh kiếm chẳng hề có chút xáo động nào, lưỡi kiếm chỉ được bao bọc trong một vầng sáng dịu nhẹ, lấp lánh.
 
-Xoay người về phía hình nhân thêm một lần nữa, tôi nâng kiếm lên, tiến hành thêm một bài thử nghiệm năng lực của nó. Lực cản ít ỏi đến đáng kinh ngạc. Hầu như chẳng có chút ma sát nào khi lưỡi kiếm trượt xuyên qua, kể cả khi so sánh với lúc tôi dùng ma pháp. Tôi đoán chừng đó là điều có thể mong đợi từ các vị thần và tinh linh; công năng của nó quả thực vô cùng độc đáo.
+Tôi quay lại nhìn hình nhân, nâng kiếm lên để thử một lần nữa. Lực cản gần như bằng không khiến tôi phải bất ngờ. Hầu như chẳng có chút ma sát nào khi lưỡi kiếm lướt qua, mượt hơn hẳn cả lúc tôi dùng ma pháp. Quyền năng bắt nguồn từ thần linh hay các loài tiên có khác, hiệu quả quả nhiên khác biệt hoàn toàn.
 
-Thế nhưng những hiệu ứng khác của Thần Lực lại biến nó thành một năng lực đầy thử thách khi đưa vào thực chiến.
+Thế nhưng những hiệu ứng đi kèm của Thần Lực lại khiến nó trở thành một thứ rất khó vận dụng trên chiến trường.
 
-"...Này. Có thứ gì đó đang mọc ra từ cái hình nhân kia kìa..." Clope nói, nhìn xuống hai nửa đã ngã rạp của bia mục tiêu bằng gỗ.
+"...Này. Có cái gì đang mọc ra từ khúc gỗ kia kìa..." Clope nói, mắt nhìn chòng chọc xuống hai nửa hình nhân vừa đổ gục.
 
-Tò mò, tôi bước lại gần những mảnh vỡ, để rồi nhìn thấy hết mầm non này đến mầm non khác đang đâm chồi nảy lộc từ những mảnh vụn của hình nhân đã ngã gục.
+Thấy lạ, tôi bước lại gần, ngạc nhiên nhận ra hết mầm non này đến chồi non khác đang thi nhau nhú lên từ hai khúc gỗ vừa chẻ đôi.
 
-Liệu đây có phải là một ví dụ nữa về khả năng phục hồi của Thần Lực mang lại những hệ quả ngoài ý muốn hay không? Tôi cũng hoang mang chẳng kém gì Clope.
+Chẳng lẽ đây lại là tác dụng phụ ngoài ý muốn từ khả năng phục hồi của Thần Lực? Đầu óc tôi cũng rối bời chẳng kém gì Clope.
 
 ![](images/ch043-01.webp)
 
-"...Trước đây anh... đã từng thấy cảnh này... từ những nhát chém... của người dùng khác chưa?"
+"...Trước đây anh... đã từng thấy cảnh này... từ nhát kiếm... của ai khác chưa?"
 
-"Chưa, chưa từng thấy thứ gì tương tự cả. Người ta bảo năng lực của mỗi người sử dụng sẽ khác nhau tùy thuộc vào nguồn cội đã ban cho họ sức mạnh đó ngay từ đầu... Thế rốt cuộc cậu lấy Thần Lực từ đâu ra vậy?"
+"Chưa, đời nào thấy cảnh này bao giờ. Nghe đồn năng lực của mỗi người mỗi khác, tùy thuộc vào việc họ nhận được sức mạnh từ đâu... Thế rốt cuộc cậu kiếm đâu ra mớ Thần Lực đó vậy?"
 
-"Tôi từng sửa chữa... một ngôi miếu cũ. Gần nơi tôi từng sống... trước đây."
+"Tôi từng sửa... một ngôi miếu cũ. Gần nơi tôi sống... hồi trước."
 
-"Hử. Một hành động sùng đạo ra phết nhỉ?"
+"Hử. Cũng mộ đạo ra phết nhỉ?"
 
-"Cũng chẳng có... ý nghĩa gì to tát... sau việc tôi làm đâu. Chỉ là tôi thấy... thích làm thôi."
+"Cũng chẳng có... ý gì sâu xa đâu. Chẳng qua là tôi... tiện tay làm thôi."
 
-Trên thực tế, tôi sửa chữa ngôi miếu vào thời gian rảnh rỗi vì không nỡ nhìn nó trơ trọi trong tình trạng hoang tàn đổ nát. Tôi đồ rằng một người qua đường bình thường sẽ chẳng dừng chân rồi nghĩ đến chuyện thử ra tay sửa một ngôi miếu hoang, và đó là lý do vì sao ban đầu nó lại rơi vào cảnh điêu tàn như thế. Ngôi miếu đáng tiếc đã bị lãng quên coi như chuyện đương nhiên... ít nhất là cho tới khi tôi tu sửa lại nó.
+Thật ra, tôi sửa lại ngôi miếu vào lúc rảnh rỗi chỉ vì thấy nó hoang tàn xơ xác quá không nỡ bỏ mặc. Chắc người bình thường đi ngang qua cũng chẳng rỗi hơi đâu mà dừng lại sửa sang một ngôi miếu đổ nát, thế nên nơi ấy mới hoang phế đến mức đó. Đáng buồn là chẳng một ai đoái hoài tới ngôi miếu... ít nhất là cho tới khi tôi ra tay sửa lại.
 
-"Bất kể lý do là gì," Clope tiếp tục, "tôi đồ rằng đó là nơi cậu có được số Thần Lực của mình nhỉ? Từ ngôi miếu cũ đó."
+"Dù lý do là gì đi nữa," Clope nói tiếp, "thì chắc mớ Thần Lực của cậu cũng từ ngôi miếu cũ đó mà ra chứ đâu?"
 
 "...Phải."
 
-"Thế thì chúng ta có thể phỏng đoán rằng có một loài tinh linh thực vật nào đó từng ngụ trong ngôi miếu ấy... hoặc đại loại vậy. Đó hẳn là lý do Thần Lực cùng luồng khí của cậu lại mang lại hiệu ứng như thế này. Còn nhớ vị Thánh Nữ từng đến Maalt thuở xưa không? Người ta đồn cô ấy được một vị thần trị liệu ban phước, chữa lành bệnh nhẹ cho người ta chỉ bằng một cái chạm tay. Của cậu... nếu tôi phải nói thì chắc là phiên bản thực vật đấy."
+"Thế thì chắc là có loài tiên cây cỏ nào đó từng trú ngụ trong ngôi miếu ấy rồi... hoặc đại loại thế. Hẳn là vì vậy mà Thần Lực của cậu mới sinh ra cái hiệu ứng này. Cậu còn nhớ vị Thánh Nữ từng đến Maalt hồi xưa không? Nghe đâu cô ta được một vị thần trị liệu ban phước, chỉ cần chạm tay là chữa khỏi mấy bệnh vặt cho người ta. Còn của cậu... nếu phải đoán thì chắc là phiên bản dành cho cây cỏ rồi."
 
-Lời giải thích của Clope nghe khá có lý. Dù tôi quả thực nhớ mang máng từng nhìn thấy bóng dáng vị Thánh Nữ từ đằng xa vào một thời gian dài trước đây, nhưng hôm đó người tôi không được khỏe cho lắm, nên cũng chẳng nhớ rõ sự việc lúc ấy.
+Lời giải thích của Clope nghe khá xuôi tai. Dù tôi nhớ mang máng là từng thấy vị Thánh Nữ từ xa hồi nhiều năm trước, nhưng hôm đó trong người thấy khó ở nên tôi cũng chẳng nhớ được mấy chuyện hồi ấy.
 
-Nếu phải diễn đạt thành lời, thì độ mạnh yếu trong Thần Lực của một người tỷ lệ thuận trực tiếp với sức mạnh của hữu thể đã ban tặng nó. Tôi nhớ mình từng đọc một đoạn như vậy trong một cuốn sách của Lorraine.
+Nếu phải giải thích cặn kẽ, thì uy lực Thần Lực của một người phụ thuộc trực tiếp vào sức mạnh của đấng đã ban cho nó. Tôi nhớ mình từng đọc được một đoạn như vậy trong đống sách của Lorraine.
 
-Ai mà ngờ trong muôn vàn thứ, tôi lại có thiên phú chữa lành cho giới thực vật cơ chứ... Nghe chừng chẳng phải một năng lực hữu dụng cho lắm.
+Ai mà ngờ bao nhiêu thứ không dính, mình lại có tài chữa lành cho cây cỏ cơ chứ... Trông thế này thì có vẻ chẳng mấy hữu dụng rồi.
 
-Clope, như thể đọc được suy nghĩ của tôi, lại kéo sự chú ý của tôi về phía những mầm non một lần nữa.
+Như thể đọc được suy nghĩ của tôi, Clope lại kéo sự chú ý của tôi về phía mấy cái mầm cây.
 
-"Những mầm cây này được ban phước đấy, cậu biết không. Nếu lớn lên, chúng sẽ cho ra loại gỗ mang đặc tính thần thánh. Cậu cho tôi chúng được chứ?"
+"Mấy cái mầm này được ban phước đấy chứ đùa. Lớn lên là cho ra loại gỗ mang đặc tính thần thánh luôn đấy. Cho tôi xin mấy mầm này nhé?"
 
-"Tôi không... phiền đâu. Biết đâu chúng chỉ... trở thành những cái cây... bình thường thôi đấy."
+"Tôi không... phiền đâu. Biết đâu lớn lên... chúng cũng chỉ là... mấy cái cây bình thường... thôi đấy."
 
-"Thế với tôi cũng quá tốt rồi. Sở thích của tôi ấy mà, cậu thấy đấy. Biết đâu chúng sẽ lớn thành những thân cây vững chãi mang cành nhánh thần thánh... hoặc không. Dù sao thì cũng là hàng hiếm. Tôi chẳng biết cậu ra sao, chứ gần đây tôi chưa từng nghe thấy chỗ nào bán cây giống được tinh linh thực vật ban phước cả."
+"Thế lại càng tốt chứ sao. Sở thích của tôi ấy mà. Biết đâu chúng lại lớn thành những thân cây vững chãi mang cành lá thần thánh... hoặc là không. Dù sao thì cũng là đồ hiếm. Tôi chẳng biết cậu thế nào, chứ dạo gần đây tôi chưa từng nghe thấy chỗ nào bán cây giống được loài tiên ban phước cả."
 
-Lời của Clope mang phần nào sự thật lịch sử, bởi người ta nói rằng nhân loại thời nay không còn nhận được nhiều ân phước từ các vị thần và tinh linh rừng rậm nữa. Trên hết, mối quan hệ giữa con người và elf dạo gần đây ngày càng xấu đi, trong khi nếu trí nhớ của tôi không nhầm, hai chủng tộc từng qua lại với nhau trên mối bang giao tương đối hòa hảo.
+Lời Clope nói quả thực có cơ sở, bởi nghe đồn dạo này nhân loại không còn nhận được nhiều ân phước từ các vị thần và tiên rừng như trước nữa. Tệ hơn là quan hệ giữa con người và Elf gần đây cũng ngày một xấu đi, dù theo tôi nhớ thì thuở trước hai bên từng chung sống khá thuận hòa.
 
-—Chuyện đó để khi khác hẵng nghĩ vậy.
+Chuyện đó để lúc khác hẵng nghĩ vậy.
 
-Tôi thấy bản thân có phần bất ngờ trước sở thích làm vườn của Clope. Có lẽ đây chỉ là chuyện mà trước giờ chúng tôi chưa từng nói tới. Trong lúc tôi đứng đó, Clope lại bắt tay vào việc thay thế hình nhân bia đỡ thêm lần nữa, lần này với một nụ cười mỉm nhỏ trên môi. Dù tôi vốn quen thuộc với vài sở thích của Clope, nhưng tôi đồ rằng gã thực sự có niềm yêu thích đặc biệt đối với việc làm vườn ẩn sâu bên trong đôi bàn tay tôi luyện qua lửa đỏ ấy.
+Tôi thấy khá bất ngờ trước sở thích làm vườn của Clope. Có lẽ trước giờ chúng tôi chưa từng nhắc tới chuyện này bao giờ. Trong lúc tôi còn đứng ngẫm nghĩ, Clope lại hì hục thay một hình nhân khác, lần này khóe môi gã khẽ nở một nụ cười. Dù tôi cũng biết vài thú vui của Clope, nhưng hóa ra ẩn sau đôi bàn tay chai sần tôi luyện qua lửa lò ấy lại là một niềm đam mê đặc biệt với chuyện trồng trọt.
 
-Thật không ngờ một người với khuôn mặt như gã lại có một sở thích nâng niu vun trồng đến vậy. Đúng là tôi không nên nói ra điều đó, nhưng tâm trạng phấn chấn thấy rõ của Clope là điều không thể phủ nhận.
+Ai mà ngờ một kẻ mang gương mặt bặm trợn như gã lại có cái thú nâng niu cây cỏ dịu dàng đến thế. Nghĩ vậy về bạn mình thì hơi khiếm nhã thật, nhưng rõ ràng là tâm trạng của Clope đã vui vẻ lên trông thấy.
 
-Chuẩn bị xong xuôi hình nhân, Clope tiến lại gần tôi, đưa một bàn tay rảnh rỗi ra hiệu về phía nó.
+Dựng xong hình nhân, Clope bước lại gần tôi rồi giơ tay chỉ về phía cái bia gỗ.
 
-"Chà, thế này là đủ rồi chứ nhỉ? Dọn dẹp được rồi chứ nhỉ?"
+"Chà, thế là đủ rồi chứ hả? Thu dọn được chưa?"
 
-Tôi đứng lặng một thoáng, suy ngẫm về câu hỏi của Clope. Vẫn còn một điều cuối cùng mà tôi chưa thử nghiệm.
+Tôi đứng ngẫm nghĩ một thoáng trước câu hỏi của Clope. Vẫn còn một trò cuối cùng mà tôi chưa thử.
 
 "...Ma Lực. Khí Lực... Thần Lực. Chuyện gì... sẽ xảy ra... nếu tôi truyền tất cả vào... thanh kiếm này?"
 
-"Này nghe đây nhé..." Nụ cười mãn nguyện trước đó của Clope biến thành một cái nhăn mặt khi gã đưa tay lên cằm, nhắm mắt lại suy nghĩ lung lắm. "Cậu đã từng nghe ai làm chuyện như thế chưa? Chứ tôi thì chưa nghe bao giờ đấy. Có thể ở đâu đó có người làm được. Nhưng nghe này... chúng ta chẳng thể biết chuyện gì sẽ xảy ra nếu cậu cứ thế đâm đầu vào thử đâu."
+"Này nghe đây nhé..." Nụ cười tươi rói lúc nãy của Clope vụt tắt, gã hơi nhăn mặt rồi đưa tay vuốt cằm, nhắm nghiền mắt suy nghĩ hồi lâu. "Cậu từng nghe ai làm cái trò đó bao giờ chưa? Chứ tôi là chịu rồi đấy. Biết đâu đâu đó cũng có người làm được, nhưng nghe này... cậu mà cứ đâm đầu vào thử thì chẳng ai biết trước chuyện gì sẽ xảy ra đâu."
 
-"...Tốt nhất là... tôi không nên thử... sao?"
+"...Tốt nhất là... tôi không nên... thử sao?"
 
-Đúng như lời Clope nói, những người nắm giữ cả ba nguồn năng lượng vốn dĩ đã hiếm hoi, chưa nói đến một cá nhân có thể vận dụng an toàn từng loại trong chiến đấu. Chúng ta có thể thu hẹp phạm vi hơn nữa nếu nghĩ đến con số giả định về những người có thể dẫn truyền an toàn cả ba yếu tố vào cùng một món vũ khí cùng lúc. Người ta đòi hỏi một sự tập trung tột độ chỉ để dẫn truyền một nguồn năng lượng duy nhất vào vũ khí. Dẫn truyền cả ba loại cùng một lúc quả thực có thể là quá sức đối với ngay cả một mạo hiểm giả lão luyện.
+Đúng như Clope nói, người nắm giữ cả ba nguồn năng lượng vốn đã hiếm, huống chi là kẻ có thể vận dụng an toàn từng loại trong thực chiến. Còn nếu muốn tìm một người có thể cùng lúc truyền cả ba loại năng lượng vào một món vũ khí, chắc số người làm được chỉ đếm trên đầu ngón tay, hoặc thậm chí chẳng có ai. Chỉ riêng việc rót một loại năng lượng vào vũ khí thôi đã đòi hỏi sự tập trung cực độ rồi. Nhồi nhét cả ba thứ cùng lúc có lẽ là việc quá sức đối với cả những mạo hiểm giả lão luyện nhất.
 
 Dù vậy...
 
-"Chẳng phải từng có vài... Khí Thuật... liên quan đến cả... ma pháp và Khí Lực sao?"
+"Chẳng phải cũng có vài... Khí Thuật... kết hợp cả... ma pháp và Khí Lực sao?"
 
-"Thứ đó à. Người ta gọi nó là gì nhỉ... Ma Khí Dung Hợp Thuật? Cậu phải khổ luyện một thời gian dài mới làm được trò đó đấy. Ngay cả cậu cũng biết chỉ một số ít người làm được thôi mà. Nhưng mà, chà... Thanh kiếm này có lẽ chịu được hai loại cùng lúc mà không có vấn đề gì đâu. Song nếu cậu ném thêm Thần Lực vào mớ hỗn độn đó... thì ngay cả tôi cũng chịu chết. Nếu cậu thực sự muốn thử, thì ít nhất hãy bắt đầu với một Dung Hợp Thuật hai nguồn năng lượng trước đã. Và dùng thanh này này, chứ đừng dùng thanh kiếm mới của cậu."
+"Món đó à. Gọi là gì ấy nhỉ... Ma Khí Dung Hợp Thuật? Cậu phải khổ luyện trầy trật mới xài được cái trò đó đấy, chính cậu cũng thừa biết chỉ vài mống làm nổi thôi mà. Nhưng mà... thanh kiếm này chắc chịu được hai loại cùng lúc mà không hề hấn gì đâu. Có điều nếu nhét thêm cả Thần Lực vào... thì đến tôi cũng chịu chết. Cậu có máu thử thì chí ít cũng nên bắt đầu bằng Dung Hợp Thuật hai loại năng lượng trước đã. Mà nhớ là thử bằng thanh này này, chứ đừng có vác thanh kiếm mới ra."
 
-Ma Khí Dung Hợp Thuật là một chuyện vô cùng phức tạp, bởi nó đòi hỏi việc dẫn truyền đồng thời cả nguồn dự trữ Ma Lực và Khí Lực của một người, cường hóa cho cả thanh kiếm lẫn người sử dụng. Điều này mang lại cho người thi triển năng lực hủy diệt to lớn và thể lực dồi dào. Rất ít cá nhân có thể vận dụng nó theo cách thực chiến, và tính chất tiêu hao ghê gớm của ứng dụng này khiến nó rất khó kiểm soát. Một vụ nổ hoàn toàn có thể xảy ra nếu phạm phải bất kỳ sai sót nào, do đó ngay cả việc thử tập luyện để dùng kỹ thuật này cũng là một canh bạc mạo hiểm. Chẳng khó để hiểu tại sao những cá nhân có khả năng sử dụng kỹ thuật này lại hiếm hoi như lá mùa thu.
+Ma Khí Dung Hợp Thuật là một kỹ thuật vô cùng phức tạp, bởi người dùng phải cùng lúc dẫn truyền cả Ma Lực lẫn Khí Lực trong cơ thể, cường hóa cho cả vũ khí lẫn chính bản thân mình. Chiêu thức này mang lại uy lực công phá kinh người cùng thể lực dồi dào. Khổ nỗi có rất ít người ứng dụng được vào thực chiến, và lượng tiêu hao khổng lồ khiến nó cực kỳ khó kiểm soát. Chỉ cần sơ sẩy một chút là có thể nổ tung ngay tắp lự, nên chỉ riêng việc tập luyện thôi cũng đã là một trò liều mạng rồi. Chẳng trách những người thi triển được kỹ thuật này lại hiếm như sao buổi sớm.
 
-...Thế nhưng cấu tạo thể chất của tôi lại khác biệt. Tôi có lẽ sẽ không chết ngay cả khi đầu mình bị đánh bay đi đâu đó. Tương tự như vậy, những thương tích trên cơ thể cũng có thể bỏ qua một cách nhẹ nhàng. Dù tôi không dám khẳng định việc mình luyện tập thứ như thế là an toàn, nhưng nó chẳng hề mạo hiểm như đối với một người bình thường.
+...Thế nhưng cơ thể tôi giờ đây lại khác. Tôi chắc sẽ chẳng chết được ngay cả khi đầu bị chém bay đi đằng nào. Những vết thương trên người có lẽ cũng chẳng hề hấn gì. Dù không dám vỗ ngực bảo việc tập luyện món này là an toàn tuyệt đối, nhưng với tôi thì nó cũng chẳng đến mức liều mạng như người bình thường.
