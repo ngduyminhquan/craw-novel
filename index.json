@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T10:24:11Z",
+  "generatedAt": "2026-11-04T10:28:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2290,7 +2290,7 @@
           "number": 23,
           "title": "Chương 23: Tập 1 Chương 5 - Bằng Chứng Không Còn Là Người (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_023.md",
-          "sha": "3f2cce78644169bed5efb0a3b2f4217c37d99c5a"
+          "sha": "23d66bd92979aa6204d2b2b54892deaf084b9810"
         },
         {
           "number": 24,
