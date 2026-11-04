@@ -1,191 +1,191 @@
 # Chương 38: Tập 2 Chương 1 - Mê Cung Tân Nguyệt (9)
 
-Sau cuộc trò chuyện đó, nhóm chúng tôi thận trọng nhưng vững vàng tiến bước. Rốt cuộc, chuyến trở về Maalt của chúng tôi diễn ra vô cùng suôn sẻ. Bác phu xe, cũng chính là người đã chở chúng tôi tới đây, mỉm cười trấn an rằng chuyến đi sẽ tương đối êm thấm sau khi thoáng liếc nhìn chiếc mặt nạ của tôi. Đúng như lời đã hứa, bác đưa chúng tôi trở về Maalt an toàn. Dù quanh chúng tôi ở Maalt có những kẻ hành tung khả nghi, nhưng hành động và cử chỉ của chúng tôi cho thấy cả nhóm vẫn luôn hết sức cảnh giác. Hiểu được điều đó, những kẻ kia nhanh chóng tản đi, để lại con đường thông thoáng dẫn về Hội.
+Sau cuộc trao đổi đó, nhóm chúng tôi thận trọng nhưng vững bước tiến lên. Rốt cuộc, chuyến trở về Maalt của cả nhóm diễn ra êm thấm mà không gặp sự cố nào. Bác đánh xe vẫn là người đã chở chúng tôi tới đây, sau khi thoáng liếc nhìn chiếc mặt nạ của tôi liền mỉm cười trấn an rằng đường về sẽ bình yên thôi. Đúng như đã hứa, bác đưa chúng tôi trở về Maalt an toàn. Dù khi vào tới Maalt có vài kẻ lảng vảng quanh chúng tôi với hành tung đáng ngờ, nhưng cử chỉ và từng bước đi của cả nhóm cho thấy chúng tôi vẫn luôn hết sức đề phòng. Nhận ra điều đó, bọn chúng nhanh chóng tản đi, nhường lại lối đi thênh thang dẫn về Hội.
 
-Những kẻ ấy cũng là do Hội thuê tới. Chúng được giao nhiệm vụ đánh cắp phù hiệu của những mạo hiểm giả dại dột buông lỏng cảnh giác ngay khi vừa đặt chân về Maalt. Khác với đồng nghiệp của chúng trong mê cung, chúng chỉ nhận lệnh trộm cắp chứ không tấn công tổng lực; ít nhất thì ngay cả Hội cũng có chút nhân từ đối với những thí sinh đã đi được tới tận bước này.
+Bọn chúng cũng là người do Hội thuê. Nhiệm vụ của chúng là nẫng tay trên phù hiệu của những mạo hiểm giả bất cẩn lơ là cảnh giác ngay khi vừa về tới Maalt. Khác với những kẻ đồng mưu bên trong mê cung, bọn chúng chỉ nhận lệnh trộm phù hiệu chứ không ra tay tấn công dồn dập. Xem ra Hội vẫn còn chút lòng trắc ẩn, ít nhất là với những thí sinh đã đi được tới tận đây.
 
-Một lát sau, cuối cùng chúng tôi cũng tới đích: cả nhóm giờ đang đứng trước Hội Mạo Hiểm Giả.
+Chẳng mấy chốc, cuối cùng chúng tôi cũng tới đích: trước mắt cả nhóm giờ chính là Hội Mạo Hiểm Giả.
 
-"...Chỉ mới qua một khoảng thời gian ngắn thôi, mà cứ ngỡ như cả một thế kỷ..." Raiz thốt lên, với vẻ mặt và giọng điệu chẳng hề hợp với độ tuổi của cậu chút nào.
+"...Rõ là chỉ mới qua chút thời gian thôi, mà cảm giác cứ ngỡ như cả thế kỷ..." Raiz nói, vẻ mặt và giọng điệu già dặn chẳng hề hợp với lứa tuổi của cậu.
 
-"Lạ thật đấy, phải không? Được nhìn thấy tòa nhà này một lần nữa... Cứ cảm giác như đã lâu lắm rồi ấy." Laura dường như cũng chung tâm trạng, mang nét mặt y hệt như Raiz.
+"Lạ thật đấy nhỉ? Lại được nhìn thấy tòa nhà này... Cứ như thể đã xa nơi đây lâu lắm rồi ấy." Laura dường như cũng chung tâm trạng, nét mặt y hệt như Raiz.
 
-Tôi, tuy nhiên, chẳng có tâm trí đâu mà bùi ngùi xúc động trước cảnh trùng phùng với sảnh Hội.
+Có điều, tôi làm gì có thời gian để đứng đó bùi ngùi xúc động trước màn tái ngộ sảnh Hội như hai người họ.
 
-"...Đi... Nào," tôi cất tiếng, lập tức rảo bước vào bên trong sảnh Hội.
+"...Vào... thôi," tôi nói rồi bước thẳng vào trong sảnh Hội.
 
-Hai người họ vội vã bám theo sau tôi, dường như đã quen với thói quen của tôi rồi. Cử chỉ của họ khiến tôi cảm thấy thỉnh thoảng đi mạo hiểm theo tổ đội cũng chẳng đến nỗi tệ.
+Hai người vội vã rảo bước theo sau, dường như đã quen với tính nết của tôi. Dáng vẻ của họ làm tôi thấy thỉnh thoảng đi mạo hiểm theo tổ đội cũng chẳng đến nỗi tồi.
 
-"...Tôi muốn kiểm tra lại chút. Đây có phải là nơi nộp lại phù hiệu không?" Raiz hỏi, trong giọng nói và dáng vẻ tràn ngập sự thận trọng. Sheila, có vẻ rất thích thú trước cảnh này, nhìn Raiz với ánh mắt lấp lánh và nụ cười rạng rỡ trên môi.
+"...Tôi muốn hỏi lại cho chắc. Chỗ này là nơi nộp phù hiệu phải không chị?" Raiz hỏi, giọng điệu và cử chỉ đầy vẻ thận trọng. Sheila tỏ ra vô cùng thích thú trước cảnh này, cô nhìn cậu với ánh mắt lấp lánh và nụ cười rạng rỡ.
 
-"Haha. Tôi thấy cậu trưởng thành hơn rồi đấy! Đúng vậy, chính là chỗ này."
+"Haha. Cậu chững chạc hơn rồi đấy! Đúng rồi, chính là chỗ này."
 
-Không chần chừ thêm nữa, cả ba chúng tôi trao lại phù hiệu cho Sheila, người lập tức tiến hành kiểm tra từng cái một, giơ những vật kim loại nhỏ bé ấy lên ngang tầm mắt.
+Không chần chừ thêm, cả ba chúng tôi trao phù hiệu cho Sheila. Cô cẩn thận giơ từng món đồ kim loại nhỏ bé ấy lên ngang tầm mắt để kiểm tra kỹ lưỡng.
 
-"...Đúng rồi. Xin chúc mừng! Kể từ giây phút này, kỳ thi thăng hạng Đồng Cấp đã thực sự kết thúc!" Sheila vừa nói vừa bắt đầu vỗ tay.
+"...Chuẩn rồi. Xin chúc mừng nhé! Kể từ lúc này, kỳ thi thăng hạng Đồng Cấp đã chính thức khép lại!" Sheila vừa nói vừa vỗ tay tán thưởng.
 
-Âm thanh ấy khiến toàn bộ mạo hiểm giả trong sảnh Hội cùng hưởng ứng, cười rộ lên và reo hò chúc mừng thành công của chúng tôi. Bầu không khí thật ấm áp và thanh bình, bởi lẽ chính họ cũng thấu hiểu ý nghĩa của một kỳ thi như thế này. Tiếng vỗ tay và reo hò của họ biểu thị sự công nhận cùng lời chúc mừng xứng đáng dành cho những người hậu bối.
+Tiếng vỗ tay của cô kéo theo toàn bộ mạo hiểm giả trong sảnh Hội cùng hòa nhịp, tiếng cười nói và reo hò rộ lên chúc mừng thành công của chúng tôi. Bầu không khí tràn ngập vẻ ấm áp và chan hòa, bởi lẽ chính họ cũng hiểu rất rõ ý nghĩa của kỳ thi này. Những tràng pháo tay và tiếng reo hò ấy là lời công nhận cùng lời chúc mừng xứng đáng dành cho lứa đàn em.
 
-Những người không vượt qua kỳ thi cũng có mặt ở đó, nhưng nét mặt của họ có phần phức tạp. Sau lần này, giờ họ đã hiểu mình cần phải chuẩn bị những gì khi bước vào kỳ thi tiếp theo, và biết đâu một ngày nào đó sẽ đến lượt họ đứng trên bục vinh quang.
+Những người trượt kỳ thi cũng có mặt ở đó, nhưng nét mặt họ có phần phức tạp. Sau lần này, họ đã hiểu mình cần phải đối mặt với những gì trong lần thi tới, và biết đâu một ngày nào đó sẽ đến lượt họ được đứng ở vị trí này đón nhận vinh quang.
 
-Dẫu cho đại đa số mạo hiểm giả ở Hội Maalt tương đối ôn hòa và cởi mở, không phải ai có mặt ở đây cũng mang tính cách như vậy. Vài kẻ đứng trong góc khuất, nhìn chúng tôi như thể chúng tôi không xứng đáng với những phần thưởng nhận được. Tuy nhiên, số lượng những kẻ như vậy rất ít; Hội Maalt vốn nổi tiếng là nơi đào tạo ra những mạo hiểm giả hành xử đúng mực và chính trực. Những kẻ cừu đen phá bĩnh chỉ là thiểu số hiếm hoi.
+Dù nhìn chung mạo hiểm giả ở Hội Maalt tương đối ôn hòa và thân thiện, không phải ai có mặt ở đây cũng tốt tính như thế. Vài kẻ nép mình trong góc, nhìn chúng tôi bằng ánh mắt hậm hực như thể chúng tôi không xứng đáng với thành quả này. Có điều, những kẻ như vậy chẳng có mấy ai; Hội Maalt vốn nổi tiếng là nơi tôi luyện nên những mạo hiểm giả hành xử đúng mực và ngay thẳng. Những con sâu làm rầu nồi canh chỉ đếm trên đầu ngón tay.
 
-"Vậy... Giờ chúng tôi đã là mạo hiểm giả Đồng Cấp rồi sao?"
+"Vậy... giờ chúng tôi đã là mạo hiểm giả Đồng Cấp rồi sao chị?"
 
-"Chuyện đó..."
+"À thì..."
 
-Ngay khi Sheila chuẩn bị nói hết câu, một người đàn ông bước ra từ phía sau cô, trao cho cô một tờ giấy. Nhìn về phía chúng tôi, người đàn ông mỉm cười và gật đầu.
+Đúng lúc Sheila định nói tiếp, một người đàn ông từ phía sau bước ra, đưa cho cô một tờ giấy. Nhìn về phía chúng tôi, anh ta mỉm cười rồi gật đầu tán thưởng.
 
-"Cả ba người này đều ổn thỏa. Của cô đây—báo cáo tổ đội của họ."
+"Cả ba người này đều đạt yêu cầu. Của cô đây, báo cáo tổ đội của họ."
 
-"A... Vâng. Phải rồi... Hừm. Không có vấn đề gì ở đây cả," Sheila nói sau khi lướt qua tập tài liệu.
+"A... vâng. Được rồi... Hừm. Đúng là không có vấn đề gì cả," Sheila nói trong khi lướt mắt qua tờ báo cáo.
 
-Raiz, không hiểu chuyện gì đang diễn ra trước mắt, bèn cất tiếng hỏi để được giải thích.
+Raiz chưa hiểu chuyện gì đang diễn ra trước mắt, bèn lên tiếng thắc mắc.
 
-"Chuyện gì đang xảy ra thế ạ?"
+"Có chuyện gì thế này ạ?"
 
-"Ưm..." Sheila, dường như chưa biết phải giải thích thế nào, đành giữ im lặng.
+"Ờ thì..." Sheila có vẻ lúng túng chưa biết phải giải thích ra sao, đành ngập ngừng im lặng.
 
-"...Người đàn ông... Đó. Đã bám theo... Chúng ta... Ngay từ đầu."
+"...Người đàn ông... đó. Đã bám theo... chúng ta... từ đầu."
 
 "Hả?"
 
-"T-Thật sao? Tôi chẳng nhận ra anh ta chút nào cả..." cả hai kinh ngạc thốt lên.
+"T-Thật sao? Tôi chẳng nhận ra anh ấy chút nào cả..." cả hai giật mình kinh ngạc.
 
-Người đàn ông mỉm cười bước lại gần chúng tôi và đưa ra lời giải thích.
+Người đàn ông mỉm cười bước lại gần, cất lời giải thích cho chúng tôi.
 
-"Tôi đã quan sát các bạn suốt từ đầu tới giờ. Bài thi không chỉ đánh giá kỹ năng mạo hiểm giả; chúng tôi còn phải nắm chắc cả nhân phẩm của các bạn nữa. Chẳng có cách nào đánh giá con người thật của các bạn ngoài việc xem xét thể hiện trong đợt sát hạch này. Chà... Cũng có trường hợp chúng tôi từ chối thăng hạng nếu thí sinh làm ra chuyện gì đó thực sự không thể chấp nhận được... Đó là lý do tôi bám theo và theo dõi các bạn trong suốt thời gian qua."
+"Tôi đã theo dõi các bạn suốt từ đầu tới giờ. Kỳ thi này không chỉ nhằm đánh giá kỹ năng làm mạo hiểm giả, chúng tôi còn phải xem xét cả nhân phẩm của các bạn nữa. Tất nhiên chẳng ai đánh giá hết được bản chất thật của một người, mà chỉ có thể nhìn vào cách các bạn thể hiện trong đợt sát hạch này thôi. Chà... cũng có trường hợp Hội từ chối thăng hạng nếu thí sinh làm ra những hành vi thực sự không thể chấp nhận được... Đó là lý do tôi phải bám theo quan sát các bạn suốt dọc đường."
 
-Tôi nhớ lại nhóm mạo hiểm giả đã lao vào phòng thủ lĩnh trước chúng tôi. Đúng vậy, sẽ thật chướng mắt nếu những kẻ đó cũng được thăng hạng. Bản tính của chúng chỉ hơi thô lỗ và gai góc một chút, nên trông không giống loại mạo hiểm giả sẽ làm ra chuyện phạm pháp. Việc tôi để chúng vượt lên trước có thể đã phản ánh không tốt về tổ đội của chúng tôi. Thậm chí nó còn có thể bị diễn giải thành việc chúng tôi cố tình đứng nhìn người khác chịu khổ nạn.
+Tôi nhớ lại nhóm mạo hiểm giả đã hùng hổ xông vào phòng thủ lĩnh trước chúng tôi. Quả thật, nếu loại người đó mà cũng được thăng hạng thì khó coi lắm. Tính khí của bọn họ chỉ hơi bặm trợn một chút chứ không giống kiểu mạo hiểm giả sẽ đi làm chuyện phạm pháp. Việc tôi nhường cho họ vượt lên trước có khi lại tạo ấn tượng không tốt về tổ đội chúng tôi. Thậm chí người ta còn có thể suy diễn rằng chúng tôi cố tình đứng trơ mắt nhìn người khác gặp nạn.
 
-Dù sao thì bốn kẻ đó cũng không có gì đáng phải bận tâm quá mức. Chúng có thể buông lời khiêu khích chúng tôi, nhưng không hề thực sự hành động theo những lời đe dọa đó.
+Dù sao thì bốn kẻ đó cũng chẳng có gì đáng lo. Dù buông lời khiêu khích, nhưng bọn chúng không hề thực sự ra tay làm theo lời đe dọa.
 
-Còn về chuyện tôi rút kiếm... Tôi đoán việc gã đó đặt tay lên chuôi kiếm chỉ đơn thuần là một lời đe dọa khác; gã hẳn sẽ hạ kiếm xuống ngay lập tức nếu tôi tỏ ra có bất kỳ dấu hiệu phản kháng nào. Gã tỏ ra bình thản, gần như đến mức khó tin, khi tôi kề lưỡi kiếm sắc bén sát cổ gã, kẻ có dáng vẻ như là thủ lĩnh của nhóm. Nếu quan sát kỹ, người ta có thể nhận ra những nét tinh tế trong màn kịch của họ; cử chỉ điệu bộ của gã đã bán đứng gã.
+Còn về chuyện tôi rút kiếm... Tôi đoán việc tên cầm đầu đặt tay lên chuôi kiếm cũng chỉ nhằm hù dọa; gã hẳn sẽ rút tay về ngay nếu thấy tôi có ý phản kháng. Khi tôi kề lưỡi kiếm sắc lẹm sát cổ, gã bình thản đến mức khó tin. Nếu quan sát kỹ sẽ thấy rõ sơ hở trong màn kịch của họ; chính điệu bộ của gã đã tự bán đứng mình.
 
-Tôi đồ rằng chuyện đó cũng ổn thỏa cả thôi.
+Dù sao mọi chuyện cũng êm thấm cả, tôi nghĩ vậy.
 
-Người đàn ông tiếp tục: "Và như vậy, với bản báo cáo tôi vừa trao cho Sheila... Chà, có rất nhiều điều được viết về tổ đội của các bạn, nhưng phần lớn là cả ba người các bạn chẳng có bất kỳ vấn đề gì. Dù sao thì bài thi cũng xoay quanh việc mang phù hiệu trở về an toàn, nên cả ba bạn, do không phạm phải bất kỳ hành động nào quá đáng chê trách, đều đủ tiêu chuẩn. Thế nên, về cơ bản là... Cả ba người đều đỗ! Tất cả các bạn đều đã vượt qua!"
+Người đàn ông nói tiếp: "Thế nên, trong bản báo cáo tôi vừa đưa cho Sheila... chà, tuy ghi chép rất nhiều điều về tổ đội của các bạn, nhưng tóm lại là cả ba người đều không có vấn đề gì cả. Mục tiêu cốt lõi của kỳ thi là mang phù hiệu trở về an toàn, mà các bạn lại không có hành động nào đáng bị chê trách, nên đều đạt tiêu chuẩn. Tóm lại là... cả ba người đều đỗ! Các bạn vượt qua kỳ thi rồi đấy!"
 
 ◆◇◆◇◆
 
-"Chúng ta... Đỗ rồi ư...? Chúng ta đỗ rồi! ĐỖ RỒI! Này, Laura! Chúng ta đỗ rồi!!"
+"Chúng ta... đỗ rồi ư...? Chúng ta đỗ rồi! ĐỖ RỒI! Này, Laura! Chúng ta đỗ rồi!!"
 
-Giọng của Raiz, lúc đầu còn ngỡ ngàng hoài nghi, dần dần tăng âm lượng khi nhận thức được thực tế tình hình. Laura cũng nhanh chóng hòa mình vào niềm hân hoan.
+Giọng của Raiz lúc đầu còn xen lẫn vẻ khó tin, rồi lớn dần lên khi cậu nhận thức được niềm vui này là thật. Laura cũng lập tức hòa vào bầu không khí ăn mừng.
 
-"Vâng! Chúng ta làm được rồi Raiz! Rốt cuộc thì cãi lời bố mẹ rời khỏi làng cũng chẳng phải là sai lầm...!" Laura nói, niềm vui sướng lộ rõ trong giọng nói của cô.
+"Ừ! Chúng ta làm được rồi Raiz! Rốt cuộc cãi lời bố mẹ rời làng cũng chẳng phải là sai lầm...!" Laura reo lên, niềm vui sướng lộ rõ trong giọng nói của cô.
 
-Tuy nhiên, nội dung lời cảm thán của cô lại khiến tôi cảm thấy đôi chút bất an, nhưng đó là chuyện để bận tâm vào dịp khác.
+Nghe câu reo hò của cô gái mà tôi thấy có chút bất an trong lòng, nhưng thôi, để sau này hẵng tính.
 
-Nghĩ lại thì, nhiều mạo hiểm giả tìm đến những thị trấn như Maalt để rời xa các ngôi làng hẻo lánh nơi thôn dã. Tôi cũng từng là một trong số họ, và khó lòng ở vào vị thế có thể lên lớp răn dạy Laura về những lựa chọn cuộc đời cô. Việc họ có mặt ở đây ngay lúc này tự nó đã nói lên rằng họ sở hữu đủ kỹ năng để sinh tồn, và chuyện chỉ đơn giản là thế.
+Nghĩ lại thì, không ít mạo hiểm giả tìm tới những thị trấn như Maalt cốt để thoát ly khỏi chốn làng quê hẻo lánh. Bản thân tôi cũng từng như vậy, nên chẳng có tư cách gì để phán xét lựa chọn của cô gái. Việc hai người họ có mặt ở đây lúc này đã tự chứng minh rằng họ có đủ thực lực để sinh tồn, thế là đủ.
 
-Dù người ta có quy một phần thành công của họ cho may mắn, không thể phủ nhận rằng việc họ thăng cấp thành công lên hạng Đồng Cấp phần lớn là nhờ vào đức tính và sự chăm chỉ của bản thân. Khi là mạo hiểm giả Đồng Cấp, khả năng kiếm tiền của họ tăng lên đáng kể, vượt trội rõ rệt so với những mạo hiểm giả tầm thường hạng xoàng. Ngay cả một người nông dân sở hữu đất đai, hoa màu và nông cụ riêng trong làng cũng chẳng thể hy vọng kiếm được nhiều tiền hơn một mạo hiểm giả ở tầm vóc này.
+Dù có coi may mắn đóng góp một phần vào thành quả ấy, cũng không thể phủ nhận việc họ thăng lên Đồng Cấp phần lớn là nhờ vào phẩm chất và sự nỗ lực của chính mình. Là mạo hiểm giả Đồng Cấp, thu nhập của họ sẽ tăng lên đáng kể, vượt trội hơn hẳn lớp mạo hiểm giả bình thường. Ở chốn thôn quê, ngay cả người nông dân có sẵn ruộng đất, hoa màu lẫn nông cụ cũng chẳng thể mong kiếm được nhiều tiền bằng một mạo hiểm giả tầm cỡ này.
 
-Nếu sau này họ chọn trở về làng, họ sẽ có thể làm điều đó trong khi khoác lên mình đủ loại trang phục lộng lẫy và giàu sang, tôi đồ rằng bấy nhiêu thôi cũng đã quá đủ lý do để vui mừng rồi.
+Nếu sau này họ muốn về lại quê nhà, họ hoàn toàn có thể áo gấm về làng trong những bộ trang phục sang trọng, bấy nhiêu thôi tôi nghĩ cũng đã quá đủ để ăn mừng rồi.
 
-Đúng như dự đoán, bản thân tôi cũng rất hài lòng với kết quả này. Tôi đã dành phần lớn cuộc đời mình làm một mạo hiểm giả Đồng Cấp mà không thể tiến xa hơn được nữa. Về nhiều mặt, tôi vô cùng quen thuộc với cấp bậc mạo hiểm giả cụ thể này. Với việc này, tôi sẽ lại có thể nhận những yêu cầu như tôi từng làm trong quá khứ, cũng như phấn đấu hướng tới việc trở thành một mạo hiểm giả Ngân Cấp, bước tiến tiếp theo trong sự nghiệp của tôi.
+Dĩ nhiên, bản thân tôi cũng rất vui mừng trước kết quả này. Tôi đã gắn bó phần lớn cuộc đời với hạng Đồng Cấp mà không tài nào tiến xa hơn được. Về nhiều mặt, tôi đã quá quen thuộc với cấp bậc này. Nhờ vậy, tôi sẽ lại có thể nhận những ủy thác như trước kia, đồng thời phấn đấu hướng tới mục tiêu trở thành mạo hiểm giả Ngân Cấp, nấc thang tiếp theo trong sự nghiệp của mình.
 
-Cuộc sống mạo hiểm giả hiện tại của tôi thật thỏa mãn—không, còn hơn cả thỏa mãn. Đây rất có thể là đỉnh cao trong sự nghiệp của tôi, và tôi sẽ tiếp tục tiến bước, không dừng lại dù chỉ một khoảnh khắc cho đến khi cuối cùng đạt được mục tiêu cả đời là chạm tới Mithril Cấp. Đó là một cột mốc vĩ đại trong cuộc đời làm mạo hiểm giả thứ hai của tôi.
+Cuộc sống làm mạo hiểm giả lúc này của tôi thật viên mãn, à không, phải nói là trên cả viên mãn. Đây rất có thể sẽ là thời kỳ đỉnh cao trong sự nghiệp của tôi, và tôi sẽ tiếp tục tiến bước, không ngơi nghỉ cho tới khi chạm tới ước nguyện cả đời là Mithril Cấp. Đó là một cột mốc quan trọng trong cuộc đời mạo hiểm giả thứ hai của tôi.
 
-Vẫn còn muôn vàn vấn đề đang hiện hữu, cụ thể là chiếc áo choàng trông đầy khả nghi, chiếc mặt nạ dường như không thể tháo ra, và sự thật là tôi hiện đang mang thân xác của một Undead Thi Quỷ. Chà, so với đại cục thì đó chỉ là những trở ngại nhỏ; tôi buộc phải nhìn nhận chúng theo cách đó.
+Tất nhiên vẫn còn hàng đống rắc rối trước mắt, nào là chiếc áo choàng trông đầy vẻ khả nghi, chiếc mặt nạ dường như chẳng thể nào tháo ra, và sự thật là tôi đang mang thân xác của một Thi Quỷ Undead. Mà thôi, xét cho cùng thì đó cũng chỉ là những chuyện vặt vãnh; tôi đành phải tự nhủ như vậy.
 
-Liệu việc một Undead có tri giác đơn độc dạo bước trên đường phố Maalt có thực sự tồi tệ đến thế không?
+Liệu việc có một Undead mang tri giác lững thững dạo bước trên đường phố Maalt có thực sự tệ đến thế không?
 
-Quyết định tự chiều theo câu hỏi của chính mình, tôi đứng lặng, ngẫm nghĩ về những hệ lụy của một viễn cảnh như vậy...
+Thế là tôi thử chiều theo suy nghĩ vẩn vơ của mình, đứng yên một chỗ mường tượng xem viễn cảnh đó sẽ ra sao...
 
-Giả sử một con Thi Quỷ bước đi khập khiễng tiến vào quảng trường chợ Maalt, thân thể thủng lỗ chỗ. Sau đó nó dừng lại ở một sạp hàng, trò chuyện vu vơ với người bán hàng.
+Giả sử một con Thi Quỷ bước đi lảo đảo tiến vào quảng trường chợ Maalt, thân mình thủng lỗ chỗ. Sau đó nó ghé vào một quầy hàng, thản nhiên bắt chuyện với chủ quán.
 
-"T... T... Tôi muốn. Một quả... Táo. Làm ơn..."
+"...T... t... tôi muốn. Một quả... táo. Làm ơn..."
 
-"Được rồi, của cậu đây! Hết một đồng tiền đồng... Đúng rồi, một đồng tiền đồng. ...Này Rentt, hôm nay người cậu lại thủng lỗ chỗ nữa rồi đấy nhỉ?"
+"Được rồi, của chú em đây! Hết một đồng xu đồng... Đúng rồi, đúng một đồng xu đồng. ...Này Rentt, hôm nay người cậu lại thủng lỗ chỗ nữa rồi đấy à?"
 
-"Vâng... Dù sao thì... Tôi là... Undead... Mà... Ha... Haha...."
+"...Vâng... dù sao thì... tôi là... Undead... mà... ha... haha..."
 
-"Haha! Cậu làm tôi cười chết mất, Rentt!"
+"Haha! Cậu làm tôi cười chết mất thôi, Rentt!"
 
-Cuộc trò chuyện có lẽ sẽ diễn ra theo chiều hướng như thế đấy.
+Cuộc trò chuyện có lẽ sẽ diễn ra theo kiểu như vậy.
 
-...Chuyện đó có gì xấu xa lắm đâu cơ chứ?
+...Như thế thì có gì xấu đâu cơ chứ?
 
-Có lẽ đó không phải là hình ảnh đẹp đẽ nhất... Nhưng cũng chẳng hẳn là sai trái theo bất kỳ cách nào. Không như hầu hết các loài Undead khác, tôi đâu có lồng lộn chạy khắp nơi khủng bố thị dân. Hãy nhìn bà lão đằng kia xem—liệu bà ấy có bận tâm việc tôi là một Thi Quỷ thủng lỗ chỗ hay một bao tải xương biết đi không? Không. Sẽ chẳng có ai bận tâm chút nào cả.
+Trông thì chẳng được đẹp mắt cho lắm... nhưng cũng đâu có gì sai trái. Không như hầu hết các loài Undead khác, tôi đâu có lồng lộn chạy khắp nơi dọa dẫm thị dân. Cứ nhìn bà lão đằng kia mà xem, liệu bà ấy có bận tâm việc tôi là một Thi Quỷ thủng lỗ chỗ hay một bộ xương khô biết đi không? Chẳng bao giờ. Ai mà thèm bận tâm chứ.
 
-Tuy nhiên, nói một cách thực tế thì, tất cả những điều đó sẽ chấm dứt ngay khoảnh khắc ai đó hét toáng lên và gọi lính gác tới. Khi ấy tôi sẽ phải ngậm ngùi nói lời vĩnh biệt thế giới tàn nhẫn này.
+Có điều trên thực tế, ảo tưởng ấy sẽ tan tành ngay giây phút có ai đó hét toáng lên gọi lính gác tới. Lúc đó thì chỉ còn nước ngậm ngùi vĩnh biệt cõi đời nghiệt ngã này thôi.
 
 Hahaha...
 
-Tôi thấy thật khó lòng mà cười nổi trước những cảnh tượng thảm sát tưởng tượng trong tâm trí mình.
+Tôi nhận ra mình chẳng thể cười nổi trước cảnh tượng đẫm máu do chính mình vừa tự vẽ ra trong đầu.
 
-Tôi quyết định gác lại những suy nghĩ ấy sang một bên vì tôi sẽ chẳng phải lo lắng nhiều nếu tiếp tục bước đi trên con đường Tiến Hóa Bản Thể của mình. Nếu những nghiên cứu của Lorraine đáng tin cậy, một ngày nào đó tôi sẽ có thể bước đi dưới ánh sáng một lần nữa. Tất cả những gì tôi phải làm là nỗ lực thám hiểm mê cung. Miễn là tôi làm những việc mình cần làm, tôi sẽ có thể tiến hóa, thu thập nguyên liệu quái vật để trang trải cho các chuyến mạo hiểm của mình, hoàn thành nhiều yêu cầu từ khách hàng và cuối cùng thăng cấp bậc mạo hiểm giả.
+Tôi quyết định gác lại những suy nghĩ vẩn vơ ấy sang một bên, bởi chừng nào còn tiếp tục trên con đường Tiến Hóa Bản Thể thì tôi chẳng có gì phải lo. Nếu những nghiên cứu của Lorraine là đúng, một ngày nào đó tôi sẽ lại có thể đường hoàng bước đi dưới ánh mặt trời. Tất cả những gì tôi cần làm lúc này là chăm chỉ thám hiểm mê cung. Chỉ cần làm tốt những việc phải làm, tôi sẽ có thể tiến hóa, thu thập nguyên liệu quái vật để trang trải cho các chuyến mạo hiểm, hoàn thành thật nhiều ủy thác của thân chủ và từng bước thăng cấp mạo hiểm giả.
 
-Quả thực, tôi sẽ thực sự bắn trúng hai, có khi là ba con nhạn chỉ bằng một mũi tên... Ấy là nếu mọi chuyện diễn ra đúng như kế hoạch.
+Quả thật, nếu mọi chuyện suôn sẻ đúng như kế hoạch, đây đúng là một mũi tên trúng hai, thậm chí ba đích...
 
-Quan trọng hơn, tôi nên hoàn tất thủ tục thăng hạng Đồng Cấp. Mặc dù tất cả chúng tôi đều đã đủ tiêu chuẩn, vẫn còn những chi tiết nhỏ cần phải giải quyết. Trong khi tôi đã quá quen thuộc với những chi tiết và thủ tục này, Raiz và Laura thì không.
+Mà quan trọng hơn hết lúc này là hoàn tất thủ tục thăng hạng Đồng Cấp đã. Dù cả ba chúng tôi đều đã đạt tiêu chuẩn, vẫn còn vài khâu nhỏ cần làm nốt. Mấy quy trình thủ tục này tôi đã nhẵn mặt, nhưng Raiz và Laura thì chưa biết gì.
 
-Như thể đúng lúc, Sheila quay sang đối diện với chúng tôi.
+Như thể đón đúng thời điểm, Sheila quay lại nhìn chúng tôi.
 
-"Đối với ba bạn đã thăng lên Đồng Cấp thành công, việc đổi thẻ định danh do Hội cấp là điều bắt buộc. Nói một cách chính xác, những tấm thẻ màu sắt hiện tại của các bạn sẽ được thay thế bằng thẻ màu đồng, rất giống với tấm thẻ ngay tại đây."
+"Cả ba bạn đều đã thăng lên Đồng Cấp thành công, nên giờ các bạn cần đổi thẻ định danh do Hội cấp. Chính xác hơn là tấm thẻ màu sắt hiện tại của các bạn sẽ được đổi sang thẻ màu đồng, trông giống như tấm này đây."
 
-Vừa nói, Sheila vừa giơ ra thứ trông như một tấm thẻ mạo hiểm giả Đồng Cấp trên tay cô. Tuy nhiên, cái tên ghi trên tấm thẻ đó lại vô cùng thú vị. Tấm thẻ này thuộc về một người tên là "Guild Guildar", dường như thuộc về Hội mạo hiểm giả Maalt.
+Nói đoạn, Sheila chìa ra một tấm thẻ trông như thẻ mạo hiểm giả Đồng Cấp. Thế nhưng, cái tên ghi trên đó nói sao cho nhẹ thì... quả là rất thú vị. Tấm thẻ này đứng tên một người có cái tên "Guild Guildar", ghi rõ thuộc về Hội mạo hiểm giả Maalt.
 
-Nhận thấy vẻ bối rối trên khuôn mặt họ, Sheila nhanh chóng bổ sung thêm lời giải thích: "...Tất nhiên, đây chỉ là mẫu để minh họa thôi, và tấm thẻ này thuộc về một nhân vật hư cấu. Nhưng 'Guild Guildar' là nhân vật hư cấu chính thức mà tất cả các hội mạo hiểm giả đều dùng để ghi chú trên các thẻ mẫu của họ."
+Nhận thấy vẻ ngơ ngác trên mặt họ, Sheila liền nhanh nhảu giải thích thêm: "...Tất nhiên đây chỉ là thẻ mẫu để minh họa thôi, còn cái tên này là người hư cấu. Nhưng 'Guild Guildar' chính là nhân vật hư cấu chính thức được tất cả các hội mạo hiểm giả dùng để in trên thẻ mẫu đấy."
 
-Dù tôi chẳng mảy may hứng thú với những gì Sheila nói, câu chuyện về Guild Guildar của cô dường như lại thu hút toàn bộ sự chú ý của Raiz và Laura. Tôi đồ rằng trong mắt họ đó là chuyện hiếm thấy, nhưng chẳng lẽ họ không nhìn thấy chính cái tên này khi được trao thẻ Thiết Cấp sao?
+Dù tôi chẳng mấy bận tâm tới lời giải thích của Sheila, câu chuyện về Guild Guildar lại thu hút trọn vẹn sự chú ý của Raiz và Laura. Tôi đoán trong mắt họ đây là chuyện lạ lẫm lắm, nhưng chẳng lẽ hồi nhận thẻ Thiết Cấp họ không thấy cái tên này sao?
 
-"À thì, tôi từng thực sự nghĩ rằng ở đâu đó ngoài kia có ai đó tên như thế này khi tôi nhận tấm thẻ đầu tiên..." Raiz vừa nói vừa gãi đầu.
+"Hồi nhận thẻ lần đầu, tôi cứ đinh ninh ngoài đời có người tên như thế thật..." Raiz vừa gãi đầu vừa ngượng ngùng nói.
 
-Tôi đoán nhân viên tiếp đón cậu ấy hồi đó không diễn giải cặn kẽ như Sheila, hoặc đơn giản là họ thích thú với việc lừa gạt các mạo hiểm giả trẻ tuổi. Đó không nhất thiết là một trò đùa ác ý, hay điều gì đó sẽ cản trở sự nghiệp của họ.
+Tôi đoán người tiếp tân phụ trách cậu ấy hồi đó chẳng giải thích cặn kẽ như Sheila, hoặc chỉ đơn giản là thích trêu chọc mấy tân binh trẻ tuổi. Trò đùa này cũng chẳng ác ý gì, càng không phương hại tới tiền đồ của họ.
 
-Sheila tiếp tục bài diễn giải của mình.
+Sheila tiếp tục phần dặn dò.
 
-"Thẻ định danh mạo hiểm giả từ Đồng Cấp trở lên thường được yểm các ma pháp nhất định nhằm chống làm giả, vì vậy sẽ mất khoảng một đến hai ngày để các bạn nhận được giấy tờ cập nhật của mình. Mọi thứ sẽ sẵn sàng vào ngày mốt, nhưng hiện tại, các bạn có thể tiếp tục sử dụng thẻ định danh hiện có. Và đừng lo lắng, bất kể thế nào thì trong thời gian này các bạn vẫn có thể nhận các yêu cầu của Đồng Cấp."
+"Thẻ định danh mạo hiểm giả từ Đồng Cấp trở lên thường được yểm một số ma pháp chống làm giả, nên sẽ mất khoảng một đến hai ngày để làm xong thẻ mới cho các bạn. Ngày kia là thẻ sẽ sẵn sàng, còn từ giờ đến lúc đó các bạn cứ tạm thời dùng thẻ hiện tại nhé. Cứ yên tâm là trong thời gian chờ đợi, các bạn vẫn được phép nhận các ủy thác của Đồng Cấp."
 
-Các ma pháp chống làm giả đang nói tới không nhằm mục đích nhận diện chủ nhân tấm thẻ nhiều bằng việc răn đe những kẻ lừa đảo mạo danh mạo hiểm giả, đánh cắp thẻ rồi viết tên mình lên đó. Nhưng tất nhiên, những ma pháp này không phải là bất khả xâm phạm. Nếu một ma pháp sư lành nghề hoặc người có trình độ tương đương quyết tâm thực hiện, việc làm giả và chỉnh sửa trái phép thẻ định danh do Hội cấp là hoàn toàn khả thi. Đây là một phần lý do tại sao có rất nhiều kẻ khả nghi với lai lịch mập mờ lại nằm trong danh sách của Hội. Điều này dẫn tới việc Hội bị coi là một tổ chức có đạo đức đáng ngờ.
+Loại ma pháp chống làm giả này thực chất không giúp nhận diện chủ thẻ là bao, mà chủ yếu dùng để răn đe những kẻ mạo danh mạo hiểm giả đi trộm thẻ rồi viết tên mình đè lên. Nhưng dĩ nhiên ma pháp ấy chẳng phải là bất khả xâm phạm. Nếu một ma pháp sư lão luyện hay người có trình độ tương đương muốn nhúng tay, việc làm giả hoặc tẩy xóa thẻ Hội là hoàn toàn trong tầm tay. Đó cũng là một phần lý do khiến danh sách thành viên của Hội xuất hiện không ít kẻ khả nghi với lai lịch mập mờ, làm cho Hội mang tiếng là nơi vàng thau lẫn lộn chẳng mấy đoan chính.
 
-Giờ đây, những phép thuật chống làm giả này càng trở nên phức tạp hơn theo từng cấp bậc mạo hiểm giả. Chẳng hạn, tấm thẻ định danh Ngân Cấp của Lorraine, sau khi được chính chủ nhân xem xét kỹ lưỡng, đã bị coi là có thể làm giả được, miễn là người ta có đủ thời gian và tiền bạc để thực hiện. Người đó cũng phải có đủ kiến thức về các kỹ thuật liên quan. Đó là những gì Lorraine đã nhận định về chủ đề này. Điều tương tự cũng áp dụng cho thẻ Kim Cấp và Bạch Kim Cấp.
+Cấp bậc mạo hiểm giả càng cao, ma pháp chống làm giả lại càng phức tạp. Chẳng hạn như tấm thẻ Ngân Cấp của Lorraine, sau khi đích thân cô mổ xẻ nghiên cứu, đã đưa ra kết luận rằng vẫn làm giả được nếu chịu bỏ thời gian và tiền bạc, đồng thời phải nắm vững kỹ thuật tương ứng. Đó là những gì Lorraine từng đúc kết về chuyện này. Thẻ Kim Cấp và Bạch Kim Cấp cũng tương tự.
 
-Mặt khác, thẻ Mithril Cấp lại được yểm các kết giới và bùa chú cực kỳ hùng mạnh tới mức gần như không thể làm giả, chứ đừng nói đến việc chỉnh sửa. Dù sao thì mạo hiểm giả Mithril Cấp cũng là báu vật sống của Hội. Hội sẽ làm mọi cách có thể để ngăn chặn việc làm giả bất hợp pháp những tấm thẻ như vậy.
+Mặt khác, thẻ Mithril Cấp thì được yểm kết giới và phù phép cực kỳ hùng mạnh, tới mức gần như không thể làm giả, nói gì đến chuyện chỉnh sửa. Dù sao thì mạo hiểm giả Mithril Cấp cũng là báu vật sống của Hội, nên Hội sẽ dốc toàn lực để ngăn chặn mọi hành vi làm giả tấm thẻ ấy.
 
-Nhưng Lorraine từng tuyên bố rằng điều đó không hẳn là hoàn toàn bất khả thi, và bản thân cô có lẽ có thể làm được điều gì đó nếu bỏ ra lượng thời gian và nghiên cứu thỏa đáng. Tôi đã nhắc nhở Lorraine tuyệt đối đừng bao giờ thực sự bắt tay vào một công việc như thế, nhất là khi tôi chẳng biết chuyện gì sẽ xảy ra nếu một ngày nào đó Lorraine bỗng nảy ra ý nghĩ ngẫu hứng muốn làm một tấm thẻ như vậy.
+Thế nhưng Lorraine từng tuyên bố chuyện đó chưa hẳn đã là vô phương, và bản thân cô có lẽ làm được nếu bỏ đủ thời gian nghiên cứu. Tôi đã lập tức can ngăn, nhắc cô tuyệt đối đừng bao giờ dại dột làm thử, bởi ai mà biết được chuyện tai quái gì sẽ xảy ra nếu một ngày cô bỗng hứng chí chế ra một tấm thẻ như thế thật.
 
-Có vẻ như Sheila giờ đã gần như hoàn tất phần giải thích của mình. Dù cô có khá nhiều điều để dặn dò, phạm vi công việc của một mạo hiểm giả Đồng Cấp cũng không thực sự đi quá xa so với những người đồng cấp bậc Thiết Cấp của họ. Điểm khác biệt chính nằm ở tính chất của các yêu cầu được tiếp nhận. Mạo hiểm giả Đồng Cấp được kỳ vọng sẽ tiếp xúc nhiều hơn với khách hàng của họ, đặc biệt là trong các nhiệm vụ đòi hỏi phải hộ tống chủ động. Khi ấy, các mạo hiểm giả sẽ cần phải học các quy tắc ứng xử phù hợp và luật thương mại chi phối vùng đất này.
+Xem chừng Sheila đã dặn dò hòm hòm mọi thứ. Dù cô nói khá nhiều, nhưng công việc của một mạo hiểm giả Đồng Cấp thực ra cũng không khác biệt quá xa so với thời Thiết Cấp. Điểm khác biệt lớn nhất nằm ở tính chất của các ủy thác. Mạo hiểm giả Đồng Cấp sẽ phải tiếp xúc với thân chủ nhiều hơn, đặc biệt là những nhiệm vụ trực tiếp hộ tống. Khi ấy, họ bắt buộc phải học thêm các phép tắc ứng xử phù hợp và nắm rõ luật thương mại của xứ này.
 
-Tất cả những điều này đều được ghi trong cuốn cẩm nang dày cộp nằm trên quầy tiếp tân. Các buổi thuyết giảng và những phương thức chia sẻ thông tin khác luôn có sẵn tại Hội cho những ai cần đến, hơn nữa còn với mức giá thấp phải chăng.
+Tất cả những điều này đều được ghi trong cuốn cẩm nang dày cộp đặt trên quầy tiếp tân. Hội cũng mở các buổi giảng giải và nhiều hình thức chia sẻ thông tin cho những ai có nhu cầu, với chi phí hết sức bình dân.
 
-Nhưng tôi đồ rằng chuyện đó cũng chẳng phải điều gì quá hệ trọng. Quan trọng hơn...
+Mà thôi, mấy chuyện đó cũng chẳng phải điều cốt yếu. Quan trọng hơn cả là...
 
-"...Raiz. Laura," tôi cất tiếng gọi hai người đồng hành của mình. Đúng như dự đoán, họ nhanh chóng quay lại nhìn tôi.
+"...Raiz. Laura," tôi gọi hai người bạn đồng hành. Đúng như dự liệu, họ liền quay lại nhìn tôi.
 
-Dù cả hai đã quen với tôi trong một khoảng thời gian tương đối ngắn, gương mặt hân hoan của họ không hề lộ ra chút mảy may thấu hiểu nào về những điều tôi sắp sửa nói. Khóe môi tôi trĩu xuống, nhưng chẳng thể làm gì khác. Ngay từ đầu chúng tôi cũng chỉ là một sự sắp xếp tổ đội vào phút chót: hai bên được Hội ghép lại với nhau vì mục đích rõ ràng là tham gia kỳ thi thăng hạng Đồng Cấp.
+Dù cả hai đã quen dần với tôi chỉ trong thời gian ngắn, nét mặt rạng rỡ của họ chẳng hề mảy may nhận ra điều tôi sắp nói. Khóe môi tôi trĩu xuống, nhưng cũng chẳng biết làm sao. Dẫu sao ngay từ đầu chúng tôi cũng chỉ là một tổ đội chắp vá vào phút chót: hai bên được Hội ghép lại cùng nhau cốt chỉ để tham gia kỳ thi thăng hạng Đồng Cấp.
 
-Tôi không định phàn nàn về sự sắp xếp này vào ngay lúc này, nhưng trong sâu thẳm, xu hướng mạo hiểm đơn độc của tôi vẫn còn nguyên vẹn. Đã đến lúc chúng tôi phải chia tay, giờ đây khi kỳ thi cuối cùng cũng đã kết thúc.
+Giờ này tôi chẳng có gì để phàn nàn về chuyện ghép đội ấy, nhưng tự đáy lòng, tôi vẫn quen đi mạo hiểm một mình hơn. Kỳ thi cuối cùng cũng đã xong xuôi, đã đến lúc chúng tôi phải đường ai nấy đi.
 
 "Có chuyện gì thế, Rentt?"
 
-"Chuyện gì vậy ạ?"
+"Có chuyện gì thế anh?"
 
-"...Tất cả chúng ta... Đã vất vả rồi. Rất... Vui. Chúng ta đã cùng trải qua... Thăng trầm. Dù tôi... Không biết. Hai người... Sẽ trở thành mạo hiểm giả như thế nào... Nhưng tôi sẽ không bao giờ. Quên đi... Những gì chúng ta đạt được. Ngày hôm nay. Cảm... Ơn hai người."
+"...Cả nhóm chúng ta... đã vất vả rồi. Thật sự... rất vui. Chúng ta đã cùng trải qua... bao thăng trầm. Dù tôi... không biết. Hai người... sau này sẽ trở thành mạo hiểm giả như thế nào... nhưng tôi sẽ không bao giờ. Quên đi... những gì chúng ta đã làm được. Hôm nay. Cảm... ơn hai người."
 
-Hai người họ dường như chẳng hề tỏ ra bất ngờ chút nào. Hơn cả ngạc nhiên, đó là một sự chấp nhận đầy thanh thản. Có lẽ cả hai đều hiểu rằng rốt cuộc chúng tôi cũng sẽ phải đường ai nấy đi, và họ đáp lại tôi bằng những nét mặt pha lẫn giữa nhẹ nhõm và thỏa mãn.
+Hai người dường như chẳng hề bất ngờ. Thay vì ngạc nhiên, họ đón nhận lời tôi với một vẻ thản nhiên chấp nhận. Có lẽ cả hai đều hiểu rằng sớm muộn gì chúng tôi cũng phải đường ai nấy đi, nên nhìn tôi bằng nét mặt vừa nhẹ nhõm vừa thỏa nguyện.
 
-"...Không, câu đó phải để chúng tôi nói mới đúng chứ? Tôi cảm thấy hôm nay mình mới thực sự trở thành một mạo hiểm giả đúng nghĩa, và anh chính là người đã giúp chúng tôi đạt được điều đó, Rentt... Tôi từng nghĩ làm mạo hiểm giả chỉ toàn phụ thuộc vào kỹ năng và sức mạnh, nhưng giờ tôi biết không phải như vậy rồi. Anh đã dạy cho chúng tôi điều đó. Cảm ơn anh, Rentt... Tôi mới là người sẽ không bao giờ quên. Tôi sẽ ghi nhớ những điều anh đã chỉ dạy hôm nay và trau dồi kỹ năng trên nền tảng ấy. Nếu sau này chúng ta có dịp cùng nhận một nhiệm vụ khác... Tôi rất sẵn lòng lập đội cùng anh lần nữa."
+"...Không, câu đó phải để chúng tôi nói mới đúng chứ anh? Tôi cảm thấy hôm nay mình mới thực sự trở thành một mạo hiểm giả đúng nghĩa, và chính anh là người đã giúp chúng tôi làm được điều đó, Rentt... Tôi từng nghĩ mạo hiểm giả chỉ toàn cậy vào kỹ năng với sức mạnh, nhưng giờ tôi hiểu ra không phải thế rồi. Anh đã dạy chúng tôi bài học đó. Cảm ơn anh, Rentt... Tôi mới là người sẽ không bao giờ quên. Tôi sẽ ghi nhớ những gì anh chỉ bảo hôm nay để làm nền tảng rèn giũa bản thân. Nếu sau này có dịp cùng nhận ủy thác khác... tôi rất sẵn lòng lập đội với anh lần nữa."
 
-"Anh Vivie... Nếu có thể, tôi từng muốn anh ở lại với chúng tôi mãi mãi... Nhưng đó không phải là điều chúng tôi nên nói, phải không? Tôi nghĩ mình phần nào hiểu được. Tôi hiểu rằng anh... Rất khác biệt, anh Vivie ạ. Ý tôi không phải là ngoại hình anh trông khác lạ, mà là mục tiêu, chí hướng của anh rất khác... Giống như anh đang hướng tới một nơi xa xôi mà chúng tôi không hề hay biết... Tôi đoan chắc anh sẽ chẳng thể chạm tới nơi đó nếu đi cùng chúng tôi, bởi đó là đích đến chỉ dành cho riêng anh."
+"Anh Vivie... nếu được, tôi từng mong anh ở lại với chúng tôi mãi mãi... nhưng chúng tôi chẳng nên nói ra điều đó, phải không anh? Tôi nghĩ mình phần nào hiểu được. Tôi biết anh... rất khác biệt, anh Vivie ạ. Không phải ở vẻ ngoài của anh, mà là mục tiêu, chí hướng của anh rất khác... Cứ như thể anh đang hướng về một nơi xa xôi mà chúng tôi chẳng hề hay biết... Tôi biết chắc anh sẽ chẳng thể chạm tới nơi ấy nếu đi cùng chúng tôi, bởi đó là đích đến chỉ dành riêng cho một mình anh."
 
-"Anh đã chỉ dạy cho chúng tôi rất nhiều điều, anh Vivie... Không chỉ để mắt bảo bọc chúng tôi trong trận chiến, anh còn tạo cơ hội cho chúng tôi trưởng thành và tích lũy những kinh nghiệm quý báu, trong khi luôn âm thầm hỗ trợ chúng tôi. Chúng tôi đều thấy rõ điều đó. Đổi lại... Chúng tôi cũng biết rằng đôi bên sẽ phải đường ai nấy đi một khi bài thi kết thúc. Dù vậy, dẫu cho tổ đội này giờ đã giải tán, và chỉ kéo dài vỏn vẹn một ngày, nhưng anh sẽ luôn là một thành viên trong đội của chúng tôi, anh Vivie ạ. Thế nên nếu sau này có chuyện gì xảy ra, nếu có cơ hội... Xin anh hãy lập đội với chúng tôi một lần nữa nhé, anh Vivie. Cảm ơn anh vì tất cả."
+"Anh đã chỉ dạy cho chúng tôi rất nhiều điều, anh Vivie... không chỉ để mắt che chở chúng tôi trong trận chiến, anh còn tạo cơ hội cho chúng tôi trưởng thành và tích lũy những kinh nghiệm quý báu, trong khi bản thân luôn âm thầm hỗ trợ phía sau. Chúng tôi đều nhìn thấu điều đó. Và vì thế... chúng tôi cũng hiểu rằng hai bên sẽ phải đường ai nấy đi một khi kỳ thi kết thúc. Dù vậy, dẫu tổ đội này giờ đã giải tán và chỉ gắn bó vỏn vẹn một ngày, anh sẽ luôn là một thành viên trong đội của chúng tôi, anh Vivie ạ. Thế nên sau này nếu có việc gì, hoặc nếu có cơ hội... xin anh hãy lập đội với chúng tôi lần nữa nhé, anh Vivie. Cảm ơn anh vì tất cả."
 
-Tôi ngạc nhiên trước những lời lẽ của họ. Thật không ngờ họ lại nhìn thấu tâm can tôi chỉ trong một khoảng thời gian ngắn ngủi đến vậy. Tôi từng nghĩ về họ như những mạo hiểm giả trẻ tuổi mà mình nên dẫn dắt, nhưng điều đó chưa hoàn toàn đúng đắn. Tôi nhớ lại những lần chúng tôi để mắt chăm sóc lẫn nhau, khích lệ nhau trên từng bước tiến của cuộc hành trình. Ít nhất thì giờ đây tôi cảm nhận được những lời khích lệ của Raiz và Laura như một cái vỗ vai trấn an đầy ấm áp.
+Tôi ngạc nhiên trước những lời của họ. Thật không ngờ họ lại nhìn thấu tâm tư của tôi chỉ trong khoảng thời gian ngắn ngủi đến vậy. Tôi từng nghĩ họ chỉ là những mạo hiểm giả trẻ tuổi cần mình dẫn dắt, nhưng thực ra không hẳn là thế. Tôi nhớ lại bao lần chúng tôi để mắt bảo bọc lẫn nhau, động viên nhau trên từng bước đường. Ít nhất thì lúc này, những lời khích lệ của Raiz và Laura cho tôi cảm giác như một cái vỗ vai tiếp thêm sức mạnh.
 
-Một ngày nào đó, tôi nhất định sẽ lại trở thành con người. Tôi không thể đánh mất niềm hy vọng đó, hơn bất cứ điều gì.
+Một ngày nào đó, tôi nhất định sẽ trở lại làm người. Bằng mọi giá, tôi không được phép đánh mất niềm hy vọng ấy.
 
-"...Tôi xin lỗi... Vì không thể... Lập đội cùng... Hai người. Không phải vì... Tôi không thích hai người... Hay là vấn đề... Về sức mạnh. Bản thân tôi... Có những uẩn khúc... Riêng. Nếu một ngày nào đó... Những rắc rối của tôi... Được giải quyết, thì... Tôi nhất định sẽ... Kể cho hai người nghe nhiều hơn... Về bản thân mình. Cho đến lúc đó... Tất cả chúng ta hãy cùng phấn đấu... Trở thành những mạo hiểm giả vĩ đại nhé."
+"...Tôi xin lỗi... vì không thể... lập đội cùng... hai người. Không phải vì... tôi không thích hai người... hay vì chuyện... thực lực. Bản thân tôi... có những nỗi niềm... riêng. Nếu một ngày nào đó... những rắc rối của tôi... được giải quyết, thì... tôi nhất định sẽ... kể cho hai người nghe nhiều hơn... về bản thân mình. Cho đến lúc đó... chúng ta hãy cùng phấn đấu... trở thành những mạo hiểm giả tài ba nhé."
 
-Dứt lời, chúng tôi trao nhau một cái bắt tay, cả hai người họ mỉm cười nắm lấy đôi bàn tay đeo găng của tôi trong tay họ. Dù đang đeo găng tay, người ta cũng chẳng khó để nhận ra bàn tay tôi có cảm giác kỳ lạ dưới lớp da thuộc. Dẫu vậy, họ chẳng nói một lời, siết chặt lấy tay tôi.
+Dứt lời, chúng tôi bắt tay nhau. Cả hai mỉm cười nắm chặt đôi tay đeo găng của tôi. Dù đã có găng tay che chắn, chắc chắn họ vẫn nhận ra bàn tay tôi có cảm giác là lạ bên dưới lớp da. Dẫu vậy, họ chẳng nói nửa lời, chỉ siết chặt lấy tay tôi.
 
-Tôi không nghĩ họ đã suy đoán ra tình trạng của mình, rằng tôi là một Undead. Nhưng giờ họ đã hiểu rằng tôi có những uẩn khúc và rắc rối của riêng mình.
+Tôi không cho là họ đã đoán ra tình cảnh của tôi, rằng tôi là một Undead. Nhưng giờ họ đã thấu hiểu rằng tôi có những nỗi niềm và khó khăn riêng của mình.
 
-Raiz và Laura, sau khi cuối cùng đã hoàn tất mọi việc cần làm, rảo bước rời khỏi sảnh Hội, trở về phòng trọ của họ để tận hưởng một kỳ nghỉ ngơi xứng đáng. Cùng họ bước ra trước tòa nhà, tôi vẫy tay chào trước khi quay người rảo bước về hướng nhà Lorraine. Tuy nhiên, đúng vào lúc tôi làm vậy...
+Sau khi hoàn tất mọi thủ tục còn lại, Raiz và Laura rảo bước rời sảnh Hội, trở về phòng trọ để tận hưởng một giấc nghỉ ngơi xứng đáng. Cùng họ bước ra trước tòa nhà, tôi vẫy tay tạm biệt rồi quay người rảo bước về hướng nhà Lorraine. Nhưng đúng lúc ấy...
 
 "...Anh Rentt!"
 
-Một giọng nói quen thuộc vang lên từ phía sau tôi. Giọng nói ấy chẳng thuộc về ai khác ngoài Sheila—và tôi không khỏi cảm thấy ngỡ ngàng trước những gì mình vừa nghe thấy.
+Một giọng nói quen thuộc vang lên từ phía sau lưng. Tiếng gọi ấy không phải của ai khác ngoài Sheila, và tôi không khỏi sững sờ trước những gì mình vừa nghe thấy.
 
-Cách cô ấy cất tiếng gọi tôi, cách cô ấy xướng lên tên tôi—gần như thể cô đang trò chuyện với một người mà mình đã quen biết từ rất lâu rồi vậy...
+Cách cô cất tiếng gọi tôi, cái cách cô thốt lên cái tên ấy, cứ như thể cô đang gọi một người mà mình đã quen biết từ rất lâu rồi vậy...
