@@ -1,175 +1,175 @@
 # Chương 64: Tập 3 Chương 2 - Và Một Ủy Thác Kỳ Lạ Không Kém (4)
 
-"...Cuối cùng... Tôi cũng tới nơi..."
+"...Cuối cùng cũng. Tới nơi rồi..."
 
-Bỏ lại mê cung hàng rào hoa hồng sau lưng, tôi bước ra một khoảng sân rộng mở. Hiện ra trước mắt tôi là một dinh thự thanh lịch mà tráng lệ, với một đài phun nước được tạo tác vô cùng cầu kỳ. Bên cạnh đài phun nước ấy, trên một chiếc bàn hoa mỹ khác, cô bé nọ đang ngồi tao nhã nhấp từng ngụm trà. Đứng cạnh cô bé, đúng như dự đoán, chẳng phải ai khác ngoài Isaac.
+Bỏ lại mê cung hàng rào hoa hồng sau lưng, tôi bước ra một khoảng sân thoáng đãng. Trước mặt tôi sừng sững một tòa dinh thự vừa tao nhã vừa tráng lệ, có cả đài phun nước tinh xảo. Bên cạnh đài phun nước, bên một chiếc bàn lộng lẫy khác, chính là cô bé nọ đang tao nhã nhấp từng ngụm trà. Đứng cạnh cô bé, đúng như tôi dự đoán, chẳng phải ai khác ngoài Isaac.
 
-Vừa nhận ra tôi, cô bé liền đứng dậy, cất bước tiến về phía này. Isaac lặng lẽ theo sát sau lưng cô bé, chẳng mấy chốc đã đứng đối diện trước mặt tôi.
+Thấy tôi, cô bé liền đứng dậy bước về phía này. Isaac lặng lẽ theo sau, và chẳng mấy chốc cô bé đã đứng ngay trước mặt tôi.
 
-"Chúc mừng ngài. Thành thật mà nói, tôi từng không nghĩ ngài có khả năng chinh phục được mê cung đâu."
+"Chúc mừng ngài. Thành thật mà nói, tôi từng nghĩ ngài chẳng thể nào vượt qua nổi mê cung đâu."
 
-Dẫu nét mặt cô bé chỉ là của một đứa trẻ tầm mười hai, mười ba tuổi, tôi biết rõ tính cách thâm trầm ẩn giấu phía sau vẻ ngoài ấy. Lẽ dĩ nhiên, tôi cũng chẳng thể làm gì được.
+Dù nét mặt cô bé trông chỉ như một đứa trẻ chừng mười hai, mười ba tuổi, tôi thừa hiểu tính cách chẳng hề đơn giản ẩn giấu phía sau. Lẽ dĩ nhiên, tôi cũng đành chịu chứ biết làm sao.
 
-Thành thật mà nói, cô bé này có thể tinh quái, song tuyệt nhiên không hề có ác ý. Tôi cho rằng đây cũng chỉ là một trò đùa vô thưởng vô phạt, xét đến việc tính mạng tôi chưa từng lâm vào hiểm cảnh ở bất kỳ thời điểm nào. Tuy nhiên, việc tôi phải tốn ngần ấy thời gian lang thang vất vả chỉ vì một ý thích bất chợt của một cô bé quả thực khiến người ta bực bội.
+Thực bụng mà nói, cô bé này tinh quái thì có nhưng tuyệt nhiên không hề có ác ý. Tính mạng tôi trước sau chẳng hề lâm nguy, nên trò đùa này coi như cũng vô hại. Có điều, phải tốn cả buổi lang thang chỉ vì nhã hứng bất chợt của một cô nhóc thì bực mình thật sự.
 
-Khi tôi đặt chân tới dinh thự Latuule, mặt trời vẫn còn treo cao trên bầu trời. Giờ đây, chính vầng thái dương ấy đang dần lặn xuống, nhuộm cả thế gian trong sắc đỏ thẫm nhạt nhòa của ráng chiều.
+Lúc tôi tới dinh thự Latuule, mặt trời vẫn còn đứng bóng. Vậy mà giờ đây, vầng dương ấy đã ngả bóng tà, nhuộm khắp không gian bằng sắc đỏ thẫm đang dần tàn.
 
-Rốt cuộc mình đã bỏ ra bao nhiêu thời gian trong cái mê cung đó rồi nhỉ...?
+Rốt cuộc mình đã chôn chân trong cái mê cung đó bao lâu rồi nhỉ...?
 
-"Tôi từng nghĩ... Mình sẽ. Chinh phục mê cung này... Nhanh hơn nhiều. Ít nhất là... Cho tới khi tôi hiểu ra. Ý nghĩa trong những lời cô bé nói..."
+"Tôi cứ nghĩ... Mình sẽ. Vượt qua mê cung... Nhanh hơn nhiều. Ít nhất là... Cho tới khi tôi hiểu ra. Ý nghĩa câu nói của cô bé..."
 
-"Ra vậy, ngài đã nhận ra rồi sao. Phải chăng diễn xuất của tôi vẫn chưa đủ đạt nhỉ?"
+"Ra vậy, ngài nhận ra rồi sao. Lẽ nào tài diễn xuất của tôi vẫn chưa đủ khéo nhỉ?"
 
-"...Không. Ổn lắm rồi. Thực ra... Nếu là tôi... Của trước đây. Tôi chắc chắn đã... Mắc bẫy."
+"...Không đâu. Đạt lắm rồi. Thật ra... Nếu là... Bản thân tôi trước đây. Chắc chắn tôi đã... Mắc bẫy."
 
-Tôi đâu thể nói thẳng ra rằng mình đã biến thành một Thi Quỷ. Lý do duy nhất giúp tôi nhận ra vùng không gian vặn xoắn ấy là nhờ các giác quan được cường hóa vượt trội, bao gồm khả năng nhận thức không gian, khứu giác nhạy bén hơn và thị lực tinh tường hơn hẳn. Thành thử, tôi không thể khẳng định chắc nịch rằng kinh nghiệm thời còn sống đã giúp tôi phát hiện ra đứt gãy không gian đó, dù tôi cũng chẳng thể phủ nhận hoàn toàn vai trò của nó.
+Tôi đâu thể nói toạc ra rằng mình đã biến thành Thi Quỷ. Sở dĩ tôi nhận ra vùng không gian vặn xoắn ấy hoàn toàn là nhờ các giác quan được cường hóa vượt bậc, từ khả năng cảm nhận không gian, khứu giác thính hơn cho tới thị lực tinh tường hơn hẳn. Thành thử, bảo rằng kinh nghiệm thời còn sống giúp tôi phát hiện ra vết nứt không gian đó thì không hẳn đúng, dẫu tôi cũng chẳng thể phủ nhận sạch trơn công lao của nó.
 
-Cô bé khẽ lắc đầu trước những lời tôi nói. "Ngài của trước đây sao?"
+Nghe tôi nói vậy, cô bé chầm chậm lắc đầu. "Bản thân ngài trước đây ư?"
 
-"Không..." Tôi cũng lắc đầu đáp lại theo cách tương tự. "Chỉ là... Chút chuyện riêng của tôi thôi. Nhân tiện... Tôi có nghe. Người gác cổng nói rằng... Kẻ nào chinh phục được. Mê cung... Đều có thể nhận phần thưởng. Liệu tôi... Cũng có một phần chứ?"
+"Không..." Tôi cũng lắc đầu đáp lại. "Chỉ là. Chút chuyện riêng của tôi thôi. Nhân tiện... Tôi có nghe. Bác gác cổng bảo rằng... Ai vượt qua được. Mê cung... Đều có phần thưởng. Liệu tôi... Cũng có phần chứ?"
 
-Một mặt, tôi đã phải bỏ ra không ít công sức để đi tới bước này. Mặt khác, chuyện phần thưởng vốn chỉ là suy nghĩ nảy ra sau, đơn thuần là mẩu thông tin tôi tình cờ nghe được khi trò chuyện với người gác cổng. Dù người nhà Latuule có quyết định không trao phần thưởng nào cho tôi trong dịp này đi chăng nữa, tôi cho rằng mình vẫn có đủ lý do chính đáng để mở lời dò hỏi.
+Một phần vì tôi đã tốn bao công sức mới tới được đây, nhưng phần khác thì chuyện phần thưởng cũng chỉ là tiện thể hỏi xem sao, xuất phát từ mẩu tin tình cờ nghe bác gác cổng kể. Dù người nhà Latuule có bảo lần này không có thưởng đi nữa, tôi nghĩ mình mở miệng đòi thì cũng có lý do chính đáng cả.
 
-Tuy nhiên, những toan tính ấy dường như chẳng mấy cần thiết, bởi cô bé lập tức đáp lời tôi với nụ cười quen thuộc trên môi.
+Nhưng tôi chẳng phải đắn đo lâu, bởi cô bé đã mau chóng đáp lời với nụ cười vẫn thường trực trên môi.
 
-"Ồ, vâng, tất nhiên rồi. Tôi vốn đã có ý định tặng ngài một món ma cụ mà gia tộc Latuule sở hữu."
+"Ồ, dĩ nhiên rồi. Tôi vốn đã định tặng ngài một món ma cụ trong bộ sưu tập của gia tộc Latuule mà."
 
-Đúng như tôi dự đoán. Có lẽ giờ đến lượt tôi giở trò trêu chọc rồi.
+Đúng như tôi dự đoán. Có lẽ giờ tới lượt tôi tinh quái một phen rồi.
 
-"Vậy thì... Sao nhỉ. Thế còn món... Ma cụ. Đã được dùng để tạo nên... Khu mê cung hàng rào hoa hồng này thì sao?" Tôi thẳng thừng hỏi.
+"Vậy thì... Thế này nhé. Thế còn món... ma cụ. Dùng để tạo nên... Mê cung hàng rào hoa hồng này thì sao?" Tôi thẳng thừng hỏi.
 
-Đôi mắt cô bé lập tức mở to kinh ngạc. "Tôi vô cùng xin lỗi... Tôi tuyệt đối không thể trao món ma cụ ấy cho ngài được đâu. Mong ngài vui lòng lượng thứ..."
+Mắt cô bé lập tức mở to. "Tôi thành thật xin lỗi... Món ma cụ đó thì tôi tuyệt đối không thể tặng ngài được. Rất mong ngài thông cảm cho..."
 
-"Đó chỉ là... Trò đùa thôi," tôi lập tức đáp lại lời trần tình của cô bé. "Cũng như việc cô bé... Chơi khăm tôi. Trong mê cung vậy... Tôi chỉ nghĩ mình nên. Báo đáp lại một chút."
+"Tôi chỉ... đùa thôi mà," tôi đáp lại ngay. "Cũng như cô bé... Đã chơi khăm tôi. Ở trong mê cung... Tôi nghĩ mình cũng nên. Đáp lễ một chút."
 
-Cô bé tỏ vẻ dở khóc dở cười trước lời tuyên bố của tôi. "Ngài đúng là một kẻ xấu tính tệ bạc mà..." cô bé nói, thoáng nở một nụ cười gượng gạo trên môi.
+Nghe tôi nói vậy, cô bé lộ rõ vẻ dở khóc dở cười. "Ngài đúng là người xấu tính thật đấy...", cô bé nói, khóe môi thoáng hiện một nụ cười bất đắc dĩ.
 
 ◆◇◆◇◆
 
-Tôi không thể cứ thế bạ đâu nói bấy về loại ma cụ mà mình mong muốn. Gia tộc Latuule, với lịch sử dày công sưu tầm ma cụ qua nhiều thế hệ, chắc chắn sẽ chỉ giữ lại những món tinh hoa nhất. Bất kể lựa chọn của tôi là gì, món ma cụ tôi chọn ắt hẳn sẽ bán được một món tiền khổng lồ. Tôi có lẽ sẽ nhận bất kỳ món đồ nào được trao... Nhưng nếu được trao quyền tự chọn một vật phẩm cụ thể—
+Tôi chẳng thể cứ thế buột miệng nói bừa xem mình muốn loại ma cụ nào. Gia tộc Latuule vốn có truyền thống sưu tầm ma cụ qua nhiều thế hệ, trong tay họ chắc chắn chỉ toàn những món thượng thặng. Dù tôi có chọn món nào đi nữa thì đem bán chắc chắn cũng được một món tiền lớn. Người ta đưa món nào có khi tôi cũng nhận thôi... Nhưng nếu đã được quyền chọn đích danh một món—
 
-"...Dù sao thì. Có lẽ nào tôi được phép xem qua... Những món đồ cô bé định trao tặng không?"
+"...Dù sao. Đi nữa. Liệu tôi có thể xem qua... Những món cô bé định tặng không?"
 
-Cô bé dường như đã chuẩn bị sẵn cho câu hỏi như vậy.
+Cô bé dường như đã lường trước câu hỏi này.
 
 "Ồ, dĩ nhiên rồi. Mời ngài đi lối này," cô bé nói rồi rảo bước về phía cánh cửa dinh thự.
 
-Về phần Isaac, anh ta lặng lẽ rảo bước theo sau. Trước sự im lặng tuyệt đối từ đầu đến giờ của anh ta, tôi không còn mảy may nghi ngờ việc anh ta chính là người hầu của cô bé tinh quái này.
+Về phần Isaac, anh ta chỉ lặng lẽ bước theo sau. Thấy anh ta từ nãy tới giờ cứ im thin thít, tôi chẳng còn nghi ngờ gì nữa: anh ta đích thị là gia nhân của cô bé tinh quái này.
 
-Chủ nhân của Isaac... Nói đúng hơn là nữ chủ nhân nhỉ?
+Chủ nhân của Isaac... hay nói đúng hơn là nữ chủ nhân nhỉ?
 
-"À, phải rồi. Tôi suýt chút nữa thì quên mất không tự giới thiệu. Tôi là đương chủ hiện tại của gia tộc Latuule, Laura Latuule. Rất hân hạnh được làm quen với ngài."
+"À, phải rồi. Tôi suýt chút nữa quên chưa tự giới thiệu. Tôi là đương chủ gia tộc Latuule, Laura Latuule. Rất hân hạnh được gặp ngài."
 
-Và thế là bí ẩn đã có lời giải — cô bé này không phải là con gái của một thành viên nào đó trong gia tộc Latuule hay đại loại thế, bản thân cô bé chính là người đứng đầu gia tộc.
+Thế là câu đố đã có lời giải: cô bé này chẳng phải con gái của thành viên nào trong gia tộc Latuule, mà chính cô bé mới là người đứng đầu gia tộc.
 
-Dẫu tuổi tác của cô bé khiến tôi có phần kinh ngạc ở một chừng mực nào đó, nhưng việc kế thừa tước vị gia tộc lại chẳng hề có giới hạn độ tuổi, không như quy định đăng ký làm mạo hiểm giả. Đã có không ít trường hợp vận mệnh của cả gia tộc bị đẩy vào tay một người thừa kế trẻ tuổi tài năng, dù là do hoàn cảnh éo le bắt buộc hay vì bất kỳ lý do nào khác.
+Dù tuổi tác của cô bé làm tôi có phần bất ngờ, nhưng việc kế thừa danh vị gia tộc vốn không hề bị giới hạn tuổi tác như khi đăng ký làm mạo hiểm giả. Chẳng hiếm trường hợp vận mệnh của cả gia tộc được trao trọn vào tay một người thừa kế nhỏ tuổi nhưng có tài, bất kể do tình thế ngặt nghèo hay vì lý do nào khác.
 
-Trong trường hợp các gia tộc quý tộc, việc một đứa trẻ chưa đủ tuổi trưởng thành kế thừa tước vị như vậy là điều khá phổ biến, đặc biệt là sau những cuộc tranh giành quyền lực đẫm máu trong nội bộ gia đình. Gia tộc Latuule tuy không có gốc gác quý tộc, nhưng lại sở hữu tiềm lực tài chính vô cùng đáng nể. Tôi hoàn toàn có thể tin rằng từng có những trận chiến khốc liệt để đoạt lấy vị trí gia chủ — tiền tài và quyền lực quả thực là những thứ vô cùng đáng sợ.
+Ở các gia đình quý tộc, chuyện một đứa trẻ chưa đến tuổi trưởng thành kế thừa tước vị cũng không hiếm, nhất là sau những cuộc thanh trừng nội bộ đẫm máu. Gia tộc Latuule tuy không mang gốc gác quý tộc, nhưng lại nắm trong tay tiềm lực tài chính cực lớn. Tôi hoàn toàn tin được rằng từng có những cuộc tranh đoạt khốc liệt để giành lấy vị trí gia chủ — tiền tài và quyền lực quả thực đáng sợ khôn lường.
 
-Tôi quay sang Laura, cất tiếng tự giới thiệu: "Tôi cũng... Chưa tự. Giới thiệu. Tên tôi là Rentt... Vivie. Một mạo hiểm giả... Đồng Cấp."
+Tôi quay sang Laura tự giới thiệu: "Tôi cũng... Chưa kịp. Tự giới thiệu. Tên tôi là Rentt... Vivie. Mạo hiểm giả... Đồng Cấp."
 
-Trước những lời ấy, một thoáng ngạc nhiên lướt qua nét mặt Laura. Trái lại, Isaac vẫn giữ nguyên vẻ điềm tĩnh lạnh lùng đúng như dự đoán. Đúng là chủ nào tớ nấy.
+Nghe vậy, nét mặt Laura thoáng lộ vẻ ngạc nhiên. Ngược lại, Isaac vẫn giữ vẻ lạnh như tiền đúng như tôi dự đoán. Đúng là chủ nào tớ nấy.
 
-Nói cách khác, họ không hề coi thường tôi ngay cả sau khi biết cấp bậc mạo hiểm giả tương đối thấp kém của tôi. Đó là một thái độ đáng khâm phục, nhưng nếu phải nhận xét thẳng thắn thì quả là hiếm thấy.
+Nghĩa là dù biết thứ hạng của tôi khá thấp, họ cũng chẳng hề tỏ ý coi thường. Thái độ đó đáng khen thật, nhưng nói thực lòng thì hiếm có vô cùng.
 
-Tôi là người sắp được họ giao phó công việc, và hầu hết mọi người đều sẽ cảm thấy an tâm hơn trước sự hiện diện của một mạo hiểm giả có cấp bậc cao hơn.
+Dù sao tôi cũng là người sắp được họ giao việc, mà thường thì ai cũng sẽ thấy yên tâm hơn khi thuê được một mạo hiểm giả cấp cao.
 
-Lẽ dĩ nhiên, sẽ chẳng có vấn đề gì nếu ủy thác đang nói tới phù hợp với năng lực của một mạo hiểm giả Đồng Cấp. Trong trường hợp giới quý tộc, các gia đình thương gia hay những gia tộc nắm quyền lực áp đảo như Latuule, Hội mạo hiểm giả nhiều khả năng sẽ cử một mạo hiểm giả cấp cao tới để đảm bảo sự hài lòng của họ. Chí ít thì một mạo hiểm giả Đồng Cấp sẽ không bao giờ xuất hiện, và người đưa ra yêu cầu ắt hẳn sẽ trông đợi một cá nhân Ngân Cấp.
+Dĩ nhiên, nếu là ủy thác vừa sức với một mạo hiểm giả Đồng Cấp thì chẳng nói làm gì. Nhưng với giới quý tộc, các thương gia giàu có hay những thế gia quyền thế ngút trời như nhà Latuule, Hội Mạo Hiểm Giả thường sẽ cử mạo hiểm giả cấp cao để khiến họ hài lòng. Ít nhất thì mạo hiểm giả Đồng Cấp sẽ chẳng bao giờ có cửa xuất hiện, và bên thuê ắt hẳn sẽ mong đợi cỡ Ngân Cấp trở lên.
 
-Tóm lại, tôi chỉ có mặt ở đây vì Isaac đã đích danh chỉ định tôi. Trong hoàn cảnh bình thường, những nhân vật như anh ta hay Laura sẽ không bao giờ giao phó bất kỳ ủy thác nào cho một mạo hiểm giả cấp thấp như tôi. Laura thậm chí còn chẳng mấy bận tâm sau khi nghe về cấp bậc của tôi. Liệu có phải Isaac đã kể cho cô bé nghe về những gì anh ta chứng kiến ở đầm lầy chăng?
+Tóm lại, tôi đứng ở đây hoàn toàn là nhờ Isaac đích danh chỉ định. Bình thường thì những người như anh ta hay Laura đời nào lại giao việc cho một mạo hiểm giả thứ hạng thấp như tôi. Vậy mà nghe xong cấp bậc của tôi, Laura trông chẳng có vẻ gì là bận tâm. Phải chăng Isaac đã kể cho cô bé nghe những gì anh ta tận mắt thấy ở đầm lầy?
 
-Trông vẻ ngoài thì dường như không hẳn là vậy...
+Nhưng nhìn điệu bộ thì xem chừng không phải thế...
 
-Laura liếc mắt nhìn sang Isaac. Nét mặt cô bé dường như muốn biểu đạt sự thấu hiểu. Nếu phải đoán, có lẽ Isaac chỉ miêu tả khá mơ hồ về tôi cho cô bé nghe, thay vì đi sâu vào những chi tiết cụ thể.
+Laura liếc nhìn Isaac. Nét mặt cô bé như thể đã ngầm hiểu ra điều gì. Nếu đoán không lầm, chắc hẳn Isaac chỉ kể về tôi một cách đại khái chứ không đi sâu vào chi tiết.
 
-Dù tôi từng đinh ninh rằng Isaac sẽ báo cáo mọi đường đi nước bước cho nữ chủ nhân của mình, nhưng có vẻ như thực tế không phải vậy. Rốt cuộc mối quan hệ giữa họ là như thế nào nhỉ...? Quan sát sơ bộ cho thấy Isaac nhìn chung đều tuân theo mọi ý thích bất chợt của Laura — chẳng bù cho chú chuột Puchi Suri quyến thuộc của tôi.
+Tôi cứ ngỡ Isaac sẽ báo cáo mọi chuyện từ đầu chí cuối cho nữ chủ nhân, nhưng hóa ra không phải vậy. Rốt cuộc mối quan hệ giữa họ là thế nào nhỉ...? Thoạt nhìn thì thấy Isaac răm rắp nghe theo mọi ý thích của Laura — chẳng bù cho chú chuột Puchi Suri quyến thuộc của tôi.
 
-Nói tới chuyện đó, Edel hiện vắng mặt một cách rõ ràng khỏi vị trí đậu quen thuộc trên vai tôi. Nó dường như có một cuộc gặp với đám đàn em dưới tầng hầm của cô nhi viện, nên đã chạy đi giải quyết vài chuyện riêng của mình. Cá nhân tôi cũng chẳng muốn giải thích với người nhà Latuule lý do tại sao lại có một con quái vật đậu trên vai mình, nên chuyện này có lẽ lại là điều tốt nhất.
+Nói mới nhớ, trên vai tôi lúc này chẳng thấy bóng dáng quen thuộc của Edel đâu. Hình như nó có buổi họp mặt với đám đàn em dưới tầng hầm cô nhi viện, nên đã tót đi lo việc riêng từ trước. Bản thân tôi cũng chẳng muốn phải giải thích với nhà Latuule vì sao lại có một con quái vật ngự trên vai mình, nên thế này khéo lại hay.
 
-Nó là một con chuột sạch sẽ, từng được thanh tẩy vài lần bằng Thần Lực của tôi, nhưng tôi chẳng hề nghi ngờ rằng có những kẻ sẽ chỉ xem nó như một con thú dơ bẩn. Nhận thức của mỗi người về vạn vật thường thay đổi tùy thuộc vào môi trường nuôi dạy, thế nên việc một số quý tộc co rúm lại ghê tởm trước một con chuột bị xem là ô uế ắt hẳn cũng chẳng có gì lạ lùng.
+Nó là một chú chuột sạch sẽ, từng được tôi thanh tẩy đôi ba lần bằng Thần Lực, nhưng tôi dám chắc có những kẻ sẽ chỉ coi nó là một con thú bẩn thỉu. Cách nhìn nhận của mỗi người thường phụ thuộc vào môi trường giáo dưỡng từ bé, nên nếu có vị quý tộc nào giật mình ghê tởm trước một con chuột bị cho là nhơ nhuốc thì cũng chẳng có gì lạ.
 
-Gần như ngay tức khắc, tôi cảm nhận được một cú đạp vào tâm trí từ Edel, như thể muốn tuyên bố rằng nó quả thực vô cùng trong sạch và thanh khiết. Tôi truyền ý nghĩ đáp lại, giải thích cho quyến thuộc của mình hiểu đây là vấn đề nhìn nhận bên ngoài hơn là sự thật bên trong. Có vẻ đã thỏa mãn, Edel liền quay lại với công việc của nó.
+Gần như ngay lập tức, tâm trí tôi bị Edel đá cho một cú, như muốn khẳng định rằng bản thân nó rõ ràng thơm tho sạch sẽ lắm cơ mà. Tôi truyền suy nghĩ đáp lại, dỗ dành chú chuột quyến thuộc rằng đây chỉ là chuyện người ta nhìn bề ngoài chứ chẳng ai bảo nó bẩn thật. Thấy xuôi xuôi, Edel mới chịu quay về làm việc của nó.
 
-Đôi khi tôi không khỏi cảm thấy Edel còn là một sinh vật sống có lý trí hơn cả bản thân mình.
+Nhiều lúc tôi cứ thấy con chuột này còn lý trí hơn cả bản thân mình.
 
-"Một mạo hiểm giả Đồng Cấp dám dấn thân vào Đầm Lầy Tarasque... Nơi đó chẳng lấy gì làm dễ chịu là điều không phải bàn cãi, nhưng đó cũng không phải là nơi các mạo hiểm giả Đồng Cấp thường xuyên lui tới, ít nhất là theo những gì tôi được nghe. Tôi có thể mạo muội hỏi ngài đã làm gì ở đó được không...?" Laura cất tiếng hỏi, rõ ràng là đang bối rối.
+"Một mạo hiểm giả Đồng Cấp lại dám dấn thân vào Đầm Lầy Tarasque... Nơi ấy chẳng mấy dễ chịu là chuyện không cần bàn cãi, nhưng theo tôi biết thì đó cũng đâu phải nơi mạo hiểm giả Đồng Cấp hay lui tới. Tôi có thể mạo muội hỏi rốt cuộc ngài tới đó làm gì được không...?", Laura cất tiếng hỏi, vẻ mặt đầy thắc mắc.
 
-Vậy ra cô bé không nghe Isaac kể về hoàn cảnh của tôi sao? Nhưng dĩ nhiên rồi, Isaac cũng chẳng có lý do gì để thông báo cho nữ chủ nhân biết động cơ cá nhân của tôi cả.
+Vậy ra cô bé chưa nghe Isaac kể về hoàn cảnh của tôi sao? Nhưng mà phải rồi, Isaac cũng đâu có lý do gì để đi báo cáo động cơ cá nhân của tôi cho nữ chủ nhân.
 
-"Có một... Ủy thác," tôi thản nhiên trả lời, "từ cô nhi viện. Nhờ tôi hái giúp... Chỉ một bông Hoa Long Huyết. Đổi lấy... Đúng một. Đồng xu đồng."
+"Có một... ủy thác," tôi đáp cộc lốc, "từ cô nhi viện. Nhờ hái giúp... Chỉ một bông Hoa Long Huyết. Đổi lấy... Đúng một. Đồng xu đồng."
 
-Lời miêu tả ngắn gọn của tôi về tình huống có lẽ là quá đủ để phần lớn mạo hiểm giả hiểu rõ sự tình. Song Laura dường như lại không thể hiểu được điều đó.
+Tôi chỉ cần tóm tắt ngắn gọn chừng ấy là thừa đủ để hầu hết mạo hiểm giả hiểu rõ sự tình. Nhưng xem ra Laura lại chẳng hiểu gì về chuyện đó.
 
-Nghiêng đầu sang một bên, cô bé nói tiếp: "Một chuyến đi tới Đầm Lầy Tarasque chỉ vì một đồng xu đồng sao...? Tôi thấy chuyện đó có phần..."
+Cô bé khẽ nghiêng đầu thắc mắc: "Lặn lội tới Đầm Lầy Tarasque chỉ vì một đồng xu đồng sao...? Tôi thấy chuyện này có phần..."
 
-Tôi cho rằng mình nên đưa ra một lời giải thích chi tiết hơn thì thỏa đáng hơn.
+Xem chừng tôi phải giải thích cặn kẽ hơn một chút rồi.
 
-"Đó là ủy thác... Đến từ một trong số các. Cô nhi viện ở Maalt. Mọi chuyện vốn... Là như vậy. Hầu hết mạo hiểm giả... Đều sẽ không trông đợi. Gì hơn ngoài một đồng... Xu đồng trả công."
+"Đó là ủy thác... Đến từ một trong các. Cô nhi viện ở Maalt. Lệ thường vốn... Là thế. Hầu hết mạo hiểm giả... Sẽ không đòi hỏi. Gì hơn ngoài một... Đồng xu đồng. Để thù lao."
 
-Như tôi có thể đã từng đề cập trước đây, các cô nhi viện không hề bơi trong những núi tiền. Không có khả năng đưa ra mức thù lao tương xứng, một số tiền tượng trưng là một đồng xu đồng được đề xuất để thay thế. Điều đó hoàn toàn hợp lý.
+Như tôi từng nhắc tới trước đây, cô nhi viện làm gì có rủng rỉnh tiền bạc. Vì không đủ sức trả thù lao tương xứng, họ đành đưa ra một khoản tượng trưng là một đồng xu đồng. Chuyện đó hoàn toàn dễ hiểu.
 
-Tuy nhiên, phần thưởng này còn mang một ý nghĩa sâu xa hơn, cụ thể là mạo hiểm giả liên quan sẵn lòng chấp nhận làm công việc thiện nguyện.
+Có điều khoản thù lao này còn mang một ý nghĩa khác: mạo hiểm giả nhận lời sẵn sàng coi đó là việc làm tình nguyện.
 
-Bởi Hội Mạo Hiểm Giả, xét trên mọi phương diện thực tế, vốn là một tổ chức hoạt động vì lợi nhuận, nên những ủy thác như vậy bình thường sẽ chẳng bao giờ được chính thức tiếp nhận. Nhưng lịch sử đã chứng minh, những mạo hiểm giả có lòng nhân hậu luôn xuất hiện qua các thời kỳ, và đôi khi họ sẵn sàng chìa tay giúp đỡ tại các chi nhánh Hội mà mình hay lui tới. Những hành động thiện chí ấy vẫn âm thầm tiếp diễn cho tới tận ngày nay, và tự thân nó đã trở thành một dạng hệ thống ngầm riêng biệt.
+Xét cho cùng, Hội Mạo Hiểm Giả vốn là một tổ chức kinh doanh kiếm lời, nên bình thường những ủy thác như vậy sẽ chẳng bao giờ được chính thức thụ lý. Nhưng xưa nay thời nào cũng có những mạo hiểm giả giàu lòng nhân ái, thỉnh thoảng họ lại chìa tay giúp đỡ chi nhánh Hội mà mình gắn bó. Những nghĩa cử tốt đẹp ấy cứ thế âm thầm tiếp nối tới tận bây giờ, dần dà hình thành nên một cơ chế ngầm rất riêng.
 
-Cũng như việc luôn tồn tại những rắc rối chỉ có thể giải quyết bởi mạo hiểm giả hay những người nắm giữ vũ lực trong bất kỳ thời đại nào, chắc chắn sẽ có những cá nhân không đủ khả năng chi trả cho các dịch vụ ấy. Đổi lại, Hội Mạo Hiểm Giả quyết định tương trợ đôi chút trong các sự vụ này, và những mạo hiểm giả có thiện chí bắt đầu chấp nhận mức thù lao tượng trưng là một đồng xu đồng vì mục đích lưu trữ hồ sơ sổ sách cho chuẩn chỉnh. Một đồng xu đồng là mức thù lao tiền tệ thấp nhất mà một người ủy thác có thể đưa ra cho dịch vụ do các mạo hiểm giả của Hội thực hiện, và đó là phần thưởng tối thiểu giỏi lắm cũng chỉ mua được hai ổ bánh mì. Dẫu vậy, chẳng hề có điều luật nào quy định việc trả mức tối thiểu tuyệt đối là bị cấm đoán.
+Thời nào cũng vậy, có những rắc rối chỉ mạo hiểm giả hay những kẻ sở hữu vũ lực mới giải quyết nổi, nhưng cũng luôn có những mảnh đời chẳng thể nào kham nổi tiền thù lao. Vì thế, Hội Mạo Hiểm Giả quyết định tạo điều kiện hỗ trợ phần nào, còn các mạo hiểm giả tốt bụng thì nhận mức tượng trưng một đồng xu đồng để tiện bề vào sổ sách cho đúng quy trình. Một đồng xu đồng là mức thù lao thấp nhất mà người thuê có thể trả cho công sức của mạo hiểm giả trực thuộc Hội, một khoản tiền ít ỏi giỏi lắm chỉ mua nổi hai mẩu bánh mì. Thế nhưng, chẳng có điều luật nào cấm người ta trả ở mức sàn tối thiểu ấy cả.
 
-Miễn là một đồng xu đồng được nộp cho Hội, ủy thác sẽ được niêm yết lên bảng thông báo, từ đó tiếp cận tới các mạo hiểm giả. Sau khi Hội đã trực tiếp gặp mặt người ủy thác trước tiên, quyết định có nhận nhiệm vụ hay không sẽ hoàn toàn phụ thuộc vào từng mạo hiểm giả, dựa trên việc cân nhắc lợi ích tiềm năng và thấu hiểu hoàn cảnh được miêu tả trên tờ đơn ủy thác. Nếu quả thực cần tới sự phục vụ của mạo hiểm giả, yêu cầu sẽ được phê duyệt. Cơ chế này tạo điều kiện để dù thù lao tổng thể của ủy thác rất thấp, những mạo hiểm giả có lòng hảo tâm vẫn có thể tình nguyện nhận giải quyết vụ việc, và rốt cuộc sẽ tháo gỡ khó khăn nếu mọi chuyện êm xuôi.
+Chỉ cần người thuê nộp đủ một đồng xu đồng cho Hội, đơn ủy thác sẽ được dán lên bảng thông báo để các mạo hiểm giả trông thấy. Sau khi phía Hội gặp mặt thân chủ để nắm tình hình, việc có nhận ủy thác hay không hoàn toàn tùy thuộc vào từng mạo hiểm giả, dựa trên việc họ tự cân nhắc được mất và thấu hiểu hoàn cảnh ghi trong đơn. Chỉ cần thực sự cần đến tay mạo hiểm giả, yêu cầu sẽ được thông qua. Nhờ vậy mà dẫu thù lao bèo bọt, những ai có lòng vẫn có thể tình nguyện đứng ra nhận việc, và mọi chuyện rồi sẽ được giải quyết êm đẹp.
 
-Dĩ nhiên có một số kẻ ác ý hoặc keo kiệt tìm cách trục lợi từ hệ thống thiện chí này, song Hội đã quá sành sỏi trong việc thanh lọc những ủy thác giả mạo. Các yêu cầu như thế sẽ được đánh giá kỹ lưỡng để xem người ủy thác có thực sự rơi vào cảnh khốn cùng cần giúp đỡ hay không. Nếu không phải trường hợp đó, ủy thác sẽ lập tức bị vứt bỏ.
+Dĩ nhiên chẳng thiếu những kẻ xấu bụng hay bủn xỉn tìm cách lợi dụng cơ chế thiện chí này, song Hội đã quá lão luyện trong việc sàng lọc những lá đơn mập mờ. Họ sẽ thẩm định kỹ xem thân chủ có thực sự ngặt nghèo đến mức cần tương trợ hay không. Nếu không phải vậy, tờ đơn sẽ bị thẳng tay quẳng vào sọt rác.
 
-Nhìn chung, hệ thống này vận hành khá trơn tru.
+Nhìn chung, cơ chế này vận hành tương đối tốt.
 
-Cuối cùng cũng kết thúc lời giải thích của mình, tôi thấy nét mặt Laura dịu đi trông thấy, như thể xúc động trước câu chuyện.
+Nghe tôi giải thích cặn kẽ xong, nét mặt Laura dịu đi thấy rõ, như thể xúc động trước câu chuyện.
 
-"Tôi không ngờ ở mảnh đất này lại tồn tại những mạo hiểm giả có tấm lòng nhân hậu đến vậy."
+"Tôi không ngờ ở vùng đất này lại có những mạo hiểm giả giàu lòng nhân ái đến thế."
 
-Tôi khó lòng trách cô bé vì có suy nghĩ đó, xét tới việc mạo hiểm giả vốn chẳng có danh tiếng gì tốt đẹp cho cam. Ngay cả tôi cũng chỉ là một kẻ khả nghi mang mặt nạ đầu lâu khoác áo choàng đen. Hiếm ai nhìn vào tôi mà lại thốt lên: "Ồ, đằng kia là một mạo hiểm giả dịu dàng và tốt bụng!"
+Tôi khó trách cô bé nghĩ vậy, bởi lẽ giới mạo hiểm giả xưa nay tiếng tăm chẳng mấy tốt đẹp gì. Ngay cả tôi lúc này cũng chỉ là một gã khả nghi đeo mặt nạ đầu lâu khoác áo chùng đen. Hiếm ai nhìn vào tôi mà lại thốt lên: "Kìa, một mạo hiểm giả hiền từ tốt bụng!"
 
-Chuyện này vốn chẳng liên quan gì đến dịu dàng hay tốt bụng cả; tôi đơn thuần... Phải rồi, tôi chỉ làm những gì mình có thể mà thôi.
+Chuyện này vốn chẳng liên quan gì đến hiền từ hay tốt bụng; tôi chỉ... Phải rồi, tôi chỉ làm những gì mình có thể mà thôi.
 
-Mạo hiểm giả, do bản chất nghề nghiệp của mình, thường xuyên đối mặt trong đường tơ kẽ tóc với bi kịch hoặc cái chết. Giữa muôn vàn trắc trở ấy, đôi khi người ta muốn có được một sự khẳng định rằng bản thân đã làm được ít nhất một việc tốt đẹp, và đó chính là lúc những ủy thác như vậy được chấp nhận và hoàn thành một cách tự nguyện — tất cả chỉ vì cái giá một đồng xu đồng.
+Do đặc thù nghề nghiệp, mạo hiểm giả thường xuyên phải giáp mặt với hiểm nguy, cái chết hay những bi kịch xót xa. Giữa cuộc đời gió bụi ấy, thỉnh thoảng ai cũng muốn tự nhắc nhở bản thân rằng mình từng làm được một điều tốt, và đó là lúc những ủy thác này được nhận làm không công — tất cả chỉ đổi lấy đúng một đồng xu đồng.
 
-Có lẽ bản thân tôi cũng chẳng khác là bao, trong nỗ lực bấu víu lấy chút nhân tính còn sót lại của mình.
+Có lẽ tôi cũng chẳng khác gì họ, khi đang cố bấu víu lấy chút nhân tính ít ỏi còn sót lại.
 
 ◆◇◆◇◆
 
-Gác lại mọi chuyện... Dinh thự này thực sự vô cùng rộng lớn. Chỉ riêng diện mạo bên ngoài của nó thôi, tôi đã cảm thấy đây giống một tòa lâu đài hơn là một dinh thự thông thường, nên có lẽ chừng đó cũng chẳng có gì là lạ.
+Nói gì thì nói... dinh thự này quả thực rộng thênh thang. Chỉ nhìn vẻ bề ngoài, tôi thấy nơi đây giống một tòa lâu đài hơn là dinh thự, nên rộng như thế khéo cũng chẳng có gì lạ.
 
-Điều kỳ lạ là phần lớn dinh thự lại tương đối vắng vẻ. Dù chúng tôi có lướt qua một, hai người hầu, nhưng rất ít người qua lại nơi hành lang của dinh thự tráng lệ này. Nói chính xác hơn, số lượng người tôi đi ngang qua dường như khó lòng đủ để duy trì sự sạch sẽ ngăn nắp tổng thể cho một dinh cơ ở quy mô tầm cỡ nhường này.
+Điều lạ lùng là phần lớn dinh thự lại khá vắng vẻ. Dù thỉnh thoảng có chạm mặt một hai người hầu, nhưng hành lang tòa dinh thự tráng lệ này hầu như chẳng có bóng người qua lại. Nói đúng hơn, lèo tèo vài người tôi gặp khó mà đủ để quét dọn, quán xuyến một cơ ngơi bề thế cỡ này.
 
-Tò mò, tôi cất lời hỏi Laura, nhưng chỉ nhận được câu trả lời rằng từng người hầu của cô bé đều sở hữu kỹ năng và năng lực vô cùng xuất chúng. Dẫu Isaac chắc chắn có vẻ tháo vát theo nghĩa thực tế ngoài đời, nhưng chỉ riêng kỹ năng thì tuyệt đối không thể nào duy trì nổi một dinh thự rộng lớn nhường này. Tôi nghĩ điều đó về mặt vật lý là bất khả thi.
+Thấy lạ, tôi bèn hỏi Laura thì cô bé bảo người hầu nào của mình cũng cực kỳ tháo vát và giỏi giang. Dẫu Isaac trông đúng là kẻ từng trải tháo vát việc đời, nhưng chỉ dựa vào năng lực thôi thì đời nào quán xuyến nổi một dinh thự rộng lớn cỡ này. Tôi nghĩ về mặt thực tế thì không thể nào làm xuể được.
 
-Quan sát xung quanh, tôi nhận thấy không một hành lang, bức tường hay thậm chí là chiếc đèn chùm treo nào dường như dính lấy một hạt bụi. Tôi nhìn ngó thêm một chút, và buộc phải đi tới kết luận rằng dinh thự Latuule khó có khả năng là đang thiếu người làm.
+Để ý nhìn quanh, tôi thấy từ hành lang, bờ tường cho tới những chùm đèn treo trần đều chẳng vướng lấy một hạt bụi. Quan sát thêm một lúc, tôi đành phải kết luận rằng dinh thự Latuule xem chừng chẳng hề thiếu người hầu chút nào.
 
 "Mời ngài đi lối này..."
 
-Laura đặt tay lên cánh cửa kim loại nặng nề, dồn lực đẩy mạnh một cái. Cánh cửa mở ra một cách nhẹ nhàng không tốn chút sức lực, để lộ một lối đi quanh co với những bậc thang đá dẫn xuống phía dưới. Tôi có cảm giác như mình đang bước chân vào cõi âm sâu thẳm vậy.
+Laura đặt tay lên cánh cửa sắt nặng trịch, dồn sức đẩy mạnh. Cánh cửa mở ra trơn tru chẳng chút khó khăn, để lộ một lối đi quanh co với những bậc thang đá dẫn xuống phía dưới. Tôi có cảm giác như mình đang bước xuống cõi âm sâu thẳm vậy.
 
 "Tầng hầm của... Cô bé, tôi đoán vậy."
 
-"Vâng. Nơi này cất giữ khá nhiều ma cụ, như ngài thấy đấy, vài món trong số đó được truyền Ma Lực, Khí Lực và những thứ tương tự. Dẫu vậy, cũng có không ít tạo tác cổ xưa trong số chúng, và chúng tôi luôn cẩn trọng cất giữ các công cụ của mình một cách thích đáng. Do đó, nhiệt độ và độ ẩm dưới tầng hầm của chúng tôi luôn được điều hòa để mang lại môi trường tối ưu cho việc bảo quản."
+"Vâng. Nơi này cất giữ khá nhiều ma cụ, một số món được truyền Ma Lực, Khí Lực và những thứ tương tự. Dẫu vậy, trong số đó cũng có không ít cổ vật lâu đời, và chúng tôi luôn hết sức cẩn trọng bảo quản đồ đạc của mình. Vì thế, nhiệt độ và độ ẩm dưới tầng hầm luôn được điều tiết để tạo môi trường lưu trữ tối ưu nhất."
 
-Khi nói đến các ma cụ có cơ chế vận hành bên trong tương đối phức tạp, hầu hết các nghệ nhân chỉ đơn giản là truyền Ma Lực vào chúng, từ đó gia cố cho các công cụ nói trên. Phần lớn ma cụ ngay từ đầu vốn đã được chế tạo rất bền chắc.
+Với những ma cụ có cấu trúc bên trong tương đối phức tạp, hầu hết các thợ thủ công chỉ việc truyền Ma Lực vào để gia cố chúng thêm phần bền chắc. Vốn dĩ đa số ma cụ ngay từ đầu đã được chế tạo rất kiên cố rồi.
 
-Cũng giống như cách các mạo hiểm giả cường hóa cơ thể bằng Ma Lực và Khí Lực để đạt được sức mạnh cùng độ bền bỉ cao hơn, điều tương tự cũng có thể áp dụng cho một món ma cụ. Nghĩa là ma cụ thường có tuổi thọ vượt trội hơn hẳn so với các công cụ thông thường cùng loại, nhiều khi là trong những khoảng thời gian dài đáng kể.
+Cũng giống như cách mạo hiểm giả dùng Ma Lực và Khí Lực cường hóa thân thể nhằm gia tăng sức mạnh cùng sức chịu đựng, ma cụ cũng có thể được cường hóa theo cách tương tự. Nhờ vậy, ma cụ thường có tuổi thọ bền bỉ vượt xa các vật dụng thông thường, có khi tồn tại qua những khoảng thời gian rất dài.
 
-Nhờ đặc tính bền bỉ hơn, một số ma cụ nhất định được coi như quốc bảo và truyền lại qua nhiều thế hệ trông vẫn còn khá mới mẻ đối với mắt người thường. Dẫu vậy, nếu người ta bất cẩn hoặc sử dụng thô bạo với một món ma cụ, nó hoàn toàn có thể vỡ vụn, chẳng khác nào bất kỳ công cụ thông thường nào khác.
+Nhờ độ bền chắc đó, có những món ma cụ được coi là bảo vật quốc gia truyền đời suốt bao thế hệ mà nhìn qua vẫn còn như mới. Dẫu vậy, nếu người dùng bất cẩn hay mạnh tay quá mức, ma cụ vẫn hoàn toàn có thể hư hỏng chẳng khác gì đồ vật bình thường.
 
-Cất từng bước chân nối tiếp nhau, tôi tiếp tục đi xuống những bậc thang đá xoắn ốc, theo sát sau lưng Laura. Isaac bước theo sau tôi, bởi lối đi quá hẹp không đủ chỗ cho hai người song hành.
+Từng bước một, tôi lần theo cầu thang đá xoắn ốc đi xuống, bám sát ngay sau Laura. Isaac đi sau cùng, vì lối đi quá hẹp không đủ chỗ cho hai người đi song song.
 
-Chẳng có ô cửa sổ nào dọc theo các bức tường, nhưng tôi có thể lờ mờ cảm nhận được luồng không khí lưu chuyển khi chúng tôi tiếp tục đi xuống sâu hơn. Những ngọn đèn vô hình tự động thắp sáng một cách bài bản khi Laura lặng lẽ bước tiếp, bập bùng bừng sáng kèm theo những tiếng xì nhỏ ngắt quãng. Chắc chắn cũng là ma cụ, không còn nghi ngờ gì nữa.
+Dọc các bức tường không hề có cửa sổ, nhưng tôi vẫn lờ mờ cảm nhận được luồng không khí lưu thông khi chúng tôi đi sâu xuống dưới. Những ngọn đèn vô hình lần lượt tự thắp sáng theo từng bước chân lặng lẽ của Laura, chốc chốc lại bập bùng phụt sáng. Hẳn đây cũng là ma cụ, không nghi ngờ gì nữa.
 
-Các ma cụ chiếu sáng vốn rất dễ chế tạo và có thể được sản xuất hàng loạt với giá thành tương đối rẻ, song số lượng khổng lồ của chúng hiện diện dọc lối đi này lại khiến tôi kinh ngạc. Vì những ngọn đèn này tự phát sáng khi có người tiến lại gần, tôi hoàn toàn có thể suy đoán rằng chúng đắt đỏ hơn nhiều so với các ma cụ chiếu sáng thông thường.
+Ma cụ chiếu sáng vốn dễ làm và có thể sản xuất hàng loạt với giá khá rẻ, nhưng số lượng dày đặc của chúng dọc lối đi này vẫn làm tôi không khỏi ngỡ ngàng. Đã vậy đèn còn tự bật khi có người đến gần, chứng tỏ giá thành của chúng chắc chắn đắt hơn hẳn loại ma cụ phát sáng thông thường.
 
-Chỉ nhìn vào cách bài trí kiến trúc của gia tộc Latuule thôi, tôi cũng tự hỏi rốt cuộc họ đã kiếm đâu ra khối của cải kếch xù nhường ấy — có lẽ đó là câu hỏi tôi có thể nêu ra sau.
+Chỉ riêng phong cách kiến trúc của nhà Latuule thôi cũng đủ khiến tôi thắc mắc rốt cuộc họ lấy đâu ra khối tài sản kếch xù cỡ đó — có lẽ để sau này hẵng hỏi vậy.
 
-Quãng đường đi xuống dường như bất tận của chúng tôi vẫn tiếp diễn, và chỉ dừng lại khi Laura dừng bước trước một cánh cửa đơn độc.
+Chúng tôi cứ thế đi xuống mãi tưởng như bất tận, cho tới khi Laura dừng lại trước một cánh cửa đơn độc.
 
-Quan sát kỹ hơn, có vẻ như một tấm bảng nào đó được gắn vào cánh cửa, làm bằng chất liệu mà tôi không tài nào nhận ra. Laura giơ tay phải lên, áp vào tấm bảng mà không nói một lời. Bất ngờ, toàn bộ cánh cửa được bao bọc bởi một luồng sáng rực rỡ trước khi phát ra một tiếng lách cách trầm đục của then cài được mở khóa.
+Quan sát kỹ hơn, tôi thấy có một tấm bảng làm từ chất liệu lạ hoắc được gắn trên cửa. Laura giơ tay phải áp lên tấm bảng mà chẳng nói một lời. Bất thần, luồng sáng rực rỡ bao trùm lấy toàn bộ cánh cửa, kèm theo tiếng 'cạch' trầm đục khi then cài được mở.
 
-"Nào, vậy chúng ta vào thôi," Laura nói rồi đẩy tay nắm cửa một cái. Cánh cửa chầm chậm mở ra mà không gặp mấy lực cản. Đúng như tôi nghĩ, động tác vừa rồi của Laura đã mở khóa một cơ chế vô hình nào đó.
+"Nào, vậy chúng ta vào thôi," cô bé nói rồi đẩy tay nắm cửa. Cánh cửa từ từ mở ra nhẹ bẫng. Đúng như tôi đoán, hành động vừa rồi của Laura đã mở một cơ quan bí mật nào đó.
 
-Phía sau cánh cửa là một khoảng không tối đen như mực hoác miệng, nơi tôi hầu như chẳng thể nhìn thấy bất cứ thứ gì trong chiều sâu thăm thẳm của nó. Laura dường như chẳng hề sợ hãi bóng tối này chút nào, cô bé không nói một lời mà bước qua ngưỡng cửa.
+Sau cánh cửa là một khoảng tối đen ngòm sâu hoắm, tối đến mức tôi chẳng nhìn rõ thứ gì bên trong. Thế nhưng Laura dường như chẳng mảy may sợ hãi màn đêm ấy, cô bé cứ thế lặng lẽ bước qua ngưỡng cửa.
 
-Thoáng chút do dự, tôi nhanh chóng rảo bước theo sau Laura, dấn thân vào cõi sâu thẳm vô định.
+Hơi ngập ngừng một thoáng, tôi vội rảo bước theo sau Laura, dấn thân vào chốn sâu thẳm chưa biết điều gì chờ đón.

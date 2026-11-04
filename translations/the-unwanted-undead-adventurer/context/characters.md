@@ -25,7 +25,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lillian | Sister Lillian; Lady Lillian; Sister Lillian Jeunne; Lillian Jeunne; Sister Lillian Jean; Lillian Jean | Lillian | Nữ tu/người phụ trách Cô Nhi Viện Thứ Hai Maalt thuộc Giáo Hội Đông Thiên | #48 |
 | Alize |  | Alize | Thiếu nữ mồ côi tại Cô Nhi Viện Thứ Hai Maalt, người đưa ra ủy thác thu thập Hoa Long Huyết | #48 |
 | Edel |  | Edel | Chuột Puchi Suri quyến thuộc của Rentt, được Lorraine đặt tên | #52 |
-| Isaac Hart | Isaac | Isaac Hart | Quản gia của một nhân vật quyền thế bí ẩn, đến Đầm Lầy Tarasque tìm Hoa Long Huyết | #56 |
+| Isaac Hart | Isaac | Isaac Hart | Quản gia của Laura Latuule (Gia tộc Latuule), từng đến Đầm Lầy Tarasque tìm Hoa Long Huyết | #56 |
 | Dario Costa | Dario; Mister Dario | Dario Costa | Chuyên gia mổ xẻ chính của Hội mạo hiểm giả Maalt | #58 |
 | Unbert Abeiyu | Unbert | Unbert Abeiyu | Thầy trị liệu quen biết với Cô Nhi Viện Thứ Hai Maalt | #59 |
 | Norman Hanel | Norman | Norman Hanel | Dược sư quen biết với Cô Nhi Viện Thứ Hai Maalt, hay chữa bệnh giúp người nghèo | #59 |
