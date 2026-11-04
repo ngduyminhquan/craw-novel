@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T04:44:37Z",
+  "generatedAt": "2026-11-04T04:55:00Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3634,19 +3634,19 @@
           "number": 247,
           "title": "Chương 247: Tập 11 Chương 1 - Tập Kích Bất Ngờ (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_247.md",
-          "sha": "cbc411bbdc4b0fb66c7afd67334b065b42dc228d"
+          "sha": "3215c7eaaf9b767937adc3bb962f1b694712321d"
         },
         {
           "number": 248,
           "title": "Chương 248: Tập 11 Chương 1 - Tập Kích Bất Ngờ (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_248.md",
-          "sha": "a70be65ec4a04d8af300e48036c6f0e1bb3238a9"
+          "sha": "39ec5c2daab428734e04368058b28d171dcd6384"
         },
         {
           "number": 249,
           "title": "Chương 249: Tập 11 Chương 1 - Tập Kích Bất Ngờ (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_249.md",
-          "sha": "813323f49b765d3613e4557248e05632145f41e0"
+          "sha": "d99dfbe14e63d1cc91124a3ebdeb96ef3b268b8c"
         }
       ]
     },

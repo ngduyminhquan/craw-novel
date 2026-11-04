@@ -76,7 +76,7 @@ Kèm theo một luồng gió rít rền rĩ, cánh tay của gã Cự Nhân già
 
 "Grrraaahhh!" Gã Cự Nhân già phát ra một tiếng gầm nửa người nửa thú, rồi bắt đầu chậm rãi ngồi dậy. Hắn chống tay xuống đất, dồn sức đẩy mạnh để đứng lên.
 
-"Cậu đùa tôi chắc!" Augurey nói. Anh vẫn đang nằm trong vòng tay tôi, trừng mắt nhìn gã Cự Nhân già.
+"Đùa nhau chắc?!" Augurey nói. Anh vẫn đang nằm trong vòng tay tôi, trừng mắt nhìn gã Cự Nhân già.
 
 Tôi chẳng thể trách việc anh ấy bị sốc; bản thân tôi cũng vậy. Từ "phi thường" thậm chí còn chưa đủ để miêu tả sức chịu đựng cùng độ trâu bò cần thiết để có thể đứng dậy sau khi lĩnh trọn một trận oanh tạc ma pháp dữ dội đến nhường ấy. Gã Cự Nhân già đơn giản là một con quái vật phá vỡ mọi quy tắc.
 
@@ -92,7 +92,7 @@ Cuối cùng, gã Cự Nhân già cũng đứng thẳng dậy. Đôi mắt đỏ
 
 "Để tôi lo. Tôi có một con bài tẩy có thể đem ra dùng. Dù vậy tôi không rõ liệu thanh kiếm của mình có chịu nổi quá một lần hay không, nên nếu tôi chém trượt thì coi như chúng ta xong đời."
 
-Gã Cự Nhân già đã bắt đầu cuộc tấn công nhắm vào chúng tôi, nên hai đứa vừa né tránh vừa í ới gọi nhau. "Con bài tẩy" mà tôi nhắc tới chính là Thần Ma Khí Dung Hợp Thuật. Dẫu thanh kiếm của tôi từng được rèn để chịu được bất kỳ nguồn năng lượng nào trong cả ba, nó nhiều khả năng chẳng thể nào chống đỡ nổi khi cả ba kết hợp lại cùng một lúc.
+Gã Cự Nhân già đã bắt đầu cuộc tấn công nhắm vào chúng tôi, nên cả hai chúng tôi vừa né tránh vừa gọi nhau. "Con bài tẩy" mà tôi nhắc tới chính là Thần Ma Khí Dung Hợp Thuật. Dẫu thanh kiếm của tôi từng được rèn để chịu được bất kỳ nguồn năng lượng nào trong cả ba, nó nhiều khả năng chẳng thể nào chống đỡ nổi khi cả ba kết hợp lại cùng một lúc.
 
 Kỹ thuật này khiến cho bất cứ thứ gì nó đánh trúng đều bị co rúm lại một cách dữ dội vào bên trong, và rất có thể điều tương tự cũng sẽ xảy ra với thanh kiếm của tôi. Đó là lý do tại sao tôi muốn tránh dùng nó nhiều nhất có thể, nhưng nếu bây giờ không phải thời điểm thích hợp thì tôi cũng chẳng biết khi nào mới phải nữa. Vẫn có khả năng nó thậm chí chẳng phát huy tác dụng, hoặc không đủ để trở thành một đòn kết liễu, nhưng điều đó vẫn tốt hơn là chẳng làm gì rồi ngồi chờ thất bại. Nếu tôi phải thua—dù tôi chẳng hề có ý định đó—thì đó cũng chỉ là sau khi tôi đã dốc hết mọi thứ mình có. Và ngay cả khi ấy, tôi cũng đã chuẩn bị sẵn tâm lý bỏ chạy trước khi gục ngã.
 
@@ -134,7 +134,7 @@ Nhưng trước khi tôi kịp nghĩ ra, tôi thấy chân của Augurey vướn
 
 Nắm đấm của gã Cự Nhân già vung thẳng vào Augurey, nhưng trước khi nó kịp chạm tới, tôi lao vụt ra, túm lấy người bạn của mình và chạy dạt sang một bên... nơi tôi nhận ra đường đi của mình đã bị cây cối chặn đứng.
 
-Không còn lựa chọn nào khác, tôi dậm chân nhảy lên hết sức có thể. Cánh tay của gã Cự Nhân già quét qua bên dưới tôi, chỉ suýt soát sượt qua trong đường tơ kẽ tóc, và tôi đáp xuống ngay trên cánh tay hắn khi nó lướt qua. Nhưng ngay khi sự chú ý của gã Cự Nhân già sắp sửa dồn vào tôi, tôi nghe thấy âm thanh của một câu ngâm xướng.
+Không còn lựa chọn nào khác, tôi dậm chân nhảy lên hết sức có thể. Cánh tay của gã Cự Nhân già quét qua bên dưới tôi, chỉ sượt qua trong gang tấc, và tôi đáp xuống ngay trên cánh tay hắn khi nó lướt qua. Nhưng ngay khi sự chú ý của gã Cự Nhân già sắp sửa dồn vào tôi, tôi nghe thấy âm thanh của một câu ngâm xướng.
 
 "Gadól Barák!"
 
@@ -150,7 +150,7 @@ Tôi đặt Augurey xuống, rồi khi nhận thấy âm thanh duy nhất anh ph
 
 Tôi không nghĩ điều đó là đúng, xét theo màn thể hiện vừa rồi của anh ngoài kia. Trên hết, tình huống ấy vừa nảy ra cho tôi một ý tưởng. Nó tương đối đơn giản, nhưng tôi nghĩ nó có cơ hội thành công. Tôi nói với Augurey, và anh gật đầu.
 
-"Cách đó... có khi hiệu quả đấy. Ý tôi là, nó cũng chẳng khác mấy so với những gì cậu vừa làm. Chà, nó vẫn điên rồ thật, nhưng người ta đang nói về cậu cơ mà."
+"Cách đó... có khi hiệu quả đấy. Ý tôi là, nó cũng chẳng khác mấy so với những gì cậu vừa làm. Chà, nó vẫn điên rồ thật, nhưng vì là cậu nên mới thế cơ mà."
 
 Và thế là tôi đã nhận được sự đồng thuận của Augurey.
 
@@ -158,7 +158,7 @@ Hai chúng tôi lại xông ra nghênh chiến với gã Cự Nhân già một l
 
 Chính là lúc này!
 
-Tôi bung hết sức bình sinh lao nhanh nhất có thể. Gã Cự Nhân già vừa tung ra một cú đấm, và hệ quả là người hắn hơi khom xuống. Góc nghiêng nhẹ giữa hai chân và đầu khiến lưng hắn tạo thành một con dốc thoai thoải.
+Tôi bung hết sức bình sinh lao nhanh nhất có thể. Gã Cự Nhân già vừa tung ra một cú đấm, và hệ quả là người hắn hơi khom xuống. Góc nghiêng nhẹ giữa hai chân và đầu khiến lưng hắn tạo thành một con dốc đứng.
 
 Đúng vậy, một con dốc. Tôi nhảy tót lên. Sau khi thấy tôi làm vậy, Augurey lách người né tránh cú đấm trong gang tấc rồi lùi lại phía sau.
 
@@ -176,7 +176,7 @@ Rồi tôi thấy một tia máu phụt bắn ra từ cổ gã Cự Nhân già, 
 
 "Được rồi!" Tôi tạo dáng ăn mừng chiến thắng giữa không trung... rồi chợt nhận ra điều gì sắp sửa xảy ra. "Khoan đã, chết tiệt!"
 
-Nhưng mọi chuyện đã quá muộn. Gã Cự Nhân già gục rũ rượi về phía trước và bắt đầu đổ sụp xuống theo đúng hướng tôi đang rơi. Chẳng cần phải là thiên tài cũng đủ hiểu tôi sắp sửa bị đè bẹp dí thành một bãi tương cà, và xét theo tình hình lúc này, xem chừng tôi khó lòng nhận được một sự giải cứu kịp thời. Chà, ít nhất thì tôi khá chắc rằng mình sẽ không chết.
+Nhưng mọi chuyện đã quá muộn. Gã Cự Nhân già gục rũ rượi về phía trước và bắt đầu đổ sụp xuống theo đúng hướng tôi đang rơi. Chẳng cần phải là thiên tài cũng đủ hiểu tôi sắp sửa bị đè bẹp dí thành tương, và xét theo tình hình lúc này, xem chừng tôi khó lòng nhận được một sự giải cứu kịp thời. Chà, ít nhất thì tôi khá chắc rằng mình sẽ không chết.
 
 Truyền Khí Lực vào đôi cánh có lẽ đã cứu được tôi, nhưng đáng tiếc thay, tôi vừa tiêu hao đến giọt sức lực cuối cùng của mình. Dù mười giây nữa có lẽ là đủ để tôi hồi phục lượng Khí Lực cần thiết để truyền vào cánh, tôi chắc chắn sẽ bị đè bẹp dí trước khi thời khắc đó đến.
 

@@ -122,7 +122,7 @@ Nhìn điệu bộ kiêu ngạo của ông ta thì người ta dễ tưởng r�
 
 "Ở ông lúc nào cũng có những chuyện ngoài dự liệu nhỉ?" Lorraine nói. "Chà, sao cũng được. Tôi sẽ đi thẳng vào vấn đề luôn. Tại sao các người lại nhắm vào chúng tôi? Và trong câu hỏi đó tôi tính luôn cả Goblin và Siren đấy."
 
-"Quả nhiên là đi thẳng vào vấn đề thật," ông lão đáp. "Nhưng ta đâu có nghĩa vụ phải nói... À không, xem ra ta không thể né tránh bằng cách giữ im lặng được rồi. Lý do đơn giản thôi. Nhị công chúa đã triệu kiến các ngươi tới diện kiến nàng. Chỉ có thế thôi."
+"Quả nhiên là đi thẳng vào vấn đề thật," ông lão đáp. "Nhưng ta đâu có nghĩa vụ phải nói... À không, xem ra ta không thể né tránh bằng cách giữ im lặng được rồi. Lý do đơn giản thôi. Nhị công chúa đã triệu tập các ngươi tới diện kiến. Chỉ có thế thôi."
 
 Nhìn tình hình thì có vẻ ông lão đã cố ngậm chặt miệng để tránh bị ép phải khai ra sự thật với chúng tôi, nhưng không thành—ông ta đành phải thú nhận rành rọt. Tôi từng nghe kể rằng việc cố gắng cưỡng lại các điều khoản "không được nói dối" hay "không được giữ im lặng" trong khế ước ràng buộc ma pháp sẽ khiến người ta cảm thấy bồn chồn ngứa ngáy, và miệng lưỡi sẽ tự động thốt ra lời dẫu bản thân không hề muốn. Dù vậy, bản thân tôi chưa từng đích thân trải nghiệm điều đó. Tôi cũng có phần muốn thử một lần, nhưng xét việc điều đó có lẽ chỉ xảy ra khi bản thân vướng vào rắc rối to lớn nào đó, tôi liền gạt phắt ý nghĩ ấy đi.
 

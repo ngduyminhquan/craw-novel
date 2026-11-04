@@ -82,7 +82,7 @@ Tôi rõ ràng không thể để hắn bắt được, nhưng tôi lại không
 
 "Ngươi không thoát được đâu!" hắn hét lên, vung mạnh bàn tay chộp về phía tôi.
 
-Nói rằng tôi sợ hắn sẽ tóm được mình thì có lẽ là nói dối. Tôi vận hết lượng Khí Lực có thể gom góp được dồn ra sau lưng. Bàn tay của gã Cự Nhân già lao vút tới chộp lấy tôi... nhưng tôi đã biến mất tự lúc nào, cơ thể đang rơi tự do trước đó của tôi bỗng đột ngột chuyển hướng lệch sang một bên. Đó thực ra chẳng phải là hướng mà tôi muốn hướng tới, nhưng mà, này, việc cố gắng kiểm soát tinh vi những gì mình đang làm khó khăn lắm chứ.
+Nói rằng tôi sợ hắn sẽ tóm được mình thì có lẽ là nói dối. Tôi vận hết lượng Khí Lực có thể gom góp được dồn ra sau lưng. Bàn tay của gã Cự Nhân già lao vút tới chộp lấy tôi... nhưng tôi đã biến mất tự lúc nào, cơ thể đang rơi tự do trước đó của tôi bỗng đột ngột chuyển hướng lệch sang một bên. Đó thực ra chẳng phải là hướng mà tôi muốn hướng tới, nhưng mà, này, việc cố gắng kiểm soát chuẩn xác những gì mình đang làm khó khăn lắm chứ.
 
 "Cái—?! Quay lại đây mau!" Gã Cự Nhân lại vươn tay chộp lấy tôi lần nữa, thế nhưng đúng khoảnh khắc hắn vừa ra tay...
 
