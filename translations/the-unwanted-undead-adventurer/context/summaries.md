@@ -1603,3 +1603,9 @@ Trong bữa tối, Lorraine bất ngờ hỏi Rentt liệu anh từng nghĩ đ�
 Lorraine cười trước suy nghĩ lý tưởng hóa của Rentt và kể lại trải nghiệm thực tế đầy khắc nghiệt tại Học Viện Đế Quốc, nơi cô từng bị các học viên lớn hơn 7–8 tuổi ghen ghét giấu sách giáo khoa, và cô đã đáp trả bằng những cái bẫy để đời.
 Lorraine an ủi Rentt rằng anh đã tự học đọc hết sách trong nhà cô nên kiến thức không thua kém bất kỳ ai tốt nghiệp Học Viện, nhưng cô vẫn mong ước giá như có dịp được cùng anh đi học.
 Cảnh kết thúc: Cả hai vui vẻ hẹn ước nếu sau này có cơ hội sẽ cùng nhau theo học tại một học viện nào đó.
+
+## 271
+Rentt đang tản bộ sau bữa rượu ở Maalt thì bị một thầy bói bí ẩn gọi lại cảnh báo về một điềm gở vào ngày mai, đồng thời hé lộ vị trí cuốn sách thất lạc của Lorraine, cơn mưa rào và việc tìm thấy thứ cần tìm ở quảng trường đài phun nước trước khi tan biến vào làn sương mờ.
+Sáng hôm sau, lời tiên đoán đầu tiên ứng nghiệm khi Rentt chỉ đúng chỗ cuốn sách cũ Lorraine đang tìm kiếm trong góc giá sách; Lorraine nhận định nếu luôn đoán đúng thì đó là năng lực thấu thị tương lai vượt xa ma pháp thông thường.
+Cả ngày hôm đó, "điềm gở" của Rentt hóa ra là những sự cố dở khóc dở cười (bị hắt nước 5 lần, suýt trúng chậu hoa rơi, va phải tên trộm chạy trốn); sau cơn mưa như trút nước, anh cứu một đứa trẻ rơi xuống kênh và đưa cậu bé về đoàn tụ với cha mẹ ở quảng trường đài phun nước đúng như dự báo.
+Cảnh kết thúc: Trở về nhà chia sẻ lại sự việc, Lorraine bật cười thích thú và khuyên Rentt không cần quá bận tâm vì Maalt vốn luôn tràn ngập những điều kỳ lạ, đồng thời mỉm cười hy vọng một ngày nào đó sẽ có dịp gặp mặt người thầy bói này.

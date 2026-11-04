@@ -56,3 +56,4 @@
 - (268) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina hồi tưởng lại thời còn là mạo hiểm giả con người tại Maalt, cùng Augurey nhận ủy thác hộ tống cậu bé Vitez Normorte mang dị năng triệu hồi giông bão sấm sét.
 - (269) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về kỷ niệm nhặt được và cùng Lorraine nuôi dưỡng một chú Sói Đen con trong một tuần trước khi giao cho Nữ Nam tước Graham nhận nuôi.
 - (270) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina trong cuộc trò chuyện phiếm bên bữa tối cùng Lorraine Vivie về việc học tập tại Học Viện Đế Quốc.
+- (271) Ngoại truyện Tập 11: kể theo ngôi thứ nhất ("tôi") của Rentt Faina về cuộc gặp gỡ kỳ lạ với người thầy bói bí ẩn trên đường phố Maalt và những lời tiên tri ứng nghiệm đến buồn cười.

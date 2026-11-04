@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T08:37:17Z",
+  "generatedAt": "2026-11-04T08:42:50Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3773,6 +3773,12 @@
           "title": "Chương 270: Ngoại truyện Tập 11 - Cuộc Trò Chuyện Bâng Quơ Về Học Viện",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_270.md",
           "sha": "578ede435e08332bd8769dbece0505a810108299"
+        },
+        {
+          "number": 271,
+          "title": "Chương 271: Ngoại truyện Tập 11 - Thầy Bói Maalt",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_271.md",
+          "sha": "2cc3a6759dda330520bc32aecff89a3daf008e8e"
         }
       ]
     },
