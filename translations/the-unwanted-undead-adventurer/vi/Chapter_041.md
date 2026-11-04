@@ -1,147 +1,147 @@
 # Chương 41: Tập 2 Chương 2 - Khế Ước Bằng Ma Pháp (3)
 
-Trong bầu không gian tĩnh mịch của căn nhà, thiết bị đo thời gian ma pháp của Lorraine lại phát ra những tiếng rè rè và lách cách theo từng nhịp đều đặn. Thứ thiết bị ấy đáng giá ngàn vàng, bởi thông thường chỉ có giới quý tộc cùng tầng lớp giàu sang mới đủ khả năng sở hữu một ma cụ chuyên biệt như vậy. Ấy thế mà chẳng hiểu vì lý do gì, Lorraine lại có một chiếc.
+Trong gian phòng tĩnh lặng, chiếc đồng hồ ma pháp của Lorraine cứ đều đặn phát ra những tiếng ro ro lách cách. Món đồ này đáng giá cả một gia tài, bởi thường chỉ có giới quý tộc hay người giàu mới đủ tiền tậu một ma cụ chuyên dụng như vậy. Ấy thế mà chẳng hiểu sao, Lorraine lại sở hữu một chiếc.
 
-Căn cứ vào bề dày cùng kích thước tổng thể đồ sộ của nó, tôi đoán chừng Lorraine đã tự tay chế tạo nó từ con số không vào những lúc rảnh rỗi. Như thường lệ, tôi lại thấy khâm phục trước tính thực dụng kỳ quặc của Lorraine. Theo một nghĩa nào đó, Lorraine có thể làm được rất nhiều điều, thậm chí là hầu như mọi thứ...
+Trông vẻ ngoài to bản và cồng kềnh thế kia, tôi đoán cô nàng đã tự tay mày mò chế ra nó từ đầu vào những lúc rảnh rỗi. Như mọi khi, tôi lại thấy nể cái óc thực tế kỳ quặc của Lorraine. Nói thế nào nhỉ, cô làm được đủ thứ chuyện trên đời, khéo cái gì cũng biết làm...
 
-Ngoại trừ việc nhà cùng những công việc nội trợ vụn vặt khác. Tôi không rõ nguyên do vì sao, nhưng trong đầu cũng lờ mờ đoán được đôi phần. Suy cho cùng, từ một thời điểm nào đó trong quá khứ, chính tôi đã nhận lãnh trách nhiệm quán xuyến việc nhà cho Lorraine, rồi cứ thế tiếp tục làm mãi. Nhận thức ấy, đi kèm một cảm giác trĩu nặng khôn nguôi, thấm sâu vào tận đáy lòng tôi.
+Trừ mỗi việc nhà với mấy chuyện bếp núc lặt vặt. Tôi chịu không rõ nguyên do, nhưng cũng lờ mờ đoán được. Chẳng là hồi trước, không biết từ lúc nào tôi đã ôm đồm hết việc nhà cho Lorraine, rồi cứ thế làm miết tới tận bây giờ. Nghĩ đến đó, một nỗi ngậm ngùi chua xót bỗng dâng lên tận đáy lòng tôi.
 
-...Có lẽ đây là chuyện tốt nhất nên để dành suy nghĩ vào lúc khác.
+...Mà thôi, chuyện này để lúc khác nghĩ tiếp vậy.
 
-"...Được rồi. Giờ chúng ta nói chuyện thôi. Vậy là, cô bảo đã nghe được... vài chuyện từ Rentt rồi đúng không? Cho phép tôi nói thẳng nhé: chính xác thì cô đã biết được bao nhiêu rồi?"
+"...Được rồi. Giờ vào việc thôi. Nghe Rentt nói là... cô đã biết chuyện rồi nhỉ? Tôi hỏi thẳng nhé: rốt cuộc cô đã nghe được những gì?"
 
-Câu hỏi thoạt nghe bình thường của Lorraine lại đi kèm với một giọng điệu nghiêm nghị sắc lạnh. Bầu không khí lập tức chùng xuống đầy u ám, khiến ngay cả tôi cũng phải bất ngờ. Quay sang Sheila, tôi cũng ngạc nhiên chẳng kém khi bắt gặp một biểu cảm chưa từng thấy trên nét mặt cô. Trong ánh mắt cô lấp lánh một tia sáng kiên định, như thể cô đã hạ quyết tâm đối với chuyện này.
+Lorraine hỏi một câu nghe chừng rất đỗi bình thường, nhưng giọng lại nghiêm nghị lạ thường. Bầu không khí trong phòng lập tức căng thẳng tột độ, khiến ngay cả tôi cũng giật mình. Quay sang Sheila, tôi càng bất ngờ hơn khi thấy nét mặt trước nay chưa từng có ở cô. Ánh mắt cô ánh lên vẻ kiên định, như thể đã hạ quyết tâm làm điều gì đó.
 
-"...Vâng. Tôi nghe anh Rentt nói rằng anh ấy đã biến thành... một con quái vật. Và rằng anh ấy không tấn công con người..." Sheila đáp lời, giọng cô nhỏ nhẹ và đôi lúc hơi run rẩy. Tôi cảm nhận được muôn vàn cảm xúc đan xen đằng sau những lời lẽ giản đơn ấy. Còn rốt cuộc chúng là gì... thì tôi hoàn toàn chịu chết.
+"...Dạ. Tôi nghe anh Rentt kể là anh ấy đã trở thành... quái vật. Và rằng anh ấy không tấn công người..." Sheila đáp, giọng nhỏ nhẹ và đôi lúc hơi run rẩy. Đằng sau những lời mộc mạc ấy là bao cảm xúc ngổn ngang. Còn cụ thể là gì... thì tôi cũng chịu.
 
-Lorraine như lập tức nắm bắt được tình hình, bèn hừ mũi bật cười.
+Lorraine như hiểu ngay đầu đuôi câu chuyện, bèn bật cười khẩy.
 
-"Hừm! Chỉ có bấy nhiêu thôi sao? Thế mà cô lại dám theo chân Rentt về tận nhà như thế này ư? Cô không thấy nguy hiểm chút nào à?" Lorraine nghiêng người tới trước, cất tiếng hỏi.
+"Hừ! Có thế thôi á? Vậy mà cô cũng dám bám theo Rentt về tận đây cơ đấy? Không biết sợ là gì à?" Lorraine nhoài người tới trước, hỏi dồn.
 
-Sheila thì ngược lại, khẽ lắc đầu. "Không... Không hẳn đâu ạ. Anh Rentt là đang về nhà cô, nên tôi thấy chuyện đó chẳng có gì đáng ngờ cả."
+Sheila thì lắc đầu. "Dạ... Không hẳn đâu ạ. Anh Rentt về nhà cô, nên tôi thấy đâu có gì đáng ngờ."
 
-"Đó chẳng phải chỉ vì cô quá thiếu cảnh giác thôi sao? Thử nghĩ xem: Rentt là một Undead, còn tôi lại là một học giả với tai tiếng chẳng mấy hay ho gì cho cam. Ờ thì, chí ít là ở chốn Maalt này. Vậy thì chuyện gì sẽ xảy ra nếu một cô gái trẻ trạc tuổi cô lại bước chân vào hang ổ của một con quái vật cùng một mụ phù thủy? Có khi cô sẽ bị quẳng vào vạc rồi đem hấp sống... Hoặc có thể chúng tôi sẽ xơi tái cô ngay tại chỗ không chừng. Ngoài phố người ta chẳng phải vẫn đồn đại như thế hay sao?" Lorraine nói, chẳng rõ vì cớ gì lại tự ví mình như một mụ phù thủy ăn thịt người.
+"Đó chẳng qua là vì cô không biết sợ thôi. Thử nghĩ xem: Rentt là Undead, còn tôi khá lắm cũng chỉ là một học giả tai tiếng đầy mình. Chí ít là ở cái thị trấn Maalt này. Rồi một cô gái trẻ trạc tuổi cô lại dám mò vào hang ổ của quái vật với phù thủy thì sao? Có khi bị tống vào vạc hấp sống... hay bị xơi tái ngay tại chỗ không chừng. Ngoài phố người ta chẳng đồn ầm lên thế à?" Lorraine thao thao bất tuyệt, chẳng hiểu sao lại tự nhận mình là mụ phù thủy ăn thịt người.
 
-Dù Sheila hiểu rằng đây chỉ là một trò đùa nào đó, nhưng cô lộ rõ vẻ không thoải mái. Gương mặt cô căng cứng khi cố gượng ép một nụ cười chuẩn mực đã qua khổ luyện của nhân viên Hội.
+Dù biết Lorraine chỉ nửa đùa nửa thật, Sheila vẫn lộ rõ vẻ bối rối. Mặt cô căng ra, cố nặn nụ cười công nghiệp quen thuộc của một nhân viên Hội.
 
-"Dạ đâu có... Không đời nào tôi lại nghĩ cô là phù thủy đâu ạ! Đến cả tôi cũng biết cô là một học giả vô cùng đáng kính mà, cô Vivie."
+"Dạ đâu có... Không đời nào tôi lại nghĩ cô là phù thủy đâu ạ! Đến tôi còn biết cô là một học giả rất đáng kính mà, cô Vivie."
 
-"Cứ gọi 'Lorraine' là được rồi... Nhưng không đâu. Cô thấy đấy, đó chỉ là vẻ bề ngoài thôi. Nói thật thì, đêm nào tôi cũng lén mò ra các con phố ở Maalt, săn lùng những cô gái trẻ ngây thơ yếu ớt để hút máu họ. Mùi vị cực kỳ thơm ngon, đúng vậy, lại còn tốt cho sức khỏe nữa. Cô có biết nó giúp ích tuyệt vời thế nào cho làn da không?"
+"Cứ gọi Lorraine là được rồi... Nhưng cô lầm rồi. Mấy thứ đó chỉ là bề nổi thôi. Thú thật với cô nhé, đêm nào tôi chả lén ra phố Maalt rình mấy cô gái trẻ ngây thơ để hút máu. Vừa ngon miệng lại vừa bổ béo nữa. Cô có biết máu tươi dưỡng da tốt thế nào không?"
 
-Nét mặt của Lorraine dường như chẳng hề ăn nhập với những câu đùa thản nhiên ấy. Bản thân tôi cũng không tài nào đoán ra được ý định của Lorraine, bởi lời lẽ của cô nghe gần như một lời đe dọa. Tuy nhiên, ngay khoảnh khắc tiếp theo—
+Nét mặt Lorraine lại chẳng hề ăn nhập với những câu đùa bỡn cợt ấy. Tôi không tài nào đoán nổi cô đang tính làm gì, bởi từng lời thốt ra nghe chẳng khác nào đe dọa. Thế rồi, ngay khoảnh khắc tiếp theo—
 
-"...Đó chính là thứ mà Rentt đã trở thành. Cô có thực sự hiểu điều đó không?" Lorraine ngập ngừng hỏi, kết thúc câu nói bằng một lời dồn ép đầy bất ngờ và đanh thép nhắm vào Sheila.
+"...Đó chính là những gì Rentt đã trở thành. Cô có thực sự hiểu không?" Lorraine gằn từng tiếng, bất ngờ tung ra một câu hỏi dồn ép sắc như dao nhắm thẳng vào Sheila.
 
-Lorraine không hề để lộ chút biểu cảm nào khi nói. Cô chẳng tức giận cũng chẳng thù địch, thốt ra sự thật ấy như thể đó là điều bình thường nhất trên thế gian. Chỉ nhìn dáng vẻ của Lorraine thôi, người ta hẳn sẽ ngỡ những câu hỏi như thế là chuyện cơm bữa trong căn nhà này.
+Khi nói, mặt Lorraine không chút gợn sóng. Không giận dữ, cũng chẳng ác ý, cô ném ra sự thật ấy như thể đó là chuyện thường tình nhất trần đời. Nhìn bộ dạng cô lúc này, khéo người ta lại tưởng những câu hỏi rợn người như thế là chuyện cơm bữa ở đây.
 
-Tôi cảm thấy một nỗi sợ hãi nguyên thủy dâng lên từ tận sâu thẳm bên trong khi nhận ra góc nhìn của Lorraine. Với cô, nữ nhân viên Hội đang ngồi đối diện không phải một con người, mà đơn thuần chỉ là một đối tượng cần phải xử lý tương ứng tùy thuộc vào câu trả lời cho câu hỏi trước mắt. Xét trong hoàn cảnh của chúng tôi, có lẽ đây là một phản ứng rất đỗi tự nhiên.
+Nhận ra cách nhìn nhận của Lorraine, một nỗi sợ ớn lạnh từ sâu thẳm bỗng trỗi dậy trong tôi. Trong mắt cô lúc này, nữ nhân viên Hội ngồi đối diện chẳng phải con người, mà chỉ là một đối tượng cần xử lý tùy theo câu trả lời cô ta đưa ra. Xét trong tình cảnh của chúng tôi, có lẽ đó là phản ứng rất đỗi tự nhiên.
 
-Tàn nhẫn... Đó là một ánh mắt tàn nhẫn. Đây chính là vẻ mặt của Lorraine khi chạm trán quái vật trong những chuyến thám hiểm của mình. Nếu phải đoán, trong đầu cô lúc này ắt hẳn đang tràn ngập muôn vàn phương thức để trừ khử mục tiêu trước mặt.
+Lạnh lùng... Đó là một ánh mắt tàn nhẫn đến lạnh người. Đây chính là vẻ mặt của Lorraine khi chạm trán quái vật trong các chuyến thám hiểm. Nếu tôi đoán không lầm, trong đầu cô lúc này đang vạch ra đủ mọi cách để thủ tiêu mục tiêu trước mắt.
 
 ![](images/ch041-01.webp)
 
-Trong một cuộc trò chuyện với Sheila sau sự cố này, cô tiết lộ với tôi rằng bản thân chưa từng cảm thấy khiếp sợ đến vậy trong đời. Sheila, với tư cách là một nhân viên Hội, vốn không có nhiều kinh nghiệm thực chiến nơi thực địa. Cô không hoàn toàn mù tịt về khoản đó, bởi toàn bộ nhân viên Hội đều được tiếp nhận khóa huấn luyện chiến đấu cơ bản như một phần trong chương trình của họ. Cô có thể đánh bại Goblin, Slime và những loài tương tự với sự trợ giúp từ những đồng nghiệp thiên về chiến đấu hơn.
+Mãi sau này nói chuyện lại, Sheila mới thổ lộ rằng cả đời cô chưa từng thấy khiếp đảm đến thế. Là nhân viên Hội, cô vốn chẳng có mấy kinh nghiệm thực chiến nơi thực địa. Nói vậy không có nghĩa là cô hoàn toàn mù tịt, bởi nhân viên Hội nào cũng phải trải qua khóa huấn luyện chiến đấu cơ bản. Cô vẫn có thể hạ gục lũ Goblin, Slime hay mấy thứ quái vật tương tự nếu có đồng nghiệp thiện chiến hơn hỗ trợ.
 
-Nhưng vào những khoảnh khắc ấy, Sheila cảm thấy một nỗi sợ hãi thuần khiết. Cho đến tận lúc đó cô chỉ mới nhìn thấy quái vật từ đằng xa, vậy mà giờ đây chúng lại đang lởn vởn ngay trước mắt, bốn mắt nhìn nhau và lộ rõ sát khí muốn đoạt mạng. Đến đây, Sheila nhận ra bản thân rốt cuộc đã thấu hiểu vì sao các mạo hiểm giả đôi khi lại vô thức nín thở trước quái vật. Dù về mặt lý trí cô biết lũ quái vật ấy buộc phải bị tiêu diệt, nhưng sự xung đột giữa trách nhiệm và nỗi sợ hãi trong lòng đã đẩy cảm xúc của cô vào cảnh hỗn loạn.
+Nhưng trong khoảnh khắc ấy, Sheila chỉ thấy một nỗi sợ hãi tột cùng. Trước đó cô mới chỉ nhìn thấy quái vật từ xa, vậy mà giờ đây chúng như đang lượn lờ ngay trước mặt, bốn mắt nhìn nhau và lộ rõ sát khí đoạt mạng. Lúc này, Sheila mới hiểu vì sao mạo hiểm giả đôi khi lại bất giác nín thở trước quái vật. Dù lý trí mách bảo rằng quái vật là phải tiêu diệt, nhưng nỗi giằng xé giữa bổn phận và sự sợ hãi đã khiến cảm xúc của cô rối bời.
 
-Thế nhưng điều đó vẫn tương đối bình thường, và chưa phải vấn đề gì quá to tát. Thứ thực sự làm Sheila kinh hãi chính là sự hiện diện của một mẩu suy nghĩ le lói trong tâm trí, dẫu chỉ là rất nhỏ: khả năng tước đoạt sinh mạng của một sinh vật sống trước mặt mình nhân danh sự cần thiết. Cô từng chọn cách biện minh cho những suy nghĩ ấy bằng cách nghĩ đến những lợi ích mà việc tiêu diệt quái vật mang lại cho nhân loại. Cũng như các đồng nghiệp của mình, cô không được phép do dự khi tước đi sinh mạng của kẻ khác, miễn sao điều đó phục vụ cho lợi ích của chính bản thân.
+Nhưng chuyện đó vẫn còn tương đối bình thường, chẳng có gì to tát. Điều thực sự khiến Sheila kinh hãi là một suy nghĩ vừa thoáng qua trong đầu, dẫu chỉ là thoáng chốc: cô nhận ra mình sẵn sàng đoạt mạng một sinh linh trước mắt nếu thấy cần thiết. Trước nay cô vẫn tự biện minh cho ý nghĩ ấy bằng lợi ích mà việc diệt trừ quái vật mang lại cho nhân loại. Cũng như các đồng nghiệp, cô không được phép chần chừ khi phải tước đi một mạng sống, miễn là điều đó mang lại lợi ích cho bản thân.
 
-Kinh nghiệm huấn luyện chiến đấu đã dạy cho Sheila nhiều điều như thế, và đó là lý do vì sao lúc này cô thấy mình như chôn chân tại chỗ. Nhìn thẳng vào mắt Lorraine, Sheila đã hiểu. Đây chính là biểu cảm mà cô từng trút lên lũ Goblin và Slime trong Mê Cung. Thế nhưng, cô chưa từng ngờ rằng lại có một con người khác nhìn mình bằng ánh mắt như vậy.
+Khóa huấn luyện chiến đấu đã dạy cho Sheila điều đó, và cũng vì thế mà lúc này cô đứng như chôn chân tại chỗ. Nhìn thẳng vào mắt Lorraine, Sheila hiểu ra ngay. Đó chính là ánh mắt cô từng nhìn lũ Goblin và Slime dưới Mê Cung. Thế nhưng, cô chưa bao giờ nghĩ sẽ có ngày một con người lại nhìn mình bằng chính ánh mắt ấy.
 
-Sheila không còn cách nào khác ngoài việc hiểu ra rằng Lorraine sẽ trừ khử cô nếu đối phương thấy câu trả lời của cô có điểm nào đó chưa thỏa đáng. Chuyện ấy chưa hẳn đã là một vụ giết người, bởi lẽ điều đó chỉ có thể xảy ra khi đối phương công nhận nạn nhân là một con người.
+Sheila hiểu rõ rằng Lorraine sẽ khử cô ngay tắp lự nếu câu trả lời không làm cô ấy vừa ý. Đó thậm chí còn chẳng tính là giết người, bởi người ta chỉ gọi là giết người khi đối phương coi nạn nhân là một con người.
 
-Thế nhưng, ánh mắt của Lorraine lại nói lên một điều khác.
+Thế nhưng, ánh mắt của Lorraine lại cho thấy điều hoàn toàn khác.
 
-Đối với Lorraine, đây sẽ chẳng qua chỉ là một hành vi dọn dẹp đơn thuần. Cô có thể dễ dàng phóng hỏa thiêu rụi vô số mục tiêu thành tro bụi, dù là con người hay bất kỳ thứ gì khác. Ngay cả Sheila cũng hiểu rằng Lorraine thừa khả năng xóa sổ sự tồn tại của một sinh linh khác mà chẳng mảy may do dự. Dù sao thì Lorraine cũng là một mạo hiểm giả, hơn nữa còn là một Ngân Cấp dạn dày kinh nghiệm. Phải trả lời thật cẩn trọng; đó rất có thể là ý nghĩ duy nhất lướt qua tâm trí Sheila lúc này.
+Với Lorraine, đây chẳng qua chỉ là một lần dọn dẹp đơn thuần. Cô có thể dễ dàng phóng hỏa thiêu rụi bất cứ thứ gì thành tro bụi, dù là con người hay bất kỳ thứ gì khác. Ngay cả Sheila cũng hiểu rằng Lorraine hoàn toàn đủ sức xóa sổ một sinh linh mà chẳng cần chớp mắt. Dù sao Lorraine cũng là một mạo hiểm giả, lại còn là một Ngân Cấp lão luyện. Phải trả lời thật cẩn thận; lúc này đó chắc chắn là ý nghĩ duy nhất trong đầu Sheila.
 
-Lấy hết can đảm thêm một lần nữa, đôi môi Sheila khẽ hé mở.
+Lấy hết can đảm một lần nữa, đôi môi Sheila mấp máy.
 
 ◆◇◆◇◆
 
 "Tôi... hiểu rồi."
 
-Đó là một câu trả lời nhỏ nhẹ, gần như chẳng thể nghe thấy, tựa như ngọn lửa le lói của ngọn nến nhỏ trước cơn giông bão. Thế nhưng, ngọn lửa ấy vẫn kiên cường cháy sáng trước nghịch cảnh.
+Tiếng đáp khẽ khàng gần như không nghe thấy, tựa ngọn nến le lói trước cơn giông bão. Thế nhưng, ngọn lửa ấy vẫn bền bỉ cháy giữa muôn trùng sóng gió.
 
 "Tôi hiểu rồi."
 
-Câu trả lời được lặp lại của Sheila lúc này mang theo một sức nặng nhất định; giọng cô to hơn, rõ ràng hơn, nhưng dường như đang hướng về chính bản thân mình nhiều hơn là bất kỳ ai khác. Chí ít thì đối với tôi, thanh âm ấy nghe là như vậy.
+Câu trả lời lặp lại của Sheila đã có thêm phần dứt khoát; giọng cô to và rõ hơn, nhưng dường như là để tự nói với chính mình hơn là với người khác. Ít nhất thì tôi nghe ra là như vậy.
 
-Lorraine, cuối cùng cũng thấu hiểu được quyết tâm của Sheila, liền mỉm cười, nét mặt rốt cuộc cũng giãn ra mềm mại. "...Tôi hiểu rồi. Nếu vậy thì sẽ không có vấn đề gì cả."
+Lorraine cuối cùng cũng thấy được quyết tâm của Sheila, bèn mỉm cười, nét mặt dịu lại. "...Tôi hiểu rồi. Thế thì không có vấn đề gì cả."
 
-Sheila dường như chực ngã quỵ trước những lời lẽ ấy.
+Nghe vậy, Sheila như muốn khuỵu xuống vì trút được gánh nặng.
 
-"Cô phải hiểu rằng tôi đâu có hứng thú dọa dẫm những cô gái trẻ. Dù sao thì cũng muộn rồi. Chúng ta dùng bữa tối nhé?"
+"Cô thông cảm nhé, tôi đâu có rảnh rỗi đi dọa dẫm mấy cô gái trẻ làm gì. Mà thôi, muộn rồi. Ăn tối chứ nhỉ?"
 
-Nghe những lời của cô, tôi mới dần dần vỡ lẽ vì sao trước đó Lorraine lại nói năng và hành động như vậy.
+Nghe cô nói vậy, tôi mới dần vỡ lẽ lý do ban nãy Lorraine lại ăn nói và làm bộ làm tịch như thế.
 
 ◆◇◆◇◆
 
-"...Anh Rentt... Tôi có nghe kể rồi, nhưng anh thực sự nấu ăn rất cừ đấy nhỉ...?" Sheila cất lời, nét mặt đượm vẻ phức tạp.
+"...Anh Rentt... Tôi có nghe tiếng rồi, nhưng mà anh nấu ăn giỏi thật đấy nhỉ...?" Sheila nói, nét mặt lộ vẻ khó tả.
 
-Chiếc bàn duy nhất trong nhà Lorraine giờ đây đã được bày biện đủ loại món ăn, những phần ăn mà tôi chuẩn bị cho Lorraine và Sheila. Cũng chẳng phải cao lương mỹ vị gì. Với tôi, đây chỉ là những món cơm gia đình mộc mạc mà tôi vốn đã quen tay nấu nướng. Bản thân tôi cảm thấy đồ ăn này chí ít cũng có hương vị chấp nhận được.
+Chiếc bàn duy nhất trong nhà Lorraine lúc này bày biện đủ món do chính tay tôi nấu cho hai người họ. Cũng chẳng có gì cao sang. Với tôi, đây chỉ là mấy món cơm nhà quen thuộc mà tôi hay nấu. Tự thấy tay nghề mình chí ít cũng vào loại nuốt trôi được.
 
-Tôi đồ rằng những nam mạo hiểm giả có hiểu biết về nghệ thuật nấu nướng hẳn là hiếm như lá mùa thu. Rốt cuộc thì, có mấy ai còn đủ thể lực để tự chuẩn bị bữa ăn cho mình sau một ngày kiệt sức săn lùng quái vật trong Mê Cung. Họ chỉ chực cắm mặt xuống giường mà ngủ vùi.
+Đàn ông làm mạo hiểm giả mà biết nấu ăn chắc cũng hiếm như lá mùa thu. Âu cũng phải, săn quái cả ngày dưới Mê Cung mệt lử cò bợ, mấy ai còn hơi sức đâu mà tự nấu nướng. Về tới nơi là chỉ chực cắm đầu xuống giường mà ngủ vùi.
 
-Về phần mình, các mạo hiểm giả thường kiếm được nhiều hơn hẳn một thương nhân hay người bán hàng rong, nên dẫu có ăn uống ở quán rượu hay tiệm ăn mỗi ngày thì điều đó cũng chẳng mấy suy suyển đến thu nhập của họ. Chính điều này khiến cho những mạo hiểm giả sành sỏi chuyện bếp núc trở nên rất đỗi hiếm hoi.
+Vả lại, mạo hiểm giả thường kiếm tiền rủng rỉnh hơn dân buôn hay người bán rong, nên dẫu ngày nào cũng lê la quán xá thì thu nhập cũng chẳng sứt mẻ là bao. Vì thế, tìm được mạo hiểm giả nào nấu ăn ra hồn quả thực rất hiếm.
 
-Các nữ mạo hiểm giả trái lại thường ôm ấp nguyện vọng được Hội tuyển dụng làm nhân viên, và cũng chính vì lý do đó mà họ tranh thủ thời gian rảnh để luyện tập nấu nướng. Chẳng hề có xu hướng nào như vậy trong giới nam mạo hiểm giả. Việc các nam mạo hiểm giả cống hiến cả cuộc đời để leo lên các thứ hạng mạo hiểm giả là điều phổ biến hơn nhiều. Người ta có thể tranh cãi xem giới tính nào dễ gây dựng sự nghiệp mạo hiểm giả hơn; còn với tôi, mỗi bên đều có những nỗi khó khăn riêng của mình.
+Ngược lại, các nữ mạo hiểm giả hay có mong muốn được nhận vào làm nhân viên Hội, nên lúc rảnh rỗi họ thường tranh thủ tập tành bếp núc. Cánh đàn ông thì chẳng ai làm vậy. Họ thường dồn hết tâm sức để leo lên các thứ hạng cao hơn. Người ta có thể tranh cãi xem giới tính nào dễ gây dựng sự nghiệp mạo hiểm giả hơn, chứ theo tôi thì bên nào cũng có cái khó riêng.
 
-Tôi thì khác, tôi học được ngón nấu nướng này từ thuở còn ở làng quê, từ chính người dược sư đã dạy cho tôi những kỹ năng sinh tồn khác. Nhớ lại dạo ấy, tôi thường phụ giúp chuẩn bị bữa ăn trong lúc bà bận rộn điều chế một loại thuốc nào đó. Thi thoảng bà cũng tiện tay thảy thêm vài nhánh thảo dược vào nồi cho tròn vị. Đó là môi trường học tập hoàn hảo cho những dược sư tương lai, và dẫu nó trang bị cho tôi vốn kiến thức tổng quát về thảo mộc cỏ cây, tôi cũng vô tình học được luôn cách nấu nướng trong suốt quãng thời gian đó.
+Còn tôi, ngón nấu nướng này là học được hồi còn ở quê, từ chính bà lão dược sư đã dạy tôi những kỹ năng sinh tồn khác. Nhớ lại ngày đó, tôi thường lúi húi nấu nướng trong lúc bà bận rộn bào chế thuốc. Thỉnh thoảng bà lại tiện tay thảy thêm vài cọng thảo dược vào nồi cho dậy mùi. Đó đúng là môi trường học việc lý tưởng cho các dược sư tương lai. Thế nên bên cạnh mớ kiến thức cơ bản về cây cỏ, tôi cũng tiện thể học lỏm luôn được ngón nấu ăn.
 
-"Mỗi nhà một Rentt—xã hội đáng ra nên như thế đấy, cô thấy không. Việc gì anh ấy cũng làm được, mà hầu hết lại còn làm miễn phí nữa chứ... Nhưng giờ thì phải trả phí rồi. Tôi cho rằng cô có thể nói là tôi thanh toán thù lao theo... cái kiểu kia," Lorraine nói, chỉ tay về phía chiếc lọ tôi đang cầm trên tay.
+"Mỗi nhà nên có một Rentt—xã hội mà được thế thì tốt biết mấy. Việc gì anh ta cũng làm được, mà hầu hết toàn làm không công nữa chứ... Cơ mà giờ thì phải tính phí rồi. Coi như tôi trả công bằng... cách này," Lorraine vừa nói vừa chỉ về phía chiếc lọ tôi đang cầm trên tay.
 
-Đó chính là chiếc lọ đã được yểm ma pháp bảo quản: chiếc lọ chứa máu của Lorraine. Một giọt duy nhất ấy là tất cả những gì tôi cần cho bữa tối của mình.
+Đó chính là chiếc lọ đã được yểm ma pháp bảo quản, bên trong đựng máu của Lorraine. Bữa tối của tôi chỉ cần đúng một giọt ấy là đủ.
 
-Sắc mặt Sheila lại một lần nữa tái mét khi nghe nói chiếc lọ tôi luôn mang theo bên mình chứa đầy máu. Tôi đồ rằng đây chính là lý do vì sao trước đó Lorraine lại nói những lời như vậy trong cuộc trò chuyện ban nãy.
+Nghe nói chiếc lọ tôi luôn mang bên mình đựng máu, mặt Sheila lại tái mét. Hóa ra đó là lý do lúc nãy Lorraine lại nói những lời như vậy.
 
-"Tôi hiểu rồi... Dù sao thì Thi Quỷ cũng là một dạng Ma Cà Rồng cấp thấp, nên là..."
+"Thảo nào... Dù sao Thi Quỷ cũng là một dạng Ma Cà Rồng cấp thấp, nên..."
 
-Có vẻ như Sheila tiếp thu tình hình rất nhanh chóng.
+Xem ra Sheila nắm bắt tình hình rất nhanh.
 
-Dù nhìn theo góc độ nào đi nữa, tôi thực chất vẫn là một con quái vật đang ngồi bên bàn ăn của con người, liếm láp từng giọt máu từ miệng lọ. Đối với một người bình thường tình cờ nhìn thấy, tôi hẳn chỉ giống một kẻ đeo mặt nạ đang liếm chất lỏng màu đỏ từ chiếc que nhỏ nhúng vào một chiếc lọ trông có vẻ vô hại. Đó không phải một cảnh tượng đáng sợ, mà có lẽ kỳ quặc và lập dị thì đúng hơn.
+Nói cho cùng, tôi vẫn là một con quái vật đang ngồi bên bàn ăn của con người, nhấm nháp từng giọt máu. Trong mắt một người qua đường bình thường, tôi chắc chỉ giống một gã đeo mặt nạ đang nhấm chất lỏng màu đỏ từ chiếc que nhỏ cắm trong chiếc lọ trông có vẻ vô hại. Trông chẳng có gì đáng sợ, có chăng chỉ thấy kỳ quặc và lập dị.
 
-"Tình hình thực tế là như vậy đấy. Gác chuyện đó sang một bên, tôi có thể hiểu là hai người đã ký một bản khế ước ràng buộc ma pháp rồi đúng không?" Lorraine hỏi, thản nhiên lái câu chuyện sang việc thảo luận những chi tiết tường tận trong bản khế ước giữa Sheila và tôi.
+"Sự tình là thế đấy. Gác chuyện đó sang một bên đã, nghe nói hai người đã ký khế ước ràng buộc ma pháp rồi đúng không?" Lorraine hỏi, nhẹ nhàng lái câu chuyện sang các điều khoản chi tiết trong bản khế ước giữa tôi và Sheila.
 
-Tôi không có nghĩa vụ phải kể tường tận chi tiết cho Lorraine nghe, nhưng xét thấy giờ đây cả ba chúng tôi đều đã rõ bí mật này, tôi nghĩ tốt hơn hết là nên bàn bạc khi có mặt đầy đủ các bên.
+Tôi chẳng có nghĩa vụ phải kể chi tiết cho Lorraine nghe, nhưng đằng nào cả ba cũng cùng chung bí mật rồi, nói rõ ra trước mặt nhau vẫn tốt hơn.
 
-Tôi gật đầu đáp lời. "...Đúng vậy. Về cơ bản... Đó là bản khế ước... Cấm Sheila tiết lộ... Bất cứ điều gì về việc tôi... Thực sự là thứ gì."
+Tôi gật đầu. "...Đúng vậy. Về cơ bản... Đó là khế ước... Cấm cô Sheila tiết lộ... Bất cứ điều gì về việc tôi... Thực sự là thứ gì."
 
-"Hừm... Đúng là tôi cũng tò mò về những điều khoản cụ thể. Nhưng có lẽ chúng ta nên để dành chuyện đó sau bữa ăn. Dù sao cũng chỉ là chuyện vụn vặt thôi mà," Lorraine vừa nói vừa xúc một thìa thức ăn đưa lên miệng.
+"Hừm... Tôi cũng tò mò muốn biết chi tiết đấy. Nhưng chắc để ăn xong xuôi hẵng hay. Mấy chuyện vụn vặt này mà," Lorraine vừa nói vừa múc một thìa thức ăn.
 
-Sheila thì ngược lại, cô sốt sắng rút cuộn giấy da cừu ra từ một chỗ nào đó bên trong bộ đồng phục Hội của mình.
+Sheila thì khác, cô sốt sắng rút ngay cuộn giấy da cừu giấu trong bộ đồng phục Hội ra.
 
-"Tôi có mang bản khế ước ở ngay đây. Cô có muốn xem qua không ạ?" cô hỏi, chìa cuộn giấy về phía Lorraine.
+"Tôi có mang khế ước ở đây. Cô có muốn xem qua không ạ?" Sheila hỏi rồi chìa cuộn giấy về phía Lorraine.
 
-Đặt chiếc thìa xuống, Lorraine đón lấy cuộn giấy, mở ra rồi giơ lên ngang mặt.
+Đặt thìa xuống, Lorraine đón lấy cuộn giấy, mở ra rồi giơ lên ngang tầm mắt.
 
-Dù chúng tôi đã ký kết khế ước và về cơ bản dường như chẳng có vấn đề gì, Lorraine lại đặc biệt lão luyện trong việc rà soát văn bản để tìm ra các kẽ hở, và đó chính xác là điều cô đang làm. Cá nhân tôi không nghĩ Sheila sẽ cố tình vi phạm các điều khoản khế ước, nhưng nguy cơ cô ấy vô thức để lộ thông tin quả thực là một mối rủi ro hiện hữu. Sẽ rất bất công cho Sheila nếu những sơ suất buột miệng ngoài ý muốn lại khiến cô phải rời khỏi Hội.
+Dù hai bên đã đặt bút ký và thoạt nhìn chẳng có vấn đề gì, nhưng Lorraine vốn cực kỳ thạo khoản săm soi kẽ hở trong giấy tờ, và đó đúng là việc cô đang làm lúc này. Bản thân tôi không nghĩ Sheila lại cố tình vi phạm các điều khoản, nhưng nguy cơ cô vô thức lỡ miệng vẫn là rủi ro có thật. Huống hồ, nếu chỉ vì sơ suất buột miệng mà Sheila phải rời khỏi Hội thì bất công cho cô ấy quá.
 
-Thế nhưng một ý nghĩ u ám hơn bỗng thoáng hiện trong tâm trí tôi: tôi không thể loại trừ khả năng Sheila bị một bên thứ ba bí ẩn nào đó khống chế tâm trí vào một thời điểm nào đó trong tương lai. Những loại ma pháp như vậy quả thực có tồn tại ở đâu đó trên thế giới này, và trong khi những người có ý chí kiên định có thể kháng cự lại mưu toan đó, thì những người yếu ớt sẽ bị bẻ gãy tinh thần và dễ dàng bị ép buộc phải khai ra bất cứ thông tin nào họ nắm giữ.
+Nhưng trong đầu tôi lại nảy ra một mối lo đáng sợ hơn: biết đâu sau này Sheila bị một kẻ bí ẩn nào đó thao túng tâm trí. Loại ma pháp như vậy trên đời không thiếu. Kẻ có ý chí sắt đá còn kháng cự được, chứ người yếu bóng vía sẽ bị bẻ gãy tinh thần và dễ dàng bị moi sạch mọi thông tin.
 
-Nếu viễn cảnh ấy thực sự diễn ra, cả Sheila và tôi đều sẽ rơi vào thế bất lợi. Vì lẽ đó, việc có một người như Lorraine rà soát kỹ lưỡng bản khế ước là điều tối sức cần thiết.
+Nếu chuyện đó xảy ra, cả Sheila lẫn tôi đều sẽ rơi vào thế bất lợi. Bởi vậy, có một người như Lorraine rà soát lại khế ước là điều hết sức cần thiết.
 
-Tính cách và năng lực của Lorraine đã đóng góp rất lớn cho mục đích của chúng tôi. Bản khế ước vốn mang bản chất ma pháp, nên tốt nhất là được soi xét bởi một người có kiến thức uyên thâm về ma thuật và những lĩnh vực liên quan. Lorraine dẫu chẳng phải luật sư hay quan chức ngành luật, nhưng bề dày học thức của cô là quá đủ để kiểm chứng tính hiệu lực của bản khế ước trước mắt.
+Tố chất và tài năng của Lorraine rất hợp với việc này. Khế ước vốn dĩ mang tính ma pháp, nên tốt nhất là để người am hiểu sâu về ma thuật soi xét. Lorraine tuy chẳng phải luật sư hay quan chức ngành luật, nhưng vốn hiểu biết của cô thừa sức thẩm định hiệu lực của tờ khế ước này.
 
-Chẳng mất bao lâu để Lorraine cuộn tờ giấy da lại thêm một lần nữa, rõ ràng là đã sẵn sàng đưa ra lời phán định của mình.
+Chẳng mấy chốc, Lorraine đã cuộn tờ giấy da lại, có vẻ như chuẩn bị đưa ra phán quyết.
 
-"...Thoạt nhìn thì, tôi cho là không có vấn đề gì quá lộ liễu. Đương nhiên là có cả tá điểm tôi có thể săm soi bới lông tìm vết. Gạt chuyện đó sang một bên, bản này nhìn chung khá ổn thỏa, miễn sao bản thân Sheila không hé răng về cái gọi là bí mật của Rentt cho bất kỳ ai bên ngoài. Vấn đề chính cần cân nhắc ở đây sẽ là tình huống cô bị một loại ma pháp xâm lấn nào đó khống chế trái với ý muốn... Trong trường hợp ấy, tôi e là cô sẽ phải từ bỏ cuộc sống hiện tại mà trở thành nô lệ của Rentt."
+"...Thoạt nhìn thì chưa thấy có vấn đề gì lớn. Dĩ nhiên nếu muốn bới lông tìm vết thì tôi cũng chỉ ra được cả tá điểm. Nhưng bỏ qua chuyện đó thì bản này nhìn chung ổn thỏa, miễn là Sheila không hé nửa lời về cái gọi là bí mật của Rentt cho người ngoài. Điểm duy nhất đáng bận tâm là lỡ như cô bị một loại ma pháp ngoại lai nào đó khống chế ngoài ý muốn... Khi ấy, e là cô sẽ phải từ bỏ cuộc sống hiện tại để làm nô lệ cho Rentt."
 
-"Chẳng lẽ không... Thể làm gì đối với... Cái điều khoản đó của khế ước sao...?"
+"Chẳng lẽ không... Thể làm gì với... Cái điều khoản đó của khế ước sao...?"
 
-"Chà, mọi bản khế ước ma pháp mang tính chất này đều vướng phải những vấn đề tương tự thôi. Trong trường hợp giả định rằng Sheila bị ma pháp khống chế ngoài ý muốn và rơi vào cảnh nô lệ do hiệu lực ràng buộc của khế ước, thì tất cả những gì anh cần làm chỉ là đơn phương hủy bỏ khế ước từ phía anh thôi, Rentt. Nếu cô ấy thực sự trở thành nô lệ của anh, quyền sở hữu cô ấy đằng nào cũng tự động chuyển sang cho anh, nên anh hoàn toàn có thể tháo gỡ vấn đề từ bước đó. Dù theo cách nào đi nữa, điều khoản này của khế ước dường như cũng chẳng có vấn đề gì."
+"Thì khế ước ma pháp dạng này bản nào chả mắc vấn đề tương tự. Giả dụ Sheila bị ma pháp khống chế ngoài ý muốn rồi bị khế ước biến thành nô lệ, thì Rentt, anh chỉ việc đơn phương hủy khế ước là xong. Nếu cô ấy có thành nô lệ của anh thật thì quyền sở hữu đằng nào cũng tự động chuyển sang cho anh, lúc đó xử lý từ bước đó cũng được. Đằng nào thì điều khoản này cũng chẳng có vấn đề gì đáng ngại."
 
-Bản thân tôi cảm thấy chính những chi tiết ấy của bản khế ước lại tiềm ẩn cả tá vấn đề rắc rối của riêng chúng. Dẫu vậy chẳng rõ vì lý do gì, xét theo góc độ logic thì nó rõ ràng là có thể vận hành trót lọt, và thế là êm xuôi.
+Riêng tôi thấy mấy cái chi tiết đó đầy rẫy rủi ro. Nhưng chẳng hiểu sao xét về mặt logic thì cách đó lại trót lọt, thế là coi như xong chuyện.
 
-"Dù sao đi nữa," Lorraine tiếp tục giải thích, "nếu chuyện như thế thực sự diễn ra, hai người có thể bỏ qua mọi thủ tục giấy tờ phiền hà mà chỉ việc hủy bỏ khế ước dựa trên sự đồng thuận của đôi bên. Điều tôi vừa nhắc tới đơn thuần chỉ là kịch bản tồi tệ nhất mà thôi..."
+"Dù sao đi nữa," Lorraine giải thích thêm, "nếu chuyện đó xảy ra thật, hai người có thể bỏ qua hết thủ tục giấy tờ phiền phức mà chỉ việc hủy khế ước theo thỏa thuận đôi bên. Cái tôi vừa nói chỉ là trường hợp xấu nhất thôi..."
 
-Kịch bản tồi tệ nhất mà Lorraine vạch ra quả thực vô cùng gay gắt. Trong trường hợp Sheila bị thao túng, và ma pháp ấy mạnh đến mức không thể hóa giải, khế ước sẽ phát huy hiệu lực của nó, và chúng tôi buộc phải chấp nhận hậu quả. Dưới hoàn cảnh bình thường, tôi đồ rằng chẳng ai cần phải trù tính xa xôi đến nhường ấy cho một kịch bản tồi tệ nhất. Thế nhưng, hoàn cảnh của tôi lại cách quá xa mức bình thường. Sự thận trọng của Lorraine hoàn toàn là có cơ sở xác đáng.
+Trường hợp xấu nhất Lorraine nêu ra nghe gay go thật. Nếu Sheila bị thao túng bởi thứ ma pháp quá mạnh không thể hóa giải, khế ước sẽ kích hoạt và chúng tôi buộc phải chấp nhận hậu quả. Trong hoàn cảnh bình thường, chắc chẳng ai hơi đâu lo xa đến mức ấy. Nhưng tình cảnh của tôi thì có bình thường đâu. Sự cẩn trọng của Lorraine ít nhất cũng phải nói là hoàn toàn có cơ sở.
 
-"Như tôi vừa nói đấy... Bí mật này giờ đây là của chung giữa ba chúng ta. Mỗi người trong chúng ta đều phải làm tròn bổn phận của mình để đảm bảo giữ kín bí mật ấy. Do Rentt có ý định tiếp tục sự nghiệp mạo hiểm giả, nên vai trò của cô đặc biệt quan trọng đấy, Sheila, vì thế chúng tôi trông cậy vào cô trên rất nhiều phương diện."
+"Như tôi đã nói đấy... Giờ bí mật này là của cả ba chúng ta. Ai cũng phải làm tròn phần việc của mình để giữ kín chuyện. Rentt còn muốn tiếp tục làm mạo hiểm giả, nên vai trò của cô quan trọng lắm đấy, Sheila. Chúng tôi trông cậy cả vào cô đấy."
 
-"Vâng... Đương nhiên, đó cũng là điều tôi dự định làm, nhưng..."
+"Vâng... Chắc chắn tôi sẽ làm hết sức, chỉ là..."
 
-"Nhưng sao cơ?"
+"Chỉ là sao?"
 
-"Chỉ là, dạo gần đây anh Rentt... có phần hơi nổi bật quá mức..." Sheila nói, đưa mắt liếc về phía tôi.
+"Chỉ là dạo gần đây, anh Rentt... có vẻ nổi bật quá..." Sheila vừa nói vừa liếc nhìn tôi.
 
-"Đã có chuyện gì khác thường xảy ra sao...?" Lorraine nhướn một bên mày, quay sang hỏi tôi.
+"Có chuyện gì bất thường à...?" Lorraine nhướng mày quay sang nhìn tôi.
