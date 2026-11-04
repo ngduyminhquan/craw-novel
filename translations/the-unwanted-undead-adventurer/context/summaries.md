@@ -1501,6 +1501,12 @@ Quay về quán trọ, Rentt và Augurey nghe thấy Lorraine và ông lão Cự
 Ông lão tiết lộ mình từng cứu mạng Siren bằng thuốc khi còn nhỏ, cho biết cô bé mới 17 tuổi và đang trong thời kỳ nổi loạn; ông giải thích cơ cấu tổ chức ngầm dị năng theo mô hình kim tự tháp gồm nhiều phe phái biệt lập, cảnh báo nhóm Rentt cẩn trọng trước nguy cơ các phe phái khác can thiệp phá đám cuộc gặp mặt.
 Cảnh kết thúc: Dù ông lão hy vọng Goblin sẽ đàm phán thuận lợi để giải quyết êm đẹp, Rentt với linh cảm về vận rủi thường gặp vẫn tự nhủ phải hết sức cảnh giác nhưng tạm gạt âu lo sang một bên.
 
+## 255
+Augurey báo tin Rentt đủ điều kiện thi Ngân Cấp khiến Lorraine xúc động muốn mở tiệc ăn mừng; ông lão Cự Nhân thắc mắc và đoán nhầm Rentt nở muộn mới thức tỉnh dị năng; ông chia sẻ về số phận bi kịch của những người thức tỉnh muộn bị người đời xem như quái vật, trong khi Lorraine và Augurey khẳng định tình bạn son sắt giúp Rentt vô cùng ấm lòng.
+Chim bồ câu mang mật thư của Goblin bay đến đậu trên đầu Siren (hé lộ dị năng thu hút động vật của cô bé và việc kiềm chế ở cự ly gần rất tốn sức); ông lão giải mã thư báo Goblin đã dàn xếp được cuộc gặp với thủ lĩnh vào ngày mai; cả nhóm thống nhất Augurey và Siren sẽ ở lại quán trọ để đề phòng bất trắc.
+Hôm sau, Goblin tạt qua đón nhóm trong bộ dạng bầm dập khắp người do ẩu đả với đồng bọn vì chúng không tin ông lão bại trận; Goblin thuật lại kịch bản báo cáo khôn khéo giúp thủ lĩnh đồng ý gặp mặt, đồng thời vô tình tiết lộ mật danh của ông lão là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ).
+Cảnh kết thúc: Goblin thật thà thú nhận bản thân cũng hoàn toàn không biết dị năng của tên thủ lĩnh, và nhóm chuẩn bị lên đường tới căn cứ tổ chức.
+
 
 
 

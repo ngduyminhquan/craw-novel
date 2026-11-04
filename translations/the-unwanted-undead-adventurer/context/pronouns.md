@@ -96,6 +96,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ferrici | Ferrici / cô gái / thiếu nữ / cô bé | 235 | Thiếu nữ tại quán rượu Làng Looza; không dùng "em ấy" trong lời dẫn chuyện của Rentt |
 | Leo | Leo / người đàn ông / ông ấy / người cha | 240 | Cha của Ferrici tại Làng Looza |
 | Lenora | Lenora / người phụ nữ / bà ấy / người mẹ | 240 | Mẹ của Ferrici tại Làng Looza |
+| Spriggan | Spriggan / ông lão / ông ta | 255 | Mật danh của ông lão mang dị năng Cự Nhân |
 
 ## Giữa các nhân vật
 
@@ -464,4 +465,14 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Siren | Lorraine Vivie | tôi | cô | 251 | Nữ điệp viên khiếp sợ ngoan ngoãn trước nữ học giả |
 | Rentt Faina | Siren | tôi | cô / các vị | 252 | Mạo hiểm giả tiếp chuyện nữ điệp viên |
 | Siren | Rentt Faina | tôi | anh | 252 | Nữ điệp viên ngạc nhiên trò chuyện với Rentt |
+| Rentt Faina | Spriggan | tôi | ông / ông Spriggan | 255 | Mạo hiểm giả nói chuyện với ông lão sát thủ mang mật danh Spriggan |
+| Spriggan | Rentt Faina | ta | cậu / Rentt / các cậu | 255 | Ông lão mang dị năng Spriggan nói chuyện với Rentt |
+| Lorraine Vivie | Spriggan | tôi | ông | 255 | Nữ học giả nói chuyện với ông lão mang mật danh Spriggan |
+| Spriggan | Lorraine Vivie | ta | cô | 255 | Ông lão mang dị năng Spriggan nói chuyện với nữ học giả |
+| Augurey | Spriggan | tôi | ông / ông Spriggan | 255 | Mạo hiểm giả nói chuyện với ông lão mang mật danh Spriggan |
+| Spriggan | Augurey | ta | cậu / các cậu | 255 | Ông lão mang dị năng Spriggan nói chuyện với Augurey |
+| Spriggan | Siren | ta | con / Siren | 255 | Ông lão mang mật danh Spriggan nói chuyện với cô bé thuộc cấp |
+| Siren | Spriggan | tôi | ông | 255 | Nữ điệp viên nói chuyện với ông lão mang mật danh Spriggan |
+| Spriggan | Yattul | ta | cậu / Goblin | 255 | Ông lão mang mật danh Spriggan nói chuyện với Goblin |
+| Yattul | Spriggan | tôi | ông già / ông | 255 | Điệp viên Goblin nói chuyện với ông lão mang mật danh Spriggan |
 

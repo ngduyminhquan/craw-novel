@@ -259,7 +259,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 252 |  | Chapter_252 - Vol 11 Chapter 2 - Departure (1).txt | Vol 11 Chapter 2 - Departure (1) | reviewed |  |
 | 253 |  | Chapter_253 - Vol 11 Chapter 2 - Departure (2).txt | Vol 11 Chapter 2 - Departure (2) | done |  |
 | 254 |  | Chapter_254 - Vol 11 Chapter 2 - Departure (3).txt | Vol 11 Chapter 2 - Departure (3) | done |  |
-| 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | todo |  |
+| 255 |  | Chapter_255 - Vol 11 Chapter 2 - Departure (4).txt | Vol 11 Chapter 2 - Departure (4) | done |  |
 | 256 |  | Chapter_256 - Vol 11 Chapter 3 - The Organization (1).txt | Vol 11 Chapter 3 - The Organization (1) | todo |  |
 | 257 |  | Chapter_257 - Vol 11 Chapter 3 - The Organization (2).txt | Vol 11 Chapter 3 - The Organization (2) | todo |  |
 | 258 |  | Chapter_258 - Vol 11 Chapter 3 - The Organization (3).txt | Vol 11 Chapter 3 - The Organization (3) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -908,3 +907,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#252] Dịch tiêu đề arc 'Departure' — tạm chọn 'Khởi Hành' (phương án khác: 'Lên Đường') → Chốt 'Khởi Hành' thống nhất cho toàn bộ tiêu đề chương thuộc Tập 11 Chương 2. (orchestrator)
 - [#253] Thuật ngữ 'Silver-class Ascension Exam' — tạm chọn 'kỳ thi thăng hạng Ngân Cấp' (nhất quán với 'Bronze-class Ascension Exam' → 'kỳ thi thăng hạng Đồng Cấp'). → Chốt 'kỳ thi thăng hạng Ngân Cấp' đồng bộ với 'Bronze-class Ascension Exam' → 'kỳ thi thăng hạng Đồng Cấp' (#37) trong glossary.md. (orchestrator)
 - [#254] Xưng hô giữa ông lão Cự Nhân và Siren — tạm chọn ông lão xưng 'ta', gọi 'con / con bé' (Siren xưng 'tôi', gọi 'ông') theo tình cảm như con cháu gái trong nhà (phương án khác: ông lão gọi 'cô / nhóc'). Tạm dùng trong bản dịch: 'ta' - 'con / con bé'. → Chốt ông lão xưng 'ta', gọi 'con / con bé / cô', Siren xưng 'tôi', gọi 'ông' (khớp với chi tiết ông lão xem Siren như cháu gái ở #254 và tính cách bướng bỉnh của Siren). (orchestrator)
+- [#255] Mật danh và chủng tộc 'Spriggan' của ông lão Cự Nhân — tạm giữ nguyên phiên âm 'Spriggan' theo quy tắc tên riêng phương Tây trong rules.md và characters.md (phương án khác: 'Tinh Linh Spriggan', 'Yêu Tinh Spriggan'). Tạm dùng trong bản dịch: 'Spriggan'. → Chốt giữ nguyên 'Spriggan' cho mật danh của ông lão và chủng tộc thần thoại Spriggan (đồng bộ với Goblin và Siren). (orchestrator)
+- [#255] Dịch 'Copper-class' và 'two Silvers and a Copper' ở #255 — tạm quy về 'Đồng Cấp' và 'hai Ngân Cấp và một Đồng Cấp' để nhất quán với hệ thống cấp bậc mạo hiểm giả trong glossary.md (phương án khác: dịch thô thành 'cấp Đồng Đỏ' hoặc 'một người cấp Đồng'). Tạm dùng trong bản dịch: 'Đồng Cấp' và 'hai Ngân Cấp và một Đồng Cấp'. → Chốt dịch thống nhất thành 'Đồng Cấp' và 'hai Ngân Cấp và một Đồng Cấp' theo đúng hệ thống cấp bậc trong rules.md và glossary.md (do raw đổi cách dịch từ chữ 銅). (orchestrator)
+- [#255] Dịch 'fairy' khi Lorraine miêu tả Spriggan ('A type of fairy with the ability to grow bigger...') — tạm chọn 'loài tiên' thay vì 'nàng tiên' như mục fairy trong glossary.md vì Spriggan có ngoại hình ông lão và tương tự Người Lùn (phương án khác: 'tinh linh', 'tiên tộc'). Tạm dùng trong bản dịch: 'loài tiên'. → Chốt dịch là 'loài tiên' trong ngữ cảnh phân loại chủng tộc thần thoại (tránh dùng 'nàng tiên' vì Spriggan mang hình dáng ông lão như Người Lùn). (orchestrator)

@@ -127,6 +127,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ferrici |  | Ferrici | Thiếu nữ tại quán rượu Làng Looza, người hiểu rõ về vùng Hồ Petorama | #235 |
 | Leo |  | Leo | Cha của Ferrici tại Làng Looza | #240 |
 | Lenora |  | Lenora | Mẹ của Ferrici tại Làng Looza | #240 |
+| Spriggan |  | Spriggan | Mật danh của ông lão sở hữu dị năng khổng lồ hóa (Cự Nhân), thủ lĩnh nhóm sát thủ cùng Goblin và Siren | #255 |
 
 ## Chi tiết
 
@@ -804,6 +805,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, người dân Làng Looza, mẹ của Ferrici (#240).
 - Đặc điểm: Ngoại hình mang dáng dấp của Ferrici ba mươi năm sau; lo lắng cho con gái; can ngăn chồng khi Leo kích động toan đền mạng; cùng Ferrici và chồng rối rít cảm ơn Augurey đã tha mạng cho con gái; chủ động gợi ý làm đồ ăn tươi ngon cho nhóm mạo hiểm giả mang theo khi rời làng (#240).
 - Xuất hiện từ: #240.
+
+### Spriggan
+- Giới tính, vai trò: Nam, ông lão lớn tuổi mang vóc dáng nhỏ bé bình thường, thủ lĩnh nhóm sát thủ dị năng cùng Goblin (Yattul) và Siren (#244).
+- Đặc điểm: Là mạo hiểm giả / dị năng giả kỳ cựu lớn tuổi nhất nhóm; tính cách từng trải, điềm đạm, nhân hậu nhưng khi chiến đấu vô cùng quyết đoán và đáng sợ; sở hữu dị năng phóng to cơ thể thành người khổng lồ cao lớn (Cự Nhân) với sức mạnh thể chất áp đảo; từng cứu mạng Siren bằng thuốc khi cô bé còn nhỏ; xem Siren và Goblin như con cháu trong nhà; sau khi bị nhóm Rentt đánh bại và đàm đạo với Lorraine, ông cởi mở chia sẻ về nguồn gốc của những kẻ mang dị năng trong lịch sử và khuyên nhóm Rentt cẩn trọng trước các phe phái khác trong tổ chức ngầm (tính đến #254). Sang #255, lộ mật danh trong tổ chức ngầm là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ); hướng dẫn nhóm Rentt và cùng Rentt, Lorraine đến căn cứ ngầm để diện kiến thủ lĩnh.
+- Xuất hiện từ: #244 (lộ mật danh ở #255).
 
 
 

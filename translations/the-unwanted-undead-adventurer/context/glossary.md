@@ -20,11 +20,11 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Sound Barrier |  | Cách Âm Kết Giới | kỹ năng | 233 | Ma pháp tạo kết giới cách âm ngăn âm thanh lọt ra ngoài |
 | Existential Evolution |  | Tiến Hóa Bản Thể | hệ thống | 1 | Hiện tượng quái vật tiến hóa lên bậc cao hơn (存在進化) |
 | Iron-class | Iron | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
-| Bronze-class |  | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級) |
+| Bronze-class | Copper-class | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級). Copper-class là cách dịch của translator ở #255 |
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
 | upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
-| Silver-class | Silver-rank | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級) |
+| Silver-class | Silver-rank; Silvers | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級). Silvers là cách gọi số nhiều ở #255 |
 | lower Silver-class |  | Hạ Ngân Cấp | cấp bậc | 27 | Phân bậc thấp trong Ngân Cấp |
 | Gold-class | Gold-classers | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class |  | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
