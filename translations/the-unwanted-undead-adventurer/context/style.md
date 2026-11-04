@@ -69,6 +69,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
 - (60) Phân đoạn cuối (sau dấu phân cách thứ hai) chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine Vivie khi vào bếp múc thêm thức ăn cho Rentt, ngắm mình trong gương và ngượng ngùng đỏ mặt vì những lời khen của anh.
 - (67) Thể hiện sự giằng xé nội tâm đầy tự trào của Rentt khi đứng trước các món ma cụ độc lạ: dù rất mê phi thuyền mô hình nhưng phải cắn răng chọn lọ máu Ma Cà Rồng thực dụng hơn, giữ nét tiếc hùi hụi dí dỏm và độc thoại tự nhủ cắn răng chịu đựng hài hước, tránh dịch bi lụy hay nâng tầm bi tráng.
+- (68) Thể hiện tâm lý tiếc nuối và niềm vui sướng con trẻ của Rentt khi thương lượng nhận thêm mô hình phi thuyền: độc thoại tự biện hộ cho thói vòi vĩnh ma cụ dưới danh nghĩa mạo hiểm giả thực dụng, kết hợp với phong thái đàm phán hào sảng, sắc sảo và tâm lý của Laura Latuule khi giao ủy thác định kỳ thu thập Hoa Long Huyết.
 - (81) Phần kết Tập 3 chuyển sang góc nhìn ngôi thứ ba bám theo Thánh Nữ Myullias Raiza của Giáo Hội Lobelia khi tiến vào thị trấn Maalt.
 - (112) Ngoại truyện Tập 4 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại ngôi nguyện đường Giáo Hội Lobelia ở Maalt.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
