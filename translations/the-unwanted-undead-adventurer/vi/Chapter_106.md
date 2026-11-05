@@ -1,115 +1,115 @@
 # Chương 106: Chương đệm Tập 4 - Thánh Nữ Myullias Raiza (2)
 
-"Hừm... Xin thứ lỗi vì tôi mạo muội hỏi câu này, nhưng... vừa rồi đã xảy ra chuyện gì vậy? Tôi chỉ thấy ngài Rentt đột nhiên hoảng hốt rồi cử động một cách kỳ quặc..." Sharl lên tiếng, nét mặt nghiêm nghị.
+"Hừm... Xin thứ lỗi vì tôi mạo muội, nhưng... vừa rồi đã xảy ra chuyện gì vậy? Tôi chỉ thấy ngài Rentt bỗng hoảng hốt rồi né tránh một cách kỳ lạ..." Sharl lên tiếng, vẻ mặt nghiêm trọng.
 
-Tôi ư? Hoảng hốt? Cử động kỳ quặc?
+Tôi sao? Hoảng hốt? Né tránh kỳ lạ ư?
 
-Thì... không. Không hẳn vậy đâu. Nào nào. Trước nguy cơ bị một ngọn lửa kỳ dị thiêu sống, ai mà chẳng hoảng hốt chứ? Có điều nếu nhìn toàn bộ sự việc theo góc độ của Sharl, thì đúng là chẳng có gì để phải né tránh thật...
+Thì... không. Đâu hẳn thế. Nói gì thì nói, trước nguy cơ bị một ngọn lửa quái dị thiêu sống, ai mà chẳng hoảng chứ? Có điều đứng ở góc độ của Sharl mà nhìn thì đúng là chẳng có gì để phải né thật...
 
-"Ngài Rentt đây nhìn thấy được ơn ban phước của Thần Lực đấy, ngài biết chứ? Thế nên anh ấy mới cố né tránh nó thôi."
+"Ngài Rentt đây nhìn ra được Thần Lực ban phước mà, nên ngài ấy mới cố né đấy thôi."
 
-Nive nhanh nhảu đưa ra lời giải thích như thường lệ.
+Như thường lệ, Nive nhanh nhảu giải thích ngay.
 
-Nói cách khác, tôi đoán chừng Sharl không thể nhìn thấy nó. Thậm chí ngay cả ngọn Thánh Hỏa khổng lồ ngự trên đầu ông ta cũng không sao?
+Nói cách khác, tôi đoán Sharl không nhìn thấy được. Ngay cả ngọn Thánh Hỏa khổng lồ bốc trên đầu ông cũng không thấy sao?
 
-Trong lúc tôi vẫn đang băn khoăn về những điều đó, Nive đã bận rộn giảng giải cặn kẽ cho Sharl nghe. Tiến lại gần tôi, Myullias khẽ nghiêng người, thì thầm nhỏ nhẹ bên tai tôi.
+Trong lúc tôi còn đang băn khoăn, Nive đã quay sang giải thích cặn kẽ cho Sharl. Myullias bèn tiến lại gần, khẽ nghiêng người thì thầm vào tai tôi.
 
-"Thưa ngài Rentt. Thánh Hỏa là Thần Lực được ngưng tụ thành hình thái cụ thể. Những ai chưa từng được Thần Lực ban phước thì không thể nào cảm nhận được nó. Đương nhiên, người ta hoàn toàn có thể khiến Thần Lực hiển hiện rõ ràng, nhưng nếu không cố ý làm vậy thì mắt thường sẽ không thể nhìn thấy. Vì lẽ đó, trong mắt ngài Sharl, ngài chẳng khác nào đang tự dưng nhảy múa tại chỗ mà chẳng vì bất cứ lý do gì. Ít nhất thì cảnh tượng đập vào mắt ông ấy là như thế."
+"Thưa ngài Rentt. Thánh Hỏa là Thần Lực hữu hình hóa. Ai chưa từng được Thần Lực ban phước thì không tài nào nhận biết được đâu. Đương nhiên người ta có thể làm cho Thần Lực hiện hình, nhưng nếu không cố ý làm vậy thì mắt thường chẳng thể thấy được. Vì thế trong mắt ngài Sharl, ngài bỗng dưng tự nhảy múa một mình tại chỗ mà chẳng có nguyên do gì. Ít nhất thì trong mắt ông ấy trông sẽ như vậy đấy."
 
-Một sự miêu tả diễn biến tình huống thật đáng kinh ngạc. Đáng kinh ngạc ở cái đoạn bảo tôi tự dưng nhảy múa mà chẳng vì lý do gì ấy.
+Cách tả tình hình nghe ấn tượng thật đấy. Nhất là cái đoạn bảo tôi chẳng dưng lại đi nhảy múa một mình ấy.
 
-Thật không ngờ Thánh Hỏa lại vô hình trước những ai không được Thần Lực ban phước... Tôi cho rằng điều này cũng hợp lý thôi, nếu xét đến cơ chế hoạt động của Ma Lực. Có người nhìn thấy rõ ràng Ma Lực, trong khi số khác lại không. Đa số ma pháp sư hay những người tương tự cũng chẳng thể cảm nhận được nó. Dĩ nhiên vẫn có những ngoại lệ như Lorraine cùng đôi mắt mẫn cảm đặc biệt của cô.
+Thật không ngờ Thánh Hỏa lại vô hình trước những ai không được Thần Lực ban phước... Nghĩ kỹ thì cũng hợp lý, tương tự như cách Ma Lực vận hành vậy. Có người nhìn rõ được Ma Lực, có người lại không. Đa số ma pháp sư hay những người tương tự cũng chẳng nhận biết được nó. Dĩ nhiên vẫn có ngoại lệ như Lorraine cùng đôi mắt nhìn thấu đặc biệt tinh tường của cô.
 
-Quan trọng hơn cả, việc tôi bị coi như một kẻ lập dị kỳ quặc có lẽ là phần đáng buồn nhất trong toàn bộ câu chuyện này.
+Quan trọng hơn cả, chuyện tôi bị xem như một kẻ lập dị kỳ quặc có lẽ là điều đáng buồn nhất trong cả mớ rắc rối này.
 
-"...Thôi nào. Thế là xong, ngài Sharl, ngài Rentt. Cả hai ngài đều không phải Ma Cà Rồng, và không còn bị bất kỳ nghi ngờ nào nữa nhé! Cảm ơn hai người đã nhiệt tình hợp tác," Nive nói, kết thúc phần giải thích của mình với vị thương nhân.
+"...Thôi được rồi. Thế là xong nhé, ngài Sharl, ngài Rentt. Cả hai ngài đều không phải Ma Cà Rồng, và đã hết bị nghi ngờ rồi! Cảm ơn hai vị đã nhiệt tình hợp tác," Nive nói, khép lại lời giải thích với vị thương nhân.
 
-Nive rất có thể đã giải thích rằng Thần Lực vốn vô hình, và sự việc khép lại bằng việc cả hai chúng tôi đều nhận được ban phước an lành vô hại mà không gặp sự cố nào, thế là xong xuôi.
+Nive hẳn đã giải thích rằng Thần Lực vốn vô hình, và mọi chuyện kết thúc bằng màn ban phước vô hại cho cả hai chúng tôi mà chẳng có sự cố nào, thế là xong xuôi.
 
-Sharl thì không nói làm gì, nhưng tôi mà thực sự hợp tác sao? Hừm...
+Sharl thì thôi đi, chứ tôi mà thực sự hợp tác sao? Hừm...
 
-Nỗi bất bình của tôi bằng cách nào đó đã lọt vào mắt Nive. Cô lắc đầu rồi đáp lại bằng một giọng điệu có phần ấm ức.
+Nỗi bất bình của tôi không hiểu sao đã bị Nive nhận ra. Cô lắc đầu rồi đáp lại bằng vẻ hơi ấm ức.
 
-"Ngài muốn tôi phải làm sao đây hả? Dẫu sao thì trước khi tới đây, tôi đâu có nghe nói gì về chuyện ngài được Thần Lực ban phước đâu, ngài Rentt. Thật lòng mà nói, tôi chỉ định lén dùng Thánh Hỏa kiểm tra xem có ai trong hai người là Ma Cà Rồng không, rồi lặng lẽ ra về mà chẳng hé răng nửa lời thôi. Tất nhiên, nếu phát hiện ra Ma Cà Rồng thật thì tôi sẽ lập tức tiêu diệt ngay rồi, ngài hiểu chứ. Trong chuyến đi thực tế nho nhỏ này chẳng có con Ma Cà Rồng nào bị tổn hại cả, chắc chắn là do tôi chưa trinh sát kỹ lưỡng từ trước rồi, đúng vậy. Nhưng mà... ngài cũng có lỗi đấy nhé, ngài biết không? Là một mạo hiểm giả sở hữu những kỹ năng đặc biệt đến thế mà lại không chịu đem ra dùng... Ừm, đúng là vậy đấy."
+"Giờ ngài muốn tôi phải làm sao đây? Trước khi tới đây tôi đâu có nghe ai nói ngài được Thần Lực ban phước đâu, ngài Rentt. Thật lòng mà nói, tôi chỉ định lén dùng Thánh Hỏa xem hai người có ai là Ma Cà Rồng không, rồi cứ thế về mà không nói lời nào thôi. Tất nhiên nếu thấy Ma Cà Rồng thật thì tôi sẽ trừ khử ngay rồi, mà nhỉ. Chuyến ra ngoài nho nhỏ này không có con Ma Cà Rồng nào bị sứt mẻ lông cánh, chắc chắn là do tôi chưa thăm dò kỹ từ trước rồi, đúng thật. Nhưng mà... ngài cũng có phần lỗi đấy chứ? Là mạo hiểm giả sở hữu năng lực đặc biệt thế này mà chẳng chịu dùng... Ừ, chuẩn luôn."
 
-Đó là lời tuyên bố một chiều của Nive.
+Nive cứ một mực tuyên bố ngang ngược như vậy đấy.
 
-Cô ta nói thế mà nghe được à! Bản thân Nive mới là kẻ dị thường nhất ở đây, vậy mà cô ta lại biến toàn bộ sự cố này thành lỗi của tôi.
+Nói thế mà nghe được à! Bản thân Nive mới là người bất thường nhất ở đây, vậy mà cô lại đổ hết mọi lỗi lầm lên đầu tôi.
 
-Phần lớn mạo hiểm giả được Thần Lực ban phước đều không đạt tới trình độ có thể vận dụng vào thực tế. Nếu sở hữu trữ lượng và kỹ năng cỡ đó, họ đã gia nhập hàng ngũ của thánh kỵ sĩ đoàn nào đó từ lâu rồi. Theo những gì tôi hiểu, nơi ấy trả thù lao rất hậu hĩnh, và địa vị xã hội của bản thân cũng sẽ được nâng cao đáng kể.
+Phần lớn mạo hiểm giả được Thần Lực ban phước đều không đạt tới trình độ có thể vận dụng vào thực tế. Nếu sở hữu trữ lượng và kỹ năng cỡ đó, họ đã gia nhập hàng ngũ thánh kỵ sĩ đoàn nào đó từ lâu lắm rồi. Theo tôi biết thì ở đó đãi ngộ rất hậu hĩnh, địa vị xã hội cũng được nâng lên rõ rệt.
 
-Thế nhưng nếu tôi không sở hữu Thần Lực, và không nhận ra ngọn lửa của cô ta... thì liệu điều đó có đồng nghĩa với việc Nive đã dễ dàng phát hiện ra tôi ngay từ đầu, rồi bất thình lình cắm một chiếc cọc nhọn nào đó xuyên qua tim tôi không?
+Thế nhưng nếu tôi không có Thần Lực và chẳng hề nhận ra ngọn lửa của cô... chẳng lẽ Nive đã có thể dễ dàng phát hiện ra tôi ngay từ đầu, rồi bất thình lình găm một chiếc cọc nhọn nào đó xuyên qua tim tôi sao?
 
-A... thật lòng mà nói. Việc tôi cất công tu sửa ngôi đền thờ ọp ẹp đó quả thực là một phúc lành... Tôi thực sự nên quay lại quét dọn nơi ấy thường xuyên hơn một chút... Dù sao thì tôi cũng được cứu nhờ chính nguồn Thần Lực bên trong cơ thể mình.
+A... đúng là phúc tổ. Chuyện tôi cất công sửa sang lại cái miếu thờ ọp ẹp đó quả là may mắn vô cùng... Tôi thật sự nên thỉnh thoảng quay lại dọn dẹp nơi ấy mới được... Dù sao thì tôi cũng thoát nạn nhờ nguồn Thần Lực bên trong cơ thể mà.
 
-Ít nhất thì tôi cảm thấy như vậy.
+Ít ra tôi cảm thấy là vậy.
 
-Chính vì Nive có thể làm được điều này nên cô ta mới có khả năng phát hiện ra những Ma Cà Rồng trà trộn giữa cư dân thị trấn bình thường. Đáng lẽ ngay từ đầu tôi phải suy nghĩ thấu đáo hơn về chuyện đó.
+Chính nhờ năng lực này mà Nive mới phát hiện ra Ma Cà Rồng trà trộn giữa người dân trong thị trấn. Đáng lẽ ngay từ đầu tôi phải nghĩ tới chuyện đó mới phải.
 
-Dù người ta đang nói đến là Nive Maris đi chăng nữa, thì việc bất thình lình châm lửa thiêu người ta giữa đường giữa phố rồi rêu rao rằng mình đang tìm kiếm Ma Cà Rồng, nghe cũng chẳng giống hành vi của một kẻ tỉnh táo cho lắm.
+Dù đối phương có là Nive Maris đi nữa, thì việc đùng một cái châm lửa đốt người ta giữa phố xá rồi bảo là đang tìm kiếm Ma Cà Rồng nghe cũng chẳng giống suy nghĩ của người bình thường chút nào.
 
-Dù sự thật là, đó chính xác là những gì Nive vừa làm...
+Khổ nỗi sự thật là Nive vừa làm y như vậy...
 
-Tôi hình dung ra cảnh cô ta phóng hỏa thiêu người, miệng không ngừng cười khúc khích trong suốt lúc đó. Một hình ảnh hiện lên sống động trong tâm trí tôi... Thật chẳng sai vào đâu được.
+Tôi hình dung ra cảnh cô vừa châm lửa đốt người vừa cười ha hả suốt lúc đó. Hình ảnh hiện lên rõ mồn một trong đầu tôi... Trông hợp với cô thật đấy.
 
-Hừm... Có lẽ tôi đang hơi có thành kiến quá mức rồi. Tôi còn chưa quen biết người phụ nữ này nổi một tiếng đồng hồ. Cơ mà một nửa nguyên do của chuyện này là bắt nguồn từ tính cách tệ hại của Nive đấy chứ. Tôi đã bảo là không muốn tham gia bài kiểm tra Ma Cà Rồng này, vậy mà cô ta vẫn cứ thế tiến hành.
+Hừm... Có lẽ tôi hơi định kiến quá rồi. Tôi còn chưa quen người phụ nữ này nổi một tiếng đồng hồ. Cơ mà một nửa cũng tại cái tính khó ưa của Nive thôi. Tôi đã bảo là không muốn tham gia bài kiểm tra Ma Cà Rồng này, vậy mà cô vẫn cứ tự tiện làm.
 
-"Hừm... Tôi không hiểu rõ lắm, nhưng có phải ý ngài là—xin hãy sửa lại nếu tôi nói sai—rằng Tiểu thư Nive đã cố tình hành động theo cách khiến ngài Rentt nghĩ rằng mình đang gặp nguy hiểm chăng?" Sharl dò hỏi.
+"Hừm... Tôi không hiểu lắm, nhưng xin cho hỏi—nếu tôi nói sai mong thứ lỗi—có phải ý ngài là Tiểu thư Nive đã cố tình làm thế khiến ngài Rentt tưởng mình gặp nguy hiểm chăng?" Sharl hỏi.
 
-Những nét giận dữ thoáng qua có thể thấy rõ trên gương mặt vị thương nhân. Sharl đang tức giận vì điều gì cơ chứ...? Tôi nghiêng đầu, không hiểu cho lắm.
+Trên gương mặt vị thương nhân thoáng hiện nét giận dữ. Sharl giận cái gì cơ chứ...? Tôi nghiêng đầu, không hiểu lắm.
 
-"Miễn là hai ngài không phải Ma Cà Rồng," Nive lên tiếng, "thì chẳng có vấn đề gì cả. Ngay từ đầu tôi đã không hề có ý định làm hại bất kỳ ai rồi. Nhưng ngài thấy đấy, nhìn phản ứng của ngài Rentt, tôi lại có linh cảm như vậy, và mọi chuyện đã diễn ra đúng như thế. Tôi xin lỗi cả hai ngài về chuyện đó... Đặc biệt là ngài đấy, ngài Sharl. Vì đã yêu cầu ngài làm tất cả những điều vừa rồi."
+"Miễn là hai ngài không phải Ma Cà Rồng," Nive lên tiếng, "thì chẳng có vấn đề gì cả. Ngay từ đầu tôi đã không hề có ý định làm hại ai rồi. Cơ mà nhìn phản ứng của ngài Rentt, tôi lại thấy ngờ ngợ, thành ra mọi chuyện mới diễn biến như thế. Tôi xin lỗi cả hai ngài về chuyện đó nhé... Nhất là ngài đấy, ngài Sharl. Vì đã bắt ngài phải làm ngần ấy việc."
 
-Rốt cuộc chuyện này là thế nào? Nhưng trước khi tôi kịp suy ngẫm, Myullias đã nhanh chóng bổ sung thêm vào lời giải thích của Nive.
+Rốt cuộc là sao chứ? Nhưng chưa đợi tôi kịp ngẫm nghĩ, Myullias đã nhanh chóng đỡ lời giải thích của Nive.
 
-"Nếu tôi mạo muội được nói, thì nhiều khả năng tôi được đưa theo cùng như một công cụ nhằm tận dụng uy thế của Giáo Hội Lobelia. Đối với một thương nhân, giáo hội là... Điều này hơi khó để tôi mở lời, nhưng nếu có thể diễn đạt theo cách này, thì việc chống lại giáo hội gần như là điều bất khả thi. Dù Giáo Hội Lobelia không có nhiều tầm ảnh hưởng tại Vương Quốc Yaaran này, nhưng đó vẫn là một tổ chức tôn giáo quy mô lớn, cắm rễ sâu rộng khắp mọi vùng đất. Số lượng tín đồ thuộc hàng ngũ giáo hội là vô cùng đông đảo. Nếu một vài động thái can thiệp được triển khai, chắc chắn sẽ gây ra muôn vàn khó khăn cho một thương nhân kinh doanh buôn bán giữa các vương quốc như ngài Sharl. Sẽ chẳng có gì khó khăn để giáo hội tạo ra những biến cố như vậy nếu họ thực sự mong muốn."
+"Xin mạo muội cho tôi được nói, nhiều khả năng tôi được dắt theo cùng là để mượn oai Giáo Hội Lobelia. Đối với một thương nhân, giáo hội là... Nói ra điều này hơi khó, nhưng chống lại giáo hội gần như là chuyện bất khả thi. Dù Giáo Hội Lobelia không có nhiều ảnh hưởng tại Vương Quốc Yaaran này, nhưng đây vẫn là một tổ chức tôn giáo lớn, cắm rễ khắp mọi vùng đất. Hàng ngũ tín đồ của giáo hội vô cùng đông đảo. Nếu có vài động thái gây sức ép, chắc chắn một thương nhân kinh doanh buôn bán giữa các vương quốc như ngài Sharl sẽ gặp muôn vàn khó khăn. Giáo hội mà muốn thì việc đó chẳng có gì khó khăn cả."
 
-Nive có vẻ thực sự ấn tượng trước lời giải thích của Myullias.
+Nive tỏ ra thật sự ấn tượng trước lời giải thích của Myullias.
 
-"Không ngờ Tiểu thư Myullias lại đưa ra một lời giải thích như vậy đấy nhé, hừm hừm! Tôi cứ ngỡ cô là mẫu người sống chết tuân theo giáo lý của Lobelia cơ đấy..."
+"Không ngờ Tiểu thư Myullias lại giải thích thẳng thắn thế đấy nhé, hừm hừm! Tôi cứ tưởng cô thuộc tuýp người sống chết vì giáo lý Lobelia cơ đấy..."
 
-Nive liền nhanh chóng quay sang tôi. "Thế nên, sự tình là như vậy đấy, ngài thấy chưa? Đừng trách ngài Sharl quá nhiều nhé. Ông ấy thực ra đã làm đủ mọi cách để ngăn tôi gặp ngài đấy, Rentt! Khi tôi đưa ra yêu cầu, ông ấy hết viện lý do này đến lý do nọ. Hễ có cơ hội là ông ấy lại lảng tránh vấn đề. Tôi đến phát ngán lên được... Vì thế tôi đành phải nhờ vả vài mối quan hệ bên Giáo Hội Lobelia đấy, ngài thấy không? Nhờ họ can thiệp giúp đỡ này nọ. Tôi cũng đã hứa với ông ấy rằng sẽ không làm bất cứ điều gì khiến ngài lâm vào cảnh nguy hiểm, hay làm tổn thương ngài. Hơn nữa, tôi thực sự rất muốn gặp ngài, ngài Rentt à. Thật đấy! Nếu ngài thực sự là một Ma Cà Rồng, tôi sẽ âm thầm thủ tiêu ngài ở một nơi nào đó không có mắt người dòm ngó, ngài hiểu chứ."
+Nive lập tức quay sang tôi. "Thế nên sự tình là vậy đấy! Đừng trách ngài Sharl quá nhé. Thật ra ông ấy đã tìm đủ cách ngăn tôi gặp ngài đấy, Rentt! Khi tôi đưa ra yêu cầu, ông ấy hết viện cớ này lại tới cớ nọ. Cứ hở ra là lảng tránh. Tôi đến là bất lực... nên mới phải nhờ cậy chút quan hệ bên Giáo Hội Lobelia đấy chứ. Nhờ họ đánh tiếng giúp này nọ. Tôi cũng đã cam đoan với ông ấy là sẽ không làm gì nguy hiểm hay làm tổn thương ngài rồi. Hơn nữa tôi thật lòng muốn gặp ngài mà, ngài Rentt. Thật đấy! Nếu ngài đúng là Ma Cà Rồng thì tôi đã lặng lẽ trừ khử ngài ở nơi kín đáo không ai thấy rồi cơ."
 
-"À mà, tiện đã giải thích tất cả những chuyện này, tôi cũng nên tiết lộ cho ngài biết bí mật nhỏ này luôn. Ngài Sharl đây thực ra đã cảm thấy có điều gì đó bất thường rồi, ngài biết đấy? Dù sao thì tôi cũng nổi tiếng mà lị. Bởi vậy nên ông ấy không đời nào cho phép một mình tôi gặp mặt ngài đâu, Rentt. Đó là lý do vì sao ông ấy cũng có mặt ở đây, đúng không nào? Nói cách khác, Sharl, với tư cách là người đứng đầu Thương hội Stheno, muốn có mặt tại đây để bảo vệ thân chủ của mình, ngay cả khi điều đó đồng nghĩa với việc chính ông ấy cũng có thể gặp nguy hiểm. Một người đàn ông tốt bụng đấy chứ, phải không? Khác hẳn với vẻ ngoài của ông ấy."
+"À mà đã trót giải thích thì tôi tiết lộ cho ngài bí mật nhỏ này luôn. Thật ra ngài Sharl đây cũng thấy có điểm bất thường đấy chứ, dù sao tôi cũng nổi danh mà. Thế nên ông ấy không đời nào để một mình tôi gặp ngài đâu, Rentt. Vì vậy ông ấy mới có mặt ở đây, đúng không nào? Nói cách khác, với tư cách là người đứng đầu Thương hội Stheno, Sharl muốn ở đây để bảo vệ khách hàng của mình, kể cả khi chính ông ấy cũng có thể gặp nguy hiểm. Tốt bụng ghê chưa? Khác hẳn cái vẻ bề ngoài của ông ấy."
 
-Thật là... bất ngờ ngoài dự liệu.
+Thật... ngoài dự liệu.
 
-Sharl sở hữu vẻ ngoài trông khá nghiêm nghị và khắt khe. Dù vậy, ông ta có vẻ rất biết điều, và những biểu cảm đồng cảm thường xuyên xuất hiện trên khuôn mặt ông. Tôi từng nghĩ tất cả những thứ đó chỉ là vỏ bọc bên ngoài, và rằng ông ta thực chất là một gã thương nhân mưu mô, quỷ quyệt, thế nhưng thực tế lại hơi khác một chút. Nói đúng hơn thì, Sharl là một thương nhân tốt bụng và chính trực.
+Trông Sharl khá nghiêm nghị và khó tính. Dù vậy, ông lại tỏ ra rất biết điều, trên gương mặt thường xuyên lộ rõ vẻ thấu hiểu cảm thông. Tôi từng ngỡ tất cả chỉ là vỏ bọc, rằng ông kỳ thực là một thương nhân mưu mô toan tính, nào ngờ thực tế lại hơi khác. Trái lại, Sharl là một thương nhân lương thiện và chính trực.
 
-Phải chăng đó là lý do vì sao thương hội của ông ta lại làm ăn phát đạt đến vậy?
+Phải chăng vì thế mà thương hội của ông lại làm ăn phát đạt đến vậy?
 
-Nghĩ lại thì, các tầng bày bán phía dưới quả thực trưng bày rất nhiều mặt hàng phong phú, chất lượng lại chẳng hề tầm thường chút nào. Những cửa hàng chỉ muốn kiếm tiền nhanh chóng nhiều khả năng sẽ trữ ít hàng tồn hơn. Việc Thương hội Stheno không làm như vậy cho thấy nơi này được gầy dựng từ sự chăm chỉ cần mẫn và giao thương chân chính.
+Nghĩ lại thì các tầng bán hàng bên dưới quả thực có đủ loại mặt hàng phong phú, chất lượng cũng chẳng hề xoàng xĩnh. Những tiệm chỉ cốt kiếm lời chớp nhoáng ắt sẽ không nhập nhiều hàng đến thế. Thương hội Stheno không làm vậy, chứng tỏ nơi này được gây dựng từ mồ hôi công sức và buôn bán chân chính.
 
-Tôi liếc nhìn Sharl. Dù trông ông ta giống một thương nhân đầy toan tính mưu đồ, nhưng gương mặt ấy lúc này lại tràn ngập vẻ áy náy, thậm chí là hối lỗi.
+Tôi liếc nhìn Sharl. Dù vẻ ngoài trông như một thương nhân đầy toan tính, nhưng lúc này gương mặt ông lại lộ rõ vẻ áy náy, thậm chí là day dứt.
 
-"...Những gì người này nói có thật không?" tôi hỏi.
+"...Những lời người này nói là thật sao?" tôi hỏi.
 
-"...Đúng là vậy. Tôi... Tôi không thể làm gì hơn được nữa. Nếu đó chỉ là chuyện liên quan đến riêng bản thân tôi, có lẽ tôi đã nghĩ ra được cách xoay xở. Nhưng đem cửa tiệm ra làm khiên chắn... Tôi... Tôi còn có các nhân viên! Và họ đều có gia đình cả! Tôi có nghĩa vụ phải bảo vệ cửa tiệm này, bảo vệ thương hội này của chúng tôi. Tuy nhiên, chúng tôi cũng có nghĩa vụ phải bảo vệ khách hàng của mình. Đó... chính là lý do vì sao tôi có mặt ở đây," Sharl đáp lời, xác nhận tình cảnh thực tế lúc này.
+"...Đúng là vậy. Tôi... tôi chẳng thể làm gì hơn được. Nếu chỉ là chuyện liên quan đến riêng mình, có lẽ tôi đã nghĩ ra cách xoay xở. Nhưng lấy cửa tiệm ra làm bia ép... Tôi... tôi còn có các nhân viên! Ai nấy đều có gia đình cả! Tôi có nghĩa vụ phải bảo vệ cửa tiệm này, bảo vệ thương hội của chúng tôi. Thế nhưng chúng tôi cũng có trách nhiệm phải bảo vệ khách hàng của mình nữa. Đó... chính là lý do tôi có mặt ở đây," Sharl đáp lời, thừa nhận sự việc.
 
-Miễn là tôi không bị coi là Ma Cà Rồng thì chẳng có vấn đề gì xảy ra cả. Tôi cảm thấy Sharl chẳng có lý do gì để phải làm đến mức này. Dường như ông ấy có lòng tự trọng của một thương nhân, và chính điều đó đã dẫn đến những hành động của ông.
+Miễn sao tôi không bị coi là Ma Cà Rồng thì mọi chuyện vẫn ổn thỏa. Tôi thấy Sharl vốn chẳng việc gì phải làm đến nước này. Nhưng có vẻ như ông có lòng tự trọng của một thương nhân, nên mới hành động như vậy.
 
-Đứng trước những lựa chọn đó, tôi chẳng khác nào bị đem ra làm vật tế thần. Có thể nói theo cách ấy. Dù cả hai chúng tôi rốt cuộc đều cùng ngồi trên một chiếc thuyền nguy hiểm, nhưng có vẻ như ông ấy cảm thấy áy náy vì đã lôi tôi vào chuyện này, và đó rất có thể là lý do vì sao ông ấy lại đưa ra cho tôi mọi ưu đãi nhượng bộ ngay từ lúc bắt đầu cuộc gặp...
+Đứng trước những lựa chọn đó, tôi bị đem ra làm vật tế thần. Nói một cách trần trụi thì là vậy. Dù rốt cuộc cả hai đều cùng nằm trên thớt, nhưng có vẻ Sharl rất áy náy vì đã lôi tôi vào mớ bòng bong này, thảo nào ngay từ đầu buổi gặp ông đã nhượng bộ cho tôi nhiều ưu đãi đến thế...
 
-Cả việc điều tra tường tận về lai lịch của tôi nữa. Phải chăng Sharl đã nhận thấy có điều gì đó bất thường về xuất thân của tôi, và làm như vậy nhằm mục đích chuẩn bị tinh thần cho những gì có thể xảy ra sau buổi gặp mặt này chăng...?
+Cả chuyện điều tra cặn kẽ lai lịch của tôi nữa. Phải chăng Sharl nhận thấy gốc gác của tôi có điểm mờ ám, nên mới làm thế để chuẩn bị cho những gì có thể ập đến sau cuộc gặp...?
 
-A, nhưng sẽ thật tức cười nếu ông ta đang chuẩn bị kế hoạch cho một tang lễ đúng theo phong tục tập quán. Tôi vốn dĩ đã chết rồi mà.
+A, cơ mà nếu ông định chuẩn bị một đám tang đúng phong tục quê tôi thì buồn cười phải biết. Tôi vốn đã chết rồi còn đâu.
 
-...Một trò đùa chẳng hay ho gì đâu, Rentt Faina ơi...
+...Đùa chẳng hay ho gì đâu, Rentt Faina...
 
-Có lẽ Sharl lo ngại về khả năng tôi còn có người nhà, và định báo cho họ biết số phận của tôi nếu chẳng may xảy ra chuyện gì chăng. Đương nhiên đó chỉ là suy đoán của riêng tôi mà thôi, nhưng nhìn Sharl lúc này, tôi sẽ chẳng hề ngạc nhiên nếu ông ấy thực sự làm một chuyện như thế.
+Có lẽ Sharl lo tôi vẫn còn gia đình, nên định báo tin cho người nhà nếu chẳng may tôi gặp chuyện. Đương nhiên đó chỉ là suy đoán của tôi thôi, nhưng nhìn Sharl lúc này, ông có làm vậy thật tôi cũng chẳng thấy lạ.
 
-Rồi tôi lại nghĩ đến việc bản thân vị thương nhân rất có thể đã mất mạng nếu sơ sẩy đi sai một bước... Tôi có linh cảm rằng Nive chẳng hề có lấy một mảy may khoan dung nào dành cho những kẻ đồng lõa với Ma Cà Rồng, dù chỉ trong một khoảnh khắc ngắn ngủi. Tôi có thể cảm nhận được mức độ căm thù mãnh liệt của cô ta từ cái cách cô ta đặt ra những câu hỏi này, cũng như cách cô ta xử lý toàn bộ sự việc.
+Rồi tôi lại nghĩ, chỉ cần sơ sẩy một bước là chính vị thương nhân cũng có thể mất mạng... Tôi có linh cảm Nive chẳng bao giờ nương tay cho những kẻ bao che Ma Cà Rồng, dù chỉ nửa phần. Cứ nhìn cách cô dồn dập chất vấn và xử lý mọi chuyện từ nãy đến giờ là đủ thấy mối căm thù của cô sâu sắc đến chừng nào.
 
-Thế nhưng, thật không ngờ cô ta lại đi kể hết mọi chuyện này cho tôi nghe...
+Thế mà không ngờ cô lại đi kể hết mọi chuyện cho tôi nghe...
 
-Tôi nhìn thẳng vào Nive, thẳng thừng chất vấn.
+Tôi nhìn thẳng vào Nive, hỏi thẳng.
 
-"Tôi nghĩ mình đã nắm được tình hình rồi. Vì một lý do nào đó, cô đã nghi ngờ sâu sắc rằng tôi là một Ma Cà Rồng nào đó. Dẫu tôi không thực sự hợp tác với cô cho lắm, nhưng sự trong sạch của tôi đã được chứng minh. Giờ thì, tôi có thể hỏi liệu có lý do nào đằng sau... ừm, tất cả những chuyện này không?"
+"Tôi nghĩ mình đã nắm được phần nào tình hình rồi. Chẳng rõ vì sao cô lại nghi ngờ tôi là Ma Cà Rồng dữ dội đến thế. Dẫu tôi không hẳn là hợp tác với cô, nhưng sự trong sạch của tôi cũng đã được chứng minh. Giờ thì, tôi có thể hỏi nguyên do đằng sau... ừm, tất cả những chuyện này được không?"
 
-Đó là những gì phương pháp phân biệt Ma Cà Rồng của cô ta khẳng định. Dĩ nhiên là nó sai bét rồi.
+Đó là kết luận từ phương pháp nhận biết Ma Cà Rồng của cô. Dĩ nhiên kết luận đó sai bét rồi.
 
-Dù sự việc đã kết thúc với một kết quả có lợi cho tôi, tôi vẫn muốn biết lý do vì sao Nive lại nghi ngờ mình, nếu quả thực có lý do. Nếu không tìm hiểu rõ ràng ngay tại đây và vào lúc này, chuyện tương tự có thể sẽ lại xảy ra trong tương lai.
+Dù mọi chuyện đã kết thúc êm thấm theo hướng có lợi cho tôi, tôi vẫn muốn biết lý do Nive nghi ngờ mình, nếu thật sự có lý do. Nếu không làm rõ ngay lúc này, biết đâu sau này lại xảy ra chuyện tương tự.
 
-Chưa kể vận xui vô bờ bến của tôi nữa chứ... Tôi không hề muốn phạm phải bất kỳ sai lầm chết người nào chỉ vì trót quên xác nhận dù chỉ một chi tiết.
+Huống hồ số tôi vốn đen đủ đường... Tôi đâu muốn phạm phải sai lầm chết người chỉ vì trót quên làm rõ một chi tiết nhỏ.
 
-"Ồ, được thôi. Tôi cho rằng ngài có quyền được biết. Thêm vào đó, bản thân tôi cũng có một thỉnh cầu nho nhỏ của riêng mình. Ngài còn nhớ việc ngài Sharl từng nói tôi đang tìm kiếm những mạo hiểm giả sở hữu năng lực nhất định không, đúng chứ? Điều đó, ngài thấy đấy, không hẳn là một lời nói dối đâu..."
+"Ồ, được chứ. Tôi nghĩ ngài có quyền được biết mà. Với lại tôi cũng có một thỉnh cầu nho nhỏ của riêng mình nữa. Ngài còn nhớ ngài Sharl từng bảo tôi đang tìm mạo hiểm giả có năng lực nhất định không? Chuyện đó thật ra cũng chẳng hẳn là nói dối đâu..."
