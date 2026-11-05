@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T10:35:49Z",
+  "generatedAt": "2026-11-05T10:44:46Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3076,19 +3076,19 @@
           "number": 154,
           "title": "Chương 154: Ngoại truyện Tập 6 - Lòng Tốt Thừa Thãi",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_154.md",
-          "sha": "a58a0235bb90963f08609eb6dcbbe979816dd8a7"
+          "sha": "e5aaf431cd4f7792a0b98593d4eaebce929fb537"
         },
         {
           "number": 155,
           "title": "Chương 155: Tập 7 Chương 1 - Vương Đô Vistelya (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_155.md",
-          "sha": "4b3038953159b8103c8ea2925a3194702dfdb601"
+          "sha": "c58b54860613fb4de82658022ba0b39ceccb08b5"
         },
         {
           "number": 156,
           "title": "Chương 156: Tập 7 Chương 1 - Vương Đô Vistelya (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_156.md",
-          "sha": "14a609cd7781a8943ec5fe3d7bb1e140b6b1ffd5"
+          "sha": "57bfa15ea084c0d1a0daeefca13a1ac77a992f06"
         },
         {
           "number": 157,
