@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T05:12:28Z",
+  "generatedAt": "2026-11-05T05:22:16Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2860,19 +2860,19 @@
           "number": 118,
           "title": "Chương 118: Tập 5 Chương 1 - Lên Đường Mạo Hiểm (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_118.md",
-          "sha": "34fb612065c0e4e2a6075fc3f5da3af4fe1636b4"
+          "sha": "068a00ce7e15020d57c6da09162d24067f18011a"
         },
         {
           "number": 119,
           "title": "Chương 119: Tập 5 Chương 1 - Lên Đường Mạo Hiểm (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_119.md",
-          "sha": "9c7fb3c12f02f0b96a7085fa89bdc8ccde61df42"
+          "sha": "dc66b2b0ad6e7beffa390f007eef35b8a6940f50"
         },
         {
           "number": 120,
           "title": "Chương 120: Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_120.md",
-          "sha": "b8cf57fcd61d5a50d8e406746359c58432f1d29e"
+          "sha": "8489010cb147ac3cea758f491537188d817b4ce2"
         },
         {
           "number": 121,

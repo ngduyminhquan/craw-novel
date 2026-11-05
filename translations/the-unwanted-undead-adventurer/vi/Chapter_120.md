@@ -1,12 +1,12 @@
 # Chương 120: Tập 5 Chương 2 - Chế Tạo Vật Dẫn (1)
 
-Rốt cuộc, chúng tôi chốt chọn kiếm và dao găm cho Alize. Chúng tôi cũng báo trước với Clope và Luka rằng mình sẽ rời Maalt một thời gian, nên họ cứ thong thả hoàn thiện số vũ khí. Đằng nào thì Alize cũng chưa đụng tới chúng được cho đến khi tôi với Lorraine trở về từ Hathara. Nói là vậy, trước lúc lên đường chúng tôi vẫn còn chút thời gian để kèm cặp cho cô bé, và khi đó Alize có thể mượn tạm kiếm với dao găm của một trong hai chúng tôi. Chắc chúng tôi vẫn còn vài món trang bị cũ, mang đi đánh quái thì không ổn chứ để tập luyện thì thừa sức. Tạm thời thế là đủ rồi.
+Rốt cuộc, chúng tôi chốt chọn kiếm và dao găm cho Alize. Chúng tôi cũng báo trước với Clope và Luka rằng mình sẽ rời Maalt một thời gian, nên họ cứ thong thả hoàn thiện số vũ khí. Đằng nào thì Alize cũng chưa đụng tới chúng được cho đến khi tôi với Lorraine trở về từ Hathara. Nói là vậy, trước lúc lên đường chúng tôi vẫn còn chút thời gian để kèm cặp cho cô bé, và khi đó Alize có thể mượn tạm kiếm với dao găm của một trong hai chúng tôi. Chắc chúng tôi vẫn còn vài món trang bị cũ, mang đi đánh quái vật thì không ổn chứ để tập luyện thì thừa sức. Tạm thời thế là đủ rồi.
 
-Tôi cũng hỏi ý kiến Clope về chuyện áo giáp, nhưng anh ấy bảo Alize mặc giáp da hoặc áo choàng thì hơn. Sau này dao găm và ma thuật sẽ là phương thức chiến đấu chính của cô bé, nên đồ nhẹ một chút sẽ hợp hơn nhiều. Clope có giới thiệu một tiệm giáp khác, nhưng vì trong ngày không còn nhiều thời gian nên chúng tôi quyết định để khi khác ghé qua. Trước mắt vẫn còn việc khác cần lo.
+Tôi cũng hỏi ý kiến Clope về chuyện áo giáp, nhưng anh ấy bảo Alize mặc giáp da hoặc áo choàng thì hơn. Sau này dao găm và ma thuật sẽ là phương thức chiến đấu chính của cô bé, nên đồ nhẹ một chút sẽ hợp hơn nhiều. Clope có giới thiệu một tiệm giáp khác, nhưng vì hôm nay chẳng còn mấy thời gian nên chúng tôi quyết định để khi khác ghé qua. Trước mắt vẫn còn việc khác cần lo.
 
 "Giờ là lúc chế tạo vật dẫn ma pháp rồi đây. Hai người sẵn sàng chưa?" Lorraine hỏi.
 
-Rời tiệm Clope, chúng tôi quay về phòng khách nhà Lorraine. Lorraine kê một chiếc bàn lớn cùng tấm bảng viết, tay cầm que chỉ trong lúc hướng dẫn từng bước cho chúng tôi. Tấm bảng là một ma cụ có thể vẽ chữ với hình lên rồi xóa đi xóa lại nhiều lần. Nghĩ rằng minh họa bằng hình ảnh sẽ giúp người ta dễ hình dung quy trình làm đũa phép nhất, Lorraine đã lôi tấm bảng từ xó nào đó ra. Món này chắc chắn chẳng rẻ chút nào, nhưng không rõ liệu học giả nào cũng có một chiếc hay không. Tôi thì biết sao được, chỉ thấy Lorraine có một cái nên cứ tạm coi là vậy.
+Rời tiệm Clope, chúng tôi quay về phòng khách nhà Lorraine. Lorraine kê một chiếc bàn lớn cùng tấm bảng viết, tay cầm que chỉ trong lúc hướng dẫn từng bước cho chúng tôi. Tấm bảng là một ma cụ có thể viết chữ với vẽ hình lên rồi xóa đi xóa lại nhiều lần. Nghĩ rằng minh họa bằng hình ảnh sẽ giúp người ta dễ hình dung quy trình làm đũa phép nhất, Lorraine đã lôi tấm bảng từ xó nào đó ra. Món này chắc chắn chẳng rẻ chút nào, nhưng không rõ liệu học giả nào cũng có một chiếc hay không. Tôi thì biết sao được, chỉ thấy Lorraine có một cái nên cứ tạm coi là vậy.
 
 "Dạ, em sẵn sàng rồi ạ!" Alize reo lên.
 
@@ -16,7 +16,7 @@ Lorraine nhìn cô bé với vẻ hài lòng rồi quay sang tôi. "Còn anh th�
 
 "Hăng hái lên một chút xem nào," cô giục, nhưng tôi chỉ nhìn cô đầy vẻ phản đối. Cô lập tức chĩa que về phía tôi. "Anh nhất quyết chống đối đấy à?"
 
-Tôi đành bỏ cuộc. "Rõ, tôi sẵn sàng rồi!" tôi gào to hết cỡ buồng phổi. Alize bật cười.
+Tôi đành bỏ cuộc. "Rõ, tôi sẵn sàng rồi!" tôi lấy hết hơi gào to hết cỡ. Alize bật cười.
 
 Tất nhiên là chúng tôi chỉ đùa chút thôi. Sau đó, tôi với Lorraine quay lại vẻ nghiêm túc thường ngày để tiếp tục bài giảng.
 
@@ -24,7 +24,7 @@ Tất nhiên là chúng tôi chỉ đùa chút thôi. Sau đó, tôi với Lorra
 
 Thấy hai chúng tôi im lặng gật đầu, Lorraine tiếp lời: "Tốt. Vậy chúng ta bắt đầu luôn nhé. Trước tiên, để tôi làm mẫu cho hai người xem." Cô với tay vào đống nguyên liệu tôi thu thập, lấy ra một khúc gỗ Ent Bụi Cây cùng viên Ma Tinh của Orc Binh.
 
-"Đây là toàn bộ nguyên liệu cần thiết cho một vật dẫn cơ bản. Muốn đi sâu vào từng chi tiết tỉ mỉ thì chuyện này cũng có khối điều để nói, nhưng tạm thời hai người chưa cần biết đến. Được rồi, bắt đầu nhé. Trước tiên, tôi sẽ vẽ một ma pháp trận lên tấm bảng này," Lorraine nói rồi gõ nhẹ que chỉ vào bảng viết. Một ma pháp trận đơn giản ghép từ các hình tròn, tam giác và hình vuông lập tức hiện lên. Tiếp đó, cô dùng bút lông vẽ lại đúng ma pháp trận ấy lên một tấm bảng đặt trên bàn. Tấm bảng trông như làm bằng đồng thau, và nét mực ma pháp trận nhanh chóng thấm sâu vào bề mặt.
+"Đây là toàn bộ nguyên liệu cần thiết cho một vật dẫn cơ bản. Muốn đi sâu vào từng chi tiết tỉ mỉ thì chuyện này cũng có khối điều để nói, nhưng tạm thời hai người chưa cần biết đến. Được rồi, bắt đầu nhé. Trước tiên, tôi sẽ vẽ một ma pháp trận lên tấm bảng này," Lorraine nói rồi gõ nhẹ que chỉ vào bảng viết. Một ma pháp trận đơn giản ghép từ các hình tròn, tam giác và hình vuông lập tức hiện lên. Tiếp đó, cô dùng bút lông vẽ lại đúng ma pháp trận ấy lên một tấm bảng đặt trên bàn. Tấm bảng trông như làm bằng đồng, và nét mực ma pháp trận nhanh chóng thấm sâu vào bề mặt.
 
 "Thử chạm vào xem," Lorraine bảo, và Alize liền làm theo. Nét mực đã khô cong, trông như thể hoa văn vốn gắn liền với tấm bảng tự bao giờ, khiến cô bé vô cùng ngạc nhiên.
 
@@ -46,11 +46,11 @@ Trông cô rót Ma Lực nhẹ tênh như chẳng tốn chút sức lực nào, 
 
 "Ừ, đơn giản lắm," cô bảo Alize. Tôi chẳng rõ cô nói thật hay tính bắt Alize khổ luyện để học cho bằng được trong thời gian ngắn. Dù thế nào đi nữa, câu nói đó nghe cũng rợn cả người.
 
-"Giờ thì tới bước tiếp theo," Lorraine nói khi ma pháp trận đã nhận đủ Ma Lực. Cô nhặt viên Ma Tinh đặt lên vòng tròn ma pháp trận. Viên đá bắt đầu phát sáng.
+"Giờ thì tới bước tiếp theo," Lorraine nói khi ma pháp trận đã nhận đủ Ma Lực. Cô nhặt viên Ma Tinh đặt lên ma pháp trận. Viên đá bắt đầu phát sáng.
 
 "Oa," Alize khẽ trầm trồ.
 
-"Ma Tinh thô không thể dùng làm vật dẫn ngay được, nên mình phải để nó hấp thụ ma pháp trận. Cứ để mặc ở đó một lúc cũng được thôi, nhưng hôm nay làm cho xong nhanh luôn nhé," Lorraine nói rồi đưa hai tay ra ngay trước viên Ma Tinh. Cô lại điều khiển Ma Lực thêm lần nữa. Viên Ma Tinh bừng sáng rực rỡ hơn trong vài giây rồi lịm dần, đúng lúc ấy Lorraine nhặt viên đá lên ngắm nghía.
+"Ma Tinh thô không thể dùng làm vật dẫn ngay được, nên chúng ta phải để nó hấp thụ ma pháp trận. Cứ để mặc ở đó một lúc cũng được thôi, nhưng hôm nay làm cho xong nhanh luôn nhé," Lorraine nói rồi đưa hai tay ra ngay trước viên Ma Tinh. Cô lại điều khiển Ma Lực thêm lần nữa. Viên Ma Tinh bừng sáng rực rỡ hơn trong vài giây rồi lịm dần, đúng lúc ấy Lorraine nhặt viên đá lên ngắm nghía.
 
 "Được rồi, thế này là xong. Em có muốn xem thử không?" cô hỏi rồi đưa viên Ma Tinh cho Alize. Cô bé đón lấy, nhìn viên đá với vẻ hơi ngỡ ngàng.
 
@@ -86,7 +86,7 @@ Alize lắc đầu. "Dạ không sao đâu ạ, ít nhất em cũng biết đây
 
 "Cũng biết chút đỉnh thôi. Tôi vốn thích đọc mấy cuốn sách của Lorraine mà. Đọc suốt mười năm ròng nên cũng tích lũy được đôi ba điều," tôi nói.
 
-Cụ thể tôi biết được đến đâu thì trong mắt thường dân, tôi có thể là kẻ khá hiểu biết. Nhưng trước một người như Lorraine, tôi cũng chỉ đủ sức tiếp chuyện với cô ấy thôi. Kiến thức liên quan tới mạo hiểm giả ở thành phố này thì tôi có thừa, chứ học thuật lại nằm ngoài sở trường của tôi. Hồi ở quê nhà Hathara, trưởng làng cùng một bà lão bốc thuốc từng dạy tôi chút học vấn vỡ lòng, vừa đủ để tôi tự đọc sách của Lorraine, chứ chẳng có gì to tát.
+Nói cụ thể xem tôi học được đến đâu, thì trong mắt người bình thường, có lẽ tôi cũng thuộc diện hiểu biết kha khá. Nhưng trước một người như Lorraine, tôi cũng chỉ đủ sức tiếp chuyện với cô ấy thôi. Kiến thức liên quan tới mạo hiểm giả ở thành phố này thì tôi có thừa, chứ học thuật lại nằm ngoài sở trường của tôi. Hồi ở quê nhà Hathara, trưởng làng cùng một bà lão bốc thuốc từng dạy tôi chút học vấn vỡ lòng, vừa đủ để tôi tự đọc sách của Lorraine, chứ chẳng có gì to tát.
 
 Lorraine lại không nghĩ vậy. "Rentt cừ lắm đấy chứ. Làm sao một người như anh ấy lại lớn lên ở cái làng hẻo lánh nơi đồng không mông quạnh như thế thì đúng là bí ẩn," cô khen tôi.
 
@@ -98,7 +98,7 @@ Lorraine lùi lại một bước. "Phải rồi. Hình như vừa nãy dừng �
 
 "Thế ạ?" Alize hỏi.
 
-"Ừ. Ví dụ cách cổ điển nhất là tự gọt đẽo bằng tay. Em có thể dùng dao hoặc dụng cụ khác để tạo hình theo ý thích. Ngày xưa người ta toàn làm vậy, nhưng tốn thời gian lắm, mà sơ sẩy một chút là hỏng bét ngay. Tôi không khuyến khích đâu, dẫu một người thợ lành nghề có thể làm ra những cây đũa phép tuyệt đỉnh bằng cách đó. Sau này muốn trở thành nghệ nhân thì em có thể thử, còn giờ mình chỉ học căn bản thôi nên chưa cần đi đường đó đâu," Lorraine thao thao bất tuyệt một hồi.
+"Ừ. Ví dụ cách cổ điển nhất là tự gọt đẽo bằng tay. Em có thể dùng dao hoặc dụng cụ khác để tạo hình theo ý thích. Ngày xưa người ta toàn làm vậy, nhưng tốn thời gian lắm, mà sơ sẩy một chút là hỏng bét ngay. Tôi không khuyến khích đâu, dẫu một người thợ lành nghề có thể làm ra những cây đũa phép tuyệt đỉnh bằng cách đó. Sau này muốn trở thành nghệ nhân thì em có thể thử, còn giờ chúng ta chỉ tập trung vào căn bản thôi nên chưa cần đi đường đó đâu," Lorraine thao thao bất tuyệt một hồi.
 
 "Cách dễ hơn và phổ biến hơn là dùng ma thuật để tạo hình đũa phép. Ví dụ như thế này này," cô nói rồi bắt đầu rót Ma Lực vào khúc gỗ Ent Bụi Cây. Cô đợi đến khi khúc gỗ ngấm đủ Ma Lực, rồi dùng chính Ma Lực tách lấy một phần gỗ, nâng nó lơ lửng giữa không trung. Mẩu gỗ dài cỡ một cây đũa phép thông thường, chừng ba mươi centimet. Cô tiếp tục điều khiển Ma Lực gọt giũa phần gỗ đó từng chút một. Ma Lực quấn quanh mẩu gỗ theo hình xoắn ốc, dần uốn nắn nó thành hình cây đũa phép. Lớp vỏ cây được sắp đặt khéo léo để tạo thành bề mặt bên ngoài của đũa, một đầu thon nhỏ rồi dày dặn dần về phía đầu kia. Tay nghề thế này đúng là chẳng kém gì thợ chuyên nghiệp.
 
@@ -108,10 +108,10 @@ Lorraine cầm cây đũa lên, ánh sáng phát ra từ đũa và viên Ma Tinh
 
 "Trông lạ thật đấy ạ. Đẹp thì có đẹp, nhưng cũng hơi sợ sợ. Chẳng biết em có làm nổi không nữa," Alize rụt rè bảo.
 
-"Thuật giả kim chính là tập hợp những kỹ năng giúp mình hiểu rõ từng bước như thế này. Tôi hiểu tâm trạng của em, nhưng tôi tin chắc em làm được. Trong thuật giả kim, đây mới chỉ là điều căn bản nhất trong những thứ căn bản thôi. Ví như nấu ăn thì nó cũng giống như học cầm dao làm bếp vậy. Tiến xa hơn được hay không còn tùy vào khổ luyện và tài năng, nhưng chỉ cần chịu khó tập thì ai cũng làm được hết. Đừng lo," Lorraine mỉm cười trấn an cô bé.
+"Thuật giả kim chính là tập hợp những kỹ năng giúp chúng ta hiểu rõ từng bước như thế này. Tôi hiểu tâm trạng của em, nhưng tôi tin chắc em làm được. Trong thuật giả kim, đây mới chỉ là điều căn bản nhất trong những thứ căn bản thôi. Ví như nấu ăn thì nó cũng giống như học cầm dao làm bếp vậy. Tiến xa hơn được hay không còn tùy vào khổ luyện và tài năng, nhưng chỉ cần chịu khó tập thì ai cũng làm được hết. Đừng lo," Lorraine mỉm cười trấn an cô bé.
 
 Người không có Ma Lực hẳn sẽ thấy hoang mang trước những gì Lorraine vừa làm mẫu, nhưng cô ấy chẳng bao giờ nói dối vào những lúc thế này, nên lời cô nói chắc chắn là thật.
 
-Bản thân tôi cũng tự hỏi liệu mình có làm được như Lorraine vừa chỉ hay không, nên nghe cô nói vậy với Alize tôi cũng thấy an lòng phần nào. Tay tôi thì khéo hơn người bình thường thật, nhưng cái đó có áp dụng được vào thuật giả kim hay không thì chịu. Tôi cũng chưa bao giờ điều khiển Ma Lực cừ khôi đến mức ấy, dẫu trong mười năm qua đã dùng nó thuần thục hơn nhiều. Chắc là sẽ ổn thôi, nhưng tôi vẫn thấy chưa chắc ăn lắm. Mục tiêu số một lúc này là tuyệt đối không thể để Alize nhìn thấy mình làm hỏng được. Chẳng rõ Lorraine có hiểu tâm trạng của tôi hay không, nhưng cô đã chuyển sang phần tiếp theo.
+Bản thân tôi cũng tự hỏi liệu mình có làm được như Lorraine vừa chỉ hay không, nên nghe cô nói vậy với Alize tôi cũng thấy an lòng phần nào. Tay tôi thì khéo hơn người bình thường thật, nhưng cái đó có áp dụng được vào thuật giả kim hay không và áp dụng kiểu gì thì vẫn là ẩn số. Tôi cũng chưa bao giờ điều khiển Ma Lực cừ khôi đến mức ấy, dẫu trong mười năm qua đã dùng nó thuần thục hơn nhiều. Khả năng cao là sẽ ổn thôi, nhưng tôi vẫn chưa dám chắc. Mục tiêu số một lúc này là tuyệt đối không thể để Alize nhìn thấy mình làm hỏng được. Chẳng rõ Lorraine có hiểu tâm trạng của tôi hay không, nhưng cô đã chuyển sang phần tiếp theo.
 
 "Giờ hai người thử làm xem nào. Cứ chọn nguyên liệu tùy thích nhé. Đống đồ Rentt thu thập đều là hàng hảo hạng cả, nên lấy món nào cũng ổn thôi."
