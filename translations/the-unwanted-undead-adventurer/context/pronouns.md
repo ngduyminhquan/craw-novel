@@ -12,7 +12,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sheila Ibarss | Sheila / cô | 9 | Tiếp tân viên hội mạo hiểm giả |
 | Lorraine Vivie | Lorraine / cô | 13 | Bạn thân lâu năm kiêm học giả |
 | Luka | Luka / người phụ nữ | 15 | Người tiếp khách tiệm rèn Ba Chĩa |
-| Clope | Clope / gã | 15 | Thợ rèn tiệm Ba Chĩa |
+| Clope | Clope / gã / người thợ rèn / ông thợ rèn | 15 | Thợ rèn tiệm Ba Chĩa |
 | Loris Cariello | Loris / người đàn ông | 16 | Chủ quán ăn Phi Long Đỏ (tiết lộ tên ở #20) |
 | Isabel | Isabel / người phụ nữ | 20 | Vợ của Loris Cariello |
 | Idoles Rogue | Idoles / kỵ sĩ / người đàn ông / anh ta | 24 | Kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn, anh trai Rina |
