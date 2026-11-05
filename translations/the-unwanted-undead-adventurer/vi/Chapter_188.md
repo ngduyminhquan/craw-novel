@@ -1,205 +1,205 @@
 # Chương 188: Tập 8 Chương 2 - Nơi Ma Cà Rồng Hiện Diện (2)
 
-"Lên nào!" Nive hô lên rồi lao vút vào căn phòng lớn. Chúng tôi bám sát theo sau. Myullias không phải người chiến đấu nên nán lại phía sau, nhưng cô vẫn có bổn phận của một Thánh Nữ cần phải thực hiện. Cô phải thanh tẩy lũ Ma Cà Rồng cùng bầu không khí trong căn phòng này. Dù vậy, giờ vẫn chưa phải lúc làm chuyện đó.
+"Lên nào!" Nive hô lớn rồi lao vụt vào căn phòng rộng. Chúng tôi bám sát theo sau. Myullias không phải chiến binh nên nán lại phía sau, nhưng cô vẫn có phận sự của một Thánh Nữ. Cô phải thanh tẩy lũ Ma Cà Rồng cùng bầu không khí trong phòng này. Có điều, giờ vẫn chưa đến lúc.
 
 "Cái gì?!"
 
 "Kẻ nào đấy?!"
 
-Hai con Ma Cà Rồng trẻ tuổi trừng tròn mắt hét lên, nhưng Nive chỉ giương cao bộ móng vuốt của mình.
+Hai con Ma Cà Rồng trẻ tuổi trợn tròn mắt quát, nhưng Nive chỉ giương vuốt lên.
 
-"Liên quan gì đến các ngươi chứ?" cô nói rồi vung mạnh móng vuốt xuống.
+"Hỏi làm gì chứ?" cô đáp rồi vung vuốt bổ xuống.
 
-Việc cô không buồn lắng nghe là cách tiếp cận hoàn toàn chính xác đối với quái vật dạng người. Không hẳn đúng trong mọi trường hợp, nhưng việc chúng có thể nói tiếng người khiến đa số bọn chúng đều cực kỳ lão luyện trong việc thao túng cảm xúc. Lắng nghe những lời biện bạch hay hoàn cảnh của chúng khó tránh khỏi việc nảy sinh lòng trắc ẩn, và đã có vô số con người phải bỏ mạng chỉ vì lơ là cảnh giác sau khi nghe những lời van nài như thế. Dĩ nhiên, không phải lúc nào quái vật cũng nói dối hay lừa gạt, nhưng chúng tôi đã biết về rất nhiều nạn nhân, và những người đang trong quá trình biến thành Thi Quỷ ở đây chính là bằng chứng xác thực. Chẳng có lý do gì để nương tay hay tra hỏi. Về phần mình, cá nhân tôi cũng muốn nghe thêm về chuyện hai đứa bọn chúng vừa bàn luận lúc nãy, nhưng tôi không dám chắc liệu Nive có chịu nghĩ lại chuyện giết chết lũ Ma Cà Rồng đang ở ngay trước mắt hay không. Dù sao thì chúng tôi cũng có nhiệm vụ phải làm.
+Không buồn nghe chúng nói là cách ứng phó hoàn toàn chuẩn xác với quái vật dạng người. Không hẳn trường hợp nào cũng thế, nhưng vì nói được tiếng người nên phần lớn chúng đều thao túng cảm xúc cực kỳ tài tình. Lắng nghe chúng phân bua hay giãi bày hoàn cảnh thì khó lòng tránh khỏi động lòng trắc ẩn, và không biết bao nhiêu người từng mất mạng chỉ vì mất cảnh giác sau những lời khẩn nài ấy. Dĩ nhiên, chẳng phải lúc nào quái vật cũng dối trá, nhưng chúng tôi đã biết có quá nhiều nạn nhân, và những người đang dần biến thành Thi Quỷ nơi đây chính là bằng chứng rành rành. Chẳng có lý do gì để nương tay mà gặng hỏi. Bản thân tôi cũng tò mò muốn nghe thêm về chuyện hai đứa vừa bàn lúc nãy, nhưng đời nào Nive chịu hoãn việc trừ khử Ma Cà Rồng đã ở ngay trước mắt. Vả lại, chúng tôi cũng có nhiệm vụ cần làm.
 
-Trước hết, chúng tôi phải giải cứu các mạo hiểm giả tân thủ. Tính cả Raiz và Laura thì tổng cộng chỉ có sáu người. Nive trông rất tự tin rằng cô có thể tự mình xử lý hai con Ma Cà Rồng này, nên có lẽ cô chẳng cần trợ giúp. Chưa kể, cô là mạo hiểm giả Kim Cấp, thậm chí còn tiệm cận Bạch Kim Cấp hơn bất kỳ ai khác. Việc Lorraine và tôi có thể giúp ích được bao nhiêu vẫn còn là một dấu hỏi lớn.
+Trước hết, chúng tôi phải giải cứu các mạo hiểm giả tân binh. Tính cả Raiz và Laura thì tổng cộng chỉ có sáu người. Nive có vẻ rất tự tin mình có thể một mình giải quyết hai con Ma Cà Rồng này, nên chắc chẳng cần ai giúp. Chưa kể, cô ấy là mạo hiểm giả Kim Cấp, thậm chí còn tiệm cận Bạch Kim Cấp hơn bất kỳ ai. Tôi với Lorraine có xông vào giúp thì chưa chắc đã đỡ đần được bao nhiêu.
 
-Thế nên chúng tôi có thể cứ để mặc cô tự mình xử lý công việc này, nhưng làm vậy cũng tiềm ẩn vài rắc rối. Nive đã cung cấp cho chúng tôi rất nhiều thông tin, và cô cũng là một mạo hiểm giả tài năng, nhưng ở một vài phương diện nào đó thì cô lại có vẻ khá bí ẩn. Cô luôn tạo cho tôi cảm giác ấy ngay từ lần đầu tiên tôi gặp cô. Rất dễ cảm thấy cô có thể sẽ làm ra điều gì đó tàn độc, vậy nên Wolf cũng chẳng đời nào phái một mình cô đi.
+Nếu vậy cứ để mặc cô ấy lo việc này cũng được, nhưng như thế lại dễ nảy sinh rắc rối. Nive cung cấp cho chúng tôi rất nhiều thông tin, lại là một mạo hiểm giả bản lĩnh, nhưng ở vài mặt cô ấy cứ tạo cảm giác mờ ám khó lường. Ngay từ lần đầu gặp mặt, cô ấy đã để lại ấn tượng như vậy rồi. Người ta rất dễ nơm nớp sợ cô ấy sẽ làm ra chuyện gì tàn độc, hèn chi Wolf cũng chẳng dám để cô đi một mình.
 
-Hoặc có lẽ tôi chỉ đang nhìn nhận cô qua lăng kính định kiến của riêng mình. Nói một cách khách quan thì cô đang một mình chiến đấu đánh đuổi quái vật thay cho chúng tôi, và chúng tôi cũng kiếm được rất nhiều tiền từ cô. Nghĩ lại thì cô đã làm rất nhiều điều cho chúng tôi. Tôi gần như cảm thấy chí ít mình cũng nên mời cô một bữa tối hay thứ gì đó tương tự. Mặc dù tôi cũng linh cảm rằng làm thế sẽ chỉ chuốc thêm rắc rối cho bản thân mà thôi.
+Hoặc có khi tôi chỉ đang có sẵn định kiến về cô ấy. Khách quan mà nói, cô ấy đang một mình diệt quái giùm chúng tôi, đã thế chúng tôi còn kiếm được cả đống tiền từ cô. Nghĩ đi nghĩ lại, cô ấy giúp chúng tôi không ít. Nhiều lúc tôi thấy chí ít mình cũng nên mời cô ấy một bữa tối. Nhưng bụng lại bảo làm thế khéo chỉ rước thêm phiền toái vào thân.
 
-"Này, Raiz, Laura! Hai người còn sống không đấy?!" tôi vừa hỏi vừa lay vai Raiz. Đôi mắt họ trống rỗng, và rất khó để biết liệu họ có còn tỉnh táo hay không.
+"Này, Raiz, Laura! Còn sống không đấy?!" tôi lay vai Raiz hỏi. Ánh mắt hai người họ đờ đẫn, khó lòng biết được họ còn tỉnh hay không.
 
-"Ư... đây là đâu? Anh là ai?" Raiz đáp lại. Ánh sáng của sự sống đã dần quay trở lại trong mắt cậu thiếu niên.
+"Ư... đây là đâu? Anh là ai?" Raiz đáp lại. Ánh mắt cậu thiếu niên dần có lại thần sắc.
 
-"May quá. Tôi đây, Rentt này. Chúng ta từng cùng tham gia kỳ thi đấy. Cậu nhớ chứ?"
+"May quá. Tôi đây, Rentt này. Đợt trước chúng ta thi chung đấy. Còn nhớ không?"
 
-"Rentt? Anh Rentt?! Sao anh lại ở đây? Khoan đã, chuyện đó tính sau, Laura đâu rồi?"
+"Anh Rentt? Sao anh lại ở đây? Mà thôi, chuyện đó để sau đi, Laura đâu rồi?"
 
-"Ở ngay đây. Trông có vẻ cô ấy đang bất tỉnh, nhưng không sao đâu. Cô ấy vẫn còn sống," tôi vừa nói vừa rót chút Thần Lực để chữa trị cho cô.
+"Ở ngay đây này. Có vẻ đang ngất, nhưng không sao đâu, vẫn còn sống," tôi vừa nói vừa vận chút Thần Lực trị thương cho cô ấy.
 
-"Ơ, hả? Mình đang ở đâu thế này?" cô khẽ hỏi khi đôi mắt mở ra.
+"Ơ... hả? Đâu thế này..." cô chớp mắt hỏi.
 
-"Laura?!" Raiz thốt lên và toan đứng dậy. "Ái ui!" Cậu ngã nhào xuống.
+"Laura?!" Raiz thốt lên rồi toan đứng dậy. "Ái!" Cậu ngã lăn ra.
 
-Nhìn qua thì chân cậu đã bị thương, có lẽ là từ lúc họ bị tấn công ban đầu. Thêm vào đó, cậu còn bị làm suy yếu bằng thủ đoạn nào đó và bị tước đi khả năng vận động đến mức chẳng thể nhúc nhích nổi. Tôi không nhìn rõ cấu trúc của phép thuật đã được sử dụng, nhưng đó có thể là một phép trói buộc. Chúng đã cố làm cho thật kỹ lưỡng, nhưng vết thương ở chân cậu không nghiêm trọng. Tôi có thể dễ dàng chữa lành nó. Dù muốn tiết kiệm Thần Lực càng nhiều càng tốt, nhưng cứu giúp các mạo hiểm giả là ưu tiên hàng đầu.
+Trông qua thì chân cậu bị thương, chắc là từ lúc bị tấn công lúc đầu. Đã vậy, không biết đối phương dùng cách gì khiến cậu kiệt sức, mất hết khả năng cử động, ngay cả nhúc nhích cũng không nổi. Tôi không nhìn rõ kết cấu thuật thức được dùng, nhưng có lẽ là một phép trói buộc. Bọn chúng làm rất cẩn thận, song vết thương ở chân cậu cũng không quá nặng, tôi chữa dễ dàng. Dù muốn giữ lại càng nhiều Thần Lực càng tốt, nhưng cứu người vẫn là ưu tiên hàng đầu.
 
 "Cảm ơn anh, Rentt," Raiz nói.
 
-"Không có gì đâu. Chúng ta là thành viên cùng tổ đội mà, đúng chứ? Chúng ta giúp đỡ lẫn nhau thôi," tôi đáp khi nhớ lại những lời họ từng nói với tôi sau khi chúng tôi tham gia kỳ thi.
+"Không có gì đâu. Cùng đội với nhau cả mà, phải giúp đỡ nhau chứ," tôi đáp, nhớ lại lời hai đứa từng nói sau đợt thi.
 
 "Tất nhiên rồi," Raiz nói.
 
 "Anh vẫn nhớ sao?" Laura hỏi.
 
-Trông họ có vẻ rất vui, nhưng đương nhiên là tôi phải nhớ rồi. Tôi không dám nói suốt mười năm qua mình chưa từng được mời vào một tổ đội nào, nhưng chuyện đó quả thực hiếm khi xảy ra. Và trong số những lời mời tôi nhận được, chẳng phải vì họ quá yêu quý tôi mà chủ yếu là họ muốn một kẻ việc gì cũng biết làm một chút. Số người thực lòng muốn tôi trở thành cộng sự chỉ đếm trên đầu ngón tay. Tôi chỉ có thể nhớ tới Lorraine, Augurey, và họa hoằn lắm là một vài người khác nữa.
+Trông hai đứa có vẻ mừng rỡ, mà tôi nhớ thật chứ đâu. Bảo suốt mười năm qua chẳng ai mời tôi vào đội bao giờ thì không đúng, nhưng hiếm hoi lắm mới có lần. Mà trong số những lời mời ít ỏi ấy, chẳng phải người ta quý mến gì tôi, chỉ là họ cần một gã việc gì cũng biết làm một chút. Còn những ai thực lòng muốn chọn tôi làm đồng đội thì ít hơn nhiều. Tôi chỉ nhớ được Lorraine, Augurey, với họa hoằn vài ba người nữa thôi.
 
-"Thôi, tạm gác chuyện đó lại đã," tôi nói. "Chuẩn bị rời khỏi đây đi. Hai người có đứng dậy được không?" Cả hai đều đang dần lấy lại sự tỉnh táo.
+"Thôi, gác chuyện đó lại đã," tôi bảo. "Chuẩn bị rời khỏi đây nào. Hai cậu đứng dậy nổi không?" Cả hai đều đang dần tỉnh táo lại.
 
-"Được, tôi đứng dậy được rồi," Raiz nói. "Mới một giây trước người tôi còn nặng trịch như đeo chì, thế mà giờ lại thấy ổn rồi. Rốt cuộc là thế nào vậy?"
+"Được, tôi đứng dậy được rồi," Raiz đáp. "Vừa nãy người cứ nặng trịch như đeo đá, thế mà giờ lại thấy ổn rồi. Rốt cuộc là sao vậy anh?"
 
-Tôi chẳng làm gì ngoài việc dùng Thần Lực chữa trị cho cậu, nhưng có lẽ rốt cuộc trên người cậu quả thực đã trúng một loại phép thuật nào đó. Những phép trói buộc có thể tạo cảm giác như bị tê liệt vĩnh viễn, nhưng nhiều phép trong số đó sẽ tan biến ngay khi tiếp xúc với Thần Lực. Hẳn đó là lý do họ cảm thấy cơ thể nhẹ nhõm hơn.
+Tôi chỉ dùng Thần Lực chữa trị cho cậu ấy thôi, nhưng có lẽ người cậu quả thật đã dính phải ma pháp nào đó. Thuật trói buộc thường gây cảm giác tê liệt như thể không bao giờ dứt, nhưng phần lớn sẽ tự tiêu biến khi chạm phải Thần Lực. Chắc vì vậy mà hai đứa mới thấy người nhẹ nhõm hơn.
 
-Tôi tự hỏi liệu điều tương tự có áp dụng cho bốn người còn lại hay không. Tôi nhìn sang bên cạnh và thấy Lorraine đang đánh thức họ bằng một phép giải trừ nguyền rủa, xem ra mọi chuyện đúng như những gì tôi dự đoán. Tôi không thể nhìn thấy chi tiết các câu thần chú nên chẳng biết rõ tường tận, nhưng rốt cuộc họ đã được giải thoát, và đó mới là điều quan trọng.
+Tôi tự hỏi liệu bốn người kia có giống vậy không. Liếc sang bên cạnh, tôi thấy Lorraine đang dùng phép giải nguyền đánh thức họ, nên có vẻ mọi chuyện đúng như tôi dự đoán. Tôi không nhìn rõ chi tiết thuật thức nên chẳng biết cụ thể ra sao, nhưng sau cùng họ cũng được giải thoát, và đó mới là điều cốt yếu.
 
 ◆◇◆◇◆
 
-Tôi chỉ lùi lại phía sau bảo vệ các mạo hiểm giả tân binh và quan sát. Trận chiến diễn ra suôn sẻ đến bất ngờ, nhưng sự bất ngờ đó lại đến từ hai con Ma Cà Rồng chứ không phải Nive. Đang là hai đấu một, nên người ta sẽ nghĩ chúng nắm lợi thế, nhưng Nive là một mạo hiểm giả Kim Cấp tiệm cận Bạch Kim Cấp. Cô vượt trội hơn hẳn một hai bậc so với mạo hiểm giả thông thường, và hầu hết lũ Hạ Cấp Ma Cà Rồng đều chẳng thể tạo thành bất kỳ mối đe dọa nào đối với cô. Dù vậy, chúng chiến đấu tốt hơn mong đợi. Mặc dù cũng có thể là Nive đang nương tay.
+Tôi chỉ đứng phía sau bảo bọc mấy mạo hiểm giả tân binh và dõi theo trận đấu. Cục diện diễn ra suôn sẻ đến bất ngờ, nhưng điều làm tôi bất ngờ lại đến từ hai con Ma Cà Rồng chứ chẳng phải Nive. Tính ra là hai đánh một, cứ ngỡ phe chúng chiếm thế thượng phong, nhưng Nive lại là mạo hiểm giả Kim Cấp ngấp nghé Bạch Kim Cấp. Cô ấy vượt trội hơn mạo hiểm giả bình thường cả một hai bậc, và hầu hết Hạ Cấp Ma Cà Rồng đều chẳng thể đe dọa nổi cô. Nói là vậy, nhưng hai đứa chúng đánh đấm khá hơn tôi tưởng nhiều. Dù cũng không loại trừ khả năng Nive đang nương tay.
 
-Móng vuốt của Nive giáng xuống con Ma Cà Rồng thiếu niên từ trên cao, nhưng cậu ta nghiêng người né sang bên với tốc độ phi nhân loại rồi vung một thanh đoản kiếm màu đỏ nhắm thẳng vào cổ Nive. Nive thấy vậy liền bật cười, nghiêng cổ né tránh vào khoảnh khắc ngàn cân treo sợi tóc.
+Móng vuốt của Nive từ trên cao bổ xuống con Ma Cà Rồng thiếu niên, nhưng cậu ta nghiêng người né sang một bên nhanh đến khó tin, rồi tiện tay vung thanh đoản kiếm đỏ quạch nhắm thẳng vào cổ cô. Thấy thế, Nive chỉ bật cười, nghiêng đầu né mũi kiếm đúng vào tích tắc cuối cùng.
 
-Cứ như thể đã chực chờ sẵn khoảnh khắc này, con Ma Cà Rồng thiếu nữ vung một lưỡi hái màu đỏ chém xuống cổ Nive. Tôi cứ ngỡ ngay cả Nive cũng sẽ gặp khó khăn để thoát khỏi đòn này, nhưng lưỡi hái lại khựng lại ngay trước mặt cô. Cô đã dùng răng cắn chặt lấy lưỡi hái. Nive lắc đầu hất tung con Ma Cà Rồng thiếu nữ đi, rồi bám sát theo khi cô ta đang văng mình trên không trung. Cô thiếu nữ đập mạnh vào tường, và ngay khi cô ta đang cố gượng dậy, Nive liền chém vào cổ cô ta. Móng vuốt chém đứt lìa đầu cô thiếu nữ, và tôi nghĩ ngay cả một con Ma Cà Rồng cũng phải bỏ mạng sau đòn đó.
+Như chỉ chờ có thế, con Ma Cà Rồng thiếu nữ bổ mạnh lưỡi hái màu đỏ xuống cổ Nive. Tôi cứ ngỡ phen này Nive khó lòng tránh khỏi, nhưng lưỡi hái lại khựng sững ngay trước mặt cô. Cô ấy dùng răng cắn chặt lấy lưỡi hái. Nive hất đầu quẳng con bé đi, rồi lập tức bám theo khi nó còn đang bay trên không. Con bé đập mạnh vào tường; trong lúc nó còn lúng túng gượng dậy, móng vuốt của Nive đã phạt ngang cổ. Chiếc đầu rơi phịch xuống sàn, tôi đồ rằng dù có là Ma Cà Rồng thì trúng đòn này cũng phải mất mạng.
 
-Thế nhưng khoảnh khắc cái đầu vừa chạm sàn, cả đầu lẫn thân thể cô ta đều tan biến thành một khối màu đen mang hình dáng đàn dơi. Đàn dơi bay ra xa khỏi Nive rồi hợp nhất lại với nhau, một lần nữa biến trở lại thành cô thiếu nữ. Cô ta đang thở dốc, nhưng cơ thể lại hoàn toàn nguyên vẹn. Nive trông chẳng có vẻ gì là đặc biệt ngạc nhiên.
+Thế nhưng đầu vừa chạm đất, cả đầu lẫn thân xác con bé liền rã thành một khối đen kịt hóa thành đàn dơi. Đàn dơi túa ra xa khỏi Nive rồi tụ lại một chỗ, biến trở lại thành con bé như cũ. Nó thở dốc, nhưng cơ thể vẫn nguyên vẹn không sứt mẻ gì. Nive trông chẳng có vẻ gì là bất ngờ.
 
-"Phân Liệt sao?" Nive nói. "Chắc hẳn các ngươi cũng là lũ Ma Cà Rồng có chút danh tiếng nhỉ. Nhìn thì ẻo lả yếu ớt, nhưng ta đoán bản lĩnh của các ngươi lại hơn ta tưởng đấy. Thậm chí các ngươi dường như còn có cả Huyết Binh nữa. Vui rồi đây."
+"Phân Liệt cơ à?" Nive nói. "Hẳn các ngươi cũng thuộc dạng Ma Cà Rồng có chút tên tuổi đấy nhỉ. Trông thì còi cọc ẻo lả thế mà ngón nghề lại phong phú hơn ta tưởng. Đến cả Huyết Binh cũng biết dùng cơ đấy. Vui rồi đây."
 
-Phân Liệt là một dị năng đặc thù thường gắn liền với Trung Cấp hoặc Thượng Cấp Ma Cà Rồng. Nó cho phép phân tách cơ thể thành đàn dơi hắc ám hoặc các loài động vật khác. Điều đáng kinh ngạc ở khả năng này là con Ma Cà Rồng có thể hồi phục khỏi các vết thương mà hoàn toàn không hề hấn gì. Người ta nói rằng điều đó khiến chúng miễn nhiễm với các đòn tấn công vật lý. Đây chính là một trong những lý do khiến việc tiêu diệt Trung Cấp Ma Cà Rồng có thể trở nên vô cùng khó khăn. Điều này có thể đồng nghĩa với việc hai kẻ này là Trung Cấp Ma Cà Rồng, nhưng tôi không biết chắc.
+Phân Liệt là dị năng đặc thù thường thấy ở Trung Cấp hoặc Thượng Cấp Ma Cà Rồng. Năng lực này cho phép chúng chia tách cơ thể thành đàn dơi đen hoặc các loài thú khác. Điểm đáng sợ là con Ma Cà Rồng có thể lành lặn trở lại sau mọi vết thương mà không hề hấn gì, nghe đâu giúp chúng miễn nhiễm hoàn toàn với các đòn đánh vật lý. Đó cũng là lý do tiêu diệt Trung Cấp Ma Cà Rồng lại khó khăn đến thế. Rất có thể hai đứa này là Trung Cấp Ma Cà Rồng, nhưng tôi cũng không dám chắc.
 
-Thành thực mà nói tôi không biết Huyết Binh là gì, nhưng nghe qua thì có vẻ đó là một dị năng đặc thù khác mà loài Ma Cà Rồng sở hữu. Theo như tôi biết thì bản thân chẳng có năng lực nào trong số này, nhưng tôi cũng chưa từng thử sử dụng chúng bao giờ. Tôi biết Hạ Cấp Ma Cà Rồng không thể chạm tới Phân Liệt, nên trước đây tôi chưa từng nghĩ đến nó. Giờ thì tôi nghĩ có lẽ sau này thử một phen cũng đáng.
+Thú thực tôi chẳng biết Huyết Binh là cái gì, nhưng nghe qua thì có vẻ là một năng lực đặc biệt khác của loài Ma Cà Rồng. Bản thân tôi chưa từng sở hữu chiêu nào trong số này, nhưng tôi cũng chưa thử dùng bao giờ. Trước nay biết rõ Hạ Cấp Ma Cà Rồng không thể chạm tới Phân Liệt nên tôi chẳng buồn bận tâm, song giờ thì tôi nghĩ sau này thử một phen xem sao cũng đáng.
 
-"Ta chẳng thấy vui chút nào cả. Rốt cuộc ngươi là ai hả?!" con Ma Cà Rồng thiếu nữ gào lên.
+"Vui cái nỗi gì! Rốt cuộc ngươi là ai hả?!" con Ma Cà Rồng thiếu nữ gắt lên.
 
-"Không nhận ra sao?" Nive đáp. "Ta là mạo hiểm giả, và ta đến đây để lấy mạng các ngươi. Tốt hơn hết là các ngươi nên đầu hàng đi. Nếu các ngươi khai ra mọi thứ mình biết, ta nghĩ ít nhất người ta cũng sẽ cho các ngươi đứng ngoài cổng Thiên Đường đấy."
+"Nhìn mà không nhận ra à?" Nive đáp. "Ta là mạo hiểm giả tới để lấy mạng các ngươi đây. Tốt nhất là đầu hàng đi. Nếu chịu khai hết những gì mình biết, ta nghĩ ít ra người ta cũng cho các ngươi đứng chầu rìa ngoài cổng Thiên Đường đấy."
 
-Thật may là cô không quên mất phần thu thập thông tin. Cô là một mạo hiểm giả cấp cao, thế nên việc cô tỉ mỉ cẩn trọng hơn tôi nhiều cũng là điều dễ hiểu. Cô cũng đã phân tích hành vi của loài Ma Cà Rồng, và tuy cô thường rất khó nắm bắt, nhưng cô vẫn thường xuyên đưa ra những quyết định đầy tính logic.
+Thật may là cô ấy không quên thu thập tin tức. Dẫu sao cũng là mạo hiểm giả cấp cao, nên cô ấy cẩn trọng hơn tôi nhiều là điều hiển nhiên. Cô ấy còn nghiên cứu kỹ tập tính của Ma Cà Rồng nữa, và dù bình thường rất khó đoán, cô ấy vẫn đưa ra quyết định đâu ra đấy.
 
-Dù vậy, cô đã dừng lại trước khi nói rằng họ thực sự có thể lên Thiên Đường. Cô cũng không hề đề nghị để họ được sống, nhưng tôi đoán điều đó là hiển nhiên. Dù sao thì chúng vẫn cần máu người để sinh tồn.
+Dù vậy, cô ấy cũng chẳng hứa hẹn cho chúng thực sự lên Thiên Đường. Cô ấy cũng không hề đả động đến chuyện tha mạng cho chúng, nhưng điều đó là tất nhiên rồi. Rốt cuộc chúng vẫn cần máu người để sống mà.
 
-"Jiziu, đừng nghe mụ ta. Con người chẳng biết cái gì đâu," con Ma Cà Rồng thiếu niên nói với cô thiếu nữ.
+"Jiziu, đừng nghe ả. Con người chẳng biết cái thớ gì đâu," cậu thiếu niên Ma Cà Rồng nói với cô bé.
 
 "Anh Wugong, nhưng mà em..."
 
 "Để sau hẵng lo!"
 
-Con Ma Cà Rồng thiếu niên lao mình về phía Nive. Số lượng đoản kiếm tăng lên thành bảy thanh, và ngoại trừ thanh kiếm cậu ta cầm trên tay, tất cả những thanh còn lại đều lơ lửng giữa không trung. Thứ này hẳn chính là Huyết Binh. Lưỡi kiếm của chúng đỏ rực và có vẻ khác hẳn so với vũ khí thông thường. Chúng lao vun vút về phía Nive, nhưng cô uyển chuyển lướt đi né tránh toàn bộ. Hóa ra lúc trước quả thực là cô đang nương tay.
+Thằng nhóc Ma Cà Rồng lao bổ về phía Nive. Số lượng đoản kiếm tăng vọt lên bảy thanh; ngoại trừ thanh cầm trên tay, những thanh còn lại đều lơ lửng giữa không trung. Đây hẳn là Huyết Binh rồi. Lưỡi kiếm đỏ quạch, khác hẳn vũ khí thông thường. Chúng vun vút lao về phía Nive, nhưng cô thoăn thoắt lách người né sạch. Xem ra lúc nãy quả thật cô đang nương tay.
 
-"Chỉ có thế này thôi sao?" cô nói với vẻ mặt không chút xao động. "Các ngươi chưa hẳn đã sánh được với Trung Cấp Ma Cà Rồng, nhưng lại có thể sử dụng Phân Liệt và Huyết Binh. Thú vị lắm. Có điều, kỹ năng của các ngươi vụng về một cách chết người đấy."
+"Chỉ có thế này thôi à?" cô thản nhiên buông lời. "Tuy chưa sánh được với Trung Cấp Ma Cà Rồng, nhưng lại xài được cả Phân Liệt lẫn Huyết Binh. Hay ho đấy. Nhưng chiêu thức của các ngươi non nớt đến chết người."
 
-Nive bắt đầu di chuyển thoăn thoắt hơn. Cô đập vỡ vụn toàn bộ những thanh đoản kiếm chỉ bằng một cú quẹt móng vuốt, áp sát con Ma Cà Rồng thiếu niên trong chớp mắt rồi chém bay đầu cậu ta. Gần như cùng lúc đó, cô chém đôi người con Ma Cà Rồng thiếu nữ từ chính giữa. Đương nhiên, mọi chuyện lại diễn ra y hệt như trước. Cả hai đều biến thành đàn dơi rồi quay trở lại trạng thái ban đầu, như thể chưa từng chịu bất kỳ tổn thương nào.
+Nive bắt đầu di chuyển thoăn thoắt hơn. Chỉ một cú vuốt, cô đập nát toàn bộ đám đoản kiếm, áp sát thằng nhóc Ma Cà Rồng trong chớp mắt rồi phạt bay đầu nó. Gần như cùng lúc, cô chém ngọt đôi người con bé Ma Cà Rồng. Dĩ nhiên, cảnh tượng lúc trước lại tái diễn. Cả hai hóa thành đàn dơi rồi tụ lại như cũ, cứ như chưa từng hề hấn gì.
 
-"Đừng phí công vô ích nữa, bọn ta không chết được đâu," con Ma Cà Rồng thiếu niên nói, giọng cậu ta vang vọng khắp mê cung.
+"Đừng tốn công vô ích, bọn ta không chết được đâu," thằng nhóc gào lên, tiếng dội khắp mê cung.
 
-"Không chết được cơ đấy?" Nive hỏi lại.
+"Thế cơ à?" Nive hỏi lại.
 
-"Không đời nào, bọn ta đã được ban cho sức mạnh. Bình thường bọn ta phải là Trung Cấp Ma Cà Rồng mới dùng được Phân Liệt, hoặc Thượng Cấp Ma Cà Rồng mới thi triển được Huyết Binh. Ngươi đã thấy rồi đấy, đúng không? Cho dù ngươi có chém hay đâm bọn ta bao nhiêu lần đi nữa, bọn ta vẫn sẽ lành lặn trở lại thôi."
+"Đúng thế, bọn ta đã được ban sức mạnh! Bình thường phải là Trung Cấp Ma Cà Rồng mới dùng được Phân Liệt, hoặc Thượng Cấp Ma Cà Rồng mới thi triển được Huyết Binh. Ngươi thấy rồi đấy thôi? Dù có chém hay đâm bao nhiêu nhát, bọn ta vẫn lành lặn như thường."
 
-"Ra là thế, thật vậy sao?!"
+"Ra vậy, gớm nhỉ?!"
 
-Nive nhảy xổ vào con Ma Cà Rồng thiếu niên và băm cậu ta thành trăm mảnh, nhưng điều tương tự lại tiếp tục xảy ra. Với con Ma Cà Rồng thiếu nữ cũng vậy.
+Nive lao vụt tới băm thằng nhóc Ma Cà Rồng ra thành trăm mảnh, nhưng kết quả vẫn y như cũ. Với con bé Ma Cà Rồng cũng chẳng khác gì.
 
 "Đủ rồi! Vô ích thôi!" cậu thiếu niên nói.
 
-"Từ bỏ đi cho rồi!" cô thiếu nữ nói.
+"Bỏ cuộc đi!" con bé la lên.
 
-Chúng liên tục tấn công Nive, nhưng cô vẫn hoàn toàn điềm tĩnh. Thậm chí, cô còn nở một nụ cười toe toét.
+Chúng liên tục tấn công Nive, nhưng cô vẫn bình chân như vại, thậm chí còn nhếch mép cười.
 
-"Từ bỏ sao?" cô hỏi. "Thật nực cười. Chỉ có đúng hai lý do để ta ngừng săn lùng Ma Cà Rồng: hoặc là ta chết, hoặc là kẻ cuối cùng trong số các ngươi phải chết!"
+"Bỏ cuộc á?" cô hỏi. "Nực cười thật. Chỉ có đúng hai lý do khiến ta ngừng săn Ma Cà Rồng: một là ta chết, hai là đến đứa cuối cùng trong số các ngươi đền mạng!"
 
-Tôi chẳng rõ đó là sự điên loạn hay lòng kiên định. Tôi không hiểu tại sao cô lại ám ảnh với Ma Cà Rồng đến mức ấy, nhưng đó quả thực là một nỗi cố chấp đến điên cuồng. Ánh mắt cô nói lên rằng cô sẽ luôn săn đuổi Ma Cà Rồng, cho dù có phải đi đến tận cùng thế giới.
+Tôi chẳng rõ đấy là điên rồ hay là niềm tin sắt đá. Tôi không tài nào hiểu nổi vì sao cô ấy lại ám ảnh với Ma Cà Rồng đến mức đó, nhưng mối thù hằn này đúng là cuồng si đến rợn người. Ánh mắt cô ấy cho thấy dẫu có phải đuổi tới chân trời góc bể, cô cũng quyết săn lùng Ma Cà Rồng tới cùng.
 
-Nive giao chiến với hai con Ma Cà Rồng thêm một lúc cho đến khi chúng đột nhiên trợn tròn mắt rồi nhìn lại chính mình. Đó là sau vài chục lần Nive chém đứt cơ thể chúng và ép chúng phải hồi sinh.
+Nive vần hai con Ma Cà Rồng thêm một lúc, cho đến khi chúng đột nhiên trợn tròn mắt cúi nhìn lại cơ thể mình. Trước đó Nive đã xẻ nát xác chúng vài chục lần, ép chúng liên tục hồi sinh.
 
-"Biết ngay mà," Nive bật cười khúc khích nói. Tôi nhìn theo hướng cô đang nhìn và hiểu được điều cô muốn ám chỉ. Ngón tay của hai con Ma Cà Rồng đang tan rã dần.
+"Biết ngay mà," Nive cười khẽ. Tôi nhìn theo hướng mắt cô và hiểu ngay cô đang ám chỉ điều gì: đầu ngón tay của hai con Ma Cà Rồng đang rã ra.
 
 "Cái quái gì thế này?!" cậu thiếu niên thốt lên.
 
-"Tại sao chứ? Hồi phục đi, hồi phục mau!" cô thiếu nữ hoảng loạn nói.
+"Sao lại thế? Mau lành lại đi, lành lại mau!" con bé cuống cuồng giục.
 
-Chúng liên tục vận dụng Phân Liệt để khôi phục cánh tay, nhưng các ngón tay của chúng vẫn cứ tiếp tục vỡ vụn thành cát.
+Chúng liên tục dùng Phân Liệt để khôi phục cánh tay, nhưng các ngón tay cứ vỡ vụn thành cát.
 
-"Các ngươi quá đỗi ngu muội," Nive nói. "Phân Liệt cho phép biến đổi hình dạng cũng như khôi phục lại trạng thái ban đầu, nhưng các ngươi không thể cứ sử dụng nó mãi mãi được đâu."
+"Các ngươi ngờ nghệch quá đấy," Nive nói. "Phân Liệt cho phép biến hình lẫn khôi phục nguyên trạng, nhưng đâu có nghĩa là các ngươi dùng nó mãi được."
 
 "Ngươi đang nói cái gì vậy?" con Ma Cà Rồng thiếu niên run rẩy hỏi.
 
-"Bất kể ngươi là thứ gì thì vạn vật đều có giới hạn của nó, hiểu chứ. Đáng ngạc nhiên là ngay cả quái vật cũng chẳng thể thoát khỏi giới hạn của mình. Các vị thần đã an bài như vậy, nhưng ngay cả quyền năng của họ cũng chỉ có hạn định mà thôi. Điều đó đồng nghĩa với việc Phân Liệt cũng có những nhược điểm của nó. Đây chính là hậu quả khi các ngươi lạm dụng nó quá mức. Bất kỳ con Trung Cấp Ma Cà Rồng nào cũng đều biết điều đó, nhưng ta đoán là các ngươi lại chẳng hề hay biết."
+"Vạn vật trên đời đều có giới hạn, bất kể ngươi là giống loài gì chăng nữa. Đáng ngạc nhiên là ngay cả quái vật cũng không thoát khỏi cái ngưỡng đó đâu. Thần linh đã an bài thế rồi, mà sức mạnh của chính các ngài cũng có chừng mực thôi. Nói cách khác, Phân Liệt cũng có nhược điểm của nó. Lạm dụng cho đẫy vào thì thành ra thế này đây. Bất kỳ Trung Cấp Ma Cà Rồng nào cũng rõ điều đó, tiếc là các ngươi thì chẳng biết tí gì."
 
-"Nhưng ngài Shumini đâu có nói gì về chuyện đó," con Ma Cà Rồng thiếu nữ nói.
+"Nhưng ngài Shumini có nói gì về chuyện đó đâu," con bé Ma Cà Rồng mếu máo.
 
-"Đó là kẻ cầm đầu của các ngươi sao? Chà, lát nữa ta sẽ tiêu diệt hắn. Ta dám chắc hắn đã cố tình không nói cho các ngươi biết. Nếu các ngươi biết rõ nhược điểm, hẳn các ngươi sẽ do dự hơn khi sử dụng nó. Các ngươi vốn không muốn mạo hiểm mạng sống và hắn cần một cách để bắt các ngươi chiến đấu, ta đoán thế. Các ngươi chỉ là công cụ bị lợi dụng rồi vứt bỏ thôi. Thật đáng thương làm sao."
+"Kẻ đầu sỏ của các ngươi đấy à? Thôi thì lát nữa ta xử hắn sau. Ta dám chắc hắn cố tình giấu các ngươi đấy. Biết rõ nhược điểm thì đời nào các ngươi dám tùy tiện dùng. Các ngươi sợ chết, còn hắn thì cần các ngươi liều mạng đánh, đúng chứ? Nói trắng ra, các ngươi chỉ là đám tốt thí dùng xong rồi vứt thôi. Đáng thương thật đấy."
 
-"Không đúng! Ngài ấy không phải loại người như thế!" cậu thiếu niên gào khóc, không chịu chấp nhận sự thật tàn nhẫn.
+"Không đúng! Ngài ấy đâu có như thế!" thằng nhóc gào lên, nhất quyết không chịu chấp nhận sự thật nghiệt ngã.
 
-"Ngài ấy bảo rồi sẽ có một ngày chúng ta có thể tự mình xây dựng một đất nước riêng! Ngài ấy bảo chúng ta sẽ được sống những tháng ngày hạnh phúc ở nơi đó!" cô thiếu nữ rên rỉ than khóc.
+"Ngài ấy bảo sau này chúng ta sẽ lập nên một quốc gia của riêng mình cơ mà! Bảo chúng ta sẽ được sống hạnh phúc ở đó cơ mà!" con bé rấm rứt khóc.
 
-"Nghe như một giấc mơ đẹp đấy," Nive nói. "Giống như câu chuyện cổ tích mà một người mẹ thường kể cho đứa con nhỏ của mình. Ngọt ngào, dịu dàng, chan chứa yêu thương, nhưng tất cả đều là dối trá. Giờ thì để ta tiễn các ngươi về cõi chết. Ít nhất các ngươi cũng sẽ được yên nghỉ."
+"Nghe như một giấc mộng đẹp đấy," Nive nói. "Chẳng khác nào câu chuyện cổ tích người mẹ dỗ dành con thơ. Ngọt ngào, dịu dàng, đầy ắp yêu thương, và rặt một trò lừa dối. Giờ thì để ta tiễn các ngươi một đoạn. Ít ra các ngươi cũng được yên nghỉ."
 
-Nive bước một bước về phía chúng, rồi lại một bước nữa. Những lời nói của cô cùng cơ thể đang dần thối rữa của chính chúng khiến cả hai rơi vào trạng thái bàng hoàng rối bời. Chẳng thể nhúc nhích hay thốt nên lời, chúng chỉ biết trơ mắt nhìn cô tiến lại gần hơn.
+Nive từng bước một tiến lại gần. Những lời cô nói cùng thân xác đang rã vụn khiến cả hai rơi vào cảnh hoảng loạn bẽ bàng. Không thể cử động cũng chẳng thốt nên lời, chúng chỉ biết trơ mắt nhìn cô tới gần.
 
-"Chúc ngủ ngon. Ta tin chắc bóng tối sẽ dang rộng vòng tay đón chào các ngươi," Nive nói rồi chém đứt lìa đầu cậu thiếu niên đang bất động. Lần này cậu ta không biến thành đàn dơi nữa. Cả đầu lẫn cơ thể cậu ta đều hóa thành cát cho đến khi đó là thứ duy nhất còn sót lại. Đoạn, cô bước tới chỗ cô thiếu nữ ở cách đó một đoạn ngắn.
+"Chúc ngủ ngon. Hẳn bóng tối sẽ dang rộng vòng tay đón chào các ngươi thôi," Nive buông lời rồi phạt bay đầu thằng nhóc đang chết lặng. Lần này nó không hóa thành đàn dơi nữa. Cả đầu lẫn thân mình tan biến thành cát, chẳng còn lại gì ngoài đống bụi vụn ấy. Đoạn, cô bước tới chỗ con bé cách đó vài bước chân.
 
-"Ôi... ôi, ta..." cô thiếu nữ lắp bắp và trừng mắt nhìn vào móng vuốt của Nive.
+"Em... em..." con bé lắp bắp, trân trối nhìn bộ vuốt của Nive.
 
-"Các ngươi có từng lắng nghe những lời cầu xin của những con người mà mình đã sát hại không? Ta không nghĩ là có đâu," Nive nói. Rồi cô chém đôi người cô thiếu nữ. Thân thể cô ta cũng tan rã, và những hạt bụi từng là cơ thể cô ta dần phân tán vào không khí.
+"Trước giờ các ngươi có từng lắng tai nghe người ta van xin trước khi ra tay không? Ta e là không," Nive lạnh lùng bảo. Rồi cô chém đôi người con bé. Thân xác nó cũng rã tan, những hạt bụi từng là da thịt nó lơ lửng rồi tan biến vào thinh không.
 
-Giờ đây khi hai con Ma Cà Rồng đã biến mất, Nive bước tới trước những con Thi Quỷ mới biến đổi một nửa và trầm ngâm nhìn chúng. "Myullias, tới lượt cô đấy," cô nói.
+Khi hai con Ma Cà Rồng đã tan thành mây khói, Nive bước tới trước những kẻ mới biến đổi dở dang thành Thi Quỷ, trầm ngâm nhìn họ. "Myullias, đến lượt cô đấy," cô cất tiếng.
 
-"Mau qua đằng này đi. Rentt, anh có thể giúp một tay được không?"
+"Tới đây nào. Anh Rentt, anh qua giúp một tay được không?"
 
-Đã đến lúc Myullias và tôi dùng Thần Lực của mình để thanh tẩy cho họ. Nive cũng có thể sử dụng Thần Lực, nhưng cô lại không giỏi việc thanh tẩy. Tôi đoán chẳng ai có thể giỏi giang ở mọi lĩnh vực được.
+Đã đến lúc tôi và Myullias dùng Thần Lực thanh tẩy cho họ. Nive cũng biết dùng Thần Lực, nhưng cô ấy lại không thạo thuật thanh tẩy. Nghĩ cũng phải, làm gì có ai việc gì cũng giỏi.
 
-"Cô chắc chứ?" tôi hỏi cô. "Họ tuy chưa biến đổi hoàn toàn nhưng vẫn là Thi Quỷ mà. Cô không muốn tự tay mình làm sao?" Tôi luôn xem Nive là kiểu người chẳng bao giờ bỏ qua cơ hội tiêu diệt một con Ma Cà Rồng, nên tôi không nghĩ cô lại sẵn lòng nhường lại trách nhiệm đó cho người khác.
+"Cô chắc chứ?" tôi hỏi cô ấy. "Họ chưa biến đổi hoàn toàn, nhưng dẫu sao vẫn là Thi Quỷ mà. Cô không muốn tự tay giải quyết à?" Trong mắt tôi, Nive chẳng đời nào bỏ qua cơ hội diệt trừ Ma Cà Rồng, nên tôi không nghĩ cô ấy lại chịu nhường việc này cho người khác.
 
-Nive lắc đầu, trên mặt thoáng nét biểu cảm mơ hồ khác hẳn thường ngày. "Không, chính vì họ chưa hoàn toàn là Thi Quỷ nên tôi mới thà không làm thì hơn. Thân xác và linh hồn của họ vẫn khác biệt so với lũ quái vật kia. Dẫu vậy, giờ đây chẳng còn cách nào để cứu họ nữa. Họ buộc phải bị tiêu diệt. Thật đau buồn khi họ bị ép phải trở thành quái vật trái với ý muốn của mình, và tôi thực sự thấy xót thương cho họ. Chí ít họ cũng xứng đáng có được một cái chết thanh thản, không đau đớn. Tôi cảm thấy như thế thì có kỳ lạ lắm không?"
+Nive lắc đầu, vẻ mặt gượng gạo khác hẳn ngày thường. "Không, chính vì họ chưa biến thành Thi Quỷ trọn vẹn nên tôi mới không muốn ra tay. Cả thể xác lẫn linh hồn họ vẫn khác với lũ quái vật kia. Thế nhưng giờ chẳng còn cách nào cứu vãn nữa, đành phải hạ sát họ thôi. Bị ép biến thành quái vật trái với ý muốn như vậy thật đáng buồn, tôi cũng thấy xót xa cho họ. Chí ít họ xứng đáng được nhắm mắt một cách thanh thản, không phải chịu đớn đau. Tôi nghĩ thế có kỳ quặc lắm không?"
 
-Đó là một sự trắc ẩn đầy bất ngờ thốt ra từ miệng cô. Đương nhiên chẳng có gì là kỳ lạ cả. Nói đúng hơn thì, điều đó vô cùng tử tế.
+Không ngờ một người như cô ấy lại có lúc nhân từ đến thế. Dĩ nhiên chẳng có gì kỳ quặc cả, trái lại còn quá đỗi nhân hậu là đằng khác.
 
-"Không, tôi chỉ hơi sốc khi nghe cô nói thế thôi," tôi đáp. "Tôi nghĩ đó là một ý kiến hay."
+"Không, tôi chỉ hơi bất ngờ khi thấy cô nói vậy thôi," tôi đáp. "Làm thế là phải đấy."
 
-"Chà, dẫu sao thì tôi cũng là đỉnh cao của lòng trắc ẩn cơ mà," Nive vừa cười khúc khích vừa nhún vai nói. "Tôi đối xử tử tế với tất cả mọi người." Cô lại cư xử như thường lệ, nhưng những lời thốt ra từ miệng cô lại hết sức nực cười.
+"Chà, dẫu sao tôi cũng là hiện thân của lòng nhân từ mà," Nive cười khẽ rồi nhún vai. "Với ai tôi chẳng tốt bụng." Cô ấy lại trở về điệu bộ thường ngày, nhưng mấy lời vừa thốt ra nghe khôi hài không chịu nổi.
 
-"Rentt, anh có biết cách làm không?" Myullias hỏi.
+"Anh Rentt, anh biết làm chứ?" Myullias hỏi.
 
-"Biết chứ, chỉ cần dùng Thần Lực thanh tẩy họ như cách người ta vẫn làm với những thứ khác thôi, đúng không?"
+"Biết, cứ dùng Thần Lực thanh tẩy như bình thường là được, đúng không?"
 
-"Phải. Dù vậy, tôi khuyên anh nên làm từng người một. Cố gắng thanh tẩy tất cả cùng một lúc sẽ tiêu tốn nhiều Thần Lực hơn đấy. Tôi sẽ bắt đầu từ đằng này, nên xin anh hãy bắt đầu từ đằng kia nhé."
+"Đúng rồi. Có điều tôi khuyên anh nên thanh tẩy từng người một thôi. Ráng thanh tẩy cùng lúc sẽ hao Thần Lực hơn đấy. Tôi bắt đầu từ phía này, anh làm từ đằng kia lại nhé."
 
-Myullias bước về một đầu của hàng người bán Thi Quỷ, nên tôi cũng rảo bước dọc theo hàng từ phía đối diện. Họ hoàn toàn không có phản ứng gì khi tôi thanh tẩy họ, cơ thể họ hóa thành tro bụi từ đầu ngón tay trở đi. Họ thậm chí còn chẳng la hét hay than khóc. Thay vào đó, tôi nhìn thấy sự thanh thản trong ánh mắt họ.
+Myullias tiến về một đầu hàng những người biến đổi dở dang, còn tôi đi từ phía đối diện lại. Họ chẳng hề phản ứng gì khi nhận Thần Lực thanh tẩy, cơ thể cứ thế hóa tro tàn từ đầu ngón tay trở đi. Không một tiếng thét hay lời than khóc nào cất lên. Thay vào đó, tôi chỉ thấy sự thanh thản trong đáy mắt họ.
 
-Khi tất cả bọn họ đã tan thành tro bụi, chỉ còn lại quần áo và tư trang của họ. Tất cả chúng tôi, bao gồm cả những tù nhân vừa được giải cứu, cùng nhau phân loại đồ đạc của họ để cố gắng xác định danh tính từng người.
+Lúc mọi người đều đã hóa tro tàn, mặt đất chỉ còn trơ lại quần áo và tư trang. Tất cả chúng tôi, kể cả mấy nạn nhân vừa được cứu thoát, cùng xúm lại thu dọn đồ đạc để cố nhận diện tung tích từng người.
 
-"Hửm, cái gì thế này?" Nive hỏi. Cô tiến lại gần một đống tro tàn của con Thi Quỷ tôi vừa thanh tẩy rồi nhặt một cái cây mọc lên từ Thần Lực của tôi. Lần này nó không phải là một mầm cây, mà là một cây non. Một cây non bé tí teo gầy guộc, nhưng dẫu sao thì nó vẫn là một cây non. "Rốt cuộc thứ này là cái gì vậy?"
+"Hử, cái gì đây?" Nive hỏi. Cô ấy bước lại đống tro của một Thi Quỷ do tôi thanh tẩy, nhặt lên một cái cây mọc ra từ Thần Lực của tôi. Lần này không phải mầm cây nữa mà là cả một cây non. Một cây non còi cọc mảnh khảnh, nhưng dẫu sao vẫn là cây con hoàn chỉnh. "Rốt cuộc là trò gì thế này?"
 
-"Tôi được một vị thần thực vật ban phúc, nên cây cối sẽ mọc lên mỗi khi tôi sử dụng Thần Lực," tôi giải thích. "Tôi không nghĩ nó gây hại gì đâu."
+"Tôi nhận được ân phước từ một vị Thần Thực Vật, nên hễ vận Thần Lực là cây cối lại mọc lên," tôi phân trần. "Chắc chẳng hại gì đâu."
 
-"Thần thực vật cơ đấy? Đây quả là một mẫu vật hiếm có. Tôi lấy nó được chứ?"
+"Thần Thực Vật cơ à? Mẫu này hiếm đấy nhé. Tôi lấy được không?"
 
-"Tôi thì sao cũng được, nhưng nó cũng chỉ là một cái cây thôi mà."
+"Tùy cô thôi, nhưng nó cũng chỉ là cái cây con."
 
-"Phần lớn cây cối đâu có thấm đượm Thần Lực như thế này. Biết đâu một ngày nào đó thứ này có thể lớn lên thành một cây Thánh Thụ thì sao. Những cây đó tạo ra các nguyên liệu cực kỳ khó tìm thấy, thế nên có một cây bên cạnh thì tốt biết mấy."
+"Cây cối bình thường làm gì có Thần Lực đượm nồng thế này. Biết đâu sau này nó lại lớn thành Thánh Thụ cũng nên. Loại cây đó cho ra nguyên liệu cực kỳ hiếm thấy, có một cây bên người thì tiện biết bao."
 
-"Tôi không nghĩ chuyện đó xảy ra đâu. Vả lại, làm sao cô có thể kiếm được nguyên liệu từ Thánh Thụ chứ?"
+"Chắc không tới mức đó đâu. Mà làm sao cô kiếm được nguyên liệu từ Thánh Thụ hay vậy?"
 
-"À thì, tôi có mượn tạm một hai nhánh cây," Nive trả lời. "Và để tôi nói cho cậu nghe, trong suốt cái vụ lộn xộn đó tôi cứ ngỡ mình sắp chết đến nơi rồi cơ đấy."
+"Thì... tôi mượn đỡ một hai cành," Nive đáp. "Mà nói thật, phen đó tôi cứ ngỡ mình bỏ mạng tới nơi rồi chứ đùa."
 
-Xứ sở của loài High Elf thậm chí còn không cho phép các mạo hiểm giả bước chân qua biên giới của họ. Tôi không thể tưởng tượng nổi việc đột nhập vào đó và lấy đi một mảnh của cây Thánh Thụ mà họ hết mực trân quý sẽ khó khăn đến mức nào. Theo lời Clope thì chỉ riêng những chiếc lá thôi cũng được cho là chứa nhiều Thần Lực hơn toàn bộ cơ thể tôi rồi. Nhưng bằng cách nào đó, hẳn Nive đã kiếm được một ít.
+Lãnh thổ của High Elf đến mạo hiểm giả còn chẳng cho bén mảng qua biên giới. Tôi không tài nào hình dung nổi việc lẻn vào đó bẻ trộm một mẩu Thánh Thụ mà họ tôn sùng tột bực sẽ trầy trật đến mức nào. Theo lời Clope, chỉ riêng một chiếc lá thôi nghe đâu đã chứa lượng Thần Lực nhiều hơn cả người tôi rồi. Thế mà chẳng hiểu bằng cách nào, Nive lại kiếm được một ít.
 
-"Cô đã lẻn vào sao?"
+"Cô lẻn vào đấy à?"
 
-"Làm như thể còn có cách nào khác để lấy được cành Thánh Thụ không bằng. Lũ High Elf đó đã nã về phía tôi biết bao nhiêu ma pháp. Nếu mà trúng phải thì tôi đã bị bốc hơi thành mây khói rồi."
+"Chứ còn cách nào khác để kiếm cành Thánh Thụ nữa đâu. Đám High Elf đó nã ma pháp về phía tôi như mưa ấy. Dính một phát thôi là tôi bốc hơi thành mây khói ngay."
 
-"Thế thì quá đỗi liều lĩnh rồi," Lorraine nói. Dù bản tính vốn hiếu kỳ, ngay cả cô cũng chẳng đời nào xâm nhập vào một nơi được bảo vệ nghiêm ngặt như lãnh thổ của loài High Elf. "Nhân tiện, rốt cuộc cô cần cành Thánh Thụ để làm gì thế?"
+"Liều mạng quá đấy," Lorraine thốt lên. Dù tính tò mò bẩm sinh, ngay cả cô cũng chẳng dám bén mảng tới nơi phòng bị nghiêm ngặt như vương quốc của High Elf. "Mà nhân tiện, cô kiếm cành Thánh Thụ để làm gì thế?"
 
-"Muốn biết sao? Chà, đó là bí mật. Tôi sẽ cho cô xem nếu có cơ hội thích hợp, nhưng cô sẽ phải kiên nhẫn chờ đến lúc đó đấy."
+"Muốn biết lắm hả? Bí mật đấy. Khi nào có dịp tôi sẽ cho xem, giờ thì ráng đợi đi nhé."
 
-Việc mạo hiểm giả tiết lộ càng ít thông tin càng tốt là điều hết sức bình thường, thế nên tôi có thể hiểu tại sao cô lại không nói cho chúng tôi về thứ mà mình đã phải trải qua bao gian truân vất vả mới có được. Chúng tôi quyết định không gặng hỏi thêm về chuyện đó nữa. Chúng tôi tiếp tục và hoàn tất việc thu dọn tư trang của những con Thi Quỷ.
+Chuyện mạo hiểm giả giấu giếm con bài tẩy là lẽ thường tình, nên tôi hoàn toàn hiểu vì sao cô ấy không hé răng về món đồ phải trầy da tróc vảy mới kiếm được. Cả bọn bèn thôi không gặng hỏi nữa, quay lại thu dọn cho xong đống tư trang của đám Thi Quỷ.
 
-"Này, tôi cảm nhận được rất nhiều năng lượng ở đằng này!" một mạo hiểm giả khác lên tiếng khi vừa đến nơi. Một vài mạo hiểm giả tinh nhuệ khác cùng xuất phát từ Maalt với chúng tôi đã tới đây. Chúng tôi giải thích những gì đã diễn ra.
+"Này, phía này có luồng dao động năng lượng mạnh lắm!" một mạo hiểm giả vừa chạy tới vừa cất tiếng. Vài mạo hiểm giả tinh nhuệ cùng xuất phát từ Maalt với chúng tôi đã tới nơi. Chúng tôi giải thích sơ qua tình hình vừa rồi.
 
-"Vậy thì chúng ta nên đưa những người này quay về thị trấn ngay lập tức," một người đàn ông trung niên có vẻ là trưởng nhóm của họ lên tiếng. "Chúng tôi sẽ hộ tống họ. Các vị cứ tiếp tục tìm kiếm trong mê cung đi."
+"Vậy thì phải đưa mấy người này về thị trấn ngay," một người đàn ông trung niên có vẻ là trưởng nhóm bảo. "Để chúng tôi hộ tống họ về. Các vị cứ tiếp tục lùng sục mê cung đi."
 
-"Các anh chắc chứ? Nếu làm thế thì toàn bộ chiến công sẽ thuộc về chúng tôi đấy," Nive nói. Cô nắm giữ thứ hạng cao nhất và có nhiều kinh nghiệm nhất trong số chúng tôi, nên cô đóng vai trò là người đại diện của nhóm.
+"Các anh chắc chứ? Làm vậy là chúng tôi hưởng hết công trạng đấy nhé," Nive bảo. Cô ấy mang cấp bậc cao nhất và dày dạn kinh nghiệm nhất nhóm, nên đứng ra làm đại diện.
 
-"Các vị là những người tìm thấy lũ Ma Cà Rồng trước, thế nên không sao đâu. Các vị có kỹ năng và kinh nghiệm vượt trội hơn chúng tôi. Hơn nữa, việc đưa những người này trở về thị trấn an toàn cũng là chuyện trọng đại. Hãy hạ gục bất cứ kẻ nào đã làm ra chuyện này với những đồng minh của chúng ta."
+"Các vị là người phát hiện ra lũ Ma Cà Rồng trước, nên cứ nhận đi, không sao cả. Bản lĩnh và kinh nghiệm của các vị hơn hẳn chúng tôi mà. Với lại, đưa mấy người này về thị trấn an toàn cũng quan trọng không kém. Hãy hạ gục bất kỳ kẻ nào đã gây ra chuyện này cho đồng đội của chúng ta."
 
-"Tất nhiên rồi. Chúng tôi sẽ tiêu diệt sạch sẽ bất kỳ con Ma Cà Rồng nào mà mình nhìn thấy. Cứ trông đợi vào điều đó đi."
+"Tất nhiên rồi. Hễ thấy con Ma Cà Rồng nào là chúng tôi diệt sạch con đó. Cứ chờ tin vui đi."
