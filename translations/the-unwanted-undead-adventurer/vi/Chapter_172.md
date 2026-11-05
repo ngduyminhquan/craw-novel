@@ -1,215 +1,215 @@
 # Chương 172: Tập 7 Chương 6 - Puchi Suri (2)
 
-"Nơi này thực sự là đúng chỗ sao ạ?" tôi hỏi khi chúng tôi cùng rảo bước qua khu rừng.
+"Chỗ này đúng thật chứ cha?" tôi hỏi trong lúc cả nhóm rảo bước giữa rừng.
 
-"Phải, không nghi ngờ gì nữa," Ingo đáp.
+"Phải, không sai được đâu," Ingo đáp.
 
-"Nhưng ở đây chẳng có thứ gì cả." Chúng tôi cũng đang ở cách rất xa phế tích có ma pháp trận dịch chuyển, và tôi hoàn toàn chẳng biết chúng tôi đang đi đâu.
+"Nhưng ở đây có gì đâu cha." Nơi này cách rất xa phế tích có ma pháp trận dịch chuyển, mà tôi thì hoàn toàn chẳng biết cả nhóm đang đi đâu.
 
-Lorraine sóng bước bên cạnh tôi, vẻ mặt cô cũng đầy hoang mang. "Bác ấy là cha của anh mà. Chúng ta chỉ đành tin tưởng bác ấy thôi," cô nói.
+Lorraine bước song song bên cạnh tôi, trông cô cũng hoang mang chẳng kém. "Bác ấy là cha anh mà. Giờ mình chỉ còn nước tin bác ấy thôi," cô nói.
 
-Dù sao thì tôi cũng chẳng thấy có lý do gì để Ingo phải nói dối chúng tôi cả. Nhưng ngay cả như vậy, tôi vẫn không thể đoán trước điều gì sẽ xảy ra tiếp theo, và điều đó khiến tôi bất an. Dù thế nào đi nữa, tất cả những gì chúng tôi có thể làm lúc này là lặng lẽ bước theo sau ông.
+Dù sao tôi cũng chẳng thấy cha có lý do gì để nói dối chúng tôi. Dẫu vậy, việc không tài nào đoán nổi chuyện gì sắp xảy ra vẫn khiến tôi bất an. Đằng nào thì giờ chúng tôi cũng chỉ biết lẳng lặng bước theo sau ông.
 
-"Được rồi, chỗ này có vẻ ổn đấy," Ingo nói khi chúng tôi đột ngột dừng bước. Chúng tôi đang ở trong khu rừng phía bắc, nhưng đây là một khoảng đất trống trải thưa thớt cây cối. Trong rừng cũng có vài khoảng trống như thế này, nên chẳng có gì là khác thường cả, song tôi lại không hiểu nổi rốt cuộc chúng tôi có thể làm được gì ở một nơi như thế này. Thế nhưng ngay sau đó, Ingo đưa ngón tay lên miệng rồi huýt sáo một tiếng thật dài.
+"Được rồi, chỗ này chắc ổn đấy," Ingo lên tiếng khi cả nhóm bất ngờ dừng lại. Chúng tôi đang ở khu rừng phía bắc, nơi này là một khoảng đất khá rộng rãi, cây cối thưa thớt. Trong rừng cũng có vài khoảnh đất như thế nên chẳng có gì lạ, chỉ là tôi không hiểu rốt cuộc cả nhóm tới đây làm gì. Rồi bất chợt Ingo đưa ngón tay vào miệng, huýt một tiếng sáo vang.
 
-"Cha đang làm gì thế?" tôi hỏi Lorraine.
+"Cha tôi đang làm gì thế nhỉ?" tôi quay sang hỏi Lorraine.
 
-"Tôi từng nghĩ đến khả năng này, nhưng không ngờ lại làm được thật," cô nói như thể đã biết rõ chuyện gì đang diễn ra.
+"Tôi từng nghĩ đến khả năng này, nhưng không ngờ lại làm được thật," cô nói như thể đã đoán ra sự tình.
 
-Tôi đảo mắt nhìn quanh để cố tìm hiểu xem đó là thứ gì. Đột nhiên, một luồng gió mạnh từ trên cao ập thẳng xuống đầu tôi.
+Tôi dáo dác nhìn quanh xem rốt cuộc là thứ gì. Đúng lúc ấy, một luồng gió mạnh từ trên cao ập thẳng xuống người tôi.
 
-"Cái gì thế?" tôi thốt lên rồi ngước nhìn lên cao. "Một con Rồng sao?" Một sinh vật mang đôi cánh khổng lồ đang sà xuống về phía chúng tôi.
+"Cái gì thế?" tôi ngước nhìn lên. "Rồng sao?" Một sinh vật mang đôi cánh khổng lồ đang sà xuống chỗ chúng tôi.
 
-"Không, đây là một con Á Long, tương tự như loài Tarasque vậy. Nó là một con Lindblum, Á Long sao chổi," Lorraine nhận xét.
+"Không, đây là Á Long, tương tự như Tarasque vậy. Nó là Lindblum, Á Long sao chổi đấy," Lorraine lên tiếng.
 
-Lindblum, đúng như Lorraine giải thích, là một loài Á Long. Nhưng chúng không phải là thứ để người ta có thể xem thường. Chúng khó hạ gục ngang ngửa với một con Tarasque, và tốt nhất là nên để các mạo hiểm giả Kim Cấp hoặc Bạch Kim Cấp đối phó.
+Lindblum, đúng như Lorraine giải thích, là một chủng Á Long. Song tuyệt đối không thể xem thường chúng. Để hạ gục một con Lindblum cũng khó khăn chẳng kém gì Tarasque, tốt nhất là cứ để các mạo hiểm giả Kim Cấp hoặc Bạch Kim Cấp xử lý.
 
-Tôi không rõ tại sao một quái vật như thế lại ở đây, nhưng Ingo đã giải thích. "Với tư cách là quốc vương, ta kế thừa năng lực thuần hóa Lindblum, cùng với vài loài quái vật khác vốn bình thường không thể nào thuần hóa nổi. Ta đồ rằng mục đích ban đầu của năng lực này là để nhà vua có thể tẩu thoát nếu tình huống tồi tệ nhất xảy ra, nhưng ta quả thực thấy tiếc vì năng lực này kém phần dũng mãnh hơn nhiều so với năng lực của Gharb hay Capitan."
+Tôi chẳng rõ vì sao một con quái vật như vậy lại xuất hiện ở đây, nhưng Ingo liền giải thích: "Với tư cách là quốc vương, ta kế thừa năng lực thuần hóa Lindblum cùng vài loài quái vật khác vốn bình thường không thể nào thuần hóa nổi. Ta đoán mục đích ban đầu của năng lực này là để nhà vua tẩu thoát nếu tình huống tồi tệ nhất xảy ra, chỉ tiếc là nó chẳng được oai dũng bằng năng lực của bà Gharb hay Capitan."
 
-"Vậy cha là một người thuần hóa quái vật sao ạ?" tôi hỏi.
+"Vậy cha là người thuần hóa quái vật sao?" tôi hỏi.
 
-"Theo cách gọi thời nay thì đúng là vậy."
+"Nói theo cách thời nay thì đúng là thế."
 
-Capitan từng nhắc đến việc quen biết một người thuần hóa quái vật, nên nhiều khả năng chú ấy đang nói về Ingo. Nếu chú ấy thân thiết với một người thuần hóa quái vật đến mức đó, hẳn chú ấy đã nghe kể tường tận về họ rồi. Nhưng tôi chưa từng nghe nói về việc có ai thuần hóa được một con Á Long hùng mạnh như Lindblum cả. Nghe qua cứ như chuyện bất khả thi vậy.
+Capitan từng nhắc đến việc quen biết một người thuần hóa quái vật, hẳn là chú ấy đang nói về Ingo. Nếu thân thiết với một người thuần hóa quái vật đến mức đó, ắt hẳn chú ấy đã nghe kể đủ điều về họ. Thế nhưng tôi chưa từng nghe nói có ai thuần phục được một con Á Long hùng mạnh cỡ Lindblum. Chuyện ấy nghe qua cứ như bất khả thi.
 
-"Người ta bảo rằng con người không thể huấn luyện bất cứ thứ gì to lớn hơn một con Phi Long nhỏ, nhưng xem ra thực tế không phải như vậy," Lorraine vừa nói vừa nhìn Ingo và con Lindblum.
+"Người ta bảo con người không tài nào thuần dưỡng được sinh vật nào lớn hơn một con Phi Long nhỏ, nhưng xem ra thực tế chẳng phải vậy," Lorraine nói, mắt nhìn Ingo và con Lindblum.
 
-Sau khi con Lindblum đáp xuống, Ingo bắt đầu vuốt ve mũi nó. Con Lindblum khoan khoái cọ cọ đầu vào người Ingo đáp lại, trông nó có vẻ hoàn toàn trung thành.
+Sau khi con Lindblum đáp xuống, Ingo đưa tay vuốt ve mũi nó. Con Lindblum khoan khoái dụi đầu vào người ông đáp lại, nom chừng hết mực phục tùng.
 
-"Nhưng với thứ này, chúng ta chắc chắn có thể quay về Maalt trong nửa ngày," Lorraine nói tiếp. "Quãng đường vốn mất năm ngày đi xe ngựa sẽ chẳng tốn chút thời gian nào nếu chúng ta có thể bay. Tốc độ bay của một con Lindblum thậm chí còn được ví với sao chổi hay tia chớp."
+"Nhưng có nó thì chắc chắn chúng ta sẽ về tới Maalt trong nửa ngày," Lorraine nói tiếp. "Quãng đường vốn mất năm ngày đi xe sẽ chẳng tốn bao nhiêu thời gian nếu có thể bay. Tốc độ bay của Lindblum thậm chí còn được ví với sao chổi hay tia chớp cơ mà."
 
-Nếu chúng tôi có thể cưỡi con Lindblum thì điều đó nhiều khả năng là đúng. Vấn đề duy nhất là liệu chúng tôi có thể cưỡi nó được hay không mà thôi.
+Nếu cưỡi được con Lindblum thì đúng là thế thật. Ngặt nỗi, vấn đề là liệu chúng tôi có cưỡi nổi nó hay không mà thôi.
 
-"Cha à, thế này nghĩa là nó sẽ đưa chúng con về Maalt sao?" tôi hỏi.
+"Cha, vậy là nó sẽ chở chúng con về Maalt sao?" tôi hỏi.
 
-"Phải, nó sẽ làm bất cứ điều gì ta bảo. Hai đứa đã sẵn sàng chưa?" ông hỏi lại. Chúng tôi gật đầu.
-
-◆◇◆◇◆
-
-Tôi rất vui vì được cưỡi Lindblum về Maalt, nhưng đến lúc phải thực sự trèo lên lưng nó, tôi lại thấy căng thẳng. Cha tôi đã leo lên lưng nó từ trước và thuần thục lôi một bộ dây cương từ đâu đó ra.
-
-"Căng thẳng cũng chẳng ích gì đâu," Lorraine nói. "Nếu đây là một con Lindblum hoang dã thì chúng ta phải thận trọng, nhưng Ingo đã hoàn toàn kiểm soát được con này rồi. Sẽ không có vấn đề gì đâu." Cô tiến lại gần con Lindblum trước cả tôi, vuốt ve lớp vảy của nó rồi trèo lên lưng. Gan dạ của cô quả thực gấp trăm lần tôi. "Rentt, trên này nhìn cảnh đẹp lắm đấy! Mau trèo lên đi!" cô hét vọng xuống gọi tôi.
-
-Đến nước này thì tôi chẳng còn cách nào thoái thác được nữa, nên tôi đành bước tới bên con Lindblum. Khi lại gần, tôi mới có thể nhìn rõ tường tận từng chi tiết của nó. Nó sở hữu lớp vảy sáng bóng, đồng tử dựng đứng theo chiều dọc, hàm răng sắc nhọn với những chiếc nanh chìa ra khỏi cái miệng to bè, cùng đôi cánh cứng cáp trông tựa như cánh dơi. Bộ phận nào của nó cũng đều khổng lồ. Thật khó hiểu nổi tại sao nó lại chịu phục tùng một con người, nhưng rõ ràng là nó nghe lời Ingo. Tôi không biết họ đã làm điều đó bằng cách nào, nhưng ắt hẳn con người thời cổ đại phải sở hữu những bí thuật giúp biến điều đó thành hiện thực. Thế thì việc họ bị diệt vong quả là một bí ẩn lớn.
-
-Dù sao đi nữa, tôi cũng cần phải trèo lên. Tôi áp sát lại gần con Lindblum hơn rồi đặt tay lên mình nó. Lớp vảy cho cảm giác thô ráp, nhưng chính kết cấu gồ ghề ấy lại giúp việc trèo lên trở nên dễ dàng. Ngay cả khi tôi trèo lên, con Lindblum vẫn rất ngoan ngoãn. Chắc hẳn nó đã quen với chuyện này rồi.
-
-Khi đã trèo lên hẳn, tôi có thể phóng tầm mắt ngắm nhìn khung cảnh tuyệt đẹp đúng như lời Lorraine nói. Dù sao thì tôi cũng đang nhìn từ một vị trí cao hơn bình thường rất nhiều. Thế nhưng quanh tôi chẳng có gì ngoài rừng rậm, nên cảm giác cũng không quá đỗi ấn tượng. Chúng tôi sắp sửa cất cánh bay, nên tôi biết đằng nào thì khung cảnh phía trước cũng sẽ còn đẹp hơn thế nhiều.
-
-"Được rồi, hai đứa lên cả rồi chứ," Ingo nói. "Bám cho chắc vào kẻo bị hất văng ra đấy. Dù sao thì chúng ta cũng đang vội."
-
-Khi Ingo giật nhẹ dây cương, con Lindblum bắt đầu vỗ cánh. Thân hình đồ sộ của nó dần dần bay lên không trung. Tầm nhìn xung quanh tôi cứ thế cao dần lên từng chút một. Khi chúng tôi đã vượt lên trên những ngọn cây, tôi có thể thu trọn toàn bộ khu rừng phía bắc vào tầm mắt. Rồi chẳng mấy chốc, tôi thậm chí còn có thể nhìn thấy làng Hathara ở đằng xa.
-
-"Ồ, phải rồi," Ingo lên tiếng như thể vừa sực nhớ ra điều gì. "Lorraine, cháu có thể thi triển một ma pháp ngăn người phía dưới nhìn thấy chúng ta không? Cháu làm được điều đó mà, đúng chứ?"
-
-Lindblum vốn là cảnh tượng hiếm gặp, nhưng thỉnh thoảng người ta vẫn có thể bắt gặp chúng bay lượn trên bầu trời. Tuy nhiên, người ta sẽ chẳng bao giờ thấy một con Lindblum được đóng dây cương và chở vài người trên lưng cả. Dĩ nhiên, bình thường đứng từ mặt đất thì khó lòng nhìn rõ một con Lindblum đến mức ấy, nhưng một số mạo hiểm giả lại sở hữu những năng lực không tưởng. Hoàn toàn có cơ sở để tin rằng ít nhất cũng có vài người sở hữu thị lực mạnh đến đáng sợ. Trong tình huống đó, chúng tôi cần một biện pháp để tránh gây chú ý nếu bị nhìn thấy từ bên dưới.
-
-"Cháu làm được, nhưng bình thường bác xử lý vấn đề này thế nào ạ?" Lorraine hỏi trong khi bắt đầu chuẩn bị ma pháp, và hoàn tất nó chỉ sau đó một thoáng.
-
-"Ta không cưỡi Lindblum thường xuyên, nhưng khi cần thì ta nhờ Gharb hỗ trợ," ông vừa nói vừa quan sát ma pháp của Lorraine. "Nhưng Gharb bảo rằng cháu sẽ làm được."
-
-"Đùn việc cho cháu để bà ấy khỏi phải làm chứ gì?" Lorraine lẩm bẩm, nhưng đó cũng là điều dễ hiểu đối với tính khí của Gharb.
-
-"Thắc mắc với Gharb cũng vô ích thôi. Trong làng chẳng ai dám làm trái lời bà ấy cả," lời này được thốt ra từ miệng vị trưởng làng, người trên lý thuyết là nhân vật quyền lực nhất làng. Bà ấy là một cuốn bách khoa toàn thư sống và là một trong những người nắm giữ bí mật của ngôi làng, bên cạnh việc là một ma pháp sư hùng mạnh kiêm bà lão làm thuốc. Nếu ngôi làng dám chống lại bà ấy, điều đó có thể dẫn tới sự hủy diệt theo nhiều cách.
-
-"Đến lúc tăng tốc rồi," Ingo nói. "Ma Lực của Lindblum có thể bảo vệ chúng ta khỏi sức cản của gió, nhưng vẫn sẽ có chút rung lắc đấy. Bám cho chắc vào."
-
-Khi Ingo giật mạnh dây cương, con Lindblum đập cánh rồi bắt đầu lao về phía trước.
+"Phải, nó sẽ nghe theo mọi lời ta bảo. Hai đứa sẵn sàng chưa?" ông hỏi lại. Cả hai chúng tôi cùng gật đầu.
 
 ◆◇◆◇◆
 
-Cảnh vật vun vút trôi qua với tốc độ điên cuồng khi con Lindblum lao đi giữa tầng không. Tôi chưa từng chứng kiến điều gì tương tự như thế này, và cảnh tượng ấy thật sự mê hoặc lòng người. Có lẽ người ta có thể nhìn thấy điều tương tự nếu được ngồi trên một chiếc phi thuyền, nhưng thân phận của tôi lại chẳng đủ quan trọng cho việc đó. Chà, nói đúng hơn thì vấn đề cốt lõi là tiền bạc chứ không phải địa vị. Nhưng ngay cả khi tôi muốn cưỡi thử một lần, ở Vương Quốc Yaaran cũng chẳng hề có chiếc nào. Đế Quốc thì có phi thuyền, nên có lẽ Lorraine đã từng ngồi rồi cũng nên. Thế nhưng ngay cả Lorraine dường như cũng vô cùng phấn khích trước khung cảnh nhìn từ trên lưng con Lindblum này.
+Được cưỡi Lindblum về Maalt thì mừng thật, nhưng đến lúc phải trèo lên lưng nó thật sự, tôi lại thấy căng thẳng. Cha tôi thì đã leo lên lưng nó từ bao giờ, rồi quen tay rút đâu ra một bộ dây cương.
 
-"Tuyệt vời thật đấy," cô nói. "Người ta không thể bay cao đến mức này trên lưng một con Phi Long thông thường đâu. Đây là trải nghiệm mà hiếm ai có cơ hội nếm trải trong đời."
+"Căng thẳng cũng chẳng giải quyết được gì đâu," Lorraine nói. "Nếu đây là Lindblum hoang dã thì mới phải dè chừng, chứ con này đã được bác Ingo thuần phục hoàn toàn rồi. Sẽ không sao đâu." Cô bước lại gần con Lindblum trước cả tôi, vuốt ve lớp vảy của nó rồi trèo lên lưng. Gan cô nàng quả thực lớn hơn tôi cả trăm lần. "Rentt, trên này nhìn thích lắm đấy! Mau trèo lên đi!" cô gọi với xuống.
 
-Phi Long có thể bay khá cao khi không có ai cưỡi trên lưng, nhưng ngay cả khi ấy, chúng cũng chẳng thể duy trì được lâu. Chúng rất nhạy cảm với sự thay đổi nhiệt độ, và nếu bay quá cao, chúng sẽ rơi xuống. Ngược lại, con Lindblum dường như không hề gặp phải những vấn đề như vậy. Ingo từng bảo Ma Lực của nó triệt tiêu mọi sức cản không khí, nên có lẽ nó cũng giải quyết vấn đề nhiệt độ theo cách tương tự. Hoặc giả là bản thân nó vốn đã sở hữu khả năng chống chịu cực cao trước sự thay đổi nhiệt độ rồi. Tôi không phải chuyên gia nên chẳng dám khẳng định chắc chắn. Điều quan trọng là nó không gặp bất kỳ trở ngại nào ở độ cao lớn.
+Đến nước này thì hết đường thoái thác, tôi đành bước lại gần con Lindblum. Lại sát bên, tôi mới nhìn rõ từng chi tiết của nó. Lớp vảy lấp lánh, con ngươi thuôn dọc, hàm răng sắc bén với những chiếc nanh chìa ra khỏi cái miệng lớn, cùng đôi cánh lực lưỡng tựa cánh dơi. Bất kỳ bộ phận nào của nó cũng đều khổng lồ. Thật khó hiểu nổi sao một sinh vật như thế lại chịu phục tùng con người, nhưng rõ ràng nó rất nghe lời Ingo. Tôi chẳng rõ họ làm cách nào, nhưng ắt hẳn người cổ đại phải có những bí thuật để làm được điều đó. Nghĩ vậy, việc họ bị diệt vong lại càng là một bí ẩn lớn.
 
-Thực lòng mà nói, tôi không cảm thấy quá lạnh. Nói cho công bằng thì sau khi biến thành Undead, tôi đã chẳng còn cảm nhận được nhiều thứ nữa, nhưng Lorraine trông cũng không có vẻ gì là rét run cả. Cô ấy cũng là một mạo hiểm giả và có thể có sức chịu đựng tốt hơn trước những điều kiện khắc nghiệt, song ngay cả Ingo trông cũng chẳng hề thấy lạnh. Nhiệt độ dường như hoàn toàn ổn thỏa. Ingo có thể sở hữu năng lực thuần hóa Lindblum, nhưng ông vẫn mang cơ thể của một người đàn ông trung niên bình thường. Điều đó rất dễ nhận ra qua phong thái và cử chỉ của ông. Ngay cả khi trèo lên lưng Lindblum, động tác của ông vẫn mang dáng dấp của một người đã có tuổi.
+Dù sao thì tôi cũng phải trèo lên. Tôi bước sát lại, đặt tay lên mình nó. Cảm giác chạm vào thô ráp, nhưng nhờ bề mặt gồ ghề ấy mà việc trèo lên lại hóa dễ dàng. Suốt lúc tôi leo, con Lindblum vẫn nằm im ngoan ngoãn, chắc nó đã quen với việc này rồi.
 
-"Chúng ta sẽ tới Maalt trong nửa ngày thôi," Ingo nói. "Trong lúc này, cứ thưởng ngoạn phong cảnh đi." Ông nắm chặt dây cương và nhìn thẳng về phía trước.
+Leo được lên lưng nó rồi, tầm mắt tôi mở rộng ngắm trọn khung cảnh đúng như lời Lorraine nói. Dẫu sao thì độ cao này cũng vượt xa tầm mắt thường ngày. Có điều xung quanh chỉ toàn là rừng cây nên trông cũng chưa ấn tượng cho lắm. Dù gì thì chúng tôi cũng sắp cất cánh, cảnh tượng lúc bay ắt hẳn sẽ còn ngoạn mục hơn nhiều.
 
-◆◇◆◇◆
+"Được rồi, lên hết rồi chứ," Ingo bảo. "Bám cho chắc vào kẻo bị hất văng ra đấy. Cả nhóm đang vội mà."
 
-"Kia là cái gì thế?" Lorraine hỏi khi con Lindblum đã gần tới Maalt.
+Khi Ingo giật dây cương, con Lindblum bắt đầu vỗ cánh. Thân hình đồ sộ của nó từ từ nhấc bổng lên không trung. Tầm mắt tôi cứ thế được nâng cao dần từng chút một. Vượt lên khỏi những ngọn cây, tôi đã có thể thu trọn toàn bộ khu rừng phía bắc. Rồi chẳng mấy chốc, từ đằng xa đã thấp thoáng cả bóng dáng Làng Hathara.
 
-Ma pháp che chắn nhận thức của Lorraine đã giúp chúng tôi không bị bất cứ ai dưới mặt đất nhìn thấy trên suốt dọc đường đi, nhưng trời cũng đang dần tối, nên có lẽ điều đó cũng hỗ trợ phần nào. Phép che chắn nhận thức không phải là vạn năng, nên một ma pháp sư có khả năng cảm nhận đặc biệt nhạy bén hoàn toàn có thể phát hiện ra chúng tôi. Thế nhưng việc nhận ra điều gì đó bất thường trong bóng tối mịt mùng này rồi lại thi triển ma pháp của riêng mình để xuyên phá ảo ảnh của chúng tôi trong khi chúng tôi đang bay ở tốc độ cao đến vậy sẽ là một kỳ tích bất khả thi. Xét tới tất cả những điều đó, dĩ nhiên là chúng tôi không hề bị phát hiện. Nhờ thế mà chúng tôi đã có thể thảnh thơi tận hưởng chuyến hành trình trên bầu trời.
+"Ồ, phải rồi," Ingo nói như sực nhớ ra điều gì. "Lorraine, cháu dùng ma pháp che mắt để người bên dưới không nhìn thấy chúng ta được không? Cháu làm được chuyện đó chứ hả?"
 
-Nhưng giờ thì cuộc vui đã tàn. Khi nhìn về hướng Lorraine đang dõi mắt theo, tôi thấy thành phố đang rực sáng. Và đó không phải là do đèn ma thuật. Đây không phải thứ màu sắc mà những ngọn đèn ấy phát ra. Ánh đèn ma thuật trông ấm áp và mờ ảo hơn nhiều. Ánh sáng chúng tôi nhìn thấy ở Maalt lại mang sắc đỏ rực ngả sang màu đỏ thắm. Điều đó chỉ có thể là một thứ duy nhất mà thôi.
+Lindblum vốn hiếm thấy, song thỉnh thoảng người ta vẫn bắt gặp chúng lượn trên bầu trời. Tuy nhiên, đời nào lại có con Lindblum đeo dây cương và chở mấy người trên lưng. Dĩ nhiên đứng từ mặt đất khó lòng nhìn rõ Lindblum đến vậy, nhưng có những mạo hiểm giả sở hữu năng lực ngoài sức tưởng tượng. Chắc chắn không ít người có thị lực tinh tường đến đáng sợ. Bởi thế, chúng tôi cần biện pháp che giấu để tránh gây chú ý lỡ như có ai nhìn lên.
 
-"Thành phố đang bốc cháy sao?!"
+"Cháu làm được, nhưng bình thường bác xử lý chuyện này thế nào?" Lorraine hỏi. Cô vừa nói vừa bắt tay chuẩn bị kết giới ma pháp, thoáng cái đã xong xuôi.
 
-Phải, đó chính là sắc màu của biển lửa ngút ngàn. Lửa không bao trùm toàn bộ Maalt mà chỉ bùng lên ở những khu vực nhất định, nhưng số lượng những điểm cháy lại khá nhiều. Rất nhiều công trình ở Maalt được xây bằng gạch hoặc đá, song số lượng nhà cửa bằng gỗ cũng không hề ít. Nếu những đám cháy này không được dập tắt, chúng có thể lan rộng ra khắp thị trấn. Các ma pháp sư có khả năng sử dụng thủy ma pháp nhiều khả năng đang hớt hải chạy đôn chạy đáo khắp nơi với những lọ thuốc Ma Lực trên tay.
+"Ta cũng chẳng mấy khi cưỡi Lindblum, nhưng khi cần thì lại nhờ bà Gharb hỗ trợ," ông vừa quan sát ma pháp của Lorraine vừa bảo. "Mà bà Gharb bảo cháu làm được món này."
 
-"Rốt cuộc chuyện quái quỷ gì đang diễn ra thế này?" tôi hỏi.
+"Đùn việc cho cháu để khỏi phải động tay chứ gì?" Lorraine lẩm bẩm, nhưng bà Gharb thì đúng là tính thế thật.
 
-Lorraine lắc đầu. "Tôi không rõ, nhưng chúng ta phải giúp dập lửa đã. Rentt, anh chẳng dùng được mấy thủy ma pháp đâu, nên hãy đi thu thập thông tin quanh thị trấn đi. Xem chừng chúng ta phải tính đến khả năng có chuyện gì đó đã xảy ra với Edel rồi."
+"Thắc mắc với bà Gharb cũng vô ích thôi. Trong làng chẳng ai dám cãi lời bà ấy đâu," Trưởng làng nói vậy, dù trên lý thuyết ông mới là người quyền lực nhất làng. Bà Gharb chẳng khác nào một pho bách khoa toàn thư sống, lại là một trong số ít người nắm giữ bí mật của làng, chưa kể còn là một ma pháp sư hùng mạnh kiêm bà lão làm thuốc. Dám làm trái ý bà thì cả làng chỉ có nước rước họa vào thân theo đủ mọi cách.
 
-Tôi thực ra cũng dùng được đôi chút thủy ma pháp, nhưng chắc chắn là chẳng thấm tháp vào đâu để dập một đám cháy. Một tay mơ như tôi có khi chỉ làm mọi chuyện thêm tồi tệ hơn mà thôi. Tôi chẳng thể giúp được gì nhiều. Nhưng Lorraine lại là một ma pháp sư vô cùng tài ba, và tôi biết cô ấy có thể xử lý những tình huống như thế này ra sao. Cách cô ấy phân chia nhiệm vụ cho hai chúng tôi là hoàn toàn chuẩn xác.
+"Đến lúc tăng tốc rồi," Ingo nói. "Ma Lực của Lindblum có thể cản bớt sức gió, nhưng vẫn sẽ có chút rung lắc đấy. Bám cho chặt vào."
 
-Lorraine cũng hoàn toàn đúng về trường hợp của Edel. Cứ cho là nhóc ấy không đơn thuần lăn ra ngủ, thì vẫn có khả năng nhóc không rơi vào nguy hiểm nghiêm trọng. Có thể nhóc ấy chỉ vì gắng sức quá mức mà ngất đi thôi. Thế nhưng, khi vừa quay trở lại Maalt để kiểm tra tình hình của nhóc, chúng tôi lại bắt gặp một thảm họa khá lớn thế này. Dường như hoàn toàn có cơ sở để đoán rằng nhóc ấy đã vướng vào rắc rối nào đó rồi. Chúng tôi vẫn chưa rõ sự tình ra sao, nhưng chúng tôi cần phải tìm thấy nhóc ấy càng sớm càng tốt. Rất may là chúng tôi đã ở đủ gần để tôi có thể lờ mờ cảm nhận được hiện diện của Edel. Có vẻ nhóc ấy vẫn chưa chết, nên ít nhất tôi cũng không cần phải lo lắng về điều đó.
-
-"Được rồi, tôi hiểu rồi. Cha ơi, cha có thể thả chúng con xuống gần Maalt được không?" tôi hỏi.
-
-"Được chứ, nhưng xét theo tình hình hiện tại, người ta có thể nghi ngờ hai đứa dính líu đến chuyện gì đó nếu ta thả hai đứa xuống quá gần thị trấn. Quanh chỗ kia thì sao?" Ingo chỉ tay về phía một khu rừng gần Maalt.
-
-Ma pháp che chắn nhận thức sẽ càng dễ bị nhìn thấu khi chúng tôi càng hạ thấp độ cao xuống gần mặt đất. Nếu có ai đó bắt gặp chúng tôi cưỡi con Lindblum này ngay giữa lúc thảm họa đang diễn ra, điều đó có thể gây nên một sự náo động lớn. May mắn thay, khu rừng ấy không ở quá xa Maalt, nên chúng tôi gật đầu đồng ý.
-
-"Trăm sự nhờ cha đấy ạ!" tôi nói.
-
-Ingo giật mạnh dây cương của con Lindblum.
+Ingo giật nhẹ dây cương, con Lindblum liền vỗ cánh, lao vút về phía trước.
 
 ◆◇◆◇◆
 
-"Ta ước gì mình có thể giúp được việc gì đó," Ingo áy náy nói sau khi tôi và Lorraine bước xuống khỏi Lindblum. Nhưng chúng tôi không bận lòng cho lắm.
+Con Lindblum xé gió lao đi trên bầu trời, cảnh vật hai bên vun vút lùi lại phía sau với tốc độ kinh người. Tôi chưa từng thấy cảnh tượng nào như thế, ngắm nhìn mà không khỏi mê mẩn. Có lẽ ngồi trên phi thuyền cũng thấy được điều tương tự, ngặt nỗi thân phận tôi làm gì đủ tầm. Mà nói thẳng ra, tiền bạc mới là vấn đề mấu chốt. Với lại muốn đi cũng chẳng được, vì ở Vương Quốc Yaaran làm gì có phi thuyền. Bên Đế Quốc mới có, nên biết đâu Lorraine đã từng đi rồi. Ấy thế mà trông cô vẫn phấn khích ra mặt trước khung cảnh nhìn từ lưng con Lindblum.
 
-"Cha à, cha đưa chúng con tới tận đây đã là quá đủ rồi. Hơn nữa, chúng con cũng chưa thực sự biết chuyện gì đang xảy ra, nên khó mà nói cha có thể giúp được gì."
+"Tuyệt thật đấy," cô nói. "Cưỡi Phi Long thường thì không tài nào bay cao được thế này đâu. Trải nghiệm thế này cả đời hiếm ai có được lắm."
 
-Đó là những cảm xúc chân thật trong lòng tôi. Có thể Ingo sở hữu tài năng tuyệt vời của một người thuần hóa quái vật, nhưng thể lực của ông cũng chẳng khá hơn một người đàn ông trung niên bình thường là bao. Năng lực chiến đấu của ông cũng chẳng hơn gì họ. Nếu ông cố làm điều gì đó trong thành phố đang chìm trong biển lửa, ông có thể mất mạng. Ông sở hữu những năng lực hiếm có vốn có thể đóng vai trò then chốt trong các tình huống khác, nên chẳng có lý do gì để ông phải mạo hiểm mạng sống của mình ở nơi này. Nhưng giờ thì tôi lại thấy tiếc vì đã không rủ Gharb hoặc Capitan đi cùng.
+Phi Long lúc không chở ai thì bay khá cao, nhưng cũng chẳng duy trì được bao lâu. Chúng rất nhạy cảm với nhiệt độ thay đổi, bay cao quá là rơi ngay. Trái lại, con Lindblum dường như chẳng hề hấn gì. Ingo bảo Ma Lực của nó triệt tiêu sức cản không khí, nên có khi vấn đề nhiệt độ cũng được xử lý tương tự. Hoặc giả vốn dĩ nó đã chịu lạnh cực tốt rồi. Tôi không phải chuyên gia nên chẳng dám chắc. Quan trọng là lên cao đến mấy nó cũng không hề hấn gì, thế là được.
 
-"Ta hiểu rồi," Ingo nói. "Vậy khi mọi chuyện đã lắng xuống, hãy về thăm làng lần nữa nhé. Giờ ta sẽ quay về đây."
+Thực ra tôi cũng chẳng thấy lạnh lắm. Nói cho đúng thì từ ngày thành Undead, tôi đâu còn cảm giác mấy, nhưng nom Lorraine cũng chẳng có vẻ gì là rét. Cô ấy là mạo hiểm giả nên sức chịu đựng có thể dẻo dai hơn trước nghịch cảnh, song ngay cả Ingo trông cũng chẳng thấy lạnh. Nhiệt độ xem chừng vẫn hoàn toàn ổn thỏa. Ingo sở hữu năng lực thuần hóa Lindblum thật đấy, nhưng thể chất cha vẫn chỉ là một người đàn ông trung niên bình thường. Nhìn cử chỉ đi đứng của cha là thấy rõ ngay. Đến cả lúc trèo lên lưng Lindblum, động tác của cha vẫn rặt vẻ người đã có tuổi.
 
-Tôi và Lorraine gật đầu. Ông chẳng thể làm được gì thêm ở nơi này nữa, nên đó có lẽ là giải pháp tốt nhất. Nếu ông cứ nấn ná ở lại mà có ai đó phát hiện ra ông, mọi chuyện có thể trở nên rắc rối to.
+"Nửa ngày nữa là tới Maalt rồi," Ingo nói. "Trong lúc chờ, hai đứa cứ việc ngắm cảnh đi." Ông siết chặt dây cương rồi nhìn thẳng về phía trước.
 
-Lorraine lại thi triển ma pháp che chắn nhận thức một lần nữa. Phép thuật này duy trì được một khoảng thời gian sau mỗi lần thi triển, miễn là không có ai phá giải nó, nhưng chuyến hành trình tới đây tự nó đã mất kha khá thời gian rồi. Cẩn tắc vô áy náy vẫn là tốt nhất.
+◆◇◆◇◆
+
+"Đằng kia là gì thế?" Lorraine hỏi khi con Lindblum gần tới Maalt.
+
+Suốt dọc đường, ma pháp che chắn nhận thức của Lorraine đã giúp chúng tôi tránh khỏi mọi ánh mắt dưới mặt đất, lại thêm trời đang sẩm tối nên cũng đỡ phần nào. Phép che chắn nhận thức đâu phải vạn năng, ma pháp sư nào có cảm tri đặc biệt nhạy bén vẫn có thể phát hiện ra. Thế nhưng giữa bóng tối mịt mùng thế này, lại đang bay với tốc độ xé gió, việc nhận ra điểm bất thường rồi còn niệm phép phá giải ảo ảnh thì quả là bất khả thi. Bởi vậy, dĩ nhiên chẳng ai phát hiện ra chúng tôi, và chuyến đi giữa tầng không cứ thế trôi qua êm đẹp.
+
+Nhưng giờ thì cuộc vui đã tàn. Nhìn theo hướng mắt Lorraine, tôi thấy cả thành phố đang rực sáng. Đó không phải do đèn ma thuật, vì đèn đâu tỏa ra thứ màu sắc này. Đèn ma thuật trông ấm và dịu hơn nhiều. Ánh sáng đang bao phủ Maalt lại là sắc đỏ rực ngả sang thẫm máu. Điều đó chỉ có thể là một thứ duy nhất mà thôi.
+
+"Thành phố bốc cháy rồi sao?!"
+
+Phải, đó chính là sắc màu của biển lửa hừng hực. Lửa không bao trùm toàn bộ Maalt mà bốc lên ở vài khu vực nhất định, nhưng số điểm cháy lại khá nhiều. Nhiều công trình ở Maalt được xây bằng gạch đá, song nhà gỗ cũng chẳng hề ít. Không dập kịp thì lửa sẽ lan ra khắp thị trấn mất. Hẳn là các ma pháp sư dùng thủy ma pháp đang phải cầm thuốc Ma Lực chạy ngược chạy xuôi khắp chốn.
+
+"Rốt cuộc chuyện quái gì đang xảy ra thế này?" tôi thốt lên.
+
+Lorraine lắc đầu. "Tôi không rõ, nhưng trước hết phải giúp dập lửa đã. Rentt, anh hầu như chẳng dùng được thủy ma pháp, nên cứ đi thu thập tin tức quanh thị trấn đi. Xem chừng phải tính đến khả năng Edel đã gặp chuyện rồi."
+
+Thực ra tôi cũng biết chút ít thủy ma pháp, nhưng chắc chắn chẳng đủ để dập lửa. Tay mơ như tôi nhúng tay vào khéo chỉ tổ làm hỏng việc, chẳng giúp được gì nhiều. Còn Lorraine là một ma pháp sư thực thụ, tôi biết cô ấy thừa sức đối phó với những tình huống thế này. Cách cô phân công nhiệm vụ là hoàn toàn chuẩn xác.
+
+Lorraine nói về Edel cũng chẳng sai. Cứ cho là nó không đơn thuần lăn ra ngủ, thì vẫn có khả năng nó không gặp nguy hiểm gì nghiêm trọng. Có khi nó chỉ kiệt sức rồi ngất đi thôi. Thế nhưng vừa về tới Maalt để xem tình hình, chúng tôi lại đụng ngay phải thảm họa lớn cỡ này. Rất có thể nó đã vướng vào rắc rối nào đó. Dù chưa rõ đầu đuôi, chúng tôi vẫn phải tìm ra nó càng sớm càng tốt. May là đã đến đủ gần để tôi lờ mờ cảm nhận được sự hiện diện của Edel. Xem chừng nó vẫn chưa chết, ít nhất tôi không phải lo chuyện đó.
+
+"Được rồi, tôi biết rồi. Cha ơi, cha thả chúng con xuống gần Maalt được không?" tôi hỏi.
+
+"Được chứ, nhưng tình hình thế này, nếu thả hai đứa xuống quá gần thị trấn khéo người ta lại nghi ngờ. Quanh chỗ kia được không?" Ingo chỉ tay về phía khu rừng cạnh Maalt.
+
+Càng xuống gần mặt đất, ma pháp che chắn nhận thức sẽ càng dễ bị nhìn thấu. Ngay giữa lúc dầu sôi lửa bỏng mà có người thấy chúng tôi cưỡi Lindblum thì ắt sẽ gây náo động lớn. May sao khu rừng cũng chẳng cách Maalt là bao, nên hai đứa liền gật đầu.
+
+"Trông cậy cả vào cha đấy!" tôi nói.
+
+Ingo giật mạnh dây cương con Lindblum.
+
+◆◇◆◇◆
+
+"Giá mà ta giúp được việc gì đó," Ingo áy náy nói sau khi tôi và Lorraine leo xuống khỏi con Lindblum. Nhưng hai chúng tôi chẳng hề bận lòng.
+
+"Cha đưa chúng con tới tận đây đã là quá đủ rồi cha ơi. Vả lại cả bọn còn chưa rõ sự tình ra sao, cha có muốn giúp cũng khó."
+
+Đó là lời thật lòng của tôi. Ingo có thể là một người thuần hóa quái vật tài ba, nhưng thể chất của cha cũng chẳng hơn gì một người đàn ông trung niên bình thường, khả năng chiến đấu cũng vậy. Lao vào thành phố đang chìm trong biển lửa, cha có thể mất mạng như chơi. Cha sở hữu năng lực hiếm có vốn có thể đóng vai trò then chốt trong những tình huống khác, chẳng tội gì phải liều mạng ở chốn này. Có điều, giờ tôi lại thấy tiếc vì không rủ bà Gharb hay Capitan đi cùng.
+
+"Ta hiểu rồi," Ingo nói. "Vậy khi nào mọi chuyện lắng xuống, hai đứa nhớ lại về thăm làng nhé. Giờ ta quay về đây."
+
+Tôi và Lorraine cùng gật đầu. Cha chẳng thể làm gì thêm ở đây nên thế có lẽ là tốt nhất. Cứ nấn ná lại mà bị ai bắt gặp thì rắc rối to.
+
+Lorraine lại thi triển ma pháp che chắn nhận thức thêm lần nữa. Phép này duy trì được một thời gian sau khi niệm, miễn là không ai phá, nhưng chuyến bay tới đây cũng đã ngốn không ít thời gian rồi. Cẩn tắc vô áy náy vẫn hơn.
 
 "Cảm ơn cháu nhé, Lorraine," Ingo cúi đầu nói.
 
-"Ôi, cháu không phiền đâu ạ. Bác hãy giữ gìn ngôi làng thật tốt nhé."
+"Có gì đâu bác. Bác ở lại trông nom làng cẩn thận nhé."
 
-"Được rồi, và cháu hãy chăm sóc con trai ta thật tốt nhé."
+"Ừ, và cháu nhớ chăm sóc con trai ta thật tốt đấy nhé."
 
-"Dĩ nhiên rồi ạ."
+"Tất nhiên rồi bác."
 
-"Con đâu còn là con nít nữa đâu," tôi lên tiếng, nhưng cả hai đều nhìn tôi bằng ánh mắt đầy ngờ vực. Có lẽ tôi còn trẻ con hơn mình tưởng thật.
+"Con đâu còn là con nít nữa đâu mà," tôi cự nự, nhưng cả hai đều nhìn tôi bằng ánh mắt đầy hoài nghi. Chắc tôi còn trẻ con hơn mình tưởng thật.
 
-"Dù sao đi nữa, chúng ta hãy mau chóng tới Maalt thôi," Lorraine đề nghị.
+"Dù sao thì chúng ta cũng phải mau tới Maalt thôi," Lorraine giục.
 
-"Vâng. Hẹn gặp lại cha sau nhé."
+"Con biết rồi. Hẹn gặp lại cha sau nhé."
 
-"Ừ, đừng có mà chết đấy nhé con trai," ông nói. Đoạn, ông cưỡi Lindblum bay đi.
+"Ừ, đừng có mà chết đấy nhé," ông nói rồi cưỡi Lindblum bay đi.
 
-Khi ông đã khuất bóng, tôi và Lorraine chạy vội về phía Maalt. Chúng tôi hoàn toàn chẳng hay biết chuyện gì đang diễn ra, nhưng chúng tôi cần phải tìm hiểu cho ra lẽ.
-
-◆◇◆◇◆
-
-Khi chúng tôi bước chân vào Maalt, nơi đây là một cảnh tượng hỗn loạn cùng cực. Hơi nóng hầm hập như muốn thiêu đốt toàn bộ thị trấn. Một luồng gió nóng rát thốc thẳng vào người chúng tôi giữa lúc người dân thị trấn đang hốt hoảng chạy tán loạn khắp nơi.
-
-"Này anh, có chuyện gì xảy ra thế?!" tôi hỏi một người đàn ông vạm vỡ trong đám đông.
-
-"Gì cơ?! Làm sao tôi biết được chứ?! Tự dưng thị trấn bốc cháy ngùn ngụt khắp nơi! Đang có một đám mạo hiểm giả tán loạn chạy quanh kia kìa, chắc bọn họ biết gì đó đấy!" anh ta gào lên rồi gạt phắt tôi ra. Theo những gì dân thường biết, đây rõ ràng là một thảm họa bất thình lình ập đến.
-
-"Vậy thì chúng ta hãy đi tìm các mạo hiểm giả thôi," Lorraine nói. "Hẳn là phải có người đang cố dập lửa." Cô liền chạy đi tìm kiếm bọn họ, nên tôi cũng bám gót theo sau cô.
+Bóng ông vừa khuất, tôi và Lorraine lập tức chạy vội về phía Maalt. Dù chẳng rõ chuyện gì đang xảy ra, chúng tôi buộc phải tìm hiểu cho bằng được.
 
 ◆◇◆◇◆
 
-"Bên này cần nước! Đừng để ngọn lửa lan rộng!" người chỉ huy của một nhóm có vẻ là các mạo hiểm giả hô lớn. Chúng tôi cuối cùng cũng tìm thấy vài người khi đi tới một khu vực hỏa hoạn đặc biệt dữ dội. Tôi nhìn về hướng thủy ma pháp được phóng ra và thấy một vài ma pháp sư. Tôi thở phào nhẹ nhõm khi tìm được những người có thể giải đáp đôi chút thắc mắc.
+Vừa bước chân vào Maalt, đập vào mắt chúng tôi là cảnh tượng hỗn loạn khôn xiết. Hơi nóng hầm hập như muốn nung chín cả thị trấn. Một luồng gió bỏng rát táp thẳng vào mặt chúng tôi giữa dòng người đang nháo nhào chạy tháo thân khắp ngả.
 
-"Này các anh!" tôi gọi lớn.
+"Này anh ơi, có chuyện gì thế?!" tôi túm lấy một người đàn ông vạm vỡ trong đám đông hỏi lớn.
 
-"Gì đấy?! Tôi đang bận lắm! Đừng có bắt chuyện với tôi!" người mạo hiểm giả gắt gỏng nạt lại, nhưng cả tôi lẫn Lorraine đều đã quá quen với cảnh này rồi. Mọi mạo hiểm giả đều sẽ như thế khi tính mạng đang ngàn cân treo sợi tóc. Bị dọa dẫm cũng chẳng giải quyết được gì.
+"Gì cơ?! Làm sao tôi biết được chứ?! Tự dưng thị trấn bốc cháy khắp nơi thế này! Mấy tay mạo hiểm giả đang chạy đôn chạy đáo ngoài kia kìa, may ra bọn họ biết đấy!" anh ta hét lên rồi gạt phắt tay tôi ra. Xem chừng với người dân thì đây chỉ là một tai ương từ trên trời rơi xuống.
 
-"Chúng tôi cũng là mạo hiểm giả!" tôi nói. "Cô ấy là một ma pháp sư, và cô ấy có thể hỗ trợ dập lửa! Mau tóm tắt ngắn gọn tình hình cho chúng tôi biết đi!"
+"Vậy đi tìm mạo hiểm giả thôi," Lorraine nói. "Chắc chắn có người đang cố dập lửa." Cô liền chạy đi tìm, tôi cũng vội bám gót theo sau.
 
-Người mạo hiểm giả giờ nhìn chúng tôi bằng ánh mắt khác hẳn. "Hiện tại cả thành phố đều đang thiếu người giúp sức! Chỗ này chúng tôi vẫn đang gắng gượng xoay xở được, nên nếu hai người muốn góp sức ở đâu đó thì hãy ra gần cổng chính ấy! Nếu nơi đó sụp đổ thì chẳng ai sơ tán được đâu! Mà tôi cũng nói luôn là lũ quái vật làm chuyện này đấy. Quái vật đã phóng hỏa khắp nơi!"
+◆◇◆◇◆
+
+"Bên này cần thêm nước! Đừng để lửa lan ra!" người dẫn đầu một nhóm trông như mạo hiểm giả hét lớn. Đến một khu vực hỏa hoạn đặc biệt dữ dội, cuối cùng chúng tôi cũng tìm thấy người. Nhìn về hướng thủy ma pháp được bắn ra, tôi thấy mấy ma pháp sư đang thi triển phép. Tôi thở phào nhẹ nhõm khi gặp được người có thể hỏi han đôi điều.
+
+"Này anh ơi!" tôi gọi lớn.
+
+"Gì thế?! Tôi đang bận lắm! Đừng có lằng nhằng!" gã mạo hiểm giả nạt lại, nhưng cả tôi lẫn Lorraine đều đã quá quen với thái độ này. Lúc dầu sôi lửa bỏng liên quan đến tính mạng con người thì mạo hiểm giả nào cũng thế cả, chẳng việc gì phải chùn bước.
+
+"Chúng tôi cũng là mạo hiểm giả!" tôi nói. "Cô ấy là ma pháp sư, có thể phụ giúp dập lửa! Tóm tắt nhanh tình hình cho chúng tôi với!"
+
+Ánh mắt gã mạo hiểm giả lập tức thay đổi. "Hiện tại cả thành phố đều thiếu người! Chỗ này chúng tôi vẫn gắng gượng xoay xở được, hai người muốn góp sức thì ra mạn cổng chính ấy! Nơi đó mà sụp thì chẳng ai sơ tán nổi đâu! Mà nói trước, quái vật làm đấy. Quái vật châm lửa phóng hỏa khắp nơi!"
 
 "Quái vật sao?"
 
-"Phải, nhưng nếu muốn biết thêm chi tiết thì đến Hội đi. Chắc bọn họ đang làm gì đó để đối phó với lũ quái vật đấy. Này! Không phải đằng đó! Xịt nước chếch sang bên phải nhiều hơn!"
+"Phải, nhưng muốn biết thêm thì tới Hội đi. Chắc bên đó đang tìm cách đối phó với lũ quái vật đấy. Này! Không phải đằng đó! Phun nước lệch sang phải nữa đi!"
 
-Tôi và Lorraine nhìn nhau. Có hỏi thêm nữa thì có lẽ cũng chỉ tổ vướng chân vướng tay họ mà thôi.
+Tôi và Lorraine nhìn nhau. Hỏi han thêm nữa khéo chỉ tổ vướng chân người ta.
 
-"Làm phiền anh rồi. Cảm ơn nhé!" tôi nói với người đàn ông rồi chạy vội về hướng Hội. Lorraine dĩ nhiên đã tiến về phía cổng chính. Nơi đó không có nhiều ma pháp sư cho lắm. Một phần là do hỏa hoạn ở khu vực đó chưa đến mức quá tệ, nhưng nó đang bắt đầu bùng lên và trở thành mối lo ngại. Lorraine chí ít cũng có thể xoay xở để giữ cho nơi ấy được an toàn. Còn tôi thì làm những gì có thể để nắm bắt tình hình.
+"Làm phiền anh rồi. Cảm ơn nhé!" tôi nói với gã đàn ông rồi chạy vội về hướng Hội. Lorraine dĩ nhiên tiến về phía cổng chính. Mạn đó không có mấy ma pháp sư, một phần vì hỏa hoạn chưa đến mức quá tệ, nhưng lửa đang bắt đầu bùng lên và trở thành mối lo ngại. Lorraine chí ít cũng đủ sức giữ an toàn cho nơi đó. Còn tôi thì làm những gì có thể để nắm bắt tình hình.
 
 ◆◇◆◇◆
 
-"Vẫn chưa tìm thấy chúng sao?!" tôi nghe thấy tiếng ai đó quát lớn ngay khi vừa bước chân vào Hội. Qua giọng nói ấy, tôi nhận ra ngay đó là Hội Trưởng Wolf Hermann. Tôi không rõ liệu mình đã từng thấy ông ở tầng một trước đây hay chưa. Ông đang bị các nhân viên của Hội vây quanh và lớn tiếng ra lệnh cho họ. Các mạo hiểm giả hối hả chạy ra chạy vào tòa nhà. Nếu tôi chưa hề hay biết nơi này đang có khủng hoảng, thì lúc này tôi cũng đã rõ mười mươi rồi.
+"Vẫn chưa tìm thấy chúng sao?!" Vừa bước chân vào Hội, tôi đã nghe thấy tiếng ai đó quát lớn. Nghe giọng là tôi nhận ra ngay Hội Trưởng Wolf Hermann. Chẳng biết trước đây tôi đã thấy ông dưới tầng một bao giờ chưa nữa. Ông đứng giữa vòng vây của các nhân viên Hội, lớn tiếng ra lệnh chỉ đạo. Mạo hiểm giả hối hả ra vào nườm nượp. Dù trước đó chưa hay tin có khủng hoảng thì lúc này nhìn vào cũng đủ hiểu ngay.
 
-"Wolf!" tôi cất tiếng gọi rồi chạy lại gần ông.
+"Wolf!" tôi gọi rồi chạy lại gần ông.
 
-Ông nhìn tôi với vẻ sửng sốt. "Rentt! Cậu về đúng lúc lắm. Đi theo tôi một lát!" ông nói rồi kéo tôi đi.
+Ông nhìn tôi đầy ngạc nhiên. "Rentt! Cậu đến đúng lúc lắm. Theo tôi một lát!" dứt lời, ông lôi tuột tôi đi.
 
-Chúng tôi đi lên văn phòng của ông. Sau khi chắc chắn rằng không có ai ở ngoài cửa, ông đóng sập cửa lại, kéo tôi vào một góc phòng rồi thì thầm vào tai tôi. "Này, cậu không dính dáng gì đến những chuyện đang xảy ra ở đây đấy chứ?"
+Hai chúng tôi đi lên văn phòng của ông. Sau khi nhìn trước ngó sau chắc chắn không có ai ngoài cửa, ông đóng sập cửa lại, kéo tôi vào một góc phòng rồi ghé tai thì thào: "Này, cậu không dính líu gì đến những chuyện đang xảy ra ở đây đấy chứ?"
 
-"Ý ông là sao cơ? Tôi chỉ vừa mới quay về thị trấn và nhìn thấy thảm cảnh này thôi! Mau nói cho tôi biết rốt cuộc có chuyện gì đang xảy ra đi!"
+"Ý ông là sao? Tôi vừa mới về tới thị trấn là thấy ngay thảm cảnh này rồi! Mau nói cho tôi biết rốt cuộc có chuyện gì đi!"
 
-Câu trả lời của tôi dường như khiến Wolf thở phào nhẹ nhõm. "Ừ, cũng phải thôi. Chà, phía Hội cũng chưa rõ ngọn ngành mọi chuyện ra sao, nhưng có Ma Cà Rồng xuất hiện. Một nhóm Ma Cà Rồng đang hoành hành khắp thị trấn. Chúng đang phóng hỏa đốt phá nơi này."
+Câu trả lời của tôi dường như khiến Wolf nhẹ nhõm hẳn. "Ừ, cũng phải. Phía Hội cũng chưa nắm rõ ngọn ngành, nhưng có Ma Cà Rồng. Một bầy Ma Cà Rồng đang làm loạn khắp thị trấn, phóng hỏa đốt phá khắp nơi."
 
-Tôi giật mình kinh ngạc khi nghe thấy điều đó. Rồi tôi hiểu ra câu hỏi của Wolf. Ông hỏi xem liệu tôi có dính líu hay không là vì bản thân tôi cũng là một con Ma Cà Rồng. Dĩ nhiên là tôi không hề liên can, nhưng điều đó thì chỉ có mình tôi biết rõ. Dù sao thì ông vẫn tin tưởng tôi, và vì điều đó mà tôi thấy vô cùng biết ơn. Có lẽ tôi vẫn chưa hoàn toàn xóa tan được mọi mối nghi ngờ, nhưng miễn là ông sẵn lòng giải thích những gì mình biết, chuyện đó cũng chẳng thành vấn đề. Tôi cố ngầm bày tỏ sự trong sạch của mình trong lúc đặt ra vài câu hỏi.
+Nghe vậy tôi không khỏi ngạc nhiên. Giờ thì tôi đã hiểu vì sao Wolf lại hỏi thế. Ông hỏi tôi có dính líu hay không là vì bản thân tôi cũng là Ma Cà Rồng. Dĩ nhiên tôi chẳng dính dáng gì, nhưng chuyện đó thì chỉ mình tôi hay. Dẫu vậy ông vẫn chọn tin tôi, điều đó khiến tôi vô cùng cảm kích. Có thể tôi chưa hoàn toàn xóa sạch mọi ngờ vực, nhưng miễn là ông chịu kể ra những gì mình biết thì cũng chẳng sao. Tôi vừa hỏi thêm vừa ngầm chứng minh sự trong sạch của mình.
 
-"Vậy là ông đã phát hiện ra Ma Cà Rồng trong thị trấn sao? Tôi chẳng quen biết con Ma Cà Rồng nào cả."
+"Vậy là phát hiện ra Ma Cà Rồng trong thị trấn sao? Tôi đâu có quen con Ma Cà Rồng nào."
 
-"Chà, tôi cũng chẳng hình dung nổi cậu kiếm được lợi lộc gì từ chuyện này đâu. Tôi vốn biết rõ điều đó rồi. Dù sao đi nữa, những con Ma Cà Rồng mà chúng tôi phát hiện đang phóng hỏa lại là lũ Ma Cà Rồng cấp thấp nhất. Nói cách khác thì là Thi Quỷ. Cho đến giờ chúng tôi phát hiện khoảng mười con, nhưng với tốc độ hỏa hoạn bùng phát thế này, có khi phải lên tới hàng trăm con. Quái quỷ thật, rốt cuộc bấy lâu nay chúng trốn ở xó xỉnh nào chứ?"
+"Tôi cũng chẳng nghĩ ra cậu kiếm được lợi lộc gì từ chuyện này, bụng tôi biết thừa. Có điều lũ Ma Cà Rồng bị bắt quả tang đang phóng hỏa lại thuộc đẳng cấp thấp nhất. Nói cách khác chính là Thi Quỷ. Đến giờ mới phát hiện tầm mười con, nhưng với tốc độ lửa bùng lên thế này thì khéo phải cả trăm con. Quái quỷ thật, bấy lâu nay chúng chui rúc ở xó xỉnh nào không biết?"
 
-Cho đến tận gần đây, bản thân tôi cũng từng là một Thi Quỷ, nhưng nhìn chung Thi Quỷ là những con người bị Ma Cà Rồng hút máu và bị nhiễm một ít máu của Ma Cà Rồng trong quá trình đó, dẫn đến việc bị biến dị. Trông chúng chẳng khác nào những con người tàn tạ, già nua. Chúng không hoàn toàn thối rữa như Ngạ Quỷ, nhưng như người ta có thể hình dung từ diện mạo trước kia của tôi, chúng chẳng khác gì những xác chết nếu đem so với một con người bình thường.
+Cách đây không lâu, bản thân tôi cũng từng là Thi Quỷ. Về cơ bản, Thi Quỷ là con người sau khi bị Ma Cà Rồng hút máu thì nhận lại một lượng máu nhỏ của chúng, khiến cơ thể biến dị. Trông chúng chẳng khác nào những kẻ già nua, tàn tạ. Dù không thối rữa đến mức như Ngạ Quỷ, nhưng cứ nhìn diện mạo trước kia của tôi là đủ hiểu, so với người bình thường thì chúng chẳng khác nào cái xác biết đi.
 
-"Lũ chúng nó đang phóng hỏa sao?"
+"Chính lũ chúng nó châm lửa sao?"
 
-"Phải, khắp mọi ngóc ngách. Nhưng ban đầu trông chúng chẳng khác nào con người. Có vẻ như chúng đã dùng ma thuật để ngụy trang khuôn mặt. Chúng trùm kín người bằng trang phục dài tay, nên cậu sẽ chẳng thể nhận ra được. Ai mà biết chúng đã lẩn khuất trong thị trấn này bao lâu rồi? Cứ nghĩ đến thôi đã thấy rợn người."
+"Phải, khắp mọi ngóc ngách. Ban đầu trông chúng chẳng khác gì người thường. Có vẻ như chúng dùng ma thuật ngụy trang khuôn mặt, lại mặc đồ dài tay kín mít nên khó mà nhận ra. Ai mà biết chúng đã lẩn khuất trong thị trấn này bao lâu rồi? Nghĩ đến thôi đã thấy phát khiếp."
 
-"Thi Quỷ không giống như Hạ Cấp Ma Cà Rồng, chúng đâu cần nhiều máu đến thế."
+"Thi Quỷ không như Hạ Cấp Ma Cà Rồng, chúng đâu cần nhiều máu đến thế."
 
-"Chắc là vậy. Về lý thuyết thì chúng cũng phải uống máu, nhưng chúng ăn đủ thứ. Dù là chó, mèo, côn trùng hay xác chết, chúng đều ăn tuốt. Thành thử ra chúng là loài dễ sinh sôi nảy nở nhất trong các đô thị. Hạ Cấp Ma Cà Rồng sẽ cần một lượng máu lớn, nên nếu có nhiều con như thế quanh đây, chúng ta sẽ nhận ra ngay tắp lự."
+"Chắc thế. Về lý thì chúng cũng uống máu, nhưng lại ăn tạp đủ thứ. Chó mèo, sâu bọ hay xác chết, cái gì chúng cũng xơi tất. Thành thử chúng mới dễ sinh sôi nảy nở nhất trong các khu thành thị. Hạ Cấp Ma Cà Rồng thì cần rất nhiều máu, nếu có một bầy quanh đây thì chúng ta đã nhận ra ngay rồi."
 
-Đây chính là một minh chứng cho thấy ngay cả những quái vật yếu hơn cũng có thể sở hữu những lợi thế riêng. Lợi thế cho lũ Thi Quỷ, ý tôi là vậy. Còn đối với chúng tôi thì điều đó tồi tệ vô cùng.
+Đúng là quái vật càng yếu thì đôi khi lại có cái lợi riêng. Lợi cho lũ Thi Quỷ, ý tôi là thế. Còn với chúng tôi thì chuyện này tệ hại hết chỗ nói.
 
-"Dù sao đi nữa, Hội đang dốc toàn lực để truy lùng lũ Thi Quỷ cùng bất kỳ con Ma Cà Rồng nào nhiều khả năng đang tạo ra chúng. Cậu cũng nên tham gia cùng đi."
+"Dù sao thì Hội cũng đang dốc toàn lực lùng sục lũ Thi Quỷ cùng con Ma Cà Rồng nhiều khả năng đang tạo ra chúng. Cậu cũng tham gia một tay đi."
