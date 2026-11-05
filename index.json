@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T03:45:12Z",
+  "generatedAt": "2026-11-05T03:49:20Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2818,7 +2818,7 @@
           "number": 111,
           "title": "Chương 111: Phần kết Tập 4",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_111.md",
-          "sha": "a4d8c9453718eb53abcfb634b6a76494cdd8e4fa"
+          "sha": "d5dc3c18d6a87ceec3db339f46f56a3f0b47dd29"
         },
         {
           "number": 112,
