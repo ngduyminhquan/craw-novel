@@ -14,7 +14,7 @@ Nghe qua là biết không tưởng rồi, chẳng cần phải nghĩ ngợi gì
 
 "Có phải vì bà phải giấu chuyện mình là ma pháp sư với những người Hathara khác không ạ?"
 
-"Phải, mà sư phụ ta hồi đó cũng làm được. Chắc đây là kỹ năng riêng của bọn ta. Dù sao thì, Rentt à, ta thấy Ma Lực của cháu khác hẳn ngày trước. Không khó để nhận ra cháu đã đổi khác phần nào. Thú thật, ta cứ ngờ ngợ mãi về những chuyện xảy ra với cháu ở Maalt. Thể chất cháu biến đổi, lại còn nuôi cả quyến thuộc... bao nhiêu thứ đó làm ta cứ thắc mắc mãi. Rồi đùng một cái, ta chợt nghĩ ra."
+"Phải, mà sư phụ ta hồi đó cũng làm được. Chắc đây là kỹ năng riêng của chúng ta. Dù sao thì, Rentt à, ta thấy Ma Lực của cháu khác hẳn ngày trước. Không khó để nhận ra cháu đã đổi khác phần nào. Thú thật, ta cứ ngờ ngợ mãi về những chuyện xảy ra với cháu ở Maalt. Thể chất cháu biến đổi, lại còn nuôi cả quyến thuộc... bao nhiêu thứ đó làm ta cứ thắc mắc mãi. Thế rồi ta chợt hiểu ra."
 
 Tôi đoán bà đã nhận ra tôi thực sự biến thành một thứ kỳ dị. Như thế mới giải thích được vì sao Ma Lực của tôi đổi khác, sức chiến đấu tăng vọt, còn thể chất thì biến đổi ra sao. Chắc do tôi để lộ nhiều manh mối trước mặt bà Gharb quá. Cơ mà bà đoán ra được thì cũng đáng nể thật. Thấy giấu giếm thêm cũng chẳng ích gì, tôi quyết định thú thật hết mọi chuyện.
 
@@ -34,9 +34,9 @@ Ngay cả bà Gharb tới tận lúc này mới nhận ra tôi là loài quái v
 
 "Nghe Rentt giải thích nãy giờ chắc bà cũng thấy rồi đấy, dù có thể là Ma Cà Rồng, nhưng anh ấy lại khác Ma Cà Rồng bình thường ở khá nhiều điểm," Lorraine giải thích. "Thế nên khó mà khẳng định chắc chắn liệu anh ấy có thực sự là Ma Cà Rồng hay không. Cơ mà Ma Cà Rồng vốn có đủ chủng loại. Tôi đoán anh ấy thuộc một phân loài nào đó chúng ta chưa biết tới, nhưng tôi cũng chỉ nắm được đến thế thôi."
 
-"Ma Lực của nó đúng là khác hẳn Ma Cà Rồng bình thường thật. Ma Lực của lũ kia cảm giác nhớp nháp hơn nhiều, cảm nhận rõ cả vẻ tăm tối bên trong. Còn ở Rentt thì ta chẳng thấy chút nào như thế," bà Gharb nói như một chuyên gia sành sỏi về Ma Lực.
+"Ma Lực của thằng bé đúng là khác hẳn Ma Cà Rồng bình thường thật. Ma Lực của lũ kia cảm giác nhớp nháp hơn nhiều, cảm nhận rõ cả vẻ tăm tối bên trong. Còn ở Rentt thì ta chẳng thấy chút nào như thế," bà Gharb nói như một chuyên gia sành sỏi về Ma Lực.
 
-Tôi nhìn sang Lorraine xem cô có biết gì về vụ này không, nhưng cô chỉ ngậm ngùi lắc đầu. Đây chắc chắn là biệt tài riêng của bà Gharb rồi. Mà nếu bà đã rành Ma Lực của Ma Cà Rồng đến mức giám định được như thế, ắt hẳn trước kia bà từng chạm mặt chúng ở cự ly gần.
+Tôi nhìn sang Lorraine xem cô có biết gì về vụ này không, nhưng cô chỉ chua chát lắc đầu. Đây chắc chắn là biệt tài riêng của bà Gharb rồi. Mà nếu bà đã rành Ma Lực của Ma Cà Rồng đến mức giám định được như thế, ắt hẳn trước kia bà từng chạm mặt chúng ở cự ly gần.
 
 "Bà từng gặp Ma Cà Rồng rồi ạ?" tôi tò mò hỏi.
 
@@ -56,7 +56,7 @@ Không phải tôn giáo nào cũng bài xích Ma Cà Rồng. Như Giáo Hội �
 
 "Sao Giáo Hội Lobelia lại căm ghét Ma Cà Rồng đến thế nhỉ?" tôi buột miệng hỏi câu đầu tiên nảy ra trong đầu. "Cứ như có thù giết cha giết mẹ không bằng."
 
-"Thì cái chuyện chúng hút máu người có mấy ai ưa nổi đâu. Cứ nghĩ mình là thức ăn cho họ thì ai chẳng thấy đây là chuyện một mất một còn. Ngoài ra, chắc cũng dính líu chút đố kỵ nữa."
+"Thì cái chuyện chúng hút máu người có mấy ai ưa nổi đâu. Cứ nghĩ mình là thức ăn cho chúng thì ai chẳng thấy đây là chuyện một mất một còn. Vả lại, chắc cũng có phần đố kỵ trong đó nữa."
 
 "Đố kỵ ạ?" tôi ngơ ngác nhắc lại, nghiêng đầu.
 
@@ -84,7 +84,7 @@ Bà Gharb chẳng chạm tới được Bản Ghi Akashic, cũng không biết c
 
 Phần lớn mọi người cả đời cũng chẳng bao giờ nhìn thấy Rồng. Tôi hiểu ý họ muốn nói gì, cơ mà sự thật vốn đã là vậy rồi.
 
-"Cháu đụng phải thật mà. Việc cháu biến thành thế này chính là bằng chứng đấy thôi. Tuy bằng chứng này không lấy gì làm thuyết phục cho lắm, nhưng dẫu sao thì..."
+"Cháu đụng phải thật mà. Cháu biến thành thế này chính là bằng chứng đấy thôi. Tuy bằng chứng này chẳng thuyết phục mấy, nhưng dù sao thì..."
 
 Chuyện người bình thường đột biến thành quái vật gần như là điều bất khả thi. Có kẻ cất công lùng sục máu Ma Cà Rồng vì mục đích ấy, hay có người hễ biết được là lại ráo riết tìm nguyên liệu cho nghi thức biến thành Lich, nhưng bà Gharb và Capitan thừa biết tôi chẳng đời nào nhọc công đi làm mấy việc đó.
 

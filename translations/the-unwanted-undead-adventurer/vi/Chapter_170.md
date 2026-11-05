@@ -1,8 +1,8 @@
 # Chương 170: Tập 7 Chương 5 - Laura, Đương Chủ Gia Tộc Latuule (2)
 
-"Cách làm thì có lẽ để chú làm mẫu luôn cho cháu thấy là dễ nhất. Chú sẽ làm thật chậm để cháu nhìn kỹ," Capitan nói rồi bắt đầu tập trung Khí Lực bên trong cơ thể. Tôi cảm nhận được luồng khí quen thuộc như lúc chú dùng kỹ năng này trong trận đấu vừa rồi. Khí Lực cuồn cuộn ngưng tụ dày đặc trên bề mặt cơ thể chú. Một lát sau, Capitan thở dài. "Xong rồi đấy, cứ chạm vào thử xem," chú vừa nói vừa đưa cánh tay phải ra.
+"Cách làm thì có lẽ để chú làm mẫu luôn cho cháu thấy là dễ nhất. Chú sẽ làm thật chậm để cháu nhìn kỹ," Capitan nói rồi bắt đầu tập trung Khí Lực bên trong cơ thể. Tôi cảm nhận được luồng khí quen thuộc như lúc chú ấy dùng kỹ năng này trong trận đấu vừa rồi. Khí Lực cuồn cuộn ngưng tụ dày đặc trên bề mặt cơ thể chú ấy. Một lát sau, Capitan thở dài. "Xong rồi đấy, cứ chạm vào thử xem," chú ấy vừa nói vừa đưa cánh tay phải ra.
 
-Trông bề ngoài chú chẳng có vẻ gì là thay đổi. Điểm khác biệt duy nhất tôi nhận ra là Khí Lực tỏa ra rõ hơn đôi chút, nhưng cũng tương tự như khi vận khí để cường hóa sức mạnh thể chất. Thế nhưng khi tôi đưa tay chạm vào, tôi lại chẳng hề chạm tới cánh tay chú. Có một lớp gì đó cản lại ở giữa. Cảm giác hệt như một luồng tĩnh điện đang đẩy lùi tay tôi ra. Tôi càng cố ấn mạnh vào thì luồng tĩnh điện ấy lại càng dội ngược ra mạnh hơn.
+Trông bề ngoài chú ấy chẳng có vẻ gì là thay đổi. Điểm khác biệt duy nhất tôi nhận ra là Khí Lực tỏa ra rõ hơn đôi chút, nhưng cũng tương tự như khi vận khí để cường hóa sức mạnh thể chất. Thế nhưng khi tôi đưa tay chạm vào, tôi lại chẳng hề chạm tới cánh tay chú ấy. Có một lớp gì đó cản lại ở giữa. Cảm giác hệt như một luồng tĩnh điện đang đẩy lùi tay tôi ra. Tôi càng cố ấn mạnh vào thì luồng tĩnh điện ấy lại càng dội ngược ra mạnh hơn.
 
 "Giờ thì thử dùng cái này chém vào xem," Capitan nói và đưa cho tôi một con dao găm. Lưỡi dao được mài sắc lẹm.
 
@@ -20,21 +20,21 @@ Hóa ra con dao găm hoàn toàn chẳng chém nổi vào tay Capitan. Vừa ch�
 
 ![](images/ch170-01.webp)
 
-"Chú bảo làm nhanh lên, chứ cháu đâu cần phải chém mạnh tay thế," Capitan cằn nhằn rồi lườm tôi một cái. Chắc thấy nhát dao vung nhanh quá nên chú cứ ngỡ tôi thực bụng muốn phạt đứt cánh tay chú thật. Dù sao cũng là chính chú yêu cầu, nên tôi chỉ nhìn chằm chằm lại khiến chú phải thở dài. Thôi thì công bằng mà nói, tôi cũng có chém mạnh hơn mức cần thiết một chút. "Thôi, sao cũng được. Giờ thì hiểu đại khái rồi chứ?"
+"Chú bảo làm nhanh lên, chứ cháu đâu cần phải chém mạnh tay thế," Capitan cằn nhằn rồi lườm tôi một cái. Chắc thấy nhát dao vung nhanh quá nên chú ấy cứ ngỡ tôi thực bụng muốn phạt đứt cánh tay mình thật. Dù sao cũng là chính chú ấy yêu cầu, nên tôi chỉ nhìn chằm chằm lại khiến chú ấy phải thở dài. Thôi thì công bằng mà nói, tôi cũng có chém mạnh hơn mức cần thiết một chút. "Thôi, sao cũng được. Giờ thì hiểu đại khái rồi chứ?"
 
-"Vậy tức là tạo một lớp giáp bằng Khí Lực sao chú?"
+"Vậy tức là tạo một lớp giáp bằng Khí Lực à?"
 
 "Đó chỉ là cách chú dùng lúc này thôi, còn nói chung thì nó giống như biến Khí Lực thành thứ gì đó hữu hình vậy. Với Ma Lực cháu cũng làm được thế, đúng không? Chú biết cháu tạo Khiên Chắn bằng Ma Lực được mà."
 
 Nghe vậy tôi hiểu ra ngay. Ngay từ hồi Ma Lực còn yếu ớt, đó cũng là một trong số ít kỹ năng tôi dùng được. Chỉ cần hiểu nguyên lý vận hành thì thi triển cũng không đến mức quá khó.
 
-"Với Khí Lực cũng làm được tương tự sao chú?" tôi hỏi.
+"Khí Lực cũng làm được tương tự sao chú?" tôi hỏi.
 
-"Không hẳn. Chú chẳng phải chuyên gia về ma thuật, nên đây chỉ là những gì chú nghe bà Gharb nói lại thôi. Nhưng khi cháu tạo khiên bằng Ma Lực, cháu phải định hình dáng khiên ra sao, duy trì triển hiện bao lâu cùng đủ thứ chi tiết trước khi tạo ra nó, đúng không?"
+"Không hẳn. Chú chẳng phải chuyên gia về ma thuật, nên đây chỉ là những gì chú nghe bà Gharb nói lại thôi. Nhưng khi cháu tạo khiên bằng Ma Lực, cháu phải định hình dáng khiên ra sao, duy trì trong bao lâu cùng đủ thứ chi tiết trước khi tạo ra nó, đúng không?"
 
-Đúng là thế thật. Ma thuật là thứ sức mạnh đòi hỏi lý thuyết chặt chẽ, cấu trúc câu thần chú không vững thì sẽ thất bại ngay lập tức. Dù chỉ là triển hiện một tấm khiên, người ta vẫn phải xây dựng thần chú bài bản và biết chính xác mình định làm gì.
+Đúng là thế thật. Ma thuật là thứ sức mạnh đòi hỏi lý thuyết chặt chẽ, cấu trúc câu thần chú không vững thì sẽ thất bại ngay lập tức. Dù chỉ là dựng lên một tấm khiên, người ta vẫn phải xây dựng thần chú bài bản và biết chính xác mình định làm gì.
 
-"Khí Lực thì khác sao chú?"
+"Thế Khí Lực thì khác à?"
 
 "Phải, cái này dựa vào cảm nhận nhiều hơn là suy nghĩ. Thay vì tính toán theo logic, muốn điều khiển Khí Lực thì phải bắt được cái cảm của nó. Cho nên nói thẳng ra, kể cả một kẻ đần nếu cứ kiên trì tập mãi thì cũng học được cách dùng Khí Lực thôi. Chẳng cần chút đầu óc nào cả."
 
@@ -46,17 +46,17 @@ Khí Lực thì ngược lại, không phải cứ học giỏi là dùng giỏi
 
 Capitan quỳ một chân xuống nhặt một cành cây ngắn. Tôi chăm chú quan sát khi chú truyền Khí Lực vào đó, và chỉ một khoảnh khắc sau, một chiếc lá rụng từ tán cây bên trên đã bị chém đứt làm đôi.
 
-"Chiêu vừa rồi là gì thế chú?" tôi hỏi, ngỡ ngàng trước những gì vừa thấy.
+"Chiêu vừa rồi là gì thế?" tôi hỏi, ngỡ ngàng trước những gì vừa thấy.
 
-"Trông như chẳng có thứ gì chạm vào nó, đúng không? Nhưng chú đã kéo dài một lưỡi đao Khí Lực ra từ đầu cành cây này đấy. Chính thứ đó đã cắt đôi chiếc lá," Capitan giải thích trong khi làm động tác như đang chạm vào lưỡi đao vô hình. Chú đưa lưỡi đao về phía tôi và bảo tôi chạm thử, nên tôi cẩn thận vươn tay ra. Hóa ra ở đó thực sự có một thứ gì đó. Tôi không nhìn thấy nó, nhưng cảm giác chạm vào hệt như một lưỡi đao dài.
+"Trông như chẳng có thứ gì chạm vào nó, đúng không? Nhưng chú đã kéo dài một lưỡi đao Khí Lực ra từ đầu cành cây này đấy. Chính thứ đó đã cắt đôi chiếc lá," Capitan giải thích trong khi làm động tác như đang chạm vào lưỡi đao vô hình. Chú ấy đưa lưỡi đao về phía tôi và bảo chạm thử, nên tôi cẩn thận vươn tay ra. Hóa ra ở đó thực sự có một thứ gì đó. Tôi không nhìn thấy nó, nhưng cảm giác chạm vào hệt như một lưỡi đao dài.
 
 "Khi cháu thực sự nắm vững kỹ thuật này, cháu có thể làm được mấy việc như thế đấy. Muốn nắn Khí Lực thành hình gì cũng được. Tiện đúng không?"
 
-Nghe đúng là tiện thật. Thậm chí dùng để đánh lén thì hết ý. Việc đó là ý nghĩ đầu tiên nảy ra trong đầu có lẽ cũng nói lên đôi điều về con người tôi, nhưng thứ này xem chừng là món nghề mà giới sát thủ sẽ vô cùng trân quý.
+Nghe đúng là tiện thật. Thậm chí dùng để đánh lén thì hết ý. Chuyện đó lại là ý nghĩ đầu tiên nảy ra trong đầu kể cũng nói lên đôi điều về con người tôi, nhưng thứ này xem chừng là món nghề mà giới sát thủ sẽ vô cùng trân quý.
 
-"Thế nhưng dĩ nhiên là có nhược điểm," Capitan thừa nhận. "Dùng nó cực kỳ kiệt sức. Nếu chỉ là một trận đánh thông thường, việc đơn thuần truyền Khí Lực vào vũ khí sẽ dễ dàng hơn nhiều. Tốt nhất có lẽ nên để dành thứ này làm giải pháp cuối cùng."
+"Thế nhưng dĩ nhiên là có nhược điểm," Capitan thừa nhận. "Dùng nó cực kỳ kiệt sức. Nếu chỉ là trận đánh thông thường, cứ truyền thẳng Khí Lực vào vũ khí sẽ dễ hơn nhiều. Tốt nhất có lẽ nên để dành thứ này làm giải pháp cuối cùng."
 
-Tôi thấy mồ hôi túa ra trên trán Capitan kể từ lúc chú bắt đầu cụ thể hóa Khí Lực. Rõ ràng việc sử dụng nó tiêu hao rất nhiều sức lực. Trình độ vận dụng Khí Lực của chú ấy vượt trội hơn tôi rất nhiều, nên nếu ngay cả chú cũng thấm mệt đến mức này thì tôi chẳng biết mình có thể duy trì được bao lâu.
+Tôi thấy mồ hôi túa ra trên trán Capitan kể từ lúc chú ấy bắt đầu cụ thể hóa Khí Lực. Rõ ràng dùng chiêu này tiêu hao rất nhiều sức lực. Trình độ vận dụng Khí Lực của chú ấy vượt trội hơn tôi rất nhiều, nên nếu ngay cả chú ấy cũng thấm mệt đến mức này thì tôi chẳng biết mình có thể duy trì được bao lâu.
 
 "Dù sao thì cứ thử xem sao. Còn về cách thực hiện, chú sẽ rèn cho cháu tới nơi tới chốn; cứ tiếp tục thử đi. Nếu luyện tập đủ nhiều, cuối cùng cháu cũng sẽ tự tìm ra cách thôi," Capitan nói, mang đúng dáng dấp của người thầy nghiêm khắc tàn nhẫn mà tôi từng nhớ năm xưa. Điều đó làm sống dậy những ký ức kinh hoàng ngày trước.
 
@@ -64,7 +64,7 @@ Tôi thấy mồ hôi túa ra trên trán Capitan kể từ lúc chú bắt đ�
 
 Sau khi Capitan giảng giải sơ qua cách cụ thể hóa Khí Lực, chú ấy bắt tôi tự mình thử đi thử lại không ngừng.
 
-"Được rồi, giờ hãy giữ nguyên như thế đi," chú bảo tôi.
+"Được rồi, giờ hãy giữ nguyên như thế đi," chú ấy bảo tôi.
 
 Tôi đang cụ thể hóa Khí Lực theo cách vừa được chỉ dẫn, nhưng chẳng tài nào khiến nó bao bọc khắp cơ thể như Capitan đã làm. Thay vào đó, tất cả những gì tôi làm được là bọc quanh lòng bàn tay để tạo nên một lớp giáp Khí Lực vụng về. Tôi không thể nhìn thấy nó, nhưng tôi có thể cảm nhận được. Trạng thái lý tưởng là tạo ra thứ gì đó như một lớp da thứ hai phủ lên da thịt mình, thế nhưng thứ này lại giống một chiếc găng tay dày cộp hơn.
 
@@ -76,19 +76,19 @@ Tôi đang cụ thể hóa Khí Lực theo cách vừa được chỉ dẫn, nh�
 
 "Ai mà biết được chứ? Còn tùy cháu chăm chỉ tới đâu. Nhưng với cháu thì chỉ bảo vệ một phần cơ thể thôi có lẽ cũng đã là quá đủ rồi. Dạo này mắt mũi cháu xem chừng tinh tường hơn xưa thì phải."
 
-Đúng là thị lực của tôi đã tốt hơn trước. Nhờ thế phản xạ cũng nhanh hơn, nên dẫu tôi chỉ có thể triển hiện lớp giáp bao bọc một phần cơ thể thì có lẽ vẫn dùng phần đó như một dạng khiên chắn được.
+Đúng là thị lực của tôi đã tốt hơn trước. Nhờ thế phản xạ cũng nhanh hơn, nên dẫu tôi chỉ có thể tạo lớp giáp bao bọc một phần cơ thể thì có lẽ vẫn dùng phần đó như một dạng khiên chắn được.
 
 "Nhưng ngay cả thế thì có vẻ cũng khó mà dùng thường xuyên được," tôi nói.
 
-"Đó là bởi cháu đang lãng phí quá nhiều năng lượng đấy. Chú bảo cháu làm cho lớp giáp mỏng hơn là để tiết kiệm hao tổn hơn. Ồ, hình như lớp giáp chỗ kia có kẽ hở kìa," Capitan nói rồi thẳng tay nện một đòn bằng cành cây. Cứ phải sửa lại lớp giáp sau mỗi lần bị chú ấy phá vỡ quả là cực kỳ vất vả. Sau đó, cuối cùng Khí Lực trong người tôi cũng cạn kiệt, chẳng thể triển hiện thêm được thứ gì nữa. Tôi đã cố hết sức nhưng chẳng cảm thấy chút Khí Lực nào dâng lên. "Xem ra hôm nay chúng ta phải dừng ở đây thôi. Nếu cháu đã cạn kiệt Khí Lực thì cũng chẳng làm thêm được gì nữa. Chú đoán là vẫn có những cách để ép thêm một ít ra đấy."
+"Đó là bởi cháu đang lãng phí quá nhiều năng lượng đấy. Chú bảo cháu làm cho lớp giáp mỏng hơn là để tiết kiệm hao tổn hơn. Ồ, hình như lớp giáp chỗ kia có kẽ hở kìa," Capitan nói rồi thẳng tay nện một đòn bằng cành cây. Cứ phải sửa lại lớp giáp sau mỗi lần bị chú ấy phá vỡ quả là cực kỳ vất vả. Sau đó, cuối cùng Khí Lực trong người tôi cũng cạn kiệt, chẳng thể tạo thêm được thứ gì nữa. Tôi đã cố hết sức nhưng chẳng cảm thấy chút Khí Lực nào dâng lên. "Xem ra hôm nay chúng ta phải dừng ở đây thôi. Nếu cháu đã cạn kiệt Khí Lực thì cũng chẳng làm thêm được gì nữa. Chú đoán là vẫn có những cách để ép thêm một ít ra đấy."
 
-"Vẫn có cách sao chú?"
+"Còn có cách đó nữa sao?"
 
-"Phải, nếu cháu sẵn lòng rút ngắn tuổi thọ của mình. Nó cũng sẽ mang lại cho cháu lượng Khí Lực mạnh mẽ hơn thường lệ nữa. Nhưng vì những lý do hiển nhiên nên chú không khuyến khích đâu," chú nói. Câu trả lời của Capitan nghe thật đáng sợ, nhưng rồi chú chợt nghĩ ra điều gì đó. "Mà thực ra, nếu đằng nào cháu cũng chẳng có giới hạn tuổi thọ thì biết đâu nó lại rất hợp với cháu đấy chứ. Cháu đâu có tuổi thọ, đúng không?"
+"Phải, nếu cháu sẵn lòng rút ngắn tuổi thọ của mình. Nó cũng sẽ mang lại cho cháu lượng Khí Lực mạnh mẽ hơn thường lệ nữa. Nhưng vì lý do quá rõ ràng nên chú không khuyên dùng đâu," chú ấy nói. Câu trả lời của Capitan nghe thật đáng sợ, nhưng rồi chú ấy chợt nghĩ ra điều gì đó. "Mà thực ra, nếu đằng nào cháu cũng chẳng có giới hạn tuổi thọ thì biết đâu nó lại rất hợp với cháu đấy chứ. Cháu đâu có tuổi thọ, đúng không?"
 
 Thế nhưng tôi lắc đầu tỏ ý không ham. "Thôi, cháu xin kiếu. Có thể cháu không có tuổi thọ thật, nhưng cũng có thể là có; cháu đâu có rõ. Ngay từ đầu cháu còn chưa biết chính xác bản thân mình rốt cuộc là thứ gì nữa kìa. Tự dưng thử trò gì kỳ quặc như thế thì khéo hỏng bét cả người mất."
 
-Dẫu vậy, tôi có thể lập tức tự lành vết thương và không cần phải ngủ. Xét đến mọi đặc điểm dị thường của mình, việc nhận định tôi là một Undead và Ma Cà Rồng dường như là điều hiển nhiên, nhưng tôi không thể dám chắc hoàn toàn. Nếu tôi thử nghiệm phương pháp đánh đổi tuổi thọ lấy Khí Lực này, biết đâu chừng nó lại lấy mạng tôi thật thì sao.
+Dẫu vậy, tôi có thể lập tức tự lành vết thương và không cần phải ngủ. Xét mọi đặc điểm dị thường của mình, cứ coi tôi là Undead và Ma Cà Rồng thì cũng hợp lý thôi, nhưng tôi không thể dám chắc hoàn toàn. Nếu tôi thử nghiệm phương pháp đánh đổi tuổi thọ lấy Khí Lực này, biết đâu chừng nó lại lấy mạng tôi thật thì sao.
 
 "Chú đã từng dùng cách đó bao giờ chưa?" tôi hỏi Capitan.
 
@@ -118,7 +118,7 @@ Capitan và tôi tiếp tục bàn luận về chuyện đó trong lúc quay tr�
 
 "Thôi nào, đừng hỏi nhiều quá," cô nói. "Dù sao thì trông thế nào? Khá ngon mắt đấy chứ?"
 
-Tôi phải thừa nhận rằng trông tất cả đều khá ngon mắt, nhưng tôi cũng nhận ra không phải do mẹ Gilda làm. Cách nấu có nét khác biệt tinh tế so với tay nghề của mẹ. Dĩ nhiên nói vậy không có ý rằng đây là điều dở.
+Tôi phải thừa nhận rằng trông tất cả đều khá ngon mắt, nhưng tôi cũng nhận ra không phải do bà Gilda làm. Cách nấu có nét khác biệt tinh tế so với tay nghề của mẹ. Dĩ nhiên nói vậy không có ý rằng đây là điều dở.
 
 "Mấy món này là do Riri với Fahri làm à?"
 

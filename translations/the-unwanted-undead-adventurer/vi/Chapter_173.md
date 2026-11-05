@@ -42,7 +42,7 @@ Hôm ấy là lần đầu tiên có kẻ bị đánh văng thẳng lên bàn c�
 
 Sau khi chứng kiến toàn bộ sự việc, Robista thì thầm: "Maalt đúng là một nơi đáng sợ."
 
-Hayden bật cười. "Tôi nghĩ ý ngài là một nơi thú vị thì có. Đùa thế thôi, tôi không dám bảo chuyện này xảy ra hằng ngày, nhưng ngài thấy đấy, ở đây ồn ào náo nhiệt hơn trên vương đô nhiều. Đổi lại thì chẳng bao giờ thấy chán."
+Hayden bật cười. "Tôi nghĩ ý ngài là một nơi thú vị thì có. Đùa thế thôi, tôi không dám bảo chuyện này xảy ra hằng ngày, nhưng rõ ràng ở đây ồn ào náo nhiệt hơn trên vương đô nhiều. Đổi lại thì chẳng bao giờ thấy chán."
 
 "Xem ra đúng là thế. Nhưng sao người đàn ông đó lại bị đánh văng lên bàn của tôi?"
 
@@ -70,7 +70,7 @@ Chỉ riêng qua chuỗi sự việc này, đây rõ ràng là một người hi
 
 "Cảm ơn cậu," bá tước nói. "Nhưng ngay từ đầu họ đánh nhau vì chuyện gì thế?"
 
-"À, ban đầu họ ngồi uống rượu với nhau rất vui vẻ, nhưng khi kể cho nhau nghe nơi mình sống, họ lại cãi nhau xem thị trấn của ai quê mùa hơn. Một bên bảo thị trấn mình quê hơn vì xung quanh có ếch khổng lồ, bên kia lại cãi thị trấn mình mới quê vì đầy nhện độc, thế rồi càng nói càng nóng mặt cho đến khi họ quyết định phân thắng bại bằng màn đọ sức. Lẽ ra tôi phải cản họ lại, nhưng tôi nghĩ sau cuộc ẩu đả nhỏ vừa rồi chắc họ cũng thỏa mãn rồi. Dù sao để mọi chuyện đi xa đến mức đó cũng có lỗi của tôi, nên tôi thấy mình có nghĩa vụ phải trả tiền đồ ăn cho các vị."
+"À, ban đầu họ ngồi uống rượu với nhau rất vui vẻ, nhưng khi kể cho nhau nghe nơi mình sống, họ lại cãi nhau xem thị trấn của ai quê mùa hơn. Một bên bảo thị trấn mình quê hơn vì xung quanh có ếch khổng lồ, bên kia lại cãi thị trấn mình mới quê vì đầy nhện độc, thế rồi càng nói càng nóng mặt cho đến khi họ quyết định phân thắng bại bằng màn đọ sức. Lẽ ra tôi phải cản họ lại, nhưng tôi nghĩ sau cuộc ẩu đả nhỏ vừa rồi chắc họ cũng thỏa mãn rồi. Dù sao để mọi chuyện đi xa đến mức đó cũng có lỗi của tôi, nên tôi thấy mình phải đền bữa ăn này cho các vị."
 
 "Tôi có thể hiểu được nếu người ta cãi nhau xem đâu là thành phố lớn hơn, đằng này lại cãi nhau xem đâu là thị trấn quê mùa hơn sao?" Bản thân vốn xuất thân từ thành phố lớn, bá tước nghiêng đầu khó hiểu. Ông từng tranh luận với các quý tộc khác xem thành phố của ai phát triển hơn nên hiểu được chuyện đó. Nhưng chuyện này thì vượt quá tầm hiểu biết của ông.
 
@@ -82,17 +82,17 @@ Hayden bật cười bảo: "Chà, người thành thị có lòng tự hào c�
 
 "Mà nếu ngài đến đây trong bí mật, hẳn ngài có công việc gì đó ở đây đúng không? Nếu ngài cần mạo hiểm giả địa phương nào thì cứ bảo tôi. Tôi nhận làm với giá rẻ thôi. Tôi không dám nhận mình mạnh lắm, nhưng tôi nắm khu vực này khá rõ."
 
-Bá tước cười khổ trước màn tự tiến cử này. Ông nghĩ người đàn ông đeo mặt nạ đã làm việc đó khá khéo. Anh đã biến một việc thoạt nhìn như sai lầm lớn thành cơ hội làm ăn. Dĩ nhiên có khả năng bá tước sẽ nổi giận với anh, nhưng hẳn anh đã nhận ra vị quý tộc không hề có cảm xúc như vậy. Bằng không anh đã chẳng nói gì. Và có vẻ như ít nhất một phần nào đó, anh cũng thật lòng muốn xin lỗi.
+Bá tước cười khổ trước màn tự tiến cử này. Ông nghĩ người đàn ông đeo mặt nạ đã làm việc đó khá khéo, biến một việc thoạt nhìn như sai lầm lớn thành cơ hội làm ăn. Dĩ nhiên có khả năng bá tước sẽ nổi giận, nhưng hẳn anh ta đã nhận ra vị quý tộc không hề có cảm xúc như vậy, bằng không đã chẳng nói gì. Và có vẻ như ít nhất một phần nào đó, anh ta cũng thật lòng muốn xin lỗi.
 
 Bá tước Robista đưa mắt nhìn sang Hayden. Ông muốn biết liệu người đàn ông này có đáng tin hay không. Dưới góc nhìn của bá tước, người đàn ông đeo mặt nạ này có vẻ khá thú vị và có lẽ còn đáng tin cậy, nhưng mạo hiểm giả là đối tượng không thể xem nhẹ. Những kẻ thoạt nhìn có vẻ ổn hoàn toàn có thể trở mặt phản bội, đặc biệt là ở những thị trấn thôn quê, đúng như những gì Hayden đã giải thích trên đường họ tới đây. Hayden sẽ là người phán đoán. Chưa từng có ai tiếp cận mượt mà như người đàn ông đeo mặt nạ này, nhưng trước đây từng có những mạo hiểm giả tìm cách tự chào mời với bá tước, và Hayden đều phớt lờ tất cả. Trong phần lớn trường hợp, lý do là vì họ rất có thể là sát thủ do kẻ thù của bá tước phái tới. Người đàn ông đeo mặt nạ này trông cũng có vẻ như là một kẻ trong số đó. Xét việc anh ta chủ động tiếp cận nhanh chóng như vậy, anh ta có khi lại là người đáng ngờ nhất.
 
-Thế nhưng Hayden lại gật đầu với bá tước. Đó là cử chỉ cho thấy tạm thời có thể tin tưởng người này. Bá tước lấy làm ngạc nhiên, bởi điều đó đồng nghĩa với việc mọi hành động từ nãy đến giờ của người đàn ông đeo mặt nạ đều không được lên kế hoạch trước, mà anh chỉ đơn thuần ứng biến theo hoàn cảnh. Bá tước muốn tìm hiểu thêm đôi chút về người đàn ông đeo mặt nạ này.
+Thế nhưng Hayden lại gật đầu với bá tước. Đó là cử chỉ cho thấy tạm thời có thể tin tưởng người này. Bá tước lấy làm ngạc nhiên, bởi điều đó đồng nghĩa với việc mọi hành động từ nãy đến giờ của người đàn ông đeo mặt nạ đều không được lên kế hoạch trước, mà chỉ đơn thuần ứng biến theo hoàn cảnh. Bá tước muốn tìm hiểu thêm đôi chút về người đàn ông đeo mặt nạ này.
 
 "Chúng tôi vẫn chưa có kế hoạch cụ thể nào, nhưng chúng tôi muốn thu thập nguyên liệu ở Maalt một thời gian," ông nói. "Ngày mai một người quen sẽ dẫn chúng tôi đi tham quan, nhưng chuyện đó chắc cũng chỉ ngẫu hứng qua loa thôi. Liệu ngày kia cậu có thể dẫn chúng tôi đi xem quanh vùng được không?"
 
-Theo dự kiến thì Tử tước Lottnel sẽ dẫn họ đi tham quan, nhưng chuyến đi ấy sẽ hoàn toàn đứng dưới góc nhìn của một quý tộc, nên có thể ông không biết nhiều về đời sống của thường dân hay một số nguyên liệu cụ thể. Bá tước dự định tự mình bù đắp thiếu sót đó bằng cách tìm một người dẫn đường khác. Nếu có thể nhờ một người dân địa phương đáng tin cậy thì ông chẳng ngại gì mà không làm. Người đàn ông đeo mặt nạ đã thể hiện cả năng lực lẫn tính cách của mình, nên xem ra có đủ lý do để chọn anh.
+Theo dự kiến thì Tử tước Lottnel sẽ dẫn họ đi tham quan, nhưng chuyến đi ấy sẽ hoàn toàn đứng dưới góc nhìn của một quý tộc, nên có thể ông không biết nhiều về đời sống của thường dân hay một số nguyên liệu cụ thể. Bá tước dự định tự mình bù đắp thiếu sót đó bằng cách tìm một người dẫn đường khác. Nếu có thể nhờ một người dân địa phương đáng tin cậy thì ông chẳng ngại gì mà không làm. Người đàn ông đeo mặt nạ đã thể hiện cả năng lực lẫn tính cách của mình, nên xem ra có đủ lý do để chọn người này.
 
-"Hai ngày nữa sao?" người đàn ông đeo mặt nạ nói. "Tôi hiểu rồi. À, ngài có thể cho tôi biết trước những nguyên liệu ngài muốn tìm được không? Như thế công việc của tôi sẽ dễ hơn." Anh không thể dẫn bá tước đi xem mọi loại nguyên liệu ở Maalt, nên câu hỏi của anh là hoàn toàn dễ hiểu.
+"Hai ngày nữa sao?" người đàn ông đeo mặt nạ nói. "Tôi hiểu rồi. À, ngài có thể cho tôi biết trước những nguyên liệu ngài muốn tìm được không? Như thế công việc của tôi sẽ dễ hơn." Anh ta không thể dẫn bá tước đi xem mọi loại nguyên liệu ở Maalt, nên câu hỏi đó là hoàn toàn dễ hiểu.
 
 "Chúng tôi chủ yếu muốn tìm các nguyên liệu dùng làm thuốc, hoặc bất cứ thứ gì có tiềm năng dùng làm thuốc," bá tước thừa nhận. "Đó là lý do tôi không muốn giới hạn phạm vi tìm kiếm quá hẹp. Liệu việc đó có khó không?" Dù mạo hiểm giả này có tài giỏi đến đâu, cũng khó lòng biết hết mọi thứ có tiềm năng làm thuốc được. Bá tước hỏi vậy dù biết đó sẽ là một thử thách.
 

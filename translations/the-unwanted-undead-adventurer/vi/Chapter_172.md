@@ -8,7 +8,7 @@
 
 Lorraine bước song song bên cạnh tôi, trông cô cũng hoang mang chẳng kém. "Bác ấy là cha anh mà. Giờ mình chỉ đành tin bác ấy thôi," cô nói.
 
-Dù sao tôi cũng chẳng thấy cha có lý do gì để nói dối chúng tôi. Dẫu vậy, không tài nào đoán nổi chuyện gì sắp xảy ra vẫn khiến tôi bất an. Đằng nào thì giờ chúng tôi cũng chỉ biết lẳng lặng bước theo sau ông.
+Dù sao tôi cũng chẳng thấy cha có lý do gì để nói dối chúng tôi. Dẫu vậy, không tài nào đoán nổi chuyện gì sắp xảy ra vẫn khiến tôi bất an. Đằng nào thì giờ chúng tôi cũng chỉ biết lẳng lặng bước theo sau cha.
 
 "Được rồi, chỗ này chắc ổn đấy," Ingo lên tiếng khi cả nhóm bất ngờ dừng lại. Chúng tôi đang ở khu rừng phía bắc, nhưng chỗ này là một khoảng đất rộng rãi, cây cối thưa thớt. Trong rừng cũng có vài khoảnh đất như thế nên chẳng có gì lạ, chỉ là tôi không hiểu rốt cuộc cả nhóm làm được gì ở đây. Thế rồi Ingo đưa ngón tay vào miệng, huýt một tiếng sáo.
 
@@ -24,7 +24,7 @@ Tôi dáo dác nhìn quanh xem rốt cuộc là thứ gì. Đúng lúc ấy, m�
 
 Lindblum, đúng như Lorraine giải thích, là một loài Á Long. Song tuyệt đối không thể xem thường chúng. Hạ gục một con Lindblum cũng khó chẳng kém gì Tarasque, tốt nhất là cứ để các mạo hiểm giả Kim Cấp hoặc Bạch Kim Cấp xử lý.
 
-Tôi chẳng rõ vì sao một con quái vật như vậy lại ở đây, nhưng Ingo đã giải thích: "Với tư cách là quốc vương, ta kế thừa năng lực thuần hóa Lindblum cùng vài loài quái vật khác vốn bình thường không thể nào thuần hóa nổi. Ta đoán mục đích ban đầu của năng lực này là để nhà vua thoát thân nếu tình huống xấu nhất xảy ra, chỉ tiếc là nó chẳng oai dũng bằng năng lực của bà Gharb hay Capitan."
+Tôi chẳng rõ vì sao một con quái vật như vậy lại ở đây, nhưng Ingo đã giải thích: "Với tư cách là quốc vương, ta kế thừa năng lực thuần hóa Lindblum cùng vài loài quái vật khác vốn bình thường không thể nào thuần hóa nổi. Ta đoán mục đích ban đầu của năng lực này là để nhà vua thoát thân nếu tình huống xấu nhất xảy ra, chỉ tiếc là nó chẳng oai phong bằng năng lực của bà Gharb hay Capitan."
 
 "Vậy cha là người thuần hóa quái vật sao?" tôi hỏi.
 
@@ -34,7 +34,7 @@ Capitan từng nhắc đến chuyện quen một người thuần hóa quái v�
 
 "Người ta bảo con người không thể huấn luyện sinh vật nào lớn hơn một con Phi Long nhỏ, nhưng xem ra thực tế chẳng phải vậy," Lorraine nói, mắt nhìn Ingo và con Lindblum.
 
-Sau khi con Lindblum đáp xuống, Ingo đưa tay vuốt ve mũi nó. Con Lindblum khoan khoái dụi đầu vào người ông đáp lại, trông hết sức trung thành.
+Sau khi con Lindblum đáp xuống, Ingo đưa tay vuốt ve mũi nó. Con Lindblum khoan khoái dụi đầu vào người cha tôi đáp lại, trông hết sức trung thành.
 
 "Nhưng có nó thì chắc chắn chúng ta sẽ về tới Maalt trong nửa ngày," Lorraine nói tiếp. "Quãng đường vốn mất năm ngày đi xe sẽ chẳng tốn bao nhiêu thời gian nếu có thể bay. Tốc độ bay của Lindblum thậm chí còn được ví với sao chổi hay tia chớp cơ mà."
 
@@ -42,7 +42,7 @@ Nếu cưỡi được con Lindblum thì đúng là thế thật. Chỉ có đi�
 
 "Cha, vậy là nó sẽ chở chúng con về Maalt sao?" tôi hỏi.
 
-"Phải, nó sẽ làm bất cứ điều gì ta bảo. Hai đứa sẵn sàng chưa?" ông hỏi lại. Cả hai chúng tôi cùng gật đầu.
+"Phải, nó sẽ làm bất cứ điều gì ta bảo. Hai đứa sẵn sàng chưa?" cha hỏi lại. Cả hai chúng tôi cùng gật đầu.
 
 ◆◇◆◇◆
 
@@ -66,11 +66,11 @@ Lindblum vốn hiếm gặp, song thỉnh thoảng người ta vẫn bắt gặp
 
 "Cháu làm được, nhưng bình thường bác xử lý chuyện này thế nào?" Lorraine hỏi trong lúc bắt đầu thiết lập ma pháp, và chỉ thoáng sau đã hoàn tất.
 
-"Ta không cưỡi Lindblum thường xuyên, nhưng khi cần thì lại nhờ bà Gharb hỗ trợ," ông vừa quan sát ma pháp của Lorraine vừa bảo. "Nhưng bà Gharb bảo cháu sẽ làm được."
+"Ta không cưỡi Lindblum thường xuyên, nhưng khi cần thì lại nhờ bà Gharb hỗ trợ," cha vừa quan sát ma pháp của Lorraine vừa bảo. "Nhưng bà Gharb bảo cháu sẽ làm được."
 
 "Đùn việc cho cháu để bà ấy khỏi phải động tay chứ gì?" Lorraine lẩm bẩm, nhưng bà Gharb thì đúng là tính thế thật.
 
-"Thắc mắc với bà Gharb cũng vô ích thôi. Trong làng chẳng ai dám cãi lời bà ấy đâu," vị trưởng làng nói vậy, dù trên lý thuyết ông mới là người quyền lực nhất làng. Bà Gharb chẳng khác nào một cuốn bách khoa toàn thư sống, lại là một trong những người nắm giữ bí mật của làng, chưa kể còn là một ma pháp sư hùng mạnh kiêm bà lão làm thuốc. Nếu làng dám làm trái ý bà, họ có thể lâm vào cảnh khốn đốn theo đủ mọi cách.
+"Thắc mắc với bà Gharb cũng vô ích thôi. Trong làng chẳng ai dám cãi lời bà ấy đâu," vị trưởng làng nói vậy, dù trên lý thuyết ông ấy mới là người quyền lực nhất làng. Bà Gharb chẳng khác nào một cuốn bách khoa toàn thư sống, lại là một trong những người nắm giữ bí mật của làng, chưa kể còn là một ma pháp sư hùng mạnh kiêm bà lão làm thuốc. Nếu làng dám làm trái ý bà, họ có thể lâm vào cảnh khốn đốn theo đủ mọi cách.
 
 "Đến lúc tăng tốc rồi," Ingo nói. "Ma Lực của Lindblum có thể cản bớt sức gió, nhưng vẫn sẽ có chút rung lắc đấy. Bám cho chặt vào."
 
@@ -84,9 +84,9 @@ Con Lindblum lao vút qua bầu trời, cảnh vật vun vút trôi qua với t�
 
 Phi Long lúc không chở ai thì bay được khá cao, nhưng cũng chẳng duy trì được lâu. Chúng rất nhạy cảm với thay đổi nhiệt độ, bay cao quá là rơi ngay. Ngược lại, con Lindblum dường như chẳng gặp vấn đề gì như thế. Ingo bảo Ma Lực của nó triệt tiêu sức cản không khí, nên có khi vấn đề nhiệt độ cũng được xử lý theo cách tương tự. Hoặc vốn dĩ nó đã chịu đựng thay đổi nhiệt độ cực tốt ngay từ đầu. Tôi không phải chuyên gia nên chẳng dám nói chắc. Quan trọng là lên độ cao lớn nó cũng không gặp trở ngại gì.
 
-Thực ra tôi cũng chẳng thấy lạnh lắm. Công bằng mà nói thì từ ngày thành Undead, tôi đâu còn cảm nhận được nhiều thứ, nhưng trông Lorraine cũng chẳng lạnh là bao. Cô ấy cũng là mạo hiểm giả nên có thể chịu đựng điều kiện khắc nghiệt tốt hơn, song ngay cả Ingo trông cũng không thấy lạnh. Nhiệt độ xem chừng vẫn ổn. Ingo có thể sở hữu năng lực thuần hóa Lindblum, nhưng cơ thể ông vẫn chỉ là một người đàn ông trung niên bình thường. Nhìn dáng vẻ cử chỉ của ông là nhận ra ngay. Ngay cả lúc trèo lên lưng Lindblum, ông vẫn cử động như một người đã bắt đầu có tuổi.
+Thực ra tôi cũng chẳng thấy lạnh lắm. Công bằng mà nói thì từ ngày thành Undead, tôi đâu còn cảm nhận được nhiều thứ, nhưng trông Lorraine cũng chẳng lạnh là bao. Cô ấy cũng là mạo hiểm giả nên có thể chịu đựng điều kiện khắc nghiệt tốt hơn, song ngay cả Ingo trông cũng không thấy lạnh. Nhiệt độ xem chừng vẫn ổn. Cha tôi có thể sở hữu năng lực thuần hóa Lindblum, nhưng cơ thể vẫn chỉ là một người đàn ông trung niên bình thường. Nhìn dáng vẻ cử chỉ của cha là nhận ra ngay. Ngay cả lúc trèo lên lưng Lindblum, cha vẫn cử động như một người đã bắt đầu có tuổi.
 
-"Nửa ngày nữa là tới Maalt rồi," Ingo nói. "Trong lúc chờ, hai đứa cứ ngắm cảnh đi." Ông nắm chặt dây cương và nhìn thẳng về phía trước.
+"Nửa ngày nữa là tới Maalt rồi," Ingo nói. "Trong lúc chờ, hai đứa cứ ngắm cảnh đi." Cha nắm chặt dây cương và nhìn thẳng về phía trước.
 
 ◆◇◆◇◆
 
@@ -104,9 +104,9 @@ Phải, đó là màu của biển lửa đang bùng cháy dữ dội. Lửa kh�
 
 Lorraine lắc đầu. "Tôi không rõ, nhưng chúng ta phải giúp dập lửa đã. Rentt, anh hầu như chẳng dùng được thủy ma pháp, nên cứ đi thu thập tin tức quanh thị trấn đi. Xem chừng phải tính đến khả năng Edel đã gặp chuyện gì đó rồi."
 
-Thực ra tôi cũng dùng được chút ít thủy ma pháp, nhưng chắc chắn không đủ để dập lửa. Tay mơ như tôi nhúng tay vào chắc chỉ làm mọi chuyện tệ thêm, chẳng giúp được gì nhiều. Còn Lorraine là một ma pháp sư hoàn toàn đủ năng lực, và tôi biết cô ấy xử lý những tình huống thế này tốt ra sao. Cách cô phân chia vai trò cho hai đứa là hoàn toàn hợp lý.
+Thực ra tôi cũng dùng được chút ít thủy ma pháp, nhưng chắc chắn không đủ để dập lửa. Tay mơ như tôi nhúng tay vào chắc chỉ làm mọi chuyện tệ thêm, chẳng giúp được gì nhiều. Còn Lorraine là một ma pháp sư hoàn toàn đủ năng lực, và tôi biết cô ấy xử lý những tình huống thế này tốt ra sao. Cách cô phân chia vai trò cho hai chúng tôi là hoàn toàn hợp lý.
 
-Lorraine nói về Edel cũng đúng. Cứ cho là nó không đơn thuần đang ngủ, thì vẫn có khả năng nó không gặp nguy hiểm gì nghiêm trọng. Có thể nó chỉ gắng sức quá mức rồi ngất đi thôi. Tuy nhiên, khi quay về Maalt để kiểm tra tình hình của nó, chúng tôi lại bắt gặp một thảm họa khá lớn. Đoán rằng nó đã vướng vào rắc rối nào đó xem ra cũng hợp lý. Dù chưa rõ hoàn cảnh cụ thể, chúng tôi vẫn cần tìm nó càng sớm càng tốt. May là đã đến đủ gần để tôi lờ mờ cảm nhận được hiện diện của Edel. Có vẻ nó vẫn chưa chết, nên ít nhất tôi không phải lo chuyện đó.
+Lorraine nói về Edel cũng đúng. Cứ cho là nó không đơn thuần đang ngủ, thì vẫn có khả năng nó không gặp nguy hiểm gì nghiêm trọng. Có thể nó chỉ gắng sức quá mức rồi ngất đi thôi. Tuy nhiên, khi quay về Maalt để kiểm tra tình hình của nó, chúng tôi lại bắt gặp một thảm họa khá lớn. Đoán rằng nó đã vướng vào rắc rối nào đó xem ra cũng hợp lý. Dù chưa rõ hoàn cảnh cụ thể, chúng tôi vẫn cần tìm nó càng sớm càng tốt. May là đã đến đủ gần để tôi lờ mờ cảm nhận được Edel. Có vẻ nó vẫn chưa chết, nên ít nhất tôi không phải lo chuyện đó.
 
 "Được rồi, tôi hiểu rồi. Cha ơi, cha thả chúng con xuống gần Maalt được không?" tôi hỏi.
 
@@ -124,11 +124,11 @@ Ingo giật mạnh dây cương con Lindblum.
 
 "Cha ơi, cha đưa chúng con tới tận đây là quá đủ rồi. Vả lại chúng con còn chưa biết rõ chuyện gì đang xảy ra, nên cũng khó nói cha giúp được gì."
 
-Đó là suy nghĩ thật lòng của tôi. Có thể Ingo rất có tài làm người thuần hóa quái vật, nhưng thể chất của ông cũng chẳng hơn gì một người đàn ông trung niên bình thường, mà sức chiến đấu cũng vậy. Nếu ông cố làm gì đó trong thành phố đang rực lửa kia, ông có thể mất mạng. Ông sở hữu những năng lực hiếm có, có thể đóng vai trò sống còn trong những tình huống khác, nên chẳng việc gì ông phải liều mạng ở đây. Có điều, giờ tôi lại thấy tiếc vì đã không đưa bà Gharb hay Capitan đi cùng.
+Đó là suy nghĩ thật lòng của tôi. Có thể cha tôi rất có tài làm người thuần hóa quái vật, nhưng thể chất cũng chẳng hơn gì một người đàn ông trung niên bình thường, mà sức chiến đấu cũng vậy. Nếu cố làm gì đó trong thành phố đang rực lửa kia, cha có thể mất mạng. Cha sở hữu những năng lực hiếm có, có thể đóng vai trò sống còn trong những tình huống khác, nên chẳng việc gì phải liều mạng ở đây. Có điều, giờ tôi lại thấy tiếc vì đã không đưa bà Gharb hay Capitan đi cùng.
 
 "Ta hiểu rồi," Ingo nói. "Vậy khi nào mọi chuyện lắng xuống, hai đứa lại về thăm làng nhé. Giờ ta quay về đây."
 
-Tôi và Lorraine cùng gật đầu. Ông chẳng thể làm gì thêm ở đây nên thế có lẽ là tốt nhất. Nếu ông cứ nấn ná lại mà bị ai bắt gặp thì mọi chuyện có thể trở nên tệ hại.
+Tôi và Lorraine cùng gật đầu. Cha chẳng thể làm gì thêm ở đây nên thế có lẽ là tốt nhất. Nếu cứ nấn ná lại mà bị ai bắt gặp thì mọi chuyện có thể trở nên tệ hại.
 
 Lorraine lại thi triển ma pháp che chắn nhận thức lần nữa. Phép này duy trì được một khoảng thời gian sau mỗi lần niệm, miễn là không ai phá giải, nhưng bản thân chuyến đi tới đây cũng đã mất kha khá thời gian rồi. Cẩn thận vẫn hơn.
 
@@ -146,9 +146,9 @@ Lorraine lại thi triển ma pháp che chắn nhận thức lần nữa. Phép 
 
 "Được rồi. Hẹn gặp lại cha sau nhé."
 
-"Ừ, đừng có mà bỏ mạng đấy," ông nói, rồi cưỡi Lindblum bay đi.
+"Ừ, đừng có mà bỏ mạng đấy," cha nói, rồi cưỡi Lindblum bay đi.
 
-Khi ông đã đi khuất, tôi và Lorraine chạy về phía Maalt. Chúng tôi không hề biết chuyện gì đang xảy ra, nhưng cần phải tìm hiểu ngay.
+Khi cha đã đi khuất, tôi và Lorraine chạy về phía Maalt. Chúng tôi không hề biết chuyện gì đang xảy ra, nhưng cần phải tìm hiểu ngay.
 
 ◆◇◆◇◆
 
@@ -182,19 +182,19 @@ Tôi và Lorraine nhìn nhau. Có hỏi thêm nữa chắc cũng chỉ làm vư�
 
 ◆◇◆◇◆
 
-"Các người vẫn chưa tìm thấy chúng sao?!" Vừa bước vào Hội, tôi đã nghe tiếng ai đó quát lớn. Nghe giọng là tôi biết ngay đó là Hội Trưởng Wolf Hermann. Tôi không biết trước đó mình đã từng thấy ông dưới tầng một bao giờ chưa. Ông đang đứng giữa vòng vây của nhân viên Hội và lớn tiếng quát tháo ra lệnh cho họ. Mạo hiểm giả hối hả lao ra lao vào tòa nhà. Kể cả trước đó tôi chưa biết đang có khủng hoảng thì giờ nhìn thấy cũng biết ngay.
+"Các người vẫn chưa tìm thấy chúng sao?!" Vừa bước vào Hội, tôi đã nghe tiếng ai đó quát lớn. Nghe giọng là tôi biết ngay đó là Hội Trưởng Wolf Hermann. Tôi không biết trước đó mình đã từng thấy ông ấy dưới tầng một bao giờ chưa. Wolf đang đứng giữa vòng vây của nhân viên Hội và lớn tiếng quát tháo ra lệnh cho họ. Mạo hiểm giả hối hả lao ra lao vào tòa nhà. Kể cả trước đó tôi chưa biết đang có khủng hoảng thì giờ nhìn thấy cũng biết ngay.
 
-"Wolf!" tôi gọi rồi chạy tới chỗ ông.
+"Wolf!" tôi gọi rồi chạy tới chỗ ông ấy.
 
-Ông nhìn tôi đầy kinh ngạc. "Rentt! Cậu đến đúng lúc lắm. Đi với tôi một lát!" ông nói rồi kéo tôi đi theo.
+Wolf nhìn tôi đầy kinh ngạc. "Rentt! Cậu đến đúng lúc lắm. Đi với tôi một lát!" ông ấy nói rồi kéo tôi đi theo.
 
-Hai chúng tôi đi tới văn phòng của ông. Sau khi xác nhận không có ai bên ngoài, ông đóng sập cửa lại, kéo tôi vào một góc phòng rồi thì thầm vào tai tôi: "Này, cậu không dính líu gì đến chuyện đang xảy ra ở đây đấy chứ?"
+Hai chúng tôi đi tới văn phòng Hội Trưởng. Sau khi xác nhận không có ai bên ngoài, ông ấy đóng sập cửa lại, kéo tôi vào một góc phòng rồi thì thầm vào tai tôi: "Này, cậu không dính líu gì đến chuyện đang xảy ra ở đây đấy chứ?"
 
 "Ý ông là sao? Tôi vừa mới về tới thị trấn và thấy thảm họa này thôi! Nói tôi nghe xem có chuyện gì đang xảy ra đi!"
 
 Câu trả lời của tôi dường như khiến Wolf nhẹ nhõm hẳn. "Ừ, hợp lý đấy. Chà, phía Hội cũng chưa nắm rõ ngọn ngành thế nào, nhưng có Ma Cà Rồng. Một nhóm Ma Cà Rồng đang hoành hành khắp thị trấn. Chính chúng đang phóng hỏa đốt nơi này."
 
-Nghe vậy tôi không khỏi ngạc nhiên, rồi hiểu ra câu hỏi của Wolf. Ông hỏi tôi có dính líu hay không là vì tôi là Ma Cà Rồng. Dĩ nhiên tôi không liên quan, nhưng chuyện đó chỉ mình tôi biết. Dù sao ông vẫn tin tôi, và tôi rất biết ơn vì điều đó. Có lẽ tôi chưa xóa sạch được mọi nghi ngờ, nhưng miễn là ông sẵn lòng giải thích những gì mình biết thì cũng chẳng sao. Tôi vừa hỏi vài câu vừa ngầm cho thấy mình vô tội.
+Nghe vậy tôi không khỏi ngạc nhiên, rồi hiểu ra câu hỏi của Wolf. Ông ấy hỏi tôi có dính líu hay không là vì tôi là Ma Cà Rồng. Dĩ nhiên tôi không liên quan, nhưng chuyện đó chỉ mình tôi biết. Dù sao ông ấy vẫn tin tôi, và tôi rất biết ơn vì điều đó. Có lẽ tôi chưa xóa sạch được mọi nghi ngờ, nhưng miễn là ông ấy sẵn lòng giải thích những gì mình biết thì cũng chẳng sao. Tôi vừa hỏi vài câu vừa ngầm cho thấy mình vô tội.
 
 "Vậy là ông phát hiện ra Ma Cà Rồng trong thị trấn sao? Tôi đâu có quen con Ma Cà Rồng nào."
 

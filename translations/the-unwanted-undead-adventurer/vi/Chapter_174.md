@@ -6,7 +6,7 @@ Tôi kể lại chi tiết những việc xảy ra hôm nay cho Lorraine nghe. T
 
 "Ừ. Ngày mai họ sẽ tới Hội để chỉ định tôi. Kế hoạch là bắt đầu dẫn họ đi khảo sát từ ngày kia. Thế nào, cô đi cùng được không?"
 
-Tôi đã nói với họ là sẽ đưa Lorraine theo mà chưa hỏi ý cô trước, nên cũng hơi lo về lịch trình của cô. Nhìn chung, hai đứa tôi đều nắm được kế hoạch trong khoảng một tuần tới của nhau, nhưng cả hai cũng đều hay nảy ra dự định mới vào phút chót. Chẳng hạn như việc tôi ra quán rượu rồi rời đi với một công việc mới như hôm nay, hay việc Lorraine lên đường sang vùng khác thu thập nguyên liệu. Có điều, tôi cũng đã bảo Curt và Hayden rằng sẽ hỏi ý cô trước, nên lỡ cô không rảnh thì cũng không thành vấn đề. Nếu chuyện đó xảy ra thì cùng lắm họ chỉ đánh giá thấp tôi đi một chút thôi. Dù sao nghe qua thì một mình tôi cũng đủ sức giúp họ ổn thỏa rồi. Nhưng tôi muốn làm công việc này cho thật trọn vẹn, nên hy vọng có thể chuẩn bị sẵn cho mọi tình huống.
+Tôi đã nói với họ là sẽ đưa Lorraine theo mà chưa hỏi ý cô trước, nên cũng hơi lo về lịch trình của cô. Nhìn chung, hai chúng tôi đều nắm được kế hoạch trong khoảng một tuần tới của nhau, nhưng cả hai cũng đều hay nảy ra dự định mới vào phút chót. Chẳng hạn như việc tôi ra quán rượu rồi rời đi với một công việc mới như hôm nay, hay việc Lorraine lên đường sang vùng khác thu thập nguyên liệu. Có điều, tôi cũng đã bảo Curt và Hayden rằng sẽ hỏi ý cô trước, nên lỡ cô không rảnh thì cũng không thành vấn đề. Nếu chuyện đó xảy ra thì cùng lắm họ chỉ đánh giá thấp tôi đi một chút thôi. Dù sao nghe qua thì một mình tôi cũng đủ sức giúp họ ổn thỏa rồi. Nhưng tôi muốn làm công việc này cho thật trọn vẹn, nên hy vọng có thể chuẩn bị sẵn cho mọi tình huống.
 
 "Tôi không ngại phụ một tay đâu," Lorraine nói. "Mấy ngày đó tôi cũng không có kế hoạch gì đặc biệt."
 
@@ -18,13 +18,13 @@ Tôi đã nói với họ là sẽ đưa Lorraine theo mà chưa hỏi ý cô tr
 
 "Anh đã xác định được người tên Curt đó là quý tộc rồi đúng không?"
 
-"Ừ. Tôi không dám nói chắc chắn, nhưng quần áo Curt mặc có chất lượng khá cao. Tôi không nhìn thấy Ma Lực trực tiếp được như cô nên không biết chính xác ma pháp nào được ếm lên bộ đồ đó, nhưng tôi biết đó là thứ ma thuật rất đáng nể. Tôi không nghĩ ma pháp ếm trên bộ quần áo ấy là loại tầm thường đâu. Hơn nữa, trên đồ còn có một phù hiệu nhỏ, loại phù hiệu mà nếu không có tước vị tối thiểu từ Tử tước trở lên thì không được phép mang. Xét những thứ ông ta mặc trên người, ắt hẳn ông ta phải là quý tộc."
+"Ừ. Tôi không dám nói chắc chắn, nhưng quần áo Curt mặc có chất lượng khá cao. Tôi không nhìn thấy Ma Lực trực tiếp được như cô nên không biết chính xác ma pháp nào được ếm lên bộ đồ đó, nhưng tôi biết đó là thứ ma thuật rất đáng nể. Tôi không nghĩ ma pháp ếm trên bộ quần áo ấy là loại tầm thường đâu. Hơn nữa, trên đồ còn có một phù hiệu nhỏ, loại phù hiệu mà nếu không có tước vị tối thiểu từ Tử tước trở lên thì không được phép mang. Xét những thứ ông ấy mặc trên người, ắt hẳn ông ấy phải là quý tộc."
 
-"Còn người đàn ông kia, Hayden, anh nói anh ta cũng rất mạnh à?"
+"Còn người đàn ông kia, Hayden, anh nói anh ấy cũng rất mạnh à?"
 
-"Đúng thế, bản thân anh ta trông cũng rất ấn tượng. Dù vậy, tôi không đo lường hết được thực lực của anh ta. Tôi nghĩ anh ta phải trên Ngân Cấp, có lẽ ít nhất cũng là Kim Cấp."
+"Đúng thế, bản thân anh ấy trông cũng rất ấn tượng. Dù vậy, tôi không đo lường hết được thực lực của anh ấy. Tôi nghĩ anh ấy phải trên Ngân Cấp, có lẽ ít nhất cũng là Kim Cấp."
 
-"Mạnh đến thế sao? Được một người có thực lực cỡ đó bảo vệ thì hẳn ông ta phải là quý tộc có địa vị cao rồi."
+"Mạnh đến thế sao? Được một người có thực lực cỡ đó bảo vệ thì hẳn ông ấy phải là quý tộc có địa vị cao rồi."
 
 "Ừ, vậy thì có gì kỳ lạ đâu?"
 
@@ -32,7 +32,7 @@ Tôi đã nói với họ là sẽ đưa Lorraine theo mà chưa hỏi ý cô tr
 
 "Tôi không nghĩ cô cần phải chê bai Maalt đến mức đó đâu, nhưng cũng có lý. Tôi thừa nhận họ hơi đáng ngờ thật. Thông thường, một quý tộc sẽ đi cùng đoàn tùy tùng đông hơn nhiều. Đi lẻ như thế chẳng khác nào tự đẩy mình vào nguy hiểm, chưa kể còn làm xấu mặt họ nữa."
 
-Quý tộc luôn phải giữ thể diện theo nhiều cách. Đi lại mà chỉ có độc một người đi cùng có thể làm dấy lên tin đồn rằng ông ta nghèo túng, còn vi hành ẩn danh lại làm tăng nguy cơ bị nhắm tới. Nếu ông ta không có mặt ở nơi mình cần ở, sẽ rất khó xử lý khi có vấn đề phát sinh. Đó là lý do giới quý tộc chẳng mấy ai thích đi lại kiểu này. Nhưng người này lại làm vậy, ắt hẳn phải có lý do chính đáng.
+Quý tộc luôn phải giữ thể diện theo nhiều cách. Đi lại mà chỉ có độc một người đi cùng có thể làm dấy lên tin đồn rằng ông ấy nghèo túng, còn vi hành ẩn danh lại làm tăng nguy cơ bị nhắm tới. Nếu ông ấy không có mặt ở nơi mình cần ở, sẽ rất khó xử lý khi có vấn đề phát sinh. Đó là lý do giới quý tộc chẳng mấy ai thích đi lại kiểu này. Nhưng người này lại làm vậy, ắt hẳn phải có lý do chính đáng.
 
 "Tôi có hỏi họ về chuyện đó nhưng không nhận được câu trả lời thực sự nào. Họ sẽ không nói cho chúng ta biết đâu," tôi nói.
 
@@ -44,9 +44,9 @@ Quý tộc luôn phải giữ thể diện theo nhiều cách. Đi lại mà ch�
 
 Nhưng Lorraine vốn là một nhà giả kim kiêm y sĩ ma thuật hơn là một mạo hiểm giả, nên cô có kiến thức sâu sắc về y dược. Và nhờ mối quan hệ lâu năm với cô, tôi cũng biết nhiều về các nguyên liệu dùng trong thuật giả kim và y dược hơn một mạo hiểm giả bình thường. Tôi cũng ở nhà Lorraine đủ nhiều để đọc vô số sách của cô về chủ đề này. Nhờ đó tôi có được một số kiến thức vô cùng chuyên biệt mà ngay cả mạo hiểm giả cấp cao cũng chưa chắc đã có.
 
-Còn việc hai vị khách kia có thiếu những thông tin đó không thì tôi đoán là không. Kế hoạch của họ có lẽ là nhờ mạo hiểm giả được thuê dẫn vị quý tộc đi quanh vùng để tự họ kiểm tra các loại nguyên liệu. Dù không chứng minh được, nhưng tôi có cảm giác Curt nắm rất nhiều kiến thức về dược liệu, rõ ràng là hơn tôi. Tôi không biết ông ta có sánh được với Lorraine ở mảng đó không, nhưng chắc chắn ông ta biết nhiều hơn một quý tộc bình thường. Rất dễ hình dung rằng ông ta có chuyên môn về y dược. Nếu vậy thì có lẽ ông ta hoàn toàn tự nhận biết được những nguyên liệu hữu ích mà không gặp vấn đề gì.
+Còn việc hai vị khách kia có thiếu những thông tin đó không thì tôi đoán là không. Kế hoạch của họ có lẽ là nhờ mạo hiểm giả được thuê dẫn vị quý tộc đi quanh vùng để tự họ kiểm tra các loại nguyên liệu. Dù không chứng minh được, nhưng tôi có cảm giác Curt nắm rất nhiều kiến thức về dược liệu, rõ ràng là hơn tôi. Tôi không biết ông ấy có sánh được với Lorraine ở mảng đó không, nhưng chắc chắn ông ấy biết nhiều hơn một quý tộc bình thường. Rất dễ hình dung rằng ông ấy có chuyên môn về y dược. Nếu vậy thì có lẽ ông ấy hoàn toàn tự nhận biết được những nguyên liệu hữu ích mà không gặp vấn đề gì.
 
-Nhưng nếu đúng là vậy, tại sao trông Curt lại hơi hoảng hốt? Tôi biết ông ta muốn tìm một số nguyên liệu làm thuốc hữu ích, nhưng chừng đó vẫn chưa giải thích được nhiều. Dù sao thì cố nghĩ về chuyện đó cũng chẳng ích gì. Chõ mũi vào chuyện riêng của thân chủ là bất lịch sự. Nếu nỗi bận tâm của ông ta có liên quan quan trọng tới công việc thì hẳn ông ta sẽ nói cho tôi biết, và tôi chỉ việc làm đúng những gì ông ta yêu cầu.
+Nhưng nếu đúng là vậy, tại sao trông Curt lại hơi hoảng hốt? Tôi biết ông ấy muốn tìm một số nguyên liệu làm thuốc hữu ích, nhưng chừng đó vẫn chưa giải thích được nhiều. Dù sao thì cố nghĩ về chuyện đó cũng chẳng ích gì. Chõ mũi vào chuyện riêng của thân chủ là bất lịch sự. Nếu nỗi bận tâm của ông ấy có liên quan quan trọng tới công việc thì hẳn ông ấy sẽ nói cho tôi biết, và tôi chỉ việc làm đúng những gì ông ấy yêu cầu.
 
 "Lúc nào anh cũng tốt bụng quá mức đấy, Rentt. Cái mặt nạ đó chẳng hợp với tính cách của anh chút nào," Lorraine mỉm cười dịu dàng nói. Có lẽ cô nói đúng; chẳng ai nhìn vào cái mặt nạ đầu lâu này mà nghĩ tôi tốt bụng cả. Nhưng bên trong tôi vẫn chẳng hề thay đổi so với hồi còn là con người, mà hồi đó mọi người suốt ngày bảo tôi tốt bụng.
 
@@ -114,11 +114,11 @@ Bá tước Robista nhăn mặt: "Chúng ta đang nói về con gái tôi đấy
 
 "Vị thần đó như thế nào?" Đúng kiểu điển hình của mạo hiểm giả, Hayden chẳng có lòng sùng kính đặc biệt nào với thần linh. Anh chỉ tin vào kỹ năng của chính mình.
 
-"Thú thật, tôi cũng không rõ đó có phải là thần linh hay không. Tôi đặt mấy con búp bê của con gái lên bàn thờ, rồi một con trong số đó bỗng nhiên cử động như có sự sống và cất tiếng nói với tôi. Nó bảo: 'Nếu ngươi muốn chữa khỏi bệnh cho con gái mình, hãy đi tìm nguyên liệu làm thuốc ở Maalt. Rồi cuối cùng ngươi sẽ tìm ra phương thuốc cứu chữa. Liệu có kịp lúc hay không là tùy thuộc vào ngươi.'"
+"Thú thật, tôi cũng không rõ đó có phải là thần linh hay không. Tôi đặt mấy con búp bê của con gái lên bàn thờ, rồi một con trong số đó bỗng nhiên cử động như vật sống và cất tiếng nói với tôi. Nó bảo: 'Nếu ngươi muốn chữa khỏi bệnh cho con gái mình, hãy đi tìm nguyên liệu làm thuốc ở Maalt. Rồi cuối cùng ngươi sẽ tìm ra phương thuốc cứu chữa. Liệu có kịp lúc hay không là tùy thuộc vào ngươi.'"
 
 "Có khi đó là một ác ma cũng nên," Hayden gợi ý.
 
-"Có lẽ vậy. Nhưng nếu thế thật thì thần linh cũng chẳng làm được gì cho tôi cả. Tôi sẽ chẳng còn lựa chọn nào khác ngoài việc tin vào ác ma thay thế."
+"Có lẽ vậy. Nhưng nếu thế thật thì thần linh cũng chẳng làm được gì cho tôi cả. Tôi cũng đành phải đặt niềm tin vào ác ma thôi."
 
 "Tôi chắc là ngài chỉ đang nói đùa thôi, nhưng với một vị thần thì giao cho người ta cái nhiệm vụ kiểu đó đúng là bực mình thật. Sao không bảo người ta đi tìm thẳng phương thuốc luôn mà lại bắt đi tìm nguyên liệu làm gì?"
 
