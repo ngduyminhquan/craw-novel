@@ -14,7 +14,7 @@ Chúng tôi đâu có ý định đi lâu đến thế, nên Lorraine lắc đ�
 
 Alize thở phào nhẹ nhõm: "May quá đi mất. Em cứ tưởng hai người sẽ đi luôn không về nữa chứ. Nếu chỉ có vậy thì tốt quá rồi."
 
-Tôi đâu muốn rời thị trấn lâu đến thế, nhưng cũng lấy làm lạ không hiểu sao cô bé lại nghĩ vậy. Thế là tôi buột miệng hỏi: "Sao em lại nghĩ chúng tôi sẽ đi luôn?"
+Tôi đâu muốn rời thị trấn lâu đến thế, nhưng cũng lấy làm lạ không hiểu sao cô bé lại nghĩ tôi sẽ đi luôn. Thế là tôi buột miệng hỏi: "Sao chúng tôi lại đi luôn không về nữa chứ?"
 
 "Bởi vì anh đang phấn đấu để trở thành mạo hiểm giả Mithril Cấp mà, đúng không? Thế thì đến vương đô sẽ giúp anh đạt được mục tiêu nhanh hơn nhiều chứ. Còn Học Sĩ Lorraine lại là một ma pháp sư cừ khôi, chưa kể còn là học giả xuất sắc nữa. Em cứ sợ hai người thấy ở thành phố lớn tốt hơn nhiều so với cái xứ hẻo lánh này rồi bỏ đi luôn."
 
@@ -38,7 +38,7 @@ Tôi an ủi cô bé: "Có gì đâu mà ngại. Mà để người lữ hành l
 
 "Anh Rentt này! Làm gì có chuyện đó chứ, nhưng nếu có một vương quốc ẩm thực thật thì em cũng muốn tới thăm thử xem sao," cô bé cười đáp.
 
-Một vương quốc ẩm thực ư? Lẽ dĩ nhiên là chẳng có nơi nào như thế rồi. Tất cả chỉ do Alize tưởng tượng ra mà thôi. Song một vùng đất nơi người ta có thể ăn thỏa thuê mọi món ngon trên đời thì quả là giấc mơ thành hiện thực. Đến cả người lớn cũng muốn tới đó nữa là. Giới quý tộc lúc nào cũng lùng sục của ngon vật lạ, sẵn sàng bỏ ra những khoản tiền trên trời để mua các bộ phận quái vật tươi sống. Quanh vùng này chẳng có gì ngoài thịt Orc, nhưng những xứ khác lại phong phú hơn nhiều, trong đó có cả nấm biết bò lẫn cá biết bay.
+Một vương quốc ẩm thực ư? Lẽ dĩ nhiên là chẳng có nơi nào như thế rồi. Tất cả chỉ do Alize tưởng tượng ra mà thôi. Song một vùng đất nơi người ta có thể ăn thỏa thuê mọi món ăn trên đời thì quả là giấc mơ thành hiện thực. Đến cả người lớn cũng muốn tới đó nữa là. Giới quý tộc lúc nào cũng lùng sục của ngon vật lạ, sẵn sàng bỏ ra những khoản tiền trên trời để mua các bộ phận quái vật tươi sống. Quanh vùng này chẳng có gì ngoài thịt Orc, nhưng những xứ khác lại phong phú hơn nhiều, trong đó có cả nấm biết nhúc nhích lẫn cá biết bay.
 
 "Cứ nói chuyện này khéo tôi đói bụng mất. Mà thôi, Alize này, không nhất thiết phải là bây giờ, nhưng tôi xin em ít phút được không?" tôi hỏi.
 
@@ -76,7 +76,7 @@ Lorraine nhìn theo bóng lưng cô ấy, hỏi gọn lỏn: "Anh chắc là mu�
 
 "Chắc không sao đâu. Cứ giấu mặt mãi tôi cũng thấy khó chịu. Giờ tôi chẳng lo chuyện đó nữa, không vấn đề gì đâu."
 
-Vì có Alize ở đó nên tôi nói bóng gió, nhưng Lorraine thừa hiểu ý tôi. Hồi còn là một Undead cấp thấp thì không nói làm gì, chứ giờ vẻ ngoài của tôi đã chẳng khác nào người bình thường. Ngọn Thánh Hỏa hôm nọ cũng đã xóa tan mối nghi ngờ tôi là Ma Cà Rồng, nên chắc tôi sẽ chẳng rước thêm rắc rối nào nữa đâu.
+Vì có Alize ở đó nên tôi nói bóng gió, nhưng Lorraine thừa hiểu ý tôi. Hồi còn là một Undead đơn thuần thì không nói làm gì, chứ giờ vẻ ngoài của tôi đã chẳng khác nào người bình thường. Ngọn Thánh Hỏa hôm nọ cũng đã xóa tan mối nghi ngờ tôi là Ma Cà Rồng, nên chắc tôi sẽ chẳng rước thêm rắc rối nào nữa đâu.
 
 Alize nghiêng đầu thắc mắc, nhưng cô bé vốn luôn biết điều. Đoán được câu chuyện giữa hai chúng tôi không phải việc mình nên nghe, cô bé lùi ra xa, ngắm nghía mấy món trang bị bày quanh tiệm.
 
@@ -88,7 +88,7 @@ Alize ý tứ không đả động gì tới chuyện ban nãy của tôi với 
 
 Cô bé nhìn sang một thanh đại kiếm đồ sộ. Thứ đó ngay cả tôi cầm vào cũng thấy chật vật. Giờ thì tôi đã đủ sức nhấc nó lên, thậm chí vung được vài nhát, nhưng bảo dùng nó khi đi mạo hiểm một mình thì tôi chịu, chẳng dám đâu. Còn Alize thì chắc chắn sẽ bị sức nặng của nó đè bẹp dí.
 
-"Mấy thứ to đùng này em không phải bận tâm làm gì. Vả lại người thợ rèn em sắp gặp là thợ kỳ cựu trong nghề rồi, cứ hỏi ý kiến anh ấy trước khi quyết định."
+"Mấy thứ to đùng này em không phải bận tâm làm gì. Vả lại người thợ rèn em sắp gặp là thợ kỳ cựu trong nghề rồi, tôi nghĩ cứ nên hỏi ý kiến anh ấy trước khi quyết định."
 
 "Thật thế hả anh? Anh với Học Sĩ Lorraine cũng sẽ giúp em chứ?" Alize hỏi, giọng điệu đúng ra dáng một người đệ tử.
 

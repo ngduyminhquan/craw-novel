@@ -6,7 +6,7 @@ Từ thuở nhỏ, tôi đã được chính Nữ Thần Lobelia ban phước Th
 
 Hôm nay cũng chẳng có gì khác.
 
-Chúng tôi đến từ tận Thánh Vương Quốc Ars xa xôi. Mục đích tới đây là đem ân điển và ánh sáng của giáo hội soi rọi vùng biên ải hẻo lánh này. Dùng năng lực của mình cứu chữa cho thật nhiều người, cho họ thấy sự đúng đắn của giáo hội. Đó là lý do tôi có mặt ở đây, tại thị trấn Maalt.
+Chúng tôi đến từ tận Thánh Vương Quốc Ars xa xôi. Mục đích tới đây là đem ân điển và ánh sáng của giáo hội soi rọi vùng biên ải thôn quê này. Dùng năng lực của mình cứu chữa cho thật nhiều người, cho họ thấy sự chính trực của giáo hội. Đó là lý do tôi có mặt ở đây, tại thị trấn Maalt.
 
 ...Chí ít thì đáng ra phải là thế.
 
@@ -96,7 +96,7 @@ Trong lúc tôi còn đang mải suy nghĩ, Gilly mở đọc lá thư vừa g�
 
 "Có chuyện gì vậy...?"
 
-"Mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ đấy. Nhưng trong này lại chỉ thị cô đi cùng... mạo hiểm giả Kim Cấp Nive Maris? Rốt cuộc chuyện này là sao chứ...?" anh ta lẩm bẩm, vẻ bối rối hiện dần trên mặt.
+"Mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ đấy. Nhưng trong này lại chỉ thị cô đi cùng... mạo hiểm giả Kim Cấp Nive Maris? Rốt cuộc chuyện này là sao...?" anh ta lẩm bẩm, vẻ bối rối hiện dần trên mặt.
 
 ◆◇◆◇◆
 
@@ -130,7 +130,7 @@ Chẳng hiểu sao trước giờ tôi cứ ngỡ hồi nhỏ Gilly cũng y hệ
 
 "Ra là thế... Hoá ra người như anh cũng từng có một tuổi thơ khá bình thường đấy nhỉ," tôi cố tình nói bằng giọng trêu chọc. Nhưng Gilly chẳng mảy may bận tâm.
 
-"Đương nhiên rồi. Ngay cả tôi sinh ra cũng đâu đã thế này ngay từ đầu," anh ta đáp, như thể nhìn thấu ý đồ của tôi ngay từ đầu. "Dù sao đi nữa, về mệnh lệnh lần này... Thánh Nữ Myullias Raiza sẽ đi cùng Nive Maris, sau đó cùng cô ấy tham gia một loạt cuộc đàm phán với một mạo hiểm giả nọ. Thư viết thế đấy."
+"Đương nhiên rồi. Ngay cả tôi sinh ra cũng đâu đã thế này," anh ta đáp, như thể đã nhìn thấu ý đồ của tôi ngay từ đầu. "Dù sao đi nữa, về mệnh lệnh lần này... Thánh Nữ Myullias Raiza sẽ đi cùng Nive Maris, sau đó cùng cô ấy tham gia một loạt cuộc đàm phán với một mạo hiểm giả nọ. Thư viết thế đấy."
 
 "Đàm phán với mạo hiểm giả? Sao lại là tôi...?"
 
@@ -148,7 +148,7 @@ Chuyện này đến những quý tộc mang tước vị cao cũng chưa chắc
 
 Tuy Giáo Hội Lobelia không có nhiều ảnh hưởng ở Vương Quốc Yaaran, nhưng dẫu có tìm khắp thế gian cũng khó lòng thấy được một tổ chức tôn giáo nào quy mô hơn, lâu đời hơn và quyền lực hơn.
 
-Khỏi phải nói, giáo hội có sức ảnh hưởng rất lớn tới giới quý tộc và chính quyền cai trị của nhiều quốc gia và vương quốc. Vậy mà có thể trực tiếp thỉnh cầu đích thân Đại Giáo Phụ, người nắm giữ quyền uy và quyền lực tối cao nhất trong Giáo Hội Lobelia...
+Khỏi phải nói, giáo hội có sức ảnh hưởng rất lớn tới giới quý tộc và chính quyền cai trị của nhiều quốc gia và vương quốc. Vậy mà có thể trực tiếp thỉnh cầu đích thân Đại Giáo Phụ, người nắm giữ thẩm quyền và quyền lực tối cao trong Giáo Hội Lobelia...
 
 "Tôi cũng chẳng biết phải hiểu chuyện đó thế nào nữa." Đến cả Gilly cũng có vẻ bối rối.
 

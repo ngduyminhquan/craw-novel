@@ -94,7 +94,7 @@ Câu hỏi này sẽ quyết định hướng đi của câu chuyện.
 
 Alize giải đáp thắc mắc cho cậu bé: "Vì chú ấy là đầu bếp. Thế nên chú ấy mới đi về phía tây tìm kiếm nguyên liệu và công thức nấu nướng mới. Các vùng đất ở phương tây có nền văn hóa phát triển lắm đấy."
 
-Hóa ra anh ta bị cái bụng thúc đẩy chứ chẳng phải chuyện tình cảm. Nghe thì hơi hụt hẫng thật, nhưng dự đoán của tôi đã trúng phóc. Tính thực tế đã khiến cô bé chọn đồ ăn thay vì tình yêu.
+Hóa ra động lực thúc đẩy anh ta là miếng ăn chứ chẳng phải sắc dục. Nghe thì hơi hụt hẫng thật, nhưng dự đoán của tôi đã trúng phóc. Tính thực tế đã khiến cô bé chọn đồ ăn thay vì tình yêu.
 
 "Chắc ván này tôi thua rồi. Mà có phải đang thi thố gì đâu," Lorraine buông một câu, vẻ mặt đầy bực bội. Tôi thì lại nhếch mép cười đắc thắng nhìn cô. Lorraine nghiến răng tức tối.
 
@@ -144,7 +144,7 @@ Người phụ nữ tỏ vẻ thất vọng: "Tại sao chứ? Chẳng thứ gì
 
 "Phía tây sẽ có những nguyên liệu và công thức nấu nướng mới. Tôi là đầu bếp. Tôi muốn đem lại niềm vui cho mọi người. Đó là điều tôi sẵn sàng liều mạng để làm."
 
-Người phụ nữ ngẫm nghĩ một thoáng rồi phẩy tay. Giữa bãi hoang mạc trống trải bỗng hiện ra một gian bếp cùng đầy đủ nguyên liệu. Cô mỉm cười đầy ẩn ý nhìn người đàn ông đang sững sờ: "Nếu ngươi thực bụng nghĩ vậy thì hãy nấu cho ta ăn xem nào. Muốn qua đây thì chứng minh đi."
+Người phụ nữ ngẫm nghĩ một thoáng rồi phẩy tay. Giữa bãi hoang mạc trống trải bỗng hiện ra một gian bếp cùng đầy đủ nguyên liệu. Cô mỉm cười gượng gạo nhìn người đàn ông đang sững sờ: "Nếu ngươi thực bụng nghĩ vậy thì hãy nấu cho ta ăn xem nào. Muốn qua đây thì chứng minh đi."
 
 Người đàn ông chẳng hiểu nổi vì sao người phụ nữ lại đòi hỏi thế. Nhưng đã là đầu bếp, anh không thể chối từ một người muốn thưởng thức món ăn. Vả lại đi đường ròng rã bấy lâu, đã lâu lắm rồi anh chưa được đụng vào bếp núc. Người đàn ông liền vui vẻ bắt tay vào nấu nướng.
 
@@ -170,7 +170,7 @@ Người đàn ông cũng đáp lễ. Vậy là chuyến hành trình của cặ
 
 Trong mọi dị bản về người lữ hành, đoạn này luôn giữ nguyên không đổi. Thế nhưng ba người phụ nữ kia lại chẳng bao giờ xuất hiện nữa sau cảnh đó. Tôi vẫn luôn thấy chuyện ấy thật kỳ lạ.
 
-Lorraine nêu ý kiến: "Truyện cổ tích thường chứa đựng rất nhiều ẩn dụ. Người phụ nữ đó có lẽ muốn giúp đỡ người đàn ông bằng thiện chí, đúng không? Chi tiết này hẳn là để diễn tả điều đó. Ba người phụ nữ còn lại chắc tượng trưng cho những mặt khác trong bản tính con người. Một người trông như chứa đầy ác ý, anh không thấy thế à? Đến cả kẻ mang ý tốt nhất thì tận sâu trong lòng vẫn có góc tối đấy thôi. Nhưng ‘Người Lữ Hành Hướng Tây’ có vô số cách hiểu. Tôi chẳng phải chuyên gia nên nếu thích anh cứ tìm sách chuyên môn mà đọc." Cô ngẫm nghĩ một hồi nhưng rốt cuộc đành chịu thua.
+Lorraine nêu ý kiến: "Truyện cổ tích thường có rất nhiều ẩn dụ. Người phụ nữ đó có lẽ muốn giúp đỡ người đàn ông bằng thiện chí, đúng không? Chi tiết này hẳn là để diễn tả điều đó hay đại loại thế. Ba người phụ nữ còn lại chắc thể hiện những mặt khác trong bản tính con người. Một người trông như chứa đầy ác ý, anh không thấy thế à? Đến cả người mang ý tốt nhất thì tận sâu trong lòng vẫn có góc tối đấy thôi. Nhưng ‘Người Lữ Hành Hướng Tây’ có vô số cách hiểu. Tôi chẳng phải chuyên gia nên nếu thích anh cứ tìm sách chuyên môn mà đọc." Cô ngẫm nghĩ một hồi nhưng rốt cuộc đành chịu thua.
 
 Tôi thấy cách nhìn của cô hơi kỳ quặc, nhưng cũng hiểu được ý cô.
 
@@ -192,7 +192,7 @@ Chẳng hạn nếu người lữ hành là đầu bếp, một khi đã tinh th
 
 Người đàn ông không muốn chiến tranh nhưng chẳng còn cách nào khác. Rốt cuộc, đất nước của anh bị tàn phá nặng nề, các quốc gia kia cũng kiệt quệ tiêu điều. Ước mơ đem lại niềm vui cho mọi người qua món ăn tan thành mây khói. Anh rơi vào tuyệt vọng, rời bỏ đất nước rồi biến mất đến một miền đất không ai hay biết.
 
-Chính sức mạnh của người đàn ông đã gầy dựng nên đất nước ấy. Giờ anh đã ra đi, cuộc tranh giành quyền lực khiến đất nước ngày một suy tàn, cho tới khi bị sóng cuộn lịch sử vùi lấp. Năm tháng trôi qua, ngay cả cái tên của quốc gia ấy cũng chìm vào quên lãng. Bản tôi nghe kết thúc như thế đấy.
+Chính sức mạnh của người đàn ông đã gầy dựng nên đất nước ấy. Giờ anh đã ra đi, cuộc tranh giành quyền kiểm soát khiến cả nước ngày một kiệt quệ, cho tới khi bị sóng cuộn lịch sử nhấn chìm. Năm tháng trôi qua, ngay cả cái tên của quốc gia ấy cũng chìm vào quên lãng. Bản tôi nghe kết thúc như thế đấy.
 
 "Chẳng lẽ cha mẹ mình tự bịa ra toàn bộ chuyện đó sao?" Cái kết nghe bi kịch thật, nhưng tôi lại thấy thực tế hơn nhiều. Dẫu vậy, trong lòng tôi vẫn gợn lên chút băn khoăn.
 

@@ -44,7 +44,7 @@ Cách nghĩ của hai đứa đơn giản là quá khác nhau. Có lẽ ngay t�
 
 "Và còn chuyện Nive Maris hiện đang ở Maalt nữa. Giữ chút khoảng cách giữa anh với cô ta cũng đâu phải chuyện xấu, đúng không?"
 
-Điểm này thì tôi hoàn toàn tán thành. Nhiều khả năng Nive tới đây để truy lùng một con Ma Cà Rồng khác không phải tôi, và chắc chắn cô ấy sẽ còn tiếp tục tìm kiếm. Kéo theo đó, có thể khiến thân phận của tôi bị lộ.
+Điểm này thì tôi hoàn toàn tán thành. Nhiều khả năng Nive tới đây để truy lùng một con Ma Cà Rồng khác không phải tôi, và chắc chắn cô ấy sẽ còn tiếp tục tìm kiếm. Kéo theo đó, thân phận của tôi rất có thể sẽ bị lộ.
 
 Tôi đã tắm trong Thánh Hỏa mà chẳng hề hấn gì, tức là tôi không phải Ma Cà Rồng. Chừng đó thì ổn rồi, nhưng Nive trông chẳng giống tuýp người chịu buông lỏng cảnh giác hoàn toàn chỉ vì ngần ấy. Chừng nào tôi còn ở lại thị trấn này, chắc chắn sẽ có lúc chạm mặt cô ấy.
 
@@ -58,7 +58,7 @@ Nhưng vẫn còn một vấn đề.
 
 "Ừ, tôi biết chứ." Lorraine dường như đã lường trước chuyện này...
 
-"Chuyện đó thì anh phải bàn với thân chủ của mình rồi, Rentt. Nếu thực sự không được, tôi sẽ lên đường đi chuyến này một mình. Còn một việc nữa mà tôi, à thì, cả anh nữa đấy Rentt, sẽ phải tạm hoãn lại: việc huấn luyện cho Alize. Chúng ta sẽ phải báo cho cô bé tạm nghỉ một thời gian ngắn, đúng chứ?"
+"Chuyện đó thì anh phải bàn với thân chủ của mình rồi, Rentt. Nếu thực sự không được, tôi sẽ tự đi chuyến này một mình. Còn một việc nữa mà tôi, à thì, cả anh nữa đấy Rentt, sẽ phải tạm hoãn lại: việc huấn luyện cho Alize. Chúng ta sẽ phải báo cho cô bé tạm nghỉ một thời gian ngắn, đúng chứ?"
 
 À, đúng là còn chuyện đó nữa.
 
@@ -110,7 +110,7 @@ Tuy thế, đúng là quái vật vẫn tuân theo những nguyên lý và quy l
 
 Isaac trông vẫn giống hệt mọi khi, với mái tóc bạc cùng làn da nhợt nhạt.
 
-"Phải," tôi đáp lại câu hỏi của anh. "Thực ra những sự việc gần đây buộc tôi phải thực hiện một chuyến đi xa. Có chuyện liên quan đến thỏa ước giữa chúng ta mà tôi muốn bàn bạc, nếu được..."
+"Phải," tôi đáp lại câu hỏi của anh. "Thực ra những chuyện gần đây khiến tôi phải đi xa một chuyến. Tôi muốn bàn bạc một chút về thỏa ước giữa chúng ta, nếu được..."
 
 "Tôi hiểu rồi. Vậy có lẽ tốt nhất là ngài nên trao đổi trực tiếp với chủ nhân của tôi. Xin mời đi lối này."
 
@@ -122,7 +122,7 @@ Dứt lời, Isaac bắt đầu bước đi. Nếu để mất dấu anh trong k
 
 Được Isaac dẫn đường tới đây ban nãy, lúc này tôi đang ở trong phòng tiếp khách của dinh thự Latuule. Bộ váy hôm nay của Laura khác hẳn bộ cô bé mặc lần trước. Trước hết là nó mang một màu trắng tinh khôi. Dù vậy, lượng bèo nhún cầu kỳ trên người cô bé thì vẫn nhiều như cũ. Liệu Laura có nhiều bộ váy kiểu này lắm sao...? Chỉ cần ngắm nhìn bộ trang phục ấy thôi là tôi đã cảm nhận được sự giàu có của gia tộc Latuule rồi.
 
-"Vâng. Sự việc đưa đẩy khiến tôi phải đi xa một chuyến. Có điều nơi đó lại hơi xa xôi. Nếu phải ước tính thời gian vắng mặt thì chắc khoảng hai tuần."
+"Phải. Mọi chuyện đưa đẩy khiến tôi phải đi xa một chuyến. Có điều nơi đó lại hơi xa xôi. Nếu phải ước tính thời gian vắng mặt thì chắc khoảng hai tuần."
 
 "Tôi hiểu rồi. Vậy là ngài muốn chấm dứt ủy thác sao? Nếu thế thì chúng ta chỉ cần tạm hoãn nó lại là được. Phía chúng tôi sẽ không có vấn đề gì một khi ngài tiếp tục làm công việc như trước sau khi trở về Maalt."
 

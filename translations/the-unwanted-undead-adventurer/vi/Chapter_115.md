@@ -30,7 +30,7 @@ Anh ta chất lên bàn nhiều sách tới mức tôi đếm không xuể. Tôi
 
 "Sách vở chẳng bao giờ xuống giá nhỉ? Chắc chẳng đời nào tôi mua nổi từng này cuốn."
 
-"Thật vậy sao, ngài Rentt? Tôi có nghe phong thanh về những chiến tích gần đây của ngài đấy. Kể cả không tính đến ủy thác của tôi, nghe đồn ngài cũng kiếm được bộn tiền nhờ bán các bộ phận của Tarasque mà."
+"Thật vậy sao, ngài Rentt? Tôi có nghe phong thanh về những thành tích gần đây của ngài đấy. Kể cả không tính đến ủy thác của tôi, nghe đồn ngài cũng kiếm được bộn tiền nhờ bán các bộ phận của Tarasque mà."
 
 Đúng là thu nhập của tôi dạo này đã dư dả hơn hẳn. Hôm nọ tôi vừa bán được các bộ phận của Tarasque, và dẫu ủy thác Hoa Long Huyết của Laura không phải lý do chính cho lần ghé thăm này, tôi vẫn quyết định ít nhất phải giao một đợt trước khi lên đường. Tôi có mang theo một ít bên người và ban nãy vừa nhận tiền thù lao xong.
 
@@ -86,7 +86,7 @@ Lời cảnh báo của tôi chẳng hề làm Laura bận tâm. "Không sao đ�
 
 Một người bạn ư? Tôi tự hỏi liệu có phải Laura đang cô đơn hay không. Nghĩ vậy về một thân chủ thì hơi thất lễ, nhưng người đứng đầu một gia tộc hiển hách cỡ đó có lẽ cũng khó lòng tìm được bạn bè. Tôi thấy chuyện ấy chẳng khó hình dung chút nào. Nhưng biết đâu đó chỉ là một cái cớ, có lẽ cô bé nói vậy để người khác khỏi phải ngại ngùng mà thôi.
 
-"Vậy thì tôi sẽ nói lại chuyện đó với Lorraine khi gặp cô ấy. Nhưng để cho chắc, tôi xin hỏi lại lần nữa. Cô bé thực sự chắc chắn chứ?" Tôi muốn có một lời xác nhận sau cùng.
+"Vậy thì tôi sẽ báo lại chuyện đó với Lorraine lần tới gặp cô ấy. Nhưng để cho chắc, tôi xin hỏi lại lần nữa. Cô bé thực sự chắc chắn chứ?" Tôi muốn có một lời xác nhận sau cùng.
 
 Laura gật đầu. "Vâng, hoàn toàn chắc chắn," cô bé trả lời với vẻ thích thú.
 
@@ -114,7 +114,7 @@ Vì lẽ đó, tôi không nghĩ họ có toan tính mờ ám nào cả.
 
 Hoặc ít ra thì phần nhiều là không.
 
-Nếu vậy thì Laura chọn đối xử tốt với tôi chỉ vì rất khó tìm được ai có thể đến Đầm Lầy Tarasque, đúng như lời cô bé đã nói. Đó là một mục đích đơn giản, dễ hiểu và hết sức bình thường. Sự hào phóng của cô bé có vẻ cũng chẳng phải vì đánh giá tôi có giá trị đặc biệt gì. Chỉ đơn giản vì cô bé là một người cực kỳ tốt bụng mà thôi.
+Nếu vậy thì Laura chọn đối xử tốt với tôi chỉ vì rất khó tìm được ai có thể đến Đầm Lầy Tarasque, đúng như lời cô bé đã nói. Đó là một mục đích đơn giản, dễ hiểu và hết sức bình thường. Sự hào phóng của cô bé có vẻ cũng chẳng phải vì đánh giá tôi có giá trị đặc biệt gì. Chỉ đơn giản vì cô bé là một người tuyệt vời mà thôi.
 
 Ừm.
 

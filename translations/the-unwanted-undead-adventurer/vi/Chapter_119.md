@@ -4,7 +4,7 @@
 
 "Ờm... cháu chẳng biết nên bắt đầu từ đâu nữa," Alize lí nhí.
 
-Chưa từng mua vũ khí bao giờ nên cô bé bối rối cũng phải. Hồi mới chập chững vào nghề, tôi học cách chiến đấu từ một người thợ săn. Vũ khí chính của tôi khi ấy là cung và dao găm như bao thợ săn khác, nên tôi chẳng bao giờ phải bận tâm nghĩ ngợi. Đến lúc quyết định làm mạo hiểm giả, tôi đã dùng dao găm thành thạo và tự mày mò học thêm kiếm. Hầu hết những điều căn bản tôi đều đã nắm vững từ dạo đó. Nói cách khác, dù tốt hay xấu thì tôi cũng chưa từng phải đắn đo lựa chọn.
+Chưa từng mua vũ khí bao giờ nên cô bé bối rối cũng phải. Hồi mới chập chững bắt đầu, tôi học cách chiến đấu từ một người thợ săn. Vũ khí chính của tôi khi ấy là cung và dao như bao thợ săn khác, nên tôi chẳng bao giờ phải bận tâm nghĩ ngợi. Đến lúc quyết định làm mạo hiểm giả, tôi đã dùng dao thành thạo và tự mày mò học thêm kiếm. Hầu hết những điều căn bản tôi đều đã nắm vững từ dạo đó. Nói cách khác, dù tốt hay xấu thì tôi cũng chưa từng phải đắn đo lựa chọn.
 
 Về sau, tôi nhờ một mạo hiểm giả thỉnh thoảng ghé thị trấn làm hộ vệ cho thương buôn lưu động chỉ cho mấy đường kiếm thông dụng để nâng cao tay nghề. Tôi nhớ khi mình đánh đấm cứng cáp hơn đôi chút, anh ta cũng nhiệt tình chỉ dạy hơn hẳn. Thế nhưng một ngày nọ, anh ta không quay lại thị trấn nữa mà thay bằng một người khác. Bỏ mạng trong nhiệm vụ hay đã dạt sang vùng đất nào, tôi chịu chẳng rõ. Anh ta không phải mạo hiểm giả ở Maalt, nên có cố dò hỏi quanh thị trấn cũng bằng thừa. Họa chăng đến trụ sở khu vực của Hội ở thành phố lớn hơn thì may ra mới tra được tung tích, nhưng việc đó chắc tốn không ít thời gian. Vả lại hồi ấy anh ta từng bảo: "Gặp lại được thì gặp, không gặp thì thôi." Đó là một người kỳ lạ, sống chẳng màng đích đến, nhưng giờ thì tôi đã hiểu tâm trạng của anh ta khi ấy. Đó cũng là lý do chính khiến tôi không còn bận tâm đến việc cất công đi tìm nữa.
 
@@ -52,7 +52,7 @@ Rốt cuộc, có vẻ như trong mắt Alize tôi chỉ là một mạo hiểm 
 
 Tôi chẳng biết liệu mình có xứng đáng nhận một cô bé ngoan ngoãn và chu đáo thế này làm đệ tử hay không. Có khi tôi nên lên thẳng vương đô, gõ cửa từng mạo hiểm giả hàng đầu để xin họ nhận cô bé làm đệ tử mới phải. Ý nghĩ đó thoáng qua trong đầu tôi chừng một giây, nhưng tôi không thể làm thế. Tôi đã nhận lời dạy dỗ Alize thì rèn luyện cho cô bé là trách nhiệm của tôi. Ít nhất tôi cũng phải kiên trì chỉ bảo cho đến khi cô bé có đủ kiến thức và kỹ năng để tự đứng vững với tư cách một mạo hiểm giả. Câu tôi nói tiếp theo không hẳn vì lý do ấy, chỉ là tôi nhận ra mình đã buột miệng thốt ra.
 
-"Mới mấy hôm trước, em đã nắm được hết những thứ cơ bản về ma thuật từ Lorraine rồi còn gì? Em đang làm rất tốt rồi đấy chứ. Cứ đà này thì chẳng mấy chốc em sẽ vượt qua tôi thôi." Câu này nghe chẳng khác nào lời của một ông bố bà mẹ cuồng con. Có lẽ đầu óc mình có vấn đề thật rồi.
+"Mới mấy hôm trước, em đã nắm được hết những thứ cơ bản về ma thuật từ Lorraine rồi còn gì? Em đang cố gắng hết sức rồi đấy chứ. Cứ đà này thì chẳng mấy chốc em sẽ vượt qua tôi thôi." Câu này nghe chẳng khác nào lời của một ông bố bà mẹ cuồng con. Có lẽ đầu óc mình có vấn đề thật rồi.
 
 ◆◇◆◇◆
 
@@ -138,7 +138,7 @@ Máu Ma Cà Rồng thì tôi lấy được, chỉ có điều Ma Tinh thì ch�
 
 "Dùng Ma Tinh của Tarasque liệu có được không?" Đó là thứ tôi có khả năng kiếm được. Dù sẽ tốn chút công sức, nhưng không phải bất khả thi. Lũ đó chưa tới tầm Bạch Kim Cấp, nhưng chắc cũng xêm xêm cỡ Kim Cấp.
 
-Clope trầm ngâm một lúc rồi mới đáp: "Dùng thì chắc cũng được thôi, nhưng thế thì phí thỏi Ma Thiết này quá. Nếu cậu gom đủ lá Thánh Thụ với một viên Ma Tinh Bạch Kim Cấp, tôi có thể rèn ra một thanh kiếm đỉnh cao đấy chứ chẳng đùa."
+Clope trầm ngâm một lúc rồi mới đáp: "Dùng thì chắc cũng được thôi, nhưng thế thì phí thỏi Ma Thiết này quá. Nếu cậu gom đủ lá Thánh Thụ với một viên Ma Tinh Bạch Kim Cấp, tôi có thể rèn ra một thanh kiếm ra trò đấy."
 
 "Nhưng anh nghĩ tôi đào đâu ra mấy thứ nguyên liệu đó bây giờ?" Biết đâu ngày nào đó tôi kiếm được thật, nhưng chắc chắn không phải lúc này. Clope dường như cũng thừa biết chuyện đó.
 

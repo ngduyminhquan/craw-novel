@@ -38,7 +38,7 @@ Clope ngẫm nghĩ một lúc. "Khó mà nói chắc được. Người ta bảo
 
 Nghe thì đúng là khó thật, nhưng Clope đâu biết tôi kiếm máu Ma Cà Rồng dễ đến mức nào. Tôi chỉ việc lấy máu của chính mình là xong. Giờ tôi có còn là Ma Cà Rồng hay không thì chưa rõ ràng lắm, khéo lại chẳng ăn thua, nhưng dẫu sao cũng rất đáng để thử một phen.
 
-Vậy là chỉ còn lại Ma Tinh và lá Thánh Thụ. Cùng lắm thì tôi vẫn có thể tích cóp tiền mua Ma Tinh. Riêng về Thánh Thụ, tôi cần tìm hiểu thêm.
+Vậy là chỉ còn lại Ma Tinh và lá Thánh Thụ. Cùng lắm thì tôi vẫn có thể tích cóp tiền mua Ma Tinh. Riêng về các loại Thánh Thụ, tôi cần tìm hiểu thêm.
 
 "Thánh Thụ mà anh nói là cái cây ở Vùng Đất Cổ Thánh Thụ đấy hả?" tôi hỏi Clope.
 
@@ -114,4 +114,4 @@ Xét kỹ ra thì Thần Lực của tôi vốn bắt nguồn từ một thần 
 
 "Trước khi đem đốt thì anh cứ bảo tôi một tiếng. Lúc nào tôi cũng sẵn lòng đem chúng vào rừng mà trồng." Tôi không nghĩ phải làm đến mức ấy, nhưng dẫu sao mấy cái cây này cũng lớn lên từ Thần Lực của tôi. Ở góc độ nào đó, chúng đem lại cảm giác chẳng khác gì con cái mình vậy.
 
-"Được rồi, nếu đến nước đó thì tôi sẽ bảo cậu. Dù sao thì chúng ta cũng nói chuyện sang tận đẩu tận đâu rồi, quay lại với trang bị cho cô bé này thôi. Trước hết, cháu muốn loại trang bị như thế nào?" Clope hỏi rồi mang ra vài món vũ khí cơ bản.
+"Được rồi, nếu đến nước đó thì tôi sẽ bảo cậu. Dù sao thì chúng ta cũng nói chuyện lạc đề xa quá rồi, quay lại với trang bị cho cô bé này thôi. Trước hết, cháu muốn loại trang bị như thế nào?" Clope hỏi rồi mang ra vài món vũ khí cơ bản.

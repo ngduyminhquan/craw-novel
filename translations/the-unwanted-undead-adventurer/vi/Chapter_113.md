@@ -66,7 +66,7 @@ Dù rải rác đây đó vẫn có kẻ trốn thoát, nhưng số lượng r�
 
 Nói cách khác, những người sở hữu Mị Nhãn là vô cùng hiếm hoi. Còn Ma Cà Rồng thì ngược lại...
 
-"Ma Cà Rồng nào cũng có Mị Nhãn sao?" Tôi hỏi.
+"Ma Cà Rồng nào cũng có Mị Nhãn sao?" tôi hỏi.
 
 "Cái đó thì tôi không chắc. Tôi chỉ biết rất nhiều đứa trong số chúng có đôi mắt ấy, và ánh nhìn của chúng thường mạnh hơn con người rất nhiều lần. Thế nên chúng mới nguy hiểm đấy. Phải hết sức, hết sức cẩn thận vào."
 
@@ -120,7 +120,7 @@ Thế là cuộc đàm phán giữa Nive và Rentt tại Thương hội Stheno k
 
 "Vì sao cô lại nghi ngờ ngài Rentt nhiều đến thế...?"
 
-"Hừm... Tôi kể ra được nhiều điều lắm đấy, nhưng chung quy lại thì vẫn là linh cảm thôi, cô biết không? Muốn tìm Ma Cà Rồng thì phải có một giác quan nhất định. Chính là cái linh cảm tôi vừa nói đấy. Mà trực giác tương đối hiếm có của tôi về mấy chuyện này lại mách bảo rằng anh ta là Ma Cà Rồng. Cơ mà xem ra thực tế thì giác quan của tôi cũng cùn đi rồi. Từ trước tới giờ tôi luôn chuẩn xác tuyệt đối, tỉ lệ thành công một trăm phần trăm đấy! Chắc giờ tỉ lệ đó tụt xuống còn chín mươi chín phần trăm rồi, ha."
+"Hừm... Kể ra thì nhiều chuyện lắm, nhưng chung quy lại vẫn là linh cảm thôi. Muốn tìm Ma Cà Rồng thì phải có một giác quan nhất định, chính là cái linh cảm tôi vừa nói đấy. Mà trực giác tương đối hiếm có của tôi về mấy chuyện này lại mách bảo rằng anh ta là Ma Cà Rồng. Cơ mà thực tế thì xem ra giác quan của tôi cũng cùn đi rồi. Từ trước tới giờ tôi luôn chuẩn xác tuyệt đối, tỉ lệ thành công một trăm phần trăm đấy! Chắc giờ tỉ lệ đó tụt xuống còn chín mươi chín phần trăm rồi, ha."
 
 Nive có thực lòng với những gì mình nói không? Tôi cũng chẳng rõ. Nhưng những điều cô ấy nói về giác quan và trực giác xem chừng rất chân thành. Không hiểu sao tôi lại cảm thấy thế.
 
@@ -130,6 +130,6 @@ Tôi im lặng một lát, không nói lời nào. Nive lại tiếp tục.
 
 Tôi sẽ còn phải giúp đỡ con người này nữa sao? Cả từ giờ trở đi nữa ư...? Tôi cứ ngỡ nhiệm vụ của mình sẽ kết thúc sau khi đi cùng cô ấy tới sự kiện duy nhất này thôi chứ...
 
-Nghĩ lại bức thư của Đại Giáo Phụ, tôi không nhớ có ghi mốc thời hạn nào trong đó, và cũng không hề giới hạn hoạt động của tôi chỉ là đi theo Nive. Tuy nhiên, tôi lại nhớ có một câu ở cuối thư: "...hãy đáp ứng các nhu cầu của cô ấy nhiều nhất có thể."
+Nghĩ lại bức thư của Đại Giáo Phụ, tôi không nhớ có ghi mốc thời hạn nào trong đó, và cũng không hề giới hạn công việc của tôi chỉ ở mức đi theo Nive. Tuy nhiên, tôi lại nhớ có một câu ở cuối thư: "...hãy đáp ứng các nhu cầu của cô ấy nhiều nhất có thể."
 
 Cứ thế này thì tôi sẽ chẳng thể thực hiện được phận sự chính thức của một Thánh Nữ nữa mất. Nghĩ đến đó, tôi ôm đầu. Chỉ mới hình dung ra cảnh phải lẽo đẽo theo sau cô mạo hiểm giả Kim Cấp kỳ quặc này thêm một thời gian khá dài nữa thôi là tôi đã thấy kiệt quệ tinh thần rồi...

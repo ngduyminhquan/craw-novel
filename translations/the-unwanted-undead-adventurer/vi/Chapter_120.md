@@ -58,7 +58,7 @@ Trông cô rót Ma Lực nhẹ tênh như chẳng tốn chút sức lực nào, 
 
 "Ma pháp trận chui vào trong viên Ma Tinh rồi này anh," cô bé nói rồi chuyền nó sang cho tôi.
 
-Đúng như lời Alize nói, ma pháp trận lúc này đang xoay tròn bên trong viên Ma Tinh. Hóa ra ý Lorraine bảo "hấp thụ" là như vậy. Dù thế, tôi đã quá quen với cảnh này nên chẳng thấy ngạc nhiên. Bản thân tôi vẫn chưa tự chế tạo được ma cụ nào, nhưng trình độ thẩm định thì đã khá lên nhiều. Máu thực dụng của dân mạo hiểm giả lại khiến tôi bất giác tính xem thứ này bán được bao nhiêu tiền. Có điều cây đũa phép dùng viên Ma Tinh này chắc cũng chẳng đáng giá là bao.
+Đúng như lời Alize nói, ma pháp trận lúc này đang xoay tròn bên trong viên Ma Tinh. Hóa ra ý Lorraine bảo "hấp thụ" là như vậy. Dù thế, tôi đã quen mắt với cảnh này nên chẳng thấy ngạc nhiên. Bản thân tôi vẫn chưa tự chế tạo được ma cụ nào, nhưng trình độ thẩm định thì đã khá lên nhiều. Tính thực dụng của một mạo hiểm giả khiến tôi không khỏi tự hỏi thứ này bán được bao nhiêu tiền. Có điều cây đũa phép dùng viên Ma Tinh này chắc cũng chẳng đáng giá là bao.
 
 Chuyện đó làm tôi chợt nhớ ra. "Alize, em nhờ cô Lorraine cho xem thử một cây đũa phép của cô ấy đi. Đẹp lắm đấy," tôi gợi ý. Nhà Lorraine có cả đống trượng, nhẫn cùng đủ loại vật dẫn ma pháp khác. Tôi nghĩ để Alize ngắm thử cây đũa cô ấy hay dùng thì tốt biết mấy.
 
@@ -98,7 +98,7 @@ Lorraine lùi lại một bước. "Phải rồi. Hình như vừa nãy dừng �
 
 "Thế ạ?" Alize hỏi.
 
-"Ừ. Ví dụ cách cổ điển nhất là tự gọt đẽo bằng tay. Em có thể dùng dao hoặc dụng cụ khác để tạo hình theo ý thích. Ngày xưa người ta toàn làm vậy, nhưng tốn thời gian lắm, mà sơ sẩy một chút là hỏng bét ngay. Tôi không khuyến khích đâu, dẫu một người thợ lành nghề có thể làm ra những cây đũa phép tuyệt đỉnh bằng cách đó. Sau này muốn trở thành nghệ nhân thì em có thể thử, còn giờ chúng ta chỉ tập trung vào căn bản thôi nên chưa cần đi đường đó đâu," Lorraine thao thao bất tuyệt một hồi.
+"Ừ. Ví dụ cách cổ điển nhất là tự gọt đẽo bằng tay. Em có thể dùng dao hoặc dụng cụ khác để tạo hình theo ý thích. Ngày xưa người ta toàn làm vậy, nhưng tốn thời gian lắm, mà sơ sẩy một chút là hỏng bét ngay. Tôi không khuyến khích đâu, dẫu một người thợ lành nghề có thể làm ra những cây đũa phép thượng hạng bằng cách đó. Sau này muốn trở thành nghệ nhân thì em có thể thử, còn giờ chúng ta chỉ tập trung vào căn bản thôi nên chưa cần đi đường đó đâu," Lorraine giảng giải một hồi.
 
 "Cách dễ hơn và phổ biến hơn là dùng ma thuật để tạo hình đũa phép. Ví dụ như thế này này," cô nói rồi bắt đầu rót Ma Lực vào khúc gỗ Ent Bụi Cây. Cô đợi đến khi khúc gỗ ngấm đủ Ma Lực, rồi dùng chính Ma Lực tách lấy một phần gỗ, nâng nó lơ lửng giữa không trung. Mẩu gỗ dài cỡ một cây đũa phép thông thường, chừng ba mươi centimet. Cô tiếp tục điều khiển Ma Lực gọt giũa phần gỗ đó từng chút một. Ma Lực quấn quanh mẩu gỗ theo hình xoắn ốc, dần uốn nắn nó thành hình cây đũa phép. Lớp vỏ cây được sắp đặt khéo léo để tạo thành bề mặt bên ngoài của đũa, một đầu thon nhỏ rồi dày dặn dần về phía đầu kia. Tay nghề thế này đúng là chẳng kém gì thợ chuyên nghiệp.
 
