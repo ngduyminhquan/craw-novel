@@ -78,6 +78,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (8) Kể theo góc nhìn ngôi thứ ba bám theo Rina Rupaage, khắc họa tâm lý non nớt nhưng giàu lòng tự trọng của con gái một gia đình hiệp sĩ mới vào nghề khi rời vương đô tới Maalt và được Rentt giải cứu.
 - (9) Nửa đầu (trước dấu phân cách) kể theo góc nhìn ngôi thứ ba bám theo tiếp tân viên Sheila Ibarss tại Hội Mạo Hiểm Giả Maalt, khắc họa sự gắn bó và tầm ảnh hưởng của Rentt đối với Hội và các mạo hiểm giả; sau dấu phân cách quay lại ngôi thứ nhất ("tôi") của Rentt Faina.
 - (10) Rina quay lại mê cung giao đồ cải trang cho Rentt. Thể hiện nét chu đáo, tinh ý nhưng vẫn dè dặt giữ khoảng cách an toàn của Rina trước một Undead; Rentt độc thoại dí dỏm, tự trào khi ngắm diện mạo Ngạ Quỷ có hoa văn phát sáng và chiếc mặt nạ xương dính chặt vào mặt.
+- (11) Rentt và Rina phối hợp diễn kịch lừa lính gác cổng tây Maalt để đưa Rentt vào thị trấn. Rina nhanh trí, bạo dạn và chu đáo bảo lãnh cho Rentt; lời thoại giải thích với lính gác trơn tru, tự nhiên, lính gác giữ xưng hô chuẩn mực đời thường ("tôi - anh/cậu").
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
