@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T01:18:34Z",
+  "generatedAt": "2026-11-05T01:32:41Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2212,37 +2212,37 @@
           "number": 10,
           "title": "Chương 10: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_010.md",
-          "sha": "256de963d20b64d6622b38e5bc6c2394371e8cf7"
+          "sha": "1ce6c68cedf8f02d0bb0d51c1c6ffb969b46324e"
         },
         {
           "number": 11,
           "title": "Chương 11: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (6)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_011.md",
-          "sha": "f50eda952ce9ffaf3c30bc6ba7cff3d86a9c39ff"
+          "sha": "5b66af66ad8b733d7049846a6e63db23d2ead97b"
         },
         {
           "number": 12,
           "title": "Chương 12: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_012.md",
-          "sha": "e8307d15aaa64f57a7ee1171607fe6a68b5fc089"
+          "sha": "e7a7c777f15bb1a6a25f39ffeed1bd8c0df36e5e"
         },
         {
           "number": 13,
           "title": "Chương 13: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_013.md",
-          "sha": "35224f6715bd43feb505cea025373c1c67570c4f"
+          "sha": "9f8dcef8e4d61f8fea0eb3fcee5220fbe38e6833"
         },
         {
           "number": 14,
           "title": "Chương 14: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_014.md",
-          "sha": "cf7b1c01196aa9dc68d6e66d1e092428111236c8"
+          "sha": "6a474d71540253cf10b2f5b65adc15f8dc94ec21"
         },
         {
           "number": 15,
           "title": "Chương 15: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_015.md",
-          "sha": "032befebcfbd149da2ce747a5e66e29ace3ae172"
+          "sha": "ad4ad8570e86afeb53a0361f46ac5da8f097e092"
         },
         {
           "number": 16,

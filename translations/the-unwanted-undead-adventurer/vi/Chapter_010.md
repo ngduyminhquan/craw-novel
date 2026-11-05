@@ -52,7 +52,7 @@ Sau khi xem qua những thứ bên trong, tôi thò tay vào túi nắm lấy ch
 
 Nói đúng hơn, với cánh kiếm sĩ thì thứ này chỉ tổ vướng víu. Nhưng với tôi lúc này, có được chiếc áo rộng thùng thình để giấu kín bản thân quả là may mắn trời ban, bởi nó trùm gọn từ đầu đến chân, tay áo lại dài đủ che khuất hai cánh tay. Có nó rồi thì việc trả tiền mua đồ ở các cửa tiệm sẽ dễ như trở bàn tay.
 
-Tôi phải vỗ tay tán thưởng mắt chọn đồ của Rina—dù tôi dặn dò hết sức ngắn gọn nhưng cô vẫn hiểu đúng ý tôi muốn. Nói vậy thôi, chứ đôi bàn tay khô khốc này của tôi thì làm sao mà vỗ tay cho được.
+Tôi thầm tán thưởng mắt chọn đồ của Rina—dù tôi dặn dò hết sức ngắn gọn nhưng cô vẫn hiểu đúng ý tôi muốn. Giá mà vỗ tay khen cô được một tràng thì tốt, chứ đôi bàn tay khô khốc này của tôi thì làm sao mà vỗ tay cho được.
 
 Gác lại suy nghĩ đó, tôi quyết định mặc thử chiếc áo. Hai cánh tay tôi xỏ gọn vào ống tay áo choàng, chất vải chạm vào khá dễ chịu. Mang một cơ thể chỉ toàn thịt khô mà vẫn còn cảm giác xúc giác thế này kể cũng hơi lạ, chưa kể đến khả năng cử động thoăn thoắt mới có được. Cơ mà bình tĩnh nghĩ lại thì tôi vẫn là một con quái vật, chắc hẳn đó chính là lý do cho những điều khác thường này.
 
@@ -94,7 +94,7 @@ Gặp được người đầu tiên đối xử tử tế với mình kể từ
 
 Dù sao thì tôi cũng quyết định mang cả giày lẫn găng tay vào. Vì cơ thể chỉ toàn da thịt khô khốc nên tôi không rõ hai món đồ này có tác dụng gì với mình không, nhưng trước mắt cứ đeo vào cái đã.
 
-Nghĩ vậy, tôi xỏ chân vào giày, vừa dùng bàn tay còn rảnh chỉnh lại đôi găng rộng lùng thùng một cách kỳ lạ. Đeo đôi găng này thì cầm vũ khí khá khó khăn; tuy hệ lụy của việc đó hơi đáng lo, tôi vẫn chấp nhận xem như sự đánh đổi cần thiết để có thể trở về Maalt.
+Nghĩ vậy, tôi xỏ chân vào giày, tay còn rảnh thì chỉnh lại đôi găng rộng lùng thùng một cách kỳ lạ. Đeo đôi găng này thì cầm vũ khí khá khó khăn; tuy hệ lụy của việc đó hơi đáng lo, tôi vẫn chấp nhận xem như sự đánh đổi cần thiết để có thể trở về Maalt.
 
 "Oa... Nhìn toát ra khí thế đáng sợ ghê. Trông anh cứ như... người ta gọi cái giống đó là gì ấy nhỉ? Wight...? Đúng rồi, trông anh hệt như một con Wight ấy! À phải rồi, tôi còn mang theo cả một chiếc gương nữa này. Anh xem thử đi?"
 

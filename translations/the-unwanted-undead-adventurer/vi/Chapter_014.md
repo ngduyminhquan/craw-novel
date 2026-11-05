@@ -124,7 +124,7 @@ Kể từ dạo đó, Lorraine thay mặt tôi lui tới Hội Mạo Hiểm Gi�
 
 Sau cùng, chính Lorraine đã mua lại lọ dịch thể Slime từ tôi—với một khoản tiền khá hời là đằng khác. Dù đó là loại nguyên liệu tương đối có giá trị với Hội, nhưng chẳng có luật nào ép tôi phải bán chiến lợi phẩm cho một ai cố định. Chuyện đó hoàn toàn tùy thuộc vào quyền tự quyết của từng mạo hiểm giả.
 
-Vốn dĩ Lorraine khá am tường thuật giả kim, cô thường tự điều chế thuốc men và các loại thuốc cho riêng mình. Thành thử cô cần đủ loại nguyên liệu để nghiên cứu chế tác, và tình cờ tôi lại mang theo đúng một trong số đó—mà lại còn là nguyên liệu đắt tiền hẳn hoi—nên Lorraine đã trả một mức giá rất sòng phẳng. Mua tận gốc thế này thực ra còn giúp Lorraine tiết kiệm chi phí, thay vì phải mua lại với giá đắt đỏ từ Hội Mạo Hiểm Giả.
+Vốn dĩ Lorraine khá am tường thuật giả kim, cô thường tự điều chế thuốc men cho riêng mình. Thành thử cô cần đủ loại nguyên liệu để nghiên cứu chế tác, và tình cờ tôi lại mang theo đúng một trong số đó—mà lại còn là nguyên liệu đắt tiền hẳn hoi—nên Lorraine đã trả một mức giá rất sòng phẳng. Mua tận gốc thế này thực ra còn giúp Lorraine tiết kiệm chi phí, thay vì phải mua lại với giá đắt đỏ từ Hội Mạo Hiểm Giả.
 
 Nhưng tạm gác chuyện đó sang một bên, điều đáng nói lúc này là tôi đang rảo bước trên đường phố Maalt. Dù thực sự muốn tận hưởng bầu không khí của thị trấn sau quãng thời gian ngỡ như đằng đẵng vừa qua, tôi cũng chẳng rảnh rỗi bước ra đường đi dạo mà không có mục đích.
 

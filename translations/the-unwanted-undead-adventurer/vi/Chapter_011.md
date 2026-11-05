@@ -12,7 +12,7 @@ Rina cất lời xin lỗi, mặt lộ rõ vẻ áy náy.
 
 Nghe Rina tả về gã thương nhân thì thấy cũng đúng kiểu người buôn bán, ngoại trừ cái mức giá rẻ đến khó tin kia. Tôi đi đến kết luận gã đó ắt hẳn là một tên lừa đảo, dù vốn dĩ cánh con buôn ít nhiều cũng có máu gian xảo sẵn rồi.
 
-"...Mà... này. Hết... bao nhiêu? Món này... giá bao nhiêu...?"
+"Mà... này. Hết... bao nhiêu? Món này... giá bao nhiêu...?"
 
 "Ba đồng xu đồng. Nó làm bằng kim loại, trông cũng khá chắc chắn... Chắc là rẻ quá mức rồi nhỉ...? Cơ mà nhìn nó ngầu ngầu nên tôi thích lắm, thế là..."
 
@@ -230,7 +230,7 @@ Nói đoạn, tôi cúi người về phía trước. Người lính theo đó l
 
 "Chi phí chứ gì? Ừ, với mạo hiểm giả Thiết Cấp hay Đồng Cấp thì đúng là khó kham nổi thật. Thảo nào cậu ta vẫn phải mang sẹo trên mặt như vậy... Tôi hiểu rồi..."
 
-Rina phân trần trơn tru chẳng lộ chút ngập ngừng nào. Nhờ thế, người lính gác cũng không còn tỏ vẻ nghi ngại nữa.
+Rina giải thích trơn tru chẳng lộ chút ngập ngừng nào. Nhờ thế, người lính gác cũng không còn tỏ vẻ nghi ngại nữa.
 
 "Được rồi, tôi hiểu rồi. Hai người qua đi!"
 

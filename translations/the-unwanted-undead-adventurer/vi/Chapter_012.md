@@ -2,7 +2,7 @@
 
 "Thị trấn... Maalt..." Đó là những lời đầu tiên tôi thốt ra khi nhìn quanh.
 
-Đúng là thị trấn Maalt tấp nập, không lẫn vào đâu được. Mới rời đi có mấy ngày mà tôi cảm giác như đã cả thế kỷ trôi qua. Cứ tưởng mình sẽ chẳng bao giờ còn cơ hội quay lại thị trấn này nữa.
+Đúng là thị trấn Maalt tấp nập, không lẫn vào đâu được. Mới rời đi có mấy ngày mà tôi cảm giác như đã đằng đẵng biết bao lâu. Cứ tưởng mình sẽ chẳng bao giờ còn cơ hội quay lại thị trấn này nữa.
 
 Từng nghĩ thế thật đấy, vậy mà giờ tôi đã ở ngay đây, giữa thị trấn Maalt.
 
@@ -16,7 +16,7 @@ Cô thực sự là một cô gái tốt bụng, đến mức sẵn lòng đối
 
 Nhưng tôi không thể để chuyện này tiếp diễn thêm được. Còn dính líu đến tôi thì sớm muộn gì rắc rối cũng đổ xuống đầu cô. Thế nên tôi mới lên tiếng:
 
-"Đúng vậy... Tất cả... nhờ có. Cô cả đấy, Ri... Rina. Từ... đây. Tôi có thể... tự đi... được rồi..."
+"Đúng vậy... tất cả... nhờ có. Cô cả đấy, Ri... Rina. Từ... đây. Tôi có thể... tự đi... được rồi..."
 
 "Hử?"
 

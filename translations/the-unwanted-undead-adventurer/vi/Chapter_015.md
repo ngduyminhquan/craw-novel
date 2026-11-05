@@ -84,13 +84,13 @@ Khách lần đầu tới tiệm có lẽ sẽ thấy ngỡ ngàng trước tìn
 
 Dĩ nhiên, lúc này mà nói chuyện với Clope thì vô phương. Thậm chí gã tập trung tới mức ai dám chen ngang khéo sẽ bị tiện tay nện luôn cho một nhát búa. Tốt nhất cho cả hai bên là cứ kiên nhẫn đợi người thợ rèn hoàn thành một công đoạn rồi đặt búa xuống. Dù sao thì tôi cũng chẳng còn lạ gì lề thói làm việc ở tiệm Ba Chĩa.
 
-"...Không. Tôi không... phiền đâu. Tôi... đợi ở đây luôn. Được không?"
+"...Không. Tôi không... phiền đâu. Tôi... đợi, ở đây. Luôn được không?"
 
 "Được chứ, thế thì không sao, nhưng... quý khách thấy ổn thật chứ? Ở đây chẳng có gì thú vị cả. Quý khách không thấy chán sao?" Luka hỏi, có vẻ tò mò trước quyết định của tôi.
 
-"Ngắm... thợ... rèn. Làm việc. Không... chán đâu." Tôi đáp.
+"Ngắm... thợ... rèn. Làm việc. Không... chán đâu." tôi đáp.
 
-Một thoáng ngạc nhiên lại thoáng qua gương mặt Luka, rồi nhanh chóng nhường chỗ cho nụ cười niềm nở như thường lệ.
+Một thoáng ngạc nhiên lại lướt qua gương mặt Luka, rồi nhanh chóng nhường chỗ cho nụ cười niềm nở như thường lệ.
 
 "Vậy ở góc đằng kia có chiếc ghế, quý khách có thể ngồi đó để xem cho rõ. Tôi đi lấy chút nước uống—xin phép quý khách." Nói rồi, Luka lui ra ngoài.
 

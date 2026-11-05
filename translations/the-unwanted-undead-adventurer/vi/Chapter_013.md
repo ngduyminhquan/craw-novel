@@ -14,7 +14,7 @@ Rõ ràng cô rất kinh ngạc trước những gì tôi kể, nhưng chưa m�
 
 ![](images/ch013-01.webp)
 
-"Tôi... là người... không muốn... tin nhất đây. Biến thành... như thế này."
+"Tôi... là người... không muốn... tin nhất đây. Biến thành... như, thế này."
 
 Lorraine gật đầu trước những lời tôi nói.
 
@@ -26,7 +26,7 @@ Báo cho Hội về con Rồng là một trong những việc đầu tiên tôi 
 
 Nó biến mất không tăm tích, cứ như mọi chuyện tôi vừa trải qua chỉ là một giấc mơ... Tôi không hiểu làm sao con Rồng có thể muốn hiện là hiện, muốn biến là biến như thế. Dù chẳng rõ nguyên do, nhưng nếu nó có thể tự tan biến vào hư vô thì đi lùng tìm cũng chẳng ích gì.
 
-Dù điều tra là chuyện cần thiết, nhưng báo lên mà không có chút bằng chứng nào trong tay thì quá mức mạo hiểm. Người ta sẽ chỉ coi đó là trò chơi khăm hoặc lời dối trá. Kể cả tôi có phơi thân xác này ra rồi bảo đây là hậu quả sau khi đụng độ Rồng, thì làm thế cũng chỉ tự đẩy mình vào chỗ nguy hiểm lần nữa. Ngay từ đầu, chính tôi còn chẳng hiểu sao giáp mặt Rồng lại biến thành Undead, nên tôi với họ cũng mù mờ như nhau cả thôi.
+Dù điều tra là chuyện cần thiết, nhưng báo lên mà không có chút bằng chứng nào trong tay thì quá mức mạo hiểm. Người ta sẽ chỉ coi đó là trò chơi khăm hoặc lời dối trá. Kể cả tôi có phơi thân xác này ra rồi bảo đây là hậu quả sau khi đụng độ Rồng, thì làm thế cũng chỉ tự đẩy mình vào chỗ nguy hiểm lần nữa. Ngay từ đầu, chính tôi còn chẳng hiểu sao giáp mặt Rồng lại biến thành Undead, nên họ có đoán già đoán non thì cũng mù mờ chẳng khác gì tôi.
 
 Tóm lại, thiếu bằng chứng là vấn đề rất lớn, chỉ cần sơ sẩy là tôi nguy to. Vì thế, tôi quyết định tạm gác ý định báo cáo chuyện nhìn thấy Rồng.
 
@@ -88,7 +88,7 @@ Như đọc được suy nghĩ của tôi, Lorraine tiếp tục giải thích.
 
 "..."
 
-Tôi chợt nghĩ cái danh xưng đó khéo cũng chẳng oan cho Lorraine chút nào. Có điều, tôi đành giữ kín suy nghĩ ấy... ít nhất là lúc này. Sẽ rất phiền phức nếu sự từ chối của tôi làm đổ vỡ thỏa thuận trước đó.
+Tôi chợt nghĩ cái danh xưng đó khéo cũng chẳng oan cho Lorraine chút nào. Có điều, tôi đành giữ kín suy nghĩ ấy... ít nhất là lúc này. Sẽ rất phiền phức nếu sự từ chối cung cấp mẫu vật của tôi làm đổ vỡ thỏa thuận trước đó.
 
 Tuy vậy, tôi khá ngạc nhiên khi biết nghiên cứu về Tiến Hóa Bản Thể lại ít ỏi đến thế. Dù ngoài những hiểu biết cơ bản ra tôi chẳng biết gì thêm, nhưng tôi cứ tưởng giới học giả chuyên nghiệp phải nắm được nhiều thông tin hơn mình rất nhiều.
 
