@@ -12,19 +12,19 @@ Tôi cảm thấy bị sỉ nhục. Cô bé này thật lòng nghĩ một kỵ s
 
 ◆◇◆◇◆
 
-Đứng trong căn phòng được cấp cho mình, đã lâu lắm rồi tôi mới lại lấy thanh kiếm cũ yêu quý ra. Lưỡi kiếm bạc mảnh mai ngập tràn Ma Lực, còn trên chuôi kiếm khắc hình một con kỳ lân đâm xuyên qua một con rồng. Hồi mới có được nó, tôi từng vui sướng khôn xiết. Nhưng giờ đây nó đã nằm yên trong ngăn kéo suốt bao năm tháng. Tôi chẳng còn cần đến nó nữa.
+Đứng trong căn phòng được cấp cho mình, đã lâu lắm rồi tôi mới lại lấy thanh kiếm cũ yêu quý ra. Lưỡi kiếm bạc mảnh mai ngập tràn Ma Lực, còn trên chuôi kiếm khắc hình một con kỳ lân đâm xuyên qua một con Rồng. Hồi mới có được nó, tôi từng vui sướng khôn xiết. Nhưng giờ đây nó đã nằm yên trong ngăn kéo suốt bao năm tháng. Tôi chẳng còn cần đến nó nữa.
 
-Hiện giờ tôi đang làm người hầu trong ngôi nhà này. Thỉnh thoảng tôi cũng chiến đấu với quái vật, nhưng trang bị thông thường là quá đủ đối phó với chúng rồi. Món vũ khí này vốn chỉ được dùng để đối đầu với những kẻ thù nhất định, nên tôi chưa từng nghĩ mình sẽ dùng lại nó thêm lần nào nữa. Dù vậy, trong tôi vẫn còn vương lại chút kiêu hãnh thuở ấy, và tôi cũng chẳng thể quên ý nghĩa của thanh kiếm này với bản thân, thành ra tôi không nỡ vứt bỏ. Tôi không nghĩ tiểu thư sẽ hài lòng về điều đó, nhưng ngẫm lại thì, đằng nào có lẽ cô bé cũng thừa biết tôi vẫn còn giữ nó.
+Hiện giờ tôi đang làm người hầu trong ngôi nhà này. Thỉnh thoảng tôi cũng chiến đấu với quái vật, nhưng trang bị thông thường là quá đủ đối phó với chúng rồi. Món vũ khí này vốn chỉ dùng để đối đầu với những kẻ thù nhất định, nên tôi chưa từng nghĩ mình sẽ dùng lại nó thêm lần nào nữa. Dù vậy, trong tôi vẫn còn vương lại chút kiêu hãnh thuở ấy, và tôi cũng chẳng thể quên ý nghĩa của thanh kiếm này với bản thân, thành ra tôi không nỡ vứt bỏ. Tôi không nghĩ tiểu thư sẽ hài lòng về điều đó, nhưng ngẫm lại thì, đằng nào có lẽ cô bé cũng thừa biết tôi vẫn còn giữ nó.
 
-Mọi việc tôi làm đối với cô bé chẳng qua chỉ là trò vặt vãnh. Thế nhưng điều đó không chỉ gói gọn ở riêng tôi. Có lẽ cô bé xem mọi hành động của chúng tôi nhìn chung đều tầm thường và vô nghĩa. Hẳn đó là lý do cô bé gạt bỏ chúng tôi, và cũng là chủ đích của vụ cá cược với tôi. Biết đâu những nỗ lực sau này của tôi cũng chẳng có nghĩa lý gì với cô bé. Dưới góc nhìn của cô bé, có lẽ quá khứ đã khép lại và chẳng việc gì phải khơi lại những xung đột xưa cũ.
+Mọi việc tôi làm đối với cô bé chẳng qua chỉ là trò vặt vãnh. Nhưng điều đó cũng chẳng phải chỉ với riêng tôi. Có lẽ cô bé xem mọi hành động của chúng tôi nhìn chung đều tầm thường và vô nghĩa. Hẳn đó là lý do cô bé gạt bỏ chúng tôi, và cũng là chủ đích của vụ cá cược với tôi. Biết đâu những nỗ lực sau này của tôi cũng chẳng có nghĩa lý gì với cô bé. Trong mắt cô bé, có lẽ quá khứ đã khép lại và chẳng việc gì phải khơi lại những xung đột xưa cũ.
 
-Nhưng tôi lại không thể quên đi quá khứ như vậy. Tôi nhận ra sau ngần ấy năm trời, mình vẫn chỉ là một kẻ ngu muội. Cứ ngỡ bản thân đã đổi thay, nhưng có lẽ đây mới chính là thực tại. Tôi từng cố làm nên một điều gì đó vĩ đại, nhưng thực tế phũ phàng đã bắt tôi phải quỳ gối và quật ngã tôi, cho tới khi tôi phải bám víu lấy bàn tay cứu giúp chìa ra trước mắt. Chỉ có vậy thôi. Tôi chẳng là ai cả.
+Nhưng tôi lại không thể quên đi quá khứ như vậy. Tôi nhận ra sau ngần ấy năm trời, mình vẫn chỉ là một kẻ khờ dại. Cứ ngỡ bản thân đã đổi thay, nhưng có lẽ đây mới chính là thực tại. Tôi từng cố làm nên một điều gì đó lớn lao, nhưng thực tế đã bắt tôi phải quỳ gối và quật ngã tôi, cho tới khi tôi phải bám víu lấy bàn tay cứu giúp chìa ra trước mắt. Chỉ có vậy thôi. Tôi chẳng là ai cả.
 
-Tôi nhớ lại chuyện mình nghe được mấy hôm trước. Hôm đó có một cậu bé tìm đến ngôi nhà này, và tôi đang dẫn cậu tới gặp một người cùng làng.
+Tôi nhớ lại chuyện mình nghe được mấy hôm trước. Hôm đó có một cậu bé tìm đến ngôi nhà này, và tôi đang dẫn cậu ấy tới gặp một người cùng làng.
 
 "Nhân tiện, người bên Đồng Minh mời tôi có hỏi xem tôi từng nghe về ai tên là Isaac Hart chưa. Đó là anh à?" cậu bé hỏi tôi.
 
-Tôi đã nghe chuyện một thành viên Đồng Minh, một người thuộc nhóm tách biệt với ngôi làng, mời cậu bé đến thị trấn này. Sau đó cậu kể mục tiêu của họ là công khai sự tồn tại của mình; họ muốn được đối xử với các quyền lợi ngang hàng như con người. Chính điều đó đã thuyết phục cậu bé tìm đến Maalt. Thế nhưng, vào tới thành phố, cậu lại không sao gặp được người bên Đồng Minh nọ. Đến lúc cạn sạch thuốc kiềm chế cơn thèm khát, cậu chẳng còn lựa chọn nào khác ngoài việc tìm đến ngôi nhà này theo những gì đã nghe trưởng làng kể lại. Nghe chừng cậu bé không biết nhiều điều, nhưng khi người bên Đồng Minh ngỏ lời mời, tên của tôi đã được nhắc tới.
+Tôi đã nghe chuyện một thành viên Đồng Minh, một người thuộc nhóm tách biệt với ngôi làng, mời cậu bé đến thị trấn này. Sau đó cậu ấy kể mục tiêu của họ là công khai sự tồn tại của mình; họ muốn được hưởng các quyền lợi ngang hàng như con người. Chính điều đó đã thuyết phục cậu bé tìm đến Maalt. Thế nhưng, vào tới thành phố, cậu ấy lại không sao gặp được người bên Đồng Minh nọ. Đến lúc cạn sạch thuốc kiềm chế cơn thèm khát, cậu bé chẳng còn lựa chọn nào khác ngoài việc tìm đến ngôi nhà này theo những gì đã nghe trưởng làng kể lại. Nghe chừng cậu bé không biết nhiều điều, nhưng khi người bên Đồng Minh ngỏ lời mời, tên của tôi đã được nhắc tới.
 
 "Sao người đó lại hỏi cậu về cái tên ấy?" tôi hỏi cậu bé.
 
@@ -34,7 +34,7 @@ Tôi đã nghe chuyện một thành viên Đồng Minh, một người thuộc 
 
 "Tại lúc hỏi câu đó, thái độ của ông ta có chút khác lạ. Ở làng tôi hay quậy phá làm khối người nổi giận, nên tôi nhìn sắc mặt người khác thạo lắm. Lúc hỏi câu ấy, ông ta làm tôi nhớ lại vẻ mặt của dân làng mình."
 
-Cậu bé này đủ nổi loạn và có thừa động lực để rời làng tới thị trấn này dù không được phép. Việc cậu luyện được một kỹ năng như thế cũng chẳng có gì đáng ngạc nhiên. Tôi chẳng rõ nhận định của cậu chuẩn xác đến đâu, nhưng gần như có thể khẳng định câu hỏi kia không đơn thuần chỉ để xã giao bâng quơ. Có người đang tìm kiếm tôi, và tôi đoán được kha khá đó là ai.
+Cậu bé này đủ nổi loạn và có thừa động lực để rời làng tới thị trấn này dù không được phép. Cậu ấy luyện được một kỹ năng như thế cũng chẳng có gì đáng ngạc nhiên. Tôi chẳng rõ nhận định của cậu bé chuẩn xác đến đâu, nhưng gần như có thể khẳng định câu hỏi kia không đơn thuần chỉ để xã giao bâng quơ. Có người đang tìm kiếm tôi, và tôi đoán được kha khá đó là ai.
 
 Tôi đeo thanh kiếm bên hông rồi hướng về phía lối ra của dinh thự. Tôi chạy vòng qua mép mê cung cây rồi mở cánh cổng chính.
 

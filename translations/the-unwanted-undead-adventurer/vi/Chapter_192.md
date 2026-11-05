@@ -1,4 +1,4 @@
-# Chương 192: Tập 8 Chương 3 - Ma Cà Rồng và Người Đàn Ông Tóc Bạc (2)
+# Chương 192: Tập 8 Chương 3 - Thứ Được Tìm Kiếm (1)
 
 Đi về phía lối ra được một quãng thì có chuyện bất thường xảy ra. Tôi nghe thấy một tiếng gừ gừ quen thuộc. Isaac cũng nghe thấy và quay sang nhìn tôi. "Ngài Rentt, ngài có nghe thấy gì không?" anh ta hỏi.
 
@@ -102,7 +102,7 @@ Nhưng tôi không nghĩ vậy. Lorraine chẳng có lỗi gì cả. Tôi là ng
 
 "Ngài Rentt, ngài là một mạo hiểm giả chân chính," Isaac nói. "Ngài vừa bảo vệ một người phụ nữ cùng đứa con sắp chào đời của cô ấy đấy thôi."
 
-Anh ấy nói hoàn toàn đúng. Nếu tôi không ra tay, hẳn hai mẹ con họ đã mất mạng. Thế mà tôi lại chỉ mải bận tâm xem mình còn nhân tính hay không. Như thế thật chẳng tốt chút nào.
+Anh ta nói hoàn toàn đúng. Nếu tôi không ra tay, hẳn hai mẹ con họ đã mất mạng. Thế mà tôi lại chỉ mải bận tâm xem mình còn tính người hay không. Như thế thật chẳng tốt chút nào.
 
 "Anh nói phải," tôi vừa nói vừa lắc đầu. "Tôi xin lỗi."
 
@@ -114,11 +114,11 @@ Lòng ai nấy đều nặng trĩu, và nếu cứ mang tâm trạng này đối
 
 "Ai đằng kia thế?" Lorraine hỏi.
 
-Khi tới căn nhà có lối dẫn xuống cống ngầm, chúng tôi thấy có người đang đứng bên ngoài. Đó không phải quái vật hay Thi Quỷ, mà là một cô bé mặc chiếc váy đen.
+Khi bước ra khỏi căn nhà có lối dẫn xuống cống ngầm, chúng tôi thấy có người đang đứng bên ngoài. Đó không phải quái vật hay Thi Quỷ, mà là một cô bé mặc chiếc váy đen.
 
 "Tiểu thư Laura..." Isaac khẽ thốt lên.
 
-Đúng vậy, đó chính là Đương chủ Gia tộc Latuule, Laura Latuule. Tôi tự hỏi sao cô bé lại ở đây. Maalt đang cực kỳ nguy hiểm, đâu phải lúc để một cô bé xuất thân từ danh gia vọng tộc đi lại ngoài đường. Nhưng nghĩ lại, tôi thấy chuyện đó cũng chẳng phải vấn đề gì to tát với cô bé. Dẫu sao cô bé cũng là chủ nhân của Isaac. Tới lúc này, tôi gần như chắc chắn mình đã biết Isaac là thứ gì, và nếu anh ta phục vụ Laura thì chẳng khó để đoán cô bé cũng cùng một loài với anh ta. Bản thân cô bé vốn đã đầy rẫy bí ẩn. Có điều, lúc này tôi chưa cần gặng hỏi làm gì.
+Đúng vậy, đó chính là Đương chủ Gia tộc Latuule, Laura Latuule. Tôi tự hỏi sao cô bé lại ở đây. Maalt đang cực kỳ nguy hiểm, đâu phải lúc để một cô bé xuất thân từ một gia tộc danh tiếng đi lại ngoài đường. Nhưng nghĩ lại, tôi thấy chuyện đó cũng chẳng phải vấn đề gì to tát với cô bé. Dẫu sao cô bé cũng là chủ nhân của Isaac. Tới lúc này, tôi gần như chắc chắn mình đã biết Isaac là thứ gì, và nếu anh ta phục vụ Laura thì chẳng khó để đoán cô bé cũng giống anh ta. Bản thân cô bé vốn đã đầy rẫy bí ẩn. Có điều, lúc này tôi chưa cần gặng hỏi làm gì.
 
 "Laura, sao cô bé lại ở đây?" tôi hỏi thẳng. Lời lẽ có phần cộc lốc, có lẽ chưa đủ nhã nhặn trước một nhân vật có địa vị như cô bé, nhưng tôi đã dẹp bỏ thói giữ kẽ lễ nghi từ lâu rồi.
 

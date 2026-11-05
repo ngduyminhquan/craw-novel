@@ -60,7 +60,7 @@ Tình thế chuyển thành ba chọi một, gã mặc áo chùng đã bị bao 
 
 "Cậu giày xéo thị trấn này thì phải chịu thế thôi, Shumini," Isaac nói.
 
-Nếu lời đám Ma Cà Rồng kia đáng tin, thì Shumini chính là tên kẻ đầu sỏ của bọn chúng.
+Nếu lời đám Ma Cà Rồng kia đáng tin, thì Shumini chính là tên đầu sỏ của bọn chúng.
 
 "Ngươi là kẻ chủ mưu đứng sau toàn bộ mớ hỗn loạn này sao?" tôi hỏi.
 
@@ -106,7 +106,7 @@ Song có một điều khá rõ ràng là Isaac đứng ở phe đối lập v�
 
 "Cậu đang nói cái gì thế?" Isaac hơi nghiêng đầu hỏi.
 
-Thế nhưng, Shumini đột ngột rút một con dao ra khỏi lớp áo chùng rồi giơ lên. Con dao đen tuyền từ chuôi đến lưỡi, tỏa ra luồng khí tức cực kỳ nồng đậm. Gã chĩa mũi dao không phải về phía chúng tôi, mà là nhắm thẳng vào chính mình. "Tôi sẽ bù đắp cho những gì mình còn thiếu bằng cách lấy chính mình làm vật tế! Vĩnh biệt, Isaac!" gã gào lên rồi đâm phập con dao vào ngực mình. Những vết nứt bắt đầu lan rộng khắp cơ thể gã, chia cắt làn da nhợt nhạt thành từng mảnh như những viên gạch lát. Ánh sáng xanh lam rực rỡ phát ra từ các khe nứt.
+Thế nhưng, Shumini đột ngột rút một con dao ra khỏi lớp áo chùng rồi giơ lên. Con dao đen tuyền từ chuôi đến lưỡi, tỏa ra một luồng uy áp rất mạnh. Gã chĩa mũi dao không phải về phía chúng tôi, mà là nhắm thẳng vào chính mình. "Tôi sẽ bù đắp cho những gì mình còn thiếu bằng cách lấy chính mình làm vật tế! Vĩnh biệt, Isaac!" gã gào lên rồi đâm phập con dao vào ngực mình. Những vết nứt bắt đầu lan rộng khắp cơ thể gã, chia cắt làn da nhợt nhạt thành từng mảnh như những viên gạch lát. Ánh sáng xanh lam rực rỡ phát ra từ các khe nứt.
 
 "Shumini," Isaac lẩm bẩm, nhưng đây dường như không phải lúc để lo lắng cho gã.
 
@@ -138,7 +138,7 @@ Chúng tôi thận trọng lần theo con đường vừa tháo chạy để qua
 
 "Thứ gì thế kia?" Isaac hỏi. "Trông giống Rồng quá."
 
-"Nếu là Rồng thì trông chẳng oai vệ chút nào. Nhìn cứ như một con cá sấu đang đứng bằng hai chân ấy," Lorraine nhận xét.
+"Nếu là Rồng thì trông cũng chẳng đặc sắc gì cho cam. Nhìn cứ như một con cá sấu đang đứng bằng hai chân ấy," Lorraine nhận xét, đưa ra đánh giá về sinh vật nọ.
 
 Tôi thấy Lorraine tả đúng hơn. Có điều nó to hơn cá sấu thường rất nhiều, dài chừng mười mét. Cấu tạo cơ thể cũng khác, khắp người cuồn cuộn cơ bắp và phủ lớp da sần sùi, trông khỏe đến phát khiếp. Dù nó là thứ gì thì tôi cũng chẳng muốn đánh nhau với nó chút nào.
 

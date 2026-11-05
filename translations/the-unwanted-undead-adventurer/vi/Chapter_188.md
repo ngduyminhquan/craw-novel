@@ -10,7 +10,7 @@ Hai con Ma Cà Rồng trẻ tuổi trợn tròn mắt quát, nhưng Nive chỉ g
 
 "Hỏi làm gì chứ?" cô đáp rồi vung vuốt bổ xuống.
 
-Không buồn nghe chúng nói là cách ứng phó hoàn toàn chuẩn xác với quái vật dạng người. Không hẳn trường hợp nào cũng thế, nhưng vì nói được tiếng người nên phần lớn chúng đều thao túng cảm xúc cực kỳ tài tình. Lắng nghe chúng phân bua hay giãi bày hoàn cảnh thì khó lòng tránh khỏi động lòng trắc ẩn, và không biết bao nhiêu người từng mất mạng chỉ vì mất cảnh giác sau những lời khẩn nài ấy. Dĩ nhiên, chẳng phải lúc nào quái vật cũng dối trá, nhưng chúng tôi đã biết có quá nhiều nạn nhân, và những người đang dần biến thành Thi Quỷ nơi đây chính là bằng chứng rành rành. Chẳng có lý do gì để nương tay mà gặng hỏi. Bản thân tôi cũng tò mò muốn nghe thêm về chuyện hai đứa vừa bàn lúc nãy, nhưng đời nào Nive chịu hoãn việc trừ khử Ma Cà Rồng đã ở ngay trước mắt. Vả lại, chúng tôi cũng có nhiệm vụ cần làm.
+Không buồn nghe chúng nói là cách ứng phó hoàn toàn chuẩn xác với quái vật dạng người. Không hẳn trường hợp nào cũng thế, nhưng vì nói được tiếng người nên phần lớn chúng đều thao túng cảm xúc cực kỳ tài tình. Lắng nghe chúng phân bua hay giãi bày hoàn cảnh thì khó lòng tránh khỏi động lòng trắc ẩn, và không biết bao nhiêu người từng mất mạng chỉ vì mất cảnh giác sau những lời khẩn nài ấy. Dĩ nhiên, chẳng phải lúc nào quái vật cũng dối trá, nhưng chúng tôi đã biết có quá nhiều nạn nhân, và những người đang dần biến thành Thi Quỷ nơi đây chính là bằng chứng rành rành. Chẳng có lý do gì để nương tay mà gặng hỏi. Bản thân tôi cũng tò mò muốn nghe thêm về chuyện hai người họ vừa bàn lúc nãy, nhưng đời nào Nive chịu hoãn việc trừ khử Ma Cà Rồng đã ở ngay trước mắt. Vả lại, chúng tôi cũng có nhiệm vụ cần làm.
 
 Trước hết, chúng tôi phải giải cứu các mạo hiểm giả tân binh. Tính cả Raiz và Laura thì tổng cộng chỉ có sáu người. Nive có vẻ rất tự tin mình có thể một mình giải quyết hai con Ma Cà Rồng này, nên chắc chẳng cần ai giúp. Chưa kể, cô ấy là mạo hiểm giả Kim Cấp, thậm chí còn tiệm cận Bạch Kim Cấp hơn bất kỳ ai. Tôi với Lorraine có xông vào giúp thì chưa chắc đã đỡ đần được bao nhiêu.
 
@@ -32,17 +32,17 @@ Hoặc có khi tôi chỉ đang nhìn cô ấy bằng định kiến của riên
 
 "Laura?!" Raiz thốt lên rồi toan đứng dậy. "Ái!" Cậu ngã nhào xuống.
 
-Trông qua thì chân cậu bị thương, chắc là từ lúc bị tấn công ban đầu. Đã vậy, không biết đối phương dùng cách gì khiến cậu suy nhược, mất hết khả năng cử động, ngay cả nhúc nhích cũng không nổi. Tôi không nhìn rõ kết cấu thuật thức đã dùng, nhưng có lẽ là một phép trói buộc. Bọn chúng làm rất kỹ lưỡng, song vết thương ở chân cậu cũng không quá nặng, tôi chữa dễ dàng. Dù muốn giữ lại càng nhiều Thần Lực càng tốt, nhưng cứu các mạo hiểm giả vẫn là ưu tiên hàng đầu.
+Trông qua thì chân cậu ấy bị thương, chắc là từ lúc mới bị tấn công. Đã vậy, không biết đối phương dùng cách gì khiến cậu ấy suy nhược, mất hết khả năng cử động, ngay cả nhúc nhích cũng không nổi. Tôi không nhìn rõ kết cấu thuật thức đã dùng, nhưng có lẽ là một phép trói buộc. Bọn chúng làm rất kỹ lưỡng, song vết thương ở chân cậu ấy cũng không quá nặng, tôi chữa dễ dàng. Dù muốn giữ lại càng nhiều Thần Lực càng tốt, nhưng cứu các mạo hiểm giả vẫn là ưu tiên hàng đầu.
 
 "Cảm ơn anh, Rentt," Raiz nói.
 
-"Không có gì đâu. Cùng một đội với nhau cả mà, đúng không? Phải giúp đỡ nhau chứ," tôi đáp, nhớ lại lời hai đứa từng nói sau đợt thi.
+"Không có gì đâu. Cùng một đội với nhau cả mà, đúng không? Phải giúp đỡ nhau chứ," tôi đáp, nhớ lại lời hai người họ từng nói sau đợt thi.
 
 "Tất nhiên rồi," Raiz nói.
 
 "Anh vẫn nhớ sao?" Laura hỏi.
 
-Trông hai đứa mừng ra mặt, mà dĩ nhiên là tôi phải nhớ rồi. Bảo suốt mười năm qua chưa từng có ai rủ tôi lập đội thì không đúng, nhưng chuyện đó hiếm khi xảy ra lắm. Mà trong số những lời mời ít ỏi ấy, chẳng phải người ta quý mến gì tôi cho cam, chỉ là họ cần một người việc gì cũng biết làm một chút. Còn những ai thật lòng muốn tôi làm bạn đồng hành thì ít hơn nhiều. Điểm lại tôi chỉ nhớ có Lorraine, Augurey, và giỏi lắm là vài người nữa mà thôi.
+Trông hai người mừng ra mặt, mà dĩ nhiên là tôi phải nhớ rồi. Bảo suốt mười năm qua chưa từng có ai rủ tôi lập đội thì không đúng, nhưng chuyện đó hiếm khi xảy ra lắm. Mà trong số những lời mời ít ỏi ấy, chẳng phải người ta quý mến gì tôi cho cam, chỉ là họ cần một người việc gì cũng biết làm một chút. Còn những ai thật lòng muốn tôi làm bạn đồng hành thì ít hơn nhiều. Điểm lại tôi chỉ nhớ có Lorraine, Augurey, và giỏi lắm là vài người nữa mà thôi.
 
 "Thôi, gác chuyện đó lại đã," tôi bảo. "Chuẩn bị rời khỏi đây nào. Hai người đứng dậy nổi không?" Cả hai đều đang dần tỉnh táo lại.
 
@@ -54,7 +54,7 @@ Tôi tự hỏi liệu bốn người kia có giống vậy không. Liếc sang 
 
 ◆◇◆◇◆
 
-Tôi chỉ đứng lùi lại phía sau bảo vệ mấy mạo hiểm giả tân binh và dõi theo trận đấu. Cục diện diễn ra suôn sẻ đến bất ngờ, nhưng điều làm tôi bất ngờ lại đến từ hai con Ma Cà Rồng chứ chẳng phải Nive. Tính ra là hai đánh một, cứ ngỡ phe chúng chiếm thế thượng phong, nhưng Nive lại là mạo hiểm giả Kim Cấp ngấp nghé Bạch Kim Cấp. Cô ấy vượt trội hơn mạo hiểm giả bình thường cả một hai bậc, và hầu hết Hạ Cấp Ma Cà Rồng đều chẳng thể đe dọa nổi cô. Nói là vậy, nhưng hai đứa chúng chiến đấu khá hơn tôi tưởng. Dù cũng có thể là do Nive đang nương tay.
+Tôi chỉ đứng lùi lại phía sau bảo vệ mấy mạo hiểm giả tân binh và dõi theo trận đấu. Cục diện diễn ra suôn sẻ đến bất ngờ, nhưng điều làm tôi bất ngờ lại đến từ hai con Ma Cà Rồng chứ chẳng phải Nive. Tính ra là hai đánh một, cứ ngỡ phe chúng chiếm thế thượng phong, nhưng Nive lại là mạo hiểm giả Kim Cấp ngấp nghé Bạch Kim Cấp. Cô ấy vượt trội hơn mạo hiểm giả bình thường cả một hai bậc, và hầu hết Hạ Cấp Ma Cà Rồng đều chẳng thể đe dọa nổi cô. Nói là vậy, nhưng hai kẻ đó chiến đấu khá hơn tôi tưởng. Dù cũng có thể là do Nive đang nương tay.
 
 Móng vuốt của Nive từ trên cao bổ xuống cậu thiếu niên Ma Cà Rồng, nhưng cậu ta nghiêng người né sang một bên nhanh đến khó tin, rồi tiện tay vung thanh đoản kiếm đỏ quạch nhắm thẳng vào cổ cô. Thấy thế, Nive chỉ bật cười, nghiêng cổ né mũi kiếm đúng vào tích tắc cuối cùng.
 
@@ -64,7 +64,7 @@ Thế nhưng ngay khoảnh khắc cái đầu chạm đất, cả đầu lẫn t
 
 "Phân Liệt cơ à?" Nive nói. "Hẳn các ngươi cũng thuộc dạng Ma Cà Rồng có chút tên tuổi đấy nhỉ. Trông thì còi cọc yếu ớt, nhưng xem ra bản lĩnh của các ngươi lại khá hơn ta tưởng. Thậm chí còn có cả Huyết Binh nữa cơ đấy. Vui rồi đây."
 
-Phân Liệt là dị năng đặc thù thường gắn liền với Trung Cấp hoặc Thượng Cấp Ma Cà Rồng. Năng lực này cho phép chúng phân tách cơ thể thành đàn dơi đen hoặc các loài thú khác. Điểm đáng kinh ngạc là con Ma Cà Rồng có thể hồi phục sau mọi vết thương mà không hề hấn gì, nghe đâu giúp chúng miễn nhiễm với các đòn tấn công vật lý. Đó cũng là một trong những lý do khiến việc tiêu diệt Trung Cấp Ma Cà Rồng trở nên khó khăn đến thế. Rất có thể hai đứa này là Trung Cấp Ma Cà Rồng, nhưng tôi cũng không dám chắc.
+Phân Liệt là dị năng đặc thù thường gắn liền với Trung Cấp hoặc Thượng Cấp Ma Cà Rồng. Năng lực này cho phép chúng phân tách cơ thể thành đàn dơi đen hoặc các loài thú khác. Điểm đáng kinh ngạc là con Ma Cà Rồng có thể hồi phục sau mọi vết thương mà không hề hấn gì, nghe đâu giúp chúng miễn nhiễm với các đòn tấn công vật lý. Đó cũng là một trong những lý do khiến việc tiêu diệt Trung Cấp Ma Cà Rồng trở nên khó khăn đến thế. Rất có thể hai kẻ này là Trung Cấp Ma Cà Rồng, nhưng tôi cũng không dám chắc.
 
 Thú thực tôi chẳng biết Huyết Binh là gì, nhưng nghe qua thì có vẻ là một dị năng đặc biệt khác của loài Ma Cà Rồng. Theo những gì tôi biết thì bản thân chưa có năng lực nào trong số này, nhưng tôi cũng chưa thử dùng bao giờ. Trước nay biết rõ Hạ Cấp Ma Cà Rồng không thể chạm tới Phân Liệt nên tôi chẳng buồn nghĩ tới, song giờ thì tôi thấy để sau này thử một phen cũng đáng.
 
@@ -150,7 +150,7 @@ Khi hai con Ma Cà Rồng đã tan biến, Nive bước tới trước những k
 
 "Cô chắc chứ?" tôi hỏi cô ấy. "Họ chưa biến đổi hoàn toàn, nhưng dẫu sao vẫn là Thi Quỷ mà. Cô không muốn tự tay làm sao?" Trong mắt tôi, Nive là kiểu người chẳng đời nào bỏ qua cơ hội diệt trừ Ma Cà Rồng, nên tôi không nghĩ cô ấy lại chịu nhường phần việc này cho người khác.
 
-Nive lắc đầu, trên mặt thoáng nét trầm tư mơ hồ khác hẳn ngày thường. "Không, chính vì họ chưa biến thành Thi Quỷ hoàn toàn nên tôi mới không muốn ra tay. Cả thể xác lẫn linh hồn họ vẫn khác với lũ quái vật kia. Thế nhưng giờ chẳng còn cách nào cứu họ được nữa, buộc phải tiêu diệt họ thôi. Bị ép biến thành quái vật trái với ý muốn như vậy thật đáng buồn, và tôi thực lòng thấy xót thương cho họ. Chí ít họ cũng xứng đáng được ra đi thanh thản, không phải chịu đớn đau. Tôi cảm thấy thế thì có kỳ lạ lắm không?"
+Nive lắc đầu, trên mặt thoáng nét lúng túng khó tả khác hẳn ngày thường. "Không, chính vì họ chưa biến thành Thi Quỷ hoàn toàn nên tôi mới không muốn ra tay. Cả thể xác lẫn linh hồn họ vẫn khác với lũ quái vật kia. Thế nhưng giờ chẳng còn cách nào cứu họ được nữa, buộc phải tiêu diệt họ thôi. Bị ép biến thành quái vật trái với ý muốn như vậy thật đáng buồn, và tôi thực lòng thấy xót thương cho họ. Chí ít họ cũng xứng đáng được ra đi thanh thản, không phải chịu đớn đau. Tôi cảm thấy thế thì có kỳ lạ lắm không?"
 
 Không ngờ một người như cô ấy lại có lúc giàu lòng trắc ẩn đến thế. Dĩ nhiên chẳng có gì kỳ lạ cả. Nói đúng hơn thì điều đó vô cùng tử tế.
 
@@ -176,7 +176,7 @@ Khi tất cả bọn họ đều đã hóa thành tro bụi, mặt đất chỉ 
 
 "Tùy cô thôi, nhưng nó cũng chỉ là cái cây con."
 
-"Cây cối bình thường làm gì có Thần Lực đượm nồng thế này. Biết đâu sau này nó lại lớn thành Thánh Thụ cũng nên. Loại cây đó cho ra nguyên liệu cực kỳ hiếm thấy, có một cây bên người thì tiện biết bao."
+"Cây cối bình thường làm gì có Thần Lực đượm nồng thế này. Biết đâu sau này nó lại lớn thành một cây Thánh Thụ cũng nên. Loại cây đó cho ra nguyên liệu cực kỳ khó kiếm, có một cây bên mình thì tốt biết mấy."
 
 "Chắc không tới mức đó đâu. Mà làm sao cô kiếm được nguyên liệu từ Thánh Thụ hay vậy?"
 

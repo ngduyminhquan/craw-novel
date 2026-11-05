@@ -6,7 +6,7 @@
 
 Nive chìa tay ra, Lorraine liền bắt lấy. Mặt Lorraine hơi méo xệch, lộ rõ vẻ khó hiểu không biết sao người này lại có mặt ở đây. Cô ấy không ghét bỏ gì Nive, nhưng một bên là Ma Cà Rồng như tôi, một bên là Thợ Săn Ma Cà Rồng như cô nàng, hai đứa cứ kè kè cạnh nhau thế này thì bảo sao cô ấy không lo. Tôi mà né được thì cũng chẳng đời nào muốn dây vào cô nàng, khổ nỗi chính Nive cứ chủ động bám riết lấy tôi.
 
-Lorraine không xưng họ vì họ của cô trùng với họ tôi đang dùng, mà cô lại muốn tránh bị hỏi han lôi thôi. Dù vậy, một số mạo hiểm giả vốn chỉ thích hành nghề bằng tên riêng, còn có người lại xưng đủ cả họ tên tùy ý thích. Giới mạo hiểm giả nhìn chung khá xô bồ, nói giảm nói tránh thì cũng có không ít kẻ chuyên gây rắc rối, nên lúc nào cũng có những người muốn giấu kín họ của mình. Đó là thông lệ quen thuộc trong giới mạo hiểm giả chứ chẳng có gì lạ. Đa phần những ai chủ động xưng cả họ thường muốn người khác biết đến gia thế và địa vị của mình, hoặc muốn tạo dựng lòng tin. Cũng giống như gặp nhau mà cúi đầu chào thay vì chỉ mở miệng chào một tiếng vậy. Ngược lại, chỉ xưng mỗi tên riêng cũng là chuyện hết sức bình thường.
+Lorraine không xưng họ vì họ của cô trùng với họ tôi đang dùng, mà cô lại muốn tránh bị hỏi han lôi thôi. Dù vậy, một số mạo hiểm giả vốn chỉ thích hành nghề bằng tên riêng, còn có người lại xưng đủ cả họ tên tùy ý thích. Giới mạo hiểm giả nhìn chung khá xô bồ, nói một cách nhẹ nhàng nhất thì cũng có không ít kẻ chuyên gây rắc rối, nên lúc nào cũng có những người muốn giấu kín họ của mình. Đó là thông lệ quen thuộc trong giới mạo hiểm giả chứ chẳng có gì lạ. Đa phần những ai chủ động xưng cả họ thường muốn người khác biết đến gia thế và địa vị của mình, hoặc muốn tạo dựng lòng tin. Cũng giống như gặp nhau mà cúi đầu chào thay vì chỉ mở miệng chào một tiếng vậy. Tương tự, chỉ xưng mỗi tên riêng mới là chuyện bình thường.
 
 "Tôi là Myullias Raiza."
 
@@ -16,7 +16,7 @@ Lorraine lịch sự với Myullias hơn hẳn với Nive, bởi Myullias là Th
 
 Thế nhưng các Thánh Giả lại là chuyện hoàn toàn khác. Sau lưng họ có các tín đồ cùng những tổ chức quyền thế chống lưng. Không ít vị Thánh Giả sẽ nổi trận lôi đình nếu bị đối xử ngang hàng với mạo hiểm giả. Điều đó không đúng với các Thánh Giả của Giáo Hội Đông Thiên, nhưng theo lời Lorraine kể, nhiều Thánh Giả thuộc Giáo Hội Lobelia và các tôn giáo bắt nguồn từ những quốc gia phương Tây thường có xu hướng như vậy. Vì thế, Lorraine đã rèn cho mình thói quen cư xử nhã nhặn trước mặt mọi Thánh Giả. Cô không phải người đặc biệt sùng đạo, chỉ là muốn tránh chuốc rắc rối vào thân.
 
-Tôi cũng muốn có dịp nào đó ghé thăm các quốc gia phương Tây, nhưng lại thuộc kiểu mạo hiểm giả thấy mấy chuyện lễ nghi câu nệ thật phiền toái. Tôi cần hỏi trước Lorraine xem phải lưu ý những gì trước khi đặt chân tới đó, bằng không nghe chừng mọi chuyện sẽ rắc rối to. Tôi cũng chẳng muốn dây vào phiền phức, nên phải chú ý đừng gây sự chú ý. Tất nhiên, nhìn cảnh hiện tại phải đi cùng Nive vào mê cung là đủ biết khoản né rắc rối của tôi tệ hại cỡ nào rồi.
+Tôi cũng muốn có dịp nào đó ghé thăm các quốc gia phương Tây, nhưng lại thuộc kiểu mạo hiểm giả thấy mấy chuyện lễ nghi câu nệ thật phiền toái. Tôi cần hỏi trước Lorraine xem phải lưu ý những gì trước khi đặt chân tới đó, bằng không nghe chừng mọi chuyện sẽ rắc rối to. Tôi cũng chẳng thích dây vào phiền phức, nên phải để ý đừng gây chú ý. Tất nhiên, nhìn cảnh hiện tại phải đi cùng Nive vào mê cung là đủ biết khoản né rắc rối của tôi tệ hại cỡ nào rồi.
 
 "Cô không cần phải giữ kẽ với tôi thế đâu. Cứ đối xử với tôi như những người khác là được rồi," Myullias mỉm cười nói. Xem ra cô ấy thuộc kiểu Thánh Nữ chẳng mấy bận tâm đến chuyện hình thức. Những lúc thế này, trông cô ấy đúng là một vị Thánh Nữ xinh đẹp, thế nhưng mới cách đây chưa lâu cô ấy vừa nổi trận lôi đình chẳng khác nào quỷ hannya với Nive.
 
@@ -28,7 +28,7 @@ Nhân tiện nói thêm, hannya là một loài quái vật giống cái đến 
 
 "Cô nhận ra à?"
 
-"Vâng, tôi biết người dân Đế Quốc thường nói chuyện với các Thánh Nữ như cô vậy. Tôi hiểu cảm giác của cô mà. Cô cứ nói chuyện sao cho thoải mái nhất là được, chỉ là tôi muốn cô biết cứ ăn nói tự nhiên đi, tôi không để bụng đâu. Thật lòng mà nói, sự cung kính đó dành cho các vị tiền bối có công trạng lớn lao thì còn hợp lý, chứ trong hàng ngũ Thánh Nữ tôi chẳng có gì nổi bật, tự thấy mình khó mà xứng đáng với sự đối đãi như vậy."
+"Vâng, tôi biết người dân Đế Quốc thường nói chuyện với các Thánh Nữ như cô vậy. Tôi hiểu cảm giác của cô mà. Cô cứ nói chuyện sao cho thoải mái nhất là được, chỉ là tôi muốn cô biết cứ ăn nói tự nhiên đi, tôi không để bụng đâu. Thật tình thì cách người ta đối đãi với Thánh Nữ có lẽ chỉ hợp với những vị có công trạng lớn lao trong số chúng tôi thôi, chứ trong hàng ngũ Thánh Nữ tôi chẳng có gì ấn tượng cho lắm, tự thấy mình khó mà xứng đáng."
 
 Lorraine nhướng mày trước vẻ ủ rũ của Myullias. Hẳn cô đã nhận ra Myullias cư xử giống thường dân hơn là một Thánh Nữ bình thường. Vả lại, những lời Myullias vừa nói ở Yaaran thì chẳng sao, chứ ở Đế Quốc rất có thể sẽ bị khép vào tội chỉ trích Giáo Hội. Lorraine luôn bảo tôi rằng theo lệ bên đó, các Thánh Nữ phải được tôn kính tuyệt đối. Thường dân bắt buộc phải tuân theo, bằng không theo lời cô thì chẳng biết tai họa gì sẽ giáng xuống đầu họ. Những lời Myullias vừa bộc bạch cũng dễ làm giảm uy tín của Giáo Hội và đẩy chính cô ấy vào thế khó, vậy mà cô ấy vẫn cứ nói ra. Hay là ở cạnh Nive nên bị lây tính phần nào rồi? Nive còn ăn nói bạt mạng hơn nhiều, nên Myullias có đi cùng riết rồi quên mất chuyện giữ kẽ thì cũng dễ hiểu thôi.
 
@@ -54,7 +54,7 @@ Khoảng cách giữa Maalt và Mê Cung Tân Nguyệt khá xa, không thể nà
 
 Lại có thêm vài cỗ xe nữa đi tới, một số mạo hiểm giả khác lần lượt bước lên. Wolf từng nói ông sẽ chọn ra những người tinh nhuệ nhất, nhưng có vẻ ông không định để chúng tôi tự mình gánh hết mọi việc. Tính cả nhóm chúng tôi thì có ba tổ đội tham gia thám hiểm Mê Cung Tân Nguyệt. Wolf hẳn là tin tưởng Lorraine, nhưng tôi là quái vật, Myullias phục vụ cho Giáo Hội, còn Nive thì vẫn cứ là Nive. Lý do ông không muốn để nhóm chúng tôi đi riêng quá đỗi rõ ràng. Nếu thuần túy xét về sức chiến đấu, tôi cho rằng chúng tôi gần như là đội hình mạnh nhất có thể tìm được ở Maalt, nhưng lại có quá nhiều lý do khác khiến người ta phải dè chừng. Dù vậy, xem chừng Wolf vẫn trông cậy vào tôi, và chuyện cử thêm mạo hiểm giả khác đi cùng chưa chắc đã vì thiếu tin tưởng. Có lẽ trên cương vị Hội Trưởng, có những trách nhiệm ông bắt buộc phải làm.
 
-"Đội hình của chúng ta trông bất ổn thật đấy," Lorraine lẩm bẩm. Myullias và tôi gật đầu đồng tình, còn Nive chỉ thong thả huýt sáo một mình. Đó là một giai điệu tôi chưa từng nghe bao giờ. Biết đâu cô nàng còn biết sáng tác nhạc cũng nên. Nếu đúng thế thì tài nghệ của cô nàng quả thực đa dạng đến mức khó tin.
+"Đội hình của chúng ta trông đáng lo thật đấy," Lorraine lẩm bẩm. Myullias và tôi gật đầu đồng tình, còn Nive chỉ thong thả huýt sáo một mình. Đó là một giai điệu tôi chưa từng nghe bao giờ. Biết đâu cô nàng còn biết sáng tác nhạc cũng nên. Nếu đúng thế thì tài nghệ của cô nàng quả thực đa dạng đến mức khó tin.
 
 ◆◇◆◇◆
 
@@ -72,7 +72,7 @@ Lời đề nghị của Lorraine vừa là vì lòng tốt, vừa là để Myu
 
 "Cô nói không sai, nhưng Ma Lực của tôi vẫn còn dư dả. Vả lại, đằng nào Nive cũng đang dẫn đầu mở đường cho chúng ta rồi. Chúng ta chỉ cần theo kịp cô ấy là được."
 
-Lorraine nhìn về phía Nive ở đằng trước. Khô Lâu, Slime cùng những quái vật thông thường khác liên tục xuất hiện, nhưng Nive đã dùng vuốt sắt chém tan xác toàn bộ. Nhìn cô nàng bóp nát sọ lũ Khô Lâu rồi đánh chúng vỡ vụn thành từng mảnh, tôi cứ có cảm giác như đang tận mắt chứng kiến đồng loại của mình bỏ mạng. Nhìn mà hơi chạnh lòng. Dù không còn là Khô Lâu nữa, nhưng đó là cơ thể đầu tiên của tôi sau khi biến thành quái vật, nên có lẽ phần nào tôi cũng có chút thiện cảm với chúng. Các hình thái tiến hóa sau này của tôi đều là những loài như Ngạ Quỷ và Thi Quỷ, nên tôi vẫn luôn hoài niệm về cái thuở bản thân chưa phải mang da thịt thối rữa.
+Lorraine nhìn về phía Nive ở đằng trước. Khô Lâu, Slime cùng những quái vật thông thường khác liên tục xuất hiện, nhưng Nive đã dùng vuốt sắt chém tan xác toàn bộ. Nhìn cô nàng bóp nát sọ lũ Khô Lâu rồi đánh chúng vỡ vụn thành từng mảnh, tôi cứ có cảm giác như đang tận mắt chứng kiến đồng loại của mình bỏ mạng. Trông mà thấy hơi buồn. Dù không còn là Khô Lâu nữa, nhưng đó là cơ thể đầu tiên của tôi sau khi biến thành quái vật, nên có lẽ phần nào tôi cũng có chút cảm tình với chúng. Các hình thái tiến hóa sau này của tôi đều là những loài như Ngạ Quỷ và Thi Quỷ, nên nhớ lại cái thời chưa có da thịt thối rữa trên người mà thấy bồi hồi.
 
 "Xem chừng đúng là vậy thật," Myullias nói, vẻ mặt sững sờ nhìn theo bóng lưng Nive phía trước. Nive vừa xé xác thêm một con Khô Lâu nữa, nụ cười vẫn tươi rói trên môi suốt từ nãy đến giờ. Nếu còn là một Khô Lâu, chắc chắn tôi chẳng đời nào dám bén mảng lại gần cô nàng. "Vậy thì phiền cô giúp tôi nhé."
 
@@ -110,13 +110,13 @@ Chắc chắn không phải do cô ấy tưởng tượng đâu. Có lẽ Nive �
 
 "Có lẽ lúc bị bắt họ chỉ đi riêng với nhau thôi."
 
-Tôi không rõ tường tận sự tình, nhưng hai đứa nó là bạn thanh mai trúc mã và rõ ràng đều có tình cảm với nhau. Biết đâu Rina đã tế nhị nhường lại không gian riêng cho hai người họ cũng nên. Nếu bị bắt vào đúng lúc đó, điều ấy sẽ giải thích được vì sao Rina lại không có mặt ở đây.
+Tôi không rõ tường tận sự tình, nhưng hai người họ là bạn thanh mai trúc mã và rõ ràng đều có tình cảm với nhau. Biết đâu Rina đã tế nhị nhường lại không gian riêng cho hai người họ cũng nên. Nếu bị bắt vào đúng lúc đó, điều ấy sẽ giải thích được vì sao Rina lại không có mặt ở đây.
 
-"Họ đã bị biến thành Thi Quỷ rồi sao?" tôi vô thức thốt lên thành tiếng.
+"Họ đã bị biến thành Thi Quỷ rồi sao?" tôi buột miệng hỏi thành tiếng.
 
-Đây chính là mối bận tâm lớn nhất của tôi vào lúc này. Nếu họ đã là Thi Quỷ, thì theo những gì tôi biết chẳng có cách nào đưa họ trở lại làm người được nữa. Nive có lẽ cũng không biết cách, bằng không cô ấy đã công khai chuyện đó từ lâu rồi. Xét cho cùng, tiêu diệt Ma Cà Rồng là toàn bộ lý tưởng sống của cô ấy mà. Điều này đồng nghĩa với việc nếu họ đã hóa thành Thi Quỷ, dẫu cho có là người quen, chúng tôi cũng buộc phải ra tay kết liễu họ.
+Đây chính là nỗi lo lớn nhất của tôi lúc này. Nếu họ đã là Thi Quỷ, thì theo tôi biết chẳng có cách nào biến họ trở lại thành người được nữa. Nive có lẽ cũng không biết cách, bằng không cô ấy đã công bố rộng rãi từ lâu rồi. Dù sao tiêu diệt Ma Cà Rồng cũng là tôn chỉ cả đời của cô ấy mà. Điều này có nghĩa là nếu họ đã thành Thi Quỷ, dù có là người quen đi nữa, chúng tôi cũng buộc phải xuống tay giết họ.
 
-"Mấy người đằng kia trông vẫn còn là người đấy," Nive nhận ra nỗi lo của tôi liền lên tiếng. Có lẽ chỉ do tôi tưởng tượng, nhưng khi nhìn về phía họ, trông cô nàng có vẻ nhẹ nhõm. Tôi muốn tin rằng sâu thẳm trong cô ấy vẫn còn chút tính người, nên có thể tôi chỉ đang nhìn thấy điều mình mong muốn mà thôi. "Thế nhưng có vẻ những người đang đứng bất động vô hồn ở phía bên kia thì hết đường cứu chữa rồi. Chắc họ vẫn đang trong quá trình chuyển hóa, nhưng giờ thì vô phương cứu vãn. Tiễn họ xuống mồ thôi nào."
+"Mấy người đằng kia trông vẫn còn là người đấy," Nive nhận ra nỗi lo của tôi liền lên tiếng. Có lẽ chỉ do tôi tưởng tượng, nhưng khi nhìn sang họ, trông cô nàng có vẻ nhẹ nhõm. Tôi muốn tin rằng trong cô ấy vẫn còn chút tính người, nên có khi tôi chỉ đang thấy điều mình mong thấy mà thôi. "Thế nhưng mấy kẻ đứng đờ đẫn bên kia thì xem chừng hết cứu nổi rồi. Chắc họ vẫn đang trong lúc biến đổi, nhưng giờ thì hết cách rồi. Tiễn họ xuống mồ thôi nào."
 
 Một tia sáng lạnh lẽo, pha lẫn nét cuồng loạn ánh lên trong đôi mắt cô nàng. Đôi bàn tay cô bồn chồn không yên, như thể chẳng chờ thêm được giây nào nữa để cắm bộ vuốt sắt vào người họ. Quên những gì tôi vừa nghĩ về cô ấy lúc nãy đi; đây mới chính là bản chất thật của Nive.
 
@@ -138,6 +138,6 @@ Tôi vừa định cất bước thì khựng lại, tự hỏi có chuyện gì
 
 "Anh hiểu, nhưng em đừng nghĩ ngợi nữa. Chúng ta buộc phải làm việc này. Hơn nữa, ngài Shumini đã bảo đây là việc cần thiết. Ngài ấy tuy chưa nói rõ lý do, nhưng đã đánh thức sức mạnh cho chúng ta còn gì, đúng chứ? Thế nên, em hiểu mà."
 
-Tôi chưa hiểu rõ đầu cua tai nheo câu chuyện của họ, nhưng cũng nắm được đôi phần. Shumini hẳn là thủ lĩnh hoặc kẻ đứng sau bọn họ. Hai đứa trẻ này xem chừng cũng có phần lưỡng lự trước việc biến người khác thành Thi Quỷ, và bản thân chúng cũng chẳng biết lý do tại sao phải làm vậy.
+Tôi chưa hiểu rõ câu chuyện của họ lắm, nhưng cũng nắm được vài phần. Shumini hẳn là thủ lĩnh hoặc kẻ đứng sau bọn họ. Hai người này xem chừng cũng có phần lưỡng lự trước việc biến người khác thành Thi Quỷ, và bản thân cũng chẳng biết lý do tại sao phải làm vậy.
 
 "Xem chừng chúng ta đụng phải Ma Cà Rồng rồi," Nive thích thú lên tiếng. "Cái mũi của tôi mách bảo thế đấy. Giết sạch bọn chúng thôi nào."

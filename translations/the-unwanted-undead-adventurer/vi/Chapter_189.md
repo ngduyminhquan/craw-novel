@@ -8,13 +8,13 @@ Tôi ngó qua khúc quanh và thấy một căn phòng rộng cỡ căn phòng t
 
 "Lên nào!" Nive hô lên rồi lao vút vào trong phòng.
 
-"Ngươi là ai?!" tên Ma Cà Rồng căng thẳng quát lên.
+"Ngươi là ai?!" cậu thiếu niên Ma Cà Rồng căng thẳng quát lên.
 
 "Lũ Ma Cà Rồng các ngươi không xứng được biết tên ta!" Nive đáp, rồi vung mạnh vuốt sắt.
 
 "Mạo hiểm giả ư? Ra là các ngươi đã tìm tới tận đây rồi." Cậu thiếu niên né vuốt sắt, và trận chiến bắt đầu. "Lũ Thi Quỷ đâu! Tấn công ả đàn bà này mau!"
 
-Lũ Thi Quỷ chẳng kịp làm theo lệnh hắn, vì chúng tôi đã ập vào ngay sau Nive và lao tới chặn đánh. May là cả thảy chỉ có năm con. Tuy cũng là một dạng Hạ Cấp Ma Cà Rồng, chúng lại mạnh hơn Orc khá nhiều. Với hai mạo hiểm giả Đồng Cấp bình thường thì đây sẽ là một trận chiến đầy chật vật. Có điều, tuy tôi mang hạng Đồng Cấp nhưng thể xác quái vật cùng Ma Lực, Khí Lực và Thần Lực đã giúp tôi vượt trội hơn hẳn số đông. Huống hồ Lorraine còn là một mạo hiểm giả Ngân Cấp thực thụ. Dù không dám bảo trận này dễ xơi, chúng tôi vẫn thừa sức giữ chân lũ Thi Quỷ, không để chúng xen vào trận đánh giữa Nive và tên Ma Cà Rồng.
+Lũ Thi Quỷ chẳng kịp làm theo lệnh cậu ta, vì chúng tôi đã ập vào ngay sau Nive và lao tới chặn đánh. May là cả thảy chỉ có năm con. Tuy cũng là một dạng Hạ Cấp Ma Cà Rồng, chúng lại mạnh hơn Orc khá nhiều. Với hai mạo hiểm giả Đồng Cấp bình thường thì đây sẽ là một trận chiến đầy chật vật. Có điều, tuy tôi mang hạng Đồng Cấp nhưng thể xác quái vật cùng Ma Lực, Khí Lực và Thần Lực đã giúp tôi vượt trội hơn hẳn số đông. Huống hồ Lorraine còn là một mạo hiểm giả Ngân Cấp thực thụ. Dù không dám bảo trận này dễ xơi, chúng tôi vẫn thừa sức giữ chân lũ Thi Quỷ, không để chúng xen vào trận đánh giữa Nive và tên Ma Cà Rồng.
 
 Dù vậy, Lorraine và tôi vẫn phải phối hợp tác chiến cùng nhau. Có lẽ tôi tự mình dẹp hết lũ này cũng được nếu dốc toàn bộ Thần Lực và khả năng vận động siêu phàm, nhưng làm thế sẽ để lộ năng lực trước mặt Nive và Myullias. Tôi không nghĩ họ là người xấu, nhưng cũng chẳng muốn họ biết hết mọi thứ. Kể cả họ không biết tôi là quái vật, ai mà lường được điều gì có thể biến chúng tôi thành kẻ thù trong mắt họ. Tôn giáo ở Vương Quốc Yaaran nhìn chung khá ôn hòa và thoải mái, nhưng Lorraine từng bảo Giáo Hội Lobelia có thể cực kỳ khắt khe và không khoan nhượng, nên cẩn thận trước họ chẳng bao giờ thừa. Đằng nào họ cũng sẽ nhận ra vài điều, nhưng chỉ cần không để lộ tôi có gì khác ngoài một mạo hiểm giả bình thường là được.
 
@@ -22,7 +22,7 @@ Tôi áp sát cận chiến trong khi Lorraine tấn công từ phía sau, lối
 
 Dĩ nhiên, đánh với nhiều đối thủ cùng lúc như thế này thường dễ có kết cục chẳng lành, nhưng Lorraine và tôi đã có mười năm kề vai sát cánh. Cả hai phối hợp cực kỳ ăn ý. Chẳng cần nói một lời, chúng tôi vẫn biết chính xác đối phương sắp làm gì tiếp theo. Chẳng hạn, lúc tôi chém một con Thi Quỷ, nó đỡ được nhát kiếm rồi hất tôi lùi lại một chút. Con Thi Quỷ liền xông thẳng tới tôi, nhưng tôi cảm nhận được luồng Ma Lực sau lưng nên lập tức thụp xuống, để Lorraine bắn thẳng một quả cầu lửa trúng đầu nó và thiêu rụi. Cứ thế, chúng tôi lần lượt hạ gục từng con cho tới khi chỉ còn lại một con cuối cùng.
 
-"Xong rồi," tôi nói rồi vung kiếm chém bay đầu nó. Tôi quay lại nhìn Nive và tên Ma Cà Rồng, trận bên đó cũng sắp ngã ngũ. Tên Ma Cà Rồng trông không hề trầy xước nhưng đang thở dốc. Hẳn hắn đã dùng Phân Liệt để tái tạo quá nhiều lần đến mức thể lực cạn dần. Có điều, khác với hai đứa trẻ Ma Cà Rồng ban nãy, hắn không bị biến thành cát.
+"Xong rồi," tôi nói rồi vung kiếm chém bay đầu nó. Tôi quay lại nhìn Nive và tên Ma Cà Rồng, trận bên đó cũng sắp ngã ngũ. Tên Ma Cà Rồng trông không hề trầy xước nhưng đang thở dốc. Hẳn cậu ta đã dùng Phân Liệt để tái tạo quá nhiều lần đến mức thể lực cạn dần. Có điều, khác với hai Ma Cà Rồng trẻ tuổi ban nãy, cậu ta không bị biến thành cát.
 
 "Xem ra ngươi không lạm dụng Phân Liệt bừa bãi nhỉ," Nive nói với tên Ma Cà Rồng. "Trông cũng chẳng có vẻ gì là đang dùng Huyết Binh."
 
@@ -30,7 +30,7 @@ Tên Ma Cà Rồng cười khẩy. "Sao hả, ngươi đụng độ Jiziu với 
 
 "Tàn nhẫn thật đấy. Nếu được dạy rằng lạm dụng sức mạnh đó nguy hiểm thế nào, chúng đã chẳng phải bỏ mạng vô nghĩa như vậy," Nive đáp lại, nhưng tôi thấy điều đó thực ra không hẳn là thật. Có khi cô ấy vẫn sẽ tiêu diệt chúng bằng cách khác mà thôi.
 
-"Bọn chúng chết rồi cơ à? Hừ. Mà bọn ta đâu có cố ý giấu chúng chuyện đó. Nếu được chỉ dạy tử tế, chắc chắn chúng đã cản chân được ngươi trước khi ngươi mò tới đây rồi."
+"Bọn chúng chết rồi cơ à? Hừ. Mà bọn ta đâu có cố ý giấu chúng chuyện đó. Nếu có giấu thật, chắc chắn chúng đã cản chân được ngươi trước khi ngươi mò tới đây rồi."
 
 Nive nhướng mày. "Định để sau này mới bảo à?"
 
@@ -40,9 +40,9 @@ Bình thường thì tính toán của cậu thiếu niên kia cũng chẳng sai
 
 "Nói gì thì nói, trông ngươi vẫn còn sung sức gớm nhỉ," Nive nói. "Ra thế. Thú vị đấy."
 
-Khách quan mà nói, tên Ma Cà Rồng trẻ tuổi đã bị dồn vào chân tường. Sức lực hắn chẳng còn là bao, đường lui cũng không có. Vậy mà hắn vẫn giữ nụ cười trên môi như thể mọi chuyện đều nằm trong tính toán. Hẳn Nive cũng nhận ra điều đó.
+Khách quan mà nói, cậu thiếu niên Ma Cà Rồng đã bị dồn vào chân tường. Sức lực cậu ta chẳng còn là bao, đường lui cũng không có. Vậy mà cậu ta vẫn giữ nụ cười trên môi như thể mọi chuyện đều nằm trong tính toán. Hẳn Nive cũng nhận ra điều đó.
 
-"Ồ, ngươi nhận ra rồi à?" tên Ma Cà Rồng trẻ tuổi hỏi.
+"Ồ, ngươi nhận ra rồi à?" cậu thiếu niên Ma Cà Rồng hỏi.
 
 "Đang câu giờ chứ gì? Ta đoán mục tiêu thực sự của các ngươi nằm trong thị trấn. Nhưng phần lớn mạo hiểm giả đều đang ở đó cả rồi. Ngươi làm trò này thì có ích gì?"
 
@@ -50,19 +50,19 @@ Khách quan mà nói, tên Ma Cà Rồng trẻ tuổi đã bị dồn vào chân
 
 Tôi chẳng biết phải nghĩ sao về lời đó. Ở Maalt không thiếu người mạnh, vả lại tôi cũng vừa biết khả năng tái tạo của Ma Cà Rồng không phải là vô hạn. Nếu quần thảo đủ lâu, kiểu gì chúng tôi cũng tiêu diệt được chúng. Nhưng chiến đấu trong một mê cung chật hẹp là một chuyện, còn chiến đấu ở bên ngoài lại là chuyện hoàn toàn khác. Ở không gian ngoài kia, chúng có thể tận dụng Phân Liệt để tẩu thoát. Nive có thể có cách đối phó, chứ mạo hiểm giả ở Maalt chẳng ai chuyên đi săn Ma Cà Rồng cả. Hội Trưởng Wolf chắc cũng nắm vài biện pháp ứng phó chung, nhưng chỉ có Thợ Săn Ma Cà Rồng mới biết cách khai thác điểm yếu của chúng. Mạo hiểm giả phải đối đầu với đủ loại quái vật chứ đâu riêng Ma Cà Rồng, nên hiếm ai chỉ tập trung vào mỗi một loài như thế.
 
-Hai đứa Ma Cà Rồng lúc trước từng nhắc tới thủ lĩnh tên Shumini, nhưng cậu thiếu niên này rõ ràng không phải là hắn. Nghe qua thì có vẻ tên cầm đầu đang ở trong thị trấn.
+Hai Ma Cà Rồng lúc trước từng nhắc tới thủ lĩnh tên Shumini, nhưng cậu thiếu niên này rõ ràng không phải là hắn. Nghe qua thì có vẻ tên cầm đầu đang ở trong thị trấn.
 
 "Ra thế. Vậy thì được thôi," Nive nói. "Ta sẽ giết ngươi, rồi quay thẳng về thị trấn giải quyết cho xong chuyện này."
 
 "Ngươi nghĩ ta sẽ để ngươi làm thế chắc?"
 
-Cậu thiếu niên bật cười, thoắt cái đã rút từ hư không ra một thanh kiếm liễu màu đỏ rồi rót đầy Ma Lực vào đó. Thanh kiếm liễu tỏa ra một luồng năng lượng rợn người chảy vào cơ thể cậu thiếu niên và làm biến đổi hắn. Thân hình mảnh khảnh, thanh tú bỗng phát ra những tiếng tanh tách khi bắp tay, lồng ngực và bắp đùi phồng to lên, làm bung rách bộ quần áo may đo vừa vặn trên người.
+Cậu thiếu niên bật cười, thoắt cái đã rút từ hư không ra một thanh kiếm liễu màu đỏ rồi rót đầy Ma Lực vào đó. Thanh kiếm liễu tỏa ra một luồng năng lượng rợn người chảy vào cơ thể cậu thiếu niên và làm biến đổi cậu ta. Thân hình mảnh khảnh, thanh tú bỗng phát ra những tiếng tanh tách khi bắp tay, lồng ngực và bắp đùi phồng to lên, làm bung rách bộ quần áo may đo vừa vặn trên người.
 
 "Cái quái gì thế này?" tôi thì thầm.
 
 "Đó là sức mạnh của Huyết Binh," Nive giải thích. "Công dụng của nó chẳng khác gì cách các thánh kiếm cường hóa cho con người. Chúng là vũ khí bí mật của Trung Cấp và Thượng Cấp Ma Cà Rồng, nhưng bản thân Huyết Binh vốn rất hiếm nên ít khi nhìn thấy. Dù sao thì gay go rồi đây. Một khi Trung Cấp Ma Cà Rồng làm vậy, sức mạnh của chúng sẽ sánh ngang với Thượng Cấp Ma Cà Rồng."
 
-Cậu thiếu niên không còn vẻ ngoài của một Ma Cà Rồng nữa, thay vào đó lại giống thứ gì đó gần với Ogre hơn. Song khác với loài Ogre, ánh mắt hắn vẫn lộ rõ vẻ thông tuệ, từng cử động cũng toát lên sự lanh lợi. Đó tuyệt đối không phải là Ogre. Hắn nguy hiểm hơn thế rất nhiều.
+Cậu thiếu niên không còn vẻ ngoài của một Ma Cà Rồng nữa, thay vào đó lại giống thứ gì đó gần với Ogre hơn. Song khác với loài Ogre, ánh mắt cậu ta vẫn lộ rõ vẻ thông minh, từng cử động cũng toát lên sự lanh lợi. Đó tuyệt đối không phải là Ogre. Kẻ này nguy hiểm hơn thế rất nhiều.
 
 "Cô thắng nổi không?" tôi hỏi Nive.
 
@@ -96,7 +96,7 @@ Tôi không nghĩ Nive thực sự tin rằng tôi đánh bại được tên đ
 
 Chúng tôi chưa rõ tại sao tên Ma Cà Rồng lại có mặt ở Maalt hay hắn đang mưu tính điều gì, nhưng chắc chắn hắn phải có mục tiêu nào khác ngoài việc xua lũ Thi Quỷ đi càn quấy. Bất kể hắn muốn làm gì, việc đó cũng tốn thời gian đến mức hắn phải dụ Nive tới Mê Cung Tân Nguyệt và dùng Huyết Binh cầm chân cô ấy ở đây.
 
-Tên Ma Cà Rồng trẻ tuổi nói không sai ở chỗ lực lượng của Maalt khó mà trông cậy hoàn toàn được, nhưng có lẽ họ vẫn đủ sức cầm cự câu giờ để Nive hạ gục hắn rồi quay về Maalt. Tôi nghĩ đó cũng là điều cô ấy muốn tôi làm. Cô ấy nói cứ như thể tôi đánh bại được tên Ma Cà Rồng đầu sỏ, nhưng nhiều khả năng chỉ là để thuyết phục tôi quay về mà thôi. Ngay cả trước một Trung Cấp Ma Cà Rồng tôi đã phải chật vật rồi, làm sao thắng nổi một kẻ địch có khi còn mạnh hơn thế. Dù vậy, có lẽ tôi vẫn cầm chân hắn được một lúc. Tôi chỉ cần ngáng đường hắn và chờ Nive tới nơi. Ít nhất tôi cũng phải thử xem sao. Chừng ấy việc thì có lẽ tôi vẫn xoay xở được.
+Cậu thiếu niên Ma Cà Rồng nói không sai ở chỗ lực lượng của Maalt khó mà trông cậy hoàn toàn được, nhưng có lẽ họ vẫn đủ sức cầm cự câu giờ để Nive hạ gục cậu ta rồi quay về Maalt. Tôi nghĩ đó cũng là điều cô ấy muốn tôi làm. Cô ấy nói cứ như thể tôi đánh bại được tên Ma Cà Rồng đầu sỏ, nhưng nhiều khả năng chỉ là để thuyết phục tôi quay về mà thôi. Ngay cả trước một Trung Cấp Ma Cà Rồng tôi đã phải chật vật rồi, làm sao thắng nổi một kẻ địch có khi còn mạnh hơn thế. Dù vậy, có lẽ tôi vẫn cầm chân hắn được một lúc. Tôi chỉ cần ngáng đường hắn và chờ Nive tới nơi. Ít nhất tôi cũng phải thử xem sao. Chừng ấy việc thì có lẽ tôi vẫn xoay xở được.
 
 ◆◇◆◇◆
 

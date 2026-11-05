@@ -4,7 +4,7 @@ Wolf nhìn cô gái, nét mặt đầy mâu thuẫn. Tôi tiến lại gần ôn
 
 "Rất tiếc vì ông phải làm việc đó," tôi nói, dù tự thấy mấy lời ấy nghe hơi sáo rỗng.
 
-"Cậu ấy là mạo hiểm giả của Hội tôi. Chuyện này chỉ có tôi ra tay là thích hợp nhất." Tôi cảm nhận được phẩm giá cùng tinh thần trách nhiệm mà ông gánh vác trên cương vị Hội Trưởng. Thật may cho chúng tôi khi có ông phụ trách Hội Mạo Hiểm Giả.
+"Cậu ấy là mạo hiểm giả của Hội tôi. Không ai hợp làm việc này hơn tôi cả." Tôi cảm nhận được sự đĩnh đạc cùng trách nhiệm mà ông mang trên vai một Hội Trưởng. Thật may cho chúng tôi khi có ông đứng đầu Hội Mạo Hiểm Giả.
 
 "Vậy cậu thiếu niên đó là người của Hội Maalt sao?" tôi hỏi. Tôi chỉ mới đứng xem từ giữa chừng nên không rõ hết đầu đuôi, nhưng tôi cũng đoán vậy, và giờ đã được Wolf xác nhận.
 
@@ -22,7 +22,7 @@ Nếu tôi là con Ma Cà Rồng đó, có lẽ tôi cũng chẳng dại gì mà
 
 Cậu thiếu niên kia đã chẳng thể trả lời rành rọt câu hỏi của Wolf. Đến cả việc cậu ta có ý thức được mình là một Thi Quỷ hay không còn chưa chắc. Nhưng tôi thì khác. Tôi hoàn toàn ý thức được bản thân mình là thứ gì. Bảo là không có chút thôi thúc quái vật nào thì không đúng, nhưng trừ lần tấn công Lorraine ra, tôi vẫn kiểm soát được chúng. Tôi vẫn uống máu người mỗi ngày, nhưng chưa từng mảy may nghĩ đến chuyện tấn công người khác. Ngược lại, cậu thiếu niên đó lại phát cuồng trước khi bị bắt giữ. Hẳn phải có điều gì đó khiến cậu ta khác biệt với tôi ở mức căn bản.
 
-Nghe tôi trả lời, nét mặt Wolf vừa thất vọng lại vừa nhẹ nhõm: thất vọng vì không thể cứu những mạo hiểm giả từng là đồng đội của mình, nhưng nhẹ nhõm vì quyết định thanh tẩy những mạo hiểm giả đó là lựa chọn đúng đắn. Nếu xuống tay giết họ trong khi vẫn còn cách cứu chữa, hẳn sẽ rất khó mà tạ lỗi cho xuể. Dù thế nào đi nữa, đó cũng là lựa chọn duy nhất của ông trong tình thế này. Nếu công khai chuyện tôi là Undead rồi còn tuyên bố biết cách cứu chữa Thi Quỷ, bản thân ông sẽ rơi vào tình thế nguy hiểm. Dẫu vậy, ông vẫn sẵn sàng chấp nhận bước qua ranh giới đó nếu việc ấy giúp được bọn họ.
+Nghe tôi trả lời, nét mặt Wolf vừa thất vọng lại vừa nhẹ nhõm: thất vọng vì không cứu được những mạo hiểm giả từng là đồng đội của mình, nhưng nhẹ nhõm vì quyết định thanh tẩy họ là đúng đắn. Nếu xuống tay giết họ trong khi vẫn còn cứu được thì có xin lỗi thế nào cũng chẳng đủ. Dù sao đó cũng là lựa chọn duy nhất của ông trong hoàn cảnh này. Nếu tiết lộ tôi là Undead rồi lại bảo biết cách cứu chữa Thi Quỷ, bản thân ông sẽ lâm vào thế kẹt. Thế nhưng chỉ cần giúp được họ, ông vẫn sẵn sàng chấp nhận đương đầu với chuyện đó.
 
 "Tôi hiểu rồi, nắm được rồi," Wolf nói. "Biết vậy là tốt. À, ngoài ra bên tôi cũng thu thập được ít thông tin rồi. Cậu nghe thử xem."
 
@@ -76,7 +76,7 @@ Thực ra tôi chưa từng thử chuyện đó trước đây, nhưng có cảm
 
 "Tôi từng thấy một con Ma Cà Rồng cắn người ở Mê Cung Tân Nguyệt. Chuyện đó xảy ra cũng được một dạo rồi, nhưng tôi nghĩ nơi đó có thể là căn cứ của con Ma Cà Rồng."
 
-"Ra vậy. Các vụ mất tích phần lớn xảy ra trong các mê cung. Trong thị trấn cũng có nhưng ít thường xuyên hơn. Cơ mà tôi không ngờ là có thể điều khiển Thi Quỷ từ khoảng cách xa đến thế. Tôi chưa mở đợt tìm kiếm ra tận ngoài đó, nhưng nghe chừng là nên làm vậy rồi."
+"Ra vậy. Các vụ mất tích phần lớn xảy ra trong các mê cung. Trong thị trấn cũng có nhưng ít thường xuyên hơn. Có điều tôi không ngờ là có thể điều khiển Thi Quỷ từ khoảng cách xa đến thế. Tôi chưa mở đợt tìm kiếm ra tận ngoài đó, nhưng nghe chừng là nên làm vậy rồi."
 
 Trong lúc thị trấn chìm trong biển lửa và Thi Quỷ tấn công người dân, chẳng có ai rảnh tay để phái tới mê cung khi mà khả năng tìm thấy thứ gì đó ở nơi ấy vô cùng mong manh. Bắt giữ con Ma Cà Rồng là việc hệ trọng, nhưng không quan trọng bằng việc bảo vệ người dân thị trấn. Tuy nhiên, qua những gì tôi vừa nói thì khả năng con Ma Cà Rồng đang ở đó là khá cao.
 
@@ -94,11 +94,11 @@ Người đứng sau lưng ông dĩ nhiên chính là Thợ Săn Ma Cà Rồng N
 
 "Cô nghe được những gì rồi?" Wolf nhìn Nive với vẻ bối rối hỏi. Hẳn ông sợ cô ấy đã nghe thấy điều gì đó liên quan đến tôi. Nhưng tôi đã thấy Nive nhẹ nhàng bước tới sau lưng Wolf như một con mèo từ lúc nào, và từ khi cô ấy xuất hiện thì chúng tôi chưa bàn tới chuyện gì có vấn đề cả.
 
-"Ồ, tôi mới nghe thấy ông bảo đang chọn người thôi, trước đó thì không," Nive đáp. "Nghe như các ông đã tìm ra căn cứ của tên đầu sỏ hay gì đó rồi thì phải. Cơ mà làm sao các ông tìm ra nhanh hơn tôi được thì tôi chịu đấy."
+"Ồ, tôi mới nghe thấy ông bảo đang chọn người thôi, trước đó thì không," Nive đáp. "Nghe như các ông đã tìm ra căn cứ của tên đầu sỏ hay gì đó rồi thì phải. Còn làm sao các ông tìm ra nhanh hơn tôi được thì tôi chịu đấy."
 
 Nghe thì có vẻ cô ấy chưa nghe thấy điều gì gây rắc rối, nhưng tôi không chắc liệu cô ấy có đang nói dối hay không. Biết đâu cô ấy đang giả ngây giả ngô, song tôi chẳng có cách nào đoán được. Trông cô ấy lúc này đúng kiểu đang cố làm ra vẻ dễ thương, hệt như một đứa trẻ vừa thấy món đồ chơi là sốt ruột muốn chơi ngay. Ý đồ của một đứa trẻ có thể lộ rõ mồn một trên mặt, nhưng tôi lại chẳng thể hình dung nổi trong đầu Nive đang nghĩ gì.
 
-"Thì Hội nào cũng có cách riêng của mình. Cơ mà phần lớn là bọn tôi cứ tung mạo hiểm giả vào xử lý cho tới khi có kết quả thôi," Wolf nói, thở phào nhẹ nhõm vì không làm lộ bí mật của tôi. Mà trong trường hợp này thì đó cũng chẳng hoàn toàn là nói dối, nếu thay mạo hiểm giả bằng lũ chuột.
+"Thì Hội nào cũng có cách riêng của mình. Mà phần lớn là bọn tôi cứ tung mạo hiểm giả vào xử lý cho tới khi có kết quả thôi," Wolf nói, thở phào nhẹ nhõm vì không làm lộ bí mật của tôi. Mà trong trường hợp này thì đó cũng chẳng hoàn toàn là nói dối, nếu thay mạo hiểm giả bằng lũ chuột.
 
 "Ra vậy, rồi các ông tình cờ tìm ra bằng cách đó đấy à?" Nive đáp lại.
 
@@ -122,7 +122,7 @@ Tôi đã thầm mong cô ấy quên mất chuyện chúng tôi định làm, nh
 
 "Phải, nhưng ban đầu tôi cứ nghĩ mình đang săn một con Hạ Cấp Ma Cà Rồng hành động đơn độc. Tôi nghĩ khả năng cao là chúng đang ẩn náu ngay trong Maalt. Nhưng xét về chất lượng và số lượng của đám Thi Quỷ thì có lẽ tốt nhất nên dẹp những dự đoán đó sang một bên. Dẫu vậy, nếu có nhiều con Ma Cà Rồng thì đáng lẽ số thương vong phải nhiều hơn thế chứ."
 
-"Cơ mà tôi thấy số lượng mạo hiểm giả với người dân mất tích cũng khá nhiều đấy chứ."
+"Mà tôi thấy số lượng mạo hiểm giả với người dân mất tích cũng khá nhiều đấy chứ."
 
 "Tương đối mà nói thì chưa nhiều đến thế đâu. Một con Hạ Cấp Ma Cà Rồng mỗi tháng cần hút máu vài người. Chúng không nhất thiết phải giết ai nếu có những người tự nguyện cung cấp máu, nhưng muốn làm được vậy thì phải có một tổ chức quy củ. Ít nhất là ở Maalt không hề có tổ chức nào như thế. Cũng có thể do tôi chưa điều tra đủ kỹ, nhưng tôi đoán là bọn chúng đang dùng huyết dược. Bất ngờ thật đấy."
 
@@ -142,4 +142,4 @@ Sự hào hứng thật lòng của Nive thật đáng sợ. Tôi suýt nữa th
 
 Tôi nhìn nụ cười toe toét của Nive, lại nhớ ra mình ghét phải làm việc cùng cô ấy đến mức nào, nhưng giờ thì chẳng còn cách nào khác. May thay, vẫn còn một người khác ở bên để mắt tới cô ấy. Tôi nhìn ra sau lưng Wolf thì thấy Myullias đang chạy về phía chúng tôi.
 
-"Tôi phải nhắc cô bao nhiêu lần nữa đây hả, đừng có hơi tí là tự tiện chạy mất hút như thế chứ!" Cô ấy vừa thở dốc vừa quát lên. Tác phong đó chẳng ra dáng một Thánh Nữ chút nào.
+"Tôi phải nhắc cô bao nhiêu lần nữa đây hả, đừng có hơi tí là tự tiện chạy mất hút như thế chứ!" cô ấy vừa thở dốc vừa quát lên. Tác phong đó chẳng ra dáng một Thánh Nữ chút nào.
