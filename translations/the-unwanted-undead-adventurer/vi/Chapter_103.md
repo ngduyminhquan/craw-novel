@@ -1,104 +1,104 @@
 # Chương 103: Tập 4 Chương 3 - Thương Hội Stheno (2)
 
-"Vậy tôi xin phép thất lễ..."
+"Vậy tôi xin phép..."
 
-Dứt lời, một người đàn ông bệ vệ với chiếc bụng phệ bước vào phòng. Bộ trang phục rực rỡ trên người ông ta rất ra dáng một thương nhân. Cả con người lẫn phong thái của ông đều toát lên vẻ quyền thế của một nhân vật có máu mặt. Nếu tôi đoán không nhầm, đây hẳn là người đứng đầu Thương hội Stheno.
+Dứt lời, một người đàn ông bệ vệ với chiếc bụng phệ bước vào phòng. Bộ trang phục ông khoác trên người mang màu sắc rực rỡ, rất ra dáng thương nhân. Cả con người lẫn phong thái của ông đều toát lên vẻ bề thế của một nhân vật tầm cỡ. Nếu tôi đoán không nhầm, đây hẳn là người đứng đầu Thương hội Stheno.
 
 Hay là tôi đoán sai nhỉ...? May sao, phỏng đoán của tôi lập tức có câu trả lời.
 
-"Hóa ra ngài chính là mạo hiểm giả đã hạ con Tarasque đó... Ngài Rentt Vivie, đúng chứ? Tôi vô cùng xin lỗi vì đã đường đột mời ngài đến đây theo cách thiếu nhã nhặn thế này. Tôi là người đứng đầu Thương hội Stheno, Sharl Stheno. Về những biến cố phát sinh vừa qua... tôi xin gửi lời tạ lỗi chân thành nhất. Nếu ngài không chê, chúng tôi dự định sẽ giảm giá cho ngài khi mua sắm tại thương hội, kèm theo vài khoản bồi thường và ưu đãi khác có thể sẽ hữu ích cho ngài..." Nói đoạn, Sharl Stheno khom mình cúi đầu.
+"Hóa ra ngài chính là mạo hiểm giả đã hạ con Tarasque đó... Ngài Rentt Vivie, đúng chứ? Tôi vô cùng xin lỗi vì đã đường đột mời ngài đến đây theo cách thiếu nhã nhặn thế này. Tôi là người đứng đầu Thương hội Stheno, Sharl Stheno. Về những chuyện xảy ra vừa qua... tôi xin gửi lời tạ lỗi chân thành nhất. Nếu ngài không chê, chúng tôi dự định sẽ giảm giá cho ngài khi mua hàng tại thương hội, kèm theo các khoản đền bù và ưu đãi khác có thể sẽ hữu ích cho ngài..." Nói đoạn, Sharl Stheno cúi đầu.
 
 ![](images/ch103-01.webp)
 
-Vừa vào chuyện đã được chào mời bao nhiêu điều kiện béo bở thế này, đến tôi cũng thấy hơi ngại. Dù vậy, bụng tôi vẫn sinh nghi. Liệu đằng sau vụ này còn uẩn khúc gì khác mà mình chưa biết không nhỉ...?
+Vừa vào chuyện đã được đưa ra bao nhiêu điều kiện có lợi thế này, đến tôi cũng thấy hơi ngại. Dù vậy, bụng tôi vẫn sinh nghi. Liệu đằng sau vụ này còn uẩn khúc gì khác mà mình chưa biết không nhỉ...?
 
-Bình thường, những nhượng bộ kiểu này chỉ được chìa ra trong lúc thương lượng giá cả hay những việc tương tự; ít ra trước đây mỗi lần bán đồ hiếm cho các thương hội, tôi đều thấy thế. Đằng này...
+Bình thường, những nhượng bộ kiểu này chỉ được đưa ra trong lúc thương lượng giá cả hay những việc tương tự; ít ra trước đây mỗi lần bán đồ hiếm cho các thương hội, tôi đều thấy thế. Đằng này...
 
-Liệu nguyên liệu từ Tarasque thực sự đáng giá đến mức ấy sao? Hay kẻ muốn có chúng sở hữu quyền lực quá lớn? Dù rơi vào trường hợp nào, tôi cũng không được phép lơ là cảnh giác. Nghĩ tới thôi đã thấy mệt mỏi rồi.
+Nguyên liệu từ Tarasque thực sự giá trị đến mức ấy sao? Hay người muốn mua chúng có thế lực quá lớn? Dù là đằng nào, ở đây tôi cũng không được phép lơ là cảnh giác. Nghĩ tới thôi đã thấy oải rồi.
 
-Tôi chỉnh lại chiếc mặt nạ để lộ nửa dưới khuôn mặt. Nén lại cảm xúc thật, tôi bật cười rồi bắt chuyện với vị thương nhân bằng giọng thoải mái.
+Tôi cho chiếc mặt nạ biến đổi để lộ nửa dưới khuôn mặt. Giấu đi cảm xúc thật, tôi bật cười rồi đáp lời vị thương nhân bằng giọng thoải mái.
 
-"Mạo hiểm giả Đồng Cấp, Rentt Vivie, rất hân hạnh được gặp ngài. Còn về chuyện kia... Thật ra ngài không cần phải bận lòng đến mức đó đâu. Dù sao thì chính tôi mới là người tự nguyện đến đây hôm nay mà. Con Tarasque tôi vất vả lắm mới hạ được, giờ lại bán được giá gấp mấy lần mức ước tính lúc đấu giá... Thú thật, làm mạo hiểm giả thì ai mà chẳng mừng rỡ. Nói thật với ngài, trên đường tới đây tôi còn vui đến mức suýt nhảy chân sáo cơ đấy."
+"Mạo hiểm giả Đồng Cấp, Rentt Vivie, rất hân hạnh được gặp ngài. Còn về chuyện lần này... Thật ra ngài không cần khách sáo đến thế đâu. Dù sao hôm nay cũng là tự tôi quyết định tới đây mà. Con Tarasque tôi vất vả lắm mới hạ được, giờ lại sắp bán được giá gấp mấy lần mức ước tính ngoài sàn đấu giá... Thú thật, dân mạo hiểm giả gặp chuyện này thì ai mà chẳng mừng. Hôm nay tôi còn sướng đến mức nhảy chân sáo suốt dọc đường tới thương hội của ngài đấy."
 
 Nghe câu đùa ở vế cuối của tôi, vị thương nhân bật cười.
 
-"Ngài Rentt nói chuyện thoải mái hơn tôi tưởng nhiều đấy. Khác hẳn với những lời đồn thổi. Thiên hạ bảo ngài là một người... nói sao nhỉ, cứng nhắc hơn nhiều cơ."
+"Ngài Rentt nói chuyện thoải mái hơn tôi tưởng nhiều đấy. Khác hẳn với những lời đồn thổi. Người ta đồn ngài là một người... nói sao nhỉ, cứng nhắc hơn thế này nhiều."
 
-Câu nói ấy khiến tôi không thể ngó lơ. Rốt cuộc lời đồn về mình đã lan xa tới mức nào rồi? Nghĩ vậy, tôi quyết định gặng hỏi cho rõ.
+Câu nói ấy khiến tôi không thể ngó lơ. Rốt cuộc lời đồn về mình đã lan xa tới mức nào rồi? Tôi quyết định hỏi kỹ thêm về chuyện này.
 
-"Lời đồn ư ngài? Đồn thế nào cơ? Thú thật là tôi chẳng mấy khi để ý đến mấy chuyện thiên hạ nghĩ gì về mình đâu..."
+"Lời đồn ư ngài? Đồn thế nào cơ? Thú thật là tôi khá mù mờ về mấy chuyện này. Chẳng hạn như chuyện người ngoài nghĩ gì về mình..."
 
-Hồi còn là Rentt Faina thì có khi nhiều người biết, chứ như tôi lúc này...
+Nếu dưới cái tên Rentt Faina thì có lẽ cũng nhiều người biết đấy, chứ với thân phận hiện tại của tôi...
 
 Số người tôi tiếp xúc đã ít đi trông thấy. Ngoài Lorraine, Clope và vài người nữa ra, tôi gần như chẳng giao thiệp gì với các mạo hiểm giả bình thường. Họa chăng tôi chỉ đôi lần nhặt được món đồ ai đó đánh rơi rồi đem trả lại, mà những lúc ấy thì cũng đâu có trò chuyện gì sâu xa.
 
 Không phải tôi không muốn bắt chuyện, mà nán lại lâu thì nguy cơ lộ bí mật lúc nào cũng rình rập. Còn Sharl thì...
 
-"Hừm... Thưa ngài Rentt. Là dân buôn bán, để lộ nguồn tin vốn chẳng phải chuyện hay ho gì, có điều rắc rối lần này hoàn toàn do phía chúng tôi gây nên. Vừa rồi tôi có nhắc tới chuyện nhượng bộ đôi chút, đúng không? Tôi sẽ giữ lời. Chà... trước hết thì..."
+"Hừm... Thưa ngài Rentt. Với một thương nhân, tiết lộ nguồn tin của mình thực sự chẳng phải chuyện hay ho gì, có điều sự việc lần này hoàn toàn do phía chúng tôi gây nên. Vừa rồi tôi có nhắc tới chuyện đền bù cho ngài, đúng chứ? Tôi sẽ giữ đúng lời hứa. Chà... đầu tiên là..."
 
-Ồ. Vị thương nhân này tâm lý đến không ngờ đấy...
+Ồ. Vị thương nhân này tâm lý hơn tôi tưởng đấy...
 
-"Bắt đầu từ đâu được nhỉ?" Sharl nói tiếp. "Thành thật mà nói, thưa ngài Rentt, thu thập thông tin về ngài khó khăn ngoài sức tưởng tượng. Chúng tôi biết ngài là mạo hiểm giả—chuyện đó thì quá đơn giản rồi. Nhưng ngài là người thế nào thì chúng tôi chịu. Có điều, dẫu bản thân tôi không hề đồng tình, nhưng thiên hạ ngoài kia lại bảo ngài là 'một kẻ cực kỳ đáng sợ'..."
+"Bắt đầu từ đâu được nhỉ?" Sharl nói tiếp. "Thành thật mà nói, thưa ngài Rentt, thu thập thông tin về ngài khó khăn ngoài sức tưởng tượng. Chúng tôi biết ngài là mạo hiểm giả, chuyện đó thì quá đơn giản rồi. Nhưng ngài là người thế nào thì chúng tôi không rõ. Có điều, dẫu bản thân tôi không hề đồng tình, nhưng người ngoài lại đồn ngài là 'một kẻ cực kỳ đáng sợ'..."
 
 "Ý ngài là sao cơ?"
 
-"Ngài tuy mang danh mạo hiểm giả Đồng Cấp nhưng hầu như chẳng hé răng với ai. Thoạt đầu, người ta có thể chỉ nghĩ ngài là kẻ lầm lì, không bận tâm đến người khác chăng? Thế nhưng, những mạo hiểm giả từng thấy động tác và cách hành xử của ngài trong mê cung lại nhận ra thực lực ấy vượt xa tầm một Đồng Cấp nhiều."
+"Tuy là một mạo hiểm giả Đồng Cấp, nhưng ngài hầu như chẳng trò chuyện với ai. Thoạt nhìn, có lẽ người ta chỉ nghĩ ngài là người kín tiếng, ít bận tâm đến xung quanh chăng? Thế nhưng, những mạo hiểm giả từng tận mắt chứng kiến thân thủ và tác phong của ngài trong mê cung đều nhận thấy đó không phải là trình độ của một Đồng Cấp, mà còn vượt xa hơn thế."
 
-Ra vậy... Thỉnh thoảng tôi cũng chạm mặt vài mạo hiểm giả... Chắc là có người đi ngang qua lúc tôi đang giao chiến rồi. Trong mê cung, không can dự vào chuyện của người lạ vốn là luật bất thành văn. Dù thế, chẳng ai cấm một mạo hiểm giả lén quan sát người khác cả. Tùy tình huống, có khi người ta còn thản nhiên đứng nhìn trận chiến của kẻ khác. Làm vậy tuy không lịch sự cho lắm, nhưng tuyệt đối chẳng ai cấm đoán. Đa số mạo hiểm giả cũng chẳng bận tâm, miễn sao kẻ đứng xem không vướng chân vướng tay mình.
+Ra vậy... Thỉnh thoảng tôi cũng chạm mặt vài mạo hiểm giả... Chắc là có người đi ngang qua lúc tôi đang giao chiến rồi. Trong mê cung, không can dự vào chuyện của người lạ vốn là luật bất thành văn. Dù thế, chẳng ai cấm một mạo hiểm giả lén quan sát người khác cả. Tùy tình huống, có khi người ta còn thản nhiên đứng nhìn trận chiến của kẻ khác. Làm vậy tuy không lịch sự cho lắm, nhưng hoàn toàn không phạm luật. Đa số mạo hiểm giả cũng chẳng bận tâm, miễn sao kẻ đứng xem không vướng chân vướng tay mình.
 
-Chắc Sharl đã thu thập thông tin theo cách ấy, bằng cách dò hỏi những mạo hiểm giả từng giáp mặt tôi ở đâu đó trên đường.
+Chắc Sharl đã thu thập thông tin theo kiểu ấy, thông qua việc dò hỏi những mạo hiểm giả từng giáp mặt tôi ở đâu đó trên đường.
 
-Nhưng mà... lầm lì và chẳng mấy bận tâm đến ai ư? Tôi đúng là ít nói thật... chí ít là trừ Sheila ở Hội ra. Rồi còn có Dario ở phòng mổ xẻ nữa, dẫu chú ấy là người phụ trách ở đó, chứ tôi quả thực chẳng trò chuyện với ai khác...
+Nhưng mà... kín tiếng và ít bận tâm đến xung quanh ư? Đúng là tôi chẳng mấy khi bắt chuyện thật... trừ Sheila ở Hội ra. Còn thêm chú Dario bên khu mổ xẻ nữa, mà cũng chỉ vì chú ấy là người phụ trách ở đó thôi, chứ ngoài ra tôi quả thực chẳng nói chuyện với ai khác...
 
-Hừm... Trông tôi giống kẻ không có nổi một mống bạn đến thế cơ à?
+Hừm... Chẳng lẽ trông tôi giống kẻ không có lấy một người bạn đến thế sao?
 
-Mà thật ra thì đúng là tôi không có thật. Nếu phải chỉ mặt một người rồi nhận là bạn mình... thì ừ, có mỗi Lorraine.
+Mà thực tế thì tôi làm gì có ai thật. Nếu phải chỉ ra một người rồi nhận là bạn mình... thì ừ, có Lorraine đấy.
 
-Thôi, chẳng nên nghĩ ngợi nhiều làm gì, tự dưng lại thấy tủi thân ghê.
+Thôi, không nên nghĩ sâu thêm về chuyện này làm gì. Tôi bắt đầu thấy chạnh lòng rồi đấy.
 
-Cơ mà hồi còn sống, tôi cũng có nhiều bạn bè lắm chứ bộ.
+Cơ mà đúng là thời còn sống, tôi từng có rất nhiều bạn bè đấy nhé.
 
 "Ngài khen quá lời rồi! Tôi đâu có gì ghê gớm đến thế. Dù sao ngoài kia cũng có khối người ngang tầm tôi mà..."
 
 Tôi chẳng hề khiêm tốn chút nào đâu. Nói thực lòng, nếu phải tự lượng sức mình, có lẽ tôi chỉ ở tầm mạo hiểm giả Hạ Ngân Cấp, hoặc chí ít là xấp xỉ mức đó. Dù tôi giấu trong tay kha khá con bài tẩy, chốc chốc lại bộc phát sức mạnh đáng kinh ngạc, nhưng ngày thường thì làm sao lúc nào cũng được như vậy.
 
-Nói đúng hơn thì, khoảng cách giữa tôi lúc này và Rentt Faina ngày trước cách nhau một trời một vực. Tôi cũng tin chắc rằng từ nay về sau mình sẽ còn mạnh hơn nữa. Đó là chuyện tốt.
+Nói đúng hơn thì khoảng cách thực lực giữa tôi lúc này với Rentt Faina ngày trước đã khá xa rồi. Tôi cũng tin chắc từ giờ trở đi mình sẽ còn mạnh hơn nữa. Thế là tốt rồi.
 
-Sharl gật đầu tán đồng: "Tôi cũng từng nghe những lời đồn như thế. Lại còn nghe bảo ngài làm việc gì cũng gọn gàng chuẩn xác, thưa ngài Rentt. Ngài không chỉ mạnh mà còn chẳng hề lộ sơ hở trước kẻ thù. Nghe đâu ngài chẳng bao giờ đâm đầu vào những trận nắm chắc phần thua... Lại còn khí tức chấp niệm gì đó nữa... Chắc là ý chí kiên định chăng? Trông nó gần như... không giống của con người. Dù chính tôi cũng chẳng hiểu rõ ý cuối này cho lắm, thưa ngài Rentt..."
+Sharl gật đầu trước lời tôi: "Tôi cũng từng nghe những lời đồn như thế. Người ta còn bảo ngài hành động vô cùng gọn gàng, hiệu quả, thưa ngài Rentt. Ngài không chỉ mạnh mà còn chẳng để lộ sơ hở nào trước kẻ thù. Nghe đâu ngài không bao giờ đánh những trận nắm chắc phần thua... Rồi cả cái vẻ đầy chấp niệm toát ra từ ngài nữa... Hay phải gọi là sự kiên định nhỉ? Nghe bảo nó gần như... vượt khỏi tầm con người. Dù chính tôi cũng chẳng hiểu rõ điểm cuối này cho lắm, thưa ngài Rentt..."
 
 Không đánh trận nào nắm chắc phần thua ư... Cứ thấy tình thế sắp chuyển biến xấu là tôi chuồn thật. Lạ lùng thay, chuyện ấy lại được người ta đánh giá cao đến thế.
 
-Còn về ý chí kiên định... Trông tôi toát ra vẻ như thế thật à? Hừm. Đúng là tôi luôn muốn dốc hết sức và nỗ lực hết mình, nhưng tôi có bao giờ cố ý phát ra cái thứ... khí tức kỳ quặc ấy đâu chứ? Tuyệt đối không.
+Còn về sự kiên định... Trông tôi toát ra vẻ như thế thật à? Hừm. Đúng là tôi luôn muốn dốc hết sức và nỗ lực hết mình, nhưng tôi có bao giờ cố ý phát ra cái... khí chất kỳ quặc ấy đâu chứ? Tuyệt đối không.
 
-Còn nhận xét bảo trông tôi không giống con người... Chà. Vốn dĩ tôi đâu còn là người nữa—dù dĩ nhiên tôi chẳng thể nói toạc ra được. Trong thoáng chốc, tôi từng tự hỏi liệu có nên thử lòng Sharl bằng một câu như thế để xem phản ứng của ông ta ra sao không. Nhưng làm vậy thì chuỗi ngày sống trong xã hội loài người của tôi sẽ chấm dứt ngay tắp lự. Dẫu chỉ là một lời đùa vui bâng quơ... tôi cũng không thể khinh suất đến mức ấy.
+Còn nhận xét bảo trông tôi không giống con người... Chà. Vốn dĩ tôi đâu còn là người nữa, dù dĩ nhiên tôi chẳng thể nói toạc ra được. Trong thoáng chốc, tôi từng tự hỏi liệu có nên thử lòng Sharl bằng một câu như thế để xem phản ứng của ông ra sao không. Nhưng làm vậy thì chuỗi ngày sống trong xã hội loài người của tôi sẽ chấm dứt ngay tắp lự. Dẫu chỉ là một lời đùa vui bâng quơ... tôi cũng không thể khinh suất đến mức ấy.
 
 "Hừm... Tóm lại là thiên hạ xem tôi như một kẻ vừa nhát gan vừa nguy hiểm sao? Đại khái thế nhỉ? Coi bộ tôi chẳng có điểm gì đáng khen rồi."
 
-"Sao ngài lại nghĩ theo hướng đó chứ, thưa ngài Rentt...? Thôi thì... chuyện đó cứ tạm gác lại đã. Có điều, dẫu chúng tôi có đào xới kỹ đến đâu thì vẫn có một thứ không tài nào tra ra nổi," Sharl vừa nói vừa đặt tay lên trán, chầm chậm lắc đầu. Tôi nghiêng đầu tỏ vẻ khó hiểu.
+"Sao ngài lại nghĩ theo hướng đó chứ, thưa ngài Rentt...? Thôi thì... chuyện đó cứ tạm gác lại đã. Có điều, dẫu chúng tôi có đào xới kỹ đến đâu thì vẫn có một thứ không tài nào tra ra nổi," Sharl vừa nói vừa đặt tay lên trán, chầm chậm lắc đầu. Tôi nghiêng đầu khó hiểu.
 
 "Hửm? Là chuyện gì thế ngài?"
 
-"Quê quán của ngài đấy, thưa ngài Rentt. Chà, chúng tôi biết ngài đến từ Đế Quốc Rermutt, nhưng ngoài chuyện đó ra thì chịu, chẳng thể tìm thêm được gì nữa. Không rõ tôi có thể mạn phép hỏi ngài sinh ra ở đâu không?"
+"Quê quán của ngài đấy, thưa ngài Rentt. Chà, chúng tôi biết ngài đến từ Đế Quốc Rermutt, nhưng ngoài chuyện đó ra thì không sao tìm hiểu thêm được gì hơn. Không rõ tôi có thể mạn phép hỏi ngài sinh ra ở đâu không?"
 
-"Hả...? Tôi, Rentt Faina này, mà lại là người Đế Quốc Rermutt á?" — suýt nữa thì tôi buột miệng thốt ra câu đó. Cơ mà tôi từng nghe nói Lorraine và Sheila đã hợp sức che bớt lai lịch của mình, nên cũng chẳng ngạc nhiên cho lắm.
+"Hả...? Tôi, Rentt Faina này, mà lại là người Đế Quốc Rermutt á?", suýt nữa thì tôi đã buột miệng hỏi vậy. Cơ mà tôi từng nghe nói Lorraine và Sheila đã hợp sức che giấu bớt lai lịch của mình, nên cũng chẳng ngạc nhiên cho lắm.
 
-Sheila vốn có quyền xem hồ sơ ở Hội Mạo Hiểm Giả, hẳn cô đã sửa vài chỗ trong giấy tờ rồi đăng ký thông tin này dưới sự trợ giúp của Lorraine. Nếu tôi đoán không nhầm, mối quan hệ thân thiết giữa tôi với Lorraine khiến người ta dễ nghĩ tôi cùng quê với cô. Mạo hiểm giả lắm kẻ lai lịch mập mờ, cái nghề này vốn dĩ là vậy mà.
+Sheila vốn có quyền xem hồ sơ ở Hội Mạo Hiểm Giả, hẳn cô đã sửa vài chỗ trong giấy tờ rồi đăng ký thông tin này dưới sự trợ giúp của Lorraine. Nếu tôi đoán không nhầm, chính vì tôi vốn thân thiết với Lorraine nên việc khai tôi cùng quê với cô sẽ hợp lý hơn cả. Mạo hiểm giả thường có lai lịch mập mờ, nhưng bản chất cái nghề này vốn vậy rồi.
 
-Tôi hoàn toàn có thể nói thật cho Sharl nghe, nhưng trước mặt một thương nhân thì đâu thể hớ hênh như vậy được. Tôi có hơi kỳ quặc thật, nhưng hiếm ai lại đi điều tra người khác ráo riết đến thế. May mà hồi làm giả thân phận, chúng tôi đã lo liệu chu toàn từng li từng tí. Thậm chí chuyện tôi giáp mặt một thương gia thế này cũng nằm trong số vô vàn kịch bản mà Lorraine từng tính tới.
+Tôi hoàn toàn có thể nói thật cho Sharl nghe, nhưng trước mặt một thương nhân thì đâu thể hớ hênh như vậy được. Tôi có hơi kỳ quặc thật, nhưng hiếm ai lại đi điều tra người khác ráo riết đến thế. May mà hồi tạo dựng thân phận mới cho tôi, chúng tôi đã lo liệu chu toàn từng li từng tí. Thậm chí chuyện tôi giáp mặt một thương nhân thế này cũng nằm trong số vô vàn kịch bản mà Lorraine từng tính tới.
 
-"Cũng chẳng có gì thần bí đâu ngài, ha ha. Ngài đã nghe qua về Thành Phố Cơ Giới Aavan bao giờ chưa? Dĩ nhiên là ở Đế Quốc Rermutt rồi."
+"Chuyện đó cũng chẳng có gì bí mật đâu ngài, ha ha. Ngài đã từng nghe nói đến Thành Phố Cơ Giới Aavan chưa? Dĩ nhiên là ở Đế Quốc Rermutt rồi."
 
-Tôi chẳng biết ất giáp gì về nơi đó cả. Đến còn chưa từng đặt chân tới bao giờ cơ mà. Chẳng qua Lorraine từng kể cho tôi nghe nên tôi mới biết thôi.
+Thật ra tôi chẳng biết gì mấy về nơi đó. Thậm chí tôi còn chưa từng đặt chân tới bao giờ. Chẳng qua Lorraine từng kể cho nghe nên tôi mới biết chút ít mà thôi.
 
-Chẳng hạn, tôi biết đó là thành phố của sắt thép, ma pháp và dầu máy. Nơi ấy cực kỳ phát triển, nhan nhản đủ loại ma cụ cùng máy móc cơ khí, quy tụ vô số thợ máy lẫn ma pháp sư. Đội ngũ công nhân và thợ thủ công ở đó ngày đêm miệt mài làm ra các sản phẩm mới, biến nơi này thành thỏi nam châm hút người đổ về kiếm sống. Có điều, tôi cũng chẳng rõ liệu đó có phải là nguyên do khiến Aavan có nhiều trẻ mồ côi đến vậy hay không, những đứa trẻ phải cặm cụi mưu sinh bằng việc làm người hầu hay chân sai vặt.
+Chẳng hạn, tôi biết đó là thành phố của sắt thép, ma pháp và dầu mỏ. Nơi ấy rất phát triển, tràn ngập đủ loại ma cụ cùng máy móc cơ khí, quy tụ vô số thợ máy lẫn ma pháp sư. Những người thợ và nghệ nhân ở đó làm việc quần quật suốt ngày đêm để cho ra đời các sản phẩm mới. Bởi vậy mà biết bao người đã đổ về đây tìm việc làm. Có điều, tôi không rõ liệu đó có phải là nguyên do khiến Aavan có nhiều trẻ mồ côi làm người hầu hay chân phụ việc đến thế không.
 
-Biết bao người từ các khu ổ chuột đã lặn lội tới Aavan với hy vọng kiếm được miếng ăn nuôi thân. Còn tôi cũng sắm vai một đứa trẻ mồ côi như thế—hoặc chí ít thì lai lịch dựng sẵn của tôi là vậy.
+Biết bao người từ các khu ổ chuột đã lặn lội tới Aavan với hy vọng kiếm được miếng ăn nuôi thân. Còn tôi cũng sắm vai một đứa trẻ mồ côi như thế, hoặc chí ít thì câu chuyện về lai lịch của tôi là vậy.
 
-Thế rồi, tôi miêu tả bầu không khí cùng mùi hương đặc trưng của Aavan dựa trên những chi tiết còn đọng lại từ mấy bức vẽ phác Lorraine từng cho xem. Về phần Sharl, trông ông ta có vẻ đã xuôi tai.
+Thế rồi, tôi kể thêm về bầu không khí cùng cái mùi đặc trưng của Aavan dựa trên những chi tiết tôi còn nhớ từ mấy bức phác thảo mà Lorraine từng cho xem. Về phần Sharl, trông ông có vẻ đã tin.
 
 "Ra vậy. Hóa ra là thế..."
 
-Chỉ nhìn thoáng qua thì khó mà biết vị thương nhân có tin lời tôi hay không. Nhưng coi bộ những gì tôi nói cũng đủ sức thuyết phục đôi phần. Tôi đã trả lời kha khá câu hỏi của ông ta, và mong là mình không phạm phải sai lầm chết người nào...
+Chỉ nhìn thoáng qua thì khó mà biết vị thương nhân có tin lời tôi hay không. Nhưng coi bộ những gì tôi nói cũng đủ sức thuyết phục đôi phần. Tôi đã trả lời kha khá câu hỏi của ông, và mong là mình không phạm phải sai lầm chết người nào...
 
 Tôi thầm nhủ lát nữa phải hỏi Lorraine xem mình ứng khẩu như vậy đã ổn thỏa chưa.
 

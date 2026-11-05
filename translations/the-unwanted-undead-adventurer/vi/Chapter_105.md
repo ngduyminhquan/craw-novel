@@ -2,7 +2,7 @@
 
 Đợi Sharl quỳ gối ngay ngắn vào chỗ, Nive giơ tay ra, giữ cách đỉnh đầu vị thương nhân một quãng. Các ngón tay cô khum lại, như thể đang định vốc lấy thứ gì.
 
-Tôi lờ mờ thấy từng vệt Thần Lực le lói tụ lại trong lòng bàn tay cô.
+Tôi lờ mờ thấy những vệt Thần Lực đang tụ lại trong lòng bàn tay cô.
 
 Ma Lực mắt thường không thấy được, nhưng Thần Lực thì hơi khác một chút. Chỉ cần tập trung, người ta vẫn có thể lờ mờ nhận ra. Đứng từ xa thì dĩ nhiên gần như không thể thấy, nhưng ở khoảng cách gần thế này thì với tôi chẳng thành vấn đề.
 
@@ -10,13 +10,13 @@ Có điều, khối Thần Lực cô đang ngưng tụ trước mắt tôi đậ
 
 Nive Maris tuy mang tước vị Nữ Chuẩn Nam tước, nhưng xét cho cùng vẫn là một mạo hiểm giả. Thật bất ngờ khi thấy một người có trữ lượng Thần Lực khổng lồ đến thế lại bôn ba nơi hoang dã như vậy. Bình thường, những ai sở hữu ngần ấy Thần Lực ắt đã sớm nhận được lời mời từ các giáo đoàn hay các đoàn thánh kỵ sĩ. Các tổ chức ấy hẳn sẽ tìm đủ mọi cách để chèo kéo những nhân tài như cô vào hàng ngũ của mình.
 
-Nghĩ vậy, tôi đoán Nive chắc hẳn phải có toan tính riêng. Rất có thể là chuyện săn Ma Cà Rồng, xét theo tất cả những gì tôi quan sát được từ nãy đến giờ.
+Nghĩ vậy, tôi đoán Nive chắc hẳn phải có mục đích riêng. Rất có thể là chuyện săn Ma Cà Rồng, xét theo tất cả những gì tôi quan sát được từ nãy đến giờ.
 
-Một tiếng 'bụp' khẽ vang lên, rồi ngọn lửa nhỏ lập lòe hiện ra giữa đôi bàn tay khum lại của Nive. Đó tuyệt nhiên không phải một ngọn lửa bình thường. Nó tỏa ánh sáng êm dịu, mang sắc trắng rực rỡ. Thật kỳ bí làm sao...
+Một tiếng bụp khẽ vang lên, rồi ngọn lửa nhỏ bập bùng hiện ra giữa hai bàn tay khum lại của Nive. Đó tuyệt nhiên không phải một ngọn lửa bình thường. Nó tỏa ánh sáng êm dịu, mang sắc trắng rực rỡ. Thật kỳ bí làm sao...
 
 Có điều, tôi biết rõ ngọn lửa kia chính là do Thần Lực ngưng tụ lại mà thành.
 
-"Thánh Hỏa đấy, thấy chưa? Ngay cả trong giới dùng Thần Lực, cũng chỉ ai được trời phú cho trữ lượng dồi dào, lại khổ luyện thuần thục mới cụ thể hóa được nó ra thôi. Có thể xem đây là một dạng ngọn lửa thần thánh trú ngụ bên trong mỗi người đấy."
+"Thánh Hỏa đấy nhé! Ngay cả trong giới dùng Thần Lực, cũng chỉ ai được trời phú cho trữ lượng dồi dào, lại khổ luyện thuần thục mới cụ thể hóa được nó ra thôi. Nó là một dạng ngọn lửa thần thánh trú ngụ bên trong mỗi người đấy."
 
 Myullias đứng quan sát bên cạnh, nhìn ngọn lửa với vẻ mặt vừa ngỡ ngàng vừa hiếu kỳ.
 
@@ -24,15 +24,15 @@ Myullias đứng quan sát bên cạnh, nhìn ngọn lửa với vẻ mặt vừ
 
 Nive vừa bảo kỹ thuật này là ngón nghề độc nhất vô nhị của riêng mình, nhưng câu hỏi của Myullias lại cho thấy không ít người cũng làm được điều tương tự.
 
-Myullias nói tiếp: "Người nhận được ân phước từ Thánh Hỏa thường bộc lộ những năng lực riêng biệt tùy theo thể chất mỗi người. Cách thức vận dụng nó nhiều vô kể. Tôi đoán Thánh Hỏa của Tiểu thư Nive đã được chuyên hóa để phát hiện Ma Cà Rồng... Cũng có khả năng đó..."
+Myullias nói tiếp: "Người nhận được ân phước từ Thánh Hỏa thường bộc lộ những năng lực riêng biệt tùy theo tố chất của mỗi người. Cách thức vận dụng nó nhiều vô kể. Tôi đoán Thánh Hỏa của Tiểu thư Nive đã được chuyên hóa để phát hiện Ma Cà Rồng... Cũng có khả năng đó..."
 
 Xem ra Myullias rất dè dặt, nhất quyết không chịu khẳng định điều gì chắc chắn.
 
-Nếu dốc sức khổ luyện vì mục tiêu đó, liệu mình có dùng được thứ tương tự không nhỉ? Rồi liệu khi ấy mình có nhận được loại sức mạnh đặc biệt nào từ nó không? Chẳng hiểu sao, tôi lại cảm thấy năng lực của mình cùng lắm cũng chỉ dừng ở mức ủ phân hay bón thêm dưỡng chất cho cây cỏ mà thôi...
+Nếu dốc sức khổ luyện vì mục tiêu đó, liệu tôi có dùng được thứ tương tự không nhỉ? Rồi liệu khi ấy tôi có nhận được loại sức mạnh đặc biệt nào từ nó không? Chẳng hiểu sao, tôi lại cảm thấy năng lực của mình cùng lắm cũng chỉ dừng ở mức tạo ra hay tăng chất lượng phân bón cho cây trồng mà thôi...
 
 Tôi quay sang Myullias. "Tiểu thư Myullias cũng dùng được ngọn lửa như vậy sao?"
 
-"Với tôi thì chuyện đó gần như không tưởng... Tôi không có lượng Thần Lực khổng lồ dường ấy, cũng chẳng đủ trình độ và kỹ thuật để làm được như vậy."
+"Với tôi thì chuyện đó gần như không tưởng... Tôi không có lượng Thần Lực khổng lồ đến thế, cũng chẳng đủ trình độ và kỹ thuật để làm được như vậy."
 
 "Vậy trong Giáo Hội Lobelia có bao nhiêu người làm được như thế...?"
 
@@ -40,21 +40,21 @@ Tôi quay sang Myullias. "Tiểu thư Myullias cũng dùng được ngọn lửa
 
 Câu trả lời của cô cho thấy rõ tôi vừa hỏi một điều không nên hỏi.
 
-Dù vậy, cô vẫn nói tiếp: "Tôi không tiện nhắc tới giáo hội, nhưng nhìn chung rất ít người sử dụng Thần Lực đạt tới trình độ này. Một tổ chức thông thường có lẽ chỉ có... tầm hai, ba người là cùng. Theo những gì tôi biết thì là vậy."
+Dù vậy, cô vẫn nói tiếp: "Tôi không nói cụ thể về giáo hội trong chuyện này, nhưng nhìn chung rất ít người sử dụng Thần Lực đạt tới trình độ đó. Một tổ chức thông thường có lẽ chỉ có... tầm hai, ba người là cùng. Theo những gì tôi biết thì là vậy."
 
-Rất có thể cô đã ngầm gộp giáo hội vào danh sách 'những tổ chức thông thường' ấy. Một câu giải thích tuy úp mở nhưng cũng đủ thỏa mãn thắc mắc.
+Rất có thể cô đã ngầm gộp giáo hội vào danh sách "những tổ chức thông thường" ấy. Một lời giải thích ngắn gọn nhưng vẫn đủ thông tin.
 
-Từ những gì nghe được về Nive và chiến tích của cô, tôi từng ngỡ cô phải là người cực kỳ cứng nhắc. Ai ngờ Nive lại chẳng giống người của giáo phái chút nào.
+Từ những gì nghe được về Nive và chiến tích của cô, tôi từng ngỡ cô phải là người cực kỳ cứng nhắc. Ai ngờ Nive lại chẳng có vẻ gì là người sùng đạo cả.
 
 Nghĩ kỹ lại thì... Nive quả thực chẳng sùng đạo gì, nhưng mấy câu châm chọc bóng gió cô nhắm vào giáo hội cùng các tổ chức tương tự cũng đủ làm bất kỳ ai phát cáu. Đã thế cái giọng điệu của cô lúc nói ra lại còn...
 
-Trong lúc tôi còn mải nghĩ vẩn vơ, ngọn lửa trắng giữa hai lòng bàn tay Nive đã phình to đến mức đáng kinh ngạc. Nó bốc cao chạm tới trần nhà, chỉ cách vài phân nữa là những lưỡi lửa đã liếm vào dầm phòng. Nếu Sharl mà thấy cảnh này, chắc chắn ông ấy sẽ khiếp vía. May cho ông là đôi mắt vẫn đang nhắm nghiền, và có lẽ đó chính là sự cứu rỗi cho tinh thần của ông lúc này. Dù sao thì rơi vào cảnh bị ngọn lửa khổng lồ dường ấy ụp ngay trên đầu, ai mà chẳng nghĩ mình cầm chắc cái chết.
+Trong lúc tôi còn mải nghĩ vẩn vơ, ngọn lửa trắng giữa hai lòng bàn tay Nive đã phình to đến mức đáng kinh ngạc. Nó đã vươn cao lên sát trần nhà, chỉ còn cách trần phòng vài phân nữa thôi. Nếu Sharl mà thấy cảnh này, chắc chắn ông sẽ phải giật mình kinh ngạc. May cho ông là đôi mắt vẫn đang nhắm nghiền, và có lẽ đó chính là sự cứu rỗi cho ông lúc này. Dù sao thì rơi vào cảnh bị ngọn lửa khổng lồ cỡ đó ụp ngay trên đầu, ai mà chẳng nghĩ mình cầm chắc cái chết.
 
 Cả một cột lửa sừng sững bốc lên rành rành như thế, vậy mà căn phòng lại chẳng hề oi bức hay ngột ngạt. Đứng ở chỗ mình, tôi thậm chí chẳng thấy cảm giác gì. Tuyệt nhiên không có chút hơi nóng nào tỏa ra từ ngọn lửa.
 
-Ngước nhìn lên, ngọn lửa trông như đang táp dữ dội vào các thanh xà trần, thế nhưng tôi không hề thấy bất kỳ vết cháy xém hay hư hại nào. Xem ra ngọn Thánh Hỏa này của cô về căn bản khác hẳn với thứ lửa bình thường mà tôi vẫn quen thuộc.
+Ngước nhìn lên trần nhà, ngọn lửa trông như đang táp dữ dội vào các thanh xà ngang, thế nhưng tôi không hề thấy bất kỳ vết cháy xém hay hư hại nào. Xem ra ngọn Thánh Hỏa này của cô về căn bản khác hẳn với thứ lửa bình thường mà tôi vẫn quen thuộc.
 
-Ngay sau đó, Nive hé mở hai bàn tay đang khum lại. Tựa như một dòng nước êm đềm, Thánh Hỏa trút xuống người vị thương nhân, từng giọt sáng trắng muốt tí tách rơi xuống thân thể ông.
+Ngay sau đó, Nive hé mở hai bàn tay đang khum lại. Tựa như một dòng nước lặng lẽ, Thánh Hỏa trút xuống người vị thương nhân, từng giọt sáng trắng muốt nhỏ giọt xuống thân thể ông.
 
 Lửa kìa! Sharl sắp bốc cháy mất!
 
@@ -64,9 +64,9 @@ Từng giọt cứ thế tiếp tục rơi xuống, lặp đi lặp lại cảnh
 
 "Vậy là rõ nhé! Có vẻ ngài Sharl đây chẳng phải Ma Cà Rồng gì hết! Được rồi! Người tiếp theo nào!" Nive gần như reo toáng lên khi bắt gặp ánh mắt tôi.
 
-Nghe thấy thế, Sharl mở mắt ra, thở phào nhẹ nhõm một hơi rõ to.
+Nghe thấy thế, Sharl mở mắt ra, thở phào nhẹ nhõm thành tiếng.
 
-Nhưng sao cô ta lại nói cứ như thể đang đứng làm việc ở dây chuyền sản xuất thế này?
+Nhưng sao cô lại nói cứ như thể đây là một dây chuyền sản xuất thế này?
 
 Dù rất muốn nói thẳng câu đó với Thợ Săn Ma Cà Rồng Nive Maris, nhưng cô đâu phải người tôi có thể tùy tiện đôi co. Dù thế nào chăng nữa, tôi cũng không thể liều mạng để mình bị kiểm tra y như Sharl được.
 
@@ -98,7 +98,7 @@ Nhưng Nive thì...
 
 "Tôi hiểu cảm giác của ngài mà... Hừm. Hay là do tôi đa nghi nhỉ? Ngài Rentt này... nãy giờ ngài cứ lấm la lấm lét sao ấy nhỉ? Lại còn hơi né tránh nữa... Hay là ngài cảm thấy không khỏe trong người à?" Nive khẽ nghiêng đầu nói. Tia sáng quen thuộc ấy lại lóe lên trong mắt cô. Đó chính là ánh mắt cô từng dùng khi tra vấn Sharl về khả năng ông là Ma Cà Rồng.
 
-Tôi như nghe thấy tiếng mình nuốt nước bọt đánh ực trong bụng. Âm thanh ấy vang rền cả tâm trí, nhưng tôi tuyệt đối không để lộ ra nét mặt.
+Tôi như nghe thấy tiếng mình nuốt nước bọt đánh ực trong tâm tưởng. Âm thanh ấy vang rền cả tâm trí, nhưng tôi tuyệt đối không để lộ ra nét mặt.
 
 Bình tĩnh nào...
 
@@ -110,7 +110,7 @@ Nive như thể đã bị thuyết phục, chậm rãi gật đầu. "Thật ra 
 
 Dứt lời, Nive giơ một cánh tay về phía tôi. Những dải lửa trắng bắn vọt ra nhanh đến mức mắt thường không thể theo kịp, và toàn bộ đều nhắm thẳng vào tôi.
 
-Hỏng rồi. Tôi buộc phải né chúng, nhưng... Quả không hổ danh mạo hiểm giả Kim Cấp, cô nhắm bắn chuẩn xác đến kinh người. Không chỉ chuẩn xác thông thường, từng dải lửa của Nive không hề trượt một tia nào. Tôi chỉ biết nuốt nước mắt vào trong trước thực lực và trình độ còn quá non kém của mình.
+Hỏng rồi. Tôi buộc phải né chúng, nhưng... Quả không hổ danh mạo hiểm giả Kim Cấp, cô nhắm bắn chuẩn xác đến kinh người. Không chỉ chuẩn xác thông thường, chẳng một dải lửa nào của Nive đi chệch đích. Tôi chỉ biết khóc thầm trong bụng trước thực lực và trình độ còn quá non kém của mình.
 
 Dù thể xác hiện tại đem lại cho tôi bao nhiêu sức mạnh và ưu thế, tôi vẫn quá nhỏ bé khi đặt cạnh một mạo hiểm giả Kim Cấp đang mấp mé bước chân vào Bạch Kim Cấp.
 
@@ -124,21 +124,21 @@ Hàng trăm cảm xúc cuộn xoáy như bão táp trong tâm trí tôi.
 
 Thế rồi...
 
-"...Ủa. Cũng... đâu có sao. Thật ra chẳng thấy nóng chút nào..."
+"...Hử. Cũng... đâu có gì ghê gớm. Thật ra chẳng thấy nóng chút nào..."
 
 Kỳ lạ thay, hoàn toàn ngoài dự liệu, chẳng có gì bất thường xảy ra cả. Có thể chỉ là cảm giác chủ quan, nhưng theo những gì tôi thấy thì dù ngọn lửa đang bốc lên ngùn ngụt, bản thân tôi vẫn không có điểm nào khác lạ.
 
-Thế nghĩa là... mình qua ải rồi ư?
+Thế nghĩa là... tôi qua ải rồi ư?
 
 Một thoáng hân hoan dâng lên trong lòng, như thể tôi vừa thắng một canh bạc.
 
-Lẽ ra tôi phải biết ngọn lửa ấy chẳng hề nóng từ trước rồi mới phải, nhất là khi đã tận mắt thấy Sharl. Tập trung cảm nhận lại ngọn lửa, đó quả thực là một cảm giác rất đỗi lạ kỳ. Nếu phải diễn tả bằng lời, cảm giác ấy giống như ngọn lửa đang cù tôi vậy. Từng luồng lửa như đang len lỏi chọc ngoáy vào bên trong, dò xét khắp mọi ngóc ngách cơ thể tôi.
+Lẽ ra tôi phải biết ngọn lửa ấy chẳng hề nóng từ trước rồi mới phải, nhất là khi đã tận mắt thấy Sharl. Khi tập trung cảm nhận lại ngọn lửa, tôi thấy cảm giác ấy quả thực rất kỳ lạ. Nếu phải diễn tả bằng lời, cảm giác ấy giống như ngọn lửa đang cù tôi vậy. Từng luồng lửa như đang len lỏi chọc ngoáy vào bên trong, dò xét khắp mọi ngóc ngách cơ thể tôi.
 
 ![](images/ch105-01.webp)
 
-Thở phào nhẹ nhõm khi thấy mọi chuyện êm xuôi, tôi bắt đầu tận hưởng cảm giác ấy. Thậm chí dường như Thần Lực bên trong tôi cũng trở nên rộn ràng, dồi dào sinh khí hơn.
+Thấy mọi chuyện êm xuôi, tôi thở phào nhẹ nhõm rồi bắt đầu tận hưởng cảm giác ấy. Thậm chí dường như Thần Lực bên trong tôi cũng trở nên rộn ràng, dồi dào sinh khí hơn.
 
-Hay là do mình tưởng tượng nhỉ? Cơ mà cứ giữ nguyên trạng thái thế này thêm một lúc cũng chẳng tệ chút nào... Cảm giác này rất giống khi người ta ngâm mình vào bồn nước nóng.
+Hay là do tôi tưởng tượng nhỉ? Cơ mà cứ giữ nguyên trạng thái thế này thêm một lúc cũng chẳng tệ chút nào... Cảm giác này rất giống khi người ta ngâm mình vào bồn nước nóng.
 
 Nhưng tôi đâu thể cứ đứng mãi thế này. Sau một hồi, cảm giác như được xoa bóp và chọc nhẹ từ sâu bên trong cơ thể dần dần tan biến. Ngọn lửa bao quanh cũng nhanh chóng lụi tàn.
 
@@ -148,6 +148,6 @@ Khi ngọn lửa trắng đã tan biến hoàn toàn, dường như đã kiểm 
 
 Đâu có, tôi là Ma Cà Rồng đích thực mà!
 
-Tôi chỉ muốn chỉ thẳng vào mình mà đính chính cho Nive biết, nhưng thôi đành nín nhịn cho qua. Trời đất ơi, tôi thèm được nói toạc ra với cô ấy biết chừng nào, dẫu biết chỉ cần thốt ra lời đó thì cái chết chắc chắn đang chực chờ nuốt chửng lấy tôi...
+Tôi chỉ muốn chỉ ra ngay điểm này cho Nive biết, nhưng thôi đành nhịn xuống cho qua. Trời đất ơi, tôi thèm được nói toạc ra với cô biết chừng nào, dẫu biết chỉ cần thốt ra lời đó thì cái chết chắc chắn đã chực chờ sẵn...
 
 May sao, chuyện dại dột đó đã không xảy ra.
