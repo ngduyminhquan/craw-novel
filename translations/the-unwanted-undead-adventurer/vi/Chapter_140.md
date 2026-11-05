@@ -1,177 +1,177 @@
 # Chương 140: Tập 6 Chương 2 - Tiệc Chào Mừng Và Nguồn Gốc Của Rentt (3)
 
-Thị trấn quả là một cảnh tượng choáng ngợp đối với tôi. Dĩ nhiên, nó thậm chí còn chẳng lớn bằng Maalt, chứ chưa nói đến những thành phố khác. Nhưng với tôi hồi đó, cảm giác chẳng khác nào tôi vừa đặt chân đến một đô thị lớn. Các cửa tiệm bày bán đủ thứ mà làng tôi không có, người dân ăn mặc đẹp hơn bất kỳ ai ở quê nhà, còn những tòa nhà thì sừng sững cao hơn bất cứ thứ gì tôi từng thấy.
+Cảnh tượng thị trấn lúc đó làm tôi hoa cả mắt. Dĩ nhiên, nó còn chẳng lớn bằng Maalt, huống chi là các thành phố khác. Nhưng với tôi hồi ấy, cảm giác chẳng khác nào vừa đặt chân đến chốn đô hội phồn hoa. Các cửa tiệm bày bán đủ thứ mà ở làng chẳng hề có, người ta ăn mặc đẹp hơn bất cứ ai ở quê tôi, còn nhà cửa thì cao hơn mọi thứ tôi từng thấy trên đời.
 
-Jinlin và tôi rôm rả bàn tán về những tòa nhà đó, tự hỏi không biết có quý tộc nào sống ở đó không và lâu đài của các vị vua liệu có còn to lớn hơn thế nữa. Thật là vui, và điều đó khiến tôi nhận ra Hathara nhỏ bé và khiêm nhường đến nhường nào. Nhưng nó chẳng khiến tôi chán ghét quê nhà mình, mà đúng hơn là đã mở mang cho tôi thấy thế giới ngoài kia còn có những gì.
+Jinlin và tôi rôm rả bàn tán về những tòa nhà ấy, tự hỏi liệu có quý tộc nào sống bên trong không, rồi lâu đài của nhà vua thì còn đồ sộ đến mức nào. Vui thì vui thật, nhưng cảnh ấy cũng làm tôi thấy Hathara quê mình nhỏ bé và vô danh biết bao. Có điều, nó không khiến tôi chán ghét quê hương, mà chỉ cho tôi thấy thế giới ngoài kia còn rộng lớn biết chừng nào.
 
-Tôi không rõ Jinlin cảm thấy thế nào, nhưng có lẽ cô bé cũng nghĩ tương tự. Giờ nhìn lại, tôi thấy mừng vì mình đã có thể nhìn thấy những mặt tốt đẹp của cả Hathara lẫn nơi phố thị. Rất nhiều ngôi làng rơi vào cảnh cơ hàn và khó bề sinh sống, nhưng Hathara vẫn đủ ấm no bất chấp vị trí hẻo lánh của nó. Dù vậy, lúc đó hai đứa tôi đều quá đỗi phấn khích nên chẳng hơi đâu bận tâm đến những điều ấy.
+Tôi chẳng rõ Jinlin nghĩ gì, nhưng chắc cậu ấy cũng thấy vậy. Giờ nhìn lại, tôi mừng vì hồi đó mình đã nhận ra nét hay của cả Hathara lẫn chốn thị thành. Không ít ngôi làng nghèo xơ xác, sống rất chật vật, còn Hathara dẫu hẻo lánh nhưng vẫn đủ sống. Cơ mà lúc đó hai đứa đang mải phấn khích, hơi đâu nghĩ sâu xa được như vậy.
 
-Vừa lúc hai đứa bắt đầu thấm mệt vì đi dạo quanh, Jinlin liền hỏi, "Rentt, cậu có nghe thấy tiếng ai đó không?"
+Đi loanh quanh một hồi, vừa lúc hai đứa bắt đầu thấy mỏi chân thì Jinlin hỏi, "Rentt, cậu có nghe thấy tiếng ai không?"
 
-"Không, tớ chẳng nghe thấy gì cả," tôi đáp. Nhưng chỉ một thoáng sau, tôi liền nghe thấy một giọng nói đang hét lên cầu cứu. Giọng the thé kỳ lạ đến mức nghe không giống giọng con người chút nào.
+"Không, tớ có nghe thấy gì đâu," tôi đáp. Nhưng chỉ một thoáng sau, chính tai tôi cũng nghe thấy tiếng ai đó đang hét lên cầu cứu. Tiếng kêu the thé kỳ lạ, nghe chẳng giống giọng con người chút nào.
 
-Giật mình kinh ngạc, tôi dáo dác nhìn quanh để tìm nơi phát ra âm thanh. Jinlin cũng làm vậy, nhưng hai đứa chẳng thấy gì cả.
+Giật mình, tôi dáo dác nhìn quanh tìm xem tiếng kêu phát ra từ đâu. Jinlin cũng ngó nghiêng khắp nơi, nhưng hai đứa chẳng thấy bóng dáng ai cả.
 
-"Có khi ai đó đang bày trò trêu chọc thôi," tôi gợi ý.
+"Có khi ai đó bày trò trêu mình thôi," tôi đoán.
 
-Jinlin lắc đầu nguầy nguậy. "Làm gì có chuyện đó! Tớ biết rõ mình nghe thấy gì mà!"
+Jinlin lắc đầu. "Làm gì có chuyện đấy! Rõ ràng tớ nghe thấy mà!"
 
-Tiếng kêu ấy quả thực rất to và rõ ràng, và dẫu đây có là một trò đùa đi chăng nữa thì âm thanh ắt hẳn phải phát ra từ đâu đó. Hai đứa lùng sục khắp nơi, rồi một lúc sau, giọng nói nọ dường như phát ngấy và bảo hai đứa hãy ngước nhìn lên trên. Tôi thậm chí còn chẳng nhận ra là nãy giờ hai đứa chưa hề làm vậy, nhưng con người ta vốn hiếm khi để ý đến những gì ở phía trên đầu mình.
+Tiếng kêu ấy quả thực rất to và rõ, mà dù có là trò đùa đi nữa thì ắt hẳn nó cũng phải phát ra từ đâu đó. Hai đứa lùng sục khắp nơi, một lúc sau thì cái giọng kia có vẻ hết chịu nổi, bèn bảo hai đứa ngước lên. Tôi còn chẳng nhận ra nãy giờ hai đứa chưa hề nhìn lên, cơ mà con người vốn hiếm khi để ý đến những gì ở trên đầu mình.
 
-Hai đứa làm theo lời giọng nói nọ và nhìn thấy một cành cây dài. Quần áo của một người tí hon bị mắc vào đầu cành cây, cả người lơ lửng giữa không trung. Nói là tí hon, ý tôi không phải là một đứa trẻ con đâu. Người đó chỉ cao vỏn vẹn chừng mười lăm phân, trông chẳng khác nào một món đồ chơi.
+Hai đứa làm theo lời chỉ dẫn thì thấy một cành cây dài vươn ra. Ở đầu cành, vạt áo của một người tí hon bị móc vào, cả người cứ thế đung đưa giữa không trung. Bảo là tí hon, chứ ý tôi không phải đứa trẻ con đâu nhé. Người đó chỉ cao chừng mười lăm phân, trông hệt như một món đồ chơi.
 
-Tôi sững sờ kinh ngạc, nhưng Jinlin thì không. Cô bé biết rõ thứ mình đang nhìn thấy là gì. "Rentt! Đó là một nàng tiên đấy! Mẹ bảo chúng gần như chẳng bao giờ xuất hiện trước mặt con người cả!" cô bé phấn khích thốt lên.
+Tôi trố mắt kinh ngạc, nhưng Jinlin thì không. Cô bé biết ngay mình đang nhìn thấy gì. "Rentt! Nàng tiên đấy! Mẹ tớ bảo họ chẳng mấy khi chịu xuất hiện trước mặt con người đâu!" cô bé hào hứng reo lên.
 
-Tôi thì không hào hứng đến thế. "Hai đứa mình không giúp sao? Trông như không tự gỡ ra được kìa."
-
-◆◇◆◇◆
-
-"Anh chẳng biết phấn khích trước điều gì à? Nếu hồi năm tuổi mà tôi bắt gặp một nàng tiên thì tôi cũng sẽ sướng rơn như Jinlin thôi. Giống như một đứa trẻ bình thường ấy," Lorraine nhận xét.
-
-"Thì tôi ít ra cũng có chút phấn khích mà, nhưng trông nàng tiên đó đau đớn khổ sở lắm. Ý tôi là nãy giờ cứ la hét suốt như thế, nên tôi nghĩ mình phản ứng biết nghĩ đấy chứ," tôi phân trần. Đó không phải là lời biện bạch, mà là sự thật.
-
-"Chà, nếu anh nói vậy thì tôi cũng phần nào hiểu được cảm giác của anh lúc đó rồi."
-
-"Phải không nào? Thôi để tôi kể tiếp nhé."
+Tôi thì chẳng hào hứng nổi như vậy. "Sao tụi mình không cứu người ta đi? Trông như không tự gỡ ra được kìa."
 
 ◆◇◆◇◆
 
-"Ồ, phải rồi. Tụi mình phải cứu người ta chứ! Nhưng làm sao bây giờ?" Jinlin nói.
+"Bộ trên đời này không có gì làm anh hào hứng được à? Hồi năm tuổi mà gặp được nàng tiên thì tôi cũng sướng rơn như Jinlin thôi. Như một đứa trẻ bình thường ấy," Lorraine nói.
 
-May thay, Jinlin và tôi đều là những đứa trẻ, nên tâm nguyện muốn giúp đỡ của chúng tôi hoàn toàn chân thành. Nhưng nàng tiên lại bị mắc trên cành của một cái cây cao. Tụi tôi không đủ với tới, mà ngay cả người lớn chắc cũng thấy khó khăn. Dẫu vậy, một người cao lớn hơn hẳn sẽ có cơ hội tốt hơn, nên tôi bèn đưa ra gợi ý.
+"Thì ít ra tôi cũng có hào hứng một chút mà, nhưng trông nàng tiên lúc đó khổ sở lắm. Ý tôi là, người ta cứ hét ầm lên suốt từ nãy đến giờ, nên tôi thấy mình lo thế là biết nghĩ đấy chứ," tôi nói. Đó chẳng phải tôi chống chế đâu, là sự thật đấy.
 
-"Đi nói với người lớn đi," tôi bảo. "Có khi họ với tới đấy." Đó dường như là cách hay nhất.
+"Chà, nghe anh nói thế thì tôi cũng hiểu được phần nào rồi."
 
-Jinlin đồng ý, nên hai đứa thử đi nhờ vài người lạ mặt quanh khu vực đó. Nghĩ lại thì đó quả là một hành động khá nguy hiểm, nhưng thị trấn trông có vẻ đủ thân thiện. Ít nhất thì chúng tôi cũng không bị bắt cóc. Nhưng lại có một vấn đề nảy sinh. Hai đứa cố giải thích rằng có một nàng tiên đang treo lơ lửng trên cành cây, nhưng chẳng một ai hiểu được. Họ nhìn lên cành cây nhưng lại tỏ vẻ như chẳng thấy gì hết.
-
-Giờ thì tôi đã biết rằng có rất nhiều loài tiên, một số loài ai nấy đều nhìn thấy được, nhưng cũng có loài chỉ những người có Ma Lực mới trông thấy. Tuy nhiên, hồi đó cả hai đứa tôi đều không biết điều ấy, nên việc đó khiến hai đứa cảm thấy mình như những kẻ nói dối. Hai đứa dám chắc đó là sự thật, nhưng chẳng một ai tin chúng tôi cả.
-
-Buồn thì buồn thật, nhưng hai đứa nhất quyết không bỏ cuộc. Nàng tiên đang bắt đầu kiệt sức, nên chúng tôi phải nhanh chóng giải cứu cô ấy.
-
-Jinlin nhận ra tính cấp bách trước cả tôi. "Rentt, tớ sẽ trèo lên cứu!" cô bé quả quyết.
-
-"Jinlin, nguy hiểm lắm! Dừng lại đi!" Tôi hét với lên từ bên dưới khi thấy cô bé bắt đầu leo lên thân cây, nhưng cô bé chẳng thèm nghe.
-
-Tôi chỉ ước sao cô bé đừng có hăng máu đến thế trước mọi chuyện, nhưng ở Hathara cô bé vốn rất giỏi trèo cây, giỏi đến bất ngờ so với một đứa trẻ lên năm. Có điều cô bé toàn trèo cùng một loại cây quen thuộc, chứ chưa hề quen với loại cây này. Cây cối trong làng chúng tôi khá thấp, mặt đất bên dưới lại là đất mềm và cỏ, nên dẫu có ngã cũng chẳng gây thương tích gì nghiêm trọng. Người lớn vẫn cho phép trèo chừng nào họ có mặt ở đó để trông chừng không xảy ra chuyện gì. Tuy nhiên, cái cây này lại hoàn toàn khác. Nó cao vút, mặt đất bên dưới thì cứng ngắc để xe ngựa có thể qua lại. Nếu một đứa trẻ mà ngã xuống thì rất dễ bị thương nặng.
-
-Mặc cho tôi can ngăn, cô bé vẫn tiếp tục trèo lên.
+"Đúng không? Thôi nghe tiếp này."
 
 ◆◇◆◇◆
 
-Đáng lẽ tôi nên đi gọi người lớn. Một khi đã có đứa trẻ đang trèo lên cái cây cao như vậy thì sẽ dễ thuyết phục họ giúp đỡ hơn nhiều. Nhưng bản thân tôi lúc đó cũng chỉ là một đứa con nít, nên đầu óc chẳng thể nghĩ ra được điều ấy. Tôi chỉ biết rằng cô bé đang gặp nguy hiểm và tôi phải kéo cô bé xuống, thế nên tôi cứ liên tục gào thét từ dưới gốc cây.
+"Ừ nhỉ, phải cứu người ta chứ! Nhưng làm cách nào bây giờ?" Jinlin nói.
+
+May mà hồi ấy Jinlin và tôi đều là trẻ con nên bụng dạ thật thà, thực lòng muốn cứu người ta. Ngặt nỗi nàng tiên lại mắc trên cành của một cái cây rất cao. Tầm với của hai đứa con nít thì chịu rồi, mà ngay cả người lớn có khi cũng thấy khó. Dù vậy, người cao lớn hơn thì cơ hội với tới vẫn nhiều hơn, nên tôi mới bảo:
+
+"Đi gọi người lớn đi," tôi bảo. "Có khi họ với tới đấy." Đó có vẻ là cách tốt nhất lúc bấy giờ.
+
+Jinlin đồng ý, thế là hai đứa thử đi nhờ mấy người lạ quanh đó. Giờ nghĩ lại thì làm thế khá liều lĩnh, may mà thị trấn có vẻ hiền hòa, chí ít hai đứa không bị bắt cóc. Nhưng khổ nỗi, hai đứa cố giải thích rằng có một nàng tiên đang lơ lửng trên cành cây mà chẳng ai hiểu nổi. Người ta nhìn lên cành cây rồi làm như chẳng thấy gì hết.
+
+Bây giờ tôi mới biết loài tiên có nhiều chủng loại, có loài ai cũng thấy được, nhưng có loài chỉ những người có Ma Lực mới nhìn ra. Khổ nỗi hồi đó hai đứa chẳng biết điều ấy, thành ra cứ như những kẻ nói dối. Rõ ràng là có thật, vậy mà chẳng ai chịu tin hai đứa cả.
+
+Buồn thì buồn thật, nhưng hai đứa nhất quyết không chịu bỏ cuộc. Nàng tiên bắt đầu đuối sức rồi, nên hai đứa phải cứu người ta thật nhanh.
+
+Jinlin sốt ruột hơn cả tôi. "Rentt, để tớ trèo lên cứu!" cô bé bảo.
+
+"Jinlin, nguy hiểm lắm! Dừng lại đi!" tôi hét với lên từ bên dưới khi thấy cô bé bắt đầu trèo lên thân cây, nhưng cậu ấy chẳng thèm nghe.
+
+Tôi chỉ mong sao cậu ấy đừng có chuyện gì cũng xốc nổi như thế, nhưng ở Hathara cô bé trèo cây cừ lắm, cừ đến bất ngờ so với một đứa trẻ lên năm. Ngặt nỗi cậu ấy toàn trèo một loại cây quen thuộc, chứ đâu đã quen với giống cây này. Cây cối trong làng tôi khá thấp, bên dưới lại là đất xốp phủ cỏ, nên lỡ có ngã cũng chẳng hề hấn gì nhiều. Người lớn vẫn cho trèo miễn là có người đứng trông chừng. Nhưng cái cây này thì khác hẳn. Nó cao chót vót, mặt đất bên dưới lại nện cứng ngắc để xe cộ qua lại. Trẻ con mà ngã từ trên đó xuống thì chấn thương nặng như chơi.
+
+Mặc kệ tôi can, cô bé vẫn cứ trèo lên.
+
+◆◇◆◇◆
+
+Đáng lẽ tôi phải đi gọi người lớn. Thấy một đứa trẻ đang trèo lên cái cây cao như thế, chắc chắn người ta sẽ dễ giúp hơn nhiều. Nhưng lúc đó tôi cũng chỉ là một đứa con nít, đầu óc đâu nghĩ ra được nước ấy. Tôi chỉ biết cậu ấy đang gặp nguy hiểm và mình phải bảo cậu ấy tụt xuống, thế là cứ đứng dưới gốc cây mà hét với lên.
 
 ![](images/ch140-01.webp)
 
-Nhưng Jinlin quá bướng bỉnh nên chẳng chịu nghe. Có lẽ cô bé quá chú tâm vào việc leo trèo và giải cứu nàng tiên đến mức không mảy may nghe thấy tiếng tôi. Tôi lo sốt vó, nhưng tài trèo cây của Jinlin thì khó mà phủ nhận được. Sau vài lần thử, cô bé đã quen dần với loại cây mới này. Cô bé thoăn thoắt đu người lên như một chú khỉ, và chẳng mấy chốc đã tới được cành cây nơi nàng tiên đang mắc kẹt. Sau đó, dĩ nhiên cô bé định bò dọc theo cành cây để ra tận đầu cành. Thú thực thì cành cây ấy không hẳn là quá mảnh. Trông nó đủ chắc để đỡ nổi một đứa trẻ con—nhưng cũng chỉ đến thế mà thôi. Trèo ra đó chắc chắn là nguy hiểm, nhưng Jinlin vẫn bò ra mà chẳng hề hấn gì.
+Nhưng Jinlin bướng lắm, chẳng chịu nghe lời đâu. Có lẽ cô bé mải mê leo trèo để cứu nàng tiên đến mức chẳng màng nghe thấy tiếng tôi. Tôi lo sốt vó, nhưng tài trèo cây của Jinlin thì phải công nhận là cừ thật. Sau mấy lần thử, cô bé đã bắt được nhịp với giống cây mới này. Cậu ấy thoăn thoắt đu người lên như khỉ, chẳng mấy chốc đã tới được cành cây nơi nàng tiên mắc kẹt. Tiếp đó, dĩ nhiên là cô bé định men theo cành để ra tận đầu ngọn. Thú thật thì cành cây ấy cũng không đến nỗi quá mảnh, trông đủ sức đỡ nổi một đứa trẻ con—nhưng cùng lắm cũng chỉ đến thế mà thôi. Bò ra ngoài đó chắc chắn là nguy hiểm, vậy mà Jinlin cứ thế bò ra ngon ơ.
 
-Tiếng cành cây răng rắc nghe rợn cả người. Tôi cứ ngỡ nó sẽ gãy lìa bất cứ lúc nào. Khi Jinlin càng tiến gần về phía đầu cành, nó lại càng oằn sâu xuống. Vậy mà cô bé vẫn cứ tiếp tục bò tới.
+Tiếng cành cây kêu răng rắc nghe mà thót cả tim, tôi cứ ngỡ nó sắp gãy lìa đến nơi. Jinlin càng bò ra gần đầu ngọn, cành cây lại càng oằn xuống. Vậy mà cô bé vẫn cứ tiếp tục rướn tới.
 
-Cô bé đưa tay về phía nàng tiên. "Nào, tớ cứu cậu đây," Jinlin thì thầm. Trông cô bé chẳng mảy may sợ ngã chút nào, nói đúng hơn là dường như còn có phần phấn khích. Việc giải cứu nàng tiên này mang lại cho cô bé cảm giác đầy kích thích.
+Cô bé chìa tay về phía nàng tiên. "Ngoan nào, tớ cứu cậu đây," Jinlin thì thầm. Trông cô bé chẳng mảy may sợ ngã chút nào, nói đúng hơn là dường như còn phấn khích nữa là đằng khác. Cứu được nàng tiên này làm cô bé hào hứng tột độ.
 
-Nàng tiên nhìn thấy bàn tay cô bé nhưng có vẻ hơi e dè khiếp sợ. Có lẽ cô ấy sợ bị bóp nát chăng. Với một sinh vật chỉ mang kích thước của một nàng tiên, một đứa trẻ loài người cũng chẳng khác nào kẻ khổng lồ. Jinlin dường như nhận ra điều này nên đã đổi cách, bò thêm một đoạn nữa dọc theo cành cây. Cô bé từ từ gỡ nàng tiên ra, nhưng đúng lúc đó...
+Nàng tiên thấy bàn tay chìa ra thì có vẻ hơi sợ sệt. Chắc là sợ bị bóp nát chăng. Ở tầm vóc tí hon của một nàng tiên, một đứa trẻ con loài người cũng chẳng khác nào kẻ khổng lồ. Jinlin dường như cũng nhận ra điều đó nên đổi ý, rướn thêm một đoạn nữa dọc theo cành cây. Cô bé từ từ gỡ nàng tiên ra, nhưng đúng lúc ấy...
 
-Rắc một tiếng, cành cây gãy lìa.
+Cành cây gãy rắc một tiếng.
 
-"Jinlin!" Tôi hét thất thanh rồi lao vụt tới ngay bên dưới chỗ cô bé. Tôi chẳng còn thời gian để suy nghĩ, và đầu óc cũng không mảy may thoáng nghĩ rằng việc này nguy hiểm và mình nên tránh ra. Tôi chỉ biết rằng Jinlin đang gặp nguy và tôi phải làm một điều gì đó.
+"Jinlin!" tôi hét lên rồi lao vụt tới ngay bên dưới chỗ cô bé. Chẳng còn thời gian đâu mà nghĩ ngợi, đầu óc tôi cũng không mảy may thoáng nghĩ chuyện này nguy hiểm và mình nên né ra. Tôi chỉ biết Jinlin đang gặp nạn và mình phải làm gì đó.
 
-Khi đang rơi xuống, Jinlin ôm chặt nàng tiên vào lòng trước ngực. Có lẽ cô bé đang cố gắng bảo vệ cô ấy. Các nàng tiên thường có thể bay lượn, nhưng nàng tiên này lại chẳng còn chút sức lực nào để làm điều đó.
+Trong lúc rơi xuống, Jinlin ôm chặt lấy nàng tiên, ghì sát vào trước ngực. Chắc cô bé muốn che chở cho người ta. Bình thường loài tiên đều bay được, nhưng nàng tiên này kiệt sức nên chẳng cất cánh nổi.
 
-Ngay trước khi Jinlin chạm đất, tôi đã kịp lao đến ngay bên dưới. Nhưng tôi còn quá nhỏ nên chẳng thể đỡ được cô bé một cách điệu nghệ. Dù vậy, ít nhất tôi cũng làm giảm bớt được lực va đập của cú ngã. Cả người cô bé đè nặng lên hai tay và lồng ngực tôi. Không thể giữ vững được, tôi ngã nhoài ra đất. Tiếng cành cây rơi chạm đất nghe êm đến bất ngờ, nhưng bản thân nó vốn đủ nhẹ để gãy dưới sức nặng của một đứa trẻ, nên có lẽ đó cũng là điều dễ hiểu.
+Ngay trước khi Jinlin chạm đất, tôi đã kịp nhào tới ngay bên dưới. Nhưng hồi đó tôi còn bé quá, làm sao đỡ cho khéo được. Dù vậy, chí ít tôi cũng đỡ bớt cú ngã cho cô bé. Cả người cậu ấy rơi đè nặng lên hai tay và ngực tôi. Giữ không nổi, tôi ngã lăn quay ra đất. Tiếng cành cây rơi xuống đất nghe êm đến bất ngờ, nhưng nó vốn nhẹ tới mức gãy dưới sức nặng của một đứa trẻ, nên thế cũng là lẽ đương nhiên.
 
-Jinlin rên rỉ đau đớn khi đang nằm đè lên người tôi.
+Nằm đè lên người tôi, Jinlin rên lên vì đau.
 
-"Jinlin, cậu có sao không?" Tôi hỏi, cơn đau nhức nhối chạy dọc khắp cơ thể.
+"Jinlin, cậu có sao không?" tôi hỏi, cơn đau nhức nhối chạy dọc khắp người.
 
 "Ừm, cũng không đau lắm đâu," cô bé đáp.
 
-Khi nhìn kỹ lại cô bé, tôi thấy dường như không có vết thương nào nghiêm trọng. Lúc ấy tôi mới biết mình đã quyết định đúng. Tiếp đó, tôi tự nhìn lại bản thân. Tôi cũng chẳng bị thương tích gì nặng nề. Tôi bị vài vết trầy xước và bầm tím, nhưng chẳng có gì tệ hơn những vết tích trước đây từng bị khi chạy nhảy nô đùa quanh làng.
+Ngó kỹ lại, thấy cô bé có vẻ không có vết thương nào nặng, lúc ấy tôi mới biết mình đã làm đúng. Rồi tôi tự kiểm tra mình, thấy bản thân cũng chẳng hề hấn gì mấy. Chỉ bị vài vết trầy xước và bầm tím, chẳng tệ hơn mấy lần ngã trầy da tróc vảy khi chạy nhảy nô đùa quanh làng.
 
-"Từ giờ đừng bao giờ làm trò nguy hiểm như thế nữa đấy," tôi nói. Đáng lẽ tôi nên mắng té tát vào mặt cô bé, nhưng lúc đó tôi chẳng làm nổi việc ấy. Đó là cách duy nhất tôi có thể bộc lộ cảm xúc của mình. Chắc hẳn vẻ mặt tôi khi ấy trông buồn bã lắm. Trong lòng tôi giận sôi sục, nhưng bản tính tôi vốn không phải kiểu người hay để lộ sự tức giận ra ngoài.
+"Từ giờ đừng bao giờ làm trò nguy hiểm như thế nữa đấy," tôi bảo. Đáng lẽ tôi phải quát cho cô bé một trận, nhưng hồi đó tôi nào làm nổi việc ấy. Tôi chỉ biết nói được đến thế. Chắc hẳn vẻ mặt tôi lúc ấy trông buồn bã lắm. Trong bụng thì giận sôi lên, nhưng bản tính tôi vốn chẳng phải kiểu người hay để lộ sự tức giận ra ngoài.
 
-"Ừm, tớ biết rồi. Tớ xin lỗi," Jinlin đáp.
+"Ừm, tớ biết rồi. Tớ xin lỗi mà," Jinlin đáp.
 
-"Jinlin, cậu chịu nghe lời thật đấy à?" Tôi ngạc nhiên hỏi.
+"Jinlin, cậu chịu nghe lời thật đấy à?" tôi ngạc nhiên hỏi.
 
-"Ừ, tại cậu đang giận mà."
+"Ừ, tại thấy cậu đang giận mà."
 
 "Thì... chắc là vậy."
 
-"Bởi thế tớ mới xin lỗi."
+"Bởi thế tớ mới xin lỗi mà."
 
-Tôi không biết liệu cơn giận của mình có phải là lý do đúng đắn để cô bé nói lời xin lỗi hay không, nhưng chừng nào cô bé nhận ra lỗi lầm của mình thì với tôi thế là ổn rồi. Ít nhất thì cô bé cũng bảo sẽ không tái phạm nữa.
+Tôi chẳng rõ việc lấy cơn giận của mình làm lý do để cô bé xin lỗi thì có đúng không, nhưng chỉ cần cậu ấy nhận ra lỗi thì với tôi thế là ổn rồi. Ít nhất thì cô bé cũng bảo sẽ không tái phạm nữa.
 
-Tôi quyết định không cằn nhằn cô bé thêm nữa. "Được rồi, tớ tha lỗi cho cậu."
+Tôi quyết định không cằn nhằn thêm nữa. "Được rồi, tha lỗi cho cậu đấy."
 
-"Thật hả? Cậu hết giận rồi sao?"
+"Thật hả? Cậu hết giận rồi à?"
 
-"Không giận nữa, nhưng nếu cậu còn tái phạm thì tớ sẽ giận đấy. Lần sau hễ tớ bảo dừng lại thì cậu phải dừng lại ngay nghe chưa."
+"Hết rồi, nhưng nếu cậu còn làm thế nữa thì tớ lại giận đấy. Lần sau hễ tớ bảo dừng lại là phải dừng lại ngay, nhớ chưa."
 
-"Được rồi," Jinlin gật đầu đồng ý.
+"Biết rồi mà," Jinlin gật đầu.
 
-Tôi thôi không rầy la cô bé nữa và khẽ mỉm cười. "Thế nàng tiên sao rồi?"
+Tôi thôi không rầy la nữa, khẽ mỉm cười. "Thế nàng tiên sao rồi?"
 
-"Ồ, phải rồi," cô bé nói rồi xòe bàn tay ra để lộ nàng tiên bé nhỏ.
+"À, phải rồi," cô bé nói rồi xòe tay ra, để lộ nàng tiên bé xíu.
 
 ◆◇◆◇◆
 
-Nàng tiên rên rỉ vì đau đớn. Đó là một giọng nói không thuộc về con người, vang vọng một cách kỳ lạ. Nàng tiên cao chừng mười lăm phân, khoác trên mình bộ trang phục nhẹ nhàng sặc sỡ cùng đôi cánh như cánh chuồn chuồn. Tôi cứ ngỡ đó là giống cái, nhưng một số loài tiên hoàn toàn không có giới tính, nên cũng khó lòng khẳng định chắc chắn. Dù vậy, cô ấy có mái tóc dài và trông giống như một người phụ nữ.
+Nàng tiên khẽ rên lên vì đau. Tiếng nói ấy nghe chẳng giống con người chút nào, nhưng lại ngân vang một cách kỳ lạ. Nàng tiên cao chừng mười lăm phân, mặc bộ quần áo mỏng nhẹ sặc sỡ cùng đôi cánh tựa cánh chuồn chuồn. Tôi cứ ngỡ đó là giống cái, cơ mà một số chủng tộc tiên hoàn toàn vô tính nên cũng khó khẳng định chắc chắn. Dẫu vậy, người này có mái tóc dài và trông hệt như một cô gái.
 
-"Cậu có sao không? Cậu không bị thương chứ?" Jinlin hỏi.
+"Cậu có sao không? Có bị thương ở đâu không?" Jinlin hỏi.
 
-"Tôi không sao! Không bị thương gì cả. Ôi đúng rồi, tôi phải đi đây!" Nàng tiên nói. Cô ấy nhìn Jinlin. "Cảm ơn vì đã cứu tôi! Tôi là Tilya! Nếu chúng ta có duyên gặp lại, tôi nhất định sẽ đền đáp bằng cách nào đó!" Nói đoạn, Tilya bay vút đi.
+"Tôi không sao! Chẳng bị thương gì đâu. Ôi thôi chết, tôi phải đi gấp!" nàng tiên nói, rồi quay sang nhìn Jinlin. "Cảm ơn cậu đã cứu tôi! Tôi là Tilya! Sau này gặp lại, tôi nhất định sẽ đền ơn cậu!" Nói rồi, Tilya vỗ cánh bay vút đi.
 
-"Này, đợi đã!" Jinlin hét với theo, nhưng nàng tiên bay quá nhanh. Cô ấy đã biến mất khỏi tầm mắt. Các nàng tiên dường như chẳng có chút sức mạnh nào, nhưng họ lại bay rất nhanh.
+"Này, đợi đã!" Jinlin hét với theo, nhưng nàng tiên bay nhanh quá, thoắt cái đã mất hút. Loài tiên trông chẳng có chút sức lực nào, nhưng bay thì nhanh thoăn thoắt.
 
-"Tiếc thật, cô ấy đi mất rồi. Nhưng trông có vẻ cô ấy đang vội việc gì đó," tôi nói.
+"Tiếc thật, bay mất rồi. Cơ mà trông có vẻ cô ấy đang vội việc gì đấy," tôi nói.
 
-Jinlin phồng má giận dỗi. "Tớ còn muốn nói chuyện thêm với cô ấy nữa kia! Ít ra cô ấy cũng phải đền đáp gì đó chứ."
+Jinlin phồng má hờn dỗi. "Tớ còn muốn nói chuyện thêm cơ mà! Ít ra cũng phải đền ơn gì đó chứ."
 
-"Cậu muốn nhận phần thưởng à?"
+"Cậu muốn nhận phần thưởng đấy à?"
 
-"Không, tớ chỉ... ôi, sao cũng được. Dù sao thì tụi mình cũng phải quay về rồi."
+"Đâu có, tớ chỉ... ôi, thôi kệ đi. Dù sao tụi mình cũng phải về rồi."
 
-"Ồ? Đến giờ quay về rồi cơ đấy à?" Giọng một người phụ nữ cất lên. "Vậy là bà không cần phải lôi cổ hai đứa về nữa rồi nhỉ?"
+"Ồ? Biết đường mò về rồi cơ đấy à?" giọng một người phụ nữ cất lên. "Vậy là bà khỏi phải lôi cổ hai đứa về nữa rồi nhỉ?"
 
-Giọng nói hơi khàn, rõ ràng là của một bà lão, nhưng nó lại toát ra một áp lực khác thường. Hai đứa đều biết thừa đó là ai, nhưng lại sợ hãi không dám quay đầu lại để xác nhận. Tuy nhiên, rốt cuộc thì chúng tôi vẫn phải làm điều đó.
+Giọng nói hơi khàn khàn, nghe rõ mười mươi là của một bà lão, nhưng lại toát ra thứ uy áp rợn người. Hai đứa biết tỏng là ai rồi, nhưng sợ đến mức chẳng dám quay đầu lại ngó. Cơ mà trốn sao nổi, cuối cùng vẫn phải đối mặt thôi.
 
-Sau khi Jinlin và tôi nhìn nhau một cái, hai đứa chầm chậm ngoái nhìn ra sau lưng và trông thấy đúng người mà chúng tôi đã đoán.
+Jinlin và tôi nhìn nhau một cái, rồi chầm chậm quay đầu lại. Quả đúng y như rằng.
 
 "Bà nội..." Jinlin lí nhí trong tuyệt vọng.
 
-Đó chính là Pravda, và trông bà đang giận tím mặt. "Hai cái đứa này!" Bà quát lớn, khiến hai đứa tôi giật bắn mình đứng thẳng tắp. "Hai đứa chẳng biết đường sá ở đây! Tự tiện chạy đi lung tung làm cái trò gì thế hả?! Người lớn phải nhắc bao nhiêu lần nữa hai đứa mới hiểu là bên ngoài làng nguy hiểm đến mức nào hả?! Đâu phải chỉ có mỗi trên đường đi; mối nguy rình rập ở khắp mọi nơi! Hai đứa có thể bị bắt cóc đấy! Lại còn có những kẻ điên cuồng giết người để mua vui nữa! Bà dẫn hai đứa theo chỉ vì nghĩ rằng hai đứa hiểu chuyện hơn lũ trẻ bình thường, vậy mà hai đứa lại phụ lòng tin của bà! Đã hiểu chưa hả?!"
+Đó chính là bà Pravda, và trông bà đang giận tím mặt. "Hai cái đứa này!" bà quát lớn làm hai đứa giật bắn mình, đứng thẳng tắp như khúc gỗ. "Đường sá ở đây thì không biết, tự tiện chạy đi lung tung làm cái trò gì thế hả?! Người lớn phải nhắc bao nhiêu lần nữa hai đứa mới chịu hiểu là bên ngoài làng nguy hiểm thế nào?! Đâu phải chỉ có mỗi dọc đường đi, mối nguy rình rập ở khắp mọi nơi đấy! Hai đứa lỡ bị bắt cóc thì sao! Rồi còn có cả những kẻ điên cuồng giết người mua vui nữa! Bà dắt hai đứa theo chỉ vì nghĩ hai đứa hiểu chuyện hơn lũ trẻ bình thường, thế mà hai đứa nỡ phụ lòng tin của bà à! Đã hiểu chưa hả?!"
 
-Sau đó, bà tiếp tục mắng mỏ hai đứa tôi một hồi lâu.
+Sau đó, bà còn tiếp tục giáo huấn hai đứa một hồi lâu nữa.
 
 ◆◇◆◇◆
 
-Từ trên giường ở nhà trọ, Jinlin lẩm bẩm, "Tớ sẽ không bao giờ làm trò như thế nữa đâu."
+Nằm trên giường ở quán trọ, Jinlin lẩm bẩm, "Từ giờ tớ chừa, không bao giờ làm trò như thế nữa đâu."
 
-Cả đoàn chúng tôi thuê hai phòng. Cha mẹ tôi ở một phòng, còn bà Pravda, Jinlin và tôi ở phòng kia. Bà Pravda đã ngủ say từ trước, có lẽ vì mệt lả sau cơn thịnh nộ. Ít nhất thì đến cuối cùng bà cũng thấy nhẹ nhõm vì hai đứa được bình an vô sự và ôm chầm lấy cả hai. Cha mẹ tôi cũng rầy la đôi câu, nhưng tôi nhận ra khi hai đứa về tới nơi thì họ đã quá đỗi mệt mỏi rồi. Lời họ nói giống như một lời nhắc nhở ngắn gọn hơn là một bài giáo huấn. Tôi biết hành động của hai đứa là sai trái, nên thế cũng phải thôi. Nhưng bà Pravda thật đáng sợ, và có lẽ chính điều đó đã khiến Jinlin phải ân hận hối lỗi.
+Cả đoàn chúng tôi chia làm hai phòng: cha mẹ tôi ở một phòng, còn bà Pravda, Jinlin và tôi ở phòng kia. Bà Pravda đã ngủ say tự lúc nào, có lẽ vì mệt lả sau trận lôi đình ban nãy. Dù sao thì đến cuối cùng, thấy hai đứa bình an vô sự, bà cũng mừng và ôm chặt lấy cả hai. Cha mẹ tôi cũng rầy la vài câu, nhưng lúc hai đứa về tới nơi thì họ đã mệt lử rồi, nên chỉ nhắc nhở qua loa chứ không mắng mỏ dông dài. Tôi biết hai đứa làm thế là sai, nên bị mắng cũng đáng. Có điều bà Pravda đáng sợ thật, và chắc hẳn đó là lý do khiến Jinlin hối hận đến vậy.
 
-"Tớ nghĩ làm vậy là khôn ngoan đấy," tôi nói. "Đừng làm mấy trò nguy hiểm nữa."
+"Thế là biết khôn đấy," tôi nói. "Đừng đụng vào mấy trò nguy hiểm nữa."
 
-"Phải đó! Tớ sẽ đợi đến khi lớn khôn rồi mới làm," cô bé tuyên bố.
+"Ừ! Đợi bao giờ lớn rồi tớ mới làm," cô bé quả quyết.
 
-"Ý cậu là sao, lớn khôn rồi mới làm là thế nào?"
+"Ý cậu lớn rồi mới làm là sao cơ?"
 
-"Người lớn có thể đi bất cứ đâu họ muốn, đúng không? Nên tớ sẽ trở thành mạo hiểm giả!"
+"Người lớn thì thích đi đâu chẳng được, đúng không? Cho nên tớ sẽ làm mạo hiểm giả!"
 
-Tôi kinh ngạc. "Jinlin, chẳng phải cậu sẽ làm trưởng làng sao? Cha mẹ cậu đều bảo thế mà."
+Tôi ngạc nhiên nhìn cậu ấy. "Jinlin, chẳng phải sau này cậu sẽ làm trưởng làng sao? Cha mẹ cậu toàn bảo thế mà."
 
-"Đâu nhất thiết tớ phải làm trưởng làng ngay lập tức đâu. Vả lại cũng chẳng bắt buộc cứ phải là tớ. Tớ còn có các anh chị em họ có thể làm được mà."
+"Đâu nhất thiết phải làm trưởng làng ngay lập tức đâu. Với lại cũng chẳng bắt buộc cứ phải là tớ, tớ còn mấy anh chị em họ có thể làm được mà."
 
-Đúng là cha mẹ của Jinlin có thể tiếp tục cai quản ngôi làng cho tới khi nghỉ hưu, và chẳng có lý do gì mà các anh chị em họ của cô bé lại không thể tiếp quản từ đó. Về phần cô bé thì đó có vẻ là một ý hay.
+Đúng là cha mẹ Jinlin còn có thể tiếp tục trông nom việc làng cho tới lúc già, và chẳng có lý do gì mà các anh chị em họ của cô bé lại không thể kế nhiệm sau đó. Tính ra thì ý của cậu ấy cũng hợp lý thật.
 
-Dù vậy, tôi vẫn cảm thấy có điều gì đó là lạ. "Cậu không muốn làm trưởng làng sao?" Tôi hỏi.
+Dù vậy, tôi vẫn thấy có gì đó là lạ. "Cậu không thích làm trưởng làng à?" tôi hỏi.
 
-"Không phải là tớ không muốn, mà là tớ muốn làm mạo hiểm giả cơ. Tớ muốn ngắm nhìn thế giới. Cậu có biết những thứ tụi mình thấy trong sách tranh thực ra đều có thật ở đâu đó ngoài kia không? Có vô vàn điều kỳ thú, như những thác nước tuôn trào từ các hòn đảo lơ lửng trên bầu trời, những thành phố được bao quanh bởi nước, và cả những lâu đài biến mất như ảo ảnh nữa!"
+"Không phải là tớ không muốn, mà là tớ muốn làm mạo hiểm giả cơ! Tớ muốn đi ngắm nhìn thế giới. Cậu có biết mấy thứ tụi mình xem trong sách tranh thực ra đều có thật ở ngoài kia không? Có bao nhiêu là điều kỳ thú, nào là thác nước đổ xuống từ những hòn đảo lơ lửng giữa trời, những thành phố nằm lọt thỏm giữa bốn bề sông nước, rồi cả những tòa lâu đài thoắt ẩn thoắt hiện như ảo ảnh nữa!"
 
-Bây giờ thì tôi biết tất cả những thứ đó đều có thật, nhưng vào thời điểm ấy, nghe chúng chẳng khác nào những câu chuyện cổ tích. Làng chúng tôi chẳng có điều gì huyền diệu đến vậy, nên tôi không thể tin rằng chúng lại tồn tại trên đời.
+Bây giờ thì tôi biết tất cả những thứ đó đều có thật, nhưng hồi ấy nghe chúng chẳng khác nào chuyện cổ tích. Làng tôi làm gì có thứ nào kỳ ảo đến thế, bảo sao lúc đó tôi không thể tin nổi chúng có thật trên đời.
 
-"Đó chỉ là mơ mộng thôi, Jinlin," tôi nói. "Cậu không thể cứ suốt ngày mơ mộng hão huyền khi còn phải học hành để làm trưởng làng được. Dù sao thì sáng mai tụi mình cũng phải dậy sớm hơn, nên đi ngủ thôi. Tớ mệt rồi." Tôi thực sự đã mệt rã rời, một cảm giác mà từ lâu lắm rồi tôi chưa từng nếm trải lại.
+"Đó chỉ là mơ mộng thôi, Jinlin à," tôi bảo. "Cậu không thể cứ suốt ngày mơ mộng hão huyền khi còn phải học hành để làm trưởng làng được đâu. Dù sao thì mai tụi mình cũng phải dậy sớm hơn, ngủ thôi. Tớ mệt lắm rồi." Lúc ấy tôi thực sự mệt rã rời, một cảm giác mà đã lâu lắm rồi tôi không còn được nếm trải lại.
 
-Dẫu sao thì tôi cũng phải trằn trọc một hồi lâu mới chìm vào giấc ngủ, nhưng trước đó, tôi lại nghe thấy tiếng của Jinlin thêm một lần nữa.
+Nói là vậy chứ tôi cũng phải trằn trọc một hồi lâu mới ngủ được, nhưng trước lúc chìm vào giấc ngủ, tôi lại nghe thấy tiếng Jinlin làu bàu thêm một lần nữa.
 
-"Trời ạ, cậu ngốc thật đấy! Thế thì tớ sẽ không thèm dẫn cậu đi cùng nữa đâu!" Cô bé nói.
+"Trời ạ, cậu ngốc chết đi được! Thế thì sau này tớ chẳng thèm dắt cậu đi theo nữa đâu!" cô bé nói.
 
-Trong lúc tự hỏi liệu cô bé có từng dự định rủ mình cùng tham gia vào những chuyến phiêu lưu mạo hiểm hay không, tôi cuối cùng cũng chìm vào giấc ngủ.
+Bụng bảo dạ không rõ có thật là cô bé từng tính dắt mình theo trên những chuyến phiêu lưu hay không, tôi dần dần chìm vào giấc ngủ.
