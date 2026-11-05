@@ -95,6 +95,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (85–87) Ngoại truyện Tập 3: kể theo ngôi thứ nhất ("tôi") của Rentt Faina (chuyện đời thường ở Maalt về trường đua chuột Puchi Suri, ủy thác siêu thoát thú cưng cho Phu nhân Emilstead, và hồi ức hướng dẫn một tân binh dọn dẹp nhà cửa mùa xuân).
 - (93) Chương đệm Tập 4: chuyển sang góc nhìn ngôi thứ ba giới hạn (third-person limited) bám theo Rina Rupaage, hồi tưởng quá khứ ở gia tộc Rogue và chặng đường tự lập tại Maalt sau khi chia tay Rentt.
 - (112–113) Ngoại truyện Tập 4 kể theo góc nhìn ngôi thứ nhất ("tôi") của Thánh Nữ Myullias Raiza tại Maalt (chương 112 tại nguyện đường Lobelia, chương 113 đi cùng Nive Maris tới Thương hội Stheno đàm phán với Rentt).
+- (114) Ngoại truyện Tập 4: quay lại ngôi thứ nhất ("tôi") của Rentt Faina khi anh bàn bạc với Lorraine kế hoạch về quê nhà Làng Hathara và tới dinh thự Latuule xin Laura tạm hoãn ủy thác hái Hoa Long Huyết.
 - (169) Phần đầu (đoạn 1–35) kể theo góc nhìn ngôi thứ nhất của Laura Latuule ("tôi") tại dinh thự gia tộc Latuule ở Maalt; phần sau (từ đoạn 36) quay lại góc nhìn ngôi thứ nhất của Rentt Faina tại Làng Hathara.
 - (186) Ngoại truyện Tập 8 chuyển sang góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart tại dinh thự gia tộc Latuule.
 - (208) Ngoại truyện Tập 9: nửa đầu (đoạn 1–21) kể theo góc nhìn ngôi thứ nhất ("tôi") của Isaac Hart khi quan sát Rentt thực hành Phân Liệt; sau dấu phân cách (từ đoạn 23) quay lại góc nhìn ngôi thứ nhất của Rentt Faina.
