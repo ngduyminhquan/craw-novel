@@ -1,187 +1,187 @@
 # Chương 149: Tập 6 Chương 4 - Bí Mật Của Hathara (4)
 
-"Hai người muốn bọn cháu trông coi nơi này sao?" tôi lên tiếng, chẳng biết nên phản ứng thế nào cho phải. Lorraine trông cũng đầy vẻ khó xử, và điều đó cũng hoàn toàn dễ hiểu. Chuyện này xem chừng có phần quá sức để giao phó vào tay của chỉ hai con người.
+"Hai người muốn bọn cháu trông nom nơi này sao?" tôi hỏi, chẳng biết nên phản ứng thế nào. Lorraine trông cũng đầy vẻ khó xử, mà cũng phải thôi. Giao cả một nơi như thế này vào tay vỏn vẹn hai người xem chừng có phần quá sức.
 
-Capitan nhìn thấu những gì tôi đang nghĩ ngợi. "Bọn chú đâu có bảo hai đứa phải là những người duy nhất chăm lo cho nơi này, hay bọn chú muốn rũ sạch chẳng dính dáng gì tới nó nữa; không có chuyện đó đâu. Đúng hơn thì nói là bọn chú muốn tuyển thêm vài tân binh vào đội, kiểu thế đấy." Có vẻ như chú ấy không muốn lời đề nghị nghe như một sự ép buộc, nhưng nếu vậy, ngay từ đầu tôi đã chẳng hiểu vì sao họ lại cần phải đưa ra yêu cầu này.
+Capitan nhìn thấu suy nghĩ của tôi. "Bọn chú đâu có bảo hai đứa phải một mình gánh hết nơi này, hay bọn chú muốn rũ tay chẳng thèm dính dáng gì tới nó nữa; làm gì có chuyện đó. Nói đúng hơn là bọn chú muốn kéo thêm tân binh vào đội thôi, kiểu vậy đấy." Nghe như thể chú ấy không muốn lời mình nói biến thành ép buộc, nhưng nếu thế thì ngay từ đầu tôi chẳng hiểu họ việc gì phải nhờ vả chuyện này.
 
-"Mọi chuyện cứ tiếp tục như từ trước đến nay không được sao ạ?" tôi hỏi.
+"Cứ duy trì như trước giờ không được sao chú?" tôi hỏi.
 
-"Cũng được thôi, nhưng có hai đứa cùng tham gia thì tốt hơn. Mấy đứa cũng sẽ nhận được phần lợi ích của riêng mình nữa," Capitan nói.
+"Cũng được thôi, nhưng có hai đứa cùng tham gia thì vẫn hơn. Mà hai đứa cũng chẳng chịu thiệt đâu," Capitan bảo.
 
-Tôi chịu chết chẳng thể hình dung nổi họ có thể mang lại lợi ích gì. Lorraine có lẽ sẽ trân trọng cơ hội được nghiên cứu thành phố mà không phải bận tâm lo lắng về lũ quái vật, nhưng hẳn đó không phải là điều chú ấy muốn ám chỉ.
+Tôi chịu, chẳng đoán nổi họ có thể cho bọn tôi lợi lộc gì. Lorraine có lẽ sẽ rất thích cơ hội nghiên cứu thành phố mà không phải lo quái vật quấy rầy, nhưng chắc chú ấy không có ý đó.
 
-"Có đúng không hả, bà lão?" chú ấy vừa nói vừa quay sang phía bà lão làm thuốc.
+"Đúng không hả, Gharb?" chú ấy quay sang hỏi bà lão.
 
-"Ừ, tốt nhất là cứ tận mắt cho chúng thấy. Đi xem một chút chứ?" Gharb bảo. Bà trèo lên lưng con Shahor Melechnamer rồi cúi nhìn xuống bọn tôi. "Làm cái gì đấy? Trèo lên mau."
+"Ừ thì, cứ dẫn tụi nó đi xem tận mắt là dễ nhất. Đi xem chút nhé?" Gharb bảo. Bà leo lên lưng Shahor Melechnamer rồi cúi nhìn xuống hai đứa tôi. "Còn đứng đực ra đấy làm gì? Trèo lên mau."
 
-Capitan thậm chí còn bắt đầu trèo lên từ trước cả khi bà kịp mở miệng. Xem chừng chúng tôi sẽ phải cưỡi nó rồi. Tôi có đôi chút ngần ngại, nhưng thú thực tôi cũng đã quen với sinh vật này lắm rồi. Tôi và Lorraine nhìn nhau rồi nhún vai. Kế đó, cả hai chúng tôi cùng trèo lên lưng con Shahor Melechnamer. Nó đủ to lớn để chở cả bốn người chúng tôi một cách dễ dàng, lại còn rất êm ái và mềm mại nữa. Cảm giác dễ chịu đến mức tôi suýt chút nữa thì muốn lăn ra ngủ, dù bản thân tôi hiếm khi cảm thấy buồn ngủ. Nhưng nếu tôi ngủ thật thì sẽ là một thảm họa. Chúng tôi đang cưỡi con quái vật này đến một nơi khác, nên rất có thể tôi sẽ bị ngã nhào xuống đất.
+Gharb còn chưa dứt lời thì Capitan đã bắt đầu trèo lên rồi. Xem chừng bọn tôi cũng phải cưỡi nó thôi. Tôi hơi ngại một chút, nhưng thú thật là cũng đã quá quen với con quái thú này rồi. Lorraine và tôi nhìn nhau nhún vai, rồi trèo lên lưng Shahor Melechnamer. Lưng nó thừa chỗ cho cả bốn người ngồi thoải mái, lông lại vừa êm vừa mềm. Cảm giác dễ chịu đến mức khiến tôi suýt thèm ngủ một giấc, dù bình thường tôi hiếm khi thấy buồn ngủ. Cơ mà nếu lăn ra ngủ thật thì khốn, vì con quái vật đang phi đi nơi khác, kiểu gì tôi cũng ngã nhào xuống đất.
 
-"Giờ thì đi thôi," Gharb nói, đoạn ra vài mệnh lệnh cho con Shahor Melechnamer. Nó chuyển động một cách êm ru, và chỉ trong vài giây ngắn ngủi, nó đã đạt tới một tốc độ đáng sợ.
+"Giờ thì đi thôi," Gharb nói rồi ra lệnh cho Shahor Melechnamer. Nó lướt đi êm ru, rồi chỉ trong vài giây đã đạt tới tốc độ đáng sợ.
 
-Nó lao vút ra ngoài hang động, tức là tiến vào bên trong thành phố mê cung. Tàn tích của thành phố chết vụt qua xung quanh chúng tôi. Hang động nằm trên một bức tường khá cao cho phép chúng tôi chiêm ngưỡng các tàn tích từ trên cao. Khi nhìn chúng ở cự ly gần, các công trình kiến trúc hầu như chẳng có vẻ gì là đã mục nát. Cảnh tượng hệt như một thành phố phồn hoa đô hội mà toàn bộ cư dân bỗng chốc biến mất không dấu vết. Tôi nhìn thấy những ngọn đèn ma pháp phát sáng lung linh trong vô số tòa nhà, khiến cho thành phố hoang vắng trông sống động một cách kỳ lạ.
+Nó lao vút ra khỏi hang, xông thẳng vào thành phố mê cung. Tàn tích của thành phố chết vút qua hai bên. Hang động nằm trên một vách tường khá cao, nhìn xuống bao quát được toàn cảnh. Nhìn ở cự ly gần, các dãy nhà trông hầu như chưa hề mục nát. Cứ như thể nơi đây vốn là một đô thị sầm uất, chỉ là toàn bộ cư dân bỗng dưng bốc hơi sạch bóng. Đèn ma pháp vẫn sáng le lói trong vô số tòa nhà, khiến thành phố vắng tanh bỗng toát lên sức sống kỳ lạ.
 
-"Chúng ta đang đi đâu thế này?!" tôi hét lớn.
+"Đi đâu thế này ạ?!" tôi hét lớn.
 
-"Đừng nhìn vào thành phố, nhìn lên mấy bức tường xung quanh kia kìa!" Gharb hét đáp lại.
+"Đừng nhìn thành phố, nhìn mấy bức tường xung quanh kìa!" Gharb hét đáp lại.
 
-Tôi quay sang nhìn các bức tường và nhận thấy chúng chi chít những cái lỗ. Chúng nằm ở độ cao xấp xỉ với cái hang mà chúng tôi vừa bước ra, và kích thước trông cũng tương tự như vậy. Có nhiều lỗ đến mức tôi đếm không xuể.
+Tôi nhìn sang các bức tường thì thấy chi chít những miệng hang. Chúng nằm ở độ cao xấp xỉ miệng hang bọn tôi vừa đi ra, kích thước trông cũng sàn sàn như thế. Nhiều đến mức đếm không xuể.
 
 "Tôi biết ngay mà," Lorraine thì thầm.
 
-"Cô nhận ra điều gì rồi à?" tôi hỏi.
+"Cô đoán ra gì rồi à?" tôi hỏi.
 
-"Ừ. Anh có nhớ tôi từng nhắc chuyện Đế Quốc đã tìm thấy một ma pháp trận dịch chuyển ở đây không?"
+"Ừ. Nhớ lúc nãy tôi bảo Đế Quốc từng tìm thấy một ma pháp trận dịch chuyển ở đây không?"
 
-"Có, nhưng thì sao cơ?"
+"Có, mà thế thì sao?"
 
-"Cái họ tìm thấy không nằm trong cái hang mà chúng ta vừa đi ra đâu. Nó ở một chỗ khác. Ngay khi anh đi xuống từ tầng năm mươi chín, có một cái hang nhỏ gần lối vào thành phố. Đó chính là nơi đặt cái họ tìm thấy. Chẳng ai có thể thám hiểm xa hơn chỗ đó do lũ quái vật."
+"Cái họ tìm thấy không nằm trong cái hang bọn mình vừa đi ra đâu, mà ở chỗ khác. Vừa từ tầng năm mươi chín đi xuống là có một cái hang nhỏ ngay gần lối vào thành phố. Ma pháp trận họ tìm thấy nằm ở đó đấy. Nhưng vướng lũ quái vật nên chưa ai thám hiểm sâu hơn được."
 
-"Vậy là có nhiều ma pháp trận dịch chuyển sao?"
+"Nghĩa là ở đây có nhiều ma pháp trận dịch chuyển sao?"
 
-"Ừ, và có khi không chỉ dừng lại ở hai cái đó đâu. Tất cả những cái lỗ trên tường kia có thể đều chứa ma pháp trận của riêng chúng," Lorraine nói, cơ thể khẽ run rẩy một chút.
+"Ừ, mà có khi đâu chỉ có hai cái. Mấy cái hang trên vách kia khéo cái nào cũng có một ma pháp trận riêng đấy," Lorraine nói, người hơi run lên.
 
-"Chuẩn đấy!" Gharb gào lên. "Nhưng ta chưa kiểm tra hết mọi cái lỗ đâu, nên ta chẳng thể nói cho hai đứa biết cái nào dẫn đi đâu được đâu!"
+"Đúng rồi đấy!" Gharb hét lớn. "Cơ mà ta chưa kiểm tra hết, nên chịu, chẳng biết cái nào dẫn đi đâu đâu!"
 
-"Chỉ nghĩ đến thôi cũng thấy rùng mình rồi," Lorraine bảo. "Nếu Đế Quốc nắm quyền kiểm soát thành phố này, họ sẽ thống trị toàn bộ đại lục."
+"Mới nghĩ tới thôi đã thấy rùng mình," Lorraine nói. "Nếu Đế Quốc kiểm soát được thành phố này, họ sẽ thống trị cả đại lục mất."
 
-Tôi gật đầu. "Chúng ta tuyệt đối không thể để họ phát hiện ra. Mà thực ra, phải là người Hathara mới dùng được ma pháp trận dịch chuyển, nên có khi cũng chẳng sao đâu nhỉ."
+Tôi gật đầu. "Tuyệt đối không thể để họ phát hiện ra được. Cơ mà phải là người Hathara mới kích hoạt được ma pháp trận dịch chuyển, nên khéo cũng chẳng sao đâu."
 
-"Nói đúng hơn thì, tôi nghĩ chuyện đó sẽ đẩy người Hathara vào vòng nguy hiểm đấy," cô nói.
+"Trái lại, tôi nghĩ chuyện đó chỉ càng đẩy người Hathara vào chỗ nguy hiểm thôi," cô nói.
 
-Quả thực, nếu chính người Hathara là chìa khóa, rất có thể họ sẽ trở thành mục tiêu bị nhắm tới. Nhưng tôi không tài nào hình dung nổi làm thế nào Đế Quốc có thể đi đến kết luận đó ngay từ đầu được.
+Đúng là nếu bản thân người Hathara chính là chìa khóa thì họ rất dễ trở thành mục tiêu bị nhắm tới. Nhưng tôi không tài nào tưởng tượng nổi làm sao Đế Quốc có thể lần ra được chuyện đó.
 
-"Nhắc mới nhớ," Lorraine thì thào như sực nhớ ra điều gì, "Rentt, anh dùng được nó dẫu bản thân là một Ma Cà Rồng. Nếu anh mang theo một quyến thuộc ma cà rồng, biết đâu chúng cũng dùng được các ma pháp trận dịch chuyển thì sao. Dẫu sao Ma Cà Rồng tạo ra thuộc hạ bằng cách ban máu của mình cho sinh vật khác mà."
+"Nhắc mới nhớ," Lorraine sực nhớ ra điều gì, hạ giọng thì thầm, "Rentt, anh đã biến thành Ma Cà Rồng mà vẫn kích hoạt được nó. Nếu anh mang theo quyến thuộc biến đổi từ Ma Cà Rồng, biết đâu nó cũng dùng được ma pháp trận dịch chuyển đấy. Dù sao thì Ma Cà Rồng tạo ra thuộc hạ bằng cách chia máu của mình cho sinh vật khác mà."
 
-Nghe chừng đó là một giả thuyết thú vị, nhưng tôi sẽ phải thử thì mới biết chắc được. Giá mà tôi mang Edel theo, nhưng lúc này chú chuột lại không ở bên cạnh tôi. Dẫu vậy, đây vẫn là điều rất đáng để thử trong tương lai. Nếu hóa ra khả thi, một mình tôi có thể đóng vai trò làm chìa khóa cho mọi ma pháp trận dịch chuyển. Kéo theo hệ quả là, tôi cảm thấy bản thân lúc này đang rơi vào tình thế hiểm nguy hơn bao giờ hết. Nếu Đế Quốc mà xâu chuỗi được tất cả những điều này, họ nhất định sẽ tìm đến tôi.
+Giả thuyết nghe thú vị đấy, nhưng phải thử mới biết chắc được. Giá mà có Edel ở đây, ngặt nỗi lúc này chú chuột lại không đi cùng. Dù vậy, sau này thử một phen cũng đáng. Nếu làm được thật, một mình tôi sẽ trở thành chìa khóa mở mọi ma pháp trận dịch chuyển. Kéo theo đó, tôi bỗng thấy mình rơi vào tình thế nguy hiểm hơn bao giờ hết. Lỡ mà Đế Quốc lần ra được tất cả những chuyện này, mục tiêu của họ chắc chắn sẽ là tôi.
 
 ◆◇◆◇◆
 
-Cuối cùng chúng tôi cũng tới một trong vô số hang động trên vách tường, một cái nằm sâu tít phía sau thành phố. Tôi nghĩ nơi này chắc cũng có một ma pháp trận dịch chuyển.
+Cuối cùng cả nhóm cũng dừng lại trước một miệng hang nằm sâu tít phía trong thành phố. Tôi thầm nghĩ nơi này chắc cũng có ma pháp trận dịch chuyển.
 
-"Cháu chẳng thấy gì cả," tôi nói với Gharb và Capitan. Cấu trúc của hang động này giống hệt cái hang đầu tiên mà chúng tôi được dịch chuyển tới. Có một hành lang dài dẫn vào một căn phòng lớn. Điểm khác biệt duy nhất là chẳng có hoa văn nào được vẽ trên mặt đất cả.
+"Cháu chẳng thấy gì cả," tôi nói với Gharb và Capitan. Cấu trúc hang này giống hệt cái hang lúc đầu cả nhóm được dịch chuyển tới. Một lối đi dài dẫn thẳng vào căn phòng lớn. Điểm khác duy nhất là dưới đất trống trơn, chẳng có hình vẽ nào.
 
-"Thì dĩ nhiên là cháu không thấy rồi," Gharb bảo. "Nhưng đúng chỗ này rồi đấy. Làm đi, Capitan."
+"Cháu không thấy là phải," Gharb nói. "Nhưng đúng chỗ rồi đấy. Làm đi, Capitan."
 
-Capitan lấy từ trong túi ra hai hòn đá. Một hòn phát ra ánh đỏ mờ ảo, còn hòn kia ánh lên sắc xanh lam đục. Chú giơ hòn đá đỏ lên rồi ném thật mạnh xuống đất. Nó vỡ toác ra, và một ma trận hoa văn nhanh chóng hiện rõ trên mặt đất.
+Capitan lấy từ trong túi ra hai hòn đá. Một hòn đỏ thẫm mờ mờ, một hòn xanh lam đục. Chú giơ hòn đá đỏ lên rồi ném thật mạnh xuống đất. Viên đá vỡ toác, rồi một trận đồ hoa văn lập tức hiện rõ trên mặt đất.
 
-"Cái gì cơ?! Ma pháp trận dịch chuyển ư?" Lorraine thốt lên.
+"Cái gì?! Ma pháp trận dịch chuyển ư?" Lorraine kinh ngạc thốt lên.
 
-"Đúng thế," Gharb gật đầu nói. "Đây là một trong những ma cụ được truyền lại cho chúng ta. Nó cho phép chúng ta tạo ra ma pháp trận dịch chuyển mới. Bà lão làm thuốc và trưởng nhóm thợ săn mỗi người nhận một cặp. Chúng ta vừa dùng một trong số đó đấy."
+"Đúng thế," Gharb gật đầu nói. "Đây là một trong những ma cụ được truyền lại từ đời trước. Nó cho phép bọn ta tạo ra ma pháp trận dịch chuyển mới. Người làm thuốc và trưởng nhóm thợ săn mỗi người được giữ một cặp. Vừa rồi là dùng mất một viên đấy."
 
-"Một cặp sao ạ? Nghĩa là viên đá đỏ và xanh đi liền thành một bộ ạ?" tôi hỏi.
+"Một cặp ạ? Tức là đá đỏ với đá xanh đi chung một bộ sao chú?" tôi hỏi.
 
-"Ừ. Cháu dùng viên nào trước cũng được, nhưng hễ đập một viên xuống đất, nó sẽ tạo ra một ma pháp trận dịch chuyển. Lối ra sẽ được tạo bằng viên đá còn lại. Tiện lợi quá đúng không?" bà bảo.
+"Ừ. Dùng viên nào trước cũng được, cứ đập một viên xuống đất là nó tạo ra một ma pháp trận dịch chuyển. Lối ra thì đập viên còn lại để tạo. Tiện quá còn gì?" bà bảo.
 
-Không chỉ tiện lợi, mà nếu thứ này được đem ra bán đấu giá, nó có thể bán được với mức giá trên trời. Tôi không biết Lorraine ra sao, nhưng bản thân tôi chưa từng thấy thứ gì như thế này bao giờ. Có lẽ họ muốn thị phạm cách nó hoạt động, nhưng đây dường như không phải thứ để đem ra dùng một cách tùy tiện.
+Không chỉ tiện lợi, mà nếu thứ này đem ra đấu giá khéo bán được giá trên trời. Tôi chẳng rõ Lorraine thế nào, chứ bản thân tôi chưa từng thấy thứ ma cụ nào như vậy. Chắc hai người họ muốn làm mẫu cho bọn tôi xem, nhưng món đồ này đâu phải thứ có thể tùy tiện lôi ra dùng.
 
-"Cháu cầm lấy viên này đi," Capitan bảo, đoạn chìa viên đá xanh lam ra. "Đặt ma pháp trận dịch chuyển ở bất cứ đâu cháu muốn."
+"Cháu cầm lấy viên này đi," Capitan chìa viên đá xanh lam ra bảo. "Muốn đặt ma pháp trận dịch chuyển ở đâu thì đặt."
 
-Hòn đá nhìn từ xa thì có vẻ vẩn đục, nhưng thực chất bên trong có vô số ký tự ma pháp tí hon đang xoay vần. Trông nó hệt như một ma cụ vô cùng cao cấp.
+Nhìn từ xa viên đá trông như bị đục, nhưng lại gần mới thấy bên trong đầy những ký tự ma pháp tí hon đang cuộn xoáy. Xem chừng đây là một ma cụ cực kỳ cao cấp.
 
-"Chú cho bọn cháu thứ này thật ạ?" tôi hỏi.
+"Chú cho bọn cháu thật đấy à?" tôi hỏi.
 
-"Thì bọn chú đã bảo là giao thành phố này cho hai đứa trông coi rồi mà," Capitan thản nhiên đáp. "Sau khi trở về Maalt, cháu đâu muốn lần nào ghé thăm cũng phải ngồi xe ngựa về tận Hathara, đúng chứ? Thứ này sẽ đưa cháu tới đây rồi quay về trong nháy mắt. À thì, đi bộ giữa pháo đài đó và Hathara vẫn mất nửa ngày, nhưng nếu rảo bước nhanh thì chỉ tốn vài tiếng thôi. Khiến mọi chuyện dễ dàng hơn nhiều, phải không?"
+"Thì bọn chú đã bảo giao thành phố này cho hai đứa trông coi rồi còn gì," Capitan thản nhiên đáp. "Sau khi về lại Maalt, cháu đâu muốn lần nào ghé cũng phải ngồi xe về tận Hathara, đúng không? Có thứ này thì tới đây hay quay về chỉ trong chớp mắt. À thì, từ pháo đài đằng kia về Hathara vẫn mất nửa ngày cuốc bộ, nhưng rảo bước nhanh thì chỉ vài tiếng thôi. Đỡ cực hơn bao nhiêu còn gì?"
 
-Tôi rất cảm kích trước tấm lòng của họ, nhưng lại băn khoăn không biết có nên nhận hay không. Tôi nhìn sang Lorraine, cô đang im lặng dán mắt vào viên đá xanh lam, vẻ mặt như muốn chộp lấy nó khỏi tay tôi ngay tức khắc. Khi tôi chuyền nó sang cho cô, cô đưa nó lên sát rạt trước mắt rồi chăm chú nhìn vào bên trong. Cô bắt đầu lẩm bẩm về các lý thuyết ma thuật cùng những điều tương tự. Cảnh tượng ấy có đôi chút rùng mình. Nhưng dẫu cô có thành công đến đâu trên con đường học giả, việc có được một thứ như thế này hoàn toàn trông cậy vào vận may, nên hẳn là cô đang phấn khích tột độ. Tôi nghĩ nhận lấy cũng chẳng sao.
+Tôi hiểu lòng tốt của chú ấy, nhưng vẫn phân vân không biết có nên nhận hay không. Tôi nhìn sang Lorraine thì thấy cô đang dán chặt mắt vào viên đá xanh, như chỉ chực giật phắt lấy khỏi tay tôi. Tôi vừa đưa qua, cô đã dí sát vào mắt săm soi. Miệng bắt đầu lẩm bẩm mấy mớ lý thuyết ma thuật linh tinh, trông hơi rợn cả người. Cơ mà dẫu là một học giả tiếng tăm, kiếm được món đồ cỡ này cũng nhờ vận may trời cho, nên chắc cô đang sướng rơn trong bụng. Nghĩ vậy, tôi thấy nhận cũng chẳng sao.
 
-"À, hai đứa cũng cầm luôn phần của ta đi," Gharb nói rồi đưa cho bọn tôi hai viên đá đỏ và xanh của bà. "Mấy viên này vẫn còn nguyên cả bộ đấy. Xin lỗi vì Capitan đã tự tiện chọn chỗ này để đặt một viên của chú ấy nhé."
+"À, cầm luôn phần của ta đi này," Gharb nói rồi chìa hai viên đá đỏ và xanh ra cho bọn tôi. "Cặp này của ta vẫn còn nguyên bộ. Khổ nỗi Capitan lỡ tay chọn chỗ này đặt một viên mất rồi."
 
-Mấy viên của bà có màu hơi khác một chút so với của Capitan, nhưng nhìn chung thì gần như y hệt. Tôi phải cẩn thận để không làm lẫn lộn chúng. Lối ra, hoặc có lẽ là lối vào nếu giữa chúng có sự phân biệt, đặt ở chỗ này cũng hoàn toàn ổn đối với tôi. Theo lời Gharb, đằng nào ở đây cũng còn rất nhiều ma pháp trận dịch chuyển khác, nên chúng tôi có thể dùng tàn tích này làm trạm trung chuyển để dễ dàng đi tới những vùng đất xa xôi. Trên thực tế, ngay cả khi được tự do lựa chọn nơi đặt từng ma pháp trận dịch chuyển, tôi cũng sẽ dùng một cái ở đây và một cái ở Maalt. Tôi chưa nghĩ ra chỗ nào thích hợp để dùng bộ còn lại, nên tốt nhất là cứ tạm thời giữ lấy chúng. Biết đâu chẳng bao lâu nữa chúng tôi sẽ tìm thấy một địa điểm trọng yếu để đặt, nhưng trước khi dùng thì vẫn cần phải suy tính kỹ càng.
+Đá của bà hơi khác màu so với của Capitan một chút, nhưng nhìn chung gần như y hệt. Phải cẩn thận kẻo lẫn. Lối ra, hay lối vào nếu có phân biệt đi nữa, nằm ở chỗ này tôi thấy cũng chẳng vấn đề gì. Theo lời Gharb thì ở đây còn đầy ma pháp trận dịch chuyển khác, nên bọn tôi hoàn toàn có thể biến tàn tích này thành trạm trung chuyển để đi tới những vùng đất xa xôi. Thậm chí nếu được tự chọn chỗ đặt, tôi cũng sẽ để một cái ở đây và một cái ở Maalt. Bộ còn lại thì tôi chưa nghĩ ra chỗ nào hợp, nên tốt nhất cứ giữ lấy đã. Biết đâu sắp tới lại tìm ra một vị trí trọng yếu, nhưng trước khi dùng vẫn phải cân nhắc cho kỹ.
 
 ![](images/ch149-01.webp)
 
-"Nào, hai đứa có muốn thử dùng vài ma pháp trận dịch chuyển khác không?" Gharb hỏi. "Ta đã kiểm tra điểm đến của một số cái rồi."
+"Giờ có muốn thử vài ma pháp trận dịch chuyển khác không?" Gharb hỏi. "Mấy cái ta kiểm tra điểm đến rồi đấy."
 
-Tôi và Lorraine gật đầu.
+Lorraine và tôi gật đầu.
 
-"Được rồi, thế thì trèo lên lại đi," Gharb nói rồi trèo lên lưng con Shahor Melechnamer.
+"Thế thì trèo lên lại đi," Gharb nói rồi leo lên lưng Shahor Melechnamer.
 
-Đến nước này thì chúng tôi đã quen với việc cưỡi nó rồi, nên trèo lên suôn sẻ hơn hẳn lúc trước. Khi cả bốn người đã ngồi vững vàng, con Shahor Melechnamer lại bắt đầu chạy.
-
-◆◇◆◇◆
-
-"Ta biết ma pháp trận dịch chuyển này dẫn đi đâu, nhưng điểm đến là một nơi hơi kỳ quặc đấy. Như thường lệ, bọn ta sẽ đi trước," Gharb bảo. Nói rồi, bà cùng Capitan bước lên ma pháp trận dịch chuyển và biến mất.
-
-"Cô nghĩ bà ấy nói nơi kỳ quặc là có ý gì?" tôi hỏi Lorraine.
-
-"Có thể là một bờ biển cạnh vùng biển bão tố, hoặc đỉnh của một ngọn núi lửa chăng."
-
-"À thì, tôi rất mong là chẳng phải nơi nào trong hai chỗ đó."
-
-Đó dĩ nhiên chỉ là câu nói đùa, nhưng để một thứ gì đó khiến những người dũng cảm cỡ như Gharb và Capitan phải bối rối, hẳn nó cũng phải thuộc dạng tương tự như thế. Thế nhưng ở lại chờ đợi thì không phải là một lựa chọn, nên chúng tôi bước lên ma pháp trận và dịch chuyển đến một vùng đất xa lạ.
+Lúc này bọn tôi đã quen cưỡi rồi nên trèo lên dễ dàng hơn hẳn. Đợi cả bốn đứa ngồi vững, Shahor Melechnamer lại tiếp tục phóng đi.
 
 ◆◇◆◇◆
 
-Khi vừa đặt chân tới nơi, tôi không kìm được mà kêu thét lên một tiếng. Thứ đầu tiên đập vào giác quan của tôi là một mùi hôi thối nồng nặc. Lorraine chẳng nói chẳng rằng, nhưng gương mặt cô nhăn nhó lại. Tôi hiểu lý do vì sao; cái mùi quả thực kinh khủng tột cùng.
+"Ta biết ma pháp trận dịch chuyển này dẫn đi đâu, nhưng chỗ đó hơi oái oăm một chút. Như lệ thường, bọn ta sẽ đi trước," Gharb bảo. Dứt lời, bà cùng Capitan bước lên ma pháp trận rồi biến mất.
 
-"Thấy ta nói đúng chưa?" Gharb toe toét cười bảo. Capitan cũng đang mỉm cười. Nơi này quả nhiên kỳ quặc thật.
+"Cô nghĩ bà ấy bảo nơi oái oăm là ý gì?" tôi quay sang hỏi Lorraine.
 
-"Rốt cuộc đây là đâu vậy ạ?" tôi hỏi.
+"Khéo lại là bờ biển cạnh vùng biển bão bùng, hoặc ngay trên đỉnh núi lửa cũng nên."
 
-"Một đường cống ngầm," Gharb đáp. "Chính xác hơn là một căn phòng bí mật bên trong đường cống ngầm." Gharb lần tay sờ soạng quanh bức tường đá cho đến khi một phần tường trượt sang một bên với tiếng nghiến ken két chói tai. Vài giây sau, một lối đi hiện ra phía trước, phía bên kia là một dòng kênh dẫn nước. "Giờ thì đi thôi."
+"Thế thì mong là đừng rơi vào hai chỗ đấy."
+
+Đó dĩ nhiên chỉ là đùa thôi, nhưng cái chốn khiến những người gan dạ cỡ Gharb với Capitan phải lúng túng thì chắc cũng chẳng phải dạng vừa. Cơ mà ở lại chờ thì đâu có được, nên hai đứa tôi bước lên ma pháp trận, dịch chuyển tới một vùng đất xa lạ.
 
 ◆◇◆◇◆
 
-"Cháu tự hỏi liệu nơi này đã có từ hồi thành phố kia còn phồn thịnh hay không," tôi lên tiếng khi chúng tôi rảo bước trong cống ngầm.
+Khi vừa đặt chân tới nơi, tôi không kìm được mà kêu ré lên một tiếng. Đập vào mũi tôi đầu tiên là một mùi thối nồng nặc. Lorraine không nói nửa lời, nhưng mặt mày nhăn tít lại. Cũng dễ hiểu thôi, cái mùi này tởm lợm thực sự.
 
-"Có khả năng, nhưng chắc là không đâu," Lorraine nói sau một lúc ngẫm nghĩ.
+"Thấy ta nói chưa?" Gharb toe toét cười bảo. Capitan cũng nhe răng cười. Quả đúng là oái oăm thật.
 
-"Bà có biết không, bà Gharb?"
+"Thế rốt cuộc đây là đâu vậy ạ?" tôi hỏi.
 
-Gharb gật đầu. "Ừ, cô nói đúng đấy. Đường cống ngầm này không đến mức cổ xưa như thế đâu. Vẫn cổ đấy, nói cho mà biết, nhưng chỉ chừng vài thế kỷ thôi." Thành phố tàn tích kia ước chừng đã hàng nghìn năm tuổi, nên so với nó thì nơi này chẳng có mấy bề dày lịch sử.
+"Một đường cống ngầm," Gharb đáp. "Nói đúng hơn là căn phòng bí mật trong cống ngầm." Gharb sờ soạng quanh vách đá cho đến khi một mảng tường trượt sang bên kèm tiếng ken két chói tai. Vài giây sau, một lối đi mở ra, phía bên kia là mương dẫn nước. "Đi thôi nào."
 
-"Nhưng ở đây lại có một ma pháp trận dịch chuyển," tôi phản bác. "Những thứ đó đâu thể tạo ra bằng kỹ thuật thời nay, nên nó hẳn phải tồn tại từ thời thành phố còn hoạt động chứ ạ?"
+◆◇◆◇◆
 
-"Rentt, cháu có chịu để tâm lắng nghe không đấy hả?" Gharb vặn lại. "Bất cứ ai nắm giữ chức vụ đặc biệt ở Hathara đều có một bộ đá đó cả. Cơ mà vài người trong số họ đã dùng rồi. Cái này là do một tể tướng để lại, ta tin là vậy. Một tể tướng từ thời xa xưa."
+"Cháu thắc mắc không biết chỗ này có từ thời thành phố kia còn hưng thịnh không nhỉ," tôi bảo khi cả nhóm rảo bước trong cống ngầm.
 
-Nghe cũng có lý, nhưng những người nắm giữ các vai trò đặc biệt ấy vốn phải giữ kín bí mật về tàn tích cùng mọi thứ liên quan tới nó kia mà. Tôi không tài nào hiểu nổi vì sao họ lại tạo ra một ma pháp trận dịch chuyển ở đây.
+"Cũng có thể, nhưng chắc là không," Lorraine ngẫm nghĩ một lát rồi bảo.
 
-"Sắp tới lối ra rồi," Gharb bảo và chỉ tay về phía luồng sáng đằng trước. Khi lại gần hơn, tôi nhận thấy lần này không phải là ánh sáng nhân tạo. Nó phát ra từ mặt trời, và tôi có thể nhìn thấy cây cối bên ngoài hệt như chúng tôi đang ở trong một khu rừng. Ngoài ra còn có một con suối đang chảy.
+"Bà biết không, bà Gharb?"
 
-"Chúng ta đang ở đâu thế này ạ?" tôi hỏi. Tôi nhìn quanh quất khắp xung quanh, nhưng chịu chết không đoán ra được.
+Gharb gật đầu. "Ừ, cô nói đúng đấy. Đường cống ngầm này không đến mức cổ xưa như thế đâu. Nói là cổ thì vẫn cổ, nhưng cũng chỉ tầm vài thế kỷ thôi." Thành phố tàn tích kia chắc phải hàng nghìn năm tuổi, nên đem so ra thì chỗ này vẫn chưa thấm vào đâu.
 
-"Đợi một chút. Ẩn mình đi, Rehesteel," Gharb niệm chú. Tôi quay nhìn lại lối ra của cống ngầm và thấy dây leo cùng cỏ dại mọc trùm lên cho đến khi nó hoàn toàn biến mất khỏi tầm mắt.
+"Nhưng ở đây có ma pháp trận dịch chuyển mà," tôi thắc mắc. "Thời nay đâu tạo ra được thứ đó, vậy nó phải có từ hồi thành phố kia còn hoạt động chứ ạ?"
 
-"Đó không phải là thần chú do bà Gharb thi triển đâu," Lorraine bảo. "Đúng hơn thì chính lối ra này đã được ếm ma pháp để phản ứng với một mật ngữ. Cấu trúc rất phức tạp, nên tôi không nghĩ nó có thể dễ dàng bị hóa giải đâu."
+"Rentt, cháu có thèm để tai vào nghe không đấy hả?" Gharb vặn lại. "Ai nắm chức vụ đặc biệt ở Hathara mà chẳng có một bộ đá. Cơ mà mấy người trước dùng rồi. Cái này là do một vị tể tướng để lại thì phải. Tể tướng từ hồi xửa hồi xưa ấy."
 
-Để Lorraine phải nói ra câu đó, nơi này hẳn phải sở hữu ma pháp vô cùng cao cấp. Một ma pháp sư bình thường đi ngang qua chắc sẽ chẳng mảy may nhận thấy điều gì. Thế nhưng tôi thì mù tịt về mấy chuyện này. Có quá nhiều điều cần học hỏi về ma thuật. Tôi từng mong một ngày nào đó mình có thể đàm đạo về cấu trúc của các câu chú cùng những điều tương tự, nhưng có lẽ ước muốn ấy nằm ngoài tầm với của tôi rồi.
+Nghe cũng có lý, nhưng những người nắm trọng trách vốn phải giữ kín bí mật về tàn tích cùng mọi thứ liên quan kia mà. Tôi chẳng hiểu sao họ lại tạo một ma pháp trận dịch chuyển ở đây làm gì.
 
-Chúng tôi đi theo sau Gharb thêm một đoạn nữa. Không hẳn quá xa, nhưng cũng đủ dài để cảm giác như một chặng tản bộ ra trò. Cuối cùng, chúng tôi nhìn thấy một thứ.
+"Sắp tới lối ra rồi," Gharb chỉ về phía luồng sáng đằng trước bảo. Càng lại gần, tôi nhận ra lần này không phải ánh sáng nhân tạo nữa. Đó là ánh nắng mặt trời, bên ngoài còn thấy cây cối rậm rạp như thể đang ở trong rừng, kèm theo tiếng một con suối róc rách.
 
-"Kia có phải là một tòa lâu đài không? Có nghĩa là chúng ta đang ở vương đô sao ạ?" tôi hỏi. Có một công trình kiến trúc đồ sộ, sừng sững vươn cao trước mắt chúng tôi. Nằm sừng sững giữa một thành phố được bao quanh bởi những bức tường thành cao vút, tòa công trình màu trắng toát lên vẻ uy nghiêm và tráng lệ. Chẳng có công trình nào trên khắp đất nước này tráng lệ hơn thế. Chúng tôi chắc chắn đang ở Vistelya, vương đô của Vương Quốc Yaaran. Thú thực thì tôi chưa từng đặt chân tới đây bao giờ. Tôi chỉ biết về nó qua sách vở và các câu chuyện kể, nhưng đây là lần đầu tiên tôi được tận mắt chứng kiến. Giờ thì tôi đã hiểu vì sao dân làng Hathara lại phấn khích đến thế khi tôi kể về Maalt. Đây mới thực sự là một thành phố đúng nghĩa.
+"Mình đang ở đâu thế này ạ?" tôi hỏi. Tôi nhìn quanh quất bốn phía mà chịu, chẳng nhận ra nổi đây là đâu.
 
-Tôi quay sang Lorraine để xem cô cảm thấy thế nào, nhưng trông cô hoàn toàn thản nhiên. Cô đến từ một thành phố thậm chí còn to lớn hơn nhiều, nên có lẽ nơi này chẳng có gì quá đặc biệt trong mắt cô, nhưng sự khác biệt trong phản ứng của cô khiến tôi có chút bực mình. Giờ thì tôi nhất định phải tới thủ đô của Đế Quốc một chuyến cho biết mới được.
+"Đợi một chút. Ẩn mình đi, Rehesteel," Gharb cất tiếng đọc chú. Tôi quay lại nhìn miệng cống ngầm thì thấy dây leo với cỏ dại bò tràn ra, phủ kín lối thoát cho tới khi biến mất tăm.
 
-"Chúng ta có nên dạo quanh một chút trước khi quay về không nhỉ?" Gharb hờ hững nói.
+"Đó không phải phép do bà Gharb thi triển đâu," Lorraine bảo. "Nói đúng hơn là bản thân cửa hầm này đã được ếm ma thuật để phản ứng với một mật ngữ. Kết cấu phức tạp lắm, tôi không nghĩ có thể dễ dàng giải trừ được."
 
-"Đằng nào cũng có vài loại nguyên liệu ta sắp dùng cạn rồi."
+Để Lorraine phải nói ra câu đó, phép thuật ở đây hẳn phải cực kỳ cao cấp. Mấy ma pháp sư tầm thường đi ngang qua chắc chẳng nhận ra được gì đâu. Thế nhưng tôi thì mù tịt về mấy chuyện này. Có quá nhiều điều cần học hỏi về ma thuật. Tôi cũng mong một ngày nào đó mình đủ sức bàn luận về kết cấu thần chú các thứ, cơ mà khéo chuyện đó quá tầm với của tôi rồi.
 
-"Tôi cũng có nơi muốn ghé qua đấy," Capitan bảo. "Tạm thời cứ chia nhau ra rồi lát nữa tập hợp lại sau."
+Cả nhóm đi theo sau Gharb thêm một lúc. Không quá lâu, nhưng cũng đủ dài để xem như một cuốc tản bộ ra trò. Cuối cùng, đập vào mắt chúng tôi là một cảnh tượng.
 
-Nghe giọng điệu của họ cứ như thể đây là chuyện thường ngày ở huyện vậy. "Mọi người chắc chứ ạ?" tôi nói. "Chẳng phải người Hathara bỗng dưng xuất hiện ở vương đô sẽ kỳ lạ lắm sao?"
+"Kia có phải lâu đài không? Nghĩa là bọn mình đang ở vương đô ạ?" tôi hỏi. Một công trình đồ sộ sừng sững hiện ra ngay trước mắt chúng tôi. Tọa lạc giữa lòng thành phố có tường thành cao ngất vây quanh, tòa kiến trúc màu trắng toát lên vẻ uy nghiêm, tráng lệ. Khắp đất nước này chẳng thể có công trình nào nguy nga hơn thế. Chắc chắn bọn tôi đang ở Vistelya, vương đô của Vương Quốc Yaaran. Thú thật tôi chưa từng đặt chân tới đây bao giờ. Xưa giờ chỉ biết qua sách vở với truyện kể, đây là lần đầu tiên tôi được tận mắt nhìn thấy. Giờ thì tôi đã hiểu vì sao dân làng Hathara lại hào hứng đến thế khi nghe tôi kể về Maalt. Đây mới đúng là một thành phố thực sự.
 
-Theo những gì tôi từng nghe, Vistelya có các cổng ở bốn phía đông, tây, nam, bắc, và bất kỳ ai tiến vào thành phố đều phải chứng minh thân phận của mình. Người ta bắt buộc phải xuất trình một loại giấy tờ tùy thân nào đó mới được thông qua, nhưng tôi chẳng rõ hai người họ sẽ dùng thứ gì.
+Tôi quay sang xem Lorraine phản ứng thế nào, nhưng trông cô tỉnh bơ. Cô vốn xuất thân từ một đô thị còn bề thế hơn nhiều, nên chỗ này chắc chẳng có gì đặc biệt, nhưng cái vẻ dửng dưng ấy lại khiến tôi hơi tức mình. Phen này tôi quyết sau này nhất định phải tới thủ đô Đế Quốc một chuyến cho biết.
 
-Đúng lúc tôi còn đang thắc mắc điều đó, mỗi người họ liền rút ra một tấm thẻ bằng đồng mà tôi đã nhìn thấy không biết bao nhiêu lần trước đây.
+"Có dạo quanh một vòng trước khi về không nhỉ?" Gharb nói giọng tỉnh bơ.
 
-"Chẳng phải đó là thẻ mạo hiểm giả Đồng Cấp sao ạ?" tôi hỏi. Bản thân tôi phải trầy trật lắm mới lấy được tấm thẻ của mình lần đầu tiên, dẫu lần thứ hai thì dễ dàng hơn nhiều. Thế nhưng vì sao hai người họ lại có thẻ thì tôi hoàn toàn chịu chết.
+"Đằng nào cũng có mấy món nguyên liệu ở nhà sắp hết sạch."
 
-Capitan dường như nhận ra lý do vì sao tôi cứ dán mắt vào nhìn nên đã lên tiếng giải đáp thắc mắc của tôi.
+"Tôi cũng có chỗ muốn ghé," Capitan bảo. "Giờ cứ tách nhau ra đi, lát nữa quay lại tập hợp."
 
-"Bọn chú làm sẵn để phòng những lúc thế này đấy. Bọn chú dùng tên giả rồi đăng ký ở một thành phố cách xa Hathara. Họ sẽ chẳng nghi ngờ gì đâu. Bọn chú thỉnh thoảng vẫn nhận việc làm mạo hiểm giả, nên hồ sơ cũng có lưu lại lịch sử hành nghề hẳn hoi."
+Hai người họ nói như thể chuyện cơm bữa vậy. "Hai người chắc chứ?" tôi hỏi. "Người Hathara bỗng dưng lù lù xuất hiện ở vương đô không thấy lạ sao ạ?"
 
-Tôi kiểm tra địa điểm của hội quán ghi trên thẻ của họ, và đúng là trên đó ghi tên của một thành phố xa xôi. Còn về việc họ đã nhận những công việc gì và làm được bao nhiêu ủy thác, tôi sẽ phải làm việc cho Hội thì mới kiểm tra được, nên tôi cũng chịu. Biết rõ thực lực của Capitan, người ta dễ dàng hình dung ra chú ấy đã làm được những điều ấn tượng đến mức nào. Gharb cũng vậy. Thẻ của bà ghi một hội quán khác với của Capitan, chứng tỏ họ đã bỏ rất nhiều tâm huyết vào từng chi tiết nhỏ. Chắc hẳn họ đã dùng các ma pháp trận dịch chuyển để tới lấy mấy tấm thẻ này, và xem chừng họ sử dụng chúng mà chẳng mấy đắn đo suy nghĩ. Tôi không rõ liệu đó có phải là ý hay nhất hay không, nhưng mặt khác, hai con người này có lẽ cũng thừa biết chừng mực để thận trọng ở một mức độ nhất định.
+Theo những gì tôi nghe kể, Vistelya có bốn cổng đông tây nam bắc, ai vào thành cũng phải chứng minh thân phận. Phải trình một loại giấy tờ tùy thân nào đó mới qua được cổng, cơ mà tôi chẳng biết hai người họ định lấy gì ra dùng.
 
-"Dù sao thì hai đứa cứ đi ngắm cảnh cho thỏa thích đi," Capitan bảo.
+Vừa lúc tôi còn đang phân vân, hai người liền rút ra hai tấm thẻ đồng mà tôi đã quen mặt đến nhẵn cả mắt.
 
-"Cháu hơi lo là bọn cháu trông cũng sẽ khả nghi đấy ạ," tôi đáp lại.
+"Kia chẳng phải thẻ mạo hiểm giả Đồng Cấp sao ạ?" tôi hỏi. Bản thân tôi lần đầu trầy trật mãi mới lấy được tấm thẻ ấy, dù lần thứ hai thì dễ hơn nhiều. Cơ mà vì sao hai người họ lại có thẻ mạo hiểm giả thì tôi chịu chết.
 
-"Nếu anh dùng tấm thẻ mang tên Rentt Vivie thì chắc sẽ ổn thôi," Lorraine nói.
+Thấy tôi dán mắt nhìn, Capitan liền hiểu ý giải thích.
 
-Có lẽ đúng là như vậy. Đằng nào thì đáng lẽ ra tôi cũng đang rời xa khỏi Maalt, nên chúng tôi hoàn toàn có thể nói rằng Rentt Faina đang ở Hathara trong khi Rentt Vivie đang ở vương đô.
+"Bọn chú làm sẵn để phòng mấy lúc thế này đấy. Dùng tên giả rồi đăng ký ở một thành phố cách xa Hathara, nên chẳng ai nghi ngờ đâu. Thỉnh thoảng bọn chú vẫn nhận việc mạo hiểm giả, nên hồ sơ có lưu lại lịch sử hoạt động hẳn hoi."
 
-"Thế còn cô thì sao hả Lorraine?" tôi hỏi.
+Tôi liếc qua chi nhánh Hội ghi trên thẻ của hai người, đúng là tên của một thành phố xa xôi thật. Còn họ đã nhận những nhiệm vụ gì, làm được bao nhiêu vụ thì chỉ có nhân viên Hội mới tra được, nên tôi chịu. Nhưng với thực lực của Capitan, chẳng khó để đoán chú ấy từng làm được những chiến tích đáng nể cỡ nào. Gharb cũng vậy. Thẻ của bà còn ghi một chi nhánh khác với Capitan, chứng tỏ hai người đã chuẩn bị cực kỳ chu đáo tới từng chi tiết. Chắc hẳn họ dùng ma pháp trận dịch chuyển để tới làm thẻ, xem chừng dùng cũng thoải mái chẳng kiêng dè gì. Tôi không rõ làm vậy có thực sự khôn ngoan không, nhưng nghĩ lại thì hai người họ chắc chắn cũng thừa biết chừng mực để cẩn trọng.
 
-"Tôi á? Tôi có cách riêng của mình. Chẳng có gì to tát đâu, nhưng nhìn này," Lorraine bảo rồi cho tôi xem vài tấm thẻ căn cước khác nhau đến từ Đế Quốc. Trên đó đều mang những cái tên khác nhau. Chúng rõ ràng đều là đồ giả. Một trong số đó có tên thật của cô, nhưng tôi ngờ rằng cô chẳng định dùng tới nó đâu. Thỉnh thoảng cô vẫn làm những trò như thế này, khiến tôi tự hỏi rốt cuộc Lorraine được đối đãi ra sao ở Đế Quốc, nhưng giờ hỏi chuyện đó cũng chẳng để làm gì. Huống hồ, cô vẫn là chính cô, và chẳng điều gì có thể thay đổi được sự thật ấy. Thế là ổn rồi.
+"Thôi, hai đứa cứ đi ngắm nghía cho biết đây biết đó đi," Capitan bảo.
 
-"Thôi thì tôi đoán là chẳng có vấn đề gì nữa rồi. Đi thôi nào," tôi nói, rồi chúng tôi tiến bước về phía cổng thành Vistelya.
+"Cháu hơi lo là trông bọn cháu cũng khả nghi đấy ạ," tôi đáp.
+
+"Anh dùng thẻ Rentt Vivie thì chắc không sao đâu," Lorraine bảo.
+
+Có lẽ cũng đúng. Đằng nào thì tôi cũng đang rời Maalt đi vắng, nên hoàn toàn có thể bảo Rentt Faina đang ở Hathara, còn Rentt Vivie thì lên vương đô.
+
+"Thế còn cô thì sao, Lorraine?" tôi hỏi.
+
+"Tôi á? Tôi có cách riêng của mình. Chẳng có gì to tát đâu, nhìn này," Lorraine nói rồi rút ra cho tôi xem mấy tấm thẻ căn cước khác nhau của Đế Quốc. Tấm nào cũng mang tên khác. Rõ ràng toàn là đồ giả. Trong đó có một tấm mang tên thật của cô, nhưng tôi không nghĩ cô định dùng tới nó. Thỉnh thoảng cô lại làm mấy trò thế này, khiến tôi tự hỏi không biết ngày trước ở Đế Quốc cô được đối đãi ra sao, nhưng giờ có hỏi cũng chẳng để làm gì. Huống chi, cô vẫn là Lorraine thôi, điều đó chẳng bao giờ thay đổi cả. Thế là được rồi.
+
+"Thế thì chắc chẳng còn vấn đề gì nữa rồi. Đi thôi," tôi nói, rồi cả nhóm cùng rảo bước về phía cổng thành Vistelya.
