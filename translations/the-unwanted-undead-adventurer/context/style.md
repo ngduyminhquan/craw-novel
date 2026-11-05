@@ -56,6 +56,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 30. **Rentt tự gọi tên mình khi độc thoại tự nhủ (#98).** Khi tự sốc lại tinh thần, tự trấn an hoặc tự dặn dò bản thân (như "Go home, Rentt", "Let's do that, Rentt..."), Rentt hay gọi tên chính mình như một người bạn thân thiết; dịch tự nhiên theo giọng thủ thỉ, tự trào ("Về nhà thôi, Rentt. Về nhà thôi nào", "Cứ làm thế đi, Rentt à..."), tránh chuyển thành ngôi thứ ba trịnh trọng.
 31. **Lorraine khi tâm sự về quá khứ tại Đế Quốc Rermutt (#99).** Giữ giọng điềm tĩnh, nhẹ nhõm, pha nét tự giễu hóm hỉnh về sự non nớt của tuổi trẻ trước trò đấu đá học thuật bè phái (dùng ngụ ngôn mộc mạc như ví dụ "quả cam - quả táo"), xem quyết định bỏ đến Maalt là một sự giải thoát và may mắn chứ không mang giọng oán hận, cay cú.
 32. **Giọng Sharl Stheno (#103).** Chủ Thương hội Stheno; phong thái bệ vệ, lịch thiệp chuẩn mực giới thương gia lớn; giao tiếp nhã nhặn, tôn trọng đối phương ("thưa ngài Rentt", xưng "tôi"); biết nhún nhường và chủ động nhận lỗi để thăm dò lai lịch đối tác một cách khéo léo, không mang giọng trịch thượng hay màu mè.
+33. **Giọng Nive Maris (#104).** Mạo hiểm giả Kim Cấp kiêm Thợ Săn Ma Cà Rồng; cách nói chuyện xởi lởi, tưng tửng, bộc trực, thích độc thoại dông dài, xưng "tôi", gọi "ngài Rentt", "ngài Sharl"; tùy tiện trêu chọc và cà khịa các hội đoàn tôn giáo, nhưng khi chuyển sang chế độ săn Ma Cà Rồng thì ánh mắt và giọng điệu lập tức sắc lạnh, đâm thấu tâm can, không chút cợt nhả.
 
 ## Từ cảm thán / cách nói cố định
 

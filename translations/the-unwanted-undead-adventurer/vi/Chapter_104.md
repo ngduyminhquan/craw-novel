@@ -1,225 +1,225 @@
 # Chương 104: Tập 4 Chương 3 - Thương Hội Stheno (3)
 
-Ngay khi tôi vừa gật đầu trước câu hỏi của ông...
+Vừa lúc tôi gật đầu đáp lại câu hỏi của ông thì...
 
 Cốc, cốc...
 
-Vài tiếng gõ cửa dồn dập vang lên từ cánh cửa gỗ. Thật đúng lúc làm sao.
+Mấy tiếng gõ dứt khoát vang lên từ cánh cửa gỗ. Đúng lúc thật đấy.
 
-"...Tiểu thư Nive Maris và Tiểu thư Myullias Raiza đã tới ạ," một giọng nói cất lên từ phía bên kia cánh cửa. Rất có thể là người nhân viên khi nãy.
+"...Tiểu thư Nive Maris và Tiểu thư Myullias Raiza đã tới ạ," một giọng nói vang lên từ ngoài cửa. Chắc là cậu nhân viên khi nãy.
 
-Sharl đưa mắt nhìn tôi như để dò hỏi ý kiến. Tôi gật đầu thêm một lần nữa.
+Sharl nhìn sang tôi dò ý. Tôi gật đầu lần nữa.
 
-"Làm phiền mở cửa giúp ta."
+"Phiền cậu mở cửa giúp ta."
 
-Dứt lời, ông đứng dậy. Tôi cũng làm theo ông.
+Dứt lời, ông đứng dậy. Tôi cũng đứng lên theo.
 
-Cánh cửa mở ra... và hai người phụ nữ bước vào. Hai người phụ nữ xinh đẹp đến ngỡ ngàng, hút hồn người đối diện.
+Cánh cửa mở ra... và hai người phụ nữ bước vào. Hai người đẹp đến ngỡ ngàng, đẹp tới mức khiến người ta phải nín thở.
 
-Một người sở hữu mái tóc màu xám tro cùng đôi mắt đỏ rực sáng lấp lánh. Thật khó lòng đoán định nổi nét biểu cảm hay ý đồ của cô ấy. Người còn lại có mái tóc màu bạc và đôi mắt màu tím như thạch anh. Người phụ nữ này toát ra một vầng khí chất hư ảo, thanh thuần.
+Một người có mái tóc xám tro cùng đôi mắt đỏ rực sáng lấp lánh, chẳng tài nào đoán nổi biểu cảm hay ý định trong đầu cô. Người kia sở hữu mái tóc bạc và đôi mắt màu thạch anh tím, toát lên khí chất mong manh gần như hư ảo.
 
-Cả hai có lẽ trẻ hơn hai mươi một chút, hoặc có thể tầm khoảng hai mươi lăm. Dù nhìn chung tôi không hề giỏi đoán tuổi phụ nữ cho lắm, nhưng tôi nghĩ bản thân cũng ước lượng được đôi phần.
+Cả hai có lẽ chưa tới hai mươi, hoặc cùng lắm cũng chỉ tầm hai mươi lăm. Dù nhìn chung tôi chẳng giỏi giang gì khoản đoán tuổi phụ nữ, nhưng tôi tự nhủ mình vẫn ước lượng được đôi phần.
 
-Bây giờ tôi hiếm khi lui tới những chốn như thế, song ngày trước, các bậc tiền bối mạo hiểm giả thường hay dắt tôi đến mấy quán rượu có các cô gái tiếp rượu tại bàn. Họ thường hỏi, "Ôi, anh đoán xem em bao nhiêu tuổi nào?", và những lần tôi đoán trúng thì hiếm hoi vô cùng. Còn các bậc tiền bối của tôi lại đoán được tuổi của các tiếp viên, thường chỉ lệch khoảng hai đến ba tuổi là cùng. Đó quả là một kỳ tài lạ lùng của họ. Rốt cuộc làm thế nào mà họ biết được những chuyện ấy chứ?
+Giờ thì tôi hiếm khi lui tới những chốn ấy, nhưng ngày trước mấy đàn anh mạo hiểm giả hay dắt tôi tới mấy quán rượu có tiếp viên ngồi cùng bàn. Các cô ấy thường hỏi: "Anh đoán xem em bao nhiêu tuổi nào?", và lần nào tôi đoán cũng trật lất. Còn mấy đàn anh thì lại đoán được tuổi của họ, thường chỉ lệch chừng hai, ba tuổi là cùng. Đúng là một biệt tài kỳ quặc. Làm sao mà các anh ấy biết được hay thế nhỉ?
 
-Mà thôi, chuyện đó lúc này chẳng đáng để bận tâm.
+Mà thôi, lúc này chẳng việc gì phải bận tâm chuyện đó.
 
-Khi hai người phụ nữ bước vào, người nhân viên lui ra ngoài phòng và khép cánh cửa lại sau lưng.
+Khi hai người phụ nữ bước vào, cậu nhân viên lui ra ngoài rồi khép cửa lại sau lưng.
 
-"Rất hân hạnh được gặp hai vị, Tiểu thư Nive, Tiểu thư Myullias. Vị đang đứng trước mặt hai vị đây không ai khác chính là mạo hiểm giả đã tiêu diệt con Tarasque, ngài..."
+"Rất hân hạnh được đón tiếp hai vị, Tiểu thư Nive, Tiểu thư Myullias. Vị đang đứng trước mặt hai vị đây chính là mạo hiểm giả đã tiêu diệt Tarasque, ngài..."
 
-Sharl ngập ngừng bỏ lửng câu nói, quay sang nhìn tôi như thể muốn giục tôi tự giới thiệu bản thân. Có lẽ bởi cách ông xưng hô với hai người phụ nữ như thế, nên tôi thấy rõ ràng hai người này đều có địa vị xã hội rất cao.
+Sharl bỏ lửng câu, quay sang nhìn như muốn giục tôi tự giới thiệu. Nghe cách ông xưng hô, tôi hiểu ngay hai người phụ nữ này ắt hẳn có địa vị xã hội rất cao.
 
-Thật là một vị thương nhân biết thấu hiểu lòng người đến bất ngờ...
+Vị thương nhân này tâm lý đến bất ngờ...
 
-Tôi tự giới thiệu: "Rentt Vivie, mạo hiểm giả Đồng Cấp, rất hân hạnh được diện kiến."
+Tôi tự giới thiệu: "Rentt Vivie, mạo hiểm giả Đồng Cấp, rất hân hạnh được gặp hai vị."
 
-Tôi cúi đầu. Ngay lúc đó, tôi nghe thấy một giọng nói đáp lại theo cách khá bất ngờ.
+Tôi cúi đầu. Ngay lúc đó, một giọng nói vang lên đáp lại theo cách tôi chẳng ngờ tới.
 
-"Ôi dào, tôi không câu nệ mấy thứ lễ nghi kiểu đó đâu! Ngẩng đầu lên đi, ngài Rentt. Tôi cũng đâu phải ai đó đặc biệt gì cho cam... À. Hừm. Có khi Tiểu thư Myullias mới là người đặc biệt—quan trọng đấy chứ! Ấy, không, không. Tôi chẳng quan trọng hay đặc biệt gì đâu. Dù đúng là tôi có tước vị thật, nhưng về cơ bản tôi cũng chỉ là một công dân bình thường thôi mà."
+"Ôi dào, tôi không câu nệ mấy thứ lễ nghi kiểu đó đâu! Ngẩng đầu lên đi, ngài Rentt. Tôi cũng đâu phải ai đó đặc biệt gì cho cam... À. Hừm. Có khi Tiểu thư Myullias mới đặc biệt, quan trọng đấy chứ! Ấy, không, không. Tôi chẳng quan trọng hay đặc biệt gì đâu. Đúng là tôi có tước vị thật, nhưng nhìn chung cũng chỉ là một người dân bình thường thôi mà."
 
-Tôi từ từ ngẩng đầu lên, có chút thận trọng, và rồi nhìn thấy một trong hai người phụ nữ đang nở nụ cười rạng rỡ.
+Tôi thận trọng ngẩng đầu lên, thì thấy một trong hai người đang nở nụ cười rạng rỡ.
 
 ![](images/ch104-01.webp)
 
-Theo những gì tôi nghe được, người vừa lên tiếng chính là người phụ nữ tóc xám, Nive. Thật ra, tôi từng nghe đến tên cô từ trước rồi.
+Người vừa lên tiếng là cô gái tóc xám tro, Nive. Thật ra, tôi từng nghe tên cô từ trước rồi.
 
-Nive Maris... Đó không ai khác ngoài tên của một mạo hiểm giả Kim Cấp đến từ vùng đất láng giềng. Cô sở hữu tài năng cùng thực lực khó tin, và được cho là mạo hiểm giả Kim Cấp tiệm cận bậc Bạch Kim Cấp nhất xét về sức mạnh. Để ghi nhận những thành tựu cùng chiến công của cô, cô đã được ban phong tước vị Nữ Chuẩn Nam tước. Có lẽ đó chính là lý do cô thốt ra những lời vừa rồi.
+Nive Maris... Đó chính là tên tuổi của một mạo hiểm giả Kim Cấp đến từ nước láng giềng. Cô có tài năng lẫn thực lực đáng kinh ngạc, được xưng tụng là mạo hiểm giả Kim Cấp tiệm cận ngưỡng Bạch Kim Cấp nhất về sức mạnh. Nhờ những chiến công hiển hách, cô đã được phong tước vị Nữ Chuẩn Nam tước. Có lẽ đó là lý do cô vừa nói những lời ấy.
 
-Còn về chiến công của cô... Chà. Đó là những chiến công chẳng hề hòa hợp chút nào với tôi cả...
+Còn về chiến tích của cô... Chà. Đó là những chiến tích chẳng hề dễ chịu chút nào với kẻ như tôi...
 
-"Vâng. Tôi cũng là một mạo hiểm giả, và tôi từng nghe danh tiếng của cô. Nếu tôi nhớ không lầm, cô từng tiêu diệt một con Trung Cấp Ma Cà Rồng lập tổ trong một thành phố lớn. Thợ Săn Ma Cà Rồng... Nive Maris."
+"Vâng. Tôi cũng là một mạo hiểm giả nên có nghe danh cô. Nếu tôi nhớ không lầm, cô từng tiêu diệt một Trung Cấp Ma Cà Rồng dựng sào huyệt tại một thành phố lớn. Thợ Săn Ma Cà Rồng... Nive Maris."
 
-Vì lý do này hay lý do khác, cô là một mạo hiểm giả dường như chuyên đi tiêu diệt ma cà rồng. Dẫu vậy, phần lớn mục tiêu của cô chỉ là Hạ Cấp Ma Cà Rồng, Thi Quỷ và những sinh vật tương tự. Thế nhưng, cô từng tiêu diệt một con Trung Cấp Ma Cà Rồng cùng bầy đàn của nó, quét sạch chúng khỏi thành phố nơi chúng cắm rễ. Chiến tích này chính là điều khiến danh tiếng của cô vang xa khắp chốn.
+Vì lý do nào đó, cô dường như là mạo hiểm giả chuyên săn lùng Ma Cà Rồng. Dù vậy, phần lớn mục tiêu của cô chỉ là Hạ Cấp Ma Cà Rồng, Thi Quỷ và những sinh vật tương tự. Thế nhưng, cô từng tiêu diệt một Trung Cấp Ma Cà Rồng cùng cả bầy đàn của nó, quét sạch chúng khỏi thành phố nơi chúng cắm rễ. Chiến tích ấy đã khiến tên tuổi cô vang xa khắp chốn.
 
-Dù cô quả thực rất mạnh, cô còn sở hữu những năng lực truy lùng những con ma cà rồng trà trộn giữa người sống và che giấu hình dạng của chúng. Ít nhất thì tôi cũng biết đến chừng đó.
+Dù cô quả thực rất mạnh, cô còn có khả năng truy lùng những kẻ là Ma Cà Rồng đang che giấu nhân dạng, trà trộn giữa người sống. Ít nhất thì tôi cũng biết được đến chừng đó.
 
-Thế nhưng, tôi lại chẳng hề biết cô dùng phương thức gì để phát hiện ra lũ ma cà rồng đó...
+Thế nhưng, tôi lại chẳng hề biết cô dùng cách gì để phát hiện ra Ma Cà Rồng...
 
-Dù thế nào đi nữa, chuyện cô đã nghiền nát một con Trung Cấp Ma Cà Rồng cùng bầy đàn của nó là sự thật không thể chối cãi. Vậy thì cô thực sự có bản lĩnh đúng như những lời đồn đại.
+Dù thế nào đi nữa, chuyện cô từng đè bẹp một Trung Cấp Ma Cà Rồng cùng bầy đàn của nó là sự thật không thể chối cãi. Quả nhiên thực lực của cô đúng như lời đồn.
 
-Tại sao một kẻ như thế này—thậm chí còn là thiên địch của tôi—lại xuất hiện ở đây cơ chứ? Chẳng lẽ vận rủi của tôi cũng không có lấy một giới hạn nào sao?
+Tại sao một kẻ như thế này, thậm chí còn là thiên địch của tôi, lại xuất hiện ở đây cơ chứ? Chẳng lẽ vận rủi của tôi không có lấy một giới hạn nào sao?
 
-Đó là những gì tôi nghĩ từ tận đáy lòng. Lúc này tôi chỉ muốn co giò bỏ trốn và rời khỏi đây ngay lập tức. Tôi sẽ quay sang cô và nói: "Tôi xin lỗi, nhưng cô là Thợ Săn Ma Cà Rồng, còn tôi là Ma Cà Rồng. Chúng ta không thể chung sống hòa thuận được đâu. Chào cô nhé."
+Tôi thật sự nghĩ thế trong bụng. Lúc này tôi chỉ muốn chuồn khỏi đây ngay lập tức. Tôi muốn quay sang cô ta mà bảo: "Thứ lỗi cho tôi, nhưng cô là Thợ Săn Ma Cà Rồng, còn tôi là Ma Cà Rồng. Chúng ta không đội trời chung được đâu. Xin kiếu nhé."
 
-Nhưng dĩ nhiên tôi chẳng thể làm chuyện như thế. Điều duy nhất tôi có thể làm là nói chuyện với họ để tìm hiểu xem họ muốn gì, rồi sau đó trở về nhà một cách tự nhiên... Tôi chẳng thấy còn lối thoát nào khác trong tình cảnh này.
+Nhưng dĩ nhiên tôi chẳng thể làm chuyện như thế. Khá lắm thì tôi cũng chỉ có thể bắt chuyện để xem họ muốn gì, rồi tìm cách rút êm về nhà... Tôi chẳng thấy còn nước đi nào khác trong tình cảnh này.
 
-Chuyện gì sẽ xảy ra nếu thân phận ma cà rồng của tôi bị vạch trần? Mọi sự khi ấy coi như chấm hết. Tất cả những gì tôi có thể làm là liều mạng chiến đấu, rồi sau đó trốn tới một vùng đất xa xôi nào đó và bắt đầu gầy dựng lại cuộc đời từ đầu. Liệu mọi chuyện rồi sẽ ra sao...?
+Chuyện gì sẽ xảy ra nếu thân phận Ma Cà Rồng của tôi bị vạch trần? Coi như xong đời. Tất cả những gì tôi có thể làm là liều mạng chiến đấu, rồi chạy trốn tới một vùng đất xa xôi nào đó để gầy dựng lại cuộc sống từ đầu. Rồi mọi chuyện sẽ đi về đâu cơ chứ...?
 
-Tôi hoàn toàn không tài nào nắm bắt nổi bầu không khí này. Nive trông... rất bình thường. Nói đúng hơn thì trông cô vô cùng vui vẻ. Tôi cảm thấy như thể mình đang nhìn chăm chú vào một vực thẳm không thấy đáy. Ấy vậy mà, cô chẳng hề biểu lộ bất kỳ dấu hiệu hung hăng hay cảnh giác nào đối với tôi... Vậy là tôi chưa bị phát hiện sao? Rốt cuộc là thế nào đây?
+Tôi chẳng tài nào nắm bắt nổi bầu không khí lúc này. Nive trông... rất bình thường. Nói đúng hơn thì trông cô vô cùng vui vẻ. Tôi cảm giác như mình đang nhìn vào một vực thẳm không đáy. Vậy mà cô chẳng hề để lộ chút thù địch hay cảnh giác nào trước tôi... Vậy là tôi chưa bị lộ, hay thế nào đây?
 
-Trước mắt tôi chỉ là một cô gái trẻ đang nhìn mình, không hơn không kém. Thế nhưng, tôi có cảm giác khoảng cách giữa hai chúng tôi có thể bị thu hẹp lại trong chớp mắt, và tôi có thể túm lấy cổ áo cô mà hỏi: "Rốt cuộc là thế nào?!" Nhưng nếu tôi làm vậy, tôi gần như chắc chắn sẽ mất mạng.
+Trước mắt tôi chỉ là một cô gái trẻ đang nhìn mình, không hơn không kém. Thế nhưng, tôi cảm giác chỉ trong chớp mắt là khoảng cách giữa hai bên sẽ bị san phẳng, và tôi chỉ muốn túm lấy cổ áo cô mà hỏi: "Rốt cuộc là thế nào?!" Cơ mà làm thế thì tôi cầm chắc cái chết.
 
-Tôi đồ rằng chẳng còn cách nào khác ngoài việc tiếp tục trò chuyện. Nếu bị lộ tẩy, đến lúc đó nước đến chân thì nhảy vậy.
+Chắc chẳng còn cách nào khác ngoài việc tiếp tục trò chuyện. Nếu có bị lộ thì tới đâu hay tới đó vậy.
 
-"Ồ, ra là ngài cũng biết đến tôi đấy nhỉ. Không ngờ danh tiếng của tôi lại truyền tới tận nơi thôn quê hẻo lánh như thế này... Á! Tôi không có ý chế giễu nơi này đâu nhé, nên ngài bỏ qua cho tôi nha," Nive nói, gần như lập tức xin lỗi vì nhận xét về vị trí địa lý của Maalt.
+"Ồ, ra là ngài cũng biết tôi cơ đấy. Không ngờ tên tuổi của tôi lại truyền tới tận chốn thôn quê hẻo lánh thế này... Á! Tôi không có ý chê bai gì đâu nhé, ngài bỏ quá cho tôi nha," Nive vừa nói vừa vội vã xin lỗi vì trót buột miệng nhận xét về Maalt.
 
-Dù tôi không mấy để tâm, nhưng có những kẻ sẽ cực kỳ phật ý trước những phát ngôn như vậy.
+Dù tôi chẳng mấy để tâm, nhưng khối người sẽ phật ý ra mặt nếu nghe thấy câu đó đấy.
 
-"Thôn quê hẻo lánh cái nỗi gì? ĐÂY. LÀ. MỘT. THÀNH. PHỐ!" hẳn họ sẽ nói như thế.
+"Thôn quê hẻo lánh cái nỗi gì? ĐÂY. LÀ. THÀNH. PHỐ!" chắc họ sẽ gào lên như thế.
 
-Dù sao thì nơi đây cũng chẳng hẳn là một thành phố cho lắm... Cho dù người ta có nói hươu nói vượn thế nào đi nữa, Maalt thực sự chỉ là một thị trấn nhỏ hẻo lánh nơi thôn quê. Cực kỳ hẻo lánh. Đó là điều mà một kẻ sống ở đây suốt một thời gian dài như tôi, Rentt Faina, có thể khẳng định. Đó là một chân lý không thể chối cãi. Một sự thật hiển nhiên.
+Cơ mà nơi này cũng chẳng giống thành phố cho lắm... Dù có vẽ vời thế nào đi nữa, Maalt thực chất cũng chỉ là một thị trấn hẻo lánh ở vùng quê. Cực kỳ hẻo lánh là đằng khác. Đó là điều mà một kẻ đã sống ở đây suốt ngần ấy năm như tôi, Rentt Faina, có thể khẳng định. Một chân lý không thể chối cãi. Một sự thật hiển nhiên.
 
-"Không đâu. Đúng như cô nói, nơi này khá là hẻo lánh... Còn vị tiểu thư đằng kia thì sao ạ?"
+"Không đâu. Đúng như cô nói, nơi này khá là hẻo lánh... Còn vị tiểu thư đằng kia là...?"
 
-Tôi ra hiệu về phía người phụ nữ tóc bạc. Cô nhanh chóng đáp lời.
+Tôi đưa tay về phía cô gái tóc bạc. Cô liền lên tiếng đáp lời ngay.
 
-"Tôi xin thứ lỗi vì đã chậm trễ giới thiệu bản thân. Tôi là Thánh Nữ Myullias Raiza, phụng sự cho Giáo Hội Lobelia. Rất hân hạnh được làm quen với ngài."
+"Thứ lỗi vì tôi chậm trễ giới thiệu. Tôi là Thánh Nữ Myullias Raiza, phụng sự Giáo Hội Lobelia. Rất hân hạnh được gặp ngài."
 
-Cô nhìn thẳng về hướng tôi. Gần như ngay lập tức, tôi cảm thấy một luồng cảm giác êm dịu, kỳ lạ xâm nhập vào cơ thể mình. Nó không hề gây đau đớn; nói đúng hơn thì cảm giác ấy như thể tôi đang được bao bọc bởi một thứ xúc cảm mâu thuẫn khôn tả.
+Cô nhìn thẳng về phía tôi. Gần như ngay lập tức, một cảm giác êm dịu mà kỳ lạ len lỏi vào cơ thể tôi. Nó không hề gây đau đớn, mà giống như tôi đang bị bọc trong một luồng cảm xúc mơ hồ, lẫn lộn.
 
-Thứ này... là cái gì vậy?
+Đây... là thứ gì vậy?
 
-Trong lúc tôi còn đang suy ngẫm, tôi có thể cảm nhận được Thần Lực bên trong mình đang cộng hưởng, cứ như thể nó sắp sửa bị kéo tuột ra khỏi chính cơ thể tôi vậy. Chuyện này là...
+Trong lúc tôi còn đang mải nghĩ, Thần Lực bên trong tôi bỗng cộng hưởng, như thể sắp bị rút tuột ra khỏi cơ thể. Đây là...
 
-Tôi quay sang nhìn Myullias, người lúc này đang lộ rõ vẻ kinh ngạc trên nét mặt.
+Tôi nhìn sang Myullias, thấy nét mặt cô lúc này cũng đầy vẻ ngạc nhiên.
 
-"Có phải ngài... được ban phước Thần Lực không?" cô hỏi.
+"Chẳng hay ngài... sở hữu Thần Lực sao?" cô hỏi.
 
-Tôi muốn hỏi làm sao cô biết, nhưng bản thân tôi cũng đã có sẵn những nghi vấn cho riêng mình. Tôi nghĩ tạm thời mình nên giữ nguyên bộ mặt bình thản thì hơn.
+Tôi muốn hỏi sao cô biết, nhưng bụng đã tự đoán được phần nào. Tạm thời chắc tôi cứ phải vờ như không có gì đã.
 
-"Cảm giác vừa rồi... chẳng hay có phải là do cô làm không?"
+"Cảm giác vừa rồi... chẳng lẽ là do cô làm sao?"
 
-"Vâng, tôi định ban phước cho ngài bằng Thần Lực... Vốn dĩ bổn phận của tôi là chém tan bóng tối... Ừm, tôi nên diễn đạt chuyện này thế nào đây..."
+"Vâng, tôi định dùng Thần Lực để chúc phúc cho ngài... Vốn dĩ sứ mệnh của tôi là xua tan bóng tối... Ừm, nói thế nào cho phải nhỉ..."
 
-Myullias nhanh chóng liếc mắt nhìn Nive. Dường như cô gặp khó khăn trong việc giải thích hành động của mình. Thế nhưng, Nive chỉ đơn thuần bật cười trước cử chỉ đó.
+Myullias liền liếc nhanh sang Nive, có vẻ lúng túng chẳng biết giải thích hành động của mình ra sao. Thấy vậy, Nive chỉ bật cười.
 
-"Ái chà, không đâu. Thứ lỗi cho chuyện đó nhé. Đúng như ngài nói đấy, ngài Rentt, tôi khá là nổi tiếng, ngài thấy rồi đó? Thành thử lúc nào cũng có kẻ rắp tâm thủ tiêu tôi cả! Nếu chỉ là đòn tấn công thông thường hay đại loại thế thì tôi thừa sức xử lý, tôi đoan chắc đấy, nhưng tôi phải hết sức cẩn trọng trước những thứ như độc dược, ngài biết mà. Đó là lý do vì sao Thánh Nữ của chúng ta, Tiểu thư Myullias, hôm nay lại có mặt ở đây cùng chúng tôi... Nói đúng hơn thì tôi đã nhờ cô ấy đi cùng để thanh tẩy môi trường xung quanh. Tôi cũng dùng được Thần Lực, nhưng mấy khoản như thanh lọc với ban phước... tôi dở tệ mấy thứ đó lắm. Có một phụ tá từ Giáo Hội Lobelia thực sự giúp ích nhiều lắm đó! Vốn dĩ tôi rất giỏi khoản phát hiện ma cà rồng, ngài thấy đấy. Lũ chúng nó yếu trước Thần Lực và mấy thứ đại loại thế, và nếu là một con yếu ớt, chỉ cần đập Thần Lực vào người nó là bùm một cái! Lên thiên đường ngay tắp lự."
+"Ái chà, không phải thế đâu. Xin lỗi ngài nhé. Đúng như ngài bảo đấy, ngài Rentt, tôi hơi bị nổi tiếng mà, thấy không? Thành ra lúc nào cũng có kẻ nhăm nhe lấy mạng tôi! Đòn tấn công bình thường thì tôi tự lo được, nhưng mấy trò như độc dược thì phải dè chừng chứ. Thế nên hôm nay Thánh Nữ của chúng ta, Tiểu thư Myullias, mới có mặt ở đây cùng tôi... À thì, nói đúng ra là tôi nhờ cô ấy đi cùng để thanh tẩy xung quanh ấy mà. Tôi cũng dùng được Thần Lực, nhưng mấy khoản như thanh lọc với ban phước thì dở tệ. Có một phụ tá từ Giáo Hội Lobelia đi cùng đúng là đỡ bao nhiêu việc! Cơ mà tôi lại giỏi khoản phát hiện Ma Cà Rồng lắm nhé. Bọn chúng sợ Thần Lực các thứ, gặp con nào tép riu thì chỉ cần nện Thần Lực vào một phát là bùm, bay thẳng lên trời luôn."
 
 Nive nói.
 
-Rõ ràng Nive là người thích nói nhiều. Dẫu lời lẽ của cô rất suồng sã và thỉnh thoảng có phần tưng tửng, nhưng nội dung bên trong lại có phần quan trọng hơn nhiều...
+Xem chừng Nive rất thích nói. Dù lời lẽ có phần tùy tiện và thỉnh thoảng hơi tưng tửng, nhưng những điều cô nói ra lại quan trọng hơn nhiều...
 
-Myullias là một Thánh Nữ của Giáo Hội Lobelia. Việc Nive có thể yêu cầu một người hộ tống riêng theo cách như thế này... tôi dễ dàng hiểu được tầm ảnh hưởng và quyền lực mà cô nắm giữ lớn đến dường nào. Và rồi còn có cả lời tuyên bố về việc cô rất giỏi nghiệp vụ của mình nữa chứ...
+Myullias là Thánh Nữ của Giáo Hội Lobelia. Việc Nive có thể nhờ một nhân vật như vậy hộ tống riêng đủ cho thấy tầm ảnh hưởng và thế lực của cô lớn đến mức nào. Lại còn câu nói cô rất giỏi việc của mình nữa chứ...
 
-Nhưng ma cà rồng lại yếu trước Thần Lực ư? Bản thân tôi vẫn mang trong mình Thần Lực, vậy mà trông tôi vẫn hoàn toàn bình yên vô sự đấy thôi... Liệu trước đây tôi từng nghe thấy điều gì tương tự như thế chưa nhỉ? Tôi không nghĩ là có...
+Nhưng Ma Cà Rồng lại sợ Thần Lực ư? Bản thân tôi vẫn mang trong mình Thần Lực, vậy mà tôi có làm sao đâu... Trước giờ tôi đã nghe chuyện như thế bao giờ chưa nhỉ? Hình như là chưa...
 
-Liệu điều đó có thật không? Chà, người ta có thể dẫn truyền Thần Lực vào vũ khí và dùng nó để đả thương ma cà rồng... Nhưng chỉ dùng đơn thuần Thần Lực để đập chúng thôi ư? Tôi chưa bao giờ nghe nói về điều gì như thế cả. Nếu chuyện đó thực sự là thật, thì việc săn ma cà rồng ắt hẳn đã trở thành lãnh địa độc quyền của các Thánh Giả và Thánh Nữ rồi.
+Liệu có thật thế không? Thì đúng là người ta có thể truyền Thần Lực vào vũ khí để đả thương Ma Cà Rồng... nhưng chỉ dùng mỗi Thần Lực để nện chúng thôi á? Tôi chưa từng nghe chuyện đó bao giờ. Nếu đúng như vậy thì việc săn Ma Cà Rồng đã thành mảnh đất độc quyền của các Thánh Giả và Thánh Nữ rồi.
 
-Thế nhưng thực tế lại không phải như vậy. Vậy thì đó là lời nói dối sao? Phương pháp này dường như là bất khả thi.
+Thế nhưng thực tế đâu có thế. Vậy cô ta nói dối sao? Cách đó nghe chừng bất khả thi.
 
-Có lẽ Nive đã nhận ra nỗi hoài nghi của tôi.
+Có lẽ Nive đã nhìn thấu vẻ hoài nghi của tôi.
 
-"Chà, cũng không hẳn là hoàn toàn chẳng có tác dụng gì nếu ngài làm theo cách thông thường đâu, ngài biết đấy? Tôi có cách riêng của mình, ngài thấy đó. Để tìm ra một cách chắc chắn. Một phương pháp luận vô cùng bài bản. Thậm chí chính tôi còn là người khám phá ra nó nữa cơ! Đó là lý do vì sao tôi làm được, còn người khác thì không. Chỉ đơn giản thế thôi."
+"Chà, cũng không hẳn là làm theo cách thông thường thì hoàn toàn vô tác dụng đâu nhé? Tôi có cách riêng mà. Một cách để biết chắc mười mươi. Một phương pháp luận cực kỳ bài bản! Chính tôi tự mày mò ra đấy chứ đâu! Thế nên tôi mới làm được, còn người khác thì chịu. Đơn giản thế thôi."
 
 ◆◇◆◇◆
 
-"Một phương pháp luận vô cùng bài bản, cô nói sao..."
+"Phương pháp luận cực kỳ bài bản sao..."
 
-Liệu thực sự có một thứ như vậy sao? Ngoại trừ những gì tôi biết về Thần Lực và cách sử dụng nó theo bản năng, tôi chẳng có bất kỳ kiến thức nào khác về vấn đề này cả. Do đó, ngay từ đầu tôi đã không thể đánh giá nổi liệu chuyện như vậy có khả thi hay không...
+Liệu có thứ như vậy thật sao? Ngoài chút hiểu biết và cách dùng Thần Lực theo bản năng, tôi chẳng có thêm kiến thức nào khác về mảng này. Thành thử tôi chịu chết, không thể đánh giá nổi chuyện đó liệu có khả thi hay không...
 
-Nói đúng hơn thì Nive đang bảo rằng chỉ duy nhất mình cô mới làm được điều đó. Liệu điều này có khả thi không, cho dù cô có tinh thông các cách thức vận dụng Thần Lực đi chăng nữa...? Tôi chẳng có cách nào để xác thực tính chân thực trong những lời cô nói.
+Đã vậy Nive còn bảo chỉ mình cô làm được. Dù có thông thạo cách vận dụng Thần Lực đến đâu thì chuyện đó liệu có thể xảy ra sao...? Tôi chẳng có cách nào kiểm chứng được lời cô nói.
 
-Tôi liếc nhìn Myullias, người đang đứng bên cạnh Nive. Nét mặt của cô thoáng vẻ nghi ngờ thầm lặng, gần như thể chính cô cũng đang thầm bảo: "Thật sao? Giờ cô làm được trò đó rồi à?"
+Tôi liếc sang Myullias đứng cạnh Nive. Nét mặt cô thoáng vẻ hoài nghi, như thể chính cô cũng đang tự hỏi: "Thật á? Giờ cô làm được trò đó rồi cơ à?"
 
-Dường như hai người phụ nữ này không hẳn là có mối quan hệ hòa thuận với nhau cho lắm. Nive có thể đã yêu cầu một người phụ tá, song có lẽ cô không hề chỉ đích danh Myullias. Hừm.
+Xem chừng hai người họ không thân thiết cho lắm. Nive có thể đã xin một phụ tá, nhưng có lẽ cô chẳng chỉ đích danh Myullias. Hừm.
 
-"Đúng vậy, phương pháp luận đấy!" Nive tiếp tục. "Với kỹ thuật này, tôi đã trở thành một Thợ Săn Ma Cà Rồng bách phát bách trúng! Dĩ nhiên, con người bình thường sẽ chẳng cảm thấy mảy may chút gì cho dù tôi có làm thế với họ đi chăng nữa. Đó là... nếu họ là một con người bình thường."
+"Đúng vậy, phương pháp luận đấy!" Nive tiếp tục. "Nhờ kỹ thuật này mà tôi mới trở thành Thợ Săn Ma Cà Rồng bách phát bách trúng! Dĩ nhiên, người bình thường có bị tôi thử chiêu này cũng chẳng thấy mảy may gì đâu. Ý tôi là... nếu họ thực sự là người bình thường."
 
-Vậy thì... rốt cuộc tất cả những chuyện này có nghĩa là gì đây? Tôi đã bị phát hiện rồi sao? Hay là chưa? Tôi hoàn toàn không thể đưa ra bất kỳ phán đoán nào về tình cảnh của bản thân.
+Vậy... rốt cuộc thế này là có ý gì? Tôi bị lộ rồi sao? Hay là chưa? Tôi chẳng thể nào đoán định nổi tình cảnh của mình.
 
-Cái..."phương pháp luận" này của cô. Liệu cô đã thực hiện nó rồi sao? Không, đâu thể nào như thế được. Nếu cô đã làm rồi, ắt hẳn tôi đã bị bắt sống và lúc này đang trong quá trình bị tiêu diệt rồi.
+Cái..."phương pháp luận" này của cô. Chẳng lẽ cô đã dùng lên người tôi rồi? Không, không thể nào. Nếu cô ra tay rồi thì giờ tôi đã bị tóm sống và đang bị thanh trừng rồi chứ.
 
-Có một câu nói khá nổi tiếng về Nive Maris: răng và móng vuốt của cô tồn tại chỉ vì mục đích duy nhất là xé xác lũ Ma Cà Rồng. Vậy thì trong trường hợp này, tôi đoán là mình vẫn chưa bị phát hiện chăng?
+Người ta có một câu nói nổi tiếng về Nive Maris: nanh vuốt của cô sinh ra chỉ để xé xác Ma Cà Rồng. Nếu vậy thì chắc tôi vẫn chưa bị lộ chăng?
 
-Tuy nhiên, cô đang nghi ngờ tôi. Tôi hiểu được chừng đó. Tôi cũng biết cô đang dò la thông tin. Trong trường hợp đó, liệu cô có thể nhận ra tôi là một Ma Cà Rồng bằng phương pháp kỳ lạ này của mình không?
+Nhưng cô đang nghi ngờ tôi. Chừng đó thì tôi hiểu. Tôi cũng biết cô đang dò la thông tin. Nếu vậy, liệu phương pháp quái gở kia có giúp cô nhận ra tôi là Ma Cà Rồng không?
 
-Tôi tiếp tục băn khoăn, lo lắng cho số phận bí mật của mình.
+Tôi vừa hoang mang vừa lo thắt ruột cho bí mật của mình.
 
-"Ồ, ngài nghi ngờ tôi sao? Không, không. Tôi hiểu mà. Tôi hiểu chứ. Ban đầu chẳng ai tin khi tôi nói ra điều đó cả, ngài biết đấy? Thế nên có lần nọ, tôi phát hiện một con Ma Cà Rồng đang đi lại lượn lờ trên đường phố, thế là tôi xé xác nó ngay tại trận... và ai nấy đều đối xử với tôi như một kẻ sát nhân, thấy chưa? Nhưng dĩ nhiên, ngay khoảnh khắc họ nhận ra thứ tôi vừa giết là một con Ma Cà Rồng, một món tiền thưởng hậu hĩnh đã được trao cho tôi. Ừm... dạo đó quả là một thảm họa tai ương, đúng không nhỉ?"
+"Ồ, ngài không tin tôi à? Không sao, không sao. Tôi hiểu mà. Mới đầu nói ra đâu có ai tin! Có bận nọ, tôi tóm được một con Ma Cà Rồng đang nghênh ngang ngoài phố, thế là tôi xé xác nó ngay tại trận... hại ai nấy nhìn tôi như kẻ giết người, thấy chưa? Nhưng dĩ nhiên, vừa nhận ra thứ tôi hạ là Ma Cà Rồng thì người ta lập tức trao thưởng hậu hĩnh cho tôi ngay. Ừm... dạo đó đúng là một phen hỗn loạn nhỉ?"
 
-Nive bật cười. Giờ thì tôi có thể mường tượng ra cảnh tượng đó trong tâm trí mình rồi... Đó quả là một cảnh tượng kinh hoàng.
+Nive bật cười. Giờ thì tôi có thể hình dung ra cảnh tượng đó rồi... Nghĩ thôi đã thấy rùng mình.
 
-Nhưng rõ ràng không cần nói cũng biết, việc đột ngột tấn công một người qua đường rồi xé xác họ ắt sẽ khiến người ta bị đối xử như một kẻ giết người. Đứng từ góc độ của Nive, việc không trừ khử một con Ma Cà Rồng ngay khi vừa phát hiện có lẽ sẽ rất nguy hiểm cho những người dân sinh sống tại nơi đó. Dẫu vậy, việc giết chóc giữa thanh thiên bạch nhật trước bàn dân thiên hạ... Đương nhiên họ sẽ bị coi là kẻ sát nhân rồi. Nói đúng hơn thì họ sẽ bị tống giam ngay lập tức mới phải.
+Nhưng rõ ràng chẳng cần nói cũng biết, đùng một cái lao vào xé xác người đi đường thì ai mà chẳng coi là kẻ sát nhân. Dưới góc nhìn của Nive, thấy Ma Cà Rồng mà không trừ khử ngay thì quả là nguy hiểm cho cư dân xung quanh. Dù vậy, ra tay giữa thanh thiên bạch nhật trước bàn dân thiên hạ như thế... bị coi là kẻ giết người cũng phải thôi. Đáng lẽ cô ta phải bị bắt tống giam ngay tại trận mới đúng.
 
-Dĩ nhiên, một mạo hiểm giả đủ mạnh để săn lùng và tiêu diệt Ma Cà Rồng sẽ chẳng dễ gì bị tóm gọn. Thế nhưng, nếu họ thực sự vô tội và không có gì phải giấu giếm, nhiều khả năng họ sẽ hợp tác với chính quyền.
+Dĩ nhiên, một mạo hiểm giả đủ sức săn giết Ma Cà Rồng thì đâu dễ gì bị bắt. Nhưng nếu thực sự vô tội và không có gì phải giấu giếm, nhiều khả năng họ sẽ hợp tác với nhà chức trách.
 
-"Thế nên... Vì có vẻ ngài không hẳn tin tôi cho lắm, hay là ngài thử một lần xem sao nhé? Chỉ một lần thôi? Đó là một trải nghiệm khá hiếm có đấy, ngài biết không? Nói sao nhỉ... Nó gần giống như một sự ban phước của thần linh vậy? Gần như thế? Đại loại vậy? Phần lớn thời gian, người bình thường đều rất đỗi vui mừng khi thấy nó! Tôi đồ rằng người bình thường là thế đấy nhỉ? Thần Lực là một thứ tốt lành; nó mang lại phước lành cùng hạnh phúc và những điều tương tự, hoặc ít ra là họ nghĩ thế. Rồi ngài còn có các đoàn thể tôn giáo đi loanh quanh cùng những nhân vật thần thánh của họ và đủ thứ, nhưng họ đâu có ban phước cho mọi người thường xuyên đến vậy! Thành thử điều đó giúp công việc của tôi dễ dàng hơn nhiều, thấy chưa? Ban phước cho người đi đường ấy mà. Ôi, không, không. Đó hoàn toàn không phải là lời chỉ trích Giáo Hội Lobelia đâu nhé... phải không nè?"
+"Thế nên... nếu ngài vẫn chưa tin, hay là thử một lần xem sao nhé? Chỉ một lần thôi! Trải nghiệm này hiếm có lắm đấy! Nói sao nhỉ... nó gần giống như được thần linh ban phước ấy? Na ná thế? Đại loại vậy! Thường thì người bình thường thấy thế là mừng rơn lên ngay. Người trần mắt thịt là thế mà nhỉ? Họ cứ nghĩ Thần Lực là thứ tốt lành, mang lại phước lành với hạnh phúc này nọ. Trong khi mấy giáo phái suốt ngày dắt theo các vị thánh đi loanh quanh thì lại chẳng mấy khi ban phước cho ai! Thành ra việc của tôi mới dễ dàng thế đấy, thấy không? Cứ việc ban phước cho người đi đường thôi. Ấy, không, không! Tôi hoàn toàn không có ý chỉ trích Giáo Hội Lobelia đâu nhé... đúng không nè?"
 
-Sắc mặt của Myullias tối sầm lại thấy rõ khi Nive tiếp tục bài độc thoại dông dài. Thoạt nhìn lướt qua thì khó lòng nhận biết, nhưng rõ ràng Myullias ngày càng trở nên kém hào hứng hơn với nhiệm vụ của mình.
+Sắc mặt của Myullias tối sầm lại thấy rõ khi Nive tiếp tục bài độc thoại dông dài. Thoạt nhìn qua thì khó nhận ra, nhưng rõ ràng Myullias đang dần mất hết hứng thú với nhiệm vụ này.
 
-Dù Nive đã phủ nhận, nhưng những lời bình phẩm của cô rõ ràng là một sự chỉ trích nhắm vào các hội đoàn và tổ chức tôn giáo. Nhất là Giáo Hội Lobelia, họ chỉ chịu ban phước lành khi các Thánh Nữ của họ xuất hành vì mục đích này hay mục đích khác. Tôi đồ rằng họ làm vậy chỉ vì tiền, xét theo cách thức vận hành toàn bộ hệ thống Nước Thánh của họ.
+Dù Nive chối đây đẩy, nhưng rõ ràng lời cô vừa nói là đang nhắm vào các tổ chức tôn giáo. Nhất là Giáo Hội Lobelia, họ chỉ chịu ban phước khi các Thánh Nữ xuất hành vì mục đích nào đó. Nhìn cách thức vận hành hệ thống Nước Thánh của họ, tôi đoán mục đích ấy chẳng qua cũng vì tiền.
 
-Đổi lại việc tương đối hiếm khi xuất hiện trước công chúng, Giáo Hội lại sở hữu kha khá những người sử dụng Thần Lực hùng mạnh đáng chú ý. Phải chăng là vì họ được trả thù lao hậu hĩnh?
+Tuy hiếm khi xuất hiện trước công chúng, nhưng bù lại Giáo Hội có không ít cao thủ dùng Thần Lực rất đáng gờm. Phải chăng là nhờ được trả hậu hĩnh?
 
-Nghĩ lại thì Giáo Hội Đông Thiên sống qua ngày chỉ bằng những mẩu bánh vụn và sự thanh đạm... Chà, giáo hội đó cũng có những người sử dụng Thần Lực hùng mạnh, bằng chứng cho thấy con người không phải lúc nào cũng có khuynh hướng thiên về điều ác.
+Nghĩ lại thì Giáo Hội Đông Thiên chỉ sống đạm bạc qua ngày bằng mấy mẩu bánh mì vụn... Cơ mà bên họ cũng có những cao thủ Thần Lực mạnh mẽ, minh chứng cho thấy con người không phải lúc nào cũng bị đồng tiền tha hóa.
 
-"Thử sao, Tiểu thư Nive? Cô nói vậy chứ... chuyện đó thực sự khá đáng sợ đấy," tôi rụt rè nói.
+"Thử sao, Tiểu thư Nive? Cô bảo vậy chứ... nghe sợ lắm," tôi rụt rè đáp.
 
-Hàm ý đằng sau lời tôi nói rất đỗi đơn giản: Không đời nào! Đó là một ý tồi! Tôi sẽ rơi vào thế kẹt mất! Thế nhưng Nive dường như không hiểu điều này.
+Hàm ý trong lời tôi rất đơn giản: Không đời nào! Dại gì mà thử! Có mà chết tôi à! Thế nhưng Nive dường như chẳng hiểu cho.
 
-"Ái chà, xin lỗi về chuyện đó nhé. Ngài thấy đấy, người khác không thực sự tin tưởng tôi cho lắm... Nhất là với một kẻ như tôi. 'Liệu ta có thể tin một con bé tưng tửng như thế không?' 'Không, chắc là không rồi.' Đừng lo. Tôi hiểu mà. Ôi, tôi hiểu quá đi chứ... Tuy nhiên. Tôi không hề thêu dệt nên những câu chuyện hoang đường về thực lực của bản thân. Dẫu vậy thì... hừm. A! Ngài Sharl. Ngài có muốn thử một chút không? Tôi thấy vẻ thích thú lộ rõ trên mặt ngài kìa, hửm?"
+"Ái chà, xin lỗi ngài nhé. Người ta ít khi tin tôi lắm... Nhất là cái ngữ như tôi. 'Tin sao nổi một đứa tưng tửng như nó chứ?' 'Thôi, chắc chả tin được đâu.' Đừng lo, tôi hiểu mà. Tôi hiểu quá đi chứ... Có điều, tôi chẳng bao giờ bốc phét về thực lực của mình đâu. Cơ mà... hừm. A! Ngài Sharl. Ngài có muốn thử chút không? Mặt ngài trông hào hứng lắm kìa, hửm?"
 
-Nive đột ngột chuyển hướng chú ý sang vị thương nhân, người nãy giờ vẫn đứng lắng nghe chúng tôi suốt từ đầu đến giờ. Nhiều khả năng ông giữ im lặng suốt quãng thời gian qua là vì sự chu đáo, không muốn ngắt lời cuộc trò chuyện giữa Nive và tôi.
+Nive bỗng quay ngoắt sang vị thương nhân, người vẫn đứng yên lắng nghe nãy giờ. Chắc ông im lặng vì lịch sự, không muốn xen ngang cuộc trò chuyện giữa Nive và tôi.
 
-Ngay từ đầu, Nive mới là người muốn gặp tôi. Có lẽ ông đã quyết định bản thân không nên can dự vào cuộc trò chuyện trừ phi tình huống thực sự đòi hỏi.
+Dù sao ban đầu Nive là người muốn gặp tôi. Có lẽ ông thấy mình không nên xen vào trừ phi thật sự cần thiết.
 
-Chà, trong trường hợp này, Nive đã nói thẳng với ông. Thế nhưng, nét mặt Sharl lại chẳng hề có vẻ gì như thế cả. Nói đúng hơn thì trông ông có phần hơi lo lắng.
+Khổ nỗi lần này Nive lại hỏi thẳng mặt ông. Mà vẻ mặt Sharl đâu có hào hứng gì cho cam. Trái lại, trông ông còn có vẻ hơi lo sốt vó.
 
-"Nào, nào! Cứ nghĩ theo hướng này xem! Ngài nhận được sự ban phước của thần linh! Nếu ngài nói ra điều đó, chẳng phải tin tức ấy sẽ có tác động tích cực đến chuyện làm ăn buôn bán sao? Lại còn có những lợi ích hữu hình nữa cơ chứ, ôi, đúng vậy! Quái vật sẽ không dám bén mảng lại gần ngài trong một khoảng thời gian dài đâu, ngài biết đấy! Và, không giống như Giáo Hội Lobelia, tôi sẽ chẳng đòi hỏi bất kỳ khoản tiền dâng thập phân hay thù lao nào cả! HOÀN TOÀN MIỄN PHÍ LUÔN ĐÓOOOO! Tôi nghĩ đây là một món hời quá hời đấy chứ, phải không nào?" Nive nói, cứ như thể đang cố chào bán cho một thương nhân chính món hàng của ông ta vậy.
+"Nào, nào! Cứ nghĩ theo hướng này xem! Ngài được thần linh ban phước! Đi rêu rao chuyện đó thì việc làm ăn buôn bán chẳng phất lên trông thấy sao? Lợi ích thấy rõ luôn nhé! Quái vật sẽ chẳng dám bén mảng tới gần ngài suốt một thời gian dài đâu! Chưa kể tôi đâu có đòi hỏi tiền phần mười hay thù lao gì như Giáo Hội Lobelia! HOÀN TOÀN MIỄN PHÍ LUÔN ĐÓOOOO! Kèo này hời quá còn gì, đúng không nào?" Nive nói, cứ như đang rao bán hàng cho chính một tay lái buôn.
 
-Sharl dường như chẳng hề mặn mà với chuyện này cho lắm. Có lẽ bởi ông đã cảm nhận được rằng chuyện này sẽ chẳng bao giờ chịu kết thúc trừ phi ông gật đầu đồng ý...
+Trông Sharl chẳng hào hứng chút nào. Cơ mà có lẽ ông cũng nhận ra nếu không gật đầu thì chuyện này sẽ chẳng bao giờ dứt...
 
-"...Tôi hiểu rồi. Chuyện đó thực sự không đau chút nào chứ ạ?" Sharl lên tiếng, nhấn mạnh vào nửa sau câu nói của mình.
+"...Tôi hiểu rồi. Chuyện này thực sự không đau chút nào chứ ạ?" Sharl cất lời, nhấn mạnh nửa vế sau.
 
-Nive gật đầu vẻ từng trải. "Vâng. Đó là nếu ngài không phải là một Ma Cà Rồng. Nếu ngài là một Ma Cà Rồng thì đau đấy, ôi, đúng vậy, đau thấu trời luôn. Nhưng mục đích của nó là thế mà! Ngài... đâu phải là Ma Cà Rồng, đúng chứ?"
+Nive gật đầu ra vẻ hiểu biết. "Vâng. Với điều kiện ngài không phải Ma Cà Rồng thôi nhé. Còn nếu là Ma Cà Rồng thì đau đấy, ôi chao, đau thấu trời luôn. Nhưng đòn này sinh ra để làm thế mà! Ngài... đâu phải Ma Cà Rồng, đúng không?"
 
-Tia sáng lấp lánh lại hiện về trong đôi mắt cô, ngay khoảnh khắc cô thốt ra phần cuối câu trả lời.
+Ánh sáng lấp lánh lại hiện lên trong mắt cô, đúng ngay khoảnh khắc thốt ra câu cuối cùng.
 
-Đó là một đôi mắt đáng sợ. Đôi mắt như đâm thấu vào tận đáy lòng tôi. Chẳng còn lấy một dấu vết nào của cái tính khí tưng tửng mà cô đã thể hiện suốt từ nãy đến giờ. Lời lẽ của cô cũng không còn nhẹ nhàng, cũng chẳng còn mang giọng điệu đùa cợt nữa.
+Đôi mắt ấy thật đáng sợ. Ánh mắt như đâm thấu tâm can tôi, chẳng còn sót lại chút dấu vết nào của vẻ tưng tửng nãy giờ. Lời lẽ của cô cũng không còn nhẹ nhàng, càng chẳng phải nói đùa.
 
 Thì ra đây chính là Thợ Săn Ma Cà Rồng, Nive Maris...
 
-Sharl nuốt nước bọt trong thoáng chốc khi nhận thấy nét biểu cảm thoáng qua của Nive. Tuy nhiên, ông nhanh chóng đưa ra lời đáp.
+Nhận thấy thoáng biến sắc của Nive, Sharl khẽ nuốt nước bọt. Nhưng ông nhanh chóng lên tiếng đáp lại.
 
-"Dĩ nhiên rồi. Tôi sẽ là kẻ nói dối nếu bảo rằng mình không muốn trường sinh bất lão, đúng vậy... Nhưng tôi không nghĩ mình lại muốn từ bỏ nhân tính của mình. Không bao giờ, nếu điều đó đồng nghĩa với việc tôi sẽ biến thành một con quái vật. Nếu cuộc đời tôi phải đi đến hồi kết, tôi muốn được nhắm mắt xuôi tay như một con người và thanh thản ra đi với sự ban phước cùng lòng khoan dung của các vị thần. Chà... xét trên mọi phương diện, có lẽ tôi chưa sống một cuộc đời đủ sùng đạo để có thể ra đi theo cách thanh thản như thế..." Sharl vừa nói vừa cười cay đắng.
+"Dĩ nhiên rồi. Bảo không muốn trường sinh bất lão thì là nói dối... Nhưng tôi chẳng hề muốn từ bỏ nhân tính, càng không muốn biến thành quái vật. Nếu số mệnh đã tận, tôi muốn được nhắm mắt xuôi tay như một con người, thanh thản ra đi trong sự chở che và dung thứ của thần linh. Cơ mà... nghĩ đi nghĩ lại, cả đời tôi chắc cũng chẳng sống đủ sùng đạo để được ra đi êm đẹp như thế đâu..." Sharl cười cay đắng.
 
-Tôi biết phải làm sao đây? Tôi thành thật xin lỗi vì đã biến thành quái vật, nhưng đó đâu phải là thứ tôi cố tình làm hay chủ tâm tìm kiếm. Nói đúng hơn thì tôi chỉ muốn được trở lại làm người. Vậy nếu tôi nói điều gì tương tự như thế thì chắc tôi sẽ an toàn, đúng không?
+Tôi thì biết làm sao bây giờ? Xin lỗi vì trót biến thành quái vật nhé, nhưng tôi đâu có cố tình hay muốn thế đâu. Nói đúng ra thì tôi chỉ muốn được trở lại làm người thôi. Vậy nếu tôi cũng nói một câu tương tự thì chắc là an toàn rồi chứ hả?
 
-Đại loại như việc cảm nhận lòng kiêu hãnh của một con người. Ít nhất thì đó là những gì tôi nghĩ trong lòng.
+Đại loại như bày tỏ niềm tự hào được làm người chẳng hạn. Ít nhất thì trong bụng tôi đang nghĩ thế.
 
-Nive nhanh chóng đáp lại.
+Nive liền đáp.
 
-"Dù sao ngài cũng là một thương nhân mà. Để gây dựng được một cửa hàng lớn cỡ này, tôi chắc rằng đã có khối chuyện xảy ra. Nhưng ngài biết đấy, tôi không nghĩ các vị thần lại hẹp hòi đến thế đâu, đúng chứ? Chắc chắn các ngài sẽ không đày đọa ngài xuống địa ngục chỉ vì một chút... hoạt động buôn bán thương nhân đâu. Phải không, Tiểu thư Myullias?"
+"Dù sao ngài cũng là thương nhân mà. Gầy dựng được cơ ngơi lớn cỡ này, ắt hẳn ngài đã trải qua không ít chuyện. Nhưng ngài biết đấy, thần linh đâu có hẹp hòi đến thế, đúng không? Chắc chắn các ngài sẽ chẳng đày đọa ai xuống địa ngục chỉ vì chút... mánh khóe làm ăn đâu. Phải không, Tiểu thư Myullias?"
 
-Nive nhìn sang người bạn đồng hành của mình. Myullias nhìn Nive với sự pha trộn giữa vẻ hoài nghi và tính hiếu kỳ. Có lẽ Myullias cũng chẳng rõ liệu Nive có thực sự tin vào những gì mình vừa nói hay không.
+Nive nhìn sang người bạn đồng hành. Myullias nhìn lại cô, ánh mắt vừa bán tín bán nghi vừa tò mò. Có lẽ chính Myullias cũng chẳng biết Nive có thật sự tin vào những lời mình vừa nói hay không.
 
-Với nét mặt mơ hồ, Myullias đáp: "Tôi không tài nào dò thấu được ý chỉ của các vị thần. Tất cả những gì tôi biết là các vị thần sẽ không phân biệt đối xử. Bất kỳ ai mong mỏi sự cứu rỗi đều sẽ được cứu rỗi."
+Với vẻ mặt khó dò, Myullias đáp: "Tôi không tài nào thấu suốt được ý nguyện của thần linh. Tôi chỉ biết thần linh không thiên vị ai. Bất cứ ai khát khao được cứu rỗi đều sẽ được cứu rỗi."
 
-"Thấy chưa? Có câu trả lời rồi đấy nhé," Nive thản nhiên nói.
+"Thấy chưa? Nghe rồi đấy nhé," Nive cười nói tỉnh bơ.
 
-Sharl chỉ tiếp tục cười ngượng nghịu, nhưng giờ đây trông ông có vẻ đã nhẹ nhõm hơn trước số phận của mình.
+Sharl chỉ biết cười trừ ngượng ngùng, nhưng trông ông đã bớt căng thẳng hơn nhiều.
 
-"Vậy thì, thưa Tiểu thư Nive... Xin làm phiền cô vậy. Đúng như cô vừa nói khi nãy, cô không phiền nếu tôi dùng việc này để quảng bá chứ? Rằng tôi, Sharl Stheno, đã nhận được sự ban phước của thần linh từ Thợ Săn Ma Cà Rồng, Tiểu thư Nive Maris..."
+"Vậy thì, thưa Tiểu thư Nive... trăm sự nhờ cô. Đúng như cô vừa bảo, cô không phiền nếu tôi dùng chuyện này để quảng bá chứ? Rằng tôi, Sharl Stheno, đã được đích thân Thợ Săn Ma Cà Rồng, Tiểu thư Nive Maris ban phước..."
 
-Xét theo bản chất câu hỏi của Sharl, tôi có thể đoán rằng rất ít người biết Nive sở hữu trữ lượng Thần Lực. "Chẳng phải trước giờ cô vẫn giấu giếm điều đó sao?" ắt hẳn mới là bản chất thực sự trong câu hỏi của Sharl.
+Nghe câu hỏi của Sharl, tôi đoán rất ít người biết Nive có Thần Lực. "Chẳng phải trước giờ cô vẫn giấu chuyện đó sao?" mới là ý thực sự đằng sau câu hỏi của ông.
 
-Về phần Nive...
+Còn Nive thì...
 
-"Ồ, tôi không phiền chút nào đâu. Đằng nào thì tôi cũng đâu có giấu, thấy chưa. Ai biết thì sẽ biết thôi. Vậy thì, vì tôi đã có được sự đồng ý của ngài, tôi sẽ làm ngay bây giờ nhé?"
+"Ồ, tôi chẳng phiền đâu. Đằng nào tôi cũng có thèm giấu giếm đâu mà. Ai biết thì khắc biết thôi. Vậy ngài đã ưng thuận rồi thì tôi làm luôn đây nhé?"
 
 "À, vâng. Xin mời cô."
 
-Dứt lời, Sharl quỳ hai gối xuống trước mặt Nive.
+Dứt lời, Sharl quỳ xuống trước mặt Nive.
 
-Tư thế đó y hệt tư thế của các tín đồ Giáo Hội Lobelia, một cách thức chuẩn mực để người ta tiếp nhận sự ban phước của thần linh.
+Đó cũng là tư thế của các tín đồ Giáo Hội Lobelia, nghi thức chuẩn mực để đón nhận phước lành từ thần linh.
