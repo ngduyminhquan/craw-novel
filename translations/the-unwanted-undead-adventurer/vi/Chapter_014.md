@@ -1,149 +1,149 @@
 # Chương 14: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (3)
 
-Rừng Azuul vô cùng rộng lớn, trải dài ngút ngàn đến tận chân trời. Nơi đây thực sự là một pháo đài của tự nhiên, mái nhà của vô vàn chủng loại động thực vật. Lorraine, người vốn thu thập mọi kiến thức qua sách vở, cũng có hiểu biết nhất định về khu rừng này. Thế nhưng, việc được tận mắt chứng kiến lại là một trải nghiệm hoàn toàn khác biệt, khi vô số điểm sai khác giữa những gì trông thấy và những điều từng đọc qua không ngừng khơi gợi niềm say mê trong cô.
+Rừng Azuul rộng mênh mông, trải dài ngút tầm mắt. Nơi đây như một thành trì thiên nhiên hoang sơ, là mái nhà của muôn loài động thực vật. Vốn chỉ gom góp kiến thức qua sách vở, Lorraine cũng hiểu đôi chút về khu rừng này. Thế nhưng, tận mắt trông thấy lại là chuyện hoàn toàn khác; vô số điểm khác biệt giữa thực tế và những trang sách không ngừng khơi gợi niềm say mê trong cô.
 
-Dẫu vậy, chuyến lội rừng của Lorraine lại chẳng mấy suôn sẻ, bởi cô gần như chưa đi được bao xa. Vấn đề ở đây không hẳn là do thiếu thể lực—nói cho cùng, thể lực chẳng thể là trở ngại đối với một cô bé 14 tuổi. Huống chi, Lorraine còn cường hóa cơ thể mình bằng đủ loại ma pháp gia cường.
+Tuy thế, chuyến lội rừng của Lorraine lại chẳng mấy suôn sẻ, đi mãi mà cô gần như chưa được bao xa. Nguyên nhân không hẳn do thiếu thể lực—trái lại, sức lực đâu thể là vấn đề với một thiếu nữ mười bốn tuổi. Huống hồ, Lorraine còn tăng cường thể chất bằng đủ loại ma pháp cường hóa.
 
-Tuy nhiên, điều Lorraine không ngờ tới là việc băng qua địa hình rừng rậm đòi hỏi những kỹ thuật cơ bản và sự am hiểu nhất định—chính xác hơn, đó là thứ tri thức cô hoàn toàn không có. Lorraine thấy mình ngày càng kiệt sức khi phải lội qua những bụi rậm chằng chịt, thể lực của cô dường như bị chính khu rừng rút cạn sau từng bước chân.
+Có điều Lorraine không ngờ rằng việc băng rừng đòi hỏi những kỹ năng cơ bản lẫn kinh nghiệm thực tế—chính xác hơn, đó là mảng kiến thức cô hoàn toàn mù tịt. Càng lội qua những bụi rậm chằng chịt, Lorraine càng rã rời; từng bước chân như bị chính khu rừng rút cạn kiệt sức lực.
 
-Trái lại, cậu thiếu niên Đồng Cấp đồng hành cùng cô, dù mang cấp bậc mạo hiểm giả thấp hơn rất nhiều, lại chẳng hề tỏ ra mệt mỏi chút nào. Như thể làm phép gọi nước ra từ thinh không, cậu chìa ra một cốc nước mời Lorraine, người lúc này đang phải ngồi nghỉ vì kiệt sức.
+Trái lại, cậu thiếu niên Đồng Cấp đi cùng cô, dẫu bậc mạo hiểm giả thấp hơn rất nhiều, lại chẳng hề có vẻ gì mỏi mệt. Như thể làm phép gọi nước ra từ hư không, cậu chìa một cốc mời Lorraine, lúc này đang phải ngồi bệt xuống nghỉ vì kiệt sức.
 
-Liếc nhìn cậu thiếu niên, Lorraine nhận ra chiếc thắt lưng đựng dụng cụ vốn trống trơn trước đó của cậu giờ đã đầy ắp đủ loại thảo dược, ắt hẳn cậu đã tranh thủ thu lượm từ xó xỉnh nào đó những lúc cô không để mắt tới. Theo yêu cầu của Lorraine, cậu thiếu niên liền đưa vài nhánh cho cô xem. Chẳng mất nhiều thời gian để một học giả như cô nhận ra rằng từng nhánh thảo dược một đều đã được thu hoạch đúng cách và bài bản.
+Liếc nhìn cậu thiếu niên, Lorraine nhận ra chiếc đai lưng đựng đồ vốn trống trơn trước đó giờ đã nhét đầy đủ loại thảo dược; hẳn cậu đã tranh thủ hái ở ngóc ngách nào đó những lúc cô không để mắt tới. Nghe Lorraine hỏi, cậu liền đưa vài nhánh cho cô xem. Với tầm mắt của một học giả, cô nhận ra ngay từng nhành thảo dược đều được thu hoạch đúng cách và hết sức bài bản.
 
-Dẫu từng đặt mua đủ loại dược thảo từ các hiệu thuốc và những nơi tương tự trước đây, cô chưa từng nhớ mình đã thấy thảo dược được sơ chế đến mức độ hoàn hảo này, lại càng chưa thấy bằng tay nghề điêu luyện đến thế. Chuyện khi họ chạm trán quái vật cũng diễn ra theo cách tương tự.
+Dù từng đặt mua đủ loại thảo dược từ các tiệm thuốc, cô chưa từng thấy mớ cây cỏ nào được xử lý cẩn thận đến mức này, lại càng chưa thấy tay nghề nào điêu luyện đến thế. Đến khi đụng phải quái vật, mọi chuyện cũng diễn ra y như vậy.
 
-Cho tới thời điểm này của cuộc đời, khi quyết định dấn bước vào rừng để tìm thảo dược, Lorraine chưa từng chiến đấu với quái vật dưới bất kỳ hình thức nào. Dĩ nhiên, với tư cách một "Đại Học Sĩ", ma pháp của Lorraine dư sức tiêu diệt những con quái vật thông thường. Nhưng do trong các chuyến đi Lorraine thường luôn có bạn đồng hành hoặc đoàn hộ tống đi cùng, cô hầu như chẳng bao giờ có cơ hội thi triển ma pháp, bởi lũ quái vật đã bị hạ gục từ trước khi cô kịp nảy ra ý định làm điều đó.
+Trước chuyến vào rừng tìm thảo dược này, Lorraine chưa từng chiến đấu với quái vật lần nào trong đời. Dĩ nhiên, với danh xưng "Đại Học Sĩ", ma pháp của Lorraine dư sức dọn sạch những con quái vật thông thường. Nhưng mỗi lần đi xa cô đều có người tháp tùng hoặc đoàn hộ tống đi kèm, nên chẳng mấy khi có cơ hội thi triển ma pháp; lũ quái vật đều đã bị hạ gục từ trước khi cô kịp nghĩ tới chuyện ra tay.
 
-Có lẽ đó là lý do vì sao Lorraine chỉ biết đứng chết trân ngơ ngác khi đối mặt với một con quái vật. Ngoại trừ cậu thiếu niên đi cùng, lần này cô hoàn toàn thân cô thế cô. Chỉ đến lúc này, Lorraine mới thực sự thấm thía lũ quái vật có thể hung tợn đến nhường nào.
+Có lẽ vì thế mà khi chạm trán quái vật, Lorraine chỉ biết đứng sững người ngơ ngác. Ngoài cậu thiếu niên đi cùng, lần này bên cạnh cô chẳng có ai bảo bọc. Phải đến lúc này, Lorraine mới thấm thía lũ quái vật hung tợn đến mức nào.
 
-Đầu óc cô quay cuồng trong cơn bàng hoàng—cô biết mình phải chiến đấu, phải thi triển một ma pháp nào đó. Thế nhưng, cơ thể cô lại chẳng chịu nhúc nhích.
+Đầu óc cô trống rỗng—cô biết mình phải chiến đấu, phải niệm câu thần chú nào đó. Thế nhưng cơ thể cô lại chẳng chịu nhúc nhích.
 
-Chính vào khoảnh khắc ấy, tiếng quát của cậu thiếu niên vang lên, kéo cô bừng tỉnh khỏi cơn ngơ ngác.
+Chính lúc ấy, tiếng quát của cậu thiếu niên vang lên, kéo cô bừng tỉnh khỏi cơn ngẩn ngơ.
 
-"Lorraine! Hỏa cầu! Foteia Borivaas! Dùng nó đi!"
+"Lorraine! Hỏa cầu! Foteia Borivaas! Mau dùng đi!"
 
-Nếu không nhờ tiếng quát của Rentt, hẳn Lorraine đã đứng chết trân ở đó mãi mãi, và mạng sống của cô có lẽ cũng đã chấm dứt ngay tại chỗ. Nhưng mệnh lệnh đã được đưa ra, và Lorraine đã răm rắp làm theo. Quả thực, Lorraine chẳng khác nào một con rối trong suốt biến cố lần này.
+Nếu không nhờ tiếng quát của Rentt, hẳn Lorraine đã đứng chôn chân tại chỗ, và tính mạng cô có lẽ cũng kết thúc ngay lúc đó. Nhưng có người chỉ bảo, Lorraine liền răm rắp làm theo. Suốt biến cố lần ấy, cô thực sự chẳng khác nào một con rối bị giật dây.
 
-Khi xác chết cháy đen từng là một con quái vật vẫn không ngừng bốc khói sau tàn dư ma pháp của Lorraine, cô lại một lần nữa đứng chết lặng, vẻ mặt trống rỗng ngơ ngác. Rentt, sau khi nhận ra Lorraine gần như chẳng có chút kinh nghiệm thực chiến nào, đã quyết định truyền dạy cho cô đủ mọi chi tiết về quái vật, kỹ thuật chiến đấu và những quỹ đạo di chuyển thường thấy của chúng trong lúc giao tranh.
+Đến khi cái xác cháy đen của con quái vật vẫn nghi ngút bốc khói sau đòn ma pháp của Lorraine, cô lại một lần nữa đứng sững với vẻ mặt ngơ ngác trống rỗng. Nhận ra Lorraine gần như mù tịt kinh nghiệm thực chiến, Rentt quyết định truyền dạy cho cô cặn kẽ về quái vật, kỹ năng chiến đấu cũng như thói quen di chuyển của chúng khi giao tranh.
 
-Lorraine vốn thông tuệ; trên thực tế, cô uyên bác hơn bất kỳ pháp sư tầm thường nào. Vì thế, cô tiếp thu những kiến thức mà Rentt chia sẻ với một tốc độ đáng kinh ngạc. Tuy nhiên, cô chỉ có thể làm được điều đó nhờ vào sự can thiệp của Rentt trong trận chiến đầu tiên của mình, và cô hoàn toàn thấu hiểu sâu sắc điều ấy.
+Lorraine vốn rất thông minh; thậm chí cô còn hiểu biết hơn bất cứ pháp sư thông thường nào. Nhờ vậy, cô tiếp thu những gì Rentt truyền đạt với tốc độ đáng kinh ngạc. Dẫu vậy, cô chỉ có thể làm được điều đó là nhờ Rentt đã kịp thời ra tay trong trận chiến đầu đời, và Lorraine hiểu rất rõ điều ấy.
 
-Chuyện học hỏi những chi tiết về ủy thác của cô—cụ thể là việc thu thập một số loại thảo dược nhất định—cũng diễn ra y như vậy. Theo sách vở cô đọc, loài thảo dược này khá phổ biến dẫu chúng chỉ sinh trưởng ở những nơi đặc thù. Nhờ thế, việc tìm kiếm chúng lẽ ra sẽ chẳng mấy khó khăn.
+Chuyện tìm hiểu chi tiết về ủy thác của cô—cụ thể là việc thu thập một loại thảo dược nhất định—cũng diễn ra y như vậy. Theo sách cô từng đọc, giống thảo dược này khá phổ biến dù chỉ mọc ở những địa hình đặc thù. Thành thử, việc tìm kiếm chúng lẽ ra chẳng mấy khó khăn.
 
-Nhưng thực tế lại hoàn toàn trái ngược, khi Lorraine ngậm ngùi tay trắng. Sau nửa giờ đồng hồ tìm kiếm, Lorraine không khỏi thất vọng não nề, khi phát hiện lớn nhất của họ chỉ là vỏn vẹn một nhánh thảo dược, một trong số rất nhiều nhánh cần có cho nhiệm vụ. Bực dọc trước tình cảnh này, Lorraine thầm nhủ trong lòng rằng lần tới gặp mặt, cô nhất định sẽ tặng cho tác giả cuốn sách mình từng học một cú đấm thật đau.
+Thế nhưng thực tế lại hoàn toàn trái ngược khi Lorraine vẫn hai bàn tay trắng. Sau nửa tiếng lùng sục, cô không khỏi nản lòng khi phát hiện lớn nhất chỉ vỏn vẹn một nhành cây, một trong số rất nhiều nhánh cần cho nhiệm vụ. Bực mình trước tình cảnh ấy, Lorraine thầm nhủ lần sau mà gặp mặt, nhất định cô sẽ đấm cho tác giả cuốn sách một cú nên thân.
 
-Thế nhưng bất chấp mọi chuyện và nỗi bực bội ngày càng dâng cao của Lorraine, Rentt, người nãy giờ vẫn lặng lẽ bước theo sau cô, chỉ mỉm cười gượng gạo khi số thảo dược trong túi thắt lưng của cậu cứ ngày một nhiều thêm. Ngoảnh đầu nhìn lại, Lorraine kinh ngạc nhận ra số thảo dược cậu thu lượm đã tăng gấp đôi kể từ lần kiểm tra trước—và lẫn trong số đó là từng bó thảo dược mà cô được giao nhiệm vụ thu thập.
+Thế nhưng bất chấp nỗi bực dọc ngày một tăng của Lorraine, Rentt—người nãy giờ vẫn lặng lẽ đi sau lưng cô—chỉ cười trừ khi mớ thảo dược trong túi đai lưng của cậu cứ nhiều dần lên. Ngoảnh lại, Lorraine sững sờ thấy số thảo dược cậu hái được đã tăng gấp đôi so với lần cô kiểm tra trước—và lẫn trong số đó là từng bó thảo dược cô được giao nhiệm vụ đi thu thập.
 
-Hóa ra tác giả cuốn sách viết đúng. Chỉ là Lorraine đã hoàn toàn không nhận ra loài thảo dược đó khi đi ngang qua các địa điểm được chỉ dẫn. Trước sự thật ấy, Lorraine rốt cuộc cũng nhận ra mình hiểu biết ít ỏi đến nhường nào về thế giới.
+Hóa ra tác giả cuốn sách viết đúng. Chỉ là Lorraine đã không nhận ra loài thảo dược đó khi đi ngang qua những địa điểm được chỉ dẫn. Trước sự thật ấy, cô mới vỡ lẽ mình hiểu biết ít ỏi về thế giới này đến mức nào.
 
-Lorraine sau đó thỉnh cầu Rentt thị phạm và chỉ dẫn cho cô về đủ mọi chủ đề: từ những điều cơ bản trong chiến đấu và hành nghề mạo hiểm, cho tới cách hái và bảo quản thảo dược, thậm chí cả việc xác định nơi chúng thường mọc. Về phần mình, Rentt vui vẻ nhận lời giúp đỡ. Và thế là hai người rốt cuộc cũng trở về vào buổi chiều muộn, bằng cách nào đó đã hoàn thành ủy thác của Lorraine đúng thời hạn.
+Lorraine bèn nhờ Rentt làm mẫu và chỉ dạy cho cô đủ thứ: từ điều cơ bản trong chiến đấu lẫn thám hiểm, cho tới cách hái và bảo quản thảo dược, thậm chí cả việc nhận biết nơi chúng thường mọc. Về phần mình, Rentt vui vẻ nhận lời ngay. Thế là đến chiều muộn, cả hai rốt cuộc cũng trở về, bằng cách nào đó đã hoàn thành ủy thác của Lorraine đúng hạn.
 
 ◆◇◆◇◆
 
-Mãi về sau này Lorraine mới được người kiếm sĩ kỳ lạ cho biết sự thật. Gã, chỉ bằng việc quan sát cử động và trang bị (hay đúng hơn là sự thiếu thốn trang bị) của Lorraine mà hiểu rằng cô chẳng có chút kinh nghiệm thực chiến nào, đã có ý định nhờ Rentt đóng vai trò người dẫn đường cho cô. Lorraine, ngạc nhiên trước sự việc, không khỏi thắc mắc liệu Hội Mạo Hiểm Giả có chu đáo chăm sóc từng tân binh mạo hiểm giả đến mức ấy hay không. Tuy nhiên, sự thật lại chẳng phải thế; nguyên do chỉ là vì Rentt, lúc ấy đang ngồi ở quán rượu, đã vô tình để mắt tới Lorraine. Thảo luận chuyện này với người bạn đồng hành kiếm sĩ, Rentt nhận thấy Lorraine chắc chắn sẽ không thể sống sót trở về nếu cứ thế bước chân ra ngoài hoang dã. Đó là lý do hai người họ đã vạch ra kế hoạch tiếp cận cô, giới thiệu Rentt như một kẻ xách hành lý để tránh làm tổn thương lòng tự trọng của cô.
+Mãi sau này, gã kiếm sĩ kỳ lạ mới kể cho Lorraine nghe sự thật. Chỉ nhìn cử động cùng trang bị (hay đúng hơn là vẻ thiếu thốn trang bị) của Lorraine, gã đã hiểu ngay cô chưa từng có chút kinh nghiệm thực chiến nào, nên mới định nhờ Rentt làm người dẫn đường. Ngạc nhiên trước chuyện đó, Lorraine không khỏi thắc mắc liệu Hội Mạo Hiểm Giả có chu đáo với từng tân binh đến mức ấy không. Nhưng sự thực chẳng phải vậy; căn nguyên chỉ vì Rentt, lúc ấy đang ngồi trong quán rượu, tình cờ để mắt tới cô. Bàn chuyện với người bạn kiếm sĩ, Rentt nhận thấy nếu cứ để cô gái này bước chân ra ngoài hoang dã thì khó lòng sống sót trở về. Đó là lý do hai người họ bày kế tiếp cận, giới thiệu Rentt đi theo xách đồ để tránh chạm vào lòng tự ái của cô.
 
-Dẫu Lorraine cảm thấy toan tính nhỏ bé của họ có phần phiền toái và đôi chút tốn thời gian, cô vẫn vô cùng biết ơn sự can thiệp ấy—nó rốt cuộc đã cứu mạng cô. Một lần nữa, Lorraine lại nhận ra tri thức của mình về thế giới bị bó hẹp đến dường nào, bởi cô hầu như chưa từng nhìn thấy bất cứ điều gì vượt ra ngoài những trang sách và đầu ngón tay mình.
+Dù thấy cái mẹo nhỏ của họ có phần rắc rối và hơi mất thì giờ, cô vẫn rất biết ơn sự can thiệp ấy—bởi rốt cuộc nó đã cứu mạng cô. Thêm một lần nữa, Lorraine lại nhận ra hiểu biết của mình về thế giới quá đỗi hạn hẹp, khi bản thân hầu như chưa từng thấy điều gì vượt ra ngoài những trang sách và tầm với của đầu ngón tay.
 
-Lorraine từng tự coi mình là bậc thầy về tri thức—thấu hiểu những điều đã biết, dễ dàng liệt kê trong tâm trí những điều đã biết là mình chưa biết, đồng thời tính đến cả những điều chưa biết là mình chưa biết mà một ngày nào đó cô có thể bắt gặp.
+Lorraine từng tự coi mình là bậc thầy tri thức—nắm rõ những điều đã biết, dễ dàng điểm mặt những gì mình biết là chưa biết, lại còn tính đến cả những điều bản thân không hề hay biết rằng mình chưa biết mà một ngày nào đó có thể chạm trán.
 
-Thế nhưng trên thực tế, Lorraine chẳng hề biết nhiều đến thế—và mọi chuyện chỉ đơn giản có vậy. Rốt cuộc, chính Rentt là người đã chỉ bảo cho cô, còn cô là người sau đó đã học hỏi từ kinh nghiệm mạo hiểm của Rentt.
+Thế nhưng thực tế, Lorraine chẳng biết nhiều đến vậy—sự thật chỉ đơn giản có thế. Sau cùng, Rentt là người chỉ dạy, còn cô là người đã học hỏi từ kinh nghiệm mạo hiểm của cậu.
 
-Lorraine thấy mình tiếp tục nán lại thị trấn Maalt sau biến cố ấy. Lần đầu tiên trong đời, cô nhìn thấy sắc màu của cuộc sống—nơi vạn vật từng xám xịt và tẻ nhạt, giờ đây lại ngập tràn niềm vui. Lần đầu tiên, Lorraine thấy thật khó để rời bỏ một nơi chốn—cụ thể là thị trấn Maalt.
+Sau biến cố ấy, Lorraine cứ thế nán lại thị trấn Maalt. Lần đầu tiên trong đời, cô nhìn thấy sắc màu của cuộc sống—những thứ từng xám xịt và tẻ nhạt giờ đây lại tràn ngập niềm vui. Lần đầu tiên, Lorraine cảm thấy thật khó để rời khỏi một nơi chốn—chính là thị trấn Maalt này.
 
-Thế nhưng Lorraine vốn thuộc về một nơi khác, bởi cô đến Maalt chỉ vì một ủy thác, một công việc đơn thuần. Sau rất nhiều lời thỉnh cầu và thư từ khẩn khoản giục giã từ vương đô mong cô quay về, Lorraine rốt cuộc đã hạ quyết tâm:
+Thế nhưng Lorraine vốn thuộc về một nơi khác; cô đến Maalt chỉ vì một ủy thác, một công việc đơn thuần. Sau bao bức thư khẩn thiết giục giã từ vương đô mong cô quay về, rốt cuộc Lorraine cũng hạ quyết tâm:
 
-Cô sẽ trở về vương đô—và rồi, cô sẽ một lần nữa khởi hành đến thị trấn Maalt. Lần này, cô sẽ dứt bỏ mọi vướng bận và chẳng còn điều gì hối tiếc.
+Cô sẽ trở về vương đô—rồi sau đó, lại lên đường tới thị trấn Maalt thêm một lần nữa. Lần này, cô sẽ giải quyết dứt điểm mọi chuyện, chẳng còn chút vướng bận hay tiếc nuối nào.
 
-Vốn dĩ, các học giả được hưởng một cuộc sống tương đối tự do—cô không nhất thiết phải ở lại vương đô mới có thể tiếp tục công việc nghiên cứu. Đó là lý do Lorraine quay về vương đô, thu xếp ổn thỏa mọi công việc và sự vụ cần đến sự có mặt của cô, trong lúc luôn ấp ủ kế hoạch trở lại Maalt một khi mọi thứ đã an bài.
+Vốn dĩ giới học giả có cuộc sống tương đối tự do—cô không nhất thiết phải ở vương đô mới tiếp tục công việc nghiên cứu được. Đó là lý do Lorraine quay về, thu xếp ổn thỏa mọi sự vụ cần mình đứng ra giải quyết, trong lòng luôn sẵn kế hoạch trở lại Maalt một khi mọi chuyện đã đâu vào đấy.
 
-Tuy nhiên, khi trở lại vương đô, Lorraine kinh ngạc nhận ra những thứ cô từng thấy vô hồn và ảm đạm trước kia hóa ra lại hoàn toàn trái ngược. Mở rộng tầm mắt, Lorraine thấy các đồng nghiệp và bạn bè nơi vương đô đều thật lòng lo lắng cho cô, và chính lúc ấy cô mới hiểu rằng vị trí của mình ở vương đô không chỉ là một chiếc ghế trống—mọi người thực sự quan tâm đến cô. Đó lại là một điều nữa cô chỉ nhận ra sau cuộc hội ngộ với Rentt.
+Thế nhưng khi trở lại vương đô, Lorraine ngạc nhiên nhận ra những thứ cô từng thấy vô hồn và ảm đạm trước kia hóa ra lại hoàn toàn trái ngược. Chú ý quan sát xung quanh, Lorraine thấy bạn bè và đồng nghiệp nơi đây đều thật lòng lo lắng cho cô; lúc ấy cô mới hiểu vị trí của mình ở vương đô đâu chỉ là một chiếc ghế trống—mọi người thực sự quan tâm đến cô. Đó lại là một điều nữa cô chỉ nhận ra sau lần gặp gỡ Rentt.
 
-Nói cho cùng, chính việc cùng Rentt trải qua chuyến mạo hiểm đã khai mở đôi mắt cô trước thế giới, và bản thân Lorraine thấu suốt điều đó hơn ai hết.
+Nói đúng hơn thì, chính chuyến mạo hiểm cùng Rentt đã mở rộng tầm mắt cô trước thế giới, và bản thân Lorraine thấu hiểu điều đó hơn ai hết.
 
-Dẫu vậy, một lần nữa, Lorraine lại thấy lòng mình hướng về thị trấn Maalt. Dù không hẳn là vui vẻ gì khi phải bỏ lại phía sau những đồng nghiệp cùng bạn bè, cả cũ lẫn mới tại vương đô, cô cảm thấy mình không có sự lựa chọn nào khác.
+Dẫu vậy, lòng Lorraine lại một lần nữa hướng về thị trấn Maalt. Dù chẳng hề vui vẻ gì khi phải bỏ lại sau lưng bạn bè đồng nghiệp, cả cũ lẫn mới nơi vương đô, cô vẫn cảm thấy mình không còn lựa chọn nào khác.
 
-Đúng như dự đoán, lời tuyên bố của cô vấp phải vô vàn nét mặt thất vọng, nhưng rốt cuộc, bạn bè và đồng nghiệp của Lorraine cũng đành nhượng bộ. Có lẽ bởi họ nhận ra có điều gì đó ở Lorraine đã đổi thay—rằng ý chí của cô, đặc biệt là vào thời điểm này, sẽ chẳng thể nào dễ dàng lay chuyển.
+Đúng như dự liệu, lời tuyên bố của cô vấp phải vô vàn gương mặt thất vọng, nhưng rốt cuộc bạn bè và đồng nghiệp cũng đành nhượng bộ. Có lẽ họ nhận ra ở Lorraine đã có điều gì đó đổi thay—rằng hơn bao giờ hết, ý chí của cô lần này chẳng thể nào dễ dàng lay chuyển.
 
-Đổi lại cho yêu cầu của cô, có một điều kiện được đưa ra: Lorraine phải trở về vương đô mỗi năm một lần. Bù lại, cô được phép lưu lại Maalt, tự do thiết lập cơ sở nghiên cứu học thuật của riêng mình tại đó. Thỏa thuận này cho phép Lorraine tạo dựng các mối quan hệ mới ở Maalt trong lúc tiếp tục nghiên cứu, đồng thời công bố những phát hiện của mình theo từng năm. Điều này cũng giúp duy trì sự kết nối liên lạc giữa Lorraine và vương đô.
+Tuy nhiên, để đáp lại yêu cầu đó, có một điều kiện được đưa ra: Lorraine phải trở về vương đô mỗi năm một lần. Bù lại, cô được phép lưu lại Maalt, tự lập cơ sở nghiên cứu học thuật của riêng mình tại đó. Thỏa thuận này cho phép Lorraine gây dựng những mối quan hệ mới ở Maalt trong lúc tiếp tục nghiên cứu và công bố kết quả hàng năm, đồng thời cũng giúp duy trì đường dây liên lạc giữa cô và vương đô.
 
-Hứa hẹn sẽ hoàn thành phần việc của mình bằng một cái vẫy tay hờ hững, Lorraine rốt cuộc cũng rời vương đô, làm đúng như những gì mình đã nói. Tóm lại, Lorraine mua một căn nhà ở thị trấn Maalt và tiếp tục nghiên cứu vào những lúc rảnh rỗi. Thế nhưng chính vào lúc này, bản tính luộm thuộm của Lorraine cuối cùng cũng lộ rõ bộ mặt thật.
+Chỉ vẫy tay hờ hững hứa sẽ làm tròn phần việc của mình, Lorraine rốt cuộc cũng rời vương đô, làm đúng như những gì đã nói. Cô mua một căn nhà tại thị trấn Maalt rồi tiếp tục nghiên cứu vào những lúc rảnh rỗi. Thế nhưng cũng chính lúc này, thói luộm thuộm bừa bãi của Lorraine bắt đầu phát tác.
 
-Dẫu niềm đam mê và tình yêu nghiên cứu của Lorraine là thật, thể hiện qua sự theo đuổi tri thức không ngừng nghỉ, nhưng tính đúng giờ trong việc thư từ liên lạc của cô lại để lại rất nhiều điều đáng chê trách. Dù ban đầu cô tương đối đúng hẹn trong việc hồi âm, chuyện đó nhanh chóng trở thành ngoại lệ hiếm hoi hơn là thói quen thường lệ.
+Dẫu niềm đam mê nghiên cứu của Lorraine là thật, thể hiện qua việc cô không ngừng theo đuổi tri thức, nhưng chuyện giữ đúng hẹn thư từ liên lạc lại chẳng đâu vào đâu. Ban đầu cô còn tương đối chăm chỉ hồi âm, nhưng chẳng mấy chốc điều đó đã biến thành ngoại lệ hiếm hoi thay vì nền nếp thường nhật.
 
-Trong khi những bức thư từ vương đô luôn gửi đến đúng hạn, Lorraine lại thấy việc trả lời thư chẳng khác nào một cực hình. Ngay cả lời hứa trở về vương đô mỗi năm một lần cũng sớm bị gác sang một bên, năm này qua năm khác trôi đi, thi thoảng Lorraine mới thoáng nghĩ tới chuyện đó đôi chút. Trước khi kịp nhận ra, Lorraine đã giao phó luôn cho Rentt việc hồi đáp thư từ và lên kế hoạch cho những chuyến về thăm vương đô của mình.
+Trong khi thư từ từ vương đô luôn gửi đến đều đặn, Lorraine lại thấy việc hồi đáp chẳng khác nào cực hình. Ngay cả lời hứa mỗi năm về vương đô một lần cũng sớm bị gác xó; năm này qua năm khác trôi đi, thi thoảng cô mới sực nhớ ra đôi chút. Chẳng biết tự lúc nào, Lorraine đã giao phó luôn cho Rentt việc trả lời thư từ lẫn lên lịch cho những chuyến về thăm vương đô của mình.
 
-Lý do cho chuyện này tương đối đơn giản—một người bạn của Lorraine ở vương đô, hiểu rõ sự vô vọng của việc trông chờ vào cô, đã viết thư cho Rentt, nhờ cậu chăm sóc Lorraine hết khả năng của mình. Có vẻ như người bạn ấy nắm rất rõ tính nết cùng những xu hướng cố tật của Lorraine.
+Nguyên do khá đơn giản—một người bạn của Lorraine ở vương đô, hiểu rõ trông chờ vào cô là hoàn toàn vô vọng, đã viết thư nhờ Rentt chăm sóc cô hết mức có thể. Có vẻ người bạn ấy nắm quá rõ tính nết cùng những thói tật của Lorraine.
 
-Trên thực tế, Lorraine đã dựa dẫm vào Rentt ngay từ thuở ban đầu—mọi thứ từ mua nhà cho tới thu xếp nơi ăn chốn ở đều được tiện tay phó mặc cho Rentt, người đã lo liệu hơn một nửa tổng số thủ tục. Rentt dạy Lorraine đủ loại kỹ năng sống, thường xuyên kiên nhẫn nhắc đi nhắc lại cho tới khi cô cũng có thể tự chăm sóc bản thân ở mức tương đối. Hễ khi nào Lorraine lơ là việc nhà hay nghĩa vụ của mình, Rentt, trong vô số lần ghé qua, đều sẽ dọn dẹp và thu xếp ổn thỏa giúp cô.
+Thực ra, ngay từ đầu Lorraine đã dựa dẫm vào Rentt—mọi chuyện từ mua nhà cho tới thu xếp chỗ ăn ở đều được cô tiện tay phó mặc cho cậu, người đã lo liệu hơn một nửa mọi thủ tục. Rentt chỉ cho Lorraine đủ thứ kỹ năng sống, kiên nhẫn nhắc đi nhắc lại cho tới khi cô có thể tạm tự chăm sóc bản thân. Mỗi khi Lorraine chểnh mảng việc nhà hay bổn phận của mình, Rentt trong những lần ghé chơi đều sẽ dọn dẹp và thu xếp ổn thỏa giúp cô.
 
-Thế nhưng đây không hẳn là điều Rentt làm không công. Đổi lại cho việc cậu phụ giúp việc nhà và hỗ trợ các công việc khác, Lorraine đã chỉ dạy cho Rentt rất nhiều điều từ phía chiếc bàn học của mình.
+Thế nhưng Rentt làm những việc ấy cũng chẳng hẳn là không công. Đổi lại công cậu phụ giúp việc nhà cùng các chuyện lặt vặt khác, Lorraine đã chỉ dạy cho Rentt vô số điều từ phía bên kia bàn học.
 
-Lorraine, dẫu có lắm tật xấu, dẫu sao vẫn là một "Đại Học Sĩ" kiêm học giả. Chính xác hơn, xét cho cùng thì cô là một trong những học giả xuất sắc bậc nhất. Nói cách khác, trong khi thông thường Rentt sẽ phải trả một khoản học phí khổng lồ cho một gia sư tầm cỡ như Lorraine, cậu lại làm toàn bộ việc nhà và việc vặt cho cô, đổi lại nhận được những bài học như một khoản thù lao.
+Lorraine dù lắm tật xấu nhưng dẫu sao vẫn là một học giả mang danh "Đại Học Sĩ". Nói chính xác hơn thì xét trên mọi phương diện, cô là một trong những học giả xuất chúng bậc nhất. Nói cách khác, trong khi bình thường người ta sẽ phải trả một khoản học phí kếch xù cho một gia sư tầm cỡ như Lorraine, thì Rentt chỉ cần làm việc nhà và lo liệu việc vặt để đổi lấy những bài học thay cho tiền thù lao.
 
-Tuy nhiên, Rentt không hề bắt đầu với toan tính đó trong đầu—
+Có điều, ngay từ đầu Rentt chẳng hề tính toán đến chuyện đó—
 
-Trước hết, cậu biết rất ít về lai lịch của Lorraine. Cậu chỉ suy đoán ra điều đó khi dọn dẹp đống sách rơi vương vãi của Lorraine, rồi Lorraine giải thích phần còn lại sau những câu hỏi ban đầu của cậu. Dù Lorraine không hẳn là nói dối, cô cũng chẳng kể nhiều cho Rentt về quá khứ của mình—cụ thể là việc cô đã từ bỏ cuộc sống nhung lụa nơi vương đô để tới sống ở Maalt ra sao, bạn bè đã cố ngăn cản cô thế nào, hay chuyện cô vẫn nắm giữ tầm ảnh hưởng nhất định đối với các sự vụ của vương quốc, và cả sự thật rằng cô là một trong những học giả kiệt xuất nhất xứ sở.
+Trước hết, cậu biết rất ít về lai lịch của Lorraine. Cậu chỉ lờ mờ đoán ra khi dọn dẹp đống sách rơi vãi của cô, rồi được Lorraine giải thích đôi chút sau vài câu hỏi ban đầu. Dù Lorraine không hẳn là nói dối, nhưng cô cũng chẳng kể nhiều với Rentt về quá khứ—nhất là chuyện cô đã từ bỏ cuộc sống nhung lụa nơi vương đô để tới sống ở Maalt ra sao, bạn bè đã cố ngăn cản thế nào, hay việc cô vẫn có tiếng nói nhất định trong các sự vụ của vương quốc, và cả sự thật rằng cô là một trong những học giả kiệt xuất nhất xứ sở.
 
-Thật may mắn, người cô trò chuyện cùng lại là Rentt. Dẫu Lorraine không chắc liệu cậu có tin lời giải thích của mình hay không, Rentt đã không gặng hỏi thêm, và để mọi chuyện cứ thế diễn ra tự nhiên.
+May sao người cô trò chuyện lại là Rentt. Dù Lorraine không chắc cậu có tin lời giải thích của mình hay không, nhưng Rentt chẳng hề gặng hỏi thêm mà cứ để mọi chuyện tự nhiên như vậy.
 
-Mười năm rốt cuộc cũng trôi qua. Về phần mình, Lorraine rất hài lòng với cuộc sống ấy. Cô cảm thấy mãn nguyện, và thầm ước nó có thể tiếp diễn mãi mãi—hoặc ít nhất là cho tới khi cô nhắm mắt xuôi tay.
+Mười năm cứ thế trôi qua. Về phần mình, Lorraine rất hài lòng với cuộc sống ấy. Cô thấy mãn nguyện và thầm ước nó có thể tiếp diễn mãi mãi—hoặc chí ít là cho tới khi cô nhắm mắt xuôi tay.
 
-Nếu Rentt muốn tiếp tục làm mạo hiểm giả, điều đó hoàn toàn ổn. Cô hài lòng với việc chỉ dõi theo và đứng bên cạnh cậu. Trên thực tế, Lorraine thấy rất ổn với việc miệt mài nghiên cứu như mọi khi, trong khi có Rentt ở bên cạnh. Cô yêu thích những bữa ăn hai người đôi khi cùng chia sẻ trong lúc trò chuyện về những chuyện đời thường vụn vặt—cô chưa từng mảy may thoáng nghĩ rằng những chuỗi ngày ấy rồi sẽ có lúc không thể tiếp diễn mãi mãi.
+Nếu Rentt muốn tiếp tục làm mạo hiểm giả, điều đó cũng chẳng sao. Cô chỉ cần dõi theo và ở bên cạnh cậu là đủ. Lorraine hoàn toàn thoải mái với việc miệt mài nghiên cứu như mọi khi, miễn là có Rentt ở gần bên. Cô thích những bữa cơm hai người thi thoảng cùng sẻ chia trong lúc tán gẫu về ba điều vụn vặt đời thường—cô chưa từng mảy may thoáng nghĩ rằng những chuỗi ngày ấy rồi sẽ có lúc không thể tiếp diễn mãi mãi.
 
 Thế nhưng một ngày nọ, Rentt Faina biến mất.
 
-Lorraine ngập tràn linh cảm âu lo bất an, bởi việc bặt vô âm tín suốt nhiều ngày liền hoàn toàn không giống tác phong của Rentt. Ý nghĩ về việc Rentt bỏ mạng dưới tay quái vật choán ngợp tâm trí Lorraine. Nếu điều đó thực sự xảy ra...
+Một nỗi âu lo bất an bủa vây lấy Lorraine, bởi việc bặt vô âm tín suốt nhiều ngày liền hoàn toàn không giống tính cách của Rentt. Ý nghĩ Rentt bỏ mạng dưới nanh vuốt quái vật cứ choán ngợp tâm trí cô. Nếu điều đó thực sự xảy ra...
 
-Lorraine thấy lòng mình ngổn ngang một cơn hỗn loạn cuộn trào. Đó là một luồng cảm xúc dữ dội—thứ cảm giác cô chưa từng trải qua bao giờ. Cô vô cùng muốn lao ra tuần tra khắp các ngả đường, vừa gào thét tên Rentt vừa kiếm tìm—đó chính là những gì cô cảm thấy.
+Lòng Lorraine cuộn lên một cơn bão hỗn loạn. Đó là một cảm xúc dữ dội—thứ cảm giác cô chưa từng nếm trải bao giờ. Cô chỉ muốn lao ngay ra ngoài, chạy khắp các ngả đường vừa gào tên Rentt vừa tìm kiếm—cô cồn cào muốn làm vậy đến thắt lòng.
 
-Thế nhưng, với trí tuệ sáng suốt và đầy lý tính của mình, Lorraine nhanh chóng nhận ra sự vô ích của hành động ấy. Nếu phương pháp đó tỏ ra vô hiệu, người ta chỉ đơn giản là phải đổi sang phương pháp khác khả thi hơn. Thuê các mạo hiểm giả khác đi tìm cậu sẽ là nước cờ thận trọng hơn; tiền bạc chẳng thành vấn đề. Rốt cuộc thì cô cũng có một khoản tiền tiết kiệm kha khá.
+Thế nhưng với lý trí sắc bén và tỉnh táo, Lorraine nhanh chóng nhận ra hành động đó chẳng ích gì. Nếu cách ấy vô hiệu, người ta chỉ cần chuyển sang phương án khả thi hơn. Nhờ cậy các mạo hiểm giả khác đi tìm cậu sẽ là nước đi thận trọng hơn; tiền nong chẳng thành vấn đề. Dù sao cô cũng có một khoản tiết kiệm kha khá.
 
-Ngay khi vừa định nhấc bút lông lên, Lorraine bị ngắt quãng bởi một âm thanh quen thuộc phát ra từ chiếc tay gõ cửa—một tiếng gõ cửa có nhịp điệu quen thuộc...
+Vừa toan nhấc bút lông lên, Lorraine bỗng khựng lại bởi một âm thanh quen thuộc phát ra từ tay gõ cửa—tiếng gõ có nhịp điệu quen tai...
 
-Trong mười năm cư ngụ tại thị trấn Maalt, Lorraine có rất nhiều, rất nhiều bạn bè và tạo dựng được không ít mối quan hệ. Hoàn toàn có khả năng vị khách ghé thăm là một trong số những người bạn ấy. Tuy nhiên, có điều gì đó khác lạ ở âm thanh này—một điều gì đó rất khác biệt.
+Suốt mười năm sống tại thị trấn Maalt, Lorraine có vô số bạn bè và quen biết không ít người. Rất có thể vị khách ghé thăm là một trong số đó. Thế nhưng, tiếng gõ này lại có điều gì đó khang khác—một nét rất đỗi đặc biệt.
 
-Lorraine, với đầu óc nhạy bén đầy tính tò mò đặc trưng của mình, nhanh chóng phân biệt được những nét đặc thù trong nhịp gõ này. Không thể nào nhầm lẫn được. Chỉ có duy nhất một người gõ cửa theo cái cách kỳ lạ này—
+Với óc quan sát nhạy bén vốn có, Lorraine nhanh chóng nhận ra nét riêng trong nhịp gõ này. Không thể nào nhầm lẫn được. Chỉ có duy nhất một người gõ cửa theo cách ấy—
 
 Rentt Faina.
 
-Với suy nghĩ ấy trong đầu, Lorraine đã toan lao ra ngoài để chắc chắn rằng đó thực sự là cậu—nhưng hành động ấy chắc chắn sẽ bị coi là kỳ quặc. Dù sao đi nữa, Rentt vẫn còn sống. Chỉ bấy nhiêu thôi cũng đã là quá đủ đối với cô rồi.
+Nghĩ vậy, Lorraine toan lao ngay ra ngoài để xem có đúng là cậu không—nhưng làm thế hẳn sẽ rất kỳ quặc. Dù sao đi nữa, Rentt vẫn còn sống. Chỉ bấy nhiêu thôi cũng đủ khiến cô nhẹ nhõm rồi.
 
-Thế nhưng Lorraine không khỏi nhận thấy một điều khác. Trong suốt bao năm ghé qua, Rentt hiếm khi nào gõ cửa. Việc cậu đang gõ cửa lúc này đồng nghĩa với việc có chuyện gì đó không ổn—hoặc chí ít là khác thường. Trong hoàn cảnh bình thường, Rentt hẳn sẽ tự bước vào sau một lúc—ít nhất thì từ trước tới nay vẫn luôn là như vậy. Đó là lý do khiến Lorraine quyết định đón tiếp cậu như thường lệ. Tuy nhiên, chỉ có một vấn đề nảy sinh:
+Thế nhưng Lorraine lại nhận ra một điểm khác lạ. Suốt bao năm ghé qua, Rentt hiếm khi nào gõ cửa. Cậu đứng gõ cửa thế này nghĩa là có chuyện gì đó bất thường—hoặc chí ít là khác lạ. Bình thường, Rentt sẽ tự đẩy cửa bước vào sau một thoáng—ít nhất từ trước tới nay vẫn luôn như vậy. Vì thế, Lorraine quyết định cứ đón tiếp cậu như mọi khi. Có điều, rắc rối duy nhất là:
 
 Vào tầm giờ này trong ngày, cô thường đang ngủ thiếp đi trên ghế sofa.
 
-Nghĩ vậy, Lorraine quyết định làm đúng như thế. Đưa tay cào mái tóc để tạo cho mình vẻ ngoài bù xù xơ xác, Lorraine nằm dài một cách tùy tiện lên chiếc ghế sofa rồi nhắm mắt lại.
+Nghĩ vậy, Lorraine quyết định làm y như thế. Đưa tay vò tung mái tóc cho rối bù, cô nằm sõng soài lên chiếc ghế sofa rồi nhắm mắt lại.
 
-Chính lúc đó, một tiếng cạch quen thuộc vang lên khắp gian phòng—núm cửa đã được vặn mở. Cùng với tiếng bước chân đang tới gần là một giọng nói quen thuộc...
+Chính lúc đó, một tiếng cạch quen thuộc vang lên trong phòng—tay nắm cửa đã vặn mở. Cùng với tiếng bước chân tiến lại gần là một giọng nói quen thuộc...
 
-"...Này... Này. Dậy đi."
+"...Này... này. Dậy đi."
 
 ◆◇◆◇◆
 
-Kể từ dạo đó, Lorraine thay mặt tôi lui tới Hội Mạo Hiểm Giả, giao nộp các nguyên liệu và Ma Tinh mà tôi thu lượm được trong những chuyến thám hiểm mê cung. Cô ấy dĩ nhiên nhận được tiền vàng cho số vật liệu ấy. Trong khi trước đây tôi từng phải thắt lưng buộc bụng tằn tiện từng đồng và chi li tính toán chi tiêu, thì giờ đây túi tiền của tôi đã nặng trĩu trông thấy.
+Kể từ dạo đó, Lorraine thay mặt tôi lui tới Hội Mạo Hiểm Giả, giao nộp nguyên liệu và Ma Tinh tôi thu lượm được sau những chuyến thám hiểm mê cung. Dĩ nhiên cô ấy mang về tiền vàng cho số vật phẩm ấy. Nếu như trước kia tôi phải thắt lưng buộc bụng tằn tiện từng đồng và tính toán chi li từng khoản tiêu pha, thì giờ đây túi tiền của tôi đã nặng trịch trông thấy.
 
-Rốt cuộc, chính Lorraine đã mua lại lọ chất dịch Slime từ tôi—với một khoản tiền khá hời. Dù đó là một loại nguyên liệu tương đối có giá trị đối với Hội, nhưng không hề có quy định nào bắt buộc tôi phải bán chiến lợi phẩm của mình cho ai. Việc đó hoàn toàn tùy thuộc vào quyết định của từng mạo hiểm giả.
+Sau cùng, chính Lorraine đã mua lại lọ dịch thể Slime từ tôi—với một khoản tiền khá hời là đằng khác. Dù đó là loại nguyên liệu tương đối có giá trị với Hội, nhưng chẳng có luật nào ép tôi phải bán chiến lợi phẩm cho một ai cố định. Chuyện đó hoàn toàn tùy thuộc vào quyền tự quyết của từng mạo hiểm giả.
 
-Vốn dĩ Lorraine khá am tường giả kim thuật, cô thường tự điều chế các loại thuốc và dược phẩm cho riêng mình. Để làm được vậy, cô cần đủ loại nguyên liệu để nghiên cứu chế tác, và tình cờ là tôi lại mang theo một trong những nguyên liệu ấy—một nguyên liệu đắt đỏ, tôi xin nói thêm—mà Lorraine đã trả một mức giá rất sòng phẳng. Trên thực tế, việc mua trực tiếp từ nguồn thu hoạch còn giúp tiết kiệm chi phí cho Lorraine, người vốn thường phải mua lại nó với mức giá đắt đỏ từ Hội Mạo Hiểm Giả.
+Vốn dĩ Lorraine khá am tường thuật giả kim, cô thường tự điều chế thuốc men và các loại thuốc đặc trị cho riêng mình. Thành thử cô cần đủ loại nguyên liệu để nghiên cứu chế tác, và tình cờ tôi lại mang theo đúng một trong số đó—một nguyên liệu đắt đỏ, xin nói thêm là vậy—và Lorraine đã trả một mức giá rất sòng phẳng. Mua tận gốc thế này thực ra còn giúp Lorraine tiết kiệm chi phí, thay vì phải mua lại với giá đắt đỏ từ Hội Mạo Hiểm Giả.
 
-Nhưng gác chuyện đó sang một bên, có lẽ cũng đáng nhắc tới việc tôi hiện đang rảo bước trên các con phố của thị trấn Maalt. Dẫu tôi thực sự muốn đắm mình trong bầu không khí của thị trấn sau một khoảng thời gian ngỡ như đằng đẵng, tôi không hẳn là bước ra đường đi dạo mà chẳng có mục đích gì.
+Nhưng tạm gác chuyện đó sang một bên, điều đáng nói lúc này là tôi đang rảo bước trên đường phố Maalt. Dù thực sự muốn tận hưởng bầu không khí của thị trấn sau quãng thời gian ngỡ như đằng đẵng vừa qua, tôi cũng chẳng rảnh rỗi bước ra đường đi dạo mà không có mục đích.
 
-Tôi thực sự có một mục đích. Một mục đích rất quan trọng là đằng khác—tôi đang trên đường đi mua vũ khí mới. Suy cho cùng, tôi vẫn đang dùng cùng một bộ vũ khí và giáp trụ từ khi còn sống cho tới lúc biến thành Khô Lâu, rồi kéo dài mãi cho đến khi tiến hóa thành Ngạ Quỷ. Hiện giờ tôi thực tế vẫn đang mang chúng, nhưng số vũ khí và giáp trụ ấy giờ đã tàn tạ, có lẽ chẳng thể nào phục hồi được nữa. Dẫu thanh kiếm này đã trung thành phụng sự tôi suốt nhiều năm trời khi còn sống, nhưng những biến chuyển gần đây nơi thể chất cùng trữ lượng Ma Lực và các năng lượng bên trong tôi đã tàn phá bề mặt của nó. Lưỡi kiếm giờ đây đã sứt mẻ răng cưa và hư hại rõ rệt.
+Tôi có mục đích hẳn hoi. Lại còn là một việc rất hệ trọng nữa cơ—tôi đang trên đường đi sắm vũ khí mới. Dù sao thì tôi vẫn mang đúng bộ vũ khí và giáp trụ từ thời còn sống, từ lúc hóa thành Khô Lâu cho tới tận khi tiến hóa thành Ngạ Quỷ. Hiện tại tôi vẫn đang dùng chúng, nhưng mớ trang bị ấy nay đã tàn tạ đến mức chẳng thể phục hồi được nữa. Dẫu thanh kiếm này đã trung thành gắn bó với tôi suốt bao năm thời còn sống, nhưng những biến chuyển gần đây nơi thể chất cùng trữ lượng Ma Lực và các luồng năng lượng bên trong đã tàn phá bề mặt của nó. Lưỡi kiếm giờ đây sứt mẻ lởm chởm, hư hại thấy rõ.
 
-Có lẽ đó là điều hiển nhiên. Trước kia tôi chỉ vận dụng Khí Thuật đúng mỗi ngày một lần, và chưa từng nghĩ đến việc truyền Thần Lực hay ma pháp vào vũ khí và giáp trụ của mình. Vì những toan tính ấy, tôi chủ yếu chỉ mua sắm trang bị giá rẻ. Xét đến việc tôi liên tục vận dụng ma pháp, Khí Lực và Thần Lực trong suốt mấy ngày qua, những hư hao giáng xuống lưỡi kiếm là điều khó tránh khỏi. Thật đáng tiếc, đúng vậy, nhưng tôi cũng chẳng thể làm gì khác hơn.
+Âu đó cũng là lẽ đương nhiên. Trước kia mỗi ngày tôi chỉ vận dụng Khí Thuật được đúng một lần, và chưa từng mảy may nghĩ đến việc truyền Thần Lực hay ma pháp vào vũ khí và giáp trụ. Chính vì thế, tôi toàn mua trang bị giá rẻ. Xét việc mấy ngày qua tôi liên tục dồn cả ma pháp, Khí Lực lẫn Thần Lực vào thanh kiếm, chuyện lưỡi kiếm hao mòn tàn tạ là điều khó tránh khỏi. Tiếc thì tiếc thật đấy, nhưng tôi cũng chẳng thể làm gì khác hơn.
 
-Dẫu từng dự định sẽ dùng nó thêm một năm nữa, tôi lại chẳng có món vũ khí nào khác mang theo bên mình, thành thử việc tôi liên tục vắt kiệt nó đã dẫn tới tình cảnh hiện tại. Đó thực sự là một thảm kịch.
+Dù từng tính dùng nó thêm một năm nữa, nhưng ngặt nỗi bên mình chẳng còn món vũ khí nào khác, thành thử việc tôi liên tục vắt kiệt nó đã dẫn tới nông nỗi này. Quả thực là một thảm kịch.
 
-Sự kết hợp của nhiều yếu tố khác nhau, chẳng hạn như năng lực tổng thể gia tăng giúp việc săn quái hiệu quả hơn, việc Rina trả lại tiền thừa sau khi mua áo choàng giúp tôi, và thậm chí cả khoản tiền kiếm được từ việc bán nguyên liệu quái vật, tất cả đã dẫn tới một kết quả—giờ đây tôi đã tương đối khá giả. Đến mức thời điểm này là lúc vô cùng thích hợp để tôi đầu tư vào một món vũ khí mới.
+Nhiều yếu tố cộng lại, từ thực lực tổng thể tăng tiến giúp việc săn quái hiệu quả hơn, cho tới khoản tiền thừa Rina trả lại sau khi mua áo choàng giúp tôi, rồi cả tiền kiếm được từ việc bán nguyên liệu quái vật, tất cả đã dẫn tới một kết quả—giờ đây tôi khá rủng rỉnh tiền bạc. Đến mức đây là thời điểm không thể thích hợp hơn để tôi đầu tư một món vũ khí mới.
 
-Tuy nhiên, tôi tự nhủ trong lòng sẽ tạm hoãn việc mua giáp trụ. Dù sao thì việc chế tác loại trang bị như vậy đòi hỏi phải đo đạc kích thước—điều bắt buộc tôi phải cởi bỏ chiếc áo choàng của mình ra.
+Có điều, tôi tự nhủ phải tạm hoãn chuyện sắm giáp trụ. Dù sao chế tác loại trang bị đó cũng đòi hỏi phải đo đạc kích thước—đồng nghĩa với việc tôi buộc phải cởi phăng chiếc áo choàng trên người.
 
-Không phải tôi sợ bị khỏa thân; tôi đâu phải là một cô thiếu nữ. Nhưng tôi có lý do của riêng mình. Ở một khía cạnh nào đó, việc phơi bày da thịt đối với tôi thậm chí còn đáng sợ hơn cả một thiếu nữ. Ý tôi là, làm sao tôi có thể thản nhiên phơi bày thân thể Ngạ Quỷ nửa khô khốc này trước mặt một người sống cơ chứ?
+Chẳng phải tôi sợ bị trần như nhộng; tôi đâu phải thiếu nữ mới lớn. Nhưng tôi có lý do của mình. Xét ở khía cạnh nào đó, việc để lộ da thịt đối với tôi còn đáng sợ hơn cả một thiếu nữ. Thử nghĩ mà xem, làm sao tôi có thể thản nhiên phơi bày thân thể Ngạ Quỷ quắt queo nửa khô khốc này trước mắt một người sống sờ sờ cơ chứ?
 
-Không, chuyện đó là bất khả thi. ...Có lẽ chỉ trừ những người mà tôi tin tưởng.
+Không, chuyện đó là không thể nào. ...Họa chăng chỉ trừ những người tôi tin tưởng.
 
-Vào thời điểm này, người duy nhất tôi có thể trao gửi niềm tin đến mức ấy chính là Lorraine... Phần lớn là bởi tính cách của cô, và cái cách cô thường chẳng màng bận tâm tới những tiểu tiết vụn vặt trong cuộc sống.
+Vào lúc này, người duy nhất tôi có thể tin tưởng đến mức ấy chỉ có Lorraine... Phần lớn là nhờ tính cách của cô, cùng cái thói chẳng thèm bận tâm tới mấy chuyện tiểu tiết trên đời.
 
-Đây không chỉ là vấn đề niềm tin—nếu thân phận và sự tồn tại dưới dạng một Ngạ Quỷ của tôi bị bại lộ, chẳng ai biết trước điều gì sẽ xảy ra với tôi. Vì lẽ đó, rất khó để tôi để lộ diện mạo trước bất kỳ ai ngoài Lorraine vào lúc này. Đó là lý do hôm nay tôi chỉ lên đường đi mua một thanh kiếm.
+Đây đâu chỉ là chuyện tin tưởng—nếu thân phận cùng hình hài Ngạ Quỷ của tôi bị lộ tẩy, chẳng ai biết trước điều gì sẽ ập đến với tôi. Thành thử lúc này tôi khó lòng để lộ diện mạo trước bất kỳ ai ngoài Lorraine. Đó là lý do hôm nay tôi chỉ đi mua mỗi một thanh kiếm.
 
-Cuối cùng cũng tới nơi cần đến, tôi ngước nhìn tấm biển hiệu quen thuộc của cửa tiệm. Đoạn, hít một hơi thật sâu, tôi củng cố quyết tâm rồi cất bước qua cánh cửa.
+Rốt cuộc cũng tới nơi cần đến, tôi ngước nhìn tấm biển hiệu quen thuộc của tiệm. Hít một hơi thật sâu, tôi hạ quyết tâm rồi đẩy cửa bước vào.
