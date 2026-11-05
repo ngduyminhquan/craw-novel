@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T05:38:53Z",
+  "generatedAt": "2026-11-05T05:44:45Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2890,7 +2890,7 @@
           "number": 123,
           "title": "Chương 123: Tập 5 Chương 2 - Chế Tạo Vật Dẫn (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_123.md",
-          "sha": "6056a2fbb243a95f6fc66948239838b995641747"
+          "sha": "ae366b0daf1238261b117ddaf6541d5e4e9cf9c0"
         },
         {
           "number": 124,
