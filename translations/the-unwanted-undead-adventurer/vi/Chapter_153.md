@@ -28,7 +28,7 @@ Một người ngồi uống cùng bàn ghé sát tai tôi thì thầm giải th
 
 "Anh ấy dẫn mấy thợ săn nữa đi thăm dò, nhưng con Goblin đó vượt quá sức họ. Thật ra chính Rudol là người khuyên làng nên nhờ mạo hiểm giả giúp đỡ. Vì ngại tốn kém nên trưởng làng cũng mong thợ săn trong làng tự lo liệu được, chứ lần này thì không kham nổi rồi. Rốt cuộc quyết định của chúng tôi là hoàn toàn đúng đắn. Tôi xem xác con Goblin rồi, dễ chừng phải cao tới hai mét ấy chứ? Đã thế lại còn vác cả đại kiếm nữa. Hạ được nó chắc chắn chẳng dễ dàng gì."
 
-"Đúng vậy, một tổ đội Đồng Cấp thì xử lý nó không mấy khó khăn, nhưng thợ săn địa phương chắc chắn sẽ chật vật lắm. Cơ mà nếu đúng như anh nói, sao anh ta lại cứ nhắm vào tôi gây sự thế này?" tôi hỏi rồi quay lại nhìn Rudol.
+"Đúng vậy, một tổ đội Đồng Cấp thì xử lý nó không mấy khó khăn, nhưng thợ săn địa phương chắc chắn sẽ chật vật lắm. Cơ mà nếu đúng là vậy, sao anh ta lại cứ nhắm vào tôi gây sự thế này?" tôi hỏi rồi quay lại nhìn Rudol.
 
 Rudol đặt một tay lên vai tôi rồi bảo: "Tôi thách đấu với cậu một trận."
 

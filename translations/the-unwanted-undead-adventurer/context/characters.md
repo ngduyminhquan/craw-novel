@@ -76,7 +76,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Capitan |  | Capitan | Trưởng nhóm thợ săn Làng Hathara, một trong những người thầy dạy Rentt săn bắn, sinh tồn và Khí Lực | #146 |
 | Doras |  | Doras | Thiếu niên Làng Hathara làm nghề thủ công gỗ, bạn thuở nhỏ kém Rentt 3 tuổi, thầm thích Riri | #151 |
 | Jid Dalger | Jid | Jid Dalger | Thợ săn lão luyện làng Shigaon, cha của Razzie Dalger, người săn thỏ Aurum | #152 |
-| Razzie Dalger | Razzie | Razzie Dalger | Con trai duy nhất của Jid Dalger, chủ doanh nghiệp quy mô vừa ở Maalt | #152 |
+| Razzie Dalger | Razzie | Razzie Dalger | Con trai duy nhất của Jid Dalger, chủ thương hội quy mô vừa ở Maalt | #152 |
 | Dat | Dat Dalger | Dat | Con trai của Razzie Dalger, cháu nội của Jid Dalger, chú rể trong đám cưới | #152 |
 | Rudol | Rudal | Rudol | Thợ săn địa phương tại Làng Wega | #153 |
 | Eiras |  | Eiras | Mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt, người yêu và sau đó là chồng của Myurin | #154 |
@@ -596,12 +596,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Razzie Dalger
 - Giới tính, vai trò: Nam, khoảng 50 tuổi, con trai duy nhất của Jid Dalger, cha của Dat.
-- Đặc điểm: Rời làng lên Maalt lập nghiệp vì không muốn làm thợ săn, gầy dựng một doanh nghiệp quy mô vừa; từng bất hòa với cha và không mời cha dự đám cưới của mình, nhưng khi về già đã thấu hiểu nỗi lòng của cha và chủ động gửi thư qua Rentt mời Jid dự đám cưới con trai mình.
+- Đặc điểm: Rời làng lên Maalt lập nghiệp vì không muốn làm thợ săn, gầy dựng một thương hội quy mô vừa; từng bất hòa với cha và không mời cha dự đám cưới của mình, nhưng khi về già đã hiểu cho lòng cha và chủ động gửi thư qua Rentt mời Jid dự đám cưới con trai mình.
 - Xuất hiện từ: #152.
 
 ### Dat
 - Giới tính, vai trò: Nam, con trai của Razzie Dalger, cháu nội của Jid Dalger.
-- Đặc điểm: Người thừa kế doanh nghiệp quy mô vừa của cha; nhân vật chú rể tổ chức tiệc cưới tự chọn buffet độc đáo tại Maalt với món chính là thịt thỏ Aurum do ông nội săn tặng.
+- Đặc điểm: Người thừa kế thương hội quy mô vừa của cha; nhân vật chú rể tổ chức tiệc cưới tự phục vụ độc đáo tại Maalt với món chính là thịt thỏ Aurum do ông nội săn tặng.
 - Xuất hiện từ: #152.
 
 ### Rudol

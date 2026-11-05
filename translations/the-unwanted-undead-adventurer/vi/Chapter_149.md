@@ -8,13 +8,13 @@ Capitan nhìn thấu suy nghĩ của tôi. "Bọn chú đâu có bảo hai đứ
 
 "Cũng được thôi, nhưng có hai đứa cùng tham gia thì vẫn hơn. Mà hai đứa cũng chẳng chịu thiệt đâu," Capitan bảo.
 
-Tôi chịu, chẳng đoán nổi họ có thể cho bọn tôi lợi lộc gì. Lorraine có lẽ sẽ rất thích cơ hội nghiên cứu thành phố mà không phải lo quái vật quấy rầy, nhưng chắc chú ấy không có ý đó.
+Tôi chịu, chẳng đoán nổi họ có thể cho chúng tôi lợi lộc gì. Lorraine có lẽ sẽ rất thích cơ hội nghiên cứu thành phố mà không phải lo quái vật quấy rầy, nhưng chắc chú ấy không có ý đó.
 
 "Đúng không hả, Gharb?" chú ấy quay sang hỏi bà lão.
 
-"Ừ thì, cứ dẫn tụi nó đi xem tận mắt là dễ nhất. Đi xem chút nhé?" bà Gharb bảo. Bà leo lên lưng Shahor Melechnamer rồi cúi nhìn xuống hai đứa tôi. "Còn làm cái gì đấy? Trèo lên mau."
+"Ừ thì, cứ dẫn tụi nó đi xem tận mắt là dễ nhất. Đi xem chút nhé?" bà Gharb bảo. Bà leo lên lưng Shahor Melechnamer rồi cúi nhìn xuống hai chúng tôi. "Còn làm cái gì đấy? Trèo lên mau."
 
-Bà Gharb còn chưa dứt lời thì Capitan đã bắt đầu trèo lên rồi. Xem chừng bọn tôi cũng phải cưỡi nó thôi. Tôi hơi ngại một chút, nhưng thú thật là cũng đã quá quen với con quái thú này rồi. Lorraine và tôi nhìn nhau nhún vai, rồi trèo lên lưng Shahor Melechnamer. Lưng nó thừa chỗ cho cả bốn người ngồi thoải mái, lông lại vừa êm vừa mềm. Cảm giác dễ chịu đến mức khiến tôi suýt thèm ngủ một giấc, dù bình thường tôi hiếm khi thấy buồn ngủ. Cơ mà nếu lăn ra ngủ thật thì hỏng bét, vì con quái vật đang phi đi nơi khác, kiểu gì tôi cũng ngã nhào xuống đất.
+Bà Gharb còn chưa dứt lời thì Capitan đã bắt đầu trèo lên rồi. Xem chừng chúng tôi cũng phải cưỡi nó thôi. Tôi hơi ngại một chút, nhưng thú thật là cũng đã quá quen với con quái thú này rồi. Lorraine và tôi nhìn nhau nhún vai, rồi trèo lên lưng Shahor Melechnamer. Lưng nó thừa chỗ cho cả bốn người ngồi thoải mái, lông lại vừa êm vừa mềm. Cảm giác dễ chịu đến mức khiến tôi suýt thèm ngủ một giấc, dù bình thường tôi hiếm khi thấy buồn ngủ. Cơ mà nếu lăn ra ngủ thật thì hỏng bét, vì con quái vật đang phi đi nơi khác, kiểu gì tôi cũng ngã nhào xuống đất.
 
 "Giờ thì đi thôi," bà Gharb nói rồi ra lệnh cho Shahor Melechnamer. Nó lướt đi êm ru, rồi chỉ trong vài giây đã đạt tới tốc độ đáng sợ.
 
@@ -24,7 +24,7 @@ Nó lao vút ra khỏi hang, xông thẳng vào thành phố mê cung. Tàn tíc
 
 "Đừng nhìn thành phố, nhìn mấy bức tường xung quanh kìa!" bà Gharb hét đáp lại.
 
-Tôi nhìn sang các bức tường thì thấy chi chít những miệng hang. Chúng nằm ở độ cao xấp xỉ miệng hang bọn tôi vừa đi ra, kích thước trông cũng sàn sàn như thế. Nhiều đến mức đếm không xuể.
+Tôi nhìn sang các bức tường thì thấy chi chít những miệng hang. Chúng nằm ở độ cao xấp xỉ miệng hang chúng tôi vừa đi ra, kích thước trông cũng sàn sàn như thế. Nhiều đến mức đếm không xuể.
 
 "Tôi biết ngay mà," Lorraine thì thầm.
 
@@ -34,7 +34,7 @@ Tôi nhìn sang các bức tường thì thấy chi chít những miệng hang. 
 
 "Có, mà thế thì sao?"
 
-"Cái họ tìm thấy không nằm trong cái hang bọn mình vừa đi ra đâu, mà ở chỗ khác. Vừa từ tầng năm mươi chín đi xuống là có một cái hang nhỏ ngay gần lối vào thành phố. Ma pháp trận họ tìm thấy nằm ở đó đấy. Nhưng vướng lũ quái vật nên chưa ai thám hiểm sâu hơn được."
+"Cái họ tìm thấy không nằm trong cái hang chúng ta vừa đi ra đâu, mà ở chỗ khác. Vừa từ tầng năm mươi chín đi xuống là có một cái hang nhỏ ngay gần lối vào thành phố. Ma pháp trận họ tìm thấy nằm ở đó đấy. Nhưng vướng lũ quái vật nên chưa ai thám hiểm sâu hơn được."
 
 "Nghĩa là ở đây có nhiều ma pháp trận dịch chuyển sao?"
 
@@ -50,7 +50,7 @@ Tôi gật đầu. "Tuyệt đối không thể để họ phát hiện ra đư�
 
 Đúng là nếu bản thân người Hathara chính là chìa khóa thì họ rất dễ trở thành mục tiêu bị nhắm tới. Nhưng tôi không tài nào tưởng tượng nổi làm sao Đế Quốc có thể lần ra được chuyện đó.
 
-"Nhắc mới nhớ," Lorraine sực nhớ ra điều gì, hạ giọng thì thầm, "Rentt, anh đã biến thành Ma Cà Rồng mà vẫn kích hoạt được nó. Nếu anh mang theo quyến thuộc của Ma Cà Rồng, biết đâu họ cũng dùng được ma pháp trận dịch chuyển đấy. Dù sao thì Ma Cà Rồng tạo ra thuộc hạ bằng cách chia máu của mình cho sinh vật khác mà."
+"Nhắc mới nhớ," Lorraine sực nhớ ra điều gì, hạ giọng thì thầm, "Rentt, anh đã biến thành Ma Cà Rồng mà vẫn kích hoạt được nó. Nếu anh mang theo quyến thuộc của Ma Cà Rồng, biết đâu chúng cũng dùng được ma pháp trận dịch chuyển đấy. Dù sao thì Ma Cà Rồng tạo ra quyến thuộc bằng cách chia máu của mình cho sinh vật khác mà."
 
 Giả thuyết nghe thú vị đấy, nhưng phải thử mới biết chắc được. Giá mà có Edel ở đây, khổ nỗi lúc này chú chuột lại không đi cùng. Dù vậy, sau này thử một phen cũng đáng. Nếu làm được thật, một mình tôi sẽ trở thành chìa khóa mở mọi ma pháp trận dịch chuyển. Kéo theo đó, tôi bỗng thấy mình rơi vào tình thế nguy hiểm hơn bao giờ hết. Lỡ mà Đế Quốc lần ra được tất cả những chuyện này, mục tiêu của họ chắc chắn sẽ là tôi.
 
@@ -72,7 +72,7 @@ Capitan lấy từ trong túi ra hai hòn đá. Một hòn đỏ thẫm mờ m�
 
 "Ừ. Dùng viên nào trước cũng được, cứ đập một viên xuống đất là nó tạo ra một ma pháp trận dịch chuyển. Lối ra thì đập viên còn lại để tạo. Tiện quá còn gì?" bà bảo.
 
-Không chỉ tiện lợi, mà nếu thứ này đem ra đấu giá có khi bán được giá trên trời. Tôi chẳng rõ Lorraine thế nào, chứ bản thân tôi chưa từng thấy thứ ma cụ nào như vậy. Chắc hai người họ muốn làm mẫu cho bọn tôi xem, nhưng món đồ này đâu phải thứ có thể tùy tiện lôi ra dùng.
+Không chỉ tiện lợi, mà nếu thứ này đem ra đấu giá có khi bán được giá trên trời. Tôi chẳng rõ Lorraine thế nào, chứ bản thân tôi chưa từng thấy thứ ma cụ nào như vậy. Chắc hai người họ muốn làm mẫu cho chúng tôi xem, nhưng món đồ này đâu phải thứ có thể tùy tiện lôi ra dùng.
 
 "Cháu cầm lấy viên này đi," Capitan chìa viên đá xanh lam ra bảo. "Muốn đặt ma pháp trận dịch chuyển ở đâu thì đặt."
 
@@ -84,9 +84,9 @@ Nhìn từ xa viên đá trông như bị đục, nhưng lại gần mới thấ
 
 Tôi hiểu lòng tốt của chú ấy, nhưng vẫn phân vân không biết có nên nhận hay không. Tôi nhìn sang Lorraine thì thấy cô đang dán chặt mắt vào viên đá xanh, như chỉ chực giật lấy khỏi tay tôi. Tôi vừa đưa qua, cô đã đưa sát lên trước mắt mà chăm chú nhìn vào bên trong. Cô bắt đầu lẩm bẩm về mấy lý thuyết ma thuật gì đó. Trông cũng hơi rợn người một chút. Cơ mà dù có thành công đến đâu trên con đường học giả, kiếm được món đồ cỡ này cũng phải nhờ vận may, nên chắc cô đang phấn khích lắm. Nghĩ vậy, tôi thấy nhận cũng chẳng sao.
 
-"Ồ, cầm luôn phần của ta đi này," bà Gharb nói rồi đưa hai viên đá đỏ và xanh của bà cho bọn tôi. "Cặp này của ta vẫn còn nguyên bộ. Tiếc là Capitan lại nhanh nhảu chọn chỗ này để đặt mất một viên của ông ấy rồi."
+"Ồ, cầm luôn phần của ta đi này," bà Gharb nói rồi đưa hai viên đá đỏ và xanh của bà cho chúng tôi. "Cặp này của ta vẫn còn nguyên bộ. Tiếc là Capitan lại nhanh nhảu chọn chỗ này để đặt mất một viên trong bộ của mình rồi."
 
-Đá của bà hơi khác màu so với của Capitan một chút, nhưng nhìn chung gần như y hệt. Tôi phải cẩn thận kẻo lẫn mới được. Lối ra, hay lối vào nếu có phân biệt đi nữa, nằm ở chỗ này tôi thấy cũng chẳng vấn đề gì. Theo lời bà Gharb thì ở đây còn đầy ma pháp trận dịch chuyển khác, nên bọn tôi hoàn toàn có thể biến tàn tích này thành trạm trung chuyển để dễ dàng đi tới những vùng đất xa xôi. Thậm chí nếu được tự chọn chỗ đặt mỗi ma pháp trận dịch chuyển, tôi cũng sẽ để một cái ở đây và một cái ở Maalt. Bộ còn lại thì tôi chưa nghĩ ra chỗ nào hợp để dùng, nên trước mắt cứ cất kỹ đã. Biết đâu sắp tới lại tìm ra một vị trí trọng yếu cần đến chúng, nhưng trước khi dùng vẫn phải cân nhắc cho kỹ.
+Đá của bà hơi khác màu so với của Capitan một chút, nhưng nhìn chung gần như y hệt. Tôi phải cẩn thận kẻo lẫn mới được. Lối ra, hay lối vào nếu có phân biệt đi nữa, nằm ở chỗ này tôi thấy cũng chẳng vấn đề gì. Theo lời bà Gharb thì ở đây còn đầy ma pháp trận dịch chuyển khác, nên chúng tôi hoàn toàn có thể biến tàn tích này thành trạm trung chuyển để dễ dàng đi tới những vùng đất xa xôi. Thậm chí nếu được tự chọn chỗ đặt mỗi ma pháp trận dịch chuyển, tôi cũng sẽ để một cái ở đây và một cái ở Maalt. Bộ còn lại thì tôi chưa nghĩ ra chỗ nào hợp để dùng, nên trước mắt cứ cất kỹ đã. Biết đâu sắp tới lại tìm ra một vị trí trọng yếu cần đến chúng, nhưng trước khi dùng vẫn phải cân nhắc cho kỹ.
 
 ![](images/ch149-01.webp)
 
@@ -96,7 +96,7 @@ Lorraine và tôi gật đầu.
 
 "Thế thì trèo lên lại đi," bà Gharb nói rồi leo lên lưng Shahor Melechnamer.
 
-Lúc này bọn tôi đã quen cưỡi rồi nên trèo lên dễ dàng hơn hẳn. Đợi cả bốn người ngồi vững, Shahor Melechnamer lại tiếp tục phóng đi.
+Lúc này chúng tôi đã quen cưỡi rồi nên trèo lên dễ dàng hơn hẳn. Đợi cả bốn người ngồi vững, Shahor Melechnamer lại tiếp tục phóng đi.
 
 ◆◇◆◇◆
 
@@ -108,7 +108,7 @@ Lúc này bọn tôi đã quen cưỡi rồi nên trèo lên dễ dàng hơn h�
 
 "Thế thì tôi chỉ mong đừng rơi vào hai chỗ đấy."
 
-Đó dĩ nhiên chỉ là đùa thôi, nhưng cái chốn khiến những người gan dạ cỡ bà Gharb với Capitan phải thấy kỳ quặc thì chắc cũng chẳng phải bình thường. Cơ mà đứng lại chờ thì đâu có được, nên hai đứa tôi bước lên ma pháp trận, dịch chuyển tới một vùng đất xa lạ.
+Đó dĩ nhiên chỉ là đùa thôi, nhưng cái chốn khiến những người gan dạ cỡ bà Gharb với Capitan phải thấy kỳ quặc thì chắc cũng chẳng phải bình thường. Cơ mà đứng lại chờ thì đâu có được, nên hai chúng tôi bước lên ma pháp trận, dịch chuyển tới một vùng đất xa lạ.
 
 ◆◇◆◇◆
 
@@ -118,7 +118,7 @@ Khi vừa đặt chân tới nơi, tôi không kìm được mà kêu lên một
 
 "Thế rốt cuộc đây là đâu vậy?" tôi hỏi.
 
-"Một đường cống ngầm," bà Gharb đáp. "Cụ thể hơn là một căn phòng bí mật bên trong đường cống ngầm." Bà Gharb sờ soạng quanh vách đá cho đến khi một mảng tường trượt sang bên kèm tiếng ken két lớn. Vài giây sau, một lối đi mở ra phía trước, bên kia là một con mương dẫn nước. "Giờ thì đi thôi."
+"Một đường cống ngầm," bà Gharb đáp. "Cụ thể hơn là một căn phòng bí mật bên trong đường cống ngầm." Bà Gharb sờ soạng quanh vách đá cho đến khi một mảng tường trượt sang bên kèm tiếng ken két lớn. Vài giây sau, một lối đi mở ra phía trước, bên kia là một kênh dẫn nước. "Giờ thì đi thôi."
 
 ◆◇◆◇◆
 

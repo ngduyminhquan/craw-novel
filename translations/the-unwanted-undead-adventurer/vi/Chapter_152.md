@@ -38,13 +38,13 @@ Mắt Jid mở to khi nhìn thấy tên người gửi. "Ra thế. Nào, vào nh
 
 ◆◇◆◇◆
 
-Thợ săn cừ khôi nhất Làng Shigaon chính là Jid. Ông chỉ có độc một người con trai tên Razzie, hiện đang làm chủ một doanh nghiệp quy mô vừa ở Maalt. Razzie nay đã chừng năm mươi tuổi và cũng có một cậu con trai. Bức thư báo tin Dat, con trai của Razzie, sắp sửa lấy vợ và muốn mời Jid tới dự đám cưới.
+Thợ săn cừ khôi nhất Làng Shigaon chính là Jid. Ông chỉ có độc một người con trai tên Razzie, hiện đang làm chủ một thương hội quy mô vừa ở Maalt. Razzie nay đã chừng năm mươi tuổi và cũng có một cậu con trai. Bức thư báo tin Dat, con trai của Razzie, sắp sửa lấy vợ và muốn mời Jid tới dự đám cưới.
 
 Đọc xong bức thư, Jid khẽ cười cay đắng. "Nó bỏ làng đi vì không muốn làm thợ săn, đến đám cưới của chính mình mà nó cũng chẳng buồn mời ta. Có lẽ giờ nó nghĩ khác rồi," Jid nói.
 
 Razzie từng kể với tôi rằng hai cha con họ đã bất hòa suốt một thời gian, và nhìn thái độ của hai người thì đúng là thế thật.
 
-"Giờ Razzie cũng đã lớn tuổi rồi, có lẽ ông ấy đã thấu hiểu nỗi lòng của ông khi xưa," tôi đỡ lời.
+"Giờ Razzie cũng đã lớn tuổi rồi, có lẽ ông ấy đã hiểu cho lòng ông ngày trước," tôi đỡ lời.
 
 "Ừ, ta hiểu ý cậu chứ. Ta cũng chẳng phản đối chuyện đi dự đám cưới đâu Rentt, nhưng có một việc ta muốn nhờ cậu thế này."
 
@@ -54,7 +54,7 @@ Razzie từng kể với tôi rằng hai cha con họ đã bất hòa suốt m�
 
 ◆◇◆◇◆
 
-Đám cưới đông nghẹt quan khách. Với hôn lễ của người thừa kế một công ty quy mô vừa, việc đãi tiệc hoàn toàn bằng hình thức buffet tự chọn là điều khá lạ lẫm. Nhưng chất lượng đồ ăn lại tuyệt hảo, và cách tổ chức độc đáo của bữa tiệc xem chừng rất được lòng mọi người.
+Đám cưới đông nghẹt quan khách. Với hôn lễ của người thừa kế một thương hội quy mô vừa, việc đãi tiệc hoàn toàn theo kiểu tự phục vụ là điều khá lạ lẫm. Nhưng chất lượng đồ ăn lại tuyệt hảo, và cách tổ chức độc đáo của bữa tiệc xem chừng rất được lòng mọi người.
 
 Tôi cảm thấy mình có đôi chút lạc lõng giữa nơi đây, nhưng dẫu sao tôi đến dự đám cưới cũng là theo lời mời của gia đình họ. Vả lại, ở đây cũng chẳng tệ chút nào. Đồ ăn món nào cũng hảo hạng, đặc biệt món chính lại là thịt thỏ Aurum, một giống quái vật cực kỳ quý hiếm. Thịt thỏ đủ phần cho toàn bộ ba trăm vị khách; ai nấy nhìn thấy đều trố mắt sửng sốt, rồi hào hứng thưởng thức. Tôi cũng nếm một phần, và dẫu chẳng còn mấy mặn mà với các món ăn thông thường nữa, tôi vẫn thấy nó ngon đến bất ngờ. Số thỏ này không phải do ai khác bắt mà chính là chiến lợi phẩm của Jid. Tay nghề của ông lão rõ ràng cừ khôi đúng như lời đồn. Chẳng những thế, tôi còn được biếu trọn vẹn một con mang về làm quà. Tôi chỉ muốn mau mau mang nó về nhà cho Lorraine.
 
@@ -66,7 +66,7 @@ Tôi cảm thấy mình có đôi chút lạc lõng giữa nơi đây, nhưng d�
 
 "Thôi nào, vẻ ngoài quan trọng gì đâu ông. Ông là một người ông tuyệt vời, và cũng là một người cha tuyệt vời nữa."
 
-Jid không chỉ cất công ăn vận chỉnh tề mà còn lặn lội kiếm bằng được thứ nguyên liệu quý hiếm cho món chính. Để một người làm ở công ty quy mô vừa có được ngần ấy thỏ Aurum đãi tiệc, hẳn Jid đã phải hào phóng biết bao.
+Jid không chỉ cất công ăn vận chỉnh tề mà còn lặn lội kiếm bằng được thứ nguyên liệu quý hiếm cho món chính. Để một người làm ở thương hội quy mô vừa có được ngần ấy thỏ Aurum đãi tiệc, hẳn Jid đã phải hào phóng biết bao.
 
 "Được thế thì tốt quá. Dù sao cũng cảm ơn cậu đã giúp nhé. Nhớ mang con thỏ đó về nhà đấy. À mà Rentt này, chừng nào cậu làm đám cưới thì nhớ báo ta. Ta sẽ săn thứ gì đó còn tuyệt hơn nữa cho cậu."
 
@@ -82,7 +82,7 @@ Trong lúc hai chúng tôi vừa ăn vừa trò chuyện, Lorraine bỗng lên t
 
 "Ý anh là sao?"
 
-"Jid bảo khi nào có dịp, ông ấy sẽ lại kiếm cho chúng ta một con."
+"Ông Jid bảo khi nào có dịp, ông ấy sẽ lại săn cho chúng ta thứ gì đó."
 
 "Thế à! Vậy thì tôi mong lắm đấy."
 

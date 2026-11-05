@@ -1,6 +1,6 @@
 # Chương 154: Ngoại truyện Tập 6 - Lòng Tốt Thừa Thãi
 
-Tôi bước lại gần một người đàn ông trong quán rượu ồn ào. Dáng người vạm vỡ tầm ba mươi lăm tuổi, nhìn qua là biết dân mạo hiểm giả. Vốn có thực lực lẫn kinh nghiệm, anh ta được xem là một tay kỳ cựu quanh vùng Maalt. Hơn nữa anh ta còn mang hàm Ngân Cấp, nên tiếng tăm ấy lại càng có cơ sở. Thế nhưng bộ dạng anh ta lúc này chẳng ăn nhập gì với danh tiếng đó: cả người đang nằm gục trên chiếc bàn la liệt vỏ chai bia.
+Tôi bước lại gần một người đàn ông trong quán rượu ồn ào. Dáng người vạm vỡ tầm ba mươi lăm tuổi, nhìn qua là biết dân mạo hiểm giả. Vốn có thực lực lẫn kinh nghiệm, anh ta được xem là một tay kỳ cựu quanh vùng Maalt. Hơn nữa anh ta còn là mạo hiểm giả Ngân Cấp, nên tiếng tăm ấy lại càng có cơ sở. Thế nhưng bộ dạng anh ta lúc này chẳng ăn nhập gì với danh tiếng đó: cả người đang nằm gục trên chiếc bàn la liệt vỏ chai bia.
 
 "Gì thế, Rentt đấy à? Để tôi yên đi," anh ta lầm bầm, chẳng rõ là đang ngái ngủ hay đã say mèm, nghe không rõ tiếng. Người đàn ông này tên là Eiras.
 
@@ -10,7 +10,7 @@ Tôi bước lại gần một người đàn ông trong quán rượu ồn ào.
 
 Người bình thường mà chạm phải ánh mắt ấy hẳn đã sợ đến mức chẳng thốt nên lời. Nhưng với tôi thì chuyện này chẳng thấm tháp vào đâu. Đôi mắt đỏ ngầu vằn tia máu của quái vật còn đáng sợ hơn nhiều, huống chi là con Rồng từng nuốt chửng tôi. Giờ tôi chẳng còn thấy con người đáng sợ đến mức ấy nữa.
 
-"Anh biết thừa tôi đang nói về ai rồi còn gì," tôi bảo. "Là Myurin đấy. Anh mà không làm gì đi thì sẽ chẳng bao giờ còn gặp lại cô ấy nữa đâu." Myurin là một cô gái làm việc tại tiệm tạp hóa ở Maalt, tôi quen cô ấy vì thỉnh thoảng có ghé mua đồ. Cô ấy còn có một vị trí đặc biệt nữa, chí ít thì trước đây từng là vậy. "Tôi nghe nói anh đòi chia tay với cô ấy. Cô ấy buồn lắm đấy. Đừng bảo là anh có người khác rồi nhé."
+"Anh biết thừa tôi đang nói về ai rồi còn gì," tôi bảo. "Là Myurin đấy. Anh mà không làm gì đi thì sẽ chẳng bao giờ còn gặp lại cô ấy nữa đâu." Myurin là một cô gái làm việc tại tiệm tạp hóa ở Maalt, tôi quen cô ấy vì thỉnh thoảng có ghé mua đồ. Cô ấy còn có một vị trí đặc biệt trong lòng anh ta nữa, chí ít thì trước đây từng là vậy. "Tôi nghe nói anh đòi chia tay với cô ấy. Cô ấy buồn lắm đấy. Đừng bảo là anh có người khác rồi nhé."
 
 "Đời nào có chuyện đó! Với tôi chỉ có mỗi Myurin thôi. Khoan đã," Eiras khựng lại khi nhận ra mình vừa lỡ lời. "Không, Myurin đâu còn là người của tôi nữa."
 
@@ -74,7 +74,7 @@ Nghe xong ngần ấy chuyện thì câu trả lời đã quá rõ ràng. Eiras 
 
 "Tôi đâu có ý nịnh anh. Cơ mà đúng thật, có lẽ áo choàng đen của phù thủy với bộ giáp đen bị nguyền rủa sẽ hợp với hai chúng ta hơn đấy."
 
-"Nghe cũng thú vị đấy, nhưng như thế trông giống một nghi thức quái đản nào đó hơn là một ngày vui đáng có."
+"Nghe cũng thú vị đấy, nhưng như thế trông giống một nghi thức quái đản nào đó hơn là một ngày vui đúng nghĩa."
 
 "Anh nói cũng đúng."
 

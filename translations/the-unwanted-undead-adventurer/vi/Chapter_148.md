@@ -1,8 +1,8 @@
 # Chương 148: Tập 6 Chương 4 - Bí Mật Của Hathara (3)
 
-Trước mắt chúng tôi là một khung cảnh tựa như thành phố, nhưng tuyệt nhiên chẳng thấy chút bóng dáng con người. Có lẽ đây là một khu tàn tích, mà lại còn là tàn tích với quy mô khổng lồ. Khoảng không gian này dư sức chứa vừa vài thành phố cỡ Maalt. Các công trình kiến trúc trải dài ngút tầm mắt. Nhưng kỳ lạ ở chỗ, dường như chúng tôi không hề ở trên mặt đất, bởi dù nơi đây có bao la đến mấy thì phía trên vẫn có trần vòm che phủ. Những bức vách bên ngoài dựng bằng đá y hệt như hang động chúng tôi vừa bước ra, và trần vòm phía trên có lẽ cũng cùng một chất liệu.
+Trước mắt chúng tôi là một khung cảnh tựa như thành phố, nhưng tuyệt nhiên chẳng thấy chút bóng dáng con người. Có lẽ đây là một khu tàn tích, mà quy mô lại còn cực kỳ khổng lồ. Khoảng không gian này dư sức chứa vừa vài thành phố cỡ Maalt. Nhà cửa, công trình trải dài ngút tầm mắt. Nhưng kỳ lạ ở chỗ, dường như chúng tôi không hề ở trên mặt đất, bởi dù nơi đây có bao la đến mấy thì phía trên vẫn có trần vòm che phủ. Những vách đá bao quanh trông y hệt như hang động chúng tôi vừa bước ra, và trần vòm phía trên có lẽ cũng bằng đá như vậy.
 
-Tít trên cao lấp lánh những đốm sáng, dịu dàng nhấp nháy tựa ngàn sao giữa trời đêm. Dưới thành phố cũng có vô số ánh sáng thắp rực cả một vùng rộng lớn, mà tôi đoán chỉ có thể phát ra từ những ngọn đèn ma thuật. Cảnh tượng tráng lệ đến nỗi khó ai tin nổi đây lại là một thành phố chết. Nếu nơi này được tìm ra, nhờ bầu không khí lãng mạn khắp chốn, nó hoàn toàn có thể trở thành điểm hẹn hò ưa thích của các cặp đôi. Nếu đây chính là bí mật họ muốn cho chúng tôi xem thì tôi thực sự chẳng có gì để phàn nàn. Một ngôi làng nhỏ bé mà lại cất giấu điều phi thường cỡ này quả khiến tôi không khỏi ngỡ ngàng về nhiều mặt.
+Nhìn lên cao, tôi thấy những đốm sáng nhấp nháy dịu nhẹ như sao trời. Trong thành phố cũng có vô số ánh đèn thắp sáng cả một vùng rộng lớn, mà tôi đoán chỉ có thể là đèn ma thuật. Cảnh tượng tráng lệ đến nỗi khó ai tin nổi đây lại là một thành phố chết. Nếu nơi này được tìm ra, nhờ bầu không khí lãng mạn khắp chốn, nó hoàn toàn có thể trở thành điểm hẹn hò ưa thích của các cặp đôi. Nếu đây chính là bí mật họ muốn cho chúng tôi xem thì tôi thực sự chẳng có gì để phàn nàn. Một ngôi làng nhỏ bé mà lại cất giấu điều phi thường cỡ này quả khiến tôi không khỏi ngỡ ngàng về nhiều mặt.
 
 "Chỗ này rốt cuộc là nơi nào vậy bà?" tôi hỏi.
 
@@ -12,11 +12,11 @@ Tít trên cao lấp lánh những đốm sáng, dịu dàng nhấp nháy tựa 
 
 "Đừng nhìn ta bằng ánh mắt đó chứ, ta đùa chút thôi mà. Cơ mà thật đấy. Nơi này là một thành phố. Một thành phố cổ đại đã bị hủy diệt từ lâu lắm rồi. Chắc hẳn cả hai đứa đều từng nghe nói về Vương Quốc Cổ Đại rồi nhỉ."
 
-"Vâng, dĩ nhiên rồi ạ." Cái tên đó vô cùng nổi tiếng trong giới mạo hiểm giả. Một đất nước có lẽ từng nắm giữ kỹ thuật chế tạo túi ma thuật. Một quốc gia cực kỳ phồn vinh và phát triển vượt bậc, nhưng lại chìm trong bức màn bí ẩn. Người đời gọi nơi đó là Vương Quốc Cổ Đại, còn tên thật của nó thì từ lâu đã chìm vào quên lãng. Tàn tích từ nền kỹ thuật tiên tiến ấy nằm rải rác khắp thế giới, năm thì mười họa mới có người tìm thấy một lần, gián tiếp chứng minh một nền văn minh như thế ắt hẳn từng tồn tại, nhưng đó cũng là tất cả những gì chúng tôi biết. Có điều, tôi chẳng rõ chuyện đó thì can hệ gì tới nơi này. Tôi có thể đoán mò, nhưng không cách nào dám chắc mọi điều bà Gharb nói đều là thật. Tôi lặng lẽ chờ bà giải thích thêm.
+"Vâng, dĩ nhiên rồi bà." Cái tên đó vô cùng nổi tiếng trong giới mạo hiểm giả. Một đất nước có lẽ từng nắm giữ kỹ thuật chế tạo túi ma thuật. Một quốc gia cực kỳ phồn vinh và phát triển vượt bậc, nhưng lại chìm trong bức màn bí ẩn. Người đời gọi nơi đó là Vương Quốc Cổ Đại, còn tên thật của nó thì từ lâu đã chìm vào quên lãng. Tàn tích từ nền kỹ thuật tiên tiến ấy nằm rải rác khắp thế giới, năm thì mười họa mới có người tìm thấy một lần, gián tiếp chứng minh một nền văn minh như thế ắt hẳn từng tồn tại, nhưng đó cũng là tất cả những gì chúng tôi biết. Có điều, tôi chẳng rõ chuyện đó thì can hệ gì tới nơi này. Tôi có thể đoán mò, nhưng không cách nào dám chắc mọi điều bà Gharb nói đều là thật. Tôi lặng lẽ chờ bà giải thích thêm.
 
 Bà Gharb ngừng lại một nhịp rồi mới tiếp lời. "Thành phố này do hậu duệ của Vương Quốc Cổ Đại xây dựng nên. Và người dân Hathara, kể cả cháu đấy, Rentt, đều là dòng dõi của họ. Đó chính là bí mật của ngôi làng," bà nói bằng cái giọng thản nhiên đến lạ.
 
-Ít nhất cũng phải nói đây là một tiết lộ gây chấn động. Tôi cứ nghĩ mình chỉ sống ở một trong hàng triệu ngôi làng bình thường khác, ai ngờ gốc gác của bản thân lại bước ra từ huyền thoại. Nhiều nơi có thể tự nhận những chuyện tương tự, nhưng ở đây chúng tôi lại có bằng chứng rành rành. Kỹ thuật đủ sức dựng nên cả một thành phố cỡ này dưới lòng đất đâu phải thứ phổ biến gì cho cam. Thời nay nếu có đủ tài nguyên và nhân lực thì người ta cũng làm được, nhưng nơi này lại được xây từ tận thuở xa xưa. Đã vậy, họ còn tạo ra những ngọn đèn ma thuật vẫn cháy sáng tới tận ngày nay, chứng tỏ nhiều khả năng vẫn còn sót lại những kỹ thuật còn hoạt động được khác.
+Ít nhất cũng phải nói đây là một tiết lộ gây chấn động. Tôi cứ nghĩ mình chỉ sống ở một trong hàng triệu ngôi làng bình thường khác, ai ngờ gốc gác của bản thân lại bước ra từ huyền thoại. Nhiều nơi có thể tự nhận những chuyện tương tự, nhưng ở đây chúng tôi lại có bằng chứng rành rành. Kỹ thuật đủ sức dựng nên cả một thành phố cỡ này dưới lòng đất đâu phải thứ phổ biến gì cho cam. Thời nay nếu có đủ tài nguyên và nhân lực thì người ta cũng làm được, nhưng nơi này lại được xây từ tận thuở xa xưa. Đã vậy, họ còn tạo ra những ngọn đèn ma thuật vẫn cháy sáng tới tận ngày nay, chứng tỏ nhiều khả năng vẫn còn sót lại những thiết bị hay công trình kỹ thuật khác đang hoạt động.
 
 Tôi có hàng tá thắc mắc, nhưng Lorraine đã cất lời trước khi tôi kịp mở miệng, mang lại một tin còn đáng kinh ngạc hơn nữa. "Do hậu duệ của Vương Quốc Cổ Đại xây dựng sao? Tuyệt đối không thể nào. Đây là Thành Phố Mê Cung Của Hiền Vương Felt, phải không?!"
 
@@ -50,7 +50,7 @@ Tôi nghĩ cũng thú vị thật. Biết mình là dòng dõi của một nhân
 
 "Họ biết về ma pháp trận dịch chuyển đó từ trước rồi cơ à?"
 
-"Phải. Tiếc là nơi này nằm ở tận tầng sáu mươi, nên nội chuyện xuống được tới đây thôi đã là một thử thách gian nan rồi. Đã xuống tới nơi rồi thì lại phải đối đầu với Shahor Melechnamer cùng vô số quái vật hùng mạnh lảng vảng khắp thành phố. Trước đây giới học giả từng cố điều tra nơi này, nhưng chẳng ai sống sót được bao lâu nên gần như chưa đạt được bước tiến nào. Tôi nhận ra thành phố này qua dáng vẻ của nó, và cũng biết về ma pháp trận dịch chuyển không hoạt động kia, nhưng hiểu biết của tôi chỉ dừng lại ở chừng đó thôi."
+"Phải. Tiếc là nơi này nằm ở tận tầng sáu mươi, nên nội chuyện xuống được tới đây thôi đã là một thử thách gian nan rồi. Đã xuống tới nơi rồi thì lại phải đối đầu với Shahor Melechnamer cùng vô số quái vật hùng mạnh lảng vảng khắp thành phố. Trước đây giới học giả từng cố điều tra nơi này, nhưng chẳng ai sống sót được bao lâu nên gần như chưa đạt được bước tiến nào. Tôi cũng chỉ biết diện mạo bên ngoài của thành phố này, và biết có một ma pháp trận dịch chuyển không hoạt động được, chứ hiểu biết của tôi chỉ dừng lại ở chừng đó thôi."
 
 Nghe như thể dù muốn hay không thì họ cũng chẳng thể nào nghiên cứu ma pháp trận dịch chuyển. Tôi có thể nghĩ ra vài cách để họ thử, nhưng khổ nỗi chuyện này lại còn là bí mật quốc gia. Việc đó sẽ hạn chế các phương án nghiên cứu của họ. Xem chừng tình thế cũng khá rắc rối.
 
@@ -72,9 +72,9 @@ Nếu thực sự sở hữu nền kỹ thuật tiên tiến cùng sức mạnh 
 
 "Nghe nói từ ngày xưa, cũng có vài người từng cố tìm hiểu thêm đấy," Capitan đáp. "Có một câu chuyện như thế chỉ được truyền lại cho trưởng nhóm thợ săn qua từng thế hệ mà thôi. Tôi nghĩ bà cũng có câu chuyện tương tự phải không, bà lão?"
 
-Bà Gharb gật đầu. "Phải, một câu chuyện được truyền lại giữa những người mà ngày nay gọi là bà lão làm thuốc, dù thời xưa chúng tôi từng mang danh đại ma pháp sư. Trưởng làng ngày trước cũng có một danh xưng khác. Họ từng được gọi là quốc vương."
+Bà Gharb gật đầu. "Phải, một câu chuyện được truyền lại giữa những người mà ngày nay gọi là bà lão làm thuốc, dù thời xưa bọn ta từng mang danh đại ma pháp sư. Trưởng làng ngày trước cũng có một danh xưng khác. Họ từng được gọi là quốc vương."
 
-"Đã nhắc tới chuyện đó thì nghe đâu trưởng nhóm thợ săn ngày xưa từng được gọi là kỵ sĩ đoàn trưởng đấy. Xét việc có thể lần nguồn gốc làng mình về tận nơi này, chuyện đó cũng hoàn toàn hợp lý. Chúng ta là dòng dõi của một đất nước đã diệt vong. Cơ mà tôi chẳng rõ điều đó có đáng để tự hào không nữa. Rốt cuộc thì làng mình cũng chỉ là một ngôi làng bình thường thôi mà," Capitan bật cười.
+"Đã nhắc tới chuyện đó thì nghe đâu trưởng nhóm thợ săn ngày xưa từng được gọi là kỵ sĩ đoàn trưởng đấy. Xét việc có thể lần nguồn gốc làng mình về tận nơi này, chuyện đó cũng hoàn toàn hợp lý. Chúng ta là dòng dõi của một đất nước đã diệt vong. Cơ mà chú chẳng rõ điều đó có đáng để tự hào không nữa. Rốt cuộc thì làng mình cũng chỉ là một ngôi làng bình thường thôi mà," Capitan bật cười.
 
 ◆◇◆◇◆
 
@@ -84,11 +84,11 @@ Cơ mà nếu cứ khăng khăng Hathara là ngôi làng bình thường, sao h�
 
 "Như Capitan vừa nói đấy, Hathara giờ chỉ là một ngôi làng bình thường thôi," bà Gharb bảo. "Giờ chỉ còn ba người bọn ta biết bí mật này, thế là đủ làm bằng chứng rồi còn gì. Thực ra thì, ta nghĩ cứ biến nó thành một ngôi làng bình thường là tốt nhất."
 
-"Ý bà là sao ạ?" tôi hỏi.
+"Ý bà là sao hả bà?" tôi hỏi.
 
 "Ta từng kể cho cháu nghe chuyện ngày xưa làng mình hung bạo hơn nhiều rồi đúng không? Tất cả là vì nơi này đấy. Đại ma pháp sư, kỵ sĩ đoàn trưởng và quốc vương là những chức vị duy nhất còn sót lại từ thời xưa, nhưng hồi ta còn trẻ, trong làng còn có cả tể tướng, tư pháp quan lẫn tư tế nữa cơ. Chuyện đó là từ trước cả khi Capitan hay Ingo chào đời, vào thời vị trưởng làng trước. Khi ấy có sáu người bọn ta biết về thành phố này, và nội bộ chia rẽ về việc có nên tìm cách tận dụng nó hay không. Tể tướng, tư pháp quan và tư tế quả quyết có thể dùng bí mật này để thu hút thêm người đến Hathara, mở rộng ngôi làng thành một đô thị lớn và mang lại thêm nhiều của cải cho dân làng. Theo những gì ta nghe kể thì ba người còn lại hiểu lập trường đó, nhưng chẳng mấy mặn mà tán thành. Suy cho cùng, đây là bí mật đã được gìn giữ qua bao đời. Họ không muốn thế hệ của mình lại là người để lộ nó ra, đó là một lý do, nhưng họ cũng sợ mối hiểm họa tiềm ẩn nữa. Nhìn con quái vật này là cháu hiểu tại sao ngay ấy mà," bà Gharb vừa nói vừa vuốt ve Shahor Melechnamer. Nó kêu gừ gừ hệt như một con mèo già bình thường, nhưng nếu ai thực sự giao chiến với nó thì sẽ mất mạng như chơi. Một ngôi làng nhỏ mà nắm trong tay sức mạnh cỡ ấy, kiểu gì cũng sẽ có kẻ tìm cách lợi dụng. Tôi đoán đó chính là mối nguy mà bà nhắc tới.
 
-"Mọi người sợ người ngoài làng sẽ tìm cách lợi dụng nó ạ?" tôi hỏi.
+"Mọi người sợ người ngoài làng sẽ tìm cách lợi dụng nó sao bà?" tôi hỏi.
 
 "Phải. Ngoài kia có những quốc gia, tổ chức, và cả những cá nhân vô cùng hùng mạnh. Con quái vật này, thành phố này, cùng ma pháp trận dịch chuyển kia đều có thể trở thành những vũ khí cực kỳ lợi hại, trong khi bọn ta chỉ là những người dân làng mộc mạc. Ai nấy đều rất sợ rốt cuộc sẽ bị kẻ khác lợi dụng, rồi ngôi làng bị bỏ mặc cho đến lúc lụi tàn. Hai bên cứ thế bất đồng mà chẳng bao giờ đi đến được thỏa hiệp, cho tới khi mọi chuyện đi đến hồi kết."
 

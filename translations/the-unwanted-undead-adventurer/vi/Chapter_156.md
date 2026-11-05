@@ -84,7 +84,7 @@ Phải thừa nhận là trang phục của chúng tôi trông rất bắt mắt
 
 "Anh tốt tính quá rồi lại tự làm khổ mình thôi."
 
-"Chắc vậy thật. Xin lỗi nhé, Lorraine. Đang yên đang lành có cơ hội ngắm nhìn vương đô, giờ tôi lại tự rước thêm việc vào người cho cả hai đứa."
+"Chắc vậy thật. Xin lỗi nhé, Lorraine. Đang yên đang lành có cơ hội ngắm nhìn vương đô, giờ tôi lại tự rước thêm việc vào người cho cả hai."
 
 "Không sao đâu, tôi lên vương đô không biết bao nhiêu lần rồi. Chẳng còn mấy thứ để tôi phải ngó nghiêng nữa."
 
@@ -112,7 +112,7 @@ Ngay sau khi Augurey hoàn tất thủ tục nhận ủy thác ở Hội, chúng
 
 "Ở đây xem chừng có rất nhiều loại thảo dược khác nhau," tôi nói. "Chúng ta đang tìm thiến thảo hỏa tinh linh, đúng chứ?"
 
-"Phải, nhưng tôi chịu chẳng biết hình dáng nó ra sao. Nhìn đâu tôi cũng thấy chúng y xì đúc như nhau cả," Augurey ôm đầu đáp. Anh ta nhìn chằm chằm vào đám cây cỏ nhưng xem chừng hoàn toàn không phân biệt nổi loài nào với loài nào.
+"Phải, nhưng tôi chịu chẳng biết hình dáng nó ra sao. Nhìn cây nào tôi cũng thấy giống hệt nhau cả," Augurey ôm đầu đáp. Anh ta nhìn chằm chằm vào đám cây cỏ nhưng xem chừng hoàn toàn không phân biệt nổi loài nào với loài nào.
 
 Quanh đây có rất nhiều loài cây nhỏ trổ hoa màu vàng lục, thoạt nhìn thì cây nào cũng giống hệt cây nào. Nhưng tôi biết rõ chúng hoàn toàn khác nhau. "Muốn nhận biết thiến thảo hỏa tinh linh thì cứ nhìn vào hình dáng lá và hoa, số lượng lá, dáng thân cây, mùi hương cùng phần rễ. Nhân dịp này anh học cách phân biệt luôn đi," tôi vừa nói vừa chỉ kỹ từng đặc điểm riêng của loài cây này cho Augurey. Có ba bốn loại cây trông na ná như vậy và hầu như đều mọc lẫn vào nhau ở cùng một chỗ. Không biết cách phân biệt thì rất khó hái cho đúng, nhưng nắm được mẹo rồi thì lại chẳng có gì phức tạp. Tôi giảng đi giảng lại thật kỹ, và chỉ sau vài lần thử là Augurey đã tự nhận biết được.
 
@@ -120,7 +120,7 @@ Quanh đây có rất nhiều loài cây nhỏ trổ hoa màu vàng lục, tho�
 
 Tôi dạy anh ta chẳng phải vì bản thân anh ta. Tôi làm vậy chỉ để những ủy thác như thế này sẽ không còn bị bỏ xó trơ trọi ở vương đô nữa. Augurey tuy là một mạo hiểm giả đơn độc, nhưng lại khá giàu lòng trắc ẩn, thế nên nhiều khả năng anh ta sẽ truyền lại những kiến thức này cho đám hậu bối.
 
-Đã dùng thiến thảo hỏa tinh linh làm thuốc nhuộm thì hẳn anh ta định may một bộ đồ màu đỏ. Rễ cây này đem phơi khô sẽ chiết ra được thứ thuốc nhuộm màu đỏ tươi, đỏ rực như ánh chiều tà vào những ngày sức mạnh của hỏa tinh linh dâng cao nhất — cái tên của nó cũng từ đó mà ra. Hiện giờ anh ta đang diện nguyên cây bảy sắc cầu vồng, còn đợt này xem chừng sẽ là một bộ đồ đỏ chói lòa từ đầu tới chân. Nghĩ tới thôi tôi đã thấy gai mắt rồi, cơ mà gu thẩm mỹ thì mỗi người mỗi khác, biết nói sao được.
+Đã dùng thiến thảo hỏa tinh linh làm thuốc nhuộm thì hẳn anh ta định may một bộ đồ màu đỏ. Rễ cây này đem phơi khô sẽ chiết ra được thứ thuốc nhuộm màu đỏ tươi, đỏ rực như ánh chiều tà vào những ngày sức mạnh của hỏa tinh linh dâng cao nhất, và cái tên của nó cũng từ đó mà ra. Hiện giờ anh ta đang mặc cả cây bảy sắc cầu vồng, còn đợt này xem chừng sẽ là một bộ đồ đỏ chói lòa từ đầu tới chân. Nghĩ tới thôi tôi đã thấy gai mắt rồi, cơ mà gu thẩm mỹ thì mỗi người mỗi khác, biết nói sao được.
 
 "Chúng ta quay về được chưa? Tôi nghĩ anh đã hái đủ rồi đấy," Lorraine cất tiếng.
 

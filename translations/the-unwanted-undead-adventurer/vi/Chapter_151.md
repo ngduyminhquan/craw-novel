@@ -2,7 +2,7 @@
 
 Tôi rời làng năm mười lăm tuổi, lúc vừa đủ tuổi đăng ký làm mạo hiểm giả. Câu chuyện này xảy ra trước đó vài tháng.
 
-Tôi cùng một người bạn thuở nhỏ lớn lên bên nhau đang ngồi ở quảng trường trung tâm làm đồ thủ công bằng gỗ, một sản vật đặc trưng của làng. Cậu bạn ấy tên là Doras. Tôi hơn Doras ba tuổi nên coi cậu ấy chẳng khác nào em trai. Cha Doras là một thợ thủ công trong làng, và cậu ấy dường như giống ông ở tính hay lẳng lặng chú tâm vào công việc hơn là vừa làm vừa chuyện trò. Thế mà hôm ấy, Doras lại bảo có điều muốn hỏi tôi. Thấy lạ, tôi liền hỏi xem là chuyện gì.
+Tôi cùng một cậu bạn thuở nhỏ lớn lên cùng tôi đang ngồi ở quảng trường trung tâm làm đồ thủ công bằng gỗ, một sản vật đặc trưng của làng. Cậu bạn ấy tên là Doras. Tôi hơn Doras ba tuổi nên coi cậu ấy chẳng khác nào em trai. Cha Doras là một thợ thủ công trong làng, và cậu ấy dường như giống ông ở tính hay lẳng lặng chú tâm vào công việc hơn là vừa làm vừa chuyện trò. Thế mà hôm ấy, Doras lại bảo có điều muốn hỏi tôi. Thấy lạ, tôi liền hỏi xem là chuyện gì.
 
 "Ừm, anh tập vung kiếm suốt, đã thế còn phải làm bao nhiêu việc khác nhau nữa, em cứ thắc mắc không biết như thế có mệt lắm không," cậu ấy nói.
 
@@ -36,7 +36,7 @@ Thật ra trước đó Doras vốn ủng hộ chuyện tôi rời làng. Thỉn
 
 "Em nghĩ Riri sẽ thấy cô đơn lắm, nên mới muốn xem mình có làm được gì không."
 
-Tôi không ngờ lại nghe thấy cái tên đó, nhưng giờ thì tôi hiểu rồi. Riri cũng là một người bạn thuở nhỏ của tôi. Cô bé cùng Fahri, một đứa em thuở nhỏ khác, lúc nào cũng quấn lấy tôi. Cả hai đứa đều kém tôi bảy tuổi, hồi ấy mới chỉ tròn tám tuổi. Còn Doras mười hai tuổi, hơn hai đứa bốn tuổi.
+Tôi không ngờ lại nghe thấy cái tên đó, nhưng giờ thì tôi hiểu rồi. Riri cũng là một người bạn thuở nhỏ của tôi. Cô bé cùng Fahri, một người bạn thuở nhỏ khác, lúc nào cũng quấn lấy tôi. Cả hai đứa đều kém tôi bảy tuổi, hồi ấy mới chỉ tròn tám tuổi. Còn Doras mười hai tuổi, hơn hai đứa bốn tuổi.
 
 Tôi hiểu vì sao cậu ấy lại lo lắng cho Riri. Thật ra tôi dám chắc là cậu ấy thích cô bé. Cả Riri lẫn Fahri đều là những bé gái đáng yêu, lớn lên hẳn sẽ rất xinh đẹp. Tính tình hai đứa lại vui vẻ hoạt bát, nên rất được lòng bạn bè cùng lứa lẫn những cậu bé lớn hơn như Doras. Thế nhưng Riri dường như lại khá mến tôi, và Doras cũng biết điều đó. Dạo gần đây cô bé có vẻ hơi ủ rũ vì chuyện tôi sắp rời làng. Nếu đúng là vì chuyện này, thì tôi có vài lời cần nói với Doras.
 

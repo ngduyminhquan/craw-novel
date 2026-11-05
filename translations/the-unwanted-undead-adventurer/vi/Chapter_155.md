@@ -72,7 +72,7 @@ Kiểm tra qua loa ngoài cổng thành là một chuyện, chứ ăn mặc th�
 
 ◆◇◆◇◆
 
-"Thế này chắc được rồi đấy. Trông cũng ra gì đấy chứ?" Lorraine nói. May mà ma pháp ít nhất cũng tác động được lên bề mặt áo choàng, đổi được màu toàn bộ. Trước kia nó đen ngòm như cõi hư không, giờ đã chuyển sang nền tím với những hoa văn cầu kỳ, phức tạp phủ bên trên.
+"Thế này chắc được rồi đấy. Trông cũng ổn đấy chứ?" Lorraine nói. May mà ma pháp ít nhất cũng tác động được lên bề mặt áo choàng, đổi được màu toàn bộ. Trước kia nó đen ngòm như cõi hư không, giờ đã chuyển sang nền tím với những hoa văn cầu kỳ, phức tạp phủ bên trên.
 
 "Không ngờ cô cũng có khiếu thiết kế quần áo đấy, Lorraine." Tôi cứ ngỡ cô chỉ nhuộm đại sang màu đỏ hay vàng gì đó, ai dè lại vẽ ra cả một mẫu thiết kế đàng hoàng thế này.
 
@@ -86,7 +86,7 @@ Mấy ý nghĩ kỳ quặc cứ lởn vởn trong đầu cho đến khi tiếng 
 
 Lorraine là mạo hiểm giả Ngân Cấp, đủ sức nhận mấy ủy thác hộ tống thân chủ từ Maalt lên vương đô. Chưa kể có những nguyên liệu thuật giả kim không kiếm được ở Maalt, nên thỉnh thoảng cô cũng phải lên đây tìm. Những lần đó đương nhiên cô đều ghé qua trụ sở Hội, thế nên cứ để nguyên mặt mà vào thì rách việc to.
 
-"Để xem nào, thế này thì sao?" cô nói rồi niệm một câu chú lên người mình. Chớp mắt một cái, thần thái của cô đã đổi khác hoàn toàn. Mái tóc cô uốn xoăn bồng bềnh, khuôn mặt được trang điểm sắc sảo làm nổi bật từng đường nét. Cô còn đeo thêm một cặp kính, nhưng nó chỉ càng tôn lên vẻ quyến rũ. Ngay cả trang phục cũng không còn là chiếc áo choàng lỗi thời thường ngày, mà thay bằng bộ cánh lộng lẫy thường thấy ở các thành phố lớn. Chắc kiểu này cũng đang thịnh hành ở hoàng đô. Tôi chưa từng thấy bộ nào như vậy ở Yaaran, nhưng đến cả tôi cũng nhận ra đây là gu ăn mặc rất mực tinh tế. Trông cô chẳng khác nào một nữ ma pháp sư giàu có, quyền năng khôn lường với tuổi tác bí ẩn, lại phảng phất đôi chút lập dị. Cảm giác như hễ ai bước lại gần là sẽ bị thiêu rụi chỉ còn trơ bộ xương, y hệt tôi của hai ba dạng biến đổi trước vậy.
+"Để xem nào, thế này thì sao?" cô nói rồi niệm một câu chú lên người mình. Chớp mắt một cái, thần thái của cô đã đổi khác hoàn toàn. Mái tóc cô uốn xoăn bồng bềnh, khuôn mặt được trang điểm sắc sảo làm nổi bật từng đường nét. Cô còn đeo thêm một cặp kính, nhưng nó chỉ càng tôn lên vẻ quyến rũ. Ngay cả trang phục cũng không còn là chiếc áo choàng lỗi thời thường ngày, mà thay bằng bộ cánh lộng lẫy thường thấy ở các thành phố lớn. Chắc kiểu này cũng đang thịnh hành ở hoàng đô. Tôi chưa từng thấy bộ nào như vậy ở Yaaran, nhưng đến cả tôi cũng nhận ra đây là gu ăn mặc rất mực tinh tế. Trông cô chẳng khác nào một nữ ma pháp sư giàu có, đầy quyền năng, chẳng rõ tuổi tác và có đôi nét lập dị. Cảm giác như hễ ai bước lại gần là sẽ bị thiêu rụi chỉ còn trơ bộ xương, y hệt tôi của hai ba dạng biến đổi trước vậy.
 
 ![](images/ch155-08.webp)
 
@@ -150,7 +150,7 @@ Tôi quay lại xem là ai và bất giác nín thở. Người này khoác trê
 
 "Ờ, ừm, chắc thế," tôi ấp úng.
 
-"Chà, tôi để ý cái ủy thác đó từ hôm mới được dán lên kia, mà chẳng ma nào thèm nhận," người đàn ông nói. "Tôi thì chẳng bao giờ mặn mà với mấy việc nhạt nhẽo như hái thảo dược nên tránh được chừng nào hay chừng nấy, cơ mà thấy nó cứ nằm trơ trơ ở đó mãi cũng thấy bứt rứt. Nghe đâu bên Hội cũng đang đau đầu vì vụ này. Hái thảo dược thì dễ thật, nhưng hái cho đúng loại thì ngay cả người giám định còn thấy toát mồ hôi. Chuyện người ta đi làm rồi vỡ lẽ là hái sai bét nhè xảy ra như cơm bữa, nên đa phần mạo hiểm giả đều né cho lành. Tôi cũng đang tính xem nên xử lý thế nào đây. Thực ra trước kia tôi có quen một cậu bạn cực kỳ rành mấy món này, cũng tính nhờ vả cậu ấy, ngặt nỗi cậu ấy lại sống ở Maalt. Tôi đâu thể bảo người ta lặn lội suốt cả quãng đường dài lên tận đây được, thành ra chẳng biết tính sao nữa?"
+"Chà, tôi để ý cái ủy thác đó từ hôm mới được dán lên kia, mà chẳng ma nào thèm nhận," người đàn ông nói. "Tôi thì chẳng bao giờ mặn mà với mấy việc nhạt nhẽo như hái thảo dược nên tránh được chừng nào hay chừng nấy, cơ mà thấy nó cứ nằm trơ trơ ở đó mãi cũng thấy bứt rứt. Nghe đâu bên Hội cũng đang đau đầu vì vụ này. Hái thảo dược thì dễ thật, nhưng hái cho đúng loại thì ngay cả người giám định còn thấy toát mồ hôi. Chuyện người ta đi làm rồi vỡ lẽ là hái sai bét xảy ra như cơm bữa, nên đa phần mạo hiểm giả đều né cho lành. Tôi cũng đang tính xem nên xử lý thế nào đây. Thực ra trước kia tôi có quen một cậu bạn cực kỳ rành mấy món này, cũng tính nhờ vả cậu ấy, ngặt nỗi cậu ấy lại sống ở Maalt. Tôi đâu thể bảo người ta lặn lội suốt cả quãng đường dài lên tận đây được, thành ra chẳng biết tính sao nữa?"
 
 Tôi quên béng mất anh ta là chúa nói nhiều. "Tôi hiểu tình hình rồi. Cơ mà trước khi hứa hẹn điều gì, anh cho tôi biết tên trước đã," tôi nói. Tôi thừa biết tên anh ta, chỉ là muốn ngắt lời cho anh ta đỡ huyên thuyên thôi.
 
