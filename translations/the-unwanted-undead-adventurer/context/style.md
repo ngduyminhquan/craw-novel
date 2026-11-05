@@ -51,6 +51,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 25. **Giọng Phu nhân Emilstead (#86).** Quý phu nhân giàu có thương xót thú cưng hết mực; khi cầu xin giúp đỡ thì khẩn thiết, xúc động, xưng "tôi - ngài" chân thành, không trịch thượng; khi cảm kích thì vồ vập, bộc trực, không kiểu cách màu mè.
 26. **Giọng mạo hiểm giả tân binh (#87).** Tân binh mới vào nghề ban đầu bốc đồng, ấm ức, tự ái khi bị trừ thù lao, nhưng biết lắng nghe và cầu tiến khi được chỉ bảo; xưng hô từ bộc trực ("anh - tôi") chuyển sang kính trọng ("tiền bối Rentt - tôi").
 27. **Giọng Rina (#6–12, #24).** Thiếu nữ con gia đình hiệp sĩ mới vào nghề; kính trọng và biết ơn ân nhân cứu mạng (gọi "anh Rentt", tự xưng "tôi", lễ phép nhưng tự nhiên, không đệm "dạ/ạ" khép nép), chu đáo, tinh tế và tháo vát nhưng vẫn giữ nét hồn nhiên của tuổi 17 (lời khen bộc trực, ngây thơ, mắt nhìn đồ độc lạ); khi đối diện với quái vật dù sợ sệt nhưng luôn cẩn trọng giữ khoảng cách an toàn, lúc cần bảo vệ ân nhân thì nhanh trí và bạo dạn.
+28. **Giọng Zarid (#13, #28–29).** Kiếm sĩ kỳ cựu Thượng Đồng Cấp; tính tình bộc trực, xuề xòa, nhiệt tình ghép cặp và giúp đỡ người mới; khẩu ngữ hay đệm "y'see" ("thế này này", "đấy", "cơ mà đấy"); giao tiếp với mạo hiểm giả trẻ hơn (Lorraine thời 14 tuổi, Rentt) xưng "tôi", gọi "cô bé / cô / cậu", tuyệt đối không xưng "ta" kiểu kiếm hiệp/tiên hiệp.
 
 ## Từ cảm thán / cách nói cố định
 

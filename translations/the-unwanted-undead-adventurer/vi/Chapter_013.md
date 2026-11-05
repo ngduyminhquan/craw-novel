@@ -1,169 +1,169 @@
 # Chương 13: Tập 1 Chương 3 - Cuộc Đột Nhập Thị Trấn Của Undead Nọ (2)
 
-"...Rồng sao. Dù có giải thích thế nào đi nữa thì chuyện này vẫn thật khó tin. Nhưng mà..." Nói được nửa câu thì cô nhìn tôi, rồi khẽ lắc đầu chầm chậm.
+"...Rồng cơ à. Nói thế nào thì chuyện này cũng khó tin thật. Nhưng mà..." Nói dở câu, cô nhìn tôi rồi chầm chậm lắc đầu.
 
-"Nhìn bộ dạng này của anh thì tôi không tin cũng không được rồi. ...Mà dù có khó tin đến mức nào đi chăng nữa, thì chuyện một người bạn cũ của mình đùng một cái biến thành Undead... cũng đâu phải điều ai cũng có thể nghĩ tới trong đời chứ."
+"Nhìn bộ dạng anh thế này thì tôi không tin cũng không được rồi. ...Mà dù khó tin thật, chứ bạn cũ đùng một cái biến thành Undead... đâu phải chuyện ngày nào người ta cũng tưởng tượng ra được."
 
-Cởi chiếc áo choàng của tôi ra, cô nheo mắt cẩn thận quan sát từng tấc da thịt khô khốc trên cơ thể tôi. Cô làm điều đó với niềm nhiệt huyết cháy bỏng của một học giả kiêm mạo hiểm giả, bởi cô chính là người bạn cũ của tôi, Lorraine Vivie.
+Cô cởi áo choàng của tôi ra, nheo mắt săm soi từng tấc thân thể khô khốc. Đúng là phong thái hăng say của một học giả kiêm mạo hiểm giả, bởi cô chính là người bạn lâu năm của tôi, Lorraine Vivie.
 
-Cô vẫn mặc chiếc áo choàng nhàu nhĩ và luộm thuộm quen thuộc mà mình luôn khoác lên người. Mái tóc lượn sóng buông xõa dài qua vai một cách tùy ý. Dù trông như thể chẳng hề bận tâm đến vẻ ngoài của mình, nhưng từ cô lại toát ra một sức hút kỳ lạ theo cách rất riêng.
+Cô vẫn mặc chiếc áo choàng nhàu nhĩ, xộc xệch quen thuộc. Mái tóc rối bù buông xõa qua vai thành từng lọn dài uốn sóng. Dù trông chẳng buồn đoái hoài gì đến diện mạo, từ cô vẫn toát ra nét quyến rũ kỳ lạ theo cách rất riêng.
 
-Tôi quen biết cô ấy đã từ rất lâu—đâu đó khoảng mười năm kể từ khi tôi đặt chân đến Maalt. Dẫu đã biết nhau cả một thập kỷ, nhưng chúng tôi chỉ mới thân thiết hơn trong thời gian gần đây—kiến thức uyên bác của cô luôn vô cùng hữu dụng và giúp ích cho tôi về nhiều mặt. Chính vì vậy, tôi chẳng thể nghĩ ra ai thích hợp hơn Lorraine để cùng thảo luận về tình cảnh hiện tại của mình.
+Tôi quen cô lâu lắm rồi—chắc cũng chừng mười năm, kể từ ngày tôi tới Maalt. Dù biết nhau cả chục năm, nhưng mãi gần đây chúng tôi mới thân thiết hơn; vốn hiểu biết của cô luôn rất đắc dụng, giúp đỡ tôi được bao nhiêu việc. Vì thế, tôi chẳng nghĩ ra ai thích hợp hơn Lorraine để bàn về tình cảnh của mình lúc này.
 
-Rõ ràng cô ấy rất kinh ngạc trước những gì tôi kể, nhưng chưa từng một lần nghi ngờ hay khước từ lời tôi nói. Nếu có chăng, Lorraine dường như đã chấp nhận chuỗi sự việc tôi thuật lại như một sự thật hiển nhiên, và lúc này cô đang trầm ngâm suy nghĩ.
+Rõ ràng cô rất kinh ngạc trước những gì tôi kể, nhưng chưa một lần tỏ ý nghi ngờ hay gạt đi. Trái lại, Lorraine dường như đã chấp nhận những điều đó là sự thật, và lúc này đang chìm sâu vào suy nghĩ.
 
 ![](images/ch013-01.webp)
 
-"...Người... không muốn... tin nhất... lại chính là tôi đấy. Lại biến thành... bộ dạng thế này..."
+"Tôi... là người... không muốn... tin nhất đây. Biến thành... như thế này."
 
-Lorraine gật đầu trước lời tôi nói.
+Lorraine gật đầu trước những lời tôi nói.
 
-"Ừ... Đúng thật là vậy. Mà ai lại bảo người ta sẽ biến thành Undead sau khi bị Rồng ăn thịt cơ chứ...? Rồng xuất hiện trong mê cung sao... Thật không thể tin nổi. Giờ nó vẫn còn ở đó à?"
+"Ừ... Đúng là thế. Mà trước giờ có ai bảo bị Rồng ăn thịt lại biến thành Undead đâu chứ...? Rồng trong mê cung... Khó tin thật. Giờ nó còn ở đó không?"
 
-"Không... Nó đã... biến mất rồi. Lúc tôi... tỉnh dậy. Khí tức của nó... cũng chẳng còn. Chắc là... không còn... ở đó nữa đâu."
+"Không... nó đã... đi mất rồi. Lúc tôi... tỉnh lại. Khí tức của nó... cũng tan biến. Chắc là... không còn ở đó. Nữa đâu."
 
-Báo cáo về sự hiện diện của nó cho Hội là một trong những ý nghĩ đầu tiên nảy ra trong đầu tôi khi vừa tỉnh giấc—nhưng tất nhiên, vào thời điểm đó nó đã biến mất tăm mất tích rồi.
+Báo cho Hội về con Rồng là một trong những việc đầu tiên tôi nghĩ tới khi vừa tỉnh dậy—nhưng dĩ nhiên lúc ấy nó đã đi mất rồi.
 
-Nó biến mất không một dấu vết, cứ như thể toàn bộ trải nghiệm từ trước đến giờ của tôi chỉ là một giấc mộng... Tôi tự hỏi làm sao con Rồng có thể tùy ý thoắt ẩn thoắt hiện như vậy. Dù không sao hiểu nổi nguyên nhân đằng sau hành tung ấy, nhưng cũng có thể nói rằng việc cất công đi tìm kiếm nó sẽ chẳng mang lại kết quả gì nếu nó có khả năng tan biến vào hư vô.
+Nó biến mất không tăm tích, cứ như mọi chuyện tôi vừa trải qua chỉ là một giấc mơ... Tôi không hiểu làm sao con Rồng có thể muốn hiện là hiện, muốn biến là biến như thế. Dù chẳng rõ nguyên do, nhưng nếu nó có thể tự tan biến vào hư vô thì đi lùng tìm cũng chẳng ích gì.
 
-Dẫu việc mở một cuộc điều tra là điều hoàn toàn cần thiết, nhưng nộp báo cáo mà không có chút bằng chứng nào trong tay lại là một hành động đầy rủi ro. Bởi làm vậy, nó sẽ chỉ bị coi là một trò chơi khăm hoặc một lời dối trá. Kể cả khi tôi có phơi bày cơ thể mình ra và khẳng định đây là hậu quả của việc chạm trán với Rồng, thì điều đó cũng lại một lần nữa đẩy bản thân tôi vào hiểm nguy tột cùng. Ngay từ đầu, chính tôi còn chẳng hiểu nổi vì cớ gì mình lại biến thành một Undead chỉ vì giáp mặt Rồng, nên họ có đoán già đoán non thì cũng mù mờ chẳng khác gì tôi.
+Dù điều tra là chuyện cần thiết, nhưng báo lên mà không có chút bằng chứng nào trong tay thì quá mức mạo hiểm. Người ta sẽ chỉ coi đó là trò chơi khăm hoặc lời dối trá. Kể cả tôi có phơi thân xác này ra rồi bảo đây là hậu quả sau khi đụng độ Rồng, thì làm thế lại đẩy bản thân vào nguy hiểm khôn cùng lần nữa. Ngay từ đầu, chính tôi còn chẳng hiểu sao giáp mặt Rồng lại biến thành Undead, nên tôi với họ cũng mù mờ như nhau cả thôi.
 
-Tóm lại, việc thiếu bằng chứng thực sự là một vấn đề nghiêm trọng, và nếu mọi chuyện chuyển biến theo chiều hướng xấu thì tôi sẽ gặp nguy to. Do đó, tôi quyết định tạm gác lại ý định báo cáo về việc mình nhìn thấy Rồng.
+Tóm lại, thiếu bằng chứng là vấn đề rất lớn, chỉ cần sơ sẩy là tôi nguy to. Vì thế, tôi quyết định tạm gác ý định báo cáo chuyện nhìn thấy Rồng.
 
-Lorraine dường như cũng đồng tình, cô gật đầu trước kết luận mà tôi đưa ra.
+Lorraine dường như cũng đồng tình, cô gật đầu tán thành kết luận của tôi.
 
-"Lập luận của anh rất có lý. Kể cả anh có bảo mình nhìn thấy Rồng, thì nếu có người tin, số đó cũng chỉ đếm trên đầu ngón tay. Tôi quen biết anh lâu năm nên mới nhận ra anh không nói dối... nhưng với những người khác thì tôi e là chẳng ai chấp nhận đâu. Cho dù họ có muốn tin anh đi nữa, thì lẽ thường tình cũng sẽ bảo họ điều ngược lại. Ý tôi là, nếu anh xuất hiện trong bộ dạng hiện tại, chắc chắn họ sẽ phái mạo hiểm giả đến trừ khử anh ngay tức khắc. Thậm chí có khi bản mặt anh còn bị dán lên bảng nhiệm vụ truy nã ấy chứ. Thôi dẹp ý định đó đi, Rentt." Vừa xua xua tay miêu tả viễn cảnh đó, Lorraine vừa mỉm cười.
+"Anh tính thế là đúng đấy. Giờ anh có bảo mình thấy Rồng thì cũng chẳng mấy ai tin, họa chăng được vài người. Tôi biết anh bao năm nên mới rõ anh không bịa chuyện... chứ người khác thì đời nào tin. Mà họ có muốn tin đi nữa thì lẽ thường cũng bảo điều ngược lại. Ý tôi là, nếu anh xuất hiện với bộ dạng này, khéo họ cử mạo hiểm giả tới săn đuổi anh ngay tắp lự. Thậm chí có khi mặt anh còn bị dán lên bảng nhiệm vụ nữa cơ. Bỏ ý định đó đi, Rentt." Lorraine vừa nói vừa mỉm cười, tay xua xua qua lại khi vẽ ra viễn cảnh đó.
 
-Nói thật thì Lorraine tỏ ra thoải mái đến lạ lùng bên cạnh tôi, dù lúc này tôi đã là một thành viên của giống loài xác sống. Điều này có lẽ bắt nguồn từ tính cách của cô—cô khá gan dạ theo cách riêng của mình. Trong suốt quãng thời gian quen biết cô, Lorraine chưa bao giờ là kiểu người thích săm soi những tiểu tiết, dẫu việc tôi biến thành Ngạ Quỷ có phải là tiểu tiết hay không thì vẫn còn phải xem lại đã.
+Nói thật thì Lorraine tỏ ra thoải mái bên tôi đến lạ, dù lúc này tôi đã là một xác sống biết đi. Điều này có lẽ bắt nguồn từ tính cách—cô vốn khá bạo dạn theo cách riêng của mình. Suốt bao năm quen biết, Lorraine chưa từng là kiểu người bận tâm mấy chuyện vụn vặt, dẫu việc tôi biến thành Ngạ Quỷ có phải chuyện vụn vặt hay không thì còn chưa biết chừng.
 
-Lý do thứ hai có lẽ còn quan trọng hơn: cô ấy là một học giả. Chính xác hơn là một học giả nghiên cứu về quái vật và ma pháp. Nói đúng hơn thì cô lại càng tò mò hơn về việc làm thế nào mà một người sống bằng xương bằng thịt lại có thể biến thành bộ dạng này, rồi sẽ vùi đầu vào công việc để tìm kiếm câu trả lời cho những thắc mắc của mình. Những khoảng lặng trầm tư kéo dài của cô trong lúc chúng tôi trò chuyện có lẽ cũng là để nghiền ngẫm chính những câu hỏi đó.
+Lý do thứ hai có lẽ còn lớn hơn: cô là một học giả. Chính xác hơn là học giả nghiên cứu quái vật và ma pháp. Trái lại, cô càng tò mò muốn biết làm sao một người sống sờ sờ lại có thể ra nông nỗi này, rồi sẽ vùi đầu vào tìm câu trả lời cho kỳ được. Những lúc cô trầm ngâm im lặng giữa cuộc trò chuyện nãy giờ chắc hẳn cũng là để nghĩ về chính những câu hỏi đó.
 
-"Nhưng mà này, càng nhìn anh tôi lại càng thấy anh giống hệt một Undead thực thụ đấy, Rentt à. Dù chẳng muốn hỏi điều này đâu, nhưng... anh có thực sự là Rentt mà tôi từng biết không? Lỡ như anh là một ai đó—hoặc một thứ gì đó tương tự, nhưng lại không hoàn toàn là cùng một người thì sao...?"
+"Nhưng mà này, càng nhìn thì trông anh lại càng đúng là Undead đấy, Rentt. Tôi cũng chẳng muốn hỏi câu này đâu, nhưng... anh có đúng là Rentt mà tôi vẫn biết không? Lỡ anh là ai đó—hoặc thứ gì đó na ná, nhưng lại không hẳn là anh thì sao...?"
 
-Đó là một câu hỏi hóc búa—một câu hỏi mà ngay cả bản thân tôi cũng khao khát có được câu trả lời.
+Đó là một câu hỏi khó—đến chính tôi cũng muốn biết câu trả lời.
 
-Dẫu trong nhận thức tôi vẫn biết rõ mình là Rentt Faina, nhưng với tư cách một sinh vật sống, tôi đã chết một lần. Chuyện đó là không thể bàn cãi. Thực tế là khi tỉnh dậy, tôi chỉ là một đống xương khô. Thật khó lòng khẳng định mình là một sinh vật sống, ít nhất là khi ở trong tình trạng đó.
+Dù trong nhận thức tôi vẫn biết mình là Rentt Faina, nhưng xét như một sinh vật sống thì tôi đã chết một lần rồi. Chuyện đó chẳng có gì phải bàn cãi. Sự thật là khi tỉnh lại, tôi chỉ là một đống xương. Ở trạng thái đó, thật khó mà nhận mình là sinh vật sống được.
 
-Nhưng tôi vẫn giữ trọn ký ức và ý thức của mình. Dẫu chỉ riêng điều đó chưa đủ chứng minh tôi là cùng một Rentt Faina như khi còn sống, nhưng quái vật Undead vốn dĩ đã biến đổi hoàn toàn so với cội nguồn sinh vật sống của chúng kể từ khoảnh khắc trở thành xác sống. Ít nhất tôi có thể nói rằng mình là một dạng tồn tại khác; dẫu vậy, ngay cả bản thân tôi cũng chẳng dám chắc. Và đó là lý do vì sao tôi lại nói ra điều mình đã nói—
+Nhưng tôi vẫn còn nguyên ký ức và ý thức. Dù riêng điều đó chưa đủ chứng minh tôi vẫn là chàng Rentt Faina thuở còn sống, bởi quái vật Undead vốn đã biến đổi hoàn toàn về bản chất so với sinh vật sống ngay từ khi trở thành xác sống. Ít nhất thì tôi cũng là một dạng tồn tại khác; nhưng ngay cả điều đó tôi cũng chẳng dám chắc. Bởi vậy, tôi đành bảo—
 
-Tôi hoàn toàn không biết.
+Tôi chịu thôi.
 
-Nghe lời giải thích của tôi, Lorraine có vẻ đã bị thuyết phục.
+Nghe câu trả lời của tôi, Lorraine có vẻ tán đồng.
 
-"Phải rồi, phải rồi. Sự thật thì chẳng thể nào chỉ ngồi suy nghĩ suông mà tỏ tường được. Nếu anh hỏi tôi, thì chỉ riêng cách anh trả lời câu hỏi vừa rồi cũng đủ để tôi nhận ra anh chính là Rentt. Dẫu anh sở hữu cùng một ký ức và tính cách... nhưng việc anh có phải là 'cùng một sự tồn tại' hay không lại là một vấn đề rẽ hướng khá xa so với hướng tìm hiểu ban đầu của chúng ta rồi.
+"Phải rồi, phải rồi. Chuyện này có ngồi nghĩ suông cũng chẳng ra được. Còn nếu hỏi tôi, thì chỉ riêng cách anh trả lời vừa nãy cũng đủ để tôi biết anh chính là Rentt rồi. Dù anh vẫn có trọn vẹn ký ức và tính cách... nhưng chuyện anh có còn là 'cùng một sự tồn tại' hay không lại rẽ khá xa khỏi hướng ta đang bàn rồi.
 
-"...Ừm. Đến tôi cũng chịu chẳng biết được. Nên cứ tạm gác chuyện đó qua một bên đi; tôi sẽ suy nghĩ về nó sau. Quan trọng hơn là, Rentt à... Từ giờ trở đi anh định tính sao đây? Đó mới là chuyện lớn nhất cần phải giải quyết lúc này, đúng không nào...?"
+"...Ừm. Đến tôi cũng chịu. Thôi cứ tạm gác chuyện đó qua một bên, tôi sẽ nghĩ sau. Quan trọng hơn là, Rentt... từ giờ anh tính sao đây? Đó mới là chuyện lớn nhất cần giải quyết lúc này, đúng không...?"
 
-Lorraine rõ ràng thấy việc hướng cuộc trò chuyện theo một lộ trình thực tế là điều đúng đắn. Đó chính là điều khiến việc nói chuyện với cô ấy trở nên vô cùng thoải mái. Đổi lại, vấn đề cô vừa nêu ra cũng là một trong những lý do cốt yếu khiến tôi tìm đến đây.
+Lorraine chủ động lái câu chuyện sang hướng thực tế hơn. Nói chuyện với cô dễ chịu chính là ở chỗ đó. Và điều cô vừa nêu ra cũng là một trong những lý do lớn nhất khiến tôi tìm đến đây.
 
-Tôi lại cất tiếng nói: "...Vẫn... muốn. Làm mạo hiểm giả... Nhưng. Nhưng mà... không thể. Đến Hội..."
+Tôi lại cất lời: "Vẫn... muốn. Làm mạo hiểm giả... nhưng. Nhưng... không thể. Tới Hội..."
 
-"Vì anh sẽ bị săn đuổi chứ gì? Hừm... Vậy hay là để tôi đi nhận nhiệm vụ và giao nộp những nguyên liệu thu thập được giúp anh nhé? Đó là lý do anh tìm đến tôi, đúng không? Và dĩ nhiên... anh muốn ở lại đây, vì chẳng còn nơi nào khác để đi nữa."
+"Tới đó là bị săn ngay chứ gì? Hừm... Hay để tôi đi nhận nhiệm vụ với nộp đồ thu thập hộ anh nhé? Anh tìm tới tôi là vì chuyện đó đúng không? Và dĩ nhiên... anh cũng muốn ở nhờ đây luôn, vì chẳng còn nơi nào khác để đi."
 
-Chỉ bằng vài câu ngắn ngủi ấy, Lorraine đã đoán trúng phóc toàn bộ thỉnh cầu của tôi. Quả nhiên, cô ấy hiểu tôi quá rõ.
+Chỉ bấy nhiêu thôi mà Lorraine đã đoán trúng phóc mọi điều tôi định nhờ. Đúng là cô hiểu tôi quá rõ.
 
-Thế nhưng, sự sốt sắng đón nhận đề nghị của cô lại khiến tôi nảy sinh đôi chút âu lo.
+Có điều, thấy cô sốt sắng nhận lời như vậy, tôi lại đâm lo.
 
-"...Cô... chắc chứ?" Tôi không kìm được mà hỏi lại.
+"Cô... chắc chứ?" Tôi không kìm được mà hỏi.
 
-"Tôi đâu có bận tâm. Thỉnh thoảng chính tôi cũng có việc ghé qua Hội Mạo Hiểm Giả, nên ngẫm lại thì cũng chẳng phiền phức gì cho cam. À... nhưng mà này, dẫu tôi có bảo sẽ giúp không công thì chắc anh cũng áy náy chẳng ưng đâu nhỉ? Vậy thì... chi bằng anh giúp tôi một tay trong việc nghiên cứu luôn đi."
+"Tôi có phiền gì đâu. Thỉnh thoảng tôi cũng ghé Hội Mạo Hiểm Giả mà, tính ra chẳng mất công là bao. À... cơ mà nếu tôi bảo giúp không công thì anh cũng chẳng thoải mái gì, đúng không? Thế thì... tiện thể phụ tôi làm nghiên cứu luôn đi."
 
-Lorraine đáp lại không chút ngập ngừng.
+Lorraine tuôn một tràng rất nhanh.
 
-"...Nghiên... cứu. Nghiên cứu... sao."
+"Nghiên... cứu. Nghiên cứu... sao."
 
-Tôi đã lường trước được kết quả này. Thậm chí nói đúng hơn là tôi tìm đến đây chính là vì luồng suy nghĩ ấy. Dù sao thì tôi cũng đã biến thành một thành viên của giống loài xác sống. Ít nhất, tôi cũng sẽ có ích cho công trình nghiên cứu quái vật của Lorraine. Có điều tôi chưa nghĩ ra cụ thể mình sẽ phải làm việc đó như thế nào.
+Tôi cũng đoán trước được chuyện này. Nói đúng hơn, chính vì nghĩ vậy nên tôi mới tìm tới đây. Dù sao thì tôi cũng đã là một xác sống rồi. Ít nhất tôi cũng có ích cho việc nghiên cứu quái vật của Lorraine. Chỉ có điều, tôi chưa nghĩ ra cụ thể mình sẽ phải giúp bằng cách nào.
 
-Cứ như thể đọc thấu tâm can tôi, Lorraine liền tiếp tục giải thích.
+Như đọc được suy nghĩ của tôi, Lorraine tiếp tục giải thích.
 
-"Đừng lo lắng, đơn giản thôi mà. Anh biết tôi đang nghiên cứu cái gì rồi đấy, đúng không?"
+"Đừng lo, dễ lắm. Anh biết tôi nghiên cứu cái gì rồi mà, đúng không?"
 
-"...Quái vật... và. Ma pháp...?"
+"Quái vật... và. Ma pháp...?"
 
-"Đúng vậy, chuẩn không cần chỉnh. Trùng hợp thay là đề tài Tiến Hóa Bản Thể lại nằm trọn vẹn trong phạm vi nghiên cứu của tôi. Xét về thực tế thì vì những lý do hiển nhiên nên xưa nay tôi cũng chưa thể đào sâu nghiên cứu đề tài này được nhiều... Nhưng giờ thì anh đã ở đây rồi, Rentt. Một mẫu vật sống ngoài đời thực, một kho tàng thông tin quý giá."
+"Đúng là thế đấy. Tình cờ là đề tài Tiến Hóa Bản Thể lại nằm gọn trong phạm vi nghiên cứu của tôi. Nói thật thì vì mấy lý do ai cũng biết, trước giờ tôi cũng chưa đào sâu nghiên cứu mảng này được mấy... Nhưng giờ anh lại ở đây, Rentt. Một mẫu vật sống sờ sờ, một kho tàng thông tin vô giá."
 
-"...Tôi không... phiền đâu. Nhưng mà... tôi không... muốn bị... giải phẫu đâu đấy."
+"...tôi không... bận tâm. Nhưng... tôi không... muốn bị... giải phẫu đâu đấy."
 
-"Này này, tôi biết là mình hay vùi đầu vào nghiên cứu thật, nhưng tôi đâu phải loại nhà bác học điên chứ. Ầy... cơ mà có lẽ trích một ít mẫu da thịt thì chắc cũng chẳng sao đâu nhỉ..."
+"Này này, tôi biết mình hay mải mê nghiên cứu thật, nhưng tôi đâu phải nhà bác học điên chứ. Ờ thì... chắc lấy chút mẫu da thịt thì cũng chẳng chết ai..."
 
 "..."
 
-Tôi chợt nghĩ rằng Lorraine thừa độ điên để nhận cái danh hiệu đó ấy chứ. Thế nhưng, tôi đành giữ kín suy nghĩ ấy trong lòng... ít nhất là lúc này. Sẽ rất phiền phức nếu sự khước từ cung cấp mẫu vật của tôi làm đổ vỡ thỏa thuận trước đó giữa hai người.
+Tôi chợt nghĩ cái danh xưng đó khéo cũng chẳng oan cho Lorraine chút nào. Có điều, tôi đành giữ kín suy nghĩ ấy... ít nhất là lúc này. Sẽ rất phiền phức nếu sự từ chối của tôi làm đổ vỡ thỏa thuận trước đó.
 
-Dẫu vậy, tôi khá ngạc nhiên khi biết rằng các nghiên cứu về chủ đề Tiến Hóa Bản Thể lại thiếu thốn đến vậy. Dù ngoài những kiến thức cơ bản ra tôi chẳng biết thêm được bao nhiêu, nhưng tôi từng đinh ninh rằng giới học giả chuyên nghiệp ắt hẳn phải nắm giữ nhiều thông tin hơn tôi rất nhiều.
+Có điều, tôi khá ngạc nhiên khi biết nghiên cứu về Tiến Hóa Bản Thể lại ít ỏi đến vậy. Dù ngoài những hiểu biết cơ bản ra tôi chẳng biết gì thêm, nhưng tôi từng đinh ninh giới học giả chuyên nghiệp phải tường tận hơn mình rất nhiều.
 
-Thấy thế, Lorraine liền nói thêm:
+Nghe vậy, Lorraine giải thích thêm:
 
-"Phải rồi, phải rồi. Thỉnh thoảng chúng tôi cũng gặp được vài người thuần hóa quái vật chịu hợp tác để giúp thúc đẩy nghiên cứu bằng cách này hay cách khác. Nhưng mà này, những người thuần hóa như vậy rất hiếm—ít nhất là cũng hiếm hệt như chính kỹ năng đó vậy. Tệ hơn nữa là những con quái vật một khi đã bị thuần hóa hoàn toàn dường như lại không còn tiến hóa được nữa. Yêu cầu họ phát huy tối đa thực lực để mang về một mẫu vật tương đối lành lặn vốn dĩ đã là chuyện vô cùng gian nan rồi. Dĩ nhiên, sau đó lại còn kéo theo vấn đề bản quyền nghiên cứu và chi phí thù lao nữa... Một quy trình cực kỳ nhiêu khê đấy, anh biết không?"
+"Phải rồi, phải rồi. Thỉnh thoảng chúng tôi cũng gặp được vài người thuần hóa quái vật chịu hợp tác, nhờ thế nghiên cứu mới tiến triển được đôi chút. Nhưng những người như vậy hiếm lắm—ít nhất cũng hiếm hệt như chính kỹ năng đó vậy. Tệ hơn nữa là quái vật một khi đã bị thuần hóa hoàn toàn thì dường như không còn tiến hóa được nữa. Nhờ họ dốc hết sức bắt về một mẫu vật còn tương đối lành lặn vốn đã là chuyện cực kỳ khó khăn rồi. Sau đó dĩ nhiên lại còn chuyện bản quyền nghiên cứu rồi tiền thù lao... Rắc rối đủ đường đấy, anh biết không?"
 
-Xem chừng đúng là như vậy thật.
+Xem ra đúng là như vậy thật.
 
-Lại một lần nữa đọc thấu suy nghĩ của tôi, Lorraine tiếp tục giải thích về những phương diện mà tôi có thể giúp sức.
+Lại như đọc được suy nghĩ của tôi, Lorraine tiếp tục giải thích xem tôi có thể giúp ích được những gì.
 
-"Trước hết: việc có được sự đồng thuận bằng lời nói và một thỏa thuận văn minh từ một con quái vật là điều hoàn toàn bất khả thi. Thêm nữa, bản thân anh đã từng trải qua Tiến Hóa Bản Thể một lần rồi. Nói cách khác, khả năng rất cao là anh sẽ lại trải qua quá trình đó thêm lần nữa. Nếu anh có thể báo cáo cho tôi biết mỗi khi hiện tượng ấy xảy ra, thì điều đó sẽ giúp ích rất nhiều.
+"Trước hết: muốn một con quái vật đồng ý bằng lời và đạt được thỏa thuận văn minh với nó là chuyện không tưởng. Thêm nữa, anh đã trải qua Tiến Hóa Bản Thể một lần rồi. Nói cách khác, khả năng cao là anh sẽ còn tiến hóa lần nữa. Cứ mỗi lần như thế anh báo lại cho tôi thì sẽ giúp ích được rất nhiều.
 
-"Dẫu rằng... tôi đoán là hoàn cảnh của anh sẽ khiến việc tôi công bố nghiên cứu ra ngoài trở nên khó khăn. Nhưng tính tò mò của tôi cần phải được thỏa mãn, và tôi cho rằng chính anh cũng muốn hiểu rõ hơn về bản thân mình, đúng chứ?"
+"Dù rằng... hoàn cảnh của anh chắc sẽ khiến tôi khó lòng công bố nghiên cứu này ra ngoài. Nhưng tôi phải thỏa mãn trí tò mò của mình cái đã, vả lại tôi đoán chính anh cũng muốn hiểu rõ hơn về bản thân, đúng không?"
 
-"...Hiểu... rõ hơn sao? Về... bản thân tôi ư?"
+"Hiểu... rõ hơn? Về... bản thân tôi ư?"
 
-"Đúng vậy, cụ thể là về những con đường tiến hóa mà anh sẽ đi từ nay về sau, cùng những điều tương tự thế. Dĩ nhiên, tôi sẽ chia sẻ kiến thức của mình và cùng trao đổi suy nghĩ với anh khi thích hợp. Anh có thể hiểu biết về quái vật nhiều hơn mặt bằng chung mạo hiểm giả nhờ việc đã đọc hầu hết số sách của tôi, nhưng tôi kiếm sống bằng nghề này đấy nhé. Anh sẽ được hưởng lợi từ nghiên cứu của tôi—chắc chắn là như vậy."
-
-◆◇◆◇◆
-
-Đạt được danh hiệu "Đại Học Sĩ" khi mới chỉ tròn 14 tuổi, Lorraine Vivie cảm thấy sâu thẳm trong lòng mình một nỗi chán chường khôn nguôi đối với thế giới này.
-
-Cô được xưng tụng là thiên tài từ thuở ấu thơ, và điều đó chẳng hề thay đổi khi cô lớn dần lên, sau khi được nhận vào viện giáo dục danh giá bậc nhất vương quốc ở tuổi lên mười. Rồi cô tiếp tục giành được danh hiệu "Học Sĩ" năm 12 tuổi, và danh hiệu "Đại Học Sĩ" năm 14 tuổi. Đối với Lorraine, trên thế gian này chẳng còn mấy điều chưa được giải mã tường tận. Dẫu có một chủ đề nào đó cô chưa am tường cho lắm, thì chỉ sau một thời gian ngắn nghiên cứu, cô đã thấu suốt hơn cả những nhà nghiên cứu chuyên sâu từng bỏ công tìm tòi về chủ đề ấy suốt nhiều năm ròng.
-
-Đối với Lorraine, thế giới này thực sự quá đỗi tẻ nhạt. Có lẽ đây chính là căn nguyên đằng sau những gì cô đã làm.
-
-Một ngày nọ, chẳng một lời cảnh báo hay báo trước, Lorraine rũ bỏ tất cả rồi lên đường đến một trong những vương quốc hẻo lánh nhất xứ sở—Vương Quốc Yaaran. Thế nhưng đích đến của cô lại không phải là vương đô, mà là thị trấn nhỏ bé Maalt thậm chí còn hẻo lánh hơn nữa—và chính tại nơi đó, Lorraine đã chọn dừng chân định cư.
-
-Lorraine có lý do riêng để làm điều đó. Cô đặc biệt tìm đến Maalt là để truy tìm một loài thảo dược không thể tìm thấy ở bất kỳ nơi nào khác. Với ý định đích thân tự tay hái nó, rốt cuộc Lorraine đã chuyển hẳn đến Maalt để sinh sống.
-
-Dù cô hoàn toàn có thể chỉ cần đăng một yêu cầu ủy thác rồi phái mạo hiểm giả này hay mạo hiểm giả nọ đi tìm giúp, nhưng Lorraine đã thực sự chán ngán đến tận cùng. Cô khao khát một chút phấn khích trong cuộc đời mình, và đó cũng chính là lý do khiến cô ôm ấp ý nghĩ phi lý là tự mình cất bước đi tìm rồi đích thân hái lấy nhánh thảo dược.
-
-Đó quả thực là một cảm nghĩ ngông cuồng—bất kỳ ai cũng sẽ phải hoảng loạn lo lắng nếu như thiếu nữ trẻ tuổi nhất và tài năng nhất trong lịch sử từng xứng đáng với danh hiệu "Học Sĩ" lại đột ngột bốc hơi vào thinh không mà không để lại một chút dấu vết.
-
-Những đối thủ của Lorraine vào thời điểm đó, vốn đều là những bậc cao niên hơn cô ít nhất bốn lần tuổi đời, đã điên cuồng sục sạo khắp đế đô để tìm kiếm cô. Có lẽ thật khó để tưởng tượng nổi giới chức học thuật đương thời đã sốt vó đến dường nào. Dĩ nhiên, sau khi cả một thập kỷ trôi qua, ngay cả bản thân Lorraine cũng nhận thức được hành động của mình hồi đó trẻ con đến mức nào. Nhưng vào độ tuổi ấy, những mối bận tâm như thế chẳng hề vương vấn trong tâm trí cô.
-
-Dẫu sở hữu thiên phú học thuật phi thường, nhưng Lorraine vào thời điểm đó cũng chỉ là một đứa trẻ, và cô chẳng biết được bao nhiêu về thế giới bên ngoài những trang sách. May mắn thay, đã có một người dạy cho cô biết thế giới ấy thực sự là gì—một chàng trai trẻ đang hành nghề mạo hiểm giả tại Maalt vào thuở ấy, mang tên Rentt Faina.
-
-Mọi chuyện bắt đầu trong một chuyến tìm kiếm quanh các vùng rừng rậm bao quanh Maalt—chuyến tìm kiếm mà Lorraine đã lần đầu tiên tao ngộ Rentt.
+"Đúng thế, cụ thể là các nhánh tiến hóa anh có thể trải qua từ giờ về sau, đại loại vậy. Dĩ nhiên tôi sẽ đem kiến thức của mình ra cùng bàn bạc với anh khi cần. Nhờ đọc gần hết đống sách của tôi nên anh hiểu về quái vật hơn hẳn đám mạo hiểm giả bình thường, nhưng tôi kiếm sống bằng nghề này đấy nhé. Anh sẽ có lợi từ nghiên cứu của tôi—chắc chắn luôn."
 
 ◆◇◆◇◆
 
-Dẫu Lorraine đã nắm giữ danh hiệu "Đại Học Sĩ" ở tuổi 14, nhưng ngoài các thành tựu học thuật ra, vẫn còn một điều kiện khác để đạt được danh hiệu này. Cụ thể, một người còn phải sở hữu năng lực ma pháp ở một trình độ nhất định. Nói cách khác, người đó phải biết thi triển ma pháp, và phải thi triển nó thật thuần thục. Theo tiêu chuẩn của Hội, mức độ thuần thục ấy tương đương với một pháp sư Ngân Cấp.
+Mới 14 tuổi đã đạt được danh hiệu "Đại Học Sĩ", tự đáy lòng mình, Lorraine Vivie cảm thấy thế giới này thật tẻ nhạt khôn cùng.
 
-Tuy nhiên, việc phân loại và xếp hạng đó lại không tương đương với một mạo hiểm giả Ngân Cấp, mà thay vào đó nó chỉ tính đến thiên phú ma pháp cùng khả năng niệm chú của một người mà thôi. Trong hoàn cảnh bình thường, một pháp sư Ngân Cấp có lẽ cũng sẽ là một mạo hiểm giả sở hữu lượng kinh nghiệm tương xứng. Nhưng trường hợp của Lorraine lại hơi khác biệt đôi chút—do bản chất học thuật cùng lĩnh vực nghiên cứu của mình, cô đã đạt tới mức độ thiên phú ma pháp tương đương mà chưa từng một lần đặt chân ra thực địa.
+Từ nhỏ cô đã được gọi là thiên tài, và khi lớn lên điều đó cũng chẳng hề thay đổi: mười tuổi, cô được nhận vào học viện danh giá bậc nhất vương quốc. Rồi cô tiếp tục giành được danh hiệu "Học Sĩ" năm 12 tuổi, và danh hiệu "Đại Học Sĩ" năm 14 tuổi. Với Lorraine, thế giới này chẳng còn mấy điều chưa có lời giải đáp. Kể cả với lĩnh vực chưa biết nhiều, cô cũng chỉ cần tìm hiểu trong thoáng chốc là đã hiểu sâu hơn cả những học giả chuyên sâu từng bỏ cả chục năm trời nghiên cứu.
 
-Trong khi một người với quá khứ như thế chẳng bao giờ dám mơ tưởng trở thành một pháp sư chính thức vì thiếu hụt kinh nghiệm thực chiến, thì Lorraine lại được ban phước—hoặc có lẽ bị nguyền rủa ở khía cạnh này—khi đã sở hữu sẵn tư chất cần thiết nhờ vào thiên bẩm của mình. Dù thiếu thốn bất kỳ kinh nghiệm chiến đấu nào, cô vẫn có thể thi triển nhiều loại ma pháp khác nhau theo bản năng, và cuối cùng đã nắm vững nhiều thần chú thuộc phân hạng Ngân Cấp.
+Với Lorraine, thế giới quả thực quá đỗi tẻ nhạt. Có lẽ đó chính là lý do dẫn đến việc cô đã làm.
 
-Vào thời điểm đó, Lorraine phải đối mặt với một tình thế tiến thoái lưỡng nan đặc biệt: cô cần sự cho phép từ Hội để bước vào một khu vực nhất định nhằm mục đích duy nhất là thu thập nguyên liệu. Do đó, Lorraine đã ghé thăm Hội với hy vọng đăng ký bản thân để có thể đi hái các loại thảo dược cần thiết. Tuy nhiên, nhân viên tiếp tân vào thời điểm ấy lại chẳng mấy để tâm đến Lorraine, và căn cứ vào danh hiệu "Đại Học Sĩ" của cô mà đinh ninh rằng cô là một mạo hiểm giả Ngân Cấp ở một phương diện nào đó, vì vậy đã đăng ký cho cô với cấp bậc ấy. Dẫu việc đăng ký mạo hiểm giả là điều chỉ có thể thực hiện nếu đương sự đã trên 15 tuổi, nhưng danh hiệu của Lorraine lại vượt trên cả độ tuổi, nên nó đã được ưu tiên hàng đầu trong quá trình đăng ký của cô.
+Một ngày nọ, không một lời báo trước hay cảnh báo, Lorraine rũ bỏ tất cả rồi lên đường tới một trong những vương quốc hẻo lánh nhất xứ sở—Vương Quốc Yaaran. Đích đến của cô không phải là vương đô, mà lại là thị trấn Maalt nhỏ bé và thậm chí còn hẻo lánh hơn nhiều—và chính tại nơi đó, Lorraine đã dừng chân định cư.
 
-Nói một cách nghiêm túc thì quy trình xử lý việc đăng ký cho Lorraine đầy rẫy những sai sót. Dù sự thật là cô đang nắm giữ danh hiệu "Đại Học Sĩ", nhưng quy định của Hội về giới hạn độ tuổi luôn phải được đặt lên hàng đầu.
+Lorraine có lý do riêng khi làm vậy. Cô cất công tới Maalt để tìm một loài thảo dược không thể thấy ở bất kỳ đâu khác. Với ý định tự tay hái lấy, rốt cuộc Lorraine chuyển hẳn tới Maalt sinh sống.
 
-Ấy thế mà quy định này lại đi kèm một lỗ hổng khá dai dẳng về mặt câu chữ. Nhận thức chung hoặc giả định của Hội cùng các thành viên về danh hiệu "Đại Học Sĩ" vốn rất đơn giản: một danh hiệu như thế chẳng đời nào lại có thể rơi vào tay một người dưới 15 tuổi. Những người soạn thảo luật lệ đã không lường trước được một khả năng hy hữu như vậy. Vấn đề càng trở nên trầm trọng hơn bởi hành động của người tiếp tân, người đã tự đưa ra đủ thứ suy đoán xung quanh tình huống đó.
+Dù chỉ cần đăng một ủy thác rồi phái mạo hiểm giả đi tìm hộ, nhưng Lorraine thực sự đã chán ngấy mọi thứ. Cô khao khát chút gì đó khuấy động cuộc sống, và đó chính là lý do cô nảy ra ý nghĩ bốc đồng là tự mình đi tìm rồi hái lấy thảo dược.
 
-Cũng đáng lưu ý thêm rằng điều luật đặc thù này vẫn hoàn toàn nguyên vẹn và chưa hề bị sửa đổi. Chính vì thế, một người dưới 15 tuổi rốt cuộc lại có thể đăng ký làm mạo hiểm giả—ít nhất là nếu họ nắm giữ danh hiệu "Đại Học Sĩ".
+Đó quả thực là một ý nghĩ kỳ quặc—ai mà chẳng tá hỏa khi thiếu nữ trẻ tuổi nhất và tài năng nhất lịch sử xứng đáng với danh hiệu "Học Sĩ" lại đột ngột bốc hơi không một dấu vết.
 
-Dẫu chính Lorraine cũng nhận thấy quy trình có đôi chút vấn đề, nhưng cô chẳng rảnh rỗi đến mức chỉ bảo nhân viên tiếp tân cách làm việc của họ, và vì vậy cô chọn cách giữ im lặng. Nhờ vào những tình tiết kể trên, Lorraine thấy mình cầm trên tay tấm thẻ chứng nhận mạo hiểm giả Ngân Cấp sáng loáng, và với thứ đó, cô chuẩn bị lên đường tới đích đến trong một tâm trạng tương đối vui vẻ.
+Những đối thủ của Lorraine thời ấy, vốn đều là những bậc tiền bối hơn cô ít nhất bốn lần tuổi đời, đã cuống cuồng sục sạo khắp đế đô để tìm cô. Thật khó mà tưởng tượng nổi giới học thuật khi ấy đã sốt vó đến mức nào. Dĩ nhiên, sau mười năm trôi qua, chính Lorraine cũng nhận ra hành động hồi đó của mình trẻ con ra sao. Có điều ở cái tuổi ấy, cô chẳng mảy may bận tâm tới những chuyện như vậy.
 
-Mục tiêu của Lorraine thì quá đỗi rõ ràng: cô định kiếm một chút tiền tiêu vặt cho bản thân, bên cạnh việc thu thập nhánh thảo dược mà ban đầu cô lặn lội tới đây để tìm.
+Dù có tài năng học thuật xuất chúng, khi ấy Lorraine vẫn chỉ là một đứa trẻ, chẳng biết được bao nhiêu về thế giới bên ngoài trang sách. May mắn thay, đã có người dạy cho cô biết thế giới đó thực sự ra sao—một chàng trai trẻ đang làm mạo hiểm giả tại Maalt hồi ấy, mang tên Rentt Faina.
 
-Thế nhưng, một giọng nói bất chợt cất lên gọi cô lại trước khi cô kịp bước chân ra khỏi cánh cửa Hội. Ngoảnh lại chẳng chút đắn đo, đập vào mắt Lorraine là một kiếm sĩ to lớn, cơ bắp và có vẻ ngoài trông khá kỳ dị.
+Mọi chuyện bắt đầu trong một chuyến lùng tìm quanh các cánh rừng bao bọc Maalt—nơi Lorraine gặp Rentt lần đầu tiên.
 
-"Này cô bé... Cô nhận nhiệm vụ ở Rừng Azuul đúng không? Thế thì dắt theo thằng nhóc này đi—ít nhất nó cũng xách đồ giúp cô được đấy." Vừa nói, gã kiếm sĩ vừa sảng khoái đẩy một chàng trai trẻ về phía Lorraine.
+◆◇◆◇◆
 
-Dẫu lúc ấy Lorraine chẳng mảy may bận tâm nhiều, nhưng đây thực chất lại là một bước ngoặt vĩ đại trong cuộc đời cô, bởi chàng trai trẻ ấy không phải ai khác mà chính là Rentt Faina.
+Dù Lorraine đã đạt danh hiệu "Đại Học Sĩ" từ năm 14 tuổi, nhưng ngoài thành tựu học thuật, danh hiệu này còn đòi hỏi một điều kiện nữa. Cụ thể, người nhận còn phải có trình độ ma pháp nhất định. Nói cách khác, người đó phải biết dùng ma pháp, và dùng thật thành thạo. Theo tiêu chuẩn của Hội, trình độ ấy tương đương với một ma pháp sư Ngân Cấp.
 
-Dĩ nhiên, gã kiếm sĩ biết rõ Lorraine sẽ có những ngần ngại của riêng mình; dù sao thì việc giới thiệu một mạo hiểm giả cho một người khác theo cái cách như thế này cũng đâu phải chuyện xảy ra như cơm bữa. Vì lẽ đó, gã kiếm sĩ liền sốt sắng đưa ra lời giải thích cho hành động của mình.
+Thế nhưng cách xếp hạng đó không đồng nghĩa với một mạo hiểm giả Ngân Cấp, mà chỉ xét đến thiên phú ma pháp và khả năng thi triển thần chú. Bình thường, một ma pháp sư Ngân Cấp hẳn cũng là mạo hiểm giả có lượng kinh nghiệm tương xứng. Nhưng trường hợp của Lorraine lại hơi khác—nhờ chuyên tâm vào học thuật và lĩnh vực nghiên cứu của mình, cô đạt đến trình độ ma pháp ấy mà chưa từng một lần bước chân ra thực địa.
 
-"Xem này... Thằng nhóc này vẫn còn là lính mới tò te. Nó muốn tích lũy đủ loại kinh nghiệm, và thường hay lẽo đẽo theo ta vào rừng hái lượm nguyên liệu. Cơ mà đấy, hôm nay ta bận việc đột xuất—lịch trình kín cả rồi—nên ta đang tìm ai đó dắt nó đi cùng một lúc đây. Đúng lúc cô bé lại bước tới... Thế nào, thấy sao hả? Kèo này đâu có tệ, phải không? Nó sẽ xách đồ cho cô mà."
+Dù người chỉ có lý thuyết sách vở như vậy thường khó lòng trở thành một ma pháp sư thực thụ do thiếu kinh nghiệm thực chiến, nhưng Lorraine lại được ưu ái—hoặc biết đâu là bị nguyền rủa—khi tài năng thiên bẩm đã cho cô sẵn năng lực ấy. Dù chẳng có chút kinh nghiệm thực chiến nào, cô vẫn có thể thi triển đủ loại ma pháp theo bản năng, và dần nắm vững nhiều thần chú thuộc cấp Ngân Cấp.
 
-Một diễn biến thật quá đỗi bất ngờ. Mang theo một kẻ mình chưa từng thấy mặt bao giờ trong những chuyến đi thám hiểm vốn chẳng phải thông lệ bình thường. Đánh giá qua cuộc trò chuyện, chàng trai trẻ đang được nhắc tới có lẽ chỉ ở mức Đồng Cấp hoặc thậm chí thấp hơn. Nói cách khác, cậu ta sẽ chẳng là gì ngoài một gánh nặng ngáng đường đối với Lorraine, một mạo hiểm giả Ngân Cấp (vừa mới được phong danh).
+Hồi ấy, Lorraine gặp phải một rắc rối: cô cần sự cho phép của Hội để vào một khu vực thu thập nguyên liệu. Vì thế, Lorraine tới Hội với mong muốn đăng ký để đi hái thảo dược mình cần. Tuy nhiên, nhân viên tiếp tân khi đó chẳng mấy để tâm, thấy danh hiệu "Đại Học Sĩ" của cô thì đinh ninh cô cũng có trình độ tương đương mạo hiểm giả Ngân Cấp, bèn đăng ký cấp bậc ấy cho cô luôn. Dù quy định bắt buộc phải đủ 15 tuổi mới được đăng ký mạo hiểm giả, nhưng danh hiệu của Lorraine lại lấn át cả tuổi tác, thành thử được ưu tiên xét duyệt.
 
-Đúng lúc cô vừa toan từ chối, gã kiếm sĩ kỳ lạ lại một lần nữa phô diễn khả năng đọc thấu tâm can của mình mà ngắt lời Lorraine.
+Nói đúng ra thì thủ tục đăng ký cho Lorraine đầy rẫy sai sót. Dù cô mang danh hiệu "Đại Học Sĩ" thật, nhưng quy định về độ tuổi của Hội luôn phải được đặt lên trên hết.
 
-"Ha ha, đừng có lo—ta chẳng thèm đòi cô một xu phí thuê mướn nào đâu! Cứ dắt theo thằng ngốc này đi cùng là được. Nhiệm vụ cô vừa nhận là nhiệm vụ thu thập nguyên liệu đúng không? Nếu cô mang nó theo thì phần thưởng của cô chỉ có tăng lên chứ không giảm—thêm người thêm tay mà lại. Đương nhiên, cô được giữ trọn vẹn mọi thứ... Còn nó sẽ khuân vác toàn bộ chỗ đó cho cô. Đấy, thấy chưa. Nào nào, cô bé. Giúp ta một phen đi mà."
+Ngặt nỗi quy định này lại vướng phải một lỗ hổng câu chữ. Nhận định chung của Hội và mọi người về danh hiệu "Đại Học Sĩ" rất đơn giản: danh hiệu ấy đời nào lại thuộc về một người dưới 15 tuổi. Người soạn thảo quy định chẳng hề tính đến khả năng ấy. Rắc rối càng thêm trầm trọng khi người tiếp tân lại tự tiện suy đoán đủ điều về chuyện đó.
 
-Gã kiếm sĩ thật quá đỗi dai dẳng và nài ép. Gã chẳng hề có dấu hiệu sẽ lùi bước trước lời thỉnh cầu kỳ quặc của mình. Và thế là Lorraine, chẳng còn sự lựa chọn nào khác ngoài việc gật đầu, rốt cuộc đã dắt theo một chàng trai trẻ mà mình chẳng hề quen biết cùng đi làm nhiệm vụ. Thế nhưng, Lorraine nào có hay rằng chẳng bao lâu sau, chính cô sẽ phải cảm ơn người thanh niên này từ tận đáy lòng mình.
+Đáng nói là kẽ hở luật lệ đó tới giờ vẫn còn y nguyên, chưa từng được sửa lại. Thành thử một người dưới 15 tuổi rốt cuộc vẫn có thể đăng ký làm mạo hiểm giả—ít nhất là nếu người đó mang danh xưng "Đại Học Sĩ".
+
+Dù bản thân Lorraine cũng thấy thủ tục có vấn đề, nhưng cô đâu rảnh đi dạy nhân viên tiếp tân cách làm việc, nên chọn cách im lặng. Nhờ vậy, Lorraine bỗng cầm trong tay tấm thẻ mạo hiểm giả Ngân Cấp sáng loáng, rồi hăm hở chuẩn bị lên đường trong tâm trạng khá vui vẻ.
+
+Mục đích của Lorraine rất đỗi rõ ràng: cô định kiếm chút tiền tiêu vặt cho mình, bên cạnh việc thu thập cây thảo dược vốn là lý do ban đầu cô lặn lội tới đây.
+
+Thế nhưng chưa kịp bước chân ra khỏi cửa Hội, một giọng nói đã gọi giật cô lại. Ngoảnh lại chẳng chút nghĩ ngợi, Lorraine bắt gặp một kiếm sĩ to lớn, vạm vỡ với vẻ ngoài trông khá kỳ quặc.
+
+"Này cô bé... Cô nhận nhiệm vụ ở Rừng Azuul đúng không? Thế dắt cậu này theo đi—ít nhất cũng xách đồ đỡ cho cô được." Nói rồi, gã kiếm sĩ xởi lởi đẩy một chàng thanh niên về phía Lorraine.
+
+Dù lúc ấy Lorraine chẳng để tâm nhiều, nhưng đây thực chất lại là một bước ngoặt lớn trong cuộc đời cô, bởi chàng thanh niên kia chẳng phải ai khác ngoài Rentt Faina.
+
+Dĩ nhiên gã kiếm sĩ thừa biết Lorraine sẽ e dè; dù sao dúi một mạo hiểm giả cho người khác theo kiểu này đâu phải chuyện ngày nào cũng thấy. Bởi vậy, gã liền nhanh nhảu giải thích lý do.
+
+"Thế này này... Cậu này vẫn còn mới vào nghề. Nó muốn học hỏi thêm đủ thứ kinh nghiệm, bình thường hay theo tôi vào rừng kiếm nguyên liệu. Cơ mà đấy, hôm nay tôi lại kẹt việc đột xuất mất rồi, nên nãy giờ đang tính tìm ai dắt nó đi cùng một chuyến. Đúng lúc cô bé lại bước tới... Thế nào, thấy sao hả? Đâu có thiệt gì, đúng không? Nó sẽ khuân đồ giúp cô."
+
+Tình huống xảy ra quá đường đột. Dắt theo một kẻ chưa từng thấy mặt bao giờ trong chuyến mạo hiểm vốn chẳng phải chuyện bình thường. Nghe qua cuộc trò chuyện thì cậu thanh niên này chắc chỉ cỡ Đồng Cấp hoặc thấp hơn. Nói cách khác, cậu ta chỉ tổ vướng chân một mạo hiểm giả Ngân Cấp (mới toanh) như Lorraine.
+
+Đúng lúc cô định mở lời từ chối, gã kiếm sĩ kỳ quặc cứ như có tài đọc thấu ý nghĩ lại lập tức ngắt lời Lorraine.
+
+"Ha ha, đừng lo—tôi chẳng đòi cô một xu phí thuê mướn nào đâu! Cứ dắt thằng ngốc này theo là được. Nhiệm vụ cô vừa nhận là thu thập nguyên liệu đúng không? Có nó đi cùng thì thù lao của cô chỉ có tăng lên chứ không giảm—thêm người thêm tay mà lại. Đương nhiên cô được giữ trọn mọi thứ... còn nó sẽ khuân hết cho cô. Đấy, thế nhé. Nào nào, cô bé. Nể mặt tôi lần này đi mà."
+
+Gã kiếm sĩ quả là mặt dày nài ép—hết sức nài ép. Gã chẳng hề có ý định nhượng bộ trước lời nhờ vả kỳ quặc của mình. Thế là Lorraine chẳng còn lựa chọn nào khác ngoài việc gật đầu, rốt cuộc đành dắt theo một cậu thanh niên chưa từng quen biết cùng đi làm nhiệm vụ. Có điều Lorraine đâu ngờ rằng, chẳng bao lâu sau, chính cô sẽ phải cảm ơn chàng trai ấy từ tận đáy lòng.
