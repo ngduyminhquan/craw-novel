@@ -16,33 +16,33 @@ Capitan đã có hai đứa con trạc tuổi thiếu niên, bản thân cũng c
 
 Khí Lực vốn là kỹ năng mà mạo hiểm giả nào cũng nên có, nhưng chẳng phải ai cũng học được. Thế mà Capitan lại có thể vận dụng nó ở mức độ cao cấp. Cả nhóm thợ săn dưới quyền chú đều biết dùng Khí Lực, dẫu không thuần thục bằng chú nhưng cũng khá lành nghề. Đến thời điểm hiện tại, có lẽ tôi đã đủ sức đánh bại mấy người thợ săn đó, nhưng tôi không chắc mình có thắng nổi Capitan hay không. Tôi chưa bao giờ thấy chú thực sự nghiêm túc giao đấu; mà chú cũng đâu cần phải làm vậy. Chú hoàn toàn không phải kiểu người chịu chôn chân vô danh ở một ngôi làng miền núi hẻo lánh thế này, vậy mà trông chú vẫn rất mãn nguyện với cuộc sống hiện tại. Có khi chú chẳng có nhiều tham vọng, chỉ là con người chú thật khó hiểu. Nói tóm lại, chú là một người rất kỳ lạ.
 
-Lorraine đã gặp chú ấy trong bữa tiệc tối qua. Cô kể với tôi rằng chú gặng hỏi rất kỹ về cách tôi chiến đấu trong màn ảo ảnh mà cô biểu diễn. Mới nghe thế thôi tôi đã thấy chẳng thoải mái chút nào rồi. Mà thật ra, cả cái tình cảnh này đều khiến tôi ngượng ngùng đến khó chịu. Hai người thầy của tôi đều có mặt ở đây, thành ba người nếu tính cả Lorraine, cô giáo dạy ma pháp của tôi.
+Lorraine đã gặp chú ấy trong bữa tiệc tối qua. Cô kể với tôi rằng chú gặng hỏi rất kỹ về cách tôi chiến đấu trong màn ảo ảnh mà cô biểu diễn. Mới nghe thế thôi tôi đã thấy chẳng thoải mái chút nào rồi. Mà thật ra, cả cái tình cảnh này đều khiến tôi không thoải mái. Hai người thầy của tôi đều có mặt ở đây—thành ba người nếu tính cả Lorraine, cô giáo dạy ma pháp của tôi.
 
 "Sao Capitan lại ở đây thế ạ?" tôi nghiêng đầu hỏi.
 
-Trong khi tôi gọi bà Gharb là Sư phụ thì với Capitan, tôi chỉ gọi thẳng tên chú. Từ rất lâu trước đây, hồi chú dạy tôi tất cả những kỹ năng ấy, tôi từng gọi chú là Sư phụ nhưng chú gạt đi bảo danh xưng đó chẳng hợp với mình chút nào. Có lẽ phần nào chú nghĩ vậy thật, nhưng lắm khi trông chú chỉ như đang ngượng ngùng mà thôi. Thỉnh thoảng tôi vẫn cứ gọi chú là Sư phụ. Lời ấy làm chú vui ra mặt, rồi sau đó lại khiến chú lúng túng chẳng biết nói gì. Dẫu vậy, về cơ bản chú là một người hiền lành.
+Trong khi tôi gọi bà Gharb là Sư phụ thì với Capitan, tôi chỉ gọi thẳng tên chú. Từ rất lâu trước đây, hồi chú dạy tôi tất cả những kỹ năng ấy, tôi từng gọi chú là Sư phụ nhưng chú gạt đi bảo danh xưng đó chẳng hợp với mình chút nào. Có lẽ phần nào chú nghĩ vậy thật, nhưng lắm khi trông chú chỉ như đang ngượng ngùng mà thôi. Thỉnh thoảng tôi vẫn cứ gọi chú là Sư phụ. Lời ấy làm chú vui ra mặt, rồi sau đó lại khiến chú nổi cáu không để đâu cho hết. Dẫu vậy, về cơ bản chú là một người hiền lành.
 
 Nhưng tôi vẫn chưa hiểu nổi vì sao chú lại có mặt ở đây. Kỳ lạ thật đấy.
 
 "Chú chỉ muốn xem dạo này cháu tiến bộ thế nào thôi," Capitan bảo. "Chú vừa nói chuyện với bà Gharb về cháu. Rồi tiểu thư ảo ảnh đằng kia, Lorraine, cũng cho bọn chú thấy cháu chiến đấu ra sao rồi."
 
-Lorraine đã thêm thắt khá nhiều chi tiết cường điệu vào màn ảo ảnh, nhưng chí ít cô cũng tái hiện rất chuẩn xác cách tôi chiến đấu. Đến cả vài thói quen nhỏ nhặt cô cũng đưa vào. Thấy cảnh đó tôi cũng hơi sững sờ, nhưng đồng thời cũng nhận ra những điểm mình có thể cải thiện, nên xem lại cũng rất bổ ích. Có điều, việc để các vị sư phụ của mình tận mắt chứng kiến màn diễn ấy lại khiến lòng tôi dâng lên một cảm giác khó tả.
+Lorraine đã thêm thắt khá nhiều chi tiết cường điệu vào màn ảo ảnh, nhưng chí ít cô cũng tái hiện rất chuẩn xác cách tôi chiến đấu. Đến cả vài chi tiết nhỏ nhặt cô cũng đưa vào. Thấy cảnh đó tôi cũng hơi sững sờ, nhưng đồng thời cũng nhận ra những điểm mình có thể cải thiện, nên xem lại cũng rất bổ ích. Có điều, việc để các vị sư phụ của mình tận mắt chứng kiến màn diễn ấy lại khiến tôi chẳng biết phải nghĩ sao.
 
-"Capitan, đừng có dọa nó chứ," bà Gharb trách. "Rentt à, bọn ta ở đây không phải để bắt bẻ cháu đâu, đừng lo. Bọn ta chỉ có mấy điều muốn hỏi thôi."
+"Capitan, đừng có dọa nó chứ," bà Gharb trách. "Rentt à, bọn ta ở đây không phải để bắt bẻ cháu đâu; đừng lo chuyện đó. Bọn ta chỉ có mấy điều muốn hỏi thôi."
 
-Tôi cố suy đoán xem hai người muốn hỏi chuyện gì, nhưng nghĩ mãi cũng chẳng ra vì có quá nhiều khả năng. Tôi liếc nhìn Lorraine trong lúc đắn đo tìm lời. Mà ngay từ đầu, tôi cũng chẳng biết liệu mình có giấu nổi điều gì trước hai con người này không nữa.
+Tôi cố suy đoán xem hai người muốn hỏi chuyện gì, nhưng nghĩ mãi cũng chẳng xuể vì có quá nhiều khả năng. Tôi liếc nhìn Lorraine trong lúc đắn đo tìm lời. Mà ngay từ đầu, tôi cũng chẳng biết liệu mình có giấu nổi điều gì trước hai con người này không nữa.
 
-"Nhưng chưa phải lúc này," bà Gharb nói tiếp. "Bắt hai đứa phải trả lời hết mọi thứ thì bất lịch sự quá, nên bọn ta quyết định sẽ kể cho nghe về bí mật của ngôi làng này trước đã. Dĩ nhiên là bọn ta đã nói trước với Ingo rồi."
+"Nhưng chưa phải lúc này," bà Gharb nói tiếp. "Bắt mình cháu phải kể hết mọi chuyện thì bất lịch sự quá, nên bọn ta quyết định sẽ kể cho hai đứa nghe về bí mật của ngôi làng này trước đã. Dĩ nhiên là bọn ta đã nói trước với Ingo rồi."
 
-"Bí mật gì cơ ạ? Cháu không có ý coi nhẹ Hathara đâu, nhưng cháu cứ ngỡ nơi đây chỉ là một ngôi làng nhỏ trên núi thôi chứ. Vậy mà bản lĩnh của bà và Capitan lại thuộc hàng hiếm thấy, ngay cả ở Maalt cháu cũng hiếm khi được chứng kiến."
+"Bí mật gì cơ ạ? Cháu không có ý coi nhẹ Hathara đâu, nhưng cháu cứ ngỡ nơi đây chỉ là một ngôi làng nhỏ trên núi thôi chứ. Dù vậy, kỹ năng của bà và Capitan lại thuộc hàng hiếm thấy, ngay cả ở Maalt cháu cũng hiếm khi được chứng kiến."
 
-Tôi từng thấy lạ khi ở một ngôi làng hẻo lánh lại có nhiều người tài giỏi đến vậy, nhưng chuyện đó cũng không phải là chưa từng có. Người ta vẫn kể không hết chuyện những mạo hiểm giả Bạch Kim Cấp bỗng một ngày giải nghệ rồi về lại quê xưa. Những câu chuyện tương tự về các tướng lĩnh quân đội hay Pháp Sư Cung Đình cũng chẳng thiếu. Ghé vào bất kỳ ngôi làng nghèo khó nào, biết đâu lại bắt gặp một nhân vật lẫy lừng đang mặc đồ dân dã đi dạo quanh làng. Chính vì thế, tôi luôn nghĩ Hathara cũng chẳng có gì lạ lắm. Nhưng nghe giọng bà Gharb thì hình như đằng sau chuyện này còn có nguyên do nào đó sâu xa hơn nhiều.
+Tôi từng thấy lạ khi ở một ngôi làng hẻo lánh lại có nhiều người như vậy đến thế, nhưng chuyện đó cũng không phải là không thể. Người ta vẫn kể không hết chuyện những mạo hiểm giả Bạch Kim Cấp bỗng một ngày giải nghệ rồi về lại quê xưa. Những câu chuyện tương tự về các tướng lĩnh quân đội hay Pháp Sư Cung Đình cũng chẳng thiếu. Ghé vào hầu như bất kỳ ngôi làng nghèo khó nào, người ta cũng có thể bắt gặp một nhân vật lẫy lừng đang mặc đồ thường đi dạo quanh làng. Chính vì thế, tôi luôn nghĩ Hathara cũng chẳng có gì lạ lắm. Nhưng nghe giọng bà Gharb thì hình như đằng sau chuyện này còn có nguyên do nào đó sâu xa hơn nhiều.
 
-Tôi nhìn sang Lorraine, thấy cô nhìn lại với ánh mắt như muốn bảo cô đã nghi nơi này có uẩn khúc từ lâu rồi. Suốt từ lúc đặt chân tới làng, cô đã luôn cảm thấy có điều gì đó khác lạ.
+Tôi nhìn sang Lorraine, thấy cô nhìn lại với ánh mắt như muốn bảo cô đã biết nơi này có gì đó kỳ lạ từ lâu rồi. Suốt từ lúc đặt chân tới đây, cô đã luôn cảm thấy có điều gì đó khác thường.
 
-"Ừ, nhìn chung cháu nghĩ không sai đâu," bà Gharb đáp. "Mà nói đúng hơn là với đa số dân làng thì là vậy. Cháu chưa từng nghĩ nơi đây có gì khác ngoài một ngôi làng bình thường đúng không? À thì, có thể cháu thấy hơi lạ một chút, nhưng chắc chắn chẳng bao giờ nghĩ sâu xa hơn."
+"Ừ, nhìn chung cháu nghĩ đúng đấy," bà Gharb đáp. "Mà nói đúng hơn là đúng với đa số dân làng. Cháu chưa từng nghĩ nơi đây có gì khác ngoài một ngôi làng bình thường đúng không? À thì, có thể cháu thấy hơi khác thường một chút, nhưng chắc chắn chẳng bao giờ nghĩ xa hơn thế."
 
-"Cháu đúng là có thấy bà và Capitan hơi lạc lõng ở chốn này, nhưng cũng chỉ nghĩ tới đó thôi ạ." Bản lĩnh của hai người họ xuất chúng đến mức dù có lên Maalt cũng sẽ được săn đón nồng nhiệt. Bà Gharb sẽ được trọng vọng như một thầy thuốc giỏi, còn Capitan sẽ được nể phục như một chiến binh cừ khôi. Vậy mà cả hai vẫn trụ lại nơi này. Hồi còn bôn ba ở Maalt, thỉnh thoảng tôi vẫn nghĩ về chuyện đó.
+"Cháu đúng là có thấy bà và Capitan hơi lạc lõng ở chốn này, nhưng cũng chỉ tới đó thôi ạ." Tài năng của hai người họ lớn đến mức dù có ở Maalt cũng sẽ được săn đón nồng nhiệt. Bà Gharb sẽ được trọng vọng như một thầy thuốc, còn Capitan sẽ được trọng dụng như một chiến binh. Vậy mà cả hai vẫn ở lại nơi này. Hồi còn đi mạo hiểm ở Maalt, tôi vẫn thường nghĩ về chuyện đó.
 
 "Nghe hai người nói vậy thì nơi này thực sự không phải một ngôi làng bình thường sao?" Lorraine lên tiếng hỏi.
 
@@ -66,15 +66,15 @@ Bà lão mỉm cười.
 
 Giờ đã là sáng hôm sau, hai đứa tôi đang trên đường tới nhà bà Gharb. Tâm trạng của tôi cũng chẳng khác gì cô. Những ngôi làng nhìn bề ngoài tưởng chừng bình dị nhưng lại cất giấu một bí mật lớn lao vốn là đề tài quen thuộc trong các câu chuyện kể từ bao đời nay. Chỉ số ít người may mắn mới được trải qua những cuộc phiêu lưu như thế, còn đám mạo hiểm giả tầm thường như chúng tôi có khi đi hết cả đời cũng chẳng gặp được chuyện gì ly kỳ đến vậy. Thế mà giờ đây chuyện đó lại đang xảy ra, lại còn đúng vào dịp tôi về thăm quê nữa chứ. Bảo sao không phấn khích cho được.
 
-"Tôi cũng thế," tôi đáp, "nhưng tôi phục họ thật đấy, giấu kín được suốt ngần ấy năm trời. Mà đâu chỉ giấu mỗi tôi, họ giấu cả làng luôn mới tài chứ."
+"Tôi cũng thế," tôi đáp, "nhưng tôi nể việc họ giấu kín được suốt ngần ấy năm thật đấy. Mà đâu chỉ giấu mỗi tôi, còn giấu cả làng luôn."
 
-Theo lời họ kể thì bí mật này chỉ có bà Gharb, Capitan và cha Ingo biết với nhau. Nếu quả thực là một bí mật động trời đến thế, tôi thực sự phải ngả mũ bái phục khả năng giữ kín miệng của ba người suốt bao năm qua. Tôi rời làng từ lúc còn nhỏ, lại đi xa biền biệt suốt một thời gian dài nên không nhận ra đã đành, đằng này Riri và Fahri sống ở đây gần như suốt từ bé đến lớn mà hai đứa nó cũng chẳng mảy may hay biết. Nghĩ thôi đã thấy nể rồi. Hoặc không khéo bí mật kia thực ra cũng chẳng có gì to tát lắm. Cơ mà thế thì cụt hứng chết, nên tôi vẫn mong đó là một bí mật thật sự lớn.
+Theo lời họ kể thì bí mật này chỉ có bà Gharb, Capitan và cha Ingo biết với nhau. Nếu quả thực là một bí mật lớn đến thế, tôi thực sự phải nể phục việc ba người có thể giữ kín nó suốt bao năm qua. Tôi rời làng từ lúc còn trẻ, lại đi xa một thời gian dài nên không nhận ra đã đành, đằng này Riri và Fahri sống ở đây gần như suốt mà hai đứa nó vẫn chẳng hay biết gì. Thật đáng kinh ngạc. Hoặc cũng có thể bí mật kia thực ra chẳng to tát lắm. Cơ mà thế thì chẳng vui chút nào, nên tôi vẫn mong đó là một bí mật thật sự lớn.
 
-"Đúng là họ giấu kỹ thật, nhưng nghe cách họ nói thì hình như chuyện đó cũng chẳng ảnh hưởng gì mấy đến cuộc sống của dân làng thời nay. Biết đâu chỉ đơn giản là từ trước tới giờ chưa từng có dịp nào cần phải nhắc tới mà thôi," Lorraine đoán thử, dù lúc này cả hai đứa đều chưa biết cô đoán có trúng hay không.
+"Đúng là họ giấu được thật, nhưng nghe cách họ nói thì hình như chuyện đó cũng chẳng liên quan mấy đến dân làng thời nay. Biết đâu chỉ đơn giản là từ trước tới giờ họ chưa từng cần phải nhắc tới mà thôi," Lorraine đoán, dù lúc này cả hai đứa đều chưa biết cô đoán có đúng hay không.
 
-Tôi nhìn thẳng về phía trước, thấy ngôi nhà của bà Gharb đã hiện ra. "Ồ, tới nơi rồi. Cháu chào hai người ạ!" tôi cất tiếng gọi lớn.
+Tôi nhìn thẳng về phía trước, thấy ngôi nhà của bà Gharb đã hiện ra. "Ồ, tới nơi rồi. Chào hai người ạ!" tôi gọi lớn.
 
-Bà lão và người đàn ông vạm vỡ đang đứng đợi sẵn trước cửa, nghe tiếng liền nhìn về phía chúng tôi. Bà Gharb khoác chiếc áo choàng mà bà chỉ mặc mỗi khi đi xa, còn Capitan thì bận đồ đi săn. Nhìn là biết cả hai đã chuẩn bị sẵn sàng cho một chuyến đi. Bên hông Capitan còn đeo dao săn, vai khoác cung, sau lưng mang ống tên. Mà hai đứa tôi cũng trang bị đầy đủ để ra ngoài làng. Mấy hôm về thăm quê tôi toàn mặc đồ vải mỏng nhẹ cho thoải mái, nhưng hôm nay đã khoác lại bộ đồ mạo hiểm giả. Tôi đeo kiếm bên hông, còn Lorraine cũng mang theo đũa phép và một con dao găm.
+Bà lão và người đàn ông vạm vỡ đang đứng đợi sẵn ở cửa, nhìn về phía chúng tôi. Bà Gharb khoác chiếc áo khoác mà bà chỉ mặc mỗi khi đi xa, còn Capitan thì bận đồ đi săn. Nhìn là biết cả hai đã chuẩn bị sẵn sàng đi đâu đó. Bên hông Capitan còn đeo dao săn, vai khoác cung, sau lưng mang ống tên. Mà hai đứa tôi cũng trang bị kỹ càng đủ để đi ra ngoài làng. Phần lớn thời gian về thăm quê tôi toàn mặc đồ nhẹ nhàng, nhưng giờ đã khoác bộ đồ mạo hiểm giả. Tôi mang theo kiếm, còn Lorraine có đũa phép và dao găm.
 
 "Được rồi, đông đủ cả rồi đấy," bà Gharb nói, mắt nhìn bộ đồ trên người tôi. "Bộ đó hợp với cháu đấy, Rentt. Giờ trông ra dáng mạo hiểm giả thực thụ rồi."
 
@@ -94,11 +94,11 @@ Tôi vội lắc đầu quầy quậy. "Dạ thôi, cháu can chú đấy ạ! C
 
 Tôi nói vậy không phải để nịnh chú đâu. Một khi chú đã nghiêm túc giương cung thì mũi tên bắn ra lúc nào cũng xuyên thủng mục tiêu. Bản thân cây cung của chú cũng chỉ là cung thường, uy lực kinh khủng đó hoàn toàn là nhờ Khí Lực mà ra. Truyền Khí Lực vào kiếm, giáo hay các loại vũ khí cầm tay vốn đã đòi hỏi phải khổ luyện rất nhiều, nhưng dù sao vẫn còn nằm trong tầm tay. Đằng này truyền Khí Lực vào thứ vũ khí tách rời khỏi cơ thể lại là chuyện khó hơn lên trời. Vậy mà Capitan lại làm được. Tên của chú bắn ra còn phá nát được cả tảng đá lớn. Dù có khoác chiếc áo choàng này trên người, tôi cũng chẳng dám chắc mình sẽ bình an vô sự. Chắc là không sao đâu, nhưng chẳng dại gì đem mạng ra thử.
 
-Thấy tôi từ chối, Capitan thoáng vẻ tiếc nuối. "Thế thì thôi vậy. Dù sao lát nữa cũng phải đấu thử một hiệp nhé. Chú muốn xem trình độ của cháu giờ tới đâu rồi."
+Thấy tôi từ chối, Capitan thoáng vẻ tiếc nuối. "Thế thì thôi vậy. Dù sao lát nữa cũng đấu tập một chút nhé. Chú muốn xem bản lĩnh của cháu giờ tới đâu rồi."
 
-Câu chuyện bắt đầu rẽ sang chiều hướng chẳng lành rồi đây. Nói thật lòng là tôi chẳng muốn dính vào vụ này chút nào. Dù gì Capitan cũng là một trong những người đã dạy tôi chiến đấu. Kiếm thuật của tôi phần lớn là học từ vị mạo hiểm giả từng ghé qua làng năm xưa, nhưng bộ pháp di chuyển cùng mấy kỹ năng đại loại thế đều là do một tay Capitan chỉ dạy. Thể chất mới có được hiện giờ có lẽ đủ để giúp tôi giành phần thắng, nhưng tôi cũng chẳng dám chắc mười mươi. Từ bé tới lớn tôi đã thấy Capitan đánh thật sức bao giờ đâu.
+Câu chuyện bắt đầu chuyển hướng rắc rối rồi đây. Nói thật lòng là tôi chẳng muốn phải đối phó với chuyện đó chút nào. Dù gì Capitan cũng là một trong những người đã dạy tôi chiến đấu. Kiếm thuật của tôi phần lớn là học từ vị mạo hiểm giả từng ghé qua làng, nhưng bộ pháp di chuyển cùng mấy kỹ năng đại loại thế đều là học từ Capitan. Khả năng thể chất mới có được hiện giờ có lẽ đủ để giúp tôi giành phần thắng, nhưng tôi cũng chẳng dám nói chắc. Tôi chưa từng thấy Capitan lúc thực sự nghiêm túc bao giờ.
 
-Dù sao đi nữa, tôi cũng chẳng thể từ chối lời yêu cầu đấu tập này. Đã là trò thì phải chiều ý thầy thôi.
+Dù sao đi nữa, tôi cũng chẳng thể từ chối đấu tập. Làm học trò thì phải nghe lời thầy thôi.
 
 "Vâng ạ," tôi thở dài đáp. "Để lát nữa tính sau đi ạ. Thế rốt cuộc chúng ta đang đi đâu vậy ạ?"
 

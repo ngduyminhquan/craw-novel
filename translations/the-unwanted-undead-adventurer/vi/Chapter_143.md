@@ -1,16 +1,16 @@
 # Chương 143: Tập 6 Chương 3 - Bi Kịch Và Nguồn Gốc (3)
 
-"Mười năm sau đó tôi cứ sống như vậy, từng bước rèn giũa mình thành gã Rentt Faina mà cô thấy hôm nay. Mọi chuyện đại khái là thế đấy," tôi nói, khép lại câu chuyện.
+"Mười năm sau đó tôi cứ sống như vậy, từng bước rèn giũa mình thành Rentt Faina mà cô biết hôm nay. Mọi chuyện đại khái là thế đấy," tôi nói, khép lại câu chuyện.
 
 "Bấy lâu nay anh luôn cố vươn tới Mithril Cấp chỉ vì chuyện đó sao?" Lorraine hỏi.
 
 Tôi chưa từng ngần ngại nói với bất kỳ ai rằng mục tiêu của mình là trở thành mạo hiểm giả Mithril Cấp, nhưng cũng chưa từng hé lộ cho ai hay lý do đằng sau. Thế nên, hiển nhiên đây là lần đầu tiên Lorraine được nghe chuyện này. Không hẳn là tôi không muốn kể, chỉ là chuyện đó chẳng dễ mở lời chút nào. Hơn nữa, kể ra cũng mất khối thời gian.
 
-Tôi hiếm khi kể về những bất hạnh đời mình. Đã là mạo hiểm giả thì ai cũng có đôi ba câu chuyện thương tâm, nhưng thay vì ngồi kể lể, chúng tôi thích quây quần ăn uống hơn. Chẳng phải chúng tôi đã quên đi biến cố của bản thân hay xem chúng là vô nghĩa. Đó là những điều vô cùng quan trọng, đã góp phần nhào nặn nên con người chúng tôi ngày hôm nay. Nhưng mở lời trước mặt người khác quả thực rất khó, lại chẳng ai muốn làm chùng bầu không khí. Người ta tìm tới chén rượu cùng bạn bè là để quên đi phiền muộn, nên chẳng ai nỡ khơi lại nỗi đau quá khứ làm gì.
+Tôi hiếm khi kể về những bất hạnh đời mình. Đã là mạo hiểm giả thì ai cũng có đôi ba câu chuyện buồn, nhưng thay vì ngồi kể lể, chúng tôi thích quây quần ăn uống hơn. Chẳng phải chúng tôi đã quên đi bi kịch của bản thân hay xem chúng là vô nghĩa. Đó là những điều vô cùng quan trọng, đã góp phần nhào nặn nên con người chúng tôi ngày hôm nay. Nhưng mở lời trước mặt người khác quả thực rất khó, lại chẳng ai muốn làm chùng bầu không khí. Người ta tìm tới chén rượu cùng bạn bè là để quên đi phiền muộn, nên chẳng ai muốn khơi lại nỗi đau quá khứ làm gì.
 
-Thế nhưng hôm nay, tự dưng nổi hứng nên tôi mới kể hết mọi chuyện cho Lorraine nghe.
+Thế nhưng hôm nay, tự dưng muốn giãi bày nên tôi mới kể hết mọi chuyện cho Lorraine nghe.
 
-Tôi ngước nhìn lên bầu trời đêm, ngắm những vì sao đang lấp lánh. Trời đêm ở Maalt mờ tối hơn và ít sao hơn hẳn. Người ta dùng lửa và ma đăng thắp sáng thị trấn khi màn đêm buông xuống, làm mờ đi ánh sao trên trời. Còn ở Hathara thì hầu như chẳng có ánh đèn nào. Đêm nay giữa làng có đốt một đống lửa trại, nhưng sao trời vẫn hiện lên rõ mồn một.
+Tôi ngước nhìn lên bầu trời đêm, ngắm những vì sao đang lấp lánh. Trời đêm ở Maalt tối hơn và ít sao hơn hẳn. Người ta dùng lửa và đèn ma pháp thắp sáng thành phố khi màn đêm buông xuống, làm mờ đi ánh sao trên trời. Còn ở Hathara thì hầu như chẳng có ánh đèn nào. Đêm nay giữa làng có đốt một đống lửa trại, nhưng sao trời vẫn hiện lên rõ mồn một.
 
 "Nhưng dẫu có nỗ lực đến đâu, tôi cũng chưa từng vượt quá được cái mác Đồng Cấp. Đời mà, đâu phải cứ muốn là được," tôi nói.
 
@@ -96,9 +96,9 @@ Tôi chưa từng nghe nói ngôi làng này từng có thời như lời bà k�
 
 "Thôi, không nhắc chuyện đó nữa. Hai đứa mau quay lại tiệc đi. Cả cô nữa, Lorraine. Dân làng muốn xem lại ma pháp ảo ảnh đấy. Ta chưa được tận mắt chứng kiến nên cũng muốn có dịp mở mang tầm mắt."
 
-"Tôi không phiền đâu, nhưng theo tôi thấy thì bà cũng thừa sức thi triển ma pháp đó mà," Lorraine nhận xét sau khi ước lượng sức mạnh ma thuật của Gharb.
+"Tôi không ngại đâu, nhưng theo tôi thấy thì bà cũng thừa sức thi triển ma pháp đó mà," Lorraine nhận xét sau khi ước lượng sức mạnh ma thuật của bà Gharb.
 
-Bà Gharb lắc đầu. "Không đời nào. Ta cảm nhận được luồng Ma Lực lúc cô thi triển rồi, thân già này đâu kham nổi thứ ma pháp vừa phức tạp vừa ngốn năng lượng đến thế," bà nói. Rồi bà quay người, lần theo lối cũ trở về.
+Bà Gharb lắc đầu. "Không đời nào. Ta cảm nhận được luồng Ma Lực lúc cô thi triển rồi, thân già này đâu kham nổi thứ ma pháp vừa phức tạp vừa ngốn sức đến thế," bà nói. Rồi bà quay người, lần theo lối cũ trở về.
 
 "Khoan đã, thưa sư phụ," tôi gọi với lại khi sực nhớ ra một chuyện. "Cháu muốn hỏi bà điều này."
 
@@ -106,7 +106,7 @@ Bà Gharb dừng chân quay lại: "Chuyện gì thế?"
 
 "Chẳng phải làng mình từng có một ngôi đền sao? Giờ nó còn ở đó không ạ?"
 
-Ngay từ đầu, đó vốn là mục đích chính của chuyến đi này. Tôi dự định ngày mai chào hỏi xong xuôi sẽ tới đó xem thử, nhưng tiện thể có cuốn bách khoa toàn thư sống của làng ở đây, hỏi thăm về lai lịch ngôi đền cũng chẳng mất gì.
+Ngay từ đầu, đó vốn là mục đích chính của chuyến đi này. Tôi dự định ngày mai chào hỏi xong xuôi sẽ tới đó xem thử, nhưng tiện thể có cuốn từ điển sống của làng ở đây, hỏi thăm về lai lịch ngôi đền cũng rất đáng thử.
 
 "Ý cháu là ngôi đền gần nhà Ingo à?" bà hỏi.
 
@@ -140,19 +140,19 @@ Chẳng hạn, các loại rau lá nếu được thanh tẩy thì dù trời n�
 
 "Hồi mới phát hiện mình dùng được Thần Lực, tôi đã thử nghiệm lung tung cả. Đem thử lên đồ ăn, nước uống, cây cỏ rồi cả con người, đủ thứ trên đời, nhưng hầu như chẳng thấy tác động nào rõ rệt. Chắc phần nhiều do khi ấy Thần Lực còn quá ít, chứ với những hiệu ứng đơn giản như làm chậm thời hạn hư hỏng của đồ ăn thì tôi còn làm được khối trò. Nhiều tới mức kể hết tên ra cũng thấy mệt."
 
-Tôi đã thử gần như mọi cách để kìm hãm sự xuống cấp của đồ vật, và nhận thấy mình có thể làm chậm quá trình hao mòn của hầu hết mọi thứ, bao gồm cả thức ăn. Thế nên có kể hết ra thì cũng mất cả buổi.
+Tôi đã thử gần như mọi thứ có thể khi xét tới chuyện đồ vật bị xuống cấp, và nhận thấy mình có thể làm chậm quá trình đó ở hầu hết mọi thứ, bao gồm cả thức ăn. Thế nên có kể hết ra thì cũng mất cả buổi.
 
-"Tôi đoán nếu giờ anh thử lại, biết đâu sẽ thu được vài kết quả thú vị đấy," Lorraine nói, hào hứng muốn làm thí nghiệm.
+"Tôi thấy nếu giờ anh thử lại, biết đâu sẽ thu được vài kết quả thú vị đấy," Lorraine nói, hào hứng muốn làm thí nghiệm.
 
-Tôi hiểu cảm giác của cô ấy, bởi giờ đây tôi đã có thể thanh tẩy tro tàn và làm cỏ non mọc lên từ đó. Tôi tự hỏi liệu lúc này mình có thể làm cây cối đâm chồi từ thức ăn được hay không. Chuyện đó chẳng cần thiết chút nào nên tốt nhất là đừng xảy ra, nhưng chưa thử thì đâu biết được. Tôi tự nhủ để lúc khác sẽ thử xem sao.
+Tôi hiểu cảm giác của cô ấy, bởi giờ đây tôi đã có thể thanh tẩy tro tàn và làm cỏ mọc lên từ đó. Tôi tự hỏi liệu lúc này mình có thể làm cây cối đâm chồi từ thức ăn được hay không. Chuyện đó chẳng cần thiết chút nào nên tốt nhất là đừng xảy ra, nhưng chưa thử thì đâu biết được. Tôi tự nhủ để lúc khác sẽ thử xem sao.
 
-"Chà chà, lúc nghe tin thằng Rentt cuối cùng cũng dắt được một cô gái trẻ về làng, ta cứ thắc mắc không biết là người thế nào," bà Gharb nhìn chúng tôi, vẻ ngỡ ngàng. "Nghe hai đứa nói chuyện mới thấy giống nhau đến không ngờ, từ lối suy nghĩ cho tới những trò làm ra."
+"Chà chà, lúc nghe tin thằng Rentt cuối cùng cũng dắt được một cô gái trẻ về làng, ta cứ thắc mắc không biết là người thế nào," bà Gharb nhìn chúng tôi, vẻ ngỡ ngàng. "Nghe hai đứa nói chuyện mới thấy giống nhau đến không ngờ, từ lối suy nghĩ cho tới những việc làm ra."
 
-"Bọn cháu giống nhau lắm sao bà?" tôi hỏi. "Cháu thấy hai đứa chơi với nhau cũng khá hợp."
+"Bọn cháu giống nhau lắm sao bà?" tôi hỏi. "Cháu thấy hai đứa cũng khá hợp nhau."
 
-Lorraine nói thêm, "Rentt chẳng bao giờ ngạc nhiên trước bất cứ điều gì tôi làm. Trái lại, anh ấy luôn sẵn lòng hợp tác, nên có anh ấy ở cạnh cũng rất dễ chịu. Hóa ra có khi tụi tôi giống nhau thật, nhất là cái tính tỉ mỉ trong nghiên cứu."
+Lorraine nói thêm, "Rentt chẳng bao giờ ngạc nhiên trước bất cứ điều gì tôi làm. Trái lại, anh ấy luôn sẵn lòng hợp tác, nên có anh ấy ở cạnh cũng rất dễ chịu. Hóa ra có khi tụi tôi giống nhau thật, nhất là ở khoản cả hai đều tỉ mỉ trong nghiên cứu."
 
-Bảo tôi tỉ mỉ thì không sai, nhưng Lorraine thì kỹ tính đến mức cực đoan rồi. Còn về chuyện hợp tác, ngay lúc này đây tôi vẫn đang phụ giúp cô ấy nghiên cứu về quái vật và Tiến Hóa Bản Thể của chúng đấy thôi. Lorraine chẳng bao giờ hoảng hốt mà luôn tập trung vào sự thật trước tiên, nên tôi cũng thấy có cô ấy ở cạnh là điều rất dễ chịu.
+Bảo tôi tỉ mỉ thì không sai, nhưng Lorraine thì gần như tới mức ám ảnh rồi. Còn về chuyện hợp tác, ngay lúc này đây tôi vẫn đang phụ giúp cô ấy nghiên cứu về quái vật và Tiến Hóa Bản Thể của chúng đấy thôi. Lorraine chẳng bao giờ hoảng hốt mà luôn tập trung vào sự thật trước tiên, nên tôi cũng thấy có cô ấy ở cạnh là điều rất dễ chịu.
 
 "Hửm, thế à?" bà Gharb hỏi. "Thằng Rentt xưa nay lúc nào cũng tò mò những thứ kỳ quặc nhất trần đời. Như cái ngôi đền kia chẳng hạn. Hồi trước cháu từng tu sửa nó, đúng không?"
 
@@ -186,4 +186,4 @@ Trông bà Gharb cứ như biết điều gì đó giấu giếm, nên nghe câu
 
 Hai đứa đứng trò chuyện thêm một chốc cho tới khi sực nhớ ra dân làng đang ngóng mình quay lại tiệc, bèn rảo bước về phía đống lửa trại.
 
-Chúng tôi quay trở lại bữa tiệc sau đó, nhưng chẳng bao lâu thì tiệc tàn. Ma pháp ảo ảnh của Lorraine quả thực vô cùng mãn nhãn, và hàng loạt câu hỏi dồn dập từ dân làng trút xuống đầu tôi sau đó khiến tôi mệt rã rời. Cứ như thể màn ảo ảnh ấy khiến họ nghĩ tôi không còn là con người nữa vậy. Dù đúng là giờ tôi không phải con người thật, nhưng ý tôi đâu phải thế. Sau lần xem thứ hai, tôi có thể khẳng định chắc nịch rằng màn tái hiện trận chiến giữa tôi và Tarasque của cô ấy quả là một kiệt tác nghệ thuật, có điều khó mà nuốt trôi nổi cái mức độ phóng đại của nó. Riri bảo cô bé muốn mạnh mẽ đến mức đó để có thể sánh vai cùng tôi, nhưng nếu cô bé thực sự đuổi kịp cái bóng trong màn ảo ảnh kia thì cô bé đã bỏ xa tôi cả dặm rồi. Tôi chỉ mong cô bé đừng có cố quá đà.
+Chúng tôi quay trở lại bữa tiệc sau đó, nhưng chẳng bao lâu thì tiệc tàn. Ma pháp ảo ảnh của Lorraine quả thực vô cùng xuất sắc, và hàng loạt câu hỏi dồn dập từ dân làng trút xuống đầu tôi sau đó khiến tôi mệt rã rời. Cứ như thể màn ảo ảnh ấy khiến họ nghĩ tôi không còn là con người nữa vậy. Dù đúng là giờ tôi không phải con người thật, nhưng mà thôi. Sau lần xem thứ hai, tôi có thể khẳng định chắc nịch rằng màn tái hiện trận chiến giữa tôi và Tarasque của cô ấy quả là một tác phẩm nghệ thuật, có điều khó mà bỏ qua nổi cái mức độ phóng đại của nó. Riri bảo cô bé muốn mạnh mẽ đến mức đó để có thể sánh ngang với tôi, nhưng nếu cô bé thực sự đuổi kịp hình bóng trong màn ảo ảnh kia thì cô bé đã bỏ xa tôi cả dặm rồi. Tôi chỉ mong cô bé đừng cố quá đà.

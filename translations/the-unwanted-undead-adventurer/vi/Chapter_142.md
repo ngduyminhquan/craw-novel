@@ -6,11 +6,11 @@ Tôi ngước lên thì thấy một người đàn ông trưởng thành. Chú 
 
 Lúc ấy tôi hoảng loạn đến mức chẳng nghĩ được gì, nên chỉ biết làm theo lời chú. Con sói toan vồ lấy tôi, nhưng người đàn ông vung thanh đại kiếm, ép nó phải lùi lại. Ngay cả bây giờ, tôi vẫn thấy chú ấy là một chiến binh kiệt xuất. Vào thời điểm đó, tôi chưa biết gì về chiến đấu, nhưng nhìn những đường kiếm tuyệt đẹp ấy, tôi nhận ra ngay chú là một bậc thầy.
 
-Thế là trận quyết chiến giữa một người một sói bắt đầu. Con sói chồm tới, còn người đàn ông vung kiếm chém trả. Cả hai lao vào nhau nhanh đến mức mắt tôi không tài nào theo kịp. Nhìn họ, tôi mới thấy trước đó con sói đã nương tay với tôi cỡ nào, và người đàn ông này bản lĩnh ra sao. Cuộc chiến như thể diễn ra trong một thế giới khác. Cả hai ngang sức ngang tài. Con sói lách khỏi lưỡi kiếm trong đường tơ kẽ tóc hoặc dùng nanh chặn lại. Người đàn ông thì dùng thanh đại kiếm gạt phăng móng vuốt cùng răng nanh của nó, hoặc né đòn nhanh đến mức mắt thường không kịp thấy.
+Thế là trận chiến giữa người và sói nổ ra. Con sói chồm tới, còn người đàn ông vung kiếm chém trả. Cả hai lao vào nhau nhanh đến mức mắt tôi không tài nào theo kịp. Nhìn họ, tôi mới thấy trước đó con sói đã nương tay với tôi cỡ nào, và người đàn ông này tài giỏi ra sao. Cuộc chiến như thể diễn ra trong một thế giới riêng. Cả hai ngang sức ngang tài. Con sói lách khỏi lưỡi kiếm trong đường tơ kẽ tóc hoặc dùng nanh chặn lại. Người đàn ông thì dùng thanh đại kiếm gạt phăng móng vuốt cùng răng nanh của nó, hoặc né đòn nhanh đến mức mắt thường không kịp thấy.
 
 Tới khi thể lực đôi bên đều chạm tới giới hạn, người đàn ông đã giành phần thắng. Con sói chỉ sơ hở trong tích tắc, người đàn ông liền áp sát tung một nhát chém rạch toạc ngực nó. Con sói rú lên đau đớn. Nó vung chân trước hất chú ấy ra xa, nhưng người đàn ông đã kịp dùng kiếm đỡ đòn liều mạng đó nên không hề hấn gì.
 
-Máu sẫm màu từ ngực con sói nhỏ xuống tong tỏng, đọng lại thành một vũng đỏ lòm. Hơi thở nó dồn dập đứt quãng, đôi mắt chỉ ngập tràn sát ý điên cuồng đảo quanh. Dù đứng cách xa, tôi vẫn không khỏi co rúm người lại. Thế nhưng, người đàn ông lại chẳng hề nao núng.
+Máu sẫm màu từ ngực con sói nhỏ xuống, đọng lại thành một vũng đỏ lòm. Hơi thở nó dồn dập đứt quãng, đôi mắt chỉ ngập tràn sát ý điên cuồng đảo quanh. Dù đứng cách xa, tôi vẫn không khỏi co rúm người lại. Thế nhưng, người đàn ông lại chẳng hề nao núng.
 
 Con sói và người đàn ông còn gườm nhau trừng trừng thêm một lúc, cho tới khi sự giằng co bị phá vỡ và con sói chịu lùi bước. Rồi trước sự ngỡ ngàng của tôi, con thú quay đầu phóng vụt đi mất dạng. Chứng kiến tất cả ở cự ly gần, tôi chết lặng cả người. Con sói trông chẳng có vẻ gì là loài biết bỏ chạy, vậy mà lại chịu tháo lui trước người đàn ông này.
 
@@ -38,7 +38,7 @@ Vậy mà người đàn ông vẫn xin lỗi. Chú lau nước mắt cho tôi r
 
 "Cháu nín được chưa?" người đàn ông hỏi sau khi tôi đã khóc cạn cả nước mắt.
 
-"Dạ rồi, cháu xin lỗi chú," tôi nói. Trong lòng tôi vẫn chưa nguôi ngoai, nhưng cũng đã bình tâm lại đôi chút. Tôi đau buồn cùng cực, chẳng biết phải làm sao, đầu óc vẫn còn rối bời, nhưng tôi đã hiểu rằng mình không thể trách cứ người đàn ông này về bất cứ điều gì.
+"Dạ rồi, cháu xin lỗi chú," tôi nói. Trong lòng tôi vẫn chưa khá hơn, nhưng cũng đã bình tâm lại đôi chút. Tôi suy sụp tinh thần, chẳng biết phải làm sao, đầu óc vẫn còn rối bời, nhưng tôi đã hiểu rằng mình không thể trách cứ người đàn ông này về bất cứ điều gì.
 
 "Không, cháu làm tốt lắm," người đàn ông bảo. "Không phải vì chuyện cháu xin lỗi đâu, mà là vì còn nhỏ tuổi thế này mà cháu đã dám đứng lên đối mặt với con dã thú đó. Dù sao thì, ừm, về những người đi cùng đã khuất của cháu..."
 
@@ -108,9 +108,9 @@ Wilfried và Azel lập tức giải thích tình hình cho vợ chồng trưở
 
 Những chuyện xảy ra sau đó trôi qua nhanh như một cái chớp mắt. Tin tức về cái chết của cha mẹ tôi, bà Pravda và Jinlin được thông báo, rồi tang lễ được tổ chức. Tôi được gia đình trưởng làng nhận làm con nuôi. Mọi chuyện diễn ra trong vòng ba ngày, và điều khiến tôi bất ngờ là Wilfried cùng Azel đã ở lại làng suốt thời gian đó. Sau này khi tôi hỏi lại, cha Ingo bảo đó là vì họ lo lắng cho tôi. Thấy tôi như thể có thể tự làm hại bản thân bất cứ lúc nào, trong khi dân làng thì đang bận rộn lo tang lễ, họ muốn có người kề cận trông chừng tôi. Nếu không có ai ở bên, rất có thể tôi đã quẫn trí tìm đến cái chết, nên có lẽ suy tính của họ chẳng sai chút nào. Nghĩ như vậy thật có lỗi với công ơn cứu mạng của họ, nhưng thảm kịch ấy đã giáng một đòn quá nặng nề vào tôi.
 
-Một phần lý do họ ở lại cũng là vì họ muốn có thêm người phụ giúp việc mai táng. Hai mạo hiểm giả hóa ra lại là sự trợ giúp đắc lực. Lễ vật cho tang lễ cần phải gom từ trong rừng, nhưng họ đã nhanh chóng thu thập đủ. Họ quả là những con người tuyệt vời.
+Một phần lý do họ ở lại cũng là vì họ muốn có thêm người phụ giúp việc chôn cất. Hai mạo hiểm giả hóa ra lại giúp được rất nhiều. Lễ vật cho tang lễ cần phải gom từ trong rừng, nhưng họ đã nhanh chóng thu thập đủ. Họ quả là những con người tuyệt vời.
 
-Khi tang lễ và các thủ tục đã xong xuôi, cuối cùng tôi cũng phải đối mặt với hiện thực. Chẳng có gì ngoài nỗi đau khôn xiết. Tôi không biết mình phải làm gì tiếp theo. Giờ đã là con trai của trưởng làng, có lẽ tôi nên hướng tới việc trở thành trưởng làng kế nhiệm. Nhưng Jinlin từng nói cô bé muốn làm một mạo hiểm giả và ngắm nhìn thế giới. Ước mơ của cô bé chẳng bao giờ có thể thành hiện thực được nữa, nhưng tôi vẫn có thể thực hiện nó thay cho cô bé. Nếu suy xét theo lý trí, có lẽ đó không phải cách nghĩ đúng đắn nhất. Nhưng lúc ấy tôi đã nghĩ vậy, nên bèn tìm đến mạo hiểm giả gần mình nhất để nhờ giúp đỡ.
+Khi tang lễ và các thủ tục liên quan đã xong xuôi, cuối cùng tôi cũng phải đối mặt với hiện thực. Chẳng có gì ngoài nỗi đau. Tôi không biết mình phải làm gì tiếp theo. Giờ đã là con trai của trưởng làng, có lẽ tôi nên hướng tới việc trở thành trưởng làng kế nhiệm. Nhưng Jinlin từng nói cô bé muốn làm một mạo hiểm giả và ngắm nhìn thế giới. Ước mơ của cô bé chẳng bao giờ có thể thành hiện thực được nữa, nhưng tôi vẫn có thể thực hiện nó thay cho cô bé. Nếu suy xét theo lý trí, có lẽ đó không phải cách nghĩ hợp lý nhất. Nhưng lúc ấy tôi đã nảy ra ý đó, nên bèn tìm đến mạo hiểm giả gần mình nhất để nhờ giúp đỡ.
 
 ◆◇◆◇◆
 
@@ -132,11 +132,11 @@ Wilfried suy nghĩ xong liền mở mắt ra. "Chú không cấm cản cháu th�
 
 "Ngoài ra, cháu cần có kiến thức," Wilfried tiếp tục. "Học đọc và học viết là điều tối thiểu. Nếu không cháu chắc chắn sẽ bị người ta lừa gạt. Cũng hãy học cả tính toán nữa, cùng một lý do đó thôi. Kiến thức về thảo dược cùng các loài cây cỏ khác, về các chủng loại quái vật cùng thuộc tính của chúng, và kỹ năng sinh tồn nơi hoang dã cũng vô cùng quan trọng. Hathara tuy nhỏ, nhưng chú đã gặp bà lão làm thuốc ở đây, nhà trưởng làng cũng có sẵn mấy cuốn sách. Ở ngay trong làng đã có khối thứ để học rồi. Nếu cháu nhất quyết muốn trở thành mạo hiểm giả, trước tiên cứ thử thuyết phục họ dạy cho mình xem."
 
-Những lời khuyên tường tận này thực sự vô cùng hữu ích. "Nếu cháu làm tất cả những điều đó, cháu có thể trở thành một mạo hiểm giả cừ khôi không ạ?" tôi hỏi.
+Những lời khuyên tường tận này thực sự vô cùng hữu ích. "Nếu cháu làm tất cả những điều đó, cháu có thể trở thành một mạo hiểm giả tài giỏi không ạ?" tôi hỏi.
 
 "Chú không dám chắc. Chừng đó mới chỉ đưa cháu tới vạch xuất phát mà thôi. Sau đó đi xa tới đâu hoàn toàn tùy vào nỗ lực của cháu. Dù vậy, nếu đã muốn thử thì cứ làm theo lời chú. Ít nhất cháu cũng sẽ tự đứng vững được trên đôi chân của mình. Chỉ cần đừng chết trước khi ước mơ thành hiện thực là được," chú chân thành dặn dò.
 
-Chú hẳn đã hiểu rằng nếu tôi cứ sống vật vờ không mục tiêu, một ngày nào đó tôi sẽ lang thang vào rừng mà chết. Ngay cả một mục tiêu liều lĩnh cũng sẽ giúp tôi tiếp tục sống chừng nào tôi còn nỗ lực hướng tới nó. Tôi đoán đó là lý do chú ấy đối đãi nghiêm túc với tôi. Hồi đó tôi chưa hiểu được điều ấy, nhưng tôi biết rõ chú đang nói chuyện với tôi bằng tất cả sự chân thành.
+Chú hẳn đã hiểu rằng nếu tôi cứ sống mà chẳng có mục tiêu nào, một ngày nào đó tôi sẽ lang thang vào rừng mà chết. Ngay cả một mục tiêu liều lĩnh cũng sẽ giúp tôi tiếp tục sống chừng nào tôi còn nỗ lực hướng tới nó. Tôi đoán đó là lý do chú ấy đối đãi nghiêm túc với tôi. Hồi đó tôi chưa hiểu được điều ấy, nhưng tôi biết rõ chú đang nói chuyện với tôi bằng tất cả sự chân thành.
 
 Tôi gật đầu. "Vâng, cháu sẽ cố hết sức ạ."
 
@@ -146,7 +146,7 @@ Tôi gật đầu. "Vâng, cháu sẽ cố hết sức ạ."
 
 Tang lễ đã qua và tôi chính thức được trưởng làng nhận làm con nuôi. Giờ đây khi nhịp sống trong làng đã yên ắng trở lại, đã đến lúc Wilfried và Azel phải lên đường.
 
-"Rentt này, nếu sau này cháu trở thành một mạo hiểm giả cừ khôi, thỉnh thoảng nhớ đến tìm chú nhé," Wilfried dặn tôi trước lúc chia tay. "Nói thật thì chú chẳng thể cho cháu biết mười năm nữa chú sẽ ở đâu, nhưng nếu còn sống, chú vẫn sẽ mạo hiểm ở một nơi nào đó thôi. Chú có thể đãi cháu một vại bia hay thứ gì đó." Chú xoa đầu tôi.
+"Rentt này, nếu sau này cháu trở thành một mạo hiểm giả mạnh mẽ, thỉnh thoảng nhớ đến tìm chú nhé," Wilfried dặn tôi trước lúc chia tay. "Nói thật thì chú chẳng thể cho cháu biết mười năm nữa chú sẽ ở đâu, nhưng nếu còn sống, chú vẫn sẽ mạo hiểm ở một nơi nào đó thôi. Chú có thể đãi cháu một vại bia hay thứ gì đó." Chú xoa đầu tôi.
 
 "Thuận lợi nhất thì đến lúc đó anh cũng có một cửa tiệm của riêng mình," Azel nói. "Sau này nếu em có nghe loáng thoáng về thương hội của anh thì nhớ ghé chơi nhé. Chắc anh sẽ đặt tên nó là Thương hội Goth. Cứ tính là anh lập được đi đã." Giọng điệu của anh khiến người ta khó mà biết được là anh đang nói thật hay chỉ bông đùa.
 

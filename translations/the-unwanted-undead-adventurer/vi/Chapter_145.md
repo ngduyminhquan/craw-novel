@@ -20,21 +20,21 @@ Ma Lực và Thần Lực dĩ nhiên khác nhau, Khí Lực cũng vậy. Dùng l
 
 Tôi nhìn Lorraine, Thần Lực trên người cô đúng là đã vơi gần hết. Chắc cô dùng cạn sạch rồi. Mới phóng ra một chút mà đã hết nhẵn thì có lẽ Thần Lực của cô cũng trạc mức tôi từng có trước đây.
 
-"Ta đã bảo lời chúc phúc đó chẳng ra hồn gì rồi mà. Tinh linh như ta gắng lắm cũng chỉ được tới đó thôi. Với Rentt hồi trước cũng y vậy. Khoan đã, giờ nhìn kỹ mới thấy Thần Lực của Rentt nhiều kinh khủng. Sao lại thế nhỉ? Nhiều gấp cả trăm lần chỗ ta ban cho ngươi đấy."
+"Ta đã bảo ơn phước đó còi cọc lắm rồi mà. Tinh linh như ta gắng lắm cũng chỉ được tới đó thôi. Với Rentt hồi trước cũng y vậy. Khoan đã, giờ nhìn kỹ mới thấy Thần Lực của Rentt nhiều kinh khủng. Sao lại thế nhỉ? Nhiều gấp cả trăm lần chỗ ta ban cho ngươi đấy."
 
 Thần Lực của tôi đúng là dồi dào hơn trước rất nhiều, nhưng tôi cứ ngỡ đó là nhờ tinh linh này làm gì đó. Hóa ra không phải. Giờ thì tôi đâm ra tò mò thật sự.
 
-"Vậy không phải ngươi ban thêm Thần Lực cho tôi sao?" tôi hỏi. "Tôi cứ nghĩ độ mạnh yếu và nhiều ít của Thần Lực là do đấng ban phước quyết định chứ. Tôi tưởng dạo này ngươi thấy tôi gặp bao phen trắc trở nên mới tăng cường lời chúc phúc hay gì đó để giúp một tay." Thần linh thì phải bảo vệ tín đồ của mình, tôi nghĩ vậy cũng hợp lý mà.
+"Vậy không phải ngươi ban thêm Thần Lực cho tôi sao?" tôi hỏi. "Tôi cứ nghĩ độ mạnh yếu và nhiều ít của Thần Lực là do nguồn gốc của nó quyết định chứ. Tôi tưởng dạo này ngươi thấy tôi gặp bao phen thử thách nên mới tăng cường ơn phước hay gì đó để giúp một tay." Thần linh thì sẽ cố bảo vệ tín đồ của mình, tôi nghĩ vậy cũng hợp lý mà.
 
 Thế nhưng bức tượng lắc đầu. "Ta đâu có tốt bụng đến thế. Nói thì nói vậy chứ có mỗi hai tín đồ, ta cũng muốn giúp các ngươi tránh khỏi hiểm nguy lắm. Ngặt nỗi ta yếu quá mà. Đến việc thường xuyên ngó chừng Rentt ta còn chẳng làm nổi. Ngay lúc này, chỉ nói chuyện với hai ngươi thôi cũng tốn của ta bao nhiêu sức lực rồi."
 
 "Vậy thì tại sao Thần Lực của tôi lại tăng lên?" tôi hỏi.
 
-Bức tượng nghiêng đầu nhìn tôi chằm chằm. "Chà, chịu khó rèn luyện thì nó cũng tăng dần lên thật, nhưng trường hợp của ngươi không bình thường chút nào. Chắc có dính dáng gì đó tới cái mặt nạ kỳ quặc kia. Ta cảm nhận được hơi thở của một vị thần, nhưng chẳng rõ là vị nào."
+Bức tượng nghiêng đầu nhìn tôi chằm chằm. "Chà, chịu khó rèn luyện thì nó cũng tăng dần lên thật, nhưng trường hợp của ngươi không bình thường chút nào. Chắc có dính dáng gì đó tới cái mặt nạ kỳ quặc kia. Ta cảm nhận được sự hiện diện của một vị thần, nhưng chẳng rõ là vị nào."
 
 "Cái này á?" Đó là chiếc mặt nạ nguyền rủa mà Rina mua cho tôi ở chợ. Ngoài chuyện không tháo ra được, tôi chưa từng nghĩ nó có tác dụng gì khác. Nếu những lời tinh linh nói là thật thì ngay từ đầu chiếc mặt nạ này vốn chẳng hề bị nguyền rủa. Nó nhắc tới một vị thần, nhưng tôi chẳng cảm nhận được gì. Lorraine cũng vậy.
 
-"Nó có thể là một Thánh Cụ," bức tượng nói. "Thế thì mới giải thích được vì sao nó lại khuếch đại lời chúc phúc của ta. Biết đâu ngươi đã nhận thêm đôi chút chúc phúc từ vị thần tạo ra chiếc mặt nạ này."
+"Nó có thể là một Thánh Cụ," bức tượng nói. "Thế thì mới giải thích được vì sao nó lại khuếch đại ơn phước của ta. Biết đâu ngươi đã nhận thêm đôi chút chúc phúc từ vị thần tạo ra chiếc mặt nạ này."
 
 Thông thường, con người chẳng có cách nào biết được vị thần nào đã ban phước cho mình. Chỉ còn nước đoán mò, giống như tôi từng đoán khi nhận được Thần Lực sau bận tu sửa ngôi đền. Điều này có nghĩa là lượng Thần Lực tăng vọt khó tin của tôi bắt nguồn từ một lời chúc phúc khác mà tôi không hề hay biết, xuất phát từ chính chiếc mặt nạ này.
 
@@ -66,7 +66,7 @@ Vẻ mặt Lorraine tươi tỉnh lên đôi chút. "Ừ nhỉ, thế cũng đư
 
 "Xem chừng là vậy. Nhưng nó bảo chỉ nhập vào thứ có chứa Ma Lực được thôi, nên chúng ta sẽ phải tính xem nên dùng vật liệu nào. Làm xong rồi thì nghe bảo lúc nào gọi nó nhập vào cũng được."
 
-Tôi chẳng rõ cách đó có ăn thua thật không, nhưng cũng đáng thử lắm. Tôi còn bao nhiêu điều muốn hỏi tinh linh này. Nó bảo ở đâu cũng không quan trọng, thế thì chẳng nhất thiết phải ở Hathara. Người ta vẫn thường nói thần linh ngự ở khắp mọi nơi mà cũng chẳng ở nơi nào. Ý là chỉ cần có lòng tin thì người ta ở đâu cũng không thành vấn đề. Có điều theo những gì tôi nghe được, đền miếu và thần điện giống như những cánh cửa nối liền thế giới của chúng ta với thế giới của họ, giúp họ dễ bề tiếp xúc với con người hơn. Nhưng mấy chuyện này cứ để người nhà đạo giải thích là chuẩn nhất. Tôi có thể hỏi thử một người xem sao. Chẳng biết có nên coi là may mắn không, nhưng tình cờ tôi lại quen vài người bên Giáo Hội. Lillian, Myullias, thậm chí cả Nive chắc cũng tính được. Dù Nive chẳng thuộc Giáo Hội, mà nói đúng hơn là cô nàng đang lợi dụng họ thì có. Cơ mà biết đâu cô ấy lại rành chuyện thần linh với tinh linh, nên hỏi thử cũng chẳng mất gì. Chỉ là tôi không muốn nhờ vả cô nàng cho lắm.
+Tôi chẳng rõ cách đó có được việc thật không, nhưng cũng đáng thử lắm. Tôi còn bao nhiêu điều muốn hỏi tinh linh này. Nó bảo ở đâu cũng không quan trọng, thế thì chẳng nhất thiết phải ở Hathara. Người ta vẫn thường nói thần linh ngự ở khắp mọi nơi mà cũng chẳng ở nơi nào. Ý là chỉ cần có lòng tin thì người ta ở đâu cũng không thành vấn đề. Có điều theo những gì tôi nghe được, đền miếu và thần điện giống như những cánh cửa nối liền thế giới của chúng ta với thế giới của họ, giúp họ dễ bề tiếp xúc với con người hơn. Nhưng mấy chuyện này cứ để người nhà đạo giải thích là chuẩn nhất. Tôi có thể hỏi thử một người xem sao. Chẳng biết có nên coi là may mắn không, nhưng tình cờ tôi lại quen vài người bên Giáo Hội. Sơ Lillian, Myullias, thậm chí cả Nive chắc cũng tính được. Dù Nive chẳng thuộc Giáo Hội, mà nói đúng hơn là cô ấy đang lợi dụng họ thì có. Cơ mà biết đâu cô ấy lại rành chuyện thần linh với tinh linh, nên hỏi thử cũng chẳng mất gì. Chỉ là tôi không muốn dựa dẫm vào cô ấy cho lắm.
 
 "Mà lạ thật đấy, tinh linh đó lại để mặc chúng ta đặt tên cho nó. Nếu đã là một phần của Viroget thì tôi không nghĩ nó lại xuề xòa đến mức ấy," Lorraine nói.
 
@@ -82,7 +82,7 @@ Lorraine không theo tôn giáo nào cả, nhưng xem ra cô vẫn giữ lòng t
 
 "Chuyện đó để lúc nào về lại Maalt rồi tính cũng được. Ít ra chuyến đi này cũng không uổng công. Chúng ta đã biết thêm về chiếc mặt nạ của anh, lại còn biết là có thể nhờ Thần Giám Định xem giúp nữa."
 
-"Tôi cứ thấy vụ đó mông lung thế nào ấy. Chỉ sợ mò tới ngôi đền đó xong, hỏi đám giám định viên chẳng ra được tích sự gì rồi lại về tay không."
+"Tôi cứ thấy vụ đó đáng ngờ thế nào ấy. Chỉ sợ mò tới ngôi đền đó xong, hỏi các giám định viên chẳng ra được thông tin gì rồi lại về tay không."
 
 Thần Giám Định cai quản giá trị và việc thẩm định vật phẩm, chủ yếu được giới thương nhân và quý tộc thờ phụng. Mọi tư tế của Thần Giám Định đều là những giám định viên lành nghề, nên lúc nào cũng có khách tìm đến nhờ định giá tài sản. Bản thân tôi chưa từng đặt chân đến đó, nhưng nghe qua thì đúng là nơi lý tưởng để tìm hiểu về chiếc mặt nạ của mình.
 
@@ -92,16 +92,16 @@ Nếu có gì đáng ngại thì chỉ là nguy cơ bại lộ chân tướng c�
 
 ◆◇◆◇◆
 
-Chúng tôi quyết định gác chuyện này lại, đợi về Maalt rồi tính sau. Mục tiêu sẽ là tìm đến đền thờ của Thần Giám Định. Ngặt nỗi tinh linh kia dặn phải đến tận ngôi đền chính. Ở Vương Quốc Yaaran cũng có một ngôi đền nhánh, nhưng nghe bảo thế là chưa đủ. Tôi cũng lờ mờ hiểu được lý do. Đền miếu và thần điện vốn là nơi tiếp cận gần nhất với thế giới của thần linh và tinh linh, trong đó các ngôi đền chính là cánh cửa dễ dàng nhất để họ bước sang thế giới của chúng ta. Thế nhưng suốt chiều dài lịch sử, trừ Viro ra thì hầu như chưa từng ghi nhận trường hợp thần linh nào giáng thế. Viro hiện hình trước mặt chúng tôi cứ nhẹ tênh như không, làm tôi suýt tưởng quy tắc xoay quanh việc này lỏng lẻo lắm. Nhưng nó có bảo làm vậy tốn không ít sức lực, nên chắc chỉ tại cái giọng điệu xuề xòa của nó đánh lừa cảm giác thôi, chứ thực chất nó cũng phải đáp ứng những điều kiện ngặt nghèo lắm mới xuất hiện được. Tôi đoán đại khái là vậy, và Thần Giám Định cũng chỉ có thể giáng lâm xuống ngôi đền chính của ngài mà thôi. Viro gần với một tinh linh thông thường hoặc một vị tiểu thần hơn, chứ Thần Giám Định lại là một vị thần vô cùng quyền năng, đã được thờ phụng từ thời cổ đại. Cứ thử nghĩ đến những bậc quyền cao chức trọng trong xã hội loài người mà xem, chưa vượt qua đủ tầng rào cản thì đời nào được gặp mặt họ. Nào là phải đúng nơi, đúng lúc, đúng số người, rồi đủ thứ thủ tục khác nữa. Nếu bên thần linh cũng vận hành như thế thì chuyện tôi buộc phải cất công tìm đến tận ngôi đền chính của ngài cũng chẳng có gì khó hiểu.
+Chúng tôi quyết định gác chuyện này lại, đợi về Maalt rồi tính sau. Mục tiêu sẽ là tìm đến đền thờ của Thần Giám Định. Ngặt nỗi tinh linh kia dặn phải đến tận ngôi đền chính. Ở Vương Quốc Yaaran cũng có một ngôi đền nhánh, nhưng nghe bảo thế là chưa đủ. Tôi cũng lờ mờ hiểu được lý do. Đền miếu và thần điện vốn là nơi tiếp cận gần nhất với thế giới của thần linh và tinh linh, trong đó các ngôi đền chính là nơi dễ dàng nhất để họ bước sang thế giới của chúng ta. Thế nhưng suốt chiều dài lịch sử, trừ Viro ra thì hầu như chưa từng ghi nhận trường hợp thần linh nào đến thế giới này. Viro hiện hình trước mặt chúng tôi cứ tự nhiên như không, làm tôi tưởng quy tắc xoay quanh việc này lỏng lẻo đến bất ngờ. Nhưng nó có bảo làm vậy tốn không ít sức lực, nên chắc chỉ tại cái giọng điệu xuề xòa của nó thế thôi, chứ thực chất nó cũng phải đáp ứng những điều kiện ngặt nghèo lắm mới đến được. Tôi đoán đại khái là vậy, và Thần Giám Định cũng chỉ có thể đến ngôi đền chính của ngài mà thôi. Viro gần với một tinh linh thông thường hoặc một vị tiểu thần hơn, chứ Thần Giám Định lại là một vị thần rất có vị thế, đã được thờ phụng từ thời cổ đại. Cứ thử nghĩ đến những bậc quyền cao chức trọng trong xã hội loài người mà xem, chưa vượt qua đủ tầng rào cản thì đời nào được gặp mặt họ. Nào là phải đúng nơi, đúng lúc, đúng số người, rồi đủ thứ điều kiện khác nữa. Nếu bên thần linh cũng vậy thì tôi có thể hiểu vì sao mình phải cất công tìm đến tận ngôi đền chính của ngài.
 
-Khổ nỗi ngôi đền đó lại nằm ở nước khác. Chúng tôi sẽ phải khăn gói lên đường làm một chuyến đi xa. Chừng nào tôi còn vướng việc dạy học cho Alize và tìm Hoa Long Huyết cho Laura thì chưa thể dứt ra được. Nhưng thôi, chuyện đó cứ để lúc nào về lại Maalt rồi bàn tiếp.
+Khổ nỗi ngôi đền đó lại nằm ở nước khác. Chúng tôi sẽ phải khăn gói lên đường làm một chuyến đi xa. Chừng nào tôi còn phải dạy học cho Alize và tìm Hoa Long Huyết cho Laura thì chuyện đó sẽ là cả một vấn đề. Nhưng thôi, cứ để lúc nào về lại rồi bàn tiếp.
 
 "Thôi, dù sao việc ở đây thế là xong xuôi rồi," Lorraine nói. "Giờ chỉ còn qua thăm sư phụ của anh nữa thôi. Cơ mà mặt trời lặn mất rồi. Có nên đi không nhỉ?"
 
-Hẳn cô đang nói đến bà Gharb. Tôi quên khuấy mất là bà có dặn chúng tôi ghé qua. Chẳng biết bà có chuyện gì quan trọng muốn dặn dò hay chỉ muốn ngồi hàn huyên sau ngần ấy năm xa cách. Trong làng, bà là người bí ẩn nhất, nên tôi chịu chẳng đoán nổi bà đang tính toán gì trong đầu. Biết đâu bà lại có những lý do mà tôi chưa từng nghĩ tới. Nghĩ cũng hơi rợn, nhưng đời nào tôi dám phớt lờ lời mời của bà. Dù sao bà cũng là một trong những người đặt nền móng cho các kỹ năng mạo hiểm giả của tôi. Làm học trò thì phải biết nghe lời thầy chứ.
+Hẳn cô đang nói đến bà Gharb. Tôi quên khuấy mất là bà có mời chúng tôi qua. Chẳng biết bà có chuyện gì cụ thể muốn nói hay chỉ muốn ngồi hàn huyên sau ngần ấy năm xa cách. Trong làng, bà là người bí ẩn nhất, nên tôi chịu chẳng đoán nổi bà đang nghĩ gì trong đầu. Biết đâu bà lại có những lý do mà tôi chưa từng nghĩ tới. Nghĩ cũng hơi rợn, nhưng đời nào tôi dám phớt lờ lời mời của bà. Dù sao bà cũng là một trong những người đặt nền móng cho các kỹ năng mạo hiểm giả của tôi. Làm học trò thì phải biết trọng thầy chứ.
 
-Có điều giờ giấc lúc này hơi bất tiện. Mặt trời đã khuất núi. Khéo bà lại tưởng chúng tôi sẽ ghé qua từ hồi chiều. Ở làng quê làm gì có đèn ma pháp như trên Maalt, nên tầm này ngoài trời đã tối đen như mực. Dân làng ai nấy đều về nhà ăn tối rồi lên giường đi ngủ luôn để sáng hôm sau còn dậy sớm theo mặt trời. Nếp sống ở đây khác hẳn trên thành phố. Chiếu theo giờ giấc ở Maalt thì ghé thăm nhà người ta vào giờ này chẳng khác nào đi gõ cửa lúc nửa đêm, hơi thiếu ý tứ.
+Có điều giờ giấc lúc này hơi bất tiện. Mặt trời đã khuất núi. Khéo bà lại nghĩ chúng tôi sẽ ghé qua từ hồi chiều. Ở làng quê làm gì có đèn ma pháp như trên Maalt, nên tầm này đã là ban đêm thật sự rồi. Dân làng ai nấy đều về nhà ăn tối rồi lên giường đi ngủ luôn để sáng hôm sau còn dậy sớm theo mặt trời. Nếp sống ở đây khác hẳn trên thành phố. Chiếu theo giờ giấc ở Maalt thì ghé thăm nhà người ta vào giờ này chẳng khác nào đi gõ cửa sau nửa đêm, hơi thiếu ý tứ.
 
 Tôi thoáng chút ngập ngừng, nhưng rồi vẫn quyết định đi. "Cứ qua đó đi. Nếu bà bảo mai hãy quay lại thì mình về rồi mai qua."
 
-Thế là hai đứa tôi rảo bước về phía nhà bà Gharb.
+Thế là hai đứa tôi quyết định lên đường tới nhà bà Gharb.

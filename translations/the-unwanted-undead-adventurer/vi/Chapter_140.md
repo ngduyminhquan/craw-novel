@@ -16,11 +16,11 @@ Giật mình, tôi dáo dác nhìn quanh tìm xem tiếng kêu phát ra từ đ�
 
 Jinlin lắc đầu. "Làm gì có chuyện đấy! Rõ ràng tớ nghe thấy mà!"
 
-Tiếng kêu ấy quả thực rất to và rõ, mà dù có là trò đùa đi nữa thì ắt hẳn nó cũng phải phát ra từ đâu đó. Hai đứa lùng sục khắp nơi, một lúc sau thì cái giọng kia có vẻ hết chịu nổi, bèn bảo hai đứa ngước lên. Tôi còn chẳng nhận ra nãy giờ hai đứa chưa hề nhìn lên, cơ mà con người vốn hiếm khi để ý đến những gì ở trên đầu mình.
+Tiếng kêu ấy quả thực rất to và rõ, mà dù có là trò đùa đi nữa thì chắc chắn nó cũng phải phát ra từ đâu đó. Hai đứa lùng sục khắp nơi, một lúc sau thì cái giọng kia có vẻ hết chịu nổi, bèn bảo hai đứa ngước lên. Tôi còn chẳng nhận ra nãy giờ hai đứa chưa hề nhìn lên, cơ mà con người vốn hiếm khi để ý đến những gì ở trên đầu mình.
 
-Hai đứa làm theo lời chỉ dẫn thì thấy một cành cây dài vươn ra. Ở đầu cành, vạt áo của một người tí hon bị móc vào, cả người cứ thế đung đưa giữa không trung. Bảo là tí hon, chứ ý tôi không phải đứa trẻ con đâu nhé. Người đó chỉ cao chừng mười lăm phân, trông hệt như một món đồ chơi.
+Hai đứa làm theo lời chỉ dẫn thì thấy một cành cây dài vươn ra. Ở đầu cành, vạt áo của một người tí hon bị móc vào, cả người cứ thế đung đưa giữa không trung. Bảo là tí hon, chứ ý tôi không phải đứa trẻ con đâu nhé. Người đó chỉ cao chừng mười lăm phân, trông gần như một món đồ chơi.
 
-Tôi trố mắt kinh ngạc, nhưng Jinlin thì không. Cô bé biết ngay mình đang nhìn thấy gì. "Rentt! Nàng tiên đấy! Mẹ tớ bảo họ chẳng mấy khi chịu xuất hiện trước mặt con người đâu!" cô bé hào hứng reo lên.
+Tôi sững người kinh ngạc, nhưng Jinlin thì không. Cô bé biết ngay mình đang nhìn thấy gì. "Rentt! Nàng tiên đấy! Mẹ tớ bảo họ chẳng mấy khi chịu xuất hiện trước mặt con người đâu!" cô bé hào hứng reo lên.
 
 Tôi thì chẳng hào hứng nổi như vậy. "Sao tụi mình không cứu người ta đi? Trông như không tự gỡ ra được kìa."
 
@@ -28,7 +28,7 @@ Tôi thì chẳng hào hứng nổi như vậy. "Sao tụi mình không cứu ng
 
 "Bộ trên đời này không có gì làm anh hào hứng được à? Hồi năm tuổi mà gặp được nàng tiên thì tôi cũng sướng rơn như Jinlin thôi. Như một đứa trẻ bình thường ấy," Lorraine nói.
 
-"Thì ít ra tôi cũng có hào hứng một chút mà, nhưng trông nàng tiên lúc đó khổ sở lắm. Ý tôi là, người ta cứ hét ầm lên suốt từ nãy đến giờ, nên tôi thấy mình lo thế là biết nghĩ đấy chứ," tôi nói. Đó chẳng phải tôi chống chế đâu, là sự thật đấy.
+"Thì ít ra tôi cũng có hào hứng một chút mà, nhưng trông nàng tiên lúc đó khổ sở lắm. Ý tôi là, người ta cứ hét ầm lên suốt từ nãy đến giờ, nên tôi thấy mình hành xử thế là biết nghĩ đấy chứ," tôi nói. Đó chẳng phải tôi chống chế đâu, là sự thật đấy.
 
 "Chà, nghe anh nói thế thì tôi cũng hiểu được phần nào rồi."
 
@@ -38,7 +38,7 @@ Tôi thì chẳng hào hứng nổi như vậy. "Sao tụi mình không cứu ng
 
 "Ừ nhỉ, phải cứu người ta chứ! Nhưng làm cách nào bây giờ?" Jinlin nói.
 
-May mà hồi ấy Jinlin và tôi đều là trẻ con nên bụng dạ thật thà, thực lòng muốn cứu người ta. Ngặt nỗi nàng tiên lại mắc trên cành của một cái cây rất cao. Tầm với của hai đứa con nít thì chịu rồi, mà ngay cả người lớn có khi cũng thấy khó. Dù vậy, người cao lớn hơn thì cơ hội với tới vẫn nhiều hơn, nên tôi mới bảo:
+May mà hồi ấy Jinlin và tôi đều là trẻ con nên thật lòng muốn cứu người ta. Ngặt nỗi nàng tiên lại mắc trên cành của một cái cây rất cao. Tầm với của hai đứa con nít thì chịu rồi, mà ngay cả người lớn có khi cũng thấy khó. Dù vậy, người cao lớn hơn thì cơ hội với tới vẫn nhiều hơn, nên tôi mới nêu ý kiến.
 
 "Đi gọi người lớn đi," tôi bảo. "Có khi họ với tới đấy." Đó có vẻ là cách tốt nhất lúc bấy giờ.
 
@@ -76,17 +76,17 @@ Cành cây gãy rắc một tiếng.
 
 Ngay lúc sắp rơi xuống, Jinlin nắm chặt lấy nàng tiên và ôm sát vào ngực. Chắc cô bé đang cố bảo vệ người ta. Bình thường các nàng tiên đều bay được, nhưng nàng tiên này chẳng còn chút sức lực nào để bay nữa.
 
-Ngay trước khi Jinlin chạm đất, tôi đã kịp lao tới ngay bên dưới. Nhưng hồi đó tôi còn nhỏ quá, không thể đỡ cô bé thật gọn gàng được. Dù vậy, ít nhất tôi cũng giảm bớt được lực va đập của cú ngã. Cả người cô bé rơi đè nặng lên hai tay và ngực tôi. Không trụ vững nổi, tôi ngã vật ra đất. Tiếng cành cây rơi chạm đất nghe êm đến bất ngờ, nhưng nó vốn nhẹ tới mức gãy dưới sức nặng của một đứa trẻ, nên có lẽ thế cũng là điều dễ hiểu.
+Ngay trước khi Jinlin chạm đất, tôi đã kịp lao tới đứng ngay bên dưới. Nhưng hồi đó tôi còn nhỏ quá, không thể đỡ cô bé thật đẹp mắt được. Dù vậy, ít nhất tôi cũng giảm bớt được lực va đập của cú ngã. Cả người cô bé rơi đè nặng lên hai tay và ngực tôi. Không trụ vững nổi, tôi ngã vật ra đất. Tiếng cành cây rơi chạm đất nghe êm đến bất ngờ, nhưng nó vốn nhẹ tới mức gãy dưới sức nặng của một đứa trẻ, nên có lẽ thế cũng là điều dễ hiểu.
 
-Jinlin rên lên đau đớn khi đang nằm đè trên người tôi.
+Jinlin rên lên đau đớn khi nằm đè trên người tôi.
 
 "Jinlin, cậu có sao không?" tôi hỏi, cơn đau nhức nhối chạy dọc khắp người.
 
 "Ừm, cũng không đau lắm đâu," cô bé đáp.
 
-Khi nhìn kỹ lại, tôi thấy cô bé có vẻ không có vết thương nào nghiêm trọng. Lúc ấy tôi mới biết mình đã quyết định đúng. Tiếp đó, tôi tự nhìn lại bản thân, thấy mình cũng chẳng bị thương gì nặng. Chỉ có vài vết trầy xước và bầm tím, chẳng tệ hơn những vết từng bị khi chạy nhảy quanh làng trước đây.
+Khi nhìn kỹ lại, tôi thấy cô bé có vẻ không bị thương nặng ở đâu. Lúc ấy tôi mới biết mình đã quyết định đúng. Tiếp đó, tôi tự nhìn lại bản thân, thấy mình cũng chẳng bị thương gì nặng. Chỉ có vài vết trầy xước và bầm tím, chẳng tệ hơn những vết từng bị khi chạy nhảy quanh làng trước đây.
 
-"Từ giờ đừng bao giờ làm trò nguy hiểm như thế nữa đấy," tôi nói. Có lẽ tôi nên quát mắng cô bé, nhưng hồi đó tôi không có khả năng làm việc ấy. Đây là cách duy nhất tôi có thể bày tỏ cảm xúc của mình. Chắc hẳn vẻ mặt tôi lúc ấy trông buồn bã lắm. Trong lòng thì giận dữ vô cùng, nhưng tôi vốn chẳng phải kiểu người hay để lộ cơn giận ra ngoài.
+"Từ giờ đừng bao giờ làm trò nguy hiểm như thế nữa đấy," tôi nói. Có lẽ tôi nên quát mắng cô bé, nhưng hồi đó tôi không có khả năng làm việc ấy. Đây là cách duy nhất tôi có thể bày tỏ cảm xúc của mình. Chắc hẳn vẻ mặt tôi lúc ấy trông thảm thương lắm. Trong lòng thì giận dữ vô cùng, nhưng tôi vốn chẳng phải kiểu người hay để lộ cơn giận ra ngoài.
 
 "Ừm, tớ biết rồi. Tớ xin lỗi," Jinlin đáp.
 
@@ -146,7 +146,7 @@ Sau đó, bà còn tiếp tục mắng hai đứa một hồi lâu nữa.
 
 Từ trên giường ở quán trọ, Jinlin lẩm bẩm, "Tớ sẽ không bao giờ làm chuyện như thế nữa đâu."
 
-Cả đoàn chúng tôi thuê hai phòng. Cha mẹ tôi ở một phòng, còn bà Pravda, Jinlin và tôi ở phòng kia. Bà Pravda đã ngủ say từ trước, có lẽ vì mệt lả sau cơn giận. Ít nhất thì đến cuối cùng, bà cũng mừng vì hai đứa được an toàn và ôm chầm lấy cả hai. Cha mẹ tôi cũng mắng hai đứa, nhưng tôi nhận ra lúc hai đứa về tới nơi thì họ đã quá mệt rồi, nên chỉ nhắc nhở ngắn gọn chứ không giáo huấn dài dòng. Tôi biết việc hai đứa làm là sai, nên thế cũng phải thôi. Có điều bà Pravda đáng sợ thật, và chắc đó là lý do khiến Jinlin hối hận.
+Cả đoàn chúng tôi ở hai phòng. Cha mẹ tôi ở một phòng, còn bà Pravda, Jinlin và tôi ở phòng kia. Bà Pravda đã ngủ say từ trước, có lẽ vì mệt lả sau cơn giận. Ít nhất thì đến cuối cùng, bà cũng mừng vì hai đứa được an toàn và ôm chầm lấy cả hai. Cha mẹ tôi cũng mắng hai đứa, nhưng tôi nhận ra lúc hai đứa về tới nơi thì họ đã quá mệt rồi, nên chỉ nhắc nhở ngắn gọn chứ không rầy la dài dòng. Tôi biết việc hai đứa làm là sai, nên thế cũng ổn thôi. Có điều bà Pravda đáng sợ thật, và chắc đó là lý do khiến Jinlin hối hận.
 
 "Tớ nghĩ thế là khôn ngoan đấy," tôi nói. "Đừng làm mấy trò nguy hiểm nữa."
 

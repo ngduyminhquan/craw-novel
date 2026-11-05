@@ -12,9 +12,9 @@ Chắc hẳn anh đang nói tới Ingo, nhưng lúc trước Rentt vẫn gọi �
 
 Có lẽ đó là lý do Ingo không hề đả động gì tới chuyện đây là nghĩa trang. Nếu ông nói trước, hẳn Lorraine đã ngại không tới. Nhưng nếu đúng như lời Rentt nói thì việc phải ra đây tìm anh là chuyện cơm bữa, cô cũng chẳng có lý do gì để thấy áy náy. Nghĩ vậy, Lorraine quyết định nán lại và ngồi xuống bên cạnh.
 
-"Với lại, đã cất công về đây rồi thì cô cũng nên cùng tôi viếng cha mẹ một chuyến chứ," Rentt nói tiếp. "Cô là người bạn thân nhất của tôi ở ngoài làng mà. Tôi tin cha mẹ cũng muốn gặp cô lắm."
+"Với lại, đã cất công về đây rồi thì cô cũng nên cùng tôi viếng cha mẹ một chuyến chứ," Rentt nói tiếp. "Cô là người bạn thân nhất của tôi ở ngoài làng mà. Chắc chắn cha mẹ tôi sẽ mừng lắm khi được gặp cô."
 
-"Thế à. Vậy thì tôi xin phép nhé," Lorraine nói rồi quỳ trước những tấm bia đá, chắp hai tay cầu nguyện. "Cháu chào hai bác, cha mẹ của Rentt. Cháu tên là Lorraine Vivie, làm bạn với con trai hai bác suốt mười năm qua rồi." Cô giới thiệu bản thân rồi kể về những kỷ niệm hai người từng trải qua ở Maalt. "Sau này Rentt và cháu vẫn sẽ còn gắn bó với nhau nhiều lắm. Cháu cầu mong hai bác trên trời dõi theo phù hộ cho chúng cháu," cô khép lại lời nguyện cầu.
+"Thế à. Vậy thì tôi xin phép nhé," Lorraine nói rồi quỳ trước những tấm bia đá, chắp hai tay cầu nguyện. "Cháu chào hai bác, cha mẹ của Rentt. Cháu tên là Lorraine Vivie, làm bạn với con trai hai bác suốt mười năm qua rồi." Cô giới thiệu bản thân rồi kể về những kỷ niệm hai người từng trải qua ở Maalt. "Sau này Rentt và cháu vẫn sẽ còn gặp nhau nhiều lắm. Cháu cầu mong hai bác trên trời dõi theo phù hộ cho chúng cháu," cô khép lại lời nguyện cầu.
 
 ![](images/ch139-01.webp)
 
@@ -36,15 +36,15 @@ Có lẽ đó là lý do Ingo không hề đả động gì tới chuyện đây
 
 "Ừ, đúng thế thật," Rentt đáp, giọng thản nhiên hơn nhiều so với dự đoán của Lorraine.
 
-"Hồi đó cha mẹ tôi sang làng bên để bán đặc sản của làng. Thật lòng mà nói thì đen đủi thôi. Bình thường mọi người sẽ bán cho một thương nhân lữ hành để ông ấy tự chở sang bên đó, ngặt nỗi đợt ấy ông ta lại tới muộn. Mùa đông sắp tràn về, cả làng đang rất cần tiền sắm nhu yếu phẩm. Thế là cha mẹ tôi, tôi, cùng mẹ và con gái trưởng làng mới cùng nhau sang ngôi làng bên cạnh."
+"Hồi đó cha mẹ tôi sang làng bên để bán đặc sản của làng. Thật lòng mà nói thì đen đủi thôi. Bình thường mọi người sẽ bán cho một thương nhân lữ hành để ông ấy tự chở sang bên đó, ngặt nỗi đợt ấy ông ta lại tới muộn. Mùa đông sắp đến, cả làng đang rất cần tiền sắm nhu yếu phẩm. Thế là cha mẹ tôi, tôi, cùng mẹ và con gái trưởng làng mới cùng nhau sang ngôi làng bên cạnh."
 
 ◆◇◆◇◆
 
-"Tên cha mẹ tôi khắc ngay trên bia mộ này đây. Cha tôi là Locusta, còn mẹ là Melissa. Ông Locusta có gương mặt phong trần và vóc người vạm vỡ. Bản thân tôi chưa từng thấy mình giống ông, nhưng cha mẹ nuôi vẫn bảo tôi có đôi mắt của ông ấy. Còn về vóc dáng thì tôi thừa hưởng từ mẹ nhiều hơn, cơ mà mẹ tôi vừa đẹp lại vừa có tiếng được nhiều người mến mộ. Dù cha mẹ tôi đã cưới nhau một thời gian, khối người đàn ông vẫn nửa đùa nửa thật ngỏ lời hỏi cưới bà. Dĩ nhiên là mẹ tôi từ chối hết.
+"Tên cha mẹ tôi khắc ngay trên bia mộ này đây. Cha tôi là Locusta, còn mẹ là Melissa. Ông Locusta có gương mặt phong trần và vóc người vạm vỡ. Bản thân tôi chưa từng thấy mình giống ông, nhưng cha mẹ nuôi vẫn bảo tôi có đôi mắt của ông ấy. Còn về vóc dáng thì tôi giống mẹ nhiều hơn, chỉ khác là mẹ tôi vừa đẹp lại vừa được nhiều người mến mộ. Dù cha mẹ tôi đã cưới nhau một thời gian, khối người đàn ông vẫn nửa đùa nửa thật ngỏ lời hỏi cưới bà. Dĩ nhiên là mẹ tôi từ chối hết.
 
-"À phải rồi, còn có mẹ của trưởng làng, tức là bà nội nuôi của tôi nữa. Bà tên là Pravda, trông khá giống bà lão làm thuốc mà tôi từng kể. Hai người là chị em ruột nên cũng dễ hiểu thôi. Bà lão làm thuốc mà mặt thon hơn một chút với bớt vẻ dữ dằn đi nhiều thì trông y hệt bà Pravda luôn. Cơ mà tả thế chắc cô cũng chẳng hình dung được gì. Tối nay ở bữa tiệc không thấy bà ấy đâu, nhưng mai chúng ta qua gặp bà là cô sẽ hiểu ý tôi ngay. Ai mới gặp Gharb cũng nghĩ bà là một bà lão cay nghiệt, mà tiếp xúc với bà một dạo thì thấy đúng là chẳng sai chút nào. Hầu hết lũ trẻ trong làng đều sợ bà ấy. Thỉnh thoảng bà cũng tốt bụng đến bất ngờ đấy, thôi nhưng tạm gác chuyện bà ấy lại đã.
+"À phải rồi, còn có mẹ của trưởng làng, tức là bà nội nuôi của tôi nữa. Bà tên là Pravda, trông khá giống bà lão làm thuốc mà tôi từng kể. Hai người là chị em ruột nên cũng dễ hiểu thôi. Bà lão làm thuốc mà mặt thon hơn một chút với bớt vẻ độc địa đi nhiều thì trông y hệt bà Pravda luôn. Cơ mà tả thế chắc cô cũng chẳng hình dung được gì. Tối nay ở bữa tiệc không thấy bà ấy đâu, nhưng mai chúng ta qua gặp bà là cô sẽ hiểu ý tôi ngay. Ai mới gặp bà Gharb cũng nghĩ bà là một bà lão cay nghiệt, mà tiếp xúc với bà một dạo thì thấy đúng là chẳng sai chút nào. Hầu hết lũ trẻ trong làng đều sợ bà ấy. Thỉnh thoảng bà cũng tốt bụng đến bất ngờ đấy, thôi nhưng tạm gác chuyện bà ấy lại đã.
 
-"Chúng tôi đưa một bà cụ lớn tuổi như vậy đi cùng chỉ vì bà Pravda giữ vai trò đại diện cho gia đình trưởng làng. Con gái trưởng làng đi theo để xem bà nội mình làm việc, với lại cô bé đi cũng vì có tôi đi cùng. Hai đứa chúng tôi vốn là bạn thân từ nhỏ. Nói đúng hơn thì hai đứa coi như đã được hứa hôn từ bé. Cha mẹ tôi lớn lên cùng cha mẹ cô bé, thân nhau cả đời, ai cũng muốn hai đứa lớn lên cưới nhau. Tôi hoàn toàn có thể từ chối, nhưng hồi ấy mới năm tuổi nên tôi chẳng nghĩ ngợi gì nhiều. Cơ mà tôi cũng thích cô bé thật. Có lẽ lớn lên tôi cũng sẽ cân nhắc chuyện đó, chỉ tiếc là giờ đây, tôi chỉ biết tự hỏi mọi chuyện sẽ ra sao nếu điều đó thành sự thật.
+"Chúng tôi đưa một bà cụ lớn tuổi như vậy đi cùng chỉ vì bà Pravda giữ vai trò đại diện cho gia đình trưởng làng. Con gái trưởng làng đi theo để xem bà nội mình làm việc, với lại cô bé đi cũng vì có tôi đi cùng. Hai đứa chúng tôi vốn là bạn thân từ nhỏ. Mà có thể nói là hai đứa coi như đã có hôn ước từ bé cũng được. Cha mẹ tôi lớn lên cùng cha mẹ cô bé, thân nhau cả đời, ai cũng muốn hai đứa lớn lên cưới nhau. Tôi hoàn toàn có thể từ chối, nhưng hồi ấy mới năm tuổi nên tôi chẳng nghĩ ngợi gì nhiều. Cơ mà tôi cũng quý cô bé thật. Có lẽ lớn lên tôi cũng sẽ cân nhắc chuyện đó, chỉ tiếc là giờ đây, tôi chỉ biết tự hỏi mọi chuyện sẽ ra sao nếu không có biến cố ấy.
 
 "Dù sao thì đoàn chúng tôi gồm những người như thế đấy. Lúc ấy tôi cứ chắc mẩm đây sẽ là một chuyến đi thú vị. Điểm đến là ngôi làng gần làng tôi nhất, nên xét về khoảng cách thì chẳng biết gọi là 'chuyến đi' có đúng không nữa. Dù vậy, ngựa ở Hathara chẳng con nào đủ dai sức để kéo xe đường dài, nên đi cũng mất hai ba ngày. Còn về kết cục sau cùng của chuyến đi đó, tôi nghĩ cô cũng đoán ra rồi."
 
@@ -82,7 +82,7 @@ Có điều hồi ấy tôi chỉ là một đứa trẻ nhỏ, chẳng biết g
 
 Theo trí nhớ của tôi thì tính cách tôi hồi đó cũng mềm yếu như con gái. Chẳng biết từ đó đến giờ điều ấy có thay đổi nhiều hay không, nhưng tôi không thể tưởng tượng nổi có ai nhìn vào tôi lúc đó mà đoán được sau này tôi sẽ trở thành một mạo hiểm giả.
 
-"Bất ngờ thật đấy. Chà, gương mặt anh có thể từng mang nét con gái, nhưng bao năm làm mạo hiểm giả sẽ tôi luyện người đàn ông trở nên rắn rỏi, nên tôi nghĩ chuyện đó cũng đã thay đổi nhiều rồi," Lorraine nói.
+"Bất ngờ thật đấy. Chà, gương mặt anh có thể từng mang nét con gái, nhưng bao năm làm mạo hiểm giả sẽ rèn cho người đàn ông trở nên rắn rỏi, nên chắc chuyện đó cũng đã thay đổi rồi," Lorraine nói.
 
 "Thế tức là mặt tôi giờ cũng toát lên cái chất của mạo hiểm giả rồi chứ gì?" tôi nửa đùa nửa thật hỏi.
 
@@ -94,7 +94,7 @@ Theo trí nhớ của tôi thì tính cách tôi hồi đó cũng mềm yếu nh
 
 "Ồ, cháu định đánh bại quái vật giúp mọi người đấy à, Jinlin?" bà Pravda hỏi giữa lúc hai đứa tôi đang trò chuyện.
 
-"Vâng ạ!" Jinlin reo lên. "Hôm nọ cháu chơi trò mạo hiểm giả với Jal và Dol. Hai cậu ấy đóng vai Goblin, còn cháu làm mạo hiểm giả. Cháu đã hạ gục sạch bách hai cậu ấy đấy ạ!"
+"Vâng ạ!" Jinlin reo lên. "Hôm nọ cháu chơi trò mạo hiểm giả với Jal và Dol. Hai cậu ấy đóng vai Goblin, còn cháu làm mạo hiểm giả. Cháu đánh gục sạch bách hai cậu ấy luôn đấy ạ!"
 
 "Có thật thế không, Rentt?" bà Pravda quay sang hỏi tôi.
 
@@ -102,7 +102,7 @@ Theo trí nhớ của tôi thì tính cách tôi hồi đó cũng mềm yếu nh
 
 Bà Pravda nghiêng đầu. "Bà thấy hai đứa đổi vai cho nhau mới đúng chứ," bà lẩm bẩm.
 
-Nghĩ lại thì bà nói đúng thật. Có điều hai đứa đều được nhận vai mình thích, nên chẳng ai phàn nàn gì—ngoại trừ Jal với Dol, hai đứa suốt ngày chỉ biết kêu ca. Hai cậu ấy toàn thua oẳn tù tì nên làm gì có quyền lựa chọn. Nước ra của hai cậu ấy dễ đoán vô cùng, thế nên Jinlin lúc nào cũng thắng. Cô bé thông minh một cách lạ lùng. Còn tôi thì cứ làm theo lời Jinlin dặn, thành thử cũng toàn thắng theo. Tính ra hai đứa tôi hơi thông đồng bắt chẹt hai cậu ấy một chút, nhưng mà vui lắm.
+Nghĩ lại thì bà nói đúng thật. Có điều hai đứa đều được nhận vai mình thích, nên chẳng ai phàn nàn gì—ngoại trừ Jal với Dol, hai đứa suốt ngày chỉ biết kêu ca. Hai cậu ấy toàn thua oẳn tù tì nên làm gì có quyền chọn. Nước ra của hai cậu ấy dễ đoán vô cùng, thế nên Jinlin lúc nào cũng thắng. Cô bé thông minh một cách kỳ lạ. Còn tôi thì cứ làm theo lời Jinlin dặn, thành ra cũng toàn thắng theo. Tính ra hai đứa tôi hơi thông đồng bắt chẹt hai cậu ấy một chút, nhưng mà vui lắm.
 
 "Jinlin à, quái vật trong trò đóng giả thì dễ đánh đấy, chứ quái vật thật sự đáng sợ lắm cháu ạ," bà Pravda nghiêm giọng dặn. "Trong chuyến đi này mà lỡ bị tấn công, cháu phải hứa với bà là bỏ chạy ngay đấy nhé."
 
@@ -112,17 +112,17 @@ Jinlin vốn chẳng mấy khi chịu ngoan ngoãn nghe lời, nhưng lần này
 
 "Rentt, bà cũng định dặn cháu câu đó, nhưng bà tin chắc cháu sẽ tự biết đường mà chạy thôi."
 
-"Dạ vâng, dĩ nhiên rồi ạ. Chẳng có gì quan trọng hơn mạng sống cả."
+"Dạ vâng, dĩ nhiên rồi ạ. Chẳng có gì quý hơn mạng sống cả."
 
 "Tốt lắm. Nhưng là con trai mà cháu chẳng có chút chí tiến thủ nào cả. Jinlin, cháu thích thằng bé ở điểm gì thế?"
 
 "Cháu thích vì cậu ấy dũng cảm ạ," Jinlin đáp. Hồi đó thật khó mà nhìn ra chút dũng cảm nào ở tôi, nên bà Pravda nghe xong chỉ biết ngơ ngác.
 
-Một lúc sau, bà nhìn tôi chằm chằm. "Bà chẳng thấy vậy chút nào," bà nói. "Ở thằng bé có điểm thú vị thật đấy, nhưng bảo dũng cảm á? Thôi thì cháu đã nói vậy thì biết vậy. Nào, sắp đến giờ khởi hành rồi. Lên xe đi hai đứa."
+Một lúc sau, bà nhìn tôi chằm chằm. "Bà chẳng thấy vậy chút nào," bà nói. "Ở thằng bé có nét thú vị thật đấy, nhưng bảo dũng cảm á? Thôi thì cháu đã nói vậy thì biết vậy. Nào, sắp đến giờ khởi hành rồi. Lên xe đi hai đứa."
 
 ◆◇◆◇◆
 
-Từ lúc khởi hành vào sáng hôm đó, cỗ xe chạy một mạch không nghỉ cho tới tận đích. Jinlin say xe đến mức mặt mày tái mét, trông bơ phờ ốm yếu, hỏi tôi xem đã đến nơi chưa. Vừa nãy còn mạnh miệng khoe khoang là thế, ai ngờ cô bé lại có những điểm yếu chẳng ai ngờ tới. Tôi cũng lần đầu đi xe ngựa, vậy mà suốt cả chặng đường dài lại chẳng hề hấn gì. Cho đến tận bây giờ tôi vẫn có thể ngồi đọc sách trên xe mà không bị say. Nhìn vào tính cách hai đứa thì ai cũng nghĩ phản ứng phải ngược lại mới đúng, cơ mà cơ thể con người đúng là khó lường thật.
+Từ lúc khởi hành vào sáng hôm đó, cỗ xe chạy một mạch không nghỉ cho tới tận đích. Jinlin say xe đến mức mặt mày xanh mét, trông mệt lả đi, hỏi tôi xem đã đến nơi chưa. Vừa nãy còn mạnh miệng khoe khoang là thế, ai ngờ cô bé lại yếu ở những khoản chẳng ai ngờ tới. Tôi cũng lần đầu đi xe ngựa, vậy mà suốt cả chặng đường dài lại chẳng hề hấn gì. Cho đến tận bây giờ tôi vẫn có thể ngồi đọc sách trên xe mà không bị say. Nhìn vào tính cách hai đứa thì ai cũng nghĩ phản ứng phải ngược lại mới đúng, cơ mà cơ thể con người đúng là khó hiểu thật.
 
 "Ừ, tới nơi rồi đấy Jinlin. Cậu có sao không? Khó chịu quá thì cứ nôn ra đi," tôi bảo.
 
@@ -150,16 +150,16 @@ Mặt Jinlin lộ vẻ không bằng lòng. "Nhưng tụi mình đã cất công
 
 Jinlin là con gái duy nhất của trưởng làng, nên một ngày nào đó cô bé sẽ buộc phải gánh vác trọng trách dẫn dắt ngôi làng. Giờ ngẫm lại, việc nuôi dạy cô bé chắc hẳn rất khắt khe. Mới năm tuổi đầu mà cô bé đã biết khá nhiều thứ: đọc viết được ở mức cơ bản, lại nắm rõ mọi đặc sản của làng, cách làm ra chúng, và nhà nào làm ra thứ gì. Những điều đó chỉ có thể đến từ sự giáo dục nghiêm khắc. Tôi dám cá cô bé không ít lần ghen tị khi thấy lũ trẻ đồng trang lứa chạy nhảy nô đùa trong khi mình phải ngồi học. Thảo nào mỗi lần có dịp được vui chơi là cô bé lại tỏ ra bướng bỉnh nổi loạn đến thế.
 
-Hồi đó còn nhỏ nên tôi không nghĩ ngợi nhiều về chuyện ấy, nhưng ít nhiều tôi cũng lờ mờ hiểu được những nỗi bức bối trong lòng Jinlin, đâm ra chẳng nỡ thẳng thừng từ chối cô bé. Cuối cùng tôi đành đi theo Jinlin dạo quanh thị trấn. Nghĩ lại mới thấy, đáng lẽ hồi ấy tôi phải giữ vững lập trường của mình.
+Hồi đó còn nhỏ nên tôi không nghĩ ngợi nhiều về chuyện ấy, nhưng ít nhiều tôi cũng lờ mờ hiểu được những nỗi giằng xé trong lòng Jinlin, đâm ra chẳng nỡ thẳng thừng từ chối cô bé. Cuối cùng tôi đành đi theo chiều ý Jinlin dạo quanh thị trấn. Nghĩ lại mới thấy, đáng lẽ hồi ấy tôi phải giữ vững lập trường của mình.
 
 "Bây giờ anh chắc chắn đã khác xưa rồi, nhưng nghe chừng từ trước đến nay anh luôn có cái dớp bị lôi vào rắc rối nhỉ," Lorraine nói.
 
-Tôi gật đầu đồng tình với cô. "Hồi đấy tôi chẳng bao giờ tự mình quyết định điều gì. Tính tôi thụ động và dễ bảo, còn Jinlin thì hoàn toàn ngược lại, nên mọi chuyện thường diễn ra như thế. Còn bây giờ, nói đúng hơn thì chính tôi mới là người tự rước rắc rối vào thân."
+Tôi gật đầu đồng tình với cô. "Hồi đấy tôi chẳng bao giờ tự mình quyết định điều gì. Tính tôi thụ động và hay nhường nhịn, còn Jinlin thì hoàn toàn ngược lại, nên mọi chuyện thường diễn ra như thế. Còn bây giờ, nói đúng hơn thì chính tôi mới là người tự rước rắc rối vào thân."
 
-Chuyện tôi đụng độ Rồng hay chạm trán Nive Maris có lẽ đã chẳng bao giờ xảy ra nếu không vì tính tò mò kỳ lạ của tôi. Dù vậy, với cái vận rủi của mình, không chừng tôi cũng sẽ vướng vào một rắc rối nào khác mà thôi.
+Chuyện tôi đụng độ Rồng hay chạm trán Nive Maris có lẽ đã chẳng bao giờ xảy ra nếu không vì tính tò mò kỳ lạ của tôi. Dù vậy, với cái vận rủi của mình, không chừng tôi cũng sẽ vướng vào một tai họa nào khác mà thôi.
 
 "Thôi nào, mạo hiểm giả nào mà chẳng có lúc gặp hiểm nguy. Nghề này vốn dĩ là thế mà," Lorraine nói, cố an ủi tôi.
 
-Đúng là nguy hiểm luôn đi liền với nghề mạo hiểm giả. Nếu không chấp nhận được điều đó thì tức là đã chọn nhầm nghề. Muốn sống sót cần phải cẩn trọng, và tôi nghĩ mình đã đủ thận trọng rồi. Nếu cẩn trọng thế mà vẫn mất mạng thì tôi cũng chẳng thể phàn nàn gì được. Mạo hiểm giả vốn sống trên lằn ranh sinh tử, bởi thế người đời mới coi họ như những kẻ liều mạng bất hảo.
+Đúng là nguy hiểm luôn đi liền với nghề mạo hiểm giả. Nếu không chấp nhận được điều đó thì tức là đã chọn nhầm nghề. Muốn sống sót cần phải cẩn trọng, và tôi nghĩ mình đã đủ thận trọng rồi. Nếu thế mà vẫn mất mạng thì tôi cũng chẳng thể trách ai được. Mạo hiểm giả vốn sống bên bờ vực hiểm nguy, bởi thế người đời mới coi họ như những kẻ thô lỗ liều mạng.
 
-"Nhưng mà, hồi đó tôi đã làm mạo hiểm giả đâu. Đáng lẽ tôi phải ngăn Jinlin lại mới phải."
+"Nhưng mà, hồi đó tôi đã làm mạo hiểm giả đâu. Đáng lẽ tôi phải ngăn Jinlin lại."

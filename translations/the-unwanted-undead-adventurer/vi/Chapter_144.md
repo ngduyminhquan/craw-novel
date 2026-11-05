@@ -54,7 +54,7 @@ Tôi kéo cô vào việc này có phần hơi ép uổng, nhưng nhìn lại ng
 
 ◆◇◆◇◆
 
-"Dọn dẹp xong xuôi trông cũng ra dáng hẳn đấy chứ," Lorraine hài lòng nói. Mặt cô lấm lem bụi bẩn, nhưng nét mặt lại rạng rỡ dưới ánh chiều tà. Tôi hiểu cảm giác của cô. Mất khá nhiều thời gian thật, nhưng làm cho nơi này đẹp đẽ hơn thế này thì cũng bõ công.
+"Dọn dẹp xong xuôi trông cũng đẹp thật đấy," Lorraine hài lòng nói. Mặt cô lấm lem bụi bẩn, nhưng nét mặt lại rạng rỡ dưới ánh chiều tà. Tôi hiểu cảm giác của cô. Mất khá nhiều thời gian thật, nhưng làm cho ngôi đền này đẹp đẽ hơn thế này thì cũng bõ công.
 
 Tôi cũng chẳng khá hơn, nhưng nhờ có mặt nạ với áo choàng chắn bớt nên người ngợm đỡ bẩn hơn hẳn. Chiếc áo choàng bí ẩn tôi nhặt được trong mê cung hồi ấy tốt đến khó tin. Nó không chỉ kháng lửa kháng độc, mà dường như còn chống bám bẩn nữa.
 
@@ -62,25 +62,25 @@ Sau đó, Lorraine dùng ma thuật tẩy sạch bụi bẩn trên người. Ch�
 
 "Nếu ban nãy cô niệm luôn Linpio lên ngôi đền thì có phải nhàn bao nhiêu rồi không," tôi nói thẳng tuột.
 
-"Làm thế thì còn ý nghĩa gì nữa?" cô vặn lại. "Anh bảo muốn dọn dẹp để tạ ơn cơ mà. Tạ ơn thì phải tự tay mình mó vào chứ, đền thờ đạo nào chẳng thế. Vả lại Linpio cũng đâu có thần thánh đến mức ấy. Gặp mấy vết bẩn bám chặt quá là nó chịu chết ngay."
+"Làm thế thì còn ý nghĩa gì nữa?" cô vặn lại. "Anh bảo muốn dọn dẹp để tạ ơn cơ mà. Tạ ơn thì phải tự tay mình làm chứ, đền thờ đạo nào chẳng thế. Vả lại Linpio cũng đâu có tiện lợi như người ta tưởng. Gặp mấy vết bẩn bám chặt quá là nó chịu chết ngay."
 
 Lorraine làm mẫu bằng cách niệm Linpio lên một cành củi gần đó. Mấy chỗ xỉn màu vẫn y nguyên, nhìn chẳng sạch hơn rửa bằng nước là bao. Nó giống như bụi bặm, máu hay mực dính trên da thì tẩy được, chứ tì vết hay tàn nhang thì chịu, nỗi niềm muôn thuở của các thiếu nữ. Đến cả vảy vết thương nó cũng chẳng bóc đi được. Mà mực thì cũng phải chưa khô hẳn mới tẩy nổi.
 
-Ma thuật nhìn thì tiện, nhưng chẳng hẳn là thế. Tất nhiên vẫn có thể dùng phép để tẩy bẩn bề mặt, nhưng lý do lớn nhất để không làm vậy chính là điều Lorraine vừa nói. Đã muốn tạ ơn thì tự tay làm lấy vẫn tốt hơn. Ngay cả tín đồ của Giáo Hội Đông Thiên, dù có người là ma pháp sư, cứ cuối mỗi mùa họ vẫn tự tay lau dọn bàn thờ. Linpio thuộc loại Ma Thuật Sinh Hoạt mà ngay cả tôi cũng dùng được, dùng ma thuật rõ ràng vừa nhanh vừa nhàn. Cơ mà phàm đã muốn tỏ lòng biết ơn thì phải chịu khó bỏ chút mồ hôi công sức.
+Ma thuật nhìn thì tiện, nhưng chẳng hẳn là thế. Tất nhiên vẫn có thể dùng phép để tẩy bẩn bề mặt, nhưng lý do lớn nhất để không làm vậy chính là điều Lorraine vừa nói. Đã muốn tạ ơn thì tự tay làm lấy vẫn tốt hơn. Ngay cả tín đồ của Giáo Hội Đông Thiên, dù có người là ma pháp sư, cứ cuối mỗi mùa họ vẫn tự tay lau dọn bàn thờ. Linpio thuộc loại Ma Thuật Sinh Hoạt mà ngay cả tôi cũng dùng được, dùng ma thuật rõ ràng vừa nhanh vừa nhàn. Cơ mà theo lẽ thường, đã muốn tỏ lòng biết ơn thì phải chịu khó bỏ chút mồ hôi công sức.
 
-"Dù gì thì cũng bõ công sức. Giờ nhìn vào khéo chẳng ai nhận ra ngôi đền ban nãy nữa," tôi ngắm lại một lượt rồi bảo. Mọi vết bẩn đã được kỳ cọ sạch trơn, dây leo cũng bị phạt sạch.
+"Dù gì thì cũng bõ công sức. Giờ nhìn vào khéo chẳng ai nhận ra đây là cùng một ngôi đền nữa," tôi ngắm lại một lượt rồi bảo. Mọi vết bẩn đã được kỳ cọ sạch trơn, dây leo cũng bị phạt sạch.
 
-Bao nhiêu công dọn dẹp sửa sang sẽ đổ sông đổ biển nếu cỏ dại lại mọc um lên trong lúc tôi đi vắng, thế nên hai đứa tiện tay làm cỏ cả khu đất xung quanh luôn. Chỉ chừa lại mấy cây non, vì trông chúng có vẻ mọc vươn ra xa đền. Tôi chẳng rõ nơi này thờ ai, nhưng xét theo tính chất Thần Lực của mình thì chắc là một thần tinh linh thuộc hệ thực vật. Nếu thế thật thì tôi cũng không muốn phát quang quá nhiều cây cối làm gì. Cơ mà đám dây leo mọc bám đầy đền thì đành phải dẹp đi vì sự tiện lợi của con người. Nghĩ cũng hơi áy náy, nhưng chịu thôi, chẳng có cách nào khác.
+Bao nhiêu công dọn dẹp sửa sang sẽ đổ sông đổ biển nếu mọi thứ lại đâu vào đấy trong lúc tôi đi vắng, thế nên hai đứa tiện tay làm cỏ cả khu đất xung quanh luôn. Chỉ chừa lại mấy cây non, vì trông chúng có vẻ mọc vươn ra xa đền. Tôi chẳng rõ nơi này thờ ai, nhưng xét theo tính chất Thần Lực của mình thì chắc là một thần tinh linh thuộc hệ thực vật. Nếu thế thật thì tôi cũng không muốn nhổ bỏ quá nhiều cây cối làm gì. Cơ mà đám dây leo mọc bám đầy đền thì đành phải dẹp đi vì sự tiện lợi của con người. Nghĩ cũng hơi áy náy, nhưng chịu thôi, chẳng có cách nào khác.
 
-"Nhìn tổng thể cả ngôi đền thế này, anh làm khéo tay thật đấy. Anh đúng là có khiếu đấy chứ, Rentt," Lorraine nói.
+"Nhìn tổng thể cả ngôi đền thế này, anh làm khéo tay thật đấy. Anh đúng là có tài đấy chứ, Rentt," Lorraine nói.
 
-Tự nhận thì hơi kiêu, nhưng tay nghề tu sửa này rõ ràng hơn hẳn dân nghiệp dư làm chơi bời. Dù sao tôi cũng từng theo học một người thợ lành nghề, nên chuyện đó có gì lạ đâu. Tôi không dám vỗ ngực nhận mình giỏi giang, nhưng tay nghề chí ít cũng ngang tầm một người thợ học việc.
+Thừa nhận là mình đồng tình thì hơi tự cao, nhưng công việc bảo trì này rõ ràng tốt hơn hẳn những gì một người không chuyên có thể làm. Dù sao tôi cũng từng theo học một người thợ lành nghề, nên chuyện đó có gì lạ đâu. Tôi không dám nhận mình đạt mức thượng thừa, nhưng tay nghề thủ công của tôi cũng sánh ngang một người thợ học việc.
 
-"Tôi học được nhiều thứ trong làng lắm, có cảm ơn thì cảm ơn mọi người ấy. Ai biết được kỹ năng nào rồi sẽ có lúc cần đến chứ. Giờ thì cầu nguyện thôi nhỉ?"
+"Tôi học được nhiều thứ trong làng lắm, nên phải cảm ơn mọi người ấy. Ai biết được kỹ năng nào rồi sẽ có lúc cần đến chứ. Giờ thì cầu nguyện thôi nhỉ?"
 
-Đó vốn là mục đích chính của chuyến đi này—để cảm tạ sự che chở của vị đã ban phước cho tôi. Còn chuyện muốn biết đó rốt cuộc là ai, chắc đi hỏi mấy vị cao niên trong làng hoặc tra cứu sách cổ sẽ sáng tỏ đôi phần. Tôi không trông mong gì nhiều, nhưng thử chút cũng chẳng mất gì.
+Đó vốn là mục đích chính của chuyến đi này—để bày tỏ lòng biết ơn với vị đã ban phước cho tôi. Còn chuyện muốn tìm hiểu đó rốt cuộc là ai, chắc đi hỏi mấy vị cao niên trong làng hoặc tra cứu sách cổ sẽ sáng tỏ đôi phần. Tôi không trông mong gì nhiều, nhưng thử chút cũng hay.
 
-Tôi quỳ trước đền, chắp hai tay lại. Lorraine cũng làm theo. Cô chẳng cần phải làm thế, nhưng chắc là hùa theo cho vui. Biết đâu hôm nay lại thuyết phục được cô cải đạo theo tôn giáo của ngôi đền này thì sao. Nhưng một thần tinh linh không có lấy một tín đồ thì chắc chẳng đủ điều kiện để coi là một tôn giáo riêng, dẫu nghĩ thế thì hơi bất kính thật.
+Trước tiên, tôi quỳ trước đền, chắp hai tay lại. Lorraine cũng làm theo. Cô chẳng cần phải làm thế, nhưng chắc là hùa theo cho vui. Biết đâu hôm nay lại thuyết phục được cô cải đạo theo tôn giáo của ngôi đền này thì sao. Nhưng một thần tinh linh không có lấy một tín đồ thì chắc chẳng đủ điều kiện để coi là một tôn giáo riêng, dẫu nói thế có lẽ hơi bất kính thật.
 
 Cầu nguyện chưa được bao lâu, tôi bỗng nghe loáng thoáng như có tiếng ai nói. "Lorraine, cô nghe thấy gì không?" tôi ngơ ngác hỏi.
 
@@ -174,4 +174,4 @@ Bức tượng như đọc được suy nghĩ của tôi. "Đền này có ai th
 
 "Đó là Thần Lực."
 
-"Thần Lực á? Cái này ấy hả?" Lorraine hỏi. Cô sững sờ nhìn luồng ánh sáng đang phát ra từ người mình. Trông cô chẳng giống một tín đồ đang run lên vì sung sướng khi được thần linh ban phước chút nào. Nói đúng hơn, trông cô hệt như một học giả điên cuồng đang hí hửng vì vớ được đề tài mới để nghiên cứu. Ở cô ấy chẳng có lấy một chút đức tin nào, nên tôi cứ băn khoăn không biết vị tinh linh này chọn thế có đúng không nữa. Tuy vậy, trông nó vẫn có vẻ hài lòng lắm.
+"Thần Lực á? Cái này ấy hả?" Lorraine hỏi. Cô sững sờ nhìn luồng ánh sáng đang phát ra từ người mình. Trông cô chẳng giống một tín đồ đang run lên vì sung sướng khi được thần linh ban phước chút nào. Nói đúng hơn, trông cô hệt như một nhà nghiên cứu điên rồ đang mừng rỡ vì vớ được đề tài mới để tìm hiểu. Ở cô ấy chẳng có lấy một chút đức tin nào, nên tôi cứ băn khoăn không biết vị tinh linh này chọn thế có đúng không nữa. Tuy vậy, trông nó vẫn có vẻ hài lòng lắm.
