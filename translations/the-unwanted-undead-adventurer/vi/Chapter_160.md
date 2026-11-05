@@ -1,99 +1,99 @@
 # Chương 160: Tập 7 Chương 2 - Tiếp Viện (4)
 
-"Nếu căn phòng này cách âm thì làm sao ông ấy nghe được tiếng chuông chứ?" tôi hỏi trong lúc nhìn vào chiếc chuông đặt ở giữa bàn. Nó được trang trí bằng các biểu tượng tôn giáo.
+"Nếu phòng này cách âm thì làm sao ông ấy nghe được tiếng chuông nhỉ?" tôi nhìn chiếc chuông đặt giữa bàn rồi hỏi. Trên thân chuông chạm trổ nhiều biểu tượng mang màu sắc tôn giáo.
 
-"Khó mà cảm nhận được, nhưng chiếc chuông này thực chất là một ma cụ chứa lượng Ma Lực mờ nhạt," Lorraine giải thích. "Tôi đoán chiếc chuông này có một bản song hành sẽ rung lên cùng lúc khi nó được rung. Ma pháp cách âm cũng ngăn chặn kha khá Ma Lực, nhưng tôi cho rằng thứ này đã được chế tạo đặc thù có tính đến chuyện đó."
+"Hơi khó cảm nhận, nhưng thực ra chiếc chuông này là một ma cụ mang lượng Ma Lực rất mờ nhạt," Lorraine giải thích. "Tôi đoán nó đi theo cặp, hễ rung chiếc này thì chiếc chuông tương ứng ở bên ngoài cũng kêu theo. Ma pháp cách âm cũng chặn đứng kha khá Ma Lực, nhưng chắc hẳn người ta đã chế tạo riêng để tính trước chuyện đó rồi."
 
-Lời giải thích của cô nghe chừng rất có lý, nhưng đối với một học đồ ma pháp mới chập chững năm đầu như tôi thì thật khó để đưa ra được cùng kết luận ấy. Tôi hầu như chẳng thể phát hiện ra chút Ma Lực nào; đối với tôi thì trông nó cũng giống như một đồ vật bình thường mà thôi. Nó được chế tác rất tinh xảo và làm từ những chất liệu quý giá, nên nói đúng hơn thì tôi lại băn khoăn không biết liệu họ có gặp rắc rối với chuyện bị người ta trộm mất hay không. Nhưng nếu đã là ma cụ thì có lẽ rất khó để trộm. Dẫu sao thì hầu hết những nơi như thế này đều phòng chống trộm cắp bằng một loại ma pháp phát chuông báo động khi người ta rời khỏi khuôn viên. Ngoài kia có hẳn những nhóm ma pháp sư chuyên về mảng đó. Tội phạm phổ biến nhất trên thế giới là trộm cắp, thành ra nhu cầu đối với họ vô cùng cao và nghe đâu họ kiếm tiền nhiều như nước.
+Lời giải thích của cô nghe rất hợp lý, nhưng với một học đồ ma pháp mới học năm đầu như tôi thì khó lòng mà nhìn ra được như vậy. Tôi hầu như chẳng cảm nhận nổi chút Ma Lực nào; trong mắt tôi, nó chẳng khác gì một đồ vật bình thường. Chiếc chuông được chế tác rất tinh xảo từ chất liệu quý giá, nên nói đúng hơn thì tôi còn băn khoăn không biết nơi này có hay bị kẻ gian trộm mất hay không. Cơ mà nếu đã là ma cụ thì chắc cũng khó trộm. Dù sao thì phần lớn những nơi thế này đều phòng trộm bằng ma pháp tự động hú còi báo động ngay khi có kẻ mang đồ ra khỏi khuôn viên. Ngoài kia có hẳn những nhóm ma pháp sư chuyên hành nghề này. Trộm cắp vốn là tội phổ biến nhất trần đời, thành thử những người như họ luôn đắt hàng và nghe đâu kiếm bộn tiền.
 
-"Được rồi, vậy thì chúng ta không cần phải lo vị tư tế không nghe thấy nữa. Giờ chúng ta bàn về bản khế ước được chưa?"
+"Được rồi, thế thì không phải lo vị tư tế không nghe thấy nữa. Giờ chúng ta bàn chuyện khế ước được chưa?"
 
-"Bàn thôi. Augurey, anh đã chuẩn bị sẵn sàng cho việc này chưa?" Lorraine hỏi với giọng đầy vẻ đe dọa.
+"Bàn thôi. Augurey, anh đã chuẩn bị tinh thần cho việc này chưa?" Lorraine cất giọng đầy vẻ đe dọa.
 
-"Chuẩn bị cho cái gì cơ? Tôi đâu nghĩ chuyện này có gì to tát đâu."
+"Chuẩn bị cái gì cơ? Tôi thấy chuyện này có gì to tát lắm đâu."
 
-"Anh sắp biết rất nhiều chuyện đấy. Nếu anh chỉ đồng ý giữ im lặng thì anh chẳng cần phải biết, nhưng bản khế ước này đã thay đổi mọi sự. Nếu chúng ta định viết ra những điều khoản chi tiết, chúng tôi sẽ phải nói cho anh biết mọi thứ."
+"Anh sắp sửa biết rất nhiều điều đấy. Nếu ban nãy anh chỉ gật đầu hứa giữ im lặng thì đã chẳng cần phải biết, nhưng lập khế ước thì câu chuyện lại khác rồi. Một khi định đưa ra những điều khoản chi tiết, chúng tôi buộc phải nói hết mọi chuyện cho anh nghe."
 
-"Ừ, tôi cho là cô nói có lý. Nếu bản khế ước chỉ đơn giản buộc tôi phải giữ im lặng về việc hai người đến vương đô bằng cách nào, rồi lỡ sau này hai người đàng hoàng công khai tới vương đô vào những dịp khác mà tôi vẫn cứ phải ngậm miệng thì tôi sẽ chẳng thể nói được lời nào. Nhưng nếu hai người áp đặt một số giới hạn nhất định, ta có thể quy định cụ thể hơn về những điều tôi không được phép nói ra. Như thế chẳng phải thuận tiện hơn cho hai người sao?"
+"Ừ, tôi thấy cô nói cũng phải. Nếu khế ước chỉ đơn giản buộc tôi phải giữ kín chuyện hai người đến vương đô bằng cách nào, rồi ngộ nhỡ sau này hai người đàng hoàng đến đây công khai vào dịp khác mà tôi vẫn phải ngậm miệng thì chẳng nói năng gì được nữa. Nhưng nếu hai người đặt ra những giới hạn nhất định, ta có thể quy định cụ thể hơn về những điều tôi không được phép tiết lộ. Như thế chẳng phải tiện hơn cho hai người sao?"
 
-"Như thế sẽ tạo gánh nặng lớn cho anh, không phải sao? Chúng ta có thể lập một bản khế ước như vậy, nhưng điều đó sẽ rất gò bó. Nó có thể dẫn tới những hậu quả không lường trước được."
+"Làm thế thì gánh nặng dồn cả lên anh còn gì? Chúng tôi có thể lập khế ước kiểu đó, nhưng nó sẽ gò bó anh lắm. Có khi còn để lại những hậu quả khó lường nữa."
 
-"Có thể là vậy, nhưng nếu ở vào vị trí của hai người, tôi sẽ lập khế ước mà chẳng cần bận tâm đến những hậu quả đó đâu. Hai người trước giờ luôn tốt tính đến mức hiếm thấy đối với mạo hiểm giả. Có thể nói là quá tốt bụng ấy chứ. Nhất là cậu đấy, Rentt."
+"Có thể là vậy, nhưng nếu đổi lại ở vị trí hai người, tôi sẽ cứ thế lập khế ước mà chẳng thèm bận tâm đến mấy hậu quả đó đâu. Mạo hiểm giả mà tốt tính như hai người hiếm lắm đấy. Nói thẳng ra là quá tốt bụng ấy chứ. Nhất là cậu đấy, Rentt."
 
 Câu đó chạm đúng vào chỗ đau của tôi.
 
-"Điều đó có thể đúng với Rentt, nhưng tôi thì không đâu, Augurey."
+"Rentt thì có thể thế thật, nhưng tôi thì không đâu nhé, Augurey."
 
 "Ý cô là sao?"
 
-"Tôi định nói cho anh kha khá chuyện, nhưng nếu anh toan bỏ chạy mà không chịu lập khế ước, tôi sẽ đuổi theo anh xuống tận đáy Địa Ngục và bảo đảm anh không bao giờ dám chống đối tôi nữa. Giờ anh đã bước vào căn phòng này rồi thì anh bắt buộc phải ký bản khế ước này."
+"Tôi định nói cho anh biết kha khá chuyện, nhưng nếu anh toan bỏ chạy mà không chịu lập khế ước, tôi sẽ đuổi theo anh xuống tận đáy Địa Ngục để bảo đảm từ nay về sau anh không bao giờ dám chống đối tôi nữa. Đã bước chân vào căn phòng này rồi thì anh bắt buộc phải ký bản khế ước thôi."
 
-Augurey trông có vẻ hơi bị dọa sợ nhưng đã nhanh chóng lấy lại bình tĩnh. "Đằng nào thì tôi cũng sẽ giữ bí mật thôi. Nhưng tôi thấy cô thật tốt bụng khi báo trước ý định cho tôi hay. Dù sao thì tôi hiểu rồi, tôi đã sẵn sàng; nói chuyện thôi nào. Sau ngần ấy màn rào trước đón sau, hẳn đây phải là một bí mật động trời lắm. Tôi thậm chí còn đang thấy hào hứng rồi đây."
+Augurey có vẻ hơi chột dạ nhưng nhanh chóng gạt đi. "Đằng nào thì tôi cũng sẽ giữ bí mật thôi mà. Cơ mà cô chịu nói trước ý định như thế thì cũng tốt tính chán. Thôi được, tôi hiểu rồi, tôi sẵn sàng rồi; cứ nói đi. Rào trước đón sau đến mức này thì hẳn phải là bí mật lớn lắm đây. Tôi bắt đầu thấy háo hức rồi đấy."
 
-Những điều chúng tôi sắp kể cho Augurey nghe nhìn chung xoay quanh thân phận của tôi. Chúng tôi cần phải bàn bạc với Gharb và Capitan trước khi đả động đến ma pháp trận dịch chuyển, nên đó là một bí mật mà chúng tôi sẽ bỏ qua không nhắc tới. Tùy thuộc vào mức độ chúng tôi tiết lộ cho anh ta, có thể anh ta sẽ đoán ra phần đó, nhưng Lorraine đang nghĩ ra một điều khoản khéo léo cho bản khế ước để buộc anh ta cũng phải giữ kín cả chuyện ấy. Tôi gần như phó thác toàn bộ bản khế ước cho cô. Tôi biết cách viết các điều khoản khế ước đơn giản, nhưng lại hoàn toàn vô dụng khi đụng đến bất cứ thứ gì chi tiết. Dù sao thì tôi đoán Lorraine rất thành thạo việc này nhờ vào công việc nghiên cứu của mình. Có lẽ mọi chuyện rồi sẽ ổn thôi. Còn nếu không ổn, ừ thì, tới đâu hay tới đó vậy.
+Những điều chúng tôi sắp nói cho Augurey nghe chủ yếu xoay quanh thân phận của tôi. Chúng tôi cần hỏi ý kiến bà Gharb và Capitan trước khi đả động đến ma pháp trận dịch chuyển, nên đây là bí mật mà cả hai tạm thời giấu kín. Tùy vào lượng thông tin chúng tôi tiết lộ, có thể anh ta sẽ lờ mờ đoán ra phần đó, nhưng Lorraine đang nghĩ sẵn một điều khoản khôn ngoan để buộc anh ta phải giữ kín như bưng cả chuyện ấy. Tôi gần như phó thác trọn vẹn việc soạn khế ước cho cô. Tôi chỉ biết thảo vài điều khoản đơn giản, chứ đụng đến chi tiết tỉ mỉ thì tôi chịu chết. Có lẽ nhờ công việc học giả mà Lorraine mới sõi mấy khoản này đến thế. Chắc mọi chuyện rồi sẽ ổn thôi. Còn nếu không ổn, ừ thì, chuyện tới đâu tính tới đó vậy.
 
-"Được rồi, tôi đoán mình sẽ bắt đầu trước," tôi nói. "Augurey, anh có biết chuyện tôi từng mất tích một thời gian không?"
+"Được rồi, vậy để tôi bắt đầu trước nhé," tôi nói. "Augurey, anh có biết chuyện tôi từng mất tích một dạo không?"
 
-"Có chứ. Tôi nhớ hình như là ngay trước lúc tôi rời khỏi Maalt. Tôi cứ ngỡ cậu đã chết rồi. Thực ra tôi cũng thấy nhớ cậu đấy. Hồi đó tôi còn định rủ cậu cùng lên vương đô với tôi cơ."
+"Biết chứ. Tôi nhớ hình như là ngay trước lúc tôi rời Maalt. Tôi cứ ngỡ cậu bỏ mạng rồi cơ. Thực ra vắng cậu tôi cũng thấy nhớ đấy. Hồi đó tôi còn định rủ cậu cùng lên vương đô với tôi nữa kìa."
 
-Đây là lần đầu tiên tôi nghe về chuyện đó. "Sao anh lại định làm thế?"
+Giờ tôi mới nghe anh ta nhắc tới chuyện đó. "Sao hồi ấy anh lại định rủ tôi?"
 
-"Cả hai chúng ta đều là mạo hiểm giả Đồng Cấp tác chiến đơn độc, đúng chứ? Nhưng chúng ta đều nuôi chí hướng đến vương đô. Tình cờ tôi lại tìm được một đoàn buôn đang trên đường đến Vistelya không ngại thuê một mạo hiểm giả Đồng Cấp đi lẻ. Khi tôi hỏi liệu có phiền không nếu có thêm một người nữa đi cùng, họ bảo không sao. Nhưng rốt cuộc cậu lại chẳng có ở đó, nên tôi chẳng còn lựa chọn nào khác ngoài việc rời đi mà không có cậu."
+"Hồi đó cả hai ta đều là mạo hiểm giả Đồng Cấp chuyên đi lẻ còn gì? Mà ai cũng nuôi ý định tới vương đô. Tình cờ tôi bắt mối được với một đoàn buôn đang trên đường đến Vistelya, họ không ngại thuê mạo hiểm giả Đồng Cấp tác chiến đơn độc. Lúc tôi hỏi dắt thêm một người nữa đi cùng có sao không, họ bảo chẳng hề gì. Ngặt nỗi rốt cuộc cậu lại bặt vô âm tín, nên tôi đành phải lên đường mà không có cậu."
 
-Tôi đã bỏ lỡ một cơ hội bất ngờ đến từ một nơi không ngờ tới. Việc bị con rồng kia ăn thịt rồi trở thành thế này xét theo một khía cạnh nào đó cũng là một cơ hội tốt, nhưng nếu hồi đó tôi cùng Augurey đến vương đô thì biết đâu chừng mọi chuyện cũng đã rất tuyệt. Có thể sẽ nguy hiểm, nhưng có lẽ việc chiến đấu với những ma vật mạnh hơn trong các mê cung quanh Vistelya sẽ giúp nâng cao năng lực của tôi lên đôi chút. Hoặc có khi là không. Biết đâu chuyện đó chẳng bao giờ thành hiện thực.
+Hóa ra tôi từng bỏ lỡ một cơ hội bất ngờ từ một người không ai ngờ tới. Bị con rồng kia nuốt chửng rồi biến thành thế này kể ra cũng là một bước ngoặt theo cách nào đó, nhưng nếu hồi ấy cùng Augurey lên vương đô thì biết đâu chừng mọi chuyện cũng rất tốt đẹp. Dẫu có thể gặp nhiều rủi ro, nhưng biết đâu việc giao chiến với những quái vật mạnh hơn trong các mê cung quanh Vistelya lại giúp thực lực của tôi nhích thêm đôi chút. Mà cũng có khi chẳng được vậy đâu. Chắc viễn cảnh ấy sẽ chẳng bao giờ thành hiện thực.
 
-"Thật sao?" tôi nói. "Vậy thì chuyện thành ra thế này quả là có chút đáng tiếc. Nhưng dẫu sao anh cũng đã tự mình tới đây và đạt được Ngân Cấp. Điều đó thật sự rất ấn tượng."
+"Thật vậy ư?" tôi nói. "Thế thì chuyện lỡ dở như vậy đúng là đáng tiếc thật. Cơ mà dẫu sao anh cũng đã một thân một mình lên đây rồi leo lên được Ngân Cấp. Đáng nể thật đấy."
 
-"Cảm ơn cậu đã khen, nhưng bản thân cậu dường như cũng tiến bộ vượt bậc đấy thôi. Tôi đã thấy cậu chiến đấu hồi nãy, và nó thật đáng kinh ngạc. Bộ pháp cùng kiếm thuật của cậu vốn dĩ luôn gần như hoàn hảo nên điều đó chẳng hề thay đổi, nhưng trông như thể cậu đã trở nên mạnh mẽ hơn rất nhiều. Tôi nghĩ giờ cậu hoàn toàn có thể dễ dàng vượt qua kỳ thi Ngân Cấp rồi đấy," Augurey chân thành nói. Cả hai chúng tôi đều sống cuộc đời cô độc của những mạo hiểm giả đi lẻ, nên có vẻ anh ta rất mừng khi thấy những nỗ lực bấy lâu của tôi rốt cuộc đã đơm hoa kết trái. Trước đây đôi khi chúng tôi từng tâm sự với nhau và cùng băn khoăn liệu mình có phải làm mạo hiểm giả Đồng Cấp suốt đời hay không. Chúng tôi thấu hiểu cảm xúc của đối phương.
+"Cậu quá khen rồi, cơ mà bản thân cậu dường như cũng tiến bộ vượt bậc đấy thôi. Hồi nãy thấy cậu chiến đấu mà tôi phải kinh ngạc đấy. Bộ pháp với kiếm thuật của cậu xưa nay vốn đã gần như hoàn hảo nên chẳng nói làm gì, nhưng có cảm giác như cậu đã mạnh hơn trước rất nhiều. Tôi nghĩ giờ cậu dư sức vượt qua kỳ thi Ngân Cấp rồi đấy," Augurey chân thành nói. Cả hai chúng tôi đều trải qua cảnh đời thui thủi của những mạo hiểm giả tác chiến đơn độc, nên anh ta có vẻ thật lòng mừng rỡ khi thấy nỗ lực của tôi rốt cuộc cũng gặt hái quả ngọt. Thuở trước, đôi khi hai đứa từng ngồi dốc bầu tâm sự, cùng thở dài tự hỏi liệu mình có phải giậm chân ở Đồng Cấp suốt đời hay không. Nỗi niềm của nhau thế nào, chúng tôi đều thấu hiểu cả.
 
 ◆◇◆◇◆
 
-"Đúng vậy, tôi cũng cảm thấy như thế. Tôi sẽ chẳng thể biết mình có vượt qua được bài kiểm tra Ngân Cấp hay không cho đến khi thực sự tham gia thi, nhưng kỹ năng của tôi quả thực đã tiến bộ. Tuy nhiên, chuyện đó đều có nguyên do cả," tôi nói, nhận thấy đây là thời điểm thích hợp để gợi mở chủ đề ấy.
+"Ừ, tôi cũng thấy vậy. Chưa thi thì chưa biết có đỗ được kỳ kiểm tra Ngân Cấp hay không, nhưng thực lực của tôi đúng là có tiến bộ thật. Có điều, chuyện đó đều có lý do cả đấy," tôi nói, nhận thấy đây là thời điểm thích hợp để gợi mở chủ đề này.
 
-"Nguyên do?" Augurey lặp lại. "Nghe như thể cậu không chỉ đơn thuần là luyện tập cho tới khi tiến bộ hơn nhỉ. Dù sao thì lúc nào cậu cũng luyện tập, nên nếu điều đó có thể giúp cậu mạnh lên thì lẽ ra cậu phải lên Ngân Cấp từ lâu rồi mới phải. Mà ngoài chuyện đó ra thì còn có thể là gì được nữa chứ?"
+"Lý do ư?" Augurey nhắc lại. "Nghe như thể không phải cậu cứ cắm đầu khổ luyện là khá lên được nhỉ. Đằng nào thì xưa nay lúc nào cậu chẳng luyện tập, nếu việc đó giúp cậu mạnh lên thì lẽ ra cậu đã lên Ngân Cấp từ lâu rồi mới phải. Cơ mà ngoài chuyện đó ra thì còn lý do gì khác được nữa chứ?"
 
-Dường như anh ta chẳng thể nghĩ ra được điều gì. Tôi đoán điều đó cũng dễ hiểu thôi. Chẳng có logic thông thường nào lại đưa anh ta đến kết luận rằng vào một ngày nọ tôi đột nhiên biến thành ma vật rồi trở nên mạnh hơn cả. Nhưng tôi bắt buộc phải kể cho anh ta chuyện này. Việc đó có thể tiềm ẩn rủi ro tùy thuộc vào phản ứng của anh ta, nhưng tôi hiểu rõ Augurey qua quãng thời gian chúng tôi gắn bó ở Maalt. Tôi không tin tưởng anh ta nhiều như Lorraine, nhưng anh ta đủ đáng tin cậy.
+Xem chừng anh ta chẳng thể đoán ra nổi. Kể cũng phải thôi. Chẳng người bình thường nào lại suy luận ra được cái kết luận rằng đùng một cái tôi hóa thành quái vật rồi nhờ đó mà mạnh lên cả. Thế nhưng tôi buộc phải nói cho anh ta biết chuyện này. Điều đó có thể tiềm ẩn rủi ro tùy thuộc vào phản ứng của anh ta, nhưng tôi hiểu rõ Augurey qua quãng thời gian quen biết ở Maalt. Dù không tin tưởng anh ta tuyệt đối như Lorraine, nhưng anh ta vẫn đủ độ tin cậy.
 
-"Tôi không muốn nghiêm trọng hóa vấn đề này lên đâu, nên tôi sẽ nói ngắn gọn thôi. Cố đừng quá ngạc nhiên nhé," tôi nói, thầm nghĩ mình nên cảnh báo trước cho anh ta một tiếng.
+"Tôi không muốn làm to chuyện đâu, nên sẽ nói ngắn gọn thôi. Cố đừng có giật mình quá đấy," tôi bảo, thầm nghĩ nên đánh tiếng trước cho anh ta một câu.
 
-"Cậu vừa nghiêm trọng hóa nó lên rồi đấy thôi."
+"Chính cậu đang làm to chuyện lên rồi đấy thôi."
 
-"Này nhé, tôi muốn cho anh thời gian chuẩn bị tâm lý mà."
+"Thì tôi muốn cho anh thời gian chuẩn bị tâm lý mà."
 
-"Được rồi, mau nói đi xem nào." Augurey nhún vai như thể anh ta chỉ coi lời cảnh báo của tôi như một câu đùa để khuấy động bầu không khí. Nếu anh ta đã có thái độ như vậy, tôi quyết định sẽ nói huỵch toẹt ra một cách mộc mạc và thẳng thắn.
+"Rồi rồi, mau nói đi xem nào." Augurey nhún vai như thể chỉ xem lời cảnh báo của tôi là câu đùa khuấy động không khí. Đã thế thì tôi quyết định cứ huỵch toẹt ra một cách ngắn gọn, mộc mạc nhất.
 
-"Tôi đã biến thành ma vật."
+"Tôi biến thành quái vật rồi."
 
-"Cái gì cơ?" Augurey thốt lên, các khớp cổ kêu răng rắc khi anh ta nghiêng đầu. Sau một thoáng im lặng, những lời của tôi dường như mới ngấm vào đầu anh ta. "Khoan đã, cái gì? Ma vật á? Ai cơ?" anh ta hỏi, thế là tôi tự chỉ vào mình. Lorraine cũng chỉ tay vào tôi. Toàn bộ cảnh tượng lúc đó hẳn trông ngớ ngẩn buồn cười lắm. Dù sao thì tôi cũng không muốn tỏ ra quá nghiêm trọng. Bầu không khí như thế này khiến tôi dễ dàng nói ra những điều mình muốn hơn.
+"Cái gì cơ?" Augurey thốt lên, ngoẹo đầu sang một bên đến mức khớp cổ kêu rắc một tiếng. Sau một thoáng sững sờ, dường như câu chữ của tôi mới ngấm vào đầu anh ta. "Khoan đã, gì cơ? Quái vật á? Ai cơ?" anh ta hỏi, thế là tôi tự trỏ vào mình. Lorraine cũng giơ tay chỉ vào tôi. Toàn bộ cảnh tượng lúc đó hẳn trông ngớ ngẩn buồn cười lắm. Cơ mà đằng nào tôi cũng không muốn làm vẻ quá nghiêm trọng. Bầu không khí thế này lại giúp tôi dễ nói ra những điều mình muốn hơn.
 
-"Chuyện đó xảy ra từ khi nào?"
+"Xảy ra từ lúc nào thế?"
 
-"Hồi người ta cho rằng tôi đã mất tích ấy. Tôi gặp vận xui đụng độ một con rồng trong mê cung. Chớp mắt một cái, tôi nhận ra mình đã biến thành một Khô Lâu."
+"Hồi người ta xác nhận tôi mất tích ấy. Tôi xui xẻo đụng độ một con rồng trong mê cung. Đến khi tỉnh lại thì thấy mình đã biến thành Khô Lâu rồi."
 
-Augurey trấn tĩnh lại rồi bật cười. "Ồ, hóa ra đây là một trò đùa. Tôi đang nhìn cậu ngay lúc này đây, và cậu rõ ràng là con người. Do chiếc mặt nạ đó nên tôi chỉ nhìn thấy nửa trên khuôn mặt cậu, nhưng cậu có nhãn cầu, trán và lông mày cơ mà, đúng không? Có Khô Lâu nào lại có những thứ đó chứ?"
+Augurey lấy lại bình tĩnh rồi bật cười. "À, hóa ra là nói đùa. Tôi đang nhìn rành rành cậu trước mặt đây, rõ ràng là người còn gì. Tuy vướng cái mặt nạ nên tôi chỉ thấy nửa trên khuôn mặt cậu, nhưng cậu vẫn có mắt, trán với lông mày đàng hoàng đúng không? Làm gì có Khô Lâu nào lại có mấy thứ đó chứ?"
 
-"Tôi không còn là Khô Lâu nữa; tôi là Ma Cà Rồng. Tôi trông chẳng khác gì con người cả. Anh nói đúng là hiện tại tôi trông ít nhiều giống như trước khi biến đổi, nhưng tôi không phải là người. Nhìn này," tôi nói rồi cào vào cánh tay mình cho đến khi rướm máu. Vết thương lập tức liền miệng. Điều này là bất khả thi đối với bất kỳ con người nào. Ma pháp trị liệu hay Thần Lực phần lớn có thể tạo ra kết quả tương tự, nhưng rõ ràng là tôi chẳng hề dùng đến thứ nào trong hai thứ đó. Điều đó đồng nghĩa với việc đây hẳn là nhờ vào khả năng tự hồi phục tự nhiên, và chỉ có một số ít sinh vật mới có thể hồi phục nhanh đến mức này.
+"Giờ tôi không còn là Khô Lâu nữa; tôi là Ma Cà Rồng rồi. Bề ngoài tôi chẳng khác gì người bình thường cả. Anh nói đúng ở chỗ trông tôi bây giờ ít nhiều giống hệt hồi chưa biến đổi, nhưng tôi không phải con người đâu. Nhìn này," tôi nói rồi cào mạnh vào cánh tay mình cho đến khi rướm máu. Vết thương lập tức khép miệng lành lặn. Con người tuyệt đối không thể làm được điều này. Ma pháp trị liệu hay Thần Lực cũng có thể tạo ra hiệu quả tương tự, nhưng rõ ràng là tôi chẳng hề dùng đến thứ nào trong số đó. Tức là vết thương khép lại hoàn toàn nhờ vào khả năng tái tạo tự nhiên, mà trên đời này hiếm có sinh vật nào hồi phục được nhanh đến mức ấy.
 
-"Chà chà, tôi cứ tự hỏi mình sắp phải nghe chuyện gì, nhưng tôi chắc chắn không hề ngờ tới chuyện này đâu đấy," Augurey ôm đầu nói như thể rốt cuộc anh ta cũng phải đối diện với sự thật rằng tôi đã biến thành ma vật.
+"Chà chà, nãy giờ tôi cứ băn khoăn không biết mình sắp được nghe chuyện gì, chứ đúng là nằm mơ cũng không ngờ tới cái này," Augurey ôm đầu nói, dường như rốt cuộc cũng buộc phải chấp nhận sự thật rằng tôi đã biến thành quái vật.
 
-"Anh có thấy sợ không? Hay ghê tởm?" tôi hỏi.
+"Anh thấy sợ à? Hay thấy ghê tởm?" tôi hỏi.
 
-"Nói thật thì chẳng vướng cái nào cả. Có lẽ mọi chuyện sẽ khác nếu tôi có sự căm ghét đặc biệt nào đó đối với ma vật, nhưng tôi thì không. Ma vật nhìn chung là kẻ thù, nhưng đó là vì tôi là mạo hiểm giả và tiêu diệt chúng là công việc của tôi. Bạn tôi giờ đây có thể là một ma vật, nhưng liệu tôi có nhìn người bạn đó bằng ánh mắt thù hận hay không, thì câu trả lời của tôi là không."
+"Thực lòng thì chẳng cái nào trong số đó cả. Nếu tôi có thâm thù ghét bỏ gì đặc biệt với quái vật thì có khi đã khác, nhưng tôi đâu có vậy. Quái vật đúng là kẻ thù chung thật, song đó là vì tôi làm mạo hiểm giả và săn diệt chúng là công việc kiếm sống của tôi. Bạn tôi giờ đây có thể là một con quái vật, nhưng nếu hỏi liệu tôi có nhìn người bạn đó bằng ánh mắt thù hằn hay không, thì câu trả lời là không."
 
-Tôi từng sợ điều ngược lại, nhưng đâu phải tôi có thể tùy tiện hỏi han về quá khứ của anh ta được. Kể cả tôi có hỏi thì anh ta cũng sẽ chẳng trả lời. Cho dù anh ta có trả lời thì cũng có thể là nói dối. Người ta phải cực kỳ thân thiết với một mạo hiểm giả thì mới có được loại thông tin ấy, mà ngay cả khi đó thì may ra mới biết được đôi chút. Tôi quen biết Augurey đã lâu nên chúng tôi hoàn toàn có thể có được mối quan hệ như thế, nhưng sự thật là chúng tôi chưa bao giờ bàn luận về quá khứ của nhau. Đó là sự tôn trọng mà chúng tôi dành cho đối phương.
+Tôi từng lo anh ta sẽ nghĩ khác, nhưng đời nào tôi lại đi gặng hỏi về quá khứ của người ta. Mà dẫu tôi có hỏi thì chưa chắc anh ta đã chịu hé môi. Kể cả có trả lời, khéo cũng chỉ là nói dối. Phải cực kỳ thân thiết với một mạo hiểm giả thì người ta mới hay biết những chuyện như vậy, mà có khi thân đến mấy cũng chưa chắc đã tỏ tường. Tôi quen biết Augurey đã lâu nên mối quan hệ giữa hai đứa thừa sức đạt đến độ ấy, nhưng sự thật là chúng tôi chưa bao giờ bàn luận về chuyện xưa của nhau. Đó là sự tôn trọng tối thiểu mà chúng tôi dành cho đối phương.
 
-Thật may là anh ta dường như không có bất kỳ ký ức tồi tệ nào liên quan đến ma vật. Bản thân tôi thì thực ra có đấy, nhưng tôi cũng không dám bảo rằng mình căm ghét mọi loài ma vật. Tôi chỉ căm ghét con sói bạc kia thôi, còn những loài khác thì xét trên phương diện nào đó tôi lại thấy chúng khá thú vị. Rất nhiều loài sở hữu tập tính và lối sống lôi cuốn, bao gồm cả Goblin. Cũng giống như con người vậy, có kẻ tốt và cũng có kẻ xấu. Phần lớn bọn chúng quả thực vừa thấy người là tấn công ngay, nhưng những ma vật có trí tuệ lại là một ngoại lệ.
+Thật may là anh ta dường như không có ký ức cay đắng nào dính dáng đến quái vật. Bản thân tôi thì thực ra có đấy, nhưng bảo căm ghét tất thảy quái vật thì không hẳn. Tôi chỉ thù ghét mỗi con sói bạc kia thôi, chứ những loài khác xét ở góc độ nào đó tôi lại thấy khá thú vị. Rất nhiều loài sở hữu tập tính và lối sống lôi cuốn, kể cả Goblin. Cũng giống như con người vậy, quái vật cũng có kẻ tốt kẻ xấu. Đa phần bọn chúng quả thực cứ chạm mặt người là tấn công ngay, nhưng những quái vật có trí khôn thì lại là ngoại lệ.
 
-"Nghe anh nói vậy thì tốt quá," tôi nói. "Dù thân xác tôi đã biến thành ma vật, nhưng tôi chưa từng từ bỏ nhân tính con người của mình, và sẽ thật đau lòng nếu một người bạn cũ lại nhìn nhận tôi theo cách đó."
+"Nghe anh nói vậy thì tôi nhẹ cả người," tôi bảo. "Dù thân xác tôi đã hóa thành quái vật, nhưng tâm hồn tôi vẫn là con người, và sẽ thật đau lòng nếu một người bạn cũ lại nhìn nhận tôi bằng ánh mắt như thế."
 
-"Ừ, tôi tin là vậy. Cơ mà Ma Cà Rồng ấy à? Vậy cậu có hút máu không?" Augurey tò mò hỏi vì hứng thú cá nhân.
+"Ừ, chuyện đó thì hiển nhiên rồi. Cơ mà Ma Cà Rồng thật đấy à? Thế cậu có hút máu không?" Augurey hiếu kỳ hỏi theo sở thích cá nhân.
 
-"Thỉnh thoảng. Không phải tôi không ăn được thức ăn bình thường, nhưng máu thì có vị ngon hơn."
+"Thỉnh thoảng thôi. Không phải tôi không ăn được đồ ăn bình thường, chỉ là thấy máu có vị ngon hơn."
 
-"Đừng nói là cậu đi tấn công các thiếu nữ trẻ đấy nhé. Nếu tôi về Maalt mà thấy các cô gái xinh đẹp không còn nhiều như trước kia nữa thì tôi sẽ nổi điên lên đấy."
+"Đừng bảo là cậu đi rình rập mấy cô thiếu nữ trẻ đấy nhé. Mai mốt tôi về Maalt mà thấy các cô gái xinh đẹp vơi bớt so với hồi trước là tôi nổi giận đấy."
 
-"Tôi đời nào lại làm cái chuyện như thế. Chỉ là Lorraine chia sẻ cho tôi một ít máu của cô ấy thôi. Hoàn toàn tự nguyện."
+"Đời nào tôi lại làm cái trò đó. Chẳng qua là Lorraine cho tôi xin chút máu của cô ấy thôi. Hoàn toàn tự nguyện nhé."
 
-"Tôi cho rằng đó là cách duy nhất để có được máu người một cách hợp pháp. Thế có đủ không? Nếu không đủ, tôi có thể chia sẻ cho cậu một ít máu của tôi. Miễn là cậu đừng uống nhiều tới mức khiến tôi ngất xỉu là được."
+"Tôi đồ rằng đó là cách hợp pháp duy nhất để kiếm được máu người rồi. Từng đó có đủ không? Nếu thiếu, tôi có thể chia sẻ cho cậu chút máu của tôi cũng được. Miễn là cậu đừng uống nhiều tới mức khiến tôi lăn đùng ra ngất là được."
 
-Augurey thực sự dường như chẳng hề thấy khó chịu hay xa lánh trước sự thật vừa được tiết lộ chút nào. Có thể anh ta vẫn chưa hoàn toàn thấm thía hết điều đó. Dù sao thì trông tôi cũng gần như y hệt ngày trước, nên xét từ góc độ thị giác thì tôi chỉ đơn thuần là đang mặc một bộ trang phục có phần khả nghi hơn một chút mà thôi. Miễn là tôi không làm bất cứ điều gì quái dị như một con quái vật, tôi đoán việc đối xử với tôi như thường lệ vẫn là điều tự nhiên nhất.
+Xem chừng Augurey chẳng hề có vẻ gì là ghê sợ hay bài xích trước sự thật vừa được phơi bày. Có lẽ anh ta vẫn chưa hoàn toàn thấm thía hết chuyện này. Dù sao trông tôi bây giờ cũng gần như y hệt ngày trước, đập vào mắt người ta thì tôi cũng chỉ đơn thuần là đang khoác lên mình một bộ đồ có phần đáng ngờ hơn một chút mà thôi. Miễn là tôi không làm chuyện gì quái đản như một con quái vật thực thụ, có lẽ việc đối xử với tôi như trước giờ vốn thế vẫn là điều tự nhiên nhất.
