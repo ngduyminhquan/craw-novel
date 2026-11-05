@@ -2,7 +2,7 @@
 
 Rentt Faina không quay về. Sheila Ibarss, nhân viên Hội Mạo Hiểm Giả Maalt, thấy chuyện này hết sức bất thường.
 
-Dù mới làm việc ở hội được năm năm và vẫn là hậu bối so với các đồng nghiệp, Sheila đã quen biết Rentt từ rất lâu. Rentt chính là mạo hiểm giả đầu tiên cô gặp khi mới vào hội làm việc. Hồi ấy Rentt trẻ hơn bây giờ, một mạo hiểm giả mới hai mươi tuổi, nhưng trước đó anh đã có năm năm trong nghề; vậy mà anh vẫn chỉ là một mạo hiểm giả Hạ Đồng Cấp. Nhìn vào là thấy rõ Rentt không hẳn hợp với công việc này.
+Dù mới làm việc ở Hội được năm năm và vẫn là hậu bối so với các đồng nghiệp, Sheila đã quen biết Rentt từ rất lâu. Rentt chính là mạo hiểm giả đầu tiên cô gặp khi mới vào Hội làm việc. Hồi ấy Rentt trẻ hơn bây giờ, một mạo hiểm giả mới hai mươi tuổi, nhưng trước đó anh đã có năm năm trong nghề; vậy mà anh vẫn chỉ là một mạo hiểm giả Hạ Đồng Cấp. Nhìn vào là thấy rõ Rentt không hẳn hợp với công việc này.
 
 Phần lớn những mạo hiểm giả không trụ nổi đều chấp nhận bỏ nghề sau vài năm. Họ về quê hoặc tìm công việc khác khi nhận ra mình chẳng có tài năng hay năng khiếu gì để làm mạo hiểm giả. Nghe thì có vẻ như vậy, nhưng thật ra chuyện đó chẳng có gì đáng xấu hổ, và không ít mạo hiểm giả đã chọn con đường ấy.
 
@@ -14,25 +14,25 @@ Thế nhưng vào thời điểm đó, Sheila từng rất bất mãn khi phải
 
 Sheila từng thấy hơi chán nản khi công việc đầu tiên của mình lại là khuyên một mạo hiểm giả giải nghệ. Nhưng xem ra rốt cuộc Sheila đã lo hão.
 
-Với Hội Mạo Hiểm Giả Maalt, Rentt dường như được miễn trừ khỏi những cân nhắc ấy. Dù số năm kinh nghiệm cùng việc anh mãi chỉ giậm chân tại chỗ chẳng có tiến triển gì đáng kể đúng là khiến anh thành đối tượng sáng giá để khuyên giải nghệ, nhưng hội lại coi anh là người quá giá trị không thể để mất. Lý do là những hoạt động của Rentt trong lẫn ngoài hội đều mang lại tác động tích cực rõ rệt cho người dân Maalt. Vì vậy, hội quyết định sẽ không thăng cấp cho Rentt, mà trước mắt cứ để anh giữ nguyên như hiện tại.
+Với Hội Mạo Hiểm Giả Maalt, Rentt dường như được miễn trừ khỏi những cân nhắc ấy. Dù số năm kinh nghiệm cùng việc anh mãi chỉ giậm chân tại chỗ chẳng có tiến triển gì đáng kể đúng là khiến anh thành đối tượng sáng giá để khuyên giải nghệ, nhưng Hội lại coi anh là người quá giá trị không thể để mất. Lý do là những hoạt động của Rentt trong lẫn ngoài Hội đều mang lại tác động tích cực rõ rệt cho người dân Maalt. Vì vậy, Hội quyết định dù không thăng cấp cho Rentt, nhưng trước mắt cứ để anh tiếp tục như hiện tại.
 
-Thật ra, đích thân Hội Trưởng Hội Mạo Hiểm Giả Maalt sẽ mời Rentt vào làm nhân viên của hội nếu anh giải nghệ nghề mạo hiểm; giá trị của Rentt đối với hội lớn đến mức đó.
+Thật ra, đích thân Hội Trưởng Hội Mạo Hiểm Giả Maalt sẽ mời Rentt vào làm nhân viên của Hội nếu anh giải nghệ nghề mạo hiểm; giá trị của Rentt đối với Hội lớn đến mức đó.
 
-Trước hết, Rentt đảm đương nhiều việc và gánh vác đủ mọi vai trò trong hội. Không chỉ tinh tường trong việc đánh giá năng khiếu của các mạo hiểm giả mới, anh còn giới thiệu họ vào những tổ đội phù hợp. Anh cũng chỉ dạy cho người mới về các quy tắc, thường thức và kiến thức thực địa cần có để thám hiểm mê cung cho đàng hoàng. Chưa hết, Rentt còn thường xuyên làm hỏng những mưu đồ xấu xa của đám mạo hiểm giả có ý đồ bất chính.
+Trước hết, Rentt đảm đương nhiều việc và gánh vác đủ mọi vai trò trong Hội. Không chỉ tinh tường trong việc đánh giá năng khiếu của các mạo hiểm giả mới, anh còn giới thiệu họ vào những tổ đội phù hợp. Anh cũng chỉ dạy cho người mới về các quy tắc, thường thức và kiến thức thực địa cần có để thám hiểm mê cung cho đàng hoàng. Chưa hết, Rentt còn thường xuyên làm hỏng những mưu đồ xấu xa của đám mạo hiểm giả có ý đồ bất chính.
 
 Nhìn chung, đây đều là những kiến thức cơ bản mà ai cũng có thể chỉ dạy được. Nhưng vì thiếu người thật sự sẵn lòng đứng ra làm những việc đó, sự có mặt của Rentt quả là điều may mắn cho biết bao người mới bước chân vào việc thám hiểm mê cung.
 
-Bình thường, phần lớn những việc này sẽ do người đại diện của hội đảm nhiệm. Thế nhưng Rentt lại làm hầu hết những việc đó mà không lấy một đồng thù lao. Dù thỉnh thoảng hội cũng ký hợp đồng thuê anh làm những việc này, nhưng chuyện đó rất hiếm khi xảy ra. Vậy mà Rentt vẫn luôn vui vẻ làm việc của mình, chẳng một lời than vãn.
+Bình thường, phần lớn những việc này sẽ do người đại diện của Hội đảm nhiệm. Thế nhưng Rentt lại làm hầu hết những việc đó mà không lấy một đồng thù lao. Dù thỉnh thoảng Hội cũng ký hợp đồng thuê anh làm những việc này, nhưng chuyện đó rất hiếm khi xảy ra. Vậy mà Rentt vẫn luôn vui vẻ làm việc của mình, chẳng một lời than vãn.
 
 Thêm vào đó, nhờ công sức của anh, tỷ lệ tử vong của các mạo hiểm giả mới ở những mê cung quanh Maalt đã giảm mạnh so với các vùng khác. Các mạo hiểm giả địa phương do Rentt chỉ bảo cũng có ý thức tuân thủ luật lệ và quy định hơn, nhờ vậy mà mạo hiểm giả và người dân trong thị trấn chung sống hòa thuận hơn. Có lẽ hiển nhiên phải nói rằng một người như Rentt quả là của hiếm.
 
-Về phần Sheila, cô không phải người gốc Maalt, mà từng lên vương đô dự kỳ thi tuyển của hội. Thi đỗ xong, cô được điều tới Maalt, một nơi rất khác với quê nhà mà cô đã rời bỏ.
+Về phần Sheila, cô không phải người gốc Maalt, mà từng lên vương đô dự kỳ thi tuyển của Hội. Thi đỗ xong, cô được điều tới Maalt, một nơi rất khác với quê nhà mà cô đã rời bỏ.
 
 Trái ngược hoàn toàn, mạo hiểm giả ở quê Sheila đa phần là những kẻ có tư cách đáng ngờ. Dù cũng có những mạo hiểm giả tốt bụng, nhưng nhìn chung người dân trong thị trấn chẳng ưa gì họ; dân chúng nếu không đối xử tệ bạc lại với họ thì cũng nơm nớp sợ hãi. Trong khi phần lớn mạo hiểm giả ở đó hay thừa cơ phạm những tội vặt vãnh, thì một số kẻ thậm chí còn là tội phạm chuyên nghiệp đúng nghĩa.
 
-Ngược lại, Maalt lại khác một trời một vực. Mạo hiểm giả ở Maalt được người dân tin tưởng, và nếu có ai trong số họ phạm tội, chính tay các đồng nghiệp mạo hiểm giả sẽ nhanh chóng bắt giữ kẻ đó. Là người phụ trách Rentt, Sheila hiểu rất rõ rằng chính sự có mặt của Rentt Faina đã tạo nên chuẩn mực đạo đức tốt đẹp cho các mạo hiểm giả ở Maalt.
+Ngược lại, Maalt lại khác một trời một vực. Mạo hiểm giả ở Maalt được người dân tin tưởng, và nếu có ai trong số họ phạm tội, chính tay các đồng nghiệp mạo hiểm giả sẽ nhanh chóng bắt giữ kẻ đó. Là người phụ trách Rentt, Sheila hiểu rất rõ chính nhờ có Rentt Faina mà giới mạo hiểm giả ở Maalt mới có được tác phong đạo đức tốt đẹp như vậy.
 
-Tuy nhiên, lý do hội giới thiệu Sheila với Rentt không chỉ đơn giản là để cô lấy một mạo hiểm giả lận đận ra tích lũy kinh nghiệm. Nói đúng hơn thì ngược lại mới phải: là người mới, Sheila sẽ học hỏi được rất nhiều khi làm việc cùng Rentt, một người dày dạn kinh nghiệm làm đủ thứ việc vặt cùng những nhiệm vụ chẳng ai thèm nhận, và vì thế rất thích hợp để truyền đạt lại những kiến thức quan trọng. Đó chính là quyết định của hội. Qua thời gian, Sheila đã học được từ Rentt rất nhiều điều về hội cũng như những phẩm chất cần có ở một nhân viên, và giờ cô đã trở thành một thành viên rất được coi trọng tại Hội Mạo Hiểm Giả Maalt.
+Tuy nhiên, lý do Hội giới thiệu Sheila với Rentt không chỉ đơn giản là để cô lấy một mạo hiểm giả lận đận ra tích lũy kinh nghiệm. Nói đúng hơn thì ngược lại mới phải: là người mới, Sheila sẽ học hỏi được rất nhiều khi làm việc cùng Rentt, một người dày dạn kinh nghiệm làm đủ thứ việc vặt cùng những nhiệm vụ chẳng ai thèm nhận, và vì thế rất thích hợp để truyền đạt lại những kiến thức quan trọng. Đó chính là quyết định của Hội. Qua thời gian, Sheila đã học được từ Rentt rất nhiều điều về Hội cũng như những phẩm chất cần có ở một nhân viên, và giờ cô đã trở thành một thành viên rất được coi trọng tại Hội Mạo Hiểm Giả Maalt.
 
 Phạm vi dìu dắt của Rentt cũng chẳng hề hẹp chút nào. Thật ra, chỉ cần nhìn quanh khắp các ngóc ngách của Maalt là sẽ thấy rất nhiều mạo hiểm giả mới, phần lớn đều từng được Rentt chỉ dẫn. Sẽ chẳng có gì lạ nếu một trong số những mạo hiểm giả mới này sau đó vươn lên tới Mithril Cấp, bởi bản thân Rentt thường xuyên dõi theo các đàn em của mình để đảm bảo họ nhận được sự chỉ bảo cần thiết.
 
@@ -44,13 +44,13 @@ Nhưng Rentt không theo đuổi vị trí đó vì danh tiếng. Không, anh mu
 
 Vì đơn độc mạo hiểm và chiến đấu là cách nhanh nhất để trau dồi sức mạnh, Rentt đã làm đúng như vậy. Kéo theo đó, trừ những tình huống khẩn cấp, các mạo hiểm giả khác đều tránh lập đội với Rentt. Những mạo hiểm giả ở Maalt làm thế là vì nghĩ cho Rentt, bởi họ biết giấc mơ của anh. Dù chuyện đó có vẻ xa vời đến đâu, họ cũng chẳng muốn xem thường hành trình theo đuổi sức mạnh của Rentt, ngay cả khi sự thật đã rành rành trước mắt mọi người.
 
-Nói một cách trần trụi thì Rentt rất yếu. Vì thế, các mạo hiểm giả địa phương khác đều biết sớm muộn gì cái chết cũng sẽ tìm đến anh. Nhưng Sheila cùng các mạo hiểm giả khác lại nghĩ khả năng này tương đối thấp. Thế nên rốt cuộc họ vẫn để mặc Rentt làm theo ý mình, không nói một lời nào khi anh tiếp tục cuộc hành trình đơn độc ấy.
+Nói thẳng ra thì Rentt rất yếu. Với một người như thế, các mạo hiểm giả quanh vùng đều hiểu chuyện mất mạng có thể ập đến bất cứ lúc nào. Tuy nhiên, cả Sheila lẫn những mạo hiểm giả khác đều cho rằng khả năng đó khá thấp, nên rốt cuộc họ vẫn để mặc Rentt làm theo ý mình, chẳng ai nói lời nào trước hành trình đơn độc của anh.
 
 Tuy Rentt là mạo hiểm giả Đồng Cấp và chỉ có sức mạnh ở tầm đó, nhưng kiến thức cùng kinh nghiệm mạo hiểm của anh thừa sức sánh ngang với những tay kỳ cựu dày dạn sương gió. Ngay cả khi chẳng may chạm trán kẻ địch nguy hiểm, chắc chắn anh vẫn sẽ giữ được bình tĩnh và đưa ra những quyết định đúng đắn; ít nhất, đó là những gì các mạo hiểm giả khác ở Maalt nghĩ về Rentt.
 
 Thế nhưng, dù có nói thế nào đi nữa, vẫn có một sự thật không đổi: Rentt Faina đã không quay về.
 
-Rentt Faina, người mạo hiểm giả Hạ Đồng Cấp ngày nào cũng bước vào cùng một mê cung vào đúng một khung giờ, trở về hội vào đúng thời điểm đó với những nguyên liệu tương tự, ký xác nhận các nhiệm vụ được giao, rồi lại đi tập luyện ở nơi khác.
+Rentt Faina, người mạo hiểm giả Hạ Đồng Cấp ngày nào cũng bước vào cùng một mê cung vào đúng một khung giờ, trở về Hội vào đúng thời điểm đó với những nguyên liệu tương tự, ký xác nhận các nhiệm vụ được giao, rồi lại đi tập luyện ở nơi khác.
 
 Đó là cuộc sống thường nhật của Rentt. Chuyện đó diễn ra đều đặn mỗi ngày, chưa từng sai lệch một lần nào, vậy mà—
 
@@ -60,11 +60,11 @@ Rentt...
 
 Rentt Faina—
 
-Xin anh hãy bình an vô sự... Đó là lời cầu nguyện thầm lặng không ai nghe thấy của Sheila trong lúc cô tiếp tục công việc thường nhật tại hội.
+Xin anh hãy bình an vô sự... Đó là lời cầu nguyện thầm lặng không ai nghe thấy của Sheila trong lúc cô tiếp tục công việc thường nhật tại Hội.
 
 "À, xin lỗi..."
 
-Giọng của một cô gái trẻ kéo Sheila ra khỏi dòng suy nghĩ. Ngẩng đầu lên, cô thấy chủ nhân của giọng nói quả đúng là một cô gái trẻ, lại còn là một người quen mặt.
+Giọng của một cô gái trẻ kéo Sheila ra khỏi dòng suy nghĩ. Cô ngẩng đầu lên thì thấy người vừa lên tiếng quả đúng là một cô gái trẻ, lại còn là một gương mặt quen thuộc.
 
 Cô gái là một mạo hiểm giả mới được điều từ vương đô về Maalt cách đây mới vài ngày. Vì đến vào đúng lúc khá xui xẻo nên cả Rentt lẫn các mạo hiểm giả tiền bối khác đều không có mặt; thành thử cuối cùng cô đã một mình đi mạo hiểm.
 
@@ -74,7 +74,7 @@ Sheila nhớ ra tên cô gái: Rina Rupaage. Nghĩ vậy, cô xếp gọn xấp 
 
 ◆◇◆◇◆
 
-Vung kiếm lên, tôi chém xuyên qua lũ Khô Lâu trước mặt. Tôi chẳng còn biết mình đã hạ bao nhiêu con nữa, vì tôi đã ngừng đếm từ lâu rồi. Hồi còn sống, tôi phải tốn không ít công sức mới hạ nổi một con Khô Lâu, vậy mà giờ những ký ức ấy cứ như chuyện bịa. Tôi dễ dàng vòng ra sau lưng kẻ địch xương xẩu, bổ kiếm xuống và một lần nữa chém ngọt bộ xương trắng của đối thủ thành hai nửa.
+Tôi vung kiếm chém xả vào lũ Khô Lâu trước mặt. Tôi chẳng còn biết mình đã hạ bao nhiêu con nữa, vì tôi đã ngừng đếm từ lâu rồi. Hồi còn sống, tôi phải tốn không ít công sức mới hạ nổi một con Khô Lâu, vậy mà giờ những ký ức ấy cứ như chuyện bịa. Tôi dễ dàng vòng ra sau lưng kẻ địch xương xẩu, bổ kiếm xuống và một lần nữa chém ngọt bộ xương trắng của đối thủ thành hai nửa.
 
 Thật không thể tin nổi.
 
@@ -114,7 +114,7 @@ Sau bao chuyện, nút thắt khiến tôi chật vật suốt bấy lâu nay r�
 
 Thế nhưng, nếu hình hài này cản trở tôi làm mạo hiểm giả thì đó sẽ là một vấn đề lớn. Tôi đi đến kết luận rằng mình phải tìm ra cách tiếp tục làm mạo hiểm giả, bất kể vẻ ngoài có ra sao hay bản thân đã biến thành thứ gì đi nữa.
 
-Tuy tôi đã nhắc tới những chính sách rộng mở của hội không ít lần, nhưng trông mong hội chấp nhận một con quái vật vào hàng ngũ của mình chắc là đòi hỏi hơi quá.
+Tuy tôi đã nhắc tới những chính sách rộng mở của Hội không ít lần, nhưng trông mong Hội chấp nhận một con quái vật vào hàng ngũ của mình chắc là đòi hỏi hơi quá.
 
 Tôi đã nhờ Rina mua quần áo hộ mình, nhưng việc đó vẫn không giải quyết được một vấn đề lớn khác. Áo choàng có thể che được phần lớn cơ thể tả tơi của tôi, nhưng không che nổi khuôn mặt cùng hai cánh tay. Khi đọc giấy tờ hay đưa vàng và nguyên liệu, đương nhiên tôi phải rướn người tới trước; ít nhất cũng phải nói rằng việc giấu hai cánh tay là hoàn toàn bất khả thi.
 
@@ -128,7 +128,7 @@ Tôi, Rentt Faina, chẳng nổi tiếng vì tài nghệ mạo hiểm gì cho ca
 
 Nói cách khác, hơn một nửa Hội Mạo Hiểm Giả Maalt đều biết mặt mũi tôi hồi còn sống trông thế nào. Nếu tôi đột ngột xuất hiện với đôi tay trong tình trạng này, chắc chắn tôi sẽ bị hỏi han đủ chuyện.
 
-Các nhân viên hội sẽ vì lo lắng mà hỏi thăm tôi mãi không thôi, tưởng rằng tôi đã bị một con quái vật khủng khiếp nào đó trong mê cung hại. Trong lúc họ gặng hỏi thông tin, kiểu gì chiếc áo choàng của tôi cũng bị kéo tuột ra, và thế là hết chuyện. Dù nếu chỉ bị mỗi hai cánh tay thì tôi còn có thể viện cớ này cớ nọ...
+Các nhân viên của Hội vì lo lắng sẽ hỏi thăm tôi mãi không thôi, tưởng rằng tôi trúng phải đòn độc của con quái vật khủng khiếp nào đó trong mê cung. Trong lúc họ gặng hỏi thông tin, kiểu gì chiếc áo choàng của tôi cũng bị kéo tuột ra, và thế là hết chuyện. Dù nếu chỉ bị mỗi hai cánh tay thì tôi còn có thể viện cớ này cớ nọ...
 
 Chẳng hạn, cứ bảo là một con quái vật đã hút cạn sinh lực ở hai bàn tay tôi đi; chuyện đó cũng có thể xảy ra lắm chứ. Tuy nhiên, một khi họ nhìn thấy khuôn mặt tôi thì mọi chuyện sẽ chấm dứt ngay.
 

@@ -34,7 +34,7 @@ Giọng bỗng vọt lên to tướng làm mấy chữ vốn đã ngọng nghị
 
 Nhưng tôi không nản lòng. Trái lại, tôi thấy bỏ cuộc lúc này mới là ý nghĩ cực kỳ tồi tệ.
 
-Chẳng hạn, nếu tôi cứ thế bỏ cuộc rồi rời đi, cô gái chắc chắn sẽ chạy thoát. Sau đó cô sẽ báo chuyện có tôi cho hội, hội sẽ xếp tôi vào dạng quái vật đặc biệt nào đó, rồi cử những mạo hiểm giả mạnh tới khử tôi. Đó là cục diện mà tôi nhất quyết phải tránh.
+Chẳng hạn, nếu tôi cứ thế bỏ cuộc rồi rời đi, cô gái chắc chắn sẽ chạy thoát. Sau đó cô sẽ báo chuyện gặp tôi cho Hội, Hội sẽ xếp tôi vào dạng quái vật đặc biệt nào đó, rồi cử những mạo hiểm giả mạnh tới khử tôi. Đó là cục diện mà tôi nhất quyết phải tránh.
 
 Dù đã mạnh lên đôi chút sau khi giao chiến và hạ gục vô số quái vật khác, ngoài kia vẫn còn rất nhiều mạo hiểm giả mạnh hơn tôi. Nếu một người như thế được cử đi săn lùng tôi, mạng tôi sẽ chấm dứt lần thứ hai.
 
@@ -48,7 +48,7 @@ Bởi vậy, tôi mới cố hết sức để nói thành tiếng.
 
 "V... Veeassee... ! Vis... Visten... Vu me... Ahh... Not... Enevii..."
 
-Tôi cứ lặp đi lặp lại mấy tiếng ngọng nghịu ấy. Về phần cô gái, thấy hành động của tôi lại thêm vẻ không có địch ý, cô ngạc nhiên và dường như bắt đầu chịu lắng nghe.
+Tôi cứ lặp đi lặp lại mấy tiếng ngọng nghịu ấy. Về phần cô gái, thấy tôi hành động như vậy mà lại chẳng có chút địch ý nào, cô ngạc nhiên rồi dường như bắt đầu chịu lắng nghe.
 
 "A...? Nó... đang nói chuyện sao...?"
 
@@ -64,7 +64,7 @@ Giọng tôi dần tròn vành rõ chữ hơn, những tiếng rống từng kh�
 
 "Anh Rend?"
 
-"Rentt... Ren...tt! Ren...tt... "
+"Rentt... Ren...tt! Ren...tt..."
 
 "A, anh Rentt..."
 
@@ -74,7 +74,7 @@ Tôi chợt thấy cô gái này cũng khá bạo dạn. Dù tay vẫn nắm ch�
 
 "Vậy, anh Rentt... Vẻ ngoài của anh... là cải trang đấy à?"
 
-"Không... Không. Tôi... chết rồi... "
+"Không... Không. Tôi... chết rồi..."
 
 Đôi mắt cô mở to trước lời tôi nói, nhưng khi nghe tôi kể tiếp câu chuyện của mình, nét mặt cô dần chuyển sang vẻ thương cảm.
 
@@ -82,7 +82,7 @@ Tôi chợt thấy cô gái này cũng khá bạo dạn. Dù tay vẫn nắm ch�
 
 Cô gái nhận xét rất đúng. Tuy có những trường hợp quái vật Undead giữ lại được một phần ký ức sau khi chết, nhưng ký ức đó chủ yếu chỉ chi phối hành vi và thói quen của chúng mà thôi. Bởi vậy, người ta không coi chúng là có được sự tỉnh táo và tri giác như một người sống bình thường.
 
-Trường hợp ngược lại cũng có: truyền thuyết kể về những người nhờ ma thuật cao siêu mà chuyển sinh thành quái vật Undead nhưng vẫn giữ nguyên ý thức và hoạt động bình thường. Có điều, số lần người ta bắt gặp những kẻ như vậy chỉ đếm trên đầu ngón tay. Khỏi phải nói, bản thân tôi cũng chưa từng gặp ai như thế bao giờ.
+Ngược lại, cũng có những truyền thuyết kể về những kẻ dùng ma thuật cao siêu để tái sinh thành quái vật Undead mà vẫn giữ nguyên ý thức và suy nghĩ tỉnh táo. Có điều, số lần người ta bắt gặp những kẻ như vậy chỉ đếm trên đầu ngón tay. Khỏi phải nói, bản thân tôi cũng chưa từng gặp ai như thế bao giờ.
 
 Nói cách khác, một con Ngạ Quỷ vừa nói năng mạch lạc, vừa có tư duy logic và lý trí như tôi thì chẳng còn là chuyện hiếm gặp nữa, mà là chuyện không tưởng.
 

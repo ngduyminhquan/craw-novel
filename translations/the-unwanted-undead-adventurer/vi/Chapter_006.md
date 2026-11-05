@@ -4,13 +4,13 @@
 
 Một cô gái trẻ đang vung vũ khí về phía con Khô Lâu, tiếng hét nghe chừng còn dồn nhiều lực hơn cả nhát chém.
 
-Điều đầu tiên đập vào mắt tôi là chất lượng trang bị của cô gái, hay nói đúng hơn là sự thiếu thốn về mặt chất lượng. Cô mặc bộ giáp rẻ tiền, tay cầm thanh kiếm một tay cũng rẻ tiền chẳng kém. Chắc chắn đây là một mạo hiểm giả Thiết Cấp mới vào nghề.
+Điều đầu tiên đập vào mắt tôi là chất lượng trang bị của cô gái, hay nói đúng hơn là chẳng có chút chất lượng nào. Cô mặc bộ giáp rẻ tiền, tay cầm thanh kiếm một tay cũng rẻ tiền chẳng kém. Chắc chắn đây là một mạo hiểm giả Thiết Cấp mới vào nghề.
 
 Cũng phải nói thêm, tôi vốn rất quen mặt các mạo hiểm giả đồng nghiệp, ít nhất là những ai sống ở Maalt. Đằng này cô gái trước mặt lại là một gương mặt xa lạ, nên tôi mới đoán thế.
 
 Dù các mạo hiểm giả Thiết Cấp sớm muộn gì cũng sẽ vượt mặt tôi và chỉ được xem như những đối thủ cạnh tranh tiềm tàng, tôi vẫn luôn nhớ mặt và tìm hiểu về họ. Làm vậy cốt chỉ để chặn trước cái cảnh hết người này đến người khác chực đem sự bất tài của tôi ra làm trò cười. Tôi luôn chủ động kết thân với họ ngay tại chỗ, tiện thể ghi nhớ xuất thân cùng các mối quan hệ của họ rồi mới ai đi đường nấy.
 
-Khá thú vị là dù chẳng có chút năng khiếu nào trong nghề mạo hiểm giả, bù lại tôi được trời phú cho trí nhớ tốt cùng sự khôn ngoan từng trải, đủ để dễ dàng đi trước một bước trước bất kỳ mạo hiểm giả Thiết Cấp nào tính giở trò mờ ám. Nhờ vậy, tiếng khôn ngoan của tôi lan tới cả tai các mạo hiểm giả cấp cao ở Maalt, nên hầu như chẳng ai thèm kiếm chuyện với tôi. Có lẽ cũng một phần nhờ mạo hiểm giả ở Maalt đa số đều là người đàng hoàng.
+Khá thú vị là dù chẳng có chút năng khiếu nào trong nghề mạo hiểm giả, bù lại tôi được trời phú cho trí nhớ tốt cùng sự khôn khéo đường đời, dư sức bắt bài bất kỳ mạo hiểm giả Thiết Cấp nào tính giở trò mờ ám. Ngay cả các mạo hiểm giả cấp cao ở Maalt cũng biết tôi không dễ bị qua mặt, nên hầu như chẳng ai thèm kiếm chuyện. Mà có lẽ cũng một phần nhờ mạo hiểm giả ở Maalt đa số đều là người đàng hoàng.
 
 Chưa kể, tôi còn chú ý chấn chỉnh đạo đức cho những kẻ xấu tính ngay từ lúc họ mới vào nghề. Lâu dần, việc đó mang lại hiệu quả rõ rệt, dần dà giúp phẩm chất chung của giới mạo hiểm giả ở Maalt tốt lên trông thấy. Đó cũng là một trong những lý do Hội Mạo Hiểm Giả suốt bấy lâu chưa từng bảo tôi gác kiếm, dù tôi đã giậm chân ở một trong những cấp bậc thấp nhất gần cả chục năm trời.
 
@@ -52,13 +52,13 @@ Dù trước khi tới đây tôi đã bị cuốn theo sự hưng phấn nhất
 
 Có điều, bỏ mặc cô gái chết là việc tôi không tài nào làm nổi.
 
-Dù thân xác giờ đã là quái vật, trái tim tôi vẫn là của con người. Trừ phi người gặp nạn là kẻ gian ác tồi tệ, bằng không chí ít tôi nhất định sẽ tìm cách giúp đỡ. Với tôi, đây là việc đúng đắn cần làm: một mạo hiểm giả tiền bối bảo vệ tính mạng cho hậu bối giữa chốn mê cung khắc nghiệt không chút khoan nhượng.
+Dù thân xác giờ đã là quái vật, trái tim tôi vẫn là của con người. Trừ phi người gặp nạn là kẻ gian ác tồi tệ, còn không thì chí ít tôi cũng phải thử tìm cách giúp đỡ. Với tôi, đây là việc đúng đắn cần làm: một mạo hiểm giả tiền bối bảo vệ tính mạng cho hậu bối giữa chốn mê cung khắc nghiệt không chút khoan nhượng.
 
 Chính vì thế tôi mới hành động.
 
 "...GÀOOOOO!!!"
 
-Để kéo sự chú ý của con Khô Lâu khỏi con mồi, tôi nhảy vọt ra từ góc khuất, gầm lên dữ tợn hết mức có thể. Tôi cũng chẳng dám chắc kế hoạch có thành hay không, vì ngay từ đầu đây đã là một canh bạc năm ăn năm thua, phần nhiều cũng bởi hiện tại tôi đang là một Ngạ Quỷ.
+Để đánh lạc hướng con Khô Lâu khỏi con mồi, tôi nhảy vọt ra từ góc khuất, gầm lên dữ tợn hết mức có thể. Tôi cũng chẳng dám chắc kế hoạch có thành hay không, vì ngay từ đầu đây đã là một canh bạc năm ăn năm thua, phần nhiều cũng bởi hiện tại tôi đang là một Ngạ Quỷ.
 
 Không phải chuyên gia về tập tính quái vật, tôi chẳng rõ một con quái vật sẽ chú ý đến mức nào trước tiếng động lớn do một con khác tạo ra. Có điều, lũ quái vật tôi từng giao chiến từ trước tới giờ dường như đều coi tôi là kẻ thù, hễ vừa thấy tôi là lập tức vào thế chiến đấu. Có lẽ ở tôi có điểm gì đó khác biệt với lũ quái vật khác, và chính chúng cũng nhận ra điều ấy. Chính vì thế tôi mới làm vậy; nói đúng hơn, kế hoạch của tôi hẳn phải có tỷ lệ thành công khá cao.
 
@@ -70,11 +70,11 @@ Chẳng còn lựa chọn nào khác: tôi rút kiếm, chạy thẳng về phí
 
 Sau khi tiến hóa thành Ngạ Quỷ, tôi nhận ra giờ mình đã có thể dùng đòn Khí Lực kha khá lần mà không lo cạn sạch năng lượng, thế nên dùng một đòn lúc này chắc cũng chẳng hao hụt dự trữ là bao.
 
-Tôi giương kiếm lên bằng một động tác thuần thục rồi dồn cả sức nặng cơ thể vào đòn đánh, bổ mạnh thanh kiếm xuống. Một nhát chém gọn gàng, ngập sâu vào cơ thể xương xẩu của đối thủ. Chỉ trong tích tắc, con Khô Lâu đứt lìa làm hai nửa gọn gàng, vỡ vụn thành nhiều mảnh khi phần còn lại của cơ thể nó rơi xuống đất.
+Tôi giương kiếm lên bằng một động tác thuần thục rồi dồn cả sức nặng cơ thể vào đòn đánh, bổ mạnh thanh kiếm xuống. Một nhát chém dứt khoát ngập sâu vào bộ xương của đối thủ. Chỉ trong tích tắc, con Khô Lâu bị chẻ đôi gọn gàng, phần thân còn lại rơi xuống đất vỡ vụn thành từng mảnh.
 
 "...Tuyệt quá..."
 
-Nữ mạo hiểm giả sững sờ, chỉ biết tiếp tục nhìn chằm chằm vào tàn tích của thứ mới vài giây trước còn là con Khô Lâu.
+Nữ mạo hiểm giả sững sờ, cứ nhìn trân trân vào đống xương vụn mới vài giây trước còn là một con Khô Lâu.
 
 Tôi chẳng trách cô được. Tuy Khô Lâu nhìn chung là quái vật yếu, nhưng ở cấp bậc như tôi, hiếm mạo hiểm giả nào chém đôi chúng dễ dàng như thế. Ai gặp cảnh này cũng sẽ ngạc nhiên thôi; phải, ngay cả tôi cũng vậy.
 

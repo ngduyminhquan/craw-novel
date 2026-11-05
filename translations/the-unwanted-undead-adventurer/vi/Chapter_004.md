@@ -1,6 +1,6 @@
 # Chương 4: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (3)
 
-Đúng như tôi dự đoán, quả nhiên sau mỗi kẻ địch bị hạ gục, tôi lại mạnh lên đôi chút. Tiếp sau trận chiến mở màn ấy, tôi chạm trán và nhanh chóng tiêu diệt thêm vài con Khô Lâu nữa. Cứ mỗi lần như vậy, luồng sáng kỳ lạ kia lại bốc lên từ xác chúng rồi hòa vào người tôi.
+Đúng như tôi đoán, cứ hạ gục thêm một kẻ địch là tôi lại mạnh lên đôi chút. Tiếp sau trận chiến mở màn ấy, tôi chạm trán và nhanh chóng tiêu diệt thêm vài con Khô Lâu nữa. Cứ mỗi lần như vậy, luồng sáng kỳ lạ kia lại bốc lên từ xác chúng rồi hòa vào người tôi.
 
 Càng hấp thụ nhiều luồng sáng, tôi càng thấy mình khỏe hơn, nhanh hơn. Đó chẳng phải ảo giác; chuyển động của tôi đã dứt khoát và mạnh mẽ hơn thấy rõ. Ngay cả các đòn đánh bằng Khí Thuật cũng tăng thêm uy lực. Ở lần đụng độ đầu tiên, tôi phải trầy trật mãi mới đâm thủng được hộp sọ đối thủ, còn giờ đây, chỉ cần dồn sức ra đòn là tôi đã có thể đánh văng xương cốt kẻ địch, nghiền nát chúng trong nháy mắt.
 
@@ -28,13 +28,13 @@ Sau khi đã quen dần với bộ xương này, tôi có thể tung ra những 
 
 Đã đến lúc đem năng lực mới này ra thử sức. Tôi lên đường tới một khu vực trong Mê Cung Nguyệt Ảnh vốn nổi tiếng là địa bàn của loài quái này. Dù trước đó tôi đã hạ một con trên đường vào khu vực chưa từng được khai phá, nhưng theo tôi tính toán thì thời gian trôi qua đã đủ lâu để diễn ra Tái Sinh Quái. Đương nhiên, cũng không loại trừ khả năng đã có mạo hiểm giả khác nhanh chân hạ nó trước tôi.
 
-Lăn lộn trong mê cung suốt thời gian dài, người ta sẽ dần hình thành một chiếc đồng hồ sinh học ngay bên dưới những bức tường này, rất tiện để canh giờ khi thám hiểm. Ở các mê cung đông người, không khí thường nặc mùi máu tanh và kim loại, chưa kể những rung chấn do giao tranh truyền qua sàn và vách đá. Riêng với nơi này, tôi đã dành phần lớn năm tháng để gắn bó với nó nên nắm rất rõ nhịp độ thời gian. Nhờ vậy, tôi thậm chí còn biết được vào từng thời điểm trong ngày, khu vực nào sẽ có đông mạo hiểm giả qua lại.
+Lăn lộn trong mê cung suốt thời gian dài, người ta sẽ dần hình thành một chiếc đồng hồ sinh học ngay bên dưới những bức tường này, rất tiện để canh giờ khi thám hiểm. Ở các mê cung đông người, không khí thường nặc mùi máu tanh và kim loại, chưa kể những rung chấn do giao tranh truyền qua sàn và vách đá. Riêng với mê cung này, tôi đã dành phần lớn thời gian thám hiểm ở đây nên nắm rất rõ nhịp sinh hoạt trong đó. Nhờ vậy, tôi thậm chí còn biết được vào từng thời điểm trong ngày, khu vực nào sẽ có đông mạo hiểm giả qua lại.
 
 Vì thế, tôi dám chắc vào tầm giờ này chẳng có mạo hiểm giả nào lai vãng tới đây đâu. Dẫu sao thì quanh thị trấn Maalt đâu chỉ có mỗi mê cung này. Ngay gần đó còn một mê cung khác lớn hơn nhiều, mang tên Mê Cung Tân Nguyệt.
 
 Mê cung đó vẫn còn rất nhiều nơi chưa ai đặt chân tới, vô số khu vực và tầng mê cung chỉ mới vẽ được bản đồ sơ lược. Thành thử phần lớn mạo hiểm giả ở Maalt đều đổ dồn về Mê Cung Tân Nguyệt. Những ai còn lui tới Mê Cung Nguyệt Ảnh chỉ có hai dạng: hoặc là những kẻ cứng đầu, hoặc là những mạo hiểm giả đơn độc không tìm nổi một tổ đội để dấn thân sâu vào Mê Cung Tân Nguyệt.
 
-Nói thẳng ra thì tôi thuộc nhóm thứ hai. Dù bản thân cũng từng muốn khám phá Mê Cung Tân Nguyệt, nhưng nơi ấy lúc nhúc quái vật, trong đó có cả những loài chuyên săn mạo hiểm giả theo bầy. Một gã Hạ Đồng Cấp mà dám vác xác một mình vào đó thì chẳng khác nào tự ký án tử. Trừ những lần hiếm hoi được kéo vào lấp chỗ trống cho tổ đội khác vào phút chót, tôi vẫn chuộng săn bắn ở Mê Cung Nguyệt Ảnh hơn nhiều.
+Nói thẳng ra thì tôi thuộc nhóm thứ hai. Dù bản thân cũng từng muốn khám phá Mê Cung Tân Nguyệt, nhưng nơi ấy lúc nhúc quái vật, trong đó có cả những loài chuyên săn mạo hiểm giả theo bầy. Một mạo hiểm giả Hạ Đồng Cấp mà mò vào đó một mình thì chẳng khác nào tự nộp mạng. Trừ những lần hiếm hoi được kéo vào lấp chỗ trống cho tổ đội khác vào phút chót, tôi vẫn chuộng săn bắn ở Mê Cung Nguyệt Ảnh hơn nhiều.
 
 Nghĩ lại, cuộc sống ấy đúng là có phần đơn độc thật.
 
@@ -62,13 +62,13 @@ Thấy chuột chết hay mấy thứ tương tự thì còn ráng nhịn đư�
 
 Riêng tôi thì chẳng thấy mấy cảm giác, bởi tôi đã gắn bó với nghề mạo hiểm giả hơn chục năm trời rồi. Người trong nghề vẫn bảo mạo hiểm giả phải luyện cho tinh thần vững vàng ngay từ năm đầu tiên bước chân vào nghề.
 
-Tự kéo mình ra khỏi dòng suy nghĩ miên man, tôi nhìn lại thân hình trong veo của con Slime trước mặt. Dù giờ đây tôi là một Khô Lâu và trong mắt người thường đôi khi còn đáng sợ hơn cả một con Slime đang tiêu hóa dở bữa ăn, nhưng cảm xúc bên trong tôi vẫn vẹn nguyên là của một con người.
+Tôi gạt dòng suy nghĩ miên man sang một bên, nhìn lại thân hình trong veo của con Slime trước mặt. Dù giờ đây tôi là một Khô Lâu và trong mắt người thường đôi khi còn đáng sợ hơn cả một con Slime đang tiêu hóa dở bữa ăn, nhưng cảm xúc bên trong tôi vẫn vẹn nguyên là của một con người.
 
 Tôi đâu muốn ai nghĩ mình tìm thấy thú vui gì từ chuyện đi chém mấy con Slime chứa đầy xác chết. Nhưng con Slime này thì sạch thật, sạch tinh tươm là đằng khác. Dịch của một con Slime mới xuất hiện như thế này đáng giá một món tiền kha khá. Nếu đựng được chất dịch của nó vào bình chứa, người ta có thể bán cho Hội Mạo Hiểm Giả hoặc nhà giả kim như một loại nguyên liệu quý hiếm. Ngay cả dịch của một con Slime đục ngầu, đem đun sôi rồi trộn với thảo dược cũng chế ra được thuốc hồi phục cơ bản, nên nó chẳng phải thứ bỏ đi chút nào. Huống hồ dịch của một con Slime sạch bóng lại càng nhiều công dụng hơn, giá bán vì thế cũng đắt hơn nhiều.
 
 Dù giờ đã thành Khô Lâu, chiếc đai dụng cụ tôi đeo lúc còn sống vẫn nằm nguyên bên hông. Trên đai có một chiếc bình tôi chuẩn bị riêng cho trường hợp này, nên tôi quyết định sẽ lấy dịch ngay sau khi hạ gục con Slime.
 
-Tôi chậm rãi áp sát con Slime với những động tác rón rén trông hết sức khả nghi. Vừa thấy tôi đến gần, con Slime dường như đã phát hiện ra tôi, nó run lên bần bật rồi bắn một bọc nước về phía này.
+Tôi chậm rãi áp sát con Slime với những động tác rón rén trông hết sức khả nghi. Khi tôi tiến lại gần, con Slime như nhận ra sự có mặt của tôi, liền run lên bần bật rồi bắn một bọc nước về phía này.
 
 Đoán trước đòn tấn công, tôi lách người né gọn. Bọc nước rơi thẳng xuống nền đất, lập tức sủi bọt ăn mòn mặt đất đá. Chỉ vài giây sau, một làn khói mỏng đã bốc lên từ vạt đất xấu số.
 
@@ -86,7 +86,7 @@ Nhờ vào cơ thể Khô Lâu và năng lượng hấp thụ được từ mấ
 
 Khi tôi từng bước ép sát, con Slime lại rục rịch chuẩn bị nhả thêm một bọc axit về phía tôi. Nhưng lần này tôi đã thủ sẵn kiếm và dùng Khí Thuật đẩy nhanh tốc độ. Tôi lao vụt về phía con Slime, chém xuống một nhát chớp nhoáng trúng ngay thân nó, rồi nhanh chóng lùi phắt lại trước khi nó kịp bắn axit.
 
-Dù cảm giác được nhát chém vừa rồi đã chém trúng thứ gì đó sừng sực bên trong, nhưng đời nào tôi lại hạ gục được con Slime nhanh đến thế. Nghĩ vậy, tôi lập tức lấy lại thế thủ, sẵn sàng bồi thêm một nhát nữa.
+Dù cảm giác lưỡi kiếm vừa chạm trúng thứ gì đó sừng sực bên trong, nhưng đời nào tôi lại hạ gục được con Slime chỉ bằng một nhát như thế. Nghĩ vậy, tôi lập tức lấy lại thế thủ, sẵn sàng bồi thêm một nhát nữa.
 
 Thế nhưng con Slime lại phản ứng ngoài dự liệu. Thay vì phản công, nó chỉ dừng lại, run rẩy tại chỗ. Đột nhiên, nó hoàn toàn bất động rồi nhanh chóng tan ra thành một vũng nước.
 
@@ -108,9 +108,9 @@ Dù một loại nguyên liệu quý hiếm như vậy thừa sức dùng để 
 
 Chẳng lẽ người ta nhất thiết phải lấy bộ phận quái vật làm mỹ phẩm đến thế cơ à...?
 
-Mà thôi, nghĩ lại thì cũng có lý: nghe đồn các nguyên liệu chiết xuất từ quái vật mang lại tác dụng to lớn cho con người. Công hiệu được đồn thổi từ trường sinh bất lão, hồi sinh người chết, cho tới việc giúp một ông già trẻ lại... Xét cho cùng, có lẽ đây cũng là diễn biến tự nhiên thôi.
+Mà thôi, nghĩ lại thì cũng có lý: nghe đồn các nguyên liệu chiết xuất từ quái vật mang lại tác dụng to lớn cho con người. Công hiệu được đồn thổi từ trường sinh bất lão, hồi sinh người chết, cho tới việc giúp một ông già trẻ lại... Nghĩ vậy thì chuyện người ta đem làm mỹ phẩm cũng là lẽ tự nhiên thôi.
 
-Dứt dòng độc thoại, tôi nhìn lại chiếc bình lúc này đã hứng đầy dịch từ cái xác Slime đang nhanh chóng xẹp xuống. Chờ cho bình đầy tới miệng, tôi chậm rãi rút nó ra khỏi đống chất nhầy đang tan biến, cẩn thận không để rớt một giọt dịch quý giá nào.
+Tôi thôi không nghĩ ngợi lan man nữa mà quay sang nhìn chiếc bình, lúc này đã hứng đầy dịch từ xác con Slime đang xẹp xuống nhanh chóng. Chờ cho bình đầy tới miệng, tôi chậm rãi rút nó ra khỏi đống chất nhầy đang tan biến, cẩn thận không để rớt một giọt dịch quý giá nào.
 
 Tốt lắm. Thứ này chắc chắn sẽ bán được một khoản tiền vàng kha khá.
 

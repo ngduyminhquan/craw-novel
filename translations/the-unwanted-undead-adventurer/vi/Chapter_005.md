@@ -1,6 +1,6 @@
 # Chương 5: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (4)
 
-Mãi đến khi hạ xong con Slime thứ năm trong ngày hôm đó, tôi mới bắt đầu nhận ra cơ thể mình có gì đó đổi khác. Kể từ lúc nãy, dù tôi đã lùng sục và chiến đấu với không ít quái vật khác, có vẻ việc tôi chạm trán rồi hạ được con Slime đầu tiên hoàn toàn chẳng phải do ăn may. Lũ Slime tôi đụng phải sau đó đều bỏ mạng y như thế.
+Mãi đến khi hạ xong con Slime thứ năm trong ngày hôm đó, tôi mới bắt đầu nhận ra cơ thể mình có gì đó đổi khác. Kể từ lúc hạ con Slime đầu tiên, tôi đã lùng sục và giao chiến với không ít quái vật khác, mà xem chừng chuyện tôi một nhát chém chết con Slime lúc đầu hoàn toàn chẳng phải ăn may. Mấy con Slime đụng phải sau đó đều bỏ mạng y hệt như vậy.
 
 Sức mạnh của tôi đang tăng tiến nhanh chóng, vượt qua cả mức lúc tôi còn sống.
 
@@ -54,7 +54,7 @@ Nhưng dĩ nhiên rồi. Dù phần lớn chỉ là thịt khô, hiện giờ t�
 
 "...OA... OAAA..."
 
-Tôi dũng cảm thử đẩy luồng hơi qua cổ họng xem có nói được không. Xem chừng ít nhất việc phát ra âm thanh vẫn nằm trong khả năng.
+Tôi gắng sức đẩy một luồng hơi qua cổ họng xem mình có nói được không. Xem chừng ít nhất tôi vẫn phát ra tiếng được.
 
 "HE... HEEH... VVO... HEH... VO. OOD... MOV... NINV... GGGUH... HEH... VVO..."
 
@@ -82,11 +82,11 @@ Từ trước đến giờ, tôi toàn vào mê cung lúc ban ngày rồi tối 
 
 Tôi muốn nói chuyện với một ai đó, ai cũng được. Nếu ở đây có mạo hiểm giả, thì mạo hiểm giả cũng tốt.
 
-Thế nhưng, tôi nhanh chóng trấn tĩnh lại sau cơn phấn khích. Với cái ngoại hình này, việc cố bắt chuyện với một con người sẽ là chuyện chẳng dễ chịu gì.
+Thế nhưng, tôi nhanh chóng trấn tĩnh lại sau cơn phấn khích. Với cái bộ dạng này mà cố bắt chuyện với con người thì gay go lắm.
 
 Dù tôi không còn là một đống xương biết đi, nhưng Ngạ Quỷ thì vẫn cứ là... Ngạ Quỷ. Nếu tôi tiến lại gần một mạo hiểm giả với cái thân xác khô quắt này, họ chắc chắn sẽ cảnh giác và lập tức rút kiếm thủ thế; chuyện trò sẽ là thứ cuối cùng họ nghĩ tới.
 
-Nếu tôi thuộc một chủng loài quái vật có tri giác và trí khôn nào đó thì kết quả cuộc chạm mặt có lẽ sẽ khác đôi chút, đằng này tôi chỉ là một con Ngạ Quỷ. Về khoản đó thì triển vọng mù mịt vô cùng. Thế nên, tôi chọn cách lùi xa khỏi nơi phát ra tiếng động rồi trốn đi, để không phải chạm mặt mạo hiểm giả kia.
+Nếu tôi thuộc loài quái vật có tri giác và trí khôn nào đó thì may ra chuyện chạm mặt còn đỡ, đằng này tôi lại là một con Ngạ Quỷ. Nghĩ đường nào cũng thấy vô vọng. Thế nên, tôi chọn cách lùi xa khỏi nơi phát ra tiếng động rồi trốn đi, để không phải chạm mặt mạo hiểm giả kia.
 
 Thế nhưng tính tò mò đã chiến thắng: liệu tôi có thực sự nỡ làm ngơ và bỏ đi khi một con người đang ở gần mình đến thế?
 
@@ -102,4 +102,4 @@ Tiếng động càng lớn dần, nhịp tim tôi cũng đập dồn dập theo
 
 Giờ tôi đã không còn cách xa một người sống là bao. Từng bước chậm mà chắc, tôi đã tới đích, tiếng giao tranh vẫn liên tục vọng lại từ phía sau khúc ngoặt.
 
-Vẫn giữ sự cẩn trọng khi men theo lối đi, tôi khẽ ngó qua khúc ngoặt, nhìn sâu vào hành lang mê cung phía trước. Ở đó, đúng như tôi đoán, là một mạo hiểm giả khác đang tuốt kiếm giao chiến với lũ quái vật.
+Tôi thận trọng men theo lối đi, khẽ ló đầu qua khúc ngoặt nhìn sâu vào hành lang mê cung phía trước. Ở đó, đúng như tôi đoán, là một mạo hiểm giả khác đang tuốt kiếm giao chiến với lũ quái vật.

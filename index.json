@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T00:05:12Z",
+  "generatedAt": "2026-11-05T00:17:03Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2158,55 +2158,55 @@
           "number": 1,
           "title": "Chương 1: Mở đầu Tập 1",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_001.md",
-          "sha": "57649f2711b2a25e226101f635741c4576c678ff"
+          "sha": "7a87da0e32f8f5c6a098455487e0fac15f7363fa"
         },
         {
           "number": 2,
           "title": "Chương 2: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_002.md",
-          "sha": "abad746cb17986c2d3c3cde0eb7ae1f6f3fcfb88"
+          "sha": "7db9727bdad0eec25187243190d845e4ee761932"
         },
         {
           "number": 3,
           "title": "Chương 3: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_003.md",
-          "sha": "31e3c3afc176dcd98dd46eb202fd205b14861fd2"
+          "sha": "17df66bf7b9d04b3eec2b471e8cab1fceb6d9df0"
         },
         {
           "number": 4,
           "title": "Chương 4: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_004.md",
-          "sha": "ad7b9a0ffaa451890c535ee6f5a01949ced2fcaa"
+          "sha": "ca20b67bd485c1cd373512a14b83c7fc95378d17"
         },
         {
           "number": 5,
           "title": "Chương 5: Tập 1 Chương 1 - Nắm Bắt Tình Hình và Tiến Hóa Bản Thể (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_005.md",
-          "sha": "967611817ca007113f3fdfa3819e561a08eb8ad9"
+          "sha": "dd08cd650cf2ca464eb6220fd03ed8e380a56b8c"
         },
         {
           "number": 6,
           "title": "Chương 6: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_006.md",
-          "sha": "8bf6cc279ac7e0bc3228a317602b86f1c5696709"
+          "sha": "63a330b48e9dcb340836914210831ab76bb0a660"
         },
         {
           "number": 7,
           "title": "Chương 7: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_007.md",
-          "sha": "94f6ac1598cfcb222d81e905ca8166aa587b885f"
+          "sha": "d3170e5448f27686c92dec97fcc8b6becb2abc47"
         },
         {
           "number": 8,
           "title": "Chương 8: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_008.md",
-          "sha": "952bf2efd12fd85e453f86f0d19da22fc94cab6c"
+          "sha": "0bbf0e75acb6d921b9c94cb286a351c0aa807e7d"
         },
         {
           "number": 9,
           "title": "Chương 9: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_009.md",
-          "sha": "004178e7e575e72c117f72249c50c8c8e95b7f59"
+          "sha": "93f0faf6679309b170edd20cad38fc4c5974c164"
         },
         {
           "number": 10,

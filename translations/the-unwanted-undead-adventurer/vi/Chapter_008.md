@@ -1,6 +1,6 @@
 # Chương 8: Tập 1 Chương 2 - Mạo Hiểm Giả Rina (3)
 
-Rina Rupaage là một mạo hiểm giả mới vào nghề, một cô gái trẻ mới mười bảy tuổi. Giáp trụ và vũ khí của cô trông rẻ tiền thấy rõ, hầu hết đồ đạc khác trên người cũng vậy. Nhìn bộ dạng đó, người ta gần như có thể bảo trông cô khá túng thiếu.
+Rina Rupaage là một mạo hiểm giả mới vào nghề, một cô gái trẻ mới mười bảy tuổi. Giáp trụ và vũ khí của cô trông rẻ tiền thấy rõ, hầu hết đồ đạc khác trên người cũng vậy. Nhìn bộ dạng đó, bảo cô đang túng thiếu cũng chẳng ngoa.
 
 Thế nhưng, nhìn kỹ hơn một chút lại thấy cô có những nét rất nổi bật. Mái tóc vàng xinh đẹp được chăm sóc kỹ càng rất hợp với đôi mắt xanh lam sáng ngời, ánh lên vẻ tràn đầy hy vọng. Nói đúng hơn, một chiếc váy cùng lối ăn mặc thanh nhã sẽ hợp với cô hơn nhiều so với bộ đồ mạo hiểm giả.
 
@@ -24,15 +24,15 @@ Thật ra, Rina có khi còn nhỉnh hơn một bậc so với những mạo hi�
 
 Thế nhưng, xem ra Rina Rupaage lại chẳng mấy gặp may. Tất cả những người cô tìm đến xin lập đội đều vội vàng đánh giá sai về năng lực của cô.
 
-Bình thường, Hội Mạo Hiểm Giả địa phương sẽ thuê vài người chuyên tìm kiếm nhân tài, thường túc trực ở các quán rượu để săn lùng những gương mặt mới có triển vọng. Đáng chú ý là người phụ trách việc này cho hội ở Maalt không ai khác chính là Rentt Faina. Những lúc anh vắng mặt, một mạo hiểm giả cấp cao hơn sẽ làm thay. Không may cho Rina là khi cô tới, chẳng có ai trong hai người ở đó cả.
+Bình thường, Hội Mạo Hiểm Giả địa phương sẽ thuê vài người chuyên tìm kiếm nhân tài, thường túc trực ở các quán rượu để săn lùng những gương mặt mới có triển vọng. Đáng chú ý là người phụ trách việc này cho Hội ở Maalt không ai khác chính là Rentt Faina. Những lúc anh vắng mặt, một mạo hiểm giả cấp cao hơn sẽ làm thay. Không may cho Rina là khi cô tới, chẳng có ai trong hai người ở đó cả.
 
-Kết quả là vì không tìm được ai đi cùng, Rina đành quyết định một mình thám hiểm Mê Cung Nguyệt Ảnh. Dù các nhân viên Hội Mạo Hiểm Giả Maalt có phần e ngại, nhưng nhờ báo cáo từ vương đô gửi về năng lực của Rina, họ nhận định khả năng cô mất mạng trong mê cung là rất thấp. Vì vậy hội mới cho phép Rina tự nhận nhiệm vụ một mình, dù trước đó vẫn không quên dặn dò cảnh báo.
+Kết quả là vì không tìm được ai đi cùng, Rina đành quyết định một mình thám hiểm Mê Cung Nguyệt Ảnh. Dù các nhân viên Hội Mạo Hiểm Giả Maalt có phần e ngại, nhưng dựa theo báo cáo về năng lực của Rina gửi từ vương đô tới, họ nhận định khả năng cô mất mạng trong mê cung là rất thấp. Vì vậy Hội mới cho phép Rina tự nhận nhiệm vụ một mình, dù trước đó vẫn không quên dặn dò cảnh báo.
 
-Với Rina, chuyện Rentt hay một trong những mạo hiểm giả được hội giới thiệu tìm đến cô chỉ là vấn đề thời gian, nên trong lúc chờ đợi, tự mình đi khám phá chắc cũng chẳng sao. Dù phần lớn suy đoán của Rina đều đúng, nhưng nếu hiểu biết nhiều hơn về thế giới bên ngoài, có lẽ cô đã đưa ra quyết định khác.
+Với Rina, chuyện Rentt hay một trong những mạo hiểm giả được Hội giới thiệu tìm đến cô chỉ là vấn đề thời gian, nên trong lúc chờ đợi, tự mình đi khám phá chắc cũng chẳng sao. Dù phần lớn suy đoán của Rina đều đúng, nhưng nếu hiểu biết nhiều hơn về thế giới bên ngoài, có lẽ cô đã đưa ra quyết định khác.
 
-Rina vốn được bao bọc khá kỹ từ nhỏ. Dù nắm được nhiều kỹ năng kiếm thuật đa dạng, phần lớn các chiêu thức ấy lại mang tính nghi lễ nên chẳng có tác dụng gì trong thực chiến. Tệ hơn nữa, Rina hầu như không có chút kinh nghiệm thực chiến nào. Đó là lý do Rina rốt cuộc lại một mình đi thám hiểm trong Mê Cung Nguyệt Ảnh theo gợi ý của Hội Mạo Hiểm Giả Maalt, dù cuối cùng cô lại rơi vào tình cảnh suýt cướp đi mạng sống của mình.
+Rina vốn được bao bọc khá kỹ từ nhỏ. Dù nắm được nhiều kỹ năng kiếm thuật đa dạng, phần lớn các chiêu thức ấy lại mang tính nghi lễ nên chẳng có tác dụng gì trong thực chiến. Tệ hơn nữa, Rina hầu như không có chút kinh nghiệm thực chiến nào. Đó là lý do Rina rốt cuộc lại một mình đi thám hiểm trong Mê Cung Nguyệt Ảnh theo gợi ý của Hội Mạo Hiểm Giả Maalt, dù cuối cùng cô lại rơi vào cảnh suýt mất mạng.
 
-Khởi đầu khá suôn sẻ khi tự mình hạ gục được vài con quái vật, lẽ ra cô chỉ cần dừng lại ngay lúc đó, thu gom nguyên liệu cùng Ma Tinh nhặt được đem ra quầy thu đổi lấy một khoản kha khá. Thế nhưng Rina lại đánh giá quá cao năng lực của bản thân và quyết định tiến sâu hơn.
+Mọi chuyện khởi đầu khá suôn sẻ, cô tự mình hạ gục được vài con quái vật; lẽ ra cô chỉ cần dừng lại ngay lúc đó, thu gom nguyên liệu cùng Ma Tinh nhặt được đem ra quầy đổi lấy một khoản kha khá. Thế nhưng Rina lại đánh giá quá cao năng lực của bản thân và quyết định tiến sâu hơn.
 
 Nói đúng hơn, đây là sai lầm mà các mạo hiểm giả mới vào nghề rất hay mắc phải. Trước đây, dù bị ràng buộc bởi nhiều quy tắc khác và hay bị xem là gánh nặng thừa thãi trong đội, Rina vẫn có những mạo hiểm giả đồng nghiệp đi cùng, kéo theo đó là các tiền bối dày dạn kinh nghiệm đưa ra lời cảnh báo. Nhưng ở Maalt thì không như vậy, và vì thế Rina đã đưa ra một quyết định có thể phải trả giá bằng cả tính mạng.
 
@@ -44,7 +44,7 @@ Nhưng Rina vẫn còn may mắn; xét cho cùng, cô đã tình cờ gặp đư
 
 "...GÀOOOOO!!!"
 
-Nghe tiếng gầm, Rina ngẩng đầu lên và nhận ra một bóng hình nơi cuối hành lang.
+Rina ngẩng đầu nhìn theo tiếng gầm và thấy một bóng đen ở cuối hành lang.
 
 Còn đang tự hỏi ân nhân cứu mạng mình là ai, Rina bỗng nghẹn lời chẳng biết nói gì, bởi thứ đứng trong hành lang là một con quái vật nguy hiểm hơn Khô Lâu thông thường rất nhiều: một con Ngạ Quỷ. Trông nó cũng chẳng giống Ngạ Quỷ bình thường; trên mặt khắc một loạt hoa văn hình xăm phức tạp, khẽ tỏa ra ánh sáng xanh lam mờ ảo.
 
@@ -66,7 +66,7 @@ Rina chuẩn bị sẵn tinh thần.
 
 Thế nhưng, xem ra cuộc chạm trán giữa Rina và con Ngạ Quỷ lại là chuyện tốt. Chẳng hiểu vì lý do gì, con quái vật xuất hiện trước mặt Rina lại bắt đầu cất tiếng nói, rồi mở lời nhờ cô giúp đỡ. Cụ thể hơn, con Ngạ Quỷ đã nhờ cô mua quần áo giúp nó.
 
-Rina vội nhận lời rồi vội vã chạy về phía Maalt. Dù sao thì cô cũng vừa nói chuyện với một con quái vật. Là mạo hiểm giả, theo lẽ thường thì không được tin quái vật, mà chỉ cần báo cáo những gì mình thấy cho hội. Ít nhất thì lẽ thường là như vậy.
+Rina mau chóng nhận lời rồi vội vã chạy về phía Maalt. Dù sao thì cô cũng vừa nói chuyện với một con quái vật. Là mạo hiểm giả, theo lẽ thường thì không được tin lời quái vật, mà cứ báo thẳng những gì mình thấy cho Hội. Ít nhất thì lẽ thường là như vậy.
 
 Thế nhưng Rina hiểu rằng con Ngạ Quỷ đã cứu mạng mình. Bởi vậy, cô cảm thấy mình phải báo đáp ân tình đó bằng cách nào đó.
 
