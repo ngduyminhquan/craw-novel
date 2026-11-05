@@ -1,71 +1,71 @@
 # Chương 196: Tập 8 Chương 4 - Giải Thích và Giải Quyết (4)
 
-Khi tỉnh lại, tôi nhận ra mình không còn ở trong căn phòng ngầm nữa. Tôi cảm nhận được thứ gì đó êm ái bên dưới lưng mình. Khác với bầu không khí lạnh lẽo và sặc mùi nội tạng kỳ quái của căn phòng ngầm kia, không khí nơi đây phảng phất hương hoa thơm ngát.
+Khi tỉnh lại, tôi thấy mình không còn ở trong căn phòng dưới lòng đất nữa. Dưới lưng tôi là một bề mặt êm ái. Trái với bầu không khí lạnh lẽo và sực mùi nội tạng quái dị dưới căn phòng ngầm kia, nơi này lại thoang thoảng hương hoa thơm ngát.
 
-Tôi ngồi dậy và thấy mình đang nằm trên một chiếc giường lộng lẫy xa hoa. Trông nó quá đỗi đắt đỏ đối với túi tiền của một thường dân, và mọi thứ xung quanh tôi dường như cũng có giá trị tương tự. Đây rõ ràng là phòng ngủ trong dinh thự của một người giàu có, nhìn qua một cái là nhận ra ngay. Nhưng nó lại không hề quá mức lòe loẹt. Trái lại, các tông màu đều nhã nhặn và đem lại cảm giác êm dịu.
+Tôi ngồi dậy, nhận ra mình đang ở trên một chiếc giường xa hoa lộng lẫy. Thứ này đắt đỏ tới mức thường dân có mơ cũng chẳng với tới, mà đồ đạc xung quanh xem chừng cũng giá trị chẳng kém. Chỉ liếc qua cũng biết ngay đây là phòng ngủ trong dinh thự của một kẻ lắm tiền nhiều của. Có điều nó không hề lòe loẹt. Trái lại, tông màu rất trang nhã, tạo cảm giác thư thái dễ chịu.
 
-"Mình đang ở đâu thế này?" tôi thì thầm, nhưng chẳng có ai quanh đây để trả lời. Tôi cần phải kiểm tra xem cơ thể mình đang ở trong trạng thái nào, nên tôi dùng tay này nắm lấy tay kia rồi sờ lên mặt. Xem chừng tôi vẫn bình an vô sự.
+"Mình đang ở đâu thế này?" tôi thì thầm, nhưng xung quanh chẳng có lấy một bóng người để trả lời. Cần phải kiểm tra tình trạng cơ thể xem sao, tôi bèn lấy tay nọ nắm lấy tay kia rồi đưa lên sờ mặt. Xem chừng vẫn ổn cả.
 
-Tôi nhớ lại những lời Isaac đã nói trước khi tôi bất tỉnh. Theo lời anh ta thì tôi khó lòng duy trì được ý thức là do ảnh hưởng của Tiến Hóa Bản Thể. Tôi không thể biết chắc liệu mình có thực sự tiến hóa hay không, nhưng cơ thể tôi cảm thấy nhẹ nhõm hơn hẳn so với trước lúc ngất đi. Tôi bước xuống giường và vận động một chút, nhưng cũng chẳng nhận ra được gì nhiều. Tôi vặn cổ đủ để nhìn thấy lưng mình trước khi nhận ra độ dẻo dai của mình vốn chẳng có ý nghĩa gì cho lắm. Ngay từ đầu tôi đã có thể cử động như thể mình không hề có khớp xương, nên tôi vốn đã dẻo dai hết mức có thể rồi.
+Tôi nhớ lại những gì Isaac đã nói trước khi mình lịm đi. Theo lời anh ấy, sở dĩ tôi khó giữ nổi tỉnh táo là do ảnh hưởng của Tiến Hóa Bản Thể. Chưa rõ mình đã thực sự tiến hóa hay chưa, nhưng người tôi nhẹ nhõm hơn hẳn lúc trước khi ngất. Tôi rời giường, vận động một chút mà cũng chẳng phát hiện ra điều gì rõ rệt. Tôi ngoái cổ ra tận sau lưng để nhìn, rồi mới sực nhớ ra cái sự dẻo dai này chẳng nói lên được điều gì. Vốn dĩ tôi đã cử động được như thể không có khớp xương, nên độ dẻo dai coi như đã chạm trần rồi.
 
-Nếu còn điều gì khác để tôi có thể thử nghiệm thì đó chính là sức mạnh của mình, nhưng làm chuyện đó ở đây thì khó khăn thật đấy. Tôi không nắm rõ giới hạn của mình hiện tại là bao nhiêu. Mà ngay cả khi tôi biết giới hạn hiện tại, tôi vẫn có thể gia tăng chúng bằng cách luyện tập hoặc đánh bại quái vật, nên điều đó cũng chẳng đem lại cho tôi một khái niệm chính xác. Tôi cũng có thể kiểm tra bằng cách nhấc một tảng đá nặng lên hoặc thử bóp nát nó trong tay, nhưng xem ra ở đây chẳng có thứ gì mà tôi có thể yên tâm phá hủy mà không lo hậu quả cả. Tôi chẳng còn lựa chọn nào.
+Nếu còn thứ gì khác để thử thì chỉ có sức lực, nhưng làm chuyện đó ở đây thì hơi khó. Tôi vốn chẳng rõ giới hạn của mình nằm ở đâu. Mà dù có biết giới hạn trước đây thì qua rèn luyện hay hạ gục quái vật, sức mạnh cũng có thể tăng lên, nên giờ có thử cũng khó lòng so sánh chính xác. Tôi cũng có thể kiểm tra bằng cách nhấc một tảng đá nặng hay bóp nát nó trong tay, nhưng quanh đây xem chừng chẳng có món nào để tôi yên tâm đập phá mà không lo vạ lây. Rốt cuộc đành chịu.
 
-Mọi thứ xung quanh tôi đều vô cùng giá trị, và tôi sẽ chẳng thể nào đền bù nổi nếu làm hỏng hóc. Dù tôi rất muốn nói rằng giờ đây mình đã đủ khả năng chi trả, nhưng tôi đã sống trong cảnh nghèo túng quá lâu đến mức không nỡ lãng phí dù chỉ một đồng. Tôi sẵn sàng bỏ ra một khoản tiền cho chiếc túi ma thuật, nhưng khi nhắc tới việc mua sắm những món đồ thông thường, tôi lại là một kẻ căn ke từng đồng từng cắc.
+Đồ đạc xung quanh toàn thứ đắt tiền, lỡ tay làm hỏng thì tiền đâu mà đền. Dẫu rất muốn bảo rằng giờ mình đã có của ăn của để, nhưng bao năm sống trong cảnh nghèo túng khiến tôi chẳng nỡ hoang phí lấy một xu. Tôi có thể sẵn lòng dốc hầu bao sắm một chiếc túi ma thuật, nhưng đụng tới đồ dùng sinh hoạt thường ngày là tôi lại so đo từng đồng từng cắc.
 
-Dù sao thì tôi cũng đã kiểm tra xong cơ thể và quyết định tìm hiểu xem chuyện gì đang diễn ra. Tôi tiến lại gần cửa sổ xem mình có nhận ra đây là đâu không. Một khu vườn rộng lớn trải rộng bên ngoài. Những hàng rào cây xanh tạo thành một mê cung uốn lượn ngoằn ngoèo. Tôi trông thấy một cánh cổng ở phía xa và một lính gác đang đứng phía trước. May thay, chẳng mất bao lâu để tôi nhận ra vị trí của mình. Đây chính là dinh thự của gia tộc Latuule. Hẳn là có ai đó đã đưa tôi đến đây sau khi tôi bất tỉnh. Tôi muốn tìm Isaac, nên liền mở cửa rời khỏi phòng.
+Dù sao thì tôi cũng đã kiểm tra xong cơ thể và quyết định tìm hiểu xem chuyện gì đang diễn ra. Tôi bước lại gần cửa sổ xem mình có nhận ra đây là đâu không. Bên ngoài mở ra một khu vườn thênh thang. Những hàng rào cây xanh ken dày tạo thành một mê cung chằng chịt. Phía xa là cánh cổng có lính gác đứng nghiêm trang. May mà tôi chẳng mất nhiều thời gian để đoán ra vị trí của mình. Đây chính là dinh thự gia tộc Latuule. Chắc có ai đó đã đưa tôi về đây sau khi tôi ngất xỉu. Muốn tìm Isaac xem tình hình thế nào, tôi liền mở cửa bước ra khỏi phòng.
 
-"Chít!" có tiếng gì đó kêu lên.
+"Chít!" một tiếng kêu vang lên.
 
-Tôi cúi xuống nhìn và thấy Edel đang đứng bằng hai chân sau, ngước lên nhìn tôi. Tôi thoáng nghĩ có khi nào nhóc cũng tiến hóa rồi chăng, nhưng xem chừng chẳng có gì thay đổi nhiều ở nó cả. Hay có lẽ chỉ là ngoại hình của nó không đổi thôi? Nhưng theo những gì tôi thấy thì nhóc vẫn chỉ là một con Puchi Suri to lớn như thường lệ.
+Tôi nhìn xuống, thấy Edel đang đứng bằng hai chân sau, ngước mắt nhìn tôi. Tôi thoáng nghĩ biết đâu nó cũng tiến hóa rồi, nhưng trông nó chẳng có vẻ gì là thay đổi. Hay chỉ là vẻ ngoài không đổi thôi? Có điều nhìn tới nhìn lui thì nó vẫn chỉ là một con Puchi Suri to xác như mọi khi.
 
-Khi tôi tự hỏi vì sao nó lại đứng đây đợi mình, nó liền trả lời rằng nó vừa đi thám thính dinh thự Latuule và mới quay trở lại. Hóa ra chẳng phải vì nó chu đáo muốn tránh làm tôi thức giấc gì cho cam. Tôi không để bụng, nhưng tự nghĩ rằng Edel hoàn toàn có thể thám thính dinh thự Latuule vào bất kỳ lúc nào khác mà.
+Thấy tôi thắc mắc sao lại đứng đây đợi, nó liền đáp rằng mình vừa đi thám hiểm một vòng quanh dinh thự Latuule và mới về tới nơi. Hóa ra chẳng phải nó chu đáo sợ tôi thức giấc gì cho cam. Tôi cũng không để bụng, chỉ nghĩ Edel muốn dạo quanh dinh thự Latuule thì lúc nào mà chẳng được.
 
-Rồi Edel nói với tôi rằng bình thường thì việc đột nhập vào dinh thự này là bất khả thi. Nó đã cố tìm đường vượt qua mê cung hàng rào, hoặc tìm cách đào hầm chui qua bên dưới, nhưng dù làm cách nào thì cũng đều bị chặn đứng bên ngoài. Trước đây tôi từng thắc mắc vì sao một kẻ giàu có ở một thị trấn nhỏ lại sở hữu một hệ thống phòng thủ đáng kinh ngạc đến mức này, nhưng giờ tôi đã biết Laura và Isaac đều là Thượng Cấp Ma Cà Rồng. Thiết lập nên thứ như vậy đối với họ là chuyện quá đỗi dễ dàng.
+Nhưng rồi Edel cho biết ngày thường có muốn lẻn vào dinh thự này cũng chịu chết. Nó từng thử luồn lách qua mê cung hàng rào, thậm chí đào hầm chui xuống dưới, nhưng đường nào cũng bị chặn cứng. Trước kia tôi cứ thắc mắc sao một phú hộ ở thị trấn nhỏ lại dựng lên hệ thống phòng ngự kiên cố đến khó tin như thế, nhưng giờ đã rõ Laura và Isaac đều là Thượng Cấp Ma Cà Rồng. Bày ra ngần ấy thứ với họ chỉ là chuyện dễ như trở bàn tay.
 
-Nhưng giờ đây Edel lại có được cơ hội hiếm hoi này để khám phá. Tôi không rõ liệu nó có nên làm vậy mà chưa xin phép hay không, nhưng dường như Isaac đã bảo rằng cứ tự nhiên. Nó cũng không được phép đi lung tung khắp mọi nơi. Có rất nhiều cánh cửa nó không thể mở và những khu vực nó không thể tiếp cận. Edel chỉ được phép xem những gì họ sẵn lòng để lộ ra mà thôi.
+Hiếm hoi lắm mới có dịp thế này nên Edel chẳng dại gì bỏ lỡ. Tôi không rõ chưa xin phép mà chạy lung tung thế có ổn không, nhưng nghe đâu Isaac đã bảo cứ tự nhiên. Có điều nó cũng chẳng được đi bừa khắp nơi. Nhiều cánh cửa không thể mở, nhiều gian phòng không thể bước vào. Nói đúng hơn, người ta chỉ cho phép Edel thấy những gì họ sẵn lòng để nó thấy mà thôi.
 
-"Vậy mày có biết Isaac đang ở đâu không?" tôi cất tiếng hỏi, dù đằng nào nó cũng có thể đọc được suy nghĩ của tôi.
+"Thế mày có biết Isaac ở đâu không?" tôi cất tiếng hỏi, dù đằng nào nó cũng đọc được ý nghĩ trong đầu tôi.
 
-"Chít..." nó đáp lại rồi thoăn thoắt chạy đi, giờ đã hạ cả bốn chân xuống đất. Có vẻ như Edel muốn tôi đi theo nó.
+"Chít..." nó đáp một tiếng rồi bốn chân thoăn thoắt chạy đi. Xem bộ dạng thì Edel muốn tôi bám theo nó.
 
-Chúng tôi rảo bước qua dinh thự và bắt gặp một số người hầu. Tất cả họ đều nép sang một bên hành lang và cúi đầu chào khi nhìn thấy tôi, chờ tôi đi qua. Hoặc cũng có thể họ làm vậy là vì Edel. Tôi không chắc liệu họ có phải là con người hay không. Họ có thể là Thi Quỷ hoặc Hạ Cấp Ma Cà Rồng. Người đứng đầu gia tộc này là một Ma Cà Rồng, nên những người bình thường hẳn sẽ thấy việc sinh sống ở đây khó khăn về nhiều mặt.
+Tôi và Edel rảo bước qua dinh thự, dọc đường gặp không ít gia nhân. Hễ thấy tôi, ai nấy đều dạt sang mép hành lang cúi đầu chào rồi đứng đợi tôi đi qua. Hoặc biết đâu họ đang chào Edel không chừng. Chẳng rõ họ có phải con người hay không, có khi lại là Thi Quỷ hoặc Hạ Cấp Ma Cà Rồng. Chủ nhân ngôi nhà này là Ma Cà Rồng, người bình thường mà sống ở đây thì trăm bề bất tiện.
 
-Tôi tự hỏi liệu điều đó có đồng nghĩa với việc những người hầu cũng không thể là con người hay không. Tôi có thể sống chung hòa thuận với Lorraine, nhưng hầu hết con người sẽ chẳng chịu làm việc ở đây nếu biết được sự thật. Tuy nhiên nhìn từ khuôn mặt của họ, những người hầu này không phải là Thi Quỷ. Khuôn mặt của Thi Quỷ vốn rất dễ nhận biết. Dù vậy, đôi khi tôi chẳng thể nhận ra được khi họ được ngụy trang bằng ma pháp, như những gì tôi đã rút ra được từ sự cố lần này. Tôi quyết định sẽ hỏi Isaac về chuyện đó sau.
+Liệu điều đó có nghĩa đám gia nhân cũng không phải con người? Tôi thì chung sống hòa thuận với Lorraine được, chứ phần lớn người bình thường mà biết sự thật thì đời nào chịu làm việc ở đây. Có điều nhìn mặt họ thì không giống Thi Quỷ chút nào. Mặt mũi Thi Quỷ vốn rất dễ nhận ra. Chỉ là sau vụ lộn xộn vừa rồi, tôi mới nhận ra nếu chúng dùng ma pháp ngụy trang thì đôi khi tôi cũng chịu, chẳng phân biệt nổi. Thôi thì để lát nữa hỏi Isaac cho chắc.
 
-Chúng tôi tiếp tục tiến về phía trước một hồi cho đến khi Edel dừng lại. Chúng tôi đang đứng trước một cánh cửa, và nó nhìn tôi như thể muốn bảo tôi hãy mở nó ra. Tôi nghĩ bụng đáng lẽ người hầu của tôi phải là kẻ mở cửa cho tôi mới phải, nhưng với cấu tạo cơ thể của Edel thì chuyện đó e là hơi khó. Chà, nhóc ta có lẽ cũng có thể nhảy lên rồi dùng răng cắn chặt lấy quả đấm cửa để dùng sức nặng cơ thể vặn nó, nhưng ngay cả những quả đấm cửa trong ngôi nhà này cũng được chạm khắc tinh xảo và rõ ràng là rất đắt giá. Tôi không muốn mạo hiểm làm hỏng chúng, nên tự mình nắm lấy quả đấm cửa.
+Đi thêm một đoạn nữa thì Edel dừng lại trước một cánh cửa, quay đầu nhìn tôi như muốn bảo mở ra giùm. Nghĩ bụng phận làm tớ thì phải mở cửa cho chủ mới phải, nhưng với cấu tạo cơ thể của Edel thì e là làm khó nó rồi. Chà, nó có thể nhảy phóc lên ngoạm chặt nắm đấm cửa rồi dùng sức nặng cơ thể để vặn chốt, nhưng đến cả nắm đấm cửa ở dinh thự này cũng được chạm trổ tinh xảo và nom đắt giá vô cùng. Không dám mạo hiểm làm hỏng đồ của người ta, tôi bèn tự mình vặn nắm cửa.
 
-Thật không may, tôi đã bóp nát vụn quả đấm cửa trong lòng bàn tay. Khối gỗ chạm khắc tuyệt đẹp giờ đã biến thành một đống mảnh vụn. Tôi bắt đầu hoảng hốt khi thấy ba người hầu từ đâu bỗng tiến lại gần mình.
+Khổ nỗi, tôi vừa bóp một cái là nắm đấm cửa nát vụn trong tay. Khối gỗ chạm trổ tuyệt đẹp giờ chỉ còn là một đống dăm vụn. Giữa lúc tôi còn đang cuống cuồng thì chẳng biết từ đâu, ba người hầu đã bước lại gần.
 
-"À, ừm, tôi có thể giải thích được mà," tôi nói, nhưng họ chẳng hề đáp lại tôi câu nào. Họ thay một quả đấm cửa mới, rồi hai người trong số họ cúi đầu chào tôi trong khi người thứ ba mở cửa và cũng cúi chào theo. Tôi cảm thấy vô cùng ngượng ngùng và xấu hổ vì chuyện đó. Thậm chí nếu họ nổi giận với tôi thì có lẽ tôi còn thấy nhẹ nhõm hơn.
+"Ờ, chuyện này... tôi giải thích được mà," tôi vội phân trần, nhưng họ chẳng nói chẳng rằng. Họ thoăn thoắt thay ngay một nắm cửa mới; hai người cúi đầu chào tôi, người thứ ba mở cửa rồi cũng cúi chào theo. Thái độ đó làm tôi ngượng chín cả mặt. Thà rằng họ cứ nổi đóa lên mắng cho một trận, có khi tôi còn thấy dễ chịu hơn.
 
-Tôi cảm ơn họ vì đã phải vất vả xử lý rắc rối, rồi bước vào trong phòng. Edel thì đã biến mất từ lúc nào. Nhóc ta đã bỏ rơi tôi mà phóng tót vào phòng ngay khi tôi gặp rắc rối. Hành xử thế thì chẳng ra dáng một người hầu chút nào. Chà, nếu tôi gặp phải hiểm cảnh thực sự thì hẳn là nhóc sẽ giúp thôi, nên tôi cũng chẳng thể phàn nàn gì được.
+Tôi cảm ơn họ vì đã cất công xử lý rồi bước vào phòng. Edel thì đã lặn mất tăm từ lúc nào. Vừa thấy tôi vướng rắc rối là nó bỏ mặc chủ nhân, phóng tót vào trong. Đúng là chẳng ra dáng kẻ làm tớ chút nào. Mà thôi, nếu tôi gặp nguy hiểm thực sự thì chắc nó cũng giúp, nên tôi chẳng phàn nàn làm gì.
 
-Khi tôi bước vào phòng, tôi nghe thấy tiếng cánh cửa khép lại êm ru. Người hầu vừa mở cửa đã đóng nó lại giùm tôi. Họ phục vụ chu đáo đến mức khiến tôi gần như cảm thấy áy náy.
+Bước vào trong, tôi nghe tiếng cánh cửa khẽ khép lại sau lưng. Người hầu mở cửa lúc nãy đã ý tứ đóng lại giúp tôi. Cung cách phục vụ chu đáo đến mức làm tôi phát ngại.
 
-Tôi đưa mắt nhìn quanh phòng và trông thấy Isaac trong bộ đồng phục quản gia được là ủi phẳng phiu hoàn hảo. Rina cũng ở đó, mặc kiểu trang phục xa hoa lộng lẫy giống như Laura từng mặc. Rina đang ngồi trên một chiếc ghế, còn Isaac đứng cạnh và có vẻ như đang phục vụ cô. Chiếc bàn trước mặt Rina đặt một tách trà cùng rất nhiều món đồ ngọt trông thật ngon miệng. Xem ra Rina cũng đang được tiếp đãi vô cùng chu đáo chẳng kém gì tôi.
+Đưa mắt nhìn quanh phòng, tôi thấy Isaac trong bộ âu phục quản gia phẳng phiu không một nếp nhăn. Rina cũng ở đấy, khoác trên mình bộ váy áo lộng lẫy hệt như đồ của Laura. Cô ấy ngồi trên ghế, còn Isaac đứng bên cạnh, dáng vẻ như đang hầu trà. Trên bàn trước mặt Rina đặt một tách trà cùng đủ loại bánh ngọt nom rất ngon mắt. Xem chừng cô ấy cũng được tiếp đãi chu đáo chẳng kém gì tôi.
 
-Họ nghe thấy tiếng tôi bước vào liền quay đầu lại nhìn. Rina đứng dậy và thoăn thoắt chạy bước nhỏ lại gần. Căn phòng này rất rộng, nên nếu chỉ thong thả bước đi thì sẽ mất một lúc. Quy mô của nơi này rộng lớn hơn nhiều so với bất kỳ quán trọ tồi tàn nào tôi từng trọ lại, hay thậm chí cả căn nhà của Lorraine.
+Nghe tiếng tôi bước vào, cả hai liền quay lại nhìn. Rina đứng dậy rồi chạy ùa về phía tôi. Căn phòng rộng thênh thang, nếu chỉ thong thả bước thì chắc mất một lúc. Nơi này rộng rãi hơn nhiều so với mấy quán trọ rẻ tiền tôi từng ở, hay thậm chí là cả nhà của Lorraine.
 
-Nhưng tôi đoán nghĩ như vậy về nhà của Lorraine thì hơi khiếm nhã thật, nhất là khi tôi đang ăn nhờ ở đậu tại đó. Dù sao thì nhà của Lorraine cũng đâu có nhỏ đến thế. Nó chỉ đem lại cảm giác chật chội vì những chồng sách vở và tài liệu chất cao như núi mà thôi. Tôi hiếm khi được sống ở một nơi có không gian thoáng đãng đến nhường này. Nhưng thôi, sao cũng được.
+Nghĩ vậy về nhà Lorraine kể cũng hơi thất lễ, nhất là khi tôi còn đang ăn nhờ ở đậu nhà cô ấy. Thực ra nhà Lorraine cũng đâu đến nỗi hẹp. Chỉ tại sách vở tài liệu chất đống khắp nơi nên mới có cảm giác chật chội thế thôi. Hiếm khi tôi được ở một nơi thênh thang nhường này. Có điều thôi, để ý làm gì.
+
+"Anh Rentt!" Rina reo lên rồi lao thẳng vào lòng tôi. Tôi đỡ lấy, thấy cô ấy nhẹ bẫng. Có lẽ Tiến Hóa Bản Thể đã tăng vọt sức mạnh của tôi. Lúc làm vỡ nắm cửa tôi cũng khó kiểm soát lực tay, thành thử giờ chẳng dám đụng chạm ai nếu không hết sức cẩn thận. Tôi phải sớm làm quen với chuyện này mới được.
 
 ![](images/ch196-01.webp)
 
-"Anh Rentt!" Rina kêu lên rồi nhảy bổ vào vòng tay tôi. Tôi đỡ lấy cô, và cô bé nhẹ bẫng. Có lẽ Tiến Hóa Bản Thể đã tăng cường sức mạnh của tôi lên rất nhiều. Lúc làm vỡ quả đấm cửa tôi cũng khó lòng kiểm soát được lực tay của mình, thế nên tôi không thể tùy tiện chạm vào người khác mà thiếu đi sự cẩn trọng cao độ. Tôi cần phải làm quen với điều này thêm một chút nữa.
+"Rina, cô không sao chứ? Ý tôi là, cô vừa trải qua từng ấy chuyện mà..." tôi nói.
 
-"Rina, cô có sao không? Ý tôi là, cô đã phải trải qua nhiều chuyện như vậy mà," tôi nói.
+Hết bị Ma Cà Rồng bắt cóc, bị biến thành Ma Cà Rồng, rồi lại còn bị dung hợp với Lõi Mê Cung, chuyến phiêu lưu của Rina đúng là sóng gió khôn cùng. Lại nhớ lần cô ấy chạm trán một con Ngạ Quỷ nào đó trước đây, tôi thầm nghĩ chắc số cô ấy bị nguyền rủa rồi cũng nên. Ở khoản này thì tôi với cô ấy đúng là đồng bệnh tương lân. Nhưng chưa rõ Rina đã biết được bao nhiêu phần, tôi đành nói nước đôi như vậy.
 
-Rina đã bị Ma Cà Rồng bắt giữ, bị biến thành Ma Cà Rồng, rồi còn bị dung hợp với Lõi Mê Cung, thế nên cô bé đã trải qua một chuyến phiêu lưu chẳng hề tầm thường chút nào. Xét đến việc cô bé cũng từng đụng độ với một con Ngạ Quỷ nào đó nữa, tôi đành phải cho rằng Rina mang số bị nguyền rủa rồi. Tôi cảm thấy chúng tôi là những kẻ đồng bệnh tương lân trên phương diện ấy. Nhưng tôi không biết Rina đã nắm được bao nhiêu phần sự thật, nên tôi đành nói năng một cách lấp lửng mơ hồ.
+"Tôi ổn mà," Rina đáp. "Người tôi vẫn khỏe, chẳng thấy có vấn đề gì lạ. Có điều... thỉnh thoảng nhìn người khác, tôi lại thấy họ cứ như đồ ăn vậy."
 
-"Tôi ổn mà," Rina đáp. "Tôi thấy khỏe khoắn và chẳng có vấn đề gì đặc biệt cả. Dù thỉnh thoảng có những khoảnh khắc người khác trông cứ như đồ ăn đối với tôi vậy."
+Nghe thì rợn tóc gáy thật đấy, nhưng tôi hiểu cảm giác của cô ấy. Thỉnh thoảng nhìn ai đó, trong đầu tôi cũng vô thức bật ra ý nghĩ trông người kia ngon lành ghê, máu họ hẳn phải mượt như nhung, bổ dưỡng biết mấy, hay vị thịt hẳn sẽ đậm đà lắm. Rina chắc cũng đang gặp tình cảnh tương tự. Cơn thèm này không đến mức không kìm nén được, nên cũng chưa phải chuyện gì quá to tát.
 
-Những suy nghĩ ấy nghe thật kinh hãi làm sao, nhưng tôi hiểu cảm giác của cô. Đôi khi nhìn một ai đó, một phần não bộ của tôi sẽ vô thức nghĩ rằng họ trông có vẻ khá ngon lành, hay dòng máu của họ ắt hẳn sẽ êm mượt như lụa, hoặc họ sẽ là một nguồn dinh dưỡng dồi dào, hay thịt của họ sẽ mang một hương vị đậm đà. Rina có lẽ cũng đang trải qua điều tương tự. Cảm giác này không phải là bất khả thi để kìm nén, nên nó cũng chẳng phải là vấn đề quá to tát.
+"Ra thế, vậy cô biết chuyện xảy ra lúc mình bất tỉnh rồi à?" tôi hỏi.
 
-"Ra vậy, thế cô biết chuyện gì đã xảy ra trong lúc mình bất tỉnh rồi à?" tôi hỏi.
+"Vâng, giờ tôi thành Ma Cà Rồng rồi, đúng không anh?"
 
-"Vâng, giờ tôi là một Ma Cà Rồng rồi, đúng không anh?"
+Sau Rina, Isaac cũng bước lại gần tôi. "Chào buổi sáng, ngài Rentt."
 
-Isaac tiến lại gần tôi sau Rina. "Chào buổi sáng, ngài Rentt."
+"Ồ, chào buổi sáng. Anh kể hết mọi chuyện cho Rina rồi à?"
 
-"Ồ, chào buổi sáng. Anh đã kể hết mọi chuyện cho Rina nghe rồi à?"
-
-"Vâng. Cô Lorraine cũng vừa ở đây cho đến tận lúc nãy, nhưng giờ cô ấy đang vùi mình trong thư viện rồi. Cô ấy đã vô cùng hào hứng khi trông thấy nơi đó."
+"Vâng. Vừa nãy cô Lorraine cũng ở đây, nhưng giờ thì đang vùi mình trong thư viện rồi. Vừa thấy nơi ấy là cô ấy thích mê."
