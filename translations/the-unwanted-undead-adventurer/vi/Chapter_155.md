@@ -14,146 +14,146 @@
 
 ![](images/ch155-07.webp)
 
-Dòng người nườm nượp đổ vào rồi lại túa ra khỏi cổng vương đô. Chuyện đó cũng là lẽ đương nhiên. Dẫu Vương Quốc Yaaran có nhỏ bé đến đâu thì đây vẫn là một quốc gia đàng hoàng; lượng khách vãng lai qua lại ắt hẳn không hề ít. Tuy nhiên, vì là một đất nước kém phát triển hơn, nên công tác an ninh nơi đây ở một vài phương diện vẫn còn khá lỏng lẻo.
+Dòng người nườm nượp đổ qua cổng vương đô, kẻ ra người vào không ngớt. Chuyện đó cũng dễ hiểu. Dù Vương Quốc Yaaran có nhỏ bé, đây vẫn là một quốc gia đàng hoàng nên lượng người qua lại ắt hẳn không hề ít. Có điều, vì là một nước kém phát triển, an ninh ở đây đôi chỗ vẫn còn khá lỏng lẻo.
 
-"Giấy tờ tùy thân của ông đâu?" Một người lính gác cổng cất tiếng hỏi người đàn ông đứng xếp hàng ngay phía trước chúng tôi. Quần áo của ông ta đã sờn rách, trên đầu đội một chiếc mũ rơm, trên tay ôm bọc rau củ gói trong mảnh vải. Trông ông ta chỉ có thể là người vừa từ một ngôi làng nhỏ nào đó tới.
+"Giấy tờ tùy thân của ông đâu?" một người lính gác hỏi người đàn ông xếp hàng ngay trước chúng tôi. Quần áo ông ta đã sờn cũ, đầu đội mũ rơm, tay ôm mớ rau bọc trong mảnh vải. Trông ông ta chẳng lẫn vào đâu được, đích thị là người từ một ngôi làng nhỏ nào đó lên.
 
-"Ờ, ơ, tui làm gì có mấy cái thứ đó," ông ta đáp, giọng địa phương đặc sệt và vô cùng khó nghe.
+"Ờ, ơ... tôi làm gì có mấy thứ đó," ông ta đáp, giọng địa phương nặng trịch, rất khó nghe ra từng chữ.
 
-Tuy nhiên, người lính gác dường như đã quá quen với cảnh này. Anh ta thở dài, khẽ lắc đầu rồi hỏi: "Ông từ đâu tới?"
+Có vẻ người lính gác đã quá quen với cảnh này. Anh ta thở dài, lắc đầu rồi hỏi: "Thế ông từ đâu tới?"
 
-"Tui từ tuốt ngoài Yanga tới. Lên phố để bán đống này." Người đàn ông mở bọc vải ra để khoe số rau củ của mình, khẳng định bản thân chẳng mang theo thứ gì đáng ngờ.
+"Tôi ở tít ngoài Yanga lên. Lên phố để bán mớ này." Người đàn ông mở bọc vải cho xem đống rau củ, khẳng định mình chẳng mang theo thứ gì khả nghi.
 
-"Tôi biết rồi. Cứ qua đi," người lính gác gật đầu nói rồi cho ông ta bước qua cổng.
+"Biết rồi. Cứ qua đi," người lính gác gật đầu rồi cho ông ta vào trong.
 
-"Anh nghĩ anh lính đó làm vậy có được không?" Lorraine hỏi. "Ông ta hoàn toàn có thể giấu đồ phi pháp bên trong đống rau củ đó mà." Cô đang đánh giá dựa trên góc nhìn của một công dân Đế Quốc.
+"Cứ thế mà cho qua được à?" Lorraine hỏi. "Biết đâu ông ta giấu hàng cấm trong mớ rau củ đó thì sao." Cô đang nhìn nhận sự việc theo tiêu chuẩn của một công dân Đế Quốc.
 
-"Tôi cũng chịu. Chắc là ổn thôi. Nghe nói khi tiến vào khu quý tộc gần lâu đài, người ta mới tiến hành kiểm tra nghiêm ngặt hơn. Hơn nữa, lính gác còn có chó săn có lẽ sẽ đánh hơi được bất cứ thứ gì phi pháp," tôi vừa nhìn quanh vừa đáp, bản thân cũng chẳng dám chắc mình có đúng hay không. Thực ra các mạo hiểm giả tiền bối luôn bảo với tôi rằng an ninh ở vương đô lỏng lẻo ra sao. Xem chừng lời họ nói quả không sai.
+"Tôi cũng chịu, chắc không sao đâu. Nghe bảo khi vào khu quý tộc gần lâu đài người ta mới khám xét gắt gao. Vả lại lính gác còn có chó săn, chắc đồ cấm gì cũng ngửi ra thôi," tôi vừa nhìn quanh vừa nói, bản thân cũng chẳng rõ mình đoán có đúng không. Mấy mạo hiểm giả đi trước vẫn thường kể an ninh vương đô lỏng lẻo lắm. Xem ra họ nói chẳng sai chút nào.
 
-"Tôi thấy thật ấn tượng khi họ vẫn tồn tại được ngần ấy năm mà chưa bị quốc gia láng giềng nào xóa sổ đấy," Lorraine lẩm bẩm.
+"Trụ được ngần ấy năm mà chưa bị nước láng giềng nào xóa sổ, kể cũng tài thật," Lorraine lẩm bẩm.
 
-"Căn bản là có xóa sổ Yaaran thì cũng chẳng mang lại lợi ích gì nhiều. Mở rộng lãnh thổ thì có thể, nhưng quanh vùng này chẳng có lấy mấy mảnh đất ra hồn."
+"Căn bản là có xóa sổ Yaaran thì cũng chẳng bõ công. Mở rộng lãnh thổ thì may ra, chứ đất đai quanh vùng này làm gì có mấy chỗ ra hồn."
 
-Một vài thành phố của Yaaran thực ra cũng đủ lớn để bõ công tấn công, nhưng các quốc gia khác trong khu vực vốn dĩ cũng chẳng khác là bao. Họ sống quá thảnh thơi để dính dáng tới những cuộc tranh giành quyền lực quy mô lớn diễn ra nơi trung tâm thế giới. Ờ thì, có thể họ không thảnh thơi đến mức đó, nhưng trông họ sẽ có vẻ như vậy nếu đem so với luật lệ và quy chuẩn khắt khe của Đế Quốc. Chẳng phải ngẫu nhiên mà các quốc gia này lại không có chân trong hàng ngũ những thế lực lớn trên vũ đài thế giới.
+Thực ra vài thành phố ở Yaaran cũng đủ lớn để bõ công đánh chiếm, nhưng mấy nước xung quanh vốn dĩ cũng chẳng khá hơn là mấy. Họ sống quá an phận để bận tâm tới những cuộc tranh giành quyền lực đao to búa lớn nơi trung tâm thế giới. Ờ thì, có khi họ chẳng an phận đến mức ấy đâu, nhưng so với mớ luật lệ và quy củ nghiêm ngặt của Đế Quốc thì trông họ đúng là như vậy thật. Những quốc gia này không có chân trong hàng ngũ các cường quốc trên thế giới cũng có lý do cả.
 
-"Người tiếp theo!" Người lính gác cất tiếng, thế là tôi bước lên. Anh ta nhìn vào mặt tôi. "Có giấy tờ tùy thân không?" Anh ta hỏi mà chẳng hề đả động gì tới chiếc mặt nạ của tôi, điều khiến tôi khá ngạc nhiên. Không ít người mang thương tích trên mặt muốn che giấu, và người lính gác này rõ ràng đủ lịch sự để không hỏi han tò mò. Tôi đưa cho anh ta xem tấm thẻ căn cước mang tên Rentt Vivie. "Ra vậy, mạo hiểm giả sao? Điều gì đưa cậu tới vương đô thế?"
+"Người tiếp theo!" người lính gác gọi, thế là tôi bước lên. Anh nhìn mặt tôi một lượt. "Có giấy tờ tùy thân không?" anh hỏi, ngạc nhiên là không hề đả động gì tới chiếc mặt nạ của tôi. Không ít người bị thương tật trên mặt muốn che đi, và người lính này rõ ràng đủ ý tứ để không tò mò gặng hỏi. Tôi chìa ra tấm thẻ căn cước mang tên Rentt Vivie. "Ra vậy, mạo hiểm giả à? Cậu lên vương đô có việc gì thế?"
 
-Nói thật lòng thì tôi chẳng có lý do cụ thể nào để tới đây cả, ngoại trừ việc đi theo một nhóm vừa đặt chân đến đã lập tức tách ra. "Tôi tới để ngắm nhìn thành phố," tôi đáp, vì chẳng nghĩ ra được cái cớ nào hay hơn. "Tôi hành nghề mạo hiểm giả ở một thành phố khác, nhưng rốt cuộc cũng muốn tới vương đô làm việc, nên tôi nghĩ mình nên lên đây ngó nghiêng tìm hiểu trước."
+Thú thật, tôi chẳng có lý do gì để tới đây ngoài việc đi ké một nhóm vừa đến nơi đã giải tán ai đi đường nấy. "Tôi lên ngắm phố phường thôi," tôi đáp, vì chẳng nghĩ ra cái cớ nào khá hơn. "Tôi làm mạo hiểm giả ở thành phố khác, nhưng sau này cũng muốn lên vương đô hành nghề nên tính lên xem trước xem sao."
 
-"Hiểu rồi. Đồng Cấp nhỉ? Một khi đạt tới Ngân Cấp thì cậu đã thừa sức hành nghề ở vương đô rồi. Cứ tiếp tục cố gắng nhé. Được rồi, cậu có thể qua!" Người lính gác nói rồi vỗ vai tôi.
+"Hiểu rồi. Đồng Cấp à? Lên được Ngân Cấp là cậu thừa sức hành nghề ở vương đô rồi đấy. Cứ cố gắng tiếp nhé. Được rồi, qua đi!" người lính gác nói rồi vỗ vai tôi.
 
-Anh ta có vẻ khá tận tụy với công việc, nhưng theo những gì tôi quan sát thì anh ta chẳng hề ghi chép lại danh tính những người ra vào. Tôi đồ rằng họ sẽ làm vậy với những ai tiến vào khu quý tộc, nhưng việc ghi lại tên của tất cả những người bước vào ngoại thành có lẽ sẽ tốn quá nhiều thời gian. Trông thì có vẻ hơi cẩu thả, nhưng Yaaran vốn dĩ là một đất nước như thế.
+Anh ta có vẻ nghiêm túc với công việc, nhưng theo tôi thấy thì anh chẳng buồn ghi chép lại ai ra ai vào. Chắc là vào khu quý tộc người ta mới ghi sổ, chứ ghi tên từng người vào ngoại thành thì mất thời gian quá. Trông thì có vẻ hơi chểnh mảng, nhưng Yaaran vốn dĩ là kiểu đất nước như thế.
 
-Sau khi tôi xong lượt, Lorraine cũng được người lính gác thẩm vấn. Tôi đã đi cách họ một đoạn khá xa, nhưng đôi tai Ma Cà Rồng của tôi vẫn đủ thính để nghe rõ mồn một cuộc trò chuyện giữa hai người.
+Đến lượt Lorraine, người lính gác cũng chặn lại hỏi giấy tờ. Tôi đã đi trước một đoạn khá xa, nhưng đôi tai Ma Cà Rồng vẫn đủ thính để nghe rõ mồn một.
 
-"Giấy tờ tùy thân của cô đâu?" Người lính gác hỏi, thế là Lorraine chìa ra tấm thẻ căn cước từ Đế Quốc. "Cô... ờ, đến từ Đế Quốc sao?" Người lính gác cất lời bằng giọng vô cùng kính cẩn.
+"Giấy tờ tùy thân của cô đâu?" người lính gác hỏi, Lorraine liền chìa ra tấm thẻ căn cước của Đế Quốc. "Cô... ờ, người của Đế Quốc ạ?" người lính gác đổi giọng, cung kính hẳn.
 
-Đế Quốc nằm cách rất xa Yaaran, nhưng ai nấy đều biết đó là một cường quốc vĩ đại và hùng mạnh. Là một công dân Yaaran, tôi hoàn toàn hiểu được vì sao anh ta lại thấy e dè khi đối mặt với một vị khách đến từ Đế Quốc. Một nước đi sai lầm có thể châm ngòi cho cả một cuộc chiến tranh.
+Đế Quốc nằm cách rất xa Yaaran, nhưng ai cũng biết đó là một cường quốc hùng mạnh. Là người Yaaran, tôi thừa hiểu vì sao anh ta lại khép nép trước khách đến từ Đế Quốc. Sơ sẩy một cái là châm ngòi chiến tranh như chơi.
 
-"Phải, nhưng đừng bận tâm chuyện đó. Tôi chỉ tới ngắm cảnh thôi. Chắc anh không phiền cho tôi qua chứ?" Lorraine tự tin hỏi.
+"Phải, nhưng anh không cần bận tâm đâu. Tôi chỉ ghé ngắm cảnh thôi mà. Cho tôi qua chắc không sao chứ?" Lorraine tự tin hỏi.
 
-"Tất nhiên là không rồi. Chỉ cần cô nhớ rằng bất kể xuất thân từ quốc gia nào, cô cũng không được phép gây rắc rối ở đây," người lính gác khẳng định, vẫn giữ lại chút tôn nghiêm của mình.
+"Tất nhiên là được rồi. Chỉ xin cô nhớ cho, dù là người nước nào thì ở đây cũng không được gây rắc rối," người lính gác nhắc nhở, cố vớt vát lại chút thể diện.
 
-"Tôi biết rồi, tôi sẽ ngoan ngoãn. Chào anh," Lorraine nói rồi bước lại gần tôi.
+"Tôi biết rồi, tôi sẽ giữ chừng mực. Chào anh nhé," Lorraine nói rồi rảo bước lại chỗ tôi.
 
-"Người lính gác đó khiêm nhường quá mức cần thiết rồi đấy."
+"Anh lính gác đó nhún nhường quá mức rồi đấy."
 
-"Ừ, có lẽ vậy. Nhưng thông thường thì chẳng mấy ai từ Đế Quốc lại tới Yaaran làm gì. Giống như cảm giác của Riri và Fahri khi chúng ta từ Maalt về thăm họ vậy."
+"Ừ, chắc thế. Nhưng bình thường có mấy ai từ Đế Quốc mò tới Yaaran đâu. Giống như cảm giác của Riri và Fahri lúc chúng ta từ Maalt về làng vậy."
 
-"Bởi vì tôi tới từ một đại đô thị sao? So với những người khác ở Đế Quốc thì tôi thậm chí còn chẳng hẳn là kiểu người thành thị cho lắm, nhưng mà thôi kệ đi. Chúng ta đã tới vương đô rồi, chi bằng cứ dạo quanh một vòng xem sao. Có nơi nào đặc biệt mà anh muốn tới không?"
+"Vì tôi đến từ một thành phố lớn à? So với những người khác ở Đế Quốc, tôi còn chẳng hẳn là kiểu người ưa chốn thành thị, nhưng mà thôi kệ đi. Dù sao cũng đến vương đô rồi, cứ dạo quanh một vòng xem sao. Anh có muốn ghé chỗ nào đặc biệt không?"
 
-"Tôi đoán là mình muốn ghé qua Hội xem thử. Nhưng có lẽ tôi không nên tới đó thì hơn."
+"Chắc tôi muốn ghé qua Hội xem thử. Cơ mà có khi không nên tới thì hơn."
 
-Thủ tục kiểm tra căn cước đơn giản ở cổng thành là một chuyện, nhưng nếu tôi đến trụ sở Hội mạo hiểm giả trong bộ dạng này, tôi tin chắc họ sẽ ghi chép lại hồ sơ. Không phải là áo choàng và mặt nạ hiếm gặp đến thế, mà là vì chiếc mặt nạ của tôi trông giống hệt đầu lâu nên càng dễ khiến người khác e ngại.
+Kiểm tra qua loa ngoài cổng thành là một chuyện, chứ ăn mặc thế này mà mò tới trụ sở Hội, chắc chắn họ sẽ lưu hồ sơ lại. Không hẳn vì áo choàng hay mặt nạ là của hiếm, mà bởi cái mặt nạ của tôi trông chẳng khác gì đầu lâu, nhìn vào ai cũng thấy chờn.
 
-"Nếu anh đổi màu áo choàng và dùng một tấm vải hay thứ gì đó che mặt nạ lại thì sao?" Lorraine gợi ý. "Tôi có thể đổi màu bằng ma pháp. Dù vậy, áo choàng của anh có khả năng kháng ma pháp rất cao, nên tôi không biết liệu bề mặt của nó có bị tác động hay không nữa."
+"Hay anh đổi màu áo choàng rồi lấy mảnh vải bọc cái mặt nạ lại xem?" Lorraine gợi ý. "Tôi có thể dùng ma pháp đổi màu giúp anh. Có điều áo choàng của anh kháng ma pháp dữ quá, chẳng biết ma pháp có ngấm nổi lên lớp bề mặt không nữa."
 
-Ít nhất thì nếu tôi tới thăm họ trong bộ dạng đó, lần sau họ có thể sẽ không nhận ra tôi. Chuyện này cũng đáng để thử, và nếu không thành công thì chúng tôi chỉ việc không đến Hội nữa là xong, vì thế chúng tôi rẽ vào một con hẻm vắng người.
+Ít ra ghé Hội trong bộ dạng đó thì lần sau quay lại họ cũng khó lòng nhận ra tôi. Dù sao cũng đáng thử một phen, nếu không xong thì khỏi đến Hội nữa là được, thế nên hai chúng tôi rẽ vào một con hẻm vắng.
 
 ◆◇◆◇◆
 
-"Tôi nghĩ thế là được rồi đấy. Không tồi đúng không?" Lorraine nói. Thật may là ma pháp dường như ít nhất cũng có tác dụng lên bề mặt của chiếc áo choàng, thế nên toàn bộ màu sắc đã được thay đổi. Trước đó nó đen kịt như một khoảng hư không, nhưng giờ đã chuyển sang tông màu tím chủ đạo với những hoa văn cầu kỳ, phức tạp được vẽ bên trên.
+"Thế này chắc được rồi đấy. Trông cũng ra gì đấy chứ?" Lorraine nói. May mà ma pháp ít nhất cũng tác động được lên bề mặt áo choàng, đổi được màu toàn bộ. Trước kia nó đen ngòm như cõi hư không, giờ đã chuyển sang nền tím với những hoa văn cầu kỳ, phức tạp phủ bên trên.
 
-"Tôi không ngờ cô lại có khiếu thiết kế trang phục đấy, Lorraine." Tôi cứ ngỡ cô chỉ định đổi áo choàng sang màu đỏ hay vàng gì đó, chứ không ngờ lại tạo cho nó một mẫu thiết kế đàng hoàng như thế này.
+"Không ngờ cô cũng có khiếu thiết kế quần áo đấy, Lorraine." Tôi cứ ngỡ cô chỉ nhuộm đại sang màu đỏ hay vàng gì đó, ai dè lại vẽ ra cả một mẫu thiết kế đàng hoàng thế này.
 
-Lorraine lắc đầu. "Tôi không có đâu. Những kiểu trang phục thế này dạo gần đây đang thịnh hành ở hoàng đô thôi. Tôi không mặc chúng, nhưng thấy có vẻ phù hợp với dịp này."
+Lorraine lắc đầu. "Khiếu gì đâu. Dạo gần đây kiểu đồ này đang mốt ở hoàng đô thôi mà. Bình thường tôi không mặc, nhưng thấy cũng hợp với hoàn cảnh này."
 
-Nếu phong cách này đang làm mưa làm gió ở hoàng đô, thì điều đó đồng nghĩa với việc đây là phong cách thời thượng nhất trên thế giới. Người dân Yaaran hẳn vẫn còn chưa hề quen thuộc với nó. Biết đâu tôi có thể ưỡn ngực nghênh ngang ra vẻ mình là kẻ sành điệu hợp thời cũng nên. Nghe thì có vẻ chẳng giống tính cách tôi chút nào, nhưng việc gì cũng có thời điểm thích hợp của nó cả.
+Nếu phong cách này đang rộ lên ở hoàng đô, tức là nó thuộc hàng thời thượng nhất thế giới rồi. Dân Yaaran chắc chắn còn chưa ai biết tới mốt này. Biết đâu tôi lại có thể ưỡn ngực vênh váo, làm bộ ta đây sành điệu hợp thời cũng nên. Nghe thì chẳng giống tính tôi chút nào, nhưng việc gì cũng có lúc của nó.
 
-Những suy nghĩ kỳ quặc cứ thế lướt qua tâm trí tôi cho tới khi Lorraine cất tiếng kéo tôi trở về với thực tại. "Dù sao thì chúng ta có đến trụ sở Hội mạo hiểm giả hay không đây?"
+Mấy ý nghĩ kỳ quặc cứ lởn vởn trong đầu cho đến khi tiếng Lorraine kéo tôi về thực tại. "Rốt cuộc có đến trụ sở Hội không đấy?"
 
-"À, phải rồi. Nhắc mới nhớ, chẳng phải cô cũng nên làm gì đó sao? Không giống như tôi, cô từng đến đó vài lần rồi còn gì?"
+"À, phải rồi. Nhắc mới nhớ, cô không tính làm gì à? Đâu như tôi, cô từng đến đó mấy lần rồi còn gì?"
 
-Lorraine là một mạo hiểm giả Ngân Cấp, nên cô có thể nhận những công việc hộ tống thân chủ từ Maalt tới vương đô. Ngoài ra còn có những nguyên liệu thuật giả kim không thể tìm thấy ở Maalt, nên thi thoảng cô cũng lên vương đô vì chúng. Đương nhiên trong những chuyến đi đó cô đều ghé qua trụ sở Hội mạo hiểm giả, thành thử nếu cô cứ thế bước vào mà không cải trang thì có thể sẽ nảy sinh rắc rối.
+Lorraine là mạo hiểm giả Ngân Cấp, đủ sức nhận mấy ủy thác hộ tống thân chủ từ Maalt lên vương đô. Chưa kể có những nguyên liệu thuật giả kim không kiếm được ở Maalt, nên thỉnh thoảng cô cũng phải lên đây tìm. Những lần đó đương nhiên cô đều ghé qua trụ sở Hội, thế nên cứ để nguyên mặt mà vào thì rách việc to.
 
-"Để xem nào, thế này thì sao?" Cô nói rồi thi triển một câu thần chú lên người mình. Đột nhiên, khí chất toát ra từ cô hoàn toàn đổi khác. Mái tóc cô uốn lượn bồng bềnh, và cô trang điểm đậm làm nổi bật những đường nét trên khuôn mặt. Cô còn đeo một cặp kính mắt, nhưng chúng chỉ càng làm tăng thêm vẻ quyến rũ của cô. Ngay cả bộ trang phục của cô cũng không còn là chiếc áo choàng lỗi thời thường ngày nữa; thay vào đó là bộ quần áo lộng lẫy vốn rất phổ biến ở các đô thị lớn. Có lẽ phong cách này cũng đang được ưa chuộng tại hoàng đô. Tôi chưa từng thấy thứ gì như thế ở Yaaran, nhưng ngay cả tôi cũng nhận ra đây là thời trang tinh tế và thanh lịch. Ấn tượng bao quát của tôi là trông cô hệt như một nữ ma pháp sư giàu có, quyền năng khôn lường với tuổi tác bí ẩn, lại phảng phất một hai thói lập dị nào đó. Cảm giác như thể nếu người ta dám lại gần cô, họ sẽ bị thiêu rụi chẳng còn gì ngoài bộ xương khô, giống như tôi của hai ba dạng biến đổi trước vậy.
+"Để xem nào, thế này thì sao?" cô nói rồi niệm một câu chú lên người mình. Chớp mắt một cái, thần thái của cô đã đổi khác hoàn toàn. Mái tóc cô uốn xoăn bồng bềnh, khuôn mặt được trang điểm sắc sảo làm nổi bật từng đường nét. Cô còn đeo thêm một cặp kính, nhưng nó chỉ càng tôn lên vẻ quyến rũ. Ngay cả trang phục cũng không còn là chiếc áo choàng lỗi thời thường ngày, mà thay bằng bộ cánh lộng lẫy thường thấy ở các thành phố lớn. Chắc kiểu này cũng đang thịnh hành ở hoàng đô. Tôi chưa từng thấy bộ nào như vậy ở Yaaran, nhưng đến cả tôi cũng nhận ra đây là gu ăn mặc rất mực tinh tế. Trông cô chẳng khác nào một nữ ma pháp sư giàu có, quyền năng khôn lường với tuổi tác bí ẩn, lại phảng phất đôi chút lập dị. Cảm giác như ai dại dột xán lại gần là sẽ bị thiêu rụi chỉ còn trơ trọi bộ xương, y hệt tôi của hai ba dạng trước vậy.
 
 ![](images/ch155-08.webp)
 
-"Trông... ờ, khác lạ thật đấy. Ma pháp huyễn hoặc quả là có nhiều ứng dụng đa dạng ghê," tôi nói.
+"Nhìn... ờ, khác một trời một vực luôn. Ma pháp huyễn hoặc đúng là biến ảo khôn lường thật," tôi nói.
 
-Các ma pháp dùng để biến đổi ngoại hình hay trang phục của một người thường được gọi là ma pháp huyễn hoặc hoặc ma pháp biến hình. Khi mới học thì chúng gần như chẳng làm được trò trống gì, nhưng khi càng thông thạo hơn, công dụng của chúng lại càng tăng lên. Sau cùng, người ta có thể thay đổi mọi thứ về diện mạo của mình, bao gồm cả chiều cao. Nó đóng vai trò then chốt đối với các ảo thuật gia sân khấu chẳng kém gì ma pháp ảo ảnh, nhưng việc thay đổi toàn bộ diện mạo trong một khoảng thời gian dài là vô cùng khó khăn, nên nhìn chung cũng chỉ giới hạn ở việc chỉnh sửa trang phục là cùng. Thế nhưng Lorraine lại tự biến hóa bản thân một cách toàn diện. Thay vì làm một học giả hay mạo hiểm giả, tôi nghĩ tài năng của cô có thể mang lại cho cô nhiều cơ hội lớn hơn nếu theo nghề biểu diễn.
+Các loại ma pháp dùng để đổi diện mạo hay trang phục thường được gọi chung là ma pháp huyễn hoặc hoặc ma pháp biến hình. Lúc mới học thì chúng gần như chẳng làm được trò trống gì, nhưng càng thuần thục thì công dụng càng nhiều. Đến độ chín, người ta có thể thay đổi toàn bộ vẻ ngoài, kể cả chiều cao. Với các ảo thuật gia sân khấu, nhánh ma pháp này quan trọng chẳng kém gì ma pháp ảo ảnh. Cơ mà duy trì cả diện mạo suốt thời gian dài là chuyện cực khó, nên phần lớn người ta chỉ chỉnh sửa qua loa trang phục là cùng. Thế mà Lorraine lại có thể tự lột xác hoàn toàn. Tôi thầm nghĩ thay vì làm học giả hay mạo hiểm giả, tài nghệ cỡ đó mà đi làm nghệ sĩ biểu diễn khéo còn phất hơn nhiều.
 
-Thế nhưng Lorraine lại lắc đầu. "Anh đang nói cái gì thế? Tôi có dùng ma pháp huyễn hoặc đâu. Tôi chỉ thay quần áo, đổi kiểu tóc và trang điểm thôi mà," cô nói.
+Thế nhưng Lorraine lại lắc đầu. "Anh nói gì vậy? Tôi có dùng ma pháp huyễn hoặc đâu. Tôi chỉ thay quần áo, đổi kiểu tóc rồi dặm thêm ít phấn son thôi mà," cô nói.
 
-Tôi không hiểu sao chuyện đó lại có thể xảy ra được, nên tôi nhìn chằm chằm vào mặt cô. "Ồ, đúng thật. Chẳng có gì khác thay đổi cả," tôi nói. Màu tóc cô không hề đổi chút nào, dẫu nó được tạo kiểu lộng lẫy hơn. Ma pháp đã đẩy nhanh quá trình đó, nhưng cô thực sự đã thay đổi diện mạo của mình một cách hoàn toàn tự nhiên về mặt vật lý. "Một màn biến hóa bằng xương bằng thịt. Thật đáng kinh ngạc."
+Tôi không tin nổi chuyện đó là thật, bèn nhìn kỹ mặt cô. "Ồ, đúng thật. Ngoài mấy thứ đó ra thì chẳng có gì khác đổi cả," tôi nói. Màu tóc cô không hề thay đổi, dù được tạo kiểu cầu kỳ hơn hẳn. Ma pháp chỉ giúp đẩy nhanh các công đoạn, chứ cô đã thực sự thay đổi diện mạo bằng xương bằng thịt. "Tự mình lột xác thật luôn. Đáng nể đấy."
 
-"Thôi đi, một khi đã muốn thì tôi thừa biết cách chưng diện nhé."
+"Gì chứ, một khi đã muốn thì tôi thừa sức chưng diện nhé."
 
-"Tôi đâu có bảo cô không làm được. Ý tôi là, cô vốn có gương mặt ưa nhìn; tôi biết chỉ cần muốn là cô sẽ trông vô cùng lộng lẫy mà. Tôi chỉ nghĩ cô cho rằng việc đó chẳng bõ công phiền phức thôi, nên tôi mới thấy ấn tượng. Này, có chuyện gì thế?" Tôi hỏi. Chẳng hiểu vì lý do gì mà trong lúc tôi đang nói, cô lại quay lưng về phía tôi. Có lẽ tôi đã lỡ lời điều gì đó, nhưng tôi đâu nghĩ mình nói điều gì quá đáng đến mức ấy? Tôi nhớ có lần các mạo hiểm giả ở Maalt đã có vợ hoặc bạn gái từng bảo tôi rằng tuyệt đối không bao giờ được nói với một người phụ nữ rằng trông cô ấy quá khác biệt khi có và không có trang điểm, nên biết đâu chừng là vì lý do đó.
+"Tôi đâu bảo cô không làm được. Ý tôi là, mặt cô vốn đã xinh rồi, chỉ cần muốn là trông sẽ lộng lẫy ngay. Chẳng qua tôi cứ ngỡ cô ngại phiền phức không buồn làm thôi, nên mới thấy nể thế này. Kìa, sao vậy?" tôi hỏi. Chẳng hiểu sao trong lúc tôi nói, cô lại quay lưng đi. Hay là tôi lỡ lời chỗ nào? Nhưng tôi đâu thấy mình nói câu gì có vấn đề đến thế đâu nhỉ? Tôi chợt nhớ mấy mạo hiểm giả ở Maalt có vợ hoặc người yêu từng dặn là tuyệt đối không bao giờ được bảo phụ nữ trông khác hẳn lúc trang điểm với lúc để mặt mộc, biết đâu lại vì chuyện đó thật.
 
-"À, chẳng có gì đâu. Mau đến Hội thôi," Lorraine nói rồi cất bước đi trước.
+"À, chẳng có gì đâu. Mau đến Hội thôi," Lorraine nói rồi rảo bước đi.
 
-Dựa vào ngữ điệu giọng nói, tôi đoán cô không thực sự phật ý. Trái lại, nghe giọng cô còn có phần vui vẻ là đằng khác. Tôi chẳng hiểu chuyện đó là sao nữa. Cô đã bảo không có gì, nên tôi quyết định không hỏi thêm lời nào.
+Nghe giọng thì có vẻ cô không hề phật ý. Trái lại, ngữ điệu còn có phần tươi tắn là đằng khác. Tôi chẳng hiểu rốt cuộc là chuyện gì. Cô đã bảo không có gì thì tôi cũng không gặng hỏi thêm.
 
-Tôi sánh bước bên Lorraine khi cả hai rời khỏi con hẻm, và khác hẳn lúc bước vào, tôi nhận thấy chúng tôi đang thu hút vô số ánh nhìn. Cứ ngỡ sự chú ý của họ bị cuốn hút bởi nét đẹp kiều diễm nổi bật của Lorraine, nhưng các ma pháp sư dường như lại đang dán mắt vào tôi. Chắc hẳn chuyện này có liên quan tới việc chúng tôi đang diện những bộ trang phục theo trào lưu thời thượng mới nhất. Hẳn là chúng tôi trông rất nổi bật, nhưng nếu họ chỉ nhìn ngắm quần áo thì chúng tôi vẫn an toàn. Sẽ thật tồi tệ nếu chúng tôi gây ra rắc rối nào đó, nhưng tôi không có cảm giác là như vậy.
+Tôi sánh bước bên Lorraine rời khỏi con hẻm. Khác hẳn lúc đi vào, tôi nhận thấy hai chúng tôi đang hút về vô số ánh nhìn. Cứ ngỡ mọi người bị hớp hồn bởi nhan sắc lộng lẫy của Lorraine, nhưng mấy ma pháp sư dường như lại dán mắt vào tôi. Chắc tại cả hai đang diện đúng mốt thời thượng mới nhất. Đúng là chúng tôi nổi bần bật thật, nhưng nếu họ chỉ ngắm nghía quần áo thì vẫn an toàn chán. Gây ra chuyện gì rắc rối thì mới đáng lo, cơ mà tôi thấy không đến nỗi thế.
 
-Chúng tôi đã tới Hội mạo hiểm giả. Nơi này đồ sộ hơn chi nhánh ở Maalt rất nhiều, đến mức chỉ đứng trước cửa thôi cũng khiến tôi run lên vì xúc động. Sau một thập kỷ nỗ lực, tôi chưa từng một lần với tới được chốn này. Dù hoàn cảnh trớ trêu đã đưa tôi tới đây vào lúc này, nhưng tôi vẫn cảm thấy vui sướng khi có cơ hội được ghé thăm.
+Chúng tôi đã tới Hội mạo hiểm giả. Nơi này bề thế hơn chi nhánh ở Maalt rất nhiều, đến mức chỉ đứng trước cửa thôi cũng làm tôi khẽ rùng mình xúc động. Ròng rã suốt mười năm nỗ lực, tôi chưa từng một lần đặt chân được tới chốn này. Dù vì hoàn cảnh trớ trêu mới có mặt ở đây, tôi vẫn thấy mừng vì có cơ hội ghé thăm.
 
-"Vào trong thôi," Lorraine nói rồi đi lên trước. Tôi rảo bước theo sau cô.
+"Vào trong thôi," Lorraine nói rồi bước vào trước. Tôi cũng rảo bước theo sau cô.
 
 ◆◇◆◇◆
 
-Hội mạo hiểm giả tại vương đô là cơ quan quản lý toàn bộ các hội chi nhánh ở Yaaran. Nếu có ai hỏi trụ sở Hội mạo hiểm giả ở Yaaran nằm ở đâu, người ta sẽ chỉ ngay tới nơi này. Nơi đây cũng hợp tác với các hội mạo hiểm giả ở những quốc gia khác ở một chừng mực nhất định. Họ chia sẻ thông tin về thứ hạng mạo hiểm giả cũng như tiến độ hoàn thành ủy thác, và các mạo hiểm giả thuộc hội này cũng có thể nhận ủy thác ở các quốc gia khác. Tuy nhiên, các hội không thể hợp tác sâu hơn thế do những quy định từ chính quyền sở tại của họ. Những tổ chức này thường xuyên thu thập và chuyển giao thông tin từ các quốc gia khác, nhưng quy mô của chúng lại quá lớn để bất kỳ một quốc gia đơn lẻ nào có thể kiểm soát hoàn toàn, thế nên giữa họ dường như luôn diễn ra những cuộc giằng co quyền lực không dứt. Đó là lý do vì sao chính quyền các nước thường không mấy tin tưởng hội mạo hiểm giả. Nhưng bởi vì hoạt động vô cùng hiệu quả, họ vẫn được phép tồn tại. Mấy chuyện đó chẳng có mấy ý nghĩa đối với một mạo hiểm giả thứ hạng thấp như tôi, nhưng nghe kể những câu chuyện như vậy lúc nào cũng thú vị.
+Hội mạo hiểm giả tại vương đô là nơi quản lý toàn bộ các chi nhánh ở Yaaran. Nếu có ai hỏi trụ sở Hội tại Yaaran nằm ở đâu thì chính là chỗ này. Nơi đây cũng hợp tác với hội mạo hiểm giả ở các nước khác trong chừng mực nhất định. Họ chia sẻ thông tin về thứ hạng mạo hiểm giả cũng như tình hình hoàn thành ủy thác, và mạo hiểm giả thuộc Hội cũng có thể nhận việc ở các quốc gia khác. Có điều, các hội không thể hợp tác sâu hơn thế do chịu sự quản chế từ chính quyền sở tại. Những tổ chức này thường xuyên thu thập và trao đổi tin tức với ngoại quốc, lại có quy mô quá lớn khiến không quốc gia đơn lẻ nào kiểm soát nổi, thành thử giữa đôi bên luôn xảy ra những cuộc giằng co quyền lực ngầm. Đó là lý do vì sao chính quyền các nước thường chẳng mấy tin tưởng hội mạo hiểm giả. Nhưng nhờ hiệu quả hoạt động vượt trội, các hội vẫn được phép tồn tại. Mấy chuyện đó chẳng dính dáng gì tới một mạo hiểm giả cấp thấp như tôi, nhưng nghe kể chuyện phiếm thế này lúc nào cũng thấy thú vị.
 
-Hội quán này không chỉ đồ sộ vượt trội so với ở Maalt, mà còn sạch sẽ hơn hẳn. Ngay cả quầy tiếp tân trông cũng sang trọng, trong khi quầy ở chi nhánh Maalt chỉ được làm từ gỗ rẻ tiền. Chẳng hiểu sao nhiều nhân viên tiếp tân ở đây lại là những người phụ nữ xinh đẹp đến thế. Không phải các cô ở Maalt không đẹp, mà là những người ở đây mang nét quyến rũ theo phong thái thành thị hơn.
+Hội quán ở đây không chỉ đồ sộ hơn hẳn Maalt mà còn sạch sẽ hơn nhiều. Ngay cả quầy tiếp tân trông cũng sang trọng, chứ không làm từ loại gỗ rẻ tiền như ở chi nhánh Maalt. Chẳng hiểu sao nhân viên tiếp tân ở đây lắm cô xinh đẹp đến thế. Không phải người ở Maalt không đẹp, mà là các cô ở đây toát lên vẻ quyến rũ đúng chất người thành thị hơn.
 
-"Này, đừng có nhìn chằm chằm như thế," Lorraine nói.
+"Này, đừng có nhìn chằm chằm người ta thế," Lorraine nhắc.
 
-"Tôi đâu có nhìn chằm chằm. Chỉ là đang nhận thấy nơi này khác biệt ra sao thôi mà."
+"Tôi nhìn chằm chằm hồi nào. Chỉ là thấy chỗ này khác biệt quá thôi mà."
 
-Nói thật lòng thì tôi đúng là có nhìn chằm chằm một chút, nhưng tôi chỉ đơn thuần bị cuốn hút bởi những gì mình trông thấy mà thôi. Tôi tin chắc Lorraine cũng hiểu được điều đó. Thật may là cô chỉ khịt mũi một tiếng rồi bỏ qua.
+Thú thật là tôi cũng có nhìn thật, nhưng chỉ vì bị hút mắt trước cảnh tượng xung quanh thôi. Chắc Lorraine cũng hiểu. May mà cô chỉ hừ mũi một tiếng rồi bỏ qua.
 
-"Dù sao thì tôi sẽ dẫn anh đi xem một vòng. Cơ mà cũng chẳng khác mấy so với những gì anh thấy ở Maalt đâu. Đằng kia là quầy bar kiêm quán ăn do Hội điều hành, đằng kia là quầy tiếp tân, chỗ kia là nơi người ta đến để mổ xẻ quái vật, bên kia là quầy thẩm định, và tôi tin là chỉ còn lại bảng thông báo ủy thác nữa thôi."
+"Thôi, để tôi dẫn anh đi xem một vòng. Cơ mà cũng chẳng khác mấy so với ở Maalt đâu. Đằng kia là quán ăn kiêm quầy rượu do Hội mở, bên kia là quầy tiếp tân, chỗ kia là khu mổ xẻ quái vật, đằng kia là quầy giám định, và hình như chỉ còn mỗi bảng thông báo ủy thác nữa thôi."
 
-Đúng như lời cô nói, tất cả những thứ đó ở Hội Maalt đều có cả. Bàn ghế và phong cách bài trí nội thất ở đây vượt trội hơn hẳn Maalt và khiến nơi này mang lại cảm giác như một cơ sở hoàn toàn khác biệt, nhưng sau khi nghe Lorraine giới thiệu, nó nghe y hệt như những gì tôi vốn đã quen thuộc.
+Đúng như lời cô nói, mấy khu vực đó ở Hội Maalt đều có cả. Bàn ghế và cách bài trí nội thất ở đây sang hơn Maalt hẳn một bậc, tạo cảm giác như một nơi hoàn toàn khác, nhưng nghe Lorraine điểm qua thì thấy nó y hệt như những gì tôi vốn quen thuộc.
 
-Tôi bước lại gần bảng thông báo ủy thác, và nó quả thực trông y hệt như bảng ở Maalt, chỉ trừ một điểm khác biệt. "Ở đây có nhiều nhiệm vụ khó nhằn thật đấy," tôi nói. "Ồ, ngoại trừ ủy thác hái thảo dược này ra; nhiệm vụ này xem chừng dễ nuốt này."
+Tôi bước lại gần bảng thông báo ủy thác, và nó trông y hệt bảng ở Maalt thật, chỉ trừ một điểm. "Ở đây lắm việc khó nhằn thật đấy," tôi nói. "À, trừ cái ủy thác hái thảo dược này ra; việc này xem chừng dễ xơi."
 
-"Có thể đối với chúng ta thì dễ, nhưng xét trong số các nhiệm vụ kiểu này thì nó thuộc dạng khó đấy. Với một mạo hiểm giả tầm trung ở vương đô, việc này sẽ tương đối chật vật. Anh nhìn ngày người ta dán thông báo lên mà xem."
+"Với chúng ta thì dễ, chứ trong mấy việc kiểu này thì nó thuộc dạng khó đấy. Với mặt bằng mạo hiểm giả bình thường ở vương đô, việc này hơi bị chật vật. Anh nhìn ngày người ta dán giấy lên xem."
 
-"Ba ngày trước sao? Cá nhân tôi thì sẽ nhận ngay nhiệm vụ này rồi đấy."
+"Ba ngày trước á? Là tôi thì tôi nhận ngay từ đầu rồi đấy."
 
-"Các mạo hiểm giả ở Maalt chắc chắn sẽ không bỏ mặc nó suốt ba ngày đâu, tôi dám chắc đấy. Nhờ công huấn luyện chỉ dẫn của anh, nhiều người trong số họ rất am hiểu về thảo dược."
+"Mạo hiểm giả ở Maalt chắc chắn không để yên suốt ba ngày đâu. Nhờ công anh chỉ bảo hướng dẫn mà nhiều người dưới đó rành về thảo dược lắm."
 
-Trước khi biến thành Undead, thỉnh thoảng tôi có tổ chức các buổi hướng dẫn cho tân binh tại Hội ở Maalt. Chúng chẳng có gì quá cao siêu vì tôi đâu biết cách dạy những thứ phức tạp, nhưng phần lớn mạo hiểm giả đều bắt đầu kiếm tiền bằng việc hái thảo dược. Tôi dạy họ cách phân biệt các loại thảo dược khác nhau, cách tìm kiếm nơi chúng sinh trưởng, và phương pháp tốt nhất để băng qua đồi núi và rừng rậm. Tôi thậm chí còn mang thảo dược thật tới cho họ phân loại và cho họ thử nghiệm xem chuyện gì sẽ xảy ra khi dùng nhầm các loại cây tương tự nhưng không đúng. Thậm chí nếu loại thảo dược đó chỉ khiến người ta hơi khó chịu đôi chút, tôi còn bảo các mạo hiểm giả trong buổi hướng dẫn trực tiếp nếm thử. Còn nếu chúng có khả năng gây chết người, tôi sẽ cho một con Puchi Suri ăn để làm mẫu thay thế.
+Trước khi biến thành Undead, thỉnh thoảng tôi có đứng lớp hướng dẫn cho tân binh tại Hội ở Maalt. Mấy buổi đó chẳng có gì cao siêu vì tôi đâu biết dạy những thứ phức tạp, nhưng phần lớn mạo hiểm giả đều bắt đầu kiếm sống bằng nghề hái thảo dược. Tôi dạy họ cách phân biệt từng loại cây, cách tìm nơi chúng mọc, cùng kinh nghiệm băng rừng lội suối sao cho tốt nhất. Tôi còn mang cả thảo dược thật đến cho họ tập phân loại, rồi cho họ xem chuyện gì sẽ xảy ra nếu dùng nhầm loại cây trông na ná nhau. Nếu thứ đó chỉ khiến người ta hơi khó ở đôi chút, tôi còn bảo mấy tay mạo hiểm giả trong lớp nếm thử luôn. Còn nếu là thứ có thể đoạt mạng người, tôi sẽ cho một con Puchi Suri ăn để làm mẫu.
 
-Khi các mạo hiểm giả tân binh chứng kiến cảnh tượng đó, họ bắt đầu xem trọng công việc hái thảo dược. Kể từ dạo ấy ở Maalt, hễ đến mùa thảo dược là những nhiệm vụ liên quan tới thu hái đều lập tức bị giật sạch khỏi bảng thông báo. Trớ trêu thay, phần lớn thu nhập của tôi lại đến từ các ủy thác đó, nên ý tưởng ấy chẳng khác nào tự tay tôi đạp đổ chén cơm của mình. Nhưng ít nhất thì các mạo hiểm giả mới dường như cũng biết chia sẻ nhiệm vụ cho nhau. Tôi vẫn có thể nhận những yêu cầu săn lùng Goblin, Slime và Khô Lâu, thế nên không có khoản thu nhập đó tôi vẫn sống sót tốt.
+Khi đám tân binh tận mắt chứng kiến cảnh đó, họ mới bắt đầu nghiêm túc với chuyện hái thảo dược. Kể từ dạo ấy ở Maalt, hễ cứ vào mùa là mấy ủy thác hái lượm lập tức bị giật sạch khỏi bảng thông báo. Ngặt một nỗi, phần lớn thu nhập của tôi lại đến từ mớ việc đó, thành ra cái sáng kiến ấy chẳng khác nào tự tôi đạp đổ bát cơm của chính mình. Nhưng ít ra thì đám lính mới dường như cũng biết chia nhau mà làm. Tôi vẫn còn có thể nhận ủy thác săn Goblin, Slime và Khô Lâu, nên không có khoản thu nhập ấy thì tôi vẫn sống khỏe.
 
-"Nếu không có ai nhận thì tôi cũng muốn ôm lấy nhiệm vụ này lắm, nhưng chắc đó không phải ý hay," tôi nói. Nếu tôi nhận nhiệm vụ trong bộ dạng này, họ sẽ lưu lại hồ sơ. Tôi không muốn mạo hiểm như vậy. Đã thế Lorraine cũng chỉ mang theo thẻ mạo hiểm giả của riêng cô.
+"Nếu không ai nhận thì tôi cũng muốn ôm việc này lắm, nhưng chắc chẳng phải ý hay," tôi nói. Nếu nhận ủy thác trong bộ dạng này, họ sẽ lưu lại hồ sơ. Tôi không muốn chuốc lấy rủi ro đó. Đã vậy Lorraine cũng chỉ đem theo mỗi thẻ mạo hiểm giả của riêng cô.
 
-"Thôi đành chịu vậy. Chúng ta đã ngó nghiêng Hội xong chưa? Ra ngoài thôi," Lorraine gợi ý.
+"Đành vậy. Xem Hội xong chưa? Ra ngoài thôi," Lorraine rủ.
 
-Đúng lúc đó, có ai đó tiến lại gần chúng tôi từ phía sau. "Chào hai vị. Vừa nãy có phải hai người bảo nhiệm vụ đó dễ không thế?" Anh ta hỏi.
+Đúng lúc đó, có người bước tới từ phía sau chúng tôi. "Chào hai người. Không phải vừa nãy hai người bảo ủy thác đó dễ xơi đấy chứ?" anh ta hỏi.
 
-Tôi quay lại xem đó là ai và bất giác nín thở. Người này đang khoác trên mình bộ trang phục sặc sỡ đến điên rồ với đủ mọi sắc màu của dải cầu vồng. Một chiếc lông công vươn dài ra từ chiếc mũ của anh ta, và chuôi thanh kiếm bên hông anh ta được chạm khắc những hoa văn rực rỡ đến lóa mắt. Tôi cũng tình cờ nhận ra gương mặt này, bởi mạo hiểm giả này từng hoạt động ở Maalt cho tới cách đây chưa lâu.
+Tôi quay lại xem ai và bất giác giật mình. Người này khoác trên mình bộ đồ sặc sỡ đến phát rồ với đủ bảy sắc cầu vồng. Trên mũ anh ta cắm một chiếc lông công dài ngoằng, còn chuôi kiếm đeo bên hông thì chạm khắc hoa văn lòe loẹt đến lóa mắt. Tôi cũng nhận ra ngay gương mặt này, bởi anh ta chính là mạo hiểm giả từng hoạt động ở Maalt cho tới cách đây không lâu.
 
-"Ờ, ừm, có lẽ thế," tôi ấp úng.
+"Ờ... ừm, chắc thế," tôi ấp úng.
 
-"Chà, tôi đã theo dõi nhiệm vụ đó kể từ ngày nó được dán lên, và chẳng có ai thèm nhận cả," người đàn ông nói. "Tôi chưa bao giờ mặn mà với những công việc tẻ nhạt như hái thảo dược, nên tôi luôn tránh chúng hết mức có thể, nhưng tôi thấy hơi áy náy khi thấy tờ thông báo này cứ nằm trơ trọi ở đó suốt bấy lâu. Nghe đâu việc này cũng đang là vấn đề đau đầu đối với Hội. Dẫu hái thảo dược thì dễ, nhưng hái đúng loại thì ngay cả chuyên gia thẩm định cũng thấy chật vật. Chuyện ai đó đi làm nhiệm vụ rồi phát hiện mình hái sai bét là điều thường thấy, thành thử phần lớn mạo hiểm giả đều né tránh chúng. Tôi đang băn khoăn không biết nên làm gì với vụ này đây. Thật ra trước đây tôi có quen một anh bạn cực kỳ am hiểu về mấy món này, nên tôi cũng từng tính nhờ cậu ấy, nhưng cậu ấy lại sống ở Maalt. Tôi đâu thể cứ thế bảo cậu ấy lặn lội suốt cả quãng đường dài lên tận đây được, nên biết làm sao bây giờ?"
+"Chà, tôi để ý cái ủy thác đó từ hôm mới được dán lên kia, mà chẳng ma nào thèm nhận," người đàn ông nói. "Tôi thì chẳng bao giờ mặn mà với mấy việc nhạt nhẽo như hái thảo dược nên tránh được chừng nào hay chừng nấy, cơ mà thấy nó cứ nằm trơ trơ ở đó mãi cũng thấy bứt rứt. Nghe đâu bên Hội cũng đang đau đầu vì vụ này. Hái thảo dược thì dễ thật, nhưng hái cho đúng loại thì ngay cả người giám định còn thấy toát mồ hôi. Chuyện người ta đi làm rồi vỡ lẽ là hái sai bét nhè xảy ra như cơm bữa, nên đa phần mạo hiểm giả đều né cho lành. Tôi cũng đang tính xem nên xử lý thế nào đây. Thực ra trước kia tôi có quen một cậu bạn cực kỳ rành mấy món này, cũng tính nhờ vả cậu ấy, ngặt nỗi cậu ấy lại sống ở Maalt. Tôi đâu thể bảo người ta lặn lội suốt cả quãng đường dài lên tận đây được, thành ra chẳng biết tính sao nữa?"
 
-Tôi đã quên mất anh ta thích nói nhiều đến mức nào. "Tôi nghĩ mình đã hiểu tình hình rồi. Cơ mà trước khi cam kết điều gì, anh cho tôi biết tên của anh trước đã," tôi đề nghị. Tôi vốn biết tên anh ta, nhưng tôi chỉ muốn làm anh ta ngừng huyên thuyên mà thôi.
+Tôi quên béng mất anh ta là chúa nói nhiều. "Tôi hiểu tình hình rồi. Cơ mà trước khi hứa hẹn điều gì, anh cho tôi biết tên trước đã," tôi nói. Tôi thừa biết tên anh ta, chỉ là muốn ngắt lời cho anh ta đỡ huyên thuyên thôi.
 
-"Ồ, phải rồi, xin lỗi nhé. Tôi là Augurey. Augurey Ars, mạo hiểm giả Ngân Cấp. Rất vui được gặp hai vị."
+"Ồ, phải rồi, xin lỗi nhé. Tôi là Augurey. Augurey Ars, mạo hiểm giả Ngân Cấp. Rất vui được làm quen với hai người."
 
 ![](images/ch155-09.webp)
