@@ -10,9 +10,9 @@ Dù sao đi nữa, kiếm được một chiếc túi thật lớn chắc cũng 
 
 Mất một lúc, tôi mới mổ xẻ xong con Terra Drake. Giờ là lúc phải đi tiếp. Có điều tôi đã thấm mệt, trong đầu cũng thoáng nghĩ hay là quay về càng sớm càng tốt. Lúc này tôi đã gom đủ Ma Tinh, nhưng vẫn chưa đào được mạch Ma Thiết nào ra trò.
 
-Có lẽ mình vẫn ráng đi tiếp được... thêm một đoạn ngắn nữa thôi.
+Có lẽ mình vẫn ráng đi tiếp được... thêm một chút nữa thôi.
 
-Cái thói nghĩ này của tôi kể ra cũng hơi liều quá...
+Lối suy nghĩ này của tôi có lẽ hơi liều lĩnh quá rồi...
 
 ◆◇◆◇◆
 
@@ -20,9 +20,9 @@ Căn phòng con Terra Drake từng trú ngụ có hai cánh cửa. Tôi đi vào
 
 Đây hẳn là đường đi tiếp rồi.
 
-Chậm rãi bước lại gần, tôi không khỏi ngỡ ngàng trước những gì hiện ra sau cánh cửa. Phía sau chẳng có lấy một con đường rõ ràng nào, mà ngắt cụt hệt như một bờ vực. Nhìn kỹ thì thấy có những mấu đá nhỏ để đặt chân và bám tay, đủ để bám víu leo xuống bờ dốc đứng này.
+Chậm rãi bước lại gần, tôi không khỏi ngỡ ngàng trước những gì hiện ra sau cánh cửa. Phía sau chẳng có lấy một con đường rõ ràng nào, mà ngắt cụt hệt như một bờ vực. Nhìn kỹ thì thấy có những mấu đá nhỏ để đặt chân và vịn tay, làm lối leo xuống vách đá dựng đứng này.
 
-Dù trước mặt không phải một ngọn núi, nhưng nhìn màn đêm thăm thẳm mở ra cùng muôn trùng vách đá bao quanh, tôi vẫn đoán được mình đang ở đâu.
+Dù trước mặt không phải một ngọn núi, nhưng nhìn khoảng tối thăm thẳm mở ra cùng bốn bề toàn là đá tảng bao quanh, tôi vẫn nhận ra mình đang ở đâu.
 
 Đó là một cái hố khổng lồ dưới lòng đất, một hố sụt dạng hang sâu hun hút. Không gian này rộng thênh thang, mỗi bề dễ phải trải dài ít nhất cả cây số. Trần đá bên trên cũng cao vời vợi.
 
@@ -50,15 +50,15 @@ Tôi bám sát vách đá, chầm chậm leo xuống. Chạm được tới đá
 
 Hừm... Nên làm gì bây giờ nhỉ?
 
-Liệu có chuyện gì xảy ra nếu mình ấn cái công tắc đó không? An toàn nhất là đừng đụng vào... nhưng thế thì tẻ nhạt quá. Dĩ nhiên an toàn vẫn phải đặt lên trên thói tò mò của bản thân, thế nhưng... quanh đây dường như chẳng có cái bẫy hay mối nguy nào. Tôi cũng vừa từ trên leo xuống nên chẳng lo có thứ gì bất thần rớt từ trần hang xuống, mà chân tôi cũng không đứng trên bẫy sập...
+Liệu có chuyện gì xảy ra nếu mình ấn cái công tắc đó không? An toàn nhất là đừng đụng vào... nhưng thế thì tẻ nhạt quá. Dĩ nhiên sự an toàn vẫn phải đặt lên trên cảm giác tẻ nhạt rồi, thế nhưng... quanh đây dường như chẳng có cái bẫy hay mối nguy nào. Tôi cũng vừa từ trên cao leo xuống nên chẳng lo có thứ gì bất thần rơi từ trần hang, mà dưới chân cũng không phải bẫy sập...
 
-Nếu đã định ấn thì làm phắt đi cho xong. Kích hoạt lên mà lỡ có chuyện gì bất trắc, tôi chỉ việc tắt nó đi lần nữa là xong.
+Nếu đã định ấn thì làm phắt đi cho xong. Lỡ kích hoạt lên mà có chuyện gì bất trắc, tôi chỉ việc bấm tắt lại là được.
 
 ...Chà. Dù cũng chẳng thể loại trừ khả năng mình sẽ không tắt lại được, nhưng mà...
 
 Dù sao đi nữa thì... Tách.
 
-Sau một tiếng lách cách cơ học êm nhẹ, chiếc công tắc lún xuống dưới ngón tay tôi, và gần như ngay lập tức, luồng sáng bừng lên xua tan màn đêm. Theo bản năng, tôi ngước nhìn lên. Nguồn sáng dường như nằm ở tít trên cao, rọi những luồng sáng thẳng xuống lòng hố khổng lồ này.
+Sau một tiếng lách cách cơ học êm nhẹ, chiếc công tắc lún xuống dưới ngón tay tôi, và gần như ngay lập tức, ánh sáng bừng lên xua tan bóng tối. Theo phản xạ, tôi ngước nhìn lên. Nguồn sáng dường như nằm ở tít trên cao, chiếu những luồng sáng thẳng xuống lòng hố khổng lồ này.
 
 Nói cách khác... đây là công tắc bật đèn của khu mỏ.
 
@@ -66,11 +66,11 @@ Nói cách khác... đây là công tắc bật đèn của khu mỏ.
 
 Đèn không thắp sáng toàn bộ không gian mà chỉ rọi sáng xung quanh tôi chừng vài chục mét. Tôi đoán trong bóng tối vẫn còn những công tắc tương tự thế này, và nếu không bấm thì phần còn lại của cái hố sẽ mãi chìm trong tăm tối.
 
-Dĩ nhiên tôi vẫn nhìn được trong bóng tối ở một chừng mực nhất định. Thế nhưng Thị Giác Undead mà tôi hằng ca ngợi chủ yếu dùng để dò theo sinh vật sống, thành thử chẳng giúp ích được mấy với những vật vô tri như công tắc. Dù không thể bảo làm Ma Cà Rồng là chẳng được tích sự gì, nhưng ngặt nỗi các năng lực Ma Cà Rồng lại không mấy phát huy tác dụng trong hoàn cảnh này.
+Dĩ nhiên tôi vẫn nhìn được trong bóng tối ở một chừng mực nhất định. Thế nhưng thứ thị giác Undead mà tôi vẫn hay tự hào chủ yếu dùng để dò theo sinh vật sống, thành thử chẳng giúp ích được mấy với những vật vô tri như công tắc. Dù không thể bảo làm Ma Cà Rồng là chẳng được tích sự gì, nhưng ngặt nỗi các năng lực Ma Cà Rồng lại không mấy phát huy tác dụng trong hoàn cảnh này.
 
 Việc tôi cần làm lúc này chỉ là tìm vài khối đá có mạch Ma Thiết rồi đào lấy quặng. Nhưng muốn thế thì cần có nguồn sáng bình thường. Xem ra chẳng còn cách nào khác ngoài việc vừa đào vừa tìm công tắc, rồi cứ thế lặp đi lặp lại mãi.
 
-Đang đứng ngẫm nghĩ, tôi bỗng nhận thấy có quái vật ở gần. Lặng lẽ quan sát, tôi thấy bóng dáng của hai con thoạt nhìn như Goblin Mỏ Quặng đang chầm chậm tiến về phía vùng sáng. Đèn vừa bật lên nên ắt có ai đó hoặc thứ gì đó ở đây... hẳn là lũ goblin đang nghĩ như vậy.
+Đang đứng ngẫm nghĩ, tôi bỗng nhận thấy có quái vật ở gần. Lặng lẽ quan sát, tôi thấy bóng dáng của hai con thoạt nhìn như Goblin Mỏ Quặng đang chầm chậm tiến về phía vùng sáng. Đèn vừa bật lên nên ắt có ai đó hoặc thứ gì đó ở đây... hẳn là lũ Goblin đang nghĩ như vậy.
 
 Thế ra đây rốt cuộc lại là một dạng bẫy khác à...?
 
@@ -100,7 +100,7 @@ Có điều trước mắt thì... chừng này là đủ rồi. Tôi tạm rờ
 
 ◆◇◆◇◆
 
-Phải đến sau khi ghé điểm khai thác thứ ba, cảm giác sợ hãi và bất an mới bắt đầu ập đến. Lúc bấy giờ, đồ đạc thu thập đã đầy ắp và tôi cũng sẵn sàng quay về... Đúng vào khoảnh khắc ấy, chuyện xảy ra.
+Phải đến sau khi ghé điểm khai thác thứ ba, cảm giác sợ hãi và bất an mới bắt đầu ập đến. Lúc bấy giờ, túi của tôi đã đầy ắp quặng và tôi cũng sẵn sàng quay về... Đúng vào khoảnh khắc ấy, biến cố lại ập tới.
 
 Cứ vừa đi dọc theo vách hố kỳ lạ này vừa quan sát, cuối cùng tôi cũng lờ mờ hiểu ra kết cấu phức tạp của nó.
 
@@ -110,9 +110,9 @@ Tôi bỗng dâng lên một linh cảm, cảm giác như có thứ gì đó đa
 
 Chính vào lúc ấy, tôi đã nhìn thấy nó, một con quái vật kinh hoàng.
 
-Tôi thầm nghĩ những tia sáng yếu ớt lọt qua khe nứt đã rọi xuống mặt đất của tầng bên dưới. Nhưng rồi, chính cái mặt đất ấy lại bắt đầu cựa quậy, chậm rãi vô cùng.
+Tôi cứ ngỡ những tia sáng yếu ớt lọt qua khe đá kia đang rọi xuống mặt đất của tầng bên dưới. Nhưng rồi, chính mặt đất ấy lại bắt đầu cựa quậy, vô cùng chậm rãi.
 
-Đúng là mắt thường và Thị Giác Undead của tôi có thể nhìn ra sinh vật trong bóng tối. Nhưng chuyện gì cũng có ngoại lệ. Chẳng hạn như, năng lực có thể mất tác dụng khi chạm trán một kẻ thù mạnh đến khó tin. Lần đầu tiên trong đời, tôi được đích thân nếm trải điều này.
+Đúng là mắt thường và thị giác Undead của tôi có thể nhìn ra sinh vật trong bóng tối. Nhưng chuyện gì cũng có ngoại lệ. Chẳng hạn như, năng lực có thể mất tác dụng khi chạm trán một kẻ thù mạnh đến khó tin. Lần đầu tiên trong đời, tôi được đích thân nếm trải điều này.
 
 Thứ đang lẩn khuất trong bóng tối kia rốt cuộc là cái gì? Ánh sáng mờ mịt khiến tôi rất khó nhìn ra.
 
@@ -142,9 +142,9 @@ Không ngờ một thứ như thế lại nằm ngay nơi này...
 
 Chẳng hề có lấy một báo cáo nào. Hoàn toàn không có tin tức gì.
 
-Tại sao chứ? Sao lại thế được? Một thứ to lớn dường này... Chẳng đời nào lại không một ai hay biết.
+Tại sao chứ? Sao lại thế được? Một thứ khổng lồ cỡ này... Chẳng đời nào lại không một ai hay biết.
 
-Trong lúc tôi còn đang mải suy nghĩ và quan sát con Rồng Đất từ xa, con mắt vốn nhắm nghiền của nó bỗng mở bừng ra. Kèm theo một tiếng ầm ầm rền vang đinh tai nhức óc, con rồng đứng dậy và bắt đầu chuyển động.
+Trong lúc tôi còn đang mải suy nghĩ và quan sát con Rồng Đất từ xa, con mắt vốn nhắm nghiền của nó bỗng mở bừng ra. Kèm theo một tiếng ầm ầm rền vang đinh tai nhức óc, con Rồng đứng dậy và bắt đầu chuyển động.
 
 Gay go rồi... Mình bị phát hiện rồi sao? Ra vậy... Hóa ra đời mình sẽ kết thúc ngay tại chốn này.
 
@@ -154,7 +154,7 @@ Một cảm giác quen thuộc ập đến xâm chiếm cơ thể tôi. Đó ch�
 
 Dĩ nhiên đây là chuyện hiển nhiên, nhưng tôi đâu thể cứ thế bỏ mạng ở một nơi như thế này. Tôi nhất định phải trở thành một mạo hiểm giả Mithril Cấp. Đó chính là lý do tôi không hề bỏ cuộc, ngay cả sau khi cơ thể mình biến thành nông nỗi này.
 
-Nói thì nói vậy, nhưng... rốt cuộc trong tình cảnh này tôi làm được gì cơ chứ? Chỉ cần một cú quất từ chi thể khổng lồ của con Rồng Đất là tôi chắc chắn sẽ đi đời nhà ma ngay tắp lự.
+Nói thì nói vậy, nhưng... rốt cuộc trong tình cảnh này tôi làm được gì cơ chứ? Chỉ cần con Rồng Đất vung cái chân khổng lồ quất nhẹ một cú thôi là tôi cầm chắc cái chết ngay tại chỗ.
 
 Giữa chúng tôi là khoảng cách chênh lệch lớn đến không tưởng, khoảng cách mà thân phận Undead chẳng thể nào bù đắp nổi.
 
@@ -170,7 +170,7 @@ Trong một tích tắc, tôi cảm giác ánh mắt của chúng tôi đã ch�
 
 Hoặc... có khi chỉ là tôi tưởng tượng ra.
 
-Chậm rãi, con Rồng Đất xoay mình lại, rồi dùng những chi thể to lớn bắt đầu đào bới, càng lúc càng sâu. Tấm thân đồ sộ của nó dần chìm sâu vào lòng đất.
+Chậm rãi, con Rồng Đất xoay mình lại, rồi dùng cặp chân to lớn bắt đầu đào bới, càng lúc càng sâu hơn. Tấm thân đồ sộ của nó dần khuất hẳn vào lòng đất.
 
 Nên nhớ rằng nơi đây là giữa lòng một ngọn núi bay khổng lồ. Cái gọi là mặt đất thực chất là tầng đá móng rắn chắc kiên cố. Thế nhưng điều đó chẳng hề hấn gì với con Rồng Đất. Nó cứ thế thong thả đào sâu xuống.
 
@@ -178,9 +178,9 @@ Nên nhớ rằng nơi đây là giữa lòng một ngọn núi bay khổng lồ
 
 Tôi chỉ biết đứng như chôn chân tại chỗ, cẩn trọng hết mức không để phát ra tiếng động nào trong lúc làm đủ mọi cách che giấu sự hiện diện.
 
-Đất đá cùng mảnh vụn rào rào bắn ra từ những cú đào bới của con Rồng. Về phần mình, tôi phải lách người né tránh rồi dựng ma pháp Khiên Chắn... bận rộn vô cùng. Đống đá văng ra thậm chí chẳng phải đòn tấn công gì, chỉ là hệ quả phụ từ việc di chuyển dưới lòng đất của con Rồng Đất. Thế nhưng, mỗi một tảng đá lại mang uy lực chẳng kém gì Thạch Thương của con Terra Drake... Đúng là kinh hoàng tột độ.
+Đất đá cùng mảnh vụn rào rào bắn ra từ những cú đào bới của con Rồng. Báo hại tôi phải vừa lách người né tránh, vừa dựng ma pháp Khiên Chắn... xoay xở tối tăm mặt mũi. Đống đá văng ra thậm chí chẳng phải đòn tấn công gì, chỉ là hệ quả phụ từ việc di chuyển dưới lòng đất của con Rồng Đất. Thế nhưng, mỗi một tảng đá lại mang uy lực chẳng kém gì những mũi Thạch Thương của con Terra Drake... Đúng là kinh hoàng tột độ.
 
-Một mạo hiểm giả Mithril Cấp hẳn sẽ đối đầu trực diện được với thứ quái vật như thế. Tôi bỗng thấm thía sâu sắc rằng mình còn cách mục tiêu xa vời vợi đến nhường nào.
+Một mạo hiểm giả Mithril Cấp hẳn sẽ đối đầu trực diện được với thứ quái vật như thế. Tôi bỗng thấm thía sâu sắc rằng mình còn cách mục tiêu ấy xa đến mức nào.
 
 Một ngày nào đó, mình nhất định sẽ đánh bại con quái vật này.
 
@@ -192,7 +192,7 @@ Ra... vậy.
 
 Tôi nhìn trân trân vào nơi con Rồng Đất vừa hiện diện. Giờ đây chỗ đó chỉ còn lại sự vắng lặng quạnh quẽ, chẳng còn lấy một dấu tích của uy áp và sức mạnh khủng khiếp vừa ngự trị cách đây vài khoảnh khắc. Tôi nhìn vào khoảng không gian giờ đã trống hoác. Dù con Rồng Đất vừa ở đó, tất cả những gì còn sót lại chỉ là vài tảng đá rơi rớt ngổn ngang.
 
-Nếu con quái thú này từ trước đến giờ toàn di chuyển theo kiểu đó, thì hèn chi đến tận lúc này chẳng hề có báo cáo nào về nó. Có lẽ từng có dăm ba mạo hiểm giả đụng độ nó rồi, nhưng họ hoặc đã chết cả, hoặc cắn răng giữ kín miệng, phần nhiều cũng vì nỗi khiếp đảm tột cùng mà mình từng trải qua.
+Nếu con quái thú này từ trước đến giờ toàn di chuyển theo kiểu đó, thì hèn chi đến tận lúc này chẳng hề có báo cáo nào về nó. Có lẽ từng có một hai mạo hiểm giả đụng độ nó rồi, nhưng họ hoặc đã chết cả, hoặc cắn răng giữ kín miệng, phần nhiều cũng vì nỗi khiếp đảm tột cùng mà họ từng nếm trải.
 
 Nếu không phải là Undead và có tâm thế khác biệt với người thường, có lẽ tôi đã đứng chết trân không nhúc nhích nổi, thậm chí sợ đến mức vãi cả ra quần rồi. Nỗi kinh hoàng ấy quả thực khủng khiếp đến thế đấy.
 

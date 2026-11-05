@@ -4,7 +4,7 @@
 
 Sau phen chạm trán con quái thú khổng lồ đó, tôi liền rời Mê Cung Tân Nguyệt quay lên mặt đất. Bán sạch những nguyên liệu quái vật dễ hỏng cho Hội, tôi mò về nhà mà dọc đường người vẫn còn run bần bật.
 
-Tôi giữ lại Ma Tinh cùng các loại nguyên liệu lâu hỏng, gồm cả những thứ cần để rèn vũ khí cho Alize. Tôi đâu thể tự cầm búa rồi tinh luyện số Ma Thiết đang có, nên tạm gác lại, định bụng sẽ ghé tiệm Clope đặt làm đàng hoàng như một vị khách thực thụ. Lúc đó tôi sẽ dắt Alize theo cùng.
+Tôi giữ lại Ma Tinh cùng các loại nguyên liệu lâu hỏng, gồm cả những thứ cần để rèn vũ khí cho Alize. Tôi đâu thể tự cầm búa rồi tinh luyện số Ma Thiết đang có, nên tạm gác lại, định bụng sẽ ghé chỗ Clope đặt rèn đàng hoàng. Lúc đó tôi sẽ dắt Alize theo cùng.
 
 Clope có vài nết gàn mà tôi đã quá quen. Nếu người dùng vũ khí không có mặt, chắc chắn tôi sẽ bị anh thợ rèn gặng hỏi tới tấp cho xem.
 
@@ -14,7 +14,7 @@ Thật lòng mà nói, tôi cũng chẳng say đến thế. Con Rồng Đất xu
 
 Chuyện là thế này:
 
-Tình cảnh tôi vừa gặp chẳng khác nào một con Ogre đùng đùng xuất hiện ngay tầng một Mê Cung Nguyệt Ảnh. Hay như cả bầy Goblin đông nghịt bỗng dưng tràn ra giữa đường phố của một đô thị vốn tương đối an toàn... Chuyện đó quá đỗi phi lý. Dù có chuẩn bị kỹ đến đâu, người ta cũng không tài nào tránh khỏi những tình huống như thế. Muốn bình tĩnh và tỉnh táo mà rút lui, trước hết người đó phải có năng lực và thực lực của một mạo hiểm giả Bạch Kim Cấp. Thế nên khỏi phải nói, lúc này tôi hoàn toàn không đủ tầm. Không đời nào.
+Tình cảnh tôi vừa gặp chẳng khác nào một con Ogre đùng đùng xuất hiện ngay tầng một Mê Cung Nguyệt Ảnh. Hay như cả bầy Goblin đông nghịt bỗng dưng tràn ra giữa đường phố của một đô thị vốn tương đối an toàn... Chuyện đó quá đỗi phi lý. Dù có chuẩn bị kỹ đến đâu, người ta cũng không tài nào tránh khỏi những tình huống như thế. Muốn bình tĩnh và tỉnh táo mà rút lui, trước hết người đó phải có bản lĩnh và thực lực của một mạo hiểm giả Bạch Kim Cấp. Thế nên khỏi phải nói, lúc này tôi hoàn toàn không đủ tầm. Không đời nào.
 
 Có lẽ Lorraine hiểu tâm trạng của tôi, hoặc đã nhìn thấu mấy lời lảm nhảm của kẻ say nên không thèm chấp, cô chỉ mỉm cười đầy vẻ cảm thông.
 
@@ -70,7 +70,7 @@ Thế nhưng... nghĩ tới chuyện vũ khí của những mạo hiểm giả b
 
 Tôi chắc chắn chưa từng nghe nói đến hiện tượng nào như thế.
 
-"À, có đấy chứ, Rentt. Không nhiều, nhưng cũng có vài ví dụ. Anh từng nghe câu chuyện về Hiền Vương Felt chưa, Rentt? Vị vua đã dựng cả một thành phố bên trong mê cung ấy?"
+"À, thực ra cũng có vài ví dụ đấy, Rentt. Tuy không nhiều, nhưng đủ để làm dẫn chứng cho chuyện này. Anh từng nghe câu chuyện về Hiền Vương Felt chưa, Rentt? Vị vua đã dựng cả một thành phố bên trong mê cung ấy?"
 
 Hiền Vương Felt... Đó là câu chuyện về một vị vua rời bỏ vương quốc cũ, dẫn dắt một tộc người bị đàn áp bất công. Họ phiêu bạt khắp nơi, cuối cùng tình cờ gặp một mê cung khổng lồ, và vị Hiền Vương đã dựng nên một thành phố trong lòng nó... Truyền thuyết kể lại là như vậy. Câu chuyện này thường xuất hiện trong sách tranh, kịch nghệ và những thứ tương tự. Hiền Vương Felt là một nhân vật dân gian vô cùng nổi tiếng.
 
@@ -82,7 +82,7 @@ Hiền Vương Felt... Đó là câu chuyện về một vị vua rời bỏ vư
 
 "C-Cái gì?!" Tôi chưa từng nghe chuyện nào như thế bao giờ.
 
-Đoán trước sự kinh ngạc của tôi, Lorraine vẫn thản nhiên nói tiếp: "Rồi rồi, Rentt. Tôi biết anh ngạc nhiên thế nào mà. Nhưng anh phải giữ kín chuyện này đấy nhé? Rằng câu chuyện về Hiền Vương Felt là có thật. Dù sao thì cho tới tận ngày nay, sự tồn tại của thành phố đó vẫn là một bí mật tối mật ở quê hương tôi. Nếu còn quý cái mạng mình, Rentt à, chắc chắn anh sẽ biết ngậm chặt miệng chứ?"
+Đoán trước sự kinh ngạc của tôi, Lorraine vẫn thản nhiên nói tiếp: "Rồi rồi, Rentt. Tôi biết anh ngạc nhiên thế nào mà. Nhưng anh phải giữ kín chuyện này đấy nhé? Rằng câu chuyện về Hiền Vương Felt là có thật. Dù sao thì cho tới tận ngày nay, sự tồn tại của thành phố đó vẫn là một bí mật trọng đại ở quê hương tôi. Nếu còn quý cái mạng mình, Rentt à, chắc chắn anh sẽ biết giữ kín miệng chứ?"
 
 "Thôi nào..." Tự dưng lại bị nhét vào đầu một bí mật ghê gớm thế này, bảo sao tôi không bận tâm cho được.
 
@@ -98,7 +98,7 @@ Tôi bật cười khẽ trước câu hỏi của Lorraine. Đương nhiên là
 
 Tôi nói hoàn toàn thật lòng. Tôi khó mà tìm được ai chịu tin vào một câu chuyện hoang đường như của mình. Thậm chí ngoài Lorraine ra, tôi chẳng thể nghĩ ra ai sẽ thực tâm nghiên cứu về... tình trạng của tôi.
 
-Về mặt lý thuyết, nếu tôi để lộ cơ thể này ra rồi nhờ giải mã bí mật của nó, hẳn cũng có vài kẻ háo hức muốn xem xét. Nhưng những kẻ đó chắc chắn sẽ coi tôi như chuột bạch, một vật mẫu thí nghiệm, rồi mổ xẻ tơi bời và nhốt tôi vất vưởng ở viện nghiên cứu nào đó. Quãng đời còn lại của tôi sẽ chẳng khác nào chim lồng cá chậu. Ít nhất thì tôi dám chắc họ sẽ chẳng đời nào để tôi tự do đi lại như bây giờ.
+Giả sử như tôi để lộ cơ thể này ra rồi nhờ giải mã bí mật của nó, hẳn cũng có vài kẻ háo hức muốn xem xét. Nhưng những kẻ đó chắc chắn sẽ coi tôi như con vật thí nghiệm, một vật mẫu không hơn không kém, rồi mổ xẻ tơi bời và nhốt tôi vất vưởng ở viện nghiên cứu nào đó. Quãng đời còn lại của tôi sẽ chẳng khác nào chim trong lồng. Ít nhất thì tôi dám chắc họ sẽ chẳng đời nào để tôi tự do đi lại như bây giờ.
 
 Lorraine mỉm cười trước phản ứng có phần xúc động của tôi.
 
@@ -144,7 +144,7 @@ Tôi nghiêng đầu trước cái danh từ lạ lẫm ấy. Với một gã nh
 
 "...Cái... Đệ Nhất Đại Học Rermutt đó là gì vậy?"
 
-"À. Coi như là trường cũ của tôi đi. Một tòa lâu đài tri thức, và là một trong những nơi danh giá nhất đế quốc. Nhưng bất kỳ ai cũng có thể theo học miễn là nỗ lực chăm chỉ. Nhìn từ góc độ đó thì cũng chẳng có gì ghê gớm lắm... Chiếc ghế hiệu trưởng là vị trí được khao khát nhất trong giới học thuật đế quốc, hay chí ít cũng là một trong số đó. Tôi cũng không ngoại lệ. Tôi từng cố giành lấy chính chiếc ghế ấy cho mình. Rất nhiều chuyện đã xảy ra, và tôi cũng gặt hái được không ít thành tựu. Có điều... lại có không ít kẻ ngáng đường tôi, dĩ nhiên là nhằm cản trở việc nghiên cứu rồi. Tôi đã chỉ ra vài chân lý rành mạch đến mức ai cũng hiểu được. Vậy mà những kẻ đó lại dốc hết sức bình sinh phủ nhận mọi điều tôi nói.
+"À. Coi như là trường cũ của tôi đi. Một tòa lâu đài tri thức, và là một trong những nơi danh giá nhất đế quốc. Nhưng bất kỳ ai cũng có thể theo học miễn là nỗ lực chăm chỉ. Nhìn từ góc độ đó thì cũng chẳng có gì ghê gớm lắm... Chiếc ghế hiệu trưởng là vị trí được khao khát nhất trong giới học thuật đế quốc, hay chí ít cũng là một trong số đó. Tôi cũng không ngoại lệ. Tôi từng cố giành lấy chính chiếc ghế ấy cho mình. Rất nhiều chuyện đã xảy ra, và tôi cũng gặt hái được không ít thành tựu. Có điều... lại có không ít kẻ ngáng đường tôi, dĩ nhiên là nhằm cản trở việc nghiên cứu rồi. Tôi đã chỉ ra vài sự thật rành mạch đến mức ai cũng hiểu được. Vậy mà những kẻ đó lại ra sức phủ nhận mọi điều tôi nói.
 
 "Anh có hiểu không, Rentt? Giả sử trước mặt anh có một quả cam. Tôi bảo nó là quả cam, đúng chứ? Nhưng rồi có kẻ nhảy vào bảo đó là quả táo. Chẳng bao lâu sau, kẻ khác lại khăng khăng nó là ổ bánh mì... và những kẻ phản bác cứ thế tăng lên không ngừng. Chẳng mấy chốc, trong mắt mọi người, tôi lại thành kẻ sai. Dẫu vậy, nhìn kiểu gì đi nữa thì thứ trước mặt tôi vẫn rành rành là một quả cam. Cứ nghĩ về mấy chuyện đó thôi cũng đủ làm người ta phát điên rồi."
 
@@ -160,7 +160,7 @@ Nói cách khác, có những kẻ chướng mắt trước tốc độ thăng t
 
 "...Thế chẳng phải bốc đồng quá sao, Lorraine? Nghe cô kể thì dường như lúc đó cô đang gánh vác những việc rất trọng đại cơ mà."
 
-"Đúng là vậy thật. Nhưng... nếu không dứt áo ra đi, chắc chắn tôi đã phát điên mất rồi. Tôi muốn giã từ những chuỗi ngày ấy, giã từ nỗi buồn chán cùng nỗi bực bội triền miên luôn bám riết lấy mình. Thật lòng mà nói, đặt chân tới đây tôi thấy như được giải thoát. Đã lâu lắm rồi tôi mới lại thấy hứng khởi và phấn chấn đến thế. Đến Maalt đúng là một điều may mắn... Và dĩ nhiên, đây cũng chính là nơi tôi gặp anh."
+"Đúng là vậy thật. Nhưng... nếu không dứt khoát bỏ đi, chắc chắn đầu óc tôi đã chẳng còn tỉnh táo nổi nữa. Tôi muốn chấm dứt những tháng ngày ấy, thoát khỏi sự tẻ nhạt cùng cảm giác bực dọc triền miên cứ đeo bám lấy mình. Thật lòng mà nói, đặt chân tới đây tôi thấy nhẹ nhõm như được giải thoát. Đã lâu lắm rồi tâm trí tôi mới lại thấy hứng khởi và phấn chấn đến thế. Đến Maalt đúng là một điều may mắn... Và dĩ nhiên, đây cũng chính là nơi tôi gặp anh."
 
 Bấy lâu nay tôi vẫn biết Lorraine là học giả đến từ Đế Quốc Rermutt, lặn lội tới tận Maalt vì chán ngấy cuộc sống trước kia, nhưng đây là lần đầu tiên tôi được nghe cô kể cặn kẽ đến thế.
 
