@@ -1,145 +1,145 @@
 # Chương 150: Ngoại truyện Tập 6 - Cái Kết Tồi Tệ
 
-Lorraine và tôi ngồi đối diện một người phụ nữ trên ghế sô pha, lắng nghe bà ta kể lại tường tận hoàn cảnh bi thảm của mình. Bà ta cho biết chồng mình đã mất tích cách đây ít lâu. Đã hơn một tuần không ai nhìn thấy ông ấy, vì vậy cuối cùng bà ta đã đưa ra một yêu cầu tìm kiếm thông qua hội, và chúng tôi đã tiếp nhận nó. Chúng tôi đích thân tới gặp bà ta để nắm bắt tình hình và đánh giá những hành vi của ông ấy vào khoảng thời gian trước khi biến mất. Ông ấy thực sự có vẻ khá giàu có, khi sở hữu một dinh thự rộng lớn với vô số người hầu kẻ hạ. Tôi có thể đoán được lý do tại sao tiền thù lao cho công việc này lại cao đến vậy. Nó đủ để cả hai chúng tôi sống dư dả trong suốt một tháng trời.
+Lorraine và tôi ngồi đối diện một phụ nữ trên ghế sô pha, nghe bà kể cặn kẽ hoàn cảnh éo le của mình. Bà cho biết chồng mình mất tích cách đây ít lâu. Hơn một tuần rồi chẳng ai trông thấy ông, nên cuối cùng bà mới gửi yêu cầu tìm người qua Hội, và chúng tôi đã nhận ủy thác. Hai đứa đích thân tới gặp để nắm rõ sự tình, cũng như dò hỏi xem trước khi biến mất ông có biểu hiện gì bất thường hay không. Người chồng xem chừng khá giàu có, bằng chứng là cơ ngơi dinh thự rộng thênh thang cùng cả tá kẻ hầu người hạ. Bảo sao món thù lao cho ủy thác này lại hậu hĩnh đến thế, đủ cho hai đứa tôi sống thong thả cả tháng trời.
 
-Thế nhưng lại chẳng có ai khác nhận công việc này, có lẽ là do độ khó của nó. Sẽ chẳng có thù lao nào nếu không tìm thấy người, mà cũng chẳng có gì đảm bảo có thể lần ra tung tích của ông ấy. Trừ phi sở hữu kỹ năng đặc biệt nào đó, nước đi khôn ngoan nhất vẫn là bỏ qua. Tuy nhiên trong trường hợp của chúng tôi, Lorraine sở hữu các ma pháp cho phép tìm kiếm tỉ mỉ, còn tôi lại có khả năng định vị con người bằng khứu giác. Khả năng thành công của chúng tôi tương đối cao, thế nên chúng tôi mới nhận công việc này.
+Thế nhưng lại chẳng ai khác nhận việc này, chắc vì quá khó nhằn. Không tìm thấy người thì chẳng có nổi một đồng thù lao, mà cũng đâu ai dám chắc sẽ lần ra tung tích của ông ấy. Trừ phi có ngón nghề đặc biệt nào đó, chứ khôn ngoan nhất vẫn là ngó lơ đi. Nhưng với hai đứa chúng tôi thì khác: Lorraine nắm giữ các ma pháp dò tìm tỉ mỉ, còn tôi lại có khả năng lần theo mùi người. Tỷ lệ thành công tương đối cao, thế nên chúng tôi mới nhận ủy thác.
 
-Người phụ nữ lập tức cung cấp cho chúng tôi một bức chân dung cùng bản miêu tả về ông ấy vào thời điểm biến mất. Lorraine và tôi nhìn nhau rồi cùng gật đầu.
+Người phụ nữ lập tức đưa cho chúng tôi bức chân dung và tả lại vóc dáng, trang phục của người chồng lúc mất tích. Lorraine và tôi nhìn nhau rồi cùng gật đầu.
 
-"Vậy phu nhân có thể dẫn chúng tôi tới phòng của chồng bà được không?" tôi hỏi. "Biết đâu ở đó lại có manh mối giúp chúng tôi tìm ra ông ấy." Ngay cả đối với chúng tôi, việc tìm kiếm mà không có bất kỳ manh mối nào thì quả thực là một thử thách. Một cuộc điều tra là điều cần thiết.
+"Vậy bà dẫn chúng tôi tới phòng của chồng mình được chứ?" tôi hỏi. "Biết đâu ở đó lại có manh mối giúp tìm ra ông ấy." Dù là hai đứa tôi đi nữa, cứ thế đâm đầu đi tìm mà chẳng có chút manh mối nào thì cũng chịu. Trước mắt vẫn phải điều tra đã.
 
-"Mời hai vị đi lối này," người phụ nữ nói rồi dẫn chúng tôi đi xuyên qua dinh thự.
-
-◆◇◆◇◆
-
-"Lorraine, tôi nghĩ chuyện này có vẻ tệ hơn chúng ta tưởng rồi," tôi nói.
-
-"Có vẻ là vậy. Nhưng tất cả đống sách này đều rất mờ ám. Tôi không thể hình dung nổi ông ta thực sự có thể đạt được mục đích của mình," Lorraine đồng tình. Cô miết ngón tay theo gáy một cuốn sách chúng tôi tìm thấy trong phòng.
-
-Căn phòng rõ ràng thuộc về một người đàn ông gánh vác nhiều công việc, và thoạt nhìn thì chẳng có gì đặc biệt. Tuy nhiên sau khi lục lọi một hồi, Lorraine đã phát hiện ra một luồng Ma Lực đáng ngờ. Chúng tôi lần ra luồng Ma Lực đó phát ra từ kệ sách và bức tường. Chúng tôi lục soát chúng, và chắc chắn dường như có điều gì đó ở nơi đây. Khi chúng tôi rút vài cuốn sách tỏa ra một lượng Ma Lực mờ nhạt, kệ sách liền tự động dịch chuyển để lộ ra một cánh cửa bí mật phía sau.
-
-Chúng tôi lục soát căn mật thất và phát hiện một số thư tịch đáng ngờ, cùng với các ma cụ và một ma pháp trận trên sàn nhà. Phần lớn những cuốn sách đều miêu tả các phương thức ma thuật cấm, nên rất có khả năng người chồng đang dính líu vào những thứ đó. Đó chính là điều khiến toàn bộ tình hình trở nên tồi tệ hơn dự tính. Nhưng đây không phải chuyện dễ dàng thành công, và sự biến mất của người chồng rất có thể là hậu quả của việc thất bại. Nếu đúng như vậy, việc thi thể ông ta chẳng còn lại dấu vết nào cũng không có gì lạ.
-
-Dù thế nào đi nữa, chúng tôi vẫn báo lại những gì tìm được cho người vợ. Ban đầu bà ta có vẻ bàng hoàng, nhưng cuối cùng cũng chấp nhận khả năng đó. Sau đó chúng tôi lấy ra một tấm bản đồ rồi cho bà ta xem.
-
-"Đây là gì vậy?" bà ta nghiêng đầu hỏi.
-
-"Chúng tôi tìm thấy thứ này trong mật thất của chồng phu nhân," Lorraine giải thích. "Tôi nghĩ phu nhân nhìn qua là sẽ hiểu, nó chỉ tới một địa điểm cách Maalt khoảng nửa ngày đường. Chắc hẳn ở đó có thứ gì đó."
-
-"Liệu có thể là chồng tôi không?"
-
-"Cũng có khả năng, nhưng cũng có thể chẳng có gì cả. Đó là lý do chúng tôi muốn thông báo chuyện này sau cùng. Xin thứ lỗi cho chúng tôi."
-
-"Không, tôi hiểu mà. Hai vị muốn tôi chuẩn bị tâm lý cho tình huống tồi tệ nhất. Chuyện đó đâu có gì sai. Nhưng nếu quả thực ông ấy có thể ở đó, hai vị có thể tìm kiếm khu vực ấy giúp tôi được không? Nếu cần thiết, tôi không ngại tăng thêm tiền thù lao đâu." Bà ta khá lo lắng cho chồng mình. Giọng người phụ nữ nghe chừng vô cùng tuyệt vọng.
-
-"Tất nhiên rồi. Tiền thù lao hiện tại đã là quá đủ rồi, nên chúng tôi dự định sẽ khởi hành đến đó ngay sáng sớm mai. Phu nhân không cần phải van nài đâu."
-
-"Cảm ơn hai vị rất nhiều. Thật may là chính hai vị đã nhận công việc này."
+"Mời hai vị đi lối này," người phụ nữ nói rồi dẫn chúng tôi đi sâu vào trong dinh thự.
 
 ◆◇◆◇◆
 
-Ngày hôm sau, chúng tôi lập tức khởi hành từ Maalt tới điểm đến nói trên. Chúng tôi đi xe ngựa một đoạn rồi xuống xe và băng qua khu rừng cho tới khi nhìn thấy nó.
+"Lorraine, tôi thấy chuyện này có vẻ tệ hơn dự tính rồi đấy," tôi nói.
 
-"Một túp lều gỗ ư?" tôi nói.
+"Xem chừng là vậy. Nhưng đống sách này mờ ám lắm, tôi khó mà tin ông ta thật sự đạt được mục đích với mớ này," Lorraine tán thành, ngón tay miết dọc sống một cuốn sách hai đứa tìm thấy trong phòng.
 
-"Có vẻ là vậy. Người chồng có ở đó không?"
+Nhìn qua căn phòng là biết chủ nhân là người bận rộn nhiều việc, thoạt trông chẳng có gì đặc biệt. Thế nhưng sau khi lục lọi một hồi, Lorraine phát hiện ra chút Ma Lực đáng ngờ phát ra từ giá sách và bức tường. Hai đứa xem xét kỹ thì thấy đúng là có uẩn khúc thật. Vừa rút mấy cuốn sách tỏa ra chút Ma Lực mờ nhạt, giá sách liền tự động trượt sang bên, để lộ cánh cửa bí mật phía sau.
 
-"Có thể lắm. Cứ qua kiểm tra xem sao."
+Khám xét căn mật thất, chúng tôi phát hiện nhiều sách vở đáng ngờ cùng vài món ma cụ và một ma pháp trận vẽ trên sàn. Phần lớn số sách đều ghi chép về các loại cấm thuật, nên nhiều khả năng người chồng đã nhúng tay vào chúng. Đó là lý do khiến tôi thấy tình hình tệ hơn dự tính. Có điều mấy thứ này đâu dễ gì luyện thành, rất có thể việc ông ta mất tích là hậu quả của một lần thất bại. Nếu vậy, thi thể có tan biến chẳng còn sót lại dấu vết nào cũng là chuyện thường.
 
-Khi tới túp lều gỗ, tôi gõ cửa. "Có ai ở đó không? Chậc, không có tiếng trả lời."
+Dù sao đi nữa, hai đứa vẫn báo lại những gì tìm được cho người vợ. Thoạt đầu bà có vẻ bàng hoàng, nhưng rồi cũng đành chấp nhận khả năng đó. Đoạn, chúng tôi lấy ra một tấm bản đồ cho bà xem.
 
-"Có lẽ bên trong trống không," Lorraine lẩm bẩm.
+"Đây là gì vậy?" bà nghiêng đầu hỏi.
 
-Nhưng tôi lắc đầu. "Không, có người ở trong đó. Chắc cô không nhận ra đâu, nhưng nơi này bốc mùi máu nồng nặc."
+"Chúng tôi tìm thấy tấm bản đồ này trong mật thất của chồng bà," Lorraine giải thích. "Nhìn qua chắc bà cũng hiểu, nó chỉ tới một địa điểm cách Maalt chừng nửa ngày đường. Rất có thể ở đó có gì đó."
 
-"Gì cơ? Nếu anh nhận ra thì điều đó có nghĩa là máu người sao?"
+"Liệu có phải là chồng tôi không?"
 
-"Tôi đoán chắc đúng là vậy. Không chỉ thế mà mùi còn khá mới. Dường như là của một người phụ nữ trẻ. Tôi nghĩ chừng khoảng ba ngày trước."
+"Cũng có thể, nhưng cũng có khi chẳng có gì ở đó cả. Vì thế chúng tôi mới để chuyện này nói sau cùng. Xin lỗi bà."
 
-"Chúng ta có nên xông thẳng vào không?"
+"Không, tôi hiểu mà. Hai vị muốn tôi chuẩn bị tâm lý cho tình huống xấu nhất, vậy là phải lẽ. Nhưng nếu ông ấy có ở đó, hai vị tìm kiếm khu vực ấy giúp tôi được không? Cần thì tôi tăng thêm thù lao cũng chẳng sao." Trông bà có vẻ rất lo cho chồng, giọng điệu lộ rõ vẻ khẩn thiết khôn cùng.
 
-"Chắc là phải thế thôi!" Tôi hét lên rồi tông mạnh vào cánh cửa, phá tan nó. Tôi chắc chắn phải có ai đó bên trong, nhưng trước sự ngạc nhiên của tôi, túp lều gỗ lại không một bóng người. "Nơi này có lẽ cũng giống như căn phòng của ông ta. Mùi bốc lên từ bên dưới."
+"Tất nhiên rồi. Thù lao hiện giờ đã hậu hĩnh lắm rồi, sáng mai chúng tôi sẽ lên đường tới đó ngay. Bà không cần phải van xin đâu."
 
-"Lại một căn mật thất khác sao? Anh nghĩ có gì đó ở dưới lòng đất à? Ồ, thực sự có thứ gì đó này," Lorraine nói sau khi nhìn xuống dưới một tấm thảm. Một phần sàn nhà có màu sắc khác biệt so với phần còn lại. Cô mở nó ra và phát hiện một cầu thang dẫn xuống lòng đất.
+"Cảm ơn hai vị nhiều lắm. Thật may là hai vị đã nhận ủy thác này."
 
-"Tôi sẽ xuống trước," tôi nói.
+◆◇◆◇◆
+
+Hôm sau, hai đứa lập tức rời Maalt lên đường tới địa điểm ghi trên bản đồ. Chúng tôi ngồi xe ngựa một chặng, rồi xuống đi bộ xuyên qua khu rừng cho tới khi thấy mục tiêu.
+
+"Một căn chòi gỗ à?" tôi nói.
+
+"Trông giống vậy đấy. Người chồng có trong đó không?"
+
+"Biết đâu đấy. Cứ lại xem thử xem."
+
+Tới trước căn chòi, tôi gõ cửa. "Có ai ở trong không? Chậc, chẳng ai trả lời."
+
+"Hay là chòi hoang?" Lorraine lẩm bẩm.
+
+Tôi lắc đầu. "Không, có người bên trong đấy. Cô chắc không nhận ra đâu, nhưng chỗ này nồng nặc mùi máu."
+
+"Sao cơ? Đến anh cũng ngửi thấy thì tức là máu người à?"
+
+"Chắc chắn rồi. Không những thế mùi còn khá mới, có vẻ là của một cô gái trẻ. Chắc tầm ba hôm trước."
+
+"Phá cửa vào luôn chứ?"
+
+"Chắc phải thế rồi!" Tôi quát lên rồi tông sầm vào cánh cửa, phá tan tành. Cứ đinh ninh bên trong ắt có người, ngờ đâu căn chòi lại chẳng một bóng ai. "Chỗ này khéo cũng giống căn phòng của ông ta. Mùi bốc lên từ bên dưới."
+
+"Lại mật thất nữa à? Anh nghĩ dưới đất có trò gì sao? Ồ, có thật này," Lorraine lật tấm thảm lên rồi bảo. Một mảng sàn mang màu sắc lệch hẳn so với xung quanh. Cô nhấc nó lên, để lộ lối cầu thang dẫn xuống tầng hầm.
+
+"Để tôi xuống trước," tôi nói.
 
 "Anh chắc chứ?"
 
-"Trong trường hợp xấu nhất nếu bị tấn công bất ngờ, tôi vẫn có thể thoát ra bằng cách nào đó. Cô cứ ở lại phía sau và chuẩn bị sẵn sàng thi triển ma pháp đi."
+"Trường hợp xấu nhất có bị đánh úp thì tôi vẫn xoay xở thoát ra được. Cô cứ ở sau bọc lót, chuẩn bị sẵn ma pháp đi."
 
-"Tôi hiểu rồi."
+"Hiểu rồi."
 
 ◆◇◆◇◆
 
-"Các ngươi từ đâu chui ra đấy?!" một người đàn ông cất tiếng hỏi khi chúng tôi bước xuống đáy tầng hầm. Đó chính là người chồng mà chúng tôi đang tìm kiếm. Trông ông ta có phần ốm yếu nhưng nhìn chung vẫn giống hệt bức chân dung.
+"Lũ kia ở đâu chui ra đấy?!" một người đàn ông quát hỏi khi hai đứa vừa đặt chân xuống đáy tầng hầm. Đó chính là người chồng chúng tôi đang tìm kiếm. Trông ông ta có vẻ ốm yếu, song nét mặt vẫn y như trong bức chân dung.
 
-Phía sau ông ta có một chiếc giường, trên đó có một người phụ nữ trẻ đang nằm. Cạnh cô ta còn có một kẻ khác nữa, và tôi có thể thấy kẻ đó đang ăn thịt cô ta. Mùi máu bốc lên từ phía chiếc giường, nghĩa là cô gái đó hẳn chính là người phụ nữ trẻ mà tôi đã ngửi thấy. Tôi cho rằng cô ta khó lòng còn sống.
+Phía sau ông ta kê một chiếc giường, trên đó có một cô gái trẻ đang nằm. Cạnh cô còn một kẻ khác đang ngấu nghiến rỉa thịt nạn nhân. Mùi máu tanh nồng xộc lên từ mép giường, nghĩa là đây chính là cô gái mà tôi đã ngửi thấy từ xa. Tôi cho rằng cô khó lòng còn sống.
 
-"Dĩ nhiên chúng tôi tới đây theo ủy thác của vợ ông," tôi nói. "Bà ấy muốn ai đó tìm ra ông sau khi ông biến mất." Thật vô cùng khó để nói rằng ông ta nên quay về với bà ấy sau những gì tôi đã chứng kiến ở đây, nên tôi chỉ nói đến thế.
+"Chúng tôi nhận ủy thác của vợ ông tới đây," tôi đáp. "Thấy ông biến mất nên bà ấy mới nhờ người đi tìm." Chứng kiến cảnh tượng trước mắt thì thật khó mà khuyên ông ta quay về với vợ, nên tôi chỉ nói chừng đó.
 
-Trước sự ngạc nhiên của tôi, người chồng nhếch mép cười khẩy. "Ả tìm ta ư? Nực cười. Ta dám chắc chỉ vì ả thấy tiện cho bản thân mà thôi."
+Không ngờ người chồng lại nhếch mép cười khẩy. "Ả tìm ta ư? Nực cười. Chắc chỉ vì thấy tiện cho ả mà thôi."
 
-"Gì cơ?"
+"Sao cơ?"
 
-"Các ngươi không biết sao? Ả đã lén lút phản bội ta sau lưng. Đây chính là kẻ mà ả đã vụng trộm cùng," ông ta nói rồi chỉ tay vào kẻ đang ăn thịt người phụ nữ. Chỉ nhìn khuôn mặt thì trông gã còn khá trẻ, nhưng da thịt gã đã thối rữa, hiển nhiên tình trạng hoàn toàn không bình thường.
+"Các ngươi không biết à? Con đàn bà đó dám cắm sừng sau lưng ta. Đây chính là thằng gian phu của ả," ông ta nói rồi chỉ tay vào kẻ đang ăn thịt cô gái. Nhìn mặt thì gã này còn khá trẻ, nhưng da thịt đã thối rữa, rõ ràng chẳng còn bình thường.
 
-"Bà ta trông đâu có mất trí đến mức đi ngủ với một con Ngạ Quỷ," Lorraine nói. Chàng thanh niên kia không nghi ngờ gì nữa chính là một con Ngạ Quỷ.
+"Bà ấy trông đâu có điên đến mức đi ngủ với một con Ngạ Quỷ," Lorraine nói. Gã thanh niên kia đích thị là một con Ngạ Quỷ không lẫn vào đâu được.
 
-"Chính ta đã biến nó thành ra nông nỗi này. Nó đang ăn thịt chính vợ của mình đấy. Thằng khốn kiếp đó dám sỉ nhục ta!"
+"Chính ta biến nó thành thế này đấy! Nó đang ăn thịt chính vợ nó kìa! Thằng súc sinh dám xúc phạm ta!"
 
-"Ông ư? Chà, giờ thì tôi đã hiểu đống sách cấm đó dùng để làm gì rồi. Nhưng khống chế Ngạ Quỷ đâu phải thứ mà người bình thường có thể làm được."
+"Ông làm ư? Hóa ra đống sách cấm kia dùng vào việc này. Nhưng điều khiển một con Ngạ Quỷ đâu phải chuyện người thường làm nổi."
 
-"Ta khá ấn tượng khi cô biết điều đó đấy. Phải, chính vì thế nên ta mới tự biến mình thành một Thi Quỷ. Ta đã đủ may mắn để có được chút máu Ma Cà Rồng."
+"Khá khen cho cô cũng biết điều đó. Phải, nên ta mới tự biến mình thành Thi Quỷ. Số ta may mắn kiếm được chút máu Ma Cà Rồng."
 
-Lorraine cau mày. "Ông đã uống nó ư? Tôi không chắc đó có thể coi là may mắn đâu."
+Lorraine cau mày. "Ông uống thứ đó à? Tôi chẳng thấy thế là may mắn chút nào đâu."
 
-Người ta đồn rằng bằng cách uống máu Ma Cà Rồng, một con người có thể biến bản thân thành Ma Cà Rồng. Nhưng hầu như mọi mưu toan làm vậy đều thất bại, và con người sẽ đánh mất lý trí. Điều tương tự có lẽ cũng đã xảy ra với người đàn ông này.
+Tương truyền con người hễ uống máu Ma Cà Rồng thì có thể biến thành Ma Cà Rồng. Thế nhưng hầu hết mọi mưu toan kiểu ấy đều chuốc lấy thất bại, khiến kẻ uống phát điên mất trí. Xem chừng người đàn ông này cũng đã rơi vào kết cục tương tự.
 
 "Rentt, chỉ còn một việc phải làm thôi."
 
-"Tôi biết rồi."
+"Ừ."
 
-Lorraine và tôi đã hạ sát lũ quái vật. Chúng yếu đến mức đó là một công việc dễ dàng, nhưng cảm giác lại vô cùng khó chịu. Sau đó, chúng tôi chôn cất bọn họ cùng người phụ nữ trẻ ở gần túp lều gỗ. Rồi chúng tôi mang di vật của họ trở về Maalt.
-
-◆◇◆◇◆
-
-Chúng tôi giải thích mọi chuyện đã xảy ra cho người vợ rồi trao lại di vật của người chồng.
-
-"Vâng, đây đúng là đồ của chồng tôi," bà ta nói, hai bàn tay run rẩy.
-
-"Đây là tiền thù lao của hai vị. Cảm ơn hai vị vì mọi chuyện; giờ thì cuối cùng tôi cũng có thể an lòng rồi." Bà ta mỉm cười nhẹ nhõm, nhưng nụ cười ấy dường như có nét gì đó khác hẳn so với trước kia.
-
-Lorraine hẳn cũng nhận ra điều đó. Sau khi nhận tiền thù lao và chuẩn bị rời đi, cô đã hỏi người vợ một câu. "Chồng bà nói rằng bà đã phản bội sau lưng ông ấy. Chuyện đó có thật không?"
-
-Bà ta chắc chắn sẽ phủ nhận điều đó, tôi thầm nghĩ, thế nên câu trả lời của bà ta quả là ngoài dự liệu.
-
-"Thực ra, tôi đã gài bẫy khiến ông ta tưởng là tôi phản bội đấy." Lorraine nhìn bà ta với vẻ bối rối. Ánh mắt người phụ nữ trông đầy hiểm độc khi tiếp tục giải thích thêm. "Thật kinh khủng làm sao. Khi ông ta bảo dự định sắp sửa giải nghệ, tôi cũng chẳng bận tâm lắm, nhưng rồi ông ta lại bắt đầu nói sẽ chia một nửa tài sản cho đứa con của người vợ trước. Tôi cứ ngỡ ông ta phát điên rồi. Thế nên tôi mới dàn xếp để ông ta tự tay giải quyết hết tất cả những chuyện này. Tôi khiến ông ta tin rằng tôi đã phản bội ông ta, và rằng tôi sắp sửa ẵm trọn toàn bộ gia sản cho bản thân cùng nhân tình mới. Ông ta thực sự đã làm đúng y như những gì tôi mong muốn. Khi ông ta điều tra gã nhân tình kia và phát hiện gã đã có vợ, chồng tôi đã nhắm tới cả vợ của gã. Dù cho người vợ đó thực chất lại chính là con gái của người vợ trước của chồng tôi. Đã hơn mười năm họ chưa từng gặp lại nhau, nên hẳn là ông ta chẳng nhận ra cô ta đâu. Dù sao thì đến lúc ấy đầu óc ông ta cũng chẳng còn tỉnh táo nữa rồi. Giờ thì toàn bộ gia sản đã thuộc về tôi. Hai người vất vả rồi. Tạm biệt nhé."
-
-Cánh cửa kêu cọt kẹt rồi đóng sập lại, nhốt chúng tôi ở bên ngoài. Đến tận bây giờ chúng tôi mới vỡ lẽ rằng tất cả chuyện này đều là âm mưu do bà ta sắp đặt.
-
-"Rentt," Lorraine mở lời.
-
-"Không đâu, Lorraine, chúng ta chẳng thể làm gì khác được nữa. Kể từ khoảnh khắc chúng ta nhận công việc này, mọi chuyện coi như đã kết thúc rồi."
-
-"Chúng ta có nên báo cho chính quyền không?"
-
-"Vô ích thôi; chúng ta không có bằng chứng. Và ngay cả khi chúng ta có thể chứng minh điều đó là sự thật, bản thân bà ta cũng chẳng hề trực tiếp phạm phải tội ác nào. Luật pháp không thể động tới bà ta."
-
-Chúng tôi lê từng bước nặng nề trở về nhà. Suốt phần còn lại của ngày hôm đó chúng tôi chẳng nói năng gì nhiều, và trong những giấc mơ, tôi đã nhìn thấy khuôn mặt đáng sợ của người đàn bà đó đang cười the thé trong bóng tối.
+Lorraine và tôi ra tay tiêu diệt lũ quái vật. Chúng yếu ớt nên giải quyết chẳng mấy khó khăn, chỉ có điều trong lòng thấy nặng nề khôn tả. Xong xuôi, hai đứa chôn cất họ cùng cô gái trẻ gần căn chòi, rồi gom góp di vật mang về Maalt.
 
 ◆◇◆◇◆
 
-Vài ngày sau, tôi tìm tới dinh thự và thấy nó đã bị thiêu rụi hoàn toàn.
+Chúng tôi kể lại đầu đuôi sự tình cho người vợ, rồi trao lại di vật của chồng bà.
 
-"Chuyện này là thế nào vậy?" tôi hỏi một người đang đứng gần đó.
+"Phải rồi, đúng là đồ của chồng tôi," bà nói, đôi bàn tay run rẩy.
 
-"Đêm qua nó bỗng nhiên bốc cháy đùng đùng đấy. Tôi đoán chắc là bị phóng hỏa rồi. Anh chỉ cần hỏi thế thôi à?"
+"Đây là thù lao của hai vị. Cảm ơn hai vị vì tất cả, giờ thì tôi mới yên lòng được." Bà nở nụ cười thoáng qua, nhưng nụ cười ấy dường như có nét gì đó khang khác lúc trước.
 
-"À, vâng."
+Lorraine hẳn cũng nhận ra điều bất thường. Sau khi nhận thù lao và toan rời đi, cô cất tiếng hỏi người vợ: "Chồng bà bảo bà phản bội ông ấy. Có thật vậy không?"
 
-Người đó quay bước rời đi. Vẫn chưa hết bàng hoàng, tôi đứng nhìn đống tàn tích của dinh thự một hồi lâu. Rồi tôi nhận ra điều gì đó. Gần góc rìa, quanh khu vực nhiều khả năng là nơi ngọn lửa bắt đầu bùng phát, tôi nhìn thấy một thứ quen thuộc. Đó là sợi dây chuyền thuộc về người phụ nữ trẻ mà chúng tôi đã chôn cất trong rừng. Nó đã cháy đen thui nhưng vẫn có thể nhận ra được. Ở gần đó, tôi cũng tìm thấy vài khúc xương người. Chúng cũng thuộc về người phụ nữ trẻ ấy.
+Tôi đinh ninh bà sẽ chối phăng, thành thử câu trả lời sau đó khiến tôi không khỏi sững sờ.
 
-Tôi tự hỏi làm sao chuyện này lại có thể xảy ra, nhưng có lẽ cô ta đã biến thành Undead vào thời điểm chúng tôi chôn cất. Khi đó cô ta có vẻ đã chết hoàn toàn, nhưng nếu cô ta chỉ vừa mới chuyển hóa thành Undead thì rất có thể đã qua mắt được tôi. Sau đó hẳn là cô ta đã tự đào mồ chui lên rồi thiêu rụi dinh thự này. Điều đó sẽ giải thích được tất cả mọi chuyện, nhưng tôi cũng chẳng có bằng chứng nào cho việc này. Cả dinh thự lẫn người phụ nữ đều đã bị thiêu cháy thành tro. Theo những người khác trong khu vực, người vợ sống ở đây cũng đã thiệt mạng.
+"Thực ra là tôi cố tình gài bẫy cho ông ta tưởng tôi ngoại tình đấy." Lorraine trố mắt nhìn bà đầy hoang mang. Ánh mắt người đàn bà lộ vẻ ma quái khi thong thả kể tiếp. "Bực hết chỗ nói. Lúc ông ta bảo sắp giải nghệ, tôi cũng chẳng bận tâm lắm, nhưng rồi ông ta lại đòi chia nửa gia sản cho đứa con của người vợ trước. Tôi cứ ngỡ ông ta phát rồ rồi cơ. Thế nên tôi mới dàn xếp để ông ta tự tay dọn sạch tất cả. Tôi vờ như mình đã cắm sừng ông ta, lại còn tính cuỗm trọn gia tài cho bản thân cùng gã nhân tình mới. Ai ngờ ông ta làm đúng y xì đúc những gì tôi muốn. Đến lúc điều tra gã nhân tình và biết gã đã có vợ, chồng tôi liền ra tay với cả vợ gã. Mỉa mai thay, cô vợ đó thực chất lại chính là con gái của bà vợ trước của chồng tôi. Xa cách nhau hơn chục năm trời, bảo sao ông ta nhận không ra con mình. Mà dẫu sao đến nước ấy thì đầu óc ông ta cũng chẳng còn tỉnh táo nữa rồi. Giờ thì toàn bộ gia tài đều là của tôi. Hai vị vất vả rồi. Tạm biệt nhé."
 
-Có lẽ tôi nên coi đây là một hình phạt thích đáng cho tội ác của bà ta, hoặc có lẽ tôi nên cảm thấy phẫn nộ trước mức độ kinh hoàng của toàn bộ vụ việc. Nhưng rốt cuộc, tôi cũng chẳng biết phải nghĩ sao về chuyện này nữa.
+Cánh cửa cọt kẹt khép lại, nhốt hai đứa ở ngoài. Tới lúc này chúng tôi mới vỡ lẽ toàn bộ chuyện này đều là cái bẫy do một tay bà ta giăng ra.
+
+"Rentt," Lorraine cất giọng.
+
+"Thôi đi, Lorraine, chúng ta chẳng làm gì khác được đâu. Ngay từ giây phút nhận ủy thác này, mọi chuyện coi như đã rồi."
+
+"Liệu có nên báo cho bên chức trách không?"
+
+"Vô ích thôi, chúng ta đâu có bằng chứng. Mà dẫu có chứng minh được là thật đi nữa, bản thân bà ta cũng chẳng trực tiếp phạm tội gì. Luật pháp không chạm tới bà ta được đâu."
+
+Hai đứa lầm lũi quay về. Suốt cả ngày hôm đó chúng tôi chẳng nói với nhau câu nào, còn trong giấc chiêm bao, khuôn mặt ghê rợn của người đàn bà ấy cứ cười the thé giữa màn đêm.
+
+◆◇◆◇◆
+
+Mấy ngày sau, tôi ghé qua dinh thự thì thấy nơi đó đã cháy rụi thành tro.
+
+"Ở đây xảy ra chuyện gì thế?" tôi hỏi một người đứng gần đó.
+
+"Đêm qua tự dưng lửa bùng lên dữ dội. Tôi đoán chắc có ai phóng hỏa rồi. Anh chỉ cần hỏi thế thôi à?"
+
+"À, phải rồi."
+
+Người đó quay lưng bỏ đi. Vẫn chưa hết bàng hoàng, tôi đứng nhìn đống tro tàn của dinh thự một hồi lâu. Rồi tôi chợt để ý thấy một thứ. Gần mép ngoài, quanh chỗ ngọn lửa nhiều khả năng bùng phát đầu tiên, đập vào mắt tôi là một vật quen thuộc. Đó là sợi dây chuyền của cô gái trẻ chúng tôi từng chôn cất trong rừng. Dù cháy xém đen thui nhưng vẫn nhận ra được. Gần đó, tôi còn tìm thấy vài khúc xương người. Chúng cũng là của cô gái ấy.
+
+Tôi không hiểu nổi sao lại có chuyện như vậy, song biết đâu cô gái đã biến thành Undead ngay lúc chúng tôi đem chôn. Khi ấy nom cô như đã chết hẳn, nhưng nếu mới chỉ chớm biến đổi thành Undead thì rất có thể đã qua mắt được tôi. Hẳn là sau đó cô đã tự đào mộ chui lên rồi phóng hỏa thiêu rụi cả tòa dinh thự. Như thế thì giải thích được mọi chuyện, hiềm nỗi tôi cũng chẳng lấy đâu ra bằng chứng. Cả dinh thự lẫn cô gái đều đã cháy thành tro vụn. Theo lời những người quanh vùng, bà vợ sống ở đây cũng đã bỏ mạng trong biển lửa.
+
+Lẽ ra tôi nên coi đây là quả báo thích đáng cho tội ác tày trời của bà ta, hoặc phẫn nộ trước mức độ kinh hoàng của toàn bộ thảm kịch. Nhưng rốt cuộc, lòng tôi chỉ còn lại nỗi ngổn ngang chẳng biết nghĩ sao cho đành.
