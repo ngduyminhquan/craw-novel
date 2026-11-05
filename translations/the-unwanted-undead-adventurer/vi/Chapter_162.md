@@ -1,175 +1,175 @@
 # Chương 162: Tập 7 Chương 2 - Tiếp Viện (6)
 
-"Ngập tràn thánh khí thế này sao?!" vị tư tế thốt lên đầy kinh ngạc ngay khi vừa bước chân vào phòng. Người này xuất hiện nhanh đến mức chúng tôi vừa rung chuông xong, tôi suýt buột miệng hỏi có phải người đó đứng chực sẵn ngoài cửa từ trước không. Nhìn vẻ mặt sững sờ chết lặng kia, tôi hiểu rằng dẫu ảo ảnh vừa rồi có thực sự là Hozei hay không, thì ít nhất thứ đó cũng đã tỏa ra thánh khí.
+"Ngập tràn thánh khí thế này sao?!" vị tư tế thốt lên đầy kinh ngạc ngay khi vừa bước vào phòng. Ông ta xuất hiện nhanh đến mức chúng tôi vừa rung chuông xong, tôi suýt đã buột miệng hỏi có phải ông ta đứng chực sẵn ngoài cửa từ trước hay không. Nhìn vẻ mặt sững sờ chết lặng kia, tôi hiểu rằng dẫu hình ảnh vừa rồi có thực sự là Hozei hay không, thì ít nhất thứ đó cũng đã giải phóng ra thánh khí.
 
-Cảm nhận thánh khí hẳn là cần qua rèn luyện bài bản, thứ mà chúng tôi đều không có, dẫu vậy tôi vẫn nhận thấy không khí trong phòng trở nên thanh khiết đến lạ thường. Nếu ví không khí được Thần Lực thanh lọc tựa như khí trời nơi núi rừng đồng nội, thì bầu không khí lúc này lại giống với không gian vô trùng được niêm phong hoàn toàn hơn. Tôi cảm nhận được sự hiện diện của một ý chí mãnh liệt, đanh thép, tuyệt đối không khoan nhượng trước bất kỳ thứ gì tà ác. Thế nhưng bản thân tôi lại là Ma Cà Rồng — một sinh vật tà ác đúng nghĩa — nên chuyện đó nghe chừng chẳng thuyết phục cho lắm.
+Cảm nhận thánh khí hẳn phải qua một quá trình rèn luyện mà chúng tôi đều không có, nhưng tôi vẫn nhận thấy không khí trong phòng đã trở nên thanh khiết đến lạ thường. Nếu ví không khí được Thần Lực thanh lọc như khí trời nơi núi rừng thôn dã, thì bầu không khí lúc này lại giống không khí trong một căn phòng đóng kín và được khử trùng hoàn toàn hơn. Tôi cảm nhận được một ý chí mãnh liệt, đanh thép, tuyệt đối không khoan nhượng trước bất kỳ thứ gì tà ác. Có điều bản thân tôi lại là Ma Cà Rồng — một sinh vật khá tà ác — nên chuyện đó nghe chẳng thuyết phục cho lắm.
 
-"Có điều gì bất thường lắm sao?" tôi hỏi vị tư tế khi thấy người đó liên tục hít sâu. Người đó liền phóng ánh mắt sắc lẹm về phía tôi rồi túm chặt lấy cổ áo tôi.
+"Chuyện này có gì lạ lắm sao?" tôi hỏi vị tư tế khi thấy ông ta cứ hít sâu liên tục. Ông ta liền quắc mắt nhìn tôi rồi túm chặt lấy cổ áo tôi.
 
-"Thế này là sao?! Rốt cuộc chuyện quái quỷ gì đã xảy ra ở đây thế hả?! Mau nói cho tôi biết!" người đó gào lên rồi lắc mạnh người tôi, trông hoàn toàn mất hết bình tĩnh.
+"Thế này là sao?! Rốt cuộc chuyện quái quỷ gì đã xảy ra ở đây thế hả?! Mau nói cho tôi biết!" ông ta hét lên rồi lắc mạnh người tôi, trông hoàn toàn mất hết bình tĩnh.
 
-"Có thể buông tay tôi ra trước được không?" tôi hỏi.
+"Làm ơn buông tay ra trước được không?" tôi hỏi.
 
-Vị tư tế cuối cùng cũng tỉnh trí lại. "Ôi, xin thứ lỗi. Tôi hơi kích động quá," người đó nói rồi buông tay. Tôi có cảm giác như mình vừa giữ lại được mạng sống. Không hẳn là tôi có thể bị giết chỉ vì bị túm cổ áo, nhưng tôi đoán chừng khi ấy phần hồn của mình cũng suýt bay mất rồi.
+Vị tư tế cuối cùng cũng tỉnh táo lại. "Ôi, xin thứ lỗi. Tôi hơi kích động quá," ông ta nói rồi buông tay. Tôi có cảm giác như mình vừa giữ lại được mạng sống. Không phải tôi có thể chết chỉ vì bị túm cổ áo, nhưng tôi cảm tưởng như hồn vía mình suýt nữa thì lìa khỏi xác vậy.
 
-Đến lúc nhìn kỹ lại vị tư tế, hóa ra người này lại là một nữ tư tế. Chiếc áo chùng của cô rộng thùng thình, chiếc mũ trùm che khuất khuôn mặt, còn giọng nói lại mang vẻ trung tính khó phân biệt nam nữ, thành thử ban nãy tôi chẳng thể xác định nổi giới tính mà chỉ đơn thuần đoán chừng đó là một người đàn ông. Thế nhưng trong lúc lắc người tôi, chiếc mũ trùm của cô đã tuột xuống, để lộ ra gương mặt. Vì tôn chỉ của các đền thờ Hozei xoay quanh chuyện khế ước, giới tăng lữ thường tránh để lộ diện mạo, nên ắt hẳn cô không hề cố ý để xảy ra chuyện này.
+Đến lúc nhìn kỹ lại vị tư tế, hóa ra ông ta lại là một nữ tư tế. Chiếc áo chùng của cô rộng thùng thình, mũ trùm che khuất khuôn mặt, giọng nói lại trung tính khó phân biệt nam nữ, nên ban nãy tôi chẳng nhận ra giới tính mà cứ mặc định đó là đàn ông. Thế nhưng trong lúc lắc người tôi, mũ trùm của cô đã tuột xuống, để lộ gương mặt. Vì mục đích hoạt động của các đền thờ Hozei xoay quanh chuyện khế ước, các giáo sĩ luôn tránh để lộ mặt, nên hẳn cô không hề cố ý để xảy ra chuyện này.
 
-"Này, mũ trùm của cô tuột rồi kìa," tôi nhắc. Vị nữ tư tế giật mình thảng thốt, vội vã kéo mũ trùm lại lên đầu rồi cố trấn tĩnh. Tôi thầm nghĩ giờ này mới làm vậy thì muộn mất rồi, song tôi chẳng muốn gợi lại chuyện đó làm gì.
+"Này, mũ trùm của cô tuột rồi kìa," tôi nhắc. Vị nữ tư tế giật mình hít một hơi, vội kéo mũ trùm lại lên đầu rồi cố lấy lại bình tĩnh. Tôi nghĩ bụng giờ mới che lại thì đã quá muộn rồi, nhưng chẳng muốn nói ra làm gì.
 
-"Giờ mới làm thế thì muộn quá rồi còn gì?" Lorraine lại buột miệng hỏi thẳng thừng mà chẳng thèm nghĩ ngợi nhiều.
+"Giờ mới làm thế thì muộn quá rồi còn gì?" Lorraine lại buột miệng hỏi thẳng mà chẳng nghĩ ngợi nhiều.
 
-Vị nữ tư tế tiu nghỉu buông xuôi rồi cởi mũ trùm ra lần nữa. "Có lẽ cô nói đúng," cô bảo, trông ngơ ngẩn đễnh đoảng đến lạ. Dẫu vậy, lúc dẫn đường cho chúng tôi ban nãy, cô lại hành xử hết sức trôi chảy và giải thích mọi chuyện đâu ra đấy. Có lẽ bầu không khí trong căn phòng này đã khiến bản tính thật của cô lộ ra chăng. Dù sao thì tăng lữ rốt cuộc cũng chỉ là con người mà thôi. Nhưng miêu tả về vị nữ tư tế này chừng đó là đủ rồi.
+Vị nữ tư tế ỉu xìu buông xuôi rồi kéo mũ trùm xuống lần nữa. "Chắc cô nói đúng," cô bảo. Trông cô có vẻ đễnh đoảng đến lạ. Thế mà ban nãy lúc dẫn đường cho chúng tôi, cô lại làm việc rất trơn tru và giải thích mọi thứ đâu ra đấy. Có lẽ bầu không khí trong căn phòng này đã làm lộ ra bản tính thật của cô. Dù sao thì giáo sĩ suy cho cùng cũng chỉ là con người mà thôi. Nhưng tả về vị nữ tư tế này thế là đủ rồi.
 
-"Cô vừa nói gì về thánh khí cơ?" tôi hỏi.
+"Cô vừa nói gì về thánh khí cơ?" tôi hỏi cô.
 
-"À, phải rồi. Tôi không rõ liệu có ai trong các vị cảm nhận được không, nhưng căn phòng này đang ngập tràn thánh khí. Cứ như thể thần linh vừa mới ngự nơi đây vậy. Tôi thậm chí còn muốn tuyên bố căn phòng này là thánh địa nữa kia."
+"À, phải rồi. Tôi không rõ có ai trong các vị cảm nhận được không, nhưng căn phòng này đang ngập tràn thánh khí. Cứ như thể thần linh vừa hiện diện nơi đây vậy. Tôi thậm chí chỉ muốn tuyên bố căn phòng này là thánh địa ngay lập tức."
 
-Câu trả lời của cô khiến mấy người chúng tôi đưa mắt nhìn nhau. Chúng tôi ắt hẳn cũng mơ hồ cảm nhận được chút thánh khí. Tôi biết có điều gì đó khác lạ, nhưng cảm giác ấy không hề rõ ràng như khi có Ma Lực hay Thần Lực hiện hữu. Dù vậy, tôi chẳng hiểu nổi vì sao cô lại muốn tuyên bố nơi này là thánh địa. Đây vốn dĩ là một căn phòng trong đền thờ, nên nếu muốn thì họ cứ việc làm thế thôi, nhưng tôi chẳng thấy chuyện đó có ý nghĩa gì.
+Câu trả lời của cô khiến mấy người chúng tôi đưa mắt nhìn nhau. Có lẽ chúng tôi cũng cảm nhận được đôi chút thánh khí. Tôi biết có gì đó khác lạ, nhưng cảm giác ấy không rõ rệt như khi có Ma Lực hay Thần Lực. Dù vậy, tôi chẳng hiểu sao cô lại muốn tuyên bố nơi này là thánh địa. Đây vốn là một căn phòng trong đền thờ, họ muốn làm thế thì cứ việc, nhưng tôi chẳng thấy làm vậy có ý nghĩa gì.
 
-"Tạm gác chuyện thánh địa hay đại loại thế sang một bên đã," tôi nói, "để tôi giải thích những gì vừa xảy ra. Chúng tôi đã sử dụng khế ước ràng buộc ma pháp, rồi một ảo ảnh trông giống hệt Hozei xuất hiện và có lẽ đã ban phước cho bản khế ước hay điều gì đó tương tự. Nó đây này."
+"Tạm gác chuyện thánh địa hay đại loại thế sang một bên đã," tôi nói, "để tôi giải thích những gì vừa xảy ra. Chúng tôi đã dùng bản khế ước ràng buộc ma pháp, rồi một hình ảnh trông giống Hozei hiện lên và có lẽ đã ban phước cho bản khế ước hay làm gì đó tương tự. Nó đây này."
 
-Cô nhã nhặn cúi đầu đón lấy bản khế ước từ tay tôi rồi giơ lên không trung để quan sát. "Bản khế ước này chắc chắn đã được Hozei ban phước," cô nói.
+Cô nhã nhặn cúi đầu nhận lấy bản khế ước từ tay tôi rồi giơ lên cao để xem xét. "Bản khế ước này chắc chắn đã được Hozei ban phước," cô nói.
 
 "Chẳng phải vốn dĩ chúng đều được Hozei ban phước sao?" tôi hỏi.
 
-"Đúng là như vậy, nhưng xét theo nghĩa cụ thể hơn thì lại không phải. Những bản khế ước này do các Thánh Giả được Hozei ban phước tạo ra, nên chúng chỉ gián tiếp mang sự ban phước của Hozei mà thôi. Tuy nhiên, nếu cứ nói chung chung rằng chúng được Hozei ban phước thì nghe chừng sẽ trọng thể hơn," cô giải thích.
+"Đúng là vậy, nhưng nếu xét kỹ hơn theo một số khía cạnh thì lại không phải. Những bản khế ước này do các Thánh Giả được Hozei ban phước tạo ra, nên chúng chỉ gián tiếp nhận sự ban phước của Hozei mà thôi. Nhưng nếu cứ nói ngắn gọn là chúng được Hozei ban phước thì nghe có vẻ quan trọng hơn," cô giải thích.
 
-Đó thực sự chẳng phải điều tôi cần biết. Thế nhưng các tư tế tại đền thờ Hozei lại mang dáng dấp của những thương nhân hơn là tăng lữ thông thường, nên tôi cũng chẳng lấy làm lạ. Vả lại cũng đâu phải họ đang lừa dối người khác. Chuyện những bản khế ước này do các Thánh Giả tạo ra vốn là điều ai nấy đều biết. Điều thực sự quan trọng là chúng có phát huy hiệu quả hay không, và chúng quả thực hiệu nghiệm, thành thử chẳng có lý do gì để chỉ trích các đền thờ cả.
+Đó thực sự chẳng phải chuyện tôi cần biết. Nhưng các tư tế ở đền thờ Hozei trông giống thương nhân hơn là giáo sĩ thông thường, nên tôi cũng chẳng ngạc nhiên. Vả lại cũng đâu phải họ đang lừa dối người ta. Chuyện những bản khế ước này do các Thánh Giả tạo ra vốn là điều ai cũng biết. Điều thực sự quan trọng là chúng có hiệu nghiệm hay không, mà chúng lại rất hiệu nghiệm, nên chẳng việc gì phải chê trách các đền thờ cả.
 
-"Thế nhưng bản khế ước các vị vừa sử dụng lại thực sự mang sự ban phước của ngài ấy. Điều đó có thể đồng nghĩa với việc bản khế ước này quan trọng đối với thần linh."
+"Thế nhưng bản khế ước các vị vừa dùng lại thực sự có sự ban phước của ngài ấy. Điều đó có thể có nghĩa là bản khế ước này quan trọng đối với thần linh."
 
 "Đích thân Hozei ban phước cho những bản khế ước quan trọng sao?" Lorraine hỏi.
 
-"Đúng vậy, nhưng đây là lần đầu tiên tôi được tận mắt chứng kiến. Một ví dụ tôi từng nghe kể là Hozei đã đích thân giá lâm để ban phước cho bản khế ước liên quan đến việc cho mượn một thanh thần kiếm. Còn rất nhiều ví dụ khác nữa, và tất cả đều được lưu truyền như những huyền thoại. Liệu tôi có thể mạo muội hỏi nội dung khế ước của các vị là về chuyện gì không? Lẽ dĩ nhiên tôi sẽ không ép các vị phải nói ra. Nhưng với tư cách là người phụng sự Hozei, nếu có thể thì tôi rất tha thiết muốn biết."
+"Đúng vậy, nhưng đây là lần đầu tiên tôi được tận mắt chứng kiến. Một ví dụ tôi từng nghe kể là Hozei đã đích thân giáng lâm để ban phước cho bản khế ước liên quan đến việc cho mượn một thanh thần kiếm. Còn rất nhiều ví dụ khác nữa, và tất cả đều được lưu truyền như những truyền thuyết. Tôi có thể mạo muội hỏi khế ước của các vị viết về chuyện gì không? Dĩ nhiên tôi sẽ không ép các vị phải nói. Nhưng là một người phụng sự Hozei, nếu được thì tôi rất muốn biết."
 
-"Thật xin lỗi, nhưng tôi không thể nói cho cô hay được," tôi trả lời khi chẳng còn lựa chọn nào khác.
+"Xin lỗi, nhưng tôi không thể nói cho cô biết được," tôi trả lời vì chẳng còn lựa chọn nào khác.
 
-"Cơ mà nếu so với ví dụ cô vừa kể, khế ước của chúng tôi tuyệt đối chẳng có gì hệ trọng đến mức đó đâu."
+"Cơ mà nếu so với ví dụ cô vừa kể, khế ước của chúng tôi chẳng có gì hệ trọng đến mức đó đâu."
 
-"Tôi hiểu rồi," vị nữ tư tế khẽ thở dài. "Vậy thì ít nhất hãy cho tôi biết tên của các vị đi."
+"Tôi hiểu rồi," vị nữ tư tế thở dài. "Vậy ít nhất hãy cho tôi biết tên của các vị đi."
 
-"Xin lỗi, chuyện đó tôi cũng không thể tiết lộ được." Giờ thì vị nữ tư tế trông như thể tuyệt vọng hoàn toàn, nhưng tôi chẳng còn cách nào khác. Dẫu vậy, tạm gác chuyện của tôi và Lorraine sang một bên, khéo Augurey lại có thể xưng tên cũng nên.
+"Xin lỗi, chuyện đó tôi cũng không thể tiết lộ được." Giờ thì vị nữ tư tế trông tuyệt vọng thấy rõ, nhưng tôi chẳng còn cách nào khác. Dù vậy, gác chuyện của tôi và Lorraine sang một bên, khéo Augurey lại có thể cho biết tên cũng nên.
 
-Đây là ngôi đền thờ phụng nữ thần của khế ước và công lý, nên giới tăng lữ được cho là luôn coi trọng việc giữ kín bí mật một cách tuyệt đối. Kể cả khi bị chính quyền hay các thế lực quyền uy gặng hỏi, họ cũng chưa từng để lộ bất kỳ bí mật nào. Xuyên suốt chiều dài lịch sử đã có không ít ví dụ như thế. Trong câu chuyện về thanh thần kiếm mà vị nữ tư tế vừa nhắc tới, danh tính của người tiếp nhận khi ấy vốn là một bí mật. Một quý tộc đầy quyền lực chịu sự thao túng của một trong các Ma Vương từng viện đến tầm ảnh hưởng quốc gia để ép đền thờ phải tiết lộ thân phận người nắm giữ thanh kiếm, thế nhưng họ đã thẳng thừng khước từ. Dù vậy, dẫu điều đó có là sự thật đi chăng nữa, tốt nhất chúng tôi vẫn không nên để lộ tên tuổi của mình.
+Đây là ngôi đền thờ nữ thần của khế ước và công lý, nên các giáo sĩ ở đây nghe nói rất coi trọng việc giữ bí mật. Kể cả khi bị chính quyền hay các thế lực quyền uy gặng hỏi, họ cũng không bao giờ tiết lộ bí mật. Trong lịch sử đã có không ít trường hợp như thế. Trong câu chuyện về thanh thần kiếm mà vị nữ tư tế vừa nhắc tới, danh tính của người nhận kiếm khi ấy vốn là một bí mật. Một quý tộc quyền thế bị một trong các Ma Vương thao túng từng dùng uy quyền quốc gia để ép đền thờ phải tiết lộ danh tính người cầm kiếm, nhưng họ đã thẳng thừng từ chối. Dù vậy, cho dù chuyện đó có thật đi nữa, tốt nhất chúng tôi vẫn không nên nói tên mình ra.
 
-Vị nữ tư tế trông có vẻ tiếc nuối, song ắt hẳn cô cũng cảm thấy việc gặng hỏi thêm nữa sẽ là hành động sai trái với tư cách người phụng sự Hozei.
+Vị nữ tư tế trông có vẻ buồn, nhưng hẳn cô cũng cảm thấy gặng hỏi thêm nữa là không phải phép đối với một người phụng sự Hozei.
 
-"Không, các vị chẳng có gì phải xin lỗi cả. Thực ra việc tôi gặng hỏi mới là đường đột. Nhưng nếu bản khế ước của các vị xảy ra bất kỳ vấn đề gì, xin hãy liên hệ với một trong các đền thờ của chúng tôi. Dù là đền thờ chính hay chi nhánh, chúng tôi nhất định sẽ hỗ trợ các vị. Đây, chỉ cần xuất trình tấm thẻ này tại bất kỳ đền thờ nào của chúng tôi, các vị sẽ được phép đích thân trao đổi với người đứng đầu đền thờ đó. Xin hãy giữ lấy nó," cô nói rồi trao cho tôi một tấm thẻ.
+"Không, các vị chẳng có gì phải xin lỗi cả. Thực ra tôi mới phải xin lỗi vì đã hỏi. Nhưng nếu bản khế ước của các vị có xảy ra vấn đề gì, xin hãy liên hệ với một trong các đền thờ của chúng tôi. Dù là đền thờ chính hay chi nhánh, chúng tôi nhất định sẽ hỗ trợ các vị. Đây, chỉ cần đưa tấm thẻ này ra ở bất kỳ đền thờ nào của chúng tôi, các vị sẽ được phép trực tiếp gặp riêng người đứng đầu đền thờ đó. Xin hãy cứ dùng nó," cô nói rồi đưa cho tôi một tấm thẻ.
 
-Đó quả là một sự tiếp đón vô cùng nồng hậu, nhưng tôi tự hỏi tại sao cô lại nhiệt tình đến mức này. Tôi cũng thắc mắc vì sao một tư tế tình cờ gặp lại có thể sở hữu thứ đồ như vậy.
+Sự tiếp đãi này quả thật vô cùng chu đáo, nhưng tôi tự hỏi sao cô lại làm tới mức này. Tôi cũng thắc mắc sao một tư tế tình cờ gặp lại có sẵn thứ như vậy trong người.
 
-"Ôi, lẽ ra tôi phải tự giới thiệu sớm hơn mới phải," cô nói như thể đọc được thắc mắc trong lòng tôi. "Tôi là Josee Meyer, người đứng đầu ngôi đền này. Rất hân hạnh được gặp các vị."
+"Ôi, lẽ ra tôi nên tự giới thiệu sớm hơn mới phải," cô nói như thể đọc được thắc mắc trong đầu tôi. "Tôi là Josee Meyer, người đứng đầu ngôi đền này. Rất hân hạnh được gặp các vị."
 
-Chúng tôi đáp lễ rồi bắt tay cô, không quên dặn lòng tuyệt đối không được xưng tên đáp lại.
+Chúng tôi chào lại rồi bắt tay cô, không quên tự nhắc mình không được xưng tên đáp lễ.
 
-Đối với một người gánh vác cả ngôi đền, cô còn quá đỗi trẻ tuổi. Trông Josee chỉ trạc độ tuổi giữa đôi mươi, xấp xỉ tuổi của Lorraine và tôi. Vương Quốc Yaaran có thể không phải một quốc gia quá bề thế, nhưng việc trở thành người đứng đầu một đền thờ tại vương đô vẫn chứng tỏ cô là người rất tài ba. Người ta thường bảo rằng một tư tế sẽ rất dễ thăng tiến nếu sở hữu Thần Lực, vả lại cô dường như cũng rất nhạy cảm với thánh khí, thành thử có lẽ cô thực sự mang trong mình Thần Lực. Nói cách khác, cô chính là một Thánh Giả. Nếu đúng là vậy, địa vị của cô cũng chẳng có gì đáng kinh ngạc, song đối với chúng tôi thì điều đó cũng chẳng tạo nên khác biệt nào. Augurey là người duy nhất phải bận tâm về việc có thể đụng mặt cô lần nữa bởi anh ta hoạt động ở vương đô, nhưng nếu chuyện đó có xảy ra thật, khéo Josee lại là người chủ động tránh né anh ta cũng nên.
+So với vị trí đứng đầu cả một ngôi đền, cô còn quá trẻ. Trông Josee chỉ tầm ngoài hai mươi, trạc tuổi Lorraine và tôi. Vương Quốc Yaaran có thể không phải một đất nước quá lớn mạnh, nhưng làm người đứng đầu một ngôi đền ngay tại vương đô vẫn chứng tỏ cô là người rất tài giỏi. Nghe nói một tư tế có Thần Lực sẽ rất dễ thăng tiến, mà cô dường như cũng rất nhạy bén với thánh khí, nên có lẽ cô thực sự sở hữu Thần Lực. Nói cách khác, cô chính là một Thánh Giả. Nếu đúng là vậy, chức vụ của cô cũng chẳng có gì đáng ngạc nhiên, mà dù sao điều đó cũng chẳng ảnh hưởng gì mấy đến chúng tôi. Chỉ có mình Augurey là phải lo chuyện chạm mặt cô lần nữa vì anh ta làm việc ở vương đô, nhưng nếu chuyện đó có xảy ra thật, khéo Josee mới là người chủ động tránh mặt anh ta.
 
-Lúc này khi đã hỏi xong những điều muốn hỏi và hoàn tất những việc cần làm, đã đến lúc chúng tôi phải rời đi. Thời gian của chúng tôi không còn nhiều, vả lại Augurey cũng bảo anh ta còn có việc riêng cần giải quyết.
+Giờ đã hỏi xong những điều muốn hỏi và làm xong những việc cần làm, đã đến lúc chúng tôi phải đi. Chúng tôi không còn nhiều thời gian, vả lại Augurey cũng bảo anh ta có việc riêng cần giải quyết.
 
-"Chúng tôi phải đi ngay bây giờ rồi," tôi nói.
+"Chắc chúng tôi phải đi ngay bây giờ rồi," tôi nói.
 
-"Ôi, vậy sao?" Josee tiếc nuối đáp lời. Trông cô như thể vẫn muốn tìm hiểu thêm, nhưng giờ thì đã quá muộn để gặng hỏi rồi. Chúng tôi rời khỏi căn phòng và rảo bước hướng về phía lối ra của ngôi đền.
-
-◆◇◆◇◆
-
-"Chà, bao nhiêu chuyện đã xảy ra, nhưng giờ thì chắc chẳng còn điều gì đáng lo nữa rồi," tôi nói khi chúng tôi rời khỏi ngôi đền.
-
-"Phải đấy. Giờ thì dẫu có ai đến gặng hỏi, tôi cũng có thể lấy bản khế ước ra làm cớ để không nói gì," Augurey nói. "Thật nhẹ cả người. Tôi cảm thấy an tâm hơn hẳn khi biết rằng dù muốn hay không thì mình cũng chẳng thể nào làm lộ bí mật được." Bản khế ước vẫn chừa cho Augurey khả năng mở lời nếu tôi hoặc Lorraine cho phép, thế nhưng việc tạo ra một cơ chế ngăn ngừa những sơ suất có thể khiến anh ta phải câm lặng vĩnh viễn vẫn tốt hơn nhiều so với việc bắt anh ta phải nơm nớp lo sợ về điều đó suốt phần đời còn lại.
-
-"Ừ thì, cũng có thể chúng ta đang lo xa quá thôi," Lorraine nói. "Đằng nào thì tôi cũng không nghĩ sẽ có ai tìm cách săn lùng thông tin mà bản khế ước này che giấu đâu, nhưng sau những gì đã xảy ra với Nive, tôi không muốn liều lĩnh chút nào."
-
-Giờ đây khi diện mạo của tôi chẳng khác gì con người, sẽ không có mấy ai nhận ra tôi không phải đồng loại của họ. Kể cả chúng tôi không cẩn trọng đến mức này, khả năng tôi bị bại lộ cũng là cực kỳ thấp. Thế nhưng chúng tôi luôn phải lường trước tình huống đó. Đó là lý do vì sao tôi chỉ thổ lộ bí mật của mình cho những người tôi hoàn toàn tin tưởng, hoặc những người đã dùng khế ước ràng buộc ma pháp để gây dựng niềm tin ấy. Biết đâu một ngày nào đó, khi hiểu rõ hơn về cơ thể mình, tôi sẽ buộc phải giải thích mọi chuyện cho một người mà mình chẳng mấy thân quen, nhưng trước hết tôi sẽ phải suy đi tính lại thật kỹ càng.
-
-"Nive sao? Có phải Nive Maris không?" Augurey hỏi.
-
-"Phải đấy, cô ấy tới Maalt để truy lùng một con Ma Cà Rồng. Cô ấy từng nghi ngờ tôi khá nhiều."
-
-"Thế thì gay go thật đấy. Nhưng theo như lời cậu kể thì rốt cuộc cô ấy cũng không gây quá nhiều rắc rối cho cậu, đáng ngạc nhiên thật."
-
-Lẽ dĩ nhiên tôi mới là người ngạc nhiên hơn bất kỳ ai về chuyện đó. Hóa ra cô ấy vốn đang lùng sục một con Ma Cà Rồng khác. Tôi tự hỏi không biết liệu cô ấy đã tìm thấy nó hay chưa. Khi đến từ phương tây, cô ấy hừng hực nhiệt huyết săn lùng. Thị trấn Maalt tuy tương đối rộng lớn so với mặt bằng chung các đô thị ở Yaaran, nhưng nếu cô ấy ngày ngày cứ bừa bãi phóng ra luồng Thánh Hỏa đó, chẳng một con Ma Cà Rồng nào có thể ẩn nấp được.
-
-"Dù sao thì rốt cuộc tôi vẫn bình an vô sự, và đó mới là điều quan trọng," tôi nói. "Nhân tiện, Augurey, anh bảo mình có việc cần làm mà. Anh còn bao nhiêu thời gian?"
-
-Augurey ngước nhìn vị trí mặt trời. "Chết dở, chẳng còn nhiều đâu. Hôm nay tôi phải đi đây. Liệu tôi có cơ hội gặp lại hai người không? Tôi cũng đã trải qua nhiều chuyện kể từ ngày rời Maalt. Có cả đống thứ để hàn huyên đấy, và nếu hai người có dịp ghé lại vương đô lần nữa, tôi rất muốn được cùng hai người nhận chung một ủy thác."
-
-Tôi nhìn chung thường gắn bó với những chuyến mạo hiểm đơn độc, nhưng điều đó là bởi tôi từng nghĩ chiến đấu một mình sẽ là cách hiệu quả nhất để trở nên mạnh mẽ hơn. Giờ đây quan điểm của tôi đã thay đổi đôi chút. Vả lại, hồi cả hai còn là những mạo hiểm giả độc hành nghèo túng ở Maalt, chúng tôi thỉnh thoảng vẫn nhận chung nhiệm vụ. Tôi chẳng có lý do gì để từ chối, và xem chừng Lorraine cũng vậy.
-
-"Được thôi, lần tới khi đến đây tôi sẽ liên lạc với anh," tôi nói. "Lẽ ra tôi sẽ liên hệ qua Hội, nhưng tôi không nghĩ mình có thể làm thế."
-
-"Vậy thì cứ liên hệ tới quán trọ này nhé," Augurey mau mắn đáp lời, hiểu rõ nỗi ngần ngại của tôi. "Đó là nơi tôi luôn thuê trọ. Hẹn gặp lại sau." Anh ta trao cho tôi một mẩu giấy ghi tên quán trọ cùng vị trí đại khái của nó, rồi vẫy tay chào tạm biệt và rảo bước rời đi.
+"Ồ, vậy sao?" Josee buồn bã đáp. Trông cô như vẫn muốn tìm hiểu thêm, nhưng giờ thì đã quá muộn để hỏi han rồi. Chúng tôi rời khỏi căn phòng và đi về phía lối ra của ngôi đền.
 
 ◆◇◆◇◆
 
-"Giờ chúng ta đi tới điểm hẹn luôn chứ?" tôi hỏi Lorraine.
+"Chà, xảy ra bao nhiêu là chuyện, nhưng giờ chắc chẳng còn gì đáng lo nữa đâu nhỉ," tôi nói khi chúng tôi bước ra khỏi đền thờ.
 
-"Tôi cũng nghĩ vậy. Vẫn chưa hẳn tới giờ hẹn, nhưng thời gian sít sao lắm rồi. Tôi chẳng muốn làm bà Gharb và Capitan nổi giận đâu."
+"Phải đấy. Giờ có ai tìm đến hỏi han, tôi cũng có thể lấy bản khế ước ra làm cớ để không nói lời nào," Augurey bảo. "Nhẹ cả người. Biết rằng dù muốn hay không mình cũng chẳng thể tiết lộ bí mật làm tôi thấy yên tâm hơn hẳn." Bản khế ước vẫn chừa chỗ cho Augurey được phép nói ra nếu có sự đồng ý của tôi hoặc Lorraine, nhưng tạo ra một cách ngăn ngừa những sơ suất có thể khiến anh ta phải câm lặng vĩnh viễn vẫn tốt hơn nhiều so với việc bắt anh ta phải nơm nớp lo sợ chuyện đó suốt quãng đời còn lại.
 
-"Nói phải đấy, mau lên thôi," tôi đáp.
+"Ừ thì, có khi chúng ta cũng hơi lo xa quá thôi," Lorraine nói. "Đằng nào tôi cũng không nghĩ sẽ có ai đi lùng sục những thông tin mà bản khế ước này che giấu đâu, nhưng sau những gì đã xảy ra với Nive, tôi không muốn mạo hiểm chút nào."
 
-Chúng tôi vội vã chạy tới điểm hẹn. Lẽ dĩ nhiên, chúng tôi không quên thay trang phục trở lại bình thường từ trước đó. Tôi chẳng đủ can đảm để bà Gharb và Capitan nhìn thấy mình trong bộ cánh lòe loẹt sặc sỡ ấy đâu. Chắc chắn họ sẽ trêu chọc tôi suốt cho mà xem.
+Giờ diện mạo của tôi đã giống hệt con người, sẽ chẳng mấy ai nhận ra tôi không phải người bình thường. Kể cả chúng tôi không cẩn thận đến mức này, khả năng tôi bị lộ cũng cực kỳ thấp. Thế nhưng chúng tôi luôn phải tính đến khả năng đó. Đó là lý do tôi chỉ kể bí mật của mình cho những người tôi đã hoàn toàn tin tưởng, hoặc những người dùng khế ước ràng buộc ma pháp để tạo dựng niềm tin ấy. Biết đâu một ngày nào đó, khi tìm hiểu được nhiều hơn về cơ thể mình, tôi sẽ buộc phải giải thích mọi chuyện cho một người không mấy thân thiết, nhưng trước đó tôi sẽ phải suy tính thật kỹ càng.
+
+"Nive á? Ý cô là Nive Maris hả?" Augurey hỏi.
+
+"Ừ, cô ấy tới Maalt để lùng bắt một con Ma Cà Rồng. Cô ấy từng nghi ngờ tôi dữ lắm."
+
+"Nghe gay go thật đấy. Nhưng theo lời cậu kể thì cuối cùng cô ấy cũng không gây rắc rối gì nhiều cho cậu, đáng ngạc nhiên thật."
+
+Dĩ nhiên tôi mới là người ngạc nhiên nhất về chuyện đó. Hóa ra cô ấy vốn đang lùng tìm một con Ma Cà Rồng khác. Tôi tự hỏi không biết cô ấy đã tìm ra nó chưa. Hồi từ miền tây tới, cô ấy hừng hực khí thế săn lùng. Maalt tuy khá rộng so với mặt bằng chung các thành phố ở Yaaran, nhưng nếu ngày nào cô ấy cũng phóng Thánh Hỏa bừa bãi như thế, chẳng con Ma Cà Rồng nào trốn nổi đâu.
+
+"Dù sao thì cuối cùng tôi vẫn an toàn, thế là được rồi," tôi nói. "Mà này Augurey, anh bảo có việc cần làm cơ mà. Anh còn bao nhiêu thời gian?"
+
+Augurey ngước nhìn vị trí mặt trời. "Chết dở, chẳng còn bao nhiêu nữa. Hôm nay tôi phải đi rồi. Không biết tôi có còn dịp gặp lại hai người không nhỉ? Kể từ hồi rời Maalt tôi cũng trải qua nhiều chuyện lắm. Có bao nhiêu thứ để kể, nên nếu hai người có dịp ghé lại vương đô lần nữa, tôi rất muốn được đi làm chung một ủy thác với hai người."
+
+Nhìn chung tôi thường chỉ đi mạo hiểm một mình, nhưng đó là vì trước kia tôi nghĩ tự mình chiến đấu là cách hiệu quả nhất để mạnh lên. Giờ suy nghĩ của tôi đã thay đổi đôi chút. Vả lại, hồi cả hai còn là những mạo hiểm giả đi lẻ nghèo túng ở Maalt, thỉnh thoảng chúng tôi vẫn nhận việc chung. Tôi chẳng có lý do gì để từ chối, mà xem chừng Lorraine cũng vậy.
+
+"Được thôi, lần tới lên đây tôi sẽ liên lạc với anh," tôi nói. "Lẽ ra tôi sẽ nhắn qua Hội, nhưng tôi không nghĩ mình làm thế được."
+
+"Vậy thì cứ liên lạc tới quán trọ này nhé," Augurey hiểu ngay sự ngần ngại của tôi nên đáp liền. "Chỗ tôi vẫn hay trọ đấy. Hẹn gặp lại sau." Anh ta đưa cho tôi một mẩu giấy ghi tên quán trọ cùng vị trí đại khái của nó, rồi vẫy tay chào tạm biệt và rời đi.
 
 ◆◇◆◇◆
 
-"Ồ, vừa đúng giờ đấy. Khoan đã, thực ra là quá giờ một chút rồi. Hai đứa thích thú ngắm cảnh đến thế cơ à?" bà Gharb cất tiếng hỏi khi chúng tôi vừa tới nơi. Đó xem chừng là một câu hỏi thực lòng.
+"Giờ chúng ta ra chỗ hẹn luôn chứ?" tôi hỏi Lorraine.
 
-"Cháu xin lỗi. Với Lorraine thì đây không phải lần đầu tới vương đô, nhưng với cháu thì đúng là vậy, nên ngắm cảnh cũng rất thú vị. Nhưng đó không phải lý do tụi cháu đến muộn đâu ạ," tôi nói.
+"Tôi cũng nghĩ vậy. Chưa hẳn tới giờ hẹn đâu, nhưng cũng sát nút lắm rồi. Tôi chẳng muốn làm bà Gharb và Capitan nổi giận đâu."
 
-Tôi kể cho hai người nghe về cuộc gặp gỡ với Augurey cùng toàn bộ những gì đã diễn ra sau đó. Lẽ dĩ nhiên tôi lược bỏ tất thảy những chuyện liên quan đến việc mình là Ma Cà Rồng. Để giải thích lý do vì sao chúng tôi đến đền thờ Hozei, tôi chỉ bảo rằng mình không muốn Augurey kể cho bất kỳ ai nghe về việc chúng tôi đã tới vương đô. Đó không hẳn là toàn bộ sự thật, song cũng chẳng phải lời bịa đặt dối trá. Tại một thời điểm nào đó trong câu chuyện, bà Gharb và Capitan bắt đầu nheo mắt nhìn tôi, thành thử có lẽ họ biết tỏng tôi đang giấu giếm điều gì, nhưng họ không hề nói toạc ra.
+"Nói phải đấy, mau đi thôi," tôi đáp.
 
-Khi tôi dứt lời, bà Gharb khẽ thở dài. "Hai đứa chỉ đi dạo thôi mà. Sao lại chuốc lấy bao nhiêu rắc rối vào người thế hả? Lorraine, cháu chắc hẳn mệt mỏi lắm rồi."
+Chúng tôi vội vã chạy tới chỗ hẹn. Dĩ nhiên, chúng tôi không quên thay lại trang phục bình thường từ trước đó. Tôi chẳng đủ can đảm để bà Gharb và Capitan nhìn thấy mình trong bộ đồ lòe loẹt sặc sỡ ấy đâu. Chắc chắn họ sẽ trêu chọc tôi cho mà xem.
 
-"Không đâu ạ, suốt chuyến đi cháu đều cảm thấy rất vui vẻ," Lorraine tươi cười đáp lời.
+◆◇◆◇◆
+
+"Ồ, vừa đúng giờ đấy. Khoan đã, thực ra là trễ một chút rồi. Hai đứa mải mê ngắm cảnh đến thế cơ à?" bà Gharb hỏi ngay khi chúng tôi vừa tới nơi. Nghe có vẻ như bà hỏi thật lòng.
+
+"Cháu xin lỗi. Với Lorraine thì đây không phải lần đầu lên vương đô, nhưng với cháu thì đúng là lần đầu, nên đi ngắm cảnh cũng vui lắm. Nhưng đó không phải lý do tụi cháu đến muộn đâu," tôi nói.
+
+Tôi kể cho hai người nghe về cuộc gặp gỡ với Augurey cùng mọi chuyện diễn ra sau đó. Dĩ nhiên tôi lược bỏ toàn bộ những gì liên quan đến chuyện mình là Ma Cà Rồng. Để giải thích lý do đến đền thờ Hozei, tôi chỉ bảo rằng mình không muốn Augurey kể cho ai nghe chuyện chúng tôi tới vương đô. Đó không hẳn là toàn bộ sự thật, nhưng cũng chẳng phải lời nói dối. Kể đến giữa chừng, bà Gharb và Capitan bắt đầu nheo mắt nhìn tôi, nên có lẽ họ biết tôi đang nói dối, nhưng họ không vạch trần.
+
+Khi tôi kể xong, bà Gharb thở dài. "Hai đứa chỉ đi dạo thôi mà. Sao lại tự chuốc lấy lắm rắc rối thế hả? Lorraine, chắc cháu mệt mỏi lắm rồi."
+
+"Không đâu, suốt cả buổi cháu đều thấy rất vui," Lorraine vui vẻ đáp.
 
 "Thế à? Ta hiểu rồi, hiểu rồi. Hai đứa không nói cho cậu ta biết về các ma pháp trận dịch chuyển đấy chứ?"
 
-"Dạ không, chúng cháu không nói," tôi bảo. "Cháu nghĩ mình không nên nhắc tới chuyện đó khi chưa được sự cho phép của bà. Có lẽ tụi cháu đã có thể kể cho anh ta sau khi lập khế ước, nhưng cháu đã quyết định không làm vậy."
+"Vâng, tụi cháu không nói," tôi đáp. "Cháu nghĩ không nên nhắc tới chuyện đó khi chưa được bà cho phép. Lẽ ra sau khi lập khế ước xong tụi cháu có thể kể cho anh ta nghe, nhưng cháu quyết định thôi."
 
-Khi nhắc tới những bí mật của riêng mình, quyền lựa chọn tiết lộ điều gì và cho ai hoàn toàn thuộc về tôi. Kết cục là, dẫu tôi có bị ai đó như Nive giết chết đi chăng nữa, tôi cũng chỉ có thể tự trách bản thân mình mà thôi. Thế nhưng các ma pháp trận dịch chuyển rốt cuộc lại là vấn đề của Hathara. Việc để lộ bí mật ấy không phải là quyết định mà tôi có quyền tự tiện đưa ra.
+Với những bí mật của riêng mình, việc chọn kể điều gì cho ai hoàn toàn là quyền của tôi. Thành ra dù có bị ai đó như Nive giết chết, tôi cũng chỉ biết tự trách mình. Thế nhưng các ma pháp trận dịch chuyển suy cho cùng lại là vấn đề của làng Hathara. Tiết lộ bí mật ấy hay không chẳng phải chuyện tôi được quyền tự quyết.
 
-"Ta đã bảo là giao quyền cai quản nơi đó cho cháu rồi cơ mà? Điều đó bao gồm cả những ma pháp trận dịch chuyển ấy nữa, cháu muốn làm gì với chúng cũng được," bà Gharb nói, khiến tôi không khỏi ngỡ ngàng.
+"Ta đã bảo là giao cho cháu trông coi nơi đó rồi còn gì? Trong đó bao gồm cả mấy cái ma pháp trận dịch chuyển ấy đấy, cháu muốn làm gì với chúng cũng được," bà Gharb nói, làm tôi không khỏi ngạc nhiên.
 
-"Điều đó có nghĩa là tụi cháu có thể tùy ý chọn người để nói cho họ biết về chúng sao ạ?" Lorraine hỏi.
+"Nghĩa là tụi cháu có thể tùy ý chọn người để kể về chúng sao?" Lorraine hỏi.
 
-Capitan gật đầu. "Phải, ý của tụi này là vậy đấy. Chú đoán chắc tụi này chưa truyền đạt điều đó cho thật rõ ràng..."
+Capitan gật đầu. "Ừ, ý tụi này là vậy đấy. Chắc tại tụi này nói chưa được rõ ràng cho lắm..."
 
-"Thế nhưng nếu điều đó khiến các ma pháp trận dịch chuyển bị phát giác, làng Hathara sẽ ra sao đây ạ?" Lorraine cất giọng đầy lo ngại.
+"Nhưng nếu vì thế mà các ma pháp trận dịch chuyển bị lộ ra ngoài, làng Hathara sẽ ra sao?" Lorraine lo lắng hỏi.
 
-"Cô không cần phải bận tâm quá nhiều về chuyện đó đâu," tôi nói. "Trong trường hợp xảy ra bất kỳ biến cố nào, các ma pháp trận dịch chuyển bên phía Hathara đều có thể bị xóa bỏ. Có đúng vậy không ạ?" tôi hỏi rồi quay sang nhìn bà Gharb.
+"Cô không cần phải nghĩ ngợi nhiều về chuyện đó đâu," tôi nói. "Lỡ có xảy ra chuyện gì, các ma pháp trận dịch chuyển bên phía Hathara đều có thể xóa bỏ được. Đúng không bà?" tôi vừa hỏi vừa quay sang nhìn bà Gharb.
 
-"Phải, ta đã được chỉ dạy cách thức rồi. Nếu muốn làm thì ta hoàn toàn có thể làm được. Sau đó, làng Hathara chỉ việc giả vờ như không biết gì là xong. Sẽ chẳng còn ma pháp trận dịch chuyển nào để mà tìm kiếm nữa, thế nên sẽ chẳng có rắc rối nào phát sinh cả."
+"Phải, ta đã được truyền lại cách làm rồi. Nếu muốn thì ta làm được ngay. Xong xuôi, làng Hathara chỉ việc giả vờ như không biết gì là được. Sẽ chẳng còn ma pháp trận dịch chuyển nào để mà tìm nữa, nên sẽ không có rắc rối nào phát sinh đâu."
 
-"Ma pháp trận dịch chuyển có thể bị bàn tay con người phá hủy sao ạ?" Lorraine hỏi. Giọng cô nghe đầy kinh ngạc, nhưng điều đó hoàn toàn có lý do của nó. Những ma pháp trận dịch chuyển thông thường được tìm thấy trong các mê cung chưa từng bao giờ bị con người phá hủy. Chúng chỉ biến mất khi cấu trúc của mê cung thay đổi; còn dẫu vũ khí hay ma pháp của con người có thể tạm thời làm cạo xước hay sứt mẻ một phần vòng tròn, nó cũng sẽ lập tức tự tái tạo lại ngay. Những ma pháp trận này có sức tồn tại cực kỳ dai dẳng.
+"Ma pháp trận dịch chuyển có thể bị bàn tay con người phá hủy sao?" Lorraine hỏi. Giọng cô nghe đầy kinh ngạc, nhưng cũng có lý do cả. Những ma pháp trận dịch chuyển thông thường trong các mê cung chưa từng bị con người phá hủy bao giờ. Chúng chỉ biến mất khi cấu trúc mê cung thay đổi; còn vũ khí hay ma pháp của con người dù có tạm thời cạo xước được vài phần của vòng tròn thì nó cũng lập tức tự tái tạo lại ngay. Những ma pháp trận này tồn tại cực kỳ dai dẳng.
 
-"Phải. Việc đó dễ ợt ấy mà, miễn là biết cách. Ta sẽ kể cho hai đứa nghe sau. Có khá nhiều điều ta cần truyền đạt cho hai đứa đấy, bao gồm cả những lối ra của các ma pháp trận dịch chuyển trong tàn tích thành phố ngầm kia. Hai đứa tốt nhất là nên ghi nhớ cho thật kỹ đi," bà Gharb bảo.
+"Được chứ. Chỉ cần biết cách là dễ ợt ấy mà. Để lát nữa ta chỉ cho hai đứa. Còn kha khá chuyện ta phải dặn hai đứa đấy, tính cả vị trí các lối ra của ma pháp trận dịch chuyển trong cái thành phố đổ nát kia nữa. Hai đứa liệu mà ghi nhớ cho kỹ vào," bà Gharb bảo.
 
-Giọng điệu của bà làm tôi nhớ lại quãng thời gian mình từng theo học bà. Ngay cả tới tận bây giờ, điều đó vẫn khiến tôi có chút e dè sợ sệt. Bà Gharb có thể là một người vô cùng tàn nhẫn và nghiêm khắc. Hồi đó tôi đã phải dốc hết sức bình sinh để học thuộc lòng mọi thứ, thành thử chẳng có lấy một khoảnh khắc nào để ngẫm xem nó khắc nghiệt đến nhường nào. Giờ mà bảo làm lại thì chắc chắn tôi sẽ thấy mệt mỏi lắm. Thế nhưng dẫu ngày ấy bà từng ép tâm trí tôi đến tận cùng giới hạn, nếu phải làm lại từ đầu một lần nữa, tôi vẫn sẽ sẵn lòng.
+Giọng điệu của bà làm tôi nhớ lại hồi còn theo học bà. Ngay cả bây giờ, giọng nói đó vẫn làm tôi hơi rờn rợn. Bà Gharb là một bà già khá tàn nhẫn và nghiêm khắc. Hồi đó tôi phải trầy trật khổ sở lắm mới học thuộc lòng được mọi thứ, nên chẳng có lấy một giây nào để ngẫm xem việc đó khắc nghiệt tới mức nào. Giờ mà bắt làm lại thì chắc chắn tôi sẽ thấy oải lắm. Nhưng dù ngày ấy bà từng vắt kiệt tâm trí tôi đến tận cùng giới hạn, nếu phải làm lại tất cả một lần nữa, tôi vẫn sẵn lòng.
 
-Lorraine thì trái lại, dường như xem đây là cơ hội tuyệt vời để tiếp thu những điều mới mẻ và thú vị. "Cháu nóng lòng quá rồi đây ạ!" cô nói, đôi mắt sáng rực. Nếu cô ấy có thể tìm thấy niềm vui trong chuyện này, thì hẳn cô ấy có thể tận hưởng bất cứ thứ gì trên đời.
+Trái lại, Lorraine dường như coi đây là cơ hội tốt để học hỏi thêm điều mới mẻ và thú vị. "Cháu mong chờ lắm đấy!" cô nói, đôi mắt sáng lên. Nếu đến chuyện này mà cô ấy cũng tìm ra cách tận hưởng được, thì hẳn chuyện gì trên đời cô ấy cũng thấy vui được hết.
 
-Dẫu vậy, nếu các ma pháp trận dịch chuyển thực sự có thể bị phá hủy, điều đó có nghĩa là ngay cả khi có ai đó nghe phong phanh về chúng, làng Hathara vẫn có thể giả vờ như chẳng liên quan gì. Có lẽ mọi chuyện vẫn sẽ tồi tệ nếu ai đó phát hiện ra chúng nằm ở Hathara trước khi kịp phá hủy, nhưng khi ấy chúng tôi chỉ việc đảm bảo sao cho kẻ phát hiện ra tuyệt đối không thể tiết lộ với bất kỳ ai. Nếu có thể, tôi muốn mình có đủ khả năng phá hủy các ma pháp trận dịch chuyển trước khi xảy ra chuyện đó. Có lẽ sẽ là một ý hay nếu nghĩ ra cách nào đó để biến điều này thành hiện thực. Hoặc biết đâu chừng đã có sẵn một cách thức như thế rồi cũng nên. Tôi chẳng dám chắc, nhưng lúc này tôi cảm thấy bớt lo lắng hơn đôi chút.
+Dẫu vậy, nếu các ma pháp trận dịch chuyển thực sự có thể bị phá hủy, nghĩa là ngay cả khi có ai đó nghe phong phanh về chúng, làng Hathara vẫn có thể giả vờ như không liên quan gì. Có lẽ mọi chuyện vẫn sẽ tệ nếu ai đó phát hiện ra chúng nằm ở Hathara trước khi kịp phá hủy, nhưng khi ấy chúng tôi chỉ việc đảm bảo kẻ phát hiện ra không bao giờ có thể tiết lộ với bất kỳ ai. Nếu được, tôi muốn có cách phá hủy các ma pháp trận dịch chuyển trước khi xảy ra chuyện đó. Có lẽ nên nghĩ ra cách nào đó để làm được việc này. Hoặc biết đâu đã có sẵn cách như thế rồi cũng nên. Tôi cũng không rõ nữa, nhưng giờ tôi đã thấy đỡ lo hơn một chút.
 
 ◆◇◆◇◆
 
-"Hửm?" Lorraine cất tiếng trên đường tiến về phía cổng thành.
+"Hửm?" Lorraine khẽ kêu lên trên đường đi ra cổng thành.
 
 "Có chuyện gì thế?" tôi hỏi.
 
-"Kia chẳng phải Augurey sao?" cô đáp. Tôi nhìn theo hướng mắt cô, và Augurey quả nhiên đang đứng đó thật. Anh ta đang nói chuyện với một bé gái và cố trao cho cô bé thứ gì đó.
+"Kia chẳng phải Augurey sao?" cô đáp. Tôi nhìn theo hướng mắt cô, và đúng là Augurey đang đứng đó thật. Anh ta đang nói chuyện với một bé gái và cố đưa cho cô bé thứ gì đó.
 
-Nói thật thì tôi biết nghe lén là không phải phép, nhưng đây lại là giữa phố chính của Vistelya. Nghĩ bụng nghe ngóng một chút chắc cũng chẳng sao, trí tò mò đã thôi thúc tôi kích hoạt Tai Ma Cà Rồng của mình. Dù vậy, đó chẳng phải tên của một kỹ năng thực thụ nào đâu; chỉ là cách tôi tự gọi thính lực được cường hóa của mình mà thôi.
+Thực ra tôi biết nghe lén là không đúng, nhưng đây lại là ngay giữa trục đường chính của Vistelya. Nghĩ bụng nghe ngóng một chút chắc cũng chẳng sao, sự tò mò đã thôi thúc tôi bật Tai Ma Cà Rồng của mình lên. Dù vậy, đó chẳng phải tên của một kỹ năng thực thụ nào đâu; chỉ là cách tôi tự gọi thính lực đã được tăng cường của mình thôi.
 
-"Thiến thảo hỏa tinh linh đây rồi nhé. Cháu cầm lấy đi," Augurey nói với cô bé.
+"Thiến thảo hỏa tinh linh đây. Cháu cầm lấy đi," Augurey nói với cô bé.
 
 "Nhưng cháu không có tiền ạ," cô bé đáp.
 
-"Không cần phải bận tâm chuyện đó đâu. Đây chỉ là phần thiến thảo còn thừa lại từ đợt chú hái để nhuộm bộ đồ chú đang đặt may cho mình thôi. Thú thật là thừa nhiều quá chú chẳng biết phải làm gì với nó nữa. Cháu cứ tự nhiên mà dùng đi. Mẹ cháu đang cần nó mà, phải không?"
+"Không phải lo chuyện đó đâu. Đây chỉ là phần thiến thảo còn dư lại từ chỗ chú hái để nhuộm bộ đồ chú đang đặt may cho mình thôi. Thú thật là thừa nhiều quá chú cũng chẳng biết làm gì với nó nữa. Cháu cứ cầm lấy mà dùng. Mẹ cháu đang cần nó mà, phải không?"
 
 "Dạ vâng, cháu cảm ơn chú ạ. Ôi, chú Augurey! Ờm..."
 
-"Cháu không cần phải trả tiền đâu. Mau mang nó về cho mẹ đi cháu. Lần tới gặp lại, chú sẽ trình làng bộ cánh thời trang đỉnh cao nhất mọi thời đại của mình cho xem. Nếu có ai trong mấy đứa bị ốm thì mất vui lắm đấy. Đi nhanh đi nào," Augurey nói rồi đẩy nhẹ cô bé từ phía sau. Cô bé có vẻ dùng dằng chưa muốn rời đi, nhưng rốt cuộc cũng cắm đầu chạy biến đi đâu đó. Augurey mỉm cười dõi theo bóng lưng cô bé rồi quay gót hòa mình biến mất vào giữa dòng người đông đúc.
+"Cháu không cần phải trả lại gì đâu. Mau mang về cho mẹ đi cháu. Lần tới gặp lại, chú sẽ trình làng bộ cánh thời trang đỉnh nhất mọi thời đại của chú cho mà xem. Nếu có đứa nào trong mấy đứa bị ốm thì mất vui lắm đấy. Đi mau đi nào," Augurey nói rồi đẩy nhẹ lưng cô bé. Cô bé có vẻ tần ngần chưa muốn đi, nhưng cuối cùng cũng chạy biến đi đâu đó. Augurey mỉm cười nhìn theo bóng cô bé rồi quay người hòa vào đám đông biến mất.
 
-"Tốt bụng ghê nhỉ. Nhìn cái cách anh ta ăn mặc thì chẳng ai có thể mảy may ngờ tới điều đó cả," Lorraine nói.
+"Anh ta tốt bụng thật đấy. Nhìn cách anh ta ăn mặc thì chẳng ai ngờ được chút nào," Lorraine nói.
 
-"Ừ thì, tính anh ta vốn là vậy mà. Đó là lý do vì sao tôi gắn bó với anh ta nhiều đến thế," tôi đáp lời, nhưng nghe chừng Augurey đang bắt bọn trẻ phải xem buổi trình diễn thời trang của mình như một khoản thù lao đáp lễ thì phải. Nghe đúng phong cách đặc trưng của anh ta thật.
+"Ừ thì, con người anh ta vốn vậy mà. Thế nên tôi mới hay đi cùng anh ta nhiều đến vậy," tôi đáp, nhưng nghe chừng Augurey đang bắt bọn trẻ phải xem buổi trình diễn thời trang của mình coi như trả công thì phải. Nghe đúng kiểu của anh ta thật.
 
 ![](images/ch162-01.webp)
