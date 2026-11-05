@@ -48,7 +48,7 @@ Tôi từ tốn truyền thêm Thần Lực cho đến khi làn tà khí bốc l
 
 "Bao phân bón biết đi lại ra tay rồi đấy à. Lần nào anh thanh tẩy cũng sinh ra chuyện thế này sao?" Lorraine nhìn chằm chằm vào đống tro đã được gột sạch, lẩm bẩm.
 
-"Đừng có gọi tôi như thế nữa," tôi cự lại. "Cơ mà nhìn kết quả này thì tôi cũng đành chịu, cô nói chẳng sai vào đâu được," tôi đáp rồi cũng cúi xuống nhìn đống tro. Mấy mầm cây non đang đâm chồi nhú lên từ đó, và tôi biết tỏng chúng mọc được là nhờ Thần Lực của mình. Cây cối không tài nào mọc nổi trên vùng đất vấy bẩn uế khí, nên chuyện này chứng minh việc thanh tẩy đã thành công mỹ mãn. Có điều, danh sách lý do để người ta gọi tôi là cái bao phân bón biết đi lại dài thêm một dòng thế này quả thực khiến tôi cạn lời.
+"Đừng có gọi tôi như thế nữa," tôi cự lại. "Cơ mà nhìn kết quả này thì tôi cũng đành chịu, cô nói chẳng sai vào đâu được," tôi đáp rồi cũng cúi xuống nhìn đống tro. Mấy mầm cây non đang đâm chồi nhú lên từ đó, và tôi biết tỏng chúng mọc được là nhờ Thần Lực của mình. Cây cối không tài nào mọc nổi trên vùng đất vấy bẩn uế khí, nên chuyện này chứng minh đã thanh tẩy xong xuôi. Có điều, danh sách lý do để người ta gọi tôi là cái bao phân bón biết đi lại dài thêm một dòng thế này quả thực khiến tôi cạn lời.
 
 "Thôi kệ, đằng nào cũng chẳng hại gì," Lorraine chốt một câu. "Giờ nhặt Ma Tinh lên được rồi chứ hả?"
 
@@ -104,19 +104,19 @@ Tôi chẳng biết phải nói gì trước chuyện đó. Hóa ra trở thành
 
 "Chớ bận lòng, ta đã chôn cất tất cả bọn họ để họ không còn quay lại nữa. Cứ để họ vất vưởng như thế thì tội nghiệp lắm," đứa trẻ vừa nói vừa bước lại gần đống tro tàn. "Bản thân ta vốn là bậc thầy về thần thuật, thanh tẩy tà khí chính là sở trường của ta. Có cần ta thanh tẩy luôn đống tro này không? Khoan đã, hử?"
 
-Nghe những lời cô bé nói, tôi đã linh cảm chuyện này thể nào cũng dính rắc rối, nhưng giờ thì muộn mất rồi. Nếu cô bé thực sự dùng được Thần Lực thì chúng tôi có muốn giấu cũng chẳng giấu nổi. Vả lại tôi biết đứa trẻ này không nói ngoa, bởi tôi có thể thấy rõ hai bàn tay cô bé đang tràn trề Thần Lực. Thảo nào cô bé săn lùng lũ Zombie nhẹ tựa lông hồng như thế.
+Nghe những lời cô bé nói, tôi đã linh cảm chuyện này thể nào cũng dính rắc rối, nhưng giờ thì muộn mất rồi. Nếu cô bé thực sự dùng được Thần Lực thì chúng tôi có muốn giấu cũng chẳng giấu nổi. Vả lại tôi biết đứa trẻ này không nói ngoa, bởi tôi có thể thấy rõ hai bàn tay cô bé đang tràn trề Thần Lực. Thảo nào cô bé săn lùng lũ Zombie dễ dàng như thế.
 
 "Tà khí đã được thanh tẩy sạch rồi sao? Đốt chúng thành tro đâu thể mang lại hiệu quả đến mức này. Phải chăng các ngươi đã dùng tới Nước Thánh?" đứa trẻ gặng hỏi.
 
 Lorraine rút ra một lọ Nước Thánh. "Đúng thế, tôi luôn mang theo phòng hờ những lúc thế này."
 
-Đứa trẻ gật gù tin phục. "Hô hô, ngươi quả là hiểu biết hơn hẳn đám mạo hiểm giả tầm thường ngày nay. Lũ Undead lẩn khuất khắp chốn, sau khi tiêu diệt bắt buộc phải dọn dẹp sạch sẽ để tránh gieo rắc tai họa. Ngày trước ai nấy trong chúng ta cũng đều thủ sẵn Nước Thánh bên mình, thế mà giờ đây... Ái chà, thứ lỗi cho tật cằn nhằn của ta."
+Đứa trẻ gật gù tin phục. "Hô hô, ngươi quả là khôn ngoan hơn hẳn đám mạo hiểm giả tầm thường ngày nay. Lũ Undead lẩn khuất khắp chốn, sau khi tiêu diệt bắt buộc phải dọn dẹp sạch sẽ để tránh gieo rắc tai họa. Ngày trước ai nấy trong chúng ta cũng đều thủ sẵn Nước Thánh bên mình, thế mà giờ đây... Ái chà, thứ lỗi cho tật cằn nhằn của ta."
 
-"À, thì cũng đành chịu thôi," tôi ậm ừ đáp cho qua chuyện, trong bụng thầm nghĩ ngay lúc này đây đứa trẻ đang trò chuyện với một Undead đấy thôi. Tôi chẳng chủ tâm che giấu, nhưng cũng đâu dại gì thổ lộ thân phận trước mặt một người dùng Thần Lực, thành thử chỉ đành im lặng chờ xem chuyện gì sẽ xảy ra tiếp theo.
+"À, thì cũng đành chịu thôi," tôi ậm ừ đáp cho qua chuyện, trong bụng thầm nghĩ ngay lúc này đây đứa trẻ đang trò chuyện với một Undead đấy thôi. Tôi chẳng chủ tâm che giấu, nhưng cũng đâu muốn thổ lộ thân phận trước mặt một người dùng Thần Lực, thành thử chỉ đành im lặng chờ xem chuyện gì sẽ xảy ra tiếp theo.
 
 "Nhưng đống tro đã được thanh tẩy sạch không còn một vết tích. Nước Thánh làm sao triệt để được đến mức này. Khoan đã! Cỏ non ư? Trong đống tro sao? Lại còn tỏa ra Thần Lực nữa chứ! Các ngươi đang giấu giếm ta điều gì đúng không?!" đứa trẻ cuống quýt gặng hỏi.
 
-Chúng tôi vốn đứng cách một quãng để đề phòng, thế mà cô bé đã lướt tới áp sát ngay bên cạnh chỉ trong chớp mắt. Chuyện này đùa sao nổi, tôi chẳng cần tới Thần Lực cũng nhận ra đứa trẻ này sở hữu thân thủ cao cường đến chừng nào. Dù vậy, nếu đối phương có ý định tấn công thì chúng tôi vẫn đủ khoảng trống để phản đòn, nên tình hình vẫn trong tầm kiểm soát. Huống hồ tôi chẳng thấy chút ác ý hay sát khí nào, cũng chưa có lý do gì để phải rút vũ khí.
+Chúng tôi vốn đứng cách một quãng để đề phòng, thế mà cô bé đã lướt tới áp sát ngay bên cạnh chỉ trong chớp mắt. Chuyện này đùa sao nổi, tôi chẳng cần tới Thần Lực cũng nhận ra đứa trẻ này có bản lĩnh cao cường đến chừng nào. Dù vậy, nếu đối phương có ý định tấn công thì chúng tôi vẫn đủ khoảng trống để phản đòn, nên tình hình vẫn trong tầm kiểm soát. Huống hồ tôi chẳng thấy chút ác ý hay sát khí nào, cũng chưa có lý do gì để phải rút vũ khí.
 
 Dù vậy, Lorraine vẫn lên tiếng đáp lại đứa trẻ. "Chúng tôi đâu có ý đó, nhưng hai bên đã kịp trò chuyện câu nào đâu. Thậm chí chúng ta còn chưa biết tên nhau nữa kìa," cô nói bằng vẻ mặt hết sức chân thành.
 
@@ -126,11 +126,11 @@ Xét cho cùng, đúng là chúng tôi đang giấu chuyện tôi dùng Thần L
 
 Đứa trẻ ra vẻ ngây thơ vô tội, nhưng nhìn bước di chuyển điêu luyện khi cô bé tiếp cận chúng tôi ban nãy thì rõ ràng tất cả chỉ là diễn. Chưa kể cô bé này ứng biến cũng rất nhanh nhạy.
 
-"Hừm, đã lâu lắm rồi ta mới thấy những mạo hiểm giả có khí phách cứng cỏi nhường này. Hãy cho ta biết tên tuổi của các ngươi đi. Lẽ dĩ nhiên, ta sẽ bắt đầu trước. Ta là Alhildis, một mạo hiểm giả mọn. Ta thuộc Kim Cấp đấy nhé! Hãy nhìn xem," đứa trẻ cất lời rồi chìa ra tấm thẻ mạo hiểm giả của mình.
+"Hừm, đã lâu lắm rồi ta mới thấy những mạo hiểm giả có khí phách cứng cỏi như thế này. Hãy cho ta biết tên tuổi của các ngươi đi. Lẽ dĩ nhiên, ta sẽ bắt đầu trước. Ta là Alhildis, một mạo hiểm giả mọn. Ta thuộc Kim Cấp đấy! Hãy nhìn xem," đứa trẻ cất lời rồi chìa ra tấm thẻ mạo hiểm giả của mình.
 
 ![](images/ch131-02.webp)
 
-Khi mạo hiểm giả chạm mặt nhau, đây là cách đơn giản nhất để gây dựng lòng tin. Tấm thẻ vàng kim sáng loáng của cô bé trông đúng là hàng thật giá thật.
+Khi mạo hiểm giả chạm mặt nhau, đây là cách đơn giản nhất để gây dựng lòng tin. Tấm thẻ vàng kim sáng loáng của cô bé trông đúng là hàng thật.
 
 Chúng tôi vẫn còn dè chừng, nhưng Alhildis đã hào sảng ném tấm thẻ sang cho chúng tôi. "Cứ kiểm tra cho đến khi các ngươi vừa lòng thì thôi," đứa trẻ nói.
 

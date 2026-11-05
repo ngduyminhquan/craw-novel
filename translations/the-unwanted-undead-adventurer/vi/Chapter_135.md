@@ -42,7 +42,7 @@ Là người lớn trong tình huống này, Lorraine lấy lại bình tĩnh nh
 
 "Thấy cũng khó cưỡng lại thật. Chính tớ cũng muốn chạm thử vài chỗ trên người chị ấy xem sao. Không biết chị ấy có chịu không nhỉ," Fahri nói. Cô bé đưa một tay về phía Lorraine, trông như nhắm vào ngực cô.
 
-Lorraine chẳng biết phải nghĩ sao về hai đứa này. "Chị cứ coi hai em là bạn của Rentt nhé?"
+Lorraine chẳng biết phải nghĩ sao về hai đứa này. "Tôi cứ coi hai em là bạn của Rentt nhé?"
 
 "Vâng, đúng rồi đấy ạ," một đứa đáp, ánh mắt sắc sảo. "Em là Riri. Còn con bé trông ngái ngủ này là—"
 

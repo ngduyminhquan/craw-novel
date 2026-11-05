@@ -1,6 +1,6 @@
 # Chương 133: Tập 5 Chương 4 - Chuyến Hành Trình (4)
 
-Mấy hành khách cùng chuyến dường như chẳng hay biết chuyện gì đã xảy ra. Từ vụ bầy Zombie, chuyện chúng tôi (à thì, thực ra chỉ có Lorraine) dọn sạch chúng, cho tới việc Hilde ghé lại khu trại suốt đêm, họ đều mù tịt. Lũ Zombie vốn chết rồi nên chẳng có chút hơi thở sự sống nào, còn Hilde là mạo hiểm giả lão luyện, thừa biết cách ẩn mình trước người bình thường. Thành ra trong mắt mọi người, cả đoàn vừa trải qua một đêm cắm trại êm đềm. À thì, hình như bác tài có nhận ra điều gì đó, nhưng người dám đánh xe qua những cung đường đất mấp mô này ắt hẳn cũng có chút bản lĩnh. Bác ấy mà nhận ra thì cũng là lẽ thường.
+Mấy hành khách cùng chuyến dường như chẳng hay biết chuyện gì đã xảy ra. Từ vụ bầy Zombie, chuyện chúng tôi (à thì, thực ra chỉ có Lorraine) dọn sạch chúng, cho tới việc Hilde ghé lại khu trại suốt đêm, họ đều mù tịt. Lũ Zombie vốn chết rồi nên chẳng có chút hơi thở sự sống nào, còn Hilde là mạo hiểm giả lão luyện, thừa biết cách ẩn mình trước người bình thường. Thành ra trong mắt mọi người, cả đoàn vừa trải qua một đêm cắm trại êm đềm. À thì, hình như bác đánh xe có nhận ra điều gì đó, nhưng người dám đánh xe qua những cung đường đất mấp mô này ắt hẳn cũng có chút bản lĩnh. Bác ấy mà nhận ra thì cũng là lẽ thường.
 
 Cỗ xe bon bon dưới nắng sớm rồi tới một thị trấn ngay trước khi mặt trời lặn. Lần này chẳng có chuyện gì bất trắc xảy ra, làm cả tôi lẫn Lorraine thở phào nhẹ nhõm. Tôi đâu có đi làm hộ vệ, nên tránh được nỗi phập phồng của cái nghề đó chừng nào thì hay chừng nấy. Không phải đám cướp đường trên mấy lối đi thôn quê này khó xơi gì cho cam. Quái vật lởn vởn dọc đường cũng chẳng phải mối đe dọa gì lớn, chỉ là đụng độ chúng thì thêm việc nhọc thân.
 
@@ -26,7 +26,7 @@ Lorraine đoán được ý tôi. "Anh thấy kỳ quặc lắm hả? Ừ thì a
 
 Tôi cứ ngỡ Lorraine mua mọi cuốn sách bất kể thể loại chỉ để thỏa mãn cơn khát tri thức, chứ không ngờ cô lại thực sự hứng thú với nội dung trong đó. Cơ mà hiểu tính Lorraine thì có khi chính khát khao tri thức ấy lại khiến cô cởi mở đón nhận gần như mọi thứ. Dù tốt hay xấu, cô hiếm khi để định kiến xen vào bất cứ chuyện gì. Đó cũng là lý do cô vẫn chấp nhận tôi khi tôi biến thành Undead. Có điều, cô đâu nhất thiết phải rộng lượng đến thế với cả đồ ăn thức uống. Bản thân tôi còn chẳng rõ mình có ăn nổi không, bởi đã lâu lắm rồi tôi chưa đụng tới mấy món này. Ít nhất thì vị của chúng cũng ổn. Thôi thì, cứ chờ tới bữa tối rồi tính.
 
-Thế là chúng tôi đi về phía quán trọ. Bác tài đã đặt trước chỗ nghỉ cho cả đoàn, nên chúng tôi có đến muộn cũng chẳng sao. Mà thật ra đến vào lúc nào cũng được, bởi thị trấn này vốn nằm cách xa chốn văn minh quá đỗi.
+Thế là chúng tôi đi về phía quán trọ. Bác đánh xe đã đặt trước chỗ nghỉ cho cả đoàn, nên chúng tôi có đến muộn cũng chẳng sao. Mà thật ra đến vào lúc nào cũng được, bởi thị trấn này vốn nằm cách xa chốn văn minh quá đỗi.
 
 ◆◇◆◇◆
 
@@ -38,7 +38,7 @@ Vấn đề không phải ở chỗ đó. Đơn giản là tôi không ưa nổi
 
 "Không, không phải chuyện đó đâu. Tôi ăn mà, thề đấy," tôi quả quyết, trong lòng khóc thầm khi gắp một nhúm trứng ếch ít ỏi bỏ vào đĩa mình. Đám trứng săn chắc, và tôi có thể thấy những con nòng nọc khổng lồ bên trong vẫn đang ngọ nguậy. Hơi cắn rứt vì lấy đi mạng sống của chúng, tôi đưa vào miệng rồi chạm đầu lưỡi vào lớp màng nhầy như thạch. Cảm giác trong miệng khá lạ, mềm mại mà thấm đẫm nước hầm nên vị rất ngon. Tôi lấy hết can đảm ăn tiếp, cắn vào một con nòng nọc. Trái ngược hẳn với vẻ ngoài phát ớn, một hương vị thanh dịu lan tỏa khắp khoang miệng. Vị ngọt nhẹ hòa cùng phần nước dùng đậm đà. Giá mà trông chúng bình thường như mấy món khác thì tôi ăn bao nhiêu cũng không chán.
 
-Tiếp theo là món Curtis Mant chiên giòn. Đáng ngạc nhiên là món đó cũng chẳng còn lại bao nhiêu. Tôi ngồi chung bàn với Lorraine và các hành khách khác, ai nấy đều ăn ngon lành chẳng chút e dè. Nãy giờ nghe tiếng nhai giòn rụm rôm rốp và biết thừa là tiếng nhai bọ ngựa, nên đĩa vơi đi cũng là lẽ đương nhiên. Tôi vươn tay nhặt một con Curtis Mant lên, vô tình chạm mắt với nó. Thấy rờn rợn và không tài nào chịu nổi cảnh ngồi nhìn chằm chằm con bọ trong im lặng thêm nữa, tôi đút thẳng đầu nó vào miệng rồi nhai đứt làm đôi. Cảm giác giòn tan lập tức lan tỏa, kèm theo vị thanh mát khác hẳn đồ chiên thông thường. Tôi thấy món này rất ngon, nhắm với bia thì hợp phải biết, mà đúng là bác tài với người đàn ông trung niên cũng đang uống bia mạch nha kèm món này thật. Tôi hơi lo cho chuyến xe ngày mai, nhưng loài rùa khổng lồ vốn đủ khôn để kéo xe chở chúng tôi đi êm xuôi, dù bác tài có quất roi bừa bãi đi nữa.
+Tiếp theo là món Curtis Mant chiên giòn. Đáng ngạc nhiên là món đó cũng chẳng còn lại bao nhiêu. Tôi ngồi chung bàn với Lorraine và các hành khách khác, ai nấy đều ăn ngon lành chẳng chút e dè. Nãy giờ nghe tiếng nhai giòn rụm rôm rốp và biết thừa là tiếng nhai bọ ngựa, nên đĩa vơi đi cũng là lẽ đương nhiên. Tôi vươn tay nhặt một con Curtis Mant lên, vô tình chạm mắt với nó. Thấy rờn rợn và không tài nào chịu nổi cảnh ngồi nhìn chằm chằm con bọ trong im lặng thêm nữa, tôi đút thẳng đầu nó vào miệng rồi nhai đứt làm đôi. Cảm giác giòn tan lập tức lan tỏa, kèm theo vị thanh mát khác hẳn đồ chiên thông thường. Tôi thấy món này rất ngon, nhắm với bia thì hợp phải biết, mà đúng là bác đánh xe với người đàn ông trung niên cũng đang uống bia mạch nha kèm món này thật. Tôi hơi lo cho chuyến xe ngày mai, nhưng loài rùa khổng lồ vốn đủ khôn để kéo xe chở chúng tôi đi êm xuôi, dù bác đánh xe có quất roi bừa bãi đi nữa.
 
 Rốt cuộc tôi cũng vượt qua được cảm giác ghê sợ và ăn uống bình thường như bao món khác. Có điều lần sau ghé lại thị trấn này, chắc tôi sẽ lại phải trải qua cảm giác đó từ đầu. Lorraine bảo muốn có dịp quay lại đây ăn tiếp, nên rất có thể chúng tôi sẽ ghé vào lúc về. Từ giờ đến lúc đó tôi phải chuẩn bị sẵn tinh thần mới được.
 
@@ -60,15 +60,15 @@ Ngân Cấp và Đồng Cấp là những danh hiệu tiện lợi ở chỗ gi�
 
 "Chà, thời buổi này hiếm thấy mạo hiểm giả nào hào phóng vậy đấy. Thôi được, vậy hẹn lần sau nhé," người đàn ông trung niên nói. Ông vẫy tay chào tạm biệt rồi cùng con gái đi vào làng.
 
-"Đến giờ đi rồi," bác tài lên tiếng rồi cho xe lăn bánh. Đây mới là ngày thứ ba của cuộc hành trình, vẫn còn ba bốn ngày đường nữa. Hành khách còn lại trên xe giờ chỉ có chúng tôi, bác tài và đôi vợ chồng già.
+"Đến giờ đi rồi," bác đánh xe lên tiếng rồi cho xe lăn bánh. Đây mới là ngày thứ ba của cuộc hành trình, vẫn còn ba bốn ngày đường nữa. Hành khách còn lại trên xe giờ chỉ có chúng tôi, bác đánh xe và đôi vợ chồng già.
 
 ◆◇◆◇◆
 
 "Tôi biết là mình cứ trêu quê nhà anh hẻo lánh thế nào, nhưng có khi tôi nói vậy vẫn còn nhẹ đấy," Lorraine nói khi thò đầu ra ngoài xe.
 
-Cô nói chẳng sai chút nào. Bốn bề quanh chúng tôi chẳng có gì ngoài núi non và rừng rậm. Cho tới chỗ hai cha con kia xuống xe, đường sá vẫn còn giống đường đi quanh các làng mạc. Nhưng giờ đây chỉ toàn là núi, núi, núi, rừng cây, rồi lại thêm bao nhiêu là núi. Mặt đường được san phẳng vừa đủ cho một cỗ xe đi lọt, nhưng cũng chỉ vừa khít. Bác tài vững tay lái, cỗ xe cũng đủ chắc chắn để chịu được, nhưng đoạn đường này lúc nào cũng đáng sợ. Xe mà hỏng giữa chừng thì chúng tôi chỉ còn nước cuốc bộ.
+Cô nói chẳng sai chút nào. Bốn bề quanh chúng tôi chẳng có gì ngoài núi non và rừng rậm. Cho tới chỗ hai cha con kia xuống xe, đường sá vẫn còn giống đường đi quanh các làng mạc. Nhưng giờ đây chỉ toàn là núi, núi, núi, rừng cây, rồi lại thêm bao nhiêu là núi. Mặt đường được san phẳng vừa đủ cho một cỗ xe đi lọt, nhưng cũng chỉ vừa khít. Bác đánh xe vững tay lái, cỗ xe cũng đủ chắc chắn để chịu được, nhưng đoạn đường này lúc nào cũng đáng sợ. Xe mà hỏng giữa chừng thì chúng tôi chỉ còn nước cuốc bộ.
 
-Nhắc mới nhớ, đôi vợ chồng già đã xuống xe hôm qua rồi. Từ đường cái vào tới chỗ của hai cụ phải đi bộ một quãng khá xa, nên tôi và Lorraine đã cõng hai cụ đi nốt chặng đường còn lại. May sao bác tài bảo sẽ đợi chúng tôi quay lại. Bác ấy còn bảo nếu hôm đó chúng tôi không về kịp thì sẽ hạ trại ngay tại chỗ để chờ. Đó là một điểm cộng dễ chịu của những cung đường thôn quê; xe đi về hướng tây chẳng bao giờ linh hoạt được như thế. Xe bên đó thường chở kín chỗ, mà dân thành thị lúc nào cũng canh cánh chuyện phải đến nơi đúng giờ. Tới trễ một chút là hứng cả đống lời phàn nàn, khách còn đòi trả lại tiền vé. Trên tuyến đường này thì chẳng bao giờ có chuyện đó. Một phần có lẽ vì người nhà quê vốn đủng đỉnh hơn, nhưng phần nữa là có chuyện gì bác tài cũng chẳng màng kiếm nhiều tiền, còn hành khách thì cứ tùy cơ ứng biến.
+Nhắc mới nhớ, đôi vợ chồng già đã xuống xe hôm qua rồi. Từ đường cái vào tới chỗ của hai cụ phải đi bộ một quãng khá xa, nên tôi và Lorraine đã cõng hai cụ đi nốt chặng đường còn lại. May sao bác đánh xe bảo sẽ đợi chúng tôi quay lại. Bác ấy còn bảo nếu hôm đó chúng tôi không về kịp thì sẽ hạ trại ngay tại chỗ để chờ. Đó là một điểm cộng dễ chịu của những cung đường thôn quê; xe đi về hướng tây chẳng bao giờ linh hoạt được như thế. Xe bên đó thường chở kín chỗ, mà dân thành thị lúc nào cũng canh cánh chuyện phải đến nơi đúng giờ. Tới trễ một chút là hứng cả đống lời phàn nàn, khách còn đòi trả lại tiền vé. Trên tuyến đường này thì chẳng bao giờ có chuyện đó. Một phần có lẽ vì người nhà quê vốn đủng đỉnh hơn, nhưng phần nữa là có chuyện gì bác đánh xe cũng chẳng màng kiếm nhiều tiền, còn hành khách thì cứ tùy cơ ứng biến.
 
 "Thì đấy, nếu không phải vì đường sá xa xôi cách trở quá thì tôi đã về thăm nhà thường xuyên hơn rồi. Đi đến đây tốn biết bao thời gian, mà trước giờ tôi làm gì có thời gian. May mà giờ không phải làm việc liên miên cũng sống được, chứ cho tới gần đây tôi vẫn phải cật lực làm lụng mỗi ngày chỉ để kiếm đủ ăn," tôi nói.
 
@@ -86,7 +86,7 @@ Tôi cũng sợ cảnh túng quẫn sẽ đẩy mình vào chỗ bị cô lập 
 
 ◆◇◆◇◆
 
-Cỗ xe đi tiếp chừng nửa ngày nữa. "Sắp tới nơi rồi," bác tài lẩm bẩm.
+Cỗ xe đi tiếp chừng nửa ngày nữa. "Sắp tới nơi rồi," bác đánh xe lẩm bẩm.
 
 Lorraine và tôi nhìn ra ngoài, thấy con đường dần mở rộng và thoáng đãng hơn. Chúng tôi đã tới đoạn đường mà dân làng Hathara thường qua lại, nên cũng được tu sửa đôi chút. Có một con sông chảy dọc theo đường đi, chắc đó cũng là nguyên nhân. Tôi nhận ra khung cảnh quen thuộc quanh vùng này.
 

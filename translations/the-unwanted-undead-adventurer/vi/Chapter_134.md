@@ -34,7 +34,7 @@ Hai cậu thanh niên, người gầy gò tên Jal còn người thấp bé tên
 
 "Thôi được rồi, thế cũng được. Ơ khoan, ai kia?" Dol hỏi khi để ý thấy Lorraine.
 
-"Tôi là mạo hiểm giả đồng hành," Lorraine dõng dạc nói. "Tên tôi là Lorraine Vivie, đồng thời cũng làm học giả ở Maalt. Rất vui được gặp hai cậu." Cô bắt tay hai người họ.
+"Tôi là mạo hiểm giả đồng hành," Lorraine lên tiếng. "Tên tôi là Lorraine Vivie, đồng thời cũng làm học giả ở Maalt. Rất vui được gặp hai cậu." Cô bắt tay hai người họ.
 
 Cả hai trông ngơ ngác khi bắt tay đáp lại, nhưng chỉ một giây sau đã kéo tôi sang một bên rồi ghé sát tai tôi nói bằng giọng vừa thì thào vừa như hét lên.
 
@@ -86,7 +86,7 @@ Cô thình lình xuất hiện từ phía sau làm Jal giật mình. Nhưng tôi
 
 "Được rồi Jal, bọn tôi đi đây. Gặp lại cậu sau nhé," tôi nói với cậu ta rồi vẫy tay đi theo Lorraine. Hai chúng tôi cùng bước vào làng.
 
-"Mới về mà đã bị vợ dắt mũi rồi cơ à? Gái thành phố ghê gớm thật," tôi nghe tiếng Jal thì thầm sau lưng. Có khi là do tôi tưởng tượng ra thôi.
+"Mới về mà đã bị vợ sai bảo rồi cơ à? Gái thành phố ghê gớm thật," tôi nghe tiếng Jal thì thầm sau lưng. Có khi là do tôi tưởng tượng ra thôi.
 
 ![](images/ch134-09.webp)
 
@@ -154,11 +154,11 @@ Còn về phần Lorraine, việc tôi sống chung với cô làm tôi khó mà
 
 "Ôi chà, nó quen biết từng ấy phụ nữ cơ à? Thế thì xem ra bác lo không đâu rồi. Lúc nãy bác nói thật chứ không đùa đâu, bác từng nghĩ thằng bé sẽ chẳng bao giờ lấy vợ được."
 
-"Thật thế sao ạ? Cháu biết anh ấy giao tiếp hơi vụng về, nhưng chắc chắn vẫn có kha khá phụ nữ chủ động tiếp cận anh ấy. Mà cháu cũng không thấy anh ấy thuộc kiểu người khăng khăng từ chối tất cả đâu."
+"Thật thế sao? Cháu biết anh ấy giao tiếp hơi vụng về, nhưng chắc chắn vẫn có kha khá phụ nữ chủ động tiếp cận anh ấy. Mà cháu cũng không thấy anh ấy thuộc kiểu người khăng khăng từ chối tất cả đâu."
 
 "Nghe như cháu hiểu rõ Rentt lắm nhỉ. Đúng là thế thật, nhưng trước giờ trong làng này chưa có ai tiến xa được đến mức này với nó cả."
 
-"Dạ sao cơ?" Lorraine nghiêng đầu hỏi, nhưng thắc mắc của cô đã bị lờ đi.
+"Sao cơ?" Lorraine nghiêng đầu hỏi, nhưng thắc mắc của cô đã bị lờ đi.
 
 "À phải rồi, giờ Rentt đã về, tôi nghĩ làng mình nên tổ chức tiệc chào mừng. Bà chuẩn bị giúp tôi được không, Gilda?"
 
@@ -172,7 +172,7 @@ Lorraine nhìn theo hai người. "Này, Rentt," cô thì thầm.
 
 "Tôi có lỡ lời nói gì không nên nói không?"
 
-"Không, hoàn toàn không phải đâu. Vấn đề là ở tôi thôi. Hai người họ lo cho tôi nhiều quá làm tôi thấy hơi khó chịu đựng nổi."
+"Không, hoàn toàn không phải đâu. Vấn đề là ở tôi thôi. Hai người họ lo cho tôi nhiều quá làm tôi thấy hơi ngột ngạt."
 
 "Sao anh lại thấy thế?"
 

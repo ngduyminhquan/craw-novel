@@ -170,7 +170,7 @@ Ingo chỉ tay về phía đầu kia của làng. Tầm này đêm hôm khuya kh
 
 "Vậy để cháu qua đó xem sao. Cảm ơn bác đã chỉ đường nhé," Lorraine nói rồi rảo bước về hướng ông chỉ.
 
-Một lát sau, cô dừng chân trước một tòa nhà lớn. Đây có lẽ là công trình đồ sộ nhất làng, dù hiển nhiên chẳng thấm vào đâu so với những kiến trúc ở Maalt hay các đại đô thị. Nhìn qua cách bài trí thì trông nó giống một giáo đường.
+Một lát sau, cô dừng chân trước một tòa nhà lớn. Đây có lẽ là công trình đồ sộ nhất làng, dù hiển nhiên chẳng thấm vào đâu so với những kiến trúc ở Maalt hay các đại đô thị. Nhìn qua cách bài trí thì trông nó giống một nhà thờ.
 
 "Chẳng biết nơi này theo tôn giáo nào, nhưng có lẽ ngay cả những ngôi làng trên núi cũng cần một nơi thờ phụng," Lorraine lẩm bẩm. Ngôi nhà thờ này không thuộc về Giáo Hội Đông Thiên, Giáo Hội Lobelia, hay bất kỳ giáo phái lớn nào khác, nhưng ở các làng nhỏ thì chuyện đó cũng là bình thường. Hễ có thần linh hay tinh linh bản địa, người ta sẵn sàng biến bất kỳ tòa nhà nào thành nhà thờ, miễn là nó đủ rộng rãi.
 

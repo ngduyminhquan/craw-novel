@@ -78,7 +78,7 @@ Chí ít thì đã là con người, bất kể từ đâu tới, dính độc v
 
 Riri nhìn tôi rồi lại nhìn Lorraine. "Tại em mải hóng chuyện về anh Rentt với thành phố quá đấy mà. Giờ em phải đi chuẩn bị cho tối nay rồi. Chị Lorraine ơi, lát nữa chị em mình nói chuyện tiếp được không ạ?" Riri hỏi.
 
-Lorraine khẽ nghiêng đầu, nhưng cô thấy chẳng có lý do gì để từ chối. "Được chứ, thế cũng được. Nhưng tối nay là bữa tiệc mà vợ chồng bác Trưởng Làng nhắc tới đúng không?"
+Lorraine khẽ nghiêng đầu, nhưng cô thấy chẳng có lý do gì để từ chối. "Được chứ, thế cũng được. Nhưng tối nay là bữa tiệc mà vợ chồng bác trưởng làng nhắc tới đúng không?"
 
 "Vâng, đúng tiệc đó đấy chị. Em với Fahri phải đi phụ nấu nướng các thứ, nên tụi em cũng không còn nhiều thời gian."
 
