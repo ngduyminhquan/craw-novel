@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T13:19:13Z",
+  "generatedAt": "2026-11-05T13:28:17Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3184,19 +3184,19 @@
           "number": 172,
           "title": "Chương 172: Tập 7 Chương 6 - Puchi Suri (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_172.md",
-          "sha": "b615f2134d6c46be66ad0ff0a6016244940208b6"
+          "sha": "c70d83b5b372d2145957af4dce1958e0f7f64bf7"
         },
         {
           "number": 173,
           "title": "Chương 173: Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_173.md",
-          "sha": "fa5f4e8f13a02a1ef773bfeda25349189e7f5363"
+          "sha": "6e04d28ce6b52d452d755f1875031a59b0ef8fcb"
         },
         {
           "number": 174,
           "title": "Chương 174: Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_174.md",
-          "sha": "36b44dade32e62637dcc3b695dbc8fbbd6dedcf9"
+          "sha": "5a9b55cf7b80cb1e06c2012327617079edc77d01"
         },
         {
           "number": 175,

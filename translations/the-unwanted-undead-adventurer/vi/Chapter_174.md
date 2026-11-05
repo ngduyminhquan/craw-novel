@@ -2,130 +2,130 @@
 
 "Ồ, vậy là anh nhận việc từ một quý tộc vương đô đấy à? Cơ mà chắc hai bên vẫn chưa chính thức ký khế ước đâu nhỉ."
 
-Tôi kể lại đầu đuôi sự việc hôm nay cho Lorraine nghe. Thông thường, một ủy thác từ quý tộc đòi hỏi phải giữ bí mật ở mức độ nhất định, đem ra bàn tán trong bữa tối là điều không phải phép, nhưng đằng nào Lorraine cũng đi cùng nên tôi buộc phải nói cho cô biết.
+Tôi kể lại chi tiết những việc xảy ra hôm nay cho Lorraine nghe. Thông thường, một ủy thác từ quý tộc đòi hỏi phải giữ bí mật ở mức độ nhất định và đem ra bàn trong bữa tối là không thích hợp, nhưng vì Lorraine cũng sẽ đi cùng nên tôi phải nói cho cô biết.
 
 "Ừ. Ngày mai họ sẽ tới Hội để chỉ định tôi. Kế hoạch là bắt đầu dẫn họ đi khảo sát từ ngày kia. Thế nào, cô đi cùng được không?"
 
-Tôi đã lỡ miệng bảo sẽ rủ Lorraine đi cùng mà chưa hề hỏi trước ý kiến của cô, nên cũng hơi lo về lịch trình của cô. Nhìn chung, hai đứa tôi đều nắm sơ kế hoạch trong tuần tới của nhau, nhưng cả hai cũng hay nảy ra những dự định bất chợt vào phút chót. Chẳng hạn như hôm nay tôi vừa tạt qua quán rượu đã ôm về một công việc mới toanh, hay như việc Lorraine đùng đùng đi vùng khác thu thập nguyên liệu. Có điều, tôi cũng đã dặn trước Curt và Hayden rằng phải hỏi ý kiến của cô đã, nên lỡ cô không rảnh thì cũng chẳng sao. Cùng lắm họ chỉ đánh giá thấp tôi đi một chút, chứ cũng chẳng đến mức nào. Dù sao nghe qua thì một mình tôi cũng thừa sức giúp được họ rồi. Nhưng tôi vẫn muốn làm một chuyến thật chu toàn, nên tốt nhất là cứ chuẩn bị sẵn sàng cho mọi tình huống.
+Tôi đã nói với họ là sẽ đưa Lorraine theo mà chưa hỏi ý cô trước, nên cũng hơi lo về lịch trình của cô. Nhìn chung, hai đứa tôi đều nắm được kế hoạch trong khoảng một tuần tới của nhau, nhưng cả hai cũng đều hay nảy ra dự định mới vào phút chót. Chẳng hạn như việc tôi ra quán rượu rồi rời đi với một công việc mới như hôm nay, hay việc Lorraine lên đường sang vùng khác thu thập nguyên liệu. Có điều, tôi cũng đã bảo Curt và Hayden rằng sẽ hỏi ý cô trước, nên lỡ cô không rảnh thì cũng không thành vấn đề. Nếu chuyện đó xảy ra thì cùng lắm họ chỉ đánh giá thấp tôi đi một chút thôi. Dù sao nghe qua thì một mình tôi cũng đủ sức giúp họ ổn thỏa rồi. Nhưng tôi muốn làm công việc này cho thật trọn vẹn, nên hy vọng có thể chuẩn bị sẵn cho mọi tình huống.
 
-"Đi phụ một tay cũng được thôi," Lorraine nói. "Mấy ngày tới tôi cũng chẳng vướng bận gì đặc biệt."
+"Tôi không ngại phụ một tay đâu," Lorraine nói. "Mấy ngày đó tôi cũng không có kế hoạch gì đặc biệt."
 
-"Thế thì tốt quá. Cảm ơn cô nhé, Lorraine."
+"Ồ, tốt quá. Cảm ơn cô nhé, Lorraine."
 
-"Khỏi cần cảm ơn. Bạn bè với nhau cả, anh cũng sẽ làm thế cho tôi thôi mà. Nhưng vị thân chủ này nghe hơi kỳ quặc đấy, anh có thấy vậy không?" Lorraine ngẫm nghĩ một lát rồi hỏi.
+"Khỏi cần cảm ơn. Dù sao chúng ta cũng là bạn bè mà. Anh cũng sẽ làm thế cho tôi thôi. Nhưng vị thân chủ này hơi kỳ lạ đấy, anh có thấy vậy không?" Lorraine ngẫm nghĩ một lát rồi hỏi.
 
 "Ý cô là sao?"
 
-"Anh chắc chắn người tên Curt đó là quý tộc chứ?"
+"Anh đã xác định được người tên Curt đó là quý tộc rồi đúng không?"
 
-"Ừ. Tôi không dám chắc một trăm phần trăm, nhưng đồ Curt mặc thuộc hàng cao cấp lắm. Tôi không nhìn thấy Ma Lực trực tiếp như cô nên chịu không biết ma pháp nào được ếm lên bộ đồ đó, nhưng chắc chắn là thứ ma thuật rất ghê gớm chứ chẳng phải loại xoàng. Chưa kể trên áo còn đính một huy hiệu nhỏ, loại phù hiệu mà nếu không đạt tước vị tối thiểu từ Tử tước trở lên thì không được phép mang. Xét những thứ ông ta vận trên người, ắt hẳn phải là quý tộc."
+"Ừ. Tôi không dám nói chắc chắn, nhưng quần áo Curt mặc có chất lượng khá cao. Tôi không nhìn thấy Ma Lực trực tiếp được như cô nên không biết chính xác ma pháp nào được ếm lên bộ đồ đó, nhưng tôi biết đó là thứ ma thuật rất đáng nể. Tôi không nghĩ ma pháp ếm trên bộ quần áo ấy là loại tầm thường đâu. Hơn nữa, trên đồ còn có một phù hiệu nhỏ, loại phù hiệu mà nếu không có tước vị tối thiểu từ Tử tước trở lên thì không được phép mang. Xét những thứ ông ta mặc trên người, ắt hẳn ông ta phải là quý tộc."
 
-"Còn người đàn ông đi cùng tên Hayden kia, anh bảo anh ta cũng rất mạnh à?"
+"Còn người đàn ông kia, Hayden, anh nói anh ta cũng rất mạnh à?"
 
-"Đúng thế, bản thân anh ta cũng rất đáng gờm. Dù chưa đo đếm hết được thực lực của anh ta, nhưng tôi nghĩ anh ta phải vượt trên Ngân Cấp, khéo ít nhất cũng là Kim Cấp."
+"Đúng thế, bản thân anh ta trông cũng rất ấn tượng. Dù vậy, tôi không đo lường hết được thực lực của anh ta. Tôi nghĩ anh ta phải trên Ngân Cấp, có lẽ ít nhất cũng là Kim Cấp."
 
-"Mạnh đến thế cơ à? Được một người cỡ đó hộ vệ thì hẳn ông ta phải là quý tộc có địa vị rất cao rồi."
+"Mạnh đến thế sao? Được một người có thực lực cỡ đó bảo vệ thì hẳn ông ta phải là quý tộc có địa vị cao rồi."
 
-"Ừ, vậy thì có gì kỳ quặc đâu?"
+"Ừ, vậy thì có gì kỳ lạ đâu?"
 
-"Nói thẳng ra thì những nhân vật tầm cỡ đó chẳng mấy khi buồn ghé một thị trấn hẻo lánh vô danh như Maalt đâu. Rõ ràng là họ rất đáng ngờ."
+"Nói thẳng ra thì những người như thế thường chẳng buồn ghé thăm những thị trấn nhỏ bé chẳng mấy ai quan tâm như Maalt đâu. Rõ ràng là họ rất đáng ngờ."
 
-"Cô đâu cần phải hạ thấp Maalt đến thế, nhưng mà thôi, cô nói cũng có lý. Tôi thừa nhận họ có điểm đáng ngờ thật. Bình thường một quý tộc sẽ dẫn theo đoàn tùy tùng đông hơn nhiều. Đi lại kiểu đó chỉ tổ tự rước nguy hiểm vào thân, chưa kể còn làm mất hết thể diện."
+"Tôi không nghĩ cô cần phải chê bai Maalt đến mức đó đâu, nhưng cũng có lý. Tôi thừa nhận họ hơi đáng ngờ thật. Thông thường, một quý tộc sẽ đi cùng đoàn tùy tùng đông hơn nhiều. Đi lẻ như thế chẳng khác nào tự đẩy mình vào nguy hiểm, chưa kể còn làm xấu mặt họ nữa."
 
-Quý tộc luôn phải giữ thể diện bằng đủ mọi cách. Đi lại mà chỉ có độc một người tháp tùng dễ làm dấy lên tin đồn rằng gia cảnh đang túng thiếu, còn vi hành ẩn danh lại càng dễ biến mình thành mục tiêu cho kẻ xấu. Nếu bản thân không có mặt ở nơi mình cần ở thì khi có biến cố xảy ra sẽ rất khó xử lý. Đó là lý do giới quý tộc chẳng mấy ai thích đi lại theo kiểu này. Nhưng vị này lại làm vậy, ắt hẳn phải có lý do chính đáng.
+Quý tộc luôn phải giữ thể diện theo nhiều cách. Đi lại mà chỉ có độc một người đi cùng có thể làm dấy lên tin đồn rằng ông ta nghèo túng, còn vi hành ẩn danh lại làm tăng nguy cơ bị nhắm tới. Nếu ông ta không có mặt ở nơi mình cần ở, sẽ rất khó xử lý khi có vấn đề phát sinh. Đó là lý do giới quý tộc chẳng mấy ai thích đi lại kiểu này. Nhưng người này lại làm vậy, ắt hẳn phải có lý do chính đáng.
 
-"Tôi có gặng hỏi rồi nhưng họ chỉ trả lời qua loa thôi. Chắc chắn họ sẽ không hé răng đâu," tôi nói.
+"Tôi có hỏi họ về chuyện đó nhưng không nhận được câu trả lời thực sự nào. Họ sẽ không nói cho chúng ta biết đâu," tôi nói.
 
-"Thế mà anh vẫn nhận ủy thác à?"
+"Thế mà anh vẫn quyết định nhận ủy thác của họ à?"
 
-"Nhận chứ sao. Trông họ chẳng giống người xấu. Nói đúng hơn là trông họ có vẻ đang gặp cảnh ngặt nghèo, nên tôi muốn đỡ một tay."
+"Cứ nhận thôi. Trông họ không giống người xấu. Thực ra trông họ có vẻ đang gặp khó khăn, nên tôi muốn giúp một tay."
 
-Đó là cảm nhận thật lòng của tôi. Tôi hoàn toàn có thể từ chối, nhưng nghe qua nội dung công việc thì có vẻ ở đất Maalt này chỉ có tôi và Lorraine là đảm đương nổi. Thứ họ cần không phải sức mạnh cơ bắp, mà là một người am hiểu sâu rộng về các loại nguyên liệu và thảo dược, đồng thời phải thông thuộc địa bàn vùng này. Dĩ nhiên, một mạo hiểm giả cấp cao gắn bó với Maalt lâu năm có lẽ cũng làm được, nhưng đây lại chính là chỗ ngặt nghèo của một thị trấn nhỏ bé như nơi này. Đa phần mạo hiểm giả hễ có chút bản lĩnh là đều chuyển tới các thành phố lớn, thành thử quanh đây gần như chẳng có mạo hiểm giả cấp cao nào. Vì thế, rất khó tìm được ai khác đáp ứng trọn vẹn yêu cầu của họ. Hơn nữa, thứ họ muốn tìm cũng rất đặc thù. Nếu chỉ săn lùng vài nguyên liệu cụ thể thì đã đành, đằng này họ còn muốn tìm cả những loại dược liệu tiềm năng khác nữa. Hầu như chẳng mạo hiểm giả nào có vốn hiểu biết tường tận đến mức đáp ứng nổi đòi hỏi ấy.
+Đó là cảm nhận thật lòng của tôi. Tôi hoàn toàn có thể từ chối họ, nhưng sau khi nghe qua về công việc, nghe chừng ở Maalt chỉ có tôi và Lorraine là làm tốt việc này được. Thứ họ cần không phải sức mạnh, mà là một người có hiểu biết rộng về nguyên liệu và dược phẩm, đồng thời quen thuộc với vùng này. Dĩ nhiên, một mạo hiểm giả cấp cao sống ở Maalt nhiều năm có lẽ cũng làm được, nhưng đây lại chính là chỗ mà vị thế nhỏ bé của Maalt gây bất lợi. Hầu hết mạo hiểm giả một khi đã đủ giỏi đều chuyển tới thành phố lớn, nên quanh đây gần như chẳng có mạo hiểm giả cấp cao nào. Vì thế sẽ rất khó tìm được người khác đáp ứng được yêu cầu của họ. Hơn nữa, thứ họ yêu cầu cũng rất đặc thù. Nếu họ chỉ muốn tìm những nguyên liệu cụ thể thì đã đành, đằng này họ còn muốn tìm cả những nguyên liệu khác có tiềm năng. Hầu như chẳng có mạo hiểm giả nào có kiến thức đủ tường tận để đáp ứng đòi hỏi đó.
 
-Nhưng Lorraine vốn là một nhà giả kim kiêm y sĩ ma thuật hơn là một mạo hiểm giả thuần túy, nên cô nắm rất chắc kiến thức y dược. Nhờ mối quan hệ gắn bó lâu năm với cô, tôi cũng hiểu biết về nguyên liệu dùng trong thuật giả kim và thảo dược nhiều hơn hẳn một mạo hiểm giả bình thường. Tôi lại cắm rễ ở nhà Lorraine đủ lâu để cày nát vô số đầu sách của cô về chủ đề này, nhờ đó tích lũy được những kiến thức chuyên sâu mà ngay cả mạo hiểm giả cấp cao cũng chưa chắc đã có.
+Nhưng Lorraine vốn là một nhà giả kim kiêm y sĩ ma thuật hơn là một mạo hiểm giả, nên cô có kiến thức sâu sắc về y dược. Và nhờ mối quan hệ lâu năm với cô, tôi cũng biết nhiều về các nguyên liệu dùng trong thuật giả kim và y dược hơn một mạo hiểm giả bình thường. Tôi cũng ở nhà Lorraine đủ nhiều để đọc vô số sách của cô về chủ đề này. Nhờ đó tôi có được một số kiến thức vô cùng chuyên biệt mà ngay cả mạo hiểm giả cấp cao cũng chưa chắc đã có.
 
-Còn hai vị khách phương xa kia có thiếu kiến thức không thì tôi đoán là không. Dự tính của họ hẳn chỉ là thuê một mạo hiểm giả dẫn đường quanh vùng để tự tay kiểm tra các loại nguyên liệu. Dù chẳng có bằng chứng cụ thể, nhưng tôi cảm giác Curt có hiểu biết rất sâu về dược liệu, rõ ràng là vượt trội hơn tôi. Không biết ông ta có bì nổi với Lorraine ở mảng này không, nhưng chắc chắn ông ta biết nhiều hơn hẳn một quý tộc bình thường. Hoàn toàn có cơ sở để tin rằng ông ta có chuyên môn sâu về dược học. Nếu đúng thế, ông ta dư sức tự mình nhận biết những nguyên liệu hữu ích mà chẳng gặp chút khó khăn nào.
+Còn việc hai vị khách kia có thiếu những thông tin đó không thì tôi đoán là không. Kế hoạch của họ có lẽ là nhờ mạo hiểm giả được thuê dẫn vị quý tộc đi quanh vùng để tự họ kiểm tra các loại nguyên liệu. Dù không chứng minh được, nhưng tôi có cảm giác Curt nắm rất nhiều kiến thức về dược liệu, rõ ràng là hơn tôi. Tôi không biết ông ta có sánh được với Lorraine ở mảng đó không, nhưng chắc chắn ông ta biết nhiều hơn một quý tộc bình thường. Rất dễ hình dung rằng ông ta có chuyên môn về y dược. Nếu vậy thì có lẽ ông ta hoàn toàn tự nhận biết được những nguyên liệu hữu ích mà không gặp vấn đề gì.
 
-Nhưng nếu quả thật như vậy, cớ sao trông Curt lại có vẻ bồn chồn hoảng hốt? Tôi biết ông ta muốn tìm vài loại dược liệu hữu ích, nhưng chừng đó vẫn chưa giải thích được thỏa đáng. Cơ mà có vắt óc nghĩ ngợi cũng chẳng ích gì. Xía mũi vào chuyện riêng của thân chủ là điều bất nhã. Nếu nỗi bận tâm của ông ta thực sự ảnh hưởng đến công việc thì hẳn ông ta sẽ nói cho tôi biết, còn tôi chỉ việc làm tròn bổn phận theo đúng những gì được yêu cầu.
+Nhưng nếu đúng là vậy, tại sao trông Curt lại hơi hoảng hốt? Tôi biết ông ta muốn tìm một số nguyên liệu làm thuốc hữu ích, nhưng chừng đó vẫn chưa giải thích được nhiều. Dù sao thì cố nghĩ về chuyện đó cũng chẳng ích gì. Chõ mũi vào chuyện riêng của thân chủ là bất lịch sự. Nếu nỗi bận tâm của ông ta có liên quan quan trọng tới công việc thì hẳn ông ta sẽ nói cho tôi biết, và tôi chỉ việc làm đúng những gì ông ta yêu cầu.
 
-"Lúc nào anh cũng tốt bụng quá mức đấy, Rentt. Cái mặt nạ đó chẳng hợp với tính nết của anh chút nào cả," Lorraine khẽ mỉm cười nói. Có lẽ cô nói đúng; chẳng ai nhìn vào cái mặt nạ đầu lâu này mà nghĩ tôi là người tốt tính cả. Thế nhưng trong thâm tâm, tôi vẫn chẳng hề đổi khác so với thời còn là con người, mà hồi đó thì ai cũng bảo tôi tốt bụng.
+"Lúc nào anh cũng tốt bụng quá mức đấy, Rentt. Cái mặt nạ đó chẳng hợp với tính cách của anh chút nào," Lorraine mỉm cười dịu dàng nói. Có lẽ cô nói đúng; chẳng ai nhìn vào cái mặt nạ đầu lâu này mà nghĩ tôi tốt bụng cả. Nhưng bên trong tôi vẫn chẳng hề thay đổi so với hồi còn là con người, mà hồi đó mọi người suốt ngày bảo tôi tốt bụng.
 
-"Tôi cũng muốn đeo cái mặt nạ nào dễ nhìn hơn lắm chứ, ngặt nỗi cái của nợ này nhất quyết không chịu rời ra. Ít ra tôi vẫn còn nắn lại hình dạng của nó được đôi chút."
+"Nếu được thì tôi cũng muốn đeo cái mặt nạ nào dễ nhìn hơn chứ, nhưng tiếc là cái mặt nạ này không chịu rời ra. Ít nhất tôi vẫn đổi lại hình dạng của nó được đôi chút."
 
-"Cơ mà dáng cơ bản của nó vẫn cứ là cái đầu lâu. Anh có nắn cho nó thành cái đầu lâu trông thật ngầu hay cái đầu lâu hung tợn thì rút cục lựa chọn duy nhất vẫn chỉ quanh quẩn với đầu lâu thôi."
+"Nhưng hình dáng cơ bản vẫn giống một cái đầu lâu. Anh có thể làm thành cái đầu lâu trông ngầu hay cái đầu lâu đáng sợ, nhưng lựa chọn duy nhất của anh vẫn chỉ là đầu lâu thôi."
 
-"Cũng đúng, nhưng thôi kệ, thế lại hay. Nó xua bớt mấy kẻ phiền toái, thành ra cũng giúp tôi tránh được khối rắc rối."
+"Đúng thế, nhưng thôi kệ, thế cũng ổn. Nó làm một số người tránh xa, nên cũng coi như giúp tôi khỏi vướng vào rắc rối."
 
-Hồi còn là con người, ngoại hình của tôi có phần thư sinh so với chuẩn mạo hiểm giả, thành thử mấy tay khó ưa từ ngoài Maalt tới cứ hay lôi tôi vào ba cái trò phiền phức. Dĩ nhiên, một khi tôi chịu phô diễn chút bản lĩnh thì mọi chuyện cũng êm thấm cả thôi. Nhưng nghĩ lại vẫn thấy bực mình, chưa kể tôi cũng chẳng muốn phải đả thương hay để lại bóng ma tâm lý cho ai. Tôi từng trăn trở rất nhiều xem làm sao để ngăn chặn chuyện đó, nhưng từ lúc mang cái thân xác này, chẳng còn ai dám coi thường tôi nữa. Thậm chí người ta còn né tôi như né tà vì thấy rợn người. Khéo hồi còn làm người mà tôi ăn bận thế này thì cũng mang lại hiệu quả tương tự, có điều lúc đó đời nào tôi nghĩ đến chuyện đeo một cái mặt nạ đầu lâu.
+Hồi còn là con người, trông tôi tương đối mảnh khảnh so với một mạo hiểm giả, nên mấy tay mạo hiểm giả xấu tính từ ngoài Maalt tới cứ hay lôi tôi vào những chuyện phiền phức. Dĩ nhiên, sau khi tôi cho họ thấy thực lực của mình thì cũng chẳng còn vấn đề gì lớn. Nhưng dù sao vẫn rất bực mình, vả lại tôi cũng không muốn phải làm người khác bị thương hay sang chấn tâm lý. Tôi từng nghĩ rất nhiều xem làm thế nào để ngăn chuyện đó, nhưng sau khi mang cơ thể này, chẳng ai coi thường tôi nữa. Thậm chí họ còn tránh xa tôi vì thấy rợn người. Biết đâu hồi còn là con người mà tôi cứ ăn mặc thế này thì cũng có tác dụng tương tự, có điều lúc đó đời nào tôi nghĩ tới chuyện đeo mặt nạ đầu lâu.
 
-"Cơ mà tôi thấy nó lại đang kéo anh vào đủ thứ chuyện dở khóc dở cười mới thì có."
+"Dù vậy, tôi lại cảm giác nó đang đẩy anh vào đủ thứ tình cảnh tiến thoái lưỡng nan mới thì có."
 
-"Cái này thì tôi không cãi được. Chỉ mong công việc lần này không phải là một trong số đó thôi."
-
-◆◇◆◇◆
-
-Trong một căn phòng ngủ rộng rãi, một cô bé đang thở dốc vì đau đớn. Vị thầy thuốc ngồi bên cạnh, chăm chú theo dõi bệnh tình.
-
-Sau một hồi, ông thở dài, nét mặt trầm trọng: "Thật khó để mở lời, nhưng nếu tình hình không có gì biến chuyển thì sớm muộn tiểu thư cũng khó lòng qua khỏi vì căn bệnh này, thưa Bá tước Robista."
-
-"Chẳng lẽ không còn cách nào sao?!" Robista thảng thốt kêu lên. "Mới một tháng trước con bé vẫn còn hoàn toàn khỏe mạnh cơ mà! Cớ sao mọi chuyện lại chuyển biến nhanh đến nông nỗi này?"
-
-"Bệnh tật vốn dĩ là vậy. Bản thân ngài cũng am hiểu sâu về y dược, lẽ ra tôi không cần phải nói thêm điều này."
-
-"Nhưng ngay cả tên của chứng bệnh này là gì tôi còn chẳng rõ."
-
-"Đến cả tôi cũng đâu thể biết hết mọi chứng bệnh trên cõi đời này, song các triệu chứng của tiểu thư không hề trùng khớp với bất kỳ căn bệnh nào tôi từng chữa trị. Tôi chưa từng thấy ai lại mọc những đốm lạ lan khắp người như thế này cả."
-
-Con gái của Bá tước Robista, Elaine, có những đốm màu tím sẫm trông tựa như vết mực phủ khắp khuôn mặt. Cả vị thầy thuốc lẫn bá tước đều có thể nghĩ đến vài chứng bệnh có triệu chứng tương tự, song hình dạng và màu sắc của các vết đốm lại hoàn toàn khác biệt. Điều đó kết hợp với những triệu chứng khác khiến cho căn bệnh trở nên cực kỳ khó xác định. Đây vốn là vị danh y mà bá tước hết mực tin tưởng, nhưng ông cũng đã mời nhiều danh y đáng kính khác từ vương đô tới thăm khám và tất cả đều đưa ra kết luận tương tự. Ông gần như đã cạn kiệt mọi phương cách.
-
-"Xin lỗi, tôi không hề trách ông. Chỉ là... tôi chẳng biết phải làm sao bây giờ nữa."
-
-"Tôi vô cùng lấy làm tiếc, nhưng quả thực bản thân tôi cũng bó tay. Ít nhất tôi có thể nói với ngài rằng dẫu sức khỏe của Tiểu thư Elaine đang suy giảm, song chuyển biến diễn ra khá chậm rãi. Đã một tháng trôi qua kể từ khi những đốm lạ bắt đầu lan rộng, nhưng thỉnh thoảng tiểu thư vẫn còn đủ sức dạo bước quanh hoa viên. Tôi có bảo rằng sớm muộn ngày đó cũng sẽ tới, song thời khắc ấy có thể vẫn còn rất xa. Ngài vẫn còn thời gian để thử nghiệm nhiều phương pháp khác nhau. Xin ngài đừng vội từ bỏ hy vọng, thưa Bá tước."
-
-Lúc này trông Elaine có vẻ rất đớn đau, chừng như có thể trút hơi thở cuối cùng ngay ngày mai, nhưng chỉ cần nghỉ ngơi một chốc là cô bé lại đủ sức ra ngoài dùng bữa. Tuy nhiên, điều đó không có nghĩa là đã có thể an tâm, bởi những đốm lạ vẫn không ngừng lan rộng khắp cơ thể cô bé. Cảm tưởng như ngay khoảnh khắc các vết đốm ấy bao phủ kín từng tấc da thịt, chúng sẽ cướp đi sinh mạng của cô bé. Bá tước không đời nào chịu để chuyện đó xảy ra, ngặt nỗi ông lại chẳng biết làm cách nào ngăn lại. Nỗi giày vò trong lòng ông dường như dài đằng đẵng không hồi kết.
+"Chuyện đó thì tôi không phủ nhận được. Chỉ mong công việc lần này không phải là một trong số đó."
 
 ◆◇◆◇◆
 
-Bá tước giật mình choàng tỉnh, bật dậy trên giường trong nỗi khiếp hãi. Mồ hôi lạnh vã ra ướt đẫm khắp người ông.
+Trong một căn phòng ngủ rộng rãi, một cô bé đang thở dốc vì đau đớn. Vị thầy thuốc ngồi bên cạnh, xem xét tình hình.
 
-"Ngài tỉnh rồi đấy à, Bá tước?" một tiếng hỏi cất lên bên cạnh. Bá tước nhìn sang thì thấy Hayden đang lau chùi bảo dưỡng vũ khí.
+Cuối cùng, ông thở dài và nói với vẻ mặt nghiêm trọng: "Thật không dễ để nói ra điều này, nhưng nếu tình hình không có gì thay đổi thì sớm muộn con gái ngài cũng sẽ mất mạng vì căn bệnh này thôi, thưa Bá tước Robista."
+
+"Chẳng lẽ tôi không làm được gì sao?!" Robista thảng thốt kêu lên. "Mới một tháng trước con bé vẫn còn khỏe mạnh bình thường cơ mà! Sao chuyện này lại xảy ra nhanh đến thế được?"
+
+"Bệnh tật vốn là như vậy. Bản thân ngài cũng biết rất nhiều về y dược, lẽ ra tôi không cần phải nói với ngài điều này."
+
+"Nhưng ngay cả tên của căn bệnh này tôi còn không biết."
+
+"Ngay cả tôi cũng đâu biết hết mọi căn bệnh trên đời, nhưng các triệu chứng của con gái ngài không khớp với bất kỳ căn bệnh nào tôi từng biết. Tôi chưa từng thấy ai bị những chấm đốm phủ khắp người như thế này cả."
+
+Con gái của Bá tước Robista, Elaine, có những đốm màu tím sẫm trông như vết mực phủ khắp khuôn mặt. Cả vị thầy thuốc lẫn bá tước đều có thể nghĩ đến những căn bệnh có triệu chứng tương tự, nhưng hình dạng và màu sắc của các vết đốm lại khác. Điều đó kết hợp với những triệu chứng khác khiến căn bệnh này cực kỳ khó xác định. Đây vốn là vị thầy thuốc danh tiếng mà bá tước tin tưởng, nhưng ông cũng đã mời những thầy thuốc danh tiếng khác từ vương đô tới khám cho cô bé và đều nhận được kết quả tương tự. Ông gần như đã dùng hết mọi cách có thể.
+
+"Xin lỗi, tôi không trách ông đâu. Chỉ là tôi không biết phải làm sao nữa."
+
+"Tôi rất lấy làm tiếc, nhưng tôi cũng không làm được gì hơn. Ít nhất tôi có thể nói với ngài rằng tuy sức khỏe của Tiểu thư Elaine đang yếu đi, nhưng quá trình đó diễn ra khá chậm. Đã một tháng trôi qua kể từ khi những vết đốm này bắt đầu lan ra, nhưng thỉnh thoảng tiểu thư vẫn thấy đủ khỏe để đi dạo quanh vườn. Tôi có nói là sớm muộn ngày đó cũng tới, nhưng ngày đó có thể còn rất xa. Vẫn sẽ có thời gian để thử nghiệm nhiều cách khác nhau. Xin ngài đừng từ bỏ hy vọng, thưa Bá tước."
+
+Lúc này trông Elaine có vẻ đang đau đớn, như thể có thể qua đời ngay ngày mai, nhưng sau khi nghỉ ngơi một chút, cô bé lại khỏe lại đủ để ra ngoài ăn uống. Tuy nhiên, điều đó không có nghĩa là chẳng có gì phải lo lắng, bởi những vết đốm vẫn đang tiếp tục lan ra khắp cơ thể cô bé. Cảm giác như ngay khoảnh khắc những vết đốm ấy phủ kín từng tấc da thịt, chúng sẽ cướp đi mạng sống của cô bé. Bá tước không thể để chuyện đó xảy ra, nhưng ông lại không biết làm sao để ngăn chặn. Nỗi đau đớn dằn vặt trong lòng ông tưởng chừng không bao giờ dứt.
+
+◆◇◆◇◆
+
+Bá tước giật mình bật dậy trên giường trong nỗi kinh hãi tột độ. Mồ hôi lạnh vã ra đầm đìa.
+
+"Ngài tỉnh rồi à, Bá tước?" ai đó hỏi từ bên cạnh. Bá tước nhìn sang thì thấy Hayden đang bảo dưỡng vũ khí.
 
 "Hayden, tôi..."
 
-"Hẳn là ác mộng rồi. Lại là chuyện tôi đang nghĩ phải không?"
+"Hẳn là một cơn ác mộng khủng khiếp rồi. Lại là chuyện tôi đang nghĩ phải không?"
 
-"Ừ, lại về con gái tôi. Ngày nào cũng vậy. Xin lỗi cậu nhé."
+"Là chuyện về con gái tôi, phải. Ngày nào cũng vậy. Xin lỗi cậu."
 
-"Có gì đâu, nhưng ngài đừng vội nản lòng. Tôi cũng muốn khuyên ngài nghỉ ngơi thả lỏng đôi chút, cơ mà chắc là khó lắm."
+"Không sao đâu, nhưng ngài đừng đánh mất hy vọng. Tôi cũng muốn bảo ngài thả lỏng đôi chút, nhưng chắc chắn chuyện đó chẳng dễ dàng gì."
 
-Bá tước Robista cau mày cay đắng: "Đó là con gái tôi cơ mà. Lúc này bảo tôi an lòng thả lỏng sao đặng. Nhưng ít ra lúc này tâm trạng tôi vẫn đỡ hơn hồi nghĩ rằng bản thân hoàn toàn bất lực."
+Bá tước Robista nhăn mặt: "Chúng ta đang nói về con gái tôi đấy. Lúc này tôi chưa thể mong thư giãn được. Nhưng ít ra bây giờ tôi cũng thấy đỡ hơn hồi nghĩ rằng mình chẳng làm được gì."
 
-"Và mọi chuyện chuyển biến là nhờ có lời sấm truyền, như ngài đã nói ấy hả? Tôi nhớ ngài có nhắc tới chuyện đó lúc tôi nhận việc này, cơ mà có thật vậy không đấy?"
+"Và chuyện đó thay đổi là nhờ một lời tiên tri, như ngài nói phải không? Tôi nhớ ngài có nhắc tới lúc tôi nhận việc này, nhưng chuyện đó có thật không đấy?"
 
-"Đúng là vậy. Mà dẫu nó có đáng tin hay không thì đây cũng là tất cả những gì tôi có thể làm lúc này rồi. Tôi buộc phải thử thôi."
+"Đúng là vậy. Chà, dù nó có đáng tin thật hay không thì đây cũng là tất cả những gì tôi có thể làm. Tôi buộc phải thử."
 
-"Lúc ngài đang cầu nguyện cho con gái bình phục thì có một vị thần cất tiếng nói với ngài, đúng chứ? Khi chuyện đó xảy ra thì ngài đang ở đâu?" Hayden hỏi.
+"Ngài đang cầu nguyện cho con gái bình phục thì có một vị thần nói chuyện với ngài, đúng chứ? Lúc chuyện đó xảy ra thì ngài đang ở đâu?" Hayden hỏi.
 
-"Tôi đang ở trong nhà nguyện tại dinh thự."
+"Tôi đang ở trong nhà nguyện tại dinh thự của mình."
 
-"Phải rồi, giới quý tộc các ngài hay có mấy nơi như thế. Ngài nhận được điềm báo ở đó à?"
+"Phải rồi, quý tộc thường có những nơi như thế. Và ngài nhận được điềm báo này ở đó à?"
 
-"Đúng thế."
+"Đúng vậy."
 
-"Vị thần đó trông thế nào?" Đúng tính cách điển hình của dân mạo hiểm giả, Hayden chẳng mấy sùng kính thần linh. Anh chỉ tin vào thực lực của chính mình.
+"Vị thần đó như thế nào?" Đúng kiểu điển hình của mạo hiểm giả, Hayden chẳng có lòng sùng kính đặc biệt nào với thần linh. Anh chỉ tin vào kỹ năng của chính mình.
 
-"Thú thật tôi cũng chẳng rõ đó có phải thần linh hay không. Khi đó tôi đặt mấy con búp bê của con gái lên bàn thờ, bỗng nhiên một con trong số đó cử động như thể sống dậy rồi cất tiếng nói với tôi: 'Nếu ngươi muốn chữa khỏi bệnh cho con gái mình, hãy đi tìm nguyên liệu làm thuốc ở Maalt. Rồi ngươi sẽ tìm ra phương thuốc cứu chữa. Liệu có kịp hay không hoàn toàn phụ thuộc vào bản thân ngươi.'"
+"Thú thật, tôi cũng không rõ đó có phải là thần linh hay không. Tôi đặt mấy con búp bê của con gái lên bàn thờ, rồi một con trong số đó bỗng nhiên cử động như có sự sống và cất tiếng nói với tôi. Nó bảo: 'Nếu ngươi muốn chữa khỏi bệnh cho con gái mình, hãy đi tìm nguyên liệu làm thuốc ở Maalt. Rồi cuối cùng ngươi sẽ tìm ra phương thuốc cứu chữa. Liệu có kịp lúc hay không là tùy thuộc vào ngươi.'"
 
-"Có khi lại là ác ma cũng nên," Hayden nhận xét.
+"Có khi đó là một ác ma cũng nên," Hayden gợi ý.
 
-"Có lẽ vậy. Cơ mà nếu quả thật như thế thì thần linh cũng chẳng giúp được gì cho tôi. Tôi đành phải đặt niềm tin vào ác ma vậy thôi."
+"Có lẽ vậy. Nhưng nếu thế thật thì thần linh cũng chẳng làm được gì cho tôi cả. Tôi sẽ chẳng còn lựa chọn nào khác ngoài việc tin vào ác ma thay thế."
 
-"Tôi biết ngài chỉ nói đùa thôi, cơ mà đường đường là thần linh mà lại đi giao cho người ta cái việc oái oăm như thế thì bực mình thật đấy. Sao không chỉ thẳng phương thuốc luôn đi mà lại bắt đi tìm nguyên liệu làm gì?"
+"Tôi chắc là ngài chỉ đang nói đùa thôi, nhưng với một vị thần thì giao cho người ta cái nhiệm vụ kiểu đó đúng là bực mình thật. Sao không bảo người ta đi tìm thẳng phương thuốc luôn mà lại bắt đi tìm nguyên liệu làm gì?"
 
-Bá tước Robista gật đầu: "Tôi cũng từng nghĩ hệt như vậy, nhưng ngộ nhỡ phương thuốc đó hiện thời chưa hề tồn tại thì có lẽ đó là tất cả những gì thần linh có thể mách bảo cho tôi rồi. Dù sao thì trước nay cũng chưa ai từng thấy căn bệnh nào như thế cả."
+Bá tước Robista gật đầu: "Tôi cũng nghĩ hệt như vậy, nhưng nếu phương thuốc đó hiện tại chưa tồn tại thì có lẽ đó là tất cả những gì họ có thể cho tôi biết. Dù sao trước nay cũng chưa từng có ai thấy căn bệnh nào như thế này cả."
 
-"Chà, cũng phải. Cơ mà thế thì ngài bị tròng vào đầu cả núi việc rồi còn gì. Chỉ riêng việc mày mò nghiên cứu xem thuốc có công hiệu hay không thôi cũng ngốn bộn thời gian rồi."
+"Chà, cũng đúng. Nhưng thế nghĩa là ngài bị đẩy cho cả một đống việc rồi. Chỉ riêng việc nghiên cứu xem nó có tác dụng hay không thôi cũng sẽ mất kha khá thời gian."
 
-"Có lẽ vì thế mà vị thần mới bảo rằng thời gian của chúng tôi không có nhiều. Dù sao đi nữa, ít nhất vẫn có việc để tôi nhúng tay vào làm. Tôi chỉ việc dốc sức mà làm thôi."
+"Có lẽ vì thế mà vị thần mới bảo thời gian của chúng ta có hạn. Dù sao đi nữa, vẫn có việc để tôi làm. Tôi chỉ việc bắt tay vào làm thôi."
 
-"Phải rồi. Mong sao anh bạn mạo hiểm giả kia có thể giúp ích được gì đó."
+"Phải rồi. Mong sao mạo hiểm giả này có thể giúp được."
