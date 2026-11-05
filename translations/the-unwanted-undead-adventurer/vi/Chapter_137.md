@@ -1,6 +1,6 @@
 # Chương 137: Tập 6 Chương 1 - Quê Nhà Hathara Của Tôi (4)
 
-Một người đàn ông nhỏ nhắn khoác áo chùng lao về phía con quái vật to lớn vượt xa bất cứ thứ gì phần lớn mọi người có thể thấy trong đời. Chiếc mặt nạ hình đầu lâu kỳ dị che kín nửa dưới khuôn mặt, giấu đi biểu cảm, nhưng ánh mắt anh lại vô cùng sắc bén. Dù đối mặt với mối hiểm nguy chết người, anh vẫn đương đầu với con Tarasque phun nọc độc mà không hề nao núng.
+Một người đàn ông nhỏ con khoác áo chùng lao về phía con quái vật to lớn vượt xa bất cứ thứ gì phần lớn mọi người có thể thấy trong đời. Chiếc mặt nạ hình đầu lâu kỳ dị che kín nửa dưới khuôn mặt, giấu đi biểu cảm, nhưng ánh mắt anh lại vô cùng sắc bén. Dù con Tarasque phun độc cực kỳ nguy hiểm, anh vẫn đương đầu với nó mà không hề nao núng.
 
 Anh áp sát rồi rút kiếm như thể đây chỉ là chuyện thường ngày. Con Tarasque rú lên một tiếng chói tai, nhưng người đàn ông vẫn thản nhiên như không. Lòng dũng cảm và sự kiên định của anh thật khiến người ta phải nể phục. Xét cho cùng, nếu không tin mình có thể hạ gục con quái vật to lớn vô song này, hẳn anh đã có chút phản ứng nào đó trước tiếng gầm xé trời ấy.
 
@@ -10,7 +10,7 @@ Ngay khi tiếp cận con Tarasque, người đàn ông bật nhảy, nhắm th�
 
 Vừa vung kiếm, anh vừa truyền Khí Lực vào lưỡi kiếm, khiến nó tỏa ra ánh sáng mờ ảo. Người ta bảo Khí Lực khi được cô đọng cao độ đủ mạnh để phá hủy cả binh khí, và nguồn năng lượng ấy có thể bẻ đôi bất kỳ thanh kiếm bình thường nào. Thế nhưng vũ khí này chẳng hề hấn gì, bởi nó được rèn nên dưới bàn tay của một thợ rèn bậc thầy. Nhìn lưỡi kiếm chém xuống, anh càng thêm khâm phục tay nghề tài hoa của người chế tác.
 
-Anh chém lưỡi kiếm sáng lóa xuống cổ con Tarasque, nhưng nhát chém lại bật ra khỏi lớp vảy của con quái vật. Vài chiếc vảy tróc ra, song phần thịt bên dưới vẫn nguyên vẹn không hề hấn gì. Quả không hổ danh là Tarasque. Rõ ràng ngay từ đầu nó đã là một đối thủ đáng gờm.
+Anh chém lưỡi kiếm loáng sáng xuống cổ con Tarasque, nhưng nhát chém lại bật ra khỏi lớp vảy của con quái vật. Vài chiếc vảy tróc ra, song phần thịt bên dưới vẫn nguyên vẹn không hề hấn gì. Quả không hổ danh là Tarasque. Rõ ràng ngay từ đầu nó đã là một đối thủ đáng gờm.
 
 Anh nhận rõ tình thế nguy hiểm lúc này. Dù vậy, anh không để nỗi sợ lấn át. Anh không đời nào bỏ cuộc trước thử thách này. Thậm chí, anh còn cảm thấy thích thú khi nhận ra con quái vật này dai đòn hơn tưởng tượng.
 
@@ -26,7 +26,7 @@ Người đàn ông gan góc đợi con Tarasque áp sát rồi phóng người 
 
 Con Tarasque rống lên, như thể đang van xin tha mạng. Đây là lần đầu tiên nó trở thành kẻ bị săn thay vì kẻ đi săn. Đáng lẽ người đàn ông bé nhỏ kia phải là con mồi, thế nhưng con Tarasque buộc lòng phải nhận ra mình đã hoàn toàn bị áp đảo.
 
-Tiếng van nài của quái vật chẳng có chút ý nghĩa nào với người đàn ông, bởi anh là một mạo hiểm giả. Săn quái vật là cách anh mưu sinh. Hơi đâu mủi lòng trước tiếng gào thảm thiết của chúng thì sao hành nghề nổi. Thế nhưng ngay trước khi lưỡi kiếm chém vào da thịt, dường như người đàn ông đã cất lời xin lỗi. Anh thậm chí trông như đang đồng cảm với con quái vật. Dù vậy, anh vẫn không hề do dự chém bay đầu con Tarasque. Vài giây sau, thân xác khổng lồ của nó đổ sụp xuống đất phát ra một tiếng uỳnh vang dội. Anh không ngoảnh đầu lại nhìn, nhưng âm thanh ấy đã lột tả trọn vẹn sức nặng của một sinh mạng vừa đứt đoạn.
+Tiếng van nài của quái vật chẳng có chút ý nghĩa nào với người đàn ông, bởi anh là một mạo hiểm giả. Săn quái vật là cách anh mưu sinh. Nếu cứ mủi lòng trước tiếng kêu bi ai của chúng thì chẳng thể nào làm nghề này được. Thế nhưng ngay trước khi lưỡi kiếm chém vào da thịt, dường như người đàn ông đã cất lời xin lỗi. Anh thậm chí trông như đang đồng cảm với con quái vật. Dù vậy, anh vẫn không hề do dự chém bay đầu con Tarasque. Vài giây sau, thân xác khổng lồ của nó đổ sụp xuống đất phát ra một tiếng uỳnh vang dội. Anh không ngoảnh đầu lại nhìn, nhưng âm thanh ấy đã lột tả trọn vẹn sức nặng của một sinh mạng vừa đứt đoạn.
 
 ◆◇◆◇◆
 
@@ -42,9 +42,9 @@ Sau một hồi đi dạo quanh làng cho bình tâm lại, tôi quay về nhà.
 
 Fahri bình thản tiếp lời, "Anh Ren, anh hạ gục cái thứ kinh khủng đó nhẹ tênh luôn. Mạo hiểm giả đỉnh thật đấy."
 
-Hai cô bé cười rạng rỡ nhìn tôi. Đôi má hơi ửng hồng cho thấy cả hai đang phấn khích vì chuyện gì đó, nhưng tôi không tài nào hiểu nổi. Qua ánh mắt họ, tôi đoán được phần nào cảm xúc của hai người, song chịu chết không biết nguyên do từ đâu ra.
+Hai cô bé cười rạng rỡ nhìn tôi. Đôi má hơi ửng hồng cho thấy cả hai đang phấn khích vì chuyện gì đó, nhưng tôi không tài nào hiểu nổi. Qua ánh mắt họ, tôi đoán được phần nào cảm xúc của hai đứa, song chịu chết không biết nguyên do từ đâu ra.
 
-Đúng lúc ấy, tôi thấy Lorraine đang ngồi trên khúc gỗ phía sau hai cô bé. Mặt cô có vẻ đắc ý, dù có thể chỉ là do tôi tưởng tượng ra. Cơ mà tôi đã quá quen với nét mặt của Lorraine suốt mười năm qua, hễ tôi đoán cô đang nghĩ gì thì gần như chưa bao giờ sai. Nhưng đằng này tôi lại chẳng hiểu lý do vì sao.
+Đúng lúc ấy, tôi thấy Lorraine đang ngồi trên khúc gỗ phía sau hai cô bé. Mặt cô có vẻ đắc ý, dù có thể chỉ là do tôi tưởng tượng ra. Có điều tôi đã quá quen với nét mặt của Lorraine suốt mười năm qua, hễ tôi đoán cô đang nghĩ gì thì gần như chưa bao giờ sai. Nhưng lần này tôi lại chẳng hiểu lý do vì sao.
 
 Xem chừng Riri và Fahri đã ghé qua nhà lúc Lorraine ở đây, rồi đâm ra ngồi trò chuyện với nhau. Ánh mắt ngưỡng mộ kia chắc hẳn bắt nguồn từ những lời Lorraine kể về công việc của tôi ở Maalt. Tôi dám chắc cô ấy đã thêm thắt ít nhiều. "Cái thứ kinh khủng" mà Fahri nhắc tới nhiều khả năng là Tarasque, Khô Lâu Khổng Lồ, hoặc thứ gì đó tương tự. Dù vậy, việc miêu tả sức mạnh của lũ quái vật đó cho hai cô bé cả đời sống trong làng miền núi vốn chẳng hề dễ dàng. Hơn nữa, cách nói chuyện của Lorraine thường thiên về giải thích cặn kẽ. Cô nói rất dễ hiểu nhưng lại thiếu cảm xúc, chẳng khác nào ngồi nghe giảng bài. Chỉ thế thôi thì chẳng đời nào làm hai cô bạn thuở nhỏ của tôi phản ứng đến mức này. Đúng lúc ấy, tôi bỗng vỡ lẽ. Lorraine biết ma pháp ảo ảnh.
 
@@ -60,7 +60,7 @@ Dù sao đi nữa, nếu Lorraine dùng ma pháp ảo ảnh để chiếu lại 
 
 "Từ hồi lên thành phố trông anh mạnh lên hẳn đấy, anh Ren. Làm em cũng muốn lúc nào đó lên thành phố rèn luyện một chuyến xem sao."
 
-Suy đoán của tôi xem ra trúng phóc. Dẫu vậy, tôi thấy hai cô bé đang hào hứng quá đà. Tôi đâu có mạnh lên nhiều đến thế, còn thứ sức mạnh tôi có hiện giờ chẳng qua chỉ nhờ may rủi. Mà hên hay xui thì chịu, khó mà nói được. Vả lại ma pháp ảo ảnh của Lorraine vốn đã vượt xa chuẩn mực thông thường. Dù Riri và Fahri có lên thành phố hay không, cơ hội để họ trở thành ma pháp sư ngang tầm cô gần như bằng không. Lý do duy nhất Lorraine dừng chân ở Ngân Cấp là vì cô chẳng mấy khi nhận ủy thác, chứ thừa sức chạm tới Kim Cấp. Đã vậy, sở trường thực sự của cô lại là ma thuật phi chiến đấu. Cô là mạo hiểm giả và biết cách chiến đấu, nhưng quan trọng hơn, cô là một nhà nghiên cứu kiêm học giả. Tài năng xây dựng học thuyết của cô vượt xa những gì một ma pháp sư bình thường có thể với tới. Nếu Riri và Fahri tưởng đây là chuyện thường tình ở thành phố thì lầm to rồi.
+Suy đoán của tôi xem ra trúng phóc. Dẫu vậy, tôi thấy hai cô bé đang hào hứng quá đà. Tôi đâu có mạnh lên nhiều đến thế, còn thứ sức mạnh tôi có hiện giờ chẳng qua cũng chỉ nhờ vận may. Có điều đó là may hay rủi thì khó mà nói được. Vả lại ma pháp ảo ảnh của Lorraine vốn đã vượt xa chuẩn mực thông thường. Dù Riri và Fahri có lên thành phố hay không, cơ hội để họ trở thành ma pháp sư ngang tầm cô gần như bằng không. Lý do duy nhất Lorraine dừng chân ở Ngân Cấp là vì cô chẳng mấy khi nhận ủy thác, chứ thừa sức chạm tới Kim Cấp. Đã vậy, sở trường thực sự của cô lại là ma thuật phi chiến đấu. Cô là mạo hiểm giả và biết cách chiến đấu, nhưng quan trọng hơn, cô là một nhà nghiên cứu kiêm học giả. Tài năng xây dựng học thuyết của cô vượt xa những gì một ma pháp sư bình thường có thể với tới. Nếu Riri và Fahri tưởng đây là chuyện thường tình ở thành phố thì lầm to rồi.
 
 "Ngay cả giữa dân thành phố thì Lorraine cũng là trường hợp cá biệt đấy," tôi bảo. "Hai em đừng có lên đó rồi đinh ninh ai cũng được như cô ấy nhé."
 
@@ -106,15 +106,15 @@ Giờ thì tôi đã hiểu vì sao Lorraine lại phải dùng tới ma pháp �
 
 Cô ấy nói thế có lẽ không sai, nhưng bất kỳ mạo hiểm giả Kim Cấp nào cũng có thể hạ gục một con Tarasque. Khô Lâu Khổng Lồ thậm chí còn yếu hơn, đến mạo hiểm giả Ngân Cấp cũng dư sức xử gọn, thậm chí các cấp bậc thấp hơn nữa có khi cũng làm được. Chẳng có gì đáng để khoe khoang cả, thế nên tôi cũng nói thẳng với cô như vậy.
 
-Lorraine thở dài. "Anh lúc nào cũng tự coi nhẹ bản thân. Thử nhìn xem giờ anh đã mạnh tới mức nào rồi. Ngày trẻ anh rời ngôi làng này tới Maalt với ôm ấp hoài bão làm mạo hiểm giả. Những việc anh làm được bây giờ, ngày ấy anh làm nổi mấy phần? Thành tựu của anh dư sức biến anh thành người hùng trong mắt người dân làng này rồi đấy."
+Lorraine thở dài. "Anh lúc nào cũng tự coi nhẹ bản thân. Thử nhìn xem giờ anh đã mạnh tới mức nào rồi. Khi còn trẻ anh rời ngôi làng này tới Maalt, ôm ấp hoài bão làm mạo hiểm giả. Những việc anh làm được bây giờ, ngày ấy anh làm nổi mấy phần? Thành tựu của anh dư sức biến anh thành người hùng trong mắt người dân làng này rồi đấy."
 
 Nghe cô nói thế, có khi lại đúng thật. Cách đây chưa lâu, tôi vẫn chỉ là hạng mạo hiểm giả Đồng Cấp nhan nhản khắp nơi. Với những ai xuất thân từ ngôi làng bé cỡ này, thế đã là giới hạn, đến lúc đó họ sẽ giải nghệ rồi về làng làm thợ săn hay chân gác cổng nào đấy. Rất có thể một ngày nào đó tôi cũng sẽ như vậy. Chuyện đó đã không xảy ra, song cũng chỉ nhờ vào vận may của tôi, dù chẳng biết đó là may hay rủi. Giờ đây tôi thậm chí có thể giao chiến với cả Tarasque, nên đứng ở góc độ của những mạo hiểm giả lận đận kia, tôi đã làm được quá nhiều điều.
 
 Sau bao biến cố dạo gần đây, tôi thấy mình dần mất đi tự tin. Tôi liên tục đụng độ những nhân vật bí ẩn như Laura và Nive, khiến bản thân cảm thấy mình chẳng có gì đặc biệt. Cứ như thể họ vừa sinh ra đã mang sẵn thứ khí chất độc nhất vô nhị làm nên sự phi thường, còn tôi thì chẳng biết làm sao để có được điều đó cho riêng mình.
 
-Dù vậy, khoan nói tới Laura, tôi chẳng hề muốn giống như Nive. Cô ta độc nhất vô nhị thật đấy, nhưng lại quái dị đến mức chẳng giống người thường. Cách suy nghĩ và hành xử của cô ta vốn chẳng thể dung nạp nổi trong xã hội này. Ấy thế mà cô ta lại có vô số mối quan hệ, thậm chí còn có tầm ảnh hưởng trong một tổ chức tôn giáo, thành ra vẫn xoay xở trong xã hội tài tình đến lạ kỳ. Dẫu sao thì cô ta cũng là trường hợp cá biệt, tôi chẳng dại gì mà học theo.
+Dù vậy, khoan nói tới Laura, tôi chẳng hề muốn giống như Nive. Cô ấy độc nhất vô nhị thật đấy, nhưng lại quái dị đến mức chẳng giống người thường. Cách suy nghĩ và hành xử của cô ấy vốn chẳng thể dung nạp nổi trong xã hội này. Ấy thế mà Nive lại có vô số mối quan hệ, thậm chí còn có tầm ảnh hưởng trong một tổ chức tôn giáo, thành ra vẫn xoay xở trong xã hội tài tình đến lạ kỳ. Dẫu sao thì cô ấy cũng là trường hợp cá biệt, tôi chẳng dại gì mà học theo.
 
-"Tôi sẽ cố tự tin hơn một chút vậy. Cơ mà này Lorraine, cô chiếu lại đúng cái ảo ảnh vừa cho hai đứa xem đi. Tôi muốn biết chính xác nó ra sao để lỡ lát nữa hai đứa có hỏi còn biết đường trả lời."
+"Tôi sẽ cố tự tin hơn một chút vậy. À mà Lorraine này, cô chiếu lại đúng cái ảo ảnh vừa cho hai đứa xem đi. Tôi muốn biết chính xác nó ra sao để lỡ lát nữa hai đứa có hỏi còn biết đường trả lời."
 
 "Ý hay đấy," Lorraine tán thành. "Tôi kể bằng miệng cũng được, nhưng anh tự xem tận mắt chắc sẽ nhanh và dễ hiểu hơn nhiều. Đi theo tôi."
 
@@ -122,7 +122,7 @@ Lorraine bắt đầu thi triển ma thuật. Trong mắt tôi thì lúc nào n�
 
 ◆◇◆◇◆
 
-Xem xong, tôi chỉ còn biết thốt lên hỏi rốt cuộc gã đàn ông kia là ai. Cô đã thêm thắt câu chuyện tới mức nực cười, đến cả Edel cũng chẳng thấy tăm hơi đâu. Trong lời kể của cô, tôi còn lành lặn bước ra như chưa hề có chuyện gì. Đúng là tôi không bị thương nặng, nhưng để tiếp cận được con Tarasque tôi đã phải trầy vi tróc vảy và bị đánh cho tơi tả. Đoạn ảo ảnh này làm tôi trông như thể hạ gục con Tarasque mà chẳng tốn chút mồ hôi công sức nào. Giờ thì tôi đã hiểu vì sao Riri và Fahri lại nhìn mình như thế.
+Xem xong, tôi chỉ còn biết tự hỏi rốt cuộc người đàn ông trong đó là ai vậy. Cô đã thêm thắt câu chuyện tới mức nực cười, đến cả Edel cũng chẳng thấy tăm hơi đâu. Trong lời kể của cô, tôi còn lành lặn bước ra như chưa hề có chuyện gì. Đúng là tôi không bị thương nặng, nhưng để tiếp cận được con Tarasque tôi đã phải trầy vi tróc vảy và bị đánh cho tơi tả. Đoạn ảo ảnh này làm tôi trông như thể hạ gục con Tarasque mà chẳng tốn chút mồ hôi công sức nào. Giờ thì tôi đã hiểu vì sao Riri và Fahri lại nhìn mình như thế.
 
 "Tôi chắc cô cũng tự biết rồi, nhưng thế này thì quá đà rồi đấy," tôi càu nhàu.
 

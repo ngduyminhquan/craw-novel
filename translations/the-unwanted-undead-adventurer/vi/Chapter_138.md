@@ -30,7 +30,7 @@ Tôi chưa bao giờ hiểu nổi những chuyện đó có gì thú vị, mỗi
 
 "Ý anh là sao?" cô hỏi.
 
-Tôi muốn bảo rằng đám đàn ông đỏ mặt chạy biến là vì nhan sắc của chính cô, nhưng xem chừng cô chẳng hiểu ý. Lẽ ra tôi có thể nói thẳng là họ thấy cô quá quyến rũ; họ có thể tưởng bở rằng hễ lên thành phố là sẽ được hẹn hò với bao nhiêu phụ nữ xinh đẹp như cô. Có điều, tôi không biết phải diễn đạt thế nào để khỏi làm cô phật ý.
+Ý tôi là đám thanh niên kia đỏ mặt chạy biến đều vì nhan sắc của cô cả, nhưng xem chừng cô chẳng hiểu ẩn ý đó. Lẽ ra tôi có thể nói toạc ra rằng họ thấy cô quá quyến rũ, rồi đâm tưởng bở hễ lên thành phố là sẽ được hẹn hò với bao nhiêu phụ nữ xinh đẹp như cô. Có điều, tôi không biết phải diễn đạt thế nào để khỏi làm cô phật ý.
 
 "Thôi, bỏ qua chuyện đó đi," tôi nói rồi gác lại chủ đề này. Lorraine biết cách pha trò bỗ bã với cánh đàn ông, nhưng cứ đến lúc quan trọng là cô lại mù tịt.
 
@@ -40,13 +40,13 @@ Tôi muốn bảo rằng đám đàn ông đỏ mặt chạy biến là vì nhan
 
 ◆◇◆◇◆
 
-"Trời đất, anh ta bị làm sao thế không biết?" Lorraine lẩm bẩm. Cô tò mò không biết anh có ý gì, nhưng nghĩ ngợi mãi cũng chẳng ích gì. Dù vậy, cô vẫn không kiềm được mà cố suy đoán. Nghĩ tới nghĩ lui một hồi, cô vẫn chẳng mò ra được manh mối nào.
+"Thiệt tình, anh ấy bị làm sao thế không biết?" Lorraine lẩm bẩm. Cô tò mò không biết anh có ý gì, nhưng nghĩ ngợi mãi cũng chẳng ích gì. Dù vậy, cô vẫn không kiềm được mà cố suy đoán. Nghĩ tới nghĩ lui một hồi, cô vẫn chẳng mò ra được manh mối nào.
 
 "Chị Lorraine ơi, có chuyện gì thế chị?" Riri hỏi. Fahri đang đi cùng cô bé, cả hai đều cầm trên tay những chiếc cốc gỗ.
 
 Thức uống trong những chiếc cốc gỗ chỉ có lượng cồn vừa đủ để bảo quản nên khó mà coi là đồ uống có cồn được, nhưng vị lại ngọt thơm, dễ chịu. Đây là loại đồ uống đặc sản của Hathara. Cánh đàn ông thì chọn cho mình thứ rượu nặng độ, còn mấy cô gái tầm tuổi Riri và Fahri đều uống loại này.
 
-Thế nhưng Lorraine lại chọn cho mình thứ rượu nặng đó. Ngay cả loại rượu mạnh ấy dường như cũng chẳng hề khiến cô suy chuyển. Cô điềm tĩnh hỏi Riri và Fahri về ý những lời Rentt vừa nói ban nãy.
+Thế nhưng Lorraine lại chọn cho mình thứ rượu nặng đó. Ngay cả loại rượu mạnh ấy xem ra cũng chẳng làm cô hề hấn gì. Cô điềm tĩnh hỏi Riri và Fahri xem câu nói ban nãy của Rentt có ý gì.
 
 Hai cô bé dường như hiểu ngay tức khắc. "Tại chị xinh đẹp quá đấy, chị Lorraine. Nếu cả đám đàn ông kéo nhau lên thành phố vì tưởng lên đó sẽ tìm được phụ nữ như chị thì làng này nguy to mất," Riri giải thích.
 
@@ -54,7 +54,7 @@ Hai cô bé dường như hiểu ngay tức khắc. "Tại chị xinh đẹp qu�
 
 "Chị đừng có đi hỏi phụ nữ câu đó lung tung nếu không muốn ăn tát nhé," Riri cười đầy vẻ đe dọa. Nụ cười ấy khiến Lorraine lạnh cả sống lưng.
 
-"Tôi xin lỗi. Nhưng trước giờ tôi đâu biết Rentt lại nghĩ về tôi như thế," cô nói.
+"Xin lỗi nhé. Nhưng trước giờ tôi đâu biết Rentt lại nhìn mình như thế," cô nói.
 
 Nếu lời Riri giải thích là đúng thì hẳn Rentt cũng thấy cô xinh đẹp. Xưa nay cô chẳng nghĩ anh từng để ý đến vẻ ngoài của mình, nên chuyện này quả thực khiến cô ngỡ ngàng. Nếu vậy, biết đâu giữa hai người họ có thể tiến xa hơn một bước. Nghĩ đến việc thực tế chẳng có gì, Lorraine thoáng thấy chút hụt hẫng.
 
@@ -62,9 +62,9 @@ Fahri cũng góp thêm ý kiến: "Anh Ren hơi ngô nghê về mấy chuyện n
 
 ◆◇◆◇◆
 
-Vẻ mặt Lorraine như dở khóc dở cười. "Sao anh ta lại thành ra cái bộ dạng đó chứ?" cô nửa đùa nửa thật hỏi.
+Lorraine cười khổ. "Sao anh ấy lại thành ra như thế nhỉ?" cô nửa đùa nửa thật hỏi.
 
-Nhận xét của Fahri dường như đã nói trúng phóc. Cô bé đã lột tả chính xác tính cách của Rentt. Anh có thể nhìn một người phụ nữ rồi khen cô ấy dễ thương hay xinh đẹp, nhưng hoàn toàn mù tịt về bước tiếp theo phải làm gì. Chừng nào Lorraine còn quen biết anh thì anh vẫn luôn như thế. Suốt mười năm ở bên nhau, anh chưa từng buông lấy một lời tán tỉnh. Anh đâu phải tu sĩ, cũng chẳng có lý do gì để giữ mình thanh tịnh cả đời. Về khoản đó thì cô cũng chẳng khác gì anh, nhưng cô linh cảm có lẽ còn một nguyên do khác.
+Fahri nhận xét trúng phóc. Cô bé đã lột tả chính xác tính cách của Rentt. Anh có thể nhìn một người phụ nữ rồi khen cô ấy dễ thương hay xinh đẹp, nhưng hoàn toàn mù tịt về bước tiếp theo phải làm gì. Từ ngày Lorraine quen biết anh đến giờ, lúc nào anh cũng như thế. Suốt mười năm ở bên nhau, anh chưa từng buông lấy một lời tán tỉnh. Anh đâu phải tu sĩ, cũng chẳng có lý do gì để giữ mình thanh tịnh cả đời. Về khoản đó thì cô cũng chẳng khác gì anh, nhưng cô linh cảm có lẽ còn một nguyên do khác.
 
 Chính điều đó đã thôi thúc Lorraine hỏi vậy. Thế nhưng chẳng hiểu sao, Riri và Fahri lại phản ứng hết sức nghiêm túc trước câu hỏi của cô. Cô nhận thấy nét mặt hai cô bé chùng hẳn xuống. Cô đoán chừng mình đã lỡ chạm phải chủ đề nhạy cảm. Giờ có rút lại lời thì cũng muộn rồi, nên cô bèn tìm cách lảng sang chuyện khác thật tự nhiên. Đó là cách duy nhất cô nghĩ ra để hai cô bé thấy dễ chịu hơn.
 
@@ -94,7 +94,7 @@ Thế nhưng Riri và Fahri lại thấy Lorraine có vẻ hơi hào hứng. "Ha
 
 "Nhìn là biết hai người có sợi dây liên kết bền chặt lắm luôn," Fahri góp lời.
 
-Trong thoáng chốc, Lorraine ngớ người tự hỏi hai cô bé đang nói gì, nhưng ngẫm lại một chút, cô thấy họ nói cũng đúng. "Đúng là chúng tôi rất thân, và tôi nghĩ giữa hai đứa cũng có một mối gắn kết nhất định," cô nói.
+Trong thoáng chốc, Lorraine ngớ người tự hỏi hai cô bé đang nói gì, nhưng ngẫm lại một chút, cô thấy họ nói cũng đúng. "Đúng là chúng tôi rất thân, và tôi nghĩ giữa chúng tôi cũng có một mối gắn kết nhất định," cô nói.
 
 Ý Lorraine chẳng qua chỉ là họ gắn bó như bạn bè mạo hiểm giả cùng nghề, nhưng nghe xong câu đó, Riri và Fahri lại có vẻ thất vọng đến lạ.
 
@@ -132,7 +132,7 @@ Nhưng cuối cùng Lorraine cũng thuyết phục được hai cô bé rằng m
 
 Lorraine e rằng Rentt sẽ cằn nhằn, nhưng nhìn quanh quất một hồi chẳng thấy bóng dáng anh đâu. Cô cứ ngỡ anh sẽ muốn tận mắt chứng kiến ma pháp ảo ảnh của mình, xem ra không phải vậy. Có lẽ anh đã phát ngấy cái cảnh bị đối đãi như người hùng rồi. Nhất là sau màn phô diễn màu mè này, chắc hẳn anh đã chuồn mất dạng ngay khi nó vừa kết thúc để khỏi bị dân làng xúm vào tâng bốc.
 
-Lorraine nhìn quanh tìm ai đó có thể đã nhìn thấy Rentt. Cô bắt gặp Riri và bước lại gần cô bé. Riri thấy Lorraine đi tới liền khen ngợi màn tái hiện mới nhất về những chiến công hiển hách của Rentt. Sau khi lắng nghe những lời tán dương một hồi, Lorraine chuyển sang chủ đề chính. "À mà Riri này, em có biết Rentt đang ở đâu không? Chắc anh ấy cũng xem màn biểu diễn rồi, cơ mà tôi tìm mãi chẳng thấy bóng dáng đâu. Tôi muốn hỏi thử xem anh ấy thấy thế nào."
+Lorraine nhìn quanh tìm người hỏi thăm tung tích Rentt. Cô bắt gặp Riri và bước lại gần cô bé. Riri thấy Lorraine đi tới liền khen ngợi màn tái hiện mới nhất về những chiến công hiển hách của Rentt. Sau khi lắng nghe những lời tán dương một hồi, Lorraine chuyển sang chủ đề chính. "À mà Riri này, em có biết Rentt đang ở đâu không? Chắc anh ấy cũng xem màn biểu diễn rồi, mà tôi tìm mãi chẳng thấy bóng dáng đâu. Tôi muốn hỏi thử xem anh ấy thấy thế nào."
 
 "Anh Rentt không có ở đây sao? Hừm, em dám chắc vừa thấy anh ấy ban nãy mà. Chắc lại chuồn đi đâu rồi," Riri ngẫm nghĩ, đi đến cùng một suy đoán với Lorraine. "Thôi, chắc anh ấy loanh quanh đâu đó thôi. Chị cứ tìm thử xem. Nếu tình cờ gặp, em sẽ bảo chị đang tìm nhé."
 
@@ -144,35 +144,35 @@ Lorraine cất công đi tìm Rentt một hồi, nhưng anh chẳng có mặt �
 
 "Lorraine, cháu thấy vui chứ?" Ingo hỏi.
 
-"Dạ, vui lắm bác ạ. Mọi người trong làng ai cũng niềm nở, thức ăn lại ngon nữa. Cháu cũng kết món này rồi đấy," Lorraine nói rồi giơ chiếc cốc lên.
+"Vâng, vui lắm bác. Mọi người trong làng ai cũng niềm nở, thức ăn lại ngon nữa. Cháu cũng kết món này rồi đấy," Lorraine nói rồi giơ chiếc cốc lên.
 
 "Hiếm có phụ nữ nào uống nổi thứ rượu đó lắm đấy," Ingo trố mắt bảo. "Nhưng cháu thấy vui là ta mừng rồi. Ở Hathara này chẳng có gì nhiều để giải trí, ta cứ lo người thành phố như cháu sẽ khó thích nghi."
 
-"Dạ, không đến nỗi thế đâu bác. Trái lại, ở đây có bao nhiêu thứ mà ở Maalt người ta chẳng bao giờ tìm thấy được. Cháu thấy đây là một trải nghiệm rất thú vị." Gạt chuyện ăn uống sang một bên, Lorraine cũng không biết nhiều ngôi làng đặc biệt như thế này. Dưới con mắt của một học giả kiêm mạo hiểm giả, Hathara đã kích thích trí tò mò của cô.
+"Ồ, không đến nỗi thế đâu bác. Trái lại, ở đây có bao nhiêu thứ mà ở Maalt người ta chẳng bao giờ tìm thấy được. Cháu thấy đây là một trải nghiệm rất thú vị." Gạt chuyện ăn uống sang một bên, Lorraine cũng không biết nhiều ngôi làng đặc biệt như thế này. Dưới con mắt của một học giả kiêm mạo hiểm giả, Hathara đã kích thích trí tò mò của cô.
 
 "Thế à? Ta thì chẳng thấy chỗ này có gì thú vị cho lắm, nhưng có khi do ta sống ở đây lâu quá rồi nên không nhận ra chăng. Mà nhân tiện..."
 
-"Dạ? Có chuyện gì thế bác?"
+"Vâng? Có chuyện gì thế bác?"
 
 "Thấy cháu có vẻ như đang tìm kiếm thứ gì. Cháu cần gì à?" Ingo hỏi.
 
 Đến lúc này Lorraine mới hiểu vì sao ông lại cất công tới bắt chuyện với mình. Thấy cô cứ quanh quẩn một mình, ông đoán chắc cô đang gặp khó khăn gì đó. Cô thầm cảm kích trước sự chu đáo của ông.
 
-"Vâng, cháu đang tìm Rentt. Cháu nhìn quanh mãi mà chẳng thấy anh ấy đâu. Bác có biết anh ấy đi đâu rồi không ạ?" Lorraine hỏi.
+"Vâng, cháu đang tìm Rentt. Cháu nhìn quanh mãi mà chẳng thấy anh ấy đâu. Bác có biết anh ấy đi đâu rồi không?" Lorraine hỏi.
 
 "Thằng Rentt à? Đúng thật, hình như nó không có ở quanh đây. Không biết nó chạy đi đâu được nhỉ," Ingo trầm ngâm nói.
 
-"Bác không cần phải cất công tìm giúp cháu đâu. Nếu bác không rõ thì thôi cũng được ạ."
+"Bác không cần phải cất công tìm giúp cháu đâu. Nếu bác không rõ thì thôi cũng được."
 
 "Nhưng mà ta cũng đoán được chỗ nó có thể đến đấy. Chắc nó đang loanh quanh đâu đó đằng kia thôi, nếu cháu muốn thì cứ qua đó xem thử. Dù sao cũng không thể để nhân vật chính của bữa tiệc vắng mặt lâu quá được."
 
-Ingo chỉ tay về phía đầu kia của làng. Tầm này đêm hôm khuya khoắt nên đằng đó tối om, đi lại khó khăn, nhưng đấy là với người thường. Lorraine là một ma pháp sư kiêm mạo hiểm giả dạn dày kinh nghiệm, chút trở ngại đó chẳng nhằm nhò gì với cô. Cô có vô số cách đối phó với bóng đêm, song lần này cô chọn cách đơn giản nhất: ngưng tụ một quả cầu ánh sáng. Thấy vậy Ingo có hơi bất ngờ, nhưng biết Lorraine là ma pháp sư nên ông mau chóng lấy lại bình tĩnh. Sự điềm tĩnh cỡ đó quả là hiếm thấy ở một trưởng làng nơi thôn dã.
+Ingo chỉ tay về phía đầu kia của làng. Tầm này đêm hôm khuya khoắt nên đằng đó tối om, đi lại khó khăn, nhưng đấy là với người thường. Lorraine là một ma pháp sư kiêm mạo hiểm giả dạn dày kinh nghiệm, chút trở ngại đó chẳng nhằm nhò gì với cô. Cô có vô số cách đối phó với bóng đêm, song lần này cô chọn cách đơn giản nhất: ngưng tụ một quả cầu ánh sáng. Thấy vậy Ingo có hơi bất ngờ, nhưng biết Lorraine là ma pháp sư nên ông mau chóng lấy lại bình tĩnh. Sự điềm tĩnh cỡ đó quả là hiếm thấy ở một vị trưởng làng nơi vùng quê hẻo lánh.
 
 "Vậy để cháu qua đó xem sao. Cảm ơn bác đã chỉ đường nhé," Lorraine nói rồi rảo bước về hướng ông chỉ.
 
 Một lát sau, cô dừng chân trước một tòa nhà lớn. Đây có lẽ là công trình đồ sộ nhất làng, dù hiển nhiên chẳng thấm vào đâu so với những kiến trúc ở Maalt hay các đại đô thị. Nhìn qua cách bài trí thì trông nó giống một giáo đường.
 
-"Chẳng biết nơi này thờ phụng tôn giáo nào, nhưng có lẽ ngay cả những ngôi làng trên núi cũng cần một chốn tâm linh," Lorraine lẩm bẩm. Ngôi nhà thờ này không thuộc về Giáo Hội Đông Thiên, Giáo Hội Lobelia, hay bất kỳ giáo phái lớn nào khác, nhưng ở các làng nhỏ thì chuyện đó cũng là bình thường. Hễ có thần linh hay tinh linh bản địa, người ta sẵn sàng biến bất kỳ tòa nhà nào thành nhà thờ, miễn là nó đủ rộng rãi.
+"Chẳng biết nơi này theo tôn giáo nào, nhưng có lẽ ngay cả những ngôi làng trên núi cũng cần một nơi thờ phụng," Lorraine lẩm bẩm. Ngôi nhà thờ này không thuộc về Giáo Hội Đông Thiên, Giáo Hội Lobelia, hay bất kỳ giáo phái lớn nào khác, nhưng ở các làng nhỏ thì chuyện đó cũng là bình thường. Hễ có thần linh hay tinh linh bản địa, người ta sẵn sàng biến bất kỳ tòa nhà nào thành nhà thờ, miễn là nó đủ rộng rãi.
 
 Tuy nhiên, chẳng thấy bóng dáng Rentt đâu. Nếu anh có đi đâu thì Lorraine đoán chắc là loanh quanh chỗ này, nhưng không chừng cô đoán trật lấc. Vừa thoáng nghĩ vậy thì cô chợt cảm nhận được có người phía sau nhà thờ. Xem ra rốt cuộc linh cảm của cô vẫn đúng.
 
