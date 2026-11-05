@@ -8,11 +8,11 @@
 
 "Lại nữa à?"
 
-"Gì cơ?" tôi hỏi. Tôi xong gần như cùng lúc với Alize. Thật ra tôi sang công đoạn cuối sớm hơn con bé, chỉ là mất thêm chút thời gian tỉ mẩn với phần đầu đũa.
+"Gì cơ?" tôi hỏi. Tôi xong gần như cùng lúc với Alize. Thật ra tôi sang công đoạn cuối sớm hơn cô bé, chỉ là mất thêm chút thời gian tỉ mẩn với phần đầu đũa.
 
 Cô chỉ tay vào cây đũa của tôi. "Cái đó. Chỗ đầu đũa của anh ấy. Tay nghề ấn tượng thật đấy," cô lẩm bẩm.
 
-Tò mò, Alize bèn nhô người ra sau lưng Lorraine, ngó nghiêng cây đũa của tôi.
+Tò mò, Alize bèn ló đầu ra từ sau lưng Lorraine, ngó nghiêng cây đũa của tôi.
 
 "Oa, cái gì thế này? Tỉ mỉ quá chừng luôn," cô bé sửng sốt thốt lên.
 
@@ -20,13 +20,13 @@ Tò mò, Alize bèn nhô người ra sau lưng Lorraine, ngó nghiêng cây đũ
 
 Lorraine cầm cây đũa phép của tôi lên, ngắm nghía đủ mọi góc độ. "Con rồng đang ngậm viên Ma Tinh trong miệng này. Tượng rồng điêu khắc tinh xảo đến khó tin đấy chứ. Kiểu chạm trổ thế này bình thường chẳng ai làm nổi chỉ bằng mỗi việc điều khiển Ma Lực đâu đấy," Lorraine nhận xét.
 
-Nói cho rõ thì đây chính là con rồng đã nuốt chửng tôi. Hồi đó cứ ngỡ đời mình thế là hết, thành thử hình bóng nó hằn sâu vào tâm trí tới mức vừa định tạc là nó hiện ra ngay trong đầu. Thú thật, chính tôi cũng thấy làm thế này hơi dở hơi. Lorraine dường như cũng nghĩ vậy, bởi cô nhìn tôi như nhìn kẻ mất trí khi lại chọn khắc đúng con quái vật từng xơi tái mình. Nhưng có Alize ở đây nên hai đứa chẳng thể bàn sâu về chuyện đó, tôi đành hỏi sang chuyện khác đang thắc mắc.
+Nói cho rõ thì đây chính là con rồng đã nuốt chửng tôi. Hồi đó cứ ngỡ đời mình thế là hết, thành thử hình bóng nó hằn sâu vào tâm trí tới mức vừa định tạc là nó hiện ra ngay trong đầu. Thú thật, chính tôi cũng thấy chọn hình này hơi kỳ cục. Lorraine dường như cũng nghĩ vậy, bởi cô nhìn tôi như nhìn kẻ mất trí khi lại chọn khắc đúng con quái vật từng xơi tái mình. Nhưng có Alize ở đây nên chúng tôi chẳng thể bàn sâu về chuyện đó, tôi đành hỏi sang chuyện khác đang thắc mắc.
 
 "Thế ngoài điều khiển Ma Lực ra thì người ta tạo hình đầu đũa kiểu gì?"
 
 "À, mấy chi tiết trang trí kiểu đó thường được làm ngay từ lúc gọt phôi đũa cơ. Người ta hay chừa phần đầu to hơn một chút rồi dùng dao tỉa dần thành hình mình muốn."
 
-"Sao phải nhọc công đến thế?" tôi hỏi. Tôi thấy dùng Ma Lực uốn nắn thì tha hồ tạo hình theo ý mình hơn chứ. Tôi cứ đinh ninh người ta làm thế chỉ vì việc này đòi hỏi tập trung cao độ nên mới mất thì giờ.
+"Sao phải nhọc công đến thế?" tôi hỏi. Tôi thấy dùng Ma Lực uốn nắn thì tha hồ tạo hình theo ý mình hơn chứ. Tôi cứ tưởng lý do là vì làm kiểu này đòi hỏi phải tập trung cao độ lại ngốn nhiều thời gian thôi chứ.
 
 Lorraine ôm đầu than thở. "Dùng Ma Lực thì chỉ nắn được đến một chừng mực nào đó thôi, chứ tỉ mỉ cỡ này thì bình thường chẳng ai làm nổi. Trừ phi anh là bậc thầy điều khiển Ma Lực, còn không thì tự tay chạm khắc bằng dụng cụ chuyên dụng sẽ cho kết quả tốt hơn nhiều. Cơ mà hình như mấy quy tắc đó chẳng áp dụng được với anh thì phải," cô cằn nhằn.
 
@@ -42,7 +42,7 @@ Lorraine ôm đầu than thở. "Dùng Ma Lực thì chỉ nắn được đến
 
 ◆◇◆◇◆
 
-Đã đến lúc kiểm tra thực tế xem đũa phép hoạt động ra sao. Tôi toan niệm phép ngay tại chỗ, nhưng Lorraine đã ngăn lại với một sự biết nghĩ hiếm thấy đến bất ngờ: "Đừng có thử trong nhà tôi. Ra ngoài đi."
+Đã đến lúc kiểm tra thực tế xem đũa phép hoạt động ra sao. Tôi toan niệm phép ngay tại chỗ, nhưng bất ngờ thay lần này Lorraine lại rất biết nghĩ mà ngăn tôi lại: "Đừng có thử trong nhà tôi. Ra ngoài đi."
 
 Cả nhóm kéo nhau ra ngoài, nhưng cũng chỉ đi tới một bãi đất trống ven thị trấn.
 
@@ -54,7 +54,7 @@ Dù cô cam đoan thế, tôi khó mà tin chủ đất này lại chịu để 
 
 "Sao mà khó chịu được. Đất của tôi mà."
 
-"Hả?" tôi buột miệng thốt lên. Câu trả lời hoàn toàn bất ngờ, nhưng thế thì hiểu vì sao Lorraine lại tỉnh bơ như vậy rồi. Đất của cô ấy thì tụi này muốn quậy thế nào chẳng được. Trừ phi mở toang cánh cổng dẫn tới Địa Ngục để lũ ác ma tràn vào tấn công thành phố. Thế thì to chuyện thật, nhưng chắc chắn chẳng đến mức nghiêm trọng cỡ đó đâu. Dù mấy tay ma pháp sư trong truyền thuyết hay cổ tích toàn vướng vào mấy vố tai hại kiểu ấy, chứ tôi thì còn chẳng biết làm sao để mở nổi cái cổng như thế.
+"Hả?" tôi buột miệng thốt lên. Câu trả lời hoàn toàn bất ngờ, nhưng thế thì hiểu vì sao Lorraine lại tỉnh bơ như vậy rồi. Nếu đây là đất của cô thì chúng tôi muốn làm gì chẳng được. Trừ phi mở toang cánh cổng dẫn tới Địa Ngục để lũ ác ma tràn vào tấn công thành phố. Thế thì to chuyện thật, nhưng chắc chắn chẳng đến mức nghiêm trọng cỡ đó đâu. Dù mấy tay ma pháp sư trong truyền thuyết hay cổ tích toàn vướng vào mấy vố tai hại kiểu ấy, chứ tôi thì còn chẳng biết làm sao để mở nổi cái cổng như thế.
 
 "Số là tôi có vài thí nghiệm không tiện làm ở nhà. Thế nên hồi trước tôi mới mua bãi đất này. Chỗ này cách trung tâm thị trấn đủ xa nên dù rộng thênh thang nhưng giá cũng không đắt lắm," Lorraine giải thích.
 
@@ -86,7 +86,7 @@ Chúng tôi lùi ra xa một đoạn, rồi Lorraine gọi với bảo Alize b�
 
 "Gì... gì thế này ạ?" Alize lắp bắp, hoảng hốt trước quầng lửa quá lớn.
 
-Lorraine bước lại gần niệm phép dập lửa, khiến Alize thở phào nhẹ nhõm. Tôi cũng tiến lại cạnh con bé.
+Lorraine bước lại gần niệm phép dập lửa, khiến Alize thở phào nhẹ nhõm. Tôi cũng tiến lại cạnh cô bé.
 
 "Tuyệt lắm, Alize. Anh không ngờ ma thuật cơ bản mà em cũng tạo ra được quầng lửa lớn thế này đấy," tôi khen ngợi.
 
@@ -100,7 +100,7 @@ Lorraine nghe thấy cuộc trò chuyện bèn xen vào: "Hình như hai ngườ
 
 "Chuyện đó nghiêm trọng lắm ạ?"
 
-"Đúng thế, có thể nói là chí mạng luôn ấy chứ. Khi đó muốn chiến đấu như một ma pháp sư, lúc nào em cũng phải kè kè cây đũa phép bên mình. Cơ mà giới trẻ bây giờ vẫn cứ chọn dựa dẫm hoàn toàn vào đũa phép để dùng ma thuật đấy thôi. Làm thế dễ hơn nhiều mà. Mới nhập môn đã luyện tập ngay với đũa phép, vừa đủ xài là đã vội vã xách ba lô đi làm mạo hiểm giả. Thật đáng buồn," cô bảo, giọng như thể chính mình không thuộc lứa trẻ vậy.
+"Đúng thế, có thể nói là chí mạng luôn ấy chứ. Khi đó muốn chiến đấu như một ma pháp sư, lúc nào tay em cũng phải chạm vào cây đũa phép. Cơ mà đám trẻ bây giờ vẫn cứ chọn dựa dẫm hoàn toàn vào đũa phép để dùng ma thuật đấy thôi. Đi đường đó dễ hơn nhiều mà. Mới nhập môn đã tập ngay với đũa phép, vừa đủ dùng là đã vội vã lên đường đi làm mạo hiểm giả. Thật đáng buồn," cô bảo, giọng cứ như thể bản thân không phải người trẻ tuổi vậy.
 
 Tôi định đùa một câu, nhưng thấy vẻ mặt cô nghiêm túc quá nên thôi. Đúng là cô đã quá tuổi kết hôn trung bình thật, nên bảo cô hết trẻ cũng chẳng sai. Tôi cũng trạc tuổi cô, chỉ nhỉnh hơn đôi chút. Có điều nếu xét về độ chín chắn trong tâm tính, người ta toàn nghĩ tôi trẻ con hơn cô nhiều.
 
@@ -122,7 +122,7 @@ Tôi gật đầu, sẵn sàng thử cây đũa phép mới.
 
 "Này, hai người lùi xa quá rồi đấy? Rốt cuộc cô nghĩ tôi tính làm cái trò gì hả?"
 
-Tôi không kìm được bèn lên tiếng hỏi. Lorraine bảo họ sẽ lùi lại, nhưng từ chỗ tôi nhìn ra thì hai người họ bé tí như hai chấm nhỏ. Khoảng cách này xa gấp mười lần lúc nãy chúng tôi đứng xem Alize làm. Không biết tôi đã làm gì khiến họ hoảng hay không, nhưng ngẫm lại thì một con Ma Cà Rồng hệ Undead quả thực cũng đáng để người ta phải đề phòng.
+Tôi không kìm được bèn lên tiếng hỏi. Lorraine bảo họ sẽ lùi lại, nhưng từ chỗ tôi nhìn ra thì hai người họ bé tí như hai chấm nhỏ. Khoảng cách này xa gấp mười lần lúc nãy chúng tôi đứng xem Alize làm. Không biết tôi đã làm gì khiến họ hoảng hay không, nhưng ngẫm lại thì một Ma Cà Rồng Undead quả thực cũng đáng để người ta phải đề phòng.
 
 "Bọn tôi sẵn sàng rồi, Rentt!" Lorraine hét với lại từ đằng xa. Chắc thế nghĩa là tôi dùng ma thuật được rồi. Ở khoảng cách xa tít tắp thế này, họa có chuyện gì điên rồ lắm mới làm họ bị vạ lây được, nên có khi vậy lại hay.
 
@@ -132,7 +132,7 @@ Thú thật, đây chẳng phải lần đầu tôi dùng đũa phép. Cơ mà �
 
 "Hỡi ngọn lửa, hãy lấy Ma Lực của ta làm nguồn nuôi dưỡng và hiển hiện trước mắt ta: Aliumage," tôi đọc câu chú, và lửa lập tức phun trào từ đầu đũa. Cảm giác như sức mạnh của mình được cây đũa khuếch đại lên gấp bội, tôi hoảng hốt thu bớt Ma Lực lại. Dù vậy, ngọn lửa dữ dội vẫn bùng cháy ngùn ngụt. May mà xung quanh chẳng có nhà cửa nào. Quyết định đứng xa tít tắp của Lorraine hóa ra lại quá sáng suốt. Xưa nay tôi vẫn rất tự tin vào khả năng điều khiển Ma Lực của mình, mà sau vụ này cũng đâm chột dạ.
 
-Đúng là tôi cần làm quen thêm với đũa phép, nhưng thấy lửa bùng lên tôi không hề hoảng hốt như Alize. Dù gì cũng sống nhiều hơn con bé chừng hai mươi lăm năm, bản lĩnh nó phải khác chứ. Tôi ngưng truyền Ma Lực, chỉnh hướng đũa rồi đứng nhìn thêm vài giây. Thấy lửa đã tắt hẳn, tôi bèn vẫy tay gọi Lorraine và Alize.
+Đúng là tôi cần làm quen thêm với đũa phép, nhưng thấy lửa bùng lên tôi không hề hoảng hốt như Alize. Dù sao tôi cũng đã sống trên đời chừng hai mươi lăm năm, bản lĩnh tất nhiên phải khác. Tôi ngưng tiếp Ma Lực cho ngọn lửa và điều chỉnh hướng của nó trong lúc quan sát thêm vài giây. Thấy lửa đã tắt hẳn, tôi bèn vẫy tay gọi Lorraine và Alize.
 
 "Qua đây được rồi!" tôi gọi to.
 
@@ -140,7 +140,7 @@ Hai người họ nán lại quan sát một chốc xem có an toàn thật khô
 
 "Aliumage của anh to khủng khiếp luôn ấy," Alize trầm trồ.
 
-"May mà tụi này đứng tít đằng kia đấy, không thì khét lẹt thành than rồi," Lorraine mỉm cười bảo. Thật ra chắc cô ấy cũng dựng được kết giới lên bảo vệ cả hai thôi, nhưng rủi ro thì ai mà biết trước được. Nhìn chung cô ấy nói chẳng sai.
+"May mà chúng tôi đứng tít đằng kia đấy, không thì khét lẹt thành than rồi," Lorraine mỉm cười bảo. Thật ra chắc cô cũng dựng kịp kết giới để bảo vệ cả hai thôi, nhưng rủi ro thì ai mà biết trước được. Nhìn chung cô nói chẳng sai.
 
 "Cơ mà lửa to cỡ đó thì hơi quá đà đối với Aliumage rồi. Biết là anh nhiều Ma Lực, nhưng cái phép ấy làm sao ra được ngọn lửa kinh thế."
 
@@ -160,7 +160,7 @@ Tôi quyết định thử phép Mah. Lorraine và Alize lại lùi ra xa phòng
 
 Nghe Lorraine ra hiệu, tôi liền niệm phép: "Hỡi dòng nước, hãy thấm nhuần Ma Lực của ta và ngưng tụ trước mắt ta: Mah."
 
-Các phép thuộc Ma Thuật Sinh Hoạt đều có câu xướng niệm na ná nhau. Vốn là ma thuật cơ bản nên cấu trúc của chúng rất đơn giản, có điều chính vì vậy mà người ta lại càng dễ lẫn lộn giữa các câu chú. Thành thử lúc Lorraine hỏi có nhớ phép không, tôi mới chẳng dám chắc chắn mười mươi.
+Các phép thuộc Ma Thuật Sinh Hoạt đều có câu xướng niệm na ná nhau. Vốn là ma thuật cơ bản nên cấu trúc của chúng rất đơn giản, có điều chính vì vậy mà người ta lại càng dễ lẫn lộn giữa các câu chú. Thành thử lúc Lorraine hỏi có nhớ phép không, tôi mới chẳng dám tự tin hoàn toàn.
 
 Tôi không dám chắc mình đọc có đúng từng chữ không, nhưng thấy Ma Lực dồn vào đũa thì cũng yên tâm phần nào. Rồi nước bắt đầu đọng lại nơi đầu đũa. Đó là một quả cầu nước khá lớn, nhưng chẳng thấm vào đâu so với quầng lửa to tướng đến buồn cười lúc nãy. Khối nước này có chăng chỉ nhỉnh hơn ngọn lửa của Alize một chút, vậy thôi.
 
@@ -172,4 +172,4 @@ Thấy kết quả sờ sờ ra đó, tôi cũng đành chịu. "Ít nhất thì
 
 "Tôi cũng muốn thử thêm lắm, nhưng đâu thể cái gì cũng lôi ra thử được. Dù gì đây cũng là hai phép duy nhất anh biết dùng, đúng không? Dạy câu chú thì chắc anh thi triển được mấy phép sơ cấp khác ngay thôi, nhưng mới cho anh thử Ma Thuật Sinh Hoạt mà đã thót tim thế này rồi. Hôm nay dừng ở đây thôi," Lorraine dứt khoát kết thúc buổi tập.
 
-Khoản này thì cô ấy nói đúng. Với hai phép đó tôi dùng quen tay rồi nên còn kiểm soát được, chứ phép lạ hoắc thì chẳng biết thế nào. Chắc cũng làm được thôi, nhưng lỡ xảy ra sự cố thì trở tay không kịp. Bản thân tôi còn chưa hiểu hết cơ thể mình, nên cẩn thận một chút cũng chẳng thừa.
+Khoản này thì cô nói đúng. Với hai phép đó tôi đã có đủ kinh nghiệm để duy trì chúng, chứ gặp phép lạ thì chẳng nói trước được. Chắc cũng làm được thôi, nhưng lỡ xảy ra sự cố thì trở tay không kịp. Bản thân tôi còn chưa hiểu hết cơ thể mình, nên cẩn thận một chút cũng chẳng thừa.

@@ -18,7 +18,7 @@ Gắn nhiều viên Ma Tinh lên một chiếc nhẫn đúng là chuyện khó n
 
 "Thế thì trên gậy phép cũng đính được cả đống Ma Tinh nhỏ chứ ạ?" Alize gặng hỏi.
 
-"Đúng thế thật, nhưng bất kể chỗ trống nhiều hay ít, số lượng Ma Tinh mà một vật dẫn chịu được đều có giới hạn. Phần lớn chỉ gắn một viên, tay nghề khá thì được hai. Đồ thượng hạng mới dùng tới ba, còn loại mạnh đến mức khó tin thì được bốn viên. Trong vài mê cung còn có cả vật dẫn chứa nhiều hơn thế nữa. Thợ thủ công Truyền Thuyết Cấp có thể vượt qua giới hạn này, chứ phần lớn nhà giả kim dù cố hết sức cũng chỉ chạm tới mốc ba viên là cùng. Làm ra được một vật dẫn gắn bốn viên Ma Tinh mà vẫn ổn định thì đủ ngón nghề kiếm sống cả đời rồi đấy. Muốn thử không?"
+"Đúng thế thật, nhưng bất kể chỗ trống nhiều hay ít, số lượng Ma Tinh mà một vật dẫn chịu được đều có giới hạn. Phần lớn chỉ gắn một viên, tay nghề khá thì được hai. Đồ thượng hạng mới dùng tới ba, còn loại mạnh đến mức khó tin thì được bốn viên. Trong vài mê cung còn có cả vật dẫn chứa nhiều hơn thế nữa. Thợ thủ công Truyền Thuyết Cấp có thể vượt qua giới hạn này, chứ phần lớn nhà giả kim dù cố hết sức cũng chỉ chạm tới mốc ba viên là cùng. Làm ra được một vật dẫn gắn bốn viên Ma Tinh mà vẫn ổn định thì chỉ riêng ngón nghề đó thôi cũng đủ kiếm sống cả đời rồi đấy. Muốn thử không?"
 
 Tôi định bảo đòi hỏi thế thì vô lý quá, nhưng bản thân tôi cũng đang nhắm tới những mục tiêu mà người ngoài nhìn vào thấy ngớ ngẩn chẳng kém, nên lấy tư cách gì mà nói. Alize chắc cũng nghĩ vậy, nhưng cô bé lại tò mò sang chuyện khác.
 
@@ -30,15 +30,15 @@ Nghe như thể cô làm được cả loại bốn viên, nhưng cô chẳng bu
 
 Alize toan hỏi tiếp, nhưng Lorraine đã ngắt lời: "Nào, quay lại làm việc thôi. Làm tay cầm không dễ đâu, hai người phải tập trung đấy." Alize không kịp hỏi câu đó, nhưng trông cô bé cũng đã đủ hài lòng. Trong mắt cô bé, Lorraine vốn dĩ đã là một phụ nữ phi thường, nên cô dùng được ba hay bốn viên Ma Tinh thì có khác gì đâu. Tôi nhìn Lorraine cũng thấy thế.
 
-Bị Lorraine giục, tôi quay lại với khúc gỗ Ent Bụi Cây của mình. Nó vẫn nguyên như lúc tôi mới lượm về, chẳng khác gì một súc gỗ thô.
+Theo lời Lorraine giục, tôi quay lại với khúc gỗ Ent Bụi Cây của mình. Nó vẫn nguyên như lúc tôi mới lượm về, chẳng khác gì một súc gỗ thô.
 
-"Rót Ma Lực vào bề mặt," Lorraine nói. "Rồi điều khiển Ma Lực gọt đúng phần đó đi, cứ thế cho đến khi vừa cỡ. Nguyên liệu đang cầm khá to, tha hồ làm hỏng. Cứ thử đi nào."
+"Rót Ma Lực vào bề mặt," Lorraine nói. "Rồi điều khiển Ma Lực gọt đúng phần đó đi, cứ thế cho đến khi vừa cỡ. Nguyên liệu hai người đang cầm khá to, lỡ hỏng đôi chỗ cũng chẳng sao. Cứ thử đi nào."
 
 Tôi và Alize gật đầu rồi bắt tay vào việc. Đúng như tôi đoán, tôi chẳng gặp chút khó khăn nào khi gọt bỏ phần thừa. Alize thì chật vật hơn, lúc thì lẹm mất vài mẩu nhỏ, lúc lại lượn đường cong, có lúc chẳng bóc nổi gì ngoài lớp vỏ. Nhưng rốt cuộc cô bé vẫn gọt được vừa vặn kích thước cần dùng. Vẫn đáng nể như mọi khi.
 
 "Được rồi, giờ đến lúc nắn khúc gỗ thành đũa phép. Bước này về cơ bản cũng giống thế. Dùng Ma Lực nén và vót tròn khúc gỗ lại. Cơ mà lần đầu dễ hỏng lắm đấy Alize, nên em cứ lấy mấy mẩu gỗ thừa vừa gọt ra mà tập trước. Quen tay rồi hãy làm đồ thật. Được chứ?" Lorraine hỏi. Alize gật đầu.
 
-Tôi nhìn sang Lorraine xem mình có nên làm thế không. Vẻ mặt cô như muốn bảo tôi tự lo lấy thân. Nãy giờ tôi làm cái gì cũng nhoay nhoáy nên cô ưu tiên kèm Alize trước. Thế cũng đúng. Dù sao tôi cũng thích tự mày mò hơn.
+Tôi nhìn sang Lorraine xem mình có nên làm thế không. Vẻ mặt cô như muốn bảo tôi tự quyết định lấy. Nãy giờ tôi làm cái gì cũng nhoay nhoáy nên cô ưu tiên kèm Alize trước. Thế cũng đúng. Dù sao tôi cũng thích tự mày mò hơn.
 
 Cách làm thì nghe rồi, giờ chỉ việc thử rồi rút kinh nghiệm. Kẹt nỗi tôi phải giữ lại phần nguyên liệu vừa bóc vỏ, nên tôi cắt thêm một khúc gỗ thừa cùng cỡ để tập nắn đũa. Tôi thử vài cách khác nhau. Cảm giác hơi giống trò nặn đất sét. Đằng nào cũng là tập, đâu nhất thiết phải làm mỗi đũa phép, thế là tôi dùng Ma Lực nặn sang thứ khác.
 
@@ -52,7 +52,7 @@ Mắt Lorraine và Alize dán chặt vào hai bức tượng gỗ tạc chính h
 
 "Học cho nghiêm túc vào. Mấy thứ này tôi tịch thu," Lorraine nói rồi gom hai bức tượng lại. "Alize, em giữ bức này đi." Cô đưa cho Alize bức tượng tạc theo hình cô bé.
 
-Bao nhiêu công sức đổ vào đấy nên tôi cũng hơi tiếc, nhưng đang trong giờ học mà bỏ bê bài tập thì kêu ca gì được. Tôi có thể chống chế rằng đây cũng là một cách luyện tập gắn liền với bài học, nhưng đời nào Lorraine chịu nghe, cô sẽ chỉ coi đó là trò nghịch ngợm. Dưới mắt cô, làm được đến nước này thì thà bắt tay vào gọt đũa phép luôn cho xong. Mà cô nói cấm có sai. Đúng là tôi có đùa nghịch thật. Thấy có lỗi nên tôi vội vàng nắn cho xong cây đũa phép.
+Bao nhiêu công sức đổ vào đấy nên tôi cũng hơi tiếc, nhưng đang trong giờ học mà bỏ bê bài tập thì kêu ca gì được. Tôi có thể chống chế rằng đây cũng là một cách luyện tập gắn liền với bài học, nhưng đời nào Lorraine chịu nghe, cô sẽ chỉ coi đó là trò nghịch ngợm. Dưới mắt cô, làm được đến nước này thì thà bắt tay vào gọt đũa phép luôn cho xong. Mà nghĩ vậy cũng chẳng sai chút nào. Đúng là tôi có đùa nghịch thật. Thấy có lỗi nên tôi vội vàng nắn cho xong cây đũa phép.
 
 "Tiếp theo làm gì nữa?" tôi tươi tỉnh hỏi. Lorraine nhìn tôi bằng ánh mắt ngán ngẩm, nhưng rồi cũng bỏ qua.
 
@@ -82,7 +82,7 @@ Tôi và Alize làm theo. Khi Ma Lực chạy ngược lên thân đũa, tôi c�
 
 "Đây là các đường dẫn đấy ạ?" cô bé hỏi Lorraine.
 
-"Đúng rồi, nhưng chắc em cũng thấy đấy, chỉ mới nắn nguyên liệu thành hình cây đũa thì các đường dẫn đã bị kéo giãn rồi vẹo vọ lung tung rồi. Đũa phép mà cứ để thế thì chẳng hơn gì que củi. Ta phải gom mấy đường lộn xộn đó lại rồi nắn cho thẳng thớm. Cách làm cũng giống lúc tạo hình đũa thôi, cứ cho Ma Lực chạy từ đầu này sang đầu kia, đồng thời gom các nhánh lại với nhau. Làm được không nào?"
+"Đúng vậy, nhưng chắc em cũng thấy đấy, chỉ riêng chuyện nắn nguyên liệu thành hình cây đũa thôi đã làm các đường dẫn bị kéo giãn và uốn cong lung tung rồi. Đũa phép mà cứ để thế thì chẳng hơn gì que củi. Để khắc phục, chúng ta phải gom mấy đường lộn xộn đó lại rồi nắn cho thẳng thớm. Cách làm cũng giống lúc tạo hình đũa thôi, cứ cho Ma Lực chạy từ đầu này sang đầu kia, đồng thời gom các nhánh lại với nhau. Làm được không nào?"
 
 Chẳng biết có làm được không, nhưng ít ra tôi đã nắm được phương pháp. Tôi và Alize gật đầu bắt tay vào việc, và nhận ra đúng như Lorraine nói, bước này gần như y hệt bước trước. Nắn những đường dẫn ẩn sâu trong thân đũa thì độ khó có tăng lên đôi chút, nhưng thao tác về cơ bản vẫn vậy. Khác chăng là các đường dẫn trong đũa chạy tán loạn đủ hướng. Cảm giác hệt như đang tỉ mẩn vớt từng vệt bọt váng trên mặt nồi súp.
 
@@ -112,7 +112,7 @@ Tôi tự hỏi phải là người thầy cỡ nào mới khiến Lorraine nói
 
 "Cho em xem đũa phép của anh Rentt với!" Alize tò mò đòi xem. Cô bé mượn đũa của tôi rồi truyền Ma Lực vào. "Ủa, cái gì thế này? Khác hẳn của em luôn," cô bé trố mắt ngạc nhiên.
 
-"Thấy thế cũng phải, nhưng đừng vì vậy mà nản," Lorraine dỗ dành. "Nhìn mấy bức tượng gỗ lúc nãy là biết tay nghề Rentt quái đản cỡ nào rồi. Tôi còn chịu thua nữa là. Chứ nắn đường dẫn tỉ mỉ cỡ đó là cả một thử thách đấy."
+"Thấy thế cũng phải, nhưng đừng vì vậy mà nản," Lorraine dỗ dành. "Nhìn mấy bức tượng gỗ lúc nãy là biết Rentt khéo tay đến mức khác người rồi. Tôi còn chịu thua nữa là. Chứ nắn đường dẫn tỉ mỉ cỡ đó là cả một thử thách đấy."
 
 "Đến cô mà cũng thấy khó ạ?" Alize ngạc nhiên hỏi.
 
@@ -128,7 +128,7 @@ Rót Ma Lực vào đũa chừng nửa phút, đầu đũa của tôi liền tó
 
 "Chắc cũng không khó lắm."
 
-Mỗi tay phải làm một việc khác nhau, với vài người thì thế là quá khó nhằn. Nghĩ vậy mới thấy Alize làm tốt thật. Dù hơi chậm hơn tôi một nhịp, em vẫn duy trì ánh sáng ở đầu đũa trong lúc nạp Ma Lực vào Ma Tinh. Có thể do tôi thiên vị, nhưng con bé quả thực khéo tay đáng nể.
+Mỗi tay phải làm một việc khác nhau, với vài người thì thế là quá khó nhằn. Nghĩ vậy mới thấy Alize làm tốt thật. Dù hơi chậm hơn tôi một nhịp, em vẫn duy trì ánh sáng ở đầu đũa trong lúc nạp Ma Lực vào Ma Tinh. Có thể do tôi thiên vị, nhưng cô bé quả thực khéo léo đáng nể.
 
 "Có lẽ thử rồi hai người mới nhận ra, Ma Tinh ngốn nhiều Ma Lực hơn, không thì sẽ rơi vào cái cảnh lúng túng như bây giờ đấy. Lần sau làm vật dẫn thì nhớ lấy điều này," Lorraine bảo.
 
@@ -146,9 +146,9 @@ Vừa làm theo, ánh sáng từ viên Ma Tinh liền tự chuyển hướng v�
 
 "Tạo thành hình gì cũng được hả?"
 
-"Không sao, đoạn này tha hồ sáng tạo. Cơ mà mới lần đầu thì tôi khuyên đừng vẽ vời quá, dẫu vậy—"
+"Hình gì cũng được, đoạn này nhiều người tha hồ sáng tạo lắm. Cơ mà mới làm lần đầu thì tôi khuyên đừng bày vẽ cầu kỳ quá, dẫu vậy—"
 
-"Cô Lorraine ơi!" Alize reo lên. Ma Tinh của cô bé cũng đã bắt đầu phát sáng.
+"Học Sĩ Lorraine ơi!" Alize reo lên. Ma Tinh của cô bé cũng đã bắt đầu phát sáng.
 
 "Thôi, anh tự lo lấy nhé," Lorraine nói rồi quay sang chỉ cho Alize.
 
