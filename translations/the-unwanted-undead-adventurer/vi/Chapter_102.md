@@ -56,13 +56,13 @@ Khu vực này không còn thuộc sảnh bán hàng nữa, mà là sảnh chờ
 
 "Lâu rồi tôi không ghé qua đây. Không ngờ giờ ở đây lại có cả thứ như thế này..." Tôi ngạc nhiên nhìn chiếc thang máy, nói.
 
-"À, vâng. Chúng tôi mới nhận và lắp đặt thiết bị này gần đây thôi. Nó do các nghệ nhân, tức những thợ chế tác ma cụ trên kinh đô làm ra đấy. Ở Maalt chỉ có riêng cửa hàng này là lắp đặt thứ như vậy thôi. Nhưng... trước đây ngài từng ghé cửa hàng chúng tôi rồi ư? Xin thứ lỗi cho tôi hỏi câu này, đã bao lâu rồi kể từ lần cuối ngài ghé thăm nơi đây...?"
+"À, vâng. Chúng tôi mới nhận và lắp đặt thiết bị này gần đây thôi. Nó do các nghệ nhân, tức những thợ chế tác ma cụ trên vương đô làm ra đấy. Ở Maalt chỉ có riêng cửa hàng này là lắp đặt thứ như vậy thôi. Nhưng... trước đây ngài từng ghé cửa hàng chúng tôi rồi ư? Xin thứ lỗi cho tôi hỏi câu này, đã bao lâu rồi kể từ lần cuối ngài ghé thăm nơi đây...?"
 
-Thợ chế tác ma cụ trên kinh đô cơ à...
+Thợ chế tác ma cụ trên vương đô cơ à...
 
 Trước đây tôi từng đọc về thang máy trong một cuốn sách dày của Lorraine, nhưng đây là lần đầu tiên tôi được tận mắt nhìn thấy ngoài đời thực. Theo những gì tôi nhớ thì những cỗ máy này được làm ra nhờ kỹ thuật từ các vùng đất phía tây. Từng có lúc tôi tự hỏi bao giờ Vương Quốc Yaaran mới tiếp nhận những kỹ thuật như thế, nhưng xem ra nơi này đã áp dụng rồi.
 
-Nếu một thị trấn vùng biên như Maalt cũng có thang máy, vậy có nghĩa là trên kinh đô đã có rất nhiều cỗ máy thế này rồi chăng? Hừm... Xét việc chỉ một số nghệ nhân nhất định mới chế tạo được chúng, tôi đoán chúng cũng chẳng phổ biến đến thế. Phải chăng đây là màn phô trương thanh thế của riêng thương hội này? Một cách khẳng định sự giàu có chăng?
+Nếu một thị trấn vùng biên như Maalt cũng có thang máy, vậy có nghĩa là trên vương đô đã có rất nhiều cỗ máy thế này rồi chăng? Hừm... Xét việc chỉ một số nghệ nhân nhất định mới chế tạo được chúng, tôi đoán chúng cũng chẳng phổ biến đến thế. Phải chăng đây là màn phô trương thanh thế của riêng thương hội này? Một cách khẳng định sự giàu có chăng?
 
 Quan trọng hơn, người nhân viên này đang hỏi về lần ghé thăm trước của tôi. Chẳng lẽ anh ta nhớ được mặt hết thảy khách hàng của mình sao?
 
@@ -76,7 +76,7 @@ Dù vậy, đây vẫn là một câu hỏi rất phiền phức với tôi. Tô
 
 Đúng như người đàn ông nói, lá Hoonoki Maalt chỉ có Thương hội Witta bán, còn Thương hội Stheno thì không nhập mặt hàng này. Nhưng dĩ nhiên, đó chỉ là cái cớ tôi nghĩ ra thôi. Dù sao thấy người nhân viên có vẻ tin lời, tôi cũng nhẹ cả người.
 
-Nhân tiện nói thêm, loại lá đó cũng chẳng phải mặt hàng bán đắt như tôm tươi. Ngay từ đầu cửa hàng có muốn bày bán hay không hoàn toàn là tùy ở họ. Có điều với cánh mạo hiểm giả chúng tôi, nó cũng coi như một thứ đồ thiết yếu, và Thương hội Witta đã bán loại lá này từ xưa đến nay rồi. Vì mặt hàng này đã gắn liền với tên tuổi tiệm đó, các cửa hiệu khác hiếm khi nhập về, hoặc thậm chí chẳng bán bao giờ.
+Nhân tiện nói thêm, loại lá đó cũng chẳng phải mặt hàng bán chạy gì cho cam. Ngay từ đầu cửa hàng có muốn bày bán hay không hoàn toàn là tùy ở họ. Có điều với cánh mạo hiểm giả chúng tôi, nó cũng coi như một thứ đồ thiết yếu, và Thương hội Witta đã bán loại lá này từ xưa đến nay rồi. Vì mặt hàng này đã gắn liền với tên tuổi tiệm đó, các cửa hiệu khác hiếm khi nhập về, hoặc thậm chí chẳng bán bao giờ.
 
 Vì loài cây này mọc rất nhiều quanh Maalt, nhân viên Thương hội Stheno muốn bán cũng chẳng khó khăn gì, nhưng xét việc phần lớn mạo hiểm giả đều cứ thế sang Witta mua nên làm vậy cũng chẳng có mấy ý nghĩa. Họ còn có bao nhiêu mặt hàng khác kéo khách đến tận cửa rồi.
 

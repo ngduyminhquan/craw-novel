@@ -14,7 +14,7 @@ Tôi tiếp tục trèo lên ngọn núi bay. Chẳng mấy chốc đã thấy m
 
 Bình thường, muốn định hướng ở đây bắt buộc phải có bản đồ chi tiết cấu trúc lòng núi, và mạo hiểm giả hẳn phải bỏ tiền ra mua. Còn tôi thì có Bản Đồ Akasha. Dù nó chỉ hiện những khu vực đích thân tôi từng thám hiểm, nhưng bấy nhiêu cũng đủ để tôi chẳng lo bị lạc. Đỡ tốn tiền mua thêm bản đồ thương mại cũng là một điểm cộng. Bù lại, những ghi chú và điểm đáng lưu ý thường thấy trên bản đồ bán ngoài thị trường lại không có, bao gồm cả các khu vực người ta hay đào quặng. Xem ra tôi đành phải tự thân mò mẫm lấy mọi vị trí thôi.
 
-Rảo bước dọc đường hầm, tôi bắt gặp một vách đá bị sập một phần. Nhìn qua thì hẳn đã có ai đó đào quặng tại đúng chỗ này trước tôi. Tuy một số chỗ sạt lở kiểu này có lưu lại dấu vết khai thác của người đi trước, nhưng phần lớn thì không. Dẫu vậy, khả năng quặng vẫn còn sót lại quanh đây là rất cao.
+Rảo bước dọc đường hầm, tôi bắt gặp một vách đá bị sập một phần. Nhìn qua thì hẳn đã có ai đó đào quặng tại đúng chỗ này trước tôi. Tuy một số chỗ kiểu này lưu lại dấu vết khai thác của người đi trước, nhưng phần lớn các nơi khác thì không. Dẫu vậy, khả năng quặng vẫn còn sót lại quanh khu vực này là rất cao.
 
 Tôi rút từ túi ma thuật ra một vật nhỏ trông như mảnh ván gỗ. Đó là một tấm bảng gỗ rẻ tiền, thứ dụng cụ có khả năng phản ứng với dấu vết ma thuật mờ nhạt. Bản thân nó cũng là một loại ma cụ.
 
@@ -48,7 +48,7 @@ Tôi cậy được mẩu quặng mình cần dễ dàng đến bất ngờ. Có
 
 Tôi xoay xoay mẩu quặng chứa Ma Thiết trên tay. Phần lớn mẩu này chỉ toàn tạp chất vô dụng, nhìn lướt qua là thấy ngay.
 
-Nếu dùng loại nguyên liệu này, tôi sẽ phải đào một lượng cực lớn mới chiết xuất nổi chút Ma Thiết, mà quặng phẩm cấp cỡ này thì khó lòng rèn ra món vũ khí cho ra hồn. Tôi đâu định làm một kiệt tác thủ công vượt xa chuẩn mực thông thường, nhưng mẩu quặng này đơn giản là... quá nhiều tạp chất so với nhu cầu. Bình thường tôi vẫn chấp nhận được kim loại lẫn đôi chút tạp chất, song mạch quặng này thực sự quá tệ.
+Nếu dùng loại nguyên liệu này, tôi sẽ phải đào một lượng cực lớn mới chiết xuất nổi chút Ma Thiết, mà quặng chất lượng cỡ này thì khó lòng rèn ra món vũ khí cho ra hồn. Tôi đâu định làm một kiệt tác thủ công vượt xa chuẩn mực thông thường, nhưng mẩu quặng này đơn giản là... quá nhiều tạp chất so với nhu cầu. Bình thường tôi vẫn chấp nhận được kim loại lẫn đôi chút tạp chất, nhưng chất lượng của mạch quặng này thực sự quá tệ.
 
 Đúng là tôi đã tốn không ít công sức mới cuốc được mẩu quặng này, nhưng cuối cùng tôi vẫn vứt nó lại trên đất, quyết đi tìm mạch khác ngon hơn.
 
@@ -92,37 +92,37 @@ Tôi lúng túng chẳng biết nói gì, miệng há hốc loay hoay tìm lời
 
 Lại một giọng nói khác cất lên từ phía sau tôi. Không phải phát ra từ cổ họng tôi.
 
-Có vẻ như còn ai đó ở sau lưng, nên tôi quay người lại, để rồi chạm mặt một kẻ kỳ dị khoác chiếc áo chùng cũ rách tả tơi.
+Có vẻ như còn ai đó ở sau lưng, nên tôi quay người lại, để rồi chạm mặt một kẻ kỳ dị khoác chiếc áo choàng cũ rách tả tơi.
 
-Kẻ khoác áo chùng kia trông chẳng bình thường chút nào. Nhìn vào người đó, tôi bất giác thấy đây là một sự tồn tại dị thường mà mình không tài nào hiểu nổi, lòng dâng lên nỗi bất an sâu sắc. Có vẻ kẻ đó đang suy nghĩ, chìm trong dòng suy tưởng trước câu hỏi của cô bé.
+Kẻ khoác áo choàng kia trông chẳng bình thường chút nào. Nhìn vào người đó, tôi bất giác thấy đây là một sự tồn tại xa lạ mà mình không tài nào hiểu nổi, lòng dâng lên nỗi bất an sâu sắc. Có vẻ kẻ đó đang suy nghĩ, chìm trong dòng suy tưởng trước câu hỏi của cô bé.
 
 Rốt cuộc kẻ này là ai chứ...
 
-Ý nghĩ ấy vừa lướt qua đầu thì cô bé đã bước xuyên thẳng qua người tôi, tiếp tục nói với kẻ khoác áo chùng. Giờ đứng nhìn từ một cự ly nhất định, tôi mới nhận ra bóng dáng cô bé có phần... trong suốt.
+Ý nghĩ ấy vừa lướt qua đầu thì cô bé đã bước xuyên thẳng qua người tôi, tiếp tục nói với kẻ khoác áo choàng. Giờ đứng nhìn từ một khoảng cách nhất định, tôi mới nhận ra bóng dáng cô bé có phần... trong suốt.
 
 Liệu cô bé có thực sự tồn tại? Hay đơn giản chỉ là không hiện diện bằng xương bằng thịt ở đây? Vì thế nên mới không nhìn thấy tôi chăng?
 
-Nhìn kỹ lại, kẻ khoác áo chùng dường như cũng hơi trong suốt.
+Nhìn kỹ lại, kẻ khoác áo choàng dường như cũng hơi trong suốt.
 
 "Không biết ư? Ngươi không biết mình từ đâu tới sao? Muốn tới được đây thì hẳn ngươi phải đi từ nơi khác đến chứ... vậy mà lại không biết ư?" cô bé hỏi.
 
-Bóng người khoác áo chùng lắc đầu. "Ta... Ta không biết. Ta không biết. Ta không biết... gì cả. Ta... Ta là... Ta là thứ gì? Đây là đâu?!"
+Bóng người khoác áo choàng lắc đầu. "Ta... Ta không biết. Ta không biết. Ta không biết... gì cả. Ta... Ta là... Ta là thứ gì? Đây là đâu?!"
 
 Kẻ đó vừa gào lên vừa run rẩy dữ dội hơn. Ngay sau đó, chiếc mũ trùm đầu tuột hẳn ra.
 
-...Khoan đã nào.
+...Này này.
 
 Tôi chẳng thể ngờ mình lại thấy cảnh tượng này, trong lòng dâng lên nỗi kinh ngạc tột độ.
 
-Kẻ khoác áo chùng đứng trước mặt tôi... lại là một Khô Lâu. Một Khô Lâu mang ánh sáng le lói nơi hốc mắt... Một Khô Lâu có tư duy logic và biết suy luận. Trên hộp sọ nó dường như có một hình xăm phức tạp tỏa ánh lam mờ ảo. Tôi chưa từng thấy hình xăm nào như thế bao giờ... nhưng tuyệt đối không thể nhầm lẫn... đích thị là một Khô Lâu.
+Kẻ khoác áo choàng đứng trước mặt tôi... lại là một Khô Lâu. Một Khô Lâu mang ánh sáng le lói nơi hốc mắt... Một Khô Lâu có tư duy logic và biết suy luận. Trên hộp sọ nó dường như có một hình xăm phức tạp tỏa ánh lam mờ ảo. Tôi chưa từng thấy hình xăm nào như thế bao giờ... nhưng tuyệt đối không thể nhầm lẫn... đích thị là một Khô Lâu.
 
 Một Khô Lâu, loài quái vật y hệt hình hài của tôi dạo trước.
 
 ...Đó rốt cuộc là ai nhỉ, tôi tự hỏi.
 
-Tôi bước tới gần hai người họ, muốn nhìn tận mắt con Khô Lâu khoác áo chùng kỳ lạ này ở cự ly gần.
+Tôi bước tới gần hai người họ, muốn nhìn tận mắt con Khô Lâu khoác áo choàng kỳ lạ này ở cự ly gần.
 
-Ngặt nỗi, như cảm nhận được ý định của tôi, bóng người khoác áo chùng từ từ nhạt đi rồi biến mất hẳn vào không khí. Cô bé tra hỏi khi nãy cũng biến mất theo, hình bóng con bé phai dần sắc màu rồi tan vào hư vô. Giữa đường hầm trơ trọi chỉ còn lại mình tôi cùng những vách đá lặng câm xung quanh. Cảm giác cô độc đến lạ lùng, cứ như những gì vừa diễn ra trước mắt chẳng qua chỉ là một ảo ảnh.
+Ngặt nỗi, như cảm nhận được ý định của tôi, bóng người khoác áo choàng từ từ nhạt đi rồi biến mất hẳn vào không khí. Cô bé tra hỏi khi nãy cũng biến mất theo, hình bóng con bé phai dần sắc màu rồi tan vào hư vô. Giữa đường hầm trơ trọi chỉ còn lại mình tôi cùng những vách đá lặng câm xung quanh. Cảm giác cô độc đến lạ lùng, cứ như những gì vừa diễn ra trước mắt chẳng qua chỉ là một ảo ảnh.
 
 "Rốt cuộc chuyện đó là sao chứ...?" tôi bất giác lẩm bẩm.
 
@@ -172,7 +172,7 @@ Nếu Goblin thông thường là lũ nhãi nhép phiền toái chỉ biết c�
 
 Đáng sợ thật sự.
 
-Tốc độ vung đòn kết hợp với sức mạnh cơ bắp thuần túy biến Goblin Mỏ Quặng thành đối thủ đáng gờm hơn Lizardman rất nhiều. Tệ hơn nữa, chúng còn biết sử dụng binh khí bài bản, từng động tác đều toát ra trình độ võ thuật nhất định.
+Tốc độ vung đòn kết hợp với sức mạnh cơ bắp thuần túy biến Goblin Mỏ Quặng thành đối thủ đáng gờm hơn Lizardman rất nhiều. Tệ hơn nữa, chúng còn được rèn luyện cách dùng vũ khí, từng động tác đều toát ra trình độ võ thuật nhất định.
 
 Dù đã dính một kiếm của tôi, con Goblin chẳng mấy chốc đã trấn tĩnh lại sau cơn hoảng loạn, trừng mắt đầy đe dọa về phía tôi. Quả đúng như dự đoán, càng xuống tầng sâu quái vật càng khó xơi...
 
@@ -180,7 +180,7 @@ Tôi chợt nghĩ nán lại đây một dạo để hấp thu sinh mệnh lực
 
 Dẫu vậy, tôi vẫn chưa dính vết thương nào nghiêm trọng, vẫn đang xoay xở đánh ngang ngửa với kẻ địch dù có phần căng thẳng. Cơ mà nếu dấn sâu hơn nữa thì gay go thật sự.
 
-Hay là mình cứ thử chiến đấu ở độ khó đó xem, biết đâu liên tục đặt mình vào chỗ hiểm nguy lại giúp bản thân bứt phá...? Không, không được. Làm thế thì quá đỗi liều lĩnh.
+Hay là mình cứ thử chiến đấu ở độ khó đó xem, biết đâu liên tục đặt mình vào chỗ hiểm nguy lại giúp bản thân bứt phá...? Không, không được. Làm thế thì liều lĩnh quá.
 
 Dù sao thì mấy chuyện đó để về nhà hẵng tính. Trước mắt, quan trọng nhất là phải xử lý con Goblin Mỏ Quặng này đã.
 

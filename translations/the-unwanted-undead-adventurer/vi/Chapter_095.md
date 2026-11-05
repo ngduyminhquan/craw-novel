@@ -42,7 +42,7 @@ Tính đi tính lại, tôi chỉ còn đúng một đường: đối đầu tr�
 
 Tôi sẽ cẩn thận men theo con đường, vừa giữ không để trượt chân, vừa đánh và hất văng đối thủ xuống vực. Nếu lỡ rơi xuống vì lý do gì, đây sẽ là dịp tốt để thử đôi cánh, dù tôi chẳng dám chắc chúng có tác dụng hay không. Cơ mà tốt nhất là đừng có rơi...
 
-Thôi thì, lên đường nào.
+Thôi thì, đi thôi.
 
 Lũ quái vật đã đi được nửa con đường đá. Cả thảy có ba con. Dường như bản thân mê cung cũng tự biết điều chỉnh, nên mới chỉ có ba con chứ không phải cả đàn. Nếu người ta cứ đứng ỳ một chỗ không đi, quái vật kéo xuống đường sẽ ngày một đông. Còn cứ bước tới bình thường thì chắc chúng sẽ không ùa ra dồn dập nữa.
 
@@ -140,7 +140,7 @@ Tôi vung một nhát chém ngang trúng giữa người con quái, hất văng 
 
 Chưa phải lúc dừng lại. Tôi lấy đà chạy tiếp về phía ngọn núi bay. Biết rõ sau lưng vẫn còn một con Lizardman, nhưng không thể nán lại đây đánh tiếp. Tôi chẳng ham hố gì cảnh vừa giao chiến vừa nơm nớp lo rơi xuống vực.
 
-Vả lại tôi cũng chẳng giỏi chịu độ cao. Tuy có vài điểm tôi cũng thích, nhưng rơi vào hoàn cảnh có thể sẩy chân mất mạng bất cứ lúc nào thì quả thực kinh hoàng. Thế nên tôi mới dốc sức chạy thục mạng để tới được nền đất vững chãi... Cốt sao chạm tới ngọn núi bay kia, nơi tôi không còn phải lo sợ vực thẳm nữa.
+Vả lại tôi cũng chẳng ưa gì độ cao. Tuy có vài điểm ở chỗ cao tôi cũng thích, nhưng rơi vào hoàn cảnh có thể sẩy chân mất mạng bất cứ lúc nào thì quả thực kinh hoàng. Thế nên tôi mới dốc sức chạy thục mạng để tới được nền đất vững chãi... Cốt sao chạm tới ngọn núi bay kia, nơi tôi không còn phải lo sợ vực thẳm nữa.
 
 Ngoảnh lại, tôi bắt gặp ánh mắt của con Lizardman cuối cùng đang đuổi rát phía sau. Mắt nó đỏ ngầu, chắc đang điên tiết vì thấy đồng bọn bỏ mạng.
 
@@ -152,9 +152,9 @@ Con Lizardman khựng lại đối mặt với tôi, chĩa sẵn vũ khí rồi 
 
 Mới ban nãy thôi, cảnh này chắc chắn sẽ làm tôi kinh hãi. Thể trọng của nó cộng thêm tầm đánh của ngọn giáo càng nhân đôi nỗi sợ rơi xuống vực. Nhưng giờ đã đứng trên nền đất vững chãi, tôi chẳng còn gì phải sợ nữa.
 
-Tôi cũng lao thẳng về phía con quái, vờ như muốn đối đầu trực diện... nhưng tới giây cuối cùng liền lách sang phải. Một nhát chém ngang chuẩn xác găm sâu vào thân mình nó. Gần như ngay lập tức, tôi bồi thêm một đường kiếm vào chân, khiến con Lizardman thoáng lảo đảo chúi về phía trước vì lực đòn đánh. Đây chính là khoảnh khắc tôi chờ đợi: phần cổ nó đã lộ ra. Dồn một lượng lớn Ma Lực vào vũ khí, tôi giáng mạnh kiếm xuống cổ nó, chém phập qua da, gân và xương. Lưỡi kiếm vấp phải lực cản khá mạnh nhưng chẳng cầm cự được lâu, đầu con Lizardman liền rơi xuống.
+Tôi cũng lao thẳng về phía con quái, vờ như muốn đối đầu trực diện... nhưng tới giây cuối cùng liền lách sang phải. Một nhát chém ngang chuẩn xác găm sâu vào thân mình nó. Gần như ngay lập tức, tôi bồi thêm một đường kiếm vào chân, khiến con Lizardman thoáng lảo đảo chúi về phía trước vì lực đòn đánh. Đây chính là khoảnh khắc tôi chờ đợi: phần cổ nó đã lộ ra. Truyền một lượng lớn Ma Lực vào vũ khí, tôi giáng mạnh kiếm xuống cổ nó, chém phập qua da, gân và xương. Lưỡi kiếm vấp phải lực cản khá mạnh nhưng chẳng cầm cự được lâu, đầu con Lizardman liền rơi xuống.
 
-Trận chiến diễn ra rất khác so với những lần đánh rồi rút trước đây của tôi. Thiếu không gian xoay xở quả là một thử thách không nhỏ. Lại thêm một lời nhắc nhở rằng tôi cần phải rèn luyện nhiều hơn trong những tình huống thế này, để có thể bung hết sức khi thực chiến.
+Trận chiến diễn ra rất khác so với những lần đánh rồi rút trước đây của tôi. Thiếu không gian xoay xở quả là một thử thách không nhỏ. Lại thêm một lời nhắc nhở rằng tôi cần phải rèn luyện nhiều hơn trong những tình huống thế này, để có thể phát huy hết sức khi thực chiến.
 
 Dù sao đi nữa, vậy là tôi đã vượt qua được chướng ngại đáng kể đầu tiên của tầng bốn.
 

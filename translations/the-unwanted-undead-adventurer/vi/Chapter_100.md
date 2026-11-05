@@ -96,11 +96,11 @@ Thế nhưng, Lorraine nhanh chóng gạt đi nỗi lo của tôi.
 
 "Hiệu ứng... đặc biệt cơ à?"
 
-Lorraine gật đầu giải thích. "Tôi không dám chắc mẩu quặng trên tay này có tác dụng y như thế không, nhưng mà... Chẳng hạn một thanh kiếm rèn từ loại quặng nhiễm ma thuật này rất có thể triệu hồi được mũi thương bằng đất đá mà không hề tốn Ma Lực của người dùng. Nói cách khác, quặng này có thể dùng để đúc ma kiếm, ma giáp... thậm chí cả ma cụ tương tự. Khả năng đó khá cao đấy."
+Lorraine gật đầu giải thích. "Tôi không dám chắc mẩu quặng trên tay này có tác dụng y như thế không, nhưng mà... Chẳng hạn một thanh kiếm rèn từ loại quặng nhiễm ma thuật này rất có thể triệu hồi được những mũi Thạch Thương mà không hề tốn Ma Lực của người dùng. Nói cách khác, quặng này có thể dùng để đúc ma kiếm, ma giáp... thậm chí cả ma cụ tương tự. Khả năng đó khá cao đấy."
 
-Ma kiếm và ma giáp... Nói đơn giản là những trang bị đã được yểm ma thuật mạnh mẽ. Chúng là những món trang bị rất đặc biệt và cực kỳ quý hiếm, muốn mua thì tốt nhất nên chuẩn bị tinh thần nhìn vài đồng xu bạch kim bay biến khỏi ví.
+Ma kiếm và ma giáp... Nói đơn giản là những trang bị đã được yểm ma thuật mạnh mẽ. Chúng là những món trang bị rất đặc biệt và cực kỳ quý hiếm, muốn mua thì tốt nhất nên chuẩn bị tinh thần nhìn vài đồng xu bạch kim bay biến khỏi hầu bao.
 
-Nói vậy chứ thực tế không ít người vẫn dùng loại vũ khí này. Họ hoặc là những người có bản lĩnh cao cường, hoặc là kẻ lắm tiền nhiều của. Còn một mạo hiểm giả hạng hai như tôi thì bình thường chẳng bao giờ dính dáng tới mấy món đồ kiểu đó. Họa may có ngày được cầm một món trên tay, thì cũng phải sau bao ngày cày cuốc làm đủ thứ ủy thác để tích góp một khoản tiền lớn. Hoặc là tôi thăng hạng mạo hiểm giả, trở nên nổi tiếng rồi được thân chủ tặng thưởng. Ồ, hay là gặp may nhặt được một món trong rương báu dưới mê cung cũng nên.
+Nói vậy chứ thực tế không ít người vẫn dùng loại vũ khí này. Họ hoặc là những người có bản lĩnh cao cường, hoặc là kẻ lắm tiền nhiều của. Còn một mạo hiểm giả hạng hai như tôi thì bình thường chẳng bao giờ dính dáng tới mấy món đồ kiểu đó. Họa may có ngày được cầm một món trên tay, thì cũng phải sau bao ngày làm lụng vất vả đủ thứ ủy thác để tích góp một khoản tiền lớn. Hoặc là tôi thăng hạng mạo hiểm giả, trở nên nổi tiếng rồi được thân chủ tặng thưởng. Ồ, hay là gặp may nhặt được một món trong rương báu dưới mê cung cũng nên.
 
 Nhưng nếu tự mình đặt rèn một món vũ khí như thế thì...
 

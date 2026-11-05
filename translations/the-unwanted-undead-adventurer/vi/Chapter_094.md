@@ -6,15 +6,15 @@ Ent Jyulapus tuy đều là quái vật dạng cây, nhưng có thể biến d�
 
 Tôi còn đụng phải một con Ent Jyulapus biến dị từ một bụi nho nào đó. Vừa trúng đòn, nó liền vỡ toang ra, bắn tung tóe vào người tôi toàn axit ăn mòn cực mạnh. Nó còn ném cả cầu axit về phía tôi, khó chịu vô cùng. Độc thì tôi miễn nhiễm rồi, nhưng axit thì vẫn thừa sức làm tôi bỏng rát. May mà chiếc áo choàng tôi mặc có vẻ kháng axit đôi chút nên mới không hề hấn gì. Dù vậy, tôi cũng chẳng muốn đụng phải thứ như thế thêm lần nào nữa.
 
-Thực ra sau lần chạm trán đó, tôi quyết định dừng săn Ent luôn. Nếu biết dùng ma thuật, tôi chỉ việc tung ma pháp từ xa là có thể an toàn phân biệt đâu là Ent, đâu là cây thường. Khổ nỗi lúc này tôi chưa làm nổi chuyện đó. Tôi cũng từng tính nhờ Edel, và sau đó cũng hỏi thử nó thật, nhưng rốt cuộc vẫn vô ích. Tôi tới đây kiếm nguyên liệu, mà Edel chỉ biết đúng hai chiêu: đao gió và hỏa cầu. Một chiêu thì chém nát thân gỗ, chiêu kia khéo thiêu rụi cả khu này mất. Có lẽ khống chế uy lực của mấy ma pháp mới học vẫn còn quá sức với Edel chăng? Dù sao đi nữa, cách duy nhất là tôi phải chịu khó học ma thuật đàng hoàng trong thời gian tới thôi.
+Thực ra sau lần chạm trán đó, tôi quyết định dừng săn Ent luôn. Nếu biết dùng ma thuật, tôi chỉ việc tung ma pháp từ xa là có thể an toàn phân biệt đâu là Ent, đâu là cây thường. Khổ nỗi lúc này tôi chưa làm nổi chuyện đó. Tôi cũng từng tính nhờ Edel, và sau đó cũng hỏi thử nó thật, nhưng rốt cuộc vẫn vô ích. Tôi tới đây kiếm nguyên liệu, mà Edel chỉ biết đúng hai chiêu: Phong Đao và hỏa cầu. Một chiêu thì chém nát thân gỗ, chiêu kia khéo thiêu rụi cả khu này mất. Có lẽ khống chế uy lực của mấy ma pháp mới học vẫn còn quá sức với Edel chăng? Dù sao đi nữa, cách duy nhất là tôi phải chịu khó học ma thuật đàng hoàng trong thời gian tới thôi.
 
 Tuy Edel là đứa nắm được cách dẫn truyền và định hình nguồn sức mạnh này trước, nhưng chắc một phần cũng vì nó muốn giúp tôi. Có rất nhiều loài quái vật biết hòa lẫn vào cảnh vật xung quanh, Ent Jyulapus chỉ là một trong số đó. Nếu lúc cần mà không có cách nào phân biệt được chúng ngoài việc cầm thứ gì đó phang thử vào từng cái cây thì phiền toái lắm. Tôi có là thứ gì đi nữa thì cũng đâu phải người tiền sử.
 
-Ở một nơi như Mê Cung Nguyệt Ảnh thì chẳng cần phải bận tâm mấy chuyện này, nhưng từ tầng này trở đi thì khó mà nói trước được. Đi tiếp được thì tốt thật đấy, song gặp lũ quái như thế cũng đáng ngại ghê. Xem ra tôi chỉ còn nước dốc sức mà rèn luyện thôi.
+Ở một nơi như Mê Cung Nguyệt Ảnh thì chẳng cần phải bận tâm mấy chuyện này, nhưng từ tầng này trở đi thì khó mà nói trước được. Đi sâu hơn được thì tốt thật đấy, nhưng gặp lũ quái như thế cũng đáng ngại ghê. Xem ra tôi chỉ còn nước dốc sức mà rèn luyện thôi.
 
 Tôi cất bước đi tiếp, chẳng mấy chốc khu rừng đã mở ra một khoảng đất trống thênh thang. Ngay chính giữa là một thứ lẽ ra không thể xuất hiện trong khu rừng tự nhiên: dãy bậc thang dẫn xuống dưới. Nơi nó dẫn tới không đâu khác ngoài tầng kế tiếp của mê cung này, tầng bốn.
 
-Trực giác mách bảo tôi ngay điều đó. Nhưng ngẫm lại, tôi nhận ra mình vẫn chưa hiểu vì sao những mê cung thế này lại được tạo nên. Ai đã dựng nên nơi đây, và nhằm mục đích gì? Tác phẩm của thần linh? Hay là của loài tiên? Giả thuyết thì nhiều vô kể, song sự tồn tại của mê cung đến nay vẫn là một trong những bí ẩn lớn nhất thế giới.
+Trực giác mách bảo tôi ngay điều đó. Nhưng ngẫm lại, tôi nhận ra mình vẫn chưa hiểu vì sao những mê cung thế này lại được tạo nên. Ai đã dựng nên nơi đây, và nhằm mục đích gì? Tác phẩm của thần linh? Hay là của loài tiên? Giả thuyết thì nhiều vô kể, nhưng sự tồn tại của mê cung đến nay vẫn là một trong những bí ẩn lớn nhất thế giới.
 
 Tất nhiên, tôi chẳng mảy may hy vọng mình giải mã nổi bí ẩn ấy. Việc đó cứ để cho những người như... Lorraine lo thì hơn.
 
@@ -36,7 +36,7 @@ Nghĩ lại thì lấy Ma Tinh của Sói Rừng cũng được. Nhưng đằng 
 
 Tính đi tính lại, xem ra tôi chẳng còn cách nào khác ngoài việc dọn sạch bầy Sói Rừng trước mắt.
 
-Tôi đặt tay bên hông, rút kiếm ra rồi rót Ma Lực vào cả thân kiếm lẫn cơ thể để cường hóa. Sói Rừng là loài cậy vào tốc độ, nên một đòn phủ đầu chuẩn xác chắc chắn sẽ quyết định thế trận về sau.
+Tôi đặt tay bên hông, rút kiếm ra rồi truyền Ma Lực vào cả thân kiếm lẫn cơ thể để cường hóa. Sói Rừng là loài cậy vào tốc độ, nên một đòn phủ đầu chuẩn xác chắc chắn sẽ quyết định thế trận về sau.
 
 Đòn đầu tiên nhất định phải thấy máu.
 
@@ -46,7 +46,7 @@ Tôi dậm mạnh chân xuống đất, vung kiếm tung đòn phủ đầu.
 
 ...Gyawaaan!!!
 
-Trúng một nhát chém, con quái vật rú lên chói tai rồi nhảy giật lùi ra xa. Mục tiêu của tôi không gì khác ngoài con Sói Rừng to lớn nhất bầy đang đứng gần lối cầu thang. Nếu đoán không lầm thì nó chính là con đầu đàn. Chưa dám chắc chắn nên tôi mới đánh đòn phủ đầu thử xem sao, song có vẻ như tôi đã đoán trúng phóc.
+Trúng một nhát chém, con quái vật rú lên chói tai rồi nhảy giật lùi ra xa. Mục tiêu của tôi không gì khác ngoài con Sói Rừng to lớn nhất bầy đang đứng gần lối cầu thang. Nếu đoán không lầm thì nó chính là con đầu đàn. Chưa dám chắc chắn nên tôi mới đánh đòn phủ đầu thử xem sao, nhưng có vẻ tôi đã đoán trúng phóc.
 
 Nghe tiếng hú, lũ Sói Rừng xung quanh lập tức cảnh giác, trừng mắt nhìn tôi từ chỗ chúng đứng. Rồi cả bầy đồng loạt lao tới.
 
@@ -72,9 +72,9 @@ Tôi thò tay vào túi ma thuật, lôi ra tảng thịt heo bọc trong lá Ho
 
 Mùi thịt thơm vừa thoảng qua mũi là bầy Sói Rừng lập tức lơ là cảnh giác trong chớp mắt. Đúng cơ hội tôi mong đợi.
 
-Tôi nhún người lao tới theo động tác quen thuộc, giơ cao kiếm rồi rót Ma Lực vào lưỡi kiếm, nhắm tung một đòn dứt điểm.
+Tôi nhún người lao tới theo động tác quen thuộc, giơ cao kiếm rồi truyền Ma Lực vào lưỡi kiếm, nhắm tung một đòn dứt điểm.
 
-Muốn chém đứt thứ gì thì dùng Ma Lực là hiệu quả nhất. Khổ nỗi dùng Ma Lực chém vật cứng thì hao tổn không ít. Tôi muốn giữ sức nên chỉ rót một lượng Ma Lực vừa phải vào lưỡi kiếm. Cơ mà cùng lắm nếu cạn sạch Ma Lực thì tôi quay về luôn là xong.
+Muốn chém đứt thứ gì thì dùng Ma Lực là hiệu quả nhất. Khổ nỗi dùng Ma Lực chém vật cứng thì hao tổn không ít. Tôi muốn giữ sức nên chỉ truyền một lượng Ma Lực vừa phải vào lưỡi kiếm. Cơ mà cùng lắm nếu cạn sạch Ma Lực thì tôi quay về luôn là xong.
 
 Như nhận ra tôi chỉ chực chờ khoảnh khắc này, con Sói Rừng đầu đàn liền sủa gấp ba tiếng ngắn. Chắc đại ý là: "Đừng có vì miếng thịt mà mất tập trung!" Nói nghe đạo mạo gớm, trong khi chính mõm nó cũng đang nhỏ dãi thèm thuồng trước mùi thơm của tảng thịt.
 
@@ -86,7 +86,7 @@ Có điều lũ sói nhận ra thì đã muộn. Tới lúc chúng hoàn hồn n
 
 Nhưng chúng vẫn chém đứt được chứ không phải là bất khả thi. Có khi đây là lời nhắc từ mê cung, rằng chuỗi tầng nông nơi quái vật dễ dàng bị hạ chỉ bằng chút ít Ma Lực đã dừng lại tại đây.
 
-Tôi gồng cơ tay, tăng thêm lượng Ma Lực rót vào kiếm. Con sói bị đâm trúng lập tức khựng lại. Cùng cảm giác nặng trịch, lưỡi kiếm lún sâu hơn vào da thịt nó. Tôi dứt khoát kéo phăng lưỡi kiếm qua, chém ngọt đứt lìa thớ thịt con quái. Một tiếng bịch nặng nề vang lên, đầu con Sói Rừng đã rơi xuống đất.
+Tôi gồng cơ tay, tăng thêm lượng Ma Lực truyền vào kiếm. Con sói bị đâm trúng lập tức khựng lại. Cùng cảm giác nặng trịch, lưỡi kiếm lún sâu hơn vào da thịt nó. Tôi dứt khoát kéo phăng lưỡi kiếm qua, chém ngọt đứt lìa thớ thịt con quái. Một tiếng bịch nặng nề vang lên, đầu con Sói Rừng đã rơi xuống đất.
 
 Lũ quái vật này dai sức hơn vẻ ngoài của chúng nhiều.
 
@@ -102,7 +102,7 @@ Bầy Sói Rừng có vẻ sững sờ khi thấy tôi nhắm chuẩn vào kẽ 
 
 Dứt điểm luôn trận này thôi.
 
-Tôi nâng kiếm lên lần nữa, rót Ma Lực vào lưỡi kiếm nhắm thẳng cổ con sói. Nếu để chúng kịp chỉnh đốn lại đội hình, kẽ hở mà tôi vừa tạo ra sẽ biến mất tăm. Bầy năm con giờ chỉ còn lại bốn. Đây chính là thời cơ vàng để ra tay.
+Tôi nâng kiếm lên lần nữa, truyền Ma Lực vào lưỡi kiếm nhắm thẳng cổ con sói. Nếu để chúng kịp chỉnh đốn lại đội hình, kẽ hở mà tôi vừa tạo ra sẽ biến mất tăm. Bầy năm con giờ chỉ còn lại bốn. Đây chính là thời cơ vàng để ra tay.
 
 Nhưng với con sói, việc tôi xông lên chớp thời cơ khéo cũng chính là cơ hội nó đang ngóng đợi. Nếu lúc này ngừng công kích, tôi sẽ bị ép vào thế thủ, mà như vậy thì trận chiến cầm chắc kéo dài lê thê.
 
@@ -110,13 +110,13 @@ Sói Rừng vốn nổi danh nhờ sức bộc phát, lấy những đòn đánh
 
 Được rồi. Lên luôn nào.
 
-Nâng kiếm qua đầu, tôi xoay sang con sói đầu đàn, bổ xuống một nhát chém hung hiểm. Bản thân nó cũng có ngón đòn giấu kín khi bộ lông bỗng phát ra ánh sáng xanh lục mờ ảo. Nó đang rót Ma Lực vào người ư? Chưa rõ nó toan làm gì, nhưng tôi biết con sói đã bắt đầu đánh thật. Không... Tung ra năng lực này ngay lúc này, rất có thể đó chính là con át chủ bài của nó.
+Nâng kiếm qua đầu, tôi xoay sang con sói đầu đàn, bổ xuống một nhát chém hung hiểm. Bản thân nó cũng có ngón đòn giấu kín khi bộ lông bỗng phát ra ánh sáng xanh lục mờ ảo. Nó đang truyền Ma Lực vào người ư? Chưa rõ nó toan làm gì, nhưng tôi biết con sói đã bắt đầu đánh thật. Không... Tung ra năng lực này ngay lúc này, rất có thể đó chính là con át chủ bài của nó.
 
 Tôi cảm nhận rõ luồng áp lực tỏa ra từ con quái vật. Con Sói Rừng này to con hơn mấy con kia một chút, chắc vì nó là đầu đàn.
 
 Nhưng tôi không thể bại trận ở đây. Tôi vẫn chỉ là Đồng Cấp, đường còn dài mới mong đủ mạnh để hạ gục đối thủ cỡ này một cách nhẹ nhàng...
 
-Dồn hết tâm trí vào ý nghĩ đó, tôi giáng mạnh lưỡi kiếm xuống cổ con Sói Rừng. Lưỡi kiếm cắm sâu, chém ngọt qua da thịt. Nhờ tăng lượng Ma Lực rót vào vũ khí thêm gần năm mươi phần trăm, đường kiếm lướt đi mà chẳng gặp chút lực cản nào. Nó là đầu đàn của bầy quái, tôi đâu thể mong hạ gục nó chỉ bằng ngần ấy sức lực như trước.
+Dồn hết tâm trí vào ý nghĩ đó, tôi giáng mạnh lưỡi kiếm xuống cổ con Sói Rừng. Lưỡi kiếm cắm sâu, chém ngọt qua da thịt. Nhờ tăng lượng Ma Lực truyền vào vũ khí thêm gần năm mươi phần trăm, đường kiếm lướt đi mà chẳng gặp chút lực cản nào. Nó là đầu đàn của bầy quái, tôi đâu thể mong hạ gục nó chỉ bằng ngần ấy sức lực như trước.
 
 Đòn chém thành công trọn vẹn, tôi kéo phăng lưỡi kiếm qua phần thịt còn sót lại. Đầu con sói rớt xuống đất. Thắng rồi, nhưng—
 
@@ -124,7 +124,7 @@ Nó bỗng há to miệng. Kèm theo một tiếng "vút!" xé gió, thứ trôn
 
 Chết tiệt!
 
-Tôi hoảng hốt gập người né đòn. Lưỡi đao gió màu xanh lục sượt qua người tôi trong gang tấc, suýt chút nữa đã cắt trúng má. Ngay sau đó, một tiếng ầm vang rền nổ ra sau lưng tôi, tiếng thứ gì đó nứt toác rồi gãy rập. Ngoảnh lại, tôi thấy một thân cây lớn đổ rạp sang bên, rõ ràng đã bị ma pháp kia chém đứt ngọt.
+Tôi hoảng hốt gập người né đòn. Lưỡi Phong Đao màu xanh lục sượt qua người tôi trong gang tấc, suýt chút nữa đã cắt trúng má. Ngay sau đó, một tiếng ầm vang rền nổ ra sau lưng tôi, tiếng thứ gì đó nứt toác rồi gãy rập. Ngoảnh lại, tôi thấy một thân cây lớn đổ rạp sang bên, rõ ràng đã bị ma pháp kia chém đứt ngọt.
 
 Nó vẫn còn sống ư...?
 
@@ -132,9 +132,9 @@ Nó vẫn còn sống ư...?
 
 Cái đầu con sói đầu đàn giờ đã im lìm, chắc đó là đòn giãy chết cuối cùng của nó. Dù vậy, tôi chẳng dám lơ là. Với ba con còn lại, tôi nhất định phải cẩn trọng hơn, kể cả sau khi đã chém gục chúng.
 
-Tuy nhiên, lũ sói còn lại giờ đã mất đầu đàn nên đường đi nước bước cực kỳ dễ đoán. Chúng cũng chẳng thể tung đòn phối hợp nào được nữa, chỉ biết cắm đầu lao thẳng về phía tôi, mong cắn trúng được một phát.
+Có điều, lũ sói còn lại giờ đã mất đầu đàn nên đường đi nước bước cực kỳ dễ đoán. Chúng cũng chẳng thể tung đòn phối hợp nào được nữa, chỉ biết cắm đầu lao thẳng về phía tôi, mong cắn trúng được một phát.
 
-Đến lượt mình, tôi cứ thế chém gục từng con một, cảm giác dễ dàng đến mức khó tin. Sự cam go của cuộc chạm trán mà tôi vừa than thở ban nãy giờ đã biến mất tăm.
+Về phần mình, tôi cứ thế chém gục từng con một, cảm giác dễ dàng đến mức khó tin. Sự cam go của cuộc chạm trán mà tôi vừa than thở ban nãy giờ đã biến mất tăm.
 
 Cuối cùng, tôi chỉ mất thêm vài phút để hạ nốt lũ sói còn lại, sau khi đã tận mắt trải nghiệm bầy Sói Rừng kết đàn đáng sợ đến mức nào. Với vài nhát chém dứt khoát, trận chiến đã khép lại.
 

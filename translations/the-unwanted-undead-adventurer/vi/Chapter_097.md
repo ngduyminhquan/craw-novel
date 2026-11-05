@@ -46,7 +46,7 @@ Vậy thì... cứ vào thôi.
 
 Lỡ có nguy hiểm thì chỉ việc bỏ chạy, quay về lại chỗ này là được.
 
-Đúng là phòng thủ lĩnh thật, nhưng tôi khó lòng tưởng tượng nổi ở tầng bốn lại có căn phòng khóa kín không lối thoát. Bình thường loại phòng đó chỉ xuất hiện ở tầm tầng bốn mươi trở xuống. Dù xét căn phòng tôi từng đụng độ ở Mê Cung Nguyệt Ảnh thì khó mà coi đây là quy tắc bất di bất dịch, nhưng dẫu sao chuyện đó cũng chỉ là ngoại lệ hiếm hoi chứ chẳng phải lẽ thường.
+Đúng là phòng thủ lĩnh thật, nhưng tôi khó lòng tưởng tượng nổi ở tầng bốn lại có căn phòng khóa kín không lối thoát. Bình thường loại phòng đó chỉ xuất hiện ở tầm tầng bốn mươi trở xuống. Dù xét căn phòng tôi từng đụng độ ở Mê Cung Nguyệt Ảnh thì khó mà coi đây là quy tắc bất di bất dịch... nhưng dẫu sao chuyện đó cũng chỉ là ngoại lệ hiếm hoi chứ chẳng phải lẽ thường.
 
 Khác với bận trước, tôi đâu có mò vào lối đi bí mật nào, cũng chẳng bị dịch chuyển đi đâu rồi phải vượt qua cả đống chướng ngại mới tới được đây. Cánh cửa này cứ thế sừng sững ngay trước mắt, lồ lộ ra đấy thôi. Nếu thực sự có cơ quan phức tạp nào ẩn sau đó, chí ít các mạo hiểm giả hay lui tới tầng này cũng đã nhắc tới rồi.
 
@@ -90,7 +90,7 @@ Trận đánh chưa bắt đầu mà đã tính đường tháo chạy nghe hơi
 
 Xốc lại tinh thần, tôi chậm rãi bước vào phòng. Dù tôi đã tiến gần đến giữa phòng, cánh cửa vẫn chẳng có dấu hiệu khép lại. Đúng như dự đoán, muốn chạy trốn khỏi trận này là hoàn toàn khả thi.
 
-Thấy thế tôi mới thở phào nhẹ nhõm. Tôi từ tốn tuốt kiếm, bắt đầu dẫn Ma Lực vào lưỡi thép.
+Thấy thế tôi mới thở phào nhẹ nhõm. Tôi từ tốn rút kiếm, bắt đầu truyền Ma Lực vào lưỡi kiếm.
 
 Vào thế sẵn sàng nghênh chiến.
 
@@ -110,9 +110,9 @@ Kèm theo tiếng kim loại chát chúa, lưỡi kiếm của tôi khựng lạ
 
 Nhưng chuyện này chẳng liên quan gì đến độ cứng của vảy. Đã là phân loài Á Long thì da vảy cứng chắc là điều đương nhiên, ai cũng đoán được. Bản thân tôi cũng thừa biết trước khi vung kiếm rồi.
 
-Dù trước giờ chưa từng thực sự giao chiến với Terra Drake, chí ít tôi cũng có chút hiểu biết về giống loài này, kể cả khả năng phòng ngự tự nhiên của nó. Chính vì thế tôi mới dồn nhiều Ma Lực vào vũ khí và cơ thể hơn hẳn mọi khi.
+Dù trước giờ chưa từng thực sự giao chiến với Terra Drake, chí ít tôi cũng có chút hiểu biết về giống loài này, kể cả khả năng phòng ngự tự nhiên của nó. Chính vì thế tôi mới truyền nhiều Ma Lực vào vũ khí và cơ thể hơn hẳn mọi khi.
 
-Thế mà con quái vật vẫn chặn đứng nhát kiếm của tôi. Ngay lúc tôi vung kiếm chém xuống, một thứ tựa như tấm khiên bằng đất đá đã trồi lên bọc lấy đầu con Terra Drake. Tấm khiên trông như chiếc mũ giáp sắt ấy được tạo thành từ đất đá vương vãi gần đó, gần như chắc chắn là do nó vừa tức tốc ngưng tụ lại khi tôi ra tay.
+Thế mà con quái vật vẫn chặn đứng nhát kiếm của tôi. Ngay lúc tôi vung kiếm chém xuống, một thứ tựa như tấm khiên bằng đất đá đã trồi lên bọc lấy đầu con Terra Drake. Tấm khiên trông như chiếc mũ giáp sắt ấy được tạo thành từ đất đá vương vãi gần đó, gần như chắc chắn là do nó vừa tức tốc tạo ra khi tôi vung kiếm.
 
 Đây đích thị là ma pháp, lại còn do quái vật thi triển.
 
@@ -152,21 +152,21 @@ Mục tiêu của tôi là lưng nó.
 
 Liệu mình có làm được không...?
 
-Dòng chảy thời gian như bị kéo giãn ra, mỗi tích tắc trôi qua dài tựa thiên thu. Lúc này tôi đang ở vào thế nguy hiểm nhất.
+Dòng chảy thời gian như bị kéo giãn ra, mỗi khoảnh khắc trôi qua dài như vô tận. Lúc này tôi đang ở vào thế nguy hiểm nhất.
 
 Cùng lắm thì tôi có thể truyền Khí Lực vào cánh để vọt nhanh ra xa, nhưng làm vậy thì con Drake chắc chắn lại đuổi bám tiếp.
 
-Cầu trời... phải được đấy.
+Cầu trời... phải thành công đấy.
 
-Từng hạt cát của thời gian đông kết chầm chậm trôi đi.
+Thời gian ngỡ như đóng băng vẫn chầm chậm trôi đi.
 
 Đầu con Terra Drake đã đến thật gần... Tôi từ từ duỗi chân, nhắm thẳng đỉnh đầu nó. Con quái vật vẫn chẳng hề hay biết.
 
 Con Drake húc sầm vào chỗ tôi vừa đứng ban nãy, cuốn lên một đám bụi mù mịt che khuất tầm mắt nó.
 
-Tôi thì khác, tôi chẳng phụ thuộc vào thị giác thông thường mà nhìn như phần lớn Undead: cảm nhận qua thân nhiệt.
+Tôi thì khác, tôi chẳng có thị giác bình thường mà nhìn như phần lớn Undead: cảm nhận qua thân nhiệt.
 
-Đúng là nhờ ơn cái thân xác này.
+Cảm ơn nhé, cơ thể của tôi ơi.
 
 Thực ra, bị đập sầm vào vách đá mà chỉ hơi choáng váng qua loa cũng phần nhiều nhờ vào cơ thể này. Chứ người bình thường thì chắc chắn đã bỏ mạng từ đời nào rồi.
 
@@ -188,13 +188,13 @@ Chắc nó sắp xoay vòng tại chỗ lần nữa, nhưng lúc này hai chân 
 
 Chính là lúc này.
 
-Nghĩ vậy, tôi dồn thật nhiều Ma Lực lẫn Khí Lực vào lưỡi kiếm. Đã đến lúc... Ma Khí Dung Hợp Thuật.
+Nghĩ vậy, tôi truyền thật nhiều Ma Lực lẫn Khí Lực vào lưỡi kiếm. Đã đến lúc... Ma Khí Dung Hợp Thuật.
 
 Vung kiếm một đường chém ngang thật rộng, tôi rạch ngọt qua phần bụng đang hở của con Drake. Khác hẳn lớp vảy cứng ngắc quanh cổ và lưng, da bụng Terra Drake mềm hơn nhiều nên chém vào rất ngọt. Dĩ nhiên một phần nhờ tôi dùng Dung Hợp Thuật, nhưng tôi không ngờ lưỡi kiếm lại lướt đi nhẹ tênh đến thế. Xem chừng đây chính là điểm yếu của nó.
 
 Chi tiết này cũng từng được ghi trong cuốn bách khoa quái vật tôi từng đọc. Có điều để một con Drake chịu tự phơi bụng trước mặt kẻ thù là cực kỳ khó, khiến chỗ đó thành vị trí khó lòng đánh trúng. Lần này đúng là tôi gặp may.
 
-Sức sống của con Terra Drake dai dẳng đến kinh ngạc. Bụng bị chém toạc ra mà nó vẫn chưa chịu chết. Nó gượng dậy ngay tức khắc rồi lại lao về phía tôi. Chỉ vài cú giậm chân, hàng loạt ngọn thương đất đá liền trồi lên khỏi mặt đất, hết ngọn này tới ngọn khác. Tôi thoăn thoắt lách né từng mũi thổ thương, thu hẹp khoảng cách để dứt điểm trận đấu. Thấy tôi áp sát, con quái vật càng điên cuồng tấn công. Những ngọn thương đất đá giờ ngưng tụ ngay giữa không trung, lao vun vút về phía tôi.
+Sức sống của con Terra Drake dai dẳng đến kinh ngạc. Bụng bị chém toạc ra mà nó vẫn chưa chịu chết. Nó gượng dậy ngay tức khắc rồi lại lao về phía tôi. Chỉ vài cú giậm chân, hàng loạt ngọn thương đất đá liền trồi lên khỏi mặt đất, hết ngọn này tới ngọn khác. Tôi thoăn thoắt lách né từng mũi Thạch Thương, thu hẹp khoảng cách để dứt điểm trận đấu. Thấy tôi áp sát, con quái vật càng điên cuồng tấn công. Những ngọn thương đất đá giờ hình thành ngay giữa không trung, lao vun vút về phía tôi.
 
 Chắc vì dính đòn đau nên con Drake có vẻ mất tập trung, ma pháp tấn công của nó bay loạn xạ, chẳng chuẩn xác chút nào. Dù sức công phá vẫn rất đáng gờm, nhưng so với những đòn tấn công lúc trước của nó thì chẳng còn đáng ngại là bao.
 
@@ -202,6 +202,6 @@ Chắc vì dính đòn đau nên con Drake có vẻ mất tập trung, ma pháp 
 
 Lúc tôi giáng kiếm xuống, con Terra Drake lại cố dựng tấm khiên lên lần nữa. Nhưng độ kết dính của lớp đá gom vội đã giảm sút thảm hại. Đống đá chắp vá lỏng lẻo ấy chẳng khác nào da thịt mềm trước uy lực Ma Khí Dung Hợp Thuật của tôi.
 
-Chỉ bằng một nhát chém dứt khoát mượt mà, lưỡi kiếm ngọt sớt phạt đứt cổ con Terra Drake khiến cái đầu rơi rụng. Gần như cùng lúc, thân hình đồ sộ của nó mềm nhũn ra rồi đổ sụp xuống nền đá với một tiếng rầm nặng trịch.
+Chỉ bằng một nhát chém dứt khoát mượt mà, lưỡi kiếm chém ngọt đứt cổ con Terra Drake khiến cái đầu rơi xuống. Gần như cùng lúc, thân hình đồ sộ của nó mềm nhũn ra rồi đổ sụp xuống nền đá với một tiếng rầm nặng trịch.
 
 ![](images/ch097-01.webp)

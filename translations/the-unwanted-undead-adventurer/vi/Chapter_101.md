@@ -64,7 +64,7 @@ Bởi vậy, phần lớn quặng đều được tinh luyện nhờ ma cụ h�
 
 Thuật giả kim.
 
-Nói cho đúng ra thì tinh luyện quặng bằng ma cụ về bản chất cũng là thuật giả kim. Đằng nào thì mấy công cụ đó cũng do thuật giả kim chế tạo ra cả. Song, người ta hoàn toàn có thể tự kiểm soát Ma Lực để tinh luyện mà chẳng cần đến công cụ chuyên dụng. Đó chính là cách mà Lorraine sắp sửa làm.
+Nói cho đúng ra thì tinh luyện quặng bằng ma cụ về bản chất cũng là thuật giả kim. Đằng nào thì mấy công cụ đó cũng do thuật giả kim chế tạo ra cả. Nhưng người ta hoàn toàn có thể tự kiểm soát Ma Lực để tinh luyện mà chẳng cần đến công cụ chuyên dụng. Đó chính là cách mà Lorraine sắp sửa làm.
 
 Thuật giả kim hoàn toàn không dành riêng cho ma pháp sư. Ngoài kia vẫn có những nhà giả kim chẳng biết dùng ma thuật. Dẫu vậy, kiểm soát được Ma Lực ở chừng mực nhất định sẽ giúp việc nghiên cứu thuật giả kim dễ thở hơn nhiều. Nếu không làm được điều đó, người ta buộc phải dùng đến vài loại Ma Tinh nhất định hoặc ma cụ chuyên dụng để điều tiết Ma Lực. Mọi chuyện khi ấy sẽ phiền phức vô cùng.
 
@@ -84,9 +84,9 @@ Keng. Coong. Tiếng lách cách khe khẽ vang lên khi từng mẩu tạp ch�
 
 "Ừ, Rentt, xong rồi đấy. Tự tôi thấy cũng khá chuẩn đấy chứ. Tôi chẳng phải người thích tự khen mình, nhưng tôi cá là phần lớn các nhà giả kim đều không đúc nổi một thỏi kim loại có độ tinh khiết cao cỡ này đâu."
 
-Nói rồi, Lorraine vươn tay đưa thỏi Ma Thiết cho tôi. Tôi nhìn chăm chú vào nó. Dù Lorraine có nói đùa nghe hơi tự đắc về tay nghề của mình, thỏi kim loại này thực sự được làm rất khéo. Tôi khó mà biết chính xác độ tinh khiết của một thỏi kim loại một khi đã vượt qua mức nào đó, nhưng chỉ cần liếc qua là đủ nhận ra khối mình đang cầm có độ tinh khiết vượt trội hơn hẳn đồ lấy từ Hội Thợ Rèn chẳng hạn.
+Nói rồi, Lorraine vươn tay đưa thỏi Ma Thiết cho tôi. Tôi nhìn chăm chú vào nó. Dù Lorraine nói đùa rằng mình hơi tự đề cao bản thân, thỏi kim loại này thực sự được làm rất khéo. Tôi khó mà biết chính xác độ tinh khiết của một thỏi kim loại một khi đã vượt qua mức nào đó, nhưng chỉ cần liếc qua là đủ nhận ra khối mình đang cầm có độ tinh khiết vượt trội hơn hẳn đồ lấy từ Hội Thợ Rèn chẳng hạn.
 
-Nhưng dĩ nhiên, đồ của hội là hàng sản xuất đại trà, còn thỏi kim loại trên tay tôi thì không. Cách thức làm ra cũng khác hẳn. Xét tới việc thợ luyện kim thường sẽ tinh luyện thêm để nâng cao chất lượng các thỏi kim loại sau khi lấy từ hội về, hai thứ này vốn dĩ chẳng thể đem ra so sánh với nhau.
+Nhưng dĩ nhiên, đồ của Hội Thợ Rèn là hàng sản xuất đại trà, còn thỏi kim loại trên tay tôi thì không. Cách thức làm ra cũng khác hẳn. Xét tới việc thợ luyện kim thường sẽ tinh luyện thêm để nâng cao chất lượng các thỏi kim loại sau khi lấy từ Hội Thợ Rèn về, hai thứ này vốn dĩ chẳng thể đem ra so sánh với nhau.
 
 Khối kim loại tôi cầm trên tay có chất lượng cao hơn hẳn. Nói chung, Lorraine đã hoàn thành phần việc của mình quá xuất sắc.
 

@@ -66,7 +66,7 @@ Nói cách khác... đây là công tắc bật đèn của khu mỏ.
 
 Đèn không thắp sáng toàn bộ không gian mà chỉ rọi sáng xung quanh tôi chừng vài chục mét. Tôi đoán trong bóng tối vẫn còn những công tắc tương tự thế này, và nếu không bấm thì phần còn lại của cái hố sẽ mãi chìm trong tăm tối.
 
-Dĩ nhiên tôi vẫn nhìn được trong bóng tối ở một chừng mực nhất định. Thế nhưng thứ thị giác Undead mà tôi vẫn hay tự hào chủ yếu dùng để dò theo sinh vật sống, thành thử chẳng giúp ích được mấy với những vật vô tri như công tắc. Dù không thể bảo làm Ma Cà Rồng là chẳng được tích sự gì, nhưng ngặt nỗi các năng lực Ma Cà Rồng lại không mấy phát huy tác dụng trong hoàn cảnh này.
+Dĩ nhiên tôi vẫn nhìn được trong bóng tối ở một chừng mực nhất định. Thế nhưng Thị Giác Undead mà tôi vẫn hay tự hào chủ yếu dùng để dò theo sinh vật sống, thành thử chẳng giúp ích được mấy với những vật vô tri như công tắc. Dù không thể bảo làm Ma Cà Rồng là chẳng được tích sự gì, nhưng ngặt nỗi các năng lực Ma Cà Rồng lại không mấy phát huy tác dụng trong hoàn cảnh này.
 
 Việc tôi cần làm lúc này chỉ là tìm vài khối đá có mạch Ma Thiết rồi đào lấy quặng. Nhưng muốn thế thì cần có nguồn sáng bình thường. Xem ra chẳng còn cách nào khác ngoài việc vừa đào vừa tìm công tắc, rồi cứ thế lặp đi lặp lại mãi.
 
@@ -112,11 +112,11 @@ Chính vào lúc ấy, tôi đã nhìn thấy nó, một con quái vật kinh ho
 
 Tôi cứ ngỡ những tia sáng yếu ớt lọt qua khe đá kia đang rọi xuống mặt đất của tầng bên dưới. Nhưng rồi, chính mặt đất ấy lại bắt đầu cựa quậy, vô cùng chậm rãi.
 
-Đúng là mắt thường và thị giác Undead của tôi có thể nhìn ra sinh vật trong bóng tối. Nhưng chuyện gì cũng có ngoại lệ. Chẳng hạn như, năng lực có thể mất tác dụng khi chạm trán một kẻ thù mạnh đến khó tin. Lần đầu tiên trong đời, tôi được đích thân nếm trải điều này.
+Đúng là mắt thường và Thị Giác Undead của tôi có thể nhìn ra sinh vật trong bóng tối. Nhưng chuyện gì cũng có ngoại lệ. Chẳng hạn như, năng lực có thể mất tác dụng khi chạm trán một kẻ thù mạnh đến khó tin. Lần đầu tiên trong đời, tôi được đích thân nếm trải điều này.
 
 Thứ đang lẩn khuất trong bóng tối kia rốt cuộc là cái gì? Ánh sáng mờ mịt khiến tôi rất khó nhìn ra.
 
-Điều đầu tiên tôi nhận ra là thứ mình vừa thấy, một mảng đá nhẵn bóng lấp lánh, hóa ra chỉ là một phần của một sinh vật khổng lồ. Lớp da dày của nó dường như cứ trải dài vô tận. Rồi chỉ trong một tích tắc ngắn ngủi, tia sáng rọi từ trên cao xuống đã hắt lên thứ trông như gương mặt của sinh vật ấy.
+Điều đầu tiên tôi nhận ra là thứ mình vừa thấy, một mảng đá nhẵn bóng lấp lánh, hóa ra chỉ là một phần của một sinh vật to lớn. Lớp da dày của nó dường như cứ trải dài vô tận. Rồi chỉ trong một tích tắc ngắn ngủi, tia sáng rọi từ trên cao xuống đã hắt lên thứ trông như gương mặt của sinh vật ấy.
 
 Một con mắt. Một con mắt to bằng cả người tôi.
 
@@ -176,9 +176,9 @@ Nên nhớ rằng nơi đây là giữa lòng một ngọn núi bay khổng lồ
 
 Đúng là không hổ danh Rồng Đất.
 
-Tôi chỉ biết đứng như chôn chân tại chỗ, cẩn trọng hết mức không để phát ra tiếng động nào trong lúc làm đủ mọi cách che giấu sự hiện diện.
+Tôi chỉ biết đứng như chôn chân tại chỗ, cẩn trọng hết mức không để phát ra tiếng động nào trong lúc làm đủ mọi cách ẩn mình.
 
-Đất đá cùng mảnh vụn rào rào bắn ra từ những cú đào bới của con Rồng. Báo hại tôi phải vừa lách người né tránh, vừa dựng ma pháp Khiên Chắn... xoay xở tối tăm mặt mũi. Đống đá văng ra thậm chí chẳng phải đòn tấn công gì, chỉ là hệ quả phụ từ việc di chuyển dưới lòng đất của con Rồng Đất. Thế nhưng, mỗi một tảng đá lại mang uy lực chẳng kém gì những mũi Thạch Thương của con Terra Drake... Đúng là kinh hoàng tột độ.
+Đất đá cùng mảnh vụn rào rào bắn ra từ những cú đào bới của con Rồng. Về phần mình, tôi phải vừa lách người né tránh, vừa dựng ma pháp Khiên Chắn... xoay xở đủ đường. Đống đá văng ra thậm chí chẳng phải đòn tấn công gì, chỉ là hệ quả phụ từ việc di chuyển dưới lòng đất của con Rồng Đất. Thế nhưng, mỗi một tảng đá lại mang uy lực chẳng kém gì những mũi Thạch Thương của con Terra Drake... Đúng là kinh hoàng thật sự.
 
 Một mạo hiểm giả Mithril Cấp hẳn sẽ đối đầu trực diện được với thứ quái vật như thế. Tôi bỗng thấm thía sâu sắc rằng mình còn cách mục tiêu ấy xa đến mức nào.
 
@@ -200,7 +200,7 @@ Dù nó đã đi được một quãng khá xa, tôi vẫn cảm nhận được
 
 Với kích thước khổng lồ như thế... dẫu tôi có vung kiếm chém vào nó, liệu đòn tấn công của tôi có khác gì que tăm chọc vào da? Liệu nó có buồn cảm thấy gì không? Tôi không tin mình có thể đả thương nó, hay làm được trò trống gì tổn hại đến nó.
 
-Một mạo hiểm giả có thể giữ nổi bình tĩnh khi chạm trán thứ ấy... chí ít cũng phải đạt Bạch Kim Cấp. Mà ở tầng bốn này làm gì có ai thuộc tầm cỡ ấy cắm chốt cơ chứ.
+Một mạo hiểm giả có thể giữ nổi bình tĩnh khi chạm trán thứ ấy... chí ít cũng phải đạt Bạch Kim Cấp. Mà ở tầng bốn này làm gì có ai thuộc tầm cỡ ấy thường xuyên lui tới cơ chứ.
 
 ...Phù.
 
