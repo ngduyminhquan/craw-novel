@@ -1,105 +1,105 @@
 # Chương 175: Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (3)
 
-Đúng như dự đoán, chuyến đi ngày hôm qua cùng Tử tước Lottnel chưa mang lại kết quả như mong đợi. Điều này không phải do tử tước lười biếng hay làm việc qua loa; mà là vì ông ấy không thể tìm ra thứ bá tước đang cần. Đúng là tử tước đã dẫn bá tước đến những hiệu thuốc có công thức điều chế các loại thuốc quý hiếm cùng những nguyên liệu cần thiết, điều khiến bá tước rất biết ơn, nhưng dường như chẳng thứ nào trong số đó có tác dụng đối với căn bệnh của Elaine. Dù vậy để phòng ngừa, bá tước vẫn khắc sâu những kiến thức đó vào trí nhớ để không quên. Ông dự tính sẽ thử nghiệm các công thức ấy khi trở về nhà, nhưng kỳ vọng lại chẳng được bao nhiêu. Bá tước Robista chỉ hy vọng mạo hiểm giả ngày hôm nay có thể thể hiện xứng đáng với tiềm năng của mình.
+Đúng như dự đoán, chuyến đi hôm qua cùng Tử tước Lottnel chẳng mấy khả quan. Không phải vì tử tước lười biếng hay làm việc qua loa, mà chỉ vì ông không tìm được thứ bá tước cần. Đúng là tử tước đã dẫn ông tới các hiệu thuốc nắm giữ công thức thuốc hiếm cùng những nguyên liệu cần dùng, chuyện đó bá tước rất cảm kích, có điều chẳng thứ nào xem chừng chữa được bệnh cho Elaine. Dù vậy để phòng hờ, bá tước vẫn ghi nhớ kỹ từng chút một. Ông tính về nhà sẽ thử các công thức đó, dù bụng chẳng dám mong đợi gì nhiều. Bá tước Robista chỉ hy vọng mạo hiểm giả hẹn gặp hôm nay sẽ làm nên trò trống gì đó.
 
-Bá tước Robista và Hayden đứng đợi bên ngoài Hội nơi họ đã hẹn gặp cho đến khi người đàn ông được nhắc tới bước lại gần.
+Bá tước Robista và Hayden đứng đợi bên ngoài Hội theo đúng hẹn, mãi cho đến khi người họ cần gặp bước tới.
 
-"Xin lỗi, tôi có để hai người phải đợi lâu không?" người đàn ông đeo mặt nạ hỏi.
+"Xin lỗi, tôi có để hai người phải chờ lâu không?" người đàn ông đeo mặt nạ hỏi.
 
-"Chỉ vì tôi quá nóng lòng nên mới đến sớm thôi. Không sao đâu."
+"Chỉ tại tôi nóng ruột nên đến sớm thôi. Không sao đâu."
 
-Trên thực tế, trong giới quý tộc việc đến sớm tại các buổi đàm phán để chiếm ưu thế tâm lý vốn là chuyện thường tình, nên ông làm vậy hoàn toàn theo thói quen. Hayden từng bảo ông đến muộn hơn chút cũng chẳng sao, nhưng thói quen đã ăn sâu suốt nhiều năm rất khó bỏ. Cuối cùng, Hayden đành từ bỏ ý định thuyết phục vị bá tước đang bồn chồn không yên.
+Thực ra giới quý tộc thường có thói quen đến điểm hẹn đàm phán từ sớm để chiếm ưu thế tâm lý, nên ông làm vậy phần nhiều do quen nếp cũ. Hayden đã bảo ông cứ đến muộn hơn một chút cũng chẳng sao, nhưng thói quen đã ăn sâu bao năm qua đâu dễ gì bỏ. Rốt cuộc, Hayden đành chịu thua trước vị bá tước đang sốt ruột bồn chồn.
 
-"Vậy thì tốt rồi. Giờ để tôi giới thiệu với hai người," Rentt nói rồi liếc nhìn ra sau lưng.
+"Vậy thì tốt rồi. Để tôi giới thiệu nhé," Rentt nói rồi liếc ra sau lưng.
 
-Ở đó có một người phụ nữ xinh đẹp. Cô toát lên vẻ thông minh, nhưng ánh mắt lại có phần lạnh lùng xa cách, cùng một luồng hào quang Ma Lực mạnh mẽ bao quanh. Hẳn đây chính là nhà nghiên cứu mà Rentt đã nhắc tới hôm nọ.
+Đứng sau anh là một phụ nữ xinh đẹp. Trông cô thông minh nhưng ánh mắt có phần lạnh lùng, quanh người toát ra luồng Ma Lực mạnh mẽ. Hẳn đây chính là nhà nghiên cứu mà Rentt đã nhắc tới hôm trước.
 
-Người phụ nữ hướng về phía bá tước rồi khẽ mở lời: "Kính chào Bá tước. Tôi là Lorraine Vivie, mạo hiểm giả Ngân Cấp. Rất hân hạnh được gặp ngài. Tôi sẽ hỗ trợ Rentt giới thiệu cho ngài các loại dược liệu tiềm năng. Bản thân tôi cũng là một y sĩ ma thuật, nên tôi tự thấy mình khá am hiểu về lĩnh vực này. Tôi tin mình sẽ giúp ích được phần nào cho ngài."
+Người phụ nữ quay sang bá tước rồi điềm tĩnh lên tiếng: "Kính chào Bá tước. Tôi là Lorraine Vivie, mạo hiểm giả Ngân Cấp. Rất hân hạnh được gặp ngài. Tôi sẽ cùng Rentt giới thiệu cho ngài các loại dược liệu tiềm năng. Bản thân tôi cũng là một y sĩ ma thuật nên khá am tường lĩnh vực này. Tôi tin mình sẽ giúp ích được cho ngài."
 
-Màn tự giới thiệu của cô vô cùng khéo léo và không hề vương chút khúm núm tự ti. Rõ ràng cô nhận thức được bản thân đang trò chuyện với một quý tộc có địa vị cao, nên có lẽ cô đã quen với những tình huống như thế này. Nói cách khác, sự tự tin ấy bắt nguồn từ chính vốn hiểu biết sâu rộng của cô về y dược. Cấp bậc Ngân Cấp đồng nghĩa với việc cô có tài năng của một mạo hiểm giả, nhưng giới đại quý tộc thường không mấy khi tuyển mộ các mạo hiểm giả Ngân Cấp. Kỹ năng của một y sĩ ma thuật ở cô xem chừng có giá trị hơn nhiều. Bá tước rất hài lòng khi được gặp Lorraine.
+Lời tự giới thiệu của cô rất mực thước, không hề lộ chút khúm núm tự ti. Rõ ràng cô biết mình đang trò chuyện với một đại quý tộc, nhưng vẫn giữ được vẻ tự nhiên thoải mái. Nói cách khác, sự tự tin ấy bắt nguồn từ chính vốn hiểu biết sâu rộng của cô về y dược. Hạng Ngân Cấp cho thấy cô là mạo hiểm giả có thực lực, dù đại quý tộc hiếm khi thuê người ở cấp này. Giá trị thực sự của cô nằm ở tay nghề y sĩ ma thuật thì đúng hơn. Bá tước rất vừa lòng khi gặp được Lorraine.
 
-Bá tước đưa mắt nhìn Hayden để đảm bảo anh không có điều gì phàn nàn. Thấy anh dường như chẳng hề bận tâm, bá tước liền quay lại nhìn Lorraine rồi chìa tay ra: "Cảm ơn cô vì lời chào hỏi lịch thiệp. Tôi là Curt. Có vẻ cô đã biết tôi là ai, nhưng như cô thấy đấy, tôi đang cố gắng không thu hút sự chú ý. Xin cô cứ đối xử với tôi bình thường như bao người khác, không cần phải quá câu nệ lễ nghi đâu."
+Bá tước liếc nhìn Hayden xem anh có ý kiến gì không. Thấy anh chẳng có vẻ gì phản đối, bá tước liền quay sang Lorraine rồi chìa tay ra: "Cảm ơn cô vì lời chào lịch thiệp. Tôi là Curt. Xem chừng cô đã biết tôi là ai rồi, nhưng như cô thấy đấy, tôi không muốn gây chú ý. Cứ đối xử với tôi như người bình thường thôi, xin đừng quá câu nệ."
 
-"Hiểu rồi. Thế này được chứ?" Lorraine lập tức chuyển từ lối nói năng trịnh trọng trước đó sang phong thái thoải mái, tự nhiên hơn. Cũng giống như Rentt, cô xem ra nắm bắt tình hình vô cùng nhạy bén.
+"Hiểu rồi. Thế này được chứ?" Lorraine lập tức đổi giọng sang vẻ xuề xòa, thoải mái hơn. Cũng giống như Rentt, cô nắm bắt bầu không khí rất nhanh nhạy.
 
-"Thế là ổn rồi. Giờ thì thời gian của chúng ta có hạn. Nhờ hai người dẫn đường giúp tôi được không?"
+"Như thế là được rồi. Giờ thì thời gian không có nhiều, nhờ hai người dẫn tôi đi một vòng được chứ?"
 
 ◆◇◆◇◆
 
-"Tôi không ngờ những nguyên liệu hữu ích đến vậy lại ẩn giấu ở nơi này," bá tước nhận xét sau khi cả nhóm đã đi bộ khắp một vòng quanh Maalt.
+"Tôi không ngờ ở đây lại có những nguyên liệu hữu dụng đến thế," bá tước tấm tắc sau khi cả nhóm đi một vòng khắp Maalt.
 
-"Mấy thứ này chẳng có gì hiếm hoi ở thị trấn này cả," Lorraine nói. "Chỉ là chúng rất khó giữ độ tươi, nên không được chuyển tới vương đô. Tôi nghĩ có lẽ ông sẽ hứng thú với chúng, nhưng liệu chúng có làm ông hài lòng không?"
+"Ở thị trấn này mấy thứ đó cũng chẳng hiếm gì," Lorraine đáp. "Chỉ có điều chúng khó giữ được độ tươi nên không ai chuyển về vương đô cả. Tôi nghĩ chắc ông sẽ cần, nhưng không biết đã vừa ý ông chưa?"
 
-"Tất nhiên rồi. Ngày hôm qua Tử tước Lottnel đã giới thiệu cho tôi vài hiệu thuốc và tiệm bán buôn, nhưng chuyến đi hôm nay thu hoạch được nhiều hơn hẳn."
+"Tất nhiên rồi. Hôm qua Tử tước Lottnel cũng dẫn tôi tới vài hiệu thuốc và tiệm bán buôn, nhưng chuyến đi hôm nay thu hoạch được nhiều hơn hẳn."
 
-"Tử tước là quý tộc, nên tôi đoán ông ấy chỉ đưa ông tới những cửa tiệm bán hàng đắt đỏ. Nếu vậy thì rất nhiều nguyên liệu trong số này sẽ không có mặt ở đó. Các khu chợ và cửa tiệm trong hẻm nhỏ cũng có lượng hàng hóa chất lượng nhiều đến bất ngờ, song chúng có thể hơi quá xô bồ đối với một quý tộc."
+"Tử tước là quý tộc, nên tôi đoán ông ấy chỉ dẫn ông đến mấy tiệm sang trọng bán đồ đắt tiền. Thế thì làm sao có những thứ này được. Chợ búa với mấy tiệm trong ngõ hẻm có nhiều hàng tốt đến bất ngờ đấy, chỉ là có vẻ hơi nhếch nhác so với quý tộc thôi."
 
-"Thú vị thật. Phải công nhận Maalt là một nơi khá tuyệt. Tôi từng ghé thăm những cửa tiệm kiểu này ở vương đô, nhưng họ chẳng bày bán thứ gì độc đáo kỳ lạ như thế này cả."
+"Thú vị thật. Phải nói là Maalt hay thật đấy. Tôi từng ghé qua mấy tiệm kiểu này ở vương đô, nhưng họ chẳng có món nào lạ lùng đến mức này."
 
-Lorraine gật đầu. "Đó là nét đặc trưng riêng của Maalt. Rất nhiều chuyên gia thu thập nguyên liệu sinh sống ở nơi đây. Ngay cả những mạo hiểm giả mới vào nghề cũng có thể phân biệt rành rọt từng loại thảo dược, nên tôi cho rằng điều đó đóng góp một phần lớn."
+Lorraine gật đầu. "Đó là nét riêng của Maalt mà. Nơi này có rất nhiều thợ thu thập nguyên liệu lành nghề. Ngay cả mạo hiểm giả mới vào nghề cũng phân biệt rành rọt từng loại thảo dược, chắc phần lớn nhờ thế."
 
-"Vậy sao? Thế thì tôi cũng rất muốn được học hỏi từ họ đấy."
+"Vậy sao? Thế thì tôi cũng muốn học hỏi từ họ đôi chút đấy."
 
-"Chuyện đó không đơn giản vậy đâu. Dù sao thì, liệu chúng ta có thể coi công việc này đã hoàn tất chưa? Giờ chỉ còn lại vài loại nguyên liệu trái mùa và không có sẵn trong kho, đòi hỏi chúng ta phải rời khỏi thị trấn để đi thu thập trực tiếp thôi."
+"Đâu có đơn giản thế. Mà thôi, công việc này coi như xong chưa nhỉ? Giờ chỉ còn mấy thứ trái mùa không có sẵn, muốn lấy thì phải ra ngoài thị trấn hái trực tiếp thôi."
 
-"Ồ, phải rồi, để tôi suy nghĩ thêm chút đã."
+"À, ừ, để tôi nghĩ xem đã."
 
-Nhờ có Rentt và Lorraine, Bá tước Robista đã biết thêm và thu mua được rất nhiều nguyên liệu hữu dụng. Họ giải thích cặn kẽ mọi thứ, từ công hiệu của nguyên liệu cho tới những biến đổi của chúng khi được bào chế thành thuốc. Họ giúp ích nhiều đến mức bá tước đã cân nhắc ký hợp đồng dài hạn hơn với hai người. Thậm chí còn có một vài loại nguyên liệu dường như có thể giúp ích cho bệnh tình của Elaine.
+Nhờ có Rentt và Lorraine, Bá tước Robista biết thêm và mua được rất nhiều nguyên liệu hữu dụng. Hai người giải thích cặn kẽ mọi thứ, từ dược tính đến những biến đổi khi đem đi bào chế. Được việc đến mức bá tước đã tính tới chuyện ký hợp đồng dài hạn với họ. Trong số đó, thậm chí còn có vài loại nguyên liệu xem chừng chữa được bệnh cho Elaine.
 
-Ở một ngôi làng cách Maalt không xa, dường như từng xuất hiện một chứng bệnh có các triệu chứng rất giống với những gì Elaine đang trải qua, và người ta đã tìm ra phương thuốc hữu hiệu trị chứng bệnh ấy cùng những nguyên liệu để điều chế nó. Lẽ dĩ nhiên các thầy thuốc ở vương đô hoàn toàn không hay biết điều này, bởi lẽ chứng bệnh đó không những chỉ xuất hiện quanh ngôi làng kia, mà còn chưa từng gây tử vong. Bệnh nhân cũng chẳng mất bao lâu để bình phục hoàn toàn.
+Ở một ngôi làng không xa Maalt, nghe đâu từng có một chứng bệnh mang triệu chứng y hệt như của Elaine, và người ta đã tìm ra phương thuốc hữu hiệu cùng nguyên liệu để điều chế. Thầy thuốc ở vương đô dĩ nhiên không hề hay biết, bởi chứng bệnh này không chỉ quanh quẩn ở ngôi làng nọ mà còn chưa từng làm chết ai. Người bệnh cũng chỉ mất một thời gian ngắn là khỏi hẳn.
 
-Người chỉ cho ông điều này tất nhiên là Lorraine. Cô nắm rõ mọi bệnh tật địa phương ở các ngôi làng quanh Maalt. Bá tước cảm thấy vốn hiểu biết của cô uyên bác đến mức khó tin, nhưng cô lại rất khiêm nhường, chỉ bảo rằng đó đơn thuần là thành quả từ việc sinh sống ở Maalt suốt một thời gian dài. Bất luận thế nào, điều đó có thể giúp ích cho Elaine. Bá tước cảm kích đến nỗi muốn quỳ xuống tạ ơn cô.
+Người chỉ cho ông chuyện này dĩ nhiên là Lorraine. Cô tường tận mọi chứng bệnh địa phương ở các làng quanh Maalt. Bá tước thấy vốn hiểu biết của cô rộng đến mức khó tin, nhưng cô chỉ khiêm tốn bảo rằng đó là nhờ sống ở Maalt lâu năm mà thôi. Dù sao đi nữa, manh mối này có thể cứu được Elaine. Bá tước cảm kích tới mức chỉ muốn quỳ xuống tạ ơn cô.
 
-Khi phương thuốc chữa trị đã nằm trong tầm tay, không còn lý do gì để đòi hỏi thêm điều gì từ Rentt và Lorraine nữa. Bá tước bắt đầu nói lời tạm biệt.
+Thuốc chữa đã ở ngay trước mắt, chẳng còn lý do gì để làm phiền Rentt và Lorraine thêm nữa. Bá tước bèn mở lời từ biệt.
 
-"Chà, tôi đã thu được những thứ mình cần khi đến đây rồi. Tôi nghĩ chẳng có lý do gì để phải dấn thân vào nơi nào nguy hiểm nữa. Công việc này coi như đã hoàn tất, hai người có thể—"
+"À, tôi đã có được thứ mình cần tìm rồi. Chắc chẳng cần phải mò vào nơi nào nguy hiểm nữa đâu. Công việc đến đây là xong, hai người có thể—"
 
-"Khoan đã! Chưa, vẫn chưa xong đâu," một giọng nói bất chợt vang lên từ hư không.
+"Khoan đã! Chưa, chưa xong đâu nhé!" một giọng nói bất thần vang lên giữa khoảng không.
 
-"Cái gì? Có ai vừa nói gì sao?" bá tước hỏi, nhưng Rentt, Lorraine và Hayden đều lắc đầu. "Vậy thì là ai?"
+"Gì thế? Có ai vừa nói gì à?" bá tước hỏi, nhưng cả Rentt, Lorraine lẫn Hayden đều lắc đầu. "Thế là ai?"
 
-"Chậc! Đây, đằng này cơ mà!" giọng nói vang lên lớn hơn.
+"Khổ thật đấy! Đằng này, đằng này cơ mà!" giọng nói cất lên lớn hơn.
 
-Bá tước cảm thấy lồng ngực thắt lại vì kinh ngạc. "Cái quái gì thế này?" ông thốt lên rồi nhìn kỹ vật thể đang lơ lửng giữa không trung và nhìn chằm chằm vào mình. Đó chính là con búp bê biết nói ở dinh thự của ông. Ông đã mang nó theo bên mình.
+Bá tước thót tim vì kinh ngạc. "Cái quái gì thế này?" ông thốt lên, trố mắt nhìn thứ đang lơ lửng giữa không trung và chằm chằm nhìn lại mình. Đó chính là con búp bê biết nói ở dinh thự của ông. Ông đã đem theo nó bên mình.
 
-"Ngài có phải... Ngài có phải là vị thần đó không?"
+"Ngài có phải... Ngài là vị thần hôm nọ sao?"
 
-Trước sự ngạc nhiên của ông, con búp bê lắc đầu: "Không, không, ta chỉ là một thần tinh linh vô danh thôi. Hai người này là tín đồ của ta. Nhưng ngươi là tín đồ của Viroget, phải không? Sức mạnh của Viroget vẫn còn lưu lại trong con búp bê này, nên ta cũng có thể chui vào bên trong nó."
+Thế nhưng con búp bê lại lắc đầu trước sự ngạc nhiên của ông. "Không, không, ta chỉ là một thần tinh linh không tên thôi. Hai người đằng kia mới là tín đồ của ta. Cơ mà ngươi là tín đồ của Viroget đúng không? Quyền năng của Viroget vẫn còn vương lại trong con búp bê này, nên ta mới chui vào được đấy chứ."
 
-Viroget là Thần Thực Vật và mùa màng trù phú. Ngành nghề kinh doanh mũi nhọn ở lãnh địa của bá tước là sản xuất dược phẩm, nên ông luôn tôn thờ Viroget, vị thần cai quản các loài thực vật vốn là nguồn nguyên liệu cho rất nhiều loại thuốc trong số đó. Mãi đến tận lúc này ông mới biết con búp bê từng được Viroget trú ngụ, và sự kiện thần hiển đầu tiên kia hóa ra thực sự là từ một vị thần giáng lâm. Nhưng nếu đúng như vậy, điều đó vẫn chưa giải thích được lý do vì sao một tinh linh bí ẩn khác giờ đây lại đang nhập vào con búp bê và trò chuyện với ông.
+Viroget là Thần Thực Vật và sinh sôi màu mỡ. Nghề chính ở lãnh địa của bá tước là bào chế dược liệu, thế nên ông tôn thờ Viroget — vị thần cai quản cây cỏ vốn là nguồn nguyên liệu cho phần lớn các loại thuốc. Đến tận lúc này ông mới vỡ lẽ con búp bê từng được Viroget ngự vào, và lần thần tích đầu tiên đó quả thực là do thần linh giáng thế. Cơ mà nếu vậy thì vẫn chẳng giải thích được tại sao giờ đây một thần tinh linh bí ẩn khác lại nhập vào con búp bê để nói chuyện với ông.
 
-"Ta là một mảnh của Viroget," vị tinh linh giải thích. "Đến lúc này ta tồn tại gần như độc lập, nhưng đôi khi vẫn nhận mệnh lệnh. Và ta được lệnh phải giúp đỡ ngươi."
+"Ta là một phân thân của Viroget," vị thần tinh linh giải thích. "Giờ thì ta tồn tại gần như độc lập rồi, nhưng thỉnh thoảng vẫn phải nhận lệnh. Lần này ta được bảo đến giúp ngươi đấy."
 
-"Tôi ư?" bá tước hỏi.
+"Tôi sao?" bá tước hỏi.
 
-"Phải, là ngươi đấy. Lão đại đúng là kẻ bóc lột sức lao động mà, ngươi biết không. Nhưng thôi kệ. Ta cần phải báo cho ngươi biết rằng nếu giờ mà ngươi đi về nhà, ngươi sẽ không thể cứu được con gái mình đâu."
+"Chứ ai vào đây nữa. Lão sếp trên đó đúng là đồ bóc lột mà. Cơ mà thôi kệ. Ta phải báo cho ngươi biết, nếu giờ mà quay về là ngươi khỏi cứu con gái luôn đấy."
 
-"Cái gì? Sao lại như thế?"
+"Sao cơ? Tại sao lại thế?"
 
-"Đúng là chứng bệnh của con bé là một biến thể nhiễm trùng do loài bọ quái vật bản địa ở ngôi làng mà Lorraine vừa kể với ngươi gây ra. Thuốc chữa trị cũng có thể được điều chế bằng những nguyên liệu mà ngươi đang có trong tay lúc này."
+"Đúng là con bé mắc một biến thể truyền nhiễm do lũ bọ quái vật ở ngôi làng Lorraine vừa kể gây ra. Thuốc chữa cũng làm được từ mấy thứ nguyên liệu ngươi đang cầm trong tay đấy."
 
-"Vậy thì có vấn đề gì chứ?" bá tước hỏi.
+"Thế thì còn vấn đề gì nữa?" bá tước hỏi.
 
-"Sẽ chẳng có vấn đề gì nếu ngươi dùng thuốc đó cho dân làng ở Chiweb, nơi căn bệnh này thường xuyên xuất hiện. Họ đã thích nghi với cuộc sống xung quanh lũ bọ quái vật và phần nào cùng tồn tại hòa hợp với chúng, nên họ không cần hỗ trợ quá nhiều. Thuốc chỉ đơn thuần ức chế lũ bọ để chúng không gây tổn hại quá lớn. Nhưng con gái ngươi thì không giống như những dân làng đó, nên phương thuốc chữa trị ấy chưa đủ tốt đâu."
+"Sẽ chẳng có vấn đề gì nếu đem dùng cho dân làng Chiweb, nơi chứng bệnh này xảy ra như cơm bữa. Họ đã quen sống chung với lũ bọ quái vật rồi, nên không cần thuốc thang gì nhiều, chỉ cần kìm hãm để lũ bọ không quấy phá quá mức là xong. Nhưng con gái ngươi đâu có giống dân làng ở đó, thuốc ấy làm sao ăn thua."
 
-"Trời ạ... Vậy thì, chẳng lẽ không còn cách nào cứu con gái tôi sao?" Thuốc men hóa ra đều vô nghĩa. Họ đã phát hiện ra căn bệnh đó là gì nhưng lại chẳng có cách nào chữa trị triệt để. Bá tước nghĩ rằng con gái mình coi như cầm chắc cái chết.
+"Trời ơi... Vậy chẳng lẽ không còn cách nào cứu con bé sao?" Thuốc thang gom được hóa ra đều vô nghĩa. Biết được bệnh gì mà lại không có cách chữa. Bá tước thầm nghĩ con gái mình coi như đã cầm chắc cái chết.
 
-"Nào, hãy đợi một chút đã," con búp bê nói. "Chớ có vội vàng kết luận sớm. Có cách để cứu con bé đấy. Nếu ngươi làm cho thứ thuốc đó mạnh hơn nữa, ngươi có thể ép lũ bọ phải rời khỏi cơ thể con bé. Ngươi muốn biết cần những nguyên liệu nào để làm việc đó đúng không? Đó chính là lý do ta nhập vào con búp bê này để nói cho ngươi hay đấy."
+"Khoan hẵng cuống lên nào," con búp bê nói. "Đừng vội bi quan thế chứ. Có cách cứu con bé đấy. Nếu tăng dược lực của thuốc lên, ngươi có thể tống khứ lũ bọ ra khỏi người nó. Ngươi đang muốn biết cần nguyên liệu gì đúng không? Ta nhập vào con búp bê này chính là để mách nước cho ngươi đấy."
 
-"Thật ư?! Vậy xin ngài, xin hãy nói cho tôi biết!" Ông không kìm được mà chộp lấy con búp bê rồi lắc mạnh.
+"Thật sao?! Vậy xin ngài, xin hãy nói cho tôi biết đi!" Ông không kìm được mà chộp lấy con búp bê lắc lấy lắc để.
 
-"Ta sẽ nói, ta sẽ nói mà, buông ta ra đã," con búp bê van nài. Sau khi bá tước buông tay, con búp bê thở phào nhẹ nhõm. "Thế nên, này con người, nếu ngươi đi về hướng đông bắc từ Maalt chừng hai ngày, ngươi sẽ tìm thấy Rừng Cổ Đại Rasta. Hãy tiến sâu vào trong khu rừng đó, đánh bại một con Ent Cổ Đại và lấy lá của nó. Nếu ngươi cho thêm thứ đó vào thuốc trị bệnh do bọ quái vật, con gái ngươi sẽ được cứu. Dù sao thì, gặp lại sau nhé." Dứt lời, con búp bê vỡ vụn thành tro bụi. Có lẽ nó không còn đủ sức chứa chấp thần tinh linh thêm được nữa.
+"Ta nói, ta nói mà, buông ta ra đã!" con búp bê van nài. Đợi bá tước buông tay, con búp bê mới thở phào nhẹ nhõm. "Nghe đây, hỡi con người. Nếu đi về hướng đông bắc Maalt chừng hai ngày đường, ngươi sẽ thấy Rừng Cổ Đại Rasta. Hãy tiến sâu vào khu rừng đó, hạ một con Ent Cổ Đại rồi lấy lá của nó. Đem lá đó sắc cùng thuốc trị bọ quái vật là con gái ngươi sẽ được cứu. Thôi, hẹn gặp lại sau nhé." Dứt lời, con búp bê vỡ vụn thành tro bụi. Có lẽ nó không còn đủ sức dung nạp thần tinh linh được nữa.
 
-"Mọi người có nghe thấy gì không?" bá tước hỏi ba người còn lại. "Tôi không hề nằm mơ hay nghe nhầm đấy chứ?"
+"Mọi người có nghe thấy không?" bá tước hỏi ba người kia. "Tôi không nằm mơ hay nghe nhầm đấy chứ?"
 
-"Không, tôi cũng nghe thấy," Lorraine đáp.
+"Không, tôi cũng nghe thấy mà," Lorraine đáp.
 
-Hayden gật đầu: "Tôi cũng thế."
+Hayden gật đầu. "Tôi cũng vậy."
 
-"Vậy thì công việc của chúng ta vẫn chưa kết thúc rồi," Rentt nói. "Chúng tôi sẽ phải dẫn đường cho hai người đến đó. Liệu ngày mai chúng ta có thể lên đường đến Rừng Cổ Đại Rasta không? Đến lúc đó tôi sẽ chuẩn bị sẵn ngựa."
+"Vậy thì công việc của chúng ta vẫn chưa xong rồi," Rentt nói. "Tụi tôi sẽ dẫn đường cho hai người đến đó. Ngày mai ta lên đường tới Rừng Cổ Đại Rasta luôn được chứ? Từ giờ đến lúc đó tôi sẽ chuẩn bị sẵn ngựa."
 
-Bá tước gần như rơi nước mắt khi nghe những lời đó. Họ không nhất thiết phải làm vậy. Đúng là ông cần người dẫn đường, nhưng chuyện này đã vượt quá xa phạm vi công việc ban đầu của họ. Nó cũng sẽ rất nguy hiểm. Ent Cổ Đại là một mối đe dọa đáng gờm. Vậy mà họ vẫn hoàn toàn sẵn lòng giúp đỡ.
+Bá tước nghe vậy mà chực rơi nước mắt. Họ đâu nhất thiết phải làm thế. Đúng là ông cần người dẫn đường, nhưng việc này đã vượt xa thỏa thuận ban đầu của họ. Chưa kể chuyến đi sẽ rất nguy hiểm, bởi Ent Cổ Đại là mối đe dọa không hề nhỏ. Vậy mà họ vẫn sẵn lòng giúp đỡ hết mình.
 
-"Tôi sẽ hậu tạ hai người thật xứng đáng. Ngoài ra, hai người không cần phải làm bất cứ điều gì quá mạo hiểm vì tôi đâu. Nhưng nếu hai người sẵn lòng dẫn đường cho chúng tôi, thì xin cảm ơn hai người rất nhiều."
+"Tôi sẽ hậu tạ hai người thật chu đáo. Mọi người cũng không cần phải liều mạng vì tôi đâu. Nhưng nếu hai người chịu dẫn đường giúp, tôi xin chân thành cảm ơn."
 
-Cảm thấy thỉnh cầu này không mấy tương xứng với thể diện của một quý tộc có địa vị như mình, bá tước cúi đầu thật sâu. Hai mạo hiểm giả khẽ gật đầu, còn Hayden vỗ nhẹ lên vai bá tước.
+Dù biết lời thỉnh cầu này có phần hạ thấp vị thế của một đại quý tộc, bá tước vẫn cúi đầu thật sâu. Hai mạo hiểm giả khẽ gật đầu, còn Hayden vỗ nhẹ lên vai ông.
