@@ -1,147 +1,147 @@
 # Chương 101: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (8)
 
-Tôi vừa được khen ngợi vì những nỗ lực của mình.
+Tôi vừa được khen vì đã chịu khó cất công đi kiếm đồ.
 
-Mà thực ra... đó có tính là khen ngợi không nhỉ? Cứ như thể vì lý do nào đó mà Lorraine đã chuẩn bị sẵn tinh thần cho tình huống tồi tệ nhất vậy...
+Mà thật ra... thế có tính là khen không nhỉ? Cứ như thể vì lý do gì đó mà Lorraine đã chuẩn bị sẵn tinh thần cho tình huống tệ nhất rồi vậy...
 
-"Ý cô là sao khi bảo 'loại gỗ kỳ quặc' cơ...?"
+"Cô bảo 'loại gỗ kỳ quặc' là ý gì cơ...?"
 
-"Gỗ không đủ độ bền, hoặc là loại rất khó gia công xử lý ấy mà. Tôi cứ nghĩ khả năng cao sẽ xảy ra chuyện đó. Ừ thì, cũng là lỗi của tôi vì đã không báo trước cho anh về mấy thứ đó. Nhưng số gỗ anh mang về lần này hoàn toàn không tệ chút nào. Có điều, gỗ mun có lẽ hơi nặng đối với vóc dáng của Alize. Bạch dương hoặc linh sam là vừa đủ cho mục đích của chúng ta rồi."
+"Gỗ không đủ chắc, hoặc khó đẽo gọt gia công ấy mà. Tôi cứ đinh ninh anh dễ vớ phải mấy thứ đó. Ừ thì cũng tại tôi không dặn trước. Nhưng mớ gỗ anh mang về lần này chẳng tệ chút nào đâu. Có điều, gỗ mun có lẽ hơi nặng so với vóc dáng của Alize. Bạch dương hay linh sam là đủ dùng cho việc của chúng ta rồi."
 
-Nghĩ lại thì, con Ent Jyulapus gỗ mun quả thực nặng nề hơn hai con kia một chút. Dù tôi chẳng cần tốn mấy sức lực để nhét nguyên liệu vào túi ma thuật, nhưng từng đòn tấn công của nó trong trận chiến đều mang theo một sức nặng rõ rệt.
+Nghĩ lại thì, con Ent Jyulapus gỗ mun đúng là nặng hơn hai con kia một chút. Dù lúc nhét đồ vào túi ma thuật tôi chẳng tốn mấy sức, nhưng đòn đánh nào của nó lúc giao chiến cũng mang theo sức nặng thấy rõ.
 
 ...Hửm?
 
-"Vậy gỗ mun là lựa chọn tồi để làm đũa phép sao...?"
+"Thế lấy gỗ mun làm đũa phép không ổn sao...?"
 
-"Ở một chừng mực nào đó thì đúng là vậy. Tuy nhiên, nó lại thực sự khá hợp với anh đấy. Dù sao thì anh cũng có thừa sức khỏe. Hơn nữa, anh thường vung vũ khí với lực đạo rất lớn. Gỗ mun là loại vật liệu tương đối bền chắc, nên chỉ bấy nhiêu thôi thì không làm nó gãy được đâu. Quả thực rất hợp với anh. Nhưng nó lại là vật liệu khó gia công... Sẽ là một thử thách đấy, Rentt!" Lorraine nói, khóe môi thoáng nở một nụ cười tinh nghịch.
+"Cũng đúng một phần. Nhưng thật ra nó lại rất hợp với anh đấy. Dù sao anh cũng có sức, lại hay vung vũ khí bằng lực rất mạnh. Gỗ mun tương đối cứng cáp, chỉ ngần ấy lực thì không làm nó gãy nổi đâu. Đúng là rất hợp với anh. Có điều loại này khó gia công lắm... Sẽ là một thử thách ra trò đấy, Rentt!" Lorraine nói, nở một nụ cười đầy tinh nghịch.
 
-...Thôi thì. Dù sao mớ gỗ này cũng do chính tay tôi thu thập. Tôi cho là trong trường hợp cụ thể này, mình có thể để cô ấy gánh vác phần trách nhiệm đó.
+...Thôi kệ. Dù sao mớ gỗ này cũng do tự tay tôi kiếm về. Riêng lần này, cứ để cô ấy đứng ra gánh vác vậy.
 
 "Còn Ma Tinh thì sao...?"
 
-"Nhiều lựa chọn quá nên hoa mắt rồi à? Đừng đắn đo quá làm gì, Rentt. Cứ chọn màu anh thích là được. Khi nào Alize tự tay làm cây của con bé, tôi cũng sẽ bảo con bé làm y như vậy."
+"Nhiều lựa chọn quá nên hoa cả mắt chứ gì? Đừng đắn đo nhiều làm gì, Rentt. Cứ chọn màu anh thích là được. Khi nào Alize tự tay làm cây của con bé, tôi cũng sẽ bảo con bé làm y như thế."
 
-Những viên Ma Tinh tôi có thể dùng làm đũa phép là của Goblin Mỏ Quặng, Orc Binh, hoặc Terra Drake. Ngoài những viên đó ra, tất cả những viên còn lại đều được thu hoạch từ tầng một hoặc tầng hai. Lorraine đã chỉ rõ rằng chỉ có Ma Tinh từ tầng ba trở xuống mới dùng được.
+Số Ma Tinh tôi có thể dùng làm đũa phép gồm có của Goblin Mỏ Quặng, Orc Binh hoặc Terra Drake. Ngoài mấy viên đó, số còn lại đều được lấy từ tầng một hoặc tầng hai. Lorraine đã dặn kỹ là chỉ Ma Tinh từ tầng ba trở xuống mới dùng được.
 
-"Tôi muốn hỏi một chút... Ma Tinh của Goblin hay Slime hoàn toàn không thể dùng làm đũa phép sao?"
+"Tôi tính hỏi chút... Chẳng lẽ Ma Tinh của Goblin hay Slime hoàn toàn không dùng làm đũa phép được sao?"
 
-"Tôi không hẳn nói vậy đâu, Rentt. Hoàn toàn không phải là chuyện bất khả thi... Nhưng chắc chắn sẽ nảy sinh vấn đề trong việc khuếch đại và điều khiển Ma Lực, cùng nhiều thứ khác nữa. Đặc biệt là Alize sở hữu trữ lượng Ma Lực rất dồi dào trong cơ thể. Nếu dùng những viên Ma Tinh đơn giản như thế, chỉ cần vài ma pháp cơ bản của Alize gần như chắc chắn sẽ khiến nó nứt toác."
+"Cũng không hẳn thế, Rentt à. Không đến mức hoàn toàn không dùng được... nhưng chắc chắn sẽ gặp trục trặc khi khuếch đại hay kiểm soát Ma Lực, cùng cả đống rắc rối khác. Nhất là Alize, lượng Ma Lực trong người con bé rất dồi dào. Nếu dùng loại Ma Tinh đơn sơ như thế, con bé chỉ cần thi triển vài ma pháp cơ bản là nó nứt toác ngay."
 
-"...Không thể dung nạp nổi Ma Lực của con bé, tôi đoán vậy."
+"...Chắc là không chứa nổi Ma Lực của con bé rồi."
 
-"Có thể nói là vậy đấy. Tuy nhiên, nếu một người đã sử dụng Ma Lực trong thời gian dài, họ hoàn toàn có thể tiết chế dòng chảy Ma Lực của bản thân. Trong trường hợp đó, ngay cả một cây đũa phép làm từ viên Ma Tinh yếu ớt như vậy cũng có thể dùng được khá lâu. Dĩ nhiên là Alize hầu như chưa có kinh nghiệm cần thiết. Do đó, điều đó là bất khả thi."
+"Đại khái là thế. Nhưng nếu là người đã dùng Ma Lực lâu năm, người ta hoàn toàn có thể tự tiết chế luồng Ma Lực của mình. Khi ấy, ngay cả một cây đũa phép gắn loại Ma Tinh yếu như vậy vẫn có thể dùng được khá lâu. Hiển nhiên Alize làm sao đã có đủ kinh nghiệm. Thành ra với con bé thì coi như chịu."
 
-Giờ thì tôi đã hiểu. Vì đây là cây đũa phép dùng để luyện tập thường xuyên, sẽ là vấn đề lớn nếu nó cứ liên tục gãy hỏng. Cần phải tốn không ít công sức, và sẽ lại phải làm một cây đũa phép khác nếu chuyện như thế xảy ra.
+Ra là thế. Cây đũa phép này dùng để tập luyện hằng ngày, nếu cứ hở ra là hỏng thì phiền toái lắm. Mỗi lần như vậy lại tốn bao nhiêu công sức để làm cây khác thay thế.
 
-Dù tôi từng nghe những câu chuyện về việc các pháp sư làm gãy vô số đũa phép trong quá trình học cách chế tác chúng, nhưng Ma Tinh trên những cây đũa bị rạn nứt thường sẽ phát nổ khi sử dụng, và điều đó hết sức nguy hiểm. Chẳng việc gì phải tự chuốc lấy hiểm nguy như thế.
+Tôi từng nghe kể chuyện các ma pháp sư làm gãy không biết bao nhiêu cây đũa khi tập tành chế tạo, nhưng Ma Tinh trên đũa một khi đã nứt thì rất dễ phát nổ lúc sử dụng, nguy hiểm khôn lường. Chẳng việc gì phải tự đâm đầu vào chỗ nguy hiểm như thế.
 
-"Nếu đã vậy thì, Rentt này, tôi lấy hết chỗ Ma Tinh này được chứ?"
+"Nếu đã vậy thì, Rentt này, tôi giữ lại hết chỗ Ma Tinh này nhé?"
 
-Tôi gật đầu. Dù sao thì tôi cũng thu thập tất cả những thứ này cho buổi học. Tuy trách nhiệm thu gom nguyên liệu cần thiết cho bài học vốn thuộc về người dạy—trong trường hợp này là Lorraine—cô ấy vẫn đề nghị trả thù lao cho công sức đi thực địa của tôi.
+Tôi gật đầu. Dù sao đống đồ này cũng là tôi gom về cho buổi học. Đáng lý ra trách nhiệm chuẩn bị nguyên liệu thuộc về người dạy, tức là Lorraine, nhưng cô ấy vẫn đề nghị trả thù lao cho công tôi lặn lội kiếm đồ.
 
-Tuy nhiên, tôi đã từ chối nhận bất kỳ khoản thanh toán nào. Ngay từ đầu, tôi đã phải trả học phí cho cả Alize lẫn bản thân mình. Trái lại, xét cho cùng thì tôi còn mang nợ Lorraine nhiều hơn.
+Nhưng tôi nhất quyết không lấy tiền. Ngay từ đầu tôi đã phải trả học phí cho cả Alize lẫn bản thân. Nói đúng hơn thì chính tôi mới là người mang nợ Lorraine nhiều hơn.
 
-Lorraine dĩ nhiên là một ma pháp sư vô cùng tài ba. Trong điều kiện bình thường, muốn được cô ấy chỉ dạy tận tình như vậy mà không phải trả trước một khoản tiền kếch xù là điều không tưởng.
+Lorraine dĩ nhiên là một ma pháp sư rất giỏi. Bình thường, muốn được cô ấy kèm cặp mà không trả trước một khoản tiền kếch xù thì đừng hòng có cửa.
 
-Dẫu vậy, tôi không thể tùy tiện nhận tiền thưởng cho công sức của mình. Lorraine quả thực đã phản đối quyết định của tôi, bảo rằng tôi cứ cầm lấy những gì được đưa. Dù thế, tôi vẫn khăng khăng không nhận bất kỳ đồng thù lao nào.
+Tôi làm sao có thể mặt dày nhận tiền cho chút công sức ấy được. Lorraine phản đối, bảo người ta đưa thì cứ việc cầm lấy, nhưng tôi vẫn một mực chối từ.
 
-Lorraine khăng khăng muốn tôi nhận chút tiền công, nhưng tôi cũng kiên quyết chối từ. Trong trường hợp này, có lẽ hai đứa nên nhượng bộ nhau một chút và không tính toán chi phí qua lại nữa. Tôi chẳng hề có ý định chỉ biết bòn rút lòng tốt của Lorraine.
+Lorraine khăng khăng bắt tôi cầm tiền, nhưng tôi cũng kiên quyết không nhận. Đã thế thì tốt nhất hai đứa cứ nhượng bộ nhau một bước, khỏi tính toán tiền nong qua lại cho mệt. Tôi chẳng hề có ý định dựa dẫm để lợi dụng lòng tốt của cô ấy.
 
-Nhưng trên thực tế, tôi lại cảm thấy mình đã bòn rút của cô ấy quá nhiều rồi...
+Nhưng thật lòng mà nói, hình như trước giờ tôi đã dựa dẫm vào cô ấy quá nhiều rồi...
 
-Sau cuộc thảo luận ngắn về chuyện thù lao, Lorraine tiếp tục.
+Sau một hồi dây dưa chuyện tiền nong, Lorraine lại nói tiếp.
 
-"Được rồi, tiếp theo là tinh luyện quặng Ma Thiết."
+"Được rồi, tiếp theo là tinh luyện quặng Ma Thiết nhé."
 
 Tinh luyện quặng...
 
-Có khá nhiều phương pháp để thực hiện việc này. Chẳng hạn, Hội Thợ Rèn thường trang bị các ma cụ chuyên dụng cho mục đích này—tinh luyện quặng trên quy mô lớn. Đây có lẽ là phương pháp được biết đến rộng rãi nhất. Cũng có những phương pháp cổ xưa, thô sơ hơn mà không phụ thuộc vào ma thuật hay ma cụ, nhưng chúng lại tốn kém hơn, đồng thời mất nhiều thời gian hơn đáng kể.
+Có khá nhiều cách để làm việc này. Chẳng hạn, Hội Thợ Rèn thường trang bị ma cụ chuyên dụng để tinh luyện quặng trên quy mô lớn. Đây có lẽ là cách phổ biến nhất. Ngoài ra cũng có những phương pháp cổ xưa, thô sơ hơn mà không cần dựa vào ma thuật hay ma cụ, nhưng lại tốn kém và mất nhiều thời gian hơn hẳn.
 
-Tại các khu định cư biên ải, những xưởng tinh luyện quy mô nhỏ xuất hiện khá phổ biến. Còn những xưởng quy mô lớn thì tương đối hiếm hoi. Vương Quốc Yaaran vốn là một xứ biên thùy hẻo lánh, nên tôi hoàn toàn có thể tìm thấy một xưởng tinh luyện quặng quy mô nhỏ ở một ngôi làng miền núi nào đó, dẫu tôi không chắc liệu mình có bao giờ có cơ hội bắt gặp hay không.
+Ở các khu định cư vùng biên giới, những xưởng tinh luyện nhỏ khá phổ biến, còn xưởng lớn thì hiếm hơn. Vương Quốc Yaaran vốn là một xứ vùng biên hẻo lánh, nên biết đâu tôi có thể bắt gặp một xưởng tinh luyện quặng nhỏ ở một ngôi làng miền núi nào đó, dù chẳng biết mình có cơ hội ấy hay không.
 
-Vì lẽ đó, hầu hết quặng đều được tinh luyện nhờ sự trợ giúp của ma cụ. Tuy nhiên, vẫn còn một cách thức khác để tiến hành:
+Bởi vậy, phần lớn quặng đều được tinh luyện nhờ ma cụ hỗ trợ. Nhưng vẫn còn một cách khác nữa:
 
 Thuật giả kim.
 
-Nói một cách chặt chẽ thì việc tinh luyện quặng bằng ma cụ về bản chất cũng được coi là thuộc về thuật giả kim. Xét cho cùng, những dụng cụ đó đều được tạo ra nhờ thuật giả kim. Tuy nhiên, người ta hoàn toàn có thể kiểm soát Ma Lực của chính mình để tiến hành tinh luyện mà không cần tới công cụ chuyên dụng. Đây chính là phương pháp mà Lorraine chuẩn bị sử dụng.
+Nói cho đúng ra thì tinh luyện quặng bằng ma cụ về bản chất cũng là thuật giả kim. Đằng nào thì mấy công cụ đó cũng do thuật giả kim chế tạo ra cả. Song, người ta hoàn toàn có thể tự kiểm soát Ma Lực để tinh luyện mà chẳng cần đến công cụ chuyên dụng. Đó chính là cách mà Lorraine sắp sửa làm.
 
-Thuật giả kim tuyệt nhiên không chỉ giới hạn riêng cho giới ma pháp sư. Thực tế vẫn tồn tại những nhà giả kim không phải pháp sư. Thế nhưng, việc có thể kiểm soát Ma Lực ở một mức độ nhất định sẽ giúp việc nghiên cứu nghệ thuật giả kim trở nên dễ dàng hơn nhiều. Nếu thiếu đi khả năng kiểm soát này, họ buộc phải sử dụng một số loại Ma Tinh nhất định, hoặc những ma cụ chuyên dụng để điều tiết Ma Lực. Tất cả những thứ đó đều vô cùng phiền toái.
+Thuật giả kim hoàn toàn không dành riêng cho ma pháp sư. Ngoài kia vẫn có những nhà giả kim chẳng biết dùng ma thuật. Dẫu vậy, kiểm soát được Ma Lực ở chừng mực nhất định sẽ giúp việc nghiên cứu thuật giả kim dễ thở hơn nhiều. Nếu không làm được điều đó, người ta buộc phải dùng đến vài loại Ma Tinh nhất định hoặc ma cụ chuyên dụng để điều tiết Ma Lực. Mọi chuyện khi ấy sẽ phiền phức vô cùng.
 
-Lorraine, với tư cách là một ma pháp sư lão luyện, hoàn toàn có khả năng thực hiện quá trình tinh luyện chỉ bằng một tay, thậm chí có khi nhắm một mắt cũng làm được. Trên thực tế, đó chính xác là những gì Lorraine đang làm lúc này. Hai bàn tay cô đặt lên vài mẩu quặng Ma Thiết trên mặt bàn.
+Là một ma pháp sư cao tay, Lorraine hoàn toàn có thể tinh luyện chỉ bằng một tay, thậm chí vừa làm vừa nhắm tịt một mắt cũng xong. Mà thực tế thì cô cũng đang làm đúng như thế. Hai bàn tay cô đặt lên mấy mẩu quặng Ma Thiết trên bàn.
 
-"Thôi được rồi. Không lằng nhằng nữa..." Nói đoạn, Lorraine tập trung tinh thần. Quá trình bắt đầu.
+"Được rồi. Bắt đầu luôn nào..." Nói xong, Lorraine tập trung tinh thần. Quá trình bắt đầu.
 
-Tôi không thể hiểu được tường tận, bởi lẽ tôi thậm chí chẳng thể nhìn thấy Ma Lực của Lorraine đang tập trung vào đâu. Nhưng khối quặng nhanh chóng phản ứng với Ma Lực của cô và tỏa ra ánh sáng tím nhạt. Ngay sau đó, hình dạng của nó bắt đầu biến đổi. Những phần phát sáng của quặng dường như tan chảy, hóa thành một chất lỏng phát quang. Đó rất có thể chính là Ma Thiết đã qua tinh chế.
+Tôi chẳng thể thấy Ma Lực của Lorraine đang dồn vào đâu nên cũng chịu, không hiểu nổi cô làm cách nào. Nhưng mấy mẩu quặng nhanh chóng phản ứng với Ma Lực của cô, tỏa ra ánh sáng tím nhạt. Ngay sau đó, hình dạng của chúng bắt đầu biến đổi. Những phần phát sáng dường như tan chảy, hóa thành một thứ chất lỏng óng ánh. Đó hẳn là Ma Thiết đã qua tinh chế.
 
-Tựa như bầy rắn lượn lờ, các mạch Ma Thiết bắt đầu tách rời khỏi lớp đá.
+Tựa như những con rắn uốn mình, các mạch Ma Thiết bắt đầu tách rời khỏi khối đá.
 
-Keng. Coong. Có thể nghe thấy những tiếng lách cách khe khẽ khi các mẩu tạp chất nhỏ li ti bắn ra khỏi phần Ma Thiết đã hóa lỏng. Ma Thiết tinh khiết uốn lượn chảy xuôi, chầm chậm tụ lại thành một vũng trên bàn. Vũng chất lỏng sau đó nở rộng dần, rồi ngưng kết thành một khối kim loại lớn.
+Keng. Coong. Tiếng lách cách khe khẽ vang lên khi từng mẩu tạp chất li ti văng ra khỏi dòng Ma Thiết lỏng. Phần Ma Thiết đã tinh chế trườn bò rồi chảy xuôi, chầm chậm tụ lại thành một vũng trên bàn. Vũng chất lỏng cứ thế lớn dần, rồi ngưng kết thành một khối kim loại lớn.
 
-"...Hừm. Tôi cho là chừng này là hết rồi," Lorraine nói, nắm lấy một khối kim loại màu tím hình chữ nhật khi nó đang lơ lửng giữa không trung.
+"...Hừm. Chắc chỉ được chừng này thôi," Lorraine nói, vươn tay chộp lấy khối kim loại màu tím hình chữ nhật đang lơ lửng giữa không trung.
 
-"Xong rồi sao?" Tôi hỏi.
+"Xong rồi đấy à?" tôi hỏi.
 
-"Ừ, Rentt, xong rồi đấy. Khá là hoàn hảo, nếu để tự tôi nhận xét. Tôi không phải tuýp người thích tự khen mình, nhưng tôi dám cá rằng hầu hết các nhà giả kim đều không đủ trình độ để đúc nên một thỏi kim loại có độ tinh khiết cao đến nhường này đâu."
+"Ừ, Rentt, xong rồi đấy. Tự tôi thấy là làm chuẩn lắm. Tôi chẳng phải người thích tự tâng bốc mình, nhưng tôi cá là phần lớn các nhà giả kim đều không đúc nổi một thỏi kim loại có độ tinh khiết cao cỡ này đâu."
 
-Dứt lời, Lorraine vươn tay đưa thỏi Ma Thiết cho tôi. Tôi chăm chú nhìn nó. Bất chấp lời nói đùa có phần tự đắc về tay nghề của mình, thỏi kim loại trên thực tế quả thực được chế tác vô cùng tinh xảo. Tôi không thể khẳng định chắc chắn một thỏi kim loại đạt tới độ tinh luyện chính xác là bao nhiêu một khi nó đã vượt ngưỡng nào đó, nhưng chỉ cần liếc qua một cái là đủ để tôi nhận ra khối kim loại mình đang cầm có độ tinh khiết vượt trội hơn nhiều so với thỏi lấy từ Hội Thợ Rèn chẳng hạn.
+Nói rồi, Lorraine chìa tay đưa thỏi Ma Thiết cho tôi. Tôi nhìn chăm chú vào nó. Dù cô ấy có nói đùa về chuyện tự tin thái quá, thỏi kim loại này thực sự được làm rất khéo. Tôi khó mà biết chính xác độ tinh khiết của một thỏi kim loại một khi đã vượt qua mức nào đó, nhưng chỉ cần liếc qua là đủ để tôi nhận ra khối mình đang cầm có độ tinh khiết vượt trội hơn hẳn đồ lấy từ Hội Thợ Rèn chẳng hạn.
 
-Nhưng dĩ nhiên, sản phẩm của hội là hàng sản xuất hàng loạt, trong khi thỏi kim loại tôi cầm trên tay lại không phải thế. Phương pháp áp dụng cũng hoàn toàn khác biệt. Xét tới việc một thợ đúc thường sẽ tinh luyện thêm để nâng cao chất lượng của các thỏi kim loại sau khi nhận từ hội, hai thứ này đơn giản là không thể đem ra so sánh với nhau được.
+Nhưng dĩ nhiên, đồ của hội là hàng sản xuất đại trà, còn thỏi kim loại trên tay tôi thì không. Cách thức làm ra cũng hoàn toàn khác biệt. Lại thêm việc thợ rèn thường phải tự tinh luyện lại để nâng cao chất lượng các thỏi kim loại sau khi lấy từ hội về, hai bên vốn dĩ chẳng thể đem ra so sánh.
 
-Khối kim loại tôi cầm trên tay sở hữu chất lượng cao hơn hẳn. Nhìn chung, Lorraine đã hoàn thành công việc của mình quá đỗi xuất sắc.
+Khối kim loại tôi cầm trên tay có chất lượng tốt hơn hẳn. Tính ra, Lorraine đã hoàn thành phần việc này trên cả tuyệt vời.
 
-"Tiện thể thì tôi xử lý luôn toàn bộ các mẩu quặng còn lại nhé. Anh có muốn thế không, Rentt?" Lorraine hỏi. Tôi gật đầu đáp lời, dốc cạn toàn bộ các mẩu quặng Ma Thiết trong túi ra mặt bàn.
+"Tiện thể tôi xử lý nốt mấy mẩu còn lại luôn nhé. Anh thấy sao, Rentt?" Lorraine hỏi. Tôi gật đầu, dốc sạch số quặng Ma Thiết trong túi ra bàn.
 
-"À... Một số mẩu quặng yểm ma thuật cũng lẫn trong này. Để tôi phân loại chúng ra. Ngoài những mẩu đã ngả vàng, tôi cứ gom hết phần còn lại nhé?"
+"À... Trong này có lẫn cả mấy mẩu quặng nhiễm ma thuật nữa. Để tôi lựa riêng ra. Trừ những mẩu đã ngả vàng, tôi cứ gom hết phần còn lại nhé?"
 
-"À, ừ, mớ quặng yểm ma thuật. Dù có vài mẩu bị biến đổi sâu bên trong, tôi sẽ xử lý chuyện đó trong quá trình tinh luyện. Tôi có thể làm hết một lượt, nhưng quả thực rất tốn sức. Phân loại chúng ra sẽ là lựa chọn khôn ngoan hơn lúc này."
+"À, ừ, mớ quặng nhiễm ma thuật. Dù có vài mẩu bị biến đổi ngầm bên trong, tôi sẽ xử lý chuyện đó trong lúc tinh luyện. Tôi làm hết một lượt cũng được nhưng mệt lắm. Cứ tách riêng ra thì khôn ngoan hơn đấy."
 
-Có vẻ như Lorraine thừa sức tinh chế cả Ma Thiết thông thường lẫn loại quặng đã bị biến đổi bởi Ma Lực của Rồng Đất. Tuy nhiên, việc này rõ ràng tiêu tốn nhiều Ma Lực hơn, vì thế tôi bắt tay vào việc tách riêng chúng ra.
+Xem ra Lorraine thừa sức tinh luyện cả Ma Thiết bình thường lẫn loại quặng ngấm Ma Lực của Rồng Đất. Có điều làm vậy ngốn nhiều Ma Lực hơn hẳn, nên tôi bắt tay vào lựa riêng từng loại.
 
-Theo lời Lorraine, tỷ lệ thất bại sẽ cao hơn nhiều nếu trộn lẫn hai loại với nhau. Dù vậy, một lượng tạp chất nhỏ thì không tốn quá nhiều công sức để loại bỏ. Nghĩ vậy, tôi cẩn thận sắp xếp ngay ngắn các mẩu quặng trong tay.
+Theo lời Lorraine, nếu để lẫn hai loại với nhau thì tỷ lệ thất bại sẽ cao hơn nhiều. Dẫu vậy, một chút tạp chất nhỏ thì cũng chẳng tốn quá nhiều công để lọc bỏ. Nghĩ vậy, tôi cẩn thận xếp ngay ngắn mớ quặng trước mặt.
 
 "Nhiều quá..."
 
-Lorraine không hề ám chỉ lượng Ma Thiết trên bàn, mà là đang nói tới mớ quặng yểm ma thuật bị nhuộm sắc bởi Ma Lực của Rồng Đất. Khoảng một phần ba số quặng ở đây là thuộc loại đó. Theo như tôi thấy, số quặng này có thể đúc ra được kha khá thỏi kim loại.
+Lorraine không nói về lượng Ma Thiết trên bàn, mà là đang nhắc tới mớ quặng nhiễm Ma Lực của Rồng Đất. Phải đến một phần ba số quặng ở đây thuộc loại đó. Cứ đà này thì tôi thấy có thể đúc ra được kha khá thỏi kim loại.
 
-"Anh có chắc là con Rồng Đất của anh không đơn thuần chỉ giải phóng một làn sóng Ma Lực ra xung quanh đấy chứ? Các mạo hiểm giả bình thường gần như chắc chắn sẽ ngất lịm đi nếu có mặt ở đó..." Lorraine nói, thản nhiên thốt ra một sự thật hãi hùng.
+"Anh có chắc con Rồng Đất của anh không chỉ đơn thuần là tỏa một luồng sóng Ma Lực ra xung quanh đấy chứ? Mạo hiểm giả bình thường mà ở đó thì gần như chắc chắn đã ngất lịm đi rồi..." Lorraine nói, giọng điềm nhiên thốt ra một sự thật rợn người.
 
-Rất có thể chính nhờ cơ thể này mà tôi đã không phải gánh chịu bất kỳ tác động tiêu cực nào. Một mạo hiểm giả bình thường nếu có mặt ở đó có lẽ không chết ngay, nhưng họ có thể bị quái vật quanh khu vực tấn công sau khi ngất xỉu, và rốt cuộc sẽ dẫn tới cái chết.
+Rất có thể chính nhờ cơ thể này mà tôi mới bình an vô sự. Một mạo hiểm giả bình thường nếu có mặt ở đó có lẽ chẳng chết ngay đâu, nhưng sau khi ngất đi thì rất dễ bị quái vật gần đó mò tới tấn công, cuối cùng cũng mất mạng như chơi.
 
-"Lần lữa mãi cũng chẳng giải quyết được gì, đúng không?"
+"Cứ lần lữa mãi cũng chẳng ích gì nhỉ?"
 
-Lorraine đặt hai tay lên đống quặng Ma Thiết bình thường rồi lại bắt đầu tập trung tinh thần. Lần này tiến độ của cô nhanh hơn hẳn. Có lẽ cô đã nắm bắt rõ hơn về cấu trúc của loại kim loại này.
+Lorraine đặt hai tay lên đống quặng Ma Thiết thông thường rồi lại bắt đầu tập trung. Lần này tiến độ của cô nhanh hơn hẳn, có lẽ nhờ đã nắm rõ hơn cấu trúc của thứ kim loại này.
 
-Hết thỏi này đến thỏi khác chất thành đống trên mặt bàn.
+Hết thỏi này đến thỏi khác lần lượt chất đống trên bàn.
 
-"...Được rồi. Tất cả những gì chúng ta thu được là chừng này," Lorraine lên tiếng sau khoảng nửa giờ kể từ khi quá trình tinh luyện bắt đầu.
+"...Được rồi. Chỗ này là tất cả những gì thu được đấy," Lorraine lên tiếng sau khoảng nửa tiếng kể từ lúc bắt đầu tinh luyện.
 
-Tốc độ của cô ấy nhanh đến khó tin. Để so sánh thì một nhà giả kim bình thường sẽ phải mất trọn một ngày trời mới làm được những gì Lorraine vừa thể hiện trước mắt tôi.
+Tốc độ của cô nhanh đến khó tin. Đem so ra thì một nhà giả kim bình thường phải mất đứt cả ngày trời mới làm xong những gì Lorraine vừa biểu diễn trước mắt tôi.
 
-"Tiếp theo sẽ là... mớ này."
+"Tiếp theo sẽ là... chỗ này."
 
-Lorraine đặt hai tay lên mớ quặng yểm ma thuật. Tôi có thể cảm nhận được sự tập trung cao độ của cô khi quặng bắt đầu phản ứng.
+Lorraine đặt hai tay lên đống quặng nhiễm ma thuật. Tôi có thể cảm nhận rõ sự tập trung của cô khi quặng bắt đầu phản ứng.
 
 "Cô có ổn không đấy, Lorraine...?"
 
-Tôi không khỏi lo lắng. Tốc độ làm việc khủng khiếp của cô ấy có chút khiến người ta phải e dè.
+Tôi không khỏi lo lắng. Tốc độ làm việc thoăn thoắt đến chóng mặt của cô quả thực khiến người ta phải rợn ngợp.
 
-"Hà. Mấy chuyện này chẳng bõ bèn gì..." Lorraine nói trong khi các thỏi kim loại lại bắt đầu chất đống lần nữa.
+"Hà. Mấy chuyện này bõ bèn gì..." Lorraine nói giữa lúc các thỏi kim loại lại tiếp tục chất đống.
 
-Khác với những thỏi Ma Thiết màu tím mà giờ tôi đã nhìn quen mắt, những thỏi kim loại mới này lại có màu vàng. Chúng mang sắc vàng, nhưng bề ngoài lại trông tinh khiết hơn hẳn. Dù ánh sáng của chúng tương đối yếu ớt, tôi vẫn có thể cảm nhận được một áp lực nhất định—một luồng khí tức hoàn toàn vắng bóng ở những thỏi Ma Thiết thông thường. Liệu đó chỉ là ảo giác của tôi thôi sao?
+Khác với những thỏi Ma Thiết ánh tím mà tôi đã nhìn quen mắt, những thỏi mới này lại có màu vàng. Dù mang sắc vàng, vẻ ngoài của chúng trông tinh khiết hơn hẳn. Tuy ánh sáng tỏa ra có phần mờ nhạt, tôi vẫn cảm nhận được một áp lực vô hình, một luồng khí tức chẳng hề xuất hiện ở những thỏi Ma Thiết thông thường. Hay là do tôi tưởng tượng ra thôi?
 
-"Xong xuôi rồi. Tôi cho là chúng ta đã hoàn tất," Lorraine nói sau mười phút, khoảng thời gian ngắn hơn đáng kể so với mẻ trước. Dẫu vậy, thành quả của cô ấy vẫn đạt đến mức hoàn hảo, theo như những gì tôi có thể nhận định.
+"Xong rồi đấy. Coi như xong xuôi cả rồi," Lorraine nói sau mười phút, nhanh hơn mẻ trước đáng kể. Dẫu thế, theo tôi thấy thì thành quả của cô vẫn hoàn hảo không chê vào đâu được.
 
-"Quả đúng là cô, Lorraine. Nhưng để cô làm tất cả những việc này miễn phí... tôi thấy áy náy quá."
+"Đúng là Lorraine có khác. Nhưng để cô làm cật lực thế này mà không lấy đồng nào... tôi thấy áy náy quá."
 
-Tôi dự tính mình sẽ phải tiêu tốn ít nhất một đồng vàng nếu tìm tới một nhà giả kim bình thường. Họ sẽ mất cả ngày để làm việc này, và độ tinh khiết của quặng đồng nghĩa với việc cần phải tiêu hao một lượng Ma Lực khổng lồ cho công việc.
+Nếu nhờ một nhà giả kim bình thường, tôi xác định phải tốn ít nhất một đồng vàng. Họ sẽ mất trọn một ngày, vả lại độ tinh khiết của quặng đòi hỏi phải tiêu tốn lượng Ma Lực khổng lồ cho công việc.
 
 Lorraine chỉ khẽ lắc đầu.
 
-"Vậy thì tôi cũng phải cảm thấy áy náy vì việc mình đang nghiên cứu một thực thể độc nhất vô nhị trên thế gian này sao, Rentt? Một thực thể chẳng thể tìm thấy ở bất kỳ nơi nào khác? Chắc chắn một trải nghiệm như thế phải đáng giá cả ngàn đồng vàng, nếu không muốn nói là còn hơn thế nữa. Xét cho cùng, việc tìm một nhà giả kim có khả năng làm những gì tôi vừa làm là hoàn toàn khả thi, nhưng tìm được một sự tồn tại như anh là điều bất khả. Đừng bận tâm quá nhiều về chuyện đó, Rentt."
+"Thế thì tôi cũng phải thấy áy náy vì đang được nghiên cứu một cá thể độc nhất vô nhị trên đời này chắc, Rentt? Một sinh mệnh chẳng thể tìm thấy ở bất cứ đâu khác ấy? Trải nghiệm như thế chắc chắn đáng giá cả ngàn đồng vàng, khéo còn hơn thế nữa kia. Xét cho cùng, tìm một nhà giả kim làm được việc tôi vừa làm thì không khó, nhưng đào đâu ra một kẻ như anh thứ hai trên đời. Đừng có lăn tăn nhiều làm gì, Rentt."
 
-Liệu tôi có phải là kẻ duy nhất thuộc chủng loại của mình? Ít nhất thì tôi vẫn chưa gặp bất kỳ ai giống như tôi, và Lorraine cũng vậy. Bản thân điều kiện tiên quyết là bị một con rồng nuốt chửng nguyên con đã là một rào cản quá cao rồi...
+Liệu tôi có phải kẻ duy nhất thuộc dạng này? Ít nhất thì tôi chưa gặp ai giống mình, mà Lorraine cũng vậy. Bản thân cái điều kiện tiên quyết là bị rồng nuốt trọn cả người vốn đã là một rào cản quá cao rồi...
 
-"Vậy thì, tôi cho là chúng ta có thể coi đây là một cuộc trao đổi dịch vụ sòng phẳng chứ?"
+"Vậy coi như đôi bên trao đổi sòng phẳng nhé?"
 
-Lorraine gật đầu trước lời đề nghị của tôi, và mọi chuyện đã được thống nhất như thế.
+Lorraine gật đầu trước đề nghị của tôi, thế là xong chuyện.
