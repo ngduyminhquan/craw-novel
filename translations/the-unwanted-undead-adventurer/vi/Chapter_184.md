@@ -1,95 +1,95 @@
 # Chương 184: Tập 8 Chương 1 - Tình Hình Maalt (3)
 
-Tôi chém bay đầu con Thi Quỷ thứ ba rồi dùng Thần Lực thanh tẩy nó. Con quái vật gào thét trong đau đớn tột cùng trước khi bỏ mạng. Dù thứ tôi vừa hạ sát chỉ là một con quái vật, nhưng trong mắt những người đứng xem, trông chẳng khác nào tôi vừa vô cớ sát hại một con người. Dân chúng trong thị trấn có phần hoang mang bất an, nhưng không giống như cách Nive hành động, tôi đã nói rõ cho mọi người biết đây là Thi Quỷ trước khi ra tay kết liễu. Bằng cách đó, tôi cũng chẳng phải lo chuyện bị bắt giữ.
+Tôi chém bay đầu con Thi Quỷ thứ ba rồi dùng Thần Lực thanh tẩy nó. Con quái vật rú lên đau đớn rồi chết hẳn. Dù tôi chỉ trừ khử một con quái vật, nhưng dưới mắt người xung quanh, trông chẳng khác nào tôi vừa vô cớ giết người. Dân trong thị trấn cũng có phần bất an, nhưng không như Nive, tôi đã nói rõ cho mọi người biết đây là Thi Quỷ trước khi xuống tay. Làm vậy tôi cũng chẳng sợ bị bắt.
 
-Thế nhưng, dù Wolf từng bảo với tôi rằng có thể sẽ có rất nhiều Thi Quỷ, tôi vẫn không khỏi bàng hoàng trước số lượng thực tế của chúng. Tôi cũng ngạc nhiên khi thấy tất cả bọn chúng đều có thể nói chuyện như người bình thường, khác hẳn so với hồi tôi còn là Thi Quỷ. Tôi thắc mắc điều gì đã tạo nên sự khác biệt đó. Có lẽ do bọn chúng đã quen nói năng theo cách ấy. Cũng có thể dây thanh quản của tôi lúc đó vừa khéo lại bị thối rữa. Những con Thi Quỷ khác nhau có thể bị thối rữa ở các bộ phận khác nhau, nên có lẽ khi ấy tôi chỉ đơn thuần là xui xẻo. Mà thôi, những con Thi Quỷ này trước kia có lẽ cũng từng là người sống, nên tôi đoán tất cả chúng tôi đều bất hạnh như nhau cả.
+Wolf có bảo tôi là có thể sẽ có rất nhiều Thi Quỷ, nhưng số lượng thật của chúng vẫn làm tôi phát hoảng. Tôi cũng bất ngờ khi thấy con nào cũng nói năng như người bình thường, khác hẳn hồi tôi còn là Thi Quỷ. Chẳng biết do đâu mà lại khác biệt thế. Có khi chúng quen ăn nói kiểu đó rồi. Hoặc có thể dây thanh quản của tôi lúc ấy tình cờ lại đúng chỗ bị thối rữa. Mỗi con Thi Quỷ lại rữa nát ở những chỗ khác nhau, nên chắc tôi chỉ xui thôi. Mà nghĩ lại, đám Thi Quỷ này trước kia hẳn cũng từng là người sống, nên xem ra chúng tôi đều xui xẻo như nhau cả.
 
-Đám Thi Quỷ này ăn nói khá lưu loát, nhưng điều đó không có nghĩa là chúng vẫn còn giữ được tâm trí lúc sinh thời. Chúng có thể hành xử giống như vậy, song người ta bảo đó chỉ là trò bịp bợm để lừa gạt con người. Tôi không rõ lời đồn đó đúng được bao nhiêu phần. Sau khi bị gặng hỏi đủ lâu, lời lẽ của chúng bắt đầu mâu thuẫn lẫn nhau, nên suy đoán ấy có lẽ là chính xác, nhưng việc chúng hành xử quá giống con người khiến cho việc hạ sát chúng trở nên thật xót xa. Dẫu vậy, nếu cứ mặc kệ thì chúng sẽ tấn công con người và ăn thịt họ, để rồi cuối cùng biến thành Ma Cà Rồng và trở thành mối đe dọa cho nhân loại.
+Đám Thi Quỷ này nói năng khá trôi chảy, nhưng không có nghĩa là chúng vẫn giữ được tâm trí như hồi còn sống. Trông chúng có vẻ vậy, nhưng nghe đâu đó chỉ là trò giả bộ hòng lừa gạt con người. Tôi không rõ chuyện đó đúng được bao nhiêu phần. Cứ gặng hỏi một hồi là lời lẽ của chúng bắt đầu trước sau bất nhất, nên lời đồn ấy chắc cũng có lý, nhưng thấy chúng hành xử giống người đến thế, xuống tay giết chúng cũng thật xót xa. Có điều, nếu cứ bỏ mặc thì chúng sẽ tấn công và ăn thịt người, rốt cuộc sẽ biến thành Ma Cà Rồng và trở thành mối đe dọa cho nhân loại.
 
-Tự hỏi liệu đã đủ thời gian hay chưa, tôi nhìn vào đám Thi Quỷ giống như người ta đang kiểm tra xem bữa tối đã nấu xong chưa. Phần lớn cơ thể chúng đã hóa thành tro bụi và gần như chẳng còn khả năng hồi sinh.
+Tôi ngó sang đám Thi Quỷ xem đã đủ lâu chưa, hệt như người ta canh chừng bữa tối đã nấu xong chưa vậy. Phần lớn cơ thể chúng đã hóa thành tro và hẳn chẳng thể nào hồi sinh nổi.
 
-Về phần những mạo hiểm giả khác đang tham gia hỗ trợ, họ tạt Nước Thánh vào đám Thi Quỷ để xử lý chúng. Đó là một vật phẩm khá đắt đỏ, nhưng Hội Mạo Hiểm Giả đã chu cấp cho dịp này. Kể cả khi không làm vậy, vài mạo hiểm giả chỉ việc hô hoán gọi Nive mỗi khi phát hiện ra một con. Cô ấy chắc chắn sẽ chạy thục mạng tới ngay. Nhưng theo tôi biết thì chỉ có duy nhất một Nive trên đời. Cô ấy không thể nào đáp lại mọi tiếng gọi từ khắp các ngóc ngách của thị trấn.
+Còn các mạo hiểm giả khác cùng hỗ trợ thì tạt Nước Thánh để xử lý đám Thi Quỷ. Món này khá đắt đỏ, nhưng lần này đã được Hội cấp phát. Mà kể cả không dùng Nước Thánh, có người hễ phát hiện ra một con là lại í ới gọi Nive. Cô ấy nhất định sẽ tức tốc chạy tới ngay. Ngặt nỗi theo tôi biết thì Nive cũng chỉ có một thân một mình. Cô ấy sao phân thân mà chạy khắp hang cùng ngõ hẻm trong thị trấn cho xuể.
 
-Tôi cũng thấy những Thánh Giả khác đang lùng sục Thi Quỷ quanh thị trấn. Thần thuật của họ đặc biệt hiệu nghiệm khi đối phó với chúng. Tuy nhiên, rất ít Thánh Giả sở hữu năng lực chiến đấu thực sự, nên họ chủ yếu chỉ đóng vai trò kết liễu. Những Thánh Giả chuyên trách việc thanh tẩy có thể thanh tẩy toàn bộ thị trấn cùng một lúc. Nếu một Thánh Giả như thế có mặt ở đây lúc này, hẳn họ sẽ có khối việc để làm. Đáng tiếc là số lượng người như vậy lại chẳng có bao nhiêu. Mỗi quốc gia may ra chỉ có một người, và chi phí thuê họ có thể tốn cả một gia tài. Người ta cứ ngỡ vào những thảm họa thế này thì họ sẽ giảm giá, nhưng nếu vậy thì tôi đồ rằng họ sẽ chẳng bao giờ nhận được đúng mức thù lao trọn vẹn mất. Khi nắm giữ trong tay quyền năng to lớn nhường ấy, thật khó để tìm được thời điểm thích hợp để sử dụng nó.
+Tôi cũng thấy vài Thánh Giả khác đi lùng Thi Quỷ quanh thị trấn. Thần thuật của họ đánh trúng điểm yếu của lũ này. Nhưng hiếm có Thánh Giả nào sở hữu khả năng thực chiến đàng hoàng, nên họ chủ yếu chỉ đi theo bồi thêm đòn kết liễu. Còn những Thánh Giả chuyên về thanh tẩy thì có thể thanh tẩy cả thị trấn cùng lúc. Nếu có một người như thế ở đây lúc này, hẳn họ sẽ tha hồ bận rộn. Tiếc là người như vậy hiếm vô cùng. Mỗi quốc gia may ra có một người, và chi phí thuê thì đắt đỏ cả một gia tài. Ai cũng nghĩ gặp thảm họa cỡ này thì họ sẽ giảm giá, nhưng làm vậy thì chắc họ chẳng bao giờ làm việc đúng giá gốc mất. Nắm trong tay quyền năng lớn cỡ đó, muốn chọn lúc thích hợp để ra tay kể cũng khó.
 
-Dù sao thì, tôi cũng tự hỏi con Ma Cà Rồng kia có thể thu được lợi lộc gì từ việc phóng hỏa thị trấn và gây ra cảnh hỗn loạn thế này. Nếu đã tạo ra ngần ấy Thi Quỷ, tôi cảm thấy việc âm thầm tha hóa toàn bộ Maalt từ từ mới là kế hoạch khôn ngoan hơn. Nhưng có lẽ bản thân chuyện đó cũng lắm gian nan. Thi Quỷ không cần quá nhiều máu, nhưng nếu tiến hóa thành Hạ Cấp Ma Cà Rồng, chúng sẽ cần một lượng máu khổng lồ. Nếu người ta bắt đầu phát hiện ra các dấu hiệu bị Ma Cà Rồng tấn công, các thợ săn ma cà rồng sẽ kéo tới lũ lượt để truy lùng. Có lẽ hắn muốn khơi mào điều gì đó trước khi chuyện ấy xảy ra. Nghe thì có vẻ hợp lý, nhưng dường như lại có gì đó chưa thỏa đáng.
+Cơ mà tôi vẫn thắc mắc, con Ma Cà Rồng kia rốt cuộc kiếm được mối lợi gì khi phóng hỏa thị trấn và gây náo loạn thế này. Đã tạo ra ngần ấy Thi Quỷ rồi, tôi thấy cứ ngấm ngầm gặm nhấm cả Maalt từ từ chẳng phải khôn ngoan hơn sao. Nhưng có khi chuyện đó cũng chẳng dễ dàng gì. Thi Quỷ không cần nhiều máu lắm, nhưng nếu tiến hóa thành Hạ Cấp Ma Cà Rồng, chúng sẽ cần một lượng máu khổng lồ. Nếu người ta phát hiện ra dấu vết của Ma Cà Rồng, Thợ Săn Ma Cà Rồng sẽ rầm rộ kéo tới ngay. Có lẽ hắn muốn châm ngòi chuyện gì đó trước khi bị lộ. Nghĩ vậy thì cũng thấy có lý, mà hình như cũng chẳng đâu vào đâu.
 
-Dù vậy, nghĩ ngợi về chuyện này cũng chẳng ích gì. Tôi quay trở lại với việc săn lùng Thi Quỷ. Nếu tôi tóm gọn sạch bách bọn chúng, kẻ đầu sỏ ắt sẽ phải tự mình lộ diện. Hoặc giả hắn sẽ rời khỏi Maalt, nhưng thế thì cũng tốt thôi. Tôi không biết còn sót lại bao nhiêu con, nhưng nhờ có Edel, tôi luôn có thể tìm ra thêm mục tiêu.
+Nghĩ mãi cũng chẳng ích gì, tôi quay lại việc săn Thi Quỷ. Cứ diệt sạch sành sanh lũ này là kẻ cầm đầu ắt phải tự vác mặt ra. Hoặc hắn cuốn gói khỏi Maalt, thế cũng chẳng sao. Chẳng rõ còn sót lại bao nhiêu con, nhưng nhờ có Edel, tôi luôn tìm ra mục tiêu tiếp theo.
 
-"Đi tiếp nào," tôi bảo chú chuột trên vai rồi rảo bước chạy đi.
-
-◆◇◆◇◆
-
-"Làm đến mức này rồi mà ta vẫn chưa dụ được mục tiêu lộ diện sao?" ai đó lên tiếng ở một nơi nào đó bên trong Mê Cung Tân Nguyệt.
-
-Giọng nói trầm thấp, đầy vẻ căm phẫn ấy hướng về phía nhiều người khác đang có mặt tại đó. Những thiếu niên và thiếu nữ trẻ tuổi đang vã mồ hôi đầm đìa trong tư thế thiền định. Hơi thở của họ dồn dập và trông ai nấy đều kiệt sức đến tột độ.
-
-Bọn trẻ ngồi thành một vòng tròn quanh một người đàn ông đang lạnh lùng nhìn trừng trừng vào chúng. Vẻ mặt hắn lộ rõ vẻ bực bội, như thể một món công cụ hoạt động không như ý muốn, nhưng tuyệt nhiên chẳng biểu lộ chút quan tâm nào hơn thế.
-
-"Hự!" một trong số các cậu bé rên lên một tiếng. Rồi cậu ta thổ ra một búng máu và ngã gục xuống.
-
-Người đàn ông nhìn cậu bé rồi ôm đầu như thể đang bị đau đầu.
-
-"Lần này là ở đâu?" hắn hỏi.
-
-"Một Thi Quỷ ở khu thương mại thứ hai đã bị tiêu diệt ạ," cậu bé đáp.
-
-"Hừm, bọn chúng bị giết thì cũng chẳng sao, nhưng chúng bị phát hiện hơi quá nhanh rồi đấy. Cứ đà này, có khi ta sẽ cạn sạch Thi Quỷ trước khi mục tiêu lộ diện mất."
-
-"Ngài có chắc là người đó đang ở thị trấn này không ạ?"
-
-"Chắc chắn. Khoanh vùng tới thị trấn này đã tốn cả đống thời gian rồi, nhưng không còn nghi ngờ gì nữa. Tuy vậy, ta lại không rõ chính xác phải tìm ở đâu, và rủi thay là ta nghĩ mình chẳng thể trông mong họ sẽ tự chui ra khỏi chỗ trốn."
-
-"Nhưng nếu chúng ta có được sự giúp đỡ của người đó..."
-
-"Phải, chúng ta sẽ tiến gần hơn nhiều tới mục tiêu. Đó là lý do chúng ta ở đây. Ta đang đặt lên vai các ngươi một gánh nặng lớn, nhưng tất cả đều vì tương lai của chúng ta. Các ngươi hiểu điều đó chứ?" người đàn ông hỏi rồi đưa mắt nhìn khắp lượt lũ trẻ. Chúng vẫn đang tập trung cao độ, nhưng đều gật đầu.
-
-Người đàn ông không nghi ngờ gì chính là niềm hy vọng lớn nhất của chúng. Hắn đã đem lại cho chúng thứ ánh sáng mà cả cuộc đời chúng chưa từng được thấy. Đó là lý do lũ trẻ thay hắn điều khiển đám Thi Quỷ. Quyền năng này cũng là do hắn ban tặng cho chúng.
-
-Người đàn ông nhìn đám trẻ rồi nhếch mép cười khẩy.
+"Đi tiếp nào," tôi bảo chú chuột trên vai rồi cắm đầu chạy tiếp.
 
 ◆◇◆◇◆
 
-Không chỉ Thi Quỷ, mà hầu hết Undead đều là những sinh vật bi thảm. Theo một cách nào đó, họ có được sự bất tử, nhưng đồng thời cũng đánh mất đi nhân tính. Một khi đã chết và biến thành Undead, một nhân cách mới sẽ trú ngụ bên trong thi thể của họ. Không ai biết tại sao chuyện này lại xảy ra, hay nhân cách cũ đã đi đâu về đâu, bất chấp vô số cuộc tranh luận bất tận xoay quanh chủ đề này.
+"Làm đến nước này rồi mà vẫn chưa dụ được mục tiêu ra mặt sao?" Đâu đó trong Mê Cung Tân Nguyệt vang lên một giọng nói.
 
-Dù sao đi nữa, người ta vẫn mặc nhiên thừa nhận chuyện họ đã trở thành một con người khác sau khi chết. Có rất nhiều lý do cho việc đó, nhưng lý do lớn nhất bắt nguồn từ các giới chức tôn giáo. Họ tuyên bố Undead là những sinh vật ô uế và đặt việc thanh tẩy chúng lên ưu tiên hàng đầu, thế nên họ không thể nào chấp nhận chuyện Undead còn giữ được nhân tính. Dù bề ngoài họ có thể trông giống hệt lúc sinh thời, nhưng họ không thể được xem là cùng một người.
+Giọng nói trầm đục, hằn học ấy chĩa về phía đám người đang có mặt ở đó. Mấy cậu bé cô bé đang ngồi xếp bằng thiền định, mồ hôi nhễ nhại. Hơi thở của chúng đứt quãng, trông ai nấy đều kiệt quệ cùng cực.
 
-Tôi không hề có ý chỉ trích quan điểm đó. Xét đến cương vị của họ, tôi hoàn toàn có thể hiểu được vì sao các giới chức tôn giáo không thể chấp nhận Undead chính là con người họ thuở sinh thời. Nhưng điều quan trọng trong lời khẳng định của họ là nó đã được chứng minh một nửa. Đó là lý do tại sao tôi gặng hỏi tất cả những con Thi Quỷ mà mình bắt gặp. Khi người ta tra hỏi Undead đủ lâu về quãng đời trước đây của họ, câu trả lời của họ sẽ bắt đầu mâu thuẫn lẫn nhau. Nếu họ vẫn là con người như trước kia, điều này có lẽ sẽ không xảy ra. Tuy nhiên, xét đến việc cơ thể họ đang dần rã rời, người ta cũng có thể ngụy biện rằng đó chỉ là chứng mất trí nhớ. Thật khó để khẳng định chắc chắn bất cứ điều gì.
+Lũ trẻ ngồi thành vòng tròn quanh một người đàn ông; gã nhìn chúng với ánh mắt dửng dưng vô cảm. Trông gã có vẻ bực bội như khi một món công cụ hoạt động không trơn tru, chứ tuyệt nhiên chẳng hề đoái hoài gì hơn.
 
-Thế nhưng, dẫu lời giải thích đó có là sự thật đi chăng nữa, nó cũng chẳng thay đổi được thực tế rằng Undead sẽ tấn công con người. Có một số trường hợp, chẳng hạn như Thượng Cấp Ma Cà Rồng, có thể tự kiềm chế bản thân, nhưng ngay cả bọn chúng cũng có xu hướng tấn công con người. Chẳng ai muốn chấp nhận những kẻ như thế làm người thân trong gia đình, bạn bè hay người yêu của mình, thành thử trong suốt chiều dài lịch sử, Undead luôn được mặc định là đã trở thành một con người khác sau khi chết. Đó là lý do tại sao chúng luôn bị tận diệt.
+"Hự!" một cậu bé rên lên đau đớn, rồi ộc máu ngã gục.
 
-Thế nhưng, con người đâu có đơn giản đến thế. Cứ thử nghĩ về gia đình hoặc những người thân yêu mà xem. Sẽ ra sao nếu một ngày nọ sau khi qua đời, họ sống lại trước cả khi người ta kịp tiếp nhận sự thật? Sẽ ra sao nếu giọng nói và hành động của họ y hệt như cũ, đến mức chẳng ai có thể phủ nhận rằng đó chính là họ? Tôi không biết liệu có bao nhiêu người có thể nhẫn tâm chối bỏ họ ngay tức khắc. Cứ gọi đó là lòng tốt, sự ngây thơ, hay thậm chí là yếu lòng cũng được. Tôi chẳng biết phải gọi đó là gì. Nhưng thứ mà Lorraine và những người bạn khác dành cho tôi chính là lòng tốt.
+Người đàn ông liếc nhìn cậu bé, đưa tay ôm trán như thể đang đau đầu.
 
-"Tại sao chứ? Tại sao lại như vậy?!" ai đó gào thét thất thanh.
+"Lần này là ở đâu?" gã hỏi.
 
-Thế nhưng, đối với những gì đang diễn ra trước mắt mình lúc này, tôi chẳng biết phải gọi nó là gì nữa.
+"Một Thi Quỷ ở khu thương mại thứ hai bị tiêu diệt rồi ạ," cậu bé đáp.
+
+"Hừm, chúng chết thì chẳng sao, ngặt nỗi bị lùng ra hơi nhanh quá. Cứ cái đà này, khéo chưa kịp dụ mục tiêu xuất đầu lộ diện thì ta đã hết sạch Thi Quỷ mất."
+
+"Ngài có chắc người đó đang ở thị trấn này không ạ?"
+
+"Chắc chắn rồi. Mất bao nhiêu thời gian mới khoanh vùng được tới thị trấn này, không sai đi đâu được. Khổ nỗi ta lại chẳng biết chính xác phải tìm ở đâu, mà trông mong kẻ đó tự mò ra khỏi chỗ trốn thì e là không thể."
+
+"Nhưng nếu có được người đó giúp sức..."
+
+"Phải, chúng ta sẽ tiến thêm một bước dài tới mục tiêu. Đó là lý do chúng ta có mặt ở đây. Ta biết mình đang đè nặng gánh nặng lên vai các ngươi, nhưng hết thảy đều vì tương lai của chính chúng ta. Các ngươi hiểu cả chứ?" người đàn ông vừa hỏi vừa đưa mắt nhìn khắp lượt lũ trẻ. Đám trẻ vẫn đang dồn sức tập trung, nhưng đều gật đầu.
+
+Với lũ trẻ, người đàn ông này đích thực là niềm hy vọng lớn nhất đời chúng. Gã đã mang tới cho chúng thứ ánh sáng chưa từng thấy trong đời. Bởi thế mà chúng sẵn lòng điều khiển Thi Quỷ thay gã. Ngay cả thứ sức mạnh này cũng là do gã ban cho.
+
+Gã đàn ông nhìn lũ trẻ, nhếch mép cười khẩy.
 
 ◆◇◆◇◆
 
-Các mạo hiểm giả đã tụ tập lại. Không phải toàn bộ mạo hiểm giả trong thị trấn, mà là khoảng mười người. Một trong số đó là Hội Trưởng Wolf, người đáng lẽ phải ở lại Hội Mạo Hiểm Giả để ban bố mệnh lệnh, thế nên hẳn phải có điều gì đó đặc biệt đang diễn ra. Nhưng tôi cho rằng tình huống này cũng chẳng phải là độc nhất vô nhị. Tôi đã may mắn, nhưng nếu những sự việc tương tự đang diễn ra khắp nơi trên toàn thị trấn Maalt thì cũng chẳng có gì lạ.
+Không riêng gì Thi Quỷ, mà hầu hết Undead đều là những sinh vật đáng thương. Mang tiếng là có được sự bất tử, nhưng cùng lúc ấy họ cũng đánh mất luôn nhân tính. Một khi chết đi rồi hóa thành Undead, một nhân cách mới sẽ đến chiếm giữ thân xác họ. Chẳng ai rõ vì sao lại thế, hay nhân cách cũ rốt cuộc đã biến đi đâu, dẫu người ta từng tranh luận triền miên về chuyện này.
 
-Các mạo hiểm giả đang vây quanh một cậu thiếu niên trơ trọi. Không chỉ đơn thuần là một cậu bé, đó là một con Thi Quỷ. Đôi mắt cậu ta đỏ ngầu vằn tia máu, và bộ quần áo rách rưới để lộ lớp da thịt khô khốc, thối rữa bên dưới. Ma pháp ngụy trang đã không còn che giấu được cậu ta nữa, bởi gương mặt cậu ta chằng chịt những vết sẹo và lỗ thủng. Đây hoàn toàn là một phần trong cuộc săn lùng Thi Quỷ, nhưng con Thi Quỷ này lại cải trang thành một mạo hiểm giả. Trang bị và tuổi tác khiến cậu ta trông giống hệt như một tân binh.
+Dù thế nào đi nữa, chuyện sau khi chết họ biến thành người khác đã được coi như một sự thật hiển nhiên. Có nhiều nguyên cớ đằng sau việc đó, nhưng lớn nhất là từ giới tôn giáo. Họ tuyên bố Undead là sinh vật ô uế và đặt việc thanh tẩy lên ưu tiên hàng đầu, thành ra không đời nào chấp nhận chuyện Undead vẫn còn nhân tính. Bề ngoài họ trông có giống hệt lúc còn sống đi chăng nữa, người ta cũng không thể coi họ là cùng một người.
 
-"Tên cậu là gì?" Wolf hỏi con Thi Quỷ.
+Tôi chẳng có ý bài xích quan điểm đó. Xét theo lập trường của họ, tôi hiểu vì sao giới tôn giáo không thể chấp nhận Undead vẫn là con người cũ thuở còn sống. Nhưng mấu chốt là lời khẳng định của họ quả thực đã được chứng minh một nửa. Đó là lý do tôi luôn gặng hỏi từng con Thi Quỷ mà mình bắt gặp. Cứ tra hỏi Undead đủ lâu về thời còn sống, câu trả lời của chúng sẽ bắt đầu trước sau bất nhất. Nếu chúng vẫn là con người như trước kia, chuyện này hẳn đã không xảy ra. Có điều, trước một thân xác đang rã rời từng phần, người ta cũng có thể đổ cho là do chứng mất trí nhớ. Thật khó mà nói chắc được điều gì.
 
-"Tita Well. Tôi là một mạo hiểm giả Thiết Cấp. Tôi mới chỉ bắt đầu vào nghề thôi, nhưng tôi đang cố gắng vươn lên Đồng Cấp. Tôi muốn kiếm ít tiền gửi về cho cha mẹ ở quê nhà. Tôi cũng muốn có thể mua một bộ váy cưới thật đẹp cho chị gái mình."
+Nhưng dẫu cách giải thích đó có đúng đi nữa, cũng chẳng thay đổi được một điều: Undead vẫn tấn công con người. Dù có vài trường hợp như Thượng Cấp Ma Cà Rồng biết tự kiềm chế, song ngay cả chúng cũng có xu hướng tấn công con người. Chẳng ai muốn nhận những kẻ như thế làm ruột thịt, bạn bè hay người thương, nên xưa nay người ta luôn quan niệm rằng sau khi chết, Undead đã biến thành kẻ khác. Đó cũng là lý do chúng luôn bị tận diệt.
 
-"Cậu biến thành Thi Quỷ từ lúc nào?"
+Nhưng lòng người đâu có rạch ròi đến thế. Thử nghĩ về người thân hay người mình yêu thương mà xem. Nếu một ngày họ mất đi, rồi bỗng sống lại trước khi người ta kịp chấp nhận sự thật thì sao? Nếu giọng nói, cử chỉ của họ y hệt ngày trước, đến mức chẳng thể nào phủ nhận đó chính là họ thì sao? Tôi không chắc có mấy ai đủ nhẫn tâm chối bỏ họ ngay tức khắc. Bảo đó là lòng tốt, sự ngây thơ, hay thậm chí là yếu đuối cũng được, tôi chẳng biết nữa. Nhưng điều Lorraine cùng những người bạn khác dành cho tôi, đích thị là lòng tốt.
 
-"Thi Quỷ ư? Tôi là Tita Well, một mạo hiểm giả Thiết Cấp."
+"Tại sao? Tại sao lại thế chứ?!" tiếng ai đó gào thét.
 
-Tôi mới chỉ vừa tới nơi, nhưng có vẻ như những người khác đã lặp đi lặp lại các câu hỏi này nhiều lần. Wolf lắc đầu rồi ngoái nhìn ra sau, hướng về phía vài mạo hiểm giả đang giữ chặt lấy vai một cô gái. "Chuyện này có thật không?" ông hỏi.
+Còn cảnh tượng đang diễn ra trước mắt tôi lúc này, tôi lại chẳng biết phải gọi tên là gì.
 
-"Đúng ạ," cô gái nghẹn ngào trả lời trong nước mắt. "Sao các ngài không thể thả cậu ấy ra? Nhìn xem, cậu ấy đang nói chuyện với ngài kia mà. Cậu ấy vẫn đang nói những điều như trước đây."
+◆◇◆◇◆
 
-"Tôi hiểu cảm giác của cô, nhưng chính cô cũng thấy chuyện vừa xảy ra rồi đấy. Vừa ban nãy cậu ta còn phát điên lên. Giờ chúng ta chỉ có thể nói chuyện thế này vì đang ghìm chặt cậu ta lại. Nếu buông tay ra, chắc chắn cậu ta sẽ lại tấn công ai đó. Cô có thực sự dám khẳng định cậu ta vẫn là người như trước đây không?"
+Mấy mạo hiểm giả đã tụ tập lại. Không phải toàn bộ trong thị trấn, mà chừng chục người. Trong số đó có cả Hội Trưởng Wolf, người đáng lẽ giờ này phải ở trụ sở để phát lệnh chỉ huy, thành thử ắt phải có chuyện gì bất thường lắm. Nhưng tôi đoán tình cảnh này cũng chẳng phải hiếm hoi gì. Bản thân tôi đã may mắn, nhưng quanh Maalt lúc này có xảy ra những thảm cảnh tương tự thì cũng chẳng lạ gì.
 
-"Nhưng mà, nhưng mà...!"
+Đám mạo hiểm giả đang vây quanh một cậu thiếu niên đứng trơ trọi. Nói đúng hơn thì đó là một con Thi Quỷ. Đôi mắt cậu đỏ ngầu, bộ quần áo rách bươm để lộ mảng da thịt khô khốc, rữa nát bên dưới. Ma pháp ngụy trang chẳng còn che giấu nổi nữa, bởi khuôn mặt cậu chằng chịt vết sẹo cùng những lỗ thủng. Đây cũng là một phần trong chiến dịch săn Thi Quỷ, có điều con này lại đội lốt mạo hiểm giả. Nhìn tuổi tác lẫn trang bị trên người, cậu ta trông như một lính mới vào nghề.
 
-Wolf nói lời cay đắng, nhưng ông ấy đã đúng. Đôi mắt của Tita dao động chập chờn giữa tỉnh táo và điên dại. Việc đưa cậu ta trở lại bình thường trông có vẻ không hẳn là bất khả thi, nhưng trong quá khứ chưa từng có tiền lệ nào làm được điều đó.
+"Cậu tên gì?" Wolf hỏi con Thi Quỷ.
 
-"Xin lỗi," Wolf nói. "Nếu tôi làm tốt hơn bổn phận của mình, cậu ta có lẽ đã không trở thành nạn nhân. Nhưng chuyện đã rồi, và tôi sẽ làm điều mình phải làm. Nếu không muốn nhìn, cô hãy nhắm mắt lại. Nếu muốn căm hận ai vì chuyện này, cứ việc căm hận tôi."
+"Tita Well. Tôi là mạo hiểm giả Thiết Cấp. Tôi mới chân ướt chân ráo vào nghề thôi, nhưng đang cố vươn lên Đồng Cấp. Tôi muốn kiếm tiền gửi về cho cha mẹ ở quê. Tôi cũng muốn mua tặng chị gái một chiếc váy cưới thật đẹp nữa."
 
-Wolf rút thanh đại kiếm đeo sau lưng ra rồi giơ cao qua đầu. Cô gái, có lẽ là đồng đội của Tita, toan với tay ra, nhưng cuối cùng cô rùng mình rụt tay lại. Cô hẳn đã hiểu rằng mọi chuyện là vô vọng, và cô đã đúng.
+"Cậu biến thành Thi Quỷ từ bao giờ?"
 
-Wolf chém đứt phăng đầu Tita chỉ bằng một nhát dứt khoát. Sau đó ông tạt Nước Thánh lên cả phần đầu lẫn thân thể, thiêu rụi chúng thành tro bụi. Tất cả những gì còn sót lại là bộ giáp rẻ tiền của Tita. Cô gái ôm chặt lấy bộ giáp, gom lấy đống tro tàn rồi bật khóc nức nở.
+"Thi Quỷ ư? Tôi là Tita Well, mạo hiểm giả Thiết Cấp mà."
+
+Tôi vừa mới tới nơi, nhưng xem chừng họ đã hỏi đi hỏi lại những câu này không biết bao nhiêu lần rồi. Wolf lắc đầu, ngoái lại nhìn mấy mạo hiểm giả đang ghì chặt vai một cô gái. "Có thật vậy không?" ông hỏi.
+
+"Đúng ạ," cô gái vừa khóc vừa nghẹn ngào. "Sao các ngài không thả cậu ấy ra? Nhìn xem, cậu ấy đang nói chuyện với ngài kia mà! Cậu ấy vẫn nói những điều như trước đây thôi!"
+
+"Tôi hiểu cảm giác của cô, nhưng cô cũng tận mắt thấy chuyện vừa rồi đấy thôi. Mới lúc nãy cậu ta còn phát cuồng lên. Giờ nói chuyện được thế này chỉ là vì chúng tôi đang ghìm chặt cậu ta lại. Buông tay ra một cái là dám chắc cậu ta sẽ lao vào tấn công người khác ngay. Cô dám bảo cậu ta vẫn là con người của ngày xưa không?"
+
+"Nhưng mà... nhưng mà...!"
+
+Wolf nói nghe nghiệt ngã, nhưng ông ấy nói đúng. Ánh mắt Tita chập chờn giữa tỉnh táo và điên dại. Cứ nhìn thì tưởng cứu cậu ta trở lại bình thường không phải điều bất khả, song xưa nay chưa từng có ai làm được điều đó cả.
+
+"Xin lỗi," Wolf nói. "Nếu tôi làm tròn trách nhiệm hơn, cậu ta có lẽ đã chẳng phải chịu cảnh này. Nhưng chuyện đã rồi, tôi phải làm việc mình cần làm thôi. Nếu không muốn thấy thì cô nhắm mắt lại đi. Cứ hận tôi, nếu cô muốn hận ai đó vì việc này."
+
+Wolf rút thanh đại kiếm đeo sau lưng, vung lên quá đầu. Cô gái, chắc hẳn là đồng đội của Tita, toan với tay ra, nhưng rồi lại run rẩy rụt về. Hẳn cô hiểu rằng mọi chuyện đã vô vọng, và cô nghĩ không sai.
+
+Wolf chém phăng đầu Tita. Rồi ông tạt Nước Thánh lên cả đầu lẫn thân xác, khiến chúng hóa thành tro. Thứ duy nhất còn sót lại là bộ giáp rẻ tiền của Tita. Cô gái ôm ghì lấy bộ giáp, vốc từng nắm tro tàn mà khóc nức nở.
