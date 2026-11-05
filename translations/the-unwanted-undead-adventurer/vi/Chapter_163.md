@@ -1,10 +1,10 @@
 # Chương 163: Tập 7 Chương 3 - Vô Số Bí Mật (1)
 
-"Mình về lại chỗ cũ rồi sao?" tôi hỏi khi cảnh vật xung quanh đã đổi khác hoàn toàn. Mới thoáng trước còn ở trong đường cống ngầm, giờ chúng tôi đã đứng bên trong một hang động. Đây là một trong vô số hang hốc nằm trên vách thành của thành phố tàn tích.
+"Chúng ta về lại chỗ cũ rồi sao?" tôi hỏi khi cảnh vật xung quanh đã đổi khác hoàn toàn. Mới thoáng trước còn ở trong đường cống ngầm, giờ chúng tôi đã đứng bên trong một hang động. Đây là một trong vô số hang hốc nằm trên vách đá của thành phố tàn tích.
 
 Bốn người chúng tôi từ Vistelya quay lại đây, và khác với lúc tới, mấy người lính gác chẳng buồn nhìn chúng tôi lấy một lần khi rời thành. Khâu kiểm tra lúc rời thành phố còn đơn giản hơn lúc vào nhiều, đến giấy tờ tùy thân chúng tôi cũng không phải xuất trình. Tôi chẳng muốn chê bai đất nước mình đâu, nhưng họ có vẻ thiếu cảnh giác thật. Tôi đoán họ chẳng buồn để tâm ai rời thành, trừ khi người đó từng bén mảng tới khu quý tộc. Lúc vào đã xét rồi thì lúc ra chẳng cần bận tâm nữa, có lẽ họ tính thế, nhưng vậy thì lỏng lẻo quá. Đó cũng là một lý do vì sao Vương Quốc Yaaran chẳng thể có vị thế lớn hơn.
 
-"Vậy là chúng ta từ Vistelya tới mê cung ở Đế Quốc này, rồi giờ lại dịch chuyển tiếp để về Hathara sao? Nghĩ lại mới thấy, tụi mình đang vượt qua những quãng đường xa đến khó tin chỉ trong chớp mắt đấy," Lorraine khẽ nói.
+"Vậy là chúng ta từ Vistelya tới mê cung ở Đế Quốc này, rồi giờ lại dịch chuyển tiếp để về Hathara sao? Nghĩ lại mới thấy, chúng ta đang vượt qua những quãng đường xa đến khó tin chỉ trong chớp mắt đấy," Lorraine khẽ nói.
 
 Lời cô nói có điểm khiến tôi phải ngẫm lại. Không hẳn có gì kỳ lạ, nhưng có một chi tiết làm tôi chú ý.
 
@@ -30,7 +30,7 @@ Capitan nhìn tôi vẻ thất vọng ra mặt. "Được rồi, vậy chú sẽ
 
 "Không đời nào. Cháu thắng thế nào được, chỉ có nước bị chú xé ra từng mảnh thôi. Tha cho cháu đi!" tôi la lên.
 
-"Cứ theo ma pháp ảo ảnh của Lorraine mà tính thì chú không nghĩ vậy đâu. Chú chẳng bao giờ thách đấu kẻ yếu hơn mình nhiều như thế," chú ấy đáp, khiến tôi bất ngờ trước lời khen ngợi ấy. Có lẽ ngay cả trong mắt Capitan, tôi cũng thực sự mạnh lên đôi chút rồi. Tôi suýt nữa thì đắc ý, nhưng liếc sang mặt Capitan thì thấy chú ấy đang cười có vẻ ranh mãnh.
+"Cứ theo ma pháp ảo ảnh của Lorraine mà tính thì chú không nghĩ vậy đâu. Chú chẳng bao giờ thách đấu kẻ yếu hơn mình nhiều như thế," chú ấy đáp, khiến tôi bất ngờ trước lời khen ngợi ấy. Có lẽ ngay cả trong mắt Capitan, tôi cũng thực sự mạnh lên đôi chút rồi. Tôi suýt nữa thì đắc ý, nhưng liếc sang mặt Capitan thì thấy vẻ mặt chú ấy có nét ranh mãnh.
 
 "Đây là bẫy phải không? Tha cho cháu đi, cháu làm sao có cửa thắng," tôi nói, bình thản từ chối đề nghị của chú ấy.
 
@@ -40,9 +40,9 @@ Capitan cũng chỉ đùa thôi. Chí ít là phần lớn câu chuyện. "Thôi
 
 Nếu không phải đem đồ ra cược thì tôi khó mà từ chối được. "Thôi được, nhưng chú nương tay cho cháu đấy nhé," tôi dặn trước, rồi mở Bản Đồ Akasha ra xem.
 
-"Ồ, hóa ra ở đây nó cũng hoạt động thật. Nơi này đang được vẽ lại y như mọi khi. Không những thế, quãng đường mình cưỡi Shahor Melechnamer cũng được ghi lại luôn. Xem ra ngồi trên lưng thú cưỡi thì bản đồ vẫn ghi nhận," Lorraine lập tức đoán khi nhìn vào tấm bản đồ.
+"Ồ, hóa ra ở đây nó cũng hoạt động thật. Nơi này đang được vẽ lại y như mọi khi. Không những thế, quãng đường chúng ta cưỡi Shahor Melechnamer cũng được ghi lại luôn. Xem ra ngồi trên lưng thú cưỡi thì bản đồ vẫn ghi nhận," Lorraine lập tức đoán khi nhìn vào tấm bản đồ.
 
-Phần lớn các vật phẩm thuộc loại này chỉ hoạt động khi tự đi bằng đôi chân của mình, hoặc sẽ có những giới hạn nghiêm ngặt khác. Bản Đồ Akasha dường như chẳng hề có bất kỳ giới hạn nào như thế, nên xét trong các món ma cụ thì nó tiện dụng đến đáng kinh ngạc. Nếu có thể sản xuất hàng loạt thứ này, tôi sẽ giàu to. Nhưng ngay cả Lorraine cũng chẳng biết nó được chế tạo ra sao và cho rằng việc mổ xẻ để sao chép là điều gần như bất khả thi. Tôi chỉ là người mới học ma thuật và thuật giả kim, nên việc sản xuất hàng loạt Bản Đồ Akasha chỉ là giấc mộng viển vông. Dù sao thì chuyện bản đồ ghi lại lộ trình chúng tôi cưỡi Shahor Melechnamer vẫn chưa đáng chú ý bằng một chi tiết khác lộ ra khi nhìn kỹ hơn.
+Phần lớn các vật phẩm thuộc loại này chỉ hoạt động khi người dùng tự đi bộ, hoặc kèm theo những giới hạn khắt khe khác. Bản Đồ Akasha dường như chẳng có bất kỳ giới hạn nào như thế, nên xét trong các món ma cụ thì nó tiện lợi đến đáng kinh ngạc. Nếu có thể sản xuất hàng loạt thứ này, tôi sẽ giàu to. Nhưng ngay cả Lorraine cũng chẳng biết nó được chế tạo ra sao và cho rằng việc mổ xẻ để sao chép là điều gần như bất khả thi. Tôi chỉ là người mới học ma thuật và thuật giả kim, nên việc sản xuất hàng loạt Bản Đồ Akasha chỉ là giấc mộng viển vông. Dù sao thì chuyện bản đồ ghi lại lộ trình chúng tôi cưỡi Shahor Melechnamer vẫn chưa đáng chú ý bằng một chi tiết khác lộ ra khi nhìn kỹ hơn.
 
 "Ở đây ghi 'Đến Tàn Tích Pháo Đài Vương Quốc Cổ Đại Hathara', còn chỗ này ghi 'Đến Cống Ngầm Thời Kỳ Khai Quốc Vistelya'. Có phải đúng như những gì tôi đang nghĩ không?" tôi hỏi.
 
@@ -50,17 +50,17 @@ Phần lớn các vật phẩm thuộc loại này chỉ hoạt động khi tự
 
 ◆◇◆◇◆
 
-"Nếu mình làm một tấm bản đồ kiểu này mà ghi đủ mọi ma pháp trận dịch chuyển thì từ đây muốn đi đâu cũng dễ. Khéo mở được cả dịch vụ lữ hành ấy chứ," tôi hào hứng góp chuyện, nhưng ba người kia đang mải nghĩ ngợi nên chẳng ai buồn nghe. Tôi hiểu cảm giác của họ. Bản Đồ Akasha mang lại quá nhiều điều phải suy nghĩ. Tôi chỉ muốn khuấy động bầu không khí một chút thôi, ai ngờ đụng phải đám khán giả khó tính quá — cái kiểu khán giả đủ sức "giết chết" bất kỳ nghệ sĩ biểu diễn nào, dù chút tài góp vui của tôi còn lâu mới xứng với danh xưng đó.
+"Nếu chúng ta làm một tấm bản đồ kiểu này mà ghi đủ mọi ma pháp trận dịch chuyển thì từ đây muốn đi đâu cũng dễ. Khéo mở được cả dịch vụ lữ hành ấy chứ," tôi hào hứng góp chuyện, nhưng ba người kia đang mải nghĩ ngợi nên chẳng ai buồn nghe. Tôi hiểu cảm giác của họ. Bản Đồ Akasha mang lại quá nhiều điều phải suy nghĩ. Tôi chỉ muốn khuấy động bầu không khí một chút thôi, ai ngờ gặp phải những khán giả khó tính quá. Giả sử tôi mà làm nghề mua vui thì gặp khán giả kiểu này chắc chết đứng trên sân khấu mất, dù chút tài pha trò của tôi còn lâu mới xứng với danh xưng đó.
 
 "Những ma pháp trận dịch chuyển này vốn không thuộc về mê cung từ đầu đúng không bà? Là do người làng Hathara làm thêm sau này sao?" Lorraine hỏi bà Gharb.
 
 "Ừ, đúng thế," bà Gharb nói. "Không có ghi chép nào về một ma pháp trận dịch chuyển dẫn tới Hathara, nhưng hồi dời tới nơi đó sinh sống, chắc người làng ta đã làm thêm một trận pháp để tiện đi lại giữa hai bên. Còn cái dẫn tới cống ngầm Vistelya là do vị tể tướng của làng để lại từ xưa, như ta nhớ là từng kể rồi đấy."
 
-"Dạ, cháu hiểu rồi. Thế thì không biết Bản Đồ Akasha lấy thông tin này từ đâu ra nhỉ. Ma cụ kiểu này vận dụng đủ mọi cách thức, nhưng thường là dựa vào giác quan và hiểu biết của người dùng để thu thập dữ liệu. Có điều với tấm bản đồ này thì tôi chịu đấy," Lorraine giải thích rồi quay sang nhìn tôi.
+"Ra vậy, cháu hiểu rồi. Thế thì không biết Bản Đồ Akasha lấy thông tin này từ đâu ra nhỉ. Ma cụ kiểu này vận dụng đủ mọi cách thức, nhưng thường là dựa vào giác quan và hiểu biết của người dùng để thu thập dữ liệu. Có điều với tấm bản đồ này thì tôi chịu đấy," Lorraine giải thích rồi quay sang nhìn tôi.
 
-Tôi suy nghĩ một lát rồi lắc đầu nói: "Cái này chắc khác rồi. Có thể tôi cũng lờ mờ đoán được pháo đài đó thuộc về một vương quốc cổ đại, nhưng tôi hoàn toàn không biết đường cống ngầm ở Vistelya có từ thời lập quốc. Tôi chỉ nghe nói nó đã có hàng thế kỷ nay, chứ ngoài ra chẳng biết gì hơn." Nếu tấm bản đồ thực sự dựa vào kiến thức và giác quan của tôi để lấy thông tin, thì nơi này cùng lắm chỉ được ghi là "Pháo Đài Nào Đó Gần Hathara" với "Đường Cống Cực Cổ Ở Vistelya" thôi. Tôi thì thích mấy cái tên nghe ngầu hơn chút, nhưng nếu nó lấy từ giác quan và hiểu biết của tôi thì chắc chắn chỉ ra được chừng đó.
+Tôi suy nghĩ một lát rồi lắc đầu nói: "Cái này chắc khác rồi. Có thể tôi cũng lờ mờ đoán được pháo đài đó thuộc về một vương quốc cổ đại, nhưng tôi hoàn toàn không biết đường cống ngầm ở Vistelya có từ thời lập quốc. Tôi chỉ nghe nói nó đã có hàng thế kỷ nay, chứ ngoài ra chẳng biết gì hơn." Nếu tấm bản đồ thực sự dựa vào kiến thức và giác quan của tôi để lấy thông tin, thì nơi này cùng lắm chỉ được ghi là 'Pháo Đài Nào Đó Gần Hathara' với 'Cống Ngầm Cực Cổ Ở Vistelya' thôi. Tôi thì thích mấy cái tên nghe ngầu hơn chút, nhưng nếu nó lấy từ giác quan và hiểu biết của tôi thì chắc chắn chỉ ra được chừng đó.
 
-"Tôi cũng nghĩ thế," Lorraine nói. "Đến tôi còn chẳng đoán nổi cống ngầm đó xây từ bao giờ. Anh thì chẳng có tí kiến thức nào về chuyện đó nên dĩ nhiên làm sao mà biết được. Thành ra ta có thể tin là tấm bản đồ không lấy gì từ hiểu biết của anh đâu. Nhưng nếu vậy thì rốt cuộc thông tin này từ đâu ra cơ chứ?"
+"Tôi cũng nghĩ thế," Lorraine nói. "Đến tôi còn chẳng đoán nổi cống ngầm đó xây từ bao giờ. Anh thì chẳng có tí kiến thức nào về chuyện đó nên dĩ nhiên làm sao mà biết được. Thành ra có thể khẳng định là tấm bản đồ không lấy gì từ hiểu biết của anh đâu. Nhưng nếu vậy thì rốt cuộc thông tin này từ đâu ra cơ chứ?"
 
 Bà Gharb là người giải đáp thắc mắc của Lorraine. Bà cũng là ma pháp sư kiêm nhà giả kim, nên có hiểu biết nhất định về ma cụ.
 
@@ -70,7 +70,7 @@ Lorraine gật đầu, nhưng rồi cô lại nêu ra một khả năng khác. "
 
 Tôi chưa từng nghe tới Bản Ghi Akashic bao giờ, và nhìn vẻ mặt Capitan thì chú ấy cũng vậy. Dường như chỉ có Lorraine và bà Gharb là biết thứ đó là gì. Hai người chúng tôi thuộc phe dùng cơ bắp hơn là đầu óc. Bình thường chúng tôi cũng suy nghĩ không ít, đôi khi còn đóng góp được vài ý kiến ra trò. Đôi khi thôi. Nhưng lúc này thì trên đầu cả hai chắc chắn chỉ toàn dấu chấm hỏi.
 
-"Bản Ghi Akashic thực chất chỉ là một khái niệm," bà Gharb nói, ngán ngẩm trước sự mù tịt của hai chúng tôi. "Đó là nơi lưu giữ ghi chép về mọi hiện tượng tồn tại trên đời. Nhưng đây không phải nơi mắt thường nhìn thấy được. Có thể coi đó là một chiều không gian khác. Lorraine nói đúng khi bảo đây là ý tưởng điên rồ, nhưng nơi đó lại cực kỳ quan trọng với giới ma pháp sư và nhà giả kim. Mọi cơ chế vận hành sâu xa của ma pháp đều được ghi lại ở đó, nên người ta đồn rằng nếu chạm tới được Bản Ghi Akashic thì sẽ thu về lượng tri thức khổng lồ. Thế nhưng xưa nay chưa từng có ma pháp sư nào chạm tới được nó cả." Bà liếc nhìn tấm Bản Đồ Akasha của tôi. Xem chừng cái tên "Akasha" bắt nguồn từ chữ Akashic. Nếu đúng như thế thì giả thuyết của Lorraine là hoàn toàn có cơ sở.
+"Bản Ghi Akashic thực chất chỉ là một khái niệm," bà Gharb nói, ngán ngẩm trước sự mù tịt của hai chúng tôi. "Đó là nơi lưu giữ ghi chép về mọi hiện tượng tồn tại trên đời. Nhưng đây không phải nơi mắt thường nhìn thấy được. Có thể coi đó là một chiều không gian khác. Lorraine nói đúng khi bảo đây là ý tưởng điên rồ, nhưng nơi đó lại cực kỳ quan trọng với giới ma pháp sư và nhà giả kim. Mọi cơ chế vận hành sâu xa của ma pháp đều được ghi lại ở đó, nên người ta đồn rằng nếu chạm tới được Bản Ghi Akashic thì sẽ thu về lượng tri thức khổng lồ. Thế nhưng xưa nay chưa từng có ma pháp sư nào chạm tới được nó cả." Bà liếc nhìn tấm Bản Đồ Akasha của tôi. Xem chừng cái tên 'Akasha' bắt nguồn từ chữ Akashic. Nếu đúng như thế thì giả thuyết của Lorraine là hoàn toàn có cơ sở.
 
 ![](images/ch163-01.webp)
 
@@ -80,7 +80,7 @@ Công bằng mà nói thì vũ khí và ma cụ hay có thói quen đặt tên p
 
 "Có khi cô nói đúng," tôi bảo. "Nhưng nếu vậy thì người làm ra tấm bản đồ này hẳn phải biết về nơi đây chứ. Cô nghĩ sao về chuyện đó?"
 
-"Phải hỏi người làm ra nó mới biết được. Rất có thể người anh gặp chính là tác giả của tấm bản đồ này, nhưng tôi e là khó mà tìm được cô ta. Chắc mình đành tạm gác thắc mắc này lại thôi," Lorraine nói.
+"Phải hỏi người làm ra nó mới biết được. Rất có thể người anh gặp chính là tác giả của tấm bản đồ này, nhưng tôi e là khó mà tìm được cô ta. Chắc chúng ta đành tạm gác thắc mắc này lại thôi," Lorraine nói.
 
 "Phải rồi. Dù sao thì tôi cũng chẳng thể quay lại nơi mình từng gặp cô ấy được nữa."
 
@@ -100,17 +100,17 @@ Lúc này Bản Đồ Akasha hiển thị 'Đến Albasa, Vương Quốc Lina' v
 
 Ma pháp trận dịch chuyển tới Albasa là cái chưa ai trong chúng tôi từng dùng. Cả bọn chỉ đứng trước mặt nó thôi. Còn với Đảo Daris, chúng tôi đã qua lại bằng ma pháp trận dịch chuyển kia. Trước khi bước vào, chúng tôi có xem bản đồ nhưng lúc đó nó chỉ ghi 'Đảo Daris, Cộng Hòa Thorn'. Mãi tới khi quay về từ hòn đảo thì chi tiết cụ thể hơn mới hiện ra.
 
-Nhân tiện thì Đảo Daris đẹp thật. Cộng Hòa Thorn là một đảo quốc phương nam gồm hàng nghìn hòn đảo cấu thành. Nghe đâu ngành vận tải đường biển ở đó phát triển lắm. Nếu có thời gian rảnh, tôi cũng muốn tới đó tắm biển một chuyến. Mà thực ra tôi cũng đâu đến mức bận rộn đến thế. Việc cần làm thì nhiều nhưng chẳng có hạn chót gấp gáp nào cả. Tôi muốn lên mạo hiểm giả Mithril Cấp càng sớm càng tốt, nhưng nếu cứ ép mình quá mức thì khéo lại tự ngáng chân. Tôi nghĩ tốt nhất là vẫn nên dành chút thời gian để thư giãn. Cơ mà biết đâu tôi chỉ đang lười chảy thây thôi cũng nên.
+Nhân tiện thì Đảo Daris đẹp thật. Cộng Hòa Thorn là một đảo quốc phương nam gồm hàng nghìn hòn đảo cấu thành. Nghe đâu ngành vận tải đường biển ở đó phát triển lắm. Nếu có thời gian rảnh, tôi cũng muốn tới đó tắm biển một chuyến. Mà thực ra tôi cũng đâu đến mức bận rộn đến thế. Việc cần làm thì nhiều nhưng chẳng có hạn chót gấp gáp nào cả. Tôi muốn lên mạo hiểm giả Mithril Cấp càng sớm càng tốt, nhưng nếu cứ ép mình quá mức thì khéo lại tự ngáng chân. Tôi nghĩ tốt nhất là vẫn nên dành chút thời gian để thư giãn. Cơ mà biết đâu chỉ tại tôi lười biếng thôi cũng nên.
 
-"Hay lúc nào đó mình thử đi hết từng cái một đi, cốt để bản đồ ghi lại chính xác điểm đến," tôi gợi ý.
+"Hay lúc nào đó chúng ta thử đi hết từng cái một đi, cốt để bản đồ ghi lại chính xác điểm đến," tôi gợi ý.
 
-Lorraine có vẻ ngần ngại. "Nếu làm được thì cũng hay đấy, nhưng mình đâu biết mọi điểm đến có an toàn hay không," cô e ngại nói.
+Lorraine có vẻ ngần ngại. "Nếu làm được thì cũng hay đấy, nhưng chúng ta đâu biết mọi điểm đến có an toàn hay không," cô e ngại nói.
 
-"Lo thế cũng phải thôi," bà Gharb tán thành. "Nhưng giả sử lối ra có bị đất đá vùi lấp đi nữa thì dùng ma pháp trận dịch chuyển cũng đâu khiến mình bị dính vào đống đổ nát hay thứ gì đại loại thế. Chuyện đó thì chẳng đáng lo. Cơ mà biết đâu có cái lại đưa thẳng ta vào tận phòng ngai vàng của nước nào đó, khả năng ấy thì phải tính tới đấy."
+"Lo thế cũng phải thôi," bà Gharb tán thành. "Nhưng giả sử lối ra có bị đất đá vùi lấp đi nữa thì dùng ma pháp trận dịch chuyển cũng đâu khiến chúng ta bị kẹt cứng vào đống đổ nát hay thứ gì đại loại thế. Chuyện đó thì chẳng đáng lo. Cơ mà biết đâu có cái lại đưa thẳng chúng ta vào tận phòng ngai vàng của nước nào đó, khả năng ấy thì phải tính tới đấy."
 
 Nghĩ tới cảnh đó mà thấy rợn người. Biết là mình sẽ không bị dịch chuyển kẹt vào trong tường hay thứ gì tương tự thì cũng đỡ lo, chứ tự dưng xuất hiện giữa phòng ngai vàng thì chẳng hay ho gì đâu.
 
-"Xem chừng trong khi các ma pháp trận dịch chuyển tới Hathara và Vistelya mới có vài thế kỷ, thì vài cái khác có thể cổ xưa như chính thành phố này," Lorraine nói thêm. "Mà tôi đoán phần lớn đều cổ như vậy cả. Nếu đúng thế, rất có thể người ta đã xây công trình đè lên ma pháp trận dịch chuyển ở điểm đến mà chẳng hề hay biết dưới chân có gì. Chúng ta đều biết người ngoài không thể phá hủy chúng được, hay đúng hơn là có phá thì chúng cũng tự phục hồi lại. Dựa theo một số thí nghiệm thì ma pháp trận bị lấp kín sẽ dịch chuyển người ta tới vị trí an toàn gần nhất phía trên lối ra."
+"Xem chừng trong khi các ma pháp trận dịch chuyển tới Hathara và Vistelya mới có vài thế kỷ, thì vài cái khác có thể cổ xưa như chính thành phố này," Lorraine nói thêm. "Mà tôi đoán phần lớn đều cổ như vậy cả. Nếu đúng thế, rất có thể người ta đã xây công trình đè lên ma pháp trận dịch chuyển ở điểm đến mà chẳng hề hay biết dưới chân có gì. Chúng ta đều biết người ta không thể phá hủy chúng được, hay đúng hơn là có phá thì chúng cũng tự phục hồi lại. Dựa theo một số thí nghiệm thì ma pháp trận bị lấp kín sẽ dịch chuyển người ta tới vị trí an toàn gần nhất phía trên lối ra."
 
 "Thế nghĩa là sao?" tôi hỏi.
 
@@ -126,12 +126,12 @@ Nghĩ tới cảnh đó mà thấy rợn người. Biết là mình sẽ không 
 
 Nghe thì tiện thật đấy, nhưng đứng ở vị trí của chúng tôi thì lại đáng sợ vô cùng. Nếu có tòa nhà xây đè lên trên ma pháp trận, chúng tôi có thể chui tọt vào bên trong một nơi nào đó. Như vậy thì lời bà Gharb nói về việc bị dịch chuyển thẳng vào phòng ngai vàng là hoàn toàn có thể xảy ra. Đã vậy, nếu ma pháp trận ở đầu bên kia bị bít kín thì khéo chẳng còn đường nào quay lại thành phố này nữa.
 
-"Ta chắc là có vài ma pháp trận rơi vào cảnh đó đấy," bà Gharb nói. "Một số có khi nằm trong pháo đài cũ hay lâu đài đã được trùng tu để tiếp tục dùng cho tới tận bây giờ. Đôi khi ta nghe người ta kể về lịch sử lâu đài của quý tộc nào đó, chúng được xây dựng từ thời xửa thời xưa đến khó tin. Phần lớn thì mớ lịch sử ấy chỉ được thêu dệt cho cơ ngơi nghe oai hơn thôi, nhưng không phải ai cũng bịa. Ta nghĩ thế nào cũng có vài công trình còn giữ ma pháp trận dịch chuyển tới tận ngày nay. Cứ nhìn pháo đài ở Hathara là rõ. Ngoài kia vẫn còn những pháo đài và lâu đài tương tự, người ta có thể vẫn đang ở mà chẳng hề hay biết gì về lai lịch của chúng. Biết đâu lại có những trận pháp nằm im chỉ vì bị một tấm thảm trải đè lên."
+"Ta chắc là có vài ma pháp trận rơi vào cảnh đó đấy," bà Gharb nói. "Một số có khi nằm trong pháo đài cũ hay lâu đài đã được trùng tu để tiếp tục dùng cho tới tận bây giờ. Đôi khi ta nghe người ta kể về lịch sử lâu đài của quý tộc nào đó, chúng được xây dựng từ thời xửa thời xưa đến khó tin. Phần lớn thì mớ lịch sử ấy chỉ được thêu dệt cho cơ ngơi nghe oai hơn thôi, nhưng không phải ai cũng bịa. Ta nghĩ thế nào cũng có vài công trình còn giữ ma pháp trận dịch chuyển tới tận ngày nay. Cứ nhìn pháo đài ở Hathara là rõ. Ngoài kia vẫn còn những pháo đài và lâu đài tương tự, người ta có thể vẫn đang ở mà chẳng hề hay biết gì về lai lịch của chúng. Biết đâu có những trận pháp bỏ không chỉ đơn giản là đang bị một tấm thảm trải sàn che khuất."
 
 "Nếu ma pháp trận bị thảm trải đè lên, người ta vẫn dùng được nó sao?" tôi hỏi.
 
 "Bà ấy nói một thôi một hồi thế mà anh lại đi hỏi mỗi câu đấy à?"
 
-Lorraine vặn vẹo tôi như thể tôi ngờ nghệch lắm không bằng. Tôi chẳng hiểu sao cô cứ phải làm thế, người ta tò mò thì hỏi thôi mà. Thấy tôi nhún vai, cô thở dài một tiếng rồi dù sao cũng giải thích cặn kẽ cho tôi. Tôi thích tính cách đó của cô.
+Lorraine vặn vẹo tôi như thể tôi ngờ nghệch lắm không bằng. Tôi chẳng hiểu sao cô cứ phải làm thế, tôi chỉ thắc mắc chút thôi mà. Thấy tôi nhún vai, cô thở dài một tiếng rồi vẫn chịu khó giải thích cho tôi. Tôi thích tính cách đó của cô.
 
-"Nếu chỉ bị che bởi một tấm thảm hay mảnh vải nào đó, thì không như đá hay vật liệu dày cộm khác, trận pháp vẫn dùng được như bình thường. Còn nếu ma pháp trận ở đầu bên kia bị thảm phủ lên, dĩ nhiên người ta sẽ chỉ đơn giản là được dịch chuyển lên ngay trên tấm thảm. Tôi chưa làm thử chuyện này bao giờ nên không dám chắc một trăm phần trăm là mình đúng. Nhưng nếu đúng như vậy, việc mình có thể bị dịch chuyển thẳng vào phòng ngai vàng của ai đó là hoàn toàn có cơ sở."
+"Nếu chỉ bị che bởi một tấm thảm hay mảnh vải nào đó, thì không như đá hay vật liệu dày cộm khác, trận pháp vẫn dùng được như bình thường. Còn nếu ma pháp trận ở đầu bên kia bị thảm phủ lên, dĩ nhiên người ta sẽ chỉ đơn giản là được dịch chuyển lên ngay trên tấm thảm. Tôi chưa làm thử chuyện này bao giờ nên không dám chắc một trăm phần trăm là mình đúng. Nhưng nếu đúng như vậy, việc chúng ta có thể bị dịch chuyển thẳng vào phòng ngai vàng của ai đó là hoàn toàn có cơ sở."

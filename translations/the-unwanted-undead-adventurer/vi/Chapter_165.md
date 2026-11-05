@@ -12,7 +12,7 @@ Dĩ nhiên, chúng tôi không hề định lấy mạng nhau. Dù đây là m�
 
 Nghe thì có lý đấy, nhưng tôi vẫn thấy mình lép vế hơn. Capitan nắm rõ từng ngóc ngách của khu rừng phía bắc Hathara. Địa điểm này hoàn toàn đem lại lợi thế cho chú ấy. Dù vậy, tôi cũng có những vũ khí bí mật của riêng mình. Tính ra thì hai bên cũng xem như ngang ngửa. Capitan có là bậc thầy đến đâu đi nữa, tôi vẫn có thể uốn vặn chân tay mềm oặt như sợi mì nhúng nước. Biết đâu nhờ thế mà tôi có chút cơ hội, hay đại loại vậy. Hy vọng là thế.
 
-Tôi cố tự lên dây cót tinh thần và làm ra vẻ tỉnh bơ khi quan sát xung quanh. Trước mắt tôi chỉ là một khu rừng hết sức bình thường. So với những cánh rừng thưa hơn bao quanh Hathara, nơi này có đủ loại cây lớn nhỏ khác nhau, nhưng nhìn thoáng qua thì rất dễ tưởng chúng chẳng khác gì nhau.
+Tôi cố tự lên dây cót tinh thần và làm ra vẻ tỉnh bơ khi quan sát xung quanh. Trước mắt tôi chỉ là một khu rừng hết sức bình thường. So với những cánh rừng thưa hơn bao quanh Hathara, cây cối ở đây khác cả về chủng loại lẫn kích cỡ, nhưng nhìn thoáng qua rất dễ tưởng hai nơi chẳng khác gì nhau.
 
 "Đành rằng cháu từng được huấn luyện, nhưng cháu đâu có gắn bó cả mấy chục năm trong rừng như chú. Vả lại cháu cũng chưa từng thắng chú lấy một lần nào," tôi nói, hy vọng làm thế sẽ khiến chú ấy lơ là cảnh giác.
 
@@ -72,19 +72,19 @@ Capitan bật cười rồi nhảy vút lên không trung phía trên đầu tô
 
 Nhưng ngay trước khi mũi kiếm kịp đâm xuyên bụng, Capitan bằng cách nào đó đã né được đòn đánh nhờ trượt ngang song song với mặt đất một cách kỳ dị. Mũi kiếm của tôi đâm hụt vào không khí. Tôi nheo mắt nhìn xem có chuyện gì thì thấy một vệt sáng lấp lánh theo hướng Capitan vừa lướt qua. Chắc hẳn là một sợi dây nào đó.
 
-Tôi chợt nhớ phục vụ cho công việc thợ săn, Capitan thường mang theo một loại dây rất chắc làm từ các bộ phận quái vật. Loại dây này dùng để sửa dụng cụ hoặc treo con mồi, đủ bền để chịu được cả sức nặng của chú mà không đứt. Chắc chắn là chú vừa dùng nó rồi. Có điều tôi chưa từng thấy chú dùng dây kiểu này bao giờ. Hẳn là chú đã luyện thêm ngón nghề này trong suốt thời gian tôi rời làng. Đỉnh thật đấy. Tôi đảo mắt nhìn quanh nhưng không thấy gì bất thường, song thấy vậy thì đoán chắc quanh đây còn đầy bẫy rập. Chính chú đã dạy tôi chỉ cần thắng thì chơi chiêu gì cũng được, và giờ chú đang đem ra xài với tôi đây. Cơ mà giá như chú nương tay với đệ tử một chút thì tốt biết mấy.
+Tôi chợt nhớ phục vụ cho công việc thợ săn, Capitan thường mang theo một loại dây rất chắc làm từ các bộ phận quái vật. Loại dây này dùng để sửa dụng cụ hoặc treo con mồi, đủ bền để chịu được cả sức nặng của chú mà không đứt. Chắc chắn là chú vừa dùng nó rồi. Có điều tôi chưa từng thấy chú dùng dây kiểu này bao giờ. Hẳn là chú đã luyện thêm ngón nghề này trong suốt thời gian tôi rời làng. Đúng là đáng nể thật. Tôi đảo mắt nhìn quanh nhưng không thấy gì bất thường, song thấy vậy thì đoán chắc quanh đây còn đầy bẫy rập. Chính chú đã dạy tôi chỉ cần thắng thì chơi chiêu gì cũng được, và giờ chú đang đem ra xài với tôi đây. Cơ mà giá như chú nương tay với đệ tử một chút thì tốt biết mấy.
 
 Tôi hét vang một tiếng rồi lao theo Capitan. Giờ thì tôi quyết tung hết bài ra. Kết hợp cả năng lực của quái vật lẫn Khí Lực, tôi bắt kịp Capitan chỉ trong chớp mắt. Chú thoáng vẻ ngạc nhiên, nhưng khóe môi cũng khẽ nhếch lên, như thể muốn bảo giờ cuộc vui mới bắt đầu.
 
 Tôi cứ tưởng mình đã gỡ lại được chút thể diện sau đòn mở màn của chú, nhưng tôi nhầm to. Có khi ngay từ đầu Capitan đã tính đến nước này rồi. Dù vậy, trước đây tôi không đời nào phản công được như thế, mà Capitan thì lại quá rõ trình độ ngày xưa của tôi. Chắc chú đánh giá tôi cao lắm, chỉ là tôi chẳng biết đó là phúc hay họa. Dù sao thì tôi cũng chẳng định bỏ cuộc, mà buông xuôi lúc này cũng vô nghĩa. Đánh thì dữ dội đấy, nhưng dẫu sao đây cũng chỉ là trận so tài. Thua trận này tôi đâu có mất mạng. Chẳng có lý do gì để tôi phải giơ tay xin hàng cả.
 
-Tôi vung kiếm chém tới tấp về phía Capitan. Dù chú có tài ba đến mấy thì lúc này vẫn đang lơ lửng đu dây giữa không trung. Tôi chẳng thấy chú né đòn này kiểu gì được. Ấy vậy mà chú lại dễ dàng vượt ngoài dự đoán của tôi. Đúng lúc tôi đinh ninh kiếm đã trúng đích, tôi cảm nhận được Khí Lực ngưng tụ dày đặc trên bề mặt da của chú. Thanh kiếm chém vào người chú kêu "keng" một tiếng đanh thép như va vào kim loại — thứ âm thanh mà da thịt con người không đời nào phát ra được.
+Tôi vung kiếm chém về phía Capitan. Dù chú có tài ba đến mấy thì lúc này vẫn đang lơ lửng đu dây giữa không trung. Tôi chẳng thấy chú né đòn này kiểu gì được. Ấy vậy mà chú lại dễ dàng vượt ngoài dự đoán của tôi. Đúng lúc tôi đinh ninh kiếm đã trúng đích, tôi cảm nhận được Khí Lực ngưng tụ dày đặc trên bề mặt da của chú. Thanh kiếm chém vào người chú phát ra một tiếng keng đanh gọn như kim loại va nhau, thứ âm thanh mà cơ thể con người không đời nào phát ra được.
 
 ◆◇◆◇◆
 
 Chẳng hiểu chuyện gì vừa xảy ra, tôi trố mắt nhìn người Capitan. Kiếm của tôi rõ ràng đã chém trúng, nhưng trên người chú chẳng có lấy một vết thương. Capitan là thợ săn nên dẻo dai hơn đàn ông bình thường rất nhiều, nhưng lãnh trọn một nhát chém nặng tay như thế mà không hề trầy da tróc vảy thì quả là quái đản. Thế mà chuyện đó lại xảy ra thật.
 
-Thực ra tôi cũng lờ mờ đoán được ngón nghề của chú. Ngay trước khi lưỡi kiếm chạm vào người, tôi đã cảm thấy Khí Lực ngưng tụ trên da chú. Có lẽ chú đã dùng nó để tăng vọt khả năng phòng ngự. Chỉ có thể là vậy thôi, nhưng tôi không ngờ cường hóa cơ thể bằng Khí Lực lại đạt đến mức độ khủng khiếp nhường này.
+Thực ra tôi cũng lờ mờ đoán được ngón nghề của chú. Ngay trước khi lưỡi kiếm chạm vào người, tôi đã cảm thấy Khí Lực ngưng tụ trên da chú. Có lẽ chú đã dùng nó để tăng vọt khả năng phòng ngự. Chỉ có thể là vậy thôi, nhưng tôi vốn không biết liệu có thể cường hóa cơ thể đến mức độ khủng khiếp cỡ đó hay không.
 
 Thực tình mà nói, hiểu biết của tôi về Khí Lực vẫn còn rất nông cạn. Tôi chỉ biết nó dùng để tăng thể lực, cường hóa sức mạnh thể chất và tốc độ hồi phục tự nhiên; xưa nay tôi vẫn xài như thế. Còn chuyện làm da cứng đến mức đánh bật cả lưỡi kiếm thì trước giờ tôi nghĩ là bất khả thi. Dù vậy, rõ ràng là Capitan vừa làm được đúng điều đó. Tôi rất muốn hỏi chú làm cách nào, nhưng hai chú cháu vẫn đang giữa trận so tài.
 
@@ -92,7 +92,7 @@ Thấy kiếm của tôi bị dội ra, Capitan nhận ra đòn đánh của tô
 
 Đòn vừa rồi không ăn thua với Capitan, nhưng không có nghĩa là hết cách. Có lẽ chỉ là tôi chọn sai đòn khi đối đầu với chú mà thôi. Bình thường tôi thấy truyền Ma Lực vào kiếm là tiện tay nhất. Kiếm bọc Ma Lực chém ngọt hơn hẳn. Còn nếu bọc Khí Lực vào vũ khí, sơ sẩy không kiểm soát chuẩn xác là có thể làm đối phương nổ tung xác. Thần Lực tuy mạnh, nhưng lượng dự trữ tôi có thể tùy ý dùng lại chẳng được bao nhiêu. Chính vì thế mà ban nãy tôi mới dùng nhát chém bọc Ma Lực. Giờ tôi tự hỏi chuyện gì sẽ xảy ra nếu thử đổi sang dạng năng lượng khác xem sao.
 
-Trước tiên, tôi quyết định rót Khí Lực vào kiếm. Trước kia tôi phải mất một lúc mới chuyển đổi qua lại giữa các nguồn năng lượng, nhưng giờ đã quen tay đến mức đổi được trong chớp mắt. Capitan khẽ ừ một tiếng, rõ ràng đã nhận ra điều khác lạ. Kiếm bọc Ma Lực vận hành khác hẳn kiếm bọc Khí Lực, nên vừa chạm vũ khí vào nhau là chú cảm thấy điểm bất thường ngay.
+Trước tiên, tôi quyết định rót Khí Lực vào kiếm. Trước kia tôi phải mất một lúc mới chuyển đổi qua lại giữa các nguồn năng lượng, nhưng giờ đã quen tay đến mức đổi được trong chớp mắt. Capitan khẽ hừ một tiếng, rõ ràng đã nhận ra điều khác lạ. Kiếm bọc Ma Lực vận hành khác hẳn kiếm bọc Khí Lực, nên vừa chạm vũ khí vào nhau là chú cảm thấy điểm bất thường ngay.
 
 Capitan vốn đã quen bọc Khí Lực lên dao săn như chuyện đương nhiên, nhưng hầu hết mạo hiểm giả lại dùng Ma Lực. Hai loại năng lượng này không chỉ khác nhau về uy lực, mà ngay ở tầng căn bản nhất, cảm giác chúng mang lại cũng chẳng hề giống nhau. Chạm vũ khí vào kiếm bọc Ma Lực, người ta sẽ thấy như bị một lực hút kéo lại gần. Khí Lực thì ngược lại, tạo ra lực đẩy văng ra xa. Ai cũng có sở trường riêng, nhưng nếu không nắm được điểm khác biệt này thì gặp phải đối thủ liên tục luân chuyển giữa hai nguồn năng lượng, chắc chắn sẽ bị trở tay không kịp.
 
@@ -104,11 +104,11 @@ Capitan xoay xở đỡ được đòn kiếm, nhưng nhịp điệu của chú 
 
 Quá hiểu tính chú, tôi đã tính đến nước chú đỡ được đòn này. Dẫu sao đây cũng là người đã dạy tôi kỹ năng Khí Lực và những bài học căn bản về chiến đấu. Những gì chú thể hiện từ nãy đến giờ đều không nằm ngoài dự liệu, nhưng lúc này tôi bỗng nảy ra một ý. Tôi dồn một lượng Khí Lực khổng lồ ra sau lưng.
 
-Capitan cứ ngỡ đã chặn đứng được kiếm của tôi, nhưng giờ thì chú bắt đầu hoảng hốt. Chú không sao ghìm lại nổi. Sức mạnh cơ bắp của tôi cộng hưởng với áp lực Khí Lực trên lưỡi kiếm, thêm cả lực đẩy phi nhân loại dồn mạnh từ sau lưng, bấy nhiêu đó là quá sức chịu đựng ngay cả với một người như Capitan.
+Capitan cứ ngỡ đã chặn đứng được kiếm của tôi, nhưng giờ thì chú bắt đầu hoảng hốt. Chú không sao ghìm lại nổi. Sức mạnh thể chất của tôi cộng hưởng với áp lực Khí Lực trên lưỡi kiếm, thêm cả lực đẩy phi nhân loại dồn mạnh từ sau lưng, bấy nhiêu đó là quá sức chịu đựng ngay cả với một người như Capitan.
 
-Không trụ nổi nữa, chú bị đòn đánh hất văng ngược về sau. Bản thân tôi cũng bị lực đẩy kéo lao thẳng tới theo chú. Lưng chú đập sầm vào một thân cây, quật đổ nó xuống với một tiếng đổ ầm chấn động.
+Không trụ nổi nữa, chú bị đòn đánh hất văng ngược về sau. Bản thân tôi cũng bị lực đẩy kéo lao thẳng tới theo chú. Lưng chú đập sầm vào một thân cây, quật gãy nó với một tiếng ầm vang dội.
 
-Bụi đất mù mịt bay tung tóe giữa không trung, nhưng tôi vẫn nhìn đủ rõ để biết Capitan đang ở đâu. Mắt người bình thường có khi chịu chết, nhưng mắt tôi thì khác. Dù trong bóng tối hay giữa đống đất đá mù mịt, tôi vẫn có thể định vị chính xác dấu hiệu của sinh mệnh khác. Đây là kỹ năng độc nhất vô nhị của riêng tôi.
+Bụi đất mù mịt lơ lửng giữa không trung, nhưng tôi vẫn nhìn đủ rõ để biết Capitan đang ở đâu. Nếu dùng thị lực thông thường thì chắc tôi cũng chẳng thấy chú đâu, nhưng đôi mắt của tôi rất đặc biệt. Dù trong bóng tối hay giữa đống đất đá mù mịt, tôi vẫn có thể định vị chính xác dấu hiệu của sinh mệnh khác. Đây là kỹ năng độc nhất vô nhị của riêng tôi.
 
 Ra tay lúc này có hơi chơi xấu thật, nhưng tôi vẫn chớp thời cơ tung một nhát chém bổ từ trên xuống. Ngờ đâu Capitan đã kịp lăn người sang bên né đòn.
 

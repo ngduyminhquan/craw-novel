@@ -1,6 +1,6 @@
 # Chương 164: Tập 7 Chương 3 - Vô Số Bí Mật (2)
 
-Lời giải thích của bà Gharb có vài chỗ hơi khó hiểu, nhưng tôi có thể tóm lược lại thế này. Trước hết, nếu ma pháp trận dịch chuyển ở lối ra bị chặn mà vẫn được kích hoạt, người dùng sẽ không bị va đập hay dính liền vào chướng ngại vật chắn đường. Ma pháp trận vẫn đưa người ta tới lối ra, chỉ có điều là ở một khoảng trống không vướng vật cản. Vị trí đó hẳn phải nằm đâu đó bên trên ma pháp trận dịch chuyển, tức là nó sẽ đặt ta đứng ngay trên bề mặt của vật chắn. Dù vậy, ma pháp trận ở lối ra khi ấy vẫn bị bịt kín, thành ra chẳng có cách nào quay trở lại nơi mình vừa rời đi. Như thế thì rắc rối to cho chúng tôi.
+Lời giải thích của Lorraine có vài chỗ hơi khó hiểu, nhưng tôi có thể tóm lược lại thế này. Trước hết, nếu ma pháp trận dịch chuyển ở lối ra bị chặn mà vẫn được kích hoạt, người dùng sẽ không bị va đập hay dính liền vào chướng ngại vật chắn đường. Ma pháp trận vẫn đưa người ta tới lối ra, chỉ có điều là ở một khoảng trống không vướng vật cản. Vị trí đó hẳn phải nằm đâu đó bên trên ma pháp trận dịch chuyển, tức là nó sẽ đặt người ta đứng ngay trên bề mặt của vật chắn. Dù vậy, ma pháp trận ở lối ra khi ấy vẫn bị bịt kín, thành ra chẳng có cách nào quay trở lại nơi mình vừa rời đi. Như thế thì rắc rối to cho chúng tôi.
 
 Còn nếu ma pháp trận dịch chuyển chỉ bị một tấm thảm hay mảnh vải mỏng che lên thì nó vẫn dùng được. Nghe chừng đó cũng không phải vấn đề quá lớn. Chúng tôi chỉ biết hy vọng nếu lối ra có bị chặn thì thứ chắn đường cũng không dày hơn tấm vải. Đại khái những gì cần biết về cơ chế hoạt động của ma pháp trận dịch chuyển chỉ có bấy nhiêu. Có thể vẫn còn nhiều điều để tìm hiểu thêm, nhưng lúc này chưa có gì quá quan trọng.
 
@@ -54,23 +54,23 @@ Tôi việc gì phải giấu quanh. Dù sao bà cũng nhìn thấu ngay thôi, 
 
 Bà Gharb và Capitan từng bảo dù nơi đây nắm giữ bí mật to lớn, họ vẫn muốn Hathara mãi là một ngôi làng bình thường. Phải ôm thêm bí mật nữa thì chắc họ sẽ mệt mỏi lắm. Tôi biết sức chịu đựng của họ trước những chuyện này hơn hẳn người thường, nhưng dù phi thường đến đâu thì họ cũng vẫn là con người. Ai rồi cũng có lúc kiệt sức, mà trên vai họ vốn đã gánh một phần trách nhiệm nặng nề rồi. Tôi không muốn trút thêm gánh nặng lên vai họ. Vả lại với tôi, họ chẳng khác nào người thân trong nhà, thế nên tôi mới ngần ngại.
 
-Với Augurey thì khác, vì gã thuộc tuýp người thích chõ mũi vào chuyện người khác. Tôi nói thế để tự bào chữa thôi, chứ thật bụng là tôi muốn có sự chở che từ một người bạn. Bên cạnh tôi đã có Lorraine và Sheila, hai người họ đều rất đáng tin cậy, nhưng Augurey lại là kiểu bạn thân theo cách khác. Cả hai chúng tôi đều nếm đủ cay đắng thời còn là mạo hiểm giả Đồng Cấp, nên phần nào giống như đồng đội cùng chung chiến hào. Dĩ nhiên đó chẳng phải lý do chính đáng để kéo gã vào mớ bòng bong của mình, nhưng tôi vẫn muốn gã ở cạnh để hỗ trợ tôi đôi chút. Còn với bà Gharb và Capitan thì tôi không nghĩ thế. Tôi không muốn đem rắc rối đến cho họ.
+Với Augurey thì khác, vì anh ta thuộc tuýp người thích chõ mũi vào chuyện người khác. Tôi nói thế để tự bào chữa thôi, chứ thật bụng là tôi muốn có sự ủng hộ từ một người bạn. Bên cạnh tôi đã có Lorraine và Sheila, hai người họ đều rất đáng tin cậy, nhưng Augurey lại là kiểu bạn thân theo cách khác. Cả hai chúng tôi đều nếm đủ cay đắng thời còn là mạo hiểm giả Đồng Cấp, nên phần nào giống như đồng đội cùng chung chiến hào. Dĩ nhiên đó chẳng phải lý do chính đáng để kéo anh ta vào mớ bòng bong của mình, nhưng tôi vẫn muốn có anh ta ở cạnh để hỗ trợ tôi đôi chút. Còn với bà Gharb và Capitan thì tôi không nghĩ thế. Tôi không muốn đem rắc rối đến cho họ.
 
 ◆◇◆◇◆
 
 "Chỉ có vậy thôi à?" bà Gharb thở dài. "Rentt, cháu là học trò của bọn ta. Nếu trò gánh nổi mà thầy lại chịu bó tay thì bọn ta còn mặt mũi nào làm người dạy dỗ cháu nữa? Phải không, Capitan?"
 
-"Chắc chắn rồi," Capitan gật đầu tán thành. "Chú chẳng biết bí mật của cháu là gì, nhưng hiểu tính cháu rồi, chú không nghĩ cháu lại làm chuyện xằng bậy đâu. Chắc là cháu vướng phải rắc rối gì thôi. Này nhé, nếu cháu phạm trọng tội gì thì chú khuyên cháu nên đi đầu thú. Cơ mà cháu đâu có làm thế, đúng không?" Chú hỏi đùa một câu, cốt chỉ để tỏ ý tin tôi không đời nào làm vậy. Thế giới đang thời loạn lạc triền miên. Chẳng ai dám chắc tôi chưa từng làm điều gì sai trái, nhưng chú tin sau cùng tôi sẽ luôn chọn con đường đúng đắn. Tôi rất cảm kích vì chú tin tưởng mình đến thế.
+"Chắc chắn rồi," Capitan gật đầu tán thành. "Chú chẳng biết bí mật của cháu là gì, nhưng hiểu tính cháu rồi, chú không nghĩ cháu lại làm chuyện xằng bậy đâu. Chắc là cháu vướng phải rắc rối gì thôi. Này nhé, nếu cháu phạm trọng tội gì thì chú khuyên cháu nên đi đầu thú. Cơ mà cháu đâu có làm thế, đúng không?" chú hỏi đùa một câu, cốt chỉ để tỏ ý tin tôi không đời nào làm vậy. Thế giới đang thời loạn lạc triền miên. Chẳng ai dám chắc tôi chưa từng làm điều gì sai trái, nhưng chú tin sau cùng tôi sẽ luôn chọn con đường đúng đắn. Tôi rất cảm kích vì chú tin tưởng mình đến thế.
 
 Lorraine dường như cũng nghĩ vậy. Cô vỗ vai tôi bảo: "Anh có phúc mới gặp được những người thầy tuyệt vời như thế đấy. Chẳng bù cho thầy tôi chút nào." Nghe câu nói có vẻ còn uẩn khúc phía sau, nhưng tôi quyết định không gặng hỏi.
 
 Theo tôi nhớ mang máng, người dạy Lorraine từng ném cả cây đũa phép vào người cô hồi hai thầy trò tập làm đũa phép. Nghe tội nghiệp thật, và nghĩ lại thì chuyện thầy trò của tôi quả là may mắn hơn nhiều. Dù bà Gharb từng ép tôi uống thuốc độc, còn Capitan quẳng tôi ra chốn hoang dã rồi bảo tự tìm đường sống sót, nhưng tôi đoán thế vẫn chưa thấm vào đâu. Nói cho công bằng, bà Gharb luôn chuẩn bị sẵn biện pháp phòng ngừa để tôi không mất mạng hay chịu di chứng lâu dài, còn Capitan cũng âm thầm bám theo trông chừng tôi suốt thời gian đó.
 
-"Tất nhiên là cháu không phạm tội gì rồi," tôi nói. "À thì... có điều vài người có thể coi đó là tội lỗi."
+"Tất nhiên là cháu không phạm tội gì rồi," tôi nói. "À thì... có điều vài người có thể coi đó là một cái tội."
 
-Nếu bản thân việc là Ma Cà Rồng đã là tội lỗi thì tôi đúng là kẻ có tội thật. Nive mà phát hiện ra chắc đã giết tôi ngay tại chỗ rồi. Cô ấy sẽ vồ lấy tôi còn nhanh hơn mèo con lao vào tuyết mới, và viễn cảnh đó đúng là ác mộng. Cô ấy thậm chí chẳng dễ thương như mèo. Vẻ ngoài thì ưa nhìn thật đấy, nhưng ánh mắt lại rực lửa như thú săn mồi. Tôi đoán mèo cũng là loài ăn thịt, nhưng chúng thuộc dạng đáng yêu. Nghĩ bụng khéo mình lại làm ai đó nổi giận mất, nên thôi tôi dừng ở đây rồi nói tiếp.
+Nếu bản thân việc làm Ma Cà Rồng đã là một cái tội thì tôi đúng là kẻ phạm tội thật. Nive mà phát hiện ra chắc đã giết tôi ngay tại chỗ rồi. Cô ấy sẽ vồ lấy tôi còn nhanh hơn mèo con lao vào tuyết mới, và viễn cảnh đó đúng là ác mộng. Cô ấy thậm chí chẳng dễ thương như mèo. Vẻ ngoài thì ưa nhìn thật đấy, nhưng ánh mắt lại rực lửa như thú săn mồi. Tôi đoán mèo cũng là loài ăn thịt, nhưng chúng thuộc dạng đáng yêu. Tôi có cảm giác nghĩ thêm nữa là sẽ chọc giận ai đó mất, nên thôi dừng ở đây cho lành.
 
-"Có người coi là tội lỗi sao? Rốt cuộc thế là nghĩa làm sao?" Capitan hỏi.
+"Có người coi đó là tội sao? Rốt cuộc thế là nghĩa làm sao?" Capitan hỏi.
 
 Trái lại, bà Gharb dường như đã lờ mờ đoán ra ý tôi. Dù vậy, việc bà nhận ra chỉ nhờ ngần ấy thông tin ít ỏi quả thật khó tin. Mà vừa lúc tôi bắt đầu thầm nghĩ xem chuyện đó quái đản cỡ nào thì bà đã trừng mắt lườm tôi một cái. Trực giác của bà đúng là nhạy đến phát sợ. Tôi suýt nữa đã muốn van bà làm ơn đừng có lúc nào cũng biết tuốt như thế.
 
@@ -84,7 +84,7 @@ Giờ thì tôi dám chắc là bà biết tỏng rồi.
 
 "Thôi đi bà," Capitan làu bàu, mặt càng cau lại. Đến cả người thợ săn cừ khôi nhất làng mà ở cạnh bà lão này cũng chẳng khác nào đứa trẻ.
 
-Nhưng có vẻ bà Gharb không định lảng tránh câu hỏi. Ngẫm nghĩ một lát, bà bảo: "Tôi tin ông đủ can đảm để chấp nhận những gì đã xảy đến với Rentt, nhưng tận mắt chứng kiến thì sẽ hiểu nhanh hơn đấy. Capitan, đấu với Rentt một trận đi. Ông sẽ cảm nhận được thằng bé đã đổi khác thế nào."
+Nhưng có vẻ bà Gharb không định lảng tránh câu hỏi. Ngẫm nghĩ một lát, bà bảo: "Tôi tin Capitan đủ bản lĩnh để chấp nhận những gì đã xảy đến với Rentt, nhưng tận mắt chứng kiến thì sẽ hiểu nhanh hơn đấy. Capitan, đấu với Rentt một trận đi, rồi sẽ cảm nhận được thằng bé đã đổi khác thế nào."
 
 "Ý bà là sao, Rentt đổi khác ư? Vì nó mạnh hơn rồi à?"
 
@@ -96,7 +96,7 @@ Tuy nhiên, lúc giao chiến tôi gần như chẳng bao giờ tận dụng đ�
 
 "Cháu có đổi khác thật, nhưng không biết liệu Capitan có đủ sức ép cháu phải dùng tới những điểm đó hay không," tôi nói. "Ngay cả con Tarasque hầu như cũng chưa ép được cháu đến mức ấy."
 
-Cơ thể tôi giờ dẻo dai bền bỉ hơn trước, nên có lẽ chỉ cần thể hiện điểm đó ra là đủ. Tôi có thể cho chú thấy các vết thương lập tức lành miệng ra sao. Còn nhiều hơn thế hay không thì tùy thuộc vào thực lực của Capitan. Nói thật lòng, tôi nghĩ khi giao đấu mình vẫn sẽ phải nghiêm túc. Đằng nào thì trước đó hai chú cháu cũng đã hẹn sẽ so tài, nên tôi chỉ muốn kích tướng chú ấy một chút. Đầu óc Capitan còn sùng bái cơ bắp hơn cả tôi nữa kìa. Bà Gharb thừa biết tính chú, nên bà mới gợi ý chuyện này. Chú hay cố tỏ ra mình là người có học trước mặt tôi hay đám cấp dưới, nhưng cái gì cũng có giới hạn của nó thôi.
+Cơ thể tôi giờ dẻo dai bền bỉ hơn trước, nên có lẽ chỉ cần thể hiện điểm đó ra là đủ. Tôi có thể cho chú thấy các vết thương lập tức lành miệng ra sao. Còn nhiều hơn thế hay không thì tùy thuộc vào thực lực của Capitan. Nói thật lòng, tôi nghĩ khi giao đấu mình vẫn sẽ phải nghiêm túc. Đằng nào thì trước đó hai chú cháu cũng đã hẹn sẽ so tài, nên tôi chỉ muốn kích tướng chú ấy một chút. Capitan còn thuộc tuýp thiên về cơ bắp hơn cả tôi nữa. Bà Gharb thừa biết tính chú, nên bà mới gợi ý chuyện này. Chú hay cố tỏ ra mình là người có học trước mặt tôi hay đám cấp dưới, nhưng chú cũng chỉ làm bộ được tới mức nào đó thôi.
 
 Capitan cắn câu đúng như tôi dự đoán: "Được thôi, tới luôn! Nếu cháu nghĩ mình cứng cỏi đến thế thì đấu một trận nào. Cơ mà muốn khóc lóc xin lỗi thì giờ vẫn còn kịp đấy nhé."
 
@@ -106,13 +106,13 @@ Thế là chúng tôi quyết định sẽ so tài, nhưng không phải ngay t�
 
 ◆◇◆◇◆
 
-"Anh có cơ thắng không đấy?" Lorraine hỏi.
+"Anh có cửa thắng không đấy?" Lorraine hỏi.
 
 "Tôi cũng không chắc."
 
-Chúng tôi đang ở trong nhà trưởng làng, tức là nhà của gia đình tôi. Tụi tôi đã trở về từ mê cung. Trước đó bà Gharb và Capitan đã giải thích trước việc chúng tôi vắng mặt, bảo là có việc bận trong rừng.
+Chúng tôi đang ở trong nhà trưởng làng, tức là nhà của gia đình tôi. Cả hai đã trở về từ mê cung. Bà Gharb và Capitan đã báo trước chuyện chúng tôi vắng mặt, bảo là có việc bận trong rừng.
 
-Chỉ có Ingo nhìn chúng tôi rồi hỏi: "Vậy là hai đứa biết rồi à?" Khi tôi gật đầu, cha bảo: "Cha hiểu rồi. Giờ chuyện đó giao lại cho các con. Không phải bọn cha sẽ hoàn toàn đứng ngoài cuộc nữa, nhưng cứ sử dụng nơi ấy theo cách con thấy phù hợp. Nơi đó chắc chắn sẽ là một kho báu màu mỡ cho người làm nghề như con."
+Chỉ có Ingo nhìn chúng tôi rồi hỏi: "Vậy là hai đứa biết rồi à?" Khi tôi gật đầu, cha bảo: "Cha hiểu rồi. Giờ chuyện đó giao lại cho các con. Không phải bọn cha sẽ hoàn toàn đứng ngoài cuộc nữa, nhưng cứ sử dụng nơi ấy theo cách con thấy phù hợp. Nơi đó chắc chắn sẽ là một kho báu vô giá cho người làm nghề như con."
 
 Thay vì chỉ đơn thuần bàn giao quyền quản lý khu tàn tích, có lẽ cha nuôi muốn xem đây như một món quà dành cho tôi. Điều này chắc chắn giúp tôi mở rộng phạm vi hoạt động của một mạo hiểm giả. Dẫu vậy, nó cũng hoàn toàn có thể gây ra rắc rối nếu không dùng cẩn thận, nên tôi phải luôn ghi nhớ điều đó.
 
@@ -128,7 +128,7 @@ Chưa kể, vũ khí chính của chú là dao săn, nên phong cách có phần
 
 "Chú ấy mạnh lắm," tôi đáp. "Hồi xưa tôi chẳng bao giờ đọ lại được. Tất nhiên tôi vẫn luôn mong có ngày đánh bại chú, nhưng lúc này thì tôi đang run cả người đây."
 
-"Sao, sợ rồi à?" Lorraine hỏi.
+"Sao thế, anh sợ à?"
 
 "Không, tôi đang run lên vì phấn khích đấy chứ. Tôi nóng lòng muốn xem mình đã tiến bộ đến mức nào rồi," tôi mạnh miệng bảo vậy, nhưng thật tình là cũng hơi sợ một chút. Đúng hơn không phải sợ hãi, mà tôi lo mình sẽ làm chú thất vọng. Sau những gì bà Gharb ngụ ý về tôi, tôi phải thể hiện thật tốt trước mặt chú. Tôi cần phải dốc toàn bộ vốn liếng của mình: Khí Lực, Ma Lực, Thần Lực, tất cả mọi thứ. Tôi thậm chí định tận dụng tối đa cả những năng lực quái vật. Nếu làm đến nước đó mà vẫn không thắng nổi thì tôi cũng đành chịu thôi. Có thua thì trời cũng chẳng sập, tôi vẫn có thể tiếp tục theo đuổi ước mơ của mình. Mục tiêu duy nhất của tôi là trở thành mạo hiểm giả Mithril Cấp.
 
