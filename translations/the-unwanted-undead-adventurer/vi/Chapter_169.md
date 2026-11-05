@@ -1,119 +1,119 @@
 # Chương 169: Tập 7 Chương 5 - Laura, Đương Chủ Gia Tộc Latuule (1)
 
-Ở ngoại ô Maalt có một dinh thự cổ kính, bề thế nép mình bên khu vườn rộng lớn. Những ai lần đầu thấy chủ nhân của dinh thự ấy thường không khỏi ngạc nhiên, bởi người đó trông chỉ như một bé gái gầy gò ốm yếu chừng mười hai, mười ba tuổi. Cô hay mặc những bộ váy kiểu cổ màu đen hoặc trắng. Gia tộc của cô bao đời nay vẫn nắm giữ tầm ảnh hưởng to lớn ở Maalt, và người ta thường hình dung cô ắt hẳn rất u ám, cũng như ấn tượng chung về người của các gia tộc lâu đời. Có điều, số người thực sự từng gặp mặt cô lại chẳng có mấy ai.
+Ở ngoại ô Maalt có một dinh thự cổ kính, bề thế với khu vườn rộng lớn. Những ai lần đầu thấy chủ nhân của dinh thự ấy thường không khỏi ngạc nhiên, bởi người đó trông chỉ như một bé gái gầy gò ốm yếu chừng mười hai, mười ba tuổi. Cô chủ yếu mặc những bộ váy kiểu cổ màu đen hoặc trắng. Gia tộc của cô bao đời nay vẫn nắm giữ tầm ảnh hưởng to lớn ở Maalt, và người ta thường hình dung cô ắt hẳn rất u ám, cũng như ấn tượng chung về người của các gia tộc lâu đời. Có điều, số người thực sự từng gặp mặt cô lại chẳng có mấy ai.
 
-Tiện thể thì cô ấy tên là Laura Latuule. Mà vì tôi đang kể về chính mình, nên đó cũng là tên của tôi.
+Nhân tiện thì cô ấy tên là Laura Latuule. Mà vì tôi đang kể về chính mình, nên đó cũng là tên của tôi.
 
 ◆◇◆◇◆
 
 "Tại sao?! Tại sao cô lại không chịu giúp?!"
 
-Đứng giữa phòng tiếp khách trong dinh thự của tôi là một cậu nhóc. Cậu ta đang gắt gỏng quát tháo vào mặt tôi. Quản gia Isaac đứng sau lưng tôi, cũng nhìn chằm chằm vào cậu ta y như tôi vậy.
+Đứng giữa phòng tiếp khách trong dinh thự của tôi là một cậu bé. Cậu đang quát tháo vào mặt tôi. Người hầu của tôi là Isaac đứng ngay sau lưng tôi, cũng nhìn chằm chằm vào cậu bé y như tôi vậy.
 
-"Cậu hỏi thế tôi cũng chẳng biết trả lời sao đâu," tôi nói. "Tôi chỉ giúp những gì trong khả năng thôi. Isaac."
+"Tôi e là mình chẳng biết phải nói gì với cậu nữa," tôi nói. "Tôi sẽ giúp những gì trong khả năng của mình. Isaac."
 
-Nghe tôi gọi, Isaac liền trao cho tôi một lọ chất lỏng màu đỏ. Đó là loại thuốc bào chế từ Hoa Long Huyết. Thứ thuốc này cực kỳ khó bảo quản, hoa phải vừa mới hái thì thuốc mới có tác dụng, nên để có được nó chẳng dễ dàng gì. May sao tôi lại quen một mạo hiểm giả thỉnh thoảng đem Hoa Long Huyết tới cho mình. Dạo này anh ấy đang rời Maalt đi vắng, nhưng nhờ có món ma cụ giúp làm chậm dòng thời gian của đồ vật ở mức độ nhất định, lượng thuốc có sẵn vẫn đủ cho tôi dùng thêm một thời gian nữa.
+Nghe tôi gọi, Isaac liền trao cho tôi một lọ chất lỏng màu đỏ. Đó là loại thuốc bào chế từ Hoa Long Huyết. Thứ thuốc này cực kỳ khó bảo quản, hoa phải vừa mới hái thì thuốc mới có tác dụng, nên để có được nó chẳng dễ dàng gì. May sao tôi lại gặp được một mạo hiểm giả định kỳ đem Hoa Long Huyết tới cho mình. Hiện giờ anh ấy đang rời Maalt đi vắng, nhưng tôi có một ma cụ giúp làm chậm thời gian của một số đồ vật ở mức độ nhất định. Lượng thuốc có sẵn vẫn đủ dùng trong một thời gian nữa.
 
-Tôi nhận lọ thuốc Hoa Long Huyết từ tay Isaac rồi đưa cho cậu bé. "Pha loãng thứ này vào nước theo tỷ lệ một phần trăm rồi uống mỗi ngày một lần để kìm nén cơn thèm khát. Chừng đó là đủ để cậu sống bình yên giữa con người rồi. Nhưng cậu phải rời Maalt ngay. Một ác ma đang lùng sục cậu ở đây đấy. Tôi không khuyên cậu tiếp tục nán lại thị trấn này đâu."
+Tôi nhận lọ thuốc Hoa Long Huyết từ tay Isaac rồi đưa cho cậu bé. "Pha loãng thứ này vào nước theo tỷ lệ một phần trăm rồi uống mỗi ngày một lần để kìm nén cơn thèm khát. Chừng đó là đủ để cậu sống yên ổn giữa con người rồi. Tuy nhiên, cậu phải rời khỏi Maalt ngay. Một ác ma đang ở đây để lùng sục cậu đấy. Tôi không thể khuyên cậu tiếp tục nán lại thị trấn này được."
 
 ![](images/ch169-01.webp)
 
-"Thứ này thì giúp ích được gì cho tôi chứ?" cậu bé nói, suýt nữa đã quẳng phắt lọ thuốc sang bên.
+"Thứ này thì giúp ích được gì cho tôi chứ?" cậu bé nói, suýt chút nữa đã quẳng lọ thuốc sang một bên.
 
-"Nhờ thứ thuốc đó mà đồng loại của cậu mới ẩn mình sống giữa con người được suốt bao năm qua đấy. Giờ các mối cung cấp ít đi nên hẳn sẽ khó khăn hơn, nhưng chắc chắn không phải là vô phương. Nơi cậu sống hẳn phải còn thuốc dự trữ chứ."
+"Nhờ thứ thuốc đó mà đồng loại của cậu mới ẩn mình sống giữa con người được suốt bao năm qua đấy. Giờ các mối tìm kiếm ít đi nên tôi đoán mọi chuyện sẽ khó khăn hơn, nhưng chắc chắn không phải là bất khả thi. Nơi cậu sống hẳn phải còn thuốc dự trữ chứ.
 
-"Cơ mà tôi phải hỏi, cớ sao một đứa trẻ như cậu lại bỏ làng lặn lội tới tận chốn này? Cậu bảo muốn chứng minh cho cả thế giới thấy sự tồn tại của đồng tộc mình và mong tôi giúp đỡ. Nhưng nếu việc đó khả thi, thì những người mạnh hơn cậu nhiều hẳn đã làm từ lâu rồi. Rốt cuộc trong đầu cậu đang nghĩ cái gì thế?"
+"Nhưng tôi phải hỏi tại sao một cậu bé như cậu lại quyết định rời làng để lặn lội tới tận nơi này. Cậu nói muốn chứng minh sự tồn tại của đồng tộc mình cho cả thế giới thấy và muốn tôi giúp đỡ. Nhưng nếu cậu có thể làm được việc đó, thì hẳn là những người mạnh hơn cậu rất nhiều cũng đã làm như vậy từ lâu rồi. Thế thì rốt cuộc cậu đang tính toán điều gì?"
 
-Nghe tôi hỏi vậy, cậu bé từ từ hạ tay xuống trước khi kịp ném lọ thuốc. May thay, có vẻ như tôi đã khiến cậu hiểu ra mình cần thứ thuốc này đến mức nào.
+Nghe tôi hỏi vậy, cậu bé từ từ hạ tay xuống trước khi kịp ném lọ thuốc đi. May thay, có vẻ như tôi đã thuyết phục được cậu rằng mình thực sự cần thứ thuốc này.
 
-"Tôi không thể chịu nổi cuộc sống trong làng thêm một ngày nào nữa," cậu bé nói. "Tôi ghét cảnh phải trốn chui trốn nhủi khỏi con người. Tụi tôi đâu đã tuyệt diệt, cớ sao lại phải vờ như mình chẳng hề tồn tại? Chúng tôi có tồn tại mà. Chúng tôi sống chung một thế giới với mọi người cơ mà. Tại sao mọi chuyện lại phải thành ra nông nỗi này chứ?"
+"Tôi chỉ là không thể chịu nổi cảnh sống trong làng thêm nữa," cậu bé nói. "Tôi ghét phải trốn chui trốn nhủi khỏi con người. Tụi tôi đâu đã tuyệt diệt, vậy mà lại phải giả vờ như mình chẳng hề tồn tại. Nhưng chúng tôi có tồn tại thật mà. Chúng tôi sống trong cùng một thế giới với tất cả mọi người. Tại sao mọi chuyện lại phải thành ra thế này chứ?"
 
-Cậu bé uất ức đến mức trào nước mắt. Cảm xúc của cậu ta chẳng hề khó hiểu. Có điều, nhìn vào thực tế thế giới này, đòi chứng minh sự tồn tại của mình đâu phải chuyện khôn ngoan.
+Cậu bé uất ức đến mức bắt đầu rơi nước mắt. Cảm xúc của cậu chẳng hề khó hiểu. Có điều, nhìn vào tình cảnh thế giới hiện nay, đòi khẳng định sự tồn tại của mình chẳng phải là chuyện khôn ngoan.
 
-"Ít nhất thì tôi công nhận cậu có tồn tại. Cậu đang sống, đang đứng sờ sờ ngay trước mắt tôi, thậm chí còn đang nói chuyện với tôi đây thây. Cậu cứ yên tâm, các cậu chẳng phải giống loài duy nhất buộc phải lẩn trốn đâu. Những chủng tộc khác cũng vậy thôi, tùy mức độ, nào là Elf, Người Lùn, loài tiên rồi cả thú nhân nữa. Sự thật ấy không cách nào trốn tránh được. Nhưng dẫu vậy, các cậu vẫn đang kiên cường sinh tồn đấy thôi. Còn nếu cứ nán lại đây, tôi sẽ không thể bảo vệ cậu đâu. Rất có thể cậu sẽ bỏ mạng và tan biến mất. Cậu muốn thế sao?"
+"Ít nhất thì tôi công nhận rằng cậu có tồn tại. Cậu đang sống và đang đứng ngay tại đây, thậm chí còn đang trò chuyện với tôi. Và cứ yên tâm đi, các cậu không phải là những kẻ duy nhất buộc phải lẩn trốn đâu. Những chủng tộc khác cũng vậy ở các mức độ khác nhau, bao gồm cả Elf, Người Lùn, loài tiên và thú nhân. Không cách nào trốn tránh được sự thật này. Nhưng bất chấp tất cả, các cậu vẫn tiếp tục sinh tồn đấy thôi. Tuy nhiên, nếu cậu cứ nán lại đây, tôi sẽ không thể bảo vệ cậu đâu. Rất có thể cậu sẽ bỏ mạng và tan biến hoàn toàn. Cậu nghĩ sao về điều đó?"
 
-Cậu bé ngập ngừng một thoáng rồi bảo, "Tôi không muốn chết."
+Cậu bé ngập ngừng một thoáng rồi nói, "Tôi không muốn chết."
 
-"Thế thì quay về làng của cậu đi. Tôi sẽ không hỏi làng đó ở đâu, mà tôi tin chắc cậu cũng chẳng muốn cho tôi biết đâu."
+"Vậy thì hãy quay về làng của cậu đi. Tôi sẽ không hỏi ngôi làng đó ở đâu, và tôi tin chắc cậu cũng chẳng muốn cho tôi biết đâu."
 
-"Nhưng làm sao giữ liên lạc được chứ?"
+"Nhưng làm sao chúng ta giữ liên lạc được chứ?"
 
-"Chuyện đó cậu không cần bận tâm. Isaac."
+"Cậu không cần bận tâm về chuyện đó. Isaac."
 
 "Vâng, thưa tiểu thư," Isaac gật đầu đáp rồi bước ra khỏi phòng.
 
-"Thế là sao chứ?" cậu bé ngơ ngác hỏi.
+"Cái quái gì thế?" cậu bé hỏi.
 
-"Chúng tôi có cách liên lạc với đồng tộc của cậu. Tuy sẽ mất chút thời gian nhưng bảo đảm hiệu quả, không cần phải lo đâu. Việc không rõ đích xác là ngôi làng nào đúng là hơi phiền phức, nhưng để lạc mất một đứa trẻ tầm tuổi cậu thì chắc hẳn họ đang lùng sục khắp nơi rồi. Rất có thể họ sẽ sớm tìm tới chúng tôi thôi."
+"Chúng tôi có cách liên lạc với đồng tộc của cậu. Tuy sẽ mất chút thời gian nhưng bảo đảm hiệu quả, nên không cần phải lo đâu. Việc xác định cụ thể là ngôi làng nào đúng là hơi phiền toái một chút, nhưng nếu họ lạc mất một cậu bé tầm tuổi cậu thì tôi đoán họ đang ráo riết lùng sục khắp nơi rồi. Rất có thể họ sẽ sớm liên lạc với chúng tôi thôi."
 
-"Tôi từng nghe các trưởng lão kể về cô, nhưng sao cô lại biết nhiều về tụi tôi đến thế?"
+"Tôi từng nghe các trưởng lão kể về cô, nhưng tại sao cô lại biết nhiều về tụi tôi đến thế?"
 
-"Bao đời nay gia tộc tôi vẫn luôn sống như vậy. Nơi Maalt này chính là cứ điểm hoạt động của chúng tôi cho mục đích đó. Giờ đây chắc chỉ còn gia tộc tôi ghi nhớ chuyện này, nhưng cậu không cần lo. Tôi sẽ không phản bội các cậu đâu."
+"Gia tộc tôi đã sống như vậy qua bao thế hệ rồi. Maalt tồn tại như một cứ điểm hoạt động của chúng tôi vì mục đích này. Đến thời điểm hiện tại thì chỉ còn gia tộc tôi ghi nhớ điều đó, nhưng cậu không cần phải lo. Tôi sẽ không phản bội các cậu đâu."
 
 "Cảm ơn cô rất nhiều."
 
-"Không có gì. Trở lại chuyện lúc nãy, Maalt lúc này đang rất nguy hiểm. Nếu có đi lại trong thị trấn, cậu phải hết sức cẩn thận. Dùng thứ thuốc đó sẽ an toàn hơn nhiều, nhưng tôi không dám chắc cậu sẽ không bị phát hiện đâu. Cho ăn chắc, tôi khuyên cậu nên trả phòng quán trọ rồi dọn qua dinh thự này ở tạm. Chúng tôi cũng lo liệu được cả chuyện ăn uống cho cậu nữa."
+"Không có gì đâu. Quay lại điều tôi nói lúc nãy, Maalt hiện tại đang rất nguy hiểm. Nếu định đi lại trong thị trấn, cậu hãy hết sức cẩn thận. Dùng thứ thuốc đó sẽ giúp cậu an toàn hơn nhiều, nhưng tôi không thể bảo đảm rằng cậu sẽ không bị phát hiện. Để chắc chắn, tôi khuyên cậu nên trả phòng quán trọ và dọn đến dinh thự của tôi ở tạm với tư cách khách trọ. Chúng tôi cũng có thể lo liệu cả thức ăn cho cậu nữa."
 
-Cậu bé gật đầu, bảo sẽ về quán trọ trả phòng rồi quay người bước ra. Tôi còn cẩn thận dặn cậu pha loãng chiết xuất Hoa Long Huyết uống ngay trước khi đi.
+Cậu bé gật đầu, nói sẽ về báo với quán trọ rằng mình rời đi rồi quay người bước ra khỏi phòng. Tôi đã bảo cậu pha loãng chiết xuất Hoa Long Huyết và uống ngay trước khi đi.
 
-Khi tôi đưa mắt tiễn cậu ta ra cửa, Isaac đã quay trở lại phòng.
+Trong lúc tôi đưa mắt tiễn cậu rời đi, Isaac quay trở lại phòng.
 
-"Anh nghĩ chúng ta liên lạc được với họ chứ?" tôi hỏi.
+"Anh nghĩ mình có thể liên lạc được với họ không?" tôi hỏi.
 
-"Vâng. Dù phải chờ phản hồi, nhưng tôi ước tính ngày mai sẽ có tin." Anh ngập ngừng một thoáng rồi tiếp. "Cậu bé đó có liên quan tới những vụ mạo hiểm giả mất tích không, thưa tiểu thư?"
+"Vâng. Dù phải chờ phản hồi, nhưng tôi ước tính ngày mai sẽ có câu trả lời." Anh ngập ngừng một thoáng rồi nói tiếp. "Cậu bé đó có phải là thủ phạm gây ra những vụ mạo hiểm giả mất tích không, thưa tiểu thư?"
 
-Tôi ngẫm nghĩ một thoáng rồi mới đáp. "Không, tôi không nghĩ là cậu ta đâu. Cậu ta đến từ một trong những ngôi làng kia. Tuy không có Hoa Long Huyết, nhưng cậu ta có loại thuốc khác để kìm nén cơn thèm khát và tiếp cận con người an toàn. Trông thì có vẻ thuốc sắp cạn thật, nhưng dù sao trên người cậu ta cũng chẳng có mùi máu."
+Tôi ngẫm nghĩ một thoáng rồi mới đáp. "Không, tôi không nghĩ là cậu ta đâu. Cậu ta đến từ một trong những ngôi làng kia. Tuy không có Hoa Long Huyết, nhưng cậu ta có loại thuốc giúp kìm nén cơn thèm khát và tiếp cận con người một cách an toàn. Đúng là trông có vẻ thuốc của cậu ta sắp cạn thật, nhưng dù sao trên người cậu ta cũng không hề có mùi máu."
 
-"Vậy nghĩa là trong thành Maalt không chỉ có mỗi mình cậu ta sao, thưa tiểu thư?"
+"Vậy nghĩa là cậu ta không phải người duy nhất thuộc đồng tộc của họ đang ở Maalt sao, thưa tiểu thư?"
 
-"Tôi thấy khả năng đó rất cao. Chúng ta sẽ phải điều tra chuyện này thôi."
+"Tôi nghĩ điều đó hoàn toàn có thể. Chúng ta sẽ phải điều tra việc này."
 
-"Vậy tôi sẽ đi điều tra ngay. Xin phép tiểu thư," Isaac nói rồi lại bước ra khỏi phòng.
+"Vậy tôi sẽ bắt tay vào việc đó ngay. Xin phép tiểu thư," Isaac nói rồi lại bước ra khỏi phòng.
 
-Tôi ngả lưng vào ghế tựa, thở dài một tiếng. Dạo này đời tôi lắm chuyện xảy ra quá, bắt đầu thấy mệt mỏi rồi đây. Giá mà có ai đó đấm bóp vai cho tôi thì thích biết mấy.
+Tôi ngả lưng vào ghế sofa và thở dài. Dạo gần đây cuộc sống của tôi xảy ra khá nhiều chuyện, bắt đầu thấy mệt mỏi rồi đây. Giá mà có ai đó xoa bóp vai cho tôi thì thích biết mấy.
 
 ◆◇◆◇◆
 
-"Thần Ma Khí Dung Hợp Thuật hả? Chú chẳng ngờ lại có kỹ thuật như thế đấy. Đến cả Ma Khí Dung Hợp Thuật chú còn chịu chết, nên khoản này chú chẳng dạy cháu được gì đâu," Capitan nói, giọng hơi tiếc nuối.
+"Thần Ma Khí Dung Hợp Thuật hả? Chú chẳng ngờ lại có những kỹ thuật như thế đấy. Đến cả Ma Khí Dung Hợp Thuật chú còn không dùng nổi, nên khoản này chú chẳng dạy cháu được gì tương tự đâu," Capitan nói, giọng thoáng chút tiếc nuối.
 
-Biết làm sao được, chuyện này chẳng thể cưỡng cầu. Ma Lực phần lớn là do bẩm sinh, còn có Thần Lực hay không lại hoàn toàn phụ thuộc vào may rủi. Xuyên suốt chiều dài lịch sử, lắm tôn giáo ắt sẽ cau mày khó chịu nếu nghe ai bảo có được Thần Lực chỉ là sự ngẫu nhiên, nhưng thực tế phũ phàng lại đúng là như vậy.
+Thật đáng tiếc, nhưng chuyện này chẳng có cách nào khác được. Ma Lực phần lớn là do bẩm sinh, còn có Thần Lực hay không lại hoàn toàn là chuyện may rủi. Xuyên suốt lịch sử, nhiều tôn giáo ắt sẽ cau mày khó chịu nếu nghe ai coi việc sở hữu Thần Lực đơn thuần chỉ là sự ngẫu nhiên, nhưng thực tế lại đúng là như vậy.
 
-Nói vậy không có nghĩa là đức tin chẳng đóng vai trò gì. Đôi khi thần linh vẫn ban phước cho những ai kiên trì cầu nguyện hoặc chăm làm việc thiện, ban cho họ khả năng tiếp cận Thần Lực. Ngay như bản thân tôi, tôi cũng được ban phước nhờ công tu sửa một ngôi đền đấy thôi.
+Nói vậy cũng không có nghĩa là đức tin chẳng liên quan gì đến chuyện đó. Đôi khi thần linh vẫn ban phước cho những ai thành tâm cầu nguyện hoặc chăm làm việc thiện, từ đó ban cho họ khả năng tiếp cận Thần Lực. Ngay như bản thân tôi, tôi cũng được ban phước nhờ tu sửa một ngôi đền đấy thôi.
 
-Nhưng nếu làm việc thiện với toan tính vụ lợi kiếm Thần Lực để làm chuyện xằng bậy, thường thì người ta sẽ chẳng thu lại được gì. Mấy câu chuyện răn dạy kiểu đó nhiều vô số kể. Rốt cuộc thần linh vẫn là thần linh, rất có thể các ngài thấu rõ bụng dạ con người. Có điều, nghe đồn ân phước của tà thần chẳng khác gì ân phước do thiện thần ban phát, thành ra tính xác thực của mấy câu chuyện kia vẫn còn bỏ ngỏ. Cơ mà tôi chưa từng gặp ai được tà thần ban phước nên cũng chẳng rõ. Lẽ tự nhiên là chẳng có ai dại gì đi bêu rếu khắp nơi rằng mình được tà thần ban phước cả. Cùng lắm họ chỉ nhận là mình có Thần Lực, mà Thần Lực thì bắt nguồn từ đâu cũng vẫn là Thần Lực. Người ta cứ tưởng tà thần sẽ ban cho thứ sức mạnh hắc ám dị hợm nào đó, nhưng quái lạ là chẳng phải vậy.
+Nhưng nếu người ta làm việc thiện với động cơ ngầm là kiếm Thần Lực để mưu tính chuyện xấu xa, thường thì họ sẽ chẳng thu lại được gì. Có vô số câu chuyện chứng minh cho điều đó. Rốt cuộc thần linh vẫn là thần linh, rất có thể các ngài nhìn thấu được tâm ý của chúng ta. Có điều, nghe đồn ân phước từ tà thần chẳng thể phân biệt nổi với ân phước do thiện thần ban tặng, thành ra tính xác thực của những câu chuyện kia vẫn còn bỏ ngỏ. Cơ mà tôi chưa từng gặp ai được tà thần ban phước bao giờ nên cũng chẳng rõ. Lẽ tự nhiên là chẳng ai dại gì đi khoe khoang khắp nơi rằng mình được tà thần ban phước cả. Cùng lắm họ chỉ nói là mình có Thần Lực, mà Thần Lực thì bắt nguồn từ đâu cũng vẫn là Thần Lực. Người ta cứ tưởng tà thần sẽ ban cho thứ sức mạnh tà ác, dị biệt nào đó, nhưng lạ lùng thay lại chẳng phải vậy.
 
-"Có thể chú không dùng được Thần Lực, nhưng cháu nghĩ chú hoàn toàn dùng được các kỹ thuật dựa trên Ma Lực chứ," tôi nói với Capitan. Nói đúng hơn thì, một người đầy bản lĩnh như chú mà lại không dùng được Ma Lực nghe chừng cứ kỳ kỳ thế nào ấy.
+"Có thể chú không dùng được Thần Lực, nhưng cháu nghĩ chú hoàn toàn dùng được các kỹ thuật dựa trên Ma Lực chứ," tôi nói với Capitan. Nói đúng hơn thì, một người có bản lĩnh như chú ấy mà lại không dùng được chúng nghe cứ thấy không tự nhiên thế nào ấy.
 
-"Mấy cái trò phức tạp đó khi nào cần thì chú cứ khoán hết cho Gharb. Dân Hathara là hậu duệ của Vương Quốc Cổ Đại thật đấy, nhưng đâu phải ai cũng có Ma Lực. Nghe bảo mức bình quân của làng mình có nhỉnh hơn nơi khác chút đỉnh, song cũng chẳng đáng là bao. Lúc này cả làng có lượng Ma Lực ra hồn chỉ có cháu, Gharb với con bé đệ tử Fahri thôi. Chú chịu chẳng biết thế là nhiều hay ít, nhưng chú thấy làng nào mà chẳng thể tình cờ có ba mống dùng được Ma Lực."
+"Nếu mấy cái năng lực phức tạp đó cần dùng vào việc gì, chú cứ giao hết cho bà Gharb xử lý. Dân Hathara là hậu duệ của Vương Quốc Cổ Đại thật đấy, nhưng đâu có nghĩa là tất cả chúng ta đều có Ma Lực. Nghe bảo mức trung bình của làng mình có nhỉnh hơn phần lớn những nơi khác một chút, song chênh lệch đó chẳng đáng là bao. Lúc này những người trong làng có nhiều Ma Lực chỉ có cháu, bà Gharb với con bé đệ tử Fahri thôi. Chú chẳng biết thế là nhiều hay ít, nhưng chú thấy bất kỳ ngôi làng nào cũng có thể tình cờ có ba người sở hữu Ma Lực như vậy."
 
-Như tôi đây, ban đầu Ma Lực chỉ vừa đủ để làm trò vặt vãnh, tính ra dân làng sinh ra đã có sẵn nhiều Ma Lực chỉ có hai người. So với số dân trong làng thì ngỡ phải nhiều hơn, nhưng Ma Lực của đa số bà con chắc cũng chẳng hơn gì tôi ngày trước. Chỉ có Gharb với Fahri là dư dả Ma Lực, mà biết đâu thế lại là lẽ thường.
+Trong trường hợp của tôi, ban đầu Ma Lực của tôi chỉ vừa đủ để vận dụng chút ít, nên thực tế chỉ có hai người dân trong làng sinh ra đã có sẵn nhiều Ma Lực. So với quy mô dân số của làng thì ngỡ phải nhiều hơn thế, nhưng Ma Lực của phần lớn bà con khác có lẽ cũng chẳng khá hơn tôi ngày trước là bao. Chỉ có bà Gharb và Fahri là dư dả Ma Lực, mà biết đâu chuyện đó lại là bình thường.
 
-"Làng mình đúng là kỳ lạ thật, nhưng cháu đoán đâu phải cái gì cũng phải khác thường," tôi nói.
+"Làng mình đúng là kỳ lạ thật, nhưng cháu đoán không phải mọi thứ ở làng đều cứ phải kỳ lạ như thế," tôi nói.
 
-"Ý chú là, giờ chỉ còn ba người bọn chú là giữ lại mấy truyền thống xưa cũ đó. Nhưng thế cũng được; Hathara nhỏ bé quá, gánh sao nổi một bí mật to tát nhường ấy. Có khi quên béng đi lại nhẹ nợ."
+"Ý chú là, giờ chỉ còn ba người bọn chú là vẫn gánh vác mấy truyền thống xưa cũ đó. Nhưng thế cũng chẳng sao; Hathara quá nhỏ bé để gánh lấy một bí mật to lớn đến mức ấy. Có khi quên phắt nó đi lại tốt hơn cho chúng ta."
 
 "Cháu cũng nghĩ thế."
 
-Nắm rõ bí mật để phòng bất trắc âu cũng quan trọng, song lỡ có quốc gia nào thật sự nhúng tay can thiệp, Hathara bé tí teo này e rằng cũng chẳng làm gì nổi. Cùng lắm Gharb với Capitan chỉ đối phó được vài ba kẻ mạnh đơn lẻ. Chứ nếu một mạo hiểm giả Mithril Cấp kéo đến, đến cả một đội quân còn bó tay bất lực. Đối mặt với họ chẳng khác nào hứng chịu thảm họa thiên nhiên. Dẫu buông xuôi không kháng cự chưa hẳn là ý hay, nhưng tôi hiểu được vì sao mọi người lại nghĩ vậy.
+Nắm rõ bí mật để phòng khi có chuyện xảy ra xem chừng cũng quan trọng, nhưng lỡ có một quốc gia thực sự nhúng tay can thiệp vào cuộc sống của họ, Hathara nhỏ bé này có lẽ cũng chẳng làm gì nổi. Cùng lắm bà Gharb và Capitan chỉ đối phó được vài cá nhân tương đối mạnh. Chứ nếu một mạo hiểm giả Mithril Cấp xuất hiện, đến cả một đội quân còn phải bó tay bất lực. Đối mặt với họ chẳng khác nào đương đầu với một thảm họa thiên nhiên. Dẫu buông xuôi không phản kháng chưa hẳn là ý hay, nhưng tôi hiểu được vì sao mọi người lại nghĩ như vậy.
 
-"Mà thôi, chuyện đó bọn chú cũng quyết xong xuôi rồi. Giờ cái chúng ta cần bàn là Khí Lực kia kìa," Capitan nói.
+"Mà thôi, dù sao thì chuyện đó bọn chú cũng đã quyết định xong rồi. Lúc này cái chúng ta nên bàn tới là Khí Lực kia," Capitan nói.
 
-"Đúng rồi, thế chiêu đó là gì vậy chú?"
+"Đúng rồi, thế năng lực đó là gì vậy chú?"
 
-"Cháu thừa biết Khí Lực có đủ mọi công dụng rồi đấy. Mấy trò cơ bản là cường hóa thể lực, vũ khí với tốc độ hồi phục. Những cái đó tương đối dễ học, dễ dùng. Cơ mà chiêu thức chú xài trong trận đấu ban nãy thì khó hơn một bậc. Nếu hồi ấy cháu không rời làng, thế nào chú cũng tìm lúc dạy cho cháu, ngặt nỗi cháu còn mải theo đuổi ước mơ. Thời gian đâu mà học nữa."
+"Cháu thừa biết Khí Lực có đủ mọi công dụng rồi đấy. Những cái căn bản là cường hóa sức mạnh thể chất, vũ khí và tốc độ hồi phục. Mấy thứ đó tương đối đơn giản để học và sử dụng. Cơ mà chiêu thức chú dùng trong trận đấu vừa rồi thì khó hơn một chút. Nếu hồi đó cháu không rời làng, thế nào chú cũng tìm lúc dạy cho cháu, ngặt nỗi cháu còn có ước mơ cần theo đuổi. Lúc ấy làm gì có thời gian cho việc đó."
 
-Năm tròn mười lăm tuổi, vừa đủ tuổi đăng ký làm mạo hiểm giả ở Hội, tôi đã khăn gói lên Maalt. Hồi đó tôi chẳng đủ kiên nhẫn để chôn chân ở Hathara thêm nữa. Tuổi trẻ bồng bột mà. Dù nói thật thì ở vài khía cạnh, tôi cũng chẳng chín chắn hơn xưa là bao. Nếu ngày ấy không đủ thời giờ để dạy, chẳng rõ bây giờ tôi có học nổi không. Tôi định ở lại Hathara một dạo, nhưng không tính ở hàng tuần lễ, lại càng không phải vài tháng hay vài năm trời. Đành rằng giờ tôi là Undead, có thừa mứa thời gian trên đời, nhưng cái tôi muốn là được rong ruổi phiêu lưu kia. Lúc này tôi về Hathara chỉ cốt để lánh mặt Nive mà thôi.
+Năm tròn mười lăm tuổi, vừa đủ tuổi đăng ký làm mạo hiểm giả ở Hội, tôi đã khăn gói lên Maalt. Hồi đó tôi chẳng đủ kiên nhẫn để ở lại Hathara thêm nữa. Suy cho cùng thì khi ấy tôi vẫn còn trẻ mà. Dù nói thật thì ở vài khía cạnh, tôi cũng chẳng trưởng thành hơn xưa là bao. Nếu ngày ấy không đủ thời gian để dạy, chẳng rõ bây giờ tôi có học được không. Tôi từng dự định ở lại Hathara một thời gian, nhưng không phải hàng tuần lễ, lại càng không phải hàng tháng hay hàng năm trời. Đành rằng giờ tôi là Undead và có thừa mứa thời gian trên đời, nhưng tôi thực sự muốn được dấn thân vào những chuyến phiêu lưu kia. Lúc này tôi về Hathara chỉ cốt để lánh mặt Nive mà thôi.
 
-"Học cái này mất bao lâu vậy chú?" tôi hỏi. "Chú chịu dạy thì cháu quý lắm, nhưng cháu không nán lại Hathara lâu thế được đâu."
+"Việc này sẽ mất bao lâu vậy chú?" tôi hỏi. "Cháu rất cảm kích vì chú sẵn lòng chỉ dạy, nhưng cháu không thể ở lại Hathara lâu đến thế được đâu."
 
-"Còn tùy xem cháu tiếp thu thế nào."
+"Còn tùy xem cháu làm tốt đến đâu."
 
 "Ý chú là sao?"
 
-"Xem cháu vận dụng Khí Lực thuần thục tới đâu thôi. Cơ mà chú nghĩ khoản này không thành vấn đề. Hồi mới chập chững làm mạo hiểm giả mười năm trước, có khi cháu phải luyện đôi ba năm, chứ bây giờ cháu hoàn toàn có thể nắm được chiêu này trong vài tuần, thậm chí chỉ vài ngày không chừng. Bao năm khổ luyện của cháu không uổng phí đâu."
+"Chỉ là vấn đề xem cháu thuần thục Khí Lực tới mức nào thôi. Cơ mà chú không nghĩ đó là vấn đề đâu. Hồi cháu mới làm mạo hiểm giả mười năm trước, có lẽ cháu sẽ phải tập luyện mất đôi ba năm, chứ giờ đây cháu hoàn toàn có thể nắm được kỹ năng này trong vài tuần, nếu không muốn nói là chỉ vài ngày. Bao công sức khổ luyện của cháu đã được đền đáp xứng đáng rồi."
 
-Tôi cứ ngỡ mười năm qua mình chẳng tiến bộ được chút nào, ai ngờ bản thân lại tiến xa hơn tôi tưởng. Tôi bọc Khí Lực vào vũ khí nhanh hơn một tí, duy trì cường hóa sức mạnh lâu hơn một tẹo, vết thương cũng hồi phục hiệu quả hơn đôi phần, quả thật là có thế. Chưa bao giờ tôi thấy dung lượng Khí Lực của mình tăng lên so với ban đầu, nhưng tôi tin mình đã tận dụng những gì sẵn có một cách triệt để nhất có thể.
+Tôi cứ ngỡ suốt mười năm qua mình chẳng tiến bộ được chút nào, ai ngờ bản thân lại trưởng thành nhiều hơn mình tưởng. Tôi truyền Khí Lực vào vũ khí nhanh hơn một chút, duy trì cường hóa sức mạnh lâu hơn một chút, và hồi phục hiệu quả hơn đôi phần, quả thực là có những điều đó. Chưa bao giờ tôi cảm thấy lượng Khí Lực của mình tăng thêm so với ban đầu, nhưng tôi tin mình đã vận dụng những gì sẵn có một cách khéo léo nhất có thể.
 
-"Nhiều lúc cháu ngỡ như bế tắc hoàn toàn, nhưng xem ra công sức bỏ ra chẳng hề vô nghĩa," tôi lẩm bẩm.
+"Có những lúc cháu từng nghĩ mọi chuyện thật vô vọng, nhưng xem ra tất cả đều có ý nghĩa của nó," tôi lẩm bẩm.
 
-"Khí Lực đâu có giống Ma Lực với Thần Lực. Nó không phụ thuộc vào thiên phú bẩm sinh nhiều bằng sự khổ luyện. Cứ kiên trì thì kiểu gì cũng có kết quả. Như cháu thì trước giờ dung lượng Khí Lực hầu như chẳng tăng, nên khó nhận ra mình tiến bộ cũng phải. Nhưng giờ khác rồi. Dung lượng Khí Lực của cháu đã tăng vọt, tha hồ mà thi triển cho đã đi."
+"Chà, Khí Lực không giống như Ma Lực với Thần Lực. Nó không phụ thuộc vào thiên phú bẩm sinh nhiều bằng sự khổ luyện. Cứ kiên trì theo đuổi thì kiểu gì cũng có kết quả. Trong trường hợp của cháu, tổng dung lượng Khí Lực trước đây hầu như chẳng tăng lên, nên có lẽ khó mà cảm nhận được sự trưởng thành của mình. Nhưng giờ thì khác rồi. Dung lượng Khí Lực của cháu đã tăng lên rất nhiều, nên cháu hoàn toàn có thể làm được khối chuyện với nó đấy."
