@@ -2,174 +2,174 @@
 
 "...Á!"
 
-Tình cờ va phải tôi trong lúc tiếp tục tìm kiếm, cô nàng mạo hiểm giả Rina vô tình thốt lên một tiếng hét kinh ngạc. Dẫu người ta thường chẳng mong đợi phản ứng là một tiếng hét khi gặp lại người quen, nhưng tôi cho rằng chuyện đó cũng đành chịu thôi trước diện mạo này của mình.
+Mải tìm kiếm rồi vô tình đụng phải tôi, cô mạo hiểm giả Rina giật bắn mình thốt lên một tiếng thét. Bình thường gặp lại người quen chẳng ai lại phản ứng bằng một tiếng la hét như thế, nhưng với cái bộ dạng này của tôi thì cũng đành chịu thôi.
 
-Rina, dường như vẫn còn khiếp đảm, cất lời bằng một giọng nói hãy còn run rẩy.
+Dường như vẫn chưa hết khiếp đảm, Rina cất giọng run rẩy hỏi:
 
-"Ưm... Ờ... A-anh Rentt...? Là anh sao...? Hay là, ừm, anh là một người bạn Ngạ Quỷ khác của anh ấy...?" Rina vừa gặng hỏi, vừa thủ sẵn thanh kiếm trong tay.
+"Ưm... Ờ... A-anh Rentt đấy à...? Đúng là anh không...? Hay là... ừm, anh là bạn Ngạ Quỷ khác của anh ấy...?" Rina rụt rè hỏi, tay vẫn lăm lăm thanh kiếm thủ thế.
 
-Tôi chẳng thể nào trách cô ấy được. Dù sao thì, phân biệt lũ Ngạ Quỷ với nhau gần như là điều bất khả. Thân thể cùng lớp thịt khô khốc của chúng nhìn chung đều có màu sắc tương tự, điều đó chắc chắn chẳng giúp ích gì cho việc nhận diện. Ít nhất thì tôi cũng được trang bị vũ khí và áo giáp. Dù những con Ngạ Quỷ cấp cao hơn cũng mang vẻ ngoài tương tự tôi, có đủ cả vũ khí lẫn trang bị, nhưng một tân binh như Rina hẳn là chưa biết đến điều đó.
+Tôi chẳng thể nào trách cô ấy được. Dù sao thì phân biệt lũ Ngạ Quỷ với nhau gần như là điều không thể. Thân thể cùng lớp thịt khô quắt của con nào con nấy đều mang màu sắc sàn sàn như nhau, thành ra càng khó nhận diện. Ít nhất trên người tôi còn có vũ khí và giáp trụ. Dù lũ Ngạ Quỷ cấp cao hơn trông cũng giống tôi, cũng mang đủ cả vũ khí lẫn trang bị, nhưng một tân binh như Rina hẳn chưa biết tới điều đó.
 
-Vì thế, tôi bình tĩnh đáp lại câu hỏi của Rina:
+Thế nên tôi bình tĩnh trả lời:
 
-"...Đ... Đúng vậy. Tôi... đây. Ren... Rentt."
+"...Đ... đúng vậy. Tôi... đây. Ren... Rentt."
 
-Dù còn khô khốc, giọng nói của tôi đã mạch lạc hơn—tôi đã không ngừng luyện tập kể từ lần chạm trán trước với Rina. Giờ đây giọng tôi đã rõ ràng và dễ hiểu hơn—ít nhất tôi cảm thấy là vậy. Nhưng tôi cũng chẳng dám chắc; dù sao thì vì không có đối tượng trò chuyện nên tôi chỉ toàn tự nói một mình, thành thử cảm nhận của tôi cũng chỉ dừng lại ở mức đó.
+Dù vẫn khô khốc nhưng giọng tôi đã mạch lạc hơn hẳn, bởi từ lần gặp Rina trước đến giờ tôi không ngừng tập nói. Tiếng phát ra giờ đã rõ ràng, dễ nghe hơn, ít nhất là tôi tự cảm thấy thế. Cơ mà tôi cũng chẳng dám chắc, vì không có ai trò chuyện cùng nên tôi toàn tự nói một mình, thành ra cũng chỉ là cảm nhận chủ quan mà thôi.
 
-Tuy vậy, Rina dường như đã thở phào nhẹ nhõm.
+Thấy thế, Rina dường như đã thở phào nhẹ nhõm.
 
-"A... May quá! Tôi cứ băn khoăn không biết phải làm sao nếu đó không phải là anh... Hửm? Cách nói chuyện của anh dường như đã khá hơn một chút rồi..."
+"A... May quá! Tôi cứ lo mãi không biết phải tính sao nếu không phải là anh... Hửm? Giọng anh nghe như rõ hơn một chút rồi thì phải..."
 
-Có vẻ như rốt cuộc tôi không chỉ đơn thuần tưởng tượng ra.
+Hóa ra không phải tôi tự tưởng tượng.
 
-"Tôi... l-luyện. Luyện tập. Để... có thể. Nói chuyện... nhiều hơn."
+"Tôi... t-tập. Đã tập. Để... có thể. Nói được... nhiều hơn."
 
-"Ồ, ra vậy sao? Thế thì tốt quá rồi! Vậy thì việc vào thị trấn sẽ không thành vấn đề nữa... Ôi! Phải rồi—của anh đây, những thứ anh nhờ tôi mua! Và đây là tiền thừa của anh!"
+"Ồ, vậy ạ? Thế thì tốt quá! Như vậy vào thị trấn sẽ không lo có chuyện gì nữa... Á, phải rồi! Của anh đây, đồ anh nhờ tôi mua! Còn đây là tiền thừa của anh nữa!"
 
-Nói đoạn, Rina chìa ra một chiếc túi. Khi nhìn kỹ hơn, bên trong dường như là một bọc đồ đạc, bao gồm cả chiếc áo choàng mà tôi đã nhờ cô mua giúp.
+Nói đoạn, Rina chìa ra một chiếc túi. Nhìn kỹ thì bên trong là cả một bọc đồ, trong đó có chiếc áo choàng tôi nhờ cô mua giúp.
 
-Trong lòng có chút phấn khởi, tôi háo hức tiến về phía Rina. Thế nhưng, cô lại vô thức lùi lại, nét mặt lộ rõ vẻ e dè sợ sệt.
+Hơi phấn khởi, tôi háo hức bước tới gần Rina. Thế nhưng cô lại vô thức lùi lại, mặt lộ rõ vẻ e dè sợ sệt.
 
-Cú sốc khiến tôi khựng người chết trân tại chỗ. Rina vội vã đưa ra lời giải thích.
+Bị hẫng một nhịp, tôi khựng người chết trân tại chỗ. Thấy vậy, Rina vội vàng giải thích.
 
-"Tôi... Tôi xin lỗi. Ừm. Trông anh vẫn còn hơi đáng sợ một chút... Anh có thể cho tôi một chút thời gian để l-làm quen với anh được không...?"
+"Tôi... Tôi xin lỗi. Ừm, trông anh vẫn còn hơi đáng sợ một chút... Anh cho tôi thêm chút thời gian để q-quen dần được không...?"
 
-Đúng như lời Rina nói. Tôi cho rằng thực tế vốn dĩ là như vậy. Tôi chẳng thể làm gì nhiều với diện mạo của mình—nếu có thì tôi còn phải biết ơn vì Rina đã sẵn lòng giao tiếp với tôi, bất kể việc ngay từ đầu trông tôi đã chẳng khác gì một con quái vật.
+Rina nói chẳng sai chút nào. Thực tế vốn là thế mà. Diện mạo đã thành ra nông nỗi này thì tôi cũng chịu, nói đúng hơn là tôi còn phải cảm ơn vì cô ấy chịu mở lời với tôi, dẫu ngay từ đầu trông tôi đã chẳng khác nào một con quái vật.
 
-Tôi cất lời đáp lại:
+Tôi đáp lời:
 
-"...K... Không. Tôi không... để tâm... chút nào đâu. Quan trọng hơn... tôi có thể xem... chiếc túi được không?"
+"...K... không. Tôi không... để tâm... chút nào đâu. Quan trọng hơn... tôi có thể xem... chiếc túi được không?"
 
-Lời đáp của Rina, ít nhất, đã vui vẻ hơn đôi chút so với trước.
+Nghe vậy, giọng Rina đã vui vẻ hơn lúc nãy đôi chút.
 
-"Vâng! Anh cứ xem đi! Ngoài chiếc áo choàng anh muốn, tôi còn mua thêm vài thứ khác nữa; anh xem qua thử xem!"
+"Vâng! Anh cứ xem tự nhiên đi! Ngoài chiếc áo choàng anh dặn, tôi còn mua thêm vài thứ nữa, anh xem thử xem!"
 
-Được sự đồng ý của cô, tôi chậm rãi bước lại gần chiếc túi, ngó nhìn những thứ bên trong.
+Được cô đồng ý, tôi chậm rãi bước lại gần chiếc túi, ngó nhìn những thứ bên trong.
 
 ◆◇◆◇◆
 
-Sau khi xác nhận những thứ bên trong, tôi thò tay vào túi nắm lấy chiếc áo choàng, kéo bộ trang phục ra và chăm chú quan sát. Nó tương đối rộng rãi và thùng thình, lại còn mang một màu đen tuyền. Nó cũng có mũ trùm đầu, điều mà tôi thấy đặc biệt tiện lợi cho nhu cầu của mình. Những chiếc áo choàng kiểu này phần lớn đều do các pháp sư và những người tương tự mặc, và khi còn sống tôi chưa từng nghĩ mình sẽ khoác lên người một chiếc như vậy.
+Xác nhận sơ qua đồ đạc bên trong, tôi thò tay vào túi túm lấy chiếc áo choàng rồi lôi ra ngắm nghía thật kỹ. Áo khá rộng và thụng, lại có màu đen tuyền. Trên áo còn có cả mũ trùm đầu, thứ mà tôi thấy vô cùng tiện lợi cho hoàn cảnh của mình. Kiểu áo choàng này thường chỉ có đám pháp sư hay mấy kẻ tương tự mới mặc, thời còn sống chẳng bao giờ tôi nghĩ có ngày mình lại khoác lên người một chiếc như thế.
 
-Nếu có gì thì nó còn là một sự vướng víu đối với các kiếm sĩ. Tuy nhiên, với tôi vào lúc này, khả năng giấu mình sâu bên trong lớp áo quả là một món quà trời ban, bởi chiếc áo choàng bao bọc gọn gàng từ đầu đến chân tôi; nó thậm chí còn có ống tay dài để che đi đôi cánh tay. Nhờ thế, việc trả tiền mua đồ tại các cửa tiệm sẽ dễ dàng như trở bàn tay.
+Nói đúng hơn, với cánh kiếm sĩ thì thứ này chỉ tổ vướng víu. Nhưng trong tình cảnh hiện tại của tôi, việc có thể giấu kín toàn thân dưới lớp vải rộng thùng thình quả là ơn trời phù hộ, bởi chiếc áo choàng trùm kín từ đầu đến chân, tay áo lại còn dài đủ che hết hai cánh tay. Có nó rồi thì việc thanh toán tiền ở các cửa tiệm sẽ dễ như trở bàn tay.
 
-Tôi thầm tán thưởng khiếu thẩm mỹ của Rina—cô ấy đã hiểu chính xác những gì tôi mong muốn dẫu lời dặn dò của tôi hết sức ngắn gọn. Dẫu nói là vậy, việc vỗ tay tán thưởng là bất khả đối với đôi bàn tay khô khốc của tôi.
+Tôi thầm khen ngợi mắt chọn đồ của Rina. Dù tôi dặn dò hết sức vắn tắt nhưng cô ấy lại nắm bắt chính xác thứ tôi cần. Nói là tán thưởng vậy thôi, chứ đôi bàn tay khô quắt này của tôi thì làm sao mà vỗ tay khen ngợi cho được.
 
-Gác lại suy nghĩ đó, tôi quyết định mặc thử bộ trang phục. Hai cánh tay tôi trượt gọn ghẽ vào ống tay áo choàng, và chất liệu vải khi chạm vào cho cảm giác khá dễ chịu. Việc vẫn giữ được xúc giác ấy khi ở trong một cơ thể chỉ toàn da thịt khô khốc là điều có phần đáng kinh ngạc; chưa kể đến khả năng cử động thoăn thoắt mới có được này của tôi. Dẫu vậy, khi bình tâm ngẫm lại, tôi vẫn là một con quái vật—chắc chắn đó chính là lý do cho những điểm dị thường này.
+Gác lại suy nghĩ đó, tôi quyết định mặc thử chiếc áo. Hai cánh tay tôi trượt gọn ghẽ vào ống tay áo choàng, chất vải khi chạm vào cho cảm giác khá dễ chịu. Việc vẫn giữ được xúc giác ấy khi ở trong một cơ thể chỉ toàn da thịt khô khốc quả là điều đáng kinh ngạc, chưa kể giờ tôi còn cử động thoăn thoắt hơn trước rất nhiều. Cơ mà bình tâm nghĩ lại thì giờ tôi đã là quái vật rồi, chắc chính điều đó tạo nên những điểm dị thường này chăng.
 
-Bên cạnh sự thoải mái, người ta cũng phải cân nhắc xem liệu một món trang bị có gây trở ngại gì cho cử động khi chiến đấu hay không. Nhanh chóng kéo mũ trùm đầu của áo choàng lên, tôi quyết định kiểm tra thử, và cảm thấy bất ngờ một cách dễ chịu trước kết quả. Dẫu tầm nhìn của tôi bị chiếc mũ hạn chế đôi chút, tôi vẫn nhìn thẳng về phía trước mà không gặp vấn đề gì; tôi thậm chí còn có thể ngó nghiêng xung quanh một cách an toàn ở một chừng mực nào đó. Dù vậy, nếu bị bao vây, tôi sẽ chẳng còn lựa chọn nào khác ngoài việc kéo mũ xuống—nhưng điều đó sẽ không cần thiết nếu tôi chỉ giao chiến với một hoặc hai con quái vật.
+Ngoài chuyện thoải mái, người làm mạo hiểm giả còn phải để ý xem trang bị có cản trở cử động khi chiến đấu hay không. Tôi nhanh tay kéo mũ trùm lên để kiểm tra thử, và kết quả khiến tôi khá hài lòng. Dù tầm nhìn có bị chiếc mũ che khuất đôi chút, tôi vẫn nhìn thẳng về phía trước tốt chán, thậm chí còn ngó nghiêng xung quanh được ở mức độ an toàn nhất định. Tất nhiên nếu bị bao vây thì buộc phải kéo mũ xuống, nhưng nếu chỉ đụng độ một hai con quái vật thì chẳng việc gì phải lo.
 
-"...Thế nào rồi? Anh có ưng ý không?"
+"...Thế nào rồi ạ? Anh có ưng không?"
 
 "...Ồ-ồ. Cô... làm. Tôi giật mình đấy."
 
-Rina rõ ràng đã thấy ổn khi bước lại gần tôi trong lúc tôi đội thử chiếc mũ trùm. Giờ đây cô đứng gần tôi hơn bao giờ hết, bất kể thực tế là chỉ vài phút trước thôi, cô còn lộ rõ vẻ khiếp sợ trước tôi.
+Thì ra trong lúc tôi mải thử chiếc mũ trùm, Rina đã chủ động bước lại gần. Giờ cô đứng gần tôi hơn bao giờ hết, dù mới chỉ vài phút trước thôi cô còn sợ tôi đến phát khiếp.
 
-Dù cô vẫn đang cầm thanh kiếm, nhưng đầu mũi kiếm—phần gây sát thương—đã không còn chĩa về phía tôi nữa.
+Dù tay vẫn cầm kiếm, nhưng mũi kiếm sắc bén đã không còn chĩa về phía tôi nữa.
 
-Cô ấy đã quen với mình rồi sao?
+Mới đó mà cô ấy đã quen với mình rồi sao?
 
-Tôi tự hỏi liệu cô có thói quen nhanh chóng cảm thấy thoải mái với những điều mới lạ một cách đột ngột như vậy hay không.
+Chẳng lẽ cô bé này có cái tính hễ gặp chuyện lạ lẫm là lại mau chóng thích nghi đến thế sao?
 
-"...Qu... Quần áo. Vừa vặn lắm. Qu... Quan trọng hơn. Cô... không sợ sao? Sợ... tôi ấy?"
+"...Đ... đồ. Vừa vặn lắm. Qu... quan trọng hơn. Cô... không sợ sao? Sợ... tôi ấy?"
 
-"Không, chẳng sợ chút nào đâu! Ý tôi là, anh đã che giấu hầu hết các phần phi nhân loại của mình rồi, nên là... Đứng ở khoảng cách này cũng không quá khó khăn đối với tôi," Rina nói, cách tôi chừng ba bước chân.
+"Không, chẳng sợ chút nào đâu ạ! Ý tôi là, hầu hết những chỗ không giống người trên mình anh đều được che kín rồi, nên... tôi đứng ở khoảng cách này cũng đỡ sợ hơn nhiều," Rina nói, cô đứng cách tôi chừng ba bước chân.
 
-—Gần hơn tầm với của lưỡi kiếm một chút, nếu tôi phải miêu tả cặn kẽ.
+—Nói cho chính xác thì cự ly đó còn ngắn hơn cả tầm với của lưỡi kiếm.
 
-Dường như cô đang đứng ở một khoảng cách đủ rõ ràng để phản ứng thích hợp nếu có bất trắc xảy ra. Trái ngược với ấn tượng ban đầu của tôi về cô, có vẻ Rina tương đối cẩn trọng. Dẫu vậy, tôi vẫn xem đây là một sự tiến triển vượt bậc—ít nhất đó là những gì tôi nghĩ khi tiếp tục quan sát các cử động của Rina.
+Xem ra cô chọn cự ly vừa đủ an toàn để kịp trở tay nếu có biến. Trái với ấn tượng ban đầu của tôi, Rina hóa ra cũng khá thận trọng đấy chứ. Dù vậy, với tôi thì thế này đã là một bước tiến vượt bậc rồi—ít nhất tôi vừa thầm nghĩ như vậy vừa kín đáo quan sát từng cử chỉ của cô.
 
-Dẫu người ta có thể bảo rằng cả chuỗi biến cố này, khởi đầu từ việc tôi bị Rồng ăn thịt rồi tái sinh thành Khô Lâu Undead, là điều có phần bất hạnh, thì việc gặp được Rina có lẽ là điều may mắn nhất từng xảy đến với tôi cho đến tận lúc này.
+Dù chuỗi biến cố khởi đầu từ việc bị Rồng nuốt chửng rồi đội mồ sống dậy thành một con Khô Lâu Undead có thể coi là xui xẻo tột cùng, nhưng gặp được Rina có lẽ là điều may mắn nhất đến với tôi từ trước tới giờ.
 
-Dù đúng là tôi đã cứu mạng cô, nhưng bình thường sẽ chẳng có con người nào có thể điềm nhiên nói chuyện với quái vật. Và ngay cả khi tôi chẳng rõ tương lai sẽ ra sao, thì việc Rina tiếp tục hợp tác với tôi là điều khiến tôi vô cùng cảm kích.
+Đành rằng tôi đã cứu mạng cô ấy thật, nhưng bình thường làm gì có ai đủ can đảm để điềm nhiên trò chuyện với một con quái vật. Dù chưa biết tương lai phía trước sẽ ra sao, tôi vẫn vô cùng biết ơn Rina vì cô vẫn tiếp tục giúp đỡ mình.
 
-"Ồ, phải rồi... Suýt quên. Tôi còn mua thêm vài thứ khác nữa... Này, anh xem này? Giày, và găng tay, thậm chí cả một chiếc thắt lưng. Sẽ thật tệ nếu anh bị nhìn thấy ngoài đường với đôi bàn tay và bàn chân như thế kia, đúng không nào?"
+"À phải rồi... Suýt nữa thì quên! Tôi còn mua thêm vài thứ nữa... Đây, anh xem này! Giày dép, găng tay, có cả thắt lưng nữa. Chứ để lộ tay chân như thế kia ra ngoài phố thì gay to, đúng không?"
 
-Vừa nói, Rina vừa thò tay vào túi, lôi những món đồ kể trên ra rồi nhẹ nhàng đặt chúng xuống sàn mê cung.
+Vừa nói, Rina vừa thò tay vào túi lôi mấy món đó ra rồi nhẹ nhàng đặt xuống nền mê cung.
 
-Cả giày lẫn găng tay đều được làm bằng da chất lượng tốt; tuy nhiên xét về màu sắc, cả hai món đồ đều có màu trầm, có lẽ được chọn để chúng không quá nổi bật.
+Cả giày lẫn găng tay đều làm từ da loại tốt. Về màu sắc, cả hai đều mang tông màu trầm tối, hẳn là được chọn để tránh gây sự chú ý.
 
-Tôi cảm thấy vô cùng hài lòng trước điều này. Ngay từ đầu, tôi chẳng hề nhờ Rina mua những thứ ấy—trong tình cảnh của mình, tôi chỉ nghĩ được đến việc nhờ mua một chiếc áo choàng. Vậy mà Rina đã tinh ý hiểu thấu tâm tư đến không ngờ, suy tính cặn kẽ về những món đồ tôi sẽ cần để trở về Maalt an toàn. Tôi không khỏi tự hỏi liệu có một thế giới nào khác ngoài kia nơi các thiếu nữ lựa chọn trang phục phù hợp cho quái vật hay không.
+Thế này thì còn gì bằng. Vốn dĩ tôi đâu có dặn Rina mua mấy thứ này, lúc ấy rơi vào cảnh ngặt nghèo nên tôi chỉ nghĩ được tới chuyện nhờ mua một chiếc áo choàng. Ấy thế mà cô bé lại tinh ý đến không ngờ, tự suy tính cặn kẽ xem tôi cần những gì để trở về Maalt an toàn. Chẳng biết trên đời này có nơi nào khác lại có cảnh một thiếu nữ tận tình đi chọn quần áo cho quái vật thế này không nữa.
 
-Gặp được người đầu tiên đối xử tử tế với mình kể từ khi biến thành quái vật, tôi có cảm giác như mình có thể bật khóc—nhưng than ôi, điều đó là bất khả với cơ thể này.
+Kể từ lúc biến thành quái vật, đây là người đầu tiên đối xử tốt với tôi như vậy, xúc động đến mức tôi chỉ chực bật khóc—ngặt nỗi với cái thân xác này, muốn khóc cũng chẳng thể nào rơi nổi một giọt nước mắt.
 
-Dù sao đi nữa, tôi quyết định mang cả giày lẫn găng tay vào. Do bản chất của lớp da thịt khô khốc, tôi không dám chắc liệu hai món đồ này có phát huy tác dụng gì với mình hay không, nhưng trước mắt thì tôi bằng lòng với việc ít nhất cũng đeo chúng lên người.
+Dù sao thì tôi cũng quyết định xỏ cả giày lẫn găng tay vào. Với cái thân thể khô quắt này, tôi không dám chắc hai thứ đó có thực sự giúp ích gì không, nhưng trước mắt thì cứ mặc vào người cho kín cái đã.
 
-Nghĩ vậy, tôi xỏ chân vào giày, đồng thời dùng bàn tay rảnh rỗi chỉnh lại đôi găng tay rộng thùng thình một cách kỳ lạ. Thật khó để cầm vũ khí qua lớp găng tay này, và dẫu những hệ lụy đi kèm đáng để bận tâm, tôi vẫn chấp nhận điều đó như một sự đánh đổi cần thiết để có thể trở về Maalt.
+Nghĩ vậy, tôi xỏ chân vào giày, đoạn đưa tay còn lại lên nắn chỉnh đôi găng tay rộng thùng thình một cách kỳ lạ. Đeo găng này vào thì cầm nắm vũ khí sẽ khá ngượng tay, dẫu đáng lo thật đấy nhưng tôi đành chấp nhận xem như một sự đánh đổi cần thiết để có thể trở về Maalt.
 
-"Oa... Khí thế trông đáng sợ ghê. Anh trông giống như... người ta gọi cái giống đó là gì ấy nhỉ? Wight...? Phải rồi, anh trông hệt như một con Wight! À phải rồi, tôi còn mang theo một chiếc gương nữa này. Thế này thì sao?"
+"Oa... Nhìn toát ra khí thế đáng sợ ghê cơ. Trông anh cứ như... người ta gọi cái giống đó là gì ấy nhỉ? Wight...? Đúng rồi, trông anh hệt như một con Wight ấy! À phải rồi, tôi còn mang theo cả một chiếc gương nữa này. Anh xem thử đi?"
 
-Mỗi lúc lại càng giống một chủ tiệm buôn bán hơn, Rina trút lên tôi cơn mưa lời khen... nếu việc bị gọi là một con Wight có thể xem là một lời khen ngợi. Lôi một chiếc gương từ cái túi dường như không đáy ra, Rina lại một lần nữa đặt nó xuống đất.
+Mỗi lúc một giống cô chủ tiệm buôn bán, Rina không tiếc lời khen ngợi tôi... nếu bị ví như một con Wight mà cũng tính là khen. Rút một chiếc gương từ trong cái túi ngỡ như không đáy ra, cô lại đặt nó xuống nền đất.
 
-Dẫu việc Rina từ chối trao tận tay chiếc gương cho tôi có hơi chạnh lòng một chút, tôi cho rằng chuyện đó cũng chẳng có gì phải bàn cãi.
+Dù thấy Rina không dám trao tận tay chiếc gương mà phải đặt xuống đất có khiến tôi hơi chạnh lòng một tí, nhưng ngẫm lại thì chuyện đó cũng chẳng có gì đáng để trách cứ.
 
-Chỉ riêng sự chu đáo của Rina khi mang cho tôi chiếc gương đã chắc chắn là một nghĩa cử hữu ích. Dù sao thì, tôi đã không thể nhìn thấy diện mạo của mình kể từ khi biến thành Khô Lâu, và câu hỏi ấy cứ lởn vởn trong đầu tôi suốt bấy lâu nay. Dĩ nhiên, tôi chẳng trông đợi mình sẽ có diện mạo như trước kia—tôi từng sở hữu một khuôn mặt có phần trẻ trung dường như chẳng hề đổi thay trong suốt từ năm 15 đến 25 tuổi. Chỉ nói rõ thêm là, khi còn sống ngoại hình của tôi chẳng hề tuấn tú hay hút hồn chút nào.
+Chỉ riêng việc Rina chu đáo mang gương tới cho tôi đã là một sự giúp đỡ lớn rồi. Dù sao thì từ khi biến thành Khô Lâu đến giờ tôi đâu có cách nào nhìn thấy mặt mũi mình, và thắc mắc đó cứ lởn vởn trong đầu tôi suốt bấy lâu. Lẽ dĩ nhiên là tôi chẳng dám mong mình sẽ giống như ngày xưa—hồi đó tôi có khuôn mặt trông khá non, từ năm mười lăm đến năm hai mươi lăm tuổi dường như chẳng đổi khác là bao. Nói trước cho rõ là lúc còn sống diện mạo của tôi cũng chẳng đẹp đẽ hay hút hồn gì cho cam.
 
-Nếu có gì thì một khuôn mặt đáng sợ cũng chẳng phải điều gì quá tồi tệ. Sở hữu một vẻ mặt đe dọa người khác cũng tốt; ít nhất thì đối với một mạo hiểm giả là vậy.
+Nói đúng hơn, mặt mũi có đáng sợ một chút cũng chẳng phải chuyện gì tệ. Mang vẻ ngoài dữ dằn dọa người cũng hay chứ sao, ít nhất là với một mạo hiểm giả.
 
-Với những suy nghĩ đó trong đầu, tôi nhặt chiếc gương lên, bề mặt của nó dường như là một loại kim loại được đánh bóng. Nhìn chăm chú vào đó, tôi hoàn toàn chưa chuẩn bị tâm lý cho những gì mình sắp thấy.
+Nghĩ vậy, tôi nhặt chiếc gương lên; mặt gương dường như làm từ một miếng kim loại mài nhẵn bóng. Nhưng khi chăm chú nhìn vào, tôi hoàn toàn chẳng ngờ tới những gì đập vào mắt mình.
 
-"...Đ... Đây... là..."
+"...Đ... đây... là..."
 
-Nói vậy không có nghĩa là tôi chưa lường trước chuyện này, về việc sẽ nhìn thấy khuôn mặt khô khốc của một xác chết. Nó cũng đã chết hẳn rồi, với hốc mắt lún sâu vào trong hộp sọ. Trên thực tế, một bên nhãn cầu của tôi đã biến mất—đó là một điều tôi không lường trước được. Dù việc tại sao tôi vẫn có thể nhìn bằng cả hai mắt là một bí ẩn, nhưng đó không phải là vấn đề tôi đang nhìn thấy phản chiếu trong gương—
+Không phải là tôi chưa lường trước việc sẽ nhìn thấy khuôn mặt khô khốc của một cái xác. Trông nó chết chóc đến tột cùng, hai hốc mắt hõm sâu hoắm vào tận trong sọ. Thậm chí một bên nhãn cầu của tôi còn biến đâu mất tiêu—đây mới là điều tôi không lường trước được. Dù chẳng hiểu sao mất một mắt mà tôi vẫn nhìn được bình thường, nhưng đó chưa phải là điều khiến tôi bàng hoàng nhất lúc này—
 
-Dù nhìn nhận thế nào đi chăng nữa, đây đích thực là khuôn mặt của một xác chết.
+Dù nhìn kiểu gì đi nữa thì đây rõ ràng là khuôn mặt của một cái xác chết.
 
-Tuy nhiên, điều duy nhất thực sự nổi bật là một chuỗi hình xăm phát sáng phức tạp trên mặt tôi, đang nhấp nháy trong một sắc xanh lam dịu nhẹ. Dù trông chúng thực sự khá đẹp mắt, những hình xăm ấy cũng tỏa ra một luồng khí tức bí ẩn, gần như không thể hiểu thấu. Tôi suy đoán rằng những hình xăm này có liên quan gì đó đến việc tôi biến thành một sinh vật thuộc về cõi xác sống.
+Thế nhưng thứ đập ngay vào mắt tôi lại là một chuỗi hoa văn kỳ lạ phát sáng chằng chịt khắp mặt, đang lập lòe ánh lam nhạt dịu mắt. Dù nhìn qua trông cũng khá đẹp, nhưng đống hoa văn ấy lại toát ra một luồng khí tức bí ẩn khôn lường. Tôi đoán chừng chúng có liên quan gì đó tới việc mình đã biến thành quái vật Undead.
 
-Thế nhưng gạt tất cả những điều đó sang một bên, không thể phủ nhận rằng tình hình lúc này hết sức cam go, và những nỗ lực cải trang của tôi gần như đã đổ sông đổ bể bởi những hình xăm phát sáng này. Nếu có gì thì chúng lại khiến tôi nổi bần bật chẳng khác nào gai nhọn chọc vào mắt.
+Cơ mà gác chuyện đó sang một bên, tình hình lúc này quả thực vô cùng nguy ngập, và bao nhiêu tính toán cải trang của tôi coi như đổ sông đổ bể vì mớ hoa văn phát sáng này. Nói đúng hơn, chúng chỉ khiến tôi nổi bần bật, chướng mắt thấy rõ.
 
-Bản thân những hình xăm thì chẳng sao, nhưng chuyện chúng phát sáng lại khiến mọi thứ trở nên tồi tệ hơn rất nhiều. Dù sao thì, người ta vẫn có thể nhìn thấy chúng rõ mồn một ngay cả khi tôi đã trùm mũ lên đầu. Quyết tâm xem liệu mình có thể cứu vãn tình hình hay không, tôi kéo mũ trùm lên vài lần và thử chỉnh ở các vị trí khác nhau, nhưng mọi nỗ lực đều vô ích. Ánh sáng cứ đều đặn tỏa ra từ bên trong mũ trùm—bất kể ai nhìn vào đi nữa, đây cũng không thể là hiện tượng của một con người.
+Bản thân đám hoa văn thì chẳng sao, nhưng ngặt nỗi chúng lại phát sáng, thành ra mọi chuyện tệ đi gấp bội. Dù tôi có trùm mũ lên thì người ta vẫn nhìn thấy ánh sáng rõ mồn một. Không cam lòng, tôi thử kéo mũ trùm lên rồi chỉnh qua chỉnh lại mấy lần xem có vớt vát được gì không, nhưng công cốc. Luồng sáng cứ đều đặn hắt ra từ bên trong mũ—nhìn kiểu gì thì người bình thường cũng chẳng ai lại như thế cả.
 
-Rốt cuộc, tôi sẽ phải sống cuộc đời của một con Wight; một con Wight với chiếc mũ trùm phát sáng sắc xanh lam đáng sợ và kinh hãi.
+Chẳng lẽ cuối cùng tôi lại phải sống cuộc đời của một con Wight ư? Một con Wight đội mũ trùm lập lòe ánh lam vừa quái dị vừa đáng sợ.
 
-...Không. Không được!
+...Không. Không đời nào!
 
-Như thế thì tệ lắm!
+Thế thì hỏng bét!
 
-Mình phải làm sao đây?!
+Biết làm sao bây giờ?!
 
-Tôi ôm đầu trong tuyệt vọng.
+Tôi ôm đầu tuyệt vọng.
 
-"A, phải rồi. Anh không nhờ tôi mua thứ này, nhưng nó rẻ lắm, với lại tôi đoán anh cũng muốn có một món như thế này... Anh thấy sao?" Rina hỏi, lại một lần nữa lôi thứ gì đó ra từ chiếc túi không đáy của mình.
+"A, phải rồi! Món này anh không dặn mua đâu, nhưng thấy nó rẻ quá với lại đoán chắc anh cũng cần thứ thế này... Anh xem thử có được không?" Rina hỏi, lại thò tay vào cái túi dường như không đáy của mình lôi ra thêm một thứ.
 
-Món đồ Rina chìa ra không phải thứ tôi nhớ là đã thấy khi kiểm tra đồ đạc bên trong túi lần đầu tiên. Lẽ nào nó thực sự là một loại túi ma thuật nào đó?
+Món đồ Rina chìa ra không hề có trong trí nhớ của tôi lúc ngó vào túi ban nãy. Chẳng lẽ cái túi này thực sự là một dạng túi ma thuật thật sao?
 
-Trước mắt, tôi buộc phải gạt suy nghĩ đó sang một bên.
+Trước mắt, tôi đành phải gác ý nghĩ đó sang một bên.
 
-Quan trọng hơn cả lúc này, vật phẩm mà Rina vừa lấy ra không gì khác chính là một chiếc mặt nạ. Đó là một chiếc mặt nạ che kín cả khuôn mặt với kích thước lớn, dường như được làm bằng xương. Đúng như kích thước của nó cho thấy, chiếc mặt nạ đủ lớn để che kín hoàn toàn khuôn mặt tôi, gồm cả những hình xăm và mọi thứ.
+Quan trọng hơn cả là thứ Rina vừa lôi ra lại chính là một chiếc mặt nạ. Đó là một chiếc mặt nạ lớn che kín toàn bộ khuôn mặt, dường như được làm bằng xương. Chiếc mặt nạ to vừa vặn để che giấu trọn vẹn cả gương mặt tôi, từ mớ hoa văn phát sáng cho tới mọi thứ.
 
 "...Cái... gì... thế...?"
 
-Ý tôi muốn hỏi cô tại sao ngay từ đầu lại mua thứ này, chứ không phải hỏi về bản chất của món đồ. Thế nhưng, Rina nhanh chóng đưa ra lời đáp vui vẻ.
+Ý tôi là muốn hỏi sao cô lại mua thứ này, chứ không phải hỏi xem đây là cái gì. Thế nhưng Rina đã nhanh nhảu đáp lại với giọng tươi rói.
 
-"Anh Rentt... Anh muốn trở về Maalt, đúng chứ? Muốn vậy thì anh phải giấu mặt đi, và tôi không nghĩ người ta sẽ cho anh vào cổng với khuôn mặt phát sáng đâu, anh biết đấy?"
+"Anh Rentt... Anh muốn trở về Maalt đúng không? Muốn vậy thì phải giấu mặt đi chứ, mặt mũi cứ phát sáng thế kia thì ai mà cho anh qua cổng được cơ chứ!"
 
-Một lần nữa, đúng như những gì Rina nói.
+Lại một lần nữa, Rina nói chẳng sai chút nào.
 
-Cô gái này... quả thực chẳng tầm thường chút nào. Dù tôi cảm thấy vùng mặt mình nóng ran lên, nhưng đáng tiếc thay chẳng có giọt nước mắt cảm kích nào ứa ra. Tôi đã cố hết sức để khóc, nhưng có lẽ Rina chẳng nhận thấy bất kỳ sự thay đổi nào nơi thần thái của tôi.
+Cô bé này... quả thực không phải dạng vừa. Dù thấy mặt mình nóng ran lên vì xúc động, nhưng tiếc là chẳng có giọt nước mắt biết ơn nào rơi ra được. Tôi đã cố hết sức để khóc, cơ mà chắc Rina cũng chẳng nhận thấy chút biểu cảm nào trên cái bản mặt này của tôi.
 
-Tiến lại gần chiếc mặt nạ mà Rina đã đặt trên mặt đất, tôi nhặt nó lên, chăm chú quan sát. Chiếc mặt nạ dường như có các lỗ khoét vừa vặn cho mắt và miệng, nên có vẻ tôi sẽ không gặp nhiều trở ngại trong việc nhìn hay thở. Dẫu vậy, liệu ở tình trạng hiện tại tôi có thở được hay không lại là một vấn đề hoàn toàn khác.
+Bước lại gần chiếc mặt nạ Rina vừa đặt trên đất, tôi nhặt lên ngắm nghía. Trên mặt nạ có khoét sẵn lỗ mắt và lỗ miệng khá vừa vặn, thành ra chắc cũng không cản trở tầm nhìn hay hô hấp là bao. Cơ mà với cái thân xác hiện tại thì tôi có còn thở được hay không lại là chuyện hoàn toàn khác.
 
-Nghĩ đoạn, tôi dùng cả hai tay nâng chiếc mặt nạ lên và buộc nó vào. Chẳng hề có điềm báo trước, chiếc mặt nạ bỗng nhiên tự dính chặt vào mặt tôi, gần như gắn liền làm một với lớp da chết khô khốc của tôi.
+Nghĩ vậy, tôi cầm mặt nạ bằng cả hai tay rồi đeo lên mặt. Bất thình lình, chiếc mặt nạ tự động dính chặt lấy mặt tôi, như thể dán chặt và hòa làm một với lớp da chết khô quắt.
 
-"...Ư-a!" Âm thanh kỳ lạ ấy buột ra khỏi miệng tôi.
+"...Ư-a!" Tiếng kêu kỳ quái ấy buột ra khỏi miệng tôi.
 
-Trước khi tôi kịp nhận ra, chiếc mặt nạ đã vừa khít và bám chắc trên toàn bộ khuôn mặt tôi.
+Chẳng mấy chốc, chiếc mặt nạ đã ôm khít và bám chắc vào toàn bộ khuôn mặt tôi.
 
-"Oa... Hợp với anh lắm đấy, anh biết không?" Rina nói, lại một lần nữa phô bày gu khen ngợi độc lạ của mình. Trước lời của cô, tôi ngước nhìn vào gương—
+"Oa... Hợp với anh ghê cơ!" Rina thốt lên, lại thêm một lần thể hiện gu khen ngợi độc lạ của mình. Nghe cô nói vậy, tôi liền ngước nhìn vào gương—
 
-Phản chiếu trong đó dường như là một kiếm sĩ với vẻ ngoài mờ ám thuộc phái hắc ma thuật, người cũng tình cờ có một chiếc mặt nạ hình đầu lâu che kín toàn bộ khuôn mặt.
+Hình ảnh phản chiếu trong gương trông chẳng khác nào một gã kiếm sĩ mờ ám chuyên dùng hắc ma pháp, lại còn tiện thể đeo luôn chiếc mặt nạ hình đầu lâu che kín cả khuôn mặt.
 
-Quả thực, nó dường như rất hợp với tôi. Dù sao thì, mới chỉ vài ngày trước tôi còn là một con Khô Lâu; thành thử ra, một chiếc mặt nạ bộ xương chắc chắn sẽ rất hợp với tôi.
+Quả thực nhìn cũng hợp với tôi thật. Dù sao thì mới vài ngày trước tôi còn là một con Khô Lâu cơ mà, thành ra chiếc mặt nạ hình đầu lâu xương xẩu này hợp với tôi cũng là lẽ đương nhiên.
 
-—Ít nhất, logic của tôi là thế.
+—Ít ra thì logic của tôi là vậy.
 
-Tuy nhiên... Chiếc mặt nạ này cho cảm giác rất chật, gần như một lớp da thứ hai. Liệu nó có tháo ra được không đây?
+Có điều... Chiếc mặt nạ này bám chặt quá mức, cảm giác chẳng khác nào một lớp da thứ hai. Liệu có tháo nó ra được không đây?
 
-Đột nhiên dâng lên một cảm giác bất an, tôi cố tháo chiếc mặt nạ ra, đặt các ngón tay vào để cạy nó khỏi mặt mình. Đúng lúc đó tôi nhận ra—
+Bất giác thấy bất an, tôi thử tháo mặt nạ ra, luồn mấy ngón tay vào mép để cạy khỏi mặt. Đúng lúc đó tôi mới bàng hoàng nhận ra—
 
-"...D... Dính chặt. Không... tháo ra... được."
+"...D... dính chặt. Không... tháo ra... được."
 
 "A..."
 
-Trước những lời của tôi, những lời khen hớn hở của Rina nhanh chóng tắt lịm.
+Nghe tôi nói vậy, những lời khen hớn hở của Rina lập tức tắt ngấm.

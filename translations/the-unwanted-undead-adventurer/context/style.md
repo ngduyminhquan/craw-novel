@@ -50,6 +50,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 24. **Giọng Aidi và không khí trường đua chuột (#85).** Aidi là mạo hiểm giả trung niên mê cá cược, ăn nói bộc trực, xuề xòa, dân dã của dân đỏ đen ("bạn hiền", "đặt cửa"); lời bình luận viên trường đua chuột Puchi Suri giữ nhịp dồn dập, máu lửa, kịch tính.
 25. **Giọng Phu nhân Emilstead (#86).** Quý phu nhân giàu có thương xót thú cưng hết mực; khi cầu xin giúp đỡ thì khẩn thiết, xúc động, xưng "tôi - ngài" chân thành, không trịch thượng; khi cảm kích thì vồ vập, bộc trực, không kiểu cách màu mè.
 26. **Giọng mạo hiểm giả tân binh (#87).** Tân binh mới vào nghề ban đầu bốc đồng, ấm ức, tự ái khi bị trừ thù lao, nhưng biết lắng nghe và cầu tiến khi được chỉ bảo; xưng hô từ bộc trực ("anh - tôi") chuyển sang kính trọng ("tiền bối Rentt - tôi").
+27. **Giọng Rina (#6–10, #24).** Thiếu nữ con gia đình hiệp sĩ mới vào nghề; kính trọng và biết ơn ân nhân cứu mạng (gọi "anh Rentt", tự xưng "tôi"), chu đáo, tinh tế và tháo vát nhưng vẫn giữ nét hồn nhiên của tuổi 17 (lời khen bộc trực, ngây thơ, mắt nhìn đồ độc lạ); khi đối diện với quái vật dù sợ sệt nhưng luôn cẩn trọng giữ khoảng cách an toàn.
 
 ## Từ cảm thán / cách nói cố định
 
@@ -76,6 +77,7 @@ Tiêu chí chung về lỗi văn dịch máy nằm ở `.agents/skills/novel-tra
 - (6–7) Rentt chạm trán và tập nói để giao tiếp với nữ tân binh Rina Rupaage trong hình hài Ngạ Quỷ. Giọng kể thể hiện rõ sự từng trải, khôn khéo đường đời và con mắt nhìn người của một tiền bối mười năm trong nghề, tương phản với vẻ ngoài quái vật đáng sợ và giọng nói ngọng nghịu.
 - (8) Kể theo góc nhìn ngôi thứ ba bám theo Rina Rupaage, khắc họa tâm lý non nớt nhưng giàu lòng tự trọng của con gái một gia đình hiệp sĩ mới vào nghề khi rời vương đô tới Maalt và được Rentt giải cứu.
 - (9) Nửa đầu (trước dấu phân cách) kể theo góc nhìn ngôi thứ ba bám theo tiếp tân viên Sheila Ibarss tại Hội Mạo Hiểm Giả Maalt, khắc họa sự gắn bó và tầm ảnh hưởng của Rentt đối với Hội và các mạo hiểm giả; sau dấu phân cách quay lại ngôi thứ nhất ("tôi") của Rentt Faina.
+- (10) Rina quay lại mê cung giao đồ cải trang cho Rentt. Thể hiện nét chu đáo, tinh ý nhưng vẫn dè dặt giữ khoảng cách an toàn của Rina trước một Undead; Rentt độc thoại dí dỏm, tự trào khi ngắm diện mạo Ngạ Quỷ có hoa văn phát sáng và chiếc mặt nạ xương dính chặt vào mặt.
 - (13–14) Có đoạn hồi tưởng quá khứ theo góc nhìn của Lorraine Vivie.
 - (15) Chuyển đổi góc nhìn sang ngôi thứ nhất của Luka (người tiếp khách tiệm Ba Chĩa) ở đoạn 83–104 (phần sau dấu phân cách).
 - (28–29) Ngoại truyện Tập 1: kể theo góc nhìn ngôi thứ nhất ("tôi") của Lorraine Vivie vào năm thứ sáu làm mạo hiểm giả tại Maalt.
