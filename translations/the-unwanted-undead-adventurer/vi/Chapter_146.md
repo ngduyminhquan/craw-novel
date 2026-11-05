@@ -36,98 +36,98 @@ Tôi cố suy đoán xem hai người muốn hỏi chuyện gì, nhưng nghĩ m�
 
 "Bí mật gì cơ ạ? Cháu không có ý coi nhẹ Hathara đâu, nhưng cháu cứ ngỡ nơi đây chỉ là một ngôi làng nhỏ trên núi thôi chứ. Vậy mà bản lĩnh của bà và Capitan lại thuộc hàng hiếm thấy, ngay cả ở Maalt cháu cũng hiếm khi được chứng kiến."
 
-Tôi từng thấy kỳ lạ khi có ngần ấy cao nhân quy tụ ở một ngôi làng hẻo lánh, nhưng chuyện đó cũng không phải là chưa từng có. Những giai thoại về các mạo hiểm giả Bạch Kim Cấp bỗng một ngày đẹp trời giải nghệ rồi quay về ngôi làng nơi mình lớn lên nhiều không đếm xuể. Những câu chuyện tương tự về các tướng lĩnh quân đội hay Pháp Sư Cung Đình cũng chẳng hề hiếm. Người ta có thể ghé vào gần như bất kỳ ngôi làng nghèo khó nào mà tình cờ bắt gặp một nhân vật lẫy lừng đang bận thường phục rảo bước quanh đó. Chính vì thế, tôi luôn nghĩ chẳng có gì quá đỗi kỳ lạ về Hathara cả. Nhưng qua giọng điệu của bà Gharb, dường như đằng sau tất cả còn ẩn chứa một nguyên do sâu xa hơn thế.
+Tôi từng thấy lạ khi ở một ngôi làng hẻo lánh lại có nhiều người tài giỏi đến vậy, nhưng chuyện đó cũng không phải là chưa từng có. Người ta vẫn kể không hết chuyện những mạo hiểm giả Bạch Kim Cấp bỗng một ngày giải nghệ rồi về lại quê xưa. Những câu chuyện tương tự về các tướng lĩnh quân đội hay Pháp Sư Cung Đình cũng chẳng thiếu. Ghé vào bất kỳ ngôi làng nghèo khó nào, biết đâu lại bắt gặp một nhân vật lẫy lừng đang mặc đồ dân dã đi dạo quanh làng. Chính vì thế, tôi luôn nghĩ Hathara cũng chẳng có gì lạ lắm. Nhưng nghe giọng bà Gharb thì hình như đằng sau chuyện này còn có nguyên do nào đó sâu xa hơn nhiều.
 
-Tôi nhìn sang Lorraine, và cô nhìn lại tôi với nét mặt như muốn nói rằng bấy lâu nay cô đã biết nơi này có điều gì đó bất thường. Suốt từ lúc đặt chân tới đây, cô luôn cảm thấy có gì đó khác lạ.
+Tôi nhìn sang Lorraine, thấy cô nhìn lại với ánh mắt như muốn bảo cô đã nghi nơi này có uẩn khúc từ lâu rồi. Suốt từ lúc đặt chân tới làng, cô đã luôn cảm thấy có điều gì đó khác lạ.
 
-"Ừ, nhìn chung những gì cháu nghĩ đều đúng," bà Gharb đáp. "Nói đúng hơn là đúng đối với đa số dân làng. Cháu chưa từng nghĩ nơi đây có gì khác ngoài một ngôi làng bình thường đúng không? Chà, có thể cháu từng nghĩ nó hơi khác thường một chút, nhưng ta dám chắc cháu chẳng mảy may nghĩ xa hơn thế đâu."
+"Ừ, nhìn chung cháu nghĩ không sai đâu," bà Gharb đáp. "Mà nói đúng hơn là với đa số dân làng thì là vậy. Cháu chưa từng nghĩ nơi đây có gì khác ngoài một ngôi làng bình thường đúng không? À thì, có thể cháu thấy hơi lạ một chút, nhưng chắc chắn chẳng bao giờ nghĩ sâu xa hơn."
 
-"Cháu đúng là có thấy bà và Capitan trông hơi lạc lõng so với nơi này, nhưng cũng chỉ đến thế thôi ạ." Bản lĩnh của họ xuất chúng đến mức ngay tại Maalt, họ cũng sẽ được người ta săn đón nồng nhiệt. Bà Gharb sẽ được trọng vọng như một thầy thuốc đại tài, còn Capitan sẽ được tôn sùng như một chiến binh cừ khôi. Vậy mà họ vẫn ở lại chốn này. Trong suốt những năm tháng phiêu lưu ở Maalt, tôi thường hay nghĩ về điều đó.
+"Cháu đúng là có thấy bà và Capitan hơi lạc lõng ở chốn này, nhưng cũng chỉ nghĩ tới đó thôi ạ." Bản lĩnh của hai người họ xuất chúng đến mức dù có lên Maalt cũng sẽ được săn đón nồng nhiệt. Bà Gharb sẽ được trọng vọng như một thầy thuốc giỏi, còn Capitan sẽ được nể phục như một chiến binh cừ khôi. Vậy mà cả hai vẫn trụ lại nơi này. Hồi còn bôn ba ở Maalt, thỉnh thoảng tôi vẫn nghĩ về chuyện đó.
 
-"Vậy nghe qua thì nơi này thực sự không phải là một ngôi làng bình thường sao?" Lorraine cất lời hỏi.
+"Nghe hai người nói vậy thì nơi này thực sự không phải một ngôi làng bình thường sao?" Lorraine lên tiếng hỏi.
 
-Capitan đáp, "Không hẳn, giờ thì coi đây là một ngôi làng bình thường cũng được. Đúng như bà lão đã nói, đối với phần lớn dân làng thì là vậy. Xưa nay vẫn thế, và sau này cũng sẽ mãi như thế. Nhưng với tôi, bà Gharb và Ingo thì lại hơi khác một chút."
+Capitan đáp: "Không hẳn, bảo bây giờ nó là một ngôi làng bình thường cũng được. Đúng như bà lão vừa nói, trong mắt phần lớn dân làng thì là vậy. Xưa nay vẫn thế, mà sau này cũng sẽ mãi như thế. Chỉ là với tôi, bà Gharb và Ingo thì hơi khác một chút."
 
-Ba người mà Capitan vừa kể trên thực tế chính là những người nắm quyền cai quản ngôi làng. Một nơi dân cư thưa thớt như thế này đâu cần đến một hội đồng hay những chức vụ hành chính quy củ như ở Maalt. Ba người họ là những người mà dân làng tìm đến thỉnh giáo mỗi khi có chuyện xảy ra, và đối với dân làng, họ chính là những người đưa ra quyết định sau cùng. Cha Ingo dĩ nhiên được tính vào vì ông là trưởng làng; bà Gharb được xem là người hiểu biết nhất làng; còn Capitan là thủ lĩnh của nhóm chiến binh hùng mạnh nhất.
+Ba người Capitan vừa nhắc tên thực chất chính là những người đứng đầu ngôi làng. Một nơi ít dân như thế này đâu cần đến hội đồng hay các chức vụ hành chính bài bản như ở Maalt. Hễ trong làng có chuyện gì là người dân lại tìm đến ba người họ để hỏi ý, và quyết định của họ cũng là quyết định cuối cùng. Cha Ingo là trưởng làng thì khỏi nói; bà Gharb được coi là người thông thái nhất làng; còn Capitan là thủ lĩnh của nhóm chiến binh mạnh nhất.
 
-Và đối với ba người họ, đây tuyệt nhiên không phải một ngôi làng bình thường. Tôi tự hỏi điều đó rốt cuộc có nghĩa là gì. Lẽ tự nhiên, Lorraine cũng có cùng thắc mắc. Tôi chẳng trông mong chuyện này có liên quan gì đến lý do mình biến thành Undead, nhưng có lẽ nó sẽ giải thích được vì sao ngôi đền thờ kia lại bị đối xử như thế. Tôi đã sống phần lớn cuộc đời mình ở ngôi làng này, và cái ý nghĩ rằng nó đang chôn giấu một bí mật khiến sự tò mò trong tôi trỗi dậy cồn cào.
+Và đối với ba người họ, đây hoàn toàn không phải một ngôi làng bình thường. Tôi tự hỏi câu đó rốt cuộc có ý gì. Dĩ nhiên Lorraine cũng có chung thắc mắc. Tôi chẳng mong chuyện này có dính dáng gì tới lý do mình biến thành Undead, nhưng biết đâu nó lại giải thích được vì sao ngôi đền kia lại bị bỏ mặc như thế. Tôi đã sống hơn nửa đời người ở ngôi làng này, nên vừa nghe nó ẩn giấu một bí mật là máu tò mò trong người đã trỗi dậy ngay.
 
-Bản tính của cả Lorraine lẫn tôi vốn dĩ đều rất tò mò. Nếu không như vậy, chúng tôi đã chẳng chọn làm mạo hiểm giả. Một mạo hiểm giả là kẻ sẵn sàng làm bất cứ điều gì, kể cả liều mạng, chỉ để vén màn dù chỉ một bí mật của thế giới này. Giờ đây khi đã biết ngôi làng đang che giấu một bí mật, việc rời đi trước khi nghe hết câu chuyện rõ ràng không phải là một lựa chọn.
+Cả Lorraine lẫn tôi vốn đều có tính tò mò. Không thế thì hai đứa đã chẳng đi làm mạo hiểm giả. Mạo hiểm giả vốn là những kẻ sẵn sàng làm mọi thứ, kể cả đánh cược mạng sống, chỉ để khám phá dù chỉ một bí mật của thế giới này. Giờ đã biết ngôi làng có ẩn tình, bảo chúng tôi bỏ về trước khi nghe hết đầu đuôi thì đời nào chịu nổi.
 
-"Vậy đối với ba người, Hathara rốt cuộc là nơi thế nào ạ?" tôi hỏi, đi thẳng vào trọng tâm vấn đề.
+"Vậy đối với ba người, Hathara rốt cuộc là nơi thế nào ạ?" tôi hỏi thẳng vào vấn đề chính.
 
-"Ta có thể kể cho hai đứa nghe ngay tại đây, nhưng hai đứa sẽ chẳng thể thực sự cảm nhận được những gì ta đang nói đâu," bà Gharb bảo. "Ta muốn nói kỹ hơn về chuyện này vào ngày mai. Có một nơi ta muốn cả bốn chúng ta cùng đến. Đó là lý do ta bảo hai đứa ghé qua sau khi xem xong ngôi đền, chỉ là giờ thì trời đã tối rồi. Đi vào thời điểm này trong đêm sẽ rất nguy hiểm. Tối nay, hai đứa cứ ở lại đây dùng bữa đi. Sáng mai lại qua đây, rồi ta sẽ kể cho nghe tất cả."
+"Kể ngay tại đây cũng được thôi, nhưng ngồi nghe suông thì hai đứa chẳng hình dung nổi điều ta muốn nói đâu," bà Gharb bảo. "Chuyện này để mai ta nói kỹ hơn. Có một nơi ta muốn cả bốn người chúng ta cùng tới. Thế nên ta mới dặn hai đứa ghé qua ngay sau khi đi xem ngôi đền về, có điều giờ trời tối mất rồi. Đi vào giờ này nguy hiểm lắm. Tối nay hai đứa cứ ở lại đây ăn cơm. Sáng mai quay lại đây, ta sẽ cho hai đứa biết tất cả."
 
 Bà lão mỉm cười.
 
 ◆◇◆◇◆
 
-"Rốt cuộc thì bà ấy biết được những gì nhỉ? Tôi nôn nóng muốn biết quá đi mất," Lorraine thích thú bảo.
+"Không biết bà ấy nắm giữ bí mật gì nhỉ? Tôi háo hức muốn biết quá đi mất," Lorraine thích thú nói.
 
-Giờ đã là sáng hôm sau, và chúng tôi đang trên đường tới nhà bà Gharb. Tâm trạng của tôi cũng chẳng khác gì cô. Những ngôi làng trông bề ngoài có vẻ bình thường nhưng lại ẩn chứa một bí mật đặc biệt vốn là đề tài cho biết bao câu chuyện truyền tụng từ ngàn xưa. Chỉ có một số ít người may mắn mới được trải qua những chuyến phiêu lưu như thế, trong khi những mạo hiểm giả tầm thường như chúng tôi có thể sống hết cả đời mà chẳng bao giờ chạm trán điều gì ly kỳ đến vậy. Thế nhưng giờ đây nó lại đang diễn ra, mà lại ngay trong chuyến về thăm quê nhà này của tôi nữa chứ. Chẳng có lý do gì để không phấn khích cả.
+Giờ đã là sáng hôm sau, hai đứa tôi đang trên đường tới nhà bà Gharb. Tâm trạng của tôi cũng chẳng khác gì cô. Những ngôi làng nhìn bề ngoài tưởng chừng bình dị nhưng lại cất giấu một bí mật lớn lao vốn là đề tài quen thuộc trong các câu chuyện kể từ bao đời nay. Chỉ số ít người may mắn mới được trải qua những cuộc phiêu lưu như thế, còn đám mạo hiểm giả tầm thường như chúng tôi có khi đi hết cả đời cũng chẳng gặp được chuyện gì ly kỳ đến vậy. Thế mà giờ đây chuyện đó lại đang xảy ra, lại còn đúng vào dịp tôi về thăm quê nữa chứ. Bảo sao không phấn khích cho được.
 
-"Tôi cũng thế," tôi bảo, "nhưng tôi thật sự khâm phục việc họ có thể giấu kín điều đó suốt bấy lâu nay. Mà đâu chỉ giấu mỗi tôi, họ giấu cả toàn bộ dân làng luôn ấy chứ."
+"Tôi cũng thế," tôi đáp, "nhưng tôi phục họ thật đấy, giấu kín được suốt ngần ấy năm trời. Mà đâu chỉ giấu mỗi tôi, họ giấu cả làng luôn mới tài chứ."
 
-Theo lời họ thì bí mật này chỉ có bà Gharb, Capitan và cha Ingo hay biết. Nếu đó là một bí mật trọng đại đến thế, tôi quả thực phải ngả mũ thán phục trước việc họ có thể giữ kín nó suốt ngần ấy năm trời. Có lẽ tôi không nhận ra là vì tôi đã rời làng từ khi còn nhỏ và cũng đã xa quê một quãng thời gian dài, nhưng Riri và Fahri dành gần như toàn bộ thời gian sống ở đây mà hai cô bé vẫn chẳng hề hay biết. Chuyện đó thật đáng kinh ngạc. Hoặc là vậy, hoặc bí mật kia thực chất chẳng có gì to tát cho lắm. Nhưng như thế thì mất vui, nên tôi vẫn mong đó là một bí mật thực sự lớn.
+Theo lời họ kể thì bí mật này chỉ có bà Gharb, Capitan và cha Ingo biết với nhau. Nếu quả thực là một bí mật động trời đến thế, tôi thực sự phải ngả mũ bái phục khả năng giữ kín miệng của ba người suốt bao năm qua. Tôi rời làng từ lúc còn nhỏ, lại đi xa biền biệt suốt một thời gian dài nên không nhận ra đã đành, đằng này Riri và Fahri sống ở đây gần như suốt từ bé đến lớn mà hai đứa nó cũng chẳng mảy may hay biết. Nghĩ thôi đã thấy nể rồi. Hoặc không khéo bí mật kia thực ra cũng chẳng có gì to tát lắm. Cơ mà thế thì cụt hứng chết, nên tôi vẫn mong đó là một bí mật thật sự lớn.
 
-"Họ giấu được, đúng là vậy, nhưng nghe cách họ nói thì có vẻ dù sao đi nữa điều đó cũng chẳng can hệ gì mấy đến dân làng thời nay. Có khi chỉ đơn giản là họ chưa từng thấy cần thiết phải nhắc tới mà thôi," Lorraine phỏng đoán, dù lúc này cả hai chúng tôi đều chưa rõ liệu suy đoán của cô có đúng hay không.
+"Đúng là họ giấu kỹ thật, nhưng nghe cách họ nói thì hình như chuyện đó cũng chẳng ảnh hưởng gì mấy đến cuộc sống của dân làng thời nay. Biết đâu chỉ đơn giản là từ trước tới giờ chưa từng có dịp nào cần phải nhắc tới mà thôi," Lorraine đoán thử, dù lúc này cả hai đứa đều chưa biết cô đoán có trúng hay không.
 
-Tôi nhìn thẳng về phía trước và thấy nhà của bà Gharb. "Ồ, tới nơi rồi. Cháu chào mọi người ạ!" tôi cất tiếng gọi lớn.
+Tôi nhìn thẳng về phía trước, thấy ngôi nhà của bà Gharb đã hiện ra. "Ồ, tới nơi rồi. Cháu chào hai người ạ!" tôi cất tiếng gọi lớn.
 
-Bà lão và người đàn ông vạm vỡ đang đứng đợi bên ngoài cửa, đưa mắt nhìn về phía chúng tôi. Bà Gharb đang mặc chiếc áo khoác mà bà chỉ diện vào những chuyến đi xa dài ngày, còn Capitan thì vận trang phục đi săn. Cả hai rõ ràng đều đã chuẩn bị sẵn sàng để lên đường đến một nơi nào đó. Bên hông Capitan thậm chí còn đeo một con dao săn, trên vai khoác cây cung và sau lưng mang theo một bao tên. Nhưng phía chúng tôi cũng trang bị kỹ càng đủ để dấn thân ra ngoài làng. Trong phần lớn thời gian ở lại thăm quê, tôi chỉ mặc thường phục nhẹ nhàng, nhưng giờ đây tôi đã khoác lên mình bộ trang bị của mạo hiểm giả. Tôi mang theo thanh kiếm bên mình, còn Lorraine cũng cầm theo cây đũa phép cùng một con dao găm.
+Bà lão và người đàn ông vạm vỡ đang đứng đợi sẵn trước cửa, nghe tiếng liền nhìn về phía chúng tôi. Bà Gharb khoác chiếc áo choàng mà bà chỉ mặc mỗi khi đi xa, còn Capitan thì bận đồ đi săn. Nhìn là biết cả hai đã chuẩn bị sẵn sàng cho một chuyến đi. Bên hông Capitan còn đeo dao săn, vai khoác cung, sau lưng mang ống tên. Mà hai đứa tôi cũng trang bị đầy đủ để ra ngoài làng. Mấy hôm về thăm quê tôi toàn mặc đồ vải mỏng nhẹ cho thoải mái, nhưng hôm nay đã khoác lại bộ đồ mạo hiểm giả. Tôi đeo kiếm bên hông, còn Lorraine cũng mang theo đũa phép và một con dao găm.
 
-"Được rồi, đông đủ cả rồi đấy," bà Gharb nói, đưa mắt nhìn bộ trang phục của tôi. "Bộ đồ đó hợp với cháu đấy, Rentt. Giờ trông cháu đã ra dáng một mạo hiểm giả thực thụ rồi."
+"Được rồi, đông đủ cả rồi đấy," bà Gharb nói, mắt nhìn bộ đồ trên người tôi. "Bộ đó hợp với cháu đấy, Rentt. Giờ trông ra dáng mạo hiểm giả thực thụ rồi."
 
-Ý bà là chiếc áo choàng, chiếc mặt nạ và thanh kiếm, tất cả những thứ khiến tôi trông đầy vẻ khả nghi. Tôi từng kể với bà Gharb chuyện mình không thể tháo chiếc mặt nạ ra, nhưng những người khác lại tự suy diễn rằng đây là xu hướng thời trang ở Maalt. Tôi thầm cầu nguyện với Viro rằng nếu sau này có dịp lên Maalt tham quan vãn cảnh, họ sẽ không ai bảo ai mà đeo mặt nạ đi nhan nhản khắp phố. Rồi tôi thoáng nghĩ dường như mình vừa nghe thấy ai đó nói rằng lời cầu nguyện đó thật ngớ ngẩn và việc cầu nguyện đâu phải dùng vào mục đích ấy, nhưng có lẽ chỉ do tôi tưởng tượng mà thôi.
+Ý bà là chiếc áo choàng, chiếc mặt nạ và thanh kiếm — toàn những thứ khiến tôi trông khả nghi hết chỗ nói. Tôi đã kể thật với bà Gharb chuyện không tháo được chiếc mặt nạ, nhưng người trong làng lại tự biên tự diễn rằng đây là mốt thời trang trên Maalt. Tôi chỉ biết thầm cầu nguyện với Viro rằng sau này nhỡ dân làng có dịp lên Maalt chơi, họ đừng có rủ nhau đeo mặt nạ đi nhởn nhơ khắp phố. Ngay sau đó, tôi thoáng có cảm giác như vừa nghe thấy tiếng ai đó càu nhàu rằng lời cầu nguyện gì mà ngớ ngẩn thế, người ta đâu có cầu nguyện mấy chuyện vớ vẩn vậy, nhưng chắc chỉ là do tôi tưởng tượng ra thôi.
 
-"Cháu đâu có muốn ăn mặc thế này đâu ạ," tôi đáp. "Nhưng chiếc áo choàng này thoải mái và tiện lợi đến bất ngờ, nên cháu rất quý nó."
+"Đâu phải cháu muốn ăn mặc thế này đâu ạ," tôi đáp. "Có điều chiếc áo choàng này mặc vừa êm vừa tiện đến bất ngờ, nên cháu quý nó lắm."
 
 "Tiện thế nào cơ?" Capitan hỏi.
 
-Tôi không thể làm ngơ trước câu hỏi từ một trong những người thầy của mình. Tôi không phải lúc nào cũng trả lời thành thật, nhưng không thể nào không đáp lại.
+Tôi đâu thể làm ngơ câu hỏi của thầy mình. Không phải lúc nào tôi cũng khai thật mọi chuyện, nhưng hỏi thì nhất định phải thưa.
 
-"Nó bền chắc hơn cả giáp kim loại thông thường, lại còn kháng được độc tố. Với lại nó cũng chẳng hề bám bẩn nữa ạ," tôi nói, trong đầu bắt đầu tự hỏi nếu đem bán chiếc áo choàng này thì sẽ đáng giá bao nhiêu. Giờ đây thật khó mà hình dung nổi cuộc sống thiếu nó, thế nên tôi sẽ chẳng làm thế đâu, nhưng đó quả là một thắc mắc thú vị. Nếu có dịp gặp Thần Giám Định, có lẽ tôi cũng có thể nhờ ngài giám định luôn cả chiếc áo choàng này xem sao.
+"Nó bền chắc hơn cả giáp kim loại thông thường, lại còn chống được độc nữa. Đã thế còn chẳng bao giờ bám bẩn ạ," tôi đáp, trong bụng chợt tự hỏi nếu đem bán chiếc áo choàng này đi thì được bao nhiêu tiền. Giờ mà thiếu nó thì chẳng biết xoay xở làm sao, nên đời nào tôi đem bán, nhưng nghĩ thử cũng thú vị phết. Nếu có dịp gặp được Thần Giám Định, biết đâu tôi lại nhờ ngài giám định luôn chiếc áo choàng này được ấy chứ.
 
 "Hử, thế chú bắn thử một mũi tên vào xem sao nhé?" Capitan thích thú hỏi.
 
-Tôi vội vàng lắc đầu quầy quậy. "Dạ thôi, cháu can chú đấy ạ! Capitan bắn thì có khi xuyên thủng thật ấy chứ!"
+Tôi vội lắc đầu quầy quậy. "Dạ thôi, cháu can chú đấy ạ! Capitan mà bắn thì khéo xuyên thủng thật ấy chứ!"
 
-Tôi nói vậy không đơn thuần chỉ để nịnh bợ chú. Khi chú nghiêm túc bắn một mũi tên, nó luôn luôn xuyên thủng mục tiêu. Bản thân cây cung không hề quá đỗi mạnh mẽ, thế nên uy lực đó hoàn toàn nhờ vào sức mạnh của Khí Lực. Việc rót Khí Lực vào kiếm, giáo và những vũ khí cầm tay khác đòi hỏi một quá trình luyện tập không nhỏ, nhưng đó là một mục tiêu khả thi. Tuy nhiên, làm điều tương tự với thứ vũ khí không còn tiếp xúc trực tiếp với cơ thể lại là chuyện vô cùng gian nan. Vậy mà Capitan lại có thể làm được. Mũi tên của chú thậm chí còn có thể bắn vỡ cả những tảng đá lớn. Dù đang khoác chiếc áo choàng này, cũng chẳng có gì bảo đảm rằng tôi sẽ toàn mạng. Có lẽ sẽ không sao đâu, nhưng việc đó không đáng để tôi phải liều mạng thử nghiệm.
+Tôi nói vậy không phải để nịnh chú đâu. Một khi chú đã nghiêm túc giương cung thì mũi tên bắn ra lúc nào cũng xuyên thủng mục tiêu. Bản thân cây cung của chú cũng chỉ là cung thường, uy lực kinh khủng đó hoàn toàn là nhờ Khí Lực mà ra. Truyền Khí Lực vào kiếm, giáo hay các loại vũ khí cầm tay vốn đã đòi hỏi phải khổ luyện rất nhiều, nhưng dù sao vẫn còn nằm trong tầm tay. Đằng này truyền Khí Lực vào thứ vũ khí tách rời khỏi cơ thể lại là chuyện khó hơn lên trời. Vậy mà Capitan lại làm được. Tên của chú bắn ra còn phá nát được cả tảng đá lớn. Dù có khoác chiếc áo choàng này trên người, tôi cũng chẳng dám chắc mình sẽ bình an vô sự. Chắc là không sao đâu, nhưng chẳng dại gì đem mạng ra thử.
 
-Capitan trông có vẻ thất vọng trước lời từ chối của tôi. "Thế thì thôi vậy. Dù sao thì lát nữa tỉ thí một trận nhé. Chú muốn xem cháu làm được những gì rồi."
+Thấy tôi từ chối, Capitan thoáng vẻ tiếc nuối. "Thế thì thôi vậy. Dù sao lát nữa cũng phải đấu thử một hiệp nhé. Chú muốn xem trình độ của cháu giờ tới đâu rồi."
 
-Cuộc trò chuyện này đang bắt đầu rẽ sang một chiều hướng tồi tệ hơn rồi. Thành thực mà nói, tôi chẳng muốn phải dây dưa vào vụ đó chút nào. Dù gì đi nữa, Capitan cũng là một trong những người đã dạy tôi chiến đấu. Tôi học phần lớn kiếm thuật từ vị mạo hiểm giả từng ghé qua làng, nhưng tôi lại học cước pháp di chuyển cùng những kỹ năng tương tự từ Capitan. Năng lực thể chất mới có được này của tôi có lẽ đủ để tôi giành phần thắng, nhưng tôi không dám chắc chắn trăm phần trăm. Tôi chưa từng thấy Capitan ra sao khi chú thực sự nghiêm túc.
+Câu chuyện bắt đầu rẽ sang chiều hướng chẳng lành rồi đây. Nói thật lòng là tôi chẳng muốn dính vào vụ này chút nào. Dù gì Capitan cũng là một trong những người đã dạy tôi chiến đấu. Kiếm thuật của tôi phần lớn là học từ vị mạo hiểm giả từng ghé qua làng năm xưa, nhưng bộ pháp di chuyển cùng mấy kỹ năng đại loại thế đều là do một tay Capitan chỉ dạy. Thể chất mới có được hiện giờ có lẽ đủ để giúp tôi giành phần thắng, nhưng tôi cũng chẳng dám chắc mười mươi. Từ bé tới lớn tôi đã thấy Capitan đánh thật sức bao giờ đâu.
 
-Dù sao đi nữa, tôi cũng chẳng thể nào từ chối lời tỉ thí. Đã là học trò thì phải nghe lời thầy thôi.
+Dù sao đi nữa, tôi cũng chẳng thể từ chối lời yêu cầu đấu tập này. Đã là trò thì phải chiều ý thầy thôi.
 
-"Vâng ạ," tôi thở dài nói. "Để lát nữa tính sau đi ạ. Thế rốt cuộc chúng ta đang đi đâu vậy ạ?"
+"Vâng ạ," tôi thở dài đáp. "Để lát nữa tính sau đi ạ. Thế rốt cuộc chúng ta đang đi đâu vậy ạ?"
 
-"Khu rừng phía bắc," bà Gharb đáp. "Tận sâu chốn thâm sơn cùng cốc của nó."
+"Khu rừng phía bắc," bà Gharb đáp. "Vào tận sâu bên trong."
 
-Tôi có phần sững sờ. Đáng lẽ ra không một ai được phép bước chân vào khu rừng phía bắc cả. Nơi đó lúc nhúc những con quái vật hùng mạnh đến mức ngay cả những người thợ săn của Hathara cũng phải tránh thật xa.
+Tôi thoáng giật mình. Khu rừng phía bắc vốn là nơi cấm bén mảng tới. Trong đó lúc nhúc những con quái vật mạnh đến mức ngay cả đội thợ săn của Hathara cũng phải dè chừng tránh xa.
 
-"Đó là lý do cả hai người đều trang bị đầy đủ thế này sao ạ?" tôi hỏi.
+"Thế nên hai người mới trang bị kỹ càng thế này sao ạ?" tôi hỏi.
 
-Cũng hợp lý thôi. Tôi chưa từng thấy bà Gharb chiến đấu bao giờ, nhưng theo lời Lorraine thì bà có lẽ là một ma pháp sư thượng thặng. Còn Capitan, theo đánh giá của tôi, cũng là một chiến binh cự phách. Bọn họ hoàn toàn đủ khả năng tiến vào khu rừng vốn là cấm địa đối với dân làng Hathara. Thế nhưng không hiểu sao hôm nay trông họ lại có phần căng thẳng. Có lẽ nơi đó nguy hiểm đến mức ấy thật.
+Nghĩ cũng phải. Tôi chưa từng thấy bà Gharb ra tay bao giờ, nhưng theo lời Lorraine thì bà hẳn phải là một ma pháp sư có hạng. Còn Capitan, theo mắt nhìn của tôi, cũng là một chiến binh cừ khôi. Hai người họ thừa sức tiến vào khu rừng vốn là vùng cấm với dân làng Hathara. Có điều chẳng hiểu sao hôm nay trông cả hai lại có vẻ hơi căng thẳng. Chắc hẳn nơi đó phải nguy hiểm đến mức ấy thật.
 
-"Ừ, đúng thế," bà Gharb nói. "Hai đứa phải hết sức cảnh giác đấy. Đây không phải một khu rừng bình thường đâu. Giờ thì đi thôi."
+"Ừ, đúng thế," bà Gharb nói. "Hai đứa phải luôn cảnh giác đấy. Đây không phải rừng rú bình thường đâu. Nào, đi thôi."
 
-Bà Gharb dẫn đầu mở đường, thế nên chúng tôi bắt đầu cất bước bám theo sau lưng bà.
+Bà Gharb đi trước dẫn đường, chúng tôi liền cất bước nối gót theo sau.
 
 ◆◇◆◇◆
 
-Capitan vung con dao săn chặt đứt phăng đầu một con Goblin. Ba con Goblin khác lao về phía chú với những con dao găm rỉ sét, toan đánh úp bất ngờ, nhưng chú nghiêng mình né sang một bên rồi vung lưỡi dao chém ngọt qua cả ba con. Cách đó không xa, bà Gharb liên tục phóng ra những lưỡi dao gió vào một con quái vật nhện khổng lồ mang tên Gadol Akavish, chặt đứt lìa từng chiếc chân của nó. Con nhện cố dùng những chiếc chân còn lại để tấn công bà Gharb, nhưng bà nhanh nhẹn khác thường so với tuổi tác của mình và thoăn thoắt né tránh từng đòn đánh. Bà là một ma pháp sư và nhiều khả năng nắm giữ các kỹ thuật cường hóa thể chất, thế nên chuyện đó cũng chẳng phải quá đỗi bất thường, nhưng việc chứng kiến một bà lão nhảy nhót thoăn thoắt như một con khỉ quả thực có phần rợn người. Chưa kể bà còn làm được tất cả những điều đó trong khi vẫn liên tục thi triển ma pháp. Phần lớn ma pháp sư thường tác chiến hệt như những khẩu đại pháo cố định một chỗ, nhưng bà Gharb lại khác biệt về mặt bản chất. Bà chiến đấu hệt như một ma kiếm sĩ hay một chiến pháp sư. Thậm chí đáng sợ hơn cả là những cú đấm của bà dường như còn mạnh bạo hơn cả ma pháp mà bà phóng ra.
+Capitan vung dao săn chém bay đầu một con Goblin. Ba con Goblin khác cầm dao găm rỉ sét lao tới định đánh úp, nhưng chú chỉ nghiêng người lách nhẹ sang bên rồi vung một đường dao phạt đứt đôi cả ba đứa. Cách đó không xa, bà Gharb đang liên tiếp phóng ra những lưỡi dao gió vào một con nhện khổng lồ tên là Gadol Akavish, chặt đứt lìa từng cái chân của nó. Con nhện cố dùng những chiếc chân còn lại quất tới tấp về phía bà Gharb, nhưng bà lại nhanh nhẹn đến khó tin so với cái tuổi của mình, thoăn thoắt né sạch mọi đòn tấn công. Bà vốn là ma pháp sư, chắc hẳn cũng nắm vững các kỹ thuật cường hóa thể chất nên chuyện đó không quá lạ, có điều nhìn cảnh một bà lão nhảy nhót thoăn thoắt như khỉ thế kia vẫn thấy hơi rợn người. Đã thế bà còn vừa nhào lộn vừa tung ma pháp liên hồi. Đa số ma pháp sư khi giao chiến đều đứng yên một chỗ nã phép như những cỗ pháo cố định, nhưng bà Gharb lại thuộc một trường phái hoàn toàn khác. Bà đánh đấm chẳng khác nào một ma kiếm sĩ hay chiến pháp sư thực thụ. Đáng sợ hơn nữa là nhìn mấy cú đấm của bà có khi còn uy lực hơn cả ma pháp bà phóng ra.
 
 ![](images/ch146-01.webp)
 
-"Tụi mình mới là mạo hiểm giả ở đây cơ mà, vậy mà đến cơ hội ra tay làm việc cũng chẳng có," một lúc sau, khi trận chiến đã ngã ngũ, Lorraine lẩm bẩm than thở. Xung quanh chúng tôi là la liệt xác quái vật.
+"Rõ ràng tụi mình mới là mạo hiểm giả, thế mà chẳng có lấy một cơ hội để trổ tài," một lúc sau, khi trận chiến đã ngã ngũ, Lorraine lẩm bẩm than thở. Xung quanh chúng tôi lúc này xác quái vật nằm ngổn ngang.
 
-Từ khi còn bé, tôi đã luôn được căn dặn không được bén mảng tới khu rừng phía bắc, và quả nhiên nơi đây nguy hiểm y như những lời cảnh báo bấy lâu nay. Rất hiếm có khu rừng nào lại lúc nhúc nhiều quái vật đến thế, trừ phi xảy ra một đợt bùng phát hay quái triều. Trên thế giới này có vô số vùng lãnh địa khác thường bị coi là chốn nguy hiểm, và những nơi đó có lẽ cũng sẽ mang lại cảm giác khác lạ nếu tôi đặt chân vào, nhưng tôi chưa bao giờ ngờ rằng lại có một nơi như thế này nằm ngay gần quê hương mình.
+Từ hồi còn bé tí, tôi đã luôn được dặn là tuyệt đối không được bén mảng tới khu rừng phía bắc, và quả nhiên nơi này nguy hiểm đúng như lời người lớn cảnh báo. Hiếm có khu rừng nào lại lúc nhúc nhiều quái vật đến thế, trừ khi đang có đợt bùng phát số lượng hay quái vật tràn ra ngoài. Trên thế giới vẫn có nhiều vùng đất hiểm địa được liệt vào hàng nguy hiểm, nếu đặt chân vào những nơi đó chắc cảm giác cũng khác thường thế này thôi, có điều tôi chưa từng ngờ ngay sát vách quê mình lại có một chốn như vậy.
 
-"Làm sao Hathara có thể tồn tại bình yên với cả bầy quái vật đông đúc ở sát ngay bên cạnh thế này được chứ?" tôi thì thầm.
+"Làm sao Hathara có thể bình yên vô sự khi nằm ngay cạnh cả một ổ quái vật đông nghịt thế này nhỉ?" tôi lẩm bẩm.
 
-Bà Gharb nghe thấy lời tôi và bảo, "Không thành vấn đề đâu. Lũ quái vật này sẽ không bao giờ bén mảng tới Hathara đâu."
+Bà Gharb nghe thấy liền bảo: "Không sao đâu. Lũ quái vật này chẳng bao giờ mò tới Hathara đâu."
 
-Nếu đúng là vậy thì thật yên tâm, nhưng tôi chẳng biết bà lấy bằng chứng gì để khẳng định như thế. Tôi thừa biết rằng phần lớn quái vật hùng mạnh đều có lãnh địa riêng mà chúng không bao giờ rời khỏi, thế nhưng ở đây cũng có đầy rẫy Goblin, Slime cùng những loài quái vật hạ cấp phổ biến khác. Việc chúng chỉ hoạt động giới hạn trong một khu vực nhất định quả là điều vô lý. Chúng sinh tồn dựa vào khả năng sinh sôi nảy nở hơn là sức mạnh cá thể, thế nên chúng luôn ráo riết bành trướng sang những vùng đất khác. Cái khái niệm chỉ chịu chôn chân ở một nơi là điều hoàn toàn xa lạ đối với chúng. Thỉnh thoảng Goblin cũng dựng nên những khu định cư riêng, nhưng nếu mang lòng thù địch với con người, chúng sẽ tìm cách đánh chiếm một ngôi làng của nhân loại rồi dọn vào ở sau khi bầy đàn đạt tới một quy mô nhất định. Lũ Slime thì còn đơn giản hơn thế nhiều. Chúng cứ liên tục phân chia nhân bản rồi tràn đi khắp mọi ngóc ngách. Do đó, việc chúng hiện diện ở đây đồng nghĩa với việc chúng hoàn toàn có thể dễ dàng tìm đường tràn xuống Hathara.
+Nếu thật vậy thì cũng yên tâm, nhưng chẳng biết bà dựa vào đâu mà khẳng định chắc nịch như thế. Tôi thừa biết đám quái vật cấp cao thường có lãnh địa riêng và chẳng mấy khi rời khỏi đó, nhưng trong khu rừng này còn có cả đống Goblin, Slime cùng đủ loại quái vật cấp thấp thường gặp khác. Bảo lũ này chỉ quanh quẩn trong một khu vực cố định thì thật vô lý hết sức. Chúng sinh tồn dựa vào tốc độ sinh sản chứ không phải sức mạnh cá nhân, nên lúc nào cũng tìm cách bành trướng sang các vùng đất mới. Trong đầu chúng làm gì có khái niệm chịu nằm yên một chỗ. Đôi khi Goblin cũng tự dựng hang ổ riêng, nhưng một khi bầy đàn đã đông đúc đến mức độ nhất định và có máu thù địch với con người, chúng sẽ tìm cách đánh chiếm một ngôi làng của con người để dọn vào ở ngay. Lũ Slime lại càng đơn giản hơn nữa. Chúng cứ thế phân chia nhân bản liên tục rồi tràn đi khắp mọi ngóc ngách. Thành thử việc chúng có mặt ở đây đồng nghĩa với việc chúng thừa sức lần mò xuống tận Hathara.
 
-Thế nhưng, dẫu bà Gharb và Capitan dường như thấu hiểu những thắc mắc của chúng tôi, họ vẫn chỉ lẳng lặng tiếp tục tiến sâu hơn vào khu rừng. Có vẻ như họ muốn ngầm bảo rằng khi nào tới nơi thì họ sẽ kể cho chúng tôi nghe. Lorraine và tôi nhìn nhau, bất lực lắc đầu rồi tiếp tục cất bước bám theo sau.
+Thế nhưng, dù bà Gharb và Capitan có vẻ đều hiểu rõ những thắc mắc trong lòng chúng tôi, cả hai vẫn chỉ lẳng lặng tiến sâu hơn vào rừng. Cứ như thể họ muốn ngầm bảo rằng cứ tới nơi đi rồi khắc biết. Lorraine và tôi nhìn nhau, bất lực lắc đầu rồi lại tiếp tục rảo bước theo sau.
