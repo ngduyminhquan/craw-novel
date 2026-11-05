@@ -40,7 +40,7 @@ Ma Cà Rồng Hoàng Hôn là vai phản diện khá nổi tiếng trong sách t
 
 Tuy hình tượng người anh hùng tiêu diệt Ma Cà Rồng Hoàng Hôn khác nhau rất nhiều tùy theo địa phương và độ tuổi khán giả, nhưng thường là một Thánh Kỵ Sĩ nào đó hoặc một người sử dụng Thần Lực. Hình tượng người anh hùng ấy vẫn trường tồn theo năm tháng bởi con Ma Cà Rồng nọ vốn bị gán cho là một tồn tại tà ác. Dù vậy, chẳng ai thực sự biết ai mới là người hạ gục Ma Cà Rồng Hoàng Hôn và chuyện diễn ra từ bao giờ, thế nên những vị anh hùng ấy rất có thể chỉ là sản phẩm từ sự thêu dệt, tưởng tượng mà thôi.
 
-Nếu đúng như vậy thì Ma Cà Rồng Hoàng Hôn hẳn đã bị đánh bại từ rất lâu, rất lâu về trước. Có điều, lối suy luận thông thường ấy lại có không ít lỗ hổng. Nếu con Ma Cà Rồng đó thực sự bị tiêu diệt thì thi thể hoặc tro tàn của nó hẳn phải được chôn cất trong một ngôi mộ nào đó trên mảnh đất này. Việc Nive vẫn tiếp tục truy lùng sinh vật này đồng nghĩa với việc cô chỉ coi ngôi mộ kia là đồ giả, một cái bẫy đánh lạc hướng mà thôi.
+Nếu đúng như vậy thì Ma Cà Rồng Hoàng Hôn hẳn đã bị đánh bại từ rất lâu, rất lâu về trước. Có điều, lối suy luận thông thường ấy lại có không ít lỗ hổng. Nếu con Ma Cà Rồng đó thực sự bị tiêu diệt thì thi thể hoặc tro tàn của nó hẳn phải được chôn cất trong một ngôi mộ nào đó trên mảnh đất này. Nive vẫn tiếp tục truy lùng sinh vật này, nghĩa là trong mắt cô ngôi mộ kia chẳng qua chỉ là đồ giả để đánh lạc hướng mà thôi.
 
 "Vâng, tôi đã nghe kể về nó không biết bao nhiêu lần rồi. Hồi nhỏ bọn tôi hay chơi trò đóng giả anh hùng với hiệp sĩ... dù tôi toàn là đứa kết cục phải nhận vai Ma Cà Rồng Hoàng Hôn."
 
@@ -78,7 +78,7 @@ Thế nhưng Nive lúc này thì...
 
 "Nếu ngài thực sự đạt tới cấp bậc đó, ngài Rentt," Sharl xen vào góp vui, "xin hãy ủng hộ cho cửa tiệm nhỏ của chúng tôi nhé. Lúc ấy chúng tôi tha hồ mà bán giá cao hơn rồi!"
 
-Sharl nói câu này nhiều khả năng chỉ là nửa đùa nửa thật, bởi thông thường một khi đạt tới Mithril Cấp, người ta sẽ được các cửa tiệm mời chào dùng hàng hóa của họ, bất kể là trang bị hay công cụ. Đây tuyệt đối chẳng phải là hành động xuất phát từ lòng tốt vô tư gì, bởi những món đồ được một mạo hiểm giả Mithril Cấp sử dụng thường bán rất chạy. Sự lui tới ủng hộ của họ kéo theo đó sẽ mang lại mối làm ăn lớn cho cửa tiệm. Thực tế mà nói, các cửa hàng cũng đang mượn danh mạo hiểm giả Mithril Cấp ở một chừng mực nhất định.
+Sharl nói câu này nhiều khả năng chỉ là nửa đùa nửa thật, bởi thông thường một khi đạt tới Mithril Cấp, người ta sẽ được các cửa tiệm mời chào dùng hàng hóa của họ, bất kể là trang bị hay công cụ. Đây tuyệt đối chẳng phải là hành động xuất phát từ lòng tốt vô tư gì, bởi những món đồ được một mạo hiểm giả Mithril Cấp sử dụng thường bán rất chạy. Nhờ có họ lui tới ủng hộ, cửa tiệm sẽ thu về mối làm ăn lớn. Thực tế mà nói, các cửa hàng cũng đang mượn danh mạo hiểm giả Mithril Cấp ở một chừng mực nhất định.
 
 Chỉ có một vấn đề là những mạo hiểm giả cấp bậc ấy lại cực kỳ hiếm hoi. Thực ra, nhiều người trong số họ còn ghét cay ghét đắng các nghĩa vụ xã giao đi kèm với địa vị và thường chọn cách sống khép kín. Giới mạo hiểm giả vốn có rất nhiều người như vậy.
 
@@ -118,7 +118,7 @@ Xét những chuyện đã diễn ra tới giờ cùng các bằng chứng có t
 
 "Theo truyền thuyết, Ma Cà Rồng Hoàng Hôn luôn đắm mình trong những cuộc tàn sát bạo tàn. Chúng khát máu, thích hủy diệt và tàn sát người vô tội. Nếu một sinh vật như thế thực sự tồn tại ngay tại đây vào lúc này, chẳng phải sẽ rất kỳ lạ nếu chúng ta không nghe phong phanh lấy một lời về những biến cố như vậy sao?"
 
-Chúng là sinh vật trong truyền thuyết, mang sức mạnh kinh hoàng và có khả năng nuốt chửng cũng như đặt cả một vương quốc dưới ách thống trị của mình. Dĩ nhiên thực hư của lời đồn ấy vẫn còn bỏ ngỏ, nhưng hoàn toàn có cơ sở để tin rằng Ma Cà Rồng Hoàng Hôn thường kéo theo sự tàn phá không nhỏ. Lũ Ma Cà Rồng tà ác trong truyền thuyết thường gieo rắc tai ương và thảm họa chỉ đơn giản bằng việc tồn tại.
+Chúng là sinh vật trong truyền thuyết, mang sức mạnh kinh hoàng và có khả năng nuốt chửng cũng như đặt cả một vương quốc dưới ách thống trị của mình. Dĩ nhiên thực hư của lời đồn ấy vẫn còn bỏ ngỏ, nhưng hoàn toàn có cơ sở để tin rằng Ma Cà Rồng Hoàng Hôn thường kéo theo sự tàn phá không nhỏ. Lũ Ma Cà Rồng tà ác trong truyền thuyết chỉ riêng chuyện tồn tại trên đời thôi cũng đủ gieo rắc tai ương và thảm họa rồi.
 
 Thế nhưng suốt mấy thế kỷ qua lại chẳng hề có ghi chép nào về bất kỳ sự vụ nào liên quan đến Ma Cà Rồng, hay thứ gì đại loại như vậy. Nếu con Ma Cà Rồng Hoàng Hôn này thực sự còn sống thì chắc chắn thảm họa hẳn đã phải xảy ra rồi chứ, đúng không? Tính đến lúc này, đó chính là bằng chứng lớn nhất bác bỏ sự tồn tại của Ma Cà Rồng Hoàng Hôn.
 
@@ -156,7 +156,7 @@ Nive gật đầu, rồi...
 
 Nive lắc đầu, đáp ngay mà chẳng mảy may do dự hay ngập ngừng lấy một giây: "Tôi hoàn toàn không biết."
 
-...Cô đùa tôi đấy à, quý cô? Bản thân cô còn chẳng biết, vậy mà lại đi nhờ tôi chuyện này sao...? Tôi chỉ muốn buột miệng hỏi câu đó, nhưng nhìn vẻ mặt nghiêm túc của Nive thì lại chẳng sao thốt nên lời phản đối.
+...Này cô ơi, cô đùa tôi đấy à? Bản thân cô còn chẳng biết, vậy mà lại đi nhờ tôi chuyện này sao...? Tôi chỉ muốn buột miệng hỏi câu đó, nhưng nhìn vẻ mặt nghiêm túc của Nive thì lại chẳng sao thốt nên lời phản đối.
 
 "Rồi, rồi," cô nói tiếp. "Tôi biết nhờ ngài chuyện như thế nghe hơi nực cười thật. Thế nên ban nãy tôi mới nói vậy còn gì? Rằng nếu ngài có đụng phải con Ma Cà Rồng nào mà mình không đánh lại, ngài Rentt, thì hãy liên lạc với tôi."
 

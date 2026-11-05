@@ -2,7 +2,7 @@
 
 "Vậy tôi xin phép..."
 
-Dứt lời, một người đàn ông bệ vệ với chiếc bụng phệ bước vào phòng. Bộ trang phục ông khoác trên người mang màu sắc rực rỡ, rất ra dáng thương nhân. Cả con người lẫn phong thái của ông đều toát lên vẻ bề thế của một nhân vật tầm cỡ. Nếu tôi đoán không nhầm, đây hẳn là người đứng đầu Thương hội Stheno.
+Dứt lời, một người đàn ông bệ vệ với chiếc bụng phệ bước vào phòng. Bộ đồ ông mặc mang màu sắc rực rỡ, rất ra dáng thương nhân. Cả con người lẫn phong thái của ông đều toát lên vẻ bề thế của một nhân vật tầm cỡ. Nếu tôi đoán không nhầm, đây hẳn là người đứng đầu Thương hội Stheno.
 
 Hay là tôi đoán sai nhỉ...? May sao, phỏng đoán của tôi lập tức có câu trả lời.
 
@@ -26,7 +26,7 @@ Nghe câu đùa ở vế cuối của tôi, vị thương nhân bật cười.
 
 Câu nói ấy khiến tôi không thể ngó lơ. Rốt cuộc lời đồn về mình đã lan xa tới mức nào rồi? Tôi quyết định hỏi kỹ thêm về chuyện này.
 
-"Lời đồn ư ngài? Đồn thế nào cơ? Thú thật là tôi khá mù mờ về mấy chuyện này. Chẳng hạn như chuyện người ngoài nghĩ gì về mình..."
+"Lời đồn sao ngài? Đồn thế nào cơ? Thú thật là tôi khá mù mờ về mấy chuyện này. Chẳng hạn như chuyện người ngoài nghĩ gì về mình..."
 
 Nếu dưới cái tên Rentt Faina thì có lẽ cũng nhiều người biết đấy, chứ với thân phận hiện tại của tôi...
 
@@ -46,7 +46,7 @@ Không phải tôi không muốn bắt chuyện, mà nán lại lâu thì nguy c
 
 Ra vậy... Thỉnh thoảng tôi cũng chạm mặt vài mạo hiểm giả... Chắc là có người đi ngang qua lúc tôi đang giao chiến rồi. Trong mê cung, không can dự vào chuyện của người lạ vốn là luật bất thành văn. Dù thế, chẳng ai cấm một mạo hiểm giả lén quan sát người khác cả. Tùy tình huống, có khi người ta còn thản nhiên đứng nhìn trận chiến của kẻ khác. Làm vậy tuy không lịch sự cho lắm, nhưng hoàn toàn không phạm luật. Đa số mạo hiểm giả cũng chẳng bận tâm, miễn sao kẻ đứng xem không vướng chân vướng tay mình.
 
-Chắc Sharl đã thu thập thông tin theo kiểu ấy, thông qua việc dò hỏi những mạo hiểm giả từng giáp mặt tôi ở đâu đó trên đường.
+Chắc Sharl đã thu thập thông tin theo kiểu ấy, bằng cách hỏi han những mạo hiểm giả từng giáp mặt tôi ở đâu đó trên đường.
 
 Nhưng mà... kín tiếng và ít bận tâm đến xung quanh ư? Đúng là tôi chẳng mấy khi bắt chuyện thật... trừ Sheila ở Hội ra. Còn thêm chú Dario bên khu mổ xẻ nữa, mà cũng chỉ vì chú ấy là người phụ trách ở đó thôi, chứ ngoài ra tôi quả thực chẳng nói chuyện với ai khác...
 
@@ -72,9 +72,9 @@ Còn về sự kiên định... Trông tôi toát ra vẻ như thế thật à? 
 
 Còn nhận xét bảo trông tôi không giống con người... Chà. Vốn dĩ tôi đâu còn là người nữa, dù dĩ nhiên tôi chẳng thể nói toạc ra được. Trong thoáng chốc, tôi từng tự hỏi liệu có nên thử lòng Sharl bằng một câu như thế để xem phản ứng của ông ra sao không. Nhưng làm vậy thì chuỗi ngày sống trong xã hội loài người của tôi sẽ chấm dứt ngay tắp lự. Dẫu chỉ là một lời đùa vui bâng quơ... tôi cũng không thể khinh suất đến mức ấy.
 
-"Hừm... Tóm lại là thiên hạ xem tôi như một kẻ vừa nhát gan vừa nguy hiểm sao? Đại khái thế nhỉ? Coi bộ tôi chẳng có điểm gì đáng khen rồi."
+"Hừm... Tóm lại là thiên hạ xem tôi như một kẻ vừa nhát gan vừa nguy hiểm sao? Đại khái thế nhỉ? Xem ra tôi chẳng có điểm gì đáng khen rồi."
 
-"Sao ngài lại nghĩ theo hướng đó chứ, thưa ngài Rentt...? Thôi thì... chuyện đó cứ tạm gác lại đã. Có điều, dẫu chúng tôi có đào xới kỹ đến đâu thì vẫn có một thứ không tài nào tra ra nổi," Sharl vừa nói vừa đặt tay lên trán, chầm chậm lắc đầu. Tôi nghiêng đầu khó hiểu.
+"Sao ngài lại nghĩ theo hướng đó chứ, thưa ngài Rentt...? Thôi thì... chuyện đó cứ tạm gác lại đã. Có điều, dẫu chúng tôi có dò tìm kỹ đến đâu thì vẫn có một thứ không tài nào tra ra nổi," Sharl vừa nói vừa đặt tay lên trán, chầm chậm lắc đầu. Tôi nghiêng đầu khó hiểu.
 
 "Hửm? Là chuyện gì thế ngài?"
 
@@ -82,7 +82,7 @@ Còn nhận xét bảo trông tôi không giống con người... Chà. Vốn d�
 
 "Hả...? Tôi, Rentt Faina này, mà lại là người Đế Quốc Rermutt á?", suýt nữa thì tôi đã buột miệng hỏi vậy. Cơ mà tôi từng nghe nói Lorraine và Sheila đã hợp sức che giấu bớt lai lịch của mình, nên cũng chẳng ngạc nhiên cho lắm.
 
-Sheila vốn có quyền xem hồ sơ ở Hội Mạo Hiểm Giả, hẳn cô đã sửa vài chỗ trong giấy tờ rồi đăng ký thông tin này dưới sự trợ giúp của Lorraine. Nếu tôi đoán không nhầm, chính vì tôi vốn thân thiết với Lorraine nên việc khai tôi cùng quê với cô sẽ hợp lý hơn cả. Mạo hiểm giả thường có lai lịch mập mờ, nhưng bản chất cái nghề này vốn vậy rồi.
+Sheila vốn có quyền xem hồ sơ ở Hội Mạo Hiểm Giả, hẳn cô đã sửa vài chỗ trong giấy tờ rồi đăng ký thông tin này nhờ Lorraine giúp sức. Nếu tôi đoán không nhầm, chính vì tôi vốn thân thiết với Lorraine nên người ngoài càng dễ nghĩ tôi cùng quê với cô. Mạo hiểm giả thường có lai lịch mập mờ, nhưng bản chất cái nghề này vốn vậy rồi.
 
 Tôi hoàn toàn có thể nói thật cho Sharl nghe, nhưng trước mặt một thương nhân thì đâu thể hớ hênh như vậy được. Tôi có hơi kỳ quặc thật, nhưng hiếm ai lại đi điều tra người khác ráo riết đến thế. May mà hồi tạo dựng thân phận mới cho tôi, chúng tôi đã lo liệu chu toàn từng li từng tí. Thậm chí chuyện tôi giáp mặt một thương nhân thế này cũng nằm trong số vô vàn kịch bản mà Lorraine từng tính tới.
 
@@ -98,7 +98,7 @@ Thế rồi, tôi kể thêm về bầu không khí cùng cái mùi đặc trưn
 
 "Ra vậy. Hóa ra là thế..."
 
-Chỉ nhìn thoáng qua thì khó mà biết vị thương nhân có tin lời tôi hay không. Nhưng coi bộ những gì tôi nói cũng đủ sức thuyết phục đôi phần. Tôi đã trả lời kha khá câu hỏi của ông, và mong là mình không phạm phải sai lầm chết người nào...
+Chỉ nhìn thoáng qua thì khó mà biết vị thương nhân có tin lời tôi hay không. Nhưng xem chừng những gì tôi nói cũng khá thuyết phục. Tôi đã trả lời kha khá câu hỏi của ông, và mong là mình không phạm phải sai lầm chết người nào...
 
 Tôi thầm nhủ lát nữa phải hỏi Lorraine xem mình ứng khẩu như vậy đã ổn thỏa chưa.
 

@@ -28,7 +28,7 @@ Tôi điềm tĩnh gật đầu: "Đúng vậy. Nhưng với số tiền hiện 
 
 Tôi chẳng hề nói đùa chút nào. Tôi vẫn nhớ như in ngày hôm ấy.
 
-Đó là chiếc túi có sức chứa dư ra bằng chừng một nửa chiếc túi hiện tại của tôi, và được bán với giá tương đương. Lúc ấy tôi thừa sức mua được, ngặt nỗi giờ có nghĩ lại thì cũng đã muộn rồi.
+Đó là chiếc túi có sức chứa chỉ bằng khoảng một nửa chiếc túi hiện tại của tôi, giá bán cũng tương ứng với cỡ túi. Lúc ấy tôi đủ khả năng mua được, ngặt nỗi giờ có nghĩ lại thì cũng đã muộn rồi.
 
 Giữa lúc tôi còn đang mải nghĩ, Nive lên tiếng phá tan sự im lặng bằng một lời đề nghị.
 
@@ -124,7 +124,7 @@ Dù tôi có muốn tránh dây dưa với Nive đến mức nào đi nữa, ng�
 
 Nghĩ lại toàn bộ chuỗi sự việc này, tôi hiểu Nive căm ghét Ma Cà Rồng đến mức sẵn sàng dàn dựng cả một màn kịch lừa gạt công phu đến cỡ này. Con người Nive Maris vốn là như thế. Hơn ai hết, cô có thừa khả năng nắm bắt và đoán trước hành động của người khác: rằng một người sẽ làm gì khi đối mặt với tình huống nhất định, cùng những chi tiết nhỏ nhặt tương tự.
 
-Ngay cả bản chất lời nhờ vả của cô cũng vậy. Việc cô chỉ đưa chuyện đó ra sau khi giá cả các bộ phận Tarasque đã chốt xong xuôi... Cô quả thực quá cao tay. Trước đó ấn tượng của tôi về cô đa phần là tiêu cực, và tôi sẽ chẳng đời nào đồng ý dù cô có năn nỉ đi nữa. Nói đúng hơn thì tôi sẽ chỉ phớt lờ, hoặc thẳng thừng từ chối hợp tác. Nhưng giờ đây...
+Chuyện cô nhờ vả tôi cũng thế. Đợi chốt xong giá các bộ phận Tarasque rồi mới mở miệng nhắc tới... Cô quả thực quá cao tay. Trước đó ấn tượng của tôi về cô đa phần là tiêu cực, và tôi sẽ chẳng đời nào đồng ý dù cô có năn nỉ đi nữa. Nói đúng hơn thì tôi sẽ chỉ phớt lờ, hoặc thẳng thừng từ chối hợp tác. Nhưng giờ đây...
 
 Cô đã trả cho tôi một món tiền lớn đến thế. Tôi thấy ít nhất mình cũng nên lắng nghe lời nhờ vả đơn giản ấy. Dù sao cũng chỉ là một lời nhờ vả thôi mà. Ai ngờ nó lại đơn giản đến thế...
 
@@ -134,7 +134,7 @@ Có điều, Nive lại rất giống một con dã thú, theo nghĩa cô chẳn
 
 Thành thử rốt cuộc tôi nhận ra né tránh cô cũng bằng thừa. Nếu vậy, tôi cứ nghe cô nói hết xem sao...
 
-Nive lập tức nối lời tôi: "Cũng chẳng có gì to tát đâu mà. Cơ mà nói thế thì ngài chẳng tin đâu nhỉ? Vậy để tôi giải thích nhé, ngài Rentt."
+Nive lập tức chớp lấy cơ hội nói ngay: "Cũng chẳng có gì to tát đâu mà. Cơ mà nói thế thì ngài chẳng tin đâu nhỉ? Vậy để tôi giải thích nhé, ngài Rentt."
 
 Cách cô nói cứ như thể cô lại hiểu lầm tôi thêm lần nữa và đánh giá tôi cao hơn thực tế. Nhưng sự thật đâu phải thế. Nghĩ lại thì, chuyện vừa xảy ra ban nãy khéo khi cũng chẳng phải là hiểu lầm. Nói đúng hơn thì tôi có cảm giác Nive vốn đã định sẵn con số cuối cùng ngay từ đầu, và chỉ từ từ nâng giá lên để dắt mũi tôi mà thôi.
 
@@ -176,7 +176,7 @@ Chẳng hạn như chiếc phi thuyền nhỏ kia. Dù vậy, tôi chẳng việ
 
 "Nghĩa là...?"
 
-"Con Ma Cà Rồng mà tôi đang săn đuổi ấy mà? Nó là một tồn tại già cỗi, à không, cổ xưa. Một thực thể khiến người đời khiếp sợ tột cùng—con Ma Cà Rồng duy nhất đứng trên đỉnh cao nhất của toàn bộ loài Ma Cà Rồng..."
+"Con Ma Cà Rồng mà tôi đang săn đuổi ấy à? Nó là một kẻ đã sống rất lâu, à không, phải gọi là cổ xưa mới đúng. Một thực thể khiến người đời khiếp sợ tột cùng, con Ma Cà Rồng duy nhất đứng trên đỉnh cao nhất của toàn bộ loài Ma Cà Rồng..."
 
 "Chính là Ma Cà Rồng Hoàng Hôn đấy."
 

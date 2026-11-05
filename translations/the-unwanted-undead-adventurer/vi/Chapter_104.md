@@ -68,7 +68,7 @@ Chuyện gì sẽ xảy ra nếu thân phận Ma Cà Rồng của tôi bị vạ
 
 Tôi chẳng tài nào nắm bắt nổi bầu không khí lúc này. Nive trông... rất bình thường. Nói đúng hơn thì trông cô vô cùng vui vẻ. Tôi cảm giác như mình đang nhìn vào một vực thẳm không đáy. Vậy mà cô chẳng hề để lộ chút thù địch hay cảnh giác nào trước tôi... Vậy là tôi chưa bị lộ, hay thế nào đây?
 
-Trước mắt tôi chỉ là một cô gái trẻ đang nhìn mình, không hơn không kém. Thế nhưng, tôi có cảm giác mình chỉ cần lao vọt tới thu hẹp khoảng cách trong chớp mắt, túm lấy cổ áo cô mà hỏi cho ra lẽ: "Rốt cuộc là lộ hay chưa?!" Cơ mà làm thế thì tôi cầm chắc cái chết.
+Trước mắt tôi chỉ là một cô gái trẻ đang nhìn mình, không hơn không kém. Thế nhưng, tôi có cảm giác mình có thể thu hẹp khoảng cách giữa hai người ngay trong chớp mắt, túm lấy cổ áo cô mà hỏi cho ra lẽ: "Rốt cuộc là lộ hay chưa?!" Cơ mà làm thế thì tôi cầm chắc cái chết.
 
 Chắc chẳng còn cách nào khác ngoài việc tiếp tục trò chuyện. Nếu có bị lộ thì tới đâu hay tới đó vậy.
 
@@ -104,13 +104,13 @@ Tôi muốn hỏi sao cô biết, nhưng bụng đã tự đoán được phần
 
 Myullias liền liếc nhanh sang Nive, có vẻ lúng túng chẳng biết giải thích hành động của mình ra sao. Thấy vậy, Nive chỉ bật cười.
 
-"À, không có gì đâu, xin lỗi ngài vì chuyện vừa rồi nhé. Đúng như ngài nói đấy, ngài Rentt, tôi cũng khá nổi tiếng mà nhỉ? Thành ra lúc nào cũng có kẻ nhăm nhe khử tôi! Đòn tấn công bình thường thì tôi tự lo được, nhưng mấy thứ như độc dược thì vẫn phải dè chừng chứ. Thế nên hôm nay Thánh Nữ của chúng ta, Tiểu thư Myullias, mới có mặt ở đây... À thì, nói đúng hơn là tôi nhờ cô ấy đi cùng để thanh tẩy xung quanh ấy mà. Tôi cũng dùng được Thần Lực, nhưng mấy khoản như thanh lọc với ban phước thì dở tệ. Có một phụ tá từ Giáo Hội Lobelia đi cùng đúng là đỡ biết bao nhiêu việc! Đổi lại, tôi giỏi khoản phát hiện Ma Cà Rồng lắm nhé. Bọn chúng vốn sợ Thần Lực mà, gặp con nào yếu yếu thì chỉ cần nện Thần Lực vào một phát là bùm! Lên thiên đường luôn."
+"À, không có gì đâu, xin lỗi ngài vì chuyện vừa rồi nhé. Đúng như ngài nói đấy, ngài Rentt, tôi cũng khá nổi tiếng mà nhỉ? Thành ra lúc nào cũng có kẻ nhăm nhe khử tôi! Đòn tấn công bình thường thì tôi tự lo được, nhưng mấy thứ như độc dược thì vẫn phải dè chừng chứ. Thế nên hôm nay Thánh Nữ của chúng ta, Tiểu thư Myullias, mới có mặt ở đây... À thì, nói đúng hơn là tôi nhờ cô ấy đi cùng để thanh tẩy xung quanh ấy mà. Tôi cũng dùng được Thần Lực, nhưng mấy khoản như thanh lọc với ban phước thì dở tệ. Có một phụ tá từ Giáo Hội Lobelia đi cùng đúng là đỡ biết bao nhiêu việc! Còn khoản phát hiện Ma Cà Rồng thì tôi giỏi lắm nhé. Bọn chúng vốn sợ Thần Lực mà, gặp con nào yếu yếu thì chỉ cần nện Thần Lực vào một phát là bùm! Lên thiên đường luôn."
 
 Nive nói.
 
 Xem chừng Nive rất thích nói. Dù lời lẽ có phần tùy tiện và thỉnh thoảng hơi tưng tửng, nhưng những điều cô nói ra lại quan trọng hơn nhiều...
 
-Myullias là Thánh Nữ của Giáo Hội Lobelia. Việc Nive có thể nhờ một nhân vật như vậy hộ tống riêng đủ cho thấy tầm ảnh hưởng và thế lực của cô lớn đến mức nào. Lại còn câu nói cô rất giỏi việc của mình nữa chứ...
+Myullias là Thánh Nữ của Giáo Hội Lobelia. Nội chuyện Nive có thể nhờ một nhân vật như vậy đi theo hộ tống riêng cũng đủ cho thấy tầm ảnh hưởng và thế lực của cô lớn đến mức nào. Lại còn câu nói cô rất giỏi việc của mình nữa chứ...
 
 Nhưng Ma Cà Rồng lại sợ Thần Lực ư? Bản thân tôi vẫn mang trong mình Thần Lực, vậy mà tôi có làm sao đâu... Trước giờ tôi đã nghe chuyện như thế bao giờ chưa nhỉ? Hình như là chưa...
 
@@ -154,7 +154,7 @@ Nhưng rõ ràng chẳng cần nói cũng biết, đùng một cái lao vào xé
 
 Dĩ nhiên, một mạo hiểm giả đủ sức săn giết Ma Cà Rồng thì đâu dễ gì bị bắt. Nhưng nếu thực sự vô tội và không có gì phải giấu giếm, nhiều khả năng họ sẽ hợp tác với nhà chức trách.
 
-"Thế nên... nếu ngài vẫn chưa tin, hay là thử một lần xem sao nhé? Chỉ một lần thôi! Trải nghiệm này hiếm có lắm đấy! Nói sao nhỉ... nó gần giống như được thần linh ban phước ấy? Na ná thế? Đại loại vậy! Thường thì người bình thường thấy thế là mừng rơn lên ngay. Chắc người bình thường ai cũng thế nhỉ? Họ cứ nghĩ Thần Lực là thứ tốt lành, mang lại phước lành với hạnh phúc này nọ. Trong khi mấy giáo phái suốt ngày dắt theo các vị thánh đi loanh quanh thì lại chẳng mấy khi ban phước cho ai! Nhờ vậy mà việc của tôi mới dễ dàng hơn hẳn đấy! Cứ việc ban phước cho người đi đường thôi. Ấy, không, không! Tôi hoàn toàn không có ý chỉ trích Giáo Hội Lobelia đâu nhé... đúng không nè?"
+"Thế nên... nếu ngài vẫn chưa tin, hay là thử một lần xem sao nhé? Chỉ một lần thôi! Trải nghiệm này hiếm có lắm đấy! Nói sao nhỉ... nó gần giống như được thần linh ban phước ấy? Na ná thế? Đại loại vậy! Thường thì người bình thường thấy thế là mừng rơn lên ngay. Chắc người bình thường ai cũng thế nhỉ? Họ cứ nghĩ Thần Lực là thứ tốt lành, mang lại phước lành với hạnh phúc này nọ. Trong khi mấy giáo phái suốt ngày dắt theo các vị thánh đi loanh quanh thì lại chẳng mấy khi ban phước cho ai! Nhờ vậy mà việc của tôi mới dễ dàng hơn hẳn đấy! Cứ việc ban phước cho người đi đường thôi. Ấy, không, không! Tôi hoàn toàn không có ý chỉ trích Giáo Hội Lobelia đâu nhé... phải không nào?"
 
 Sắc mặt của Myullias tối sầm lại thấy rõ khi Nive tiếp tục bài độc thoại dông dài. Thoạt nhìn qua thì khó nhận ra, nhưng rõ ràng Myullias đang dần mất hết hứng thú với nhiệm vụ này.
 
@@ -200,7 +200,7 @@ Một câu thể hiện lòng tự tôn của con người. Ít nhất thì từ
 
 Nive liền đáp.
 
-"Dù sao ngài cũng là thương nhân mà. Gầy dựng được cơ ngơi lớn cỡ này, ắt hẳn ngài đã trải qua không ít chuyện. Nhưng ngài biết đấy, thần linh đâu có hẹp hòi đến thế, đúng không? Chắc chắn các ngài sẽ chẳng đày đọa ai xuống địa ngục chỉ vì chút... mánh khóe làm ăn đâu. Phải không, Tiểu thư Myullias?"
+"Dù sao ngài cũng là thương nhân mà. Gầy dựng được cơ ngơi lớn cỡ này, ắt hẳn ngài đã trải qua không ít chuyện. Cơ mà tôi nghĩ thần linh đâu có hẹp hòi đến thế, đúng không? Chắc chắn các ngài sẽ chẳng đày đọa ai xuống địa ngục chỉ vì chút... mánh khóe làm ăn đâu. Phải không, Tiểu thư Myullias?"
 
 Nive nhìn sang người bạn đồng hành. Myullias nhìn lại cô, ánh mắt vừa bán tín bán nghi vừa tò mò. Có lẽ chính Myullias cũng chẳng biết Nive có thật sự tin vào những lời mình vừa nói hay không.
 

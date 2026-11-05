@@ -14,7 +14,7 @@ Dạo gần đây có bao nhiêu thứ muốn mua, đâm ra tôi lúc nào cũng
 
 Chuyện bán nguyên liệu hoàn toàn có thể chỉ là cái cớ để gọi tôi tới đây. Nhưng xem ra tôi nhầm rồi.
 
-"Mua chứ, tôi mua hết mà. Cứ giao dịch bình thường như mọi khi thôi," Nive nhanh nhảu đáp. "Các bộ phận của Tarasque đắt giá chẳng kém gì kim loại quý đâu, ngài biết không? Nhất là tuyến độc ấy. Thứ đó dùng trị Ma Cà Rồng thì hiệu nghiệm cực kỳ."
+"Mua chứ, tôi mua hết mà. Cứ giao dịch bình thường như mọi khi thôi," Nive nhanh nhảu đáp. "Các bộ phận của Tarasque đắt giá chẳng kém gì kim loại quý đâu nhé! Nhất là tuyến độc ấy. Thứ đó dùng trị Ma Cà Rồng thì hiệu nghiệm cực kỳ."
 
 "Độc Tarasque có tác dụng với Ma Cà Rồng sao...?"
 
@@ -82,7 +82,7 @@ Thế nhưng tại thị trấn Maalt, ngay cả mạng sống của Sharl, ngư
 
 Dẫu vậy, giá trị một mạng người thường do các lãnh chúa quý tộc cai trị vùng đất định đoạt. Trong hoàn cảnh bình thường, miễn là hai người có vị thế tương đương trong xã hội thì ngay cả nghề nghiệp của họ cũng chẳng làm số tiền này thay đổi là bao.
 
-Nhưng đương nhiên, tác động xã hội từ cái chết của mỗi người có thể khác nhau. Nếu Sharl mất mạng, rồi tôi cũng chết ngay sau đó, tôi cho rằng sự khác biệt sẽ rất lớn. Song tôi chưa bao giờ nghĩ nhiều về chuyện ấy. Mọi thứ sẽ khác đi nếu người qua đời là một quý tộc nào đó, nhưng chắc đó là câu chuyện của dịp khác rồi.
+Nhưng đương nhiên, sức ảnh hưởng từ cái chết của mỗi người trong xã hội lại không giống nhau. Giả sử Sharl mất mạng, rồi ngay sau đó đến lượt tôi bỏ mạng, hẳn sự khác biệt sẽ lớn lắm. Song tôi chưa bao giờ nghĩ nhiều về chuyện ấy. Mọi thứ sẽ khác đi nếu người qua đời là một quý tộc nào đó, nhưng chắc đó là câu chuyện của dịp khác rồi.
 
 "Giờ thì," Nive nói tiếp. "Cứ đặt mức bồi thường cho trường hợp giả định ngài Rentt mất mạng là 50 đồng vàng đi. Dù sao thì tôi cũng đã suýt làm ra chuyện như vậy mà. Ngay cả khi mọi sự kết thúc êm thấm không có chuyện gì xảy ra, thì việc tôi nói dối và giở trò lừa lọc cũng đâu thay đổi được gì nhiều, đúng không? Vậy nên hãy cộng thêm cả khoản đó vào toàn bộ vụ bồi thường này nữa nhé..."
 
@@ -120,7 +120,7 @@ Nhưng. Nhưng nếu thế thì... không. Còn có chuyện kia nữa...
 
 Trong lúc tôi vẫn mải nghĩ ngợi, cuốn vào những cuộc tranh luận và rắc rối trong đầu, Nive lại càng hiểu lầm tình hình hơn nữa. Cô giơ hai tay lên trời, vừa làm vậy vừa bật cười.
 
-"Ngài Rentt! Riêng khoản thương lượng thì ngài đúng là không phải vừa đâu nhỉ? Rồi, được rồi, tôi hiểu rồi. Tôi sẽ nhân đôi thêm lần nữa. Hai ngàn đồng vàng! Dù ngài có ngẫm nghĩ thêm bao nhiêu đi nữa, ngài Rentt à, tôi cũng chẳng còn đồng nào để đưa thêm đâu. Dù sao thì sau cuộc gặp gỡ nho nhỏ giữa chúng ta ở đây, ngay cả tôi cũng còn phải sống tiếp cuộc đời của mình nữa, ngài biết mà?"
+"Ngài Rentt! Riêng khoản thương lượng thì ngài đúng là không phải vừa đâu nhỉ? Rồi, được rồi, tôi hiểu rồi. Tôi sẽ nhân đôi thêm lần nữa. Hai ngàn đồng vàng! Dù ngài có ngẫm nghĩ thêm bao nhiêu đi nữa, ngài Rentt à, tôi cũng chẳng còn đồng nào để đưa thêm đâu. Dù sao thì sau buổi gặp gỡ nho nhỏ này, đến tôi cũng còn phải giữ lại chút ít để sống tiếp nữa chứ!"
 
 Nói vậy, Nive xếp ngay ngắn 20 đồng bạch kim lên mặt bàn.
 
@@ -132,8 +132,8 @@ Tôi kinh ngạc, sững sờ, choáng ngợp. Tận sâu trong lòng và tâm k
 
 Thế nhưng bề ngoài tôi vẫn giữ vẻ mặt điềm nhiên. Ngay lúc này đây, hơn bao giờ hết, tôi tự đốc thúc bản thân phải thật vững vàng. Tôi không cho phép bất kỳ phản ứng nào lộ ra trên nét mặt, giữ vững một ý chí sắt đá. Dù rằng Nive có vẻ vẫn chẳng hiểu nổi tôi đang làm cái gì.
 
-"Không ngờ ngài lại là Đồng Cấp đấy... Chẳng mấy ai giữ được bình tĩnh và điềm đạm khi nhìn thấy ngần này đồng bạch kim đâu, ngài biết không? Chà, có lẽ nếu ngài là Ma Cà Rồng thì được, nhưng ngài đâu phải thế, ngài Rentt. Quả đúng như tôi nghĩ, ngài đúng là một người hiếm có thật đấy nhỉ..." Nive nói, với vẻ tán thưởng kỳ lạ.
+"Không ngờ ngài lại là Đồng Cấp đấy... Chẳng mấy ai giữ được bình tĩnh và điềm đạm khi nhìn thấy ngần này đồng bạch kim đâu nhé? Chà, có lẽ nếu ngài là Ma Cà Rồng thì được, nhưng ngài đâu phải thế, ngài Rentt. Quả đúng như tôi nghĩ, ngài đúng là một người hiếm có thật đấy nhỉ..." Nive nói, với vẻ tán thưởng kỳ lạ.
 
 Myullias, người lúc này đang đứng cạnh Nive, cũng đang nhìn chằm chằm vào chiếc bàn, miệng há hốc kinh ngạc.
 
-Về phần Sharl, ông chỉ thở dài và lắc đầu, vẻ ngán ngẩm lộ rõ trong từng cử chỉ. Có lẽ sự ngán ngẩm đó là nhắm vào tôi, người mạo hiểm giả dù được tận mắt chứng kiến khối tài sản kinh người của Nive, nhưng vẫn chỉ đứng đó khá im lặng...
+Về phần Sharl, ông chỉ thở dài và lắc đầu, vẻ ngán ngẩm lộ rõ trong từng cử chỉ. Có lẽ sự ngán ngẩm đó là nhắm vào tôi, người mạo hiểm giả dù vừa tận mắt chứng kiến độ giàu có kinh người của Nive mà vẫn chỉ đứng im thin thít...

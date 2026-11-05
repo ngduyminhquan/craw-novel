@@ -54,21 +54,21 @@ Nive sớm nhận ra tôi đã nắm bắt được quy luật ấy.
 
 Chuyện đó... Tôi biết phải nghĩ sao về chuyện đó đây? Có khi những mạo hiểm giả ấy thực sự chỉ bỏ mạng trong mê cung thôi cũng nên.
 
-Vốn dĩ chuyện người ta mất mạng trong mê cung đúng là đáng buồn và bất hạnh thật, nhưng chẳng có gì lạ lẫm. Với các mạo hiểm giả mới thì lại càng đúng, bởi tỷ lệ và tần suất tử vong của họ vốn cao hơn đôi chút. Cho dù số người chết có nhỉnh hơn một chút, người ta cũng có lý do để cho rằng họ chỉ đơn thuần là đánh giá quá cao thực lực của mình rồi tiến vào quá sâu.
+Vốn dĩ chuyện người ta mất mạng trong mê cung đúng là đáng buồn và bất hạnh thật, nhưng chẳng có gì lạ lẫm. Với đám mạo hiểm giả mới vào nghề thì lại càng vậy, vì chuyện họ bỏ mạng vốn xảy ra nhiều và thường xuyên hơn một chút. Cho dù số người chết có nhỉnh hơn bình thường, người ta cũng dễ nghĩ rằng chẳng qua họ tự lượng sức mình quá cao rồi tiến vào quá sâu mà thôi.
 
 Xét thực tế thì khả năng ấy hoàn toàn có thể xảy ra. Vì vậy, tôi bèn hỏi Nive về điểm này.
 
 "Thế nhưng thường thì Hội Mạo Hiểm Giả chỉ coi đây là chuyện xảy ra như cơm bữa. Hội đâu xem đó là vấn đề gì to tát, đúng không?"
 
-"Đúng là có chuyện đó thật. Nhưng tôi phát hiện ra các chi nhánh Hội đã nắm được vài manh mối đấy. Chẳng qua là họ giữ kín những phát hiện này thôi. Thực ra, người ta đã phát hiện ra một số lượng Thi Quỷ nhất định tại những thị trấn đó, và tất nhiên là đã săn lùng tiêu diệt hết. Một khi ngài lên tới Kim Cấp, có vài hồ sơ trong tài liệu của Hội Mạo Hiểm Giả mà ngài được quyền xem đấy, ngài biết chứ? Thế nên vấn đề nằm ở chỗ này... Tuy trong các sổ sách ấy có vài ghi chép về những con Ma Cà Rồng bị tiêu diệt, nhưng kỳ lạ là lại chẳng tìm thấy bất kỳ ghi chép nào về những con Thi Quỷ đã bị hạ. Như ngài biết đấy, Thi Quỷ là quyến thuộc, là thuộc hạ của Ma Cà Rồng. Không có Ma Cà Rồng thì làm sao có Thi Quỷ được. Chưa hết đâu, điểm mấu chốt nhất là ở đây này. Ngài thấy đấy, diện mạo cùng trang bị của những con Thi Quỷ đó, đúng không? Chẳng phải ai khác mà chính là những mạo hiểm giả mới đăng ký từng mất tích. Chuyện là như thế đó."
+"Đúng là có chuyện đó thật. Nhưng tôi phát hiện ra các chi nhánh Hội đã nắm được vài manh mối đấy. Chẳng qua là họ giữ kín những phát hiện này thôi. Thực ra, người ta đã phát hiện một số lượng Thi Quỷ nhất định tại những thị trấn đó, và tất nhiên là đã săn lùng tiêu diệt hết. Một khi lên tới Kim Cấp, người ta sẽ được quyền xem một số hồ sơ trong tài liệu của Hội Mạo Hiểm Giả đấy. Vấn đề nằm ở chỗ này này... Tuy trong sổ sách có ghi chép vài vụ tiêu diệt Ma Cà Rồng, nhưng lạ cái là chẳng thấy dòng nào ghi về đám Thi Quỷ đã bị hạ cả. Ngài cũng biết rồi đấy, Thi Quỷ là quyến thuộc, là thuộc hạ của Ma Cà Rồng. Không có Ma Cà Rồng thì làm sao có Thi Quỷ được. Mà chưa hết đâu, chuyện đáng nói nhất nằm ở đây cơ: diện mạo cùng trang bị của đám Thi Quỷ đó chẳng phải ai khác, mà chính là những mạo hiểm giả mới đăng ký từng mất tích kia. Sự tình là thế đấy."
 
-Tôi cảm thấy việc Hội Mạo Hiểm Giả giữ kín toàn bộ thông tin này quả là một tội lỗi nặng nề... Nhưng nghĩ lại, đó đúng là điều họ sẽ làm.
+Tôi cảm thấy Hội Mạo Hiểm Giả giữ kín toàn bộ thông tin này quả là mang tội lớn... Nhưng nghĩ lại, đó đúng là kiểu hành xử của họ.
 
 Nive như đọc được suy nghĩ của tôi, nói tiếp: "Phải rồi... Nếu ngài đã biết chừng đó, hẳn ngài cũng hiểu vì sao Hội lại im lặng. Xét cho cùng, nếu sự tồn tại của Thi Quỷ được xác nhận, hàng đống mạo hiểm giả sẽ đổ xô về những thị trấn ấy. Trong một thời gian, việc làm ăn buôn bán ở thị trấn sẽ phất lên thật, nhưng làn sóng mạo hiểm giả tràn vào này sẽ chỉ cướp mất công việc của những người bản địa, khiến họ phải ngồi không, dù chính họ mới là những người thường xuyên làm việc cho Hội. Cho nên các chi nhánh Hội im hơi lặng tiếng cũng là điều đương nhiên."
 
 Quả là chuyện tồi tệ, nhưng nghĩ đi cũng phải nghĩ lại, Hội Mạo Hiểm Giả xưa nay đâu phải một tổ chức cao quý hay hoàn toàn đứng đắn về mặt đạo đức. Chi nhánh Hội tại Maalt hoạt động có phần trong sạch hơn đôi chút, đúng vậy, nhưng ở các thị trấn khác thì chưa chắc đã được như thế. Hội quán ở mỗi thị trấn đều tự định ra nề nếp riêng của mình.
 
-Những chi nhánh bị người ta ghét bỏ, những kẻ lạm quyền, rồi cả những chi nhánh gần như chẳng có chút tiếng nói hay quyền lực nào... Đủ mọi kiểu đều có cả. Hội Mạo Hiểm Giả ít nhiều cũng là nơi tụ tập của đám người thô lỗ giang hồ, nên tôi nghĩ chuyện đó cũng khó tránh khỏi. Dẫu thế, việc mọi chi nhánh rốt cuộc vẫn duy trì được khả năng cung cấp dịch vụ nhất định cũng là điều khá đáng nể... hay là không nhỉ?
+Những chi nhánh bị người ta ghét bỏ, những kẻ lạm quyền, rồi cả những chi nhánh gần như chẳng có chút tiếng nói hay quyền lực nào... Đủ mọi kiểu đều có cả. Hội Mạo Hiểm Giả ít nhiều cũng là nơi tụ tập của đám người thô lỗ giang hồ, nên tôi nghĩ chuyện đó cũng khó tránh khỏi. Dẫu thế, chuyện chi nhánh nào rốt cuộc vẫn làm tròn được phần việc cơ bản của mình cũng là điều khá đáng nể... hay là không nhỉ?
 
 Xin hãy làm tròn công việc của mình đi chứ, các Hội Mạo Hiểm Giả trên khắp thế gian này...
 
@@ -98,7 +98,7 @@ Có điều...
 
 Trông tôi kỳ quặc đến thế sao?
 
-"Tôi tới thị trấn này để tìm một con Ma Cà Rồng," Nive nhanh chóng đáp lời tôi. "Chà, ngài biết đấy, người ở thị trấn này thì ai cũng hơi kỳ quặc cả, cơ mà trong số đó lại có một người thật sự cực kỳ kỳ quặc. Chẳng phải ai khác ngoài ngài đâu, ngài Rentt. Ngài mới tới thị trấn này gần đây, thăng lên Đồng Cấp chỉ trong thời gian ngắn, lại còn một mình hạ gục cả một con Tarasque. Tôi nghĩ ngài hiểu ý tôi đang nói gì rồi chứ? Bảo là bất khả thi thì không hẳn, đúng vậy, nhưng mạo hiểm giả mới mà làm được chuyện cỡ đó ư? Cực kỳ hiếm đấy. Nhưng nếu ngài là Ma Cà Rồng thì những chiến tích ấy lại chẳng có gì quá sức. Đã thế, ngài chỉ hoạt động vào những khung giờ thị trấn và đường phố vắng người qua lại. Hành vi rất phổ biến ở Ma Cà Rồng, đúng không? Chúng tránh tiếp xúc với con người và hiếm khi ra ngoài vào ban ngày. Chiếc mặt nạ, tấm áo choàng, làn da tái nhợt của ngài... Nếu nghĩ tới chuyện chiếc mặt nạ của ngài có thể dùng để che giấu nanh nhọn trong miệng mà xem... Thế nên, càng nhìn ngài, tôi lại càng thấy ngài kỳ lạ... Cơ mà xem ra tôi đã nhầm rồi, đành phải xin lỗi ngài vậy."
+"Tôi tới thị trấn này để tìm một con Ma Cà Rồng," Nive nhanh chóng đáp lời tôi. "Chà, người ở thị trấn này vốn ai cũng hơi kỳ quặc cả, cơ mà trong số đó lại có một người thật sự cực kỳ kỳ quặc. Chẳng phải ai khác ngoài ngài đâu, ngài Rentt. Ngài mới tới thị trấn này gần đây, thăng lên Đồng Cấp chỉ trong thời gian ngắn, lại còn một mình hạ gục cả một con Tarasque. Tôi nghĩ ngài hiểu ý tôi đang nói gì rồi chứ? Bảo là bất khả thi thì không hẳn, đúng vậy, nhưng mạo hiểm giả mới mà làm được chuyện cỡ đó ư? Cực kỳ hiếm đấy. Nhưng nếu ngài là Ma Cà Rồng thì những chiến tích ấy lại chẳng có gì quá sức. Đã thế, ngài chỉ hoạt động vào những khung giờ thị trấn và đường phố vắng người qua lại. Hành vi rất phổ biến ở Ma Cà Rồng, đúng không? Chúng tránh tiếp xúc với con người và hiếm khi ra ngoài vào ban ngày. Chiếc mặt nạ, tấm áo choàng, làn da tái nhợt của ngài... Nếu nghĩ tới chuyện chiếc mặt nạ của ngài có thể dùng để che giấu nanh nhọn trong miệng mà xem... Thế nên, càng nhìn ngài, tôi lại càng thấy ngài kỳ lạ... Cơ mà xem ra tôi đã nhầm rồi, đành phải xin lỗi ngài vậy."
 
 Chà, tôi hoàn toàn bị thuyết phục rồi. Nive nói đúng hết. Đúng toàn bộ! Cô thực sự đã bỏ công tìm hiểu kỹ lưỡng và nhắm thẳng vào tôi. Giờ thì tôi đã hiểu tại sao cô lại mang danh hiệu Thợ Săn Ma Cà Rồng rồi.
 
@@ -108,7 +108,7 @@ Nhưng giờ thì tôi đã được xác nhận không phải Ma Cà Rồng—�
 
 Bởi vậy tôi mới nói: "Tôi xin lỗi vì vẻ ngoài kỳ lạ của mình, nhưng không ngờ cô lại vì thế mà nghi ngờ tôi như vậy..."
 
-"À, phải rồi. Đúng là có chuyện đó thật. Tệ quá đi mất nhỉ? Một chuyện thật tồi tệ. Tôi hiểu mà. Bình thường tôi chẳng mấy khi nói câu này đâu, nhưng tôi hiểu thật. Mà đấy, cũng một phần vì thế nên tôi mới đề nghị mua lại số nguyên liệu Tarasque với giá cao như vậy đấy. Coi như một kiểu tạ lỗi cho toàn bộ chuyện này, ngài hiểu chứ? Rồi còn cái này nữa. Chắc ngài không cần tới đâu, nhưng..."
+"À, phải rồi. Đúng là có chuyện đó thật. Tệ quá đi mất nhỉ? Một chuyện thật tồi tệ. Tôi hiểu mà. Bình thường tôi chẳng mấy khi nói câu này đâu, nhưng tôi hiểu thật. Mà đấy, cũng một phần vì thế nên tôi mới đề nghị mua lại số nguyên liệu Tarasque với giá cao như vậy đấy. Coi như chút thành ý tạ lỗi cho toàn bộ chuyện này ấy mà. Rồi còn cái này nữa. Chắc ngài không cần tới đâu, nhưng..."
 
 Nive gỡ một thứ gì đó ra khỏi tấm bản đồ chi tiết mà cô đã trải trên bàn, quay người lại rồi đưa món đồ bí ẩn ấy cho tôi. Một mảnh giấy gì đó chăng...? Trên đó có ghi một dãy số đăng ký. Nhìn theo định dạng thì đó là số của Hội Mạo Hiểm Giả.
 
@@ -120,7 +120,7 @@ Nếu có mảnh giấy này, tôi có thể đưa nó cho nhân viên của H�
 
 Nếu được thì tôi chẳng muốn dính dáng thêm chút nào tới người phụ nữ này nữa.
 
-"Này nhé, ngài Rentt. Tôi rất thích tìm hiểu điều tra mọi thứ này nọ... Nhưng quan trọng hơn cả, trực giác của tôi... rất quan trọng đấy? Ngài biết mà. Tôi thường xuyên cảm thấy như thế lắm. Cho nên theo trực giác mách bảo, tôi muốn nói là... Ngài Rentt. Rồi sẽ có ngày. Ngài cần. Liên lạc với tôi. Bằng. Thứ này đấy," Nive đáp lại bằng giọng đầy điềm gở.
+"Này nhé, ngài Rentt. Tôi rất thích tìm hiểu điều tra đủ thứ... Nhưng hơn hết, trực giác của tôi... cực kỳ đáng gờm đấy nhé? Thật đấy, tôi hay linh cảm trúng lắm. Cho nên theo trực giác mách bảo thì... Ngài Rentt. Rồi sẽ có ngày. Ngài cần. Liên lạc với tôi. Bằng. Thứ này đấy," Nive đáp lại bằng giọng đầy điềm gở.
 
 Tôi gần như cảm nhận được một sức nặng thô bạo giáng xuống sau từng chữ cô thốt ra. Làm ơn đi, Thợ Săn Ma Cà Rồng ơi. Tha cho tôi đi mà...
 

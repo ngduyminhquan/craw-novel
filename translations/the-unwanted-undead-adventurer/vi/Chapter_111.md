@@ -6,7 +6,7 @@ Rời Thương hội Stheno trở về, vừa mở cửa bước vào dinh thự
 
 Tiếng của Lorraine... rốt cuộc tôi cũng đã về đến nhà. Cảm xúc ấy cứ thế trào dâng từ tận đáy lòng tôi.
 
-Lần này tôi vừa bước qua một cây cầu khá bấp bênh; chính tôi cũng tự hiểu điều đó. Có lẽ tôi đã hơi bất cẩn một chút, nhưng làm sao tưởng tượng nổi chuỗi sự việc lại diễn ra như thế. Tôi vốn chỉ định đi bán ít nguyên liệu thôi mà. Chuyện hy hữu đến mức chẳng khác nào đang đi giữa đường phố Maalt mà bị thiên thạch rơi trúng đầu.
+Lần này tôi vừa bước qua một lằn ranh khá hiểm nghèo; chính tôi cũng tự hiểu điều đó. Có lẽ tôi đã hơi bất cẩn một chút, nhưng làm sao tưởng tượng nổi chuỗi sự việc lại diễn ra như thế. Tôi vốn chỉ định đi bán ít nguyên liệu thôi mà. Chuyện hy hữu đến mức chẳng khác nào đang đi giữa đường phố Maalt mà bị thiên thạch rơi trúng đầu.
 
 Dù lần này tôi bình an vô sự, nhưng cô gái tên Nive ấy có trực giác rất nhạy khi đánh hơi Ma Cà Rồng. Chắc chắn một ngày nào đó chúng tôi sẽ lại chạm mặt nhau.
 
@@ -22,7 +22,7 @@ Dù lần này tôi bình an vô sự, nhưng cô gái tên Nive ấy có trực
 
 Tôi gật đầu đáp lời. "Quả đúng như cô nói... Nhưng Nive có một bí thuật phát hiện Ma Cà Rồng, hoặc ít ra cô ấy khẳng định thế. Thứ đó lại chẳng có chút tác dụng nào lên tôi cả. Có lẽ lần này tôi gặp may."
 
-"À, phải rồi. Là Thánh Hỏa mà anh vừa nhắc tới đấy à? Hồi ở quê nhà, tôi từng thấy một người thi triển thuật này rồi. Thời ấy, nó được xem là một bí thuật rất hiếm và được các giáo hội canh giữ hết sức cẩn mật. Vì thế, ít nhất thì thông tin chi tiết về nó cũng mịt mờ lắm, nhưng khi bắt tay vào tìm hiểu thì tôi thấy thú vị vô cùng. Đáng tiếc là dù tôi có hỏi han thế nào cũng chẳng ai chịu nói cho nghe. Vốn dĩ nghe đâu những ai không được Thần Lực ban phước thì không tài nào nhìn thấy ngọn lửa ấy, đúng chứ? Vậy nghĩa là người thi triển ở quê tôi đã cố tình làm cho ngọn lửa hiện rõ lên... Hừm. Hồi đó tôi từng đề nghị họ làm cho xem để nắm rõ cơ chế vận hành của nó, nhưng họ nhất quyết không chịu hợp tác đấy chứ."
+"À, phải rồi. Là Thánh Hỏa mà anh vừa nhắc tới đấy à? Hồi ở quê nhà, tôi từng thấy một người thi triển thuật này rồi. Thời ấy, nó được xem là một bí thuật rất hiếm và được các giáo hội canh giữ hết sức cẩn mật. Vì thế, thông tin chi tiết về nó cứ gọi là mù mờ hết sức, nhưng khi bắt tay vào tìm hiểu thì tôi thấy thú vị vô cùng. Đáng tiếc là dù tôi có hỏi han thế nào cũng chẳng ai chịu nói cho nghe. Vốn dĩ nghe đâu những ai không được Thần Lực ban phước thì không tài nào nhìn thấy ngọn lửa ấy, đúng chứ? Vậy nghĩa là người thi triển ở quê tôi đã cố tình làm cho ngọn lửa hiện rõ lên... Hừm. Hồi đó tôi từng đề nghị họ làm cho xem để nắm rõ cơ chế vận hành của nó, nhưng họ nhất quyết không chịu hợp tác đấy chứ."
 
 "Mà này, Rentt... Thuật dò tìm ấy thật sự không có chút tác dụng nào lên anh sao? Kể cả khi anh đúng là một dạng Ma Cà Rồng đi nữa?"
 
@@ -44,7 +44,7 @@ Dù sao đi nữa, suốt thời gian qua tôi vẫn liên tục tiến hóa, h�
 
 Về chuyện này, Lorraine đã tốn nhiều thời gian suy ngẫm hơn tôi rất nhiều.
 
-"Giờ mới nói điều này thì hơi muộn, Rentt à, nhưng ngay từ đầu chúng ta vốn đã biết anh khác hẳn quái vật thông thường rồi. Lúc nãy anh vừa nhắc tới đấy thôi, đúng không? Rằng Thần Lực chẳng có chút tác dụng nào lên anh. Đó là vì anh rất đặc biệt, Rentt. Kết luận hiển nhiên là thế. Đến nước này thì biết được chừng ấy có lẽ cũng đủ rồi. Khả năng rõ ràng tiếp theo chính là việc anh vốn được ban cho trữ lượng Thần Lực, không như lũ Undead thông thường. Chẳng lẽ đó lại không phải là nguyên nhân sao?"
+"Giờ mới nói điều này thì hơi muộn, Rentt à, nhưng ngay từ đầu chúng ta vốn đã biết anh khác hẳn quái vật thông thường rồi. Lúc nãy anh vừa nhắc tới đấy thôi, đúng không? Rằng Thần Lực chẳng có chút tác dụng nào lên anh. Đó là vì anh rất đặc biệt, Rentt. Kết luận hiển nhiên là thế. Đến nước này thì biết được chừng ấy có lẽ cũng đủ rồi. Khả năng rõ ràng tiếp theo là do anh vốn được ban cho trữ lượng Thần Lực, không như lũ Undead thông thường. Chẳng lẽ đó lại không phải là nguyên nhân sao?"
 
 "Thần Lực sao..."
 
@@ -54,7 +54,7 @@ Thế nhưng tôi vẫn dùng Thần Lực của mình bình thường. Còn vì
 
 Ít nhất thì cảm giác mỗi lần dùng Thần Lực của tôi chẳng hề thay đổi chút nào. Chuyện đó thì tôi dám chắc. Phải chăng Lorraine muốn nói rằng chỉ cần bản thân có sẵn Thần Lực trong người là sẽ miễn nhiễm với nó, kể cả khi bị kẻ khác đem Thần Lực đánh lên mình?
 
-Nếu đúng như lời Nive nói thì Thánh Hỏa sẽ gây ra đau đớn tột cùng cho Ma Cà Rồng. Thế mà tôi lại chẳng thấy như vậy chút nào trước Thần Lực. Đó là lý do ngọn lửa ấy không có tác dụng sao...? Vì tôi là một thực thể giống Ma Cà Rồng đặc biệt, chứ hoàn toàn không phải Ma Cà Rồng thực thụ? Ngẫm lại thì điều đó có vẻ dễ tin hơn...
+Nếu đúng như lời Nive nói thì Thánh Hỏa sẽ gây ra đau đớn tột cùng cho Ma Cà Rồng. Thế mà tôi lại chẳng thấy như vậy chút nào trước Thần Lực. Đó là lý do ngọn lửa ấy không có tác dụng sao...? Vì tôi là một thực thể đặc biệt gần giống Ma Cà Rồng, chứ hoàn toàn không phải Ma Cà Rồng thực thụ? Ngẫm lại thì điều đó có vẻ dễ tin hơn...
 
 Lorraine nói tiếp: "Với chất độc, ma pháp hay những thứ tương tự cũng thế thôi, đúng không? Nếu một người có sẵn kháng tính thì các đòn tấn công đó sẽ mất tác dụng hoặc bị triệt tiêu. Chuyện ấy thì quá dễ hiểu rồi. Đơn giản mà, đúng chứ? Rentt, theo tôi nhớ thì Thần Lực của anh là có được nhờ sửa lại ngôi đền cũ ở quê nhà, đúng không?"
 
@@ -68,7 +68,7 @@ Dù nhìn theo cách nào thì đó cũng là lời miêu tả rất chuẩn xá
 
 "Anh nói nghe đơn giản ghê, Rentt. Cứ làm như sửa một ngôi đền là xong ngay được ấy. Dù anh nói thế nào thì việc đó cũng đòi hỏi tay nghề không vừa đâu, đúng không?"
 
-"Một bác thợ mộc trong làng đã chỉ dạy cho tôi những thứ cần biết. Tôi vốn có mắt nhìn chi tiết và độ chuẩn xác nên học mấy điều cơ bản khá nhanh, còn lại thì cứ vừa làm vừa mò mẫm thôi. Ít nhất cũng phải nói đó là một đợt rèn luyện rất tốt."
+"Một bác thợ mộc trong làng đã chỉ dạy cho tôi những thứ cần biết. Mắt tôi vốn nhìn chi tiết và căn độ chuẩn xác khá tốt nên học mấy điều cơ bản rất nhanh, còn lại thì cứ vừa làm vừa mò mẫm thôi. Phải nói đó là một đợt rèn luyện rất tốt."
 
 "Vẫn tháo vát như mọi khi nhỉ... Ấy thế mà giữa bao nhiêu thứ, anh lại thiếu đúng tư chất để thăng tiến trong nghề mạo hiểm giả. Các vị thần nghiệt ngã thật đấy, đúng không?"
 

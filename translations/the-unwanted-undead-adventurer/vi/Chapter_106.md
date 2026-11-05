@@ -40,7 +40,7 @@ Phần lớn mạo hiểm giả được Thần Lực ban phước đều không
 
 Thế nhưng nếu tôi không có Thần Lực và chẳng nhận ra ngọn lửa của cô... chẳng lẽ Nive đã dễ dàng phát hiện ra tôi ngay từ đầu, rồi bất thình lình găm một chiếc cọc nhọn nào đó xuyên qua tim tôi sao?
 
-A... thật sự đấy. Chuyện tôi cất công sửa sang lại cái miếu thờ ọp ẹp đó đúng là một phúc lành... Tôi thật sự nên thỉnh thoảng quay lại dọn dẹp nơi ấy mới được... Dù sao tôi cũng thoát nạn nhờ nguồn Thần Lực bên trong cơ thể mà.
+A... thật sự đấy. Chuyện tôi cất công sửa sang lại ngôi đền thờ ọp ẹp đó đúng là một phúc lành... Tôi thật sự nên thỉnh thoảng quay lại dọn dẹp nơi ấy mới được... Dù sao tôi cũng thoát nạn nhờ nguồn Thần Lực bên trong cơ thể mà.
 
 Ít nhất thì tôi thấy vậy.
 
@@ -62,15 +62,15 @@ Trên gương mặt vị thương nhân thoáng hiện nét giận dữ. Sharl g
 
 Rốt cuộc chuyện này là sao? Nhưng chưa kịp để tôi ngẫm nghĩ, Myullias đã nhanh chóng nói thêm vào lời giải thích của Nive.
 
-"Xin mạo muội cho tôi được nói, nhiều khả năng tôi được đưa đi cùng là để mượn uy thế của Giáo Hội Lobelia. Đối với một thương nhân, giáo hội là... Điều này hơi khó để tôi mở lời, nhưng nếu nói theo cách đó thì việc chống lại giáo hội gần như là bất khả thi. Dù Giáo Hội Lobelia không có nhiều ảnh hưởng tại Vương Quốc Yaaran này, đây vẫn là một tổ chức tôn giáo lớn, cắm rễ khắp mọi vùng đất. Hàng ngũ tín đồ của giáo hội rất đông đảo. Nếu có vài động thái ngầm được thực hiện, chắc chắn một thương nhân buôn bán xuyên vương quốc như ngài Sharl sẽ gặp muôn vàn khó khăn. Giáo hội mà muốn gây ra chuyện như vậy thì chẳng có gì khó cả."
+"Xin mạo muội nói thẳng, nhiều khả năng tôi được đưa đi cùng là để mượn uy thế của Giáo Hội Lobelia. Với một thương nhân, Giáo Hội là... Chính tôi cũng hơi khó mở lời, nhưng phải nói rằng gần như không thể làm trái ý Giáo Hội được. Dù Giáo Hội Lobelia không có nhiều ảnh hưởng tại Vương Quốc Yaaran này, đây vẫn là một tổ chức tôn giáo lớn, cắm rễ khắp các vùng đất với hàng ngũ tín đồ vô cùng đông đảo. Chỉ cần Giáo Hội ngầm ra tay đôi chút, một thương nhân buôn bán qua lại giữa các vương quốc như ngài Sharl chắc chắn sẽ gặp muôn vàn khó khăn. Mà Giáo Hội muốn làm chuyện đó thì chẳng khó khăn gì."
 
 Nive tỏ ra thật sự ấn tượng trước lời giải thích của Myullias.
 
 "Không ngờ Tiểu thư Myullias lại giải thích như vậy đấy nhé, hừm hừm! Tôi cứ tưởng cô thuộc mẫu người sống chết theo giáo lý Lobelia cơ đấy..."
 
-Nive liền quay sang tôi. "Thế nên sự tình là vậy đấy, ngài thấy chưa? Đừng trách ngài Sharl quá nhé. Thật ra ông ấy đã làm đủ cách để ngăn tôi gặp ngài đấy, Rentt! Khi tôi đưa ra yêu cầu, ông ấy hết viện lý do này lại tới lý do nọ. Cứ hở ra là lảng tránh. Tôi cũng hết cách... nên mới phải nhờ cậy chút quan hệ bên Giáo Hội Lobelia đấy. Nhờ họ giúp đỡ này nọ. Tôi cũng đã cam đoan với ông ấy là sẽ không làm gì đẩy ngài vào chỗ nguy hiểm hay làm ngài bị thương rồi. Hơn nữa tôi thật lòng rất muốn gặp ngài mà, ngài Rentt. Thật đấy! Nếu ngài đúng là Ma Cà Rồng thì tôi đã lặng lẽ trừ khử ngài ở chỗ nào khuất mắt người ta rồi cơ."
+Nive liền quay sang tôi. "Thế nên sự tình là vậy đấy nhé. Đừng trách ngài Sharl quá nha. Thật ra ông ấy đã làm đủ cách để ngăn tôi gặp ngài đấy, ngài Rentt! Khi tôi đưa ra yêu cầu, ông ấy hết viện lý do này lại tới lý do nọ. Cứ hở ra là lảng tránh. Tôi cũng hết cách... nên mới phải nhờ cậy chút quan hệ bên Giáo Hội Lobelia đấy. Nhờ họ giúp đỡ này nọ. Tôi cũng đã cam đoan với ông ấy là sẽ không làm gì đẩy ngài vào chỗ nguy hiểm hay làm ngài bị thương rồi. Hơn nữa tôi thật lòng rất muốn gặp ngài mà, ngài Rentt. Thật đấy! Nếu ngài đúng là Ma Cà Rồng thì tôi đã lặng lẽ trừ khử ngài ở chỗ nào khuất mắt người ta rồi cơ."
 
-"À mà đã giải thích ngần này rồi thì tôi bật mí cho ngài bí mật nhỏ này luôn. Thật ra ngài Sharl đây cũng cảm thấy có gì đó không ổn đấy, ngài biết không? Dù sao tôi cũng có tiếng mà. Thế nên ông ấy không đời nào để một mình tôi gặp ngài đâu, Rentt. Vì vậy ông ấy mới có mặt ở đây, đúng chứ? Nói cách khác, với tư cách là người đứng đầu Thương hội Stheno, Sharl muốn ở đây để bảo vệ khách hàng của mình, kể cả khi chính ông ấy cũng có thể gặp nguy hiểm. Một người đàn ông tốt bụng đấy chứ, nhỉ? Khác hẳn vẻ bề ngoài của ông ấy."
+"À mà đã giải thích ngần này rồi thì tôi bật mí cho ngài bí mật nhỏ này luôn. Thật ra ngài Sharl đây cũng cảm thấy có gì đó không ổn đấy nhé. Dù sao tôi cũng có tiếng mà. Thế nên ông ấy không đời nào để một mình tôi gặp ngài đâu, ngài Rentt. Vì vậy ông ấy mới có mặt ở đây, đúng chứ? Nói cách khác, với tư cách là người đứng đầu Thương hội Stheno, ngài Sharl muốn ở đây để bảo vệ khách hàng của mình, kể cả khi chính ông ấy cũng có thể gặp nguy hiểm. Một người đàn ông tốt bụng đấy chứ, nhỉ? Khác hẳn vẻ bề ngoài của ông ấy."
 
 Thật... bất ngờ.
 
@@ -112,4 +112,4 @@ Dù mọi chuyện đã kết thúc theo hướng có lợi cho tôi, tôi vẫn
 
 Chưa kể cái vận xui không đáy của tôi nữa... Tôi đâu muốn phạm phải sai lầm chết người chỉ vì trót quên xác nhận một chi tiết nhỏ.
 
-"Ồ, được chứ. Tôi nghĩ ngài có quyền được biết mà. Với lại tôi cũng có một thỉnh cầu nho nhỏ của riêng mình nữa. Ngài còn nhớ ngài Sharl từng bảo tôi đang tìm mạo hiểm giả có năng lực nhất định không? Chuyện đó, ngài biết đấy, không hẳn là nói dối đâu..."
+"Ồ, được chứ. Tôi nghĩ ngài có quyền được biết mà. Với lại tôi cũng có một lời nhờ vả nho nhỏ của riêng mình nữa. Ngài còn nhớ ngài Sharl từng bảo tôi đang tìm mạo hiểm giả có năng lực nhất định không? Chuyện đó thực ra không hẳn là nói dối đâu..."

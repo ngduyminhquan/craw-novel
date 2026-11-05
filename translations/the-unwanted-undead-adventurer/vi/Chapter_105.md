@@ -48,11 +48,11 @@ Từ những gì nghe được về Nive và chiến tích của cô, tôi từn
 
 Nghĩ kỹ lại thì... Nive quả thực chẳng sùng đạo gì, nhưng mấy câu châm chọc bóng gió cô nhắm vào giáo hội cùng các tổ chức tương tự cũng đủ làm bất kỳ ai phát cáu. Đã thế cái giọng điệu của cô lúc nói ra lại còn...
 
-Trong lúc tôi còn mải nghĩ vẩn vơ, ngọn lửa trắng giữa hai lòng bàn tay Nive đã phình to đến mức đáng kinh ngạc. Nó đã vươn cao lên sát trần nhà, chỉ còn cách trần phòng vài phân nữa thôi. Nếu Sharl mà thấy cảnh này, chắc chắn ông sẽ phải giật mình kinh ngạc. May cho ông là đôi mắt vẫn đang nhắm nghiền, và có lẽ đó chính là sự cứu rỗi cho ông lúc này. Dù sao thì rơi vào cảnh bị ngọn lửa khổng lồ cỡ đó ụp ngay trên đầu, ai mà chẳng nghĩ mình cầm chắc cái chết.
+Trong lúc tôi còn mải nghĩ vẩn vơ, ngọn lửa trắng giữa hai lòng bàn tay Nive đã phình to đến mức đáng kinh ngạc. Nó đã vươn cao lên sát trần phòng, chỉ thiếu vài phân nữa là ngọn lửa đã liếm tới trần nhà. Nếu Sharl mà thấy cảnh này, chắc chắn ông sẽ phải giật mình kinh ngạc. May cho ông là hai mắt vẫn đang nhắm nghiền, có lẽ thế lại là phúc cho ông trong chuyện này. Dù sao thì rơi vào cảnh bị ngọn lửa khổng lồ cỡ đó ụp ngay trên đầu, ai mà chẳng nghĩ mình cầm chắc cái chết.
 
 Cả một cột lửa sừng sững bốc lên rành rành như thế, vậy mà căn phòng lại chẳng hề oi bức hay ngột ngạt. Đứng ở chỗ mình, tôi thậm chí chẳng thấy cảm giác gì. Tuyệt nhiên không có chút hơi nóng nào tỏa ra từ ngọn lửa.
 
-Ngước nhìn lên trần nhà, ngọn lửa trông như đang táp dữ dội vào các thanh xà ngang, thế nhưng tôi không hề thấy bất kỳ vết cháy xém hay hư hại nào. Xem ra ngọn Thánh Hỏa này của cô về căn bản khác hẳn với thứ lửa bình thường mà tôi vẫn quen thuộc.
+Tôi ngước nhìn lên trần nhà, thấy ngọn lửa như đang táp dữ dội vào các thanh xà ngang, nhưng tuyệt nhiên chẳng có vết cháy xém hay hư hại nào. Xem ra ngọn Thánh Hỏa này của cô về căn bản khác hẳn với thứ lửa bình thường mà tôi vẫn quen thuộc.
 
 Ngay sau đó, Nive hé mở hai bàn tay đang khum lại. Tựa như một dòng nước lặng lẽ, Thánh Hỏa trút xuống người vị thương nhân, từng giọt sáng trắng muốt nhỏ giọt xuống thân thể ông.
 
@@ -66,7 +66,7 @@ Từng giọt cứ thế tiếp tục rơi xuống, lặp đi lặp lại cảnh
 
 Nghe thấy thế, Sharl mở mắt ra, thở phào nhẹ nhõm thành tiếng.
 
-Nhưng sao cô lại nói cứ như thể đây là một dây chuyền sản xuất thế này?
+Nhưng sao cô lại nói cứ như đang gọi người lên làm theo dây chuyền thế này?
 
 Dù rất muốn nói thẳng câu đó với Thợ Săn Ma Cà Rồng Nive Maris, nhưng cô đâu phải người tôi có thể tùy tiện đôi co. Dù thế nào chăng nữa, tôi cũng không thể liều mạng để mình bị kiểm tra y như Sharl được.
 
@@ -114,7 +114,7 @@ Hỏng rồi. Tôi buộc phải né chúng, nhưng... Quả không hổ danh m�
 
 Dù thể xác hiện tại đem lại cho tôi bao nhiêu sức mạnh và ưu thế, tôi vẫn quá nhỏ bé khi đặt cạnh một mạo hiểm giả Kim Cấp đang mấp mé bước chân vào Bạch Kim Cấp.
 
-Nhưng ngẫm lại cũng phải, cái màn bắt quỳ gối như với Sharl thì làm sao áp dụng được cho người đi đường bình thường. Kể cả trong tình cảnh này, tôi cũng phải thừa nhận Nive còn nhiều cách khác để truyền ngọn lửa của mình tới mục tiêu.
+Nhưng ngẫm lại cũng phải, cái màn bắt quỳ gối như với Sharl thì làm sao áp dụng được cho người đi đường bình thường. Ngay giữa tình cảnh này, tôi vẫn kịp hiểu ra rằng quả nhiên Nive còn có những cách khác để phóng ngọn lửa của mình vào mục tiêu.
 
 Tôi thoáng tự hỏi rốt cuộc mình đang làm cái trò gì vậy, lại đi thán phục và suy nghĩ vẩn vơ giữa tình thế ngàn cân treo sợi tóc này. Tôi đang cháy, ngọn lửa đang bùng lên dữ dội. Những đốm lửa trắng lập lòe liếm láp từng tấc cơ thể tôi. Toàn thân tôi lúc này bị ngọn lửa bao trùm, y hệt như cảnh tượng vừa thấy ở Sharl ít phút trước.
 
