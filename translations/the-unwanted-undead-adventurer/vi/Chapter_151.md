@@ -1,75 +1,75 @@
 # Chương 151: Ngoại truyện Tập 6 - Thảnh Thơi Câu Cá
 
-Tôi rời ngôi làng của mình năm mười lăm tuổi, độ tuổi được phép đăng ký làm mạo hiểm giả. Câu chuyện này diễn ra vào vài tháng trước thời điểm đó.
+Tôi rời làng năm mười lăm tuổi, lúc vừa đủ tuổi đăng ký làm mạo hiểm giả. Câu chuyện này xảy ra trước đó vài tháng.
 
-Tôi cùng một người bạn thuở nhỏ lớn lên bên nhau đang ngồi làm đồ thủ công mỹ nghệ bằng gỗ, một trong những sản vật đặc trưng của làng chúng tôi, ngay tại quảng trường trung tâm. Bạn tôi tên là Doras. Tôi lớn hơn cậu ấy ba tuổi, nên đối với tôi, cậu ấy chẳng khác nào một đứa em trai. Cha cậu ấy là một trong những nghệ nhân của làng, và Doras dường như thừa hưởng tính cách từ cha mình khi có xu hướng lẳng lặng tập trung vào công việc thay vì tán gẫu trong lúc làm. Thế nhưng ngày hôm đó, cậu ấy lại bảo có điều muốn hỏi tôi. Bất ngờ, tôi liền hỏi xem đó là chuyện gì.
+Tôi cùng một người bạn lớn lên từ nhỏ đang ngồi ở quảng trường trung tâm làm đồ thủ công bằng gỗ, một sản vật đặc trưng của làng. Cậu bạn ấy tên là Doras. Tôi hơn cậu ba tuổi nên coi cậu chẳng khác nào em trai. Cha Doras là một thợ thủ công trong làng, và cậu dường như thừa hưởng tính ít nói từ ông, lúc làm việc thường chỉ lẳng lặng chú tâm chứ hiếm khi trò chuyện. Thế mà hôm ấy, cậu lại bảo có điều muốn hỏi tôi. Hơi bất ngờ, tôi liền hỏi xem là chuyện gì.
 
-"Ừm, anh vung thanh kiếm đó luyện tập suốt ngày, lại còn phải gánh vác bao nhiêu công việc khác nhau nữa, em tự hỏi liệu như vậy có kiệt sức lắm không," cậu ấy nói.
+"Ừm, ngày nào anh cũng vung kiếm luyện tập, đã thế còn phải làm bao nhiêu việc khác nhau nữa, em cứ thắc mắc không biết như thế có mệt lắm không," cậu ấy nói.
 
-Tôi thầm nghĩ đó là một thắc mắc kỳ lạ, nhưng để trả lời cậu ấy thì lại quá đỗi dễ dàng. "Dĩ nhiên là mệt chứ. Công việc làm tôi tốn không ít sức lực, rồi sau đó tôi còn phải luyện kiếm nữa mà."
+Tôi thấy thắc mắc này hơi lạ lùng, nhưng trả lời thì chẳng có gì khó. "Dĩ nhiên là mệt chứ. Làm việc đã tốn sức rồi, xong lại còn phải luyện kiếm nữa."
 
-"Anh cứ thế dừng lại cũng được mà."
+"Hay anh bỏ tập đi cũng được mà."
 
-"Đâu có được. Em biết ba tháng nữa tôi sẽ làm gì rồi còn gì?"
+"Đâu có được. Ba tháng nữa tôi làm gì, em biết rồi còn gì?"
 
 "Rời làng, đúng không anh?"
 
-"Phải, để trở thành mạo hiểm giả. Mà muốn làm mạo hiểm giả, tôi sẽ cần kỹ năng chiến đấu ở một mức độ nhất định. Nếu ngay cả việc tự rèn luyện bản thân mà cũng không làm nổi thì tôi coi như hết hy vọng. Đâu phải cứ muốn bỏ là bỏ được."
+"Phải, để làm mạo hiểm giả. Mà muốn làm mạo hiểm giả thì phải có chút kỹ năng chiến đấu giắt lưng chứ. Đến tự rèn luyện mà còn không kham nổi thì tôi coi như hết hy vọng. Đâu phải cứ bảo bỏ là bỏ được."
 
-Đúng vậy, tôi không thể dừng lại vào lúc này. Nhất là khi tôi muốn trở thành một mạo hiểm giả Mithril Cấp. Tôi không biết sẽ phải mất bao nhiêu thời gian, nhưng nhất định một ngày nào đó tôi sẽ đạt tới đích. Và để biến điều đó thành hiện thực, tôi buộc phải luyện tập bất kể bản thân có mệt mỏi đến đâu.
+Đúng vậy, tôi không thể dừng lại lúc này. Nhất là khi tôi muốn trở thành một mạo hiểm giả Mithril Cấp. Dù chưa biết sẽ mất bao lâu, nhưng nhất định một ngày nào đó tôi sẽ làm được. Mà muốn vậy, dẫu mệt đến đâu tôi cũng phải luyện tập.
 
-"Đó chính là điều em muốn nói tới đấy, anh Rentt," Doras rụt rè lên tiếng.
+"Đó chính là chuyện em muốn nói đấy, anh Rentt," Doras rụt rè bảo.
 
 "Sao cơ?"
 
-"Thực sự không có gì ngăn cản được anh rời làng sao?"
+"Thực sự không có gì giữ chân anh ở lại làng được sao?"
 
-Tôi lắc đầu. Tôi đã hạ quyết tâm sẽ rời đi. Dù vậy, tôi hoàn toàn hiểu được lý do tại sao mọi người lại muốn can ngăn mình. Một bước đi sai lầm trong nghề mạo hiểm giả có thể đồng nghĩa với cái chết. Doras cho rằng tránh xa hiểm nguy và an phận tận hưởng cuộc sống nơi làng quê sẽ tốt hơn, như biết bao người khác từng khuyên nhủ tôi trước đây. Thế nhưng để tôi thay đổi quyết định thì đã quá muộn rồi. Tôi kiên định với những lựa chọn của mình, và cả làng đều biết rõ điều đó, bao gồm cả Doras.
+Tôi lắc đầu. Tôi đã quyết định rời đi rồi. Dù vậy, tôi hiểu vì sao mọi người lại muốn can ngăn. Làm mạo hiểm giả, sẩy chân một bước là có thể mất mạng như chơi. Doras nghĩ tránh xa hiểm nguy để tận hưởng cuộc sống nơi thôn quê sẽ tốt hơn, hệt như bao người từng bảo tôi trước đây. Thế nhưng bảo tôi đổi ý lúc này thì đã muộn. Tôi vốn đã quyết chuyện gì là làm cho bằng được, và cả làng đều biết rõ điều đó, kể cả Doras.
 
-"Sao tự dưng giờ em lại hỏi chuyện này?" Tôi hỏi. "Cách đây ít lâu em còn cổ vũ tôi cơ mà. Thậm chí em còn bảo rất mong có quà lưu niệm mỗi khi tôi về thăm làng nữa."
+"Sao tự dưng giờ em lại hỏi chuyện này?" tôi hỏi. "Mới cách đây ít lâu em còn cổ vũ tôi cơ mà. Lại còn bảo rất mong có quà mỗi khi tôi về thăm làng nữa."
 
-Thật ra Doras từng tán thành ý định rời làng của tôi. Thỉnh thoảng cậu ấy cũng khao khát chốn thành thị lớn và hy vọng một ngày nào đó sẽ tự mình đặt chân tới đó, vì thế cậu ấy đã nhờ tôi kể cặn kẽ mọi chuyện khi trở về thăm nhà.
+Thật ra trước đó Doras vốn ủng hộ chuyện tôi rời làng. Thỉnh thoảng cậu cũng ao ước chốn đô thị lớn và mong một ngày nào đó được tự mình đến đó, nên mới nhờ tôi kể cặn kẽ mọi chuyện mỗi lần về thăm nhà.
 
-"Dĩ nhiên là em vẫn mong có quà lưu niệm rồi, mà bản thân em cũng muốn được sống ở thành phố nữa."
+"Dĩ nhiên là em vẫn mong quà rồi, mà bản thân em cũng muốn lên thành phố sống nữa."
 
-"Vậy sao lại bảo tôi suy nghĩ lại?"
+"Vậy sao lại bảo tôi nghĩ lại?"
 
-"Em nghĩ Riri sẽ cô đơn lắm, nên em muốn xem thử mình có thể làm được gì không."
+"Em nghĩ Riri sẽ buồn lắm, nên mới muốn xem mình có làm được gì không."
 
-Tôi không ngờ lại nghe thấy cái tên đó, nhưng giờ thì tôi đã hiểu ra. Riri cũng là một người bạn thuở nhỏ của tôi. Em ấy cùng với Fahri, một cô bạn thuở nhỏ khác của tôi, lúc nào cũng quấn quít bên tôi. Cả hai đứa đều kém tôi bảy tuổi, nghĩa là vào thời điểm đó chúng mới chỉ tròn tám tuổi. Doras mười hai tuổi, tức là chênh lệch bốn tuổi so với hai đứa.
+Tôi không ngờ lại nghe thấy cái tên đó, nhưng giờ thì tôi hiểu rồi. Riri cũng là một người bạn lớn lên cùng tôi từ nhỏ. Em ấy cùng Fahri, một cô bé khác cũng lớn lên cùng tôi, lúc nào cũng quấn lấy tôi. Cả hai đứa đều kém tôi bảy tuổi, hồi ấy mới chỉ tròn tám tuổi. Còn Doras mười hai, hơn hai đứa bốn tuổi.
 
-Tôi hiểu vì sao cậu ấy lại lo lắng cho Riri. Thậm chí, tôi dám chắc rằng cậu ấy có tình cảm với cô bé. Riri và Fahri đều là những bé gái đáng yêu, lớn lên hẳn sẽ trở thành những mỹ nhân. Chúng còn có tính cách vui vẻ hoạt bát, nên rất được lòng đám bạn đồng trang lứa lẫn những cậu trai lớn tuổi hơn như Doras. Thế nhưng Riri dường như lại khá mến tôi, và Doras cũng biết điều đó. Dạo gần đây cô bé có vẻ hơi ủ rũ vì biết tôi dự định rời làng. Nếu câu chuyện thực sự là như vậy thì tôi có vài lời cần phải nói với Doras.
+Tôi hiểu vì sao cậu lại lo lắng cho Riri. Thực ra tôi dám chắc là cậu thích cô bé. Cả Riri lẫn Fahri đều là những bé gái đáng yêu, lớn lên hẳn sẽ rất xinh đẹp. Tính tình hai đứa lại vui vẻ hoạt bát, nên rất được lòng bạn bè cùng lứa lẫn những cậu bé lớn hơn như Doras. Thế nhưng Riri dường như lại khá mến tôi, và Doras cũng biết điều đó. Dạo gần đây cô bé có vẻ hơi ủ rũ vì chuyện tôi sắp rời làng. Nếu đúng là vì chuyện này, thì tôi có vài lời cần nói với Doras.
 
-"Doras, em thích Riri phải không?" Tôi hỏi.
+"Doras, em thích Riri phải không?" tôi hỏi.
 
-"Ơ, k-không, đâu có đến mức đấy ạ," cậu ấy luống cuống đáp lời, vẻ mặt bối rối thấy rõ. Nhưng gặng hỏi thêm cũng chẳng giải quyết được gì, nên tôi liền chuyển tiếp sang chuyện khác.
+"Ơ, k-không, làm gì đến mức đấy đâu anh," cậu bối rối đáp, vẻ lúng túng thấy rõ. Nhưng gặng hỏi thêm cũng chẳng ích gì, nên tôi nói tiếp luôn.
 
-"Nếu em thích Riri thật thì việc can ngăn tôi là sai lầm đấy."
+"Nếu em thích Riri thật, thì cản tôi là sai lầm đấy."
 
-"Tại sao ạ?"
+"Sao lại thế ạ?"
 
-"Thử nghĩ mà xem. Riri... ừ thì, có vẻ như cô bé khá mến tôi."
+"Thử nghĩ mà xem. Riri... ừ thì, có vẻ cô bé khá mến tôi."
 
-"Vâng ạ," Doras thở dài đáp.
+"Thì đúng là vậy..." Doras thở dài.
 
-"Nhưng chuyện đó chỉ là vì tôi đã chăm sóc cô bé từ khi còn nhỏ xíu thôi. Chắc em cũng từng có mối quan hệ tương tự với một người chị lớn tuổi hơn rồi đúng không? Ở cái làng này, trẻ con đứa lớn luôn trông nom những đứa nhỏ hơn, bất kể có quan hệ họ hàng hay không mà."
+"Nhưng chuyện đó chỉ vì tôi đã chăm sóc cô bé từ hồi còn bé tí thôi. Chắc trước đây em cũng từng quấn quít với người chị nào lớn hơn rồi đúng không? Ở cái làng này, lũ trẻ lớn luôn trông nom những đứa nhỏ hơn, bất kể có quan hệ họ hàng hay không mà."
 
-"Đúng vậy, anh nói cũng có lý."
+"Nghe cũng có lý thật."
 
-"Nhưng thứ tình cảm đó đâu có tồn tại mãi mãi được. Riri sẽ không giữ cảm xúc ấy với tôi được lâu đâu."
+"Nhưng thứ tình cảm đó đâu có kéo dài mãi được. Riri chẳng mến tôi như thế được bao lâu đâu."
 
-Giờ thì dường như Doras đã hiểu ra vấn đề. Cậu ấy mới mười hai tuổi, nhưng đầu óc lại khá nhanh nhạy. Sau một thoáng suy ngẫm, cậu ấy cất lời: "Và nếu anh rời làng, cô bé sẽ càng mau quên anh hơn sao?"
+Giờ thì dường như Doras đã hiểu ra. Cậu mới mười hai tuổi, nhưng đầu óc khá nhanh nhạy. Nghĩ ngợi một lúc, cậu hỏi: "Nghĩa là nếu anh rời làng, cô bé sẽ càng mau quên anh hơn sao?"
 
-"Đúng thế. Và thay vì thương nhớ một kẻ biền biệt nhiều năm trời, cô bé sẽ quan tâm hơn tới người ở ngay gần bên. Vì vậy, Doras à, thấy tôi rời đi đáng lẽ em phải mừng mới phải. Đúng không nào?"
+"Đúng thế. Thay vì nhớ nhung một người đi biền biệt mấy năm trời, cô bé sẽ để ý tới người ở ngay bên cạnh hơn. Thế nên Doras à, thấy tôi rời đi đáng lẽ em phải mừng mới phải chứ. Đúng không nào?"
 
-"Anh Rentt, em hiểu ý anh rồi. Hãy quên chuyện em bảo anh ở lại đi nhé. Nhưng thật lòng mà nói, không có anh thì bản thân em cũng sẽ thấy cô đơn lắm. Riri cũng vậy thôi. Hãy về thăm làng càng thường xuyên càng tốt nhé anh."
+"Anh Rentt, em hiểu ý anh rồi. Thôi cứ coi như em chưa từng bảo anh ở lại đi. Nhưng thật lòng mà nói, không có anh thì em cũng sẽ buồn lắm. Riri cũng vậy thôi. Anh nhớ về thăm làng càng thường xuyên càng tốt nhé."
 
-"Em hiền quá đấy. Cứ như thế thì Riri chẳng bao giờ đổ em đâu."
+"Em hiền quá đấy. Cứ như thế này thì Riri chẳng bao giờ đổ em đâu."
 
-"Kìa anh, em đâu có cố―Ôi thôi bỏ đi, giấu giếm cũng chẳng ích gì. Nhưng chuyện gì đến sẽ đến thôi. Xem chừng anh chỉ mải mê mỗi chuyện làm mạo hiểm giả, nên em cứ thong thả ở đây vậy."
+"Kìa anh, em đâu có định— Thôi bỏ đi, giấu cũng chẳng ích gì. Nhưng chuyện gì đến sẽ đến thôi. Xem chừng anh chỉ mải mê mỗi chuyện làm mạo hiểm giả, nên em cứ thong thả ở đây vậy."
 
-"Chúc em may mắn. Thôi được rồi, thi thoảng tôi sẽ về. Cứ ngóng chờ những câu chuyện tôi kể cùng những món quà tôi mang về đi nhé. Tôi thậm chí sẽ chọn cho em vài món quà thật tuyệt để đem tặng Riri nữa."
+"Chúc em may mắn nhé. Thôi được rồi, thi thoảng tôi sẽ về. Cứ chờ nghe chuyện tôi kể với ngóng quà tôi mang về đi. Tôi còn chọn sẵn vài món thật đẹp cho em đem tặng Riri nữa cơ."
 
-"Được thế thì tốt quá. Em sẽ tiếp tục rèn giũa tay nghề cho đến khi làm ra được thứ gì đó hữu ích cho anh ở chốn thành thị."
+"Được thế thì tốt quá. Em sẽ tiếp tục luyện tay nghề, chừng nào làm ra được thứ gì đó hữu ích cho anh ở thành phố mới thôi."
 
-Ba tháng sau cuộc trò chuyện ấy, tôi rời làng đúng như dự định. Tôi chọn Maalt làm chốn nương thân của mình, và đúng như những gì đã nói với Doras, tôi trở về thăm làng thường xuyên nhất có thể. Thế nhưng những lần về thăm ấy lại cách xa nhau hơn dự tính, nên tôi chỉ có thể quay lại cứ hai hoặc ba năm một lần. Dù thời gian có trôi qua bao lâu, mối quan hệ giữa Riri và Doras dường như vẫn chẳng thể đơm hoa kết trái thành tình yêu. Dẫu vậy, cậu ấy vẫn kiên nhẫn đợi chờ. Riri chắc chắn vẫn được rất nhiều chàng trai săn đón, nhưng biết đâu sau cùng, một người như Doras mới là kẻ "câu" được trái tim cô bé.
+Ba tháng sau cuộc trò chuyện ấy, tôi rời làng đúng như dự định. Tôi chọn Maalt làm nơi dừng chân, và đúng như những gì đã nói với Doras, tôi trở về thăm làng thường xuyên nhất có thể. Thế nhưng các chuyến về thăm thưa hơn dự tính, nên cứ hai ba năm tôi mới trở lại một lần. Dù thời gian trôi qua, tình cảm giữa Riri và Doras dường như mãi chẳng đơm hoa kết trái. Dẫu vậy, cậu vẫn thong thả đợi chờ. Riri quả thực vẫn luôn có nhiều người theo đuổi, nhưng biết đâu sau cùng, một người như Doras mới là kẻ "câu" được trái tim cô bé.
