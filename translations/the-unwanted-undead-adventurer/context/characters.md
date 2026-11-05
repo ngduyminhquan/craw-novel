@@ -432,7 +432,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp đến từ nước láng giềng, thực lực tiệm cận Bạch Kim Cấp; tước Nữ Chuẩn Nam tước (Baronetess) nhờ diệt một Trung Cấp Ma Cà Rồng cùng bầy đàn. Săn Ma Cà Rồng bằng kỹ thuật phát hiện dựa trên Thần Lực (Thánh Hỏa), vũ khí móng vuốt tay, lửa thần chú thanh tẩy.
 - Cách nói chuyện: Tự nhiên, xởi lởi, xưng "tôi"; gọi Sharl là "ngài Sharl", Myullias là "Tiểu thư Myullias" (hay châm chọc tư cách thánh nữ của cô). Gọi Rentt là "ngài Rentt" đến #182; từ #183 đề nghị gọi nhau bằng tên như đồng nghiệp (xem pronouns.md).
 - Xuất hiện từ: #104.
-- Trạng thái tính đến chương 183: Đã mua xác Tarasque của Rentt (20 đồng bạch kim); kiểm tra Rentt bằng Thánh Hỏa (#106, #113) và tuyên bố anh trong sạch; nhờ Rentt báo cho cô nếu gặp Ma Cà Rồng không đánh nổi; đề nghị giúp tìm túi ma thuật. Ở #183 diệt Thi Quỷ tại quảng trường Maalt, tặng Ma Tinh cho Rentt, ngỏ ý cùng anh lập đội săn Ma Cà Rồng.
+- Trạng thái tính đến chương 183: Đã mua xác Tarasque của Rentt (20 đồng bạch kim); kiểm tra Rentt bằng Thánh Hỏa (#105–106, #113) và tuyên bố anh trong sạch; nhờ Rentt báo cho cô nếu gặp Ma Cà Rồng không đánh nổi; đề nghị giúp tìm túi ma thuật. Ở #183 diệt Thi Quỷ tại quảng trường Maalt, tặng Ma Tinh cho Rentt, ngỏ ý cùng anh lập đội săn Ma Cà Rồng.
 - Trạng thái tính đến chương 209: Rời khỏi Maalt cùng với sự tháp tùng giám sát của Thánh Nữ Myullias Raiza; trước khi đi rủ Rentt cùng đi săn Ma Cà Rồng nhưng bị anh từ chối; quan sát đoàn xe của Học Viện tiến vào Maalt và buông lời cảnh báo về rắc rối sắp tới.
 
 ### Aaruz
