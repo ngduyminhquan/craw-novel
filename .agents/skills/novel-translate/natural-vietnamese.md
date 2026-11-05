@@ -33,7 +33,7 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
     - "a piece of cake" → "dễ như ăn kẹo".
 12. **Nhịp câu.** Câu dài nhiều mệnh đề thì tách ra. Nhiều câu cụt liền nhau thì gộp lại. Đọc thầm cả đoạn: chỗ nào vấp thì viết lại.
 13. **Câu đùa phải giữ được duyên.** Câu đùa mà dịch thẳng mất hay thì chọn cách nói khác có cùng hiệu ứng hài. Vẫn không được thêm ý mới.
-14. **Đừng sửa quá tay.** Tự nhiên không có nghĩa là hoa mỹ. Không thêm cảm xúc hay hình ảnh mà raw không có. Không chêm từ Hán Việt nặng hay thành ngữ cầu kỳ chỉ để câu "văn" hơn.
+14. **Đừng sửa quá tay.** Tự nhiên không có nghĩa là hoa mỹ. Không thêm cảm xúc, hình ảnh hay động tác mà raw không có ("grimaced" là "nhăn mặt", không phải "cau mày cay đắng"). Không chêm từ Hán Việt nặng hay thành ngữ cầu kỳ chỉ để câu "văn" hơn.
 15. **Gợi ý dịch trong `rules.md` hay `glossary.md` là phương án tham khảo.** Với cách nói thông thường (không phải tên riêng hay thuật ngữ), chọn theo ngữ cảnh câu, không lắp nguyên cụm gợi ý vào chỗ nào cũng giống nhau.
 16. **Đừng suồng sã hoá quá đà.** Khử giọng dịch máy không có nghĩa là thay từ trung tính bằng từ lóng ("tống khứ", "ú ớ", "la cà", "hé răng nửa lời"). Giữ đúng tầng lời của nhân vật: quý tộc, người lịch thiệp, người kể điềm đạm không nói như dân chợ búa. Từ vựng cũng phải hợp bối cảnh: fantasy phương Tây thì tránh từ cổ trang Trung Hoa ("quan phủ") và từ kinh tế, hành chính, kỹ thuật hiện đại ("tài khoản", "chức năng định vị", "cán bộ nòng cốt", "khí gas", "mô-men xoắn"). Tránh cả tiếng lóng mạng ("cạn lời", "kèo này", "độc lạ") và khẩu ngữ phim Trung ("Có quỷ mới thế!").
 17. **"You" phiếm chỉ.** Trong câu nêu quy luật hay nói chung chung, "you" thường mang nghĩa "người ta", không phải người nghe. Dịch thành "anh/cậu" sẽ sai nghĩa.
@@ -42,7 +42,8 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
 19. **Không rút "chúng ta" thành "ta".** Dịch "we" trong hội thoại thành "Ta nên đi thôi" dễ bị hiểu là nhân vật tự xưng "ta" kiểu bề trên. Dùng "chúng ta", "mình", "tụi mình", "cả nhóm".
 20. **Văn bản lặp nguyên văn giữa các chương** (câu chú, lời thề, khẩu hiệu, dòng chữ khắc) phải giữ đúng như lần dịch trước. Muốn sửa thì tìm và sửa mọi chỗ cùng lúc, không sửa lẻ một chương.
 21. **Bảng xưng hô là mặc định, raw là chuẩn.** Raw gọi bằng tên riêng ("Miss Lorraine") trong khi bảng ghi gọi theo họ ("cô Vivie") thì giữ theo raw, không sửa đè.
-22. **Ngôi ba trong truyện kể ngôi thứ nhất.** Người kể xưng "tôi" thì trong lời dẫn gọi người khác là "cậu ấy / anh ấy / cô ấy" hoặc gọi tên. "Cậu", "anh" trống không dễ bị đọc thành người kể đang nói với nhân vật đó.
+22. **Ngôi ba trong truyện kể ngôi thứ nhất.** Người kể xưng "tôi" thì trong lời dẫn gọi người khác là "cậu ấy / anh ấy / cô ấy" hoặc gọi tên. "Cậu", "anh" trống không dễ bị đọc thành người kể đang nói với nhân vật đó. Muốn bớt lặp "ấy" thì lược chủ ngữ ở vế sau, đừng xoá chữ "ấy".
 23. **Đại từ khinh miệt dùng đúng lúc.** Khi người kể chưa biết một nhân vật là kẻ xấu thì dùng đại từ trung tính ("bà ấy", "ông ấy"). Chỉ chuyển sang "bà ta", "hắn", "gã" từ lúc người kể biết bộ mặt thật, đừng lộ trước cú ngoặt.
 24. **Từ Hán Việt trông giống mà nghĩa khác.** Kiểm lại nghĩa tiếng Việt hiện đại trước khi dùng: "phi nhân loại" là tàn ác chứ không phải "mạnh vượt sức người"; "earn their gratitude" là "làm họ mang ơn", không phải "kiếm ân huệ của họ".
 25. **Không bọc từ nhấn mạnh hay tượng thanh trong ngoặc kép ở lời dẫn** khi raw không có. Ngoặc kép dành cho lời thoại và chữ trích dẫn.
+26. **Bỏ "ạ" thì đừng thay máy móc bằng danh xưng.** Không gắn "... sao chú?", "... thế chú?" vào mọi câu hỏi liên tiếp. Dùng tiểu từ tự nhiên ("à", "hả", "nhỉ", "chứ") và chỉ gọi danh xưng khi cần.
