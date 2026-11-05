@@ -45,7 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Sweetpea |  | Sweetpea | Chuột Puchi Suri thú cưng của Phu nhân Emilstead | #86 |
 | Zant Currin |  | Zant Currin | Cư dân thị trấn Maalt, thân chủ đưa ra ủy thác dọn dẹp nhà cửa | #87 |
 | Sharl Stheno | Sharl | Sharl Stheno | Người đứng đầu Thương hội Stheno tại thị trấn Maalt | #103 |
-| Nive Maris | Nive | Nive Maris | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng mang tước vị Nữ Chuẩn Nam tước | #104 |
+| Nive Maris | Nive; Lady Nive | Nive Maris | Mạo hiểm giả Kim Cấp, Thợ Săn Ma Cà Rồng mang tước vị Nữ Chuẩn Nam tước | #104 |
 | Aaruz | Sir Aaruz | Aaruz | Tư tế xuất chúng của Giáo Hội Lobelia | #112 |
 | Millia | Lady Millia | Millia | Thánh Nữ xuất chúng của Giáo Hội Lobelia | #112 |
 | Adone | Adone the Courtesan | Adone | Kỹ nữ trong lịch sử sở hữu Mị Nhãn mê hoặc quốc vương khiến vương quốc sụp đổ | #113 |
