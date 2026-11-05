@@ -12,11 +12,11 @@ Về phần Rina, xem ra từ lần chia tay trước tới giờ cô vẫn số
 
 "Chà, tôi vẫn ổn cả. Như cô thấy đấy, chắc tôi sẽ không còn vướng phải mấy rắc rối trước kia nữa đâu. Mà dạo này cô thế nào? Công việc mạo hiểm của cô vẫn suôn sẻ chứ?" tôi hỏi.
 
-"Vâng, tất nhiên rồi. Cứ làm theo những gì anh chỉ bảo là mọi chuyện suôn sẻ hơn hẳn. Thực ra, hôm trước tôi vừa mới vào một tổ đội đấy! Có điều chung nhóm với một cậu bạn và một cô bạn trạc tuổi tôi."
+"Vâng, tất nhiên rồi. Cứ làm theo những gì anh chỉ bảo là mọi chuyện suôn sẻ hơn hẳn. Thực ra, hôm trước tôi vừa mới vào một tổ đội đấy! À, nhưng cũng chỉ là lập nhóm với một cậu bạn và một cô bạn trạc tuổi tôi thôi."
 
 Suốt mười năm làm mạo hiểm giả tôi toàn đi một mình, nên nghĩ đến chuyện tổ đội cũng thấy hơi nhói lòng, nhưng khoản giao tiếp của Rina thì ăn đứt tôi rồi. Ghen tị thật đấy. À thì, cũng chẳng hẳn. Bản thân tôi cũng từng được người ta mời vào tổ đội đấy chứ. Chí ít là một lần, tôi thề đấy. Chỉ là tôi thích đi một mình mà thôi.
 
-Cơ mà nghe cô bảo bạn cùng đội gồm một nam một nữ thì cũng mừng. Như thế chắc không đến mức quá nguy hiểm cho cô. Lại còn trạc tuổi nhau nữa, xem ra họ không tiếp cận Rina với ý đồ xấu. Không ít mạo hiểm giả tầm giữa độ tuổi đôi mươi hay lợi dụng người khác kiểu đó. Tức là cỡ tuổi tôi đấy, nhưng tôi thì đời nào làm cái trò đó. Dù sao đi nữa, tôi cũng thử dò hỏi xem tổ đội đó gồm những người thế nào.
+Nhưng nghe cô bảo bạn cùng đội gồm một nam một nữ thì cũng mừng. Như thế chắc không đến mức quá nguy hiểm cho cô. Lại còn trạc tuổi nhau nữa, xem ra họ không tiếp cận Rina với ý đồ xấu. Không ít mạo hiểm giả tầm giữa độ tuổi đôi mươi hay lợi dụng người khác kiểu đó. Tức là cỡ tuổi tôi đấy, nhưng tôi thì đời nào làm cái trò đó. Dù sao đi nữa, tôi cũng thử dò hỏi xem tổ đội đó gồm những người thế nào.
 
 "Thế thì tốt quá. Họ có phải người tốt không? Làm sao mà cô vào chung đội với họ vậy?"
 
@@ -66,7 +66,7 @@ Nếu có ai thắc mắc vì sao tôi biết hết những chuyện này, thì 
 
 "Anh trai tôi là hình mẫu tiêu biểu của một kỵ sĩ," Rina khẽ mỉm cười nói. "Nhưng không có nghĩa là anh ấy cứng nhắc đâu. Hồi tôi còn ở nhà, anh ấy dắt tôi đi đủ mọi nơi đấy."
 
-Nghe vậy tôi cũng hơi bất ngờ. Theo những gì cô từng kể, Rina xuất thân từ gia đình quý tộc. Phần lớn kỵ sĩ đều từ tầng lớp đó mà ra. Nghĩa là Rina vốn là một tiểu thư giàu có, thành ra ngay từ đầu tôi đã thắc mắc tại sao cô lại đi làm mạo hiểm giả ở một thị trấn nhỏ bé thế này. Nhưng tạm gác chuyện đó sang một bên, việc dắt một tiểu thư giàu có tới bất cứ nơi đâu đúng là chuyện lạ đời.
+Nghe vậy tôi cũng hơi bất ngờ. Theo những gì cô từng kể, Rina xuất thân từ gia đình quý tộc. Phần lớn kỵ sĩ đều từ tầng lớp đó mà ra. Nghĩa là Rina vốn là một tiểu thư giàu có, thành ra ngay từ đầu tôi đã thắc mắc tại sao cô lại đi làm mạo hiểm giả ở một thị trấn nhỏ bé thế này. Nhưng tạm gác chuyện đó sang một bên, dẫn một tiểu thư khuê các đi khắp mọi xó xỉnh như thế kể cũng lạ đời.
 
 "Anh ấy là một người anh tốt chứ?"
 
@@ -94,7 +94,7 @@ Tôi hứa sẽ chuyển lời tới anh ta, rồi sau khi trò chuyện thêm m
 
 "Hôm nay sắm được mấy món lớn đấy," Lorraine nói lúc về đến nhà, ánh mắt thỏa mãn ngắm nhìn chồng sách xếp trên sàn.
 
-Suốt dọc đường về, tôi đựng đống sách mua ở sạp trong túi ma thuật, nhưng vừa về tới nơi là cô đã đòi lấy hết ra ngay. Cô muốn đọc liền tay. Tôi hiểu cảm giác đó. Khi mua sách về, tôi cũng chẳng thể chờ mà muốn đọc ngay. Cơ mà cô đã vừa đi vừa đọc một cuốn trên đường về nhà rồi. Tôi từng định bảo cô dừng lại kẻo va phải người khác, song Lorraine lại mang bản lĩnh của một mạo hiểm giả Ngân Cấp. Người đi đường có lại gần thì cô chẳng cần nhìn cũng né được, thành thử tôi cũng chẳng có lý do thực sự nào để nhắc nhở cô. Tuy nhiên, làm thế thì nêu gương xấu cho bọn trẻ con ngoài kia quá. Tôi chỉ muốn bảo với lũ trẻ ở cô nhi viện rằng cô là một người phụ nữ hư hỏng.
+Suốt dọc đường về, tôi đựng đống sách mua ở sạp trong túi ma thuật, nhưng vừa về tới nơi là cô đã đòi lấy hết ra ngay. Cô muốn đọc liền tay. Tôi hiểu cảm giác đó. Khi mua sách về, tôi cũng chẳng thể chờ mà muốn đọc ngay. Có điều cô đã vừa đi vừa đọc một cuốn trên đường về nhà rồi. Tôi từng định bảo cô dừng lại kẻo va phải người khác, song Lorraine lại mang bản lĩnh của một mạo hiểm giả Ngân Cấp. Người đi đường có lại gần thì cô chẳng cần nhìn cũng né được, nên tôi cũng chẳng có lý do thực sự nào để nhắc nhở cô. Chỉ là vừa đi đường vừa đọc sách thế này thì làm gương xấu cho trẻ con quá. Tôi chỉ muốn mách với lũ trẻ ở cô nhi viện rằng cô là một người lớn rất hư.
 
 "Vậy nhé, như tôi đã nói lúc nãy, tôi ra ngoài một lát đây," tôi bảo Lorraine.
 
@@ -106,7 +106,7 @@ Sau đó, tôi rời khỏi nhà.
 
 Những gì tôi nói với Lorraine là tôi gặp Rina ở chợ và đã hứa chuyển lời nhắn cho anh trai cô, nên tôi cần ra ngoài gặp anh ta. Trước đây tôi từng kể cho Lorraine nghe chuyện mình gặp Rina trong mê cung thế nào, thành ra cô cũng khá hứng thú muốn gặp Rina, nhưng chuyện đó để dịp khác cũng được. Rina có vẻ bận rộn với công việc mạo hiểm giả, nên tôi cũng không biết có nên rủ cô qua chơi hay không.
 
-Đám thuộc hạ của Edel đang bám theo Idoles. Edel dẫn đường phía trước, nên tôi đi theo sau nó. Lần trước gặp anh ta, mặt nạ của tôi che kín cả khuôn mặt, nên tôi lại chỉnh nó về hình dạng đó. Người xung quanh nhìn vào sẽ thấy một gã khả nghi đeo mặt nạ đầu lâu, khoác áo choàng đi theo một con Puchi Suri màu đen quý hiếm. Trông tôi lúc này chắc chẳng khác nào một Tử Thần mang mầm bệnh. Thật ra, thỉnh thoảng tôi vẫn nghe thấy tiếng hít vào kinh ngạc từ những người trông thấy Edel và tôi. Chí ít thì trông tôi vẫn giống con người, nhưng đó vẫn là một dấu hiệu chẳng lành. Khi tôi bỏ mũ trùm xuống và chỉnh lại hình dạng mặt nạ thì chẳng ai chú ý tới tôi, song thấy tôi như thế này vào ban ngày ban mặt thì hẳn là đáng sợ thật. Mà thôi kệ, không làm thế thì Idoles sao nhận ra tôi được.
+Đám thuộc hạ của Edel đang bám theo Idoles. Edel dẫn đường phía trước, nên tôi đi theo sau nó. Lần trước gặp anh ta, mặt nạ của tôi che kín cả khuôn mặt, nên tôi lại chỉnh nó về hình dạng đó. Người xung quanh nhìn vào sẽ thấy một gã khả nghi đeo mặt nạ đầu lâu, khoác áo choàng đi theo một con Puchi Suri màu đen quý hiếm. Trông tôi lúc này chắc chẳng khác nào một Tử Thần rắc dịch bệnh. Thật ra, thỉnh thoảng tôi vẫn nghe thấy tiếng giật mình hốt hoảng của vài người đi đường khi trông thấy tôi và Edel. Dáng dấp tôi chí ít vẫn là con người, nhưng đi cùng chuột đen thế này nhìn vẫn chẳng lành chút nào. Khi tôi bỏ mũ trùm xuống và chỉnh lại hình dạng mặt nạ thì chẳng ai chú ý tới tôi, song thấy tôi như thế này vào ban ngày ban mặt thì hẳn là đáng sợ thật. Mà thôi kệ, không làm thế thì Idoles sao nhận ra tôi được.
 
 Cuối cùng tôi cũng bắt gặp người đàn ông quen thuộc, vạm vỡ và khoác trên mình bộ giáp kỵ sĩ. Tôi vội bước về phía anh ta.
 
@@ -154,7 +154,7 @@ Họ của cô khác đi là vì cô chủ tâm muốn giấu thân phận, thà
 
 "Nói điều này có thể hơi thất lễ, nhưng ngài dễ gần hơn nhiều so với vẻ bề ngoài đấy," Idoles có vẻ bối rối đáp.
 
-Có lẽ đúng thế thật. Bản thân tôi thì chẳng nghĩ vậy, nhưng lần này tôi đến gặp anh ta hoàn toàn vì thiện chí, nên tôi hiểu vì sao trông mình lại ra vẻ như thế.
+Có lẽ đúng thế thật. Bản thân tôi thì chẳng nghĩ vậy, nhưng lần này tôi đến gặp anh ta hoàn toàn vì thiện chí, nên tôi hiểu vì sao anh ta lại thấy thế.
 
 "Tôi cũng bình thường thôi. Mà này, tôi có lời nhắn của Rina gửi ngài đấy." Tôi nói cho anh ta biết thời gian gặp mặt mà cô mong muốn.
 
@@ -162,6 +162,6 @@ Có lẽ đúng thế thật. Bản thân tôi thì chẳng nghĩ vậy, nhưng 
 
 "Tôi sẵn lòng giúp không công thôi. Dù sao tôi cũng nợ Rina một ân tình," tôi bảo. Không có cô thì giờ này tôi đâu còn ở đây nữa. Tôi có thể để lại lời nhắn của anh ta trên bảng thông báo hoặc bất cứ cách nào khác mà anh ta muốn.
 
-"Ngài nợ con bé sao? Hừm, tôi cũng muốn nghe câu chuyện đằng sau chuyện đó đấy, nhưng tôi có thể chờ hỏi con bé sau. Vậy phiền ngài nhất định nhắn lại với con bé giúp tôi nhé," Idoles dặn dò. Anh ta nói cho tôi biết lần tới mình sẽ có mặt ở Maalt vào lúc nào và địa điểm chờ ở đâu, rồi rời đi.
+"Ngài nợ con bé ư? Hừm, tôi cũng tò mò muốn nghe đầu đuôi câu chuyện đấy, nhưng để lúc khác hỏi con bé sau cũng được. Vậy phiền ngài nhất định nhắn lại với con bé giúp tôi nhé," Idoles dặn dò. Anh ta nói cho tôi biết lần tới mình sẽ có mặt ở Maalt vào lúc nào và địa điểm chờ ở đâu, rồi rời đi.
 
-Thời gian hẹn là tầm một tháng nữa kể từ bây giờ. Tôi không nghĩ kỵ sĩ lại được nghỉ phép nhiều đến vậy, nhưng có lẽ họ có nhiều thời gian rảnh hơn tôi tưởng. Tôi cũng chẳng rõ nữa, nhưng tôi liền hướng về phía hội để gửi lại lời nhắn cho Rina. Tôi biết quán trọ nơi cô ở, song lúc gặp nhau ở chợ cô bảo lát nữa sẽ đi thám hiểm mê cung. Đây là cách chắc chắn nhất để cô nhận được nó.
+Thời gian hẹn là tầm một tháng nữa. Tôi không nghĩ kỵ sĩ lại được nghỉ phép nhiều đến vậy, nhưng có lẽ họ có nhiều thời gian rảnh hơn tôi tưởng. Tôi cũng chẳng rõ nữa, nhưng tôi liền hướng về phía hội để gửi lại lời nhắn cho Rina. Tôi biết quán trọ nơi cô ở, song lúc gặp nhau ở chợ cô bảo lát nữa sẽ đi thám hiểm mê cung. Đây là cách chắc chắn nhất để cô nhận được tin.

@@ -6,7 +6,7 @@ Sheila ngẩng lên khỏi quầy tiếp tân, tò mò nhìn tôi bước lại 
 
 "À, tôi có chút việc cần làm. Cô Sheila báo với Hội Trưởng giúp tôi một tiếng được không? Tôi muốn gặp ông ấy nói chuyện."
 
-Sheila ngạc nhiên. "Anh Rentt, anh có sao không đấy? Lúc anh bước vào, tôi cũng ngờ ngợ là vì chuyện đó, nhưng Hội Trưởng không dễ tính thế đâu," cô xâu chuỗi sự việc rồi lên tiếng cảnh báo.
+Sheila thoáng giật mình. "Anh Rentt, thế có ổn không đấy? Thấy anh bước vào giờ này là tôi cũng đoán ra phần nào rồi, nhưng Hội Trưởng không dễ bỏ qua thế đâu," cô đoán ngay ra sự tình, lo lắng nhắc nhở.
 
 Lý do để tôi cất công tìm gặp Hội Trưởng chẳng có mấy. Quan trọng nhất chỉ có chuyện tình trạng đăng ký hiện tại của tôi, và đó cũng là điều khiến cô lo lắng.
 
@@ -18,7 +18,7 @@ Lý do để tôi cất công tìm gặp Hội Trưởng chẳng có mấy. Quan
 
 "Đầy người cũng làm chuyện sai trái mà. Dù sao thì cứ để tôi gặp Hội Trưởng nói chuyện đi," tôi nhắc lại.
 
-Sheila thoáng vẻ bất an một lúc. "Nếu anh đã khăng khăng như vậy thì chắc cũng không sao đâu. Mời anh đi lối này," cô nói rồi đứng dậy.
+Sheila thoáng vẻ lo lắng. "Nếu anh đã quyết vậy thì chắc cũng có cách rồi. Mời anh đi lối này," cô nói rồi đứng dậy.
 
 ◆◇◆◇◆
 
@@ -82,7 +82,7 @@ Tôi không nắm rõ Hội Trưởng Wolf là người thế nào cho lắm, nh
 
 Để lộ thân phận cởi mở như thế đúng là một canh bạc, nhưng đã mang lại kết quả vì ông nắm được đủ manh mối để khẳng định tôi là Rentt Faina. Không phải là tôi muốn ông nhận ra tất thảy mọi điều, nhưng giá như ông tự đoán ra rồi chủ động gọi tôi vào nói chuyện thì tốt biết mấy. Thực tế thì ông xâu chuỗi được hết thật, chỉ là cuối cùng tôi vẫn phải tự mình tìm đến.
 
-Dù sao thì kế hoạch của tôi xem ra cũng có tiến triển. Dĩ nhiên, tôi chưa thể đặt quá nhiều niềm tin vào nhân cách của Wolf ngay lúc này, nhưng chí ít tôi quyết định có thể nói chuyện thêm với ông một chút.
+Dù sao thì kế hoạch của tôi xem ra cũng có tác dụng. Dĩ nhiên chưa thể tin tưởng hoàn toàn vào con người Wolf ngay lúc này, nhưng tôi nghĩ chí ít cũng có thể trao đổi thêm với ông vài câu.
 
 "Chỉ cần từng đó lý do là ông tin tôi là Rentt Faina ư? Chỉ vì tên giống nhau thôi á? Vô lý thật đấy. Tên tôi đặt theo một vị Thánh Giả, giống biết bao người khác ngoài kia thôi. Còn họ Vivie tuy không phổ biến ở nước này, nhưng sang Đế Quốc thì đâu đâu cũng thấy," tôi khăng khăng cãi lại.
 
@@ -96,7 +96,7 @@ Thú nhận mình là quái vật chẳng khác nào tự sát, nhưng qua cuộ
 
 "Ông có chứng minh được mình đáng tin không? Đăng ký hai lần vốn đã phạm quy rồi. Ông là Hội Trưởng, cho phép chuyện đó liệu có ổn không?" tôi hỏi.
 
-Wolf bật cười. "Trả lời câu thứ hai trước nhé, tôi nghĩ cậu thừa biết đăng ký hai lần chẳng phải chuyện gì nghiêm trọng. Hình phạt nặng nhất tôi có thể đưa ra cùng lắm là cấm cậu nhận ủy thác vài ngày, hoặc phạt chút tiền là cùng, chỉ thế thôi. Chẳng có gì phải lo ở điểm đó. Còn câu đầu tiên, tôi chẳng thể bảo cậu cứ tin mình, nhưng nếu hai ta ký một khế ước ràng buộc ma pháp cam kết tôi không tiết lộ bất cứ điều gì cậu kể thì sao? Tuy việc đó có thể gây ra vài rắc rối, nhưng ta có thể bàn kỹ lại từng chi tiết nhỏ. Dù sao nó cũng sẽ giữ cho bí mật của cậu không lọt ra ngoài. Nếu sau đó mà cậu vẫn chưa chịu tin tôi, thì..."
+Wolf bật cười. "Trả lời câu thứ hai trước nhé, tôi nghĩ cậu thừa biết đăng ký hai lần chẳng phải chuyện gì nghiêm trọng. Hình phạt nặng nhất tôi có thể đưa ra cùng lắm là cấm cậu nhận ủy thác vài ngày, hoặc phạt chút tiền là cùng, chỉ thế thôi. Chẳng có gì phải lo ở điểm đó. Còn câu đầu tiên, tôi chẳng thể bảo cậu cứ tin mình, nhưng nếu hai ta ký một khế ước ràng buộc ma pháp cam kết tôi không tiết lộ bất cứ điều gì cậu kể thì sao? Tuy việc đó có thể gây ra vài rắc rối, nhưng hai ta có thể bàn kỹ lại từng chi tiết nhỏ. Dù sao nó cũng sẽ giữ cho bí mật của cậu không lọt ra ngoài. Nếu sau đó mà cậu vẫn chưa chịu tin tôi, thì..."
 
 "Thì sao nữa?" tôi hỏi. Bản thân tôi vốn không định là người chủ động đề xuất khế ước ràng buộc ma pháp. Đúng là loại khế ước này không thể bị phá vỡ, lòng tin sẽ chẳng còn là vấn đề, nhưng khế ước vẫn có thể có kẽ hở. Dù cảm kích trước thiện chí của ông, tôi vẫn chưa biết phải nói sao.
 

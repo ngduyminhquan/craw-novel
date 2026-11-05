@@ -8,7 +8,7 @@
 
 Cô giải thích thêm vì sao lại cần tay cầm. "Đũa phép chúng ta làm hôm nay dùng cũng chẳng khác mấy so với việc cầm mỗi viên Ma Tinh, nhưng vật dẫn cao cấp hơn sẽ thêm nhiều thứ vào tay cầm. Chẳng hạn như lồng nguyên liệu vào trong, hay dùng nhiều viên Ma Tinh cho chúng cộng hưởng với nhau, cùng đủ thứ khác nữa. Tay cầm giống như cái nền nâng đỡ cả vật dẫn vậy," cô giải thích.
 
-Nếu tay cầm không bắt buộc thì tự thân Ma Tinh cũng hoạt động như một vật dẫn được rồi. Có điều thêm tay cầm lại giúp cường hóa vật dẫn ma pháp. Thế là nảy ra thắc mắc.
+Nếu không nhất thiết phải có tay cầm, nghĩa là bản thân viên Ma Tinh đã dùng làm vật dẫn được rồi. Nhưng lắp thêm tay cầm lại giúp vật dẫn mạnh hơn. Thế thì lại nảy ra vài thắc mắc.
 
 "Thế nhẫn làm vật dẫn ma pháp kém hơn đũa phép với gậy phép ạ?" Alize nhanh nhảu hỏi.
 
@@ -36,7 +36,7 @@ Theo lời Lorraine giục, tôi quay lại với khúc gỗ Ent Bụi Cây củ
 
 Tôi và Alize gật đầu rồi bắt tay vào việc. Đúng như tôi đoán, tôi chẳng gặp chút khó khăn nào khi gọt bỏ phần thừa. Alize thì chật vật hơn, lúc thì lẹm mất vài mẩu nhỏ, lúc lại lượn đường cong, có lúc chẳng bóc nổi gì ngoài lớp vỏ. Nhưng rốt cuộc cô bé vẫn gọt được vừa vặn kích thước cần dùng. Vẫn đáng nể như mọi khi.
 
-"Được rồi, giờ đến lúc nắn khúc gỗ thành đũa phép. Bước này về cơ bản cũng giống thế. Dùng Ma Lực nén và vót tròn khúc gỗ lại. Cơ mà lần đầu dễ hỏng lắm đấy Alize, nên em cứ lấy mấy mẩu gỗ thừa vừa gọt ra mà tập trước. Quen tay rồi hãy làm đồ thật. Được chứ?" Lorraine hỏi. Alize gật đầu.
+"Được rồi, giờ đến lúc tạo hình khúc gỗ thành đũa phép. Bước này về cơ bản cũng giống vậy. Dùng Ma Lực nén và nắn tròn khúc gỗ lại. Nhưng làm lần đầu dễ hỏng lắm đấy Alize, nên em cứ lấy mấy mẩu gỗ vụn vừa bóc ra mà tập trước. Quen tay rồi hãy làm trên khúc gỗ chính. Được chứ?" Lorraine hỏi. Alize gật đầu.
 
 Tôi nhìn sang Lorraine xem mình có nên làm thế không. Vẻ mặt cô như muốn bảo tôi tự quyết định lấy. Nãy giờ tôi làm cái gì cũng nhoay nhoáy nên cô ưu tiên kèm Alize trước. Thế cũng đúng. Dù sao tôi cũng thích tự mày mò hơn.
 
@@ -64,7 +64,7 @@ Bao nhiêu công sức đổ vào đấy nên tôi cũng hơi tiếc, nhưng đa
 
 "Khoan đã nào. Cô dùng Ma Lực nắn đầu đũa bọc quanh viên Ma Tinh để giữ chặt, chừng đó thì tôi hiểu rồi, nhưng mấy tia lửa bắn ra lúc nãy là thế nào?" tôi xen vào.
 
-Lorraine bật cười. "Chà, hỏi hay đấy. Tôi đùa chút thôi mà," cô đáp.
+Lorraine bật cười. "Chà, để ý kỹ đấy. Lúc nãy tôi chỉ trêu hai người chút thôi," cô đáp.
 
 "Phần đó quan trọng đấy. Lúc làm mẫu tôi làm liền một mạch mọi thứ, chứ ghép Ma Tinh với đũa phép thực ra qua mấy bước lận. Lát nữa mới tới chỗ đó. Trước hết, hai người phải dẫn một đường chạy dọc cây đũa phép đã."
 
@@ -130,7 +130,7 @@ Rót Ma Lực vào đũa chừng nửa phút, đầu đũa của tôi liền tó
 
 Mỗi tay phải làm một việc khác nhau, với vài người thì thế là quá khó nhằn. Nghĩ vậy mới thấy Alize làm tốt thật. Dù hơi chậm hơn tôi một nhịp, em vẫn duy trì ánh sáng ở đầu đũa trong lúc nạp Ma Lực vào Ma Tinh. Có thể do tôi thiên vị, nhưng cô bé quả thực khéo léo đáng nể.
 
-"Có lẽ thử rồi hai người mới nhận ra, Ma Tinh ngốn nhiều Ma Lực hơn, không thì sẽ rơi vào cái cảnh lúng túng như bây giờ đấy. Lần sau làm vật dẫn thì nhớ lấy điều này," Lorraine bảo.
+"Làm thử rồi chắc hai người cũng thấy, Ma Tinh ngốn nhiều Ma Lực hơn hẳn; không tính trước là lại rơi vào cảnh vất vả như bây giờ ngay. Lần sau làm vật dẫn thì nhớ lưu ý chuyện đó," Lorraine dặn.
 
 "Hiểu rồi," tôi gật đầu. Alize đang tập trung cao độ phân phối Ma Lực nên chẳng còn hơi sức đâu mà trả lời. Trò này chẳng khác gì một tay tung hứng một tay viết thư. Bắt làm thêm việc thứ ba nữa thì chịu chết, nên Alize không mở miệng được cũng phải thôi.
 
@@ -146,7 +146,7 @@ Vừa làm theo, ánh sáng từ viên Ma Tinh liền tự chuyển hướng v�
 
 "Tạo thành hình gì cũng được hả?"
 
-"Hình gì cũng được, đoạn này nhiều người tha hồ sáng tạo lắm. Cơ mà mới làm lần đầu thì tôi khuyên đừng bày vẽ cầu kỳ quá, dẫu vậy—"
+"Hình gì cũng được, tới bước này nhiều người hay trổ tài sáng tạo lắm. Có điều mới làm lần đầu thì tôi khuyên đừng bày vẽ cầu kỳ quá, nhưng mà—"
 
 "Học Sĩ Lorraine ơi!" Alize reo lên. Ma Tinh của cô bé cũng đã bắt đầu phát sáng.
 

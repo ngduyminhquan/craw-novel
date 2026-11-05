@@ -46,7 +46,7 @@ Tôi không đáp, chỉ cầm con dao găm lên rồi xắn tay áo.
 
 Wolf hốt hoảng bật dậy, nhưng đã muộn. Tôi đã rạch một nhát dọc chính giữa cánh tay trái, để lại một vết cắt dài và máu bắt đầu rỉ ra.
 
-"Cái quái gì thế này?" Wolf thốt lên khi nhìn vào cánh tay tôi, nhưng con mắt của ông lập tức trợn tròn sửng sốt. Ông vừa tận mắt chứng kiến một chuyện không tưởng. "Vết thương khép miệng rồi ư? Sao lại thế được? Tôi đâu thấy cậu dùng thuốc men hay ma pháp gì đâu." Dùng Thần Lực, ma pháp hay thuốc mỡ cũng sẽ mang lại hiệu quả tương tự. Từ kinh nghiệm của mình, Wolf biết đây là thứ hoàn toàn khác.
+"Cái quái gì thế này?" Wolf thốt lên khi nhìn vào cánh tay tôi, nhưng con mắt của ông lập tức trợn tròn sửng sốt. Ông vừa tận mắt chứng kiến một chuyện không tưởng. "Vết thương khép miệng rồi ư? Sao lại thế được? Tôi đâu thấy cậu dùng thuốc men hay ma pháp gì đâu." Dù dùng Thần Lực, ma pháp hay thuốc mỡ cũng sẽ mang lại hiệu quả tương tự, nhưng bằng kinh nghiệm của mình, Wolf biết đây là thứ hoàn toàn khác.
 
 "Đây chính là lý do tôi buộc phải che giấu thân phận. Nếu cứ tiếp tục sống dưới thân phận cũ, sớm muộn gì cũng dẫn tới hỗn loạn," tôi nói.
 
@@ -58,7 +58,7 @@ Hoặc ít ra tôi tự nghĩ thế. Dạo gần đây tôi cũng bắt đầu h
 
 ◆◇◆◇◆
 
-Đương nhiên lời tôi nói làm Wolf giật mình sửng sốt. Thoạt tiên ông còn tưởng tôi mất trí. Sự thật này quả khó mà nuốt trôi, nhưng tôi vừa phô bày khả năng tái sinh dị thường ngay trước mắt. Lời giải thích duy nhất là tôi đang nói thật, và ông cũng nhanh chóng nhận ra điều đó. Dù vậy, trong đầu ông vẫn còn cả đống câu hỏi.
+Dĩ nhiên lời tôi nói làm Wolf giật mình sửng sốt. Ban đầu ông còn tưởng tôi bị điên. Chuyện này quả thực khó tin, nhưng tôi vừa cho ông thấy khả năng tự lành vết thương dị thường ngay trước mắt. Cách lý giải duy nhất là tôi đang nói thật, và Wolf cũng nhanh chóng hiểu ra điều đó. Dù vậy, trong đầu ông vẫn còn cả đống thắc mắc.
 
 Wolf cuối cùng cũng thoát khỏi cơn sững sờ chết lặng, gắng gượng mở miệng. "Không ngờ lại nghe được chuyện này. Chẳng biết nên hỏi từ đâu trước, nhưng tạm gác chuyện thật giả sang một bên, rốt cuộc làm sao lại ra cơ sự này?" ông hỏi.
 
@@ -104,7 +104,7 @@ Tôi khựng lại. Tôi chẳng muốn nhớ lại chuyện hồi đó thêm ch
 
 Đúng là vất vả thật, nhưng cũng tại tôi tự nguyện nghe theo đề xuất của bà cụ. Mà rốt cuộc mấy bài học của bà lại rất có ích, nên tôi chẳng phàn nàn gì được.
 
-"Dù sao thì cậu vẫn khăng khăng không phải ảo giác. Tôi hiểu rồi. Và cậu cũng dám chắc đó là Rồng. Cơ mà tôi vẫn chưa hiểu làm sao chuyện đó lại gây ra tác động thế này lên cơ thể cậu. Rốt cuộc chuyện xảy ra thế nào?" Wolf hỏi.
+"Thôi được, cậu đã khẳng định không phải ảo giác thì tôi hiểu rồi. Cậu cũng chắc chắn đó là Rồng. Nhưng tôi vẫn chưa hiểu sao gặp Rồng mà cơ thể cậu lại biến thành thế này. Rốt cuộc chuyện xảy ra ra sao?" Wolf hỏi.
 
 Câu chuyện của tôi vẫn chưa kết thúc.
 
@@ -120,7 +120,7 @@ Tôi hiểu cảm giác của ông, nhưng những chi tiết tiếp theo mới 
 
 Wolf đáp lại ngay tức khắc. "Cậu nói cái quái gì thế hả? Nếu bị ăn thịt rồi thì làm sao giờ cậu còn ngồi ở đây được."
 
-"Bình thường thì đúng là vậy. Nhưng chẳng hiểu sao sau khi bị con Rồng ăn thịt, lúc tỉnh dậy tôi đã biến thành một Khô Lâu."
+"Bình thường thì đúng là vậy. Nhưng chẳng hiểu sao sau khi bị con Rồng ăn thịt, lúc tỉnh dậy tôi đã biến thành Khô Lâu."
 
 "Khoan, đợi chút đã! Đầu óc tôi không thể tiêu hóa nổi đống chuyện này! Cho tôi uống chút nước đã!"
 
@@ -130,7 +130,7 @@ Tôi muốn kể nốt phần còn lại trong một hơi, nhưng không có cơ
 
 Xem ra Wolf cũng biết về Lorraine. Nghề chính của cô là học giả, nhưng cô cũng là mạo hiểm giả thuộc Hội Maalt. Thỉnh thoảng Hội vẫn nhờ cô điều tra và làm báo cáo về quái vật, nên chắc hẳn Wolf đang tận dụng vốn kiến thức của cô.
 
-"Tôi có hỏi cô ấy rồi, nhưng không theo kịp hết những gì cô ấy giải thích," tôi đáp. "Tôi biết con người có thể biến thành quái vật nếu bị Ma Cà Rồng biến thành tôi tớ chẳng hạn, nhưng làm sao để biến thành một Khô Lâu thì tôi không biết. Xương cốt người chết có thể dùng để tạo ra Khô Lâu, chuyện đó thì ai cũng rõ, nhưng đây lại là chuyện hoàn toàn khác. Lúc ấy tôi chắc chắn mười mươi mình là một Khô Lâu, thế nhưng tôi vẫn còn nguyên ý thức. Tôi vẫn nhớ chuyện con Rồng ăn thịt mình. Đâu phải ở chỗ nào người ta cũng thấy một con Khô Lâu như thế nằm lăn lóc, đúng không?"
+"Tôi có hỏi cô ấy rồi, nhưng không theo kịp hết những gì cô ấy giải thích," tôi đáp. "Tôi biết con người có thể biến thành quái vật nếu bị Ma Cà Rồng biến thành tôi tớ chẳng hạn, nhưng làm sao để biến thành Khô Lâu thì tôi không biết. Xương cốt người chết có thể dùng để tạo ra Khô Lâu, chuyện đó thì ai cũng rõ, nhưng đây lại là chuyện hoàn toàn khác. Lúc ấy rõ ràng tôi là một Khô Lâu, thế nhưng vẫn còn nguyên ý thức. Tôi vẫn nhớ chuyện con Rồng ăn thịt mình. Làm gì có chuyện đi đâu cũng bắt gặp một con Khô Lâu như thế, đúng không?"
 
 Wolf có kinh nghiệm mạo hiểm hơn tôi rất nhiều, nên biết đâu ông lại biết vài trường hợp ngoại lệ. Tôi hỏi với hy vọng điều đó là thật, nhưng ông chỉ lắc đầu.
 
@@ -142,7 +142,7 @@ Wolf có kinh nghiệm mạo hiểm hơn tôi rất nhiều, nên biết đâu �
 
 Về phần mình, tôi có thể đọc những cuốn sách về quái vật ở nhà Lorraine. Tôi vốn thích đọc sách, và ở đó chẳng thiếu thông tin cho tôi tiếp thu. Nhưng với một mạo hiểm giả tân binh không tiếp cận được môi trường tương tự, họ sẽ phải tham gia các lớp học ở hội hoặc học hỏi những điều căn bản từ các mạo hiểm giả đi trước. Ngặt nỗi ngày càng có nhiều người muốn bỏ qua những bước đó. Ở Maalt tình hình chưa đến nỗi quá tệ, nhưng theo những gì tôi nghe được thì chuyện đó đã trở thành vấn đề nghiêm trọng tại các thành phố khác. Có khi trên vương đô còn tệ hơn thế. Một ngày nào đó tôi muốn tự mình đến đó xem thử.
 
-Tôi gật đầu. "Vâng, đúng là có chuyện đó. Chắc ông cũng nhận ra rồi, khi thành Khô Lâu, tôi nghĩ biết đâu Tiến Hóa Bản Thể cũng có thể xảy ra với mình. Bên trong tôi vẫn là con người, nhưng cơ thể hoàn toàn là quái vật, nên có lẽ tôi cũng làm được những chuyện của quái vật."
+Tôi gật đầu. "Đúng rồi đấy. Chắc ông cũng nhận ra rồi, khi thành Khô Lâu, tôi nghĩ biết đâu Tiến Hóa Bản Thể cũng có thể xảy ra với mình. Bên trong tôi vẫn là con người, nhưng cơ thể hoàn toàn là quái vật, nên có lẽ tôi cũng làm được những chuyện của quái vật."
 
 "Nghe điên rồ thật đấy, nhưng đúng là Khô Lâu có thể tiến hóa thành nhiều loài quái vật trông giống con người. Ý cậu là thế chứ gì?" Wolf hỏi, vận dụng tối đa trực giác của mình.
 
@@ -160,14 +160,14 @@ Tôi hoảng hốt kêu lên: "Không đâu, tôi chưa từng đụng tới m�
 
 "Lorraine chia sẻ máu của cô ấy cho tôi. Chuyện này cô ấy biết hết cả," tôi nói, quyết định thành thật.
 
-Tôi không biết nên nói bao nhiêu về mối quan hệ giữa mình với Lorraine, nhưng Wolf đã biết việc tôi sống cùng cô ấy, và từ xưa ông cũng luôn biết hai chúng tôi là bạn. Dù tôi có bảo là cô ấy chẳng nhận ra điều gì bất thường thì tôi nghĩ Wolf cũng chẳng tin đâu. Tuy nhiên đúng như dự đoán, Wolf không hề trách chúng tôi giấu kín chuyện này với Hội. Thực ra, trông ông còn có vẻ đồng cảm.
+Tôi không biết nên nói bao nhiêu về mối quan hệ giữa mình với Lorraine, nhưng Wolf đã biết việc tôi sống cùng cô ấy, và từ xưa ông cũng luôn biết hai chúng tôi là bạn. Dù tôi có bảo là cô ấy chẳng nhận ra điều gì bất thường thì tôi nghĩ Wolf cũng chẳng tin đâu. Có điều đúng như dự đoán, Wolf không hề trách chúng tôi giấu kín chuyện này với Hội. Thậm chí, trông ông còn có vẻ đồng cảm.
 
-"Dựa trên những gì cậu kể từ nãy tới giờ thì chuyện đó cũng chẳng có gì đáng ngạc nhiên, cơ mà cậu chắc là cô ấy sẽ ổn đấy chứ? Theo những gì tôi biết thì lượng máu Ma Cà Rồng hút nhiều hơn mức một người có thể cung cấp đấy," Wolf lo lắng nói.
+"Dựa trên những gì cậu kể từ nãy tới giờ thì chuyện đó cũng chẳng có gì đáng ngạc nhiên, nhưng cậu chắc là cô ấy sẽ ổn đấy chứ? Theo những gì tôi biết thì lượng máu Ma Cà Rồng hút nhiều hơn mức một người có thể cung cấp đấy," Wolf lo lắng nói.
 
-"Đúng là có vấn đề đó thật, nhưng tôi không cần nhiều máu đến mức ấy. Mỗi ngày chỉ vài giọt là đủ để tôi làm dịu cơn khát rồi. Tôi cũng có thể ăn uống như người bình thường. Tuy nhiên sau vài chuyện đã trải qua, tôi bắt đầu tự hỏi liệu mình có thực sự là Ma Cà Rồng hay không."
+"Đúng là có vấn đề đó thật, nhưng tôi không cần nhiều máu đến mức ấy. Mỗi ngày chỉ vài giọt là đủ để tôi làm dịu cơn khát rồi. Tôi cũng có thể ăn uống như người bình thường. Có điều sau vài chuyện đã trải qua, tôi bắt đầu tự hỏi liệu mình có thực sự là Ma Cà Rồng hay không."
 
 "Ý cậu là sao?"
 
-"Chắc ông biết Nive Maris đúng không? Cô ấy đã kết luận rằng tôi không phải là Ma Cà Rồng."
+"Chắc ông biết Nive Maris chứ? Chính cô ấy đã kết luận tôi không phải là Ma Cà Rồng."
 
 Wolf ôm đầu rồi lại uống cạn thêm một cốc nước nữa.

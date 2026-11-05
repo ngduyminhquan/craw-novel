@@ -18,7 +18,7 @@ Thảo nào hương vị lại đậm đà, nhiều tầng lớp đến thế. T
 
 "Cô Sheila, cô không thấy ngại sao?" tôi hỏi cô.
 
-"Nói không ngại chút nào thì không đúng, nhưng anh là Ma Cà Rồng và cần máu để sống mà. Tôi biết điều đó từ hồi chúng ta lập khế ước rồi, cơ mà trước giờ anh toàn lấy máu từ cô Lorraine. Cô ấy bảo mỗi tháng chỉ tầm một bình, nhưng tôi sợ rằng rồi sẽ có ngày cô ấy đổ bệnh mất, nên tôi nghĩ thử dùng máu của mình xem sao cũng là ý hay," cô nói. Wolf cũng từng lo lắng về đúng chuyện đó. Bình máu đợt trước Lorraine đưa cho tôi cũng sắp cạn rồi, nên có thêm người san sẻ thế này thì tôi cảm kích lắm.
+"Nói không ngại chút nào thì không đúng, nhưng anh là Ma Cà Rồng và cần máu để sống mà. Tôi biết điều đó từ hồi chúng ta lập khế ước rồi, nhưng trước giờ anh toàn lấy máu từ cô Lorraine. Cô ấy bảo mỗi tháng chỉ tầm một bình, nhưng tôi sợ rồi sẽ có ngày cô ấy đổ bệnh mất, nên tôi nghĩ thử dùng máu của mình xem sao cũng là ý hay," cô nói. Wolf cũng từng lo lắng về đúng chuyện đó. Bình máu đợt trước Lorraine đưa cho tôi cũng sắp cạn rồi, nên có thêm người san sẻ thế này thì tôi cảm kích lắm.
 
 Phần đồ ăn có pha máu dĩ nhiên chỉ dành riêng cho tôi, còn Lorraine và Sheila thì ăn uống bình thường.
 
@@ -30,13 +30,13 @@ Phần đồ ăn có pha máu dĩ nhiên chỉ dành riêng cho tôi, còn Lorra
 
 Lorraine lắc đầu. "Nếu ông ấy đã tin tưởng anh thì mang ra đe dọa chẳng phải ý hay. Tôi vốn định khuyên anh giữ kín để phòng sau này có chuyện, nhưng anh xưa nay đâu phải mẫu người chủ động mấy chuyện đó. Thôi, thế cũng được," cô nói.
 
-Cơ mà cô không bảo là tôi không giữ kín được, bởi cô thừa hiểu tôi làm được. Chỉ là tôi không muốn làm thế mà thôi.
+Tuy vậy, cô không hề bảo tôi không giữ kín nổi bí mật, bởi cô thừa hiểu tôi làm được. Chỉ là bản thân tôi không muốn làm thế mà thôi.
 
-"Cơ mà, có kẽ hở cho phép giữ lại hai danh tính đăng ký thật sao? Tôi nhớ mang máng là có quy định đó, nhưng bất ngờ là Hội Trưởng lại nghĩ ngay ra nó nhanh đến thế. Theo tôi biết thì mấy chục năm qua ở Maalt chưa từng có ai dùng tới rồi," Sheila góp lời.
+"Nhưng có kẽ hở cho phép giữ lại hai danh tính đăng ký thật sao? Tôi nhớ mang máng là có quy định đó, nhưng bất ngờ là Hội Trưởng lại nghĩ ngay ra nó nhanh đến thế. Theo tôi biết thì mấy chục năm qua ở Maalt chưa từng có ai dùng tới rồi," Sheila góp lời.
 
 "Thật thế à?" Tôi nghiêng đầu. Tôi cứ ngỡ quy tắc đó chỉ giấu mạo hiểm giả, chứ trong nội bộ nhân viên vẫn dùng thường xuyên.
 
-"Vâng, quy định đó vốn để nhân viên dùng khi cần điều tra hoặc thu thập thông tin từ mạo hiểm giả. Cơ mà dạo này chúng tôi đâu cần phải đích thân làm mạo hiểm giả mới lấy được tin tức, thành ra chẳng ai áp dụng nữa. Cũng không có nhiều tác dụng cho lắm," Sheila giải thích.
+"Vâng, quy định đó vốn để nhân viên dùng khi cần điều tra hoặc thu thập thông tin từ mạo hiểm giả. Nhưng dạo này chúng tôi đâu cần phải đích thân làm mạo hiểm giả mới lấy được tin tức, thành ra chẳng ai áp dụng nữa. Cũng không có nhiều tác dụng cho lắm," Sheila giải thích.
 
 Xem ra cơ chế này chẳng khác nào đã bị bỏ xó từ lâu, vậy mà Wolf lại nghĩ ra ngay được.
 
@@ -50,7 +50,7 @@ Nói cách khác, đây là lựa chọn ông ấy đã ấp ủ từ tận hồ
 
 "Nghe đúng là phong cách của Hội Trưởng thật. Mấy chuyện thế này ông ấy hay suy tính nhiều lắm. Nhìn vẻ ngoài của ông ấy thì dễ hiểu lầm, nhưng tôi nghe nói ông ấy khá thông minh đấy. Dù sao thì ông ấy cũng là người tốt," Sheila chen vào, đưa thêm dẫn chứng củng cố cho phỏng đoán của Lorraine.
 
-Nếu đúng là thế thì tôi bị ông ấy nắm gọn trong lòng bàn tay rồi còn gì. Cơ mà xoay chuyển một kẻ như tôi thì khó gì đâu, tính tôi vốn cứ thuận theo dòng nước. Tôi quyết định không bận tâm nữa. Dù sao chuyện này cũng chẳng có gì thiệt cho tôi, ngộ nhỡ có chuyện xảy ra thì lúc đó tính sau.
+Nếu đúng là thế thì tôi bị ông ấy nắm gọn trong lòng bàn tay rồi còn gì. Mà xoay chuyển một kẻ như tôi thì khó gì đâu, tính tôi vốn cứ thuận theo dòng nước. Tôi quyết định không bận tâm nữa. Dù sao chuyện này cũng chẳng có gì thiệt cho tôi, ngộ nhỡ có chuyện xảy ra thì lúc đó tính sau.
 
 Có điều, buông lỏng quá đà có thể dẫn tới hậu quả đau đớn về sau, dạo gần đây tôi cũng bắt đầu thấm thía điều đó rồi.
 
@@ -82,7 +82,7 @@ Tôi vẫy tay chào rồi về phòng. Tôi hy vọng mai sẽ bắt gặp vài
 
 Cô đã qua độ tuổi kết hôn trung bình từ lâu, song không ít phụ nữ ở tầm tuổi cô vẫn kết hôn với người quen cũ đấy thôi. Nếu anh giữ cái tên Rentt Vivie, điều đó cũng đồng nghĩa với việc anh sẽ vào ở rể nhà cô.
 
-"Kết hôn cơ à?" Lorraine nhắc lại rồi nhắm mắt. Cô thử tưởng tượng viễn cảnh đó, nhưng nó chỉ mang lại cho cô cảm giác bồn chồn, ngứa ngáy.
+"Kết hôn cơ à?" Lorraine nhắc lại rồi nhắm mắt. Cô thử tưởng tượng viễn cảnh đó, nhưng nó chỉ mang lại cho cô cảm giác bồn chồn, ngượng nghịu khó tả.
 
 ◆◇◆◇◆
 
@@ -100,9 +100,9 @@ Hai chúng tôi đang ở khu chợ để mua sắm đủ thứ đồ lặt vặ
 
 Lorraine ôm đầu trước lý lẽ của tôi. "Anh đang giở giọng triết lý với tôi đấy à? Tôi chẳng hiểu nổi."
 
-Tôi vốn định cãi lại rằng đấy là tinh thần mạo hiểm, cơ mà tôi thừa biết trong màn đối đáp đó ai sẽ là kẻ trông ngớ ngẩn. Dù sao thì tôi vẫn muốn mấy món ma cụ đó, không kìm lại được.
+Tôi vốn định cãi lại rằng đấy là tinh thần mạo hiểm, nhưng tôi thừa biết trong màn đối đáp đó ai sẽ là kẻ trông ngớ ngẩn. Dù sao thì tôi vẫn muốn mấy món ma cụ đó, không kìm lại được.
 
-"Thôi thì, anh muốn tiêu tiền của mình thế nào tùy thích. Tôi cũng vừa mua một cuốn sách chẳng có mấy giá trị thực tế, nên phần nào tôi cũng hiểu được suy nghĩ của anh," Lorraine đành nhượng bộ, tay cầm cuốn sách dày bọc bìa da vừa mua ở sạp hàng rong trước đó. Tựa sách là "Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon", một cái tên nghe đầy vẻ chẳng lành. Nấu nướng bằng các bộ phận của quái vật là chuyện bình thường, song khía cạnh "kém chất lượng" lại khiến tôi băn khoăn không hiểu họ muốn ám chỉ thứ gì. Có khi là Slime chăng, nhưng ngay cả thứ đó cũng chế biến thành món nuốt trôi được. Tôi chỉ biết cầu mong sao cho mình chẳng bao giờ phải đụng tới cuốn sách này.
+"Thôi thì, anh muốn tiêu tiền của mình thế nào tùy thích. Tôi cũng vừa mua một cuốn sách chẳng có mấy giá trị thực tế, nên phần nào tôi cũng hiểu được suy nghĩ của anh," Lorraine đành nhượng bộ, tay cầm cuốn sách dày bọc bìa da vừa mua ở sạp hàng rong trước đó. Tựa sách là "Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon", một cái tên nghe đầy vẻ chẳng lành. Nấu nướng bằng các bộ phận của quái vật là chuyện bình thường, nhưng hai chữ "kém chất lượng" kia lại làm tôi băn khoăn không biết sách đang nói tới thứ gì. Có khi là Slime chăng, nhưng ngay cả thứ đó cũng chế biến thành món nuốt trôi được. Tôi chỉ biết cầu mong sao cho mình chẳng bao giờ phải đụng tới cuốn sách này.
 
 "Ồ, đằng kia còn mấy sạp sách nữa kìa," Lorraine chỉ tay. "Rentt, tôi qua đó xem thử đây. Anh cứ thoải mái ngắm ma cụ thỏa thích đi. Tầm một tiếng nữa gặp nhau ở ghế băng phía đông quảng trường trung tâm nhé."
 

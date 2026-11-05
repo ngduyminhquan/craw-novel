@@ -10,7 +10,7 @@
 
 "Gì cơ?" tôi hỏi. Tôi xong gần như cùng lúc với Alize. Thật ra tôi sang công đoạn cuối sớm hơn cô bé, chỉ là mất thêm chút thời gian tỉ mẩn với phần đầu đũa.
 
-Cô chỉ tay vào cây đũa của tôi. "Cái đó. Chỗ đầu đũa của anh ấy. Tay nghề ấn tượng thật đấy," cô lẩm bẩm.
+Cô chỉ tay vào cây đũa của tôi. "Cái đó. Chỗ đầu đũa của anh kìa. Tay nghề ấn tượng thật đấy," cô lẩm bẩm.
 
 Tò mò, Alize bèn ló đầu ra từ sau lưng Lorraine, ngó nghiêng cây đũa của tôi.
 
@@ -20,15 +20,15 @@ Tò mò, Alize bèn ló đầu ra từ sau lưng Lorraine, ngó nghiêng cây đ
 
 Lorraine cầm cây đũa phép của tôi lên, ngắm nghía đủ mọi góc độ. "Con rồng đang ngậm viên Ma Tinh trong miệng này. Tượng rồng điêu khắc tinh xảo đến khó tin đấy chứ. Kiểu chạm trổ thế này bình thường chẳng ai làm nổi chỉ bằng mỗi việc điều khiển Ma Lực đâu đấy," Lorraine nhận xét.
 
-Nói cho rõ thì đây chính là con rồng đã nuốt chửng tôi. Hồi đó cứ ngỡ đời mình thế là hết, thành thử hình bóng nó hằn sâu vào tâm trí tới mức vừa định tạc là nó hiện ra ngay trong đầu. Thú thật, chính tôi cũng thấy chọn hình này hơi kỳ cục. Lorraine dường như cũng nghĩ vậy, bởi cô nhìn tôi như nhìn kẻ mất trí khi lại chọn khắc đúng con quái vật từng xơi tái mình. Nhưng có Alize ở đây nên chúng tôi chẳng thể bàn sâu về chuyện đó, tôi đành hỏi sang chuyện khác đang thắc mắc.
+Nói cho rõ thì đây chính là con rồng đã nuốt chửng tôi. Hồi đó cứ ngỡ đời mình thế là hết, nên hình bóng nó hằn sâu vào tâm trí tới mức vừa định tạc là hiện ra ngay trong đầu. Thú thật, chính tôi cũng thấy chọn hình này hơi kỳ cục. Lorraine dường như cũng nghĩ vậy, bởi cô nhìn tôi như nhìn kẻ mất trí khi lại chọn khắc đúng con quái vật từng xơi tái mình. Nhưng có Alize ở đây nên chúng tôi chẳng thể bàn sâu về chuyện đó, tôi đành hỏi sang chuyện khác đang thắc mắc.
 
 "Thế ngoài điều khiển Ma Lực ra thì người ta tạo hình đầu đũa kiểu gì?"
 
 "À, mấy chi tiết trang trí kiểu đó thường được làm ngay từ lúc gọt phôi đũa cơ. Người ta hay chừa phần đầu to hơn một chút rồi dùng dao tỉa dần thành hình mình muốn."
 
-"Sao phải nhọc công đến thế?" tôi hỏi. Tôi thấy dùng Ma Lực uốn nắn thì tha hồ tạo hình theo ý mình hơn chứ. Tôi cứ tưởng lý do là vì làm kiểu này đòi hỏi phải tập trung cao độ lại ngốn nhiều thời gian thôi chứ.
+"Sao phải nhọc công đến thế?" tôi hỏi. Tôi thấy dùng Ma Lực uốn nắn thì tha hồ tạo hình theo ý mình hơn chứ. Tôi cứ tưởng người ta ngại làm cách này chỉ vì nó đòi hỏi phải tập trung cao độ và tốn thời gian thôi.
 
-Lorraine ôm đầu than thở. "Dùng Ma Lực thì chỉ nắn được đến một chừng mực nào đó thôi, chứ tỉ mỉ cỡ này thì bình thường chẳng ai làm nổi. Trừ phi anh là bậc thầy điều khiển Ma Lực, còn không thì tự tay chạm khắc bằng dụng cụ chuyên dụng sẽ cho kết quả tốt hơn nhiều. Cơ mà hình như mấy quy tắc đó chẳng áp dụng được với anh thì phải," cô cằn nhằn.
+Lorraine ôm đầu than thở. "Dùng Ma Lực thì chỉ nắn được đến một chừng mực nào đó thôi, chứ tỉ mỉ cỡ này thì bình thường chẳng ai làm nổi. Trừ phi anh là bậc thầy điều khiển Ma Lực, còn không thì tự tay chạm khắc bằng dụng cụ chuyên dụng sẽ cho kết quả tốt hơn nhiều. Có điều hình như mấy quy tắc đó chẳng áp dụng được với anh thì phải," cô cằn nhằn.
 
 "Vậy là anh Rentt giỏi đặc biệt luôn ạ?" Alize hỏi.
 
@@ -42,7 +42,7 @@ Lorraine ôm đầu than thở. "Dùng Ma Lực thì chỉ nắn được đến
 
 ◆◇◆◇◆
 
-Đã đến lúc kiểm tra thực tế xem đũa phép hoạt động ra sao. Tôi toan niệm phép ngay tại chỗ, nhưng bất ngờ thay lần này Lorraine lại rất biết nghĩ mà ngăn tôi lại: "Đừng có thử trong nhà tôi. Ra ngoài đi."
+Đã đến lúc thử xem đũa phép hoạt động ra sao. Tôi định niệm phép ngay tại chỗ, nhưng Lorraine đã kịp ngăn lại: "Đừng có thử trong nhà tôi. Ra ngoài đi." Hiếm khi thấy cô biết suy nghĩ thực tế như vậy.
 
 Cả nhóm kéo nhau ra ngoài, nhưng cũng chỉ đi tới một bãi đất trống ven thị trấn.
 
@@ -58,7 +58,7 @@ Dù cô cam đoan thế, tôi khó mà tin chủ đất này lại chịu để 
 
 "Số là tôi có vài thí nghiệm không tiện làm ở nhà. Thế nên hồi trước tôi mới mua bãi đất này. Chỗ này cách trung tâm thị trấn đủ xa nên dù rộng thênh thang nhưng giá cũng không đắt lắm," Lorraine giải thích.
 
-Dù cô nói vậy, bãi đất này rộng đến mức khó mà có giá rẻ được. Cơ mà tôi biết Lorraine nhiều tiền. Nguồn tài chính của cô xưa nay vẫn là một ẩn số. Mua một căn nhà với cô còn chẳng bõ dính răng, nên chuyện này cũng không làm tôi ngạc nhiên cho lắm.
+Dù cô nói vậy, bãi đất này rộng đến mức khó mà có giá rẻ được. Nhưng tôi biết Lorraine nhiều tiền. Nguồn tài chính của cô xưa nay vẫn là một ẩn số. Đến mua một căn nhà với cô còn chẳng phải chuyện gì to tát, nên việc này cũng không làm tôi ngạc nhiên cho lắm.
 
 Dù sao đi nữa, nếu đúng là vậy thì chẳng có gì phải lo. Có điều, tôi tự hỏi liệu việc này có nguy hiểm đến mức bắt buộc phải chạy tít ra ngoài trời thế này không.
 
@@ -92,7 +92,7 @@ Lorraine bước lại gần niệm phép dập lửa, khiến Alize thở phào
 
 "Chính em cũng có ngờ đâu ạ," cô bé đáp, nét mặt vẫn còn thoáng vẻ căng thẳng.
 
-Lorraine nghe thấy cuộc trò chuyện bèn xen vào: "Hình như hai người hiểu sai vấn đề rồi đấy. Bình thường chẳng ai tạo ra ngọn lửa lớn đến mức ấy đâu, nhưng như tôi bảo, Alize có lượng Ma Lực dồi dào nên lửa mới to như vậy. Đa số người mới học mà không có đũa phép thì đố làm nổi trò này, bất kể nhiều Ma Lực đến đâu, nhưng có đũa phép vào là khác hẳn ngay. Nó giúp người ta kiểm soát ma thuật và dùng Ma Lực hiệu quả hơn. Cơ mà chuyện này cũng chẳng phải hoàn toàn là điều tốt đâu," cô bảo.
+Lorraine nghe thấy cuộc trò chuyện bèn xen vào: "Hình như hai người hiểu sai vấn đề rồi đấy. Bình thường chẳng ai tạo ra ngọn lửa lớn đến mức ấy đâu, nhưng như tôi bảo, Alize có lượng Ma Lực dồi dào nên lửa mới to như vậy. Đa số người mới học mà không có đũa phép thì đố làm nổi trò này, bất kể nhiều Ma Lực đến đâu, nhưng có đũa phép vào là khác hẳn ngay. Nó giúp người ta kiểm soát ma thuật và dùng Ma Lực hiệu quả hơn. Có điều chuyện này cũng chẳng phải hoàn toàn là điều tốt đâu," cô bảo.
 
 "Không tốt ở chỗ nào hở cô?" Alize tò mò hỏi.
 
@@ -100,9 +100,9 @@ Lorraine nghe thấy cuộc trò chuyện bèn xen vào: "Hình như hai ngườ
 
 "Chuyện đó nghiêm trọng lắm ạ?"
 
-"Đúng thế, có thể nói là chí mạng luôn ấy chứ. Khi đó muốn chiến đấu như một ma pháp sư, lúc nào tay em cũng phải chạm vào cây đũa phép. Cơ mà đám trẻ bây giờ vẫn cứ chọn dựa dẫm hoàn toàn vào đũa phép để dùng ma thuật đấy thôi. Đi đường đó dễ hơn nhiều mà. Mới nhập môn đã tập ngay với đũa phép, vừa đủ dùng là đã vội vã lên đường đi làm mạo hiểm giả. Thật đáng buồn," cô bảo, giọng cứ như thể bản thân không phải người trẻ tuổi vậy.
+"Đúng thế, có thể nói là chí mạng luôn ấy chứ. Khi đó muốn chiến đấu như một ma pháp sư, lúc nào tay em cũng phải chạm vào cây đũa phép. Vậy mà đám trẻ bây giờ vẫn cứ chọn dựa dẫm hoàn toàn vào đũa phép để dùng ma thuật đấy thôi. Đi đường đó dễ hơn nhiều mà. Mới nhập môn đã tập ngay với đũa phép, vừa đủ dùng là đã vội vã lên đường đi làm mạo hiểm giả. Thật đáng buồn," cô bảo, giọng cứ như thể bản thân không phải người trẻ tuổi vậy.
 
-Tôi định đùa một câu, nhưng thấy vẻ mặt cô nghiêm túc quá nên thôi. Đúng là cô đã quá tuổi kết hôn trung bình thật, nên bảo cô hết trẻ cũng chẳng sai. Tôi cũng trạc tuổi cô, chỉ nhỉnh hơn đôi chút. Có điều nếu xét về độ chín chắn trong tâm tính, người ta toàn nghĩ tôi trẻ con hơn cô nhiều.
+Tôi định đùa một câu, nhưng thấy vẻ mặt cô nghiêm túc quá nên thôi. Đúng là cô đã quá tuổi kết hôn trung bình thật, nên bảo cô hết trẻ cũng chẳng sai. Tôi cũng trạc tuổi cô, chỉ nhỉnh hơn đôi chút. Có điều xét về độ chững chạc, người ta toàn tưởng tôi nhỏ tuổi hơn cô.
 
 "Nhưng em thấy mấy ma pháp sư quanh Maalt vẫn dùng ma thuật mà chẳng cần đũa phép suốt đấy thôi ạ," Alize thắc mắc.
 
@@ -112,7 +112,7 @@ Lorraine gật đầu. "Đúng vậy, thỉnh thoảng tôi cũng thấy họ l�
 
 "Tôi vừa nhắc đến nhược điểm của đũa phép, nhưng chúng cũng có ưu điểm. Có đũa phép thì làm những việc tỉ mỉ dễ hơn nhiều so với dùng tay không, mà thi triển phép quy mô lớn cũng thế. Đế Quốc nghiên cứu rất nhiều về vũ khí ma thuật và ma cụ, thế nên ma pháp sư bên đó lúc nào cũng thủ sẵn đũa phép bên mình. Khi dùng một món đồ đủ thường xuyên, người ta sẽ bắt đầu phụ thuộc vào nó. Cứ thế lâu dần, ai nấy đều cho rằng luyện với đũa phép ngay từ đầu sẽ hiệu quả hơn. Hệ quả là tư duy ở Đế Quốc dần xoay chuyển theo hướng đó. Đương nhiên vẫn có người dùng được ma thuật mà không cần đũa, nhưng họ chẳng bao giờ tạo được tầm ảnh hưởng trong giới ma pháp sư Đế Quốc. Cả tôi cũng nằm trong số đó," cô giải thích.
 
-Tôi đồ rằng đó là cái giá phải trả khi một thứ gì đó trở nên quá tiện lợi. Cơ mà những lời Lorraine vừa nói dường như hé lộ đôi điều về lý do năm xưa cô rời bỏ Đế Quốc.
+Tôi đồ rằng đó là cái giá phải trả khi một thứ gì đó trở nên quá tiện lợi. Có điều những lời Lorraine vừa nói dường như hé lộ đôi điều về lý do năm xưa cô rời bỏ Đế Quốc.
 
 Lorraine đổi giọng. "Thôi, chuyện đó nói thế đủ rồi. Trước mắt cứ tập trung vào đũa phép của hai người đã. Dù tôi chê bai đủ điều nhưng nhìn chung chúng vẫn là công cụ hữu ích. Giờ đến lượt anh đấy, Rentt. Tôi với Alize sẽ lùi lại."
 
@@ -128,11 +128,11 @@ Tôi không kìm được bèn lên tiếng hỏi. Lorraine bảo họ sẽ lùi
 
 Tôi chọn đúng phép Alize vừa dùng, một phép thuộc Ma Thuật Sinh Hoạt mang tên Aliumage. Xem Alize làm rồi nên tôi biết ngọn lửa trông ra sao, nghĩ bụng chắc làm theo cũng dễ ợt. Đũa phép vừa tăng cường khả năng kiểm soát vừa khuếch đại Ma Lực, làm sao mà tôi thất bại cho được. Việc duy nhất cần bận tâm là tiết chế uy lực của phép, nhưng kiểu gì cũng phải thử một lần mới quen tay.
 
-Thú thật, đây chẳng phải lần đầu tôi dùng đũa phép. Cơ mà đó là chuyện hồi tôi còn sống và trong người gần như chẳng có chút Ma Lực nào, thành thử có muốn khuếch đại cũng lấy đâu ra. Một giọt nước có nhân lên mấy lần thì cũng chỉ thành vài giọt. Giờ thì Ma Lực của tôi rõ ràng đã dồi dào hơn hẳn, kết quả ắt sẽ rất khác. Nghĩ vậy, tôi vận Ma Lực tràn khắp cơ thể, dồn về bàn tay rồi rót thẳng nguồn năng lượng ấy vào cây đũa phép.
+Thú thật, đây chẳng phải lần đầu tôi dùng đũa phép. Nhưng đó là chuyện hồi tôi còn sống và trong người gần như chẳng có chút Ma Lực nào, nên có muốn khuếch đại cũng lấy đâu ra. Một giọt nước có nhân lên mấy lần thì cũng chỉ thành vài giọt. Giờ thì Ma Lực của tôi rõ ràng đã dồi dào hơn hẳn, kết quả ắt sẽ rất khác. Nghĩ vậy, tôi vận Ma Lực tràn khắp cơ thể, dồn về bàn tay rồi rót thẳng nguồn năng lượng ấy vào cây đũa phép.
 
 "Hỡi ngọn lửa, hãy lấy Ma Lực của ta làm nguồn nuôi dưỡng và hiển hiện trước mắt ta: Aliumage," tôi đọc câu chú, và lửa lập tức phun trào từ đầu đũa. Cảm giác như sức mạnh của mình được cây đũa khuếch đại lên gấp bội, tôi hoảng hốt thu bớt Ma Lực lại. Dù vậy, ngọn lửa dữ dội vẫn bùng cháy ngùn ngụt. May mà xung quanh chẳng có nhà cửa nào. Quyết định đứng xa tít tắp của Lorraine hóa ra lại quá sáng suốt. Xưa nay tôi vẫn rất tự tin vào khả năng điều khiển Ma Lực của mình, mà sau vụ này cũng đâm chột dạ.
 
-Đúng là tôi cần làm quen thêm với đũa phép, nhưng thấy lửa bùng lên tôi không hề hoảng hốt như Alize. Dù sao tôi cũng đã sống trên đời chừng hai mươi lăm năm, bản lĩnh tất nhiên phải khác. Tôi ngưng tiếp Ma Lực cho ngọn lửa và điều chỉnh hướng của nó trong lúc quan sát thêm vài giây. Thấy lửa đã tắt hẳn, tôi bèn vẫy tay gọi Lorraine và Alize.
+Đúng là tôi cần làm quen thêm với đũa phép, nhưng thấy lửa bùng lên tôi không hề hoảng hốt như Alize. Dù sao hơn hai mươi lăm năm sống trên đời của tôi cũng đâu phải để trưng. Tôi ngưng tiếp Ma Lực cho ngọn lửa và điều chỉnh hướng của nó trong lúc quan sát thêm vài giây. Thấy lửa đã tắt hẳn, tôi bèn vẫy tay gọi Lorraine và Alize.
 
 "Qua đây được rồi!" tôi gọi to.
 
@@ -154,13 +154,13 @@ Phép Mah tạo ra chừng một cốc nước, rất tiện cho mạo hiểm gi
 
 Có những người bẩm sinh đã vượt trội ở một nguyên tố ma thuật nhất định. Đa số con người dùng được mọi loại phép ngang nhau, nhưng cũng có kẻ lại thiên hẳn về một hệ cụ thể. Có nhiều giả thuyết lý giải chuyện này. Chẳng hạn sinh ra gần núi lửa thì người ta dễ thuần thục hỏa ma pháp hơn. Hoặc nếu được thần tinh linh ban phước, người đó cũng có khả năng tinh thông các phép thuộc nguyên tố của tinh linh ấy.
 
-Tôi từng được một thần tinh linh hệ thực vật ban phước, thành thử nói đúng ra thì tôi phải kỵ lửa mới phải chứ. Nhưng có lẽ mọi thứ không đơn giản như tôi nghĩ. Quái lạ thật, cơ mà hẳn Lorraine muốn tôi xác định cho rõ xem sở trường thực sự của mình nằm ở đâu.
+Tôi từng được một thần tinh linh hệ thực vật ban phước, nên nói đúng ra thì tôi phải kỵ lửa mới phải chứ. Nhưng có lẽ mọi thứ không đơn giản như tôi nghĩ. Quái lạ thật, nhưng hẳn Lorraine muốn tôi xác định cho rõ xem sở trường thực sự của mình nằm ở đâu.
 
 Tôi quyết định thử phép Mah. Lorraine và Alize lại lùi ra xa phòng hờ. Chẳng biết có cần thiết đến thế không, nhưng sau cú vừa rồi thì tôi cũng chẳng trách họ được.
 
 Nghe Lorraine ra hiệu, tôi liền niệm phép: "Hỡi dòng nước, hãy thấm nhuần Ma Lực của ta và ngưng tụ trước mắt ta: Mah."
 
-Các phép thuộc Ma Thuật Sinh Hoạt đều có câu xướng niệm na ná nhau. Vốn là ma thuật cơ bản nên cấu trúc của chúng rất đơn giản, có điều chính vì vậy mà người ta lại càng dễ lẫn lộn giữa các câu chú. Thành thử lúc Lorraine hỏi có nhớ phép không, tôi mới chẳng dám tự tin hoàn toàn.
+Các phép thuộc Ma Thuật Sinh Hoạt đều có câu xướng niệm na ná nhau. Vốn là ma thuật cơ bản nên cấu trúc của chúng rất đơn giản, có điều chính vì vậy mà người ta lại càng dễ lẫn lộn giữa các câu chú. Cũng vì thế mà lúc Lorraine hỏi có nhớ phép không, tôi mới chẳng dám tự tin hoàn toàn.
 
 Tôi không dám chắc mình đọc có đúng từng chữ không, nhưng thấy Ma Lực dồn vào đũa thì cũng yên tâm phần nào. Rồi nước bắt đầu đọng lại nơi đầu đũa. Đó là một quả cầu nước khá lớn, nhưng chẳng thấm vào đâu so với quầng lửa to tướng đến buồn cười lúc nãy. Khối nước này có chăng chỉ nhỉnh hơn ngọn lửa của Alize một chút, vậy thôi.
 
