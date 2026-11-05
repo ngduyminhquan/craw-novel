@@ -1,157 +1,157 @@
 # Chương 141: Tập 6 Chương 3 - Bi Kịch Và Nguồn Gốc (1)
 
-"Ờm, tôi vừa kể đến đoạn nào rồi nhỉ?"
+"Ừm, nãy tôi kể đến đâu rồi nhỉ?"
 
-"Anh dừng lại ở chỗ Jinlin nói ước mơ của cô bé là trở thành mạo hiểm giả."
+"Anh vừa kể tới chỗ Jinlin bảo ước mơ của cô bé là làm mạo hiểm giả."
 
 "À, phải rồi."
 
-Nhắc lại những chuyện từ quá khứ xa xôi khiến tâm trí tôi có chút mơ hồ, và dường như tôi cứ thế buột miệng nói mà chẳng hề suy nghĩ. Cảm giác như thể tôi đã mất đi ý thức và ngất lịm đi một lúc. Đó là những ký ức vui vẻ, nhưng chúng lại gắn liền với những ký ức đau thương, nên có lẽ tôi đã vô thức muốn để đầu óc mình lơ đễnh đi. Dẫu vậy, câu chuyện này đã khắc sâu vào tâm khảm tôi đến mức tôi có thể kể lại nó mà không cần phải đắn đo suy nghĩ.
+Nhắc lại chuyện xưa làm đầu óc tôi cứ mông lung, miệng nói ra như chẳng qua suy nghĩ. Cảm giác như thể tôi vừa mất hết ý niệm về xung quanh trong chốc lát. Ký ức này tuy vui, nhưng lại gắn liền với nỗi đau, nên có lẽ tôi đã cố tình để tâm trí mình lơ đãng. Nhưng câu chuyện này đã ăn sâu vào tâm trí đến mức tôi chẳng cần nghĩ ngợi gì cũng kể ra được.
 
-Câu chuyện này đang tiến dần tới hồi tang thương. Tôi vốn chẳng hề muốn nhớ lại.
-
-◆◇◆◇◆
-
-Sáng hôm sau, chúng tôi phải chuẩn bị lên đường, nên chẳng có chút thời gian nào để đi ngắm cảnh trước khi khởi hành trở về nhà. Tôi thức dậy ở quán trọ, ăn sáng cùng Jinlin và Pravda, rồi đi ra khu bốc dỡ hàng. Cha mẹ tôi đã ở đó từ trước. Họ đi ngủ sớm hơn chúng tôi vì cần phải có mặt ở đó từ sớm để giải quyết một số công việc. Họ thẩm định giá bán số hàng hóa đã dỡ xuống vào ngày hôm qua, đồng thời đóng gói những nhu yếu phẩm sẽ mang về Hathara. Chúng tôi là "món hành lý" cuối cùng được nhét vào bên trong, sau đó ngựa sẽ bị quất roi và cỗ xe sẽ lăn bánh.
-
-"Rentt, Jinlin, chúng ta sắp đi rồi. Lên xe đi các cháu," Pravda bảo.
-
-Cả hai chúng tôi gật đầu rồi bước lên xe. Chúng tôi răm rắp như những kỵ sĩ nhận lệnh từ cấp trên, phần lớn là nhờ bài thuyết giáo của Pravda vào ngày hôm trước. Cả hai đều chẳng muốn bà lại nổi giận lôi đình như thế thêm lần nào nữa. Chúng tôi nhanh nhẹn đến mức cỗ xe đã sẵn sàng khởi hành từ khá sớm.
-
-"Thế thì đi thôi," cha tôi ngồi trên ghế đánh xe cất tiếng. "Sẵn sàng cả chưa?"
-
-Tất cả chúng tôi đều đã yên vị trên xe, hành lý cũng vậy. "Vâng, bên này ổn thỏa cả rồi," mẹ tôi đáp. "Đi thôi anh."
-
-Cha tôi quất roi vào ngựa, và cỗ xe từ từ lăn bánh. Đó là một chuyến ghé thăm ngắn ngủi, nhưng lại hóa thành một cuộc phiêu lưu lớn đối với tôi và Jinlin. Đúng là chúng tôi suýt nữa thì bị thương nặng, nhưng chúng tôi đã được gặp một nàng tiên, chừng đó là quá đủ cho một chuyến phiêu lưu của con trẻ. Giờ đã là một mạo hiểm giả, tôi mới biết các nàng tiên hiếm gặp đến nhường nào. Trên đường trở về, Pravda từng bảo với tôi rằng nàng tiên rất hiếm thấy, nhưng khi ấy tôi chỉ nghĩ họ hiếm theo kiểu như hoa saria mà thôi. Nhân tiện thì hoa saria là một loài hoa nở theo mùa ở Hathara, chỉ nở rộ dưới ánh trăng tròn. Chúng khá hiếm gặp, nhưng nếu muốn hái thì vẫn có thể thu thập được cả đống. Còn các nàng tiên thì ngược lại, khó mà bắt gặp được.
-
-Jinlin muốn khoe khoang về chuyến đi của chúng tôi với Jal và Dol ngay giây phút trở về làng. Ở chừng mực nào đó, tôi cũng muốn vậy. Dù trước đó có do dự ngần ngại đến đâu, khi ngẫm lại chuyến du ngoạn ngắn ngủi ấy, tôi phải thừa nhận rằng nó thực sự rất vui. Tôi sẽ không huênh hoang khoe mẽ, nhưng tôi muốn kể cho họ nghe về những chuyện đã xảy ra ở thị trấn, về cuộc phiêu lưu lớn cùng sự thất bại ê chề của Jinlin. Nói tóm lại, chuyến hành trình trở về nhà thật sự rất vui và tôi có bao điều để ngóng đợi. Ít nhất là cho đến một thời điểm nào đó.
+Câu chuyện đang dần đi tới đoạn thảm khốc nhất. Tôi thật lòng chẳng muốn nhớ lại chút nào.
 
 ◆◇◆◇◆
 
-"Các cháu đã giúp một nàng tiên ư? Đó là lý do hai đứa tự đẩy mình vào vòng nguy hiểm thế sao?" Pravda hỏi.
+Sáng hôm sau, cả nhà phải sửa soạn lên đường nên chẳng còn thời gian đi dạo ngắm nghía trước khi về. Tôi thức dậy ở quán trọ, ăn sáng cùng Jinlin và bà Pravda rồi ra bãi bốc dỡ hàng. Cha mẹ tôi đã ở đó từ sớm. Đêm qua hai người ngủ trước chúng tôi vì sáng nay phải ra sớm lo công chuyện. Họ tính toán tiền bán số hàng đã dỡ hôm qua, đồng thời đóng gói những nhu yếu phẩm mang về Hathara. Hai đứa tôi là "kiện hành lý" cuối cùng được nhét vào trong, rồi cha vung roi cho ngựa lăn bánh.
 
-Cỗ xe lắc lư qua lại trong lúc chúng tôi giải thích lại những chuyện xảy ra ở thị trấn. Bà dĩ nhiên là rất kinh ngạc. Tôi thì run rẩy sợ hãi vì sợ bà sẽ lại nổi cơn lôi đình, nhưng Jinlin lại tỏ ra như thể chẳng có gì đáng bận tâm. Có lẽ cô bé đã quen với việc chọc giận Pravda, hoặc có lẽ cô bé vốn dĩ đã can đảm bẩm sinh. Chắc hẳn là do cả hai.
+"Rentt, Jinlin, sắp đi rồi đấy. Lên xe đi hai đứa," bà Pravda bảo.
 
-"Dạ vâng, ý cháu là, cô ấy cứ liên tục cầu cứu mà bà," Jinlin cãi lại.
+Hai đứa gật đầu rồi trèo lên xe. Cả hai răm rắp nghe lời như kỵ sĩ tuân lệnh cấp trên, phần nhiều là nhờ bài học của bà Pravda ngày hôm trước. Chẳng đứa nào muốn bị bà gắt gỏng mắng cho một trận như thế nữa. Chúng tôi nhanh nhẹn đến mức cỗ xe sẵn sàng khởi hành từ khá sớm.
 
-"Nàng tiên là một sự hiện diện cực kỳ hiếm thấy. Tận mắt nhìn thấy một nàng tiên ngay trong lần đầu tiên rời khỏi làng quả là một trải nghiệm phi thường," Pravda thán phục nói. "Có lẽ các cháu được một vì sao nào đó chiếu mệnh yêu thương rồi. Mà thôi, bỏ qua chuyện đó đi. Nếu một trong hai đứa có tình cờ gặp lại một nàng tiên, các cháu nhất định phải tránh thật xa."
+"Thế thì đi thôi," cha tôi ngồi trên ghế đánh xe cất tiếng. "Xong cả chưa nào?"
 
-"Ý bà là vì họ nguy hiểm ạ?" tôi hỏi, kinh ngạc trước lời căn dặn của bà.
+Mọi người đều đã lên xe, hành lý cũng gọn gàng. "Vâng, bên này ổn cả rồi," mẹ tôi đáp. "Đi thôi anh."
 
-Pravda lắc đầu. "Không, không phải vậy. À thì cũng có phần vì lý do đó, nhưng quan trọng hơn là các cháu không được tùy tiện tiếp cận một nàng tiên. Lối suy nghĩ của họ hoàn toàn khác biệt với chúng ta. Các cháu chẳng thể nào biết được họ sẽ làm ra chuyện gì đâu. Dĩ nhiên không phải mọi nàng tiên đều như thế và bà cũng không vơ đũa cả nắm, nhưng chẳng lẽ các cháu không thấy có điểm nào kỳ lạ ở nàng tiên đó sao?"
+Cha quất roi, cỗ xe từ từ lăn bánh. Chuyến đi tuy ngắn nhưng lại hóa thành một cuộc phiêu lưu lớn của tôi và Jinlin. Đúng là hai đứa suýt bị thương nặng, nhưng lại được gặp nàng tiên, bấy nhiêu kích thích là quá đủ đối với con trẻ. Giờ đã làm mạo hiểm giả, tôi mới biết nàng tiên hiếm đến dường nào. Dọc đường về, bà Pravda có bảo nàng tiên hiếm lắm, nhưng lúc đó tôi chỉ nghĩ chắc cũng hiếm cỡ hoa saria là cùng. Nói thêm thì hoa saria là loài hoa nở theo mùa ở Hathara, chỉ bung nở dưới ánh trăng tròn. Bình thường thì hiếm thật, nhưng nếu chịu khó đi hái thì vẫn gom được cả ôm. Còn nàng tiên thì ngược lại, đời nào dễ gặp như thế.
 
-Jinlin và tôi nhìn nhau. Rồi tôi chợt nhớ ra rằng có lẽ đúng là có điểm hơi khác thường. Cô ấy dường như chẳng mấy hứng thú nói chuyện với chúng tôi, và cũng chẳng hề mảy may bận tâm đến sự an toàn của chúng tôi. Có lẽ điều đó là do cô ấy có lối suy nghĩ khác với con người.
-
-"Có nghĩ ra được điều gì không?" Pravda hỏi lại.
-
-Jinlin dường như cũng đi đến kết luận giống như tôi. Cả hai chúng tôi ngầm hiểu rằng mình đã nghĩ ra được điều gì đó.
-
-"Ngã từ trên cây xuống không phải mối nguy hiểm duy nhất mà các cháu tự chuốc lấy đâu, đó là điều bà muốn nói. Các cháu đâu có muốn bị tráo đổi lấy những đứa trẻ thế thân chứ hả?"
-
-Chúng tôi nhớ lại hồi trước cha mẹ và các anh chị em họ từng cảnh báo rằng nếu chúng tôi hư, chúng tôi sẽ bị thay thế bằng những đứa trẻ thế thân. Dù vậy, họ chưa từng nói rõ ai sẽ làm chuyện đó.
-
-"Đó là việc mà các nàng tiên hay làm sao ạ?" Jinlin hỏi.
-
-"Đúng vậy," Pravda nói. "Khi không có ai để mắt tới, các nàng tiên sẽ tráo đổi con mình với trẻ con loài người. Đó là thói quen của họ. Với chúng ta, việc đem con mình tráo đổi với con của kẻ khác, lại còn là một giống loài khác, là chuyện không thể nào tưởng tượng nổi. Nhưng đó chính là điều bà muốn nói khi bảo họ không hề suy nghĩ giống chúng ta. Họ rất khó để thấu hiểu con người."
+Vừa về tới làng là Jinlin muốn khoe ngay chuyến đi với Jal và Dol. Tôi cũng háo hức chẳng kém. Dù lúc đầu có rụt rè ngần ngại, nhưng nghĩ lại chuyến đi chơi ngắn ngủi ấy, tôi phải thừa nhận là vui thật. Tôi thì chẳng định khoe mẽ, chỉ muốn kể cho hai cậu bạn nghe chuyện xảy ra ở thị trấn, về cuộc phiêu lưu hoành tráng lẫn cú ngã bẽ mặt của Jinlin. Nói chung, chặng đường về lúc ấy rất vui, lòng tôi tràn ngập những điều mong ngóng. Ít nhất là cho tới lúc đó.
 
 ◆◇◆◇◆
 
-Khi cỗ xe tiếp tục lăn bánh, Jinlin và tôi đã quen với sự xóc nảy hơn nhiều so với ngày hôm qua. Jinlin dường như rất dễ bị say xe nên chẳng bao giờ có thể hoàn toàn quen được, nhưng Pravda đã mua thuốc chống say ở thị trấn và cho cô bé uống trước khi chúng tôi khởi hành. Bà cũng cho tôi một ít, nhưng tôi vốn dĩ chẳng sao cả nên có lẽ tôi không cần phải uống. Thuốc cực kỳ đắng và khó nuốt, nhưng với Jinlin thì cảm giác say xe còn tồi tệ hơn thế nhiều, nên cô bé chẳng thèm đắn đo mà ực một hơi hết sạch. Thế nhưng một lúc sau cuộc trò chuyện về các nàng tiên, thứ thuốc đó khiến chúng tôi buồn ngủ dí cả mắt. Chúng tôi đã được dặn trước rằng nó có thể gây cảm giác hơi mệt mỏi, và tôi nhớ mình đã nhận ra hẳn là do thuốc gây nên. Tôi hoàn toàn có thể gượng ép bản thân tỉnh táo, nhưng chẳng có lý do gì để không ngủ cả. Dù sao thì mẹ tôi và Pravda vẫn còn thức. Tôi xuôi theo cơn buồn ngủ và để mặc bản thân chìm vào thế giới của những giấc mơ.
+"Hai đứa giúp một nàng tiên á? Vì thế mà suýt gặp nguy hiểm đấy hả?" bà Pravda hỏi.
+
+Cỗ xe chòng chành lắc lư trong lúc hai đứa kể lại chuyện xảy ra ở thị trấn. Bà Pravda dĩ nhiên rất ngạc nhiên. Tôi thì run như cầy sấy vì sợ bà lại nổi giận, còn Jinlin thì tỉnh bơ như không có gì phải lo. Chắc con bé đã quen chọc bà giận, mà cũng có khi là gan dạ bẩm sinh. Có lẽ là cả hai.
+
+"Thì... cô ấy cứ kêu cứu mãi mà bà," Jinlin cãi.
+
+"Nàng tiên hiếm gặp lắm. Lần đầu ra khỏi làng mà đã thấy được thì đúng là chuyện hiếm có," bà Pravda ngạc nhiên thốt lên. "Có khi hai đứa được ngôi sao nào đó yêu thương chiếu mệnh rồi. Cơ mà thôi, sau này nếu có tình cờ gặp lại nàng tiên, hai đứa nhất định phải tránh xa ra nghe chưa."
+
+"Ý bà là vì nàng tiên nguy hiểm ạ?" tôi ngạc nhiên trước lời dặn của bà.
+
+Bà Pravda lắc đầu. "Không hẳn. Thì cũng có phần nguy hiểm thật, nhưng quan trọng hơn là không được thấy nàng tiên mà cứ thế sán lại gần. Cách nghĩ của họ khác hẳn người mình, chẳng ai biết họ sẽ làm gì đâu. Dĩ nhiên không phải nàng tiên nào cũng thế và bà không quơ đũa cả nắm, nhưng hai đứa không thấy nàng tiên lúc đó có điểm nào là lạ sao?"
+
+Jinlin và tôi nhìn nhau. Rồi tôi sực nhớ ra đúng là có chỗ hơi kỳ quặc. Nàng tiên ấy chẳng buồn trò chuyện với hai đứa, cũng chẳng mảy may để tâm xem chúng tôi có bị làm sao không. Có lẽ vì nàng tiên suy nghĩ khác người thường thật.
+
+"Hai đứa nhớ ra gì rồi à?" bà Pravda hỏi lại.
+
+Jinlin dường như cũng nghĩ giống tôi. Hai đứa im lặng nhìn nhau, ngầm hiểu là cả hai đều nhận ra điều đó.
+
+"Ý bà là, nguy hiểm đâu chỉ có mỗi chuyện ngã từ trên cây xuống. Hai đứa đâu muốn bị bắt đổi lấy đứa trẻ thế thân, đúng không?"
+
+Hai đứa nhớ lại ngày trước cha mẹ và các anh chị em họ từng dọa rằng hễ không ngoan là sẽ bị tráo thành đứa trẻ thế thân. Có điều chưa ai nói rõ ai là kẻ làm chuyện đó.
+
+"Nàng tiên hay làm thế thật ạ?" Jinlin hỏi.
+
+"Đúng vậy," bà Pravda đáp. "Hễ không ai để ý là các nàng tiên lại tráo đổi con mình với trẻ con loài người. Thói quen của họ là thế đấy. Với người mình, đem con mình đi đổi lấy con người khác, đã thế lại còn khác giống loài, là chuyện không sao tưởng tượng nổi. Nhưng đó chính là điều bà muốn nói khi bảo họ không hề nghĩ giống chúng ta. Họ chẳng tài nào hiểu nổi con người đâu."
 
 ◆◇◆◇◆
 
-Tôi bừng tỉnh bởi một tiếng va đập chói tai, hoàn toàn mù tịt không rõ đã bao lâu trôi qua. Tôi cảm giác như mình bị hất tung lên không trung, rồi vạn vật xung quanh tôi đều đảo lộn tùng phèo. Tôi không thể nhìn ngó xung quanh, nhưng lại thấy toàn bộ sự việc kỳ lạ đến mê hoặc. Tôi nhớ như in những quả trái cây lơ lửng giữa không trung. Tôi nhớ rõ từng ngọn cỏ trông ra sao. Tôi gần như có thể vẽ lại một bức tranh về cảnh tượng ấy.
+Khi cỗ xe tiếp tục lăn bánh, Jinlin và tôi đã quen với độ rung lắc hơn hôm qua nhiều. Jinlin vốn dễ say xe nên khó lòng quen hẳn được, nhưng bà Pravda đã mua thuốc chống say ở thị trấn và cho cô bé uống trước lúc khởi hành. Bà cũng cho tôi một ít, dù tôi chẳng say xẩm gì nên có khi không uống cũng được. Thuốc đắng ngắt khó nuốt vô cùng, nhưng cơn say xe với Jinlin còn kinh khủng hơn thế nên cô bé chẳng đắn đo mà ực một hơi hết sạch. Thế rồi một lúc sau cuộc trò chuyện về nàng tiên, thuốc ngấm làm hai đứa buồn ngủ díp cả mắt. Người ta đã dặn trước là thuốc có thể gây gà gật, và tôi nhớ lúc đó mình cũng nhận ra là do thuốc. Tôi ráng gượng thức thì vẫn được, nhưng chẳng việc gì phải thế. Dù sao mẹ và bà Pravda vẫn còn thức. Tôi xuôi theo cơn buồn ngủ rồi mặc cho mình chìm vào giấc mộng.
 
-Thời gian trôi đi chậm chạp đến nghẹt thở, nhưng nỗi khiếp sợ thực sự sớm muộn cũng bắt đầu ập đến. Tôi chẳng biết chuyện gì đã xảy ra. Đến khi tôi nhận ra có lẽ cỗ xe đã bị lật nhào, thì toàn bộ hành lý đã văng tung tóe trong một mớ hỗn độn hoang tàn. Tôi bị đập mạnh vào những thùng gỗ và thành xe, và những cơn đau dữ dội nhói lên khắp cơ thể khi tôi cố gắng cử động.
+◆◇◆◇◆
 
-Tuyệt vọng muốn xem chuyện gì đã xảy ra với những người khác, tôi quan sát xung quanh. Tôi tìm kiếm Jinlin đầu tiên. Cha mẹ tôi và Pravda khi ấy có vẻ như là bất khả chiến bại, nhưng cô bé thì không. Cô bé luôn mang lại cảm giác như thể tôi có thể đánh mất cô bé bất cứ lúc nào, vì thế tôi lo lắng cho cô bé đến thắt ruột thắt gan. May mắn thay, tôi tìm thấy cô bé khá dễ dàng. Cô bé đang nằm bên dưới vài chiếc thùng gỗ, nhưng hơi thở vẫn còn.
+Một tiếng va đập rầm trời đánh thức tôi dậy, chẳng rõ đã bao lâu trôi qua. Người tôi như bị hất tung lên không trung, rồi mọi thứ xung quanh lộn nhào đảo điên. Tôi chẳng kịp nhìn ngó xung quanh, nhưng lại thấy cảnh tượng ấy kỳ ảo lạ lùng. Tôi nhớ như in những quả trái cây lơ lửng giữa trời, nhớ rõ từng ngọn cỏ trông ra sao, rõ mồn một đến mức tưởng như có thể vẽ lại thành tranh.
 
-"Ư... Rentt," cô bé rên rỉ.
+Thời gian trôi đi chậm chạp đến nghẹt thở, nhưng chẳng mấy chốc nỗi kinh hoàng thật sự đã ập tới. Tôi chẳng biết chuyện gì vừa xảy ra. Đến khi tôi nhận ra có lẽ cỗ xe đã bị lật, thì toàn bộ hành lý đã văng tung tóe thành một mớ hỗn độn. Tôi bị va đập mạnh vào mấy thùng gỗ và thành xe, hễ cựa mình là cơn đau nhức nhối lại truyền khắp người.
 
-Đội ơn trời, trong các thùng không có thứ gì quá nặng, nên ngay cả một đứa trẻ như tôi cũng có thể dùng sức gạt chúng sang một bên. Cô bé không phải là không bị thương, nhưng vẫn gắng gượng tự mình đứng dậy được.
+Cuống cuồng muốn biết mọi người ra sao, tôi đảo mắt nhìn quanh. Người đầu tiên tôi tìm là Jinlin. Trong mắt tôi khi ấy, cha mẹ và bà Pravda dường như là bất khả chiến bại, còn Jinlin thì không. Ở bên cô bé, tôi luôn có cảm giác mình có thể vuột mất con bé bất cứ lúc nào, nên lúc nào cũng nơm nớp lo. May sao, tôi tìm thấy Jinlin khá dễ dàng. Cô bé đang nằm dưới mấy chiếc thùng gỗ, hơi thở vẫn còn.
 
-"Jinlin! Cậu có sao không?! Cậu đi được không?" tôi lập tức hỏi dồn.
+"Ư... Rentt," cô bé khẽ rên.
 
-"Ừ, tớ ổn mà," cô bé nói. Mồ hôi lạnh đang túa ra ròng ròng trên mặt cô bé.
+May mà trong thùng không có gì quá nặng, đứa trẻ con như tôi ráng sức một chút là gạt được sang bên. Jinlin dù có bị thương nhưng vẫn tự gượng dậy được.
 
-"Người lớn đâu cả rồi?"
+"Jinlin! Cậu có sao không?! Cậu đi được không?" tôi cuống quýt hỏi.
 
-Đó là lần đầu tiên tôi tự mình hỏi câu hỏi ấy. Không phải là tôi quên bẵng mất họ, nhưng thật kỳ lạ khi họ không đến tìm chúng tôi. Chúng tôi là trẻ con, và người lớn thì luôn lo lắng cho sự an toàn của chúng tôi từng li từng tí. Nếu có một tai nạn lớn xảy ra, chẳng hạn như cỗ xe bị lật, điều đầu tiên họ làm hẳn phải là tìm kiếm chúng tôi. Chúng tôi cũng chẳng thể nào bị văng ra quá xa nhau được. Họ chỉ cần tìm kiếm quanh cỗ xe là thấy ngay.
+"Ừ, tớ không sao," cô bé đáp, mồ hôi lạnh túa ra ròng ròng trên mặt.
 
-Khi nhận ra họ đã không tới, tôi cảm thấy bất an. Cực kỳ bất an. Jinlin dường như cũng có cùng cảm giác ấy.
+"Người lớn đâu cả rồi hả cậu?"
 
-Đúng lúc tôi chẳng thể nào ngồi yên được nữa, một tiếng nổ đinh tai vang lên từ phía sau cỗ xe. Bàng hoàng kinh hãi, tôi ngoảnh đầu về hướng đó và nhìn thấy một cột lửa bốc lên ngùn ngụt. Lúc ấy tôi hoàn toàn mù tịt không biết đó là thứ gì, nhưng Jinlin thì biết.
+Đó là lần đầu tiên tôi sực nghĩ đến chuyện đó. Không phải tôi quên mất họ, mà kỳ lạ ở chỗ chẳng thấy ai tới tìm hai đứa. Chúng tôi chỉ là trẻ con, mà người lớn thì lúc nào cũng để mắt chăm sóc từng chút một. Gặp chuyện lớn như lật xe, việc đầu tiên họ làm hẳn phải là đi tìm bọn tôi. Chúng tôi cũng chẳng thể văng đi đâu xa, chỉ cần tìm quanh cỗ xe là thấy.
 
-"Ma pháp sao?!" cô bé thảng thốt rồi lao về hướng đó. Tôi vội vã chạy theo sau cô bé.
+Nhận ra người lớn chưa tới, lòng tôi dâng lên nỗi bất an. Một nỗi bất an tột cùng. Jinlin dường như cũng cảm thấy thế.
 
-Cảnh tượng đập vào mắt khiến cả hai chúng tôi chết lặng. Thật khó để diễn tả, nhưng ít nhất cũng phải nói là nó trông vô cùng tà ác hung hiểm. Nó trông giống một con sói bạc to lớn, nhưng đôi mắt lại đỏ ngầu như máu và thân hình đồ sộ của nó được bao phủ bởi một luồng hắc khí tà quái dao động chập chờn. Trông nó như thể đang khao khát chém giết tàn sát. Nó chẳng khác nào hiện thân của sự hủy diệt, hay một sứ đồ của Địa Ngục.
+Đúng lúc tôi chẳng thể nào ngồi yên được nữa, một tiếng nổ đinh tai vang lên từ phía sau cỗ xe. Giật bắn mình, tôi quay ngoắt lại thì thấy một cột lửa bốc lên ngùn ngụt. Lúc ấy tôi mù tịt không hiểu đó là gì, nhưng Jinlin thì biết.
 
-Chúng tôi cũng nhìn thấy Pravda đang cầm một cây trượng. Bà chính là người đã thi triển ma pháp. Tôi không hề biết bà có thể dùng ma pháp, nhưng Jinlin thì biết. Có lẽ Pravda đã dạy cho cô bé đôi chút để phòng khi hữu sự khẩn cấp.
+"Ma pháp ư?!" cô bé thốt lên rồi lao về phía ấy. Tôi vội chạy theo sau.
 
-Pravda nhận ra chúng tôi và quay phắt lại. "Hai đứa?! Các cháu còn sống sao?! Chạy mau! Bà sẽ cầm chân con quái vật này―"
+Cảnh tượng trước mắt làm cả hai sững sờ. Thật khó diễn tả, nhưng ít nhất cũng phải nói là nó toát lên vẻ vô cùng tà ác. Thoạt nhìn nó giống một con sói bạc to lớn, nhưng đôi mắt lại đỏ ngầu như máu và quanh thân hình đồ sộ là làn hắc khí tà quái chập chờn bốc lên. Trông nó như thể đang khao khát chém giết tàn sát, chẳng khác nào hiện thân của sự hủy diệt hay sứ đồ đến từ Địa Ngục.
 
-Đó là những lời trăn trối cuối cùng của bà. Trước cả khi tôi kịp hiểu chuyện gì đang xảy ra, móng vuốt của con sói đã xuyên toạc ra sau lưng bà. Pravda hộc ra một búng máu, và ánh sáng dần vụt tắt trong đôi mắt bà. Rồi bà ngã xuống, trút hơi thở cuối cùng.
+Cách đó không xa, bà Pravda đang cầm một cây trượng. Chính bà là người đã thi triển ma pháp. Tôi chưa từng biết bà biết dùng ma pháp, nhưng Jinlin thì biết. Có lẽ bà Pravda đã dạy cho con bé đôi chút để phòng khi nguy cấp.
 
-Tôi từng nhìn thấy xác chết trước đây, nhưng đây là lần đầu tiên tôi tận mắt chứng kiến khoảnh khắc của cái chết. Tôi không thể nghĩ ngợi được gì trong giây lát. Nhưng rồi tôi sực nhớ ra rằng mình phải chạy. Tôi nắm chặt lấy tay Jinlin và cố chạy ra xa con sói hết mức có thể.
+Bà Pravda trông thấy hai đứa liền ngoái lại. "Hai đứa?! Còn sống à?! Chạy mau! Bà sẽ cản con quái vật này―"
 
-"Rentt?! Rentt, còn bà thì sao?!" Jinlin gào lên, giọng cô bé như chết lặng không còn chút cảm xúc.
+Đó là những lời cuối cùng của bà. Trước cả khi tôi kịp hiểu chuyện gì vừa xảy ra, móng vuốt con sói đã trồi ra từ sau lưng bà. Bà Pravda hộc máu, ánh sáng trong đôi mắt vụt tắt. Rồi bà trút hơi thở cuối cùng.
 
-Tôi dĩ nhiên biết cô bé muốn nói gì, nhưng Pravda đã không còn nữa rồi. Chúng tôi phải sống sót, nên chúng tôi phải chạy. Chẳng còn cách nào khác có thể làm được nữa.
+Tôi từng thấy người chết trước đây, nhưng đây là lần đầu tiên tôi tận mắt chứng kiến khoảnh khắc một người lìa đời. Đầu óc tôi chết lặng trong giây lát. Nhưng rồi tôi sực tỉnh: mình phải chạy. Tôi chộp lấy tay Jinlin, dốc sức kéo cô bé chạy thật xa khỏi con sói.
 
-"Còn cha mẹ cậu thì sao?!" Jinlin tiếp tục hỏi, đoán rằng họ chắc hẳn phải ở đâu đó quanh đây.
+"Rentt?! Rentt, còn bà thì sao?!" Jinlin thất thanh gào lên, giọng trơ khấc không một chút cảm xúc.
 
-Jinlin chắc hẳn bàng hoàng hỗn loạn hơn tôi nhiều. Cô bé hẳn đã không nhìn thấy hai thi thể còn lại nằm cạnh con sói, nhưng tôi thì thấy. Chúng tôi là những người duy nhất còn sống sót.
+Tôi dĩ nhiên hiểu cô bé muốn nói gì, nhưng bà Pravda đã mất rồi. Hai đứa phải sống sót, nên phải chạy. Chẳng còn cách nào khác.
 
-Có lẽ tôi có phần nhẫn tâm. Đứng chết trân trong hoàn cảnh ấy là phản ứng bình thường, đúng như những gì Jinlin đang trải qua. Nhưng tôi tuyệt đối không thể để cô bé phải chết.
+"Còn cha mẹ cậu thì sao?!" Jinlin gặng hỏi tiếp, đinh ninh họ chắc chắn ở quanh đâu đây.
+
+Jinlin chắc chắn hoảng loạn hơn tôi nhiều. Cô bé hẳn chưa nhìn thấy hai cái xác còn lại nằm bên con sói, nhưng tôi thì thấy rồi. Chỉ còn hai đứa tôi sống sót.
+
+Có lẽ tôi có phần nhẫn tâm. Trong tình cảnh đó, đứng chết sững như Jinlin mới là lẽ thường. Nhưng tôi nhất quyết không để cô bé phải chết.
 
 ![](images/ch141-01.webp)
 
 ◆◇◆◇◆
 
-Tôi chạy. Tôi chạy để sống sót. Tôi chạy để trở về nhà. Tôi chạy để bảo vệ người bạn thanh mai trúc mã của mình.
+Tôi chạy. Chạy để sống sót. Chạy để về được nhà. Chạy để bảo vệ người bạn thanh mai trúc mã của mình.
 
-Tôi chẳng biết chúng tôi đã chạy được bao lâu. "Thế này chắc đủ xa rồi," tôi thì thào trong từng hơi thở dốc, đã cách rất xa cỗ xe bị lật. Nhưng rồi Jinlin lắp bắp gọi tên tôi, giọng cô bé run rẩy, và cô bé chỉ thẳng về phía trước.
+Tôi chẳng rõ hai đứa đã chạy được bao lâu. Đã cách cỗ xe bị lật một quãng xa, tôi vừa thở dốc vừa lẩm bẩm: "Thế này chắc đủ xa rồi." Nhưng rồi Jinlin run rẩy lắp bắp gọi tên tôi, ngón tay chỉ thẳng về phía trước.
 
-Thứ đang ở đó hiển nhiên đến mức tôi cảm thấy mình chẳng cần phải giải thích, nhưng đó chính là con sói hung tàn ấy. Đôi mắt đỏ ngầu của nó nhìn chúng tôi đầy máu lạnh vô tình. Giờ ngẫm lại, thật kỳ lạ khi một đứa trẻ lại có thể chạy xa đến thế khỏi con quái vật đó. Con sói chắc chắn là đang vờn chúng tôi. Nó thừa sức giết chết chúng tôi trong nháy mắt, nhưng nó lại muốn xem chúng tôi có thể tháo chạy được bao xa. Giờ thì trò chơi đã kết thúc. Tôi chẳng hề bắt gặp dù chỉ một thoáng bóng hình của nó trong lúc chúng tôi bỏ chạy, nên nếu giờ đây nó lại lộ diện, ắt hẳn là nó đã thấy chán ngán rồi.
+Thứ đứng ở đó hiển nhiên đến mức chẳng cần nói ra thì ai cũng biết: chính là con sói gớm ghiếc ấy. Đôi mắt đỏ ngầu lạnh tanh nhìn chằm chằm vào hai đứa. Giờ ngẫm lại, một đứa trẻ con làm sao chạy xa đến thế khỏi con quái vật được chứ. Con sói chắc chắn chỉ đang vờn chúng tôi. Nó thừa sức giết chết hai đứa trong chớp mắt, nhưng lại muốn xem chúng tôi trốn chạy được bao xa. Giờ thì trò chơi kết thúc rồi. Suốt dọc đường chạy tôi chẳng hề thấy bóng dáng nó đâu, nên một khi nó đã chịu xuất hiện ở đây, ắt hẳn là nó đã chơi chán rồi.
 
-Lúc đó tôi đâu hiểu được điều đó và chỉ nghĩ rằng mình phải tiếp tục chạy. Khốn nỗi, đôi chân tôi lại chẳng thèm nghe lời. Jinlin dường như cũng chẳng thể bước thêm nổi một bước nào nữa. Chúng tôi đã bị dồn vào đường cùng.
+Lúc ấy tôi nào hiểu được chuyện đó, trong đầu chỉ nghĩ phải chạy tiếp. Khổ nỗi hai chân chẳng còn nghe lời nữa. Jinlin xem chừng cũng chẳng nhấc nổi nửa bước. Hai đứa đã rơi vào đường cùng.
 
-Tôi chẳng hiểu điều gì đã thúc đẩy mình, nhưng tôi lê từng bước nặng nề về phía con sói và đứng chắn trước mặt nó. Đó chẳng phải là một quyết định khôn ngoan nhất, và có lẽ cũng hoàn toàn vô nghĩa, nhưng đó là tất cả những gì tôi có thể làm để bảo vệ Jinlin. Đó là tất cả những gì tôi có thể làm để cứu lấy mạng sống của cô bé. Tôi nghĩ rằng cô bé có thể chạy trốn trong lúc con sói giết chết tôi.
+Tôi chẳng biết lúc ấy điều gì đã xui khiến mình, chỉ thấy mình lê từng bước nặng nhọc về phía con sói rồi đứng chắn trước mặt nó. Đó chẳng phải quyết định khôn ngoan gì, thậm chí có thể nói là vô ích, nhưng đó là tất cả những gì tôi làm được để bảo vệ Jinlin. Là tất cả những gì tôi có thể làm để giữ mạng cho cô bé. Tôi nghĩ chỉ cần mình chịu chết dưới vuốt con sói, cô bé sẽ có cơ hội chạy thoát.
 
-Nhưng con sói đang dõi mắt nhìn chúng tôi. Nó biết thừa rằng chúng tôi chẳng có cách nào trốn thoát được. Dù tôi có hy sinh bản thân thì cũng chẳng thay đổi được gì, nhưng khi ấy tôi lại không hề hay biết điều đó.
+Thế nhưng con sói vẫn dõi mắt nhìn hai đứa. Nó thừa biết chúng tôi không đời nào trốn thoát nổi. Tôi có hy sinh bản thân cũng vô ích, hiềm nỗi lúc đó tôi chẳng hề hay biết.
 
-Tôi dang rộng hai tay và trừng mắt nhìn con sói. "Jinlin, chạy đi," tôi giục giã. "Để con quái vật đó lại cho tớ."
+Tôi dang rộng hai tay, trừng mắt nhìn con sói. "Jinlin, chạy đi!" tôi giục. "Để con quái vật này cho tớ!"
 
-Jinlin lắc đầu nguầy nguậy. "Không, Rentt! Tớ, tớ―"
+Jinlin lắc đầu nguầy nguậy. "Không, Rentt! Tớ... tớ―"
 
-"Cứ chạy đi! Tớ sẽ cầm chân nó!"
+"Chạy mau đi! Tớ sẽ cầm chân nó!"
 
-Chúng tôi giằng co qua lại một lúc cho đến khi con sói rốt cuộc cũng mất hết kiên nhẫn. Nó thở dài một tiếng rồi giơ chân trước lên. Chậm rãi, nó vươn những chiếc móng vuốt sắc nhọn ra, máu của Pravda và cha mẹ tôi vẫn còn bám chặt trên đó. Họ đã bị đâm thủng và xé toạc bởi chính những móng vuốt này. Chỉ vài giây nữa thôi, điều tương tự cũng sẽ giáng xuống đầu tôi. Nhưng nếu tôi có thể câu kéo đủ thời gian cho Jinlin trốn thoát, bấy nhiêu đó là quá đủ rồi. Nghĩ vậy, tôi cảm thấy vững tâm khi đứng sừng sững ở đó.
+Hai đứa cứ giằng co mãi cho tới khi con sói mất kiên nhẫn. Nó thở dài một hơi rồi giơ chân trước lên. Từ từ, những chiếc móng sắc nhọn thò ra, máu của bà Pravda và cha mẹ tôi vẫn còn bám đỏ ngầu trên đó. Chính bộ móng này đã đâm xuyên và xé toạc họ. Chỉ vài giây nữa thôi, số phận tôi cũng sẽ như vậy. Nhưng miễn sao câu kéo đủ thời gian cho Jinlin trốn thoát thì thế là quá đủ. Nghĩ vậy, tôi thấy vững dạ khi đứng nguyên tại chỗ.
 
-Tôi nhắm nghiền mắt lại và cảm nhận được một luồng gió rít khi con sói vung mạnh chân trước xuống. Nhưng rồi có thứ gì đó đã xô mạnh tôi ngã nhào. Những móng vuốt ấy chẳng hề chạm tới người tôi. Tự hỏi chuyện gì đã xảy ra, tôi mở mắt ra. Thứ đập vào mắt tôi lại là kết cục tồi tệ nhất mà tôi có thể tưởng tượng ra, và là điều cuối cùng mà tôi muốn chứng kiến trên cõi đời này.
+Tôi nhắm nghiền mắt, cảm nhận luồng gió rít khi con sói bổ chân trước xuống. Nhưng rồi có một lực đẩy mạnh khiến tôi ngã nhào. Móng vuốt kia không hề trúng người tôi. Bàng hoàng không hiểu chuyện gì xảy ra, tôi mở mắt. Trước mắt tôi là kết cục tồi tệ nhất có thể tưởng tượng, điều cuối cùng mà tôi muốn thấy trên đời.
 
-Jinlin thì thào gọi tên tôi, máu rỉ ra từ khóe miệng cô bé. Tôi nhìn xuống thấp hơn và thấy một chiếc móng vuốt sắc nhọn đang đâm xuyên qua ngực cô bé. Lẽ ra nó phải găm vào người tôi, nhưng Jinlin đã thay tôi đỡ lấy đòn chí mạng ấy. Con sói từ từ rút móng vuốt ra, và máu phun ra xối xả từ cơ thể Jinlin. Cô bé ngã gục xuống đất, chìm trong vũng máu đỏ tươi.
+Jinlin thì thào gọi tên tôi, máu từ khóe miệng rỉ ra. Nhìn xuống dưới, tôi thấy một chiếc móng vuốt sắc nhọn đang xuyên qua ngực con bé. Đòn chí mạng ấy đáng lẽ phải găm vào tôi, nhưng Jinlin đã thế chỗ. Con sói từ tốn rút móng ra, máu từ ngực Jinlin phun ra như suối. Cô bé đổ gục xuống đất trong vũng máu đỏ tươi.
 
-"Jinlin! Jinlin! Này! Jinlin!" tôi gào khóc lao đến bên cô bé. Tôi chẳng còn bận tâm đến con sói nữa. Tôi chẳng màng xem nó có giết chết tôi hay không. Jinlin mới là người quan trọng hơn. Tôi phải cứu lấy cô bé bằng bất cứ giá nào. Nhưng máu cứ không ngừng trào ra, và gương mặt cô bé ngày càng tái mét đi theo từng giây từng phút. Tôi cố vắt óc nghĩ ra cách nào đó để giữ lấy mạng sống cho cô bé, nhưng tất cả đều là vô vọng.
+"Jinlin! Jinlin! Này! Jinlin!" tôi gào lên, lao vội tới bên cô bé. Tôi chẳng còn màng tới con sói nữa. Nó có giết tôi hay không cũng mặc kệ. Jinlin mới là quan trọng nhất. Tôi phải cứu cô bé bằng mọi giá. Nhưng máu cứ không ngừng trào ra, sắc mặt cô bé tái nhợt đi từng giây. Tôi cố nghĩ cách để giữ mạng cho con bé, nhưng vô vọng.
 
-Cô bé vẫn còn nói được, nhưng giọng yếu ớt và đứt quãng. "Rentt, tớ xin lỗi, tớ―"
+Cô bé vẫn còn thều thào được, nhưng giọng đã yếu ớt ngắt quãng. "Rentt, tớ xin lỗi, tớ―"
 
-"Jinlin, đừng nói nữa! Cậu sẽ chết mất, cậu sắp chết rồi đấy!"
+"Jinlin, đừng nói nữa! Cậu chết mất, cậu sẽ chết mất đấy!"
 
-"Hãy nói với cha mẹ tớ rằng tớ xin lỗi nhé. Cậu phải sống tiếp đấy, Rentt. Trước khi nhắm mắt, tớ muốn cậu biết rằng tớ từng muốn... ừm, một ngày nào đó được kết hôn với cậu."
+"Bảo với cha mẹ là tớ xin lỗi nhé. Phải sống tiếp đấy, Rentt. Trước khi chết, tớ muốn cậu biết là tớ từng muốn... ừm, sau này được lấy cậu."
 
-"Chúng mình có thể làm điều đó mà, Jinlin. Cậu chỉ cần sống sót thôi."
+"Được mà, Jinlin. Cậu chỉ cần sống tiếp thôi mà!"
 
-"Ôi, Rentt à," cô bé mỉm cười nói, "cậu có thể sống thật hạnh phúc bên một người khác mà."
+"Ôi dào, Rentt à," cô bé khẽ cười, "cậu cứ sống thật hạnh phúc bên người khác cũng được mà."
 
-Cái chết ập đến quá đỗi nhanh chóng. Cơ thể Jinlin nhanh chóng mềm nhũn đi, và chẳng mấy chốc, cô bé không còn đáp lại những lời gọi của tôi nữa.
+Cái chết ập đến quá đỗi bất ngờ. Người Jinlin rũ xuống rất nhanh, và chẳng mấy chốc, cô bé không còn đáp lại tiếng gọi của tôi nữa.
 
-"Jinlin, Jinlin! Tại sao chứ?!" tôi gào khóc nức nở. Tôi chẳng còn thiết tha gì bất cứ điều gì nữa. Tôi thậm chí còn chẳng thể chuyển lời trăn trối của cô bé vì con sói quái vật đó vẫn còn đứng sừng sững ở đằng kia. Có thứ gì đó trong tôi vụn vỡ, và tôi nhặt lấy một cành cây lên để đối đầu với con sói. Thật là ngu xuẩn. Chẳng có cách nào để tôi có thể chiến thắng, và cơ hội sống sót của tôi thậm chí còn thấp hơn cả việc cố gắng tháo chạy. Nhưng nếu phải chết, tôi muốn chết trong tư thế chiến đấu.
+"Jinlin, Jinlin! Tại sao chứ?!" tôi gào lên trong nước mắt. Tôi chẳng còn màng đến điều gì nữa. Đến lời trăn trối của cô bé tôi cũng chẳng thể chuyển đi, bởi con quái vật sói kia vẫn còn đứng đó. Lý trí trong tôi đứt phăng, tôi chộp lấy một cành cây lao ra đối đầu với con sói. Thật ngu xuẩn. Đời nào tôi thắng được, cơ hội sống sót thậm chí còn thấp hơn cả bỏ chạy. Nhưng nếu đằng nào cũng phải chết, tôi thà chết trong lúc liều mạng đánh trả.
 
-Con sói nhìn tôi đầy thích thú, rồi nó đứng thẳng dậy và đối diện với tôi như một dã thú đang đi săn mồi. Đó là lúc tôi nhận ra trước đó nó chỉ đang đùa giỡn. Cho đến tận bây giờ tôi vẫn không hiểu vì sao nó lại cảm thấy cần phải vào thế chiến đấu, nhưng có lẽ con sói cảm thấy làm vậy mới là đúng phép. Giờ ngẫm lại, con sói dường như cũng đã từng cảnh giác đề phòng Pravda. Dẫu vậy, muốn biết chắc thì phải hỏi chính con quái vật đó mới được.
+Con sói nhìn tôi đầy thích thú, rồi nó vươn mình đứng thẳng, đối diện với tôi như dã thú chuẩn bị vồ mồi. Đó là lúc tôi nhận ra trước đó nó chỉ đang đùa giỡn. Đến tận bây giờ tôi vẫn không hiểu tại sao nó lại phải vào thế chiến đấu với một đứa con nít, có lẽ nó nghĩ làm vậy mới đúng phép. Giờ ngẫm lại, lúc đối đầu với bà Pravda con sói cũng rất cảnh giác. Cơ mà muốn biết chắc thì chỉ có nước đi hỏi chính con quái vật đó.
 
-Tôi vung vẩy cành cây trên tay. Tư thế của tôi tệ hại khôn cùng, và tôi chỉ có thể chạy với tốc độ lạch bạch chậm chạp. Đây chẳng phải là cách để chiến đấu với một con quái vật. Nhưng điều đó chẳng còn quan trọng nữa. Tôi lao vào đâu phải để đánh nhau, mà đúng hơn là đang tìm đến cái chết. Tôi không biết con sói có nhận ra điều đó hay không, nhưng trông nó có vẻ khoái chí khi há toang cái miệng rộng hoác và tiến lại gần tôi. Trông nó như thể sắp sửa cắn đứt đôi người tôi ra, nhưng tôi chẳng hề sợ hãi.
+Tôi vung cành cây trong tay. Dáng chạy thì vụng về thậm tệ, chân chỉ lạch bạch được mấy bước chậm rì. Đánh nhau với quái vật mà như thế thì chẳng đâu vào đâu. Nhưng có hề gì. Tôi lao lên đâu phải để đánh, mà là để tìm cái chết. Chẳng rõ con sói có biết điều đó hay không, nhưng trông nó có vẻ rất khoái chí khi ngoác rộng cái mõm lù lù tiến lại. Cứ như thể nó sắp cắn phập đứt đôi người tôi ra, nhưng tôi chẳng mảy may sợ hãi.
 
-Miệng nó ngày càng áp sát. Nếu tôi tấn công vào cái miệng há toang hoác của nó, tôi nghĩ mình có thể gây ra chút sát thương, dù chỉ với một cành cây. Tôi đâm mạnh vào đó và, thật đáng kinh ngạc, tôi đã cào xước nướu răng của nó đôi chút. Tôi không biết đó là do ăn may, hay con sói không chú ý, hay nó cố tình để chuyện đó xảy ra, nhưng tôi đã thấy thỏa mãn. Ít nhất thì tôi cũng đã trả đũa được nó phần nào.
+Cái mõm của nó áp sát tới gần. Tôi nghĩ chỉ cần chọc thẳng vào cái miệng đang ngoác to kia, dù chỉ là một cành cây thì cũng gây được chút thương tích. Tôi đâm tới tấp, và bất ngờ thay, cành cây quẹt rách nướu nó một mảng. Tôi chẳng biết là do ăn may, do con sói sơ suất, hay nó cố tình để mặc tôi làm thế, nhưng trong lòng tôi đã thấy thỏa mãn. Ít ra tôi cũng trả đũa được nó phần nào.
 
-Chấp nhận số phận, tôi nhắm mắt chờ đợi bị nghiền nát trong hàm răng của nó. Nhưng đúng lúc ấy, tôi nghe thấy một tiếng "keng" chói tai vang lên. Có thứ gì đó đã đỡ cho tôi trước nanh vuốt của con sói.
+Cam chịu số phận, tôi chờ đợi bị nghiền nát dưới hàm răng nó. Nhưng đúng lúc ấy, một tiếng "keng" chói tai vang lên. Thứ gì đó đã đỡ đòn nanh của con sói thay cho tôi.
