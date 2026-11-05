@@ -1,143 +1,143 @@
 # Chương 147: Tập 6 Chương 4 - Bí Mật Của Hathara (2)
 
-"Đến nơi rồi đấy," Gharb lên tiếng sau vài tiếng đồng hồ chúng tôi rảo bước quanh khu rừng, đúng vào lúc tôi bắt đầu cảm thấy phát ngấy.
+"Tới nơi rồi đấy," bà Gharb cất tiếng sau mấy tiếng ròng cả nhóm rảo bước trong rừng, đúng lúc tôi bắt đầu thấy ngán.
 
-"Đây là một pháo đài sao? Trông cổ kính thật đấy," Lorraine thì thầm.
+"Pháo đài sao? Trông cũ kỹ thật đấy," Lorraine khẽ thì thầm.
 
-Nhìn từ mọi góc độ, quả thực nơi đây trông giống như một dạng pháo đài. Nó tựa như một tòa lâu đài nhỏ xây bằng đá, nhưng năm tháng chẳng hề nương tay với nó. Vài phần của kiến trúc đã xuống cấp trầm trọng. Cây cối và dây leo mọc um tùm, phủ kín gần như toàn bộ bề mặt bằng một màu xanh rì. Nếu phóng tầm mắt về hướng này từ làng Hathara, người ta sẽ chỉ nghĩ nó chẳng qua là một phần của cánh rừng. Thế nhưng rõ ràng ở đây có một pháo đài.
+Nhìn vẻ ngoài thì đúng là một kiểu pháo đài thật. Nó tựa như một tòa thành nhỏ bằng đá, nhưng thời gian đã tàn phá nơi này không ít. Nhiều mảng tường đã đổ nát, hư hại nặng nề. Cây cối mọc um tùm, phủ một màu xanh rì lên gần như toàn bộ bề mặt. Đứng từ Hathara nhìn về hướng này, người ta sẽ ngỡ nó chỉ là một góc của cánh rừng. Nhưng sờ sờ ngay trước mắt đúng là một pháo đài.
 
-Tôi chưa từng hay biết có thứ gì như thế này tồn tại gần Hathara, nên điều đó khiến tôi thoáng kinh ngạc. "Cô có nghĩ đây chính là bí mật của Hathara không?" tôi hỏi.
+Tôi chưa từng biết gần Hathara lại có một nơi như thế này, nên không khỏi ngỡ ngàng. "Cô có nghĩ đây là bí mật của Hathara không?" tôi hỏi.
 
-"Có lẽ vậy. Tôi khá tò mò không biết nó được xây dựng từ khi nào, nhưng dám chắc là nó chẳng hề mới mẻ gì rồi," Lorraine đáp.
+"Chắc thế. Tôi cũng tò mò không biết nó được dựng lên từ bao giờ, nhưng dám chắc một điều là nó có từ lâu lắm rồi," Lorraine đáp.
 
-Thành thật mà nói, chúng tôi có phần thất vọng khi nơi này trông chỉ như một tàn tích cổ xưa gần làng. Đứng dưới góc độ lịch sử thì đây là một bí mật tương đối quan trọng, nhưng nếu chịu khó tìm kiếm thì người ta có thể bắt gặp những tàn tích kiểu này ở bất cứ đâu. Thậm chí một vài nơi còn biến những tàn tích cổ của họ thành điểm thu hút khách du lịch. Xét đến điều đó, tôi không nghĩ bí mật này lại ấn tượng đến thế. Trừ phi bên trong những tàn tích này ẩn chứa điều gì đó đặc biệt.
+Nói thật thì hai đứa có phần hụt hẫng khi nơi này trông chỉ như một tàn tích cổ gần làng. Xét về mặt lịch sử thì đây là bí mật khá trọng đại, nhưng tàn tích kiểu này chỉ cần chịu khó tìm một chút là thấy ở khắp nơi. Có nơi người ta còn đem tàn tích cổ ra làm điểm tham quan hút khách. Nghĩ vậy nên tôi thấy bí mật này cũng chẳng có gì ghê gớm. Trừ khi khu tàn tích còn ẩn chứa điều gì đó đặc biệt.
 
-Nhận ra nỗi ngờ vực của chúng tôi, Gharb và Capitan bước tiếp vào trong. "Đằng này. Đừng có hoang mang," họ bảo.
+Thấy vẻ hoài nghi của hai đứa, bà Gharb và chú Capitan rảo bước vào sâu hơn. "Lối này. Cứ bình tĩnh," hai người bảo.
 
-Xem chừng rốt cuộc vẫn còn điều gì khác nữa. Tôi bắt đầu nghĩ rằng có lẽ mình sẽ không phải thất vọng đâu.
+Nghe vậy thì hẳn bên trong vẫn còn thứ gì khác. Tôi thầm nghĩ có khi chuyến này mình sẽ không phải thất vọng đâu.
 
-Chúng tôi bước vào bên trong pháo đài. Bên trong cũng cổ kính hệt như vẻ bề ngoài, những mảng sụp đổ là thứ đập ngay vào mắt nhất. Nhưng trông nó cũng như thể đã được dọn dẹp ở một chừng mực nào đó. Có đủ khoảng trống trên sàn để người ta đi lại thong dong, điều này có phần hơi bất thường. Phỏng đoán khả dĩ nhất của tôi là Gharb và Capitan thường xuyên lui tới nơi đây và tự mình quét dọn. Dù chưa hoàn toàn rõ ràng, song phần lớn dân làng không bao giờ tới chốn này, nên đó là khả năng duy nhất nảy ra trong đầu tôi.
+Chúng tôi bước vào bên trong pháo đài. Bên trong cũng cũ kỹ hệt như vẻ bề ngoài, đập vào mắt nhất là những mảng tường đổ sụp. Song dường như nơi này đã được dọn dẹp phần nào. Mặt sàn có đủ lối quang đãng để người ta đi lại, điều đó hơi bất thường. Khả năng cao là bà Gharb và chú Capitan thường lui tới đây rồi tự tay dọn dẹp. Dù không dám chắc, nhưng đa số dân làng chẳng bao giờ bén mảng tới chốn này, nên tôi chỉ nghĩ được mỗi khả năng đó.
 
-Đi thêm một lúc nữa, chúng tôi tới một khoảng không gian rộng rãi. "Nơi này là chỗ nào thế?" tôi hỏi.
+Đi thêm một đoạn, cả nhóm tới một gian phòng rộng thênh thang. "Chỗ này là đâu thế nhỉ?" tôi hỏi.
 
-"Nhiều khả năng là phòng yết kiến của một vị vua, lãnh chúa, hoặc một nhân vật quyền quý nào đó," Lorraine giải thích. "Có lẽ vào thời cổ đại từng có một gia tộc quyền thế sinh sống ở vùng này. Đại loại thế."
+"Chắc là phòng diện kiến của vua chúa, lãnh chúa, hoặc nhân vật quyền quý nào đó," Lorraine giải thích. "Có khi thời cổ đại từng có một gia tộc quyền thế sinh sống ở vùng này. Đại loại vậy."
 
-Ở phía sau căn phòng là một bậc sàn nâng cao, bên trên đặt một chiếc ghế đá. Có lẽ trong quá khứ nó từng được phủ vải gấm, nhưng giờ đây chỉ còn trơ lại bề mặt đá trần trụi. Vạn vật đều phai tàn theo thời gian. Bất kể kẻ nào từng nắm giữ quyền lực từ căn phòng này, lịch sử thậm chí còn chẳng buồn ghi nhớ về họ. Vai trò của họ giờ đây được gánh vác bởi Gharb, Capitan và Ingo, với tư cách là những người lãnh đạo ngôi làng. Dẫu vậy, tôi chẳng cảm nhận được chút tôn kính nào dành cho căn phòng này từ cả hai người đang dẫn đường cho chúng tôi.
+Phía cuối phòng có một bục sàn nâng cao, bên trên đặt chiếc ghế bằng đá. Hẳn xưa kia nó từng được phủ vải đệm, nhưng giờ chỉ còn trơ lại bề mặt đá lạnh lẽo. Vạn vật đều tàn phai theo thời gian. Bất kể ai từng nắm giữ quyền lực nơi căn phòng này, lịch sử thậm chí còn chẳng buồn lưu lại tên tuổi của họ. Vai trò thủ lĩnh giờ đây do bà Gharb, chú Capitan và cha Ingo gánh vác, với tư cách là những người dẫn dắt ngôi làng. Có điều, tôi chẳng thấy hai người dẫn đường tỏ ra chút tôn kính nào với căn phòng này cả.
 
-"Đằng này. Là căn phòng này cơ," họ nói rồi tiến vào một hành lang nằm cạnh ngai vị. Rõ ràng căn phòng này chẳng có gì quan trọng.
+"Lối này. Căn phòng kia cơ," hai người nói rồi rảo bước vào dãy hành lang bên cạnh chiếc ngai. Xem ra căn phòng này chẳng có gì đáng bận tâm.
 
-Chúng tôi đi theo sau, và khi tới đích, cả hai đều sững sờ kinh ngạc.
+Hai đứa bám gót theo sau, và lúc tới nơi thì cả tôi lẫn Lorraine đều không khỏi sững sờ.
 
-"Không thể nào. Sao thứ này lại ở đây?" Lorraine lẩm bẩm, mắt dán chặt vào hình vẽ bao phủ toàn bộ mặt sàn. Đó là một ma pháp trận khổng lồ đang tỏa ra ánh sáng màu xanh lam nhạt. Tôi nhận ra ma pháp trận này, và với tư cách là một ma pháp sư, Lorraine dĩ nhiên cũng nhận ra. "Là ma pháp trận dịch chuyển," cô thốt lên đầy sửng sốt.
-
-◆◇◆◇◆
-
-Ma pháp trận dịch chuyển hầu như chỉ xuất hiện độc nhất trong các mê cung, nên đương nhiên chẳng có lý do gì để một cái lại hiện diện ở nơi này. Chẳng ai biết cách vẽ nó cả. À thì, có lẽ điều đó cũng không hẳn là đúng tuyệt đối. Người ta có thể sao chép nó theo một bản vẽ sơ đồ. Trên thực tế, làm thế thì dễ ợt. Nhưng dẫu có sao chép hoàn hảo đến đâu, ma pháp trận vẫn sẽ không thể kích hoạt. Đơn giản là có điều gì đó về cách vận hành của chúng mà chúng ta chưa hề thấu hiểu. Do đó, những ma pháp trận dịch chuyển mới chỉ có thể được tìm thấy trong mê cung. Một số mê cung thậm chí còn thay đổi cấu trúc bên trong qua từng ngày trôi qua, và nơi sâu thẳm của những mê cung đó, các ma pháp trận dịch chuyển có thể được sinh ra hoặc bị phá hủy.
-
-Thế nhưng nơi đây lại chẳng hề có mê cung nào. Tòa kiến trúc này nhiều khả năng là một pháo đài do con người xây dựng, nên tôi và Lorraine không khỏi thắc mắc làm sao một ma pháp trận dịch chuyển lại có thể hiện diện ở chốn này.
-
-Gharb và Capitan nhìn vẻ mặt bàng hoàng của chúng tôi bằng những nụ cười đầy thỏa mãn.
-
-"Có vẻ hai đứa ngạc nhiên lắm nhỉ," Gharb nói. "Sau khi cháu mò về đây trong bộ dạng ăn mặc thế kia, lại còn dắt theo cô bạn gái này, rồi cô bé ấy còn dùng cái ma pháp ảo ảnh đó nữa chứ, cả chuyến về thăm này hai đứa toàn làm bọn ta hết kinh ngạc này đến ngạc nhiên khác. Giờ cảm giác như bọn ta đã gỡ lại được một vố rồi đấy, thế nên khoái chí thật."
-
-Capitan gật đầu tán thành. "Chú cứ lo cháu lại bảo thứ này ở Maalt chẳng có gì đặc biệt. Bọn chú làm sao biết được ở thành phố lớn người ta đang nghiên cứu ma pháp đến đâu rồi, khéo giờ này họ đã tìm ra cách ma pháp trận dịch chuyển vận hành cũng nên."
-
-Có quá nhiều điều tôi muốn bình luận về hai câu nói vừa rồi, nhưng sau khi đắn đo một chút, tôi quyết định hỏi câu quan trọng và thích đáng nhất. "Tại sao thứ này lại ở đây? Con người không thể nào tạo ra nó được, và chúng chắc chắn cũng không hề có ở bất kỳ thành phố nào của Vương Quốc Yaaran. Thậm chí người ta còn chẳng thể tìm thấy chúng ở những đô thị quy mô lớn hơn nhiều."
-
-Khi nói điều đó, tôi đang nghĩ tới quê hương của Lorraine. Nếu bí mật của ma pháp trận dịch chuyển đã được hé mở, Lorraine ắt hẳn phải biết rõ. Sự bàng hoàng của cô chỉ có thể đồng nghĩa với việc ngay cả Đế Quốc Rermutt cũng không biết cách tạo ra chúng. Dù vậy, đế quốc này lấy quân sự làm trọng tâm, và giới quân sự luôn nắm giữ những thông tin cơ mật mà một học giả bình thường như Lorraine sẽ không được tiếp cận. Nhưng theo lời cô, bọn họ sẽ cố gắng thôn tính toàn bộ đại lục nếu có thể, và ma pháp trận dịch chuyển sẽ giúp họ điều động binh lính cùng quân nhu tới bất cứ đâu vào bất kỳ lúc nào. Nếu sở hữu công nghệ đó, Vương Quốc Yaaran hẳn đã bị hủy diệt từ lâu rồi. Không hẳn Đế Quốc Rermutt là quốc gia tiên tiến duy nhất trên thế giới, nhưng họ chắc chắn thuộc hàng phát triển bậc nhất, vậy mà ngay cả nghiên cứu tối tân nhất của họ cũng không thể giải thích nổi ma pháp trận dịch chuyển.
-
-"Bọn ta cũng đâu thể tạo ra chúng, cháu phải hiểu điều đó," Gharb thong thả đáp. "Nhưng thứ này ở đây là vì giả thuyết cho rằng con người không thể tạo ra ma pháp trận dịch chuyển vốn đã sai mất một phần."
-
-"Thế nghĩa là sao―" Tôi vừa cất lời định hỏi thì Gharb đã ngắt lời tôi.
-
-"Chà, cứ bước vào trong rồi cháu sẽ hiểu ra ngay thôi. Ta đi trước đây. Đi nào, Capitan," bà nói rồi kéo chú ấy bước lên ma pháp trận dịch chuyển cùng mình. Nó bắt đầu phát sáng, và hình bóng hai người họ mờ dần đi cho tới khi tia sáng cuối cùng tan biến vào không khí, chỉ còn lại tôi và Lorraine.
-
-Chúng tôi nhìn nhau.
-
-"Tôi biết mình hay bảo nhiều thứ là thú vị, nhưng chuyện này thực sự quá đỗi hấp dẫn đấy, Rentt. Rốt cuộc ngôi làng của anh có chuyện gì vậy hả?" Lorraine nói, vẻ phấn khích hơn hẳn thường lệ. Bầu nhiệt huyết học giả của cô hẳn đã bùng cháy hừng hực.
-
-Tôi thấu hiểu cảm giác đó bởi chính bản thân tôi cũng đang vô cùng hào hứng. Chuyện này quả thực điên rồ hết sức. Tôi từng đoán ngôi làng ắt có vài bí mật, nhưng bí mật này lại thuộc đẳng cấp thế giới. Nó tựa như thứ mà những mạo hiểm giả huyền thoại sẽ tình cờ bắt gặp trong một câu chuyện cổ xưa. Cuộc sống bước vào những mê cung tăm tối và tuyệt vọng chật vật tiêu diệt hàng tá quái vật tẻ nhạt mỗi ngày dường như đã lùi xa về dĩ vãng. Mà trên thực tế thì đúng là vậy thật, nhưng tôi lại lạc đề mất rồi.
-
-"Tôi cũng chẳng biết nữa, nhưng đoán là chúng ta nên xem thử nó sẽ đưa mình tới đâu," tôi nói, mắt nhìn về phía ma pháp trận dịch chuyển. Tôi từng sử dụng vô số ma pháp trận dịch chuyển trong các mê cung, và tôi tin chắc Lorraine cũng vậy. Nhưng tận mắt thấy một trận pháp bên ngoài mê cung thì đây là lần đầu tiên đối với tôi. Lẽ dĩ nhiên, đây cũng sẽ là lần đầu tiên tôi sử dụng nó bên ngoài mê cung, thế nên điều đó mang lại cảm giác sợ hãi theo nhiều góc độ. Tôi chẳng có manh mối nào về việc mình sẽ đáp xuống nơi đâu, hay liệu sau đó có thể quay trở lại chốn này hay không. Gharb và Capitan chẳng hề đắn đo khi bước vào, nên hẳn là mọi chuyện vẫn ổn, song trực giác lại mách bảo tôi rằng chuyện này rất nguy hiểm. Thói quen cẩn trọng quá mức trước đây của tôi lại bắt đầu bộc lộ. Cảm giác dạo gần đây tôi đã tương đối bạo dạn hơn, nhưng từ tận sâu thẳm trong thâm tâm, tôi vẫn chỉ là một mạo hiểm giả cấp thấp nhút nhát mà thôi.
-
-Lorraine, trái lại, lại có suy nghĩ khác. "Nếu nguy hiểm thì họ đã chẳng bỏ đi trước mà để mặc chúng ta như thế. Tôi dám chắc sẽ không có chuyện gì xảy ra đâu. Được rồi, Rentt, đi nào," cô nói rồi nắm chặt cánh tay lôi tôi bước lên ma pháp trận dịch chuyển.
-
-Về phần mình, tôi vẫn muốn có thêm thời gian để cân nhắc đắn đo, nhưng giờ thì đã quá muộn rồi. Dẫu vậy, cô ấy nói đúng. Về mặt logic thì ở đây chẳng hề có mối nguy hiểm nào. Chẳng có lý do gì để xảy ra bất trắc cả, nhưng tôi vẫn thoáng sợ hãi đôi chút. Nó từa tựa như cảm giác nhìn xuống từ một vách đá cheo leo với sợi dây an toàn quấn quanh thắt lưng vậy. Người ta biết rõ mình sẽ an toàn, nhưng cảm giác đó vẫn thật hãi hùng.
-
-Song giờ đây tôi đã đứng bên trên, chẳng còn đường lui nữa. Lorraine, ngược lại, trông đầy háo hức chờ đợi xem điều gì sẽ xảy ra. Kế đó, ma pháp trận bùng lên một luồng sáng cuộn trào dữ dội, và chúng tôi biến mất.
+"Không thể nào. Sao thứ này lại ở đây?" Lorraine lẩm bẩm, mắt dán chặt vào hình vẽ bao phủ kín mặt sàn. Đó là một ma pháp trận khổng lồ đang tỏa ra ánh sáng lam nhạt. Tôi nhận ra ma pháp trận này, và là một ma pháp sư, Lorraine đương nhiên cũng nhận ra. "Là ma pháp trận dịch chuyển," cô thảng thốt rên lên một tiếng.
 
 ◆◇◆◇◆
 
-Khi mở mắt ra lần nữa, tôi nghe thấy tiếng Gharb trêu chọc mình. "Ồ, hai đứa đây rồi. Ta cứ tưởng có đứa sợ chết khiếp rồi rút lui chứ."
+Ma pháp trận dịch chuyển hầu như chỉ có trong các mê cung, nên việc một trận pháp như thế xuất hiện ở đây là điều hoàn toàn vô lý. Vốn dĩ chẳng ai biết cách vẽ chúng cả. Mà thực ra, nói vậy cũng chưa hẳn đúng. Người ta vẫn có thể sao chép lại theo sơ đồ, thực tế thì việc đó làm cái một. Nhưng dẫu có sao chép hoàn hảo tới đâu, ma pháp trận cũng chẳng chịu kích hoạt. Chỉ là cơ chế vận hành của chúng vẫn còn là một bí ẩn chưa ai thấu tỏ. Vì thế, ma pháp trận dịch chuyển mới chỉ có thể được tìm thấy trong mê cung. Lại có những mê cung thay đổi cấu trúc theo từng ngày, và nơi tầng sâu của những mê cung ấy, các ma pháp trận dịch chuyển có thể tự sinh ra hoặc biến mất.
 
-"Lần đầu bị dắt tới đây tôi cũng sợ chết khiếp đấy chứ," Capitan lên tiếng, trách khéo Gharb. "Có mỗi bà là chẳng hề bấn loạn trước chuyện này thôi."
+Thế nhưng ở đây làm gì có mê cung nào. Tòa pháo đài này nhiều khả năng là do con người xây dựng, nên tôi và Lorraine không khỏi thắc mắc làm sao một ma pháp trận dịch chuyển lại có thể nằm ở chốn này.
 
-Tôi đưa mắt nhìn quanh và thở phào nhẹ nhõm khi thấy cả hai người họ đều bình an vô sự. Lorraine cũng có mặt ở đó và hoàn toàn ổn thỏa. Ma pháp trận dịch chuyển xem chừng đã hoạt động bình thường. Nói cho cùng, nếu nó không hoạt động thì Gharb và Capitan đã chẳng bảo chúng tôi dùng làm gì.
+Bà Gharb và chú Capitan nhìn vẻ mặt bàng hoàng của hai đứa tôi, nở nụ cười đầy đắc ý.
 
-"Nhưng rốt cuộc nơi này là chỗ quái nào vậy?" Lorraine hỏi, tò mò ngó nghiêng xung quanh. "Tối tăm quá. Những thứ này là vách tường sao? Đây là một hang động ở đâu đó à?"
+"Xem chừng hai đứa ngạc nhiên lắm nhỉ," bà Gharb nói. "Hết chuyện cháu mò về làng trong bộ dạng thế kia, lại dắt theo cô bạn gái này, rồi cô bé còn dùng cả ma pháp ảo ảnh nữa chứ, suốt từ lúc về tới giờ hai đứa cứ làm bọn ta hết bất ngờ này tới ngạc nhiên khác. Giờ thì coi như bọn ta gỡ lại được một vố rồi, khoái thật đấy."
 
-Tôi cũng quan sát xung quanh, và nơi này quả thực trông giống như một hang động. Những vách đá bóng loáng có phần hơi ẩm ướt. "Ồ, nhưng đằng kia có ánh sáng kìa," tôi nói khi phóng tầm mắt ra xa và trông thấy chút ánh sáng, phỏng chừng là rọi vào từ lối ra. Có lẽ ma pháp trận dịch chuyển được giấu kín trong hang động để người ta khó lòng tìm thấy. Điều đó sẽ giải thích lý do vì sao nó chưa từng bị phát hiện.
+Chú Capitan gật đầu. "Chú cứ lo cháu lại bảo thứ này ở Maalt có gì lạ đâu. Bọn chú ở đây làm sao biết được trên thành phố lớn người ta nghiên cứu ma pháp tới đâu rồi, biết đâu chừng giờ này họ đã tìm ra cách ma pháp trận dịch chuyển vận hành rồi cũng nên."
 
-Trong lúc chúng tôi đang mải suy nghĩ, Gharb và Capitan đưa mắt nhìn nhau rồi cười toe toét. "Chà, chúng ta sắp tới đích rồi đấy," Gharb nói.
+Có khối điều tôi muốn vặn lại trong hai câu vừa rồi, nhưng ngẫm nghĩ một lát, tôi quyết định hỏi vào vấn đề cốt lõi nhất. "Sao thứ này lại ở đây được ạ? Con người đâu thể nào tạo ra nó, mà các thành phố của Vương Quốc Yaaran chắc chắn cũng chẳng có cái nào. Đến những đô thị lớn hơn nhiều còn chẳng hề có nữa là."
 
-"Đi thôi nào."
+Nói vậy là tôi đang nghĩ tới quê hương của Lorraine. Nếu bí mật về ma pháp trận dịch chuyển từng được hé mở, Lorraine ắt hẳn đã biết. Vẻ sững sờ của cô chứng tỏ ngay cả Đế Quốc Rermutt cũng chẳng biết cách tạo ra chúng. Dù vậy, Đế Quốc vốn lấy quân sự làm trọng tâm, mà giới quân sự thì luôn nắm giữ những bí mật cơ mật mà một học giả thuần túy như Lorraine khó lòng tiếp cận. Song theo lời cô, bọn họ luôn chực chờ cơ hội thôn tính cả đại lục, mà ma pháp trận dịch chuyển lại là công cụ hoàn hảo để điều động quân lính và tiếp tế quân nhu tới bất cứ đâu, bất cứ lúc nào. Nếu thực sự nắm trong tay công nghệ ấy, Vương Quốc Yaaran hẳn đã bị xóa sổ từ lâu rồi. Rermutt không phải quốc gia tiên tiến duy nhất trên thế giới, nhưng họ chắc chắn thuộc hàng phát triển bậc nhất, vậy mà ngay cả những nghiên cứu đỉnh cao của họ cũng chẳng tài nào giải thích nổi ma pháp trận dịch chuyển.
 
-Chúng tôi vẫn chưa rõ mình đang đi đâu, nhưng tất cả những gì có thể làm là cất bước theo sau họ. Ít nhất chúng tôi cũng biết chuyện này chẳng hề nguy hiểm.
+"Nói trước là bọn ta cũng chẳng tạo ra nổi đâu," bà Gharb thong thả đáp. "Nhưng thứ này có mặt ở đây là vì cái giả thuyết 'con người không thể tạo ra ma pháp trận dịch chuyển' thực chất đã sai mất một phần."
 
-"Cái cách bà Gharb dẫn chúng ta đi qua hang động này khiến tôi có cảm giác như mình đang bị dẫn lối sang thế giới bên kia vậy," Lorraine nói đùa khi nhìn vào bóng lưng của Gharb. Nhìn từ phía sau, trông bà có phần giống Tử Thần, một cư dân của cõi chết chuyên dẫn dắt người sống tới những chốn vô định. Đi bộ bên cạnh bà, Capitan chẳng khác nào một kỵ sĩ tử thần, một trong những tay sai thuộc hạ của Tử Thần. Thật dễ hiểu vì sao Lorraine lại nảy ra ý nghĩ đó, nhất là khi họ chẳng buồn cho chúng tôi lấy một manh mối về nơi cả nhóm sắp tới. Nhưng rõ ràng họ chẳng hề muốn chúng tôi mất mạng, nên điều đó không đáng để bận tâm. Hy vọng là thế.
+"Ý bà là―" Tôi vừa định gặng hỏi thì bà Gharb đã ngắt lời.
 
-◆◇◆◇◆
+"Thôi, cứ bước vào khắc hiểu. Ta đi trước đây. Đi nào, Capitan," bà nói rồi kéo chú ấy cùng bước lên ma pháp trận dịch chuyển. Trận pháp bừng sáng, hình bóng hai người mờ dần rồi tia sáng cuối cùng tan biến vào không khí, chỉ còn lại tôi và Lorraine đứng trơ trọi.
 
-Tôi thoáng nghi ngờ niềm tin của mình khi chúng tôi tiến lại gần luồng sáng từ lối ra mà tôi đã thấy trước đó. Tôi nghe thấy một cơn gió rít, rồi một thứ gì đó to lớn đồ sộ xuất hiện ngay trước mắt chúng tôi.
+Tôi và Lorraine đưa mắt nhìn nhau.
 
-"Cái gì?!" Lorraine hét lên và nắm chặt cây trượng của mình. Tôi cũng lập tức rút thanh kiếm ra. Nhưng kỳ lạ thay, Gharb và Capitan lại chẳng hề làm vậy. Trên thực tế, họ rảo bước tiến thẳng tới gần sinh vật vừa tiếp cận chúng tôi.
+"Bình thường tôi hay khen đủ thứ là thú vị, nhưng chuyện này thì hấp dẫn thật sự đấy, Rentt. Cái làng của anh rốt cuộc là sao vậy hả?" Lorraine nói, vẻ phấn khích hơn hẳn thường lệ. Máu học giả trong người cô hẳn đang sôi sùng sục.
 
-"Ngoan nào, ngoan nào," Gharb nói rồi vươn tay ra xoa đầu nó.
+Tôi hoàn toàn hiểu cảm giác đó, vì chính tôi lúc này cũng phấn khích chẳng kém. Chuyện này đúng là không tưởng. Tôi biết thừa làng mình có bí mật, nhưng cỡ này thì mang tầm thế giới rồi. Nó hệt như những kỳ ngộ mà các mạo hiểm giả huyền thoại tình cờ gặp trong truyện xưa tích cũ. Những chuỗi ngày lầm lũi chui rúc trong mê cung tăm tối, nai lưng hạ gục dăm ba con quái nhạt nhẽo kiếm sống dường như đã lùi về dĩ vãng xa xôi. Mà thực tế thì đúng là xa xôi thật, nhưng thôi, tôi lại nói lan man mất rồi.
 
-Tôi không thể nào tin nổi vào mắt mình. Dẫu khó tin đến đâu, Gharb và Capitan lại phản ứng như thể chẳng có gì bất thường. Nhìn tình thế ấy, xem chừng chúng tôi rút vũ khí ra là không đúng lúc rồi. Cả hai từ từ tra vũ khí lại vào bao.
+"Tôi cũng chịu, nhưng chắc ta cứ đi xem nó dẫn tới đâu đã," tôi nói, mắt nhìn về phía ma pháp trận dịch chuyển. Tôi từng dùng vô số ma pháp trận dịch chuyển trong các mê cung, và tôi tin chắc Lorraine cũng vậy. Nhưng tận mắt thấy một trận pháp bên ngoài mê cung thì đây là lần đầu tiên trong đời tôi. Dĩ nhiên, đây cũng sẽ là lần đầu tôi sử dụng nó ngoài mê cung, thành thử trong bụng cũng thấy gờn gợn vì đủ thứ mối lo. Tôi chẳng biết mình sẽ bị dịch chuyển tới chốn nào, hay liệu sau đó có tìm được đường quay về hay không. Bà Gharb và chú Capitan chẳng mảy may ngần ngại bước vào, nên hẳn là ổn thôi, song trực giác lại mách bảo tôi rằng chuyện này rất nguy hiểm. Cái thói cẩn trọng quá mức trước đây lại bắt đầu ngóc đầu dậy. Dạo gần đây tôi thấy mình đã bạo dạn hơn nhiều, nhưng ngẫm cho cùng, tận đáy lòng tôi vẫn là gã mạo hiểm giả cấp thấp nhát gan như ngày nào.
 
-"Này, sư phụ, con đó là thứ gì thế ạ?" tôi lên tiếng hỏi về sinh vật mà Gharb đang vuốt ve. Nó cao hơn con người rất nhiều, chiều cao ít nhất cũng phải năm mét, và toàn thân phủ đầy những sọc vằn đen. Sinh vật này trông hệt như một con hổ khổng lồ. Miệng nó to đến mức có thể dễ dàng ngoạm trọn không chỉ đầu của Gharb mà là toàn bộ cơ thể bà. Vậy mà nó lại đang đùa giỡn với bà như một con mèo con. Nó dường như rất thích thú khi được vuốt ve, và ánh mắt nó toát lên vẻ trung thành tuyệt đối với Gharb.
+Lorraine thì lại nghĩ khác. "Nếu nguy hiểm thì họ đã chẳng bỏ đi trước mà mặc kệ chúng ta như thế. Tôi chắc chắn sẽ không có chuyện gì đâu. Được rồi, Rentt, đi nào," cô nói rồi túm tay kéo tuột tôi lên ma pháp trận dịch chuyển.
 
-"Cháu không nhìn thấy à? Là con hổ chứ gì nữa."
+Bản thân tôi thì vẫn muốn có thêm thời gian để đắn đo suy nghĩ, nhưng giờ thì muộn mất rồi. Dẫu vậy, cô ấy nói đúng. Xét về lý thì ở đây chẳng có mối nguy nào. Làm gì có lý do nào để xảy ra bất trắc, nhưng trong bụng tôi vẫn cứ thấy run run. Cảm giác đó giông giống như lúc đứng trên vách đá cheo leo nhìn xuống dù đã buộc dây thừng bảo hiểm ngang hông vậy. Dù biết chắc mình an toàn, nhưng nhìn xuống vẫn thấy thót tim.
 
-"Bà đùa cháu đấy à?" tôi than phiền, chẳng thể giấu nổi vẻ bực bội.
-
-Gharb bật cười. "Xin lỗi, ta đùa chút thôi. Dĩ nhiên nó đâu chỉ là một con hổ bình thường. Đây là một quái vật hùng mạnh có tên là Shahor Melechnamer. Ta nghĩ cháu ắt phải hiểu biết về nó nhiều hơn ta chứ."
-
-Ý bà là với tư cách mạo hiểm giả, chúng tôi ắt phải hiểu biết sâu rộng hơn về quái vật. Vừa nhìn thấy nó là tôi đã có thể nhận ra ngay đây là loại quái vật gì, nên về điểm đó bà nói đúng. Nhưng đó không phải điều tôi định hỏi. Tôi muốn biết tại sao nó lại hành xử như một thú cưng của Gharb. Shahor Melechnamer không phải thứ người ta có thể tìm thấy ở bất kỳ môi trường sống quái vật thông thường nào, và chỉ riêng một con trong số chúng cũng đủ sức đối đầu với cả một đội quân. Tiêu diệt một con chí ít cũng phải là nhiệm vụ dành cho mạo hiểm giả Bạch Kim Cấp, nhưng lý tưởng nhất thì phải cần tới Mithril Cấp. Đó chính là cấp độ quái vật mà chúng tôi đang đối mặt ở đây. Việc Gharb cứ thế bước tới và đối đãi với nó như một con mèo nuôi bình thường thì bảo bà mất trí cũng chẳng sai chút nào.
-
-"Cháu đâu có thắc mắc nó là loài quái vật gì," tôi nói. "Tại sao nó lại không tấn công bà? Chúng đâu phải loại thú cưng phổ biến."
-
-Những người thuần hóa quái vật có thể thuần phục nhiều loài quái vật khác nhau, nhưng nhìn chung đó là những loài vốn có tiền lệ trở nên thân thiện với con người. Không phải quái vật nào cũng có thể thuần phục được. Cứ mỗi vài thế kỷ mới có một người làm nên kỳ tích thuần hóa được một quái vật hùng mạnh, và những người đó luôn được tán tụng với muôn vàn lời ca ngợi. Nếu Gharb là một người thuần hóa quái vật đã thuần phục được một con Shahor Melechnamer, bà ắt sẽ được coi là huyền thoại sống.
-
-"Không hẳn là nó thích ta đâu. Thứ nó thích là dòng máu của ta đấy," Gharb nói. "Lại đây nào, Rentt."
-
-Tôi thực sự, thực sự chẳng muốn chút nào, nhưng Gharb nào thèm lắng nghe. Tôi đứng đơ như tượng tại chỗ cho tới khi bà lôi xềnh xệch tôi tới trước mặt con quái vật. Giờ đây khi đã ở cự ly gần, tôi quan sát nó một lần nữa. Nó to lớn dị thường. Và đáng sợ khôn cùng. Từ đôi mắt nó, tôi cảm nhận được sự thông tuệ, điều đó càng khiến nó trở nên đáng sợ hơn gấp bội. Con quái vật này không hiện diện ở đây vô cớ. Nó có mục đích nào đó. Tôi chỉ hy vọng nó không có ý định gom tất cả chúng tôi lại một chỗ để ăn thịt. Nhưng nếu đó là thứ nó muốn, có lẽ nó đã làm vậy từ lâu rồi.
+Nhưng đã lỡ đứng lên rồi thì hết đường lui. Trái với tôi, Lorraine lại tỏ vẻ háo hức chờ xem điều gì sắp tới. Rồi ma pháp trận phóng ra một luồng sáng cuồn cuộn, và cả hai chúng tôi biến mất.
 
 ◆◇◆◇◆
 
-Thật bất ngờ, thái độ của con Shahor Melechnamer chẳng hề thay đổi chút nào khi nó nhìn sang tôi. Trái lại, nó cọ đầu vào người tôi nũng nịu. Lớp lông của nó mềm mại dễ chịu hơn tôi tưởng tượng nhiều. Nó còn phát ra tiếng gừ gừ khoái chí. Dù là quái vật hay không thì tôi đoán nó vẫn thuộc họ mèo mà thôi. Nhưng tôi vẫn chẳng hiểu vì sao nó lại quấn quýt lấy tôi đến thế dù chúng tôi mới chỉ vừa gặp mặt lần đầu. Gharb bảo nó thích dòng máu của bà, nên tôi đoán điều đó có nghĩa là dòng máu người Hathara. Thế nhưng hiện giờ tôi đã là Ma Cà Rồng rồi. Dẫu vậy, có lẽ đâu đó trong cơ thể tôi vẫn còn sót lại chút dòng máu Hathara chảy qua. Dù thế nào đi nữa, con quái vật dường như chẳng hề mang lại mối đe dọa nào.
+Lúc mở mắt ra lần nữa, tôi đã nghe thấy tiếng bà Gharb trêu chọc: "Ồ, tới rồi đấy à. Ta còn tưởng có đứa nhát gan chuồn mất rồi cơ chứ."
 
-Tuy nhiên, tôi lại không rõ Lorraine sẽ phản ứng ra sao. Có lẽ cô sẽ bất ngờ sợ hãi trước con hổ to lớn này, hoặc giả cô sẽ quan sát nó với vẻ điềm tĩnh như mọi khi. Tò mò, tôi ngoái nhìn lại phía sau, và vẻ mặt của Lorraine nằm ngoài mọi dự đoán. Đó là sự pha trộn giữa bối rối và kinh ngạc, một phản ứng hoàn toàn hợp lý trước loài quái vật đặc thù này. Dẫu vậy, vẫn có điều gì đó hơi kỳ lạ. Trông cô không giống như đang phản ứng trước việc nhìn thấy một quái vật hùng mạnh.
+"Lần đầu bị lôi tới đây tôi cũng sợ phát khiếp ra đấy chứ," chú Capitan lên tiếng cằn nhằn bà Gharb. "Trên đời chắc có mỗi bà là chẳng biết sợ cái trò này thôi."
+
+Tôi đảo mắt nhìn quanh, thở phào nhẹ nhõm khi thấy hai người họ vẫn bình an vô sự. Lorraine đứng cạnh tôi cũng chẳng hề hấn gì. Xem ra ma pháp trận dịch chuyển đã hoạt động trơn tru. Mà nghĩ lại thì, nếu nó hỏng hóc thì đời nào bà Gharb với chú Capitan lại bảo chúng tôi bước vào.
+
+"Nhưng rốt cuộc đây là nơi nào thế này?" Lorraine tò mò nhìn quanh rồi hỏi. "Tối quá. Vách đá à? Chẳng lẽ đây là một cái hang ở đâu đó sao?"
+
+Tôi cũng ngó nghiêng xung quanh, quả đúng là một cái hang thật. Những phiến vách đá nhẵn thín hơi ẩm ướt. "Ồ, nhưng đằng kia có ánh sáng kìa," tôi nói khi nhìn ra xa và thấy có vệt sáng hắt lại, chắc là từ cửa hang. Có khi ma pháp trận dịch chuyển được giấu tít trong hang sâu để tránh bị phát hiện. Thế mới giải thích được vì sao trước giờ chưa từng có ai tìm thấy nó.
+
+Trong lúc hai đứa còn mải nghĩ ngợi, bà Gharb và chú Capitan liếc nhìn nhau cười ẩn ý. "Được rồi, sắp tới nơi rồi đấy," bà Gharb nói.
+
+"Đi tiếp thôi."
+
+Hai đứa vẫn chẳng biết mình đang đi đâu, nhưng lúc này chỉ còn nước bám gót theo hai người. Dù sao thì ít nhất cũng biết là không có gì nguy hiểm.
+
+"Nhìn bà Gharb dẫn đường đi xuyên qua cái hang này, tôi cứ thấy như mình đang bị dắt sang thế giới bên kia ấy," Lorraine nói đùa khi nhìn bóng lưng bà. Nhìn từ phía sau, trông bà hao hao Tử Thần — kẻ ngụ tại cõi chết chuyên dẫn lối người sống về nơi vô định. Đi cạnh bà, chú Capitan trông chẳng khác nào một kỵ sĩ tử thần, tay sai dưới trướng của Tử Thần. Cũng chẳng trách Lorraine lại nghĩ thế, nhất là khi hai người họ nhất quyết không chịu hé nửa lời về điểm đến. Nhưng rõ ràng họ chẳng có lý do gì để hại chúng tôi, nên cũng chẳng việc gì phải lo. Hy vọng là thế.
+
+◆◇◆◇◆
+
+Thế nhưng vừa tiến lại gần luồng sáng nơi cửa hang, niềm tin ấy trong tôi lập tức lung lay. Một luồng gió rít mạnh tạt qua, rồi một bóng đen khổng lồ lù lù hiện ra ngay trước mắt.
+
+"Cái gì thế?!" Lorraine giật thót, nắm chặt lấy cây quyền trượng. Tôi cũng lập tức rút kiếm thủ thế. Thế nhưng lạ lùng thay, bà Gharb và chú Capitan lại chẳng hề làm vậy. Trái lại, hai người còn thong thả bước thẳng tới chỗ sinh vật vừa tiếp cận chúng tôi.
+
+"Ngoan nào, ngoan nào," bà Gharb cất tiếng, đưa tay vuốt ve đầu nó.
+
+Tôi chẳng dám tin vào mắt mình. Nhưng dù khó tin tới đâu, bà Gharb và chú Capitan vẫn thản nhiên như không có chuyện gì. Thấy tình hình như vậy, xem chừng hai đứa tôi rút vũ khí ra là hớ rồi, đành ngượng ngùng từ từ tra lại vào bao.
+
+"Sư phụ ơi, con đó là giống gì thế ạ?" tôi lên tiếng hỏi về sinh vật mà bà Gharb đang vuốt ve. Nó cao hơn con người rất nhiều, ít nhất cũng phải tầm năm mét, toàn thân vằn vện những sọc đen. Trông nó hệt như một con hổ khổng lồ. Cái miệng nó to tới mức ngoạm trọn cả người bà Gharb còn vừa chứ đừng nói mỗi cái đầu. Vậy mà lúc này nó lại quấn quýt lấy bà như một chú mèo. Con thú tỏ vẻ thích thú khi được cưng nựng, ánh mắt toát lên sự thuần phục tuyệt đối dành cho bà Gharb.
+
+"Không thấy à? Hổ chứ con gì nữa."
+
+"Bà đang đùa cháu đấy à?" tôi cằn nhằn, chẳng giấu nổi vẻ bực mình.
+
+Bà Gharb bật cười. "Thôi được rồi, trêu tí thôi. Đương nhiên nó đâu phải hổ thường. Đây là một con quái vật hùng mạnh tên là Shahor Melechnamer. Cháu làm mạo hiểm giả thì khoản này chắc phải rành hơn ta chứ nhỉ."
+
+Ý bà là mạo hiểm giả như chúng tôi thì phải hiểu rõ về quái vật hơn. Vừa nhìn thấy nó là tôi đã nhận ra ngay đây là giống gì rồi, nên về điểm đó bà nói chẳng sai. Nhưng đó đâu phải điều tôi muốn hỏi. Tôi muốn biết tại sao nó lại hành xử như thú cưng của bà Gharb cơ. Shahor Melechnamer không phải loài quái cứ ra mấy bãi săn quái thông thường là gặp được, và chỉ một con thôi cũng đủ sức chọi lại cả một đội quân. Tiêu diệt nó bèo nhất cũng phải cỡ mạo hiểm giả Bạch Kim Cấp, còn muốn chắc ăn thì phải tới bậc Mithril Cấp. Đó chính là cấp độ của con quái vật trước mắt chúng tôi. Thế mà bà Gharb lại thản nhiên bước tới nựng nó như nựng mèo nhà, bảo bà điên khùng có khi cũng chẳng oan.
+
+"Cháu đâu có thắc mắc nó là giống gì," tôi nói. "Ý cháu là sao nó không tấn công bà ấy chứ? Giống này đâu phải thứ để nuôi làm cảnh."
+
+Người thuần hóa quái vật có thể thu phục được nhiều chủng loại, nhưng thường chỉ là những giống loài vốn có tập tính dễ gần với con người. Đâu phải quái vật nào cũng thuần hóa được. Họa hoằn lắm, vài thế kỷ mới xuất hiện một người tạo nên kỳ tích khi thuần phục được một con quái vật hùng mạnh, và người đó sẽ nhận về muôn vàn lời ca tụng. Nếu bà Gharb thực sự là một người thuần hóa quái vật thu phục được cả Shahor Melechnamer, bà đã sớm được xưng tụng là huyền thoại rồi.
+
+"Nó đâu hẳn là thích ta. Thứ nó ưng là dòng máu của ta cơ," bà Gharb nói. "Lại đây xem nào, Rentt."
+
+Tôi thực sự chẳng muốn chút nào, nhưng bà Gharb đâu thèm nghe. Tôi cứ đứng đơ ra như tượng cho tới khi bị bà lôi xềnh xệch tới trước mặt con quái. Đến cự ly gần thế này rồi tôi mới nhìn rõ nó hơn. Con thú to lớn dị thường. Và cũng khiếp đảm vô cùng. Nhìn vào mắt nó, tôi cảm nhận được một trí khôn rõ rệt, điều đó càng làm nó trở nên đáng sợ gấp bội. Con quái vật này không tự dưng lại có mặt ở đây. Nó có mục đích riêng. Tôi chỉ mong là nó không tính gom cả bọn lại một chỗ rồi xơi tái. Mà nếu muốn ăn thịt, chắc nó đã ra tay từ nãy rồi.
+
+◆◇◆◇◆
+
+Trái với nỗi lo sợ của tôi, con Shahor Melechnamer chẳng hề đổi sắc khi nhìn tôi. Ngược lại, nó còn dụi đầu vào người tôi. Bộ lông của nó sờ vào mượt hơn tôi tưởng nhiều. Nó thậm chí còn gừ gừ trong họng. Dù là quái vật thì suy cho cùng vẫn là họ nhà mèo thôi nhỉ. Có điều tôi vẫn không hiểu nổi sao vừa chạm mặt nó đã tỏ ra quyến luyến mình đến thế. Bà Gharb bảo nó thích dòng máu của bà, nên tôi đồ rằng đó là dòng máu của người Hathara. Khổ nỗi giờ tôi đã thành Ma Cà Rồng rồi. Dù vậy, chắc đâu đó trong người tôi vẫn còn sót lại chút dòng máu Hathara chăng. Dù sao thì con quái này xem chừng cũng chẳng có ác ý gì.
+
+Có điều, tôi không rõ Lorraine sẽ phản ứng thế nào. Không biết cô sẽ hoảng sợ trước con hổ khổng lồ này, hay vẫn giữ vẻ điềm tĩnh soi xét như mọi khi. Vì tò mò, tôi quay đầu nhìn lại, và biểu cảm của Lorraine nằm ngoài mọi dự liệu của tôi. Vẻ mặt cô pha lẫn giữa bàng hoàng và khó hiểu, một phản ứng cũng dễ hiểu trước loài quái dị thường này. Nhưng dường như vẫn có điểm gì đó gợn gợn. Biểu cảm ấy trông không giống như một người vừa chạm trán quái vật hùng mạnh.
 
 "Này, Lorraine, sao thế?" tôi hỏi. "Trông cô lạ lắm đấy."
 
-"Một con Shahor Melechnamer, một pháo đài cổ xưa, các ma pháp trận dịch chuyển, rồi hang động... Ồ, không có gì đâu, không thể nào là thứ tôi đang nghĩ được," cô lẩm bẩm rồi lắc đầu. "Xin lỗi, tôi hơi mất bình tĩnh một chút. Tôi chỉ thấy choáng ngợp trước tất cả những gì chúng ta vừa chứng kiến thôi."
+"Shahor Melechnamer, pháo đài cổ xưa, ma pháp trận dịch chuyển, rồi hang động... À thôi, không thể nào là chuyện mình đang nghĩ được," cô lẩm bẩm rồi khẽ lắc đầu. "Xin lỗi, tôi hơi mất bình tĩnh một chút. Chỉ là tôi thấy kinh ngạc trước những thứ nãy giờ hai đứa chứng kiến thôi."
 
-Nghe qua thì dường như cô đã nhận ra mối liên hệ nào đó giữa tất cả những điều này, nhưng tôi chẳng thể đoán biết là gì. Tôi quyết định sẽ hỏi cô sau.
+Nghe lời cô thì dường như cô đã xâu chuỗi được những manh mối này lại với nhau, nhưng tôi thì chịu chết chẳng đoán ra nổi. Thôi thì đành để lát nữa hỏi lại vậy.
 
-"Sư phụ, chú Capitan! Lorraine lại gần nó được không ạ?" tôi cất tiếng hỏi từ đằng xa. Lorraine không phải người gốc Hathara, nên tôi lo con quái vật có thể sẽ tấn công cô.
+"Sư phụ, chú Capitan! Lorraine lại gần nó có sao không ạ?" tôi đứng từ đằng xa hỏi với tới. Lorraine không mang dòng máu Hathara, nên tôi sợ con quái sẽ tấn công cô.
 
-"Miễn là có bọn ta ở đây thì nó sẽ không làm hại cô bé đâu," Gharb nói. "Và khi nói bọn ta, ta tính cả cháu nữa đấy, Rentt. Không có gì phải lo cả." Bà vẫy tay gọi Lorraine lại.
+"Chừng nào bọn ta còn ở đây thì nó không động vào cô bé đâu," bà Gharb nói. "Mà 'bọn ta' ở đây là tính cả cháu nữa đấy, Rentt. Khỏi lo đi." Bà vừa nói vừa vẫy tay gọi Lorraine lại.
 
-Nếu là cô ấy, tôi đã chẳng dễ dàng tin lời như thế, nhưng Lorraine quả là có gan góc. Cô tiến lại gần con Shahor Melechnamer và vươn tay ra. Sinh vật to lớn ngoái đầu nhìn Gharb trong thoáng chốc. Khi bà lão khẽ gật đầu, con quái vật liền cúi đầu trước Lorraine. Thậm chí nó còn kêu gừ gừ khi cô vuốt ve nó. Dường như chỉ cần có một dân làng hiện diện, sinh vật này sẽ không làm hại bất kỳ con người nào. Tôi không rõ liệu nó được ra lệnh phải hành xử như vậy hay đó chỉ là bản tính tự nhiên của nó, nhưng lúc này điều đó cũng chưa quan trọng.
+Nếu là tôi thì tôi chẳng dại gì mà tin ngay tắp lự, nhưng Lorraine thì bạo gan hơn nhiều. Cô tiến lại gần con Shahor Melechnamer rồi vươn tay ra. Con thú ngoái nhìn bà Gharb một thoáng. Thấy bà gật đầu, con quái liền ngoan ngoãn cúi đầu trước Lorraine. Nó thậm chí còn phát ra tiếng gừ gừ khoái chí lúc được cô vuốt ve. Xem chừng chỉ cần có người trong làng ở đó là con thú sẽ chẳng đụng tới ai. Tôi không rõ nó được huấn luyện làm thế hay tự bản năng nó đã vậy, nhưng trước mắt thì điều đó cũng chưa quan trọng.
 
 ![](images/ch147-01.webp)
 
-"Đây là bí mật của ngôi làng sao ạ? Chuyện bà nuôi thú cưng này ấy ạ?" tôi hỏi.
+"Đây là bí mật của làng sao ạ? Chuyện bà nuôi con thú này làm cảnh ấy ạ?" tôi hỏi.
 
-Gharb lắc đầu. "Không, còn thứ khác xứng đáng được gọi là bí mật hơn nhiều. Con bé này chỉ tới đây để chào đón bọn ta thôi. Đi nào," bà nói rồi rảo bước về phía lối ra của hang động.
+Bà Gharb lắc đầu. "Không, còn thứ khác đáng gọi là bí mật hơn nhiều. Con này chỉ ra đây đón bọn ta thôi. Đi tiếp nào," bà nói rồi rảo bước về phía cửa hang.
 
-Giờ chúng tôi đã sắp tới lối ra, và tôi đinh ninh rằng đến lúc đó cả nhóm sẽ được chiêm ngưỡng quang cảnh ngoài trời. Nhưng tôi đã lầm.
+Lúc này chúng tôi đã tiến sát tới cửa hang, tôi đinh ninh bước ra ngoài sẽ là khung cảnh thiên nhiên khoáng đạt. Nhưng tôi đã nhầm to.
 
-"Đây là một thành phố sao?" tôi buột miệng tự hỏi. Lời nói của tôi vang vọng nhè nhẹ.
+"Đây là... một thành phố sao?" tôi buột miệng tự hỏi. Tiếng tôi khẽ vọng lại trong không gian tĩnh mịch.
