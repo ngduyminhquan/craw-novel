@@ -44,3 +44,5 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
 21. **Bảng xưng hô là mặc định, raw là chuẩn.** Raw gọi bằng tên riêng ("Miss Lorraine") trong khi bảng ghi gọi theo họ ("cô Vivie") thì giữ theo raw, không sửa đè.
 22. **Ngôi ba trong truyện kể ngôi thứ nhất.** Người kể xưng "tôi" thì trong lời dẫn gọi người khác là "cậu ấy / anh ấy / cô ấy" hoặc gọi tên. "Cậu", "anh" trống không dễ bị đọc thành người kể đang nói với nhân vật đó.
 23. **Đại từ khinh miệt dùng đúng lúc.** Khi người kể chưa biết một nhân vật là kẻ xấu thì dùng đại từ trung tính ("bà ấy", "ông ấy"). Chỉ chuyển sang "bà ta", "hắn", "gã" từ lúc người kể biết bộ mặt thật, đừng lộ trước cú ngoặt.
+24. **Từ Hán Việt trông giống mà nghĩa khác.** Kiểm lại nghĩa tiếng Việt hiện đại trước khi dùng: "phi nhân loại" là tàn ác chứ không phải "mạnh vượt sức người"; "earn their gratitude" là "làm họ mang ơn", không phải "kiếm ân huệ của họ".
+25. **Không bọc từ nhấn mạnh hay tượng thanh trong ngoặc kép ở lời dẫn** khi raw không có. Ngoặc kép dành cho lời thoại và chữ trích dẫn.

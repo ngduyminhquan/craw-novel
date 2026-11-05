@@ -9,7 +9,7 @@ Raw: `__RAW__/Chapter___NNN__ - *.txt`
 
 Cách làm:
 1. Đọc thật kỹ `.agents/skills/novel-translate/natural-vietnamese.md`: đây là danh sách lỗi văn dịch máy dùng chung, cũng là tiêu chí chính của lượt này. Đọc `context/style.md` để nắm giọng riêng của truyện và nhân vật, cùng các quy luật riêng nếu có. Quy luật riêng trong `style.md` (ví dụ yêu cầu về độ hiện đại, độ trẻ của giọng văn) thắng file chung: soát cả chương theo đúng các quy luật đó. Đọc `context/rules.md`. Chạy `python .agents/skills/novel-translate/scripts/prepare.py __SLUG__ __N__` để lấy nhân vật, xưng hô và thuật ngữ liên quan tới chương.
-2. Đi qua **từng đoạn**. Đoạn K của bản dịch ứng với đoạn K của raw. Đọc đoạn raw, đọc bản dịch, rồi viết lại câu nào còn cứng, sai nghĩa, thiếu ý hay lủng củng. Đây là biên tập lại, không phải soát lỗi chính tả: gần như đoạn nào cũng có chỗ cần sửa. Giữ độ kỹ đều tay tới đoạn cuối: chương dài hay bị sửa kỹ nửa đầu rồi lướt nửa sau. Chia chương thành từng khúc 20–30 đoạn, xong khúc nào thì soát lại khúc đó.
+2. Đi qua **từng đoạn**. Đoạn K của bản dịch ứng với đoạn K của raw. Đọc đoạn raw, đọc bản dịch, rồi viết lại câu nào còn cứng, sai nghĩa, thiếu ý hay lủng củng. Đây là biên tập lại, không phải soát lỗi chính tả: gần như đoạn nào cũng có chỗ cần sửa. Giữ độ kỹ đều tay tới đoạn cuối: chương dài hay bị sửa kỹ nửa đầu rồi lướt nửa sau. Chia chương thành từng khúc 20–30 đoạn, xong khúc nào thì soát lại khúc đó. Đầu chương mở bằng đại từ ("He", "Her", "They") thì đọc đoạn cuối chương liền trước để biết là ai.
 3. Giữ nguyên:
    - số đoạn và thứ tự đoạn, không gộp hay tách đoạn;
    - dòng tiêu đề, dòng ảnh `![..](..)`, dấu phân cách, ghi chú T/N;
