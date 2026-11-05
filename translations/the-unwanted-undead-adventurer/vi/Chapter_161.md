@@ -18,7 +18,7 @@ Tôi quên khuấy mất chưa kể phần đó. "Ồ, phải rồi. Anh đã ba
 
 Ví dụ đó nghe dễ hiểu hơn hẳn, lại ít chỗ để bàn cãi hơn. Ai cũng biết rõ về hai loài quái vật đó.
 
-"Ừ, thì tại tôi thích Slime mà. Mấy sinh vật vô định hình ấy dễ thương lắm. Ngày trước tôi từng muốn nuôi một con làm thú cưng, nhưng lại chẳng tìm được cái bình chứa nào thích hợp để giữ nó," Augurey thú nhận.
+"Ừ, thì tại tôi thích Slime mà. Mấy con vật không hình thù cố định ấy dễ thương lắm. Ngày trước tôi từng muốn nuôi một con làm thú cưng, nhưng lại chẳng tìm được cái bình chứa nào thích hợp để giữ nó," Augurey thú nhận.
 
 Nghe thì nực cười, nhưng anh ta không phải người duy nhất nghĩ thế. Phụ nữ và trẻ em thích Slime nhiều đến bất ngờ. Chúng hay xuất hiện trong truyền thuyết và sách tranh, mà Slime trong đó trông vừa mềm mại vừa đáng yêu. Thế nhưng với đa số mạo hiểm giả, Slime lại là loài bị ghét cay ghét đắng. Lũ Slime người ta bắt gặp trong mê cung hay rừng rậm thường đang tiêu hóa dở một cái xác, có thể thấy rõ cái xác lơ lửng bên trong khối chất lỏng trong suốt. Khi chỉ còn trơ xương thì đỡ, chứ một cái xác đang phân hủy dở dang thì kinh hoàng thật sự. Thấy cảnh đó rồi thì khó mà không ghét Slime cho được. Xét theo nghĩa ấy, Augurey là một ngoại lệ hiếm hoi. Mà Lorraine cũng vậy. Cô ấy cũng thích Slime ra phết.
 
@@ -46,7 +46,7 @@ Chuyện đáng lẽ lúc này tôi phải đang ở rất xa nơi đây cũng l
 
 Giả sử tôi và Augurey lập một bản khế ước quy định rằng tôi sẽ không ăn bất kỳ món đồ ăn vặt nào của Augurey, và nếu vi phạm, tôi sẽ phải nhảy múa khỏa thân trước mặt anh ta. Nếu sau đó tôi ăn một món đồ ăn vặt của anh ta, bản khế ước sẽ lập tức phát huy hiệu lực. Lần tới khi ở gần Augurey, tôi sẽ bị ép phải nhảy múa khỏa thân ngoài ý muốn.
 
-Chuyện ai là người diễn giải khế ước và diễn giải vào lúc nào vẫn còn gây nhiều tranh cãi. Có khá nhiều giả thuyết về chuyện này, nhưng phổ biến nhất là bản khế ước được chính những người liên quan diễn giải trong tiềm thức ngay khoảnh khắc nó bị phá vỡ. Nói cách khác, vì tôi biết rõ mình không được ăn đồ ăn vặt của Augurey mà vẫn cứ ăn, nên tôi sẽ bị phạt. Muốn nói dối cũng chẳng được. Người ta bảo sự thật sẽ do một vị thần định đoạt, mà thần linh thì nhìn thấu mọi sự gian dối. Vì những lý do đó, khi muốn dùng khế ước ràng buộc ma pháp mà không để xảy ra hiểu lầm, hai bên bắt buộc phải chia sẻ trước một lượng thông tin nhất định. Loại khế ước này rất khó dùng. Các học giả luật pháp, học giả ma thuật và học giả thần học vẫn đang nghiên cứu cơ chế hoạt động của chúng, nhưng với những người bình thường còn lại như chúng tôi thì cứ hiểu đơn giản là vậy. Đó là lý do chúng hiếm khi được dùng tới, mà một khi đã dùng thì phải có quyết tâm nhất định.
+Chuyện ai là người diễn giải khế ước và diễn giải vào lúc nào vẫn còn gây nhiều tranh cãi. Có khá nhiều giả thuyết về chuyện này, nhưng phổ biến nhất là bản khế ước được chính những người liên quan diễn giải trong tiềm thức ngay khoảnh khắc nó bị phá vỡ. Tức là vì tôi biết rõ mình không được ăn đồ ăn vặt của Augurey mà vẫn cứ ăn, nên tôi sẽ bị phạt. Muốn nói dối cũng chẳng được. Người ta bảo sự thật sẽ do một vị thần định đoạt, mà thần linh thì nhìn thấu mọi sự gian dối. Vì những lý do đó, khi muốn dùng khế ước ràng buộc ma pháp mà không để xảy ra hiểu lầm, hai bên bắt buộc phải chia sẻ trước một lượng thông tin nhất định. Loại khế ước này rất khó dùng. Các học giả luật pháp, học giả ma thuật và học giả thần học vẫn đang nghiên cứu cơ chế hoạt động của chúng, nhưng với những người bình thường còn lại như chúng tôi thì cứ hiểu đơn giản là vậy. Đó là lý do chúng hiếm khi được dùng tới, mà một khi đã dùng thì phải có quyết tâm nhất định.
 
 "Đấy, chúng tôi đã kể cho anh nghe phần lớn câu chuyện rồi," tôi nói. "Nếu anh không phiền thì tôi muốn lập khế ước ngay bây giờ."
 
@@ -96,6 +96,6 @@ Thế nhưng Lorraine lại lắc đầu. "Tôi từng thấy người ta dùng 
 
 "Chắc tại tôi kinh ngạc quá nên chẳng biết nói gì đấy thôi," Augurey đáp.
 
-Lorraine nói thêm, "Tôi chỉ đành chấp nhận rằng cứ ở cạnh anh là chuyện gì cũng có thể xảy ra thôi."
+Lorraine nói thêm: "Tôi chỉ đành chấp nhận rằng cứ ở cạnh anh là chuyện gì cũng có thể xảy ra thôi."
 
-Tôi định cãi lại rằng chuyện này đâu phải tại tôi, nhưng ngẫm tới vận may của mình dạo gần đây thì tôi cũng chẳng dám chắc. Tôi nhún vai rồi nói, "Thôi thì, chắc chúng ta nên gọi vị tư tế vào thôi."
+Tôi định cãi lại rằng chuyện này đâu phải tại tôi, nhưng ngẫm tới vận may của mình dạo gần đây thì tôi cũng chẳng dám chắc. Tôi nhún vai nói: "Thôi thì, chắc chúng ta nên gọi vị tư tế vào thôi."

@@ -18,7 +18,7 @@ Bà Gharb và Capitan ngơ ngác nhìn chúng tôi.
 
 Tôi chẳng có lý do gì để giấu nên kể thật cho bà nghe. "À, đó là món ma cụ một người kỳ lạ tặng cháu trong mê cung. Hữu dụng lắm bà. Đây, chính là nó," tôi vừa nói vừa lấy cuộn giấy da cũ kỹ ra khỏi túi ma thuật.
 
-"Trông với chú thì cũng chỉ như mảnh giấy da bình thường thôi mà," Capitan khoanh tay nói.
+"Chú nhìn thì thấy nó cũng chỉ như mảnh giấy da bình thường thôi mà," Capitan khoanh tay nói.
 
 "Trông bề ngoài thì đúng là thế thật, nhưng công dụng của nó lợi hại lắm. Chú chỉ cần đi quanh mê cung là nó sẽ vẽ lại bản đồ chuẩn xác cho chú. Với mạo hiểm giả thì chẳng có món đồ nào tiện hơn thế đâu."
 
@@ -30,7 +30,7 @@ Capitan nhìn tôi vẻ thất vọng ra mặt. "Được rồi, vậy chú sẽ
 
 "Không đời nào. Cháu thắng thế nào được, chỉ có nước bị chú xé ra từng mảnh thôi. Tha cho cháu đi!" tôi la lên.
 
-"Cứ theo ma pháp ảo ảnh của Lorraine mà tính thì chú không nghĩ vậy đâu. Chú chẳng bao giờ thách đấu kẻ yếu hơn mình nhiều như thế," chú ấy đáp, khiến tôi bất ngờ trước lời khen ngợi ấy. Có lẽ ngay cả trong mắt Capitan, tôi cũng thực sự mạnh lên đôi chút rồi. Tôi suýt nữa thì đắc ý, nhưng liếc sang mặt Capitan thì thấy vẻ mặt chú ấy có nét ranh mãnh.
+"Cứ nhìn vào màn ma pháp ảo ảnh của Lorraine hôm nọ thì chú không nghĩ vậy đâu. Chú chẳng bao giờ thách đấu kẻ yếu hơn mình nhiều như thế," chú ấy đáp, khiến tôi bất ngờ trước lời khen ngợi ấy. Có lẽ ngay cả trong mắt Capitan, tôi cũng thực sự mạnh lên đôi chút rồi. Tôi suýt nữa thì đắc ý, nhưng liếc sang mặt Capitan thì thấy vẻ mặt chú ấy có nét ranh mãnh.
 
 "Đây là bẫy phải không? Tha cho cháu đi, cháu làm sao có cửa thắng," tôi nói, bình thản từ chối đề nghị của chú ấy.
 
@@ -56,7 +56,7 @@ Phần lớn các vật phẩm thuộc loại này chỉ hoạt động khi ngư
 
 "Ừ, đúng thế," bà Gharb nói. "Không có ghi chép nào về một ma pháp trận dịch chuyển dẫn tới Hathara, nhưng hồi dời tới nơi đó sinh sống, chắc người làng ta đã làm thêm một trận pháp để tiện đi lại giữa hai bên. Còn cái dẫn tới cống ngầm Vistelya là do vị tể tướng của làng để lại từ xưa, như ta nhớ là từng kể rồi đấy."
 
-"Ra vậy, cháu hiểu rồi. Thế thì không biết Bản Đồ Akasha lấy thông tin này từ đâu ra nhỉ. Ma cụ kiểu này vận dụng đủ mọi cách thức, nhưng thường là dựa vào giác quan và hiểu biết của người dùng để thu thập dữ liệu. Có điều với tấm bản đồ này thì tôi chịu đấy," Lorraine giải thích rồi quay sang nhìn tôi.
+"Ra vậy, tôi hiểu rồi. Thế thì không biết Bản Đồ Akasha lấy thông tin này từ đâu ra nhỉ. Ma cụ kiểu này vận dụng đủ mọi cách thức, nhưng thường là dựa vào giác quan và hiểu biết của người dùng để thu thập dữ liệu. Có điều với tấm bản đồ này thì tôi chịu đấy," Lorraine giải thích rồi quay sang nhìn tôi.
 
 Tôi suy nghĩ một lát rồi lắc đầu nói: "Cái này chắc khác rồi. Có thể tôi cũng lờ mờ đoán được pháo đài đó thuộc về một vương quốc cổ đại, nhưng tôi hoàn toàn không biết đường cống ngầm ở Vistelya có từ thời lập quốc. Tôi chỉ nghe nói nó đã có hàng thế kỷ nay, chứ ngoài ra chẳng biết gì hơn." Nếu tấm bản đồ thực sự dựa vào kiến thức và giác quan của tôi để lấy thông tin, thì nơi này cùng lắm chỉ được ghi là 'Pháo Đài Nào Đó Gần Hathara' với 'Cống Ngầm Cực Cổ Ở Vistelya' thôi. Tôi thì thích mấy cái tên nghe ngầu hơn chút, nhưng nếu nó lấy từ giác quan và hiểu biết của tôi thì chắc chắn chỉ ra được chừng đó.
 
@@ -66,11 +66,11 @@ Bà Gharb là người giải đáp thắc mắc của Lorraine. Bà cũng là m
 
 "Trước tiên, ta nghiêng về khả năng nó dựa trên hiểu biết của người tạo ra món ma cụ," bà nói. "Nghĩa là ai làm ra tấm bản đồ này cũng đều biết về nơi đây." Đó xem chừng là cách giải thích hợp lý nhất.
 
-Lorraine gật đầu, nhưng rồi cô lại nêu ra một khả năng khác. "Đúng vậy, nhưng cháu còn một giả thuyết khác. Nghe có vẻ điên rồ, nhưng rất có thể nó đang lấy thông tin từ Bản Ghi Akashic."
+Lorraine gật đầu, nhưng rồi cô lại nêu ra một khả năng khác. "Đúng vậy, nhưng tôi còn một giả thuyết khác. Nghe có vẻ điên rồ, nhưng rất có thể nó đang lấy thông tin từ Bản Ghi Akashic."
 
 Tôi chưa từng nghe tới Bản Ghi Akashic bao giờ, và nhìn vẻ mặt Capitan thì chú ấy cũng vậy. Dường như chỉ có Lorraine và bà Gharb là biết thứ đó là gì. Hai người chúng tôi thuộc phe dùng cơ bắp hơn là đầu óc. Bình thường chúng tôi cũng suy nghĩ không ít, đôi khi còn đóng góp được vài ý kiến ra trò. Đôi khi thôi. Nhưng lúc này thì trên đầu cả hai chắc chắn chỉ toàn dấu chấm hỏi.
 
-"Bản Ghi Akashic thực chất chỉ là một khái niệm," bà Gharb nói, ngán ngẩm trước sự mù tịt của hai chúng tôi. "Đó là nơi lưu giữ ghi chép về mọi hiện tượng tồn tại trên đời. Nhưng đây không phải nơi mắt thường nhìn thấy được. Có thể coi đó là một chiều không gian khác. Lorraine nói đúng khi bảo đây là ý tưởng điên rồ, nhưng nơi đó lại cực kỳ quan trọng với giới ma pháp sư và nhà giả kim. Mọi cơ chế vận hành sâu xa của ma pháp đều được ghi lại ở đó, nên người ta đồn rằng nếu chạm tới được Bản Ghi Akashic thì sẽ thu về lượng tri thức khổng lồ. Thế nhưng xưa nay chưa từng có ma pháp sư nào chạm tới được nó cả." Bà liếc nhìn tấm Bản Đồ Akasha của tôi. Xem chừng cái tên 'Akasha' bắt nguồn từ chữ Akashic. Nếu đúng như thế thì giả thuyết của Lorraine là hoàn toàn có cơ sở.
+"Bản Ghi Akashic thực chất chỉ là một khái niệm," bà Gharb nói, ngán ngẩm trước sự mù tịt của hai chúng tôi. "Đó là nơi lưu giữ ghi chép về mọi hiện tượng tồn tại trên đời. Nhưng đây không phải nơi mắt thường nhìn thấy được. Có thể coi đó là một chiều không gian khác. Lorraine nói đúng khi bảo đây là ý tưởng điên rồ, nhưng nơi đó lại cực kỳ quan trọng với giới ma pháp sư và nhà giả kim. Mọi cơ chế vận hành sâu xa của ma pháp đều được ghi lại ở đó, nên người ta đồn rằng nếu chạm tới được Bản Ghi Akashic thì sẽ thu về lượng tri thức khổng lồ. Thế nhưng xưa nay chưa từng có ma pháp sư nào chạm tới được nó cả." Bà liếc nhìn tấm Bản Đồ Akasha của tôi. Xem chừng cái tên 'Akasha' bắt nguồn từ chữ Akashic. Nếu quả đúng như thế thì nghĩa là giả thuyết của Lorraine đã trúng phóc.
 
 ![](images/ch163-01.webp)
 
@@ -80,7 +80,7 @@ Công bằng mà nói thì vũ khí và ma cụ hay có thói quen đặt tên p
 
 "Có khi cô nói đúng," tôi bảo. "Nhưng nếu vậy thì người làm ra tấm bản đồ này hẳn phải biết về nơi đây chứ. Cô nghĩ sao về chuyện đó?"
 
-"Phải hỏi người làm ra nó mới biết được. Rất có thể người anh gặp chính là tác giả của tấm bản đồ này, nhưng tôi e là khó mà tìm được cô ta. Chắc chúng ta đành tạm gác thắc mắc này lại thôi," Lorraine nói.
+"Phải hỏi người làm ra nó mới biết được. Rất có thể người anh gặp chính là tác giả của tấm bản đồ này, nhưng tôi e là khó mà tìm được cô ấy. Chắc chúng ta đành tạm gác thắc mắc này lại thôi," Lorraine nói.
 
 "Phải rồi. Dù sao thì tôi cũng chẳng thể quay lại nơi mình từng gặp cô ấy được nữa."
 
@@ -110,7 +110,7 @@ Lorraine có vẻ ngần ngại. "Nếu làm được thì cũng hay đấy, nh�
 
 Nghĩ tới cảnh đó mà thấy rợn người. Biết là mình sẽ không bị dịch chuyển kẹt vào trong tường hay thứ gì tương tự thì cũng đỡ lo, chứ tự dưng xuất hiện giữa phòng ngai vàng thì chẳng hay ho gì đâu.
 
-"Xem chừng trong khi các ma pháp trận dịch chuyển tới Hathara và Vistelya mới có vài thế kỷ, thì vài cái khác có thể cổ xưa như chính thành phố này," Lorraine nói thêm. "Mà tôi đoán phần lớn đều cổ như vậy cả. Nếu đúng thế, rất có thể người ta đã xây công trình đè lên ma pháp trận dịch chuyển ở điểm đến mà chẳng hề hay biết dưới chân có gì. Chúng ta đều biết người ta không thể phá hủy chúng được, hay đúng hơn là có phá thì chúng cũng tự phục hồi lại. Dựa theo một số thí nghiệm thì ma pháp trận bị lấp kín sẽ dịch chuyển người ta tới vị trí an toàn gần nhất phía trên lối ra."
+"Xem chừng trong khi các ma pháp trận dịch chuyển tới Hathara và Vistelya mới có vài thế kỷ, thì vài cái khác có thể cổ xưa như chính thành phố này," Lorraine nói thêm. "Mà tôi đoán phần lớn đều cổ như vậy cả. Nếu đúng thế, rất có thể người ta đã xây công trình đè lên ma pháp trận dịch chuyển ở điểm đến mà chẳng hề hay biết dưới chân có gì. Chúng ta đều biết người ngoài không thể phá hủy chúng được, hay đúng hơn là có thử phá thì chúng cũng tự phục hồi lại. Dựa theo một số thí nghiệm thì ma pháp trận bị lấp kín sẽ dịch chuyển người ta tới vị trí an toàn gần nhất phía trên lối ra."
 
 "Thế nghĩa là sao?" tôi hỏi.
 

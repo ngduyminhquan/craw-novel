@@ -4,11 +4,11 @@
 
 "Hơi khó cảm nhận, nhưng thực ra chiếc chuông này là một ma cụ mang lượng Ma Lực rất mờ nhạt," Lorraine giải thích. "Tôi đoán nó đi theo cặp, hễ rung chiếc này thì chiếc chuông tương ứng ở bên ngoài cũng kêu theo. Ma pháp cách âm cũng chặn kha khá Ma Lực, nhưng chắc người ta đã chế tạo riêng có tính trước chuyện đó rồi."
 
-Lời giải thích của cô nghe rất hợp lý, nhưng với một học đồ ma pháp mới học năm đầu như tôi thì khó mà nhìn ra được như vậy. Tôi hầu như chẳng cảm nhận nổi chút Ma Lực nào; trong mắt tôi, nó chẳng khác gì một đồ vật bình thường. Chiếc chuông được chế tác rất tinh xảo từ chất liệu quý giá, nên nói đúng hơn thì tôi còn băn khoăn không biết nơi này có hay bị kẻ gian trộm mất hay không. Cơ mà nếu đã là ma cụ thì chắc cũng khó trộm. Dù sao thì phần lớn những nơi thế này đều phòng trộm bằng ma pháp tự động rung chuông báo động ngay khi có kẻ mang đồ ra khỏi khuôn viên. Ngoài kia có hẳn những nhóm ma pháp sư chuyên làm nghề này. Trộm cắp vốn là tội phổ biến nhất trên đời, thành ra những người như họ luôn đắt khách và nghe đâu kiếm bộn tiền.
+Lời giải thích của cô nghe rất hợp lý, nhưng với một học trò mới tập tành học ma pháp năm đầu như tôi thì khó mà nhìn ra được như vậy. Tôi hầu như chẳng cảm nhận nổi chút Ma Lực nào; trong mắt tôi, nó chẳng khác gì một đồ vật bình thường. Chiếc chuông được chế tác rất tinh xảo từ chất liệu quý giá, nên nói đúng hơn thì tôi còn băn khoăn không biết nơi này có hay bị kẻ gian trộm mất hay không. Cơ mà nếu đã là ma cụ thì chắc cũng khó trộm. Dù sao thì phần lớn những nơi thế này đều phòng trộm bằng ma pháp tự động rung chuông báo động ngay khi có kẻ mang đồ ra khỏi khuôn viên. Ngoài kia có hẳn những nhóm ma pháp sư chuyên làm nghề này. Trộm cắp vốn là tội phổ biến nhất trên đời, thành ra những người như họ luôn đắt khách và nghe đâu kiếm bộn tiền.
 
 "Được rồi, thế thì không phải lo vị tư tế không nghe thấy nữa. Giờ chúng ta bàn chuyện khế ước được chưa?"
 
-"Bàn thôi. Augurey, anh đã chuẩn bị tinh thần cho việc này chưa?" Lorraine hỏi với giọng đầy vẻ đe dọa.
+"Bàn thôi. Augurey, anh đã chuẩn bị tinh thần cho việc này chưa?" Lorraine hỏi với giọng hăm dọa.
 
 "Chuẩn bị cái gì cơ? Tôi thấy chuyện này có gì to tát lắm đâu."
 
@@ -28,7 +28,7 @@ Câu đó chạm đúng vào chỗ đau của tôi.
 
 "Tôi định nói cho anh biết kha khá chuyện, nhưng nếu anh định bỏ chạy mà không chịu lập khế ước, tôi sẽ đuổi theo anh xuống tận đáy Địa Ngục và đảm bảo anh không bao giờ dám chống đối tôi nữa. Đã bước vào căn phòng này rồi thì anh bắt buộc phải ký bản khế ước này thôi."
 
-Augurey trông hơi chột dạ nhưng nhanh chóng lấy lại vẻ bình thản. "Đằng nào thì tôi cũng giữ bí mật thôi mà. Cơ mà cô chịu báo trước ý định như thế thì cũng tốt bụng chán. Thôi được, tôi hiểu rồi, tôi sẵn sàng rồi; nói chuyện thôi. Rào trước đón sau kỹ thế này thì hẳn phải là bí mật lớn lắm đây. Tôi bắt đầu thấy háo hức rồi đấy."
+Augurey trông hơi chột dạ nhưng nhanh chóng lấy lại vẻ bình thản. "Đằng nào thì tôi cũng giữ bí mật thôi mà. Cơ mà cô chịu báo trước ý định như thế thì cũng tốt bụng chán. Thôi được, tôi hiểu rồi, tôi sẵn sàng rồi, nói chuyện thôi. Rào trước đón sau kỹ thế này thì hẳn phải là bí mật lớn lắm đây. Tôi bắt đầu thấy háo hức rồi đấy."
 
 Những điều chúng tôi sắp kể cho Augurey nghe nhìn chung xoay quanh thân phận của tôi. Chúng tôi cần bàn với bà Gharb và Capitan trước khi đả động đến ma pháp trận dịch chuyển, nên sẽ bỏ qua không nhắc tới bí mật đó. Tùy vào mức độ chúng tôi tiết lộ, có thể anh ta sẽ đoán ra phần đó, nhưng Lorraine đang nghĩ sẵn một điều khoản khéo léo cho bản khế ước để buộc anh ta phải giữ kín cả chuyện ấy. Tôi gần như giao phó toàn bộ bản khế ước cho cô. Tôi chỉ biết viết vài điều khoản đơn giản, chứ đụng đến bất cứ thứ gì chi tiết là bó tay ngay. Có lẽ nhờ công việc của mình mà Lorraine rất rành mấy khoản này. Chắc mọi chuyện rồi sẽ ổn thôi. Còn nếu không ổn, ừ thì, tới đâu tính tới đó vậy.
 
@@ -48,7 +48,7 @@ Tôi đã bỏ lỡ một cơ hội bất ngờ đến từ một người khôn
 
 ◆◇◆◇◆
 
-"Ừ, tôi cũng thấy vậy. Phải thi thử mới biết có đỗ được kỳ kiểm tra Ngân Cấp hay không, nhưng kỹ năng của tôi đúng là có tiến bộ thật. Có điều, chuyện đó đều có lý do cả đấy," tôi nói, thấy đây là lúc thích hợp để nhắc tới chuyện đó.
+"Ừ, tôi cũng thấy vậy. Phải đi thi mới biết có đỗ nổi kỳ thi Ngân Cấp hay không, nhưng kỹ năng của tôi đúng là có tiến bộ thật. Có điều, chuyện đó đều có lý do cả đấy," tôi nói, thấy đây là lúc thích hợp để nhắc tới chuyện đó.
 
 "Lý do ư?" Augurey hỏi lại. "Nghe như thể không phải cậu chỉ tập luyện cho tới khi giỏi lên nhỉ. Đằng nào thì lúc nào cậu chẳng tập luyện, nếu chỉ thế mà mạnh lên được thì lẽ ra cậu phải lên Ngân Cấp từ lâu rồi mới phải. Mà ngoài chuyện đó ra thì còn lý do gì khác được nữa chứ?"
 
@@ -60,7 +60,7 @@ Xem chừng anh ta chẳng nghĩ ra được gì. Kể cũng phải thôi. Chẳ
 
 "Thì tôi muốn cho anh thời gian chuẩn bị tâm lý mà."
 
-"Rồi rồi, mau nói đi xem nào." Augurey nhún vai như thể coi lời báo trước của tôi là một câu đùa cho đỡ căng thẳng. Đã thế thì tôi quyết định cứ nói thẳng đuột ra một cách ngắn gọn, đơn giản nhất.
+"Rồi rồi, mau nói đi xem nào." Augurey nhún vai như thể coi lời báo trước của tôi là một câu đùa cho đỡ căng thẳng. Đã thế thì tôi quyết định cứ nói toạc ra thật ngắn gọn, đơn giản.
 
 "Tôi biến thành quái vật rồi."
 
@@ -72,7 +72,7 @@ Xem chừng anh ta chẳng nghĩ ra được gì. Kể cũng phải thôi. Chẳ
 
 Augurey lấy lại bình tĩnh rồi bật cười. "À, hóa ra là nói đùa. Tôi đang nhìn cậu ngay trước mặt đây, rõ ràng cậu là con người còn gì. Vì vướng cái mặt nạ nên tôi chỉ thấy nửa trên khuôn mặt cậu, nhưng cậu vẫn có tròng mắt, trán với lông mày đàng hoàng đúng không? Làm gì có Khô Lâu nào lại có mấy thứ đó chứ?"
 
-"Tôi không còn là Khô Lâu nữa; tôi là Ma Cà Rồng rồi. Bề ngoài tôi chẳng khác gì con người cả. Anh nói đúng là trông tôi bây giờ đại khái vẫn giống hồi chưa biến đổi, nhưng tôi không phải con người đâu. Nhìn này," tôi nói rồi cào vào cánh tay mình cho đến khi rướm máu. Vết thương lập tức khép miệng ngay. Con người tuyệt đối không thể làm được điều này. Ma pháp trị liệu hay Thần Lực nhìn chung cũng tạo ra được kết quả tương tự, nhưng rõ ràng là tôi chẳng hề dùng đến thứ nào trong hai thứ đó. Tức là vết thương lành lại hoàn toàn nhờ khả năng tái tạo tự nhiên, mà chỉ đếm trên đầu ngón tay vài loài sinh vật mới hồi phục nhanh được đến mức ấy.
+"Tôi không còn là Khô Lâu nữa, giờ tôi là Ma Cà Rồng rồi. Bề ngoài tôi chẳng khác gì con người cả. Anh nói đúng là trông tôi bây giờ đại khái vẫn giống hồi chưa biến đổi, nhưng tôi không phải con người đâu. Nhìn này," tôi nói rồi cào vào cánh tay mình cho đến khi rướm máu. Vết thương lập tức khép miệng ngay. Con người tuyệt đối không thể làm được điều này. Ma pháp trị liệu hay Thần Lực nhìn chung cũng tạo ra được kết quả tương tự, nhưng rõ ràng là tôi chẳng hề dùng đến thứ nào trong hai thứ đó. Tức là vết thương lành lại hoàn toàn nhờ khả năng tái tạo tự nhiên, mà chỉ đếm trên đầu ngón tay vài loài sinh vật mới hồi phục nhanh được đến mức ấy.
 
 "Chà chà, nãy giờ tôi cứ tự hỏi mình sắp được nghe chuyện gì, chứ đúng là không ngờ lại ra thế này," Augurey ôm đầu nói, như thể cuối cùng cũng phải đối diện với sự thật rằng tôi đã biến thành quái vật.
 

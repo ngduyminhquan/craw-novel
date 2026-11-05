@@ -4,15 +4,15 @@ Mấy kỵ sĩ kiệt sức đến mức bảo họ dựng cỗ xe dậy lúc n�
 
 "Giờ mà chủ động giúp một tay thì khéo sau này lại có lợi nhất đấy," Augurey bảo.
 
-"Cơ mà hai người không muốn gây chú ý đúng không? Vậy nếu cần, tôi có thể một mình vào cung, kiếm đủ ân huệ từ họ để họ đồng ý cho qua chuyện đó là êm đẹp nhất."
+"Cơ mà hai người không muốn gây chú ý đúng không? Vậy nếu cần, tôi có thể một mình vào cung, miễn sao khiến họ đủ cảm kích để chấp nhận chuyện đó là êm đẹp nhất."
 
-Nói cách khác, Augurey định tới bảo với họ là chúng tôi đã đi chỗ khác nên không vào cung được. Nhưng tôi chẳng muốn để anh ta phải làm thế. Ngay từ đầu chính tôi là người đề nghị cứu họ, giờ bắt Augurey đứng ra giải quyết hậu quả thì tôi thấy không ổn chút nào. Dù rằng cả nhóm có mặt ở đây vốn là vì yêu cầu vô lý của Augurey, nhưng người gật đầu nhận lời lại là tôi. Tôi đâu thể đổ hết trách nhiệm lên đầu anh ta được.
+Ý Augurey là anh ta sẽ tới bảo với họ rằng chúng tôi đã đi nơi khác nên không vào cung được. Nhưng tôi chẳng muốn để anh ta phải làm thế. Ngay từ đầu chính tôi là người đề nghị cứu họ, giờ bắt Augurey đứng ra giải quyết hậu quả thì tôi thấy không ổn chút nào. Dù rằng cả nhóm có mặt ở đây vốn là vì yêu cầu vô lý của Augurey, nhưng người gật đầu nhận lời lại là tôi. Tôi đâu thể đổ hết trách nhiệm lên đầu anh ta được.
 
 "Làm vậy thì tiện cho chúng tôi thật, nhưng lại ảnh hưởng đến chỗ đứng của anh ở vương đô," tôi nói. "Vả lại đôi bên cũng mới gặp nhau, tôi đâu thể đòi hỏi anh nhiều đến thế."
 
 Augurey thoáng lộ vẻ ngạc nhiên. "Chính tôi mới là người lôi hai người vào chuyện này mà. Cậu tử tế thật đấy. Chà, tôi rất cảm kích tấm lòng của cậu, cơ mà vậy thì giờ tính sao đây?"
 
-"Dù sao đi nữa, lấy thêm ân huệ của họ vẫn là lựa chọn đúng đắn. May sao việc dựng lại cỗ xe kia cũng dễ thôi, nếu hai người không phiền thì cứ để tôi lo," Lorraine gợi ý.
+"Dù tính sao thì khiến họ mang ơn thêm vẫn là lựa chọn đúng đắn. May sao việc dựng lại cỗ xe kia cũng dễ thôi, nếu hai người không phiền thì cứ để tôi lo," Lorraine gợi ý.
 
 Cô định dùng ma pháp. Mấy kỵ sĩ kia chắc cũng có người biết ma pháp, nhưng do đặc thù công việc nên họ chủ yếu chỉ học ma pháp tấn công. Lorraine đương nhiên cũng rành những phép đó, nhưng cô còn biết vài câu chú tiện lợi và có công năng rất chuyên biệt.
 
@@ -28,9 +28,9 @@ Lorraine bước lại gần Nauss. "Thưa ngài Nauss, tôi có thể giúp cá
 
 "Không, không đâu, các vị đã có ơn cứu mạng chúng tôi rồi, tôi không thể đòi hỏi thêm nữa. Việc này mất một lúc thật, nhưng chúng tôi vẫn sẽ kịp về vương đô trước lúc hoàng hôn thôi," Nauss khăng khăng.
 
-Cơ mà như thế thì chúng tôi đâu lấy được ân huệ từ họ, nên Lorraine tiếp tục nói thêm.
+Nhưng thế thì chúng tôi đâu làm họ mang ơn thêm được, nên Lorraine vẫn cố thuyết phục.
 
-"Với những kỵ sĩ dũng mãnh và trọng danh dự như các ngài thì chuyện này chẳng đáng bận tâm, nhưng tôi e là không nên để cô công chúa quý giá phải chờ đợi ở nơi đầy máu me này lâu đến thế. Tôi tin rằng dựng cỗ xe dậy càng sớm thì càng có lợi nhất cho các ngài. Tôi tình cờ biết chút ma pháp, trong đó có một câu chú cực kỳ thích hợp cho sự cố thế này. Nếu giao cho tôi, chỉ vài phút là xong xuôi ngay. Ngài chỉ cần mở lời một tiếng thôi."
+"Với những kỵ sĩ dũng mãnh và trọng danh dự như các ngài thì chuyện này chẳng đáng bận tâm, nhưng tôi e là không nên để vị công chúa cao quý phải chờ đợi ở nơi đầy máu me này lâu đến thế. Tôi tin rằng dựng cỗ xe dậy càng sớm càng tốt cho các ngài. Tôi tình cờ biết chút ma pháp, trong đó có một câu chú cực kỳ thích hợp cho sự cố thế này. Nếu giao cho tôi, chỉ vài phút là xong xuôi ngay. Ngài chỉ cần mở lời một tiếng thôi."
 
 Tôi thấy cô tâng bốc có phần hơi quá lời, nhưng trước đây cô luôn kể cho tôi nghe về những nỗ lực phối hợp làm việc với các học giả khác ở Đế Quốc. Có lẽ kỹ năng này cô học được từ hồi ấy.
 
@@ -62,7 +62,7 @@ Ma pháp thực vật vốn là sở trường của tộc Elf, nhưng tôi bi�
 
 Nghe Jia gọi là chạy ngay tới, xem chừng hai con kỳ lân này chỉ nghe lời cô bé. Chúng được cho là loài động vật thông minh, nên có khi Jia bảo thì chúng cũng chịu nghe lệnh người khác, nhưng tốt nhất vẫn không nên lại quá gần. Khi ở cạnh con người không phải chủ nhân của mình, chúng sẽ hành xử chẳng khác nào thú hoang.
 
-Jia buộc hai con kỳ lân vào cỗ xe. Trông cô bé khá quen tay với việc này, đủ thấy cô không chỉ đơn thuần là một nàng công chúa được bao bọc. Lại thêm chuyện cô bé tự ý bước ra khỏi chỗ nấp trong xe bất chấp lời dặn của Nauss, Jia chẳng giống kiểu người nhu mì, dễ bảo cho lắm. Nhóm họ bị tập kích liền hai lần, thế mà cô bé vẫn tỏ ra tương đối thản nhiên.
+Jia buộc hai con kỳ lân vào cỗ xe. Trông cô bé khá quen tay với việc này, đủ thấy đây không chỉ đơn thuần là một công chúa sống trong nhung lụa. Lại thêm chuyện cô bé tự ý bước ra khỏi chỗ nấp trong xe bất chấp lời dặn của Nauss, Jia chẳng giống kiểu người nhu mì, dễ bảo cho lắm. Nhóm họ bị tập kích liền hai lần, thế mà cô bé vẫn tỏ ra tương đối thản nhiên.
 
 Các kỵ sĩ bắt đầu kiểm tra cỗ xe, nhưng xem chừng không phát hiện thấy hư hại nào đáng kể. Cỗ xe khó lòng nguyên vẹn hoàn toàn sau khi bị lật nhào, song đúng là nó bền chắc như lời Nauss khẳng định. Cỗ xe sẽ có thể di chuyển hoàn toàn bình thường.
 
@@ -70,7 +70,7 @@ Các kỵ sĩ bắt đầu kiểm tra cỗ xe, nhưng xem chừng không phát h
 
 "Phải rồi," tôi đáp. "Ngài có phiền nếu chúng tôi đi cùng hộ tống các ngài về vương đô không?"
 
-Tôi đã bàn trước quyết định này với Lorraine và Augurey. Về cơ bản, đây là một bước nữa để lấy thêm ân huệ từ họ. Các kỵ sĩ chắc đã hồi phục đôi chút, nhưng chưa thể hoàn toàn. Chúng tôi không cách vương đô quá xa, song nếu các kỵ sĩ vừa phải bảo vệ cỗ xe trên đường đi vừa phải cuốc bộ thì chắc sẽ mất khoảng một tiếng đồng hồ. Ban đầu họ cưỡi ngựa, nhưng không như kỳ lân, phần lớn ngựa đều đã bị thương hoặc chết trong các đợt tập kích. Họ chỉ còn sót lại vài con, nhưng dẫu sao có vẫn hơn không.
+Tôi đã bàn trước quyết định này với Lorraine và Augurey. Về cơ bản, đây là một bước nữa để họ càng thêm cảm kích chúng tôi. Các kỵ sĩ chắc đã hồi phục đôi chút, nhưng chưa thể hoàn toàn. Chúng tôi không cách vương đô quá xa, song nếu các kỵ sĩ vừa phải bảo vệ cỗ xe trên đường đi vừa phải cuốc bộ thì chắc sẽ mất khoảng một tiếng đồng hồ. Ban đầu họ cưỡi ngựa, nhưng không như kỳ lân, phần lớn ngựa đều đã bị thương hoặc chết trong các đợt tập kích. Họ chỉ còn sót lại vài con, nhưng dẫu sao có vẫn hơn không.
 
 "Các cậu sẵn lòng hộ tống chúng tôi ư?" Nauss hỏi.
 
@@ -112,7 +112,7 @@ Tôi vốn nhát gan hết thuốc chữa, lại biết rõ mình đang làm chu
 
 "Họ không nghi ngờ gì tôi cả, nên ổn rồi. Mà này, Augurey đâu rồi?" tôi hỏi. Đáng lẽ anh ta phải đợi chúng tôi, thế mà nhìn quanh chẳng thấy bóng dáng đâu.
 
-"À, anh ta đến Hội để báo cáo hoàn thành công việc rồi. Anh ta muốn bàn với chúng ta về phần thưởng, nên bảo cứ đợi."
+"À, anh ta đến Hội để báo cáo hoàn thành công việc rồi. Anh ta muốn bàn với chúng ta về tiền thù lao, nên bảo cứ đợi."
 
 "Anh ta muốn chúng ta đợi ở đây á?" tôi hỏi lại. Đứng loanh quanh một chỗ suốt thời gian dài có thể khiến chúng tôi trở nên nổi bật, mà điều đó thì tôi muốn tránh.
 

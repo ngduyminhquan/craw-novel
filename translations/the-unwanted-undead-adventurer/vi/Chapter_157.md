@@ -6,9 +6,9 @@ Cả ba chúng tôi đang rảo bước quay về vương đô thì tôi chợt 
 
 "Ừ, tôi ngửi thấy mùi máu người từ đằng kia."
 
-Augurey khịt khịt mũi ngửi vào không khí. "Tôi có thấy mùi gì đâu. Mũi cậu thính như mũi chó ấy nhỉ," anh ta nhún vai.
+Augurey khịt khịt mũi đánh hơi. "Tôi có thấy mùi gì đâu. Mũi cậu thính như mũi chó ấy nhỉ," anh ta nhún vai.
 
-Thực ra, năng lực Ma Cà Rồng khiến tôi nhạy cảm đến đáng sợ với mùi máu người. Mùi của các sinh vật khác tôi cũng phân biệt được, nhưng riêng máu người lại dậy lên hương thơm đặc biệt. Ngửi thấy mùi này là tôi biết ngay xuất phát từ con người.
+Thực ra, năng lực Ma Cà Rồng khiến tôi nhạy cảm đến đáng sợ với mùi máu người. Mùi của các sinh vật khác tôi cũng phân biệt được, nhưng riêng máu người lại dậy lên hương thơm đặc biệt. Ngửi thấy mùi này là tôi biết chắc chắn đó là máu của con người.
 
 "Nếu anh tò mò đến vậy thì sao mình không qua xem thử," Lorraine bảo. "Đằng nào chuyến này cũng xong sớm hơn dự tính, chắc vẫn còn đủ thời gian đấy."
 
@@ -16,9 +16,9 @@ Thực ra, năng lực Ma Cà Rồng khiến tôi nhạy cảm đến đáng s�
 
 "Phiền gì đâu," anh ta đáp. "Thật ra nếu có ai đang bị tấn công, tôi cũng muốn giúp một tay. Đi mau thôi."
 
-Cả nhóm quyết định làm điều mà bất kỳ mạo hiểm giả nào cũng sẽ làm. Chúng tôi vội vã chạy về hướng đó, còn tôi dẫn đầu vì có thể đánh hơi chuẩn xác vị trí.
+Cả nhóm quyết định làm điều mà mạo hiểm giả nào gặp cảnh này cũng sẽ làm. Chúng tôi vội vã chạy tới chỗ đó, còn tôi dẫn đầu vì đánh hơi được vị trí chính xác.
 
-Tới nơi, chúng tôi thấy một cỗ xe đã bị lật nghiêng. Vây quanh nó là chừng hai mươi con Sói Rừng và mười con Sói Đá. Sói Rừng to hơn sói thường một cỡ và hay xuất hiện ở tầng ba của Mê Cung Tân Nguyệt. Xét riêng từng con thì chúng không quá mạnh, nhưng khi đi theo đàn, chúng đủ nguy hiểm để so kè với cả mạo hiểm giả Ngân Cấp. Sói Đá thậm chí còn đáng sợ hơn, thể hình vượt trội lấn át hẳn Sói Rừng. Toàn thân chúng bọc một lớp đá cứng cáp chẳng khác nào giáp trụ. Dẫu vậy, chúng vẫn nhanh nhẹn và phối hợp nhịp nhàng không thua kém những loài sói khác. Đi đường mà chạm trán lũ quái vật này thì chẳng ai muốn chút nào.
+Tới nơi, chúng tôi thấy một cỗ xe đã bị lật nghiêng. Vây quanh nó là chừng hai mươi con Sói Rừng và mười con Sói Đá. Sói Rừng to hơn sói thường một cỡ và hay xuất hiện ở tầng ba của Mê Cung Tân Nguyệt. Xét riêng từng con thì chúng không quá mạnh, nhưng khi đi theo đàn, chúng đủ nguy hiểm để so kè với cả mạo hiểm giả Ngân Cấp. Sói Đá thậm chí còn đáng sợ hơn, thể hình to lớn áp đảo hẳn Sói Rừng. Toàn thân chúng bọc một lớp đá cứng cáp chẳng khác nào giáp trụ. Dẫu vậy, chúng vẫn nhanh nhẹn và phối hợp nhịp nhàng không thua kém những loài sói khác. Đi đường mà chạm trán lũ quái vật này thì chẳng ai muốn chút nào.
 
 Bầy sói đang xúm lại tấn công cỗ xe. Mấy người đàn ông mặc giáp đang gồng mình chống đỡ, nhưng quân số đôi bên quá chênh lệch. Vài người đã ngã gục dưới đất, xem chừng đã tắt thở. Nếu không có ai can thiệp, có lẽ cả đám sẽ bị quét sạch.
 
@@ -28,13 +28,13 @@ Bầy sói đang xúm lại tấn công cỗ xe. Mấy người đàn ông mặc
 
 "Được chứ sao không. Tôi cũng hỗ trợ được mà. Nói thật thì tay chân tôi cũng đang ngứa ngáy muốn đánh đấm đây."
 
-"Vậy chúng ta bắt đầu chứ?" Lorraine chẳng đợi ai hỏi đã lên tiếng. "Tôi sẽ dùng ma pháp phân tán bầy sói để mở đường." Cô niệm một câu chú phóng ra những lưỡi dao gió từ đũa phép, tấn công bầy sói.
+"Vậy chúng ta bắt đầu chứ?" Lorraine chẳng đợi ai hỏi đã lên tiếng. "Tôi sẽ dùng ma pháp đánh dạt bầy sói ra để mở đường." Cô niệm một câu chú phóng ra những lưỡi dao gió từ đũa phép, tấn công bầy sói.
 
 ◆◇◆◇◆
 
 Những lưỡi dao gió của Lorraine hất tung lũ Sói Rừng. Chỉ riêng đòn đó đã giết chết năm, sáu con, chứng tỏ uy lực không hề nhẹ. Chúng tôi lập tức lao qua khoảng trống cô vừa dọn sạch để áp sát cỗ xe.
 
-"Các người là ai?!" Người đàn ông lớn tuổi nhất trong nhóm mặc giáp cất giọng hỏi khi chúng tôi bất ngờ xuất hiện. Dĩ nhiên ông ta không hề lơ là cảnh giác mà vẫn liên tục vung kiếm chém lũ quái vật để cầm chân chúng.
+"Các người là ai?!" người đàn ông lớn tuổi nhất trong nhóm mặc giáp cất giọng hỏi khi chúng tôi bất ngờ xuất hiện. Dĩ nhiên ông ta không hề lơ là cảnh giác mà vẫn liên tục vung kiếm chém lũ quái vật để cầm chân chúng.
 
 "Chúng tôi là mạo hiểm giả," tôi đáp. "Chúng tôi tới để tiếp viện."
 
@@ -44,13 +44,13 @@ Mấy người còn lại xem chừng chật vật hơn nhiều, nên chúng tô
 
 "Phù, xem ra cũng xoay xở xong xuôi rồi," người đàn ông lớn tuổi thở phào. Ông ta khoác bộ giáp bạc, tay cầm thanh kiếm. Trang bị cũng tương tự như những người kia, nhưng giáp của ông ta khác ở chỗ trên vai có khắc một gia huy, chắc là biểu thị cho địa vị. Nhìn qua là biết kỵ sĩ, nên tôi phần nào đoán được bên trong cỗ xe này có thể đang chở ai. Tôi đánh hơi thấy điềm chẳng lành rồi đây.
 
-"Quanh đây xem chừng không còn quái vật nào nữa, nên chúng tôi xin phép quay về thành phố đây," tôi nói. "Chào ông nhé."
+"Quanh đây xem chừng không còn quái vật nào nữa, nên chúng tôi xin phép quay về thành phố đây," tôi nói. "Chào các vị."
 
 "Xin hãy đợi một chút! Các vị đã hết lòng tương trợ thế này, tôi sao có thể để mọi người ra về mà chưa hậu tạ được," người đàn ông đáp lời, đúng như tôi dự đoán.
 
 Lòng tốt của ông ta lúc này chỉ tổ vướng chân, nhưng tôi đâu thể nói toạc ra như thế được. Dù sao thì tôi cũng chỉ muốn chuồn khỏi đây càng sớm càng tốt. "À thì, chúng tôi đang dở công việc," tôi nói, cố làm ra vẻ mình chẳng còn cách nào khác.
 
-"Nếu vậy thì có thể hậu tạ các vị vào một ngày khác được chăng," ông ta cố nài.
+"Nếu vậy thì để hậu tạ các vị vào một ngày khác cũng được," ông ta vẫn cố nài.
 
 "Đúng vậy, xin hãy để tôi ban thưởng cho các bạn!" một thiếu nữ quý phái mặc váy cất tiếng nói từ phía sau người đàn ông. Cô bé trông tầm mười lăm hay mười sáu tuổi, dáng vẻ có phần hơi ốm yếu, nhưng ánh mắt nhìn chúng tôi lại vô cùng kiên định.
 
@@ -68,7 +68,7 @@ Cả hai đều cùng chung suy nghĩ, nhưng qua màn đối đáp giữa cô c
 
 "Thất lễ quá, để các vị phải đợi lâu," vị kỵ sĩ nói. "Công Chúa muốn gửi lời cảm tạ đến các vị. Người có nhã ý mời các vị tới vương cung."
 
-Cô công chúa chăm chú nhìn chúng tôi từ phía sau ông ta, nét mặt như muốn nói rằng cô sẽ tiếp đãi chúng tôi chu đáo hết mức có thể. Tôi rất cảm kích và nghĩ rằng đây là thái độ đáng khen ngợi đối với một thành viên hoàng gia. Nếu đang dùng thân phận thật của mình, hẳn tôi đã nhận lời ngay rồi. Khổ nỗi lúc này lại chẳng tiện chút nào.
+Cô công chúa chăm chú nhìn chúng tôi từ phía sau ông ta, nét mặt như muốn nói rằng cô bé sẽ tiếp đãi chúng tôi chu đáo hết mức có thể. Tôi rất cảm kích và nghĩ rằng một người thuộc hoàng tộc mà có tấm lòng như vậy thật đáng quý. Nếu đang dùng thân phận thật của mình, hẳn tôi đã nhận lời ngay rồi. Khổ nỗi lúc này lại chẳng tiện chút nào.
 
 Chưa biết phải tính sao, tôi đành kiếm cớ hỏi một câu để kéo dài thời gian.
 
@@ -96,13 +96,13 @@ Dù sao đi nữa, người ta đã bảo ngẩng đầu thì tôi làm theo. Đ
 
 "Thưa Công Chúa, thưa ngài Nauss, cảm ơn lòng tốt của hai vị," tôi nói.
 
-"Ồ, không có gì đâu," Jia đáp. "Vậy, các bạn nhận lời mời của tôi chứ?"
+"Ồ, không có gì đâu," Jia đáp. "Vậy các bạn nhận lời mời của tôi chứ?"
 
 Đây là kiểu câu hỏi mang tính ép buộc nhiều hơn. Nhưng dẫu sao thì nó vẫn khoác vỏ bọc của một câu hỏi, nên tôi hy vọng nếu xin dời lời mời sang hôm khác thì vẫn được chấp thuận. Còn nếu không thì đành chịu vậy.
 
 "Chúng tôi là mạo hiểm giả đang dở công việc, nên trước tiên phải quay về báo cáo kết quả đã. Ngoài ra, như hai vị thấy đấy, trang phục của chúng tôi lúc này chẳng hề phù hợp để bước chân vào vương cung. Nếu được, xin cho phép chúng tôi có chút thời gian chuẩn bị trước."
 
-Cả ba chúng tôi đều đang diện những bộ trang phục lòe loẹt. Đồ của tôi với Lorraine đúng là thiên về phong cách thời thượng, còn đồ của Augurey tuy nhức mắt nhưng vẫn được cắt may khéo léo. Dù vậy, tôi từng nghe nói rằng diện những bộ trang phục thế này vào cung là điều thất lễ. Khi diện kiến người có uy vọng cao sang, khâu chuẩn bị phải cực kỳ chu đáo, ngay cả chuyện ăn mặc. Chúng tôi đều không đạt những tiêu chuẩn ấy. Do đó, tôi nghĩ đây sẽ là cái cớ hợp lý để xin thêm thời gian. Chuyện này đâu chỉ vì lợi ích của chúng tôi, mà rất có thể bản thân Jia cũng chẳng muốn bị bẽ mặt vì chúng tôi.
+Cả ba chúng tôi đều đang diện những bộ trang phục lòe loẹt. Đồ của tôi với Lorraine đúng là thiên về phong cách thời thượng, còn đồ của Augurey tuy nhức mắt nhưng vẫn được cắt may khéo léo. Dù vậy, tôi từng nghe nói rằng diện những bộ trang phục thế này vào cung là điều thất lễ. Khi ra mắt người có địa vị cao quý, khâu chuẩn bị phải cực kỳ chu đáo, ngay cả chuyện ăn mặc. Chúng tôi đều không đạt những tiêu chuẩn ấy. Do đó, tôi nghĩ đây sẽ là cái cớ hợp lý để xin thêm thời gian. Chuyện này đâu chỉ vì lợi ích của chúng tôi, mà rất có thể bản thân Jia cũng chẳng muốn bị bẽ mặt vì chúng tôi.
 
 Nauss là người đầu tiên tỏ ý hiểu những gì tôi vừa nói. Chỉ có quý tộc mới được làm Đội trưởng Cận Vệ Hoàng Gia, nhưng vì gánh vác trọng trách bảo vệ hoàng tộc nên nghe đâu kiếm thuật của ông được coi trọng hơn cả xuất thân địa vị. Nhìn cách ông trò chuyện với chúng tôi, có lẽ địa vị quý tộc của ông không cao bằng một số người khác.
 
@@ -116,7 +116,7 @@ Cách nghĩ này chắc bắt nguồn từ lòng nhân ái mà Giáo Hội Đôn
 
 "Tôi định bảo các cậu cứ việc đến thẳng vương cung, nhưng mạo hiểm giả bình thường sẽ không được lính gác cho qua cổng đâu. Cầm lấy cái này đi. Đưa nó cho lính canh, họ sẽ mở cửa cho các cậu," Nauss nói rồi trao cho tôi một tấm huy chương. Trên đó khắc gia huy y hệt như hình trên giáp trụ của ông.
 
-Gia huy khắc họa một hình ảnh khá bạo liệt về một con kỳ lân đang dùng sừng đâm xuyên qua một con quái vật. Có lẽ giới kỵ sĩ nhìn vào đây sẽ thấy nó thật dũng mãnh. Tôi chẳng rõ kỵ sĩ nghĩ gì, nhưng tôi đoán nó cũng khá ngầu đấy chứ. Nhà tôi thì chưa từng có gia huy hay thứ gì tương tự. Thực ra, xét đến tất cả những gì tôi biết về ngôi làng của mình lúc này, biết đâu họ cũng có một biểu trưng ở đâu đó chưa biết chừng. Lần tới về nhà chắc cũng đáng để hỏi thăm xem sao.
+Gia huy khắc cảnh khá bạo lực: một con kỳ lân đang dùng sừng đâm xuyên qua một con quái vật. Có lẽ giới kỵ sĩ nhìn vào đây sẽ thấy nó thật dũng mãnh. Tôi chẳng rõ kỵ sĩ nghĩ gì, nhưng tôi đoán trông cũng khá ngầu đấy chứ. Nhà tôi thì chưa từng có gia huy hay thứ gì tương tự. Thực ra, ngẫm lại tất cả những gì tôi vừa biết thêm về ngôi làng của mình, biết đâu nhà tôi cũng có một cái gia huy ở đâu đó. Lần tới về nhà thử hỏi xem sao.
 
 "Cái này là gì vậy?" tôi hỏi.
 

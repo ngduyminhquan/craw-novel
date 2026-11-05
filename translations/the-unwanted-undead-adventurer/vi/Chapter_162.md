@@ -2,7 +2,7 @@
 
 "Ngập tràn thánh khí thế này sao?!" vị tư tế thốt lên đầy kinh ngạc ngay khi vừa bước vào phòng. Ông ta xuất hiện nhanh đến mức chúng tôi vừa rung chuông xong, tôi suýt đã buột miệng hỏi có phải ông ta đứng chực sẵn ngoài cửa từ trước hay không. Nhìn vẻ mặt sững sờ chết lặng kia, tôi hiểu rằng dẫu hình ảnh vừa rồi có thực sự là Hozei hay không, thì ít nhất thứ đó cũng đã giải phóng ra thánh khí.
 
-Cảm nhận thánh khí hẳn phải qua một quá trình rèn luyện mà chúng tôi đều không có, nhưng tôi vẫn nhận thấy không khí trong phòng đã trở nên thanh khiết đến lạ thường. Nếu ví không khí được Thần Lực thanh lọc như khí trời nơi núi rừng thôn dã, thì bầu không khí lúc này lại giống không khí trong một căn phòng đóng kín và được khử trùng hoàn toàn hơn. Tôi cảm nhận được một ý chí mãnh liệt, đanh thép, tuyệt đối không khoan nhượng trước bất kỳ thứ gì tà ác. Có điều bản thân tôi lại là Ma Cà Rồng — một sinh vật khá tà ác — nên chuyện đó nghe chẳng thuyết phục cho lắm.
+Cảm nhận thánh khí hẳn phải qua một quá trình rèn luyện mà chúng tôi đều không có, nhưng tôi vẫn nhận thấy không khí trong phòng đã trở nên thanh khiết đến lạ thường. Nếu ví không khí được Thần Lực thanh lọc như khí trời nơi núi rừng thôn dã, thì bầu không khí lúc này lại giống không khí trong một căn phòng đóng kín và được khử trùng hoàn toàn hơn. Tôi cảm nhận được một ý chí mãnh liệt, đanh thép, tuyệt đối không khoan nhượng trước bất kỳ thứ gì tà ác. Có điều bản thân tôi lại là Ma Cà Rồng, một sinh vật khá tà ác, nên chuyện đó nghe chẳng thuyết phục cho lắm.
 
 "Chuyện này có gì lạ lắm sao?" tôi hỏi vị tư tế khi thấy ông ta cứ hít sâu liên tục. Ông ta liền quắc mắt nhìn tôi rồi túm chặt lấy cổ áo tôi.
 
@@ -36,7 +36,7 @@ Cô nhã nhặn cúi đầu nhận lấy bản khế ước từ tay tôi rồi 
 
 Đó thực sự chẳng phải chuyện tôi cần biết. Nhưng các tư tế ở đền thờ Hozei trông giống thương nhân hơn là giáo sĩ thông thường, nên tôi cũng chẳng ngạc nhiên. Vả lại cũng đâu phải họ đang lừa dối người ta. Chuyện những bản khế ước này do các Thánh Giả tạo ra vốn là điều ai cũng biết. Điều thực sự quan trọng là chúng có hiệu nghiệm hay không, mà chúng lại rất hiệu nghiệm, nên chẳng việc gì phải chê trách các đền thờ cả.
 
-"Thế nhưng bản khế ước các vị vừa dùng lại thực sự có sự ban phước của ngài ấy. Điều đó có thể có nghĩa là bản khế ước này quan trọng đối với thần linh."
+"Thế nhưng bản khế ước các vị vừa dùng lại thực sự có sự ban phước của Người. Có lẽ điều đó nghĩa là bản khế ước này rất quan trọng đối với thần linh."
 
 "Đích thân Hozei ban phước cho những bản khế ước quan trọng sao?" Lorraine hỏi.
 
@@ -62,7 +62,7 @@ Sự tiếp đãi này quả thật vô cùng chu đáo, nhưng tôi tự hỏi 
 
 Chúng tôi chào lại rồi bắt tay cô, không quên tự nhắc mình không được xưng tên đáp lễ.
 
-So với vị trí đứng đầu cả một ngôi đền, cô còn quá trẻ. Trông Josee chỉ tầm ngoài hai mươi, trạc tuổi Lorraine và tôi. Vương Quốc Yaaran có thể không phải một đất nước quá lớn mạnh, nhưng làm người đứng đầu một ngôi đền ngay tại vương đô vẫn chứng tỏ cô là người rất tài giỏi. Nghe nói một tư tế có Thần Lực sẽ rất dễ thăng tiến, mà cô dường như cũng rất nhạy bén với thánh khí, nên có lẽ cô thực sự sở hữu Thần Lực. Nói cách khác, cô chính là một Thánh Giả. Nếu đúng là vậy, chức vụ của cô cũng chẳng có gì đáng ngạc nhiên, mà dù sao điều đó cũng chẳng ảnh hưởng gì mấy đến chúng tôi. Chỉ có mình Augurey là phải lo chuyện chạm mặt cô lần nữa vì anh ta làm việc ở vương đô, nhưng nếu chuyện đó có xảy ra thật, khéo Josee mới là người chủ động tránh mặt anh ta.
+So với vị trí đứng đầu cả một ngôi đền, cô còn quá trẻ. Trông Josee chỉ tầm ngoài hai mươi, trạc tuổi Lorraine và tôi. Vương Quốc Yaaran có thể không phải một đất nước quá lớn mạnh, nhưng làm người đứng đầu một ngôi đền ngay tại vương đô vẫn chứng tỏ cô là người rất tài giỏi. Nghe nói một tư tế có Thần Lực sẽ rất dễ thăng tiến, mà cô dường như cũng rất nhạy bén với thánh khí, nên có lẽ cô thực sự sở hữu Thần Lực. Tức là cô chính là một Thánh Giả. Nếu đúng là vậy, chức vụ của cô cũng chẳng có gì đáng ngạc nhiên, mà dù sao điều đó cũng chẳng ảnh hưởng gì mấy đến chúng tôi. Chỉ có mình Augurey là phải lo chuyện chạm mặt cô lần nữa vì anh ta làm việc ở vương đô, nhưng nếu chuyện đó có xảy ra thật, khéo Josee mới là người chủ động tránh mặt anh ta.
 
 Giờ đã hỏi xong những điều muốn hỏi và làm xong những việc cần làm, đã đến lúc chúng tôi phải đi. Chúng tôi không còn nhiều thời gian, vả lại Augurey cũng bảo anh ta có việc riêng cần giải quyết.
 
@@ -116,9 +116,9 @@ Chúng tôi vội vã chạy tới chỗ hẹn. Dĩ nhiên, chúng tôi không q
 
 Tôi kể cho hai người nghe về cuộc gặp gỡ với Augurey cùng mọi chuyện diễn ra sau đó. Dĩ nhiên tôi lược bỏ toàn bộ những gì liên quan đến chuyện mình là Ma Cà Rồng. Để giải thích lý do đến đền thờ Hozei, tôi chỉ bảo rằng mình không muốn Augurey kể cho ai nghe chuyện chúng tôi tới vương đô. Đó không hẳn là toàn bộ sự thật, nhưng cũng chẳng phải lời nói dối. Kể đến giữa chừng, bà Gharb và Capitan bắt đầu nheo mắt nhìn tôi, nên có lẽ họ biết tôi đang nói dối, nhưng họ không vạch trần.
 
-Khi tôi kể xong, bà Gharb thở dài. "Hai đứa chỉ đi dạo thôi mà. Sao lại tự chuốc lấy lắm rắc rối thế hả? Lorraine, chắc cháu mệt mỏi lắm rồi."
+Khi tôi kể xong, bà Gharb thở dài. "Hai đứa chỉ đi dạo thôi mà. Sao lại tự chuốc lấy lắm rắc rối thế hả? Lorraine, chắc cô mệt mỏi lắm rồi."
 
-"Không đâu, suốt cả buổi cháu đều thấy rất vui," Lorraine vui vẻ đáp.
+"Không đâu, suốt cả buổi tôi đều thấy rất vui," Lorraine vui vẻ đáp.
 
 "Thế à? Ta hiểu rồi, hiểu rồi. Hai đứa không nói cho cậu ta biết về các ma pháp trận dịch chuyển đấy chứ?"
 
@@ -128,7 +128,7 @@ Với những bí mật của riêng mình, việc chọn kể điều gì cho a
 
 "Ta đã bảo là giao cho cháu trông coi nơi đó rồi còn gì? Trong đó bao gồm cả mấy cái ma pháp trận dịch chuyển ấy đấy, cháu muốn làm gì với chúng cũng được," bà Gharb nói, làm tôi không khỏi ngạc nhiên.
 
-"Nghĩa là tụi cháu có thể tùy ý chọn người để kể về chúng sao?" Lorraine hỏi.
+"Nghĩa là chúng tôi có thể tùy ý chọn người để kể về chúng sao?" Lorraine hỏi.
 
 Capitan gật đầu. "Ừ, ý tụi này là vậy đấy. Chắc tại tụi này nói chưa được rõ ràng cho lắm..."
 
@@ -144,7 +144,7 @@ Capitan gật đầu. "Ừ, ý tụi này là vậy đấy. Chắc tại tụi n
 
 Giọng điệu của bà làm tôi nhớ lại hồi còn theo học bà. Ngay cả bây giờ, giọng nói đó vẫn làm tôi hơi rờn rợn. Bà Gharb là một bà già khá tàn nhẫn và nghiêm khắc. Hồi đó tôi phải trầy trật khổ sở lắm mới học thuộc lòng được mọi thứ, nên chẳng có lấy một giây nào để ngẫm xem việc đó khắc nghiệt tới mức nào. Giờ mà bắt làm lại thì chắc chắn tôi sẽ thấy oải lắm. Nhưng dù ngày ấy bà từng vắt kiệt tâm trí tôi đến tận cùng giới hạn, nếu phải làm lại tất cả một lần nữa, tôi vẫn sẵn lòng.
 
-Trái lại, Lorraine dường như coi đây là cơ hội tốt để học hỏi thêm điều mới mẻ và thú vị. "Cháu mong chờ lắm đấy!" cô nói, đôi mắt sáng lên. Nếu đến chuyện này mà cô ấy cũng tìm ra cách tận hưởng được, thì hẳn chuyện gì trên đời cô ấy cũng thấy vui được hết.
+Trái lại, Lorraine dường như coi đây là cơ hội tốt để học hỏi thêm điều mới mẻ và thú vị. "Tôi mong chờ lắm đấy!" cô nói, đôi mắt sáng lên. Nếu đến chuyện này mà cô ấy cũng tìm ra cách tận hưởng được, thì hẳn chuyện gì trên đời cô ấy cũng thấy vui được hết.
 
 Dẫu vậy, nếu các ma pháp trận dịch chuyển thực sự có thể bị phá hủy, nghĩa là ngay cả khi có ai đó nghe phong phanh về chúng, làng Hathara vẫn có thể giả vờ như không liên quan gì. Có lẽ mọi chuyện vẫn sẽ tệ nếu ai đó phát hiện ra chúng nằm ở Hathara trước khi kịp phá hủy, nhưng khi ấy chúng tôi chỉ việc đảm bảo kẻ phát hiện ra không bao giờ có thể tiết lộ với bất kỳ ai. Nếu được, tôi muốn có cách phá hủy các ma pháp trận dịch chuyển trước khi xảy ra chuyện đó. Có lẽ nên nghĩ ra cách nào đó để làm được việc này. Hoặc biết đâu đã có sẵn cách như thế rồi cũng nên. Tôi cũng không rõ nữa, nhưng giờ tôi đã thấy đỡ lo hơn một chút.
 
@@ -166,7 +166,7 @@ Thực ra tôi biết nghe lén là không đúng, nhưng đây lại là ngay g
 
 "Dạ vâng, cháu cảm ơn chú ạ. Ôi, chú Augurey! Ờm..."
 
-"Cháu không cần phải trả lại gì đâu. Mau mang về cho mẹ đi cháu. Lần tới gặp lại, chú sẽ trình làng bộ cánh thời trang đỉnh nhất mọi thời đại của chú cho mà xem. Nếu có đứa nào trong mấy đứa bị ốm thì mất vui lắm đấy. Đi mau đi nào," Augurey nói rồi đẩy nhẹ lưng cô bé. Cô bé có vẻ tần ngần chưa muốn đi, nhưng cuối cùng cũng chạy biến đi đâu đó. Augurey mỉm cười nhìn theo bóng cô bé rồi quay người hòa vào đám đông biến mất.
+"Cháu không cần phải trả lại gì đâu. Mau mang về cho mẹ đi cháu. Lần tới gặp lại, chú sẽ trình làng bộ cánh thời trang đỉnh nhất mọi thời đại của chú cho mà xem. Lúc đó mà hai mẹ con còn ai bị ốm thì mất vui lắm đấy. Đi mau đi nào," Augurey nói rồi đẩy nhẹ lưng cô bé. Cô bé có vẻ tần ngần chưa muốn đi, nhưng cuối cùng cũng chạy biến đi đâu đó. Augurey mỉm cười nhìn theo bóng cô bé rồi quay người hòa vào đám đông biến mất.
 
 "Anh ta tốt bụng thật đấy. Nhìn cách anh ta ăn mặc thì chẳng ai ngờ được chút nào," Lorraine nói.
 

@@ -68,13 +68,13 @@ Theo tôi nhớ mang máng, người dạy Lorraine từng ném cả cây đũa 
 
 "Tất nhiên là cháu không phạm tội gì rồi," tôi nói. "À thì... có điều vài người có thể coi đó là một cái tội."
 
-Nếu bản thân việc làm Ma Cà Rồng đã là một cái tội thì tôi đúng là kẻ phạm tội thật. Nive mà phát hiện ra chắc đã giết tôi ngay tại chỗ rồi. Cô ấy sẽ vồ lấy tôi còn nhanh hơn mèo con lao vào tuyết mới, và viễn cảnh đó đúng là ác mộng. Cô ấy thậm chí chẳng dễ thương như mèo. Vẻ ngoài thì ưa nhìn thật đấy, nhưng ánh mắt lại rực lửa như thú săn mồi. Tôi đoán mèo cũng là loài ăn thịt, nhưng chúng thuộc dạng đáng yêu. Tôi có cảm giác nghĩ thêm nữa là sẽ chọc giận ai đó mất, nên thôi dừng ở đây cho lành.
+Nếu bản thân việc làm Ma Cà Rồng đã là một cái tội thì tôi đúng là kẻ phạm tội thật. Nive mà phát hiện ra chắc đã giết tôi ngay tại chỗ rồi. Cô ấy sẽ vồ lấy tôi còn nhanh hơn mèo con lao vào tuyết mới, và viễn cảnh đó đúng là ác mộng. Cô ấy thậm chí chẳng dễ thương như mèo. Vẻ ngoài thì ưa nhìn thật đấy, nhưng ánh mắt lại rực lửa như thú ăn thịt. Ừ thì mèo cũng là thú ăn thịt đấy, nhưng là giống dễ thương cơ. Tôi có cảm giác nghĩ thêm nữa là sẽ chọc giận ai đó mất, nên thôi dừng ở đây cho lành.
 
-"Có người coi đó là tội sao? Rốt cuộc thế là nghĩa làm sao?" Capitan hỏi.
+"Có người coi đó là tội sao? Rốt cuộc ý cháu là sao?" Capitan hỏi.
 
 Trái lại, bà Gharb dường như đã lờ mờ đoán ra ý tôi. Dù vậy, việc bà nhận ra chỉ nhờ ngần ấy thông tin ít ỏi quả thật khó tin. Mà vừa lúc tôi bắt đầu thầm nghĩ xem chuyện đó quái đản cỡ nào thì bà đã trừng mắt lườm tôi một cái. Trực giác của bà đúng là nhạy đến phát sợ. Tôi suýt nữa đã muốn van bà làm ơn đừng có lúc nào cũng biết tuốt như thế.
 
-"Capitan, tôi nghĩ mình đoán ra rồi đấy," bà nói. "Nhưng thật khó tin nổi. Nếu đúng như những gì ta nghĩ, Rentt à, thì hẳn cháu đã phải nếm trải không ít đớn đau dằn vặt. Vậy mà trông cháu vẫn chẳng khác gì ngày trước, hoặc là nhờ sự cố gắng của cháu, hoặc là nhờ những người xung quanh giúp đỡ. Cháu may mắn lắm đấy."
+"Capitan, tôi nghĩ mình đoán ra rồi đấy," bà nói. "Nhưng thật khó tin nổi. Nếu đúng như những gì ta nghĩ, Rentt à, thì hẳn cháu đã phải nếm trải không ít đau đớn, dằn vặt. Vậy mà trông cháu vẫn chẳng khác gì ngày trước, hoặc là nhờ sự cố gắng của cháu, hoặc là nhờ những người xung quanh giúp đỡ. Cháu may mắn lắm đấy."
 
 Giờ thì tôi dám chắc là bà biết tỏng rồi.
 
@@ -112,13 +112,13 @@ Thế là chúng tôi quyết định sẽ so tài, nhưng không phải ngay t�
 
 Chúng tôi đang ở trong nhà trưởng làng, tức là nhà của gia đình tôi. Cả hai đã trở về từ mê cung. Bà Gharb và Capitan đã báo trước chuyện chúng tôi vắng mặt, bảo là có việc bận trong rừng.
 
-Chỉ có Ingo nhìn chúng tôi rồi hỏi: "Vậy là hai đứa biết rồi à?" Khi tôi gật đầu, cha bảo: "Cha hiểu rồi. Giờ chuyện đó giao lại cho các con. Không phải bọn cha sẽ hoàn toàn đứng ngoài cuộc nữa, nhưng cứ sử dụng nơi ấy theo cách con thấy phù hợp. Nơi đó chắc chắn sẽ là một kho báu vô giá cho người làm nghề như con."
+Chỉ có cha Ingo nhìn chúng tôi rồi hỏi: "Vậy là hai đứa biết rồi à?" Khi tôi gật đầu, cha bảo: "Cha hiểu rồi. Giờ chuyện đó giao lại cho các con. Không phải bọn cha sẽ hoàn toàn đứng ngoài cuộc nữa, nhưng cứ sử dụng nơi ấy theo cách con thấy phù hợp. Nơi đó chắc chắn sẽ là một kho báu vô giá cho người làm nghề như con."
 
 Thay vì chỉ đơn thuần bàn giao quyền quản lý khu tàn tích, có lẽ cha nuôi muốn xem đây như một món quà dành cho tôi. Điều này chắc chắn giúp tôi mở rộng phạm vi hoạt động của một mạo hiểm giả. Dẫu vậy, nó cũng hoàn toàn có thể gây ra rắc rối nếu không dùng cẩn thận, nên tôi phải luôn ghi nhớ điều đó.
 
 Nếu có thể, tôi cũng muốn công bố kho báu này cho cả thế giới biết. Nhưng dù điều đó biến tôi thành mạo hiểm giả lừng danh, hậu quả kéo theo sẽ là sự hỗn loạn tột cùng. Vương Quốc Yaaran nắm giữ chìa khóa của các ma pháp trận dịch chuyển, nên từ một đất nước nhỏ bé chẳng ai thèm để mắt, nơi này sẽ biến thành một mục tiêu béo bở. Tôi có thể hình dung cảnh Đế Quốc trong tương lai sẽ hăm hở xua quân tấn công. Tôi không muốn điều đó xảy ra, nên tuyệt đối không thể nói cho ai biết về khu tàn tích. Biết đâu một ngày nào đó tôi có thể tiết lộ với thế giới, nhưng nếu làm vậy thì trước hết tốt nhất là phá hủy ma pháp trận dịch chuyển ở Hathara. Lúc ấy chỉ có thành phố ngầm của Hiền Vương Felt ở Đế Quốc là gặp phiền toái. Người dân Hathara vẫn sẽ là chìa khóa, nhưng khó có khả năng người ta phát hiện ra điều đó.
 
-Họ cũng có thể tìm cách làm đông đặc rồi chế biến máu của tôi thành một dạng chìa khóa nào đó. Nếu làm được vậy, khéo Đế Quốc thực sự có thể chinh phục cả thế giới không chừng. Nhưng liệu khi đã đông cứng thì máu có còn tác dụng làm chìa khóa hay không vẫn là điều bí ẩn. Cho dù không làm đông, việc đổ đầy máu của tôi vào chiếc bình Laura tặng rồi dùng làm chìa khóa có lẽ vẫn hiệu quả. Giao bình đó cho Lorraine giữ hẳn là một ý hay. Kiểm tra xem máu của tôi ở dạng rắn hay lỏng có ảnh hưởng gì không là điều chúng tôi nên làm sớm thì hơn. Hiện tại mới chỉ có tụi tôi dùng các ma pháp trận dịch chuyển này, nhưng biết trước vẫn tốt hơn cho tương lai.
+Họ cũng có thể tìm cách làm đông đặc rồi chế biến máu của tôi thành một dạng chìa khóa nào đó. Nếu làm được vậy, khéo Đế Quốc thực sự có thể chinh phục cả thế giới không chừng. Nhưng liệu khi đã đông cứng thì máu có còn tác dụng làm chìa khóa hay không vẫn là điều bí ẩn. Cho dù không làm đông, việc đổ đầy máu của tôi vào chiếc bình Laura tặng rồi dùng làm chìa khóa có lẽ vẫn hiệu quả. Giao bình đó cho Lorraine giữ hẳn là một ý hay. Kiểm tra xem máu của tôi ở dạng rắn hay lỏng có ảnh hưởng gì không là điều chúng tôi nên làm sớm thì hơn. Hiện tại mới chỉ có chúng tôi dùng các ma pháp trận dịch chuyển này, nhưng biết trước vẫn tốt hơn cho tương lai.
 
 "Vậy Capitan mạnh lắm à?" Lorraine hỏi. "Tôi biết ông ấy từng là thầy và anh rất kính trọng ông ấy, nhưng không rõ thực lực thật sự của ông ấy đến đâu. Tôi mới chỉ thấy ông ấy ra tay trên đường tới pháo đài thôi nên cũng chịu."
 

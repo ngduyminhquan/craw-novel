@@ -8,7 +8,7 @@
 
 Ngó vào bên trong, tôi bất ngờ khi thấy một gian phòng dễ chịu bày biện toàn nội thất tao nhã. Khắp quán điểm xuyết đủ loại cây cảnh, vừa vặn chứ không hề rối mắt. Bàn ghế ngả màu hổ phách đã nhuốm màu thời gian, nhưng đều được lau bóng loáng và thuộc loại khá tốt. Phía sau quầy là một ông lão gầy gò với mái tóc hoa râm cắt ngắn gọn gàng. Đôi tay ông thoăn thoắt lau bát đĩa, thuần thục như thể đã làm việc này cả nghìn lần.
 
-"Bất ngờ ghê," Lorraine bảo. "Cỡ như Augurey mà vào đây thì tôi cứ ngỡ anh ta sẽ nổi bần bật mất thôi." Tôi chỉ biết gật đầu, cơ mà sở thích của người ta thì đúng là chẳng biết đằng nào mà lần.
+"Bất ngờ ghê," Lorraine bảo. "Cỡ như Augurey mà vào đây thì tôi cứ ngỡ anh ta sẽ nổi bần bật giữa quán mất." Tôi chỉ biết gật đầu, cơ mà sở thích của người ta thì đúng là chẳng biết đằng nào mà lần.
 
 Dù sao thì tôi cũng lại gần người có vẻ là chủ tiệm.
 
@@ -26,7 +26,7 @@ Diện mạo của anh ta khiến cả tôi lẫn Lorraine đều sững ngườ
 
 "Đồ của tôi có gì lạ à?" Augurey nghiêng đầu.
 
-Nói thật thì chẳng có gì lạ cả. Mà chính thế mới là lạ. Tôi cứ đinh ninh Augurey có mặc gì thì cũng sẽ lòe loẹt đến chói mắt, vậy mà giờ anh ta trông lại bình thường đến lạ lùng. Anh ta khoác một chiếc áo măng tô nâu, cả bộ đồ toàn tông màu trầm tối. Đến cả đôi giày cũng đồng điệu. Chẳng còn sót lại chút bóng dáng nào của vẻ ngoài rực rỡ, bắt mắt lúc trước nữa.
+Nói thật thì chẳng có gì lạ cả. Mà chính thế mới là lạ. Tôi cứ đinh ninh Augurey có mặc gì thì cũng sẽ lòe loẹt đến chói mắt, vậy mà giờ trông anh ta lại hết sức bình thường. Anh ta khoác một chiếc áo măng tô nâu, cả bộ đồ toàn tông màu trầm tối. Đến cả đôi giày cũng cùng tông màu. Chẳng còn sót lại chút bóng dáng nào của vẻ ngoài rực rỡ, bắt mắt lúc trước nữa.
 
 Thấy chúng tôi nhìn chằm chằm như thể anh ta bị làm sao, chắc anh ta cũng nhận ra nên bật cười. "Này, đến tôi cũng biết nhìn trước ngó sau lựa hoàn cảnh chứ bộ. Bộ đồ lúc nãy mà mặc vào đây thì đâu có hợp. Hơn nữa tôi còn phải nghĩ cho hai người chứ. Hai người đã bảo không muốn gây chú ý nên tôi mới cố giúp một tay. Chẳng lẽ lại thành chuyện thừa thãi rồi à?"
 
@@ -46,7 +46,7 @@ Còn về việc mức thù lao này có tương xứng với công hái thiến
 
 "Vậy thì chúng tôi xin vui vẻ nhận lấy," tôi nói. "Nhưng tôi vẫn thấy thù lao này hậu hĩnh quá mức, nên ít nhất hãy để tôi trả tiền ăn ở đây nhé." Dĩ nhiên tôi tính lấy ngay một phần số tiền thù lao vừa nhận để trả rồi.
 
-Augurey có vẻ chẳng bận tâm. "Ồ, cảm ơn nhé. Anh không phiền nếu tôi gọi món gì đó chứ? Đồ ăn ở đây ngon thật đấy."
+Augurey có vẻ chẳng bận tâm. "Ồ, cảm ơn nhé. Cậu không phiền nếu tôi gọi món gì đó chứ? Đồ ăn ở đây ngon thật đấy."
 
 Nói ngoài lề một chút, thứ đồ uống chúng tôi vừa gọi là một món xa xỉ có tên arouzal. Nó được pha từ rễ nghiền nát của cây cỏ kazuki, trộn với chất lỏng chiết xuất từ hạt loa phơi khô rang chín. Dụng cụ chiết xuất trông rất kỳ lạ lại khó dùng, nên hương vị món này ở mỗi quán có thể khác nhau một trời một vực, nhưng quán này pha rất chuẩn. Dù vậy, nếu người ta không quá kén chọn mùi vị thì gần như ở đâu cũng có bán món này. Có điều vì nó khá phổ biến ở Vương Quốc Yaaran nên người dân bản địa thường rất khó tính về hương vị.
 
@@ -68,7 +68,7 @@ Hóa ra tôi với Augurey lại có rất nhiều điểm chung, nói mãi ch�
 
 "Được đấy, Rentt. Nhớ là cậu bao trọn gói đấy nhé."
 
-"Được rồi, tôi nhớ rồi. Hửm?" Tôi vừa đáp lời thì mới muộn màng nhận ra có gì đó là lạ. Ngẩng lên khỏi chiếc ví, tôi thấy Augurey đang mỉm cười, còn Lorraine thì nhìn tôi như nhìn một tên ngốc.
+"Được rồi, tôi nhớ rồi. Hửm?" tôi vừa đáp lời xong mới muộn màng nhận ra có gì đó sai sai. Ngẩng lên khỏi chiếc ví, tôi thấy Augurey đang mỉm cười, còn Lorraine thì nhìn tôi như nhìn một tên ngốc.
 
 "Biết ngay mà. Vậy cô chính là Lorraine, phải không?" Augurey quay sang hỏi cô.
 
@@ -100,7 +100,7 @@ Nói rồi, chúng tôi cùng nhau rảo bước đi tìm một bản khế ư�
 
 ◆◇◆◇◆
 
-Khế ước ràng buộc ma pháp có phẩm cấp rất đa dạng với đủ loại công dụng và hiệu lực khác nhau. Công dụng cơ bản và phổ biến nhất của chúng là trừng phạt bất kỳ ai vi phạm khế ước. Dẫu vậy, ngay cả loại thông thường cũng có phẩm cấp khác nhau. Người ta thường mua được chúng ở các Hội Mạo Hiểm Giả hoặc thương hội, nhưng thứ mà Augurey gọi là 'loại tốt' thì lại hơi khác. Loại đó không đơn thuần chỉ áp đặt hình phạt; chúng có quyền năng bắt tất cả những ai đã ký phải tuân theo các điều khoản của khế ước chừng nào nó còn tồn tại. Ngay cả trong giới khế ước ràng buộc ma pháp nói chung thì loại này cũng khá đặc biệt, và dù xét cho cùng chỉ là những mảnh giấy, giá của chúng lại khá đắt đỏ. Nếu bị dùng với ý đồ xấu thì chúng cực kỳ nguy hiểm, thành thử các hội đoàn không bày bán và người ta chỉ có thể dùng chúng ở vài nơi nhất định.
+Khế ước ràng buộc ma pháp có phẩm cấp rất đa dạng với đủ loại công dụng và hiệu lực khác nhau. Công dụng cơ bản và phổ biến nhất của chúng là trừng phạt bất kỳ ai vi phạm khế ước. Dẫu vậy, ngay cả loại thông thường cũng có phẩm cấp khác nhau. Người ta thường mua được chúng ở các Hội Mạo Hiểm Giả hoặc thương hội, nhưng thứ mà Augurey gọi là 'loại tốt' thì lại hơi khác. Loại đó không đơn thuần chỉ áp đặt hình phạt; chúng có quyền năng bắt tất cả những ai đã ký phải tuân theo các điều khoản của khế ước chừng nào nó còn tồn tại. Ngay cả trong số các loại khế ước ràng buộc ma pháp nói chung thì loại này cũng khá đặc biệt, và dù xét cho cùng chỉ là những mảnh giấy, giá của chúng lại khá đắt đỏ. Nếu bị dùng với ý đồ xấu thì chúng cực kỳ nguy hiểm, thành thử các hội đoàn không bày bán và người ta chỉ có thể dùng chúng ở vài nơi nhất định.
 
 "Tới nơi rồi," Augurey lên tiếng khi chúng tôi dừng trước một tòa nhà bề thế. "Đây là ngôi đền ở vùng này thờ phụng Hozei, Thần Khế Ước."
 
@@ -118,7 +118,7 @@ Bên trong đền tràn ngập bầu không khí tĩnh lặng. Không chỉ mang
 
 "Chào mừng các vị đến với đền thờ của Hozei. Hôm nay các vị đến đây có việc gì?" một tư tế hỏi sau khi chúng tôi tiến vào bên trong một quãng khá xa.
 
-Ở phía cuối căn phòng rộng thênh thang có một bức tượng Hozei khổng lồ, và tôi thấy có những người đang cầu nguyện trước tượng. Một tay Hozei cầm quyền trượng thực thi công lý, tay kia cầm cán cân đảm bảo sự công bằng. Nàng để mái tóc dài và mặc trang phục rộng rãi. Đôi mắt nàng nhìn thẳng về phía trước, thể hiện niềm tin sắt đá như thể sẽ chẳng bao giờ dung thứ cho bất kỳ sự bất công nào. Nàng như đang hỏi những người đứng trước mặt mình rằng liệu họ đã chuẩn bị sẵn sàng gánh vác sức nặng của bản khế ước, hay chấp nhận hậu quả một khi phá vỡ chúng hay chưa. Thần linh có đủ loại tính cách, nhưng Hozei nổi tiếng là một trong những vị thần nghiêm khắc nhất. Tôi vốn thích những vị thần phóng khoáng dễ tính hơn, nhưng đây không phải chỗ để nhắc tới chuyện đó.
+Ở phía cuối căn phòng rộng thênh thang có một bức tượng Hozei khổng lồ, và tôi thấy có những người đang cầu nguyện trước tượng. Một tay Hozei cầm quyền trượng thực thi công lý, tay kia cầm cán cân đảm bảo sự công bằng. Bà để mái tóc dài và mặc trang phục rộng rãi. Đôi mắt bà nhìn thẳng về phía trước, thể hiện niềm tin sắt đá như thể sẽ chẳng bao giờ dung thứ cho bất kỳ sự bất công nào. Vị nữ thần như đang hỏi những người đứng trước mặt mình rằng liệu họ đã chuẩn bị sẵn sàng gánh vác sức nặng của bản khế ước, hay chấp nhận hậu quả một khi phá vỡ chúng hay chưa. Thần linh có đủ loại tính cách, nhưng Hozei nổi tiếng là một trong những vị thần nghiêm khắc nhất. Tôi vốn thích những vị thần phóng khoáng dễ tính hơn, nhưng đây không phải chỗ để nhắc tới chuyện đó.
 
 "Chúng tôi đến để xin một khế ước ràng buộc ma pháp có sự ban phước của Hozei," tôi nói với vị tư tế. Tôi không cần phải nói rõ phẩm cấp, bởi lẽ khế ước ràng buộc ma pháp thông thường đâu có sự ban phước của Hozei. Các đền thờ của Hozei cũng biết làm những bản khế ước tiêu chuẩn đó, nhưng ai cũng biết chúng được tạo ra từ một nhánh mở rộng của ma thuật thông thường. Tuy nhiên, thứ chúng tôi muốn lại là một bản khế ước ràng buộc ma pháp giới hạn hành vi của người ký, mà tạo ra chúng thì bắt buộc phải có Thần Lực. Tức là chúng được các Thánh Giả tạo ra và nhờ vậy mới nhận được sự ban phước của Hozei.
 

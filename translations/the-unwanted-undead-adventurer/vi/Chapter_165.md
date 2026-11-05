@@ -66,11 +66,11 @@ Thế nhưng, tôi vẫn biết rõ con dao săn đang ở đâu và nhìn thấ
 
 Nếu giờ chú chịu đổi ý mà tạm thời lùi lại thì tốt biết mấy, nhưng đời đâu như là mơ. Thay vào đó, Capitan dường như biết tỏng tôi muốn gì nên tiếp tục dồn ép ráo riết hơn. Cả mũi dao lẫn nắm đấm của chú đều tỏa ra áp lực ngột ngạt, nhưng ưu tiên hàng đầu của tôi là phải chặn được dao. Nắm đấm của chú có thể đập nát mặt tôi, nhưng dao săn thì sẽ xẻ thịt tôi. Và xem chừng tôi cũng chẳng thể trông mong chú dừng tay trước khi tôi dính đòn chí mạng. Capitan đang nghiêm túc thực sự. Để tránh bi kịch đó, tôi vung kiếm bám sát theo từng đường dao săn của chú.
 
-Thế rồi, nắm đấm của Capitan đột ngột dừng sững ngay trước mặt tôi. Tôi nhìn xuống và thấy con dao săn của chú đã bị kiếm của tôi chặn cứng. Chỉ cần chậm một tích tắc thôi là dao hoặc nắm đấm của chú đã giáng thẳng vào tôi gây trọng thương. Chú đã phối hợp cả hai để tạo thành một đòn liên hoàn hai tầng. Cố thì tôi cũng làm được đòn này thôi, nhưng cái đáng sợ ở Capitan là chú có thể áp sát và tung chiêu nhanh như chớp chỉ trong vài giây ngắn ngủi. Chưa hết, đợt tấn công của chú vẫn chưa dừng lại ở đó.
+Thế rồi, nắm đấm của Capitan đột ngột dừng sững ngay trước mặt tôi. Tôi nhìn xuống và thấy con dao săn của chú đã bị kiếm của tôi chặn cứng. Chỉ cần chậm một tích tắc thôi là mũi dao hoặc nắm đấm của chú đã giáng thẳng vào người tôi, gây thương tích nặng rồi. Chú đã phối hợp cả hai để tạo thành một đòn liên hoàn hai tầng. Cố thì tôi cũng làm được đòn này thôi, nhưng cái đáng sợ ở Capitan là chú có thể áp sát và tung chiêu nhanh như chớp chỉ trong vài giây ngắn ngủi. Chưa hết, đợt tấn công của chú vẫn chưa dừng lại ở đó.
 
 Capitan bật cười rồi nhảy vút lên không trung phía trên đầu tôi. Thoạt nhìn thì đây chẳng phải nước đi khôn ngoan cho lắm. Nhảy lên không trung ở cự ly giáp lá cà thường là điều tối kỵ, bởi lơ lửng giữa trời thì chẳng thể xoay xở đổi hướng được. Thấy cơ hội ngàn vàng, tôi đâm thẳng kiếm vào chỗ sơ hở nhất của Capitan: phần bụng của chú.
 
-Nhưng ngay trước khi mũi kiếm kịp đâm xuyên bụng, Capitan bằng cách nào đó đã né được đòn đánh nhờ trượt ngang song song với mặt đất một cách kỳ dị. Mũi kiếm của tôi đâm hụt vào không khí. Tôi nheo mắt nhìn xem có chuyện gì thì thấy một vệt sáng lấp lánh theo hướng Capitan vừa lướt qua. Chắc hẳn là một sợi dây nào đó.
+Nhưng ngay trước khi mũi kiếm kịp đâm trúng bụng, chẳng hiểu bằng cách nào Capitan lại lướt ngang song song với mặt đất trông cực kỳ quái dị để né đòn. Mũi kiếm của tôi đâm hụt vào không khí. Tôi nheo mắt nhìn xem có chuyện gì thì thấy một vệt sáng lấp lánh theo hướng Capitan vừa lướt qua. Chắc hẳn là một sợi dây nào đó.
 
 Tôi chợt nhớ phục vụ cho công việc thợ săn, Capitan thường mang theo một loại dây rất chắc làm từ các bộ phận quái vật. Loại dây này dùng để sửa dụng cụ hoặc treo con mồi, đủ bền để chịu được cả sức nặng của chú mà không đứt. Chắc chắn là chú vừa dùng nó rồi. Có điều tôi chưa từng thấy chú dùng dây kiểu này bao giờ. Hẳn là chú đã luyện thêm ngón nghề này trong suốt thời gian tôi rời làng. Đúng là đáng nể thật. Tôi đảo mắt nhìn quanh nhưng không thấy gì bất thường, song thấy vậy thì đoán chắc quanh đây còn đầy bẫy rập. Chính chú đã dạy tôi chỉ cần thắng thì chơi chiêu gì cũng được, và giờ chú đang đem ra xài với tôi đây. Cơ mà giá như chú nương tay với đệ tử một chút thì tốt biết mấy.
 
@@ -104,7 +104,7 @@ Capitan xoay xở đỡ được đòn kiếm, nhưng nhịp điệu của chú 
 
 Quá hiểu tính chú, tôi đã tính đến nước chú đỡ được đòn này. Dẫu sao đây cũng là người đã dạy tôi kỹ năng Khí Lực và những bài học căn bản về chiến đấu. Những gì chú thể hiện từ nãy đến giờ đều không nằm ngoài dự liệu, nhưng lúc này tôi bỗng nảy ra một ý. Tôi dồn một lượng Khí Lực khổng lồ ra sau lưng.
 
-Capitan cứ ngỡ đã chặn đứng được kiếm của tôi, nhưng giờ thì chú bắt đầu hoảng hốt. Chú không sao ghìm lại nổi. Sức mạnh thể chất của tôi cộng hưởng với áp lực Khí Lực trên lưỡi kiếm, thêm cả lực đẩy phi nhân loại dồn mạnh từ sau lưng, bấy nhiêu đó là quá sức chịu đựng ngay cả với một người như Capitan.
+Capitan cứ ngỡ đã chặn đứng được kiếm của tôi, nhưng giờ thì chú bắt đầu hoảng hốt. Chú không sao ghìm lại nổi. Sức mạnh thể chất của tôi cộng hưởng với áp lực Khí Lực trên lưỡi kiếm, thêm cả lực đẩy mạnh vượt sức người dồn tới từ sau lưng, bấy nhiêu đó là quá sức chịu đựng ngay cả với một người như Capitan.
 
 Không trụ nổi nữa, chú bị đòn đánh hất văng ngược về sau. Bản thân tôi cũng bị lực đẩy kéo lao thẳng tới theo chú. Lưng chú đập sầm vào một thân cây, quật gãy nó với một tiếng ầm vang dội.
 
