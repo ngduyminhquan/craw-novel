@@ -1,8 +1,8 @@
 # Chương 176: Ngoại truyện Tập 7 - Niềm Tin Của Quý Tộc (4)
 
-"Nói thì nói vậy, chứ tôi bắt đầu thấy hối hận vì đã đến tận đây rồi đấy," bá tước cười gượng bảo.
+"Nói thì nói vậy, chứ tôi bắt đầu thấy hối hận vì đã đến tận đây rồi đấy," bá tước cười khổ nói.
 
-Cây cối bốn bề ken dày, chỉ riêng lối đi phía trước là thoáng đãng đến khác thường, nhưng nhìn qua là cả bốn người họ tự hiểu ngay nguyên do. Sừng sững giữa bãi đất trống là một cây cổ thụ khổng lồ. Nó cao ít nhất cũng vài chục mét, thân và cành nhánh to lớn đến rợn người. Thoạt nhìn thì chẳng khác gì một loài cây bình thường, nhưng thực chất lại là thứ hoàn toàn khác.
+Cây cối bốn bề ken dày, chỉ riêng lối đi phía trước là thoáng đãng đến khác thường, nhưng nhìn qua là cả bốn người họ tự hiểu ngay nguyên do. Sừng sững giữa bãi đất trống là một cây cổ thụ khổng lồ. Nó cao ít nhất cũng vài chục mét, thân và cành nhánh to lớn đến rợn người. Thoạt nhìn thì chẳng khác gì một cái cây bình thường, nhưng thực chất lại là thứ hoàn toàn khác.
 
 "Nhìn dòng chảy Ma Lực là biết đây là quái vật rồi," Lorraine nói. "Là Ent Cổ Đại đấy."
 
@@ -16,7 +16,7 @@ Nó to lớn đến mức con người khó lòng hạ gục nổi. Trên đư�
 
 "Với quái vật thì kích thước to nhỏ chẳng nói lên được mấy đâu," Lorraine nói. "Có điều Ent Cổ Đại còn biết dùng ma pháp nữa, nên đúng là đối thủ khó nhằn đấy."
 
-"Đã đánh đâu cơ chứ. Đừng vội hết hy vọng thế, Curt. Tụi tôi xoay xở được mà, cứ chờ xem. Bắt đầu luôn nhé?" Rentt hỏi.
+"Đã đánh đâu cơ chứ. Đừng vội hết hy vọng thế, Curt. Chúng tôi xoay xở được mà, cứ chờ xem. Bắt đầu luôn nhé?" Rentt hỏi.
 
 Ba mạo hiểm giả chẳng cần vạch kế hoạch gì cụ thể, cứ thế lao thẳng ra bãi đất trống. Đúng lúc đó, con Ent Cổ Đại trồi lên khỏi mặt đất, làm đất đá nứt toác khi toàn bộ thân hình đồ sộ lộ diện. Trông nó như một gã khổng lồ kết bằng cây rừng. Một cái vung tay của nó cũng tạo ra luồng gió dữ dội, và khi nó gom tụ Ma Lực, những cọc cây nhọn hoắt mọc tua tủa khắp nơi rồi bắn vút đi như tên. Đúng là quái vật dữ dằn.
 
@@ -34,9 +34,9 @@ Bá tước tự hỏi làm sao họ thắng nổi, nhưng những mạo hiểm 
 
 Lorraine phóng ra mấy quả cầu lửa to gấp nhiều lần một đòn Foteia Borivaas thông thường. Bá tước sợ ngọn lửa sẽ thiêu rụi cả khu rừng, nhưng may mà không phải vậy. Mấy quả bay trượt trúng vào hàng cây phía sau con ent chỉ làm chúng cháy sém đôi chút. Thế nhưng ba quả nện thẳng vào con Ent Cổ Đại đã thiêu rụi sạch cành nhánh của nó.
 
-Cảnh tượng ấy làm bá tước hốt hoảng, bởi ngọn lửa rất có thể sẽ thiêu rụi cả đám lá cây. Thế nhưng thực tế lại không hề có chuyện đó. Lửa tắt lịm trước khi lan tới chỗ lá. Đến cả bá tước cũng hiểu ra nguyên do: Lorraine đang kiểm soát phạm vi cháy. Vốn dĩ ma pháp khi đã bay xa khỏi người thi triển thì rất khó kiểm soát, còn điều khiển được nó sau khi đã nện trúng kẻ địch thì lại càng ngoài sức tưởng tượng. Ngay cả ma pháp sư trong quân đội của bá tước cũng không làm nổi vì đây là kỹ thuật cực kỳ cao cấp. Vậy mà Lorraine lại có thể vừa làm ngon ơ vừa thong thả trò chuyện. Trình độ ma pháp của cô quả thực khiến người ta phải thán phục.
+Cảnh tượng ấy làm bá tước hốt hoảng, bởi ngọn lửa rất có thể sẽ thiêu rụi cả đám lá cây. Thế nhưng thực tế lại không hề có chuyện đó. Ngọn lửa dừng lại trước khi cháy lan tới chỗ lá. Đến cả bá tước cũng hiểu ra nguyên do: Lorraine đang kiểm soát phạm vi cháy. Vốn dĩ ma pháp khi đã bay xa khỏi người thi triển thì rất khó kiểm soát, còn điều khiển được nó sau khi đã nện trúng kẻ địch thì lại càng ngoài sức tưởng tượng. Ngay cả ma pháp sư trong quân đội của bá tước cũng không làm nổi vì đây là kỹ thuật cực kỳ cao cấp. Vậy mà Lorraine lại có thể vừa làm việc đó vừa thong thả trò chuyện. Trình độ ma pháp của cô quả thực khiến người ta phải thán phục.
 
-"Hử, cừ đấy chứ," Hayden vừa vung kiếm vừa bảo. "Cô nhận mình là Ngân Cấp, nhưng bản lĩnh cỡ đó thì đủ sức so kè với Kim Cấp rồi."
+"Hử, cừ đấy chứ," Hayden vừa vung kiếm vừa bảo. "Cô bảo mình là Ngân Cấp, nhưng bản lĩnh cỡ đó thì đủ sức so kè với Kim Cấp rồi."
 
 "Tôi cũng mong là thế."
 
@@ -48,7 +48,7 @@ Hayden nhìn sang Rentt, người đang áp sát con Ent Cổ Đại nhất, v�
 
 "Tôi vốn khá tự tin vào khả năng né đòn, nhưng bảo đứng sát một con quái vật như thế lâu đến vậy thì tôi cũng chịu. Rentt không biết sợ là gì à?" Hayden hỏi với vẻ sửng sốt, nói về Rentt cứ như đang nhắc tới một sinh vật đầy bí ẩn.
 
-"Sợ ư? Có khi anh ấy chẳng biết sợ thật đâu," Lorraine gượng cười đáp.
+"Sợ ư? Có khi anh ấy chẳng biết sợ thật đâu," Lorraine mỉm cười lấp lửng đáp.
 
 "Ồ? Nhưng làm sao có chuyện đó được?"
 
@@ -58,13 +58,13 @@ Mạo hiểm giả dù có ba hoa đến đâu thì trong lòng ít nhiều vẫ
 
 "Chắc chỉ cần được đấu với một con quái vật cỡ này là anh ấy thấy sướng rồi. Thành ra mới quên bẵng cả sợ hãi, chỉ thế thôi."
 
-"Cái gì? Cậu ta là Đồng Cấp á? Vô lý thật. Thực lực cỡ đó, tôi cứ ngỡ phải lên Ngân Cấp rồi chứ."
+"Cái gì? Anh ta là Đồng Cấp á? Vô lý thật. Thực lực cỡ đó, tôi cứ ngỡ phải lên Ngân Cấp rồi chứ."
 
-Khi mạo hiểm giả được chỉ định đích danh cho ủy thác, họ chỉ cần ký tên chứ không phải ghi cấp bậc. Phía Hội mặc định người thuê đã bàn bạc trước với mạo hiểm giả nên nhân viên cũng chẳng buồn hỏi cấp. Thành ra tận bây giờ Hayden mới nghe nói tới cấp bậc của Rentt. Anh cứ đinh ninh cậu ta là Ngân Cấp, nào ngờ lại không phải.
+Khi mạo hiểm giả được chỉ định đích danh cho ủy thác, họ chỉ cần ký tên chứ không phải ghi cấp bậc. Phía Hội mặc định người thuê đã bàn bạc trước với mạo hiểm giả nên nhân viên cũng chẳng buồn hỏi cấp. Thành ra tận bây giờ Hayden mới nghe nói tới cấp bậc của Rentt. Anh cứ đinh ninh Rentt là Ngân Cấp, nào ngờ lại không phải.
 
 "Chà, chuyện dài dòng lắm. Nhưng chuyện đó đâu làm giảm thực lực của anh ấy."
 
-"Đương nhiên rồi. Đâu phải Ngân Cấp nào cũng làm được như cậu ta. Đến tôi mà muốn xoay xở như thế cũng thấy trầy trật nữa là."
+"Đương nhiên rồi. Đâu phải Ngân Cấp nào cũng làm được như anh ta. Đến tôi mà muốn xoay xở như thế cũng thấy trầy trật nữa là."
 
 "Dạo gần đây anh ấy mới tiến bộ vượt bậc như thế. Thế nên mới hào hứng đấy."
 
@@ -72,7 +72,7 @@ Khi mạo hiểm giả được chỉ định đích danh cho ủy thác, họ c
 
 Phần lớn mạo hiểm giả chẳng bao giờ vượt qua nổi Đồng Cấp. Không ít người chôn chân hàng năm trời, thậm chí cả chục năm mà chẳng nhích lên được. Thế nhưng có một số ít, sau nhiều năm kiên trì rốt cuộc cũng ngộ ra điều gì đó rồi đột phá thực lực trong chớp mắt. Những người như vậy được ví là đã phá kén vươn lên. Hayden nghĩ Rentt chính là một trong số họ.
 
-"Nhưng mấy người kiểu đó lại hay có tật lao đầu vào nguy hiểm. Nhìn cách cậu ta đánh lúc này thì chưa đến mức đáng ngại, nhưng tốt nhất chúng ta nên dứt điểm chuyện này cho sớm."
+"Nhưng mấy người kiểu đó lại hay có tật lao đầu vào nguy hiểm. Nhìn cách anh ta đánh lúc này thì chưa đến mức đáng ngại, nhưng tốt nhất chúng ta nên dứt điểm chuyện này cho sớm."
 
 "Được. Tôi sẽ mở đường. Hayden, anh đâm xuyên trán con Ent Cổ Đại giúp tôi."
 
@@ -90,9 +90,9 @@ Lorraine gật đầu. "Theo quan sát vừa rồi của tôi thì đúng là th
 
 "Hiểu rồi, ra đây là cách cô mở đường," anh nói rồi lao vụt về phía mục tiêu. Tiếp cận được gã khổng lồ bằng gỗ, anh bật nhảy lên cao, giương kiếm quá đầu. "Rentt, lùi lại!" anh hét lớn.
 
-Nếu Rentt mải đánh đến mất trí như lời Lorraine nói thì hẳn đã chẳng nghe thấy tiếng gọi, vậy mà cậu ta lại thoái lui nhanh đến bất ngờ. Xem ra cậu ta không hề bị kích động đến thế. Biết đâu Rentt không biết sợ là vì lý do khác. Hayden đầy bụng thắc mắc, nhưng đây không phải lúc nghĩ ngợi. Dù hai người họ dường như có bí mật gì đó, nhưng họ đã làm việc cực kỳ xuất sắc và cho thấy bản lĩnh khoáng đạt đúng chất mạo hiểm giả. Giờ chẳng có lý do gì để không tin tưởng họ. Việc duy nhất Hayden có thể làm lúc này là dồn lực bổ thanh kiếm xuống con quái vật.
+Nếu Rentt đang quá phấn khích như lời Lorraine nói thì có khi đã chẳng nghe thấy tiếng Hayden gọi, vậy mà anh lại lùi ra nhanh đến bất ngờ. Xem ra anh không hề hăng máu đến mức mất kiểm soát như vậy. Biết đâu Rentt không biết sợ là vì lý do khác. Hayden đầy bụng thắc mắc, nhưng đây không phải lúc nghĩ ngợi. Dù hai người họ dường như có bí mật gì đó, nhưng họ đã làm việc cực kỳ xuất sắc và cho thấy bản lĩnh khoáng đạt đúng chất mạo hiểm giả. Giờ chẳng có lý do gì để không tin tưởng họ. Việc duy nhất Hayden có thể làm lúc này là dồn lực bổ thanh kiếm xuống con quái vật.
 
-"Nếm đòn này đi!" Hayden gầm lên, cắm phập lưỡi kiếm vào trán con Ent Cổ Đại. Lớp vỏ cây anh chém lúc nãy cứng hơn nhiều, nên anh không khỏi bất ngờ khi thấy mũi kiếm xuyên qua dễ như bỡn, ngập sâu vào tận lõi con quái vật. Con Ent Cổ Đại rú lên một tiếng khiến ngay cả Mandragora nghe thấy cũng phải bạt vía, rồi đổ ầm xuống đất sau một tiếng vang trời.
+"Nếm đòn này đi!" Hayden gầm lên, cắm phập lưỡi kiếm vào trán con Ent Cổ Đại. Lớp vỏ cây anh chém lúc nãy cứng hơn nhiều, nên anh không khỏi bất ngờ khi thấy mũi kiếm xuyên qua dễ dàng đến thế, cắm sâu vào tận bên trong con quái vật. Con Ent Cổ Đại rú lên một tiếng khiến ngay cả Mandragora nghe thấy cũng phải bạt vía, rồi đổ ầm xuống đất sau một tiếng vang trời.
 
 ◆◇◆◇◆
 
@@ -112,13 +112,13 @@ Nếu Rentt mải đánh đến mất trí như lời Lorraine nói thì hẳn �
 
 "Hóa ra tôi đoán đúng thật à? Thế thì dễ hiểu rồi. Hẳn thần linh đã lo xảy ra dịch bệnh."
 
-"Chắc là vậy rồi. May mà chuyến này chúng ta thu hoạch được rất nhiều lá Ent Cổ Đại. Dù sớm muộn gì cũng sẽ dùng hết, nhưng ít nhất ta đã biết chỉ cần tăng dược tính của thuốc lên là được. Tôi sẽ thử nghiên cứu thêm các phương thuốc khác không cần đến lá Ent Cổ Đại," bá tước quả quyết. Nói thì dễ hơn làm, nhưng ông quyết tâm làm cho bằng được. Đã được ban cho cơ hội này, ông quyết không bỏ phí. "Vậy chúng tôi xin phép lên đường sớm thôi. Nếu có dịp ghé lại Maalt, rất mong hai người chịu gặp tôi. Cảm ơn hai người rất nhiều vì đã giúp đỡ!"
+"Chắc là vậy rồi. May mà chuyến này chúng ta thu hoạch được rất nhiều lá Ent Cổ Đại. Dù sớm muộn gì cũng sẽ dùng hết, nhưng ít nhất chúng ta đã biết chỉ cần tăng dược tính của thuốc lên là được. Tôi sẽ thử nghiên cứu thêm các phương thuốc khác không cần đến lá Ent Cổ Đại," bá tước quả quyết. Nói thì dễ hơn làm, nhưng ông quyết tâm làm cho bằng được. Đã được ban cho cơ hội này, ông quyết không bỏ phí. "Vậy chúng tôi xin phép lên đường sớm thôi. Nếu có dịp ghé lại Maalt, tôi rất mong sẽ được gặp lại hai người. Cảm ơn hai người rất nhiều vì đã giúp đỡ!"
 
 Nói rồi, bá tước rời khỏi Maalt.
 
 ◆◇◆◇◆
 
-"Lần này anh liều lĩnh quá đấy," Lorraine bảo tôi trong lúc hai đứa ăn tối ở nhà sau khi Bá tước Robista rời đi.
+"Lần này anh liều lĩnh quá đấy," Lorraine bảo tôi trong lúc chúng tôi ăn tối ở nhà sau khi Bá tước Robista rời đi.
 
 "Thế à? Tôi thấy mình đánh khá đấy chứ, nhất là trước một đối thủ khổng lồ như con Ent Cổ Đại. Lại còn tận dụng được cả kinh nghiệm đánh Ent Bụi Cây nữa."
 
@@ -128,7 +128,7 @@ Nhưng Lorraine lắc đầu bảo: "Tôi không nghĩ bản thân trận đánh
 
 "Ồ. Thật à?"
 
-"Lúc rơi vào thế hơi nguy hiểm, anh đã dùng một năng lực đáng ra không được phép dùng, đúng không? Áo choàng che mất nên người ngoài không thấy, nhưng tôi dùng ma nhãn thì thấy một phần cơ thể anh biến mất trong thoáng chốc."
+"Lúc rơi vào thế hơi nguy hiểm, anh đã dùng một năng lực mà đáng lẽ mình không thể có, đúng không? Áo choàng đã che bớt đi, nhưng khi dùng ma nhãn, tôi vẫn thấy một phần cơ thể anh biến mất trong thoáng chốc."
 
 "Thì đúng, nhưng ngoài cô ra chắc chẳng ai nhìn thấu được đâu."
 
@@ -140,7 +140,7 @@ Người càng mạnh thì càng hay giấu những chiêu lợi hại nhất, c
 
 "Ra vậy, cái cớ đó cũng không tồi. Đến tôi còn chưa hiểu hết chiếc áo choàng đó nữa là. Có khi anh ta cũng đành phải chấp nhận lời giải thích ấy thôi. Ít ra anh cũng biết tính trước một bước."
 
-"Kìa, thỉnh thoảng tôi cũng biết động não chứ sao. Nhưng dù sao thì sau này tôi sẽ cẩn thận hơn."
+"Này, thỉnh thoảng tôi cũng biết động não chứ bộ. Nhưng dù sao thì sau này tôi sẽ cẩn thận hơn."
 
 "Anh hiểu là tốt rồi. Dù sao anh cũng chẳng muốn gây chú ý quá làm gì."
 
@@ -154,13 +154,13 @@ Một tháng sau.
 
 "Gì thế?"
 
-"Nhìn gia huy mà không nhận ra à?"
+"Anh nhìn gia huy mà không nhận ra à?"
 
 Dấu sáp niêm phong trên phong thư trông quen mắt thật. Đó chính là biểu tượng thêu trên áo của Curt. Nghĩa là thư từ Bá tước Robista gửi tới.
 
 "Vậy là ông ấy về đến nhà bình an rồi."
 
-"Ừ. Mong là thuốc có hiệu quả," Lorraine nói rồi mở thư ra đọc. Tôi đứng sau lưng cô ghé mắt đọc cùng. Đáng ra cô có thể đọc trước khi tôi về, nhưng xem chừng lại muốn đợi đọc chung với tôi. Cũng chu đáo ra phết.
+"Ừ. Mong là thuốc có hiệu quả," Lorraine nói rồi mở thư ra đọc. Tôi đứng sau lưng cô ghé mắt đọc cùng. Đáng ra cô có thể đọc trước khi tôi về, nhưng xem chừng lại muốn đợi đọc chung với tôi. Thật chu đáo quá.
 
 "Xem chừng thuốc có tác dụng tốt đấy chứ," tôi nói.
 
@@ -170,10 +170,10 @@ Dấu sáp niêm phong trên phong thư trông quen mắt thật. Đó chính l�
 
 "Chưa chắc đâu. Ông ấy cũng viết là tỷ lệ lây nhiễm vẫn chưa hề thuyên giảm. Chắc chắn trận chiến này mới chỉ bắt đầu thôi. Dịch bệnh bao giờ cũng thế mà. Nhưng Bá tước Robista là người đứng đầu lãnh địa đó, lại biết cách đối phó chuẩn xác, nên tôi tin sớm muộn gì ông ấy cũng sẽ dập tắt được nó thôi."
 
-"Phải rồi. Tụi mình có nên viết thư hồi âm không? Nhắn bảo ông ấy cứ liên hệ với mình nếu cần săn thêm con Ent Cổ Đại nào khác."
+"Phải rồi. Chúng ta có nên viết thư hồi âm không? Nhắn bảo ông ấy cứ liên hệ với mình nếu cần săn thêm con Ent Cổ Đại nào khác."
 
-"Ồ, ý hay đấy. Cứ làm vậy đi. Cơ mà khéo tụi mình lại phải nhờ Hayden giúp một tay."
+"Ồ, ý hay đấy. Cứ làm vậy đi. Cơ mà khéo chúng ta lại phải nhờ Hayden giúp một tay."
 
 "Được kề vai chiến đấu cùng nhau lần nữa thì cũng vui. Nhưng mong là không đến mức phải làm vậy."
 
-Trong lúc hai đứa ngồi trò chuyện, Lorraine đã viết xong thư rồi đem gửi. Hai tuần sau, chúng tôi nhận được một bức thư khác từ Bá tước Robista báo rằng dịch bệnh do loài bọ quái vật gây ra đã bị chặn đứng. Chúng tôi còn nhận được cả thư cảm ơn từ con gái ông ấy nữa. Ngày hôm đó, Lorraine và tôi đã cùng mở một chai rượu ngon để ăn mừng.
+Trong lúc chúng tôi ngồi trò chuyện, Lorraine đã viết xong thư rồi đem gửi. Hai tuần sau, chúng tôi nhận được một bức thư khác từ Bá tước Robista báo rằng dịch bệnh do loài bọ quái vật gây ra đã bị chặn đứng. Chúng tôi còn nhận được cả thư cảm ơn từ con gái ông ấy nữa. Ngày hôm đó, Lorraine và tôi đã cùng mở một chai rượu ngon để ăn mừng.
