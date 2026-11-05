@@ -1,165 +1,165 @@
 # Chương 139: Tập 6 Chương 2 - Tiệc Chào Mừng Và Nguồn Gốc Của Rentt (2)
 
-"Xin lỗi vì tôi đã xen vào," Lorraine lập tức đáp. Khi tưởng nhớ những người đã khuất, sự hiện diện của người khác có thể gây phiền toái. Rentt đang hội ngộ với người đã khuất, và Lorraine không muốn làm phiền anh. Không ai nên ngắt quãng giây phút ấy.
+"Xin lỗi vì tôi đã xen ngang nhé," Lorraine lập tức đáp. Khi đang tưởng nhớ người đã khuất, có thêm người khác ở bên dễ gây phiền toái. Rentt đang đến thăm người đã khuất, và Lorraine không hề muốn làm phiền anh. Chẳng ai nên quấy rầy giây phút ấy cả.
 
-"Không sao đâu," Rentt nói. Anh giữ lấy cánh tay cô khi cô toan rời đi. "Tôi đoán là ba đã nói cho cô biết tôi ở đây."
+"Không sao đâu mà," Rentt nói rồi giữ tay cô lại khi cô toan quay bước. "Chắc là ba bảo cô tôi ở đây đúng không."
 
-Chắc hẳn anh đang ám chỉ Ingo, nhưng lúc trước Rentt đã gọi ông là "cha". Lorraine thắc mắc liệu có phải anh chủ ý gọi ông là "ba" lúc này vì đang đứng trước mộ cha mẹ ruột hay không. Nếu đó là một sự lựa chọn trong vô thức, cô nghĩ tốt nhất mình không nên đào sâu thêm.
+Chắc hẳn anh đang nói tới Ingo, nhưng lúc trước Rentt vẫn gọi ông là "cha". Lorraine tự hỏi liệu có phải vì đang đứng trước mộ cha mẹ ruột nên anh mới chủ ý đổi cách gọi thành "ba" hay không. Còn nếu chỉ là buột miệng vô thức, cô nghĩ tốt nhất không nên đào sâu làm gì.
 
-"Sao anh biết được? Anh không nghĩ là tự tôi tìm ra nơi này à?"
+"Sao anh biết hay thế? Bộ không nghĩ là tự tôi tìm được tới đây à?"
 
-"Nơi này cách khá xa phần còn lại của ngôi làng, và cô biết đấy, từ khi trở thành Undead, hành tung của tôi rất khó bị phát hiện. Ngay cả cô cũng khó lòng tự mình tìm ra tôi dễ dàng thế này. Vả lại, ba biết mỗi lần về thăm nhà tôi đều tới đây. Nơi này khiến tôi quên bẵng cả thời gian. Tôi thường nán lại lâu đến mức thể nào cũng có người phải đến gọi về."
+"Chỗ này nằm cách khá xa làng, với lại cô biết đấy, từ khi thành Undead thì người ta rất khó cảm nhận được dấu vết của tôi. Đến cả cô cũng đâu dễ gì tự lần ra tôi nhanh thế. Vả lại ba biết thừa mỗi lần về thăm nhà tôi đều ra đây. Ở đây làm tôi hay quên cả thời gian, lúc nào cũng ngồi lâu đến mức thế nào cũng phải có người ra gọi về."
 
-Có lẽ đó là lý do Ingo không hề nhắc đến việc nơi đây là một nghĩa trang. Nếu ông nói ra, Lorraine có thể đã ngần ngại không tới. Nhưng nếu những gì Rentt nói là thật, thì việc tìm anh ở đây là chuyện thường ngày ở huyện, nên cô chẳng có lý do gì phải cảm thấy áy náy cả. Lorraine quyết định nán lại và ngồi xuống.
+Có lẽ đó là lý do Ingo không hề đả động gì tới chuyện đây là nghĩa trang. Nếu ông nói trước, hẳn Lorraine đã ngại không tới. Nhưng nếu đúng như lời Rentt nói thì việc phải ra đây tìm anh là chuyện cơm bữa, cô cũng chẳng có lý do gì để thấy áy náy. Nghĩ vậy, Lorraine quyết định nán lại và ngồi xuống bên cạnh.
 
-"Hơn nữa, một khi cô đã về làng, cô cũng nên cùng tôi viếng thăm cha mẹ tôi," Rentt nói tiếp. "Cô là người bạn thân nhất của tôi bên ngoài ngôi làng này. Tôi tin chắc cha mẹ tôi cũng rất muốn gặp cô."
+"Với lại, đã cất công về đây rồi thì cô cũng nên cùng tôi viếng cha mẹ một chuyến chứ," Rentt nói tiếp. "Cô là người bạn thân nhất của tôi ở ngoài làng mà. Tôi tin cha mẹ cũng muốn gặp cô lắm."
 
-"Tôi hiểu rồi. Vậy thì tôi xin phép," Lorraine nói. Cô quỳ xuống trước những bia mộ và chắp tay cầu nguyện. "Cháu chào hai bác, cha mẹ của Rentt. Tên cháu là Lorraine Vivie. Cháu là bạn của con trai hai bác suốt mười năm qua." Cô giới thiệu bản thân rồi kể về những kỷ niệm bên nhau tại Maalt. "Sau này Rentt và cháu cũng sẽ còn gắn bó với nhau nhiều hơn nữa. Cháu xin cầu nguyện hai bác dõi theo chúng cháu từ trên thiên đàng," cô nói lời kết.
+"Thế à. Vậy thì tôi không khách sáo nữa nhé," Lorraine nói rồi quỳ trước những tấm bia đá, chắp hai tay cầu nguyện. "Cháu chào hai bác, cha mẹ của Rentt. Cháu tên là Lorraine Vivie, làm bạn với con trai hai bác suốt mười năm qua rồi ạ." Cô giới thiệu bản thân rồi kể về những kỷ niệm hai người từng trải qua ở Maalt. "Sau này Rentt và cháu vẫn sẽ còn đồng hành bên nhau dài dài. Cháu xin hai bác trên trời phù hộ cho chúng cháu," cô khép lại lời nguyện cầu.
 
 ![](images/ch139-01.webp)
 
-"Vừa rồi tôi mới thực sự thấm thía chúng ta đã cùng nhau trải qua nhiều chuyện đến nhường nào," Rentt lẩm bẩm. Bản thân anh đã nếm trải những biến cố đó và cũng lưu giữ những ký ức ấy, nhưng khi nghe kể lại dưới một góc nhìn khác, cảm giác lại thật kỳ lạ.
+"Giờ nghe lại tôi mới thật sự thấy hai đứa mình cùng trải qua biết bao nhiêu chuyện," Rentt lẩm bẩm. Tự anh đã trải qua tất cả những chuyện đó và cũng nhớ như in từng ký ức, nhưng nghe người khác kể lại dưới góc nhìn của họ thì cảm giác lại thật lạ lùng.
 
-"Anh vốn có xu hướng tự rước rắc rối vào mình mà. Dù vậy, so với vô vàn phiền toái dạo gần đây của anh, thì những chuyện rắc rối ngày xưa cũng chỉ là dạng mà bất cứ mạo hiểm giả nào cũng phải đối mặt."
+"Tại cái tính anh hay tự rước rắc rối vào người đấy thôi. Cơ mà so với hàng đống rắc rối dạo gần đây, thì mấy chuyện ngày xưa cũng chỉ là thứ mạo hiểm giả nào cũng gặp."
 
-"Đúng vậy. Tôi chưa bao giờ nghĩ mình lại đi viếng mộ của người chết trong khi bản thân mình cũng là kẻ đã chết. Thú thật là tôi cũng có đôi chút mong đợi đấy."
+"Cũng đúng. Tôi chưa từng nghĩ có ngày bản thân đã là người chết mà lại đi viếng mộ người chết. Thật tình là tôi cũng có đôi chút mong đợi đấy chứ."
 
-"Tại sao? Lần này thì có gì khác so với trước kia chứ?"
+"Sao cơ? Bộ lần này thì khác gì so với trước kia à?"
 
-"Tôi cứ nghĩ biết đâu bây giờ mình lại có khả năng nhìn thấy linh hồn và có thể gặp lại cha mẹ. Nhưng tiếc là tôi đã phải thất vọng."
+"Tôi cứ ngỡ biết đâu giờ mình lại nhìn thấy được linh hồn để gặp lại cha mẹ. Tiếc là vỡ mộng rồi."
 
-"Linh hồn sao? Chuyện đó khó đấy. Người ta nói rằng hầu hết các linh hồn đều đi qua Cổng Cõi Chết mà không vương vấn lại thế gian này. Chẳng có cách nào để triệu hồi họ trở về, trừ khi là một pháp sư Tử Linh. Nhưng ngay cả trong những trường hợp đó, người ta vẫn không rõ liệu thứ được gọi lên có thực sự là linh hồn hay không."
+"Linh hồn á? Thế thì khó đấy. Nghe đâu phần lớn các linh hồn đều đi qua Cổng Cõi Chết chứ không vương vấn lại trần thế. Trừ khi là pháp sư Tử Linh, bằng không chẳng có cách nào gọi họ về được đâu. Mà ngay cả trường hợp đó thì người ta cũng không dám chắc thứ được gọi lên có đúng là linh hồn thật hay không."
 
-"À thì, tôi cũng biết điều đó mà. Tôi cũng chẳng nghiêm túc đến thế đâu. Không sao cả," Rentt phân trần, nhưng trông anh có vẻ hơi hụt hẫng. Có lẽ anh đã kỳ vọng nhiều hơn những gì mình chịu thừa nhận.
+"Ừ thì tôi biết chứ, cũng đâu có nghiêm túc đến thế. Không sao đâu mà," Rentt thanh minh, nhưng trông anh có vẻ hơi hụt hẫng. Hẳn là anh đã nuôi nhiều hy vọng hơn những gì ngoài miệng chịu thừa nhận.
 
-"Xin lỗi vì gợi lại chuyện này, nhưng chẳng phải cha mẹ anh bị ma vật sát hại sao?" Lorraine hỏi, cảm thấy thật kỳ lạ nếu không đề cập đến chuyện đó khi họ đang ngồi bên phần mộ của hai người. Anh không nhất thiết phải chia sẻ nếu không muốn. Còn nếu anh không muốn nói, Lorraine tin chắc anh sẽ chủ động đổi chủ đề.
+"Xin lỗi vì khơi lại chuyện này, nhưng chẳng phải cha mẹ anh mất vì quái vật sao?" Lorraine hỏi, cảm thấy ngồi bên mộ hai người mà lờ tịt chuyện đó đi thì cũng kỳ. Nếu không muốn kể thì anh chẳng việc gì phải nói ra. Còn nếu Rentt không muốn, cô tin chắc anh sẽ tự biết cách lái sang chuyện khác.
 
-"Phải, đúng vậy," Rentt đáp, giọng điệu nhẹ nhõm hơn so với những gì Lorraine dự đoán.
+"Ừ, đúng thế thật," Rentt đáp, giọng thản nhiên hơn nhiều so với dự đoán của Lorraine.
 
-"Cha mẹ tôi từng sang một ngôi làng lân cận để bán nông sản đặc sản của làng. Thành thật mà nói thì họ đã gặp xui xẻo. Bình thường họ sẽ bán số hàng hóa đó cho một thương nhân lữ hành, người sẽ tự mình chuyển hàng sang làng bên, nhưng đợt đó ông ta lại đến muộn. Mùa đông đang cận kề, và chúng tôi thì đang rất cần tiền để sắm sửa những vật dụng thiết yếu. Đó là lý do vì sao cha mẹ và tôi, cùng với mẹ và con gái của trưởng làng, đã cùng nhau đến ngôi làng lân cận."
-
-◆◇◆◇◆
-
-"Tên của cha mẹ tôi được khắc trên bia mộ của họ. Cha tôi là Locusta, còn mẹ tôi là Melissa. Locusta có vẻ ngoài phong trần và thân hình vạm vỡ. Tôi chưa bao giờ nghĩ mình trông giống ông ấy, nhưng cha mẹ nuôi vẫn bảo tôi có ánh mắt của ông. Còn về vóc dáng, tôi thừa hưởng từ mẹ nhiều hơn, nhưng bà vốn xinh đẹp và được nhiều người mến mộ. Cha mẹ tôi khi ấy đã cưới nhau một thời gian, vậy mà cánh đàn ông vẫn đùa giỡn ngỏ lời cầu hôn bà. Dĩ nhiên là bà đều từ chối hết.
-
-"À phải rồi, còn có mẹ của trưởng làng, tức bà nội nuôi của tôi. Tên bà là Pravda. Bà trông khá giống bà lão làm thuốc mà tôi từng nhắc tới trước đây. Hai người họ là chị em ruột, nên âu đó cũng là lẽ đương nhiên. Bà lão làm thuốc sẽ trông y hệt bà ấy nếu khuôn mặt bà bớt dữ dằn đi nhiều và thon gọn hơn một chút. Nhưng tôi đoán nói vậy cũng chẳng giúp cô hình dung được gì. Tôi không thấy bà ấy ở bữa tiệc, nhưng nếu ngày mai chúng ta tới gặp bà, cô sẽ hiểu tôi đang nói gì. Ấn tượng đầu tiên của mọi người về Gharb là một bà lão cay nghiệt, và nếu cô tiếp xúc với bà một thời gian, cô sẽ thấy mình nghĩ chẳng sai chút nào đâu. Hầu hết lũ trẻ trong làng đều sợ bà ấy. Thỉnh thoảng bà cũng tốt bụng đến bất ngờ, nhưng tạm thời gác chuyện về bà qua một bên đã.
-
-"Chúng tôi đưa một bà lão lớn tuổi như vậy đi cùng chỉ vì Pravda giữ vai trò đại diện cho gia đình trưởng làng. Con gái của trưởng làng đi theo để xem bà nội mình làm việc. Và cô bé đi cũng là vì tôi đi. Chúng tôi là bạn thân của nhau. Nói đúng hơn thì, cô có thể coi chúng tôi như đã được đính ước từ trước. Cha mẹ tôi lớn lên cùng cha mẹ cô bé. Họ là bạn bè suốt cả đời, và tất cả bọn họ đều muốn chúng tôi lấy nhau. Hồi đó tôi có thể từ chối, nhưng lúc ấy tôi mới năm tuổi nên chẳng nghĩ ngợi gì nhiều. Dù vậy, tôi thật sự thích cô bé. Có lẽ tôi sẽ cân nhắc chuyện đó khi chúng tôi lớn hơn, nhưng rốt cuộc, giờ tôi chỉ có thể tự hỏi mọi chuyện sẽ ra sao nếu điều đó thành hiện thực.
-
-"Dù sao thì, đó là nhóm của chúng tôi. Lúc ấy tôi đinh ninh rằng đây chắc chắn sẽ là một chuyến đi thú vị. Điểm đến của chúng tôi là ngôi làng gần làng mình nhất, nên xét theo khoảng cách, tôi cũng không biết dùng từ 'chuyến đi' liệu có đúng không nữa. Bất kể thế nào, chẳng có con ngựa nào của Hathara đủ thể lực dẻo dai để kéo xe đường dài, nên chuyến đi dự kiến sẽ mất hai đến ba ngày. Còn về kết cục sau cùng của chuyến đi đó, tôi nghĩ cô cũng đã đoán ra rồi."
+"Hồi đó cha mẹ tôi sang làng bên để bán đặc sản của làng. Thật lòng mà nói thì đen đủi thôi. Bình thường mọi người sẽ bán cho một thương nhân lữ hành để ông ấy tự chở sang bên đó, ngặt nỗi đợt ấy ông ta lại tới muộn. Mùa đông sắp tràn về, cả làng đang rất cần tiền sắm nhu yếu phẩm. Thế là cha mẹ tôi, tôi, cùng mẹ và con gái trưởng làng mới cùng nhau sang ngôi làng bên cạnh."
 
 ◆◇◆◇◆
 
-"Rentt, Jinlin, hai đứa đã thu dọn hành lý xong chưa?" mẹ hỏi tôi và con gái trưởng làng. Việc bốc dỡ hành lý lên xe ngựa là công việc của cha tôi và các thanh niên trong làng, nên Jinlin và tôi không có nhiều việc để làm.
+"Tên cha mẹ tôi khắc ngay trên bia mộ này đây. Cha tôi là Locusta, còn mẹ là Melissa. Cha Locusta có gương mặt phong trần và vóc người vạm vỡ. Bản thân tôi chưa từng thấy mình giống ông, nhưng cha mẹ nuôi vẫn bảo tôi thừa hưởng đôi mắt của ông ấy. Còn về thể tạng thì tôi giống mẹ hơn, cơ mà mẹ tôi vừa đẹp lại vừa có tiếng trong vùng. Dù cha mẹ tôi đã cưới nhau từ lâu, khối gã đàn ông vẫn nửa đùa nửa thật đòi hỏi cưới bà. Dĩ nhiên là mẹ tôi gạt đi hết.
+
+"À phải rồi, còn có mẹ của trưởng làng, tức là bà nuôi của tôi nữa. Bà tên là Pravda, trông khá giống bà lão làm thuốc mà tôi từng kể. Hai người là chị em ruột nên cũng dễ hiểu thôi. Bà lão làm thuốc mà mặt thon hơn một chút với bớt vẻ dữ dằn đi nhiều thì trông y hệt bà Pravda luôn. Cơ mà tả thế chắc cô cũng chẳng hình dung nổi đâu. Tối nay ở bữa tiệc không thấy bà ấy, nhưng mai tôi dẫn cô qua gặp thì sẽ hiểu ngay. Ai mới gặp Gharb cũng nghĩ bà là một mụ già cay nghiệt, mà ở chung một dạo thì thấy đúng là chẳng sai chút nào. Lũ trẻ trong làng đứa nào cũng sợ bà một phép. Thỉnh thoảng bà cũng tốt bụng đến bất ngờ đấy, thôi nhưng tạm gác chuyện bà ấy lại đã.
+
+"Chuyến đi đó có một bà cụ già như vậy đi cùng là vì bà Pravda đại diện cho gia đình trưởng làng. Con gái trưởng làng thì bám theo để xem bà làm việc, với lại cô bé đi cũng vì có tôi đi cùng. Hai đứa chúng tôi vốn thân nhau từ nhỏ. Nói thẳng ra thì hai đứa coi như được hứa hôn từ bé. Cha mẹ tôi lớn lên cùng cha mẹ cô bé, thân nhau cả đời, ai cũng muốn vun vén cho hai đứa cưới nhau. Tôi hoàn toàn có thể từ chối, nhưng năm tuổi đầu thì biết cái gì mà nghĩ ngợi. Cơ mà tôi cũng thích cô bé thật. Có khi lớn lên tôi cũng sẽ tính đến chuyện đó, chỉ tiếc là giờ đây, tôi chỉ biết tự hỏi mọi chuyện sẽ ra sao nếu ngày ấy không xảy ra biến cố.
+
+"Dù sao thì đoàn chúng tôi gồm những người như thế đấy. Lúc ấy tôi cứ chắc mẩm đây sẽ là một chuyến đi thú vị. Điểm đến là ngôi làng gần Hathara nhất, nên nói về khoảng cách thì chẳng biết dùng từ 'chuyến đi' có quá lời không. Dù vậy, ngựa ở Hathara chẳng con nào đủ dai sức để kéo xe, nên đi cũng mất hai ba ngày trời. Còn về cái kết cục sau cùng của chuyến đi đó, tôi nghĩ cô cũng tự đoán ra rồi."
+
+◆◇◆◇◆
+
+"Rentt, Jinlin, hai đứa xếp đồ xong chưa nào?" mẹ hỏi tôi và con gái trưởng làng. Khuân vác đồ đạc lên xe đã có cha tôi cùng cánh trai làng lo, nên Jinlin với tôi chẳng có việc gì mấy để làm.
 
 "Vâng, chúng con xong rồi ạ," tôi đáp.
 
-"Xong hết rồi ạ! Cháu sẵn sàng đi bất cứ lúc nào rồi!" Jinlin đáp lời ngay sau tôi.
+"Xong xuôi hết rồi bác ơi! Lúc nào đi cũng được ạ!" Jinlin lanh chanh đáp theo.
 
-"Được rồi, vậy thì lên xe ngựa đi nào. Chắc hầu hết hành lý đều đã chất xong rồi đấy," mẹ tôi mỉm cười nói.
+"Được rồi, thế thì hai đứa lên xe đi nào. Đồ đạc chắc cũng chất xong gần hết rồi đấy," mẹ tôi mỉm cười bảo.
 
-Jinlin và tôi cùng bước về phía đó. Cô bé vừa đi vừa tíu tít trò chuyện. "Này, Rentt, cậu nghĩ ngôi làng bên kia trông như thế nào? Tớ chưa bao giờ đến làng khác cả. Tớ nóng lòng quá đi mất!"
+Tôi cùng Jinlin lon ton bước lại cỗ xe. Cô bé vừa đi vừa liến thoắng. "Này Rentt, cậu nghĩ làng bên kia trông thế nào nhỉ? Tớ chưa sang làng khác bao giờ cả. Háo hức quá đi mất!"
 
-Tôi cũng chưa từng bước chân ra khỏi làng bao giờ, và hầu hết lũ trẻ dưới mười tuổi trong làng cũng vậy. Ngoài kia có thể có ma vật hoặc đạo tặc. Không phải có nhiều đạo tặc thèm bén mảng đến gần một ngôi làng hẻo lánh như Hathara, nhưng vẫn có vài kẻ tha hương lưu vong kiếm sống quanh khu vực này. Mặt khác, ma vật lại tấn công bất cứ ai bất kể có kiếm chác được gì hay không. Người lớn có thể chạy trốn khỏi những con ma vật tầm thường, nhưng tốt nhất là trẻ con nên ở nhà.
+Tôi cũng chưa từng bước chân ra khỏi làng, mà hầu hết lũ trẻ dưới mười tuổi ở đây cũng thế. Ngoài kia có thể có quái vật hoặc kẻ cướp. Chẳng mấy tên cướp thèm bén mảng tới một ngôi làng hẻo lánh như Hathara, nhưng quanh vùng này vẫn có vài kẻ lưu đày vất vưởng kiếm sống. Còn quái vật thì khác, chúng thấy ai là tấn công người nấy, chẳng cần biết có xơ múi được gì hay không. Người lớn gặp quái vật tép riu thì còn chạy thoát được, chứ trẻ con thì tốt nhất cứ ru rú ở nhà.
 
-Tuy nhiên, vẫn có những trường hợp ngoại lệ. Nếu một đứa trẻ được kỳ vọng sẽ trở thành người lãnh đạo làng trong tương lai, cha mẹ hoặc những người thân khác sẽ đưa chúng ra ngoài làng từ khi còn nhỏ. Jinlin chính là một trường hợp như vậy.
+Cơ mà vẫn có ngoại lệ. Những đứa trẻ được nhắm để sau này gánh vác việc làng thì từ bé đã được cha mẹ hay họ hàng dẫn ra ngoài mở mang tầm mắt. Jinlin chính là một trường hợp như thế.
 
-Cha mẹ tôi chẳng phải thủ lĩnh của bất cứ thứ gì, và cha tôi cũng không phải người gốc làng này. Ông đã phiêu bạt một thời gian dài trước khi định cư ở Hathara, và dân làng rất coi trọng kinh nghiệm của ông. Ông thường được chọn làm đại diện cho ngôi làng mỗi khi cần phải đi ra bên ngoài. Còn mẹ tôi thì muốn đi cùng ông, nên họ không thể bỏ mặc tôi ở lại (trừ phi gửi tôi cho ai đó trông nom như họ từng làm trước đây). Nhưng giờ tôi đã năm tuổi, và họ nghĩ đã đến lúc tôi phải làm quen với những chuyến đi xa. Họ hy vọng một ngày nào đó tôi sẽ thay thế vị trí của cha trong những chuyến hành trình thế này.
+Cha mẹ tôi thì chẳng phải chức sắc gì trong làng, vả lại cha tôi cũng không phải người gốc Hathara. Ông từng bôn ba lữ hành suốt một thời gian dài trước khi dừng chân cắm rễ ở đây, nên dân làng rất quý trọng vốn kinh nghiệm từng trải của ông. Mỗi khi làng có việc phải đi ra ngoài, ông thường được cử làm đại diện. Mẹ tôi thì muốn đi theo cha, nên hai người chẳng nỡ bỏ tôi lại một mình (trừ khi gửi ai đó trông giúp như trước đây). Nhưng lúc đó tôi đã năm tuổi rồi, cha mẹ nghĩ cũng đến lúc cho tôi tập làm quen với những chuyến đi xa. Họ hy vọng sau này lớn lên tôi sẽ thay cha gánh vác những chuyến đi như thế này.
 
-Tuy nhiên, vào thời điểm đó, tôi vẫn chỉ là một đứa trẻ con và chẳng thể nói được gì nhiều cho Jinlin hay. "Tớ cũng không biết nữa," tôi nói. "Nhưng ngoài kia chắc là đáng sợ lắm. Mong là chúng mình không chạm trán con ma vật nào."
+Có điều hồi ấy tôi chỉ là đứa trẻ con, chẳng biết gì nhiều để nói cho Jinlin nghe. "Tớ cũng chịu thôi," tôi bảo. "Nhưng ngoài đó chắc đáng sợ lắm. Mong là tụi mình không đụng phải con quái vật nào."
 
-"Cậu đúng là đồ nhát cáy, Rentt. Cứ nói là cậu sẽ đập cho lũ ma vật một trận tơi bời đi chứ!" Jinlin hét lên. Cô bé thuộc tuýp người nghịch ngợm và hiếu động, kiểu đứa trẻ thích trèo cây và chơi đánh kiếm gỗ. Trái lại, tôi lại là một đứa trẻ sống nội tâm, chỉ thích ngồi ngoan ngoãn chơi xếp hình ở nhà.
-
-◆◇◆◇◆
-
-"Bất ngờ thật đấy," Lorraine nói. "Biết tính anh, tôi cứ ngỡ ngay từ hồi đó anh đã vung vẩy thanh kiếm gỗ khắp nơi rồi chứ."
-
-"Không hề đâu," tôi cười cay đắng đáp. "Mà cô đoán cũng chẳng trật bao nhiêu đâu. Tôi bắt đầu luyện tập ngay sau biến cố này mà. Dù sao thì, hồi ấy tôi đúng là một đứa trẻ như thế."
-
-"Một đứa trẻ ngoan ngoãn và rụt rè à?"
-
-"Tôi trông cũng khá nữ tính nữa, nhưng không phải vì tôi cố tình như vậy đâu. Ở một chừng mực nào đó thì bây giờ trông tôi vẫn thế, nhưng hồi đó ai nấy đều bảo tôi trông như một đứa con gái mỗi khi để tóc dài. Tôi cũng nhút nhát, và chưa bao giờ là đứa tự mình đi trèo cây cả."
-
-Theo những gì tôi nhớ, tính cách của tôi khá nữ tính. Tôi không biết liệu từ đó đến giờ điều ấy có thay đổi nhiều hay không, nhưng tôi không thể hình dung nổi có ai nhìn vào tôi thời điểm đó mà đoán được sau này tôi sẽ trở thành một mạo hiểm giả.
-
-"Sốc thật đấy. Chà, khuôn mặt anh có thể từng trông nữ tính. Nhưng bao năm làm mạo hiểm giả sẽ tôi luyện một người đàn ông trở nên cứng cỏi, nên tôi đồ rằng điều đó đã thay đổi mọi thứ," Lorraine nói.
-
-"Vậy ý cô là mặt tôi toát lên phong thái của một mạo hiểm giả sao?" tôi bông đùa hỏi.
-
-"Giờ thì khó mà nói được, xét đến chiếc mặt nạ này," cô đáp.
-
-"Tiếc thật đấy. Thôi nào, để tôi kể tiếp câu chuyện."
+"Cậu đúng là đồ nhát cáy, Rentt! Cứ mạnh dạn bảo sẽ đập cho lũ quái vật một trận tơi bời xem nào!" Jinlin la toáng lên. Cô bé vốn nghịch ngợm và hiếu động, là cái tạng trẻ con khoái trèo cây với chơi trò đánh kiếm gỗ. Trái lại, tôi hồi ấy lại rụt rè, chỉ thích quanh quẩn ở nhà ngoan ngoãn chơi trò xếp hình.
 
 ◆◇◆◇◆
 
-"Ồ, cháu sẽ đánh bại lũ ma vật giúp mọi người sao, Jinlin?" Pravda hỏi trong lúc Jinlin và tôi đang nói chuyện.
+"Bất ngờ thật đấy," Lorraine nói. "Biết tính anh, tôi cứ tưởng ngay từ hồi đó anh đã cầm kiếm gỗ múa may khắp nơi rồi cơ."
 
-"Vâng ạ!" Jinlin reo lên. "Hôm nọ cháu chơi trò mạo hiểm giả với Jal và Dol. Hai cậu ấy đóng vai Goblin, còn cháu làm mạo hiểm giả. Cháu đã hạ gục sạch bách bọn họ đấy ạ."
+"Không hề có đâu," tôi cười gượng đáp. "Cơ mà cô đoán cũng chẳng lệch là bao. Ngay sau biến cố này tôi đã bắt đầu lao vào tập luyện rồi. Dù sao thì hồi đó tôi đúng là đứa trẻ như thế đấy."
 
-"Có thật vậy không, Rentt?" Pravda quay sang hỏi tôi.
+"Một đứa nhóc ngoan ngoãn, bẽn lẽn ấy à?"
 
-"Vâng ạ. Cháu đóng vai tiếp tân ở Hội," tôi đáp.
+"Mặt mũi tôi hồi đó trông cũng ẻo lả như con gái, mà không phải tôi cố tình thế đâu nhé. Tới tận bây giờ phần nào trông tôi vẫn thế, nhưng hồi bé cứ hễ để tóc dài là ai cũng bảo tôi giống hệt con gái. Lại thêm cái tính nhát như thỏ đế, chẳng bao giờ tôi tự mình đi trèo cây cả."
 
-Pravda nghiêng đầu. "Bà nghĩ hai đứa đổi vai cho nhau thì đúng hơn đấy," bà lẩm bẩm.
+Theo trí nhớ của tôi thì tính tình tôi hồi đó cũng mềm yếu như con gái. Chẳng biết đến tận bây giờ điều đó đã thay đổi được bao nhiêu, nhưng tôi không thể tưởng tượng nổi có ai nhìn vào tôi lúc đó mà lại đoán được sau này tôi sẽ trở thành một mạo hiểm giả.
 
-Nghĩ lại thì bà nói đúng thật. Dẫu vậy, chúng tôi đều chơi những vai mình muốn, nên chẳng ai phàn nàn gì—ngoại trừ Jal và Dol, hai kẻ chẳng làm được gì ngoài việc cằn nhằn. Hai cậu ta luôn thua trò oẳn tù tì và chẳng có quyền lựa chọn. Chiêu ra của họ cực kỳ dễ đoán, nên Jinlin lúc nào cũng thắng. Cô bé là một đứa trẻ thông minh đến lạ kỳ. Còn về phần tôi, tôi cứ làm theo lời Jinlin dặn, nên lúc nào tôi cũng thắng theo. Coi như chúng tôi đã ngấm ngầm thông đồng chống lại họ, nhưng cũng rất vui.
+"Bất ngờ thật đấy. Mà thôi, nét mặt anh có thể từng ẻo lả, nhưng bao năm lăn lộn làm mạo hiểm giả sẽ tôi luyện người đàn ông trở nên sương gió dạn dày, nên tôi nghĩ chuyện đó cũng đổi khác rồi," Lorraine nói.
 
-"Jinlin, ma vật có thể dễ bị đánh bại khi cháu chơi trò đóng giả, nhưng ma vật thật sự thì đáng sợ lắm đấy," Pravda răn dạy. "Nếu chúng ta bị tấn công trong chuyến đi này, hãy hứa với bà là cháu sẽ bỏ chạy nhé."
+"Thế tức là mặt tôi giờ cũng toát lên cái chất của mạo hiểm giả rồi chứ gì?" tôi nửa đùa nửa thật hỏi.
 
-Pravda lúc nào cũng giữ vẻ hòa nhã, hiền từ, nhưng riêng lần này, giọng điệu của bà lại có phần gay gắt. Xét đến chủ đề đang nói, điều đó cũng hoàn toàn hợp lý.
+"Đang đeo cái mặt nạ thế kia thì ai mà biết được," cô đáp.
 
-Jinlin vốn không phải đứa trẻ hay ngoan ngoãn nghe lời, nhưng lần này cô bé dường như biết lắng nghe. "Cháu biết rồi, hôm qua cháu cũng nghe y hệt câu này rồi mà. Cháu sẽ ổn thôi ạ!" cô bé quả quyết.
-
-"Rentt, bà cũng định bảo cháu câu đó, nhưng bà tin chắc cháu sẽ tự mình bỏ chạy thôi."
-
-"Dĩ nhiên rồi ạ. Chẳng có gì quan trọng hơn tính mạng của mình cả."
-
-"Tốt lắm. Nhưng là một đứa con trai mà cháu lại chẳng có chút chí khí nào cả. Jinlin, cháu thích điểm gì ở thằng bé thế?"
-
-"Cháu thích vì cậu ấy dũng cảm ạ," Jinlin đáp. Thật khó để nhìn ra chút dũng cảm nào ở tôi vào thời điểm đó, nên Pravda tỏ ra bối rối trước câu trả lời của cô bé.
-
-Một lúc sau, bà nhìn chằm chằm vào tôi. "Bà chẳng thấy vậy chút nào," bà nói. "Ở thằng bé có vài điểm thú vị thật, nhưng dũng cảm á? Chà, nếu cháu đã nói thế thì chịu rồi. Thôi nào, đến giờ khởi hành rồi. Lên xe ngựa đi hai đứa."
+"Tiếc ghê. Thôi được rồi, để tôi kể tiếp."
 
 ◆◇◆◇◆
 
-Kể từ khoảnh khắc khởi hành vào sáng hôm đó, cỗ xe ngựa di chuyển không ngừng nghỉ cho đến khi chúng tôi tới đích. Jinlin, mặt mày tái mét và trông khá ốm yếu vì say xe, hỏi tôi liệu chúng tôi đã đến nơi chưa. Bất chấp mọi lời khoe khoang khoác lác lúc trước, cô bé lại có những điểm yếu không ai ngờ tới nhất. Tôi cũng chưa bao giờ đi xe ngựa trước đây, nhưng tôi lại vượt qua chuyến đi dài một cách hoàn toàn êm đẹp. Ngay cả bây giờ, tôi vẫn có thể đọc sách trên xe ngựa mà không hề bị say xe. Cứ ngỡ với tính cách của hai đứa thì phản ứng sẽ phải trái ngược nhau mới phải, nhưng cơ thể con người đúng là khó mà thấu hiểu hết được.
+"Ồ, cháu định đánh bại quái vật giúp mọi người đấy à, Jinlin?" Pravda cất tiếng hỏi giữa lúc hai đứa tôi đang ríu rít trò chuyện.
 
-"Ừ, đến nơi rồi Jinlin. Cậu có sao không? Nếu khó chịu thì cứ nôn ra đi," tôi nói.
+"Dạ vâng!" Jinlin khoái chí reo lên. "Hôm nọ cháu chơi trò mạo hiểm giả với Jal và Dol. Hai đứa nó đóng Goblin, còn cháu làm mạo hiểm giả. Cháu đã hạ gục sạch bách hai đứa nó đấy bà!"
 
-"Tớ ổn mà," Jinlin vừa bịt miệng vừa khăng khăng, "nhưng cháu muốn ra ngoài hít thở chút không khí trong lành. Được không bà?"
+"Có đúng thế không hả Rentt?" Pravda quay sang hỏi tôi.
 
-"Trời đất ơi, cháu y hệt cha cháu hồi còn nhỏ," Pravda nhận xét. "Được rồi, ra ngoài đi. Nhưng mọi người sắp dỡ hành lý rồi đấy, đừng có đi quá xa nhé."
+"Dạ đúng. Cháu đóng vai nhân viên tiếp tân ở Hội ạ," tôi đáp.
 
-Trong hoàn cảnh bình thường, chắc hẳn Jinlin đã chạy lăng xăng khám phá xung quanh rồi, nhưng tình trạng của cô bé lúc này chẳng cho phép làm vậy. Chúng tôi bước xuống xe và nhận ra mình đang ở một bến bốc dỡ hàng của thương hội nào đó. Trời đã muộn đến mức xung quanh chẳng còn cỗ xe nào khác. Đây là một thị trấn nhỏ, nên dẫu sao cũng ít có ai đem hàng hóa đến đây bán. Bến bốc dỡ này khá nhỏ và chủ yếu để các thương nhân chất hàng lên.
+Pravda nghiêng đầu khó hiểu. "Bà thấy hai đứa đổi vai cho nhau mới đúng chứ," bà lẩm bẩm.
 
-May mắn thay, các sản vật của Hathara đều bán được giá cao ở bất kỳ thị trấn nào. Cha tôi, nhờ kinh nghiệm phiêu bạt đó đây, cũng nắm rõ giá trị hàng hóa trên khắp vùng này, nên chúng tôi có thể bán được với mức giá thỏa đáng ở bất cứ nơi đâu đặt chân đến. Nếu không, chúng tôi đã có thể kiếm được nhiều hơn nếu lặn lội đến tận một thành phố như Maalt, ngay cả khi tính cả chi phí vận chuyển. Nhưng làm vậy cũng làm tăng nguy cơ đụng độ đạo tặc hoặc ma vật, nên chuyện gì cũng có cái được cái mất của nó. Vả lại thành thật mà nói thì Hathara cũng không đủ lớn để cần đến nhiều tiền của hay tài nguyên đến mức ấy.
+Nghĩ lại thì bà nói đúng thật. Cơ mà đứa nào cũng được nhận vai mình thích, nên chẳng ai phàn nàn gì—ngoại trừ Jal với Dol, hai đứa suốt ngày chỉ biết mè nheo kêu ca. Tụi nó toàn thua oẳn tù tì nên làm gì có quyền lựa chọn. Nước đi của hai đứa dễ đoán vô cùng, thế nên Jinlin lúc nào cũng thắng. Con bé khôn ranh đáo để. Còn tôi thì cứ răm rắp làm theo lời Jinlin dặn, thành thử cũng toàn thắng theo. Tính ra hai đứa tôi hơi thông đồng bắt nạt tụi nó một chút, nhưng mà vui ra phết.
 
-"Ư, tớ thấy khó chịu quá," Jinlin rên rỉ ngay cả khi chúng tôi đã ra ngoài.
+"Jinlin à, quái vật trong trò đóng giả thì dễ đánh đấy, chứ quái vật ngoài đời thật đáng sợ lắm con ơi," Pravda nghiêm giọng dặn. "Dọc đường đi mà lỡ bị tấn công, cháu phải hứa với bà là cắm đầu chạy thật nhanh đấy nhé."
 
-Bến bốc dỡ có mái che nên cảm giác không được thông thoáng cho lắm, vì vậy tôi nghĩ một chỗ rộng rãi hơn sẽ giúp cô bé cảm thấy dễ chịu hơn. "Jinlin, lối này," tôi nói rồi dắt cô bé đi theo mình. Dĩ nhiên là không quá xa, bởi tôi vẫn ghi nhớ lời Pravda dặn. Ít nhất chúng tôi vẫn có thể nhìn thấy cỗ xe ngựa.
+Bình thường bà Pravda lúc nào cũng hiền hòa, phúc hậu, nhưng riêng lần này giọng bà lại đanh thép khác hẳn. Mà nghĩ về chuyện quái vật thì bà nghiêm như vậy cũng phải thôi.
 
-Giờ khi đã ra một nơi thoáng đãng hơn, cuối cùng Jinlin dường như cũng bình tâm trở lại. Cô bé hít vài hơi thật sâu và vượt qua cơn say xe. "Tớ nghĩ giờ tớ ổn rồi," cô bé nói.
+Jinlin vốn chẳng mấy khi chịu ngoan ngoãn nghe lời, nhưng lần này có vẻ cô bé cũng biết vâng dạ. "Cháu biết rồi mà, hôm qua cháu cũng nghe nói câu này rồi. Cháu sẽ không sao đâu ạ!" cô bé nằng nặc bảo.
 
-"Thế thì tốt rồi. Chúng mình quay lại nhé?"
+"Rentt, bà cũng định dặn cháu thế, nhưng chắc chẳng cần đâu vì thể nào cháu cũng tự biết đường mà chạy thôi."
 
-Jinlin tỏ vẻ không bằng lòng. "Nhưng chúng mình đã cất công đến tận đây rồi mà! Tớ muốn đi xem thị trấn! Đi thôi, Rentt," cô bé vừa nói vừa kéo cánh tay lôi tôi đi.
+"Dạ vâng, dĩ nhiên rồi ạ. Mạng mình là quan trọng nhất mà."
 
-"Không được đâu! Bà Pravda đã dặn là không được đi quá xa rồi mà."
+"Tốt. Cơ mà là con trai con đứa mà chẳng thấy có chút chí khí nào cả. Này Jinlin, cháu thích thằng bé ở điểm gì thế hả?"
 
-"Chúng mình không cần phải nghe lời bà già đó đâu. Bà lúc nào cũng bảo tớ phải làm thế này thế kia. Thỉnh thoảng làm bà lo lắng một chút thì có sao đâu," Jinlin cãi lại. Dĩ nhiên, tôi ngờ rằng cô bé không hề có ý nghiêm túc. Trông cô bé có vẻ bồn chồn hơn là tức giận, hờn dỗi hơn là ghét bỏ.
+"Cháu thích vì cậu ấy dũng cảm ạ," Jinlin đáp. Hồi đó bới đâu ra nét dũng cảm nào ở tôi cơ chứ, thành thử bà Pravda nghe xong ngớ người ra chẳng hiểu gì.
 
-Jinlin là con gái duy nhất của trưởng làng, nên một ngày nào đó cô bé sẽ buộc phải gánh vác trách nhiệm lãnh đạo ngôi làng. Giờ ngẫm lại, quá trình nuôi dạy cô bé chắc hẳn rất gian nan. Ngay từ khi mới năm tuổi, cô bé đã sở hữu khá nhiều kỹ năng. Cô bé có thể đọc và viết ở mức cơ bản, đồng thời nắm rõ mọi đặc sản của làng, cách chúng được làm ra, và gia đình nào sản xuất thứ gì. Điều đó chỉ có thể xuất phát từ một nền giáo dục nghiêm khắc. Tôi dám cá rằng cô bé thường ghen tị khi thấy những đứa trẻ trạc tuổi mình chạy nhảy nô đùa trong khi bản thân lại phải cắm đầu học hành. Điều đó giải thích lý do vì sao cô bé lại tỏ ra nổi loạn đến vậy mỗi khi có dịp được vui chơi.
+Mãi một lúc sau, bà ngắm nghía tôi chán chê rồi bảo. "Bà chịu chẳng thấy dũng cảm chỗ nào. Thằng bé này có điểm hay ho thật đấy, nhưng bảo dũng cảm á? Ừ thì, cháu đã nói vậy thì biết vậy. Thôi, đến giờ lên đường rồi. Hai đứa trèo lên xe đi nào."
 
-Hồi đó tôi còn nhỏ nên không nghĩ ngợi nhiều về chuyện ấy, nhưng tôi cũng lờ mờ nhận ra những xung đột nội tâm trong cuộc sống của Jinlin, vì thế tôi thấy thật khó để thẳng thừng từ chối cô bé. Rốt cuộc tôi đành phải đi theo tháp tùng Jinlin dạo quanh thị trấn. Nhìn lại chuyện xưa, lẽ ra tôi nên kiên quyết giữ vững lập trường của mình.
+◆◇◆◇◆
 
-"Bây giờ anh chắc chắn đã khác xưa, nhưng nghe chừng từ trước đến nay anh luôn có xu hướng bị kéo vào rắc rối nhỉ," Lorraine nói.
+Từ lúc lăn bánh vào ban sáng, cỗ xe chạy một mạch không nghỉ cho tới tận đích. Jinlin say xe đến mức mặt mày tái mét rũ rượi, thều thào hỏi tôi xem đã đến nơi chưa. Vừa nãy còn mạnh miệng huênh hoang là thế, ai ngờ con bé lại có điểm yếu dở khóc dở cười này. Tôi cũng lần đầu đi xe kéo, vậy mà suốt cả chặng đường dài lại chẳng hề hấn gì. Cho đến tận bây giờ tôi vẫn có thể thản nhiên ngồi đọc sách trên xe mà không bị chóng mặt hay nôn nao. Nhìn vào tính cách hai đứa thì ai cũng nghĩ phản ứng phải ngược lại mới đúng, cơ mà thể trạng con người đúng là chuyện khó ai lường trước được.
 
-Tôi đồng tình với cô. "Hồi đó tôi chẳng bao giờ tự mình đưa ra quyết định cả. Tôi thụ động và dễ bảo, trong khi Jinlin thì hoàn toàn trái ngược, nên mọi chuyện thường diễn ra như thế. Còn bây giờ, nói đúng hơn thì chính tôi mới là kẻ tự rước rắc rối vào thân."
+"Ừ, tới nơi rồi đấy Jinlin. Cậu sao không? Khó chịu quá thì cứ nôn ra đi cho nhẹ người," tôi bảo.
 
-Những lần tôi chạm trán Rồng và gặp gỡ Nive Maris có lẽ đã không bao giờ xảy ra nếu không vì tính tò mò kỳ lạ của tôi. Dù vậy, xét đến vận rủi của mình, biết đâu tôi cũng sẽ rơi vào một cuộc khủng hoảng nào khác mà thôi.
+"Tớ... tớ ổn mà," Jinlin một tay bụm miệng, một tay nằng nặc, "nhưng cháu muốn ra ngoài hít chút khí trời. Được không bà ơi?"
 
-"Chà, bất kỳ mạo hiểm giả nào rồi cũng có lúc gặp phải hiểm nguy thôi. Đó là bản chất của công việc này mà," Lorraine nói, cố gắng an ủi tôi.
+"Trời đất ơi, cháu giống hệt cha cháu hồi bé," bà Pravda tặc lưỡi. "Được rồi, ra ngoài đi. Nhưng mọi người sắp dỡ hàng rồi đấy, cấm có đi đâu xa nghe chưa."
 
-Đúng là sự nguy hiểm luôn gắn liền với nghề mạo hiểm giả. Nếu không thích điều đó, hẳn người ta đã chọn nhầm nghề rồi. Muốn sống sót đòi hỏi phải có sự cẩn trọng, và tôi nghĩ mình đã đủ thận trọng rồi. Dẫu vậy nếu có phải bỏ mạng, tôi cũng chẳng thể nào oán trách được. Mạo hiểm giả luôn sống trên lằn ranh sinh tử. Đó là lý do vì sao họ bị coi như những kẻ liều mạng bất hảo.
+Bình thường thì hẳn Jinlin đã chạy lăng xăng khám phá mọi ngóc ngách rồi, nhưng tình cảnh lúc này thì chịu chết. Chúng tôi bước xuống xe, thấy mình đang đứng ở khu bốc dỡ hàng của thương hội nào đó. Trời đã nhá nhem muộn nên xung quanh chẳng còn chiếc xe nào khác. Vốn dĩ đây chỉ là thị trấn nhỏ nên cũng hiếm ai mang hàng tới đây buôn bán. Bãi tập kết này khá hẹp, chủ yếu phục vụ thương nhân bốc hàng lên xe.
 
-"Nhưng mà, hồi đó tôi đâu đã phải là mạo hiểm giả. Lẽ ra tôi phải ngăn Jinlin lại mới phải."
+May sao sản vật của Hathara mang tới thị trấn nào cũng bán được giá hời. Cha tôi từng bôn ba khắp chốn nên rất rành thời giá trong cả vùng, đến đâu chúng tôi cũng bán được giá tốt mà không lo bị ép. Thực ra nếu cất công lặn lội đến tận những thành phố lớn như Maalt thì kể cả trừ tiền chi phí đi lại, số tiền kiếm được vẫn còn hời hơn nhiều. Khổ nỗi đi xa như thế lại tăng nguy cơ đụng phải cướp đường hay quái vật, nên cái gì cũng có được có mất. Vả lại thực lòng mà nói, Hathara cũng chẳng lớn đến mức cần gom nhiều tiền của hay tài nguyên đến thế.
+
+"Eo ôi, người tớ cứ nôn nao thế nào ấy," Jinlin nhăn nhó rên rỉ dù đã bước ra ngoài.
+
+Khu bốc hàng có mái che nên bí rì rì, tôi nghĩ tìm chỗ nào thoáng đãng hơn thì con bé mới đỡ ngột ngạt. "Jinlin, đi lối này này," tôi bảo rồi kéo cô bé theo. Dĩ nhiên tôi chẳng dám đi xa vì vẫn nhớ như in lời bà Pravda dặn, ít nhất vẫn phải trong tầm mắt trông thấy cỗ xe.
+
+Ra tới khoảng đất thoáng hơn, Jinlin cuối cùng cũng lấy lại sắc mặt. Cô bé hít sâu vài hơi dài, dần xua tan cơn say xe. "Chắc giờ tớ đỡ rồi đấy," con bé bảo.
+
+"Thế thì tốt rồi. Tụi mình quay lại đằng kia nhé?"
+
+Mặt Jinlin xịu xuống vẻ bất mãn. "Cơ mà cất công tới tận đây rồi cơ mà! Tớ muốn đi ngó nghiêng thị trấn một tí! Đi thôi Rentt!" Cô bé vừa giãy nảy vừa túm tay lôi tuột tôi đi.
+
+"Không được đâu! Bà Pravda đã dặn cấm có đi xa rồi mà!"
+
+"Việc gì tụi mình phải nghe lời bà già ấy chứ! Lúc nào bà cũng bắt tớ làm cái này cái nọ. Thỉnh thoảng để bà cuống lên lo một tí thì đã làm sao," Jinlin bướng bỉnh cãi. Dĩ nhiên là tôi không nghĩ con bé dám làm thật đâu. Trông cô bé lúc đó bồn chồn hơn là bực bội, nũng nịu hờn dỗi hơn là ác ý.
+
+Jinlin là con gái độc nhất của trưởng làng, mai này rồi cũng phải đứng ra gánh vác việc làng. Giờ ngẫm lại, tuổi thơ của con bé chắc hẳn chẳng dễ dàng gì. Mới năm tuổi đầu mà cô bé đã biết đủ thứ: đọc viết được những chữ vỡ lòng, vanh vách từng món đặc sản của làng từ cách làm cho đến nhà nào làm ra thứ gì. Những thứ đó chỉ có thể đến từ sự uốn nắn kèm cặp vô cùng nghiêm khắc. Tôi dám cá con bé không ít lần tủi thân ghen tị khi thấy lũ bạn đồng trang lứa tha hồ chạy nhảy vui chơi trong khi mình phải cắm đầu học. Thảo nào mỗi lần có dịp được bung xõa là cô bé lại bướng bỉnh quậy phá đến thế.
+
+Hồi đó còn nhỏ nên tôi đâu nghĩ sâu xa được như vậy, nhưng ít nhiều tôi cũng thấu hiểu những nỗi gò bó của Jinlin, đâm ra chẳng nỡ buông lời từ chối thẳng thừng. Cuối cùng tôi đành lẽo đẽo bám theo Jinlin lượn lờ quanh thị trấn. Nghĩ lại mới thấy, đáng lẽ hồi ấy tôi phải cứng rắn giữ vững lập trường của mình mới phải.
+
+"Bây giờ anh chắc chắn khác xưa nhiều rồi, nhưng nghe chừng cái tính hay bị lôi vào rắc rối thì từ bé đến giờ vẫn vậy nhỉ," Lorraine nhận xét.
+
+Tôi cũng gật gù đồng tình. "Hồi đấy tôi làm gì biết tự quyết định cái gì. Tính tôi thì thụ động, ai bảo sao nghe vậy, còn Jinlin lại ngược lại hoàn toàn, thành ra mọi chuyện cứ thế mà trôi đi. Còn bây giờ, nói đúng hơn thì toàn là tôi tự chuốc lấy rắc rối vào thân thôi."
+
+Vụ đụng độ Rồng hay chạm trán Nive Maris có lẽ chẳng bao giờ xảy ra nếu không vì cái tính tò mò quái gở của tôi. Dẫu vậy, với cái số đen đủi này thì không chừng tôi cũng sẽ dính vào một tai kiếp khác mà thôi.
+
+"Thôi nào, mạo hiểm giả nào mà chẳng có lúc đối mặt với hiểm nguy. Nghề này vốn dĩ là thế mà," Lorraine cất giọng an ủi tôi.
+
+Đúng là hiểm nguy luôn rập rình quanh cái nghề mạo hiểm giả. Đã không chịu nổi thì tức là chọn nhầm nghề. Muốn sống sót cần phải cẩn trọng, mà tôi thì tự thấy mình đã đủ cẩn thận rồi. Nếu cẩn thận thế mà vẫn mất mạng thì cũng chẳng biết kêu ai. Đám mạo hiểm giả vốn sống treo đầu trên sợi tóc, thảo nào người đời cứ coi họ như phường liều mạng bất hảo.
+
+"Cơ mà hồi đó tôi đã làm mạo hiểm giả đâu. Đáng lý tôi phải kiên quyết ngăn Jinlin lại mới phải."
