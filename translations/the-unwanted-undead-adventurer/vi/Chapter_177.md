@@ -1,111 +1,111 @@
 # Chương 177: Ngoại truyện Tập 7 - Một Ủy Thác Kỳ Lạ
 
-"Rentt, cậu có nhìn thấy nó không?"
+"Rentt, cậu thấy nó chưa?"
 
-Trong khu rừng lờ mờ tối, nấp mình giữa những bụi cây thấp, vị thân chủ hiện tại của tôi ghé sát lại và thì thầm. Anh ta là một người thợ thủ công tên là Dylas, đến từ thị trấn Kikal.
+Trong cánh rừng nhá nhem tối, nép mình sau lùm cây thấp, thân chủ hiện tại của tôi ghé sát lại thì thào. Đó là một người thợ thủ công tên Dylas, đến từ thị trấn Kikal.
 
-Tôi nhìn về phía trước xem tình hình thế nào. "Ừm, có vẻ như lúc này chưa có vấn đề gì. Cơ mà đúng là một ủy thác kỳ lạ thật đấy. Tôi biết Sói Pha Lê con hẳn là rất dễ thương, nhưng dẫu sao chúng vẫn là quái vật. Mà thôi, tôi đoán chỉ cần tiếp cận một cách thận trọng thì chắc cũng ổn thôi."
+Tôi ngó ra phía trước quan sát tình hình. "Ừ, tạm thời có vẻ chưa có vấn đề gì. Cơ mà đúng là một ủy thác kỳ lạ thật đấy. Vẫn biết Sói Pha Lê con nghe đồn dễ thương, nhưng dẫu sao chúng vẫn là quái vật. Mà thôi, chắc cứ cẩn thận khi lại gần thì không sao đâu."
 
-Thứ đập vào mắt tôi là một con quái vật. Bên trong thân cây cổ thụ rỗng ruột là một con sói to lớn hơn cả một người đàn ông trưởng thành. Những tinh thể pha lê bán trong suốt phủ khắp cơ thể nó lấp lánh như ngọc quý, toát lên một vẻ đẹp đầy huyền bí. Con quái vật này được gọi là Sói Pha Lê.
+Hiện ra trước mắt tôi là một con quái vật. Bên trong thân cây lớn rỗng ruột, một con sói to hơn cả người trưởng thành đang nằm phủ phục. Những tinh thể pha lê bán trong suốt mọc khắp mình nó lấp lánh như đá quý, toát lên một vẻ đẹp ma mị khó tả. Con quái vật này có tên là Sói Pha Lê.
 
-Rúc sát vào bụng con sói lớn là ba con sói nhỏ hơn, kích thước chỉ cỡ loài mèo. Đó là những con sói con. Lũ nhỏ này rõ ràng chỉ vừa mới chào đời, và nếu phải đoán thì chúng đang bú sữa mẹ. Khác với sói mẹ, trên người chúng vẫn chưa mọc tinh thể pha lê nào, nhưng chúng sẽ mọc ra khi lớn dần lên.
+Rúc sát vào bụng con sói lớn là ba con sói nhỏ, kích thước chỉ cỡ con mèo. Đó là ba con sói con. Lũ nhỏ này rõ ràng chỉ vừa mới chào đời, nom như đang rúc vào bú sữa mẹ. Khác với sói mẹ, mình chúng chưa có tinh thể pha lê nào, nhưng lớn lên thì sẽ mọc thôi.
 
-Pha lê từ Sói Pha Lê rất có giá trị trong thuật giả kim cao cấp và nghề rèn, và gần đây Hội cũng vừa tiếp nhận một ủy thác thu thập chúng. Thế nhưng đây là loài quái vật hùng mạnh đòi hỏi mạo hiểm giả ít nhất phải đạt Kim Cấp. Nói cách khác, chúng vượt quá tầm với của tôi. Tôi sẽ không đời nào nhận một công việc mạo hiểm đến mức ấy. Hẳn người ta sẽ thắc mắc vậy thì rốt cuộc tôi đang làm cái quái gì ở đây.
+Pha lê từ Sói Pha Lê là nguyên liệu quý giá trong thuật giả kim cao cấp và nghề rèn, dạo gần đây Hội cũng vừa nhận một ủy thác đi lấy loại này. Ngặt nỗi đây là loài quái vật rất mạnh, chí ít cũng phải mạo hiểm giả Kim Cấp mới kham nổi. Nói cách khác, chúng hoàn toàn quá sức tôi. Đời nào tôi lại đâm đầu vào một công việc rủi ro nhường ấy. Thành thử hẳn sẽ có người thắc mắc rốt cuộc tôi mò tới đây làm gì.
 
-"Chúng ta đã xác nhận chúng an toàn rồi, vậy hãy giữ khoảng cách với chúng một chút. Còn hai gã tôi kể với cậu ở thị trấn thì sao? Tình hình vị trí của họ thế nào rồi?" Dylas hỏi.
+"Thấy chúng vẫn an toàn rồi thì ta lùi ra một chút đi. Còn hai gã tôi kể với cậu ở thị trấn thì sao? Cậu đã lần ra chỗ họ chưa?" Dylas hỏi.
 
-Tôi hít hà tìm kiếm mùi máu và nắm được vị trí tương đối của họ. "Chắc sẽ ổn thôi. Tôi không nghĩ chúng ta cần phải ra tay can thiệp gì với họ đâu. Tôi thấy dường như họ đã bị thương rồi, mà kể cả không bị thương đi chăng nữa thì cả hai người họ cũng chẳng có lấy nửa phần cơ hội trước một con Sói Pha Lê đâu."
+Tôi đánh hơi tìm mùi máu rồi áng chừng được vị trí của họ. "Chắc không sao đâu. Tôi nghĩ ta cũng chẳng cần phải can thiệp gì. Hình như họ bị thương rồi, mà kể cả lành lặn thì cả hai gã đó cũng chẳng có cửa đấu lại một con Sói Pha Lê đâu."
 
-"Nhưng cậu cũng nghe thấy những gì họ nói ở thị trấn rồi đấy thôi? Họ muốn bắt trộm mấy con Sói Pha Lê con. Tôi không thể nào chấp nhận nổi chuyện đó. Lũ sói đâu có làm hại ai. Tôi biết chúng là quái vật, nhưng chúng xứng đáng được tôn trọng."
+"Cơ mà cậu cũng nghe những gì họ bàn ở thị trấn rồi đấy thôi? Bọn họ tính bắt trộm lũ Sói Pha Lê con. Tôi không tài nào chịu nổi chuyện đó. Mấy mẹ con nó có làm hại ai đâu. Biết là quái vật thật, nhưng chúng cũng đáng được tôn trọng chứ."
 
-Dylas và tôi đã tình cờ nghe được hai mạo hiểm giả bàn tán về chuyện này ở thị trấn. Thực ra chẳng có gì quá mức kỳ lạ cả. Tôi thậm chí không thể gọi họ là kẻ xấu. Đó vốn là chuyện thường tình đối với mạo hiểm giả. Nhưng Dylas lại không thể chấp nhận được điều đó. Tôi phần nào hiểu được cảm xúc của anh ấy. Nếu đây là lũ Goblin vốn sinh sống bằng việc tấn công con người thì lại là một nhẽ, đằng này bầy Sói Pha Lê này chưa hề làm hại ai. Sói Pha Lê đôi khi còn dọn dẹp các loài quái vật khác trong lãnh địa của chúng, nên nói đúng hơn thì chúng còn có ích cho con người.
+Dylas và tôi tình cờ nghe được hai mạo hiểm giả bàn chuyện này ở thị trấn. Thật ra việc đó chẳng có gì lạ lùng, tôi cũng không thể bảo họ xấu xa được. Đối với mạo hiểm giả, đây là chuyện quá đỗi bình thường. Chỉ có Dylas là không tài nào chấp nhận nổi. Tôi cũng phần nào hiểu được cảm giác của anh ấy. Nếu đây là lũ Goblin chuyên tấn công con người để kiếm sống thì một nhẽ, đằng này bầy Sói Pha Lê chưa từng hại ai. Đôi khi Sói Pha Lê còn dọn sạch các loài quái vật khác trong lãnh địa của mình, nên nói đúng hơn thì chúng còn có ích cho con người nữa là đằng khác.
 
-Không chỉ vậy, con Sói Pha Lê này còn đang nuôi con nhỏ. Dylas biết rõ điều này, nên anh ấy mới bảo rằng muốn ngăn hai gã mạo hiểm giả kia săn bắt chúng. Còn về lý do tại sao anh ấy lại nói riêng với tôi, đơn giản là vì hai chúng tôi tình cờ có mặt cùng một chỗ và đều cảm thấy khó chịu trước lời lẽ của hai gã mạo hiểm giả đó. Theo lời Dylas, anh ấy có linh cảm tôi sẽ thấu hiểu và nhận lời ủy thác. Và tôi đã nhận thật, thành thử linh cảm của anh ấy quả nhiên là đúng.
+Không chỉ vậy, con Sói Pha Lê này lại còn đang nuôi con nhỏ. Dylas biết rõ chuyện đó, nên mới nhờ tôi tìm cách ngăn hai gã mạo hiểm giả kia tới săn bắt. Còn vì sao anh ấy lại chọn kể riêng với tôi, âu cũng do lúc đó hai người tình cờ đứng cùng một chỗ và đều cảm thấy khó chịu trước lời lẽ của hai người kia. Theo lời Dylas, anh ấy có linh cảm tôi sẽ thấu hiểu và nhận lời ủy thác. Mà tôi nhận thật, hóa ra linh cảm của anh ấy lại chuẩn xác.
 
-"Dù sao thì tôi cũng đã nhận việc rồi, nên tôi sẽ làm cho đến nơi đến chốn," tôi nói. "Hơn nữa, khi tận mắt nhìn thấy bầy sói con, tôi cũng thấy khá mủi lòng. Ồ, họ kia rồi."
+"Đã trót nhận việc rồi thì tôi sẽ làm tới cùng," tôi bảo. "Với lại, tận mắt thấy mấy con sói non rúc vào nhau thế kia, tôi cũng thấy mủi lòng. Ồ, họ kia rồi."
 
-Chúng tôi lần theo mùi máu cho đến khi tìm thấy hai mạo hiểm giả nọ từ thị trấn. Trông họ không có vẻ gì là mạnh mẽ cho lắm. Tôi đoán chừng họ chỉ vừa mới lên Đồng Cấp. Đi trộm con non của Sói Pha Lê ở đẳng cấp của họ thì quả là hơi quá sức. Và có vẻ như tôi cũng đã đoán đúng chuyện họ bị thương.
+Chúng tôi lần theo mùi máu đến khi thấy hai mạo hiểm giả ở thị trấn lúc nãy. Trông họ chẳng có vẻ gì là mạnh. Tôi đoán chắc họ mới lên Đồng Cấp chưa bao lâu. Ở trình độ của họ mà đòi đi trộm con non của Sói Pha Lê thì hơi quá sức. Với lại, có vẻ tôi đoán đúng cả chuyện họ bị thương.
 
-Tôi nghĩ có lẽ chúng tôi có thể khuyên họ rời đi mà không cần phải động tay động chân, nên tôi bước ra khỏi chỗ ẩn nấp.
+Tôi nghĩ bụng chắc có thể khuyên họ rời đi mà không cần động tay động chân, thế là tôi bước ra khỏi chỗ nấp.
 
-"Ai đấy?!" một trong hai người cất tiếng hỏi.
+"Ai đấy?!" một người giật mình hỏi.
 
-"Bình tĩnh nào, tôi cũng là mạo hiểm giả. Nhìn này, tôi là Đồng Cấp."
+"Bình tĩnh nào, tôi cũng là mạo hiểm giả thôi. Nhìn này, tôi là Đồng Cấp."
 
-"Đúng là vậy thật. Nhưng sao anh lại ở đây? Anh cũng nhắm vào lũ Sói Pha Lê à?"
+"Đúng thật. Cơ mà sao anh lại mò tới đây? Cũng nhắm vào bầy Sói Pha Lê à?"
 
-"Các anh cũng thế ư? Chà, ít nhất thì ban đầu ý định của tôi cũng là vậy." Tôi gượng gạo nở một nụ cười cay đắng.
+"Hai anh cũng vậy à? Chà, ít nhất ban đầu tôi cũng định thế." Tôi gượng gạo cười cay đắng.
 
-"Sao, có chuyện gì xảy ra à?"
+"Sao thế, có chuyện gì à?"
 
-"Tôi đã tìm thấy hang của chúng, nhưng xung quanh lại có dấu chân của vài con Sói Pha Lê đực. Tôi thấy chuyện này lành ít dữ nhiều nên đã quyết định quay đầu. Có thể hai anh đã biết điều này rồi, nhưng tôi nghĩ một lời cảnh báo cũng không thừa. Hầu hết Sói Pha Lê con chỉ do một mình sói mẹ nuôi nấng, nhưng đôi khi cũng có những con sói khác lảng vảng quanh đó để bảo vệ. Điều đó khiến việc tiếp cận chúng trở nên nguy hiểm hơn gấp bội. Nhắm vào lũ sói con là quá mức mạo hiểm. Dù vậy nếu các anh vẫn muốn thử thì tôi cũng chẳng cản, tôi có thể chỉ cho hai anh biết chỗ hang của chúng. Hai anh thấy sao?"
+"Tôi tìm ra hang của chúng rồi, nhưng xung quanh lại dính đầy dấu chân của mấy con Sói Pha Lê đực. Thấy điềm chẳng lành nên tôi quyết định quay đầu. Có thể hai anh biết rồi, nhưng tôi nghĩ nhắc trước một câu cũng chẳng thừa. Bình thường Sói Pha Lê con chỉ do một mình sói mẹ nuôi nấng, nhưng thỉnh thoảng sẽ có những con sói khác lảng vảng xung quanh bảo vệ. Thành thử muốn lại gần chúng lại càng nguy hiểm gấp bội. Nhắm vào lũ sói con lúc này quá sức rủi ro. Cơ mà nếu hai anh vẫn muốn thử thì tôi không cản đâu, tôi chỉ chỗ hang cho. Hai anh tính sao?"
 
-Nếu tôi chỉ đơn thuần bảo họ rời đi mà không kèm theo lời giải thích nào, chắc chắn họ sẽ cự cãi, vậy nên đưa ra một lời đề nghị nhã nhặn cũng rất có ích. Hơn nữa những điều tôi vừa nói về Sói Pha Lê hoàn toàn không phải là chuyện bịa đặt. Khi có những con sói khác bảo vệ sói mẹ, chúng có thể trở nên cực kỳ nguy hiểm. Nếu tôi nói dối, hai gã mạo hiểm giả đó có thể quay về thị trấn, tra cứu thông tin rồi phát hiện ra tôi lừa họ. Khi ấy họ sẽ lại quay ngay về đây, khiến mọi công sức đổ sông đổ bể.
+Nếu tôi chỉ khơi khơi bảo họ rút lui mà chẳng giải thích gì, thế nào họ cũng cãi lại, nên việc tỏ ra nhã nhặn kèm lời đề nghị giúp đỡ sẽ hiệu quả hơn nhiều. Với lại những điều tôi vừa nói về Sói Pha Lê cũng chẳng phải bịa đặt. Khi có những con sói khác đứng ra bảo vệ sói mẹ, mức độ nguy hiểm sẽ tăng vọt. Nếu tôi nói dối, hai người họ quay về thị trấn tìm hiểu rồi biết tôi gạt thì sao? Lúc đó họ lại xách đồ mò tới đây lần nữa, thành ra công cốc cả.
 
-Hai mạo hiểm giả bàn bạc về những điều tôi vừa nói. Sau đó họ sụp vai xuống và bảo: "Cảm ơn lời cảnh báo của anh. Tôi nghĩ chúng tôi không muốn đánh cược mạng sống đâu."
+Hai mạo hiểm giả thì thào bàn bạc một hồi. Đoạn, họ ủ rũ rũ vai xuống bảo: "Cảm ơn anh đã cảnh báo. Chắc chúng tôi chẳng dám liều mạng đâu."
 
-"Hai anh chắc chứ? Nếu xoay xở bắt được lũ sói con thì kiếm được cả bộn tiền đấy. Các anh có thể thu hoạch được những nguyên liệu tuyệt vời từ chúng. Giới quý tộc cũng có nhu cầu rất cao về việc nuôi chúng làm thú cưng nữa."
+"Hai anh chắc chứ? Nếu tóm được mấy con sói non là vớ bẫm đấy. Vừa thu được nguyên liệu xịn, mà giới quý tộc cũng đang lùng mua chúng về làm thú cưng nhiều lắm."
 
-"Tôi biết chứ, thế nên tôi mới nghĩ hai đứa tôi vớ được vận may khi có người phát hiện một con sói mẹ cùng đàn con trong rừng. Thế nhưng chỉ riêng việc đi tới đây thôi tôi đã bị thương rồi."
+"Biết chứ, nên nghe tin có người phát hiện sói mẹ dắt con trong rừng, hai đứa tôi mới tưởng vớ được món hời. Ai ngờ mới mò tới đây thôi tôi đã dính đòn rồi."
 
-"Đúng thật, tôi thấy cánh tay trái của anh bị thương rồi. Tôi đoán lũ Sói Pha Lê có thể đánh hơi thấy mùi máu của anh đấy. Sẽ càng tồi tệ hơn nếu anh chạm trán lũ sói canh gác."
+"Ừ, thấy tay trái anh bị thương rồi. Tôi sợ bầy Sói Pha Lê sẽ đánh hơi thấy mùi máu. Lúc đó mà đụng phải mấy con sói bảo vệ thì chỉ có nước to chuyện."
 
-"Chính xác là vậy. Nhưng chúng tôi đã đi xa đến tận đây rồi, nên mới ráng lết nốt quãng đường còn lại thay vì bỏ cuộc giữa chừng. Dù vậy, sau khi nghe thông tin từ anh, chúng tôi quyết định dừng lại. Chúng tôi sẽ chọn cách khôn ngoan thay vì để lòng tham che mắt."
+"Chứ còn gì nữa. Cơ mà trót lặn lội tới tận đây nên hai đứa mới ráng lết tiếp chứ không đành bỏ cuộc. Giờ nghe anh báo vậy thì thôi, xin kiếu. Biết rút lui cho khôn ngoan chứ không tham lam mù quáng."
 
-"Vậy hai anh quay về chứ? Chà, thế có lẽ là tốt nhất rồi. Có cần tôi giúp gì không? Nếu tôi trở về thị trấn mà lại nghe Hội báo tin hai anh chẳng bao giờ về tới nơi thì chắc tôi mất ngủ cả đêm mất."
+"Thế là tính quay về hả? Chà, vậy có lẽ tốt nhất rồi. Có cần tôi giúp gì không? Về tới thị trấn mà nghe Hội báo hai anh chẳng về được thì tôi áy náy mất ngủ mất."
 
-"Không cần đâu, tôi biết trông vết thương có vẻ khá tệ, nhưng tôi đã cầm được máu rồi. Vả lại dù tôi bị thương nhưng cậu này vẫn hoàn toàn ổn. Dù sao thì quanh đây cũng chẳng có con quái vật nào nguy hiểm ngoài Sói Pha Lê cả. Việc quay về chắc cũng đủ dễ dàng thôi."
+"Thôi khỏi, vết thương trông ghê vậy chứ tôi cầm máu rồi. Với lại tuy tôi bị đau nhưng cậu này vẫn lành lặn. Quanh đây ngoài Sói Pha Lê ra cũng chẳng có quái vật nào nguy hiểm. Đi về chắc không thành vấn đề đâu."
 
-Người đàn ông cao ráo hơn trong hai người đảm nhận toàn bộ việc nói chuyện trong khi người kia vẫn giữ im lặng. Ngay cả khi người cao hơn nhìn sang, gã thấp bé vẫn mím chặt môi. Có điều gã ta gật đầu khá nhiều. Hầu hết những mạo hiểm giả từng là thợ săn đều có phong thái như vậy, nên chuyện đó cũng chẳng có gì lạ thường. Khi người ta phải săn lùng những con thú vốn sẽ bỏ chạy chỉ vì một tiếng thở và chỉ sử dụng mỗi cung tên, điều này là hết sức cần thiết.
+Gã cao hơn gánh toàn bộ phần nói chuyện, còn người kia thì câm như hến. Ngay cả khi bạn đồng hành quay sang nhìn, gã lùn vẫn ngậm chặt miệng, chỉ gật đầu lia lịa. Đa phần mạo hiểm giả xuất thân thợ săn đều thế cả, chẳng có gì lạ. Khi đi săn lũ thú rừng chỉ cần một tiếng thở khẽ cũng đủ giật mình bỏ chạy mà trong tay chỉ có mỗi cung tên, giữ im lặng tuyệt đối là điều bắt buộc.
 
-"Vậy à?" tôi nói. "Thế thì chúng ta chia tay nhau tại đây nhé. Nếu tình cờ gặp lại nhau ở thị trấn, có khi chúng ta có thể cùng làm vài ly hay gì đó."
+"Vậy à?" tôi bảo. "Thế ta chia tay tại đây nhé. Nếu có đụng mặt nhau ở thị trấn thì làm vài ly sau."
 
-"Được thôi, cứ làm vậy đi. Cảm ơn thông tin của anh nhé. Chào."
+"Nhất trí. Cảm ơn anh đã mách nước nhé. Chào."
 
-Hai mạo hiểm giả rời khỏi khu vực. Trong những tình huống như thế này, người ta thường muốn đợi đối phương khuất hẳn tầm mắt rồi mới bắt đầu di chuyển. Bằng không, hành động của mình có thể bị xem là một mối đe dọa. Tuy nhiên, nếu rơi vào hoàn cảnh tuyệt vọng hoặc biết chắc có quái vật ở quanh quẩn gần đó thì cả hai bên đều sẽ muốn rời đi càng sớm càng tốt. Nhưng vào lúc này thì không có mối hiểm nguy nào như vậy.
+Hai mạo hiểm giả cất bước rời đi. Trong những hoàn cảnh thế này, tốt nhất nên đợi phía bên kia khuất hẳn bóng rồi mình mới cựa quậy. Bằng không, người ta rất dễ coi hành động bám theo là một mối đe dọa. Trừ phi rơi vào tình thế ngặt nghèo hoặc biết tỏng có quái vật quanh quẩn thì đôi bên mới vội vã rời đi cùng lúc. Cơ mà lúc này chẳng có mối hiểm nguy nào như thế.
 
-"Được rồi, anh ra ngoài được rồi đấy, Dylas," tôi cất tiếng gọi.
+"Xong rồi, anh ra ngoài được rồi đấy, Dylas," tôi cất tiếng gọi.
 
-"Được rồi," Dylas nói khi bước ra lộ diện. "Chà, cậu thuyết phục họ giỏi thật đấy. Lúc cậu bảo sẽ chỉ cho họ chỗ hang sói, tôi suýt thì muốn bóp cổ cậu luôn rồi."
+"Nghe được đấy," Dylas vừa bước ra vừa nói. "Cậu thuyết phục họ tài thật. Lúc cậu bảo sẽ chỉ chỗ cái hang, tôi tức đến mức suýt bóp cổ cậu luôn đấy."
 
-Đằng nào thì tôi cũng chẳng chắc liệu mình có thể bị bóp cổ đến chết hay không, nên tôi chỉ đáp: "Đáng sợ thật đấy."
+Dù sao thì tôi cũng chẳng rõ mình có bị bóp cổ đến chết nổi không nữa, nên chỉ biết buông một câu: "Nghe sợ ghê."
 
-"Haha, xin lỗi nhé. Cơ mà dù sao đi nữa, tôi rất mừng vì mọi chuyện kết thúc trong êm đẹp. Vả lại trông họ cũng có vẻ như những người bình thường. Ban đầu tôi cứ ngỡ họ là người xấu, nhưng có lẽ đó là do thành kiến của tôi mà thôi."
+"Haha, xin lỗi nhé. Cơ mà dù sao thì mọi chuyện êm đẹp là tốt rồi. Với lại trông họ cũng chỉ là người bình thường. Lúc ở thị trấn trông họ ra dáng kẻ xấu thật, chắc do tôi có thành kiến quá."
 
-"Có lẽ vậy. Dưới góc nhìn của họ, họ chỉ đang cố săn bắt quái vật mà thôi. Họ đâu có mối dây liên kết đặc biệt nào với Sói Pha Lê như anh."
+"Chắc thế. Đứng ở góc độ của họ thì cũng chỉ là đi săn quái vật kiếm ăn thôi. Đâu phải ai cũng có mối liên kết đặc biệt với Sói Pha Lê như anh."
 
-Dylas trợn tròn mắt kinh ngạc, anh ta hỏi: "Cậu nhận ra chuyện đó từ lúc nào thế?" Anh ta chưa từng nhắc nửa lời về mối liên kết đặc biệt với Sói Pha Lê và nghĩ thật kỳ lạ khi tôi lại nói ra điều ấy. Thế nhưng đơn giản là Dylas che giấu không được cẩn thận cho lắm.
+Dylas trợn tròn mắt kinh ngạc hỏi: "Cậu nhận ra từ lúc nào thế?" Anh ấy chưa từng hé răng nửa lời về mối liên kết đặc biệt nào với Sói Pha Lê nên mới thấy lạ khi nghe tôi nhắc tới. Có điều, chẳng qua là Dylas giấu không kỹ mà thôi.
 
-Tôi chỉ vào viên ngọc nhỏ trên sợi dây chuyền của Dylas. "Thứ đó được làm từ tinh thể pha lê của Sói Pha Lê, phải không? Tôi nhìn là nhận ra ngay."
+Tôi chỉ vào viên ngọc nhỏ gắn trên mặt dây chuyền của Dylas. "Món đó mài từ tinh thể của Sói Pha Lê ra đúng không? Tôi nhìn là biết ngay."
 
-"Thế thì vô lý quá. Viên này màu xanh lục; còn pha lê của Sói Pha Lê vốn trong suốt cơ mà."
+"Vô lý thế. Viên này màu lục mà, pha lê của Sói Pha Lê vốn trong suốt cơ mà."
 
-"Tôi nghe nói khi Sói Pha Lê mang thai, trên cơ thể chúng sẽ xuất hiện duy nhất một viên tinh thể màu xanh lục. Dù vậy rất ít người từng nhìn thấy nó, nên cũng chẳng mấy ai biết được điều này."
+"Tôi nghe đồn lúc Sói Pha Lê mang thai, trên mình nó sẽ mọc ra duy nhất một viên tinh thể màu lục. Hiếm ai tận mắt thấy nên ít người biết vụ này lắm."
 
-"Phải rồi, và tôi ngạc nhiên là cậu lại biết đấy." Dylas thở dài. "Đúng vậy, tôi nhận được thứ này từ chính con Sói Pha Lê đó."
+"Thế mà cậu cũng biết được, tài thật." Dylas thở dài. "Đúng là tôi lấy viên này từ con Sói Pha Lê đó đấy."
 
-"Thật không thể tin nổi. Tôi chắc chắn sẽ chẳng muốn lại gần một con Sói Pha Lê đang mang thai đâu." Khi đó chúng còn nguy hiểm hơn cả lúc đang nuôi con nhỏ.
+"Thế thì nể thật đấy. Cho tiền tôi cũng chẳng dám bén mảng lại gần một con Sói Pha Lê đang mang thai." Lúc ấy chúng còn nguy hiểm hơn cả khi nuôi con nhỏ nhiều.
 
-"Tôi đã nuôi nấng con Sói Pha Lê đó ở ngoại vi thị trấn từ khi nó còn bé. Tôi tình cờ tìm thấy nó khi nó bị thương, và kể từ đó đến nay, nó luôn cảm thấy thoải mái bên tôi."
+"Hồi nó còn bé tí, tôi từng nuôi nấng nó ở ngoài rìa thị trấn. Đợt đó tình cờ nhặt được lúc nó bị thương, từ bấy đến giờ nó cứ quấn quýt lấy tôi."
 
-"Nghĩa là anh đã thuần hóa được một con quái vật ư?"
+"Nghĩa là anh thuần hóa được cả quái vật cơ à?"
 
-Dylas lắc đầu. "Tôi không dám nói vậy đâu. Đúng hơn là nó đối xử với tôi như một người bạn."
+Dylas lắc đầu. "Đâu dám nhận thế. Đúng hơn là nó coi tôi như bạn thì có."
 
-"Thế thì vẫn quá đỗi phi thường rồi. Một con quái vật như vậy thông thường sẽ chẳng bao giờ tỏ ra thân thiện với con người đâu."
+"Thế cũng đáng nể lắm rồi. Bình thường quái vật cỡ đó đời nào chịu thân thiện với con người."
 
-"Chuyện đó xảy ra hoàn toàn là do trùng hợp thôi. Dù sao thì đó cũng là lý do tại sao tôi muốn giúp nó và đàn con của nó. Xin lỗi vì tôi đã nhờ cậy cậu chuyện này chỉ vì lý do cá nhân như thế."
+"Trùng hợp thôi mà. Dù sao thì đó cũng là lý do tôi muốn giúp mấy mẹ con nó. Làm phiền cậu nhận một ủy thác vì lý do riêng thế này, thật ngại quá."
 
-"Hầu hết các ủy thác đều xuất phát từ lý do cá nhân cả thôi. Anh có muốn tôi kể cho nghe về vài vụ ngớ ngẩn mà tôi từng nhận không? Tôi đã từng làm đủ mọi thứ từ dọn dẹp nhà vệ sinh cho đến đóng vai quản gia đấy."
+"Ủy thác nào chẳng xuất phát từ lý do riêng. Anh có muốn nghe vài vụ dở khóc dở cười tôi từng nhận không? Từ cọ rửa nhà vệ sinh cho tới đóng giả quản gia, thứ gì tôi cũng kinh qua rồi đấy."
 
-Dylas bật cười. "Tôi đoán ủy thác của mình tương đối bình thường so với những chuyện đó, vì dẫu sao nó cũng liên quan đến quái vật."
+Dylas bật cười. "So với mấy vụ đó thì ủy thác của tôi coi bộ còn bình thường chán, dẫu sao cũng liên quan tới quái vật."
 
-"Chính xác là vậy," tôi nói. "Giờ việc đó đã giải quyết xong xuôi, tôi nghĩ chúng ta nên quay trở về thị trấn thôi. Tôi muốn xem liệu hai người họ có trở về an toàn lành lặn hay không. À phải rồi, tôi cũng đã bảo sẽ đi uống rượu cùng họ nữa. Dylas, anh cũng nên tham gia cùng đi."
+"Chuẩn luôn," tôi cười bảo. "Xong xuôi rồi thì ta quay về thị trấn thôi. Tôi muốn xem hai người kia có về tới nơi lành lặn không. À phải rồi, tôi còn hẹn đi uống rượu với họ nữa. Dylas, anh làm một chân luôn đi."
 
-"Sao lại là tôi?"
+"Sao lại có tôi nữa?"
 
-"Bởi vì anh đã cản trở công việc làm ăn của họ mà. Ít nhất thì anh cũng nợ họ một chầu rượu đấy."
+"Vì anh vừa ngáng đường kiếm ăn của họ chứ đâu. Ít nhất cũng nợ người ta một chầu chứ."
 
-"Cậu nói thế thì đúng thật," Dylas vừa nói vừa gật gù. "Được rồi, thế thì để tôi bao. Và tôi muốn thấy cậu cũng phải uống thật nhiều đấy nhé, Rentt."
+"Nghe cậu nói cũng có lý," Dylas gật gù. "Thôi được rồi, để tôi bao. Cậu cũng phải uống cho đẫy vào đấy nhé, Rentt."
 
 "Tôi cũng đang tính thế đây."
