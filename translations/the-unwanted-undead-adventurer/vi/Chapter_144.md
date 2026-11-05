@@ -12,7 +12,7 @@ Chuyện đó xảy ra từ rất lâu trước khi tôi chào đời, chắc l�
 
 "Làng nhỏ mà, đành vậy thôi."
 
-Lorraine hỏi thế cũng phải, vì cô vốn lớn lên ở thành phố. Ở đó quái vật gần như chẳng bao giờ bén mảng tới. Hathara đúng là đặc biệt hẻo lánh thật, nhưng hầu hết làng quê đều thường trực đối mặt với hiểm nguy rình rập. Thành phố có tường cao hào sâu cùng đội lính gác được huấn luyện túc trực ở cổng, còn ở chốn này thì hoàn cảnh hoàn toàn khác biệt.
+Lorraine hỏi thế cũng phải, vì cô vốn lớn lên ở thành phố. Ở đó quái vật gần như chẳng bao giờ bén mảng tới. Hathara đúng là đặc biệt hẻo lánh thật, nhưng hầu hết làng quê đều thường trực đối mặt với hiểm nguy rình rập. Các thành phố có tường thành kiên cố cùng đội lính gác bài bản túc trực ở cổng, còn nơi này thì khác hẳn.
 
 Có người sẽ bảo sao chúng tôi không dọn hết lên thành phố mà ở, nhưng chuyện đó không thể làm được vì đủ thứ lý do. Trước hết là chỗ ở, mà tiền thuê nhà ở thành phố thì chẳng rẻ rúng gì. Ai muốn bám trụ lâu dài ở thành phố cũng cần một công việc có thu nhập khá khẩm, nhưng mấy chỗ tuyển người ở đó hiếm khi nhận kẻ chỉ có trình độ học vấn của một người nhà quê. Đó là trở ngại lớn nhất ngăn dân làng chuyển lên đó. Ai mà liều mình chấp nhận làm bất cứ nghề gì thì thường đi làm mạo hiểm giả, nhưng đó lại là một lựa chọn khắc nghiệt, kẻ nào thiếu kinh nghiệm chiến đấu sẽ mất mạng rất nhanh. Vả lại không phải ai cũng có Ma Lực hay Khí Lực, nên đa số dân làng gần như chẳng có cơ hội nào để lên thành phố lập nghiệp. Những người khác thì không muốn rời bỏ quê cha đất tổ, hoặc họ làm ra các sản phẩm từ nguồn nguyên liệu chỉ có ở vùng này, hay phải ở lại vì làm việc ở những khu lao động gần đó, cùng vô vàn lý do khác. Ở làng tuy nguy hiểm, nhưng chuyển đi nơi khác đâu phải cứ muốn là được.
 
@@ -44,9 +44,9 @@ Cô nói thế cũng phải. Ngôi đền tuy chưa sập, nhưng đã bị mưa
 
 Lorraine ngạc nhiên khi thấy tôi lại chịu khó ôm đồm ngần ấy việc. Giờ nghĩ lại, chính tôi cũng thấy phục mình thật.
 
-"Dù sao thì muốn sửa cũng phải biết hình dáng ban đầu của nó ra sao, nên tôi bắt đầu bằng cách cẩn thận tháo rời toàn bộ ra. Chỗ nào thấy không dùng được nữa thì tôi thay mới, mà hầu như phải thay gần hết, nên coi như dựng lại một căn nhà mới toanh rồi. Có điều vẫn còn vài phần xài được, mấy cái cột trông cũng còn trụ thêm được một thời gian. Thế là cuối cùng cũng dựng lại được thành hình khá tươm tất."
+"Dù sao thì muốn sửa cũng phải biết hình dáng ban đầu của nó ra sao, nên tôi bắt đầu bằng cách cẩn thận tháo rời toàn bộ ra. Chỗ nào thấy không dùng được nữa thì tôi thay mới, mà hầu như phải thay gần hết, nên coi như dựng lại một ngôi đền mới toanh rồi. Có điều vẫn còn vài phần xài được, mấy cái cột trông cũng còn trụ thêm được một thời gian. Thế là cuối cùng cũng dựng lại được thành hình khá tươm tất."
 
-"Vậy là anh bỏ bao nhiêu công sức vào cái đền này, rồi bỏ mặc suốt mười năm không ngó ngàng, và giờ nó thành ra thế này. Chà, so với một căn nhà bình thường nhiều năm không ai trông nom thì tôi công nhận là nó cũng đẹp thật."
+"Vậy là anh bỏ bao nhiêu công sức vào cái đền này, rồi bỏ mặc suốt mười năm không ngó ngàng, và giờ nó thành ra thế này. Chà, so với một công trình bình thường nhiều năm không ai trông nom thì tôi công nhận là nó cũng đẹp thật."
 
 "Đúng thế đấy. Nào Lorraine, dọn dẹp thôi." Lorraine nghiêng đầu khó hiểu khi thấy tôi lôi xô, giẻ lau cùng mấy thứ đồ dọn dẹp ra khỏi túi ma thuật. "Cô dùng ma thuật đổ đầy nước vào xô này nhé. Tôi đi chặt bớt dây leo. Cố làm xong trước khi trời tối là được."
 
@@ -54,7 +54,7 @@ Tôi kéo cô vào việc này có phần hơi ép uổng, nhưng nhìn lại ng
 
 ◆◇◆◇◆
 
-"Dọn dẹp xong xuôi trông cũng ra dáng hẳn đấy chứ," Lorraine hài lòng nói. Mặt cô lấm lem bồ hóng, nhưng ánh mắt lại rạng rỡ dưới ráng chiều. Tôi hiểu cảm giác của cô. Mất khá nhiều thời gian thật, nhưng làm cho nơi này đẹp đẽ hơn thế này thì cũng bõ công.
+"Dọn dẹp xong xuôi trông cũng ra dáng hẳn đấy chứ," Lorraine hài lòng nói. Mặt cô lấm lem bụi bẩn, nhưng nét mặt lại rạng rỡ dưới ánh chiều tà. Tôi hiểu cảm giác của cô. Mất khá nhiều thời gian thật, nhưng làm cho nơi này đẹp đẽ hơn thế này thì cũng bõ công.
 
 Tôi cũng chẳng khá hơn, nhưng nhờ có mặt nạ với áo choàng chắn bớt nên người ngợm đỡ bẩn hơn hẳn. Chiếc áo choàng bí ẩn tôi nhặt được trong mê cung hồi ấy tốt đến khó tin. Nó không chỉ kháng lửa kháng độc, mà dường như còn chống bám bẩn nữa.
 
@@ -74,13 +74,13 @@ Bao nhiêu công dọn dẹp sửa sang sẽ đổ sông đổ biển nếu cỏ
 
 "Nhìn tổng thể cả ngôi đền thế này, anh làm khéo tay thật đấy. Anh đúng là có khiếu đấy chứ, Rentt," Lorraine nói.
 
-Tự nhận thì hơi kiêu, nhưng nước sơn sửa này rõ ràng hơn hẳn dân nghiệp dư làm chơi bời. Dù sao tôi cũng từng theo học một người thợ lành nghề, nên chuyện đó có gì lạ đâu. Tôi không dám vỗ ngực nhận mình giỏi giang, nhưng tay nghề chí ít cũng ngang tầm một người thợ học việc.
+Tự nhận thì hơi kiêu, nhưng tay nghề tu sửa này rõ ràng hơn hẳn dân nghiệp dư làm chơi bời. Dù sao tôi cũng từng theo học một người thợ lành nghề, nên chuyện đó có gì lạ đâu. Tôi không dám vỗ ngực nhận mình giỏi giang, nhưng tay nghề chí ít cũng ngang tầm một người thợ học việc.
 
 "Tôi học được nhiều thứ trong làng lắm, có cảm ơn thì cảm ơn mọi người ấy. Ai biết được kỹ năng nào rồi sẽ có lúc cần đến chứ. Giờ thì cầu nguyện thôi nhỉ?"
 
 Đó vốn là mục đích chính của chuyến đi này—để cảm tạ sự che chở của vị đã ban phước cho tôi. Còn chuyện muốn biết đó rốt cuộc là ai, chắc đi hỏi mấy vị cao niên trong làng hoặc tra cứu sách cổ sẽ sáng tỏ đôi phần. Tôi không trông mong gì nhiều, nhưng thử chút cũng chẳng mất gì.
 
-Tôi quỳ trước đền, chắp hai tay lại. Lorraine cũng làm theo. Cô chẳng cần phải làm thế, nhưng chắc là hùa theo cho vui. Biết đâu hôm nay lại thuyết phục được cô quy y theo tôn giáo của ngôi đền này thì sao. Cơ mà một thần tinh linh không có lấy một tín đồ thì chắc chẳng đủ điều kiện để coi là một tôn giáo riêng, dẫu nghĩ thế thì hơi bất kính thật.
+Tôi quỳ trước đền, chắp hai tay lại. Lorraine cũng làm theo. Cô chẳng cần phải làm thế, nhưng chắc là hùa theo cho vui. Biết đâu hôm nay lại thuyết phục được cô cải đạo theo tôn giáo của ngôi đền này thì sao. Nhưng một thần tinh linh không có lấy một tín đồ thì chắc chẳng đủ điều kiện để coi là một tôn giáo riêng, dẫu nghĩ thế thì hơi bất kính thật.
 
 Cầu nguyện chưa được bao lâu, tôi bỗng nghe loáng thoáng như có tiếng ai nói. "Lorraine, cô nghe thấy gì không?" tôi ngơ ngác hỏi.
 
@@ -116,23 +116,23 @@ Tôi giật mình nhìn vào bụng cô. "Này, Lorraine..."
 
 Lorraine ngẫm nghĩ một chút. "Không, lúc này thì không," cô đáp. Câu trả lời đó như thể ngụ ý từng có lúc cô để mấy sinh vật kỳ lạ sống trên người mình thật. Dù tò mò muốn hỏi cho ra nhẽ, nhưng giờ chưa phải lúc.
 
-"Thôi cứ lôi nó ra xem nào?"
+"Dù sao thì cô lấy nó ra xem thử được không?"
 
 "Ừ thì để xem nào," cô vừa nói vừa thọc tay vào trong áo, tóm lấy thứ gì đó rồi lôi ra.
 
 "Chẳng phải dạo trước cô lấy món đó từ chỗ tôi à?" tôi hỏi.
 
-"Hình như thế. Cơ mà cái quái gì thế này? Nó đang tự cử động kìa."
+"Hình như thế. Nhưng cái quái gì thế này? Nó đang tự cử động kìa."
 
 Đó chính là bức tượng nhỏ hình Lorraine tôi từng đẽo từ gỗ Ent Bụi Cây. Chẳng hiểu sao nó lại tự cựa quậy được. Thú thật nhìn rợn cả người.
 
 "Có khi nào nó bị dính nguyền không?" tôi hỏi.
 
-"Không, tôi không nghĩ thế. Tôi chẳng thấy chút tà khí nào như mấy món đồ bị nguyền cả. Dù nói đi cũng phải nói lại, cái mặt nạ của anh tôi cũng có thấy gì đâu," Lorraine nói, trong lúc bức tượng nhỏ vẫn không ngừng ngo ngoe. Cách nó chuyển động trông hơi ngượng nghịu. Tôi đã đẽo cho nó đủ cả tay chân, chí ít nó cũng phải cố cử động cho giống người một tí chứ. Là người làm ra nó, tôi thấy hơi thất vọng.
+"Không, tôi không nghĩ thế. Tôi chẳng thấy chút tà khí nào như mấy món đồ bị nguyền cả. Dù nói đi cũng phải nói lại, từ chiếc mặt nạ của anh, tôi cũng có cảm nhận được gì đâu," Lorraine nói, trong lúc bức tượng nhỏ vẫn không ngừng ngọ nguậy. Cách nó chuyển động trông hơi ngượng nghịu. Tôi đã đẽo cho nó đủ cả tay chân, chí ít nó cũng phải cố cử động cho giống người một tí chứ. Là người làm ra nó, tôi thấy hơi thất vọng.
 
-"Ngươi là kẻ vừa lên tiếng đấy à?" tôi hỏi con rối nhỏ.
+"Ngươi là kẻ vừa lên tiếng đấy à?" tôi hỏi con búp bê.
 
-Nhìn từ ngoài vào thì cảnh tượng này trông nguy hiểm vô cùng. Không phải nguy hiểm vì tôi đang tiếp xúc với một sinh vật không rõ lai lịch mà không chút phòng bị đâu nhé, mà là vì tôi đang nói chuyện nghiêm túc với một con búp bê. Thực ra trên đời vẫn có những con búp bê tự cử động được phần nào khi được truyền Ma Lực. Giới người điều khiển rối hay dùng chúng để biểu diễn hoặc đi làm mạo hiểm giả. Một con búp bê biết nói cũng không hẳn là chuyện không tưởng, nhưng miệng đời xưa nay chẳng mấy thiện cảm với những người điều khiển rối. Người ta coi họ là một lũ quái đản, và nghĩ thế cũng chẳng sai. Muốn thành một người điều khiển rối, vừa phải am tường ma thuật kỹ thuật cao cấp, vừa phải đam mê búp bê đến mức cuồng si, thành ra đầu óc họ lắm lúc cũng có vấn đề. Dĩ nhiên vẫn có người bình thường, nhưng mấy kẻ lập dị mới là thành phần đập ngay vào mắt người ta. Bản thân tôi chưa từng có ý định dính dáng đến thuật điều khiển rối, mà nếu có muốn thì cũng phải lấy hết can đảm mới dám thử.
+Nhìn từ ngoài vào thì cảnh tượng này trông nguy hiểm vô cùng. Không phải nguy hiểm vì tôi đang tiếp xúc với một sinh vật không rõ lai lịch mà không chút phòng bị đâu nhé, mà là vì tôi đang nói chuyện nghiêm túc với một con búp bê. Thực ra trên đời vẫn có những con búp bê tự cử động được phần nào khi được truyền Ma Lực. Giới người điều khiển rối hay dùng chúng để biểu diễn hoặc đi làm mạo hiểm giả. Một con búp bê biết nói cũng không hẳn là chuyện không tưởng, nhưng miệng đời xưa nay chẳng mấy thiện cảm với những người điều khiển rối. Người ta coi họ là một lũ quái đản, và nghĩ thế cũng chẳng sai. Muốn thành một người điều khiển rối, vừa phải am tường kỹ thuật ma thuật cao cấp, vừa phải đam mê búp bê đến mức cuồng si, thành ra đầu óc họ lắm lúc cũng có vấn đề. Dĩ nhiên vẫn có người bình thường, nhưng mấy kẻ lập dị mới là thành phần đập ngay vào mắt người ta. Bản thân tôi chưa từng có ý định dính dáng đến thuật điều khiển rối, mà nếu có muốn thì cũng phải lấy hết can đảm mới dám thử.
 
 Bức tượng quay mặt lại nhìn tôi. "Phải, ta nói đấy. Chào nhé," nó cất tiếng, nhưng giọng nói lại chẳng hề ăn khớp với khẩu hình. Câu chào nghe chẳng có gì lạ lùng, nhưng chính vì thế lại càng khiến tôi thấy rờn rợn. Lorraine với tôi đưa mắt nhìn nhau rồi mới nói tiếp.
 
@@ -174,4 +174,4 @@ Bức tượng như đọc được suy nghĩ của tôi. "Đền này có ai th
 
 "Đó là Thần Lực."
 
-"Thần Lực á? Cái này ấy hả?" Lorraine hỏi. Cô sững sờ nhìn luồng ánh sáng đang phát ra từ người mình. Trông cô chẳng giống một tín đồ đang run lên vì sung sướng khi được thần linh ban phước chút nào. Nói đúng hơn, trông cô hệt như một học giả điên cuồng đang hí hửng vì vớ được đề tài mới để nghiên cứu. Nhìn cô chẳng bới đâu ra nửa hạt đức tin, khiến tôi không khỏi băn khoăn liệu vị tinh linh này có chọn nhầm đối tượng không. Cơ mà trông nó có vẻ đắc ý lắm.
+"Thần Lực á? Cái này ấy hả?" Lorraine hỏi. Cô sững sờ nhìn luồng ánh sáng đang phát ra từ người mình. Trông cô chẳng giống một tín đồ đang run lên vì sung sướng khi được thần linh ban phước chút nào. Nói đúng hơn, trông cô hệt như một học giả điên cuồng đang hí hửng vì vớ được đề tài mới để nghiên cứu. Ở cô ấy chẳng có lấy một chút đức tin nào, nên tôi cứ băn khoăn không biết vị tinh linh này chọn thế có đúng không nữa. Tuy vậy, trông nó vẫn có vẻ hài lòng lắm.
