@@ -1,155 +1,155 @@
 # Chương 117: Tập 5 Chương 1 - Lên Đường Mạo Hiểm (3)
 
-"Hai người đều ở đây sao ạ? Hôm nay có việc gì cần tìm em sao?" Alize vừa hỏi vừa nhìn về phía chúng tôi.
+"Cả hai người đều tới sao ạ? Hôm nay có việc gì tìm em thế ạ?" Alize nhìn chúng tôi, hỏi.
 
-"Ừ, có chút chuyện," tôi đáp lời.
+"Ừ, có chút chuyện," tôi đáp.
 
-"Dạ? Bộ có chuyện gì phức tạp lắm sao ạ?"
+"Dạ? Có chuyện gì phức tạp lắm sao ạ?"
 
-"Cũng không hẳn là vậy, nhưng sắp tới chúng tôi sẽ phải rời thị trấn để đi giải quyết công việc một thời gian. Tôi muốn báo cho em biết là các buổi học tạm thời sẽ phải hoãn lại," tôi thông báo cho cô bé.
+"Cũng không hẳn, nhưng sắp tới chúng tôi phải ra ngoài thị trấn có chút việc một dạo. Tôi muốn báo để em biết là các buổi học tạm thời sẽ phải hoãn lại," tôi nói với cô bé.
 
-Alize trông có vẻ sửng sốt. "Một thời gian là bao lâu ạ? Một năm? Hay hai năm?" cô bé hỏi dồn.
+Alize lộ vẻ sửng sốt: "Một dạo là bao lâu ạ? Một năm? Hay hai năm?" cô bé hỏi.
 
-Chúng tôi đâu có ý định đi lâu đến mức ấy, nên Lorraine lắc đầu đáp lại: "Không, không đâu, chỉ khoảng hai tuần thôi. Chúng tôi sẽ sớm quay về để dạy em nhiều hơn nữa."
+Chúng tôi đâu có ý định đi lâu đến thế, nên Lorraine lắc đầu đáp: "Không, không đến mức đó đâu, chỉ khoảng hai tuần thôi. Chúng tôi sẽ sớm quay về dạy em tiếp mà."
 
-Alize thở phào nhẹ nhõm. "May quá đi mất. Em cứ đinh ninh hai người sẽ rời đi mãi mãi cơ chứ. Nếu chỉ có vậy thì tốt quá rồi ạ," cô bé nói.
+Alize thở phào nhẹ nhõm: "May quá đi mất. Em cứ tưởng hai người sẽ đi luôn không về nữa chứ. Nếu chỉ có vậy thì tốt quá rồi ạ."
 
-Không phải tôi muốn rời khỏi thị trấn lâu đến thế, nhưng tôi thắc mắc tại sao cô bé lại nghĩ vậy. Tôi không kìm được bèn hỏi: "Sao em lại nghĩ chúng tôi sẽ đi mãi mãi?"
+Tôi đâu muốn rời thị trấn lâu đến thế, nhưng cũng lấy làm lạ không hiểu sao cô bé lại nghĩ vậy. Thế là tôi buột miệng hỏi: "Sao em lại nghĩ chúng tôi sẽ đi luôn?"
 
-"Bởi vì anh đang nỗ lực để trở thành mạo hiểm giả Mithril Cấp mà, đúng không ạ? Nếu vậy thì việc đến vương đô sẽ giúp anh đạt được mục tiêu đó nhanh hơn nhiều. Hơn nữa cô Lorraine lại là một ma pháp sư cừ khôi, chưa kể còn là một học giả xuất sắc nữa. Em lo rằng hai người ở thành phố lớn sẽ tốt hơn nhiều so với việc ở một nơi hẻo lánh như chốn này."
+"Bởi vì anh đang phấn đấu để trở thành mạo hiểm giả Mithril Cấp mà, đúng không ạ? Thế thì đến vương đô sẽ giúp anh đạt được mục tiêu nhanh hơn nhiều chứ. Còn Học Sĩ Lorraine lại là một ma pháp sư cừ khôi, chưa kể còn là học giả xuất sắc nữa. Em chỉ lo hai người tới thành phố lớn sẽ phát triển tốt hơn nhiều so với chốn hẻo lánh xa xôi này."
 
-Điều đó cũng dễ hiểu thôi. Đúng là tôi từng nghĩ đến chuyện chuyển đi vào một thời điểm nào đó. Song chuyện ấy vẫn còn xa vời lắm.
+Nghĩ vậy cũng phải. Đúng là tôi từng tính tới chuyện chuyển đi vào một lúc nào đó, nhưng chuyện ấy vẫn còn xa vời lắm.
 
-Dù sao đi nữa, ấn tượng của Alize về tôi xem chừng không giống với suy nghĩ của cô bé về Lorraine. Trong mắt em, tôi chỉ là người đang cố gắng đạt được điều gì đó, trong khi Lorraine đã là người thành đạt rồi. Chà, cô bé nói cũng chẳng sai.
+Dù sao thì trong mắt Alize, vị thế của tôi với Lorraine xem chừng khá lệch nhau. Với cô bé, tôi chỉ là một kẻ đang cố gắng vươn lên, còn Lorraine thì đã công thành danh toại. Chà, nghĩ thế cũng chẳng sai.
 
-Lorraine bật cười trước những băn khoăn của Alize. "Tôi đâu phải là học giả vĩ đại đến thế. Bản thân tôi thấy ma thuật của mình cũng tạm ổn, nhưng cũng chẳng có gì quá đỗi đặc biệt đâu. Rentt cũng vậy thôi. Đúng là anh ấy muốn đạt tới Mithril Cấp, nhưng liệu anh ấy có đủ trình độ để bươn chải ở vương đô không? Theo tôi thấy thì chưa hẳn đâu. Trước khi tính chuyện rời đi hẳn, chúng tôi sẽ dạy cho em những điều cơ bản để trở thành một ma pháp sư và mạo hiểm giả," cô tuyên bố.
+Lorraine bật cười trước nỗi lo của Alize: "Tôi đâu phải học giả ghê gớm gì cho cam. Bản thân tôi thấy ma thuật của mình cũng tàm tạm, chứ chẳng có gì quá đặc biệt. Rentt cũng thế thôi. Đúng là anh ấy muốn lên Mithril Cấp thật, nhưng liệu đã đủ trình để bươn chải ở vương đô chưa? Theo tôi thấy thì chưa đâu. Trước khi tính chuyện rời đi hẳn, chúng tôi sẽ dạy cho em những điều cơ bản để trở thành một ma pháp sư và mạo hiểm giả."
 
-Kế hoạch của chúng tôi đúng là như vậy. Những kiến thức cơ bản sẽ không mất quá nhiều thời gian để tiếp thu, vì thế chúng tôi hoàn toàn có ý định thong thả chỉ dạy cho cô bé. Một năm thì có thể hơi lâu, nhưng nếu chúng tôi đi vài tháng rồi thỉnh thoảng quay về dạy dần từng chút một thì cũng chẳng sao. Xét theo khía cạnh đó, Alize chẳng có gì phải lo lắng cả.
+Kế hoạch của chúng tôi đúng là như thế. Nắm kiến thức cơ bản thì không mất nhiều thời gian, nên chúng tôi hoàn toàn có thể thong thả chỉ dạy. Một năm thì có thể hơi lâu, nhưng nếu đi vài tháng rồi thi thoảng về dạy thêm từng chút thì cũng ổn thôi. Nghĩ vậy thì Alize việc gì phải lo.
 
-Cô bé gật đầu với Lorraine. "Thế thì tốt quá rồi ạ. Nếu cả hai người đều bỏ đi, em nghĩ mình sẽ chẳng bao giờ có thể trở thành mạo hiểm giả được mất," cô bé quả quyết.
+Cô bé gật đầu với Lorraine: "Thế thì tốt quá ạ. Nếu cả hai người đều đi mất, em nghĩ mình sẽ chẳng bao giờ làm mạo hiểm giả được nữa đâu," cô bé quả quyết.
 
-"Thật thế sao? Chà, ngay cả khi chuyện đó không thành, tôi nghĩ em hoàn toàn có thể trở thành một người kể chuyện hoặc một thi nhân hát rong đấy chứ. Ít nhất là xét theo màn đọc truyện vừa rồi của em," Lorraine trêu đùa.
+"Thế cơ à? Mà dẫu chuyện đó không thành, tôi nghĩ em vẫn làm người kể chuyện hoặc thi nhân hát rong được đấy chứ. Ít nhất là nhìn vào giọng đọc vừa rồi của em," Lorraine trêu.
 
-Đến tận lúc này Alize mới nhận ra chúng tôi đã đứng nghe em kể chuyện nãy giờ. Cô bé đỏ bừng mặt.
+Đến lúc này Alize mới nhận ra chúng tôi đã đứng nghe chuyện từ nãy giờ. Cô bé đỏ bừng mặt.
 
-"Hai người nghe thấy hết rồi sao ạ? Ngại chết đi được."
+"Hai người nghe thấy hết rồi ạ? Xấu hổ chết mất."
 
-Tôi an ủi cô bé: "Có gì đâu mà phải xấu hổ. Dù vậy, việc biến người lữ hành thành một đầu bếp quả là một lựa chọn thú vị đấy chứ. Em đam mê đồ ăn đến thế cơ à?"
+Tôi an ủi cô bé: "Có gì đâu mà ngại. Cơ mà để người lữ hành làm đầu bếp cũng là ý tưởng thú vị đấy chứ. Em mê ăn uống đến thế cơ à?"
 
-"Anh Rentt! Đương nhiên là không phải rồi ạ, nhưng nếu có một vương quốc ẩm thực thật thì em cũng muốn ghé thăm thử xem sao," cô bé mỉm cười đáp lại.
+"Anh Rentt này! Làm gì có chuyện đó chứ, cơ mà nếu có vương quốc ẩm thực thật thì em cũng muốn tới xem sao," cô bé cười đáp.
 
-Một vương quốc ẩm thực sao? Đương nhiên là chẳng có nơi nào như thế tồn tại rồi. Tất cả chỉ bắt nguồn từ trí tưởng tượng của Alize mà thôi. Song một vùng đất nơi bạn có thể thưởng thức mọi món ngon trên đời thì quả là một giấc mơ có thật. Ngay cả người lớn cũng khao khát được đến đó. Giới quý tộc luôn săn lùng của ngon vật lạ, thế nên họ sẵn sàng chi những khoản tiền cắt cổ để mua các bộ phận quái vật tươi sống. Quanh vùng này chẳng có gì nhiều ngoài thịt Orc, nhưng những vùng khác lại có chủng loại phong phú hơn hẳn. Trong số đó có cả nấm biết cử động lẫn cá bay.
+Một vương quốc ẩm thực ư? Lẽ dĩ nhiên là chẳng có nơi nào như thế rồi. Tất cả chỉ do Alize tưởng tượng ra mà thôi. Song một vùng đất có thể ăn thỏa thuê mọi món ngon trên đời thì quả là giấc mơ thành hiện thực. Đến cả người lớn cũng muốn tới đó nữa là. Giới quý tộc lúc nào cũng lùng sục của ngon vật lạ, sẵn sàng bỏ ra những khoản tiền trên trời để mua các bộ phận quái vật tươi sống. Quanh vùng này chẳng có gì ngoài thịt Orc, nhưng những xứ khác lại phong phú hơn nhiều, có khi gồm cả nấm biết bò lẫn cá biết bay.
 
-"Nói chuyện này làm tôi thấy đói bụng rồi đấy. Mà thôi. Alize này, không nhất thiết phải là ngay bây giờ, nhưng tôi có thể xin em một chút thời gian được không?" tôi hỏi.
+"Cứ nói chuyện này khéo tôi đói bụng mất. Mà thôi, Alize này, không nhất thiết phải là bây giờ, nhưng tôi xin em ít phút được không?" tôi hỏi.
 
-"Để làm gì thế ạ?" Alize hỏi ngược lại tôi.
+"Có việc gì thế anh?" Alize hỏi lại.
 
-"Tôi muốn làm cho em một bộ trang bị. Tôi đã thu thập xong nguyên liệu rồi, nhưng em cần phải đến tiệm rèn để lấy số đo. Tôi cũng dự định nhờ thợ rèn làm một vật dẫn ma pháp nữa. Nếu em muốn thì chúng ta cũng có thể làm việc đó trong hôm nay luôn."
+"Tôi muốn làm cho em một bộ trang bị. Nguyên liệu thì tôi kiếm đủ rồi, nhưng em phải tới tiệm rèn để thợ lấy số đo. Tôi cũng định đặt làm một vật dẫn ma pháp nữa. Nếu em tiện thì hôm nay làm luôn cũng được."
 
-Dẫu vậy, tôi không nghĩ cô bé sẽ nhận lời ngay tắp lự trước lời mời đường đột này. Tất cả những gì tôi muốn chỉ là báo cho em biết hôm nay sẽ không có buổi học nào, và hỏi xem hôm nào em sẽ rảnh rỗi. Tiện nhất thì đúng là giải quyết xong xuôi ngay lập tức, nhưng như thế thì hơi đòi hỏi quá. Bản thân Alize cũng bận rộn với những công việc riêng của mình.
+Thật lòng thì tôi cũng không mong cô bé nhận lời ngay trước đề nghị đột ngột này. Mục đích của tôi chỉ là báo hôm nay nghỉ học, rồi hỏi xem hôm nào em rảnh rỗi. Xong ngay hôm nay thì tiện nhất thật, nhưng đòi hỏi thế thì hơi quá. Alize cũng có việc riêng của mình chứ.
 
-Thế nhưng cô bé lại khiến tôi bất ngờ. "Hừm. Hôm nay em cũng không có lịch trình gì bận rộn cả, nên chắc là được thôi ạ. Có điều, em phải xin phép Sơ Lillian trước khi đưa ra câu trả lời cho hai người," cô bé nói với tôi.
+Thế nhưng cô bé lại làm tôi bất ngờ: "Hừm. Hôm nay em cũng chẳng có việc gì, nên chắc là được thôi ạ. Có điều em phải thưa với Sơ Lillian trước đã rồi mới trả lời hai người được," cô bé bảo.
 
-Thời gian của chúng tôi tuy không phải là vô tận, nhưng chờ đợi một lát thì chẳng thành vấn đề. Nếu không được, chúng tôi hoàn toàn có thể dùng ngày hôm nay để đi mua sắm các nhu yếu phẩm cho chuyến đi sắp tới. Vì thế hai đứa tôi gật đầu.
+Chúng tôi đâu có rảnh rỗi cả ngày, nhưng đợi một lúc thì chẳng sao. Nếu không được thì hôm nay đi mua sắm đồ đạc chuẩn bị cho chuyến đi cũng tốt. Thế là cả hai chúng tôi gật đầu.
 
-"Được rồi, không sao đâu. Chúng tôi sẽ chờ ở đây," tôi đáp.
+"Được rồi, không sao. Chúng tôi chờ ở đây," tôi đáp.
 
-"Vâng ạ, em hiểu rồi. Vậy hai người đợi em một lát nhé!" Alize nói rồi rời khỏi nhà nguyện.
-
-◆◇◆◇◆
-
-Một lúc sau, Alize quay trở lại. Hôm nay cô bé được phép ra ngoài, thế là chúng tôi quyết định cùng nhau tới tiệm rèn. Khi xong việc ở đó, tôi dự định sẽ chế tạo một chiếc đũa phép từ các bộ phận của bầy Ent Jyulapus mà tôi từng đánh bại.
-
-Dù vậy, nó không chỉ dành riêng cho Alize. Trong chuyến đi kéo dài hai tuần sắp tới, tôi muốn luyện tập ma thuật bằng cách sử dụng vật dẫn, thế nên tôi cũng có lý do để chuẩn bị một cây đũa phép cho bản thân mình.
-
-"Ồ, Rentt và Lorraine đấy à. Ơ kìa..."
-
-Đã khá lâu rồi chúng tôi mới lại ghé thăm tiệm Ba Chĩa của Clope. Vừa bước chân vào, chúng tôi đã được Luka, người vợ đang trông coi cửa tiệm của Clope cất tiếng chào đón.
-
-Khi nhìn thấy khuôn mặt tôi, nét mặt cô ấy tràn ngập vẻ kinh ngạc, bối rối và có chút bồi hồi hoài niệm. Giờ đây chiếc mặt nạ của tôi chỉ còn che một nửa khuôn mặt, nên tôi đoán đó chính là lý do. Đã lâu lắm rồi tôi không lộ gương mặt cũ ở quanh đây, bởi vậy phản ứng của cô ấy cũng là điều dễ hiểu.
-
-"Chào cô, lâu quá không gặp. Đây là Alize, đệ tử của chúng tôi. Chúng tôi đến đây để đặt làm chút trang bị. Anh Clope có ở đây không?" tôi hỏi.
-
-"À, có chứ, xin đợi một lát. Tôi đi gọi anh ấy ngay đây. Anh ơi! Anh à!!!" Luka chạy vội ra lò rèn ở gian phòng phía sau rồi cất tiếng gọi lớn.
-
-Lorraine dõi mắt nhìn theo bóng lưng cô ấy. "Anh có chắc là muốn để họ nhìn thấy mặt mình không đấy?" cô hỏi cộc lốc.
-
-"Chà, tôi chắc là ổn thôi. Che giấu khuôn mặt mãi cũng khiến tôi chẳng thoải mái chút nào. Tôi không còn lo lắng về chuyện đó nữa rồi, không thành vấn đề đâu."
-
-Tôi nói một cách lấp lửng vì có Alize ở đó, nhưng Lorraine hiểu rõ ý tôi. Trước kia tôi chỉ là một Undead đơn thuần, song đến lúc này, vẻ ngoài của tôi đã chẳng khác gì một con người bình thường. Thánh Hỏa cũng đã xóa tan mọi nghi ngờ về việc tôi là một Ma Cà Rồng, nên tôi cho rằng bản thân sẽ không còn rước lấy bất kỳ rắc rối nào nữa.
-
-Alize nghiêng đầu thắc mắc, nhưng cô bé vẫn luôn hiểu chuyện như mọi khi. Cảm nhận được cuộc trò chuyện của chúng tôi không phải việc mình nên xen vào, cô bé bèn bước lùi lại rồi quan sát các món trang bị xung quanh cửa tiệm.
-
-"Tôi hiểu rồi. Dù sao thì anh cũng có thể bằng cách nào đó dàn xếp ổn thỏa thủ tục đăng ký ở Hội Mạo Hiểm Giả, thế nên chắc là sẽ ổn thôi," Lorraine nói rồi gật đầu, thừa biết quy trình đăng ký của hội có vô số kẽ hở.
-
-Tôi gật đầu đáp lại rồi tiến lại gần Alize khi cô bé đang ngắm nghía đống trang bị trong tiệm. "Em có ưng món nào không?" tôi hỏi.
-
-Alize khéo léo không đụng chạm đến cuộc trò chuyện giữa tôi và Lorraine. "Em cũng không rõ nữa, nhưng em nghĩ mình không dùng được thứ gì quá nặng đâu ạ."
-
-Cô bé nhìn về phía một thanh đại kiếm đồ sộ. Món đó ngay cả tôi cầm vào cũng thấy chật vật. Đến thời điểm này tôi đã đủ khỏe để nhấc nó lên, thậm chí có thể vung được, nhưng tôi không đủ dũng khí để sử dụng nó với tư cách một mạo hiểm giả độc hành. Còn Alize thì chắc chắn sẽ bị sức nặng của nó đè bẹp dúm mất thôi.
-
-"Chà, em không phải bận tâm về mấy thứ khổng lồ này đâu. Vả lại, người thợ rèn mà em sắp gặp là một tay kỳ cựu đấy. Tôi khuyên em nên hỏi xin lời khuyên của anh ấy trước khi đưa ra bất kỳ quyết định nào."
-
-"Thật thế ạ? Anh và cô Lorraine cũng sẽ giúp em chứ ạ?" Alize hỏi, giọng điệu đúng chuẩn một người đệ tử ngoan ngoãn.
-
-Tôi tỏ ý tán thành: "Đương nhiên rồi."
+"Dạ, em biết rồi. Vậy hai người đợi em một lát nhé!" Alize nói rồi rời khỏi nhà nguyện.
 
 ◆◇◆◇◆
 
-"Cậu chắc là mình nên làm vậy chứ?" Clope vừa bước vào vừa hỏi. Tôi đoán ý anh ấy muốn hỏi tại sao tôi lại để lộ mặt.
+Một lúc sau, Alize quay lại. Hôm nay cô bé được phép ra ngoài, thế là cả ba cùng nhau tới tiệm rèn. Xong việc ở đó, tôi định sẽ làm một chiếc đũa phép từ các bộ phận của bầy Ent Jyulapus mà mình từng đánh bại.
 
-"Khi ra ngoài, tôi thường che kín toàn bộ khuôn mặt thế này đây," tôi đáp lại rồi nghịch ngợm chiếc mặt nạ để biến đổi hình dạng cho nó che kín tất cả, làm cho gương mặt tôi trông như một chiếc đầu lâu.
+Cơ mà đũa phép đâu chỉ dành riêng cho Alize. Suốt chuyến đi hai tuần sắp tới, tôi muốn luyện tập ma thuật bằng vật dẫn, nên tôi cũng cần một cây đũa phép cho riêng mình.
 
-"Trước giờ tôi chẳng nhận ra chiếc mặt nạ đó có gì đặc biệt cả. Này, tháo nó ra cho tôi xem thử coi," Clope yêu cầu.
+"Ồ, Rentt với Lorraine đấy à. Ơ kìa..."
 
-Sau khi anh ấy nhắc tới, tôi mới nhận ra rằng nhiều khả năng mình chưa từng kể cho Clope nghe về chiếc mặt nạ. Anh ấy là một thợ rèn tài ba có con mắt tinh tường không chỉ dừng lại ở vũ khí và áo giáp, nhưng tôi đồ rằng chiếc mặt nạ này quá đỗi kỳ dị đối với anh ấy. Có thể anh ấy sẽ nhận ra nó là một loại ma cụ nào đó, song sẽ chẳng bao giờ đoán ra được hiệu quả của nó đâu. Rốt cuộc thì chính tôi đã tự mình nghiên cứu và nhờ cậy Lorraine giúp đỡ mà vẫn công cốc đấy thôi. Tôi ngờ rằng chẳng ai biết thực chất nó là thứ gì.
+Cũng lâu rồi chúng tôi mới lại ghé tiệm Ba Chĩa của Clope. Vừa bước chân vào, Luka — người vợ đang trông tiệm giúp Clope — đã cất tiếng chào đón.
 
-"Nếu anh tháo được nó ra thì tôi rất sẵn lòng cho anh xem đấy," tôi cười khẩy. Anh ấy không thể nhìn thấy mặt tôi, nhưng ánh mắt tôi đã để lộ nụ cười.
+Khi nhìn thấy mặt tôi, nét mặt cô ấy thoáng vẻ kinh ngạc, bối rối pha chút hoài niệm. Giờ chiếc mặt nạ chỉ còn che nửa mặt, nên tôi đoán đó là lý do. Đã lâu lắm rồi tôi không để lộ khuôn mặt cũ ở chốn này, thành thử cô ấy phản ứng vậy cũng phải.
 
-Háo hức trước lời thách thức, Clope xắn tay áo lên. "Gì cơ? Được thôi, nếu cậu đã khăng khăng như thế," anh ấy nói rồi bước lại gần, đặt hai tay vào hai bên chiếc mặt nạ.
+"Chào cô, lâu quá không gặp. Đây là Alize, đệ tử của chúng tôi. Tụi tôi ghé qua đặt làm ít trang bị. Anh Clope có ở đây không cô?" tôi hỏi.
 
-Clope dùng hết sức bình sinh giật mạnh, nhưng nó không hề suy chuyển lấy một li. Tất cả những gì anh ấy làm được chỉ là kéo căng da mặt và làm tôi đau điếng. Cũng như hầu hết thợ rèn, Clope sở hữu đôi cánh tay rất khỏe khoắn. Việc tạo ra những trang bị có thể trụ vững qua bao chuyến phiêu lưu đòi hỏi một thể lực đáng nể. Thoạt nhìn Clope có vẻ gầy gò, nhưng thực chất lại cơ bắp và dẻo dai. Và người đàn ông đó đang ra sức giật một vật dính chặt vào mặt tôi, đủ hiểu nỗi đau đớn ấy khủng khiếp đến nhường nào. Song tôi là một dạng Ma Cà Rồng, nên khả năng chịu đựng và hồi phục của tôi rất cao. Nếu không thì da mặt tôi đã bị lột sạch từ lâu rồi. Trong một khoảnh khắc, tôi thấy mừng vì mình đã biến thành quái vật, nhưng sau khi suy xét một cách lý trí, đó cũng chính là lý do duy nhất khiến tôi phải đeo chiếc mặt nạ này.
+"À có chứ, đợi tôi một lát, tôi đi gọi anh ấy ngay. Mình ơi! Anh ơi!!!" Luka vội chạy ra lò rèn ở gian sau, gọi với vào.
 
-"Tôi nghĩ thế là đủ rồi đấy," tôi bảo Clope khi đã chịu đau quá đủ.
+Lorraine nhìn theo bóng lưng cô ấy, hỏi cộc lốc: "Anh chắc là muốn để họ thấy mặt mình chứ?"
 
-"Hả? Ồ," anh ấy thở dài rồi buông tay khỏi mặt tôi. "Nhưng mà chết tiệt thật, nó dính chặt kinh khủng. Cái quái gì với chiếc mặt nạ đó thế hả?"
+"Chắc không sao đâu. Cứ giấu mặt mãi tôi cũng thấy khó chịu. Giờ tôi chẳng lo chuyện đó nữa, không vấn đề gì đâu."
 
-"Tôi cũng chịu. Hình như nó được mua từ một gánh hàng rong, nhưng từ lúc đeo vào là tôi không tài nào tháo ra được nữa. Ít nhất thì nó cũng cho tôi một cái cớ để không phải gỡ ra, vả lại tôi có thể thay đổi diện mạo của nó nên cũng không đến nỗi tệ. Song tốt nhất là tôi chẳng muốn phải đeo thứ này suốt phần đời còn lại đâu."
+Vì có Alize ở đó nên tôi nói bóng gió, nhưng Lorraine thừa hiểu ý tôi. Trước kia tôi chỉ là một Undead, song giờ đây vẻ ngoài đã chẳng khác gì người bình thường. Thánh Hỏa cũng đã gột sạch nghi vấn tôi là Ma Cà Rồng, nên chắc sẽ chẳng còn rắc rối nào ập tới nữa đâu.
 
-Mạo hiểm giả thường hay đeo mặt nạ, nhưng tôi thì chẳng có nhu cầu đó. Hơn nữa, dù tôi không phiền lòng khi phải đeo nó trong những chuyến phiêu lưu, nhưng việc không thể tháo ra lúc ngủ hay tắm rửa quả thực rất khó chịu. Tôi đang dần quen với nó, nhưng nếu có cơ hội tháo được ra, tôi sẽ chớp lấy ngay tức khắc.
+Alize nghiêng đầu, nhưng cô bé vốn luôn biết điều. Đoán được câu chuyện giữa hai chúng tôi không phải việc mình nên nghe, cô bé lùi ra xa, ngắm nghía mấy món trang bị bày quanh tiệm.
 
-"Nghe có vẻ như nó bị nguyền rủa rồi. Nếu lời nguyền không quá mạnh thì chỉ cần chút thanh tẩy bằng Thần Lực là giải quyết được thôi, nhưng cậu hoàn toàn có thể tự làm việc đó mà," Clope phỏng đoán, thừa biết tôi có thể sử dụng Thần Lực.
+"Ra vậy. Thủ tục đăng ký ở Hội Mạo Hiểm Giả kiểu gì anh cũng thu xếp êm xuôi được, thế nên chắc cũng ổn thôi," Lorraine gật đầu tán thành, bởi cô thừa biết khâu đăng ký của Hội có bao nhiêu kẽ hở.
 
-"Tôi thử rồi, chẳng ăn thua. Thậm chí có người khác từng tình cờ làm việc đó giúp tôi, nhưng cũng chẳng có gì xảy ra cả." Thánh Nữ Myullias từng ban phước khắp cơ thể tôi bằng Thần Lực, vốn có tác dụng thanh tẩy. Nhưng rốt cuộc chiếc mặt nạ vẫn dính nguyên ở đó. Lại còn có cả Thánh Hỏa của Nive nữa, song thứ đó lại khác biệt so với thanh tẩy. Dù sao đi nữa, nó vẫn không chịu rời ra, và có nghĩ ngợi nhiều cũng chẳng để làm gì.
+Tôi gật đầu, bước lại gần Alize khi cô bé đang ngắm nghía đồ đạc trong tiệm. "Có ưng món nào không em?" tôi hỏi.
 
-"Nghĩa là thanh tẩy thông thường không có tác dụng sao?"
+Alize ý tứ không đả động gì tới chuyện ban nãy của tôi với Lorraine: "Em cũng không rõ, nhưng chắc em chẳng dùng nổi thứ gì quá nặng đâu ạ."
+
+Cô bé nhìn sang một thanh đại kiếm đồ sộ. Thứ đó ngay cả tôi cầm vào cũng thấy chật vật. Giờ thì tôi đã đủ sức nhấc nó lên, thậm chí vung được vài nhát, nhưng bảo dùng nó khi đi mạo hiểm một mình thì tôi chịu, chẳng dám đâu. Còn Alize thì chắc chắn sẽ bị sức nặng của nó đè bẹp dí.
+
+"Mấy thứ to đùng này em không phải bận tâm làm gì. Vả lại người thợ rèn em sắp gặp là dân trong nghề lâu năm rồi, cứ hỏi ý kiến anh ấy trước khi quyết định."
+
+"Thật thế ạ? Anh với Học Sĩ Lorraine cũng sẽ giúp em chứ ạ?" Alize hỏi, giọng điệu đúng ra dáng một người đệ tử.
+
+Tôi gật đầu: "Đương nhiên rồi."
+
+◆◇◆◇◆
+
+"Để mặt thế này có ổn không đấy?" Clope vừa bước vào vừa hỏi. Tôi đoán ý anh muốn hỏi sao tôi lại để lộ mặt.
+
+"Lúc ra ngoài thì tôi che kín cả mặt thế này này," tôi đáp rồi nắn chỉnh chiếc mặt nạ cho phủ kín mặt, biến diện mạo mình thành hình đầu lâu.
+
+"Trước giờ tôi chẳng để ý cái mặt nạ đó có gì đặc biệt. Này, tháo ra cho tôi xem thử coi," Clope bảo.
+
+Nghe anh nhắc, tôi mới sực nhớ là hình như mình chưa từng kể với Clope về chiếc mặt nạ. Anh là một thợ rèn tài hoa, mắt nhìn đồ không chỉ giới hạn ở vũ khí với áo giáp, nhưng tôi đoán món đồ này quá đỗi kỳ dị với anh. Có thể anh sẽ nhận ra nó là một loại ma cụ nào đó, song công dụng của nó thì chịu, đố mà đoán nổi. Dẫu sao thì chính tôi đã tự mày mò nghiên cứu rồi nhờ cả Lorraine giúp mà vẫn chẳng đi đến đâu. Tôi không nghĩ có ai biết thực chất nó là thứ gì.
+
+"Anh tháo được thì tôi sẵn lòng cho xem ngay," tôi cười. Anh không thấy được mặt tôi, nhưng qua ánh mắt cũng đủ biết tôi đang cười.
+
+Thấy bị thách thức, Clope xắn ngay tay áo lên: "Gì cơ? Được thôi, nếu cậu đã muốn thế," nói rồi anh bước lại gần, áp hai tay vào hai bên mép mặt nạ.
+
+Clope dùng hết sức bình sinh giật mạnh, nhưng nó chẳng hề nhúc nhích. Anh chỉ làm mỗi một việc là kéo căng da mặt khiến tôi đau điếng. Cũng như đa số thợ rèn, tay Clope rất khỏe. Tạo ra những trang bị có thể bền bỉ qua bao chuyến mạo hiểm đòi hỏi thể lực không tồi chút nào. Thoạt nhìn Clope có vẻ gầy gò, nhưng thật ra lại săn chắc và gân guốc. Bị một người như thế ra sức giật món đồ dính chặt trên mặt thì đau đớn đến mức nào, khỏi nói cũng hình dung được. May mà tôi là một dạng Ma Cà Rồng nên sức chịu đựng và khả năng hồi phục đều cao, chứ không da mặt đã bị lột sạch từ đời nào rồi. Thoáng chốc tôi còn thấy may vì mình đã biến thành quái vật, nhưng nghĩ lại một cách tỉnh táo thì đó cũng chính là lý do duy nhất khiến tôi phải đeo cái mặt nạ này.
+
+"Tôi nghĩ thế là đủ rồi đấy," tôi bảo Clope khi thấy chịu đựng thế là quá đủ.
+
+"Hở? Ồ," anh thở dài rồi buông tay ra. "Cơ mà dính chặt thật đấy. Rốt cuộc cái mặt nạ này bị làm sao thế hả?"
+
+"Tôi cũng chịu. Nghe đâu là mua từ một sạp hàng rong, cơ mà đeo vào rồi là tôi không tài nào gỡ ra được nữa. Ít nhất thì nó cũng cho tôi một cái cớ để khỏi phải tháo, vả lại còn đổi được hình dạng nên cũng không đến nỗi tệ. Có điều nếu được chọn thì chẳng ai muốn đeo thứ này suốt cả đời đâu."
+
+Mạo hiểm giả đeo mặt nạ thì không hiếm, nhưng tôi vốn chẳng có nhu cầu. Vả lại, đi mạo hiểm mà đeo thì không sao, chứ lúc ngủ hay tắm rửa mà cũng không tháo nổi thì bực mình vô cùng. Dù tôi đang dần quen với nó, nhưng nếu có cơ hội tháo được ra thì tôi chớp lấy ngay tức khắc.
+
+"Nghe như dính nguyền rủa ấy nhỉ. Nếu lời nguyền không quá mạnh thì dùng chút Thần Lực thanh tẩy là xong ngay, cơ mà trò đó cậu tự làm được còn gì," Clope đoán, thừa biết tôi dùng được Thần Lực.
+
+"Tôi thử rồi, không ăn thua. Thậm chí có người từng vô tình làm giúp tôi chuyện đó, nhưng cũng chẳng suy chuyển gì." Thánh Nữ Myullias từng dùng Thần Lực ban phước khắp cơ thể tôi, vốn dĩ có tác dụng thanh tẩy. Thế nhưng rốt cuộc chiếc mặt nạ vẫn trơ trơ ở đó. Lại thêm cả Thánh Hỏa của Nive nữa, cơ mà ngọn lửa ấy khác với thanh tẩy. Dù sao thì nó nhất định không chịu bong ra, nên có nghĩ ngợi nhiều cũng bằng thừa.
+
+"Nghĩa là thanh tẩy thông thường không ăn thua hả?"
 
 "Đúng vậy."
 
-"Hừm. Lorraine này, cô có biết cách nào gỡ nó ra không?" Clope hướng sự chú ý sang cô.
+"Hừm. Lorraine này, cô có biết cách nào tháo nó ra không?" Clope quay sang hỏi cô.
 
-Cô lắc đầu: "Nếu biết thì tôi đã làm từ lâu rồi. Tôi đã tìm hiểu kỹ càng nhưng chẳng phát hiện được gì nhiều."
+Cô lắc đầu: "Nếu biết thì tôi đã làm từ đời nào rồi. Tôi cũng tìm hiểu thử nhưng chẳng tra ra được gì mấy."
 
-Lorraine cũng là một mạo hiểm giả, và dù cô hầu như luôn thực hiện các ủy thác trong bộ áo choàng pháp sư, cô vẫn mặc áo giáp nhẹ bên trong. Cô cũng mang theo một con dao găm để cận chiến và mổ xẻ quái vật, thế nên thỉnh thoảng cô vẫn ghé qua tiệm rèn này và có quen biết với Clope.
+Lorraine cũng là mạo hiểm giả. Dù hầu như lần nào đi làm ủy thác cô cũng khoác áo choàng pháp sư, nhưng bên trong vẫn mặc một bộ giáp nhẹ. Cô còn mang theo dao găm để cận chiến và mổ xẻ quái vật nữa, thành thử thi thoảng cô vẫn ghé tiệm rèn này nên cũng quen mặt Clope.
 
-Anh ấy có vẻ trầm ngâm trước câu trả lời của cô. "Vậy sao? Đến cô mà cũng chịu à? Để tôi thử tìm hiểu thêm xem sao," anh ấy kết luận rồi nhìn ra phía sau chúng tôi, nơi Alize đang lẩn trốn. "Thế hôm nay chỉ làm đồ cho con bé thôi à?"
+Nghe câu trả lời của cô, nét mặt Clope thoáng vẻ đăm chiêu: "Thế à? Đến cô mà cũng chịu ư? Để tôi thử tìm hiểu thêm xem sao," nói đoạn, anh nhìn ra sau lưng hai chúng tôi, nơi Alize đang lẩn trốn. "Thế hôm nay chỉ làm đồ cho con bé thôi hả?"
 
-Alize đã nép mình trốn đi bởi vẻ ngoài có phần dữ dằn của Clope. Anh ấy tuy gầy gò nhưng ánh mắt lại vô cùng sắc lạnh. Một khi đã dán mắt vào thứ gì, anh ấy sẽ không bao giờ rời mắt đi chỗ khác. Những bé gái trạc tuổi ấy hẳn sẽ thấy anh ấy rất đáng sợ.
+Alize nép người trốn là vì vẻ ngoài có phần bặm trợn của Clope. Người anh tuy gầy nhưng thần thái lại dữ dằn. Một khi đã nhìn chăm chú vào thứ gì, anh không bao giờ rời mắt. Mấy đứa con gái nhỏ trạc tuổi ấy hẳn sẽ thấy anh đáng sợ lắm.
 
-"Alize, không sao đâu. Chú ấy tốt bụng hơn vẻ bề ngoài nhiều. Vả lại, nếu Rentt không làm em sợ thì việc gì phải sợ một người đàn ông bình thường này chứ? Chẳng phải ngớ ngẩn lắm sao?" Lorraine vừa chỉ ra vừa đẩy Alize về phía trước. Nếu phải chọn xem giữa một kẻ vận áo choàng đen đeo mặt nạ đầu lâu với một gã bặm trợn to mồm ai đáng sợ hơn, thì có lẽ việc đó sẽ khó khăn hơn người ta tưởng đấy. Hai người họ gợi lên những nỗi sợ hãi hoàn toàn khác nhau. Mà chuyện đó cũng chẳng quan trọng.
+"Alize, không sao đâu. Chú ấy tốt bụng hơn vẻ ngoài nhiều. Vả lại, nếu Rentt không làm em sợ thì việc gì phải sợ một người đàn ông bình thường thế này chứ? Thế chẳng phải buồn cười lắm sao?" Lorraine vừa nói vừa đẩy Alize lên phía trước. Nếu phải chọn xem giữa một kẻ mặc áo choàng đen đeo mặt nạ đầu lâu với một người bộc trực bặm trợn bên nào đáng sợ hơn, thì có khi khó chọn hơn người ta tưởng đấy. Hai kiểu đó gợi lên hai nỗi sợ hoàn toàn khác nhau. Cơ mà chuyện đó cũng chẳng quan trọng.
 
-"Alize, đây là Clope, người thợ rèn đã giúp đỡ tôi từ trước cả khi tôi trở thành mạo hiểm giả. Như Lorraine đã nói đấy, anh ấy không đáng sợ như vẻ bề ngoài đâu. Anh ấy sẽ là người làm trang bị cho em," tôi bảo Alize.
+"Alize, đây là anh Clope, người thợ rèn đã giúp đỡ tôi từ trước khi tôi làm mạo hiểm giả cơ. Như Lorraine nói đấy, anh ấy không đáng sợ như vẻ ngoài đâu. Anh ấy sẽ làm trang bị cho em," tôi bảo Alize.
 
-Cô bé hạ quyết tâm rồi bước lên một bước về phía anh ấy. "Cháu là Alize, đứa trẻ ở Cô Nhi Viện Thứ Hai Maalt và là đệ tử của anh Rentt cùng cô Lorraine ạ. Rất vui được gặp chú ạ," cô bé lễ phép chào. Hồi đầu khi tôi mới đến cô nhi viện, cô bé cũng đón tiếp tôi rất niềm nở, thế nên cách cư xử này của em chẳng có gì đáng ngạc nhiên. Nhưng không giống như lúc ấy, giờ đây em đang đi cùng những người mà mình có thể nương tựa, bởi vậy cử chỉ của em có phần rụt rè, bẽn lẽn hơn. Điều đó có nghĩa là khi tôi đến cô nhi viện trước kia, em đã phải gồng mình vượt qua giới hạn của bản thân. Nghĩ đến chuyện hồi ấy mình hẳn đã làm cô bé sợ hãi đến nhường nào, tôi không khỏi thấy áy náy. Dù vậy, giờ thì cũng đã muộn rồi.
+Cô bé lấy hết can đảm, bước lên một bước: "Cháu là Alize, sống ở Cô Nhi Viện Thứ Hai Maalt và là đệ tử của anh Rentt cùng Học Sĩ Lorraine ạ. Rất vui được gặp chú ạ." Hồi đầu khi tôi mới đến cô nhi viện, cô bé cũng đón tiếp tôi rất niềm nở, thế nên tác phong này của em chẳng có gì bất ngờ. Song khác với bấy giờ, giờ đây em có những người mình tin cậy đi cùng, thành thử dáng vẻ có phần rụt rè, e ấp hơn. Điều đó có nghĩa hồi tôi tới cô nhi viện lần đầu, em đã phải gồng mình vượt qua giới hạn chịu đựng của bản thân. Nghĩ tới chuyện lúc đó mình làm cô bé sợ đến thế nào, tôi lại thấy áy náy. Cơ mà giờ thì cũng muộn rồi.
 
-"Ồ, một đứa nhóc không sợ chú sao. Hiếm thấy thật đấy. Được rồi, chú cũng rất vui được gặp cháu. Vậy là chú chỉ cần làm trang bị cho cháu thôi đúng không?" Clope vừa nói vừa xoa đầu Alize. Anh ấy luôn dịu dàng, ấm áp với phụ nữ và trẻ con. Nhờ thế mà anh ấy mới lấy được một người vợ xinh đẹp như Luka. Và nếu nhìn kỹ hơn vào gương mặt nghiêm nghị của anh ấy, ta sẽ thấy nó khá điển trai và thanh tú.
+"Hô, có đứa nhóc không sợ chú cơ đấy. Hiếm thấy thật. Được rồi, chú cũng rất vui được gặp cháu. Vậy là chú chỉ cần làm trang bị cho cháu thôi đúng không?" Clope vừa nói vừa xoa đầu Alize. Anh luôn đối xử rất ấm áp với phụ nữ và trẻ nhỏ. Nhờ thế mà anh mới cưới được người vợ xinh đẹp như Luka. Vả lại nếu nhìn kỹ khuôn mặt nghiêm nghị của anh, đường nét cũng khá điển trai và thanh tú.
 
 ![](images/ch117-01.webp)
 
-Người ta từng bảo tôi có một khuôn mặt búng ra sữa. Tôi tự hỏi không biết bây giờ họ sẽ nói gì. Da dẻ tôi đã tái nhợt hơn, và tôi cảm thấy ánh mắt mình sắc sảo hơn trước, nên tôi đoán trông mình không còn non nớt như xưa nữa. Còn về phần Lorraine, nhìn từ góc độ nào cô cũng là một người phụ nữ trưởng thành. Dẫu vậy, liệu trông cô có đúng với tuổi thật hay không thì khó mà nói được. Có thể gọi cô là một mỹ nhân trí thức không rõ tuổi tác. Tựa hồ dòng chảy của thời gian chẳng hề để lại dấu vết gì trên dung mạo của cô. Điều đó đủ để khiến tôi phải ghen tị. Dù theo như tôi biết, bản thân tôi cũng chẳng thể già đi được nữa rồi.
+Trước đây người ta hay bảo tôi có khuôn mặt búng ra sữa, chẳng biết giờ họ sẽ nói sao. Da tôi tái hơn, ánh mắt có phần sắc sảo hơn trước, nên chắc trông tôi chẳng còn nét non nớt như xưa nữa. Còn Lorraine thì nhìn từ góc nào cũng là một người phụ nữ trưởng thành. Cơ mà bảo trông cô có đúng với tuổi thật hay không thì khó nói lắm. Đúng hơn thì cô là kiểu mỹ nhân trí thức khó đoán tuổi. Cảm giác như năm tháng trôi qua chẳng mảy may để lại dấu vết nào trên diện mạo của cô, nghĩ mà phát ghen. Dù theo tôi biết thì giờ bản thân mình cũng đâu có già đi được nữa.
 
-"Dạ vâng!" Alize cất tiếng đáp lời Clope.
+"Dạ vâng!" Alize hào hứng đáp.
 
-"Phải rồi, còn về nguyên liệu thì tôi đã nhặt được một ít trong mê cung. Anh có thể xem qua chỗ đó trước được không?" tôi xen vào.
+"Phải rồi, về nguyên liệu thì tôi có kiếm được một ít trong mê cung. Anh xem qua chỗ đó trước giùm tôi được không?" tôi góp lời.
 
-Clope nhướng mày: "Vậy sao? Dạo này cậu thực sự có thể tiến vào những mê cung đó rồi à? Làm tôi ấn tượng rồi đấy. Được rồi, mọi người đi theo tôi nào. Tôi sẽ dẫn mọi người ra lò rèn," Clope nói rồi rảo bước đi. Chúng tôi nối gót theo sau anh ấy.
+Clope nhướng mày: "Thế à? Dạo này cậu mò vào được cả mấy mê cung đó cơ à? Khá đấy chứ. Được rồi, mọi người đi theo tôi, tôi dẫn ra lò rèn." Nói đoạn, Clope cất bước đi trước, chúng tôi rảo bước theo sau.
