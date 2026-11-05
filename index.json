@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:48:57Z",
+  "generatedAt": "2026-11-05T14:58:44Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3238,19 +3238,19 @@
           "number": 181,
           "title": "Chương 181: Ngoại truyện Tập 7 - Bản Tính Của Nhà Nghiên Cứu",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_181.md",
-          "sha": "298d1d084c80f368baf010f0a9982a2fc50ea959"
+          "sha": "5f0e083d515053bc8d41ec5e5b7ddd909e14c3fa"
         },
         {
           "number": 182,
           "title": "Chương 182: Tập 8 Chương 1 - Tình Hình Maalt (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_182.md",
-          "sha": "d83cb59dad7c683df9ccc3303c849fbf5fa0beb6"
+          "sha": "def2537acbf310ae8cff4a9f47d24f3d1980f930"
         },
         {
           "number": 183,
           "title": "Chương 183: Tập 8 Chương 1 - Tình Hình Maalt (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_183.md",
-          "sha": "43cf4a16a27821b941e1f08dd6b7878a28eb8975"
+          "sha": "8b61f792b8923b34d9b71d5a33025ec7c9ef1a7b"
         },
         {
           "number": 184,

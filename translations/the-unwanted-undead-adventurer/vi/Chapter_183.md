@@ -1,14 +1,14 @@
 # Chương 183: Tập 8 Chương 1 - Tình Hình Maalt (2)
 
-Tôi rời cô nhi viện rồi rảo bước qua thị trấn. Edel ngồi trên vai tôi, chỉ hướng tới những kẻ bị nghi là Thi Quỷ. Chú chuột nắm được tin tức nhờ nhìn qua mắt bầy chuột đàn em rải khắp Maalt. Ít ra tôi đoán vậy, chứ bản thân đâu nhận được những hình ảnh đó nên cũng chẳng dám chắc. Tự mình cố quan sát ngần ấy thứ nghe thôi đã thấy quá tải. Edel mới cho tôi xem thử một thoáng mà tôi đã mệt phờ người, thành thử tôi chẳng dại gì tự thử lại lần nữa.
+Tôi rời cô nhi viện rồi chạy xuyên qua thị trấn. Edel ngồi trên vai tôi, chỉ hướng tới những kẻ bị nghi là Thi Quỷ. Chú chuột nắm được tin tức nhờ nhìn qua mắt bầy chuột đàn em rải khắp Maalt. Ít ra tôi đoán vậy, chứ bản thân đâu nhận được những hình ảnh đó nên cũng chẳng dám chắc. Tự mình cố quan sát ngần ấy thứ nghe thôi đã thấy quá tải. Edel mới cho tôi xem thử một thoáng mà tôi đã mệt phờ người, thành thử tôi chẳng dại gì tự thử lại lần nữa.
 
-Thế nhưng với Edel thì việc đó lại dễ như bỡn. Cũng hơi lạ khi quyến thuộc lại sở hữu năng lực vượt trội hơn cả chủ nhân, nhưng với loài quyến thuộc thì chuyện đó chẳng hiếm. Cha tôi từng có một quyến thuộc biết bay, trong khi bản thân ông đâu tự bay lượn được. Ít nhất là theo những gì tôi biết. Tôi không dám loại trừ hoàn toàn khả năng ấy, nhưng nếu thấy một đôi cánh mọc ra sau lưng người cha đã bước vào tuổi trung niên của mình thì chắc tôi sốc nặng mất. Dù vậy, tôi đoán có lẽ bản thân mình cũng làm được điều tương tự. Dẫu sao nhìn từ góc độ ấy, Edel có những kỹ năng như vậy cũng chẳng có gì lạ. Khả năng chiến đấu của tôi mạnh hơn, nên hai bên cứ thế bù trừ cho nhau.
+Thế nhưng với Edel thì việc đó lại dễ như bỡn. Nghĩ cũng hơi lạ khi nó lại có vài năng lực vượt trội hơn cả chủ nhân, nhưng ở quyến thuộc thì chuyện đó chẳng hiếm. Cha tôi từng có một quyến thuộc biết bay, trong khi bản thân ông đâu tự bay lượn được. Ít nhất là theo những gì tôi biết. Tôi không dám loại trừ hoàn toàn khả năng ấy, nhưng nếu thấy một đôi cánh mọc ra sau lưng người cha trung niên của mình thì chắc tôi sốc nặng mất. Dù vậy, tôi đoán có lẽ bản thân mình cũng làm được điều tương tự. Dẫu sao nhìn từ góc độ ấy, Edel có những kỹ năng như vậy cũng chẳng có gì lạ. Khả năng chiến đấu của tôi mạnh hơn, nên hai bên cứ thế bù trừ cho nhau.
 
 Tôi không ngờ Puchi Suri khắp thị trấn lại đông đến thế. Trước giờ tôi chẳng mấy khi để ý, nhưng giờ đi đâu cũng thấy chúng lấp ló ở mọi góc phố, từng ngóc ngách. Edel hẳn đang quan sát qua đôi mắt của bầy chuột ấy. Có nhiều tai mắt rải khắp nơi như vậy, việc lùng sục Thi Quỷ quả thực dễ thở hơn hẳn.
 
 Đến gần một đám đông, Edel khẽ kêu lên vài tiếng. Có vẻ con Thi Quỷ đầu tiên đang ở quanh đây, nhưng càng tới gần, tôi càng thấy chuyện này nan giải. Nơi này là quảng trường thị trấn, và người dân dường như đang tụ tập về đây để lánh nạn hỏa hoạn. Chung quanh đông nghịt người, nhìn thoáng qua thì chịu chết không thể biết ai là Thi Quỷ. Chúng hẳn đã dùng ma thuật để ngụy trang nên tôi chẳng tài nào nhận ra được. Thế nhưng Edel dường như đã nắm rõ. Chú chuột truyền ý nghĩ qua thần giao cách cảm, chỉ đích danh cho tôi kẻ đó là ai.
 
-Đó là một người đàn ông ngồi bên đài phun nước giữa quảng trường. Gã để râu, ngoài điểm đó ra thì chẳng có gì nổi bật giữa đám đông. Gã nhìn dáo dác xung quanh đầy vẻ cảnh giác, nhưng ai vừa thoát khỏi đám cháy mà chẳng thế. Tôi đồ rằng chẳng ai tin người đàn ông này là Thi Quỷ, nhưng Edel đã đoan chắc với tôi như vậy. Đã thế thì tôi buộc phải hành động thôi.
+Đó là một người đàn ông ngồi bên đài phun nước giữa quảng trường. Gã để râu, ngoài điểm đó ra thì chẳng có gì nổi bật giữa đám đông. Gã nhìn dáo dác xung quanh đầy vẻ cảnh giác, nhưng ai vừa thoát khỏi đám cháy mà chẳng thế. Chắc chẳng ai tin người đàn ông này là Thi Quỷ, nhưng Edel đã khẳng định chắc nịch với tôi như vậy. Đã thế thì tôi buộc phải hành động thôi.
 
 "Làm phiền chút nhé," tôi cất tiếng gọi người đàn ông.
 
@@ -32,7 +32,7 @@ Người đàn ông đứng phắt dậy, bắt đầu lùi dần ra sau. "Mắc
 
 Giọng gã nghe chẳng giống kẻ nói dối, nhưng tôi biết chắc người đàn ông này là Thi Quỷ. Tôi định dồn ép tiếp thì gã bỗng quay đầu bỏ chạy, vung tay chộp về phía một người trong đám đông.
 
-Xem chừng nói lý chẳng ăn thua. Tôi rút kiếm toan chém gã, nhưng chợt nghe thấy một tiếng nổ như đại bác. Chớp mắt sau, người đàn ông đã bốc cháy ngùn ngụt. Ngọn lửa không mang màu đỏ mà là màu xanh lam nhạt. Còn đang ngơ ngác không hiểu chuyện gì xảy ra, tôi quay đầu nhìn về hướng ngọn lửa phóng tới thì thấy một người phụ nữ.
+Xem chừng nói chuyện thêm cũng chẳng ích gì. Tôi rút kiếm toan chém gã, nhưng chợt nghe thấy một tiếng nổ như đại bác. Chớp mắt sau, người đàn ông đã bốc cháy ngùn ngụt. Ngọn lửa không mang màu đỏ mà là màu xanh lam nhạt. Còn đang ngơ ngác không hiểu chuyện gì xảy ra, tôi quay đầu nhìn về hướng ngọn lửa phóng tới thì thấy một người phụ nữ.
 
 "Ồ, xem ai đây này? Chẳng phải Rentt sao! Lâu lắm mới gặp lại đấy nhỉ?"
 
@@ -46,11 +46,11 @@ Người phụ nữ có mái tóc xám sẫm và đôi mắt đỏ rực như l�
 
 "Lý do đơn giản thôi. Đây chính là lúc để tôi tỏa sáng. Cơ hội hoàn hảo để thiêu rụi lũ quái vật này thành tro bụi," cô vừa nói vừa tung chân đá văng người đàn ông đang bốc cháy ra xa. Cứ tưởng làm vậy sẽ bỏng lắm, nhưng ngọn lửa này có lẽ chẳng phải lửa thường. Bản thân tôi đứng gần đó mà cũng không cảm thấy chút hơi nóng nào. Thứ này hẳn được tạo ra từ thần thuật.
 
-Những người khác trên quảng trường sững sờ kinh hãi nhìn hai chúng tôi. Trong mắt họ, cô là một nữ ma pháp sư vừa phóng hỏa thiêu sống một người đàn ông trung niên, còn tôi là gã đáng ngờ đeo mặt nạ khoác áo chùng lại đi trò chuyện thân thiện với cô. Họ nghĩ thế cũng phải. Nhìn phản ứng của mọi người thì người bình thường cũng thấy được ngọn lửa xanh lam nhạt này. Có lẽ đây không phải Thánh Hỏa mà chỉ là ngọn lửa được thắp lên bằng thần thuật, nên ai nhìn thấy cũng chẳng sao. Vả lại, nếu người đàn ông bỗng dưng quằn quại đau đớn mà chẳng rõ nguyên nhân, khéo đám đông lại thấy khiếp hãi hơn. Biết đâu Nive đã tính trước điều đó? Dù nhìn bộ dạng thì chẳng giống cô bận tâm cho lắm.
+Những người khác trên quảng trường sững sờ kinh hãi nhìn hai chúng tôi. Trong mắt họ, cô là một nữ ma pháp sư vừa phóng hỏa thiêu sống một người đàn ông trung niên, còn tôi là gã đáng ngờ đeo mặt nạ khoác áo choàng lại đi trò chuyện thân thiện với cô. Họ nghĩ thế cũng phải. Nhìn phản ứng của mọi người thì người bình thường cũng thấy được ngọn lửa xanh lam nhạt này. Có lẽ đây không phải Thánh Hỏa mà chỉ là ngọn lửa được thắp lên bằng thần thuật, nên ai nhìn thấy cũng chẳng sao. Vả lại, nếu người đàn ông bỗng dưng quằn quại đau đớn mà chẳng rõ nguyên nhân, khéo đám đông lại thấy khiếp hãi hơn. Biết đâu Nive đã tính trước điều đó? Dù nhìn bộ dạng thì chẳng giống cô bận tâm cho lắm.
 
 Thế nhưng ngọn lửa ai cũng thấy được lại kéo theo mối nguy khác. Nhìn vào cứ ngỡ cô tự dưng châm lửa đốt một thị dân vô tội, khéo các kỵ sĩ lại tóm cổ cả hai chúng tôi. Tôi mất công tra hỏi gã từ trước cũng cốt để tránh cảnh này. Giờ thì tôi chịu chết, chẳng biết làm sao để kiểm soát tình hình.
 
-"Ồ? Xem chừng thế vẫn chưa đủ hạ gục gã nhỉ. Lũ tay sai của đám bọ hút máu lúc nào cũng chịu đòn giỏi thật đấy," Nive vừa nói vừa hướng đôi mắt tròn xoe trong veo về phía người đàn ông đang bốc cháy. Ngay cả khi ngọn lửa bùng cháy dữ dội, gã vẫn trừng trừng lườm chúng tôi. Tôi chẳng hiểu sao gã lại nhìn tôi gắt gao như thế; tôi đâu phải người châm lửa đốt gã. Nhưng công tâm mà nói, hễ xác nhận gã là Thi Quỷ thì tôi cũng ra tay thôi.
+"Ồ? Xem chừng thế vẫn chưa đủ hạ gục gã nhỉ. Lũ tay sai của đám bọ hút máu lúc nào cũng chịu đòn giỏi thật đấy," Nive vừa nói vừa hướng đôi mắt tròn xoe trong veo về phía người đàn ông đang bốc cháy. Ngay cả khi ngọn lửa bùng cháy dữ dội, gã vẫn trừng trừng lườm chúng tôi. Tôi chẳng hiểu sao gã lại nhìn tôi hằn học như thế; tôi đâu phải người châm lửa đốt gã. Nhưng công tâm mà nói, hễ xác nhận gã là Thi Quỷ thì tôi cũng ra tay thôi.
 
 Tôi vào thế thủ trong khi Nive đảo mắt nhìn quanh. "Chắc hẳn chuyện vừa rồi làm mọi người giật mình!" cô hét lớn. "Nhưng người đàn ông này thực chất là một con quái vật đang trà trộn giữa mọi người! Gã là Thi Quỷ! Cứ nhìn xem, gã bị thiêu sống mà vẫn đứng sừng sững lườm chúng tôi kìa! Bằng chứng rành rành ra đó! Mọi người mau tránh xa khỏi đây! Tôi là mạo hiểm giả Kim Cấp Nive Maris, còn đây là trợ thủ của tôi, Rentt Vivie! Chúng tôi sẽ tiêu diệt con quái vật này!"
 
@@ -68,9 +68,9 @@ Nive lao vào con Thi Quỷ đang bốc cháy. Nhìn ngoài thì chẳng thấy 
 
 "Móng vuốt à?" tôi hỏi.
 
-"Phải. Kiếm thường tôi cũng dùng, nhưng riêng với lũ Ma Cà Rồng thì tôi khoái nhất cảm giác dùng mấy ngón tay xé toạc da thịt chúng," cô giải thích. Nghe bệnh hoạn phát khiếp, nhưng thốt ra từ miệng cô thì chẳng có gì lạ. "Có điều con này dai sức hơn tôi tưởng. Xem chừng thuộc hạng khá đấy. Rentt, hai đứa mình cùng lên đi."
+"Phải. Kiếm thường tôi cũng dùng, nhưng riêng với lũ Ma Cà Rồng thì tôi khoái nhất cảm giác dùng mấy ngón tay xé toạc da thịt chúng," cô giải thích. Nghe bệnh hoạn phát khiếp, nhưng thốt ra từ miệng cô thì chẳng có gì lạ. "Có điều con này dai sức hơn tôi tưởng. Xem chừng thuộc hạng khá đấy. Rentt, chúng ta cùng xông lên đi."
 
-Tôi gật đầu. Cỡ Kim Cấp thừa sức tự mình giải quyết con quái này, nhưng chắc hẳn cô nàng có toan tính riêng. Có lẽ cô muốn dò xét năng lực thể chất của con Thi Quỷ để ước lượng sức mạnh của con Ma Cà Rồng cầm đầu chăng.
+Tôi gật đầu. Cỡ Kim Cấp thừa sức tự mình giải quyết con quái này, nhưng chắc hẳn cô có toan tính riêng. Có lẽ cô muốn dò xét năng lực thể chất của con Thi Quỷ để ước lượng sức mạnh của con Ma Cà Rồng cầm đầu chăng.
 
 Tôi thủ thế kiếm rồi áp sát con Thi Quỷ. Gã thoáng vẻ bất ngờ, nhưng vẫn vung tay cào về phía tôi. Móng tay gã dài ngoằng dị thường, ắt hẳn là thứ vũ khí của gã. Tôi nghiêng người né đòn rồi chém đứt lìa cánh tay ấy chẳng mấy khó khăn.
 
@@ -82,7 +82,7 @@ Nive bước lại, nhấc cái đầu con Thi Quỷ lên rồi lẩm nhẩm ni�
 
 Tất cả những gì con Thi Quỷ để lại chỉ là một viên Ma Tinh. Nive thảy nó về phía tôi: "Thù lao của cậu đấy. Thứ này bán được khối tiền đấy chứ đùa."
 
-Lấy Ma Tinh Thi Quỷ làm thù lao thì quả là không tồi chút nào. Quái vật thuộc dòng dõi Ma Cà Rồng có khả năng sống trà trộn giữa con người, thế nên Ma Tinh của chúng vừa hiếm lại vừa có giá. Ngay cả Thi Quỷ, một dạng hạ cấp của Ma Cà Rồng, cũng không ngoại lệ. Đã vậy Hội còn đang phát lệnh ủy thác khẩn cấp truy sát Thi Quỷ, thành thử giá của nó lại càng đội lên. Vào thời điểm này, viên Ma Tinh trên tay tôi đáng giá chẳng kém gì một món trang sức thượng hạng.
+Lấy Ma Tinh Thi Quỷ làm thù lao thì quả là không tồi chút nào. Quái vật thuộc dòng dõi Ma Cà Rồng có khả năng sống trà trộn giữa con người, thế nên Ma Tinh của chúng vừa hiếm lại vừa có giá. Ngay cả Thi Quỷ, một dạng hạ cấp của Ma Cà Rồng, cũng không ngoại lệ. Đã vậy Hội còn đang phát lệnh ủy thác khẩn cấp truy sát Thi Quỷ, thành thử giá của nó lại càng đội lên. Vào thời điểm này, viên Ma Tinh trên tay tôi có giá ngang ngửa một viên đá quý loại khá.
 
 "Cô cho tôi thật đấy à?" tôi hỏi.
 
@@ -96,13 +96,13 @@ Nghe có phần hơi bệnh hoạn. Thà cô bảo làm vì tiền thì tôi cò
 
 Nive nhìn tôi đầy vẻ ngờ vực. Gương mặt cô rất đẹp, nhưng ánh nhìn trong đôi mắt ấy lại khiến tôi chỉ muốn quay đi tránh né. Nó hệt như ánh mắt đỏ ngầu vằn tia máu của một con quái vật đang đói mồi. Cái nhìn như thể muốn đoạt mạng người ta vậy, bức bối đến nghẹt thở.
 
-Ánh mắt Nive dãn ra. "Thôi bỏ đi. Dù sao thì Rentt này, tình hình đang thế này mà hai đứa mình lại tình cờ đụng mặt ở đây, hay là tụi mình bắt tay hợp tác đi?" cô vừa ngỏ lời thì đã bị ngắt ngang.
+Ánh mắt Nive dãn ra. "Thôi bỏ đi. Dù sao thì Rentt này, tình hình đang thế này mà chúng ta lại tình cờ đụng mặt ở đây, hay là mình bắt tay hợp tác đi?" cô vừa ngỏ lời thì đã bị ngắt ngang.
 
-"Nive!" Ai đó cất tiếng gọi từ phía sau cô. Đó là một người phụ nữ trong bộ trang phục tu sĩ, có mái tóc màu bạc và đôi mắt tím như thạch anh. Cô ấy là Myullias Raiza, một Thánh Nữ của Giáo Hội Lobelia. Nive khẽ chau mày khi nghe thấy tiếng gọi, nhưng vẻ khó chịu chỉ thoáng qua rồi cô liền mỉm cười ngoái lại nhìn qua vai.
+"Nive!" ai đó cất tiếng gọi từ phía sau cô. Đó là một người phụ nữ trong bộ trang phục tu sĩ, có mái tóc màu bạc và đôi mắt tím như thạch anh. Cô ấy là Myullias Raiza, một Thánh Nữ của Giáo Hội Lobelia. Nive khẽ chau mày khi nghe thấy tiếng gọi, nhưng vẻ khó chịu chỉ thoáng qua rồi cô liền mỉm cười ngoái lại nhìn qua vai.
 
-Cảm giác như tôi vừa trông thấy thứ mình không nên thấy. Tôi tự hỏi không biết quan hệ giữa hai người có xích mích gì không, nhưng chịu chết chẳng thể đoán nổi Nive đang nghĩ gì. Có khi nét mặt ban nãy chẳng mang ẩn ý gì sâu xa, hoặc giả cô nàng cố tình làm vậy để đánh lạc hướng tôi cũng nên. Càng nghĩ sâu về chuyện này càng thấy rợn người.
+Cảm giác như tôi vừa trông thấy thứ mình không nên thấy. Tôi tự hỏi không biết quan hệ giữa hai người có xích mích gì không, nhưng chịu chết chẳng thể đoán nổi Nive đang nghĩ gì. Có khi nét mặt ban nãy chẳng mang ẩn ý gì sâu xa, hoặc giả cô cố tình làm vậy để đánh lạc hướng tôi cũng nên. Càng nghĩ sâu về chuyện này càng thấy rợn người.
 
-"Ồ, chẳng phải Thánh Nữ Myullias đây sao? Đừng có chạy hùng hục thế chứ, trông vẻ thánh thiện rụng mất một nửa rồi kìa. Mà vốn dĩ cô có ra dáng thánh nữ bao giờ đâu," Nive buông lời mỉa mai cay độc. Giáo Hội Lobelia là một trong những tổ chức tôn giáo hùng mạnh nhất trên đại lục, cô nàng này đúng là to gan thật mới dám ăn nói kiểu đó.
+"Ồ, chẳng phải Thánh Nữ Myullias đây sao? Đừng có chạy hùng hục thế chứ, trông vẻ thánh thiện rụng mất một nửa rồi kìa. Mà vốn dĩ cô có ra dáng thánh nữ bao giờ đâu," Nive buông lời mỉa mai cay độc. Giáo Hội Lobelia là một trong những tổ chức tôn giáo hùng mạnh nhất trên đại lục, cô phải to gan lắm mới dám ăn nói kiểu đó.
 
 Myullias thoáng lộ vẻ khó chịu, nhưng rất nhanh đã lấy lại bình tĩnh. "Tôi đâu cần phải chạy nếu cô không đùng đùng biến mất," cô nói rồi đưa mắt nhìn đống tro tàn vương vãi trên mặt đất. "Cái gì đây?" Xem chừng cô ấy đã tự có câu trả lời. Giữa tình cảnh hỗn loạn này của thị trấn, một Thánh Nữ của Giáo Hội Lobelia thừa sức đoán ra chuyện gì vừa diễn ra.
 
@@ -110,26 +110,26 @@ Myullias thoáng lộ vẻ khó chịu, nhưng rất nhanh đã lấy lại bìn
 
 "Tôi với Rentt vừa xử lý xong."
 
-Cái cách cô ví chúng như sâu bọ nghe thật tàn nhẫn, nhưng đó lại là lối miệt thị mà người ta quen dùng suốt bấy lâu nay khi nói về Ma Cà Rồng. Những ai căm thù Ma Cà Rồng đều mở miệng bằng giọng điệu như thế.
+Cái cách cô ví chúng như sâu bọ nghe thật tàn nhẫn, nhưng đó lại là lối miệt thị mà người ta quen dùng suốt bấy lâu nay khi nói về Ma Cà Rồng. Những ai căm thù Ma Cà Rồng đều ăn nói bằng giọng điệu như thế.
 
 "Ra vậy, thảo nào cô lại đùng đùng chạy đi."
 
 "Phải đấy, gã ngụy trang thành người. Khó mà phân biệt được gã với người thật, nhưng Rentt đã tra hỏi khiến gã phải bỏ màn kịch. Đến lúc gã toan tấn công ai đó thì tôi liền thử thanh tẩy bằng thần thuật. Rốt cuộc đúng là một con Thi Quỷ thật. Suýt nữa thì nguy, đúng không hả Rentt?"
 
-Hóa ra cô nàng đã nghe lỏm cuộc nói chuyện của chúng tôi từ trước, chỉ là không biết bắt đầu từ lúc nào thôi. Nếu cô ra tay dùng thần thuật vì thấy gã toan tấn công người khác thì việc đó cũng xem như chấp nhận được.
+Hóa ra cô đã nghe lỏm cuộc nói chuyện của chúng tôi từ trước, chỉ là không biết bắt đầu từ lúc nào thôi. Nếu cô ra tay dùng thần thuật vì thấy gã toan tấn công người khác thì việc đó cũng xem như chấp nhận được.
 
 "Nive, cô nhận ra gã là Thi Quỷ từ khi nào thế?" tôi hỏi.
 
 "Tôi chỉ dám chắc chắn khi thấy gã toan lao vào đám đông thôi. Nhưng từ trước đó tôi đã đánh hơi thấy mùi Thi Quỷ phảng phất quanh quảng trường này rồi. Mũi tôi thính lắm đấy nhé."
 
-Tôi chịu chẳng rõ cô nói theo nghĩa đen hay nghĩa bóng, nhưng đằng nào thì thốt ra từ miệng cô cũng đều hợp lý cả. Cô mà bảo tìm ra Thi Quỷ nhờ trực giác thì tôi cũng tin, mà bảo cô là một chuyên gia sành Ma Cà Rồng tựa như tôi sành nếm máu thì tôi cũng chẳng nghi ngờ. Tôi tưởng tượng ra cảnh cô dí mũi hít hà một con Ma Cà Rồng ba trăm năm tuổi rồi gật gù nhận xét xem nó đã lên men vừa độ, tới lúc giết thịt được chưa. Nghĩ tới cảnh đó thôi là tôi đã thấy rợn hết cả người.
+Tôi chịu chẳng rõ cô nói theo nghĩa đen hay nghĩa bóng, nhưng đằng nào thì thốt ra từ miệng cô cũng đều hợp lý cả. Cô mà bảo tìm ra Thi Quỷ nhờ trực giác thì tôi cũng tin, mà bảo cô là một chuyên gia sành Ma Cà Rồng tựa như tôi là một chuyên gia nếm máu thì tôi cũng chẳng nghi ngờ. Tôi tưởng tượng ra cảnh cô dí mũi hít hà một con Ma Cà Rồng ba trăm năm tuổi rồi gật gù nhận xét xem nó đã lên men vừa độ, tới lúc giết thịt được chưa. Nghĩ tới cảnh đó thôi là tôi đã thấy phát ớn.
 
-Myullias dường như cũng sượng sùng chẳng kém. "Thế cơ à?" cô buông tiếng thở dài.
+Myullias xem chừng cũng ngớ người chẳng kém. "Thế cơ à?" cô buông tiếng thở dài.
 
 Dù sao đi nữa, Nive và Myullias có vẻ vẫn đang tiếp tục hợp tác cùng nhau. Nive nghe chừng chẳng mấy mặn mà, nhưng đó đâu phải việc của tôi. Đằng nào con Thi Quỷ cũng bị tiêu diệt rồi, giờ tôi chỉ muốn chuồn khỏi Nive càng sớm càng tốt.
 
-"Tôi muốn đi xem quanh đây còn con Thi Quỷ nào nữa không, nên xin phép đi trước nhé," tôi nói. "Nguyện ánh sáng soi chiếu bước đường của hai vị." Tôi vội vàng đọc một câu chúc của Giáo Hội Lobelia rồi rảo bước rời khỏi quảng trường.
+"Tôi muốn đi xem quanh đây còn con Thi Quỷ nào nữa không, nên xin phép đi trước nhé," tôi nói. "Nguyện ánh sáng soi chiếu bước đường của hai vị." Tôi vội vàng đọc một câu chúc của Giáo Hội Lobelia rồi vội vã chạy khỏi quảng trường.
 
 "Đợi đã Rentt! Rentt!!!" Nive gọi với theo, nhưng tôi vờ như không nghe thấy.
 
-May là tôi không chỉ cắm đầu tháo chạy một cách vô cớ, mà còn lấy việc công ra làm bình phong. Tôi vẫn chưa rõ mối quan hệ giữa Nive và Giáo Hội Lobelia ra sao, nhưng hy vọng cô ấy không thể bỏ mặc một Thánh Nữ để đuổi theo tôi. Chạy được một đoạn, tôi ngoái đầu nhìn lại thì chẳng thấy bóng dáng Nive đâu, có vẻ cô không đuổi theo thật. Mừng rơn vì đã an toàn, tôi tiếp tục chạy khắp thị trấn để truy lùng con Thi Quỷ tiếp theo.
+May là tôi không phải tự dưng cắm đầu bỏ chạy, mà còn có việc công làm cái cớ. Tôi vẫn chưa rõ mối quan hệ giữa Nive và Giáo Hội Lobelia ra sao, nhưng hy vọng cô ấy không thể bỏ mặc một Thánh Nữ để đuổi theo tôi. Chạy được một đoạn, tôi ngoái đầu nhìn lại thì chẳng thấy bóng dáng Nive đâu, có vẻ cô không đuổi theo thật. Mừng rơn vì đã an toàn, tôi tiếp tục chạy khắp thị trấn để truy lùng con Thi Quỷ tiếp theo.
