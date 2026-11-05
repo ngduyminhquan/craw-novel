@@ -1,139 +1,139 @@
 # Chương 159: Tập 7 Chương 2 - Tiếp Viện (3)
 
-"Chà, cái quán này trông có vẻ đáng ngờ nhỉ," Lorraine nhận xét.
+"Chà, cái tiệm này trông mờ ám thật đấy," Lorraine nhận xét.
 
-"Đồng ý," tôi vừa nói vừa gật đầu.
+"Công nhận," tôi gật đầu.
 
-Đi bộ một lúc, tôi và Lorraine đã đến một cửa tiệm nằm sâu trong con hẻm nhỏ cách xa trục phố chính. Tấm biển hiệu ở lối vào mang đúng cái tên mà Augurey đã nói với Lorraine, nhưng nó bị dây leo phủ kín nên vô cùng khó đọc. Nếu anh ta không miêu tả chi tiết vị trí quán, chắc chắn chúng tôi đã đi lướt qua mất rồi. Nhưng giờ đã tìm ra nơi này, quay lưng bỏ đi thì không phải là một lựa chọn. Tôi e dè đẩy cánh cửa. Nó đung đưa phát ra một tiếng cọt kẹt khá lớn.
+Đi bộ một hồi, tôi cùng Lorraine tới một tiệm nhỏ nằm khuất trong con ngõ cách xa trục đường chính. Tấm biển ngay lối vào đề đúng cái tên Augurey đã bảo với Lorraine, nhưng lại bị dây leo phủ kín nên cực kỳ khó đọc. Nếu gã không chỉ đường cặn kẽ, chắc chắn chúng tôi đã đi lướt qua lúc nào không hay. Có điều đã tìm ra rồi thì chẳng lẽ lại quay về. Tôi rụt rè đẩy cửa, cánh cửa đung đưa phát ra một tiếng cọt kẹt khá to.
 
-Khi ngó vào bên trong, tôi ngạc nhiên khi thấy một căn phòng dễ chịu bài trí đầy những món đồ nội thất thanh lịch. Cây cảnh đủ loại được dùng để trang trí quán, nhưng không nhiều đến mức gây vướng mắt. Bàn ghế tuy đã có dấu vết thời gian và mang màu hổ phách, nhưng đều được đánh bóng cẩn thận và có chất lượng khá tốt. Đứng tại quầy phục vụ là một ông lão gầy gò với mái tóc hoa râm cắt ngắn gọn gàng. Ông đang lau dọn bát đĩa với vẻ thuần thục như thể đã làm công việc ấy hàng ngàn lần.
+Ngó vào bên trong, tôi bất ngờ khi thấy một gian phòng dễ chịu bày biện toàn nội thất tao nhã. Khắp quán điểm xuyết đủ loại cây cảnh, vừa vặn chứ không hề rối mắt. Bàn ghế ngả màu hổ phách nom đã cũ, nhưng đều được lau bóng loáng và thuộc loại khá tốt. Phía sau quầy là một ông lão gầy gò với mái tóc hoa râm cắt ngắn gọn gàng. Đôi tay ông thoăn thoắt lau bát đĩa, thuần thục như thể đã làm việc này cả nghìn lần.
 
-"Bất ngờ thật đấy," Lorraine nói. "Nếu một kẻ như Augurey mà bước vào chốn này, tôi cứ ngỡ anh ta sẽ đập ngay vào mắt người khác cơ." Tôi chỉ biết gật đầu đồng tình, nhưng người ta thì nào ai biết trước được sở thích của một người sẽ ra sao.
+"Bất ngờ ghê," Lorraine bảo. "Cỡ như Augurey mà vào đây thì khéo nổi bần bật mất thôi." Tôi chỉ biết gật đầu, cơ mà sở thích của người ta thì đúng là chẳng biết đằng nào mà lần.
 
-Dù sao đi nữa, tôi bước lại gần người đàn ông có vẻ như là chủ tiệm.
+Dù sao thì tôi cũng lại gần người có vẻ là chủ tiệm.
 
 "Hai vị cần dùng gì?" ông hỏi.
 
-"Chúng tôi có hẹn gặp một mạo hiểm giả tên Augurey ở đây," tôi đáp. Tôi muốn biết liệu anh ta đã tới chưa, và nếu chưa thì chúng tôi nên ngồi đợi ở đâu.
+"Chúng tôi có hẹn với một mạo hiểm giả tên Augurey ở đây," tôi đáp. Tôi muốn hỏi xem anh ta đã đến chưa, và nếu chưa thì chúng tôi nên ngồi đợi ở đâu.
 
-Người đàn ông dường như hiểu ngay ý tôi và gật đầu. "Cậu ấy vẫn chưa tới, nhưng xin mời hai vị đi lối này," ông nói rồi dẫn chúng tôi đến chỗ ngồi nằm sâu tít phía trong phòng. Vị trí này rất khó nhìn thấy từ lối vào, quả là một nơi lý tưởng để tránh sự chú ý. "Hai vị có muốn gọi món gì uống không?" ông hỏi, thế là tôi và Lorraine gọi đại vài món đồ uống, và lát sau chúng tôi đã được mang đồ lên. Hương vị ngon đến mức nếu làm việc ở vương đô, tôi sẽ rất vui lòng thường xuyên ghé qua chốn này. Tôi cảm thấy thật may mắn khi được giới thiệu một quán tuyệt vời như vậy.
+Ông cụ gật đầu như đã hiểu ý. "Cậu ấy vẫn chưa tới, nhưng mời hai vị theo tôi lối này," ông nói rồi dẫn chúng tôi đến chỗ ngồi nằm sâu tít phía trong. Góc này đứng từ cửa nhìn vào rất khó thấy, quả là chỗ lý tưởng để tránh bị nhòm ngó. "Hai vị có dùng gì không?" ông hỏi, thế là tôi với Lorraine bèn gọi bừa mấy món đồ uống, một lát sau thì có. Vị ngon tới mức nếu làm việc ở vương đô, tôi sẵn lòng ghé quán này dài dài. Được giới thiệu một tiệm ưng ý thế này quả là may mắn.
 
-Sau một hồi chờ đợi đến mức uống cạn cả phần nước, chúng tôi nghe thấy tiếng cửa cọt kẹt mở ra cùng giọng người chủ tiệm nói điều gì đó. Kế đến là tiếng bước chân của ai đó đang tiến về phía chúng tôi.
+Chờ lâu tới mức uống cạn cả cốc, chúng tôi mới nghe thấy tiếng cửa cọt kẹt mở rồi giọng chủ quán nói gì đó. Liền sau đó là tiếng bước chân tiến lại gần.
 
-"Xin lỗi vì để hai người phải đợi lâu nhé," Augurey lên tiếng khi lộ diện. "Thấy quán này thế nào? Bản thân tôi khá là ưng nơi này đấy."
+"Xin lỗi đã để hai người đợi lâu nhé," Augurey vừa xuất hiện vừa bảo. "Thấy quán này thế nào? Tôi ưng chỗ này lắm đấy."
 
-Diện mạo của anh ta khiến cả tôi lẫn Lorraine đều sững sờ. "Anh đang mặc cái gì trên người thế kia?" tôi hỏi.
+Trông thấy gã, cả tôi lẫn Lorraine đều sững người. "Anh mặc cái gì thế kia?" tôi hỏi.
 
-"Quần áo tôi có chỗ nào kỳ quặc sao?" Augurey nghiêng đầu hỏi.
+"Đồ của tôi có gì lạ à?" Augurey nghiêng đầu.
 
-Nói thật lòng thì chẳng có gì kỳ quặc ở chúng cả. Nhưng chính điều đó mới là thứ kỳ quặc nhất. Tôi cứ nghĩ dù mặc bất cứ thứ gì, Augurey cũng sẽ luôn lòe loẹt chói mắt, nhưng lúc này trông anh ta lại hoàn toàn bình thường. Anh ta khoác một chiếc áo măng tô màu nâu, và tổng thể trang phục đều là những tông màu trầm tối. Đến cả đôi giày cũng ăn nhập với bộ đồ. Chẳng còn vương lại chút bóng dáng nào của vẻ ngoài rực rỡ, đập vào mắt người nhìn lúc trước nữa.
+Nói thật thì chẳng có gì lạ cả. Mà chính thế mới là lạ. Tôi cứ đinh ninh Augurey có mặc gì thì cũng sẽ lòe loẹt đến chói mắt, vậy mà giờ gã trông lại bình thường đến lạ lùng. Gã khoác một chiếc áo măng tô nâu, cả bộ đồ toàn tông màu trầm tối. Đến cả đôi giày cũng đồng điệu. Chẳng còn sót lại chút bóng dáng nào của vẻ ngoài rực rỡ, chói lòa lúc trước nữa.
 
-Chúng tôi nhìn Augurey như thể anh ta vừa gặp chuyện gì bất thường, và chắc hẳn anh ta cũng nhận ra điều đó nên bật cười. "Này nhé, đến tôi cũng biết nhìn trước ngó sau lựa theo hoàn cảnh chứ bộ. Bộ đồ lúc nãy mà mặc vào đây thì chẳng hợp chút nào. Hơn nữa, tôi còn phải nghĩ cho hai người. Hai vị đã bảo là không muốn gây chú ý, nên tôi mới cố gắng giúp một tay đấy. Chẳng lẽ lại thành chuyện bao đồng thừa thãi rồi sao?"
+Thấy chúng tôi trố mắt nhìn như thấy kẻ dở người, chắc gã cũng nhận ra nên bật cười. "Này, đến tôi cũng biết nhìn trước ngó sau chứ bộ. Bộ đồ lúc nãy mà mặc vào đây thì đâu có hợp. Hơn nữa tôi còn phải nghĩ cho hai người chứ. Hai người đã bảo không muốn gây chú ý nên tôi mới giúp một tay. Chẳng lẽ lại thành lo chuyện bao đồng rồi à?"
 
-Bảo rằng tôi ngạc nhiên khi nghe anh ta nói vậy thì cũng được, nhưng thực ra thì không hẳn. Hồi ở Maalt anh ta cũng y như thế này. Thoạt nhìn anh ta có vẻ không mấy để tâm đến xung quanh, nhưng lại luôn biết rõ đâu là giới hạn chừng mực. Trông có vẻ là kẻ chẳng biết săn sóc chu đáo, nhưng vào những thời khắc then chốt thì anh ta luôn biết cách giữ kẽ kín đáo. Rõ ràng là từ khi chuyển lên vương đô, điều đó vẫn không hề suy chuyển.
+Bảo tôi ngạc nhiên khi nghe gã nói thế thì cũng đúng, mà không hẳn. Hồi ở Maalt gã cũng thế này rồi. Nhìn bề ngoài thì có vẻ vô tâm vô tứ, nhưng gã luôn biết dừng lại đúng lúc. Trông như chẳng biết nghĩ cho ai bao giờ, nhưng những lúc cần thiết gã lại rất biết ý. Rõ ràng là dù đã lên vương đô, cái tính đó của gã vẫn chẳng hề thay đổi.
 
-"Không sao đâu. Nói đúng hơn thì chúng tôi mới là người phải xin lỗi vì đã khiến anh bận tâm. Vậy anh đã đến báo cáo với Hội chưa?" tôi hỏi.
+"Không sao đâu. Đúng ra là chúng tôi khiến anh phải bận lòng thì có. Mà anh đã tới báo cáo với Hội chưa?" tôi hỏi.
 
-"Tôi báo cáo rồi chứ," Augurey đáp lời khi ngồi xuống ghế. "Tôi nhận được hai đồng vàng thù lao cho ủy thác đó. Của hai người đây." Trước đó Augurey đã nói sẽ nhường lại toàn bộ phần thưởng cho chúng tôi nên chuyện này không hẳn là quá bất ngờ, thế nhưng khi thấy anh ta thực sự làm vậy, tôi cũng chẳng biết nên cảm thấy thế nào cho phải.
+"Rồi chứ," Augurey đáp khi kéo ghế ngồi xuống. "Tôi lĩnh được hai đồng vàng. Của hai người đây." Trước đó gã đã bảo sẽ nhường hết thù lao cho chúng tôi nên chuyện này cũng không nằm ngoài dự tính, nhưng thấy gã đưa thật, tôi lại đâm ra ngại.
 
-"Này, anh có chắc không đấy?" tôi hỏi. "Tôi biết toàn bộ việc này là vì anh, nhưng tiền thưởng là do tiệm may chi trả mà. Tôi nghĩ anh hoàn toàn có quyền nhận một phần chứ."
+"Này, anh chắc chứ?" tôi hỏi. "Biết là việc này vì anh, nhưng thù lao là do bên tiệm may trả mà. Tôi nghĩ anh giữ lấy một phần mới phải."
 
-"Có thể là vậy, nhưng lời hứa vẫn là lời hứa. Và tôi đã bảo sẽ chi thêm một khoản ngoài lề nữa, nên đây là một đồng nữa nhé." Augurey đặt thêm đồng vàng thứ ba xuống rồi đẩy cả ba đồng về phía chúng tôi.
+"Thì cũng phải, nhưng đã hứa là phải giữ lời chứ. Tôi còn bảo sẽ bồi dưỡng thêm nữa cơ mà, đây, thêm một đồng nữa nhé." Augurey móc thêm một đồng vàng thứ ba ra rồi đẩy cả cụm về phía chúng tôi.
 
-Tôi liếc nhìn Lorraine để dò xem ý cô thế nào và nhận thấy cô muốn đón nhận lòng tốt của anh ta. Rồi tôi nhìn kỹ nét mặt Augurey; trông anh ta có vẻ nghiêm túc hơn thường ngày. Có lẽ từ chối lúc này không phải là ý hay, vậy nên tôi quyết định nhận lấy ba đồng vàng.
+Tôi liếc sang Lorraine xem ý cô thế nào, thấy cô nàng có vẻ muốn nhận lòng tốt của gã. Tôi lại nhìn kỹ mặt Augurey, thấy gã nghiêm túc hơn hẳn mọi khi. Từ chối lúc này e là không hay, nên tôi đành nhận ba đồng vàng.
 
-Còn về việc liệu đây có phải là mức thù lao thỏa đáng cho việc thu hái thiến thảo hỏa tinh linh hay không, thì thực tế nó khá là cao. Ở Maalt, một đồng bạc là đã quá dư dả cho công việc dạng này rồi. Đó là loại việc mà bất kỳ mạo hiểm giả Thiết Cấp hay Đồng Cấp nào cũng có thể nhận, nên chuyện đó âu cũng là lẽ dĩ nhiên. Đăng ủy thác ở Maalt để thu thập thật nhiều loài cây này rồi đem bán lại ở vương đô có lẽ cũng là một cách kiếm lời không tồi, nhưng ngoài kia vốn đã có đủ các mặt hàng tương tự có thể dùng để thay thế, nên toan tính đó khó mà suôn sẻ được. Nhu cầu về thiến thảo hỏa tinh linh không thực sự cao trừ phi có kẻ như Augurey nằng nặc muốn kiếm bằng được vì những lý do đặc thù. Do đó, tuy nó có giá trị cao nhưng có lẽ chẳng mấy ai sẵn lòng bỏ tiền mua. Nghĩ vậy thì có khi mức giá này lại là hợp lý. Tìm được người có nhu cầu mua thiến thảo hỏa tinh linh đã khó, nhưng tìm được người chịu đi thu hái nó cũng khó khăn chẳng kém.
+Bảo mức thù lao này có xứng với công hái thiến thảo hỏa tinh linh không thì thật ra là hơi cao quá. Ở Maalt, chừng này việc chỉ một đồng bạc là đã thừa thãi. Việc mà mạo hiểm giả Thiết Cấp hay Đồng Cấp nào cũng nhận được thì thù lao thế cũng phải. Mở ủy thác ở Maalt gom thật nhiều loài cây này rồi mang lên vương đô bán khéo lại là cách kiếm chác không tồi, ngặt nỗi trên thị trường đã có sẵn các thứ tương đương thay thế nên chắc khó mà êm xuôi. Nhu cầu với thiến thảo hỏa tinh linh vốn chẳng cao, trừ khi gặp phải người nằng nặc đòi mua vì lý do đặc biệt như Augurey. Thế nên dù quý giá thật đấy, nhưng chắc chẳng mấy ai chịu bỏ tiền mua. Nghĩ vậy thì mức giá này có khi lại hợp lý. Đã khó tìm người mua thiến thảo hỏa tinh linh, mà tìm người chịu đi hái cũng khó chẳng kém.
 
-"Vậy thì chúng tôi xin vui vẻ nhận lấy," tôi nói. "Có điều tôi vẫn thấy thù lao này hậu hĩnh quá mức, nên ít nhất hãy để tôi trả tiền ăn ở đây nhé." Dĩ nhiên là tôi tính dùng một phần trong số tiền thù lao vừa nhận để thanh toán rồi.
+"Vậy thì chúng tôi xin nhận," tôi nói. "Nhưng thù lao hậu hĩnh quá mức thế này, ít nhất cũng để tôi đãi bữa này nhé." Dĩ nhiên tôi tính lấy ngay chỗ tiền vừa được cho để trả rồi.
 
-Augurey có vẻ chẳng bận tâm. "Ồ, cảm ơn nhé. Cậu không phiền nếu tôi gọi món gì đó chứ? Đồ ăn ở đây thực ra ngon lắm đấy."
+Augurey chẳng nề hà gì. "Ồ, cảm ơn nhé. Tôi gọi món luôn được chứ? Đồ ăn ở đây ngon ra phết đấy."
 
-Nói thêm một chút, đồ uống mà chúng tôi vừa gọi là một món xa xỉ phẩm có tên gọi là arouzal. Nó được làm từ rễ nghiền mịn của một loài thực vật gọi là cỏ kazuki hòa lẫn với chất lỏng chiết xuất từ loại hạt phơi khô rang chín gọi là hạt loa. Dụng cụ chiết xuất trông rất kỳ lạ và khó dùng, thành thử thức uống này có thể mang hương vị chênh lệch một trời một vực tùy vào từng quán, nhưng quán này thì pha chế rất thành công. Tuy vậy, nếu người ta không quá kén chọn về hương vị thì thứ đồ uống này hầu như ở đâu cũng có bán. Nhưng vì nó tương đối phổ biến tại Vương Quốc Yaaran nên người dân bản địa thường rất khó tính về mặt khẩu vị.
+Nói ngoài lề một chút, thứ đồ uống chúng tôi gọi là một món xa xỉ có tên arouzal. Nó được pha từ rễ cây cỏ kazuki nghiền nát, trộn với phần nước chiết xuất từ hạt loa rang khô. Dụng cụ chiết trông rất quái dị lại khó xài, nên hương vị món này ở mỗi quán một khác, nhưng tiệm này pha rất chuẩn. Nếu không quá khó tính về mùi vị thì gần như ở đâu cũng tìm được món này. Có điều vì nó khá phổ biến ở Vương Quốc Yaaran nên dân bản địa thường rất sành miệng.
 
-Theo lời những người đến từ các quốc gia khác, thức uống này dường như quá đắng và chua đến mức dù thế nào cũng không thể nuốt nổi, thế nhưng Lorraine lại hoàn toàn thấy ổn. Thực tế, cô uống nó thường xuyên đến mức gần như nghiện. Cô thậm chí còn sắm cả một chiếc máy chiết xuất ở nhà. Tốn một khoản kha khá mới tậu được một chiếc để dùng riêng, nhưng điều đó chứng tỏ cô thích món đồ uống này đến nhường nào. Những người không quá ưa chuộng hương vị nguyên bản thường có xu hướng pha thêm sữa hoặc mật ong, trong đó có cả tôi, bởi nó quá đắng. Thế nhưng Augurey dường như lại uống chay không pha gì.
+Người xứ khác bảo món này vừa đắng vừa chua đến mức không tài nào nuốt nổi, nhưng Lorraine lại thấy bình thường. Thậm chí cô uống nhiều tới mức trông như nghiện. Ở nhà cô còn sắm hẳn một cỗ máy chiết. Mua một chiếc về dùng riêng tốn bộn tiền, đủ hiểu cô mê thứ này tới mức nào. Những ai không chịu được vị nguyên bản thường pha thêm sữa hoặc mật ong, tôi cũng vậy, vì nó đắng ngắt. Có điều Augurey hình như lại khoái uống không.
 
-"Anh cứ gọi tùy thích," tôi nói. "Nhưng nếu vậy thì chắc chúng tôi cũng nên gọi món gì đó luôn."
+"Anh cứ gọi thoải mái đi," tôi bảo. "Tiện thể chắc tụi tôi cũng kêu thêm gì đó ăn cùng."
 
-"Phải đấy," Lorraine tán thành. "Tôi cũng đang thấy hơi đói bụng rồi."
+"Ừ," Lorraine tán thành. "Tôi cũng đang thấy hơi đói bụng."
 
-Chúng tôi gọi chủ tiệm lại và nhờ ông nấu một vài món.
-
-◆◇◆◇◆
-
-"Ôi dào, nhìn xem mấy giờ rồi kìa? Tôi phải đi thôi," Augurey nói. Tôi nhìn ra ngoài và nhận thấy vầng mặt trời đã ngả dần về phía đường chân trời. Chúng tôi đã ăn gần xong các món và chuyển sang ngồi tán gẫu.
-
-Hóa ra tôi lại có rất nhiều điểm chung với Augurey. Chúng tôi chẳng bao giờ cạn đề tài để chuyện trò. Cả hai đều là mạo hiểm giả độc hành và từng uống rượu cùng nhau vô số lần trước đây, thành ra tôi cảm thấy rất thoải mái khi ở cạnh anh ta. Tuy nhiên dưới góc nhìn của anh ta thì đây mới chỉ là lần đầu gặp gỡ, nên có lẽ anh ta chỉ là kiểu người dễ dàng kết bạn mà thôi.
-
-"Thế à? Vậy chúng ta rời đi luôn chứ?" tôi hỏi.
-
-"Được thôi, Rentt. Nhớ là cậu bao trọn gói đấy nhé."
-
-"Được rồi, tôi biết rồi. Hửm?" Tôi vừa đáp lời thì mới muộn màng nhận ra có điều gì đó bất thường. Tôi ngẩng đầu lên khỏi chiếc ví tiền và thấy Augurey đang nhoẻn miệng cười, còn Lorraine thì nhìn tôi như thể nhìn một tên ngốc.
-
-"Biết ngay mà. Vậy cô chính là Lorraine, phải không?" Augurey hỏi cô.
-
-Cô suy nghĩ một thoáng nhưng dường như thấy chẳng còn lý do gì để giấu giếm nữa. "Đúng là tôi đây. Trời đất, anh nhận ra từ lúc nào thế?"
-
-"Nếu phải nói thì chỉ mới lúc nãy thôi. Tôi vốn không hoàn toàn chắc chắn, nhưng cách mà 'Purple' đằng này chiến đấu giống hệt như Rentt. Nếu không tận mắt thấy cậu ấy đánh nhau, tôi không nghĩ là mình có thể nhận ra được điều gì đâu."
-
-"Kiếm thuật của anh ấy thực sự độc đáo đến thế cơ à?"
-
-"Không, nói đúng ra thì chẳng có mấy nét độc đáo đâu. Tôi đoán cô có thể nói là nó trông rất gọn gàng chuẩn chỉ. Cứ như thể cậu ấy làm mọi thứ theo đúng sách giáo khoa vậy. Mọi động tác đều nhuần nhuyễn như đã luyện tập hàng ngàn lần, nên có lẽ cô có thể xem đó là nét độc đáo. Mà dù sao thì, cớ sao hai người lại cải trang lên vương đô thế này?"
-
-Tôi chẳng biết phải trả lời ra sao, nhưng vẫn phải lên tiếng đáp lời. Tôi không thể đả động gì đến ma pháp trận dịch chuyển, thành ra không đời nào có thể hoàn toàn thành thật, nhưng tôi quyết định sẽ nói những gì có thể nói.
-
-"Chúng tôi có lý do để không thể lưu lại bất kỳ hồ sơ ghi chép nào về sự có mặt của mình ở đây. Còn về việc vì sao lại đến vương đô, tôi đoán anh có thể coi như chúng tôi đi tham quan vãn cảnh," tôi nói. Đó cũng là lời giải thích tương tự mà tôi đã nói với lính gác cổng thành, nhưng nó cũng không phải là dối trá. Gharb và Capitan tự nhiên đưa chúng tôi tới đây đùng một cái, và nếu có điều gì chúng tôi đang làm thì đó chính là tham quan vãn cảnh. Chuyện đó cùng với việc ghé qua trụ sở Hội Mạo Hiểm Giả.
-
-"Tôi cũng rất muốn nghe xem những lý do đó là gì. Nhưng mà, chà, gặng hỏi quá nhiều thông tin từ một mạo hiểm giả khác thì phạm quy mất rồi, tôi đoán vậy. Thế nên hai người muốn tôi giữ kín chuyện này, có đúng không?" Augurey hỏi, hiểu ngay ý mà chẳng cần chúng tôi phải giải thích dài dòng. Anh ta cũng từng tinh ý chu đáo tương tự khi chúng tôi chạm trán viên kỵ sĩ và công chúa, nên chuyện này cũng hoàn toàn hợp lý thôi.
-
-"Được thế thì chúng tôi cảm kích lắm."
-
-"Hiểu rồi. Nếu hai người vẫn thấy bất an thì chúng ta có thể dùng một khế ước ràng buộc ma pháp," anh ta đề nghị, nhưng việc anh ta phát hiện ra vốn dĩ là lỗi do tôi.
-
-"Không, tôi tin anh," tôi nói, thầm nghĩ sau này bản thân sẽ phải cẩn trọng hơn với cách thức chiến đấu của mình. "Nhưng giờ khi anh đã biết chuyện, anh cũng có thể sẽ gặp nguy hiểm, nên tôi thực sự khuyên anh tốt nhất đừng hé môi nửa lời."
-
-Đơn thuần sự việc chúng tôi có mặt ở đây thì chưa đủ chứng minh chúng tôi đã dùng ma pháp trận dịch chuyển, nhưng nếu có ai đó đánh hơi ra chuyện ấy, khả năng cao là họ sẽ tìm mọi cách bằng mọi giá để chiếm đoạt nó về tay mình. Nếu điều đó xảy ra, người gặp rắc rối sẽ không chỉ có mỗi chúng tôi. Augurey tuy chỉ nắm được một lượng thông tin nhỏ nhoi, nhưng chừng đó cũng đủ để đẩy anh ta vào vòng hiểm nguy rồi.
-
-"Vậy thì tôi nghĩ chúng ta nên dùng một khế ước ràng buộc ma pháp đi," Augurey đề xuất, có phần hơi rợn gáy trước những gì tôi vừa nói. "Nếu chúng ta dùng loại tốt, nó sẽ ngăn ngừa mọi sơ suất ngộ lỡ miệng."
-
-Nói đoạn, chúng tôi cùng rảo bước đi tìm mua một bản khế ước ràng buộc ma pháp.
+Chúng tôi bèn gọi chủ quán lại nhờ làm vài món.
 
 ◆◇◆◇◆
 
-Các loại khế ước ràng buộc ma pháp có chất lượng hết sức đa dạng cùng đủ mọi công dụng lẫn hiệu lực khác nhau. Công dụng cơ bản và phổ biến nhất của chúng là trừng phạt bất kỳ ai vi phạm khế ước. Tuy nhiên, ngay cả loại thông thường cũng có phẩm cấp chênh lệch nhau. Người ta thường có thể tìm mua chúng tại các hội mạo hiểm giả hoặc hội thương nghiệp, nhưng thứ mà Augurey gọi là 'loại tốt' thì lại có đôi chút khác biệt. Những loại đó không đơn thuần chỉ áp đặt hình phạt; chúng sở hữu quyền năng cưỡng chế tất cả những người ký kết phải tuân thủ nghiêm ngặt các điều khoản chừng nào khế ước còn tồn tại. Loại này có phần đặc biệt ngay cả trong toàn bộ giới khế ước ma pháp, và dù xét cho cùng chỉ là những mảnh giấy, chúng lại có giá đắt đỏ đến khó tin. Chúng cực kỳ nguy hiểm nếu bị dùng vào mưu đồ xấu xa, thành thử các hội đoàn không hề bày bán và người ta chỉ có thể sử dụng chúng ở một số địa điểm nhất định.
+"Ấy chết, nhìn giờ kìa! Tôi phải đi rồi," Augurey bảo. Tôi nhìn ra ngoài, thấy mặt trời đã ngấp nghé chân trời. Mấy đĩa đồ ăn đã vơi gần hết, chúng tôi chỉ còn ngồi tán gẫu.
 
-"Tới nơi rồi đây," Augurey nói khi chúng tôi dừng bước trước một tòa kiến trúc tráng lệ. "Đây là ngôi đền ở vùng này phụng thờ Hozei, Thần Khế Ước."
+Hóa ra tôi với Augurey lại hợp nhau đến thế, nói mãi chẳng hết chuyện. Cả hai đều quen tác chiến đơn độc, lại từng uống rượu với nhau vô số bận nên tôi thấy rất tự nhiên khi ở cạnh gã. Có điều với gã thì đây mới là lần đầu giáp mặt, nên khéo gã chỉ thuộc tuýp người dễ làm quen mà thôi.
 
-Những cột trụ màu trắng đồ sộ chống đỡ phần trần nhà nặng trĩu của tòa kiến trúc nguy nga. Nó đồ sộ đến mức buộc phải xây dựng cách xa trung tâm thành phố, gần hơn với khu vực có thể coi là ngoại ô. Nghe đâu khi nhà vua có việc cần bàn với người đứng đầu ngôi đền, ngài sẽ đến văn phòng dành cho các tư tế nằm ngay tại trung tâm vương đô. Sau đó người ta mới gửi thư truyền tin đến ngôi đền này, rồi vị chủ quản đền thờ mới từ đây lặn lội vào vương cung. Nghe qua quả là nhiêu khê phiền toái. Tôi bắt đầu thấy thương cảm cho các vị tư tế rồi đấy.
+"Thế à? Vậy tụi mình đi thôi nhỉ?" tôi hỏi.
 
-Nhưng dẫu sao thì, bất chấp quy mô khổng lồ của tòa nhà này, đây thậm chí còn chẳng phải là đền thờ chính của vị thần này. Đền thờ chính của các vị thần thường tọa lạc rải rác khắp nơi, trong khi vị trí của ngôi đền này lại do thành phố quyết định. Tôi từng nghe nói đền thờ chính đôi khi còn nhỏ hơn cả nơi này, nên ngẫm lại thì cũng thấy hợp lý. Tuy nhiên, Thần Khế Ước có mối liên hệ mật thiết với loài người, nên có lẽ đó là lý do vì sao một thành phố như thế này lại sở hữu một ngôi đền đồ sộ đến vậy. Dù rằng tôi chẳng rõ đền thờ chính rốt cuộc nằm ở đâu.
+"Được đấy, Rentt. Nhớ là cậu bao hết đấy nhé."
 
-"Xét việc anh chuyển từ Maalt lên đây thì anh nắm đường đi nước bước của thành phố này khá tường tận đấy chứ," tôi nói với Augurey khi chúng tôi bước vào trong đền.
+"Ừ, nhớ rồi. Hử?" Tôi buột miệng đáp rồi mới ngớ người nhận ra có gì đó sai sai. Ngẩng lên khỏi cái ví, tôi thấy Augurey đang tủm tỉm cười, còn Lorraine thì nhìn tôi như nhìn một kẻ ngốc.
 
-"Tôi ở đây cũng được một dạo khá lâu rồi mà," anh ta đáp lời. "Tôi đã đi rảo khắp nơi quanh thành phố vì công việc này nọ, nên đến giờ thì tôi thuộc làu bản đồ trong đầu rồi. Cơ mà khoản ngõ hẻm ngóc ngách thì tôi không dám tự tin cho lắm."
+"Biết ngay mà. Thế cô đằng kia là Lorraine chứ gì?" Augurey quay sang hỏi cô.
 
-Mạo hiểm giả đôi khi phải gặp mặt trực tiếp thân chủ cho một số ủy thác, chẳng hạn như tôi từng làm cho Laura. Trong những tình huống như vậy, việc nắm rõ đường sá trong thành phố là kiến thức thường thức giữa các mạo hiểm giả. Nhưng việc có bao nhiêu mạo hiểm giả thực sự nắm vững lại là một dấu hỏi. Ít nhất thì đám trẻ ở Maalt cũng làm được điều đó, nhờ vào các buổi thuyết giảng mà chúng tôi tổ chức cho mạo hiểm giả mới vào nghề. Augurey giờ đây có thể là một mạo hiểm giả ở vương đô, nhưng gốc gác của anh ta vốn dĩ là ở Maalt.
+Cô trầm ngâm một thoáng, nhưng thấy chẳng việc gì phải giấu nữa. "Phải, là tôi. Trời đất, anh nhận ra từ khi nào đấy?"
 
-Ngôi đền tràn ngập bầu không khí thanh tịnh. Không chỉ mang lại cảm giác như thế, mà tất cả các đền thờ tầm cỡ này đều có kha khá những người sử dụng Thần Lực thanh tẩy không khí mỗi ngày, thành ra nơi đây thực sự tràn ngập luồng sinh khí tinh sạch. Một Ma Cà Rồng mà lại tận hưởng bầu không khí ấy thì quả là kỳ quặc, nhưng một Ma Cà Rồng có thể sử dụng Thần Lực thì cũng kỳ quặc chẳng kém. Có lẽ đó là lý do vì sao nó không hề gây ảnh hưởng gì tới tôi. Mặc dù vậy, tôi cũng thích những chốn u tối ảm đạm nữa.
+"Nếu phải nói thì mới vừa nãy thôi. Ban đầu tôi cũng chưa dám chắc, nhưng cái cách 'Purple' đằng này đánh nhau y hệt như Rentt vậy. Không tận mắt thấy cậu ấy ra tay thì thật lòng, tôi chẳng tài nào nhận ra nổi."
 
-"Chào mừng các vị đến với đền thờ của Hozei. Hôm nay các vị đến đây có việc gì chăng?" một vị tư tế cất tiếng hỏi sau khi chúng tôi tiến khá sâu vào bên trong.
+"Kiếm pháp của anh ấy đặc biệt đến thế cơ à?"
 
-Ở phía cuối căn phòng rộng thênh thang sừng sững một bức tượng Hozei khổng lồ, và tôi có thể nhìn thấy mọi người đang thành tâm cầu nguyện trước tượng. Một tay Hozei cầm quyền trượng thực thi công lý, tay kia cầm cán cân đảm bảo sự công bằng. Nàng để mái tóc dài buông xõa và khoác tấm áo thụng rộng rãi. Đôi mắt nàng nhìn thẳng về phía trước, toát lên ý chí kiên định sắt đá, như thể nàng sẽ không bao giờ dung thứ cho bất kỳ sự bất công nào. Bức tượng như đang tra vấn những kẻ đứng trước mặt rằng liệu họ đã chuẩn bị sẵn sàng gánh vác sức nặng của bản khế ước hay chấp nhận hậu quả của việc bội ước hay chưa. Các vị thần linh mang đủ loại tính cách, nhưng Hozei nổi tiếng là một trong những vị thần khắc nghiệt nhất. Tôi vốn ưa những vị thần phóng khoáng dễ tính hơn, nhưng đây không phải là nơi để nói ra điều đó.
+"Không, nói đúng ra thì chẳng có gì đặc biệt cả. Cơ mà trông rất gọn gàng, chuẩn chỉ. Cứ như thể cậu ấy làm mọi thứ răm rắp theo sách giáo khoa vậy. Động tác nào cũng thuần thục như đã tập cả nghìn lần, nên chắc có thể coi đó là nét riêng. Mà thôi, cớ sao hai người lại phải cải trang lên vương đô thế này?"
 
-"Chúng tôi đến để xin một khế ước ràng buộc ma pháp mang sự ban phước của Hozei," tôi nói với vị tư tế. Tôi không cần phải nêu cụ thể phẩm cấp, bởi lẽ các bản khế ước ma pháp thông thường không hề có sự ban phước của Hozei. Đền thờ Hozei cũng biết cách tạo ra những bản khế ước tiêu chuẩn đó, nhưng ai nấy đều biết rằng chúng chỉ được tạo ra thông qua một nhánh mở rộng của ma thuật thông thường. Tuy nhiên, thứ chúng tôi muốn lại là một bản khế ước ràng buộc ma pháp có thể đặt ra giới hạn cưỡng chế lên hành vi của người ký kết, và việc tạo ra chúng đòi hỏi phải có Thần Lực. Điều đó có nghĩa là chúng do các Thánh Giả tạo ra và nhờ vậy mới nhận được sự ban phước của Hozei.
+Tôi chưa biết phải trả lời thế nào, nhưng không nói thì không được. Đã không thể đả động đến ma pháp trận dịch chuyển thì chẳng đời nào khai thật hết được, nên tôi đành lựa lời nói những gì có thể.
 
-"Vậy thì các vị sẽ phải sử dụng nó ngay bên trong đền thờ, nếu các vị chấp thuận điều đó," vị tư tế nói.
+"Tụi tôi có lý do riêng nên không thể để lại bất kỳ tung tích nào cho thấy mình từng ở đây. Còn lý do lên vương đô thì... cứ coi như tụi tôi đi ngắm cảnh đi," tôi bảo. Tôi cũng vừa nói y như thế với lính gác cổng, nhưng chẳng phải là bịa chuyện. Đùng một cái bà Gharb với Capitan lôi chúng tôi tới đây, nên nếu bảo đang làm gì thì đúng là chúng tôi đi ngắm cảnh thật. Vừa ngắm cảnh vừa tiện thể ghé qua tổng bộ Hội.
 
-"Được chứ ạ. Chúng tôi có thể có một căn phòng riêng không?"
+"Tôi cũng tò mò muốn nghe mấy lý do đó lắm. Cơ mà săm soi chuyện của mạo hiểm giả khác thì phạm quy mất rồi. Tóm lại là hai người muốn tôi giữ kín miệng chứ gì?" Augurey hỏi, chẳng cần giải thích gã cũng tự hiểu ra ngay. Hồi đụng độ nhóm kỵ sĩ với công chúa gã cũng biết ý như thế, nên chuyện này cũng dễ hiểu thôi.
 
-"Được, tôi sẽ dẫn các vị đến một căn phòng được yểm ma pháp cách âm. Mời đi lối này."
+"Được vậy thì tụi tôi cảm ơn nhiều lắm."
 
-Vị tư tế dẫn chúng tôi đi ngang qua bức tượng Hozei khổng lồ rồi tiến vào một dãy hành lang san sát những cánh cửa. Mỗi cánh cửa chúng tôi đi qua đều treo một tấm biển đề chữ đỏ "Đang Dùng", hẳn là bên trong đã có người. Rốt cuộc, chúng tôi cũng đến trước một cánh cửa không treo biển.
+"Hiểu rồi. Nếu hai người vẫn chưa yên tâm thì mình lập một khế ước ma pháp đi," gã đề nghị, dù rằng gã phát hiện ra vốn là lỗi tại tôi.
 
-"Đến nơi rồi đây," vị tư tế nói, vừa mở cửa vừa ra hiệu mời chúng tôi bước vào trong.
+"Không, tôi tin anh," tôi nói, bụng thầm nhủ sau này đánh đấm phải cẩn thận hơn. "Có điều giờ anh biết chuyện rồi thì khéo lại rước họa vào thân, nên tôi khuyên thật là tuyệt đối đừng nói với ai."
 
-Ba người chúng tôi bước vào phòng, vị tư tế cũng bước vào theo rồi đột nhiên im lặng không nói gì. Tôi đang tự hỏi ông ấy định làm gì thì Lorraine huých nhẹ vào sườn tôi rồi thì thầm rằng ông ấy đang đợi tiền quyên góp. Tôi hoàn toàn quên bẵng mất việc đó, nhưng trước đó chúng tôi đã chuẩn bị sẵn một chiếc túi da để dâng cúng.
+Chỉ riêng việc chúng tôi có mặt ở đây thì chưa chứng minh được là có dùng ma pháp trận dịch chuyển, nhưng rủi có ai đánh hơi ra, khả năng cao là họ sẽ bất chấp thủ đoạn để chiếm đoạt nó cho bằng được. Nếu chuyện đó xảy ra, người gặp rắc rối đâu chỉ có mỗi chúng tôi. Augurey chỉ biết chút thông tin cỏn con, nhưng chừng đó cũng đủ khiến gã bị đe dọa tính mạng rồi.
 
-"Xin dâng cúng vật này lên Hozei. Chúng tôi thành tâm cầu xin nhận được sự ban phước của Người," tôi nói rồi chìa chiếc túi ra. Vị tư tế cúi đầu cung kính đón lấy.
+"Thế thì tôi nghĩ mình cứ lập khế ước ma pháp đi cho chắc," Augurey đề nghị, có phần hơi rợn người trước những gì tôi vừa nói. "Kiếm loại tốt một chút là ngăn được mấy chuyện lỡ mồm ngay ấy mà."
 
-"Vậy thì của các vị đây," ông nói rồi trao cho chúng tôi một mảnh giấy da cừu rõ ràng đang tỏa Thần Lực. Đây chính là bản khế ước ràng buộc ma pháp mà chúng tôi đang tìm kiếm. "Nó được sử dụng theo cùng một cách như bất kỳ bản khế ước ma pháp nào. Tuy nhiên điểm khác biệt là nó có khả năng ước thúc hành vi của các vị ở mức độ nhất định, nên xin hãy ghi nhớ điều đó. Giờ tôi phải đi rồi. Nếu có điều gì chưa hiểu, xin hãy rung chiếc chuông này. Tôi sẽ tới ngay." Ngay sau khi giải thích xong xuôi, ông liền rời khỏi phòng.
+Nói rồi, chúng tôi cùng nhau rảo bước đi tìm một bản khế ước ma pháp.
+
+◆◇◆◇◆
+
+Khế ước ma pháp có phẩm cấp rất đa dạng với đủ loại công dụng và hiệu lực khác nhau. Cách dùng cơ bản và phổ biến nhất là trừng phạt kẻ nào dám phá vỡ giao kèo. Dẫu vậy, ngay cả loại đại trà cũng có thứ nọ thứ kia. Người ta thường mua được chúng ở Hội Mạo Hiểm Giả hoặc thương hội, nhưng thứ mà Augurey bảo là 'loại tốt' thì lại hơi khác. Loại đó không đơn thuần chỉ phạt vạ; chúng mang quyền năng bắt tất cả những ai đã ký phải răm rắp tuân theo các điều khoản chừng nào khế ước còn hiệu lực. Ngay cả trong giới khế ước ma pháp thì chúng cũng thuộc hàng đặc biệt, và dẫu xét cho cùng chỉ là một tờ giấy, giá của chúng lại đắt đến giật mình. Nếu rơi vào tay kẻ có dã tâm thì chúng cực kỳ nguy hiểm, thành thử các hội đoàn không bán và người ta chỉ được phép dùng chúng ở vài nơi nhất định.
+
+"Tới nơi rồi," Augurey lên tiếng khi chúng tôi dừng trước một tòa nhà bề thế. "Đây là đền thờ Thần Khế Ước Hozei ở vùng này."
+
+Những hàng cột trắng muốt đỡ lấy phần trần nặng trịch của tòa nhà bề thế. Nó lớn tới mức phải xây cách xa trung tâm thành phố, dạt về phía ngoại ô. Nghe đâu mỗi khi nhà vua có việc cần bàn với người đứng đầu ngôi đền, ngài phải tới một văn phòng tư tế nằm ngay giữa trung tâm vương đô. Rồi từ đó người ta mới báo tin về đây, để chủ quản đền thờ lặn lội vào cung. Nghĩ thôi đã thấy phiền hà. Tự dưng tôi thấy tội nghiệp cho mấy vị tư tế ghê.
+
+Cơ mà dù to lớn như vậy, nơi đây thậm chí còn chẳng phải đền chính của vị thần này. Đền chính của các vị thần thường rải rác khắp nơi, còn ngôi đền này lại do thành phố quy hoạch. Tôi từng nghe bảo đền chính có khi còn nhỏ hơn, nghĩ lại thì cũng có lý. Nhưng vì Thần Khế Ước gắn bó mật thiết với con người, nên có lẽ đó là lý do một thành phố như thế này lại có ngôi đền nguy nga đến vậy. Có điều đền chính nằm ở đâu thì tôi chịu chết.
+
+"Mới từ Maalt chuyển lên mà anh nắm đường sá trong này rành ghê nhỉ," tôi bảo Augurey khi cả bọn bước vào trong đền.
+
+"Tôi ở đây cũng khá lâu rồi mà," gã đáp. "Làm ủy thác chạy đôn chạy đáo khắp nơi suốt nên giờ bản đồ nằm trong đầu tôi rồi. Cơ mà mấy ngõ ngách thì tôi chịu, không dám chắc đâu."
+
+Đôi khi mạo hiểm giả phải trực tiếp gặp thân chủ để bàn việc, như tôi từng làm cho Laura chẳng hạn. Gặp những chuyện như thế, việc thông thạo đường sá thành phố là điều ai cũng phải biết. Nhưng có mấy người thực sự nắm rõ thì lại là chuyện khác. Ít ra đám tân binh ở Maalt thì biết, nhờ vào mấy lớp chỉ dẫn chúng tôi mở cho người mới vào nghề. Augurey giờ có làm mạo hiểm giả ở vương đô thì gốc gác gã vẫn là dân Maalt mà ra.
+
+Bên trong đền tĩnh mịch lạ thường. Không chỉ là cảm giác, mà mọi ngôi đền cỡ này đều có không ít người dùng Thần Lực thanh tẩy không khí mỗi ngày, thành ra nơi đây thực sự vô cùng trong lành. Một Ma Cà Rồng mà lại thấy thoải mái trong bầu không khí ấy kể cũng lạ, nhưng một Ma Cà Rồng dùng được Thần Lực thì cũng lạ đời chẳng kém. Có lẽ nhờ thế mà tôi chẳng hề hấn gì. Cơ mà mấy chỗ u ám tôi vẫn khoái hơn.
+
+"Chào mừng các vị đến với đền thờ Hozei. Hôm nay các vị đến đây có việc gì cần giúp chăng?" một tư tế bước tới hỏi khi chúng tôi đã vào sâu một quãng.
+
+Phía cuối căn phòng thênh thang sừng sững bức tượng Hozei khổng lồ, vài người đang chắp tay cầu nguyện trước bệ thờ. Một tay Hozei cầm quyền trượng thực thi công lý, tay kia nâng cán cân phân xử công bằng. Tượng tạc mái tóc dài buông xõa cùng tấm áo thụng rộng thùng thình. Ánh mắt nhìn thẳng phía trước, toát lên niềm tin sắt đá như thể sẽ chẳng bao giờ tha thứ cho bất kỳ nỗi bất công nào. Bức tượng tựa như đang cật vấn những kẻ đứng trước mặt: đã sẵn sàng gánh vác sức nặng của bản khế ước, hay chấp nhận hậu quả một khi bội ước chưa? Thần linh mỗi người một tính, nhưng Hozei nổi tiếng là một trong những vị nghiêm khắc nhất. Tôi thì khoái mấy vị thần xuề xòa hơn, nhưng ở đây chẳng phải chỗ để bộc bạch chuyện đó.
+
+"Chúng tôi đến để xin một khế ước ràng buộc ma pháp có sự ban phước của Hozei," tôi nói với vị tư tế. Tôi không cần phải nói rõ phẩm cấp, bởi lẽ khế ước ma pháp thông thường đâu có sự ban phước của Hozei. Đền thờ Hozei cũng biết làm mấy bản tiêu chuẩn đó, nhưng ai cũng hiểu chúng chỉ được chế tạo từ một nhánh mở rộng của ma thuật thông thường. Thứ chúng tôi muốn lại là một bản khế ước ràng buộc ma pháp giới hạn được hành vi của người ký, mà tạo ra nó thì bắt buộc phải có Thần Lực. Tức là chúng phải do các Thánh Giả tạo ra và nhận được phúc lành từ Hozei.
+
+"Vậy thì các vị sẽ phải dùng nó ngay tại đền thờ, nếu các vị chấp thuận điều đó," vị tư tế bảo.
+
+"Thế cũng được. Cho chúng tôi một phòng riêng được chứ?"
+
+"Được, tôi sẽ dẫn các vị tới căn phòng có yểm ma pháp cách âm. Xin mời đi lối này."
+
+Vị tư tế dẫn chúng tôi đi ngang qua bức tượng Hozei khổng lồ rồi rẽ vào một dãy hành lang san sát những cánh cửa. Cửa nào đi qua cũng treo biển chữ đỏ "Đang Dùng", chứng tỏ bên trong đã có người. Mãi sau, chúng tôi mới tới một cánh cửa trống trơn không treo biển.
+
+"Tới nơi rồi," vị tư tế vừa mở cửa vừa mời chúng tôi vào trong.
+
+Ba chúng tôi bước vào phòng, vị tư tế cũng vào theo rồi bỗng dưng im bặt. Tôi đang thắc mắc ông ta định làm gì thì Lorraine huých nhẹ vào sườn, ghé tai bảo ông ấy đang chờ tiền quyên góp đấy. Tôi quên khuấy mất vụ này, may mà trước đó cả bọn đã chuẩn bị sẵn một chiếc túi da đựng tiền dâng cúng.
+
+"Xin dâng món này lên Hozei. Cầu mong Người ban phước cho chúng tôi," tôi nói rồi chìa chiếc túi ra. Vị tư tế cúi đầu cung kính đón lấy.
+
+"Vậy thì của các vị đây," ông nói rồi trao cho chúng tôi một mảnh giấy da cừu toát ra Thần Lực rõ rệt. Đây chính là bản khế ước ràng buộc ma pháp mà chúng tôi đang tìm kiếm. "Cách dùng cũng giống như mọi bản khế ước ma pháp khác. Có điều nó sẽ phần nào trói buộc hành vi của các vị, xin hãy nhớ kỹ điều này. Giờ tôi phải đi rồi. Nếu có điều gì chưa hiểu, xin hãy rung chiếc chuông này. Tôi sẽ tới ngay." Dặn dò xong xuôi, ông liền rời khỏi phòng.
