@@ -1,135 +1,135 @@
 # Chương 128: Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (4)
 
-Trước khi rời khỏi hội, tôi đã hỏi xem Sheila có muốn đi ăn tối cùng tôi không. Thức ăn tự nó không phải là mục đích chính, mà quan trọng hơn là tôi muốn kể cho ai đó tường tận hoàn cảnh của mình về những chuyện đã diễn ra ngày hôm nay. Ban đầu tôi vốn chẳng hề có ý định giãi bày mọi sự với Wolf, nhưng giờ sự đã rồi thì chẳng thể nào thay đổi được nữa. Dù sao thì tôi cũng đã có một nhân viên của hội đứng về phía mình, đó là Sheila. Cô có thể giúp chuyển lời giữa Wolf và tôi. Thêm vào đó, dẫu chẳng bị giao phó nhiều việc, hiện tại trên danh nghĩa tôi vẫn làm việc cho hội. Điều đó biến Sheila thành tiền bối của tôi ở nơi làm việc, thế nên tôi muốn hỏi cô về các quy tắc. Nhờ những tập sách mỏng đặt bên quầy tiếp tân, tôi cũng nắm được đôi chút về các quy định và kỳ vọng của họ đối với mạo hiểm giả, song tôi lại hoàn toàn mù tịt về những quy tắc nội bộ dành cho nhân viên mà Wolf đã đề cập. Tôi đoán họ cũng có những tập tài liệu tương tự dành riêng cho nhân viên và rồi sẽ bảo tôi đọc sau, nhưng tôi vẫn muốn nắm được những điều cơ bản trước lúc ấy.
+Trước khi rời hội, tôi rủ Sheila đi ăn tối cùng. Ăn uống thực ra chỉ là cái cớ, điều quan trọng là tôi muốn kể cho một người hiểu rõ tình cảnh của mình nghe về những chuyện xảy ra hôm nay. Ban đầu tôi vốn không định kể hết mọi chuyện với Wolf, cơ mà chuyện đã rồi thì đành chịu. Dù sao đi nữa, ít nhất tôi cũng có một nhân viên của hội đứng về phía mình là Sheila. Cô có thể làm cầu nối chuyển lời giữa tôi và Wolf. Vả lại, tuy không bị giao nhiều việc, song trên danh nghĩa giờ tôi vẫn là nhân viên làm việc cho hội. Điều đó biến Sheila thành tiền bối của tôi ở chỗ làm, nên tôi muốn hỏi cô đôi điều về quy tắc. Mấy tập cẩm nang mỏng đặt bên quầy tiếp tân giúp tôi nắm được đôi chút về các quy định cũng như kỳ vọng của hội đối với mạo hiểm giả, nhưng về quy tắc nội bộ dành cho nhân viên mà Wolf nhắc tới thì tôi mù tịt. Tôi đoán hội cũng có tài liệu tương tự dành cho nhân viên và thể nào sau này cũng bảo tôi đọc, nhưng tôi vẫn muốn biết trước những điều cơ bản.
 
-Sheila lờ mờ nhận ra tôi mời cô vì những lý do ấy, nên cô đã đồng ý ghé qua nhà Lorraine sau giờ làm.
+Sheila hiểu ý là tôi có chuyện cần bàn nên mới mời, vậy là cô đồng ý ghé qua nhà Lorraine sau khi hết giờ làm.
 
 ◆◇◆◇◆
 
-Đồ ăn lúc nào cũng ngon lành. Hàng loạt món ăn được bày biện trên bàn, mỗi món đều là thành quả hợp tác giữa Lorraine và Sheila. Có chút máu được hòa lẫn vào trong, song hương vị lại có phần khác biệt so với thường ngày. Hôm nay ngon hơn hẳn lệ thường, nhưng tôi tự hỏi tại sao lại như vậy.
+Cơm canh lúc nào cũng ngon. Bao nhiêu là món được bày biện trên bàn, món nào cũng là thành quả chung tay chuẩn bị của Lorraine và Sheila. Có chút máu được trộn vào trong, nhưng hương vị lại hơi khác mọi khi. Hôm nay ngon hơn hẳn ngày thường, khiến tôi cứ thắc mắc không hiểu vì sao.
 
-"Hôm nay cô nêm nếm thức ăn theo cách khác à?" tôi hỏi. Phần lớn thời gian Lorraine đều tự nấu nướng một mình, thế nên có lẽ sự tham gia của Sheila đã làm biến đổi mùi vị đôi chút, song dường như không chỉ có vậy. Dẫu thế, tôi cũng chẳng biết phải giải thích ra sao.
+"Hôm nay cô nêm nếm khác mọi khi à?" tôi hỏi. Bình thường hầu như chỉ có mình Lorraine nấu, nên có lẽ sự góp mặt của Sheila đã khiến hương vị thay đổi đôi chút, nhưng dường như không chỉ có thế. Dù vậy, tôi cũng chẳng biết phải diễn tả thế nào cho đúng.
 
-"À thì, đồ ăn hôm nay chứa cả máu của tôi lẫn Sheila," Lorraine giải thích. "Tôi đã bảo cô ấy không cần phải làm đến mức ấy, nhưng cô ấy cứ nằng nặc đòi."
+"À thì, đồ ăn hôm nay có pha cả máu của tôi lẫn Sheila đấy," Lorraine giải thích. "Tôi đã bảo cô ấy không cần phải làm tới mức đó đâu, nhưng cô ấy cứ khăng khăng đòi."
 
-Điều đó quả thực đã giải thích cho hương vị đậm đà phức hợp này. Tôi chẳng rõ là do máu của hai người hòa quyện lại tạo nên vị ngon, hay do bản thân máu của mỗi người vốn dĩ đã thơm ngon rồi. Dẫu sao thì Sheila có lòng chia sẻ máu của mình cũng thật là tốt.
+Thảo nào hương vị lại phong phú, tầng tầng lớp lớp đến thế. Tôi chẳng rõ do máu hai người hòa vào nhau tạo nên vị ngon, hay vốn dĩ máu của ai cũng ngon sẵn. Dù sao thì Sheila có lòng san sẻ máu của mình cũng thật đáng quý.
 
 ![](images/ch128-01.webp)
 
-"Cô Sheila, cô không bận tâm sao?" tôi hỏi cô.
+"Cô Sheila, cô không thấy ngại sao?" tôi hỏi cô.
 
-"Tôi cũng có chút để tâm, nhưng anh là Ma Cà Rồng và cần máu để sống mà. Tôi đã biết điều đó kể từ lúc chúng ta lập khế ước, nhưng anh toàn lấy máu từ cô Vivie. Cô ấy bảo mỗi tháng chỉ tầm một bình, nhưng tôi e rằng rồi sẽ có ngày cô ấy ngã bệnh mất, thế nên tôi nghĩ thử dùng máu của mình cũng là ý hay," cô nói. Wolf cũng từng lo lắng về đúng điều tương tự. Bình máu gần nhất mà Lorraine đưa cho tôi cũng sắp cạn rồi, vậy nên có thêm người đóng góp thì tôi vô cùng cảm kích.
+"Nói không ngại chút nào thì không đúng, nhưng anh là Ma Cà Rồng và cần máu để sống mà. Tôi biết điều đó từ hồi chúng ta lập khế ước rồi, cơ mà trước giờ anh toàn lấy máu từ cô Vivie. Cô ấy bảo mỗi tháng chỉ tầm một bình, nhưng tôi sợ rằng rồi sẽ có ngày cô ấy đổ bệnh mất, nên tôi nghĩ thử dùng máu của mình xem sao cũng là ý hay," cô nói. Wolf cũng từng lo lắng về đúng chuyện đó. Bình máu đợt trước Lorraine đưa cho tôi cũng sắp cạn rồi, nên có thêm người san sẻ thế này thì tôi cảm kích lắm.
 
-Đồ ăn có pha máu dĩ nhiên chỉ dành riêng cho tôi. Lorraine và Sheila thì dùng bữa như bình thường.
+Phần đồ ăn có pha máu dĩ nhiên chỉ dành riêng cho tôi, còn Lorraine và Sheila thì ăn uống bình thường.
 
-"Nếu vậy thì tôi rất vui lòng đón nhận. Nhưng quay lại vấn đề chính đã," tôi nói rồi chuyển đề tài sang những điều Hội Trưởng Wolf đã trao đổi với mình. Đại để, tôi thông báo cho họ biết rằng tôi đã giãi bày hoàn cảnh của mình, rằng ông ấy thấu hiểu cho điều đó, và vấn đề đăng ký hai lần của tôi có thể được giải quyết êm thấm nếu tôi gia nhập đội ngũ nhân viên hội.
+"Nếu vậy thì tôi xin nhận lòng tốt này. Nhưng quay lại chuyện chính đã," tôi nói rồi chuyển đề tài sang những điều Hội Trưởng Wolf đã trao đổi với mình. Đại ý, tôi kể cho họ nghe rằng mình đã nói rõ tình cảnh bản thân, ông ấy rất thấu hiểu, và vụ rắc rối đăng ký hai danh tính của tôi có thể giải quyết êm thấm nếu tôi gia nhập đội ngũ nhân viên hội.
 
-"Ra là vậy," Lorraine đáp lại. "Nghe chừng chẳng có vấn đề gì to tát nữa rồi. Coi bộ toàn bộ số tài liệu anh thu thập rốt cuộc lại chẳng dùng được vào việc gì cả." Lorraine từng phụ giúp chỉnh lý các tập hồ sơ mà tôi tập hợp. Những góp ý của cô thực tế đã giúp nội dung tài liệu trở nên dễ hiểu hơn nhiều. Song rốt cuộc nó lại thành ra một phen tốn công vô ích.
+"Ra vậy," Lorraine đáp. "Thế thì coi như chẳng còn gì đáng lo nữa rồi. Hóa ra đống tài liệu anh cất công thu thập rốt cuộc lại chẳng dùng được vào việc gì." Lorraine từng giúp tôi chỉnh lý tập hồ sơ đó. Nhờ những góp ý của cô mà nội dung tài liệu trở nên rành mạch, dễ hiểu hơn hẳn. Tiếc là cuối cùng lại thành ra một phen tốn công vô ích.
 
-"Tôi đã trao thẳng chúng cho ông ấy rồi. Xin lỗi vì đã khiến cô phải phụ giúp uổng công," tôi cất lời xin lỗi.
+"Tôi đưa hết cho ông ấy rồi. Xin lỗi vì làm phiền cô giúp một phen công cốc nhé," tôi cất lời nhận lỗi.
 
-Lorraine lắc đầu. "Nếu ông ta đã tin tưởng anh, thì giở trò đe dọa không phải là ý kiến hay. Tôi vốn định khuyên anh nên giữ kín chúng để phòng khi có biến cố xảy ra sau này, nhưng anh xưa nay đâu phải mẫu người chủ động tính toán mấy chuyện đó. Không sao cả," cô nói.
+Lorraine lắc đầu. "Nếu ông ấy đã tin tưởng anh thì mang ra đe dọa chẳng phải nước cờ khôn ngoan. Tôi vốn định khuyên anh giữ kín để phòng sau này có biến, nhưng anh xưa nay đâu phải tuýp người chủ động mấy chuyện đó. Thôi, thế cũng được," cô nói.
 
-Dẫu vậy, cô không bảo là tôi không thể giữ kín chúng, bởi cô thừa biết tôi có thể làm được. Chỉ là tôi không muốn làm vậy mà thôi.
+Cơ mà cô không bảo là tôi không giữ kín được, bởi cô thừa hiểu tôi làm được. Chỉ là tôi không muốn làm thế mà thôi.
 
-"Dù vậy, một kẽ hở cho phép anh duy trì việc đăng ký hai lần ư? Tôi nhớ mang máng là có quy tắc ấy tồn tại, nhưng ngạc nhiên là Hội Trưởng lại nhắc đến nó nhanh như thế. Theo tôi được biết thì quy định ấy đã không còn được áp dụng ở Maalt suốt mấy thập kỷ qua rồi," Sheila cất lời.
+"Cơ mà, có kẽ hở cho phép giữ lại hai danh tính đăng ký thật sao? Tôi nhớ mang máng là có quy định đó, nhưng bất ngờ là Hội Trưởng lại nghĩ ngay ra nó nhanh đến thế. Theo tôi biết thì mấy chục năm qua ở Maalt chưa từng có ai dùng tới rồi," Sheila góp lời.
 
-"Thật vậy sao?" Tôi nghiêng đầu. Tôi cứ ngỡ quy tắc đó không được tiết lộ cho mạo hiểm giả nhưng vẫn thường được nhân viên sử dụng.
+"Thật thế à?" Tôi nghiêng đầu. Tôi cứ ngỡ quy tắc đó chỉ giấu mạo hiểm giả, chứ trong nội bộ nhân viên vẫn dùng thường xuyên.
 
-"Vâng, quy định đó dành cho nhân viên khi muốn khảo sát hoặc thu thập thông tin từ giới mạo hiểm giả. Có điều dạo này chúng tôi đâu cần phải đích thân làm mạo hiểm giả mới lấy được những thông tin đó, nên chẳng ai dùng đến nữa. Cũng không có nhiều ý nghĩa cho lắm," Sheila giải thích.
+"Vâng, quy định đó vốn để nhân viên dùng khi cần điều tra hoặc thu thập thông tin từ mạo hiểm giả. Cơ mà dạo này chúng tôi đâu cần phải đích thân làm mạo hiểm giả mới lấy được tin tức, thành ra chẳng ai áp dụng nữa. Cũng không có nhiều tác dụng cho lắm," Sheila giải thích.
 
-Nghe chừng cơ chế này coi như đã chết từ lâu, vậy mà Wolf lại nghĩ ngay ra nó trong chớp mắt.
+Xem ra cơ chế này chẳng khác nào đã bị bỏ xó từ lâu, vậy mà Wolf lại nghĩ ra ngay được.
 
-"Tôi đoán là ngay từ đầu Hội Trưởng đã mưu tính dùng điều đó để lung lạc anh rồi," Lorraine nói.
+"Tôi đoán ngay từ đầu Hội Trưởng đã định dùng bài đó để lôi kéo anh rồi," Lorraine nói.
 
-"Chắc là vậy, nhưng hà cớ gì phải đi xa đến mức đó chứ?" tôi trăn trở.
+"Có lẽ thế, nhưng sao ông ấy phải cất công đến mức đấy nhỉ?" tôi ngẫm nghĩ.
 
-"Ông ta đã để mắt đến anh suốt một thời gian dài rồi. Tôi đồ rằng ông ta cũng cân nhắc cách lôi kéo anh gia nhập hội ngần ấy thời gian. Trong đó bao gồm cả việc tìm cách thuê anh trong khi anh vẫn làm mạo hiểm giả. Ông ta thực sự đánh giá rất cao anh đấy."
+"Ông ấy để mắt tới anh từ lâu rồi còn gì. Tôi đồ là ông ấy cũng tính kế lôi kéo anh về hội ngần ấy năm trời đấy. Chắc cũng đã tìm hiểu sẵn cách nào vừa tuyển anh vào làm, vừa để anh tiếp tục làm mạo hiểm giả. Ông ấy đánh giá anh cao lắm đấy."
 
-Nói cách khác, đây là phương án ông đã trăn trở trong đầu kể từ khi tôi trở thành mạo hiểm giả Đồng Cấp. Dẫu vậy, tôi hồ nghi việc ông lại coi trọng tôi đến nhường ấy.
+Nói cách khác, đây là lựa chọn ông ấy đã ấp ủ từ tận hồi tôi mới lên mạo hiểm giả Đồng Cấp. Có điều, tôi chẳng nghĩ mình lại quan trọng đến mức đó trong mắt ông ấy.
 
-"Nghe rất giống phong cách của Hội Trưởng. Ông ấy suy nghĩ sâu xa về những chuyện này lắm. Nhìn vẻ ngoài thì dễ hiểu lầm, nhưng tôi nghe nói ông ấy thông minh lắm đấy. Dù sao ông ấy cũng là một người tốt," Sheila chen ngang, đưa ra lời minh chứng củng cố cho suy đoán của Lorraine.
+"Nghe đúng là phong cách của Hội Trưởng thật. Mấy chuyện thế này ông ấy hay suy tính sâu xa lắm. Vẻ ngoài bặm trợn thì dễ khiến người ta hiểu lầm, nhưng tôi nghe nói ông ấy thông minh lắm đấy. Cơ mà ông ấy là người tốt bụng," Sheila chen vào, đưa thêm dẫn chứng củng cố cho phỏng đoán của Lorraine.
 
-Nếu quả thực là vậy thì ông đã nắm trọn tôi trong lòng bàn tay. Song việc thao túng một kẻ như tôi hẳn chẳng có gì khó khăn, bởi tôi vốn có xu hướng tùy cơ ứng biến, nước chảy bèo trôi. Tôi quyết định không bận tâm về chuyện đó nữa. Dù sao chuyện này cũng chẳng gây hại gì cho tôi, và nếu có biến cố gì phát sinh, lúc ấy hãy tính tiếp.
+Nếu đúng là thế thì tôi bị ông ấy nắm gọn trong lòng bàn tay rồi còn gì. Cơ mà xoay chuyển một kẻ như tôi thì khó gì đâu, tính tôi vốn cứ nước chảy bèo trôi. Tôi quyết định không bận tâm nữa. Dù sao chuyện này cũng chẳng có gì thiệt cho tôi, ngộ nhỡ có chuyện xảy ra thì lúc đó tính sau.
 
-Dẫu thế, buông lỏng quá mức có thể dẫn tới hậu quả đau đớn về sau, đúng như những gì tôi dần cảm nhận được trong thời gian gần đây.
-
-◆◇◆◇◆
-
-Sau khi bữa tối kết thúc và mọi sự đã được giải thích tỏ tường, chúng tôi tiễn Sheila về nhà rồi quay lại thư thả ngồi trong phòng khách của Lorraine.
-
-"Có vẻ như rắc rối đăng ký hai lần của anh đã được giải quyết xong xuôi rồi, vậy anh định dùng cái tên nào đây?" Lorraine hỏi.
-
-"Ồ, tôi cứ dùng tên Rentt Vivie một thời gian nữa cũng ổn thôi. Đổi tên trong lúc Nive vẫn còn quanh quẩn ở đây có thể sẽ nguy hiểm," tôi nói.
-
-Lorraine gật đầu. "Chà, anh nói cũng có lý. Nhưng tôi bất ngờ là lại có cách giải quyết ấy đấy. Tôi cứ ngỡ họ sẽ xóa bỏ một trong hai cái tên cơ."
-
-"Ừ, ban đầu ông ấy có gợi ý điều đó. Ông ấy còn bảo tôi có thể kết hôn với cô để giải quyết, nhưng làm sao tôi làm chuyện đó được chứ."
-
-Lorraine phun toẹt cả ngụm rượu vang ra ngoài. "Thế là có ý gì hả?" cô cau có hỏi.
-
-"Tôi có thể kết hôn với cô và đổi sang họ Vivie, rồi nói rằng hội đã quên xóa cái tên tôi đăng ký trước đó. Tôi cũng hết hồn khi nghe ông ấy nói thế, nhưng rốt cuộc thì chẳng cần phải dùng tới hạ sách ấy. Dù sao thì hôm nay đi ngủ thôi. Ngày mai chúng ta sẽ đi mua những thứ cần thiết cho chuyến đi đúng không? Chúc ngủ ngon nhé."
-
-Đã đến lúc chuẩn bị mọi thứ cần thiết, nên tôi có hẹn đi mua sắm cùng Lorraine vào ngày mai. Nếu muốn thì tôi có thể thức trắng đêm cũng chẳng sao, nhưng Lorraine dù sao cũng chỉ là người phàm.
-
-"Ừ, phải rồi. Chúc ngủ ngon, Rentt."
-
-Tôi vẫy tay chào rồi về phòng mình. Tôi hy vọng ngày mai sẽ thấy vài ma cụ thú vị, nhưng chúng tôi chỉ định mua những vật dụng thật sự cần thiết, nên chắc điều đó khó mà xảy ra.
+Cơ mà, buông lỏng quá đà thể nào cũng có ngày chuốc lấy rắc rối về sau, dạo gần đây tôi cũng bắt đầu thấm thía điều đó rồi.
 
 ◆◇◆◇◆
 
-"Kết hôn hả?" Lorraine lẩm bẩm khi chỉ còn lại một mình. Từ ngữ ấy nghe thật lạ lẫm đối với cô.
+Dùng bữa xong xuôi và giãi bày hết mọi chuyện, chúng tôi tiễn Sheila về tận nhà rồi quay lại thong thả ngồi nghỉ trong phòng khách của Lorraine.
 
-Cô đã qua độ tuổi kết hôn trung bình từ lâu, song không ít phụ nữ ở độ tuổi của cô vẫn thành đôi với những người quen cũ. Nếu anh giữ cái tên Rentt Vivie, điều đó cũng đồng nghĩa với việc anh sẽ ở rể nhà cô.
+"Xem ra vụ rắc rối đăng ký hai danh tính của anh đã giải quyết êm xuôi rồi nhỉ, thế tính dùng tên nào đây?" Lorraine hỏi.
 
-"Kết hôn hả?" Lorraine lặp lại lần nữa rồi nhắm mắt lại. Cô cố hình dung ra viễn cảnh đó, nhưng nó chỉ mang lại cho cô một cảm giác ngưa ngứa bồn chồn.
+"À, cứ tạm dùng tên Rentt Vivie một thời gian nữa chắc không sao đâu. Đổi tên trong khi Nive vẫn còn quanh quẩn ở đây thì nguy hiểm lắm," tôi đáp.
+
+Lorraine gật đầu. "Ừm, anh nói cũng có lý. Nhưng tôi ngạc nhiên là lại có cách giải quyết kiểu đó đấy. Cứ tưởng bên hội sẽ xóa bớt một tên đi chứ."
+
+"Ừ, ban đầu ông ấy cũng tính thế. Ông ấy còn bảo tôi cưới cô là xong chuyện, cơ mà đời nào tôi làm thế được."
+
+Lorraine phun phì cả ngụm rượu vang ra ngoài. "Ý anh là sao hả?" cô cau có hỏi.
+
+"Thì bảo tôi cưới cô rồi lấy họ Vivie, xong bảo hội sơ suất quên xóa cái tên đăng ký từ trước. Nghe ông ấy bảo thế tôi cũng giật cả mình, may mà cuối cùng chẳng cần phải viện tới nước ấy. Thôi, hôm nay đi ngủ sớm đi. Mai chúng ta còn phải đi sắm đồ đạc chuẩn bị cho chuyến đi nữa đúng không? Chúc cô ngủ ngon nhé."
+
+Cũng đã tới lúc thu xếp mọi thứ cần thiết cho chuyến đi, nên mai tôi đã hẹn cùng Lorraine đi sắm đồ. Tôi thì có thức trắng đêm cũng chẳng hề gì, nhưng Lorraine dù sao vẫn là người bình thường.
+
+"Ừ, biết rồi. Chúc ngủ ngon nhé, Rentt."
+
+Tôi vẫy tay chào rồi lui về phòng. Bụng bảo dạ mong mai được nghía vài món ma cụ hay ho, cơ mà chúng tôi chỉ định mua những thứ thực sự cần thiết nên chắc cũng chẳng có cơ hội.
 
 ◆◇◆◇◆
 
-"Ồ! Trông cái đó thú vị đấy chứ," tôi nói rồi chạy ào tới một quầy hàng rong ven đường.
+"Kết hôn cơ à?" Lorraine lẩm bẩm khi chỉ còn lại một mình. Nghe sao mà lạ lẫm với cô quá.
 
-Họ bày bán khá nhiều ma cụ kỳ lạ. Phần lớn các ma cụ hữu dụng đều được tìm thấy ở những cửa tiệm chuyên doanh ma cụ, nơi chúng được giám định và bán kèm bản phân tích bằng văn bản, song người ta cũng có thể bắt gặp chúng ở các quầy hàng rong.
+Cô đã vượt quá độ tuổi kết hôn trung bình từ lâu, song không ít phụ nữ ở tầm tuổi cô vẫn nên duyên với người quen cũ đấy thôi. Nếu anh giữ cái tên Rentt Vivie, điều đó cũng đồng nghĩa với việc anh sẽ vào ở rể nhà cô.
 
-Chi phí giám định ma cụ rất đắt đỏ. Khi mạo hiểm giả tìm thấy ma cụ trong mê cung, họ thường mang đến hội hoặc tiệm ma cụ để giám định, nhưng nếu chúng rõ ràng là vô dụng, hoặc sau khi giám định mà hóa ra chẳng dùng được vào việc gì, chúng sẽ trôi dạt về nơi này. Ví dụ phổ biến cho loại trước là những chiếc kim găm chẳng làm được tích sự gì ngoài việc nảy tưng tưng tại chỗ, những bông hoa biết hát (mà tiếng hát chẳng hay ho gì, nghe như tiếng ồn rác tai), và những ngọn đuốc cứ bùng cháy rồi tắt ngúm ngẫu nhiên không chừng. Ví dụ cho loại sau là những thanh ma kiếm chẳng hề được cường hóa chút nào, hay thứ thuốc trông giống hệt thuốc hồi phục nhưng chẳng mang lại tác dụng gì ngoài việc gây đau bụng. Không phải mọi vật phẩm tìm thấy trong mê cung đều có công dụng thực tế. Chẳng ai mua chúng trừ phi hiếu kỳ, biết được công năng tiềm ẩn của những món đồ này, hoặc là lũ trẻ con muốn tìm đồ chơi. Rốt cuộc, chúng đều tìm đường dạt đến những quầy hàng rong này.
+"Kết hôn cơ à?" Lorraine nhắc lại rồi nhắm nghiền mắt. Cô thử tưởng tượng viễn cảnh đó, nhưng trong lòng lại dấy lên cảm giác bồn chồn, ngứa ngáy khó tả.
 
-"Trông chẳng khác gì đồ chơi trẻ con với rác rưởi. Sao anh lại muốn mấy thứ này cơ chứ?" Lorraine lẩm bẩm rồi nhíu mày.
+◆◇◆◇◆
 
-Chúng tôi đang ở khu chợ để mua các nhu yếu phẩm linh tinh. Có đồ ăn bảo quản, đá mài cầm tay, quần áo, thuốc và nhiều thứ khác. Tự thân Lorraine có thể bào chế các loại thuốc phẩm chất cao nên chúng tôi không nhất thiết phải mua, nhưng thu thập nguyên liệu để chế tạo chúng thì phiền phức lắm, vậy nên chúng tôi chọn mua sẵn. Ma vật cũng có thể tấn công chúng tôi trên đường đi, thành thử chúng tôi cần dụng cụ chứa đựng bất kỳ nguyên liệu hữu dụng nào rơi ra từ chúng. Trước đây, tôi từng dùng lá cây Hoonoki Maalt để bọc thịt Orc và dùng bình để chứa dịch Slime. Khi nhắc đến những món đồ như vậy, mua ở các cửa hiệu lớn sẽ có chất lượng tốt hơn hàng rong, nhưng hàng rong lại bán với giá rẻ. Tôi thường đến các cửa hiệu lớn khi cần đồ cho công việc, song đây chỉ là một chuyến đi cá nhân. Chất lượng có kém hơn đôi chút cũng chẳng sao. Dẫu vậy, tôi vẫn phải cảnh giác trước những món hàng không đáng tin cậy.
+"Ồ! Trông món kia hay ho ghê," tôi nói rồi chạy tót lại một quầy hàng rong ven đường.
 
-"Chính cái vẻ vô giá trị của chúng mới khiến tôi muốn có đấy. Nếu chỉ mua những thứ có ích thì chán ngắt lắm."
+Ở đó bày bán không ít ma cụ kỳ quái. Thường thì ma cụ dùng được chỉ có ở các cửa tiệm chuyên bán ma cụ, nơi đồ đạc được giám định đàng hoàng kèm giấy phân tích công năng, nhưng thỉnh thoảng ở mấy sạp hàng rong cũng lọt ra vài món.
 
-Lorraine ôm đầu trước lý lẽ của tôi. "Anh đang giở giọng triết lý với tôi đấy à? Tôi chẳng tài nào hiểu nổi."
+Giám định ma cụ tốn kém lắm. Mạo hiểm giả kiếm được ma cụ trong mê cung thường đem tới hội hoặc tiệm ma cụ để thẩm định, nhưng nếu món nào nhìn là biết vô dụng, hoặc thẩm định xong mới hóa ra chẳng tích sự gì, thì đều trôi dạt về đây. Điển hình cho loại trước là mấy cây kim găm chẳng làm được trò trống gì ngoài việc nảy tưng tưng tại chỗ, những bông hoa biết hát (mà hát dở tệ, nghe chẳng khác nào tiếng ồn inh tai), hay những ngọn đuốc cứ chốc chốc lại bùng cháy rồi tắt ngúm bất chợt. Còn ví dụ cho loại sau là mấy thanh ma kiếm chẳng hề có chút cường hóa nào, hay thứ thuốc nhìn như đúc thuốc hồi phục nhưng uống vào chỉ tổ đau bụng. Đâu phải đồ nào nhặt trong mê cung cũng dùng được vào việc thực tế. Chẳng ai buồn mua mấy thứ này, trừ phi vì tính tò mò, hoặc biết được công năng ẩn của chúng, hay lũ trẻ con tìm đồ chơi. Rốt cuộc, chúng cứ dạt về mấy quầy hàng rong thế này.
 
-Tôi vốn định vặn lại rằng đó là tinh thần mạo hiểm, nhưng tôi thừa biết ai sẽ là kẻ trông ngớ ngẩn trong cuộc đối thoại này. Dù sao thì tôi vẫn muốn mấy món ma cụ đó, tôi không thể kìm lòng được.
+"Toàn đồ chơi trẻ con với rác rưởi. Sao anh cứ ham mấy thứ này thế nhỉ?" Lorraine lẩm bẩm rồi nhíu mày.
 
-"Thôi thì, anh muốn tiêu tiền của mình thế nào tùy thích. Tôi cũng vừa mua một cuốn sách chẳng có mấy tác dụng thực tiễn, nên ở chừng mực nào đó tôi cũng hiểu được suy nghĩ của anh," Lorraine chịu nhượng bộ, trên tay cầm cuốn sách dày bọc bìa da mà cô mua ở quầy hàng rong chúng tôi vừa ghé qua lúc nãy. Nó có tựa đề "Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon", một cái tên mang lại cảm giác chẳng lành. Nấu nướng bằng các bộ phận của ma vật là chuyện bình thường, song khía cạnh "kém chất lượng" khiến tôi tự hỏi rốt cuộc họ muốn ám chỉ điều gì. Có thể là Slime chăng, nhưng ngay cả thứ đó cũng có thể chế biến thành món nuốt trôi được. Tôi chỉ biết cầu nguyện sao cho mình không bao giờ phải động tới cuốn sách này.
+Hai chúng tôi ra chợ để sắm sửa đủ thứ đồ lặt vặt. Nào là lương thực dự trữ, đá mài bỏ túi, quần áo, thuốc men và nhiều món khác nữa. Bản thân Lorraine tự pha chế được các loại thuốc chất lượng cao nên chúng tôi không nhất thiết phải mua, nhưng đi kiếm nguyên liệu chế thuốc thì phiền phức lắm, thành ra cứ mua sẵn cho tiện. Dọc đường đi quái vật cũng có thể tấn công chúng tôi, nên cần chuẩn bị sẵn đồ chứa bất kỳ nguyên liệu hữu dụng nào rơi ra từ chúng. Trước đây, tôi từng dùng lá cây Hoonoki Maalt để gói thịt Orc và dùng lọ để đựng chất nhầy Slime. Về mấy món đó thì mua ở các cửa tiệm lớn chất lượng sẽ tốt hơn đồ bán rong, bù lại hàng rong thì giá rẻ hơn. Khi cần sắm đồ cho công việc thì tôi mới vào tiệm lớn, còn đây là chuyến đi riêng của hai đứa, đồ đạc có kém hơn một chút cũng chẳng sao. Cơ mà tôi vẫn phải cẩn thận kẻo vớ phải hàng dởm.
 
-"Ồ, đằng kia còn vài quầy bán sách nữa kìa," Lorraine chỉ tay. "Rentt, tôi qua đó xem sao nhé. Anh cứ thoải mái ngắm nghía ma cụ thỏa thích đi. Tầm một tiếng nữa chúng ta gặp nhau ở băng ghế phía đông quảng trường trung tâm nhé."
+"Chính cái vẻ vô dụng của chúng mới làm tôi muốn mua đấy chứ. Cứ mua toàn đồ hữu dụng thì chán chết đi được."
 
-Cô rảo bước về phía khu vực tập trung đông đúc các quầy bán sách, có lẽ là để lùng mua thêm vài cuốn sách kỳ quái nữa. Tôi chẳng rõ chúng có tác dụng gì, nhưng hai chúng tôi lại có điểm tương đồng ở khoản ấy. Đó chính là điều đã gắn kết chúng tôi bên nhau suốt một thập kỷ qua.
+Lorraine ôm đầu chịu thua trước lý lẽ của tôi. "Anh lại giở giọng triết lý với tôi đấy à? Chịu, tôi chẳng hiểu nổi."
 
-Chỉ còn lại một mình để ngắm nghía ma cụ, tôi đưa tay về phía một tấm bảng kỳ bí đang trôi lơ lửng cách mặt đất chừng ba phân.
+Tôi vốn định cãi lại rằng đấy là tinh thần mạo hiểm, cơ mà tôi thừa biết nếu đôi co thì ai sẽ là kẻ trông như thằng ngốc. Dù sao thì tôi vẫn thèm mấy món ma cụ đó, không kìm lại được.
+
+"Thôi thì, tiền của anh thì anh muốn tiêu sao tùy thích. Tôi cũng vừa tậu một cuốn sách chẳng có mấy giá trị thực tế, nên phần nào tôi cũng hiểu được cảm giác của anh," Lorraine đành nhượng bộ, tay cầm cuốn sách dày cộp bọc bìa da vừa mua ở sạp hàng rong trước đó. Tựa sách là "Nấu Ăn Từ Ma Vật: Biến Bộ Phận Kém Chất Lượng Thành Món Ngon", một cái tên nghe đầy vẻ chẳng lành. Nấu nướng bằng thịt và các bộ phận của quái vật là chuyện hết sức bình thường, song cái chữ "kém chất lượng" lại khiến tôi băn khoăn không hiểu tác giả muốn nhắm tới thứ gì. Có khi là Slime chăng, cơ mà ngay cả thứ đó cũng chế biến thành món nuốt trôi được cơ mà. Tôi chỉ biết cầu trời sao cho mình chẳng bao giờ phải đụng tới cuốn sách này.
+
+"Ồ, đằng kia còn mấy sạp sách nữa kìa," Lorraine chỉ tay. "Rentt, tôi qua đó xem chút đây. Anh cứ việc tha hồ ngắm ma cụ nhé. Tầm một tiếng nữa gặp nhau ở ghế băng phía đông quảng trường trung tâm nhé."
+
+Cô rảo bước về phía khu vực san sát các sạp sách, chắc mẩm lại đi kiếm thêm mấy cuốn kỳ quái nữa rồi. Tôi chẳng biết mấy thứ đó thì giúp ích được gì, nhưng hai đứa chúng tôi lại giống nhau ở cái tính ấy. Có lẽ chính điều đó đã giữ chúng tôi bên nhau suốt mười năm qua.
+
+Chỉ còn lại một mình với đống ma cụ, tôi đưa tay về phía một tấm bảng kỳ lạ đang lơ lửng cách mặt đất chừng ba phân.
 
 "Ôi, tôi xin lỗi."
 
-Người đứng cạnh tôi cất lời xin lỗi. Cô gái cũng định chộp lấy món đồ cùng lúc và chạm vào tay tôi. Cú va chạm chẳng làm tôi đau đớn chút nào nên tôi không để bụng, song tôi lại thấy kỳ quặc khi có ai đó cũng hứng thú với món đồ này. Dĩ nhiên là trừ bản thân tôi ra. Dẫu vậy, tôi giấu đi cảm xúc của mình và ngước lên trò chuyện cùng cô.
+Người đứng bên cạnh cất tiếng xin lỗi tôi. Cô ấy cũng định với tay lấy món đồ cùng lúc nên chạm phải tay tôi. Va chạm nhẹ thế này chẳng làm tôi đau chút nào nên tôi cũng không để bụng, chỉ thấy lạ là lại có người cũng hứng thú với món này. Dĩ nhiên là trừ tôi ra. Nhưng tôi giấu kín vẻ ngạc nhiên và ngẩng lên bắt chuyện với cô gái.
 
-"Không sao đâu, tôi..." tôi bắt đầu mở lời, nhưng rồi thời gian như ngưng đọng lại.
+"Không sao đâu, tôi—" tôi vừa cất lời thì thời gian bỗng như ngưng đọng lại.
 
 "Có chuyện gì sao ạ? Mặt tôi dính gì à?" cô hỏi.
 
-Câu trả lời là trên đó có mắt, mũi và miệng, song đó không phải điều khiến tôi sững sờ không thốt nên lời. Tôi từng gặp cô gái này trước đây. Cô sở hữu mái tóc vàng óng và đôi mắt xanh biếc. Gương mặt khiến cô trông còn rất trẻ, nhưng hứa hẹn sẽ trổ mã thành một đại mỹ nhân trong vài năm tới. Diện mạo ấy có phần tương phản với bộ giáp da và thanh kiếm cô đang đeo bên mình. Tôi chưa từng ngờ rằng lại gặp cô ở nơi này.
+Câu trả lời là trên mặt cô có đủ mắt, mũi, miệng, cơ mà đâu phải vì thế mà tôi nghẹn lời. Tôi từng gặp cô gái này rồi. Mái tóc vàng óng ả cùng đôi mắt xanh biếc. Gương mặt trông vẫn còn nét trẻ con, nhưng hứa hẹn chỉ vài năm nữa thôi sẽ trổ mã thành một mỹ nhân thực thụ. Vẻ ngoài xinh xắn ấy có phần chẳng ăn nhập gì với bộ giáp da cùng thanh kiếm cô đang đeo bên mình. Tôi chưa từng ngờ mình lại gặp lại cô ở chốn này.
 
-"Không, chẳng có gì đâu. Cô có nhận ra tôi không?" tôi hỏi.
+"Không, không có gì đâu. Cô có nhận ra tôi không?" tôi hỏi.
 
-"Khoan đã, chúng ta từng gặp nhau rồi sao? Một chiếc mặt nạ che nửa mặt, một chiếc áo choàng đen..." Giọng cô nhỏ dần khi cố vắt óc suy nghĩ.
+"Khoan đã, chúng ta từng gặp nhau rồi sao? Mặt nạ che nửa mặt, áo choàng đen..." Giọng cô nhỏ dần, vẻ mặt như đang cố vắt óc suy nghĩ.
 
-Có vẻ như cô đã quên, nhưng rồi tôi chợt nhớ ra một chuyện. Chiếc mặt nạ của tôi trông đã khác so với lần cuối chúng tôi gặp mặt.
+Xem chừng cô ấy đã quên mất, nhưng rồi tôi sực nhớ ra một điều. Chiếc mặt nạ hiện tại trông khác hẳn so với hồi chúng tôi gặp nhau lần cuối.
 
-"Xin lỗi nhé, thế này thì sao?" tôi nói rồi biến đổi chiếc mặt nạ thành hình đầu lâu che kín toàn bộ khuôn mặt. Tôi cũng trùm mũ áo choàng lên đầu và bước đi lảo đảo đầy vẻ khả nghi. Đôi mắt cô mở to kinh ngạc.
+"Xin lỗi nhé, thế này thì sao?" tôi nói rồi đổi hình dạng chiếc mặt nạ thành hình đầu lâu che kín cả khuôn mặt. Tôi còn trùm mũ áo choàng lên rồi bước đi lảo đảo, làm bộ khả nghi. Mắt cô mở to kinh ngạc.
 
-"Ôi, anh là anh Rentt phải không?!" cô hét lên. Tôi biến đổi mặt nạ trở lại như cũ, cởi mũ trùm đầu xuống và gật đầu.
+"Ơ, anh là anh Rentt phải không?!" cô thốt lên kinh ngạc. Tôi đổi mặt nạ về như cũ, gạt mũ trùm xuống rồi gật đầu.
 
 ![](images/ch128-02.webp)
 
-"Ừ, đúng vậy. Lâu rồi không gặp nhé, Rina."
+"Ừ, đúng rồi. Lâu quá không gặp, Rina."
