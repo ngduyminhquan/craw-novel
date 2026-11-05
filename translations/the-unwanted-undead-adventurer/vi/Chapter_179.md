@@ -1,73 +1,73 @@
 # Chương 179: Ngoại truyện Tập 7 - Thành Viên Đoàn Kịch Rentt
 
-"Chà, rắc rối thật đấy. Giờ phải làm sao đây?"
+"Chà, rắc rối thật đấy. Giờ tính sao đây?"
 
-Khi đang rảo bước qua thị trấn Maalt, tôi bất chợt nghe thấy tiếng than thở ấy. Tò mò, tôi đưa mắt nhìn sang và thấy một nhóm nhỏ gồm cả nam lẫn nữ đang đứng tụ tập. Người vừa lên tiếng là một người đàn ông trung niên phốp pháp; so với ông ta, những người còn lại trông đều có vẻ ngoài khá ưa nhìn. Thoạt nhìn, thật khó để đoán biết mục đích của nhóm người này là gì. Nhưng dù tôi có thích giúp đỡ người khác đến đâu, tôi cũng chẳng thể dừng chân để hỗ trợ mọi kẻ gặp khó khăn mà mình tình cờ bắt gặp.
+Đang rảo bước giữa Maalt thì tôi chợt nghe thấy câu ấy. Tò mò đưa mắt nhìn sang, tôi thấy một nhóm cả nam lẫn nữ đang đứng tụ lại. Người vừa lên tiếng là một người đàn ông trung niên phốp pháp; so với ông ta, những người còn lại trông đều sáng sủa hơn hẳn. Thoạt nhìn thì khó mà đoán được nhóm này tụ tập làm gì. Cơ mà dẫu tính tôi thích giúp người, tôi cũng đâu thể cứ thấy ai gặp chuyện là lại dừng bước đỡ đần.
 
-Tôi toan bước vòng qua họ, nhưng rồi ai đó cất tiếng: "Này anh bạn đằng kia! Đợi một chút đã," rồi túm lấy cánh tay tôi. Lại là người đàn ông phốp pháp nọ. Tôi đã nhận ra ngay khoảnh khắc ông ta bắt đầu cử động và hoàn toàn có thể né tránh, nhưng nếu làm vậy thì có lẽ ông ta sẽ ngã nhào ra đất, nên tôi đã không làm thế. Dẫu vậy, tôi thầm ngờ rằng mình vừa đưa ra một lựa chọn sai lầm. Nhóm người này có vẻ chẳng mang lại điều gì ngoài phiền phức, nhưng biết đâu số phận đã định sẵn tôi phải dính líu vào chuyện này.
+Tôi tính bước lướt qua họ, bỗng ai đó cất tiếng: "Này cậu đằng kia! Đợi một chút đã!", rồi túm lấy cánh tay tôi. Lại là người đàn ông phốp pháp nọ. Vừa thấy ông ta nhúc nhích là tôi đã nhận ra và thừa sức né được, nhưng sợ né thì ông ta lại ngã nhào mất, nên tôi đành thôi. Có điều, tôi e là mình vừa chọn sai nước cờ. Mấy người này toát lên vẻ rặt những rắc rối, nhưng biết đâu số phận đã định sẵn tôi phải dính vào chuyện này.
 
-"Có chuyện gì thế?" tôi thở dài hỏi.
+"Chuyện gì thế?" tôi thở dài hỏi.
 
-Người đàn ông không đáp lại ngay. Lúc này khi đã nhìn kỹ diện mạo của tôi, ông ta trông có vẻ sợ sệt. Dù sao thì, tôi đang đeo một chiếc mặt nạ đầu lâu, khoác áo choàng và mang theo thanh kiếm đã sờn cũ. Giới mạo hiểm giả thì đã quá quen nhìn thấy những kẻ như tôi, nhưng bất kỳ thị dân bình thường nào cũng sẽ coi tôi là một kẻ nguy hiểm. Dẫu vậy, người đàn ông vẫn không hề lùi bước.
+Người đàn ông không đáp lại ngay. Có lẽ lúc này mới nhìn rõ tôi, ông ta trông có vẻ e dè. Dù sao thì tôi cũng đang đeo mặt nạ đầu lâu, khoác áo chùng và mang thanh kiếm cũ sờn. Cánh mạo hiểm giả thì quen mắt với những kẻ như tôi rồi, chứ thường dân nhìn vào ai chẳng thấy nguy hiểm. Ấy thế mà ông ta vẫn không chịu lùi bước.
 
-"Tôi có một chuyện muốn nhờ cậy..." ông ta nói sau khi đã lấy hết can đảm. Khi nhận thấy vẻ mặt vô cùng nghiêm túc của ông ta, tôi đành từ bỏ ý định tìm cách chuồn lẹ khỏi đây.
+"Tôi có chuyện muốn nhờ cậy..." lấy hết can đảm, ông ta mới cất lời. Thấy vẻ mặt ông ta nghiêm túc đến thế, tôi đành dẹp luôn ý định tìm cách chuồn lẹ.
 
-"Ít nhất thì tôi cũng sẽ nghe xem đó là chuyện gì," tôi nói.
-
-◆◇◆◇◆
-
-"Vậy tóm lại là các vị không thể sử dụng nhà hát như dự định và đang bối rối chưa biết phải làm sao. Tôi hiểu rồi, hóa ra các vị là một đoàn kịch."
-
-Lắng nghe câu chuyện của họ, tôi mới vỡ lẽ họ là một đoàn kịch lưu động mới đến Maalt cách đây vài ngày. Maalt tuy không quá lớn, nhưng ít nhất cũng đủ rộng lớn để được coi là một thành phố, thành thử nơi đây cũng có phần nào các hình thức giải trí. Ở Maalt có một nhà hát nhỏ, nơi các đoàn kịch định kỳ tới biểu diễn. Đương nhiên là các đoàn kịch của chính Maalt cũng diễn ở đó, nhưng cũng có những đoàn đến từ bên ngoài thị trấn. Nhóm người này thuộc trường hợp thứ hai, và theo kế hoạch họ sẽ biểu diễn tại nhà hát trong vài ngày bắt đầu từ ngày mai. Thế nhưng người đứng đầu nhà hát lại đột ngột đổi ý không cho phép.
-
-"Chủ của cái nhà hát đó đúng là tệ hết chỗ nói," nữ diễn viên chính của đoàn kịch giải thích. "Ông ta bảo có một đoàn kịch địa phương khăng khăng đòi dùng nhà hát, nhưng ngay từ đầu chính ông ta mới là người mời chúng tôi tới thị trấn này cơ mà. Ôi, bực mình thật đấy." Gương mặt kiều diễm của cô rất hợp với sân khấu kịch, còn cử chỉ điệu bộ thì tao nhã và nổi bật cuốn hút. Cô thuộc tuýp người khiến người ta vừa nhìn đã muốn xem diễn xuất.
-
-"Liesse này, sự đời vốn là vậy mà. Những đoàn kịch lưu động như chúng ta đi đến đâu cũng bị đối xử như thế cả thôi," một nam diễn viên khác lên tiếng. Thoạt nhìn, anh ta trông có vẻ hiền lành và rụt rè, nhưng ở anh ta toát lên một nét gì đó khiến người khác khó lòng rời mắt. Rất dễ nhận ra anh ta cũng là một người biểu diễn. "Tôi chỉ mong sao sau này chúng ta sẽ có được một nhà hát của riêng mình. Nhưng hiện tại chắc chắn là chúng ta chưa có đủ tiền cho chuyện đó rồi. Thôi thì hãy quên thị trấn này đi và thử tìm vận may ở nơi khác xem sao."
-
-Tôi hoàn toàn là kẻ mù tịt về bất cứ điều gì liên quan đến biểu diễn sân khấu, nhưng mỗi thành viên trong đoàn kịch đều toát ra một phong thái thú vị mà tôi không biết phải dùng lời lẽ nào để miêu tả. Tôi chỉ mới trò chuyện với họ đôi chút, nhưng chừng đó đã đủ để khiến tôi tò mò muốn xem buổi diễn của họ. Dẫu vậy, gần như chẳng có cơ hội nào để tôi thực sự được xem, điều mà tôi thầm nghĩ quả là đáng tiếc. Thế nhưng người đàn ông trung niên, người có vẻ là trưởng đoàn kịch kiêm quản lý hơn là một diễn viên biểu diễn, đã cho tôi thấy mọi chuyện không hẳn là như vậy qua câu nói tiếp theo của ông ta.
-
-"Cùng lắm thì chúng tôi sẽ biểu diễn ở quảng trường thị trấn. Miễn là có đủ không gian, chúng tôi có thể xoay xở bằng cách này hay cách khác. Nhưng nếu không có một nhà hát tử tế thì sẽ rất khó để dựng phông nền hay đảm bảo hiệu ứng âm thanh."
-
-Điều đó gợi cho tôi một ý tưởng. "Nếu tôi có thể thu xếp một địa điểm cho các vị, đồng thời giải quyết ổn thỏa vấn đề phông nền cùng âm thanh, liệu tôi có được xem buổi diễn của các vị không?" tôi hỏi.
-
-"Hả? À, dĩ nhiên rồi, nhưng chúng tôi đâu có xin được phép sử dụng quảng trường thị trấn đâu."
-
-"Không, tôi có một ý khác. Tôi sẽ xem liệu mình có lo liệu được không, nhưng nếu không thành công thì xin thứ lỗi trước nhé."
-
-Người đàn ông lắc đầu. "Dù sao thì chúng tôi cũng hết cách rồi. Nếu chỉ có một tia hy vọng mong manh, chúng tôi cũng sẽ nắm lấy. Đằng nào thì lúc này chúng tôi cũng đang vắt óc nghĩ cách đây."
-
-"Tôi hiểu rồi. Nhưng dẫu sao thì tại sao ban nãy ông lại chặn tôi lại? Các vị thật may mắn vì tôi nảy ra một ý, nhưng tôi không nghĩ có lý do nào để cho rằng tôi có thể giúp được các vị đâu."
-
-"À, thực ra tôi đâu có định nhờ cậu làm bất cứ điều gì liên quan đến chuyện đó đâu, mà là..."
-
-Rồi vị trưởng đoàn kịch kể cho tôi nghe lý do vì sao ông ta lại chặn tôi lại, và câu trả lời quả thực khiến tôi sửng sốt.
+"Ít nhất thì tôi cũng sẽ nghe xem là chuyện gì đã," tôi đáp.
 
 ◆◇◆◇◆
 
-Tôi chưa từng nghĩ có ngày bản thân lại bước lên sân khấu kịch. Nhưng tôi đã không thốt ra điều đó. Những gì tôi nói khi đứng trên sân khấu là những lời thoại của kẻ phản diện được viết trong kịch bản của vị trưởng đoàn kịch. Ông ta muốn thuê tôi đóng vai phản diện. Người vốn được giao vai diễn này lại ngã bệnh nặng, thành thử họ tình cờ đang ráo riết tìm người thay thế đúng lúc tôi đi ngang qua.
+"Vậy tóm lại là các vị không dùng được nhà hát như dự tính nên đang loay hoay chưa biết tính sao. Ra là vậy, hóa ra các vị là một đoàn kịch."
 
-Kẻ phản diện là một ma pháp sư đeo mặt nạ sử dụng hắc ma pháp. Nữ diễn viên chính đóng vai người phụ nữ bị ma pháp sư bắt cóc để làm tế phẩm, còn nam diễn viên rụt rè nọ lại hóa thân thành một chàng hiệp sĩ đầy tự tin lên đường giải cứu cô. Thật đáng kinh ngạc, buổi diễn đã nhận được sự đón nhận nồng nhiệt trong suốt cả bốn ngày công chiếu.
+Nghe họ kể đầu đuôi, tôi mới biết đây là một đoàn kịch lưu động vừa tới Maalt hôm trước. Maalt không quá lớn, nhưng chí ít cũng đủ quy mô của một thành phố, nên các thú vui giải trí ở đây cũng chẳng thiếu. Thị trấn có một nhà hát nhỏ, thỉnh thoảng lại có các đoàn kịch ghé diễn. Đoàn kịch bản địa của Maalt diễn ở đó là đương nhiên, nhưng cũng có những đoàn từ nơi khác tới. Mấy người này thuộc nhóm thứ hai; theo lịch thì bắt đầu từ ngày mai họ sẽ diễn vài ngày ở nhà hát. Ngặt nỗi, người đứng đầu nhà hát đùng một cái lại đổi ý không cho nữa.
 
-Về phần địa điểm, tôi đã bàn bạc với Lorraine. Tôi hỏi xem liệu đoàn kịch có thể mượn mảnh đất mà cô sở hữu ở ngoại ô thị trấn hay không, và cô đã nhanh chóng đồng ý miễn là được xem diễn. Cô cũng giải quyết mọi vấn đề về phông nền sân khấu bằng cách sử dụng ma pháp ảo ảnh của mình. Sự đa tài của Lorraine khiến cả đoàn kịch vô cùng cảm kích.
+"Chủ của cái nhà hát đó đúng là tệ hết chỗ nói," nữ diễn viên chính của đoàn kịch phân trần. "Ông ta bảo có đoàn kịch địa phương nằng nặc đòi dùng rạp, nhưng rõ ràng ngay từ đầu chính ông ta mới là người gọi chúng tôi đến thị trấn này cơ mà. Ôi, bực cả mình." Gương mặt lộng lẫy của cô rất hợp với ánh đèn sân khấu, còn từng cử chỉ điệu bộ lại vừa tao nhã vừa nổi bật. Cô đúng là kiểu người chỉ nhìn thoáng qua thôi cũng đủ khiến người ta muốn xem diễn rồi.
 
-"Vậy thì, ta sẽ chìm vào giấc ngủ. Một ngày nào đó điều ấy cũng sẽ đến với ngươi thôi, trong bóng tối sâu thẳm, thật tĩnh lặng. A, ta sẽ chờ đợi..." tôi gào lên sau khi trúng nhát chém của chàng hiệp sĩ. Rồi tôi ngã nhào khỏi rìa sân khấu và biến mất dạng.
+"Liesse à, thói đời vốn thế rồi. Đoàn kịch lưu động như chúng ta đi đến đâu cũng bị đối xử như vậy cả thôi," một nam diễn viên khác lên tiếng. Thoạt nhìn, anh ta có vẻ hiền lành và rụt rè, nhưng nét gì đó ở anh ta lại khiến người khác khó lòng rời mắt. Nhìn là biết ngay anh ta cũng là người trong nghề diễn. "Tôi chỉ mong sau này chúng ta sẽ có được một nhà hát của riêng mình. Cơ mà giờ thì đào đâu ra tiền. Thôi bỏ qua thị trấn này đi, sang chỗ khác thử xem sao."
 
-Lorraine đã đứng đợi tôi ở đó. "Anh diễn xuất cừ ra phết đấy chứ, Rentt," cô cười nói.
+Về chuyện diễn xuất thì tôi hoàn toàn mù tịt, nhưng thành viên nào trong đoàn kịch cũng toát ra khí chất cuốn hút mà tôi chẳng biết phải dùng lời lẽ nào để tả. Mới chỉ trò chuyện đôi câu thôi, tôi đã thấy tò mò muốn xem họ diễn rồi. Ngặt nỗi tôi chắc chẳng có cơ hội được xem, nghĩ bụng cũng thấy tiếc. Thế nhưng câu nói tiếp theo của người đàn ông trung niên—người trông giống trưởng đoàn kiêm quản lý hơn là diễn viên—lại cho thấy mọi chuyện chưa hẳn đã hết cách.
 
-"Mấy diễn viên này còn ghê gớm hơn cả lũ quái vật nữa. À, không hẳn vậy, nhưng họ thực sự là một đoàn kịch cừ khôi. Tôi diễn xuất hơi quá đà, nhưng tất cả họ đều rất tài năng, nên tôi đoán mọi chuyện mới suôn sẻ được như thế." Ngay cả khi tôi nói hớ hoặc đọc vấp lời thoại, họ liền nhanh trí ứng biến đổi câu thoại của mình để làm cho có vẻ như tôi chẳng hề mắc lỗi gì. Thật ra ai vào vai của tôi cũng được cả. Chỉ là tôi tình cờ có ngoại hình quá đỗi phù hợp với vai diễn mà thôi.
+"Cùng lắm thì chúng tôi diễn ở quảng trường thị trấn. Miễn là đủ chỗ, kiểu gì cũng xoay xở được. Ngặt nỗi không có rạp hát đàng hoàng thì khó mà dựng phông nền hay bảo đảm âm thanh."
 
-"Họ quả thực là một đoàn kịch tốt," Lorraine đồng tình. "Tôi thậm chí còn đang tính giới thiệu họ với một người quen của mình ở Đế Quốc đây."
+Nghe vậy, tôi chợt nảy ra một ý. "Nếu tôi kiếm được địa điểm cho các vị, lại lo luôn cả chuyện phông nền lẫn âm thanh, liệu tôi có được xem buổi diễn không?" tôi hỏi.
 
-"Cô nên làm thế đi. Tôi sẽ rất lấy làm tiếc nếu tài năng của họ bị lãng phí chỉ vì thiếu đi cơ hội."
+"Hả? À, được chứ, nhưng chúng tôi đã xin được phép dùng quảng trường thị trấn đâu."
 
-"Vậy tôi sẽ làm thế nhé. Mà nhân tiện, anh đã nghe tin về những gì xảy ra ở nhà hát chưa?"
+"Không, tôi tính đường khác. Để tôi thử xem có xoay xở được không, nhỡ không xong thì cho tôi xin lỗi trước nhé."
+
+Người đàn ông lắc đầu. "Đằng nào chúng tôi cũng hết đường rồi. Dù chỉ có một tia hy vọng mong manh, chúng tôi cũng muốn thử. Chứ lúc này tụi tôi cũng đang vắt óc nghĩ cách đây."
+
+"Tôi hiểu rồi. Cơ mà sao ban nãy ông lại kéo tôi lại thế? May là tôi nảy ra được một ý, chứ nhìn tôi thế này đâu có lý do gì để ông nghĩ là tôi giúp được."
+
+"À, thật ra tôi đâu có định nhờ cậu chuyện ấy, mà là..."
+
+Thế rồi ông trưởng đoàn mới nói rõ lý do kéo tôi lại, và câu trả lời quả thực khiến tôi sửng sốt.
+
+◆◇◆◇◆
+
+Tôi chẳng bao giờ ngờ có ngày mình lại đứng trên sân khấu kịch. Cơ mà tôi đâu có nói ra câu ấy. Những gì tôi thốt ra khi đứng trên đó là lời thoại của vai phản diện trong kịch bản do ông trưởng đoàn viết. Chẳng là ông ta muốn thuê tôi đóng vai ác. Người vốn đóng vai đó lại lăn ra ốm nặng, đúng lúc tôi đi ngang qua thì họ đang cuống cuồng tìm người thay.
+
+Vai phản diện là một ma pháp sư đeo mặt nạ, chuyên dùng hắc ma pháp. Nữ diễn viên chính đóng vai cô gái bị gã ma pháp sư bắt cóc làm vật tế, còn anh chàng diễn viên rụt rè nọ lại hóa thân thành hiệp sĩ đầy tự tin lên đường giải cứu cô. Bất ngờ thay, suốt cả bốn ngày công diễn, vở kịch đều được khán giả đón nhận hết sức nồng nhiệt.
+
+Về phần địa điểm thì tôi bàn với Lorraine. Tôi hỏi mượn mảnh đất cô sở hữu ở ngoại vi thị trấn cho đoàn kịch, và cô đồng ý ngay tắp lự, miễn sao được xem diễn. Khâu phông nền sân khấu cũng được cô giải quyết êm xuôi bằng ma pháp ảo ảnh. Sự đa tài của Lorraine khiến cả đoàn kịch cảm kích vô cùng.
+
+"Vậy thì, ta sẽ chìm vào giấc ngủ. Rồi một ngày nào đó điều ấy cũng sẽ đến với ngươi, trong màn đêm sâu thẳm, thật tĩnh lặng. A, ta sẽ đợi ngươi..." tôi thét lên sau khi trúng nhát chém của chàng hiệp sĩ. Đoạn, tôi ngã nhào khỏi rìa sân khấu rồi biến mất dạng.
+
+Lorraine đã đứng đợi tôi ở đó. "Anh diễn xuất cũng ra trò đấy chứ, Rentt," cô bật cười bảo.
+
+"Mấy người này diễn xuất còn ghê gớm hơn cả lũ quái vật. À, nói vậy thôi, chứ họ là một đoàn kịch cừ lắm. Tôi diễn thì làm quá lên, nhưng ai nấy đều có thực tài nên đâu cũng vào đấy." Thậm chí có lúc tôi vấp thoại, họ liền khéo léo đổi lời thoại của mình để người ta tưởng như tôi chẳng hề nói sai. Thật ra vai của tôi ai đóng chẳng được, chẳng qua vẻ ngoài của tôi tình cờ quá hợp vai mà thôi.
+
+"Công nhận họ là một đoàn kịch cừ," Lorraine đồng tình. "Tôi còn đang tính giới thiệu họ cho một người quen bên Đế Quốc đây."
+
+"Cô nên làm vậy đi. Có tài mà bị lãng phí chỉ vì thiếu cơ hội thì tiếc lắm."
+
+"Thế để tôi tính. Mà này, anh đã nghe chuyện bên nhà hát chưa?"
 
 "Hử?"
 
-"Quá nhiều người đã đổ xô đến xem buổi diễn này khiến cho bên đó chẳng có mấy khán giả. Đáng lẽ ra họ nên giữ đúng kế hoạch ban đầu thì hơn."
+"Khán giả đổ xô sang bên này xem đông quá, thành ra bên đó chẳng có mấy người. Đáng lẽ cứ giữ đúng kế hoạch ban đầu thì hơn."
 
-"Ra vậy. Tôi đoán là họ đã phạm phải một sai lầm lớn rồi."
+"Ra vậy. Quả này thì họ tính sai nước cờ rồi."
 
-Lorraine bật cười. "Chà, chuyện này vui đáo để đấy chứ. Lần sau nếu có chuyện gì tương tự thế này thì nhớ bảo tôi nhé."
+Lorraine bật cười. "Cơ mà chuyện này vui đáo để. Lần sau có vụ gì như thế này thì nhớ bảo tôi nhé."
 
-"Mong là sẽ chẳng có lần sau đâu, nhưng tôi sẽ cân nhắc."
+"Mong là đừng có lần sau, cơ mà tôi sẽ cân nhắc."
